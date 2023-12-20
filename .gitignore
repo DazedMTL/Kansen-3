@@ -1,0 +1,21 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ain
+!*.fnl
+!Kansen3_patch.xp3
+!Kansen3_patch/*.ks
+!version.dll
+!.gitignore
+!patch.bat
+!README.md
+!ENCG/*
+
+# Images
+!Kansen3_patch/bg_conf_mes_t.png
