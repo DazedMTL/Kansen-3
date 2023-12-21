@@ -673,7 +673,7 @@ my thing into the entrance.[pcms]
 [fc]
 [vo_yuh s="yuho1071"]
 [ns]Yuuho[nse]
-"Nnnniigh! It hurtsc ughkuu..."[pcms]
+"Nnnniigh! It hurts... ughkuu..."[pcms]
 
 *8388|
 [fc]
@@ -684,7 +684,7 @@ like the walls of flesh that were making a creaking sound were being parted.[pcm
 [fc]
 [vo_yuh s="yuho1072"]
 [ns]Yuuho[nse]
-"Nnaaahiigh! It hurtsc ahhuhuhuh, nnaaahhhc ahhc ahc ahc ahc"[pcms]
+"Nnaaahiigh! It hurts... ahhuhuhuh, nnaaahhh... ahh... ah... ah... ah..."[pcms]
 
 *8390|
 [fc]
@@ -694,7 +694,7 @@ wriggling, they began to cling to my thing.[pcms]
 *8391|
 [fc]
 [ns]Wataru[nse]
-"Yuuhoc does it hurt? Are you okay?"[pcms]
+"Yuuho... does it hurt? Are you okay?"[pcms]
 
 ;[evcg storage="HEV056e10"][trans_c cross time=300]
 [evcg storage="HEV056e4_1"][trans_c cross time=300]
@@ -703,14 +703,15 @@ wriggling, they began to cling to my thing.[pcms]
 [fc]
 [vo_yuh s="yuho1073"]
 [ns]Yuuho[nse]
-"Nnnc yes. Itfs okayc it hurts a little butc Ifm happy with this painc ahh"[pcms]
+"Nnn... yes. Itfs okay... it hurts a little but... Ifm happy with this pain...[r]
+ahh"[pcms]
 
 *8393|
 [fc]
 [vo_yuh s="yuho1074"]
 [ns]Yuuho[nse]
-"Itfs okay becausec Wataru. Nnnahhc itfs tinglingc but Ifm okayc My first time[r]
-being with youc Ifm happyc Wataru..."[pcms]
+"Itfs okay because... Wataru. Nnnahh... itfs tingling... but Ifm okay... My[r]
+first time being with you... Ifm happy... Wataru..."[pcms]
 
 *8394|
 [fc]
@@ -1079,7 +1080,7 @@ I carefully aimed and then slowly pushed my thing into Yuuho.[pcms]
 [fc]
 [vo_yuh s="yuho1097"]
 [ns]Yuuho[nse]
-"Nnnniigh! It hurtsc ughkuu..."[pcms]
+"Nnnniigh! It hurts... ughkuu..."[pcms]
 
 *8445|
 [fc]

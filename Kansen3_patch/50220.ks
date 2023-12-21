@@ -23,7 +23,7 @@
 *1335|
 [fc]
 And finally... as we calmed down, we slowly began to exchange information with[r]
-each other....[pcms]
+each other...[pcms]
 
 ;//〆ＤＪバー（メインドーム）
 [bg storage="BG019a"][trans_c cross time=500]

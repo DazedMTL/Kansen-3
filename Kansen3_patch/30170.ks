@@ -335,16 +335,16 @@ my head.[pcms]
 [fc]
 [vo_mar s="maru0178"]
 [ns]Margarita[nse]
-「もうちょっとで……あぅっ！」[pcms]
+"Just a little more... Ahh!"[pcms]
 
 *1223|
 [fc]
-先輩のアソコの感触に、ドキドキしたあまりに、[r]
-思わず手が滑ってしまう。[pcms]
+The sensation of the senior's pussy made my heart race so much that my hands[r]
+slipped unintentionally.[pcms]
 
 *1224|
 [fc]
-途端、先輩の浮かせた腰が落ちてきた。[pcms]
+At that moment, the senior's lifted hips fell.[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -352,11 +352,11 @@ my head.[pcms]
 *1225|
 [fc]
 [ns]Wataru[nse]
-「えっ？　えぇっ？」[pcms]
+"Eh? Ehh?"[pcms]
 
 *1226|
 [fc]
-一瞬、ボクは自分の身に起きたことがわからなかった。[pcms]
+In an instant, I didn't understand what had happened to me.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -364,30 +364,28 @@ my head.[pcms]
 [fc]
 [vo_ren s="ren0258"]
 [ns]Ren[nse]
-「もう、お兄ちゃんのエッチッ！！」[pcms]
+"Geez, big brother, you're such a pervert!!"[pcms]
 
 *1228|
 [fc]
 [ns]Wataru[nse]
-「エッチって……うわぁあっ！」[pcms]
+"Pervert... whoa!"[pcms]
 
 ;//BG：EV016
 
 *1229|
 [fc]
-先輩の腰が落ちてきた調子で、先輩のスカートの中に、[r]
-思いっきり頭が入り込んでいた。[pcms]
+With the senior's hips falling, my head ended up buried deep inside her skirt.[pcms]
 
 *1230|
 [fc]
-ダイレクトな先輩の太もものスベスベした肌や、[r]
-パンツごしに当たる先輩のアソコの感触が、[r]
-より密着してボクの頭を挟み込んでいる。[pcms]
+The direct sensation of the senior's smooth thighs and the feel of her pussy[r]
+through her panties were now tightly squeezing my head.[pcms]
 
 *1231|
 [fc]
-スカートという一枚の布がないだけなのに、[r]
-なんだろう……このぬくもりの違いは。[pcms]
+There's only a single layer of fabric from the skirt separating us, but what is[r]
+this difference in warmth?[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -395,21 +393,21 @@ my head.[pcms]
 [fc]
 [vo_mar s="maru0179"]
 [ns]Margarita[nse]
-「もう一度行くぞ」[pcms]
+"We're going for another round."[pcms]
 
 *1233|
 [fc]
 [ns]Wataru[nse]
-「は、はいっ！」[pcms]
+"Y-Yes!"[pcms]
 
 *1234|
 [fc]
-速攻で先輩に答えながらも、ドキドキする気持ちは[r]
-抑えきれず、顔がニヤニヤしてしまう。[pcms]
+Even as I quickly responded to the senior, I couldn't suppress the excitement in[r]
+my heart, and my face broke into a grin.[pcms]
 
 *1235|
 [fc]
-先輩のスカートの陰に隠されてるのが救いだろう。[pcms]
+It's a relief that my face is hidden in the shadow of the senior's skirt.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -417,11 +415,11 @@ my head.[pcms]
 [fc]
 [vo_ren s="ren0259"]
 [ns]Ren[nse]
-「むぅ……」[pcms]
+"Mmm..."[pcms]
 
 *1237|
 [fc]
-後ろで漣が、妙な声でうなったのが気にかかったけど……。[pcms]
+I was concerned about the strange moan that came from Ren behind me...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -429,21 +427,21 @@ my head.[pcms]
 [fc]
 [vo_mar s="maru0180"]
 [ns]Margarita[nse]
-「よし、手がかかった。行くぞ」[pcms]
+"Alright, I've got a grip. Let's go."[pcms]
 
 *1239|
 [fc]
-ふいにボクの肩にかかっていた先輩の体重が[r]
-軽くなって、密着した感覚があっという間に薄れてしまう。[pcms]
+Suddenly, the weight of the senior on my shoulders lightened, and the sensation[r]
+of being pressed together faded away in an instant.[pcms]
 
 *1240|
 [fc]
 [ns]Wataru[nse]
-「もう終わりか……」[pcms]
+"Is it over already...?"[pcms]
 
 *1241|
 [fc]
-ボクはため息をつきながら、先輩を屋上へと押し上げた。[pcms]
+I sighed as I pushed the senior up towards the rooftop.[pcms]
 
 ;//♯_フェードアウト
 [sysbt_meswin clear]
@@ -461,28 +459,29 @@ my head.[pcms]
 
 *1242|
 [fc]
-続いて漣が、先輩に引っ張りあげられるようにして[r]
-ボクの肩車から屋上へ上がる。[pcms]
+Following that, Ren was pulled up to the rooftop from my shoulders by the[r]
+senior.[pcms]
 
 *1243|
 [fc]
-そして次にボクがコースケを足場にしながらも[r]
-何とか自力で上がり、一人残ったコースケを引っ張りあげた。[pcms]
+Then, using Kousuke as a foothold, I somehow managed to climb up by myself, and[r]
+finally pulled up Kousuke, who was left behind.[pcms]
 
 *1244|
 [fc]
-ようやく体育館の屋根に全員上がったところで、[r]
-ボクは思わず、その場で寝転びたくなるような脱力感に襲われた。[pcms]
+Once everyone was finally on the roof of the gymnasium, I was suddenly[r]
+overwhelmed with a feeling of exhaustion that made me want to lie down right[r]
+there.[pcms]
 
 *1245|
 [fc]
-特に漣はフラフラで、支えてやらないと今にも屋根から[r]
-滑り落ちてしまいそうだ。[pcms]
+Especially Ren, who was so unsteady that she seemed like she might slide off the[r]
+roof if not supported.[pcms]
 
 *1246|
 [fc]
 [ns]Wataru[nse]
-「大丈夫か？　漣」[pcms]
+"Are you okay, Ren?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -490,18 +489,17 @@ my head.[pcms]
 [fc]
 [vo_ren s="ren0260"]
 [ns]Ren[nse]
-「う、うん……だいじょう…ぶ、だよ？」[pcms]
+"Y-Yeah... I'm fine... I think?"[pcms]
 
 *1248|
 [fc]
 [ns]Wataru[nse]
-「全然大丈夫じゃなさそうな声で言うな。[r]
-　ちょっと飲んでおけ」[pcms]
+"Don't say you're fine in such an unconvincing voice. Have a drink."[pcms]
 
 *1249|
 [fc]
-リュックサックのポケットから取り出した水筒を[r]
-漣の口元へ持っていくと、漣はフルフルと首を横に振った。[pcms]
+When I brought the water bottle out of the backpack pocket to Ren's lips, she[r]
+shook her head from side to side.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -509,13 +507,12 @@ my head.[pcms]
 [fc]
 [vo_ren s="ren0261"]
 [ns]Ren[nse]
-「私は……さっき飲んだから。お兄ちゃんたちの分が、[r]
-　なくなっちゃう」[pcms]
+"I... already had some earlier. There won't be enough left for you guys."[pcms]
 
 *1251|
 [fc]
 [ns]Wataru[nse]
-「だけどお前のほうが先だろ？」[pcms]
+"But you need it more than we do, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -523,12 +520,12 @@ my head.[pcms]
 [fc]
 [vo_ren s="ren0262"]
 [ns]Ren[nse]
-「もう私はさっき、飲んだもん」[pcms]
+"I already had some earlier."[pcms]
 
 *1253|
 [fc]
 [ns]Wataru[nse]
-「しょうがないな。先輩は……」[pcms]
+"Can't be helped. Senpai is..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -536,30 +533,30 @@ my head.[pcms]
 [fc]
 [vo_mar s="maru0181"]
 [ns]Margarita[nse]
-「ワタシの分はある」[pcms]
+"I have my share."[pcms]
 
 *1255|
 [fc]
 [ns]Wataru[nse]
-「それじゃあ、コースケ」[pcms]
+"Then, Kousuke."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1256|
 [fc]
 [ns]Kousuke[nse]
-「サンキュー」[pcms]
+"Thanks."[pcms]
 
 *1257|
 [fc]
-阿吽の呼吸で、コースケはボクが渡した水筒に[r]
-形だけ口をつけて返してくれる。ボクも唇をぬらす程度に[r]
-水筒に口をつけ、そしてまた、漣に回す。[pcms]
+In perfect harmony, Kousuke barely touched his lips to the water bottle I handed[r]
+him before giving it back. I also just moistened my lips with it, and then[r]
+passed it back to Ren.[pcms]
 
 *1258|
 [fc]
 [ns]Wataru[nse]
-「ほら、ボクもコースケも飲んだから、今度は漣の番だ」[pcms]
+"See, both Kousuke and I have drunk, so now it's your turn, Ren."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -567,29 +564,28 @@ my head.[pcms]
 [fc]
 [vo_ren s="ren0263"]
 [ns]Ren[nse]
-「お兄ちゃん……ゴメンね。コーちゃんも」[pcms]
+"Onii-chan... I'm sorry. And you too, Ko-chan."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1260|
 [fc]
 [ns]Kousuke[nse]
-「何が？　ほら、早く飲んじゃえよ」[pcms]
+"What for? Come on, drink up quickly."[pcms]
 
 *1261|
 [fc]
-コースケに促されてうなずくと、漣はゴクゴクと音を立てて、[r]
-解けた分のスポーツドリンクを口にした。[pcms]
+Nodding at Kousuke's urging, Ren took the sports drink that had thawed out and[r]
+gulped it down with audible swallows.[pcms]
 
 *1262|
 [fc]
-それでも、もう肌がだいぶ熱を持ち始めてる。[pcms]
+But still, my skin is starting to feel quite hot.[pcms]
 
 *1263|
 [fc]
 [ns]Wataru[nse]
-「漣、ここからはおぶっていくか？[r]
-　もう少しでゴールだし」[pcms]
+"Ren, should I carry you from here? We're almost at the goal."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -597,24 +593,22 @@ my head.[pcms]
 [fc]
 [vo_ren s="ren0264"]
 [ns]Ren[nse]
-「ううん……い、いいよ。屋根の上で危ないし。[r]
-　それより悠帆ちゃんを助けに行こう？　ねっ？」[pcms]
+"No... it's okay. It's dangerous on the roof. Instead, shall we go help Yuuho-[r]
+chan? Right?"[pcms]
 
 *1265|
 [fc]
 [ns]Wataru[nse]
-「漣……」[pcms]
+"Ren..."[pcms]
 
 *1266|
 [fc]
-自分の体調だって悪くなるばかりだというのに、[r]
-悠帆の心配をしてくれるなんて……。[pcms]
+Even though her own condition is getting worse, she's worried about Yuuho...[pcms]
 
 *1267|
 [fc]
-ボクの幼馴染であると同時に、漣自身の幼馴染でも[r]
-あるんだから当たり前なのかもしれないけれど、[r]
-なんだかとても嬉しかった。[pcms]
+It's natural, I guess, since Yuuho is not only my childhood friend but also[r]
+Ren's. Still, it made me really happy.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -622,23 +616,23 @@ my head.[pcms]
 [fc]
 [vo_ren s="ren0265"]
 [ns]Ren[nse]
-「悠帆ちゃんは……きっとお兄ちゃんを待ってるよ？」[pcms]
+"Yuuho-chan is... surely waiting for her big brother, right?"[pcms]
 
 *1269|
 [fc]
 [ns]Wataru[nse]
-「でも……」[pcms]
+"But..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1270|
 [fc]
 [ns]Kousuke[nse]
-「まったく、しょうがないな」[pcms]
+"Really, can't be helped."[pcms]
 
 *1271|
 [fc]
-ヒョイと漣から水筒を受け取り、ボクに渡すと、[r]
+Effortlessly taking the water bottle from Ren and passing it to me, he said,[r]
 "See, this should be fine, right? Wataru. You go check on Yuuho at the pool[r]
 side."[pcms]
 

@@ -1729,7 +1729,7 @@ anything.[pcms]
 *2128|
 [fc]
 [ns]Wataru[nse]
-"Åc!"[pcms]
+"...!"[pcms]
 
 *2129|
 [fc]

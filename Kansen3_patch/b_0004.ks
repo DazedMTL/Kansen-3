@@ -318,8 +318,7 @@ long time surfaced in my mind.[pcms]
 
 *3302|
 [fc]
-The "somewhere else" I've always dreamed ofa place that would free the petty[r]
-me.[pcms]
+The "somewhere else" I've always dreamed ofa place that would free the petty me.[pcms]
 
 *3303|
 [fc]

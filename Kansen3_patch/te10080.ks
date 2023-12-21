@@ -1928,9 +1928,9 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0237"]
 [ns]Margarita[nse]
-「また、行方がわかったとしてもガス攻撃が始まったら、[r]
-　ワタシたちには現状では追う術がない。だからアイツらが[r]
-　脱出したあとは、どうあがいてもユウホの救出は無理だ」[pcms]
+"Additionally, even if we find out where they are, if the gas attack starts, we[r]
+currently have no means to pursue them. Therefore, once they've escaped, it's[r]
+impossible for us to rescue Yuuho no matter how hard we try."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1938,9 +1938,9 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0238"]
 [ns]Margarita[nse]
-「又、いずれの場合でも、ワタシたちは、最悪ガス攻撃開始の[r]
-　時間までにここに戻れず、セレスタワーに立てこもる。[r]
-　そういうハメになるかもしれない」[pcms]
+"In any case, we might end up in a situation where we can't return here before[r]
+the worst-case scenario of the gas attack starting, and we'll have to barricade[r]
+ourselves in Celesta Tower."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1948,14 +1948,14 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0239"]
 [ns]Margarita[nse]
-「ここはガスに対しての準備を施してあるが、セレスタワーは[r]
-　アイツらが放棄するつもりでいたなら、何も対策が取られて[r]
-　いない可能性も高いだろうな……」[pcms]
+"This place is prepared for a gas attack, but if they intended to abandon[r]
+Celesta Tower, it's highly likely that no countermeasures have been taken[r]
+there..."[pcms]
 
 *764|
 [fc]
 [ns]Wataru[nse]
-「……」[pcms]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1963,9 +1963,9 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0240_1"]
 [ns]Margarita[nse]
-「脱出前にアイツらの根城に到達できたとしよう。この場合[r]
-　間違いなく戦闘になる。ユウホを助け出せるか出せないか、[r]
-　ワタシたちが生きて帰れるのか帰れないのか……」[pcms]
+"Let's say we manage to reach their stronghold before they escape. In this case,[r]
+a battle is inevitable. Whether we can rescue Yuuho or not, whether we can make[r]
+it back alive or not..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1973,15 +1973,16 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0241"]
 [ns]Margarita[nse]
-「それは、未知数だ……。最悪、ユウホも助けられず、[r]
-　ワタシたちも、命を落とすかもしれない」[pcms]
+"That's an unknown... At worst, we might not only fail to save Yuuho but also[r]
+lose our lives."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *767|
 [fc]
 [ns]Kousuke[nse]
-「さっきは、しち面倒くさいこと考えずに、追いかけたのに」[pcms]
+"Earlier, we chased after them without thinking about all these troublesome[r]
+things."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1989,14 +1990,14 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0242"]
 [ns]Margarita[nse]
-「状況が変わったのだ、サイ。情報が付加されて、時間が[r]
-　経過して、負傷者が出て……それによって判断しなければ[r]
-　ならないことが増えたのだ」[pcms]
+"The situation has changed, Sai. Information has been added, time has passed,[r]
+and injuries have occurred... All of this increases the number of things we must[r]
+consider."[pcms]
 
 *769|
 [fc]
 [ns]Wataru[nse]
-「……」[pcms]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2004,8 +2005,8 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0243"]
 [ns]Margarita[nse]
-「話を続ける。２つめ。さっきアイツらは痛手を負った。[r]
-　アイツ自身もセスカに指を吹っ飛ばされたからな」[pcms]
+"Continuing the discussion. Second point. Those guys took a heavy blow earlier.[r]
+One of them even had his fingers blown off by Sesuka."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2013,9 +2014,9 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0244"]
 [ns]Margarita[nse]
-「だから、もしかしたらセレスタワーに立てこもろうとする[r]
-　かもしれない。以前ジンに聴いた話だが、あそこは自家発電の[r]
-　設備があるそうだ。だから電力が生きているはずだ」[pcms]
+"That's why they might try to barricade themselves in Celesta Tower. I heard[r]
+from Jin before that the place has its own power generation facilities, so the[r]
+electricity should be working."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2023,8 +2024,8 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0245"]
 [ns]Margarita[nse]
-「それに、さっきアイツは言っていた。ワタシをダシに[r]
-　レンや久我山もおびき出し、ものにしたいと……」[pcms]
+"Besides, he said something earlier. He wants to use me as bait to lure out Ren[r]
+and Kugayama, and to capture them..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -2032,7 +2033,7 @@ Yuuho."[pcms]
 [fc]
 [vo_ren s="ren_TE0115"]
 [ns]Ren[nse]
-「そ、そんなことを……っ！」[pcms]
+"He said such a thing...!"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -2040,7 +2041,7 @@ Yuuho."[pcms]
 [fc]
 [vo_miz s="mizuki_TE0032"]
 [ns]Mizuki[nse]
-「あの……げすヤロウ……」[pcms]
+"That... scumbag..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2048,9 +2049,9 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0246"]
 [ns]Margarita[nse]
-「事実なんだ。アイツはそう言っていた。だから[r]
-　その執着のままに、手に入れるまで立てこもろうと考える[r]
-　可能性もある」[pcms]
+"It's true. That's what he said. So there's a possibility that they might decide[r]
+to barricade themselves until they get what they want, driven by their[r]
+obsession."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2058,9 +2059,8 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0247"]
 [ns]Margarita[nse]
-「だが、脱出せずに、立てこもってくれれば、これから[r]
-　セレスタワーに向かっても、ユウホを確実に見つける[r]
-　ことができるだろう」[pcms]
+"However, if they don't escape and decide to barricade themselves, then if we[r]
+head to Celesta Tower now, we'll definitely be able to find Yuuho."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2068,8 +2068,8 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0248_1"]
 [ns]Margarita[nse]
-「もちろん、この場合戦闘になるから救出の可否、[r]
-　ワタシたちの生死は、未知数のままだ……」[pcms]
+"Of course, in this case, it will lead to combat, so whether we can rescue Yuuho[r]
+or not, and whether we survive or not, remains an unknown..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2077,26 +2077,25 @@ Yuuho."[pcms]
 [fc]
 [vo_mar s="maru_TE0249"]
 [ns]Margarita[nse]
-「そして……３つめ。ワタシたちはユウホをあきらめ……[r]
-　救出にも行かず……ガス攻撃をやりすごすために、[r]
-　ここに立てこもる……」[pcms]
+"And... the third option. We give up on Yuuho... We don't go for the rescue...[r]
+And to survive the gas attack, we barricade ourselves here..."[pcms]
 ;//○言いたくなかったといった雰囲気で。
 
 *779|
 [fc]
 [ns]Wataru[nse]
-「……っ！！」[pcms]
+"...!!"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *780|
 [fc]
 [ns]Kousuke[nse]
-「マル子先輩っ！　何をっ！」[pcms]
+"Maruko-senpai! What are you saying!"[pcms]
 
 *781|
 [fc]
-コースケの言葉を遮るように、セスカさんが話し出した。[pcms]
+Interrupting Kousuke's words, Sesuka-san began to speak.[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c3"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
@@ -2104,9 +2103,9 @@ Yuuho."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0022"]
 [ns]Sesuka[nse]
-「ガス攻撃は夜明けと供に開始されます。夜明けと供に[r]
-　ガスを詰んだ航空機が発進し、東京を目指し、到着し[r]
-　次第、すぐ攻撃を開始します」[pcms]
+"The gas attack will commence at dawn. Aircraft loaded with gas will take off at[r]
+dawn, head towards Tokyo, and as soon as they arrive, the attack will begin[r]
+immediately."[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c3"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
@@ -2114,9 +2113,8 @@ Yuuho."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0023"]
 [ns]Sesuka[nse]
-「天候次第では攻撃は早まる可能性もあります。この先[r]
-　どう行動するのか。時間がありません。いずれにしても[r]
-　早く決めなくてはならないんです」[pcms]
+"Depending on the weather, the attack could start earlier. We don't have much[r]
+time to decide our next move. We must make a decision quickly, regardless."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -2138,82 +2136,76 @@ Yuuho."[pcms]
 
 *784|
 [fc]
-ボクはほんの少し前まで、疎外感を感じていた。[r]
-なんとなく馴染めない街。何の取り柄もないボク。[pcms]
+Up until just a little while ago, I felt a sense of alienation. This city where[r]
+I somehow couldn't fit in. Me, with nothing special about me.[pcms]
 
 *785|
 [fc]
-才能を見せつける友人達に囲まれながら、賑やかに人が[r]
-行き交う街に暮らしながら、ここは本当はボクが[r]
-いる場所じゃない。[pcms]
+Surrounded by friends who flaunt their talents, living in a bustling city where[r]
+people come and go, I thought this wasn't really the place for me.[pcms]
 
 *786|
 [fc]
-どこかに本当の居場所があって、そこでは本当の自分で[r]
-暮らせるはずだと考えていた。[pcms]
+I believed there was a real place for me somewhere, where I could live as my[r]
+true self.[pcms]
 
 *787|
 [fc]
-此処ではない何処か。今の自分じゃない本当の自分。[pcms]
+Not here, somewhere else. The real me, not the current me.[pcms]
 
 *788|
 [fc]
-そんな事を考えながら、それでも特に何かをする訳でも[r]
-なく、流されるように、唯一の本当のボクに繋がりそうな[r]
-天文に没頭して、でも何となく、生きてきていたんだ。[pcms]
+Thinking such things, yet without particularly doing anything about it, I was[r]
+just going with the flow, immersing myself in astronomy which seemed like the[r]
+only thing connected to the real me, but somehow, I had been living like that.[pcms]
 
 *789|
 [fc]
-『今の航の気持ち、全部わたしの中に』[r]
-夕べ悠帆は、そう言いながら、その瞳にボクだけを[r]
-映してくれていた。[pcms]
+"All of Wataru's feelings are inside me," Yuuho said last night, while her eyes[r]
+reflected only me.[pcms]
 
 *790|
 [fc]
-今のボクの気持ち。やっと手に入れたボクの輝く星、悠帆。[r]
-夕べ、大好きな星空が色あせて見えても、ボクは全然気に[r]
-ならなかった。悠帆がボクを受け入れてくれていたから。[pcms]
+My current feelings. Yuuho, my shining star that I finally obtained. Even though[r]
+the beloved starry sky seemed faded last night, I didn't mind at all because[r]
+Yuuho had accepted me.[pcms]
 
 *791|
 [fc]
-悠帆は、今の自分をそのまま受け入れ受けとめ、[r]
-応えてくれたんだ。[pcms]
+Yuuho accepted me as I am now, and responded to that.[pcms]
 
 *792|
 [fc]
-ボクは何をした。悠帆にボクは告白をしたんだ。[r]
-今の自分は、本当の自分じゃないのか？[r]
-悠帆に告白したのは今の自分じゃないのか？[pcms]
+What did I do? I confessed to Yuuho. Is the current me not the real me? Was it[r]
+not the current me who confessed to Yuuho?[pcms]
 
 *793|
 [fc]
-違う。ボクは間違っていた。今の自分を否定したって、[r]
-本当の自分なんか見いだせないんだ。[pcms]
+No, I was wrong. Denying my current self won't help me find my true self.[pcms]
 
 *794|
 [fc]
-本当の自分を見つけたいなら今の自分を認めてその上で[r]
-本当の自分を見つけに行動しなくちゃいけなかったんだ。[pcms]
+If I want to find my true self, I need to acknowledge who I am now and then take[r]
+action to discover my true self.[pcms]
 
 *795|
 [fc]
-此処ではない何処か。それだって、現状を認めて、その上で[r]
-理想の場所を求めて行動を起こさなくちゃいけなかったんだ。[pcms]
+Not here, somewhere else. Even for that, I had to acknowledge my current[r]
+situation and then take action to seek out the ideal place.[pcms]
 
 *796|
 [fc]
-ボクはただ弱い自分から、目を背けて逃げ続けていただけ[r]
-だったんだ。[pcms]
+I was just running away, avoiding facing my own weakness.[pcms]
 
 *797|
 [fc]
-ボクはこのまま悠帆を失いたくなんかない。[r]
-やっと手に入れた星をむざむざ逃がしたくない。[pcms]
+I don't want to lose Yuuho as I am now. I don't want to let go of the star I've[r]
+finally obtained.[pcms]
 
 *798|
 [fc]
-だからその為には、何の取り柄もないボクをしっかりと認めて[r]
-ボクができる事を、今、できる事をしなくちゃいけないんだ。[pcms]
+So for that reason, I have to firmly acknowledge myself, even if I have no[r]
+special talents, and do what I can, what I'm able to do now.[pcms]
 
 ;//〆ラベル：合流へ
 [jump storage="TE10080.ks" target=*TE10080_04]
@@ -2224,65 +2216,62 @@ Yuuho."[pcms]
 
 *799|
 [fc]
-ボクはほんの少し前まで、疎外感を感じていた。[r]
-なんとなく馴染めない街。何の取り柄もないボク。[pcms]
+Up until just a little while ago, I felt a sense of alienation. This city where[r]
+I somehow couldn't fit in. Me, with nothing special about me.[pcms]
 
 *800|
 [fc]
-才能を見せつける友人達に囲まれながら、賑やかに人が[r]
-行き交う街に暮らしながら、ここは本当はボクが[r]
-いる場所じゃない。[pcms]
+Surrounded by friends who flaunt their talents, living in a bustling city where[r]
+people come and go, I thought this wasn't really the place for me.[pcms]
 
 *801|
 [fc]
-どこかに本当の居場所があって、そこでは本当の自分で[r]
-暮らせるはずだと考えていた。[pcms]
+I thought there must be a true place for me somewhere, where I could live as my[r]
+true self.[pcms]
 
 *802|
 [fc]
-此処ではない何処か。今の自分じゃない本当の自分。[pcms]
+Not here, somewhere else. Not the current me, but my true self.[pcms]
 
 *803|
 [fc]
-そんな事を考えながら、それでも特に何かをする訳でも[r]
-なく、流されるように、唯一の本当のボクに繋がりそうな[r]
-天文に没頭して、でも何となく、生きてきていたんだ。[pcms]
+While thinking such things, I didn't particularly do anything, just drifted[r]
+along, immersing myself in astronomy which seemed to be my only true connection,[r]
+and somehow, I've lived like that.[pcms]
 
 *804|
 [fc]
-『お兄ちゃんはいつだって強くて優しかった』[r]
-『男としての強さってケンカが強い事じゃないよね。[r]
-　守るために耐えられる精神力のほうが、ずっと』[pcms]
+"Big brother was always strong and kind." "The strength of a man isn't about[r]
+being good at fighting, right? It's more about the mental strength to endure for[r]
+the sake of protecting."[pcms]
 
 *805|
 [fc]
-夕べボクは漣の告白を受けとめ、そして漣にボクの本当の[r]
-気持ちを告白した。[pcms]
+Last night, I accepted Ren's confession, and then I confessed my true feelings[r]
+to Ren.[pcms]
 
 *806|
 [fc]
-本当の気持ち……今の自分が本当の自分じゃないのなら、[r]
-漣に告げた本当の気持ちは、偽りだったのか。[pcms]
+True feelings... If the current me isn't the real me, then were the true[r]
+feelings I confessed to Ren a lie?[pcms]
 
 *807|
 [fc]
-違う。ボクは間違っていた。今の自分を否定したって、[r]
-本当の自分なんか見いだせないんだ。[pcms]
+No, I was wrong. Denying my current self won't help me find my true self.[pcms]
 
 *808|
 [fc]
-本当の自分を見つけたいなら今の自分を認めてその上で[r]
-本当の自分を見つけに行動しなくちゃいけなかったんだ。[pcms]
+If I want to find my true self, I need to acknowledge who I am now and then take[r]
+action to discover my true self.[pcms]
 
 *809|
 [fc]
-此処ではない何処か。それだって、現状を認めて、その上で[r]
-理想の場所を求めて行動を起こさなくちゃいけなかったんだ。[pcms]
+Not here, somewhere else. Even for that, I had to acknowledge my current[r]
+situation and then take action to seek out the ideal place.[pcms]
 
 *810|
 [fc]
-ボクはただ弱い自分から、目を背けて逃げ続けていただけ[r]
-だったんだ。[pcms]
+I was just running away, avoiding facing my own weakness.[pcms]
 
 *811|
 [fc]
@@ -3169,7 +3158,7 @@ Ayase. 'Put some spirit into it.' Those were the words Jin left for Ayase."[pcms
 *924|
 [fc]
 [ns]Wataru[nse]
-"…!"[pcms]
+"...!"[pcms]
 
 *925|
 [fc]

@@ -19,24 +19,22 @@
 *3130|
 [fc]
 [ns]Wataru[nse]
-「安っぽいけど、自分は自分でいる、って事、なのかな……」[pcms]
+"It might sound cheap, but maybe it's about being true to oneself..."[pcms]
 
 *3131|
 [fc]
-だけど、それは『自分』が何なのか、わかってるって事。[r]
-ボクは、そこまで言い切るほど、自分の事、[r]
-わかってるとは言い切れない。[pcms]
+"But that assumes you know what 'yourself' is. I can't say for certain that I[r]
+understand myself that well."[pcms]
 
 *3132|
 [fc]
-壬は、銃を持っている。[r]
-だけど、それを使って好き勝手暴れたりしないし、[r]
-割と協力的だ。[pcms]
+Jin is armed with a gun. But he doesn't go on a rampage with it, and he's quite[r]
+cooperative.[pcms]
 
 *3133|
 [fc]
-つまり、彼自身が『そうしたいから』なのかな。[r]
-だとしたら、やっぱり根はいい人なんだろうな……。[pcms]
+"So maybe it's because he himself wants to be that way. If that's the case,[r]
+maybe he's fundamentally a good person..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -44,84 +42,78 @@
 [fc]
 [vo_mar s="maru1627"]
 [ns]Margarita[nse]
-「救済……救い、か。[r]
-　そうだとしても、同意はできないな」[pcms]
+"Salvation... redemption, huh. Even so, I can't agree with it."[pcms]
 
 *3135|
 [fc]
-苦いものを噛んでしまったような顔で、先輩が呟く。[pcms]
+With a face like she had tasted something bitter, the senior muttered.[pcms]
 
 *3136|
 [fc]
 [ns]Wataru[nse]
-「……ボクも、そう思います」[pcms]
+"...I feel the same way."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3137|
 [fc]
-壬の言うことは面白い、とは思う。[r]
-だけとやっぱり極論っていうか……言葉遊びっていうか、[r]
-ボクたちが今、感じていることとは合わない気がした。[pcms]
+I find Jin's words interesting, but still, they seem too extreme... or like[r]
+wordplay, and they don't seem to fit with what we're feeling right now.[pcms]
 
 *3138|
 [fc]
 [ns]Wataru[nse]
-「ボクは無宗教だから終末思想とか、そう言うのは[r]
-　よくわからないけど……今起きてる事は、やっぱり[r]
-　納得できないよ」[pcms]
+"I'm not religious, so I don't really understand things like eschatology... but[r]
+I still can't accept what's happening right now."[pcms]
 
 *3139|
 [fc]
 [ns]Wataru[nse]
-「なんで東京で……この渋谷で始まらなくちゃならないのか。[r]
-　学園のみんなや、家族……。[r]
-　そりゃ、全部がいいことばっかりじゃなかったけど……」[pcms]
+"Why does it have to start here in Tokyo... in Shibuya? The students at school,[r]
+our families... Sure, not everything was perfect, but..."[pcms]
 
 *3140|
 [fc]
 [ns]Wataru[nse]
-「いくら天罰とか、神様の仕業とか言っても、[r]
-　こんな目に遭わされる理由にはならないし……。もっと他に、[r]
-　償うべき人がいるはずですよ……」[pcms]
+"No matter how much they talk about divine punishment or the work of God, it[r]
+doesn't justify us suffering like this... There must be others who should be[r]
+atoning..."[pcms]
 
 *3141|
 [fc]
-そう……。[r]
-学園の仲間たちやマスターたち……、[r]
-あんないい人たちが真っ先に罰を受けるなんて、おかしい！[pcms]
+"That's right... Our friends at school, the masters... It's strange that such[r]
+good people would be the first to be punished!"[pcms]
 
 *3142|
 [fc]
 [ns]Wataru[nse]
-「ボクが……ボク達が無事に生き延びたら、[r]
-　その人達……償うべき人達を見つけ出して、二度とこんな事が[r]
-　起きないようにするんだ！」[pcms]
+"If I... if we survive this, we'll find those people... the ones who should be[r]
+atoning, and make sure something like this never happens again!"[pcms]
 
 *3143|
 [fc]
 [ns]Wataru[nse]
-「そうしないと、母さん……そう、前の時に犠牲になった人達や、[r]
-　今回助からなかった人……感染してしまって、外を彷徨ってる[r]
-　人達も、浮かばれないですよ……」[pcms]
+"If we don't, mom... yes, the people who were sacrificed before, those who[r]
+didn't make it this time... those who got infected and are wandering outside,[r]
+they won't be able to rest in peace..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3144|
 [fc]
-そこまで一気に喋ってから、[r]
-少し驚いたように見つめるマル子先輩の視線に気がついた。[pcms]
+After speaking so passionately, I noticed Maruko-senpai looking at me with a bit[r]
+of surprise.[pcms]
 
 *3145|
 [fc]
 [ns]Wataru[nse]
-「あ、すいません。先輩に怒っても仕方ないですよね……」[pcms]
+"Ah, sorry. It's not like getting angry at you will solve anything, senpai..."[pcms]
 
 *3146|
 [fc]
-抑えたつもりだったけど、なんか力説しちゃったな……。[r]
-こんなに自分の考えばかり喋っちゃうなんて照れくさい……。[pcms]
+I meant to keep it under control, but I ended up speaking so forcefully... It's[r]
+embarrassing to talk so much about my own thoughts...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -129,11 +121,11 @@
 [fc]
 [vo_mar s="maru1628"]
 [ns]Margarita[nse]
-「いや、気にするな」[pcms]
+"No, don't worry about it."[pcms]
 
 *3148|
 [fc]
-先輩はふっと笑みのようなものを作って、ボクを慰めてくれる。[pcms]
+Senpai gave me a comforting smile that seemed almost like a chuckle.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -141,22 +133,19 @@
 [fc]
 [vo_mar s="maru1629"]
 [ns]Margarita[nse]
-「というよりも礼を言わなくてはならないな。[r]
-　……ありがとう。[r]
-　おかげでワタシも少しは考えがまとまりそうだ」[pcms]
+"Rather, I should be the one thanking you... Thank you. Your words have helped[r]
+me organize my thoughts a bit."[pcms]
 
 *3150|
 [fc]
 [vo_mar s="maru1630"]
 [ns]Margarita[nse]
-「まずは生き延びよう。[r]
-　原因が人災であれ、[ruby text="しゅ"]主の御意志であれ、[r]
-　それを考えるのは、その後で良い」[pcms]
+"First, let's survive. Whether the cause is a human disaster or the will of the[r]
+Lord, we can think about that later."[pcms]
 
 *3151|
 [fc]
-しばし言葉を切った先輩は、[r]
-不意に真顔になって、ボクを見た。[pcms]
+After a brief pause, senpai suddenly became serious and looked at me.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -164,31 +153,30 @@
 [fc]
 [vo_mar s="maru1631"]
 [ns]Margarita[nse]
-「……そうだ。君はもうカンナギに告白したのか？」[pcms]
+"...Right. Have you confessed to Kannagi yet?"[pcms]
 
 *3153|
 [fc]
 [ns]Wataru[nse]
-「なっ……」[pcms]
+"Wha..."[pcms]
 
 *3154|
 [fc]
-い、い、いきなり何を言い出すかと思ったら！[r]
-っていうか、どうして先輩までがボクの気持ちを！？[pcms]
+What's with this sudden question?! And why does senpai even know about my[r]
+feelings!?[pcms]
 
 *3155|
 [fc]
-彦ちんといい先輩といい……、[r]
-もしかして……この分だと、全員にバレてるとか……？[pcms]
+Between Tadahiko and senpai... could it be... that everyone knows by now...?[pcms]
 
 *3156|
 [fc]
 [ns]Wataru[nse]
-「ま、まだ……です……」[pcms]
+"No, not yet..."[pcms]
 
 *3157|
 [fc]
-表面上の冷静さを何とか取り繕ってボクはボソボソと答える。[pcms]
+I managed to maintain a semblance of calm on the surface as I mumbled my reply.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -196,12 +184,12 @@
 [fc]
 [vo_mar s="maru1632"]
 [ns]Margarita[nse]
-「やっぱり、まだなのか……」[pcms]
+"I see, not yet..."[pcms]
 
 *3159|
 [fc]
-やっぱりって何ですか。その「やっぱり」って。[r]
-ボクがヘタレでコクれないところまで、お見通しですか！？[pcms]
+What do you mean 'I see'? That 'I see'... Can you see right through me, to the[r]
+fact that I'm too chicken to confess!?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -209,32 +197,31 @@
 [fc]
 [vo_mar s="maru1633"]
 [ns]Margarita[nse]
-「お前は、不思議なヤツだな」[pcms]
+"You are a strange one, aren't you?"[pcms]
 
 *3161|
 [fc]
-ボクの内心の動揺に気付いてるのかどうか、[r]
-先輩は唇を軽い笑みの形にして、続ける。[pcms]
+Whether she's noticed my inner turmoil or not, senpai shapes her lips into a[r]
+light smile and continues.[pcms]
 
 *3162|
 [fc]
 [vo_mar s="maru1634"]
 [ns]Margarita[nse]
-「命がけで行動したり、[r]
-　感情があふれそうなくらい、力を入れて話したり。[r]
-　そのくせ、どこか頼りないというか……」[pcms]
+"You act with such determination, as if your life depends on it, and you speak[r]
+with so much passion that it seems your emotions might overflow. Yet, there's[r]
+something unreliable about you..."[pcms]
 
 *3163|
 [fc]
 [vo_mar s="maru1635"]
 [ns]Margarita[nse]
-「興味ぶかいよ」[pcms]
+"It's quite intriguing."[pcms]
 ;//＠半笑いで
 
 *3164|
 [fc]
-なんかフクザツです……。[r]
-それ……褒められてるんでしょうか。[pcms]
+It's complicated... Is that... a compliment?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -242,29 +229,28 @@
 [fc]
 [vo_mar s="maru1636"]
 [ns]Margarita[nse]
-「この先は何が起きるかわからないし、今なら……そうだな、[r]
-　告白しても、悪い結果にはならないと思うぞ」[pcms]
+"We don't know what will happen next, and now might be... yes, I think if you[r]
+confess now, it won't turn out badly."[pcms]
 
 *3166|
 [fc]
-うっ……、とボクはまた言葉に詰まる。[pcms]
+I choke up again...[pcms]
 
 *3167|
 [fc]
-さっきのキッチンでのことを考えれば、[r]
-もしかしたら……って自分でも期待してしまうけど。[pcms]
+Considering what happened in the kitchen earlier, I might even start to hope...[r]
+maybe...[pcms]
 
 *3168|
 [fc]
-でも何故そこまで先輩が読みきっているのか不思議だ。[r]
-千里眼なのかとさえ思えてきた……。[pcms]
+But it's strange how senpai seems to have read the situation so thoroughly. I[r]
+even start to wonder if she has clairvoyance...[pcms]
 
 *3169|
 [fc]
 [ns]Wataru[nse]
-「うーん……でも、ほら……、吊り橋効果、でしたっけ。[r]
-　こんな状況で告白するのって、ほら……。[r]
-　なんかズルしたみたいな感じが……」[pcms]
+"Well... but, you know... the suspension bridge effect, was it? Confessing in a[r]
+situation like this, well... It feels a bit like cheating..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -272,22 +258,22 @@
 [fc]
 [vo_mar s="maru1637"]
 [ns]Margarita[nse]
-「ワタルは、マジメだな」[pcms]
+"Wataru, you're so earnest."[pcms]
 ;//＠笑いを含んでいる
 
 *3171|
 [fc]
-今度は少し声を立てて、マル子先輩が笑った。[pcms]
+Maruko-senpai laughed a little louder this time.[pcms]
 
 *3172|
 [fc]
-あぁ……、先輩ってこんな顔して笑うんだ。[r]
-こういう楽しそうな笑顔は初めて見たような気がする。[pcms]
+Ah... so senpai can laugh like this. It feels like this is the first time I've[r]
+seen such a happy smile from her.[pcms]
 
 *3173|
 [fc]
-笑ってる顔はまるで普通の女の子みたいで、[r]
-そういう局面でもないのに、ボクは妙にドキドキしてしまう。[pcms]
+Her laughing face looks just like any other girl's, and even though it's not[r]
+that kind of situation, my heart strangely starts to race.[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢Ａ１
@@ -296,7 +282,7 @@
 
 
 ;	[link storage="50530.ks" target=*50530_01]先輩に恋人は？[endlink]
-;	[link storage="50530.ks" target=*50530_02]そろそろ休みましょう[endlink][s]
+; (link storage="50530.ks" target=*50530_02)Let's take a break soon(endlink)[pcms]
 
 *SEL48|先輩に恋人は？／そろそろ休みましょう
 [fc]
@@ -342,27 +328,26 @@
 
 *3174|
 [fc]
-これだけキレイな人なら、恋人くらい、いるんだろうな。[r]
-その恋人にだけは、今みたいな笑顔、見せるんだろうな……。[pcms]
+If she's this beautiful, she must have a boyfriend, right? She probably shows[r]
+that boyfriend the same smile she showed me just now...[pcms]
 
 *3175|
 [fc]
-でも……、どんな人なんだろう。気になるな……。[pcms]
+But... I wonder what kind of person he is. It's bothering me...[pcms]
 
 *3176|
 [fc]
-普段ならこんなこと聞けない（そんな度胸はない）けど、[r]
-今の先輩だったら、答えてくれそうな気がして……。[pcms]
+Normally, I wouldn't have the courage to ask such a thing, but with senpai as[r]
+she is now, I feel like she might answer...[pcms]
 
 *3177|
 [fc]
 [ns]Wataru[nse]
-「先輩こそ……。恋人はいないんですか？」[pcms]
+"What about you, senpai... Do you have a boyfriend?"[pcms]
 
 *3178|
 [fc]
-問いかけた瞬間、[r]
-"No, I don't have one..."[pcms]
+The moment I asked, "No, I don't have one..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 

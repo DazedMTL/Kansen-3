@@ -36,66 +36,63 @@
 
 *464|
 [fc]
-天文学部の打ち合わせ……のはずが、[r]
-ボクは気が付くと居眠りをしていた。[pcms]
+I was supposed to be at a meeting for the Astronomy Club... but before I knew[r]
+it, I had fallen asleep.[pcms]
 
 *465|
 [fc]
-特に寝不足とか疲れていたわけではない。[r]
-だから、自分でもどうしてこんな風に、[r]
-眠ってしまったのか不思議だった。[pcms]
+I wasn't particularly sleep-deprived or tired. So, it was a mystery to me why I[r]
+had fallen asleep like that.[pcms]
 
 *466|
 [fc]
-でも、それ以上に不可解だったのは、その夢の内容だ。[r]
-最初は綺麗な満天の星空を眺めて……。[pcms]
+But what was even more puzzling was the content of that dream. At first, I was[r]
+gazing at a beautiful star-filled night sky...[pcms]
 
 *467|
 [fc]
-ある意味で天文学部らしいというか、[r]
-ロマンチックな光景だったけど。[pcms]
+In a way, it was fitting for the Astronomy Club, or you could say, a romantic[r]
+scene.[pcms]
 
 *468|
 [fc]
-問題はその後半だ。最初の天文学部の打ち合わせ中の[r]
-居眠りに相応しい夢に対して、後半のこの不気味さは[r]
-一体なんだったんだろう。[pcms]
+The problem was the latter half. Compared to the dream appropriate for dozing[r]
+off during an Astronomy Club meeting, what was with the eeriness of the latter[r]
+half?[pcms]
 
 *469|
 [fc]
-悠帆のあの不気味な姿。それはまるでホラー映画に[r]
-出てくるような……。[pcms]
+Yuuho's creepy figure. It was like something out of a horror movie...[pcms]
 
 *470|
 [fc]
-全身ににじみ出る汗の感触に身震いしながら、混乱した[r]
-思考で夢の光景を振り返りながら整理していく。[pcms]
+Shivering from the sensation of sweat oozing all over my body, I tried to[r]
+organize the scenes from the dream with my confused thoughts.[pcms]
 
 *471|
 [fc]
 [ns]Wataru[nse]
-「まだ、寝ぼけているのかな……」[pcms]
+"Maybe I'm still groggy from sleep..."[pcms]
 
 *472|
 [fc]
-とりとめのないことを考えたり、意味もなく居眠り中の[r]
-夢が気になったり。[pcms]
+Thinking about random things, or being inexplicably concerned about the dream I[r]
+had while napping.[pcms]
 
 *473|
 [fc]
-夢の内容なんて大抵は矛盾していたり、[r]
-とりとめなかったり、[r]
-無意味だったり、そんな朧げで曖昧なものだ。[pcms]
+The content of dreams is often contradictory, incoherent, meaningless, such[r]
+vague and ambiguous things.[pcms]
 
 *474|
 [fc]
-だけどボクはどうしても今見た夢が特別というか、[r]
-特殊というか、気になってしょうがなかった。[pcms]
+But I just couldn't shake the feeling that the dream I had was special, or[r]
+rather, peculiar, and it bothered me a lot.[pcms]
 
 *475|
 [fc]
-だから蒸し暑い空気の中で、汗まみれになりながら、[r]
-それでもあれこれと考えてしまって……。[pcms]
+So, in the midst of the muggy air, drenched in sweat, I still found myself[r]
+thinking about this and that...[pcms]
 
 ;//吉野1
 [ChrSetEx layer=1 chbase="yoshino_b"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
@@ -104,23 +101,21 @@
 [fc]
 [vo_mob s="yoshino0001"]
 [ns]？？？[nse]
-「ちょっと、航クン話聞いてる？」[pcms]
+"Hey, Wataru-kun, are you listening to me?"[pcms]
 
 *477|
 [fc]
-ついにはこうして名指しで怒られてしまう始末だった。[pcms]
+In the end, I was scolded by name like this.[pcms]
 
 *478|
 [fc]
 [ns]Wataru[nse]
-「あっ、あれ？　吉野……？[r]
-　ああー……うん……ごめん。聞いてなかった」[pcms]
+"Ah, huh? Yoshino...? Ah-...yeah...sorry. I wasn't listening."[pcms]
 
 *479|
 [fc]
-気の利いた嘘で取り繕って誤魔化すこともできないくらい[r]
-ボクの頭は朦朧としていて、まるで相手を挑発するような[r]
-返事しかできなかった。[pcms]
+I was so groggy that I couldn't even come up with a clever lie to cover it up;[r]
+my response was almost provocative.[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_b"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -128,18 +123,17 @@
 [fc]
 [vo_mob s="yoshino0002"]
 [ns]Yoshino[nse]
-「もう、いい加減にしてよね。[r]
-　言い出しっぺの癖に……」[pcms]
+"Come on, cut it out already. You're the one who started this..."[pcms]
 
 *481|
 [fc]
 [ns]Wataru[nse]
-「うん、居眠りしてたみたいなんだ。ごめんね」[pcms]
+"Yeah, it seems like I fell asleep. Sorry."[pcms]
 
 *482|
 [fc]
-ボクは馬鹿正直にありのままを話して謝罪した。[r]
-そんな言葉に呆れたように、吉野はため息をひとつこぼした。[pcms]
+I honestly told her the truth and apologized. Yoshino sighed as if exasperated[r]
+by my words.[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_a"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -147,44 +141,42 @@
 [fc]
 [vo_mob s="yoshino0003"]
 [ns]Yoshino[nse]
-「発起人の癖に居眠りって……」[pcms]
+"Falling asleep when you're the one who initiated this..."[pcms]
 
 *484|
 [fc]
 [ns]Wataru[nse]
-「ほんとごめん」[pcms]
+"Really, I'm sorry."[pcms]
 
 *485|
 [fc]
-吉野が呆れるのも当然だけど、居眠りしちゃったものは[r]
-どうしようもないし、[r]
-ボクは夢の事が気にかかってしまって……。[pcms]
+It's only natural for Yoshino to be exasperated, but there's nothing I can do[r]
+about having fallen asleep, and I just can't stop thinking about that dream...[pcms]
 
 *486|
 [fc]
-でも、流石にこれ以上打ち合わせを放置して、[r]
-夢についての回顧に打ち込むわけにはいかない。[pcms]
+But, of course, I can't just neglect the meeting any further and immerse myself[r]
+in reminiscing about the dream.[pcms]
 
 *487|
 [fc]
-天文学部に所属しているボクは、今回の夏休みを利用して[r]
-部活動の一環でキャンプに行こうと提案した発起人なんだ。[pcms]
+As a member of the Astronomy Club, I was the one who suggested we go camping[r]
+during this summer vacation as part of our club activities.[pcms]
 
 *488|
 [fc]
-今はその打ち合わせの真っ最中であり、皆はその為に[r]
-時間を割いて集まっている。[pcms]
+Right now, we're in the middle of that meeting, and everyone has taken time out[r]
+of their schedules to gather here.[pcms]
 
 *489|
 [fc]
-なのに途中で居眠りしていたなんて、それだけでも[r]
-噴飯ものだし、さらに夢が気になるからなんて口が裂けても[r]
-言えるわけもなかった。[pcms]
+And yet, to have fallen asleep in the middle of it is laughable enough, but to[r]
+say I'm preoccupied with a dream is something I could never utter.[pcms]
 
 *490|
 [fc]
 [ns]Wataru[nse]
-「えっと、それで……」[pcms]
+"So, um..."[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_b"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -192,17 +184,17 @@
 [fc]
 [vo_mob s="yoshino0004"]
 [ns]Yoshino[nse]
-「もう全部決まったけど？」[pcms]
+"Everything's already been decided, you know?"[pcms]
 
 *492|
 [fc]
 [ns]Wataru[nse]
-「えっ、ま、まじで？」[pcms]
+"Eh, seriously?"[pcms]
 
 *493|
 [fc]
-気を取り直して真面目に打ち合わせに……なんて思ったら[r]
-今度はボクが肩透かしを食らった。[pcms]
+Just when I thought I'd pull myself together and focus on the meeting... I was[r]
+the one caught off guard this time.[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_a"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -210,24 +202,23 @@
 [fc]
 [vo_mob s="yoshino0005"]
 [ns]Yoshino[nse]
-「はい、これが詳細」[pcms]
+"Yes, here are the details."[pcms]
 
 *495|
 [fc]
-吉野は手書きのメモ用紙をボクの目の前に突きつけてきた。[pcms]
+Yoshino thrust a handwritten note in front of my eyes.[pcms]
 
 [chara_int][trans_c cross time=150]
 ;//〆：メモ
 
 *495a|
 [fc]
-キャンプ出発日時が８月の１９日。[r]
-午前８時に集合。[pcms]
+The departure date for the camp is August 19th. We're meeting at 8 AM.[pcms]
 
 *496|
 [fc]
 [ns]Wataru[nse]
-「本当だ……全部決まってる」[pcms]
+"It's true... everything's been decided."[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_b"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -235,55 +226,54 @@
 [fc]
 [vo_mob s="yoshino0006"]
 [ns]Yoshino[nse]
-「最初からずっと寝てたの？」[pcms]
+"Have you been asleep from the start?"[pcms]
 
 *498|
 [fc]
 [ns]Wataru[nse]
-「う、うん……寝てたみたい」[pcms]
+"Yeah, it seems like I was asleep."[pcms]
 
 *499|
 [fc]
-曖昧な記憶を慌ててさかのぼってみたけど、[r]
-やっぱり打ち合わせの記憶は皆無だった。[pcms]
+I frantically tried to recall any vague memories, but as expected, I had no[r]
+recollection of the meeting at all.[pcms]
 
 *500|
 [fc]
-いつの間に眠ったのかすらよく分からないなんて、[r]
-我ながら情けない話だ。[pcms]
+It's a pitiful story that I don't even know when I fell asleep.[pcms]
 
 *501|
 [fc]
 [ns]Wataru[nse]
-「だめだ、全然覚えてないや」[pcms]
+"No good, I can't remember anything."[pcms]
 
 *502|
 [fc]
 [vo_mob s="yoshino0007"]
 [ns]Yoshino[nse]
-「しっかりしてよ。とにかく決定内容だけでも[r]
-　忘れないようにしてね」[pcms]
+"Get it together. At least make sure you don't forget the decisions that have[r]
+been made."[pcms]
 
 *503|
 [fc]
 [ns]Wataru[nse]
-「あっ、うん……」[pcms]
+"Ah, yeah..."[pcms]
 
 *504|
 [fc]
 [vo_mob s="yoshino0008"]
 [ns]Yoshino[nse]
-「なんか問題はある？」[pcms]
+"Is there any problem?"[pcms]
 
 *505|
 [fc]
-ボクは渡されたメモを眺めてみたけど、[r]
-問題はなさそうだった。[pcms]
+I looked over the memo that was handed to me, but there didn't seem to be any[r]
+problems.[pcms]
 
 *506|
 [fc]
 [ns]Wataru[nse]
-「大丈夫そうだね」[pcms]
+"It looks okay to me."[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_a"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -291,24 +281,24 @@
 [fc]
 [vo_mob s="yoshino0009"]
 [ns]Yoshino[nse]
-「じゃあこれで決定ね」[pcms]
+"Then it's decided."[pcms]
 
 *508|
 [fc]
-発起人の癖にまったく詳細決定に絡むことなく終わって[r]
-しまうのは不本意だけど、自分が悪いわけだし仕方がない。[pcms]
+It's regrettable to end without being involved in the decision-making despite[r]
+being the initiator, but it's my own fault, so it can't be helped.[pcms]
 
 *509|
 [fc]
 [vo_mob s="yoshino0010"]
 [ns]Yoshino[nse]
-「じゃあみんな今日はこれで解散ね。[r]
-　航クンは当日、寝坊しないでね？」[pcms]
+"Okay everyone, that's it for today. Wataru-kun, make sure you don't oversleep[r]
+on the day, okay?"[pcms]
 
 *510|
 [fc]
-その一言に教室内の部員達がどっと笑って、[r]
-良いオチがついて解散となった。[pcms]
+With that one remark, the club members in the classroom burst into laughter, and[r]
+with a good punchline, the meeting was adjourned.[pcms]
 
 ;//〆BG：学園廊下（分校舎）
 [bg storage="bg017"][trans_c cross time=500]
@@ -319,12 +309,12 @@
 *511|
 [fc]
 [ns]Wataru[nse]
-「ふぅ……なんだろ、疲れてんのかなぁ」[pcms]
+"Phew... I wonder if I'm tired or something."[pcms]
 
 *512|
 [fc]
-天文学部の打ち合わせが一段落して、廊下へ出たボクは[r]
-いま一つ冴えない頭を左手で叩きながら首を振った。[pcms]
+After the astronomy club meeting wrapped up, I stepped out into the hallway and[r]
+shook my head while tapping my not-so-clear head with my left hand.[pcms]
 
 *513|
 [fc]

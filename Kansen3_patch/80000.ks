@@ -364,7 +364,7 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 
 *51|
 [fc]
-最初にエレベーターを降りるのは５Ｆにお見舞いにきたボクだ。[pcms]
+I'm the first to get off the elevator on the 5th floor to visit Senior.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -372,7 +372,7 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 [fc]
 [vo_miz s="mizuki_MK0003"]
 [ns]Mizuki[nse]
-「マリーさん、よろしく。おだいじにね」[pcms]
+"Marie-san, please take care. Get well soon."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -380,14 +380,14 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 [fc]
 [vo_yuh s="yuho_MK0003"]
 [ns]Yuuho[nse]
-「ちゃんと看病してあげてね？」[pcms]
+"Make sure you take good care of him, okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c6"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *54|
 [fc]
 [ns]Kousuke[nse]
-「手ぇ出すんじゃねーぞ？」[pcms]
+"Don't try anything funny, got it?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f13"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -395,24 +395,24 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 [fc]
 [vo_ren s="ren_MK0003"]
 [ns]Ren[nse]
-「えぇっ！？」[pcms]
+"Eh?!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *56|
 [fc]
-扉が閉まるまでのごく短い間に、それぞれ勝手なことを言い残し[r]
-みんなは去っていった。[pcms]
+In the brief moment before the doors closed, everyone left behind their own[r]
+random comments and went their separate ways.[pcms]
 
 *57|
 [fc]
 [ns]Wataru[nse]
-「まったく……」[pcms]
+"Honestly..."[pcms]
 
 *58|
 [fc]
-でも、みんな先輩のこと心配してるんだよな……。[r]
-苦笑しながらも、暖かい気持ちになった。[pcms]
+But everyone is worried about Senior... Despite the wry smile, I felt a warm[r]
+feeling inside.[pcms]
 
 ;//〆個室前
 [bg storage="BG110"][trans_c cross time=500]
@@ -421,92 +421,86 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 *59|
 [fc]
 [ns]Wataru[nse]
-「……先輩？　マル子先輩、起きてますか？」[pcms]
+"...Senior? Maruko-senpai, are you awake?"[pcms]
 
 *60|
 [fc]
-そっと声をかけ、ノックをしてみたけれど応答がない。[r]
-何度か叩いてみたけれど……。[pcms]
+I called out softly and knocked, but there was no response. I knocked a few more[r]
+times, but...[pcms]
 
 *61|
 [fc]
 [ns]Wataru[nse]
-「寝ちゃってるのかな。それとも……いないのかな？」[pcms]
+"Is he asleep, or... maybe not here?"[pcms]
 
 *62|
 [fc]
-扉に耳を当ててみたけれど、[r]
-室内からは何の気配も伝わってはこなかった。[pcms]
+I tried listening at the door, but there was no sign of anyone inside.[pcms]
 
 *63|
 [fc]
 [ns]Wataru[nse]
-「……先輩？　開けますよー……」[pcms]
+"...Senior? I'm going to open the door..."[pcms]
 
 *64|
 [fc]
-一応、断りを入れながらドアを開く。[r]
-中は無人だ……。[pcms]
+After giving a warning, I opened the door. The room was empty...[pcms]
 
 *65|
 [fc]
 [ns]Wataru[nse]
-「どこ行っちゃったんだろう？」[pcms]
+"Where could he have gone?"[pcms]
 
 *66|
 [fc]
-具合が悪いっていうのに、[r]
-また無理をして動き回ってるんだろうか？[pcms]
+Even though he's sick, could he be pushing himself to move around again?[pcms]
 
 *67|
 [fc]
-すごく心配だったし、それに[r]
-せっかくお見舞いに来たのに……って残念な気持ちもある。[pcms]
+I was really worried, and also felt disappointed that I came to visit only to[r]
+find him not here...[pcms]
 
 *68|
 [fc]
-まあ、安全にはあれだけうるさい先輩のことだから[r]
-そう遠くへは行ってないだろうけど。[pcms]
+Well, considering how much Senior insists on safety, he probably hasn't gone too[r]
+far.[pcms]
 
 *69|
 [fc]
 [ns]Wataru[nse]
-「ふう……」[pcms]
+"Sigh..."[pcms]
 
 *70|
 [fc]
-溜息をついて、それから息を吸う。[r]
-先輩の香りがふわっと鼻の奥をくすぐった。[pcms]
+With a sigh, I took a breath. The scent of Senior tickled the back of my nose.[pcms]
 
 *71|
 [fc]
-どうしようかな。やっぱり先輩の顔が見たい。[pcms]
+What should I do? I really want to see Senior's face.[pcms]
 
 *72|
 [fc]
-このまま部屋の中で待っていようか。[r]
-でも、先輩、いつ戻ってくるか、分からないしな……。[pcms]
+Should I just wait in the room? But then again, I have no idea when Senior will[r]
+come back...[pcms]
 
 *73|
 [fc]
-みんなはそれぞれ気になるお店を散策中だろう。[r]
-ボクだったら……そうだな、[r]
-Ｂ１のゲームセンターにでも行こうかな……。[pcms]
+Everyone else is probably exploring shops they're interested in. If it were[r]
+me... Yeah, I might go to the game center on B1...[pcms]
 
 *74|
 [fc]
-スタッフ用のメンテナンスキーが見つかれば、[r]
-サービスボタン連射で、無料ゲーム遊び放題ができそうだし。[pcms]
+If I find a staff maintenance key, I could keep pressing the service button for[r]
+free games all I want.[pcms]
 
 *75|
 [fc]
 [ns]Wataru[nse]
-「…………あ……そうだ」[pcms]
+"...Ah... that's right"[pcms]
 
 *76|
 [fc]
-今なら「みんな」こっちのビルの中……。[r]
-っていうことは……？　もしかして……？[pcms]
+Right now, 'everyone' is inside this building... Which means...? Could it be...?[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -514,21 +508,20 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 *77|
 [fc]
 [ns]Wataru[nse]
-「…………へへへ」[pcms]
+"...Hehehe"[pcms]
 
 *78|
 [fc]
-ボクは「ででっぽう」に向かった。[pcms]
+I headed towards the 'depot'.[pcms]
 
 *79|
 [fc]
-全員がＬＡＳＥＲにいて、[r]
-しかも単独行動がとれるなんて好条件を[r]
-見逃すわけにはいかない。[pcms]
+I can't miss this perfect opportunity when everyone is at LASER and I can act[r]
+alone.[pcms]
 
 *80|
 [fc]
-神様がくれたこのチャンスに、この前見つけたＡＶを……！[pcms]
+With this chance given by God, I'll check out that AV I found before...![pcms]
 
 ;//〆「ででっぽう」
 [bg storage="BG022"][trans_c cross time=500]
@@ -536,25 +529,23 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 
 *81|
 [fc]
-『ででっぽう』に、人の姿はない。[r]
-そのことを確認して、ボクは胸を撫で下ろした。[pcms]
+"There's no one in the 'depot'. Having confirmed that, I let out a sigh of[r]
+relief."[pcms]
 
 *82|
 [fc]
 [ns]Wataru[nse]
-「１時間ぐらいなら……[r]
-　留守にしてても、大丈夫だよな……？」[pcms]
+"If it's just for about an hour... It should be okay to leave it unattended,[r]
+right...?"[pcms]
 
 *83|
 [fc]
-不安はあるけれど、既にボクの気持ちは、[r]
-自家発電モードに切り替わっている。[pcms]
+Although I'm anxious, my mood has already switched to self-generation mode.[pcms]
 
 *84|
 [fc]
-題名と、断片的な内容を思い浮かべて、[r]
-どれをオカズにしようか考えながら、[r]
-まずはスタッフ用の仮眠室に足を向けた。[pcms]
+Thinking of the title and the fragmented content, I ponder which one to use as[r]
+my material while heading towards the staff rest room first.[pcms]
 
 [fadeoutbgm time=500]
 ;//〆黒画面
@@ -568,87 +559,81 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 
 *85|
 [fc]
-誰もいないとわかっていても、つい人目を忍んで階段を上がる。[r]
-だがその途中で、ボクは足を止めた。[pcms]
+Even though I know there's no one around, I still sneak up the stairs. But[r]
+midway, I stop in my tracks.[pcms]
 
 *86|
 [fc]
 [vo_mar s="maru_K0001"]
 [ns]？？？[nse]
-「……んああぁぁぁ、ひぐっ、ん……ひぎああぁぁっ！」[pcms]
+"...Nnnaaahhh, higuu, nn... higiaaahhh!"[pcms]
 ;//＠発言者名を？？？に変更。文字を×にするのもアリ
 
 *87|
 [fc]
-…………誰かが先に来て、見てる？！[pcms]
+...Is someone here before me, watching?![pcms]
 
 *88|
 [fc]
-心臓が弾み、身がすくむ。[r]
-いったい誰だ。[pcms]
+My heart races and my body freezes. Who could it be?[pcms]
 
 *89|
 [fc]
-いちばんそれっぽいのはコースケだけど、[r]
-今のあいつには瑞樹がいる。[pcms]
+The most likely candidate is Kousuke, but he's with Mizuki right now.[pcms]
 
 *90|
 [fc]
-だとすると……、どうもＡＶを見るイメージはないけど壬さんか、[r]
-あと可能性があるとすれば重吉か……。[pcms]
+That being said... it doesn't seem like Jin-san would watch AV, and the only[r]
+other possibility would be Shigeyoshi...[pcms]
 
 *91|
 [fc]
-とにかく、迂闊に踏み込んだら相当気まずい事態になるのは、[r]
-男子として容易に想像がついた。[r]
-もう少し進んで、様子を窺ってみる。[pcms]
+Anyway, as a guy, I can easily imagine that carelessly barging in would lead to[r]
+an extremely awkward situation. I move forward a little more to take a peek.[pcms]
 
 *92|
 [fc]
 [vo_mar s="maru_K0002"]
 [ns]？？？[nse]
-「……ふぐぅぅ、ひっ、ひぃぃっ、んああああっ！」[pcms]
+"...Fuguuu, hic, hiii, naaaaah!"[pcms]
 ;//＠発言者名を？？？に変更。文字を×にするのもアリ
 
 *93|
 [fc]
-喘ぎ声が先ほどよりもはっきりと聞こえてきた。[r]
-違和感を覚える。[pcms]
+The panting is now clearer than before. I feel a sense of discomfort.[pcms]
 
 *94|
 [fc]
 [ns]Wataru[nse]
-「……なんか、聞いたことのある声だな……？」[pcms]
+"...Somehow, it sounds like a voice I've heard before...?"[pcms]
 
 *95|
 [fc]
-あんなハードなＡＶ、これまでに見た経験はないはずだけど。[r]
-訝りながら足を進め、とうとう仮眠室の前まで接近した。[pcms]
+I'm sure I've never seen such a hardcore AV before. With suspicion, I move[r]
+forward and finally approach the nap room.[pcms]
 
 *96|
 [fc]
-切なくあられもない喘ぎ声は、廊下にまで響いている。[r]
-どんだけ大胆な場面が繰り広げられてるんだ、と妄想するだけで、[r]
-ボクの愚息は早くも元気になっていた。[pcms]
+The pitiful and indecent moans echo down the hallway. Just imagining what kind[r]
+of bold scene is unfolding is enough to make my junior stand at attention.[pcms]
 
 *97|
 [fc]
 [vo_mar s="maru_K0003"]
 [ns]？？？[nse]
-「……ひぃぃっ、はっ、はあっ！[r]
-　あふっ、ひぐぅぅぅっ！　ぐふぅ、んっ、あひぃぃぃっ！」[pcms]
+"...Hiiii, ha, haa! Ahfu, higuuuu! Gufuu, nn, ahiiii!"[pcms]
 ;//＠発言者名を？？？に変更。文字を×にするのもアリ
 
 *98|
 [fc]
-あまりにけたたましい嬌声に、逆にたじろぎながら視線を落とす。[r]
-乱暴に脱ぎ捨てられた靴が挟まって、ドアが半開きになっていた。[pcms]
+The shrill cries make me flinch as I lower my gaze. Shoes were carelessly kicked[r]
+off and trapped in the door, leaving it half-open.[pcms]
 
 *99|
 [fc]
-いったい誰が、こんなに慌てて侵入して、享楽に耽っているのやら。[r]
-身を乗り出すと、狭い室内は入口から奥まで簡単に見通せた。[r]
-奥にいる人の姿が解ったとき、危うく叫びそうになる。[pcms]
+Who could be in such a hurry to enter and indulge in pleasure? As I lean[r]
+forward, I can easily see from the entrance to the back of the narrow room. When[r]
+I recognize the person at the back, I almost scream.[pcms]
 
 ;//　ブロック８００１０へ
 [jump storage="80010.ks" target=*80010_TOP]

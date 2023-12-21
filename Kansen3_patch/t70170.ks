@@ -428,7 +428,7 @@ slightly deflated thing was pushed out of Yuuho's mouth with a plop.[pcms]
 [fc]
 [vo_yuh s="yuho1144"]
 [ns]Yuuho[nse]
-"Nn... haaahh.. nn, this is what men's is likec Wataru's..."[pcms]
+"Nn... haaahh.. nn, this is what men's is like... Wataru's..."[pcms]
 
 *8578|
 [fc]

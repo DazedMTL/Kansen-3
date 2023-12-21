@@ -373,96 +373,89 @@ the hospital... no, the police!? Calm down... Ren!"[pcms]
 *3036|
 [fc]
 [ns]Wataru[nse]
-「なっ……や、やめろ漣……！　何考えてるんだ？[r]
-　やっぱり頭でも打ったのか！？」[pcms]
+"Wha... stop, Ren...! What are you thinking? Did you hit your head or[r]
+something?!"[pcms]
 
 *3037|
 [fc]
-漣は息を荒くして、ボクのズボンのチャックをおろし[r]
-エロＤＶＤで見た女優の様に、妖しい表情をしながら、[r]
-自分の股間と、ボクの股間をまさぐり始めた。[pcms]
+Ren, breathing heavily, began to unzip my pants and, like an actress from an[r]
+erotic DVD, started to fondle both her crotch and mine with a bewitching[r]
+expression.[pcms]
 
 *3038|
 [fc]
-こんな状況だというのに、ボクのモノは大きくはち切れそうに[r]
-なっているままだった。[pcms]
+Despite the situation, my thing was still swelling up as if it was about to[r]
+burst.[pcms]
 
 *3039|
 [fc]
-漣に欲情した訳じゃなくて、さっきの夢のせいだけど、[r]
-この状況だと、明らかボクが漣に対して興奮している様にしか[r]
-見えない。[pcms]
+It wasn't because I was aroused by Ren, but because of the dream I had earlier.[r]
+However, in this situation, it clearly looked like I was excited by Ren.[pcms]
 
 *3040|
 [fc]
 [vo_ren s="ren_RK0073"]
 [ns]Ren[nse]
-「可愛い可愛いお兄ちゃぁぁん……。だぁぁぁい好きな、[r]
-　お兄ちゃん……。お兄ちゃんの望むままに……して、[r]
-　あげるぅぅ……」[pcms]
+"My cute, cute big brother... I love you so much, big brother... I'll do[r]
+whatever you desire..."[pcms]
 ;//ren_RK0073.wav
 
 *3041|
 [fc]
-れ、漣……？[r]
-一体どうしたっていうんだ……？[pcms]
+Ren...? What on earth happened to you...?[pcms]
 
 *3042|
 [fc]
 [ns]Wataru[nse]
-「ちっ、ちがう！　これは違うんだ！　それより早く病院に……。[r]
-　うあっ……！」[pcms]
+"No, this is wrong! We need to get to the hospital quickly... Uwah...!"[pcms]
 
 *3043|
 [fc]
 [vo_ren s="ren_RK0029"]
 [ns]Ren[nse]
-「…………お兄ちゃぁぁん……どうしたのぉぉ？」[pcms]
+"...Big brother... what's wrong?"[pcms]
 ;//ren_RK0029.wav
 
 *3044|
 [fc]
-気持ち良い……。[r]
-いや！　そうじゃなくて……！[pcms]
+It feels good... No! That's not it...![pcms]
 
 *3045|
 [fc]
-ふと冷静になって、漣の身体を見ると、白い液体はやはり[r]
-『精液』そのものだった。[pcms]
+When I suddenly came to my senses and looked at Ren's body, the white liquid was[r]
+indeed "semen."[pcms]
 
 *3046|
 [fc]
-一人が出したとは思えない量の精液が、身体の至る所に、[r]
-精液がべっとりとこびりついている。[pcms]
+The amount of semen on her body was more than one person could produce, sticking[r]
+to her everywhere.[pcms]
 
 *3047|
 [fc]
-と、言う事は、漣は何人もの男に……。[pcms]
+Which means, Ren was... by multiple men...[pcms]
 
 *3048|
 [fc]
 [ns]Wataru[nse]
-「漣……お前！！　もしかして、レ……レイ……」[pcms]
+"Ren... you!! Could it be, ra... ra..."[pcms]
 
 *3049|
 [fc]
-この状態は、明らかに、漣が誰かに犯されたとしか思えない。[pcms]
+This situation clearly indicates that Ren has been violated by someone.[pcms]
 
 *3050|
 [fc]
-ボクの頭をハンマーで思いっきり殴りつけた様な衝撃が走り、[r]
-意識が飛びそうになってしまった。[pcms]
+A shock ran through my head as if it had been struck hard with a hammer, and I[r]
+felt like I was about to lose consciousness.[pcms]
 
 *3051|
 [fc]
-悪いと思ったけど……。[r]
-それでもボクの目は、漣の股間へと向いてしまう。[pcms]
+Even though I knew it was wrong... my eyes still drifted towards Ren's crotch.[pcms]
 
 *3052|
 [fc]
-すると漣は、ボクの視線を感じ取ったのか、[r]
-柔らかな陰りに包まれた優美な割れ目を[r]
-指で押し開いてボクに見せる。[pcms]
+Then, as if sensing my gaze, Ren spread open her beautifully shaded slit with[r]
+her fingers and showed it to me.[pcms]
 
 [evcg storage="HEV053e"][trans_c cross time=300]
 
@@ -470,39 +463,37 @@ the hospital... no, the police!? Calm down... Ren!"[pcms]
 [fc]
 [vo_ren s="ren0406"]
 [ns]Ren[nse]
-「ちゃんと守りきったよ……。よく見て、お兄ちゃん……。[r]
-　私のアソコは傷ひとついてないよ……」[pcms]
+"I kept it safe... Look closely, big brother... There's not a single scratch on[r]
+my pussy..."[pcms]
 ;//ren0406.wav
 
 *3054|
 [fc]
-漣がこんなことするなんて。[r]
-ボクはまだ夢を見ているんだ。[pcms]
+It's unthinkable for Ren to do something like this. I must still be dreaming.[pcms]
 
 *3055|
 [fc]
-そうでも思わなければ、頭がおかしくなってしまいそうだ。[pcms]
+If I don't think that way, I feel like I'm going to lose my mind.[pcms]
 
 *3056|
 [fc]
 [ns]Wataru[nse]
-「漣！　れーん！！！！！！！！！！[r]
-　もう、こんな事やめろっ！　うっ……うぁっ！！」[pcms]
+"Ren! Re-ren!!!!!!!! Stop doing this already! Ugh... Uwah!!"[pcms]
 
 *3057|
 [fc]
-だけど……。[pcms]
+But...[pcms]
 
 *3058|
 [fc]
-訳が分からない状態だと言うにも関わらず、ボクのモノは[r]
-萎えるどころか、さらに固さを増していく。[pcms]
+Despite not understanding the situation, my thing was not wilting; instead, it[r]
+was getting even harder.[pcms]
 
 *3059|
 [fc]
 [vo_ren s="ren0815"]
 [ns]Ren[nse]
-「うふふふっ」[pcms]
+"Ufufufu"[pcms]
 ;//ren0815.wav
 
 ;//〆HEV013B
@@ -510,116 +501,111 @@ the hospital... no, the police!? Calm down... Ren!"[pcms]
 
 *3060|
 [fc]
-妖しい微笑みを向けながら、それまでの怪力から、[r]
-絶妙な程の力加減で、モノをしごき始めた。[pcms]
+With a bewitching smile, she began to stroke my thing with just the right amount[r]
+of strength, as opposed to the monstrous force from before.[pcms]
 
 *3061|
 [fc]
 [ns]Wataru[nse]
-「くっ……うぁっ！！　だっ、駄目だ、漣！」[pcms]
+"Kuh... Uwah!! No, stop it, Ren!"[pcms]
 
 *3062|
 [fc]
 [vo_ren s="ren0399"]
 [ns]Ren[nse]
-「私はずっと、お兄ちゃんのことが大好きだったんだよ……」[pcms]
+"I've always loved you so much, big brother..."[pcms]
 ;//ren0399.wav
 
 *3063|
 [fc]
-ボクの股間をまさぐりながら、漣は自分の股間――[r]
-朱色に染まって、愛液を垂れ流し続けるオマンコを、[r]
-激しく掻き回していた。[pcms]
+While fondling my crotch, Ren was furiously stirring her own crotch-- her pussy,[r]
+dyed crimson and continuously dripping with love juices.[pcms]
 
 *3064|
 [fc]
 [vo_ren s="ren0229"]
 [ns]Ren[nse]
-「あっ、はぁああ……」[pcms]
+"Ah, haaaah..."[pcms]
 ;//ren0229.wav
 
 *3065|
 [fc]
 [ns]Wataru[nse]
-「うっ……くあっ！！　漣……」[pcms]
+"Ugh... Kuaah!! Ren..."[pcms]
 
 *3066|
 [fc]
-とろんとした表情でボクを見つめ、自分とボクのモノを[r]
-器用に刺激する漣は、どうみてもいつもの様子とは違っていた。[pcms]
+Gazing at me with a dazed expression, Ren, who was skillfully stimulating both[r]
+herself and my thing, was clearly different from her usual self.[pcms]
 
 *3067|
 [fc]
-これは、夢だろうか？[r]
-でも、気持ち良いし、それに漣の重みも感じる｡[pcms]
+Is this a dream? But it feels good, and I can feel Ren's weight too.[pcms]
 
 *3068|
 [fc]
-夢なんかじゃない！[pcms]
+This isn't a dream![pcms]
 
 *3069|
 [fc]
-こんな事、すぐにやめさせて……。[r]
-漣を病院に連れて行かなきゃ！！[pcms]
+I have to stop this right away... I need to take Ren to the hospital!![pcms]
 
 *3070|
 [fc]
-頭の中ではわかっていたけど、でも身体が言う事をきかない。[r]
-心のどこかで、漣とこうなりたい、と思っていた自分が[r]
-いたからだろうか。[pcms]
+Although I understood that in my head, my body wouldn't listen. Maybe it was[r]
+because somewhere in my heart, I wanted to be like this with Ren.[pcms]
 
 *3071|
 [fc]
-だけど、そんな事を言っている余裕はない。[r]
-漣はきっと、レイプされた影響で混乱してしまっている。[pcms]
+But there's no time to talk about such things. Ren must be confused because of[r]
+the effects of being raped.[pcms]
 
 *3072|
 [fc]
-一刻も早く、病院に連れて行かないと危ない。[pcms]
+We need to get to the hospital quickly; it's dangerous.[pcms]
 
 *3073|
 [fc]
 [ns]Wataru[nse]
-「漣！　いい加減に正気に戻ってくれ！　手を離せっ！」[pcms]
+"Ren! Come back to your senses already! Let go of me!"[pcms]
 
 *3074|
 [fc]
 [vo_ren s="ren_KB0041"]
 [ns]Ren[nse]
-「あははははははははははっ、あははっ、[r]
-　あーっははっははっ…………！」[pcms]
+"Ahahahahahahaha, ahaha, ah-hahahahaha...!"[pcms]
 ;//ren_KB0041.wav
 
 *3075|
 [fc]
-ボクの叫びが届いていないのか、漣は手の動きをさらに[r]
-加速させ、刺激を強くする。[pcms]
+My cries don't seem to reach her; Ren moves her hand even faster, intensifying[r]
+the stimulation.[pcms]
 
 *3076|
 [fc]
-興奮が高まるというより、物理的な刺激で、ボクのモノは[r]
-もう限界に達してしまっていた。[pcms]
+Rather than my excitement increasing, it was the physical stimulation that[r]
+brought my thing to its limit.[pcms]
 
 *3077|
 [fc]
 [vo_ren s="ren0465"]
 [ns]Ren[nse]
-「ひぃいいいんっ！！」[pcms]
+"Hiiiiinnn!!"[pcms]
 ;//ren0465.wav
 
 *3078|
 [fc]
-突然に、漣は絶頂を迎えたようだ。[pcms]
+Suddenly, it seemed Ren had reached her climax.[pcms]
 
 *3079|
 [fc]
-そして、ボクもその可愛らしい声に脳が揺さぶられ、[r]
-下半身にこみ上げてきたものをこらえることができなかった。[pcms]
+And then, shaken by her cute voice, I couldn't hold back what was surging up in[r]
+my lower half.[pcms]
 
 *3080|
 [fc]
 [ns]Wataru[nse]
-「うっ……くあぁっ！！」[pcms]
+"Ugh...kuuahhh!!"[pcms]
 
 ;//〆ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -627,33 +613,30 @@ the hospital... no, the police!? Calm down... Ren!"[pcms]
 
 *3081|
 [fc]
-ボクの吐きだした精液が、漣の手を汚していく。[pcms]
+My ejaculated semen began to dirty Ren's hand.[pcms]
 
 [evcg storage="HEV052c"][trans_c cross time=300]
 
 *3082|
 [fc]
-だけど漣は嫌な顔もせず、息を荒くして、でも嬉しそうに[r]
-ボクに微笑んでいた。[pcms]
+But Ren didn't look disgusted; panting heavily, yet she smiled at me happily.[pcms]
 
 *3083|
 [fc]
 [vo_ren s="ren1000"]
 [ns]Ren[nse]
-「んっ……はっ……はぁ……はぁっ……」[pcms]
+"Nnn...hah...haa...haahh..."[pcms]
 ;//ren1000.wav
 
 *3084|
 [fc]
-漣がイッてしまったせいか、ボクを押さえつけていた力は[r]
-急に軽くなり、まるで余韻に浸るかのように、[r]
-ボクを見つめ続けていた。[pcms]
+The force with which Ren was pinning me down suddenly lightened, as if she was[r]
+basking in the afterglow, continuing to gaze at me.[pcms]
 
 *3085|
 [fc]
-今しかない……。[r]
-But looking at Ren right in front of me, it feels like all my reason is about to[r]
-be blown away.[pcms]
+This is my only chance... But looking at Ren right in front of me, it feels like[r]
+all my reason is about to be blown away.[pcms]
 
 *3086|
 [fc]

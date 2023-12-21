@@ -1402,184 +1402,167 @@ through me, and my consciousness began to fade.[pcms]
 [fc]
 [vo_yuh s="yuho0437"]
 [ns]Yuuho[nse]
-「あぁぁ、あっふぅぅぅ、んっぐぅ……[r]
-　いひっぁっ、はひいぁぁ……はぇぇぇ、はべぇぇぇ」[pcms]
+"Aaah, ah, uuu, nnguu... ihhi, hahii...haee, habe..."[pcms]
 
 *1894|
 [fc]
-ろれつが回らず言葉にもならない。[r]
-このまま意識が闇へと沈んで……。[pcms]
+My speech was slurred and incoherent. My consciousness was sinking into[r]
+darkness...[pcms]
 
 *1895|
 [fc]
-だが、この地獄はそんな解放すら許してくれなかった。[pcms]
+But this hell wouldn't even allow me the release of unconsciousness.[pcms]
 
 *1896|
 [fc]
 [ns]Oshimi[nse]
-「気絶なんてさせねぇぞ。[r]
-　しっかりと、オマンコがブチ抜かれる[r]
-　初体験を堪能しろや！！」[pcms]
+"I won't let you faint. Make sure you fully enjoy the experience of your pussy[r]
+being torn apart for the first time!!"[pcms]
 
 *1897|
 [fc]
-朦朧となったわたしの頬を何度も叩いて、[r]
-大嶋先輩は意識が飛ぶのを妨害した。[pcms]
+Slapping my dazed cheeks repeatedly, Oshima-senpai prevented me from losing[r]
+consciousness.[pcms]
 
 *1898|
 [fc]
 [vo_yuh s="yuho0438"]
 [ns]Yuuho[nse]
-「あひぃぃぃっ、ひいぁぁぁ……あっあぁぁっ、[r]
-　はっぐぅぅ……痛い……痛くて……ああぁっい」[pcms]
+"Ahiiee, hiihaa... ah, ahaa, haguu... it hurts... it's so painful... ahh!"[pcms]
 
 *1899|
 [fc]
 [ns]Oshimi[nse]
-「おらおら、俺のチンボが気持ち良くなるまで[r]
-　延々と突いてやるぜ！！」[pcms]
+"Come on, I'll keep thrusting endlessly until my dick feels good!!"[pcms]
 
 *1900|
 [fc]
 [vo_yuh s="yuho0439"]
 [ns]Yuuho[nse]
-「ひいぎぃぁぁあ、あっぎいぃ……[r]
-　ぐっぅぅ、んっぐひぃぃぃ！！」[pcms]
+"Hiigii, aggii... guu, nnguhii!!"[pcms]
 
 *1901|
 [fc]
-何度も何度も激しく膣壁を擦られ、子宮に亀頭を[r]
-ぶつけられていると、感覚がマヒしてきたのか[r]
-不思議と下半身の激痛が和らいできた。[pcms]
+After being rubbed violently against the vaginal walls over and over again and[r]
+having the glans hit my uterus, the intense pain in my lower half strangely[r]
+began to numb.[pcms]
 
 *1902|
 [fc]
 [ns]Oshimi[nse]
-「えへへへっ、血の他になんか別の汁が[r]
-　混ざってきてんじゃねーか？」[pcms]
+"Eheheh, looks like some other kind of fluid is starting to mix with the blood,[r]
+isn't it?"[pcms]
 
 *1903|
 [fc]
 [ns]Infected Student A[nse]
-「こいつ犯されて処女を失ったくせに、もう感じていやがるよ！」[pcms]
+"This girl is already feeling it even though she just lost her virginity!"[pcms]
 
 *1904|
 [fc]
-なに、この人たちは何を言ってるの？[r]
-わたしが感じてる？[r]
-そんなバカなこと……ありえるわけがない。[pcms]
+What are these people saying? That I'm feeling it? That's ridiculous... There's[r]
+no way that could be happening.[pcms]
 
 *1905|
 [fc]
-女の子が気持ち良くなるには、好きな人がいて、[r]
-優しさがあって、愛がなきゃダメに決まっている。[pcms]
+A girl needs to be with someone she loves, to be treated gently, and to have[r]
+love to truly feel good. It's obvious.[pcms]
 
 *1906|
 [fc]
 [ns]Infected Man B[nse]
-「あっはっはっは、乳首もビンビンになってきたぜ。[r]
-　ケツの穴も突かれるたびに痙攣しっぱなしだ！！」[pcms]
+"Ahahaha, her nipples are getting hard. Her ass is spasming every time it's[r]
+poked!!"[pcms]
 
 *1907|
 [fc]
 [vo_yuh s="yuho0440"]
 [ns]Yuuho[nse]
-「はっぁっ、はっぁっ、あぐうっ、んっぐぅぅ……[r]
-　んっふっ……はっひぃっ、ふはぁぁっ……[r]
-　あっくぅぅ、んっはぁぁっ……ああっ、ああぁっ」[pcms]
+"Hah, hah, aguu, ngguu... nffu... hahi, fuhaa... ackuu, nhahaa... ah, ahaa!"[pcms]
 
 *1908|
 [fc]
-おかしい、わたしは狂ってしまったんだろうか？[r]
-苦しくて辛くて、苦悶の声を漏らしているはずなのに[r]
-口を開くとなぜか変な声が出てしまう。[pcms]
+It's strange, have I gone mad? I should be voicing my agony and pain, yet[r]
+whenever I open my mouth, weird noises come out.[pcms]
 
 *1909|
 [fc]
 [ns]Oshimi[nse]
-「感じてるぜ、こいつ犯されて感じてるぜ！[r]
-　マン汁を出しながらチンポを締め付けてきやがる！」[pcms]
+"She's feeling it, this girl is getting fucked and she's feeling it! She's[r]
+clamping down on my dick while leaking pussy juice!"[pcms]
 
 *1910|
 [fc]
 [vo_yuh s="yuho0441"]
 [ns]Yuuho[nse]
-「ちがっ、あひぃっ！[r]
-　あっあああっ……はっあひぃっ、んっはぁっ……[r]
-　はっぁっ、あっぁぁっ、んっああっん！」[pcms]
+"No, ahi! Ahhahaa... hahahi, nhah... hah, ahaa, nhaa!"[pcms]
 
 *1911|
 [fc]
-大嶋先輩の男性器がわたしの膣を擦って、[r]
-子宮を突くたびに、口からは甲高い吐息があふれ出た。[pcms]
+Oshima-senpai's dick rubs against my vagina, and with every thrust against my[r]
+uterus, high-pitched sighs spill from my mouth.[pcms]
 
 *1912|
 [fc]
 [vo_yuh s="yuho0442"]
 [ns]Yuuho[nse]
-「ひぃあっ、あっひぃっ……ちがっぁぁ、ひいぁっ！[r]
-　んっはっ、はぁぁっあっあぁぁっ！」[pcms]
+"Hiiha, ahhi... noo, hiiha! Nhhah, haa... ahaaa!"[pcms]
 
 *1913|
 [fc]
-違う、わたしは感じてなんかいない。[r]
-犯されて悦んでなんていない。これは間違いに決まっている。[pcms]
+No, I'm not feeling anything. I'm not enjoying being violated. This has to be a[r]
+mistake.[pcms]
 
 *1914|
 [fc]
-わたしを困惑させようと、彼らが仕組んだ罠なんだ。[r]
-そうに決まっている、絶対にそうに決まっている。[pcms]
+They must be trying to confuse me, it's a trap they've set up. That has to be[r]
+it, it absolutely has to be.[pcms]
 
 *1915|
 [fc]
-否定したくて、認めたくなくて、[r]
-必死に声を押し殺そうとするけれど、耐えようとすればするほど、[r]
-自分でも驚くくらい、口から嬌声が飛び出した。[pcms]
+Despite wanting to deny it, not wanting to admit it, I try desperately to[r]
+suppress my voice, but the more I try to endure, the more moans surprisingly[r]
+escape my mouth.[pcms]
 
 *1916|
 [fc]
 [vo_yuh s="yuho0443"]
 [ns]Yuuho[nse]
-「あっあっあぁっ、んっあっ……はっあっくぅ！[r]
-　んっひぃっ！　はっぁっん……んっあぁっむぅ！[r]
-　んっあっああっ、はぁぁぁっぐぅぅ！」[pcms]
+"Ah, ah, ahh, n-ah... hah, ack! N-hii! Hah, ann... n-ah, muu! N-ah, ahh, haa...[r]
+guu!"[pcms]
 
 *1917|
 [fc]
-股間から熱く痺れるような感覚が湧きおこり、[r]
-それが背筋を通って全身を駆け抜けていく。[pcms]
+A hot, numbing sensation wells up from my crotch, racing up my spine and[r]
+coursing through my entire body.[pcms]
 
 *1918|
 [fc]
 [ns]Oshimi[nse]
-「出してくれ、精子を出してくれと、オマンコが[r]
-　張りついておねだりしてるぜ！！」[pcms]
+"Give it to me, your pussy is clinging and begging for cum!!"[pcms]
 
 *1919|
 [fc]
 [vo_yuh s="yuho0444"]
 [ns]Yuuho[nse]
-「はぁぁっぐぅぅっ、んっぐぅ……。[r]
-　ちがっ、ちがぅぅっぐはぁぁっん！！」[pcms]
+"Haa... guu, n-guu... No, it's different, it's wrong... guh, haaann!!"[pcms]
 
 *1920|
 [fc]
 [ns]Oshimi[nse]
-「さすがは鍛えたアスリートのマンコだぜ。[r]
-　締め付けも男への媚び方も超一流だ！！」[pcms]
+"As expected of an athlete's pussy. The tightness and the way you flirt with a[r]
+man are top-notch!!"[pcms]
 
 *1921|
 [fc]
 [vo_yuh s="yuho0445"]
 [ns]Yuuho[nse]
-「ああぁっ、あくっぐぅぅぅ……んっああっ、[r]
-　あっひぃぃ、ひいあぁぁぁぁん！」[pcms]
+"Ahh, ack... guu... n-ahh, ah-hii, hii-ahh... ahhn!"[pcms]
 
 *1922|
 [fc]
-分からない、何が何だか分からない。[r]
-とにかくわたしは大嶋先輩に擦られるたびに、[r]
-突かれるたびに、頭に火花が散って……。[pcms]
+I don't understand, I can't make sense of anything. Anyway, every time Oshima-[r]
+senpai rubs against me, every thrust, sparks scatter in my head...[pcms]
 
 [白フラ]
 
@@ -1587,8 +1570,7 @@ through me, and my consciousness began to fade.[pcms]
 [fc]
 [vo_yuh s="yuho0446"]
 [ns]Yuuho[nse]
-「あぐうぅぅっ……んっぐぅぅ！[r]
-　ひぐぅぅぅっ、はぁっふぅぅっ、ひあぁぁっん！！」[pcms]
+"Aguuu... nnguu! Higuuu, haa, hufff, hiaaann!!"[pcms]
 
 [白フラ]
 
@@ -1596,111 +1578,105 @@ through me, and my consciousness began to fade.[pcms]
 
 *1924|
 [fc]
-ビクンビクンと身体が痙攣すると、自分の意思とは[r]
-無関係にわたしのあそこは、受け入れている[r]
-大嶋先輩の男性器をギュッと締め付けていた。[pcms]
+My body convulses with bikun bikun, and without my own volition, my pussy[r]
+tightens around Oshima-senpai's dick that it's accepting.[pcms]
 
 *1925|
 [fc]
-締め付けるたびに、頭に白い閃光が走り、[r]
-身体が溶け落ちるような恍惚感に包まれていく。[pcms]
+Every time it tightens, a white flash runs through my head, and my body is[r]
+enveloped in an ecstatic sensation as if melting away.[pcms]
 
 *1926|
 [fc]
-いまわしい、わたしを汚している、犯している、[r]
-大切な純潔を奪った大嶋先輩の性器の感触が[r]
-愛おしいもののように思えてきた。[pcms]
+The sensation of Oshima-senpai's dick, which is defiling me, violating me, and[r]
+has taken my precious virginity, starts to feel dear to me.[pcms]
 
 *1927|
 [fc]
 [vo_yuh s="yuho0447"]
 [ns]Yuuho[nse]
-「はっぁっぁっぁっぁぁぁっ……あっぶぅぅぅ」[pcms]
+"Haa, haa, haa, haaa... abuuu"[pcms]
 
 *1928|
 [fc]
 [ns]Oshimi[nse]
-「いったぞ、こいつ犯されて、処女喪失したばかりの[r]
-　癖に、チンポ締め付けて絶頂しやがったぜ！！」[pcms]
+"I came, this girl got fucked and lost her virginity just now, and yet she's[r]
+tightening around my cock and climaxing!!"[pcms]
 
 *1929|
 [fc]
-わたしが絶頂？　何それ……意味が分からない。[pcms]
+I'm climaxing? What's that... I don't understand the meaning.[pcms]
 
 *1930|
 [fc]
 [vo_yuh s="yuho0448"]
 [ns]Yuuho[nse]
-「ひいぁっ、ひぃっぅ……ふっぐぅぅぅ……」[pcms]
+"Hii, hiiu... fugguuu..."[pcms]
 
 *1931|
 [fc]
-波のように激しく頭の中を駆け抜けていく閃光が[r]
-徐々に勢いを失い、わたしの思考がようやく回復しはじめた。[pcms]
+The flashes running wildly through my head like waves gradually lose their[r]
+intensity, and my thoughts begin to recover at last.[pcms]
 
 *1932|
 [fc]
 [vo_yuh s="yuho0449"]
 [ns]Yuuho[nse]
-「ふっ、ふぅっ……んっふぅ……はふぅぅっ……」[pcms]
+"Fuh, fuu... nffuu... hafuuu..."[pcms]
 
 *1933|
 [fc]
 [ns]Oshimi[nse]
-「どうだ、俺のチンポは気持ちよかったか？」[pcms]
+"How was it, did you enjoy my cock?"[pcms]
 
 *1934|
 [fc]
 [vo_yuh s="yuho0450"]
 [ns]Yuuho[nse]
-「ふぅぅ、ふぅぅ……気持ち……[r]
-　気持ちよくなんて……わたしは……なってませぇん」[pcms]
+"Fuuu, fuuu... It felt... It didn't feel good... I didn't..."[pcms]
 
 *1935|
 [fc]
 [ns]Oshimi[nse]
-「これが女の悦びってやつなんだよ！」[pcms]
+"This is what they call a woman's pleasure!"[pcms]
 
 *1936|
 [fc]
 [vo_yuh s="yuho0451"]
 [ns]Yuuho[nse]
-「ちがう……ちがう……絶対に……ちがうから……」[pcms]
+"No... that's wrong... It's definitely... wrong..."[pcms]
 
 *1937|
 [fc]
-認めない、そんなこと絶対に認めない。[r]
-こんなウソに騙されちゃダメ。[pcms]
+I won't admit it, I'll never admit such a thing. I mustn't be deceived by such[r]
+lies.[pcms]
 
 *1938|
 [fc]
-痛みが酷かったから、乱暴にされたから、[r]
-それで気絶か何かしかけていただけに決まっている。[r]
-わたしは犯されて、感じてしまうような女じゃない。[pcms]
+The pain was terrible, and I was treated roughly, that must be why I nearly[r]
+passed out. I'm not the kind of woman who gets violated and feels pleasure.[pcms]
 
 *1939|
 [fc]
 [ns]Oshimi[nse]
-「じゃぁ次はお前のマンコがおねだりしている[r]
-　精子をたっぷりとくれてやるぜぇぇぇ！」[pcms]
+"Then next, I'll give your pussy begging for it a good filling of my cum!"[pcms]
 
 *1940|
 [fc]
 [vo_yuh s="yuho0452"]
 [ns]Yuuho[nse]
-「えっ、えっ、何……いやっぁ、だめぇ、[r]
-　やめて、やめてっ！」[pcms]
+"Eh, eh, what... nooo, stop, please stop!"[pcms]
 
 *1941|
 [fc]
-大嶋先輩は中出しを予告すると、逃げられないように[r]
-わたしの腰を引きつけて、何度も根元まで[r]
-男性器を押しこむように打ちつけてきた。[pcms]
+Oshima-senpai announced he was going to cum inside and pulled my hips to prevent[r]
+me from escaping, slamming his cock into me down to the root over and over[r]
+again.[pcms]
 
 *1942|
 [fc]
-膣の奥、子宮口に先端が吸いつくのがわかって、[r]
-わたしは泣きながら絶句した。[pcms]
+I could feel the tip sucking onto my cervix deep inside my vagina, and I was[r]
+speechless as I cried.[pcms]
 
 *1943|
 [fc]

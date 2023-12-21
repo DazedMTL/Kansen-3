@@ -414,13 +414,12 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1082"]
 [ns]Ren[nse]
-「お、お兄ちゃん。やだ、何するのっ？」[pcms]
+"Oh, big brother. No, what are you doing?"[pcms]
 
 *8220|
 [fc]
-ボクは漣に飛びかかり、自分の下に組み敷いた。[r]
-両腕を片手で押さえつけ、驚いた目でボクを見つめる漣に、[r]
-言ってやる。[pcms]
+I pounced on Ren, pinning her down beneath me. Holding down both of her arms[r]
+with one hand, she looked at me with surprised eyes as I told her.[pcms]
 
 ;//♂_イベント画ないので、詳細不明。画にそぐわないようだったら、押さえ込んでいる表現を変更
 ;//HEV058を使用
@@ -428,7 +427,7 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 *8221|
 [fc]
 [ns]Wataru[nse]
-「悠帆の代わり？　漣が悠帆の代わりになるって？」[pcms]
+"Yuuho's replacement? Ren, you're going to replace Yuuho?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -436,14 +435,13 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1083"]
 [ns]Ren[nse]
-「あ……う、うん。そうだよ。悠帆ちゃんの代わりに、私が[r]
-　お兄ちゃんのそばに……」[pcms]
+"Ah... yes, that's right. In place of Yuuho-chan, I will be by your side..."[pcms]
 
 *8223|
 [fc]
 [ns]Wataru[nse]
-「なれるわけないだろ？　どうして、漣が悠帆の代わりに[r]
-　なれるなんて、思うんだ？」[pcms]
+"How could you possibly replace her? Why would you think that you could take[r]
+Yuuho's place?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -451,14 +449,14 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1084"]
 [ns]Ren[nse]
-「だって、だって。悠帆ちゃん、もういないんだよ。[r]
-　お兄ちゃんだってわかってるんでしょ？[r]
-　だから私、悠帆ちゃんの代わりになってお兄ちゃんを」[pcms]
+"Because, because. Yuuho-chan is no longer here. You know that too, don't you,[r]
+big brother? That's why I want to become Yuuho-chan's replacement and be by your[r]
+side"[pcms]
 
 *8225|
 [fc]
 [ns]Wataru[nse]
-「本当に漣が悠帆の代わりを『する』って言い張るんだな？」[pcms]
+"Are you really insisting that you can 'take over' for Yuuho?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -466,12 +464,12 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1085"]
 [ns]Ren[nse]
-「え？　う、うん。悠帆ちゃんの代わりになる……よ……」[pcms]
+"Eh? Y-yes. I'll become Yuuho-chan's replacement..."[pcms]
 
 *8227|
 [fc]
 [ns]Wataru[nse]
-「わかった。じゃあ、悠帆の代わりを『して』くれ。今すぐ」[pcms]
+"Understood. Then 'take over' for Yuuho. Right now."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -479,8 +477,7 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1086"]
 [ns]Ren[nse]
-「え？　えっ？！　キャッ！　お兄ちゃん、やめてっ。[r]
-　何するの、お兄ちゃんっ！！」[pcms]
+"Eh? Eh?! Kyaa! Big brother, stop it. What are you doing, big brother!!"[pcms]
 
 [白フラ]
 
@@ -488,7 +485,7 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 
 *8229|
 [fc]
-ボクは力加減もせず、漣を壁に押しつけた。[pcms]
+I pushed Ren against the wall without holding back.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -496,20 +493,18 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1087"]
 [ns]Ren[nse]
-「や、やめて。お兄ちゃん。お願い、やめてぇ」[pcms]
+"Stop, please stop, big brother. Please, stop it."[pcms]
 
 *8231|
 [fc]
-もうどうでもよくなっていた。[r]
-どうせ漣は血のつながった妹じゃないんだ。悠帆の代わりに[r]
-なるって言うんなら、なってもらおうじゃないか。[pcms]
+I didn't care anymore. After all, Ren isn't my blood-related sister. If she says[r]
+she'll replace Yuuho, then I'll let her replace her.[pcms]
 
 *8232|
 [fc]
 [ns]Wataru[nse]
-「悠帆の代わりになってくれるんだろう、漣？[r]
-　ボクは悠帆とこういうことがしたかったんだ。[r]
-　悠帆の代わりに、漣にしてあげるよ」[pcms]
+"You're going to replace Yuuho, right, Ren? I wanted to do this kind of thing[r]
+with Yuuho. I'll do it with Ren instead."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -517,22 +512,19 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1088"]
 [ns]Ren[nse]
-「ひっ！　ご、ごめんなさい、お兄ちゃん。[r]
-　お願い、やめて。そういう意味じゃないの、お兄ちゃん。[r]
-　ね、お願い。お願い、やめ……ひいいっいっ！！」[pcms]
+"Hii! I'm sorry, big brother. Please, stop. That's not what I meant, big[r]
+brother. Please, I'm begging you. Please, stop...hiii!!"[pcms]
 
 ;//HEV058c.bmp
 [evcg storage="HEV058c"][trans_c cross time=300]
 
 *8234|
 [fc]
-ボクは素肌が剥き出しになった漣の片脚を抱え上げて、[r]
-べろんと舌で舐めあげた。[pcms]
+I lifted one of Ren's bare legs and licked it with my tongue.[pcms]
 
 *8235|
 [fc]
-舐めながらシャツの中に手を突っ込んで、漣の小さなおっぱいを[r]
-ぐにゅにゅと揉んでやる。[pcms]
+While licking, I reached into her shirt and kneaded her small breasts.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -540,14 +532,14 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1089"]
 [ns]Ren[nse]
-「や、いやあっ。お兄ちゃん、お兄ちゃん、やめて。[r]
-　お願い、いやよぉ。こんなのいやあっ！　ひああっっ！」[pcms]
+"No, nooo. Big brother, big brother, stop. Please, I don't want this. I don't[r]
+want this at all! Hiaaah!"[pcms]
 
 *8237|
 [fc]
-小さいおっぱいの先の小さな乳首。[r]
-それを指先で摘んでコリコリとひねくり回す。同時に[r]
-パンツのラインにそって、べろべろと白い肌を舐め回した。[pcms]
+The small nipples on her small breasts. I pinched them with my fingertips and[r]
+twisted them around. At the same time, I licked her white skin along the line of[r]
+her panties.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -555,14 +547,12 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1090"]
 [ns]Ren[nse]
-「やっ、やああっ。ひぃいっ、やめっ……てぇ、お兄ちゃん。[r]
-　そ、そんなこと、しないでぇ……あ、ぁいやあぁっ！」[pcms]
+"No, nooo. Hii, stop...big brother. Don't do such things...ah, ahh nooo!"[pcms]
 
 *8239|
 [fc]
-だんだん固くなってくる漣の小さな乳首。[r]
-更にぐりぐりと指先でこねくり回しながら、漣のパンツ越しに[r]
-ボクは漣のアソコを舐め回してやる。[pcms]
+Ren's small nipples gradually harden. While kneading them more firmly with my[r]
+fingertips, I lick over Ren's panties, tasting her pussy through the fabric.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -570,21 +560,18 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1091"]
 [ns]Ren[nse]
-「やっ、やっ、やめっ……くうっ！　ひぃいいっっ！[r]
-　お兄ちゃ……んっ……やめてぇ。お願いやめてええぇ……」[pcms]
+"No, no, stop...kuu! Hiiii! Big brother...stop it. Please stop, pleaseee..."[pcms]
 
 *8241|
 [fc]
-布越しに漣のアソコをたっぷり味わう。[r]
-ボクの唾液で布ごとびちょびちょになってきた漣のアソコ。[r]
-ボクの舌にぬるっとした感触が伝わってきた。[pcms]
+I savor Ren's pussy through the fabric. Her pussy becomes drenched with my[r]
+saliva, even through the cloth. I can feel the slippery sensation on my tongue.[pcms]
 
 *8242|
 [fc]
 [ns]Wataru[nse]
-「んぶっ……なんだ、漣。いやだって言いながらちゃんと[r]
-　感じてきてるじゃないか。ぬるぬるになってきたよ、[r]
-　漣のアソコっ！」[pcms]
+"Nngh... What's this, Ren? Despite saying you don't want it, you're starting to[r]
+feel it, aren't you? It's getting all slippery, your pussy!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -592,16 +579,14 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1092"]
 [ns]Ren[nse]
-「やっ、いやあぁ……そ、そんなことないものっ。[r]
-　そ、んなこと、言わないでぇ。やっあっあっ、やめてぇ。[r]
-　やめて、お兄ちゃん、お、お願いぃいっ……っ！」[pcms]
+"No, nooo... That's not true at all. Don't say such things. Nooo, stop it. Stop[r]
+it, big brother, pleaseee...!"[pcms]
 
 *8244|
 [fc]
 [ns]Wataru[nse]
-「そんなことないよ、漣。もうぬるぬるでぐちょぐちょだよ。[r]
-　もう十二分だよ。悠帆の代わりに、ボクのモノ、漣に挿れて[r]
-　あげるからね」[pcms]
+"It's not like that, Ren. It's already slippery and soaking wet. That's more[r]
+than enough. Instead of Yuuho, I'll insert mine into you, Ren."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -609,22 +594,20 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1093"]
 [ns]Ren[nse]
-「ひっ！　や、やだ。やめてぇ。こんなのいやあっ！[r]
-　お兄ちゃん、お願い。ごめんなさい、お兄ちゃん。[r]
-　お願い、やめて、やめてぇえ」[pcms]
+"Hii! No, I don't want this. Please stop. I'm sorry, big brother. Please, stop[r]
+it, stop it pleaseee."[pcms]
 
 ;mm
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *8246|
 [fc]
-ボクは漣のぐちゃぐちゃに濡れたパンツを横にずらし、[r]
-床に押し倒した。[pcms]
+I slide Ren's soaking wet panties to the side and push her down to the floor.[pcms]
 
 *8247|
 [fc]
-漣のアソコが丸見えになる。薄い茂みのアソコが。[r]
-てらてらぬらぬら、充分に濡れきったアソコ。[pcms]
+Ren's pussy is fully exposed. The thin bush of her pussy. Shiny and slippery,[r]
+thoroughly wet.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//HEV041b.bmp
@@ -638,22 +621,21 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1094"]
 [ns]Ren[nse]
-「ひいっっ！！　い、痛っ、や、いやああああああっ！！」[pcms]
+"Hiiii!! It hurts, no, nooooo!!"[pcms]
 
 *8249|
 [fc]
-ボクは一気に漣のアソコの奥まで、[r]
-モノを突き刺した。[pcms]
+I thrust my dick deep into Ren's pussy in one go.[pcms]
 
 *8250|
 [fc]
-漣の肉壁は、ちょっと抵抗したけれど、ずぶずぶと[r]
-ボクのモノを受け入れていった。[pcms]
+Ren's flesh walls resisted a little, but they gradually accepted my dick,[r]
+engulfing it completely.[pcms]
 
 *8251|
 [fc]
 [ns]Wataru[nse]
-「ほおら、挿れてあげたよ、漣。気持ちいいだろう？」[pcms]
+"There you go, I've put it in, Ren. Feels good, doesn't it?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -661,15 +643,14 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1095"]
 [ns]Ren[nse]
-「い゛っ、い゛っ痛……っいよお、お兄ちゃ……んっ。[r]
-　お願……いぃ。抜いてぇ。こんなのいやだ……よぉぉ」[pcms]
+"I-it hurts... no, please, big brother... Please, pull it out. I don't want[r]
+this...noooo."[pcms]
 
 *8253|
 [fc]
 [ns]Wataru[nse]
-「大丈夫だよ、漣。すぐ気持ちよくしてあげるから。[r]
-　ほら、漣のアソコだって、早く早くってボクのモノを[r]
-　ぐいぐい引っ張ってるよ」[pcms]
+"It's okay, Ren. I'll make you feel good soon. Look, your pussy is already[r]
+pulling on my dick, begging for more."[pcms]
 
 ;//〆Ｄ：射精に怯える漣
 ;//HEV041b.bmp
@@ -680,14 +661,13 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1096"]
 [ns]Ren[nse]
-「いやあぁあ、嘘ぉぉぉ……そんなこと……ひっ！[r]
-　ひいいぃぃいいいっい゛っい゛っ……んひぃいいっ！」[pcms]
+"No, no, that's a lie... such a thing... biku! Biku...nhiiii!"[pcms]
 
 *8255|
 [fc]
-ボクはガンガンに腰を振った。最初から容赦なく。[r]
-漣の肉壁が押さえ込もうとボクのモノにまとわりつく。[r]
-それを擦って打ち破って、どろどろにしてやる。[pcms]
+I thrust my hips fiercely. Without any mercy from the start. Ren's flesh walls[r]
+clung to my dick as if trying to hold it down. I rubbed against them, breaking[r]
+through and turning them into a sloppy mess.[pcms]
 
 [evcg storage="HEV041c"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -696,21 +676,19 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1097"]
 [ns]Ren[nse]
-「あひいぃっ、い゛っい゛っ……んひいいっ！！[r]
-　いっ……やあぁ……ひっ、いやあぁ……[r]
-　お……にいちゃ……、いっい゛っいた……っひいぃい！」[pcms]
+"Ahiiii! Biku...biku...nhiiii!! No...nooo...biku, I don't want this... Big[r]
+brother, it hurts...nhiiii!"[pcms]
 
 *8257|
 [fc]
-ぐちゅぐちゅという卑猥な音がしてくる。[r]
-漣にも聞こえてるんだろう。漣の肉壁がボクのモノを[r]
-ぎゅうぎゅうと締めあげてきた。[pcms]
+Squishy, obscene sounds could be heard. Ren must hear them too. Her flesh walls[r]
+tightened around my dick, squeezing it hard.[pcms]
 
 *8258|
 [fc]
 [ns]Wataru[nse]
-「うっ……締まる。漣のアソコ、すごい締めつけてるよ。[r]
-　うっ……うおっ……くうっ、そんなに締めつけたら……」[pcms]
+"Ugh...it's so tight. Ren's pussy is squeezing me so hard. Ugh...whoa...kuu, if[r]
+you squeeze that hard..."[pcms]
 
 [evcg storage="HEV041d"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -719,20 +697,18 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1098"]
 [ns]Ren[nse]
-「やっやっ……いやあっ……ひぃいいいっ、そんなこと、[r]
-　そんなこと、して……ないっ……ものっ、あひいいいっ！」[pcms]
+"No, no...noooo...ahiiii, not like that, not doing...that...ahiiii!"[pcms]
 
 *8260|
 [fc]
 [ns]Wataru[nse]
-「凄いよ、漣のアソコ。ううっくうっ。[r]
-　ぐちょぐちょ言いながら、ボクのモノ、中に引っ張る……」[pcms]
+"It's amazing, Ren's pussy. Ugh, kuu. It's making squishy sounds while pulling[r]
+on my dick..."[pcms]
 
 *8261|
 [fc]
 [ns]Wataru[nse]
-「うっ……うおおっ、出す、もう出すぞ、漣っ。[r]
-　出すっっっ！！」[pcms]
+"Ugh...whoa, I'm going to cum, Ren. I'm cummingggg!!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -740,13 +716,13 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1099"]
 [ns]Ren[nse]
-「やっ、だめぇっ、お兄ちゃ……だめえぇ、中には、[r]
-　中には出しちゃ……だ、めえぇぇっっっ……あああっ！！」[pcms]
+"No, don't, big brother...nooo, not inside, you can't cum[r]
+inside...nooooo...ahhh!!"[pcms]
 
 *8263|
 [fc]
 [ns]Wataru[nse]
-「くっ……うおおおおぉ！！　出る、出すぞぉーーっ！」[pcms]
+"Ku...whoaaaa!! I'm cumming, I'm cumming--!"[pcms]
 
 ;//#_ホワイトフラッシュ
 ;//#_ホワイトフラッシュ
@@ -761,7 +737,7 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1100"]
 [ns]Ren[nse]
-「いっ、いやああああああああああっぁああっああっ！！」[pcms]
+"No, nooooooooooooooooo!!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -769,8 +745,8 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 [fc]
 [vo_ren s="ren1101"]
 [ns]Ren[nse]
-「ひぃいいいいっ、やっだあぁ、中……中にぃ……ああっ……[r]
-　お兄ちゃんの……精子がぁあ……中……ぃ……やぁ……」[pcms]
+"Hiiiiiiii, nooo, inside...inside...ahhh...big brother's...cum[r]
+is...inside...nooo..."[pcms]
 
 ;//〆Ｆ：ぐったりする漣　あふれる精液
 ;//HEV041f.bmp
@@ -778,13 +754,13 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 
 *8266|
 [fc]
-ぢゅぽんという音をさせて、ボクのモノは漣に押し出された。[r]
-中から。ボクの精子ともども。[pcms]
+With a 'jupon' sound, my dick was pushed out by Ren. From inside. Along with my[r]
+cum.[pcms]
 
 *8267|
 [fc]
-真っピンクに染まった漣のアソコから、白と赤に染まった[r]
-ボクと漣の汁が、流れ出していた。[pcms]
+From Ren's pussy, now dyed bright pink, our mixed juices stained white and red[r]
+flowed out.[pcms]
 
 
 ;//#_フェイドアウト
@@ -798,10 +774,8 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 
 *8268|
 [fc]
-ボクは……どうかしていたんだ……。[r]
-妹の漣を……犯してしまうだなんて……。[r]
-Of all people... I did such a terrible thing to my precious sister Ren, who was[r]
-trying to comfort me.[pcms]
+I was...out of my mind... To do such a thing to my sister Ren...who was trying[r]
+to comfort me.[pcms]
 
 *8269|
 [fc]
@@ -958,7 +932,7 @@ stay by your side forever. And you stay by my side forever too."[pcms]
 [fc]
 [vo_ren s="ren1111"]
 [ns]Ren[nse]
-"Ren! I'm sorry...I'm so sorry, Ren.... I was only thinking about myself. I said[r]
+"Ren! I'm sorry...I'm so sorry, Ren... I was only thinking about myself. I said[r]
 I understood, but I didn't consider everyone's feelings...Ren's feelings..."[pcms]
 
 *8290|

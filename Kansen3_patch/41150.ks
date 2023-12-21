@@ -832,7 +832,7 @@ I'm with Yuuho right now... Is there anything else besides having sex?[pcms]
 
 *4075|
 [fc]
-...... ...... ......[pcms]
+... ... ...[pcms]
 
 *4076|
 [fc]

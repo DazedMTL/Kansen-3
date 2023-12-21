@@ -306,25 +306,24 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 
 *5384|
 [fc]
-先輩の言葉にボクは反射的に二人を見回す。[pcms]
+At the senior's words, I reflexively looked around at the two of them.[pcms]
 
 *5385|
 [fc]
 [vo_ren s="ren0643"]
 [ns]Ren[nse]
-「………………」[pcms]
+"..."[pcms]
 ;//＠寝息
 
 *5386|
 [fc]
 [ns]Kousuke[nse]
-「………………」[pcms]
+"..."[pcms]
 
 *5387|
 [fc]
-二人はまだ起きてはいない。[r]
-起こしたほうがいいのではと思いながらも、[r]
-ボクはそれに胸をなでおろしてしまう。[pcms]
+The two of them are still not awake. While I think it might be better to wake[r]
+them up, I can't help but feel relieved.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -332,16 +331,16 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 [fc]
 [vo_mar s="maru0747"]
 [ns]Margarita[nse]
-「この状況では、今はここにいるのが一番よさそうだ。[r]
-　どのみち、今はどこに行っても奴らと出くわす」[pcms]
+"In this situation, it seems best to stay here for now. Anyway, if we go[r]
+anywhere now, we might run into them."[pcms]
 
 *5389|
 [fc]
 [vo_mar s="maru0748"]
 [ns]Margarita[nse]
-「ここなら、片側の安全は確認できているし、逃げ道も二つある。[r]
-　キミの父上が来るよりも早くあいつらに遭遇しても、[r]
-　こちらが逃げ出す余地は十分にある」[pcms]
+"Here, we can confirm the safety of one side, and there are two escape routes.[r]
+Even if we encounter them before your father arrives, we have plenty of room to[r]
+escape."[pcms]
 
 ;//逃げ道も二つある
 ;//先は行き止まりと宇田川へ通じる通路だけなので一つでは？
@@ -351,52 +350,50 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 [fc]
 [vo_mar s="maru0749"]
 [ns]Margarita[nse]
-「ここは比較的安全といえる。[r]
-　だから今は、キミの父上が助けに来てくれることを信じて、[r]
-　ここで待つことにしよう」[pcms]
+"This place can be considered relatively safe. So for now, let's believe that[r]
+your father will come to rescue us and wait here."[pcms]
 
 *5391|
 [fc]
 [ns]Wataru[nse]
-「わかりました……」[pcms]
+"Understood..."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5392|
 [fc]
-ボクはうなだれるように下を見る。[pcms]
+I look down as if dejected.[pcms]
 
 *5393|
 [fc]
-薄暗い地下通路を照らすランタンの光。[r]
-コンクリートの上には、身体を冷やさないようにとのことで[r]
-シートを敷いてある。[pcms]
+The light from the lantern illuminates the dim underground passage. On the[r]
+concrete, there is a sheet laid out so as not to chill our bodies.[pcms]
 
 *5394|
 [fc]
-本当に先輩はこういうときにどうすればいいかを良く知っている。[r]
-先輩はきっと戦争という思い出したくもないような極限状態で[r]
-こういったことを身につけたに違いない。[pcms]
+"Senpai really knows what to do in times like these. She must have learned this[r]
+during the war, an extreme situation she probably doesn't even want to[r]
+remember."[pcms]
 
 *5395|
 [fc]
-先輩はボクたちとは違って生死の狭間をさまよったことがあり、。[r]
-その中でお母さんを失っている。[pcms]
+"Unlike us, Senpai has wandered the thin line between life and death, and in the[r]
+midst of that, she lost her mother."[pcms]
 
 *5396|
 [fc]
-情けない話かもしれないけど、[r]
-先輩以上の判断がボクにできるわけがない。[pcms]
+"It might be a shameful thing to admit, but there's no way I can make better[r]
+judgments than Senpai."[pcms]
 
 *5397|
 [fc]
-……いや、平和ボケだといわれるこの国で、[r]
-こんな時に先輩以上の判断力を持つ人がどれだけいるだろうか？[pcms]
+"...No, in this peace-spoiled country, how many people would have the decision-[r]
+making skills of Senpai in such a situation?"[pcms]
 
 *5398|
 [fc]
-きっと、１００人に１人だって、いやしないだろう。[pcms]
+"Surely, not even one in a hundred."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -404,27 +401,26 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 [fc]
 [vo_mar s="maru0750"]
 [ns]Margarita[nse]
-「………………」[pcms]
+"..."[pcms]
 
 *5400|
 [fc]
-先輩は扉の前に座り、反対側へと目を向けて、[r]
-時折耳を澄ませているように見える。[r]
-きっと、こうやって休みながらも安全に気を配っているんだろう。[pcms]
+"Senpai sits in front of the door, occasionally looking over her shoulder and[r]
+seeming to listen intently. She must be keeping watch for our safety even while[r]
+resting."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5401|
 [fc]
-たしかに先輩の言うとおり、父さんを信じて待ちながら、[r]
-ここで状況をみると言うのは悪くない。[r]
-……いや、きっと最善だ。[pcms]
+"Indeed, as Senpai said, believing in Dad and waiting while observing the[r]
+situation here isn't bad. ...No, it's surely the best option."[pcms]
 
 *5402|
 [fc]
 [ns]Wataru[nse]
-「………………」[pcms]
+"..."[pcms]
 
 ;//se064・衣擦れの音
 [se buf=0 storage="se064"]
@@ -435,18 +431,16 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 [fc]
 [vo_mar s="maru0751"]
 [ns]Margarita[nse]
-「……どうした？　ワタル？」[pcms]
+"...What's wrong? Wataru?"[pcms]
 
 *5404|
 [fc]
-立ち上がって、先輩のそばに行ったボクに[r]
-先輩は不思議な顔をする。[pcms]
+Standing up and going over to Senpai, she gives me a curious look.[pcms]
 
 *5405|
 [fc]
 [ns]Wataru[nse]
-「先輩も休んでて下さい……。[r]
-　ボクが見張ります」[pcms]
+"Please rest, Senpai... I'll keep watch."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -454,14 +448,12 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 [fc]
 [vo_mar s="maru0752"]
 [ns]Margarita[nse]
-「いや、ワタシが見張っておく。[r]
-　キミは休んでおけ……」[pcms]
+"No, I'll keep watch. You should rest..."[pcms]
 
 *5407|
 [fc]
 [ns]Wataru[nse]
-「いえ、なんだか頭がいっぱいで……。[r]
-　ゼンゼン眠れそうにないんです……」[pcms]
+"No, my head is just too full... I don't think I can sleep at all..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -469,19 +461,18 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 [fc]
 [vo_mar s="maru0753"]
 [ns]Margarita[nse]
-「……そうか……。[r]
-　しかし……」[pcms]
+"...Is that so... However..."[pcms]
 
 *5409|
 [fc]
 [ns]Wataru[nse]
-「効率を考えたら、ボクが見張るのがいいじゃないですか……」[pcms]
+"If we think about efficiency, it's better if I keep watch, isn't it...?"[pcms]
 
 *5410|
 [fc]
 [vo_mar s="maru0754"]
 [ns]Margarita[nse]
-「………………」[pcms]
+"..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -489,13 +480,12 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 [fc]
 [vo_mar s="maru0755"]
 [ns]Margarita[nse]
-「それもそうだな……。[r]
-　見張りを頼むとしよう」[pcms]
+"That's true... I'll leave the watch to you then."[pcms]
 
 *5412|
 [fc]
 [ns]Wataru[nse]
-「はいっ……」[pcms]
+"Yes...!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -503,12 +493,11 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 [fc]
 [vo_mar s="maru0756"]
 [ns]Margarita[nse]
-「………………」[pcms]
+"..."[pcms]
 
 *5414|
 [fc]
-ボクの返事に、無言でうなずくと[r]
-先輩はボクから少しはなれて身体を横にする。[pcms]
+As I respond, Senpai nods silently and then lies down a little away from me.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -517,68 +506,66 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 [fc]
 [vo_mar s="maru0757"]
 [ns]Margarita[nse]
-「………………」[pcms]
+"..."[pcms]
 ;//＠　寝息
 
 *5416|
 [fc]
-しばらくすると、先輩から静かな寝息が聞こえてくる。[pcms]
+After a while, I can hear Senpai's quiet breathing as she sleeps.[pcms]
 
 *5417|
 [fc]
-見張りを引き受けるとはいったものの、こうなるとなんだか寂しい。[pcms]
+Even though I agreed to keep watch, it feels somewhat lonely now.[pcms]
 
 ;//se022・携帯電話の操作音
 [se buf=0 storage="se022"]
 
 *5418|
 [fc]
-ボクは寂しさを忘れるように、父さんにメールを打った。[pcms]
+I try to forget the loneliness by sending an email to Dad.[pcms]
 
 *5419|
 [fc]
-『ボクたちは、ここで待っている』ってことを。[r]
-それから『がんばって』『無理をしないで』[pcms]
+"We are waiting here," I write, followed by "Do your best" and "Don't overdo[r]
+it."[pcms]
 
 *5420|
 [fc]
-今度の短いメールは思ったよりもあっさりと送信された。[r]
-父さんにここにいることを送信した時とは比べものにならないほど、[r]
-スムーズな送信だった。[pcms]
+This short email was sent much more smoothly than when I tried to inform Dad of[r]
+our location. It was incomparably smoother.[pcms]
 
 *5421|
 [fc]
-『混雑が解消されているんだろうか？』[pcms]
+"Maybe the congestion has cleared up?"[pcms]
 
 *5422|
 [fc]
-そう思ってボクは違う可能性にまた背筋が寒くなった。[pcms]
+Thinking this, I feel a chill down my spine as I consider another possibility.[pcms]
 
 *5423|
 [fc]
-混雑しようにもケータイを使える人間が減っているんじゃ[r]
-ないだろうか？[pcms]
+Could it be that there are fewer people able to use their phones because of the[r]
+congestion?[pcms]
 
 *5424|
 [fc]
-つまりはケータイを使えない人間が……おかしくなった人が[r]
-ますます増えてるからじゃないんだろうか……。[pcms]
+Could it be that the number of people who can't use their phones... the number[r]
+of people acting strangely has increased even more...?[pcms]
 
 ;//se022・携帯の操作音
 [se buf=0 storage="se022"]
 
 *5425|
 [fc]
-ボクは恐ろしい考えを振り切って、、[r]
-今度はケータイをネットにつないでみる。[pcms]
+I shake off the terrifying thought and try connecting my phone to the internet.[pcms]
 
 *5426|
 [fc]
-だけど、こっちはまだまだ重くて、使いものにならない。[pcms]
+But it's still too slow to be of any use.[pcms]
 
 *5427|
 [fc]
-ボクはケータイを閉じて、見張りを続けた。[pcms]
+I close my phone and continue to keep watch.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -588,7 +575,7 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 *5428|
 [fc]
 [ns]Wataru[nse]
-「………………」[pcms]
+"..."[pcms]
 
 ;//se022・携帯の操作音
 [se buf=0 storage="se022"]
@@ -596,26 +583,26 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 *5429|
 [fc]
 [ns]Wataru[nse]
-「あっ……」[pcms]
+"Ah..."[pcms]
 
 ;//@konya ev025 地下道(BG扱い)
 [evcg storage="EV025b"][trans_c cross time=300]
 
 *5430|
 [fc]
-ボクは見張りの退屈さについついケータイを取り出して、[r]
-いつものようにゲームを始めようとしていた。[pcms]
+I inadvertently take out my phone to relieve the boredom of keeping watch,[r]
+intending to start a game like I always do.[pcms]
 
 *5431|
 [fc]
-ネットにつながないとできないゲームだから、[r]
-この状況でできるわけがない。[pcms]
+It's a game that requires an internet connection, so there's no way I can play[r]
+it in this situation.[pcms]
 
 *5432|
 [fc]
-できるとしても、この電池を大切にしないといけない状況で[r]
-無駄使いはできない。[r]
-充電器にはまだ電力は残ってるはずだけど油断はできない。[pcms]
+Even if I could, I shouldn't waste the battery in these circumstances. I need to[r]
+conserve power. There should still be some power left in the charger, but I[r]
+can't be careless.[pcms]
 
 ;//se022・携帯の操作音
 [se buf=0 storage="se022"]

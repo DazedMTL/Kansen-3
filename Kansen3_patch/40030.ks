@@ -129,8 +129,8 @@ a height that could kill you instantly if you're unlucky.[pcms]
 
 *99|
 [fc]
-In the pastthere was a game about an explorer who died just from tripping over[r]
-a small step, but humans can die from just slipping if they hit the wrong spot.[pcms]
+In the pastthere was a game about an explorer who died just from tripping over a[r]
+small step, but humans can die from just slipping if they hit the wrong spot.[pcms]
 
 *100|
 [fc]

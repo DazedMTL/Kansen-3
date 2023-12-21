@@ -178,7 +178,7 @@ Trying not to show my tear-stained face, I attempted to pass by Yuuho.[pcms]
 *8516|
 [fc]
 [ns]Wataru[nse]
-"…!"[pcms]
+"...!"[pcms]
 
 ;mm 顔アップ貼る
 [eval exp="sf.EV013c = 1"][evcg storage="EV013c_L" x=-52 z=112][trans_c cross time=300]

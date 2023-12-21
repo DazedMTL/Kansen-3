@@ -890,58 +890,53 @@ Suddenly, something soft touched my palm.[pcms]
 
 *1289|
 [fc]
-そしてなぜか間近にある漣の顔。[pcms]
+And for some reason, Ren's face was right in front of me.[pcms]
 
 *1290|
 [fc]
 [ns]Wataru[nse]
-「えっ？　あっ、あぁあああああっ！！　ゴメンッ！」[pcms]
+"Eh? Ah, aaaaaah!! Sorry!"[pcms]
 
 *1291|
 [fc]
-自分の状況に気がついたとき、ボクは慌てて飛び起きて[r]
-漣に背を向けた。[pcms]
+When I realized what was happening, I panicked and quickly got up, turning my[r]
+back to Ren.[pcms]
 
 *1292|
 [fc]
-漣を押さえつけようとして立ち上がったとき、[r]
-何の拍子か悪戯か、ボクは漣を思いっきり床に[r]
-押し倒していた。[pcms]
+When I stood up to try and hold Ren down, by some fluke or mischief, I had ended[r]
+up pushing her down hard onto the floor.[pcms]
 
 *1293|
 [fc]
-手のひらにふにっと触れた柔らかいモノは、[r]
-漣のおっぱいで……。[pcms]
+The soft thing that my palm felt was... Ren's breast.[pcms]
 
 *1294|
 [fc]
 [ns]Wataru[nse]
-「ゴメン。そ、その、触る気はなかったと言うか、[r]
-　事故って言うか……本当にゴメンっ！！」[pcms]
+"Sorry. I mean, I didn't intend to touch you, it was an accident... I'm really[r]
+sorry!!"[pcms]
 
 *1295|
 [fc]
 [vo_ren s="ren0063"]
 [ns]Ren[nse]
-「……もういいよ、お兄ちゃん」[pcms]
+"...It's okay, Onii-chan."[pcms]
 
 *1296|
 [fc]
-漣の声が背中越しに聞こえる。少し呆れたような、[r]
-同情してるような声に聞こえるのは、[r]
-ボクの気のせいなんだろうか？[pcms]
+Ren's voice came from behind me. It sounded a bit exasperated, maybe even[r]
+sympathetic. Or is that just my imagination?[pcms]
 
 *1297|
 [fc]
-ボクはスゴスゴと元の位置に戻り、[r]
-漣の正面に座りなおした。[pcms]
+I sheepishly returned to my original spot and sat down again in front of Ren.[pcms]
 
 *1298|
 [fc]
 [ns]Wataru[nse]
-「ゴメン、漣。別にボクはその、お前を押し倒すとか[r]
-　そう言うつもりじゃなかったんだけど、[r]
-　なんかの拍子って言うか……」[pcms]
+"Sorry, Ren. I didn't mean to push you down or anything, it was just some kind[r]
+of fluke..."[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d14"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -949,23 +944,23 @@ Suddenly, something soft touched my palm.[pcms]
 [fc]
 [vo_ren s="ren0064"]
 [ns]Ren[nse]
-「もういいってば。それよりご飯食べよう？　お素麺、[r]
-　温くなっちゃうよ？」[pcms]
+"It's fine already. Shall we eat instead? The somen noodles are going to get[r]
+cold, you know?"[pcms]
 
 *1300|
 [fc]
 [ns]Wataru[nse]
-「あっ、あぁ、そうだな」[pcms]
+"Ah, yeah, that's right."[pcms]
 
 *1301|
 [fc]
-漣の言葉を聞いてもなんだかいたたまれなくて、ボクは[r]
-気まずい雰囲気を隠すために、ＴＶの電源を入れた。[pcms]
+Feeling somewhat guilty even after hearing Ren's words, I turned on the TV to[r]
+hide the awkward atmosphere.[pcms]
 
 *1302|
 [fc]
-ついたチャンネルはちょうどニュースを流していて、[r]
-暑さに参った動物園の動物たちの話題を取り扱っている。[pcms]
+The channel that came on was broadcasting the news, covering a story about zoo[r]
+animals struggling with the heat.[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d8"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -973,52 +968,49 @@ Suddenly, something soft touched my palm.[pcms]
 [fc]
 [vo_ren s="ren0065"]
 [ns]Ren[nse]
-「でろんってして、可愛いね、白熊」[pcms]
+"Look at the polar bear sprawled out, it's cute."[pcms]
 
 *1304|
 [fc]
 [ns]Wataru[nse]
-「そうか？」[pcms]
+"Is that so?"[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d7"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *1305|
 [fc]
-なんでこんなのが可愛いと映るんだろうと思いながらも、[r]
-漣が興味を持ったようなので、チャンネルはそのままにして、[r]
-ボクらは夕飯を食べ始めた。[pcms]
+While I wondered why she found that cute, Ren seemed interested, so I left the[r]
+channel as it was and we started eating our dinner.[pcms]
 
 *1306|
 [fc]
-騒ぎのせいでだいぶ伸びてしまったけれど、まだ冷たさが残る[r]
-素麺をすすっていると、動物園のニュースは終わり、[r]
-今日の出来事を伝えるニュースになった。[pcms]
+The commotion had caused the noodles to stretch out a bit, but as we slurped the[r]
+still-chilled somen, the zoo news ended and switched to today's events.[pcms]
 
 *1307|
 [fc]
-チャンネルを変えるのも面倒で、そのままつけたままに[r]
-していたボクの耳に、『[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]』の言葉が[r]
-飛び込んでくる。[pcms]
+Without bothering to change the channel, the words "Tohoku Infection Disaster"[r]
+suddenly caught my attention.[pcms]
 
 *1308|
 [fc]
 [vo_mob s="ana0001A"]
 [ns]Announcer[nse]
-「今日で１０回目となる東京高裁での[r]
-　『[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]』訴訟で――」[pcms]
+"Today marks the 10th hearing at the Tokyo High Court regarding the 'Tohoku[r]
+Infection Disaster' lawsuit--"[pcms]
 ;//〆ボイスa、b有り
 
 *1309|
 [fc]
 [vo_mob s="ana0002"]
 [ns]Announcer[nse]
-「感染被害遺族の弁護団は事件からもう４年が[r]
-　過ぎているというのに、遺体さえも――」[pcms]
+"The legal team for the families affected by the infection claims that even[r]
+after four years have passed since the incident, they still haven't received--"[pcms]
 
 *1310|
 [fc]
 [ns]Wataru[nse]
-「もう４年か……」[pcms]
+"Has it been four years already..."[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -1026,12 +1018,12 @@ Suddenly, something soft touched my palm.[pcms]
 [fc]
 [vo_ren s="ren0066"]
 [ns]Ren[nse]
-「えっ？」[pcms]
+"Huh?"[pcms]
 
 *1312|
 [fc]
 [ns]Wataru[nse]
-「いや……母さんがいなくなって４年が経つんだなって思ってさ」[pcms]
+"No... I was just thinking that it's been four years since mom passed away."[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d11"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -1039,7 +1031,7 @@ Suddenly, something soft touched my palm.[pcms]
 [fc]
 [vo_ren s="ren0067"]
 [ns]Ren[nse]
-「うん……」[pcms]
+"Yeah..."[pcms]
 
 ;//♪：lastsummer　フェードアウト
 [fadeoutbgm time=500]
@@ -1052,132 +1044,125 @@ Suddenly, something soft touched my palm.[pcms]
 
 *1314|
 [fc]
-沈痛な顔つきで答える漣に、[r]
-ボクは自然に４年前の事を思い出した。[pcms]
+Ren answered with a pained expression, and I naturally found myself reminiscing[r]
+about what happened four years ago.[pcms]
 
 *1315|
 [fc]
-４年前までボクたち家族は、夏休みは母さんの[r]
-生まれ故郷である明田で過ごすのが恒例だった。[pcms]
+Up until four years ago, it was a family tradition for us to spend our summer[r]
+vacations in Akita, my mother's hometown.[pcms]
 
 *1316|
 [fc]
-先に母さんとボクら三人で明田に向かい、[r]
-後から盆休みを取った父さんが合流する。[pcms]
+Mom would go ahead with the three of us kids to Akita, and Dad would join us[r]
+later after taking his Obon holiday.[pcms]
 
 *1317|
 [fc]
-それがいつものスタイル。[pcms]
+That was always the style.[pcms]
 
 *1318|
 [fc]
-そう……いつものスタイルと言えるほど、[r]
-ボクらは初めからひとつの家族のようにまとまっていたんだ。[pcms]
+Yes... It could be said that it was always our style, as if we had been a single[r]
+family unit from the very beginning.[pcms]
 
 *1319|
 [fc]
-実際、４人で過ごすようになったのは、[r]
-母さんと父さんがお互い連れ子同士で再婚してからで、[r]
-それまでは母さんと二人、明田に帰っていたんだけれど。[pcms]
+In reality, it was only after my mom and dad remarried each other, each with[r]
+their own children, that the four of us started spending time together. Before[r]
+that, it was just my mom and me going back to Akita.[pcms]
 
 *1320|
 [fc]
-ボクの本当の父さんと言う人が、いったいどんな人だったのか、[r]
-そしてどんな理由で母さんと別れたのか、[r]
-ボクはあまりにも幼かったから何も知らない。[pcms]
+I don't know much about my real father, who he was or why he and my mom split[r]
+up, because I was too young to remember anything.[pcms]
 
 *1321|
 [fc]
-漣のお母さんは、漣と同じような体で病弱だったから、[r]
-漣を産んですぐに亡くなったとは聞いた事がある。[r]
-でも、もしかしたらそれが良かったのかもしれない。[pcms]
+I've heard that Ren's mother was frail, just like Ren, and passed away soon[r]
+after giving birth to her. But maybe that was for the best.[pcms]
 
 *1322|
 [fc]
-実の父親の顔も知らずに育ったボクにとって、父さんと[r]
-呼べる人は、血の繋がりはなくても漣の、今の父さんだけだし、[r]
-漣にとっての母さんもそうだろう。[pcms]
+For me, who grew up without knowing my biological father's face, the man I call[r]
+Dad is Ren's current father, even though we're not related by blood. And I[r]
+suppose it's the same for Ren with her mother.[pcms]
 
 *1323|
 [fc]
-ボクたち家族が４人に増えても、祖父ちゃんと[r]
-祖母ちゃんは温かく迎えてくれた。[pcms]
+Even when our family grew to four people, Grandpa and Grandma always welcomed us[r]
+warmly.[pcms]
 
 *1324|
 [fc]
-そして元々東京生まれの東京育ちだった漣と父さんも[r]
-すぐに明田を気に入ってくれた。[pcms]
+And Ren and Dad, originally from Tokyo, quickly grew fond of Akita as well.[pcms]
 
 *1325|
 [fc]
-もちろん、ボクも明田で過ごす夏が大好きだった。[pcms]
+Of course, I also loved spending summers in Akita.[pcms]
 
 *1326|
 [fc]
-東京みたいに何処へ行ってもコンクリートと[r]
-アスファルトに囲まれた街ではなく、[r]
-自然豊かな明田。[pcms]
+It wasn't a city surrounded by concrete and asphalt everywhere like Tokyo, but a[r]
+place rich in nature.[pcms]
 
 *1327|
 [fc]
-食べ物も美味しく、人々は暖かく親切で、同じ日本とは[r]
-信じられないほどのんびりとした時間が[r]
-あそこにはあった。[pcms]
+The food was delicious, the people were warm and kind, and the relaxed pace of[r]
+life there was almost unbelievable for the same Japan.[pcms]
 
 *1328|
 [fc]
-たぶん、東京で生まれ育ったけれど、ボクの中に[r]
-流れている血が、明田とあっていたのかもしれない。[pcms]
+Maybe, even though I was born and raised in Tokyo, the blood flowing through me[r]
+matched well with Akita.[pcms]
 
 *1329|
 [fc]
-そして何より、祖父ちゃんの家の裏山から見る星空が最高だった。[pcms]
+And above all, the starry sky seen from the mountain behind Grandpa's house was[r]
+the best.[pcms]
 
 *1330|
 [fc]
-ボクは山の上の草原に寝転んで、母さんが迎えに来るまで[r]
-いつまでも星の瞬きを眺めていた。[pcms]
+I would lie down on the grassy hilltop and gaze at the twinkling stars until Mom[r]
+came to pick me up.[pcms]
 
 *1331|
 [fc]
-もしかしたら、ボクの星好きはあの明田の星空が[r]
-原点なのかもしれない。[pcms]
+Perhaps my love for stars originated from those starry skies in Akita.[pcms]
 
 *1332|
 [fc]
-もちろん、漣と父さんが明田に来るようになってからは、[r]
-漣も裏山での天体観測に加わるようになった。[pcms]
+Of course, once Ren and Dad started coming to Akita, Ren also joined in on the[r]
+stargazing from the mountain.[pcms]
 
 ;//BG：EV002B
 ;//<ImageLoad 4,EV002b.bmp><UpDate Cross,1000>
 
 *1333|
 [fc]
-それからはボクは母さんに迎えに来てもらわなくても、[r]
-ちゃんと家に帰るようになった。[pcms]
+After that, I didn't need Mom to come pick me up anymore; I would make sure to[r]
+go home on my own.[pcms]
 
 *1334|
 [fc]
-なにしろ、いつも漣は星を眺めている最中に、[r]
-いつの間にか眠ってしまうから。[pcms]
+After all, Ren would always fall asleep while gazing at the stars, without fail.[pcms]
 
 *1335|
 [fc]
-そして眠ってしまった漣をおんぶして帰るのが、ボクの[r]
-新しい習慣になった。[pcms]
+And carrying a sleeping Ren on my back on the way home became my new routine.[pcms]
 
 *1336|
 [fc]
-家に帰ってからは祖母ちゃんが切ってくれたスイカを食べながら、[r]
-祖父ちゃんと朝方に仕掛ける予定の昆虫採集の罠の相談をする。[pcms]
+Once we got home, we'd eat the watermelon Grandma had cut for us and discuss[r]
+with Grandpa the insect traps we planned to set up early in the morning.[pcms]
 
 *1337|
 [fc]
-それがいつもの楽しみで……とても幸せだった。[pcms]
+That was always something I looked forward to... it was very happy times.[pcms]
 
 *1338|
 [fc]
-でもあの年は――[pcms]
+But that year was--[pcms]
 
 *1339|
 [fc]
@@ -1315,8 +1300,8 @@ dark sky where not a single star could be seen.[pcms]
 
 *1363|
 [fc]
-If I were to use a clich expression, it would be as if the stars from heaven[r]
-had descended to the earth?[pcms]
+If I were to use a clich expression, it would be as if the stars from heaven had[r]
+descended to the earth?[pcms]
 
 *1364|
 [fc]

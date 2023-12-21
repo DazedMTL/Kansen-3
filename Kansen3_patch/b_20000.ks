@@ -377,12 +377,11 @@ important..."[pcms]
 *3945|
 [fc]
 [ns]Wataru[nse]
-「本当に、素晴らしいコトだよ、漣？[r]
-　お前なら、きっと、分かってくれる……」[pcms]
+"It's really something wonderful, Ren? I'm sure you'll understand..."[pcms]
 
 *3946|
 [fc]
-ボクと悠帆は『ねーっ』と顔を見合わせにっこり笑った。[pcms]
+Yuuho and I exchange glances and smile at each other.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_k3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -390,24 +389,22 @@ important..."[pcms]
 [fc]
 [vo_ren s="ren_KB0017"]
 [ns]Ren[nse]
-「やめてぇぇっ、やだぁっ、[r]
-　悠帆ちゃんまで……っ！　二人とも、どうしちゃったの！？」[pcms]
+"Stop it, no, not you too, Yuuho-chan...! What's gotten into both of you?!"[pcms]
 
 *3948|
 [fc]
-漣はボクたちの説得に耳を貸さず、[r]
-なおも激しく抵抗しながら大きく首を振って泣き叫ぶ。[pcms]
+Ren continues to cry out and shake her head vigorously, refusing to listen to[r]
+our persuasion as she resists fiercely.[pcms]
 
 *3949|
 [fc]
 [ns]Wataru[nse]
-「怖がらなくてもいいんだよ。[r]
-　すぐ……楽しくなれるからね」[pcms]
+"You don't have to be scared. It'll become fun soon enough."[pcms]
 
 *3950|
 [fc]
-ボクは邪魔なストッキングに爪をかけ、力をこめる。[r]
-ぴりぴりと小気味よい感触と共に、ストッキングが伝線していく。[pcms]
+I hook my nails into the bothersome stockings and apply force. With a pleasant[r]
+ripping sensation, the stockings begin to run.[pcms]
 
 ;//Ｂ：挿入前・ストッキング破れ
 [evcg storage="HEV050b"][trans_c cross time=300]
@@ -418,12 +415,12 @@ important..."[pcms]
 [fc]
 [vo_ren s="ren_KB0018"]
 [ns]Ren[nse]
-「こっ、こんなのっ、イヤあぁぁっ！[r]
-　お兄ちゃん……っ！？」[pcms]
+"I don't want this, nooo! Onii-chan...?!"[pcms]
 
 *3952|
 [fc]
-秘部をさらし泣きじゃくっていた漣の表情が、不意に凍りついた。[pcms]
+The expression on Ren's face, who had been crying with her genitals exposed,[r]
+suddenly froze.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_k3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -431,25 +428,22 @@ important..."[pcms]
 [fc]
 [vo_ren s="ren_KB0019"]
 [ns]Ren[nse]
-「お…………お兄ちゃん、じゃ……ないっ！？[r]
-　あ、あなた……誰っ！！？？[r]
-　お兄ちゃんは、どこなのっ！？」[pcms]
+"You're... not Onii-chan!? Who are you...?? Where is my Onii-chan?!"[pcms]
 
 *3954|
 [fc]
-嫌悪としか言いようのないイヤな目でボクを睨み、[r]
-小さな拳を固めてボクを打ち、ますます激しく暴れ出す。[pcms]
+She glares at me with an unmistakable look of disgust, clenches her small fists[r]
+to hit me, and starts to thrash about even more violently.[pcms]
 
 *3955|
 [fc]
 [ns]Wataru[nse]
-「ばかだなあ。お前のお兄ちゃんじゃないか。[r]
-　いつまでも聞き分けないこと言う妹にはお仕置きだぞ？」[pcms]
+"You're such a fool. Aren't I your brother? A little sister who never listens[r]
+needs to be punished, right?"[pcms]
 
 *3956|
 [fc]
-やっぱり優しくするのは止めた。[r]
-少し痛い思いをさせてやることにしよう。[pcms]
+I decided to stop being gentle. I'll make her experience a bit of pain.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//Ｃ：挿入　破瓜に絶叫する漣
@@ -461,42 +455,43 @@ important..."[pcms]
 [fc]
 [vo_ren s="ren_KB0020"]
 [ns]Ren[nse]
-「きゃひぃぃぃーーーーっっっっ！！？？？」[pcms]
+"Kyahi---!!???"[pcms]
 
 *3958|
 [fc]
-濡れてもいない秘めやかな部分を切り裂くように貫いて[r]
-ボクはいきなり挿入する。[pcms]
+I penetrate her unmoistened, secretive place as if tearing through it, thrusting[r]
+in suddenly.[pcms]
 
 *3959|
 [fc]
-漣は喉の張り裂けそうな絶叫を放ち、半ば白目を剥いた。[pcms]
+Ren lets out a scream as if her throat is about to tear, her eyes rolling back[r]
+halfway.[pcms]
 
 *3960|
 [fc]
-構わずにぐいぐい腰を押し込むと、[r]
-ぶちぶちと肉の千切れる感触がして血の匂いが辺りに漂う。[pcms]
+Ignoring her, I push my hips forcefully, and I feel the sensation of flesh[r]
+tearing apart as the smell of blood wafts around us.[pcms]
 
 *3961|
 [fc]
-初めて男を受け入れた漣の胎内はとても狭く、[r]
-ペニスがぎゅっと握られてるみたいだった。[r]
-しかも生肉が痛みに強張って、痛いくらいの締め付けだ。[pcms]
+Ren's womb, accepting a man for the first time, is very narrow, and it feels[r]
+like my penis is being tightly gripped. Moreover, the raw flesh tightens from[r]
+the pain, squeezing painfully tight.[pcms]
 
 *3962|
 [fc]
 [ns]Wataru[nse]
-「あははははは、いいぞ、漣！　すっごくいい！」[pcms]
+"Ahahahaha, that's it, Ren! It feels so good!"[pcms]
 
 *3963|
 [fc]
-無理やりに抽送を始めると皮膚が擦れて[r]
-ボクのペニスまで赤剥けになってしまう。[pcms]
+As I start thrusting forcibly, our skins rub against each other, causing even my[r]
+penis to become raw and red.[pcms]
 
 *3964|
 [fc]
-痛い。凄く痛い。[r]
-だけどヒリヒリした刺激が、これはこれで悪くない。[pcms]
+It hurts. It really hurts. But the stinging sensation is not too bad in its own[r]
+way.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_k3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -504,26 +499,23 @@ important..."[pcms]
 [fc]
 [vo_ren s="ren_KB0021"]
 [ns]Ren[nse]
-「いいっ、いっいぎぃぃっ！？[r]
-　痛いぃっ、痛いよぉっ、やめてぇぇっ！？」[pcms]
+"It hurts, it hurts! Stop it, please!?"[pcms]
 
 *3966|
 [fc]
-泣き叫び、手足を痙攣させて漣が甲高い悲鳴を放つ。[r]
-だけどどんなに懇願されても止めるつもりなんかない。[pcms]
+Crying out and convulsing, Ren lets out a high-pitched scream. But no matter how[r]
+much she pleads, I have no intention of stopping.[pcms]
 
 *3967|
 [fc]
-だってボクはずっとこうしたかったから。[r]
-漣が妹だと分かっていても[r]
-心の奥底ではずっと『女』だと思ってたから。[pcms]
+After all, I've always wanted to do this. Even knowing Ren is my sister, deep[r]
+down I've always thought of her as a "woman".[pcms]
 
 *3968|
 [fc]
 [ns]Wataru[nse]
-「サイコーだよ、漣っ！[r]
-　こんな義妹、犯せるなんて、サイコーだっ！[r]
-　ひゃっはははははははは！」[pcms]
+"You're psycho, Ren! Being able to fuck a stepsister like this, it's psycho![r]
+Hyahahahahaha!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_k3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -531,12 +523,11 @@ important..."[pcms]
 [fc]
 [vo_ren s="ren_KB0022"]
 [ns]Ren[nse]
-「うううぐぅぅっ！　うああっ、かっ、はひぃぃ！[r]
-　いや……ぁぁ、いやだあぁぁ……っ！」[pcms]
+"Uuuugh! Uwaaah, no... ah, no, I don't want this...!"[pcms]
 
 *3970|
 [fc]
-泣きじゃくる漣の髪を撫で付けながら悠帆が甘い声で囁いた。[pcms]
+While stroking Ren's hair as she sobs, Yuuho whispers sweetly.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_e3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -544,23 +535,21 @@ important..."[pcms]
 [fc]
 [vo_yuh s="yuho_KB0006"]
 [ns]Yuuho[nse]
-「よかったねぇ……、れんちゃん……。[r]
-　昔から、わたる、好きだった……でしょぉ？[r]
-　ホントに……よかったねぇ……？」[pcms]
+"Thank goodness, Ren-chan... You've always liked Wataru, haven't you? Really,[r]
+thank goodness...?"[pcms]
 
 *3972|
 [fc]
-漣は悲鳴を上げ続けながらも、強情に首をぶんぶんと振る。[pcms]
+Even as she continues to scream, Ren stubbornly shakes her head.[pcms]
 
 *3973|
 [fc]
-ホントに聞き分けのない！[r]
-こんなワガママ娘に気を遣う必要なんかないんだ！[pcms]
+She's so disobedient! There's no need to be considerate of such a selfish girl![pcms]
 
 *3974|
 [fc]
-ボクは自分の欲望が赴くまま、腰の動きを早め、[r]
-荒々しい律動で漣を犯し貫いてやった。[pcms]
+I follow my desires, quickening the movement of my hips and violently thrusting[r]
+into Ren.[pcms]
 
 [evcg storage="HEV050d"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="ren_k3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -569,20 +558,17 @@ important..."[pcms]
 [fc]
 [vo_ren s="ren_KB0023"]
 [ns]Ren[nse]
-「くあああっ、がっ、ぎっ、かはぁっ！？[r]
-　ぐぶえええっ……！　ひっ、あぎぃぃぃっ！？」[pcms]
+"Ahhhh, gah, gih, kahah!? Gubeeeh...! Hih, agiiii!?"[pcms]
 
 *3976|
 [fc]
-急に勢いよく秘部を突かれ始め、漣の声が悲鳴から絶叫へ、[r]
-というかむしろ吐き気を訴えてでもいるような、[r]
-凄まじくえぐいものへと変わっていく。[pcms]
+Suddenly being thrust into vigorously, Ren's voice turns from a scream to a[r]
+shriek, as if she's almost complaining of nausea, into something terribly raw.[pcms]
 
 *3977|
 [fc]
-突き上げを受けるたびに細い漣の腰の骨盤がきしみ、[r]
-小さな淫花は裂けるくらいに広がり、[r]
-下腹までがぷっくりと膨らんでしまう。[pcms]
+With every thrust received, Ren's slender pelvis creaks, her small pussy spreads[r]
+as if it's going to tear, and her lower abdomen swells up noticeably.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_e3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -590,25 +576,23 @@ important..."[pcms]
 [fc]
 [vo_yuh s="yuho_KB0007"]
 [ns]Yuuho[nse]
-「……すごぉいぃ？　れんちゃんの、オマンコぉ……、[r]
-　わたるのが……入ると、ほらぁ……？[r]
-　お腹まで、膨らんで……、ふふふっ、カエルさん……？」[pcms]
+"...Amazing? Ren-chan's pussy... when Wataru enters, look...? Your stomach[r]
+swells up... fufufu, like a frog...?"[pcms]
 
 *3979|
 [fc]
-悠帆は目をきらきら輝かせて、[r]
-面白そうに漣の身体の変化や反応を楽しんでいる。[pcms]
+Yuuho's eyes sparkle with excitement as she amusingly observes the changes and[r]
+reactions in Ren's body.[pcms]
 
 *3980|
 [fc]
 [ns]Wataru[nse]
-「ああ、なんかもうキツすぎて、ダメだ、ボク。[r]
-　すぐ出ちゃうかも……」[pcms]
+"Ah, it's so tight, I can't take it anymore. I might cum soon..."[pcms]
 
 *3981|
 [fc]
-ゾクゾクした感覚が脊髄を走り抜ける。[r]
-近付く放出の時に向けて、ボクは一層早く深く漣に突き入れる。[pcms]
+A tingling sensation races up my spine. As the moment of release approaches, I[r]
+thrust into Ren even faster and deeper.[pcms]
 
 ;//Ｄ：射精に怯える漣
 [evcg storage="HEV050e"][trans_c cross time=300]
@@ -619,28 +603,27 @@ important..."[pcms]
 [fc]
 [vo_ren s="ren_KB0024"]
 [ns]Ren[nse]
-「きひぃぃぃ、ぃぃ、いやあぁぁっ！？[r]
-　こ、こんなの……っ、いっ、いやあぁぁっ！！[pcms]
+"Kihiiii, iii, noooo!? Th-this is... nooo!!"[pcms]
 
 *3983|
 [fc]
-ラストスパートに入ったボクの動きに、漣は本能的に怯える。[pcms]
+As I enter the final spurt of movement, Ren instinctively recoils in fear.[pcms]
 
 *3984|
 [fc]
-じたばたと四肢をもがいて腰を引き、[r]
-ボクから離れようと無駄な努力をしている。[pcms]
+She flails her limbs desperately trying to pull her hips away, making futile[r]
+efforts to escape from me.[pcms]
 
 *3985|
 [fc]
 [ns]Wataru[nse]
-「さっきからワガママすぎだぞ、漣。[r]
-　好き嫌いは許さないからな？　全部呑みなさい！」[pcms]
+"You've been too selfish for a while now, Ren. I won't allow any dislikes, okay?[r]
+Swallow it all!"[pcms]
 
 *3986|
 [fc]
-宣言し、充分に昂ぶったものを漣の胎内にお見舞いしようと[r]
-膣奥に突き入れたまま熱い飛沫をぶちまける。[pcms]
+Declaring so, I unleash my fully aroused self into Ren's womb, spilling hot[r]
+spurts deep inside her while still thrusting.[pcms]
 
 ;//Ｅ：射精される漣
 [se buf=0 storage="se_sex01"]
@@ -652,18 +635,17 @@ important..."[pcms]
 [fc]
 [vo_ren s="ren_KB0025"]
 [ns]Ren[nse]
-「いっ、いやあっ、いやっ、いやいやっ！！[r]
-　ひぎぃあああぁあぁぐあぁあがっ、くはぁぁぁ……っ！？」[pcms]
+"No, nooo, no, no nooo!! Higyaaaaahhhhhhhhhgah, kuhahhhh...!?"[pcms]
 
 *3988|
 [fc]
-肉棒が暴れ、注ぎ込まれたザーメンが子宮を叩く。[r]
-未知の異様な感覚に漣はわななき、絶叫を放つ。[pcms]
+The dick rampages, and the semen poured in strikes the uterus. Faced with an[r]
+unknown and bizarre sensation, Ren trembles and lets out a scream.[pcms]
 
 *3989|
 [fc]
-ボクの潮は尽きることなく次々に噴出し、[r]
-狭い肉道は白濁した汁で、たちまち一杯になってしまった。[pcms]
+My tide of cum shows no sign of stopping, gushing forth one after another, and[r]
+the narrow flesh canal is quickly filled with the cloudy fluid.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_e3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -671,28 +653,27 @@ important..."[pcms]
 [fc]
 [vo_yuh s="yuho_KB0008"]
 [ns]Yuuho[nse]
-「ふわあぁぁ……あふれてるぅ……？[r]
-　いっぱい、いっぱい……、わたるの、せーしぃ……！[r]
-　れんちゃんの、オマンコジュースぅぅ！」[pcms]
+"Wowwww... it's overflowing...? So much, so much... Wataru's semen...! Ren-[r]
+chan's pussy juice!"[pcms]
 
 *3991|
 [fc]
-結合部から吹き出す精液を目にして、悠帆が感嘆の声を上げる。[pcms]
+Yuuho raises a voice of admiration upon seeing the semen spouting from the[r]
+joined parts.[pcms]
 
 *3992|
 [fc]
 [ns]Wataru[nse]
-「もっと……もっと呑むんだ、ほら！」[pcms]
+"More... you need to swallow more, come on!"[pcms]
 
 *3993|
 [fc]
-何度も何度も絶頂が訪れ、ボクはひたすらに精を吐き続ける。[pcms]
+Orgasm after orgasm hits, and I continue to relentlessly ejaculate.[pcms]
 
 *3994|
 [fc]
-破瓜の血とボクの血が。精液と愛液が。[r]
-"Uuuu, ugg...haaauuun! Wh...why!? Suddenly...suddenly, my stomach...it's so[r]
-hot...!?"[pcms]
+The blood from defloration and my blood. Semen and love juices. "Uuuu,[r]
+ugg...haaauuun! Wh...why!? Suddenly...suddenly, my stomach...it's so hot...!?"[pcms]
 
 ;//Ｆ：ぐったりする漣　あふれる精液
 [evcg storage="HEV050g"][trans_c cross time=300]

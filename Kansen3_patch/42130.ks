@@ -1203,8 +1203,8 @@ Kousuke is carrying my luggage and lantern for me.[pcms]
 
 *5780|
 [fc]
-With the voice of Yuuhoor what used to be Yuuhobehind us, we all started[r]
-running away.[pcms]
+With the voice of Yuuhoor what used to be Yuuhobehind us, we all started running[r]
+away.[pcms]
 
 ;//@¨ƒuƒƒbƒN‚S‚Q‚P‚S‚O‚Ö
 [jump storage="42140.ks" target=*42140_TOP]

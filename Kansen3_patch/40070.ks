@@ -18,246 +18,232 @@
 *637|
 [fc]
 [ns]Wataru[nse]
-「さて、と……」[pcms]
+"Well, then..."[pcms]
 
 *638|
 [fc]
-再び見張り場に立ったボクは、[r]
-父さんに短い返信メールを作成した。[pcms]
+Having returned to my lookout spot, I composed a brief reply email to Dad.[pcms]
 
 *639|
 [fc]
-ボクたちも頑張るよ。[r]
-父さんも気をつけて……。[pcms]
+We're doing our best too. Please take care as well, Dad...[pcms]
 
 *640|
 [fc]
-送信ボタンを押しながら、[r]
-少しでも電波の良い位置を探そうとして腕を伸ばす。[pcms]
+While pressing the send button, I stretched out my arm trying to find a spot[r]
+with better reception.[pcms]
 
 *641|
 [fc]
-アンテナ表示は不安定に切り替わっていたけれど、[r]
-確かに今回のメールも送信することができた。[pcms]
+The antenna signal was switching unstably, but I was indeed able to send the[r]
+email this time.[pcms]
 
 *642|
 [fc]
-マル子先輩の話によると、[r]
-ネットにもアクセスできるようになったみたいだし。[r]
-ボクも少しは情報を集めてみよう……。[pcms]
+According to what Maruko-senpai said, it seems we can also access the internet[r]
+now. I should try gathering some information too...[pcms]
 
 *643|
 [fc]
 [ns]Wataru[nse]
-「……確かに繋がりそうだけど、重いな……」[pcms]
+"...It seems like it's connecting, but it's so slow..."[pcms]
 
 *644|
 [fc]
-とりあえずニュースサイトを開いてみたけれど[r]
-アクセスがめちゃくちゃ重たい。[pcms]
+I tried opening a news site for starters, but the access was incredibly[r]
+sluggish.[pcms]
 
 *645|
 [fc]
-回線が混雑しているのか、それとも不安定なのか……。[pcms]
+Either the line is congested, or it's just unstable...[pcms]
 
 *646|
 [fc]
-いくつか思いつくままにサイトを回って、[r]
-ようやくニュースサイトのひとつに繋がった。[pcms]
+After browsing through various sites as they came to mind, I finally managed to[r]
+connect to one of the news sites.[pcms]
 
 *647|
 [fc]
 [ns]Wataru[nse]
-「……あ、来た来た」[pcms]
+"...Ah, here it comes."[pcms]
 
 *648|
 [fc]
-最新ニュースのメニューは、全て[r]
-今起きている『事件』に関する記事だった。[pcms]
+The menu for the latest news was filled with articles related to the "incident"[r]
+that's currently happening.[pcms]
 
 *649|
 [fc]
-『首都圏で暴動発生』[r]
-最初のニュースでは、突如として集団暴動が発生した、[r]
-というようなニュアンスだったけれど。[pcms]
+"Riots Break Out in the Capital Region" The first piece of news had a nuance[r]
+that a group riot had suddenly occurred.[pcms]
 
 *650|
 [fc]
-『東北感染災害再び？』[r]
-いくつかの項目を経て、ボクと同じ推測が[r]
-ニュースサイトにも発表されている。[pcms]
+"Northeast Infection Disaster Again?" After scrolling through several items, my[r]
+own speculation was also announced on the news site.[pcms]
 
 *651|
 [fc]
-そこから先は、もう怒涛の勢いでニュースが更新されている。[pcms]
+From there on, the news was being updated with the force of a raging torrent.[pcms]
 
 *652|
 [fc]
-『札幌、新仙台に続いて福岡でも感染者発生』[r]
-『大阪、名古屋、広島、各主要都市で混乱続く』[r]
-『同時多発災害に、政府の対策追いつかず』[pcms]
+"Infections Emerge in Sapporo, Following New Sendai and Fukuoka" "Chaos[r]
+Continues in Major Cities such as Osaka, Nagoya, Hiroshima" "Government[r]
+Struggles to Keep Up with Simultaneous Disasters"[pcms]
 
 *653|
 [fc]
-ひとつひとつ、確認するうちに[r]
-すぅっと背中を冷たいものが流れ落ちていく。[pcms]
+With each confirmation, I could feel something cold trickling down my back.[pcms]
 
 *654|
 [fc]
 [ns]Wataru[nse]
-「……ホントに、日本中が……[r]
-　すごいことになってるんだ……」[pcms]
+"...It's really... all over Japan... It's become something terrible..."[pcms]
 
 *655|
 [fc]
-ボクたち、これからどうなるんだろう……。[pcms]
+I wonder what's going to happen to us from now on...[pcms]
 
 *656|
 [fc]
-ボクたちの街以外は、正常に機能してて、[r]
-誰かが助けに来てくれるんじゃないかって……[r]
-なんとなく思い込んでいたけど……。[pcms]
+I had somehow convinced myself that outside our town, everything was functioning[r]
+normally and that someone would come to our rescue...[pcms]
 
 *657|
 [fc]
-こんな規模の災害じゃ[r]
-もしかしたら誰も救助になんて……？[pcms]
+With a disaster of this scale, maybe no one will come to rescue us...?[pcms]
 
 *658|
 [fc]
 [ns]Wataru[nse]
-「……あれ？」[pcms]
+"...Huh?"[pcms]
 
 *659|
 [fc]
-ニュースは昼過ぎの更新を最後に、[r]
-新しいものが投稿されていなかった。[pcms]
+The news hadn't been updated since the afternoon, with no new posts since then.[pcms]
 
 *660|
 [fc]
-サイトの更新ができなくなった……？[r]
-それは、なぜ？　もしかして……まさか……。[pcms]
+Has the site stopped updating...? Why? Could it be...no way...[pcms]
 
 *661|
 [fc]
-嫌な考えに陥りそうになるのを振り払って、[r]
-ボクは別なサイトを回ってみる。[pcms]
+Shaking off the unpleasant thoughts that threatened to take hold, I tried[r]
+browsing other sites.[pcms]
 
 *662|
 [fc]
 [ns]Wataru[nse]
-「他には……と……」[pcms]
+"What about... other sites..."[pcms]
 
 *663|
 [fc]
-緊急避難情報、避難所へのアクセス案内、災害用伝言掲示板、[r]
-政府の緊急Ｗｅｂサイトへのリンク……。[pcms]
+Emergency evacuation information, guidance to shelters, disaster message boards,[r]
+links to government emergency websites...[pcms]
 
 *664|
 [fc]
-政府系リンクは意外にあっさり繋がった。[r]
-だけどまだ情報らしきものは、ほとんどない。[r]
-パニックを起こさず正確な情報を待てと呼びかけているだけだ。[pcms]
+The government links connected surprisingly quickly. But there was hardly any[r]
+information that seemed useful. They were just calling for people not to panic[r]
+and to wait for accurate information.[pcms]
 
 *665|
 [fc]
-避難所の情報も確認してみる。[r]
-都心部だと、いくつかの避難所に×印がついていた。[r]
-満員っていうことか、もしくは使用不能ってことみたいだ。[pcms]
+I also checked the information on shelters. In the city center, several shelters[r]
+had an '×' mark on them. It means they're either full or unusable.[pcms]
 
 *666|
 [fc]
-この近所で○印がついてるのは……。[pcms]
+The ones nearby with a '○' mark are...[pcms]
 
 *667|
 [fc]
 [ns]Wataru[nse]
-「三宿駐屯地か。もし、地上で行くならここかな」[pcms]
+"Mishuku stationing ground, huh? If we're going overland, this might be the[r]
+place."[pcms]
 
 *668|
 [fc]
-一応、覚えておくことにして、災害用伝言掲示板に飛んだ。[pcms]
+I made a mental note of it and then jumped to the disaster message board.[pcms]
 
 *669|
 [fc]
-掲示板にはメッセージがぎっしりと書き込まれている。[pcms]
+The board was packed with messages.[pcms]
 
 *670|
 [fc]
-どのメッセージにも家族や知人の安否を心配したり、[r]
-自分の無事を知らせようと必死な思いがこめられている。[pcms]
+Each message was filled with desperate concern for the safety of family and[r]
+acquaintances, or attempts to inform others of their own safety.[pcms]
 
 *671|
 [fc]
 [ns]Wataru[nse]
-「誰か、見てないかな」[pcms]
+"I wonder if anyone's seen it..."[pcms]
 
 *672|
 [fc]
-ボクは自分や仲間の名前で検索をかけてみた。[pcms]
+I tried searching for my own and my friends' names.[pcms]
 
 *673|
 [fc]
-だけど、検索には何も引っかからない。[pcms]
+But the search turned up nothing.[pcms]
 
 *674|
 [fc]
 [ns]Wataru[nse]
-「…………」[pcms]
+"..."[pcms]
 
 *675|
 [fc]
-誰もボクたちを探していない……、[r]
-ボクたちは人知れず、ここに取り残された……、[r]
-なんていう考えが浮かびそうになる。[pcms]
+No one is looking for us... We've been left behind here without anyone[r]
+knowing...[pcms]
 
 *676|
 [fc]
 [ns]Wataru[nse]
-「……そんなこと、ないよ……うん」[pcms]
+"...That's not true... Yeah."[pcms]
 
 *677|
 [fc]
-そう、父さんとはメールが繋がったわけだし。[r]
-ネットが回復したんだって、ここ数時間みたいだし。[pcms]
+That's right, I was able to connect with Dad via email. It seems like the[r]
+internet has been restored in the past few hours.[pcms]
 
 *678|
 [fc]
-本格的な救助とか連絡が取れるようになるとかは、[r]
-きっとこれからだ……。[pcms]
+Real rescue efforts and communication will probably start from now on...[pcms]
 
 *679|
 [fc]
 [ns]Wataru[nse]
-「……そのためにも、いざっていう時に備えないとな。[r]
-　もっと、他の情報も集めないと……」[pcms]
+"...For that reason, we need to be prepared for when the time comes. We need to[r]
+gather more information..."[pcms]
 
 *680|
 [fc]
-ニュース映像系のリンクは切れてしまっているみたいだった。[pcms]
+The links to news footage seemed to be broken.[pcms]
 
 *681|
 [fc]
-そのくせ、ダイエット食品の広告バナーなんかが[r]
-呑気にピコピコと動いている。[pcms]
+Yet, there were diet product ads cheerfully blinking away.[pcms]
 
 *682|
 [fc]
-こんな緊急事態でも削除されないんだな……。[pcms]
+Even in such an emergency, they aren't deleted...[pcms]
 
 *683|
 [fc]
 [ns]Wataru[nse]
-「なんか、こういうのって……」[pcms]
+"Somehow, this kind of thing..."[pcms]
 
 *684|
 [fc]
-妙な脱力感に、思わず苦笑してしまう。[pcms]
+I couldn't help but give a wry smile at the strange sense of deflation.[pcms]
 
 *685|
 [fc]
 [ns]Wataru[nse]
-「……そうだ、あそこなら……」[pcms]
+"...That's right, maybe over there..."[pcms]
 
 *686|
 [fc]

@@ -3128,8 +3128,8 @@ flail about...[pcms]
 [fc]
 [ns]Office Worker B[nse]
 "Well, every time I see a girl like you on a crowded train, I wanted to do[r]
-thisfuck her while standing. In the midst of people, silently cumming inside[r]
-her vagina!"[pcms]
+thisfuck her while standing. In the midst of people, silently cumming inside her[r]
+vagina!"[pcms]
 
 *2954|
 [fc]

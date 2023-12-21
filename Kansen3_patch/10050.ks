@@ -232,8 +232,8 @@ IT. More... do you want to knead it? My crotch... mmfuuu"[pcms]
 
 *312|
 [fc]
-As I smear the melting honey around, my fingersnow acting as big[r]
-brother'sexpose my most sensitive nub.[pcms]
+As I smear the melting honey around, my fingersnow acting as big brother'sexpose[r]
+my most sensitive nub.[pcms]
 
 *313|
 [fc]

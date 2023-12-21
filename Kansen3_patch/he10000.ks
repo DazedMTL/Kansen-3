@@ -1601,8 +1601,8 @@ its original position and at this point the first round is loaded."[pcms]
 [vo_mar s="maru_TE0040"]
 [ns]Margarita[nse]
 "The bullets are not loaded one by one into holes like in a revolver but into[r]
-this magazine heresee this? You load the bullets into this first and then[r]
-insert it into place."[pcms]
+this magazine heresee this? You load the bullets into this first and then insert[r]
+it into place."[pcms]
 
 ;//se076・マガジンを填める音（あれば）
 [se buf=0 storage="se076"]
