@@ -515,13 +515,11 @@ summer until four years ago.[pcms]
 *834|
 [fc]
 The summer night sky in Akita was always clear without a[r]
-single cloud, more decorated with stars than this[r]
-planetarium could ever replicate.[pcms]
+single cloud.[pcms]
 
 *835|
 [fc]
-The night sky in Akita during summer was always clear[r]
-without a single cloud, and the heavens were adorned with[r]
+The heavens were adorned with[r]
 countless stars far surpassing this planetarium.[pcms]
 
 *836|
