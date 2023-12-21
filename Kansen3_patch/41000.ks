@@ -80,7 +80,7 @@ fleeing underground, and followed us...[pcms]
 *2209|
 [fc]
 [ns]Wataru[nse]
-`Ren! Ko-...[pcms]
+Ren! Ko-...[pcms]
 
 *2210|
 [fc]
@@ -103,7 +103,7 @@ A flash of the situation outside the hatch crosses my mind.[pcms]
 *2212|
 [fc]
 [ns]Wataru[nse]
-`No, that's not it! That's different!![pcms]
+No, that's not it! That's different!![pcms]
 
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -190,7 +190,7 @@ Gong! Gong gong!![pcms]
 *2217|
 [fc]
 [ns]Wataru[nse]
-`Uwaa...[pcms]
+Uwaa...[pcms]
 
 *2217a|
 [fc]
@@ -273,7 +273,7 @@ Gogo! Gong! Gogon! Gogogon!![pcms]
 *2222|
 [fc]
 [ns]Infected Man C[nse]
-`Uuuuuhhh...[pcms]
+Uuuuuhhh...[pcms]
 
 ;//@konya EV_CG 感染者たち
 [evcg storage="evs001"][trans_c cross time=300]
@@ -282,13 +282,13 @@ Gogo! Gong! Gogon! Gogogon!![pcms]
 [fc]
 [vo_mob s="onnakansenA0001"]
 [ns]Infected Woman A[nse]
-`Open up~[pcms]
+Open up~[pcms]
 
 *2224|
 [fc]
 [vo_mob s="onnakansenB0001"]
 [ns]Infected Woman C[nse]
-`Let me in~[pcms]
+Let me in~[pcms]
 
 ;//　通常サイズフォント
 
@@ -313,13 +313,13 @@ gon! Gong gong!! Gong![pcms]
 *2226|
 [fc]
 [ns]Infected Man D[nse]
-`Let me eat~[pcms]
+Let me eat~[pcms]
 
 *2227|
 [fc]
 [vo_mob s="onna_kansenC0001"]
 [ns]Infected Woman D[nse]
-`Give me cock, pleeease![pcms]
+Give me cock, pleeease![pcms]
 
 ;//@konya　分校舎地下室
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -333,7 +333,7 @@ gon! Gong gong!! Gong![pcms]
 *2228|
 [fc]
 [ns]Wataru[nse]
-`Eeeeek!![pcms]
+Eeeeek!![pcms]
 
 *2229|
 [fc]
@@ -350,7 +350,7 @@ Don![pcms]
 *2231|
 [fc]
 [ns]Wataru[nse]
-`Uwaaaah!![pcms]
+Uwaaaah!![pcms]
 
 *2232|
 [fc]
@@ -362,12 +362,12 @@ I hit something with my back and let out another scream.[pcms]
 [fc]
 [vo_mar s="maru0282"]
 [ns]Margarita[nse]
-`It's me. Don't be scared, Wataru![pcms]
+It's me. Don't be scared, Wataru![pcms]
 
 *2234|
 [fc]
 [ns]Wataru[nse]
-`Sen...pai...[pcms]
+Sen...pai...[pcms]
 
 *2235|
 [fc]
@@ -379,7 +379,7 @@ What I bumped into was Margarita-senpai's back.[pcms]
 [fc]
 [vo_yuh s="yuho0180"]
 [ns]Yuuho[nse]
-`Are you okay? Wataru[pcms]
+Are you okay? Wataru[pcms]
 
 *2237|
 [fc]
@@ -391,7 +391,7 @@ Yuuho is also looking at me with concern.[pcms]
 [fc]
 [vo_mar s="maru0283"]
 [ns]Margarita[nse]
-`Being cowardly can help you survive. Cowardice also means[r]
+Being cowardly can help you survive. Cowardice also means[r]
 being cautious. Foolhardy bravery can easily lead to ruin[r]
 over trivial matters.[pcms]
 
@@ -399,7 +399,7 @@ over trivial matters.[pcms]
 [fc]
 [vo_mar s="maru0284"]
 [ns]Margarita[nse]
-`However, being too cowardly can mean sitting still in fear,[r]
+However, being too cowardly can mean sitting still in fear,[r]
 waiting for death. It's meaningless to be defeated by fear.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -408,18 +408,18 @@ waiting for death. It's meaningless to be defeated by fear.[pcms]
 [fc]
 [vo_mar s="maru0285"]
 [ns]Margarita[nse]
-`Control your fear! Ayase!![pcms]
+Control your fear! Ayase!![pcms]
 
 *2241|
 [fc]
 [ns]Wataru[nse]
-`Yes, ma'am![pcms]
+Yes, ma'am![pcms]
 
 *2242|
 [fc]
 [vo_mar s="maru0286"]
 [ns]Margarita[nse]
-`It's unlikely that hatch will be broken through, but[r]
+It's unlikely that hatch will be broken through, but[r]
 staying here gets us nowhere. Above all, if we stay at this[r]
 dead end, we have no chance to escape.[pcms]
 
@@ -427,12 +427,12 @@ dead end, we have no chance to escape.[pcms]
 [fc]
 [vo_mar s="maru0287"]
 [ns]Margarita[nse]
-`We move forward![pcms]
+We move forward![pcms]
 
 *2244|
 [fc]
 [ns]Wataru[nse]
-`Yes.[pcms]
+Yes.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -440,7 +440,7 @@ dead end, we have no chance to escape.[pcms]
 [fc]
 [vo_yuh s="yuho0181"]
 [ns]Yuuho[nse]
-`Understood.[pcms]
+Understood.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -469,12 +469,12 @@ beam.[pcms]
 [fc]
 [vo_mar s="maru0288"]
 [ns]Margarita[nse]
-`...The voices have stopped...[pcms]
+...The voices have stopped...[pcms]
 
 *2248|
 [fc]
 [ns]Wataru[nse]
-`Yes...[pcms]
+Yes...[pcms]
 
 *2249|
 [fc]
@@ -488,7 +488,7 @@ ceased completely.[pcms]
 [fc]
 [vo_yuh s="yuho0182"]
 [ns]Yuuho[nse]
-`Maybe we can go back now...[pcms]
+Maybe we can go back now...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 

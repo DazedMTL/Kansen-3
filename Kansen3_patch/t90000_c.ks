@@ -151,14 +151,14 @@ As I passed by the 7th floor, everyone was watching TV.[pcms]
 *9142|
 [fc]
 [ns]Announcer[nse]
-`New information has come in. The government will distribute[r]
+New information has come in. The government will distribute[r]
 supplies to various shelters tomorrow. In places where[r]
 landing is not possible, they will be dropped from the air.[pcms]
 
 *9143|
 [fc]
 [ns]Announcer[nse]
-`Details on the timing and other specifics will be announced[r]
+Details on the timing and other specifics will be announced[r]
 later...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
@@ -166,7 +166,7 @@ later...[pcms]
 *9144|
 [fc]
 [ns]Jin[nse]
-`...Hmph... Well, if we're lucky, something might be dropped[r]
+...Hmph... Well, if we're lucky, something might be dropped[r]
 here too... Although the chances are slim.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -175,7 +175,7 @@ here too... Although the chances are slim.[pcms]
 [fc]
 [vo_mar s="maru_TE0007"]
 [ns]Margarita[nse]
-`...That's right. It's best to make do with what we have now[r]
+...That's right. It's best to make do with what we have now[r]
 as much as possible.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
@@ -183,7 +183,7 @@ as much as possible.[pcms]
 *9146|
 [fc]
 [ns]Jin[nse]
-`Yeah...[pcms]
+Yeah...[pcms]
 
 *9147|
 [fc]
@@ -238,7 +238,7 @@ The sky visible from the dorm was already beginning to dawn.[pcms]
 [fc]
 [vo_yuh s="yuho_TE0019"]
 [ns]Yuuho[nse]
-`Hey---!! Come over here too---!! I'm here---!! Give us[r]
+Hey---!! Come over here too---!! I'm here---!! Give us[r]
 something---![pcms]
 
 ;//Åö_ãÛÇ†ÇÈÇ¢ÇÕâìåi
@@ -273,7 +273,7 @@ hands and shouting, but it probably won't reach them.[pcms]
 [fc]
 [vo_mob s="tomomi_TE0001"]
 [ns]Tomomi[nse]
-`...[pcms]
+...[pcms]
 
 *9155|
 [fc]
@@ -287,17 +287,17 @@ firmly gazing at the building.[pcms]
 *9156|
 [fc]
 [ns]Infected Man C[nse]
-`Meaaat, meeeaaat![pcms]
+Meaaat, meeeaaat![pcms]
 
 *9157|
 [fc]
 [ns]Infected Man D[nse]
-`Womeeen, womeeeen![pcms]
+Womeeen, womeeeen![pcms]
 
 *9158|
 [fc]
 [ns]Infected Man E[nse]
-`I'm sooo hungryyy. Meeat, womeeen![pcms]
+I'm sooo hungryyy. Meeat, womeeen![pcms]
 
 *9159|
 [fc]
@@ -318,7 +318,7 @@ they were hiding.[pcms]
 [fc]
 [vo_mar s="maru_TE0019"]
 [ns]Margarita[nse]
-`Although it's not much, I've managed to gather some[r]
+Although it's not much, I've managed to gather some[r]
 information and would like everyone to listen. Please spare[r]
 me a little time.[pcms]
 
@@ -340,7 +340,7 @@ cleaning also took her seat again.[pcms]
 [fc]
 [vo_mar s="maru_TE0020"]
 [ns]Margarita[nse]
-`I've been in contact with Sesuka at Misujuku garrison. As a[r]
+I've been in contact with Sesuka at Misujuku garrison. As a[r]
 result, we have a slight understanding of the situation[r]
 outside here and have obtained other information as well, so[r]
 I thought I'd share it.[pcms]
@@ -351,7 +351,7 @@ I thought I'd share it.[pcms]
 [fc]
 [vo_mar s="maru_TE0021"]
 [ns]Margarita[nse]
-`First about today's supplies; it seems that Misujuku[r]
+First about today's supplies; it seems that Misujuku[r]
 received a reasonable amount of replenishment. However, it's[r]
 still not sufficient and only a temporary amount. In other[r]
 words, it doesn't solve the fundamental problem.[pcms]
@@ -362,7 +362,7 @@ words, it doesn't solve the fundamental problem.[pcms]
 [fc]
 [vo_mar s="maru_TE0022"]
 [ns]Margarita[nse]
-`It means that there isn't enough for us to live in shelters[r]
+It means that there isn't enough for us to live in shelters[r]
 for an extended period. There seem to be small isolated[r]
 shelters with few people scattered around as well.[pcms]
 
@@ -372,7 +372,7 @@ shelters with few people scattered around as well.[pcms]
 [fc]
 [vo_mar s="maru_TE0023"]
 [ns]Margarita[nse]
-`Through the net and other means, there are calls for[r]
+Through the net and other means, there are calls for[r]
 rescue, but not all can be answered, and it's difficult to[r]
 replenish supplies as well. That's all for now, okay?[pcms]
 
@@ -381,7 +381,7 @@ replenish supplies as well. That's all for now, okay?[pcms]
 *9167|
 [fc]
 [ns]Jin[nse]
-`...Yeah.[pcms]
+...Yeah.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -389,14 +389,14 @@ replenish supplies as well. That's all for now, okay?[pcms]
 [fc]
 [vo_mar s="maru_TE0024"]
 [ns]Margarita[nse]
-`Teams made up of volunteers or those who have been assigned[r]
+Teams made up of volunteers or those who have been assigned[r]
 are heading out to rescue those isolated shelters. However,[r]
 there are teams that don't return...[pcms]
 
 *9169|
 [fc]
 [ns]Wataru[nse]
-`...[pcms]
+...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -404,7 +404,7 @@ there are teams that don't return...[pcms]
 [fc]
 [vo_mar s="maru_TE0025"]
 [ns]Margarita[nse]
-`Today, a team that headed for Celesta Tower for rescue has[r]
+Today, a team that headed for Celesta Tower for rescue has[r]
 lost contact and is now missing...[pcms]
 
 *9171|
@@ -416,13 +416,13 @@ lost contact and is now missing...[pcms]
 *9172|
 [fc]
 [ns]Jin[nse]
-`...What's wrong? Keep going.[pcms]
+...What's wrong? Keep going.[pcms]
 
 *9173|
 [fc]
 [vo_mar s="maru_TE0026"]
 [ns]Margarita[nse]
-`...Yes. Inside some shelters, there are people demanding[r]
+...Yes. Inside some shelters, there are people demanding[r]
 weapons supply. Indeed, even within shelters it's not[r]
 completely safe, so I understand the desire to defend[r]
 oneself.[pcms]
@@ -433,7 +433,7 @@ oneself.[pcms]
 [fc]
 [vo_mar s="maru_TE0027"]
 [ns]Margarita[nse]
-`But we can't just hand out weapons easily. Especially not[r]
+But we can't just hand out weapons easily. Especially not[r]
 to amateurs. Lately, there have been increasing disputes[r]
 over whether or not to distribute weapons.[pcms]
 

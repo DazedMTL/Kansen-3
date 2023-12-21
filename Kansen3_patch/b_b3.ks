@@ -53,7 +53,7 @@ but...[pcms]
 *4424|
 [fc]
 [ns]Wataru[nse]
-`Huh?[pcms]
+Huh?[pcms]
 
 *4425|
 [fc]
@@ -65,7 +65,7 @@ ended up in a man's arms as if I had jumped into them.[pcms]
 *4426|
 [fc]
 [ns]Infected Man A[nse]
-`Gyahahaha! The prey just jumped right into me![pcms]
+Gyahahaha! The prey just jumped right into me![pcms]
 
 *4427|
 [fc]
@@ -76,7 +76,7 @@ almost falling over.[pcms]
 *4428|
 [fc]
 [ns]Wataru[nse]
-`(This is bad. I need to regain my footing somehow...)[pcms]
+(This is bad. I need to regain my footing somehow...)[pcms]
 
 *4429|
 [fc]
@@ -93,7 +93,7 @@ But my body couldn't keep up.[pcms]
 [fc]
 [vo_yuh s="yuho0487"]
 [ns]Yuuho[nse]
-`Wataru! Wataruuu!![pcms]
+Wataru! Wataruuu!![pcms]
 
 *4432|
 [fc]
@@ -112,7 +112,7 @@ Rather, it was the opposite--[pcms]
 *4435|
 [fc]
 [ns]Wataru[nse]
-`Ouchouchouch!![pcms]
+Ouchouchouch!![pcms]
 
 *4436|
 [fc]

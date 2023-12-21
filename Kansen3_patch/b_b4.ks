@@ -49,7 +49,7 @@ But--[pcms]
 *4445|
 [fc]
 [ns]Wataru[nse]
-`Eh?[pcms]
+Eh?[pcms]
 
 *4446|
 [fc]
@@ -67,13 +67,13 @@ open.[pcms]
 [fc]
 [vo_mob s="onna0004"]
 [ns]Infected Woman A[nse]
-`Kyahaha! Let's do something pleasurable, something very[r]
+Kyahaha! Let's do something pleasurable, something very[r]
 pleasurable.[pcms]
 
 *4449|
 [fc]
 [ns]Wataru[nse]
-`Uwaaaaahhh!![pcms]
+Uwaaaaahhh!![pcms]
 
 *4450|
 [fc]
@@ -87,13 +87,13 @@ woman, and her long nails dug painfully into my skin.[pcms]
 *4452|
 [fc]
 [ns]Infected Man A[nse]
-`You smell so tasty...[pcms]
+You smell so tasty...[pcms]
 
 *4453|
 [fc]
 [vo_mob s="onna0005"]
 [ns]Infected Woman A[nse]
-`If you're not going to do pleasurable things... then let's[r]
+If you're not going to do pleasurable things... then let's[r]
 eat you up.[pcms]
 
 *4454|

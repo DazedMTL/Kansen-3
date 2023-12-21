@@ -46,7 +46,7 @@ strength from my body.[pcms]
 *2046|
 [fc]
 [ns]Wataru[nse]
-`...[pcms]
+...[pcms]
 
 *2047|
 [fc]
@@ -91,7 +91,7 @@ did nothing to open it.[pcms]
 *2054|
 [fc]
 [ns]Kousuke[nse]
-`No choice then... We'll have to break in.[pcms]
+No choice then... We'll have to break in.[pcms]
 
 *2055|
 [fc]
@@ -111,7 +111,7 @@ well it was locked, it's useless once destroyed.[pcms]
 *2057|
 [fc]
 [ns]Kousuke[nse]
-`Barrels really do come in handy...[pcms]
+Barrels really do come in handy...[pcms]
 
 *2058|
 [fc]
@@ -121,7 +121,7 @@ hands, and I replied to Kousuke absentmindedly.[pcms]
 *2059|
 [fc]
 [ns]Wataru[nse]
-`Yeah...[pcms]
+Yeah...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -129,7 +129,7 @@ hands, and I replied to Kousuke absentmindedly.[pcms]
 [fc]
 [vo_yuh s="yuho1555"]
 [ns]Yuuho[nse]
-`Don't admire such strange things.[pcms]
+Don't admire such strange things.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -137,19 +137,19 @@ hands, and I replied to Kousuke absentmindedly.[pcms]
 [fc]
 [vo_ren s="ren1369"]
 [ns]Ren[nse]
-`Hey... shall we hurry? There might be infected hiding...[pcms]
+Hey... shall we hurry? There might be infected hiding...[pcms]
 
 *2062|
 [fc]
 [ns]Wataru[nse]
-`Ah... right.[pcms]
+Ah... right.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2063|
 [fc]
 [ns]Kousuke[nse]
-`But man, I'm really done with this kind of thing.[pcms]
+But man, I'm really done with this kind of thing.[pcms]
 
 ;//@konya マチヤーグァー
 [bg storage="BG022"][trans_c cross time=500]
@@ -170,7 +170,7 @@ the DJ bar's master and mama.[pcms]
 *2066|
 [fc]
 [ns]Wataru[nse]
-`...I'm sorry. But there was no other way...[pcms]
+...I'm sorry. But there was no other way...[pcms]
 
 *2067|
 [fc]
@@ -182,7 +182,7 @@ I had killed myself, even though they were infected.[pcms]
 *2068|
 [fc]
 [ns]Kousuke[nse]
-`Master... and mama-san... May you be a couple again in your[r]
+Master... and mama-san... May you be a couple again in your[r]
 next life... And teach me about good music again...[pcms]
 
 *2069|
@@ -202,7 +202,7 @@ close their eyes for them.[pcms]
 [fc]
 [vo_yuh s="yuho1556"]
 [ns]Yuuho[nse]
-`Master and mama always treated us kindly. They let us into[r]
+Master and mama always treated us kindly. They let us into[r]
 their shop even when we weren't customers...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -211,7 +211,7 @@ their shop even when we weren't customers...[pcms]
 [fc]
 [vo_ren s="ren1370"]
 [ns]Ren[nse]
-`Yeah... Thanks to them, I came to like music other than[r]
+Yeah... Thanks to them, I came to like music other than[r]
 classical...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
@@ -219,7 +219,7 @@ classical...[pcms]
 *2073|
 [fc]
 [ns]Kousuke[nse]
-`...Master really loved music. He used to play all sorts of[r]
+...Master really loved music. He used to play all sorts of[r]
 tracks for us, right?[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -228,7 +228,7 @@ tracks for us, right?[pcms]
 [fc]
 [vo_miz s="mizuki0296"]
 [ns]Mizuki[nse]
-`...I also had quite a bit of respect for the master, you[r]
+...I also had quite a bit of respect for the master, you[r]
 know.[pcms]
 
 *2075|
@@ -243,7 +243,7 @@ bodies.[pcms]
 [fc]
 [vo_mar s="maru1536"]
 [ns]Margarita[nse]
-`...[pcms]
+...[pcms]
 ;//＠静かに合唱
 
 *2077|
@@ -257,7 +257,7 @@ mama, also quietly joined her hands in prayer.[pcms]
 *2078|
 [fc]
 [ns]Wataru[nse]
-`Rest in peace...ugh...[pcms]
+Rest in peace...ugh...[pcms]
 
 *2079|
 [fc]
@@ -280,7 +280,7 @@ anything for her... I am... powerless...[pcms]
 *2081|
 [fc]
 [ns]Shigeyoshi[nse]
-`There's quite a lot here... oh! Doesn't this look like[r]
+There's quite a lot here... oh! Doesn't this look like[r]
 something Aniki would like? Let's gorge on it later[r]
 together...[pcms]
 
@@ -295,7 +295,7 @@ through the refrigerator for ingredients.[pcms]
 *2083|
 [fc]
 [ns]Shigeyoshi[nse]
-`There's some good liquor here... ...but why do I have to be[r]
+There's some good liquor here... ...but why do I have to be[r]
 with these guys... Tch[pcms]
 
 *2084|
@@ -309,7 +309,7 @@ view.[pcms]
 *2085|
 [fc]
 [ns]Jin[nse]
-`Don't get distracted by unnecessary things. Take all of[r]
+Don't get distracted by unnecessary things. Take all of[r]
 that with you. And if there are snacks... that would be[r]
 perfect.[pcms]
 
@@ -328,14 +328,14 @@ her and ended up eating a fierce kick instead.[pcms]
 *2088|
 [fc]
 [ns]Jin[nse]
-`Let's go, Shige.[pcms]
+Let's go, Shige.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2089|
 [fc]
 [ns]Shigeyoshi[nse]
-`...Understood.[pcms]
+...Understood.[pcms]
 
 *2090|
 [fc]
@@ -350,7 +350,7 @@ away.[pcms]
 [fc]
 [vo_mar s="maru1537"]
 [ns]Margarita[nse]
-`To die in such a place must be so regrettable.[pcms]
+To die in such a place must be so regrettable.[pcms]
 
 *2092|
 [fc]

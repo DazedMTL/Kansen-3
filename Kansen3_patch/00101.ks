@@ -56,7 +56,7 @@ endlessly in my head.[pcms]
 *2226|
 [fc]
 [ns]Wataru[nse]
-`I hate it... I hate that, I hate it, Yuuho...[pcms]
+I hate it... I hate that, I hate it, Yuuho...[pcms]
 
 *2227|
 [fc]
@@ -72,7 +72,7 @@ I wasn't getting anywhere no matter how much I walked.[pcms]
 *2229|
 [fc]
 [ns]Wataru[nse]
-`Yuuho... Yuuho... My... Yu...u...ho...[pcms]
+Yuuho... Yuuho... My... Yu...u...ho...[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -80,12 +80,12 @@ I wasn't getting anywhere no matter how much I walked.[pcms]
 [fc]
 [vo_ior s="iori0051"]
 [ns]Inori[nse]
-`Hey, isn't that Wataru?[pcms]
+Hey, isn't that Wataru?[pcms]
 
 *2231|
 [fc]
 [ns]Wataru[nse]
-`...[pcms]
+...[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c3"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -93,7 +93,7 @@ I wasn't getting anywhere no matter how much I walked.[pcms]
 [fc]
 [vo_ior s="iori0052"]
 [ns]Inori[nse]
-`It is Wataru, what's wrong? Are you crying?[pcms]
+It is Wataru, what's wrong? Are you crying?[pcms]
 
 *2233|
 [fc]
@@ -103,7 +103,7 @@ Inori-san was standing in front of me.[pcms]
 *2234|
 [fc]
 [ns]Wataru[nse]
-`Inori...san?[pcms]
+Inori...san?[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c5"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -111,7 +111,7 @@ Inori-san was standing in front of me.[pcms]
 [fc]
 [vo_ior s="iori0053"]
 [ns]Inori[nse]
-`Oh my, what a terrible face... What on earth happened?[pcms]
+Oh my, what a terrible face... What on earth happened?[pcms]
 
 *2236|
 [fc]
@@ -130,13 +130,13 @@ overflowing like a dam burst by heavy rain.[pcms]
 [fc]
 [vo_ior s="iori0054"]
 [ns]Inori[nse]
-`I don't know what's going on... But it seems like something[r]
+I don't know what's going on... But it seems like something[r]
 very painful has happened.[pcms]
 
 *2239|
 [fc]
 [ns]Wataru[nse]
-`Ah...ughh, hicc...[pcms]
+Ah...ughh, hicc...[pcms]
 
 *2240|
 [fc]
@@ -149,13 +149,13 @@ sobbing pathetically.[pcms]
 [fc]
 [vo_ior s="iori0055"]
 [ns]Inori[nse]
-`It's okay, it's okay. There's no need to force yourself to[r]
+It's okay, it's okay. There's no need to force yourself to[r]
 talk.[pcms]
 
 *2242|
 [fc]
 [ns]Wataru[nse]
-`Ughh...[pcms]
+Ughh...[pcms]
 
 ;//---------------------------------------------------------------
 ;//ÅùëIëéà

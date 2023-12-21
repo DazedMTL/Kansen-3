@@ -29,7 +29,7 @@ quickest route. Each option has its pros and cons.[pcms]
 *48|
 [fc]
 [ns]Wataru[nse]
-`After all... I want to confirm Ren's safety as soon as[r]
+After all... I want to confirm Ren's safety as soon as[r]
 possible.[pcms]
 
 *49|
@@ -53,7 +53,7 @@ came to a halt after hitting the wall on the landing.[pcms]
 *53|
 [fc]
 [ns]Wataru[nse]
-`A person...?[pcms]
+A person...?[pcms]
 
 *54|
 [fc]
@@ -70,12 +70,12 @@ It was a man with his dick still out.[pcms]
 *56|
 [fc]
 [ns]Wataru[nse]
-`Gyaaaaaaaah!![pcms]
+Gyaaaaaaaah!![pcms]
 
 *57|
 [fc]
 [ns]Infected Man A[nse]
-`Food... food...[pcms]
+Food... food...[pcms]
 
 *58|
 [fc]

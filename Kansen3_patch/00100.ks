@@ -33,7 +33,7 @@ But who cares about that.[pcms]
 *2184|
 [fc]
 [ns]Wataru[nse]
-`Yuuho was with Oshima-senpai...[pcms]
+Yuuho was with Oshima-senpai...[pcms]
 
 *2185|
 [fc]
@@ -133,7 +133,7 @@ to worry.[pcms]
 *2193|
 [fc]
 [ns]Wataru[nse]
-`Alright![pcms]
+Alright![pcms]
 
 *2194|
 [fc]
@@ -155,7 +155,7 @@ Yuuho racing with me on bicycles.[pcms]
 *2198|
 [fc]
 [ns]Wataru[nse]
-`Yuuho...[pcms]
+Yuuho...[pcms]
 
 *2199|
 [fc]
@@ -194,7 +194,7 @@ steps, continued alone on my way home.[pcms]
 *2203|
 [fc]
 [ns]Wataru[nse]
-`I should at least go back to where everyone is...[pcms]
+I should at least go back to where everyone is...[pcms]
 
 *2204|
 [fc]
@@ -221,7 +221,7 @@ date...[pcms]
 *2209|
 [fc]
 [ns]Wataru[nse]
-`I don't want that!![pcms]
+I don't want that!![pcms]
 
 *2210|
 [fc]
@@ -240,7 +240,7 @@ will.[pcms]
 *2213|
 [fc]
 [ns]Wataru[nse]
-`I know that, it's obvious. But still...[pcms]
+I know that, it's obvious. But still...[pcms]
 
 *2214|
 [fc]
@@ -256,7 +256,7 @@ seen them.[pcms]
 *2216|
 [fc]
 [ns]Wataru[nse]
-`I can't stand it...[pcms]
+I can't stand it...[pcms]
 
 *2217|
 [fc]

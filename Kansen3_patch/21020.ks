@@ -39,7 +39,7 @@ and the gymnasium, I saw a familiar figure.[pcms]
 *310|
 [fc]
 [ns]Wataru[nse]
-`Yuuho!?[pcms]
+Yuuho!?[pcms]
 
 *311|
 [fc]
@@ -64,7 +64,7 @@ was being cornered.[pcms]
 *315|
 [fc]
 [ns]Wataru[nse]
-`Yuuho!! Are you okay?![pcms]
+Yuuho!! Are you okay?![pcms]
 
 *316|
 [fc]
@@ -77,7 +77,7 @@ towards me while desperately maintaining her balance.[pcms]
 [fc]
 [vo_yuh s="yuho0114"]
 [ns]Yuuho[nse]
-`Wa, Wataru... ki, kyaaah![pcms]
+Wa, Wataru... ki, kyaaah![pcms]
 
 *318|
 [fc]

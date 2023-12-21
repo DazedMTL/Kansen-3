@@ -41,7 +41,7 @@ smiling slyly.[pcms]
 *4367|
 [fc]
 [ns]Wataru[nse]
-`Uwah![pcms]
+Uwah![pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -49,13 +49,13 @@ smiling slyly.[pcms]
 [fc]
 [vo_mob s="onna_iti0017"]
 [ns]Infected Woman A[nse]
-`Where are you going? Let's do something pleasurable[r]
+Where are you going? Let's do something pleasurable[r]
 together.[pcms]
 
 *4369|
 [fc]
 [ns]Wataru[nse]
-`I-I must respectfully decline.[pcms]
+I-I must respectfully decline.[pcms]
 
 *4370|
 [fc]
@@ -73,7 +73,7 @@ escape.[pcms]
 [fc]
 [vo_mob s="onna2_0009"]
 [ns]Infected Woman C[nse]
-`Then, shall we do it?[pcms]
+Then, shall we do it?[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
@@ -81,13 +81,13 @@ escape.[pcms]
 [fc]
 [vo_mob s="onna_san0005"]
 [ns]Infected - Female D[nse]
-`Haaaan, my pussy, my pussy wants your cock to stir it[r]
+Haaaan, my pussy, my pussy wants your cock to stir it[r]
 upppp.[pcms]
 
 *4374|
 [fc]
 [ns]Wataru[nse]
-`No, no, I don't want to. I DON'T WANT TOOO!![pcms]
+No, no, I don't want to. I DON'T WANT TOOO!![pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -95,7 +95,7 @@ upppp.[pcms]
 [fc]
 [vo_mob s="onna_iti0016"]
 [ns]Infected Woman A[nse]
-`Aww, you're talking like a virgin.[pcms]
+Aww, you're talking like a virgin.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_c"][ChrSetXY layer=5 x=174 y=0][trans_c cross time=150]
 
@@ -103,7 +103,7 @@ upppp.[pcms]
 [fc]
 [vo_mob s="onna2_0010"]
 [ns]Infected Woman C[nse]
-`So, a virgin dick? Nfuuu, a virgin dick full of semen.[pcms]
+So, a virgin dick? Nfuuu, a virgin dick full of semen.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
@@ -111,12 +111,12 @@ upppp.[pcms]
 [fc]
 [vo_mob s="onna_san0006"]
 [ns]Infected Woman D[nse]
-`I'll squeeze out every last drop for you.[pcms]
+I'll squeeze out every last drop for you.[pcms]
 
 *4378|
 [fc]
 [ns]Wataru[nse]
-`Uwaaaaaaaaaaaaaaaaaah!![pcms]
+Uwaaaaaaaaaaaaaaaaaah!![pcms]
 
 *4379|
 [fc]

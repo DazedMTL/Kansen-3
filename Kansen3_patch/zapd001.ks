@@ -44,7 +44,7 @@ surrounding me made my spirits sink even further.[pcms]
 
 *3206|
 [fc]
-`I ended up falling asleep just like that...[pcms]
+I ended up falling asleep just like that...[pcms]
 
 *3207|
 [fc]
@@ -148,7 +148,7 @@ No one is at the counter either.[pcms]
 
 *3226|
 [fc]
-`What could have happened? This has never happened before...[pcms]
+What could have happened? This has never happened before...[pcms]
 
 *3227|
 [fc]
@@ -164,7 +164,7 @@ sign of people around me.[pcms]
 
 *3228|
 [fc]
-`A small noise attacked me, who was completely at ease, and[r]
+A small noise attacked me, who was completely at ease, and[r]
 I almost jumped up in surprise.[pcms]
 
 *3229|
@@ -201,12 +201,12 @@ Only the quiet BGM playing inside the store could be heard.[pcms]
 
 *3235|
 [fc]
-`Some kind of event? But there were no announcements or[r]
+Some kind of event? But there were no announcements or[r]
 anything...[pcms]
 
 *3236|
 [fc]
-`A prank targeting me? ...They're mocking me. Thinking about[r]
+A prank targeting me? ...They're mocking me. Thinking about[r]
 this makes me feel stupid too...[pcms]
 
 [ns]Hostess-style woman[nse]
@@ -221,7 +221,7 @@ this makes me feel stupid too...[pcms]
 
 *3237|
 [fc]
-`Is there really someone there!?[pcms]
+Is there really someone there!?[pcms]
 
 *3238|
 [fc]
@@ -245,7 +245,7 @@ me and I tiptoed towards where the voice was coming from.[pcms]
 
 *3241|
 [fc]
-`Huh...?[pcms]
+Huh...?[pcms]
 
 *3242|
 [fc]
@@ -263,7 +263,7 @@ Someone is in there.[pcms]
 
 *3244|
 [fc]
-`In a place like this... what kind of person could it be...[pcms]
+In a place like this... what kind of person could it be...[pcms]
 
 *3245|
 [fc]
@@ -294,19 +294,19 @@ But in a place like this...[pcms]
 *3248|
 [fc]
 [ns]Infected Man H[nse]
-`"Still not enough for you... I'm not satisfied either...[r]
+"Still not enough for you... I'm not satisfied either...[r]
 Stick your ass out more!"[pcms]
 
 *3249|
 [fc]
 [ns]Infected Man G[nse]
-`"This one's tight! Thought she'd be looser, but man, I[r]
+"This one's tight! Thought she'd be looser, but man, I[r]
 could go at it again and again with her..."[pcms]
 
 *3250|
 [fc]
 [ns]Infected Man F[nse]
-`"Her tongue skills are good... I'm gonna cum again soon."[pcms]
+"Her tongue skills are good... I'm gonna cum again soon."[pcms]
 
 [ns]Hostess-style woman[nse]
 ;//「んっ……！　んんっ！！　んぶぁっ……。
@@ -315,7 +315,7 @@ could go at it again and again with her..."[pcms]
 
 *3251|
 [fc]
-`What's with these people... I thought they were stupid[r]
+What's with these people... I thought they were stupid[r]
 but... this is... They're messed up...[pcms]
 
 *3252|
@@ -330,7 +330,7 @@ It seems like they're high on drugs...[pcms]
 *3253|
 [fc]
 [ns]Infected Man H[nse]
-`"Ohh... I can't take it anymore! This chick's ass feels so[r]
+"Ohh... I can't take it anymore! This chick's ass feels so[r]
 damn good!"[pcms]
 
 *3254|

@@ -34,7 +34,7 @@ had such a relaxing time?[pcms]
 *4693|
 [fc]
 [ns]Jin[nse]
-`They even have Kagami Beer here. Not bad at all...[pcms]
+They even have Kagami Beer here. Not bad at all...[pcms]
 
 *4694|
 [fc]
@@ -44,14 +44,14 @@ All of my favorite brands are stocked here.[pcms]
 *4695|
 [fc]
 [ns]Jin[nse]
-`It's the best...[pcms]
+It's the best...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4696|
 [fc]
 [ns]Shigeyoshi[nse]
-`Hey, Aniki! When are we gonna do those brats? It's about[r]
+Hey, Aniki! When are we gonna do those brats? It's about[r]
 time we do whatever we want with women and food, right?[pcms]
 
 *4697|
@@ -61,7 +61,7 @@ time we do whatever we want with women and food, right?[pcms]
 *4698|
 [fc]
 [ns]Jin[nse]
-`Shige...we finally don't have to kiss up to those bastards[r]
+Shige...we finally don't have to kiss up to those bastards[r]
 anymore. Don't start with the annoying talk. First off, if[r]
 Mizuki starts yapping, that'll be a real pain.[pcms]
 
@@ -70,14 +70,14 @@ Mizuki starts yapping, that'll be a real pain.[pcms]
 *4699|
 [fc]
 [ns]Shigeyoshi[nse]
-`That's true, but... But Aniki! If the whole town, no, the[r]
+That's true, but... But Aniki! If the whole town, no, the[r]
 whole world has gone to shit like this, why don't we go wild[r]
 and take over the streets for ourselves!?[pcms]
 
 *4700|
 [fc]
 [ns]Jin[nse]
-`...Don't be so greedy. Shige, calm down a bit. You've got a[r]
+...Don't be so greedy. Shige, calm down a bit. You've got a[r]
 thing for that girl Yuuho, right? If you act like a[r]
 rampaging bull, she won't give you the time of day.[pcms]
 
@@ -86,7 +86,7 @@ rampaging bull, she won't give you the time of day.[pcms]
 *4701|
 [fc]
 [ns]Shigeyoshi[nse]
-`Aniki...stop teasing me...[pcms]
+Aniki...stop teasing me...[pcms]
 
 *4702|
 [fc]
@@ -106,14 +106,14 @@ happens, it'll be a real hassle.[pcms]
 *4705|
 [fc]
 [ns]Jin[nse]
-`Hey Shige, you're pent up, aren't you?[pcms]
+Hey Shige, you're pent up, aren't you?[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4706|
 [fc]
 [ns]Shigeyoshi[nse]
-`Eh!? What's up Aniki, you got a girl or something?[pcms]
+Eh!? What's up Aniki, you got a girl or something?[pcms]
 
 *4707|
 [fc]
@@ -123,7 +123,7 @@ lecherous grin.[pcms]
 *4708|
 [fc]
 [ns]Jin[nse]
-`Idiot. That's not what I'm talking about. Sports. It's[r]
+Idiot. That's not what I'm talking about. Sports. It's[r]
 better to move your body. It's refreshing above all else.[r]
 ...There's a sports store downstairs. Let's go.[pcms]
 
@@ -132,7 +132,7 @@ better to move your body. It's refreshing above all else.[r]
 *4709|
 [fc]
 [ns]Shigeyoshi[nse]
-`...Huh?[pcms]
+...Huh?[pcms]
 
 *4710|
 [fc]
@@ -146,20 +146,20 @@ His ever-changing expression slightly soothes my irritation.[pcms]
 *4712|
 [fc]
 [ns]Jin[nse]
-`Heh...I don't hate that part of you. Come on, let's go.[pcms]
+Heh...I don't hate that part of you. Come on, let's go.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4713|
 [fc]
 [ns]Shigeyoshi[nse]
-`What are you saying Aniki...heheh, you saying you don't[r]
+What are you saying Aniki...heheh, you saying you don't[r]
 hate me means you acknowledge me, right!? Heheh![pcms]
 
 *4714|
 [fc]
 [ns]Jin[nse]
-`...[pcms]
+...[pcms]
 
 *4715|
 [fc]

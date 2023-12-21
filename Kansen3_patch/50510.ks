@@ -56,7 +56,7 @@ my mind.[pcms]
 *3017|
 [fc]
 [ns]Wataru[nse]
-`I mustn't think about it... I need to forget. Lock it away[r]
+I mustn't think about it... I need to forget. Lock it away[r]
 deep inside my heart...[pcms]
 
 *3018|
@@ -67,7 +67,7 @@ memories.[pcms]
 *3019|
 [fc]
 [ns]Wataru[nse]
-`Huh... Jin...?[pcms]
+Huh... Jin...?[pcms]
 
 *3020|
 [fc]
@@ -97,7 +97,7 @@ gazing outside.[pcms]
 *3025|
 [fc]
 [ns]Wataru[nse]
-`Have you been awake all this time...?[pcms]
+Have you been awake all this time...?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -105,7 +105,7 @@ gazing outside.[pcms]
 [fc]
 [vo_mar s="maru1608"]
 [ns]Margarita[nse]
-`Hmm...? Wataru, is that you?[pcms]
+Hmm...? Wataru, is that you?[pcms]
 
 *3027|
 [fc]
@@ -121,7 +121,7 @@ and captivating my gaze.[pcms]
 *3029|
 [fc]
 [ns]Wataru[nse]
-`Ma... no...[pcms]
+Ma... no...[pcms]
 
 *3030|
 [fc]
@@ -144,12 +144,12 @@ beautiful as a doll's, mesmerizing to behold.[pcms]
 [fc]
 [vo_mar s="maru1609"]
 [ns]Margarita[nse]
-`Did you need something from me?[pcms]
+Did you need something from me?[pcms]
 
 *3034|
 [fc]
 [ns]Wataru[nse]
-`Ah... no... It's not like that. Have you been awake this[r]
+Ah... no... It's not like that. Have you been awake this[r]
 whole time, senpai?[pcms]
 
 *3035|
@@ -162,19 +162,19 @@ at each other.[pcms]
 [fc]
 [vo_mar s="maru1610"]
 [ns]Margarita[nse]
-`I did fall asleep once, but woke up soon after and couldn't[r]
+I did fall asleep once, but woke up soon after and couldn't[r]
 get back to sleep. I've always been a light sleeper...[pcms]
 
 *3037|
 [fc]
 [vo_mar s="maru1611"]
 [ns]Margarita[nse]
-`What about you, Wataru?[pcms]
+What about you, Wataru?[pcms]
 
 *3038|
 [fc]
 [ns]Wataru[nse]
-`I was heading to my favorite spot...[pcms]
+I was heading to my favorite spot...[pcms]
 
 *3039|
 [fc]
@@ -183,7 +183,7 @@ I lift up the blanket I was carrying to show her.[pcms]
 *3040|
 [fc]
 [ns]Wataru[nse]
-`I was thinking of going to the place with the sign on this[r]
+I was thinking of going to the place with the sign on this[r]
 building. No one will scold me now, and the view is nice, so[r]
 I thought it might clear my head.[pcms]
 
@@ -193,13 +193,13 @@ I thought it might clear my head.[pcms]
 [fc]
 [vo_mar s="maru1612"]
 [ns]Margarita[nse]
-`Hmm, there's such a place? I'm curious... But it seems[r]
+Hmm, there's such a place? I'm curious... But it seems[r]
 better to refrain tonight.[pcms]
 
 *3042|
 [fc]
 [ns]Wataru[nse]
-`Why? It's not raining, and there isn't much wind...[pcms]
+Why? It's not raining, and there isn't much wind...[pcms]
 
 *3043|
 [fc]
@@ -224,14 +224,14 @@ throughout the city.[pcms]
 [fc]
 [vo_mar s="maru1613"]
 [ns]Margarita[nse]
-`They might be nocturnal creatures. Or perhaps they can't[r]
+They might be nocturnal creatures. Or perhaps they can't[r]
 give up on us...[pcms]
 
 *3047|
 [fc]
 [vo_mar s="maru1614"]
 [ns]Margarita[nse]
-`I also tried to go out on the terrace but... In any case,[r]
+I also tried to go out on the terrace but... In any case,[r]
 this won't do.[pcms]
 
 *3048|
@@ -248,7 +248,7 @@ boxI had forgotten that just one step outside lies hell.[pcms]
 *3050|
 [fc]
 [ns]Wataru[nse]
-`...This is disappointing...[pcms]
+...This is disappointing...[pcms]
 
 *3051|
 [fc]
@@ -266,7 +266,7 @@ powerlessly on the spot.[pcms]
 [fc]
 [vo_mar s="maru1615"]
 [ns]Margarita[nse]
-`Hmph... Wretches... I wish I could ease their suffering a[r]
+Hmph... Wretches... I wish I could ease their suffering a[r]
 bit...[pcms]
 
 *3054|
@@ -281,7 +281,7 @@ over her chest, and began murmuring in a low voice.[pcms]
 [fc]
 [vo_mar s="maru1616"]
 [ns]Margarita[nse]
-`The wrath of the Lord of Hosts scorches the earth; its[r]
+The wrath of the Lord of Hosts scorches the earth; its[r]
 inhabitants wither like tinder; none spare their brothers or[r]
 sisters. They snatch on the right but remain hungry; they[r]
 devour on the left but are not satisfied.[pcms]
@@ -290,7 +290,7 @@ devour on the left but are not satisfied.[pcms]
 [fc]
 [vo_mar s="maru1617"]
 [ns]Margarita[nse]
-`...Each devours the flesh of their neighbor.[pcms]
+...Each devours the flesh of their neighbor.[pcms]
 
 ;//感染１＆２を含んだ既存のイベント絵や
 ;//カットインで表示。
