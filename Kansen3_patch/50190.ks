@@ -22,12 +22,13 @@
 
 *1238|
 [fc]
-If I don't do something, we're heading straight into a bloodbath of screams and[r]
-chaos.[pcms]
+If I don't do something, we're heading straight into a[r]
+bloodbath of screams and chaos.[pcms]
 
 *1239|
 [fc]
-I need to stay calm and persuade them... to peacefully resolve this situation...[pcms]
+I need to stay calm and persuade them... to peacefully[r]
+resolve this situation...[pcms]
 
 *1240|
 [fc]
@@ -36,7 +37,8 @@ I need to stay calm and persuade them... to peacefully resolve this situation...
 
 *1241|
 [fc]
-Breaking through the tense atmosphere, I hesitantly start to speak.[pcms]
+Breaking through the tense atmosphere, I hesitantly start to[r]
+speak.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -47,8 +49,8 @@ Breaking through the tense atmosphere, I hesitantly start to speak.[pcms]
 
 *1243|
 [fc]
-I was glared at by Jin...! It was so scary that the hairs on the back of my neck[r]
-stood up.[pcms]
+I was glared at by Jin...! It was so scary that the hairs on[r]
+the back of my neck stood up.[pcms]
 
 *1244|
 [fc]
@@ -62,26 +64,27 @@ But I can't back down here... I spoke as calmly as I could.[pcms]
 *1246|
 [fc]
 [ns]Wataru[nse]
-"However... that doesn't mean I can completely trust you guys who are waving[r]
-guns around..."[pcms]
+"However... that doesn't mean I can completely trust you[r]
+guys who are waving guns around..."[pcms]
 
 *1247|
 [fc]
 [ns]Wataru[nse]
-"So please answer our questions. If you do, Kousuke will be satisfied, we can[r]
-end this situation, and all relax together..."[pcms]
+"So please answer our questions. If you do, Kousuke will be[r]
+satisfied, we can end this situation, and all relax[r]
+together..."[pcms]
 
 *1248|
 [fc]
-Seeing that no one was responding, I decided to continue trying to persuade[r]
-them.[pcms]
+Seeing that no one was responding, I decided to continue[r]
+trying to persuade them.[pcms]
 
 *1249|
 [fc]
 [ns]Wataru[nse]
-"I'm thirsty, and I'd like to turn up the cooler a bit more. And if we go to a[r]
-manga cafe, we can even take showers... Ah, um, just washing our faces would be[r]
-fine too..."[pcms]
+"I'm thirsty, and I'd like to turn up the cooler a bit more.[r]
+And if we go to a manga cafe, we can even take showers...[r]
+Ah, um, just washing our faces would be fine too..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -141,8 +144,8 @@ Reluctantly, Shigeyoshi obeyed Jin's words.[pcms]
 
 *1259|
 [fc]
-Without taking her eyes off the scene, Maruko-senpai also lowered her gun in[r]
-sync with their movements.[pcms]
+Without taking her eyes off the scene, Maruko-senpai also[r]
+lowered her gun in sync with their movements.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -174,16 +177,16 @@ Before I knew it, Jin was staring intently at me.[pcms]
 
 *1265|
 [fc]
-The expression on Jin's face... what is this...? Could it be... he's[r]
-dumbfounded...?[pcms]
+The expression on Jin's face... what is this...? Could it[r]
+be... he's dumbfounded...?[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1266|
 [fc]
 [ns]Jin[nse]
-"To ask for a 'stronger cooler' in this situation...? You've got some unusual[r]
-nerves..."[pcms]
+"To ask for a 'stronger cooler' in this situation...? You've[r]
+got some unusual nerves..."[pcms]
 
 *1267|
 [fc]

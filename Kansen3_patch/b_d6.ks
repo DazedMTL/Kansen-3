@@ -22,13 +22,14 @@
 
 *4575|
 [fc]
-"The hallway is narrow, and I've used up my energy sprinting up to the third[r]
-floor. I don't have the confidence to shake them off and escape."[pcms]
+"The hallway is narrow, and I've used up my energy sprinting[r]
+up to the third floor. I don't have the confidence to shake[r]
+them off and escape."[pcms]
 
 *4576|
 [fc]
-"And outside, there must be swarms of infected people who've come from outside[r]
-the school."[pcms]
+"And outside, there must be swarms of infected people who've[r]
+come from outside the school."[pcms]
 
 *4577|
 [fc]
@@ -37,13 +38,13 @@ the school."[pcms]
 
 *4578|
 [fc]
-Gasping for breath, I quickly glanced back and forth between the emergency exit[r]
-and the hallway.[pcms]
+Gasping for breath, I quickly glanced back and forth between[r]
+the emergency exit and the hallway.[pcms]
 
 *4579|
 [fc]
-That's right... I was so preoccupied with figuring out which way would get me to[r]
-Ren faster that I completely forgot.[pcms]
+That's right... I was so preoccupied with figuring out which[r]
+way would get me to Ren faster that I completely forgot.[pcms]
 
 *4580|
 [fc]
@@ -73,7 +74,8 @@ My protest fell on deaf ears; the man wasn't listening.[pcms]
 
 *4585|
 [fc]
-In a panic, I tried to run away when I saw the man's hand forming a fist again.[pcms]
+In a panic, I tried to run away when I saw the man's hand[r]
+forming a fist again.[pcms]
 
 *4586|
 [fc]
@@ -96,13 +98,13 @@ My vision suddenly went dark.[pcms]
 
 *4589|
 [fc]
-I realized it was because the man's fist had grazed my chin, only after my legs[r]
-gave way and I collapsed onto the floor.[pcms]
+I realized it was because the man's fist had grazed my chin,[r]
+only after my legs gave way and I collapsed onto the floor.[pcms]
 
 *4590|
 [fc]
-I have to get up! But my body wouldn't respond to my will, not even a single[r]
-finger would move.[pcms]
+I have to get up! But my body wouldn't respond to my will,[r]
+not even a single finger would move.[pcms]
 
 *4591|
 [fc]

@@ -14,7 +14,8 @@
 
 *823|
 [fc]
-Maruko-senpai was dead, her eyes rolled back and blood flowing from her mouth.[pcms]
+Maruko-senpai was dead, her eyes rolled back and blood[r]
+flowing from her mouth.[pcms]
 
 *824|
 [fc]
@@ -22,7 +23,8 @@ Her body was left with the brutal marks of violation.[pcms]
 
 *825|
 [fc]
-Maruko-senpai, who was so strong... she was no match for those men...[pcms]
+Maruko-senpai, who was so strong... she was no match for[r]
+those men...[pcms]
 
 ;//♂：この段階では呼び名は先輩かもしれません
 
@@ -35,15 +37,18 @@ Maruko-senpai, who was so strong... she was no match for those men...[pcms]
 
 *827|
 [fc]
-Next to her, Ren too... had died with the remnants of violation.[pcms]
+Next to her, Ren too... had died with the remnants of[r]
+violation.[pcms]
 
 *828|
 [fc]
-Her expression was as if she was sleeping... but what had she been subjected to?[pcms]
+Her expression was as if she was sleeping... but what had[r]
+she been subjected to?[pcms]
 
 *829|
 [fc]
-It must have been frightening... it must have been painful...[pcms]
+It must have been frightening... it must have been[r]
+painful...[pcms]
 
 *830|
 [fc]
@@ -63,12 +68,13 @@ Maybe...[pcms]
 
 *833|
 [fc]
-I thought they might have been raped by the men, but I never imagined they would[r]
-be killed...[pcms]
+I thought they might have been raped by the men, but I never[r]
+imagined they would be killed...[pcms]
 
 *834|
 [fc]
-A little away from the mattress, Jin-san's body was lying there.[pcms]
+A little away from the mattress, Jin-san's body was lying[r]
+there.[pcms]
 
 *835|
 [fc]
@@ -76,11 +82,13 @@ Was it a fallout among themselves?[pcms]
 
 *836|
 [fc]
-If Jin-san had been the boss, maybe this wouldn't have happened...[pcms]
+If Jin-san had been the boss, maybe this wouldn't have[r]
+happened...[pcms]
 
 *837|
 [fc]
-I don't know the circumstances, but maybe he was protecting everyone.[pcms]
+I don't know the circumstances, but maybe he was protecting[r]
+everyone.[pcms]
 
 *838|
 [fc]
@@ -124,18 +132,20 @@ Is she alive!? Is Yuuho alive!?[pcms]
 
 *845|
 [fc]
-Kousuke and Mizuki, whom we had just said goodbye to, appeared from the spiral[r]
-staircase.[pcms]
+Kousuke and Mizuki, whom we had just said goodbye to,[r]
+appeared from the spiral staircase.[pcms]
 
 *846|
 [fc]
-Just like me, they were speechless at the sight of this tragedy.[pcms]
+Just like me, they were speechless at the sight of this[r]
+tragedy.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *847|
 [fc]
-I don't know why they are here, but that's not what matters right now.[pcms]
+I don't know why they are here, but that's not what matters[r]
+right now.[pcms]
 
 [evcg storage="DEV021b"][trans_c cross time=300]
 
@@ -152,7 +162,8 @@ I don't know why they are here, but that's not what matters right now.[pcms]
 
 *850|
 [fc]
-Yuuho was whispering in a faint voice as if she was on the verge of death.[pcms]
+Yuuho was whispering in a faint voice as if she was on the[r]
+verge of death.[pcms]
 
 *851|
 [fc]
@@ -162,7 +173,8 @@ Yuuho was whispering in a faint voice as if she was on the verge of death.[pcms]
 
 *852|
 [fc]
-Even at a time like this, Yuuho was worried about everyone else.[pcms]
+Even at a time like this, Yuuho was worried about everyone[r]
+else.[pcms]
 
 *853|
 [fc]
@@ -217,7 +229,8 @@ She's alive, Yuuho is alive...[pcms]
 [fc]
 [vo_yuh s="yuho_BE0006"]
 [ns]Yuuho[nse]
-"Then let's go out to town and live happily like we used to..."[pcms]
+"Then let's go out to town and live happily like we used[r]
+to..."[pcms]
 
 *863|
 [fc]
@@ -289,7 +302,8 @@ Yuuho's eyes were closed.[pcms]
 
 *875|
 [fc]
-Her face, having endured terrible humiliation, strangely seemed at peace.[pcms]
+Her face, having endured terrible humiliation, strangely[r]
+seemed at peace.[pcms]
 
 *876|
 [fc]
@@ -321,11 +335,13 @@ It's strange that I'm the only one alive.[pcms]
 
 *883|
 [fc]
-There's no point in living anymore, I'd rather go to heaven with everyone.[pcms]
+There's no point in living anymore, I'd rather go to heaven[r]
+with everyone.[pcms]
 
 *884|
 [fc]
-I slowly got up and took out a gun, pressing it against my temple.[pcms]
+I slowly got up and took out a gun, pressing it against my[r]
+temple.[pcms]
 
 [bg storage="BG019c"][trans_c cross time=500]
 
@@ -395,8 +411,8 @@ My finger on the trigger paused for a moment.[pcms]
 *896|
 [fc]
 [ns]Kousuke[nse]
-"It might be hard, but we need to make sure the people who lived in this town[r]
-aren't forgotten..."[pcms]
+"It might be hard, but we need to make sure the people who[r]
+lived in this town aren't forgotten..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -410,7 +426,8 @@ aren't forgotten..."[pcms]
 *898|
 [fc]
 [ns]Kousuke[nse]
-"For everyone's sake, for those who remember them, please survive!"[pcms]
+"For everyone's sake, for those who remember them, please[r]
+survive!"[pcms]
 
 *899|
 [fc]
@@ -476,7 +493,8 @@ For everyone's sake... yes, this is for everyone...[pcms]
 [fc]
 [vo_miz s="mizuki_BE0055"]
 [ns]Mizuki[nse]
-"No, I don't want to be apart anymore... and... I'm probably..."[pcms]
+"No, I don't want to be apart anymore... and... I'm[r]
+probably..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -593,7 +611,8 @@ We looked down at the ground from the 7th floor of LASER.[pcms]
 ;
 ;	*920|
 ;	[fc]
-Mizuki says she's scared, but strangely, I didn't feel any fear.[pcms]
+Mizuki says she's scared, but strangely, I didn't feel any[r]
+fear.[pcms]
 ;
 ;	*921|
 ;	[fc]
@@ -601,8 +620,8 @@ Rather, I was captivated by the beauty of the dawn.[pcms]
 ;
 ;	*922|
 ;	[fc]
-The quiet town below, like tombstones, the buildings beyond as the sun slowly[r]
-rose.[pcms]
+The quiet town below, like tombstones, the buildings beyond[r]
+as the sun slowly rose.[pcms]
 ;
 ;	*923|
 ;	[fc]
@@ -624,8 +643,8 @@ It was so beautiful... Mizuki and I silently gazed at it.[pcms]
 ;
 ;	*925|
 ;	[fc]
-As I seared the blue sky into my eyelids, I told the person beside me... the[r]
-most important person, Mizuki.[pcms]
+As I seared the blue sky into my eyelids, I told the person[r]
+beside me... the most important person, Mizuki.[pcms]
 ;
 ;	;mm追加
 ;	[ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -647,8 +666,8 @@ At those words, I couldn't help but laugh.[pcms]
 ;
 ;	*929|
 ;	[fc]
-...But that's right, isn't it? It's impossible not to be scared. We are still...[r]
-'human' after all.[pcms]
+...But that's right, isn't it? It's impossible not to be[r]
+scared. We are still... 'human' after all.[pcms]
 ;
 ;	;//★_DJ-BAR
 ;	;//<ChrInit>
@@ -665,8 +684,8 @@ I gently embraced Mizuki, who was trembling.[pcms]
 ;
 ;	*931|
 ;	[fc]
-Warm... It was hard to believe that we were infected with the virus and that it[r]
-was all over for us.[pcms]
+Warm... It was hard to believe that we were infected with[r]
+the virus and that it was all over for us.[pcms]
 ;
 ;	*932|
 ;	[fc]
@@ -682,7 +701,8 @@ was all over for us.[pcms]
 ;	*934|
 ;	[fc]
 [ns]Kousuke[nse]
-"The next time we open our eyes, it will be when we are reborn."[pcms]
+"The next time we open our eyes, it will be when we are[r]
+reborn."[pcms]
 ;
 ;	*935|
 ;	[fc]
@@ -703,7 +723,8 @@ was all over for us.[pcms]
 ;
 ;	*938|
 ;	[fc]
-Mizuki buried her face in my chest and had a peaceful expression.[pcms]
+Mizuki buried her face in my chest and had a peaceful[r]
+expression.[pcms]
 ;
 ;	*939|
 ;	[fc]
@@ -751,7 +772,8 @@ I'm really sorry... Mizuki.[pcms]
 ;
 ;	*947|
 ;	[fc]
-While holding Mizuki in my arms, I casually moved our footing to the side.[pcms]
+While holding Mizuki in my arms, I casually moved our[r]
+footing to the side.[pcms]
 ;
 ;	*948|
 ;	[fc]
@@ -774,7 +796,8 @@ I hugged her body tightly.[pcms]
 ;
 ;	*951|
 ;	[fc]
-Believing that when we open our eyes next time... that moment will come.[pcms]
+Believing that when we open our eyes next time... that[r]
+moment will come.[pcms]
 ;
 ;	;システムボタン＆ウィンドウ消去
 ;	[sysbt_meswin clear]
@@ -810,11 +833,13 @@ Down on the first floor, the gunfire had already ceased.[pcms]
 
 *953|
 [fc]
-Shigeyoshi and the others had either escaped or been taken down...[pcms]
+Shigeyoshi and the others had either escaped or been taken[r]
+down...[pcms]
 
 *954|
 [fc]
-As a result, the first floor of LASER was overrun with infected people.[pcms]
+As a result, the first floor of LASER was overrun with[r]
+infected people.[pcms]
 
 *955|
 [fc]
@@ -822,7 +847,8 @@ A single scratch from them would be the end.[pcms]
 
 *956|
 [fc]
-We would join their ranks and wander Shibuya from tomorrow on.[pcms]
+We would join their ranks and wander Shibuya from tomorrow[r]
+on.[pcms]
 
 *957|
 [fc]
@@ -838,7 +864,8 @@ The emergency exit was just a short distance away.[pcms]
 
 *960|
 [fc]
-If I could get through there, it would be a straight shot to 'Dedepou'.[pcms]
+If I could get through there, it would be a straight shot to[r]
+'Dedepou'.[pcms]
 
 *961|
 [fc]
@@ -850,8 +877,8 @@ I might be able to survive.[pcms]
 
 *963|
 [fc]
-I pulled the trigger on an infected person nearby who seemed likely to obstruct[r]
-my path.[pcms]
+I pulled the trigger on an infected person nearby who seemed[r]
+likely to obstruct my path.[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -870,8 +897,8 @@ I let out a war cry and sprinted towards the emergency exit.[pcms]
 
 *966|
 [fc]
-The slowly moving infected people couldn't react to me as I dashed straight[r]
-through them.[pcms]
+The slowly moving infected people couldn't react to me as I[r]
+dashed straight through them.[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -885,7 +912,8 @@ I shot down the infected in my path as I moved forward.[pcms]
 
 *968|
 [fc]
-And... what I saw when I rolled out of the emergency exit was...[pcms]
+And... what I saw when I rolled out of the emergency exit[r]
+was...[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 
@@ -934,7 +962,8 @@ I have memories with everyone.[pcms]
 
 *975|
 [fc]
-As long as I have the memories of how everyone lived, I'm not alone.[pcms]
+As long as I have the memories of how everyone lived, I'm[r]
+not alone.[pcms]
 
 *976|
 [fc]

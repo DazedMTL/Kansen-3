@@ -16,9 +16,9 @@
 
 *3553|
 [fc]
-Let's speed through on the bicycle! There are a lot of people, but there's still[r]
-enough space between them, and their movements are as slow as if they're weighed[r]
-down.[pcms]
+Let's speed through on the bicycle! There are a lot of[r]
+people, but there's still enough space between them, and[r]
+their movements are as slow as if they're weighed down.[pcms]
 
 *3554|
 [fc]
@@ -27,8 +27,8 @@ down.[pcms]
 
 *3555|
 [fc]
-With determination, I directed the front of my bicycle towards the station and[r]
-stood up, leaning forward.[pcms]
+With determination, I directed the front of my bicycle[r]
+towards the station and stood up, leaning forward.[pcms]
 
 *3556|
 [fc]
@@ -37,11 +37,13 @@ stood up, leaning forward.[pcms]
 
 *3557|
 [fc]
-While shouting loudly to intimidate them, I plunged into the crowd of people.[pcms]
+While shouting loudly to intimidate them, I plunged into the[r]
+crowd of people.[pcms]
 
 *3558|
 [fc]
-Many hands reached out, but I managed to dodge them at the last second.[pcms]
+Many hands reached out, but I managed to dodge them at the[r]
+last second.[pcms]
 
 *3559|
 [fc]
@@ -59,7 +61,8 @@ That's what I thought in that moment.[pcms]
 
 *3562|
 [fc]
-An arm stretched out from the side and firmly grabbed my sleeve.[pcms]
+An arm stretched out from the side and firmly grabbed my[r]
+sleeve.[pcms]
 
 [ê‘ÉtÉâ]
 
@@ -111,12 +114,13 @@ Was it a case of being outnumbered after all?[pcms]
 [fc]
 [vo_mob s="onna_iti0011"]
 [ns]Woman A[nse]
-"There's no rush, enjoy the young dick to your heart's content."[pcms]
+"There's no rush, enjoy the young dick to your heart's[r]
+content."[pcms]
 
 *3571|
 [fc]
-Surrounded by people, people, people all around me. Creatures that looked like[r]
-humans with uniformly red eyes.[pcms]
+Surrounded by people, people, people all around me.[r]
+Creatures that looked like humans with uniformly red eyes.[pcms]
 
 *3572|
 [fc]

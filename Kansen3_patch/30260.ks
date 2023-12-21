@@ -24,8 +24,8 @@ We moved under the floor and held our breath there.[pcms]
 
 *2131|
 [fc]
-The dark, low-ceilinged space under the floor made it hard to move, but for now,[r]
-we had no choice but to endure.[pcms]
+The dark, low-ceilinged space under the floor made it hard[r]
+to move, but for now, we had no choice but to endure.[pcms]
 
 *2132|
 [fc]
@@ -33,16 +33,19 @@ Our current situation was like walking a tightrope.[pcms]
 
 *2133|
 [fc]
-A little carelessness or mistake could plunge our fate into the abyss.[pcms]
+A little carelessness or mistake could plunge our fate into[r]
+the abyss.[pcms]
 
 *2134|
 [fc]
-Then, Margarita-senpai pointed to something right in front of us.[pcms]
+Then, Margarita-senpai pointed to something right in front[r]
+of us.[pcms]
 
 *2135|
 [fc]
-When I focused on where her finger was pointing, I saw another hatch installed[r]
-on the concrete foundation under the floor.[pcms]
+When I focused on where her finger was pointing, I saw[r]
+another hatch installed on the concrete foundation under the[r]
+floor.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -65,27 +68,29 @@ Receiving the instruction in a whisper, I nodded silently.[pcms]
 
 *2139|
 [fc]
-However, Kousuke raised his voice in obvious dissatisfaction with the[r]
-suggestion.[pcms]
+However, Kousuke raised his voice in obvious dissatisfaction[r]
+with the suggestion.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2140|
 [fc]
 [ns]Kousuke[nse]
-"If we go in there, we might get trapped, right? It's the same as being buried[r]
-alive."[pcms]
+"If we go in there, we might get trapped, right? It's the[r]
+same as being buried alive."[pcms]
 
 *2141|
 [fc]
-Indeed, there was some truth to that opinion. Considering our current situation[r]
-where rescue was unlikely, if the back of the hatch was a dead end, we would be[r]
-cornering ourselves.[pcms]
+Indeed, there was some truth to that opinion. Considering[r]
+our current situation where rescue was unlikely, if the back[r]
+of the hatch was a dead end, we would be cornering[r]
+ourselves.[pcms]
 
 *2142|
 [fc]
 [ns]Kousuke[nse]
-"I'll pass. I don't want to do something that's practically suicide."[pcms]
+"I'll pass. I don't want to do something that's practically[r]
+suicide."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -109,9 +114,9 @@ cornering ourselves.[pcms]
 
 *2146|
 [fc]
-While calming down the heated Kousuke, I kept a watchful eye on our[r]
-surroundings. My heart ached seeing Ren and Yuuho looking at us with anxious[r]
-eyes.[pcms]
+While calming down the heated Kousuke, I kept a watchful eye[r]
+on our surroundings. My heart ached seeing Ren and Yuuho[r]
+looking at us with anxious eyes.[pcms]
 
 *2147|
 [fc]
@@ -123,8 +128,8 @@ We have to unite and move forward for their sake as well.[pcms]
 [fc]
 [vo_mar s="maru0269"]
 [ns]Margarita[nse]
-"...Anyway, we don't know how long this place will stay safe. It's a race[r]
-against time now."[pcms]
+"...Anyway, we don't know how long this place will stay[r]
+safe. It's a race against time now."[pcms]
 
 *2149|
 [fc]
@@ -153,17 +158,18 @@ against time now."[pcms]
 
 *2153|
 [fc]
-In the middle of my words, Margarita-senpai covered my mouth.[pcms]
+In the middle of my words, Margarita-senpai covered my[r]
+mouth.[pcms]
 
 *2154|
 [fc]
-The sound of the infected entering the staff room above us could be heard[r]
-rattling through.[pcms]
+The sound of the infected entering the staff room above us[r]
+could be heard rattling through.[pcms]
 
 *2155|
 [fc]
-Just as Margarita-senpai said, now was the time to move quickly; it felt like[r]
-the best course of action.[pcms]
+Just as Margarita-senpai said, now was the time to move[r]
+quickly; it felt like the best course of action.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -171,7 +177,8 @@ the best course of action.[pcms]
 [fc]
 [vo_mar s="maru0271"]
 [ns]Margarita[nse]
-"If you don't like it, you can stay behind alone. We're going."[pcms]
+"If you don't like it, you can stay behind alone. We're[r]
+going."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -182,8 +189,8 @@ the best course of action.[pcms]
 
 *2158|
 [fc]
-Faced with a desperate situation with no room for choice, Kousuke could only nod[r]
-silently.[pcms]
+Faced with a desperate situation with no room for choice,[r]
+Kousuke could only nod silently.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -204,7 +211,8 @@ silently.[pcms]
 
 *2161|
 [fc]
-After Yuuho calmed Kousuke down, we started moving towards the hatch.[pcms]
+After Yuuho calmed Kousuke down, we started moving towards[r]
+the hatch.[pcms]
 
 *2162|
 [fc]
@@ -260,27 +268,30 @@ The infected were swarming into the space under the floor.[pcms]
 
 *2168|
 [fc]
-Now that we've been discovered, there's no point in moving quietly without[r]
-making noise. We have to open the hatch as quickly as possible and escape into[r]
-it.[pcms]
+Now that we've been discovered, there's no point in moving[r]
+quietly without making noise. We have to open the hatch as[r]
+quickly as possible and escape into it.[pcms]
 
 *2169|
 [fc]
-I put my hands on the hatch and pulled with all my might. If it was locked or[r]
-rusted shut, that would be the end of everything.[pcms]
+I put my hands on the hatch and pulled with all my might. If[r]
+it was locked or rusted shut, that would be the end of[r]
+everything.[pcms]
 
 *2170|
 [fc]
-The thread of fate would be cut, and our lives would be over. As I put all my[r]
-strength into my hands with a prayerful feeling... it seemed that luck was still[r]
-on our side.[pcms]
+The thread of fate would be cut, and our lives would be[r]
+over. As I put all my strength into my hands with a[r]
+prayerful feeling... it seemed that luck was still on our[r]
+side.[pcms]
 
 ;//黒フェード
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2171|
 [fc]
-With a heavy metallic scraping sound, we managed to open the hatch.[pcms]
+With a heavy metallic scraping sound, we managed to open the[r]
+hatch.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -292,13 +303,14 @@ With a heavy metallic scraping sound, we managed to open the hatch.[pcms]
 
 *2173|
 [fc]
-I wanted to let Yuuho and Ren go first if possible, but there was no time for[r]
-that. The infected were almost upon us.[pcms]
+I wanted to let Yuuho and Ren go first if possible, but[r]
+there was no time for that. The infected were almost upon[r]
+us.[pcms]
 
 *2174|
 [fc]
-I took the lead and ran down the concrete stairs into the basement. Following[r]
-me, Margarita-senpai jumped inside...[pcms]
+I took the lead and ran down the concrete stairs into the[r]
+basement. Following me, Margarita-senpai jumped inside...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -358,8 +370,8 @@ But then Kousuke stopped at the entrance.[pcms]
 
 *2183|
 [fc]
-Barely dodging the approaching infected, Kousuke and Ren also jumped down into[r]
-the passageway beneath the hatch.[pcms]
+Barely dodging the approaching infected, Kousuke and Ren[r]
+also jumped down into the passageway beneath the hatch.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -375,24 +387,27 @@ the passageway beneath the hatch.[pcms]
 
 *2185|
 [fc]
-As I pulled the hatch from the inside to close it, the infected were almost upon[r]
-us. Their outstretched hands were coming at my face.[pcms]
+As I pulled the hatch from the inside to close it, the[r]
+infected were almost upon us. Their outstretched hands were[r]
+coming at my face.[pcms]
 
 *2186|
 [fc]
-I was scared and wanted to let go of the hatch and run away, but if I didn't[r]
-close it, they would get inside.[pcms]
+I was scared and wanted to let go of the hatch and run away,[r]
+but if I didn't close it, they would get inside.[pcms]
 
 *2187|
 [fc]
-It was a do-or-die bet, but I desperately tried to close the hatch right there.[pcms]
+It was a do-or-die bet, but I desperately tried to close the[r]
+hatch right there.[pcms]
 
 [black_toplayer][trans_c cross time=501][hide_chara_int]
 
 *2188|
 [fc]
-In the nick of time... I managed to close the hatch before the infected's hands[r]
-could reach us. I quickly locked it from the inside.[pcms]
+In the nick of time... I managed to close the hatch before[r]
+the infected's hands could reach us. I quickly locked it[r]
+from the inside.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -409,7 +424,8 @@ could reach us. I quickly locked it from the inside.[pcms]
 
 *2191|
 [fc]
-While letting out a sigh of relief, I slumped down on the spot.[pcms]
+While letting out a sigh of relief, I slumped down on the[r]
+spot.[pcms]
 
 ;[fadeoutbgm time=500]
 ;[stopse buf=0]

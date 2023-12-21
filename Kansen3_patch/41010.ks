@@ -31,27 +31,29 @@
 
 *2292|
 [fc]
-A voice of admiration leaks from Yuuho's mouth. The dim basement is enveloped in[r]
-the warm light of the lantern, making it feel a bit more humane.[pcms]
+A voice of admiration leaks from Yuuho's mouth. The dim[r]
+basement is enveloped in the warm light of the lantern,[r]
+making it feel a bit more humane.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2293|
 [fc]
-This too, embarrassingly enough, is under the direction of Margarita-senpai.[r]
-Additionally, to prevent our bodies from cooling down, sheets are spread on the[r]
-floor, and we sit in a circle around the light.[pcms]
+This too, embarrassingly enough, is under the direction of[r]
+Margarita-senpai. Additionally, to prevent our bodies from[r]
+cooling down, sheets are spread on the floor, and we sit in[r]
+a circle around the light.[pcms]
 
 *2294|
 [fc]
-Senpai really knows what to do in times like this. Still, I feel somewhat[r]
-reluctant to praise her for it.[pcms]
+Senpai really knows what to do in times like this. Still, I[r]
+feel somewhat reluctant to praise her for it.[pcms]
 
 *2295|
 [fc]
-Senpai must have learned these things in extreme situations like war, memories[r]
-she probably doesn't want to recall.[pcms]
+Senpai must have learned these things in extreme situations[r]
+like war, memories she probably doesn't want to recall.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -63,8 +65,9 @@ she probably doesn't want to recall.[pcms]
 
 *2297|
 [fc]
-Senpai sits in front of the rusty door, occasionally seeming to listen intently.[r]
-She must be keeping watch for our safety even while resting.[pcms]
+Senpai sits in front of the rusty door, occasionally seeming[r]
+to listen intently. She must be keeping watch for our safety[r]
+even while resting.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -81,15 +84,17 @@ She must be keeping watch for our safety even while resting.[pcms]
 
 *2300|
 [fc]
-Both Yuuho and I are silent, as if following senpai's example.[pcms]
+Both Yuuho and I are silent, as if following senpai's[r]
+example.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2301|
 [fc]
-Probably because we've just come through a situation so surreal that it deviates[r]
-from reality. Once the imminent fear is gone, we feel a sudden exhaustion.[pcms]
+Probably because we've just come through a situation so[r]
+surreal that it deviates from reality. Once the imminent[r]
+fear is gone, we feel a sudden exhaustion.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -101,8 +106,8 @@ from reality. Once the imminent fear is gone, we feel a sudden exhaustion.[pcms]
 
 *2303|
 [fc]
-The silence that had continued for a while is broken by Yuuho's voice, as if she[r]
-remembered something suddenly.[pcms]
+The silence that had continued for a while is broken by[r]
+Yuuho's voice, as if she remembered something suddenly.[pcms]
 
 *2304|
 [fc]
@@ -122,8 +127,8 @@ remembered something suddenly.[pcms]
 
 *2307|
 [fc]
-I was overwhelmed and surprised by Yuuho's words, inadvertently asking her to[r]
-repeat.[pcms]
+I was overwhelmed and surprised by Yuuho's words,[r]
+inadvertently asking her to repeat.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -131,21 +136,21 @@ repeat.[pcms]
 [fc]
 [vo_yuh s="yuho0190"]
 [ns]Yuuho[nse]
-"Kousuke was helping out with a basketball game this morning... I saw him[r]
-practicing in the morning..."[pcms]
+"Kousuke was helping out with a basketball game this[r]
+morning... I saw him practicing in the morning..."[pcms]
 
 *2309|
 [fc]
-Our eyes naturally turn upwards. Towards the hatch far above us, which is now[r]
-out of sight.[pcms]
+Our eyes naturally turn upwards. Towards the hatch far above[r]
+us, which is now out of sight.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2310|
 [fc]
-When closing the hatch, when I heard the sound of knocking on it, I thought of[r]
-Kousuke. But...[pcms]
+When closing the hatch, when I heard the sound of knocking[r]
+on it, I thought of Kousuke. But...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -170,7 +175,8 @@ Kousuke. But...[pcms]
 
 *2314|
 [fc]
-We respond to senpai's words, which she utters after a long silence.[pcms]
+We respond to senpai's words, which she utters after a long[r]
+silence.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -182,8 +188,8 @@ We respond to senpai's words, which she utters after a long silence.[pcms]
 
 *2316|
 [fc]
-Senpai looks down as if to say "I shouldn't have asked" before turning her gaze[r]
-upwards again.[pcms]
+Senpai looks down as if to say "I shouldn't have asked"[r]
+before turning her gaze upwards again.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -195,7 +201,8 @@ upwards again.[pcms]
 
 *2318|
 [fc]
-It's not just Kousuke. If I had been more reliable like senpai...[pcms]
+It's not just Kousuke. If I had been more reliable like[r]
+senpai...[pcms]
 
 *2319|
 [fc]
@@ -203,17 +210,18 @@ I couldn't even save my one and only sister.[pcms]
 
 *2320|
 [fc]
-I left my precious family, my one and only sister, behind in that hell.[pcms]
+I left my precious family, my one and only sister, behind in[r]
+that hell.[pcms]
 
 *2321|
 [fc]
-Ren must have been waiting for me to come save her. No, maybe she's still[r]
-waiting![pcms]
+Ren must have been waiting for me to come save her. No,[r]
+maybe she's still waiting![pcms]
 
 *2322|
 [fc]
-Why didn't I agree with Yuuho's earlier suggestion that we might be able to go[r]
-back now! I am...[pcms]
+Why didn't I agree with Yuuho's earlier suggestion that we[r]
+might be able to go back now! I am...[pcms]
 
 *2323|
 [fc]
@@ -226,18 +234,18 @@ I must have been scared.[pcms]
 
 *2325|
 [fc]
-Self-loathing slips out. No matter how much I regret it, there's nothing I can[r]
-do now.[pcms]
+Self-loathing slips out. No matter how much I regret it,[r]
+there's nothing I can do now.[pcms]
 
 *2326|
 [fc]
-We could certainly turn back. But my reason tells me that what senpai is saying[r]
-is right.[pcms]
+We could certainly turn back. But my reason tells me that[r]
+what senpai is saying is right.[pcms]
 
 *2327|
 [fc]
-It might be self-justification for my cowardice, but I trusted the words of[r]
-senpai who had led us this far.[pcms]
+It might be self-justification for my cowardice, but I[r]
+trusted the words of senpai who had led us this far.[pcms]
 
 *2328|
 [fc]
@@ -255,8 +263,9 @@ senpai who had led us this far.[pcms]
 *2330|
 [fc]
 [ns]Wataru[nse]
-"If only I had woken up a little earlier. If only I had pedaled my bike a bit[r]
-faster... If only I had more strength..."[pcms]
+"If only I had woken up a little earlier. If only I had[r]
+pedaled my bike a bit faster... If only I had more[r]
+strength..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -269,11 +278,13 @@ faster... If only I had more strength..."[pcms]
 *2332|
 [fc]
 [ns]Wataru[nse]
-"If I had known it would come to this, I would have... I would have..."[pcms]
+"If I had known it would come to this, I would have... I[r]
+would have..."[pcms]
 
 *2333|
 [fc]
-Lukewarm drops wet my hand. Tears spill from my eyes along with words of regret.[pcms]
+Lukewarm drops wet my hand. Tears spill from my eyes along[r]
+with words of regret.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -281,12 +292,14 @@ Lukewarm drops wet my hand. Tears spill from my eyes along with words of regret.
 [fc]
 [vo_yuh s="yuho0193"]
 [ns]Yuuho[nse]
-"It can't be helped. Wataru did his best, right? You did everything you could!"[pcms]
+"It can't be helped. Wataru did his best, right? You did[r]
+everything you could!"[pcms]
 
 *2335|
 [fc]
 [ns]Wataru[nse]
-"But if I could have done more... If there was something more I could do..."[pcms]
+"But if I could have done more... If there was something[r]
+more I could do..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -313,24 +326,26 @@ I don't know who embraced whom first.[pcms]
 
 *2338|
 [fc]
-But I was holding Yuuho tightly. Soft and warm... with a faint scent of shampoo[r]
-and soap mingling with Yuuho's smell...[pcms]
+But I was holding Yuuho tightly. Soft and warm... with a[r]
+faint scent of shampoo and soap mingling with Yuuho's[r]
+smell...[pcms]
 
 *2339|
 [fc]
-Yuuho also hugs me back firmly without saying anything. Tears were shining in[r]
-her eyes too.[pcms]
+Yuuho also hugs me back firmly without saying anything.[r]
+Tears were shining in her eyes too.[pcms]
 
 *2340|
 [fc]
-All the things we had been holding back must have come flowing out at once.[pcms]
+All the things we had been holding back must have come[r]
+flowing out at once.[pcms]
 
 *2341|
 [fc]
 [vo_yuh s="yuho0195"]
 [ns]Yuuho[nse]
-"Wataru... It's not your fault. It's just wrong that something like this is[r]
-happening..."[pcms]
+"Wataru... It's not your fault. It's just wrong that[r]
+something like this is happening..."[pcms]
 
 *2342|
 [fc]
@@ -339,8 +354,8 @@ happening..."[pcms]
 
 *2343|
 [fc]
-Yuuho didn't say anything else, but she must be thinking about the people we[r]
-couldn't save, just like me.[pcms]
+Yuuho didn't say anything else, but she must be thinking[r]
+about the people we couldn't save, just like me.[pcms]
 
 *2344|
 [fc]
@@ -352,8 +367,9 @@ While crying, I was reminded of my mother by Yuuho's warmth.[pcms]
 
 *2346|
 [fc]
-Yuuho is nothing like my energetic mother, but she always comforted me in the[r]
-same way, saying "Wataru, it's not your fault."[pcms]
+Yuuho is nothing like my energetic mother, but she always[r]
+comforted me in the same way, saying "Wataru, it's not your[r]
+fault."[pcms]
 
 ;//　ウェイト
 ;[wait time=1000]
@@ -369,12 +385,13 @@ same way, saying "Wataru, it's not your fault."[pcms]
 
 *2349|
 [fc]
-The thought of having lost my mother made me feel like I was going to explode[r]
-with unbearable feelings.[pcms]
+The thought of having lost my mother made me feel like I was[r]
+going to explode with unbearable feelings.[pcms]
 
 *2350|
 [fc]
-The terrifying thought of "even Ren" made my body tremble uncontrollably.[pcms]
+The terrifying thought of "even Ren" made my body tremble[r]
+uncontrollably.[pcms]
 
 *2351|
 [fc]
@@ -384,8 +401,8 @@ The terrifying thought of "even Ren" made my body tremble uncontrollably.[pcms]
 
 *2352|
 [fc]
-Yuuho hugged me tightly without a word. Her painfully strong embrace brought me[r]
-back to my senses.[pcms]
+Yuuho hugged me tightly without a word. Her painfully strong[r]
+embrace brought me back to my senses.[pcms]
 
 *2353|
 [fc]
@@ -401,14 +418,16 @@ back to my senses.[pcms]
 
 *2355|
 [fc]
-Wiping away tears with her finger, Yuuho said to me with a tearful voice.[pcms]
+Wiping away tears with her finger, Yuuho said to me with a[r]
+tearful voice.[pcms]
 
 *2356|
 [fc]
 [vo_yuh s="yuho0198"]
 [ns]Yuuho[nse]
-"Look, Kousuke is part of the self-defense group. He's been training for times[r]
-like this. So, it will definitely be okay."[pcms]
+"Look, Kousuke is part of the self-defense group. He's been[r]
+training for times like this. So, it will definitely be[r]
+okay."[pcms]
 
 *2357|
 [fc]
@@ -419,21 +438,23 @@ like this. So, it will definitely be okay."[pcms]
 [fc]
 [vo_yuh s="yuho0199"]
 [ns]Yuuho[nse]
-"Besides, Kousuke is surprisingly attentive, and he's probably found Ren-chan[r]
-and they're escaping together."[pcms]
+"Besides, Kousuke is surprisingly attentive, and he's[r]
+probably found Ren-chan and they're escaping together."[pcms]
 
 *2359|
 [fc]
 [vo_yuh s="yuho0200"]
 [ns]Yuuho[nse]
-"...Surprisingly, right now he might be giving orders to everyone who was saved,[r]
-showing off. If things go well, he might become a hero of the academy..."[pcms]
+"...Surprisingly, right now he might be giving orders to[r]
+everyone who was saved, showing off. If things go well, he[r]
+might become a hero of the academy..."[pcms]
 
 *2360|
 [fc]
 [ns]Wataru[nse]
-"If that happens, when we meet next time, I'll be like 'A hero of the academy[r]
-just for coffee?' and he'll probably start mooching food too."[pcms]
+"If that happens, when we meet next time, I'll be like 'A[r]
+hero of the academy just for coffee?' and he'll probably[r]
+start mooching food too."[pcms]
 
 *2361|
 [fc]
@@ -448,8 +469,8 @@ just for coffee?' and he'll probably start mooching food too."[pcms]
 
 *2363|
 [fc]
-While saying that, I truly wished from the bottom of my heart that it would be[r]
-reality.[pcms]
+While saying that, I truly wished from the bottom of my[r]
+heart that it would be reality.[pcms]
 
 
 ;mm 背景こっからじゃねえのか？バカか
@@ -465,13 +486,14 @@ reality.[pcms]
 
 *2365|
 [fc]
-I was a little surprised by the sudden words of Margarita-senpai, who had been[r]
-silent until now.[pcms]
+I was a little surprised by the sudden words of Margarita-[r]
+senpai, who had been silent until now.[pcms]
 
 *2366|
 [fc]
-Yuuho and I had forgotten that we were in front of our senior, hugging and[r]
-crying all this time... Thinking about it made me feel a bit embarrassed.[pcms]
+Yuuho and I had forgotten that we were in front of our[r]
+senior, hugging and crying all this time... Thinking about[r]
+it made me feel a bit embarrassed.[pcms]
 
 *2367|
 [fc]
@@ -501,8 +523,8 @@ crying all this time... Thinking about it made me feel a bit embarrassed.[pcms]
 
 *2371|
 [fc]
-The answer from my senior was unexpected. I thought for sure she would scold me[r]
-for being pathetic.[pcms]
+The answer from my senior was unexpected. I thought for sure[r]
+she would scold me for being pathetic.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -510,8 +532,9 @@ for being pathetic.[pcms]
 [fc]
 [vo_mar s="maru0304"]
 [ns]Margarita[nse]
-"It's better to cry when you can. Crying releases neurochemicals that help heal[r]
-sadness. Sadness can also cloud your judgment..."[pcms]
+"It's better to cry when you can. Crying releases[r]
+neurochemicals that help heal sadness. Sadness can also[r]
+cloud your judgment..."[pcms]
 
 *2373|
 [fc]
@@ -528,14 +551,14 @@ This time I was surprised by my senior's calm words.[pcms]
 [fc]
 [vo_mar s="maru0305"]
 [ns]Margarita[nse]
-"That's fine but... Could you two separate now? It's getting embarrassing to[r]
-watch."[pcms]
+"That's fine but... Could you two separate now? It's getting[r]
+embarrassing to watch."[pcms]
 ;//＠テレ
 
 *2376|
 [fc]
-My senior said this with her cheeks slightly blushing, truly looking[r]
-embarrassed.[pcms]
+My senior said this with her cheeks slightly blushing, truly[r]
+looking embarrassed.[pcms]
 
 ;//〆フェードアウト
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -548,8 +571,8 @@ embarrassed.[pcms]
 
 *2377|
 [fc]
-When she pointed it out, it became quite embarrassing. Yuuho and I hurriedly let[r]
-go of each other.[pcms]
+When she pointed it out, it became quite embarrassing. Yuuho[r]
+and I hurriedly let go of each other.[pcms]
 
 *2378|
 [fc]

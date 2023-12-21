@@ -7,7 +7,8 @@
 
 *300|
 [fc]
-That's right, there should be an emergency exit in the parlor corner of Arcadia.[pcms]
+That's right, there should be an emergency exit in the[r]
+parlor corner of Arcadia.[pcms]
 
 ;//★_アルカディア
 [bg storage="BG020b"][trans_c cross time=500]
@@ -17,8 +18,9 @@ That's right, there should be an emergency exit in the parlor corner of Arcadia.
 
 *301|
 [fc]
-I hurried into the parlor corner of Arcadia and from there, I went out to the[r]
-LASER perimeter through the emergency exit.[pcms]
+I hurried into the parlor corner of Arcadia and from there,[r]
+I went out to the LASER perimeter through the emergency[r]
+exit.[pcms]
 
 ;//★_LASER正面（夕）
 ;//外に出てるのにビル前は違うので夕景にします
@@ -30,12 +32,14 @@ LASER perimeter through the emergency exit.[pcms]
 
 *302|
 [fc]
-The lukewarm evening breeze caressed my cheeks as I stepped onto the catwalk.[pcms]
+The lukewarm evening breeze caressed my cheeks as I stepped[r]
+onto the catwalk.[pcms]
 
 *303|
 [fc]
-Perhaps attracted by the sound of men breaking shutters, before I knew it,[r]
-infected ones had gathered in swarms around LASER.[pcms]
+Perhaps attracted by the sound of men breaking shutters,[r]
+before I knew it, infected ones had gathered in swarms[r]
+around LASER.[pcms]
 
 *304|
 [fc]
@@ -43,12 +47,13 @@ If I go down now, it'll be the end of me.[pcms]
 
 *305|
 [fc]
-At this rate, the infected ones might have even invaded inside LASER.[pcms]
+At this rate, the infected ones might have even invaded[r]
+inside LASER.[pcms]
 
 *306|
 [fc]
-I need to hurry and save everyone, or they'll be attacked not just by men but by[r]
-the infected as well...[pcms]
+I need to hurry and save everyone, or they'll be attacked[r]
+not just by men but by the infected as well...[pcms]
 
 *307|
 [fc]
@@ -72,8 +77,9 @@ Or should I go back inside LASER to save everyone...[pcms]
 
 *312|
 [fc]
-While pondering, I continued to the dead end and used the emergency lift in the[r]
-deck floor to descend to the second-floor catwalk.[pcms]
+While pondering, I continued to the dead end and used the[r]
+emergency lift in the deck floor to descend to the second-[r]
+floor catwalk.[pcms]
 
 
 
@@ -93,8 +99,8 @@ deck floor to descend to the second-floor catwalk.[pcms]
 
 *313|
 [fc]
-Once I got down to the second floor, it was clear that the road below was indeed[r]
-a sea of infected ones.[pcms]
+Once I got down to the second floor, it was clear that the[r]
+road below was indeed a sea of infected ones.[pcms]
 
 *314|
 [fc]
@@ -102,11 +108,13 @@ There's not even a sliver of a chance to escape.[pcms]
 
 *315|
 [fc]
-It seems I have no choice but to use the LASER perimeter to move around.[pcms]
+It seems I have no choice but to use the LASER perimeter to[r]
+move around.[pcms]
 
 *316|
 [fc]
-Leaning out from the catwalk deck, I surveyed the surroundings.[pcms]
+Leaning out from the catwalk deck, I surveyed the[r]
+surroundings.[pcms]
 
 *317|
 [fc]

@@ -42,12 +42,14 @@
 
 *5541|
 [fc]
-The 5th floor is the manga cafe 'Arcadia' where we've been staying.[pcms]
+The 5th floor is the manga cafe 'Arcadia' where we've been[r]
+staying.[pcms]
 
 *5542|
 [fc]
-I pretty much know what it's like inside, and since we're going to be spending a[r]
-lot of time here, there's probably no need to check... but...[pcms]
+I pretty much know what it's like inside, and since we're[r]
+going to be spending a lot of time here, there's probably no[r]
+need to check... but...[pcms]
 
 *5543|
 [fc]
@@ -56,24 +58,24 @@ lot of time here, there's probably no need to check... but...[pcms]
 
 *5544|
 [fc]
-Complacency is the enemy! It's precisely because this is where we sleep that we[r]
-need to inspect it thoroughly. I don't even know any exits other than the[r]
-emergency stairs.[pcms]
+Complacency is the enemy! It's precisely because this is[r]
+where we sleep that we need to inspect it thoroughly. I[r]
+don't even know any exits other than the emergency stairs.[pcms]
 
 *5545|
 [fc]
-Just like in the zombie movies I used to watch, it's not just the infected we[r]
-have to worry about, but also the possibility of being attacked by looters[r]
-turned human...[pcms]
+Just like in the zombie movies I used to watch, it's not[r]
+just the infected we have to worry about, but also the[r]
+possibility of being attacked by looters turned human...[pcms]
 
 ;//çïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5546|
 [fc]
-Even so, it's not something that requires everyone to look at... so everyone[r]
-else headed to the 4th floor, and I was the only one who got off the elevator on[r]
-the 5th floor.[pcms]
+Even so, it's not something that requires everyone to look[r]
+at... so everyone else headed to the 4th floor, and I was[r]
+the only one who got off the elevator on the 5th floor.[pcms]
 
 [eval exp="f.l_pass_5f = 1"]
 

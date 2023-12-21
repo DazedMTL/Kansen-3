@@ -16,20 +16,21 @@
 
 *1887|
 [fc]
-The sun was still high in the sky, not even a hint of evening yet, but while I[r]
-was tucked into my futon, the hands of the clock mercilessly moved forward,[r]
-pointing towards 6 PM.[pcms]
+The sun was still high in the sky, not even a hint of[r]
+evening yet, but while I was tucked into my futon, the hands[r]
+of the clock mercilessly moved forward, pointing towards 6[r]
+PM.[pcms]
 
 *1888|
 [fc]
-Thinking about Yuuho and Oshima-senpai weighed heavily on my mind, but[r]
-considering the promised meeting time, I had to start getting ready to go out[r]
-soon.[pcms]
+Thinking about Yuuho and Oshima-senpai weighed heavily on my[r]
+mind, but considering the promised meeting time, I had to[r]
+start getting ready to go out soon.[pcms]
 
 *1889|
 [fc]
-But my mood had sunk to rock bottom, and I just couldn't bring myself to start[r]
-preparing to go out.[pcms]
+But my mood had sunk to rock bottom, and I just couldn't[r]
+bring myself to start preparing to go out.[pcms]
 
 *1890|
 [fc]
@@ -37,34 +38,37 @@ Yuuho and Oshima-senpai... No, not just Oshima-senpai.[pcms]
 
 *1891|
 [fc]
-Caught up in the festive mood of the summer festival, someone else might also[r]
-confess their feelings. It's possible![pcms]
+Caught up in the festive mood of the summer festival,[r]
+someone else might also confess their feelings. It's[r]
+possible![pcms]
 
 *1892|
 [fc]
 [ns]Wataru[nse]
-"Uwaaaaaah, the thought of Yuuho dating someone other than me, being confessed[r]
-to by someone else..."[pcms]
+"Uwaaaaaah, the thought of Yuuho dating someone other than[r]
+me, being confessed to by someone else..."[pcms]
 
 *1893|
 [fc]
-As I rolled around on the bed with those thoughts, an idea suddenly struck me.[pcms]
+As I rolled around on the bed with those thoughts, an idea[r]
+suddenly struck me.[pcms]
 
 *1894|
 [fc]
-If someone other than Oshima-senpai were to confess, why couldn't that "someone[r]
-else" be me?[pcms]
+If someone other than Oshima-senpai were to confess, why[r]
+couldn't that "someone else" be me?[pcms]
 
 *1895|
 [fc]
 [ns]Wataru[nse]
-"That's right. Even if I confess... Yeah. Yuuho, I've always liked you. 'Well[r]
-Wataru, I also...' No, that's not going to happen."[pcms]
+"That's right. Even if I confess... Yeah. Yuuho, I've always[r]
+liked you. 'Well Wataru, I also...' No, that's not going to[r]
+happen."[pcms]
 
 *1896|
 [fc]
-Me, with no particular talents, unlike Yuuho or Kousuke or Ren, and without a[r]
-clear dream for the future to pursue.[pcms]
+Me, with no particular talents, unlike Yuuho or Kousuke or[r]
+Ren, and without a clear dream for the future to pursue.[pcms]
 
 *1897|
 [fc]
@@ -72,8 +76,9 @@ Do I even have the right to confess?[pcms]
 
 *1898|
 [fc]
-No, more importantly than that, if I confess and get rejected, our current[r]
-relationship might crumble and I might not be able to be with Yuuho anymore.[pcms]
+No, more importantly than that, if I confess and get[r]
+rejected, our current relationship might crumble and I might[r]
+not be able to be with Yuuho anymore.[pcms]
 
 *1899|
 [fc]
@@ -85,8 +90,8 @@ To go to the festival or not to go...[pcms]
 
 *1901|
 [fc]
-No, the real question is whether to confess to Yuuho or not. That's the biggest[r]
-issue.[pcms]
+No, the real question is whether to confess to Yuuho or not.[r]
+That's the biggest issue.[pcms]
 
 *1902|
 [fc]
@@ -111,7 +116,8 @@ But still...[pcms]
 
 *1906|
 [fc]
-Just as I let out a sigh involuntarily, I heard a knock from behind me.[pcms]
+Just as I let out a sigh involuntarily, I heard a knock from[r]
+behind me.[pcms]
 
 *1907|
 [fc]
@@ -129,7 +135,8 @@ Just as I let out a sigh involuntarily, I heard a knock from behind me.[pcms]
 [fc]
 [vo_ren s="ren0076" v=70]
 [ns]Ren[nse]
-"Not 'Ren...?' You're not going to the festival? We're going to be late."[pcms]
+"Not 'Ren...?' You're not going to the festival? We're going[r]
+to be late."[pcms]
 ;//＠オフ。ドアの向こう
 
 *1910|
@@ -163,8 +170,8 @@ Just as I let out a sigh involuntarily, I heard a knock from behind me.[pcms]
 
 *1915|
 [fc]
-Surprised by Ren's suddenly clouded voice from beyond the door, I sat up on the[r]
-bed.[pcms]
+Surprised by Ren's suddenly clouded voice from beyond the[r]
+door, I sat up on the bed.[pcms]
 
 *1916|
 [fc]
@@ -174,30 +181,32 @@ Ren yelled...?[pcms]
 [fc]
 [vo_ren s="ren0079" v=70]
 [ns]Ren[nse]
-"I'm sorry, big brother. That wasn't because I was angry, but because I was[r]
-surprised... If that made you feel like not going to the festival, then..."[pcms]
+"I'm sorry, big brother. That wasn't because I was angry,[r]
+but because I was surprised... If that made you feel like[r]
+not going to the festival, then..."[pcms]
 ;//＠オフ。ドアの向こう
 
 *1918|
 [fc]
 [ns]Wataru[nse]
-"Ah, eh? No. That was my fault. And I really didn't notice you at all, I had no[r]
-intention of peeking. But... sorry!"[pcms]
+"Ah, eh? No. That was my fault. And I really didn't notice[r]
+you at all, I had no intention of peeking. But... sorry!"[pcms]
 
 *1919|
 [fc]
-Thinking about it, Ren's voice that I heard through the door did sound a bit[r]
-angry at first.[pcms]
+Thinking about it, Ren's voice that I heard through the door[r]
+did sound a bit angry at first.[pcms]
 
 *1920|
 [fc]
-But after hearing my non-committal answer, she seemed to misunderstand that she[r]
-was the reason I didn't want to go.[pcms]
+But after hearing my non-committal answer, she seemed to[r]
+misunderstand that she was the reason I didn't want to go.[pcms]
 
 *1921|
 [fc]
-In a hurry to apologize, I heard a thud against the door like a forehead bumping[r]
-into it, followed by Ren's lonely voice.[pcms]
+In a hurry to apologize, I heard a thud against the door[r]
+like a forehead bumping into it, followed by Ren's lonely[r]
+voice.[pcms]
 
 *1922|
 [fc]
@@ -212,17 +221,20 @@ Moved by her sad voice, my heart wavered.[pcms]
 
 *1924|
 [fc]
-Inherently sensitive to sunlight and crowds, Ren couldn't go out much anymore.[r]
-Now that she couldn't go to Akita, her only summer enjoyment was this festival.[pcms]
+Inherently sensitive to sunlight and crowds, Ren couldn't go[r]
+out much anymore. Now that she couldn't go to Akita, her[r]
+only summer enjoyment was this festival.[pcms]
 
 *1925|
 [fc]
-She's no longer the little girl who used to follow behind me. Even though Yuuho[r]
-and others will be at the venue and she should be able to go alone by now...[pcms]
+She's no longer the little girl who used to follow behind[r]
+me. Even though Yuuho and others will be at the venue and[r]
+she should be able to go alone by now...[pcms]
 
 *1926|
 [fc]
-Still, the image of Ren following behind me resurfaced in my mind.[pcms]
+Still, the image of Ren following behind me resurfaced in my[r]
+mind.[pcms]
 
 *1927|
 [fc]
@@ -230,7 +242,8 @@ Is this also a kind of instinct as a brother...?[pcms]
 
 *1928|
 [fc]
-With a wry smile on my face, I got up from the bed and opened the door.[pcms]
+With a wry smile on my face, I got up from the bed and[r]
+opened the door.[pcms]
 
 ;//se006・木製ドアを開ける音
 [se buf=0 storage="se006"]
@@ -249,12 +262,14 @@ The moment I opened the door, Ren's face came into view.[pcms]
 
 *1931|
 [fc]
-And then there was Ren's yukata that she had changed into earlier.[pcms]
+And then there was Ren's yukata that she had changed into[r]
+earlier.[pcms]
 
 *1932|
 [fc]
-That was shocking in its own way, but now her loveliness made my heart flutter.[r]
-As her brother, how could I let such a cute sister go alone?[pcms]
+That was shocking in its own way, but now her loveliness[r]
+made my heart flutter. As her brother, how could I let such[r]
+a cute sister go alone?[pcms]
 
 *1933|
 [fc]
@@ -265,8 +280,8 @@ As her brother, how could I let such a cute sister go alone?[pcms]
 
 *1934|
 [fc]
-Petting Ren's head with a pat as one would do with a child made her face light[r]
-up with joy instantly.[pcms]
+Petting Ren's head with a pat as one would do with a child[r]
+made her face light up with joy instantly.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_b3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -285,8 +300,9 @@ up with joy instantly.[pcms]
 
 *1937|
 [fc]
-Seeing Ren's face light up with a smile made me feel like the things I was[r]
-worrying about weren't such a big deal after all.[pcms]
+Seeing Ren's face light up with a smile made me feel like[r]
+the things I was worrying about weren't such a big deal[r]
+after all.[pcms]
 
 ;//〆：♪：lastsummer　フェードアウト
 [fadeoutbgm time=500]
@@ -303,8 +319,8 @@ worrying about weren't such a big deal after all.[pcms]
 
 *1938|
 [fc]
-When Ren and I arrived at the festival venue, Kousuke and Yuuho were already[r]
-waiting for us at the meeting spot.[pcms]
+When Ren and I arrived at the festival venue, Kousuke and[r]
+Yuuho were already waiting for us at the meeting spot.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -316,18 +332,19 @@ waiting for us at the meeting spot.[pcms]
 
 *1940|
 [fc]
-The moment she spotted me, Yuuho waved her hand and called out to us with a loud[r]
-voice.[pcms]
+The moment she spotted me, Yuuho waved her hand and called[r]
+out to us with a loud voice.[pcms]
 
 *1941|
 [fc]
-Yuuho always has a healthy cuteness about her, but in a yukata, she somehow[r]
-looks more mature and even cuter.[pcms]
+Yuuho always has a healthy cuteness about her, but in a[r]
+yukata, she somehow looks more mature and even cuter.[pcms]
 
 *1942|
 [fc]
-While my heart raced at the sight of Yuuho in a different look, I couldn't help[r]
-but think of Oshima-senpai and their relationship.[pcms]
+While my heart raced at the sight of Yuuho in a different[r]
+look, I couldn't help but think of Oshima-senpai and their[r]
+relationship.[pcms]
 
 *1943|
 [fc]
@@ -335,8 +352,9 @@ I wonder if Yuuho has been in touch with him since then?[pcms]
 
 *1944|
 [fc]
-Maybe Oshima-senpai really did ask for Yuuho's contact information with the[r]
-intention of confessing his feelings today?[pcms]
+Maybe Oshima-senpai really did ask for Yuuho's contact[r]
+information with the intention of confessing his feelings[r]
+today?[pcms]
 
 *1945|
 [fc]
@@ -387,7 +405,8 @@ And maybe Yuuho has accepted...[pcms]
 [fc]
 [vo_yuh s="yuho0079"]
 [ns]Yuuho[nse]
-"I said it wasn't my style, but they told me to wear it anyway."[pcms]
+"I said it wasn't my style, but they told me to wear it[r]
+anyway."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -402,9 +421,10 @@ And maybe Yuuho has accepted...[pcms]
 [fc]
 [vo_yuh s="yuho0080"]
 [ns]Yuuho[nse]
-"Kousuke, you just pronounced it as 'monk', didn't you? It's supposed to be[r]
-'even a packhorse driver can look attractive in the right outfit'. It's not[r]
-'monk', because it refers to someone who carries loads, not a grandchild."[pcms]
+"Kousuke, you just pronounced it as 'monk', didn't you? It's[r]
+supposed to be 'even a packhorse driver can look attractive[r]
+in the right outfit'. It's not 'monk', because it refers to[r]
+someone who carries loads, not a grandchild."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a6"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -417,23 +437,25 @@ And maybe Yuuho has accepted...[pcms]
 
 *1956|
 [fc]
-While the three of them exchanged banter like a comedy act, I listened with a[r]
-smile on my face but was carefully observing Yuuho's behavior.[pcms]
+While the three of them exchanged banter like a comedy act,[r]
+I listened with a smile on my face but was carefully[r]
+observing Yuuho's behavior.[pcms]
 
 *1957|
 [fc]
-Could it be that Yuuho is so cheerful because she has already been confessed to[r]
-by Oshima-senpai and accepted?[pcms]
+Could it be that Yuuho is so cheerful because she has[r]
+already been confessed to by Oshima-senpai and accepted?[pcms]
 
 *1958|
 [fc]
-No, or maybe she's excitedly waiting for a confession that's supposed to happen[r]
-later...?[pcms]
+No, or maybe she's excitedly waiting for a confession that's[r]
+supposed to happen later...?[pcms]
 
 *1959|
 [fc]
-My heart grew heavier and darker, and I couldn't even keep up a smile anymore[r]
-when I felt someone pull my hand, prompting me to look up.[pcms]
+My heart grew heavier and darker, and I couldn't even keep[r]
+up a smile anymore when I felt someone pull my hand,[r]
+prompting me to look up.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m5"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -454,13 +476,13 @@ when I felt someone pull my hand, prompting me to look up.[pcms]
 [fc]
 [vo_yuh s="yuho0082"]
 [ns]Yuuho[nse]
-"No way. We just decided to go around the food stalls for now. Look, Kousuke is[r]
-already heading there, right?"[pcms]
+"No way. We just decided to go around the food stalls for[r]
+now. Look, Kousuke is already heading there, right?"[pcms]
 
 *1963|
 [fc]
-As Yuuho said this and I looked over, Ren was glancing back at me while being[r]
-led ahead by Kousuke.[pcms]
+As Yuuho said this and I looked over, Ren was glancing back[r]
+at me while being led ahead by Kousuke.[pcms]
 
 *1964|
 [fc]
@@ -479,24 +501,26 @@ led ahead by Kousuke.[pcms]
 
 *1966|
 [fc]
-Led by the cheerful Yuuho, I started walking towards the food stalls.[pcms]
+Led by the cheerful Yuuho, I started walking towards the[r]
+food stalls.[pcms]
 
 *1967|
 [fc]
 [ns]？？？[nse]
-"Here you go, two takoyakis with extra spicy sauce. That'll be 840 yen. ...Thank[r]
-you for your business. Feel free to add mayonnaise from that dispenser over[r]
-there."[pcms]
+"Here you go, two takoyakis with extra spicy sauce. That'll[r]
+be 840 yen. ...Thank you for your business. Feel free to add[r]
+mayonnaise from that dispenser over there."[pcms]
 ;//＠忠彦
 
 *1968|
 [fc]
-Suddenly, I heard a familiar voice coming from one of the stalls.[pcms]
+Suddenly, I heard a familiar voice coming from one of the[r]
+stalls.[pcms]
 
 *1969|
 [fc]
-Drawn by the voice, I saw Tadahiko cooking takoyaki under a noren curtain that[r]
-read "Kyoto-style Takoyaki."[pcms]
+Drawn by the voice, I saw Tadahiko cooking takoyaki under a[r]
+noren curtain that read "Kyoto-style Takoyaki."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -518,16 +542,16 @@ read "Kyoto-style Takoyaki."[pcms]
 [fc]
 [vo_yuh s="yuho0084"]
 [ns]Yuuho[nse]
-"Tadahiko's takoyaki is Kyoto-style this year? How is it different from Osaka-[r]
-style?"[pcms]
+"Tadahiko's takoyaki is Kyoto-style this year? How is it[r]
+different from Osaka- style?"[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_b6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1973|
 [fc]
 [ns]Tadahiko[nse]
-"Kyoto-style is crispy on the outside and gooey on the inside. Give it a try,[r]
-why don't you?"[pcms]
+"Kyoto-style is crispy on the outside and gooey on the[r]
+inside. Give it a try, why don't you?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_b8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -542,14 +566,15 @@ why don't you?"[pcms]
 *1975|
 [fc]
 [ns]Tadahiko[nse]
-"You always say the nicest things, Ren. Here's a special service for you."[pcms]
+"You always say the nicest things, Ren. Here's a special[r]
+service for you."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1976|
 [fc]
-Special service or not, Tadahiko treating us to takoyaki has become an annual[r]
-tradition.[pcms]
+Special service or not, Tadahiko treating us to takoyaki has[r]
+become an annual tradition.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -565,8 +590,8 @@ tradition.[pcms]
 [fc]
 [vo_ren s="ren0086"]
 [ns]Ren[nse]
-"Huff huff. It's amazing how the outside is so crispy and the inside is so[r]
-gooey... delicious."[pcms]
+"Huff huff. It's amazing how the outside is so crispy and[r]
+the inside is so gooey... delicious."[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_b6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -580,15 +605,17 @@ gooey... delicious."[pcms]
 *1980|
 [fc]
 [ns]Kousuke[nse]
-"Yeah. Tadahiko could become a professional takoyaki chef at this rate."[pcms]
+"Yeah. Tadahiko could become a professional takoyaki chef at[r]
+this rate."[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_b3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1981|
 [fc]
 [ns]Tadahiko[nse]
-"As long as I'm making something that people pay for, I'm a professional. If it[r]
-wasn't good, would I be able to charge for it?"[pcms]
+"As long as I'm making something that people pay for, I'm a[r]
+professional. If it wasn't good, would I be able to charge[r]
+for it?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -602,7 +629,8 @@ wasn't good, would I be able to charge for it?"[pcms]
 *1983|
 [fc]
 [ns]Tadahiko[nse]
-"I'm not so down on my luck that I need to take money from you guys."[pcms]
+"I'm not so down on my luck that I need to take money from[r]
+you guys."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -612,34 +640,36 @@ Joking around with Tadahiko, we savored his takoyaki.[pcms]
 
 *1985|
 [fc]
-This is the first year for Kyoto-style, but he's been making it every year and[r]
-his skills are definitely improving.[pcms]
+This is the first year for Kyoto-style, but he's been making[r]
+it every year and his skills are definitely improving.[pcms]
 
 *1986|
 [fc]
-But... somehow, whether it's delicious or whatever else about the takoyaki[r]
-doesn't matter as much as Yuuho does to me right now; I'm the only one who can't[r]
-quite taste it.[pcms]
+But... somehow, whether it's delicious or whatever else[r]
+about the takoyaki doesn't matter as much as Yuuho does to[r]
+me right now; I'm the only one who can't quite taste it.[pcms]
 
 *1987|
 [fc]
-The usual takoyaki that's fluffy both inside and out is good, but this one with[r]
-a crispy outside and fluffy inside is also nice, I thought.[pcms]
+The usual takoyaki that's fluffy both inside and out is[r]
+good, but this one with a crispy outside and fluffy inside[r]
+is also nice, I thought.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1988|
 [fc]
 [ns]Kousuke[nse]
-"Hmm, then it wouldn't be right to stay too long and get in the way of Hiko-[r]
-chin's business."[pcms]
+"Hmm, then it wouldn't be right to stay too long and get in[r]
+the way of Hiko- chin's business."[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_b3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1989|
 [fc]
 [ns]Tadahiko[nse]
-"Really, you've grown up enough to be considerate. Go enjoy the festival."[pcms]
+"Really, you've grown up enough to be considerate. Go enjoy[r]
+the festival."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -647,8 +677,8 @@ chin's business."[pcms]
 [fc]
 [vo_yuh s="yuho0086"]
 [ns]Yuuho[nse]
-"In Kousuke's case, it's less about the festival and more about snacking at the[r]
-food stalls, huh~"[pcms]
+"In Kousuke's case, it's less about the festival and more[r]
+about snacking at the food stalls, huh~"[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_b6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -661,8 +691,9 @@ food stalls, huh~"[pcms]
 
 *1992|
 [fc]
-After parting ways with Tadahiko, who continued to cook takoyaki, we started[r]
-walking down the street lined with stalls, takoyaki in hand.[pcms]
+After parting ways with Tadahiko, who continued to cook[r]
+takoyaki, we started walking down the street lined with[r]
+stalls, takoyaki in hand.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -677,8 +708,9 @@ walking down the street lined with stalls, takoyaki in hand.[pcms]
 [fc]
 [vo_yuh s="yuho0087"]
 [ns]Yuuho[nse]
-"You haven't even finished your takoyaki yet. Next should definitely be a summer[r]
-festival staple! Goldfish scooping, right?"[pcms]
+"You haven't even finished your takoyaki yet. Next should[r]
+definitely be a summer festival staple! Goldfish scooping,[r]
+right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_b8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -686,8 +718,8 @@ festival staple! Goldfish scooping, right?"[pcms]
 [fc]
 [vo_ren s="ren0087"]
 [ns]Ren[nse]
-"Yeah. This year, I hope to actually scoop them up instead of just getting them[r]
-as a freebie."[pcms]
+"Yeah. This year, I hope to actually scoop them up instead[r]
+of just getting them as a freebie."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -702,8 +734,8 @@ as a freebie."[pcms]
 *1997|
 [fc]
 [ns]Kousuke[nse]
-"Those are bait to attract customers; they're probably made so you can't scoop[r]
-them up, right?"[pcms]
+"Those are bait to attract customers; they're probably made[r]
+so you can't scoop them up, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -719,7 +751,8 @@ them up, right?"[pcms]
 [fc]
 [vo_ren s="ren0088"]
 [ns]Ren[nse]
-"If it's Yuuho-chan, it'll be fine. She always scoops up about five."[pcms]
+"If it's Yuuho-chan, it'll be fine. She always scoops up[r]
+about five."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -741,8 +774,8 @@ them up, right?"[pcms]
 *2002|
 [fc]
 [ns]Kousuke[nse]
-"Anyway, I have to help out the basketball club first thing tomorrow morning, so[r]
-I can't hang out too long."[pcms]
+"Anyway, I have to help out the basketball club first thing[r]
+tomorrow morning, so I can't hang out too long."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_b8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -750,16 +783,16 @@ I can't hang out too long."[pcms]
 [fc]
 [vo_ren s="ren0089"]
 [ns]Ren[nse]
-"Ah, the brass band club has morning practice before going to cheer at the[r]
-afternoon game."[pcms]
+"Ah, the brass band club has morning practice before going[r]
+to cheer at the afternoon game."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2004|
 [fc]
 [ns]Kousuke[nse]
-"Oh, Ren-chan is coming to cheer? Then I guess I'll have to show off my sports[r]
-skills for once."[pcms]
+"Oh, Ren-chan is coming to cheer? Then I guess I'll have to[r]
+show off my sports skills for once."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -780,12 +813,13 @@ skills for once."[pcms]
 
 *2007|
 [fc]
-Just as Kousuke was about to complain to Yuuho, he stopped speaking unnaturally.[pcms]
+Just as Kousuke was about to complain to Yuuho, he stopped[r]
+speaking unnaturally.[pcms]
 
 *2008|
 [fc]
-Following his gaze, there was a woman in a yukata at the shooting gallery stall,[r]
-exuding an unusual aura.[pcms]
+Following his gaze, there was a woman in a yukata at the[r]
+shooting gallery stall, exuding an unusual aura.[pcms]
 
 *2009|
 [fc]
@@ -793,19 +827,20 @@ exuding an unusual aura.[pcms]
 
 *2010|
 [fc]
-Even though it's clear that it's a toy gun, perhaps because she's a foreigner,[r]
-the way she holds it has a strange convincing power.[pcms]
+Even though it's clear that it's a toy gun, perhaps because[r]
+she's a foreigner, the way she holds it has a strange[r]
+convincing power.[pcms]
 
 *2011|
 [fc]
-But despite her blonde hair and blue eyes, there's no sense of being awkwardly[r]
-dressed in a yukata like the foreigners you see on TV; she actually wears it[r]
-well.[pcms]
+But despite her blonde hair and blue eyes, there's no sense[r]
+of being awkwardly dressed in a yukata like the foreigners[r]
+you see on TV; she actually wears it well.[pcms]
 
 *2012|
 [fc]
-Perhaps she noticed us staring, senpai took her aim off the target and turned[r]
-back towards us.[pcms]
+Perhaps she noticed us staring, senpai took her aim off the[r]
+target and turned back towards us.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_c1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -828,7 +863,8 @@ back towards us.[pcms]
 [fc]
 [vo_mar s="maru0012"]
 [ns]Margarita[nse]
-"In my homeland, there are plenty of opportunities to handle guns."[pcms]
+"In my homeland, there are plenty of opportunities to handle[r]
+guns."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m5"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -836,8 +872,8 @@ back towards us.[pcms]
 [fc]
 [vo_yuh s="yuho0092"]
 [ns]Yuuho[nse]
-"Eh? You mean in your homeland... Senpai, you're only one year older than us,[r]
-right?"[pcms]
+"Eh? You mean in your homeland... Senpai, you're only one[r]
+year older than us, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_c1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -845,8 +881,9 @@ right?"[pcms]
 [fc]
 [vo_mar s="maru0013"]
 [ns]Margarita[nse]
-"If you can't use a gun to protect yourself, you won't survive. You learn[r]
-whether you like it or not if you're born in such a country."[pcms]
+"If you can't use a gun to protect yourself, you won't[r]
+survive. You learn whether you like it or not if you're born[r]
+in such a country."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_b2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -866,21 +903,23 @@ whether you like it or not if you're born in such a country."[pcms]
 
 *2020|
 [fc]
-We immediately understood the meaning behind senpai's murmured word.[pcms]
+We immediately understood the meaning behind senpai's[r]
+murmured word.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2021|
 [fc]
-"Matinia," located in South America, is a country where a dictatorship[r]
-monopolized resource rights and has been in conflict with anti-government[r]
-organizations for many years.[pcms]
+"Matinia," located in South America, is a country where a[r]
+dictatorship monopolized resource rights and has been in[r]
+conflict with anti-government organizations for many years.[pcms]
 
 *2022|
 [fc]
-The news that the anti-government side finally overthrew the military[r]
-dictatorship and established a new government after countless civil wars is[r]
-still fresh in the memory of even us kids who had no interest in world affairs.[pcms]
+The news that the anti-government side finally overthrew the[r]
+military dictatorship and established a new government after[r]
+countless civil wars is still fresh in the memory of even us[r]
+kids who had no interest in world affairs.[pcms]
 
 *2023|
 [fc]
@@ -888,14 +927,16 @@ If senpai's father is an ambassador--[pcms]
 
 *2024|
 [fc]
-Then naturally he was on the anti-government side at that time... It's possible[r]
-that even as a child she had to learn to protect herself to survive.[pcms]
+Then naturally he was on the anti-government side at that[r]
+time... It's possible that even as a child she had to learn[r]
+to protect herself to survive.[pcms]
 
 *2025|
 [fc]
-To our generation who didn't know Japan had been involved in war until we[r]
-learned it in history class, the idea of having to protect oneself to survive is[r]
-something we can't truly grasp.[pcms]
+To our generation who didn't know Japan had been involved in[r]
+war until we learned it in history class, the idea of having[r]
+to protect oneself to survive is something we can't truly[r]
+grasp.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m4"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -903,7 +944,8 @@ something we can't truly grasp.[pcms]
 [fc]
 [vo_yuh s="yuho0093"]
 [ns]Yuuho[nse]
-"Ah, that's why senpai is so strong... Thank you for yesterday."[pcms]
+"Ah, that's why senpai is so strong... Thank you for[r]
+yesterday."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_c1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -927,14 +969,15 @@ something we can't truly grasp.[pcms]
 [fc]
 [vo_mar s="maru0016"]
 [ns]Margarita[nse]
-"If you hate being protected and want to live on your own, why not train[r]
-yourself before thanking me?"[pcms]
+"If you hate being protected and want to live on your own,[r]
+why not train yourself before thanking me?"[pcms]
 
 *2030|
 [fc]
-While what she said was perfectly reasonable, Yuuho, Ren, and of course I, and[r]
-even Kousuke were at a loss for words and didn't know what to say next due to[r]
-her unapproachable aura.[pcms]
+While what she said was perfectly reasonable, Yuuho, Ren,[r]
+and of course I, and even Kousuke were at a loss for words[r]
+and didn't know what to say next due to her unapproachable[r]
+aura.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m2"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -950,7 +993,8 @@ her unapproachable aura.[pcms]
 [fc]
 [vo_ren s="ren0092"]
 [ns]Ren[nse]
-"Yes. The color of your hair and the yukata match perfectly."[pcms]
+"Yes. The color of your hair and the yukata match[r]
+perfectly."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_c1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -958,32 +1002,35 @@ her unapproachable aura.[pcms]
 [fc]
 [vo_mar s="maru0017"]
 [ns]Margarita[nse]
-"Shouldn't one dress appropriately for a festival? Besides, half of my blood is[r]
-Japanese. Is there any problem with me wearing a yukata?"[pcms]
+"Shouldn't one dress appropriately for a festival? Besides,[r]
+half of my blood is Japanese. Is there any problem with me[r]
+wearing a yukata?"[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2034|
 [fc]
-Senpai said this firmly and then resumed her perfect shooting stance at the[r]
-target and began firing leisurely.[pcms]
+Senpai said this firmly and then resumed her perfect[r]
+shooting stance at the target and began firing leisurely.[pcms]
 
 *2035|
 [fc]
-Although it wasn't a rapid-fire gun by any means, she quickly reloaded and shot[r]
-down as many prizes as there were bullets left on the plate while we watched.[pcms]
+Although it wasn't a rapid-fire gun by any means, she[r]
+quickly reloaded and shot down as many prizes as there were[r]
+bullets left on the plate while we watched.[pcms]
 
 *2036|
 [fc]
-The fact that her targets were strange fancy characters was the only thing that[r]
-reminded us that this was indeed a Japanese summer festival... which was[r]
-somewhat of a relief.[pcms]
+The fact that her targets were strange fancy characters was[r]
+the only thing that reminded us that this was indeed a[r]
+Japanese summer festival... which was somewhat of a relief.[pcms]
 
 *2037|
 [fc]
-The impeccable quick-shooting that went beyond admiration left us simply[r]
-astounded. How could she aim so quickly? More than that, it was a mystery when[r]
-she even had time to reload.[pcms]
+The impeccable quick-shooting that went beyond admiration[r]
+left us simply astounded. How could she aim so quickly? More[r]
+than that, it was a mystery when she even had time to[r]
+reload.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_b2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1015,8 +1062,8 @@ she even had time to reload.[pcms]
 
 *2042|
 [fc]
-Unlike us, who were just dumbfounded by the splendid shooting, something in[r]
-Yuuho seemed to have ignited.[pcms]
+Unlike us, who were just dumbfounded by the splendid[r]
+shooting, something in Yuuho seemed to have ignited.[pcms]
 
 *2043|
 [fc]
@@ -1028,8 +1075,8 @@ Yuuho seemed to have ignited.[pcms]
 
 *2044|
 [fc]
-With that said, Yuuho slammed the money on the counter and began checking the[r]
-nearest gun.[pcms]
+With that said, Yuuho slammed the money on the counter and[r]
+began checking the nearest gun.[pcms]
 
 ;//BG：EV009　shooting・悠帆;//カット
 
@@ -1043,16 +1090,17 @@ nearest gun.[pcms]
 
 *2046|
 [fc]
-Once she settled on a gun, she pulled the plate filled with bullets closer and[r]
-took careful aim.[pcms]
+Once she settled on a gun, she pulled the plate filled with[r]
+bullets closer and took careful aim.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2047|
 [fc]
-However, her stancestepping on the shooting range and leaning forward to[r]
-shootwas indeed the correct style for a Japanese summer festival shooting game,[r]
-but it paled in comparison to the example set by senpai.[pcms]
+However, her stancestepping on the shooting range and[r]
+leaning forward to shootwas indeed the correct style for a[r]
+Japanese summer festival shooting game, but it paled in[r]
+comparison to the example set by senpai.[pcms]
 
 *2048|
 [fc]
@@ -1062,8 +1110,8 @@ but it paled in comparison to the example set by senpai.[pcms]
 
 *2049|
 [fc]
-The bullets hit far off from whatever Yuuho was aiming at, and one after[r]
-another, only the bullets fell.[pcms]
+The bullets hit far off from whatever Yuuho was aiming at,[r]
+and one after another, only the bullets fell.[pcms]
 
 *2050|
 [fc]
@@ -1074,7 +1122,8 @@ But--[pcms]
 *2051|
 [fc]
 [ns]Kousuke[nse]
-"Hey... wow. Even though I'm used to seeing Yuuho's bare legs in a swimsuit..."[pcms]
+"Hey... wow. Even though I'm used to seeing Yuuho's bare[r]
+legs in a swimsuit..."[pcms]
 
 *2052|
 [fc]
@@ -1085,17 +1134,18 @@ But--[pcms]
 
 *2053|
 [fc]
-Yuuho was definitely shooting through our hearts with her appearance.[pcms]
+Yuuho was definitely shooting through our hearts with her[r]
+appearance.[pcms]
 
 *2054|
 [fc]
-In fact, engrossed as she was, Yuuho didn't realize that her yukata had come[r]
-undone quite a bit.[pcms]
+In fact, engrossed as she was, Yuuho didn't realize that her[r]
+yukata had come undone quite a bit.[pcms]
 
 *2055|
 [fc]
-And through that gap, not only her bare legs but also her panties were clearly[r]
-visible.[pcms]
+And through that gap, not only her bare legs but also her[r]
+panties were clearly visible.[pcms]
 
 *2056|
 [fc]
@@ -1105,8 +1155,8 @@ visible.[pcms]
 
 *2057|
 [fc]
-With Yuuho's shout, the bullet was fired with a dry pop sound and, as expected,[r]
-missed its mark spectacularly.[pcms]
+With Yuuho's shout, the bullet was fired with a dry pop[r]
+sound and, as expected, missed its mark spectacularly.[pcms]
 
 *2058|
 [fc]
@@ -1117,31 +1167,34 @@ missed its mark spectacularly.[pcms]
 
 *2059|
 [fc]
-Addressed by the uncle, Yuuho stepped down with disappointment and placed the[r]
-gun back on the counter, but for us, it was more disappointing not to see[r]
-Yuuho's bare legs and panties anymore.[pcms]
+Addressed by the uncle, Yuuho stepped down with[r]
+disappointment and placed the gun back on the counter, but[r]
+for us, it was more disappointing not to see Yuuho's bare[r]
+legs and panties anymore.[pcms]
 
 *2060|
 [fc]
-...Not that I would show such thoughts outwardly; instead, I hurriedly checked[r]
-on senpai's condition.[pcms]
+...Not that I would show such thoughts outwardly; instead, I[r]
+hurriedly checked on senpai's condition.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_c1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2061|
 [fc]
-Without correcting Yuuho's heated stance or mocking her, nor ignoring her,[r]
-senpai just seemed to watch as if it were part of the scenery.[pcms]
+Without correcting Yuuho's heated stance or mocking her, nor[r]
+ignoring her, senpai just seemed to watch as if it were part[r]
+of the scenery.[pcms]
 
 *2062|
 [fc]
-In an environment where knowing how to protect oneself was necessary for[r]
-survival, our senpai, who was only a year older than us, made it seem like such[r]
-a world.[pcms]
+In an environment where knowing how to protect oneself was[r]
+necessary for survival, our senpai, who was only a year[r]
+older than us, made it seem like such a world.[pcms]
 
 *2063|
 [fc]
-I wonder how we appear to senpai, who grew up in such an environment?[pcms]
+I wonder how we appear to senpai, who grew up in such an[r]
+environment?[pcms]
 
 *2064|
 [fc]
@@ -1166,8 +1219,9 @@ Nothing could be discerned from her expressionless face.[pcms]
 
 *2068|
 [fc]
-The stubborn Yuuho didn't notice senpai's gaze and slammed down the shooting fee[r]
-on the counter again to request more bullets.[pcms]
+The stubborn Yuuho didn't notice senpai's gaze and slammed[r]
+down the shooting fee on the counter again to request more[r]
+bullets.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -1180,13 +1234,15 @@ on the counter again to request more bullets.[pcms]
 
 *2070|
 [fc]
-Just as I was irresistibly drawn to look at Yuuho again despite knowing better,[r]
-a woman's voice echoed around us as if to interrupt.[pcms]
+Just as I was irresistibly drawn to look at Yuuho again[r]
+despite knowing better, a woman's voice echoed around us as[r]
+if to interrupt.[pcms]
 
 *2071|
 [fc]
-Surprised, I turned around to see a woman with tanned skin dressed in what[r]
-looked like SP's black suit, slightly out of breath and standing there.[pcms]
+Surprised, I turned around to see a woman with tanned skin[r]
+dressed in what looked like SP's black suit, slightly out of[r]
+breath and standing there.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_c1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1202,7 +1258,8 @@ looked like SP's black suit, slightly out of breath and standing there.[pcms]
 [fc]
 [vo_mob s="sesuka0002"]
 [ns]Sesuka[nse]
-"Miss, how many times must I tell you not to walk around alone?"[pcms]
+"Miss, how many times must I tell you not to walk around[r]
+alone?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_c1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1238,9 +1295,10 @@ looked like SP's black suit, slightly out of breath and standing there.[pcms]
 
 *2078|
 [fc]
-As she gestured towards the prizes on the shooting range with her finger to stop[r]
-the approaching bodyguard woman, senpai quickly turned on her heel and[r]
-disappeared into the crowd.[pcms]
+As she gestured towards the prizes on the shooting range[r]
+with her finger to stop the approaching bodyguard woman,[r]
+senpai quickly turned on her heel and disappeared into the[r]
+crowd.[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
@@ -1254,16 +1312,16 @@ disappeared into the crowd.[pcms]
 
 *2080|
 [fc]
-Hurriedly gathering up the prizes, Sesuka called 'Sesuka' started chasing after[r]
-senpai in a fluster.[pcms]
+Hurriedly gathering up the prizes, Sesuka called 'Sesuka'[r]
+started chasing after senpai in a fluster.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2081|
 [fc]
 [ns]Kousuke[nse]
-"Hmm, senpai is mysterious as always. It's just normal talk; she's really[r]
-different from Japanese people."[pcms]
+"Hmm, senpai is mysterious as always. It's just normal talk;[r]
+she's really different from Japanese people."[pcms]
 
 *2082|
 [fc]
@@ -1278,9 +1336,10 @@ different from Japanese people."[pcms]
 
 *2084|
 [fc]
-While I was half-absentmindedly watching senpai and the bodyguard's retreating[r]
-figures, Yuuho's voice reached my ears; she seemed to have been engrossed in[r]
-shooting all this time.[pcms]
+While I was half-absentmindedly watching senpai and the[r]
+bodyguard's retreating figures, Yuuho's voice reached my[r]
+ears; she seemed to have been engrossed in shooting all this[r]
+time.[pcms]
 
 *2085|
 [fc]
@@ -1290,9 +1349,10 @@ shooting all this time.[pcms]
 
 *2086|
 [fc]
-Taking careful aim with full concentration and firing with a shout of[r]
-determination, Yuuho's last bullet from her second plate hit its mark...[r]
-knocking down a creepy smiling doll that resembled some character.[pcms]
+Taking careful aim with full concentration and firing with a[r]
+shout of determination, Yuuho's last bullet from her second[r]
+plate hit its mark... knocking down a creepy smiling doll[r]
+that resembled some character.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -1306,12 +1366,14 @@ knocking down a creepy smiling doll that resembled some character.[pcms]
 
 *2088|
 [fc]
-Yuuho turned around proudly, but her face fell flat as soon as she did.[pcms]
+Yuuho turned around proudly, but her face fell flat as soon[r]
+as she did.[pcms]
 
 *2089|
 [fc]
-It's no wonder. Yuuho had started shooting, seeing senpai as a rival, and when[r]
-she realized it, senpai was nowhere to be seen.[pcms]
+It's no wonder. Yuuho had started shooting, seeing senpai as[r]
+a rival, and when she realized it, senpai was nowhere to be[r]
+seen.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1348,9 +1410,9 @@ she realized it, senpai was nowhere to be seen.[pcms]
 
 *2094|
 [fc]
-Despite being disheartened by Kousuke's words, Yuuho's face turned bright red[r]
-and she hurriedly put the gun back on the stand and closed her legs after Ren[r]
-quietly informed her.[pcms]
+Despite being disheartened by Kousuke's words, Yuuho's face[r]
+turned bright red and she hurriedly put the gun back on the[r]
+stand and closed her legs after Ren quietly informed her.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m2"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
@@ -1365,8 +1427,8 @@ quietly informed her.[pcms]
 *2096|
 [fc]
 [ns]Kousuke[nse]
-"How could I tell you when you were so engrossed and didn't even notice senpai[r]
-had left?"[pcms]
+"How could I tell you when you were so engrossed and didn't[r]
+even notice senpai had left?"[pcms]
 
 *2097|
 [fc]
@@ -1388,13 +1450,14 @@ had left?"[pcms]
 
 *2099|
 [fc]
-Just as Yuuho was about to protest to us, her cell phone's ringtone sounded. It[r]
-ended quickly, so it seemed to be a message.[pcms]
+Just as Yuuho was about to protest to us, her cell phone's[r]
+ringtone sounded. It ended quickly, so it seemed to be a[r]
+message.[pcms]
 
 *2100|
 [fc]
-When she checked her phone, Yuuho's cheeks blushed a different shade than[r]
-before.[pcms]
+When she checked her phone, Yuuho's cheeks blushed a[r]
+different shade than before.[pcms]
 
 *2101|
 [fc]
@@ -1428,13 +1491,14 @@ After sending a quick reply, Yuuho looked back at us.[pcms]
 
 *2105|
 [fc]
-In response to Ren's question, Yuuho replied in a flustered manner and[r]
-immediately turned her back on us and started moving.[pcms]
+In response to Ren's question, Yuuho replied in a flustered[r]
+manner and immediately turned her back on us and started[r]
+moving.[pcms]
 
 *2106|
 [fc]
-The other party was unknown, but judging by Yuuho's expression, it was probably[r]
-Oshima-senpai.[pcms]
+The other party was unknown, but judging by Yuuho's[r]
+expression, it was probably Oshima-senpai.[pcms]
 
 *2107|
 [fc]
@@ -1442,8 +1506,9 @@ Which means... is she going to be confessed to?[pcms]
 
 *2108|
 [fc]
-A devil and an angel appeared in my heart, arguing "Are you really okay with her[r]
-being taken by another guy?" and "Support your childhood friend's love."[pcms]
+A devil and an angel appeared in my heart, arguing "Are you[r]
+really okay with her being taken by another guy?" and[r]
+"Support your childhood friend's love."[pcms]
 
 ;//---------------------------------------------------------------
 ;//◎選択肢
@@ -1503,12 +1568,14 @@ I can't just leave things as they are.[pcms]
 
 *2110|
 [fc]
-I made up my mind immediately and turned back to Ren and Kousuke.[pcms]
+I made up my mind immediately and turned back to Ren and[r]
+Kousuke.[pcms]
 
 *2111|
 [fc]
 [ns]Wataru[nse]
-"I'm going to the restroom for a bit, wait here with Kousuke."[pcms]
+"I'm going to the restroom for a bit, wait here with[r]
+Kousuke."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_b1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1523,14 +1590,14 @@ I made up my mind immediately and turned back to Ren and Kousuke.[pcms]
 *2113|
 [fc]
 [ns]Kousuke[nse]
-"If you're going to the restroom, it's faster to go around the back than to wait[r]
-for a portable one."[pcms]
+"If you're going to the restroom, it's faster to go around[r]
+the back than to wait for a portable one."[pcms]
 
 *2114|
 [fc]
 [ns]Wataru[nse]
-"Idiot. How can I pee standing up in the middle of the shrine grounds? Anyway,[r]
-take care of Ren for me."[pcms]
+"Idiot. How can I pee standing up in the middle of the[r]
+shrine grounds? Anyway, take care of Ren for me."[pcms]
 
 ;//♪：believe　フェードアウト
 [fadeoutbgm time=500]
@@ -1540,8 +1607,8 @@ take care of Ren for me."[pcms]
 
 *2115|
 [fc]
-I said this quickly and chased after Yuuho, almost losing sight of her in the[r]
-crowd.[pcms]
+I said this quickly and chased after Yuuho, almost losing[r]
+sight of her in the crowd.[pcms]
 
 *2116|
 [fc]
@@ -1549,8 +1616,8 @@ Yuuho walked without hesitation, her steps light.[pcms]
 
 *2117|
 [fc]
-Their destination was... beneath that large cedar tree that was the subject of[r]
-romantic rumors among the girls.[pcms]
+Their destination was... beneath that large cedar tree that[r]
+was the subject of romantic rumors among the girls.[pcms]
 
 ;//♪：insomnia　フェードイン
 [bgm storage="BGM06"]
@@ -1560,19 +1627,21 @@ romantic rumors among the girls.[pcms]
 
 *2118|
 [fc]
-And the person who eagerly raised their hand towards Yuuho was indeed Oshima-[r]
-senpai, as I thought.[pcms]
+And the person who eagerly raised their hand towards Yuuho[r]
+was indeed Oshima- senpai, as I thought.[pcms]
 
 *2119|
 [fc]
-I was curious about what kind of conversation they were having, but because we[r]
-were a bit away from the festival site and there were no people around, I[r]
-couldn't get too close.[pcms]
+I was curious about what kind of conversation they were[r]
+having, but because we were a bit away from the festival[r]
+site and there were no people around, I couldn't get too[r]
+close.[pcms]
 
 *2120|
 [fc]
-Still, I strained my eyes and ears desperately trying to listen in, but all I[r]
-could tell was that they were talking about something.[pcms]
+Still, I strained my eyes and ears desperately trying to[r]
+listen in, but all I could tell was that they were talking[r]
+about something.[pcms]
 
 *2121|
 [fc]
@@ -1584,7 +1653,8 @@ I wonder what it is. Is it really a confession?[pcms]
 
 *2123|
 [fc]
-It's under the sacred tree where there are rumors of romance.[pcms]
+It's under the sacred tree where there are rumors of[r]
+romance.[pcms]
 
 *2124|
 [fc]
@@ -1592,12 +1662,13 @@ A love confession... right?[pcms]
 
 *2125|
 [fc]
-Feelings of denial and confusion crossed my mind, and I no longer knew what I[r]
-wanted to do.[pcms]
+Feelings of denial and confusion crossed my mind, and I no[r]
+longer knew what I wanted to do.[pcms]
 
 *2126|
 [fc]
-All I could do was hold my breath and watch what happened between them.[pcms]
+All I could do was hold my breath and watch what happened[r]
+between them.[pcms]
 
 *2127|
 [fc]
@@ -1634,13 +1705,14 @@ And I stood there, unable to do anything about it.[pcms]
 
 *2134|
 [fc]
-No... that's wrong! The one who should be kissing Yuuho, the one who should have[r]
-been her first kiss, was supposed to be me.[pcms]
+No... that's wrong! The one who should be kissing Yuuho, the[r]
+one who should have been her first kiss, was supposed to be[r]
+me.[pcms]
 
 *2135|
 [fc]
-I couldn't bear it any longer and ran back to where Ren was as if fleeing from[r]
-the scene.[pcms]
+I couldn't bear it any longer and ran back to where Ren was[r]
+as if fleeing from the scene.[pcms]
 
 ;//BG:夏祭
 [bg storage="BG011"][trans_c cross time=500]
@@ -1656,21 +1728,22 @@ the scene.[pcms]
 
 *2137|
 [fc]
-Although I rushed over to Ren, who was sitting alone in front of the goldfish[r]
-scooping stall near the shooting gallery we had parted from, I felt my legs[r]
-shaking uncontrollably.[pcms]
+Although I rushed over to Ren, who was sitting alone in[r]
+front of the goldfish scooping stall near the shooting[r]
+gallery we had parted from, I felt my legs shaking[r]
+uncontrollably.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2138|
 [fc]
-Fortunately, Ren was so engrossed in goldfish scooping that she didn't notice my[r]
-state.[pcms]
+Fortunately, Ren was so engrossed in goldfish scooping that[r]
+she didn't notice my state.[pcms]
 
 *2139|
 [fc]
-Kousuke was nowhere to be found, even though he said he'd look after Ren, but[r]
-that was rather a relief for me.[pcms]
+Kousuke was nowhere to be found, even though he said he'd[r]
+look after Ren, but that was rather a relief for me.[pcms]
 
 *2140|
 [fc]
@@ -1678,8 +1751,8 @@ But...[pcms]
 
 *2141|
 [fc]
-The scene I had just witnessed kept replaying in my head, making me feel dizzy[r]
-enough to collapse.[pcms]
+The scene I had just witnessed kept replaying in my head,[r]
+making me feel dizzy enough to collapse.[pcms]
 
 [eval exp="f.l_aibiki = 1"]
 
@@ -1700,19 +1773,21 @@ Maybe it would have been better not to go see it.[pcms]
 
 *2143|
 [fc]
-After all, there's no guarantee that Yuuho's meeting was with Oshima-senpai; it[r]
-could have been a female friend.[pcms]
+After all, there's no guarantee that Yuuho's meeting was[r]
+with Oshima-senpai; it could have been a female friend.[pcms]
 
 *2144|
 [fc]
-I convinced myself of that and found the goldfish scooping stall nearby that Ren[r]
-had been eager to try, pointing it out to her.[pcms]
+I convinced myself of that and found the goldfish scooping[r]
+stall nearby that Ren had been eager to try, pointing it out[r]
+to her.[pcms]
 
 *2145|
 [fc]
 [ns]Wataru[nse]
-"Then, since Yuuho might have trouble finding us if we're too far away, let's[r]
-wait while doing some goldfish scooping over there."[pcms]
+"Then, since Yuuho might have trouble finding us if we're[r]
+too far away, let's wait while doing some goldfish scooping[r]
+over there."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_b8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1727,8 +1802,8 @@ wait while doing some goldfish scooping over there."[pcms]
 *2147|
 [fc]
 [ns]Kousuke[nse]
-"Then I'll go buy some yakisoba. Oh, Ren-chan, would you prefer an apricot[r]
-candy?"[pcms]
+"Then I'll go buy some yakisoba. Oh, Ren-chan, would you[r]
+prefer an apricot candy?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_b8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1754,13 +1829,14 @@ candy?"[pcms]
 
 *2151|
 [fc]
-Kousuke, knowing our preferences from our childhood friendship, casually replied[r]
-and then disappeared into the crowd toward the stall he was aiming for.[pcms]
+Kousuke, knowing our preferences from our childhood[r]
+friendship, casually replied and then disappeared into the[r]
+crowd toward the stall he was aiming for.[pcms]
 
 *2152|
 [fc]
-Ren took out her wallet and received a scooping net, immediately becoming[r]
-absorbed in goldfish scooping.[pcms]
+Ren took out her wallet and received a scooping net,[r]
+immediately becoming absorbed in goldfish scooping.[pcms]
 
 *2153|
 [fc]
@@ -1768,8 +1844,8 @@ But as usual, she couldn't scoop them up successfully.[pcms]
 
 *2154|
 [fc]
-The sight seemed to symbolize me, unable to catch the freely swimming Yuuho, and[r]
-my face turned pale.[pcms]
+The sight seemed to symbolize me, unable to catch the freely[r]
+swimming Yuuho, and my face turned pale.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_b4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1777,7 +1853,8 @@ my face turned pale.[pcms]
 [fc]
 [vo_ren s="ren0100"]
 [ns]Ren[nse]
-"Yuuho-chan is late... The ranchu I'm aiming for is right there."[pcms]
+"Yuuho-chan is late... The ranchu I'm aiming for is right[r]
+there."[pcms]
 
 *2156|
 [fc]
@@ -1788,7 +1865,8 @@ my face turned pale.[pcms]
 
 *2157|
 [fc]
-At Ren's words, I realized I had lost track of how much time had passed.[pcms]
+At Ren's words, I realized I had lost track of how much time[r]
+had passed.[pcms]
 
 *2158|
 [fc]
@@ -1803,7 +1881,8 @@ But what if Oshima-senpai was the one who called out Yuuho?[pcms]
 
 *2160|
 [fc]
-And what if the content of their meeting was indeed a confession?[pcms]
+And what if the content of their meeting was indeed a[r]
+confession?[pcms]
 
 *2161|
 [fc]
@@ -1814,20 +1893,23 @@ What if Yuuho accepted that confession?[pcms]
 
 *2162|
 [fc]
-No, she would definitely accept it. The other party is Oshima-senpai after all.[pcms]
+No, she would definitely accept it. The other party is[r]
+Oshima-senpai after all.[pcms]
 
 *2163|
 [fc]
-Should I be supportive since he's more suited for her than I am?[pcms]
+Should I be supportive since he's more suited for her than I[r]
+am?[pcms]
 
 *2164|
 [fc]
-But it was supposed to be me who would date Yuuho; how did it end up like this?[pcms]
+But it was supposed to be me who would date Yuuho; how did[r]
+it end up like this?[pcms]
 
 *2165|
 [fc]
-Negative thoughts swirled around in my head, and I felt like I might collapse at[r]
-any moment.[pcms]
+Negative thoughts swirled around in my head, and I felt like[r]
+I might collapse at any moment.[pcms]
 
 [eval exp="f.l_aibiki = 0"]
 
@@ -1843,12 +1925,14 @@ any moment.[pcms]
 
 *2166|
 [fc]
-Just as my consciousness began to fade away, I saw Kousuke returning.[pcms]
+Just as my consciousness began to fade away, I saw Kousuke[r]
+returning.[pcms]
 
 *2167|
 [fc]
-In his hands were firmly held yakisoba and an orange candy coated with syrup,[r]
-and he even managed to carry a shaved ice skillfully.[pcms]
+In his hands were firmly held yakisoba and an orange candy[r]
+coated with syrup, and he even managed to carry a shaved ice[r]
+skillfully.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1863,8 +1947,8 @@ Kousuke came back with an excuse-like comment.[pcms]
 
 *2170|
 [fc]
-But I was at my limit. I wanted to throw everything away and escape from this[r]
-place as soon as possible.[pcms]
+But I was at my limit. I wanted to throw everything away and[r]
+escape from this place as soon as possible.[pcms]
 
 *2171|
 [fc]
@@ -1890,8 +1974,9 @@ place as soon as possible.[pcms]
 
 *2174|
 [fc]
-I left them with only those words and turned on my heel to run away; Ren and[r]
-Kousuke's voices chased after my retreating back.[pcms]
+I left them with only those words and turned on my heel to[r]
+run away; Ren and Kousuke's voices chased after my[r]
+retreating back.[pcms]
 
 *2175|
 [fc]
@@ -1903,7 +1988,8 @@ My vision was already blurring and becoming indistinct.[pcms]
 
 *2177|
 [fc]
-Hot emotions turned into tears that overflowed and spilled from my eyes.[pcms]
+Hot emotions turned into tears that overflowed and spilled[r]
+from my eyes.[pcms]
 
 *2178|
 [fc]
@@ -1911,8 +1997,9 @@ I didn't want to meet anyone I knew anymore.[pcms]
 
 *2179|
 [fc]
-With that single-minded determination, I dashed off like a startled rabbit[r]
-towards the safety of my own bed at home where I could shut myself away alone.[pcms]
+With that single-minded determination, I dashed off like a[r]
+startled rabbit towards the safety of my own bed at home[r]
+where I could shut myself away alone.[pcms]
 
 ;//〆：黒画面
 ;[fadeoutbgm time=500]

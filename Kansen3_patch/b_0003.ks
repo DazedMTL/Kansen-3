@@ -47,7 +47,8 @@
 
 *3089|
 [fc]
-What am I even thinking!? My sister is in such a state right in front of me!![pcms]
+What am I even thinking!? My sister is in such a state right[r]
+in front of me!![pcms]
 
 *3090|
 [fc]
@@ -67,8 +68,8 @@ What am I even thinking!? My sister is in such a state right in front of me!![pc
 
 *3092|
 [fc]
-I pushed Ren away and jumped back from the spot. In doing so, Ren fell to the[r]
-floor.[pcms]
+I pushed Ren away and jumped back from the spot. In doing[r]
+so, Ren fell to the floor.[pcms]
 
 *3093|
 [fc]
@@ -77,8 +78,8 @@ floor.[pcms]
 
 *3094|
 [fc]
-Ren fell hard because I pushed her with all my might, but she slowly got up and[r]
-smiled at me again.[pcms]
+Ren fell hard because I pushed her with all my might, but[r]
+she slowly got up and smiled at me again.[pcms]
 
 *3095|
 [fc]
@@ -87,12 +88,13 @@ smiled at me again.[pcms]
 
 *3096|
 [fc]
-Perhaps her color contacts had come off when she fell, because Ren's eye color[r]
-was different than usual.[pcms]
+Perhaps her color contacts had come off when she fell,[r]
+because Ren's eye color was different than usual.[pcms]
 
 *3097|
 [fc]
-It was the same red color as that eerie girl I saw with the LASER two days ago.[pcms]
+It was the same red color as that eerie girl I saw with the[r]
+LASER two days ago.[pcms]
 
 *3098|
 [fc]
@@ -110,8 +112,9 @@ It was the same red color as that eerie girl I saw with the LASER two days ago.[
 
 *3100|
 [fc]
-Remembering Ren's behavior and the girl I saw two days ago, I felt a sense of[r]
-eeriness and involuntarily ran out of the house.[pcms]
+Remembering Ren's behavior and the girl I saw two days ago,[r]
+I felt a sense of eeriness and involuntarily ran out of the[r]
+house.[pcms]
 
 ;//〆ＢＧ：青空
 [bg storage="BGS008a"][trans_c cross time=500]
@@ -130,8 +133,8 @@ eeriness and involuntarily ran out of the house.[pcms]
 
 *3102|
 [fc]
-As I ran outside, I could hear police sirens, screams, and shouts from all over[r]
-town.[pcms]
+As I ran outside, I could hear police sirens, screams, and[r]
+shouts from all over town.[pcms]
 
 *3103|
 [fc]
@@ -143,24 +146,26 @@ Could it be that Ren got caught up in it too?[pcms]
 
 *3105|
 [fc]
-In a town that had become like a scene from a panic movie, I ran without any[r]
-destination in mind.[pcms]
+In a town that had become like a scene from a panic movie, I[r]
+ran without any destination in mind.[pcms]
 
 *3106|
 [fc]
-While running, I felt something strange with my body. Perhaps because of what[r]
-happened with Ren earlier, my dick, which should have been satisfied, was[r]
-getting even hotter, and my body was flushed with heat.[pcms]
+While running, I felt something strange with my body.[r]
+Perhaps because of what happened with Ren earlier, my dick,[r]
+which should have been satisfied, was getting even hotter,[r]
+and my body was flushed with heat.[pcms]
 
 *3107|
 [fc]
-I also felt a heat different from the summer warmth, like after a bath or when[r]
-having a fever, and my vision started to spin.[pcms]
+I also felt a heat different from the summer warmth, like[r]
+after a bath or when having a fever, and my vision started[r]
+to spin.[pcms]
 
 *3108|
 [fc]
-This is strange... What's happening to my body...? It's not like I have a[r]
-cold...[pcms]
+This is strange... What's happening to my body...? It's not[r]
+like I have a cold...[pcms]
 
 *3109|
 [fc]
@@ -172,13 +177,13 @@ cold...[pcms]
 
 *3110|
 [fc]
-As the dizziness and heat became stronger and running became difficult, a girl's[r]
-scream pierced my ears.[pcms]
+As the dizziness and heat became stronger and running became[r]
+difficult, a girl's scream pierced my ears.[pcms]
 
 *3111|
 [fc]
-Staggering towards where the scream came from, I saw an abnormal act taking[r]
-place.[pcms]
+Staggering towards where the scream came from, I saw an[r]
+abnormal act taking place.[pcms]
 
 ;//ここから下、ブロック20040を流用。一部地の文変更。
 ;//使い回しが効くのは、ボイスとイベント差分の変更順。
@@ -190,7 +195,8 @@ place.[pcms]
 
 *3112|
 [fc]
-What jumped into my sight was a girl being raped by several men.[pcms]
+What jumped into my sight was a girl being raped by several[r]
+men.[pcms]
 
 *3113|
 [fc]
@@ -206,8 +212,8 @@ What jumped into my sight was a girl being raped by several men.[pcms]
 *3115|
 [fc]
 [ns]Male B[nse]
-"Don't forget about this dick too. Hey, if you've got time to talk, you've got[r]
-time to suck."[pcms]
+"Don't forget about this dick too. Hey, if you've got time[r]
+to talk, you've got time to suck."[pcms]
 
 *3116|
 [fc]
@@ -218,13 +224,15 @@ time to suck."[pcms]
 *3117|
 [fc]
 [ns]Elder[nse]
-"Kuuu, young pussy is irresistible. It has a different taste. slurrrrrp"[pcms]
+"Kuuu, young pussy is irresistible. It has a different[r]
+taste. slurrrrrp"[pcms]
 
 *3118|
 [fc]
 [vo_mob s="onnanoko0004"]
 [ns]Girl[nse]
-"Higguuuuu. Ngh, no, ah. nghju... it's wrong... nghk, nghfuuuu"[pcms]
+"Higguuuuu. Ngh, no, ah. nghju... it's wrong... nghk,[r]
+nghfuuuu"[pcms]
 
 *3119|
 [fc]
@@ -248,14 +256,15 @@ I don't know...[pcms]
 
 *3124|
 [fc]
-I don't recognize those men, but if I'm not mistaken, the old man and the girl[r]
-are definitely...[pcms]
+I don't recognize those men, but if I'm not mistaken, the[r]
+old man and the girl are definitely...[pcms]
 ;//20040のテキストを修正。
 
 *3125|
 [fc]
 [ns]Elderly person[nse]
-"I can't hold back anymore. Here, Miyuki, let grandpa feed you his dick."[pcms]
+"I can't hold back anymore. Here, Miyuki, let grandpa feed[r]
+you his dick."[pcms]
 
 *3126|
 [fc]
@@ -281,14 +290,14 @@ But--[pcms]
 
 *3130|
 [fc]
-In vain, the girl's plea was ignored as the old man's erect member was thrust[r]
-deeply into her pussy in one go.[pcms]
+In vain, the girl's plea was ignored as the old man's erect[r]
+member was thrust deeply into her pussy in one go.[pcms]
 
 *3131|
 [fc]
 [ns]Elderly person[nse]
-"Fuguuuu. Miyuki's pussy feels good, it feels so good. I'm still in the game[r]
-jaaaaah!!"[pcms]
+"Fuguuuu. Miyuki's pussy feels good, it feels so good. I'm[r]
+still in the game jaaaaah!!"[pcms]
 
 *3132|
 [fc]
@@ -299,7 +308,8 @@ jaaaaah!!"[pcms]
 *3133|
 [fc]
 [ns]Man A[nse]
-"She's enjoying your hip movements, old man. Don't leave us out."[pcms]
+"She's enjoying your hip movements, old man. Don't leave us[r]
+out."[pcms]
 
 [evcg storage="HEV014c"][trans_c cross time=300]
 
@@ -312,29 +322,33 @@ jaaaaah!!"[pcms]
 *3135|
 [fc]
 [ns]Male B[nse]
-"You're happy, aren't you? Getting your pussy fucked by grandpa while sucking on[r]
-two dicks. Hey, how does it feel to taste three dicks at once?"[pcms]
+"You're happy, aren't you? Getting your pussy fucked by[r]
+grandpa while sucking on two dicks. Hey, how does it feel to[r]
+taste three dicks at once?"[pcms]
 
 *3136|
 [fc]
 [vo_mob s="onnanoko0009"]
 [ns]Girl[nse]
-"I don't... like it... nghgu. No more. Don't move. Don't move... nghjuuu"[pcms]
+"I don't... like it... nghgu. No more. Don't move. Don't[r]
+move... nghjuuu"[pcms]
 
 *3137|
 [fc]
 [ns]Elderly person[nse]
-"Does it feel good? It feels good doesn't it? Grandpa's dick won't lose to any[r]
-young man."[pcms]
+"Does it feel good? It feels good doesn't it? Grandpa's dick[r]
+won't lose to any young man."[pcms]
 
 *3138|
 [fc]
-My eyes and neck seemed to be fixed in place, unable to look away.[pcms]
+My eyes and neck seemed to be fixed in place, unable to look[r]
+away.[pcms]
 
 *3139|
 [fc]
-I was torn between the desire to join in and the urge to flee from this place as[r]
-soon as possible, leaving me unable to move my feet.[pcms]
+I was torn between the desire to join in and the urge to[r]
+flee from this place as soon as possible, leaving me unable[r]
+to move my feet.[pcms]
 
 *3140|
 [fc]
@@ -345,7 +359,8 @@ soon as possible, leaving me unable to move my feet.[pcms]
 *3141|
 [fc]
 [ns]Elderly person[nse]
-"I'm going to cum. Here, take a good load of grandpa's semen."[pcms]
+"I'm going to cum. Here, take a good load of grandpa's[r]
+semen."[pcms]
 
 *3142|
 [fc]
@@ -356,12 +371,14 @@ soon as possible, leaving me unable to move my feet.[pcms]
 *3143|
 [fc]
 [ns]Man A[nse]
-"You must be happy, getting covered in your favorite semen, right?"[pcms]
+"You must be happy, getting covered in your favorite semen,[r]
+right?"[pcms]
 
 *3144|
 [fc]
 [ns]Man B[nse]
-"Gyahahaha! The old man's fuck has some spirit in it. We can't lose either!"[pcms]
+"Gyahahaha! The old man's fuck has some spirit in it. We[r]
+can't lose either!"[pcms]
 
 *3145|
 [fc]
@@ -373,8 +390,8 @@ soon as possible, leaving me unable to move my feet.[pcms]
 
 *3146|
 [fc]
-With a force that seemed audible even to me, the girl's pussy overflowed with[r]
-the old man's white semen.[pcms]
+With a force that seemed audible even to me, the girl's[r]
+pussy overflowed with the old man's white semen.[pcms]
 
 *3147|
 [fc]
@@ -384,7 +401,8 @@ the old man's white semen.[pcms]
 *3148|
 [fc]
 [ns]Man A[nse]
-"The old man's dead. Was it a pussy so good that it sent him to heaven?"[pcms]
+"The old man's dead. Was it a pussy so good that it sent him[r]
+to heaven?"[pcms]
 
 *3149|
 [fc]
@@ -419,14 +437,14 @@ the old man's white semen.[pcms]
 
 *3153|
 [fc]
-The girl repeatedly vomited as she received the men's semen on her face and in[r]
-her mouth.[pcms]
+The girl repeatedly vomited as she received the men's semen[r]
+on her face and in her mouth.[pcms]
 
 *3154|
 [fc]
-But without any hesitation or apology, the men kicked aside the old man who had[r]
-just ejaculated and had become motionless, and inserted themselves into the[r]
-girl's pussy.[pcms]
+But without any hesitation or apology, the men kicked aside[r]
+the old man who had just ejaculated and had become[r]
+motionless, and inserted themselves into the girl's pussy.[pcms]
 
 [evcg storage="HEV014i"][trans_c cross time=300]
 
@@ -434,7 +452,8 @@ girl's pussy.[pcms]
 [fc]
 [vo_mob s="onnanoko0014"]
 [ns]Girl[nse]
-"Hifuuuu, it's rough... rough. It's grinding inside my pussy."[pcms]
+"Hifuuuu, it's rough... rough. It's grinding inside my[r]
+pussy."[pcms]
 
 *3156|
 [fc]
@@ -445,7 +464,8 @@ girl's pussy.[pcms]
 [fc]
 [vo_mob s="onnanoko0015"]
 [ns]Girl[nse]
-"Y-yes, it's good. Nghufuuu, your cocks are stirring me up inside."[pcms]
+"Y-yes, it's good. Nghufuuu, your cocks are stirring me up[r]
+inside."[pcms]
 
 *3158|
 [fc]
@@ -453,7 +473,8 @@ Was it the shock of the old man's death?[pcms]
 
 *3159|
 [fc]
-The girl's attitude changed drastically, and she began to accept the men.[pcms]
+The girl's attitude changed drastically, and she began to[r]
+accept the men.[pcms]
 
 *3160|
 [fc]
@@ -473,20 +494,23 @@ And then... someone casually appeared from the alley.[pcms]
 [fc]
 [vo_mob s="onnanoko0016"]
 [ns]Girl[nse]
-"Give it to me, more, thrust in more. Ahahahahaha! Cocks, so many cocks!"[pcms]
+"Give it to me, more, thrust in more. Ahahahahaha! Cocks, so[r]
+many cocks!"[pcms]
 
 *3164|
 [fc]
-Without any hesitation, they approached her, and instead of stopping the[r]
-atrocity, they swarmed the girl and pushed aside the man who was inserting[r]
-himself to get their own turn.[pcms]
+Without any hesitation, they approached her, and instead of[r]
+stopping the atrocity, they swarmed the girl and pushed[r]
+aside the man who was inserting himself to get their own[r]
+turn.[pcms]
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
 *3165|
 [fc]
-I couldn't believe what I was seeing, and although I couldn't run away, I just[r]
-kept watching the girl being violated.[pcms]
+I couldn't believe what I was seeing, and although I[r]
+couldn't run away, I just kept watching the girl being[r]
+violated.[pcms]
 
 *3166|
 [fc]
@@ -498,12 +522,13 @@ I don't know. I don't understand anything.[pcms]
 
 *3168|
 [fc]
-The confusion in my head was changing something. What was happening before my[r]
-eyes shouldn't be happening.[pcms]
+The confusion in my head was changing something. What was[r]
+happening before my eyes shouldn't be happening.[pcms]
 
 *3169|
 [fc]
-But I even felt envious of the situation unfolding before me.[pcms]
+But I even felt envious of the situation unfolding before[r]
+me.[pcms]
 
 *3170|
 [fc]
@@ -515,7 +540,8 @@ If I stay here, I might go crazy too!![pcms]
 
 *3172|
 [fc]
-I want to help the girl. But if I go near there, I don't know what I might do.[pcms]
+I want to help the girl. But if I go near there, I don't[r]
+know what I might do.[pcms]
 
 *3173|
 [fc]
@@ -531,9 +557,9 @@ Driven by a vague anxiety, I fled from the scene.[pcms]
 
 *3174|
 [fc]
-I could clearly feel my head spinning, but my legs didn't stop moving, and[r]
-before I knew it, I had reached near Inori-san's shop amidst screams and siren[r]
-sounds.[pcms]
+I could clearly feel my head spinning, but my legs didn't[r]
+stop moving, and before I knew it, I had reached near Inori-[r]
+san's shop amidst screams and siren sounds.[pcms]
 
 *3175|
 [fc]
@@ -542,13 +568,13 @@ sounds.[pcms]
 
 *3176|
 [fc]
-Inori-san. When I try to think about her, her voluptuous body inevitably comes[r]
-to mind.[pcms]
+Inori-san. When I try to think about her, her voluptuous[r]
+body inevitably comes to mind.[pcms]
 
 *3177|
 [fc]
-I'm worried about her safety, yet I'm thinking such things. Has my mind been[r]
-affected because Ren was treated like that?[pcms]
+I'm worried about her safety, yet I'm thinking such things.[r]
+Has my mind been affected because Ren was treated like that?[pcms]
 
 *3178|
 [fc]
@@ -557,8 +583,8 @@ affected because Ren was treated like that?[pcms]
 
 *3179|
 [fc]
-The door to Inori-san's shop was clearly broken. Was it a burglary or is there[r]
-another reason?[pcms]
+The door to Inori-san's shop was clearly broken. Was it a[r]
+burglary or is there another reason?[pcms]
 
 *3180|
 [fc]
@@ -570,7 +596,8 @@ Worried about Inori-san, I peeked inside the shop.[pcms]
 
 *3181|
 [fc]
-Then, there was the third abnormal scene of the day unfolding before me.[pcms]
+Then, there was the third abnormal scene of the day[r]
+unfolding before me.[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -590,13 +617,14 @@ Then, there was the third abnormal scene of the day unfolding before me.[pcms]
 
 *3183|
 [fc]
-The inside of Otowa was a mess as if after a robbery, and in the middle of the[r]
-table lay Inori-san, sprawled out listlessly.[pcms]
+The inside of Otowa was a mess as if after a robbery, and in[r]
+the middle of the table lay Inori-san, sprawled out[r]
+listlessly.[pcms]
 
 *3184|
 [fc]
-It seemed like the act was over; around Inori-san stood several men with their[r]
-lower halves exposed.[pcms]
+It seemed like the act was over; around Inori-san stood[r]
+several men with their lower halves exposed.[pcms]
 
 *3185|
 [fc]
@@ -610,8 +638,8 @@ I was so shocked by the sight that I became speechless.[pcms]
 *3187|
 [fc]
 [ns]Man A[nse]
-"As expected, when she looks good on the outside, her pussy feels amazing too,[r]
-eh!"[pcms]
+"As expected, when she looks good on the outside, her pussy[r]
+feels amazing too, eh!"[pcms]
 
 *3188|
 [fc]
@@ -621,8 +649,8 @@ eh!"[pcms]
 *3189|
 [fc]
 [ns]Male C[nse]
-"Oh, what's this? Wataru, you want to screw Inori too? You don't even need[r]
-foreplay now! Hyahaha!!"[pcms]
+"Oh, what's this? Wataru, you want to screw Inori too? You[r]
+don't even need foreplay now! Hyahaha!!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -651,12 +679,13 @@ foreplay now! Hyahaha!!"[pcms]
 
 *3193|
 [fc]
-Why has it come to this? Why has the town turned out like this? But why!?[pcms]
+Why has it come to this? Why has the town turned out like[r]
+this? But why!?[pcms]
 
 *3194|
 [fc]
-I desperately tried to make sense of the situation with my head starting to feel[r]
-hazy.[pcms]
+I desperately tried to make sense of the situation with my[r]
+head starting to feel hazy.[pcms]
 
 *3195|
 [fc]
@@ -664,25 +693,28 @@ But no matter how much I think, I can't understand anything.[pcms]
 
 *3196|
 [fc]
-Ren's condition. The state of the townspeople. And the situation inside Otowa.[pcms]
+Ren's condition. The state of the townspeople. And the[r]
+situation inside Otowa.[pcms]
 
 *3197|
 [fc]
-Everything seems like it's straight out of a game or a movie.[pcms]
+Everything seems like it's straight out of a game or a[r]
+movie.[pcms]
 
 *3198|
 [fc]
-In front of me was Inori-san, undoubtedly after being raped. And the familiar[r]
-townspeople were surrounding her.[pcms]
+In front of me was Inori-san, undoubtedly after being raped.[r]
+And the familiar townspeople were surrounding her.[pcms]
 
 *3199|
 [fc]
-Because I overslept, have I been sent to a completely different world?[pcms]
+Because I overslept, have I been sent to a completely[r]
+different world?[pcms]
 
 *3200|
 [fc]
-Unless I think that way, I can't comprehend the situation at all. But such SF-[r]
-like things can't possibly happen.[pcms]
+Unless I think that way, I can't comprehend the situation at[r]
+all. But such SF- like things can't possibly happen.[pcms]
 
 *3201|
 [fc]
@@ -691,8 +723,8 @@ So, this situation is all reality...[pcms]
 *3202|
 [fc]
 [ns]Man A[nse]
-"What's up, Wataru, if you're going to screw her, just do it quickly. I'm[r]
-waiting here... hehe."[pcms]
+"What's up, Wataru, if you're going to screw her, just do it[r]
+quickly. I'm waiting here... hehe."[pcms]
 
 *3203|
 [fc]
@@ -719,13 +751,14 @@ waiting here... hehe."[pcms]
 
 *3207|
 [fc]
-Amidst this bizarre situation and being told strange things, my confusion only[r]
-accelerated.[pcms]
+Amidst this bizarre situation and being told strange things,[r]
+my confusion only accelerated.[pcms]
 
 *3208|
 [fc]
-Lying there, exposing her genitals, looking at Inori-san made blood rush even[r]
-more to my thing. Despite the situation.[pcms]
+Lying there, exposing her genitals, looking at Inori-san[r]
+made blood rush even more to my thing. Despite the[r]
+situation.[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -746,18 +779,20 @@ more to my thing. Despite the situation.[pcms]
 [fc]
 [vo_ior s="iori_BB0006"]
 [ns]Inori[nse]
-"Just... Tadahiko... I can't anymore... It's impossible now..."[pcms]
+"Just... Tadahiko... I can't anymore... It's impossible[r]
+now..."[pcms]
 
 *3212|
 [fc]
 [ns]Man A[nse]
-"Again with Tadahiko... Weren't we enough for you? Damn, I'm jealous!"[pcms]
+"Again with Tadahiko... Weren't we enough for you? Damn, I'm[r]
+jealous!"[pcms]
 
 *3213|
 [fc]
 [ns]Man B[nse]
-"She kept saying Tadahiko-san, Tadahiko-san even while being screwed. Make my[r]
-wife drink nail dirt tea or something."[pcms]
+"She kept saying Tadahiko-san, Tadahiko-san even while being[r]
+screwed. Make my wife drink nail dirt tea or something."[pcms]
 
 *3214|
 [fc]
@@ -766,12 +801,13 @@ wife drink nail dirt tea or something."[pcms]
 
 *3215|
 [fc]
-Even in my confused state, I could tell how absurd the men's words were.[pcms]
+Even in my confused state, I could tell how absurd the men's[r]
+words were.[pcms]
 
 *3216|
 [fc]
-Filled with anger at their vulgar words, I instinctively prepared to throw a[r]
-punch.[pcms]
+Filled with anger at their vulgar words, I instinctively[r]
+prepared to throw a punch.[pcms]
 
 *3217|
 [fc]
@@ -783,8 +819,8 @@ But Inori-san stopped me.[pcms]
 [fc]
 [vo_ior s="iori_BB0007"]
 [ns]Inori[nse]
-"Wataru... calm down... You can't win... Just listen to me... it'll be over[r]
-soon..."[pcms]
+"Wataru... calm down... You can't win... Just listen to[r]
+me... it'll be over soon..."[pcms]
 
 *3219|
 [fc]
@@ -797,8 +833,8 @@ soon..."[pcms]
 [fc]
 [vo_ior s="iori_BB0008"]
 [ns]Inori[nse]
-"Gusu... I can't meet Tadahiko-san anymore... So there's something I want you to[r]
-tell him..."[pcms]
+"Gusu... I can't meet Tadahiko-san anymore... So there's[r]
+something I want you to tell him..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -806,8 +842,8 @@ tell him..."[pcms]
 [fc]
 [vo_ior s="iori_BB0009"]
 [ns]Inori[nse]
-"...I was truly happy to have met Tadahiko-san... Without him, my days would[r]
-surely have been dull."[pcms]
+"...I was truly happy to have met Tadahiko-san... Without[r]
+him, my days would surely have been dull."[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -815,7 +851,8 @@ surely have been dull."[pcms]
 [fc]
 [vo_ior s="iori_BB0010"]
 [ns]Inori[nse]
-"Thank you for bringing me to Tokyo... I wish I could say it directly..."[pcms]
+"Thank you for bringing me to Tokyo... I wish I could say it[r]
+directly..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -831,8 +868,8 @@ surely have been dull."[pcms]
 [fc]
 [vo_ior s="iori_BB0012"]
 [ns]Inori[nse]
-"Also... there's something wrong with my body... Even though this is[r]
-happening... I don't hate it now..."[pcms]
+"Also... there's something wrong with my body... Even though[r]
+this is happening... I don't hate it now..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -840,8 +877,8 @@ happening... I don't hate it now..."[pcms]
 [fc]
 [vo_ior s="iori_BB0013"]
 [ns]Inori[nse]
-"Rather, I'm almost glad... I've heard of this before... It must be UNKNOWN-[r]
-LV4..."[pcms]
+"Rather, I'm almost glad... I've heard of this before... It[r]
+must be UNKNOWN- LV4..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -849,8 +886,8 @@ LV4..."[pcms]
 [fc]
 [vo_ior s="iori_BB0014"]
 [ns]Inori[nse]
-"I'm going to become just like these old men here soon... Just a little[r]
-longer..."[pcms]
+"I'm going to become just like these old men here soon...[r]
+Just a little longer..."[pcms]
 
 *3227|
 [fc]
@@ -863,14 +900,14 @@ longer..."[pcms]
 [fc]
 [vo_ior s="iori_BB0015"]
 [ns]Inori[nse]
-"I don't know for sure... But it must be so... Viruses evolve, right? Then[r]
-UNKNOWN-LV4 would be the same..."[pcms]
+"I don't know for sure... But it must be so... Viruses[r]
+evolve, right? Then UNKNOWN-LV4 would be the same..."[pcms]
 
 *3229|
 [fc]
 [ns]Wataru[nse]
-"Inori-san... hang in there... laugh with Hiko-chin again... teach us various[r]
-things again..."[pcms]
+"Inori-san... hang in there... laugh with Hiko-chin again...[r]
+teach us various things again..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -878,20 +915,20 @@ things again..."[pcms]
 [fc]
 [vo_ior s="iori_BB0016"]
 [ns]Inori[nse]
-"...I'd love to do that but it's impossible now. Wataru, if you're a man... you[r]
-have to keep your promises to a girl..."[pcms]
+"...I'd love to do that but it's impossible now. Wataru, if[r]
+you're a man... you have to keep your promises to a girl..."[pcms]
 
 *3231|
 [fc]
 [ns]Male C[nse]
-"Aww! That's tear-jerking! Wataru! Become a man! Hyahaha!! So come on, why don't[r]
-you stick it into Inori already?"[pcms]
+"Aww! That's tear-jerking! Wataru! Become a man! Hyahaha!![r]
+So come on, why don't you stick it into Inori already?"[pcms]
 
 *3232|
 [fc]
 [ns]Male B[nse]
-"We're about ready for a refill here... Hurry up and embrace her! After all,[r]
-she's the town's number one woman!!"[pcms]
+"We're about ready for a refill here... Hurry up and embrace[r]
+her! After all, she's the town's number one woman!!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -899,8 +936,8 @@ she's the town's number one woman!!"[pcms]
 [fc]
 [vo_ior s="iori_BB0017"]
 [ns]Inori[nse]
-"I might become just like these people soon too... It's really not right to do[r]
-this but... goodbye, Wataru"[pcms]
+"I might become just like these people soon too... It's[r]
+really not right to do this but... goodbye, Wataru"[pcms]
 
 *3234|
 [fc]
@@ -913,18 +950,19 @@ this but... goodbye, Wataru"[pcms]
 [fc]
 [vo_ior s="iori_BB0018"]
 [ns]Inori[nse]
-"Hurry and run away... You shouldn't see this place... Promise me, you'll tell[r]
-Tadahiko-san... Now run away quickly. Wataru..."[pcms]
+"Hurry and run away... You shouldn't see this place...[r]
+Promise me, you'll tell Tadahiko-san... Now run away[r]
+quickly. Wataru..."[pcms]
 
 *3236|
 [fc]
-Until now, Inori-san had been talking without looking at me. She slowly turned[r]
-back to me and said that with a smile.[pcms]
+Until now, Inori-san had been talking without looking at me.[r]
+She slowly turned back to me and said that with a smile.[pcms]
 
 *3237|
 [fc]
-But her eyes were starting to turn red just like Ren's and that girl's we saw[r]
-with LASER.[pcms]
+But her eyes were starting to turn red just like Ren's and[r]
+that girl's we saw with LASER.[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -937,8 +975,9 @@ with LASER.[pcms]
 *3239|
 [fc]
 [ns]Man A[nse]
-"What's the matter, Wataru, get a grip, or I'll... eat you up! I'm getting[r]
-hungrier by the minute... After we have our fun with Inori, you're..."[pcms]
+"What's the matter, Wataru, get a grip, or I'll... eat you[r]
+up! I'm getting hungrier by the minute... After we have our[r]
+fun with Inori, you're..."[pcms]
 
 *3240|
 [fc]
@@ -947,12 +986,13 @@ hungrier by the minute... After we have our fun with Inori, you're..."[pcms]
 
 *3241|
 [fc]
-The men, all complaining of hunger, started to creep towards me.[pcms]
+The men, all complaining of hunger, started to creep towards[r]
+me.[pcms]
 
 *3242|
 [fc]
-Their eyes were blood red, and they clearly harbored murderous intent towards[r]
-me.[pcms]
+Their eyes were blood red, and they clearly harbored[r]
+murderous intent towards me.[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
@@ -972,16 +1012,18 @@ me.[pcms]
 
 *3245|
 [fc]
-After shouting Hiko-chin's name with her mouth wide open, Inori-san stuck out[r]
-her tongue and then quickly closed her mouth.[pcms]
+After shouting Hiko-chin's name with her mouth wide open,[r]
+Inori-san stuck out her tongue and then quickly closed her[r]
+mouth.[pcms]
 
 ;//〆：レッドフラッシュ
 [赤フラ]
 
 *3246|
 [fc]
-From Inori-san's mouth, a small red lump flew out. Immediately after, a bright[r]
-red liquid spread around her mouth.[pcms]
+From Inori-san's mouth, a small red lump flew out.[r]
+Immediately after, a bright red liquid spread around her[r]
+mouth.[pcms]
 
 *3247|
 [fc]
@@ -990,13 +1032,14 @@ Inori-san had bitten her tongue...[pcms]
 *3248|
 [fc]
 [ns]Wataru[nse]
-"Damn it all!!! Inori-san, I'll keep my promise! I will definitely tell Hiko-[r]
-chin!! Goodbye!!"[pcms]
+"Damn it all!!! Inori-san, I'll keep my promise! I will[r]
+definitely tell Hiko- chin!! Goodbye!!"[pcms]
 
 *3249|
 [fc]
-Having witnessed Inori-san's final moment, I felt as if a curse had been lifted[r]
-and my legs started moving, allowing me to flee Otowa.[pcms]
+Having witnessed Inori-san's final moment, I felt as if a[r]
+curse had been lifted and my legs started moving, allowing[r]
+me to flee Otowa.[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -1015,8 +1058,8 @@ and my legs started moving, allowing me to flee Otowa.[pcms]
 
 *3250|
 [fc]
-As I left Otowa, I could hear the men's voices behind me saying "what a waste"[r]
-and "why did she have to die."[pcms]
+As I left Otowa, I could hear the men's voices behind me[r]
+saying "what a waste" and "why did she have to die."[pcms]
 
 *3251|
 [fc]
@@ -1024,8 +1067,8 @@ This is madness!! This is absolutely wrong!![pcms]
 
 *3252|
 [fc]
-My head, having experienced so much at once, didn't want to think about anything[r]
-anymore.[pcms]
+My head, having experienced so much at once, didn't want to[r]
+think about anything anymore.[pcms]
 
 *3253|
 [fc]
@@ -1033,16 +1076,19 @@ Inori-san had died. Ren had gone mad.[pcms]
 
 *3254|
 [fc]
-I too will go mad if this continues. But what should I do...!![pcms]
+I too will go mad if this continues. But what should I[r]
+do...!![pcms]
 
 *3255|
 [fc]
-All sorts of thoughts flashed through my mind but none of them took hold.[pcms]
+All sorts of thoughts flashed through my mind but none of[r]
+them took hold.[pcms]
 
 *3256|
 [fc]
-Having become utterly helpless, I headed back towards Shibuya station and[r]
-quickly left Otowa, filled with memories of Inori-san.[pcms]
+Having become utterly helpless, I headed back towards[r]
+Shibuya station and quickly left Otowa, filled with memories[r]
+of Inori-san.[pcms]
 
 ;//jump：B_0005
 [jump storage="B_0005.ks" target=*B_0005_TOP]

@@ -22,7 +22,8 @@
 
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]èèêDÇ∆ÉZÉbÉNÉXÇµÇΩ[endlink]
-(link target=*scene_selend)I haven't had sex with Inori(endlink)[pcms]
+(link target=*scene_selend)I haven't had sex with[r]
+Inori(endlink)[pcms]
 
 	[call storage="_scene_sel.ks" target=*scene_sel_iori]
 
@@ -60,7 +61,8 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 
 *54|
 [fc]
-The first to get off the elevator is me, who came to visit on the 5th floor.[pcms]
+The first to get off the elevator is me, who came to visit[r]
+on the 5th floor.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -90,8 +92,8 @@ The first to get off the elevator is me, who came to visit on the 5th floor.[pcm
 
 *58|
 [fc]
-In the very short time before the doors closed, everyone said their words of[r]
-visitation and left.[pcms]
+In the very short time before the doors closed, everyone[r]
+said their words of visitation and left.[pcms]
 
 ;//ÅYå¬é∫ëO
 [bg storage="BG110"][trans_c cross time=500]
@@ -104,8 +106,8 @@ visitation and left.[pcms]
 
 *60|
 [fc]
-I called out softly and knocked, but there was no response. I knocked several[r]
-times, but...[pcms]
+I called out softly and knocked, but there was no response.[r]
+I knocked several times, but...[pcms]
 
 *61|
 [fc]
@@ -132,8 +134,8 @@ To my surprise, a low voice came from very close by.[pcms]
 
 *65|
 [fc]
-That was Ren, right? It seemed like she was standing right by the door. So she[r]
-wasn't asleep.[pcms]
+That was Ren, right? It seemed like she was standing right[r]
+by the door. So she wasn't asleep.[pcms]
 
 *66|
 [fc]
@@ -148,21 +150,22 @@ wasn't asleep.[pcms]
 
 *68|
 [fc]
-Ren answered with a somewhat vacant voice. The fact that her reply wasn't very[r]
-clear could mean she just woke up, or maybe she has a fever?[pcms]
+Ren answered with a somewhat vacant voice. The fact that her[r]
+reply wasn't very clear could mean she just woke up, or[r]
+maybe she has a fever?[pcms]
 
 *69|
 [fc]
 [ns]Wataru[nse]
-"I brought some nutritional supplements and mineral water. Are you hungry?[r]
-Should I make some porridge?"[pcms]
+"I brought some nutritional supplements and mineral water.[r]
+Are you hungry? Should I make some porridge?"[pcms]
 
 *70|
 [fc]
 [vo_ren s="ren_RK0003"]
 [ns]Ren[nse]
-"...no, my stomach... isn't very hungry... I want to talk... with big brother[r]
-more..."[pcms]
+"...no, my stomach... isn't very hungry... I want to talk...[r]
+with big brother more..."[pcms]
 
 *71|
 [fc]
@@ -176,7 +179,8 @@ The door slid open smoothly.[pcms]
 
 *73|
 [fc]
-The room was pitch dark. It seems like the lights weren't turned on...[pcms]
+The room was pitch dark. It seems like the lights weren't[r]
+turned on...[pcms]
 
 *74|
 [fc]
@@ -185,8 +189,8 @@ The room was pitch dark. It seems like the lights weren't turned on...[pcms]
 
 *75|
 [fc]
-There's no sign of Ren who should be just inside the door?? I squinted to look[r]
-for her.[pcms]
+There's no sign of Ren who should be just inside the door??[r]
+I squinted to look for her.[pcms]
 
 *76|
 [fc]
@@ -196,8 +200,8 @@ for her.[pcms]
 
 *77|
 [fc]
-A reply came from the darkest corner of the room, where the hallway light[r]
-couldn't reach.[pcms]
+A reply came from the darkest corner of the room, where the[r]
+hallway light couldn't reach.[pcms]
 
 *78|
 [fc]
@@ -221,7 +225,8 @@ As I reached for the light switch, Ren stopped me.[pcms]
 
 *82|
 [fc]
-As I was about to say more, Ren placed her hand over mine on the switch.[pcms]
+As I was about to say more, Ren placed her hand over mine on[r]
+the switch.[pcms]
 
 ;//ÅYÇdÇuÇOÇP7
 [evcg storage="EV017a"][trans_c cross time=300]
@@ -235,7 +240,8 @@ As I was about to say more, Ren placed her hand over mine on the switch.[pcms]
 
 *84|
 [fc]
-In the light spilling from the corridor, her face appeared dazed.[pcms]
+In the light spilling from the corridor, her face appeared[r]
+dazed.[pcms]
 
 *85|
 [fc]
@@ -244,11 +250,13 @@ In the light spilling from the corridor, her face appeared dazed.[pcms]
 
 *86|
 [fc]
-Her eyes, which still had color contacts in from sleeping, looked vaguely at me.[pcms]
+Her eyes, which still had color contacts in from sleeping,[r]
+looked vaguely at me.[pcms]
 
 *87|
 [fc]
-Her eyes seemed more moist than usual and were brimming with a melting warmth.[pcms]
+Her eyes seemed more moist than usual and were brimming with[r]
+a melting warmth.[pcms]
 
 *88|
 [fc]
@@ -273,8 +281,8 @@ Her plump lips parted gently, forming a smile.[pcms]
 
 *92|
 [fc]
-It's not unusual for Ren to say things like this, but it's rare for her to call[r]
-me by my name.[pcms]
+It's not unusual for Ren to say things like this, but it's[r]
+rare for her to call me by my name.[pcms]
 
 *93|
 [fc]
@@ -290,7 +298,8 @@ me by my name.[pcms]
 
 *95|
 [fc]
-Frustratedly shaking her head, Ren spoke as if she was struggling.[pcms]
+Frustratedly shaking her head, Ren spoke as if she was[r]
+struggling.[pcms]
 
 *96|
 [fc]
@@ -305,7 +314,8 @@ Frustratedly shaking her head, Ren spoke as if she was struggling.[pcms]
 
 *98|
 [fc]
-I started to feel anxious at this side of Ren I had never seen before.[pcms]
+I started to feel anxious at this side of Ren I had never[r]
+seen before.[pcms]
 
 ;//bgm10 kanse pt3
 [bgm storage="BGM10"]
@@ -316,8 +326,8 @@ I started to feel anxious at this side of Ren I had never seen before.[pcms]
 
 *99|
 [fc]
-In front of me was Ren, staring straight at me like a shadow standing before a[r]
-mirror.[pcms]
+In front of me was Ren, staring straight at me like a shadow[r]
+standing before a mirror.[pcms]
 
 *100|
 [fc]
@@ -327,13 +337,15 @@ mirror.[pcms]
 
 *101|
 [fc]
-It was Ren who broke the silence. Her slender white fingers slowly moved,[r]
-grasping the hem of her T-shirt. Then, she slowly lifted it...[pcms]
+It was Ren who broke the silence. Her slender white fingers[r]
+slowly moved, grasping the hem of her T-shirt. Then, she[r]
+slowly lifted it...[pcms]
 
 *102|
 [fc]
-The red and white stripes were glaringly vivid, searing into my eyes. The[r]
-triangular panties squirmed as if pleading for something.[pcms]
+The red and white stripes were glaringly vivid, searing into[r]
+my eyes. The triangular panties squirmed as if pleading for[r]
+something.[pcms]
 
 *103|
 [fc]
@@ -342,8 +354,8 @@ triangular panties squirmed as if pleading for something.[pcms]
 
 *104|
 [fc]
-Before I knew it, Ren took my hand with her other hand and guided it towards the[r]
-stripes.[pcms]
+Before I knew it, Ren took my hand with her other hand and[r]
+guided it towards the stripes.[pcms]
 
 ;//ÅYHEV058
 ;//óUòfÇ∑ÇÈó¯Å^ó¯Å^ÇæÇ⁄ÇsÅ{ê‘îíÉXÉgÉâÉCÉvÉpÉìÉc
@@ -351,7 +363,8 @@ stripes.[pcms]
 
 *105|
 [fc]
-Ren's hot genitals... I could feel the warmth through the fabric.[pcms]
+Ren's hot genitals... I could feel the warmth through the[r]
+fabric.[pcms]
 
 *106|
 [fc]
@@ -360,19 +373,20 @@ Ren's hot genitals... I could feel the warmth through the fabric.[pcms]
 
 *107|
 [fc]
-A water bottle and a medicine bottle slipped from my hand, rolling across the[r]
-tatami floor.[pcms]
+A water bottle and a medicine bottle slipped from my hand,[r]
+rolling across the tatami floor.[pcms]
 
 *108|
 [fc]
-Unable to pick them up, let alone move, I stood frozen in place.[pcms]
+Unable to pick them up, let alone move, I stood frozen in[r]
+place.[pcms]
 
 *109|
 [fc]
 [vo_ren s="ren_RK0013"]
 [ns]Ren[nse]
-"I've been comforting myself... alone... all this time... Every day... every[r]
-single day..."[pcms]
+"I've been comforting myself... alone... all this time...[r]
+Every day... every single day..."[pcms]
 
 *110|
 [fc]
@@ -380,15 +394,15 @@ Ren slowly moved my hand.[pcms]
 
 *111|
 [fc]
-Through the thin fabric, I could feel the soft mound of her pubic area and the[r]
-slit that cut through like a crease.[pcms]
+Through the thin fabric, I could feel the soft mound of her[r]
+pubic area and the slit that cut through like a crease.[pcms]
 
 *112|
 [fc]
 [vo_ren s="ren_RK0014"]
 [ns]Ren[nse]
-"Even last night... no, since last night... right before you came, I couldn't[r]
-stop comforting myself here..."[pcms]
+"Even last night... no, since last night... right before you[r]
+came, I couldn't stop comforting myself here..."[pcms]
 ;//ÅóçñÈÅÅÇ‰Ç§Ç◊ÅAÇ≈Ç∑
 
 ;//ÅYHEV058
@@ -399,13 +413,13 @@ stop comforting myself here..."[pcms]
 [fc]
 [vo_ren s="ren_RK0015"]
 [ns]Ren[nse]
-"I couldn't stop, and I kept touching myself so much that my fingers pruned and[r]
-the smell wouldn't go away..."[pcms]
+"I couldn't stop, and I kept touching myself so much that my[r]
+fingers pruned and the smell wouldn't go away..."[pcms]
 
 *114|
 [fc]
-Ren kept making me stroke that moist and warm spot that was starting to dampen[r]
-with heat.[pcms]
+Ren kept making me stroke that moist and warm spot that was[r]
+starting to dampen with heat.[pcms]
 
 ;//ÅYHEV058
 ;//óUòfÇ∑ÇÈó¯Å^ó¯Å^ÇæÇ⁄ÇsÅ{ê‘îíÉXÉgÉâÉCÉvÉpÉìÉc
@@ -436,64 +450,65 @@ Ren's words bound me like a spell.[pcms]
 [fc]
 [vo_ren s="ren_RK0016"]
 [ns]Ren[nse]
-"Hey, big brother...? Tell me...? To you, am I just a little sister? Can I[r]
-really only ever be... just a sister?"[pcms]
+"Hey, big brother...? Tell me...? To you, am I just a little[r]
+sister? Can I really only ever be... just a sister?"[pcms]
 
 *120|
 [fc]
 [vo_ren s="ren_RK0017"]
 [ns]Ren[nse]
-"When dad remarried and you became family, I fell for you at first sight...[r]
-That's why I was so happy we could live together..."[pcms]
+"When dad remarried and you became family, I fell for you at[r]
+first sight... That's why I was so happy we could live[r]
+together..."[pcms]
 
 *121|
 [fc]
 [vo_ren s="ren_RK0018"]
 [ns]Ren[nse]
-"But... because you're my big brother... Because we became siblings... That's[r]
-why I couldn't express my feelings..."[pcms]
+"But... because you're my big brother... Because we became[r]
+siblings... That's why I couldn't express my feelings..."[pcms]
 
 *122|
 [fc]
 [vo_ren s="ren_RK0019"]
 [ns]Ren[nse]
-"And yet... you were close with Yuuho-chan, having fun with the astronomy club[r]
-members, never noticing me at all..."[pcms]
+"And yet... you were close with Yuuho-chan, having fun with[r]
+the astronomy club members, never noticing me at all..."[pcms]
 
 *123|
 [fc]
 [vo_ren s="ren_RK0020"]
 [ns]Ren[nse]
-"Do you not care about me at all...? Did you really not know about my[r]
-feelings...?"[pcms]
+"Do you not care about me at all...? Did you really not know[r]
+about my feelings...?"[pcms]
 
 *124|
 [fc]
 [vo_ren s="ren_RK0021"]
 [ns]Ren[nse]
-"Just thinking about you makes it painful... It's agonizing, and my chest feels[r]
-so heavy..."[pcms]
+"Just thinking about you makes it painful... It's agonizing,[r]
+and my chest feels so heavy..."[pcms]
 
 *125|
 [fc]
 [vo_ren s="ren_RK0022"]
 [ns]Ren[nse]
-"...I'm frail... I've always been a burden to you... That's why I couldn't say[r]
-anything more..."[pcms]
+"...I'm frail... I've always been a burden to you... That's[r]
+why I couldn't say anything more..."[pcms]
 
 *126|
 [fc]
 [vo_ren s="ren_RK0023"]
 [ns]Ren[nse]
-"...But when I'm sick in bed... you worry about me, right...? That's why I felt[r]
-happier when I was ill..."[pcms]
+"...But when I'm sick in bed... you worry about me,[r]
+right...? That's why I felt happier when I was ill..."[pcms]
 
 *127|
 [fc]
 [vo_ren s="ren_RK0024"]
 [ns]Ren[nse]
-"Because you cared for me... Because I could have you all to myself... that's[r]
-why..."[pcms]
+"Because you cared for me... Because I could have you all to[r]
+myself... that's why..."[pcms]
 
 ;//ÅiÇvÇâÇéÇÑÅuñ‚Ç¢Ç¬ÇﬂÅvÉpÉçÉfÉBÅj
 ;//ÅöÇ±ÇÃÇ≠ÇÁÇ¢ÇÃÉpÉçÉfÉBÇ≈ÅAÇ¢Ç¢Ç¡Ç∑Ç©ÅH
@@ -522,8 +537,8 @@ why..."[pcms]
 
 *130|
 [fc]
-Though Ren remained silent, her hand continued to move, making me touch her[r]
-there.[pcms]
+Though Ren remained silent, her hand continued to move,[r]
+making me touch her there.[pcms]
 
 *131|
 [fc]
@@ -532,20 +547,23 @@ there.[pcms]
 
 *132|
 [fc]
-Ren is... Ren is my stepsister... My precious, only little sister...[pcms]
+Ren is... Ren is my stepsister... My precious, only little[r]
+sister...[pcms]
 
 *133|
 [fc]
-But I'm aware we're not blood-related, and to be honest, I like Ren too. Not[r]
-just as family, but as a girl...[pcms]
+But I'm aware we're not blood-related, and to be honest, I[r]
+like Ren too. Not just as family, but as a girl...[pcms]
 
 *134|
 [fc]
-If I confess more honestly, there were times I masturbated thinking about Ren...[pcms]
+If I confess more honestly, there were times I masturbated[r]
+thinking about Ren...[pcms]
 
 *135|
 [fc]
-She's cute and takes such good care of me, making me want to protect her...[pcms]
+She's cute and takes such good care of me, making me want to[r]
+protect her...[pcms]
 
 *136|
 [fc]
@@ -553,19 +571,19 @@ But she's my stepsister...[pcms]
 
 *137|
 [fc]
-If we continue like this, I feel like our relationship will be utterly[r]
-destroyed.[pcms]
+If we continue like this, I feel like our relationship will[r]
+be utterly destroyed.[pcms]
 
 *138|
 [fc]
 [ns]Wataru[nse]
-"Why would you say such things, Ren. Haven't we always gotten along? Don't say[r]
-things that deny everything..."[pcms]
+"Why would you say such things, Ren. Haven't we always[r]
+gotten along? Don't say things that deny everything..."[pcms]
 
 *139|
 [fc]
-I felt sad and pained, yet so deeply in love with Ren that it hurt. Without[r]
-knowing what to say, I pleaded.[pcms]
+I felt sad and pained, yet so deeply in love with Ren that[r]
+it hurt. Without knowing what to say, I pleaded.[pcms]
 
 *140|
 [fc]
@@ -575,7 +593,8 @@ Ren smiled and said, "If that's the case..."[pcms]
 [fc]
 [vo_ren s="ren_RK0026"]
 [ns]Ren[nse]
-"...You don't need words... see? You understand, right? Big brother..."[pcms]
+"...You don't need words... see? You understand, right? Big[r]
+brother..."[pcms]
 
 *142|
 [fc]
@@ -585,24 +604,26 @@ She guided my finger over her slit.[pcms]
 [fc]
 [vo_ren s="ren_RK0027"]
 [ns]Ren[nse]
-"...It's hard, isn't it? It's swollen and erect, right? It's starting to get wet[r]
-from deep inside, isn't it...? It's like this because it wants you so badly...?"[pcms]
+"...It's hard, isn't it? It's swollen and erect, right? It's[r]
+starting to get wet from deep inside, isn't it...? It's like[r]
+this because it wants you so badly...?"[pcms]
 
 *144|
 [fc]
-The clitoris was plump and erect. The secret area began to moisten, slowly[r]
-getting wet...[pcms]
+The clitoris was plump and erect. The secret area began to[r]
+moisten, slowly getting wet...[pcms]
 
 *145|
 [fc]
 [vo_ren s="ren_RK0028"]
 [ns]Ren[nse]
-"Do you want more? Heheheh! ...You can do whatever you want to do with me...[r]
-Heheheheh!"[pcms]
+"Do you want more? Heheheh! ...You can do whatever you want[r]
+to do with me... Heheheheh!"[pcms]
 
 *146|
 [fc]
-Ren's voice sent shivers down my spine and robbed me of my ability to think.[pcms]
+Ren's voice sent shivers down my spine and robbed me of my[r]
+ability to think.[pcms]
 
 *147|
 [fc]
@@ -620,7 +641,8 @@ I'm... what should I do...?[pcms]
 
 
 ;	[link storage="70020.ks" target=*70020_TOP]Ç±ÇÒÇ»ÇÃÉ_ÉÅÇæÅI[endlink]
-; (link storage="70050.ks" target=*70050_TOP)Move your finger(endlink)[pcms]
+; (link storage="70050.ks" target=*70050_TOP)Move your[r]
+finger(endlink)[pcms]
 
 *SEL55|Ç±ÇÒÇ»ÇÃÉ_ÉÅÇæÅIÅ^éwÇìÆÇ©Ç∑
 [fc]

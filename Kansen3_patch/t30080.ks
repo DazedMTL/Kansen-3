@@ -38,11 +38,13 @@ Even if I can't do anything, I want to encourage Yuuho...[pcms]
 
 *6434|
 [fc]
-Yuuho's face suddenly brightened, and she stared back at me intently.[pcms]
+Yuuho's face suddenly brightened, and she stared back at me[r]
+intently.[pcms]
 
 *6435|
 [fc]
-In her eyes, not only surprise but also an undeniable joy was overflowing...[pcms]
+In her eyes, not only surprise but also an undeniable joy[r]
+was overflowing...[pcms]
 
 *6436|
 [fc]
@@ -56,7 +58,8 @@ Feeling encouraged, I declared it firmly.[pcms]
 *6438|
 [fc]
 [ns]Wataru[nse]
-"I will... I will protect Yuuho! I won't let you feel sad anymore...!"[pcms]
+"I will... I will protect Yuuho! I won't let you feel sad[r]
+anymore...!"[pcms]
 
 *6439|
 [fc]
@@ -64,12 +67,14 @@ Wow, that's amazing...[pcms]
 
 *6440|
 [fc]
-I was surprised at myself. That I could speak so forcefully, so confidently...?[pcms]
+I was surprised at myself. That I could speak so forcefully,[r]
+so confidently...?[pcms]
 
 *6441|
 [fc]
-It was something the old me would never have imagined saying. But why? A[r]
-passionate feeling was bubbling up from deep within my heart.[pcms]
+It was something the old me would never have imagined[r]
+saying. But why? A passionate feeling was bubbling up from[r]
+deep within my heart.[pcms]
 
 *6442|
 [fc]
@@ -78,13 +83,15 @@ passionate feeling was bubbling up from deep within my heart.[pcms]
 
 *6443|
 [fc]
-The Yuuho I love so much... I don't want to see her cry. I always want her to[r]
-smile from the heart. I won't let her make a sad face ever again...[pcms]
+The Yuuho I love so much... I don't want to see her cry. I[r]
+always want her to smile from the heart. I won't let her[r]
+make a sad face ever again...[pcms]
 
 *6444|
 [fc]
-I might be weak and a coward, always hesitating and overthinking... but for[r]
-Yuuho, I would protect her with my life...!![pcms]
+I might be weak and a coward, always hesitating and[r]
+overthinking... but for Yuuho, I would protect her with my[r]
+life...!![pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -123,7 +130,8 @@ Don't cry, Yuuho... I will stop those tears...[pcms]
 
 
 ;	[link storage="T30090.ks" target=*T30090_TOP]もう一度キスする[endlink]
-; (link storage="T30091.ks" target=*T30091_TOP)Embrace(endlink)[pcms]
+; (link storage="T30091.ks"[r]
+target=*T30091_TOP)Embrace(endlink)[pcms]
 
 *SEL72|もう一度キスする／抱き寄せる
 [fc]

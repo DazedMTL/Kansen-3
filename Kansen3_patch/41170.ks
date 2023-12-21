@@ -19,7 +19,8 @@
 *4450|
 [fc]
 [ns]Wataru[nse]
-"It's probably not open anyway. It's surely a waste of time to check."[pcms]
+"It's probably not open anyway. It's surely a waste of time[r]
+to check."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -70,8 +71,8 @@ We passed through the door and hurried down the side path.[pcms]
 *4456|
 [fc]
 [ns]Wataru[nse]
-"I'm sure it is... Even the female urinals they made for the Olympics are still[r]
-around..."[pcms]
+"I'm sure it is... Even the female urinals they made for the[r]
+Olympics are still around..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -88,8 +89,8 @@ around..."[pcms]
 
 *4459|
 [fc]
-It was a story that had been featured on a TV trivia show and had become quite a[r]
-topic of conversation.[pcms]
+It was a story that had been featured on a TV trivia show[r]
+and had become quite a topic of conversation.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -97,8 +98,9 @@ topic of conversation.[pcms]
 [fc]
 [vo_mar s="maru0541"]
 [ns]Margarita[nse]
-"It seems they were made by mistake during the Olympics. I've heard about it[r]
-too. ...I hope the same is true for this..."[pcms]
+"It seems they were made by mistake during the Olympics.[r]
+I've heard about it too. ...I hope the same is true for[r]
+this..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -110,7 +112,8 @@ too. ...I hope the same is true for this..."[pcms]
 
 *4462|
 [fc]
-Yuuho looked worriedly at her senior, who seemed unusually reticent.[pcms]
+Yuuho looked worriedly at her senior, who seemed unusually[r]
+reticent.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -146,8 +149,9 @@ The senior who was leading suddenly stopped in her tracks.[pcms]
 [fc]
 [vo_mar s="maru0543"]
 [ns]Margarita[nse]
-"...It's about when they redeveloped the Olympic Village in Yoyogi Park and[r]
-buried parts of the demolished buildings underground..."[pcms]
+"...It's about when they redeveloped the Olympic Village in[r]
+Yoyogi Park and buried parts of the demolished buildings[r]
+underground..."[pcms]
 
 *4468|
 [fc]
@@ -164,8 +168,8 @@ buried parts of the demolished buildings underground..."[pcms]
 
 *4470|
 [fc]
-In front of us, illuminated by the LED light, was a concrete wall blocking our[r]
-path, a dead end.[pcms]
+In front of us, illuminated by the LED light, was a concrete[r]
+wall blocking our path, a dead end.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -181,8 +185,8 @@ path, a dead end.[pcms]
 [fc]
 [vo_mar s="maru0545"]
 [ns]Margarita[nse]
-"They must have thought it was unnecessary, and it was just the right hole to[r]
-fill..."[pcms]
+"They must have thought it was unnecessary, and it was just[r]
+the right hole to fill..."[pcms]
 
 *4473|
 [fc]
@@ -199,8 +203,8 @@ Just when we thought we could finally escape.[pcms]
 [fc]
 [vo_mar s="maru0546"]
 [ns]Margarita[nse]
-"There's no point in getting down about it! Now that it's come to this, we need[r]
-to turn back as quickly as possible!!"[pcms]
+"There's no point in getting down about it! Now that it's[r]
+come to this, we need to turn back as quickly as possible!!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -228,15 +232,18 @@ We returned to the place where that door was.[pcms]
 
 *4478|
 [fc]
-Nobody said it out loud, but it was clear we were all thinking the same thing.[pcms]
+Nobody said it out loud, but it was clear we were all[r]
+thinking the same thing.[pcms]
 
 *4479|
 [fc]
-If this door doesn't open, we'll have to go back even further than we've come.[pcms]
+If this door doesn't open, we'll have to go back even[r]
+further than we've come.[pcms]
 
 *4480|
 [fc]
-But at this point, we had no choice but to leave our fate to luck.[pcms]
+But at this point, we had no choice but to leave our fate to[r]
+luck.[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇSÇPÇPÇOÇOÇ÷
 [jump storage="41100.ks" target=*41100_TOP]

@@ -38,8 +38,8 @@ My trembling fingers tried to open the mail inbox...[pcms]
 
 *713|
 [fc]
-I suddenly came to my senses at that message. I closed the cell phone as if it[r]
-had been flung from my hands.[pcms]
+I suddenly came to my senses at that message. I closed the[r]
+cell phone as if it had been flung from my hands.[pcms]
 
 *714|
 [fc]
@@ -48,8 +48,9 @@ had been flung from my hands.[pcms]
 
 *715|
 [fc]
-Even though I'm curious, to try and sneak a look at someone's cell phone!? What[r]
-am I doing, what kind of thing am I...!?[pcms]
+Even though I'm curious, to try and sneak a look at[r]
+someone's cell phone!? What am I doing, what kind of thing[r]
+am I...!?[pcms]
 
 *716|
 [fc]
@@ -58,8 +59,8 @@ am I doing, what kind of thing am I...!?[pcms]
 
 *717|
 [fc]
-If it hadn't asked for a passcode, would I have continued to invade Yuuho's[r]
-privacy!?[pcms]
+If it hadn't asked for a passcode, would I have continued to[r]
+invade Yuuho's privacy!?[pcms]
 
 *718|
 [fc]
@@ -68,8 +69,8 @@ privacy!?[pcms]
 
 *719|
 [fc]
-Maruko-senpai and Ren praised me earlier... but there's nothing cool about this![r]
-I am... I am...![pcms]
+Maruko-senpai and Ren praised me earlier... but there's[r]
+nothing cool about this! I am... I am...![pcms]
 
 *720|
 [fc]
@@ -82,8 +83,8 @@ Feeling both pain and sadness, tears welled up in my eyes.[pcms]
 
 *722|
 [fc]
-When I turned my gaze, I could vaguely see Yuuho lying down with her back turned[r]
-towards me.[pcms]
+When I turned my gaze, I could vaguely see Yuuho lying down[r]
+with her back turned towards me.[pcms]
 
 *723|
 [fc]
@@ -92,8 +93,8 @@ towards me.[pcms]
 
 *724|
 [fc]
-Muttering an apology, I only borrowed the earphones and put the cell phone back[r]
-where it was originally.[pcms]
+Muttering an apology, I only borrowed the earphones and put[r]
+the cell phone back where it was originally.[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇSÇOÇPÇPÇOÇ÷
 [jump storage="40110.ks" target=*40110_TOP]

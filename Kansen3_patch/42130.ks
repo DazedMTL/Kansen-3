@@ -39,8 +39,9 @@ I operate my cellphone with trembling hands.[pcms]
 
 *5595|
 [fc]
-While gripping the cellphone with trembling hands, I speak up. My heart feels[r]
-like it's going to leap out of my mouth along with my words due to the tension.[pcms]
+While gripping the cellphone with trembling hands, I speak[r]
+up. My heart feels like it's going to leap out of my mouth[r]
+along with my words due to the tension.[pcms]
 
 *5596|
 [fc]
@@ -58,7 +59,8 @@ But no reply comes back.[pcms]
 
 *5599|
 [fc]
-Suppressing my shaking, I try speaking again. But still, there's no answer.[pcms]
+Suppressing my shaking, I try speaking again. But still,[r]
+there's no answer.[pcms]
 
 *5600|
 [fc]
@@ -67,7 +69,8 @@ Suppressing my shaking, I try speaking again. But still, there's no answer.[pcms
 
 *5601|
 [fc]
-...Could it be that someone who's gone crazy is messing with it or something?[pcms]
+...Could it be that someone who's gone crazy is messing with[r]
+it or something?[pcms]
 
 *5602|
 [fc]
@@ -104,8 +107,8 @@ I was certain that it was Yuuho's voice.[pcms]
 
 *5609|
 [fc]
-It was a bit faint and hard to make out, and it sounded a bit drawn out... but I[r]
-was sure it was Yuuho's voice.[pcms]
+It was a bit faint and hard to make out, and it sounded a[r]
+bit drawn out... but I was sure it was Yuuho's voice.[pcms]
 
 *5610|
 [fc]
@@ -119,17 +122,19 @@ Once more, a voice calls out to me.[pcms]
 
 *5612|
 [fc]
-I was a little scared, but more than that, I was so relieved.[pcms]
+I was a little scared, but more than that, I was so[r]
+relieved.[pcms]
 
 *5613|
 [fc]
-I was a bit confused, and my mind felt like it was in a mess... but still, I was[r]
-relieved.[pcms]
+I was a bit confused, and my mind felt like it was in a[r]
+mess... but still, I was relieved.[pcms]
 
 *5614|
 [fc]
 [ns]Wataru[nse]
-"Thank goodness... Yuuho. Are you okay... Yuuho!? Are you hurt?"[pcms]
+"Thank goodness... Yuuho. Are you okay... Yuuho!? Are you[r]
+hurt?"[pcms]
 
 *5615|
 [fc]
@@ -152,17 +157,20 @@ relieved.[pcms]
 *5618|
 [fc]
 [ns]Wataru[nse]
-"...That's so like you, Yuuho... To be hungry even at a time like this..."[pcms]
+"...That's so like you, Yuuho... To be hungry even at a time[r]
+like this..."[pcms]
 
 *5619|
 [fc]
-It's Yuuho. What she's saying is a bit out of place, but it's definitely Yuuho.[pcms]
+It's Yuuho. What she's saying is a bit out of place, but[r]
+it's definitely Yuuho.[pcms]
 
 *5620|
 [fc]
 [vo_yuh s="yuho0737"]
 [ns]Yuuho[nse]
-"I'm really hungry... and there's something I really want to eat~"[pcms]
+"I'm really hungry... and there's something I really want to[r]
+eat~"[pcms]
 
 *5621|
 [fc]
@@ -187,7 +195,8 @@ It's Yuuho. What she's saying is a bit out of place, but it's definitely Yuuho.[
 *5625|
 [fc]
 [ns]Wataru[nse]
-"Nearby? Then come over here quickly. We have some snacks here..."[pcms]
+"Nearby? Then come over here quickly. We have some snacks[r]
+here..."[pcms]
 
 *5626|
 [fc]
@@ -218,11 +227,13 @@ I realize that Yuuho is saying something very strange.[pcms]
 
 *5631|
 [fc]
-How did Yuuho find out? We haven't told her that we're here. And yet...[pcms]
+How did Yuuho find out? We haven't told her that we're here.[r]
+And yet...[pcms]
 
 *5632|
 [fc]
-The mystery sends a chill down my spine and clears my confused mind.[pcms]
+The mystery sends a chill down my spine and clears my[r]
+confused mind.[pcms]
 
 *5633|
 [fc]
@@ -246,7 +257,8 @@ That's not all. Something is definitely off.[pcms]
 
 *5637|
 [fc]
-In a panic, I look towards where Kousuke should be in front of me.[pcms]
+In a panic, I look towards where Kousuke should be in front[r]
+of me.[pcms]
 
 *5638|
 [fc]
@@ -259,7 +271,8 @@ Kousuke seems to be sleeping comfortably.[pcms]
 
 *5640|
 [fc]
-Then I turn my eyes towards the direction of the school we came from.[pcms]
+Then I turn my eyes towards the direction of the school we[r]
+came from.[pcms]
 
 *5641|
 [fc]
@@ -267,8 +280,8 @@ But the light from the lantern doesn't reach very far.[pcms]
 
 *5642|
 [fc]
-I reach out for the flashlight and light up the corridor. The strong light[r]
-illuminates the surroundings.[pcms]
+I reach out for the flashlight and light up the corridor.[r]
+The strong light illuminates the surroundings.[pcms]
 
 *5643|
 [fc]
@@ -298,8 +311,8 @@ But Yuuho's figure is nowhere to be seen.[pcms]
 
 *5648|
 [fc]
-I thought my heart would stop. My body stiffens and won't move. My mouth dries[r]
-up with a tingling tension.[pcms]
+I thought my heart would stop. My body stiffens and won't[r]
+move. My mouth dries up with a tingling tension.[pcms]
 
 *5649|
 [fc]
@@ -313,9 +326,10 @@ It's definitely strange! This Yuuho... she's not normal.[pcms]
 
 *5651|
 [fc]
-I suppress my fear and anxiety, and immediately look to the opposite side![r]
-Turning around, I look towards Yoyogi Park... the direction that had been a dead[r]
-end when I checked with the senior before.[pcms]
+I suppress my fear and anxiety, and immediately look to the[r]
+opposite side! Turning around, I look towards Yoyogi Park...[r]
+the direction that had been a dead end when I checked with[r]
+the senior before.[pcms]
 
 ;BGMë¶éûí‚é~
 [fadeoutbgm time=500]
@@ -330,8 +344,8 @@ end when I checked with the senior before.[pcms]
 
 *5653|
 [fc]
-About 40 meters into the darkness... Yuuho's figure holding her cellphone[r]
-emerges.[pcms]
+About 40 meters into the darkness... Yuuho's figure holding[r]
+her cellphone emerges.[pcms]
 
 [bgm storage="BGM04"]
 
@@ -348,17 +362,19 @@ emerges.[pcms]
 
 *5655|
 [fc]
-Yuuho slowly waves at me. With a vacant, pasted-on smile on her face...[pcms]
+Yuuho slowly waves at me. With a vacant, pasted-on smile on[r]
+her face...[pcms]
 
 *5656|
 [fc]
-It was a strangely lively smile, like that of someone drunk, completely[r]
-different from Yuuho's voice, like a bloodless mask.[pcms]
+It was a strangely lively smile, like that of someone drunk,[r]
+completely different from Yuuho's voice, like a bloodless[r]
+mask.[pcms]
 
 *5657|
 [fc]
-And within that mask-like face, eyes shining bright red. A dull light, red and[r]
-black like blood.[pcms]
+And within that mask-like face, eyes shining bright red. A[r]
+dull light, red and black like blood.[pcms]
 
 ;//se107ÅEï‡Ç≠ë´âπÅ@Ç‰Ç¡Ç≠ÇËÅ@êîï‡
 ;//[se buf=0 storage="se107"]
@@ -373,9 +389,9 @@ black like blood.[pcms]
 
 *5659|
 [fc]
-Yuuho slowly, swaying back and forth, walks towards us. Just like the zombies in[r]
-the horror movie we watched during summer vacation with Yuuho, with clumsy[r]
-steps...[pcms]
+Yuuho slowly, swaying back and forth, walks towards us. Just[r]
+like the zombies in the horror movie we watched during[r]
+summer vacation with Yuuho, with clumsy steps...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_f49"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -383,7 +399,8 @@ steps...[pcms]
 [fc]
 [vo_yuh s="yuho0746"]
 [ns]Yuuho[nse]
-"Ehehehe... I can't seem to walk properly~. So~, Wataru~, wait there for me~"[pcms]
+"Ehehehe... I can't seem to walk properly~. So~, Wataru~,[r]
+wait there for me~"[pcms]
 
 *5661|
 [fc]
@@ -392,8 +409,8 @@ steps...[pcms]
 
 *5662|
 [fc]
-I let out a scream that barely sounds like a voice as I instinctively back[r]
-away...[pcms]
+I let out a scream that barely sounds like a voice as I[r]
+instinctively back away...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_f48"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -408,21 +425,22 @@ away...[pcms]
 
 *5664|
 [fc]
-Behind Yuuho, numerous eerie footsteps and growling voices. And then, red eyes[r]
-glowing in the darkness...[pcms]
+Behind Yuuho, numerous eerie footsteps and growling voices.[r]
+And then, red eyes glowing in the darkness...[pcms]
 
 ;//îwåiÅ@óIîøÇÃå„ÇÎÇ…ê‘Ç¢ñ⁄ÅiBGàµÇ¢Åj
 [evcg storage="evs001"][trans_c cross time=300]
 
 *5665|
 [fc]
-I felt like my legs would give out. But perhaps unconsciously following what the[r]
-senior had said, I was somehow calmly accepting reality.[pcms]
+I felt like my legs would give out. But perhaps[r]
+unconsciously following what the senior had said, I was[r]
+somehow calmly accepting reality.[pcms]
 
 *5666|
 [fc]
-...Yuuho has gone strange. She's coming to attack us with those who have become[r]
-strange.[pcms]
+...Yuuho has gone strange. She's coming to attack us with[r]
+those who have become strange.[pcms]
 
 *5667|
 [fc]
@@ -442,8 +460,8 @@ I have to run... But... my body won't move from fear![pcms]
 
 *5669|
 [fc]
-The flashlight rolls out of my hand as I scream louder than I ever thought[r]
-possible.[pcms]
+The flashlight rolls out of my hand as I scream louder than[r]
+I ever thought possible.[pcms]
 
 ;//@konya ev025 ínâ∫ìπ(BGàµÇ¢)
 [evcg storage="EV025a"][trans_c cross time=300]
@@ -478,8 +496,9 @@ possible.[pcms]
 
 *5672|
 [fc]
-The senior jumps up, picks up the flashlight I dropped, and shines it around. As[r]
-soon as she jumps up, she seems to grasp the situation.[pcms]
+The senior jumps up, picks up the flashlight I dropped, and[r]
+shines it around. As soon as she jumps up, she seems to[r]
+grasp the situation.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -490,7 +509,8 @@ soon as she jumps up, she seems to grasp the situation.[pcms]
 
 *5674|
 [fc]
-Kousuke quickly gets up, even though he's still a bit sleepy.[pcms]
+Kousuke quickly gets up, even though he's still a bit[r]
+sleepy.[pcms]
 
 ;//se508ÅEï°êîÇÃä¥êıé“ÇÃÇ§Ç»ÇËê∫
 [se buf=0 storage="se508"]
@@ -512,7 +532,8 @@ Kousuke quickly gets up, even though he's still a bit sleepy.[pcms]
 
 *5677|
 [fc]
-Roused by Kousuke's cry of surprise, Ren seems to still be half asleep.[pcms]
+Roused by Kousuke's cry of surprise, Ren seems to still be[r]
+half asleep.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -554,7 +575,8 @@ Roused by Kousuke's cry of surprise, Ren seems to still be half asleep.[pcms]
 
 *5683|
 [fc]
-Ren first checks her violin case before slowly starting to pack her things.[pcms]
+Ren first checks her violin case before slowly starting to[r]
+pack her things.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -572,8 +594,9 @@ At the senior's command, I finally manage to move my body.[pcms]
 
 *5686|
 [fc]
-Even though Ren is told to hurry, she still packs her things sluggishly. It[r]
-can't be helped. Ren gets dizzy from anemia when she wakes up.[pcms]
+Even though Ren is told to hurry, she still packs her things[r]
+sluggishly. It can't be helped. Ren gets dizzy from anemia[r]
+when she wakes up.[pcms]
 
 *5687|
 [fc]
@@ -581,8 +604,8 @@ I quickly look around the area.[pcms]
 
 *5688|
 [fc]
-If we're not collecting the vinyl sheet, I'm ready to move immediately since I[r]
-had no intention of sleeping.[pcms]
+If we're not collecting the vinyl sheet, I'm ready to move[r]
+immediately since I had no intention of sleeping.[pcms]
 
 *5689|
 [fc]
@@ -595,7 +618,8 @@ I go over to where Ren is packing her things and help her.[pcms]
 
 *5691|
 [fc]
-I quickly fold the towel blanket and sheet and stuff them into my bag.[pcms]
+I quickly fold the towel blanket and sheet and stuff them[r]
+into my bag.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -622,8 +646,8 @@ I quickly fold the towel blanket and sheet and stuff them into my bag.[pcms]
 
 *5694|
 [fc]
-Suddenly, the door to the DHK was violently knocked on. What now!? What on earth[r]
-is happening inside...?[pcms]
+Suddenly, the door to the DHK was violently knocked on. What[r]
+now!? What on earth is happening inside...?[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -667,12 +691,14 @@ I take out my cell phone and hand it to Ren.[pcms]
 
 *5701|
 [fc]
-Ren quickly finds dad's number from the contacts and calls. It's the cell phone[r]
-dad bought us as a matching set, so she operates it without hesitation.[pcms]
+Ren quickly finds dad's number from the contacts and calls.[r]
+It's the cell phone dad bought us as a matching set, so she[r]
+operates it without hesitation.[pcms]
 
 *5702|
 [fc]
-In the meantime, I gather things that are close at hand and pack them.[pcms]
+In the meantime, I gather things that are close at hand and[r]
+pack them.[pcms]
 
 *5703|
 [fc]
@@ -685,8 +711,8 @@ In the meantime, I gather things that are close at hand and pack them.[pcms]
 [fc]
 [vo_ren s="ren0651"]
 [ns]Ren[nse]
-"I'm calling now... It's connecting... connecting... Thank goodness, it's[r]
-calling..."[pcms]
+"I'm calling now... It's connecting... connecting... Thank[r]
+goodness, it's calling..."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -708,8 +734,8 @@ calling..."[pcms]
 
 *5707|
 [fc]
-At that moment, music could be heard. It was a tune I had heard many times[r]
-before.[pcms]
+At that moment, music could be heard. It was a tune I had[r]
+heard many times before.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -731,8 +757,8 @@ No need to strain my ears, I already knew...[pcms]
 
 *5711|
 [fc]
-The sound was coming from the direction of the DHK door that was being knocked[r]
-on.[pcms]
+The sound was coming from the direction of the DHK door that[r]
+was being knocked on.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -771,8 +797,8 @@ However, there is no response.[pcms]
 
 *5716|
 [fc]
-Instead, the sound of the door being violently knocked and the lock being[r]
-clumsily fiddled with could be heard.[pcms]
+Instead, the sound of the door being violently knocked and[r]
+the lock being clumsily fiddled with could be heard.[pcms]
 
 *5717|
 [fc]
@@ -792,8 +818,8 @@ And then...[pcms]
 
 *5720|
 [fc]
-Dad is inside... right nearby!? And the crazed people are trying to break[r]
-through the door!?[pcms]
+Dad is inside... right nearby!? And the crazed people are[r]
+trying to break through the door!?[pcms]
 
 *5721|
 [fc]
@@ -805,7 +831,8 @@ What should I do, what can I do!?[pcms]
 [fc]
 [vo_mar s="maru0762"]
 [ns]Margarita[nse]
-"What's wrong Wataru! We need to escape quickly! Your sister..."[pcms]
+"What's wrong Wataru! We need to escape quickly! Your[r]
+sister..."[pcms]
 
 *5723|
 [fc]
@@ -898,8 +925,8 @@ I also no longer know what to do.[pcms]
 [fc]
 [vo_mar s="maru0767"]
 [ns]Margarita[nse]
-"Exactly as I said. We're going back to the crossroads under the academy and[r]
-escaping from there!"[pcms]
+"Exactly as I said. We're going back to the crossroads under[r]
+the academy and escaping from there!"[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -973,8 +1000,8 @@ Behind this door is my father...[pcms]
 
 *5747|
 [fc]
-Am I going to run away again? After leaving Yuuho like that, am I still going to[r]
-flee?![pcms]
+Am I going to run away again? After leaving Yuuho like that,[r]
+am I still going to flee?![pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1029,7 +1056,8 @@ flee?![pcms]
 
 *5753|
 [fc]
-A sharp pain runs across my cheek as I'm forcefully grabbed by the chest.[pcms]
+A sharp pain runs across my cheek as I'm forcefully grabbed[r]
+by the chest.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1037,8 +1065,8 @@ A sharp pain runs across my cheek as I'm forcefully grabbed by the chest.[pcms]
 [fc]
 [vo_mar s="maru0770"]
 [ns]Margarita[nse]
-"Pull yourself together! Unfortunately, there's no way to save your father. Give[r]
-up..."[pcms]
+"Pull yourself together! Unfortunately, there's no way to[r]
+save your father. Give up..."[pcms]
 
 *5755|
 [fc]
@@ -1051,8 +1079,8 @@ up..."[pcms]
 [fc]
 [vo_mar s="maru0771"]
 [ns]Margarita[nse]
-"I understand how you feel. But do you intend to turn your sister into such a[r]
-monster as well?!"[pcms]
+"I understand how you feel. But do you intend to turn your[r]
+sister into such a monster as well?!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_f49"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1085,8 +1113,8 @@ Yuuho, though staggering, is already approaching us.[pcms]
 [fc]
 [vo_mar s="maru0772"]
 [ns]Margarita[nse]
-"Why did you rescue your sister if not to protect her?! Isn't that what your[r]
-father would have wanted?!"[pcms]
+"Why did you rescue your sister if not to protect her?![r]
+Isn't that what your father would have wanted?!"[pcms]
 
 *5762|
 [fc]
@@ -1097,8 +1125,9 @@ father would have wanted?!"[pcms]
 
 *5763|
 [fc]
-Senior pointed at Yuuho and spoke to me, igniting a sense of mission in my heart[r]
-filled with despair. It feels like blood is returning to my powerless limbs.[pcms]
+Senior pointed at Yuuho and spoke to me, igniting a sense of[r]
+mission in my heart filled with despair. It feels like blood[r]
+is returning to my powerless limbs.[pcms]
 
 *5764|
 [fc]
@@ -1106,7 +1135,8 @@ That's right, Ren is still here. I have to protect Ren!![pcms]
 
 *5765|
 [fc]
-I was even asked by email from my father. It might be his last wish.[pcms]
+I was even asked by email from my father. It might be his[r]
+last wish.[pcms]
 
 *5766|
 [fc]
@@ -1122,7 +1152,8 @@ I was even asked by email from my father. It might be his last wish.[pcms]
 [fc]
 [vo_mar s="maru0773"]
 [ns]Margarita[nse]
-"The door here might not hold much longer! Everyone, escape now!"[pcms]
+"The door here might not hold much longer! Everyone, escape[r]
+now!"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1146,8 +1177,9 @@ I was even asked by email from my father. It might be his last wish.[pcms]
 
 *5771|
 [fc]
-Ren is still crouching, clutching her violin case, frightened by the monstrous[r]
-form of the approaching Yuuho, unable to accept the separation from her father.[pcms]
+Ren is still crouching, clutching her violin case,[r]
+frightened by the monstrous form of the approaching Yuuho,[r]
+unable to accept the separation from her father.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1159,8 +1191,8 @@ form of the approaching Yuuho, unable to accept the separation from her father.[
 
 *5773|
 [fc]
-No, I can't accept it either... But we have to run now... for my father's[r]
-sake...[pcms]
+No, I can't accept it either... But we have to run now...[r]
+for my father's sake...[pcms]
 
 *5774|
 [fc]
@@ -1184,8 +1216,8 @@ I half-forcefully drag Ren along as if pulling her.[pcms]
 
 *5777|
 [fc]
-Perhaps understanding my feelings, Ren stands up firmly and starts running with[r]
-me.[pcms]
+Perhaps understanding my feelings, Ren stands up firmly and[r]
+starts running with me.[pcms]
 
 *5778|
 [fc]
@@ -1203,8 +1235,8 @@ Kousuke is carrying my luggage and lantern for me.[pcms]
 
 *5780|
 [fc]
-With the voice of Yuuhoor what used to be Yuuhobehind us, we all started running[r]
-away.[pcms]
+With the voice of Yuuhoor what used to be Yuuhobehind us, we[r]
+all started running away.[pcms]
 
 ;//Å@Å®ÉuÉçÉbÉNÇSÇQÇPÇSÇOÇ÷
 [jump storage="42140.ks" target=*42140_TOP]

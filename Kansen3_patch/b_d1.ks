@@ -25,8 +25,8 @@ What should I do!?[pcms]
 
 *4490|
 [fc]
-That phrase kept going around in my head, and in the end, I couldn't take even a[r]
-single step.[pcms]
+That phrase kept going around in my head, and in the end, I[r]
+couldn't take even a single step.[pcms]
 
 *4491|
 [fc]
@@ -35,8 +35,8 @@ single step.[pcms]
 
 *4492|
 [fc]
-It definitely wouldn't end with just feeling good. I instinctively knew that[r]
-much.[pcms]
+It definitely wouldn't end with just feeling good. I[r]
+instinctively knew that much.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -53,8 +53,8 @@ much.[pcms]
 
 *4495|
 [fc]
-Startled by her attempt to grab my arm, I tried to flee from the spot right[r]
-away.[pcms]
+Startled by her attempt to grab my arm, I tried to flee from[r]
+the spot right away.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_f"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 
@@ -70,8 +70,8 @@ But...[pcms]
 
 *4498|
 [fc]
-Suddenly, two arms stretched out from behind and appeared at the corner of my[r]
-eye.[pcms]
+Suddenly, two arms stretched out from behind and appeared at[r]
+the corner of my eye.[pcms]
 
 *4499|
 [fc]
@@ -99,16 +99,18 @@ And then, I felt two soft sensations against my back...[pcms]
 [fc]
 [vo_mob s="onna_san0007"]
 [ns]Female C[nse]
-"Fwaaah, a dick, there's a dick! Hurry up and stir my pussy!!"[pcms]
+"Fwaaah, a dick, there's a dick! Hurry up and stir my[r]
+pussy!!"[pcms]
 
 *4503|
 [fc]
-One after another, people, people, people swarmed towards me.[pcms]
+One after another, people, people, people swarmed towards[r]
+me.[pcms]
 
 *4504|
 [fc]
-Girls crowding around wanting to have sex with me was something I thought only[r]
-happened in fantasies...[pcms]
+Girls crowding around wanting to have sex with me was[r]
+something I thought only happened in fantasies...[pcms]
 
 *4505|
 [fc]
@@ -149,8 +151,8 @@ But I was outnumbered.[pcms]
 
 *4511|
 [fc]
-No matter that they were women, I couldn't escape from the onslaught and had no[r]
-choice but to become their prey...[pcms]
+No matter that they were women, I couldn't escape from the[r]
+onslaught and had no choice but to become their prey...[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

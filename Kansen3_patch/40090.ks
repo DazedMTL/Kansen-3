@@ -19,13 +19,14 @@
 *725|
 [fc]
 [ns]Wataru[nse]
-"...No, no, no, no. That's definitely not okay, that's the one thing I can't[r]
-do."[pcms]
+"...No, no, no, no. That's definitely not okay, that's the[r]
+one thing I can't do."[pcms]
 
 *726|
 [fc]
-Having resisted the dark temptation, I only borrowed the earphones and put the[r]
-cellphone back where it originally was.[pcms]
+Having resisted the dark temptation, I only borrowed the[r]
+earphones and put the cellphone back where it originally[r]
+was.[pcms]
 
 *727|
 [fc]
@@ -34,12 +35,14 @@ cellphone back where it originally was.[pcms]
 
 *728|
 [fc]
-Even though I stopped myself at the last moment... just the thought of snooping[r]
-through someone else's cellphone is embarrassing.[pcms]
+Even though I stopped myself at the last moment... just the[r]
+thought of snooping through someone else's cellphone is[r]
+embarrassing.[pcms]
 
 *729|
 [fc]
-I wonder if I'm... really such a jealous person to even think of doing that.[pcms]
+I wonder if I'm... really such a jealous person to even[r]
+think of doing that.[pcms]
 
 *730|
 [fc]
@@ -56,18 +59,18 @@ Senpai Maruko and Ren are sleeping...[pcms]
 
 *733|
 [fc]
-They both complimented me earlier... They said I was cool... They don't know[r]
-that I'm such a dark-hearted guy...[pcms]
+They both complimented me earlier... They said I was cool...[r]
+They don't know that I'm such a dark-hearted guy...[pcms]
 
 *734|
 [fc]
-But... even though I'm such a flawed person, if someone has expectations of me,[r]
-I'll try a little harder...[pcms]
+But... even though I'm such a flawed person, if someone has[r]
+expectations of me, I'll try a little harder...[pcms]
 
 *735|
 [fc]
-Next to them, Yuuho is sleeping with her back turned to me, faintly illuminated[r]
-by the lantern.[pcms]
+Next to them, Yuuho is sleeping with her back turned to me,[r]
+faintly illuminated by the lantern.[pcms]
 
 *736|
 [fc]
@@ -76,8 +79,8 @@ by the lantern.[pcms]
 
 *737|
 [fc]
-Though it was only an attempt, I can't escape the feeling of guilt. I muttered a[r]
-small apology.[pcms]
+Though it was only an attempt, I can't escape the feeling of[r]
+guilt. I muttered a small apology.[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇSÇOÇPÇPÇOÇ÷
 [jump storage="40110.ks" target=*40110_TOP]

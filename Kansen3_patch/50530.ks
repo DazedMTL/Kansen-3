@@ -19,22 +19,23 @@
 *3130|
 [fc]
 [ns]Wataru[nse]
-"It might sound cheap, but maybe it's about being true to oneself..."[pcms]
+"It might sound cheap, but maybe it's about being true to[r]
+oneself..."[pcms]
 
 *3131|
 [fc]
-"But that assumes you know what 'yourself' is. I can't say for certain that I[r]
-understand myself that well."[pcms]
+"But that assumes you know what 'yourself' is. I can't say[r]
+for certain that I understand myself that well."[pcms]
 
 *3132|
 [fc]
-Jin is armed with a gun. But he doesn't go on a rampage with it, and he's quite[r]
-cooperative.[pcms]
+Jin is armed with a gun. But he doesn't go on a rampage with[r]
+it, and he's quite cooperative.[pcms]
 
 *3133|
 [fc]
-"So maybe it's because he himself wants to be that way. If that's the case,[r]
-maybe he's fundamentally a good person..."[pcms]
+"So maybe it's because he himself wants to be that way. If[r]
+that's the case, maybe he's fundamentally a good person..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -42,11 +43,13 @@ maybe he's fundamentally a good person..."[pcms]
 [fc]
 [vo_mar s="maru1627"]
 [ns]Margarita[nse]
-"Salvation... redemption, huh. Even so, I can't agree with it."[pcms]
+"Salvation... redemption, huh. Even so, I can't agree with[r]
+it."[pcms]
 
 *3135|
 [fc]
-With a face like she had tasted something bitter, the senior muttered.[pcms]
+With a face like she had tasted something bitter, the senior[r]
+muttered.[pcms]
 
 *3136|
 [fc]
@@ -58,62 +61,70 @@ With a face like she had tasted something bitter, the senior muttered.[pcms]
 
 *3137|
 [fc]
-I find Jin's words interesting, but still, they seem too extreme... or like[r]
-wordplay, and they don't seem to fit with what we're feeling right now.[pcms]
+I find Jin's words interesting, but still, they seem too[r]
+extreme... or like wordplay, and they don't seem to fit with[r]
+what we're feeling right now.[pcms]
 
 *3138|
 [fc]
 [ns]Wataru[nse]
-"I'm not religious, so I don't really understand things like eschatology... but[r]
-I still can't accept what's happening right now."[pcms]
+"I'm not religious, so I don't really understand things like[r]
+eschatology... but I still can't accept what's happening[r]
+right now."[pcms]
 
 *3139|
 [fc]
 [ns]Wataru[nse]
-"Why does it have to start here in Tokyo... in Shibuya? The students at school,[r]
-our families... Sure, not everything was perfect, but..."[pcms]
+"Why does it have to start here in Tokyo... in Shibuya? The[r]
+students at school, our families... Sure, not everything was[r]
+perfect, but..."[pcms]
 
 *3140|
 [fc]
 [ns]Wataru[nse]
-"No matter how much they talk about divine punishment or the work of God, it[r]
-doesn't justify us suffering like this... There must be others who should be[r]
-atoning..."[pcms]
+"No matter how much they talk about divine punishment or the[r]
+work of God, it doesn't justify us suffering like this...[r]
+There must be others who should be atoning..."[pcms]
 
 *3141|
 [fc]
-"That's right... Our friends at school, the masters... It's strange that such[r]
-good people would be the first to be punished!"[pcms]
+"That's right... Our friends at school, the masters... It's[r]
+strange that such good people would be the first to be[r]
+punished!"[pcms]
 
 *3142|
 [fc]
 [ns]Wataru[nse]
-"If I... if we survive this, we'll find those people... the ones who should be[r]
-atoning, and make sure something like this never happens again!"[pcms]
+"If I... if we survive this, we'll find those people... the[r]
+ones who should be atoning, and make sure something like[r]
+this never happens again!"[pcms]
 
 *3143|
 [fc]
 [ns]Wataru[nse]
-"If we don't, mom... yes, the people who were sacrificed before, those who[r]
-didn't make it this time... those who got infected and are wandering outside,[r]
-they won't be able to rest in peace..."[pcms]
+"If we don't, mom... yes, the people who were sacrificed[r]
+before, those who didn't make it this time... those who got[r]
+infected and are wandering outside, they won't be able to[r]
+rest in peace..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3144|
 [fc]
-After speaking so passionately, I noticed Maruko-senpai looking at me with a bit[r]
-of surprise.[pcms]
+After speaking so passionately, I noticed Maruko-senpai[r]
+looking at me with a bit of surprise.[pcms]
 
 *3145|
 [fc]
 [ns]Wataru[nse]
-"Ah, sorry. It's not like getting angry at you will solve anything, senpai..."[pcms]
+"Ah, sorry. It's not like getting angry at you will solve[r]
+anything, senpai..."[pcms]
 
 *3146|
 [fc]
-I meant to keep it under control, but I ended up speaking so forcefully... It's[r]
-embarrassing to talk so much about my own thoughts...[pcms]
+I meant to keep it under control, but I ended up speaking so[r]
+forcefully... It's embarrassing to talk so much about my own[r]
+thoughts...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -125,7 +136,8 @@ embarrassing to talk so much about my own thoughts...[pcms]
 
 *3148|
 [fc]
-Senpai gave me a comforting smile that seemed almost like a chuckle.[pcms]
+Senpai gave me a comforting smile that seemed almost like a[r]
+chuckle.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -133,19 +145,20 @@ Senpai gave me a comforting smile that seemed almost like a chuckle.[pcms]
 [fc]
 [vo_mar s="maru1629"]
 [ns]Margarita[nse]
-"Rather, I should be the one thanking you... Thank you. Your words have helped[r]
-me organize my thoughts a bit."[pcms]
+"Rather, I should be the one thanking you... Thank you. Your[r]
+words have helped me organize my thoughts a bit."[pcms]
 
 *3150|
 [fc]
 [vo_mar s="maru1630"]
 [ns]Margarita[nse]
-"First, let's survive. Whether the cause is a human disaster or the will of the[r]
-Lord, we can think about that later."[pcms]
+"First, let's survive. Whether the cause is a human disaster[r]
+or the will of the Lord, we can think about that later."[pcms]
 
 *3151|
 [fc]
-After a brief pause, senpai suddenly became serious and looked at me.[pcms]
+After a brief pause, senpai suddenly became serious and[r]
+looked at me.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -162,12 +175,13 @@ After a brief pause, senpai suddenly became serious and looked at me.[pcms]
 
 *3154|
 [fc]
-What's with this sudden question?! And why does senpai even know about my[r]
-feelings!?[pcms]
+What's with this sudden question?! And why does senpai even[r]
+know about my feelings!?[pcms]
 
 *3155|
 [fc]
-Between Tadahiko and senpai... could it be... that everyone knows by now...?[pcms]
+Between Tadahiko and senpai... could it be... that everyone[r]
+knows by now...?[pcms]
 
 *3156|
 [fc]
@@ -176,7 +190,8 @@ Between Tadahiko and senpai... could it be... that everyone knows by now...?[pcm
 
 *3157|
 [fc]
-I managed to maintain a semblance of calm on the surface as I mumbled my reply.[pcms]
+I managed to maintain a semblance of calm on the surface as[r]
+I mumbled my reply.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -188,8 +203,8 @@ I managed to maintain a semblance of calm on the surface as I mumbled my reply.[
 
 *3159|
 [fc]
-What do you mean 'I see'? That 'I see'... Can you see right through me, to the[r]
-fact that I'm too chicken to confess!?[pcms]
+What do you mean 'I see'? That 'I see'... Can you see right[r]
+through me, to the fact that I'm too chicken to confess!?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -201,16 +216,17 @@ fact that I'm too chicken to confess!?[pcms]
 
 *3161|
 [fc]
-Whether she's noticed my inner turmoil or not, senpai shapes her lips into a[r]
-light smile and continues.[pcms]
+Whether she's noticed my inner turmoil or not, senpai shapes[r]
+her lips into a light smile and continues.[pcms]
 
 *3162|
 [fc]
 [vo_mar s="maru1634"]
 [ns]Margarita[nse]
-"You act with such determination, as if your life depends on it, and you speak[r]
-with so much passion that it seems your emotions might overflow. Yet, there's[r]
-something unreliable about you..."[pcms]
+"You act with such determination, as if your life depends on[r]
+it, and you speak with so much passion that it seems your[r]
+emotions might overflow. Yet, there's something unreliable[r]
+about you..."[pcms]
 
 *3163|
 [fc]
@@ -229,8 +245,8 @@ It's complicated... Is that... a compliment?[pcms]
 [fc]
 [vo_mar s="maru1636"]
 [ns]Margarita[nse]
-"We don't know what will happen next, and now might be... yes, I think if you[r]
-confess now, it won't turn out badly."[pcms]
+"We don't know what will happen next, and now might be...[r]
+yes, I think if you confess now, it won't turn out badly."[pcms]
 
 *3166|
 [fc]
@@ -238,19 +254,21 @@ I choke up again...[pcms]
 
 *3167|
 [fc]
-Considering what happened in the kitchen earlier, I might even start to hope...[r]
-maybe...[pcms]
+Considering what happened in the kitchen earlier, I might[r]
+even start to hope... maybe...[pcms]
 
 *3168|
 [fc]
-But it's strange how senpai seems to have read the situation so thoroughly. I[r]
-even start to wonder if she has clairvoyance...[pcms]
+But it's strange how senpai seems to have read the situation[r]
+so thoroughly. I even start to wonder if she has[r]
+clairvoyance...[pcms]
 
 *3169|
 [fc]
 [ns]Wataru[nse]
-"Well... but, you know... the suspension bridge effect, was it? Confessing in a[r]
-situation like this, well... It feels a bit like cheating..."[pcms]
+"Well... but, you know... the suspension bridge effect, was[r]
+it? Confessing in a situation like this, well... It feels a[r]
+bit like cheating..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -267,13 +285,14 @@ Maruko-senpai laughed a little louder this time.[pcms]
 
 *3172|
 [fc]
-Ah... so senpai can laugh like this. It feels like this is the first time I've[r]
-seen such a happy smile from her.[pcms]
+Ah... so senpai can laugh like this. It feels like this is[r]
+the first time I've seen such a happy smile from her.[pcms]
 
 *3173|
 [fc]
-Her laughing face looks just like any other girl's, and even though it's not[r]
-that kind of situation, my heart strangely starts to race.[pcms]
+Her laughing face looks just like any other girl's, and even[r]
+though it's not that kind of situation, my heart strangely[r]
+starts to race.[pcms]
 
 ;//---------------------------------------------------------------
 ;//ÅúëIëéàÇ`ÇP
@@ -282,7 +301,8 @@ that kind of situation, my heart strangely starts to race.[pcms]
 
 
 ;	[link storage="50530.ks" target=*50530_01]êÊîyÇ…óˆêlÇÕÅH[endlink]
-; (link storage="50530.ks" target=*50530_02)Let's take a break soon(endlink)[pcms]
+; (link storage="50530.ks" target=*50530_02)Let's take a[r]
+break soon(endlink)[pcms]
 
 *SEL48|êÊîyÇ…óˆêlÇÕÅHÅ^ÇªÇÎÇªÇÎãxÇ›Ç‹ÇµÇÂÇ§
 [fc]
@@ -328,17 +348,20 @@ that kind of situation, my heart strangely starts to race.[pcms]
 
 *3174|
 [fc]
-If she's this beautiful, she must have a boyfriend, right? She probably shows[r]
-that boyfriend the same smile she showed me just now...[pcms]
+If she's this beautiful, she must have a boyfriend, right?[r]
+She probably shows that boyfriend the same smile she showed[r]
+me just now...[pcms]
 
 *3175|
 [fc]
-But... I wonder what kind of person he is. It's bothering me...[pcms]
+But... I wonder what kind of person he is. It's bothering[r]
+me...[pcms]
 
 *3176|
 [fc]
-Normally, I wouldn't have the courage to ask such a thing, but with senpai as[r]
-she is now, I feel like she might answer...[pcms]
+Normally, I wouldn't have the courage to ask such a thing,[r]
+but with senpai as she is now, I feel like she might[r]
+answer...[pcms]
 
 *3177|
 [fc]
@@ -359,30 +382,34 @@ After a brief pause, Senior Maruko awkwardly spoke.[pcms]
 
 *3180|
 [fc]
-"No, well... I had one when I was a child, but for the past few years, various[r]
-things happened and I just haven't met anyone..."[pcms]
+"No, well... I had one when I was a child, but for the past[r]
+few years, various things happened and I just haven't met[r]
+anyone..."[pcms]
 
 *3181|
 [fc]
 [vo_mar s="maru1639"]
 [ns]Margarita[nse]
-"The people I get along with are all older and married... Even if they're around[r]
-my age, they're more like comrades... like battle buddies..."[pcms]
+"The people I get along with are all older and married...[r]
+Even if they're around my age, they're more like comrades...[r]
+like battle buddies..."[pcms]
 
 *3182|
 [fc]
 [vo_mar s="maru1640"]
 [ns]Margarita[nse]
-It was an unusually roundabout and flustered response from the senior.[pcms]
+It was an unusually roundabout and flustered response from[r]
+the senior.[pcms]
 
 *3183|
 [fc]
-Senior sure is quick to poke at me, but when it comes to her own love life,[r]
-she's not so smooth...[pcms]
+Senior sure is quick to poke at me, but when it comes to her[r]
+own love life, she's not so smooth...[pcms]
 
 *3184|
 [fc]
-It would be too cruel to tease her too much, so let's change the subject.[pcms]
+It would be too cruel to tease her too much, so let's change[r]
+the subject.[pcms]
 
 *3185|
 [fc]
@@ -416,8 +443,9 @@ When I changed the topic, Senior Maruko quickly recovered.[pcms]
 [fc]
 [vo_mar s="maru1642"]
 [ns]Margarita[nse]
-"But even if he's not physically strong, someone who can show courage when it[r]
-counts, someone reliable in a pinch is what I prefer."[pcms]
+"But even if he's not physically strong, someone who can[r]
+show courage when it counts, someone reliable in a pinch is[r]
+what I prefer."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -430,9 +458,9 @@ counts, someone reliable in a pinch is what I prefer."[pcms]
 *3192|
 [fc]
 [ns]Wataru[nse]
-What kind of person could Senior Maruko, who is so capable herself, rely on...?[r]
-At least someone more adult or stronger than her, otherwise what's the point of[r]
-relying on them...?[pcms]
+What kind of person could Senior Maruko, who is so capable[r]
+herself, rely on...? At least someone more adult or stronger[r]
+than her, otherwise what's the point of relying on them...?[pcms]
 
 *3193|
 [fc]
@@ -440,8 +468,8 @@ I wonder what kind of superman that would be.[pcms]
 
 *3194|
 [fc]
-"It's obvious for the strong to step forward, but I like a man who doesn't[r]
-hesitate to step up even if he's weak..."[pcms]
+"It's obvious for the strong to step forward, but I like a[r]
+man who doesn't hesitate to step up even if he's weak..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -449,22 +477,24 @@ hesitate to step up even if he's weak..."[pcms]
 [fc]
 [vo_mar s="maru1644"]
 [ns]Margarita[nse]
-"That's different from foolhardiness. It means being someone who can think of[r]
-ways to win despite their weaknesses and take action."[pcms]
+"That's different from foolhardiness. It means being someone[r]
+who can think of ways to win despite their weaknesses and[r]
+take action."[pcms]
 
 *3196|
 [fc]
 [vo_mar s="maru1645"]
 [ns]Margarita[nse]
-"...That's why I like brave men. And of course, it goes without saying that they[r]
-should cherish their friends and family..."[pcms]
+"...That's why I like brave men. And of course, it goes[r]
+without saying that they should cherish their friends and[r]
+family..."[pcms]
 
 *3197|
 [fc]
 [vo_mar s="maru1646"]
 [ns]Margarita[nse]
-Senior cut off her words mid-sentence and looked intently at my face as if she[r]
-had just thought of something.[pcms]
+Senior cut off her words mid-sentence and looked intently at[r]
+my face as if she had just thought of something.[pcms]
 
 *3198|
 [fc]
@@ -485,17 +515,18 @@ Her sudden remark made my heart skip a beat.[pcms]
 
 *3201|
 [fc]
-What... was that just now? It felt a bit like a confession... No, there's no[r]
-deep meaning behind it... haha.[pcms]
+What... was that just now? It felt a bit like a[r]
+confession... No, there's no deep meaning behind it... haha.[pcms]
 
 *3202|
 [fc]
-Since I fell silent, Senior seemed to blush out of reflex as well.[pcms]
+Since I fell silent, Senior seemed to blush out of reflex as[r]
+well.[pcms]
 
 *3203|
 [fc]
-"It's just a hypothetical! Don't take it seriously. ...First of all, I dislike[r]
-unfaithful men."[pcms]
+"It's just a hypothetical! Don't take it seriously. ...First[r]
+of all, I dislike unfaithful men."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f14"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -512,8 +543,8 @@ Senior slowly stood up from her seat.[pcms]
 
 *3206|
 [fc]
-"I'm also supporting you from the shadows. Do your best. Take good care of[r]
-Kannagi."[pcms]
+"I'm also supporting you from the shadows. Do your best.[r]
+Take good care of Kannagi."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -526,7 +557,8 @@ Kannagi."[pcms]
 *3208|
 [fc]
 [ns]Wataru[nse]
-"Well then, I'm going to rest soon. There's still more to do tomorrow."[pcms]
+"Well then, I'm going to rest soon. There's still more to do[r]
+tomorrow."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -543,7 +575,8 @@ We decided to each return to our own beds.[pcms]
 
 *3211|
 [fc]
-Hmm... If we keep talking like this, I might end up saying too much...[pcms]
+Hmm... If we keep talking like this, I might end up saying[r]
+too much...[pcms]
 
 ;//Å®ÉWÉÉÉìÉvÅFÉuÉçÉbÉN 50540 Ç÷
 [jump storage="50540.ks" target=*50540_TOP]
@@ -565,8 +598,8 @@ It's probably better to wrap things up now.[pcms]
 *3214|
 [fc]
 [ns]Wataru[nse]
-"You're right. There's still a lot to do from now on. Well then, see you[r]
-tomorrow..."[pcms]
+"You're right. There's still a lot to do from now on. Well[r]
+then, see you tomorrow..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 

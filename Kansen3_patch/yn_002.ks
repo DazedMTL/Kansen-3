@@ -33,16 +33,17 @@ How much time has passed since then...?[pcms]
 
 *1423|
 [fc]
-I've been holed up in my room on the 5th floor, crying continuously. My eyes and[r]
-throat are stinging and painful. But more than that, the pain in my heart feels[r]
-like it's going to tear my chest apart.[pcms]
+I've been holed up in my room on the 5th floor, crying[r]
+continuously. My eyes and throat are stinging and painful.[r]
+But more than that, the pain in my heart feels like it's[r]
+going to tear my chest apart.[pcms]
 
 *1424|
 [fc]
-Ren's remains were wrapped in a blanket and buried in the same place as the[r]
-masters. I'm sorry for leaving you alone in that dark, cold refrigerator... I'm[r]
-pained just thinking about how lonely Ren, who hated being alone, must have[r]
-felt.[pcms]
+Ren's remains were wrapped in a blanket and buried in the[r]
+same place as the masters. I'm sorry for leaving you alone[r]
+in that dark, cold refrigerator... I'm pained just thinking[r]
+about how lonely Ren, who hated being alone, must have felt.[pcms]
 
 *1425|
 [fc]
@@ -51,8 +52,8 @@ felt.[pcms]
 
 *1426|
 [fc]
-Ren can't feel anything anymore. She can't have any emotions. Because... she's[r]
-already dead...[pcms]
+Ren can't feel anything anymore. She can't have any[r]
+emotions. Because... she's already dead...[pcms]
 
 *1427|
 [fc]
@@ -61,14 +62,14 @@ already dead...[pcms]
 
 *1428|
 [fc]
-In the end, I couldn't bring myself to do it. I pushed the last duty of seeing[r]
-off my beloved sister onto someone else.[pcms]
+In the end, I couldn't bring myself to do it. I pushed the[r]
+last duty of seeing off my beloved sister onto someone else.[pcms]
 
 *1429|
 [fc]
-How much she must have wanted to be saved, how much she must have sought[r]
-salvation. In the end, Ren, who couldn't rely on her brother, must have suffered[r]
-so much.[pcms]
+How much she must have wanted to be saved, how much she must[r]
+have sought salvation. In the end, Ren, who couldn't rely on[r]
+her brother, must have suffered so much.[pcms]
 
 *1430|
 [fc]
@@ -77,18 +78,20 @@ so much.[pcms]
 
 *1431|
 [fc]
-I was afraid of getting hurt myself, I couldn't dirty my own hands to save my[r]
-sister, and I ended up abandoning Ren, who was so important to me...![pcms]
+I was afraid of getting hurt myself, I couldn't dirty my own[r]
+hands to save my sister, and I ended up abandoning Ren, who[r]
+was so important to me...![pcms]
 
 *1432|
 [fc]
-I was supposed to protect her no matter what. I intended to defend her at all[r]
-costs. That's why Tadahiko entrusted me with a gun.[pcms]
+I was supposed to protect her no matter what. I intended to[r]
+defend her at all costs. That's why Tadahiko entrusted me[r]
+with a gun.[pcms]
 
 *1433|
 [fc]
-And yet... Instead of protecting her... I truly abandoned her... I've lost her[r]
-forever...[pcms]
+And yet... Instead of protecting her... I truly abandoned[r]
+her... I've lost her forever...[pcms]
 
 *1434|
 [fc]
@@ -97,22 +100,24 @@ forever...[pcms]
 
 *1435|
 [fc]
-If I had that gun with me, I would have shot myself in the chest without[r]
-hesitation.[pcms]
+If I had that gun with me, I would have shot myself in the[r]
+chest without hesitation.[pcms]
 
 *1436|
 [fc]
-But perhaps anticipating that, Tadahiko's gun was taken away by Senior Maruko.[pcms]
+But perhaps anticipating that, Tadahiko's gun was taken away[r]
+by Senior Maruko.[pcms]
 
 *1437|
 [fc]
-I tear at my hair and beat my chest over and over. If I couldn't kill myself,[r]
-then I wanted to be wounded in some other way.[pcms]
+I tear at my hair and beat my chest over and over. If I[r]
+couldn't kill myself, then I wanted to be wounded in some[r]
+other way.[pcms]
 
 *1438|
 [fc]
-What kind of punishment would absolve me of my sins? What kind of pain must I[r]
-feel to understand Ren's pain...?[pcms]
+What kind of punishment would absolve me of my sins? What[r]
+kind of pain must I feel to understand Ren's pain...?[pcms]
 
 ;//se003・携帯の着信音
 [se buf=0 storage="se003" loop=true]
@@ -131,8 +136,8 @@ My phone is ringing. Maybe someone is worried about me...[pcms]
 
 *1441|
 [fc]
-But right now, I don't want to talk to anyone. Comfort, sympathy, understanding.[r]
-I didn't want to receive anything.[pcms]
+But right now, I don't want to talk to anyone. Comfort,[r]
+sympathy, understanding. I didn't want to receive anything.[pcms]
 
 ;//se003・携帯の着信音
 [se buf=0 storage="se003" loop=true]
@@ -142,8 +147,8 @@ I didn't want to receive anything.[pcms]
 
 *1442|
 [fc]
-The call that had once stopped started ringing again. Reluctantly, I picked up[r]
-the phone to the incessant ringing.[pcms]
+The call that had once stopped started ringing again.[r]
+Reluctantly, I picked up the phone to the incessant ringing.[pcms]
 
 *1443|
 [fc]
@@ -163,15 +168,16 @@ The caller ID showed it was from Yuuho.[pcms]
 [fc]
 [vo_yuh s="yuho_T0127"]
 [ns]Yuuho[nse]
-"Wataru! The TV! The TV is... something terrible has happened--!!"[pcms]
+"Wataru! The TV! The TV is... something terrible has[r]
+happened--!!"[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]
 
 *1446|
 [fc]
-The scream from Yuuho that seemed like it could burst my eardrums pulled me back[r]
-to reality.[pcms]
+The scream from Yuuho that seemed like it could burst my[r]
+eardrums pulled me back to reality.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

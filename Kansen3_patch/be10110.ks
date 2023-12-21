@@ -22,63 +22,71 @@ I tried climbing onto the handrail of the catwalk deck.[pcms]
 
 *413|
 [fc]
-There, a ladder for maintenance purposes was installed, leading from the first[r]
-floor to the seventh-floor rooftop.[pcms]
+There, a ladder for maintenance purposes was installed,[r]
+leading from the first floor to the seventh-floor rooftop.[pcms]
 
 *414|
 [fc]
-Using this, I should be able to climb up to the rooftop on the seventh floor.[pcms]
+Using this, I should be able to climb up to the rooftop on[r]
+the seventh floor.[pcms]
 
 *415|
 [fc]
-No, not just the rooftop. It might be possible to go to any floor.[pcms]
+No, not just the rooftop. It might be possible to go to any[r]
+floor.[pcms]
 
 *416|
 [fc]
-But the ladder was covered with a fall prevention fence, and I couldn't climb it[r]
-from here.[pcms]
+But the ladder was covered with a fall prevention fence, and[r]
+I couldn't climb it from here.[pcms]
 
 *417|
 [fc]
-I would have to descend into the alley between buildings first, and then climb[r]
-up from there.[pcms]
+I would have to descend into the alley between buildings[r]
+first, and then climb up from there.[pcms]
 
 *418|
 [fc]
-The fall prevention fence had large gaps, and it seemed possible to hook my[r]
-hands and feet on it.[pcms]
+The fall prevention fence had large gaps, and it seemed[r]
+possible to hook my hands and feet on it.[pcms]
 
 *419|
 [fc]
-From the second floor where I was, it seemed somehow possible to descend to the[r]
-alley where the bottom of the ladder was.[pcms]
+From the second floor where I was, it seemed somehow[r]
+possible to descend to the alley where the bottom of the[r]
+ladder was.[pcms]
 
 *420|
 [fc]
-Still, it was a height that wouldn't be easy to walk away from if I fell...[pcms]
+Still, it was a height that wouldn't be easy to walk away[r]
+from if I fell...[pcms]
 
 *421|
 [fc]
-If I'm lucky, I might get away with just a sprain, but in the worst case, I[r]
-could even consider a fracture.[pcms]
+If I'm lucky, I might get away with just a sprain, but in[r]
+the worst case, I could even consider a fracture.[pcms]
 
 *422|
 [fc]
-Above all, I felt fear at the prospect of descending along the fall prevention[r]
-fence in the dangerous situation with building winds blowing down.[pcms]
+Above all, I felt fear at the prospect of descending along[r]
+the fall prevention fence in the dangerous situation with[r]
+building winds blowing down.[pcms]
 
 *423|
 [fc]
-Of course, it's not a situation where I can afford to say such things, but for[r]
-me, who is not Superman, it was a moment where my courage was tested.[pcms]
+Of course, it's not a situation where I can afford to say[r]
+such things, but for me, who is not Superman, it was a[r]
+moment where my courage was tested.[pcms]
 
 *424|
 [fc]
-The strong wind buffeted me as I stood on top of the deck's handrail.[pcms]
+The strong wind buffeted me as I stood on top of the deck's[r]
+handrail.[pcms]
 
 *425|
 [fc]
-Below me were the alley between buildings and the road underneath.[pcms]
+Below me were the alley between buildings and the road[r]
+underneath.[pcms]
 
 *426|
 [fc]
@@ -86,8 +94,8 @@ There, infected people were swarming and writhing in groups.[pcms]
 
 *427|
 [fc]
-If I continued up to the rooftop like this, my fear would surely increase even[r]
-more.[pcms]
+If I continued up to the rooftop like this, my fear would[r]
+surely increase even more.[pcms]
 
 *428|
 [fc]
@@ -96,12 +104,13 @@ more.[pcms]
 
 *429|
 [fc]
-I made up my mind and reached out from the deck to grab onto the fall prevention[r]
-fence.[pcms]
+I made up my mind and reached out from the deck to grab onto[r]
+the fall prevention fence.[pcms]
 
 *430|
 [fc]
-It's okay. If I descend slowly and carefully, there shouldn't be a problem.[pcms]
+It's okay. If I descend slowly and carefully, there[r]
+shouldn't be a problem.[pcms]
 
 *431|
 [fc]
@@ -117,7 +126,8 @@ It didn't seem to wobble at all.[pcms]
 
 *434|
 [fc]
-Feeling reassured and having made up my mind, that was when...[pcms]
+Feeling reassured and having made up my mind, that was[r]
+when...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -141,18 +151,18 @@ Feeling reassured and having made up my mind, that was when...[pcms]
 
 *438|
 [fc]
-Kousuke and Mizuki stared at me with strangely curious faces as if to say, "What[r]
-in the world are you doing?"[pcms]
+Kousuke and Mizuki stared at me with strangely curious faces[r]
+as if to say, "What in the world are you doing?"[pcms]
 
 *439|
 [fc]
-Though my mind was thinking such things, all I could do was look back at them[r]
-with a foolish expression on my face.[pcms]
+Though my mind was thinking such things, all I could do was[r]
+look back at them with a foolish expression on my face.[pcms]
 
 *440|
 [fc]
-Perhaps my expression made them even more puzzled, as a somewhat worried[r]
-atmosphere began to drift around us.[pcms]
+Perhaps my expression made them even more puzzled, as a[r]
+somewhat worried atmosphere began to drift around us.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -176,8 +186,9 @@ atmosphere began to drift around us.[pcms]
 
 *444|
 [fc]
-Without organizing my confused thoughts, I forced myself to accept the situation[r]
-and then threw a straightforward question at them.[pcms]
+Without organizing my confused thoughts, I forced myself to[r]
+accept the situation and then threw a straightforward[r]
+question at them.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -188,8 +199,8 @@ and then threw a straightforward question at them.[pcms]
 
 *446|
 [fc]
-A perfectly reasonable response came back. Indeed, from an outsider's[r]
-perspective, that might be so...[pcms]
+A perfectly reasonable response came back. Indeed, from an[r]
+outsider's perspective, that might be so...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -203,8 +214,9 @@ perspective, that might be so...[pcms]
 
 *448|
 [fc]
-Feeling suddenly embarrassed about all the resolve I had mustered, I got down[r]
-from the deck's handrail and stood in front of them.[pcms]
+Feeling suddenly embarrassed about all the resolve I had[r]
+mustered, I got down from the deck's handrail and stood in[r]
+front of them.[pcms]
 
 ;//@konya ビルの谷間
 ;//<ChrInit>
@@ -248,7 +260,8 @@ Suddenly, something warm surged up to my eyes.[pcms]
 
 *455|
 [fc]
-The two of them said that while also seeming relieved that I was safe.[pcms]
+The two of them said that while also seeming relieved that I[r]
+was safe.[pcms]
 
 *456|
 [fc]
@@ -260,8 +273,8 @@ The two of them said that while also seeming relieved that I was safe.[pcms]
 *457|
 [fc]
 [ns]Kousuke[nse]
-"No clue. We were playing at the arcade, but then those guys suddenly showed up[r]
-so we ran away."[pcms]
+"No clue. We were playing at the arcade, but then those guys[r]
+suddenly showed up so we ran away."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -281,13 +294,13 @@ so we ran away."[pcms]
 *460|
 [fc]
 [ns]Wataru[nse]
-"I see... Probably everyone else is either caught or hiding. We need to go help[r]
-them right away."[pcms]
+"I see... Probably everyone else is either caught or hiding.[r]
+We need to go help them right away."[pcms]
 
 *461|
 [fc]
-Kousuke looked at me with a complex expression and then glanced over at Mizuki[r]
-next to him.[pcms]
+Kousuke looked at me with a complex expression and then[r]
+glanced over at Mizuki next to him.[pcms]
 
 *462|
 [fc]
@@ -296,8 +309,8 @@ Mizuki also had a gloomy look on her face.[pcms]
 *463|
 [fc]
 [ns]Wataru[nse]
-"If the three of us work together, we can surely manage something. If we climb[r]
-this ladder, we can go to any floor."[pcms]
+"If the three of us work together, we can surely manage[r]
+something. If we climb this ladder, we can go to any floor."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -308,7 +321,8 @@ this ladder, we can go to any floor."[pcms]
 
 *465|
 [fc]
-Kousuke glanced at the ladder and seemed to have something he wanted to say.[pcms]
+Kousuke glanced at the ladder and seemed to have something[r]
+he wanted to say.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -333,8 +347,9 @@ If we encounter those men, it might turn into a shootout.[pcms]
 
 *470|
 [fc]
-While trying to avoid that, if there are any captured comrades, we have no[r]
-choice but to search for and rescue them...[pcms]
+While trying to avoid that, if there are any captured[r]
+comrades, we have no choice but to search for and rescue[r]
+them...[pcms]
 
 *471|
 [fc]
@@ -349,8 +364,9 @@ With his usual cheerful smile, he slapped my shoulder hard.[pcms]
 *473|
 [fc]
 [ns]Kousuke[nse]
-"Alright, let's plan our strategy. It's dangerous to stay here since we don't[r]
-know when they'll find us. Let's have a strategy meeting at 'Dedepou'."[pcms]
+"Alright, let's plan our strategy. It's dangerous to stay[r]
+here since we don't know when they'll find us. Let's have a[r]
+strategy meeting at 'Dedepou'."[pcms]
 
 *474|
 [fc]
@@ -359,12 +375,13 @@ know when they'll find us. Let's have a strategy meeting at 'Dedepou'."[pcms]
 
 *475|
 [fc]
-With no plan as of now, it might be difficult to save everyone.[pcms]
+With no plan as of now, it might be difficult to save[r]
+everyone.[pcms]
 
 *476|
 [fc]
-Thinking of the captured comrades, we can't afford to take our time, but if we[r]
-get caught too, it's all over.[pcms]
+Thinking of the captured comrades, we can't afford to take[r]
+our time, but if we get caught too, it's all over.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -410,7 +427,8 @@ Please be safe until we return, everyone.[pcms]
 
 *481|
 [fc]
-Back at Dedepou, we started discussing with our heads together.[pcms]
+Back at Dedepou, we started discussing with our heads[r]
+together.[pcms]
 
 *482|
 [fc]
@@ -423,8 +441,8 @@ We came back to Dedepou to discuss how to do that.[pcms]
 *484|
 [fc]
 [ns]Wataru[nse]
-"Kousuke has been acting like this doesn't concern him... It's just my[r]
-imagination, right?"[pcms]
+"Kousuke has been acting like this doesn't concern him...[r]
+It's just my imagination, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -439,13 +457,15 @@ imagination, right?"[pcms]
 *486|
 [fc]
 [ns]Kousuke[nse]
-"You're sharper than usual, Wataru. ...Alright, I'll be clear. Going to save[r]
-everyone in this situation is like a suicide mission."[pcms]
+"You're sharper than usual, Wataru. ...Alright, I'll be[r]
+clear. Going to save everyone in this situation is like a[r]
+suicide mission."[pcms]
 
 *487|
 [fc]
 [ns]Wataru[nse]
-"That might be true, but is it okay for everyone else to just suffer?!"[pcms]
+"That might be true, but is it okay for everyone else to[r]
+just suffer?!"[pcms]
 
 *488|
 [fc]
@@ -460,8 +480,8 @@ That gesture slightly irritated me.[pcms]
 *490|
 [fc]
 [ns]Kousuke[nse]
-"Of course, I'd want to help if I could. But do you know how many of them there[r]
-are? We can't possibly stand a chance."[pcms]
+"Of course, I'd want to help if I could. But do you know how[r]
+many of them there are? We can't possibly stand a chance."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -469,8 +489,8 @@ are? We can't possibly stand a chance."[pcms]
 [fc]
 [vo_miz s="mizuki_BE0009"]
 [ns]Mizuki[nse]
-"Wataru might not know, but those guys are professionals at rough stuff. They're[r]
-not someone we can handle."[pcms]
+"Wataru might not know, but those guys are professionals at[r]
+rough stuff. They're not someone we can handle."[pcms]
 
 *492|
 [fc]
@@ -482,15 +502,16 @@ So she must know well how terrifying they are.[pcms]
 
 *494|
 [fc]
-But the more I thought about it, the more I felt an urge to save everyone as[r]
-soon as possible.[pcms]
+But the more I thought about it, the more I felt an urge to[r]
+save everyone as soon as possible.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *495|
 [fc]
 [ns]Kousuke[nse]
-"With things as they are now, rescuing them will be difficult."[pcms]
+"With things as they are now, rescuing them will be[r]
+difficult."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -498,8 +519,9 @@ soon as possible.[pcms]
 [fc]
 [vo_miz s="mizuki_BE0010"]
 [ns]Mizuki[nse]
-"It's good that at least we managed to escape. Maybe it's better if we just run[r]
-away... I think everyone would be happy with that too..."[pcms]
+"It's good that at least we managed to escape. Maybe it's[r]
+better if we just run away... I think everyone would be[r]
+happy with that too..."[pcms]
 
 *497|
 [fc]
@@ -553,7 +575,8 @@ This would literally be a life-threatening action.[pcms]
 
 *506|
 [fc]
-I started feeling bad about dragging the two of them into this.[pcms]
+I started feeling bad about dragging the two of them into[r]
+this.[pcms]
 
 *507|
 [fc]
@@ -573,34 +596,36 @@ I started feeling bad about dragging the two of them into this.[pcms]
 [fc]
 [vo_miz s="mizuki_BE0012"]
 [ns]Mizuki[nse]
-"Besides, there's the future to think about too, right? After escaping from[r]
-LASER, how are we going to live... We can't just worry about others all the[r]
-time."[pcms]
+"Besides, there's the future to think about too, right?[r]
+After escaping from LASER, how are we going to live... We[r]
+can't just worry about others all the time."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *510|
 [fc]
 [ns]Kousuke[nse]
-"Like Mizuki said, everyone else probably doesn't want to trouble Wataru[r]
-either."[pcms]
+"Like Mizuki said, everyone else probably doesn't want to[r]
+trouble Wataru either."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *511|
 [fc]
 [ns]Kousuke[nse]
-"If you were caught by them, would you want Ren-chan to do something reckless[r]
-for you?"[pcms]
+"If you were caught by them, would you want Ren-chan to do[r]
+something reckless for you?"[pcms]
 
 *512|
 [fc]
-I wouldn't want Ren, who is physically weak, to overexert herself.[pcms]
+I wouldn't want Ren, who is physically weak, to overexert[r]
+herself.[pcms]
 
 *513|
 [fc]
-Even Yuuho and the seniors, who are much more physically trained than me, I[r]
-would want them to run away rather than come to help.[pcms]
+Even Yuuho and the seniors, who are much more physically[r]
+trained than me, I would want them to run away rather than[r]
+come to help.[pcms]
 
 *514|
 [fc]
@@ -632,7 +657,8 @@ It's not just a matter of logic.[pcms]
 
 *519|
 [fc]
-I probably wasn't able to balance my words and expressions right now.[pcms]
+I probably wasn't able to balance my words and expressions[r]
+right now.[pcms]
 
 *520|
 [fc]
@@ -643,12 +669,13 @@ The faces of Kousuke and Mizuki seemed to say that.[pcms]
 *521|
 [fc]
 [ns]Wataru[nse]
-"I'm sorry for dragging you two into this. Let's make sure we survive and meet[r]
-again somewhere."[pcms]
+"I'm sorry for dragging you two into this. Let's make sure[r]
+we survive and meet again somewhere."[pcms]
 
 *522|
 [fc]
-No matter what anyone says, I'm prepared to go save everyone.[pcms]
+No matter what anyone says, I'm prepared to go save[r]
+everyone.[pcms]
 
 *523|
 [fc]
@@ -660,8 +687,8 @@ I couldn't stand in the way of that here.[pcms]
 
 *525|
 [fc]
-I would have liked for all of us to work together and live, but that's just my[r]
-selfishness.[pcms]
+I would have liked for all of us to work together and live,[r]
+but that's just my selfishness.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -672,16 +699,16 @@ selfishness.[pcms]
 
 *527|
 [fc]
-Kousuke suddenly started scratching his head frantically, letting out a scream-[r]
-like voice.[pcms]
+Kousuke suddenly started scratching his head frantically,[r]
+letting out a scream- like voice.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *528|
 [fc]
 [ns]Kousuke[nse]
-"I'm telling you it's impossible! If they get their hands on you, you'll be torn[r]
-apart in 5 seconds!"[pcms]
+"I'm telling you it's impossible! If they get their hands on[r]
+you, you'll be torn apart in 5 seconds!"[pcms]
 
 *529|
 [fc]
@@ -712,7 +739,8 @@ I can't give in here.[pcms]
 *534|
 [fc]
 [ns]Wataru[nse]
-"Yeah... maybe, but I don't intend to just sit back and take it either."[pcms]
+"Yeah... maybe, but I don't intend to just sit back and take[r]
+it either."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f2"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -750,7 +778,8 @@ Mizuki seemed to be deep in thought for a moment.[pcms]
 
 *540|
 [fc]
-Kousuke made a disgusted face as if he had sensed something from Mizuki.[pcms]
+Kousuke made a disgusted face as if he had sensed something[r]
+from Mizuki.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -765,11 +794,13 @@ Kousuke made a disgusted face as if he had sensed something from Mizuki.[pcms]
 *542|
 [fc]
 [ns]Kousuke[nse]
-"Wataru isn't normal right now. Don't start saying weird things too, Mizuki."[pcms]
+"Wataru isn't normal right now. Don't start saying weird[r]
+things too, Mizuki."[pcms]
 
 *543|
 [fc]
-After a moment of thought, Mizuki turned a pleading gaze towards Kousuke.[pcms]
+After a moment of thought, Mizuki turned a pleading gaze[r]
+towards Kousuke.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -777,15 +808,16 @@ After a moment of thought, Mizuki turned a pleading gaze towards Kousuke.[pcms]
 [fc]
 [vo_miz s="mizuki_BE0018"]
 [ns]Mizuki[nse]
-"Isn't there a way to save everyone without pushing ourselves too hard?"[pcms]
+"Isn't there a way to save everyone without pushing[r]
+ourselves too hard?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *545|
 [fc]
 [ns]Kousuke[nse]
-"That's exactly the kind of impulsive thinking that's a bad habit of yours,[r]
-Mizuki!"[pcms]
+"That's exactly the kind of impulsive thinking that's a bad[r]
+habit of yours, Mizuki!"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -793,8 +825,8 @@ Mizuki!"[pcms]
 [fc]
 [vo_miz s="mizuki_BE0019"]
 [ns]Mizuki[nse]
-"If we fail, we should just come up with a plan that allows us to escape[r]
-quickly."[pcms]
+"If we fail, we should just come up with a plan that allows[r]
+us to escape quickly."[pcms]
 
 *547|
 [fc]
@@ -825,13 +857,13 @@ It seemed like Mizuki was agreeing with my thoughts.[pcms]
 *551|
 [fc]
 [ns]Kousuke[nse]
-"That's why I'm saying it's impossible. If you're worried about Wataru, you[r]
-shouldn't let him go to LASER."[pcms]
+"That's why I'm saying it's impossible. If you're worried[r]
+about Wataru, you shouldn't let him go to LASER."[pcms]
 
 *552|
 [fc]
-Without trying to hide his inner frustration, Kousuke pressed Mizuki with a[r]
-raised tone.[pcms]
+Without trying to hide his inner frustration, Kousuke[r]
+pressed Mizuki with a raised tone.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -854,7 +886,8 @@ But Mizuki was completely unfazed.[pcms]
 
 *556|
 [fc]
-Instead, it was Kousuke who fell silent under Mizuki's steady gaze.[pcms]
+Instead, it was Kousuke who fell silent under Mizuki's[r]
+steady gaze.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -902,22 +935,23 @@ It was just before dawn.[pcms]
 
 *563|
 [fc]
-We began our actions at this time, as if to ambush the men in their sleep.[pcms]
+We began our actions at this time, as if to ambush the men[r]
+in their sleep.[pcms]
 
 *564|
 [fc]
-I don't know if this time is suitable for a surprise attack for modern people[r]
-accustomed to staying up late.[pcms]
+I don't know if this time is suitable for a surprise attack[r]
+for modern people accustomed to staying up late.[pcms]
 
 *565|
 [fc]
-But we had to take what seemed to be the best course of action to get the[r]
-cooperation of the two.[pcms]
+But we had to take what seemed to be the best course of[r]
+action to get the cooperation of the two.[pcms]
 
 *566|
 [fc]
-I really wanted to go help right away, but the premise of the strategy was to[r]
-make sure we didn't get caught...[pcms]
+I really wanted to go help right away, but the premise of[r]
+the strategy was to make sure we didn't get caught...[pcms]
 
 *567|
 [fc]
@@ -929,8 +963,8 @@ They're just worried about me.[pcms]
 
 *569|
 [fc]
-And I think my judgment is dulled because my mind is so preoccupied with saving[r]
-everyone.[pcms]
+And I think my judgment is dulled because my mind is so[r]
+preoccupied with saving everyone.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -969,18 +1003,21 @@ everyone.[pcms]
 
 *574|
 [fc]
-Once we left the 'depot', we had reached the catwalk on the second floor.[pcms]
+Once we left the 'depot', we had reached the catwalk on the[r]
+second floor.[pcms]
 
 *575|
 [fc]
-Shibuya before dawn didn't seem much different from before all this happened.[pcms]
+Shibuya before dawn didn't seem much different from before[r]
+all this happened.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *576|
 [fc]
 [ns]Kousuke[nse]
-"Alright, the lock on the spiral staircase is open. This is perfect."[pcms]
+"Alright, the lock on the spiral staircase is open. This is[r]
+perfect."[pcms]
 ;//○（小声で）
 
 *577|
@@ -989,19 +1026,21 @@ Kousuke gestured to us with his finger.[pcms]
 
 *578|
 [fc]
-If the spiral staircase connecting to the catwalk had been locked, we planned to[r]
-head towards the emergency exit on a deserted floor, but it seemed we were in[r]
-luck.[pcms]
+If the spiral staircase connecting to the catwalk had been[r]
+locked, we planned to head towards the emergency exit on a[r]
+deserted floor, but it seemed we were in luck.[pcms]
 
 *579|
 [fc]
-Since it was open when Kousuke and Mizuki used it yesterday, I thought it would[r]
-be fine, but there's always a chance of something unexpected.[pcms]
+Since it was open when Kousuke and Mizuki used it yesterday,[r]
+I thought it would be fine, but there's always a chance of[r]
+something unexpected.[pcms]
 
 *580|
 [fc]
-Heading towards the tower's spiral staircase that the two had come through, we[r]
-then descended to the basement first floor.[pcms]
+Heading towards the tower's spiral staircase that the two[r]
+had come through, we then descended to the basement first[r]
+floor.[pcms]
 
 ;//★_１F内部の画像
 [bg storage="BG08g"][trans_c cross time=500]
@@ -1017,17 +1056,18 @@ On the basement first floor is the arcade CONTINUE.[pcms]
 
 *582|
 [fc]
-If we were going to encounter the men, I thought it would be here, and sure[r]
-enough, there seemed to be a few playing.[pcms]
+If we were going to encounter the men, I thought it would be[r]
+here, and sure enough, there seemed to be a few playing.[pcms]
 
 *583|
 [fc]
-They appeared to be engrossed in their games and hadn't noticed us.[pcms]
+They appeared to be engrossed in their games and hadn't[r]
+noticed us.[pcms]
 
 *584|
 [fc]
-We quickly locked the door so as not to be found by the men and moved to the[r]
-first floor.[pcms]
+We quickly locked the door so as not to be found by the men[r]
+and moved to the first floor.[pcms]
 
 ;//@konya LASER内部
 [bg storage="BG08g"][trans_c cross time=500]
@@ -1035,23 +1075,27 @@ first floor.[pcms]
 
 *585|
 [fc]
-The spiral staircase that connects from the basement first floor to the seventh[r]
-floor, a symbolic installation of LASER, can only be entered from the basement[r]
-first floor and seventh floor.[pcms]
+The spiral staircase that connects from the basement first[r]
+floor to the seventh floor, a symbolic installation of[r]
+LASER, can only be entered from the basement first floor and[r]
+seventh floor.[pcms]
 
 *586|
 [fc]
-In other words, if we locked the door on the first-floor section, the men[r]
-wouldn't be able to use the spiral staircase.[pcms]
+In other words, if we locked the door on the first-floor[r]
+section, the men wouldn't be able to use the spiral[r]
+staircase.[pcms]
 
 *587|
 [fc]
-If we sealed off the spiral staircase that directly connects inside LASER, all[r]
-that was left was to lock each floor's fire doors and emergency exits.[pcms]
+If we sealed off the spiral staircase that directly connects[r]
+inside LASER, all that was left was to lock each floor's[r]
+fire doors and emergency exits.[pcms]
 
 *588|
 [fc]
-By doing this, we should be able to guide the men's actions in various ways.[pcms]
+By doing this, we should be able to guide the men's actions[r]
+in various ways.[pcms]
 
 *589|
 [fc]
@@ -1059,11 +1103,13 @@ This would make Kousuke's strategy much more effective.[pcms]
 
 *590|
 [fc]
-The crux of Kousuke's strategy was to pit the infected against the men.[pcms]
+The crux of Kousuke's strategy was to pit the infected[r]
+against the men.[pcms]
 
 *591|
 [fc]
-Certainly, it seemed far better than us dealing with them ourselves.[pcms]
+Certainly, it seemed far better than us dealing with them[r]
+ourselves.[pcms]
 
 *592|
 [fc]
@@ -1071,26 +1117,29 @@ It's such a simple idea, yet I hadn't thought of it.[pcms]
 
 *593|
 [fc]
-In this tense situation, Kousuke's ability to think calmly is truly amazing.[pcms]
+In this tense situation, Kousuke's ability to think calmly[r]
+is truly amazing.[pcms]
 
 *594|
 [fc]
-I always thought he was an incredible guy, but now he's proven himself to be the[r]
-real deal.[pcms]
+I always thought he was an incredible guy, but now he's[r]
+proven himself to be the real deal.[pcms]
 
 *595|
 [fc]
-While the men are busy fighting with the infected, if we close the door to the[r]
-staircase, they won't be able to come back up.[pcms]
+While the men are busy fighting with the infected, if we[r]
+close the door to the staircase, they won't be able to come[r]
+back up.[pcms]
 
 *596|
 [fc]
-We'll take that opportunity to rescue everyone and return to 'depot', then[r]
-escape via the river.[pcms]
+We'll take that opportunity to rescue everyone and return to[r]
+'depot', then escape via the river.[pcms]
 
 *597|
 [fc]
-This plan is far superior to charging in without any strategy.[pcms]
+This plan is far superior to charging in without any[r]
+strategy.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1102,18 +1151,19 @@ This plan is far superior to charging in without any strategy.[pcms]
 
 *599|
 [fc]
-We moved to the first floor without being spotted by the men and snuck into the[r]
-security room from an unmanned hall in the backyard.[pcms]
+We moved to the first floor without being spotted by the men[r]
+and snuck into the security room from an unmanned hall in[r]
+the backyard.[pcms]
 
 *600|
 [fc]
-The monitors in the security room showed the tragic state of shutters destroyed[r]
-by the men.[pcms]
+The monitors in the security room showed the tragic state of[r]
+shutters destroyed by the men.[pcms]
 
 *601|
 [fc]
-But fortunately, they seemed to still be fulfilling their role in keeping out[r]
-the infected from outside.[pcms]
+But fortunately, they seemed to still be fulfilling their[r]
+role in keeping out the infected from outside.[pcms]
 
 *602|
 [fc]
@@ -1128,33 +1178,35 @@ Maybe the men even went easy on them with that intention.[pcms]
 
 *604|
 [fc]
-Kousuke tossed me an intercom they had used on the first day.[pcms]
+Kousuke tossed me an intercom they had used on the first[r]
+day.[pcms]
 
 *605|
 [fc]
-We each equipped an intercom and decided to split up here as planned.[pcms]
+We each equipped an intercom and decided to split up here as[r]
+planned.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *606|
 [fc]
 [ns]Kousuke[nse]
-"Wataru, make sure you stick to the plan. Any reckless moves could put everyone[r]
-in danger."[pcms]
+"Wataru, make sure you stick to the plan. Any reckless moves[r]
+could put everyone in danger."[pcms]
 
 *607|
 [fc]
 [ns]Wataru[nse]
-"I know. And Kousuke, don't go fighting recklessly just because you want to use[r]
-your gun."[pcms]
+"I know. And Kousuke, don't go fighting recklessly just[r]
+because you want to use your gun."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *608|
 [fc]
 [ns]Kousuke[nse]
-"Not fighting is the key to this strategy. Let those guys enjoy playing with the[r]
-infected as much as they want."[pcms]
+"Not fighting is the key to this strategy. Let those guys[r]
+enjoy playing with the infected as much as they want."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -1162,7 +1214,8 @@ infected as much as they want."[pcms]
 [fc]
 [vo_miz s="mizuki_BE0024"]
 [ns]Mizuki[nse]
-"Okay okay, enough chit-chat. Both of you be careful, alright?"[pcms]
+"Okay okay, enough chit-chat. Both of you be careful,[r]
+alright?"[pcms]
 
 *610|
 [fc]
@@ -1174,8 +1227,8 @@ infected as much as they want."[pcms]
 *611|
 [fc]
 [ns]Kousuke[nse]
-"If things get really dangerous, just surrender honestly. Jin and even that fat[r]
-guy won't kill Mizuki."[pcms]
+"If things get really dangerous, just surrender honestly.[r]
+Jin and even that fat guy won't kill Mizuki."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -1183,14 +1236,15 @@ guy won't kill Mizuki."[pcms]
 [fc]
 [vo_miz s="mizuki_BE0025"]
 [ns]Mizuki[nse]
-"Don't worry, I know a lot of the guys, and I can handle myself well."[pcms]
+"Don't worry, I know a lot of the guys, and I can handle[r]
+myself well."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *613|
 [fc]
-Kousuke still looked worried, but Mizuki pushed him out of the security room as[r]
-if to chase him away.[pcms]
+Kousuke still looked worried, but Mizuki pushed him out of[r]
+the security room as if to chase him away.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1213,8 +1267,9 @@ if to chase him away.[pcms]
 *616|
 [fc]
 [ns]Kousuke[nse]
-"I'm going to go up the emergency stairs on the hall side, closing the fire[r]
-doors and locking them from the stair side as I go."[pcms]
+"I'm going to go up the emergency stairs on the hall side,[r]
+closing the fire doors and locking them from the stair side[r]
+as I go."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -1230,16 +1285,17 @@ doors and locking them from the stair side as I go."[pcms]
 *618|
 [fc]
 [ns]Wataru[nse]
-"I'm supposed to go up the emergency stairs on the delivery entrance side,[r]
-right?"[pcms]
+"I'm supposed to go up the emergency stairs on the delivery[r]
+entrance side, right?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *619|
 [fc]
 [ns]Kousuke[nse]
-"That's right. We know the LASER building like the back of our hand, probably[r]
-better than those guys. We can definitely outsmart them."[pcms]
+"That's right. We know the LASER building like the back of[r]
+our hand, probably better than those guys. We can definitely[r]
+outsmart them."[pcms]
 
 *620|
 [fc]
@@ -1264,16 +1320,16 @@ better than those guys. We can definitely outsmart them."[pcms]
 [fc]
 [vo_miz s="mizuki_BE0028"]
 [ns]Mizuki[nse]
-"Don't worry, I'll just be navigating you two with the security cameras from[r]
-here."[pcms]
+"Don't worry, I'll just be navigating you two with the[r]
+security cameras from here."[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 [chara_int][trans_c cross time=150]
 
 *624|
 [fc]
-When I looked at Kousuke, he ran off toward the emergency stairs on the hall[r]
-side as if to say he's got this.[pcms]
+When I looked at Kousuke, he ran off toward the emergency[r]
+stairs on the hall side as if to say he's got this.[pcms]
 
 *625|
 [fc]
@@ -1292,8 +1348,8 @@ Wait for me, everyone.[pcms]
 
 *627|
 [fc]
-I went up the emergency stairs on the delivery entrance side and checked out the[r]
-surroundings.[pcms]
+I went up the emergency stairs on the delivery entrance side[r]
+and checked out the surroundings.[pcms]
 
 *628|
 [fc]
@@ -1302,7 +1358,8 @@ surroundings.[pcms]
 *629|
 [fc]
 [ns]Wataru[nse]
-"Mizuki, is there anyone at the emergency exit on the second floor?"[pcms]
+"Mizuki, is there anyone at the emergency exit on the second[r]
+floor?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -1310,8 +1367,8 @@ surroundings.[pcms]
 [fc]
 [vo_miz s="mizuki_BE0029"]
 [ns]Mizuki[nse]
-"All clear, it looks like there's no one on either the delivery entrance or hall[r]
-side."[pcms]
+"All clear, it looks like there's no one on either the[r]
+delivery entrance or hall side."[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *631|
@@ -1321,13 +1378,14 @@ side."[pcms]
 
 *632|
 [fc]
-Still being cautious, I closed the fire door on the second floor and locked it[r]
-from the stair side.[pcms]
+Still being cautious, I closed the fire door on the second[r]
+floor and locked it from the stair side.[pcms]
 
 *633|
 [fc]
-I thought the men might notice, but it seems no one realized that a door in a[r]
-corner of the vast LASER building had closed.[pcms]
+I thought the men might notice, but it seems no one realized[r]
+that a door in a corner of the vast LASER building had[r]
+closed.[pcms]
 
 *634|
 [fc]
@@ -1351,13 +1409,13 @@ corner of the vast LASER building had closed.[pcms]
 
 *637|
 [fc]
-By closing the fire doors in the emergency stairs like this, the men in the[r]
-stores won't be able to enter the stairs.[pcms]
+By closing the fire doors in the emergency stairs like this,[r]
+the men in the stores won't be able to enter the stairs.[pcms]
 
 *638|
 [fc]
-If we seal off both the spiral staircase and emergency stairs, then we can[r]
-control everything from there.[pcms]
+If we seal off both the spiral staircase and emergency[r]
+stairs, then we can control everything from there.[pcms]
 
 *639|
 [fc]
@@ -1369,8 +1427,8 @@ Our plan was progressing surprisingly smoothly.[pcms]
 
 *641|
 [fc]
-We locked the fire doors one after another on the third floor, fourth floor, and[r]
-so on.[pcms]
+We locked the fire doors one after another on the third[r]
+floor, fourth floor, and so on.[pcms]
 
 ;//@konya LESAR エレベータ
 [bg storage="BG120"][trans_c cross time=500]
@@ -1378,13 +1436,14 @@ so on.[pcms]
 
 *642|
 [fc]
-When I reached the top floor's emergency stairs on the delivery entrance side, I[r]
-waited there.[pcms]
+When I reached the top floor's emergency stairs on the[r]
+delivery entrance side, I waited there.[pcms]
 
 *643|
 [fc]
 [ns]Wataru[nse]
-"I've reached the seventh floor; I'll stay put here for now."[pcms]
+"I've reached the seventh floor; I'll stay put here for[r]
+now."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1401,8 +1460,8 @@ waited there.[pcms]
 
 *646|
 [fc]
-Kousuke will now return to the first floor and lock the fire door on the[r]
-backyard side.[pcms]
+Kousuke will now return to the first floor and lock the fire[r]
+door on the backyard side.[pcms]
 
 *647|
 [fc]
@@ -1410,49 +1469,58 @@ Inokashira street entrance and elevator entrance.[pcms]
 
 *648|
 [fc]
-The plan is to raise the shutters and sound an emergency alarm.[pcms]
+The plan is to raise the shutters and sound an emergency[r]
+alarm.[pcms]
 
 *649|
 [fc]
-This way, infected drawn by the noise will enter the hall, and the men will[r]
-notice something is wrong and start fighting.[pcms]
+This way, infected drawn by the noise will enter the hall,[r]
+and the men will notice something is wrong and start[r]
+fighting.[pcms]
 
 *650|
 [fc]
-Kousuke and Mizuki will ignore the incoming infected and head back to lock the[r]
-passage connecting the hall and backyard from the security room.[pcms]
+Kousuke and Mizuki will ignore the incoming infected and[r]
+head back to lock the passage connecting the hall and[r]
+backyard from the security room.[pcms]
 
 *651|
 [fc]
-Then they'll meet up with me using the emergency stairs on the delivery entrance[r]
-side that I came up, on the seventh floor.[pcms]
+Then they'll meet up with me using the emergency stairs on[r]
+the delivery entrance side that I came up, on the seventh[r]
+floor.[pcms]
 
 *652|
 [fc]
-The men will probably be fighting back in the first-floor hall or second-floor[r]
-atrium, so during that distraction, we'll enter from the seventh floor and lock[r]
-the hall side emergency stairs that Kousuke closed from the store side.[pcms]
+The men will probably be fighting back in the first-floor[r]
+hall or second-floor atrium, so during that distraction,[r]
+we'll enter from the seventh floor and lock the hall side[r]
+emergency stairs that Kousuke closed from the store side.[pcms]
 
 *653|
 [fc]
-We'll make it so they can't come back through the emergency stairs.[pcms]
+We'll make it so they can't come back through the emergency[r]
+stairs.[pcms]
 
 *654|
 [fc]
-The spiral staircase on the seventh floor is already sealed off, so we'll just[r]
-return to 'Dedepou' and escape Shibuya via the river.[pcms]
+The spiral staircase on the seventh floor is already sealed[r]
+off, so we'll just return to 'Dedepou' and escape Shibuya[r]
+via the river.[pcms]
 
 *655|
 [fc]
-The elevator is still operational so we can't be completely at ease, but we[r]
-should have enough time to rescue everyone and escape.[pcms]
+The elevator is still operational so we can't be completely[r]
+at ease, but we should have enough time to rescue everyone[r]
+and escape.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *656|
 [fc]
 [ns]Kousuke[nse]
-"I'm back on the first floor; now closing the backyard side fire door."[pcms]
+"I'm back on the first floor; now closing the backyard side[r]
+fire door."[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -1466,7 +1534,8 @@ should have enough time to rescue everyone and escape.[pcms]
 
 *658|
 [fc]
-After this, Kousuke is supposed to meet up with Mizuki in the security room.[pcms]
+After this, Kousuke is supposed to meet up with Mizuki in[r]
+the security room.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1551,20 +1620,21 @@ I'm a little surprised at how well everything is going.[pcms]
 
 *666|
 [fc]
-If this continues, we might be able to save everyone just as Wataru hoped.[pcms]
+If this continues, we might be able to save everyone just as[r]
+Wataru hoped.[pcms]
 
 *667|
 [fc]
-I opened the fire door on the first floor hall side and immediately headed[r]
-towards the elevator entrance.[pcms]
+I opened the fire door on the first floor hall side and[r]
+immediately headed towards the elevator entrance.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *668|
 [fc]
 [ns]Kousuke[nse]
-"I've reached the entrance on the Inokashira street side, now I'm going to open[r]
-the shutter."[pcms]
+"I've reached the entrance on the Inokashira street side,[r]
+now I'm going to open the shutter."[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *669|
@@ -1610,8 +1680,9 @@ the shutter."[pcms]
 
 *674|
 [fc]
-When I arrived in front of the elevator entrance, I saw the battered shutter and[r]
-the dark curtains that were torn off here and there.[pcms]
+When I arrived in front of the elevator entrance, I saw the[r]
+battered shutter and the dark curtains that were torn off[r]
+here and there.[pcms]
 
 *675|
 [fc]
@@ -1619,7 +1690,8 @@ They've been so rough...[pcms]
 
 *676|
 [fc]
-I hurriedly tore off all the dark curtains and opened the shutter.[pcms]
+I hurriedly tore off all the dark curtains and opened the[r]
+shutter.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -1667,8 +1739,8 @@ I quickly retraced my steps and headed towards the backyard.[pcms]
 
 *684|
 [fc]
-After running for just a few seconds, I could see Kousuke standing at the[r]
-entrance to the backyard.[pcms]
+After running for just a few seconds, I could see Kousuke[r]
+standing at the entrance to the backyard.[pcms]
 
 *685|
 [fc]
@@ -1723,7 +1795,8 @@ Kousuke's face suddenly twisted into a grimace.[pcms]
 
 *691|
 [fc]
-I was pushed by a man who burst out of the game center entrance.[pcms]
+I was pushed by a man who burst out of the game center[r]
+entrance.[pcms]
 
 *692|
 [fc]
@@ -1748,7 +1821,8 @@ Unable to brace myself, I tumbled to the floor with force.[pcms]
 
 *694|
 [fc]
-Kousuke's gun missed the man and instead put a hole in the glass behind him.[pcms]
+Kousuke's gun missed the man and instead put a hole in the[r]
+glass behind him.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -1764,8 +1838,8 @@ The man was aiming his gun at Kousuke to shoot him.[pcms]
 
 *697|
 [fc]
-I desperately clung to the man's legs, putting all my strength into my arms to[r]
-disrupt his aim.[pcms]
+I desperately clung to the man's legs, putting all my[r]
+strength into my arms to disrupt his aim.[pcms]
 
 *698|
 [fc]
@@ -1883,7 +1957,8 @@ All I could think about was Kousuke as I clung to the man.[pcms]
 
 *707|
 [fc]
-I couldn't hear the gunshots or the sound of breaking glass anymore.[pcms]
+I couldn't hear the gunshots or the sound of breaking glass[r]
+anymore.[pcms]
 
 *708|
 [fc]
@@ -1899,8 +1974,9 @@ All for Kousuke's sake, I kept clinging to the man's legs.[pcms]
 *710|
 [fc]
 [ns]Kousuke[nse]
-"It's okay, it's over now. We were spotted by one guy but it doesn't matter[r]
-since we're about to sound the alarm anyway. No problem."[pcms]
+"It's okay, it's over now. We were spotted by one guy but it[r]
+doesn't matter since we're about to sound the alarm anyway.[r]
+No problem."[pcms]
 
 *711|
 [fc]
@@ -1924,7 +2000,8 @@ Eh... Kousuke?[pcms]
 *714|
 [fc]
 [ns]Kousuke[nse]
-"She seems fine, Mizuki helped by getting in the man's way. It saved us."[pcms]
+"She seems fine, Mizuki helped by getting in the man's way.[r]
+It saved us."[pcms]
 
 *715|
 [fc]
@@ -1948,7 +2025,8 @@ I found myself staring intently at what I was clinging to.[pcms]
 
 *719|
 [fc]
-Seeing the man covered in blood, I instinctively jumped back.[pcms]
+Seeing the man covered in blood, I instinctively jumped[r]
+back.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1963,8 +2041,8 @@ Kousuke turned his gaze outside.[pcms]
 
 *722|
 [fc]
-There, through the shattered glass door from the gunfire, I could see the[r]
-infected pouring in.[pcms]
+There, through the shattered glass door from the gunfire, I[r]
+could see the infected pouring in.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -2025,7 +2103,8 @@ I started running towards the backyard with Kousuke.[pcms]
 
 *732|
 [fc]
-Looking back, I saw a crowd of infected pushing their way in.[pcms]
+Looking back, I saw a crowd of infected pushing their way[r]
+in.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -2084,7 +2163,8 @@ That choker is something very important to me...[pcms]
 
 *743|
 [fc]
-Picking up the four-leaf part from the floor, I immediately turned on my heel.[pcms]
+Picking up the four-leaf part from the floor, I immediately[r]
+turned on my heel.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -2133,12 +2213,13 @@ All the while, Wataru kept calling out to me.[pcms]
 
 *754|
 [fc]
-We were supposed to hide on the 7th floor, yet he raised his voice so much...[pcms]
+We were supposed to hide on the 7th floor, yet he raised his[r]
+voice so much...[pcms]
 
 *755|
 [fc]
-And after some time had passed, we were being jostled by the infected as we[r]
-moved inside the arcade.[pcms]
+And after some time had passed, we were being jostled by the[r]
+infected as we moved inside the arcade.[pcms]
 
 ;//★_クロミ
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -2165,13 +2246,13 @@ moved inside the arcade.[pcms]
 
 *758|
 [fc]
-We locked the door connecting the arcade and the hall to prevent the infected[r]
-from entering.[pcms]
+We locked the door connecting the arcade and the hall to[r]
+prevent the infected from entering.[pcms]
 
 *759|
 [fc]
-The men who had been playing in the arcade until just now were nowhere to be[r]
-seen.[pcms]
+The men who had been playing in the arcade until just now[r]
+were nowhere to be seen.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -2196,7 +2277,8 @@ seen.[pcms]
 
 *763|
 [fc]
-Kousuke, with a troubled yet smiling face, extended his arm for me to see.[pcms]
+Kousuke, with a troubled yet smiling face, extended his arm[r]
+for me to see.[pcms]
 
 *764|
 [fc]
@@ -2220,12 +2302,13 @@ I showed Kousuke the scratch marks on my knee.[pcms]
 
 *769|
 [fc]
-Kousuke was making a face like he was about to cry, but still managed a weak[r]
-smile.[pcms]
+Kousuke was making a face like he was about to cry, but[r]
+still managed a weak smile.[pcms]
 
 *770|
 [fc]
-I wanted to respond to that smile, so I smiled as best as I could.[pcms]
+I wanted to respond to that smile, so I smiled as best as I[r]
+could.[pcms]
 
 ;//♂：ザッピング終わりです。
 ;[zapend_random]
@@ -2259,12 +2342,13 @@ It seemed something had happened below.[pcms]
 
 *773|
 [fc]
-I understood up to the point where we were attacked by a man, but not what[r]
-happened after.[pcms]
+I understood up to the point where we were attacked by a[r]
+man, but not what happened after.[pcms]
 
 *774|
 [fc]
-Kousuke just kept laughing, and Mizuki wouldn't answer either.[pcms]
+Kousuke just kept laughing, and Mizuki wouldn't answer[r]
+either.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -2284,8 +2368,8 @@ Kousuke just kept laughing, and Mizuki wouldn't answer either.[pcms]
 *777|
 [fc]
 [ns]Kousuke[nse]
-"Sorry, I messed up over here. It's going to take some time before we can join[r]
-up."[pcms]
+"Sorry, I messed up over here. It's going to take some time[r]
+before we can join up."[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *778|
@@ -2333,7 +2417,8 @@ Is he crying...?[pcms]
 *785|
 [fc]
 [ns]Kousuke[nse]
-"We'll try to do something on our end too, but you make sure to hold your own."[pcms]
+"We'll try to do something on our end too, but you make sure[r]
+to hold your own."[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *786|
@@ -2396,7 +2481,8 @@ Is he crying...?[pcms]
 
 *794|
 [fc]
-Despite everything that happened, we've been childhood friends since forever.[pcms]
+Despite everything that happened, we've been childhood[r]
+friends since forever.[pcms]
 
 *795|
 [fc]
@@ -2404,11 +2490,13 @@ I felt the warm affection from both of them towards me.[pcms]
 
 *796|
 [fc]
-I will definitely save everyone and reunite with the two of them.[pcms]
+I will definitely save everyone and reunite with the two of[r]
+them.[pcms]
 
 *797|
 [fc]
-I took off my intercom and pressed the alarm button at the emergency exit.[pcms]
+I took off my intercom and pressed the alarm button at the[r]
+emergency exit.[pcms]
 
 
 ;BGM即時停止
@@ -2429,7 +2517,8 @@ Shigeyoshi's foolish voice could be heard from afar.[pcms]
 
 *800|
 [fc]
-If Shigeyoshi is here, maybe everyone else is on this floor too.[pcms]
+If Shigeyoshi is here, maybe everyone else is on this floor[r]
+too.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -2440,7 +2529,8 @@ If Shigeyoshi is here, maybe everyone else is on this floor too.[pcms]
 
 *802|
 [fc]
-The sound of multiple footsteps descending the stairs could be heard.[pcms]
+The sound of multiple footsteps descending the stairs could[r]
+be heard.[pcms]
 
 *803|
 [fc]
@@ -2456,8 +2546,8 @@ That should be enough.[pcms]
 
 *806|
 [fc]
-There might still be guards left, but I cautiously scoped out the situation and[r]
-infiltrated the 7th floor.[pcms]
+There might still be guards left, but I cautiously scoped[r]
+out the situation and infiltrated the 7th floor.[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -2478,12 +2568,13 @@ I went out to the dome and began searching for everyone.[pcms]
 
 *809|
 [fc]
-I didn't know which floor everyone was on, but if they were locked up somewhere,[r]
-Arcadia seemed likely.[pcms]
+I didn't know which floor everyone was on, but if they were[r]
+locked up somewhere, Arcadia seemed likely.[pcms]
 
 *810|
 [fc]
-If it's those private rooms, there's no worry of them escaping.[pcms]
+If it's those private rooms, there's no worry of them[r]
+escaping.[pcms]
 
 *811|
 [fc]
@@ -2495,12 +2586,13 @@ Somewhere in my heart, I might have believed in those men.[pcms]
 
 *813|
 [fc]
-They might be rough thugs, but they're humans with the same blood flowing[r]
-through their veins.[pcms]
+They might be rough thugs, but they're humans with the same[r]
+blood flowing through their veins.[pcms]
 
 *814|
 [fc]
-Decent humans living in a Japan where the law is well established.[pcms]
+Decent humans living in a Japan where the law is well[r]
+established.[pcms]
 
 ;//♂：多分、版権絵のようなイベントＣＧがあると思います
 
@@ -2513,25 +2605,28 @@ Mattresses and blankets had been brought in from some floor.[pcms]
 
 *816|
 [fc]
-On top of them, my familiar comrades... everyone was lying down.[pcms]
+On top of them, my familiar comrades... everyone was lying[r]
+down.[pcms]
 
 *817|
 [fc]
-Their clothes were tattered, their hair disheveled... they didn't seem to be[r]
-breathing.[pcms]
+Their clothes were tattered, their hair disheveled... they[r]
+didn't seem to be breathing.[pcms]
 
 *818|
 [fc]
-Yet, the place was dominated by a strange heat as if an assault had just taken[r]
-place.[pcms]
+Yet, the place was dominated by a strange heat as if an[r]
+assault had just taken place.[pcms]
 
 *819|
 [fc]
-I was unable to do anything for a while, just staring at the scene before me.[pcms]
+I was unable to do anything for a while, just staring at the[r]
+scene before me.[pcms]
 
 *820|
 [fc]
-If I hadn't waited for dawn and had acted, could I have saved everyone?[pcms]
+If I hadn't waited for dawn and had acted, could I have[r]
+saved everyone?[pcms]
 
 *821|
 [fc]

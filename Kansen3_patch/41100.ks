@@ -60,14 +60,15 @@ Senpai and I began to examine the door.[pcms]
 
 *3176|
 [fc]
-This door is quite new compared to the others. Besides the lever-type knob,[r]
-there's a rotating handle lock. It even has rubber sealing in the gaps for[r]
-waterproofing.[pcms]
+This door is quite new compared to the others. Besides the[r]
+lever-type knob, there's a rotating handle lock. It even has[r]
+rubber sealing in the gaps for waterproofing.[pcms]
 
 *3177|
 [fc]
 [ns]Wataru[nse]
-"This one is quite new. It seems different from the ones we've seen before."[pcms]
+"This one is quite new. It seems different from the ones[r]
+we've seen before."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -75,7 +76,8 @@ waterproofing.[pcms]
 [fc]
 [vo_mar s="maru0448"]
 [ns]Margarita[nse]
-"It doesn't seem like it will be rusted shut. If only we could open it..."[pcms]
+"It doesn't seem like it will be rusted shut. If only we[r]
+could open it..."[pcms]
 
 *3179|
 [fc]
@@ -121,8 +123,8 @@ The door handle rattled violently.[pcms]
 
 *3185|
 [fc]
-Everyone held their breath. All three of us stepped back. One step, two steps,[r]
-and then the third...[pcms]
+Everyone held their breath. All three of us stepped back.[r]
+One step, two steps, and then the third...[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -155,18 +157,18 @@ The door opened with a noise![pcms]
 
 *3190|
 [fc]
-From the not-so-large door, one after another, deranged people began to tumble[r]
-out.[pcms]
+From the not-so-large door, one after another, deranged[r]
+people began to tumble out.[pcms]
 
 *3191|
 [fc]
-I never thought I'd use a word like "tumble out" in everyday life, but it fits[r]
-perfectly in this situation...[pcms]
+I never thought I'd use a word like "tumble out" in everyday[r]
+life, but it fits perfectly in this situation...[pcms]
 
 *3192|
 [fc]
-As I continued to step back in surprise, I couldn't help but think of such[r]
-things.[pcms]
+As I continued to step back in surprise, I couldn't help but[r]
+think of such things.[pcms]
 
 *3193|
 [fc]
@@ -180,8 +182,9 @@ Senpai's voice echoed.[pcms]
 
 *3195|
 [fc]
-As we were stepping back in shock, the group that came out of the door was now[r]
-blocking even the side paths, crowding the corridor.[pcms]
+As we were stepping back in shock, the group that came out[r]
+of the door was now blocking even the side paths, crowding[r]
+the corridor.[pcms]
 
 *3196|
 [fc]
@@ -199,8 +202,8 @@ And from the opposite side as well...[pcms]
 
 *3199|
 [fc]
-We can't see them yet, but the group that was chasing us is also closing in[r]
-fast.[pcms]
+We can't see them yet, but the group that was chasing us is[r]
+also closing in fast.[pcms]
 
 *3200|
 [fc]
@@ -210,8 +213,8 @@ fast.[pcms]
 
 *3201|
 [fc]
-Senpai's voice sounded frustrated. Even as I was about to lose my composure, I[r]
-tried to think of a way out.[pcms]
+Senpai's voice sounded frustrated. Even as I was about to[r]
+lose my composure, I tried to think of a way out.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -228,8 +231,9 @@ tried to think of a way out.[pcms]
 [fc]
 [vo_mar s="maru0452"]
 [ns]Margarita[nse]
-"Considering the narrow space and their numbers. And more are still coming out.[r]
-With that situation... even inside the building..."[pcms]
+"Considering the narrow space and their numbers. And more[r]
+are still coming out. With that situation... even inside the[r]
+building..."[pcms]
 
 *3204|
 [fc]
@@ -252,8 +256,8 @@ With that situation... even inside the building..."[pcms]
 
 *3206|
 [fc]
-Senpai took off her backpack and readied a mop. Her gallant figure was like a[r]
-scene from a kung fu movie.[pcms]
+Senpai took off her backpack and readied a mop. Her gallant[r]
+figure was like a scene from a kung fu movie.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -283,8 +287,9 @@ scene from a kung fu movie.[pcms]
 
 *3208|
 [fc]
-The mop swung by Senpai swept the legs of the three leading infected coming out[r]
-of the door, struck their chests, and made them fall over.[pcms]
+The mop swung by Senpai swept the legs of the three leading[r]
+infected coming out of the door, struck their chests, and[r]
+made them fall over.[pcms]
 
 ;//se004・人が倒れる音
 [se buf=0 storage="se004"]
@@ -297,7 +302,8 @@ of the door, struck their chests, and made them fall over.[pcms]
 
 *3209|
 [fc]
-They fell like dominoes, one after another, becoming unable to move.[pcms]
+They fell like dominoes, one after another, becoming unable[r]
+to move.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -309,8 +315,8 @@ They fell like dominoes, one after another, becoming unable to move.[pcms]
 
 *3211|
 [fc]
-Senpai then headed back through the underground passage towards the general[r]
-office building.[pcms]
+Senpai then headed back through the underground passage[r]
+towards the general office building.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -326,12 +332,13 @@ office building.[pcms]
 [fc]
 [vo_mar s="maru0456"]
 [ns]Margarita[nse]
-"With that number of people, we won't be able to move if we have luggage!"[pcms]
+"With that number of people, we won't be able to move if we[r]
+have luggage!"[pcms]
 
 *3214|
 [fc]
-Saying that, Senpai took off her light and gripped the mop tightly, then ran[r]
-away from me and Yuuho.[pcms]
+Saying that, Senpai took off her light and gripped the mop[r]
+tightly, then ran away from me and Yuuho.[pcms]
 
 ;//se052・コンクリートの上を走る（一人）
 [se buf=0 storage="se052"]
@@ -409,8 +416,9 @@ We both dropped our luggage on the spot and followed Senpai.[pcms]
 
 *3223|
 [fc]
-Maruko-senpai swung the mop around like a staff technique seen in kung fu[r]
-movies, beautifully knocking down the attacking crowd.[pcms]
+Maruko-senpai swung the mop around like a staff technique[r]
+seen in kung fu movies, beautifully knocking down the[r]
+attacking crowd.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -418,7 +426,8 @@ movies, beautifully knocking down the attacking crowd.[pcms]
 *3224|
 [fc]
 [ns]Infected Student F[nse]
-"...Kannagi and the exchange student... two holes... no, four...? No, six..."[pcms]
+"...Kannagi and the exchange student... two holes... no,[r]
+four...? No, six..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -442,8 +451,9 @@ movies, beautifully knocking down the attacking crowd.[pcms]
 
 *3227|
 [fc]
-It wasn't just the mop. Just like in kung fu movies, in between attacks with the[r]
-mop, she seamlessly let out kicks, mowing them down.[pcms]
+It wasn't just the mop. Just like in kung fu movies, in[r]
+between attacks with the mop, she seamlessly let out kicks,[r]
+mowing them down.[pcms]
 
 *3228|
 [fc]
@@ -562,12 +572,14 @@ But...[pcms]
 
 *3242|
 [fc]
-They keep getting up no matter how many times they're knocked down.[pcms]
+They keep getting up no matter how many times they're[r]
+knocked down.[pcms]
 
 *3243|
 [fc]
-More precisely, while some do fall properly, the ones coming from behind push[r]
-towards us, causing those who were about to fall to get back up again.[pcms]
+More precisely, while some do fall properly, the ones coming[r]
+from behind push towards us, causing those who were about to[r]
+fall to get back up again.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -579,9 +591,9 @@ towards us, causing those who were about to fall to get back up again.[pcms]
 
 *3245|
 [fc]
-Senpai, while panting, continues to attack trying to knock them sideways as much[r]
-as possible, but it's not going as smoothly as it did in front of the door[r]
-earlier.[pcms]
+Senpai, while panting, continues to attack trying to knock[r]
+them sideways as much as possible, but it's not going as[r]
+smoothly as it did in front of the door earlier.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -608,7 +620,8 @@ Still, Senpai continues to fight them without giving up.[pcms]
 
 *3249|
 [fc]
-I put the lantern on the floor and, holding the mop, moved to support Senpai.[pcms]
+I put the lantern on the floor and, holding the mop, moved[r]
+to support Senpai.[pcms]
 
 *3250|
 [fc]
@@ -624,8 +637,9 @@ I put the lantern on the floor and, holding the mop, moved to support Senpai.[pc
 
 *3251|
 [fc]
-Imitating Senpai and swinging the mop with a feeble battle cry, it hit its mark[r]
-and knocked down one of the crazed ones.[pcms]
+Imitating Senpai and swinging the mop with a feeble battle[r]
+cry, it hit its mark and knocked down one of the crazed[r]
+ones.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -687,8 +701,8 @@ and knocked down one of the crazed ones.[pcms]
 
 *3260|
 [fc]
-Feeling guilty about running away without doing anything by herself, Yuuho said[r]
-such things and Senpai advised her.[pcms]
+Feeling guilty about running away without doing anything by[r]
+herself, Yuuho said such things and Senpai advised her.[pcms]
 
 *3261|
 [fc]
@@ -744,7 +758,8 @@ I turned around and gestured behind us with my chin.[pcms]
 [fc]
 [vo_mar s="maru0466"]
 [ns]Margarita[nse]
-"At this rate, we'll be caught in a pincer attack. Kannagi! You run first!"[pcms]
+"At this rate, we'll be caught in a pincer attack. Kannagi![r]
+You run first!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -759,8 +774,8 @@ I turned around and gestured behind us with my chin.[pcms]
 
 *3271|
 [fc]
-Realizing the crazed people who had gotten up and caught up from behind, Yuuho[r]
-agreed with what we said.[pcms]
+Realizing the crazed people who had gotten up and caught up[r]
+from behind, Yuuho agreed with what we said.[pcms]
 
 *3272|
 [fc]
@@ -796,7 +811,8 @@ agreed with what we said.[pcms]
 [fc]
 [vo_mar s="maru0468"]
 [ns]Margarita[nse]
-"Wataru! We need to make a path for Kannagi to escape! Then we'll follow!"[pcms]
+"Wataru! We need to make a path for Kannagi to escape! Then[r]
+we'll follow!"[pcms]
 
 *3276|
 [fc]
@@ -808,18 +824,18 @@ agreed with what we said.[pcms]
 
 *3277|
 [fc]
-I hurriedly looked around at the crazed students approaching us, following[r]
-Senpai's words.[pcms]
+I hurriedly looked around at the crazed students approaching[r]
+us, following Senpai's words.[pcms]
 
 *3278|
 [fc]
-While Senpai and I were pushing them back, a gap formed in the crowd, like a[r]
-valley with less density.[pcms]
+While Senpai and I were pushing them back, a gap formed in[r]
+the crowd, like a valley with less density.[pcms]
 
 *3279|
 [fc]
-There were more of them approaching Senpai, and because she kept knocking them[r]
-down one after another, that's why.[pcms]
+There were more of them approaching Senpai, and because she[r]
+kept knocking them down one after another, that's why.[pcms]
 
 *3280|
 [fc]
@@ -827,8 +843,9 @@ Alright, that spot there...[pcms]
 
 *3281|
 [fc]
-I braced myself with the mop held sideways in both hands, like in a kung-fu[r]
-movie, and pushed the approaching students to the side to block their way.[pcms]
+I braced myself with the mop held sideways in both hands,[r]
+like in a kung-fu movie, and pushed the approaching students[r]
+to the side to block their way.[pcms]
 
 *3282|
 [fc]
@@ -837,7 +854,8 @@ movie, and pushed the approaching students to the side to block their way.[pcms]
 
 *3283|
 [fc]
-Just like in a movie where the sea splits open, the crowd was cleaved apart.[pcms]
+Just like in a movie where the sea splits open, the crowd[r]
+was cleaved apart.[pcms]
 
 *3284|
 [fc]
@@ -863,7 +881,8 @@ Just like in a movie where the sea splits open, the crowd was cleaved apart.[pcm
 [fc]
 [vo_yuh s="yuho0280"]
 [ns]Yuuho[nse]
-"You better! I have something I want to confess to you, Wataru!"[pcms]
+"You better! I have something I want to confess to you,[r]
+Wataru!"[pcms]
 
 [chara_int][trans_c cross time=150]
 ;//se052・コンクリートの上を走る（一人）
@@ -878,8 +897,9 @@ Shouting that, Yuuho ran past me.[pcms]
 
 *3289|
 [fc]
-Dodging grasping hands and leaping over fallen people, Yuuho made her way[r]
-through. With this, she should be safe for now. Next, it's our turn to escape...[pcms]
+Dodging grasping hands and leaping over fallen people, Yuuho[r]
+made her way through. With this, she should be safe for now.[r]
+Next, it's our turn to escape...[pcms]
 
 *3290|
 [fc]
@@ -911,7 +931,8 @@ A familiar voice could be heard from within the crowd.[pcms]
 
 *3295|
 [fc]
-Expressionlessly pushing through the crazed people, Ren appeared before me.[pcms]
+Expressionlessly pushing through the crazed people, Ren[r]
+appeared before me.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -919,8 +940,8 @@ Expressionlessly pushing through the crazed people, Ren appeared before me.[pcms
 [fc]
 [vo_ren s="ren0383"]
 [ns]Ren[nse]
-"Big brother can become so cool for Yuuho-chan's sake... It makes me want to[r]
-pout~"[pcms]
+"Big brother can become so cool for Yuuho-chan's sake... It[r]
+makes me want to pout~"[pcms]
 
 *3297|
 [fc]
@@ -960,8 +981,8 @@ Ren chuckled softly.[pcms]
 [fc]
 [vo_ren s="ren0386"]
 [ns]Ren[nse]
-"Don't worry... I won't say 'kill' anymore. Because soon Yuuho-chan will join us[r]
-too..."[pcms]
+"Don't worry... I won't say 'kill' anymore. Because soon[r]
+Yuuho-chan will join us too..."[pcms]
 
 *3304|
 [fc]
@@ -984,7 +1005,8 @@ too..."[pcms]
 
 *3307|
 [fc]
-Frightened by Ren's ominous words, I hesitantly looked back...[pcms]
+Frightened by Ren's ominous words, I hesitantly looked[r]
+back...[pcms]
 
 *3308|
 [fc]
@@ -994,19 +1016,20 @@ Frightened by Ren's ominous words, I hesitantly looked back...[pcms]
 
 *3309|
 [fc]
-There was Senpai... with her legs spread wide open and flipped over...[pcms]
+There was Senpai... with her legs spread wide open and[r]
+flipped over...[pcms]
 
 ;//@konya 追加テキスト　ここから------------------------------
 
 *3310|
 [fc]
-Senpai was swarmed by several men and dragged into the darkness without even a[r]
-chance to scream.[pcms]
+Senpai was swarmed by several men and dragged into the[r]
+darkness without even a chance to scream.[pcms]
 
 *3311|
 [fc]
-Shocked by the sudden event, as I tried to follow, I was suddenly pushed from[r]
-behind and fell to the ground.[pcms]
+Shocked by the sudden event, as I tried to follow, I was[r]
+suddenly pushed from behind and fell to the ground.[pcms]
 
 *3312|
 [fc]
@@ -1019,8 +1042,8 @@ I hit my head hard on the ground and writhed in pain.[pcms]
 
 *3314|
 [fc]
-Looking around, some of the crazed people were walking towards where Senpai was[r]
-dragged off.[pcms]
+Looking around, some of the crazed people were walking[r]
+towards where Senpai was dragged off.[pcms]
 
 *3315|
 [fc]
@@ -1028,12 +1051,14 @@ I was pushed by these guys...[pcms]
 
 *3316|
 [fc]
-Determined to save Senpai and filled with anger at those who had done this to[r]
-me, I tried to stand up and chase after them.[pcms]
+Determined to save Senpai and filled with anger at those who[r]
+had done this to me, I tried to stand up and chase after[r]
+them.[pcms]
 
 *3317|
 [fc]
-But maybe because I hit my head, my body wouldn't listen to me.[pcms]
+But maybe because I hit my head, my body wouldn't listen to[r]
+me.[pcms]
 
 ;//@konya 追加テキスト　ここまで------------------------------
 
@@ -1512,7 +1537,8 @@ But maybe because I hit my head, my body wouldn't listen to me.[pcms]
 
 *3318|
 [fc]
-My body could only watch as Senpai disappeared into the distance.[pcms]
+My body could only watch as Senpai disappeared into the[r]
+distance.[pcms]
 
 ;//@konya　テキスト追加　ここまで-------------------------------
 
@@ -1523,7 +1549,8 @@ My body could only watch as Senpai disappeared into the distance.[pcms]
 
 *3320|
 [fc]
-I struggled with rage once more. But still, my body wouldn't move.[pcms]
+I struggled with rage once more. But still, my body wouldn't[r]
+move.[pcms]
 
 ;//@konya　テキスト削除　ここから-------------------------------
 ;//
@@ -1547,8 +1574,8 @@ I struggled with rage once more. But still, my body wouldn't move.[pcms]
 
 *3321|
 [fc]
-The pain in my head was so intense that I could barely make a sound. But still,[r]
-I strained my voice.[pcms]
+The pain in my head was so intense that I could barely make[r]
+a sound. But still, I strained my voice.[pcms]
 
 ;//@konya　テキスト追加　ここまで-------------------------------
 
@@ -1559,8 +1586,8 @@ I strained my voice.[pcms]
 
 *3323|
 [fc]
-A cool sensation pressed against my cheek made me inadvertently swallow my words[r]
-of anger.[pcms]
+A cool sensation pressed against my cheek made me[r]
+inadvertently swallow my words of anger.[pcms]
 
 *3324|
 [fc]
@@ -1576,13 +1603,15 @@ It was cold and smooth... something familiar.[pcms]
 
 *3326|
 [fc]
-...It was Ren's hand. Ren's hand was gently, tenderly touching my cheek.[pcms]
+...It was Ren's hand. Ren's hand was gently, tenderly[r]
+touching my cheek.[pcms]
 
 *3327|
 [fc]
 [vo_ren s="ren0389"]
 [ns]Ren[nse]
-"I told you it would be okay... Big brother, you're such a worrywart~"[pcms]
+"I told you it would be okay... Big brother, you're such a[r]
+worrywart~"[pcms]
 
 *3328|
 [fc]
@@ -1593,12 +1622,13 @@ It was cold and smooth... something familiar.[pcms]
 [fc]
 [vo_ren s="ren0390"]
 [ns]Ren[nse]
-"It's okay... Everyone starts off like that... But soon, it'll feel good..."[pcms]
+"It's okay... Everyone starts off like that... But soon,[r]
+it'll feel good..."[pcms]
 
 *3330|
 [fc]
-Her voice was a bit drawn out, but it was the usual Ren, trying to reason with[r]
-me.[pcms]
+Her voice was a bit drawn out, but it was the usual Ren,[r]
+trying to reason with me.[pcms]
 
 *3331|
 [fc]
@@ -1608,18 +1638,19 @@ me.[pcms]
 
 *3332|
 [fc]
-While saying something so frightening, Ren smiled sweetly and stroked my cheek[r]
-with her hand... her cold hand.[pcms]
+While saying something so frightening, Ren smiled sweetly[r]
+and stroked my cheek with her hand... her cold hand.[pcms]
 
 *3333|
 [fc]
-As I held my breath, I looked at Ren again and only now realized how tattered[r]
-her clothes had become.[pcms]
+As I held my breath, I looked at Ren again and only now[r]
+realized how tattered her clothes had become.[pcms]
 
 *3334|
 [fc]
 [ns]Wataru[nse]
-"Then... Then, did those guys do to Ren what they did to Senpai...?"[pcms]
+"Then... Then, did those guys do to Ren what they did to[r]
+Senpai...?"[pcms]
 
 *3335|
 [fc]
@@ -1629,7 +1660,8 @@ her clothes had become.[pcms]
 
 *3336|
 [fc]
-Ren slowly shook her head in response to the question I asked hesitantly.[pcms]
+Ren slowly shook her head in response to the question I[r]
+asked hesitantly.[pcms]
 
 *3337|
 [fc]
@@ -1639,20 +1671,22 @@ Ren slowly shook her head in response to the question I asked hesitantly.[pcms]
 
 *3338|
 [fc]
-Ren whispered to me as she brought her face close to my cheek.[pcms]
+Ren whispered to me as she brought her face close to my[r]
+cheek.[pcms]
 
 *3339|
 [fc]
 [vo_ren s="ren0394"]
 [ns]Ren[nse]
-"I begged the people who came at me to do everything with just hands and[r]
-mouth... Because..."[pcms]
+"I begged the people who came at me to do everything with[r]
+just hands and mouth... Because..."[pcms]
 
 *3340|
 [fc]
 [vo_ren s="ren0395"]
 [ns]Ren[nse]
-"Because... I wanted to give my pussy and my butt to big brother..."[pcms]
+"Because... I wanted to give my pussy and my butt to big[r]
+brother..."[pcms]
 
 *3341|
 [fc]
@@ -1661,8 +1695,8 @@ mouth... Because..."[pcms]
 
 *3342|
 [fc]
-I opened and closed my mouth like a goldfish, unable to comprehend Ren's words.[r]
-What is she talking about!?[pcms]
+I opened and closed my mouth like a goldfish, unable to[r]
+comprehend Ren's words. What is she talking about!?[pcms]
 
 *3343|
 [fc]
@@ -1692,12 +1726,13 @@ Saying that, Ren pressed her lips against mine.[pcms]
 
 *3347|
 [fc]
-Ren's... my sister's tongue entered my mouth as if barging in, entangling with[r]
-my own.[pcms]
+Ren's... my sister's tongue entered my mouth as if barging[r]
+in, entangling with my own.[pcms]
 
 *3348|
 [fc]
-A sensation I had never felt before, truly sensual and hot, raced up my spine.[pcms]
+A sensation I had never felt before, truly sensual and hot,[r]
+raced up my spine.[pcms]
 
 *3349|
 [fc]
@@ -1712,16 +1747,17 @@ A sensation I had never felt before, truly sensual and hot, raced up my spine.[p
 
 *3351|
 [fc]
-After intertwining our tongues several times, sipping my saliva, and generously[r]
-pouring her own into me, Ren pulled her lips away from mine.[pcms]
+After intertwining our tongues several times, sipping my[r]
+saliva, and generously pouring her own into me, Ren pulled[r]
+her lips away from mine.[pcms]
 
 ;//@konya 地下通路
 [bg storage="BG027"][trans_c cross time=500]
 
 *3352|
 [fc]
-A silver thread was spun between our lips, bridging the gap like a delicate[r]
-thread.[pcms]
+A silver thread was spun between our lips, bridging the gap[r]
+like a delicate thread.[pcms]
 
 *3353|
 [fc]
@@ -1730,8 +1766,8 @@ thread.[pcms]
 
 *3354|
 [fc]
-I was stunned, feeling the warmth and sweetness of my sister's lips and saliva[r]
-heating up my brain.[pcms]
+I was stunned, feeling the warmth and sweetness of my[r]
+sister's lips and saliva heating up my brain.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1750,8 +1786,9 @@ heating up my brain.[pcms]
 [fc]
 [vo_ren s="ren0400"]
 [ns]Ren[nse]
-"I always thought that I absolutely didn't want anyone but my beloved big[r]
-brother for my first time... I've always felt that way..."[pcms]
+"I always thought that I absolutely didn't want anyone but[r]
+my beloved big brother for my first time... I've always felt[r]
+that way..."[pcms]
 
 ;//〆背景：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1760,7 +1797,8 @@ brother for my first time... I've always felt that way..."[pcms]
 
 *3358|
 [fc]
-As she whispered this confession to me, Ren reached for her skirt.[pcms]
+As she whispered this confession to me, Ren reached for her[r]
+skirt.[pcms]
 
 ;//se066・衣服が落ちる
 [se buf=0 storage="se066"]
@@ -1776,8 +1814,9 @@ And then, Ren pulled down her panties.[pcms]
 
 *3361|
 [fc]
-Ren's panties were soaked through, peeling away from her crotch with a sticky[r]
-sound like half-dried glue being removed.[pcms]
+Ren's panties were soaked through, peeling away from her[r]
+crotch with a sticky sound like half-dried glue being[r]
+removed.[pcms]
 
 *3362|
 [fc]
@@ -1794,22 +1833,23 @@ sound like half-dried glue being removed.[pcms]
 [fc]
 [vo_ren s="ren0402"]
 [ns]Ren[nse]
-"I've been wet all this time wanting you to do it, big brother... I've been[r]
-soaking wet... Thinking that you would be the one..."[pcms]
+"I've been wet all this time wanting you to do it, big[r]
+brother... I've been soaking wet... Thinking that you would[r]
+be the one..."[pcms]
 
 *3365|
 [fc]
 [vo_ren s="ren0403"]
 [ns]Ren[nse]
-"While dealing with those men who I didn't even like, I kept thinking. I wanted[r]
-my beloved big brother to clean me up..."[pcms]
+"While dealing with those men who I didn't even like, I kept[r]
+thinking. I wanted my beloved big brother to clean me up..."[pcms]
 
 *3366|
 [fc]
 [vo_ren s="ren0404"]
 [ns]Ren[nse]
-"I wanted your dick and your semen to wash away all my dirtiness. That's what I[r]
-endured for..."[pcms]
+"I wanted your dick and your semen to wash away all my[r]
+dirtiness. That's what I endured for..."[pcms]
 
 *3367|
 [fc]
@@ -1820,13 +1860,13 @@ endured for..."[pcms]
 [fc]
 [vo_ren s="ren0405"]
 [ns]Ren[nse]
-"That's why I protected my pussy and butt for you, big brother... For my first[r]
-time to be with you..."[pcms]
+"That's why I protected my pussy and butt for you, big[r]
+brother... For my first time to be with you..."[pcms]
 
 *3369|
 [fc]
-While saying this, Ren spread open the graceful slit enveloped in soft shadows[r]
-with her fingers to show me.[pcms]
+While saying this, Ren spread open the graceful slit[r]
+enveloped in soft shadows with her fingers to show me.[pcms]
 
 *3370|
 [fc]
@@ -1837,30 +1877,33 @@ with her fingers to show me.[pcms]
 [fc]
 [vo_ren s="ren0406"]
 [ns]Ren[nse]
-"I protected it well... Look closely, big brother... My pussy doesn't have a[r]
-single scratch on it..."[pcms]
+"I protected it well... Look closely, big brother... My[r]
+pussy doesn't have a single scratch on it..."[pcms]
 
 *3372|
 [fc]
-The pink soft flesh nestled between the valleys of white skin.[pcms]
+The pink soft flesh nestled between the valleys of white[r]
+skin.[pcms]
 
 *3373|
 [fc]
-Even in the dim darkness, the parting she had pushed open was wet and shining[r]
-beautifully, so pure that it seemed untouched by any filth.[pcms]
+Even in the dim darkness, the parting she had pushed open[r]
+was wet and shining beautifully, so pure that it seemed[r]
+untouched by any filth.[pcms]
 
 *3374|
 [fc]
 [vo_ren s="ren0407"]
 [ns]Ren[nse]
-"It's always been my dream... to give my first time to you, big brother..."[pcms]
+"It's always been my dream... to give my first time to you,[r]
+big brother..."[pcms]
 
 *3375|
 [fc]
 [vo_ren s="ren0408"]
 [ns]Ren[nse]
-"To have you do it with my pussy and butt... I'll become clean. I'll be all[r]
-yours, big brother..."[pcms]
+"To have you do it with my pussy and butt... I'll become[r]
+clean. I'll be all yours, big brother..."[pcms]
 
 *3376|
 [fc]
@@ -1869,7 +1912,8 @@ yours, big brother..."[pcms]
 
 *3377|
 [fc]
-As Ren said this, she leaned over me, still lying on her back.[pcms]
+As Ren said this, she leaned over me, still lying on her[r]
+back.[pcms]
 
 *3378|
 [fc]
@@ -1884,12 +1928,13 @@ As Ren said this, she leaned over me, still lying on her back.[pcms]
 
 *3380|
 [fc]
-After Ren's words just now, I no longer felt the fear that she was one of those[r]
-guys' accomplices.[pcms]
+After Ren's words just now, I no longer felt the fear that[r]
+she was one of those guys' accomplices.[pcms]
 
 *3381|
 [fc]
-Ren might indeed be one of their group. But Ren is... my sister.[pcms]
+Ren might indeed be one of their group. But Ren is... my[r]
+sister.[pcms]
 
 *3382|
 [fc]
@@ -1910,8 +1955,8 @@ Ren might indeed be one of their group. But Ren is... my sister.[pcms]
 [fc]
 [vo_ren s="ren0411"]
 [ns]Ren[nse]
-"Because... I love my big brother so much... And besides, from now on... I'll be[r]
-all yours..."[pcms]
+"Because... I love my big brother so much... And besides,[r]
+from now on... I'll be all yours..."[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -1925,7 +1970,8 @@ all yours..."[pcms]
 
 *3386|
 [fc]
-With that said, Ren straddled me and firmly grasped my thing.[pcms]
+With that said, Ren straddled me and firmly grasped my[r]
+thing.[pcms]
 
 *3387|
 [fc]
@@ -1936,8 +1982,9 @@ With that said, Ren straddled me and firmly grasped my thing.[pcms]
 [fc]
 [vo_ren s="ren0412"]
 [ns]Ren[nse]
-"Big brother... you've been hard the whole time... While looking at your[r]
-senior... saying 'stop it'... but you were hard. I know it..."[pcms]
+"Big brother... you've been hard the whole time... While[r]
+looking at your senior... saying 'stop it'... but you were[r]
+hard. I know it..."[pcms]
 
 *3389|
 [fc]
@@ -1948,14 +1995,15 @@ senior... saying 'stop it'... but you were hard. I know it..."[pcms]
 [fc]
 [vo_ren s="ren0413"]
 [ns]Ren[nse]
-"Big brother is such a pervert... But when you peeked at me changing before... I[r]
-was happy..."[pcms]
+"Big brother is such a pervert... But when you peeked at me[r]
+changing before... I was happy..."[pcms]
 
 *3391|
 [fc]
 [vo_ren s="ren0414"]
 [ns]Ren[nse]
-"It made me feel like... you were really seeing me as a girl..."[pcms]
+"It made me feel like... you were really seeing me as a[r]
+girl..."[pcms]
 
 *3392|
 [fc]
@@ -1966,8 +2014,8 @@ was happy..."[pcms]
 [fc]
 [vo_ren s="ren0415"]
 [ns]Ren[nse]
-"It's okay, big brother... Because I've comforted myself many times thinking[r]
-about doing it with you..."[pcms]
+"It's okay, big brother... Because I've comforted myself[r]
+many times thinking about doing it with you..."[pcms]
 
 *3394|
 [fc]
@@ -1976,7 +2024,8 @@ about doing it with you..."[pcms]
 
 *3395|
 [fc]
-Ren has been... thinking of me...!? She masturbated thinking of me?[pcms]
+Ren has been... thinking of me...!? She masturbated thinking[r]
+of me?[pcms]
 
 ;//@konya テキスト修正
 ;//襲われて、悠帆が意味ありげなことを言って、
@@ -1985,13 +2034,14 @@ Ren has been... thinking of me...!? She masturbated thinking of me?[pcms]
 
 *3396|
 [fc]
-I was attacked, Yuuho said something meaningful, and Ren confessed one shocking[r]
-thing after another to me... And now...[pcms]
+I was attacked, Yuuho said something meaningful, and Ren[r]
+confessed one shocking thing after another to me... And[r]
+now...[pcms]
 
 *3397|
 [fc]
-My brain was about to turn to mush from the unbelievable series of events that[r]
-had happened since then.[pcms]
+My brain was about to turn to mush from the unbelievable[r]
+series of events that had happened since then.[pcms]
 
 ;//@konya シーンカットによる台詞削除＆順序変更
 ;//[vo_ren s="ren0416"]
@@ -2006,12 +2056,13 @@ had happened since then.[pcms]
 [fc]
 [vo_ren s="ren0417"]
 [ns]Ren[nse]
-"Now... you're all mine, big brother... Look only at me... Feel only me..."[pcms]
+"Now... you're all mine, big brother... Look only at me...[r]
+Feel only me..."[pcms]
 
 *3399|
 [fc]
-As she said this, Ren lifted her hips and pressed my erect thing against her[r]
-pussy's slit.[pcms]
+As she said this, Ren lifted her hips and pressed my erect[r]
+thing against her pussy's slit.[pcms]
 
 ;//　差分　挿入
 
@@ -2039,23 +2090,27 @@ Ren and I... became one... I am one with my sister.[pcms]
 
 *3404|
 [fc]
-The hot and strong grip on my thing sent a spine-tingling pleasure through me.[pcms]
+The hot and strong grip on my thing sent a spine-tingling[r]
+pleasure through me.[pcms]
 
 *3405|
 [fc]
 [vo_ren s="ren0419"]
 [ns]Ren[nse]
-"Aahh... big brother is inside me... aahhh!! It hurts... aahhh!"[pcms]
+"Aahh... big brother is inside me... aahhh!! It hurts...[r]
+aahhh!"[pcms]
 
 *3406|
 [fc]
-A transparent red fluid leaked from where Ren and I were connected. It was the[r]
-same as what had flowed out of the senior who had been violated earlier, along[r]
-with her screams...[pcms]
+A transparent red fluid leaked from where Ren and I were[r]
+connected. It was the same as what had flowed out of the[r]
+senior who had been violated earlier, along with her[r]
+screams...[pcms]
 
 *3407|
 [fc]
-The blood from her broken hymen was diluted with other fluids like love juices.[pcms]
+The blood from her broken hymen was diluted with other[r]
+fluids like love juices.[pcms]
 
 *3408|
 [fc]
@@ -2072,7 +2127,8 @@ The blood from her broken hymen was diluted with other fluids like love juices.[
 [fc]
 [vo_ren s="ren0421"]
 [ns]Ren[nse]
-"Ahoo! Aahh! 'Am I okay?' Why would you ask that, big brother...?"[pcms]
+"Ahoo! Aahh! 'Am I okay?' Why would you ask that, big[r]
+brother...?"[pcms]
 
 *3411|
 [fc]
@@ -2096,27 +2152,30 @@ While slowly moving her hips, Ren answered me.[pcms]
 
 *3415|
 [fc]
-Ren began to move her hips more violently, and I moaned even more from the[r]
-intense pleasure.[pcms]
+Ren began to move her hips more violently, and I moaned even[r]
+more from the intense pleasure.[pcms]
 
 *3416|
 [fc]
 [vo_ren s="ren0423"]
 [ns]Ren[nse]
-"Aahh! Big brother is inside me... nnnh...! I'm so happy! So happy!!"[pcms]
+"Aahh! Big brother is inside me... nnnh...! I'm so happy! So[r]
+happy!!"[pcms]
 
 *3417|
 [fc]
 [vo_ren s="ren0424"]
 [ns]Ren[nse]
-"It's been my dream for so long... To have big brother do this to me..."[pcms]
+"It's been my dream for so long... To have big brother do[r]
+this to me..."[pcms]
 
 *3418|
 [fc]
 [vo_ren s="ren0425"]
 [ns]Ren[nse]
-"To have my virginity taken by big brother's cock... It hurts so good... The[r]
-pain is so pleasurable... The pleasure is so painful eeehh!! Aahh! It's good!!"[pcms]
+"To have my virginity taken by big brother's cock... It[r]
+hurts so good... The pain is so pleasurable... The pleasure[r]
+is so painful eeehh!! Aahh! It's good!!"[pcms]
 
 *3419|
 [fc]
@@ -2125,19 +2184,21 @@ pain is so pleasurable... The pleasure is so painful eeehh!! Aahh! It's good!!"[
 
 *3420|
 [fc]
-In ecstasy, Ren continued to wildly thrust her hips. I groaned even louder with[r]
-each wave of intense pleasure, and the red fluid splattered violently, staining[r]
-our bodies with red spots.[pcms]
+In ecstasy, Ren continued to wildly thrust her hips. I[r]
+groaned even louder with each wave of intense pleasure, and[r]
+the red fluid splattered violently, staining our bodies with[r]
+red spots.[pcms]
 
 *3421|
 [fc]
-We both changed our white clothes into a pattern of red polka dots. There were[r]
-red circles everywhere like Ren's eyes.[pcms]
+We both changed our white clothes into a pattern of red[r]
+polka dots. There were red circles everywhere like Ren's[r]
+eyes.[pcms]
 
 *3422|
 [fc]
-Not just our clothes. There were red eyes all over the dimly lit underground[r]
-passage.[pcms]
+Not just our clothes. There were red eyes all over the dimly[r]
+lit underground passage.[pcms]
 
 ;//@konya　テキスト削除　ここから-------------------------------
 ;//
@@ -2368,7 +2429,8 @@ passage.[pcms]
 
 *3424|
 [fc]
-Ren placed her cold hand on my cheek and forcefully turned my face towards her.[pcms]
+Ren placed her cold hand on my cheek and forcefully turned[r]
+my face towards her.[pcms]
 
 *3425|
 [fc]
@@ -2376,13 +2438,13 @@ She straddled my hips, flaunting her lewd form to me.[pcms]
 
 *3426|
 [fc]
-I used to think it was so strange... That being violated by my sister was[r]
-"weird"...[pcms]
+I used to think it was so strange... That being violated by[r]
+my sister was "weird"...[pcms]
 
 *3427|
 [fc]
-But now, that feeling had changed to "it feels good". Because it feels good,[r]
-it's okay...[pcms]
+But now, that feeling had changed to "it feels good".[r]
+Because it feels good, it's okay...[pcms]
 
 *3428|
 [fc]
@@ -2417,11 +2479,13 @@ Maybe I really am going crazy.[pcms]
 *3432|
 [fc]
 [ns]Wataru[nse]
-"Otherwise, I would have cum by now... Because Ren's pussy feels amazing..."[pcms]
+"Otherwise, I would have cum by now... Because Ren's pussy[r]
+feels amazing..."[pcms]
 
 *3433|
 [fc]
-Deep down, I was aware of how abnormal the things I was saying were...[pcms]
+Deep down, I was aware of how abnormal the things I was[r]
+saying were...[pcms]
 
 *3434|
 [fc]
@@ -2429,18 +2493,20 @@ But...[pcms]
 
 *3435|
 [fc]
-But I was saying these obscene words to Ren without any resistance.[pcms]
+But I was saying these obscene words to Ren without any[r]
+resistance.[pcms]
 
 *3436|
 [fc]
 [vo_ren s="ren0428"]
 [ns]Ren[nse]
-"I'm so happy... Big brother praised my pussy... I'm so happy..."[pcms]
+"I'm so happy... Big brother praised my pussy... I'm so[r]
+happy..."[pcms]
 
 *3437|
 [fc]
-Ren smiled sweetly while tightly clamping down on my thing with her comfortable[r]
-pussy.[pcms]
+Ren smiled sweetly while tightly clamping down on my thing[r]
+with her comfortable pussy.[pcms]
 
 *3438|
 [fc]
@@ -2454,22 +2520,22 @@ pussy.[pcms]
 
 *3439|
 [fc]
-Ren began to move even more violently on top of me. My fully erect member was[r]
-mercilessly stroked, and I felt like I was about to explode from the rising[r]
-sensation of ejaculation.[pcms]
+Ren began to move even more violently on top of me. My fully[r]
+erect member was mercilessly stroked, and I felt like I was[r]
+about to explode from the rising sensation of ejaculation.[pcms]
 
 *3440|
 [fc]
 [ns]Wataru[nse]
-"Ugh... Ren... it's amazing. I'm going to cum... I'm going to release inside[r]
-Ren..."[pcms]
+"Ugh... Ren... it's amazing. I'm going to cum... I'm going[r]
+to release inside Ren..."[pcms]
 
 *3441|
 [fc]
 [vo_ren s="ren0430"]
 [ns]Ren[nse]
-"Aahh! Y-yes~, give it to me~. Give me lots of big brother's semen~!! Nnh![r]
-Aahh~!!"[pcms]
+"Aahh! Y-yes~, give it to me~. Give me lots of big brother's[r]
+semen~!! Nnh! Aahh~!!"[pcms]
 
 *3442|
 [fc]
@@ -2484,20 +2550,20 @@ Aahh~!!"[pcms]
 
 *3443|
 [fc]
-I surrendered to the pleasure and released my desire fully inside Ren. It felt[r]
-unbearably good.[pcms]
+I surrendered to the pleasure and released my desire fully[r]
+inside Ren. It felt unbearably good.[pcms]
 
 *3444|
 [fc]
 [vo_ren s="ren0431"]
 [ns]Ren[nse]
-"Big brother's hot stuff is... so much... I can feel big brother's hot semen[r]
-inside my belly..."[pcms]
+"Big brother's hot stuff is... so much... I can feel big[r]
+brother's hot semen inside my belly..."[pcms]
 
 *3445|
 [fc]
-As Ren said, she seemed to be trying to swallow every last drop of what I had[r]
-released, tightening inside there.[pcms]
+As Ren said, she seemed to be trying to swallow every last[r]
+drop of what I had released, tightening inside there.[pcms]
 
 [evcg storage="HEV053d"][trans_c cross time=300]
 
@@ -2506,23 +2572,26 @@ released, tightening inside there.[pcms]
 [fc]
 [vo_ren s="ren0432"]
 [ns]Ren[nse]
-"It's good... I've always wanted this... To be creampied by big brother..."[pcms]
+"It's good... I've always wanted this... To be creampied by[r]
+big brother..."[pcms]
 
 *3447|
 [fc]
-Feeling the heat of my released desire, Ren looked at me with an ecstatic[r]
-expression, utterly entranced.[pcms]
+Feeling the heat of my released desire, Ren looked at me[r]
+with an ecstatic expression, utterly entranced.[pcms]
 
 *3448|
 [fc]
 [vo_ren s="ren0433"]
 [ns]Ren[nse]
-"I'm so happy... To be done like this by big brother... I'm so happy"[pcms]
+"I'm so happy... To be done like this by big brother... I'm[r]
+so happy"[pcms]
 
 *3449|
 [fc]
-A sister delighted by being creampied by her brother. Something that should only[r]
-exist in manga or games had become my reality.[pcms]
+A sister delighted by being creampied by her brother.[r]
+Something that should only exist in manga or games had[r]
+become my reality.[pcms]
 
 *3450|
 [fc]
@@ -2530,7 +2599,8 @@ I was willingly accepting it.[pcms]
 
 *3451|
 [fc]
-I felt as if I was breaking, being taken over by something that wasn't me.[pcms]
+I felt as if I was breaking, being taken over by something[r]
+that wasn't me.[pcms]
 
 *3452|
 [fc]
@@ -2540,7 +2610,8 @@ I felt as if I was breaking, being taken over by something that wasn't me.[pcms]
 [fc]
 [vo_mar s="maru0516"]
 [ns]Margarita[nse]
-"Ufufu... I'm so happy with so much penis and semen... Ahaha... Ahahahaha..."[pcms]
+"Ufufu... I'm so happy with so much penis and semen...[r]
+Ahaha... Ahahahaha..."[pcms]
 
 *3454|
 [fc]
@@ -2548,8 +2619,8 @@ That senior had ended up like that too.[pcms]
 
 *3455|
 [fc]
-I couldn't resist this feeling of pleasure. What's so wrong with feeling this[r]
-good, I began to think.[pcms]
+I couldn't resist this feeling of pleasure. What's so wrong[r]
+with feeling this good, I began to think.[pcms]
 
 *3456|
 [fc]
@@ -2557,7 +2628,8 @@ That's right... I really don't understand what's wrong.[pcms]
 
 *3457|
 [fc]
-What was I even worrying about? It feels good, so it's fine, isn't it?[pcms]
+What was I even worrying about? It feels good, so it's fine,[r]
+isn't it?[pcms]
 
 *3458|
 [fc]
@@ -2566,8 +2638,8 @@ What was I even worrying about? It feels good, so it's fine, isn't it?[pcms]
 
 *3459|
 [fc]
-I thought that I needed to teach this pleasure to Yuuho soon. To Yuuho, whom I[r]
-love so much.[pcms]
+I thought that I needed to teach this pleasure to Yuuho[r]
+soon. To Yuuho, whom I love so much.[pcms]
 
 
 ;//---------------------------------------------------------------

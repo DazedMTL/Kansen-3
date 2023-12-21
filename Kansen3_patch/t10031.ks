@@ -39,23 +39,27 @@
 
 *5572|
 [fc]
-Inside the large analog record shop on the 4th floor, "Recomani," everyone[r]
-scattered to their own favorite corners.[pcms]
+Inside the large analog record shop on the 4th floor,[r]
+"Recomani," everyone scattered to their own favorite[r]
+corners.[pcms]
 
 *5573|
 [fc]
-This record shop boasts the largest floor space and inventory in Japan.[pcms]
+This record shop boasts the largest floor space and[r]
+inventory in Japan.[pcms]
 
 *5574|
 [fc]
-In Udagawacho, as the shops in Reco Village one by one became mail-order only[r]
-and closed down, this store remained incredibly valuable to those who are[r]
-particular about black vinyl (analog records)... or so Kousuke says.[pcms]
+In Udagawacho, as the shops in Reco Village one by one[r]
+became mail-order only and closed down, this store remained[r]
+incredibly valuable to those who are particular about black[r]
+vinyl (analog records)... or so Kousuke says.[pcms]
 
 *5575|
 [fc]
-They also sell used CDs and DVDs, so it's not just for those looking for rare[r]
-records. Even someone like me has been taken care of here occasionally.[pcms]
+They also sell used CDs and DVDs, so it's not just for those[r]
+looking for rare records. Even someone like me has been[r]
+taken care of here occasionally.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -66,8 +70,9 @@ records. Even someone like me has been taken care of here occasionally.[pcms]
 
 *5577|
 [fc]
-As expected, Kousuke was in the analog record corner, swiftly flipping through[r]
-the records on the shelves with nimble fingers.[pcms]
+As expected, Kousuke was in the analog record corner,[r]
+swiftly flipping through the records on the shelves with[r]
+nimble fingers.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -75,15 +80,16 @@ the records on the shelves with nimble fingers.[pcms]
 [fc]
 [vo_miz s="mizuki_T0002"]
 [ns]Mizuki[nse]
-"Kousuke, you look so serious. It's just us here, you don't have to check[r]
-everything so frantically, do you?"[pcms]
+"Kousuke, you look so serious. It's just us here, you don't[r]
+have to check everything so frantically, do you?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5579|
 [fc]
 [ns]Kousuke[nse]
-"No, I know, but... somehow, I don't feel like I'm DIGging unless I do this..."[pcms]
+"No, I know, but... somehow, I don't feel like I'm DIGging[r]
+unless I do this..."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -95,14 +101,16 @@ everything so frantically, do you?"[pcms]
 
 *5581|
 [fc]
-I thought that since no one else would be shopping, they could come back and[r]
-look as many times as they wanted... but I decided not to interrupt the two who[r]
-seemed to be getting along so well and headed to another corner.[pcms]
+I thought that since no one else would be shopping, they[r]
+could come back and look as many times as they wanted... but[r]
+I decided not to interrupt the two who seemed to be getting[r]
+along so well and headed to another corner.[pcms]
 
 *5582|
 [fc]
-Seeing the two of them so friendly with each other, I didn't want to disturb[r]
-them, so I turned my feet towards another corner.[pcms]
+Seeing the two of them so friendly with each other, I didn't[r]
+want to disturb them, so I turned my feet towards another[r]
+corner.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -113,8 +121,9 @@ them, so I turned my feet towards another corner.[pcms]
 
 *5584|
 [fc]
-In the used DVD corner, Jin-san stood with his arms crossed, searching through[r]
-the DVD-BOX sets with a serious expression.[pcms]
+In the used DVD corner, Jin-san stood with his arms crossed,[r]
+searching through the DVD-BOX sets with a serious[r]
+expression.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -122,25 +131,27 @@ the DVD-BOX sets with a serious expression.[pcms]
 [fc]
 [vo_yuh s="yuho_T0006"]
 [ns]Yuuho[nse]
-"White House Twenty Four? Jin-san, you're interested in that kind of thing?"[pcms]
+"White House Twenty Four? Jin-san, you're interested in that[r]
+kind of thing?"[pcms]
 
 *5586|
 [fc]
-Yuuho raised her voice in surprise as she followed Jin-san's gaze. He was[r]
-looking at a foreign drama series that had won numerous awards.[pcms]
+Yuuho raised her voice in surprise as she followed Jin-san's[r]
+gaze. He was looking at a foreign drama series that had won[r]
+numerous awards.[pcms]
 
 *5587|
 [fc]
-I was a bit surprised myself. I thought that Jin-san and his rough companions[r]
-would only watch yakuza movies.[pcms]
+I was a bit surprised myself. I thought that Jin-san and his[r]
+rough companions would only watch yakuza movies.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5588|
 [fc]
 [ns]Jin[nse]
-"Uh, well... yeah. But the TV in the 7th-floor dressing room is small. It lacks[r]
-impact..."[pcms]
+"Uh, well... yeah. But the TV in the 7th-floor dressing room[r]
+is small. It lacks impact..."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -148,8 +159,9 @@ impact..."[pcms]
 [fc]
 [vo_miz s="mizuki_T0004"]
 [ns]Mizuki[nse]
-"Then why not watch it in the 5th-floor theater room? The screen is big, and[r]
-there are headphones. There are even reclining seats with massage functions."[pcms]
+"Then why not watch it in the 5th-floor theater room? The[r]
+screen is big, and there are headphones. There are even[r]
+reclining seats with massage functions."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -164,8 +176,8 @@ there are headphones. There are even reclining seats with massage functions."[pc
 [fc]
 [vo_miz s="mizuki_T0005"]
 [ns]Mizuki[nse]
-"Jin, you get stiff shoulders easily, right? It might be nice for you. You might[r]
-feel so good that you fall asleep."[pcms]
+"Jin, you get stiff shoulders easily, right? It might be[r]
+nice for you. You might feel so good that you fall asleep."[pcms]
 
 *5592|
 [fc]
@@ -173,8 +185,9 @@ Mizuki passed by with a laugh, teasing Jin-san.[pcms]
 
 *5593|
 [fc]
-Well... I should also pick up a CD or something. Last month, my favorite artist[r]
-released a best-of album. I hope it's already in the used section...[pcms]
+Well... I should also pick up a CD or something. Last month,[r]
+my favorite artist released a best-of album. I hope it's[r]
+already in the used section...[pcms]
 
 ;//ä‘
 
@@ -186,8 +199,8 @@ released a best-of album. I hope it's already in the used section...[pcms]
 
 *5594|
 [fc]
-As I looked around, I found quite a few CDs I wanted to listen to and ended up[r]
-with my hands full of cases.[pcms]
+As I looked around, I found quite a few CDs I wanted to[r]
+listen to and ended up with my hands full of cases.[pcms]
 
 *5595|
 [fc]
@@ -196,8 +209,8 @@ with my hands full of cases.[pcms]
 
 *5596|
 [fc]
-Carefully walking so as not to drop the CD cases, I came across Yuuho and Ren[r]
-emerging from between the shelves.[pcms]
+Carefully walking so as not to drop the CD cases, I came[r]
+across Yuuho and Ren emerging from between the shelves.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -213,8 +226,8 @@ emerging from between the shelves.[pcms]
 [fc]
 [vo_ren s="ren_T0007"]
 [ns]Ren[nse]
-"Yeah, I found a masterpiece conducted by Anselmo, so I think I'll listen to it[r]
-later."[pcms]
+"Yeah, I found a masterpiece conducted by Anselmo, so I[r]
+think I'll listen to it later."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -226,17 +239,19 @@ later."[pcms]
 
 *5600|
 [fc]
-The two stopped in front of the anti-theft security gates set up at the exit.[pcms]
+The two stopped in front of the anti-theft security gates[r]
+set up at the exit.[pcms]
 
 *5601|
 [fc]
-The floor had electricity running through it, so presumably, this security[r]
-system was also active.[pcms]
+The floor had electricity running through it, so presumably,[r]
+this security system was also active.[pcms]
 
 *5602|
 [fc]
-We wouldn't have security or staff come running even if the buzzer went off, but[r]
-still, being blasted with a loud warning isn't good for the heart.[pcms]
+We wouldn't have security or staff come running even if the[r]
+buzzer went off, but still, being blasted with a loud[r]
+warning isn't good for the heart.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -250,7 +265,8 @@ still, being blasted with a loud warning isn't good for the heart.[pcms]
 
 *5604|
 [fc]
-Maruko-senpai passed by Yuuho with an innocent face as she pondered.[pcms]
+Maruko-senpai passed by Yuuho with an innocent face as she[r]
+pondered.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -280,7 +296,8 @@ Maruko-senpai passed by Yuuho with an innocent face as she pondered.[pcms]
 
 *5608|
 [fc]
-Yuuho called out in a hurry, but the senior had already passed through the gate.[pcms]
+Yuuho called out in a hurry, but the senior had already[r]
+passed through the gate.[pcms]
 
 *5609|
 [fc]
@@ -293,12 +310,13 @@ Yuuho called out in a hurry, but the senior had already passed through the gate.
 [fc]
 [vo_mar s="maru_T0010"]
 [ns]Margarita[nse]
-"Ah, the anti-theft tag? There was a device at the register so I took it off."[pcms]
+"Ah, the anti-theft tag? There was a device at the register[r]
+so I took it off."[pcms]
 
 *5611|
 [fc]
-Maruko-senpai nonchalantly stated while holding a box set of Showa-era[r]
-melodramas in both arms.[pcms]
+Maruko-senpai nonchalantly stated while holding a box set of[r]
+Showa-era melodramas in both arms.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -318,8 +336,8 @@ melodramas in both arms.[pcms]
 
 *5614|
 [fc]
-We headed to the register and removed the magnetic tags from the CDs we had[r]
-chosen.[pcms]
+We headed to the register and removed the magnetic tags from[r]
+the CDs we had chosen.[pcms]
 
 *5615|
 [fc]
@@ -343,14 +361,15 @@ We also borrowed some paper bags to consolidate our items.[pcms]
 
 *5618|
 [fc]
-The two shared a mischievous smile and laughed as they passed through the gate.[pcms]
+The two shared a mischievous smile and laughed as they[r]
+passed through the gate.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5618a|
 [fc]
-About to leave the store myself, I looked up and noticed an escalator on the[r]
-opposite side of the elevator entrance.[pcms]
+About to leave the store myself, I looked up and noticed an[r]
+escalator on the opposite side of the elevator entrance.[pcms]
 
 *5619|
 [fc]
@@ -359,29 +378,31 @@ opposite side of the elevator entrance.[pcms]
 
 *5620|
 [fc]
-I don't usually stop by the store on the 3rd floor, but I have taken the[r]
-escalator up to the music store on the 2nd floor.[pcms]
+I don't usually stop by the store on the 3rd floor, but I[r]
+have taken the escalator up to the music store on the 2nd[r]
+floor.[pcms]
 
 *5621|
 [fc]
-As I approached, the escalator's lights were turned off, and it seemed to be out[r]
-of operation.[pcms]
+As I approached, the escalator's lights were turned off, and[r]
+it seemed to be out of operation.[pcms]
 
 *5622|
 [fc]
-There were two areas for boarding, one for going up and one for going down. The[r]
-one for going up had a sign and a rope at the entrance, and it seemed like it[r]
-was originally not meant to be used.[pcms]
+There were two areas for boarding, one for going up and one[r]
+for going down. The one for going up had a sign and a rope[r]
+at the entrance, and it seemed like it was originally not[r]
+meant to be used.[pcms]
 
 *5623|
 [fc]
-But I didn't see any escalators in "GyuuGyuu Heaven" on the 6th floor or[r]
-"Arcadia" on the 5th floor...[pcms]
+But I didn't see any escalators in "GyuuGyuu Heaven" on the[r]
+6th floor or "Arcadia" on the 5th floor...[pcms]
 
 *5624|
 [fc]
-Setting aside the one going down, I wonder how far up the escalator for[r]
-ascending goes?[pcms]
+Setting aside the one going down, I wonder how far up the[r]
+escalator for ascending goes?[pcms]
 
 ;//---------------------------------------------------------------
 ;//ÅúëIëéàÅFÇ`ÇQ

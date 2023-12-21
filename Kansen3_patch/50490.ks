@@ -21,13 +21,13 @@
 
 *2694|
 [fc]
-Kousuke and Ren were being given a "serious talk" by Yuuho, while I finished up[r]
-the dishes.[pcms]
+Kousuke and Ren were being given a "serious talk" by Yuuho,[r]
+while I finished up the dishes.[pcms]
 
 *2695|
 [fc]
-Then the four of us... that is, a shocked Kousuke and Ren, an angrily silent[r]
-Yuuho, and myself got on the elevator...[pcms]
+Then the four of us... that is, a shocked Kousuke and Ren,[r]
+an angrily silent Yuuho, and myself got on the elevator...[pcms]
 
 ;//@konya LESAR エレベータ
 [bg storage="BG120"][trans_c cross time=500]
@@ -42,8 +42,8 @@ The awkwardness is explosive...[pcms]
 
 *2697|
 [fc]
-Finally released from the torture-like silence, I staggered out to the entrance[r]
-of the manga cafe.[pcms]
+Finally released from the torture-like silence, I staggered[r]
+out to the entrance of the manga cafe.[pcms]
 
 ;//〆背景：漫画喫茶アルカディア（部分照明）
 [bg storage="BG020b"][trans_c cross time=500]
@@ -51,8 +51,9 @@ of the manga cafe.[pcms]
 
 *2698|
 [fc]
-For bedtime, I suppose, the lights on the floor were mostly turned off, leaving[r]
-only the area around the counter, the open space, and the library corner lit.[pcms]
+For bedtime, I suppose, the lights on the floor were mostly[r]
+turned off, leaving only the area around the counter, the[r]
+open space, and the library corner lit.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -64,15 +65,15 @@ only the area around the counter, the open space, and the library corner lit.[pc
 
 *2700|
 [fc]
-Maruko-senpai, who was sitting at the counter, looked a bit surprised when she[r]
-saw the four of us.[pcms]
+Maruko-senpai, who was sitting at the counter, looked a bit[r]
+surprised when she saw the four of us.[pcms]
 
 *2701|
 [fc]
 [vo_mar s="maru1558"]
 [ns]Margarita[nse]
-"Wataru and Kousuke are supposed to be washing dishes... why are Kannagi and Ren[r]
-here too?"[pcms]
+"Wataru and Kousuke are supposed to be washing dishes... why[r]
+are Kannagi and Ren here too?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -85,7 +86,8 @@ here too?"[pcms]
 
 *2703|
 [fc]
-With her anger still not subsided, Yuuho quickly walked away to the back.[pcms]
+With her anger still not subsided, Yuuho quickly walked away[r]
+to the back.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -97,8 +99,8 @@ With her anger still not subsided, Yuuho quickly walked away to the back.[pcms]
 
 *2705|
 [fc]
-Ren, who was inevitably given a curious look by the senior, flustered and waved[r]
-her hands meaninglessly.[pcms]
+Ren, who was inevitably given a curious look by the senior,[r]
+flustered and waved her hands meaninglessly.[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -145,7 +147,8 @@ In a panic, I rushed over and peered into Yuuho's face.[pcms]
 
 *2711|
 [fc]
-Somehow... her face is red. Could it be that she's not angry but has a fever?[pcms]
+Somehow... her face is red. Could it be that she's not angry[r]
+but has a fever?[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -153,14 +156,15 @@ Somehow... her face is red. Could it be that she's not angry but has a fever?[pc
 [fc]
 [vo_ren s="ren1396"]
 [ns]Ren[nse]
-"Now that you mention it... she looked unwell even when she was cooking[r]
-earlier..."[pcms]
+"Now that you mention it... she looked unwell even when she[r]
+was cooking earlier..."[pcms]
 ;//＠心配
 
 *2713|
 [fc]
 [ns]Wataru[nse]
-"Eh?? If you had told me, I wouldn't have made you prepare the meal."[pcms]
+"Eh?? If you had told me, I wouldn't have made you prepare[r]
+the meal."[pcms]
 
 *2714|
 [fc]
@@ -172,8 +176,8 @@ Yuuho shook her head weakly at our arguing.[pcms]
 [fc]
 [vo_yuh s="yuho1623"]
 [ns]Yuuho[nse]
-"...I'm fine. Probably just... tension loosening up or... just tiredness coming[r]
-out... don't worry."[pcms]
+"...I'm fine. Probably just... tension loosening up or...[r]
+just tiredness coming out... don't worry."[pcms]
 
 *2716|
 [fc]
@@ -194,16 +198,18 @@ Yuuho's gaze caught mine.[pcms]
 
 *2719|
 [fc]
-We ended up staring at each other again like before... but, what is it, the[r]
-atmosphere feels a bit different...?[pcms]
+We ended up staring at each other again like before... but,[r]
+what is it, the atmosphere feels a bit different...?[pcms]
 
 *2720|
 [fc]
-I can't pinpoint what it is but it feels kind of... erotic...?[pcms]
+I can't pinpoint what it is but it feels kind of...[r]
+erotic...?[pcms]
 
 *2721|
 [fc]
-...No way. It's impossible for Yuuho to have that kind of erotic look...[pcms]
+...No way. It's impossible for Yuuho to have that kind of[r]
+erotic look...[pcms]
 
 *2722|
 [fc]
@@ -220,7 +226,8 @@ I can't pinpoint what it is but it feels kind of... erotic...?[pcms]
 
 *2724|
 [fc]
-Distracted, Yuuho suddenly seemed to realize something and looked down.[pcms]
+Distracted, Yuuho suddenly seemed to realize something and[r]
+looked down.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -244,7 +251,8 @@ Yuuho then moved away from me.[pcms]
 
 *2728|
 [fc]
-Without looking back, Yuuho didn't respond to the senior's concerned words.[pcms]
+Without looking back, Yuuho didn't respond to the senior's[r]
+concerned words.[pcms]
 
 ;//ラベル：合流へ
 [jump storage="50490.ks" target=*50490_03]
@@ -263,7 +271,8 @@ Without looking back, Yuuho didn't respond to the senior's concerned words.[pcms
 
 *2730|
 [fc]
-I don't know what she inferred, but the senior decided not to pry any further.[pcms]
+I don't know what she inferred, but the senior decided not[r]
+to pry any further.[pcms]
 
 ;//ラベル：合流へ
 [jump storage="50490.ks" target=*50490_03]
@@ -294,7 +303,8 @@ The senior cleared her throat and looked over at us.[pcms]
 
 *2734|
 [fc]
-On top of the counter was a mobile phone charger with Yuuho's phone charging.[pcms]
+On top of the counter was a mobile phone charger with[r]
+Yuuho's phone charging.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -322,7 +332,8 @@ I took out my own phone thinking of mobiles...[pcms]
 
 *2739|
 [fc]
-I opened the mail screen but there was still no reply from Dad.[pcms]
+I opened the mail screen but there was still no reply from[r]
+Dad.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -335,18 +346,18 @@ I opened the mail screen but there was still no reply from Dad.[pcms]
 
 *2741|
 [fc]
-Ren, who was looking at the screen with me, let out a slightly disappointed[r]
-voice.[pcms]
+Ren, who was looking at the screen with me, let out a[r]
+slightly disappointed voice.[pcms]
 
 *2742|
 [fc]
-We knew he was safe from the daytime TV broadcast, but still, we wanted him to[r]
-let us know his situation.[pcms]
+We knew he was safe from the daytime TV broadcast, but[r]
+still, we wanted him to let us know his situation.[pcms]
 
 *2743|
 [fc]
-It's hard to believe that he's too busy to even send a mail, even for my dad who[r]
-types with one finger.[pcms]
+It's hard to believe that he's too busy to even send a mail,[r]
+even for my dad who types with one finger.[pcms]
 
 *2744|
 [fc]
@@ -373,12 +384,14 @@ The senior showed us the mobile phone in her hand.[pcms]
 [fc]
 [vo_mar s="maru1565"]
 [ns]Margarita[nse]
-"It's probably a mobile phone for the store. We've decided to use it for now."[pcms]
+"It's probably a mobile phone for the store. We've decided[r]
+to use it for now."[pcms]
 
 *2749|
 [fc]
-The mobile's screen seemed to be in One-Seg mode. But there was no broadcast,[r]
-just a message saying "Please wait a while."[pcms]
+The mobile's screen seemed to be in One-Seg mode. But there[r]
+was no broadcast, just a message saying "Please wait a[r]
+while."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -406,8 +419,9 @@ Understanding the meaning of my gaze, the senior spoke.[pcms]
 [fc]
 [vo_mar s="maru1567"]
 [ns]Margarita[nse]
-"However, some news sites on the net are still being updated. The information[r]
-that was confusing at first seems to be settling down."[pcms]
+"However, some news sites on the net are still being[r]
+updated. The information that was confusing at first seems[r]
+to be settling down."[pcms]
 
 *2754|
 [fc]
@@ -416,12 +430,13 @@ that was confusing at first seems to be settling down."[pcms]
 
 *2755|
 [fc]
-I also displayed the bulletin board I had bookmarked on my mobile phone.[pcms]
+I also displayed the bulletin board I had bookmarked on my[r]
+mobile phone.[pcms]
 
 *2756|
 [fc]
-In the short time I hadn't looked, the number of new posts had increased[r]
-significantly.[pcms]
+In the short time I hadn't looked, the number of new posts[r]
+had increased significantly.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -442,8 +457,8 @@ significantly.[pcms]
 [fc]
 [vo_mar s="maru1568"]
 [ns]Margarita[nse]
-"Most are from shelters or similar facilities, but there are some posts that[r]
-seem to be made while on the move."[pcms]
+"Most are from shelters or similar facilities, but there are[r]
+some posts that seem to be made while on the move."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -470,8 +485,8 @@ The senior softened her expression a bit and smiled shyly.[pcms]
 [fc]
 [vo_mar s="maru1570"]
 [ns]Margarita[nse]
-"...Also, I've managed to contact my home country. I was able to speak with my[r]
-father and connect with Sesuka."[pcms]
+"...Also, I've managed to contact my home country. I was[r]
+able to speak with my father and connect with Sesuka."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -479,18 +494,21 @@ father and connect with Sesuka."[pcms]
 [fc]
 [vo_mar s="maru1571"]
 [ns]Margarita[nse]
-"My father seems to have joined the United States fleet. The fleet is anchored[r]
-near Miyake Island, waiting for instructions from the homeland."[pcms]
+"My father seems to have joined the United States fleet. The[r]
+fleet is anchored near Miyake Island, waiting for[r]
+instructions from the homeland."[pcms]
 
 *2765|
 [fc]
-According to information from the senior's father, it seems that the Third Fleet[r]
-has been dispatched from the United States.[pcms]
+According to information from the senior's father, it seems[r]
+that the Third Fleet has been dispatched from the United[r]
+States.[pcms]
 
 *2766|
 [fc]
-To me, it didn't make much sense, but according to Kousuke, there's a big[r]
-difference in whether helicopters can fly or not.[pcms]
+To me, it didn't make much sense, but according to Kousuke,[r]
+there's a big difference in whether helicopters can fly or[r]
+not.[pcms]
 
 *2767|
 [fc]
@@ -507,20 +525,23 @@ difference in whether helicopters can fly or not.[pcms]
 [fc]
 [vo_mar s="maru1573"]
 [ns]Margarita[nse]
-"She sounded more cheerful than I expected, but the garrison's facilities are[r]
-packed with evacuees, and it seems like a harsh environment for civilians..."[pcms]
+"She sounded more cheerful than I expected, but the[r]
+garrison's facilities are packed with evacuees, and it seems[r]
+like a harsh environment for civilians..."[pcms]
 
 *2770|
 [fc]
-If there's a risk of infected people or creatures, it should be impossible to[r]
-set up tents outside... The evacuation camps must be in considerable chaos.[pcms]
+If there's a risk of infected people or creatures, it should[r]
+be impossible to set up tents outside... The evacuation[r]
+camps must be in considerable chaos.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2771|
 [fc]
 [ns]Kousuke[nse]
-"So, us being able to evacuate to LASER might have been pretty lucky."[pcms]
+"So, us being able to evacuate to LASER might have been[r]
+pretty lucky."[pcms]
 
 *2772|
 [fc]
@@ -529,8 +550,8 @@ set up tents outside... The evacuation camps must be in considerable chaos.[pcms
 
 *2773|
 [fc]
-It might sound bad for others, but indeed we might be in a very fortunate[r]
-environment.[pcms]
+It might sound bad for others, but indeed we might be in a[r]
+very fortunate environment.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -550,13 +571,14 @@ The senior pointed towards the back of the bookshelf corner.[pcms]
 [fc]
 [vo_mar s="maru1575"]
 [ns]Margarita[nse]
-"Let's prioritize resting our bodies and use the 'tatami private rooms' behind[r]
-the counter."[pcms]
+"Let's prioritize resting our bodies and use the 'tatami[r]
+private rooms' behind the counter."[pcms]
 
 *2777|
 [fc]
-The tatami private rooms are located behind the bookshelf corner, with three[r]
-rooms on each side of the corridor, totaling six rooms.[pcms]
+The tatami private rooms are located behind the bookshelf[r]
+corner, with three rooms on each side of the corridor,[r]
+totaling six rooms.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -564,8 +586,9 @@ rooms on each side of the corridor, totaling six rooms.[pcms]
 [fc]
 [vo_mar s="maru1576"]
 [ns]Margarita[nse]
-"Mizuki and Yuuho are sleeping in the right side of the back row. I'll take the[r]
-next row on the right, and Ren will be on the left."[pcms]
+"Mizuki and Yuuho are sleeping in the right side of the back[r]
+row. I'll take the next row on the right, and Ren will be on[r]
+the left."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -592,8 +615,9 @@ The senior turned to face me and Kousuke.[pcms]
 *2782|
 [fc]
 [ns]Kousuke[nse]
-"Hmm. I'd prefer the theater room. I'm quite used to sleeping on sofas, so I[r]
-think I can sleep better there than in a tatami room."[pcms]
+"Hmm. I'd prefer the theater room. I'm quite used to[r]
+sleeping on sofas, so I think I can sleep better there than[r]
+in a tatami room."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -607,8 +631,9 @@ think I can sleep better there than in a tatami room."[pcms]
 [fc]
 [vo_mar s="maru1579"]
 [ns]Margarita[nse]
-"We've secured the safety of this building for now, and I think we can trust[r]
-that man Jin... But the other man is dangerous."[pcms]
+"We've secured the safety of this building for now, and I[r]
+think we can trust that man Jin... But the other man is[r]
+dangerous."[pcms]
 
 *2785|
 [fc]
@@ -642,8 +667,8 @@ Maruko-senpai nodded.[pcms]
 
 *2790|
 [fc]
-Somehow... this feels a little nice. It's like being relied upon as a full-[r]
-fledged man.[pcms]
+Somehow... this feels a little nice. It's like being relied[r]
+upon as a full- fledged man.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -655,8 +680,8 @@ fledged man.[pcms]
 
 *2792|
 [fc]
-The senior reached down at her feet and was searching for something behind the[r]
-counter.[pcms]
+The senior reached down at her feet and was searching for[r]
+something behind the counter.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -668,7 +693,8 @@ counter.[pcms]
 
 *2794|
 [fc]
-The heavy sound that was made was from the very same pistol being set down.[pcms]
+The heavy sound that was made was from the very same pistol[r]
+being set down.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -683,7 +709,8 @@ The heavy sound that was made was from the very same pistol being set down.[pcms
 [fc]
 [vo_mar s="maru1584"]
 [ns]Margarita[nse]
-"Both of you, take it to your room. It's loaded. Don't mess with the safety."[pcms]
+"Both of you, take it to your room. It's loaded. Don't mess[r]
+with the safety."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -691,8 +718,8 @@ The heavy sound that was made was from the very same pistol being set down.[pcms
 [fc]
 [vo_mar s="maru1585"]
 [ns]Margarita[nse]
-"If by any chance you have to use it, remember the lecture from this afternoon.[r]
-Got it?"[pcms]
+"If by any chance you have to use it, remember the lecture[r]
+from this afternoon. Got it?"[pcms]
 
 *2798|
 [fc]
@@ -701,7 +728,8 @@ Got it?"[pcms]
 
 *2799|
 [fc]
-I picked up the Bob Chau Special (Tadahiko version)... It's very cold and heavy.[pcms]
+I picked up the Bob Chau Special (Tadahiko version)... It's[r]
+very cold and heavy.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -709,8 +737,8 @@ I picked up the Bob Chau Special (Tadahiko version)... It's very cold and heavy.
 [fc]
 [vo_mar s="maru1586"]
 [ns]Margarita[nse]
-"Tomorrow we'll do proper shooting training. Until then, don't fiddle with it[r]
-carelessly, okay?"[pcms]
+"Tomorrow we'll do proper shooting training. Until then,[r]
+don't fiddle with it carelessly, okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -794,12 +822,13 @@ When I touched my forehead to hers, it felt a bit hot.[pcms]
 *2812|
 [fc]
 [ns]Wataru[nse]
-"...Was it from that time? The terrace at 'De Deppou' was in direct sunlight..."[pcms]
+"...Was it from that time? The terrace at 'De Deppou' was in[r]
+direct sunlight..."[pcms]
 
 *2813|
 [fc]
-Having her act as bait for the infected in the daytime might have been a bad[r]
-idea...[pcms]
+Having her act as bait for the infected in the daytime might[r]
+have been a bad idea...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -807,7 +836,8 @@ idea...[pcms]
 [fc]
 [vo_ren s="ren1404"]
 [ns]Ren[nse]
-"Is that so? That's strange...? Mizuki-chan even put UV cream on me..."[pcms]
+"Is that so? That's strange...? Mizuki-chan even put UV[r]
+cream on me..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -840,8 +870,8 @@ Ren released herself from my embrace.[pcms]
 
 *2820|
 [fc]
-It's rare for her to let go first; she usually clings until I let go. Did[r]
-something happen...?[pcms]
+It's rare for her to let go first; she usually clings until[r]
+I let go. Did something happen...?[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -849,12 +879,13 @@ something happen...?[pcms]
 [fc]
 [vo_ren s="ren1407"]
 [ns]Ren[nse]
-"Sorry, big brother. I just... might be really sleepy... I'll go rest first,[r]
-okay?"[pcms]
+"Sorry, big brother. I just... might be really sleepy...[r]
+I'll go rest first, okay?"[pcms]
 
 *2822|
 [fc]
-Turning away from me and speaking in a low voice, Ren muttered.[pcms]
+Turning away from me and speaking in a low voice, Ren[r]
+muttered.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -867,7 +898,8 @@ Turning away from me and speaking in a low voice, Ren muttered.[pcms]
 *2824|
 [fc]
 [ns]Wataru[nse]
-"That's already fine. More importantly, are you really okay?"[pcms]
+"That's already fine. More importantly, are you really[r]
+okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -909,7 +941,8 @@ As soon as I called out, Ren turned around abruptly.[pcms]
 
 *2831|
 [fc]
-Trembling lips trying to say something, then she looked down again.[pcms]
+Trembling lips trying to say something, then she looked down[r]
+again.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -929,13 +962,13 @@ Trembling lips trying to say something, then she looked down again.[pcms]
 
 *2834|
 [fc]
-I watched Ren's retreating figure as she ran off, wondering if I should follow[r]
-her.[pcms]
+I watched Ren's retreating figure as she ran off, wondering[r]
+if I should follow her.[pcms]
 
 *2835|
 [fc]
-I wasn't angry about the eavesdropping at all. She seems to be reflecting more[r]
-than necessary.[pcms]
+I wasn't angry about the eavesdropping at all. She seems to[r]
+be reflecting more than necessary.[pcms]
 
 *2836|
 [fc]
@@ -954,7 +987,8 @@ I wonder if I should have made it clear that I wasn't mad...[pcms]
 [fc]
 [vo_mar s="maru1587"]
 [ns]Margarita[nse]
-"Hmm. I noticed it too. Let's watch over her for the night..."[pcms]
+"Hmm. I noticed it too. Let's watch over her for the[r]
+night..."[pcms]
 
 *2839|
 [fc]
@@ -963,8 +997,8 @@ I wonder if I should have made it clear that I wasn't mad...[pcms]
 
 *2840|
 [fc]
-We faced danger and said goodbye to someone close. It must have been a tough day[r]
-for the sensitive Ren.[pcms]
+We faced danger and said goodbye to someone close. It must[r]
+have been a tough day for the sensitive Ren.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -979,12 +1013,13 @@ for the sensitive Ren.[pcms]
 [fc]
 [vo_mar s="maru1588"]
 [ns]Margarita[nse]
-"Well then, you guys should also rest soon, right? ...But before that..."[pcms]
+"Well then, you guys should also rest soon, right? ...But[r]
+before that..."[pcms]
 
 *2843|
 [fc]
-The senior went back into the office behind the counter and returned shortly[r]
-with some sort of rod-shaped object.[pcms]
+The senior went back into the office behind the counter and[r]
+returned shortly with some sort of rod-shaped object.[pcms]
 
 *2844|
 [fc]
@@ -996,8 +1031,8 @@ Upon looking, there were two mop handles.[pcms]
 [fc]
 [vo_mar s="maru1589"]
 [ns]Margarita[nse]
-"I'll hand these over to you. In case of emergency, these might be easier to[r]
-handle than an unfamiliar gun."[pcms]
+"I'll hand these over to you. In case of emergency, these[r]
+might be easier to handle than an unfamiliar gun."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1011,8 +1046,8 @@ handle than an unfamiliar gun."[pcms]
 
 *2847|
 [fc]
-Kousuke, having received the mop handle, suddenly started swinging it around[r]
-with both hands.[pcms]
+Kousuke, having received the mop handle, suddenly started[r]
+swinging it around with both hands.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1032,8 +1067,8 @@ with both hands.[pcms]
 [fc]
 [vo_mar s="maru1590"]
 [ns]Margarita[nse]
-"Since it's cramped indoors, use it by thrusting. You should ask Wataru for the[r]
-knack of it."[pcms]
+"Since it's cramped indoors, use it by thrusting. You should[r]
+ask Wataru for the knack of it."[pcms]
 ;//＠ほほえむ。
 
 *2851|
@@ -1054,7 +1089,8 @@ I mumbled shyly, blushing at the senior's smile.[pcms]
 [fc]
 [vo_mar s="maru1591"]
 [ns]Margarita[nse]
-"I thought a wooden sword would be best for me. I brought it from 'Dedepou'."[pcms]
+"I thought a wooden sword would be best for me. I brought it[r]
+from 'Dedepou'."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1088,16 +1124,17 @@ Kousuke swallowed hard.[pcms]
 [fc]
 [vo_mar s="maru1593"]
 [ns]Margarita[nse]
-"Don't worry. It looks like a genuine product from the west. It shouldn't[r]
-detonate unexpectedly."[pcms]
+"Don't worry. It looks like a genuine product from the west.[r]
+It shouldn't detonate unexpectedly."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2860|
 [fc]
 [ns]Kousuke[nse]
-"No... It's not that I'm worried about. It's just that, senpai, you seem like[r]
-the type who might accidentally blow themselves up..."[pcms]
+"No... It's not that I'm worried about. It's just that,[r]
+senpai, you seem like the type who might accidentally blow[r]
+themselves up..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f14"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1113,8 +1150,8 @@ the type who might accidentally blow themselves up..."[pcms]
 [fc]
 [vo_mar s="maru1595"]
 [ns]Margarita[nse]
-"Do I really look like someone who would clumsily blow themselves up and drag[r]
-others into it?"[pcms]
+"Do I really look like someone who would clumsily blow[r]
+themselves up and drag others into it?"[pcms]
 
 *2863|
 [fc]
@@ -1126,7 +1163,8 @@ No... that's not the issue here.[pcms]
 [fc]
 [vo_mar s="maru1596"]
 [ns]Margarita[nse]
-"Just go to sleep already! I'll rest after I gather a bit more information."[pcms]
+"Just go to sleep already! I'll rest after I gather a bit[r]
+more information."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1161,12 +1199,14 @@ We headed towards the private tatami rooms.[pcms]
 
 *2870|
 [fc]
-Following the senior's instructions, we decided to enter the room at the very[r]
-front, each of us going to the left and right.[pcms]
+Following the senior's instructions, we decided to enter the[r]
+room at the very front, each of us going to the left and[r]
+right.[pcms]
 
 *2871|
 [fc]
-After seeing Kousuke quickly enter his room, I also headed towards mine...[pcms]
+After seeing Kousuke quickly enter his room, I also headed[r]
+towards mine...[pcms]
 
 *2872|
 [fc]
@@ -1175,7 +1215,8 @@ After seeing Kousuke quickly enter his room, I also headed towards mine...[pcms]
 
 *2873|
 [fc]
-I'm still worried about Ren from earlier. Maybe I should go check on her.[pcms]
+I'm still worried about Ren from earlier. Maybe I should go[r]
+check on her.[pcms]
 
 *2874|
 [fc]
@@ -1188,7 +1229,8 @@ I headed towards Ren's room door.[pcms]
 
 *2876|
 [fc]
-Just as I was about to knock, I heard a voice from inside and stopped my hand.[pcms]
+Just as I was about to knock, I heard a voice from inside[r]
+and stopped my hand.[pcms]
 
 *2877|
 [fc]
@@ -1203,11 +1245,13 @@ Just as I was about to knock, I heard a voice from inside and stopped my hand.[p
 
 *2879|
 [fc]
-She must be really reflecting on it... or rather, she's taking it hard.[pcms]
+She must be really reflecting on it... or rather, she's[r]
+taking it hard.[pcms]
 
 *2880|
 [fc]
-If I call out now, it might backfire. Better to leave her alone for tonight...[pcms]
+If I call out now, it might backfire. Better to leave her[r]
+alone for tonight...[pcms]
 
 *2881|
 [fc]
@@ -1229,13 +1273,15 @@ I muttered through the door and headed to my own room.[pcms]
 
 *2884|
 [fc]
-There was a switch by the door that turned on the light inside the room only.[pcms]
+There was a switch by the door that turned on the light[r]
+inside the room only.[pcms]
 
 *2885|
 [fc]
-The room was small, about three tatami mats in size, but it had a computer and[r]
-game console with a memory foam floor chair, and personal items brought from[r]
-'Dedepou' were also placed there.[pcms]
+The room was small, about three tatami mats in size, but it[r]
+had a computer and game console with a memory foam floor[r]
+chair, and personal items brought from 'Dedepou' were also[r]
+placed there.[pcms]
 
 *2886|
 [fc]
@@ -1244,8 +1290,8 @@ game console with a memory foam floor chair, and personal items brought from[r]
 
 *2887|
 [fc]
-I laid out the provided blanket as a futon and adjusted the position of the[r]
-floor chair to use as a pillow.[pcms]
+I laid out the provided blanket as a futon and adjusted the[r]
+position of the floor chair to use as a pillow.[pcms]
 
 *2888|
 [fc]
@@ -1254,12 +1300,13 @@ floor chair to use as a pillow.[pcms]
 
 *2889|
 [fc]
-Really... a lot happened. More like too much happened... It must have been quite[r]
-a burden for the sensitive Ren...[pcms]
+Really... a lot happened. More like too much happened... It[r]
+must have been quite a burden for the sensitive Ren...[pcms]
 
 *2890|
 [fc]
-Even so... It was a close call earlier... Yuuho and I were almost...[pcms]
+Even so... It was a close call earlier... Yuuho and I were[r]
+almost...[pcms]
 
 *2891|
 [fc]
@@ -1268,8 +1315,8 @@ Even so... It was a close call earlier... Yuuho and I were almost...[pcms]
 
 *2892|
 [fc]
-If I go to Yuuho's room tonight... could we continue where we left off...? Maybe[r]
-Yuuho is also waiting for me...?[pcms]
+If I go to Yuuho's room tonight... could we continue where[r]
+we left off...? Maybe Yuuho is also waiting for me...?[pcms]
 
 *2893|
 [fc]
@@ -1278,13 +1325,14 @@ Yuuho is also waiting for me...?[pcms]
 
 *2894|
 [fc]
-She was angry just a while ago. If I push my luck and go over there, I might end[r]
-up getting scolded too.[pcms]
+She was angry just a while ago. If I push my luck and go[r]
+over there, I might end up getting scolded too.[pcms]
 
 *2895|
 [fc]
-First of all, this room, even though it's a private room, has no soundproofing[r]
-at all... Whatever we do, the voices will leak out.[pcms]
+First of all, this room, even though it's a private room,[r]
+has no soundproofing at all... Whatever we do, the voices[r]
+will leak out.[pcms]
 
 *2896|
 [fc]
@@ -1293,7 +1341,8 @@ at all... Whatever we do, the voices will leak out.[pcms]
 
 *2897|
 [fc]
-I turned off the light and quietly wrapped myself in the blanket.[pcms]
+I turned off the light and quietly wrapped myself in the[r]
+blanket.[pcms]
 
 ;//ジャンプ：ブロック50500 へ
 [jump storage="50500.ks" target=*50500_TOP]
@@ -1341,8 +1390,8 @@ The senior looked surprised, as if she found it unexpected.[pcms]
 [fc]
 [vo_ren s="ren1416"]
 [ns]Ren[nse]
-"I know I might not be very helpful, but it's not good to always be protected by[r]
-everyone, right?"[pcms]
+"I know I might not be very helpful, but it's not good to[r]
+always be protected by everyone, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1354,8 +1403,9 @@ everyone, right?"[pcms]
 
 *2905|
 [fc]
-I patted Ren's head as she blushed. It's not so much about whether it's actually[r]
-useful or not, but her feelings made me happy.[pcms]
+I patted Ren's head as she blushed. It's not so much about[r]
+whether it's actually useful or not, but her feelings made[r]
+me happy.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1367,8 +1417,9 @@ useful or not, but her feelings made me happy.[pcms]
 
 *2907|
 [fc]
-The senior smiled at Ren and went into the office behind the counter. After a[r]
-while, she came back holding something rod-shaped.[pcms]
+The senior smiled at Ren and went into the office behind the[r]
+counter. After a while, she came back holding something rod-[r]
+shaped.[pcms]
 
 *2908|
 [fc]
@@ -1380,8 +1431,8 @@ It turned out to be three mop handles.[pcms]
 [fc]
 [vo_mar s="maru1599"]
 [ns]Margarita[nse]
-"I'll give these to Wataru and Kousuke too. In an emergency, these might be[r]
-easier to handle than an unfamiliar gun."[pcms]
+"I'll give these to Wataru and Kousuke too. In an emergency,[r]
+these might be easier to handle than an unfamiliar gun."[pcms]
 
 *2910|
 [fc]
@@ -1393,8 +1444,8 @@ Indeed, I also feel more at ease with a mop.[pcms]
 [fc]
 [vo_mar s="maru1600"]
 [ns]Margarita[nse]
-"The space inside is narrow, so use it by thrusting. Wataru can teach you the[r]
-trick."[pcms]
+"The space inside is narrow, so use it by thrusting. Wataru[r]
+can teach you the trick."[pcms]
 ;//＠ほほえむ。
 
 *2912|
@@ -1416,11 +1467,13 @@ I mumbled shyly with a blush as the senior smiled at me.[pcms]
 *2915|
 [fc]
 [ns]Kousuke[nse]
-"I'd prefer that too... Oh, by the way, wasn't there also a katana?"[pcms]
+"I'd prefer that too... Oh, by the way, wasn't there also a[r]
+katana?"[pcms]
 
 *2916|
 [fc]
-Maruko-senpai looked at the excited Kousuke with a cold gaze.[pcms]
+Maruko-senpai looked at the excited Kousuke with a cold[r]
+gaze.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1428,9 +1481,9 @@ Maruko-senpai looked at the excited Kousuke with a cold gaze.[pcms]
 [fc]
 [vo_mar s="maru1601"]
 [ns]Margarita[nse]
-"Didn't I say that blades are not allowed because of blood splatter? If you[r]
-really hate mops that much, how about using a hanger? They're hard enough to be[r]
-somewhat useful."[pcms]
+"Didn't I say that blades are not allowed because of blood[r]
+splatter? If you really hate mops that much, how about using[r]
+a hanger? They're hard enough to be somewhat useful."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1449,8 +1502,8 @@ You should have said that from the start.[pcms]
 [fc]
 [vo_mar s="maru1602"]
 [ns]Margarita[nse]
-"When I went to 'Dedepou' to get our stuff, I found these. It was a good[r]
-decision to bring them here."[pcms]
+"When I went to 'Dedepou' to get our stuff, I found these.[r]
+It was a good decision to bring them here."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1484,16 +1537,17 @@ Kousuke swallowed nervously.[pcms]
 [fc]
 [vo_mar s="maru1604"]
 [ns]Margarita[nse]
-"Don't worry. From what I can see, it's a genuine product from the west. It[r]
-shouldn't explode accidentally."[pcms]
+"Don't worry. From what I can see, it's a genuine product[r]
+from the west. It shouldn't explode accidentally."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2926|
 [fc]
 [ns]Kousuke[nse]
-"No... It's not that I'm worried about. It's just that, senior, you seem like[r]
-the type who might accidentally blow themselves up..."[pcms]
+"No... It's not that I'm worried about. It's just that,[r]
+senior, you seem like the type who might accidentally blow[r]
+themselves up..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f14"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1509,8 +1563,8 @@ the type who might accidentally blow themselves up..."[pcms]
 [fc]
 [vo_mar s="maru1606"]
 [ns]Margarita[nse]
-"Do I look like someone who would clumsily blow themselves up and involve[r]
-others?"[pcms]
+"Do I look like someone who would clumsily blow themselves[r]
+up and involve others?"[pcms]
 
 *2929|
 [fc]
@@ -1522,7 +1576,8 @@ No... That's not the issue here.[pcms]
 [fc]
 [vo_mar s="maru1607"]
 [ns]Margarita[nse]
-"Just go to sleep already! I'll rest after I gather a bit more information."[pcms]
+"Just go to sleep already! I'll rest after I gather a bit[r]
+more information."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1562,12 +1617,14 @@ We headed towards the tatami room.[pcms]
 
 *2937|
 [fc]
-Following the senior's instructions, we decided to enter the room at the very[r]
-front, each of us going to the left and right side respectively.[pcms]
+Following the senior's instructions, we decided to enter the[r]
+room at the very front, each of us going to the left and[r]
+right side respectively.[pcms]
 
 *2938|
 [fc]
-After watching Kousuke quickly enter his room, I was about to enter mine when...[pcms]
+After watching Kousuke quickly enter his room, I was about[r]
+to enter mine when...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1606,8 +1663,8 @@ It seems she's worried about having eavesdropped earlier.[pcms]
 *2945|
 [fc]
 [ns]Wataru[nse]
-"I'm not mad or anything. But Yuuho might be a little upset. You should[r]
-apologize to her again later."[pcms]
+"I'm not mad or anything. But Yuuho might be a little upset.[r]
+You should apologize to her again later."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1634,11 +1691,13 @@ Ren, with a relieved expression, suddenly hugged me.[pcms]
 *2949|
 [fc]
 [ns]Wataru[nse]
-"It's okay, Ren. Don't worry about it and get some sleep... okay?"[pcms]
+"It's okay, Ren. Don't worry about it and get some sleep...[r]
+okay?"[pcms]
 
 *2950|
 [fc]
-I hugged Ren, who was seeking comfort, and whispered soothingly.[pcms]
+I hugged Ren, who was seeking comfort, and whispered[r]
+soothingly.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1653,7 +1712,8 @@ I hugged Ren, who was seeking comfort, and whispered soothingly.[pcms]
 
 *2952|
 [fc]
-Leaning the mop handle at the entrance of the room, Ren went to her own place.[pcms]
+Leaning the mop handle at the entrance of the room, Ren went[r]
+to her own place.[pcms]
 
 *2953|
 [fc]
@@ -1670,13 +1730,14 @@ After watching her go, I also entered my room.[pcms]
 
 *2955|
 [fc]
-There was a switch by the door, and I could turn on the light just for the room.[pcms]
+There was a switch by the door, and I could turn on the[r]
+light just for the room.[pcms]
 
 *2956|
 [fc]
-The room was small, about three tatami mats in size, but it had a computer, a[r]
-gaming console, and a low-resilience foam chair, as well as personal belongings[r]
-I brought from home.[pcms]
+The room was small, about three tatami mats in size, but it[r]
+had a computer, a gaming console, and a low-resilience foam[r]
+chair, as well as personal belongings I brought from home.[pcms]
 
 *2957|
 [fc]
@@ -1685,8 +1746,8 @@ I brought from home.[pcms]
 
 *2958|
 [fc]
-I laid out the provided blanket as a futon and adjusted the position of the[r]
-chair to use as a pillow.[pcms]
+I laid out the provided blanket as a futon and adjusted the[r]
+position of the chair to use as a pillow.[pcms]
 
 *2959|
 [fc]
@@ -1704,8 +1765,8 @@ That was close earlier... Yuuho and I were almost...[pcms]
 
 *2962|
 [fc]
-If I go to Yuuho's room tonight... could we continue where we left off...? Maybe[r]
-Yuuho is also waiting for me...?[pcms]
+If I go to Yuuho's room tonight... could we continue where[r]
+we left off...? Maybe Yuuho is also waiting for me...?[pcms]
 
 *2963|
 [fc]
@@ -1714,13 +1775,14 @@ Yuuho is also waiting for me...?[pcms]
 
 *2964|
 [fc]
-She was so angry earlier. If I push my luck and show up uninvited, I might get[r]
-scolded too.[pcms]
+She was so angry earlier. If I push my luck and show up[r]
+uninvited, I might get scolded too.[pcms]
 
 *2965|
 [fc]
-Besides, even though this room is called private, it's not soundproof at all...[r]
-Any sound would leak out no matter what we do.[pcms]
+Besides, even though this room is called private, it's not[r]
+soundproof at all... Any sound would leak out no matter what[r]
+we do.[pcms]
 
 *2966|
 [fc]
@@ -1729,7 +1791,8 @@ Any sound would leak out no matter what we do.[pcms]
 
 *2967|
 [fc]
-I turned off the light and quietly wrapped myself in the blanket.[pcms]
+I turned off the light and quietly wrapped myself in the[r]
+blanket.[pcms]
 
 ;//ジャンプ：ブロック50500 へ
 ;//→ＬＡＳＥＲ死者の夜へ

@@ -15,23 +15,24 @@
 
 *71|
 [fc]
-...Let's head towards Ren! Yuuho has better reflexes than me, and she's probably[r]
-okay, unlike the delicate Ren.[pcms]
+...Let's head towards Ren! Yuuho has better reflexes than[r]
+me, and she's probably okay, unlike the delicate Ren.[pcms]
 
 *72|
 [fc]
-It seems like there are fewer people if we go upstairs, but it's probably safer[r]
-than heading to the special classrooms from the second floor without knowing[r]
-what's going on.[pcms]
+It seems like there are fewer people if we go upstairs, but[r]
+it's probably safer than heading to the special classrooms[r]
+from the second floor without knowing what's going on.[pcms]
 
 *73|
 [fc]
-Sure, I've been running non-stop and I'm almost out of breath, but they move[r]
-slowly, so I think we can manage.[pcms]
+Sure, I've been running non-stop and I'm almost out of[r]
+breath, but they move slowly, so I think we can manage.[pcms]
 
 *74|
 [fc]
-We've managed to escape this far, so it'll be okay. I can do this![pcms]
+We've managed to escape this far, so it'll be okay. I can do[r]
+this![pcms]
 
 *75|
 [fc]
@@ -43,8 +44,8 @@ And beyond here, Ren is waiting for help.[pcms]
 
 *77|
 [fc]
-The fact that I can't hear the band practice means that she must be panicking[r]
-because of the situation.[pcms]
+The fact that I can't hear the band practice means that she[r]
+must be panicking because of the situation.[pcms]
 
 *78|
 [fc]
@@ -52,8 +53,8 @@ I hope that Ren has barricaded herself in the music room.[pcms]
 
 *79|
 [fc]
-If Ren were to encounter what I saw in the classroom we passed by... considering[r]
-how fragile she is...[pcms]
+If Ren were to encounter what I saw in the classroom we[r]
+passed by... considering how fragile she is...[pcms]
 
 *80|
 [fc]
@@ -61,8 +62,8 @@ She might just die of shock![pcms]
 
 *81|
 [fc]
-No, forget shock death... I won't let Ren go through something like that. No[r]
-way![pcms]
+No, forget shock death... I won't let Ren go through[r]
+something like that. No way![pcms]
 
 *82|
 [fc]
@@ -71,8 +72,9 @@ way![pcms]
 
 *83|
 [fc]
-I couldn't shout out loud to avoid being noticed, but with all my spirit, I made[r]
-up my mind and dashed to the right... towards the special classrooms.[pcms]
+I couldn't shout out loud to avoid being noticed, but with[r]
+all my spirit, I made up my mind and dashed to the right...[r]
+towards the special classrooms.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -84,19 +86,20 @@ up my mind and dashed to the right... towards the special classrooms.[pcms]
 
 *85|
 [fc]
-As soon as I jumped out from hiding, I was inevitably spotted by the women.[pcms]
+As soon as I jumped out from hiding, I was inevitably[r]
+spotted by the women.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *86|
 [fc]
-But I don't want to be attacked by these weird women. I dodge nimbly and head[r]
-towards the gym.[pcms]
+But I don't want to be attacked by these weird women. I[r]
+dodge nimbly and head towards the gym.[pcms]
 
 *87|
 [fc]
-Alright, the corridor leading to the gym is just ahead! The destination is right[r]
-in front of me! Hang in there, me!![pcms]
+Alright, the corridor leading to the gym is just ahead! The[r]
+destination is right in front of me! Hang in there, me!![pcms]
 
 *88|
 [fc]
@@ -115,13 +118,13 @@ I realized that I couldn't jump as high as I thought.[pcms]
 
 *91|
 [fc]
-Because I was pulled down with tremendous force from behind onto the corridor, I[r]
-couldn't jump.[pcms]
+Because I was pulled down with tremendous force from behind[r]
+onto the corridor, I couldn't jump.[pcms]
 
 *92|
 [fc]
-Even though I should have been slammed hard onto the corridor, the impact wasn't[r]
-that severe.[pcms]
+Even though I should have been slammed hard onto the[r]
+corridor, the impact wasn't that severe.[pcms]
 
 *93|
 [fc]
@@ -129,8 +132,9 @@ It was thanks to the camping gear I had on my back.[pcms]
 
 *94|
 [fc]
-No, since being pulled down was also a result of someone pulling on my gear from[r]
-behind, I wonder which would have been better.[pcms]
+No, since being pulled down was also a result of someone[r]
+pulling on my gear from behind, I wonder which would have[r]
+been better.[pcms]
 
 *95|
 [fc]
@@ -149,7 +153,8 @@ In a panic, I shook off my gear and tried to get up.[pcms]
 
 *98|
 [fc]
-But already on top of me was a woman with a triumphant look...[pcms]
+But already on top of me was a woman with a triumphant[r]
+look...[pcms]
 
 *99|
 [fc]
@@ -165,7 +170,8 @@ I too, might end up like that...[pcms]
 
 *102|
 [fc]
-Will I be killed too? Or... will I become like these deranged people?[pcms]
+Will I be killed too? Or... will I become like these[r]
+deranged people?[pcms]
 
 *103|
 [fc]
@@ -177,7 +183,8 @@ That common phrase repeated in my mind.[pcms]
 
 *105|
 [fc]
-There's no such convenient story. It's too late for regrets now...[pcms]
+There's no such convenient story. It's too late for regrets[r]
+now...[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_c"][ChrSetXY layer=5 x=174 y=0][trans_c cross time=150]
 
@@ -189,8 +196,9 @@ There's no such convenient story. It's too late for regrets now...[pcms]
 
 *107|
 [fc]
-Without my life flashing before my eyes like a revolving lantern... my vision[r]
-was filled with women with uniformly red eyes.[pcms]
+Without my life flashing before my eyes like a revolving[r]
+lantern... my vision was filled with women with uniformly[r]
+red eyes.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -198,7 +206,8 @@ was filled with women with uniformly red eyes.[pcms]
 [fc]
 [vo_mob s="onna_san0002"]
 [ns]Infected Woman D[nse]
-"Ahahahaha! A young man, huh! Let's have plenty of fun now, shall we!?"[pcms]
+"Ahahahaha! A young man, huh! Let's have plenty of fun now,[r]
+shall we!?"[pcms]
 
 ;//〆：ゲームオーバー画面へ。
 ;//jump：ブロック●●●●●

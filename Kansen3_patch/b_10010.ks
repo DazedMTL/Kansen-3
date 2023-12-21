@@ -78,8 +78,8 @@ It's not about whether I can or can't. I have to do it...[pcms]
 *3683|
 [fc]
 [ns]Kousuke[nse]
-"Hey... hey, stop, Wataru! Then, I will...! Because... it's my fault that Yuuho[r]
-got infected...!"[pcms]
+"Hey... hey, stop, Wataru! Then, I will...! Because... it's[r]
+my fault that Yuuho got infected...!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -91,19 +91,21 @@ got infected...!"[pcms]
 
 *3685|
 [fc]
-I slowly shook my head at Kousuke and Maruko-senpai's offers.[pcms]
+I slowly shook my head at Kousuke and Maruko-senpai's[r]
+offers.[pcms]
 
 *3686|
 [fc]
 [ns]Wataru[nse]
-"...Please let me do it. If there's nothing else I can do for Yuuho... then at[r]
-least let me do this... please..."[pcms]
+"...Please let me do it. If there's nothing else I can do[r]
+for Yuuho... then at least let me do this... please..."[pcms]
 
 *3687|
 [fc]
-If this is the last way to save Yuuho. I don't want to leave it to someone else.[r]
-If it's the last gift I can give to the Yuuho I love so much. I want to deliver[r]
-it with my own hands...[pcms]
+If this is the last way to save Yuuho. I don't want to leave[r]
+it to someone else. If it's the last gift I can give to the[r]
+Yuuho I love so much. I want to deliver it with my own[r]
+hands...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -137,9 +139,10 @@ Tadahiko's words came to mind.[pcms]
 *3692|
 [fc]
 [ns]Tadahiko[nse]
-"When you put your finger on the trigger, make sure you understand what it means[r]
-to fire that bullet. Think about it, and only after you've thought it through,[r]
-put your finger on the trigger... And then, never hesitate."[pcms]
+"When you put your finger on the trigger, make sure you[r]
+understand what it means to fire that bullet. Think about[r]
+it, and only after you've thought it through, put your[r]
+finger on the trigger... And then, never hesitate."[pcms]
 
 [chara_int][trans_c cross time=300]
 
@@ -149,8 +152,8 @@ Yes, I must not hesitate...[pcms]
 
 *3694|
 [fc]
-I can't bear to see the kind Yuuho turn into such a monster. I can't just stand[r]
-by and watch![pcms]
+I can't bear to see the kind Yuuho turn into such a monster.[r]
+I can't just stand by and watch![pcms]
 
 *3695|
 [fc]
@@ -170,7 +173,8 @@ That's why... I'm the only one who can save Yuuho...[pcms]
 
 *3697|
 [fc]
-When I returned to the manga cafe, Yuuho was sitting in front of the drink bar.[pcms]
+When I returned to the manga cafe, Yuuho was sitting in[r]
+front of the drink bar.[pcms]
 
 *3698|
 [fc]
@@ -180,12 +184,13 @@ When I returned to the manga cafe, Yuuho was sitting in front of the drink bar.[
 
 *3699|
 [fc]
-It seems she was eating soft-serve ice cream while I was away.[pcms]
+It seems she was eating soft-serve ice cream while I was[r]
+away.[pcms]
 
 *3700|
 [fc]
-She had filled a glass full of cream and was munching away with her face all[r]
-messy.[pcms]
+She had filled a glass full of cream and was munching away[r]
+with her face all messy.[pcms]
 
 *3701|
 [fc]
@@ -198,7 +203,8 @@ messy.[pcms]
 [fc]
 [vo_yuh s="yuho_B0002"]
 [ns]Yuuho[nse]
-"...Aah? Waa-taa-ru!? Where... were you? Let's eat... together, okay?"[pcms]
+"...Aah? Waa-taa-ru!? Where... were you? Let's eat...[r]
+together, okay?"[pcms]
 
 *3703|
 [fc]
@@ -210,12 +216,13 @@ Yuuho's face brightened up when she saw me.[pcms]
 [fc]
 [vo_yuh s="yuho_B0003"]
 [ns]Yuuho[nse]
-"...Or maybe... you prefer that? The continuation from earlier? I... like both,[r]
-you know...?"[pcms]
+"...Or maybe... you prefer that? The continuation from[r]
+earlier? I... like both, you know...?"[pcms]
 
 *3705|
 [fc]
-Lifting her tank top a little, Yuuho smiled up at me with a teasing look.[pcms]
+Lifting her tank top a little, Yuuho smiled up at me with a[r]
+teasing look.[pcms]
 
 *3706|
 [fc]
@@ -224,7 +231,8 @@ Lifting her tank top a little, Yuuho smiled up at me with a teasing look.[pcms]
 
 *3707|
 [fc]
-I took one step closer to Yuuho and aimed the gun with both hands.[pcms]
+I took one step closer to Yuuho and aimed the gun with both[r]
+hands.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -232,13 +240,15 @@ I took one step closer to Yuuho and aimed the gun with both hands.[pcms]
 [fc]
 [vo_yuh s="yuho_B0004"]
 [ns]Yuuho[nse]
-"No way, that's bad? You shouldn't point it at people, right? Wata-ru... if you[r]
-mess around, you'll get scolded, okay? By senpai? Ufufufu...uhh"[pcms]
+"No way, that's bad? You shouldn't point it at people,[r]
+right? Wata-ru... if you mess around, you'll get scolded,[r]
+okay? By senpai? Ufufufu...uhh"[pcms]
 ;//＠笑いを含んで
 
 *3709|
 [fc]
-As soon as she saw the gun in my hands, Yuuho smiled sweetly.[pcms]
+As soon as she saw the gun in my hands, Yuuho smiled[r]
+sweetly.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e32"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -258,7 +268,8 @@ Suddenly stopping her laughter, Yuuho slowly stood up.[pcms]
 [fc]
 [vo_yuh s="yuho_B0006"]
 [ns]Yuuho[nse]
-"Wata-ru... Wataru... Wataru? Are you serious...? Are you going to kill me...?"[pcms]
+"Wata-ru... Wataru... Wataru? Are you serious...? Are you[r]
+going to kill me...?"[pcms]
 ;//＠少し正気がもどった
 
 *3713|
@@ -267,8 +278,9 @@ Yuuho called my name and came closer.[pcms]
 
 *3714|
 [fc]
-I have to shoot before she gets too close. Even though that's what I'm thinking,[r]
-my arms and legs are shaking so much that I can't steady my aim...[pcms]
+I have to shoot before she gets too close. Even though[r]
+that's what I'm thinking, my arms and legs are shaking so[r]
+much that I can't steady my aim...[pcms]
 
 *3715|
 [fc]
@@ -277,13 +289,15 @@ my arms and legs are shaking so much that I can't steady my aim...[pcms]
 
 *3716|
 [fc]
-I gritted my teeth and put strength into my arms. It's the opposite of what[r]
-senpai taught me, but shooting in a relaxed posture seems impossible...[pcms]
+I gritted my teeth and put strength into my arms. It's the[r]
+opposite of what senpai taught me, but shooting in a relaxed[r]
+posture seems impossible...[pcms]
 
 *3717|
 [fc]
-All I have to do is pull the trigger. Just move this finger a few millimeters...[r]
-But my fingertips feel frozen and won't budge an inch.[pcms]
+All I have to do is pull the trigger. Just move this finger[r]
+a few millimeters... But my fingertips feel frozen and won't[r]
+budge an inch.[pcms]
 
 ;//黒画面
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -302,8 +316,8 @@ The meaning of Tadahiko's words finally sank in deeply.[pcms]
 
 *3721|
 [fc]
-This time for sure... this time for sure! I'll shoot!!! And then I'll set Yuuho[r]
-free!!![pcms]
+This time for sure... this time for sure! I'll shoot!!! And[r]
+then I'll set Yuuho free!!![pcms]
 
 *3722|
 [fc]
@@ -322,7 +336,8 @@ I made up my mind and opened my eyes wide...[pcms]
 
 *3724|
 [fc]
-There was Yuuho in front of me. Yuuho with her eyes crazed red.[pcms]
+There was Yuuho in front of me. Yuuho with her eyes crazed[r]
+red.[pcms]
 
 *3725|
 [fc]
@@ -331,8 +346,8 @@ There was Yuuho in front of me. Yuuho with her eyes crazed red.[pcms]
 
 *3726|
 [fc]
-Red eyes are closing in on me. If I don't shoot, I'll be attacked! I'll get[r]
-infected too...![pcms]
+Red eyes are closing in on me. If I don't shoot, I'll be[r]
+attacked! I'll get infected too...![pcms]
 
 *3727|
 [fc]
@@ -352,8 +367,8 @@ After all, there's no way I can do it.[pcms]
 
 *3730|
 [fc]
-To erase the Yuuho I love from this world, to take Yuuho's life with my own[r]
-hands, I can't...!![pcms]
+To erase the Yuuho I love from this world, to take Yuuho's[r]
+life with my own hands, I can't...!![pcms]
 
 *3731|
 [fc]
@@ -366,13 +381,14 @@ Because... because I love Yuuho...[pcms]
 
 *3733|
 [fc]
-Now that I know I can't shoot, the trembling in my arms has stopped. I begin to[r]
-slowly lower the gun.[pcms]
+Now that I know I can't shoot, the trembling in my arms has[r]
+stopped. I begin to slowly lower the gun.[pcms]
 
 *3734|
 [fc]
-If it means killing Yuuho with my own hands, I'd rather be attacked and become[r]
-an infected myself... That's what I started to think.[pcms]
+If it means killing Yuuho with my own hands, I'd rather be[r]
+attacked and become an infected myself... That's what I[r]
+started to think.[pcms]
 
 *3735|
 [fc]
@@ -404,7 +420,8 @@ Yuuho smiled at me as if a flower was blooming.[pcms]
 
 *3739|
 [fc]
-Yuuho's words... they make sense!? Has she come back to her senses, Yuuho?[pcms]
+Yuuho's words... they make sense!? Has she come back to her[r]
+senses, Yuuho?[pcms]
 
 *3740|
 [fc]
@@ -413,8 +430,8 @@ Yuuho's words... they make sense!? Has she come back to her senses, Yuuho?[pcms]
 
 *3741|
 [fc]
-Her eyes were still bright red, but looking closely, they were focused firmly on[r]
-me, and her face had her usual smile.[pcms]
+Her eyes were still bright red, but looking closely, they[r]
+were focused firmly on me, and her face had her usual smile.[pcms]
 
 [evcg storage="EV013g"][trans_c cross time=300]
 
@@ -422,12 +439,14 @@ me, and her face had her usual smile.[pcms]
 [fc]
 [vo_yuh s="yuho_B0010"]
 [ns]Yuuho[nse]
-"I'm glad... it was you who came... Wataru. Sorry... and thank you..."[pcms]
+"I'm glad... it was you who came... Wataru. Sorry... and[r]
+thank you..."[pcms]
 ;//＠必死で正気を保つ
 
 *3743|
 [fc]
-After managing to say that much in broken speech, Yuuho quietly closed her eyes.[pcms]
+After managing to say that much in broken speech, Yuuho[r]
+quietly closed her eyes.[pcms]
 
 [evcg storage="EV013h"][trans_c cross time=300]
 
@@ -446,7 +465,8 @@ I raise the gun again that I had started to lower.[pcms]
 
 *3747|
 [fc]
-Yuuho... if that's what you wish for... then I'll do it... I'll kill you...[pcms]
+Yuuho... if that's what you wish for... then I'll do it...[r]
+I'll kill you...[pcms]
 
 *3748|
 [fc]
@@ -457,8 +477,8 @@ Yuuho... if that's what you wish for... then I'll do it... I'll kill you...[pcms
 
 *3749|
 [fc]
-The moment I said that, the corners of Yuuho's mouth seemed to slightly curl up,[r]
-even with her eyes closed...[pcms]
+The moment I said that, the corners of Yuuho's mouth seemed[r]
+to slightly curl up, even with her eyes closed...[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

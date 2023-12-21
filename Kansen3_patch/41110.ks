@@ -50,7 +50,8 @@
 
 *3462|
 [fc]
-I stood up, enduring the pain from the scraped knee I got from falling.[pcms]
+I stood up, enduring the pain from the scraped knee I got[r]
+from falling.[pcms]
 
 *3463|
 [fc]
@@ -58,13 +59,13 @@ I had been running in the darkness all this time.[pcms]
 
 *3464|
 [fc]
-The flashlight I was holding was grabbed and dropped while I was fleeing from[r]
-those crazed people.[pcms]
+The flashlight I was holding was grabbed and dropped while I[r]
+was fleeing from those crazed people.[pcms]
 
 *3465|
 [fc]
-The dark underground passage was hard to see, and I fell several times because[r]
-my feet got caught.[pcms]
+The dark underground passage was hard to see, and I fell[r]
+several times because my feet got caught.[pcms]
 
 *3466|
 [fc]
@@ -76,8 +77,9 @@ I don't want to become one of those people![pcms]
 
 *3468|
 [fc]
-Continuing to move solely based on desire, that's not human. I may be dumb and[r]
-not understand well, but I think humans need things like love and reason.[pcms]
+Continuing to move solely based on desire, that's not human.[r]
+I may be dumb and not understand well, but I think humans[r]
+need things like love and reason.[pcms]
 
 *3469|
 [fc]
@@ -113,8 +115,8 @@ So, I kept running down the dark, unclear path.[pcms]
 
 *3474|
 [fc]
-Between my panting breaths, I continued to run while muttering Wataru's name[r]
-like a spell.[pcms]
+Between my panting breaths, I continued to run while[r]
+muttering Wataru's name like a spell.[pcms]
 
 ;//se052ÅEÉRÉìÉNÉäÅ[ÉgÇÃè„ÇëñÇÈÅiàÍêlÅj
 [se buf=0 storage="se052"]
@@ -152,12 +154,13 @@ I bumped into something and fell over again.[pcms]
 
 *3477|
 [fc]
-It wasn't because my feet got caught on the shards of stone or sand like before,[r]
-but because I bumped into something...[pcms]
+It wasn't because my feet got caught on the shards of stone[r]
+or sand like before, but because I bumped into something...[pcms]
 
 *3478|
 [fc]
-It was hard, but incomparably softer than stone... and it was warm...[pcms]
+It was hard, but incomparably softer than stone... and it[r]
+was warm...[pcms]
 
 ;//@konya ínâ∫í òH
 [bg storage="BG027"][trans_c cross time=500]
@@ -183,8 +186,8 @@ A human voice? Who is it?[pcms]
 
 *3482|
 [fc]
-As I tried to get up and placed my hands down, they touched something squishy[r]
-and lukewarm.[pcms]
+As I tried to get up and placed my hands down, they touched[r]
+something squishy and lukewarm.[pcms]
 
 *3483|
 [fc]
@@ -208,8 +211,8 @@ and lukewarm.[pcms]
 
 *3486|
 [fc]
-Just as I thought! It's one of those crazed people! I fell over after bumping[r]
-into one of them.[pcms]
+Just as I thought! It's one of those crazed people! I fell[r]
+over after bumping into one of them.[pcms]
 
 *3487|
 [fc]
@@ -229,36 +232,39 @@ A different voice from before. It's not just one person!![pcms]
 
 *3490|
 [fc]
-No matter how much I try to stifle my voice, the warm breath and voices blowing[r]
-close by involuntarily make me scream.[pcms]
+No matter how much I try to stifle my voice, the warm breath[r]
+and voices blowing close by involuntarily make me scream.[pcms]
 
 *3491|
 [fc]
-"I need to muster my courage, hold my breath, and sneak away from here..."[pcms]
+"I need to muster my courage, hold my breath, and sneak away[r]
+from here..."[pcms]
 
 *3492|
 [fc]
-Even though my mind understands what to do, my body won't listen.[pcms]
+Even though my mind understands what to do, my body won't[r]
+listen.[pcms]
 
 *3493|
 [fc]
-Kousuke once said during a movie we watched together about the "Horror Movie[r]
-Death Flags."[pcms]
+Kousuke once said during a movie we watched together about[r]
+the "Horror Movie Death Flags."[pcms]
 
 *3494|
 [fc]
-The clich scenario where the heroine could have escaped quietly but somehow[r]
-makes a blunder and gets found out, then killed.[pcms]
+The clich scenario where the heroine could have escaped[r]
+quietly but somehow makes a blunder and gets found out, then[r]
+killed.[pcms]
 
 *3495|
 [fc]
-I laughed at that time... but now, I see myself overlapping with that kind of[r]
-heroine.[pcms]
+I laughed at that time... but now, I see myself overlapping[r]
+with that kind of heroine.[pcms]
 
 *3496|
 [fc]
-No way! I'd be fine as the heroine of a romance movie, but definitely not a[r]
-horror movie... I absolutely hate that!![pcms]
+No way! I'd be fine as the heroine of a romance movie, but[r]
+definitely not a horror movie... I absolutely hate that!![pcms]
 
 *3497|
 [fc]
@@ -268,7 +274,8 @@ horror movie... I absolutely hate that!![pcms]
 
 *3498|
 [fc]
-I bit my lip to suppress my fear and began to sneak away quietly from there.[pcms]
+I bit my lip to suppress my fear and began to sneak away[r]
+quietly from there.[pcms]
 
 *3499|
 [fc]
@@ -295,13 +302,14 @@ I bit my lip to suppress my fear and began to sneak away quietly from there.[pcm
 
 *3503|
 [fc]
-Holding my breath, I crawled over the squishy, warm flesh that was moving[r]
-around.[pcms]
+Holding my breath, I crawled over the squishy, warm flesh[r]
+that was moving around.[pcms]
 
 *3504|
 [fc]
-Killing my emotions, I crawled slowly and calmly. I didn't know where the exit[r]
-was, but if I went in the opposite direction from where I came, surely...[pcms]
+Killing my emotions, I crawled slowly and calmly. I didn't[r]
+know where the exit was, but if I went in the opposite[r]
+direction from where I came, surely...[pcms]
 
 *3505|
 [fc]
@@ -319,8 +327,8 @@ The warm breath tickled my ear.[pcms]
 
 *3508|
 [fc]
-What touched my hands and feet... were they hands or feet or maybe... I didn't[r]
-want to think about it.[pcms]
+What touched my hands and feet... were they hands or feet or[r]
+maybe... I didn't want to think about it.[pcms]
 
 *3509|
 [fc]
@@ -339,8 +347,8 @@ I almost said "I'm sorry" and hurriedly swallowed my words.[pcms]
 
 *3512|
 [fc]
-Even though they were infected people, I still felt guilty for stepping on[r]
-them... but this was just too much.[pcms]
+Even though they were infected people, I still felt guilty[r]
+for stepping on them... but this was just too much.[pcms]
 
 *3513|
 [fc]
@@ -355,13 +363,13 @@ them... but this was just too much.[pcms]
 
 *3515|
 [fc]
-The creepy voice snapped me back to reality. It reminded me that these people[r]
-were human, but not human anymore.[pcms]
+The creepy voice snapped me back to reality. It reminded me[r]
+that these people were human, but not human anymore.[pcms]
 
 *3516|
 [fc]
-I should have known how crazy it could get from watching Ren-chan and the[r]
-others...[pcms]
+I should have known how crazy it could get from watching[r]
+Ren-chan and the others...[pcms]
 
 *3517|
 [fc]
@@ -379,7 +387,8 @@ Surely, Ren-chan must feel the same about Wataru...[pcms]
 
 *3520|
 [fc]
-"It's okay! I'm still okay!" I told myself as I started crawling again.[pcms]
+"It's okay! I'm still okay!" I told myself as I started[r]
+crawling again.[pcms]
 
 *3521|
 [fc]
@@ -397,16 +406,19 @@ I have to meet Wataru! To confess these feelings to him...[pcms]
 
 *3524|
 [fc]
-I couldn't see them, but I could sense that they were searching for me.[pcms]
+I couldn't see them, but I could sense that they were[r]
+searching for me.[pcms]
 
 *3525|
 [fc]
-But even though I knew they were moving around searching, I had no idea how they[r]
-were moving, so I just headed in what I thought was the right direction.[pcms]
+But even though I knew they were moving around searching, I[r]
+had no idea how they were moving, so I just headed in what I[r]
+thought was the right direction.[pcms]
 
 *3526|
 [fc]
-Still, I felt like the presence of the searchers was fading away from around me.[pcms]
+Still, I felt like the presence of the searchers was fading[r]
+away from around me.[pcms]
 
 *3527|
 [fc]
@@ -448,8 +460,8 @@ The moment I relaxed, my leg was firmly grasped.[pcms]
 
 *3534|
 [fc]
-The hands of the infected people reached out one after another to my body, which[r]
-had been grabbed by the leg.[pcms]
+The hands of the infected people reached out one after[r]
+another to my body, which had been grabbed by the leg.[pcms]
 
 *3535|
 [fc]
@@ -475,13 +487,13 @@ had been grabbed by the leg.[pcms]
 
 *3539|
 [fc]
-The infected people ran their hands all over my body, kneading my butt and[r]
-licking my thighs.[pcms]
+The infected people ran their hands all over my body,[r]
+kneading my butt and licking my thighs.[pcms]
 
 *3540|
 [fc]
-One of them... probably the one who had grabbed my leg, boldly pressed his body[r]
-against mine.[pcms]
+One of them... probably the one who had grabbed my leg,[r]
+boldly pressed his body against mine.[pcms]
 
 *3541|
 [fc]
@@ -505,8 +517,8 @@ And then he started to stroke my hips and belly.[pcms]
 
 *3544|
 [fc]
-The man who was rubbing his body against me like a molester mentioned my[r]
-mother's name...[pcms]
+The man who was rubbing his body against me like a molester[r]
+mentioned my mother's name...[pcms]
 
 *3545|
 [fc]
@@ -532,7 +544,8 @@ It wasn't just the name... that voice was...[pcms]
 
 *3549|
 [fc]
-Even though he sounded drunk, that person was definitely my father.[pcms]
+Even though he sounded drunk, that person was definitely my[r]
+father.[pcms]
 ;//ÅâÉÅÉÇ
 
 *3550|
@@ -553,14 +566,15 @@ My father's hands caressed my body.[pcms]
 *3553|
 [fc]
 [ns]Yuuho's father[nse]
-"This body... it really does feel just like Yuko when she was young. The firm[r]
-belly with a bit of muscle, yet the soft texture of the butt... it's the same."[pcms]
+"This body... it really does feel just like Yuko when she[r]
+was young. The firm belly with a bit of muscle, yet the soft[r]
+texture of the butt... it's the same."[pcms]
 
 *3554|
 [fc]
 [ns]Yuuho's father[nse]
-"You really are Yuko's daughter... You're just like her. There's no mistake,[r]
-it's Yuuho~!"[pcms]
+"You really are Yuko's daughter... You're just like her.[r]
+There's no mistake, it's Yuuho~!"[pcms]
 
 *3555|
 [fc]
@@ -576,8 +590,9 @@ My father's hands groped my body more and touched my chest.[pcms]
 *3557|
 [fc]
 [ns]Yuuho's father[nse]
-"What are you talking about? That can't be right, Yuuho. I've been searching for[r]
-you all this time. Now that we've finally reunited as a family..."[pcms]
+"What are you talking about? That can't be right, Yuuho.[r]
+I've been searching for you all this time. Now that we've[r]
+finally reunited as a family..."[pcms]
 
 *3558|
 [fc]
@@ -602,7 +617,8 @@ Despite the pitch darkness, I found myself looking around.[pcms]
 
 *3562|
 [fc]
-But, needless to say, I couldn't find anything resembling my mother.[pcms]
+But, needless to say, I couldn't find anything resembling my[r]
+mother.[pcms]
 
 *3563|
 [fc]
@@ -624,7 +640,8 @@ For just a moment, the pitch-black corridor lit up.[pcms]
 
 *3566|
 [fc]
-The flickering light slowly approached from the depths, swaying towards me.[pcms]
+The flickering light slowly approached from the depths,[r]
+swaying towards me.[pcms]
 
 *3567|
 [fc]
@@ -632,8 +649,8 @@ What on earth could it be?[pcms]
 
 *3568|
 [fc]
-Because of the swaying light, the surroundings were intermittently illuminated[r]
-as if by a flash.[pcms]
+Because of the swaying light, the surroundings were[r]
+intermittently illuminated as if by a flash.[pcms]
 
 ;//îwåiÇ∆Ç∆Ç‡Ç…âfÇµèoÇ≥ÇÍÇÈóIîøÇÃïÉ
 
@@ -645,13 +662,13 @@ as if by a flash.[pcms]
 
 *3570|
 [fc]
-Reflected in that light was a face with blood-red eyes and a mouth stained just[r]
-as redmy father's face.[pcms]
+Reflected in that light was a face with blood-red eyes and a[r]
+mouth stained just as redmy father's face.[pcms]
 
 *3571|
 [fc]
-I had to believe what I didn't want to believe... The shock was enough to make[r]
-me feel like I was going to pass out.[pcms]
+I had to believe what I didn't want to believe... The shock[r]
+was enough to make me feel like I was going to pass out.[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇSÇPÇPÇQÇOÇ÷
 [jump storage="41120.ks" target=*41120_TOP]

@@ -37,9 +37,9 @@
 
 *2771|
 [fc]
-Finally, the hatch must have warped and the concrete that was holding it in[r]
-place shattered. A loud noise as the iron door opens, and I can hear voices and[r]
-footsteps coming.[pcms]
+Finally, the hatch must have warped and the concrete that[r]
+was holding it in place shattered. A loud noise as the iron[r]
+door opens, and I can hear voices and footsteps coming.[pcms]
 
 *2772|
 [fc]
@@ -62,8 +62,9 @@ footsteps coming.[pcms]
 
 *2774|
 [fc]
-Senpai tries to open the rusted door, but it seems stiff and barely opens, so[r]
-slowly that it's hard to tell if it's opening at all.[pcms]
+Senpai tries to open the rusted door, but it seems stiff and[r]
+barely opens, so slowly that it's hard to tell if it's[r]
+opening at all.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -97,8 +98,9 @@ slowly that it's hard to tell if it's opening at all.[pcms]
 
 *2777|
 [fc]
-Senpai's brilliant roundhouse kick forces the door that wouldn't budge due to[r]
-rust to swing open. But it's still not enough to pass through.[pcms]
+Senpai's brilliant roundhouse kick forces the door that[r]
+wouldn't budge due to rust to swing open. But it's still not[r]
+enough to pass through.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -118,8 +120,8 @@ rust to swing open. But it's still not enough to pass through.[pcms]
 
 *2780|
 [fc]
-I leave Yuuho, who I was close to, and go to help Senpai. Even with my lack of[r]
-strength, it's better than nothing.[pcms]
+I leave Yuuho, who I was close to, and go to help Senpai.[r]
+Even with my lack of strength, it's better than nothing.[pcms]
 
 *2781|
 [fc]
@@ -131,9 +133,10 @@ It seems I can exert more strength than usual.[pcms]
 
 *2783|
 [fc]
-That can be seen from the fact that I could carry an unbelievable amount of[r]
-luggage on a normal day, and just now I managed to carry both Yuuho and the[r]
-luggage at the same time.[pcms]
+That can be seen from the fact that I could carry an[r]
+unbelievable amount of luggage on a normal day, and just now[r]
+I managed to carry both Yuuho and the luggage at the same[r]
+time.[pcms]
 
 ;//se085・錆びた金属ドアのきしむ音
 ;//[se buf=0 storage="se085"]
@@ -204,13 +207,14 @@ Ren calls my name with a vacant voice. And behind her...[pcms]
 
 *2795|
 [fc]
-Laughing out their desires, the students who once attended the same school as us[r]
-descend the stairs with unsteady steps.[pcms]
+Laughing out their desires, the students who once attended[r]
+the same school as us descend the stairs with unsteady[r]
+steps.[pcms]
 
 *2796|
 [fc]
-All of them have disheveled clothes, and some are even half-naked. Even in the[r]
-dim light, that much is clear.[pcms]
+All of them have disheveled clothes, and some are even half-[r]
+naked. Even in the dim light, that much is clear.[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
@@ -224,15 +228,17 @@ dim light, that much is clear.[pcms]
 
 *2798|
 [fc]
-One of the students with dangerous footing slips and falls down the stairs.[pcms]
+One of the students with dangerous footing slips and falls[r]
+down the stairs.[pcms]
 
 ;//se036・人間が地面に叩きつけられる音
 [se buf=0 storage="se036"]
 
 *2799|
 [fc]
-A disgusting sound and vibration reach us as the fallen student hits the floor[r]
-at the bottom of the stairs headfirst, turning into a pool of bright red blood.[pcms]
+A disgusting sound and vibration reach us as the fallen[r]
+student hits the floor at the bottom of the stairs[r]
+headfirst, turning into a pool of bright red blood.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -244,7 +250,8 @@ at the bottom of the stairs headfirst, turning into a pool of bright red blood.[
 
 *2801|
 [fc]
-Yuuho must have seen it reflexively, even though she was in a daze.[pcms]
+Yuuho must have seen it reflexively, even though she was in[r]
+a daze.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -256,7 +263,8 @@ Yuuho must have seen it reflexively, even though she was in a daze.[pcms]
 
 *2803|
 [fc]
-At Senpai's shout, I turn my eyes away and focus solely on pushing the door.[pcms]
+At Senpai's shout, I turn my eyes away and focus solely on[r]
+pushing the door.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -290,8 +298,9 @@ At Senpai's shout, I turn my eyes away and focus solely on pushing the door.[pcm
 
 *2808|
 [fc]
-For some reason, the infected people start laughing. That's definitely not Ren.[r]
-Ren would never laugh at something like that...[pcms]
+For some reason, the infected people start laughing. That's[r]
+definitely not Ren. Ren would never laugh at something like[r]
+that...[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
@@ -328,8 +337,9 @@ Ren would never laugh at something like that...[pcms]
 
 *2814|
 [fc]
-Just like watching a game from the second-floor spectator seats in the[r]
-gymnasium, they find us from the landing and start saying whatever they want.[pcms]
+Just like watching a game from the second-floor spectator[r]
+seats in the gymnasium, they find us from the landing and[r]
+start saying whatever they want.[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
@@ -342,8 +352,8 @@ They are gradually getting closer.[pcms]
 
 *2816|
 [fc]
-The one in front, Ren... no, what used to be Ren, is about to reach the stairs[r]
-leading right in front of this door.[pcms]
+The one in front, Ren... no, what used to be Ren, is about[r]
+to reach the stairs leading right in front of this door.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -355,7 +365,8 @@ leading right in front of this door.[pcms]
 
 *2818|
 [fc]
-Having reached the stairs, Ren faces us directly while descending.[pcms]
+Having reached the stairs, Ren faces us directly while[r]
+descending.[pcms]
 
 *2819|
 [fc]
@@ -372,8 +383,8 @@ Having reached the stairs, Ren faces us directly while descending.[pcms]
 [fc]
 [vo_ren s="ren0375"]
 [ns]Ren[nse]
-"...Those women... they've deceived you, Onii-chan. They made sure I couldn't[r]
-come inside..."[pcms]
+"...Those women... they've deceived you, Onii-chan. They[r]
+made sure I couldn't come inside..."[pcms]
 
 *2822|
 [fc]
@@ -421,8 +432,8 @@ come inside..."[pcms]
 
 *2828|
 [fc]
-Following Ren, the infected students begin to descend the concrete stairs one[r]
-after another.[pcms]
+Following Ren, the infected students begin to descend the[r]
+concrete stairs one after another.[pcms]
 
 ;//------------------------------------------------------
 
@@ -441,16 +452,16 @@ after another.[pcms]
 
 *2830|
 [fc]
-The senior, unlike me, who kept pushing the door without faltering, said with[r]
-frustration.[pcms]
+The senior, unlike me, who kept pushing the door without[r]
+faltering, said with frustration.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2831|
 [fc]
-The crazed students are closing in fast. Just as I was preparing myself to join[r]
-them -- that's when.[pcms]
+The crazed students are closing in fast. Just as I was[r]
+preparing myself to join them -- that's when.[pcms]
 
 ;//se085・錆びた金属ドアのきしむ音
 ;//[se buf=0 storage="se085"]
@@ -467,8 +478,8 @@ them -- that's when.[pcms]
 
 *2833|
 [fc]
-It's Yuuho! Yuuho, who had been in a daze until now, was helping to push open[r]
-the door, her eyes swollen from crying.[pcms]
+It's Yuuho! Yuuho, who had been in a daze until now, was[r]
+helping to push open the door, her eyes swollen from crying.[pcms]
 
 *2834|
 [fc]
@@ -503,8 +514,9 @@ I also hurriedly joined in to push the door.[pcms]
 
 *2838|
 [fc]
-We both, Yuuho who nodded silently and I, grabbed our bags full of belongings[r]
-and the mop that served as a weapon, and jumped through the opened door.[pcms]
+We both, Yuuho who nodded silently and I, grabbed our bags[r]
+full of belongings and the mop that served as a weapon, and[r]
+jumped through the opened door.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -519,8 +531,8 @@ and the mop that served as a weapon, and jumped through the opened door.[pcms]
 
 *2840|
 [fc]
-As we passed through, the senior began to close the door. Yuuho and I also[r]
-helped.[pcms]
+As we passed through, the senior began to close the door.[r]
+Yuuho and I also helped.[pcms]
 
 ;//se045・金属ドアを閉じる
 [se buf=0 storage="se045"]
@@ -530,7 +542,8 @@ helped.[pcms]
 
 *2841|
 [fc]
-Unlike before, the iron door closed smoothly and satisfyingly.[pcms]
+Unlike before, the iron door closed smoothly and[r]
+satisfyingly.[pcms]
 
 ;//se046・金属で閂（金属のガキッ）
 [wait time=300]
@@ -538,7 +551,8 @@ Unlike before, the iron door closed smoothly and satisfyingly.[pcms]
 
 *2842|
 [fc]
-The senior quickly secured it with an iron pipe she had brought along.[pcms]
+The senior quickly secured it with an iron pipe she had[r]
+brought along.[pcms]
 
 ;//se043・金属の板を叩く音
 [se buf=0 storage="se043"]
@@ -557,8 +571,8 @@ The senior quickly secured it with an iron pipe she had brought along.[pcms]
 
 *2843|
 [fc]
-The moment she did, the sound of banging on the door became incessant and[r]
-numerous.[pcms]
+The moment she did, the sound of banging on the door became[r]
+incessant and numerous.[pcms]
 
 [bg storage="BG027"][trans_c cross time=500]
 
@@ -575,8 +589,8 @@ numerous.[pcms]
 
 *2845|
 [fc]
-We don't know when this door will be broken through. As the senior said, we must[r]
-escape from here immediately.[pcms]
+We don't know when this door will be broken through. As the[r]
+senior said, we must escape from here immediately.[pcms]
 
 *2846|
 [fc]
@@ -584,8 +598,8 @@ escape from here immediately.[pcms]
 
 *2847|
 [fc]
-I whispered in my heart, took Yuuho's hand, and left behind the rusty iron door[r]
-that continued to be pounded on.[pcms]
+I whispered in my heart, took Yuuho's hand, and left behind[r]
+the rusty iron door that continued to be pounded on.[pcms]
 
 ;//場面転換
 ;//BG　黒
@@ -613,22 +627,23 @@ After a while, the path split into two.[pcms]
 [fc]
 [vo_mar s="maru0378"]
 [ns]Margarita[nse]
-"Left leads towards Shibuya Station. We might be able to get out near the[r]
-river."[pcms]
+"Left leads towards Shibuya Station. We might be able to get[r]
+out near the river."[pcms]
 
 *2851|
 [fc]
 [vo_mar s="maru0379"]
 [ns]Margarita[nse]
-"Right goes towards Yoyogi Park. If the passage is still intact as it used to[r]
-be... it should connect to the sports center on the other side of Yoyogi Park."[pcms]
+"Right goes towards Yoyogi Park. If the passage is still[r]
+intact as it used to be... it should connect to the sports[r]
+center on the other side of Yoyogi Park."[pcms]
 
 *2852|
 [fc]
 [vo_mar s="maru0380"]
 [ns]Margarita[nse]
-"We might even be able to reach the DNH Broadcasting Center where your father[r]
-is, if what I've heard is true..."[pcms]
+"We might even be able to reach the DNH Broadcasting Center[r]
+where your father is, if what I've heard is true..."[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢Ａ１
@@ -637,8 +652,8 @@ is, if what I've heard is true..."[pcms]
 
 
 ;	[link storage="41060.ks" target=*41060_TOP]左に！　川から外へ！[endlink]
-;       (link storage="41090.ks" target=*41090_TOP)To the right! To some[r]
-facility!(endlink)[pcms]
+;       (link storage="41090.ks" target=*41090_TOP)To the[r]
+right! To some facility!(endlink)[pcms]
 
 *SEL31|左に！　川から外へ！／右に！　どこかの施設へ！
 [fc]

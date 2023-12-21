@@ -18,13 +18,14 @@
 
 *2474|
 [fc]
-Deciding it was too dangerous to stay put, I dashed out at full speed towards[r]
-the pool.[pcms]
+Deciding it was too dangerous to stay put, I dashed out at[r]
+full speed towards the pool.[pcms]
 
 *2475|
 [fc]
-However, the school was in a state of frenzy, unlike its usual self. My shoulder[r]
-bag got in the way, and I couldn't run properly through the narrow corridors.[pcms]
+However, the school was in a state of frenzy, unlike its[r]
+usual self. My shoulder bag got in the way, and I couldn't[r]
+run properly through the narrow corridors.[pcms]
 
 [quake_bg 元time=500 xy m]
 [se buf=0 storage="SE004"]
@@ -33,7 +34,8 @@ bag got in the way, and I couldn't run properly through the narrow corridors.[pc
 
 *2476|
 [fc]
-Suddenly, I was bumped into by a fleeing boy, lost my balance, and fell over.[pcms]
+Suddenly, I was bumped into by a fleeing boy, lost my[r]
+balance, and fell over.[pcms]
 
 *2477|
 [fc]
@@ -43,8 +45,8 @@ Suddenly, I was bumped into by a fleeing boy, lost my balance, and fell over.[pc
 
 *2478|
 [fc]
-I had struck my knee hard and was in such pain that I couldn't breathe for a[r]
-while, let alone move.[pcms]
+I had struck my knee hard and was in such pain that I[r]
+couldn't breathe for a while, let alone move.[pcms]
 
 *2479|
 [fc]
@@ -52,8 +54,9 @@ But the other person didn't care about that at all.[pcms]
 
 *2480|
 [fc]
-The eerie voices and screams were closing in from behind, and the students who[r]
-had fled to the grounds were now returning to the gymnasium.[pcms]
+The eerie voices and screams were closing in from behind,[r]
+and the students who had fled to the grounds were now[r]
+returning to the gymnasium.[pcms]
 
 ;//SE(ゾンビガヤ・ループ再生)
 [se buf=1 storage="se507" loop=true]
@@ -62,13 +65,13 @@ had fled to the grounds were now returning to the gymnasium.[pcms]
 
 *2481|
 [fc]
-The creepy people who had flooded in from the school gates were not from our[r]
-school.[pcms]
+The creepy people who had flooded in from the school gates[r]
+were not from our school.[pcms]
 
 *2482|
 [fc]
-All of them were dressed in tattered clothes, and their bodies were abnormally[r]
-dirty with mud and such.[pcms]
+All of them were dressed in tattered clothes, and their[r]
+bodies were abnormally dirty with mud and such.[pcms]
 
 *2483|
 [fc]
@@ -93,9 +96,9 @@ dirty with mud and such.[pcms]
 
 *2486|
 [fc]
-Several male students were trying to drive them away by hitting and pushing[r]
-them, but it seemed to have no effect at all, and they ended up being[r]
-counterattacked.[pcms]
+Several male students were trying to drive them away by[r]
+hitting and pushing them, but it seemed to have no effect at[r]
+all, and they ended up being counterattacked.[pcms]
 
 *2487|
 [fc]
@@ -111,9 +114,9 @@ counterattacked.[pcms]
 
 *2489|
 [fc]
-In no time, they were bitten on their arms and legs, and the worst cases had[r]
-teeth sunk into their necks. Blood splattered everywhere as shouts and screams[r]
-intermingled.[pcms]
+In no time, they were bitten on their arms and legs, and the[r]
+worst cases had teeth sunk into their necks. Blood[r]
+splattered everywhere as shouts and screams intermingled.[pcms]
 
 [赤フラ]
 
@@ -138,24 +141,25 @@ The creepy shadows finally approached the corridor.[pcms]
 
 *2493|
 [fc]
-The agonized scream of a friend from the swim club echoed, and for a moment our[r]
-eyes met as I looked up.[pcms]
+The agonized scream of a friend from the swim club echoed,[r]
+and for a moment our eyes met as I looked up.[pcms]
 
 ;//SE停止(ループ。2秒でF.O.)
 [stopse buf=1]
 
 *2494|
 [fc]
-Just one more push to the pool. Somehow enduring the pain in my knee, I managed[r]
-to stand up.[pcms]
+Just one more push to the pool. Somehow enduring the pain in[r]
+my knee, I managed to stand up.[pcms]
 
 ;//SE015(スライドドア閉める)
 [se buf=0 storage="se015"]
 
 *2495|
 [fc]
-But... my friend who had been looking at me turned away her gaze and, along with[r]
-the other students, closed the door to the indoor pool entrance.[pcms]
+But... my friend who had been looking at me turned away her[r]
+gaze and, along with the other students, closed the door to[r]
+the indoor pool entrance.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -167,8 +171,8 @@ the other students, closed the door to the indoor pool entrance.[pcms]
 
 *2497|
 [fc]
-I thought they were my friends... I expected them to help me, to be waiting for[r]
-me.[pcms]
+I thought they were my friends... I expected them to help[r]
+me, to be waiting for me.[pcms]
 
 *2498|
 [fc]
@@ -176,8 +180,8 @@ To be betrayed in an instant like this...[pcms]
 
 *2499|
 [fc]
-I understand that it's scary. I can comprehend that this is an unbelievably[r]
-abnormal situation.[pcms]
+I understand that it's scary. I can comprehend that this is[r]
+an unbelievably abnormal situation.[pcms]
 
 *2500|
 [fc]
@@ -185,8 +189,9 @@ But even so... to be abandoned like this is too much.[pcms]
 
 *2501|
 [fc]
-I'm scared... so scared that my legs are shaking. I can't muster any strength in[r]
-my body. Overwhelmed by an unreal terror, I found myself unable to even walk.[pcms]
+I'm scared... so scared that my legs are shaking. I can't[r]
+muster any strength in my body. Overwhelmed by an unreal[r]
+terror, I found myself unable to even walk.[pcms]
 
 [jump storage="zapBAD_A010.ks" target=*zapBAD_A010_01]
 

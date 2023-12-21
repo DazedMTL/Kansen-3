@@ -28,7 +28,8 @@
 
 *149|
 [fc]
-With a feeling like peeling off my own skin, I shook off Ren's hand.[pcms]
+With a feeling like peeling off my own skin, I shook off[r]
+Ren's hand.[pcms]
 
 *150|
 [fc]
@@ -45,12 +46,13 @@ I ran out into the hallway and looked back into the room.[pcms]
 
 *152|
 [fc]
-Ren didn't follow. In the darkness, I could only see her faint outline.[pcms]
+Ren didn't follow. In the darkness, I could only see her[r]
+faint outline.[pcms]
 
 *153|
 [fc]
-The door was about to close from the recoil. Through the gap, Ren's voice[r]
-echoed.[pcms]
+The door was about to close from the recoil. Through the[r]
+gap, Ren's voice echoed.[pcms]
 
 *154|
 [fc]
@@ -69,13 +71,13 @@ Even as I said her name, I couldn't believe it.[pcms]
 
 *157|
 [fc]
-I tried to rationalize it as a fever, or the recent mental shocks being too[r]
-much, but deep down I knew.[pcms]
+I tried to rationalize it as a fever, or the recent mental[r]
+shocks being too much, but deep down I knew.[pcms]
 
 *158|
 [fc]
-This isn't Ren. This girl isn't the real Ren! My Ren would never do such lewd[r]
-things...![pcms]
+This isn't Ren. This girl isn't the real Ren! My Ren would[r]
+never do such lewd things...![pcms]
 
 *159|
 [fc]
@@ -91,7 +93,8 @@ things...![pcms]
 
 *161|
 [fc]
-I managed to convey that with great difficulty, but there was no reply from Ren.[pcms]
+I managed to convey that with great difficulty, but there[r]
+was no reply from Ren.[pcms]
 
 *162|
 [fc]
@@ -109,8 +112,8 @@ I left as if running away.[pcms]
 
 *164|
 [fc]
-Without any destination in mind, I went to call the elevator and noticed[r]
-something odd at my fingertips.[pcms]
+Without any destination in mind, I went to call the elevator[r]
+and noticed something odd at my fingertips.[pcms]
 
 *165|
 [fc]
@@ -127,13 +130,13 @@ Suddenly, I remembered Ren's lewd behavior from before.[pcms]
 
 *168|
 [fc]
-Something is definitely off... Her actions and words don't seem like Ren's at[r]
-all.[pcms]
+Something is definitely off... Her actions and words don't[r]
+seem like Ren's at all.[pcms]
 
 *169|
 [fc]
-And... have I also started to become strange for getting an erection from Ren's[r]
-behavior?[pcms]
+And... have I also started to become strange for getting an[r]
+erection from Ren's behavior?[pcms]
 
 *170|
 [fc]
@@ -142,8 +145,8 @@ behavior?[pcms]
 
 *171|
 [fc]
-While feeling anxious and heavy-hearted, my mind was trying to reach a[r]
-conclusion.[pcms]
+While feeling anxious and heavy-hearted, my mind was trying[r]
+to reach a conclusion.[pcms]
 
 ;//スクリプト様へ
 ;//★この選択肢は後日処理です。そのまま70030に接続してください

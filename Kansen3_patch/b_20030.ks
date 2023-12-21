@@ -40,12 +40,14 @@ Suddenly, Mizuki burst out of the elevator.[pcms]
 
 *4172|
 [fc]
-It wasn't just that she was crying; Mizuki's dress was covered in blood.[pcms]
+It wasn't just that she was crying; Mizuki's dress was[r]
+covered in blood.[pcms]
 
 *4173|
 [fc]
-What could have happened? Mizuki and the others were supposed to go take care of[r]
-Jin and Shigeyoshi... Where's Kousuke?[pcms]
+What could have happened? Mizuki and the others were[r]
+supposed to go take care of Jin and Shigeyoshi... Where's[r]
+Kousuke?[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_d4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -61,14 +63,15 @@ Mizuki clung to me, sobbing uncontrollably.[pcms]
 
 *4176|
 [fc]
-From what I could gather while trying to calm her down, Kousuke had successfully[r]
-shot and killed Shigeyoshi with a gun, and then he seemed to have aimed for Jin.[pcms]
+From what I could gather while trying to calm her down,[r]
+Kousuke had successfully shot and killed Shigeyoshi with a[r]
+gun, and then he seemed to have aimed for Jin.[pcms]
 
 *4177|
 [fc]
-But Jin woke up and got into a shootout with Kousuke. Kousuke bit into Jin's[r]
-neck and somehow managed to kill him, but he died too... from excessive blood[r]
-loss.[pcms]
+But Jin woke up and got into a shootout with Kousuke.[r]
+Kousuke bit into Jin's neck and somehow managed to kill him,[r]
+but he died too... from excessive blood loss.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -102,8 +105,8 @@ loss.[pcms]
 
 *4182|
 [fc]
-We had lost our dear childhood friend Kousuke and couldn't help but cry our[r]
-hearts out together.[pcms]
+We had lost our dear childhood friend Kousuke and couldn't[r]
+help but cry our hearts out together.[pcms]
 
 *4183|
 [fc]
@@ -112,8 +115,8 @@ After we had cried ourselves out, an idea struck me.[pcms]
 *4184|
 [fc]
 [ns]Wataru[nse]
-"Now that it's come to this... let's quickly make Maruko-senpai our ally! And[r]
-turn this LASER into our heaven!!"[pcms]
+"Now that it's come to this... let's quickly make Maruko-[r]
+senpai our ally! And turn this LASER into our heaven!!"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_d4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -133,11 +136,13 @@ Mizuki stopped crying abruptly and looked puzzled.[pcms]
 [fc]
 [vo_yuh s="yuho_KB0021"]
 [ns]Yuuho[nse]
-"That sounds nice... heaven... Peaceful... fun... no worries..."[pcms]
+"That sounds nice... heaven... Peaceful... fun... no[r]
+worries..."[pcms]
 
 *4188|
 [fc]
-With her fingers starting to rot away, Yuuho began to sing the idea.[pcms]
+With her fingers starting to rot away, Yuuho began to sing[r]
+the idea.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -181,8 +186,8 @@ We were starting to feel strangely happy.[pcms]
 [fc]
 [vo_yuh s="yuho_KB0023"]
 [ns]Yuuho[nse]
-"That's right, Mizuki-chan, if we eat Kousuke later together, we can be with him[r]
-forever... right?"[pcms]
+"That's right, Mizuki-chan, if we eat Kousuke later[r]
+together, we can be with him forever... right?"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_d4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -205,7 +210,8 @@ Mizuki, now in high spirits, started to laugh happily.[pcms]
 [fc]
 [vo_mob s="itidou0005"]
 [ns]Everyone[nse]
-"Gyahahahahahahaha, gyahahah, hee-hahahahaha...! Gyahahahaha...!!"[pcms]
+"Gyahahahahahahaha, gyahahah, hee-hahahahaha...![r]
+Gyahahahaha...!!"[pcms]
 
 *4199|
 [fc]

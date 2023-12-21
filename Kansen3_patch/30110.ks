@@ -39,8 +39,8 @@
 
 *594|
 [fc]
-"If we climb over the fence, we might still be able to escape along the[r]
-rooftop."[pcms]
+"If we climb over the fence, we might still be able to[r]
+escape along the rooftop."[pcms]
 
 *595|
 [fc]
@@ -48,7 +48,8 @@ rooftop."[pcms]
 
 *596|
 [fc]
-"But with Ren, it's going to be difficult. What if they come during that time?"[pcms]
+"But with Ren, it's going to be difficult. What if they come[r]
+during that time?"[pcms]
 
 *597|
 [fc]
@@ -63,8 +64,8 @@ rooftop."[pcms]
 
 *599|
 [fc]
-"I re-grab Ren's hand and dive into the audio-visual room, struggling with[r]
-Kousuke."[pcms]
+"I re-grab Ren's hand and dive into the audio-visual room,[r]
+struggling with Kousuke."[pcms]
 
 [stopse buf=0]
 
@@ -72,12 +73,13 @@ Kousuke."[pcms]
 
 *600|
 [fc]
-"Then, in a panic, I turn around and leap at the sliding door, slamming it shut[r]
-with force."[pcms]
+"Then, in a panic, I turn around and leap at the sliding[r]
+door, slamming it shut with force."[pcms]
 
 *601|
 [fc]
-"But an infected person's hand slips through from the outside."[pcms]
+"But an infected person's hand slips through from the[r]
+outside."[pcms]
 
 *602|
 [fc]
@@ -91,7 +93,8 @@ with force."[pcms]
 
 *604|
 [fc]
-"Still holding the steel hook, Kousuke thrusts it hard into the hand's owner."[pcms]
+"Still holding the steel hook, Kousuke thrusts it hard into[r]
+the hand's owner."[pcms]
 
 ;//SE016
 [se buf=1 storage="se016"]
@@ -113,8 +116,9 @@ with force."[pcms]
 
 *608|
 [fc]
-"Kousuke's thrust, driven by momentum, had deeply penetrated from under the[r]
-man's left jaw through his open mouth and even further."[pcms]
+"Kousuke's thrust, driven by momentum, had deeply penetrated[r]
+from under the man's left jaw through his open mouth and[r]
+even further."[pcms]
 
 *609|
 [fc]
@@ -123,13 +127,14 @@ man's left jaw through his open mouth and even further."[pcms]
 
 *610|
 [fc]
-"Even in a kill-or-be-killed situation, the shock of having killed someone[r]
-freezes Kousuke."[pcms]
+"Even in a kill-or-be-killed situation, the shock of having[r]
+killed someone freezes Kousuke."[pcms]
 
 *611|
 [fc]
-"Still, ignoring the stabbed man, others trying to squeeze in through the gap[r]
-appear in my sight as I try to close the door."[pcms]
+"Still, ignoring the stabbed man, others trying to squeeze[r]
+in through the gap appear in my sight as I try to close the[r]
+door."[pcms]
 
 *612|
 [fc]
@@ -143,8 +148,8 @@ appear in my sight as I try to close the door."[pcms]
 
 *614|
 [fc]
-"The hook, deeply embedded and probably hooked at the end, wouldn't come out[r]
-easily."[pcms]
+"The hook, deeply embedded and probably hooked at the end,[r]
+wouldn't come out easily."[pcms]
 
 *615|
 [fc]
@@ -162,13 +167,15 @@ easily."[pcms]
 
 *618|
 [fc]
-"Bracing his feet against the wall, Kousuke forcibly pulls out the hook."[pcms]
+"Bracing his feet against the wall, Kousuke forcibly pulls[r]
+out the hook."[pcms]
 
 [赤フラ]
 
 *619|
 [fc]
-"At the same time, blood splatters everywhere, drenching both me and Kousuke."[pcms]
+"At the same time, blood splatters everywhere, drenching[r]
+both me and Kousuke."[pcms]
 
 ;//SE停止(ループ・シングル共。2秒でF.O.)
 [stopse buf=0]
@@ -177,8 +184,8 @@ easily."[pcms]
 
 *620|
 [fc]
-"But there's no time to care about that; I slam the sliding door shut and lock[r]
-it."[pcms]
+"But there's no time to care about that; I slam the sliding[r]
+door shut and lock it."[pcms]
 
 *621|
 [fc]
@@ -187,21 +194,23 @@ it."[pcms]
 
 *622|
 [fc]
-"Without wiping the blood dripping on his face, Kousuke breathes heavily and[r]
-stares blankly at the tip of the hook."[pcms]
+"Without wiping the blood dripping on his face, Kousuke[r]
+breathes heavily and stares blankly at the tip of the hook."[pcms]
 
 *623|
 [fc]
-"I can't get the image of what just happened out of my mind either."[pcms]
+"I can't get the image of what just happened out of my mind[r]
+either."[pcms]
 
 *624|
 [fc]
-"Yes, a steel rod cutting diagonally through a man's screaming mouth..."[pcms]
+"Yes, a steel rod cutting diagonally through a man's[r]
+screaming mouth..."[pcms]
 
 *625|
 [fc]
-"And the taste of blood spreading in my mouth tells me that this is not an[r]
-illusion but reality."[pcms]
+"And the taste of blood spreading in my mouth tells me that[r]
+this is not an illusion but reality."[pcms]
 
 *626|
 [fc]
@@ -211,13 +220,13 @@ illusion but reality."[pcms]
 
 *627|
 [fc]
-"Fortunately hidden by us, Ren apparently didn't see what happened with[r]
-Kousuke's hook."[pcms]
+"Fortunately hidden by us, Ren apparently didn't see what[r]
+happened with Kousuke's hook."[pcms]
 
 *628|
 [fc]
-"Just the death throes and us covered in blood, and above all, the tip of[r]
-Kousuke's hook stained with fresh blood..."[pcms]
+"Just the death throes and us covered in blood, and above[r]
+all, the tip of Kousuke's hook stained with fresh blood..."[pcms]
 
 *629|
 [fc]
@@ -230,7 +239,8 @@ Kousuke's hook stained with fresh blood..."[pcms]
 
 *631|
 [fc]
-"I force a smile while wiping the blood off my face and hands."[pcms]
+"I force a smile while wiping the blood off my face and[r]
+hands."[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -249,8 +259,9 @@ Kousuke's hook stained with fresh blood..."[pcms]
 
 *633|
 [fc]
-"Even a forced smile seemed to cut through Ren's tense nerves, and she jumped[r]
-into my chest like she did when she was a child."[pcms]
+"Even a forced smile seemed to cut through Ren's tense[r]
+nerves, and she jumped into my chest like she did when she[r]
+was a child."[pcms]
 
 *634|
 [fc]
@@ -259,7 +270,8 @@ into my chest like she did when she was a child."[pcms]
 
 *635|
 [fc]
-"While embracing Ren's delicate body, I bury my face in her hair."[pcms]
+"While embracing Ren's delicate body, I bury my face in her[r]
+hair."[pcms]
 
 *636|
 [fc]
@@ -267,8 +279,8 @@ into my chest like she did when she was a child."[pcms]
 
 *637|
 [fc]
-"Is it shampoo? Or conditioner? I can't tell which. But it was a pleasant scent[r]
-I had never smelled before."[pcms]
+"Is it shampoo? Or conditioner? I can't tell which. But it[r]
+was a pleasant scent I had never smelled before."[pcms]
 
 *638|
 [fc]
@@ -304,7 +316,8 @@ I had never smelled before."[pcms]
 
 *644|
 [fc]
-And then... the hole that's supposed to make you feel even better.[pcms]
+And then... the hole that's supposed to make you feel even[r]
+better.[pcms]
 
 [evcg storage="EV012o"][trans_c cross time=300]
 
@@ -318,8 +331,8 @@ And then... the hole that's supposed to make you feel even better.[pcms]
 
 *646|
 [fc]
-I hug Ren's slender body from behind with all my might as she tries to escape[r]
-from my arms.[pcms]
+I hug Ren's slender body from behind with all my might as[r]
+she tries to escape from my arms.[pcms]
 
 ;//抱きしめたまま、ボクは有無を言わさず漣を床の上に押し倒した。
 
@@ -332,12 +345,14 @@ from my arms.[pcms]
 [fc]
 [vo_ren s="ren0160"]
 [ns]Ren[nse]
-"Why? Onii-chan, you're being weird? Ko-chan, you think it's weird too, right?"[pcms]
+"Why? Onii-chan, you're being weird? Ko-chan, you think it's[r]
+weird too, right?"[pcms]
 
 *649|
 [fc]
 [ns]Kousuke[nse]
-"Weird? There's nothing weird... Ren-chan, you smell really good..."[pcms]
+"Weird? There's nothing weird... Ren-chan, you smell really[r]
+good..."[pcms]
 
 *650|
 [fc]
@@ -347,8 +362,8 @@ from my arms.[pcms]
 
 *651|
 [fc]
-As Ren's voice cries out in panic, Kousuke approaches to support me, listening[r]
-to her cries with pleasure.[pcms]
+As Ren's voice cries out in panic, Kousuke approaches to[r]
+support me, listening to her cries with pleasure.[pcms]
 
 ;//BG：HEV027
 [evcg storage="HEV054g"][trans_c cross time=300]
@@ -367,8 +382,8 @@ to her cries with pleasure.[pcms]
 *654|
 [fc]
 [ns]Kousuke[nse]
-"Ah... Ren-chan's skin is so smooth yet it feels moist and clings to my hand, it[r]
-feels good."[pcms]
+"Ah... Ren-chan's skin is so smooth yet it feels moist and[r]
+clings to my hand, it feels good."[pcms]
 
 *655|
 [fc]
@@ -389,7 +404,8 @@ feels good."[pcms]
 [fc]
 [vo_ren s="ren0163"]
 [ns]Ren[nse]
-"Stop... stop the teasing. Please, Onii-chan and Ko-chan, let me go."[pcms]
+"Stop... stop the teasing. Please, Onii-chan and Ko-chan,[r]
+let me go."[pcms]
 
 *659|
 [fc]
@@ -403,8 +419,9 @@ feels good."[pcms]
 
 *661|
 [fc]
-Unstoppable laughter spills from our mouths as Ren looks up at us with[r]
-frightened eyes. Ah, she's so cute I want to mess her up.[pcms]
+Unstoppable laughter spills from our mouths as Ren looks up[r]
+at us with frightened eyes. Ah, she's so cute I want to mess[r]
+her up.[pcms]
 
 *662|
 [fc]
@@ -414,17 +431,19 @@ frightened eyes. Ah, she's so cute I want to mess her up.[pcms]
 
 *663|
 [fc]
-Realizing that we are not joking or teasing but serious, Ren starts to thrash[r]
-wildly for some reason.[pcms]
+Realizing that we are not joking or teasing but serious, Ren[r]
+starts to thrash wildly for some reason.[pcms]
 
 *664|
 [fc]
-Of course, Ren has no chance against the strength of Kousuke and me.[pcms]
+Of course, Ren has no chance against the strength of Kousuke[r]
+and me.[pcms]
 
 *665|
 [fc]
-Ren can only shake her head violently from side to side while her hands and[r]
-feet, pinned down by us, don't move an inch.[pcms]
+Ren can only shake her head violently from side to side[r]
+while her hands and feet, pinned down by us, don't move an[r]
+inch.[pcms]
 
 [evcg storage="HEV054h"][trans_c cross time=300]
 
@@ -436,7 +455,8 @@ feet, pinned down by us, don't move an inch.[pcms]
 
 *667|
 [fc]
-Tears well up in Ren's eyes, enhancing the beauty of her gaze.[pcms]
+Tears well up in Ren's eyes, enhancing the beauty of her[r]
+gaze.[pcms]
 
 *668|
 [fc]
@@ -444,31 +464,33 @@ I love these eyes of hers.[pcms]
 
 *669|
 [fc]
-The color of fear that somehow resides in those eyes sends a pleasurable chill[r]
-up my spine.[pcms]
+The color of fear that somehow resides in those eyes sends a[r]
+pleasurable chill up my spine.[pcms]
 
 *670|
 [fc]
-The thing inside my pants is about to burst from Ren's scent alone, and it gets[r]
-even harder with the slightest rub as if it's about to explode.[pcms]
+The thing inside my pants is about to burst from Ren's scent[r]
+alone, and it gets even harder with the slightest rub as if[r]
+it's about to explode.[pcms]
 
 *671|
 [fc]
 [vo_ren s="ren0166"]
 [ns]Ren[nse]
-"Hii! Ah, something hard... something hard is pressing against my leg... Onii-[r]
-chan's... it's pressing against me..."[pcms]
+"Hii! Ah, something hard... something hard is pressing[r]
+against my leg... Onii- chan's... it's pressing against[r]
+me..."[pcms]
 
 *672|
 [fc]
 [ns]Wataru[nse]
-"Ah, your smell and attitude have made my thing rock hard. What are you going to[r]
-do about it? Huh?"[pcms]
+"Ah, your smell and attitude have made my thing rock hard.[r]
+What are you going to do about it? Huh?"[pcms]
 
 *673|
 [fc]
-While saying that, I roughly fondle Ren's small breasts that already look[r]
-childlike.[pcms]
+While saying that, I roughly fondle Ren's small breasts that[r]
+already look childlike.[pcms]
 
 *674|
 [fc]
@@ -483,8 +505,8 @@ childlike.[pcms]
 
 *676|
 [fc]
-Chuckling deep in my throat, I run my tongue over Ren's throat. As I thought, it[r]
-tastes sweet.[pcms]
+Chuckling deep in my throat, I run my tongue over Ren's[r]
+throat. As I thought, it tastes sweet.[pcms]
 
 *677|
 [fc]
@@ -492,7 +514,8 @@ It might be the taste of Ren's sweat.[pcms]
 
 *678|
 [fc]
-But rather than salty, it was more appropriate to call it ambrosial.[pcms]
+But rather than salty, it was more appropriate to call it[r]
+ambrosial.[pcms]
 
 *679|
 [fc]
@@ -509,26 +532,27 @@ But rather than salty, it was more appropriate to call it ambrosial.[pcms]
 [fc]
 [vo_ren s="ren0169"]
 [ns]Ren[nse]
-"Hyaaa! Not again... not again! Don't lick me...! And stop touching my breasts[r]
-eeehhh!!"[pcms]
+"Hyaaa! Not again... not again! Don't lick me...! And stop[r]
+touching my breasts eeehhh!!"[pcms]
 
 *682|
 [fc]
 [ns]Wataru[nse]
-"What are you talking about? Your nipples are getting harder and harder. You're[r]
-so lewd."[pcms]
+"What are you talking about? Your nipples are getting harder[r]
+and harder. You're so lewd."[pcms]
 
 *683|
 [fc]
 [vo_ren s="ren0170"]
 [ns]Ren[nse]
-"That's not true... hyaa! Ko-chan. Stop it, don't spread my legs!"[pcms]
+"That's not true... hyaa! Ko-chan. Stop it, don't spread my[r]
+legs!"[pcms]
 
 *684|
 [fc]
 [ns]Kousuke[nse]
-"Ahahaha. When you spread your legs, a sweet scent wafts out. Is it coming from[r]
-under your skirt? This is"[pcms]
+"Ahahaha. When you spread your legs, a sweet scent wafts[r]
+out. Is it coming from under your skirt? This is"[pcms]
 
 *685|
 [fc]
@@ -538,22 +562,25 @@ under your skirt? This is"[pcms]
 
 *686|
 [fc]
-No matter what Ren says as she cries out, Kousuke's actions don't stop.[pcms]
+No matter what Ren says as she cries out, Kousuke's actions[r]
+don't stop.[pcms]
 
 *687|
 [fc]
-Indeed, as Kousuke says, as Ren's legs spread apart, a sweet scent drifts from[r]
-the depths of her panties seen through her stockings.[pcms]
+Indeed, as Kousuke says, as Ren's legs spread apart, a sweet[r]
+scent drifts from the depths of her panties seen through her[r]
+stockings.[pcms]
 
 *688|
 [fc]
 [ns]Kousuke[nse]
-"Ah... rubbing something against these smooth legs would feel so good."[pcms]
+"Ah... rubbing something against these smooth legs would[r]
+feel so good."[pcms]
 
 *689|
 [fc]
-Licking his lips as if tasting her, Kousuke slides his hand along Ren's leg, and[r]
-I can't help but smirk at his words.[pcms]
+Licking his lips as if tasting her, Kousuke slides his hand[r]
+along Ren's leg, and I can't help but smirk at his words.[pcms]
 
 *690|
 [fc]
@@ -564,7 +591,8 @@ I can't help but smirk at his words.[pcms]
 [fc]
 [vo_ren s="ren0172"]
 [ns]Ren[nse]
-"Eh? What do you mean by 'something'... no, no! Onii-chan! Ko-chan!"[pcms]
+"Eh? What do you mean by 'something'... no, no! Onii-chan![r]
+Ko-chan!"[pcms]
 
 *692|
 [fc]
@@ -572,22 +600,26 @@ It seems Ren has no idea what we are about to do.[pcms]
 
 *693|
 [fc]
-But Kousuke and I, as if we had planned it, pull out our things from our pants.[pcms]
+But Kousuke and I, as if we had planned it, pull out our[r]
+things from our pants.[pcms]
 
 *694|
 [fc]
 [vo_ren s="ren0173"]
 [ns]Ren[nse]
-"Stop... please stop. Don't rub... such a thing against me... No, nooo!"[pcms]
+"Stop... please stop. Don't rub... such a thing against[r]
+me... No, nooo!"[pcms]
 
 *695|
 [fc]
-While holding down the struggling Ren, I rubbed my thing against her thigh.[pcms]
+While holding down the struggling Ren, I rubbed my thing[r]
+against her thigh.[pcms]
 
 *696|
 [fc]
 [ns]Kousuke[nse]
-"Ugh, it really does feel good. It's a bit hard because it's her knee..."[pcms]
+"Ugh, it really does feel good. It's a bit hard because it's[r]
+her knee..."[pcms]
 
 *697|
 [fc]
@@ -598,7 +630,8 @@ While holding down the struggling Ren, I rubbed my thing against her thigh.[pcms
 *698|
 [fc]
 [ns]Wataru[nse]
-"It's because my pre-cum is dripping down. Your thigh feels amazing."[pcms]
+"It's because my pre-cum is dripping down. Your thigh feels[r]
+amazing."[pcms]
 
 *699|
 [fc]
@@ -616,15 +649,15 @@ Why did I ever think about protecting Ren from crying?[pcms]
 
 *702|
 [fc]
-The sight of Ren's tearful face is so thrilling. I want to make her cry more.[r]
-No... I want to make her scream.[pcms]
+The sight of Ren's tearful face is so thrilling. I want to[r]
+make her cry more. No... I want to make her scream.[pcms]
 
 *703|
 [fc]
 [vo_ren s="ren0176"]
 [ns]Ren[nse]
-"Onii-chan, stop it. Come back to your senses... Ko-chan too. Please, I'm[r]
-begging you."[pcms]
+"Onii-chan, stop it. Come back to your senses... Ko-chan[r]
+too. Please, I'm begging you."[pcms]
 
 *704|
 [fc]
@@ -634,8 +667,8 @@ begging you."[pcms]
 *705|
 [fc]
 [ns]Wataru[nse]
-"Yeah. I regret not having raped you sooner... I'm that sane. There were so many[r]
-chances."[pcms]
+"Yeah. I regret not having raped you sooner... I'm that[r]
+sane. There were so many chances."[pcms]
 
 *706|
 [fc]
@@ -650,8 +683,9 @@ chances."[pcms]
 
 *708|
 [fc]
-Watching Kousuke, who seems unable to wait any longer as he reaches for his[r]
-underwear, Ren turns her fearful eyes towards me.[pcms]
+Watching Kousuke, who seems unable to wait any longer as he[r]
+reaches for his underwear, Ren turns her fearful eyes[r]
+towards me.[pcms]
 
 *709|
 [fc]
@@ -659,7 +693,8 @@ The color in those eyes... is unbearably thrilling.[pcms]
 
 *710|
 [fc]
-I pressed down on Kousuke's hand as he roughly tried to strip off Ren's panties.[pcms]
+I pressed down on Kousuke's hand as he roughly tried to[r]
+strip off Ren's panties.[pcms]
 
 *711|
 [fc]
@@ -670,28 +705,30 @@ I pressed down on Kousuke's hand as he roughly tried to strip off Ren's panties.
 [fc]
 [vo_ren s="ren0178"]
 [ns]Ren[nse]
-"Onii-chan... it was just a joke, right? You're going to save me, right?"[pcms]
+"Onii-chan... it was just a joke, right? You're going to[r]
+save me, right?"[pcms]
 
 *713|
 [fc]
-As tears roll down her cheeks, Ren's face shows she fully believes she will be[r]
-saved, and it's irresistible.[pcms]
+As tears roll down her cheeks, Ren's face shows she fully[r]
+believes she will be saved, and it's irresistible.[pcms]
 
 *714|
 [fc]
-I smirked and looked back at Ko-chan, who seemed displeased that I had grabbed[r]
-his hand.[pcms]
+I smirked and looked back at Ko-chan, who seemed displeased[r]
+that I had grabbed his hand.[pcms]
 
 *715|
 [fc]
 [ns]Wataru[nse]
-"You know Ren is a virgin, right? And we're best friends, aren't we?"[pcms]
+"You know Ren is a virgin, right? And we're best friends,[r]
+aren't we?"[pcms]
 
 *716|
 [fc]
 [ns]Kousuke[nse]
-"So what? I can't hold back anymore. I need to shove my dick into her pussy; I[r]
-won't be satisfied otherwise."[pcms]
+"So what? I can't hold back anymore. I need to shove my dick[r]
+into her pussy; I won't be satisfied otherwise."[pcms]
 
 *717|
 [fc]
@@ -702,8 +739,9 @@ won't be satisfied otherwise."[pcms]
 *718|
 [fc]
 [ns]Wataru[nse]
-"If we're best friends, how about we both take Ren's virginity together? I can't[r]
-wait to shove my dick into her pussy either."[pcms]
+"If we're best friends, how about we both take Ren's[r]
+virginity together? I can't wait to shove my dick into her[r]
+pussy either."[pcms]
 
 *719|
 [fc]
@@ -714,7 +752,8 @@ wait to shove my dick into her pussy either."[pcms]
 *720|
 [fc]
 [ns]Kousuke[nse]
-"That's a good idea. Instead of competing over who goes first, let's share her."[pcms]
+"That's a good idea. Instead of competing over who goes[r]
+first, let's share her."[pcms]
 
 *721|
 [fc]
@@ -724,7 +763,8 @@ wait to shove my dick into her pussy either."[pcms]
 
 *722|
 [fc]
-The more Ren hoped I would save her, the deeper her despair when she screamed.[pcms]
+The more Ren hoped I would save her, the deeper her despair[r]
+when she screamed.[pcms]
 
 *723|
 [fc]
@@ -747,35 +787,37 @@ But that despair feels incredibly good to me.[pcms]
 *726|
 [fc]
 [ns]Kousuke[nse]
-"Ahaha. Ren-chan's pussy is really beautiful. The labia are pink and so small[r]
-it's doubtful they can take both of our dicks."[pcms]
+"Ahaha. Ren-chan's pussy is really beautiful. The labia are[r]
+pink and so small it's doubtful they can take both of our[r]
+dicks."[pcms]
 
 *727|
 [fc]
 [vo_ren s="ren0183"]
 [ns]Ren[nse]
-"It's impossible... impossible. My pussy can't take both Onii-chan and Ko-[r]
-chan's... things..."[pcms]
+"It's impossible... impossible. My pussy can't take both[r]
+Onii-chan and Ko- chan's... things..."[pcms]
 
 *728|
 [fc]
-Holding down the desperately struggling Ren, Ko-chan and I rubbed our things[r]
-together and aimed for her pussy.[pcms]
+Holding down the desperately struggling Ren, Ko-chan and I[r]
+rubbed our things together and aimed for her pussy.[pcms]
 
 *729|
 [fc]
-Indeed, as Ren cries out, it seems impossible for her small hole to take both at[r]
-once.[pcms]
+Indeed, as Ren cries out, it seems impossible for her small[r]
+hole to take both at once.[pcms]
 
 *730|
 [fc]
-But when we rub our pre-cum on it, it makes a wet and obscene sound.[pcms]
+But when we rub our pre-cum on it, it makes a wet and[r]
+obscene sound.[pcms]
 
 *731|
 [fc]
 [ns]Wataru[nse]
-"Looks like that's not the case. Your pussy seems to be craving our dicks,[r]
-getting all wet."[pcms]
+"Looks like that's not the case. Your pussy seems to be[r]
+craving our dicks, getting all wet."[pcms]
 
 *732|
 [fc]
@@ -790,8 +832,8 @@ getting all wet."[pcms]
 
 *734|
 [fc]
-Crying out, Ren struggles to escape from the two of us, but she doesn't stand a[r]
-chance against our strength.[pcms]
+Crying out, Ren struggles to escape from the two of us, but[r]
+she doesn't stand a chance against our strength.[pcms]
 
 *735|
 [fc]
@@ -800,7 +842,8 @@ chance against our strength.[pcms]
 
 *736|
 [fc]
-I called out to Ko-chan and we both pushed the tips into her small hole.[pcms]
+I called out to Ko-chan and we both pushed the tips into her[r]
+small hole.[pcms]
 
 *737|
 [fc]
@@ -814,13 +857,13 @@ A voice that couldn't even scream shook Ren's throat.[pcms]
 
 *739|
 [fc]
-Her place lubricated only by our pre-cum is definitely not ready to take both of[r]
-our dicks.[pcms]
+Her place lubricated only by our pre-cum is definitely not[r]
+ready to take both of our dicks.[pcms]
 
 *740|
 [fc]
-But well, everyone is born from a woman's pussy, and compared to a baby, our two[r]
-dicks should be easy to handle.[pcms]
+But well, everyone is born from a woman's pussy, and[r]
+compared to a baby, our two dicks should be easy to handle.[pcms]
 
 *741|
 [fc]
@@ -836,7 +879,8 @@ dicks should be easy to handle.[pcms]
 [fc]
 [vo_ren s="ren0186"]
 [ns]Ren[nse]
-"No, nooooo! It hurts, it really hurts. Please stop, please stop it!!!"[pcms]
+"No, nooooo! It hurts, it really hurts. Please stop, please[r]
+stop it!!!"[pcms]
 
 *744|
 [fc]
@@ -854,14 +898,14 @@ Even Ren's screams sound like pleasant music to my ears.[pcms]
 
 *746|
 [fc]
-Just as I felt something tear at the tip of my dick, gradually, our dicks were[r]
-swallowed up by Ren's insides.[pcms]
+Just as I felt something tear at the tip of my dick,[r]
+gradually, our dicks were swallowed up by Ren's insides.[pcms]
 
 *747|
 [fc]
 [ns]Wataru[nse]
-"Really, Ren is such a slut. Even though she says she's a virgin, she's taking[r]
-in two at once."[pcms]
+"Really, Ren is such a slut. Even though she says she's a[r]
+virgin, she's taking in two at once."[pcms]
 
 [evcg storage="HEV025c"][trans_c cross time=300]
 
@@ -891,18 +935,18 @@ in two at once."[pcms]
 
 *752|
 [fc]
-With perfect coordination befitting best friends, Kousuke and I thrust our dicks[r]
-deep into Ren's womb all at once.[pcms]
+With perfect coordination befitting best friends, Kousuke[r]
+and I thrust our dicks deep into Ren's womb all at once.[pcms]
 
 *753|
 [fc]
-Ren's eyes rolled back and her body twitched, she became docile, but still, the[r]
-inside of her pussy feels good.[pcms]
+Ren's eyes rolled back and her body twitched, she became[r]
+docile, but still, the inside of her pussy feels good.[pcms]
 
 *754|
 [fc]
-The thigh rubbing against Ren's smooth skin was nice, but this slippery and[r]
-lukewarm pussy...[pcms]
+The thigh rubbing against Ren's smooth skin was nice, but[r]
+this slippery and lukewarm pussy...[pcms]
 
 *755|
 [fc]
@@ -915,8 +959,9 @@ It seems to exist solely to engulf a man's dick.[pcms]
 
 *757|
 [fc]
-While saying that, I tried to move my hips, but it was difficult to move as we[r]
-had two dicks in the same hole at the same time.[pcms]
+While saying that, I tried to move my hips, but it was[r]
+difficult to move as we had two dicks in the same hole at[r]
+the same time.[pcms]
 
 *758|
 [fc]
@@ -926,25 +971,26 @@ had two dicks in the same hole at the same time.[pcms]
 *759|
 [fc]
 [ns]Kousuke[nse]
-"That sounds good. It feels pretty good just being inside, but rubbing against[r]
-each other seems even better."[pcms]
+"That sounds good. It feels pretty good just being inside,[r]
+but rubbing against each other seems even better."[pcms]
 
 *760|
 [fc]
 [ns]Wataru[nse]
-"Ren would probably prefer that too... wait, she's passed out."[pcms]
+"Ren would probably prefer that too... wait, she's passed[r]
+out."[pcms]
 
 *761|
 [fc]
 [ns]Kousuke[nse]
-"Seriously, even though big bro and I are thrusting into her, she's not trained[r]
-well enough, huh?"[pcms]
+"Seriously, even though big bro and I are thrusting into[r]
+her, she's not trained well enough, huh?"[pcms]
 
 *762|
 [fc]
 [ns]Wataru[nse]
-"Well, we'll train her gradually. Besides, if we move like this, she'll wake up[r]
-whether she likes it or not, right?"[pcms]
+"Well, we'll train her gradually. Besides, if we move like[r]
+this, she'll wake up whether she likes it or not, right?"[pcms]
 
 *763|
 [fc]
@@ -974,7 +1020,8 @@ The moment we did that, Ren woke up and let out a scream.[pcms]
 *768|
 [fc]
 [ns]Kousuke[nse]
-"Kuuuh, it's better when she's awake. Her pussy clings to my dick."[pcms]
+"Kuuuh, it's better when she's awake. Her pussy clings to my[r]
+dick."[pcms]
 
 *769|
 [fc]
@@ -1000,7 +1047,8 @@ The moment we did that, Ren woke up and let out a scream.[pcms]
 
 *773|
 [fc]
-While laughing mockingly at Ren, we continued to thrust our hips without care.[pcms]
+While laughing mockingly at Ren, we continued to thrust our[r]
+hips without care.[pcms]
 
 *774|
 [fc]
@@ -1010,19 +1058,21 @@ While laughing mockingly at Ren, we continued to thrust our hips without care.[p
 
 *775|
 [fc]
-The obscene squelching sounds coming from Ren's pussy were not because she was[r]
-getting excited but simply because her pussy was torn.[pcms]
+The obscene squelching sounds coming from Ren's pussy were[r]
+not because she was getting excited but simply because her[r]
+pussy was torn.[pcms]
 
 *776|
 [fc]
-But that made for a good lubricant, and we thrust into her alternately without[r]
-any hesitation or courtesy.[pcms]
+But that made for a good lubricant, and we thrust into her[r]
+alternately without any hesitation or courtesy.[pcms]
 
 *777|
 [fc]
 [vo_ren s="ren0194"]
 [ns]Ren[nse]
-"Higuu... more, ahhh, it hurts... it hurts so much, big brother..."[pcms]
+"Higuu... more, ahhh, it hurts... it hurts so much, big[r]
+brother..."[pcms]
 
 *778|
 [fc]
@@ -1030,25 +1080,27 @@ Crying out in pain, Ren's voice is delightful.[pcms]
 
 *779|
 [fc]
-Because Kousuke and I are in the same hole, Ren's already tight virgin hole[r]
-squeezes our dicks even tighter.[pcms]
+Because Kousuke and I are in the same hole, Ren's already[r]
+tight virgin hole squeezes our dicks even tighter.[pcms]
 
 *780|
 [fc]
 [ns]Wataru[nse]
-"For someone who's resisting... you're clamping down on us pretty tight."[pcms]
+"For someone who's resisting... you're clamping down on us[r]
+pretty tight."[pcms]
 
 *781|
 [fc]
 [vo_ren s="ren0195"]
 [ns]Ren[nse]
-"Hikuuu... no, I don't want it. Please stop... uguuuu, let go... take your dicks[r]
-out, Ko-chan."[pcms]
+"Hikuuu... no, I don't want it. Please stop... uguuuu, let[r]
+go... take your dicks out, Ko-chan."[pcms]
 
 *782|
 [fc]
 [ns]Kousuke[nse]
-"Ahh, that crying face is the best, Ren-chan. Just that face alone..."[pcms]
+"Ahh, that crying face is the best, Ren-chan. Just that face[r]
+alone..."[pcms]
 
 *783|
 [fc]
@@ -1061,25 +1113,29 @@ out, Ko-chan."[pcms]
 [fc]
 [vo_ren s="ren0196"]
 [ns]Ren[nse]
-"Eh? No! Ah! That's too rough... kuuuu!! It's breaking, I'm breaking... ahhhh!!"[pcms]
+"Eh? No! Ah! That's too rough... kuuuu!! It's breaking, I'm[r]
+breaking... ahhhh!!"[pcms]
 
 *785|
 [fc]
-Kousuke and I started moving our hips violently as if on cue.[pcms]
+Kousuke and I started moving our hips violently as if on[r]
+cue.[pcms]
 
 *786|
 [fc]
-This probably hurt Ren's already numb pussy even more. With the force of passing[r]
-out again, Ren shook her body violently.[pcms]
+This probably hurt Ren's already numb pussy even more. With[r]
+the force of passing out again, Ren shook her body[r]
+violently.[pcms]
 
 *787|
 [fc]
-But what kept her from letting go was the intense pain from her own pussy.[pcms]
+But what kept her from letting go was the intense pain from[r]
+her own pussy.[pcms]
 
 *788|
 [fc]
-She wanted to pass out to escape the pain, but the pain itself was preventing[r]
-her from doing so.[pcms]
+She wanted to pass out to escape the pain, but the pain[r]
+itself was preventing her from doing so.[pcms]
 
 *789|
 [fc]
@@ -1129,13 +1185,15 @@ Ren's words were like a final plea. However.[pcms]
 
 *797|
 [fc]
-We didn't care and almost simultaneously filled Ren's insides with our cum.[pcms]
+We didn't care and almost simultaneously filled Ren's[r]
+insides with our cum.[pcms]
 
 *798|
 [fc]
 [vo_ren s="ren0200"]
 [ns]Ren[nse]
-"It's coming out. It's coming out. Onii-chan's, Onii-chan's cum is... akuuuu!"[pcms]
+"It's coming out. It's coming out. Onii-chan's, Onii-chan's[r]
+cum is... akuuuu!"[pcms]
 
 *799|
 [fc]
@@ -1154,17 +1212,20 @@ We didn't care and almost simultaneously filled Ren's insides with our cum.[pcms
 
 *801|
 [fc]
-Ren's body was shaking violently, her eyes no longer focusing on anything.[pcms]
+Ren's body was shaking violently, her eyes no longer[r]
+focusing on anything.[pcms]
 
 *802|
 [fc]
-But that felt so good to us, we poured every last drop inside Ren.[pcms]
+But that felt so good to us, we poured every last drop[r]
+inside Ren.[pcms]
 
 *803|
 [fc]
 [vo_ren s="ren0202"]
 [ns]Ren[nse]
-"No... Onii-chan... it hurts... it's your fault... inside me..."[pcms]
+"No... Onii-chan... it hurts... it's your fault... inside[r]
+me..."[pcms]
 
 ;//○（上記のセリフは全部書くと「いやぁ……お兄ちゃん以外の人の精子が、私の中に……」になります。
 ;//漣がショック状態でうまく喋れない状態であることが表現されていれば充分ですので、
@@ -1180,8 +1241,8 @@ But that felt so good to us, we poured every last drop inside Ren.[pcms]
 
 *805|
 [fc]
-As I pulled out the spent member, a mix of both men's semen and blood overflowed[r]
-from Ren's pussy, spilling out.[pcms]
+As I pulled out the spent member, a mix of both men's semen[r]
+and blood overflowed from Ren's pussy, spilling out.[pcms]
 
 *806|
 [fc]
@@ -1197,13 +1258,14 @@ from Ren's pussy, spilling out.[pcms]
 *808|
 [fc]
 [ns]Kousuke[nse]
-"Even though you say no, Ren-chan's pussy is twitching like it wants my dick."[pcms]
+"Even though you say no, Ren-chan's pussy is twitching like[r]
+it wants my dick."[pcms]
 
 *809|
 [fc]
 [ns]Wataru[nse]
-"No, what Ren really wants isn't just in her pussy, right? Her ass is twitching[r]
-for a man's dick too."[pcms]
+"No, what Ren really wants isn't just in her pussy, right?[r]
+Her ass is twitching for a man's dick too."[pcms]
 
 *810|
 [fc]
@@ -1214,8 +1276,9 @@ for a man's dick too."[pcms]
 *811|
 [fc]
 [ns]Wataru[nse]
-"You don't think you're forgiven with this, do you, Ren? Look, our dicks are[r]
-already hard again, wanting to enter you."[pcms]
+"You don't think you're forgiven with this, do you, Ren?[r]
+Look, our dicks are already hard again, wanting to enter[r]
+you."[pcms]
 
 *812|
 [fc]
@@ -1225,8 +1288,8 @@ already hard again, wanting to enter you."[pcms]
 
 *813|
 [fc]
-Despite shaking violently from shock, Ren's voice now contained a hint of[r]
-anticipation along with rejection.[pcms]
+Despite shaking violently from shock, Ren's voice now[r]
+contained a hint of anticipation along with rejection.[pcms]
 
 *814|
 [fc]
@@ -1246,8 +1309,8 @@ That's right. Ren must be desperate for a man's dick.[pcms]
 *817|
 [fc]
 [ns]Kousuke[nse]
-"Onii-chan, Onii-chan, are you just going to ignore me? That's pretty harsh,[r]
-isn't it, Ren-chan?"[pcms]
+"Onii-chan, Onii-chan, are you just going to ignore me?[r]
+That's pretty harsh, isn't it, Ren-chan?"[pcms]
 
 [evcg storage="HEV025a"][trans_c cross time=300]
 
@@ -1264,7 +1327,8 @@ Kousuke forcefully thrust his dick back into Ren's pussy.[pcms]
 *820|
 [fc]
 [ns]Wataru[nse]
-"If Kousuke is taking the pussy, then I'll take the virgin ass all to myself."[pcms]
+"If Kousuke is taking the pussy, then I'll take the virgin[r]
+ass all to myself."[pcms]
 
 *821|
 [fc]
@@ -1274,12 +1338,13 @@ Kousuke forcefully thrust his dick back into Ren's pussy.[pcms]
 
 *822|
 [fc]
-The pain in her pussy hadn't fully subsided when it was penetrated again,[r]
-causing Ren's body to tremble.[pcms]
+The pain in her pussy hadn't fully subsided when it was[r]
+penetrated again, causing Ren's body to tremble.[pcms]
 
 *823|
 [fc]
-I held down her hips and pressed my dick against the tightness of her small ass.[pcms]
+I held down her hips and pressed my dick against the[r]
+tightness of her small ass.[pcms]
 
 *824|
 [fc]
@@ -1290,8 +1355,8 @@ I held down her hips and pressed my dick against the tightness of her small ass.
 *825|
 [fc]
 [ns]Wataru[nse]
-"Mmm, the saliva from the front makes it slide nicely; I could shove it in just[r]
-like this."[pcms]
+"Mmm, the saliva from the front makes it slide nicely; I[r]
+could shove it in just like this."[pcms]
 
 *826|
 [fc]
@@ -1302,7 +1367,8 @@ like this."[pcms]
 *827|
 [fc]
 [ns]Wataru[nse]
-"Hey hey, Kousuke, go easy a bit. The shaking is making it hard to aim."[pcms]
+"Hey hey, Kousuke, go easy a bit. The shaking is making it[r]
+hard to aim."[pcms]
 
 *828|
 [fc]
@@ -1311,8 +1377,8 @@ like this."[pcms]
 
 *829|
 [fc]
-Kousuke slowed down his pace a bit after I complained about him shaking his hips[r]
-without regard for my convenience.[pcms]
+Kousuke slowed down his pace a bit after I complained about[r]
+him shaking his hips without regard for my convenience.[pcms]
 
 *830|
 [fc]
@@ -1323,7 +1389,8 @@ without regard for my convenience.[pcms]
 *831|
 [fc]
 [ns]Wataru[nse]
-"Is that so? You want it that badly already. Ren, you're such a glutton."[pcms]
+"Is that so? You want it that badly already. Ren, you're[r]
+such a glutton."[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="HEV025b"]
@@ -1336,8 +1403,8 @@ without regard for my convenience.[pcms]
 
 *833|
 [fc]
-I pushed in all at once, widening the tightness with the thickest part of my[r]
-dick into Ren's narrow hole.[pcms]
+I pushed in all at once, widening the tightness with the[r]
+thickest part of my dick into Ren's narrow hole.[pcms]
 
 *834|
 [fc]
@@ -1355,8 +1422,8 @@ dick into Ren's narrow hole.[pcms]
 *836|
 [fc]
 [ns]Kousuke[nse]
-"You're noisy. Even though you're this wet and messy. Wataru, don't mind her and[r]
-shove it in all the way."[pcms]
+"You're noisy. Even though you're this wet and messy.[r]
+Wataru, don't mind her and shove it in all the way."[pcms]
 
 *837|
 [fc]
@@ -1367,29 +1434,30 @@ shove it in all the way."[pcms]
 [fc]
 [vo_ren s="ren0214"]
 [ns]Ren[nse]
-"Not like that... Yaaan! Onii-chan... Ah, no... It's going in... Kuuuu, it[r]
-hurts!!"[pcms]
+"Not like that... Yaaan! Onii-chan... Ah, no... It's going[r]
+in... Kuuuu, it hurts!!"[pcms]
 
 *839|
 [fc]
-I held down Ren's body as she tried to escape from us and forcibly shoved my[r]
-dick inside her.[pcms]
+I held down Ren's body as she tried to escape from us and[r]
+forcibly shoved my dick inside her.[pcms]
 
 *840|
 [fc]
-The sensation of completely enveloping my dick was something I couldn't feel[r]
-when I was inside her pussy.[pcms]
+The sensation of completely enveloping my dick was something[r]
+I couldn't feel when I was inside her pussy.[pcms]
 
 *841|
 [fc]
-I savored the sensation that crawled up from my hips to my head as her ass[r]
-tightly clenched around me.[pcms]
+I savored the sensation that crawled up from my hips to my[r]
+head as her ass tightly clenched around me.[pcms]
 
 *842|
 [fc]
 [ns]Wataru[nse]
-"Ahaha. You really wanted it in your ass after all. Even though you were a[r]
-virgin until just now, you're already clinging onto my dick."[pcms]
+"Ahaha. You really wanted it in your ass after all. Even[r]
+though you were a virgin until just now, you're already[r]
+clinging onto my dick."[pcms]
 
 *843|
 [fc]
@@ -1427,24 +1495,27 @@ virgin until just now, you're already clinging onto my dick."[pcms]
 *849|
 [fc]
 [ns]Wataru[nse]
-"Your movements are getting better... damn, you're wrapping around me."[pcms]
+"Your movements are getting better... damn, you're wrapping[r]
+around me."[pcms]
 
 *850|
 [fc]
 [ns]Kousuke[nse]
-"This side is also getting into a nice rhythm. Squelching and truly lewd."[pcms]
+"This side is also getting into a nice rhythm. Squelching[r]
+and truly lewd."[pcms]
 
 *851|
 [fc]
 [vo_ren s="ren0218"]
 [ns]Ren[nse]
-"That's not... Ah, uuu... Haaa... I don't want to... I don't want to... Onii-[r]
-chan..."[pcms]
+"That's not... Ah, uuu... Haaa... I don't want to... I don't[r]
+want to... Onii- chan..."[pcms]
 
 *852|
 [fc]
-Gradually, Ren seemed to lose the will to resist, or maybe she was starting to[r]
-feel it, as she quietly let us shake her.[pcms]
+Gradually, Ren seemed to lose the will to resist, or maybe[r]
+she was starting to feel it, as she quietly let us shake[r]
+her.[pcms]
 
 *853|
 [fc]
@@ -1477,13 +1548,15 @@ Dissatisfied, I thrust into Ren even harder.[pcms]
 [fc]
 [vo_ren s="ren0220"]
 [ns]Ren[nse]
-"I don't want this anymore... with someone other than him... Hauuu!"[pcms]
+"I don't want this anymore... with someone other than him...[r]
+Hauuu!"[pcms]
 
 *859|
 [fc]
 [ns]Kousuke[nse]
-"Who is it that you don't want to do this with besides him? Saying that while[r]
-you're this drenched doesn't sound convincing at all."[pcms]
+"Who is it that you don't want to do this with besides him?[r]
+Saying that while you're this drenched doesn't sound[r]
+convincing at all."[pcms]
 
 *860|
 [fc]
@@ -1494,12 +1567,14 @@ you're this drenched doesn't sound convincing at all."[pcms]
 *861|
 [fc]
 [ns]Kousuke[nse]
-"You're starting to feel it, aren't you? Kuu, your tightness is irresistible."[pcms]
+"You're starting to feel it, aren't you? Kuu, your tightness[r]
+is irresistible."[pcms]
 
 *862|
 [fc]
 [ns]Wataru[nse]
-"This side is getting nicely slick too... Your ass is irresistible."[pcms]
+"This side is getting nicely slick too... Your ass is[r]
+irresistible."[pcms]
 
 *863|
 [fc]
@@ -1521,7 +1596,8 @@ you're this drenched doesn't sound convincing at all."[pcms]
 *866|
 [fc]
 [ns]Kousuke[nse]
-"It feels good... the way it clings lazily around my thing. Kuuu!"[pcms]
+"It feels good... the way it clings lazily around my thing.[r]
+Kuuu!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV025d"]
@@ -1534,8 +1610,8 @@ you're this drenched doesn't sound convincing at all."[pcms]
 
 *868|
 [fc]
-I could feel Kousuke's thing swelling up and exploding through the thin wall[r]
-inside Ren.[pcms]
+I could feel Kousuke's thing swelling up and exploding[r]
+through the thin wall inside Ren.[pcms]
 
 *869|
 [fc]
@@ -1545,8 +1621,8 @@ inside Ren.[pcms]
 *870|
 [fc]
 [ns]Kousuke[nse]
-"Well, I was inside her before you... but it's not like I've gone soft. I can[r]
-still go on."[pcms]
+"Well, I was inside her before you... but it's not like I've[r]
+gone soft. I can still go on."[pcms]
 
 *871|
 [fc]
@@ -1569,7 +1645,8 @@ still go on."[pcms]
 
 *874|
 [fc]
-Lifting Ren's light body as if carrying her, I violently fucked her ass.[pcms]
+Lifting Ren's light body as if carrying her, I violently[r]
+fucked her ass.[pcms]
 
 *875|
 [fc]
@@ -1579,7 +1656,8 @@ Lifting Ren's light body as if carrying her, I violently fucked her ass.[pcms]
 
 *876|
 [fc]
-Gradually, Ren's reactions became duller than when I first fucked her.[pcms]
+Gradually, Ren's reactions became duller than when I first[r]
+fucked her.[pcms]
 
 *877|
 [fc]
@@ -1593,13 +1671,14 @@ Annoyed by this, I shook Ren's body roughly.[pcms]
 
 *879|
 [fc]
-But with each deep thrust, the air trapped in her lungs was pushed out, causing[r]
-her vocal cords to vibrate and leak out sounds, yet Ren's reactions continued to[r]
-fade.[pcms]
+But with each deep thrust, the air trapped in her lungs was[r]
+pushed out, causing her vocal cords to vibrate and leak out[r]
+sounds, yet Ren's reactions continued to fade.[pcms]
 
 *880|
 [fc]
-Still, the movement of the walls inside Ren that enveloped my thing felt good.[pcms]
+Still, the movement of the walls inside Ren that enveloped[r]
+my thing felt good.[pcms]
 
 *881|
 [fc]
@@ -1608,8 +1687,8 @@ Still, the movement of the walls inside Ren that enveloped my thing felt good.[p
 
 *882|
 [fc]
-When I called out from behind, Ren's body twitched for just a moment in[r]
-response.[pcms]
+When I called out from behind, Ren's body twitched for just[r]
+a moment in response.[pcms]
 
 *883|
 [fc]
@@ -1617,8 +1696,8 @@ And then--[pcms]
 
 *884|
 [fc]
-I poured a desire into Ren's intestines that was too much for just a second[r]
-time.[pcms]
+I poured a desire into Ren's intestines that was too much[r]
+for just a second time.[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV025e"]
@@ -1631,13 +1710,14 @@ time.[pcms]
 
 *886|
 [fc]
-As my thing trembled with aftershocks, Ren let out a sigh or moan that couldn't[r]
-be distinguished.[pcms]
+As my thing trembled with aftershocks, Ren let out a sigh or[r]
+moan that couldn't be distinguished.[pcms]
 
 *887|
 [fc]
 [ns]Wataru[nse]
-"You're not thinking I'll be satisfied with just two rounds, right?"[pcms]
+"You're not thinking I'll be satisfied with just two rounds,[r]
+right?"[pcms]
 
 *888|
 [fc]
@@ -1655,13 +1735,14 @@ Now--[pcms]
 
 *891|
 [fc]
-She lay limp and motionless. She looked truly like a "doll" that had come to[r]
-life.[pcms]
+She lay limp and motionless. She looked truly like a "doll"[r]
+that had come to life.[pcms]
 
 *892|
 [fc]
-She was breathing and warm, and while she didn't show any notable reactions, she[r]
-was alive since she clenched around my thing like a reflex.[pcms]
+She was breathing and warm, and while she didn't show any[r]
+notable reactions, she was alive since she clenched around[r]
+my thing like a reflex.[pcms]
 
 *893|
 [fc]
@@ -1669,8 +1750,8 @@ That's fine then. There's still plenty of fun to be had.[pcms]
 
 *894|
 [fc]
-Until this reaction fades... I can enjoy myself until Ren's belly is sloshing[r]
-with cum.[pcms]
+Until this reaction fades... I can enjoy myself until Ren's[r]
+belly is sloshing with cum.[pcms]
 
 *895|
 [fc]
@@ -1684,11 +1765,13 @@ with cum.[pcms]
 
 *897|
 [fc]
-Giggling as we sandwiched Ren between us, we started moving again.[pcms]
+Giggling as we sandwiched Ren between us, we started moving[r]
+again.[pcms]
 
 *898|
 [fc]
-As if the ejaculation from earlier was a lie, my thing remained hard.[pcms]
+As if the ejaculation from earlier was a lie, my thing[r]
+remained hard.[pcms]
 
 *899|
 [fc]
@@ -1703,16 +1786,18 @@ As if the ejaculation from earlier was a lie, my thing remained hard.[pcms]
 
 *901|
 [fc]
-No matter what I said, it seemed like Ren couldn't hear me anymore, her eyes[r]
-looking far away.[pcms]
+No matter what I said, it seemed like Ren couldn't hear me[r]
+anymore, her eyes looking far away.[pcms]
 
 *902|
 [fc]
-But we didn't care and just kept seeking pleasure, continuing to move our hips.[pcms]
+But we didn't care and just kept seeking pleasure,[r]
+continuing to move our hips.[pcms]
 
 *903|
 [fc]
-It would be nice if we all stayed connected like this forever.[pcms]
+It would be nice if we all stayed connected like this[r]
+forever.[pcms]
 
 *904|
 [fc]
@@ -1726,19 +1811,19 @@ Yes, Ren, Kousuke, Mizuki, Yuuho...[pcms]
 *906|
 [fc]
 [ns]Kousuke[nse]
-"Who knows? Rather than that, let's go for another round, lend me that hole next[r]
-time."[pcms]
+"Who knows? Rather than that, let's go for another round,[r]
+lend me that hole next time."[pcms]
 
 *907|
 [fc]
 [ns]Wataru[nse]
-"Yeah. The tightness is good, but I also want to slowly savor the front by[r]
-myself."[pcms]
+"Yeah. The tightness is good, but I also want to slowly[r]
+savor the front by myself."[pcms]
 
 *908|
 [fc]
-Laughing with each other, we continued to move our hips to release our[r]
-insatiable desires.[pcms]
+Laughing with each other, we continued to move our hips to[r]
+release our insatiable desires.[pcms]
 
 *909|
 [fc]
@@ -1753,12 +1838,13 @@ Well, I can go pick her up later.[pcms]
 
 *911|
 [fc]
-The moment I stood up to look for Yuuho, I heard something pop in the back of my[r]
-head.[pcms]
+The moment I stood up to look for Yuuho, I heard something[r]
+pop in the back of my head.[pcms]
 
 *912|
 [fc]
-With that sound, all functions that allowed me to control myself were lost...[pcms]
+With that sound, all functions that allowed me to control[r]
+myself were lost...[pcms]
 
 *913|
 [fc]

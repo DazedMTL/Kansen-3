@@ -22,8 +22,8 @@
 
 *821|
 [fc]
-No matter how you think about it, this isn't normal. Could it be... could Yuuho[r]
-be infected!?[pcms]
+No matter how you think about it, this isn't normal. Could[r]
+it be... could Yuuho be infected!?[pcms]
 
 *822|
 [fc]
@@ -31,9 +31,10 @@ A chill ran down my spine at the thought.[pcms]
 
 *823|
 [fc]
-I don't want to think about it... I don't want to, but... Could this abnormal[r]
-behavior and the vacant atmosphere from earlier be similar to Yoshino-san 'that[r]
-day', and the other infected...???[pcms]
+I don't want to think about it... I don't want to, but...[r]
+Could this abnormal behavior and the vacant atmosphere from[r]
+earlier be similar to Yoshino-san 'that day', and the other[r]
+infected...???[pcms]
 
 
 ;[ChrSetEx layer=5 chbase="yuho_e18"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -42,7 +43,8 @@ day', and the other infected...???[pcms]
 [fc]
 [vo_yuh s="yuho_YK0116"]
 [ns]Yuuho[nse]
-"Wa-...ta...ru...uu? ...Wa, ta, ruuuuuuu? ...What's wrong...oooh?"[pcms]
+"Wa-...ta...ru...uu? ...Wa, ta, ruuuuuuu? ...What's[r]
+wrong...oooh?"[pcms]
 ;//＠少し離れた場所
 
 *825|
@@ -51,13 +53,15 @@ Yuuho called out from the sofa.[pcms]
 
 *826|
 [fc]
-It was a completely different tone from her usual lively one, a drawn-out voice[r]
-without any intonation... She's really infected, isn't she!?[pcms]
+It was a completely different tone from her usual lively[r]
+one, a drawn-out voice without any intonation... She's[r]
+really infected, isn't she!?[pcms]
 
 *827|
 [fc]
 [ns]Wataru[nse]
-"What... what should I do...? What's the right thing for me to do...?"[pcms]
+"What... what should I do...? What's the right thing for me[r]
+to do...?"[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢Ａ４
@@ -66,8 +70,8 @@ without any intonation... She's really infected, isn't she!?[pcms]
 
 
 ;	[link storage="60130.ks" target=*60130_TOP]ボクが撃つしかない……！！[endlink]
-; (link storage="60140.ks" target=*60140_TOP)...I should consult with[r]
-everyone(endlink)[pcms]
+; (link storage="60140.ks" target=*60140_TOP)...I should[r]
+consult with everyone(endlink)[pcms]
 
 *SEL53|ボクが撃つしかない……！！／……みんなに相談しよう
 [fc]

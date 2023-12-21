@@ -23,22 +23,23 @@
 
 *2502|
 [fc]
-I failed to land properly and slammed my body into the ground. I couldn't move[r]
-due to the pain and shock.[pcms]
+I failed to land properly and slammed my body into the[r]
+ground. I couldn't move due to the pain and shock.[pcms]
 
 *2503|
 [fc]
 [vo_yuh s="yuho0379"]
 [ns]Yuuho[nse]
-"Ouch... ugh... I have to escape... Quickly... move, my body..."[pcms]
+"Ouch... ugh... I have to escape... Quickly... move, my[r]
+body..."[pcms]
 
 ;//zapBAD_A002.txtÇ©ÇÁÉWÉÉÉìÉv
 *zapBAD_A010_01
 
 *2504|
 [fc]
-Even when I tried to stand up and put strength into it, my body felt so[r]
-unresponsive that it wouldn't move as I wanted.[pcms]
+Even when I tried to stand up and put strength into it, my[r]
+body felt so unresponsive that it wouldn't move as I wanted.[pcms]
 
 *2505|
 [fc]
@@ -52,59 +53,64 @@ unresponsive that it wouldn't move as I wanted.[pcms]
 
 *2506|
 [fc]
-Countless eerie shadows and footsteps approached me. In a sense of crisis, I[r]
-desperately tried to escape, but my body, numbed by pain, couldn't move[r]
-properly.[pcms]
+Countless eerie shadows and footsteps approached me. In a[r]
+sense of crisis, I desperately tried to escape, but my body,[r]
+numbed by pain, couldn't move properly.[pcms]
 
 *2507|
 [fc]
-I tried to crawl on the ground, desperately trying to get away from them.[pcms]
+I tried to crawl on the ground, desperately trying to get[r]
+away from them.[pcms]
 
 *2508|
 [fc]
-However, even their sluggish movements were more than enough to catch me in my[r]
-current state.[pcms]
+However, even their sluggish movements were more than enough[r]
+to catch me in my current state.[pcms]
 
 *2509|
 [fc]
-Like a frog being stared down by a snake, or a butterfly caught in a spider's[r]
-web. Right now, I was literally just pitiful prey waiting for a gruesome fate.[pcms]
+Like a frog being stared down by a snake, or a butterfly[r]
+caught in a spider's web. Right now, I was literally just[r]
+pitiful prey waiting for a gruesome fate.[pcms]
 
 *2510|
 [fc]
 [vo_yuh s="yuho0381"]
 [ns]Yuuho[nse]
-"Don't come... don't come over hereeeee! Somebody, somebody help meeeee!"[pcms]
+"Don't come... don't come over hereeeee! Somebody, somebody[r]
+help meeeee!"[pcms]
 
 *2511|
 [fc]
-Still, I didn't give up. I absolutely didn't want to end my life like this, in a[r]
-place like this...[pcms]
+Still, I didn't give up. I absolutely didn't want to end my[r]
+life like this, in a place like this...[pcms]
 
 *2512|
 [fc]
-I wanted to walk towards my dreams once more. I wanted to meet the person I love[r]
-once again.[pcms]
+I wanted to walk towards my dreams once more. I wanted to[r]
+meet the person I love once again.[pcms]
 
 *2513|
 [fc]
-If I give up, it's all over, if I give up, everything comes to an end. I am an[r]
-athlete. That's why I will never give up![pcms]
+If I give up, it's all over, if I give up, everything comes[r]
+to an end. I am an athlete. That's why I will never give up![pcms]
 
 *2514|
 [fc]
-What supported my heart at this critical moment might have been the athlete's[r]
-spirit I had cultivated desperately through swimming until today.[pcms]
+What supported my heart at this critical moment might have[r]
+been the athlete's spirit I had cultivated desperately[r]
+through swimming until today.[pcms]
 
 *2515|
 [fc]
-Trying to escape the approaching creepy crowd, I crawled around with all my[r]
-might using my whole body.[pcms]
+Trying to escape the approaching creepy crowd, I crawled[r]
+around with all my might using my whole body.[pcms]
 
 *2516|
 [fc]
-Even if it's desperate, even if it's a futile struggle, I won't give up until[r]
-the end... no, because I don't want to give up.[pcms]
+Even if it's desperate, even if it's a futile struggle, I[r]
+won't give up until the end... no, because I don't want to[r]
+give up.[pcms]
 
 *2517|
 [fc]
@@ -114,9 +120,9 @@ the end... no, because I don't want to give up.[pcms]
 
 *2518|
 [fc]
-Using the only part of me that could move as I wished, my throat, I screamed as[r]
-loud as I could. I called for help with all my might. That was my last[r]
-resistance.[pcms]
+Using the only part of me that could move as I wished, my[r]
+throat, I screamed as loud as I could. I called for help[r]
+with all my might. That was my last resistance.[pcms]
 
 *2519|
 [fc]
@@ -126,18 +132,20 @@ resistance.[pcms]
 
 *2520|
 [fc]
-Maybe someone is listening. Maybe someone will come. I clung to that sliver of[r]
-hope with everything I had.[pcms]
+Maybe someone is listening. Maybe someone will come. I clung[r]
+to that sliver of hope with everything I had.[pcms]
 
 *2521|
 [fc]
-But... No miracle occurred. No savior descended, no light of hope was found...[pcms]
+But... No miracle occurred. No savior descended, no light of[r]
+hope was found...[pcms]
 
 *2522|
 [fc]
-I was finally surrounded by those strange people. With no way to crawl away[r]
-blocked by them, I was completely encircled. Even my screams were drowned out by[r]
-their eerie moans.[pcms]
+I was finally surrounded by those strange people. With no[r]
+way to crawl away blocked by them, I was completely[r]
+encircled. Even my screams were drowned out by their eerie[r]
+moans.[pcms]
 
 *2523|
 [fc]
@@ -171,17 +179,18 @@ Like a curse, those obscene words were repeated.[pcms]
 
 *2529|
 [fc]
-As if tormenting their prey before killing it, they began to close their circle[r]
-around me slowly.[pcms]
+As if tormenting their prey before killing it, they began to[r]
+close their circle around me slowly.[pcms]
 
 *2530|
 [fc]
-Along with the foul smell of blood and filth, a gruesome fate was closing in on[r]
-me.[pcms]
+Along with the foul smell of blood and filth, a gruesome[r]
+fate was closing in on me.[pcms]
 
 *2531|
 [fc]
-Fingers covered in blood with nails torn off slowly approached my body.[pcms]
+Fingers covered in blood with nails torn off slowly[r]
+approached my body.[pcms]
 
 *2532|
 [fc]
@@ -192,7 +201,8 @@ Fingers covered in blood with nails torn off slowly approached my body.[pcms]
 *2533|
 [fc]
 [ns]Infected Student B[nse]
-"Show us what's under the swimsuit... pussy, show us your pussy!"[pcms]
+"Show us what's under the swimsuit... pussy, show us your[r]
+pussy!"[pcms]
 
 *2534|
 [fc]
@@ -207,7 +217,8 @@ Fingers covered in blood with nails torn off slowly approached my body.[pcms]
 
 *2536|
 [fc]
-My screams echoed through the school grounds filled with those strange people.[pcms]
+My screams echoed through the school grounds filled with[r]
+those strange people.[pcms]
 
 ;//SEí‚é~(ÉãÅ[ÉvÅB2ïbÇ≈F.O.)
 [stopse buf=1]
@@ -219,13 +230,15 @@ My screams echoed through the school grounds filled with those strange people.[p
 
 *2537|
 [fc]
-Caught by their dirty hands, I was quickly lifted into the air on my back.[pcms]
+Caught by their dirty hands, I was quickly lifted into the[r]
+air on my back.[pcms]
 
 *2538|
 [fc]
-I tried to resist with my body that still wouldn't move properly, but in[r]
-contrast to their slow movements, they were strong and their fingers gripped my[r]
-limbs so tightly they bit into the flesh.[pcms]
+I tried to resist with my body that still wouldn't move[r]
+properly, but in contrast to their slow movements, they were[r]
+strong and their fingers gripped my limbs so tightly they[r]
+bit into the flesh.[pcms]
 
 *2539|
 [fc]
@@ -251,12 +264,14 @@ limbs so tightly they bit into the flesh.[pcms]
 *2543|
 [fc]
 [ns]Infected Student B[nse]
-"I've always wanted to lick all over what's under the swimsuitttt!"[pcms]
+"I've always wanted to lick all over what's under the[r]
+swimsuitttt!"[pcms]
 
 *2544|
 [fc]
 [ns]Infected Student A[nse]
-"Wonder what kind of smell the pussy under the swimsuit has..."[pcms]
+"Wonder what kind of smell the pussy under the swimsuit[r]
+has..."[pcms]
 
 *2545|
 [fc]
@@ -266,24 +281,27 @@ limbs so tightly they bit into the flesh.[pcms]
 *2546|
 [fc]
 [ns]Infected Man A[nse]
-"Swimsuit, swimsuit, take off the swimsuit! Let me smell the pussy scentttt!!"[pcms]
+"Swimsuit, swimsuit, take off the swimsuit! Let me smell the[r]
+pussy scentttt!!"[pcms]
 
 [evcg storage="HEV029b"][trans_c cross time=300]
 
 *2547|
 [fc]
-Just like their appearance, their thoughts were completely deranged. Even if[r]
-carnal desire is a human instinct, this was sheer madness.[pcms]
+Just like their appearance, their thoughts were completely[r]
+deranged. Even if carnal desire is a human instinct, this[r]
+was sheer madness.[pcms]
 
 *2548|
 [fc]
-It was as if simple lustful desires between male and female had escalated into[r]
-twisted perversions.[pcms]
+It was as if simple lustful desires between male and female[r]
+had escalated into twisted perversions.[pcms]
 
 *2549|
 [fc]
 [ns]Infected Man B[nse]
-"Gonna cum on the swimsuit. Gonna make it all sticky with semenmmmm!"[pcms]
+"Gonna cum on the swimsuit. Gonna make it all sticky with[r]
+semenmmmm!"[pcms]
 
 *2550|
 [fc]
@@ -293,12 +311,13 @@ twisted perversions.[pcms]
 
 *2551|
 [fc]
-Speaking to them now was futile. Not a trace of reason existed within them.[pcms]
+Speaking to them now was futile. Not a trace of reason[r]
+existed within them.[pcms]
 
 *2552|
 [fc]
-That's why I raised my voice as much as I could, continuing to desperately call[r]
-for help without giving up.[pcms]
+That's why I raised my voice as much as I could, continuing[r]
+to desperately call for help without giving up.[pcms]
 
 *2553|
 [fc]
@@ -308,12 +327,14 @@ for help without giving up.[pcms]
 *2554|
 [fc]
 [ns]Infected Man B[nse]
-"A mouth that moves so much is best shut with a dick, don't you think?"[pcms]
+"A mouth that moves so much is best shut with a dick, don't[r]
+you think?"[pcms]
 
 *2555|
 [fc]
-The terrifying words they uttered filled me with fear. The thought of being[r]
-forced to take such a thing in my mouth... It was almost too much to bear.[pcms]
+The terrifying words they uttered filled me with fear. The[r]
+thought of being forced to take such a thing in my mouth...[r]
+It was almost too much to bear.[pcms]
 
 *2556|
 [fc]
@@ -331,7 +352,8 @@ forced to take such a thing in my mouth... It was almost too much to bear.[pcms]
 [fc]
 [vo_yuh s="yuho0389"]
 [ns]Yuuho[nse]
-"That's right... I'm broken... I'm all broken from swimming too much..."[pcms]
+"That's right... I'm broken... I'm all broken from swimming[r]
+too much..."[pcms]
 
 *2559|
 [fc]
@@ -341,7 +363,8 @@ I tried to deceive them by hastily lying on the spot.[pcms]
 [fc]
 [vo_yuh s="yuho0390"]
 [ns]Yuuho[nse]
-"My body is all worn out and boring, you really should stop..."[pcms]
+"My body is all worn out and boring, you really should[r]
+stop..."[pcms]
 
 *2561|
 [fc]
@@ -363,8 +386,8 @@ I tried to deceive them by hastily lying on the spot.[pcms]
 
 *2564|
 [fc]
-My lies didn't work on them. It was then that I first understood that[r]
-conversation meant nothing to them.[pcms]
+My lies didn't work on them. It was then that I first[r]
+understood that conversation meant nothing to them.[pcms]
 
 ;//------------------------------------------------------------------------------------
 ;//ÇbÇfÇÃó¨ÇÍå©íºÇµ
@@ -374,7 +397,8 @@ conversation meant nothing to them.[pcms]
 
 *2565|
 [fc]
-As I was held upside down, my crotch was sucked on through the swimsuit.[pcms]
+As I was held upside down, my crotch was sucked on through[r]
+the swimsuit.[pcms]
 
 *2566|
 [fc]
@@ -385,13 +409,14 @@ As I was held upside down, my crotch was sucked on through the swimsuit.[pcms]
 *2567|
 [fc]
 [ns]Infected Student A[nse]
-"Amuuu, njurujuruu... juruu... nmmukujuruu, rerooreroo. Kunkaa, kunkaa...[r]
-kunkaaa..."[pcms]
+"Amuuu, njurujuruu... juruu... nmmukujuruu, rerooreroo.[r]
+Kunkaa, kunkaa... kunkaaa..."[pcms]
 
 *2568|
 [fc]
-As they sucked on my mound, they rubbed the slit with their tongue and began to[r]
-sniff with their nose, soaking it with saliva.[pcms]
+As they sucked on my mound, they rubbed the slit with their[r]
+tongue and began to sniff with their nose, soaking it with[r]
+saliva.[pcms]
 
 *2569|
 [fc]
@@ -402,30 +427,33 @@ sniff with their nose, soaking it with saliva.[pcms]
 *2570|
 [fc]
 [ns]Infected Student A[nse]
-"The idol's pussy smells so good, so good... The juices are seeping out, and the[r]
-scent of a female is so strong."[pcms]
+"The idol's pussy smells so good, so good... The juices are[r]
+seeping out, and the scent of a female is so strong."[pcms]
 
 *2571|
 [fc]
 [ns]Infected Man A[nse]
-"Let me lick the ass, the ass, the asssss... beroberoo, npperorooon!"[pcms]
+"Let me lick the ass, the ass, the asssss... beroberoo,[r]
+npperorooon!"[pcms]
 
 *2572|
 [fc]
-At the same time, my butt was licked along the crack, enveloping my lower half[r]
-in an abnormal sensation that made my whole body feel like it was covered in[r]
-hair.[pcms]
+At the same time, my butt was licked along the crack,[r]
+enveloping my lower half in an abnormal sensation that made[r]
+my whole body feel like it was covered in hair.[pcms]
 
 *2573|
 [fc]
 [ns]Infected Man A[nse]
-"The asshole! Nkkuu, nkkkuuu... I want to lick the assholeee!"[pcms]
+"The asshole! Nkkuu, nkkkuuu... I want to lick the[r]
+assholeee!"[pcms]
 
 *2574|
 [fc]
-Thanks to the swimsuit, their tongues couldn't directly crawl around, but the[r]
-sensation of their sticky saliva seeping into my anus was so disgusting that I[r]
-shook my butt in resistance.[pcms]
+Thanks to the swimsuit, their tongues couldn't directly[r]
+crawl around, but the sensation of their sticky saliva[r]
+seeping into my anus was so disgusting that I shook my butt[r]
+in resistance.[pcms]
 
 *2575|
 [fc]
@@ -441,33 +469,37 @@ shook my butt in resistance.[pcms]
 *2577|
 [fc]
 [ns]Infected Student A[nse]
-"She's feeling it in her anus... The pussy is getting smellier and smellier.[r]
-Look, look, the lewd juice is seeping out from the slit."[pcms]
+"She's feeling it in her anus... The pussy is getting[r]
+smellier and smellier. Look, look, the lewd juice is seeping[r]
+out from the slit."[pcms]
 
 *2578|
 [fc]
-Of course, I felt neither sexual pleasure nor excitement. The only thing wetting[r]
-my lower half should have been the saliva they rubbed in with their tongues.[pcms]
+Of course, I felt neither sexual pleasure nor excitement.[r]
+The only thing wetting my lower half should have been the[r]
+saliva they rubbed in with their tongues.[pcms]
 
 *2579|
 [fc]
-But that saliva had soaked into the swimsuit so thoroughly that it felt just[r]
-like when I swam in the pool.[pcms]
+But that saliva had soaked into the swimsuit so thoroughly[r]
+that it felt just like when I swam in the pool.[pcms]
 
 *2580|
 [fc]
 [ns]Infected Student A[nse]
-"Pussy juice... pussy juice... reeroo, reeroo... juruu, juruuu... juruurururu"[pcms]
+"Pussy juice... pussy juice... reeroo, reeroo... juruu,[r]
+juruuu... juruurururu"[pcms]
 
 *2581|
 [fc]
-They deliberately entwined their tongues and made loud noises as they sucked on[r]
-my crotch.[pcms]
+They deliberately entwined their tongues and made loud[r]
+noises as they sucked on my crotch.[pcms]
 
 *2582|
 [fc]
-The saliva-soaked swimsuit rubbed against my private parts in an ostentatious[r]
-manner, sending a shiver-like sensation up my spine.[pcms]
+The saliva-soaked swimsuit rubbed against my private parts[r]
+in an ostentatious manner, sending a shiver-like sensation[r]
+up my spine.[pcms]
 
 *2583|
 [fc]
@@ -477,8 +509,8 @@ manner, sending a shiver-like sensation up my spine.[pcms]
 
 *2584|
 [fc]
-The unbearable humiliation and disgust made me cry and beg for mercy from them,[r]
-even though I knew it was futile.[pcms]
+The unbearable humiliation and disgust made me cry and beg[r]
+for mercy from them, even though I knew it was futile.[pcms]
 
 *2585|
 [fc]
@@ -487,7 +519,8 @@ But as expected, words meant nothing to them.[pcms]
 *2586|
 [fc]
 [ns]Infected Student A[nse]
-"Nnguu... kunkaa, kunkaa... The pussy is getting steamy and smells so good."[pcms]
+"Nnguu... kunkaa, kunkaa... The pussy is getting steamy and[r]
+smells so good."[pcms]
 
 *2587|
 [fc]
@@ -502,24 +535,26 @@ But as expected, words meant nothing to them.[pcms]
 
 *2589|
 [fc]
-My crotch was mercilessly ravaged by them; they continued to sniff and suck on[r]
-it, and then a dirty male organ that was hard to even look at was thrust before[r]
-my eyes.[pcms]
+My crotch was mercilessly ravaged by them; they continued to[r]
+sniff and suck on it, and then a dirty male organ that was[r]
+hard to even look at was thrust before my eyes.[pcms]
 
 *2590|
 [fc]
 [vo_yuh s="yuho0397"]
 [ns]Yuuho[nse]
-"No, nooo, anything but that... Please spare me that, nooooo!"[pcms]
+"No, nooo, anything but that... Please spare me that,[r]
+nooooo!"[pcms]
 
 *2591|
 [fc]
-Their thoughts knew no mercy. They simply acted on their desires, carrying out[r]
-their madness...[pcms]
+Their thoughts knew no mercy. They simply acted on their[r]
+desires, carrying out their madness...[pcms]
 
 *2592|
 [fc]
-A filthy and foul-smelling male organ was forcefully jammed into my mouth.[pcms]
+A filthy and foul-smelling male organ was forcefully jammed[r]
+into my mouth.[pcms]
 
 *2593|
 [fc]
@@ -529,8 +564,9 @@ A filthy and foul-smelling male organ was forcefully jammed into my mouth.[pcms]
 
 *2594|
 [fc]
-I was violated all the way to my throat in one go; unable to endure the stench[r]
-and foreign sensation filling my mouth, I was on the verge of vomiting.[pcms]
+I was violated all the way to my throat in one go; unable to[r]
+endure the stench and foreign sensation filling my mouth, I[r]
+was on the verge of vomiting.[pcms]
 
 *2595|
 [fc]
@@ -541,26 +577,29 @@ and foreign sensation filling my mouth, I was on the verge of vomiting.[pcms]
 [fc]
 [vo_yuh s="yuho0399"]
 [ns]Yuuho[nse]
-"Abuuu, uweee... this is too much, abuuu, too deep... muhiiii!"[pcms]
+"Abuuu, uweee... this is too much, abuuu, too deep...[r]
+muhiiii!"[pcms]
 
 *2597|
 [fc]
-Having my mouth violated by the filthy genitals of unknown men brought me close[r]
-to losing consciousness.[pcms]
+Having my mouth violated by the filthy genitals of unknown[r]
+men brought me close to losing consciousness.[pcms]
 
 *2598|
 [fc]
-Perhaps it would have been a blessing to become unaware of everything right[r]
-there.[pcms]
+Perhaps it would have been a blessing to become unaware of[r]
+everything right there.[pcms]
 
 *2599|
 [fc]
-However, ironically enough, what kept me conscious were the abnormal sensations[r]
-in my lower half and the rotten smell in my mouth.[pcms]
+However, ironically enough, what kept me conscious were the[r]
+abnormal sensations in my lower half and the rotten smell in[r]
+my mouth.[pcms]
 
 *2600|
 [fc]
-The stimulation was too strong; I wasn't even allowed to lose consciousness.[pcms]
+The stimulation was too strong; I wasn't even allowed to[r]
+lose consciousness.[pcms]
 
 *2601|
 [fc]
@@ -570,8 +609,8 @@ The stimulation was too strong; I wasn't even allowed to lose consciousness.[pcm
 *2602|
 [fc]
 [ns]Infected Student B[nse]
-"Time to clean my dick with the idol's mouth! Lick it, lick it, keep licking[r]
-more and more!"[pcms]
+"Time to clean my dick with the idol's mouth! Lick it, lick[r]
+it, keep licking more and more!"[pcms]
 
 *2603|
 [fc]
@@ -582,17 +621,20 @@ more and more!"[pcms]
 *2604|
 [fc]
 [ns]Infected Student B[nse]
-"What's the matter, what's the matter? Shocked by the taste of your first dick?"[pcms]
+"What's the matter, what's the matter? Shocked by the taste[r]
+of your first dick?"[pcms]
 
 *2605|
 [fc]
-Being forced to hold such a thing in my mouth, from someone I neither liked nor[r]
-knew, was the worst experience as a woman.[pcms]
+Being forced to hold such a thing in my mouth, from someone[r]
+I neither liked nor knew, was the worst experience as a[r]
+woman.[pcms]
 
 *2606|
 [fc]
 [ns]Infected Student A[nse]
-"She's convulsing her pussy with emotion from the taste of her first dick!"[pcms]
+"She's convulsing her pussy with emotion from the taste of[r]
+her first dick!"[pcms]
 
 *2607|
 [fc]
@@ -602,25 +644,26 @@ knew, was the worst experience as a woman.[pcms]
 
 *2608|
 [fc]
-I'm not enjoying this. I'm just suffering from pain and humiliation. So, to show[r]
-as much resistance as I could, I shook my head and hips.[pcms]
+I'm not enjoying this. I'm just suffering from pain and[r]
+humiliation. So, to show as much resistance as I could, I[r]
+shook my head and hips.[pcms]
 
 *2609|
 [fc]
-But such resistance meant nothing to these people. It only served to excite them[r]
-further.[pcms]
+But such resistance meant nothing to these people. It only[r]
+served to excite them further.[pcms]
 
 *2610|
 [fc]
 [ns]Infected Student A[nse]
-"She's enjoying it, shaking her pussy with pleasure. Her swimsuit is so wedged[r]
-in!"[pcms]
+"She's enjoying it, shaking her pussy with pleasure. Her[r]
+swimsuit is so wedged in!"[pcms]
 
 *2611|
 [fc]
 [ns]Infected Man A[nse]
-"She looks like she wants her ass penetrated too, writhing with her swimsuit[r]
-wedged in!"[pcms]
+"She looks like she wants her ass penetrated too, writhing[r]
+with her swimsuit wedged in!"[pcms]
 
 *2612|
 [fc]
@@ -635,39 +678,42 @@ wedged in!"[pcms]
 
 *2614|
 [fc]
-Repair... does that mean it's not over? They still want to do something to me?[pcms]
+Repair... does that mean it's not over? They still want to[r]
+do something to me?[pcms]
 
 *2615|
 [fc]
-With little sexual experience or knowledge, everything they wanted to do was an[r]
-unknown territory for me.[pcms]
+With little sexual experience or knowledge, everything they[r]
+wanted to do was an unknown territory for me.[pcms]
 
 *2616|
 [fc]
-And so, without even being able to prepare myself mentally, I was exposed to[r]
-their desires.[pcms]
+And so, without even being able to prepare myself mentally,[r]
+I was exposed to their desires.[pcms]
 
 *2617|
 [fc]
 [ns]Infected Man B[nse]
-"Come on, come on, lick it thoroughly with your cute tongue."[pcms]
+"Come on, come on, lick it thoroughly with your cute[r]
+tongue."[pcms]
 
 *2618|
 [fc]
 [vo_yuh s="yuho0403"]
 [ns]Yuuho[nse]
-"Ubuuuuuh!! Nguuu... guuuuu. Muhiiii, uhihiiiiinnmuuu... Buuuu, ubaaaaaa...[r]
-abuuuu!"[pcms]
+"Ubuuuuuh!! Nguuu... guuuuu. Muhiiii, uhihiiiiinnmuuu...[r]
+Buuuu, ubaaaaaa... abuuuu!"[pcms]
 
 *2619|
 [fc]
-The man violating my mouth thrust his hips roughly, jabbing his dick violently[r]
-into my throat.[pcms]
+The man violating my mouth thrust his hips roughly, jabbing[r]
+his dick violently into my throat.[pcms]
 
 *2620|
 [fc]
-The sensation of suffocation made tears spill out uncontrollably. The duet of[r]
-humiliation and pain was truly a living hell.[pcms]
+The sensation of suffocation made tears spill out[r]
+uncontrollably. The duet of humiliation and pain was truly a[r]
+living hell.[pcms]
 
 *2621|
 [fc]
@@ -682,9 +728,9 @@ humiliation and pain was truly a living hell.[pcms]
 
 *2623|
 [fc]
-The thick, hard, foul-smelling rod rubbed against the inside of my mouth. Could[r]
-I even stay sane amidst such torment that I'd never even dreamed of in[r]
-nightmares?[pcms]
+The thick, hard, foul-smelling rod rubbed against the inside[r]
+of my mouth. Could I even stay sane amidst such torment that[r]
+I'd never even dreamed of in nightmares?[pcms]
 
 *2624|
 [fc]
@@ -694,13 +740,14 @@ nightmares?[pcms]
 
 *2625|
 [fc]
-I desperately wanted to do something about the thing rampaging inside my mouth;[r]
-I really didn't want to touch it with my tongue...[pcms]
+I desperately wanted to do something about the thing[r]
+rampaging inside my mouth; I really didn't want to touch it[r]
+with my tongue...[pcms]
 
 *2626|
 [fc]
-In order to escape the current breathless situation, I pushed back with my[r]
-tongue.[pcms]
+In order to escape the current breathless situation, I[r]
+pushed back with my tongue.[pcms]
 
 *2627|
 [fc]
@@ -716,23 +763,25 @@ tongue.[pcms]
 *2629|
 [fc]
 [ns]Infected Student A[nse]
-"As expected of an athlete. Has her body awakened to its female instincts?"[pcms]
+"As expected of an athlete. Has her body awakened to its[r]
+female instincts?"[pcms]
 
 *2630|
 [fc]
-The sensation and stench transmitted from the tongue were unbearable, but I[r]
-endured it to secure an airway.[pcms]
+The sensation and stench transmitted from the tongue were[r]
+unbearable, but I endured it to secure an airway.[pcms]
 
 *2631|
 [fc]
 [vo_yuh s="yuho0407"]
 [ns]Yuuho[nse]
-"Fuguuu... nngmuu, nngmuuu... Nngguuh, njuruhh, njuruhh... Juruhh, juruhh..."[pcms]
+"Fuguuu... nngmuu, nngmuuu... Nngguuh, njuruhh, njuruhh...[r]
+Juruhh, juruhh..."[pcms]
 
 *2632|
 [fc]
-Each time I pushed back, the dick rubbed against my tongue and trembled minutely[r]
-inside my mouth.[pcms]
+Each time I pushed back, the dick rubbed against my tongue[r]
+and trembled minutely inside my mouth.[pcms]
 
 *2633|
 [fc]
@@ -743,13 +792,14 @@ inside my mouth.[pcms]
 *2634|
 [fc]
 [ns]Infected Man B[nse]
-"Ohh, ohh, that's good, that's good. Has your broken mouth finally started to[r]
-heal?"[pcms]
+"Ohh, ohh, that's good, that's good. Has your broken mouth[r]
+finally started to heal?"[pcms]
 
 *2635|
 [fc]
-I'm healed, I'm healed... so please let it end. I kept desperately praying that[r]
-in my mind, but the penis wouldn't leave my mouth at all.[pcms]
+I'm healed, I'm healed... so please let it end. I kept[r]
+desperately praying that in my mind, but the penis wouldn't[r]
+leave my mouth at all.[pcms]
 
 *2636|
 [fc]
@@ -757,34 +807,37 @@ What more do they want me to do? What are they hoping for?[pcms]
 
 *2637|
 [fc]
-An endless maze with no exit, an endless nightmare... That's how it felt as if I[r]
-had fallen into an immense abyss.[pcms]
+An endless maze with no exit, an endless nightmare... That's[r]
+how it felt as if I had fallen into an immense abyss.[pcms]
 
 *2638|
 [fc]
-However, that was also a mistake caused by my lack of sexual knowledgea[r]
-misunderstanding.[pcms]
+However, that was also a mistake caused by my lack of sexual[r]
+knowledgea misunderstanding.[pcms]
 
 *2639|
 [fc]
-What a manor rather a maleviolating a woman's mouth seeks is only one thing...[pcms]
+What a manor rather a maleviolating a woman's mouth seeks is[r]
+only one thing...[pcms]
 
 *2640|
 [fc]
 [ns]Infected Man B[nse]
-"Uheheheh, feels good... Lick my dick with your tongue... Ahhaahh, ahhaahh, it[r]
-feels so good!"[pcms]
+"Uheheheh, feels good... Lick my dick with your tongue...[r]
+Ahhaahh, ahhaahh, it feels so good!"[pcms]
 
 *2641|
 [fc]
-When an even stranger stench wafted from the moving penis inside my mouth, I[r]
-finally understood what was about to happen.[pcms]
+When an even stranger stench wafted from the moving penis[r]
+inside my mouth, I finally understood what was about to[r]
+happen.[pcms]
 
 *2642|
 [fc]
 [vo_yuh s="yuho0409"]
 [ns]Yuuho[nse]
-"Ubbuuhhh, fuahh, iyaaahhh... Stop itttt, don't let it outttt!!"[pcms]
+"Ubbuuhhh, fuahh, iyaaahhh... Stop itttt, don't let it[r]
+outttt!!"[pcms]
 
 *2643|
 [fc]
@@ -793,8 +846,8 @@ finally understood what was about to happen.[pcms]
 
 *2644|
 [fc]
-By the time I realized it was too late. A hot sensation spread throughout my[r]
-mouth.[pcms]
+By the time I realized it was too late. A hot sensation[r]
+spread throughout my mouth.[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcgéÀê∏ÉtÉâ storage="HEV028b"]
@@ -807,9 +860,9 @@ mouth.[pcms]
 
 *2646|
 [fc]
-A large amount of semen was released into my mouth and filled it up. Due to[r]
-being upside down, the liquid flowed from my throat into my nose, and I couldn't[r]
-breathe.[pcms]
+A large amount of semen was released into my mouth and[r]
+filled it up. Due to being upside down, the liquid flowed[r]
+from my throat into my nose, and I couldn't breathe.[pcms]
 
 *2647|
 [fc]
@@ -819,13 +872,15 @@ breathe.[pcms]
 
 *2648|
 [fc]
-The scream I let out was like the death throes of a beast as semen spurted from[r]
-both my nostrils and mouth. The overpowering smell of sex made me dizzy.[pcms]
+The scream I let out was like the death throes of a beast as[r]
+semen spurted from both my nostrils and mouth. The[r]
+overpowering smell of sex made me dizzy.[pcms]
 
 *2649|
 [fc]
-My whole body convulsed and strength left me. My body drowned in semen and[r]
-slipped away from consciousness control...[pcms]
+My whole body convulsed and strength left me. My body[r]
+drowned in semen and slipped away from consciousness[r]
+control...[pcms]
 
 *2650|
 [fc]
@@ -835,8 +890,9 @@ slipped away from consciousness control...[pcms]
 
 *2651|
 [fc]
-A loud splashing sound echoed distantly. What appeared in my hazy vision was a[r]
-fountain-like spray coming from between my legs.[pcms]
+A loud splashing sound echoed distantly. What appeared in my[r]
+hazy vision was a fountain-like spray coming from between my[r]
+legs.[pcms]
 
 *2652|
 [fc]
@@ -846,8 +902,8 @@ fountain-like spray coming from between my legs.[pcms]
 *2653|
 [fc]
 [ns]Infected Student B[nse]
-"Hahhahhahha, it's the idol's big pee! I'm gonna drink it all, gulp it all[r]
-down!"[pcms]
+"Hahhahhahha, it's the idol's big pee! I'm gonna drink it[r]
+all, gulp it all down!"[pcms]
 
 *2654|
 [fc]
@@ -861,12 +917,14 @@ down!"[pcms]
 
 *2656|
 [fc]
-They drank my endlessly flowing pee with cries of joy, completely engrossed.[pcms]
+They drank my endlessly flowing pee with cries of joy,[r]
+completely engrossed.[pcms]
 
 *2657|
 [fc]
 [ns]Infected Student A[nse]
-"Abuuu, fuuu...fuuuu... Hey hey, you sure had a lot of pee stored up."[pcms]
+"Abuuu, fuuu...fuuuu... Hey hey, you sure had a lot of pee[r]
+stored up."[pcms]
 
 *2658|
 [fc]
@@ -881,8 +939,8 @@ They drank my endlessly flowing pee with cries of joy, completely engrossed.[pcm
 
 *2660|
 [fc]
-My mouth was violated and forced to drink semen, my pussy was licked, and I even[r]
-wet myself and that too was drunk.[pcms]
+My mouth was violated and forced to drink semen, my pussy[r]
+was licked, and I even wet myself and that too was drunk.[pcms]
 
 *2661|
 [fc]
@@ -900,18 +958,21 @@ I think my pride as a woman has been completely lost now.[pcms]
 
 *2664|
 [fc]
-However, that was a terrible miscalculation. This mad orgy was far from over.[pcms]
+However, that was a terrible miscalculation. This mad orgy[r]
+was far from over.[pcms]
 
 ;//ÅYHEV033
 [evcg storage="HEV029a"][trans_c cross time=300]
 
 *2665|
 [fc]
-My body no longer had the strength to resist, nor the will to try to escape.[pcms]
+My body no longer had the strength to resist, nor the will[r]
+to try to escape.[pcms]
 
 *2666|
 [fc]
-I was made to lie face down and positioned with my butt lifted up like a doll.[pcms]
+I was made to lie face down and positioned with my butt[r]
+lifted up like a doll.[pcms]
 
 *2667|
 [fc]
@@ -931,8 +992,9 @@ I was made to lie face down and positioned with my butt lifted up like a doll.[p
 
 *2670|
 [fc]
-Being exposed to lecherous gazes fundamentally different from being seen in a[r]
-swimsuit during club activities, I hid my face in shame.[pcms]
+Being exposed to lecherous gazes fundamentally different[r]
+from being seen in a swimsuit during club activities, I hid[r]
+my face in shame.[pcms]
 
 *2671|
 [fc]
@@ -959,13 +1021,13 @@ swimsuit during club activities, I hid my face in shame.[pcms]
 
 *2675|
 [fc]
-Without paying any attention to such words, they sandwiched their genitals[r]
-between my breasts, butt cheeks, and back.[pcms]
+Without paying any attention to such words, they sandwiched[r]
+their genitals between my breasts, butt cheeks, and back.[pcms]
 
 *2676|
 [fc]
-Their genitals sandwiched between the swimsuit fabric and my body began to move[r]
-freely.[pcms]
+Their genitals sandwiched between the swimsuit fabric and my[r]
+body began to move freely.[pcms]
 
 *2677|
 [fc]
@@ -975,17 +1037,19 @@ freely.[pcms]
 
 *2678|
 [fc]
-The sensation of being rubbed all over made me shiver uncontrollably.[pcms]
+The sensation of being rubbed all over made me shiver[r]
+uncontrollably.[pcms]
 
 *2679|
 [fc]
-Yet they continued to rub their penises against me mercilessly for their own[r]
-pleasure.[pcms]
+Yet they continued to rub their penises against me[r]
+mercilessly for their own pleasure.[pcms]
 
 *2680|
 [fc]
 [ns]Infected Man A[nse]
-"Uheee, it feels so good being rubbed between the swimsuit and skin."[pcms]
+"Uheee, it feels so good being rubbed between the swimsuit[r]
+and skin."[pcms]
 
 *2681|
 [fc]
@@ -996,17 +1060,18 @@ pleasure.[pcms]
 [fc]
 [vo_yuh s="yuho0417"]
 [ns]Yuuho[nse]
-"No, aggguu...it's rubbing...it hurts... What's the point of doing[r]
-this...auuuhhh"[pcms]
+"No, aggguu...it's rubbing...it hurts... What's the point of[r]
+doing this...auuuhhh"[pcms]
 
 *2683|
 [fc]
-Lacking any semblance of rational thought, they just kept thrusting their hips[r]
-chaotically in pursuit of pleasure.[pcms]
+Lacking any semblance of rational thought, they just kept[r]
+thrusting their hips chaotically in pursuit of pleasure.[pcms]
 
 *2684|
 [fc]
-Suddenly, a sticky and eerie fluid began to be smeared all over my body.[pcms]
+Suddenly, a sticky and eerie fluid began to be smeared all[r]
+over my body.[pcms]
 
 [evcg storage="HEV029c"][trans_c cross time=300]
 
@@ -1025,12 +1090,13 @@ Suddenly, a sticky and eerie fluid began to be smeared all over my body.[pcms]
 [fc]
 [vo_yuh s="yuho0419"]
 [ns]Yuuho[nse]
-"Hiiiah... uuhh, kuhh... Nnh...ahhii! It's slimy and feels disgusting..."[pcms]
+"Hiiiah... uuhh, kuhh... Nnh...ahhii! It's slimy and feels[r]
+disgusting..."[pcms]
 
 *2688|
 [fc]
-I was smeared with pre-cum over and over again, and my whole body was exposed to[r]
-an abnormal odor.[pcms]
+I was smeared with pre-cum over and over again, and my whole[r]
+body was exposed to an abnormal odor.[pcms]
 
 *2689|
 [fc]
@@ -1045,7 +1111,8 @@ an abnormal odor.[pcms]
 *2691|
 [fc]
 [ns]Infected Student A[nse]
-"Nnoooohh, here I go, I'm letting it out, semennnnn, semennnnn!!"[pcms]
+"Nnoooohh, here I go, I'm letting it out, semennnnn,[r]
+semennnnn!!"[pcms]
 
 *2692|
 [fc]
@@ -1055,8 +1122,8 @@ an abnormal odor.[pcms]
 
 *2693|
 [fc]
-My desperate screams were in vain as they reached their climax and released[r]
-their semen as they pleased.[pcms]
+My desperate screams were in vain as they reached their[r]
+climax and released their semen as they pleased.[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcgéÀê∏ÉtÉâ storage="HEV029d"]
@@ -1065,12 +1132,13 @@ their semen as they pleased.[pcms]
 [fc]
 [vo_yuh s="yuho0421"]
 [ns]Yuuho[nse]
-"Abuuhh, hiiiaaahh! Ahhahh, it's hot...my body is burning up!"[pcms]
+"Abuuhh, hiiiaaahh! Ahhahh, it's hot...my body is burning[r]
+up!"[pcms]
 
 *2695|
 [fc]
-The strange sensation of hot fluid being released all over me made me writhe in[r]
-agony.[pcms]
+The strange sensation of hot fluid being released all over[r]
+me made me writhe in agony.[pcms]
 
 [evcg storage="HEV029e"][trans_c cross time=300]
 
@@ -1092,12 +1160,13 @@ agony.[pcms]
 
 *2699|
 [fc]
-Even my precious swimsuit was now contaminated by their filthy fluids.[pcms]
+Even my precious swimsuit was now contaminated by their[r]
+filthy fluids.[pcms]
 
 *2700|
 [fc]
-Covered in white sticky fluid all over my body, I shed tears of despair. Yet[r]
-still they were not satisfied.[pcms]
+Covered in white sticky fluid all over my body, I shed tears[r]
+of despair. Yet still they were not satisfied.[pcms]
 
 ;//ÅYHEV032B
 [evcg storage="HEV028a"][trans_c cross time=300]
@@ -1108,26 +1177,28 @@ Hugged tightly by them, I was lifted up once again.[pcms]
 
 *2702|
 [fc]
-My chest and face were once again pressed against their filthy genitals,[r]
-forcibly rubbing against my body.[pcms]
+My chest and face were once again pressed against their[r]
+filthy genitals, forcibly rubbing against my body.[pcms]
 
 *2703|
 [fc]
 [vo_yuh s="yuho0423"]
 [ns]Yuuho[nse]
-"Still, it's not enough... After doing something this terrible, isn't it enough[r]
-already...?"[pcms]
+"Still, it's not enough... After doing something this[r]
+terrible, isn't it enough already...?"[pcms]
 
 *2704|
 [fc]
 [ns]Infected Student A[nse]
-"Not enough... not enough! Because... because the pussy is still left!!"[pcms]
+"Not enough... not enough! Because... because the pussy is[r]
+still left!!"[pcms]
 
 *2705|
 [fc]
 [vo_yuh s="yuho0424"]
 [ns]Yuuho[nse]
-"No... please, that's the only thing... You've already dirtied me enough."[pcms]
+"No... please, that's the only thing... You've already[r]
+dirtied me enough."[pcms]
 
 *2706|
 [fc]
@@ -1142,27 +1213,30 @@ already...?"[pcms]
 
 *2708|
 [fc]
-At that moment, unexpectedly, I heard a familiar voice and turned my tear-[r]
-blurred eyes towards it.[pcms]
+At that moment, unexpectedly, I heard a familiar voice and[r]
+turned my tear- blurred eyes towards it.[pcms]
 
 *2709|
 [fc]
-What appeared in my dim vision was not a savior but Oshima-senpai, who had been[r]
-horribly transformed.[pcms]
+What appeared in my dim vision was not a savior but Oshima-[r]
+senpai, who had been horribly transformed.[pcms]
 
 *2710|
 [fc]
-It might have been something else wearing the guise of Oshima-senpai.[pcms]
+It might have been something else wearing the guise of[r]
+Oshima-senpai.[pcms]
 
 *2711|
 [fc]
-His eyes shone red like the others gone mad, his body bled from everywhere,[r]
-resembling a ghoul that had crawled out of a grave.[pcms]
+His eyes shone red like the others gone mad, his body bled[r]
+from everywhere, resembling a ghoul that had crawled out of[r]
+a grave.[pcms]
 
 *2712|
 [fc]
 [ns]Oshimi[nse]
-"That pussy is mine!! It's my role to be the first to plunge into it!"[pcms]
+"That pussy is mine!! It's my role to be the first to plunge[r]
+into it!"[pcms]
 
 *2713|
 [fc]
@@ -1172,13 +1246,14 @@ resembling a ghoul that had crawled out of a grave.[pcms]
 *2714|
 [fc]
 [ns]Oshimi[nse]
-"Move it, let me fuck her!! I'm taking that pussy, I won't show mercy to anyone[r]
-who gets in my way!"[pcms]
+"Move it, let me fuck her!! I'm taking that pussy, I won't[r]
+show mercy to anyone who gets in my way!"[pcms]
 
 *2715|
 [fc]
-Pushing aside the other crazed people with vulgar words one wouldn't expect from[r]
-Oshima-senpai, he rushed over to my side.[pcms]
+Pushing aside the other crazed people with vulgar words one[r]
+wouldn't expect from Oshima-senpai, he rushed over to my[r]
+side.[pcms]
 
 *2716|
 [fc]
@@ -1192,13 +1267,14 @@ I fully understood it was futile.[pcms]
 
 *2718|
 [fc]
-But because he was someone familiar, even in his changed form, I couldn't help[r]
-but plead.[pcms]
+But because he was someone familiar, even in his changed[r]
+form, I couldn't help but plead.[pcms]
 
 *2719|
 [fc]
-Of course, such a wish couldn't reach Oshima-senpai now, and he flaunted his[r]
-erect genitals before aiming them at my crotch.[pcms]
+Of course, such a wish couldn't reach Oshima-senpai now, and[r]
+he flaunted his erect genitals before aiming them at my[r]
+crotch.[pcms]
 
 *2720|
 [fc]
@@ -1208,18 +1284,20 @@ erect genitals before aiming them at my crotch.[pcms]
 
 *2721|
 [fc]
-The thought of losing my precious virginity in such a way was unbearable. Even[r]
-knowing it was futile, I couldn't help but beg.[pcms]
+The thought of losing my precious virginity in such a way[r]
+was unbearable. Even knowing it was futile, I couldn't help[r]
+but beg.[pcms]
 
 *2722|
 [fc]
-If I were violated here... I feared I might lose the will to live.[pcms]
+If I were violated here... I feared I might lose the will to[r]
+live.[pcms]
 
 *2723|
 [fc]
 [ns]Oshimi[nse]
-"You're my woman. Since you're my woman, it's only natural that I get to do[r]
-this!!"[pcms]
+"You're my woman. Since you're my woman, it's only natural[r]
+that I get to do this!!"[pcms]
 
 *2724|
 [fc]
@@ -1229,12 +1307,13 @@ this!!"[pcms]
 
 *2725|
 [fc]
-Sadness, frustration, terror... My emotions were a chaotic mess as I cried.[pcms]
+Sadness, frustration, terror... My emotions were a chaotic[r]
+mess as I cried.[pcms]
 
 *2726|
 [fc]
-Yet Oshima-senpai didn't care and pressed the tip of his genitals against my[r]
-swimsuit-covered crotch.[pcms]
+Yet Oshima-senpai didn't care and pressed the tip of his[r]
+genitals against my swimsuit-covered crotch.[pcms]
 
 [evcg storage="HEV028c"][trans_c cross time=300]
 
@@ -1246,32 +1325,37 @@ swimsuit-covered crotch.[pcms]
 
 *2728|
 [fc]
-It was only a few centimeters... maybe even just a few millimeters.[pcms]
+It was only a few centimeters... maybe even just a few[r]
+millimeters.[pcms]
 
 *2729|
 [fc]
-But the sensation of a foreign object trying to penetrate my precious place was[r]
-an unbearable agony.[pcms]
+But the sensation of a foreign object trying to penetrate my[r]
+precious place was an unbearable agony.[pcms]
 
 *2730|
 [fc]
 [vo_yuh s="yuho0430"]
 [ns]Yuuho[nse]
-"It hurts... that can't fit... stop it, Oshima-senpai... please stop!"[pcms]
+"It hurts... that can't fit... stop it, Oshima-senpai...[r]
+please stop!"[pcms]
 
 *2731|
 [fc]
-I knew it was in vain, but still I desperately called out his name.[pcms]
+I knew it was in vain, but still I desperately called out[r]
+his name.[pcms]
 
 *2732|
 [fc]
 [ns]Oshimi[nse]
-"To violate... no, I... ugh. I really don't want to do this..."[pcms]
+"To violate... no, I... ugh. I really don't want to do[r]
+this..."[pcms]
 
 *2733|
 [fc]
-A miracle happened amidst the nightmare and worst situation. A glimmer of reason[r]
-seemed to return to Oshima-senpai's eyes, which had been dominated by madness.[pcms]
+A miracle happened amidst the nightmare and worst situation.[r]
+A glimmer of reason seemed to return to Oshima-senpai's[r]
+eyes, which had been dominated by madness.[pcms]
 
 *2734|
 [fc]
@@ -1281,13 +1365,15 @@ seemed to return to Oshima-senpai's eyes, which had been dominated by madness.[p
 
 *2735|
 [fc]
-I shouted with all the strength I had left, straining my voice as much as I[r]
-could with the remaining energy and physical strength.[pcms]
+I shouted with all the strength I had left, straining my[r]
+voice as much as I could with the remaining energy and[r]
+physical strength.[pcms]
 
 *2736|
 [fc]
-I wanted to protect my virginity, that was the one thing I wanted to keep[r]
-safe... With the last of my determination as a woman, I cried out.[pcms]
+I wanted to protect my virginity, that was the one thing I[r]
+wanted to keep safe... With the last of my determination as[r]
+a woman, I cried out.[pcms]
 
 *2737|
 [fc]
@@ -1308,18 +1394,20 @@ safe... With the last of my determination as a woman, I cried out.[pcms]
 
 *2740|
 [fc]
-An unbelievable pain shot through my crotch. My screams echoed...[pcms]
+An unbelievable pain shot through my crotch. My screams[r]
+echoed...[pcms]
 
 *2741|
 [fc]
-The hope I had found was an illusion; my genitals were mercilessly ravaged by[r]
-Oshima-senpai.[pcms]
+The hope I had found was an illusion; my genitals were[r]
+mercilessly ravaged by Oshima-senpai.[pcms]
 
 *2742|
 [fc]
 [vo_yuh s="yuho0434"]
 [ns]Yuuho[nse]
-"It hurts... it hurts... ah, it's tearing... it's tearing apart!!"[pcms]
+"It hurts... it hurts... ah, it's tearing... it's tearing[r]
+apart!!"[pcms]
 
 *2743|
 [fc]
@@ -1327,12 +1415,13 @@ There was no foreplay, no caress, no consideration.[pcms]
 
 *2744|
 [fc]
-The wild and savage penetration was too much for my untouched vagina to bear.[pcms]
+The wild and savage penetration was too much for my[r]
+untouched vagina to bear.[pcms]
 
 *2745|
 [fc]
-My violated place dripped with blood from being deflowered, and the labia were[r]
-cruelly torn apart.[pcms]
+My violated place dripped with blood from being deflowered,[r]
+and the labia were cruelly torn apart.[pcms]
 
 *2746|
 [fc]
@@ -1343,13 +1432,14 @@ cruelly torn apart.[pcms]
 [fc]
 [vo_yuh s="yuho0435"]
 [ns]Yuuho[nse]
-"Ughh, it hurts... I'm breaking... breaking apart... I can't take it anymore...[r]
-pull it out... please!"[pcms]
+"Ughh, it hurts... I'm breaking... breaking apart... I can't[r]
+take it anymore... pull it out... please!"[pcms]
 
 *2748|
 [fc]
 [ns]Oshimi[nse]
-"You're just like me now. Bleeding profusely from your lower mouth!!"[pcms]
+"You're just like me now. Bleeding profusely from your lower[r]
+mouth!!"[pcms]
 
 *2749|
 [fc]
@@ -1359,13 +1449,13 @@ pull it out... please!"[pcms]
 
 *2750|
 [fc]
-Oshima-senpai ruthlessly moved his thrusting penis inside me, gouging out my[r]
-vagina.[pcms]
+Oshima-senpai ruthlessly moved his thrusting penis inside[r]
+me, gouging out my vagina.[pcms]
 
 *2751|
 [fc]
-The intense pain felt like a hot iron rod being pressed into my lower half; my[r]
-consciousness began to fade away.[pcms]
+The intense pain felt like a hot iron rod being pressed into[r]
+my lower half; my consciousness began to fade away.[pcms]
 
 *2752|
 [fc]
@@ -1375,8 +1465,8 @@ consciousness began to fade away.[pcms]
 
 *2753|
 [fc]
-My speech was slurred and incoherent. My consciousness was sinking into[r]
-darkness...[pcms]
+My speech was slurred and incoherent. My consciousness was[r]
+sinking into darkness...[pcms]
 
 *2754|
 [fc]
@@ -1385,24 +1475,27 @@ But this hell wouldn't even allow me that release.[pcms]
 *2755|
 [fc]
 [ns]Oshimi[nse]
-"I won't let you faint. Make sure you fully enjoy the experience of your pussy[r]
-being torn apart for the first time!!"[pcms]
+"I won't let you faint. Make sure you fully enjoy the[r]
+experience of your pussy being torn apart for the first[r]
+time!!"[pcms]
 
 *2756|
 [fc]
-Slapping my dazed cheeks repeatedly, Oshima-senpai prevented me from losing[r]
-consciousness.[pcms]
+Slapping my dazed cheeks repeatedly, Oshima-senpai prevented[r]
+me from losing consciousness.[pcms]
 
 *2757|
 [fc]
 [vo_yuh s="yuho0438"]
 [ns]Yuuho[nse]
-"Ahiiee, hiiiaaa...ahh, aahhaa, haguu...it hurts...it's so painful...ahh!"[pcms]
+"Ahiiee, hiiiaaa...ahh, aahhaa, haguu...it hurts...it's so[r]
+painful...ahh!"[pcms]
 
 *2758|
 [fc]
 [ns]Oshimi[nse]
-"Come on, I'll keep thrusting endlessly until my dick feels good!!"[pcms]
+"Come on, I'll keep thrusting endlessly until my dick feels[r]
+good!!"[pcms]
 
 *2759|
 [fc]
@@ -1412,65 +1505,71 @@ consciousness.[pcms]
 
 *2760|
 [fc]
-As my vaginal walls were rubbed fiercely over and over again, and my cervix was[r]
-struck by the glans, my senses began to numb, and strangely the intense pain in[r]
-my lower half started to subside.[pcms]
+As my vaginal walls were rubbed fiercely over and over[r]
+again, and my cervix was struck by the glans, my senses[r]
+began to numb, and strangely the intense pain in my lower[r]
+half started to subside.[pcms]
 
 *2761|
 [fc]
 [ns]Oshimi[nse]
-"Ehehehe, looks like some other kind of juice is starting to mix with the blood,[r]
-isn't it?"[pcms]
+"Ehehehe, looks like some other kind of juice is starting to[r]
+mix with the blood, isn't it?"[pcms]
 
 *2762|
 [fc]
 [ns]Infected Student A[nse]
-"This girl is already feeling it even though she just lost her virginity!"[pcms]
+"This girl is already feeling it even though she just lost[r]
+her virginity!"[pcms]
 
 *2763|
 [fc]
-What are these people saying? That I'm feeling it? That's ridiculous... There's[r]
-no way that could be happening.[pcms]
+What are these people saying? That I'm feeling it? That's[r]
+ridiculous... There's no way that could be happening.[pcms]
 
 *2764|
 [fc]
-A girl needs to be with someone she loves, to be treated gently, and to have[r]
-love to truly feel good. It's obvious.[pcms]
+A girl needs to be with someone she loves, to be treated[r]
+gently, and to have love to truly feel good. It's obvious.[pcms]
 
 *2765|
 [fc]
 [ns]Infected Man B[nse]
-"Ahahaha, her nipples are getting hard. Her ass is twitching non-stop every time[r]
-it's poked!!"[pcms]
+"Ahahaha, her nipples are getting hard. Her ass is twitching[r]
+non-stop every time it's poked!!"[pcms]
 
 *2766|
 [fc]
 [vo_yuh s="yuho0440"]
 [ns]Yuuho[nse]
-"Hahh, hahh, aguu, nnguu... nffu... hahhii, fuaaa... ackuu, nhhaaa... ahh,[r]
-aahh!"[pcms]
+"Hahh, hahh, aguu, nnguu... nffu... hahhii, fuaaa... ackuu,[r]
+nhhaaa... ahh, aahh!"[pcms]
 
 *2767|
 [fc]
-Is something wrong with me? Have I gone mad? I should be voicing my pain and[r]
-suffering, but whenever I open my mouth, strange sounds come out instead.[pcms]
+Is something wrong with me? Have I gone mad? I should be[r]
+voicing my pain and suffering, but whenever I open my mouth,[r]
+strange sounds come out instead.[pcms]
 
 *2768|
 [fc]
 [ns]Oshimi[nse]
-"She's feeling it, this girl is getting fucked and she's feeling it! She's[r]
-tightening around my cock while dripping pussy juice!"[pcms]
+"She's feeling it, this girl is getting fucked and she's[r]
+feeling it! She's tightening around my cock while dripping[r]
+pussy juice!"[pcms]
 
 *2769|
 [fc]
 [vo_yuh s="yuho0441"]
 [ns]Yuuho[nse]
-"No, ahiiee! Ahhahaa... hahhaiiee, nhhaa... hahh, ahhhaa, nhaaann!"[pcms]
+"No, ahiiee! Ahhahaa... hahhaiiee, nhhaa... hahh, ahhhaa,[r]
+nhaaann!"[pcms]
 
 *2770|
 [fc]
-Every time Oshima-senpai's penis rubbed against my vagina and struck my womb,[r]
-high-pitched sighs spilled from my mouth.[pcms]
+Every time Oshima-senpai's penis rubbed against my vagina[r]
+and struck my womb, high-pitched sighs spilled from my[r]
+mouth.[pcms]
 
 *2771|
 [fc]
@@ -1480,48 +1579,50 @@ high-pitched sighs spilled from my mouth.[pcms]
 
 *2772|
 [fc]
-No, I'm not feeling anything. I'm not enjoying being violated. This has to be a[r]
-mistake.[pcms]
+No, I'm not feeling anything. I'm not enjoying being[r]
+violated. This has to be a mistake.[pcms]
 
 *2773|
 [fc]
-They must be trying to confuse me, it's a trap they've set up. It has to be, it[r]
-absolutely has to be.[pcms]
+They must be trying to confuse me, it's a trap they've set[r]
+up. It has to be, it absolutely has to be.[pcms]
 
 *2774|
 [fc]
-Despite wanting to deny it, not wanting to admit it, and desperately trying to[r]
-suppress my voice, the more I tried to endure, the more moans surprisingly flew[r]
-from my mouth.[pcms]
+Despite wanting to deny it, not wanting to admit it, and[r]
+desperately trying to suppress my voice, the more I tried to[r]
+endure, the more moans surprisingly flew from my mouth.[pcms]
 
 *2775|
 [fc]
 [vo_yuh s="yuho0443"]
 [ns]Yuuho[nse]
-"Ahh, ahh, aahh, nnn... hahh, ackuu! Nnhii! Hahhann... nnaahh, muu! Nnhaa,[r]
-aahhaa, haaahaaaguu!"[pcms]
+"Ahh, ahh, aahh, nnn... hahh, ackuu! Nnhii! Hahhann...[r]
+nnaahh, muu! Nnhaa, aahhaa, haaahaaaguu!"[pcms]
 
 *2776|
 [fc]
-A hot, numbing sensation rose from my crotch, racing up my spine and coursing[r]
-through my entire body.[pcms]
+A hot, numbing sensation rose from my crotch, racing up my[r]
+spine and coursing through my entire body.[pcms]
 
 *2777|
 [fc]
 [ns]Oshimi[nse]
-"Give it to me, your pussy is clinging and begging for my cum!!"[pcms]
+"Give it to me, your pussy is clinging and begging for my[r]
+cum!!"[pcms]
 
 *2778|
 [fc]
 [vo_yuh s="yuho0444"]
 [ns]Yuuho[nse]
-"Haaaguuu, nnguu... No, it's different, it's wrongguuhaaann!!"[pcms]
+"Haaaguuu, nnguu... No, it's different, it's[r]
+wrongguuhaaann!!"[pcms]
 
 *2779|
 [fc]
 [ns]Oshimi[nse]
-"As expected of an athlete's pussy. The tightness and the way you flirt with men[r]
-are top-notch!!"[pcms]
+"As expected of an athlete's pussy. The tightness and the[r]
+way you flirt with men are top-notch!!"[pcms]
 
 *2780|
 [fc]
@@ -1531,8 +1632,9 @@ are top-notch!!"[pcms]
 
 *2781|
 [fc]
-I don't understand, I can't make sense of anything. Anyway, every time Oshima-[r]
-senpai rubbed against me, every thrust, sparks scattered in my head...[pcms]
+I don't understand, I can't make sense of anything. Anyway,[r]
+every time Oshima- senpai rubbed against me, every thrust,[r]
+sparks scattered in my head...[pcms]
 
 [îíÉtÉâ]
 
@@ -1548,18 +1650,20 @@ senpai rubbed against me, every thrust, sparks scattered in my head...[pcms]
 
 *2783|
 [fc]
-My body convulsed with bikun bikun, and without my own will, my pussy tightly[r]
-clenched around Oshima-senpai's dick.[pcms]
+My body convulsed with bikun bikun, and without my own will,[r]
+my pussy tightly clenched around Oshima-senpai's dick.[pcms]
 
 *2784|
 [fc]
-Every time I clenched, white flashes ran through my head, and my body was[r]
-enveloped in an ecstatic sensation as if melting away.[pcms]
+Every time I clenched, white flashes ran through my head,[r]
+and my body was enveloped in an ecstatic sensation as if[r]
+melting away.[pcms]
 
 *2785|
 [fc]
-The sensation of Oshima-senpai's dick, which is defiling me, violating me, and[r]
-has taken away my precious virginity, started to feel dear to me.[pcms]
+The sensation of Oshima-senpai's dick, which is defiling me,[r]
+violating me, and has taken away my precious virginity,[r]
+started to feel dear to me.[pcms]
 
 *2786|
 [fc]
@@ -1570,8 +1674,8 @@ has taken away my precious virginity, started to feel dear to me.[pcms]
 *2787|
 [fc]
 [ns]Oshimi[nse]
-"I came, this girl just lost her virginity and yet she's clenching my dick and[r]
-climaxing!!"[pcms]
+"I came, this girl just lost her virginity and yet she's[r]
+clenching my dick and climaxing!!"[pcms]
 
 *2788|
 [fc]
@@ -1585,8 +1689,8 @@ I'm climaxing? What is that... I don't understand.[pcms]
 
 *2790|
 [fc]
-The flashes racing through my head like waves gradually lost their intensity,[r]
-and my thoughts finally began to recover.[pcms]
+The flashes racing through my head like waves gradually lost[r]
+their intensity, and my thoughts finally began to recover.[pcms]
 
 *2791|
 [fc]
@@ -1603,7 +1707,8 @@ and my thoughts finally began to recover.[pcms]
 [fc]
 [vo_yuh s="yuho0450"]
 [ns]Yuuho[nse]
-"Fuu, fuuu... It didn't feel... It didn't feel good... I didn't..."[pcms]
+"Fuu, fuuu... It didn't feel... It didn't feel good... I[r]
+didn't..."[pcms]
 
 *2794|
 [fc]
@@ -1618,13 +1723,14 @@ and my thoughts finally began to recover.[pcms]
 
 *2796|
 [fc]
-I won't admit it, I'll never admit such a thing. I mustn't be deceived by such[r]
-lies.[pcms]
+I won't admit it, I'll never admit such a thing. I mustn't[r]
+be deceived by such lies.[pcms]
 
 *2797|
 [fc]
-The pain was terrible, and he was rough with me, that must be why I nearly[r]
-passed out. I'm not the kind of woman who gets violated and feels pleasure.[pcms]
+The pain was terrible, and he was rough with me, that must[r]
+be why I nearly passed out. I'm not the kind of woman who[r]
+gets violated and feels pleasure.[pcms]
 
 *2798|
 [fc]
@@ -1639,26 +1745,28 @@ passed out. I'm not the kind of woman who gets violated and feels pleasure.[pcms
 
 *2800|
 [fc]
-Oshima-senpai announced he was going to cum inside and pulled my hips to prevent[r]
-me from escaping, slamming his cock into me down to the base over and over[r]
-again.[pcms]
+Oshima-senpai announced he was going to cum inside and[r]
+pulled my hips to prevent me from escaping, slamming his[r]
+cock into me down to the base over and over again.[pcms]
 
 *2801|
 [fc]
-I could feel the tip suctioning onto my cervix deep inside my vagina, and I was[r]
-speechless as I cried.[pcms]
+I could feel the tip suctioning onto my cervix deep inside[r]
+my vagina, and I was speechless as I cried.[pcms]
 
 *2802|
 [fc]
 [vo_yuh s="yuho0453"]
 [ns]Yuuho[nse]
-"Noooo, I'm going to get pregnant! If you do that, it will happen!!"[pcms]
+"Noooo, I'm going to get pregnant! If you do that, it will[r]
+happen!!"[pcms]
 
 *2803|
 [fc]
 [ns]Oshimi[nse]
-"A pussy isn't complete until it's been filled with sperm! I've finally made you[r]
-a woman. Now take it all and become an adult woman!"[pcms]
+"A pussy isn't complete until it's been filled with sperm![r]
+I've finally made you a woman. Now take it all and become an[r]
+adult woman!"[pcms]
 
 *2804|
 [fc]
@@ -1672,20 +1780,22 @@ pregnancy.[pcms]
 
 *2806|
 [fc]
-I have the faint hopes and dreams of a normal girl about giving birth. But not[r]
-like this... not at the end of such a terrible act.[pcms]
+I have the faint hopes and dreams of a normal girl about[r]
+giving birth. But not like this... not at the end of such a[r]
+terrible act.[pcms]
 
 *2807|
 [fc]
-I want to progress more gently, nurturing love while climbing the stairs of[r]
-happiness... through romance and marriage.[pcms]
+I want to progress more gently, nurturing love while[r]
+climbing the stairs of happiness... through romance and[r]
+marriage.[pcms]
 
 *2808|
 [fc]
 [vo_yuh s="yuho0455"]
 [ns]Yuuho[nse]
-"No, absolutely not... you can't cum inside! It will happen, a baby will be[r]
-made!!"[pcms]
+"No, absolutely not... you can't cum inside! It will happen,[r]
+a baby will be made!!"[pcms]
 
 *2809|
 [fc]
@@ -1700,8 +1810,9 @@ made!!"[pcms]
 
 *2811|
 [fc]
-That was my death cry as a woman. My future, hope, and pride as a woman... all[r]
-were trampled upon in a death cry of despair.[pcms]
+That was my death cry as a woman. My future, hope, and pride[r]
+as a woman... all were trampled upon in a death cry of[r]
+despair.[pcms]
 
 *2812|
 [fc]
@@ -1710,8 +1821,9 @@ were trampled upon in a death cry of despair.[pcms]
 
 *2813|
 [fc]
-Oshima-senpai... no, the beast that took the shape of Oshima-senpai ejaculated[r]
-inside my womb while pulling me close with all his might.[pcms]
+Oshima-senpai... no, the beast that took the shape of[r]
+Oshima-senpai ejaculated inside my womb while pulling me[r]
+close with all his might.[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcgéÀê∏ÉtÉâ storage="HEV028d"]
@@ -1725,13 +1837,13 @@ inside my womb while pulling me close with all his might.[pcms]
 
 *2815|
 [fc]
-My womb was being filled with hot sticky fluid. Throbbing desire was being[r]
-poured into me.[pcms]
+My womb was being filled with hot sticky fluid. Throbbing[r]
+desire was being poured into me.[pcms]
 
 *2816|
 [fc]
-My precious, defenseless womb was thus cruelly filled to the brim with the[r]
-beast's filthy ejaculate.[pcms]
+My precious, defenseless womb was thus cruelly filled to the[r]
+brim with the beast's filthy ejaculate.[pcms]
 
 *2817|
 [fc]
@@ -1742,17 +1854,18 @@ beast's filthy ejaculate.[pcms]
 *2818|
 [fc]
 [ns]Oshimi[nse]
-"Ura ura, I'll stir it up plenty so you'll get pregnant for sure!!"[pcms]
+"Ura ura, I'll stir it up plenty so you'll get pregnant for[r]
+sure!!"[pcms]
 
 *2819|
 [fc]
-He pressed the tip of his penis against my cervix as if prying it open, pouring[r]
-in semen again and again.[pcms]
+He pressed the tip of his penis against my cervix as if[r]
+prying it open, pouring in semen again and again.[pcms]
 
 *2820|
 [fc]
-My vagina was filled with white fluid, so much that it overflowed from the[r]
-joining part and spilled out.[pcms]
+My vagina was filled with white fluid, so much that it[r]
+overflowed from the joining part and spilled out.[pcms]
 
 *2821|
 [fc]
@@ -1772,8 +1885,8 @@ joining part and spilled out.[pcms]
 
 *2824|
 [fc]
-Excited by the scene, the men rubbing their genitals on my chest also released[r]
-their semen in succession.[pcms]
+Excited by the scene, the men rubbing their genitals on my[r]
+chest also released their semen in succession.[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcgéÀê∏ÉtÉâ storage="HEV028e"]
@@ -1786,8 +1899,8 @@ their semen in succession.[pcms]
 
 *2826|
 [fc]
-Semen rained down on my face and chest, whitening my vision. My groin, face, and[r]
-body were conquered by hot liquid.[pcms]
+Semen rained down on my face and chest, whitening my vision.[r]
+My groin, face, and body were conquered by hot liquid.[pcms]
 
 *2827|
 [fc]
@@ -1802,8 +1915,8 @@ body were conquered by hot liquid.[pcms]
 
 *2829|
 [fc]
-As Oshima-senpai moved away, another person immediately thrust into my semen-[r]
-filled crotch.[pcms]
+As Oshima-senpai moved away, another person immediately[r]
+thrust into my semen- filled crotch.[pcms]
 
 *2830|
 [fc]
@@ -1813,8 +1926,9 @@ filled crotch.[pcms]
 
 *2831|
 [fc]
-My body was already in a daze and didn't show much reaction; my miserably[r]
-spread-open vagina easily accepted the intrusion.[pcms]
+My body was already in a daze and didn't show much reaction;[r]
+my miserably spread-open vagina easily accepted the[r]
+intrusion.[pcms]
 
 *2832|
 [fc]
@@ -1823,8 +1937,9 @@ spread-open vagina easily accepted the intrusion.[pcms]
 
 *2833|
 [fc]
-Elated with his own sense of conquest and achievement, he began to thrust his[r]
-hips without any regard for my convulsing vagina.[pcms]
+Elated with his own sense of conquest and achievement, he[r]
+began to thrust his hips without any regard for my[r]
+convulsing vagina.[pcms]
 
 ;//<ImageLoad 4,HEV028a.bmp><UpDate Cross,1000>
 
@@ -1836,28 +1951,30 @@ hips without any regard for my convulsing vagina.[pcms]
 
 *2835|
 [fc]
-I couldn't think of anything, feel anything. I felt like everything was broken,[r]
-had been broken.[pcms]
+I couldn't think of anything, feel anything. I felt like[r]
+everything was broken, had been broken.[pcms]
 
 *2836|
 [fc]
-Yet every time the penis rubbed against my vaginal walls, moans naturally[r]
-spilled out.[pcms]
+Yet every time the penis rubbed against my vaginal walls,[r]
+moans naturally spilled out.[pcms]
 
 *2837|
 [fc]
-I resented my body for still responding as a woman at this point.[pcms]
+I resented my body for still responding as a woman at this[r]
+point.[pcms]
 
 *2838|
 [fc]
 [ns]Infected Student A[nse]
-"It feels so good, so good. The idol's pussy is the best, the best!"[pcms]
+"It feels so good, so good. The idol's pussy is the best,[r]
+the best!"[pcms]
 
 *2839|
 [fc]
 [ns]Oshimi[nse]
-"Every thrust tightens around you nicely, right? She's an utterly lewd and horny[r]
-pussy!!"[pcms]
+"Every thrust tightens around you nicely, right? She's an[r]
+utterly lewd and horny pussy!!"[pcms]
 
 *2840|
 [fc]
@@ -1872,7 +1989,8 @@ pussy!!"[pcms]
 
 *2842|
 [fc]
-Roughly rubbed and thrust into, my flesh folds convulsed and clung to the penis.[pcms]
+Roughly rubbed and thrust into, my flesh folds convulsed and[r]
+clung to the penis.[pcms]
 
 *2843|
 [fc]
@@ -1882,13 +2000,15 @@ Roughly rubbed and thrust into, my flesh folds convulsed and clung to the penis.
 
 *2844|
 [fc]
-I shouldn't tighten up; if I stimulate it more I'll be cummed inside again. I[r]
-knew that but every time I was rubbed my vaginal walls contracted.[pcms]
+I shouldn't tighten up; if I stimulate it more I'll be[r]
+cummed inside again. I knew that but every time I was rubbed[r]
+my vaginal walls contracted.[pcms]
 
 *2845|
 [fc]
 [ns]Infected Student A[nse]
-"Fuoohh, fuoooh! Can't stand it, athlete pussy is irresistible!!"[pcms]
+"Fuoohh, fuoooh! Can't stand it, athlete pussy is[r]
+irresistible!!"[pcms]
 
 *2846|
 [fc]
@@ -1901,12 +2021,13 @@ knew that but every time I was rubbed my vaginal walls contracted.[pcms]
 
 *2847|
 [fc]
-My body convulsed with a jerk and as my vagina contracted simultaneously another[r]
-load of semen was released inside me.[pcms]
+My body convulsed with a jerk and as my vagina contracted[r]
+simultaneously another load of semen was released inside me.[pcms]
 
 *2848|
 [fc]
-The hot sensation flowed deep into my womb... into my precious uterus.[pcms]
+The hot sensation flowed deep into my womb... into my[r]
+precious uterus.[pcms]
 
 *2849|
 [fc]
@@ -1923,45 +2044,53 @@ The hot sensation flowed deep into my womb... into my precious uterus.[pcms]
 
 *2851|
 [fc]
-Why does my place down there move as if craving the detestable semen?[pcms]
+Why does my place down there move as if craving the[r]
+detestable semen?[pcms]
 
 *2852|
 [fc]
-If this is the nature of a woman, could it be a design flaw by God?[pcms]
+If this is the nature of a woman, could it be a design flaw[r]
+by God?[pcms]
 
 *2853|
 [fc]
 [vo_yuh s="yuho0468"]
 [ns]Yuuho[nse]
-"Uuuuu... I'm going to get pregnant... I'm going to conceive..."[pcms]
+"Uuuuu... I'm going to get pregnant... I'm going to[r]
+conceive..."[pcms]
 
 *2854|
 [fc]
 [ns]Infected Man A[nse]
-"Looking forward to a healthy baby... can't wait, can't wait!"[pcms]
+"Looking forward to a healthy baby... can't wait, can't[r]
+wait!"[pcms]
 
 ;//ÅYHEV033B
 [evcg storage="HEV029h"][trans_c cross time=300]
 
 *2855|
 [fc]
-Yet their violation did not end there. Once again, I was made to lie face down,[r]
-my swimsuit was grabbed, and I was made to accept the penis of a third man.[pcms]
+Yet their violation did not end there. Once again, I was[r]
+made to lie face down, my swimsuit was grabbed, and I was[r]
+made to accept the penis of a third man.[pcms]
 
 *2856|
 [fc]
 [vo_yuh s="yuho0469"]
 [ns]Yuuho[nse]
-"Ah ah ah, ahh uhh, uhaaah! It's going in... it's going in again!!"[pcms]
+"Ah ah ah, ahh uhh, uhaaah! It's going in... it's going in[r]
+again!!"[pcms]
 
 *2857|
 [fc]
-However, my body's response to this insertion was significant.[pcms]
+However, my body's response to this insertion was[r]
+significant.[pcms]
 
 *2858|
 [fc]
-Just being penetrated and having my folds spread caused a hot throbbing to rise[r]
-from my crotch, and a numbing pleasure pierced through my entire body.[pcms]
+Just being penetrated and having my folds spread caused a[r]
+hot throbbing to rise from my crotch, and a numbing pleasure[r]
+pierced through my entire body.[pcms]
 
 *2859|
 [fc]
@@ -1969,8 +2098,9 @@ I too--[pcms]
 
 *2860|
 [fc]
-I too, might have gone mad. I'm reveling in this violation. I'm deriving[r]
-pleasure from the filthy penis piercing through there.[pcms]
+I too, might have gone mad. I'm reveling in this violation.[r]
+I'm deriving pleasure from the filthy penis piercing through[r]
+there.[pcms]
 
 *2861|
 [fc]
@@ -1987,8 +2117,8 @@ pleasure from the filthy penis piercing through there.[pcms]
 
 *2863|
 [fc]
-It's humiliating, it's filthy... those feelings haven't changed. But, but my[r]
-body was engulfed in pleasure.[pcms]
+It's humiliating, it's filthy... those feelings haven't[r]
+changed. But, but my body was engulfed in pleasure.[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcgéÀê∏ÉtÉâ storage="HEV029j"]
@@ -2002,7 +2132,8 @@ body was engulfed in pleasure.[pcms]
 
 *2865|
 [fc]
-As soon as the penis was pulled out, a hot sensation spread across my back.[pcms]
+As soon as the penis was pulled out, a hot sensation spread[r]
+across my back.[pcms]
 
 *2866|
 [fc]
@@ -2019,8 +2150,9 @@ As soon as the penis was pulled out, a hot sensation spread across my back.[pcms
 
 *2868|
 [fc]
-Without a moment's delay, I was penetrated from behind by the next man. Just[r]
-like the others, he roughly rubbed my vagina and thrust into my womb.[pcms]
+Without a moment's delay, I was penetrated from behind by[r]
+the next man. Just like the others, he roughly rubbed my[r]
+vagina and thrust into my womb.[pcms]
 
 *2869|
 [fc]
@@ -2039,23 +2171,27 @@ like the others, he roughly rubbed my vagina and thrust into my womb.[pcms]
 [fc]
 [vo_yuh s="yuho0474"]
 [ns]Yuuho[nse]
-"Ah ahhh, again, inside again... nooo, I don't want to get pregnant!!"[pcms]
+"Ah ahhh, again, inside again... nooo, I don't want to get[r]
+pregnant!!"[pcms]
 
 *2872|
 [fc]
-Receiving the merciless creampie, I collapsed with a dazed consciousness.[pcms]
+Receiving the merciless creampie, I collapsed with a dazed[r]
+consciousness.[pcms]
 
 ;//ÅYHEV034
 [evcg storage="HEV030a"][trans_c cross time=300]
 
 *2873|
 [fc]
-When I came to, I was being held by a man and penetrated from the front.[pcms]
+When I came to, I was being held by a man and penetrated[r]
+from the front.[pcms]
 
 *2874|
 [fc]
-Being shaken violently up and down by the butt that was grabbed, I was enveloped[r]
-in an ecstatic sensation as if my spine was melting away.[pcms]
+Being shaken violently up and down by the butt that was[r]
+grabbed, I was enveloped in an ecstatic sensation as if my[r]
+spine was melting away.[pcms]
 
 *2875|
 [fc]
@@ -2066,20 +2202,22 @@ in an ecstatic sensation as if my spine was melting away.[pcms]
 *2876|
 [fc]
 [ns]Infected Man B[nse]
-"She's feeling it, this chick is feeling it!! Her pussy is twitching and[r]
-convulsing!"[pcms]
+"She's feeling it, this chick is feeling it!! Her pussy is[r]
+twitching and convulsing!"[pcms]
 
 *2877|
 [fc]
 [vo_yuh s="yuho0476"]
 [ns]Yuuho[nse]
-"Ah ahhii, iiahh... nooo, not inside... that's bad... aguuu, iguuuunnn!!"[pcms]
+"Ah ahhii, iiahh... nooo, not inside... that's bad... aguuu,[r]
+iguuuunnn!!"[pcms]
 
 *2878|
 [fc]
-I don't understand, I don't know what's what anymore. I don't want to get[r]
-pregnant... but being violated feels good. Such a pleasurable experience... for[r]
-the first time in my life...[pcms]
+I don't understand, I don't know what's what anymore. I[r]
+don't want to get pregnant... but being violated feels good.[r]
+Such a pleasurable experience... for the first time in my[r]
+life...[pcms]
 
 *2879|
 [fc]
@@ -2090,12 +2228,13 @@ the first time in my life...[pcms]
 [fc]
 [vo_yuh s="yuho0477"]
 [ns]Yuuho[nse]
-"Abuuu, uuuu... that place is... aahh, it's for pooping... that hole!"[pcms]
+"Abuuu, uuuu... that place is... aahh, it's for pooping...[r]
+that hole!"[pcms]
 
 *2881|
 [fc]
-When I realized it, Oshima-senpai had grabbed my crotch and was inserting into[r]
-my anus.[pcms]
+When I realized it, Oshima-senpai had grabbed my crotch and[r]
+was inserting into my anus.[pcms]
 
 *2882|
 [fc]
@@ -2105,35 +2244,37 @@ my anus.[pcms]
 
 *2883|
 [fc]
-The intense pain tormented me, but it was only for a moment. As Oshima-senpai[r]
-began to move his hips, a fresh pleasure surged up from my anus.[pcms]
+The intense pain tormented me, but it was only for a moment.[r]
+As Oshima-senpai began to move his hips, a fresh pleasure[r]
+surged up from my anus.[pcms]
 
 *2884|
 [fc]
 [vo_yuh s="yuho0479"]
 [ns]Yuuho[nse]
-"Ah ah ahhh, appuuu... nnguuu... hiaaahh, my butt... It hurts but... my butt[r]
-feels good too!"[pcms]
+"Ah ah ahhh, appuuu... nnguuu... hiaaahh, my butt... It[r]
+hurts but... my butt feels good too!"[pcms]
 
 *2885|
 [fc]
-If it feels this good, why didn't I actively do it with more people before?[pcms]
+If it feels this good, why didn't I actively do it with more[r]
+people before?[pcms]
 
 *2886|
 [fc]
-With Kousuke, with Wataru... even with Ren-chan, I might have been able to feel[r]
-this good...[pcms]
+With Kousuke, with Wataru... even with Ren-chan, I might[r]
+have been able to feel this good...[pcms]
 
 *2887|
 [fc]
 [ns]Oshimi[nse]
-"The anus trained by swimming has a nice tightness! I'll thrust with my dick[r]
-until it becomes loose and gaping!"[pcms]
+"The anus trained by swimming has a nice tightness! I'll[r]
+thrust with my dick until it becomes loose and gaping!"[pcms]
 
 *2888|
 [fc]
-Every time my butt was targeted and prodded with the penis, I let out cries of[r]
-joy.[pcms]
+Every time my butt was targeted and prodded with the penis,[r]
+I let out cries of joy.[pcms]
 
 [evcg storage="HEV030b"][trans_c cross time=300]
 
@@ -2141,13 +2282,13 @@ joy.[pcms]
 [fc]
 [vo_yuh s="yuho0480"]
 [ns]Yuuho[nse]
-"Ahiiaaahh, ah ahhhh, good... it feels good... thrust more, thrust more... widen[r]
-my hole moreee!"[pcms]
+"Ahiiaaahh, ah ahhhh, good... it feels good... thrust more,[r]
+thrust more... widen my hole moreee!"[pcms]
 
 *2890|
 [fc]
-With both holes filled and holding penises in both hands, I was very, very[r]
-happy.[pcms]
+With both holes filled and holding penises in both hands, I[r]
+was very, very happy.[pcms]
 
 [evcg storage="HEV030c"][trans_c cross time=300]
 
@@ -2155,12 +2296,13 @@ happy.[pcms]
 [fc]
 [vo_yuh s="yuho0481"]
 [ns]Yuuho[nse]
-"Cum more, cum more, fill my body with sperm... make me pregnant!!"[pcms]
+"Cum more, cum more, fill my body with sperm... make me[r]
+pregnant!!"[pcms]
 
 *2892|
 [fc]
-I am happy. To be able to get pregnant with the sperm of people who support[r]
-me...[pcms]
+I am happy. To be able to get pregnant with the sperm of[r]
+people who support me...[pcms]
 
 *2893|
 [fc]

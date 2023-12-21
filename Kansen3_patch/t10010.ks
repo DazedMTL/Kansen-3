@@ -39,17 +39,19 @@
 
 *5537|
 [fc]
-The 5th floor is the manga cafe 'Arcadia' where we've been staying.[pcms]
+The 5th floor is the manga cafe 'Arcadia' where we've been[r]
+staying.[pcms]
 
 *5538|
 [fc]
-We're pretty familiar with the inside and since we'll be spending a lot of time[r]
-here from now on, there's probably no need to check it out again.[pcms]
+We're pretty familiar with the inside and since we'll be[r]
+spending a lot of time here from now on, there's probably no[r]
+need to check it out again.[pcms]
 
 *5539|
 [fc]
-Everyone else seemed to agree, so we decided to skip the 5th floor and head to[r]
-the 4th floor.[pcms]
+Everyone else seemed to agree, so we decided to skip the 5th[r]
+floor and head to the 4th floor.[pcms]
 
 ;//Å®block:T10031
 [jump storage="T10031.ks" target=*T10031_TOP]

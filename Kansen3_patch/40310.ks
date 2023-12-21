@@ -39,22 +39,24 @@
 
 *2138|
 [fc]
-I passed through the underground passage and emerged inside the shrine near my[r]
-old man's mansion.[pcms]
+I passed through the underground passage and emerged inside[r]
+the shrine near my old man's mansion.[pcms]
 
 *2139|
 [fc]
-Without even looking outside, I could easily grasp their presence from the[r]
-shitty groaning noises those infected bastards were making.[pcms]
+Without even looking outside, I could easily grasp their[r]
+presence from the shitty groaning noises those infected[r]
+bastards were making.[pcms]
 
 *2140|
 [fc]
-Even though it's a shrine... those damn monsters have gotten in.[pcms]
+Even though it's a shrine... those damn monsters have gotten[r]
+in.[pcms]
 
 *2141|
 [fc]
-In this day and age, everyone's lost their faith. Have we been abandoned by gods[r]
-and Buddhas alike...?[pcms]
+In this day and age, everyone's lost their faith. Have we[r]
+been abandoned by gods and Buddhas alike...?[pcms]
 
 *2142|
 [fc]
@@ -62,7 +64,8 @@ It's a real shitty situation, truly...[pcms]
 
 *2143|
 [fc]
-Shitty, but... Wataru called me "big brother" for the first time in a while.[pcms]
+Shitty, but... Wataru called me "big brother" for the first[r]
+time in a while.[pcms]
 
 *2144|
 [fc]
@@ -78,8 +81,8 @@ It feels good, after all.[pcms]
 
 *2146|
 [fc]
-I took out my cell phone, which was trembling slightly in my pocket, and saw[r]
-"Missed Call" displayed on the screen.[pcms]
+I took out my cell phone, which was trembling slightly in my[r]
+pocket, and saw "Missed Call" displayed on the screen.[pcms]
 
 *2147|
 [fc]
@@ -96,8 +99,8 @@ To be precise... I couldn't listen to it.[pcms]
 
 *2150|
 [fc]
-It wasn't a message from Yuuho, but the one before that. The voicemail left by[r]
-Inori.[pcms]
+It wasn't a message from Yuuho, but the one before that. The[r]
+voicemail left by Inori.[pcms]
 
 *2151|
 [fc]
@@ -110,8 +113,8 @@ I thought I was prepared.[pcms]
 
 *2153|
 [fc]
-But I couldn't listen to it. I was scared. Scared of hearing the words Inori[r]
-left behind.[pcms]
+But I couldn't listen to it. I was scared. Scared of hearing[r]
+the words Inori left behind.[pcms]
 
 *2154|
 [fc]
@@ -119,8 +122,8 @@ In a situation like this all over town, Inori is...[pcms]
 
 *2155|
 [fc]
-But maybe, just maybe. Inori might have escaped somewhere and survived, and that[r]
-might be what the call is about.[pcms]
+But maybe, just maybe. Inori might have escaped somewhere[r]
+and survived, and that might be what the call is about.[pcms]
 
 *2156|
 [fc]
@@ -141,8 +144,8 @@ I can't just keep not listening to it forever.[pcms]
 
 *2160|
 [fc]
-Heh... Look at me. My hands are shaking just from trying to listen to a[r]
-voicemail.[pcms]
+Heh... Look at me. My hands are shaking just from trying to[r]
+listen to a voicemail.[pcms]
 
 *2161|
 [fc]
@@ -150,7 +153,8 @@ That's not like me...[pcms]
 
 *2162|
 [fc]
-No matter how much I try to act tough, my hands won't stop shaking.[pcms]
+No matter how much I try to act tough, my hands won't stop[r]
+shaking.[pcms]
 
 *2163|
 [fc]
@@ -175,14 +179,15 @@ I told myself and put strength into my trembling fingers.[pcms]
 [fc]
 [vo_ior s="iori0133"]
 [ns]Inori[nse]
-"Tadahiko-san... I was waiting, but it's no good anymore... I don't want you to[r]
-see me becoming like those weird ones... I don't want Tadahiko-san to see me[r]
-like that..."[pcms]
+"Tadahiko-san... I was waiting, but it's no good anymore...[r]
+I don't want you to see me becoming like those weird ones...[r]
+I don't want Tadahiko-san to see me like that..."[pcms]
 
 *2167|
 [fc]
-The voice left on the cell phone was overlaid with sounds of doors banging and[r]
-something breaking. Surely, it was the sound of those monsters rampaging.[pcms]
+The voice left on the cell phone was overlaid with sounds of[r]
+doors banging and something breaking. Surely, it was the[r]
+sound of those monsters rampaging.[pcms]
 
 *2168|
 [fc]
@@ -195,7 +200,8 @@ Inori's voice was trembling, as if she were crying.[pcms]
 
 *2170|
 [fc]
-If only I had been there... But it's probably too late now...[pcms]
+If only I had been there... But it's probably too late[r]
+now...[pcms]
 
 
 
@@ -204,15 +210,17 @@ If only I had been there... But it's probably too late now...[pcms]
 [fc]
 [vo_ior s="iori0134"]
 [ns]Inori[nse]
-"Na... Tadahiko-san. Please forgive me. Forgive me for this. Even though it was[r]
-short, thank you for taking me out of Kyoto..."[pcms]
+"Na... Tadahiko-san. Please forgive me. Forgive me for this.[r]
+Even though it was short, thank you for taking me out of[r]
+Kyoto..."[pcms]
 
 *2172|
 [fc]
 [vo_ior s="iori0135"]
 [ns]Inori[nse]
-"I wanted to be held by you one last time... My beloved Tadahiko-san. Thank you.[r]
-Thank you for everything until now."[pcms]
+"I wanted to be held by you one last time... My beloved[r]
+Tadahiko-san. Thank you. Thank you for everything until[r]
+now."[pcms]
 
 *2173|
 [fc]
@@ -221,7 +229,8 @@ Thank you for everything until now."[pcms]
 
 *2174|
 [fc]
-As if there could be a reply. I know it's futile, but still...[pcms]
+As if there could be a reply. I know it's futile, but[r]
+still...[pcms]
 
 *2175|
 [fc]
@@ -251,9 +260,10 @@ Inori...[pcms]
 [fc]
 [vo_yuh s="yuho0909"]
 [ns]Yuuho[nse]
-"Hiko-chin!? Are you safe? If you're safe, let me know by phone or email! We're[r]
-in the school basement. Everyone's together. But we're worried about Hiko-chin[r]
-and Inori-san..."[pcms]
+"Hiko-chin!? Are you safe? If you're safe, let me know by[r]
+phone or email! We're in the school basement. Everyone's[r]
+together. But we're worried about Hiko-chin and Inori-[r]
+san..."[pcms]
 
 *2180|
 [fc]
@@ -263,8 +273,9 @@ As expected, you are...[pcms]
 [fc]
 [vo_yuh s="yuho0910"]
 [ns]Yuuho[nse]
-"We want to join up with both of you... And I haven't apologized for leaving[r]
-without saying anything on the festival day... No... So let's meet again? Let me[r]
+"We want to join up with both of you... And I haven't[r]
+apologized for leaving without saying anything on the[r]
+festival day... No... So let's meet again? Let me[r]
 apologize!"[pcms]
 
 *2182|
@@ -301,8 +312,8 @@ But you know... Yuuho...[pcms]
 *2188|
 [fc]
 [ns]Tadahiko[nse]
-"Everyone together, huh... You're as thoughtful as ever. Is Wataru, the[r]
-blockhead and wimp, really worth it?"[pcms]
+"Everyone together, huh... You're as thoughtful as ever. Is[r]
+Wataru, the blockhead and wimp, really worth it?"[pcms]
 
 *2189|
 [fc]
@@ -314,8 +325,8 @@ Not worth it, huh? That's not true. Not the Wataru of now.[pcms]
 
 *2191|
 [fc]
-The annoying groans of the infected echo throughout the city. By now, I feel[r]
-nothing towards those voices.[pcms]
+The annoying groans of the infected echo throughout the[r]
+city. By now, I feel nothing towards those voices.[pcms]
 
 *2192|
 [fc]
@@ -323,7 +334,8 @@ Not annoyance. Not anger. Not fear.[pcms]
 
 *2193|
 [fc]
-I take out the dagger hidden at my waist and throw away the sheath.[pcms]
+I take out the dagger hidden at my waist and throw away the[r]
+sheath.[pcms]
 
 *2194|
 [fc]
@@ -341,8 +353,8 @@ Inori... Wait for me. I'm coming now.[pcms]
 
 *2197|
 [fc]
-Clutching the dull silver light of the dagger, I head towards the shrine[r]
-grounds--[pcms]
+Clutching the dull silver light of the dagger, I head[r]
+towards the shrine grounds--[pcms]
 
 *2198|
 [fc]
@@ -358,12 +370,13 @@ Outside, where Inori is waiting.[pcms]
 
 *2200|
 [fc]
-I'm going with all my might. I told Wataru to get psyched up, but it'd be a mess[r]
-if I were the wimp.[pcms]
+I'm going with all my might. I told Wataru to get psyched[r]
+up, but it'd be a mess if I were the wimp.[pcms]
 
 *2201|
 [fc]
-With all my strength, I kick open the shrine's door and head outside.[pcms]
+With all my strength, I kick open the shrine's door and head[r]
+outside.[pcms]
 
 *2202|
 [fc]

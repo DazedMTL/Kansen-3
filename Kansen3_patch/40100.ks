@@ -21,7 +21,8 @@
 
 *739|
 [fc]
-Even as I hesitated, my hand reached out to unlock Yuuho's phone...[pcms]
+Even as I hesitated, my hand reached out to unlock Yuuho's[r]
+phone...[pcms]
 
 *740|
 [fc]
@@ -38,7 +39,8 @@ Even as I hesitated, my hand reached out to unlock Yuuho's phone...[pcms]
 
 *742|
 [fc]
-When I looked up, Yuuho had sat up abruptly and was looking at me.[pcms]
+When I looked up, Yuuho had sat up abruptly and was looking[r]
+at me.[pcms]
 
 *743|
 [fc]
@@ -67,7 +69,8 @@ Trembling, I held up Yuuho's phone to her.[pcms]
 
 *748|
 [fc]
-Yuuho was muttering in a drawn-out tone but suddenly broke into a grin.[pcms]
+Yuuho was muttering in a drawn-out tone but suddenly broke[r]
+into a grin.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -87,7 +90,8 @@ Yuuho was muttering in a drawn-out tone but suddenly broke into a grin.[pcms]
 
 *751|
 [fc]
-Yuuho started to say something but then hung her head in silence.[pcms]
+Yuuho started to say something but then hung her head in[r]
+silence.[pcms]
 
 *752|
 [fc]
@@ -96,7 +100,8 @@ Yuuho started to say something but then hung her head in silence.[pcms]
 
 *753|
 [fc]
-As I braced myself for what she would say next, my heart pounded wildly.[pcms]
+As I braced myself for what she would say next, my heart[r]
+pounded wildly.[pcms]
 
 *754|
 [fc]
@@ -109,8 +114,8 @@ As I braced myself for what she would say next, my heart pounded wildly.[pcms]
 
 *755|
 [fc]
-Yuuho wriggled to lie on her side, turned her back to me again, and curled up[r]
-into a ball.[pcms]
+Yuuho wriggled to lie on her side, turned her back to me[r]
+again, and curled up into a ball.[pcms]
 
 *756|
 [fc]
@@ -119,13 +124,14 @@ into a ball.[pcms]
 
 *757|
 [fc]
-With the way she is now, she probably has no idea what I was doing or what I was[r]
-about to do... Maybe she won't even remember talking to me.[pcms]
+With the way she is now, she probably has no idea what I was[r]
+doing or what I was about to do... Maybe she won't even[r]
+remember talking to me.[pcms]
 
 *758|
 [fc]
-While still calming my racing heart, I borrowed only the earphones and put the[r]
-phone back where it was.[pcms]
+While still calming my racing heart, I borrowed only the[r]
+earphones and put the phone back where it was.[pcms]
 
 *759|
 [fc]
@@ -134,13 +140,13 @@ phone back where it was.[pcms]
 
 *760|
 [fc]
-I stopped myself at the last moment, but even thinking about snooping through[r]
-someone's phone is embarrassing.[pcms]
+I stopped myself at the last moment, but even thinking about[r]
+snooping through someone's phone is embarrassing.[pcms]
 
 *761|
 [fc]
-I wonder if I have a really jealous personality to even consider doing such a[r]
-thing...[pcms]
+I wonder if I have a really jealous personality to even[r]
+consider doing such a thing...[pcms]
 
 *762|
 [fc]
@@ -149,8 +155,9 @@ thing...[pcms]
 
 *763|
 [fc]
-But then, Yuuho stopped me (even if by chance). She saved me from succumbing to[r]
-the dark temptation... Thanks to Yuuho, I was able to resist.[pcms]
+But then, Yuuho stopped me (even if by chance). She saved me[r]
+from succumbing to the dark temptation... Thanks to Yuuho, I[r]
+was able to resist.[pcms]
 
 *764|
 [fc]
@@ -159,8 +166,8 @@ the dark temptation... Thanks to Yuuho, I was able to resist.[pcms]
 
 *765|
 [fc]
-I can't believe I'm feeling happy about this... There's really something wrong[r]
-with me.[pcms]
+I can't believe I'm feeling happy about this... There's[r]
+really something wrong with me.[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇSÇOÇPÇPÇOÇ÷
 [jump storage="40110.ks" target=*40110_TOP]

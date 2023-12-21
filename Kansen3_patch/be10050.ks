@@ -24,7 +24,8 @@
 
 *217|
 [fc]
-When I arrived at the scene, someone was being taken away in the elevator.[pcms]
+When I arrived at the scene, someone was being taken away in[r]
+the elevator.[pcms]
 
 *218|
 [fc]
@@ -32,15 +33,16 @@ I don't know who it is.[pcms]
 
 *219|
 [fc]
-But no matter who it is, they shouldn't be taken away by men![pcms]
+But no matter who it is, they shouldn't be taken away by[r]
+men![pcms]
 
 ;//se026ÅEèeê∫
 [se buf=0 storage="se026"]
 
 *220|
 [fc]
-The bullets fired by the men hit the wall next to me, bursting with a high-[r]
-pitched sound.[pcms]
+The bullets fired by the men hit the wall next to me,[r]
+bursting with a high- pitched sound.[pcms]
 
 *221|
 [fc]
@@ -55,25 +57,29 @@ My legs involuntarily froze.[pcms]
 
 *223|
 [fc]
-Two men who were left at the elevator entrance approached me with smirks on[r]
-their faces.[pcms]
+Two men who were left at the elevator entrance approached me[r]
+with smirks on their faces.[pcms]
 
 *224|
 [fc]
-They seemed like the type who wouldn't think twice about killing someone.[pcms]
+They seemed like the type who wouldn't think twice about[r]
+killing someone.[pcms]
 
 *225|
 [fc]
-The thought of the person who was taken away crossed my mind.[pcms]
+The thought of the person who was taken away crossed my[r]
+mind.[pcms]
 
 *226|
 [fc]
-If I get caught here... there might be no one left to come to my rescue.[pcms]
+If I get caught here... there might be no one left to come[r]
+to my rescue.[pcms]
 
 *227|
 [fc]
-Lacking the confidence to take down the two in front of me, I turned on my heel[r]
-and started running towards the emergency stairs.[pcms]
+Lacking the confidence to take down the two in front of me,[r]
+I turned on my heel and started running towards the[r]
+emergency stairs.[pcms]
 
 ;//Åö_ÉNÉçÉ~
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -116,7 +122,8 @@ But...[pcms]
 
 *236|
 [fc]
-In my scattered thoughts, I had reached the emergency stairs.[pcms]
+In my scattered thoughts, I had reached the emergency[r]
+stairs.[pcms]
 
 *237|
 [fc]
@@ -124,8 +131,8 @@ There's no sign of the men following me.[pcms]
 
 *238|
 [fc]
-Just as I was about to escape into the emergency stairs, I heard footsteps[r]
-coming up from below.[pcms]
+Just as I was about to escape into the emergency stairs, I[r]
+heard footsteps coming up from below.[pcms]
 
 *239|
 [fc]

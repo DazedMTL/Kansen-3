@@ -25,39 +25,42 @@ I turned bright red and frantically waved my hands.[pcms]
 
 *6858|
 [fc]
-This is bad. It's really bad. Not just bad, but it's so delightful that it's[r]
-bad.[pcms]
+This is bad. It's really bad. Not just bad, but it's so[r]
+delightful that it's bad.[pcms]
 
 *6859|
 [fc]
-Ren is such an honest and good girl, she's kind, she even takes care of chores[r]
-around the house without a single complaint, and above all, she's cute. That's[r]
+Ren is such an honest and good girl, she's kind, she even[r]
+takes care of chores around the house without a single[r]
+complaint, and above all, she's cute. That's[r]
 right...sometimes she seems almost doll-like...[pcms]
 
 *6860|
 [fc]
-Honestly, every time we're told by others that "You two get along too well," I[r]
-feel tickled inside, and I was happy.[pcms]
+Honestly, every time we're told by others that "You two get[r]
+along too well," I feel tickled inside, and I was happy.[pcms]
 
 *6861|
 [fc]
-After all, for me, Ren is not only my "stepsister" but also undoubtedly a "cute[r]
-girl."[pcms]
+After all, for me, Ren is not only my "stepsister" but also[r]
+undoubtedly a "cute girl."[pcms]
 
 *6862|
 [fc]
-So when such a Ren says she'll become my bride, it's just...unstoppable. I can't[r]
-control myself... I feel like I might cross a line...[pcms]
+So when such a Ren says she'll become my bride, it's[r]
+just...unstoppable. I can't control myself... I feel like I[r]
+might cross a line...[pcms]
 
 *6863|
 [fc]
 [ns]Wataru[nse]
-"Wh-what I mean is, you know, if you say something like that... Given the time[r]
-and situation, that..."[pcms]
+"Wh-what I mean is, you know, if you say something like[r]
+that... Given the time and situation, that..."[pcms]
 
 *6864|
 [fc]
-Because I denied it so desperately, even Ren's face turned red.[pcms]
+Because I denied it so desperately, even Ren's face turned[r]
+red.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -65,7 +68,8 @@ Because I denied it so desperately, even Ren's face turned red.[pcms]
 [fc]
 [vo_ren s="ren_T0053"]
 [ns]Ren[nse]
-"...Wh-what are you panicking for!? Geez~, it was just a joke!!"[pcms]
+"...Wh-what are you panicking for!? Geez~, it was just a[r]
+joke!!"[pcms]
 ;//ÅóÇ†ÇÌÇƒÇ¨Ç›ÅïÉeÉåãCñ°
 
 ;//ÅöÇ±Ç±Ç©ÇÁÅAÇsÇSÇOÇOÇSÇOÇ≈ó¨ópÇµÇ‹Ç∑
@@ -76,8 +80,8 @@ Because I denied it so desperately, even Ren's face turned red.[pcms]
 [fc]
 [vo_ren s="ren_T0045"]
 [ns]Ren[nse]
-"After all...I won't become the bride of someone who has such naughty books and[r]
-peeks at me changing!!"[pcms]
+"After all...I won't become the bride of someone who has[r]
+such naughty books and peeks at me changing!!"[pcms]
 
 *6867|
 [fc]
@@ -94,8 +98,8 @@ Eh...Naughty books!? Could it be...she found my collection!?[pcms]
 [fc]
 [vo_ren s="ren_T0046"]
 [ns]Ren[nse]
-"...Books about butts and little sister themes... Big brother is too much of a[r]
-pervert~!!"[pcms]
+"...Books about butts and little sister themes... Big[r]
+brother is too much of a pervert~!!"[pcms]
 
 *6870|
 [fc]
@@ -108,19 +112,19 @@ Oh no, this isn't just teasing! She really found out!![pcms]
 
 *6872|
 [fc]
-I have no words to return or excuses to make, but it can't be helped! That's who[r]
-I am, and I'm a boy after all![pcms]
+I have no words to return or excuses to make, but it can't[r]
+be helped! That's who I am, and I'm a boy after all![pcms]
 
 *6873|
 [fc]
 [ns]Wataru[nse]
-"But, well, if Ren became my bride, it seems like I'd be made to eat nothing but[r]
-vegetables..."[pcms]
+"But, well, if Ren became my bride, it seems like I'd be[r]
+made to eat nothing but vegetables..."[pcms]
 
 *6874|
 [fc]
-I can't just take this lying down; it would affect my dignity as a brother. I[r]
-quietly attempted a counter-punch.[pcms]
+I can't just take this lying down; it would affect my[r]
+dignity as a brother. I quietly attempted a counter-punch.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f13"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -145,8 +149,8 @@ quietly attempted a counter-punch.[pcms]
 
 *6878|
 [fc]
-Puffing her cheeks adorably, Ren tapped me lightly with the back of her hand[r]
-holding the bow.[pcms]
+Puffing her cheeks adorably, Ren tapped me lightly with the[r]
+back of her hand holding the bow.[pcms]
 
 *6879|
 [fc]
@@ -159,7 +163,8 @@ holding the bow.[pcms]
 [fc]
 [vo_ren s="ren_T0049"]
 [ns]Ren[nse]
-"I won't stop! A mean big brother like you deserves a deadly punch!"[pcms]
+"I won't stop! A mean big brother like you deserves a deadly[r]
+punch!"[pcms]
 
 *6881|
 [fc]
@@ -168,7 +173,8 @@ holding the bow.[pcms]
 
 *6882|
 [fc]
-I spread my hands in front of Ren and wiggled my ten fingers ominously.[pcms]
+I spread my hands in front of Ren and wiggled my ten fingers[r]
+ominously.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -176,7 +182,8 @@ I spread my hands in front of Ren and wiggled my ten fingers ominously.[pcms]
 [fc]
 [vo_ren s="ren_T0050"]
 [ns]Ren[nse]
-"No, nooo! Stop that, don't wiggle your fingers under my arms!"[pcms]
+"No, nooo! Stop that, don't wiggle your fingers under my[r]
+arms!"[pcms]
 ;//Åóîºï™èŒÇ¢Ç»Ç™ÇÁÅiÇ≠Ç∑ÇÆÇΩÇ¢ÇÃÇ™ãÍéËÅBîºï™ÅAñ{ãCÇ≈Ç‚ÇﬂÇƒÇŸÇµÇ¢Åj
 
 *6884|
@@ -217,7 +224,8 @@ I spread my hands in front of Ren and wiggled my ten fingers ominously.[pcms]
 
 *6888|
 [fc]
-Laughing, Ren glared at me and then readjusted her instrument.[pcms]
+Laughing, Ren glared at me and then readjusted her[r]
+instrument.[pcms]
 
 ;//bgmí‚é~
 [fadeoutbgm time=500]
@@ -231,17 +239,18 @@ Laughing, Ren glared at me and then readjusted her instrument.[pcms]
 
 *6889|
 [fc]
-Her arm raised, the bow touched the strings. Soon she swayed her body lightly[r]
-and began to play.[pcms]
+Her arm raised, the bow touched the strings. Soon she swayed[r]
+her body lightly and began to play.[pcms]
 
 *6890|
 [fc]
-I've heard this piece many times before. It's the one Ren always likes to[r]
-practice.[pcms]
+I've heard this piece many times before. It's the one Ren[r]
+always likes to practice.[pcms]
 
 *6891|
 [fc]
-Listening to the light notes, I leaned back into the chair and relaxed.[pcms]
+Listening to the light notes, I leaned back into the chair[r]
+and relaxed.[pcms]
 
 *6892|
 [fc]
@@ -249,13 +258,13 @@ It's been a while...since I've heard Ren's music...[pcms]
 
 *6893|
 [fc]
-If...I married Ren, would gentle moments like these continue to flow every[r]
-day...?[pcms]
+If...I married Ren, would gentle moments like these continue[r]
+to flow every day...?[pcms]
 
 *6894|
 [fc]
-The sound is really nice... Maybe having Ren as a wife wouldn't be so bad after[r]
-all...??[pcms]
+The sound is really nice... Maybe having Ren as a wife[r]
+wouldn't be so bad after all...??[pcms]
 
 ;//se097ÅEëñÇËçûÇÒÇ≈Ç≠ÇÈë´âπÅiàÍêlÅj
 ;//[se buf=0 storage="se097"]
@@ -287,8 +296,8 @@ Suddenly, Yuuho burst into the restaurant.[pcms]
 
 *6898|
 [fc]
-I noticed Yuuho's face was as white as paper and drained of blood, and an[r]
-ominous premonition crossed my mind...[pcms]
+I noticed Yuuho's face was as white as paper and drained of[r]
+blood, and an ominous premonition crossed my mind...[pcms]
 
 ;//ÅöÇ±Ç±Ç‹Ç≈ÅAÇsÇSÇOÇOÇSÇOÇ≈ó¨ópÇµÇ‹Ç∑
 ;//Å®T60030

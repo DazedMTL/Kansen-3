@@ -36,13 +36,13 @@
 
 *4121|
 [fc]
-I savored Yuuho's pussy together with the old man before leaving her in his[r]
-care.[pcms]
+I savored Yuuho's pussy together with the old man before[r]
+leaving her in his care.[pcms]
 
 *4122|
 [fc]
-In the meantime, I came plenty with Ren who was waiting for me, and now, I'm[r]
-lifting Yuuho up again.[pcms]
+In the meantime, I came plenty with Ren who was waiting for[r]
+me, and now, I'm lifting Yuuho up again.[pcms]
 
 ;//〆ＥＶ０４０　悠帆／制服／駅弁（股抜き）
 ;//@konya HEV033 使用後　グロッキー
@@ -62,8 +62,9 @@ lifting Yuuho up again.[pcms]
 *4125|
 [fc]
 [ns]Wataru[nse]
-"Now, I'm going to take your butt virginity~. You didn't have any experience[r]
-with the front before~. You're not experienced with the back either, right~?"[pcms]
+"Now, I'm going to take your butt virginity~. You didn't[r]
+have any experience with the front before~. You're not[r]
+experienced with the back either, right~?"[pcms]
 
 *4126|
 [fc]
@@ -74,8 +75,8 @@ with the front before~. You're not experienced with the back either, right~?"[pc
 *4127|
 [fc]
 [ns]Wataru[nse]
-"What's wrong~? You don't seem energetic, Yuuho~. Ah, but you'll get lively once[r]
-it's in your butt, right~?"[pcms]
+"What's wrong~? You don't seem energetic, Yuuho~. Ah, but[r]
+you'll get lively once it's in your butt, right~?"[pcms]
 
 *4128|
 [fc]
@@ -85,8 +86,9 @@ it's in your butt, right~?"[pcms]
 
 *4129|
 [fc]
-I firmly lifted Yuuho and pressed my hard, erect dick against the cute, slightly[r]
-discolored bud nestled in the valley of her shapely butt.[pcms]
+I firmly lifted Yuuho and pressed my hard, erect dick[r]
+against the cute, slightly discolored bud nestled in the[r]
+valley of her shapely butt.[pcms]
 
 *4130|
 [fc]
@@ -106,15 +108,15 @@ I remember but... who was it?[pcms]
 *4133|
 [fc]
 [ns]Middle-aged Infected Person[nse]
-"It's me! The neighborhood association president... uh, my name is~. I can't[r]
-remember~"[pcms]
+"It's me! The neighborhood association president... uh, my[r]
+name is~. I can't remember~"[pcms]
 ;//＠町内会長
 
 *4134|
 [fc]
 [ns]Neighborhood Association President[nse]
-"Lately, my forgetfulness has suddenly gotten worse~. Anyway, I'm the[r]
-association president~"[pcms]
+"Lately, my forgetfulness has suddenly gotten worse~.[r]
+Anyway, I'm the association president~"[pcms]
 
 *4135|
 [fc]
@@ -123,24 +125,28 @@ association president~"[pcms]
 
 *4136|
 [fc]
-I remember well~. He loves children and is always enthusiastic about festivals[r]
-and such, and he has been fond of us like relatives since Yuuho and I were kids.[pcms]
+I remember well~. He loves children and is always[r]
+enthusiastic about festivals and such, and he has been fond[r]
+of us like relatives since Yuuho and I were kids.[pcms]
 
 *4137|
 [fc]
-Especially Yuuho, who is supported by the whole neighborhood. Uh, the name was[r]
-surely... The name is... I can't remember, but it's okay.[pcms]
+Especially Yuuho, who is supported by the whole[r]
+neighborhood. Uh, the name was surely... The name is... I[r]
+can't remember, but it's okay.[pcms]
 
 *4138|
 [fc]
 [ns]Neighborhood Association President[nse]
-"I've always been supporting Yuuho-chan and I want to taste her pussy~"[pcms]
+"I've always been supporting Yuuho-chan and I want to taste[r]
+her pussy~"[pcms]
 
 *4139|
 [fc]
 [ns]Wataru[nse]
-"That's right~. If the neighborhood association president who has always[r]
-supported her does it, Yuuho will surely be happy~"[pcms]
+"That's right~. If the neighborhood association president[r]
+who has always supported her does it, Yuuho will surely be[r]
+happy~"[pcms]
 
 *4140|
 [fc]
@@ -154,7 +160,8 @@ supported her does it, Yuuho will surely be happy~"[pcms]
 
 *4142|
 [fc]
-Following the association president, the old man also moves towards Yuuho.[pcms]
+Following the association president, the old man also moves[r]
+towards Yuuho.[pcms]
 
 *4143|
 [fc]
@@ -171,19 +178,20 @@ Following the association president, the old man also moves towards Yuuho.[pcms]
 *4145|
 [fc]
 [ns]Neighborhood Association President[nse]
-"However~, there aren't enough holes. Maybe one should use the butt hole~. Anal[r]
-for just the butt hole~"[pcms]
+"However~, there aren't enough holes. Maybe one should use[r]
+the butt hole~. Anal for just the butt hole~"[pcms]
 
 *4146|
 [fc]
 [ns]Neighborhood Association President[nse]
-"I've always thought Yuuho-chan's butt is nice~. Surely the tightness is the[r]
-best~"[pcms]
+"I've always thought Yuuho-chan's butt is nice~. Surely the[r]
+tightness is the best~"[pcms]
 
 *4147|
 [fc]
 [ns]Wataru[nse]
-"You too, President-san~. But no way~! Yuuho's butt virginity is mine!"[pcms]
+"You too, President-san~. But no way~! Yuuho's butt[r]
+virginity is mine!"[pcms]
 
 *4148|
 [fc]
@@ -193,22 +201,25 @@ best~"[pcms]
 *4149|
 [fc]
 [ns]Yuuho's father[nse]
-"Let's enter together~. If you care about Yuuho that much~, you're also a[r]
-comrade. President-san~"[pcms]
+"Let's enter together~. If you care about Yuuho that much~,[r]
+you're also a comrade. President-san~"[pcms]
 
 *4150|
 [fc]
-That's really true. Everyone loves Yuuho and they're all comrades.[pcms]
+That's really true. Everyone loves Yuuho and they're all[r]
+comrades.[pcms]
 
 *4151|
 [fc]
-Uh, President-san and~ who was it again? Well, it doesn't matter~.[pcms]
+Uh, President-san and~ who was it again? Well, it doesn't[r]
+matter~.[pcms]
 
 *4152|
 [fc]
 [ns]Wataru[nse]
-"Then, let's all do it together~. Yuuho's pussy can take two dicks at once~. We[r]
-tested it earlier with me and that person over there~"[pcms]
+"Then, let's all do it together~. Yuuho's pussy can take two[r]
+dicks at once~. We tested it earlier with me and that person[r]
+over there~"[pcms]
 
 *4153|
 [fc]
@@ -219,8 +230,8 @@ tested it earlier with me and that person over there~"[pcms]
 *4154|
 [fc]
 [ns]Yuuho's father[nse]
-"Please go ahead. Yuuho's pussy stretches well and the tightness is the best.[r]
-It's my pride."[pcms]
+"Please go ahead. Yuuho's pussy stretches well and the[r]
+tightness is the best. It's my pride."[pcms]
 
 *4155|
 [fc]
@@ -257,7 +268,8 @@ Even though Yuuho is mine, what is this old man saying?[pcms]
 
 *4160|
 [fc]
-The usually quiet Yuuho raises her voice and trembles in front of me.[pcms]
+The usually quiet Yuuho raises her voice and trembles in[r]
+front of me.[pcms]
 
 *4161|
 [fc]
@@ -267,7 +279,8 @@ The usually quiet Yuuho raises her voice and trembles in front of me.[pcms]
 *4162|
 [fc]
 [ns]Yuuho's father[nse]
-"Ah, it's tighter than before~, it hurts~. Ahh~ it hurts so good!!"[pcms]
+"Ah, it's tighter than before~, it hurts~. Ahh~ it hurts so[r]
+good!!"[pcms]
 
 *4163|
 [fc]
@@ -278,13 +291,14 @@ The usually quiet Yuuho raises her voice and trembles in front of me.[pcms]
 *4164|
 [fc]
 [ns]Wataru[nse]
-"Ah, Yuuho~. You're really amazing, as expected~. President-san is also really[r]
-enjoying it~"[pcms]
+"Ah, Yuuho~. You're really amazing, as expected~. President-[r]
+san is also really enjoying it~"[pcms]
 
 *4165|
 [fc]
 [ns]Neighborhood Association President[nse]
-"Uuh... Truly splendid~. I've always wanted to enjoy our town's idol like this~"[pcms]
+"Uuh... Truly splendid~. I've always wanted to enjoy our[r]
+town's idol like this~"[pcms]
 
 *4166|
 [fc]
@@ -294,8 +308,8 @@ enjoying it~"[pcms]
 *4167|
 [fc]
 [ns]Yuuho's father[nse]
-"I'm so proud as a father~, seeing you pleased like this. Ahh... it feels[r]
-good..."[pcms]
+"I'm so proud as a father~, seeing you pleased like this.[r]
+Ahh... it feels good..."[pcms]
 
 *4168|
 [fc]
@@ -312,14 +326,16 @@ good..."[pcms]
 *4170|
 [fc]
 [ns]Yuuho's father[nse]
-"Surely Yuuho is saying 'Thank you very much~'. When she feels good, she can't[r]
-make a voice~. Her mother was the same~"[pcms]
+"Surely Yuuho is saying 'Thank you very much~'. When she[r]
+feels good, she can't make a voice~. Her mother was the[r]
+same~"[pcms]
 
 *4171|
 [fc]
 [ns]Neighborhood Association President[nse]
-"Now that you mention it~ Yuuho-chan really does take after her mother~. Yuuko-[r]
-san was beautiful, and I've always wanted to fuck her pussy~"[pcms]
+"Now that you mention it~ Yuuho-chan really does take after[r]
+her mother~. Yuuko- san was beautiful, and I've always[r]
+wanted to fuck her pussy~"[pcms]
 
 *4172|
 [fc]
@@ -331,7 +347,8 @@ san was beautiful, and I've always wanted to fuck her pussy~"[pcms]
 *4173|
 [fc]
 [ns]Neighborhood Association President[nse]
-"By the way~ where is Yuuko-san~? If she's here, let's do it together~"[pcms]
+"By the way~ where is Yuuko-san~? If she's here, let's do it[r]
+together~"[pcms]
 
 *4174|
 [fc]
@@ -346,8 +363,9 @@ san was beautiful, and I've always wanted to fuck her pussy~"[pcms]
 *4176|
 [fc]
 [ns]Yuuho's father[nse]
-"Because she's inside my stomach~. She looked so delicious that I just couldn't[r]
-help myself~. Ahh... it was irresistible~"[pcms]
+"Because she's inside my stomach~. She looked so delicious[r]
+that I just couldn't help myself~. Ahh... it was[r]
+irresistible~"[pcms]
 
 *4177|
 [fc]
@@ -364,8 +382,8 @@ help myself~. Ahh... it was irresistible~"[pcms]
 *4179|
 [fc]
 [ns]Yuuho's father[nse]
-"Surely, she's tired of waiting. She wants to feel more connected with her[r]
-family~"[pcms]
+"Surely, she's tired of waiting. She wants to feel more[r]
+connected with her family~"[pcms]
 
 *4180|
 [fc]
@@ -374,17 +392,18 @@ family~"[pcms]
 
 *4181|
 [fc]
-I quietly listened to the adult conversation between the uncle and the[r]
-neighborhood association president.[pcms]
+I quietly listened to the adult conversation between the[r]
+uncle and the neighborhood association president.[pcms]
 
 *4182|
 [fc]
-Ah, adults are wonderful. I want to become one with Yuuho just like the uncles.[pcms]
+Ah, adults are wonderful. I want to become one with Yuuho[r]
+just like the uncles.[pcms]
 
 *4183|
 [fc]
-If I ate Yuuho, it would surely be very delicious. Even having sex is[r]
-irresistible.[pcms]
+If I ate Yuuho, it would surely be very delicious. Even[r]
+having sex is irresistible.[pcms]
 
 *4184|
 [fc]
@@ -395,7 +414,8 @@ irresistible.[pcms]
 *4185|
 [fc]
 [ns]Yuuho's father[nse]
-"Now, it seems Yuuho wants it too, let's do it more vigorously~"[pcms]
+"Now, it seems Yuuho wants it too, let's do it more[r]
+vigorously~"[pcms]
 
 *4186|
 [fc]
@@ -415,8 +435,8 @@ irresistible.[pcms]
 
 *4188|
 [fc]
-The uncle and the neighborhood association president start moving and thrust[r]
-into Yuuho fiercely.[pcms]
+The uncle and the neighborhood association president start[r]
+moving and thrust into Yuuho fiercely.[pcms]
 
 *4189|
 [fc]
@@ -425,7 +445,8 @@ into Yuuho fiercely.[pcms]
 
 *4190|
 [fc]
-The valley of Yuuho's shaking butt rubs against my thing, and it feels good.[pcms]
+The valley of Yuuho's shaking butt rubs against my thing,[r]
+and it feels good.[pcms]
 
 *4191|
 [fc]
@@ -447,7 +468,8 @@ The valley of Yuuho's shaking butt rubs against my thing, and it feels good.[pcm
 *4194|
 [fc]
 [ns]Neighborhood Association President[nse]
-"What's wrong~? Rolling your eyes back like that~. Yuuho-cha~n?"[pcms]
+"What's wrong~? Rolling your eyes back like that~. Yuuho-[r]
+cha~n?"[pcms]
 
 *4195|
 [fc]
@@ -466,7 +488,8 @@ The valley of Yuuho's shaking butt rubs against my thing, and it feels good.[pcm
 
 *4198|
 [fc]
-Really, Yuuho loves playing dead. Or maybe it feels so good she could die.[pcms]
+Really, Yuuho loves playing dead. Or maybe it feels so good[r]
+she could die.[pcms]
 
 *4199|
 [fc]
@@ -475,19 +498,20 @@ That's right.[pcms]
 *4200|
 [fc]
 [ns]Wataru[nse]
-"Then let's all do it together~. I'll put it in Yuuho's butt too~"[pcms]
+"Then let's all do it together~. I'll put it in Yuuho's butt[r]
+too~"[pcms]
 
 *4201|
 [fc]
-I tell the neighborhood association president while my thing, which had[r]
-completely slipped out, is pressed against the cute pinkish-brown bud of Yuuho's[r]
-butt.[pcms]
+I tell the neighborhood association president while my[r]
+thing, which had completely slipped out, is pressed against[r]
+the cute pinkish-brown bud of Yuuho's butt.[pcms]
 
 *4202|
 [fc]
 [ns]Wataru[nse]
-"Yuuhos butt... just touching the tip is so soft~. Ahh~, it looks like it'll[r]
-feel amazing~"[pcms]
+"Yuuhos butt... just touching the tip is so soft~. Ahh~, it[r]
+looks like it'll feel amazing~"[pcms]
 
 *4203|
 [fc]
@@ -535,8 +559,8 @@ I'm completely ready. All that's left is to put it in.[pcms]
 
 *4210|
 [fc]
-As we all thrust into Yuuho at once, she makes a strange noise like a crushed[r]
-frog.[pcms]
+As we all thrust into Yuuho at once, she makes a strange[r]
+noise like a crushed frog.[pcms]
 
 *4211|
 [fc]
@@ -551,7 +575,8 @@ frog.[pcms]
 *4213|
 [fc]
 [ns]Yuuho's father[nse]
-"Ah, it's tighter than before~, it hurts~. Ahh~ it hurts so good!!"[pcms]
+"Ah, it's tighter than before~, it hurts~. Ahh~ it hurts so[r]
+good!!"[pcms]
 
 *4214|
 [fc]
@@ -559,13 +584,15 @@ The two in front are overjoyed.[pcms]
 
 *4215|
 [fc]
-I feel incredibly good too. Ren might be tighter at the entrance, but the hot[r]
-and slippery inside wraps around me tightly...[pcms]
+I feel incredibly good too. Ren might be tighter at the[r]
+entrance, but the hot and slippery inside wraps around me[r]
+tightly...[pcms]
 
 *4216|
 [fc]
 [ns]Wataru[nse]
-"Ahh... I can't stand it. I can't stand how good it feels with Yuuho~"[pcms]
+"Ahh... I can't stand it. I can't stand how good it feels[r]
+with Yuuho~"[pcms]
 
 *4217|
 [fc]
@@ -598,8 +625,8 @@ I thrust my hips with all the pleasure I could muster.[pcms]
 
 *4221|
 [fc]
-A sharp smell wafts through the air, and something warm and fresh drips down[r]
-upon Yuuho.[pcms]
+A sharp smell wafts through the air, and something warm and[r]
+fresh drips down upon Yuuho.[pcms]
 
 *4222|
 [fc]
@@ -610,8 +637,8 @@ upon Yuuho.[pcms]
 *4223|
 [fc]
 [ns]Yuuho's father[nse]
-"When you were a child, you were so frail~. Yuuho, you used to vomit a lot~.[r]
-It's just like those times, Yuuho~"[pcms]
+"When you were a child, you were so frail~. Yuuho, you used[r]
+to vomit a lot~. It's just like those times, Yuuho~"[pcms]
 
 *4224|
 [fc]
@@ -624,18 +651,20 @@ It's just like those times, Yuuho~"[pcms]
 
 *4225|
 [fc]
-It seems Yuuho has vomited again. The warm and wet sensation that dampens my[r]
-thighs feels strangely pleasant.[pcms]
+It seems Yuuho has vomited again. The warm and wet sensation[r]
+that dampens my thighs feels strangely pleasant.[pcms]
 
 *4226|
 [fc]
 [ns]Yuuho's father[nse]
-"Ahh...it's okay~. Yuuho is my cute daughter~. There's nothing dirty about it~"[pcms]
+"Ahh...it's okay~. Yuuho is my cute daughter~. There's[r]
+nothing dirty about it~"[pcms]
 
 *4227|
 [fc]
 [ns]Neighborhood Association President[nse]
-"I don't mind either~. It's Yuuho-chan's vomit after all~. Hahahaha~"[pcms]
+"I don't mind either~. It's Yuuho-chan's vomit after all~.[r]
+Hahahaha~"[pcms]
 
 *4228|
 [fc]
@@ -655,8 +684,8 @@ I can't be outdone. There's nothing dirty about my Yuuho.[pcms]
 
 *4231|
 [fc]
-I tried licking what Yuuho had vomited. A sweet and sour taste of Yuuho spread[r]
-in my mouth.[pcms]
+I tried licking what Yuuho had vomited. A sweet and sour[r]
+taste of Yuuho spread in my mouth.[pcms]
 
 *4232|
 [fc]
@@ -672,12 +701,14 @@ in my mouth.[pcms]
 *4234|
 [fc]
 [ns]Yuuho's father[nse]
-"Ahh...but the tightness is incredible~. I want to start moving soon~"[pcms]
+"Ahh...but the tightness is incredible~. I want to start[r]
+moving soon~"[pcms]
 
 *4235|
 [fc]
 [ns]Neighborhood Association President[nse]
-"We should start moving soon or it'll be a waste~. Let's move~"[pcms]
+"We should start moving soon or it'll be a waste~. Let's[r]
+move~"[pcms]
 
 *4236|
 [fc]
@@ -701,19 +732,21 @@ in my mouth.[pcms]
 
 *4239|
 [fc]
-As I thrust from below, Yuuho starts to make incredible noises. Her butt[r]
-clenches around me as if to bite off my thing, and inside her intestines, it's[r]
-warm and slippery, squishy...[pcms]
+As I thrust from below, Yuuho starts to make incredible[r]
+noises. Her butt clenches around me as if to bite off my[r]
+thing, and inside her intestines, it's warm and slippery,[r]
+squishy...[pcms]
 
 *4240|
 [fc]
-It's very tight and messy~. Thumping violently, raging~. Probably because two[r]
-are already in front of her~.[pcms]
+It's very tight and messy~. Thumping violently, raging~.[r]
+Probably because two are already in front of her~.[pcms]
 
 *4241|
 [fc]
 [ns]Wataru[nse]
-"As expected, it's amazing~. Inside Yuuho's butt is incredible~"[pcms]
+"As expected, it's amazing~. Inside Yuuho's butt is[r]
+incredible~"[pcms]
 
 *4242|
 [fc]
@@ -725,38 +758,41 @@ are already in front of her~.[pcms]
 *4243|
 [fc]
 [ns]Wataru[nse]
-"It's getting really tight and it feels good~. Even better than Ren~. I'm glad I[r]
-got Yuuho's anal virginity~"[pcms]
+"It's getting really tight and it feels good~. Even better[r]
+than Ren~. I'm glad I got Yuuho's anal virginity~"[pcms]
 
 *4244|
 [fc]
 [vo_yuh s="yuho0659"]
 [ns]Yuuho[nse]
-"Abah! My stomach, it's being pushed up...higig! Uuh...! Higii! Higiiee!!"[pcms]
+"Abah! My stomach, it's being pushed up...higig! Uuh...![r]
+Higii! Higiiee!!"[pcms]
 ;//＠　感染が発症する寸前の　少し苦痛を悦んでいる
 
 *4245|
 [fc]
 [ns]Neighborhood Association President[nse]
-"Ahh...inside Yuuho-chan is amazing~. Even though we've only just started[r]
-moving~"[pcms]
+"Ahh...inside Yuuho-chan is amazing~. Even though we've only[r]
+just started moving~"[pcms]
 
 *4246|
 [fc]
 [ns]Yuuho's father[nse]
-"As expected of my pride and joy daughter~. Ahh! The tightness is amazing! It[r]
-feels so good! It feels like it's going to tear apart~!"[pcms]
+"As expected of my pride and joy daughter~. Ahh! The[r]
+tightness is amazing! It feels so good! It feels like it's[r]
+going to tear apart~!"[pcms]
 
 *4247|
 [fc]
 [ns]Wataru[nse]
-"Ahh... I can't stand it. I can't stand how good it feels with Yuuho~"[pcms]
+"Ahh... I can't stand it. I can't stand how good it feels[r]
+with Yuuho~"[pcms]
 
 *4248|
 [fc]
 [ns]Wataru[nse]
-"Really, inside Yuuho's butt is too pleasurable~. My thing is hot and mushy,[r]
-kneading and squishing around inside her~"[pcms]
+"Really, inside Yuuho's butt is too pleasurable~. My thing[r]
+is hot and mushy, kneading and squishing around inside her~"[pcms]
 
 *4249|
 [fc]
@@ -766,14 +802,14 @@ kneading and squishing around inside her~"[pcms]
 *4250|
 [fc]
 [ns]Yuuho's father[nse]
-"Ahh! Me too~. I'm going to release plenty inside~. We have to get Yuuho[r]
-pregnant with a child~"[pcms]
+"Ahh! Me too~. I'm going to release plenty inside~. We have[r]
+to get Yuuho pregnant with a child~"[pcms]
 
 *4251|
 [fc]
 [ns]Yuuho's father[nse]
-"Since Yuuko was eaten up and disappeared~, we need a replacement to give birth[r]
-to one~. Auuuh~~!!"[pcms]
+"Since Yuuko was eaten up and disappeared~, we need a[r]
+replacement to give birth to one~. Auuuh~~!!"[pcms]
 
 *4252|
 [fc]
@@ -783,8 +819,8 @@ to one~. Auuuh~~!!"[pcms]
 *4253|
 [fc]
 [ns]Neighborhood Association President[nse]
-"Uuuuh~. Then everyone together~, let's honor Yuuho-chan's health and[r]
-fertility~"[pcms]
+"Uuuuh~. Then everyone together~, let's honor Yuuho-chan's[r]
+health and fertility~"[pcms]
 
 *4254|
 [fc]
@@ -822,7 +858,8 @@ We almost simultaneously ejaculated inside Yuuho.[pcms]
 *4259|
 [fc]
 [ns]Wataru[nse]
-"Ahh, as expected, inside Yuuho feels good~. Yuuho, even your butt is the best~"[pcms]
+"Ahh, as expected, inside Yuuho feels good~. Yuuho, even[r]
+your butt is the best~"[pcms]
 
 *4260|
 [fc]
@@ -836,7 +873,8 @@ We almost simultaneously ejaculated inside Yuuho.[pcms]
 
 *4261|
 [fc]
-Yuuho looks at me and smiles brightly. With eyes red like a rabbit's.[pcms]
+Yuuho looks at me and smiles brightly. With eyes red like a[r]
+rabbit's.[pcms]
 
 *4262|
 [fc]
@@ -850,8 +888,8 @@ I don't know why but it makes me happy.[pcms]
 [fc]
 [vo_yuh s="yuho0662"]
 [ns]Yuuho[nse]
-"Wataru~, I want more~. I want to drink more semen~. With my pussy~, I want to[r]
-drink lots of semen~"[pcms]
+"Wataru~, I want more~. I want to drink more semen~. With my[r]
+pussy~, I want to drink lots of semen~"[pcms]
 
 *4265|
 [fc]
@@ -867,8 +905,8 @@ drink lots of semen~"[pcms]
 *4267|
 [fc]
 [ns]Wataru[nse]
-"Because you're a glutton, Yuuho~, letting semen drip from your pussy and butt[r]
-like that~, do you still want more?"[pcms]
+"Because you're a glutton, Yuuho~, letting semen drip from[r]
+your pussy and butt like that~, do you still want more?"[pcms]
 
 *4268|
 [fc]
@@ -878,12 +916,13 @@ like that~, do you still want more?"[pcms]
 
 *4269|
 [fc]
-Yuuho is all smiles and looks so happy. Thank goodness~. She's finally being[r]
-honest~.[pcms]
+Yuuho is all smiles and looks so happy. Thank goodness~.[r]
+She's finally being honest~.[pcms]
 
 *4270|
 [fc]
-If that's the case, I have to make it even more enjoyable for her~.[pcms]
+If that's the case, I have to make it even more enjoyable[r]
+for her~.[pcms]
 
 *4271|
 [fc]
@@ -971,8 +1010,8 @@ I looked around.[pcms]
 
 *4286|
 [fc]
-Around Yuuho, as always, there's a crowd of men gathering. Around my beloved[r]
-Yuuho...[pcms]
+Around Yuuho, as always, there's a crowd of men gathering.[r]
+Around my beloved Yuuho...[pcms]
 
 *4287|
 [fc]
@@ -990,7 +1029,8 @@ Maybe it's wrong for me to monopolize Yuuho after all~.[pcms]
 *4289|
 [fc]
 [ns]Wataru[nse]
-"As expected, Yuuho is super popular~. Let those guys take care of you~"[pcms]
+"As expected, Yuuho is super popular~. Let those guys take[r]
+care of you~"[pcms]
 
 *4290|
 [fc]
@@ -1016,7 +1056,8 @@ Yuuho smiles sweetly. She's really cute~ Yuuho is~.[pcms]
 *4294|
 [fc]
 [ns]Wataru[nse]
-"Come on~. Those who want to do it with Yuuho, come this way~"[pcms]
+"Come on~. Those who want to do it with Yuuho, come this[r]
+way~"[pcms]
 
 ;//　ブラックアウト　場面転換
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1059,11 +1100,13 @@ Yuuho was loved by everyone~.[pcms]
 
 *4300|
 [fc]
-In front of me, Yuuho was happily having her clothes torn off by everyone.[pcms]
+In front of me, Yuuho was happily having her clothes torn[r]
+off by everyone.[pcms]
 
 *4301|
 [fc]
-The body that had been wrapped up until now spills out from the torn clothes.[pcms]
+The body that had been wrapped up until now spills out from[r]
+the torn clothes.[pcms]
 
 *4302|
 [fc]
@@ -1072,17 +1115,20 @@ The body that had been wrapped up until now spills out from the torn clothes.[pc
 
 *4303|
 [fc]
-The torn clothes fully reveal her breasts, and there's someone clinging to them.[pcms]
+The torn clothes fully reveal her breasts, and there's[r]
+someone clinging to them.[pcms]
 
 *4304|
 [fc]
-Dammit~. I was only focused on her ass~, I forgot about the breasts~.[pcms]
+Dammit~. I was only focused on her ass~, I forgot about the[r]
+breasts~.[pcms]
 
 *4305|
 [fc]
 [vo_yuh s="yuho0671"]
 [ns]Yuuho[nse]
-"Aah~~! The breasts feel good~. More~, more, give it to my pussy~. And my ass~~"[pcms]
+"Aah~~! The breasts feel good~. More~, more, give it to my[r]
+pussy~. And my ass~~"[pcms]
 
 *4306|
 [fc]
@@ -1112,7 +1158,8 @@ Dammit~. I was only focused on her ass~, I forgot about the breasts~.[pcms]
 
 *4308|
 [fc]
-The tightness of Yuuho makes everyone who enters her cum one after another.[pcms]
+The tightness of Yuuho makes everyone who enters her cum one[r]
+after another.[pcms]
 
 ;//@konya HEV027
 [evcg storage="HEV027b"][trans_c cross time=300]
@@ -1121,8 +1168,8 @@ The tightness of Yuuho makes everyone who enters her cum one after another.[pcms
 [fc]
 [vo_yuh s="yuho0672"]
 [ns]Yuuho[nse]
-"Aah~~! More, give it to my pussy~. And my ass~, give me that~~! I want to drink[r]
-lots of semen~~!!"[pcms]
+"Aah~~! More, give it to my pussy~. And my ass~, give me[r]
+that~~! I want to drink lots of semen~~!!"[pcms]
 
 *4310|
 [fc]
@@ -1187,8 +1234,9 @@ As expected, Yuuho is a glutton~.[pcms]
 
 *4317|
 [fc]
-All the men from town and male students have been seeking her non-stop, without[r]
-a break, taking on about three at a time.[pcms]
+All the men from town and male students have been seeking[r]
+her non-stop, without a break, taking on about three at a[r]
+time.[pcms]
 
 ;//@konya HEV027
 ;//射精エフェクト
@@ -1207,12 +1255,13 @@ As expected, Yuuho is amazing. She's so popular~.[pcms]
 [fc]
 [vo_ren s="ren0578"]
 [ns]Ren[nse]
-"Onii-chan~, you're watching Yuuho-chan again, aren't you~. Pay more attention[r]
-to my butt~, more~!"[pcms]
+"Onii-chan~, you're watching Yuuho-chan again, aren't you~.[r]
+Pay more attention to my butt~, more~!"[pcms]
 
 *4320|
 [fc]
-While I'm watching Yuuho, Ren is shaking her butt and begging me from below.[pcms]
+While I'm watching Yuuho, Ren is shaking her butt and[r]
+begging me from below.[pcms]
 
 *4321|
 [fc]
@@ -1225,14 +1274,16 @@ While I'm watching Yuuho, Ren is shaking her butt and begging me from below.[pcm
 [fc]
 [vo_ren s="ren0579"]
 [ns]Ren[nse]
-"Afuuh! Yes! My butt feels so good! Dig in more~, Onii-chan~~!!"[pcms]
+"Afuuh! Yes! My butt feels so good! Dig in more~, Onii-[r]
+chan~~!!"[pcms]
 
 ;//@konya HEV53a
 [evcg storage="HEV053a"][trans_c cross time=300]
 
 *4323|
 [fc]
-I do as Ren asks, violating her familiar ass hole thoroughly.[pcms]
+I do as Ren asks, violating her familiar ass hole[r]
+thoroughly.[pcms]
 
 *4324|
 [fc]
@@ -1258,7 +1309,8 @@ But my eyes are always on Yuuho.[pcms]
 
 *4327|
 [fc]
-While I was giving Ren a little attention, Yuuho had become quite a spectacle.[pcms]
+While I was giving Ren a little attention, Yuuho had become[r]
+quite a spectacle.[pcms]
 
 *4328|
 [fc]
@@ -1274,8 +1326,8 @@ While I was giving Ren a little attention, Yuuho had become quite a spectacle.[p
 [fc]
 [vo_yuh s="yuho0673"]
 [ns]Yuuho[nse]
-"Aaahn~!! ...It feels good!! Fill my pussy more~! And my butt~! My breasts feel[r]
-good too~~!!"[pcms]
+"Aaahn~!! ...It feels good!! Fill my pussy more~! And my[r]
+butt~! My breasts feel good too~~!!"[pcms]
 
 *4331|
 [fc]
@@ -1305,31 +1357,35 @@ good too~~!!"[pcms]
 
 *4333|
 [fc]
-Yuuho is excited and fierce, but since her partners are all infatuated with the[r]
-idol Yuuho, they thrust vigorously and cum quickly.[pcms]
+Yuuho is excited and fierce, but since her partners are all[r]
+infatuated with the idol Yuuho, they thrust vigorously and[r]
+cum quickly.[pcms]
 
 ;//@konya HEV27
 [evcg storage="HEV027e"][trans_c cross time=300]
 
 *4334|
 [fc]
-Yuuho is dripping plenty of semen from her pussy and butt. She looks very happy.[pcms]
+Yuuho is dripping plenty of semen from her pussy and butt.[r]
+She looks very happy.[pcms]
 
 *4335|
 [fc]
-I'm a bit jealous that it's not me, but this is exciting in its own way.[pcms]
+I'm a bit jealous that it's not me, but this is exciting in[r]
+its own way.[pcms]
 
 ;//@konya HEV27
 [evcg storage="HEV027c"][trans_c cross time=300]
 
 *4336|
 [fc]
-Seeing Yuuho soiled by other men and covered in semen gives me chills.[pcms]
+Seeing Yuuho soiled by other men and covered in semen gives[r]
+me chills.[pcms]
 
 *4337|
 [fc]
-Such a sight is something the person involved can't see~. It's a precious[r]
-experience~.[pcms]
+Such a sight is something the person involved can't see~.[r]
+It's a precious experience~.[pcms]
 
 ;//@konya HEV27
 ;//射精エフェクト
@@ -1339,7 +1395,8 @@ experience~.[pcms]
 
 *4338|
 [fc]
-And while just watching isn't satisfying, I have Ren's perfectly fitting butt.[pcms]
+And while just watching isn't satisfying, I have Ren's[r]
+perfectly fitting butt.[pcms]
 
 *4339|
 [fc]
@@ -1352,8 +1409,8 @@ So, this is pretty psycho in its own way.[pcms]
 [fc]
 [vo_yuh s="yuho0674"]
 [ns]Yuuho[nse]
-"Aaahn, amazing~. To be filled with so much cum~. I'm going to get pregnant with[r]
-everyone's semen~♪"[pcms]
+"Aaahn, amazing~. To be filled with so much cum~. I'm going[r]
+to get pregnant with everyone's semen~♪"[pcms]
 
 *4341|
 [fc]
@@ -1363,7 +1420,8 @@ Yuuho is overjoyed with plenty of semen~.[pcms]
 [fc]
 [vo_yuh s="yuho0675"]
 [ns]Yuuho[nse]
-"Dad said he wanted a child~~. This is just perfect~. Fill me more, everyone~"[pcms]
+"Dad said he wanted a child~~. This is just perfect~. Fill[r]
+me more, everyone~"[pcms]
 
 *4343|
 [fc]
@@ -1371,8 +1429,8 @@ I pull out from Ren's butt after hearing Yuuho's words.[pcms]
 
 *4344|
 [fc]
-I really want to do it with Yuuho now. That desire, that pleasure... I thought[r]
-about it.[pcms]
+I really want to do it with Yuuho now. That desire, that[r]
+pleasure... I thought about it.[pcms]
 
 *4345|
 [fc]
@@ -1428,7 +1486,8 @@ I lift Yuuho up and think.[pcms]
 
 *4353|
 [fc]
-Now, where shall I cum? Perhaps in Yuuho's pussy that she's been craving for?[pcms]
+Now, where shall I cum? Perhaps in Yuuho's pussy that she's[r]
+been craving for?[pcms]
 
 *4354|
 [fc]
@@ -1476,8 +1535,8 @@ Who is it? I feel like I know them but... can't remember.[pcms]
 
 *4363|
 [fc]
-That's right~ Kousuke. Why did I forget? I've been looking for him for so long,[r]
-it feels strange~.[pcms]
+That's right~ Kousuke. Why did I forget? I've been looking[r]
+for him for so long, it feels strange~.[pcms]
 
 *4364|
 [fc]
@@ -1508,8 +1567,8 @@ it feels strange~.[pcms]
 
 *4369|
 [fc]
-Um, who was it again~? I can't remember, but looking at them makes me feel[r]
-irritated.[pcms]
+Um, who was it again~? I can't remember, but looking at them[r]
+makes me feel irritated.[pcms]
 
 *4370|
 [fc]
@@ -1528,7 +1587,8 @@ But, they do have an annoying face.[pcms]
 
 *4372|
 [fc]
-I felt irritated and plunged my thing into Yuuho's pussy to block it.[pcms]
+I felt irritated and plunged my thing into Yuuho's pussy to[r]
+block it.[pcms]
 
 *4373|
 [fc]
@@ -1548,7 +1608,8 @@ I felt irritated and plunged my thing into Yuuho's pussy to block it.[pcms]
 *4376|
 [fc]
 [ns]Wataru[nse]
-"Best friends? Oh right, that's true~. Then come on over, Kousuke~"[pcms]
+"Best friends? Oh right, that's true~. Then come on over,[r]
+Kousuke~"[pcms]
 
 *4377|
 [fc]
@@ -1568,7 +1629,8 @@ I felt irritated and plunged my thing into Yuuho's pussy to block it.[pcms]
 *4380|
 [fc]
 [ns]Oshimi[nse]
-"Why not~? I like you too, Kannagi-kun. I want to put it in~"[pcms]
+"Why not~? I like you too, Kannagi-kun. I want to put it[r]
+in~"[pcms]
 
 *4381|
 [fc]
@@ -1579,7 +1641,8 @@ I felt irritated and plunged my thing into Yuuho's pussy to block it.[pcms]
 [fc]
 [vo_yuh s="yuho0681"]
 [ns]Yuuho[nse]
-"Oh come on, Wataru~. Let's all get along and give it to me nicely~!"[pcms]
+"Oh come on, Wataru~. Let's all get along and give it to me[r]
+nicely~!"[pcms]
 
 *4383|
 [fc]
@@ -1588,17 +1651,19 @@ I felt irritated and plunged my thing into Yuuho's pussy to block it.[pcms]
 
 *4384|
 [fc]
-Convinced by Yuuho, I reconsidered. Huh? What was I even angry about?[pcms]
+Convinced by Yuuho, I reconsidered. Huh? What was I even[r]
+angry about?[pcms]
 
 *4385|
 [fc]
-Oh, by the way, I feel like someone mediated at a time like this... Who was it?[pcms]
+Oh, by the way, I feel like someone mediated at a time like[r]
+this... Who was it?[pcms]
 
 *4386|
 [fc]
 [ns]Kousuke[nse]
-"Then I'll be the first to put it in the pussy~. ...Oh wait, Wataru's is already[r]
-in there~"[pcms]
+"Then I'll be the first to put it in the pussy~. ...Oh wait,[r]
+Wataru's is already in there~"[pcms]
 
 *4387|
 [fc]
@@ -1609,7 +1674,8 @@ in there~"[pcms]
 [fc]
 [vo_yuh s="yuho0682"]
 [ns]Yuuho[nse]
-"Geez~ Anyone is fine, just put it in nicely together. Hurry up, please~"[pcms]
+"Geez~ Anyone is fine, just put it in nicely together. Hurry[r]
+up, please~"[pcms]
 
 *4389|
 [fc]
@@ -1618,8 +1684,8 @@ Yuuho seems unable to wait any longer.[pcms]
 *4390|
 [fc]
 [ns]Wataru[nse]
-"That's right~. Yuuho's pussy can easily take two dicks. It could probably take[r]
-three too~"[pcms]
+"That's right~. Yuuho's pussy can easily take two dicks. It[r]
+could probably take three too~"[pcms]
 
 *4391|
 [fc]
@@ -1634,13 +1700,15 @@ three too~"[pcms]
 *4393|
 [fc]
 [ns]Oshimi[nse]
-"As long as I can put it in Kannagi-kun, that's enough for me~"[pcms]
+"As long as I can put it in Kannagi-kun, that's enough for[r]
+me~"[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4394|
 [fc]
-I pulled out from Yuuho for a moment to synchronize our timing.[pcms]
+I pulled out from Yuuho for a moment to synchronize our[r]
+timing.[pcms]
 
 ;//ＣＧ　未挿入に
 ;//@konya HEV33
@@ -1678,8 +1746,9 @@ I pulled out from Yuuho for a moment to synchronize our timing.[pcms]
 
 *4398|
 [fc]
-With a scream of joy, Yuuho took in a lot again. The sweet and sour scent of[r]
-Yuuho filled the air around us, warm and comfortable.[pcms]
+With a scream of joy, Yuuho took in a lot again. The sweet[r]
+and sour scent of Yuuho filled the air around us, warm and[r]
+comfortable.[pcms]
 
 *4399|
 [fc]
@@ -1689,7 +1758,8 @@ Yuuho filled the air around us, warm and comfortable.[pcms]
 *4400|
 [fc]
 [ns]Oshimi[nse]
-"It's good inside Kannagi-kun~ It hurts. It hurts so good~~!!"[pcms]
+"It's good inside Kannagi-kun~ It hurts. It hurts so[r]
+good~~!!"[pcms]
 
 *4401|
 [fc]
@@ -1700,8 +1770,8 @@ Yuuho filled the air around us, warm and comfortable.[pcms]
 *4402|
 [fc]
 [ns]Wataru[nse]
-"Does it hurt for you too, Yuuho~? Inside Yuuho is also very tight and feels[r]
-good for me too~"[pcms]
+"Does it hurt for you too, Yuuho~? Inside Yuuho is also very[r]
+tight and feels good for me too~"[pcms]
 
 ;//@konya HEV33
 [evcg storage="HEV033n"][trans_c cross time=300]
@@ -1710,19 +1780,20 @@ good for me too~"[pcms]
 [fc]
 [vo_yuh s="yuho0686"]
 [ns]Yuuho[nse]
-"Higyaaa!! It hurts~, this is wrong... Ubuahh!! Ihyaii!! Pull it out..."[pcms]
+"Higyaaa!! It hurts~, this is wrong... Ubuahh!! Ihyaii!![r]
+Pull it out..."[pcms]
 
 *4404|
 [fc]
-Yuuho was blowing bubbles and screaming. From Yuuho's pussy, a lot was coming[r]
-out... It's like the first time.[pcms]
+Yuuho was blowing bubbles and screaming. From Yuuho's pussy,[r]
+a lot was coming out... It's like the first time.[pcms]
 
 *4405|
 [fc]
 [vo_yuh s="yuho0687"]
 [ns]Yuuho[nse]
-"Higyaaa!! This is wrong... Nooo! Ubuahh!! Ihyaii! Ihyaii!! Pull it out~~!! Pull[r]
-it outttt!!"[pcms]
+"Higyaaa!! This is wrong... Nooo! Ubuahh!! Ihyaii! Ihyaii!![r]
+Pull it out~~!! Pull it outttt!!"[pcms]
 
 *4406|
 [fc]
@@ -1743,17 +1814,20 @@ it outttt!!"[pcms]
 [fc]
 [vo_yuh s="yuho0688"]
 [ns]Yuuho[nse]
-"Higyiii! No! I don't want this! It hurts! It hurts!! Higyaaaah!!"[pcms]
+"Higyiii! No! I don't want this! It hurts! It hurts!![r]
+Higyaaaah!!"[pcms]
 
 *4410|
 [fc]
 [ns]Kousuke[nse]
-"She doesn't like the pain? Has Yuuho gone crazy or something??"[pcms]
+"She doesn't like the pain? Has Yuuho gone crazy or[r]
+something??"[pcms]
 
 *4411|
 [fc]
 [ns]Wataru[nse]
-"That must be it~, she's just shy. If we all get along, she'll surely be happy~"[pcms]
+"That must be it~, she's just shy. If we all get along,[r]
+she'll surely be happy~"[pcms]
 
 *4412|
 [fc]
@@ -1779,7 +1853,8 @@ it outttt!!"[pcms]
 [fc]
 [vo_yuh s="yuho0689"]
 [ns]Yuuho[nse]
-"Higyaaa!! Higyiii!! Higyaaa!! Higyaaa!! Stop it!! Higyiii!!"[pcms]
+"Higyaaa!! Higyiii!! Higyaaa!! Higyaaa!! Stop it!![r]
+Higyiii!!"[pcms]
 
 ;//@konya HEV33
 [evcg storage="HEV033m"][trans_c cross time=300]
@@ -1788,7 +1863,8 @@ it outttt!!"[pcms]
 [fc]
 [vo_yuh s="yuho0690"]
 [ns]Yuuho[nse]
-"Higigi!! Higi!! Higyaaa! Higyaaaaah!! Ahhihhii!! Ahhihhii!!"[pcms]
+"Higigi!! Higi!! Higyaaa! Higyaaaaah!! Ahhihhii!![r]
+Ahhihhii!!"[pcms]
 
 *4416|
 [fc]
@@ -1798,13 +1874,14 @@ it outttt!!"[pcms]
 *4417|
 [fc]
 [ns]Wataru[nse]
-"It's okay~. Surely it's a scream of joy. As we keep moving, she'll come back[r]
-around~"[pcms]
+"It's okay~. Surely it's a scream of joy. As we keep moving,[r]
+she'll come back around~"[pcms]
 
 *4418|
 [fc]
 [ns]Kousuke[nse]
-"If that's the case~, we need to move properly to bring her back to normal~"[pcms]
+"If that's the case~, we need to move properly to bring her[r]
+back to normal~"[pcms]
 
 *4419|
 [fc]
@@ -1828,13 +1905,14 @@ around~"[pcms]
 [fc]
 [vo_yuh s="yuho0691"]
 [ns]Yuuho[nse]
-"Hihii!! Ahhihii! Ahhii!! Ahhihihihihii~~!! Ahyahyahyahyahya~~~!!!"[pcms]
+"Hihii!! Ahhihii! Ahhii!! Ahhihihihihii~~!![r]
+Ahyahyahyahyahya~~~!!!"[pcms]
 ;//＠　完全発狂　狂気の笑い
 
 *4423|
 [fc]
-Yuuho's insides are so tight and feel so good, I feel like I could forget[r]
-everything~.[pcms]
+Yuuho's insides are so tight and feel so good, I feel like I[r]
+could forget everything~.[pcms]
 
 *4424|
 [fc]
@@ -1859,8 +1937,8 @@ everything~.[pcms]
 
 *4427|
 [fc]
-We poured everything into Yuuho with all our might. It feels like I'm being[r]
-emptied out.[pcms]
+We poured everything into Yuuho with all our might. It feels[r]
+like I'm being emptied out.[pcms]
 
 *4428|
 [fc]
@@ -1877,7 +1955,8 @@ I wonder how Yuuho feels~.[pcms]
 [fc]
 [vo_yuh s="yuho0692"]
 [ns]Yuuho[nse]
-"Ahhihii!! Ahhii! Ahhihihihii!! Ahyahyahya~~ah~~!! Ahyahyahihi~~~!!!"[pcms]
+"Ahhihii!! Ahhii! Ahhihihihii!! Ahyahyahya~~ah~~!![r]
+Ahyahyahihi~~~!!!"[pcms]
 ;//＠　完全発狂　狂気の笑い
 
 *4431|
@@ -1886,8 +1965,8 @@ Ah, she's laughing. She seems to be laughing joyfully.[pcms]
 
 *4432|
 [fc]
-This is how everyone should have fun and feel good~. Ahh... what a wonderful[r]
-thing~.[pcms]
+This is how everyone should have fun and feel good~. Ahh...[r]
+what a wonderful thing~.[pcms]
 
 *4433|
 [fc]
@@ -1908,7 +1987,8 @@ I thought she was someone important... ah...[pcms]
 [fc]
 [vo_yuh s="yuho0693"]
 [ns]Yuuho[nse]
-"Ahhihihihihii! Ahhii!! Ahhihihihihii~~!! Ahyahyahyahyahya~~~!!!"[pcms]
+"Ahhihihihihii! Ahhii!! Ahhihihihihii~~!![r]
+Ahyahyahyahyahya~~~!!!"[pcms]
 ;//＠　完全発狂　狂気の笑い
 
 
@@ -1919,7 +1999,8 @@ I thought she was someone important... ah...[pcms]
 [fc]
 [vo_yuh s="yuho0694"]
 [ns]Yuuho[nse]
-"Ahyahyahyahyahya~~~! Ahhihihihihii~~~!! Ahyahya! Ahyahyahyahyahi~~~!!"[pcms]
+"Ahyahyahyahyahya~~~! Ahhihihihihii~~~!! Ahyahya![r]
+Ahyahyahyahyahi~~~!!"[pcms]
 
 *4438|
 [fc]
@@ -1951,7 +2032,8 @@ The "Somewhere Not Here" that I've always dreamed of~.[pcms]
 
 *4445|
 [fc]
-After all, paradise is in an unexpected and short-lived place~.[pcms]
+After all, paradise is in an unexpected and short-lived[r]
+place~.[pcms]
 
 *4446|
 [fc]
@@ -1959,12 +2041,14 @@ Ahh... it feels so good.[pcms]
 
 *4447|
 [fc]
-I can't help but laugh, and it doesn't seem like it will stop~.[pcms]
+I can't help but laugh, and it doesn't seem like it will[r]
+stop~.[pcms]
 
 *4448|
 [fc]
 [ns]Wataru[nse]
-"Ahhihii!! Ahhii! Ahhihihihii!! Ahyahyahya~~ah~~!! Ahyahyahihi~~~!!!"[pcms]
+"Ahhihii!! Ahhii! Ahhihihihii!! Ahyahyahya~~ah~~!![r]
+Ahyahyahihi~~~!!!"[pcms]
 
 *4449|
 [fc]

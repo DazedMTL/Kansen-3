@@ -20,12 +20,14 @@
 
 *2897|
 [fc]
-While playing the violin, I felt rejected from the world of music that I would[r]
-normally be able to immerse myself in right away.[pcms]
+While playing the violin, I felt rejected from the world of[r]
+music that I would normally be able to immerse myself in[r]
+right away.[pcms]
 
 *2898|
 [fc]
-Normally, just by holding the bow, I could slip into the world of music.[pcms]
+Normally, just by holding the bow, I could slip into the[r]
+world of music.[pcms]
 
 *2899|
 [fc]
@@ -37,8 +39,8 @@ The door to the world of music wouldn't open at all.[pcms]
 
 *2901|
 [fc]
-It seemed to show in my sound, and during the full rehearsal, I even got scolded[r]
-by our advisor teacher.[pcms]
+It seemed to show in my sound, and during the full[r]
+rehearsal, I even got scolded by our advisor teacher.[pcms]
 
 *2902|
 [fc]
@@ -46,13 +48,13 @@ It's not right.[pcms]
 
 *2903|
 [fc]
-It's not that the door to the world of music won't open; it's that I can't enter[r]
-it.[pcms]
+It's not that the door to the world of music won't open;[r]
+it's that I can't enter it.[pcms]
 
 *2904|
 [fc]
-During the festival... I was preoccupied with thoughts of my brother who[r]
-suddenly disappeared...[pcms]
+During the festival... I was preoccupied with thoughts of my[r]
+brother who suddenly disappeared...[pcms]
 
 *2905|
 [fc]
@@ -60,17 +62,18 @@ That's all I could think about.[pcms]
 
 *2906|
 [fc]
-I wonder if it has something to do with Yuuho-chan disappearing at that time?[pcms]
+I wonder if it has something to do with Yuuho-chan[r]
+disappearing at that time?[pcms]
 
 *2907|
 [fc]
-My brother leaving me behind and going home first has never happened before, so[r]
-it must be related, right?[pcms]
+My brother leaving me behind and going home first has never[r]
+happened before, so it must be related, right?[pcms]
 
 *2908|
 [fc]
-I wanted to ask, but couldn't, and my mind was spinning in circles the whole[r]
-time.[pcms]
+I wanted to ask, but couldn't, and my mind was spinning in[r]
+circles the whole time.[pcms]
 
 *2909|
 [fc]
@@ -96,12 +99,13 @@ With a snap! The G string broke.[pcms]
 [fc]
 [vo_mob s="buin0001"]
 [ns]Club Member C[nse]
-"Oh no, Ren-chan. That's too ominous right before the match."[pcms]
+"Oh no, Ren-chan. That's too ominous right before the[r]
+match."[pcms]
 
 *2913|
 [fc]
-A senior who stayed behind like me and was practicing individually laughed it[r]
-off as a joke.[pcms]
+A senior who stayed behind like me and was practicing[r]
+individually laughed it off as a joke.[pcms]
 
 *2914|
 [fc]
@@ -111,8 +115,9 @@ off as a joke.[pcms]
 
 *2915|
 [fc]
-I managed to laugh back somehow, but the strings were just replaced yesterday.[r]
-And the G string is the thickest and least likely to break.[pcms]
+I managed to laugh back somehow, but the strings were just[r]
+replaced yesterday. And the G string is the thickest and[r]
+least likely to break.[pcms]
 
 [bgm storage="BGM01"]
 ;//BG015：分校舎廊下２で代用
@@ -124,13 +129,13 @@ And the G string is the thickest and least likely to break.[pcms]
 *2916|
 [fc]
 [ns]Kousuke[nse]
-"Yoo-hoo! Please cheer for us in this afternoon's match. Aaaand, I came for a[r]
-morale-boosting visit."[pcms]
+"Yoo-hoo! Please cheer for us in this afternoon's match.[r]
+Aaaand, I came for a morale-boosting visit."[pcms]
 
 *2917|
 [fc]
-As if to blow away my thoughts, Kousuke-kun energetically opened the door to the[r]
-music room and greeted us cheerfully.[pcms]
+As if to blow away my thoughts, Kousuke-kun energetically[r]
+opened the door to the music room and greeted us cheerfully.[pcms]
 
 *2918|
 [fc]
@@ -143,15 +148,16 @@ music room and greeted us cheerfully.[pcms]
 *2919|
 [fc]
 [ns]Kousuke[nse]
-"Yeah, yeah. I was called in as a reinforcement. Just finished practice now, and[r]
-I'm killing time before the match & checking on everyone's condition."[pcms]
+"Yeah, yeah. I was called in as a reinforcement. Just[r]
+finished practice now, and I'm killing time before the match[r]
+& checking on everyone's condition."[pcms]
 
 *2920|
 [fc]
 [vo_mob s="buin0003"]
 [ns]Club Member C[nse]
-"Rather than our condition, didn't you come to talk to Ren-chan? Ren-chan, Sui-[r]
-kun."[pcms]
+"Rather than our condition, didn't you come to talk to Ren-[r]
+chan? Ren-chan, Sui- kun."[pcms]
 
 *2921|
 [fc]
@@ -165,12 +171,14 @@ I put down my violin on the desk and approached Kousuke-kun.[pcms]
 
 *2923|
 [fc]
-Kousuke-kun, in his basketball uniform with a shoulder bag slung over, probably[r]
-looks like someone who would get squeals from normal girls.[pcms]
+Kousuke-kun, in his basketball uniform with a shoulder bag[r]
+slung over, probably looks like someone who would get[r]
+squeals from normal girls.[pcms]
 
 *2924|
 [fc]
-He's the opposite of my quiet brother. Maybe that's why we get along so well.[pcms]
+He's the opposite of my quiet brother. Maybe that's why we[r]
+get along so well.[pcms]
 
 *2925|
 [fc]
@@ -183,9 +191,9 @@ He's the opposite of my quiet brother. Maybe that's why we get along so well.[pc
 *2926|
 [fc]
 [ns]Kousuke[nse]
-"Ah, it's super great. It was just a practice to check our coordination, but[r]
-playing after a long time is really fun. Makes me think about joining the[r]
-basketball club."[pcms]
+"Ah, it's super great. It was just a practice to check our[r]
+coordination, but playing after a long time is really fun.[r]
+Makes me think about joining the basketball club."[pcms]
 
 *2927|
 [fc]
@@ -198,8 +206,8 @@ basketball club."[pcms]
 *2928|
 [fc]
 [ns]Kousuke[nse]
-"Eh? You know, I often talk about DJ stuff with older people. Some of them still[r]
-use it, and I got hooked again."[pcms]
+"Eh? You know, I often talk about DJ stuff with older[r]
+people. Some of them still use it, and I got hooked again."[pcms]
 
 *2929|
 [fc]
@@ -212,8 +220,9 @@ use it, and I got hooked again."[pcms]
 *2930|
 [fc]
 [ns]Kousuke[nse]
-"Yeah... but if I join the basketball club, I won't have time for DJ studies[r]
-with all the practice. So, joining the basketball club is out. Yeah."[pcms]
+"Yeah... but if I join the basketball club, I won't have[r]
+time for DJ studies with all the practice. So, joining the[r]
+basketball club is out. Yeah."[pcms]
 
 *2931|
 [fc]
@@ -226,8 +235,9 @@ with all the practice. So, joining the basketball club is out. Yeah."[pcms]
 *2932|
 [fc]
 [ns]Kousuke[nse]
-"The idea of transforming music with my own hands? That's what feels good. Well,[r]
-I also like basketball because it has a beat that I can feel among sports."[pcms]
+"The idea of transforming music with my own hands? That's[r]
+what feels good. Well, I also like basketball because it has[r]
+a beat that I can feel among sports."[pcms]
 
 *2933|
 [fc]
@@ -251,15 +261,15 @@ Grinning like a child, Kousuke-kun flashed a V-sign.[pcms]
 *2936|
 [fc]
 [ns]Kousuke[nse]
-"By the way, you were only fiddling with your violin earlier and didn't come[r]
-over to me. What happened?"[pcms]
+"By the way, you were only fiddling with your violin earlier[r]
+and didn't come over to me. What happened?"[pcms]
 
 *2937|
 [fc]
 [vo_ren s="ren0475"]
 [ns]Ren[nse]
-"Eh? Well... my string just broke. The full rehearsal is over, so I was doing[r]
-individual practice."[pcms]
+"Eh? Well... my string just broke. The full rehearsal is[r]
+over, so I was doing individual practice."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -272,8 +282,8 @@ individual practice."[pcms]
 [fc]
 [vo_ren s="ren0476"]
 [ns]Ren[nse]
-"Once I replace the string, I just need to move on, so it's fine. I'll make it[r]
-in time for the afternoon cheering."[pcms]
+"Once I replace the string, I just need to move on, so it's[r]
+fine. I'll make it in time for the afternoon cheering."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -284,8 +294,8 @@ in time for the afternoon cheering."[pcms]
 
 *2941|
 [fc]
-Suddenly lowering his voice and looking at me again made me feel anxious, and I[r]
-looked back at Kousuke-kun's face.[pcms]
+Suddenly lowering his voice and looking at me again made me[r]
+feel anxious, and I looked back at Kousuke-kun's face.[pcms]
 
 *2942|
 [fc]
@@ -298,24 +308,25 @@ looked back at Kousuke-kun's face.[pcms]
 *2943|
 [fc]
 [ns]Kousuke[nse]
-"No, it's about Wataru. He suddenly went home yesterday, right? And Yuuho didn't[r]
-come back either. I'm worried about what Wataru is up to since he hasn't replied[r]
-to any emails."[pcms]
+"No, it's about Wataru. He suddenly went home yesterday,[r]
+right? And Yuuho didn't come back either. I'm worried about[r]
+what Wataru is up to since he hasn't replied to any emails."[pcms]
 
 *2944|
 [fc]
 [vo_ren s="ren0478"]
 [ns]Ren[nse]
-"Yeah... I don't really know either. He was definitely there in the morning, but[r]
-when I got home his room light was off..."[pcms]
+"Yeah... I don't really know either. He was definitely there[r]
+in the morning, but when I got home his room light was[r]
+off..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2945|
 [fc]
 [ns]Kousuke[nse]
-"I see... No response to emails either. Just worried about what Wataru is[r]
-doing."[pcms]
+"I see... No response to emails either. Just worried about[r]
+what Wataru is doing."[pcms]
 
 ;//プロップが上がる？　イミフなのでカット＠ash
 ;//[vo_ren s="ren0479"]
@@ -334,30 +345,34 @@ doing."[pcms]
 
 *2947|
 [fc]
-"I'm really happy that Ko-chan is concerned about my brother."[pcms]
+"I'm really happy that Ko-chan is concerned about my[r]
+brother."[pcms]
 
 *2948|
 [fc]
-"But, probably the change in my brother has something to do with Yuuho-chan."[pcms]
+"But, probably the change in my brother has something to do[r]
+with Yuuho-chan."[pcms]
 
 ;//そう思うと、無邪気に『仲間』と言えるコーちゃんが
 ;//急に憎くなった。
 
 *2949|
 [fc]
-"I wonder what kind of face Ko-chan would make if I said I hate Yuuho-chan for[r]
-stealing my brother's heart."[pcms]
+"I wonder what kind of face Ko-chan would make if I said I[r]
+hate Yuuho-chan for stealing my brother's heart."[pcms]
 
 *2950|
 [fc]
-"But there's also a part of me that can't bring myself to hate Yuuho-chan."[pcms]
+"But there's also a part of me that can't bring myself to[r]
+hate Yuuho-chan."[pcms]
 
 *2951|
 [fc]
 [vo_ren s="ren0480"]
 [ns]Ren[nse]
-"That's right. ...Oh, I need to change the string quickly. It's the G string[r]
-that snapped, so it's going to take some time."[pcms]
+"That's right. ...Oh, I need to change the string quickly.[r]
+It's the G string that snapped, so it's going to take some[r]
+time."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -368,40 +383,44 @@ that snapped, so it's going to take some time."[pcms]
 
 *2953|
 [fc]
-"Not wanting to think any more about my brother and Yuuho-chan, I suddenly[r]
-changed the topic. Without suspecting anything, Ko-chan sincerely apologized."[pcms]
+"Not wanting to think any more about my brother and Yuuho-[r]
+chan, I suddenly changed the topic. Without suspecting[r]
+anything, Ko-chan sincerely apologized."[pcms]
 
 *2954|
 [fc]
 [vo_ren s="ren0481"]
 [ns]Ren[nse]
-"No, it's okay. I'm sorry I couldn't help even though you came all the way here[r]
-because you were worried about my brother."[pcms]
+"No, it's okay. I'm sorry I couldn't help even though you[r]
+came all the way here because you were worried about my[r]
+brother."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2955|
 [fc]
 [ns]Kousuke[nse]
-"No, I heard music coming from the music room. I thought maybe there are things[r]
-better to ask Ren-chan before asking Wataru."[pcms]
+"No, I heard music coming from the music room. I thought[r]
+maybe there are things better to ask Ren-chan before asking[r]
+Wataru."[pcms]
 
 *2956|
 [fc]
 [vo_ren s="ren0482"]
 [ns]Ren[nse]
-"Even so, I'm sorry, Ko-chan. But what should I do? I need a workspace to change[r]
-the string..."[pcms]
+"Even so, I'm sorry, Ko-chan. But what should I do? I need a[r]
+workspace to change the string..."[pcms]
 
 *2957|
 [fc]
-"Hoping that Ko-chan would disappear from in front of me soon, I deliberately[r]
-consulted him."[pcms]
+"Hoping that Ko-chan would disappear from in front of me[r]
+soon, I deliberately consulted him."[pcms]
 
 *2958|
 [fc]
-"Ideally, for changing strings, it would be nice to have a table where I can[r]
-place the violin and such, and I want to hear the sound for tuning as well."[pcms]
+"Ideally, for changing strings, it would be nice to have a[r]
+table where I can place the violin and such, and I want to[r]
+hear the sound for tuning as well."[pcms]
 
 *2959|
 [fc]

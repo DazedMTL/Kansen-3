@@ -18,11 +18,13 @@ I felt like someone was calling out to stop me.[pcms]
 
 *2181|
 [fc]
-But I ran straight away from the shrine without looking back.[pcms]
+But I ran straight away from the shrine without looking[r]
+back.[pcms]
 
 *2182|
 [fc]
-"Ouch," or "Be careful!" It feels like I was told various things.[pcms]
+"Ouch," or "Be careful!" It feels like I was told various[r]
+things.[pcms]
 
 *2183|
 [fc]
@@ -35,21 +37,23 @@ But who cares about that.[pcms]
 
 *2185|
 [fc]
-My vision was blurred with tears, and I couldn't make sense of anything.[pcms]
+My vision was blurred with tears, and I couldn't make sense[r]
+of anything.[pcms]
 
 *2186|
 [fc]
-Leaving behind the festival music and everything else, I just wanted to run away[r]
-from that place.[pcms]
+Leaving behind the festival music and everything else, I[r]
+just wanted to run away from that place.[pcms]
 
 *2187|
 [fc]
-But... it wasn't until the crowd thinned and I stopped bumping into people that[r]
-I realized I had left Ren behind.[pcms]
+But... it wasn't until the crowd thinned and I stopped[r]
+bumping into people that I realized I had left Ren behind.[pcms]
 
 *2188|
 [fc]
-I might have run away in a rush, but everyone might be worried about me.[pcms]
+I might have run away in a rush, but everyone might be[r]
+worried about me.[pcms]
 
 *2189|
 [fc]
@@ -113,16 +117,18 @@ And to think I left Ren behind...[pcms]
 
 *2190|
 [fc]
-Maybe it would be better to go back and meet up with everyone before going home?[pcms]
+Maybe it would be better to go back and meet up with[r]
+everyone before going home?[pcms]
 
 *2191|
 [fc]
-Ren too... She's not a child anymore, so she can probably get home on her own,[r]
-but I'm still worried about her.[pcms]
+Ren too... She's not a child anymore, so she can probably[r]
+get home on her own, but I'm still worried about her.[pcms]
 
 *2192|
 [fc]
-Besides, if I go home now, I'm sure I'll only cause everyone to worry.[pcms]
+Besides, if I go home now, I'm sure I'll only cause everyone[r]
+to worry.[pcms]
 
 *2193|
 [fc]
@@ -131,7 +137,8 @@ Besides, if I go home now, I'm sure I'll only cause everyone to worry.[pcms]
 
 *2194|
 [fc]
-I spoke to myself and turned on my heel to go back the way I came.[pcms]
+I spoke to myself and turned on my heel to go back the way I[r]
+came.[pcms]
 
 *2195|
 [fc]
@@ -152,8 +159,8 @@ Yuuho racing with me on bicycles.[pcms]
 
 *2199|
 [fc]
-The tears that had stopped once began to overflow from my eyes again like a dam[r]
-had broken.[pcms]
+The tears that had stopped once began to overflow from my[r]
+eyes again like a dam had broken.[pcms]
 
 *2200|
 [fc]
@@ -165,8 +172,8 @@ I can't go back.[pcms]
 
 *2202|
 [fc]
-With a tight fist, I wiped away my tears and, with heavy steps, continued alone[r]
-on my way home.[pcms]
+With a tight fist, I wiped away my tears and, with heavy[r]
+steps, continued alone on my way home.[pcms]
 
 ;//ÅYÅFçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -191,8 +198,8 @@ on my way home.[pcms]
 
 *2204|
 [fc]
-She's not a child anymore, so she can probably get home on her own, but I'm[r]
-still worried about Ren.[pcms]
+She's not a child anymore, so she can probably get home on[r]
+her own, but I'm still worried about Ren.[pcms]
 
 *2205|
 [fc]
@@ -208,7 +215,8 @@ No, they might be standing there, laughing and arm in arm.[pcms]
 
 *2208|
 [fc]
-They might be telling everyone that they've decided to date...[pcms]
+They might be telling everyone that they've decided to[r]
+date...[pcms]
 
 *2209|
 [fc]
@@ -217,7 +225,8 @@ They might be telling everyone that they've decided to date...[pcms]
 
 *2210|
 [fc]
-I shouted loudly as if to shake off the delusions in my head.[pcms]
+I shouted loudly as if to shake off the delusions in my[r]
+head.[pcms]
 
 *2211|
 [fc]
@@ -225,7 +234,8 @@ But no matter how much I shout, my voice won't reach Yuuho.[pcms]
 
 *2212|
 [fc]
-Whether Yuuho dates that senior or not is up to her free will.[pcms]
+Whether Yuuho dates that senior or not is up to her free[r]
+will.[pcms]
 
 *2213|
 [fc]
@@ -234,13 +244,14 @@ Whether Yuuho dates that senior or not is up to her free will.[pcms]
 
 *2214|
 [fc]
-At that moment, the tears that should have stopped once again started[r]
-overflowing.[pcms]
+At that moment, the tears that should have stopped once[r]
+again started overflowing.[pcms]
 
 *2215|
 [fc]
-And pushed by those tears, scenes of Yuuho and that senior getting cozy flashed[r]
-through my mind as if I had actually seen them.[pcms]
+And pushed by those tears, scenes of Yuuho and that senior[r]
+getting cozy flashed through my mind as if I had actually[r]
+seen them.[pcms]
 
 *2216|
 [fc]
@@ -249,8 +260,9 @@ through my mind as if I had actually seen them.[pcms]
 
 *2217|
 [fc]
-If I stay still, those scenes in my mind might become reality, so I started[r]
-running towards home again as if fleeing from those delusions.[pcms]
+If I stay still, those scenes in my mind might become[r]
+reality, so I started running towards home again as if[r]
+fleeing from those delusions.[pcms]
 
 ;//ÅYÅFçïâÊñ 
 ;//[fadeoutbgm time=500]

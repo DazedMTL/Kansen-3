@@ -28,8 +28,8 @@
 
 *6400|
 [fc]
-Without saying anything, Yuuho tilted her head quizzically and removed her[r]
-earphones.[pcms]
+Without saying anything, Yuuho tilted her head quizzically[r]
+and removed her earphones.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -41,22 +41,24 @@ earphones.[pcms]
 
 *6402|
 [fc]
-Damn it...!!! Could it be that just now was the moment for a kiss...???[pcms]
+Damn it...!!! Could it be that just now was the moment for a[r]
+kiss...???[pcms]
 
 *6403|
 [fc]
-I realized it, but it was too late. The magical moment of our gazes meeting had[r]
-already passed, and Yuuho was just smiling brightly as usual...[pcms]
+I realized it, but it was too late. The magical moment of[r]
+our gazes meeting had already passed, and Yuuho was just[r]
+smiling brightly as usual...[pcms]
 
 *6404|
 [fc]
-I let slip the greatest chance God had given me... I am the biggest fool in[r]
-Japan...[pcms]
+I let slip the greatest chance God had given me... I am the[r]
+biggest fool in Japan...[pcms]
 
 *6405|
 [fc]
-Feeling quite downhearted, I thought to comfort Yuuho, which was my original[r]
-intention.[pcms]
+Feeling quite downhearted, I thought to comfort Yuuho, which[r]
+was my original intention.[pcms]
 
 *6406|
 [fc]
@@ -75,7 +77,8 @@ intention.[pcms]
 *6408|
 [fc]
 [ns]Wataru[nse]
-"About your family, and stuff... You've been having a tough time lately..."[pcms]
+"About your family, and stuff... You've been having a tough[r]
+time lately..."[pcms]
 
 *6409|
 [fc]
@@ -89,11 +92,13 @@ When I asked hesitantly, Yuuho looked up at the sky.[pcms]
 [fc]
 [vo_yuh s="yuho_T0050"]
 [ns]Yuuho[nse]
-"...Well, yeah. But... there's no point in worrying about it."[pcms]
+"...Well, yeah. But... there's no point in worrying about[r]
+it."[pcms]
 
 *6411|
 [fc]
-Her carefree response didn't seem to carry any sense of tragedy.[pcms]
+Her carefree response didn't seem to carry any sense of[r]
+tragedy.[pcms]
 
 *6412|
 [fc]
@@ -102,17 +107,18 @@ Her carefree response didn't seem to carry any sense of tragedy.[pcms]
 
 *6413|
 [fc]
-The sight of Yuuho acting strong in front of others but succumbing to loneliness[r]
-when alone was painful to see.[pcms]
+The sight of Yuuho acting strong in front of others but[r]
+succumbing to loneliness when alone was painful to see.[pcms]
 
 *6414|
 [fc]
-I wish she would be honest with me... It's okay to cry in front of me... Or[r]
-maybe... am I just not good enough...?[pcms]
+I wish she would be honest with me... It's okay to cry in[r]
+front of me... Or maybe... am I just not good enough...?[pcms]
 
 *6415|
 [fc]
-Not knowing what to make of the silence, Yuuho gave a bright smile.[pcms]
+Not knowing what to make of the silence, Yuuho gave a bright[r]
+smile.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -120,8 +126,9 @@ Not knowing what to make of the silence, Yuuho gave a bright smile.[pcms]
 [fc]
 [vo_yuh s="yuho_T0051"]
 [ns]Yuuho[nse]
-"...I'm sure it'll be okay, they must be doing well somewhere. Humans are pretty[r]
-tough creatures, you know. Look at Kousuke and Mizuki... heheheh"[pcms]
+"...I'm sure it'll be okay, they must be doing well[r]
+somewhere. Humans are pretty tough creatures, you know. Look[r]
+at Kousuke and Mizuki... heheheh"[pcms]
 ;//Åóç≈å„ÅAÇ≠Ç∑Ç≠Ç∑ÇÌÇÁÇ§
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -130,8 +137,8 @@ tough creatures, you know. Look at Kousuke and Mizuki... heheheh"[pcms]
 [fc]
 [vo_yuh s="yuho_T0052"]
 [ns]Yuuho[nse]
-"Even in a situation like this, those two... hehe, really, they're so[r]
-positive..."[pcms]
+"Even in a situation like this, those two... hehe, really,[r]
+they're so positive..."[pcms]
 ;//ÅóÇ®Ç©ÇµÇªÇ§Ç…
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -140,14 +147,16 @@ positive..."[pcms]
 [fc]
 [vo_yuh s="yuho_T0053"]
 [ns]Yuuho[nse]
-"I bet... while they're holding each other, they probably forget that the world[r]
-might be on the brink of destruction..."[pcms]
+"I bet... while they're holding each other, they probably[r]
+forget that the world might be on the brink of[r]
+destruction..."[pcms]
 ;//ÅóÇøÇÂÇ¡Ç∆Ç‚Ç≥ÇµÇ≠
 
 *6419|
 [fc]
-Yuuho's eyes were gentle as she chuckled. It was as if she was blessing Kousuke[r]
-and Mizuki, yet also as if she was watching the end of the world...[pcms]
+Yuuho's eyes were gentle as she chuckled. It was as if she[r]
+was blessing Kousuke and Mizuki, yet also as if she was[r]
+watching the end of the world...[pcms]
 
 ;//se003ÅEågë—ÇÃíÖêMâπ
 [se buf=0 storage="se003" loop=true]
@@ -159,8 +168,8 @@ and Mizuki, yet also as if she was watching the end of the world...[pcms]
 
 *6421|
 [fc]
-Suddenly, my phone rang and I jumped in surprise. When I checked, it was a call[r]
-from Kousuke's number.[pcms]
+Suddenly, my phone rang and I jumped in surprise. When I[r]
+checked, it was a call from Kousuke's number.[pcms]
 
 ;//se095ÅEóIîøÇÃågë—íÖêMâπ
 ;//[se buf=1 storage="se095" loop=true]
@@ -209,7 +218,8 @@ Kousuke's scream flowed from the phone, striking my ears.[pcms]
 *6428|
 [fc]
 [ns]Kousuke[nse]
-"The TV! The TV! It's serious right now... come over here quick!!"[pcms]
+"The TV! The TV! It's serious right now... come over here[r]
+quick!!"[pcms]
 
 *6429|
 [fc]

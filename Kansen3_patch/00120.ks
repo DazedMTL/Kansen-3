@@ -14,35 +14,38 @@
 
 *2542|
 [fc]
-Gazing at the stars through the window, I reflected on everything that happened[r]
-today.[pcms]
+Gazing at the stars through the window, I reflected on[r]
+everything that happened today.[pcms]
 
 *2543|
 [fc]
-Like the "shooting star" Tadahiko likened it to, Yuuho disappeared from before[r]
-my eyes.[pcms]
+Like the "shooting star" Tadahiko likened it to, Yuuho[r]
+disappeared from before my eyes.[pcms]
 
 *2544|
 [fc]
-She's no longer someone else's, but now Oshima-senpai's girlfriend.[pcms]
+She's no longer someone else's, but now Oshima-senpai's[r]
+girlfriend.[pcms]
 
 *2545|
 [fc]
-In the shock of it all, I found myself being comforted by Inori-san and ended up[r]
-having my first experience.[pcms]
+In the shock of it all, I found myself being comforted by[r]
+Inori-san and ended up having my first experience.[pcms]
 
 *2546|
 [fc]
-I even feel like I've started walking a completely different path from Yuuho.[pcms]
+I even feel like I've started walking a completely different[r]
+path from Yuuho.[pcms]
 
 *2547|
 [fc]
-Although I feel a bit bad for Tadahiko, having SEX with Inori-san, the person I[r]
-admired, is like a dream come true.[pcms]
+Although I feel a bit bad for Tadahiko, having SEX with[r]
+Inori-san, the person I admired, is like a dream come true.[pcms]
 
 *2548|
 [fc]
-But somewhere in my heart, I can't help but think... if it had been Yuuho...[pcms]
+But somewhere in my heart, I can't help but think... if it[r]
+had been Yuuho...[pcms]
 
 ;//BGÅFêØãÛ
 [bg storage="BGS008c"][trans_c cross time=500]
@@ -50,8 +53,9 @@ But somewhere in my heart, I can't help but think... if it had been Yuuho...[pcm
 
 *2549|
 [fc]
-As I absentmindedly looked up at the stars, various thoughts swirled around in[r]
-my head until I couldn't make sense of anything.[pcms]
+As I absentmindedly looked up at the stars, various thoughts[r]
+swirled around in my head until I couldn't make sense of[r]
+anything.[pcms]
 
 *2550|
 [fc]
@@ -59,8 +63,9 @@ One thing is for sure though, it felt good.[pcms]
 
 *2551|
 [fc]
-But with feelings of regret and a sense of happiness somewhere-- it's as if[r]
-everything that happened today was all just a dream or something.[pcms]
+But with feelings of regret and a sense of happiness[r]
+somewhere-- it's as if everything that happened today was[r]
+all just a dream or something.[pcms]
 
 *2552|
 [fc]

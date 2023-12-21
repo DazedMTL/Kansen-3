@@ -22,8 +22,8 @@ And then, for a while, the two of us remained silent.[pcms]
 
 *3459|
 [fc]
-As a heavy silence began to flow between me and Jin, an ugly voice I didn't want[r]
-to hear echoed from afar.[pcms]
+As a heavy silence began to flow between me and Jin, an ugly[r]
+voice I didn't want to hear echoed from afar.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -34,8 +34,8 @@ to hear echoed from afar.[pcms]
 
 *3461|
 [fc]
-Shige, who rushed into the room in a panic, shouted to Jin while repeatedly[r]
-checking the corridor behind the door.[pcms]
+Shige, who rushed into the room in a panic, shouted to Jin[r]
+while repeatedly checking the corridor behind the door.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -46,8 +46,9 @@ checking the corridor behind the door.[pcms]
 
 *3463|
 [fc]
-Jin pushed me away and headed towards the door where Shige stood, gave him some[r]
-instructions, and then both of them crouched down on either side of the door.[pcms]
+Jin pushed me away and headed towards the door where Shige[r]
+stood, gave him some instructions, and then both of them[r]
+crouched down on either side of the door.[pcms]
 
 *3464|
 [fc]
@@ -55,13 +56,13 @@ Both of them aimed their guns at the same time.[pcms]
 
 *3465|
 [fc]
-The quiet space was enveloped in tension, as if frozen by the cold atmosphere[r]
-unique to Jin and the guns they held.[pcms]
+The quiet space was enveloped in tension, as if frozen by[r]
+the cold atmosphere unique to Jin and the guns they held.[pcms]
 
 *3466|
 [fc]
-I couldn't do anything but hide in the shadow of a bookshelf, staring only at[r]
-the door.[pcms]
+I couldn't do anything but hide in the shadow of a[r]
+bookshelf, staring only at the door.[pcms]
 
 ;//se050・コンクリートの上の足音（一人）
 [se buf=0 storage="se050"]
@@ -79,12 +80,13 @@ the door.[pcms]
 
 *3468|
 [fc]
-The only sound that resonated in the silent space was that of the doorknob being[r]
-turned.[pcms]
+The only sound that resonated in the silent space was that[r]
+of the doorknob being turned.[pcms]
 
 *3469|
 [fc]
-At that sound, Shige tried to stand up, but I could see Jin stopping him.[pcms]
+At that sound, Shige tried to stand up, but I could see Jin[r]
+stopping him.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -96,8 +98,8 @@ At that sound, Shige tried to stand up, but I could see Jin stopping him.[pcms]
 
 *3471|
 [fc]
-Jin, Shige, and I, none of us made a sound; only the noise of the doorknob[r]
-turning filled the room.[pcms]
+Jin, Shige, and I, none of us made a sound; only the noise[r]
+of the doorknob turning filled the room.[pcms]
 
 *3472|
 [fc]
@@ -111,16 +113,18 @@ A familiar voice...? But who?[pcms]
 
 *3474|
 [fc]
-I could hear someone talking in the corridor beyond the door.[pcms]
+I could hear someone talking in the corridor beyond the[r]
+door.[pcms]
 
 *3475|
 [fc]
-Reacting to that voice, Shige looked at Jin with his gun shaking, waiting for[r]
-instructions.[pcms]
+Reacting to that voice, Shige looked at Jin with his gun[r]
+shaking, waiting for instructions.[pcms]
 
 *3476|
 [fc]
-Jin shook his head slightly and then looked back at the door.[pcms]
+Jin shook his head slightly and then looked back at the[r]
+door.[pcms]
 
 ;//se005・木製ドアのノック音（一般住宅）
 [se buf=0 storage="se005"]
@@ -145,8 +149,8 @@ Jin shook his head slightly and then looked back at the door.[pcms]
 
 *3479|
 [fc]
-I was becoming unable to bear the tension of the moment and almost responded[r]
-reflexively.[pcms]
+I was becoming unable to bear the tension of the moment and[r]
+almost responded reflexively.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -161,13 +165,14 @@ Noticing that, Jin glared at me.[pcms]
 
 *3482|
 [fc]
-Somehow holding back my voice, I turned my gaze and ears back to the door, where[r]
-I could hear voices talking outside, followed by footsteps receding.[pcms]
+Somehow holding back my voice, I turned my gaze and ears[r]
+back to the door, where I could hear voices talking outside,[r]
+followed by footsteps receding.[pcms]
 
 *3483|
 [fc]
-After a while, Jin pressed his ear against the door to check outside, then[r]
-suddenly stood up and walked towards me.[pcms]
+After a while, Jin pressed his ear against the door to check[r]
+outside, then suddenly stood up and walked towards me.[pcms]
 
 *3484|
 [fc]
@@ -178,8 +183,8 @@ Following him like a shadow was Shige.[pcms]
 *3485|
 [fc]
 [ns]Jin[nse]
-"Voices of a woman and a kid... But they managed to get in despite the lock. Who[r]
-are they?"[pcms]
+"Voices of a woman and a kid... But they managed to get in[r]
+despite the lock. Who are they?"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -197,12 +202,14 @@ are they?"[pcms]
 
 *3488|
 [fc]
-Shige's expression was trembling with anger as he mentioned the blonde woman.[pcms]
+Shige's expression was trembling with anger as he mentioned[r]
+the blonde woman.[pcms]
 
 *3489|
 [fc]
-I also remembered something upon hearing Shige's words. On the first floor here,[r]
-Shige had been kicked down by a blonde woman.[pcms]
+I also remembered something upon hearing Shige's words. On[r]
+the first floor here, Shige had been kicked down by a blonde[r]
+woman.[pcms]
 
 *3490|
 [fc]
@@ -210,8 +217,8 @@ And... she was supposed to be with Kousuke and the others.[pcms]
 
 *3491|
 [fc]
-I couldn't hear well because of the door, but could that familiar voice possibly[r]
-be Kousuke?[pcms]
+I couldn't hear well because of the door, but could that[r]
+familiar voice possibly be Kousuke?[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -223,7 +230,8 @@ be Kousuke?[pcms]
 
 *3493|
 [fc]
-If I were to think optimistically, Kousuke would be safe... and also nearby.[pcms]
+If I were to think optimistically, Kousuke would be safe...[r]
+and also nearby.[pcms]
 
 *3494|
 [fc]

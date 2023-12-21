@@ -24,12 +24,14 @@
 
 *4642|
 [fc]
-A passageway just wide enough for a person to pass through between buildings.[pcms]
+A passageway just wide enough for a person to pass through[r]
+between buildings.[pcms]
 
 *4643|
 [fc]
-In preparation for the success of our plan, we went outside to check the safety[r]
-of the small door that connects the passageway and Utagawa Street.[pcms]
+In preparation for the success of our plan, we went outside[r]
+to check the safety of the small door that connects the[r]
+passageway and Utagawa Street.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -53,8 +55,8 @@ of the small door that connects the passageway and Utagawa Street.[pcms]
 
 *4645|
 [fc]
-As if to drown out our voices, fighter jets flew leisurely through the sky.[r]
-They're probably searching for survivors.[pcms]
+As if to drown out our voices, fighter jets flew leisurely[r]
+through the sky. They're probably searching for survivors.[pcms]
 
 *4646|
 [fc]
@@ -100,13 +102,14 @@ I wonder if they'll spot us from the sky...[pcms]
 
 *4652|
 [fc]
-While we were nervously frolicking, Mizuki remained awkwardly looking down. I[r]
-felt a bit uncomfortable seeing her downcast expression.[pcms]
+While we were nervously frolicking, Mizuki remained[r]
+awkwardly looking down. I felt a bit uncomfortable seeing[r]
+her downcast expression.[pcms]
 
 *4653|
 [fc]
-Perhaps sensing my feelings, or maybe Ren felt the same way. Ren chose just the[r]
-right moment to speak to Mizuki.[pcms]
+Perhaps sensing my feelings, or maybe Ren felt the same way.[r]
+Ren chose just the right moment to speak to Mizuki.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -118,8 +121,8 @@ right moment to speak to Mizuki.[pcms]
 
 *4655|
 [fc]
-Ren seemed to release all her pent-up emotions as she jumped into Mizuki's arms[r]
-with genuine joy.[pcms]
+Ren seemed to release all her pent-up emotions as she jumped[r]
+into Mizuki's arms with genuine joy.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -127,13 +130,13 @@ with genuine joy.[pcms]
 [fc]
 [vo_miz s="mizuki0147"]
 [ns]Mizuki[nse]
-"...Ah, thank you... I'm happy too... You're still so slender and doll-like...[r]
-hehe..."[pcms]
+"...Ah, thank you... I'm happy too... You're still so[r]
+slender and doll-like... hehe..."[pcms]
 
 *4657|
 [fc]
-Whether out of embarrassment or confusion, Mizuki stumbled over her words a bit[r]
-as she hugged Ren back.[pcms]
+Whether out of embarrassment or confusion, Mizuki stumbled[r]
+over her words a bit as she hugged Ren back.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -149,8 +152,8 @@ as she hugged Ren back.[pcms]
 
 *4659|
 [fc]
-It's really like old times. It's as if the Mizuki from back then has come back.[r]
-But, Mizuki...[pcms]
+It's really like old times. It's as if the Mizuki from back[r]
+then has come back. But, Mizuki...[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -164,8 +167,9 @@ But, Mizuki...[pcms]
 [fc]
 [vo_yuh s="yuho1431"]
 [ns]Yuuho[nse]
-"...Because... Mizuki-chan, you suddenly disappeared. We were all worried about[r]
-you? Not just me... Wataru, Ren-chan... and Kousuke too..."[pcms]
+"...Because... Mizuki-chan, you suddenly disappeared. We[r]
+were all worried about you? Not just me... Wataru, Ren-[r]
+chan... and Kousuke too..."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -181,22 +185,24 @@ Mizuki averted her face and looked down.[pcms]
 
 *4664|
 [fc]
-But I want to make it clear. The reason why Mizuki disappeared from our lives.[pcms]
+But I want to make it clear. The reason why Mizuki[r]
+disappeared from our lives.[pcms]
 
 *4665|
 [fc]
 [vo_yuh s="yuho1432"]
 [ns]Yuuho[nse]
-"You quit school, left home, changed your phone number and email address... We[r]
-couldn't contact you at all. But we've been searching for you all this time, you[r]
-know?"[pcms]
+"You quit school, left home, changed your phone number and[r]
+email address... We couldn't contact you at all. But we've[r]
+been searching for you all this time, you know?"[pcms]
 
 *4666|
 [fc]
 [vo_yuh s="yuho1433"]
 [ns]Yuuho[nse]
-"But to think that you were right next to where we always hung out... I was so[r]
-surprised... That means, Mizuki-chan, you were avoiding us, weren't you?"[pcms]
+"But to think that you were right next to where we always[r]
+hung out... I was so surprised... That means, Mizuki-chan,[r]
+you were avoiding us, weren't you?"[pcms]
 
 *4667|
 [fc]
@@ -208,8 +214,9 @@ surprised... That means, Mizuki-chan, you were avoiding us, weren't you?"[pcms]
 [fc]
 [vo_yuh s="yuho1434"]
 [ns]Yuuho[nse]
-"That's terrible! We've been together since we were little and never kept[r]
-secrets from each other! What happened? Hey, Mizuki-chan!?"[pcms]
+"That's terrible! We've been together since we were little[r]
+and never kept secrets from each other! What happened? Hey,[r]
+Mizuki-chan!?"[pcms]
 
 *4669|
 [fc]
@@ -224,14 +231,14 @@ secrets from each other! What happened? Hey, Mizuki-chan!?"[pcms]
 [fc]
 [vo_ren s="ren1299"]
 [ns]Ren[nse]
-"Ko-chan was really down too... To make it easier to find Mizuki-chan, he cut[r]
-back on his part-time jobs and even started volunteering for the neighborhood[r]
-watch..."[pcms]
+"Ko-chan was really down too... To make it easier to find[r]
+Mizuki-chan, he cut back on his part-time jobs and even[r]
+started volunteering for the neighborhood watch..."[pcms]
 
 *4671|
 [fc]
-Mizuki listened with tears in her eyes, her face still turned down as Ren and I[r]
-pressed on.[pcms]
+Mizuki listened with tears in her eyes, her face still[r]
+turned down as Ren and I pressed on.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -239,8 +246,9 @@ pressed on.[pcms]
 [fc]
 [vo_ren s="ren1300"]
 [ns]Ren[nse]
-"I don't know what kind of relationship you have with that person named Jin...[r]
-But talk to Ko-chan later. He'll be happy for sure..."[pcms]
+"I don't know what kind of relationship you have with that[r]
+person named Jin... But talk to Ko-chan later. He'll be[r]
+happy for sure..."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k2"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -255,9 +263,9 @@ But talk to Ko-chan later. He'll be happy for sure..."[pcms]
 [fc]
 [vo_yuh s="yuho1435"]
 [ns]Yuuho[nse]
-"It's hard to forgive you for worrying everyone... and for not considering[r]
-Kousuke's feelings. But I'm... really happy to see you again! Mizuki-chan! Thank[r]
-goodness!"[pcms]
+"It's hard to forgive you for worrying everyone... and for[r]
+not considering Kousuke's feelings. But I'm... really happy[r]
+to see you again! Mizuki-chan! Thank goodness!"[pcms]
 
 *4675|
 [fc]
@@ -276,9 +284,10 @@ I hugged Mizuki just like Ren did and cried out loud.[pcms]
 [fc]
 [vo_miz s="mizuki0153"]
 [ns]Mizuki[nse]
-"Thank you... Thank you, Yuuho... Ren-chan. I'm really sorry for worrying you...[r]
-sniff... I can't quite explain the reason yet but when the time comes, I'll[r]
-definitely tell you... sniff"[pcms]
+"Thank you... Thank you, Yuuho... Ren-chan. I'm really sorry[r]
+for worrying you... sniff... I can't quite explain the[r]
+reason yet but when the time comes, I'll definitely tell[r]
+you... sniff"[pcms]
 ;//Åóó‹ê∫
 
 *4678|
@@ -297,12 +306,13 @@ We hugged each other and cried for a while.[pcms]
 
 *4680|
 [fc]
-Then, without anyone starting it, we let go of our embrace and looked at each[r]
-other's faces.[pcms]
+Then, without anyone starting it, we let go of our embrace[r]
+and looked at each other's faces.[pcms]
 
 *4681|
 [fc]
-In front of us were Ren-chan and Mizuki's tear-streaked smiling faces.[pcms]
+In front of us were Ren-chan and Mizuki's tear-streaked[r]
+smiling faces.[pcms]
 
 *4682|
 [fc]
@@ -312,8 +322,9 @@ The same smiles as before, unchanged.[pcms]
 [fc]
 [vo_yuh s="yuho1438"]
 [ns]Yuuho[nse]
-"Sniff... It's okay about everything up until now... From now on, let's do our[r]
-best with what we can do... okay? Mizuki-chan..."[pcms]
+"Sniff... It's okay about everything up until now... From[r]
+now on, let's do our best with what we can do... okay?[r]
+Mizuki-chan..."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -321,7 +332,8 @@ best with what we can do... okay? Mizuki-chan..."[pcms]
 [fc]
 [vo_miz s="mizuki0154"]
 [ns]Mizuki[nse]
-"Yeah... Oh, that reminds me... Ren-chan, did you apply the UV cream?"[pcms]
+"Yeah... Oh, that reminds me... Ren-chan, did you apply the[r]
+UV cream?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -329,8 +341,9 @@ best with what we can do... okay? Mizuki-chan..."[pcms]
 [fc]
 [vo_ren s="ren1301"]
 [ns]Ren[nse]
-"It's okay. I just got it from the drugstore. But I haven't applied it yet. Can[r]
-you do it later? Mizuki-chan. It's at the depot we're heading to now..."[pcms]
+"It's okay. I just got it from the drugstore. But I haven't[r]
+applied it yet. Can you do it later? Mizuki-chan. It's at[r]
+the depot we're heading to now..."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -345,11 +358,13 @@ you do it later? Mizuki-chan. It's at the depot we're heading to now..."[pcms]
 
 *4687|
 [fc]
-Thank goodness... It's Mizuki. The same Mizuki as before has returned to us.[pcms]
+Thank goodness... It's Mizuki. The same Mizuki as before has[r]
+returned to us.[pcms]
 
 *4688|
 [fc]
-She remembered Ren-chan. The only thing that changed was her appearance...[pcms]
+She remembered Ren-chan. The only thing that changed was her[r]
+appearance...[pcms]
 
 *4689|
 [fc]

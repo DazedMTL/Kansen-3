@@ -58,12 +58,13 @@ Not just me, everyone fell silent.[pcms]
 
 *3753|
 [fc]
-Knowing that there were no other options left, I couldn't find anything to say.[pcms]
+Knowing that there were no other options left, I couldn't[r]
+find anything to say.[pcms]
 
 *3754|
 [fc]
-Seeing this, Jin-san seemed to interpret it as agreement and turned his back to[r]
-us, about to walk away.[pcms]
+Seeing this, Jin-san seemed to interpret it as agreement and[r]
+turned his back to us, about to walk away.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -87,7 +88,8 @@ But then, Jin-san's feet came to a sudden halt.[pcms]
 
 *3758|
 [fc]
-When I looked, Yuuho was standing at the entrance of the dome.[pcms]
+When I looked, Yuuho was standing at the entrance of the[r]
+dome.[pcms]
 
 *3759|
 [fc]
@@ -96,8 +98,8 @@ When I looked, Yuuho was standing at the entrance of the dome.[pcms]
 
 *3760|
 [fc]
-As if she knew what we were all thinking... Yuuho, who had changed into her[r]
-uniform at some point, was there.[pcms]
+As if she knew what we were all thinking... Yuuho, who had[r]
+changed into her uniform at some point, was there.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b33"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -110,20 +112,20 @@ uniform at some point, was there.[pcms]
 
 *3762|
 [fc]
-While her words trailed off, Yuuho spoke to me as if squeezing the voice from[r]
-her throat.[pcms]
+While her words trailed off, Yuuho spoke to me as if[r]
+squeezing the voice from her throat.[pcms]
 
 *3763|
 [fc]
 [vo_yuh s="yuho_B0012"]
 [ns]Yuuho[nse]
-"I wanted to... say a final goodbye... So I came... While I still can... be[r]
-myself..."[pcms]
+"I wanted to... say a final goodbye... So I came... While I[r]
+still can... be myself..."[pcms]
 
 *3764|
 [fc]
-Her eyes were still bright red, but upon closer inspection, they were clearly[r]
-focused on me.[pcms]
+Her eyes were still bright red, but upon closer inspection,[r]
+they were clearly focused on me.[pcms]
 
 *3765|
 [fc]
@@ -139,8 +141,8 @@ focused on me.[pcms]
 
 *3767|
 [fc]
-As we tried to rush over, Yuuho held us back by pushing out her hands in front[r]
-of her.[pcms]
+As we tried to rush over, Yuuho held us back by pushing out[r]
+her hands in front of her.[pcms]
 
 ;[evcg storage="EV014f"][trans_c cross time=300]
 [ChrSetEx layer=5 chbase="yuho_b34"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -157,8 +159,8 @@ The words she told us made us catch our breath.[pcms]
 
 *3770|
 [fc]
-Outside... You don't mean outside the building!? You're going out into a city[r]
-filled with infected people!?[pcms]
+Outside... You don't mean outside the building!? You're[r]
+going out into a city filled with infected people!?[pcms]
 
 *3771|
 [fc]
@@ -172,7 +174,8 @@ filled with infected people!?[pcms]
 [fc]
 [vo_yuh s="yuho_B0014"]
 [ns]Yuuho[nse]
-"To have someone... kill me... That's such a heavy burden... I can't do that..."[pcms]
+"To have someone... kill me... That's such a heavy burden...[r]
+I can't do that..."[pcms]
 
 *3773|
 [fc]
@@ -185,13 +188,14 @@ Yuuho slowly shook her head.[pcms]
 
 *3775|
 [fc]
-She doesn't want to burden anyone with the guilt of 'having killed' her, so[r]
-she's saying she'll go out into the city alone... Is that it?[pcms]
+She doesn't want to burden anyone with the guilt of 'having[r]
+killed' her, so she's saying she'll go out into the city[r]
+alone... Is that it?[pcms]
 
 *3776|
 [fc]
-Why, Yuuho! Why can you be so considerate of others at a time like this when[r]
-you're on the brink of death...!?[pcms]
+Why, Yuuho! Why can you be so considerate of others at a[r]
+time like this when you're on the brink of death...!?[pcms]
 
 *3777|
 [fc]
@@ -204,20 +208,21 @@ I could no longer hold back my tears at her kindness.[pcms]
 [fc]
 [vo_yuh s="yuho_B0015"]
 [ns]Yuuho[nse]
-"And besides... maybe, just maybe, they'll find a cure... So I'm going to... try[r]
-hard... and survive a bit longer..."[pcms]
+"And besides... maybe, just maybe, they'll find a cure... So[r]
+I'm going to... try hard... and survive a bit longer..."[pcms]
 
 *3779|
 [fc]
 [vo_yuh s="yuho_B0016"]
 [ns]Yuuho[nse]
-"There are many others outside... just like me... And maybe I can help... find[r]
-my dad and mom..."[pcms]
+"There are many others outside... just like me... And maybe[r]
+I can help... find my dad and mom..."[pcms]
 
 *3780|
 [fc]
-With a cute giggle and sticking out her tongue playfully, Yuuho tried to lighten[r]
-the mood for us who stood there speechless.[pcms]
+With a cute giggle and sticking out her tongue playfully,[r]
+Yuuho tried to lighten the mood for us who stood there[r]
+speechless.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b34"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -235,20 +240,21 @@ the mood for us who stood there speechless.[pcms]
 
 *3782|
 [fc]
-Turning her back to us, Yuuho staggered down towards the lower floors.[pcms]
+Turning her back to us, Yuuho staggered down towards the[r]
+lower floors.[pcms]
 
 *3783|
 [fc]
-Faced with such a shocking reality, all of us were delayed in chasing after[r]
-Yuuho.[pcms]
+Faced with such a shocking reality, all of us were delayed[r]
+in chasing after Yuuho.[pcms]
 
 [bg storage="BG08e"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
 
 *3784|
 [fc]
-By the time we finally caught up to her, Yuuho had already reached the entrance[r]
-of the LASER.[pcms]
+By the time we finally caught up to her, Yuuho had already[r]
+reached the entrance of the LASER.[pcms]
 
 ;mm追加
 [bgm storage="BGM17"]
@@ -267,8 +273,8 @@ of the LASER.[pcms]
 
 *3786|
 [fc]
-Ren reached out both hands towards Yuuho and cried out. But Yuuho just smiled[r]
-back warmly.[pcms]
+Ren reached out both hands towards Yuuho and cried out. But[r]
+Yuuho just smiled back warmly.[pcms]
 
 *3787|
 [fc]
@@ -300,8 +306,9 @@ Then Yuuho turned to face Kousuke and Mizuki.[pcms]
 
 *3792|
 [fc]
-Holding Mizuki's shoulders as she covered her face and sobbed uncontrollably,[r]
-Kousuke rubbed his nose and looked down.[pcms]
+Holding Mizuki's shoulders as she covered her face and[r]
+sobbed uncontrollably, Kousuke rubbed his nose and looked[r]
+down.[pcms]
 
 *3793|
 [fc]
@@ -317,8 +324,8 @@ Next, Yuuho turned to face Senior Maruko.[pcms]
 
 *3795|
 [fc]
-The senior opened her mouth as if to say something in return but then[r]
-straightened her expression and saluted.[pcms]
+The senior opened her mouth as if to say something in return[r]
+but then straightened her expression and saluted.[pcms]
 
 *3796|
 [fc]
@@ -328,8 +335,8 @@ straightened her expression and saluted.[pcms]
 
 *3797|
 [fc]
-And then Yuuho bowed to Jin-san and the others who had been watching us from a[r]
-distance.[pcms]
+And then Yuuho bowed to Jin-san and the others who had been[r]
+watching us from a distance.[pcms]
 
 *3798|
 [fc]
@@ -349,8 +356,8 @@ distance.[pcms]
 
 *3801|
 [fc]
-Jin-san silently nodded in response, and Shigeyoshi turned away with a sulky[r]
-look.[pcms]
+Jin-san silently nodded in response, and Shigeyoshi turned[r]
+away with a sulky look.[pcms]
 
 *3802|
 [fc]
@@ -366,8 +373,8 @@ Finally, Yuuho stared intently into my eyes.[pcms]
 
 *3804|
 [fc]
-The moment our gazes intertwined, a smile bloomed across Yuuho's face like[r]
-petals opening.[pcms]
+The moment our gazes intertwined, a smile bloomed across[r]
+Yuuho's face like petals opening.[pcms]
 
 
 *3805|
@@ -390,8 +397,9 @@ We decided to see off Yuuho as she set out on her journey.[pcms]
 
 *3808|
 [fc]
-Since we couldn't open the sealed glass doors, we decided to raise the shutter[r]
-at the delivery entrance facing Udagawa Street and send Yuuho off from there.[pcms]
+Since we couldn't open the sealed glass doors, we decided to[r]
+raise the shutter at the delivery entrance facing Udagawa[r]
+Street and send Yuuho off from there.[pcms]
 
 ;//block:A005
 
@@ -412,13 +420,15 @@ at the delivery entrance facing Udagawa Street and send Yuuho off from there.[pc
 
 *3810|
 [fc]
-Once Yuuho stepped outside, she raised her hands, stretched with a "uhn," and[r]
-turned her face to the sky, savoring the sunlight with her whole body.[pcms]
+Once Yuuho stepped outside, she raised her hands, stretched[r]
+with a "uhn," and turned her face to the sky, savoring the[r]
+sunlight with her whole body.[pcms]
 
 *3811|
 [fc]
-Since everyone else decided to see her off from inside the shutter, only I stood[r]
-close to the delivery entrance, intently watching Yuuho.[pcms]
+Since everyone else decided to see her off from inside the[r]
+shutter, only I stood close to the delivery entrance,[r]
+intently watching Yuuho.[pcms]
 
 ;[evcg storage="EV014f"][trans_c cross time=300]
 
@@ -430,7 +440,8 @@ close to the delivery entrance, intently watching Yuuho.[pcms]
 
 *3813|
 [fc]
-Yuuho looked around the street and nodded as if she was satisfied.[pcms]
+Yuuho looked around the street and nodded as if she was[r]
+satisfied.[pcms]
 
 *3814|
 [fc]
@@ -439,8 +450,8 @@ Yuuho looked around the street and nodded as if she was satisfied.[pcms]
 
 *3815|
 [fc]
-I handed over Yuuho's bag, which I had packed with as much food and drink as[r]
-possible.[pcms]
+I handed over Yuuho's bag, which I had packed with as much[r]
+food and drink as possible.[pcms]
 
 [evcg storage="EV014e"][trans_c cross time=300]
 
@@ -459,8 +470,9 @@ Yuuho chuckled and winked at me.[pcms]
 [fc]
 [vo_yuh s="yuho_B0027"]
 [ns]Yuuho[nse]
-"I want to give you a kiss of gratitude... but... I'll definitely... get better[r]
-and come back... So it's a rain check, okay?"[pcms]
+"I want to give you a kiss of gratitude... but... I'll[r]
+definitely... get better and come back... So it's a rain[r]
+check, okay?"[pcms]
 
 *3819|
 [fc]
@@ -477,8 +489,8 @@ I took a step towards Yuuho.[pcms]
 
 *3821|
 [fc]
-At the very least, I wanted to embrace her at the end. I didn't want to let[r]
-Yuuho go with such a lonely feeling.[pcms]
+At the very least, I wanted to embrace her at the end. I[r]
+didn't want to let Yuuho go with such a lonely feeling.[pcms]
 
 
 ;mm追加
@@ -514,12 +526,13 @@ A sharp scream pierced my ears.[pcms]
 
 *3825|
 [fc]
-Yuuho stepped back from me, hugging herself as if to comfort her own body,[r]
-smiling sadly.[pcms]
+Yuuho stepped back from me, hugging herself as if to comfort[r]
+her own body, smiling sadly.[pcms]
 
 *3826|
 [fc]
-Yuuho... she must be in so much pain... She's desperately trying to stay sane...[pcms]
+Yuuho... she must be in so much pain... She's desperately[r]
+trying to stay sane...[pcms]
 
 [evcg storage="EV014f"][trans_c cross time=300]
 
@@ -527,7 +540,8 @@ Yuuho... she must be in so much pain... She's desperately trying to stay sane...
 [fc]
 [vo_yuh s="yuho_B0030"]
 [ns]Yuuho[nse]
-"Sorry... it's almost... really bad... We'll talk... another time..."[pcms]
+"Sorry... it's almost... really bad... We'll talk... another[r]
+time..."[pcms]
 
 [evcg storage="EV014e"][trans_c cross time=300]
 
@@ -551,8 +565,8 @@ Yuuho... she must be in so much pain... She's desperately trying to stay sane...
 
 *3830|
 [fc]
-I wanted to pinky promise as a sign of our commitment. I wanted to seal our[r]
-verbal promise with a kiss.[pcms]
+I wanted to pinky promise as a sign of our commitment. I[r]
+wanted to seal our verbal promise with a kiss.[pcms]
 
 *3831|
 [fc]
@@ -576,7 +590,8 @@ But... I can't let Yuuho suffer any more than this...[pcms]
 
 *3833|
 [fc]
-Yuuho looked up at the sky once more, then suddenly turned her back to me.[pcms]
+Yuuho looked up at the sky once more, then suddenly turned[r]
+her back to me.[pcms]
 
 ;[evcg storage="EV014e"][trans_c cross time=300]
 
@@ -590,11 +605,13 @@ Yuuho looked up at the sky once more, then suddenly turned her back to me.[pcms]
 
 *3835|
 [fc]
-She walked towards Yotsubase Town, cheerfully waving her hand.[pcms]
+She walked towards Yotsubase Town, cheerfully waving her[r]
+hand.[pcms]
 
 *3836|
 [fc]
-Her steps were unsteady, as if she might fall over at any moment.[pcms]
+Her steps were unsteady, as if she might fall over at any[r]
+moment.[pcms]
 
 *3837|
 [fc]
@@ -618,8 +635,8 @@ Her steps were unsteady, as if she might fall over at any moment.[pcms]
 
 *3839|
 [fc]
-When I called out to her, Yuuho looked back over her shoulder and waved at me[r]
-with her usual smile.[pcms]
+When I called out to her, Yuuho looked back over her[r]
+shoulder and waved at me with her usual smile.[pcms]
 
 *3840|
 [fc]
@@ -638,8 +655,9 @@ with her usual smile.[pcms]
 
 *3842|
 [fc]
-Yuuho's figure was getting smaller and smaller. With each call, her voice that[r]
-responded back also became fainter and more distant.[pcms]
+Yuuho's figure was getting smaller and smaller. With each[r]
+call, her voice that responded back also became fainter and[r]
+more distant.[pcms]
 
 *3843|
 [fc]
@@ -648,8 +666,8 @@ responded back also became fainter and more distant.[pcms]
 
 *3844|
 [fc]
-Her figure was almost out of sight, but I felt like I could hear Yuuho's faint[r]
-voice carried by the wind.[pcms]
+Her figure was almost out of sight, but I felt like I could[r]
+hear Yuuho's faint voice carried by the wind.[pcms]
 
 *3845|
 [fc]
@@ -658,8 +676,8 @@ voice carried by the wind.[pcms]
 
 *3846|
 [fc]
-Actually... we were told not to shout because it attracts the infected, but I[r]
-couldn't help it.[pcms]
+Actually... we were told not to shout because it attracts[r]
+the infected, but I couldn't help it.[pcms]
 
 *3847|
 [fc]
@@ -667,8 +685,8 @@ But I couldn't hold back, and I kept shouting for Yuuho.[pcms]
 
 *3848|
 [fc]
-Because of that, infected people started to appear from various places on the[r]
-street, slowly approaching us.[pcms]
+Because of that, infected people started to appear from[r]
+various places on the street, slowly approaching us.[pcms]
 
 
 
@@ -676,8 +694,9 @@ street, slowly approaching us.[pcms]
 *3849|
 [fc]
 [ns]Kousuke[nse]
-"Wataru----! Wataru! Come back!!" The loading bay shutter began to close, and[r]
-Kousuke was frantically waving his arms from inside.[pcms]
+"Wataru----! Wataru! Come back!!" The loading bay shutter[r]
+began to close, and Kousuke was frantically waving his arms[r]
+from inside.[pcms]
 
 *3850|
 [fc]
@@ -793,8 +812,8 @@ I kicked off the asphalt and started running![pcms]
 [fc]
 [vo_ren s="ren_B0004"]
 [ns]Ren[nse]
-I could hear everyone's voices of surprise behind me, but without replying, I[r]
-kept running forward.[pcms]
+I could hear everyone's voices of surprise behind me, but[r]
+without replying, I kept running forward.[pcms]
 
 ;//キャラ消し
 ;[chara_int][trans_c cross time=150]
@@ -803,8 +822,8 @@ kept running forward.[pcms]
 
 *3856|
 [fc]
-Sorry... everyone. I can't go back. I just... I just couldn't bear to let Yuuho[r]
-go alone...[pcms]
+Sorry... everyone. I can't go back. I just... I just[r]
+couldn't bear to let Yuuho go alone...[pcms]
 
 *3857|
 [fc]
@@ -817,8 +836,9 @@ go alone...[pcms]
 *3858|
 [fc]
 [ns]Wataru[nse]
-Yuuho's figure, which had been getting farther away, was quickly getting closer.[r]
-Her small back was hunched over, walking forlornly with a trudging step.[pcms]
+Yuuho's figure, which had been getting farther away, was[r]
+quickly getting closer. Her small back was hunched over,[r]
+walking forlornly with a trudging step.[pcms]
 
 *3859|
 [fc]
@@ -827,8 +847,8 @@ Her small back was hunched over, walking forlornly with a trudging step.[pcms]
 *3860|
 [fc]
 [ns]Wataru[nse]
-At my voice, Yuuho flinched and turned around, her eyes wide as if she couldn't[r]
-believe it.[pcms]
+At my voice, Yuuho flinched and turned around, her eyes wide[r]
+as if she couldn't believe it.[pcms]
 
 *3861|
 [fc]
@@ -854,8 +874,8 @@ Finally catching up to Yuuho, I was panting heavily.[pcms]
 *3865|
 [fc]
 [ns]Wataru[nse]
-When I smiled at her, Yuuho's eyes filled with tears and she tried to back away[r]
-from me.[pcms]
+When I smiled at her, Yuuho's eyes filled with tears and she[r]
+tried to back away from me.[pcms]
 
 [evcg storage="EV013n"][trans_c cross time=300]
 
@@ -876,12 +896,13 @@ I firmly grasped the wrist of Yuuho as she tried to escape.[pcms]
 *3869|
 [fc]
 [ns]Wataru[nse]
-Without giving her a chance to reply, I pulled Yuuho's arm strongly towards me.[pcms]
+Without giving her a chance to reply, I pulled Yuuho's arm[r]
+strongly towards me.[pcms]
 
 *3870|
 [fc]
-Yuuho's body fell into my arms. I placed my hand under her chin and immediately[r]
-pressed my lips against hers.[pcms]
+Yuuho's body fell into my arms. I placed my hand under her[r]
+chin and immediately pressed my lips against hers.[pcms]
 
 *3871|
 [fc]
@@ -890,7 +911,8 @@ pressed my lips against hers.[pcms]
 *3872|
 [fc]
 [ns]Wataru[nse]
-I slipped my tongue between our touching lips and licked up Yuuho's saliva.[pcms]
+I slipped my tongue between our touching lips and licked up[r]
+Yuuho's saliva.[pcms]
 
 [evcg storage="EV013o"][trans_c cross time=300]
 
@@ -904,8 +926,8 @@ I slipped my tongue between our touching lips and licked up Yuuho's saliva.[pcms
 [fc]
 [vo_yuh s="yuho_B0038"]
 [ns]Yuuho[nse]
-The tension left Yuuho's body. She stopped resisting, leaned her weight on me,[r]
-and eventually clung to me.[pcms]
+The tension left Yuuho's body. She stopped resisting, leaned[r]
+her weight on me, and eventually clung to me.[pcms]
 
 *3875|
 [fc]
@@ -915,14 +937,14 @@ Ah... I can smell Yuuho...[pcms]
 
 *3876|
 [fc]
-With each exchange of saliva, a throbbing pain surged through my head. There was[r]
-a bit of breathlessness, but it was overwhelmed by an intense feeling of[r]
-euphoria...[pcms]
+With each exchange of saliva, a throbbing pain surged[r]
+through my head. There was a bit of breathlessness, but it[r]
+was overwhelmed by an intense feeling of euphoria...[pcms]
 
 *3877|
 [fc]
-This means I'm now... just like Yuuho, an infected person. We've truly become[r]
-companions...[pcms]
+This means I'm now... just like Yuuho, an infected person.[r]
+We've truly become companions...[pcms]
 
 ;//ホワイトアウト
 
@@ -958,11 +980,13 @@ While firmly gripping my hand back, Yuuho murmured.[pcms]
 *3883|
 [fc]
 [ns]Wataru[nse]
-We walked hand in hand into the crowd of gathering infected people.[pcms]
+We walked hand in hand into the crowd of gathering infected[r]
+people.[pcms]
 
 *3884|
 [fc]
-The whereabouts of the two after that are unknown to anyone...[pcms]
+The whereabouts of the two after that are unknown to[r]
+anyone...[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1002,8 +1026,8 @@ The whereabouts of the two after that are unknown to anyone...[pcms]
 *3886|
 [fc]
 [ns]Wataru[nse]
-I couldn't move from that spot until Yuuho's figure had completely disappeared[r]
-from sight.[pcms]
+I couldn't move from that spot until Yuuho's figure had[r]
+completely disappeared from sight.[pcms]
 
 *3887|
 [fc]
@@ -1014,11 +1038,13 @@ from sight.[pcms]
 *3888|
 [fc]
 [ns]Kousuke[nse]
-Kousuke was desperately calling for me, banging on the half-closed shutter.[pcms]
+Kousuke was desperately calling for me, banging on the half-[r]
+closed shutter.[pcms]
 
 *3889|
 [fc]
-As I started walking towards the entrance, I looked back one last time.[pcms]
+As I started walking towards the entrance, I looked back one[r]
+last time.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -1038,13 +1064,13 @@ I loved you so much, Yuuho...[pcms]
 
 *3893|
 [fc]
-But... we'll meet again, right? Next time, not in such a cruel world but in a[r]
-much better one...[pcms]
+But... we'll meet again, right? Next time, not in such a[r]
+cruel world but in a much better one...[pcms]
 
 *3894|
 [fc]
-But... we'll meet again, right? Next time, not in such a cruel world but in a[r]
-much better one...[pcms]
+But... we'll meet again, right? Next time, not in such a[r]
+cruel world but in a much better one...[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る

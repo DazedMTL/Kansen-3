@@ -38,8 +38,8 @@ All the anxiety and fear have disappeared somewhere.[pcms]
 
 *770|
 [fc]
-The joy of being united with Yuuho and the sense of liberation from all worries[r]
-fill my heart.[pcms]
+The joy of being united with Yuuho and the sense of[r]
+liberation from all worries fill my heart.[pcms]
 
 *771|
 [fc]
@@ -48,8 +48,8 @@ fill my heart.[pcms]
 
 *772|
 [fc]
-Overwhelmed by an unprecedented sense of bliss, I can't help but burst into[r]
-laughter.[pcms]
+Overwhelmed by an unprecedented sense of bliss, I can't help[r]
+but burst into laughter.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -82,8 +82,8 @@ We laughed together for a while.[pcms]
 
 *778|
 [fc]
-While rubbing her teary red eyes from laughing too much, Yuuho asks in a spoiled[r]
-tone.[pcms]
+While rubbing her teary red eyes from laughing too much,[r]
+Yuuho asks in a spoiled tone.[pcms]
 
 *779|
 [fc]
@@ -94,11 +94,13 @@ tone.[pcms]
 *780|
 [fc]
 [ns]Wataru[nse]
-"Yeah, I get it. It's true, there's nothing to be afraid of..."[pcms]
+"Yeah, I get it. It's true, there's nothing to be afraid[r]
+of..."[pcms]
 
 *781|
 [fc]
-I didn't know... that being infected could make me feel this happy.[pcms]
+I didn't know... that being infected could make me feel this[r]
+happy.[pcms]
 
 *782|
 [fc]
@@ -107,8 +109,8 @@ All the things I've been worrying about seem so foolish now.[pcms]
 *783|
 [fc]
 [ns]Wataru[nse]
-"Everyone should just get infected quickly, they'd be happy. No need to be[r]
-scared or run away."[pcms]
+"Everyone should just get infected quickly, they'd be happy.[r]
+No need to be scared or run away."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -120,8 +122,8 @@ scared or run away."[pcms]
 
 *785|
 [fc]
-We, with our generous hearts, felt that it wouldn't be right for only us to be[r]
-happy.[pcms]
+We, with our generous hearts, felt that it wouldn't be right[r]
+for only us to be happy.[pcms]
 
 *786|
 [fc]
@@ -130,8 +132,8 @@ Yes... we want to share this wonderful feeling.[pcms]
 *787|
 [fc]
 [ns]Wataru[nse]
-"But how should we tell everyone...? This is something you have to experience to[r]
-understand, right?"[pcms]
+"But how should we tell everyone...? This is something you[r]
+have to experience to understand, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e34"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -139,8 +141,8 @@ understand, right?"[pcms]
 [fc]
 [vo_yuh s="yuho_YK0107"]
 [ns]Yuuho[nse]
-"Hehehe... then, let's give them... the experience...? Let everyone... have a[r]
-taste...?"[pcms]
+"Hehehe... then, let's give them... the experience...? Let[r]
+everyone... have a taste...?"[pcms]
 
 *789|
 [fc]
@@ -148,8 +150,8 @@ Yuuho smiles mischievously with upturned eyes.[pcms]
 
 *790|
 [fc]
-Just by looking at her face, I immediately understood what method she was[r]
-suggesting to let everyone experience it.[pcms]
+Just by looking at her face, I immediately understood what[r]
+method she was suggesting to let everyone experience it.[pcms]
 
 *791|
 [fc]
@@ -184,7 +186,8 @@ Yuuho laughs happily and leans her face towards me.[pcms]
 
 *796|
 [fc]
-She teases the sensitive side of my glans with her tongue flickering.[pcms]
+She teases the sensitive side of my glans with her tongue[r]
+flickering.[pcms]
 
 *797|
 [fc]
@@ -197,17 +200,19 @@ The temptation was a bit enticing but...[pcms]
 *798|
 [fc]
 [ns]Wataru[nse]
-"No way. If we keep playing around, we'll be found and shot, right?"[pcms]
+"No way. If we keep playing around, we'll be found and shot,[r]
+right?"[pcms]
 
 *799|
 [fc]
 [ns]Wataru[nse]
-"Besides, I want to have SEX with Ren, Maruko-senpai, and Mizuki soon.[r]
-Hehehe..."[pcms]
+"Besides, I want to have SEX with Ren, Maruko-senpai, and[r]
+Mizuki soon. Hehehe..."[pcms]
 
 *800|
 [fc]
-Just imagining their bodies makes my penis twitch and quiver.[pcms]
+Just imagining their bodies makes my penis twitch and[r]
+quiver.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -215,8 +220,8 @@ Just imagining their bodies makes my penis twitch and quiver.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0110"]
 [ns]Yuuho[nse]
-"...Wataru... you pervert... you want to do it with Ren-chan...? Even though[r]
-she's your little sister, huhuhu...?"[pcms]
+"...Wataru... you pervert... you want to do it with Ren-[r]
+chan...? Even though she's your little sister, huhuhu...?"[pcms]
 
 *802|
 [fc]
@@ -236,8 +241,8 @@ she's your little sister, huhuhu...?"[pcms]
 
 *805|
 [fc]
-I'm really looking forward to Ren joining us and being happy about it. It's[r]
-becoming quite exciting.[pcms]
+I'm really looking forward to Ren joining us and being happy[r]
+about it. It's becoming quite exciting.[pcms]
 
 *806|
 [fc]
@@ -246,8 +251,8 @@ becoming quite exciting.[pcms]
 
 *807|
 [fc]
-To make them join us, we need to inject blood or bodily fluids into their[r]
-bodies...[pcms]
+To make them join us, we need to inject blood or bodily[r]
+fluids into their bodies...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e32"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -268,8 +273,8 @@ I shake my head vigorously.[pcms]
 
 *811|
 [fc]
-Why should I let other men have her when I've finally been united with my[r]
-beloved Yuuho!?[pcms]
+Why should I let other men have her when I've finally been[r]
+united with my beloved Yuuho!?[pcms]
 
 *812|
 [fc]
@@ -278,25 +283,26 @@ beloved Yuuho!?[pcms]
 
 *813|
 [fc]
-Yuuho tilts her head in thought at my vehement protest but eventually smiles[r]
-brightly.[pcms]
+Yuuho tilts her head in thought at my vehement protest but[r]
+eventually smiles brightly.[pcms]
 
 *814|
 [fc]
 [vo_yuh s="yuho_YK0113"]
 [ns]Yuuho[nse]
-"...Then... just Kousuke... okay? Not everyone else... but Kousuke is okay?[r]
-Because he's a childhood friend... right?"[pcms]
+"...Then... just Kousuke... okay? Not everyone else... but[r]
+Kousuke is okay? Because he's a childhood friend... right?"[pcms]
 
 *815|
 [fc]
 [ns]Wataru[nse]
-"I see... That's right. If I can do it with Mizuki in return. That would be[r]
-fair."[pcms]
+"I see... That's right. If I can do it with Mizuki in[r]
+return. That would be fair."[pcms]
 
 *816|
 [fc]
-"Alright, the plan is pretty much perfect! This is getting interesting!"[pcms]
+"Alright, the plan is pretty much perfect! This is getting[r]
+interesting!"[pcms]
 
 ;//ÅYçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -315,7 +321,8 @@ fair."[pcms]
 
 *819|
 [fc]
-We continued to laugh, thinking about the fun that lay ahead.[pcms]
+We continued to laugh, thinking about the fun that lay[r]
+ahead.[pcms]
 
 ;//bgmí‚é~
 [fadeoutbgm time=500]

@@ -26,7 +26,8 @@
 
 *395|
 [fc]
-"Through the building's windows, I can see figures scuffling."[pcms]
+"Through the building's windows, I can see figures[r]
+scuffling."[pcms]
 
 *396|
 [fc]
@@ -34,8 +35,8 @@
 
 *397|
 [fc]
-"The delicate figure that looks like a small girl is being carried away by[r]
-several larger people..."[pcms]
+"The delicate figure that looks like a small girl is being[r]
+carried away by several larger people..."[pcms]
 
 *398|
 [fc]
@@ -56,11 +57,13 @@ several larger people..."[pcms]
 
 *402|
 [fc]
-"There's no way I'll hit them, and it would only worsen my situation."[pcms]
+"There's no way I'll hit them, and it would only worsen my[r]
+situation."[pcms]
 
 *403|
 [fc]
-"If I get caught now, there will be no one left to save everyone."[pcms]
+"If I get caught now, there will be no one left to save[r]
+everyone."[pcms]
 
 *404|
 [fc]
@@ -84,8 +87,8 @@ several larger people..."[pcms]
 
 *409|
 [fc]
-"Frustration and misery mix together, giving rise to a deep hatred for those[r]
-men."[pcms]
+"Frustration and misery mix together, giving rise to a deep[r]
+hatred for those men."[pcms]
 
 *410|
 [fc]

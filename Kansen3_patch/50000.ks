@@ -27,19 +27,21 @@
 
 *2|
 [fc]
-We arrived at the hideout Hiko-chin mentioned... the backyard of the izakaya[r]
-"Dedepou".[pcms]
+We arrived at the hideout Hiko-chin mentioned... the[r]
+backyard of the izakaya "Dedepou".[pcms]
 
 *3|
 [fc]
-The hatch leading underground was between the electrical panel and a large[r]
-refrigerator. Beer cases were stacked tightly around, and shelves were lined[r]
-with stocks of Japanese sake and Western liquor.[pcms]
+The hatch leading underground was between the electrical[r]
+panel and a large refrigerator. Beer cases were stacked[r]
+tightly around, and shelves were lined with stocks of[r]
+Japanese sake and Western liquor.[pcms]
 
 *4|
 [fc]
-It seemed someone had turned on the lights, and as we blinked in the sudden[r]
-brightness... we silently stared at what was in my hands.[pcms]
+It seemed someone had turned on the lights, and as we[r]
+blinked in the sudden brightness... we silently stared at[r]
+what was in my hands.[pcms]
 
 *5|
 [fc]
@@ -47,7 +49,8 @@ The gun entrusted to me by Hiko-chin...[pcms]
 
 *6|
 [fc]
-I spoke briefly, telling everyone that Hiko-chin had returned to Yotsubase.[pcms]
+I spoke briefly, telling everyone that Hiko-chin had[r]
+returned to Yotsubase.[pcms]
 
 *7|
 [fc]
@@ -86,12 +89,14 @@ Yuuho bit her lip tightly, trying to hold back her tears.[pcms]
 
 *13|
 [fc]
-Kousuke said gruffly, his eyes also shimmering with something.[pcms]
+Kousuke said gruffly, his eyes also shimmering with[r]
+something.[pcms]
 
 *14|
 [fc]
-I understand Hiko-chin's logic and feelings. But thinking about Hiko-chin's[r]
-fate... tears start to well up in my eyes too.[pcms]
+I understand Hiko-chin's logic and feelings. But thinking[r]
+about Hiko-chin's fate... tears start to well up in my eyes[r]
+too.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a22"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -104,12 +109,13 @@ fate... tears start to well up in my eyes too.[pcms]
 
 *16|
 [fc]
-Without a word, Maruko-senpai placed her hand on my shoulder.[pcms]
+Without a word, Maruko-senpai placed her hand on my[r]
+shoulder.[pcms]
 
 *17|
 [fc]
-Her gaze was stern and strong... as if encouraging me to stay firm and keep[r]
-going.[pcms]
+Her gaze was stern and strong... as if encouraging me to[r]
+stay firm and keep going.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -128,8 +134,8 @@ going.[pcms]
 
 *20|
 [fc]
-As I started to walk, I hesitated at the unfamiliar sensation of the gun I was[r]
-carrying.[pcms]
+As I started to walk, I hesitated at the unfamiliar[r]
+sensation of the gun I was carrying.[pcms]
 
 *21|
 [fc]
@@ -137,7 +143,8 @@ The gun gleamed dully.[pcms]
 
 *22|
 [fc]
-Upon closer inspection, there was something like a hook attached to it.[pcms]
+Upon closer inspection, there was something like a hook[r]
+attached to it.[pcms]
 
 *23|
 [fc]
@@ -146,7 +153,8 @@ Upon closer inspection, there was something like a hook attached to it.[pcms]
 
 *24|
 [fc]
-I hooked the gun onto my pants and pushed it into the gap in my clothes.[pcms]
+I hooked the gun onto my pants and pushed it into the gap in[r]
+my clothes.[pcms]
 
 *25|
 [fc]
@@ -157,22 +165,24 @@ Then, I followed after everyone else.[pcms]
 
 *26|
 [fc]
-The backyard led to the kitchen, which connected to the interior of "Dedepou".[pcms]
+The backyard led to the kitchen, which connected to the[r]
+interior of "Dedepou".[pcms]
 
 [bg storage="BG022"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
 
 *27|
 [fc]
-The shutter was slightly open, letting in light from outside.[pcms]
+The shutter was slightly open, letting in light from[r]
+outside.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *28|
 [fc]
 [ns]Kousuke[nse]
-"The shutter isn't locked? Did someone try to leave, or did they come early to[r]
-prepare?"[pcms]
+"The shutter isn't locked? Did someone try to leave, or did[r]
+they come early to prepare?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -184,17 +194,20 @@ prepare?"[pcms]
 
 *30|
 [fc]
-We cautiously moved through the deserted interior of the store.[pcms]
+We cautiously moved through the deserted interior of the[r]
+store.[pcms]
 
 *31|
 [fc]
-As we approached the door, sounds from outside began to reach us.[pcms]
+As we approached the door, sounds from outside began to[r]
+reach us.[pcms]
 
 *32|
 [fc]
-The music from the public address system and the calls of the shops... as if[r]
-nothing had happened in the world outside, and the usual streets of Shibuya were[r]
-right there...[pcms]
+The music from the public address system and the calls of[r]
+the shops... as if nothing had happened in the world[r]
+outside, and the usual streets of Shibuya were right[r]
+there...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -211,11 +224,13 @@ right there...[pcms]
 
 *35|
 [fc]
-But what was decisively different was the absence of people's presence.[pcms]
+But what was decisively different was the absence of[r]
+people's presence.[pcms]
 
 *36|
 [fc]
-No voices of people. No sound of cars. There was no sense of bustle at all.[pcms]
+No voices of people. No sound of cars. There was no sense of[r]
+bustle at all.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -227,7 +242,8 @@ No voices of people. No sound of cars. There was no sense of bustle at all.[pcms
 
 *38|
 [fc]
-Yuuho looked around at everyone as if she had made up her mind.[pcms]
+Yuuho looked around at everyone as if she had made up her[r]
+mind.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -243,13 +259,14 @@ Yuuho looked around at everyone as if she had made up her mind.[pcms]
 [fc]
 [vo_mar s="maru1281"]
 [ns]Margarita[nse]
-"Indeed there are concerns, but we want to know what's happening in town. If we[r]
-sense any danger, we'll make sure to be careful so we can return at any time."[pcms]
+"Indeed there are concerns, but we want to know what's[r]
+happening in town. If we sense any danger, we'll make sure[r]
+to be careful so we can return at any time."[pcms]
 
 *41|
 [fc]
-We nodded in agreement and cautiously made our way to the door... and pushed up[r]
-the half-open shutter...[pcms]
+We nodded in agreement and cautiously made our way to the[r]
+door... and pushed up the half-open shutter...[pcms]
 
 ;//〆ホワイトアウト
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]

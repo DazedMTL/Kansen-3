@@ -19,7 +19,8 @@
 
 *109|
 [fc]
-There were more infected roaming around on the second floor than I expected.[pcms]
+There were more infected roaming around on the second floor[r]
+than I expected.[pcms]
 
 *110|
 [fc]
@@ -27,9 +28,9 @@ But as I predicted, it's better than the first floor.[pcms]
 
 *111|
 [fc]
-If a new wave were to come from outside the school, they'd have to climb the[r]
-stairs, which might deter them a bit. It looks like I might be able to break[r]
-through.[pcms]
+If a new wave were to come from outside the school, they'd[r]
+have to climb the stairs, which might deter them a bit. It[r]
+looks like I might be able to break through.[pcms]
 
 *112|
 [fc]
@@ -37,27 +38,31 @@ Now, what should I do from here?[pcms]
 
 *113|
 [fc]
-To get to the gym side, I need to go down the stairs past the library.[pcms]
+To get to the gym side, I need to go down the stairs past[r]
+the library.[pcms]
 
 *114|
 [fc]
-To reach the special classrooms where the music room is, I have to pass in front[r]
-of the principal's office and the staff room and then go through the corridor[r]
-beyond that.[pcms]
+To reach the special classrooms where the music room is, I[r]
+have to pass in front of the principal's office and the[r]
+staff room and then go through the corridor beyond that.[pcms]
 
 *115|
 [fc]
-If I'm going to Yuuho, naturally I should head towards the gym side, and if I'm[r]
-going to Ren, I should aim for the special classrooms where the music room is.[pcms]
+If I'm going to Yuuho, naturally I should head towards the[r]
+gym side, and if I'm going to Ren, I should aim for the[r]
+special classrooms where the music room is.[pcms]
 
 *116|
 [fc]
-I'm worried about both of them, but unfortunately, I only have one body.[pcms]
+I'm worried about both of them, but unfortunately, I only[r]
+have one body.[pcms]
 
 *117|
 [fc]
-Moreover, the gym and the special classrooms with the music room are[r]
-conveniently located opposite the regular classroom building.[pcms]
+Moreover, the gym and the special classrooms with the music[r]
+room are conveniently located opposite the regular classroom[r]
+building.[pcms]
 
 *118|
 [fc]
@@ -74,7 +79,8 @@ What should I do?[pcms]
 ;	[link storage="B_C1.ks" target=*B_C1_TOP]体育館側へ！[endlink]
 ;	[link storage="B_A1.ks" target=*B_A1_TOP]音楽室側へ！[endlink]
 ;	;[link storage="B_D3.ks" target=*B_D3_TOP]時間切れ[endlink]
-;       (link storage="B_D3.ks" target=*B_D3_TOP)Yuuho...Ren...(endlink)[pcms]
+;       (link storage="B_D3.ks"[r]
+target=*B_D3_TOP)Yuuho...Ren...(endlink)[pcms]
 
 *SEL57|体育館側へ！／音楽室側へ！／悠帆……漣……
 [fc]

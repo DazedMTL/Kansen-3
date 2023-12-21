@@ -36,8 +36,9 @@
 
 *7793|
 [fc]
-My body, which had been frozen, was suddenly ignited with fire. I shook off[r]
-Ren's hand and raised my own hand, driven by emotion, as if to strike her cheek.[pcms]
+My body, which had been frozen, was suddenly ignited with[r]
+fire. I shook off Ren's hand and raised my own hand, driven[r]
+by emotion, as if to strike her cheek.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -55,7 +56,8 @@ Ren's hand and raised my own hand, driven by emotion, as if to strike her cheek.
 
 *7796|
 [fc]
-No good. Ren's eyes aren't sane. She's staring at me with vacant eyes.[pcms]
+No good. Ren's eyes aren't sane. She's staring at me with[r]
+vacant eyes.[pcms]
 
 *7797|
 [fc]
@@ -72,23 +74,26 @@ The strength drains from my raised hand. Poor Ren...[pcms]
 
 *7799|
 [fc]
-I wrapped my raised hand around Ren's body. I hugged her tightly.[pcms]
+I wrapped my raised hand around Ren's body. I hugged her[r]
+tightly.[pcms]
 
 *7800|
 [fc]
 [ns]Wataru[nse]
-"You don't have to do that, because I will never leave you alone."[pcms]
+"You don't have to do that, because I will never leave you[r]
+alone."[pcms]
 
 *7801|
 [fc]
 [ns]Wataru[nse]
-"Forever and ever, from now on, I will live with Ren. Even if we leave here, no[r]
-matter where we go."[pcms]
+"Forever and ever, from now on, I will live with Ren. Even[r]
+if we leave here, no matter where we go."[pcms]
 
 *7802|
 [fc]
 [ns]Wataru[nse]
-"So, Ren. Don't do that. Believe in me, believe in my words, Ren."[pcms]
+"So, Ren. Don't do that. Believe in me, believe in my words,[r]
+Ren."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_e4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -102,8 +107,8 @@ matter where we go."[pcms]
 *7804|
 [fc]
 [ns]Wataru[nse]
-"Ren. I'll always be with you. I'll be by your side. Hey, Ren. You're not alone.[r]
-I'm here."[pcms]
+"Ren. I'll always be with you. I'll be by your side. Hey,[r]
+Ren. You're not alone. I'm here."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_e11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -116,8 +121,8 @@ I'm here."[pcms]
 
 *7806|
 [fc]
-Tears fell from Ren's still vacant eyes, wetting the chest of the me who was[r]
-hugging her.[pcms]
+Tears fell from Ren's still vacant eyes, wetting the chest[r]
+of the me who was hugging her.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_e10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -135,8 +140,8 @@ hugging her.[pcms]
 
 *7808|
 [fc]
-The strength continued to drain from Ren's crying body. The light weight of her[r]
-body pressed against me.[pcms]
+The strength continued to drain from Ren's crying body. The[r]
+light weight of her body pressed against me.[pcms]
 
 *7809|
 [fc]
@@ -153,25 +158,27 @@ body pressed against me.[pcms]
 
 *7811|
 [fc]
-Before long, Ren was swallowed up by the whirlpool of sleep while crying.[pcms]
+Before long, Ren was swallowed up by the whirlpool of sleep[r]
+while crying.[pcms]
 
 ;//★_黒背景
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *7812|
 [fc]
-I continued to hold Ren. I will never let her be alone again. To ensure she[r]
-never feels trapped like this again.[pcms]
+I continued to hold Ren. I will never let her be alone[r]
+again. To ensure she never feels trapped like this again.[pcms]
 
 *7813|
 [fc]
-Now that our father is gone... Ren and I will live together. As brother and[r]
-sister. If Ren is with me, then I'm not alone either.[pcms]
+Now that our father is gone... Ren and I will live together.[r]
+As brother and sister. If Ren is with me, then I'm not alone[r]
+either.[pcms]
 
 *7814|
 [fc]
-We may not be related by blood, but she is my precious family. I will live with[r]
-Ren.[pcms]
+We may not be related by blood, but she is my precious[r]
+family. I will live with Ren.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

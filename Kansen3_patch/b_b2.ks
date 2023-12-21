@@ -18,12 +18,13 @@
 
 *4398|
 [fc]
-I don't have time to worry. It's certain that they are up there.[pcms]
+I don't have time to worry. It's certain that they are up[r]
+there.[pcms]
 
 *4399|
 [fc]
-I feel bad for the girl being attacked, but without hesitation, I dashed[r]
-straight down the corridor.[pcms]
+I feel bad for the girl being attacked, but without[r]
+hesitation, I dashed straight down the corridor.[pcms]
 
 *4400|
 [fc]
@@ -40,7 +41,8 @@ Someone appeared unsteadily from the science lab.[pcms]
 
 *4403|
 [fc]
-I collided head-on with them and ended up rolling on the floor of the hallway.[pcms]
+I collided head-on with them and ended up rolling on the[r]
+floor of the hallway.[pcms]
 
 *4404|
 [fc]
@@ -49,7 +51,8 @@ I collided head-on with them and ended up rolling on the floor of the hallway.[p
 
 *4405|
 [fc]
-While worrying about my bruised hip, I looked at the person I bumped into.[pcms]
+While worrying about my bruised hip, I looked at the person[r]
+I bumped into.[pcms]
 
 *4406|
 [fc]
@@ -62,8 +65,8 @@ They're wearing a uniform... so they must be a student.[pcms]
 
 *4408|
 [fc]
-While letting out a relieved sigh, I looked up at him, forgetting even to get[r]
-up.[pcms]
+While letting out a relieved sigh, I looked up at him,[r]
+forgetting even to get up.[pcms]
 
 *4409|
 [fc]
@@ -82,7 +85,8 @@ Red!![pcms]
 
 *4412|
 [fc]
-I wonder which was faster, me trying to hastily get up or him pouncing on me.[pcms]
+I wonder which was faster, me trying to hastily get up or[r]
+him pouncing on me.[pcms]
 
 *4413|
 [fc]
@@ -104,8 +108,8 @@ And then, was it him biting at my throat?[pcms]
 
 *4416|
 [fc]
-The answer will remain unknown forever, as my consciousness was swallowed by[r]
-darkness.[pcms]
+The answer will remain unknown forever, as my consciousness[r]
+was swallowed by darkness.[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]

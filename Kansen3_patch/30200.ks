@@ -23,13 +23,13 @@
 
 *1761|
 [fc]
-As I was about to pass in front of the physical education staff room, I heard a[r]
-loud bang from inside.[pcms]
+As I was about to pass in front of the physical education[r]
+staff room, I heard a loud bang from inside.[pcms]
 
 *1762|
 [fc]
-I flinched and looked over to see a familiar-looking female student crouching[r]
-and trembling behind the half-open door.[pcms]
+I flinched and looked over to see a familiar-looking female[r]
+student crouching and trembling behind the half-open door.[pcms]
 
 *1763|
 [fc]
@@ -38,17 +38,20 @@ and trembling behind the half-open door.[pcms]
 
 *1764|
 [fc]
-As if reacting to the words I muttered to myself, she lifted her face.[pcms]
+As if reacting to the words I muttered to myself, she lifted[r]
+her face.[pcms]
 
 *1765|
 [fc]
-That's right. This face belongs to a girl from the same swim club as Yuuho.[pcms]
+That's right. This face belongs to a girl from the same swim[r]
+club as Yuuho.[pcms]
 
 *1766|
 [fc]
 [vo_mob s="buinA0005"]
 [ns]Club Member A[nse]
-"Ah, Ayase-kun!? Hey, what happened? Everyone's gone crazy, and I... I"[pcms]
+"Ah, Ayase-kun!? Hey, what happened? Everyone's gone crazy,[r]
+and I... I"[pcms]
 
 *1767|
 [fc]
@@ -59,22 +62,25 @@ That's right. This face belongs to a girl from the same swim club as Yuuho.[pcms
 [fc]
 [vo_mob s="buinA0006"]
 [ns]Club Member A[nse]
-"Hey, what happened? Everyone's gone crazy, and I'm... I'm scared... scared..."[pcms]
+"Hey, what happened? Everyone's gone crazy, and I'm... I'm[r]
+scared... scared..."[pcms]
 
 *1769|
 [fc]
-Seeing me and the senior, she became increasingly panicked with her own words.[pcms]
+Seeing me and the senior, she became increasingly panicked[r]
+with her own words.[pcms]
 
 *1770|
 [fc]
-No matter how much I tried to calm her down, she wouldn't listen anymore.[pcms]
+No matter how much I tried to calm her down, she wouldn't[r]
+listen anymore.[pcms]
 
 *1771|
 [fc]
 [vo_mob s="buinA0007"]
 [ns]Club Member A[nse]
-"No! I didn't abandon anyone. I didn't abandon them. There was no other way.[r]
-There was no other way!"[pcms]
+"No! I didn't abandon anyone. I didn't abandon them. There[r]
+was no other way. There was no other way!"[pcms]
 
 *1772|
 [fc]
@@ -83,8 +89,8 @@ There was no other way!"[pcms]
 
 *1773|
 [fc]
-Without giving me a chance to stop her, she slipped past me and ran towards the[r]
-emergency stairs.[pcms]
+Without giving me a chance to stop her, she slipped past me[r]
+and ran towards the emergency stairs.[pcms]
 
 *1774|
 [fc]
@@ -99,8 +105,8 @@ emergency stairs.[pcms]
 
 *1776|
 [fc]
-There was nothing more we could do for the girl who had dashed out of the[r]
-emergency staircase into the outside.[pcms]
+There was nothing more we could do for the girl who had[r]
+dashed out of the emergency staircase into the outside.[pcms]
 
 ;//---------------------------------------------------------------
 
@@ -110,9 +116,10 @@ emergency staircase into the outside.[pcms]
 [fc]
 [vo_mar s="maru0224"]
 [ns]Margarita[nse]
-"It can't be helped. Those with weak hearts suddenly awaken to a sense of guilt[r]
-once they think the danger to their lives is over, even if they made choices out[r]
-of necessity to survive."[pcms]
+"It can't be helped. Those with weak hearts suddenly awaken[r]
+to a sense of guilt once they think the danger to their[r]
+lives is over, even if they made choices out of necessity to[r]
+survive."[pcms]
 
 *1778|
 [fc]
@@ -129,14 +136,15 @@ Murmuring so softly, the senior entered the staff room.[pcms]
 [fc]
 [vo_mar s="maru0225"]
 [ns]Margarita[nse]
-"There are 'them' inside the gymnasium. It would be foolish to go in unarmed,[r]
-right?"[pcms]
+"There are 'them' inside the gymnasium. It would be foolish[r]
+to go in unarmed, right?"[pcms]
 
 *1781|
 [fc]
-Immediately opening a locker, the senior found several wooden swords and bamboo[r]
-swords that seemed to belong to the kendo club advisor, and finally opened a[r]
-cleaning equipment closet and found a mop.[pcms]
+Immediately opening a locker, the senior found several[r]
+wooden swords and bamboo swords that seemed to belong to the[r]
+kendo club advisor, and finally opened a cleaning equipment[r]
+closet and found a mop.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -148,14 +156,16 @@ cleaning equipment closet and found a mop.[pcms]
 
 *1783|
 [fc]
-The senior's face looked somewhat pleased as she efficiently detached the wooden[r]
-handle from the mop like before. Indeed, when we used a mop inside the school[r]
-building, she did say something about preferring wooden handles...[pcms]
+The senior's face looked somewhat pleased as she efficiently[r]
+detached the wooden handle from the mop like before. Indeed,[r]
+when we used a mop inside the school building, she did say[r]
+something about preferring wooden handles...[pcms]
 
 *1784|
 [fc]
 [ns]Wataru[nse]
-"Senior, there are wooden swords here from the teachers, why choose a mop?"[pcms]
+"Senior, there are wooden swords here from the teachers, why[r]
+choose a mop?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -163,9 +173,10 @@ building, she did say something about preferring wooden handles...[pcms]
 [fc]
 [vo_mar s="maru0227"]
 [ns]Margarita[nse]
-"If we're talking about durability alone, wooden swords would indeed be better.[r]
-Wasn't the kendo club advisor skilled in ancient swordsmanship? They're good[r]
-wooden swords made of loquat."[pcms]
+"If we're talking about durability alone, wooden swords[r]
+would indeed be better. Wasn't the kendo club advisor[r]
+skilled in ancient swordsmanship? They're good wooden swords[r]
+made of loquat."[pcms]
 
 *1786|
 [fc]
@@ -178,9 +189,10 @@ wooden swords made of loquat."[pcms]
 [fc]
 [vo_mar s="maru0228"]
 [ns]Margarita[nse]
-"Loquat wood is resilient and makes for good wooden swords. And by ancient[r]
-swordsmanship, I mean traditional styles like Yagyu Shinkage-ryu or Hokushin[r]
-Itto-ryu. You've heard of them before, haven't you?"[pcms]
+"Loquat wood is resilient and makes for good wooden swords.[r]
+And by ancient swordsmanship, I mean traditional styles like[r]
+Yagyu Shinkage-ryu or Hokushin Itto-ryu. You've heard of[r]
+them before, haven't you?"[pcms]
 
 *1788|
 [fc]
@@ -193,14 +205,15 @@ Itto-ryu. You've heard of them before, haven't you?"[pcms]
 [fc]
 [vo_mar s="maru0229"]
 [ns]Margarita[nse]
-"In modern kendo, they mostly use bamboo swords and hardly ever practice with[r]
-wooden swords."[pcms]
+"In modern kendo, they mostly use bamboo swords and hardly[r]
+ever practice with wooden swords."[pcms]
 
 *1790|
 [fc]
 [ns]Wataru[nse]
-"Is that so? But if there are wooden swords available as weapons, why go for a[r]
-mop again? Well, it could be considered a weapon, I guess."[pcms]
+"Is that so? But if there are wooden swords available as[r]
+weapons, why go for a mop again? Well, it could be[r]
+considered a weapon, I guess."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -208,8 +221,9 @@ mop again? Well, it could be considered a weapon, I guess."[pcms]
 [fc]
 [vo_mar s="maru0230"]
 [ns]Margarita[nse]
-"There isn't enough space on the catwalk to swing around a long sword wooden[r]
-sword. Therefore, a mop with its reach advantage is better for thrusting."[pcms]
+"There isn't enough space on the catwalk to swing around a[r]
+long sword wooden sword. Therefore, a mop with its reach[r]
+advantage is better for thrusting."[pcms]
 
 *1792|
 [fc]
@@ -218,13 +232,15 @@ sword. Therefore, a mop with its reach advantage is better for thrusting."[pcms]
 
 *1793|
 [fc]
-I felt somewhat enlightened yet confused at the same time, but anyway, it was[r]
-clear that for now, a mop handle was more advantageous than a wooden sword.[pcms]
+I felt somewhat enlightened yet confused at the same time,[r]
+but anyway, it was clear that for now, a mop handle was more[r]
+advantageous than a wooden sword.[pcms]
 
 *1794|
 [fc]
-I quickly followed the senior's example and took out a mop from the cleaning[r]
-equipment closet and began disassembling it.[pcms]
+I quickly followed the senior's example and took out a mop[r]
+from the cleaning equipment closet and began disassembling[r]
+it.[pcms]
 
 ;//---------------------------------------------------------------
 
@@ -234,8 +250,8 @@ equipment closet and began disassembling it.[pcms]
 [fc]
 [vo_mar s="maru0231"]
 [ns]Margarita[nse]
-"We need to secure an escape route. Stay here and keep an eye on the emergency[r]
-exit. I'll go to her."[pcms]
+"We need to secure an escape route. Stay here and keep an[r]
+eye on the emergency exit. I'll go to her."[pcms]
 
 *1796|
 [fc]
@@ -245,8 +261,9 @@ exit. I'll go to her."[pcms]
 
 *1797|
 [fc]
-Just as I finished my task and turned around, I heard the scream of the girl who[r]
-had just left through the emergency exit.[pcms]
+Just as I finished my task and turned around, I heard the[r]
+scream of the girl who had just left through the emergency[r]
+exit.[pcms]
 
 *1798|
 [fc]
@@ -254,8 +271,9 @@ It seems 'they' are already close by. What should I do?[pcms]
 
 *1799|
 [fc]
-Even if it's unrequited love, saving Yuuho might be my duty. But leaving it to[r]
-the senior might increase our chances of survival.[pcms]
+Even if it's unrequited love, saving Yuuho might be my duty.[r]
+But leaving it to the senior might increase our chances of[r]
+survival.[pcms]
 
 ;//---------------------------------------------------------------
 ;//ÅúëIëéà
@@ -264,7 +282,8 @@ the senior might increase our chances of survival.[pcms]
 
 
 ;	[link storage="30210.ks" target=*30210_TOP]Ç±Ç±ÇÕêÊîyÇ…îCÇπÇÊÇ§ÅcÅc[endlink]
-;       (link storage="30220.ks" target=*30220_TOP)I'll go!!(endlink)[pcms]
+;       (link storage="30220.ks" target=*30220_TOP)I'll[r]
+go!!(endlink)[pcms]
 
 *SEL25|Ç±Ç±ÇÕêÊîyÇ…îCÇπÇÊÇ§ÅcÅcÅ^É{ÉNÇ™çsÇ´Ç‹Ç∑ÅIÅI
 [fc]

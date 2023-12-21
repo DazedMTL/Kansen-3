@@ -22,8 +22,8 @@
 
 *1271|
 [fc]
-"I have to do something. If things continue this way, we're heading straight[r]
-into a bloodbath of screams and agony."[pcms]
+"I have to do something. If things continue this way, we're[r]
+heading straight into a bloodbath of screams and agony."[pcms]
 
 *1272|
 [fc]
@@ -31,8 +31,8 @@ into a bloodbath of screams and agony."[pcms]
 
 *1273|
 [fc]
-"While I hesitated, I missed the timing to speak up and lost the chance to[r]
-intervene."[pcms]
+"While I hesitated, I missed the timing to speak up and lost[r]
+the chance to intervene."[pcms]
 
 *1274|
 [fc]
@@ -40,8 +40,8 @@ intervene."[pcms]
 
 *1275|
 [fc]
-"It was at that moment when the tension of the situation was about to boil over[r]
-at its peak."[pcms]
+"It was at that moment when the tension of the situation was[r]
+about to boil over at its peak."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -70,7 +70,8 @@ at its peak."[pcms]
 
 *1280|
 [fc]
-"Yes, she's angry. Not pleading or screaming in fear, but genuinely angry..."[pcms]
+"Yes, she's angry. Not pleading or screaming in fear, but[r]
+genuinely angry..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -78,12 +79,14 @@ at its peak."[pcms]
 [fc]
 [vo_yuh s="yuho1515"]
 [ns]Yuuho[nse]
-"After all... after all we've survived! We're safe and we've met again, right? I[r]
-don't understand the point of fighting here!"[pcms]
+"After all... after all we've survived! We're safe and we've[r]
+met again, right? I don't understand the point of fighting[r]
+here!"[pcms]
 
 *1282|
 [fc]
-"Her utterly reasonable claim momentarily eased our tension."[pcms]
+"Her utterly reasonable claim momentarily eased our[r]
+tension."[pcms]
 
 *1283|
 [fc]
@@ -96,7 +99,8 @@ don't understand the point of fighting here!"[pcms]
 
 *1285|
 [fc]
-"Taking advantage of the opening Yuuho created, I tentatively started to speak."[pcms]
+"Taking advantage of the opening Yuuho created, I[r]
+tentatively started to speak."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -107,8 +111,8 @@ don't understand the point of fighting here!"[pcms]
 
 *1287|
 [fc]
-"I was glared at by Jin...! It was so frightening that the hairs on the back of[r]
-my neck stood up."[pcms]
+"I was glared at by Jin...! It was so frightening that the[r]
+hairs on the back of my neck stood up."[pcms]
 
 *1288|
 [fc]
@@ -117,31 +121,33 @@ my neck stood up."[pcms]
 
 *1289|
 [fc]
-"But I can't back down here... I spoke as calmly as I could."[pcms]
+"But I can't back down here... I spoke as calmly as I[r]
+could."[pcms]
 
 *1290|
 [fc]
 [ns]Wataru[nse]
-"However... that doesn't mean I can completely trust you guys who are waving[r]
-guns around..."[pcms]
+"However... that doesn't mean I can completely trust you[r]
+guys who are waving guns around..."[pcms]
 
 *1291|
 [fc]
 [ns]Wataru[nse]
-"So please answer our questions. If you do, Kousuke will be satisfied, we can[r]
-end this situation, and all relax together..."[pcms]
+"So please answer our questions. If you do, Kousuke will be[r]
+satisfied, we can end this situation, and all relax[r]
+together..."[pcms]
 
 *1292|
 [fc]
-"Seeing that no one was responding, I decided to continue persuading them a bit[r]
-more."[pcms]
+"Seeing that no one was responding, I decided to continue[r]
+persuading them a bit more."[pcms]
 
 *1293|
 [fc]
 [ns]Wataru[nse]
-"I'm thirsty, and I'd like to turn up the cooler a bit more. And if we go to a[r]
-manga cafe, we could even take a shower... Ah, um, just washing our faces would[r]
-be fine too..."[pcms]
+"I'm thirsty, and I'd like to turn up the cooler a bit more.[r]
+And if we go to a manga cafe, we could even take a shower...[r]
+Ah, um, just washing our faces would be fine too..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -152,7 +158,8 @@ be fine too..."[pcms]
 
 *1295|
 [fc]
-"Jin started to say something but stopped, his face looking angry."[pcms]
+"Jin started to say something but stopped, his face looking[r]
+angry."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -201,8 +208,8 @@ be fine too..."[pcms]
 
 *1303|
 [fc]
-"Without taking her eyes off the scene, Maruko-senpai also lowered her gun in[r]
-sync with the gang's movements."[pcms]
+"Without taking her eyes off the scene, Maruko-senpai also[r]
+lowered her gun in sync with the gang's movements."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -234,15 +241,16 @@ sync with the gang's movements."[pcms]
 
 *1309|
 [fc]
-"The expression on Jin's face... huh...? Could it be that he's dumbfounded...?"[pcms]
+"The expression on Jin's face... huh...? Could it be that[r]
+he's dumbfounded...?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1310|
 [fc]
 [ns]Jin[nse]
-"In this situation, you're worried about 'turning up the cooler'? You've got[r]
-some unusual nerves..."[pcms]
+"In this situation, you're worried about 'turning up the[r]
+cooler'? You've got some unusual nerves..."[pcms]
 
 *1311|
 [fc]
@@ -255,7 +263,8 @@ some unusual nerves..."[pcms]
 
 *1313|
 [fc]
-"Feeling my cheeks flush, I mumbled awkwardly under my breath."[pcms]
+"Feeling my cheeks flush, I mumbled awkwardly under my[r]
+breath."[pcms]
 
 ;//bgmí‚é~
 [fadeoutbgm time=500]

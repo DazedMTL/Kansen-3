@@ -23,24 +23,28 @@
 
 *914|
 [fc]
-I shouted to Kousuke and then took Ren's hand, chasing straight after my senior.[pcms]
+I shouted to Kousuke and then took Ren's hand, chasing[r]
+straight after my senior.[pcms]
 
 *915|
 [fc]
-Indeed, as Kousuke said, going to the rooftop would lead to a dead end.[pcms]
+Indeed, as Kousuke said, going to the rooftop would lead to[r]
+a dead end.[pcms]
 
 *916|
 [fc]
-But I know better than anyone that there's no escape route if we go down.[pcms]
+But I know better than anyone that there's no escape route[r]
+if we go down.[pcms]
 
 *917|
 [fc]
-And to hole up, the audio-visual room's door is far too fragile.[pcms]
+And to hole up, the audio-visual room's door is far too[r]
+fragile.[pcms]
 
 *918|
 [fc]
-If we can't expect someone to come to our rescue, holing up won't solve[r]
-anything.[pcms]
+If we can't expect someone to come to our rescue, holing up[r]
+won't solve anything.[pcms]
 
 *919|
 [fc]
@@ -48,16 +52,18 @@ It's dozens of times safer to chase after my senior instead.[pcms]
 
 *920|
 [fc]
-After all, I don't know why my senior was in the school during summer vacation.[pcms]
+After all, I don't know why my senior was in the school[r]
+during summer vacation.[pcms]
 
 *921|
 [fc]
-But if she was just running away, she wouldn't hide in such a special classroom[r]
-building without a particular reason.[pcms]
+But if she was just running away, she wouldn't hide in such[r]
+a special classroom building without a particular reason.[pcms]
 
 *922|
 [fc]
-It's my senior we're talking about; she must have some kind of plan.[pcms]
+It's my senior we're talking about; she must have some kind[r]
+of plan.[pcms]
 
 *923|
 [fc]
@@ -69,12 +75,13 @@ Betting on my senior is the best chance we have.[pcms]
 
 *925|
 [fc]
-Honestly, when it comes to fighting ability, she's far more reliable than[r]
-Kousuke and me.[pcms]
+Honestly, when it comes to fighting ability, she's far more[r]
+reliable than Kousuke and me.[pcms]
 
 *926|
 [fc]
-Kousuke and I stand no chance of protecting Ren and escaping.[pcms]
+Kousuke and I stand no chance of protecting Ren and[r]
+escaping.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -86,7 +93,8 @@ Kousuke and I stand no chance of protecting Ren and escaping.[pcms]
 *928|
 [fc]
 [ns]Wataru[nse]
-"Do you think we can protect Ren and escape from those guys on our own?"[pcms]
+"Do you think we can protect Ren and escape from those guys[r]
+on our own?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -107,7 +115,8 @@ Kousuke and I stand no chance of protecting Ren and escaping.[pcms]
 
 *930a|
 [fc]
-While we were arguing, one of the pursuers caught up and clung to Ren.[pcms]
+While we were arguing, one of the pursuers caught up and[r]
+clung to Ren.[pcms]
 
 *931|
 [fc]
@@ -127,8 +136,8 @@ While we were arguing, one of the pursuers caught up and clung to Ren.[pcms]
 
 *933|
 [fc]
-Almost simultaneously, I tried to protect Ren, and Kousuke swung the hook he had[r]
-in his hand with all his might.[pcms]
+Almost simultaneously, I tried to protect Ren, and Kousuke[r]
+swung the hook he had in his hand with all his might.[pcms]
 
 *934|
 [fc]
@@ -137,8 +146,8 @@ in his hand with all his might.[pcms]
 
 *935|
 [fc]
-I embraced Ren's body protectively from their hands and once again started[r]
-running after my senior.[pcms]
+I embraced Ren's body protectively from their hands and once[r]
+again started running after my senior.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -152,8 +161,8 @@ running after my senior.[pcms]
 
 *937|
 [fc]
-Feeling Kousuke chasing behind us, I raced up the stairs to the rooftop with[r]
-Ren.[pcms]
+Feeling Kousuke chasing behind us, I raced up the stairs to[r]
+the rooftop with Ren.[pcms]
 
 ;mm
 ;BGM‘¦Žž’âŽ~

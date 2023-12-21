@@ -29,7 +29,8 @@
 [fc]
 [vo_yuh s="yuho1567"]
 [ns]Yuuho[nse]
-"Hmm... Maybe it's still not hot enough. Is this okay, I wonder..."[pcms]
+"Hmm... Maybe it's still not hot enough. Is this okay, I[r]
+wonder..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -37,8 +38,8 @@
 [fc]
 [vo_ren s="ren1374"]
 [ns]Ren[nse]
-"They say 'The key to delicious fried rice is high heat!' But it smells good...[r]
-It looks really tasty."[pcms]
+"They say 'The key to delicious fried rice is high heat!'[r]
+But it smells good... It looks really tasty."[pcms]
 
 ;//se086・炒める音
 ;//[se buf=0 storage="se086"]
@@ -49,8 +50,8 @@ It looks really tasty."[pcms]
 [fc]
 [vo_yuh s="yuho1568"]
 [ns]Yuuho[nse]
-"Hehe... Actually, I was the one who taught the secret recipe of Kannagi-ken to[r]
-the mama at DJ Bar."[pcms]
+"Hehe... Actually, I was the one who taught the secret[r]
+recipe of Kannagi-ken to the mama at DJ Bar."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -58,8 +59,8 @@ the mama at DJ Bar."[pcms]
 [fc]
 [vo_yuh s="yuho1569"]
 [ns]Yuuho[nse]
-"All the seasonings needed to recreate that flavor are here, so let's make a[r]
-perfect reproduction!"[pcms]
+"All the seasonings needed to recreate that flavor are here,[r]
+so let's make a perfect reproduction!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -67,8 +68,8 @@ perfect reproduction!"[pcms]
 [fc]
 [vo_ren s="ren1375"]
 [ns]Ren[nse]
-"Hey, hey, Yuuho-chan, can you teach me the recipe too? I want to make it for my[r]
-brother!"[pcms]
+"Hey, hey, Yuuho-chan, can you teach me the recipe too? I[r]
+want to make it for my brother!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -76,7 +77,8 @@ brother!"[pcms]
 [fc]
 [vo_yuh s="yuho1570"]
 [ns]Yuuho[nse]
-"The training is tough and long! If you can endure that, I might teach you!"[pcms]
+"The training is tough and long! If you can endure that, I[r]
+might teach you!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -118,8 +120,8 @@ brother!"[pcms]
 
 *2200|
 [fc]
-Yuuho, who came out of the kitchen with a large serving of food, stumbled on[r]
-something and stopped in her tracks.[pcms]
+Yuuho, who came out of the kitchen with a large serving of[r]
+food, stumbled on something and stopped in her tracks.[pcms]
 
 *2201|
 [fc]
@@ -136,8 +138,8 @@ Is it because of the fatigue from the day's work?[pcms]
 [fc]
 [vo_ren s="ren1377"]
 [ns]Ren[nse]
-"Brother... What are you saying to someone who worked so hard to make this?[r]
-...Yuuho-chan, are you okay?"[pcms]
+"Brother... What are you saying to someone who worked so[r]
+hard to make this? ...Yuuho-chan, are you okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -145,7 +147,8 @@ Is it because of the fatigue from the day's work?[pcms]
 [fc]
 [vo_yuh s="yuho1572"]
 [ns]Yuuho[nse]
-"Yeah, I just felt a little dizzy, but I'm fine. Maybe it's because I'm hungry."[pcms]
+"Yeah, I just felt a little dizzy, but I'm fine. Maybe it's[r]
+because I'm hungry."[pcms]
 
 ;//会話終了後、ラベル　合流へジャンプ
 [jump storage="50430.ks" target=*50430_03]
@@ -173,12 +176,13 @@ Is it because of the fatigue from the day's work?[pcms]
 
 *2207|
 [fc]
-Following Yuuho, who came out of the kitchen with a large serving of food, Ren[r]
-walked behind her.[pcms]
+Following Yuuho, who came out of the kitchen with a large[r]
+serving of food, Ren walked behind her.[pcms]
 
 *2208|
 [fc]
-But Ren also stumbled on something and stopped in her tracks.[pcms]
+But Ren also stumbled on something and stopped in her[r]
+tracks.[pcms]
 
 *2209|
 [fc]
@@ -195,8 +199,9 @@ Is it because of the fatigue from the day's work?[pcms]
 [fc]
 [vo_ren s="ren1379"]
 [ns]Ren[nse]
-"Yeah, I'm fine... Somehow making food feels like such a normal part of life,[r]
-it's comforting... I guess I let my guard down."[pcms]
+"Yeah, I'm fine... Somehow making food feels like such a[r]
+normal part of life, it's comforting... I guess I let my[r]
+guard down."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -204,8 +209,8 @@ it's comforting... I guess I let my guard down."[pcms]
 [fc]
 [vo_yuh s="yuho1574"]
 [ns]Yuuho[nse]
-"...I see. But make sure to rest well after we eat, okay? You're not very[r]
-strong..."[pcms]
+"...I see. But make sure to rest well after we eat, okay?[r]
+You're not very strong..."[pcms]
 
 ;//会話終了後、ラベル　合流へジャンプ
 [jump storage="50430.ks" target=*50430_03]
@@ -220,8 +225,8 @@ strong..."[pcms]
 [fc]
 [vo_yuh s="yuho1575"]
 [ns]Yuuho[nse]
-"...And with that said! Sorry to keep you waiting~! The masterpiece is complete![r]
-Everyone, get your plates ready~!"[pcms]
+"...And with that said! Sorry to keep you waiting~! The[r]
+masterpiece is complete! Everyone, get your plates ready~!"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a18"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 

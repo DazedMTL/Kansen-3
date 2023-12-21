@@ -40,7 +40,8 @@
 *3024|
 [fc]
 [ns]Wataru[nse]
-"Let's escape that way. If it smells, it means they're close, right?"[pcms]
+"Let's escape that way. If it smells, it means they're[r]
+close, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -48,8 +49,8 @@
 [fc]
 [vo_mar s="maru0415"]
 [ns]Margarita[nse]
-"Right. Udagawa should be close from here. We'll probably be able to get out[r]
-easily."[pcms]
+"Right. Udagawa should be close from here. We'll probably be[r]
+able to get out easily."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -59,8 +60,8 @@ easily."[pcms]
 
 *3026|
 [fc]
-Just as we were about to head for the stairs, the sound of a door being broken[r]
-echoed from far away.[pcms]
+Just as we were about to head for the stairs, the sound of a[r]
+door being broken echoed from far away.[pcms]
 
 ;//立ち絵なし
 
@@ -73,8 +74,8 @@ echoed from far away.[pcms]
 
 *3028|
 [fc]
-Ren's resentful voice echoed and distorted through the narrow underground[r]
-passage.[pcms]
+Ren's resentful voice echoed and distorted through the[r]
+narrow underground passage.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -141,8 +142,8 @@ A white light poured in.[pcms]
 
 *3035|
 [fc]
-To us who had been wandering underground for so long, it was a hot, hot light[r]
-that felt like it could burn our bodies.[pcms]
+To us who had been wandering underground for so long, it was[r]
+a hot, hot light that felt like it could burn our bodies.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -169,15 +170,17 @@ that felt like it could burn our bodies.[pcms]
 
 *3036|
 [fc]
-We managed to escape in a frenzy, following the dark channel well and seemed to[r]
-have reached the open channel of the Shibuya River.[pcms]
+We managed to escape in a frenzy, following the dark channel[r]
+well and seemed to have reached the open channel of the[r]
+Shibuya River.[pcms]
 
 ;//se037・石の転げる乾いた音
 [se buf=0 storage="se037"]
 
 *3037|
 [fc]
-From the dried riverbed, we looked up at the towering buildings.[pcms]
+From the dried riverbed, we looked up at the towering[r]
+buildings.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -197,13 +200,14 @@ From the dried riverbed, we looked up at the towering buildings.[pcms]
 
 *3040|
 [fc]
-There was no music echoing from the city, no hustle and bustle, no noise of cars[r]
-driving.[pcms]
+There was no music echoing from the city, no hustle and[r]
+bustle, no noise of cars driving.[pcms]
 
 *3041|
 [fc]
-All that could be heard were small screams and groans carried by the wind, which[r]
-seemed to disappear into the howling of the wind.[pcms]
+All that could be heard were small screams and groans[r]
+carried by the wind, which seemed to disappear into the[r]
+howling of the wind.[pcms]
 
 *3042|
 [fc]
@@ -215,13 +219,13 @@ We might be the only ones left alive in this city...[pcms]
 
 *3044|
 [fc]
-The white, black, and gray smoke rising everywhere seemed like the smoke of[r]
-cremation burning corpses.[pcms]
+The white, black, and gray smoke rising everywhere seemed[r]
+like the smoke of cremation burning corpses.[pcms]
 
 *3045|
 [fc]
-The buildings soaring into the high blue summer sky looked like silver[r]
-tombstones.[pcms]
+The buildings soaring into the high blue summer sky looked[r]
+like silver tombstones.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -229,8 +233,9 @@ tombstones.[pcms]
 [fc]
 [vo_mar s="maru0418"]
 [ns]Margarita[nse]
-"Fortunately, they haven't entered this area yet. It's a good vantage point[r]
-here, it's wide and easy to move around. We should reach the port by dusk."[pcms]
+"Fortunately, they haven't entered this area yet. It's a[r]
+good vantage point here, it's wide and easy to move around.[r]
+We should reach the port by dusk."[pcms]
 
 *3047|
 [fc]
@@ -254,12 +259,13 @@ Yuuho pointed ahead...[pcms]
 
 *3050|
 [fc]
-There were many figures. Countless infected were wandering on the bridge over[r]
-the open channel and along the riverbank.[pcms]
+There were many figures. Countless infected were wandering[r]
+on the bridge over the open channel and along the riverbank.[pcms]
 
 *3051|
 [fc]
-The faint moans carried by the summer wind reached our ears again.[pcms]
+The faint moans carried by the summer wind reached our ears[r]
+again.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -267,8 +273,8 @@ The faint moans carried by the summer wind reached our ears again.[pcms]
 [fc]
 [vo_mar s="maru0419"]
 [ns]Margarita[nse]
-"It's okay. They can't get in here. Unless they come in through a sewer or[r]
-something like us, it's impossible."[pcms]
+"It's okay. They can't get in here. Unless they come in[r]
+through a sewer or something like us, it's impossible."[pcms]
 
 *3053|
 [fc]
@@ -281,9 +287,9 @@ something like us, it's impossible."[pcms]
 
 *3054|
 [fc]
-Surely, as the senior said. Looking around the riverbed, there were several[r]
-crushed corpses lying around. Like those people who fell in that basement and[r]
-stopped moving.[pcms]
+Surely, as the senior said. Looking around the riverbed,[r]
+there were several crushed corpses lying around. Like those[r]
+people who fell in that basement and stopped moving.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -291,28 +297,30 @@ stopped moving.[pcms]
 [fc]
 [vo_mar s="maru0420"]
 [ns]Margarita[nse]
-"Even if they go mad, if their bodies are destroyed enough to stop moving, they[r]
-seem to die. Rather than walking corpses from stories, they seem to become[r]
-extremely numb to pain like drug addicts..."[pcms]
+"Even if they go mad, if their bodies are destroyed enough[r]
+to stop moving, they seem to die. Rather than walking[r]
+corpses from stories, they seem to become extremely numb to[r]
+pain like drug addicts..."[pcms]
 
 *3056|
 [fc]
 [vo_mar s="maru0421"]
 [ns]Margarita[nse]
-"Thanks to that, they don't die from shock. Since that's surprisingly common[r]
-among human causes of death, they even seem invincible at first glance."[pcms]
+"Thanks to that, they don't die from shock. Since that's[r]
+surprisingly common among human causes of death, they even[r]
+seem invincible at first glance."[pcms]
 
 *3057|
 [fc]
 [vo_mar s="maru0422"]
 [ns]Margarita[nse]
-"But if they fall from that height, they'll most likely be unable to move. So,[r]
-rest assured."[pcms]
+"But if they fall from that height, they'll most likely be[r]
+unable to move. So, rest assured."[pcms]
 
 *3058|
 [fc]
-The senior spoke to us with a somewhat desolate expression while looking around[r]
-the riverbank.[pcms]
+The senior spoke to us with a somewhat desolate expression[r]
+while looking around the riverbank.[pcms]
 
 *3059|
 [fc]
@@ -325,7 +333,8 @@ the riverbank.[pcms]
 [fc]
 [vo_mar s="maru0423"]
 [ns]Margarita[nse]
-"I never thought we'd be saved by a dead river. I find it ironic..."[pcms]
+"I never thought we'd be saved by a dead river. I find it[r]
+ironic..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -341,22 +350,24 @@ the riverbank.[pcms]
 [fc]
 [vo_mar s="maru0424"]
 [ns]Margarita[nse]
-"No, even with water it's dead. If you cover the riverbank with concrete like[r]
-this, most of the creatures living in the river will die."[pcms]
+"No, even with water it's dead. If you cover the riverbank[r]
+with concrete like this, most of the creatures living in the[r]
+river will die."[pcms]
 
 *3063|
 [fc]
 [vo_mar s="maru0425"]
 [ns]Margarita[nse]
-"It looks like a river... but it becomes no different from a drain. A dead[r]
-river."[pcms]
+"It looks like a river... but it becomes no different from a[r]
+drain. A dead river."[pcms]
 
 *3064|
 [fc]
 [vo_mar s="maru0426"]
 [ns]Margarita[nse]
-"When I read about it in a book, I was furious at such foolishness. But now...[r]
-we are saved thanks to that dead river."[pcms]
+"When I read about it in a book, I was furious at such[r]
+foolishness. But now... we are saved thanks to that dead[r]
+river."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -368,8 +379,9 @@ we are saved thanks to that dead river."[pcms]
 
 *3066|
 [fc]
-Saying that, the senior laughed self-deprecatingly. She values tradition and had[r]
-been researching this city's history, so she must be feeling complicated.[pcms]
+Saying that, the senior laughed self-deprecatingly. She[r]
+values tradition and had been researching this city's[r]
+history, so she must be feeling complicated.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -377,9 +389,9 @@ been researching this city's history, so she must be feeling complicated.[pcms]
 [fc]
 [vo_mar s="maru0428"]
 [ns]Margarita[nse]
-"I'm not defending the construction that kills rivers, but let's take it as a[r]
-lesson that in life, you never know what will come in handy. ...It's time to[r]
-leave."[pcms]
+"I'm not defending the construction that kills rivers, but[r]
+let's take it as a lesson that in life, you never know what[r]
+will come in handy. ...It's time to leave."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -389,8 +401,8 @@ leave."[pcms]
 
 *3068|
 [fc]
-The senior said this as if to hide her embarrassment and started walking along[r]
-the riverbed towards the sea.[pcms]
+The senior said this as if to hide her embarrassment and[r]
+started walking along the riverbed towards the sea.[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -421,7 +433,8 @@ Yuuho firmly grasped my hand.[pcms]
 
 *3071|
 [fc]
-Her eyes still shone with hope, just like always, even in this situation.[pcms]
+Her eyes still shone with hope, just like always, even in[r]
+this situation.[pcms]
 
 *3072|
 [fc]
@@ -434,7 +447,8 @@ The eyes of my beloved Yuuho.[pcms]
 
 *3074|
 [fc]
-I firmly gripped Yuuho's hand back, and we began to walk together.[pcms]
+I firmly gripped Yuuho's hand back, and we began to walk[r]
+together.[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -442,13 +456,13 @@ I firmly gripped Yuuho's hand back, and we began to walk together.[pcms]
 
 *3075|
 [fc]
-The voices of the crazed people around the river could still be heard on the[r]
-wind.[pcms]
+The voices of the crazed people around the river could still[r]
+be heard on the wind.[pcms]
 
 *3076|
 [fc]
-It was like a zombie movie; the only humans moving in the dead city seemed to be[r]
-them.[pcms]
+It was like a zombie movie; the only humans moving in the[r]
+dead city seemed to be them.[pcms]
 
 *3077|
 [fc]
@@ -457,8 +471,8 @@ them.[pcms]
 
 *3078|
 [fc]
-I spotted a child who looked just like Ren among those crazed people and almost[r]
-called out her name instinctively.[pcms]
+I spotted a child who looked just like Ren among those[r]
+crazed people and almost called out her name instinctively.[pcms]
 
 *3079|
 [fc]
@@ -466,12 +480,13 @@ called out her name instinctively.[pcms]
 
 *3080|
 [fc]
-I mustn't call out. Ren is no longer here. Even if that was Ren, it's something[r]
-else wearing her appearance.[pcms]
+I mustn't call out. Ren is no longer here. Even if that was[r]
+Ren, it's something else wearing her appearance.[pcms]
 
 *3081|
 [fc]
-It's not just Ren. Kousuke too, surely... And then, Dad, Hikochin...[pcms]
+It's not just Ren. Kousuke too, surely... And then, Dad,[r]
+Hikochin...[pcms]
 
 ;//---------------------------------------------------------------
 ;//条件分岐
@@ -510,17 +525,19 @@ And then, Inori-san... too...[pcms]
 
 *3083a|
 [fc]
-The town I was born in, my family, my friends... everything has disappeared.[pcms]
+The town I was born in, my family, my friends... everything[r]
+has disappeared.[pcms]
 
 *3084|
 [fc]
-That disease that drives people mad... It spreads easily, and there's no telling[r]
-how far the damage will extend. I hope it calms down like it did in Tohoku...[pcms]
+That disease that drives people mad... It spreads easily,[r]
+and there's no telling how far the damage will extend. I[r]
+hope it calms down like it did in Tohoku...[pcms]
 
 *3085|
 [fc]
-No, I hate this pattern of always losing someone important in exchange for[r]
-stabilization.[pcms]
+No, I hate this pattern of always losing someone important[r]
+in exchange for stabilization.[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -535,11 +552,13 @@ stabilization.[pcms]
 
 *3087|
 [fc]
-In the hand I clenched in frustration, there was a soft, small hand.[pcms]
+In the hand I clenched in frustration, there was a soft,[r]
+small hand.[pcms]
 
 *3088|
 [fc]
-I thought there was nothing left, and in my clenched fist was...[pcms]
+I thought there was nothing left, and in my clenched fist[r]
+was...[pcms]
 
 *3089|
 [fc]
@@ -587,11 +606,13 @@ Yuuho said that and smiled gently.[pcms]
 
 *3093|
 [fc]
-Everything has become like this; I wonder what will become of us from now on.[pcms]
+Everything has become like this; I wonder what will become[r]
+of us from now on.[pcms]
 
 *3094|
 [fc]
-But still, I have to keep moving forward. Through this world of despair.[pcms]
+But still, I have to keep moving forward. Through this world[r]
+of despair.[pcms]
 
 ;mm CGで終わらすかどうかあとで再考　切り替え多くてテンポ悪い
 [evcg storage="EV014a"][trans_c cross time=500]

@@ -18,7 +18,8 @@
 
 *42|
 [fc]
-"There's no time to hesitate. I sprinted down the hallway with all my might."[pcms]
+"There's no time to hesitate. I sprinted down the hallway[r]
+with all my might."[pcms]
 
 ;//ÅYBGÅFäwâÄì‡òLâ∫ÅEäKíiïtãﬂ
 [bg storage="BG015"][trans_c cross time=500]
@@ -26,20 +27,21 @@
 
 *43|
 [fc]
-"I almost got tangled up with a few infected, but somehow I managed to slip[r]
-through and reach the stairs at the end."[pcms]
+"I almost got tangled up with a few infected, but somehow I[r]
+managed to slip through and reach the stairs at the end."[pcms]
 
 *44|
 [fc]
-"All that's left is to run up these stairs right in front of me."[pcms]
+"All that's left is to run up these stairs right in front of[r]
+me."[pcms]
 
 ;//ÅYBGÅFçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *45|
 [fc]
-"Without thinking about what comes next, I ran straight up the stairs, aiming[r]
-for the third floor."[pcms]
+"Without thinking about what comes next, I ran straight up[r]
+the stairs, aiming for the third floor."[pcms]
 
 ;//Å®block:30050Ç÷
 [jump storage="30050.ks" target=*30050_TOP]

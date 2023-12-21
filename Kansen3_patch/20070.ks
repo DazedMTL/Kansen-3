@@ -20,8 +20,8 @@
 
 *270|
 [fc]
-"Just now, I was thinking about how I can't run away without confirming the[r]
-safety of the three of them."[pcms]
+"Just now, I was thinking about how I can't run away without[r]
+confirming the safety of the three of them."[pcms]
 
 *271|
 [fc]
@@ -33,8 +33,8 @@ safety of the three of them."[pcms]
 
 *273|
 [fc]
-"I decided to abandon my bicycle and climbed off, shouldering my bag and[r]
-clinging to the school fence."[pcms]
+"I decided to abandon my bicycle and climbed off,[r]
+shouldering my bag and clinging to the school fence."[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_d"][ChrSetXY layer=5 x=166 y=0][trans_c cross time=150]
 
@@ -49,12 +49,13 @@ clinging to the school fence."[pcms]
 *275|
 [fc]
 [ns]Infected Man A[nse]
-'Wait a minute. I should be the first to do it with a young girl, right?'"[pcms]
+'Wait a minute. I should be the first to do it with a young[r]
+girl, right?'"[pcms]
 
 *276|
 [fc]
-"The large camping gear was in the way, and as I struggled to climb the fence,[r]
-they closed in on me quickly."[pcms]
+"The large camping gear was in the way, and as I struggled[r]
+to climb the fence, they closed in on me quickly."[pcms]
 
 *277|
 [fc]
@@ -63,8 +64,8 @@ they closed in on me quickly."[pcms]
 
 *278|
 [fc]
-"Despite my shout, the moment I lifted my right leg over the fence, someone[r]
-grabbed the hem of my left pant leg."[pcms]
+"Despite my shout, the moment I lifted my right leg over the[r]
+fence, someone grabbed the hem of my left pant leg."[pcms]
 
 *279|
 [fc]
@@ -80,22 +81,24 @@ grabbed the hem of my left pant leg."[pcms]
 
 *281|
 [fc]
-"Without looking back, I stepped on the face of whoever grabbed me with my left[r]
-foot, using the recoil to tumble inside the fence."[pcms]
+"Without looking back, I stepped on the face of whoever[r]
+grabbed me with my left foot, using the recoil to tumble[r]
+inside the fence."[pcms]
 
 *282|
 [fc]
-"I must have hit something when I fell, but this is no time to sit down in[r]
-pain."[pcms]
+"I must have hit something when I fell, but this is no time[r]
+to sit down in pain."[pcms]
 
 *283|
 [fc]
-"Looking back, there were those groaning and clinging to the fence."[pcms]
+"Looking back, there were those groaning and clinging to the[r]
+fence."[pcms]
 
 *284|
 [fc]
-"No, there were also those who, like me, used their comrades as a foothold to[r]
-climb over the fence."[pcms]
+"No, there were also those who, like me, used their comrades[r]
+as a foothold to climb over the fence."[pcms]
 
 *285|
 [fc]
@@ -107,17 +110,18 @@ climb over the fence."[pcms]
 
 *287|
 [fc]
-"The pool where Yuuho is supposed to be practicing is towards the left[r]
-gymnasium."[pcms]
+"The pool where Yuuho is supposed to be practicing is[r]
+towards the left gymnasium."[pcms]
 
 *288|
 [fc]
-"The music room where Ren is supposed to be is in the right special classroom[r]
-building."[pcms]
+"The music room where Ren is supposed to be is in the right[r]
+special classroom building."[pcms]
 
 *289|
 [fc]
-"If I were to run, the closest would be the regular classroom building."[pcms]
+"If I were to run, the closest would be the regular[r]
+classroom building."[pcms]
 
 *290|
 [fc]

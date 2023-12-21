@@ -29,8 +29,8 @@
 
 *4774|
 [fc]
-As we moved forward, just like Kousuke and the senior said, the path split into[r]
-two.[pcms]
+As we moved forward, just like Kousuke and the senior said,[r]
+the path split into two.[pcms]
 
 *4775|
 [fc]
@@ -43,9 +43,10 @@ two.[pcms]
 [fc]
 [vo_mar s="maru0602"]
 [ns]Margarita[nse]
-"Yes, the right leads towards Yoyogi Park. If you want to go to the sports[r]
-center or the DHK Broadcasting Center, this is the way. ...Should we prioritize[r]
-escaping from underground after all?"[pcms]
+"Yes, the right leads towards Yoyogi Park. If you want to go[r]
+to the sports center or the DHK Broadcasting Center, this is[r]
+the way. ...Should we prioritize escaping from underground[r]
+after all?"[pcms]
 
 *4777|
 [fc]
@@ -99,7 +100,8 @@ The senior's response seemed heavy somehow.[pcms]
 *4785|
 [fc]
 [ns]Kousuke[nse]
-"Even you get uneasy, senior? Could it be a premonition or something?"[pcms]
+"Even you get uneasy, senior? Could it be a premonition or[r]
+something?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -107,8 +109,8 @@ The senior's response seemed heavy somehow.[pcms]
 [fc]
 [vo_mar s="maru0605"]
 [ns]Margarita[nse]
-"Well, that's one way to put it... but there's no basis for it. Don't worry[r]
-about it."[pcms]
+"Well, that's one way to put it... but there's no basis for[r]
+it. Don't worry about it."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -129,15 +131,16 @@ The senior moved ahead as if to shake off the anxiety.[pcms]
 
 *4789|
 [fc]
-We hurried on, praying that this underground passage would lead to DHK and that[r]
-we could get inside the center.[pcms]
+We hurried on, praying that this underground passage would[r]
+lead to DHK and that we could get inside the center.[pcms]
 
 ;//BG　地下道？
 [bg storage="BG027"][trans_c cross time=500]
 
 *4790|
 [fc]
-With every step, the violently shaking LED lantern light flickered around us.[pcms]
+With every step, the violently shaking LED lantern light[r]
+flickered around us.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -152,8 +155,8 @@ With every step, the violently shaking LED lantern light flickered around us.[pc
 
 *4792|
 [fc]
-After a while, the senior at the front seemed to have found something and[r]
-stopped.[pcms]
+After a while, the senior at the front seemed to have found[r]
+something and stopped.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -176,8 +179,8 @@ stopped.[pcms]
 
 *4795|
 [fc]
-When the senior pointed the light, it illuminated something like a square metal[r]
-box.[pcms]
+When the senior pointed the light, it illuminated something[r]
+like a square metal box.[pcms]
 
 *4796|
 [fc]
@@ -197,8 +200,8 @@ box.[pcms]
 [fc]
 [vo_mar s="maru0609"]
 [ns]Margarita[nse]
-"This place is... around the underground area of the general government building[r]
-but..."[pcms]
+"This place is... around the underground area of the general[r]
+government building but..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -218,11 +221,13 @@ but..."[pcms]
 *4801|
 [fc]
 [ns]Wataru[nse]
-"There might be something useful inside, so let's check it out."[pcms]
+"There might be something useful inside, so let's check it[r]
+out."[pcms]
 
 *4802|
 [fc]
-I suggested that to Maruko-senpai, who was tilting her head in confusion.[pcms]
+I suggested that to Maruko-senpai, who was tilting her head[r]
+in confusion.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -289,7 +294,8 @@ I trusted Ren's words and set her down on the floor.[pcms]
 *4813|
 [fc]
 [ns]Wataru[nse]
-"No, there will probably be dust flying around, so Ren, stay back a bit..."[pcms]
+"No, there will probably be dust flying around, so Ren, stay[r]
+back a bit..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -320,8 +326,8 @@ Ren looked down sadly and moved a little away from us.[pcms]
 
 *4818|
 [fc]
-Ren's expression brightened up a bit at Kousuke's words. I really want to learn[r]
-from Kousuke's kindness.[pcms]
+Ren's expression brightened up a bit at Kousuke's words. I[r]
+really want to learn from Kousuke's kindness.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -360,7 +366,8 @@ Kousuke and I tried to open the locker.[pcms]
 *4824|
 [fc]
 [ns]Kousuke[nse]
-"Peh, peh... I inhaled some dust... It was a good call to keep Ren-chan away."[pcms]
+"Peh, peh... I inhaled some dust... It was a good call to[r]
+keep Ren-chan away."[pcms]
 
 *4825|
 [fc]
@@ -372,8 +379,8 @@ Kousuke and I tried to open the locker.[pcms]
 *4826|
 [fc]
 [ns]Kousuke[nse]
-"Anyway, I'll rummage through it, so Wataru, make sure to keep the light[r]
-steady."[pcms]
+"Anyway, I'll rummage through it, so Wataru, make sure to[r]
+keep the light steady."[pcms]
 
 *4827|
 [fc]
@@ -410,8 +417,9 @@ steady."[pcms]
 
 *4829|
 [fc]
-The dusty locker, no matter which one we opened, contained nothing but[r]
-raincoats, and when we searched the bottom, only boots came out.[pcms]
+The dusty locker, no matter which one we opened, contained[r]
+nothing but raincoats, and when we searched the bottom, only[r]
+boots came out.[pcms]
 
 *4830|
 [fc]
@@ -428,7 +436,8 @@ raincoats, and when we searched the bottom, only boots came out.[pcms]
 
 *4832|
 [fc]
-As I answered with a sigh mixed in, Senpai just happened to come back our way.[pcms]
+As I answered with a sigh mixed in, Senpai just happened to[r]
+come back our way.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -436,8 +445,8 @@ As I answered with a sigh mixed in, Senpai just happened to come back our way.[p
 [fc]
 [vo_mar s="maru0612"]
 [ns]Margarita[nse]
-"No good. It's securely locked from the inside. It doesn't seem like it will[r]
-open easily."[pcms]
+"No good. It's securely locked from the inside. It doesn't[r]
+seem like it will open easily."[pcms]
 
 *4834|
 [fc]
@@ -448,9 +457,9 @@ open easily."[pcms]
 [fc]
 [vo_mar s="maru0613"]
 [ns]Margarita[nse]
-"Yes, if we could have gotten inside that big, thick door, we could have cut off[r]
-any worries about being pursued from underground. Plus, there might have been a[r]
-passage to DHK."[pcms]
+"Yes, if we could have gotten inside that big, thick door,[r]
+we could have cut off any worries about being pursued from[r]
+underground. Plus, there might have been a passage to DHK."[pcms]
 
 *4836|
 [fc]
@@ -459,8 +468,8 @@ passage to DHK."[pcms]
 
 *4837|
 [fc]
-It's disappointing. As Senpai said, there might be a passage to the nearby[r]
-buildings.[pcms]
+It's disappointing. As Senpai said, there might be a passage[r]
+to the nearby buildings.[pcms]
 
 *4838|
 [fc]
@@ -506,16 +515,17 @@ Before we knew it, Ren had come closer.[pcms]
 [fc]
 [vo_mar s="maru0616"]
 [ns]Margarita[nse]
-"Considering the location, they might be supplies for the government office...?[r]
-I don't know why they would be left here though..."[pcms]
+"Considering the location, they might be supplies for the[r]
+government office...? I don't know why they would be left[r]
+here though..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4845|
 [fc]
 [ns]Kousuke[nse]
-"Well, it's just like a government office to waste tax money on things like[r]
-this~"[pcms]
+"Well, it's just like a government office to waste tax money[r]
+on things like this~"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -531,13 +541,15 @@ this~"[pcms]
 [fc]
 [vo_mar s="maru0617"]
 [ns]Margarita[nse]
-"Well, if even students are making fun of the administration, there must be[r]
-problems... Let's not dwell on this and hurry on."[pcms]
+"Well, if even students are making fun of the[r]
+administration, there must be problems... Let's not dwell on[r]
+this and hurry on."[pcms]
 
 *4848|
 [fc]
 [ns]Wataru[nse]
-"Ah, that's right! Senpai, can we use these boots and coats for something?"[pcms]
+"Ah, that's right! Senpai, can we use these boots and coats[r]
+for something?"[pcms]
 
 *4849|
 [fc]
@@ -552,23 +564,25 @@ Senpai peered into the raincoats and boots and pondered.[pcms]
 *4851|
 [fc]
 [ns]Wataru[nse]
-"Even if we manage to meet up with Dad, if we can't escape to the surface, we[r]
-might have to come back here and flee through the river."[pcms]
+"Even if we manage to meet up with Dad, if we can't escape[r]
+to the surface, we might have to come back here and flee[r]
+through the river."[pcms]
 
 *4852|
 [fc]
 [vo_mar s="maru0619"]
 [ns]Margarita[nse]
-"Indeed... The raincoats seem to have various uses. Plus, I'm still in my indoor[r]
-shoes..."[pcms]
+"Indeed... The raincoats seem to have various uses. Plus,[r]
+I'm still in my indoor shoes..."[pcms]
 
 *4853|
 [fc]
 [vo_mar s="maru0620"]
 [ns]Margarita[nse]
-"These boots seem to be of high quality, not much inferior to military ones.[r]
-They're likely better than staying in indoor shoes... With this many, there[r]
-should be a pair that fits perfectly."[pcms]
+"These boots seem to be of high quality, not much inferior[r]
+to military ones. They're likely better than staying in[r]
+indoor shoes... With this many, there should be a pair that[r]
+fits perfectly."[pcms]
 
 ;//上の方では「ブーツ」ですが表記統一しますか？
 ;//40300.txtでも「長靴」表記有り
@@ -578,8 +592,8 @@ should be a pair that fits perfectly."[pcms]
 *4854|
 [fc]
 [ns]Kousuke[nse]
-"As expected of the government office. They really do buy unnecessarily[r]
-expensive stuff."[pcms]
+"As expected of the government office. They really do buy[r]
+unnecessarily expensive stuff."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -587,7 +601,8 @@ expensive stuff."[pcms]
 [fc]
 [vo_mar s="maru0621"]
 [ns]Margarita[nse]
-"Well, thanks to that, we're saved... Let's be honestly grateful for that."[pcms]
+"Well, thanks to that, we're saved... Let's be honestly[r]
+grateful for that."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -595,8 +610,8 @@ expensive stuff."[pcms]
 [fc]
 [vo_ren s="ren0613"]
 [ns]Ren[nse]
-"I... I'm also in indoor shoes, so should I be thankful too? For the wasteful[r]
-use of tax money...?"[pcms]
+"I... I'm also in indoor shoes, so should I be thankful too?[r]
+For the wasteful use of tax money...?"[pcms]
 
 *4857|
 [fc]
@@ -638,7 +653,8 @@ At Ren's words, we all laughed and felt a bit more at ease.[pcms]
 
 *4862|
 [fc]
-We all put on the boots and packed the raincoats into our bags.[pcms]
+We all put on the boots and packed the raincoats into our[r]
+bags.[pcms]
 
 ;//上の方では「ブーツ」ですが表記統一しますか？
 ;//40300.txtでも「長靴」表記有り
@@ -737,8 +753,9 @@ Senpai searched around the door.[pcms]
 
 *4875|
 [fc]
-But on the rusty door, barely readable as "DHK," there was something resembling[r]
-a keyhole, but no lock to open it manually.[pcms]
+But on the rusty door, barely readable as "DHK," there was[r]
+something resembling a keyhole, but no lock to open it[r]
+manually.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -779,7 +796,8 @@ Bang, bang, bang...[pcms]
 
 *4881|
 [fc]
-With every strike, a tingling numbness and pain ran through my hand.[pcms]
+With every strike, a tingling numbness and pain ran through[r]
+my hand.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -818,8 +836,8 @@ Kousuke joined in, pounding on the door as well.[pcms]
 [fc]
 [vo_mar s="maru0628"]
 [ns]Margarita[nse]
-"...Doing that is futile. I understand how you feel, but it's just a waste of[r]
-energy."[pcms]
+"...Doing that is futile. I understand how you feel, but[r]
+it's just a waste of energy."[pcms]
 
 *4886|
 [fc]
@@ -829,17 +847,19 @@ Yet, I was so frustrated...[pcms]
 [fc]
 [vo_mar s="maru0629"]
 [ns]Margarita[nse]
-"They might hear the noise and come for us. Plus, there seems to be another door[r]
-ahead. There appears to be a path to the left as well..."[pcms]
+"They might hear the noise and come for us. Plus, there[r]
+seems to be another door ahead. There appears to be a path[r]
+to the left as well..."[pcms]
 
 *4888|
 [fc]
-Senpai, unlike me, was still calmly surveying the surroundings.[pcms]
+Senpai, unlike me, was still calmly surveying the[r]
+surroundings.[pcms]
 
 *4889|
 [fc]
-That's right. In times like these, I must control my emotions, just as Senpai[r]
-says.[pcms]
+That's right. In times like these, I must control my[r]
+emotions, just as Senpai says.[pcms]
 
 *4890|
 [fc]
@@ -854,7 +874,8 @@ I realized something obvious only just now.[pcms]
 [fc]
 [vo_mar s="maru0630"]
 [ns]Margarita[nse]
-"Does anyone have a cell phone? We might be able to contact Ayase's father."[pcms]
+"Does anyone have a cell phone? We might be able to contact[r]
+Ayase's father."[pcms]
 
 *4893|
 [fc]
@@ -874,8 +895,8 @@ I realized something obvious only just now.[pcms]
 
 *4896|
 [fc]
-The thing I had just thought of was quickly pointed out by Senpai before I could[r]
-say it.[pcms]
+The thing I had just thought of was quickly pointed out by[r]
+Senpai before I could say it.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -883,7 +904,8 @@ say it.[pcms]
 [fc]
 [vo_ren s="ren0617"]
 [ns]Ren[nse]
-"I can use my cell phone... Oh... I left all my belongings behind."[pcms]
+"I can use my cell phone... Oh... I left all my belongings[r]
+behind."[pcms]
 
 *4898|
 [fc]
@@ -904,8 +926,9 @@ Kousuke's face turned pale with shock.[pcms]
 *4901|
 [fc]
 [ns]Wataru[nse]
-"No, when we were escaping, I made sure not to drop it by stuffing it into my[r]
-bag. So it might take some time to get it out..."[pcms]
+"No, when we were escaping, I made sure not to drop it by[r]
+stuffing it into my bag. So it might take some time to get[r]
+it out..."[pcms]
 
 *4902|
 [fc]
@@ -921,8 +944,9 @@ I explained while scratching my head.[pcms]
 *4904|
 [fc]
 [ns]Wataru[nse]
-"Well, I have to open it and see... I just thought of doing it when I noticed[r]
-the cell phone might fall out, so even I don't know."[pcms]
+"Well, I have to open it and see... I just thought of doing[r]
+it when I noticed the cell phone might fall out, so even I[r]
+don't know."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -930,8 +954,8 @@ the cell phone might fall out, so even I don't know."[pcms]
 [fc]
 [vo_mar s="maru0632"]
 [ns]Margarita[nse]
-"Can't be helped. Let's take a quick break here and check our belongings. It[r]
-seems like a good place to regroup."[pcms]
+"Can't be helped. Let's take a quick break here and check[r]
+our belongings. It seems like a good place to regroup."[pcms]
 
 ;//・マル、仕方ないから、この脇道で一休みしようと提案。
 ;//プロット

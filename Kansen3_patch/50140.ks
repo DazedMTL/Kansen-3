@@ -28,18 +28,19 @@
 
 *861|
 [fc]
-A few minutes later. We were standing in the 1F backyard passage of the LASER[r]
-building.[pcms]
+A few minutes later. We were standing in the 1F backyard[r]
+passage of the LASER building.[pcms]
 
 *862|
 [fc]
-Green lights indicating emergency exits were lined up, with red lights silently[r]
-blinking alongside them.[pcms]
+Green lights indicating emergency exits were lined up, with[r]
+red lights silently blinking alongside them.[pcms]
 
 *863|
 [fc]
-It seems our intrusion was detected, and the remaining security system[r]
-activated, but thank goodness, the emergency bell didn't ring.[pcms]
+It seems our intrusion was detected, and the remaining[r]
+security system activated, but thank goodness, the emergency[r]
+bell didn't ring.[pcms]
 
 ;//---------------------------------------------------------------
 ;//Å£îªíË
@@ -60,12 +61,14 @@ activated, but thank goodness, the emergency bell didn't ring.[pcms]
 *864|
 [fc]
 [ns]Kousuke[nse]
-"Man, crowbars are so handy. I should try using one next time."[pcms]
+"Man, crowbars are so handy. I should try using one next[r]
+time."[pcms]
 
 *865|
 [fc]
-Ren, with sparkling eyes and hands clasped in front of her chest, admiringly[r]
-responded to Kousuke's carefree impression.[pcms]
+Ren, with sparkling eyes and hands clasped in front of her[r]
+chest, admiringly responded to Kousuke's carefree[r]
+impression.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -73,7 +76,8 @@ responded to Kousuke's carefree impression.[pcms]
 [fc]
 [vo_ren s="ren1341"]
 [ns]Ren[nse]
-"Yeah! It's amazing! The principle of the lever is simply utilized..."[pcms]
+"Yeah! It's amazing! The principle of the lever is simply[r]
+utilized..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -81,8 +85,9 @@ responded to Kousuke's carefree impression.[pcms]
 [fc]
 [vo_ren s="ren1342"]
 [ns]Ren[nse]
-"This is like, a devilish invention on par with nuclear weapons, or rather...[r]
-the crystallization of human wisdom..."[pcms]
+"This is like, a devilish invention on par with nuclear[r]
+weapons, or rather... the crystallization of human[r]
+wisdom..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f6"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -93,7 +98,8 @@ the crystallization of human wisdom..."[pcms]
 
 *869|
 [fc]
-I couldn't help but smile a little at Ren's ongoing enthusiastic speech.[pcms]
+I couldn't help but smile a little at Ren's ongoing[r]
+enthusiastic speech.[pcms]
 
 [jump storage="50140.ks" target=*50140_04]
 
@@ -106,27 +112,30 @@ I couldn't help but smile a little at Ren's ongoing enthusiastic speech.[pcms]
 *870|
 [fc]
 [ns]Kousuke[nse]
-"But really, crowbars are so handy. The principle of the lever, right?"[pcms]
+"But really, crowbars are so handy. The principle of the[r]
+lever, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *871|
 [fc]
 [ns]Kousuke[nse]
-"If it's this convenient, they should report about it more in the news."[pcms]
+"If it's this convenient, they should report about it more[r]
+in the news."[pcms]
 
 *872|
 [fc]
-Perhaps reassured by having entered the building, Kousuke excitedly started[r]
-talking.[pcms]
+Perhaps reassured by having entered the building, Kousuke[r]
+excitedly started talking.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *873|
 [fc]
 [ns]Kousuke[nse]
-"Why don't they explain it in detail on the news? Instead of saying 'opened with[r]
-a crowbar', they say 'opened with something like a crowbar'."[pcms]
+"Why don't they explain it in detail on the news? Instead of[r]
+saying 'opened with a crowbar', they say 'opened with[r]
+something like a crowbar'."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -134,9 +143,9 @@ a crowbar', they say 'opened with something like a crowbar'."[pcms]
 [fc]
 [vo_mar s="maru1376"]
 [ns]Margarita[nse]
-"I was curious about that too and looked it up. It's a set phrase when the tool[r]
-can't be specified. Like 'something like a gun', 'something like a knife', and[r]
-so on."[pcms]
+"I was curious about that too and looked it up. It's a set[r]
+phrase when the tool can't be specified. Like 'something[r]
+like a gun', 'something like a knife', and so on."[pcms]
 
 *875|
 [fc]
@@ -147,11 +156,13 @@ so on."[pcms]
 
 *876|
 [fc]
-I wonder how much knowledge is packed into this person's head. I'm half amazed.[pcms]
+I wonder how much knowledge is packed into this person's[r]
+head. I'm half amazed.[pcms]
 
 *877|
 [fc]
-But it seems not all of it is necessarily useful knowledge...[pcms]
+But it seems not all of it is necessarily useful[r]
+knowledge...[pcms]
 
 [jump storage="50140.ks" target=*50140_04]
 
@@ -164,12 +175,13 @@ But it seems not all of it is necessarily useful knowledge...[pcms]
 *878|
 [fc]
 [ns]Kousuke[nse]
-"Man, crowbars are so handy. I should try using one next time."[pcms]
+"Man, crowbars are so handy. I should try using one next[r]
+time."[pcms]
 
 *879|
 [fc]
-Perhaps reassured by having entered the building, Kousuke excitedly started[r]
-talking.[pcms]
+Perhaps reassured by having entered the building, Kousuke[r]
+excitedly started talking.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -177,20 +189,21 @@ talking.[pcms]
 [fc]
 [vo_yuh s="yuho1494"]
 [ns]Yuuho[nse]
-"Kousuke, you should probably stay away from crowbars. Maybe 'something like a[r]
-crowbar' would be better for you?"[pcms]
+"Kousuke, you should probably stay away from crowbars. Maybe[r]
+'something like a crowbar' would be better for you?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *881|
 [fc]
 [ns]Kousuke[nse]
-"Eh!? What's that supposed to mean!? Is there a difference!? Is this about which[r]
-suits me better or something!?"[pcms]
+"Eh!? What's that supposed to mean!? Is there a difference!?[r]
+Is this about which suits me better or something!?"[pcms]
 
 *882|
 [fc]
-Kousuke, easily caught by the bait, started to panic and make a fuss.[pcms]
+Kousuke, easily caught by the bait, started to panic and[r]
+make a fuss.[pcms]
 
 *883|
 [fc]
@@ -229,9 +242,10 @@ Yuuho tilted her head towards the blinking red light.[pcms]
 
 *888|
 [fc]
-This place was originally a commercial facility, so it makes sense that the[r]
-alarm isn't sounding, but if any security-related person had survived, it would[r]
-be about time for them to show up.[pcms]
+This place was originally a commercial facility, so it makes[r]
+sense that the alarm isn't sounding, but if any security-[r]
+related person had survived, it would be about time for them[r]
+to show up.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -250,17 +264,19 @@ be about time for them to show up.[pcms]
 
 *891|
 [fc]
-In front of the corridors stretching left and right, as Senpai was about to[r]
-speak, Kousuke quickly recovered and stepped forward with a smile.[pcms]
+In front of the corridors stretching left and right, as[r]
+Senpai was about to speak, Kousuke quickly recovered and[r]
+stepped forward with a smile.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *892|
 [fc]
 [ns]Kousuke[nse]
-"Let's go right. There's a booth where security guards usually station[r]
-themselves, so we might get some idea of what's going on. Plus, there's an[r]
-emergency staircase that way too."[pcms]
+"Let's go right. There's a booth where security guards[r]
+usually station themselves, so we might get some idea of[r]
+what's going on. Plus, there's an emergency staircase that[r]
+way too."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -272,25 +288,26 @@ emergency staircase that way too."[pcms]
 
 *894|
 [fc]
-Following Kousuke's suggestion, we headed right down the corridor.[pcms]
+Following Kousuke's suggestion, we headed right down the[r]
+corridor.[pcms]
 
 *895|
 [fc]
-At the end, we could see the iron door of the emergency exit that we couldn't[r]
-enter earlier.[pcms]
+At the end, we could see the iron door of the emergency exit[r]
+that we couldn't enter earlier.[pcms]
 
 *896|
 [fc]
-There's also an entrance to the security booth ahead, and another corridor[r]
-before that...[pcms]
+There's also an entrance to the security booth ahead, and[r]
+another corridor before that...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *897|
 [fc]
 [ns]Kousuke[nse]
-"That way leads to the Udagawa street entrance. The other side has the main[r]
-entrance... but the door is closed."[pcms]
+"That way leads to the Udagawa street entrance. The other[r]
+side has the main entrance... but the door is closed."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -309,13 +326,13 @@ entrance... but the door is closed."[pcms]
 
 *900|
 [fc]
-We pressed our ears against the fire door to try and catch any sounds from the[r]
-other side.[pcms]
+We pressed our ears against the fire door to try and catch[r]
+any sounds from the other side.[pcms]
 
 *901|
 [fc]
-...There were sounds. Dragging footsteps. And groaning... It seemed like[r]
-infected were wandering around.[pcms]
+...There were sounds. Dragging footsteps. And groaning... It[r]
+seemed like infected were wandering around.[pcms]
 
 *902|
 [fc]
@@ -328,8 +345,8 @@ infected were wandering around.[pcms]
 [fc]
 [vo_mar s="maru1380"]
 [ns]Margarita[nse]
-"Then it would be wise not to approach the entrance. Let's leave the door as it[r]
-is."[pcms]
+"Then it would be wise not to approach the entrance. Let's[r]
+leave the door as it is."[pcms]
 
 ;//ÅYîwåiÅFçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -341,8 +358,9 @@ is."[pcms]
 
 *905|
 [fc]
-The small booth that could barely fit one adult was empty. However, it seemed[r]
-like the monitors and machinery inside were still operating.[pcms]
+The small booth that could barely fit one adult was empty.[r]
+However, it seemed like the monitors and machinery inside[r]
+were still operating.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -350,17 +368,19 @@ like the monitors and machinery inside were still operating.[pcms]
 [fc]
 [vo_mar s="maru1381"]
 [ns]Margarita[nse]
-"The monitors might come in handy at some point. Let's remember this."[pcms]
+"The monitors might come in handy at some point. Let's[r]
+remember this."[pcms]
 
 *907|
 [fc]
-The booth protruded partially outside of the building. The exposed part was[r]
-covered with reinforced glass so while we could see out, we were also fully[r]
-visible from outside.[pcms]
+The booth protruded partially outside of the building. The[r]
+exposed part was covered with reinforced glass so while we[r]
+could see out, we were also fully visible from outside.[pcms]
 
 *908|
 [fc]
-We decided to leave the door slightly open and watch from the corridor.[pcms]
+We decided to leave the door slightly open and watch from[r]
+the corridor.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -372,7 +392,8 @@ We decided to leave the door slightly open and watch from the corridor.[pcms]
 
 *910|
 [fc]
-Ren, intrigued, was about to stick her face out the door but...[pcms]
+Ren, intrigued, was about to stick her face out the door[r]
+but...[pcms]
 
 *911|
 [fc]
@@ -386,8 +407,8 @@ Ren, intrigued, was about to stick her face out the door but...[pcms]
 
 *912|
 [fc]
-She spotted an infected walking at a distance close enough to reach out to and[r]
-hastily pulled her face back in.[pcms]
+She spotted an infected walking at a distance close enough[r]
+to reach out to and hastily pulled her face back in.[pcms]
 
 *913|
 [fc]
@@ -408,15 +429,17 @@ hastily pulled her face back in.[pcms]
 
 *915|
 [fc]
-After a full round of scouting, we returned to the backyard corridor once again.[pcms]
+After a full round of scouting, we returned to the backyard[r]
+corridor once again.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *916|
 [fc]
 [ns]Kousuke[nse]
-"For now, if we're going to the DJ Bar, there's a delivery elevator on the[r]
-opposite side that we can use without going out to the entrance, right?"[pcms]
+"For now, if we're going to the DJ Bar, there's a delivery[r]
+elevator on the opposite side that we can use without going[r]
+out to the entrance, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -424,8 +447,8 @@ opposite side that we can use without going out to the entrance, right?"[pcms]
 [fc]
 [vo_mar s="maru1382"]
 [ns]Margarita[nse]
-"Elevators don't offer an escape route if something happens. If there's an[r]
-emergency staircase, let's use that."[pcms]
+"Elevators don't offer an escape route if something happens.[r]
+If there's an emergency staircase, let's use that."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 

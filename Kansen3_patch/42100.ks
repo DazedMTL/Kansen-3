@@ -22,7 +22,8 @@
 
 *5498|
 [fc]
-As I was worrying, the vibration indicating an incoming call had stopped.[pcms]
+As I was worrying, the vibration indicating an incoming call[r]
+had stopped.[pcms]
 
 *5499|
 [fc]
@@ -38,19 +39,19 @@ Was that... a call from Yuuho?[pcms]
 
 *5502|
 [fc]
-Even if it's from Yuuho's phone, it doesn't necessarily mean it's her. If[r]
-someone else was messing with her phone, they could have called me just like[r]
-that.[pcms]
+Even if it's from Yuuho's phone, it doesn't necessarily mean[r]
+it's her. If someone else was messing with her phone, they[r]
+could have called me just like that.[pcms]
 
 *5503|
 [fc]
-But even if that's the case... did Yuuho choose my number... or had she set it[r]
-so that I was on speed dial?[pcms]
+But even if that's the case... did Yuuho choose my number...[r]
+or had she set it so that I was on speed dial?[pcms]
 
 *5504|
 [fc]
-In other words, even if that call wasn't from Yuuho... she had made it so she[r]
-could call me right away...[pcms]
+In other words, even if that call wasn't from Yuuho... she[r]
+had made it so she could call me right away...[pcms]
 
 *5505|
 [fc]
@@ -75,7 +76,8 @@ The LCD screen lights up with the name "Yuuho" again.[pcms]
 
 
 ;	[link storage="42110.ks" target=*42110_TOP]èoÇÈ[endlink]
-; (link storage="42120.ks" target=*42120_TOP)Don't answer(endlink)[pcms]
+; (link storage="42120.ks" target=*42120_TOP)Don't[r]
+answer(endlink)[pcms]
 
 *SEL37|èoÇÈÅ^èoÇ»Ç¢
 [fc]

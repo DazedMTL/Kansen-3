@@ -19,28 +19,31 @@
 
 *375|
 [fc]
-Indeed, there's no guarantee that the catwalk is safe. With my lack of physical[r]
-and arm strength, I might end up being a burden rather than helping Yuuho.[pcms]
+Indeed, there's no guarantee that the catwalk is safe. With[r]
+my lack of physical and arm strength, I might end up being a[r]
+burden rather than helping Yuuho.[pcms]
 
 *376|
 [fc]
-I'd like to rescue Yuuho with my own hands if possible, but right now, we should[r]
-prioritize the most reliable method.[pcms]
+I'd like to rescue Yuuho with my own hands if possible, but[r]
+right now, we should prioritize the most reliable method.[pcms]
 
 *377|
 [fc]
 [ns]Wataru[nse]
-"Understood. Then I'll guard this place. Please... take care of Yuuho."[pcms]
+"Understood. Then I'll guard this place. Please... take care[r]
+of Yuuho."[pcms]
 
 *378|
 [fc]
-Like a prince from a fairy tale... I really wanted to dash over like a knight[r]
-from a movie and rescue Yuuho in a cool way.[pcms]
+Like a prince from a fairy tale... I really wanted to dash[r]
+over like a knight from a movie and rescue Yuuho in a cool[r]
+way.[pcms]
 
 *379|
 [fc]
-But I can't do that. If I can't, then I have to do the best within my[r]
-limitations.[pcms]
+But I can't do that. If I can't, then I have to do the best[r]
+within my limitations.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -61,17 +64,18 @@ limitations.[pcms]
 [fc]
 [vo_mar s="maru0022"]
 [ns]Margarita[nse]
-"In this narrow space, an amateur swinging a stick around won't be able to deal[r]
-effective damage."[pcms]
+"In this narrow space, an amateur swinging a stick around[r]
+won't be able to deal effective damage."[pcms]
 
 *383|
 [fc]
-Just as Margarita-senpai says, I'm a complete amateur when it comes to fighting[r]
-or brawling.[pcms]
+Just as Margarita-senpai says, I'm a complete amateur when[r]
+it comes to fighting or brawling.[pcms]
 
 *384|
 [fc]
-Honestly, I'm also unsure about how violent I can get against another person.[pcms]
+Honestly, I'm also unsure about how violent I can get[r]
+against another person.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -83,7 +87,8 @@ Honestly, I'm also unsure about how violent I can get against another person.[pc
 
 *386|
 [fc]
-As if seeing through my anxiety, Margarita-senpai hit the nail on the head.[pcms]
+As if seeing through my anxiety, Margarita-senpai hit the[r]
+nail on the head.[pcms]
 
 *387|
 [fc]
@@ -96,7 +101,8 @@ As if seeing through my anxiety, Margarita-senpai hit the nail on the head.[pcms
 [fc]
 [vo_mar s="maru0024"]
 [ns]Margarita[nse]
-"What's important in this kind of fight is not technique but spirit."[pcms]
+"What's important in this kind of fight is not technique but[r]
+spirit."[pcms]
 
 *389|
 [fc]
@@ -105,13 +111,14 @@ As if seeing through my anxiety, Margarita-senpai hit the nail on the head.[pcms
 
 *390|
 [fc]
-No matter how gruesomely they attack, the opponent is human. They have families,[r]
-friends, futures, and have lived their lives crying and laughing.[pcms]
+No matter how gruesomely they attack, the opponent is human.[r]
+They have families, friends, futures, and have lived their[r]
+lives crying and laughing.[pcms]
 
 *391|
 [fc]
-Is it really okay to hurt them, even in self-defense, as if driving away harmful[r]
-beasts...?[pcms]
+Is it really okay to hurt them, even in self-defense, as if[r]
+driving away harmful beasts...?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -119,8 +126,9 @@ beasts...?[pcms]
 [fc]
 [vo_mar s="maru0025"]
 [ns]Margarita[nse]
-"Don't think of them as people. They're beasts in human form. If you want to[r]
-protect yourself and your loved ones, you have no choice but to fight."[pcms]
+"Don't think of them as people. They're beasts in human[r]
+form. If you want to protect yourself and your loved ones,[r]
+you have no choice but to fight."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -131,7 +139,8 @@ protect yourself and your loved ones, you have no choice but to fight."[pcms]
 
 *394|
 [fc]
-I wondered why she could make such a clear-cut decision so easily.[pcms]
+I wondered why she could make such a clear-cut decision so[r]
+easily.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -139,13 +148,15 @@ I wondered why she could make such a clear-cut decision so easily.[pcms]
 [fc]
 [vo_mar s="maru0026"]
 [ns]Margarita[nse]
-"People hurting people... it may not happen often here, but... it's an act that[r]
-has been repeated many times throughout human history."[pcms]
+"People hurting people... it may not happen often here,[r]
+but... it's an act that has been repeated many times[r]
+throughout human history."[pcms]
 
 *396|
 [fc]
-I understand Margarita-senpai's logic well. Wars and crimes still occur[r]
-frequently around the world, and many people die by human hands every day.[pcms]
+I understand Margarita-senpai's logic well. Wars and crimes[r]
+still occur frequently around the world, and many people die[r]
+by human hands every day.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -153,8 +164,9 @@ frequently around the world, and many people die by human hands every day.[pcms]
 [fc]
 [vo_mar s="maru0027"]
 [ns]Margarita[nse]
-"It's sad and painful, but if you want to protect what's important to you, you[r]
-have no choice but to fight. I'm counting on you until I return."[pcms]
+"It's sad and painful, but if you want to protect what's[r]
+important to you, you have no choice but to fight. I'm[r]
+counting on you until I return."[pcms]
 
 *398|
 [fc]
@@ -163,8 +175,9 @@ have no choice but to fight. I'm counting on you until I return."[pcms]
 
 *399|
 [fc]
-That's right. Just as Margarita-senpai said. There's nothing else to do. To[r]
-protect what's important, there's nothing else to do but that.[pcms]
+That's right. Just as Margarita-senpai said. There's nothing[r]
+else to do. To protect what's important, there's nothing[r]
+else to do but that.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -172,8 +185,8 @@ protect what's important, there's nothing else to do but that.[pcms]
 [fc]
 [vo_mar s="maru0028"]
 [ns]Margarita[nse]
-"You don't have to do anything difficult. Just poke and knock them down. That's[r]
-certain."[pcms]
+"You don't have to do anything difficult. Just poke and[r]
+knock them down. That's certain."[pcms]
 
 *401|
 [fc]
@@ -198,8 +211,8 @@ certain."[pcms]
 
 *404|
 [fc]
-After saying that, Margarita-senpai opened the door and went out onto the[r]
-catwalk.[pcms]
+After saying that, Margarita-senpai opened the door and went[r]
+out onto the catwalk.[pcms]
 
 *405|
 [fc]
@@ -208,8 +221,8 @@ catwalk.[pcms]
 
 *406|
 [fc]
-The last words seemed to crack the resolve and determination I had built up from[r]
-the ground up.[pcms]
+The last words seemed to crack the resolve and determination[r]
+I had built up from the ground up.[pcms]
 
 ;//〆ＢＧ：体育館内
 [bg storage="BG014"][trans_c cross time=500]
@@ -217,13 +230,15 @@ the ground up.[pcms]
 
 *407|
 [fc]
-Left alone in this place, I almost grimaced at the sensual moans echoing[r]
-throughout the gymnasium and the overpowering smell of sex.[pcms]
+Left alone in this place, I almost grimaced at the sensual[r]
+moans echoing throughout the gymnasium and the overpowering[r]
+smell of sex.[pcms]
 
 *408|
 [fc]
-The scene was too gruesome, too detached from reality. The strange smell and[r]
-presence. The air was dizzying with a murky mix of fear and pleasure.[pcms]
+The scene was too gruesome, too detached from reality. The[r]
+strange smell and presence. The air was dizzying with a[r]
+murky mix of fear and pleasure.[pcms]
 
 *409|
 [fc]
@@ -231,14 +246,15 @@ Despite being in such an abnormal situation--[pcms]
 
 *410|
 [fc]
-Margarita-senpai, visible through the window, was unfazed as she knocked down[r]
-the attacking people on the catwalk with another mop handle she had prepared for[r]
-herself.[pcms]
+Margarita-senpai, visible through the window, was unfazed as[r]
+she knocked down the attacking people on the catwalk with[r]
+another mop handle she had prepared for herself.[pcms]
 
 *411|
 [fc]
-It wasn't just the simple poking motion she had instructed me to do earlier; she[r]
-used skillful techniques like tripping and hitting.[pcms]
+It wasn't just the simple poking motion she had instructed[r]
+me to do earlier; she used skillful techniques like tripping[r]
+and hitting.[pcms]
 
 ;//BG・階段
 [bg storage="BG015"][trans_c cross time=500]
@@ -246,8 +262,9 @@ used skillful techniques like tripping and hitting.[pcms]
 
 *412|
 [fc]
-Of course, I didn't have the luxury of leisurely watching her. Looking up, I saw[r]
-a crowd of people ascending the stairs towards me.[pcms]
+Of course, I didn't have the luxury of leisurely watching[r]
+her. Looking up, I saw a crowd of people ascending the[r]
+stairs towards me.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
@@ -258,8 +275,9 @@ a crowd of people ascending the stairs towards me.[pcms]
 
 *414|
 [fc]
-Muttering to myself as if to convince myself, I put strength into my trembling[r]
-hands and thrust out the mop handle in imitation of Margarita-senpai earlier.[pcms]
+Muttering to myself as if to convince myself, I put strength[r]
+into my trembling hands and thrust out the mop handle in[r]
+imitation of Margarita-senpai earlier.[pcms]
 
 *415|
 [fc]
@@ -271,7 +289,8 @@ hands and thrust out the mop handle in imitation of Margarita-senpai earlier.[pc
 
 *416|
 [fc]
-The tip of the mop hit the throat of the man who was leading the climb up.[pcms]
+The tip of the mop hit the throat of the man who was leading[r]
+the climb up.[pcms]
 
 *417|
 [fc]
@@ -287,17 +306,17 @@ I will never forget the dull sensation of hitting flesh.[pcms]
 
 *419|
 [fc]
-Just as Margarita-senpai said, no technique was needed; it was simple. The man[r]
-who was poked fell down splendidly.[pcms]
+Just as Margarita-senpai said, no technique was needed; it[r]
+was simple. The man who was poked fell down splendidly.[pcms]
 
 ;//se053
 [se buf=0 storage="se053"]
 
 *420|
 [fc]
-Caught up in the fallen man, those following also tumbled down like an[r]
-avalanche. The narrowness of the stairs worked in our favor, making defense[r]
-extremely easy.[pcms]
+Caught up in the fallen man, those following also tumbled[r]
+down like an avalanche. The narrowness of the stairs worked[r]
+in our favor, making defense extremely easy.[pcms]
 
 *421|
 [fc]
@@ -310,37 +329,41 @@ I repeatedly poked at those who kept climbing up.[pcms]
 
 *423|
 [fc]
-At first, there was hesitation and a taboo feeling about hurting people, but as[r]
-I fought desperately, those feelings disappeared.[pcms]
+At first, there was hesitation and a taboo feeling about[r]
+hurting people, but as I fought desperately, those feelings[r]
+disappeared.[pcms]
 
 *424|
 [fc]
-When I knocked down yet another person with the mop handle, I finally came back[r]
-to my senses and shuddered at the sight before me with a clear mind.[pcms]
+When I knocked down yet another person with the mop handle,[r]
+I finally came back to my senses and shuddered at the sight[r]
+before me with a clear mind.[pcms]
 
 *425|
 [fc]
-Limbs injured from tumbling down the stairs. Some are grotesquely deformed, even[r]
-to the bone...[pcms]
+Limbs injured from tumbling down the stairs. Some are[r]
+grotesquely deformed, even to the bone...[pcms]
 
 *426|
 [fc]
-Yet they keep coming at us, laughing, like broken dolls that never give up.[pcms]
+Yet they keep coming at us, laughing, like broken dolls that[r]
+never give up.[pcms]
 
 *427|
 [fc]
-Their appearance is not something as simple as a beast. Any living creature[r]
-would feel pain and fear from injury.[pcms]
+Their appearance is not something as simple as a beast. Any[r]
+living creature would feel pain and fear from injury.[pcms]
 
 *428|
 [fc]
-But no matter how much they're hurt, their smiles never falter. No matter the[r]
-injury, they never give up, pressing on without regard for their own lives.[pcms]
+But no matter how much they're hurt, their smiles never[r]
+falter. No matter the injury, they never give up, pressing[r]
+on without regard for their own lives.[pcms]
 
 *429|
 [fc]
-The eeriness and terror of them, combined with my fatigue, had brought me close[r]
-to my limit without realizing it.[pcms]
+The eeriness and terror of them, combined with my fatigue,[r]
+had brought me close to my limit without realizing it.[pcms]
 
 *430|
 [fc]
@@ -349,9 +372,9 @@ to my limit without realizing it.[pcms]
 
 *431|
 [fc]
-Once fear sets in, it's like sobering up from drunkenness; terror slows down my[r]
-movements, and fatigue saps my strength. It's only a matter of time before I'm[r]
-overwhelmed.[pcms]
+Once fear sets in, it's like sobering up from drunkenness;[r]
+terror slows down my movements, and fatigue saps my[r]
+strength. It's only a matter of time before I'm overwhelmed.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -363,7 +386,8 @@ overwhelmed.[pcms]
 
 *433|
 [fc]
-At that moment, Margarita-senpai returned from beside the instructor's office.[pcms]
+At that moment, Margarita-senpai returned from beside the[r]
+instructor's office.[pcms]
 
 *434|
 [fc]
@@ -380,8 +404,9 @@ At that moment, Margarita-senpai returned from beside the instructor's office.[p
 
 *436|
 [fc]
-When I turned around, there was Yuuho, who had been safely rescued. Without a[r]
-word, Yuuho hugged me, and I gently stroked her sobbing back.[pcms]
+When I turned around, there was Yuuho, who had been safely[r]
+rescued. Without a word, Yuuho hugged me, and I gently[r]
+stroked her sobbing back.[pcms]
 
 ;//〆EV011
 [evcg storage="EV011d"][trans_c cross time=300]
@@ -394,8 +419,8 @@ word, Yuuho hugged me, and I gently stroked her sobbing back.[pcms]
 
 *437|
 [fc]
-The feel of her soft body and Yuuho's gentle scent seemed to heal my weary[r]
-heart.[pcms]
+The feel of her soft body and Yuuho's gentle scent seemed to[r]
+heal my weary heart.[pcms]
 
 *438|
 [fc]
@@ -417,8 +442,9 @@ heart.[pcms]
 
 *441|
 [fc]
-It was Margarita-senpai who did the rescuing, and all I did was hold the stairs[r]
-here. I wanted to be the hero of the story...[pcms]
+It was Margarita-senpai who did the rescuing, and all I did[r]
+was hold the stairs here. I wanted to be the hero of the[r]
+story...[pcms]
 
 ;//BG・階段
 [bg storage="BG015"][trans_c cross time=500]
@@ -430,8 +456,8 @@ here. I wanted to be the hero of the story...[pcms]
 [fc]
 [vo_mar s="maru0031"]
 [ns]Margarita[nse]
-"It's because Wataru held this spot that we succeeded. But we can't relax just[r]
-yet."[pcms]
+"It's because Wataru held this spot that we succeeded. But[r]
+we can't relax just yet."[pcms]
 
 *443|
 [fc]
@@ -440,12 +466,13 @@ yet."[pcms]
 
 *444|
 [fc]
-It's too early to rejoice in our reunion. Our predicament hasn't changed at all.[pcms]
+It's too early to rejoice in our reunion. Our predicament[r]
+hasn't changed at all.[pcms]
 
 *445|
 [fc]
-In fact, it might just be a matter of whether I become prey alone or we all do[r]
-togetherthe crisis is that imminent.[pcms]
+In fact, it might just be a matter of whether I become prey[r]
+alone or we all do togetherthe crisis is that imminent.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -470,8 +497,8 @@ togetherthe crisis is that imminent.[pcms]
 
 *449|
 [fc]
-Following Margarita-senpai who fought off the attackers, I took Yuuho's hand and[r]
-chased after her.[pcms]
+Following Margarita-senpai who fought off the attackers, I[r]
+took Yuuho's hand and chased after her.[pcms]
 
 ;//---------------------------------------------------------------
 ;//〆・ラベル　block:A008
@@ -487,7 +514,8 @@ chased after her.[pcms]
 [fc]
 [vo_mar s="maru0033"]
 [ns]Margarita[nse]
-"Phew... Now that we're here, they won't be able to climb up so easily."[pcms]
+"Phew... Now that we're here, they won't be able to climb up[r]
+so easily."[pcms]
 
 *451|
 [fc]
@@ -496,9 +524,9 @@ chased after her.[pcms]
 
 *451a|
 [fc]
-They seem to have a high tolerance for pain, but their physical and cognitive[r]
-abilities are far inferior to ours; they can't use tools or anything to climb up[r]
-here.[pcms]
+They seem to have a high tolerance for pain, but their[r]
+physical and cognitive abilities are far inferior to ours;[r]
+they can't use tools or anything to climb up here.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -536,7 +564,8 @@ I hadn't thought about it in our desperate escape...[pcms]
 [fc]
 [vo_mar s="maru0035"]
 [ns]Margarita[nse]
-"I understand your concern, but right now there's nothing we can say."[pcms]
+"I understand your concern, but right now there's nothing we[r]
+can say."[pcms]
 
 *458|
 [fc]
@@ -549,8 +578,8 @@ I hadn't thought about it in our desperate escape...[pcms]
 [fc]
 [vo_mar s="maru0036"]
 [ns]Margarita[nse]
-"We're in a situation where we could use help ourselves. All we can do is pray[r]
-for their safety..."[pcms]
+"We're in a situation where we could use help ourselves. All[r]
+we can do is pray for their safety..."[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢
@@ -559,8 +588,8 @@ for their safety..."[pcms]
 
 
 ;	[link storage="21080.ks" target=*21080_TOP]イヤだ！！　助けに戻る！！[endlink]
-;       (link storage="21090.ks" target=*21090_TOP)...No choice but[r]
-to...(endlink)[pcms]
+;       (link storage="21090.ks" target=*21090_TOP)...No[r]
+choice but to...(endlink)[pcms]
 
 *SEL13|イヤだ！！　助けに戻る！！／……しかたない……
 [fc]

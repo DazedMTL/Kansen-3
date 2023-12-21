@@ -24,13 +24,13 @@
 *6217|
 [fc]
 [ns]Wataru[nse]
-"Senpai, why did those guys who should have been at the academy come from over[r]
-there... from that side?"[pcms]
+"Senpai, why did those guys who should have been at the[r]
+academy come from over there... from that side?"[pcms]
 
 *6218|
 [fc]
-I almost called out Yuuho's name, but swallowed my words and asked Senpai[r]
-instead.[pcms]
+I almost called out Yuuho's name, but swallowed my words and[r]
+asked Senpai instead.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -38,22 +38,24 @@ instead.[pcms]
 [fc]
 [vo_mar s="maru0847"]
 [ns]Margarita[nse]
-"They probably came through Udagawa after leaving the academy. That's the only[r]
-explanation."[pcms]
+"They probably came through Udagawa after leaving the[r]
+academy. That's the only explanation."[pcms]
 
 *6220|
 [fc]
 [vo_mar s="maru0848"]
 [ns]Margarita[nse]
-"Is there a path from near the academy to Udagawa... Or... hmm, there might be a[r]
-place leading to Udagawa at the fork in the road ahead..."[pcms]
+"Is there a path from near the academy to Udagawa... Or...[r]
+hmm, there might be a place leading to Udagawa at the fork[r]
+in the road ahead..."[pcms]
 
 *6221|
 [fc]
 [vo_mar s="maru0849"]
 [ns]Margarita[nse]
-"I still have much to learn... I used that passage as an emergency route without[r]
-considering such possibilities. It's a significant oversight."[pcms]
+"I still have much to learn... I used that passage as an[r]
+emergency route without considering such possibilities. It's[r]
+a significant oversight."[pcms]
 
 ;//↑　冒頭からここまで修正しました確認お願いします
 
@@ -82,13 +84,14 @@ Senpai's voice interrupts my attempt to follow up.[pcms]
 
 *6225|
 [fc]
-A growling sound that seems to come from deranged humans can be heard from a[r]
-distance.[pcms]
+A growling sound that seems to come from deranged humans can[r]
+be heard from a distance.[pcms]
 
 *6226|
 [fc]
-Right, we're already near the basement of that branch school building. At this[r]
-fork in the road, we decided whether to escape outside or head towards Yoyogi...[pcms]
+Right, we're already near the basement of that branch school[r]
+building. At this fork in the road, we decided whether to[r]
+escape outside or head towards Yoyogi...[pcms]
 
 ;//se508・複数の感染者のうなり声
 [se buf=0 storage="se508"]
@@ -100,8 +103,8 @@ fork in the road, we decided whether to escape outside or head towards Yoyogi...
 
 *6228|
 [fc]
-Senpai quietly peers into the passage leading to the basement of the branch[r]
-school building.[pcms]
+Senpai quietly peers into the passage leading to the[r]
+basement of the branch school building.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -113,7 +116,8 @@ school building.[pcms]
 
 *6230|
 [fc]
-Senpai turns back to us, suppressing her voice as she speaks.[pcms]
+Senpai turns back to us, suppressing her voice as she[r]
+speaks.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -154,8 +158,8 @@ Ren also speaks as if stifling a scream.[pcms]
 [fc]
 [vo_mar s="maru0853"]
 [ns]Margarita[nse]
-"Even though they were worn, there were two metal doors. I thought they would[r]
-hold for a while longer..."[pcms]
+"Even though they were worn, there were two metal doors. I[r]
+thought they would hold for a while longer..."[pcms]
 
 *6236|
 [fc]
@@ -168,8 +172,8 @@ hold for a while longer..."[pcms]
 [fc]
 [vo_mar s="maru0854"]
 [ns]Margarita[nse]
-"The door was broken, and they came through Udagawa from the fork in the road[r]
-ahead... That's what happened..."[pcms]
+"The door was broken, and they came through Udagawa from the[r]
+fork in the road ahead... That's what happened..."[pcms]
 
 *6238|
 [fc]
@@ -182,8 +186,8 @@ ahead... That's what happened..."[pcms]
 *6239|
 [fc]
 [ns]Kousuke[nse]
-"The fact that we haven't encountered them until now means we've been quite[r]
-lucky..."[pcms]
+"The fact that we haven't encountered them until now means[r]
+we've been quite lucky..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -191,34 +195,38 @@ lucky..."[pcms]
 [fc]
 [vo_mar s="maru0855"]
 [ns]Margarita[nse]
-"That's right. They probably found something to chase after ahead and went after[r]
-it..."[pcms]
+"That's right. They probably found something to chase after[r]
+ahead and went after it..."[pcms]
 
 *6241|
 [fc]
 [vo_mar s="maru0856"]
 [ns]Margarita[nse]
-"It seems there are still quite a number of them wandering around the academy[r]
-side, so we have no choice but to proceed as planned..."[pcms]
+"It seems there are still quite a number of them wandering[r]
+around the academy side, so we have no choice but to proceed[r]
+as planned..."[pcms]
 
 *6242|
 [fc]
 [vo_mar s="maru0857"]
 [ns]Margarita[nse]
-"However, the likelihood of them roaming around ahead has increased[r]
-significantly. Let's move quietly without letting our guard down..."[pcms]
+"However, the likelihood of them roaming around ahead has[r]
+increased significantly. Let's move quietly without letting[r]
+our guard down..."[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *6243|
 [fc]
-We hurried towards Shibuya Station as if to say there was no point in lingering.[pcms]
+We hurried towards Shibuya Station as if to say there was no[r]
+point in lingering.[pcms]
 
 *6244|
 [fc]
-In front of us, the road splits in two directions. To the left is a straight[r]
-path. To the right is a gently descending staircase.[pcms]
+In front of us, the road splits in two directions. To the[r]
+left is a straight path. To the right is a gently descending[r]
+staircase.[pcms]
 
 ;//@konya 地下道
 [bg storage="BG027"][trans_c cross time=500]
@@ -230,30 +238,32 @@ path. To the right is a gently descending staircase.[pcms]
 [fc]
 [vo_mar s="maru0858"]
 [ns]Margarita[nse]
-"Left leads towards Meiji Street. It seems to connect to the culvert of Shibuya[r]
-River ahead. It will take time, but it's wide, so it's easier to escape if we're[r]
-attacked..."[pcms]
+"Left leads towards Meiji Street. It seems to connect to the[r]
+culvert of Shibuya River ahead. It will take time, but it's[r]
+wide, so it's easier to escape if we're attacked..."[pcms]
 
 *6246|
 [fc]
 [vo_mar s="maru0859"]
 [ns]Margarita[nse]
-"Right leads towards Udagawa Street... Ugh... The smell of sewage is strong.[r]
-Does it connect to the culvert of Udagawa from here..."[pcms]
+"Right leads towards Udagawa Street... Ugh... The smell of[r]
+sewage is strong. Does it connect to the culvert of Udagawa[r]
+from here..."[pcms]
 
 *6247|
 [fc]
 [vo_mar s="maru0860"]
 [ns]Margarita[nse]
-"I see... From here, towards Yoyogi... In that case, we have no choice but to[r]
-emerge on Meiji Street side..."[pcms]
+"I see... From here, towards Yoyogi... In that case, we have[r]
+no choice but to emerge on Meiji Street side..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6248|
 [fc]
 [ns]Kousuke[nse]
-"Senpai! They're coming from the left... Quite a number of them..."[pcms]
+"Senpai! They're coming from the left... Quite a number of[r]
+them..."[pcms]
 
 *6249|
 [fc]
@@ -265,12 +275,13 @@ Kousuke shouts as he keeps watch around us.[pcms]
 [fc]
 [vo_mar s="maru0861"]
 [ns]Margarita[nse]
-"From Meiji Street side? If it's come to this, we have no choice but to go[r]
-through Udagawa side..."[pcms]
+"From Meiji Street side? If it's come to this, we have no[r]
+choice but to go through Udagawa side..."[pcms]
 
 *6251|
 [fc]
-Senpai illuminates the descending passage on the right with her light.[pcms]
+Senpai illuminates the descending passage on the right with[r]
+her light.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -285,7 +296,8 @@ Senpai illuminates the descending passage on the right with her light.[pcms]
 
 *6253|
 [fc]
-Senpai hastily stops shining the light, probably thinking it would alert them.[pcms]
+Senpai hastily stops shining the light, probably thinking it[r]
+would alert them.[pcms]
 
 *6254|
 [fc]
@@ -295,12 +307,13 @@ Senpai hastily stops shining the light, probably thinking it would alert them.[p
 
 *6255|
 [fc]
-Ren lets out a small scream and trembles on my back... It's not surprising. We[r]
-were completely surrounded...[pcms]
+Ren lets out a small scream and trembles on my back... It's[r]
+not surprising. We were completely surrounded...[pcms]
 
 *6256|
 [fc]
-I was dizzy and felt like I was going to faint but somehow managed to endure it.[pcms]
+I was dizzy and felt like I was going to faint but somehow[r]
+managed to endure it.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -315,8 +328,8 @@ I was dizzy and felt like I was going to faint but somehow managed to endure it.
 [fc]
 [vo_mar s="maru0863"]
 [ns]Margarita[nse]
-"We have no choice... Let's proceed to the left. We'll break through those[r]
-deranged people..."[pcms]
+"We have no choice... Let's proceed to the left. We'll break[r]
+through those deranged people..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -362,7 +375,8 @@ Senpai says this to us and then looks at Kousuke.[pcms]
 [fc]
 [vo_mar s="maru0866"]
 [ns]Margarita[nse]
-"You... pass the lantern to Wataru... You and I will carve out a path!"[pcms]
+"You... pass the lantern to Wataru... You and I will carve[r]
+out a path!"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -384,8 +398,8 @@ Senpai and Kousuke brace themselves.[pcms]
 [fc]
 [vo_mar s="maru0867"]
 [ns]Margarita[nse]
-"Wataru, once the path is clear, run through with all your might... Even if we[r]
-can't make it, just keep running..."[pcms]
+"Wataru, once the path is clear, run through with all your[r]
+might... Even if we can't make it, just keep running..."[pcms]
 
 *6269|
 [fc]
@@ -423,7 +437,8 @@ can't make it, just keep running..."[pcms]
 
 *6274|
 [fc]
-There was no time to think. And I realized that was all I could do.[pcms]
+There was no time to think. And I realized that was all I[r]
+could do.[pcms]
 
 *6275|
 [fc]
@@ -455,8 +470,8 @@ Ren said this as she gripped my hand.[pcms]
 
 *6280|
 [fc]
-I couldn't grip back because of my hands, so I nodded as strongly as I felt. Ren[r]
-silently nodded back.[pcms]
+I couldn't grip back because of my hands, so I nodded as[r]
+strongly as I felt. Ren silently nodded back.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -464,7 +479,8 @@ silently nodded back.[pcms]
 [fc]
 [vo_mar s="maru0869"]
 [ns]Margarita[nse]
-"Remember, once a path opens up enough, dive in and run through at once."[pcms]
+"Remember, once a path opens up enough, dive in and run[r]
+through at once."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -501,8 +517,9 @@ silently nodded back.[pcms]
 
 *6285|
 [fc]
-As we replied together, Senpai nodded in confirmation and leaped into the left[r]
-corridor, charging at the deranged people.[pcms]
+As we replied together, Senpai nodded in confirmation and[r]
+leaped into the left corridor, charging at the deranged[r]
+people.[pcms]
 ;//おかしくなった人たちへと飛びかかった
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -537,8 +554,9 @@ Kousuke followed suit.[pcms]
 
 *6289|
 [fc]
-The deranged ones fell one after another under Senpai and Kousuke's attacks. I[r]
-slowly followed behind them into the left corridor.[pcms]
+The deranged ones fell one after another under Senpai and[r]
+Kousuke's attacks. I slowly followed behind them into the[r]
+left corridor.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -571,7 +589,8 @@ The deranged people were being cut down one by one.[pcms]
 
 *6293|
 [fc]
-A gap seemed to form as Senpai had said, enough to slip through.[pcms]
+A gap seemed to form as Senpai had said, enough to slip[r]
+through.[pcms]
 
 *6294|
 [fc]
@@ -583,8 +602,8 @@ A gap seemed to form as Senpai had said, enough to slip through.[pcms]
 
 *6295|
 [fc]
-I steeled my resolve and was about to jump into the space that Senpai and[r]
-Kousuke had cleared for us.[pcms]
+I steeled my resolve and was about to jump into the space[r]
+that Senpai and Kousuke had cleared for us.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -607,8 +626,8 @@ Kousuke had cleared for us.[pcms]
 
 *6298|
 [fc]
-I stopped in my tracks at Senpai's words. Ren shone the light she borrowed from[r]
-Senpai ahead of us.[pcms]
+I stopped in my tracks at Senpai's words. Ren shone the[r]
+light she borrowed from Senpai ahead of us.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_a"][ChrSetXY layer=5 x=178 y=0][trans_c cross time=150]
 
@@ -634,7 +653,8 @@ Senpai ahead of us.[pcms]
 
 *6302|
 [fc]
-The light revealed more deranged humans coming from further down the corridor.[pcms]
+The light revealed more deranged humans coming from further[r]
+down the corridor.[pcms]
 
 ;//@konya キャラ消し
 [chara_int_ layer=5][trans_c cross time=150]
@@ -656,7 +676,8 @@ A chill ran down my spine.[pcms]
 
 *6306|
 [fc]
-Senpai's scream. Senpai, who had never screamed like that before...!?[pcms]
+Senpai's scream. Senpai, who had never screamed like that[r]
+before...!?[pcms]
 
 *6307|
 [fc]
@@ -683,8 +704,8 @@ Senpai's scream. Senpai, who had never screamed like that before...!?[pcms]
 
 *6311|
 [fc]
-Senpai's long, beautiful blonde hair was being roughly grabbed and pulled by the[r]
-deranged ones.[pcms]
+Senpai's long, beautiful blonde hair was being roughly[r]
+grabbed and pulled by the deranged ones.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -751,8 +772,8 @@ Kousuke would know what to do...[pcms]
 
 *6322|
 [fc]
-Kousuke was being swarmed by several deranged female students, who were trying[r]
-to strip off his clothes.[pcms]
+Kousuke was being swarmed by several deranged female[r]
+students, who were trying to strip off his clothes.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -767,8 +788,8 @@ to strip off his clothes.[pcms]
 
 *6324|
 [fc]
-While uttering lewd words, the girl tries to pry open Kousuke's zipper and ends[r]
-up tearing it apart.[pcms]
+While uttering lewd words, the girl tries to pry open[r]
+Kousuke's zipper and ends up tearing it apart.[pcms]
 
 ;//se065・服が引き裂かれる
 [se buf=0 storage="se065"]
@@ -790,8 +811,8 @@ up tearing it apart.[pcms]
 *6327|
 [fc]
 [ns]Kousuke[nse]
-"I see, sorry... I thought I could at least get you and Ren-chan out of here...[r]
-Damn it!! Let go of me!!"[pcms]
+"I see, sorry... I thought I could at least get you and Ren-[r]
+chan out of here... Damn it!! Let go of me!!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a15"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -820,7 +841,8 @@ Senpai was being dragged along by her hair...[pcms]
 
 *6332|
 [fc]
-The ones who were knocked down by Senpai and Kousuke are getting back up.[pcms]
+The ones who were knocked down by Senpai and Kousuke are[r]
+getting back up.[pcms]
 
 *6333|
 [fc]
@@ -830,8 +852,8 @@ The ones who were knocked down by Senpai and Kousuke are getting back up.[pcms]
 
 *6334|
 [fc]
-This time it's Ren's scream!! My body is also being dragged along with a heavy[r]
-pull.[pcms]
+This time it's Ren's scream!! My body is also being dragged[r]
+along with a heavy pull.[pcms]
 
 *6335|
 [fc]
@@ -841,12 +863,13 @@ pull.[pcms]
 
 *6336|
 [fc]
-I hold onto Ren's hand tightly, trying not to let go as I endure.[pcms]
+I hold onto Ren's hand tightly, trying not to let go as I[r]
+endure.[pcms]
 
 *6337|
 [fc]
-But the force pulling Ren towards them is too strong... and I end up being[r]
-dragged along as well.[pcms]
+But the force pulling Ren towards them is too strong... and[r]
+I end up being dragged along as well.[pcms]
 
 *6338|
 [fc]
@@ -855,8 +878,8 @@ dragged along as well.[pcms]
 
 *6339|
 [fc]
-Before I knew it, I was being pulled along with Ren by countless hands, unable[r]
-to move.[pcms]
+Before I knew it, I was being pulled along with Ren by[r]
+countless hands, unable to move.[pcms]
 
 *6340|
 [fc]
@@ -883,13 +906,13 @@ to move.[pcms]
 
 *6344|
 [fc]
-The voice calling my name while I'm unable to move makes me completely[r]
-immobilized.[pcms]
+The voice calling my name while I'm unable to move makes me[r]
+completely immobilized.[pcms]
 
 *6345|
 [fc]
-It was just a call, but to me, it was a terrifying voice that seemed to break my[r]
-spirit.[pcms]
+It was just a call, but to me, it was a terrifying voice[r]
+that seemed to break my spirit.[pcms]
 
 *6346|
 [fc]

@@ -21,8 +21,8 @@ Let's head to the special classrooms building![pcms]
 
 *2|
 [fc]
-I quickly made that decision and headed straight for the special classrooms[r]
-building.[pcms]
+I quickly made that decision and headed straight for the[r]
+special classrooms building.[pcms]
 
 *3|
 [fc]
@@ -30,11 +30,13 @@ To say I'm not worried about Yuuho would be a lie.[pcms]
 
 *4|
 [fc]
-But it seems they can only move at a speed that I can barely keep up with.[pcms]
+But it seems they can only move at a speed that I can barely[r]
+keep up with.[pcms]
 
 *5|
 [fc]
-Yuuho has better reflexes than me, so she can surely manage somehow.[pcms]
+Yuuho has better reflexes than me, so she can surely manage[r]
+somehow.[pcms]
 
 *6|
 [fc]
@@ -46,8 +48,8 @@ Ren is not only frail but also bad at physical activities.[pcms]
 
 *8|
 [fc]
-To be honest, if she ran at full speed, she might be able to escape, but her[r]
-stamina would definitely not last.[pcms]
+To be honest, if she ran at full speed, she might be able to[r]
+escape, but her stamina would definitely not last.[pcms]
 
 *9|
 [fc]
@@ -55,7 +57,8 @@ It's certain that she would eventually be caught somewhere.[pcms]
 
 *10|
 [fc]
-And above all, Ren is my precious "family" -- my one and only "sister."[pcms]
+And above all, Ren is my precious "family" -- my one and[r]
+only "sister."[pcms]
 
 *11|
 [fc]
@@ -63,9 +66,9 @@ Who else but me, her brother, should go to save her?[pcms]
 
 *12|
 [fc]
-If I enter through the emergency exit on the first floor of the special[r]
-classrooms building and rush up the stairs right there, the music room will be[r]
-just ahead.[pcms]
+If I enter through the emergency exit on the first floor of[r]
+the special classrooms building and rush up the stairs right[r]
+there, the music room will be just ahead.[pcms]
 
 *13|
 [fc]
@@ -74,13 +77,13 @@ just ahead.[pcms]
 
 *14|
 [fc]
-With a prayerful heart, I crossed the field, cut through the courtyard, and[r]
-approached the special classrooms building.[pcms]
+With a prayerful heart, I crossed the field, cut through the[r]
+courtyard, and approached the special classrooms building.[pcms]
 
 *15|
 [fc]
-But perhaps they had already gotten inside, as I could see students being[r]
-attacked by infected people here and there.[pcms]
+But perhaps they had already gotten inside, as I could see[r]
+students being attacked by infected people here and there.[pcms]
 
 *16|
 [fc]
@@ -88,13 +91,14 @@ Men and women alike, all were uniformly being assaulted.[pcms]
 
 *17|
 [fc]
-While feeling horrified by the sight, I dashed to the emergency exit, breaking[r]
-my personal best for the 100m sprint.[pcms]
+While feeling horrified by the sight, I dashed to the[r]
+emergency exit, breaking my personal best for the 100m[r]
+sprint.[pcms]
 
 *18|
 [fc]
-Fortunately, perhaps for ventilation, the door to the emergency exit was left[r]
-wide open.[pcms]
+Fortunately, perhaps for ventilation, the door to the[r]
+emergency exit was left wide open.[pcms]
 
 ;//YBGFŠw‰€“à˜L‰ºEŠK’i•t‹ß
 [bg storage="BG015"][trans_c cross time=500]
@@ -117,22 +121,24 @@ But--[pcms]
 *22|
 [fc]
 [ns]Infected Man A[nse]
-"Damn, that's hot. The skin of a young girl. So firm and fresh."[pcms]
+"Damn, that's hot. The skin of a young girl. So firm and[r]
+fresh."[pcms]
 
 *23|
 [fc]
-From above the stairs came a girl's scream along with a vulgar man's voice.[pcms]
+From above the stairs came a girl's scream along with a[r]
+vulgar man's voice.[pcms]
 
 *24|
 [fc]
-Just by hearing their voices, I couldn't tell for sure, but it's probably best[r]
-to assume they're one of them.[pcms]
+Just by hearing their voices, I couldn't tell for sure, but[r]
+it's probably best to assume they're one of them.[pcms]
 
 *25|
 [fc]
-On the first floor of the special classrooms building from here are the cooking[r]
-practice room and workshop, and closest to the regular classrooms building is[r]
-the infirmary.[pcms]
+On the first floor of the special classrooms building from[r]
+here are the cooking practice room and workshop, and closest[r]
+to the regular classrooms building is the infirmary.[pcms]
 
 *26|
 [fc]
@@ -140,8 +146,8 @@ There's another staircase beyond that.[pcms]
 
 *27|
 [fc]
-It would be a detour to get to the music room, but I haven't seen any signs of[r]
-infected people on the first floor yet.[pcms]
+It would be a detour to get to the music room, but I haven't[r]
+seen any signs of infected people on the first floor yet.[pcms]
 
 *28|
 [fc]
@@ -149,7 +155,8 @@ What should I do?[pcms]
 
 *29|
 [fc]
-Should I go straight up now, or take a detour and play it safe...?[pcms]
+Should I go straight up now, or take a detour and play it[r]
+safe...?[pcms]
 
 [eval exp="f.l_ren_point = f.l_ren_point + 1"]
 
@@ -164,7 +171,8 @@ Should I go straight up now, or take a detour and play it safe...?[pcms]
 ;	[link storage="30010.ks" target=*30010_TOP]Å’Z‹——£‚ÅŠK’i‚ğã‚ª‚éI[endlink]
 ;	[link storage="30020.ks" target=*30020_TOP]‹}‚ª‚Î‰ñ‚êI@‰œ‚Ì•û‚ÌŠK’i‚ÖI[endlink]
 ;	;[link storage="30030.ks" target=*30030_TOP]ŠÔØ‚ê[endlink]
-;       (link storage="30030.ks" target=*30030_TOP)Which way...(endlink)[pcms]
+;       (link storage="30030.ks" target=*30030_TOP)Which[r]
+way...(endlink)[pcms]
 
 *SEL17|Å’Z‹——£‚ÅŠK’i‚ğã‚ª‚éI^‹}‚ª‚Î‰ñ‚êI@‰œ‚Ì•û‚ÌŠK’i‚ÖI^‚Ç‚Á‚¿‚¾cc
 [fc]

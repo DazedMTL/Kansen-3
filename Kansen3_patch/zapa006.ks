@@ -45,12 +45,14 @@
 
 *1555|
 [fc]
-The only thing that was certain now was that danger was imminent.[pcms]
+The only thing that was certain now was that danger was[r]
+imminent.[pcms]
 
 *1556|
 [fc]
-Ominous figures were attacking the students, and those who were attacked were[r]
-driven by fear to flee. That was all that was clear at the moment.[pcms]
+Ominous figures were attacking the students, and those who[r]
+were attacked were driven by fear to flee. That was all that[r]
+was clear at the moment.[pcms]
 
 *1557|
 [fc]
@@ -60,8 +62,9 @@ driven by fear to flee. That was all that was clear at the moment.[pcms]
 
 *1558|
 [fc]
-My friend let out a scream-like cry and began to frantically run up the stairs[r]
-to the table tennis space in the gym changing room.[pcms]
+My friend let out a scream-like cry and began to frantically[r]
+run up the stairs to the table tennis space in the gym[r]
+changing room.[pcms]
 
 *1559|
 [fc]
@@ -71,17 +74,18 @@ to the table tennis space in the gym changing room.[pcms]
 
 *1560|
 [fc]
-Thinking it was dangerous to stay here, I followed her up the stairs.[pcms]
+Thinking it was dangerous to stay here, I followed her up[r]
+the stairs.[pcms]
 
 *1561|
 [fc]
-The eerie people who had flooded in from the school gates were not from our[r]
-school.[pcms]
+The eerie people who had flooded in from the school gates[r]
+were not from our school.[pcms]
 
 *1562|
 [fc]
-All of them were dressed in tattered clothes, and their bodies were abnormally[r]
-dirty with mud and such.[pcms]
+All of them were dressed in tattered clothes, and their[r]
+bodies were abnormally dirty with mud and such.[pcms]
 
 *1563|
 [fc]
@@ -100,8 +104,9 @@ dirty with mud and such.[pcms]
 
 *1566|
 [fc]
-A few male students were trying to drive them away by hitting and pushing them,[r]
-but it seemed to have no effect, and they ended up being counterattacked.[pcms]
+A few male students were trying to drive them away by[r]
+hitting and pushing them, but it seemed to have no effect,[r]
+and they ended up being counterattacked.[pcms]
 
 *1567|
 [fc]
@@ -117,9 +122,9 @@ but it seemed to have no effect, and they ended up being counterattacked.[pcms]
 
 *1569|
 [fc]
-In no time, they were bitten on their arms and legs, and some even had teeth[r]
-sunk into their necks. Blood splattered everywhere as shouts and screams[r]
-intermingled.[pcms]
+In no time, they were bitten on their arms and legs, and[r]
+some even had teeth sunk into their necks. Blood splattered[r]
+everywhere as shouts and screams intermingled.[pcms]
 
 [赤フラ]
 
@@ -130,16 +135,18 @@ intermingled.[pcms]
 
 *1571|
 [fc]
-Many students were fleeing into the table tennis space behind me.[pcms]
+Many students were fleeing into the table tennis space[r]
+behind me.[pcms]
 
 *1572|
 [fc]
-The ominous shadows followed them, climbing up in a crawling manner.[pcms]
+The ominous shadows followed them, climbing up in a crawling[r]
+manner.[pcms]
 
 *1573|
 [fc]
-Looking down at the scene from above, I was consumed by a fear that made my[r]
-spine tremble.[pcms]
+Looking down at the scene from above, I was consumed by a[r]
+fear that made my spine tremble.[pcms]
 
 *1574|
 [fc]
@@ -149,46 +156,48 @@ spine tremble.[pcms]
 
 *1575|
 [fc]
-As if haunted by a nightmare, I repeated the words to myself in a daze as I[r]
-hurriedly followed my friend.[pcms]
+As if haunted by a nightmare, I repeated the words to myself[r]
+in a daze as I hurriedly followed my friend.[pcms]
 
 *1576|
 [fc]
-If we stayed here, our lives could be in danger. That thought made me restless;[r]
-I couldn't stand still.[pcms]
+If we stayed here, our lives could be in danger. That[r]
+thought made me restless; I couldn't stand still.[pcms]
 
 *1577|
 [fc]
-I ran up the stairs frantically. This must be the first time in my life I've run[r]
-with such feelings.[pcms]
+I ran up the stairs frantically. This must be the first time[r]
+in my life I've run with such feelings.[pcms]
 
 *1578|
 [fc]
-My friend, who had started climbing the stairs before me, quickly reached the[r]
-top and put her hand on the doorknob.[pcms]
+My friend, who had started climbing the stairs before me,[r]
+quickly reached the top and put her hand on the doorknob.[pcms]
 
 *1579|
 [fc]
-My friend reached the physical education instructor's office and swiftly opened[r]
-the door to jump inside. And I followed...[pcms]
+My friend reached the physical education instructor's office[r]
+and swiftly opened the door to jump inside. And I[r]
+followed...[pcms]
 
 *1580|
 [fc]
-Just when I thought that, my eyes met with my friend who had poked her head out[r]
-of the instructor's office.[pcms]
+Just when I thought that, my eyes met with my friend who had[r]
+poked her head out of the instructor's office.[pcms]
 
 *1581|
 [fc]
-Yet, despite that, she... With an expression clouded by fear, she grabbed the[r]
-door and without hesitation closed it.[pcms]
+Yet, despite that, she... With an expression clouded by[r]
+fear, she grabbed the door and without hesitation closed it.[pcms]
 
 [se buf=0 storage="se015"]
 
 *1582|
 [fc]
-The merciless sound of the metal door scraping echoed as the door to the[r]
-physical education instructor's office closed in front of me, and only the sound[r]
-of it locking resonated in my ears.[pcms]
+The merciless sound of the metal door scraping echoed as the[r]
+door to the physical education instructor's office closed in[r]
+front of me, and only the sound of it locking resonated in[r]
+my ears.[pcms]
 
 [se buf=0 storage="se042"]
 
@@ -206,32 +215,33 @@ of it locking resonated in my ears.[pcms]
 
 *1583|
 [fc]
-I banged on the metal door desperately and screamed, but there was no reply from[r]
-my friend.[pcms]
+I banged on the metal door desperately and screamed, but[r]
+there was no reply from my friend.[pcms]
 
 *1584|
 [fc]
-Was I abandoned? Was I left behind? Confused by my friend's sudden betrayal...[r]
-But there was no time for such thoughts.[pcms]
+Was I abandoned? Was I left behind? Confused by my friend's[r]
+sudden betrayal... But there was no time for such thoughts.[pcms]
 
 *1585|
 [fc]
-The ominous figures were closing in behind me. Their movements were slow but[r]
-they were steadily approaching me.[pcms]
+The ominous figures were closing in behind me. Their[r]
+movements were slow but they were steadily approaching me.[pcms]
 
 *1586|
 [fc]
-I thought she was a friend. I believed she was a companion to escape with.[pcms]
+I thought she was a friend. I believed she was a companion[r]
+to escape with.[pcms]
 
 *1587|
 [fc]
-A friend with whom I had worked hard together in club activities... But such[r]
-trust crumbled all too easily.[pcms]
+A friend with whom I had worked hard together in club[r]
+activities... But such trust crumbled all too easily.[pcms]
 
 *1588|
 [fc]
-Was the relationship I had nurtured every day merely an illusion supported by[r]
-peaceful days?[pcms]
+Was the relationship I had nurtured every day merely an[r]
+illusion supported by peaceful days?[pcms]
 
 *1589|
 [fc]
@@ -240,8 +250,8 @@ peaceful days?[pcms]
 
 *1590|
 [fc]
-The groaning of the approaching eerie figures forcibly pulled me back to reality[r]
-as I was overwhelmed by shock.[pcms]
+The groaning of the approaching eerie figures forcibly[r]
+pulled me back to reality as I was overwhelmed by shock.[pcms]
 
 *1591|
 [fc]
@@ -251,21 +261,24 @@ as I was overwhelmed by shock.[pcms]
 
 *1592|
 [fc]
-It's sad and frustrating, but there's no time to dwell on it now.[pcms]
+It's sad and frustrating, but there's no time to dwell on it[r]
+now.[pcms]
 
 *1593|
 [fc]
-I can grieve and feel resentful later, after escaping from this looming crisis.[pcms]
+I can grieve and feel resentful later, after escaping from[r]
+this looming crisis.[pcms]
 
 *1594|
 [fc]
-Right now, all I can think about is escaping... But the way back is already[r]
-filled with ominous figures covering the table tennis space.[pcms]
+Right now, all I can think about is escaping... But the way[r]
+back is already filled with ominous figures covering the[r]
+table tennis space.[pcms]
 
 *1595|
 [fc]
-The preyed-upon students were being stripped and bitten; a horrific scene[r]
-unfolded.[pcms]
+The preyed-upon students were being stripped and bitten; a[r]
+horrific scene unfolded.[pcms]
 
 *1596|
 [fc]
@@ -279,7 +292,8 @@ Some are walking towards me on the catwalk.[pcms]
 
 *1598|
 [fc]
-The escape routes are severely limited. I need to think of something...[pcms]
+The escape routes are severely limited. I need to think of[r]
+something...[pcms]
 
 ;//--------------------------------------------------------------------
 ;//●時限式選択肢
@@ -292,8 +306,8 @@ The escape routes are severely limited. I need to think of something...[pcms]
 ;	[link storage="zapA007.ks" target=*zapA007_TOP]フロアに飛び降りる！[endlink]
 ;	[link storage="zapA008.ks" target=*zapA008_TOP]外に飛び降りる！[endlink]
 ;	;[link storage="zapA009.ks" target=*zapA009_TOP]時間切れ[endlink]
-;       (link storage="zapA009.ks" target=*zapA009_TOP)Both ways seem[r]
-dangerous...(endlink)[pcms]
+;       (link storage="zapA009.ks" target=*zapA009_TOP)Both[r]
+ways seem dangerous...(endlink)[pcms]
 
 *SEL88|フロアに飛び降りる！／外に飛び降りる！／どっちも危なそう……
 [fc]

@@ -20,7 +20,8 @@
 
 *42|
 [fc]
-As we timidly stepped out, an empty Center Street stretched out before us.[pcms]
+As we timidly stepped out, an empty Center Street stretched[r]
+out before us.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -39,8 +40,9 @@ As we timidly stepped out, an empty Center Street stretched out before us.[pcms]
 
 *45|
 [fc]
-The sky was clear, and the strong sunlight of the summer afternoon cast sharp[r]
-shadows of the buildings on the asphalt.[pcms]
+The sky was clear, and the strong sunlight of the summer[r]
+afternoon cast sharp shadows of the buildings on the[r]
+asphalt.[pcms]
 
 ;//以下、対応する服装がないのでコメントアウト＠ash
 [ns]Wataru[nse]
@@ -82,25 +84,28 @@ shadows of the buildings on the asphalt.[pcms]
 
 *47|
 [fc]
-Kousuke muttered blankly as he surveyed the surroundings once more.[pcms]
+Kousuke muttered blankly as he surveyed the surroundings[r]
+once more.[pcms]
 
 *48|
 [fc]
-An uninhabited Shibuya... Yet, black smoke was rising from various places.[pcms]
+An uninhabited Shibuya... Yet, black smoke was rising from[r]
+various places.[pcms]
 
 *49|
 [fc]
-In the town of Shibuya, quieter than usual, only the bright BGM echoed emptily.[pcms]
+In the town of Shibuya, quieter than usual, only the bright[r]
+BGM echoed emptily.[pcms]
 
 *50|
 [fc]
-Between the sounds, the buzzing of insects could be heard, and a foul stench[r]
-permeated the area...[pcms]
+Between the sounds, the buzzing of insects could be heard,[r]
+and a foul stench permeated the area...[pcms]
 
 *51|
 [fc]
-The streets were littered with more trash than usual, but the source of this[r]
-smell wasn't such things...[pcms]
+The streets were littered with more trash than usual, but[r]
+the source of this smell wasn't such things...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -130,8 +135,8 @@ There were stains on the road that seemed to be bloodstains.[pcms]
 
 *57|
 [fc]
-Not just that, but there were dead rats, dead crows... All scattered about as if[r]
-they had been torn apart.[pcms]
+Not just that, but there were dead rats, dead crows... All[r]
+scattered about as if they had been torn apart.[pcms]
 
 *58|
 [fc]
@@ -159,13 +164,14 @@ There were clearly recognizable human bones among them.[pcms]
 
 *62|
 [fc]
-Some were almost completely intact like skeletal specimens, but like the animal[r]
-corpses, they were torn apart and scattered.[pcms]
+Some were almost completely intact like skeletal specimens,[r]
+but like the animal corpses, they were torn apart and[r]
+scattered.[pcms]
 
 *63|
 [fc]
-The remains with guts spilling out or flesh violently ripped off looked like[r]
-finished fried chicken.[pcms]
+The remains with guts spilling out or flesh violently ripped[r]
+off looked like finished fried chicken.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -177,8 +183,8 @@ finished fried chicken.[pcms]
 
 *65|
 [fc]
-Maruko-senpai showed a handkerchief in her hand while swatting away the swarming[r]
-flies.[pcms]
+Maruko-senpai showed a handkerchief in her hand while[r]
+swatting away the swarming flies.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -186,20 +192,21 @@ flies.[pcms]
 [fc]
 [vo_mar s="maru1285"]
 [ns]Margarita[nse]
-"Also, just to be safe, let's cover our mouths with a handkerchief or towel."[pcms]
+"Also, just to be safe, let's cover our mouths with a[r]
+handkerchief or towel."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *67|
 [fc]
 [ns]Kousuke[nse]
-"Yeah, that's right... Just looking at it makes me feel like I could catch a[r]
-disease..."[pcms]
+"Yeah, that's right... Just looking at it makes me feel like[r]
+I could catch a disease..."[pcms]
 
 *68|
 [fc]
-Following the senior's example, everyone covered their mouths with towels or[r]
-handkerchiefs.[pcms]
+Following the senior's example, everyone covered their[r]
+mouths with towels or handkerchiefs.[pcms]
 
 ;//☆佐藤様
 ;//収録時に、実際に声優さんにハンカチを使って貰いますか？
@@ -215,8 +222,8 @@ handkerchiefs.[pcms]
 
 *70|
 [fc]
-Hugging Ren's shoulder as she clung to me in fear, I gently turned her face[r]
-away.[pcms]
+Hugging Ren's shoulder as she clung to me in fear, I gently[r]
+turned her face away.[pcms]
 
 *71|
 [fc]
@@ -233,7 +240,8 @@ away.[pcms]
 
 *73|
 [fc]
-Staring only at her feet, Ren pressed on desperately, leaning on me for support.[pcms]
+Staring only at her feet, Ren pressed on desperately,[r]
+leaning on me for support.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -258,23 +266,25 @@ Yuuho muttered softly to herself.[pcms]
 *77|
 [fc]
 [ns]Kousuke[nse]
-"How? They were probably eaten... Or maybe taken out by a virus, right?"[pcms]
+"How? They were probably eaten... Or maybe taken out by a[r]
+virus, right?"[pcms]
 
 *78|
 [fc]
 [ns]Wataru[nse]
-"Yeah, but... The bodies here aren't just human, right? There are crows and rats[r]
-too..."[pcms]
+"Yeah, but... The bodies here aren't just human, right?[r]
+There are crows and rats too..."[pcms]
 
 *79|
 [fc]
 [ns]Wataru[nse]
-"I wonder if people infected with it start eating animals too..."[pcms]
+"I wonder if people infected with it start eating animals[r]
+too..."[pcms]
 
 *80|
 [fc]
-Maruko-senpai listened to our conversation without changing her stern expression[r]
-and joined in.[pcms]
+Maruko-senpai listened to our conversation without changing[r]
+her stern expression and joined in.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -297,8 +307,9 @@ and joined in.[pcms]
 [fc]
 [vo_mar s="maru1287"]
 [ns]Margarita[nse]
-"The infected attacked their own kind, humans. By that logic, it wouldn't be[r]
-strange if infected rats and crows also ate each other..."[pcms]
+"The infected attacked their own kind, humans. By that[r]
+logic, it wouldn't be strange if infected rats and crows[r]
+also ate each other..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -361,13 +372,13 @@ I quickly scanned the text.[pcms]
 
 *94|
 [fc]
-The message from Dad was about a heliport near Chiba Mouse-Kingdom being[r]
-attacked by a swarm of crows.[pcms]
+The message from Dad was about a heliport near Chiba Mouse-[r]
+Kingdom being attacked by a swarm of crows.[pcms]
 
 *95|
 [fc]
-It was written in an unusually short message, telling us to be careful not only[r]
-of them but also of the crows.[pcms]
+It was written in an unusually short message, telling us to[r]
+be careful not only of them but also of the crows.[pcms]
 
 *96|
 [fc]
@@ -384,7 +395,8 @@ of them but also of the crows.[pcms]
 
 *98|
 [fc]
-"Please reply when it's safe," Ren typed quickly and sent the email.[pcms]
+"Please reply when it's safe," Ren typed quickly and sent[r]
+the email.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -399,7 +411,8 @@ of them but also of the crows.[pcms]
 [fc]
 [vo_mar s="maru1289"]
 [ns]Margarita[nse]
-"That's right... So far, we haven't seen any animals that seem to be infected."[pcms]
+"That's right... So far, we haven't seen any animals that[r]
+seem to be infected."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -414,8 +427,8 @@ I realized something anew from Kousuke's words.[pcms]
 
 *103|
 [fc]
-Indeed, since a while ago, all we've seen are corpses... The only things moving[r]
-are the annoying flies.[pcms]
+Indeed, since a while ago, all we've seen are corpses... The[r]
+only things moving are the annoying flies.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -423,8 +436,8 @@ are the annoying flies.[pcms]
 [fc]
 [vo_yuh s="yuho1452"]
 [ns]Yuuho[nse]
-"...Does that mean what Wataru said about the infected's lifespan coming to an[r]
-end?"[pcms]
+"...Does that mean what Wataru said about the infected's[r]
+lifespan coming to an end?"[pcms]
 
 *105|
 [fc]
@@ -449,9 +462,10 @@ The senior's voice tightened our nearly relaxed feelings.[pcms]
 [fc]
 [vo_mar s="maru1291"]
 [ns]Margarita[nse]
-"If it were a matter of lifespan, there should be bodies that simply collapsed.[r]
-The fact that all the bodies have been ravaged suggests that those who fed on[r]
-them are still around."[pcms]
+"If it were a matter of lifespan, there should be bodies[r]
+that simply collapsed. The fact that all the bodies have[r]
+been ravaged suggests that those who fed on them are still[r]
+around."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -466,13 +480,13 @@ them are still around."[pcms]
 *110|
 [fc]
 [ns]Kousuke[nse]
-"Ugh, this is tough. Not only them, but if I have to worry about rats and crows[r]
-too, my delicate nerves won't last."[pcms]
+"Ugh, this is tough. Not only them, but if I have to worry[r]
+about rats and crows too, my delicate nerves won't last."[pcms]
 
 *111|
 [fc]
-Trying to lighten the mood or perhaps deliberately reacting cheerfully, Kousuke[r]
-suddenly stopped talking mid-sentence.[pcms]
+Trying to lighten the mood or perhaps deliberately reacting[r]
+cheerfully, Kousuke suddenly stopped talking mid-sentence.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -483,8 +497,8 @@ suddenly stopped talking mid-sentence.[pcms]
 
 *113|
 [fc]
-His face looked as if he suddenly realized something, and he started running[r]
-down the street.[pcms]
+His face looked as if he suddenly realized something, and he[r]
+started running down the street.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -516,8 +530,8 @@ Kousuke stopped and slowly picked something up.[pcms]
 
 *118|
 [fc]
-Ignoring Maruko-senpai's warning, Kousuke kept his gaze fixed on what was in his[r]
-hand.[pcms]
+Ignoring Maruko-senpai's warning, Kousuke kept his gaze[r]
+fixed on what was in his hand.[pcms]
 
 *119|
 [fc]
@@ -534,12 +548,14 @@ What he was holding was... a bloodstained vigilante's cap...[pcms]
 *121|
 [fc]
 [ns]Wataru[nse]
-"...That's the cap of the town's vigilantes. Kousuke also volunteered to join[r]
-them... So, probably... one of his comrades..."[pcms]
+"...That's the cap of the town's vigilantes. Kousuke also[r]
+volunteered to join them... So, probably... one of his[r]
+comrades..."[pcms]
 
 *122|
 [fc]
-As I explained to the puzzled senior, I found myself at a loss for words.[pcms]
+As I explained to the puzzled senior, I found myself at a[r]
+loss for words.[pcms]
 
 *123|
 [fc]
@@ -556,8 +572,8 @@ Kousuke's comrade had died... Someone he saw every day...[pcms]
 
 *125|
 [fc]
-Even though Yuuho called out to him, she seemed at a loss for what to say next,[r]
-her words trailing off.[pcms]
+Even though Yuuho called out to him, she seemed at a loss[r]
+for what to say next, her words trailing off.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -568,7 +584,8 @@ her words trailing off.[pcms]
 
 *127|
 [fc]
-In a quiet tone that conveyed sadness and anger, Kousuke murmured slowly.[pcms]
+In a quiet tone that conveyed sadness and anger, Kousuke[r]
+murmured slowly.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -583,7 +600,8 @@ With the cap still in hand, Kousuke started walking.[pcms]
 
 *130|
 [fc]
-Despite the dangerous blood on it, even Maruko-senpai didn't try to stop him.[pcms]
+Despite the dangerous blood on it, even Maruko-senpai didn't[r]
+try to stop him.[pcms]
 
 *131|
 [fc]

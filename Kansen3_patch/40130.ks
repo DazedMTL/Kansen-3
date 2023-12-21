@@ -26,8 +26,8 @@
 
 *1095|
 [fc]
-Before I knew it, the video had started playing on repeat. I disconnected from[r]
-the site and closed my phone.[pcms]
+Before I knew it, the video had started playing on repeat. I[r]
+disconnected from the site and closed my phone.[pcms]
 
 [bgm storage="BGM05"]
 
@@ -38,13 +38,13 @@ the site and closed my phone.[pcms]
 
 *1097|
 [fc]
-In such a tragic situation that goes beyond misery, what should we do from now[r]
-on...?[pcms]
+In such a tragic situation that goes beyond misery, what[r]
+should we do from now on...?[pcms]
 
 *1098|
 [fc]
-Can I protect Yuuho, Ren... everyone? Even when cornered or in dire straits, can[r]
-we continue to help each other...?[pcms]
+Can I protect Yuuho, Ren... everyone? Even when cornered or[r]
+in dire straits, can we continue to help each other...?[pcms]
 
 *1099|
 [fc]
@@ -114,7 +114,8 @@ Ren...[pcms]
 [fc]
 [vo_ren s="ren0889"]
 [ns]Ren[nse]
-"I believed that big brother would definitely come to save us."[pcms]
+"I believed that big brother would definitely come to save[r]
+us."[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -135,8 +136,8 @@ If everyone believes in me...[pcms]
 
 *1109|
 [fc]
-Wanting to start something for now, I opened my phone again and began typing an[r]
-email.[pcms]
+Wanting to start something for now, I opened my phone again[r]
+and began typing an email.[pcms]
 
 *1110|
 [fc]
@@ -161,8 +162,8 @@ I'm safe. Is everyone okay? Unfortunately, Yoshino-san is...[pcms]
 
 *1113|
 [fc]
-While sending a broadcast email to everyone in the astronomy club, I remembered[r]
-Yoshino-san.[pcms]
+While sending a broadcast email to everyone in the astronomy[r]
+club, I remembered Yoshino-san.[pcms]
 
 ;//@konya レッドフラッシュ
 [赤フラ]

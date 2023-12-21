@@ -28,12 +28,13 @@
 
 *1779|
 [fc]
-As I hang up the phone from Yuuho, I relay the message to Maruko-senpai and[r]
-Kousuke.[pcms]
+As I hang up the phone from Yuuho, I relay the message to[r]
+Maruko-senpai and Kousuke.[pcms]
 
 *1780|
 [fc]
-The three of us were standing by near the security booth on the first floor.[pcms]
+The three of us were standing by near the security booth on[r]
+the first floor.[pcms]
 
 *1781|
 [fc]
@@ -51,8 +52,9 @@ The three of us were standing by near the security booth on the first floor.[pcm
 
 *1783|
 [fc]
-From beyond the fire door, I could hear Yuuho and the others calling out, the[r]
-sound of a violin, and the groans of moving infected people.[pcms]
+From beyond the fire door, I could hear Yuuho and the others[r]
+calling out, the sound of a violin, and the groans of moving[r]
+infected people.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -76,8 +78,8 @@ sound of a violin, and the groans of moving infected people.[pcms]
 
 *1787|
 [fc]
-Holding several dark curtains brought from the DJ bar stage and restaurant,[r]
-Kousuke and I respond.[pcms]
+Holding several dark curtains brought from the DJ bar stage[r]
+and restaurant, Kousuke and I respond.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -101,8 +103,8 @@ At the signal of her voice, we all start moving together.[pcms]
 
 *1791|
 [fc]
-I open the door to the security booth, check inside, and roll into the booth[r]
-covered head to toe in a dark curtain.[pcms]
+I open the door to the security booth, check inside, and[r]
+roll into the booth covered head to toe in a dark curtain.[pcms]
 
 *1792|
 [fc]
@@ -114,8 +116,9 @@ covered head to toe in a dark curtain.[pcms]
 
 *1793|
 [fc]
-Then I spread the curtain as wide as possible, covering the glass walls of the[r]
-security booth that are completely visible from outside.[pcms]
+Then I spread the curtain as wide as possible, covering the[r]
+glass walls of the security booth that are completely[r]
+visible from outside.[pcms]
 
 *1794|
 [fc]
@@ -132,13 +135,13 @@ security booth that are completely visible from outside.[pcms]
 
 *1796|
 [fc]
-Maruko-senpai jumps in with an air nail gun in hand, looking like a ray gun from[r]
-a sci-fi movie.[pcms]
+Maruko-senpai jumps in with an air nail gun in hand, looking[r]
+like a ray gun from a sci-fi movie.[pcms]
 
 *1797|
 [fc]
-I'm stretching to support the curtain when senpai's body bounces against me with[r]
-force.[pcms]
+I'm stretching to support the curtain when senpai's body[r]
+bounces against me with force.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -150,12 +153,14 @@ force.[pcms]
 
 *1799|
 [fc]
-Since it's a single-person booth, senpai's body is pressed tightly against mine.[pcms]
+Since it's a single-person booth, senpai's body is pressed[r]
+tightly against mine.[pcms]
 
 *1800|
 [fc]
-The feeling of her breasts... soft skin... All the wonderful elements of a young[r]
-girl are transmitted to me, and I can't help but feel entranced.[pcms]
+The feeling of her breasts... soft skin... All the wonderful[r]
+elements of a young girl are transmitted to me, and I can't[r]
+help but feel entranced.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -167,8 +172,8 @@ girl are transmitted to me, and I can't help but feel entranced.[pcms]
 
 *1802|
 [fc]
-Senpai quickly operates the nail gun, fixing the curtain to the ceiling and then[r]
-looks up at me and nods.[pcms]
+Senpai quickly operates the nail gun, fixing the curtain to[r]
+the ceiling and then looks up at me and nods.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -210,8 +215,8 @@ The tips of her silky hair tickle my neck...[pcms]
 
 *1809|
 [fc]
-Senpai's face comes closer... If she gets any closer, I won't be able to handle[r]
-it...[pcms]
+Senpai's face comes closer... If she gets any closer, I[r]
+won't be able to handle it...[pcms]
 
 *1810|
 [fc]
@@ -220,7 +225,8 @@ it...[pcms]
 
 *1811|
 [fc]
-When I come to my senses, Maruko-senpai is looking into my eyes with concern.[pcms]
+When I come to my senses, Maruko-senpai is looking into my[r]
+eyes with concern.[pcms]
 
 *1812|
 [fc]
@@ -233,8 +239,8 @@ When I come to my senses, Maruko-senpai is looking into my eyes with concern.[pc
 [fc]
 [vo_mar s="maru1509"]
 [ns]Margarita[nse]
-"If that's the case then good... Being too tense can slow you down when it[r]
-matters. Try to relax as much as possible."[pcms]
+"If that's the case then good... Being too tense can slow[r]
+you down when it matters. Try to relax as much as possible."[pcms]
 
 *1814|
 [fc]
@@ -247,7 +253,8 @@ It seems she thought I was just tense and stiff.[pcms]
 
 *1816|
 [fc]
-In this case, it might be best to leave the misunderstanding as it is...[pcms]
+In this case, it might be best to leave the misunderstanding[r]
+as it is...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -259,8 +266,8 @@ In this case, it might be best to leave the misunderstanding as it is...[pcms]
 
 *1818|
 [fc]
-Searching through a drawer, senpai finds a walkie-talkie used for communication[r]
-by security guards and picks it up.[pcms]
+Searching through a drawer, senpai finds a walkie-talkie[r]
+used for communication by security guards and picks it up.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -306,8 +313,8 @@ We each put on a walkie-talkie and switch them on.[pcms]
 
 *1825|
 [fc]
-After confirming communication status, senpai pats my shoulder once and returns[r]
-to the hallway.[pcms]
+After confirming communication status, senpai pats my[r]
+shoulder once and returns to the hallway.[pcms]
 
 *1826|
 [fc]
@@ -320,8 +327,8 @@ I reply belatedly and take a deep breath.[pcms]
 
 *1828|
 [fc]
-Calm down, me. ...Ah, but taking a deep breath just spreads senpai's nice scent[r]
-from my nose to my brain...[pcms]
+Calm down, me. ...Ah, but taking a deep breath just spreads[r]
+senpai's nice scent from my nose to my brain...[pcms]
 
 *1829|
 [fc]
@@ -330,14 +337,14 @@ from my nose to my brain...[pcms]
 
 *1830|
 [fc]
-While slapping my own face to regain composure, I focus on the monitor screens[r]
-inside the booth.[pcms]
+While slapping my own face to regain composure, I focus on[r]
+the monitor screens inside the booth.[pcms]
 
 *1831|
 [fc]
-Not only the entrance hall on the first floor, but also the emergency exit at[r]
-the back and the delivery entrance camera feeds are displayed on the split[r]
-screens.[pcms]
+Not only the entrance hall on the first floor, but also the[r]
+emergency exit at the back and the delivery entrance camera[r]
+feeds are displayed on the split screens.[pcms]
 
 *1832|
 [fc]
@@ -346,13 +353,13 @@ screens.[pcms]
 
 *1833|
 [fc]
-The infected inside the hall were slowly starting to head out towards Udagawa[r]
-Street.[pcms]
+The infected inside the hall were slowly starting to head[r]
+out towards Udagawa Street.[pcms]
 
 *1834|
 [fc]
-The number of them was smaller than I had imagined, and after a short wait, the[r]
-hall was empty.[pcms]
+The number of them was smaller than I had imagined, and[r]
+after a short wait, the hall was empty.[pcms]
 
 *1835|
 [fc]
@@ -365,8 +372,9 @@ I speak into the walkie-talkie, timing it right.[pcms]
 
 *1837|
 [fc]
-The monitor shows the two of them raising their hands in acknowledgment before[r]
-opening the fire doors and heading out into the hall.[pcms]
+The monitor shows the two of them raising their hands in[r]
+acknowledgment before opening the fire doors and heading out[r]
+into the hall.[pcms]
 
 *1838|
 [fc]
@@ -375,18 +383,20 @@ opening the fire doors and heading out into the hall.[pcms]
 
 *1839|
 [fc]
-The two who rushed into the hall quickly closed the two entrances on the Udagawa[r]
-Street side and started hanging blackout curtains in front of the doors.[pcms]
+The two who rushed into the hall quickly closed the two[r]
+entrances on the Udagawa Street side and started hanging[r]
+blackout curtains in front of the doors.[pcms]
 
 *1840|
 [fc]
-Some of the infected noticed them and began banging on the glass doors trying to[r]
-get back into the building.[pcms]
+Some of the infected noticed them and began banging on the[r]
+glass doors trying to get back into the building.[pcms]
 
 *1841|
 [fc]
 [ns]Kousuke[nse]
-"It's reinforced glass, you idiots!! Too bad you can't get in!"[pcms]
+"It's reinforced glass, you idiots!! Too bad you can't get[r]
+in!"[pcms]
 
 *1842|
 [fc]
@@ -394,8 +404,8 @@ Kousuke's voice can be heard through the walkie-talkie.[pcms]
 
 *1843|
 [fc]
-Additionally, Kousuke's figure is clearly displayed on the monitor, trying to[r]
-provoke them by flipping them off.[pcms]
+Additionally, Kousuke's figure is clearly displayed on the[r]
+monitor, trying to provoke them by flipping them off.[pcms]
 
 *1844|
 [fc]
@@ -420,8 +430,8 @@ I quickly scan the monitors again.[pcms]
 *1848|
 [fc]
 [ns]Wataru[nse]
-"Elevator entrance side, Inokashira street side, both are clear. No infected in[r]
-sight!"[pcms]
+"Elevator entrance side, Inokashira street side, both are[r]
+clear. No infected in sight!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -447,7 +457,8 @@ There are two more entrances to secure in the entrance hall.[pcms]
 
 *1852|
 [fc]
-At my signal for safety confirmation, senpai and Kousuke dash through the hall.[pcms]
+At my signal for safety confirmation, senpai and Kousuke[r]
+dash through the hall.[pcms]
 
 *1853|
 [fc]
@@ -456,16 +467,16 @@ At my signal for safety confirmation, senpai and Kousuke dash through the hall.[
 
 *1854|
 [fc]
-I also leave the security booth and collect the remaining blackout curtains in[r]
-the hallway before heading to the hall.[pcms]
+I also leave the security booth and collect the remaining[r]
+blackout curtains in the hallway before heading to the hall.[pcms]
 
 [bg storage="BG08f"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
 
 *1855|
 [fc]
-By the time I joined them, they had already sealed all the entrances and hung up[r]
-the blackout curtains.[pcms]
+By the time I joined them, they had already sealed all the[r]
+entrances and hung up the blackout curtains.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -508,8 +519,9 @@ I take out my cell phone and press the speed dial button.[pcms]
 
 *1862|
 [fc]
-From the other end of the phone comes Yuuho's voice, hoarse as if she's[r]
-pitifully strained it, speaking in a pathetic tone.[pcms]
+From the other end of the phone comes Yuuho's voice, hoarse[r]
+as if she's pitifully strained it, speaking in a pathetic[r]
+tone.[pcms]
 
 *1863|
 [fc]
@@ -572,8 +584,8 @@ I hurriedly turn towards the direction of the groaning.[pcms]
 
 *1873|
 [fc]
-And then I see an infected person who seems to have been left behind in[r]
-Starbucks staggering out.[pcms]
+And then I see an infected person who seems to have been[r]
+left behind in Starbucks staggering out.[pcms]
 
 *1874|
 [fc]
@@ -595,14 +607,16 @@ Starbucks staggering out.[pcms]
 
 *1877|
 [fc]
-Kousuke tries to force a smile on his tense face as he glares at the infected.[pcms]
+Kousuke tries to force a smile on his tense face as he[r]
+glares at the infected.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1878|
 [fc]
 [ns]Kousuke[nse]
-"But with this many people, they're no match for us! Don't underestimate us!"[pcms]
+"But with this many people, they're no match for us! Don't[r]
+underestimate us!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -614,7 +628,8 @@ Kousuke tries to force a smile on his tense face as he glares at the infected.[p
 
 *1880|
 [fc]
-As Kousuke was about to draw his gun, the senior stopped him.[pcms]
+As Kousuke was about to draw his gun, the senior stopped[r]
+him.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -629,8 +644,9 @@ As Kousuke was about to draw his gun, the senior stopped him.[pcms]
 [fc]
 [vo_mar s="maru1519"]
 [ns]Margarita[nse]
-"There's a risk of stray bullets. Beyond the curtain is a glass door. If we[r]
-break it, the blockade will be for nothing!"[pcms]
+"There's a risk of stray bullets. Beyond the curtain is a[r]
+glass door. If we break it, the blockade will be for[r]
+nothing!"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -641,7 +657,8 @@ break it, the blockade will be for nothing!"[pcms]
 
 *1884|
 [fc]
-Indeed, even reinforced glass would break if hit by a bullet.[pcms]
+Indeed, even reinforced glass would break if hit by a[r]
+bullet.[pcms]
 
 *1885|
 [fc]
@@ -663,7 +680,8 @@ I realize that I'm holding a nail gun in my hand.[pcms]
 
 
 ;	[link storage="50380.ks" target=*50380_TOP]マル子先輩、これなら？[endlink]
-;       (link storage="50390.ks" target=*50390_TOP)I'll do it!(endlink)[pcms]
+;       (link storage="50390.ks" target=*50390_TOP)I'll do[r]
+it!(endlink)[pcms]
 
 *SEL45|マル子先輩、これなら？／僕がやる！
 [fc]

@@ -46,8 +46,8 @@ A row of many men standing in line...[pcms]
 
 *2000|
 [fc]
-Not just people like Shigeyoshi, but also ordinary office workers, and even boys[r]
-in school uniforms...[pcms]
+Not just people like Shigeyoshi, but also ordinary office[r]
+workers, and even boys in school uniforms...[pcms]
 
 *2001|
 [fc]
@@ -55,15 +55,16 @@ There must be about 30 to 40 people in total...[pcms]
 
 *2002|
 [fc]
-What are they going to do to us? If Shigeyoshi has come back... then, surely...[r]
-No...! Wataru... Wataru...![pcms]
+What are they going to do to us? If Shigeyoshi has come[r]
+back... then, surely... No...! Wataru... Wataru...![pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2003|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hehe... Now, the last one makes her appearance... With this, everyone's here."[pcms]
+"Hehe... Now, the last one makes her appearance... With[r]
+this, everyone's here."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -79,8 +80,8 @@ The senior was brought to us as if she was pushed away.[pcms]
 
 *2006|
 [fc]
-Even the strong senior is no good... With this number of people, there's really[r]
-nothing we can do...[pcms]
+Even the strong senior is no good... With this number of[r]
+people, there's really nothing we can do...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -96,25 +97,27 @@ nothing we can do...[pcms]
 
 *2009|
 [fc]
-The brat? Wataru? Wataru... I see, Wataru is safe... thank goodness.[pcms]
+The brat? Wataru? Wataru... I see, Wataru is safe... thank[r]
+goodness.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2010|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hmph, the brat and Mizuki aren't here either... well, it's fine. Having three[r]
-girls is more than enough."[pcms]
+"Hmph, the brat and Mizuki aren't here either... well, it's[r]
+fine. Having three girls is more than enough."[pcms]
 
 *2011|
 [fc]
-Shigeyoshi's lecherous gaze glares at us. A gaze like he's toying with girls...[r]
-don't look at me with those eyes...[pcms]
+Shigeyoshi's lecherous gaze glares at us. A gaze like he's[r]
+toying with girls... don't look at me with those eyes...[pcms]
 
 *2012|
 [fc]
-The kind of gaze I felt even during competitions and practice. But in those[r]
-places, it was just unpleasant feelings... I'm scared... Wataru...![pcms]
+The kind of gaze I felt even during competitions and[r]
+practice. But in those places, it was just unpleasant[r]
+feelings... I'm scared... Wataru...![pcms]
 
 [ChrSetEx layer=5 chbase="maru_a23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -122,8 +125,8 @@ places, it was just unpleasant feelings... I'm scared... Wataru...![pcms]
 [fc]
 [vo_mar s="maru1215"]
 [ns]Margarita[nse]
-"I'm sorry... I wanted to let everyone escape... It's my fault for not being[r]
-strong enough."[pcms]
+"I'm sorry... I wanted to let everyone escape... It's my[r]
+fault for not being strong enough."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -141,34 +144,36 @@ strong enough."[pcms]
 
 *2016|
 [fc]
-I was surprised by the senior's words and raised my voice without thinking.[r]
-Maybe the senior... could have escaped if she was alone. Did I... become a[r]
-burden?[pcms]
+I was surprised by the senior's words and raised my voice[r]
+without thinking. Maybe the senior... could have escaped if[r]
+she was alone. Did I... become a burden?[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2017|
 [fc]
 [ns]Shigeyoshi[nse]
-"Now then... now that everyone's here, shall we begin? ...But first, we need to[r]
-do the final touches. The grand finale of my conquest."[pcms]
+"Now then... now that everyone's here, shall we begin?[r]
+...But first, we need to do the final touches. The grand[r]
+finale of my conquest."[pcms]
 
 *2018|
 [fc]
-Shigeyoshi's gaze swept over us and stopped abruptly on Jin's face.[pcms]
+Shigeyoshi's gaze swept over us and stopped abruptly on[r]
+Jin's face.[pcms]
 
 *2019|
 [fc]
-Bloodshot eyes, even the focus seemed dubious. What on earth is he planning to[r]
-do...?[pcms]
+Bloodshot eyes, even the focus seemed dubious. What on earth[r]
+is he planning to do...?[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2020|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hey, big bro... I've climbed up, see? Not by using my head like you, but with a[r]
-much simpler and clearer method."[pcms]
+"Hey, big bro... I've climbed up, see? Not by using my head[r]
+like you, but with a much simpler and clearer method."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -182,8 +187,8 @@ much simpler and clearer method."[pcms]
 *2022|
 [fc]
 [ns]Shigeyoshi[nse]
-"Right? That's why I gotta stay true to my style till the end, big bro... no,[r]
-Jin Mitsuki!"[pcms]
+"Right? That's why I gotta stay true to my style till the[r]
+end, big bro... no, Jin Mitsuki!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -201,16 +206,17 @@ Jin Mitsuki!"[pcms]
 
 *2025|
 [fc]
-With a scream, Shigeyoshi drew his gun and pointed the muzzle at Jin. This can't[r]
-be happening... it's not true, right?[pcms]
+With a scream, Shigeyoshi drew his gun and pointed the[r]
+muzzle at Jin. This can't be happening... it's not true,[r]
+right?[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2026|
 [fc]
 [ns]Shigeyoshi[nse]
-"We're in the business of violence. That's why we eliminate nuisances like[r]
-this... Right, Jin?"[pcms]
+"We're in the business of violence. That's why we eliminate[r]
+nuisances like this... Right, Jin?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -221,44 +227,48 @@ this... Right, Jin?"[pcms]
 
 *2028|
 [fc]
-Shigeyoshi's trembling voice and Jin's indifferent words. The situation seemed[r]
-completely opposite to their appearances, making the unreality even stronger.[pcms]
+Shigeyoshi's trembling voice and Jin's indifferent words.[r]
+The situation seemed completely opposite to their[r]
+appearances, making the unreality even stronger.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2029|
 [fc]
 [ns]Shigeyoshi[nse]
-"I really was grateful to you. You picked up a dumbass like me who was good for[r]
-nothing and used me. But that's all over now... I'm the top dog!"[pcms]
+"I really was grateful to you. You picked up a dumbass like[r]
+me who was good for nothing and used me. But that's all over[r]
+now... I'm the top dog!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2030|
 [fc]
 [ns]Jin[nse]
-"That's right... do as you like. Whoever wants to be king should just be king."[pcms]
+"That's right... do as you like. Whoever wants to be king[r]
+should just be king."[pcms]
 
 *2031|
 [fc]
-Why... why would he say something so provocative? Watching this makes me so[r]
-scared that my body starts shaking...[pcms]
+Why... why would he say something so provocative? Watching[r]
+this makes me so scared that my body starts shaking...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2032|
 [fc]
 [ns]Jin[nse]
-"What's wrong? Can't do it when it comes down to it? Are you a fool who can't do[r]
-anything unless told by me till the very end? Go on, try it."[pcms]
+"What's wrong? Can't do it when it comes down to it? Are you[r]
+a fool who can't do anything unless told by me till the very[r]
+end? Go on, try it."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2033|
 [fc]
 [ns]Shigeyoshi[nse]
-"You bastard! Stop acting like you're my big bro! I'm the top dog... I'm number[r]
-one! I can do whatever I want!!"[pcms]
+"You bastard! Stop acting like you're my big bro! I'm the[r]
+top dog... I'm number one! I can do whatever I want!!"[pcms]
 
 ;//se026ÅEèeê∫
 [se buf=0 storage="se026"]
@@ -302,17 +312,19 @@ one! I can do whatever I want!!"[pcms]
 
 *2037|
 [fc]
-A loud bang. Red liquid splattered. And Jin's body slowly collapsing.[pcms]
+A loud bang. Red liquid splattered. And Jin's body slowly[r]
+collapsing.[pcms]
 
 *2038|
 [fc]
-The abrupt end of it all left my thoughts and comprehension paralyzed, unable to[r]
-understand the reality unfolding before me.[pcms]
+The abrupt end of it all left my thoughts and comprehension[r]
+paralyzed, unable to understand the reality unfolding before[r]
+me.[pcms]
 
 *2039|
 [fc]
-But as I watched the blood slowly spread across the floor, my recognition began[r]
-to widen--[pcms]
+But as I watched the blood slowly spread across the floor,[r]
+my recognition began to widen--[pcms]
 
 ;//--------------------------------------------------------------------
 ;//èåèï™äÚ
@@ -346,15 +358,16 @@ The screams echoed throughout the main dome.[pcms]
 
 *2043|
 [fc]
-Why? Why did he kill him... why was he killed? So easily... so[r]
-anticlimactically![pcms]
+Why? Why did he kill him... why was he killed? So easily...[r]
+so anticlimactically![pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2044|
 [fc]
 [ns]Shigeyoshi[nse]
-"Haah, haah... I killed him... I did it! Now I'm the top dog... I'm the king!!"[pcms]
+"Haah, haah... I killed him... I did it! Now I'm the top[r]
+dog... I'm the king!!"[pcms]
 
 ;//se073ÅEäΩê∫
 [se buf=0 storage="se073"]
@@ -374,7 +387,8 @@ anticlimactically![pcms]
 [fc]
 [vo_ren s="ren1160"]
 [ns]Ren[nse]
-"No, nooo... why is this happening!? Big brother... big brother...!"[pcms]
+"No, nooo... why is this happening!? Big brother... big[r]
+brother...!"[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10010_06
@@ -383,8 +397,8 @@ anticlimactically![pcms]
 [fc]
 [vo_yuh s="yuho1271"]
 [ns]Yuuho[nse]
-"Humans against each other... why do such a thing... they're not infected so[r]
-why...!?"[pcms]
+"Humans against each other... why do such a thing... they're[r]
+not infected so why...!?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -396,8 +410,8 @@ why...!?"[pcms]
 
 *2048|
 [fc]
-The trembling in my body wouldn't stop at the words of my senior. Because...[r]
-even though we're human! This is just...![pcms]
+The trembling in my body wouldn't stop at the words of my[r]
+senior. Because... even though we're human! This is just...![pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -408,16 +422,18 @@ even though we're human! This is just...![pcms]
 
 *2050|
 [fc]
-While kicking Jin-san's body, Shigeyoshi-san barked orders with an excited[r]
-voice. His facial expression and eyes were no longer sane.[pcms]
+While kicking Jin-san's body, Shigeyoshi-san barked orders[r]
+with an excited voice. His facial expression and eyes were[r]
+no longer sane.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2051|
 [fc]
 [ns]Shigeyoshi[nse]
-"Alright, that's it, just throw him over there. That's fine... Now, it's just[r]
-these three left... How shall I enjoy myself..."[pcms]
+"Alright, that's it, just throw him over there. That's[r]
+fine... Now, it's just these three left... How shall I enjoy[r]
+myself..."[pcms]
 
 ;//--------------------------------------------------------------------
 ;//èåèï™äÚ
@@ -455,12 +471,13 @@ these three left... How shall I enjoy myself..."[pcms]
 
 *2055|
 [fc]
-As if they couldn't hear our screams at all, the men kept coming at us one after[r]
-another.[pcms]
+As if they couldn't hear our screams at all, the men kept[r]
+coming at us one after another.[pcms]
 
 *2056|
 [fc]
-The hands reaching out stroked all over my body... No! I don't want this![pcms]
+The hands reaching out stroked all over my body... No! I[r]
+don't want this![pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -472,12 +489,13 @@ The hands reaching out stroked all over my body... No! I don't want this![pcms]
 
 *2058|
 [fc]
-Suddenly, my senior burst out from the circle of men and dashed towards Shige-[r]
-san.[pcms]
+Suddenly, my senior burst out from the circle of men and[r]
+dashed towards Shige- san.[pcms]
 
 *2059|
 [fc]
-Nobody--not even Shige-san--could react to her swift movements.[pcms]
+Nobody--not even Shige-san--could react to her swift[r]
+movements.[pcms]
 
 ;//se012ÅEêlÇâ£ÇÈâπ
 [se buf=0 storage="se012"]
@@ -502,8 +520,8 @@ Nobody--not even Shige-san--could react to her swift movements.[pcms]
 
 *2062|
 [fc]
-Shige-san's massive body collapsed, and my senior looked down at him with cold[r]
-eyes. But that moment was fleeting--[pcms]
+Shige-san's massive body collapsed, and my senior looked[r]
+down at him with cold eyes. But that moment was fleeting--[pcms]
 
 *2063|
 [fc]
@@ -525,15 +543,16 @@ eyes. But that moment was fleeting--[pcms]
 
 *2066|
 [fc]
-In the blink of an eye, she was surrounded by the men and pinned down.[pcms]
+In the blink of an eye, she was surrounded by the men and[r]
+pinned down.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2067|
 [fc]
 [ns]Shigeyoshi[nse]
-"Guh...ugh...you damn bitch...you have no idea of your place... Hey! Someone get[r]
-some oil from the kitchen!"[pcms]
+"Guh...ugh...you damn bitch...you have no idea of your[r]
+place... Hey! Someone get some oil from the kitchen!"[pcms]
 
 *2068|
 [fc]
@@ -545,17 +564,18 @@ some oil from the kitchen!"[pcms]
 *2069|
 [fc]
 [ns]Shigeyoshi[nse]
-"Just hurry up and bring it! I'm going to teach this bitch a lesson...!"[pcms]
+"Just hurry up and bring it! I'm going to teach this bitch a[r]
+lesson...!"[pcms]
 
 *2070|
 [fc]
-Her face flushed red, my senior was pinned down by the men, glaring down at her[r]
-with gleaming eyes.[pcms]
+Her face flushed red, my senior was pinned down by the men,[r]
+glaring down at her with gleaming eyes.[pcms]
 
 *2071|
 [fc]
-Their eyes were glittering with anger and desire--what are they planning to[r]
-do...?[pcms]
+Their eyes were glittering with anger and desire--what are[r]
+they planning to do...?[pcms]
 
 *2072|
 [fc]
@@ -607,8 +627,9 @@ do...?[pcms]
 
 *2078|
 [fc]
-As he poured the oil onto his clenched fist, Shigeyoshi-san stripped off her[r]
-clothes and leered at my senior's exposed body with a vulgar grin.[pcms]
+As he poured the oil onto his clenched fist, Shigeyoshi-san[r]
+stripped off her clothes and leered at my senior's exposed[r]
+body with a vulgar grin.[pcms]
 
 *2079|
 [fc]
@@ -626,8 +647,8 @@ clothes and leered at my senior's exposed body with a vulgar grin.[pcms]
 
 *2081|
 [fc]
-Despite glaring at Shigeyoshi-san, my senior's beautiful face betrayed her fear[r]
-as she let out a bewildered cry.[pcms]
+Despite glaring at Shigeyoshi-san, my senior's beautiful[r]
+face betrayed her fear as she let out a bewildered cry.[pcms]
 
 *2082|
 [fc]
@@ -642,25 +663,27 @@ as she let out a bewildered cry.[pcms]
 
 *2084|
 [fc]
-My senior's face turned pale at Shigeyoshi-san's words, and she thrashed about,[r]
-trying to escape.[pcms]
+My senior's face turned pale at Shigeyoshi-san's words, and[r]
+she thrashed about, trying to escape.[pcms]
 
 *2085|
 [fc]
-But being held down by several men, she couldn't do anything, and Shigeyoshi-san[r]
-touched her pussy.[pcms]
+But being held down by several men, she couldn't do[r]
+anything, and Shigeyoshi-san touched her pussy.[pcms]
 
 *2086|
 [fc]
 [vo_mar s="maru1227"]
 [ns]Margarita[nse]
-"Ah... no! Don't touch! Not there... ugh! Stop it... get off me!!"[pcms]
+"Ah... no! Don't touch! Not there... ugh! Stop it... get off[r]
+me!!"[pcms]
 
 *2087|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uhehe... quite a pretty pussy you've got there... huh? Oh, what do we have[r]
-here... a virgin, no less. Gufufu, this is great!"[pcms]
+"Uhehe... quite a pretty pussy you've got there... huh? Oh,[r]
+what do we have here... a virgin, no less. Gufufu, this is[r]
+great!"[pcms]
 
 *2088|
 [fc]
@@ -670,25 +693,27 @@ here... a virgin, no less. Gufufu, this is great!"[pcms]
 
 *2089|
 [fc]
-With her pussy being roughly fiddled with by greasy fingers, my senior twisted[r]
-her face in pain.[pcms]
+With her pussy being roughly fiddled with by greasy fingers,[r]
+my senior twisted her face in pain.[pcms]
 
 *2090|
 [fc]
-Little by little, Shigeyoshi-san's fingers entered my senior's pussy... No[r]
-way... it can't be... something like that...[pcms]
+Little by little, Shigeyoshi-san's fingers entered my[r]
+senior's pussy... No way... it can't be... something like[r]
+that...[pcms]
 
 *2091|
 [fc]
 [ns]Shigeyoshi[nse]
-"Fufufu... I'm gonna take your virginity with a fist fuck, huh!?"[pcms]
+"Fufufu... I'm gonna take your virginity with a fist fuck,[r]
+huh!?"[pcms]
 
 *2092|
 [fc]
 [vo_mar s="maru1229"]
 [ns]Margarita[nse]
-"NO!! Stop, stop it... There's no way that can fit... ugh! Hii...! Gii...[r]
-aaaaaaaaaah!!!"[pcms]
+"NO!! Stop, stop it... There's no way that can fit... ugh![r]
+Hii...! Gii... aaaaaaaaaah!!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 
@@ -698,14 +723,15 @@ aaaaaaaaaah!!!"[pcms]
 
 *2093|
 [fc]
-His hand sank up to the wrist inside my senior, and at the same time, a scream[r]
-loud enough to make you want to cover your ears echoed throughout the dome.[pcms]
+His hand sank up to the wrist inside my senior, and at the[r]
+same time, a scream loud enough to make you want to cover[r]
+your ears echoed throughout the dome.[pcms]
 
 *2094|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gyahahaha! How's that? The taste of my hand, huh? Feels like you're ascending[r]
-to heaven, doesn't it?"[pcms]
+"Gyahahaha! How's that? The taste of my hand, huh? Feels[r]
+like you're ascending to heaven, doesn't it?"[pcms]
 
 *2095|
 [fc]
@@ -715,12 +741,14 @@ to heaven, doesn't it?"[pcms]
 
 *2096|
 [fc]
-With her eyes wide and tongue sticking out, my senior convulsed and trembled all[r]
-over; Shigeyoshi-san's voice probably didn't even reach her ears.[pcms]
+With her eyes wide and tongue sticking out, my senior[r]
+convulsed and trembled all over; Shigeyoshi-san's voice[r]
+probably didn't even reach her ears.[pcms]
 
 *2097|
 [fc]
-Still, Shigeyoshi-san's delighted voice continued along with his actions--[pcms]
+Still, Shigeyoshi-san's delighted voice continued along with[r]
+his actions--[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -740,8 +768,8 @@ Still, Shigeyoshi-san's delighted voice continued along with his actions--[pcms]
 
 *2100|
 [fc]
-As Shigeyoshi-san's arm was thrust in further, my senior's belly bulged out[r]
-noticeably.[pcms]
+As Shigeyoshi-san's arm was thrust in further, my senior's[r]
+belly bulged out noticeably.[pcms]
 
 *2101|
 [fc]
@@ -757,13 +785,14 @@ noticeably.[pcms]
 [fc]
 [vo_mar s="maru1232"]
 [ns]Margarita[nse]
-"Gehih! Ogoh! Gyih...ugaaah!! Geboh, ugeh...goboh, buguh...gubuhh!!"[pcms]
+"Gehih! Ogoh! Gyih...ugaaah!! Geboh, ugeh...goboh,[r]
+buguh...gubuhh!!"[pcms]
 
 *2103|
 [fc]
-My senior was convulsing and screaming inhuman cries as if her womb and insides[r]
-were being punched, scattering vomit everywhere. This is terrible... this is[r]
-just too cruel...![pcms]
+My senior was convulsing and screaming inhuman cries as if[r]
+her womb and insides were being punched, scattering vomit[r]
+everywhere. This is terrible... this is just too cruel...![pcms]
 
 *2104|
 [fc]
@@ -778,8 +807,9 @@ just too cruel...![pcms]
 
 *2106|
 [fc]
-Shigeyoshi-san, spewing out a maniacal laugh, continued to violently thrust into[r]
-my senior who had fainted with her eyes rolled back.[pcms]
+Shigeyoshi-san, spewing out a maniacal laugh, continued to[r]
+violently thrust into my senior who had fainted with her[r]
+eyes rolled back.[pcms]
 
 [ê‘ÉtÉâ]
 [ê‘ÉtÉâ]
@@ -787,13 +817,15 @@ my senior who had fainted with her eyes rolled back.[pcms]
 
 *2107|
 [fc]
-Each time, my senior's beautifully toned body twitched and convulsed.[pcms]
+Each time, my senior's beautifully toned body twitched and[r]
+convulsed.[pcms]
 
 *2108|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gyahahahaha!! Is this the sight of the bitch who's been kicking me around all[r]
-this time? This is what you get for defying me! Serves you right!!"[pcms]
+"Gyahahahaha!! Is this the sight of the bitch who's been[r]
+kicking me around all this time? This is what you get for[r]
+defying me! Serves you right!!"[pcms]
 
 ;mm ì\ÇËÉCÉ`í≤êÆ
 [se buf=0 storage="se_sex01"]
@@ -810,8 +842,9 @@ this time? This is what you get for defying me! Serves you right!!"[pcms]
 
 *2110|
 [fc]
-As Shigeyoshi-san pulled his arm out all at once while screaming, my senior woke[r]
-up to the pain and screamed out loud.[pcms]
+As Shigeyoshi-san pulled his arm out all at once while[r]
+screaming, my senior woke up to the pain and screamed out[r]
+loud.[pcms]
 
 *2111|
 [fc]
@@ -826,20 +859,21 @@ up to the pain and screamed out loud.[pcms]
 
 *2112|
 [fc]
-Foaming at the mouth and letting out low moans, my senior wet herself and lost[r]
-consciousness again.[pcms]
+Foaming at the mouth and letting out low moans, my senior[r]
+wet herself and lost consciousness again.[pcms]
 
 *2113|
 [fc]
 [vo_ren s="ren1162"]
 [ns]Ren[nse]
-"No... I don't want this... Big brother... big brother... help me..."[pcms]
+"No... I don't want this... Big brother... big brother...[r]
+help me..."[pcms]
 
 *2114|
 [fc]
 [ns]Shigeyoshi[nse]
-"Guhehe... it's far from over, you know? It's not ending yet. I'll make you[r]
-fully understand... the terror of me!"[pcms]
+"Guhehe... it's far from over, you know? It's not ending[r]
+yet. I'll make you fully understand... the terror of me!"[pcms]
 
 [stopse buf=0]
 
@@ -866,13 +900,13 @@ Ren-chan, frightened, curled up and trembled.[pcms]
 
 *2116|
 [fc]
-Shigeyoshi-san's hand reached out, trying to drag my senior, who was still[r]
-unconscious, back up.[pcms]
+Shigeyoshi-san's hand reached out, trying to drag my senior,[r]
+who was still unconscious, back up.[pcms]
 
 *2117|
 [fc]
-That's too much... if he does any more... she'll really die... My senior could[r]
-be killed...![pcms]
+That's too much... if he does any more... she'll really[r]
+die... My senior could be killed...![pcms]
 
 *2118|
 [fc]
@@ -885,15 +919,17 @@ be killed...![pcms]
 *2119|
 [fc]
 [ns]Shigeyoshi[nse]
-"Huh? Yuuho-chan, what are you talking about? There's still a bunch of guys here[r]
-who aren't satisfied yet. There's no way we're stopping, right?"[pcms]
+"Huh? Yuuho-chan, what are you talking about? There's still[r]
+a bunch of guys here who aren't satisfied yet. There's no[r]
+way we're stopping, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2120|
 [fc]
 [ns]Shigeyoshi[nse]
-"Or what? Are you saying that you, Yuuho-chan, will take care of everyone here?"[pcms]
+"Or what? Are you saying that you, Yuuho-chan, will take[r]
+care of everyone here?"[pcms]
 
 *2121|
 [fc]
@@ -903,20 +939,20 @@ who aren't satisfied yet. There's no way we're stopping, right?"[pcms]
 
 *2122|
 [fc]
-The faces of the men lined up swelled with even more distorted desire at Shige-[r]
-san's words.[pcms]
+The faces of the men lined up swelled with even more[r]
+distorted desire at Shige- san's words.[pcms]
 
 *2123|
 [fc]
-Gleaming eyes all turned towards me at once. Eyes filled with lust... lecherous[r]
-eyes staring at me...[pcms]
+Gleaming eyes all turned towards me at once. Eyes filled[r]
+with lust... lecherous eyes staring at me...[pcms]
 
 *2124|
 [fc]
 [vo_yuh s="yuho1275"]
 [ns]Yuuho[nse]
-"I understand... I'll be the one to take care of everyone... So please, no more[r]
-with Senpai...!"[pcms]
+"I understand... I'll be the one to take care of everyone...[r]
+So please, no more with Senpai...!"[pcms]
 
 ;//èåèï™äÚ
 [if exp="f.l_dead_r==1"][jump storage="BEH_10010.ks" target=*BEH_10010_12][endif]
@@ -954,8 +990,9 @@ with Senpai...!"[pcms]
 *2128|
 [fc]
 [ns]Shigeyoshi[nse]
-"Is that so? If Yuuho-chan is willing to take their place, then that's fine by[r]
-me. Let's have our idol here get gangbanged by everyone."[pcms]
+"Is that so? If Yuuho-chan is willing to take their place,[r]
+then that's fine by me. Let's have our idol here get[r]
+gangbanged by everyone."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -964,11 +1001,13 @@ me. Let's have our idol here get gangbanged by everyone."[pcms]
 
 *2129|
 [fc]
-The men let out a cheer in unison following Shige-san's honeyed words.[pcms]
+The men let out a cheer in unison following Shige-san's[r]
+honeyed words.[pcms]
 
 *2130|
 [fc]
-I'm going to be violated... by so many people... I'm sorry, Wataru...[pcms]
+I'm going to be violated... by so many people... I'm sorry,[r]
+Wataru...[pcms]
 
 *2131|
 [fc]
@@ -977,11 +1016,13 @@ I'm going to be violated... by so many people... I'm sorry, Wataru...[pcms]
 
 *2132|
 [fc]
-Suddenly, one of the men raised his voice and brought over my bag.[pcms]
+Suddenly, one of the men raised his voice and brought over[r]
+my bag.[pcms]
 
 *2133|
 [fc]
-From its gaping mouth, a white competitive swimsuit was being pulled out.[pcms]
+From its gaping mouth, a white competitive swimsuit was[r]
+being pulled out.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -995,7 +1036,8 @@ From its gaping mouth, a white competitive swimsuit was being pulled out.[pcms]
 *2135|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hm? What's this? ...A violin? We don't need that, put it aside."[pcms]
+"Hm? What's this? ...A violin? We don't need that, put it[r]
+aside."[pcms]
 ;//Åâ:ó¯ê∂ë∂éûÇÃÇ›
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
@@ -1040,11 +1082,13 @@ From its gaping mouth, a white competitive swimsuit was being pulled out.[pcms]
 
 *2140|
 [fc]
-The men let out a cheer in unison following Shige-san's honeyed words.[pcms]
+The men let out a cheer in unison following Shige-san's[r]
+honeyed words.[pcms]
 
 *2141|
 [fc]
-I'm in no position to refuse... Besides, even if I did, they'd force me...[pcms]
+I'm in no position to refuse... Besides, even if I did,[r]
+they'd force me...[pcms]
 
 *2142|
 [fc]
@@ -1054,16 +1098,17 @@ I'm in no position to refuse... Besides, even if I did, they'd force me...[pcms]
 
 *2143|
 [fc]
-I take the swimsuit from Shige-san's hand and stare at it. My familiar[r]
-competitive swimsuit... I never thought I'd have to wear it in a place like[r]
-this...[pcms]
+I take the swimsuit from Shige-san's hand and stare at it.[r]
+My familiar competitive swimsuit... I never thought I'd have[r]
+to wear it in a place like this...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2144|
 [fc]
 [ns]Shigeyoshi[nse]
-"Come on, hurry up and change. Everyone can't wait any longer."[pcms]
+"Come on, hurry up and change. Everyone can't wait any[r]
+longer."[pcms]
 
 *2145|
 [fc]
@@ -1075,8 +1120,8 @@ this...[pcms]
 
 *2146|
 [fc]
-I take a deep breath and start to undress, beginning to change. Countless gazes[r]
-pierce my body as I do so...[pcms]
+I take a deep breath and start to undress, beginning to[r]
+change. Countless gazes pierce my body as I do so...[pcms]
 
 *2147|
 [fc]
@@ -1093,18 +1138,19 @@ No... don't look...[pcms]
 *2149|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uho~~! The local idol, the star of the swimming world in her live swimsuit[r]
-appearance! And it's an erotically outstanding white swimsuit at that!"[pcms]
+"Uho~~! The local idol, the star of the swimming world in[r]
+her live swimsuit appearance! And it's an erotically[r]
+outstanding white swimsuit at that!"[pcms]
 
 *2150|
 [fc]
-Following Shigeyoshi-san, excited voices rose here and there, and lust-filled[r]
-gazes licked over my body.[pcms]
+Following Shigeyoshi-san, excited voices rose here and[r]
+there, and lust-filled gazes licked over my body.[pcms]
 
 *2151|
 [fc]
-The gazes I felt during practice or at competitions were nothing compared to[r]
-these intensely lecherous stares...[pcms]
+The gazes I felt during practice or at competitions were[r]
+nothing compared to these intensely lecherous stares...[pcms]
 
 *2152|
 [fc]
@@ -1115,8 +1161,9 @@ No... don't look at me with those eyes...[pcms]
 *2153|
 [fc]
 [ns]Shigeyoshi[nse]
-"What's wrong with a white competitive swimsuit? It clings tightly and shows off[r]
-the body lines so clearly. It's arousing."[pcms]
+"What's wrong with a white competitive swimsuit? It clings[r]
+tightly and shows off the body lines so clearly. It's[r]
+arousing."[pcms]
 
 *2154|
 [fc]
@@ -1166,8 +1213,8 @@ the body lines so clearly. It's arousing."[pcms]
 
 *2158|
 [fc]
-Suddenly, as if remembering something, Shigeyoshi-san muttered and called over[r]
-one of the men.[pcms]
+Suddenly, as if remembering something, Shigeyoshi-san[r]
+muttered and called over one of the men.[pcms]
 
 *2159|
 [fc]
@@ -1180,8 +1227,8 @@ And after whispering something to the man--[pcms]
 
 *2161|
 [fc]
-He nodded and, along with several other people, approached where Senpai and Ren-[r]
-chan were.[pcms]
+He nodded and, along with several other people, approached[r]
+where Senpai and Ren- chan were.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1195,20 +1242,21 @@ chan were.[pcms]
 [fc]
 [vo_yuh s="yuho1290"]
 [ns]Yuuho[nse]
-"That's not right... You promised! You said you wouldn't do anything to Senpai[r]
-and Ren-chan...!"[pcms]
+"That's not right... You promised! You said you wouldn't do[r]
+anything to Senpai and Ren-chan...!"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2164|
 [fc]
 [ns]Shigeyoshi[nse]
-"Don't panic, Yuuho-chan. We're just going to take them to a different room."[pcms]
+"Don't panic, Yuuho-chan. We're just going to take them to a[r]
+different room."[pcms]
 
 *2165|
 [fc]
-Shigeyoshi-san let out a cat-like smile while chuckling. Unbelievable... I can't[r]
-trust anything this man says![pcms]
+Shigeyoshi-san let out a cat-like smile while chuckling.[r]
+Unbelievable... I can't trust anything this man says![pcms]
 
 *2166|
 [fc]
@@ -1219,7 +1267,8 @@ But...[pcms]
 *2167|
 [fc]
 [ns]Shigeyoshi[nse]
-"Or what? Does Yuuho-chan want to watch that doll get gangbanged?"[pcms]
+"Or what? Does Yuuho-chan want to watch that doll get[r]
+gangbanged?"[pcms]
 
 *2168|
 [fc]
@@ -1235,7 +1284,8 @@ That is...[pcms]
 [fc]
 [vo_yuh s="yuho1292"]
 [ns]Yuuho[nse]
-"You really won't do anything to Ren-chan and Senpai... right?"[pcms]
+"You really won't do anything to Ren-chan and Senpai...[r]
+right?"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1252,8 +1302,9 @@ That is...[pcms]
 
 *2173|
 [fc]
-Nodding as if to agree, I hung my head, and Shigeyoshi-san laughed heartily with[r]
-satisfaction and gestured to the men with his chin.[pcms]
+Nodding as if to agree, I hung my head, and Shigeyoshi-san[r]
+laughed heartily with satisfaction and gestured to the men[r]
+with his chin.[pcms]
 
 *2174|
 [fc]
@@ -1276,8 +1327,9 @@ satisfaction and gestured to the men with his chin.[pcms]
 
 *2177|
 [fc]
-Ren-chan was dragged away as if being pulled. This is for the best... right?[r]
-This way, I can protect Ren-chan... Wataru...[pcms]
+Ren-chan was dragged away as if being pulled. This is for[r]
+the best... right? This way, I can protect Ren-chan...[r]
+Wataru...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1300,8 +1352,8 @@ This way, I can protect Ren-chan... Wataru...[pcms]
 [fc]
 [vo_yuh s="yuho1296"]
 [ns]Yuuho[nse]
-"E-everyone... please use my body... sniffling... to feel good... hic...[r]
-please... uuh..."[pcms]
+"E-everyone... please use my body... sniffling... to feel[r]
+good... hic... please... uuh..."[pcms]
 ;//ÅõÅió‹ê∫Ç≈Åj
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
@@ -1309,12 +1361,13 @@ please... uuh..."[pcms]
 *2181|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gyahahaha!! Well said, Yuuho-chan! A lewd declaration from the local idol!!"[pcms]
+"Gyahahaha!! Well said, Yuuho-chan! A lewd declaration from[r]
+the local idol!!"[pcms]
 
 *2182|
 [fc]
-No... nooo... I can't believe I have to say such embarrassing things... I don't[r]
-want this... Wataru...[pcms]
+No... nooo... I can't believe I have to say such[r]
+embarrassing things... I don't want this... Wataru...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1338,8 +1391,8 @@ want this... Wataru...[pcms]
 *2184|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uhooh, this is irresistible! Sticking out that plump ass... it's the best[r]
-view!"[pcms]
+"Uhooh, this is irresistible! Sticking out that plump ass...[r]
+it's the best view!"[pcms]
 
 *2185|
 [fc]
@@ -1360,35 +1413,38 @@ This pose... my butt is being seen... nooo...[pcms]
 [fc]
 [vo_yuh s="yuho1298"]
 [ns]Yuuho[nse]
-"Hii! No, don't touch...ugh! Nooo, don't stroke my butt like that!"[pcms]
+"Hii! No, don't touch...ugh! Nooo, don't stroke my butt like[r]
+that!"[pcms]
 
 *2189|
 [fc]
-Shigeyoshi-san's large hand persistently stroked my butt, pushing his fingertips[r]
-against it forcefully.[pcms]
+Shigeyoshi-san's large hand persistently stroked my butt,[r]
+pushing his fingertips against it forcefully.[pcms]
 
 *2190|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uooh! It's so plump and soft yet it pushes back with such resilience! This is[r]
-the best ass ever!!"[pcms]
+"Uooh! It's so plump and soft yet it pushes back with such[r]
+resilience! This is the best ass ever!!"[pcms]
 
 *2191|
 [fc]
 [vo_yuh s="yuho1299"]
 [ns]Yuuho[nse]
-"No, it hurts...! Don't be so rough...hiu! Kuh, it's...! Ahh!"[pcms]
+"No, it hurts...! Don't be so rough...hiu! Kuh, it's...![r]
+Ahh!"[pcms]
 
 *2192|
 [fc]
-The pain from the kneading and squeezing hands made me involuntarily let out a[r]
-cry, and my body trembled with twitches. Nooo... help me, Wataru...[pcms]
+The pain from the kneading and squeezing hands made me[r]
+involuntarily let out a cry, and my body trembled with[r]
+twitches. Nooo... help me, Wataru...[pcms]
 
 *2193|
 [fc]
 [ns]Shigeyoshi[nse]
-"Well then, the ass is good but the real prize is over here... Come on, turn[r]
-this way!"[pcms]
+"Well then, the ass is good but the real prize is over[r]
+here... Come on, turn this way!"[pcms]
 
 *2194|
 [fc]
@@ -1402,36 +1458,38 @@ this way!"[pcms]
 *2195|
 [fc]
 [ns]Shigeyoshi[nse]
-"Oho! This is Yuuho-chan's... an idol's pussy! Let's see here... nchu, belo..."[pcms]
+"Oho! This is Yuuho-chan's... an idol's pussy! Let's see[r]
+here... nchu, belo..."[pcms]
 
 *2196|
 [fc]
 [vo_yuh s="yuho1301"]
 [ns]Yuuho[nse]
-"Hii! No, don't lick...nnnn~~~!! Stop it... it feels gross...auu!"[pcms]
+"Hii! No, don't lick...nnnn~~~!! Stop it... it feels[r]
+gross...auu!"[pcms]
 
 *2197|
 [fc]
-Forced to open wide, Shigeyoshi-san's tongue slithered all over my exposed[r]
-pussy.[pcms]
+Forced to open wide, Shigeyoshi-san's tongue slithered all[r]
+over my exposed pussy.[pcms]
 
 *2198|
 [fc]
-The disgustingly warm and slimy sensation raced up my spine, causing goosebumps[r]
-to spread all over my body.[pcms]
+The disgustingly warm and slimy sensation raced up my spine,[r]
+causing goosebumps to spread all over my body.[pcms]
 
 *2199|
 [fc]
 [vo_yuh s="yuho1302"]
 [ns]Yuuho[nse]
-"Ukuh, hii...yaa, no...nkuh, ah...! No, don't open it...ahh, you're looking[r]
-inside...nooo!"[pcms]
+"Ukuh, hii...yaa, no...nkuh, ah...! No, don't open it...ahh,[r]
+you're looking inside...nooo!"[pcms]
 
 *2200|
 [fc]
 [ns]Shigeyoshi[nse]
-"Guhaha... I'm gonna look inside Yuuho-chan's cute pussy... Huh? What's this...[r]
-hey! You little...!"[pcms]
+"Guhaha... I'm gonna look inside Yuuho-chan's cute pussy...[r]
+Huh? What's this... hey! You little...!"[pcms]
 
 *2201|
 [fc]
@@ -1444,14 +1502,15 @@ hey! You little...!"[pcms]
 
 *2202|
 [fc]
-As soon as my vagina was spread open with his tongue and fingers, Wataru's cum[r]
-started to spill out from inside me. Ahh...no...Wataru...Wataru's...[pcms]
+As soon as my vagina was spread open with his tongue and[r]
+fingers, Wataru's cum started to spill out from inside me.[r]
+Ahh...no...Wataru...Wataru's...[pcms]
 
 *2203|
 [fc]
 [ns]Shigeyoshi[nse]
-"This is... could it be that brat's?! Damn it, that little brat!! Did he enjoy[r]
-Yuuho-chan's virginity?!"[pcms]
+"This is... could it be that brat's?! Damn it, that little[r]
+brat!! Did he enjoy Yuuho-chan's virginity?!"[pcms]
 
 *2204|
 [fc]
@@ -1461,16 +1520,19 @@ Yuuho-chan's virginity?!"[pcms]
 
 *2205|
 [fc]
-The sudden fury of Shige-san, like a raging fire, made me tremble with a start.[pcms]
+The sudden fury of Shige-san, like a raging fire, made me[r]
+tremble with a start.[pcms]
 
 *2206|
 [fc]
-In that moment, more of Wataru's cum was pushed out, overflowing from me.[pcms]
+In that moment, more of Wataru's cum was pushed out,[r]
+overflowing from me.[pcms]
 
 *2207|
 [fc]
 [ns]Shigeyoshi[nse]
-"Damn it...! I was aiming to break through the hymen myself... that damn brat!"[pcms]
+"Damn it...! I was aiming to break through the hymen[r]
+myself... that damn brat!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//ÅYDEV023eÅiÇxÇQÅj
@@ -1484,15 +1546,16 @@ In that moment, more of Wataru's cum was pushed out, overflowing from me.[pcms]
 
 *2209|
 [fc]
-Shige-san roughly thrust his fingers into me. His fingertips scraped and stirred[r]
-the flesh inside with each movement, sending pain through my belly.[pcms]
+Shige-san roughly thrust his fingers into me. His fingertips[r]
+scraped and stirred the flesh inside with each movement,[r]
+sending pain through my belly.[pcms]
 
 *2210|
 [fc]
 [ns]Shigeyoshi[nse]
-"Damn it...! Now that it's come to this... I'll thrust my cock into your pussy[r]
-until its shape changes! So much that you won't be able to think of that little[r]
-brat anymore...!"[pcms]
+"Damn it...! Now that it's come to this... I'll thrust my[r]
+cock into your pussy until its shape changes! So much that[r]
+you won't be able to think of that little brat anymore...!"[pcms]
 
 ;//ÅYDEV015bÅiÇxÇQÅj
 [evcg storage="DEV015b"][trans_c cross time=300]
@@ -1501,18 +1564,21 @@ brat anymore...!"[pcms]
 [fc]
 [vo_yuh s="yuho1306"]
 [ns]Yuuho[nse]
-"No...nooo! Impossible, that's too much...no, I can't take it!!"[pcms]
+"No...nooo! Impossible, that's too much...no, I can't take[r]
+it!!"[pcms]
 
 *2212|
 [fc]
-Shige-san's thing that was pulled out was so big and brutal... If he inserts[r]
-that into me... I'll definitely break...it'll tear apart inside me...![pcms]
+Shige-san's thing that was pulled out was so big and[r]
+brutal... If he inserts that into me... I'll definitely[r]
+break...it'll tear apart inside me...![pcms]
 
 *2213|
 [fc]
 [vo_yuh s="yuho1307"]
 [ns]Yuuho[nse]
-"Please...stop it...not that...! If you insert it...agh, hii...igiiii!!"[pcms]
+"Please...stop it...not that...! If you insert it...agh,[r]
+hii...igiiii!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 
@@ -1523,71 +1589,76 @@ that into me... I'll definitely break...it'll tear apart inside me...![pcms]
 *2214|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uhaa...gyahaha!! It's in...it's in!? My cock is inside an idol's pussy!! How[r]
-does it feel, are you savoring it?!"[pcms]
+"Uhaa...gyahaha!! It's in...it's in!? My cock is inside an[r]
+idol's pussy!! How does it feel, are you savoring it?!"[pcms]
 
 *2215|
 [fc]
 [vo_yuh s="yuho1308"]
 [ns]Yuuho[nse]
-"Higii, no, aaaaah...! It hurts...it hurts so much!! Pull it out...no, I'll[r]
-die...!!"[pcms]
+"Higii, no, aaaaah...! It hurts...it hurts so much!! Pull it[r]
+out...no, I'll die...!!"[pcms]
 
 *2216|
 [fc]
-With a stretching sound echoing through my body, Shige-san's thing entered me[r]
-deeply in one swift motion.[pcms]
+With a stretching sound echoing through my body, Shige-san's[r]
+thing entered me deeply in one swift motion.[pcms]
 
 *2217|
 [fc]
-Stretching the vaginal opening beyond its limits, scraping aside the flesh[r]
-inside, and forcibly prying open the tightly closed cervix...[pcms]
+Stretching the vaginal opening beyond its limits, scraping[r]
+aside the flesh inside, and forcibly prying open the tightly[r]
+closed cervix...[pcms]
 
 *2218|
 [fc]
 [vo_yuh s="yuho1309"]
 [ns]Yuuho[nse]
-"Kaha...ugh, ugh...! It's suffocating...I can't breathe...auh, hii...hiii!"[pcms]
+"Kaha...ugh, ugh...! It's suffocating...I can't[r]
+breathe...auh, hii...hiii!"[pcms]
 
 *2219|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gehahaha!! How about that! I've taken the virginity of your cervix for myself!"[pcms]
+"Gehahaha!! How about that! I've taken the virginity of your[r]
+cervix for myself!"[pcms]
 
 *2220|
 [fc]
-With a twisted laugh of pleasure, Shige-san pulled back his hips. Immediately,[r]
-the insides of my womb were rubbed raw, sending sharp pain throughout my body.[pcms]
+With a twisted laugh of pleasure, Shige-san pulled back his[r]
+hips. Immediately, the insides of my womb were rubbed raw,[r]
+sending sharp pain throughout my body.[pcms]
 
 *2221|
 [fc]
 [vo_yuh s="yuho1310"]
 [ns]Yuuho[nse]
-"Ugii, kaha, higuu...guuun!! My belly...it's breaking! The depths of my belly![r]
-My womb is being pulled out...eaaaah!!"[pcms]
+"Ugii, kaha, higuu...guuun!! My belly...it's breaking! The[r]
+depths of my belly! My womb is being pulled out...eaaaah!!"[pcms]
 
 *2222|
 [fc]
-The pain as if my womb was being dragged out caused screams to well up from the[r]
-depths of my throat one after another.[pcms]
+The pain as if my womb was being dragged out caused screams[r]
+to well up from the depths of my throat one after another.[pcms]
 
 *2223|
 [fc]
-Gazing at me with eyes filled with madness and satisfaction, he once again[r]
-thrust his hard and brutal thing deep into my womb.[pcms]
+Gazing at me with eyes filled with madness and satisfaction,[r]
+he once again thrust his hard and brutal thing deep into my[r]
+womb.[pcms]
 
 *2224|
 [fc]
 [vo_yuh s="yuho1311"]
 [ns]Yuuho[nse]
-"Higii, agu, gufuu, uuuu!! Kaha, hahi, bufu...guhiii!! Please stop...forgive[r]
-me...iaaah!!"[pcms]
+"Higii, agu, gufuu, uuuu!! Kaha, hahi, bufu...guhiii!![r]
+Please stop...forgive me...iaaah!!"[pcms]
 
 *2225|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uhooh!! The cervix is clamping down tight! I'm going to release inside you[r]
-directly into your womb!!"[pcms]
+"Uhooh!! The cervix is clamping down tight! I'm going to[r]
+release inside you directly into your womb!!"[pcms]
 
 ;//ÅYDEV015lÅiÇxÇQÅj
 [evcg storage="DEV015l"][trans_c cross time=300]
@@ -1596,14 +1667,15 @@ directly into your womb!!"[pcms]
 [fc]
 [vo_yuh s="yuho1312"]
 [ns]Yuuho[nse]
-"Ugii, no...stop! Stop it! If it's not Wataru's...only Wataru's is okay! I can't[r]
-have a baby with anyone else but Wataru!!"[pcms]
+"Ugii, no...stop! Stop it! If it's not Wataru's...only[r]
+Wataru's is okay! I can't have a baby with anyone else but[r]
+Wataru!!"[pcms]
 
 *2227|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gyahahaha!! Get pregnant! Get pregnant with my sperm! I'll fill you up with[r]
-plenty of my seed!!"[pcms]
+"Gyahahaha!! Get pregnant! Get pregnant with my sperm! I'll[r]
+fill you up with plenty of my seed!!"[pcms]
 
 ;//ÅYDEV015bÅiÇxÇQÅj
 [evcg storage="DEV015c"][trans_c cross time=300]
@@ -1624,24 +1696,27 @@ plenty of my seed!!"[pcms]
 [fc]
 [vo_yuh s="yuho1314"]
 [ns]Yuuho[nse]
-"Ahi, kiaa...haa, aunnn!! It's being poured over me...directly into the depths[r]
-of my womb! It's flowing in...being poured into me...uku!"[pcms]
+"Ahi, kiaa...haa, aunnn!! It's being poured over[r]
+me...directly into the depths of my womb! It's flowing[r]
+in...being poured into me...uku!"[pcms]
 
 *2230|
 [fc]
-I could feel the hot liquid being sprayed against the walls of my womb deep[r]
-inside my belly.[pcms]
+I could feel the hot liquid being sprayed against the walls[r]
+of my womb deep inside my belly.[pcms]
 
 *2231|
 [fc]
-An astonishing amount of sticky fluid filled my belly, which had already been[r]
-full just with Shige-san's thing, making my lower abdomen swell even more.[pcms]
+An astonishing amount of sticky fluid filled my belly, which[r]
+had already been full just with Shige-san's thing, making my[r]
+lower abdomen swell even more.[pcms]
 
 *2232|
 [fc]
 [vo_yuh s="yuho1315"]
 [ns]Yuuho[nse]
-"Hii...hiii. Gufu...ugeh, geho...kuh, it's suffocating...my belly is in pain!"[pcms]
+"Hii...hiii. Gufu...ugeh, geho...kuh, it's suffocating...my[r]
+belly is in pain!"[pcms]
 
 ;//ÅYDEV015eÅiÇxÇQÅj
 [evcg storage="DEV015e"][trans_c cross time=300]
@@ -1649,8 +1724,9 @@ full just with Shige-san's thing, making my lower abdomen swell even more.[pcms]
 *2233|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gufuu...with this, I've driven out that brat's sperm. Now inside Yuuho-chan's[r]
-pussy is nothing but my sperm, every single drop of it!!"[pcms]
+"Gufuu...with this, I've driven out that brat's sperm. Now[r]
+inside Yuuho-chan's pussy is nothing but my sperm, every[r]
+single drop of it!!"[pcms]
 
 *2234|
 [fc]
@@ -1660,15 +1736,16 @@ pussy is nothing but my sperm, every single drop of it!!"[pcms]
 
 *2235|
 [fc]
-Wataru's has been pushed out...washed away...and now inside me, Wataru is no[r]
-longer there...ah, aah...[pcms]
+Wataru's has been pushed out...washed away...and now inside[r]
+me, Wataru is no longer there...ah, aah...[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2236|
 [fc]
 [ns]Shigeyoshi[nse]
-"Now then...it's time for this one! I'll take this virginity too!"[pcms]
+"Now then...it's time for this one! I'll take this virginity[r]
+too!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1688,13 +1765,15 @@ longer there...ah, aah...[pcms]
 [fc]
 [vo_yuh s="yuho1318"]
 [ns]Yuuho[nse]
-"Ugii...it hurts...auh, guhih...! Igoo...guhaa, aaaaaahhhhh!!!"[pcms]
+"Ugii...it hurts...auh, guhih...! Igoo...guhaa,[r]
+aaaaaahhhhh!!!"[pcms]
 
 *2239|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uhahaha!! I've taken your ass virginity too!! A tight and firm asshole...[r]
-serves you right! Take that you little brat!"[pcms]
+"Uhahaha!! I've taken your ass virginity too!! A tight and[r]
+firm asshole... serves you right! Take that you little[r]
+brat!"[pcms]
 
 ;//ÅYDEV016ÅiÇxÇQÅj
 [evcg storage="DEV016c"][trans_c cross time=300]
@@ -1705,16 +1784,18 @@ serves you right! Take that you little brat!"[pcms]
 [fc]
 [vo_yuh s="yuho1319"]
 [ns]Yuuho[nse]
-"Uuhh...kuhaa, haa, haa..haii, iiii! It hurts...it's so painful!"[pcms]
+"Uuhh...kuhaa, haa, haa..haii, iiii! It hurts...it's so[r]
+painful!"[pcms]
 
 *2241|
 [fc]
-A hot iron rod seemed to pierce through my butt hole, thrusting up from below[r]
-through my intestines and stomach.[pcms]
+A hot iron rod seemed to pierce through my butt hole,[r]
+thrusting up from below through my intestines and stomach.[pcms]
 
 *2242|
 [fc]
-A strong sense of discomfort and nausea surged up all at once--[pcms]
+A strong sense of discomfort and nausea surged up all at[r]
+once--[pcms]
 
 ;//ÅYDEV016ÅiÇxÇQÅj
 [evcg storage="DEV016d"][trans_c cross time=300]
@@ -1727,14 +1808,15 @@ A strong sense of discomfort and nausea surged up all at once--[pcms]
 
 *2244|
 [fc]
-The contents of my stomach flowed backward and erupted out. The sour taste and[r]
-unpleasant heat dominated my esophagus and mouth as it splashed onto the floor.[pcms]
+The contents of my stomach flowed backward and erupted out.[r]
+The sour taste and unpleasant heat dominated my esophagus[r]
+and mouth as it splashed onto the floor.[pcms]
 
 *2245|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uhahaha!! Are you so moved that you're vomiting!? I'll make your asshole even[r]
-better!!"[pcms]
+"Uhahaha!! Are you so moved that you're vomiting!? I'll make[r]
+your asshole even better!!"[pcms]
 
 ;//ÅYDEV016ÅiÇxÇQÅj
 [evcg storage="DEV016e"][trans_c cross time=300]
@@ -1747,26 +1829,29 @@ better!!"[pcms]
 
 *2247|
 [fc]
-Without caring about me continuing to vomit, Shige-san kept violating my butt[r]
-with his rough movements.[pcms]
+Without caring about me continuing to vomit, Shige-san kept[r]
+violating my butt with his rough movements.[pcms]
 
 *2248|
 [fc]
-Every time my ass hole is turned inside out and it feels like my intestines are[r]
-being dragged out, intense pain, nausea, and disgust mix together and race[r]
-throughout my body.[pcms]
+Every time my ass hole is turned inside out and it feels[r]
+like my intestines are being dragged out, intense pain,[r]
+nausea, and disgust mix together and race throughout my[r]
+body.[pcms]
 
 *2249|
 [fc]
 [vo_yuh s="yuho1322"]
 [ns]Yuuho[nse]
-"Gubu, uge...geeeh!! Agi, gu, bufuu! No, obu! Gihii, ha, hagu...gufa!"[pcms]
+"Gubu, uge...geeeh!! Agi, gu, bufuu! No, obu! Gihii, ha,[r]
+hagu...gufa!"[pcms]
 
 *2250|
 [fc]
 [ns]Shigeyoshi[nse]
-"What's this, what's this, throwing up so dramatically. Can't be helped, I'll[r]
-pour it in for you! Right up your ass hole, until your belly's full!!"[pcms]
+"What's this, what's this, throwing up so dramatically.[r]
+Can't be helped, I'll pour it in for you! Right up your ass[r]
+hole, until your belly's full!!"[pcms]
 
 ;//ÅYDEV016fÅiÇxÇQÅj
 [evcg storage="DEV016f"][trans_c cross time=300]
@@ -1775,13 +1860,14 @@ pour it in for you! Right up your ass hole, until your belly's full!!"[pcms]
 [fc]
 [vo_yuh s="yuho1323"]
 [ns]Yuuho[nse]
-"Aguu! No, noooo!! Stop it, please forgive me...pull it out! Please pull it[r]
-out!!!"[pcms]
+"Aguu! No, noooo!! Stop it, please forgive me...pull it out![r]
+Please pull it out!!!"[pcms]
 
 *2252|
 [fc]
-As if to drown out my desperate pleas, Shige-san's assault becomes even more[r]
-intense, and my consciousness blurs as if my head is being mashed up.[pcms]
+As if to drown out my desperate pleas, Shige-san's assault[r]
+becomes even more intense, and my consciousness blurs as if[r]
+my head is being mashed up.[pcms]
 
 *2253|
 [fc]
@@ -1802,18 +1888,20 @@ If this goes on...I'll be killed...![pcms]
 [fc]
 [vo_yuh s="yuho1324"]
 [ns]Yuuho[nse]
-"Ubu!? Guhi, uboooh!! Agu, my belly...it's rising...! Gebo, gubuu!"[pcms]
+"Ubu!? Guhi, uboooh!! Agu, my belly...it's rising...! Gebo,[r]
+gubuu!"[pcms]
 
 *2256|
 [fc]
-The hot liquid poured into me with such force that it feels like it's racing up[r]
-my intestines and about to reflux into my stomach, making me want to throw up[r]
-again.[pcms]
+The hot liquid poured into me with such force that it feels[r]
+like it's racing up my intestines and about to reflux into[r]
+my stomach, making me want to throw up again.[pcms]
 
 *2257|
 [fc]
-But with my stomach already empty, nothing comes out except the sensation of[r]
-wanting to vomit, and only suffering spills from my mouth.[pcms]
+But with my stomach already empty, nothing comes out except[r]
+the sensation of wanting to vomit, and only suffering spills[r]
+from my mouth.[pcms]
 
 ;//ÅYDEV016ÅiÇxÇQÅj
 [evcg storage="DEV016h"][trans_c cross time=300]
@@ -1821,7 +1909,8 @@ wanting to vomit, and only suffering spills from my mouth.[pcms]
 *2258|
 [fc]
 [ns]Shigeyoshi[nse]
-"Guhehe...I've certainly taken it. Yuuho-chan's ass virginity too..."[pcms]
+"Guhehe...I've certainly taken it. Yuuho-chan's ass[r]
+virginity too..."[pcms]
 
 *2259|
 [fc]
@@ -1831,13 +1920,14 @@ wanting to vomit, and only suffering spills from my mouth.[pcms]
 
 *2260|
 [fc]
-With a slurp, Shige-san's thing is pulled out of my butt, and I can feel the hot[r]
-sticky fluid spurting out forcefully.[pcms]
+With a slurp, Shige-san's thing is pulled out of my butt,[r]
+and I can feel the hot sticky fluid spurting out forcefully.[pcms]
 
 *2261|
 [fc]
-My belly, stretched tight, begins to feel a bit more comfortable... I can't[r]
-anymore...it's too much... Help me...Wataru...[pcms]
+My belly, stretched tight, begins to feel a bit more[r]
+comfortable... I can't anymore...it's too much... Help[r]
+me...Wataru...[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇTÅiÇxÇPÅjí èÌíjç∑ï™Åj
 [evcg storage="DEV015f"][trans_c cross time=300]
@@ -1845,8 +1935,8 @@ anymore...it's too much... Help me...Wataru...[pcms]
 *2262|
 [fc]
 [ns]Thug A[nse]
-"Ora, don't rest now! After you're done with Shigeyoshi-san, you've got us to[r]
-deal with too!"[pcms]
+"Ora, don't rest now! After you're done with Shigeyoshi-san,[r]
+you've got us to deal with too!"[pcms]
 
 ;mm
 [se buf=0 storage="se_sex01"]
@@ -1861,35 +1951,36 @@ deal with too!"[pcms]
 
 *2264|
 [fc]
-The sensation of it being suddenly thrust inside made me let out an involuntary[r]
-cry.[pcms]
+The sensation of it being suddenly thrust inside made me let[r]
+out an involuntary cry.[pcms]
 
 *2265|
 [fc]
-After being thoroughly abused by Shige-san, another man starts to abuse that[r]
-same place...[pcms]
+After being thoroughly abused by Shige-san, another man[r]
+starts to abuse that same place...[pcms]
 
 *2266|
 [fc]
 [vo_yuh s="yuho1327"]
 [ns]Yuuho[nse]
-"Hiu, nh, kuha...agu, hi, kuuu! No, stop, not there...it hurts...! Don't rub[r]
-there...igi, hi...haaah!"[pcms]
+"Hiu, nh, kuha...agu, hi, kuuu! No, stop, not there...it[r]
+hurts...! Don't rub there...igi, hi...haaah!"[pcms]
 
 *2267|
 [fc]
-The insides of my vagina, almost rubbed raw by Shige-san's huge thing, are now[r]
-mercilessly rubbed by another thing.[pcms]
+The insides of my vagina, almost rubbed raw by Shige-san's[r]
+huge thing, are now mercilessly rubbed by another thing.[pcms]
 
 *2268|
 [fc]
-Unlike Shige-san's monstrously large thing, a thin, long thing grinds against[r]
-the area behind my navel...[pcms]
+Unlike Shige-san's monstrously large thing, a thin, long[r]
+thing grinds against the area behind my navel...[pcms]
 
 *2269|
 [fc]
 [ns]Thug A[nse]
-"Ku, uuh! I'm gonna cum...! I'll fill up your pussy with cum!"[pcms]
+"Ku, uuh! I'm gonna cum...! I'll fill up your pussy with[r]
+cum!"[pcms]
 
 *2270|
 [fc]
@@ -1905,11 +1996,13 @@ the area behind my navel...[pcms]
 
 *2271|
 [fc]
-As it twitches inside me, the liquid spurting from it slowly spreads...[pcms]
+As it twitches inside me, the liquid spurting from it slowly[r]
+spreads...[pcms]
 
 *2272|
 [fc]
-I've been cummed inside again... The hot liquid permeates inside my belly...[pcms]
+I've been cummed inside again... The hot liquid permeates[r]
+inside my belly...[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇTÅiÇxÇPÅj‰Sì‡éÀê∏ç∑ï™
 [evcg storage="DEV015i"][trans_c cross time=300]
@@ -1932,48 +2025,51 @@ I've been cummed inside again... The hot liquid permeates inside my belly...[pcm
 
 *2275|
 [fc]
-Another different man enters me... This time it feels slightly bent and rubs[r]
-against the side walls...[pcms]
+Another different man enters me... This time it feels[r]
+slightly bent and rubs against the side walls...[pcms]
 
 *2276|
 [fc]
-The man's slippery liquid makes it not hurt as much anymore...[pcms]
+The man's slippery liquid makes it not hurt as much[r]
+anymore...[pcms]
 
 *2277|
 [fc]
 [vo_yuh s="yuho1330"]
 [ns]Yuuho[nse]
-"Hau, ku, hia...! Ahn, no, kufuu! Don't keep rubbing the same spot...hahi,[r]
-hiuuu!"[pcms]
+"Hau, ku, hia...! Ahn, no, kufuu! Don't keep rubbing the[r]
+same spot...hahi, hiuuu!"[pcms]
 
 *2278|
 [fc]
 [ns]Working Adult A[nse]
-"Ahh, that Yuuho-chan...! The idol of the swimming world is moaning because of[r]
-my cock...!"[pcms]
+"Ahh, that Yuuho-chan...! The idol of the swimming world is[r]
+moaning because of my cock...!"[pcms]
 
 *2279|
 [fc]
 [vo_yuh s="yuho1331"]
 [ns]Yuuho[nse]
-"No, that's wrong...! I'm not moaning...! It doesn't feel good...hih, fuha, aun![r]
-Kuhin, haun!"[pcms]
+"No, that's wrong...! I'm not moaning...! It doesn't feel[r]
+good...hih, fuha, aun! Kuhin, haun!"[pcms]
 
 *2280|
 [fc]
-With every thrust and rub, my body trembles and sweet-sounding moans[r]
-involuntarily escape my lips.[pcms]
+With every thrust and rub, my body trembles and sweet-[r]
+sounding moans involuntarily escape my lips.[pcms]
 
 *2281|
 [fc]
-No, this is wrong...this is a lie...! I shouldn't be feeling this...it shouldn't[r]
-feel good...! There's no way that's true...![pcms]
+No, this is wrong...this is a lie...! I shouldn't be feeling[r]
+this...it shouldn't feel good...! There's no way that's[r]
+true...![pcms]
 
 *2282|
 [fc]
 [ns]Working Adult A[nse]
-"Haah, haah...I've always been watching you...Yuuho-chan! Going to the[r]
-competitions and thinking of this lewd body of yours while masturbating...!"[pcms]
+"Haah, haah...I've always been watching you...Yuuho-chan![r]
+Going to the competitions and thinking of this lewd body of[r]
+yours while masturbating...!"[pcms]
 
 *2283|
 [fc]
@@ -1983,25 +2079,26 @@ competitions and thinking of this lewd body of yours while masturbating...!"[pcm
 
 *2284|
 [fc]
-This person has been watching me...those lewd gazes were his...[pcms]
+This person has been watching me...those lewd gazes were[r]
+his...[pcms]
 
 *2285|
 [fc]
-This person's gaze made me feel aroused and masturbate? And now I'm being[r]
-violated by him...[pcms]
+This person's gaze made me feel aroused and masturbate? And[r]
+now I'm being violated by him...[pcms]
 
 *2286|
 [fc]
 [vo_yuh s="yuho1333"]
 [ns]Yuuho[nse]
-"Hihin, nkuh, fuu, fuuu! Nooo...stop it! That's not right! I'm not like[r]
-that...ahh, aun!"[pcms]
+"Hihin, nkuh, fuu, fuuu! Nooo...stop it! That's not right![r]
+I'm not like that...ahh, aun!"[pcms]
 
 *2287|
 [fc]
 [ns]Working Adult A[nse]
-"I'm gonna cum...! I'll give Yuuho-chan a load of semen...on that lewd body of[r]
-yours...qaaah!!"[pcms]
+"I'm gonna cum...! I'll give Yuuho-chan a load of semen...on[r]
+that lewd body of yours...qaaah!!"[pcms]
 
 *2288|
 [fc]
@@ -2019,24 +2116,26 @@ yours...qaaah!!"[pcms]
 [fc]
 [vo_yuh s="yuho1335"]
 [ns]Yuuho[nse]
-"Ah, it's hot...on my belly...so much cum splattered on top of[r]
-me...haa...auu..."[pcms]
+"Ah, it's hot...on my belly...so much cum splattered on top[r]
+of me...haa...auu..."[pcms]
 
 *2290|
 [fc]
-The thing that was pulled out from inside me was bent sideways and from its tip[r]
-spurted hot liquid that showered over my belly.[pcms]
+The thing that was pulled out from inside me was bent[r]
+sideways and from its tip spurted hot liquid that showered[r]
+over my belly.[pcms]
 
 *2291|
 [fc]
-To swim faster I trained hard all my life and now on my belly is splattered with[r]
-lewd liquid just like this person's fantasies...[pcms]
+To swim faster I trained hard all my life and now on my[r]
+belly is splattered with lewd liquid just like this person's[r]
+fantasies...[pcms]
 
 *2292|
 [fc]
 [ns]Student A[nse]
-"I've been watching you too...Kannagi! Watching Kannagi practice in those erotic[r]
-outfits!"[pcms]
+"I've been watching you too...Kannagi! Watching Kannagi[r]
+practice in those erotic outfits!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇTÅiÇxÇPÅjí èÌíjç∑ï™Åj
@@ -2050,54 +2149,57 @@ outfits!"[pcms]
 
 *2294|
 [fc]
-Another man in a school uniforma male studentis violating me...[pcms]
+Another man in a school uniforma male studentis violating[r]
+me...[pcms]
 
 *2295|
 [fc]
-The tip of his thing is wide and spreads out as it rubs against all the walls[r]
-thoroughly...[pcms]
+The tip of his thing is wide and spreads out as it rubs[r]
+against all the walls thoroughly...[pcms]
 
 *2296|
 [fc]
 [vo_yuh s="yuho1337"]
 [ns]Yuuho[nse]
-"Nkuh, hih, iiih! No! It's too rough! If you do it like that...akuu, hiu...unn!"[pcms]
+"Nkuh, hih, iiih! No! It's too rough! If you do it like[r]
+that...akuu, hiu...unn!"[pcms]
 
 *2297|
 [fc]
 [ns]Student A[nse]
-"Kannagi's erotic face...! I've been watching and rubbing my cock alone! But[r]
-now...I'm violating Kannagi!"[pcms]
+"Kannagi's erotic face...! I've been watching and rubbing my[r]
+cock alone! But now...I'm violating Kannagi!"[pcms]
 
 *2298|
 [fc]
 [vo_yuh s="yuho1338"]
 [ns]Yuuho[nse]
-"Ahn, hafu, kuu...! Hiaa! Noo! Don't say that...! I'm being violated...I[r]
-shouldn't be...!"[pcms]
+"Ahn, hafu, kuu...! Hiaa! Noo! Don't say that...! I'm being[r]
+violated...I shouldn't be...!"[pcms]
 
 *2299|
 [fc]
-"I belong to Wataru...! And yet, various men are stirring inside my belly, it[r]
-feels...good..."[pcms]
+"I belong to Wataru...! And yet, various men are stirring[r]
+inside my belly, it feels...good..."[pcms]
 
 *2300|
 [fc]
-"No! It doesn't feel good! There's no way it would feel good with someone other[r]
-than Wataru! I shouldn't be feeling good...!"[pcms]
+"No! It doesn't feel good! There's no way it would feel good[r]
+with someone other than Wataru! I shouldn't be feeling[r]
+good...!"[pcms]
 
 *2301|
 [fc]
 [ns]Student A[nse]
-"Uuh! I'm going to cum! On Kannagi's erotic face...! I'll drench you not with[r]
-water, but with my cum!"[pcms]
+"Uuh! I'm going to cum! On Kannagi's erotic face...! I'll[r]
+drench you not with water, but with my cum!"[pcms]
 
 *2302|
 [fc]
 [vo_yuh s="yuho1339"]
 [ns]Yuuho[nse]
-"Nooo, that's bad! With someone other than Wataru...that's not okay! It's[r]
-not...even though it's not okay...!"[pcms]
+"Nooo, that's bad! With someone other than Wataru...that's[r]
+not okay! It's not...even though it's not okay...!"[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇTÅiÇxÇPÅjäÁñ éÀê∏ç∑ï™
@@ -2113,8 +2215,9 @@ not...even though it's not okay...!"[pcms]
 
 *2304|
 [fc]
-Droplets of thick liquid fall onto my face. In my hair, on my eyelids, and[r]
-then... on my lips, a smelly and dirty liquid is...everywhere...[pcms]
+Droplets of thick liquid fall onto my face. In my hair, on[r]
+my eyelids, and then... on my lips, a smelly and dirty[r]
+liquid is...everywhere...[pcms]
 
 *2305|
 [fc]
@@ -2124,12 +2227,13 @@ then... on my lips, a smelly and dirty liquid is...everywhere...[pcms]
 
 *2306|
 [fc]
-I accidentally swallowed it as it flowed through the gaps in my lips...[pcms]
+I accidentally swallowed it as it flowed through the gaps in[r]
+my lips...[pcms]
 
 *2307|
 [fc]
-The bitterness spreads throughout my mouth, entwining around my throat as it[r]
-falls into my belly...[pcms]
+The bitterness spreads throughout my mouth, entwining around[r]
+my throat as it falls into my belly...[pcms]
 
 *2308|
 [fc]
@@ -2146,7 +2250,8 @@ falls into my belly...[pcms]
 [fc]
 [vo_yuh s="yuho1343"]
 [ns]Yuuho[nse]
-"Wait...please, let me rest a bit... Like this, one after another..."[pcms]
+"Wait...please, let me rest a bit... Like this, one after[r]
+another..."[pcms]
 
 *2311|
 [fc]
@@ -2155,8 +2260,8 @@ My body is tingling... If it continues like this, I...I...[pcms]
 *2312|
 [fc]
 [ns]Thug B[nse]
-"We don't have the luxury to be leisurely! Do you have any idea how many are[r]
-waiting their turn?!"[pcms]
+"We don't have the luxury to be leisurely! Do you have any[r]
+idea how many are waiting their turn?!"[pcms]
 
 *2313|
 [fc]
@@ -2180,7 +2285,8 @@ waiting their turn?!"[pcms]
 *2315|
 [fc]
 [ns]Office Worker B[nse]
-"Woah...! Even after being done this much, you're still clamping down tight!"[pcms]
+"Woah...! Even after being done this much, you're still[r]
+clamping down tight!"[pcms]
 
 *2316|
 [fc]
@@ -2190,27 +2296,30 @@ waiting their turn?!"[pcms]
 
 *2317|
 [fc]
-In an upside-down position, a man's dick is thrust into my pussy. An[r]
-unimaginable position... A thrilling sensation I've never known before spreads[r]
-throughout my body, making it tingle.[pcms]
+In an upside-down position, a man's dick is thrust into my[r]
+pussy. An unimaginable position... A thrilling sensation[r]
+I've never known before spreads throughout my body, making[r]
+it tingle.[pcms]
 
 *2318|
 [fc]
 [ns]Thug B[nse]
-"Hehehe... You seem to be enjoying that pretty face of yours."[pcms]
+"Hehehe... You seem to be enjoying that pretty face of[r]
+yours."[pcms]
 
 *2319|
 [fc]
 [vo_yuh s="yuho1347"]
 [ns]Yuuho[nse]
-"Hahi!? N-no, that's not true! That's a lie! Auu, quan! Kihi, hiuu! It's[r]
-not...it's not like that! I couldn't possibly be happy...ahh!"[pcms]
+"Hahi!? N-no, that's not true! That's a lie! Auu, quan![r]
+Kihi, hiuu! It's not...it's not like that! I couldn't[r]
+possibly be happy...ahh!"[pcms]
 
 *2320|
 [fc]
 [ns]Thug B[nse]
-"You don't sound very convincing with all that moaning! Here, let me give you[r]
-some more!"[pcms]
+"You don't sound very convincing with all that moaning![r]
+Here, let me give you some more!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇVÅiÇxÇRÅjë}ì¸
@@ -2220,42 +2329,44 @@ some more!"[pcms]
 [fc]
 [vo_yuh s="yuho1348"]
 [ns]Yuuho[nse]
-"Aguu!? Uwa, hafuu! No, not like that...! Both at the same time...igii,[r]
-higuu...fuunn!!"[pcms]
+"Aguu!? Uwa, hafuu! No, not like that...! Both at the same[r]
+time...igii, higuu...fuunn!!"[pcms]
 
 *2322|
 [fc]
-In my pussy and my butt... A man's dick is inside both at the same time...! This[r]
-is no good...![pcms]
+In my pussy and my butt... A man's dick is inside both at[r]
+the same time...! This is no good...![pcms]
 
 *2323|
 [fc]
 [ns]Working Adult B[nse]
-"Ofu!? Uwaa! The moment it's inserted into my ass again, the folds clamp down[r]
-tight...!"[pcms]
+"Ofu!? Uwaa! The moment it's inserted into my ass again, the[r]
+folds clamp down tight...!"[pcms]
 
 *2324|
 [fc]
 [ns]Thug B[nse]
-"Uhooh, the intestinal flesh is clinging too...! It's all slippery with[r]
-Shigeyoshi-san's semen still inside... It's irresistible!"[pcms]
+"Uhooh, the intestinal flesh is clinging too...! It's all[r]
+slippery with Shigeyoshi-san's semen still inside... It's[r]
+irresistible!"[pcms]
 
 *2325|
 [fc]
 [vo_yuh s="yuho1349"]
 [ns]Yuuho[nse]
-"Ahi, hiii! No, don't move...! If both of you move at the same time...! No, it's[r]
-wrong, it's so wrong!!"[pcms]
+"Ahi, hiii! No, don't move...! If both of you move at the[r]
+same time...! No, it's wrong, it's so wrong!!"[pcms]
 
 *2326|
 [fc]
-I don't know this...! This isn't me...! To have them inserted in both my pussy[r]
-and my butt, moving both at the same time...![pcms]
+I don't know this...! This isn't me...! To have them[r]
+inserted in both my pussy and my butt, moving both at the[r]
+same time...![pcms]
 
 *2327|
 [fc]
-With Wataru... I couldn't understand this feeling...! Just with Wataru's one, I[r]
-definitely wouldn't have known this...![pcms]
+With Wataru... I couldn't understand this feeling...! Just[r]
+with Wataru's one, I definitely wouldn't have known this...![pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇVÅiÇxÇRÅjë}ì¸
 [evcg storage="DEV017d"][trans_c cross time=300]
@@ -2264,37 +2375,37 @@ definitely wouldn't have known this...![pcms]
 [fc]
 [vo_yuh s="yuho1350"]
 [ns]Yuuho[nse]
-"Hiaa, kyafu, haku, fuhiii! Nno, hofu, ku, kuha...annn! I...ahh! It's so[r]
-full...!"[pcms]
+"Hiaa, kyafu, haku, fuhiii! Nno, hofu, ku, kuha...annn![r]
+I...ahh! It's so full...!"[pcms]
 
 *2329|
 [fc]
-The stimulation coming from two places at once makes my head spin and feels like[r]
-it's going to melt...[pcms]
+The stimulation coming from two places at once makes my head[r]
+spin and feels like it's going to melt...[pcms]
 
 *2330|
 [fc]
-It's wrong, but...! To feel pleasure with someone other than Wataru... to feel[r]
-good...![pcms]
+It's wrong, but...! To feel pleasure with someone other than[r]
+Wataru... to feel good...![pcms]
 
 *2331|
 [fc]
 [ns]Office Worker B[nse]
-"Kuu... I'm gonna cum! Inside your pussy that's already sloshing with semen...[r]
-I'll mix in my own cum!"[pcms]
+"Kuu... I'm gonna cum! Inside your pussy that's already[r]
+sloshing with semen... I'll mix in my own cum!"[pcms]
 
 *2332|
 [fc]
 [ns]Thug B[nse]
-"Hehe, you were spilling Shigeyoshi-san's semen earlier... I'll replenish it[r]
-with mine!"[pcms]
+"Hehe, you were spilling Shigeyoshi-san's semen earlier...[r]
+I'll replenish it with mine!"[pcms]
 
 *2333|
 [fc]
 [vo_yuh s="yuho1351"]
 [ns]Yuuho[nse]
-"No, stop...please stop! If you cum now...! If both of you cum inside me[r]
-now...!!"[pcms]
+"No, stop...please stop! If you cum now...! If both of you[r]
+cum inside me now...!!"[pcms]
 
 *2334|
 [fc]
@@ -2324,14 +2435,14 @@ I'm already... I'm...![pcms]
 
 *2337|
 [fc]
-Ah, aah... I'm cumming... I'm cumming even though I'm being violated by someone[r]
-other than Wataru... It feels so good...[pcms]
+Ah, aah... I'm cumming... I'm cumming even though I'm being[r]
+violated by someone other than Wataru... It feels so good...[pcms]
 
 *2338|
 [fc]
 [ns]Thug B[nse]
-"Uha, hahahaha! This chick is cumming from being gangbanged! How slutty can you[r]
-get, you bitch!"[pcms]
+"Uha, hahahaha! This chick is cumming from being gangbanged![r]
+How slutty can you get, you bitch!"[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇVÅiÇxÇRÅjà¯Ç´î≤Ç´
 [evcg storage="DEV017e"][trans_c cross time=300]
@@ -2344,9 +2455,9 @@ get, you bitch!"[pcms]
 
 *2340|
 [fc]
-From my pussy and butt, the men's warmth is being pulled out at the same time,[r]
-and I feel the heat leaving. At that moment, the flesh of my pussy and butt[r]
-starts to spasm...[pcms]
+From my pussy and butt, the men's warmth is being pulled out[r]
+at the same time, and I feel the heat leaving. At that[r]
+moment, the flesh of my pussy and butt starts to spasm...[pcms]
 
 *2341|
 [fc]
@@ -2370,12 +2481,14 @@ Ah, no...[pcms]
 *2344|
 [fc]
 [ns]Thug C[nse]
-"Gyahahaha!! It's like a fountain! A dirty, erotic fountain!!"[pcms]
+"Gyahahaha!! It's like a fountain! A dirty, erotic[r]
+fountain!!"[pcms]
 
 *2345|
 [fc]
 [ns]Student B[nse]
-"Uwah...! No way, that Kanagi... to think she'd do something like this...!"[pcms]
+"Uwah...! No way, that Kanagi... to think she'd do something[r]
+like this...!"[pcms]
 
 *2346|
 [fc]
@@ -2385,18 +2498,19 @@ Ah, no...[pcms]
 
 *2347|
 [fc]
-No... I'm being watched... by everyone... by so many men... they're seeing such[r]
-a lewd part of me... ha, aah...[pcms]
+No... I'm being watched... by everyone... by so many men...[r]
+they're seeing such a lewd part of me... ha, aah...[pcms]
 
 *2348|
 [fc]
 [ns]Thug C[nse]
-"I had no idea she was such a slut... Her boyfriend would be so disillusioned if[r]
-he saw her like this."[pcms]
+"I had no idea she was such a slut... Her boyfriend would be[r]
+so disillusioned if he saw her like this."[pcms]
 
 *2349|
 [fc]
-Boyfriend... Wataru...? No... I can't let Wataru see me like this...[pcms]
+Boyfriend... Wataru...? No... I can't let Wataru see me like[r]
+this...[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇWÅiÇxÇSÅj
 [evcg storage="DEV018a"][trans_c cross time=300]
@@ -2414,8 +2528,8 @@ Boyfriend... Wataru...? No... I can't let Wataru see me like this...[pcms]
 
 *2352|
 [fc]
-The man lies down with his rock-hard dick pointing upwards, rolling onto his[r]
-side.[pcms]
+The man lies down with his rock-hard dick pointing upwards,[r]
+rolling onto his side.[pcms]
 
 *2353|
 [fc]
@@ -2439,13 +2553,14 @@ No... I shouldn't... But that thing...[pcms]
 [fc]
 [vo_yuh s="yuho1358"]
 [ns]Yuuho[nse]
-"Hik... uah, hah... hafu, kuh...! Hihah, aunnn! It's going inside me...!"[pcms]
+"Hik... uah, hah... hafu, kuh...! Hihah, aunnn! It's going[r]
+inside me...!"[pcms]
 
 *2357|
 [fc]
 [ns]Thug C[nse]
-"Bwahaha! This horny bitch just slid a dick inside herself! You want cock that[r]
-badly?!"[pcms]
+"Bwahaha! This horny bitch just slid a dick inside herself![r]
+You want cock that badly?!"[pcms]
 
 *2358|
 [fc]
@@ -2455,8 +2570,8 @@ badly?!"[pcms]
 
 *2359|
 [fc]
-It's going deep inside me...! The man's thing...! His dick is filling up my[r]
-pussy...![pcms]
+It's going deep inside me...! The man's thing...! His dick[r]
+is filling up my pussy...![pcms]
 
 *2360|
 [fc]
@@ -2475,31 +2590,31 @@ pussy...![pcms]
 [fc]
 [vo_yuh s="yuho1360"]
 [ns]Yuuho[nse]
-"Ah, ahh... another one...! Nmm, hapu, kuh, kumu...chupu, perol... lero[r]
-lero...mupuu!"[pcms]
+"Ah, ahh... another one...! Nmm, hapu, kuh, kumu...chupu,[r]
+perol... lero lero...mupuu!"[pcms]
 
 *2363|
 [fc]
-Ahh, dicks twitching all over my body... In my hand, in my mouth... Inside my[r]
-pussy, twitching so much...![pcms]
+Ahh, dicks twitching all over my body... In my hand, in my[r]
+mouth... Inside my pussy, twitching so much...![pcms]
 
 *2364|
 [fc]
 [ns]Thug C[nse]
-"Ooh! As soon as there's more dicks, her pussy flesh starts to cling! Ukuh, what[r]
-a nympho this one is!"[pcms]
+"Ooh! As soon as there's more dicks, her pussy flesh starts[r]
+to cling! Ukuh, what a nympho this one is!"[pcms]
 
 *2365|
 [fc]
 [ns]Student B[nse]
-"Auh, quah! Kannagi's mouth...! It's too erotic...! Her tongue and lips are so[r]
-slippery and wet...ahh!"[pcms]
+"Auh, quah! Kannagi's mouth...! It's too erotic...! Her[r]
+tongue and lips are so slippery and wet...ahh!"[pcms]
 
 *2366|
 [fc]
 [ns]Student C[nse]
-"Fingers! Kannagi's fingers are jerking off my dick! So lewd... incredibly lewd,[r]
-Kannagi...!"[pcms]
+"Fingers! Kannagi's fingers are jerking off my dick! So[r]
+lewd... incredibly lewd, Kannagi...!"[pcms]
 
 *2367|
 [fc]
@@ -2509,8 +2624,9 @@ Kannagi...!"[pcms]
 
 *2368|
 [fc]
-Ahh... I'm making the men happy with my body...! They're violating me and[r]
-feeling pleasure with my body...! This is so... Wataru, Wataru...![pcms]
+Ahh... I'm making the men happy with my body...! They're[r]
+violating me and feeling pleasure with my body...! This is[r]
+so... Wataru, Wataru...![pcms]
 
 *2369|
 [fc]
@@ -2539,13 +2655,14 @@ feeling pleasure with my body...! This is so... Wataru, Wataru...![pcms]
 [fc]
 [vo_yuh s="yuho1362"]
 [ns]Yuuho[nse]
-"Fuhah, apu, kufunn! Hihik, se-si! Se-sii!! My whole body is full of[r]
-it...iiiiiiiiii!!"[pcms]
+"Fuhah, apu, kufunn! Hihik, se-si! Se-sii!! My whole body is[r]
+full of it...iiiiiiiiii!!"[pcms]
 
 *2373|
 [fc]
-Incredible... so much semen filling me up all at once...! The men are releasing[r]
-so much inside me. Ah, ahah... ahh... so full...[pcms]
+Incredible... so much semen filling me up all at once...![r]
+The men are releasing so much inside me. Ah, ahah... ahh...[r]
+so full...[pcms]
 
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇWÅiÇxÇSÅjëSêgÅE‰Sì‡éÀê∏ç∑ï™
@@ -2555,7 +2672,8 @@ so much inside me. Ah, ahah... ahh... so full...[pcms]
 *2374|
 [fc]
 [ns]Working Adult C[nse]
-"Hey! Do me too...! It's too erotic, I can't hold back anymore!!"[pcms]
+"Hey! Do me too...! It's too erotic, I can't hold back[r]
+anymore!!"[pcms]
 
 *2375|
 [fc]
@@ -2570,8 +2688,9 @@ so much inside me. Ah, ahah... ahh... so full...[pcms]
 
 *2377|
 [fc]
-I'm so excited... Everyone is excited by my body. I have to do it for them...[r]
-Since they're excited by me, I have to make them feel good...[pcms]
+I'm so excited... Everyone is excited by my body. I have to[r]
+do it for them... Since they're excited by me, I have to[r]
+make them feel good...[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇWÅiÇxÇSÅjîΩì]
 [evcg storage="DEV018f"][trans_c cross time=300]
@@ -2580,23 +2699,26 @@ Since they're excited by me, I have to make them feel good...[pcms]
 [fc]
 [vo_yuh s="yuho1364"]
 [ns]Yuuho[nse]
-"Pufu, amu, kuh, numah! Chu, chu...picha, peropero. Fuhah, it's twitching..."[pcms]
+"Pufu, amu, kuh, numah! Chu, chu...picha, peropero. Fuhah,[r]
+it's twitching..."[pcms]
 
 *2379|
 [fc]
 [ns]Thug D[nse]
-"Ohou!! What an erotic mouth you have! Your tongue is wrapping around it!"[pcms]
+"Ohou!! What an erotic mouth you have! Your tongue is[r]
+wrapping around it!"[pcms]
 
 *2380|
 [fc]
 [ns]Working Adult C[nse]
-"Quah! Amazing hip movements! My dick is being jerked off by her pussy flesh!"[pcms]
+"Quah! Amazing hip movements! My dick is being jerked off by[r]
+her pussy flesh!"[pcms]
 
 *2381|
 [fc]
 [ns]Student D[nse]
-"Aah! Kannagi's fingers...! The fingers that were wet are now rubbing my[r]
-dick...!"[pcms]
+"Aah! Kannagi's fingers...! The fingers that were wet are[r]
+now rubbing my dick...!"[pcms]
 
 *2382|
 [fc]
@@ -2606,12 +2728,13 @@ dick...!"[pcms]
 
 *2383|
 [fc]
-White flashes flicker in my head. Pleasure is bursting everywhere and I'm about[r]
-to cum.[pcms]
+White flashes flicker in my head. Pleasure is bursting[r]
+everywhere and I'm about to cum.[pcms]
 
 *2384|
 [fc]
-To think that while dealing with so many dicks I could feel this good...![pcms]
+To think that while dealing with so many dicks I could feel[r]
+this good...![pcms]
 
 *2385|
 [fc]
@@ -2621,15 +2744,15 @@ Ah... I want more, more. I want to do it more...[pcms]
 [fc]
 [vo_yuh s="yuho1366"]
 [ns]Yuuho[nse]
-"Nfuu! Kyauh, nn...chupu, hapu...! Chupo chupo...picha, amu, kuh, fuu...! Nhih,[r]
-muguh...nnnnnnnnnn!!"[pcms]
+"Nfuu! Kyauh, nn...chupu, hapu...! Chupo chupo...picha, amu,[r]
+kuh, fuu...! Nhih, muguh...nnnnnnnnnn!!"[pcms]
 
 [ÉÅÉXÉtÉâ]
 
 *2387|
 [fc]
-Ah again...! I came again... It feels too good! So many dicks... not just one[r]
-but so many...[pcms]
+Ah again...! I came again... It feels too good! So many[r]
+dicks... not just one but so many...[pcms]
 
 *2388|
 [fc]
@@ -2639,7 +2762,8 @@ but so many...[pcms]
 *2389|
 [fc]
 [ns]Working Adult C[nse]
-"This side too...! Inside! It's being squeezed out inside the pussy!!"[pcms]
+"This side too...! Inside! It's being squeezed out inside[r]
+the pussy!!"[pcms]
 
 *2390|
 [fc]
@@ -2664,7 +2788,8 @@ Ahh, semen again...! More semen filling me up again![pcms]
 
 *2393|
 [fc]
-The hot and sticky stuff is pouring in abundantly... amazing... it feels good...[pcms]
+The hot and sticky stuff is pouring in abundantly...[r]
+amazing... it feels good...[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇWÅiÇxÇSÅjîΩì]ÅAëSêgÅE‰Sì‡éÀê∏ç∑ï™
 [evcg storage="DEV018h"][trans_c cross time=300]
@@ -2673,11 +2798,13 @@ The hot and sticky stuff is pouring in abundantly... amazing... it feels good...
 [fc]
 [vo_yuh s="yuho1368"]
 [ns]Yuuho[nse]
-"Ahah, aahn... Is it over already? Don't you want to feel even better?"[pcms]
+"Ahah, aahn... Is it over already? Don't you want to feel[r]
+even better?"[pcms]
 
 *2395|
 [fc]
-My mouth spills out words on its own. Lewd and obscene words...[pcms]
+My mouth spills out words on its own. Lewd and obscene[r]
+words...[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇXÅiÇxÇTÅj
 [evcg storage="DEV019a"][trans_c cross time=300]
@@ -2690,19 +2817,21 @@ My mouth spills out words on its own. Lewd and obscene words...[pcms]
 
 *2397|
 [fc]
-I keep stroking the dicks thrusting towards me one after another.[pcms]
+I keep stroking the dicks thrusting towards me one after[r]
+another.[pcms]
 
 *2398|
 [fc]
-With my mouth, hands, pussy... ah, everyone is going crazy violating my body...[r]
-They're trying to feel good with my body...[pcms]
+With my mouth, hands, pussy... ah, everyone is going crazy[r]
+violating my body... They're trying to feel good with my[r]
+body...[pcms]
 
 *2399|
 [fc]
 [vo_yuh s="yuho1370"]
 [ns]Yuuho[nse]
-"Nmpf, ahfu! Kuh, aah, hih...! Kup, nchu, picha picha...mupuu! Kuh,[r]
-hya...auuuuunnn!!"[pcms]
+"Nmpf, ahfu! Kuh, aah, hih...! Kup, nchu, picha[r]
+picha...mupuu! Kuh, hya...auuuuunnn!!"[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇXÅiÇxÇTÅjéÀê∏ç∑ï™
@@ -2720,8 +2849,8 @@ With each ejaculation, something seems to melt away...[pcms]
 
 *2402|
 [fc]
-This isn't me... because I... I love Wataru so much... Wataru is the most[r]
-important to me...[pcms]
+This isn't me... because I... I love Wataru so much...[r]
+Wataru is the most important to me...[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇXÅiÇxÇTÅjéÀê∏å„
 [evcg storage="DEV019e"][trans_c cross time=300]
@@ -2730,8 +2859,8 @@ important to me...[pcms]
 [fc]
 [vo_yuh s="yuho1371"]
 [ns]Yuuho[nse]
-"Fah! Haun, more...! I want more dicks...! Lots and lots...! Cum on me! Make me[r]
-all sloppy!"[pcms]
+"Fah! Haun, more...! I want more dicks...! Lots and lots...![r]
+Cum on me! Make me all sloppy!"[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 ;ÉVÉXÉeÉÄÉ{É^ÉìÅïÉEÉBÉìÉhÉEè¡ãé
@@ -2745,13 +2874,13 @@ all sloppy!"[pcms]
 
 *2404|
 [fc]
-Ah... such an amazing smell... it's pungent and sharp... it feels good, this[r]
-smell...[pcms]
+Ah... such an amazing smell... it's pungent and sharp... it[r]
+feels good, this smell...[pcms]
 
 *2405|
 [fc]
-No... that's wrong! Even though I shouldn't...! The smell of semen other than[r]
-Wataru's... ha...ah...[pcms]
+No... that's wrong! Even though I shouldn't...! The smell of[r]
+semen other than Wataru's... ha...ah...[pcms]
 
 *2406|
 [fc]
@@ -2761,33 +2890,35 @@ Wataru's... ha...ah...[pcms]
 
 *2407|
 [fc]
-Ahh, I'm really feeling good... Not just my body, but my heart is feeling good[r]
-too...[pcms]
+Ahh, I'm really feeling good... Not just my body, but my[r]
+heart is feeling good too...[pcms]
 
 *2408|
 [fc]
-With lots of dicks and a drowning amount of semen... feeling it, gasping, and[r]
-delighting from the bottom of my heart...[pcms]
+With lots of dicks and a drowning amount of semen... feeling[r]
+it, gasping, and delighting from the bottom of my heart...[pcms]
 
 *2409|
 [fc]
-Am I... such a lewd girl? Did I want to be violated by so many people...?[pcms]
+Am I... such a lewd girl? Did I want to be violated by so[r]
+many people...?[pcms]
 
 *2410|
 [fc]
 [vo_yuh s="yuho1373"]
 [ns]Yuuho[nse]
-"Hih, kufun! Ahh, my pussy! Grind my pussy full! I want more and more[r]
-pleasure...!!"[pcms]
+"Hih, kufun! Ahh, my pussy! Grind my pussy full! I want more[r]
+and more pleasure...!!"[pcms]
 
 *2411|
 [fc]
-Feeling it when being watched... masturbating too... I guess I really was a lewd[r]
-pervert...[pcms]
+Feeling it when being watched... masturbating too... I guess[r]
+I really was a lewd pervert...[pcms]
 
 *2412|
 [fc]
-Ah, Wataru... Wataru, help me... if this goes on any further, I'll really...![pcms]
+Ah, Wataru... Wataru, help me... if this goes on any[r]
+further, I'll really...![pcms]
 
 *2413|
 [fc]
@@ -2821,31 +2952,32 @@ Nha...hauh...kuhaaaaaaaahhh!!!"[pcms]
 
 *2416|
 [fc]
-Ahh, dicks are piercing me...! In my pussy and butt...! In both hands and mouth[r]
-too... full of dicks![pcms]
+Ahh, dicks are piercing me...! In my pussy and butt...! In[r]
+both hands and mouth too... full of dicks![pcms]
 
 *2417|
 [fc]
 [vo_yuh s="yuho1376"]
 [ns]Yuuho[nse]
-"Kuh, kyafu...nk, kufuu! I came... with two dicks thrusting in me... That alone[r]
-feels too good...!"[pcms]
+"Kuh, kyafu...nk, kufuu! I came... with two dicks thrusting[r]
+in me... That alone feels too good...!"[pcms]
 
 *2418|
 [fc]
-Ahh... my whole body feels too good... I can't think of anything else![pcms]
+Ahh... my whole body feels too good... I can't think of[r]
+anything else![pcms]
 
 *2419|
 [fc]
 [vo_yuh s="yuho1377"]
 [ns]Yuuho[nse]
-"Nha, ofu, kuh, kihyaa! My stomach... both sides are being scraped raw! Aguh,[r]
-hihah...hafuuu!!"[pcms]
+"Nha, ofu, kuh, kihyaa! My stomach... both sides are being[r]
+scraped raw! Aguh, hihah...hafuuu!!"[pcms]
 
 *2420|
 [fc]
-Sparks burst inside my head as my consciousness and heart are washed away. The[r]
-pleasure is so much...[pcms]
+Sparks burst inside my head as my consciousness and heart[r]
+are washed away. The pleasure is so much...[pcms]
 
 ;ÉVÉXÉeÉÄÉ{É^ÉìÅïÉEÉBÉìÉhÉEè¡ãé
 [sysbt_meswin clear]
@@ -2870,8 +3002,8 @@ pleasure is so much...[pcms]
 
 *2422|
 [fc]
-The pleasure forcibly pulls back the washed-away consciousness. More and more[r]
-pleasure can be tasted...[pcms]
+The pleasure forcibly pulls back the washed-away[r]
+consciousness. More and more pleasure can be tasted...[pcms]
 
 *2423|
 [fc]
@@ -2881,12 +3013,13 @@ I want to feel more and more pleasure![pcms]
 [fc]
 [vo_yuh s="yuho1379"]
 [ns]Yuuho[nse]
-"Afuh, nhah, hak, kuuun! My pussy... my butt! Thrust more... dig in deeper!!"[pcms]
+"Afuh, nhah, hak, kuuun! My pussy... my butt! Thrust more...[r]
+dig in deeper!!"[pcms]
 
 *2425|
 [fc]
-I'm sorry... I'm sorry, Wataru... But I love it in my pussy! I love lots of[r]
-dicks![pcms]
+I'm sorry... I'm sorry, Wataru... But I love it in my pussy![r]
+I love lots of dicks![pcms]
 
 *2426|
 [fc]
@@ -2896,14 +3029,15 @@ dicks![pcms]
 
 *2427|
 [fc]
-More than just Wataru's single dick... lots of them! I want lots of dicks![pcms]
+More than just Wataru's single dick... lots of them! I want[r]
+lots of dicks![pcms]
 
 *2428|
 [fc]
 [vo_yuh s="yuho1381"]
 [ns]Yuuho[nse]
-"Delicious... delicious! Dicks are delicious! Let me suck more! Nchu, mug,[r]
-mogu...npuu!!"[pcms]
+"Delicious... delicious! Dicks are delicious! Let me suck[r]
+more! Nchu, mug, mogu...npuu!!"[pcms]
 
 *2429|
 [fc]
@@ -2911,15 +3045,16 @@ I'm cumming just from licking dicks![pcms]
 
 *2430|
 [fc]
-I'm cumming from being thrust into my pussy and dug into my butt! No matter[r]
-what's done to me, I'm cumming![pcms]
+I'm cumming from being thrust into my pussy and dug into my[r]
+butt! No matter what's done to me, I'm cumming![pcms]
 
 *2431|
 [fc]
 [vo_yuh s="yuho1382"]
 [ns]Yuuho[nse]
-"Ahah, the dicks are twitching! Are you going to cum? Are you going to shoot[r]
-semen? Cum on me a lot! Spray your semen all over me!!"[pcms]
+"Ahah, the dicks are twitching! Are you going to cum? Are[r]
+you going to shoot semen? Cum on me a lot! Spray your semen[r]
+all over me!!"[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 ;//ÅYÇcÇdÇuÅ[ÇOÇQÇOÅiÇxÇUÅjê∏âtç∑ï™
@@ -2931,13 +3066,14 @@ semen? Cum on me a lot! Spray your semen all over me!!"[pcms]
 [fc]
 [vo_yuh s="yuho1383"]
 [ns]Yuuho[nse]
-"Uhih, aunh! Semen! Semen!! Ihiiih! Nk, it's hot... hot and delicious![r]
-Hihah...kyafuuuuuuuuuuu!!!"[pcms]
+"Uhih, aunh! Semen! Semen!! Ihiiih! Nk, it's hot... hot and[r]
+delicious! Hihah...kyafuuuuuuuuuuu!!!"[pcms]
 
 *2433|
 [fc]
-All over and inside my body... covered in plenty of semen. Ah...ahh... I'm[r]
-becoming happy. I can't think of anything else. It feels so good...[pcms]
+All over and inside my body... covered in plenty of semen.[r]
+Ah...ahh... I'm becoming happy. I can't think of anything[r]
+else. It feels so good...[pcms]
 
 *2434|
 [fc]
@@ -2962,8 +3098,8 @@ becoming happy. I can't think of anything else. It feels so good...[pcms]
 
 *2435|
 [fc]
-Semen is coming out from all over my body. From my pussy, from my butt... from[r]
-my mouth, even from my hair...[pcms]
+Semen is coming out from all over my body. From my pussy,[r]
+from my butt... from my mouth, even from my hair...[pcms]
 
 *2436|
 [fc]
@@ -3015,7 +3151,8 @@ My head feels heavy... My whole body is sticky...[pcms]
 
 *2442|
 [fc]
-That's right... I was violated by everyone. Covered in semen...[pcms]
+That's right... I was violated by everyone. Covered in[r]
+semen...[pcms]
 
 *2443|
 [fc]
@@ -3059,8 +3196,9 @@ Ren-chan as well.[pcms]
 
 *2449|
 [fc]
-Suppressing my trembling knees, I somehow manage to stand up. The semen pooled[r]
-at my feet is slippery, almost causing me to fall.[pcms]
+Suppressing my trembling knees, I somehow manage to stand[r]
+up. The semen pooled at my feet is slippery, almost causing[r]
+me to fall.[pcms]
 
 *2450|
 [fc]
@@ -3094,13 +3232,13 @@ at my feet is slippery, almost causing me to fall.[pcms]
 
 *2453|
 [fc]
-I hear something like a voice from somewhere... From the back... the dressing[r]
-room?[pcms]
+I hear something like a voice from somewhere... From the[r]
+back... the dressing room?[pcms]
 
 *2454|
 [fc]
-With unsteady steps that could collapse at any moment, I head towards the[r]
-dressing room.[pcms]
+With unsteady steps that could collapse at any moment, I[r]
+head towards the dressing room.[pcms]
 
 *2455|
 [fc]
@@ -3139,7 +3277,8 @@ I wonder if everyone is there...[pcms]
 [fc]
 [vo_ren s="ren1166"]
 [ns]Ren[nse]
-"Hafu! Nnah, kyau... kufuun! That's good! More dick! Dig more into Ren's hole!!"[pcms]
+"Hafu! Nnah, kyau... kufuun! That's good! More dick! Dig[r]
+more into Ren's hole!!"[pcms]
 
 *2457|
 [fc]
@@ -3149,19 +3288,21 @@ I wonder if everyone is there...[pcms]
 
 *2458|
 [fc]
-Ren-chan is being violated by the men, moaning in pleasure...! Why...? How[r]
-come!?[pcms]
+Ren-chan is being violated by the men, moaning in[r]
+pleasure...! Why...? How come!?[pcms]
 
 *2459|
 [fc]
 [vo_ren s="ren1167"]
 [ns]Ren[nse]
-"Afuh, ah, aah! Y-Yuuho-chan... hahi! Yuuho-chaan... it feels so good...!"[pcms]
+"Afuh, ah, aah! Y-Yuuho-chan... hahi! Yuuho-chaan... it[r]
+feels so good...!"[pcms]
 
 *2460|
 [fc]
-With her tongue sticking out and drool dripping, Ren-chan pleads for pleasure. A[r]
-dick is quickly shoved into her mouth, which she begins to lick eagerly.[pcms]
+With her tongue sticking out and drool dripping, Ren-chan[r]
+pleads for pleasure. A dick is quickly shoved into her[r]
+mouth, which she begins to lick eagerly.[pcms]
 
 *2461|
 [fc]
@@ -3192,8 +3333,9 @@ Is she enjoying being violated...? Ren-chan...?[pcms]
 
 *2464|
 [fc]
-Rolling her eyes back, she receives the dicks of the men swarming around her[r]
-with her whole body and caresses them lovingly.[pcms]
+Rolling her eyes back, she receives the dicks of the men[r]
+swarming around her with her whole body and caresses them[r]
+lovingly.[pcms]
 
 *2465|
 [fc]
@@ -3219,23 +3361,24 @@ How could Senpai be doing this too?[pcms]
 
 *2468|
 [fc]
-Suddenly, a voice from behind. As I hastily turn around, Shige-san greets me[r]
-with a lewd smirk.[pcms]
+Suddenly, a voice from behind. As I hastily turn around,[r]
+Shige-san greets me with a lewd smirk.[pcms]
 
 *2469|
 [fc]
 [vo_yuh s="yuho1395"]
 [ns]Yuuho[nse]
-"Why...? We had a promise... If I took care of you... you wouldn't touch anyone[r]
-else...!"[pcms]
+"Why...? We had a promise... If I took care of you... you[r]
+wouldn't touch anyone else...!"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2470|
 [fc]
 [ns]Shigeyoshi[nse]
-"What!? But you fell asleep in the middle of it, didn't you, Yuuho-chan? There[r]
-were still loads of guys who hadn't had their turn."[pcms]
+"What!? But you fell asleep in the middle of it, didn't you,[r]
+Yuuho-chan? There were still loads of guys who hadn't had[r]
+their turn."[pcms]
 
 *2471|
 [fc]
@@ -3252,8 +3395,9 @@ I was violated so much that I thought I'd go crazy...[pcms]
 *2473|
 [fc]
 [ns]Shigeyoshi[nse]
-"So we had to find someone else to take care of us, right? Look, if you give[r]
-them a little pick-me-up drug, they get so happy."[pcms]
+"So we had to find someone else to take care of us, right?[r]
+Look, if you give them a little pick-me-up drug, they get so[r]
+happy."[pcms]
 
 
 [chara_int][trans_c cross time=150]
@@ -3266,8 +3410,8 @@ them a little pick-me-up drug, they get so happy."[pcms]
 
 *2475|
 [fc]
-That can't be... then what was it all for... What was the point of being[r]
-violated...[pcms]
+That can't be... then what was it all for... What was the[r]
+point of being violated...[pcms]
 
 *2476|
 [fc]
@@ -3287,8 +3431,8 @@ Betraying Wataru... after going through such an ordeal...[pcms]
 *2478|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uwahaha! What's this, got so excited you wet yourself? Is watching others fuck[r]
-that interesting to you!?"[pcms]
+"Uwahaha! What's this, got so excited you wet yourself? Is[r]
+watching others fuck that interesting to you!?"[pcms]
 
 ;//se511ÅEÇ¥ÇÌÇ¥ÇÌÇ∆êlÇ™ì¸Ç¡ÇƒÇ´ÇΩÉKÉÑ
 ;//[se buf=0 storage="se511"]
@@ -3298,8 +3442,8 @@ that interesting to you!?"[pcms]
 *2479|
 [fc]
 [ns]Shigeyoshi[nse]
-"Oh, the guys who went for food are back too. Let's continue, shall we!? We're[r]
-still going to fuck you plenty!!"[pcms]
+"Oh, the guys who went for food are back too. Let's[r]
+continue, shall we!? We're still going to fuck you plenty!!"[pcms]
 
 *2480|
 [fc]

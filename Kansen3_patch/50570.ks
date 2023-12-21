@@ -48,8 +48,8 @@ Trying to get up, I'm momentarily confused.[pcms]
 
 *3299|
 [fc]
-Let's see, this isn't home, nor is it underground... Right, it's the "My Room"[r]
-at the manga cafe.[pcms]
+Let's see, this isn't home, nor is it underground... Right,[r]
+it's the "My Room" at the manga cafe.[pcms]
 
 *3300|
 [fc]
@@ -65,13 +65,14 @@ at the manga cafe.[pcms]
 
 *3301|
 [fc]
-The lights around are still off, but bright light from the window is shining[r]
-through the partitions.[pcms]
+The lights around are still off, but bright light from the[r]
+window is shining through the partitions.[pcms]
 
 *3302|
 [fc]
-Looks like I slept quite a bit... There's no sign of anyone else from the other[r]
-rooms either. Seems like everyone else woke up before me.[pcms]
+Looks like I slept quite a bit... There's no sign of anyone[r]
+else from the other rooms either. Seems like everyone else[r]
+woke up before me.[pcms]
 
 *3303|
 [fc]
@@ -101,8 +102,8 @@ I guess I should head to the 7th floor for now.[pcms]
 
 *3306|
 [fc]
-When I peek into the main dome of the DJ Bar, Kousuke waves at me from his seat[r]
-in front of the TV.[pcms]
+When I peek into the main dome of the DJ Bar, Kousuke waves[r]
+at me from his seat in front of the TV.[pcms]
 
 *3307|
 [fc]
@@ -114,8 +115,9 @@ in front of the TV.[pcms]
 *3308|
 [fc]
 [ns]Kousuke[nse]
-"Nah, it's about to start. They just said 'broadcasting soon', so I'm sticking[r]
-around waiting for the show to begin."[pcms]
+"Nah, it's about to start. They just said 'broadcasting[r]
+soon', so I'm sticking around waiting for the show to[r]
+begin."[pcms]
 
 *3309|
 [fc]
@@ -124,14 +126,16 @@ around waiting for the show to begin."[pcms]
 
 *3310|
 [fc]
-I try to sit down next to Kousuke in a spot where the TV is easy to see.[pcms]
+I try to sit down next to Kousuke in a spot where the TV is[r]
+easy to see.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3311|
 [fc]
-From the kitchen, there's the sound of dishes clinking and a nice aroma...[pcms]
+From the kitchen, there's the sound of dishes clinking and a[r]
+nice aroma...[pcms]
 
 ;//---------------------------------------------------------------
 ;//１
@@ -161,7 +165,8 @@ From the kitchen, there's the sound of dishes clinking and a nice aroma...[pcms]
 
 *3312|
 [fc]
-I'm drawn to the smell and approach the kitchen, peeking in from the entrance.[pcms]
+I'm drawn to the smell and approach the kitchen, peeking in[r]
+from the entrance.[pcms]
 
 ;//キッチンを表示
 ;//ででっぽうキッチンで代用＠ash
@@ -174,8 +179,8 @@ I'm drawn to the smell and approach the kitchen, peeking in from the entrance.[p
 [fc]
 [vo_yuh s="yuho1627"]
 [ns]Yuuho[nse]
-"...That's right, give that pot a good shake! Use your wrist and do it[r]
-dynamically!"[pcms]
+"...That's right, give that pot a good shake! Use your wrist[r]
+and do it dynamically!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -206,13 +211,13 @@ dynamically!"[pcms]
 
 *3317|
 [fc]
-It seems Yuuho and Ren are preparing breakfast. Their cheerful conversation[r]
-sounds just like that of real sisters.[pcms]
+It seems Yuuho and Ren are preparing breakfast. Their[r]
+cheerful conversation sounds just like that of real sisters.[pcms]
 
 *3318|
 [fc]
-I don't want to be in the way, so without saying anything, I head back to the[r]
-dome.[pcms]
+I don't want to be in the way, so without saying anything, I[r]
+head back to the dome.[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -225,12 +230,13 @@ dome.[pcms]
 
 *3320|
 [fc]
-I'm sure another delicious (though hearty-looking) breakfast will be served like[r]
-last night.[pcms]
+I'm sure another delicious (though hearty-looking) breakfast[r]
+will be served like last night.[pcms]
 
 *3321|
 [fc]
-While looking forward to it, I absentmindedly watch the TV screen.[pcms]
+While looking forward to it, I absentmindedly watch the TV[r]
+screen.[pcms]
 
 ;//ジャンプ：ラベル：A007
 [jump storage="50570.ks" target=*50570_05]
@@ -249,8 +255,8 @@ While looking forward to it, I absentmindedly watch the TV screen.[pcms]
 
 *3323|
 [fc]
-Ren's voice can be heard, but she seems busy... Maybe I should go check on her[r]
-first.[pcms]
+Ren's voice can be heard, but she seems busy... Maybe I[r]
+should go check on her first.[pcms]
 
 ;//キッチンを表示
 ;//ででっぽうキッチンで代用＠ash
@@ -276,8 +282,8 @@ In the kitchen, Ren is struggling with a large frying pan.[pcms]
 
 *3327|
 [fc]
-She tries to smile at me but in doing so, the frying pan she's holding tilts[r]
-dangerously.[pcms]
+She tries to smile at me but in doing so, the frying pan[r]
+she's holding tilts dangerously.[pcms]
 
 *3328|
 [fc]
@@ -290,7 +296,8 @@ dangerously.[pcms]
 [fc]
 [vo_ren s="ren1428"]
 [ns]Ren[nse]
-"No, it's okay. It'll be ready soon so just wait over there, okay!"[pcms]
+"No, it's okay. It'll be ready soon so just wait over there,[r]
+okay!"[pcms]
 
 *3330|
 [fc]
@@ -319,14 +326,14 @@ Kicked out again, I sit back down in front of the TV.[pcms]
 
 *3334|
 [fc]
-It's unusual for Yuuho who's an early riser and full of energy from the morning.[r]
-Or could it be... maybe she's not feeling well. She did seem unsteady last night[r]
-too.[pcms]
+It's unusual for Yuuho who's an early riser and full of[r]
+energy from the morning. Or could it be... maybe she's not[r]
+feeling well. She did seem unsteady last night too.[pcms]
 
 *3335|
 [fc]
-Maybe she's mentally strained from not having any contact with her family or[r]
-Oshima-senpai.[pcms]
+Maybe she's mentally strained from not having any contact[r]
+with her family or Oshima-senpai.[pcms]
 
 *3336|
 [fc]
@@ -335,9 +342,9 @@ Oshima-senpai.[pcms]
 
 *3337|
 [fc]
-Until now we were tense, but now that we've settled into a comfortable[r]
-environment, it wouldn't be strange if we're physically and mentally exhausted[r]
-all at once.[pcms]
+Until now we were tense, but now that we've settled into a[r]
+comfortable environment, it wouldn't be strange if we're[r]
+physically and mentally exhausted all at once.[pcms]
 
 *3338|
 [fc]
@@ -354,8 +361,8 @@ I'm really worried about her.[pcms]
 
 *3339|
 [fc]
-I'm drawn by the smell again and approach the kitchen, peeking in from the[r]
-entrance.[pcms]
+I'm drawn by the smell again and approach the kitchen,[r]
+peeking in from the entrance.[pcms]
 
 ;//キッチンを表示
 ;//ででっぽうキッチンで代用＠ash
@@ -372,8 +379,9 @@ entrance.[pcms]
 
 *3341|
 [fc]
-With her cheerful humming as background music, Yuuho is bustling about in the[r]
-kitchen. She doesn't seem rushed yet she's very efficient.[pcms]
+With her cheerful humming as background music, Yuuho is[r]
+bustling about in the kitchen. She doesn't seem rushed yet[r]
+she's very efficient.[pcms]
 
 *3342|
 [fc]
@@ -398,11 +406,13 @@ Noticing me, Yuuho looks up and smiles brightly.[pcms]
 
 *3345|
 [fc]
-Sitting back down in front of the TV again, something strikes me.[pcms]
+Sitting back down in front of the TV again, something[r]
+strikes me.[pcms]
 
 *3346|
 [fc]
-I didn't see Ren... If she were awake, she'd definitely be helping Yuuho...[pcms]
+I didn't see Ren... If she were awake, she'd definitely be[r]
+helping Yuuho...[pcms]
 
 *3347|
 [fc]
@@ -423,8 +433,8 @@ I didn't see Ren... If she were awake, she'd definitely be helping Yuuho...[pcms
 
 *3350|
 [fc]
-If she's just sleepy, that's fine, but maybe she's really not feeling well. She[r]
-was staggering last night, too.[pcms]
+If she's just sleepy, that's fine, but maybe she's really[r]
+not feeling well. She was staggering last night, too.[pcms]
 
 *3351|
 [fc]
@@ -433,13 +443,15 @@ was staggering last night, too.[pcms]
 
 *3352|
 [fc]
-Ren, who is usually frail, often comes down with a fever, but it's been a while[r]
-since she hasn't recovered after a night's sleep.[pcms]
+Ren, who is usually frail, often comes down with a fever,[r]
+but it's been a while since she hasn't recovered after a[r]
+night's sleep.[pcms]
 
 *3353|
 [fc]
-The recent lifestyle must have been tough on Ren... Maybe I've been pushing her[r]
-too hard. I'm really worried about her.[pcms]
+The recent lifestyle must have been tough on Ren... Maybe[r]
+I've been pushing her too hard. I'm really worried about[r]
+her.[pcms]
 
 ;//ジャンプ：ラベル：A007
 [jump storage="50570.ks" target=*50570_05]
@@ -452,8 +464,8 @@ too hard. I'm really worried about her.[pcms]
 
 *3354|
 [fc]
-I'm drawn by the smell again and approach the kitchen, peeking in from the[r]
-entrance.[pcms]
+I'm drawn by the smell again and approach the kitchen,[r]
+peeking in from the entrance.[pcms]
 
 ;//キッチンを表示
 ;//ででっぽうキッチンで代用＠ash
@@ -466,8 +478,8 @@ entrance.[pcms]
 [fc]
 [vo_yuh s="yuho1631"]
 [ns]Yuuho[nse]
-"...That's right, give the pot a big shake! Use your wrist and do it[r]
-dynamically!"[pcms]
+"...That's right, give the pot a big shake! Use your wrist[r]
+and do it dynamically!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -495,16 +507,16 @@ dynamically!"[pcms]
 
 *3359|
 [fc]
-It seems Yuuho and Ren are preparing breakfast. Their cheerful conversation[r]
-sounds just like that of real sisters.[pcms]
+It seems Yuuho and Ren are preparing breakfast. Their[r]
+cheerful conversation sounds just like that of real sisters.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3360|
 [fc]
-I don't want to get in the way, so I head back to the dorm without saying[r]
-anything.[pcms]
+I don't want to get in the way, so I head back to the dorm[r]
+without saying anything.[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -512,7 +524,8 @@ anything.[pcms]
 
 *3361|
 [fc]
-Sitting back down in front of the TV again, something strikes me.[pcms]
+Sitting back down in front of the TV again, something[r]
+strikes me.[pcms]
 
 *3362|
 [fc]
@@ -524,7 +537,8 @@ Sitting back down in front of the TV again, something strikes me.[pcms]
 *3363|
 [fc]
 [ns]Kousuke[nse]
-"She's still sleeping. I did call out to her, but... she seemed lethargic?"[pcms]
+"She's still sleeping. I did call out to her, but... she[r]
+seemed lethargic?"[pcms]
 
 *3364|
 [fc]
@@ -536,8 +550,9 @@ Sitting back down in front of the TV again, something strikes me.[pcms]
 
 *3365|
 [fc]
-It's unusual for the always full-of-vitality senpai. Or maybe... she's not[r]
-feeling well? She was staggering last night, too.[pcms]
+It's unusual for the always full-of-vitality senpai. Or[r]
+maybe... she's not feeling well? She was staggering last[r]
+night, too.[pcms]
 
 *3366|
 [fc]
@@ -546,18 +561,20 @@ feeling well? She was staggering last night, too.[pcms]
 
 *3367|
 [fc]
-When we talked last night, I realized that senpai tends to worry a lot once she[r]
-starts thinking about something. She also has a sensitive side, almost devout.[pcms]
+When we talked last night, I realized that senpai tends to[r]
+worry a lot once she starts thinking about something. She[r]
+also has a sensitive side, almost devout.[pcms]
 
 *3368|
 [fc]
-Even though she grew up in a country torn by civil war, fighting against the[r]
-infected must have been a different kind of hell...[pcms]
+Even though she grew up in a country torn by civil war,[r]
+fighting against the infected must have been a different[r]
+kind of hell...[pcms]
 
 *3369|
 [fc]
-She never complained to us, but it must have been tough on senpai too... I'm[r]
-really worried about her.[pcms]
+She never complained to us, but it must have been tough on[r]
+senpai too... I'm really worried about her.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -571,8 +588,8 @@ really worried about her.[pcms]
 
 *3371|
 [fc]
-The music signaling the start of the news program begins to play from the TV[r]
-monitor. We stare intently at the screen.[pcms]
+The music signaling the start of the news program begins to[r]
+play from the TV monitor. We stare intently at the screen.[pcms]
 
 *3372|
 [fc]
@@ -581,60 +598,66 @@ monitor. We stare intently at the screen.[pcms]
 
 *3373|
 [fc]
-The same announcer as yesterday appears on the screen, wearing the same clothes[r]
-as before, now looking more tired.[pcms]
+The same announcer as yesterday appears on the screen,[r]
+wearing the same clothes as before, now looking more tired.[pcms]
 
 *3374|
 [fc]
 [ns]Announcer[nse]
-"First off, we would like to inform you about the emergency assistance measures[r]
-for disaster situations announced by the provisional government..."[pcms]
+"First off, we would like to inform you about the emergency[r]
+assistance measures for disaster situations announced by the[r]
+provisional government..."[pcms]
 
 *3375|
 [fc]
-The announcer talks about the start of transportation for disaster relief food[r]
-and clothing supplies that had been stockpiled.[pcms]
+The announcer talks about the start of transportation for[r]
+disaster relief food and clothing supplies that had been[r]
+stockpiled.[pcms]
 
 *3376|
 [fc]
-We were lucky to be able to procure food on our own, but for people in shelters[r]
-or those holed up individually, it must be a matter of life and death...[pcms]
+We were lucky to be able to procure food on our own, but for[r]
+people in shelters or those holed up individually, it must[r]
+be a matter of life and death...[pcms]
 
 *3377|
 [fc]
 [ns]Wataru[nse]
-"Even if they say transportation, aren't the roads cut off? Are they using[r]
-transport planes or something?"[pcms]
+"Even if they say transportation, aren't the roads cut off?[r]
+Are they using transport planes or something?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3378|
 [fc]
 [ns]Kousuke[nse]
-"Landing a transport plane in the middle of the city seems impossible, right?[r]
-It's gotta be helicopters, don't you think?"[pcms]
+"Landing a transport plane in the middle of the city seems[r]
+impossible, right? It's gotta be helicopters, don't you[r]
+think?"[pcms]
 
 *3379|
 [fc]
 [ns]Wataru[nse]
-"But helicopters can't carry a lot of cargo at once, and there are limits to[r]
-their flight distance, right?"[pcms]
+"But helicopters can't carry a lot of cargo at once, and[r]
+there are limits to their flight distance, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3380|
 [fc]
 [ns]Kousuke[nse]
-"Then maybe it's that? Dropping supplies with parachutes from the back of a[r]
-cargo plane or something. They do that in movies a lot, right?"[pcms]
+"Then maybe it's that? Dropping supplies with parachutes[r]
+from the back of a cargo plane or something. They do that in[r]
+movies a lot, right?"[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3381|
 [fc]
-While Kousuke and I talk about such things, the news has started with the usual[r]
-exchange between the announcer and commentators.[pcms]
+While Kousuke and I talk about such things, the news has[r]
+started with the usual exchange between the announcer and[r]
+commentators.[pcms]
 
 ;//ジャンプ　ラベルA008
 [jump storage="50570.ks" target=*50570_06]
@@ -656,8 +679,8 @@ exchange between the announcer and commentators.[pcms]
 
 *3383|
 [fc]
-The music signaling the start of the news program begins to play from the TV[r]
-monitor. We stare intently at the screen.[pcms]
+The music signaling the start of the news program begins to[r]
+play from the TV monitor. We stare intently at the screen.[pcms]
 
 *3384|
 [fc]
@@ -666,30 +689,33 @@ monitor. We stare intently at the screen.[pcms]
 
 *3385|
 [fc]
-The same announcer as yesterday appears on the screen, wearing the same clothes[r]
-as before, now looking more tired.[pcms]
+The same announcer as yesterday appears on the screen,[r]
+wearing the same clothes as before, now looking more tired.[pcms]
 
 *3386|
 [fc]
 [ns]Announcer[nse]
-"First off, we would like to inform you about the emergency assistance measures[r]
-for disaster situations announced by the provisional government..."[pcms]
+"First off, we would like to inform you about the emergency[r]
+assistance measures for disaster situations announced by the[r]
+provisional government..."[pcms]
 
 *3387|
 [fc]
-The announcer talks about the start of transportation for disaster relief food[r]
-and clothing supplies that had been stockpiled.[pcms]
+The announcer talks about the start of transportation for[r]
+disaster relief food and clothing supplies that had been[r]
+stockpiled.[pcms]
 
 *3388|
 [fc]
-We were lucky to be able to procure food on our own, but for people in shelters[r]
-or those holed up individually, it must be a matter of life and death...[pcms]
+We were lucky to be able to procure food on our own, but for[r]
+people in shelters or those holed up individually, it must[r]
+be a matter of life and death...[pcms]
 
 *3389|
 [fc]
 [ns]Wataru[nse]
-"Even if they say transportation, aren't the roads cut off? Are they using[r]
-transport planes or something?"[pcms]
+"Even if they say transportation, aren't the roads cut off?[r]
+Are they using transport planes or something?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -697,22 +723,24 @@ transport planes or something?"[pcms]
 [fc]
 [vo_mar s="maru1671"]
 [ns]Margarita[nse]
-"It's hard to imagine transport planes being able to land near urban shelters.[r]
-It would be more reasonable to consider helicopters."[pcms]
+"It's hard to imagine transport planes being able to land[r]
+near urban shelters. It would be more reasonable to consider[r]
+helicopters."[pcms]
 
 *3391|
 [fc]
 [ns]Wataru[nse]
-"But helicopters can't carry a lot of cargo at once, and there are limits to[r]
-their flight distance, right?"[pcms]
+"But helicopters can't carry a lot of cargo at once, and[r]
+there are limits to their flight distance, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3392|
 [fc]
 [ns]Kousuke[nse]
-"Then maybe it's that? Dropping supplies with parachutes from the back of a[r]
-cargo plane or something. They do that in movies a lot, right?"[pcms]
+"Then maybe it's that? Dropping supplies with parachutes[r]
+from the back of a cargo plane or something. They do that in[r]
+movies a lot, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -720,17 +748,18 @@ cargo plane or something. They do that in movies a lot, right?"[pcms]
 [fc]
 [vo_mar s="maru1672"]
 [ns]Margarita[nse]
-"If it's the US Navy's Third Fleet stationed near Miyake Island, they could[r]
-manage helicopter takeoffs and landings. If we have cooperation from the United[r]
-States, using both transport planes and helicopters is possible."[pcms]
+"If it's the US Navy's Third Fleet stationed near Miyake[r]
+Island, they could manage helicopter takeoffs and landings.[r]
+If we have cooperation from the United States, using both[r]
+transport planes and helicopters is possible."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3394|
 [fc]
-While we talk about such things, the news has started with the usual exchange[r]
-between the announcer and commentators.[pcms]
+While we talk about such things, the news has started with[r]
+the usual exchange between the announcer and commentators.[pcms]
 
 [jump storage="50570.ks" target=*50570_06]
 
@@ -767,8 +796,8 @@ Rubbing her sleepy eyes, Mizuki enters the dorm.[pcms]
 
 *3399|
 [fc]
-Although she looks a bit pale, Mizuki seems calmer than yesterday, perhaps due[r]
-to getting enough sleep.[pcms]
+Although she looks a bit pale, Mizuki seems calmer than[r]
+yesterday, perhaps due to getting enough sleep.[pcms]
 
 ;//---------------------------------------------------------------
 ;//★以下、１セリフ、条件分岐をお願いします
@@ -824,20 +853,21 @@ to getting enough sleep.[pcms]
 
 *3403|
 [fc]
-It's not surprising that Jin is still asleep at this time after drinking so[r]
-much.[pcms]
+It's not surprising that Jin is still asleep at this time[r]
+after drinking so much.[pcms]
 
 *3404|
 [fc]
-But Shigeyoshi should have gone to bed earlier... Maybe he ended up drinking[r]
-with Jin afterwards?[pcms]
+But Shigeyoshi should have gone to bed earlier... Maybe he[r]
+ended up drinking with Jin afterwards?[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3405|
 [fc]
 [ns]Kousuke[nse]
-"Seriously. They're really bad at sticking together as a group."[pcms]
+"Seriously. They're really bad at sticking together as a[r]
+group."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -849,7 +879,8 @@ with Jin afterwards?[pcms]
 
 *3407|
 [fc]
-Mizuki apologizes flusteredly to Kousuke, who had just grumbled.[pcms]
+Mizuki apologizes flusteredly to Kousuke, who had just[r]
+grumbled.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -868,8 +899,8 @@ Mizuki apologizes flusteredly to Kousuke, who had just grumbled.[pcms]
 
 *3410|
 [fc]
-I can't help but chuckle at Kousuke's unamused expression and Mizuki's puzzled[r]
-look.[pcms]
+I can't help but chuckle at Kousuke's unamused expression[r]
+and Mizuki's puzzled look.[pcms]
 
 ;//---------------------------------------------------------------
 ;//条件分岐
@@ -890,7 +921,8 @@ look.[pcms]
 [fc]
 [vo_ren s="ren1431"]
 [ns]Ren[nse]
-"...Sorry for the wait, breakfast is ready! Can I start setting the table?"[pcms]
+"...Sorry for the wait, breakfast is ready! Can I start[r]
+setting the table?"[pcms]
 
 *3412|
 [fc]
@@ -902,7 +934,8 @@ Ren's voice comes from the kitchen.[pcms]
 [fc]
 [vo_miz s="mizuki0324"]
 [ns]Mizuki[nse]
-"Yes! Then I'll help carry the plates, everyone else please prepare the table."[pcms]
+"Yes! Then I'll help carry the plates, everyone else please[r]
+prepare the table."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -924,8 +957,8 @@ Ren's voice comes from the kitchen.[pcms]
 [fc]
 [vo_yuh s="yuho1633"]
 [ns]Yuuho[nse]
-"...Okay, sorry for the wait! I'll help with the plates, so please get the table[r]
-ready!"[pcms]
+"...Okay, sorry for the wait! I'll help with the plates, so[r]
+please get the table ready!"[pcms]
 
 *3416|
 [fc]
@@ -937,8 +970,8 @@ Yuuho's voice comes from the kitchen.[pcms]
 [fc]
 [vo_miz s="mizuki0325"]
 [ns]Mizuki[nse]
-"I'm coming now! Then I'll go help with the plates. Everyone else, please sit[r]
-down."[pcms]
+"I'm coming now! Then I'll go help with the plates. Everyone[r]
+else, please sit down."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -972,26 +1005,30 @@ down."[pcms]
 
 *3421|
 [fc]
-Somehow, Kousuke and Mizuki seem to have a different vibe this morning. It's[r]
-like they're back to how they used to be... more cheerful.[pcms]
+Somehow, Kousuke and Mizuki seem to have a different vibe[r]
+this morning. It's like they're back to how they used to[r]
+be... more cheerful.[pcms]
 
 *3422|
 [fc]
-Kousuke said 'maybe tomorrow,' but maybe they talked last night...[pcms]
+Kousuke said 'maybe tomorrow,' but maybe they talked last[r]
+night...[pcms]
 
 *3423|
 [fc]
-I suddenly remember the elevator indicator I saw in the middle of the night.[pcms]
+I suddenly remember the elevator indicator I saw in the[r]
+middle of the night.[pcms]
 
 *3424|
 [fc]
-So that's it... Kousuke and the others were the ones who went to Gyuu-Gyuu[r]
-Heaven...[pcms]
+So that's it... Kousuke and the others were the ones who[r]
+went to Gyuu-Gyuu Heaven...[pcms]
 
 *3425|
 [fc]
-...To Gyuu-Gyuu Heaven? Just the two of them??? In the middle of the night???[r]
-...Does that mean... they only talked...???[pcms]
+...To Gyuu-Gyuu Heaven? Just the two of them??? In the[r]
+middle of the night??? ...Does that mean... they only[r]
+talked...???[pcms]
 
 *3426|
 [fc]
@@ -1040,24 +1077,26 @@ Kousuke turns bright red all the way to his ears.[pcms]
 *3434|
 [fc]
 [ns]Wataru[nse]
-While we're all making noise, the TV has started broadcasting relay connections[r]
-with various local stations.[pcms]
+While we're all making noise, the TV has started[r]
+broadcasting relay connections with various local stations.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3435|
 [fc]
-The faces at the urban broadcast center seem to be the same as yesterday.[pcms]
+The faces at the urban broadcast center seem to be the same[r]
+as yesterday.[pcms]
 
 *3436|
 [fc]
-I pay casual attention to the screen, occasionally noticing broadcasts from[r]
-shelters.[pcms]
+I pay casual attention to the screen, occasionally noticing[r]
+broadcasts from shelters.[pcms]
 
 *3437|
 [fc]
-"...Can you hear us, Mr. Tamiya at Yokohama Sports Park shelter? Mr. Tamiya?"[pcms]
+"...Can you hear us, Mr. Tamiya at Yokohama Sports Park[r]
+shelter? Mr. Tamiya?"[pcms]
 
 *3438|
 [fc]
@@ -1067,8 +1106,8 @@ shelters.[pcms]
 *3439|
 [fc]
 [ns]Wataru[nse]
-It seems that suddenly some places can't connect for the broadcast. I don't even[r]
-want to think about why...[pcms]
+It seems that suddenly some places can't connect for the[r]
+broadcast. I don't even want to think about why...[pcms]
 
 *3440|
 [fc]
@@ -1076,7 +1115,8 @@ I wonder if my father's place is okay...[pcms]
 
 *3441|
 [fc]
-While feeling a twinge of anxiety, I hear a long-awaited voice from the screen.[pcms]
+While feeling a twinge of anxiety, I hear a long-awaited[r]
+voice from the screen.[pcms]
 
 *3442|
 [fc]
@@ -1089,14 +1129,15 @@ Thank goodness... My father's place is still safe.[pcms]
 
 *3444|
 [fc]
-"After a night has passed since the crow attack, the shelter has regained some[r]
-calm."[pcms]
+"After a night has passed since the crow attack, the shelter[r]
+has regained some calm."[pcms]
 
 *3445|
 [fc]
 [ns]Father[nse]
-"However, shortages of food and medicine are serious, and you can see anxiety on[r]
-the faces of people gathered at the shelter."[pcms]
+"However, shortages of food and medicine are serious, and[r]
+you can see anxiety on the faces of people gathered at the[r]
+shelter."[pcms]
 
 *3446|
 [fc]
@@ -1106,18 +1147,20 @@ the faces of people gathered at the shelter."[pcms]
 *3447|
 [fc]
 [ns]Father[nse]
-"Furthermore, we've begun to see creatures like rats, and including the issue of[r]
-sanitation, the site continues to maintain a sufficient level of vigilance..."[pcms]
+"Furthermore, we've begun to see creatures like rats, and[r]
+including the issue of sanitation, the site continues to[r]
+maintain a sufficient level of vigilance..."[pcms]
 
 *3448|
 [fc]
-My father reports the situation briskly with a professional attitude.[pcms]
+My father reports the situation briskly with a professional[r]
+attitude.[pcms]
 
 *3449|
 [fc]
-Although it was still an audio-only broadcast without any video, I felt a huge[r]
-relief seeing him working safely. The lack of emails must be due to mobile phone[r]
-troubles...[pcms]
+Although it was still an audio-only broadcast without any[r]
+video, I felt a huge relief seeing him working safely. The[r]
+lack of emails must be due to mobile phone troubles...[pcms]
 
 ;//---------------------------------------------------------------
 ;//★以下、１セリフ、条件分岐をお願いします
@@ -1141,9 +1184,9 @@ troubles...[pcms]
 [fc]
 [vo_mar s="maru1675"]
 [ns]Margarita[nse]
-"According to information from Sesuka, the garrison in Mishuku was also attacked[r]
-by a swarm of crows. Now they are on alert not only for crows but also for[r]
-rats."[pcms]
+"According to information from Sesuka, the garrison in[r]
+Mishuku was also attacked by a swarm of crows. Now they are[r]
+on alert not only for crows but also for rats."[pcms]
 
 [jump storage="50570.ks" target=*50570_m6]
 
@@ -1156,7 +1199,8 @@ rats."[pcms]
 *3451|
 [fc]
 [ns]Kousuke[nse]
-"...Come to think of it, we didn't see any rats underground, did we?"[pcms]
+"...Come to think of it, we didn't see any rats underground,[r]
+did we?"[pcms]
 
 *3452|
 [fc]
@@ -1165,13 +1209,15 @@ rats."[pcms]
 
 *3453|
 [fc]
-Rats are creatures that die if they don't keep eating. And maybe the virus's[r]
-toxicity affects them differently than humans...[pcms]
+Rats are creatures that die if they don't keep eating. And[r]
+maybe the virus's toxicity affects them differently than[r]
+humans...[pcms]
 
 *3454|
 [fc]
 [ns]Wataru[nse]
-"With that in mind, there might not be any infected rats left."[pcms]
+"With that in mind, there might not be any infected rats[r]
+left."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1182,8 +1228,8 @@ toxicity affects them differently than humans...[pcms]
 
 *3456|
 [fc]
-While we were discussing this, the news ended, and the screen switched back to a[r]
-standby image of a scenic photo.[pcms]
+While we were discussing this, the news ended, and the[r]
+screen switched back to a standby image of a scenic photo.[pcms]
 
 ;//〆フェードアウト
 
@@ -1213,7 +1259,8 @@ standby image of a scenic photo.[pcms]
 
 *3457|
 [fc]
-The breakfast menu was toast with fried eggs, salad, and commercial soup.[pcms]
+The breakfast menu was toast with fried eggs, salad, and[r]
+commercial soup.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1221,8 +1268,8 @@ The breakfast menu was toast with fried eggs, salad, and commercial soup.[pcms]
 [fc]
 [vo_ren s="ren1432"]
 [ns]Ren[nse]
-"I've set aside portions for Jin-san and the others, so make sure to eat[r]
-everything? It would be a waste to leave any."[pcms]
+"I've set aside portions for Jin-san and the others, so make[r]
+sure to eat everything? It would be a waste to leave any."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1234,14 +1281,15 @@ everything? It would be a waste to leave any."[pcms]
 
 *3460|
 [fc]
-Maruko-senpai quickly topped her toast with a fried egg and added a few drops of[r]
-soy sauce. Then she placed another slice of toast on top to make it like a[r]
-sandwich.[pcms]
+Maruko-senpai quickly topped her toast with a fried egg and[r]
+added a few drops of soy sauce. Then she placed another[r]
+slice of toast on top to make it like a sandwich.[pcms]
 
 *3461|
 [fc]
 [ns]Wataru[nse]
-"...That's an unusual way to eat. Is it a foreign custom...?"[pcms]
+"...That's an unusual way to eat. Is it a foreign[r]
+custom...?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1249,17 +1297,19 @@ sandwich.[pcms]
 [fc]
 [vo_mar s="maru1677"]
 [ns]Margarita[nse]
-"Ah... n-no... that's... just my preference. But at home, I'd get scolded for[r]
-eating like this. I thought I might as well do it now..."[pcms]
+"Ah... n-no... that's... just my preference. But at home,[r]
+I'd get scolded for eating like this. I thought I might as[r]
+well do it now..."[pcms]
 
 *3463|
 [fc]
-Senpai's face turned red as she covered her half-eaten toast with her hand.[pcms]
+Senpai's face turned red as she covered her half-eaten toast[r]
+with her hand.[pcms]
 
 *3464|
 [fc]
-Well indeed, it might not be appropriate for a young lady from a prestigious[r]
-family to eat in such a way.[pcms]
+Well indeed, it might not be appropriate for a young lady[r]
+from a prestigious family to eat in such a way.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1278,8 +1328,8 @@ family to eat in such a way.[pcms]
 
 *3467|
 [fc]
-If anyone were to scold her, it would probably be Sesuka-san. But then again...[r]
-where did she learn to eat like that?[pcms]
+If anyone were to scold her, it would probably be Sesuka-[r]
+san. But then again... where did she learn to eat like that?[pcms]
 
 *3468|
 [fc]
@@ -1300,7 +1350,8 @@ where did she learn to eat like that?[pcms]
 
 *3471|
 [fc]
-Senpai's homeland must be an incredible place... Truly a different world...[pcms]
+Senpai's homeland must be an incredible place... Truly a[r]
+different world...[pcms]
 
 ;//ラベルA016 へジャンプ
 [jump storage="50570.ks" target=*50570_14]
@@ -1314,7 +1365,8 @@ Senpai's homeland must be an incredible place... Truly a different world...[pcms
 
 *3472|
 [fc]
-The breakfast menu was rice with fried eggs, miso soup, and salad.[pcms]
+The breakfast menu was rice with fried eggs, miso soup, and[r]
+salad.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1322,18 +1374,18 @@ The breakfast menu was rice with fried eggs, miso soup, and salad.[pcms]
 [fc]
 [vo_yuh s="yuho1634"]
 [ns]Yuuho[nse]
-"I've set aside portions for Jin-san and the others, so you can eat everything[r]
-here, okay?"[pcms]
+"I've set aside portions for Jin-san and the others, so you[r]
+can eat everything here, okay?"[pcms]
 
 *3474|
 [fc]
-This time the menu seemed to have no room for variation; it looked very ordinary[r]
-and really delicious.[pcms]
+This time the menu seemed to have no room for variation; it[r]
+looked very ordinary and really delicious.[pcms]
 
 *3475|
 [fc]
-Without needing to be told by Yuuho, everyone grabbed their chopsticks intending[r]
-to finish everything.[pcms]
+Without needing to be told by Yuuho, everyone grabbed their[r]
+chopsticks intending to finish everything.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -1341,12 +1393,14 @@ to finish everything.[pcms]
 [fc]
 [vo_miz s="mizuki0327"]
 [ns]Mizuki[nse]
-"This miso soup... it's delicious but a bit unusual, isn't it?"[pcms]
+"This miso soup... it's delicious but a bit unusual, isn't[r]
+it?"[pcms]
 
 *3477|
 [fc]
-Mizuki tilted her head after taking a sip. Yuuho's miso soup was made with koji[r]
-miso and had chopped eggplant as an ingredient.[pcms]
+Mizuki tilted her head after taking a sip. Yuuho's miso soup[r]
+was made with koji miso and had chopped eggplant as an[r]
+ingredient.[pcms]
 
 ;//漣がいない場合の除外処理
 [if exp="f.l_kansen_r==1"][jump storage="50570.ks" target=*x2][endif]
@@ -1375,12 +1429,13 @@ Ren and I whispered to each other.[pcms]
 
 *3481|
 [fc]
-We used the same koji miso at Kannagi-ken, but also at our grandparents' house[r]
-in Akitait was their miso too.[pcms]
+We used the same koji miso at Kannagi-ken, but also at our[r]
+grandparents' house in Akitait was their miso too.[pcms]
 
 *3482|
 [fc]
-Some people might not like it, but for us, it's a precious taste of memory...[pcms]
+Some people might not like it, but for us, it's a precious[r]
+taste of memory...[pcms]
 
 *3483|
 [fc]
@@ -1403,8 +1458,9 @@ Some people might not like it, but for us, it's a precious taste of memory...[pc
 
 *3485|
 [fc]
-Yuuho said with a smile. That smile might be the best seasoning of all. With[r]
-that thought in mind, I finished my bowl of soup.[pcms]
+Yuuho said with a smile. That smile might be the best[r]
+seasoning of all. With that thought in mind, I finished my[r]
+bowl of soup.[pcms]
 
 [jump storage="50570.ks" target=*y3]
 
@@ -1412,8 +1468,8 @@ that thought in mind, I finished my bowl of soup.[pcms]
 
 *3486|
 [fc]
-I wonder if Maruko-senpai, who is foreign, is okay with koji miso? She struggled[r]
-with octopus last night too...[pcms]
+I wonder if Maruko-senpai, who is foreign, is okay with koji[r]
+miso? She struggled with octopus last night too...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a19"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1447,7 +1503,8 @@ I saw senpai easily finishing her bowl of soup.[pcms]
 
 *3490|
 [fc]
-In this way, breakfast was finished pleasantly (and quickly).[pcms]
+In this way, breakfast was finished pleasantly (and[r]
+quickly).[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -1467,13 +1524,13 @@ In this way, breakfast was finished pleasantly (and quickly).[pcms]
 *3493|
 [fc]
 [ns]Kousuke[nse]
-"Before that, there are dishes to wash! Come on Wataru, let's rock-paper-[r]
-scissors."[pcms]
+"Before that, there are dishes to wash! Come on Wataru,[r]
+let's rock-paper- scissors."[pcms]
 
 *3494|
 [fc]
-...As a result, while Kousuke and Mizuki did the dishes, we decided on the[r]
-schedule.[pcms]
+...As a result, while Kousuke and Mizuki did the dishes, we[r]
+decided on the schedule.[pcms]
 
 ;//---------------------------------------------------------------
 ;//条件分岐
@@ -1497,21 +1554,22 @@ schedule.[pcms]
 [fc]
 [vo_mar s="maru1681"]
 [ns]Margarita[nse]
-"Today's plan is... We'll go through that 'valley' to head towards other[r]
-buildings and gather long-lasting food supplies and medicine."[pcms]
+"Today's plan is... We'll go through that 'valley' to head[r]
+towards other buildings and gather long-lasting food[r]
+supplies and medicine."[pcms]
 
 *3496|
 [fc]
 [vo_mar s="maru1682"]
 [ns]Margarita[nse]
-"After all, we can't predict how long we'll be under siege. It's better to have[r]
-too much stock than not enough."[pcms]
+"After all, we can't predict how long we'll be under siege.[r]
+It's better to have too much stock than not enough."[pcms]
 
 *3497|
 [fc]
 [ns]Wataru[nse]
-"Then, we should probably gather as many men as possible, right? Like me,[r]
-Kousuke, and Jin-san, and..."[pcms]
+"Then, we should probably gather as many men as possible,[r]
+right? Like me, Kousuke, and Jin-san, and..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1537,19 +1595,20 @@ Senpai is harsh... But what she's saying is probably right.[pcms]
 *3500|
 [fc]
 [ns]Wataru[nse]
-"So, about today's plan... Let's try going to the other buildings through that[r]
-'valley'."[pcms]
+"So, about today's plan... Let's try going to the other[r]
+buildings through that 'valley'."[pcms]
 
 *3501|
 [fc]
 [ns]Wataru[nse]
-"Since we don't know how long we'll be holed up here, let's gather as much non-[r]
-perishable food and medicine as we can."[pcms]
+"Since we don't know how long we'll be holed up here, let's[r]
+gather as much non- perishable food and medicine as we can."[pcms]
 
 *3502|
 [fc]
-I wonder what Maruko-senpai would say at a time like this... As I made the[r]
-suggestion while thinking that, everyone seemed to agree without any objections.[pcms]
+I wonder what Maruko-senpai would say at a time like this...[r]
+As I made the suggestion while thinking that, everyone[r]
+seemed to agree without any objections.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1557,13 +1616,14 @@ suggestion while thinking that, everyone seemed to agree without any objections.
 [fc]
 [vo_yuh s="yuho1636"]
 [ns]Yuuho[nse]
-"Then, it's better to have as many people as possible, right? I wonder if Jin-[r]
-san and the others will help..."[pcms]
+"Then, it's better to have as many people as possible,[r]
+right? I wonder if Jin- san and the others will help..."[pcms]
 
 *3504|
 [fc]
 [ns]Wataru[nse]
-"...I'm not sure about that. But let's have everyone who can move help out."[pcms]
+"...I'm not sure about that. But let's have everyone who can[r]
+move help out."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1599,8 +1659,8 @@ san and the others will help..."[pcms]
 [fc]
 [vo_ren s="ren1434"]
 [ns]Ren[nse]
-"Then I'll do the laundry, okay? We've been walking through sewers, so it might[r]
-be a bit... smelly?"[pcms]
+"Then I'll do the laundry, okay? We've been walking through[r]
+sewers, so it might be a bit... smelly?"[pcms]
 
 *3507|
 [fc]
@@ -1616,13 +1676,14 @@ I was indeed concerned about the laundry piling up.[pcms]
 
 *3509|
 [fc]
-Fortunately, in the backyard of the DJ Bar, there are washing machines and[r]
-detergents prepared for washing things like towels in-house to cut costs.[pcms]
+Fortunately, in the backyard of the DJ Bar, there are[r]
+washing machines and detergents prepared for washing things[r]
+like towels in-house to cut costs.[pcms]
 
 *3510|
 [fc]
-I remember seeing drying wires and poles that could be used on the rooftop, as[r]
-well as buckets for soaking.[pcms]
+I remember seeing drying wires and poles that could be used[r]
+on the rooftop, as well as buckets for soaking.[pcms]
 
 ;//ジャンプ　A022
 [jump storage="50570.ks" target=*50570_20]
@@ -1637,8 +1698,8 @@ well as buckets for soaking.[pcms]
 [fc]
 [vo_yuh s="yuho1638"]
 [ns]Yuuho[nse]
-"Then, I'll get started on the laundry! Walking through sewers, honestly, it[r]
-might be a bit smelly~"[pcms]
+"Then, I'll get started on the laundry! Walking through[r]
+sewers, honestly, it might be a bit smelly~"[pcms]
 
 *3512|
 [fc]
@@ -1654,13 +1715,14 @@ I was indeed concerned about the laundry piling up.[pcms]
 
 *3514|
 [fc]
-Fortunately, in the backyard of the DJ Bar, there are washing machines and[r]
-detergents prepared for washing things like towels in-house to cut costs.[pcms]
+Fortunately, in the backyard of the DJ Bar, there are[r]
+washing machines and detergents prepared for washing things[r]
+like towels in-house to cut costs.[pcms]
 
 *3515|
 [fc]
-I remember seeing drying wires and poles that could be used on the rooftop, as[r]
-well as buckets for soaking.[pcms]
+I remember seeing drying wires and poles that could be used[r]
+on the rooftop, as well as buckets for soaking.[pcms]
 
 *3516|
 [fc]
@@ -1669,8 +1731,9 @@ well as buckets for soaking.[pcms]
 
 *3517|
 [fc]
-I felt bad leaving it all to Yuuho alone, but we really needed as many people as[r]
-possible for carrying supplies. Let's leave the laundry to Yuuho.[pcms]
+I felt bad leaving it all to Yuuho alone, but we really[r]
+needed as many people as possible for carrying supplies.[r]
+Let's leave the laundry to Yuuho.[pcms]
 
 ;//フェードアウト
 
@@ -1701,7 +1764,8 @@ possible for carrying supplies. Let's leave the laundry to Yuuho.[pcms]
 [fc]
 [vo_yuh s="yuho1639"]
 [ns]Yuuho[nse]
-"Ah, then should I help too? Hanging them up can be tough, right?"[pcms]
+"Ah, then should I help too? Hanging them up can be tough,[r]
+right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1709,8 +1773,9 @@ possible for carrying supplies. Let's leave the laundry to Yuuho.[pcms]
 [fc]
 [vo_ren s="ren1435"]
 [ns]Ren[nse]
-"It's okay, it's not like there's a huge amount. And when I hang them up, I'll[r]
-make sure to apply UV cream so it'll be fine."[pcms]
+"It's okay, it's not like there's a huge amount. And when I[r]
+hang them up, I'll make sure to apply UV cream so it'll be[r]
+fine."[pcms]
 
 *3520|
 [fc]
@@ -1729,9 +1794,9 @@ make sure to apply UV cream so it'll be fine."[pcms]
 
 *3522|
 [fc]
-I felt bad leaving it all to Ren alone, but since we really needed as many[r]
-people as possible for carrying supplies and she said she's okay with it, I[r]
-decided to leave it to her.[pcms]
+I felt bad leaving it all to Ren alone, but since we really[r]
+needed as many people as possible for carrying supplies and[r]
+she said she's okay with it, I decided to leave it to her.[pcms]
 
 ;//フェードアウト
 
@@ -1771,8 +1836,8 @@ The sunlight on the rooftop was a bit concerning...[pcms]
 [fc]
 [vo_ren s="ren1437"]
 [ns]Ren[nse]
-"I'll make sure to apply UV cream so it'll be fine. You focus on carrying the[r]
-supplies, big brother!"[pcms]
+"I'll make sure to apply UV cream so it'll be fine. You[r]
+focus on carrying the supplies, big brother!"[pcms]
 
 *3528|
 [fc]
@@ -1789,9 +1854,9 @@ supplies, big brother!"[pcms]
 
 *3530|
 [fc]
-I felt bad leaving it all to Ren alone, but since we really needed as many[r]
-people as possible for carrying supplies and she said she's okay with it, I[r]
-decided to leave it to her.[pcms]
+I felt bad leaving it all to Ren alone, but since we really[r]
+needed as many people as possible for carrying supplies and[r]
+she said she's okay with it, I decided to leave it to her.[pcms]
 
 ;//フェードアウト
 

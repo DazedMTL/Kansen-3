@@ -46,13 +46,14 @@
 
 *8170|
 [fc]
-I was face down on the pillow, crying with a muffled voice. The reality was too[r]
-cruel, and I didn't care anymore.[pcms]
+I was face down on the pillow, crying with a muffled voice.[r]
+The reality was too cruel, and I didn't care anymore.[pcms]
 
 *8171|
 [fc]
-Not just Yuuho, but Dad too... Why does everyone leave me behind? The people[r]
-important to me are no longer in this world.[pcms]
+Not just Yuuho, but Dad too... Why does everyone leave me[r]
+behind? The people important to me are no longer in this[r]
+world.[pcms]
 
 ;//se005・木製ドアのノック音（一般住宅）
 [se buf=0 storage="se005"]
@@ -97,9 +98,9 @@ important to me are no longer in this world.[pcms]
 
 *8178|
 [fc]
-Everyone was worried about me, calling out from beyond the door. But I didn't[r]
-care anymore. Just leave me alone. Let me be by myself. That's why I didn't[r]
-answer.[pcms]
+Everyone was worried about me, calling out from beyond the[r]
+door. But I didn't care anymore. Just leave me alone. Let me[r]
+be by myself. That's why I didn't answer.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -122,7 +123,8 @@ answer.[pcms]
 *8181|
 [fc]
 [ns]Kousuke[nse]
-"Yeah, that's right... Maruko-senpai. Mizuki, let's leave him alone for now..."[pcms]
+"Yeah, that's right... Maruko-senpai. Mizuki, let's leave[r]
+him alone for now..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -137,8 +139,9 @@ answer.[pcms]
 
 *8183|
 [fc]
-They left. That's right, just leave me alone. Who can understand my sadness? No[r]
-one can understand. No one can possibly understand.[pcms]
+They left. That's right, just leave me alone. Who can[r]
+understand my sadness? No one can understand. No one can[r]
+possibly understand.[pcms]
 
 ;//se005・木製ドアのノック音（一般住宅）
 [se buf=0 storage="se005"]
@@ -171,8 +174,8 @@ one can understand. No one can possibly understand.[pcms]
 
 *8188|
 [fc]
-Ren, be quiet. Go away with everyone else. Leave me alone. I don't want to talk[r]
-to anyone right now.[pcms]
+Ren, be quiet. Go away with everyone else. Leave me alone. I[r]
+don't want to talk to anyone right now.[pcms]
 
 ;//se040・ドアノブを回す
 [se buf=0 storage="se040"]
@@ -208,8 +211,8 @@ Ren spoke in a slightly softer voice as she approached me.[pcms]
 [fc]
 [vo_ren s="ren1068"]
 [ns]Ren[nse]
-"Big brother... are you crying? You're crying, aren't you... I'm sad too. Just[r]
-as sad as you are..."[pcms]
+"Big brother... are you crying? You're crying, aren't you...[r]
+I'm sad too. Just as sad as you are..."[pcms]
 
 *8194|
 [fc]
@@ -222,8 +225,8 @@ as sad as you are..."[pcms]
 [fc]
 [vo_ren s="ren1069"]
 [ns]Ren[nse]
-"Don't say things like that, big brother. I too, I too...! It's not just you.[r]
-Understand. I'm sad too, everyone is..."[pcms]
+"Don't say things like that, big brother. I too, I too...![r]
+It's not just you. Understand. I'm sad too, everyone is..."[pcms]
 
 *8196|
 [fc]
@@ -236,8 +239,9 @@ Understand. I'm sad too, everyone is..."[pcms]
 [fc]
 [vo_ren s="ren1070"]
 [ns]Ren[nse]
-"No... I can't. I'm worried about you... I don't want to leave you alone. I want[r]
-to be by your side. Please, let me stay with you, big brother..."[pcms]
+"No... I can't. I'm worried about you... I don't want to[r]
+leave you alone. I want to be by your side. Please, let me[r]
+stay with you, big brother..."[pcms]
 
 *8198|
 [fc]
@@ -246,8 +250,9 @@ to be by your side. Please, let me stay with you, big brother..."[pcms]
 
 *8199|
 [fc]
-I got up from the bed where I had been lying face down and sat on the bed[r]
-hugging my knees. Ren quietly approached and sat down at the edge of the bed.[pcms]
+I got up from the bed where I had been lying face down and[r]
+sat on the bed hugging my knees. Ren quietly approached and[r]
+sat down at the edge of the bed.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -255,8 +260,8 @@ hugging my knees. Ren quietly approached and sat down at the edge of the bed.[pc
 [fc]
 [vo_ren s="ren1071"]
 [ns]Ren[nse]
-"...Big brother. Dad... he's really gone, isn't he... That's not one of dad's[r]
-usual jokes... right?"[pcms]
+"...Big brother. Dad... he's really gone, isn't he... That's[r]
+not one of dad's usual jokes... right?"[pcms]
 
 *8201|
 [fc]
@@ -269,19 +274,21 @@ usual jokes... right?"[pcms]
 [fc]
 [vo_ren s="ren1072"]
 [ns]Ren[nse]
-"Somehow, it doesn't feel real. Maybe because it's like something on TV... I[r]
-keep feeling like dad will come to pick us up tomorrow saying, 'Gotcha!'"[pcms]
+"Somehow, it doesn't feel real. Maybe because it's like[r]
+something on TV... I keep feeling like dad will come to pick[r]
+us up tomorrow saying, 'Gotcha!'"[pcms]
 
 *8203|
 [fc]
-Ren spoke in bits and pieces... It doesn't feel real? But that is reality. When[r]
-mom died, even though the coffin was empty, I felt the reality of her absence.[pcms]
+Ren spoke in bits and pieces... It doesn't feel real? But[r]
+that is reality. When mom died, even though the coffin was[r]
+empty, I felt the reality of her absence.[pcms]
 
 *8204|
 [fc]
-I'm not blood-related, so if I say it doesn't feel real, I understand. But for[r]
-Ren, his own flesh and blood, to say it doesn't feel real, what is she talking[r]
-about?[pcms]
+I'm not blood-related, so if I say it doesn't feel real, I[r]
+understand. But for Ren, his own flesh and blood, to say it[r]
+doesn't feel real, what is she talking about?[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -289,8 +296,9 @@ about?[pcms]
 [fc]
 [vo_ren s="ren1073"]
 [ns]Ren[nse]
-"...But you know, with Yuuho-chan... I do feel it's real... Ahh, Yuuho-chan is[r]
-really gone... She's gone somewhere out of your reach."[pcms]
+"...But you know, with Yuuho-chan... I do feel it's real...[r]
+Ahh, Yuuho-chan is really gone... She's gone somewhere out[r]
+of your reach."[pcms]
 
 *8206|
 [fc]
@@ -303,8 +311,8 @@ really gone... She's gone somewhere out of your reach."[pcms]
 [fc]
 [vo_ren s="ren1075"]
 [ns]Ren[nse]
-"Hey, big brother. It's okay to cry a lot. Ko-chan and Mizuki-chan and senpai...[r]
-everyone went to the 7th floor..."[pcms]
+"Hey, big brother. It's okay to cry a lot. Ko-chan and[r]
+Mizuki-chan and senpai... everyone went to the 7th floor..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -312,7 +320,8 @@ everyone went to the 7th floor..."[pcms]
 [fc]
 [vo_ren s="ren1076"]
 [ns]Ren[nse]
-"So right now on this floor, it's just the two of us... just you and me."[pcms]
+"So right now on this floor, it's just the two of us... just[r]
+you and me."[pcms]
 
 *8209|
 [fc]
@@ -325,8 +334,9 @@ everyone went to the 7th floor..."[pcms]
 [fc]
 [vo_ren s="ren1077"]
 [ns]Ren[nse]
-"That's a lie. Big brother, don't hold back. Don't pretend to be strong. I will[r]
-be by your side instead of Yuuho-chan. No, I want to be by your side."[pcms]
+"That's a lie. Big brother, don't hold back. Don't pretend[r]
+to be strong. I will be by your side instead of Yuuho-chan.[r]
+No, I want to be by your side."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -334,8 +344,8 @@ be by your side instead of Yuuho-chan. No, I want to be by your side."[pcms]
 [fc]
 [vo_ren s="ren1078"]
 [ns]Ren[nse]
-"I want to be much closer than Yuuho-chan ever was and live happily with you...[r]
-I'll take Yuuho-chan's place..."[pcms]
+"I want to be much closer than Yuuho-chan ever was and live[r]
+happily with you... I'll take Yuuho-chan's place..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -343,13 +353,13 @@ I'll take Yuuho-chan's place..."[pcms]
 [fc]
 [vo_ren s="ren1079"]
 [ns]Ren[nse]
-"So big brother, for now cry as much as you need to. Cry a lot for Yuuho-chan's[r]
-sake... okay?"[pcms]
+"So big brother, for now cry as much as you need to. Cry a[r]
+lot for Yuuho-chan's sake... okay?"[pcms]
 
 *8213|
 [fc]
-Take Yuuho's place? Ren? What is she talking about? There's no replacement for[r]
-Yuuho. Ren can't possibly take her place.[pcms]
+Take Yuuho's place? Ren? What is she talking about? There's[r]
+no replacement for Yuuho. Ren can't possibly take her place.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -357,9 +367,9 @@ Yuuho. Ren can't possibly take her place.[pcms]
 [fc]
 [vo_ren s="ren1080"]
 [ns]Ren[nse]
-"And then big brother, after you've cried a lot, come back to being my usual big[r]
-brother. Cry a lot a lot and then... forget about Yuuho-chan and the sad[r]
-things..."[pcms]
+"And then big brother, after you've cried a lot, come back[r]
+to being my usual big brother. Cry a lot a lot and then...[r]
+forget about Yuuho-chan and the sad things..."[pcms]
 
 *8215|
 [fc]
@@ -368,8 +378,8 @@ things..."[pcms]
 
 *8216|
 [fc]
-Forget? Forget about Yuuho? That's impossible. How can I do such a thing? How[r]
-can she say that? Ren?[pcms]
+Forget? Forget about Yuuho? That's impossible. How can I do[r]
+such a thing? How can she say that? Ren?[pcms]
 
 *8217|
 [fc]
@@ -381,8 +391,9 @@ How can she say such a cruel thing? Ren? Why? Why?!![pcms]
 [fc]
 [vo_ren s="ren1081"]
 [ns]Ren[nse]
-"Please big brother, cry a lot and forget, please. In exchange, I'll take Yuuho-[r]
-chan's place and always be by your side for her share too... Kyaa!!"[pcms]
+"Please big brother, cry a lot and forget, please. In[r]
+exchange, I'll take Yuuho- chan's place and always be by[r]
+your side for her share too... Kyaa!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -418,8 +429,9 @@ chan's place and always be by your side for her share too... Kyaa!!"[pcms]
 
 *8220|
 [fc]
-I pounced on Ren, pinning her down beneath me. Holding down both of her arms[r]
-with one hand, she looked at me with surprised eyes as I told her.[pcms]
+I pounced on Ren, pinning her down beneath me. Holding down[r]
+both of her arms with one hand, she looked at me with[r]
+surprised eyes as I told her.[pcms]
 
 ;//♂_イベント画ないので、詳細不明。画にそぐわないようだったら、押さえ込んでいる表現を変更
 ;//HEV058を使用
@@ -435,13 +447,14 @@ with one hand, she looked at me with surprised eyes as I told her.[pcms]
 [fc]
 [vo_ren s="ren1083"]
 [ns]Ren[nse]
-"Ah... yes, that's right. In place of Yuuho-chan, I will be by your side..."[pcms]
+"Ah... yes, that's right. In place of Yuuho-chan, I will be[r]
+by your side..."[pcms]
 
 *8223|
 [fc]
 [ns]Wataru[nse]
-"How could you possibly replace her? Why would you think that you could take[r]
-Yuuho's place?"[pcms]
+"How could you possibly replace her? Why would you think[r]
+that you could take Yuuho's place?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -449,14 +462,15 @@ Yuuho's place?"[pcms]
 [fc]
 [vo_ren s="ren1084"]
 [ns]Ren[nse]
-"Because, because. Yuuho-chan is no longer here. You know that too, don't you,[r]
-big brother? That's why I want to become Yuuho-chan's replacement and be by your[r]
-side"[pcms]
+"Because, because. Yuuho-chan is no longer here. You know[r]
+that too, don't you, big brother? That's why I want to[r]
+become Yuuho-chan's replacement and be by your side"[pcms]
 
 *8225|
 [fc]
 [ns]Wataru[nse]
-"Are you really insisting that you can 'take over' for Yuuho?"[pcms]
+"Are you really insisting that you can 'take over' for[r]
+Yuuho?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -477,7 +491,8 @@ side"[pcms]
 [fc]
 [vo_ren s="ren1086"]
 [ns]Ren[nse]
-"Eh? Eh?! Kyaa! Big brother, stop it. What are you doing, big brother!!"[pcms]
+"Eh? Eh?! Kyaa! Big brother, stop it. What are you doing,[r]
+big brother!!"[pcms]
 
 [白フラ]
 
@@ -497,14 +512,15 @@ I pushed Ren against the wall without holding back.[pcms]
 
 *8231|
 [fc]
-I didn't care anymore. After all, Ren isn't my blood-related sister. If she says[r]
-she'll replace Yuuho, then I'll let her replace her.[pcms]
+I didn't care anymore. After all, Ren isn't my blood-related[r]
+sister. If she says she'll replace Yuuho, then I'll let her[r]
+replace her.[pcms]
 
 *8232|
 [fc]
 [ns]Wataru[nse]
-"You're going to replace Yuuho, right, Ren? I wanted to do this kind of thing[r]
-with Yuuho. I'll do it with Ren instead."[pcms]
+"You're going to replace Yuuho, right, Ren? I wanted to do[r]
+this kind of thing with Yuuho. I'll do it with Ren instead."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -512,19 +528,22 @@ with Yuuho. I'll do it with Ren instead."[pcms]
 [fc]
 [vo_ren s="ren1088"]
 [ns]Ren[nse]
-"Hii! I'm sorry, big brother. Please, stop. That's not what I meant, big[r]
-brother. Please, I'm begging you. Please, stop...hiii!!"[pcms]
+"Hii! I'm sorry, big brother. Please, stop. That's not what[r]
+I meant, big brother. Please, I'm begging you. Please,[r]
+stop...hiii!!"[pcms]
 
 ;//HEV058c.bmp
 [evcg storage="HEV058c"][trans_c cross time=300]
 
 *8234|
 [fc]
-I lifted one of Ren's bare legs and licked it with my tongue.[pcms]
+I lifted one of Ren's bare legs and licked it with my[r]
+tongue.[pcms]
 
 *8235|
 [fc]
-While licking, I reached into her shirt and kneaded her small breasts.[pcms]
+While licking, I reached into her shirt and kneaded her[r]
+small breasts.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -532,14 +551,14 @@ While licking, I reached into her shirt and kneaded her small breasts.[pcms]
 [fc]
 [vo_ren s="ren1089"]
 [ns]Ren[nse]
-"No, nooo. Big brother, big brother, stop. Please, I don't want this. I don't[r]
-want this at all! Hiaaah!"[pcms]
+"No, nooo. Big brother, big brother, stop. Please, I don't[r]
+want this. I don't want this at all! Hiaaah!"[pcms]
 
 *8237|
 [fc]
-The small nipples on her small breasts. I pinched them with my fingertips and[r]
-twisted them around. At the same time, I licked her white skin along the line of[r]
-her panties.[pcms]
+The small nipples on her small breasts. I pinched them with[r]
+my fingertips and twisted them around. At the same time, I[r]
+licked her white skin along the line of her panties.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -547,12 +566,14 @@ her panties.[pcms]
 [fc]
 [vo_ren s="ren1090"]
 [ns]Ren[nse]
-"No, nooo. Hii, stop...big brother. Don't do such things...ah, ahh nooo!"[pcms]
+"No, nooo. Hii, stop...big brother. Don't do such[r]
+things...ah, ahh nooo!"[pcms]
 
 *8239|
 [fc]
-Ren's small nipples gradually harden. While kneading them more firmly with my[r]
-fingertips, I lick over Ren's panties, tasting her pussy through the fabric.[pcms]
+Ren's small nipples gradually harden. While kneading them[r]
+more firmly with my fingertips, I lick over Ren's panties,[r]
+tasting her pussy through the fabric.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -560,18 +581,21 @@ fingertips, I lick over Ren's panties, tasting her pussy through the fabric.[pcm
 [fc]
 [vo_ren s="ren1091"]
 [ns]Ren[nse]
-"No, no, stop...kuu! Hiiii! Big brother...stop it. Please stop, pleaseee..."[pcms]
+"No, no, stop...kuu! Hiiii! Big brother...stop it. Please[r]
+stop, pleaseee..."[pcms]
 
 *8241|
 [fc]
-I savor Ren's pussy through the fabric. Her pussy becomes drenched with my[r]
-saliva, even through the cloth. I can feel the slippery sensation on my tongue.[pcms]
+I savor Ren's pussy through the fabric. Her pussy becomes[r]
+drenched with my saliva, even through the cloth. I can feel[r]
+the slippery sensation on my tongue.[pcms]
 
 *8242|
 [fc]
 [ns]Wataru[nse]
-"Nngh... What's this, Ren? Despite saying you don't want it, you're starting to[r]
-feel it, aren't you? It's getting all slippery, your pussy!"[pcms]
+"Nngh... What's this, Ren? Despite saying you don't want it,[r]
+you're starting to feel it, aren't you? It's getting all[r]
+slippery, your pussy!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -579,14 +603,15 @@ feel it, aren't you? It's getting all slippery, your pussy!"[pcms]
 [fc]
 [vo_ren s="ren1092"]
 [ns]Ren[nse]
-"No, nooo... That's not true at all. Don't say such things. Nooo, stop it. Stop[r]
-it, big brother, pleaseee...!"[pcms]
+"No, nooo... That's not true at all. Don't say such things.[r]
+Nooo, stop it. Stop it, big brother, pleaseee...!"[pcms]
 
 *8244|
 [fc]
 [ns]Wataru[nse]
-"It's not like that, Ren. It's already slippery and soaking wet. That's more[r]
-than enough. Instead of Yuuho, I'll insert mine into you, Ren."[pcms]
+"It's not like that, Ren. It's already slippery and soaking[r]
+wet. That's more than enough. Instead of Yuuho, I'll insert[r]
+mine into you, Ren."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -594,20 +619,21 @@ than enough. Instead of Yuuho, I'll insert mine into you, Ren."[pcms]
 [fc]
 [vo_ren s="ren1093"]
 [ns]Ren[nse]
-"Hii! No, I don't want this. Please stop. I'm sorry, big brother. Please, stop[r]
-it, stop it pleaseee."[pcms]
+"Hii! No, I don't want this. Please stop. I'm sorry, big[r]
+brother. Please, stop it, stop it pleaseee."[pcms]
 
 ;mm
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *8246|
 [fc]
-I slide Ren's soaking wet panties to the side and push her down to the floor.[pcms]
+I slide Ren's soaking wet panties to the side and push her[r]
+down to the floor.[pcms]
 
 *8247|
 [fc]
-Ren's pussy is fully exposed. The thin bush of her pussy. Shiny and slippery,[r]
-thoroughly wet.[pcms]
+Ren's pussy is fully exposed. The thin bush of her pussy.[r]
+Shiny and slippery, thoroughly wet.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//HEV041b.bmp
@@ -629,8 +655,8 @@ I thrust my dick deep into Ren's pussy in one go.[pcms]
 
 *8250|
 [fc]
-Ren's flesh walls resisted a little, but they gradually accepted my dick,[r]
-engulfing it completely.[pcms]
+Ren's flesh walls resisted a little, but they gradually[r]
+accepted my dick, engulfing it completely.[pcms]
 
 *8251|
 [fc]
@@ -643,14 +669,14 @@ engulfing it completely.[pcms]
 [fc]
 [vo_ren s="ren1095"]
 [ns]Ren[nse]
-"I-it hurts... no, please, big brother... Please, pull it out. I don't want[r]
-this...noooo."[pcms]
+"I-it hurts... no, please, big brother... Please, pull it[r]
+out. I don't want this...noooo."[pcms]
 
 *8253|
 [fc]
 [ns]Wataru[nse]
-"It's okay, Ren. I'll make you feel good soon. Look, your pussy is already[r]
-pulling on my dick, begging for more."[pcms]
+"It's okay, Ren. I'll make you feel good soon. Look, your[r]
+pussy is already pulling on my dick, begging for more."[pcms]
 
 ;//〆Ｄ：射精に怯える漣
 ;//HEV041b.bmp
@@ -661,13 +687,15 @@ pulling on my dick, begging for more."[pcms]
 [fc]
 [vo_ren s="ren1096"]
 [ns]Ren[nse]
-"No, no, that's a lie... such a thing... biku! Biku...nhiiii!"[pcms]
+"No, no, that's a lie... such a thing... biku![r]
+Biku...nhiiii!"[pcms]
 
 *8255|
 [fc]
-I thrust my hips fiercely. Without any mercy from the start. Ren's flesh walls[r]
-clung to my dick as if trying to hold it down. I rubbed against them, breaking[r]
-through and turning them into a sloppy mess.[pcms]
+I thrust my hips fiercely. Without any mercy from the start.[r]
+Ren's flesh walls clung to my dick as if trying to hold it[r]
+down. I rubbed against them, breaking through and turning[r]
+them into a sloppy mess.[pcms]
 
 [evcg storage="HEV041c"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -676,19 +704,20 @@ through and turning them into a sloppy mess.[pcms]
 [fc]
 [vo_ren s="ren1097"]
 [ns]Ren[nse]
-"Ahiiii! Biku...biku...nhiiii!! No...nooo...biku, I don't want this... Big[r]
-brother, it hurts...nhiiii!"[pcms]
+"Ahiiii! Biku...biku...nhiiii!! No...nooo...biku, I don't[r]
+want this... Big brother, it hurts...nhiiii!"[pcms]
 
 *8257|
 [fc]
-Squishy, obscene sounds could be heard. Ren must hear them too. Her flesh walls[r]
-tightened around my dick, squeezing it hard.[pcms]
+Squishy, obscene sounds could be heard. Ren must hear them[r]
+too. Her flesh walls tightened around my dick, squeezing it[r]
+hard.[pcms]
 
 *8258|
 [fc]
 [ns]Wataru[nse]
-"Ugh...it's so tight. Ren's pussy is squeezing me so hard. Ugh...whoa...kuu, if[r]
-you squeeze that hard..."[pcms]
+"Ugh...it's so tight. Ren's pussy is squeezing me so hard.[r]
+Ugh...whoa...kuu, if you squeeze that hard..."[pcms]
 
 [evcg storage="HEV041d"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -697,13 +726,14 @@ you squeeze that hard..."[pcms]
 [fc]
 [vo_ren s="ren1098"]
 [ns]Ren[nse]
-"No, no...noooo...ahiiii, not like that, not doing...that...ahiiii!"[pcms]
+"No, no...noooo...ahiiii, not like that, not[r]
+doing...that...ahiiii!"[pcms]
 
 *8260|
 [fc]
 [ns]Wataru[nse]
-"It's amazing, Ren's pussy. Ugh, kuu. It's making squishy sounds while pulling[r]
-on my dick..."[pcms]
+"It's amazing, Ren's pussy. Ugh, kuu. It's making squishy[r]
+sounds while pulling on my dick..."[pcms]
 
 *8261|
 [fc]
@@ -745,8 +775,8 @@ inside...nooooo...ahhh!!"[pcms]
 [fc]
 [vo_ren s="ren1101"]
 [ns]Ren[nse]
-"Hiiiiiiii, nooo, inside...inside...ahhh...big brother's...cum[r]
-is...inside...nooo..."[pcms]
+"Hiiiiiiii, nooo, inside...inside...ahhh...big[r]
+brother's...cum is...inside...nooo..."[pcms]
 
 ;//〆Ｆ：ぐったりする漣　あふれる精液
 ;//HEV041f.bmp
@@ -754,13 +784,13 @@ is...inside...nooo..."[pcms]
 
 *8266|
 [fc]
-With a 'jupon' sound, my dick was pushed out by Ren. From inside. Along with my[r]
-cum.[pcms]
+With a 'jupon' sound, my dick was pushed out by Ren. From[r]
+inside. Along with my cum.[pcms]
 
 *8267|
 [fc]
-From Ren's pussy, now dyed bright pink, our mixed juices stained white and red[r]
-flowed out.[pcms]
+From Ren's pussy, now dyed bright pink, our mixed juices[r]
+stained white and red flowed out.[pcms]
 
 
 ;//#_フェイドアウト
@@ -774,18 +804,20 @@ flowed out.[pcms]
 
 *8268|
 [fc]
-I was...out of my mind... To do such a thing to my sister Ren...who was trying[r]
-to comfort me.[pcms]
+I was...out of my mind... To do such a thing to my sister[r]
+Ren...who was trying to comfort me.[pcms]
 
 *8269|
 [fc]
-I'm sorry, Ren. I was really out of my mind. Everything seemed so trivial, but[r]
-to do such a thing to you, Ren, it's unforgivable.[pcms]
+I'm sorry, Ren. I was really out of my mind. Everything[r]
+seemed so trivial, but to do such a thing to you, Ren, it's[r]
+unforgivable.[pcms]
 
 *8270|
 [fc]
-...It really doesn't matter anymore. Someone like me shouldn't exist. It would[r]
-be better if I didn't. Dad's gone, Yuuho's gone. And I'm sure I'll lose Ren too.[pcms]
+...It really doesn't matter anymore. Someone like me[r]
+shouldn't exist. It would be better if I didn't. Dad's gone,[r]
+Yuuho's gone. And I'm sure I'll lose Ren too.[pcms]
 
 *8271|
 [fc]
@@ -801,8 +833,8 @@ be better if I didn't. Dad's gone, Yuuho's gone. And I'm sure I'll lose Ren too.
 *8272|
 [fc]
 [ns]Wataru[nse]
-I tried to leave the bed to find somewhere that would ease my pain without[r]
-waking Ren. I tried to sneak out quietly.[pcms]
+I tried to leave the bed to find somewhere that would ease[r]
+my pain without waking Ren. I tried to sneak out quietly.[pcms]
 
 *8273|
 [fc]
@@ -834,8 +866,8 @@ waking Ren. I tried to sneak out quietly.[pcms]
 *8277|
 [fc]
 [ns]Wataru[nse]
-"...You're lying...Brother. I can tell. Hey, Brother, don't go. Stay by my[r]
-side."[pcms]
+"...You're lying...Brother. I can tell. Hey, Brother, don't[r]
+go. Stay by my side."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -856,8 +888,8 @@ Ren got up and hugged me softly.[pcms]
 
 *8280|
 [fc]
-"Brother...hey, I'm not angry. I don't regret it. I was just a little surprised,[r]
-but I love you so much, Brother..."[pcms]
+"Brother...hey, I'm not angry. I don't regret it. I was just[r]
+a little surprised, but I love you so much, Brother..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -865,8 +897,9 @@ but I love you so much, Brother..."[pcms]
 [fc]
 [vo_ren s="ren1105"]
 [ns]Ren[nse]
-"I just wanted to comfort you. But I'm sorry for being presumptuous and trying[r]
-to take Yuuho-chan's place. So, it's not your fault, Brother. It's mine..."[pcms]
+"I just wanted to comfort you. But I'm sorry for being[r]
+presumptuous and trying to take Yuuho-chan's place. So, it's[r]
+not your fault, Brother. It's mine..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -879,8 +912,8 @@ to take Yuuho-chan's place. So, it's not your fault, Brother. It's mine..."[pcms
 *8283|
 [fc]
 [ns]Wataru[nse]
-"No, Brother isn't bad. I thought that someday Yuuho-chan would take you away[r]
-from me..."[pcms]
+"No, Brother isn't bad. I thought that someday Yuuho-chan[r]
+would take you away from me..."[pcms]
 
 [evcg storage="EV012p"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -889,8 +922,9 @@ from me..."[pcms]
 [fc]
 [vo_ren s="ren1107"]
 [ns]Ren[nse]
-"That's wrong, isn't it? Even though you're my brother... But I didn't want to[r]
-lose you to anyone, even if it was Yuuho-chan whom I love so much..."[pcms]
+"That's wrong, isn't it? Even though you're my brother...[r]
+But I didn't want to lose you to anyone, even if it was[r]
+Yuuho-chan whom I love so much..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -898,8 +932,9 @@ lose you to anyone, even if it was Yuuho-chan whom I love so much..."[pcms]
 [fc]
 [vo_ren s="ren1108"]
 [ns]Ren[nse]
-"So...when Yuuho-chan was gone, it was really tough and sad... But somewhere[r]
-inside...I was happy that now Brother would be mine...I'm sorry, Brother."[pcms]
+"So...when Yuuho-chan was gone, it was really tough and[r]
+sad... But somewhere inside...I was happy that now Brother[r]
+would be mine...I'm sorry, Brother."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -907,15 +942,17 @@ inside...I was happy that now Brother would be mine...I'm sorry, Brother."[pcms]
 [fc]
 [vo_ren s="ren1109"]
 [ns]Ren[nse]
-"Ren...you don't have to apologize. It's my fault, Ren. My mind was a mess, and[r]
-I didn't care about anything, but that's no excuse for what I did to you. I'm[r]
-the one at fault."[pcms]
+"Ren...you don't have to apologize. It's my fault, Ren. My[r]
+mind was a mess, and I didn't care about anything, but[r]
+that's no excuse for what I did to you. I'm the one at[r]
+fault."[pcms]
 
 *8287|
 [fc]
 [ns]Wataru[nse]
-"No, it's okay, Brother. You don't have to forget about Yuuho-chan. But let me[r]
-stay by your side forever. And you stay by my side forever too."[pcms]
+"No, it's okay, Brother. You don't have to forget about[r]
+Yuuho-chan. But let me stay by your side forever. And you[r]
+stay by my side forever too."[pcms]
 
 [evcg storage="EV012r"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -932,25 +969,28 @@ stay by your side forever. And you stay by my side forever too."[pcms]
 [fc]
 [vo_ren s="ren1111"]
 [ns]Ren[nse]
-"Ren! I'm sorry...I'm so sorry, Ren... I was only thinking about myself. I said[r]
-I understood, but I didn't consider everyone's feelings...Ren's feelings..."[pcms]
+"Ren! I'm sorry...I'm so sorry, Ren... I was only thinking[r]
+about myself. I said I understood, but I didn't consider[r]
+everyone's feelings...Ren's feelings..."[pcms]
 
 *8290|
 [fc]
 [ns]Wataru[nse]
-"Ren, I promise you. I will always be by your side. I will never leave you[r]
-alone. So, Ren...please forgive me...uhuhuh..."[pcms]
+"Ren, I promise you. I will always be by your side. I will[r]
+never leave you alone. So, Ren...please forgive[r]
+me...uhuhuh..."[pcms]
 
 *8291|
 [fc]
 [ns]Wataru[nse]
-I clung to Ren and cried. Even though it was really my fault, Ren tried to blame[r]
-herself to save me. To save me after what I did to her.[pcms]
+I clung to Ren and cried. Even though it was really my[r]
+fault, Ren tried to blame herself to save me. To save me[r]
+after what I did to her.[pcms]
 
 *8292|
 [fc]
-"Yeah. It's okay, Brother. Promise me. Always stay by my side and never leave me[r]
-alone..."[pcms]
+"Yeah. It's okay, Brother. Promise me. Always stay by my[r]
+side and never leave me alone..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -963,20 +1003,22 @@ alone..."[pcms]
 *8294|
 [fc]
 [ns]Wataru[nse]
-Ren kept hugging me. Gently stroking my head, she embraced me with all her might[r]
-in her slender body.[pcms]
+Ren kept hugging me. Gently stroking my head, she embraced[r]
+me with all her might in her slender body.[pcms]
 
 [evcg storage="EV012q"][trans_c cross time=300]
 
 *8295|
 [fc]
-Thank you, Ren. I'm sorry, Ren. On behalf of Dad and what I couldn't do for[r]
-Yuuho, I will protect you, Ren. I will show you that I can protect you.[pcms]
+Thank you, Ren. I'm sorry, Ren. On behalf of Dad and what I[r]
+couldn't do for Yuuho, I will protect you, Ren. I will show[r]
+you that I can protect you.[pcms]
 
 *8296|
 [fc]
-Thank you, Ren. I'm sorry, Ren. On behalf of Dad and what I couldn't do for[r]
-Yuuho, I will protect you, Ren. I will show you that I can protect you.[pcms]
+Thank you, Ren. I'm sorry, Ren. On behalf of Dad and what I[r]
+couldn't do for Yuuho, I will protect you, Ren. I will show[r]
+you that I can protect you.[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る

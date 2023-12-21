@@ -19,7 +19,8 @@
 
 *1314|
 [fc]
-Maruko-senpai was rolling her eyes back, blood flowing from her mouth, dead.[pcms]
+Maruko-senpai was rolling her eyes back, blood flowing from[r]
+her mouth, dead.[pcms]
 
 *1315|
 [fc]
@@ -27,8 +28,8 @@ Her body was left with the brutal marks of violation.[pcms]
 
 *1316|
 [fc]
-Maruko-senpai, who was so strong... to think that she would be no match for[r]
-those men...[pcms]
+Maruko-senpai, who was so strong... to think that she would[r]
+be no match for those men...[pcms]
 
 ;//♂：この段階では呼び名は先輩かもしれません
 
@@ -47,15 +48,16 @@ Maybe...[pcms]
 
 *1320|
 [fc]
-I thought she might have been violently assaulted by the men, but I never[r]
-imagined they would kill her...[pcms]
+I thought she might have been violently assaulted by the[r]
+men, but I never imagined they would kill her...[pcms]
 
 [bg storage="BG019c"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
 
 *1321|
 [fc]
-A little away from the mattress, Jin-san's corpse was lying there.[pcms]
+A little away from the mattress, Jin-san's corpse was lying[r]
+there.[pcms]
 
 *1322|
 [fc]
@@ -63,11 +65,13 @@ Could it have been infighting?[pcms]
 
 *1323|
 [fc]
-If Jin-san had been the boss, maybe this wouldn't have happened...[pcms]
+If Jin-san had been the boss, maybe this wouldn't have[r]
+happened...[pcms]
 
 *1324|
 [fc]
-I don't know the circumstances, but maybe he was protecting everyone.[pcms]
+I don't know the circumstances, but maybe he was protecting[r]
+everyone.[pcms]
 
 *1325|
 [fc]
@@ -109,18 +113,20 @@ She's alive!? Is Ren alive!?[pcms]
 
 *1332|
 [fc]
-Kousuke and Mizuki, whom we had just said goodbye to, appeared from the spiral[r]
-staircase.[pcms]
+Kousuke and Mizuki, whom we had just said goodbye to,[r]
+appeared from the spiral staircase.[pcms]
 
 *1333|
 [fc]
-Just like me, they were at a loss for words at this tragic scene.[pcms]
+Just like me, they were at a loss for words at this tragic[r]
+scene.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1334|
 [fc]
-I don't know why they are here, but now is not the time to worry about that.[pcms]
+I don't know why they are here, but now is not the time to[r]
+worry about that.[pcms]
 
 [evcg storage="DEV014b"][trans_c cross time=300]
 
@@ -152,7 +158,8 @@ I don't know why they are here, but now is not the time to worry about that.[pcm
 [fc]
 [vo_ren s="ren_BE0028"]
 [ns]Ren[nse]
-"I tried so hard because I wanted to see you again, big brother."[pcms]
+"I tried so hard because I wanted to see you again, big[r]
+brother."[pcms]
 
 *1340|
 [fc]
@@ -292,7 +299,8 @@ I will... protect this warmth at all costs.[pcms]
 [fc]
 [vo_miz s="mizuki_BE0094"]
 [ns]Mizuki[nse]
-"No, I don't want to be apart anymore... Besides... I'm sure I also..."[pcms]
+"No, I don't want to be apart anymore... Besides... I'm sure[r]
+I also..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -323,8 +331,8 @@ Kousuke and Mizuki...[pcms]
 *1371|
 [fc]
 [ns]Kousuke[nse]
-"This is really goodbye. Don't worry about us and make sure to protect Ren-chan[r]
-properly."[pcms]
+"This is really goodbye. Don't worry about us and make sure[r]
+to protect Ren-chan properly."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -393,7 +401,8 @@ Looking down at the ground from the 7th floor of LASER.[pcms]
 ;
 ;	*1381|
 ;	[fc]
-Mizuki says she's scared, but strangely, I didn't feel any fear.[pcms]
+Mizuki says she's scared, but strangely, I didn't feel any[r]
+fear.[pcms]
 ;
 ;	*1382|
 ;	[fc]
@@ -401,12 +410,13 @@ Instead, I was captivated by the beauty of the dawn.[pcms]
 ;
 ;	*1383|
 ;	[fc]
-The quiet town below, and slowly rising sun beyond the buildings that looked[r]
-like tombstones.[pcms]
+The quiet town below, and slowly rising sun beyond the[r]
+buildings that looked like tombstones.[pcms]
 ;
 ;	*1384|
 ;	[fc]
-It was so beautiful that... Mizuki and I silently watched it.[pcms]
+It was so beautiful that... Mizuki and I silently watched[r]
+it.[pcms]
 ;
 ;	[black_toplayer][trans_c cross time=1000][hide_chara_int]
 ;
@@ -421,8 +431,8 @@ It was so beautiful that... Mizuki and I silently watched it.[pcms]
 ;
 ;	*1386|
 ;	[fc]
-While imprinting the piercing blue sky onto my eyelids, I tell Mizuki, the[r]
-person most important to me.[pcms]
+While imprinting the piercing blue sky onto my eyelids, I[r]
+tell Mizuki, the person most important to me.[pcms]
 ;
 ;	*1387|
 ;	[fc]
@@ -441,8 +451,8 @@ At those words, I couldn't help but laugh.[pcms]
 ;
 ;	*1390|
 ;	[fc]
-...But that's right, isn't it? It's not like there's nothing to be afraid of. We[r]
-are still... "human" after all.[pcms]
+...But that's right, isn't it? It's not like there's nothing[r]
+to be afraid of. We are still... "human" after all.[pcms]
 ;
 ;	;//★_DJ-BAR
 ;	;//<ChrInit>
@@ -455,8 +465,8 @@ I gently embraced the trembling Mizuki.[pcms]
 ;
 ;	*1392|
 ;	[fc]
-Warm... It was hard to believe that we were infected with the virus and that it[r]
-was all over for us.[pcms]
+Warm... It was hard to believe that we were infected with[r]
+the virus and that it was all over for us.[pcms]
 ;
 ;	*1393|
 ;	[fc]
@@ -472,7 +482,8 @@ was all over for us.[pcms]
 ;	*1395|
 ;	[fc]
 [ns]Kousuke[nse]
-"The next time we open our eyes, it will be when we are reborn."[pcms]
+"The next time we open our eyes, it will be when we are[r]
+reborn."[pcms]
 ;
 ;	*1396|
 ;	[fc]
@@ -493,11 +504,13 @@ was all over for us.[pcms]
 ;
 ;	*1399|
 ;	[fc]
-Mizuki buried her face in my chest and had a peaceful expression.[pcms]
+Mizuki buried her face in my chest and had a peaceful[r]
+expression.[pcms]
 ;
 ;	*1400|
 ;	[fc]
-She had a face completely at ease, entrusting everything to me.[pcms]
+She had a face completely at ease, entrusting everything to[r]
+me.[pcms]
 ;
 ;	*1401|
 ;	[fc]
@@ -529,7 +542,8 @@ I'm really sorry... Mizuki.[pcms]
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0064"]
 [ns]Mizuki[nse]
-"None at all, as long as I'm with Kousuke, that's enough for me."[pcms]
+"None at all, as long as I'm with Kousuke, that's enough for[r]
+me."[pcms]
 ;
 ;	*1407|
 ;	[fc]
@@ -538,7 +552,8 @@ I'm really sorry... Mizuki.[pcms]
 ;
 ;	*1408|
 ;	[fc]
-Holding Mizuki's body, I casually moved my footing to the side.[pcms]
+Holding Mizuki's body, I casually moved my footing to the[r]
+side.[pcms]
 ;
 ;	*1409|
 ;	[fc]
@@ -558,7 +573,8 @@ I hugged her body tightly.[pcms]
 ;
 ;	*1412|
 ;	[fc]
-Believing that when we next open our eyes... that moment will come.[pcms]
+Believing that when we next open our eyes... that moment[r]
+will come.[pcms]
 ;
 ;	;//♂：視点変更終了です。
 ;
@@ -581,11 +597,13 @@ There was no longer a gunfight happening on the first floor.[pcms]
 
 *1414|
 [fc]
-Shigeyoshi and the others, did they escape or were they taken down...[pcms]
+Shigeyoshi and the others, did they escape or were they[r]
+taken down...[pcms]
 
 *1415|
 [fc]
-As a result, the first floor of LASER was overrun with infected.[pcms]
+As a result, the first floor of LASER was overrun with[r]
+infected.[pcms]
 
 *1416|
 [fc]
@@ -593,7 +611,8 @@ Just one scratch from them and it's all over.[pcms]
 
 *1417|
 [fc]
-You become one of them, wandering around Shibuya from tomorrow.[pcms]
+You become one of them, wandering around Shibuya from[r]
+tomorrow.[pcms]
 
 *1418|
 [fc]
@@ -638,7 +657,8 @@ We might be able to survive.[pcms]
 
 *1427|
 [fc]
-I pulled the trigger on the infected that seemed to obstruct our path.[pcms]
+I pulled the trigger on the infected that seemed to obstruct[r]
+our path.[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -657,7 +677,8 @@ Screaming, I ran towards the emergency exit at full speed.[pcms]
 
 *1430|
 [fc]
-The slowly moving infected couldn't react to us as we dashed straight past them.[pcms]
+The slowly moving infected couldn't react to us as we dashed[r]
+straight past them.[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -671,7 +692,8 @@ I shot down the infected in our path.[pcms]
 
 *1432|
 [fc]
-And... what we saw as we burst out of the emergency exit was...[pcms]
+And... what we saw as we burst out of the emergency exit[r]
+was...[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 
@@ -703,8 +725,8 @@ By this point, there were no more infected in sight.[pcms]
 
 *1436|
 [fc]
-From the Shibuya River culvert, only the sound of water could be heard, no moans[r]
-of the infected or gunshots.[pcms]
+From the Shibuya River culvert, only the sound of water[r]
+could be heard, no moans of the infected or gunshots.[pcms]
 
 *1437|
 [fc]
@@ -740,8 +762,8 @@ The water didn't hinder our walk.[pcms]
 
 *1443|
 [fc]
-As we emerged from the culvert, the light of the midsummer sun began to shine on[r]
-us.[pcms]
+As we emerged from the culvert, the light of the midsummer[r]
+sun began to shine on us.[pcms]
 
 ;//♯_シロミから背景へ
 [white_toplayer][trans_c cross time=2000][hide_chara_int_w]
@@ -752,11 +774,13 @@ us.[pcms]
 
 *1444|
 [fc]
-We couldn't let our guard down until we entered the next culvert.[pcms]
+We couldn't let our guard down until we entered the next[r]
+culvert.[pcms]
 
 *1445|
 [fc]
-If spotted by an infected, we'd have to use our guns to take them down.[pcms]
+If spotted by an infected, we'd have to use our guns to take[r]
+them down.[pcms]
 
 *1446|
 [fc]
@@ -803,7 +827,8 @@ The same girl that Jin-san had brought along with Yuuho...[pcms]
 
 *1455|
 [fc]
-Yuuho, with an inscrutable expression, quietly waved her hand.[pcms]
+Yuuho, with an inscrutable expression, quietly waved her[r]
+hand.[pcms]
 
 *1456|
 [fc]
@@ -819,7 +844,8 @@ This... this isn't right...[pcms]
 
 *1459|
 [fc]
-I continued walking along the river, trying not to look at Yuuho.[pcms]
+I continued walking along the river, trying not to look at[r]
+Yuuho.[pcms]
 
 *1460|
 [fc]
@@ -827,7 +853,8 @@ Goodbye... Yuuho...[pcms]
 
 *1461|
 [fc]
-I bid farewell in my heart to Shibuya and its people who had raised me.[pcms]
+I bid farewell in my heart to Shibuya and its people who had[r]
+raised me.[pcms]
 
 ;//★_クロミ
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -866,7 +893,8 @@ I bid farewell in my heart to Shibuya and its people who had raised me.[pcms]
 [fc]
 ;//[vo_mob s="tomomi_BE0002"]
 [ns]Tomomi[nse]
-"That's nice... I wonder if I'll ever be able to meet them again."[pcms]
+"That's nice... I wonder if I'll ever be able to meet them[r]
+again."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -918,8 +946,8 @@ The two girls walked towards the city.[pcms]
 
 *1467|
 [fc]
-They seemed somehow different from the infected who were only interested in[r]
-hunger and lust.[pcms]
+They seemed somehow different from the infected who were[r]
+only interested in hunger and lust.[pcms]
 
 *1468|
 [fc]
@@ -931,8 +959,8 @@ However...[pcms]
 
 *1470|
 [fc]
-The two disappeared towards the center of Shibuya, where the hordes of infected[r]
-gathered.[pcms]
+The two disappeared towards the center of Shibuya, where the[r]
+hordes of infected gathered.[pcms]
 
 ;//★_クロミ
 ;//●ゲームオーバー

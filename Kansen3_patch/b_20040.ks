@@ -54,12 +54,13 @@
 
 *4201|
 [fc]
-After waiting for a while, Maruko-senpai came down from the elevator.[pcms]
+After waiting for a while, Maruko-senpai came down from the[r]
+elevator.[pcms]
 
 *4202|
 [fc]
-Her cheeks were a bit more flushed than usual. She had a somewhat vacant look in[r]
-her eyes...[pcms]
+Her cheeks were a bit more flushed than usual. She had a[r]
+somewhat vacant look in her eyes...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -71,12 +72,13 @@ her eyes...[pcms]
 
 *4204|
 [fc]
-The moment she noticed the lights in Arcadia were off, a sharp look of caution[r]
-flashed in senpai's eyes.[pcms]
+The moment she noticed the lights in Arcadia were off, a[r]
+sharp look of caution flashed in senpai's eyes.[pcms]
 
 *4205|
 [fc]
-That stern gaze was directed from the entrance to the counter...[pcms]
+That stern gaze was directed from the entrance to the[r]
+counter...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -90,7 +92,8 @@ That stern gaze was directed from the entrance to the counter...[pcms]
 
 *4207|
 [fc]
-She rushed over to Yuuho, who was collapsed in front of the counter.[pcms]
+She rushed over to Yuuho, who was collapsed in front of the[r]
+counter.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -98,8 +101,8 @@ She rushed over to Yuuho, who was collapsed in front of the counter.[pcms]
 [fc]
 [vo_mar s="maru_KB0004"]
 [ns]Margarita[nse]
-"What happened, Kannagi! Pull yourself together! Where's Wataru!? Weren't you[r]
-here to take care of him!?"[pcms]
+"What happened, Kannagi! Pull yourself together! Where's[r]
+Wataru!? Weren't you here to take care of him!?"[pcms]
 ;//ÅöÉZÉäÉtà íuÇÇ–Ç∆Ç¬ëOÇ…Ç∏ÇÁÇµÇ‹ÇµÇΩ
 
 [ChrSetEx layer=5 chbase="yuho_e32"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -112,8 +115,8 @@ here to take care of him!?"[pcms]
 
 *4210|
 [fc]
-Yuuho, being lifted up, clung tightly to senpai. She firmly grabbed onto her[r]
-clothes as if not to let go.[pcms]
+Yuuho, being lifted up, clung tightly to senpai. She firmly[r]
+grabbed onto her clothes as if not to let go.[pcms]
 
 *4211|
 [fc]
@@ -130,8 +133,8 @@ clothes as if not to let go.[pcms]
 
 *4213|
 [fc]
-We, who had been hiding by the wall and watching, surged towards Maruko-senpai[r]
-like an avalanche...[pcms]
+We, who had been hiding by the wall and watching, surged[r]
+towards Maruko-senpai like an avalanche...[pcms]
 
 [fadeoutbgm time=500]
 
@@ -160,14 +163,15 @@ like an avalanche...[pcms]
 
 *4215|
 [fc]
-Maruko-senpai, pinned down on the Arcadia counter, glared at us with a look of[r]
-intense confusion.[pcms]
+Maruko-senpai, pinned down on the Arcadia counter, glared at[r]
+us with a look of intense confusion.[pcms]
 
 *4216|
 [fc]
-Since everyone was grabbing senpai's arms from the other side of the counter,[r]
-she shouldn't be able to resist properly... but still, her will to resist didn't[r]
-seem to fade.[pcms]
+Since everyone was grabbing senpai's arms from the other[r]
+side of the counter, she shouldn't be able to resist[r]
+properly... but still, her will to resist didn't seem to[r]
+fade.[pcms]
 
 *4217|
 [fc]
@@ -180,13 +184,14 @@ seem to fade.[pcms]
 [fc]
 [vo_mar s="maru_KB0007"]
 [ns]Margarita[nse]
-"Wataru!? What are you saying...!!?? Could it be, you guys...!!?"[pcms]
+"Wataru!? What are you saying...!!?? Could it be, you[r]
+guys...!!?"[pcms]
 
 *4219|
 [fc]
-Maruko-senpai changed her expression quickly after looking into my eyes, and[r]
-then after checking the color of Yuuho and Mizuki's eyes, she trembled with[r]
-shock.[pcms]
+Maruko-senpai changed her expression quickly after looking[r]
+into my eyes, and then after checking the color of Yuuho and[r]
+Mizuki's eyes, she trembled with shock.[pcms]
 
 *4220|
 [fc]
@@ -200,18 +205,20 @@ We report with a smile.[pcms]
 *4222|
 [fc]
 [ns]Wataru[nse]
-"But there's nothing to be afraid of. All fear and anxiety disappeared, and I[r]
-feel really good... We won't age or get sick... this is heaven!"[pcms]
+"But there's nothing to be afraid of. All fear and anxiety[r]
+disappeared, and I feel really good... We won't age or get[r]
+sick... this is heaven!"[pcms]
 
 *4223|
 [fc]
 [ns]Wataru[nse]
-"We finally understand. This was indeed 'salvation.' So, senpai, please come to[r]
-our world too!"[pcms]
+"We finally understand. This was indeed 'salvation.' So,[r]
+senpai, please come to our world too!"[pcms]
 
 *4224|
 [fc]
-Despite our earnest persuasion, Maruko-senpai glared at me with piercing eyes.[pcms]
+Despite our earnest persuasion, Maruko-senpai glared at me[r]
+with piercing eyes.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -252,19 +259,19 @@ With a satisfying sound, the joint in her crotch dislocated.[pcms]
 
 *4231|
 [fc]
-Emitting a roar that didn't seem human, Maruko-senpai's body thrashed like a[r]
-fish.[pcms]
+Emitting a roar that didn't seem human, Maruko-senpai's body[r]
+thrashed like a fish.[pcms]
 
 *4232|
 [fc]
 [ns]Wataru[nse]
-"I can't let my guard down with you as an opponent, senpai. Now you'll be a bit[r]
-more manageable, right?"[pcms]
+"I can't let my guard down with you as an opponent, senpai.[r]
+Now you'll be a bit more manageable, right?"[pcms]
 
 *4233|
 [fc]
-I pressed the dislocated joint and rubbed the cartilage together as if playing[r]
-with it.[pcms]
+I pressed the dislocated joint and rubbed the cartilage[r]
+together as if playing with it.[pcms]
 
 [ê‘ÉtÉâ]
 
@@ -278,14 +285,16 @@ with it.[pcms]
 
 *4235|
 [fc]
-In excruciating pain that left her unable to breathe, senpai's eyes bulged out[r]
-as she foamed at the mouth and made strange noises.[pcms]
+In excruciating pain that left her unable to breathe,[r]
+senpai's eyes bulged out as she foamed at the mouth and made[r]
+strange noises.[pcms]
 
 *4236|
 [fc]
 [ns]Wataru[nse]
-"Such an unseemly scream, senpai. You always have such a noble image. Ah, but[r]
-maybe this kind of gap isn't so bad... Let me hear more."[pcms]
+"Such an unseemly scream, senpai. You always have such a[r]
+noble image. Ah, but maybe this kind of gap isn't so bad...[r]
+Let me hear more."[pcms]
 
 [ê‘ÉtÉâ]
 
@@ -299,14 +308,15 @@ maybe this kind of gap isn't so bad... Let me hear more."[pcms]
 
 *4238|
 [fc]
-Unable to move due to the intense pain, senpai still managed to glare sharply at[r]
-us without showing any signs of surrendering.[pcms]
+Unable to move due to the intense pain, senpai still managed[r]
+to glare sharply at us without showing any signs of[r]
+surrendering.[pcms]
 
 *4239|
 [fc]
 [ns]Wataru[nse]
-"This is troublesome. If you don't behave, I can't do anything nice for you...[r]
-Should I force you?"[pcms]
+"This is troublesome. If you don't behave, I can't do[r]
+anything nice for you... Should I force you?"[pcms]
 
 *4240|
 [fc]
@@ -319,19 +329,20 @@ I placed my hand on senpai's crotch.[pcms]
 
 *4242|
 [fc]
-Pulling my hand back, I looked closely. There was no doubt that my fingertips[r]
-were glistening with her love juices.[pcms]
+Pulling my hand back, I looked closely. There was no doubt[r]
+that my fingertips were glistening with her love juices.[pcms]
 
 *4243|
 [fc]
 [ns]Wataru[nse]
-"Wow, amazing! To think you're getting wet even though you're in such a[r]
-situation, Maruko-senpai is such a pervert!?"[pcms]
+"Wow, amazing! To think you're getting wet even though[r]
+you're in such a situation, Maruko-senpai is such a[r]
+pervert!?"[pcms]
 
 *4244|
 [fc]
-I held my fingertips up to senpai's nose as if showing them off. Maruko-senpai[r]
-bit her lip and looked away.[pcms]
+I held my fingertips up to senpai's nose as if showing them[r]
+off. Maruko-senpai bit her lip and looked away.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_d4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -339,7 +350,8 @@ bit her lip and looked away.[pcms]
 [fc]
 [vo_miz s="mizuki_KB0041"]
 [ns]Mizuki[nse]
-"Marie-san was that kind of person, huh~. That's really disappointing~"[pcms]
+"Marie-san was that kind of person, huh~. That's really[r]
+disappointing~"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_e3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -351,8 +363,9 @@ bit her lip and looked away.[pcms]
 
 *4247|
 [fc]
-Yuuho and Mizuki exchanged disappointed looks. Next to them, Ren had a slightly[r]
-mischievous smile as if she found it amusing.[pcms]
+Yuuho and Mizuki exchanged disappointed looks. Next to them,[r]
+Ren had a slightly mischievous smile as if she found it[r]
+amusing.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -360,8 +373,8 @@ mischievous smile as if she found it amusing.[pcms]
 [fc]
 [vo_ren s="ren_KB0047"]
 [ns]Ren[nse]
-"Maybe you were reading some naughty girl comics and got excited... weren't[r]
-you...?"[pcms]
+"Maybe you were reading some naughty girl comics and got[r]
+excited... weren't you...?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -373,20 +386,20 @@ you...?"[pcms]
 
 *4250|
 [fc]
-Senpai's words of denial were the only thing coming out of her mouth, but her[r]
-tone had become considerably weaker.[pcms]
+Senpai's words of denial were the only thing coming out of[r]
+her mouth, but her tone had become considerably weaker.[pcms]
 
 *4251|
 [fc]
 [ns]Wataru[nse]
-"Looks like you're getting wet, senpai, and you seem pretty weak now, so I guess[r]
-it's about time I do it."[pcms]
+"Looks like you're getting wet, senpai, and you seem pretty[r]
+weak now, so I guess it's about time I do it."[pcms]
 
 *4252|
 [fc]
-I leisurely took out my dick and pressed it against her toned butt, hidden[r]
-beneath her trained body without an ounce of excess fat, and pushed into her[r]
-hidden crotch.[pcms]
+I leisurely took out my dick and pressed it against her[r]
+toned butt, hidden beneath her trained body without an ounce[r]
+of excess fat, and pushed into her hidden crotch.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//ÇbÅFîjâZÇÃÉ}Éã
@@ -406,23 +419,25 @@ I pierced her to the very back in one go.[pcms]
 
 *4255|
 [fc]
-There was a slight resistance, but I forcefully broke through it, tearing[r]
-through the soft flesh and striking right up to her womb.[pcms]
+There was a slight resistance, but I forcefully broke[r]
+through it, tearing through the soft flesh and striking[r]
+right up to her womb.[pcms]
 
 *4256|
 [fc]
 [ns]Wataru[nse]
-"Wow, this is amazing. When the hip joint is dislocated, it goes in so deep. I'm[r]
-so moved."[pcms]
+"Wow, this is amazing. When the hip joint is dislocated, it[r]
+goes in so deep. I'm so moved."[pcms]
 
 *4257|
 [fc]
-As I slapped her abnormally bent thighs, I couldn't help but be overjoyed.[pcms]
+As I slapped her abnormally bent thighs, I couldn't help but[r]
+be overjoyed.[pcms]
 
 *4258|
 [fc]
-Thanks to pushing it in all the way to the base, my entire dick was tightly[r]
-squeezed and felt incredibly good.[pcms]
+Thanks to pushing it in all the way to the base, my entire[r]
+dick was tightly squeezed and felt incredibly good.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -434,8 +449,8 @@ squeezed and felt incredibly good.[pcms]
 
 *4260|
 [fc]
-As senpai gasped for breath with rolled-back eyes, fresh blood began to flow[r]
-from her crotch.[pcms]
+As senpai gasped for breath with rolled-back eyes, fresh[r]
+blood began to flow from her crotch.[pcms]
 
 *4261|
 [fc]
@@ -444,17 +459,20 @@ from her crotch.[pcms]
 
 *4262|
 [fc]
-I thought foreigners were advanced and had lost their virginity long ago.[pcms]
+I thought foreigners were advanced and had lost their[r]
+virginity long ago.[pcms]
 
 *4263|
 [fc]
-The intense tightness from before wasn't just because her body was well-trained[r]
-but also because it was her first time.[pcms]
+The intense tightness from before wasn't just because her[r]
+body was well-trained but also because it was her first[r]
+time.[pcms]
 
 *4264|
 [fc]
 [ns]Wataru[nse]
-"Then I have to work even harder. I'm going to start for real now."[pcms]
+"Then I have to work even harder. I'm going to start for[r]
+real now."[pcms]
 
 *4265|
 [fc]
@@ -473,8 +491,8 @@ I shook my hips and challenged senpai's body.[pcms]
 
 *4267|
 [fc]
-As my hips began to move again, groans of pain started leaking from senpai's[r]
-lips.[pcms]
+As my hips began to move again, groans of pain started[r]
+leaking from senpai's lips.[pcms]
 
 *4268|
 [fc]
@@ -483,25 +501,27 @@ lips.[pcms]
 
 *4269|
 [fc]
-As senpai's womb tightened around me from the base up, I narrowed my eyes in[r]
-ecstasy.[pcms]
+As senpai's womb tightened around me from the base up, I[r]
+narrowed my eyes in ecstasy.[pcms]
 
 *4270|
 [fc]
-It felt somewhat similar to being inside Yuuho, but senpai was a bit more wild[r]
-and rough. Especially the contraction at the entrance was so intense that I[r]
-could come at any moment if I wasn't careful.[pcms]
+It felt somewhat similar to being inside Yuuho, but senpai[r]
+was a bit more wild and rough. Especially the contraction at[r]
+the entrance was so intense that I could come at any moment[r]
+if I wasn't careful.[pcms]
 
 *4271|
 [fc]
-Her skin was a faint white with a hint of blush, and her nipples and the[r]
-entrance to her vagina were a really beautiful light peach color due to the[r]
-light pigmentation.[pcms]
+Her skin was a faint white with a hint of blush, and her[r]
+nipples and the entrance to her vagina were a really[r]
+beautiful light peach color due to the light pigmentation.[pcms]
 
 *4272|
 [fc]
-Not just in appearance but her entire body was toned, so no matter how I thrust[r]
-into her, it bounced back with amazing elasticity.[pcms]
+Not just in appearance but her entire body was toned, so no[r]
+matter how I thrust into her, it bounced back with amazing[r]
+elasticity.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -509,19 +529,21 @@ into her, it bounced back with amazing elasticity.[pcms]
 [fc]
 [vo_mar s="maru_KB0016"]
 [ns]Margarita[nse]
-"Uuu...I don't want this! Ugh ugh... Such a nightmare, I will never accept[r]
-it...!!"[pcms]
+"Uuu...I don't want this! Ugh ugh... Such a nightmare, I[r]
+will never accept it...!!"[pcms]
 ;//Åóîºï™ãÉÇ´
 
 *4274|
 [fc]
-Her lips twisted in frustration seemed to be injured as blood oozed out. Tears[r]
-began to spill from her trembling eyes filled with despair.[pcms]
+Her lips twisted in frustration seemed to be injured as[r]
+blood oozed out. Tears began to spill from her trembling[r]
+eyes filled with despair.[pcms]
 
 *4275|
 [fc]
-However, it seemed she hadn't lost the will to resist yet, as she writhed and[r]
-struggled with her body that couldn't move freely.[pcms]
+However, it seemed she hadn't lost the will to resist yet,[r]
+as she writhed and struggled with her body that couldn't[r]
+move freely.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -529,7 +551,8 @@ struggled with her body that couldn't move freely.[pcms]
 [fc]
 [vo_ren s="ren_KB0048"]
 [ns]Ren[nse]
-"Yaaa...! Big brother is getting the smell of another woman on him...!"[pcms]
+"Yaaa...! Big brother is getting the smell of another woman[r]
+on him...!"[pcms]
 
 *4277|
 [fc]
@@ -541,8 +564,8 @@ Ren puffed up her cheeks and shifted around discontentedly.[pcms]
 [fc]
 [vo_ren s="ren_KB0049"]
 [ns]Ren[nse]
-"Maruko-senpai...! Please try harder and shake your butt! Hurry up and make big[r]
-brother come and get off him!"[pcms]
+"Maruko-senpai...! Please try harder and shake your butt![r]
+Hurry up and make big brother come and get off him!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -550,7 +573,8 @@ brother come and get off him!"[pcms]
 [fc]
 [vo_mar s="maru_KB0017"]
 [ns]Margarita[nse]
-"Fuh... Don't joke around! Stop it! Aguuuuuuh!! Stop it... you monster!"[pcms]
+"Fuh... Don't joke around! Stop it! Aguuuuuuh!! Stop it...[r]
+you monster!"[pcms]
 ;//Åóîºï™ãÉÇ´
 
 *4280|
@@ -565,12 +589,14 @@ I smiled at Ren.[pcms]
 *4282|
 [fc]
 [ns]Wataru[nse]
-"To be able to feed such a beautiful person my thick milk, I'm really lucky."[pcms]
+"To be able to feed such a beautiful person my thick milk,[r]
+I'm really lucky."[pcms]
 
 *4283|
 [fc]
-While fully enjoying the sensation of being stroked by her trained muscles, I[r]
-gradually increased the speed of my thrusts.[pcms]
+While fully enjoying the sensation of being stroked by her[r]
+trained muscles, I gradually increased the speed of my[r]
+thrusts.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -578,29 +604,32 @@ gradually increased the speed of my thrusts.[pcms]
 [fc]
 [vo_mar s="maru_KB0018"]
 [ns]Margarita[nse]
-"I don't want this! Stop it! Stop it...! Anything but that... I don't want it![r]
-Stop it...!"[pcms]
+"I don't want this! Stop it! Stop it...! Anything but[r]
+that... I don't want it! Stop it...!"[pcms]
 ;//Åóîºï™ãÉÇ´
 
 *4285|
 [fc]
-Despite barely being able to move her lower half, Maruko-senpai suddenly started[r]
-thrashing about.[pcms]
+Despite barely being able to move her lower half, Maruko-[r]
+senpai suddenly started thrashing about.[pcms]
 
 *4286|
 [fc]
-The vibrations and undulations transmitted to my meat pot only made me happier.[pcms]
+The vibrations and undulations transmitted to my meat pot[r]
+only made me happier.[pcms]
 
 *4287|
 [fc]
 [ns]Wataru[nse]
-"Senpai really has such light skin. I bet even your womb is a beautiful pink.[r]
-I'll dirty it for you, so make sure you get pregnant."[pcms]
+"Senpai really has such light skin. I bet even your womb is[r]
+a beautiful pink. I'll dirty it for you, so make sure you[r]
+get pregnant."[pcms]
 
 *4288|
 [fc]
-Feeling something rapidly rising within me, I grabbed the white flesh of her[r]
-butt with both hands and slammed my hips against her.[pcms]
+Feeling something rapidly rising within me, I grabbed the[r]
+white flesh of her butt with both hands and slammed my hips[r]
+against her.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -608,13 +637,15 @@ butt with both hands and slammed my hips against her.[pcms]
 [fc]
 [vo_mar s="maru_KB0019"]
 [ns]Margarita[nse]
-"Stop, stop it! Please stop! Don't move, stop it! Anything but that ahhhh!"[pcms]
+"Stop, stop it! Please stop! Don't move, stop it! Anything[r]
+but that ahhhh!"[pcms]
 ;//Åóîºï™ãÉÇ´
 
 *4290|
 [fc]
-Senpai shook violently all over. Whether it was from pleasure or disgust, I[r]
-couldn't tell. But that stimulation became the final trigger for me.[pcms]
+Senpai shook violently all over. Whether it was from[r]
+pleasure or disgust, I couldn't tell. But that stimulation[r]
+became the final trigger for me.[pcms]
 
 *4291|
 [fc]
@@ -639,13 +670,13 @@ I thrust into senpai's womb with all my weight behind it.[pcms]
 
 *4294|
 [fc]
-I penetrated as deep as possible until my glans was buried in the cervix and[r]
-released all my desire at once.[pcms]
+I penetrated as deep as possible until my glans was buried[r]
+in the cervix and released all my desire at once.[pcms]
 
 *4295|
 [fc]
-The magma that had built up erupted inside senpai's womb, showering her with hot[r]
-splashes again and again.[pcms]
+The magma that had built up erupted inside senpai's womb,[r]
+showering her with hot splashes again and again.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -661,22 +692,25 @@ In an agonized scream, Maruko-senpai arched back greatly.[pcms]
 
 *4298|
 [fc]
-The angle of the meat tunnel changed and an incredibly tight squeeze attacked me[r]
-from the base to the tip as if biting off.[pcms]
+The angle of the meat tunnel changed and an incredibly tight[r]
+squeeze attacked me from the base to the tip as if biting[r]
+off.[pcms]
 
 *4299|
 [fc]
 [ns]Wataru[nse]
-"Wa, wa, wa, amazing...! If you do that, I'm going to... again...!"[pcms]
+"Wa, wa, wa, amazing...! If you do that, I'm going to...[r]
+again...!"[pcms]
 
 *4300|
 [fc]
-The ejaculation that had almost lost its momentum started again.[pcms]
+The ejaculation that had almost lost its momentum started[r]
+again.[pcms]
 
 *4301|
 [fc]
-I even doubted if it was semen or pee because I released it so forcefully deep[r]
-into senpai's vagina.[pcms]
+I even doubted if it was semen or pee because I released it[r]
+so forcefully deep into senpai's vagina.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -689,8 +723,8 @@ into senpai's vagina.[pcms]
 
 *4303|
 [fc]
-Drenched in an enormous amount of love juices, senpai was sobbing as if she was[r]
-half-conscious.[pcms]
+Drenched in an enormous amount of love juices, senpai was[r]
+sobbing as if she was half-conscious.[pcms]
 
 *4304|
 [fc]
@@ -702,18 +736,19 @@ Finally, the last drop trickled out from inside me.[pcms]
 *4305|
 [fc]
 [ns]Wataru[nse]
-"That was amazing, senpai. Is it because the quality of your muscles is[r]
-different? Look, it's still twitching, isn't it?"[pcms]
+"That was amazing, senpai. Is it because the quality of your[r]
+muscles is different? Look, it's still twitching, isn't it?"[pcms]
 
 *4306|
 [fc]
-Even after I finished ejaculating, I stayed buried inside senpai for a while,[r]
-enjoying the gradual shrinkage of my penis.[pcms]
+Even after I finished ejaculating, I stayed buried inside[r]
+senpai for a while, enjoying the gradual shrinkage of my[r]
+penis.[pcms]
 
 *4307|
 [fc]
-Just when it started to get smaller, senpai would squeeze tightly, making it[r]
-hard for me to calm down.[pcms]
+Just when it started to get smaller, senpai would squeeze[r]
+tightly, making it hard for me to calm down.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -726,8 +761,8 @@ hard for me to calm down.[pcms]
 
 *4309|
 [fc]
-With trembling lips in humiliation, senpai tearfully begged. But for me, just a[r]
-little longer...[pcms]
+With trembling lips in humiliation, senpai tearfully begged.[r]
+But for me, just a little longer...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -744,8 +779,8 @@ little longer...[pcms]
 
 *4312|
 [fc]
-Ren glared at me with eyes that seemed ready to devour me, so I reluctantly[r]
-decided to pull away from senpai's butt.[pcms]
+Ren glared at me with eyes that seemed ready to devour me,[r]
+so I reluctantly decided to pull away from senpai's butt.[pcms]
 
 ;//ÇeÅFê∏âtó¨èo
 [evcg storage="HEV040f"][trans_c cross time=300]
@@ -756,13 +791,14 @@ With a slightly pitiful sound, my penis slipped out.[pcms]
 
 *4314|
 [fc]
-The semen I released and the honey and virgin blood that overflowed from senpai[r]
-mixed together and spilled out in a messy flow.[pcms]
+The semen I released and the honey and virgin blood that[r]
+overflowed from senpai mixed together and spilled out in a[r]
+messy flow.[pcms]
 
 *4315|
 [fc]
-A considerable amount of fluid spilled onto the floor, but most of the semen[r]
-should still be inside senpai's belly.[pcms]
+A considerable amount of fluid spilled onto the floor, but[r]
+most of the semen should still be inside senpai's belly.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -770,7 +806,8 @@ should still be inside senpai's belly.[pcms]
 [fc]
 [vo_mar s="maru_KB0024"]
 [ns]Margarita[nse]
-"Uuu... I don't want this... to be impregnated by a... monster..."[pcms]
+"Uuu... I don't want this... to be impregnated by a...[r]
+monster..."[pcms]
 ;//ÅóãÉÇ´Ç™ì¸ÇÈ
 
 *4317|
@@ -785,8 +822,9 @@ I couldn't ignore that word and peered into senpai's face.[pcms]
 *4319|
 [fc]
 [ns]Wataru[nse]
-"That's not true. We are the real humans. Humans who have discarded lies,[r]
-pretense, and deceit to embrace the truth...!"[pcms]
+"That's not true. We are the real humans. Humans who have[r]
+discarded lies, pretense, and deceit to embrace the[r]
+truth...!"[pcms]
 
 *4320|
 [fc]
@@ -801,7 +839,8 @@ Senpai looked at me with a vacant gaze.[pcms]
 
 *4322|
 [fc]
-Senpai's eyes dyed a crimson red as if they were brushed with vermilion.[pcms]
+Senpai's eyes dyed a crimson red as if they were brushed[r]
+with vermilion.[pcms]
 
 *4323|
 [fc]
@@ -810,8 +849,9 @@ Senpai's eyes dyed a crimson red as if they were brushed with vermilion.[pcms]
 
 *4324|
 [fc]
-Senpai's bright red eyes widened in astonishment... And the next moment, as if[r]
-everything clicked into place, she formed a smile.[pcms]
+Senpai's bright red eyes widened in astonishment... And the[r]
+next moment, as if everything clicked into place, she formed[r]
+a smile.[pcms]
 
 [bg storage="BG020b"][trans_c cross time=500]
 
@@ -827,7 +867,8 @@ everything clicked into place, she formed a smile.[pcms]
 *4326|
 [fc]
 [ns]Wataru[nse]
-"You understand now, don't you, senpai! Now you're one of us!"[pcms]
+"You understand now, don't you, senpai! Now you're one of[r]
+us!"[pcms]
 
 
 ;mm
@@ -839,23 +880,24 @@ everything clicked into place, she formed a smile.[pcms]
 
 *4327|
 [fc]
-Finally... our group was complete. Genuine companions bound by peace of mind...[pcms]
+Finally... our group was complete. Genuine companions bound[r]
+by peace of mind...[pcms]
 
 ;[chara_int][trans_c cross time=150]
 
 *4328|
 [fc]
 [ns]Wataru[nse]
-"From now on, there's nothing to fear or be scared of...! Ahahahaha, hee-hahaha,[r]
-hahaha!"[pcms]
+"From now on, there's nothing to fear or be scared of...![r]
+Ahahahaha, hee-hahaha, hahaha!"[pcms]
 
 
 *4329|
 [fc]
 [vo_mob s="itidou0006"]
 [ns]Everyone[nse]
-"...Fuwahahahaha, ahaha, hee-heeheehee... kyaha, ahahahahahaha, ahaha, fuwah-[r]
-hahahahaha...!"[pcms]
+"...Fuwahahahaha, ahaha, hee-heeheehee... kyaha,[r]
+ahahahahahaha, ahaha, fuwah- hahahahaha...!"[pcms]
 
 *4330|
 [fc]
@@ -870,18 +912,18 @@ A contented and bright laughter echoed as if bursting forth.[pcms]
 
 *4332|
 [fc]
-This utopia must be the "somewhere that isn't here" that I've been searching[r]
-for.[pcms]
+This utopia must be the "somewhere that isn't here" that[r]
+I've been searching for.[pcms]
 
 *4333|
 [fc]
-What a fun and wonderful place. I want to live here forever and ever with my[r]
-precious companions.[pcms]
+What a fun and wonderful place. I want to live here forever[r]
+and ever with my precious companions.[pcms]
 
 *4334|
 [fc]
-In this wonderful world, with my friends, forever and ever, just having fun and[r]
-relaxing.[pcms]
+In this wonderful world, with my friends, forever and ever,[r]
+just having fun and relaxing.[pcms]
 
 *4335|
 [fc]

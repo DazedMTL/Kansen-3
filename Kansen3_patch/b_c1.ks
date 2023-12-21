@@ -22,9 +22,9 @@ I'm worried about Yuuho! Let's go to the gym!![pcms]
 
 *4458|
 [fc]
-I skillfully avoided the eyes of those wandering around on the second floor,[r]
-passed in front of the library, and made it to the stairs leading to the[r]
-entrance of the gym.[pcms]
+I skillfully avoided the eyes of those wandering around on[r]
+the second floor, passed in front of the library, and made[r]
+it to the stairs leading to the entrance of the gym.[pcms]
 
 ;//BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -32,13 +32,13 @@ entrance of the gym.[pcms]
 
 *4459|
 [fc]
-As I move stealthily like this, I'm reminded of the protagonist from a game I[r]
-used to play.[pcms]
+As I move stealthily like this, I'm reminded of the[r]
+protagonist from a game I used to play.[pcms]
 
 *4460|
 [fc]
-That protagonist would act calmly even in a situation like this, hiding and[r]
-moving behind cardboard boxes...[pcms]
+That protagonist would act calmly even in a situation like[r]
+this, hiding and moving behind cardboard boxes...[pcms]
 
 *4461|
 [fc]
@@ -46,17 +46,18 @@ moving behind cardboard boxes...[pcms]
 
 *4462|
 [fc]
-But of course, there aren't conveniently placed cardboard boxes lying around the[r]
-school, and even if there were, they wouldn't be big enough for me to fit in and[r]
-hide. That's the tough part.[pcms]
+But of course, there aren't conveniently placed cardboard[r]
+boxes lying around the school, and even if there were, they[r]
+wouldn't be big enough for me to fit in and hide. That's the[r]
+tough part.[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4463|
 [fc]
-To distract myself from the fear, I thought about such things as I slowly[r]
-descended the stairs. And then...[pcms]
+To distract myself from the fear, I thought about such[r]
+things as I slowly descended the stairs. And then...[pcms]
 
 ;//BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -71,7 +72,8 @@ descended the stairs. And then...[pcms]
 *4465|
 [fc]
 [ns]Infected Man A[nse]
-"Gyahahaha! She's delighting in having my dick shoved into her pussy!"[pcms]
+"Gyahahaha! She's delighting in having my dick shoved into[r]
+her pussy!"[pcms]
 
 *4466|
 [fc]
@@ -92,14 +94,16 @@ descended the stairs. And then...[pcms]
 *4469|
 [fc]
 [ns]Infected Man D[nse]
-"Can't hold back anymore. Look, I'm gonna cover your whole body with my cum!"[pcms]
+"Can't hold back anymore. Look, I'm gonna cover your whole[r]
+body with my cum!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV015a"]
 
 *4470|
 [fc]
-At the entrance of the gym, I saw female students being attacked by men.[pcms]
+At the entrance of the gym, I saw female students being[r]
+attacked by men.[pcms]
 
 *4471|
 [fc]
@@ -113,8 +117,9 @@ At the entrance of the gym, I saw female students being attacked by men.[pcms]
 
 *4473|
 [fc]
-The voice I inadvertently raised caught their attention, and one of them turned[r]
-to look at me, blowing away the last of my rationality.[pcms]
+The voice I inadvertently raised caught their attention, and[r]
+one of them turned to look at me, blowing away the last of[r]
+my rationality.[pcms]
 
 *4474|
 [fc]
@@ -144,8 +149,8 @@ The place was overflowing with people.[pcms]
 
 *4479|
 [fc]
-People with red eyes, and even those without red eyes yet were thrusting their[r]
-hips like madmen.[pcms]
+People with red eyes, and even those without red eyes yet[r]
+were thrusting their hips like madmen.[pcms]
 
 *4480|
 [fc]
@@ -172,7 +177,8 @@ I don't know. I can't tell anymore.[pcms]
 
 *4485|
 [fc]
-All I know is that in front of me, countless arms are reaching out towards me.[pcms]
+All I know is that in front of me, countless arms are[r]
+reaching out towards me.[pcms]
 
 *4486|
 [fc]

@@ -35,13 +35,13 @@
 
 *2|
 [fc]
-The lunch menu consists of rice, miso soup, stir-fried meat and vegetables,[r]
-salad, and tamagoyaki.[pcms]
+The lunch menu consists of rice, miso soup, stir-fried meat[r]
+and vegetables, salad, and tamagoyaki.[pcms]
 
 *3|
 [fc]
-It seems Ren and Mizuki were eager to cook since they got their hands on fresh[r]
-vegetables and eggs.[pcms]
+It seems Ren and Mizuki were eager to cook since they got[r]
+their hands on fresh vegetables and eggs.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -61,13 +61,14 @@ vegetables and eggs.[pcms]
 
 *6|
 [fc]
-Looking over, there's a plate of stir-fried vegetables without meat prepared[r]
-especially for Jin-san.[pcms]
+Looking over, there's a plate of stir-fried vegetables[r]
+without meat prepared especially for Jin-san.[pcms]
 
 *7|
 [fc]
-Of course... a portion for Yuuho is also prepared at the table, but she's[r]
-nowhere to be seen, probably still asleep as usual.[pcms]
+Of course... a portion for Yuuho is also prepared at the[r]
+table, but she's nowhere to be seen, probably still asleep[r]
+as usual.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -95,8 +96,8 @@ nowhere to be seen, probably still asleep as usual.[pcms]
 
 *11|
 [fc]
-Despite our worries, the meal is delicious... We finish lunch in a pleasant[r]
-atmosphere.[pcms]
+Despite our worries, the meal is delicious... We finish[r]
+lunch in a pleasant atmosphere.[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -113,38 +114,40 @@ atmosphere.[pcms]
 
 *13|
 [fc]
-Kousuke, with his belly visibly more swollen than before the meal, sprawls out[r]
-long on the chair and lies down.[pcms]
+Kousuke, with his belly visibly more swollen than before the[r]
+meal, sprawls out long on the chair and lies down.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *14|
 [fc]
 [ns]Kousuke[nse]
-"So, what are we doing after this? Oh, Wataru will go visit her first, right?"[pcms]
+"So, what are we doing after this? Oh, Wataru will go visit[r]
+her first, right?"[pcms]
 
 *15|
 [fc]
 [ns]Wataru[nse]
-"Yeah... since we've finished moving stuff and there's no news."[pcms]
+"Yeah... since we've finished moving stuff and there's no[r]
+news."[pcms]
 
 *16|
 [fc]
-The updates on the mobile site aren't that frequent either, so there doesn't[r]
-seem to be any need to check in a hurry.[pcms]
+The updates on the mobile site aren't that frequent either,[r]
+so there doesn't seem to be any need to check in a hurry.[pcms]
 
 *17|
 [fc]
-We discuss various things and decide to spend the afternoon looking around the[r]
-shops inside LASER.[pcms]
+We discuss various things and decide to spend the afternoon[r]
+looking around the shops inside LASER.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *18|
 [fc]
 [ns]Kousuke[nse]
-"Then, I guess I'll check out the second floor. Gotta scope out any good[r]
-equipment while I'm at it..."[pcms]
+"Then, I guess I'll check out the second floor. Gotta scope[r]
+out any good equipment while I'm at it..."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -156,8 +159,9 @@ equipment while I'm at it..."[pcms]
 
 *20|
 [fc]
-Considering how much he insisted on going to 'Tengu-do' from day one, he[r]
-probably won't come back for a while once he goes...[pcms]
+Considering how much he insisted on going to 'Tengu-do' from[r]
+day one, he probably won't come back for a while once he[r]
+goes...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -168,7 +172,8 @@ probably won't come back for a while once he goes...[pcms]
 
 *22|
 [fc]
-The fourth floor is home to the large analog record shop 'Recomani'.[pcms]
+The fourth floor is home to the large analog record shop[r]
+'Recomani'.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -194,21 +199,23 @@ The fourth floor is home to the large analog record shop 'Recomani'.[pcms]
 
 *26|
 [fc]
-Indeed 'Recomani' mainly sells analog records but they also have CDs and DVDs.[pcms]
+Indeed 'Recomani' mainly sells analog records but they also[r]
+have CDs and DVDs.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *27|
 [fc]
 [ns]Shigeyoshi[nse]
-"...I'll pass. I'm completely worn out from being bossed around all day. I've[r]
-had my meal, so let me sleep now."[pcms]
+"...I'll pass. I'm completely worn out from being bossed[r]
+around all day. I've had my meal, so let me sleep now."[pcms]
 
 *28|
 [fc]
-Despite claiming he wants to sleep, Shigeyoshi disappears into the VIP room[r]
-laden with bottles of liquor, snacks, magazines, and more. Even after such a big[r]
-lunch, his stomach still has room...[pcms]
+Despite claiming he wants to sleep, Shigeyoshi disappears[r]
+into the VIP room laden with bottles of liquor, snacks,[r]
+magazines, and more. Even after such a big lunch, his[r]
+stomach still has room...[pcms]
 
 ;//★ここまで
 
@@ -234,12 +241,13 @@ Ren seems to be planning to browse manga on B2F.[pcms]
 
 *32|
 [fc]
-That means... Senpai might be surfing the net on the fifth floor.[pcms]
+That means... Senpai might be surfing the net on the fifth[r]
+floor.[pcms]
 
 *33|
 [fc]
-Just as I thought that, I caught Maruko-senpai's eye. She seems to have[r]
-something she wants to say...?[pcms]
+Just as I thought that, I caught Maruko-senpai's eye. She[r]
+seems to have something she wants to say...?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -247,8 +255,9 @@ something she wants to say...?[pcms]
 [fc]
 [vo_mar s="maru_YK0003"]
 [ns]Margarita[nse]
-"A mobile phone will suffice for that. I've decided to accompany Ren. It makes[r]
-me uneasy to have her wandering around alone."[pcms]
+"A mobile phone will suffice for that. I've decided to[r]
+accompany Ren. It makes me uneasy to have her wandering[r]
+around alone."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -256,13 +265,13 @@ me uneasy to have her wandering around alone."[pcms]
 [fc]
 [vo_ren s="ren_YK0004"]
 [ns]Ren[nse]
-"Eh? Really? Well, if Maruko-senpai is coming with me, I'll show you some[r]
-interesting manga~?"[pcms]
+"Eh? Really? Well, if Maruko-senpai is coming with me, I'll[r]
+show you some interesting manga~?"[pcms]
 
 *36|
 [fc]
-Ren might not have noticed, but maybe Maruko-senpai is trying to give Yuuho and[r]
-me some time alone...[pcms]
+Ren might not have noticed, but maybe Maruko-senpai is[r]
+trying to give Yuuho and me some time alone...[pcms]
 
 *37|
 [fc]
@@ -285,7 +294,8 @@ I thank Senpai in my heart.[pcms]
 
 *40|
 [fc]
-I decide to bring some nutritional supplements and mineral water for Yuuho.[pcms]
+I decide to bring some nutritional supplements and mineral[r]
+water for Yuuho.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

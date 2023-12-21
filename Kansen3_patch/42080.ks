@@ -48,8 +48,8 @@ I noticed the vibration of my phone and woke up.[pcms]
 
 *5451|
 [fc]
-Darn it! I thought I couldn't sleep because I was wide awake, but it seems I[r]
-fell asleep without realizing it.[pcms]
+Darn it! I thought I couldn't sleep because I was wide[r]
+awake, but it seems I fell asleep without realizing it.[pcms]
 
 *5452|
 [fc]
@@ -89,7 +89,8 @@ Looking at the clock, several hours had passed.[pcms]
 
 *5458|
 [fc]
-I rubbed my sleepy eyes as I operated the phone. Maybe it's from Dad?[pcms]
+I rubbed my sleepy eyes as I operated the phone. Maybe it's[r]
+from Dad?[pcms]
 
 ;//se022ÅEågë—ÇÃëÄçÏâπ
 [se buf=0 storage="se022"]
@@ -108,24 +109,26 @@ There were no new messages.[pcms]
 
 *5461|
 [fc]
-I found it strange and pressed the back button. I don't remember setting an[r]
-alarm for this time... what could it be...[pcms]
+I found it strange and pressed the back button. I don't[r]
+remember setting an alarm for this time... what could it[r]
+be...[pcms]
 
 *5462|
 [fc]
-That's when I realized that it wasn't a message but a phone call that had come[r]
-in.[pcms]
+That's when I realized that it wasn't a message but a phone[r]
+call that had come in.[pcms]
 
 *5463|
 [fc]
-I had it on vibrate, so I didn't notice, but if it were a message, I wouldn't[r]
-have noticed such a short alert. If it was a call long enough to wake me up, it[r]
-must have been a phone call for sure.[pcms]
+I had it on vibrate, so I didn't notice, but if it were a[r]
+message, I wouldn't have noticed such a short alert. If it[r]
+was a call long enough to wake me up, it must have been a[r]
+phone call for sure.[pcms]
 
 *5464|
 [fc]
-As I thought, there was "1 missed call" on my phone. ...Is my phone able to[r]
-receive calls now?[pcms]
+As I thought, there was "1 missed call" on my phone. ...Is[r]
+my phone able to receive calls now?[pcms]
 
 ;//se022ÅEågë—ÇÃëÄçÏâπ
 [se buf=0 storage="se022"]
@@ -149,7 +152,8 @@ I had a bad feeling and hesitantly pressed the button.[pcms]
 
 *5468|
 [fc]
-I couldn't hide my surprise at the name displayed on my phone.[pcms]
+I couldn't hide my surprise at the name displayed on my[r]
+phone.[pcms]
 
 *5469|
 [fc]
@@ -186,7 +190,8 @@ And on the screen, the name "Yuuho" was flashing.[pcms]
 
 
 ;	[link storage="42080.ks" target=*01]èoÇÈ[endlink]
-; (link storage="42090.ks" target=*42090_TOP)Don't answer(endlink)[pcms]
+; (link storage="42090.ks" target=*42090_TOP)Don't[r]
+answer(endlink)[pcms]
 
 *SEL35|èoÇÈÅ^èoÇ»Ç¢
 [fc]

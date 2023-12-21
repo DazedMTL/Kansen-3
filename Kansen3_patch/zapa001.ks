@@ -29,20 +29,21 @@
 
 *1447|
 [fc]
-As usual, I was diligently practicing for the club activities, and just as I[r]
-finished a time attack, I tried to get out of the pool.[pcms]
+As usual, I was diligently practicing for the club[r]
+activities, and just as I finished a time attack, I tried to[r]
+get out of the pool.[pcms]
 
 *1448|
 [fc]
-Then, the teacher pointed out that my swimming lacked spirit, even though it was[r]
-for timing.[pcms]
+Then, the teacher pointed out that my swimming lacked[r]
+spirit, even though it was for timing.[pcms]
 
 *1449|
 [fc]
 [vo_mob s="komon0003"]
 [ns]Advisory Teacher[nse]
-"That's not like you. Is this the first time I've seen such a lackadaisical[r]
-swim?"[pcms]
+"That's not like you. Is this the first time I've seen such[r]
+a lackadaisical swim?"[pcms]
 
 *1450|
 [fc]
@@ -52,8 +53,8 @@ swim?"[pcms]
 
 *1451|
 [fc]
-I fully understood the teacher's anger. Today, I was clearly in a listless[r]
-state.[pcms]
+I fully understood the teacher's anger. Today, I was clearly[r]
+in a listless state.[pcms]
 
 *1452|
 [fc]
@@ -61,8 +62,8 @@ I didn't hate practice, nor did I hate swimming... but.[pcms]
 
 *1453|
 [fc]
-Anyway, I just couldn't concentrate, and it felt like nothing was going right[r]
-today.[pcms]
+Anyway, I just couldn't concentrate, and it felt like[r]
+nothing was going right today.[pcms]
 
 ;[white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
@@ -84,20 +85,20 @@ today.[pcms]
 
 *1456|
 [fc]
-My response was somewhat absent-minded. It was just one of those days where I[r]
-felt completely off.[pcms]
+My response was somewhat absent-minded. It was just one of[r]
+those days where I felt completely off.[pcms]
 
 *1457|
 [fc]
 [vo_mob s="buinA0011"]
 [ns]Club Member A[nse]
-"You even came late to practice, which is unusual... Are you feeling unwell by[r]
-any chance?"[pcms]
+"You even came late to practice, which is unusual... Are you[r]
+feeling unwell by any chance?"[pcms]
 
 *1458|
 [fc]
-It was understandable for them to think so, but physically, I was feeling quite[r]
-well. The problem was inside my heart...[pcms]
+It was understandable for them to think so, but physically,[r]
+I was feeling quite well. The problem was inside my heart...[pcms]
 
 *1459|
 [fc]
@@ -109,36 +110,41 @@ well. The problem was inside my heart...[pcms]
 [fc]
 [vo_mob s="buinA0012"]
 [ns]Club Member A[nse]
-"If that's the case, it's good, but don't push yourself too hard."[pcms]
+"If that's the case, it's good, but don't push yourself too[r]
+hard."[pcms]
 
 *1461|
 [fc]
 [vo_yuh s="yuho0351"]
 [ns]Yuuho[nse]
-"I know that. Self-management is part of the sport, after all."[pcms]
+"I know that. Self-management is part of the sport, after[r]
+all."[pcms]
 
 *1462|
 [fc]
-Self-control is inevitable for an athlete. And yet... I'm failing at it.[pcms]
+Self-control is inevitable for an athlete. And yet... I'm[r]
+failing at it.[pcms]
 
 *1463|
 [fc]
-In the end, because of what happened last night with Oshima-senpai, I was[r]
-feeling really down.[pcms]
+In the end, because of what happened last night with Oshima-[r]
+senpai, I was feeling really down.[pcms]
 
 *1464|
 [fc]
-On top of that, because I went home on my own, I even received worried emails[r]
-from Kousuke and Ren-chan.[pcms]
+On top of that, because I went home on my own, I even[r]
+received worried emails from Kousuke and Ren-chan.[pcms]
 
 *1465|
 [fc]
-Wataru went off somewhere too... He probably went looking for me, I guess.[pcms]
+Wataru went off somewhere too... He probably went looking[r]
+for me, I guess.[pcms]
 
 *1466|
 [fc]
-The summer festival was ruined, and I caused worry and trouble for everyone,[r]
-ending with getting scolded at club activities...[pcms]
+The summer festival was ruined, and I caused worry and[r]
+trouble for everyone, ending with getting scolded at club[r]
+activities...[pcms]
 
 *1467|
 [fc]
@@ -166,14 +172,15 @@ ending with getting scolded at club activities...[pcms]
 
 *1471|
 [fc]
-From the moment Oshima-senpai called me out, honestly, I could have predicted[r]
-that development. Of course, I hadn't thought it would go as far as a forceful[r]
-kiss...[pcms]
+From the moment Oshima-senpai called me out, honestly, I[r]
+could have predicted that development. Of course, I hadn't[r]
+thought it would go as far as a forceful kiss...[pcms]
 
 *1472|
 [fc]
-Either way, it was terrible of me to show up there with a festive mood without[r]
-even deciding whether to accept or reject him.[pcms]
+Either way, it was terrible of me to show up there with a[r]
+festive mood without even deciding whether to accept or[r]
+reject him.[pcms]
 
 *1473|
 [fc]
@@ -201,38 +208,41 @@ even deciding whether to accept or reject him.[pcms]
 
 *1477|
 [fc]
-I decided to take a break and come back later, so I took a rest as the teacher[r]
-suggested.[pcms]
+I decided to take a break and come back later, so I took a[r]
+rest as the teacher suggested.[pcms]
 
 *1478|
 [fc]
-I had been feeling awkward and hesitant since last night... It was my fault for[r]
-going there with half-hearted feelings.[pcms]
+I had been feeling awkward and hesitant since last night...[r]
+It was my fault for going there with half-hearted feelings.[pcms]
 
 *1479|
 [fc]
-I should properly apologize to Oshima-senpai and firmly decline the matter of[r]
-dating.[pcms]
+I should properly apologize to Oshima-senpai and firmly[r]
+decline the matter of dating.[pcms]
 
 *1480|
 [fc]
-It's not good to keep up a half-hearted attitude when I'm not even interested...[pcms]
+It's not good to keep up a half-hearted attitude when I'm[r]
+not even interested...[pcms]
 
 *1481|
 [fc]
-The truth is, with that intention in mind, today I made lunch not as an apology[r]
-but still... And to make matters worse, I even ended up biting his lips[r]
-unintentionally...[pcms]
+The truth is, with that intention in mind, today I made[r]
+lunch not as an apology but still... And to make matters[r]
+worse, I even ended up biting his lips unintentionally...[pcms]
 
 *1482|
 [fc]
-I wrote a letter to convey my sincerity, but that alone seemed insipid. Buying[r]
-something to bring didn't feel heartfelt...[pcms]
+I wrote a letter to convey my sincerity, but that alone[r]
+seemed insipid. Buying something to bring didn't feel[r]
+heartfelt...[pcms]
 
 *1483|
 [fc]
-If there's one thing I'm skilled at as a girl, it's definitely my cooking skills[r]
-learned from working at a diner.[pcms]
+If there's one thing I'm skilled at as a girl, it's[r]
+definitely my cooking skills learned from working at a[r]
+diner.[pcms]
 
 *1484|
 [fc]
@@ -245,9 +255,9 @@ learned from working at a diner.[pcms]
 
 *1485|
 [fc]
-After wiping down my body in the changing room and throwing on just a jersey, I[r]
-packed the lunch into my shoulder bag and headed towards the gym where senpai[r]
-was.[pcms]
+After wiping down my body in the changing room and throwing[r]
+on just a jersey, I packed the lunch into my shoulder bag[r]
+and headed towards the gym where senpai was.[pcms]
 
 ;//立ちキャラの服装確認
 
@@ -257,8 +267,8 @@ was.[pcms]
 
 *1486|
 [fc]
-In the gym where other clubs were practicing. What should I say when I see[r]
-senpai?[pcms]
+In the gym where other clubs were practicing. What should I[r]
+say when I see senpai?[pcms]
 
 *1487|
 [fc]
@@ -280,7 +290,8 @@ As I walked while thinking about such things...[pcms]
 [fc]
 [vo_mob s="buinA0014"]
 [ns]Club Member A[nse]
-"Cheer up! If you have any worries, I'm always here to listen!!"[pcms]
+"Cheer up! If you have any worries, I'm always here to[r]
+listen!!"[pcms]
 
 *1491|
 [fc]
@@ -319,17 +330,20 @@ Suddenly, a scream echoed throughout the school.[pcms]
 
 *1497|
 [fc]
-It was something far too out of the ordinary. It was like the volume on the TV[r]
-was turned up by mistake, theatrical and lacking any sense of reality...[pcms]
+It was something far too out of the ordinary. It was like[r]
+the volume on the TV was turned up by mistake, theatrical[r]
+and lacking any sense of reality...[pcms]
 
 *1498|
 [fc]
-As I turned my gaze towards the source of the scream, I saw students running[r]
-desperately into the entrance as if trying to escape from something.[pcms]
+As I turned my gaze towards the source of the scream, I saw[r]
+students running desperately into the entrance as if trying[r]
+to escape from something.[pcms]
 
 *1499|
 [fc]
-Some of them seemed to be injured, their uniforms stained with crimson.[pcms]
+Some of them seemed to be injured, their uniforms stained[r]
+with crimson.[pcms]
 
 *1500|
 [fc]
@@ -339,22 +353,23 @@ Some of them seemed to be injured, their uniforms stained with crimson.[pcms]
 
 *1501|
 [fc]
-Straining my eyes to see, I could make out an eerie figure swaying and walking[r]
-like a sleepwalker beyond them.[pcms]
+Straining my eyes to see, I could make out an eerie figure[r]
+swaying and walking like a sleepwalker beyond them.[pcms]
 
 *1502|
 [fc]
-The gymnasium was instantly thrown into panic, everyone shuddering at the[r]
-strange apparition before us.[pcms]
+The gymnasium was instantly thrown into panic, everyone[r]
+shuddering at the strange apparition before us.[pcms]
 
 *1503|
 [fc]
-Inside me, instinct was screaming danger, danger, but I couldn't figure out what[r]
-the best course of action was.[pcms]
+Inside me, instinct was screaming danger, danger, but I[r]
+couldn't figure out what the best course of action was.[pcms]
 
 *1504|
 [fc]
-The people around me started to flee outside or towards the pool.[pcms]
+The people around me started to flee outside or towards the[r]
+pool.[pcms]
 
 ;//♂：SEとして阿鼻叫喚の叫び声収録
 
@@ -371,7 +386,8 @@ The people around me started to flee outside or towards the pool.[pcms]
 ;	[link storage="zapA003.ks" target=*zapA003_TOP]外に逃げる[endlink]
 ;	[link storage="zapA005.ks" target=*zapA005_TOP]様子を見る[endlink]
 ;	;[link storage="zapA006.ks" target=*zapA006_TOP]時間切れ[endlink]
-; (link storage="zapA006.ks" target=*zapA006_TOP)What is this...(endlink)[pcms]
+; (link storage="zapA006.ks" target=*zapA006_TOP)What is[r]
+this...(endlink)[pcms]
 
 *SEL87|屋内プールに戻る／外に逃げる／様子を見る／なんなのこれ……
 [fc]

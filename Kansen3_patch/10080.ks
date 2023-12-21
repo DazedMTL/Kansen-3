@@ -44,13 +44,13 @@
 
 *513|
 [fc]
-After a while, when I returned to the VIP room, what jumped into my sight was[r]
-like a cage of beasts.[pcms]
+After a while, when I returned to the VIP room, what jumped[r]
+into my sight was like a cage of beasts.[pcms]
 
 *514|
 [fc]
-Yes-- The men's actions closely resembled that of starving wolves swarming their[r]
-prey.[pcms]
+Yes-- The men's actions closely resembled that of starving[r]
+wolves swarming their prey.[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -74,25 +74,26 @@ prey.[pcms]
 
 *517|
 [fc]
-I wonder what was the point of going through the trouble of making her change[r]
-clothes?[pcms]
+I wonder what was the point of going through the trouble of[r]
+making her change clothes?[pcms]
 
 *518|
 [fc]
-To them, as long as it's a woman, or rather a female that can stir up their[r]
-lust, nothing else matters.[pcms]
+To them, as long as it's a woman, or rather a female that[r]
+can stir up their lust, nothing else matters.[pcms]
 
 *519|
 [fc]
-Even for me, a woman, there are things like mood and the atmosphere of the[r]
-partner that can trigger sexual excitement, and I understand that without those,[r]
-it's hard to get aroused.[pcms]
+Even for me, a woman, there are things like mood and the[r]
+atmosphere of the partner that can trigger sexual[r]
+excitement, and I understand that without those, it's hard[r]
+to get aroused.[pcms]
 
 *520|
 [fc]
 [ns]Dazai[nse]
-"You must be happy filled with so much sperm!! Enjoy it to your heart's[r]
-content!!"[pcms]
+"You must be happy filled with so much sperm!! Enjoy it to[r]
+your heart's content!!"[pcms]
 
 [evcg storage="HEV019a"][trans_c cross time=300]
 
@@ -116,7 +117,8 @@ content!!"[pcms]
 *524|
 [fc]
 [ns]Dazai[nse]
-"This asshole is the best. It clings and wraps around my dick."[pcms]
+"This asshole is the best. It clings and wraps around my[r]
+dick."[pcms]
 
 *525|
 [fc]
@@ -137,17 +139,18 @@ content!!"[pcms]
 
 *528|
 [fc]
-However, their current state clearly deviated from any logic of sexual[r]
-excitement.[pcms]
+However, their current state clearly deviated from any logic[r]
+of sexual excitement.[pcms]
 
 *529|
 [fc]
-There wasn't a trace of reason. No feeling of caring for the partner. Sex is[r]
-supposed to be an act of love...[pcms]
+There wasn't a trace of reason. No feeling of caring for the[r]
+partner. Sex is supposed to be an act of love...[pcms]
 
 *530|
 [fc]
-Their actions seemed clearly driven by the need to satisfy hunger.[pcms]
+Their actions seemed clearly driven by the need to satisfy[r]
+hunger.[pcms]
 
 *531|
 [fc]
@@ -155,23 +158,25 @@ I wonder why I am in a world where such beasts run rampant.[pcms]
 
 *532|
 [fc]
-I've been in love, had life goals and dreams, and though there were times of[r]
-poverty and boredom... I was supposed to have lived every day as humanly as[r]
-possible.[pcms]
+I've been in love, had life goals and dreams, and though[r]
+there were times of poverty and boredom... I was supposed to[r]
+have lived every day as humanly as possible.[pcms]
 
 *533|
 [fc]
-It's as if I'm recalling a distant dream, the original scenery of spending time[r]
-with Kousuke and the others comes back to me.[pcms]
+It's as if I'm recalling a distant dream, the original[r]
+scenery of spending time with Kousuke and the others comes[r]
+back to me.[pcms]
 
 *534|
 [fc]
-Lately, like a cheap drug flashback, I often remember those times. Do I... want[r]
-to go back?[pcms]
+Lately, like a cheap drug flashback, I often remember those[r]
+times. Do I... want to go back?[pcms]
 
 *535|
 [fc]
-Even though I chose this way of life myself, am I regretting it now?[pcms]
+Even though I chose this way of life myself, am I regretting[r]
+it now?[pcms]
 
 *536|
 [fc]
@@ -179,17 +184,19 @@ But the path I could return on has long been severed.[pcms]
 
 *537|
 [fc]
-I'm beyond saving. No matter how much I wish for it, Kousuke would never accept[r]
-me as I am now.[pcms]
+I'm beyond saving. No matter how much I wish for it, Kousuke[r]
+would never accept me as I am now.[pcms]
 
 *538|
 [fc]
-The only ones who would accept me as I am now are Jin and these guys here.[pcms]
+The only ones who would accept me as I am now are Jin and[r]
+these guys here.[pcms]
 
 *539|
 [fc]
-Time passed cannot be reclaimed. I can't go back to who I was. I have no choice[r]
-but to walk this beastly path on my own feet.[pcms]
+Time passed cannot be reclaimed. I can't go back to who I[r]
+was. I have no choice but to walk this beastly path on my[r]
+own feet.[pcms]
 
 *540|
 [fc]
@@ -208,8 +215,8 @@ but to walk this beastly path on my own feet.[pcms]
 
 *543|
 [fc]
-A man's roar echoed loudly as if bellowing, bringing me back to the harsh[r]
-reality before me.[pcms]
+A man's roar echoed loudly as if bellowing, bringing me back[r]
+to the harsh reality before me.[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV019c"]
@@ -219,12 +226,13 @@ reality before me.[pcms]
 [fc]
 [vo_mob s="tomomi0018"]
 [ns]Girl with Red Eyes[nse]
-"Ahhahhh, nngguuuhh, uhiiaahh, ahhhhbuuuu, nhfuuhhh... Nnnnnahhhh!"[pcms]
+"Ahhahhh, nngguuuhh, uhiiaahh, ahhhhbuuuu, nhfuuhhh...[r]
+Nnnnnahhhh!"[pcms]
 
 *545|
 [fc]
-The cloudy fluid was scattered about, drenching the large breasts of the girl[r]
-with red eyes.[pcms]
+The cloudy fluid was scattered about, drenching the large[r]
+breasts of the girl with red eyes.[pcms]
 
 *546|
 [fc]
@@ -241,13 +249,13 @@ with red eyes.[pcms]
 
 *548|
 [fc]
-With a voice like an ugly pig, Dazai was screwing his dick into the girl with[r]
-red eyes' asshole.[pcms]
+With a voice like an ugly pig, Dazai was screwing his dick[r]
+into the girl with red eyes' asshole.[pcms]
 
 *549|
 [fc]
-Taking pleasure in inserting it into an orifice meant for excretion is truly the[r]
-height of bad taste, I think.[pcms]
+Taking pleasure in inserting it into an orifice meant for[r]
+excretion is truly the height of bad taste, I think.[pcms]
 
 *550|
 [fc]
@@ -257,13 +265,15 @@ height of bad taste, I think.[pcms]
 
 *551|
 [fc]
-No matter how much you reject it, in the end there's no choice. My asshole has[r]
-been ravaged by men countless times as well.[pcms]
+No matter how much you reject it, in the end there's no[r]
+choice. My asshole has been ravaged by men countless times[r]
+as well.[pcms]
 
 *552|
 [fc]
-The more you deny pleasure and harbor disgust, the more your body rejoices as a[r]
-female. Enough to make you curse being born a woman...[pcms]
+The more you deny pleasure and harbor disgust, the more your[r]
+body rejoices as a female. Enough to make you curse being[r]
+born a woman...[pcms]
 
 *553|
 [fc]
@@ -272,8 +282,8 @@ female. Enough to make you curse being born a woman...[pcms]
 
 *554|
 [fc]
-The girl with red eyes' asshole was already filled with the semen Dazai had[r]
-released.[pcms]
+The girl with red eyes' asshole was already filled with the[r]
+semen Dazai had released.[pcms]
 
 ;//白フラ１発
 [evcg白フラ storage="HEV019e"]
@@ -286,13 +296,14 @@ released.[pcms]
 
 *556|
 [fc]
-How many times does he need to ejaculate before he's satisfied? Even if drugs[r]
-enhance libido and sensitivity, this amount of release is abnormal.[pcms]
+How many times does he need to ejaculate before he's[r]
+satisfied? Even if drugs enhance libido and sensitivity,[r]
+this amount of release is abnormal.[pcms]
 
 *557|
 [fc]
-Thrusting his hips repeatedly, Dazai was exposing an unsightly face as he[r]
-reached climax several times over.[pcms]
+Thrusting his hips repeatedly, Dazai was exposing an[r]
+unsightly face as he reached climax several times over.[pcms]
 
 *558|
 [fc]
@@ -318,22 +329,26 @@ reached climax several times over.[pcms]
 
 *562|
 [fc]
-Gushes of semen flowed into her intestines and the girl trembled slightly.[pcms]
+Gushes of semen flowed into her intestines and the girl[r]
+trembled slightly.[pcms]
 
 *563|
 [fc]
-The Girl with Red Eyes seemed not entirely displeased, her expression one of joy[r]
-as every hole in her body was filled with cock and showered with cum.[pcms]
+The Girl with Red Eyes seemed not entirely displeased, her[r]
+expression one of joy as every hole in her body was filled[r]
+with cock and showered with cum.[pcms]
 
 *564|
 [fc]
 [vo_mob s="tomomi0024"]
 [ns]The Girl with Red Eyes[nse]
-"Haa haa... it feels so good, it feels so gooodnnn, ahhhhnnn!!"[pcms]
+"Haa haa... it feels so good, it feels so gooodnnn,[r]
+ahhhhnnn!!"[pcms]
 
 *565|
 [fc]
-Having completely lost her sanity, she might be honestly accepting the pleasure.[pcms]
+Having completely lost her sanity, she might be honestly[r]
+accepting the pleasure.[pcms]
 
 *566|
 [fc]
@@ -341,12 +356,13 @@ Having completely lost her sanity, she might be honestly accepting the pleasure.
 
 *567|
 [fc]
-Maybe I should just lose my sanity with drugs like that girl.[pcms]
+Maybe I should just lose my sanity with drugs like that[r]
+girl.[pcms]
 
 *568|
 [fc]
-The path of the beast is too harsh for a human to walk. Perhaps it's happier to[r]
-become a beast.[pcms]
+The path of the beast is too harsh for a human to walk.[r]
+Perhaps it's happier to become a beast.[pcms]
 
 *569|
 [fc]
@@ -360,7 +376,8 @@ become a beast.[pcms]
 [fc]
 [vo_mob s="tomomi0025"]
 [ns]The Girl with Red Eyes[nse]
-"Abuuuuu, nngmuuuuuu, nnguuu, ngmuunngmuuuu, nngbuuuuu, mumumuguuuuu"[pcms]
+"Abuuuuu, nngmuuuuuu, nnguuu, ngmuunngmuuuu, nngbuuuuu,[r]
+mumumuguuuuu"[pcms]
 
 *571|
 [fc]
@@ -371,17 +388,18 @@ become a beast.[pcms]
 [fc]
 [vo_mob s="tomomi0026"]
 [ns]The Girl with Red Eyes[nse]
-"Muguuuuu, nngbuuuuuu, muu...muguu, nnguuu, nnguuuuu... goguuuuu"[pcms]
+"Muguuuuu, nngbuuuuuu, muu...muguu, nnguuu, nnguuuuu...[r]
+goguuuuu"[pcms]
 
 *573|
 [fc]
-The man who shoved his cock into her mouth made the Girl with Red Eyes swallow a[r]
-large amount of semen.[pcms]
+The man who shoved his cock into her mouth made the Girl[r]
+with Red Eyes swallow a large amount of semen.[pcms]
 
 *574|
 [fc]
-With her mouth full of white fluid, the girl licked and swallowed it down[r]
-happily with her tongue.[pcms]
+With her mouth full of white fluid, the girl licked and[r]
+swallowed it down happily with her tongue.[pcms]
 
 *575|
 [fc]
@@ -406,12 +424,14 @@ happily with her tongue.[pcms]
 [fc]
 [vo_mob s="tomomi0028"]
 [ns]Girl with Red Eyes[nse]
-"Buhiiiiii, apuuuu... fuahhhfuuhh, fuuhhhaaauu... nhiiii... higuuuuu"[pcms]
+"Buhiiiiii, apuuuu... fuahhhfuuhh, fuuhhhaaauu... nhiiii...[r]
+higuuuuu"[pcms]
 
 *579|
 [fc]
-At the same time, Dazai released new semen into her anus. The semen that[r]
-backflowed into her rectum bloomed like fireworks, creating white flowers.[pcms]
+At the same time, Dazai released new semen into her anus.[r]
+The semen that backflowed into her rectum bloomed like[r]
+fireworks, creating white flowers.[pcms]
 
 [evcg storage="HEV019h"][trans_c cross time=300]
 
@@ -423,8 +443,8 @@ backflowed into her rectum bloomed like fireworks, creating white flowers.[pcms]
 
 *581|
 [fc]
-The sight was such that one might think the girl's body was filled with nothing[r]
-but semen both inside and out.[pcms]
+The sight was such that one might think the girl's body was[r]
+filled with nothing but semen both inside and out.[pcms]
 
 *582|
 [fc]
@@ -437,27 +457,31 @@ but semen both inside and out.[pcms]
 [fc]
 [vo_mob s="tomomi0030"]
 [ns]The Girl with Red Eyes[nse]
-"Hafuuuu, my tits, my tiiits, ahhh, my tits with your cock! Abuuuuu"[pcms]
+"Hafuuuu, my tits, my tiiits, ahhh, my tits with your cock![r]
+Abuuuuu"[pcms]
 
 *584|
 [fc]
-Despite ejaculating so much, the men's desires were far from being satisfied.[pcms]
+Despite ejaculating so much, the men's desires were far from[r]
+being satisfied.[pcms]
 
 *585|
 [fc]
-They sandwiched their cocks between her ample breasts and jerked them up and[r]
-down repeatedly.[pcms]
+They sandwiched their cocks between her ample breasts and[r]
+jerked them up and down repeatedly.[pcms]
 
 *586|
 [fc]
 [vo_mob s="tomomi0031"]
 [ns]The Girl with Red Eyes[nse]
-"Faaauuuhh, nngmuuuu, leroo leroo, ammuuuu, juruuu juruuu... nngmuuuu"[pcms]
+"Faaauuuhh, nngmuuuu, leroo leroo, ammuuuu, juruuu juruuu...[r]
+nngmuuuu"[pcms]
 
 *587|
 [fc]
-As told, the girl jerked them off between her breasts while taking the tip into[r]
-her mouth and wrapping her tongue around it.[pcms]
+As told, the girl jerked them off between her breasts while[r]
+taking the tip into her mouth and wrapping her tongue around[r]
+it.[pcms]
 
 *588|
 [fc]
@@ -467,24 +491,25 @@ her mouth and wrapping her tongue around it.[pcms]
 
 *589|
 [fc]
-At the same time, she shook her ass on her own accord, beckoning Dazai to thrust[r]
-harder.[pcms]
+At the same time, she shook her ass on her own accord,[r]
+beckoning Dazai to thrust harder.[pcms]
 
 *590|
 [fc]
-Inspired by her actions, Dazai became even more intense and drilled into her[r]
-anus with his cock.[pcms]
+Inspired by her actions, Dazai became even more intense and[r]
+drilled into her anus with his cock.[pcms]
 
 *591|
 [fc]
 [vo_mob s="tomomi0033"]
 [ns]The Girl with Red Eyes[nse]
-"Ubbuuuuhh, abuuuuu, nnnngguuuu, hiiiuuuuhh, abuuuuu, moreeeeee, moreeeeeee!"[pcms]
+"Ubbuuuuhh, abuuuuu, nnnngguuuu, hiiiuuuuhh, abuuuuu,[r]
+moreeeeee, moreeeeeee!"[pcms]
 
 *592|
 [fc]
-I was stunned to hear that voice. The Girl with Red Eyes was seeking even[r]
-stronger pleasure.[pcms]
+I was stunned to hear that voice. The Girl with Red Eyes was[r]
+seeking even stronger pleasure.[pcms]
 
 *593|
 [fc]
@@ -494,50 +519,57 @@ stronger pleasure.[pcms]
 
 *594|
 [fc]
-What kind of experiences must one have had, what kind of life must one have[r]
-walked to be so dyed in the instincts of a female both physically and mentally?[pcms]
+What kind of experiences must one have had, what kind of[r]
+life must one have walked to be so dyed in the instincts of[r]
+a female both physically and mentally?[pcms]
 
 *595|
 [fc]
 [vo_mob s="tomomi0035"]
 [ns]The Girl with Red Eyes[nse]
-"Habuuuuu, nngguuuu, nngguuuu... abbuuuu, habuuuaaaaahh, apufuuuuu,[r]
-ahhahhaaahh!"[pcms]
+"Habuuuuu, nngguuuu, nngguuuu... abbuuuu, habuuuaaaaahh,[r]
+apufuuuuu, ahhahhaaahh!"[pcms]
 
 *596|
 [fc]
-Her mouth, pussy, and asshole must be beyond their limits. At least I would[r]
-definitely be broken.[pcms]
+Her mouth, pussy, and asshole must be beyond their limits.[r]
+At least I would definitely be broken.[pcms]
 
 *597|
 [fc]
-Yet in such a state, she was seeking it out from the beast herself.[pcms]
+Yet in such a state, she was seeking it out from the beast[r]
+herself.[pcms]
 
 *598|
 [fc]
 [vo_mob s="tomomi0036"]
 [ns]The Girl with Red Eyes[nse]
-"Thrust itttt, thrust itttt, cum on meeeeeee, seeeeemennnnnnnnnnnnnnnnnnnnnnnnnn[r]
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn[r]
+"Thrust itttt, thrust itttt, cum on meeeeeee,[r]
+seeeeemennnnnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnn[r]
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn[r]
 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn!"[pcms]
 
 *599|
 [fc]
-They're all mad, men and women alike; everything I'm seeing is madness...[pcms]
+They're all mad, men and women alike; everything I'm seeing[r]
+is madness...[pcms]
 
 *600|
 [fc]
-I couldn't face the scene any longer and before I knew it I started to back[r]
-away. I want to escape; I want to flee from all this madness.[pcms]
+I couldn't face the scene any longer and before I knew it I[r]
+started to back away. I want to escape; I want to flee from[r]
+all this madness.[pcms]
 
 *601|
 [fc]
-I want to escape back to those days that were ordinary and boring but happy.[pcms]
+I want to escape back to those days that were ordinary and[r]
+boring but happy.[pcms]
 
 *602|
 [fc]
 [ns]Male D[nse]
-"Mr. Dazai, Mr. Dazai. It's time for fireworks. The fireworks car is ready."[pcms]
+"Mr. Dazai, Mr. Dazai. It's time for fireworks. The[r]
+fireworks car is ready."[pcms]
 
 *603|
 [fc]
@@ -548,7 +580,8 @@ I want to escape back to those days that were ordinary and boring but happy.[pcm
 *604|
 [fc]
 [ns]Dazai[nse]
-"Alright alright, I'll take you there after you let me shoot one more load!"[pcms]
+"Alright alright, I'll take you there after you let me shoot[r]
+one more load!"[pcms]
 
 *605|
 [fc]
@@ -574,8 +607,8 @@ I couldn't stand it any longer and fled from the spot.[pcms]
 
 *607|
 [fc]
-Having fled from the VIP room, I finally managed to regain my composure in a[r]
-corner of the shop a little distance away.[pcms]
+Having fled from the VIP room, I finally managed to regain[r]
+my composure in a corner of the shop a little distance away.[pcms]
 
 *608|
 [fc]
@@ -585,14 +618,16 @@ corner of the shop a little distance away.[pcms]
 
 *609|
 [fc]
-If Dazai has been informed about the arrangement of the fireworks car then they[r]
-will probably leave in a few minutes. If that's the case then what I need to do[r]
-is... report to Jin.[pcms]
+If Dazai has been informed about the arrangement of the[r]
+fireworks car then they will probably leave in a few[r]
+minutes. If that's the case then what I need to do is...[r]
+report to Jin.[pcms]
 
 *610|
 [fc]
-Anxious as well as determined to report the current situation I took out my[r]
-mobile phone and pressed Jin's memory.[pcms]
+Anxious as well as determined to report the current[r]
+situation I took out my mobile phone and pressed Jin's[r]
+memory.[pcms]
 
 ;[zapend_random]
 ;mm このあとじん視点だからザップfadeはくどいので省略しておくか
@@ -625,8 +660,9 @@ mobile phone and pressed Jin's memory.[pcms]
 
 *611|
 [fc]
-In preparation for the meeting at Celesta Tower Hotel, I was in the hotel lounge[r]
-discussing with the underlings lent out by the organization.[pcms]
+In preparation for the meeting at Celesta Tower Hotel, I was[r]
+in the hotel lounge discussing with the underlings lent out[r]
+by the organization.[pcms]
 
 ;//壬視点なので立ち不要
 
@@ -638,29 +674,31 @@ discussing with the underlings lent out by the organization.[pcms]
 *613|
 [fc]
 [ns]Henchman A[nse]
-"Yeah, there's no problem with that. We've prepared the top course menu listed[r]
-in this pamphlet."[pcms]
+"Yeah, there's no problem with that. We've prepared the top[r]
+course menu listed in this pamphlet."[pcms]
 
 *614|
 [fc]
 [ns]Jin[nse]
-"What about the drinks? We need a wide selection to cater to everyone's tastes,[r]
-or it won't do."[pcms]
+"What about the drinks? We need a wide selection to cater to[r]
+everyone's tastes, or it won't do."[pcms]
 
 *615|
 [fc]
 [ns]Henchman B[nse]
-"We've arranged a range of high-end brands for now, all listed here."[pcms]
+"We've arranged a range of high-end brands for now, all[r]
+listed here."[pcms]
 
 *616|
 [fc]
-I quickly scanned the list of alcohol handed to me. These guys dispatched from[r]
-the organization are indeed different from my subordinates in every sense.[pcms]
+I quickly scanned the list of alcohol handed to me. These[r]
+guys dispatched from the organization are indeed different[r]
+from my subordinates in every sense.[pcms]
 
 *617|
 [fc]
-The brands of alcohol listed were all exceptional items that consistently[r]
-received high praise from all quarters.[pcms]
+The brands of alcohol listed were all exceptional items that[r]
+consistently received high praise from all quarters.[pcms]
 
 *618|
 [fc]
@@ -685,14 +723,15 @@ received high praise from all quarters.[pcms]
 *622|
 [fc]
 [ns]Jin[nse]
-"This white is a fine choice, but it's a bit too light to pair with the main[r]
-course. Perhaps red would be better in this case."[pcms]
+"This white is a fine choice, but it's a bit too light to[r]
+pair with the main course. Perhaps red would be better in[r]
+this case."[pcms]
 
 *623|
 [fc]
 [ns]Henchman B[nse]
-"I see. That's an option I hadn't considered. Alright, I'll arrange for some red[r]
-as well."[pcms]
+"I see. That's an option I hadn't considered. Alright, I'll[r]
+arrange for some red as well."[pcms]
 
 *624|
 [fc]
@@ -701,33 +740,36 @@ as well."[pcms]
 
 *625|
 [fc]
-The success of this meeting will greatly influence my future.[pcms]
+The success of this meeting will greatly influence my[r]
+future.[pcms]
 
 *626|
 [fc]
-Not only can I not afford any mishaps, but even the slightest fault is[r]
-unacceptable.[pcms]
+Not only can I not afford any mishaps, but even the[r]
+slightest fault is unacceptable.[pcms]
 
 *627|
 [fc]
-If things go well, this could be the start of outsmarting that Dazai. It's not[r]
-just a dream.[pcms]
+If things go well, this could be the start of outsmarting[r]
+that Dazai. It's not just a dream.[pcms]
 
 *628|
 [fc]
-Working under that ugly pig is easy enough, but it's become somewhat tiresome.[r]
-I'm not a man who stands still in such places.[pcms]
+Working under that ugly pig is easy enough, but it's become[r]
+somewhat tiresome. I'm not a man who stands still in such[r]
+places.[pcms]
 
 *629|
 [fc]
-I will definitely achieve great success and move on to the next stage.[pcms]
+I will definitely achieve great success and move on to the[r]
+next stage.[pcms]
 
 [se buf=0 storage="se023"]
 
 *630|
 [fc]
-As I was fueling the flames of my secret ambition within, my mobile phone in my[r]
-pocket started ringing.[pcms]
+As I was fueling the flames of my secret ambition within, my[r]
+mobile phone in my pocket started ringing.[pcms]
 
 *631|
 [fc]
@@ -738,8 +780,8 @@ pocket started ringing.[pcms]
 
 *632|
 [fc]
-I moved to a corner of the lobby and pressed the answer button on my mobile[r]
-phone.[pcms]
+I moved to a corner of the lobby and pressed the answer[r]
+button on my mobile phone.[pcms]
 
 *633|
 [fc]
@@ -760,8 +802,8 @@ phone.[pcms]
 
 *636|
 [fc]
-Did that pig do something again? I clicked my tongue without letting Mizuki[r]
-notice.[pcms]
+Did that pig do something again? I clicked my tongue without[r]
+letting Mizuki notice.[pcms]
 
 *637|
 [fc]
@@ -781,14 +823,15 @@ notice.[pcms]
 
 *640|
 [fc]
-Really, none of them are reliable. It's only a matter of time before I cut ties[r]
-with this woman.[pcms]
+Really, none of them are reliable. It's only a matter of[r]
+time before I cut ties with this woman.[pcms]
 
 *641|
 [fc]
 [vo_miz s="mizuki0078"]
 [ns]Mizuki[nse]
-"Uh, yeah... So, when he started doing it with that girl with red eyes..."[pcms]
+"Uh, yeah... So, when he started doing it with that girl[r]
+with red eyes..."[pcms]
 
 *642|
 [fc]
@@ -799,13 +842,13 @@ with this woman.[pcms]
 [fc]
 [vo_miz s="mizuki0079"]
 [ns]Mizuki[nse]
-"Yes. He had her cosplay 'that' and was going at it, but then things started[r]
-getting weird..."[pcms]
+"Yes. He had her cosplay 'that' and was going at it, but[r]
+then things started getting weird..."[pcms]
 
 *644|
 [fc]
-Dazai's womanizing isn't something new. Just hearing that didn't seem[r]
-particularly abnormal.[pcms]
+Dazai's womanizing isn't something new. Just hearing that[r]
+didn't seem particularly abnormal.[pcms]
 
 *645|
 [fc]
@@ -814,7 +857,8 @@ particularly abnormal.[pcms]
 
 *646|
 [fc]
-If the pig is satisfied with a girl he picked up, it's a cheap deal for me.[pcms]
+If the pig is satisfied with a girl he picked up, it's a[r]
+cheap deal for me.[pcms]
 
 *647|
 [fc]
@@ -831,8 +875,8 @@ If the pig is satisfied with a girl he picked up, it's a cheap deal for me.[pcms
 [fc]
 [vo_miz s="mizuki0081"]
 [ns]Mizuki[nse]
-"I don't know how to say it. He kept releasing again and again, and was raping[r]
-her like crazy..."[pcms]
+"I don't know how to say it. He kept releasing again and[r]
+again, and was raping her like crazy..."[pcms]
 ;//〆ボイスa、b有り
 
 *650|
@@ -855,8 +899,8 @@ her like crazy..."[pcms]
 [fc]
 [vo_miz s="mizuki0083"]
 [ns]Mizuki[nse]
-"No, now he said he's going to watch fireworks and took that girl with red eyes[r]
-out with him."[pcms]
+"No, now he said he's going to watch fireworks and took that[r]
+girl with red eyes out with him."[pcms]
 
 *654|
 [fc]
@@ -865,21 +909,23 @@ out with him."[pcms]
 
 *655|
 [fc]
-That flow is as planned if you could call it that. The idea was to keep the[r]
-noisy pig quiet with women and fireworks while we prepare for the meeting.[pcms]
+That flow is as planned if you could call it that. The idea[r]
+was to keep the noisy pig quiet with women and fireworks[r]
+while we prepare for the meeting.[pcms]
 
 *656|
 [fc]
 [vo_miz s="mizuki0084"]
 [ns]Mizuki[nse]
-"I'm scared. The guys who got bitten by those red eyes are all saying they feel[r]
-sick and have gone home..."[pcms]
+"I'm scared. The guys who got bitten by those red eyes are[r]
+all saying they feel sick and have gone home..."[pcms]
 
 *657|
 [fc]
 [vo_miz s="mizuki0085"]
 [ns]Mizuki[nse]
-"Is it really okay to let them go watch fireworks with her...?"[pcms]
+"Is it really okay to let them go watch fireworks with[r]
+her...?"[pcms]
 
 *658|
 [fc]
@@ -889,34 +935,38 @@ sick and have gone home..."[pcms]
 
 *659|
 [fc]
-What Mizuki says makes sense. Dazai is one thing, but those red eyes are[r]
-conspicuous, and taking her to a crowded place might be problematic.[pcms]
+What Mizuki says makes sense. Dazai is one thing, but those[r]
+red eyes are conspicuous, and taking her to a crowded place[r]
+might be problematic.[pcms]
 
 *660|
 [fc]
-It would be inconvenient to have problems arise before an important meeting.[pcms]
+It would be inconvenient to have problems arise before an[r]
+important meeting.[pcms]
 
 *661|
 [fc]
-However, Dazai isn't someone who would listen if I said something now. If I[r]
-carelessly upset his mood, it will only lead to trouble.[pcms]
+However, Dazai isn't someone who would listen if I said[r]
+something now. If I carelessly upset his mood, it will only[r]
+lead to trouble.[pcms]
 
 *662|
 [fc]
-After all, Dazai just needs to be brought to Celesta Tower for tomorrow's[r]
-meeting.[pcms]
+After all, Dazai just needs to be brought to Celesta Tower[r]
+for tomorrow's meeting.[pcms]
 
 *663|
 [fc]
 [ns]Jin[nse]
-"Understood, I'll take your report into consideration for now. But let Dazai-san[r]
-do as he pleases for the time being."[pcms]
+"Understood, I'll take your report into consideration for[r]
+now. But let Dazai-san do as he pleases for the time being."[pcms]
 
 *664|
 [fc]
 [ns]Jin[nse]
-"Even if I said something, I doubt that person would change his mind. It would[r]
-only cause more trouble... you understand?"[pcms]
+"Even if I said something, I doubt that person would change[r]
+his mind. It would only cause more trouble... you[r]
+understand?"[pcms]
 
 *665|
 [fc]
@@ -937,7 +987,8 @@ only cause more trouble... you understand?"[pcms]
 
 *668|
 [fc]
-While somehow soothing the frightened Mizuki, I hung up the phone.[pcms]
+While somehow soothing the frightened Mizuki, I hung up the[r]
+phone.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -948,7 +999,8 @@ While somehow soothing the frightened Mizuki, I hung up the phone.[pcms]
 
 *670|
 [fc]
-This time, Shige came rushing over to me, shaking his massive body.[pcms]
+This time, Shige came rushing over to me, shaking his[r]
+massive body.[pcms]
 
 *671|
 [fc]
@@ -958,9 +1010,9 @@ This time, Shige came rushing over to me, shaking his massive body.[pcms]
 *672|
 [fc]
 [ns]Shigeyoshi[nse]
-"Big bro, the main organizer, a high-ranking officer, has inquired about the[r]
-preparations and says that the people who are supposed to stay at the hotel[r]
-tonight have arrived."[pcms]
+"Big bro, the main organizer, a high-ranking officer, has[r]
+inquired about the preparations and says that the people who[r]
+are supposed to stay at the hotel tonight have arrived."[pcms]
 
 *673|
 [fc]
@@ -969,8 +1021,8 @@ tonight have arrived."[pcms]
 
 *674|
 [fc]
-It seems that someone who planned to arrive early like Dazai has arrived.[r]
-Neither can be neglected.[pcms]
+It seems that someone who planned to arrive early like Dazai[r]
+has arrived. Neither can be neglected.[pcms]
 
 *675|
 [fc]
@@ -995,17 +1047,19 @@ The path I aimed for. The path I chose.[pcms]
 
 *679|
 [fc]
-Though I understand that... sometimes I feel like the place I stand is actually[r]
-covered in shit.[pcms]
+Though I understand that... sometimes I feel like the place[r]
+I stand is actually covered in shit.[pcms]
 
 *680|
 [fc]
-It's as if I'm just enjoying being the king of a mountain made of shit...[pcms]
+It's as if I'm just enjoying being the king of a mountain[r]
+made of shit...[pcms]
 
 *681|
 [fc]
 [ns]Jin[nse]
-"Alright, let's go greet the officer. Gather the available guys."[pcms]
+"Alright, let's go greet the officer. Gather the available[r]
+guys."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1018,21 +1072,24 @@ It's as if I'm just enjoying being the king of a mountain made of shit...[pcms]
 
 *683|
 [fc]
-Following my command, Shige thudded away with heavy footsteps, disappearing into[r]
-the hotel.[pcms]
+Following my command, Shige thudded away with heavy[r]
+footsteps, disappearing into the hotel.[pcms]
 
 *684|
 [fc]
-If a high-ranking officer has arrived, we need to be mindful of security.[pcms]
+If a high-ranking officer has arrived, we need to be mindful[r]
+of security.[pcms]
 
 *685|
 [fc]
-Of course, entertainment to prevent boredom is essential, just like with Dazai.[pcms]
+Of course, entertainment to prevent boredom is essential,[r]
+just like with Dazai.[pcms]
 
 *686|
 [fc]
 [ns]Jin[nse]
-"Hey, make sure the women are ready. And have alcohol prepared in the room."[pcms]
+"Hey, make sure the women are ready. And have alcohol[r]
+prepared in the room."[pcms]
 
 *687|
 [fc]
@@ -1047,8 +1104,8 @@ Of course, entertainment to prevent boredom is essential, just like with Dazai.[
 *689|
 [fc]
 [ns]Jin[nse]
-"You, go ahead and check the room. It'll be a problem if there are issues after[r]
-we move."[pcms]
+"You, go ahead and check the room. It'll be a problem if[r]
+there are issues after we move."[pcms]
 
 *690|
 [fc]
@@ -1067,13 +1124,14 @@ we move."[pcms]
 
 *693|
 [fc]
-In the suddenly bustling hotel, I started barking orders at my underlings. To[r]
-climb the mountain of shit, to become the king of shit...[pcms]
+In the suddenly bustling hotel, I started barking orders at[r]
+my underlings. To climb the mountain of shit, to become the[r]
+king of shit...[pcms]
 
 *694|
 [fc]
-To curry favor with the lord of shit. I run around to capture the interest of[r]
-the lord of shit...[pcms]
+To curry favor with the lord of shit. I run around to[r]
+capture the interest of the lord of shit...[pcms]
 
 *695|
 [fc]
@@ -1081,8 +1139,8 @@ Knowing it's all shit, why can't I stop?[pcms]
 
 *696|
 [fc]
-If this world is full of nothing but shit, maybe it would be better to turn it[r]
-upside down and make it decent for once.[pcms]
+If this world is full of nothing but shit, maybe it would be[r]
+better to turn it upside down and make it decent for once.[pcms]
 
 *697|
 [fc]
@@ -1091,8 +1149,8 @@ upside down and make it decent for once.[pcms]
 
 *698|
 [fc]
-Muttering self-deprecatingly, I headed towards the hotel entrance to welcome the[r]
-officer.[pcms]
+Muttering self-deprecatingly, I headed towards the hotel[r]
+entrance to welcome the officer.[pcms]
 
 ;//〆フェードアウト
 ;[zapend_random]

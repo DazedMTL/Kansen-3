@@ -59,7 +59,8 @@ And that would prove to be a fatal mistake.[pcms]
 
 *945|
 [fc]
-Guided by Kousuke's voice, I carried Ren and dove into the audio-visual room.[pcms]
+Guided by Kousuke's voice, I carried Ren and dove into the[r]
+audio-visual room.[pcms]
 
 ;//BG：教室（もしくは黒画面？）
 [bg storage="BG018"][trans_c cross time=500]
@@ -79,13 +80,14 @@ Guided by Kousuke's voice, I carried Ren and dove into the audio-visual room.[pc
 
 *948|
 [fc]
-Kousuke, who had jumped into the audio-visual room first, leaped at the sliding[r]
-door, trying to close it as soon as we jumped in.[pcms]
+Kousuke, who had jumped into the audio-visual room first,[r]
+leaped at the sliding door, trying to close it as soon as we[r]
+jumped in.[pcms]
 
 *949|
 [fc]
-But before it could fully close, they started pouring into the audio-visual room[r]
-like an avalanche.[pcms]
+But before it could fully close, they started pouring into[r]
+the audio-visual room like an avalanche.[pcms]
 
 ;//♂：黒画面の場合、（HEV019A）に未挿入の差分があれば瞬間的に差し入れて下さい。
 
@@ -102,12 +104,13 @@ like an avalanche.[pcms]
 
 *951|
 [fc]
-With the sound of fabric being torn, Ren's scream could be heard.[pcms]
+With the sound of fabric being torn, Ren's scream could be[r]
+heard.[pcms]
 
 *952|
 [fc]
-In the momentum of their rush, Ren was captured by them in the moment my hand[r]
-slipped away.[pcms]
+In the momentum of their rush, Ren was captured by them in[r]
+the moment my hand slipped away.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -174,8 +177,8 @@ Kousuke's voice could also be heard in the distance.[pcms]
 
 *963|
 [fc]
-But my view was blocked by a woman's ample breasts, and I couldn't understand[r]
-the situation at all.[pcms]
+But my view was blocked by a woman's ample breasts, and I[r]
+couldn't understand the situation at all.[pcms]
 
 *964|
 [fc]
@@ -195,7 +198,8 @@ Ren's scream could be heard.[pcms]
 
 *967|
 [fc]
-But my limbs were pinned down by the women, and I couldn't move at all.[pcms]
+But my limbs were pinned down by the women, and I couldn't[r]
+move at all.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
@@ -207,8 +211,8 @@ But my limbs were pinned down by the women, and I couldn't move at all.[pcms]
 
 *969|
 [fc]
-The woman's tongue began to entwine around my thing. Am I going to be raped like[r]
-this?[pcms]
+The woman's tongue began to entwine around my thing. Am I[r]
+going to be raped like this?[pcms]
 
 *970|
 [fc]
@@ -220,19 +224,21 @@ Ren, Kousuke, and I...[pcms]
 [fc]
 [vo_mob s="onna2_0002"]
 [ns]Infected Woman C[nse]
-"Come on, suck on these tits, knead them! Make them all messy!"[pcms]
+"Come on, suck on these tits, knead them! Make them all[r]
+messy!"[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *972|
 [fc]
-The woman's breasts pressed against my mouth and nose as if to smother me.[pcms]
+The woman's breasts pressed against my mouth and nose as if[r]
+to smother me.[pcms]
 
 *973|
 [fc]
-With a strength unimaginable from her slender body, she pressed her soft breasts[r]
-against me.[pcms]
+With a strength unimaginable from her slender body, she[r]
+pressed her soft breasts against me.[pcms]
 
 *974|
 [fc]
@@ -247,7 +253,8 @@ I can't breathe...! It's suffocating!![pcms]
 [fc]
 [vo_mob s="onna2_0003"]
 [ns]Infected Woman C[nse]
-"What's wrong~! You like it, don't you? Tits... Lick them properly!"[pcms]
+"What's wrong~! You like it, don't you? Tits... Lick them[r]
+properly!"[pcms]
 
 *977|
 [fc]

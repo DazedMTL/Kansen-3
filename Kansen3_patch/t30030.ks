@@ -21,16 +21,18 @@
 
 *6179|
 [fc]
-Reflected in the brown of Yuuho's eyes, tinted by the afterglow, I see myself.[pcms]
+Reflected in the brown of Yuuho's eyes, tinted by the[r]
+afterglow, I see myself.[pcms]
 
 *6180|
 [fc]
-As I take a step forward, the me inside her eyes grows slightly larger.[pcms]
+As I take a step forward, the me inside her eyes grows[r]
+slightly larger.[pcms]
 
 *6181|
 [fc]
-One step. And another. I draw closer to Yuuho. The me in her eyes also grows bit[r]
-by bit.[pcms]
+One step. And another. I draw closer to Yuuho. The me in her[r]
+eyes also grows bit by bit.[pcms]
 
 [eval exp="sf.EV013c = 1"][evcg storage="EV013c_L" x=-52 z=112][trans_c cross time=300]
 
@@ -49,13 +51,13 @@ There was nothing left to come between us anymore...[pcms]
 
 *6184|
 [fc]
-Our gazes locked, as if guided by invisible hands, we both lean in without a[r]
-word.[pcms]
+Our gazes locked, as if guided by invisible hands, we both[r]
+lean in without a word.[pcms]
 
 *6185|
 [fc]
-I feel Yuuho's breath on my lips, and just as they are about to touch, her long[r]
-eyelashes gently close.[pcms]
+I feel Yuuho's breath on my lips, and just as they are about[r]
+to touch, her long eyelashes gently close.[pcms]
 
 [eval exp="sf.EV013d = 1"][evcg storage="EV013d_L" x=-52 z=112][trans_c cross time=300]
 
@@ -74,18 +76,19 @@ Our lips, they touch.[pcms]
 
 *6188|
 [fc]
-Surprisingly soft and warm, Yuuho's lips are like melting honey...[pcms]
+Surprisingly soft and warm, Yuuho's lips are like melting[r]
+honey...[pcms]
 
 *6189|
 [fc]
-Gently pressing my lips against hers, they push back with a marshmallow-like[r]
-resilience.[pcms]
+Gently pressing my lips against hers, they push back with a[r]
+marshmallow-like resilience.[pcms]
 
 *6190|
 [fc]
-As I pull Yuuho's arms closer, I press my lips harder against hers. A slight[r]
-opening between the lips allows her pearl-like front teeth to lightly tap[r]
-against mine.[pcms]
+As I pull Yuuho's arms closer, I press my lips harder[r]
+against hers. A slight opening between the lips allows her[r]
+pearl-like front teeth to lightly tap against mine.[pcms]
 
 *6191|
 [fc]
@@ -98,8 +101,8 @@ I hastily pull away from Yuuho.[pcms]
 
 *6193|
 [fc]
-I...I did it... Our first kiss, and with the Yuuho I adore, yet I managed to[r]
-bump teeth, ruining everything...[pcms]
+I...I did it... Our first kiss, and with the Yuuho I adore,[r]
+yet I managed to bump teeth, ruining everything...[pcms]
 
 [bg storage="BG200b"][trans_c cross time=500]
 ;[eval exp="f.l_map = 5"]
@@ -115,7 +118,8 @@ bump teeth, ruining everything...[pcms]
 
 *6195|
 [fc]
-Fearfully looking at Yuuho's face, a single tear drop falls from her eyes.[pcms]
+Fearfully looking at Yuuho's face, a single tear drop falls[r]
+from her eyes.[pcms]
 
 *6196|
 [fc]
@@ -137,7 +141,8 @@ Why are you crying, Yuuho...?[pcms]
 ;	[link storage="T30040.ks" target=*T30040_TOP]ごめん……[endlink]
 ;	[link storage="T30080.ks" target=*T30080_TOP]ボクがついてる！[endlink]
 ;	;[link storage="T30050.ks" target=*T30050_TOP]時間切れ[endlink]
-;       (link storage="T30050.ks" target=*T30050_TOP)Why is Yuuho...(endlink)[pcms]
+;       (link storage="T30050.ks" target=*T30050_TOP)Why is[r]
+Yuuho...(endlink)[pcms]
 
 *SEL71|ごめん……／ボクがついてる！／どうして悠帆は……
 [fc]

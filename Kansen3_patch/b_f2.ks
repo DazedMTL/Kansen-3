@@ -27,7 +27,8 @@
 
 *4621|
 [fc]
-With a smile, I leaned out of the window and reached out my hand to Yuuho.[pcms]
+With a smile, I leaned out of the window and reached out my[r]
+hand to Yuuho.[pcms]
 
 *4622|
 [fc]
@@ -44,8 +45,8 @@ With a smile, I leaned out of the window and reached out my hand to Yuuho.[pcms]
 
 *4624|
 [fc]
-Just as Yuuho's fingers were about to touch the hand I extended, her face[r]
-twisted greatly.[pcms]
+Just as Yuuho's fingers were about to touch the hand I[r]
+extended, her face twisted greatly.[pcms]
 
 ;//赤フラ１発
 [赤フラ]
@@ -54,7 +55,8 @@ twisted greatly.[pcms]
 
 *4625|
 [fc]
-No, it was the world itself that distorted along with my field of vision.[pcms]
+No, it was the world itself that distorted along with my[r]
+field of vision.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -66,22 +68,25 @@ No, it was the world itself that distorted along with my field of vision.[pcms]
 
 *4627|
 [fc]
-Enduring the impact from the side, I managed to stay on my feet and tried to[r]
-identify what hit me.[pcms]
+Enduring the impact from the side, I managed to stay on my[r]
+feet and tried to identify what hit me.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4628|
 [fc]
-The perpetrator was the infected person I had knocked down earlier.[pcms]
+The perpetrator was the infected person I had knocked down[r]
+earlier.[pcms]
 
 *4629|
 [fc]
-I tried to muster strength in my legs to take down the assailant once more.[pcms]
+I tried to muster strength in my legs to take down the[r]
+assailant once more.[pcms]
 
 *4630|
 [fc]
-But my body, unaccustomed to being hit, wouldn't listen to me at all.[pcms]
+But my body, unaccustomed to being hit, wouldn't listen to[r]
+me at all.[pcms]
 
 *4631|
 [fc]
@@ -90,8 +95,8 @@ But my body, unaccustomed to being hit, wouldn't listen to me at all.[pcms]
 
 *4632|
 [fc]
-The infected person's reaching hand tightened around my arm, and I let out a[r]
-pathetic scream.[pcms]
+The infected person's reaching hand tightened around my arm,[r]
+and I let out a pathetic scream.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -103,17 +108,18 @@ pathetic scream.[pcms]
 
 *4634|
 [fc]
-Spurred by Yuuho's voice, I turned towards her. She was looking at me with a[r]
-face about to cry.[pcms]
+Spurred by Yuuho's voice, I turned towards her. She was[r]
+looking at me with a face about to cry.[pcms]
 
 *4635|
 [fc]
-What's this... Such a crying face doesn't suit Yuuho at all...[pcms]
+What's this... Such a crying face doesn't suit Yuuho at[r]
+all...[pcms]
 
 *4636|
 [fc]
-The man's grip tightened mercilessly, and my vision began to redden with[r]
-suffocation.[pcms]
+The man's grip tightened mercilessly, and my vision began to[r]
+redden with suffocation.[pcms]
 
 *4637|
 [fc]
@@ -142,8 +148,9 @@ Without being able to save Yuuho? Right in front of her?[pcms]
 
 *4641|
 [fc]
-The crying voice of Yuuho and the warmth on my neck were the last things I felt[r]
-before my consciousness was swallowed by darkness.[pcms]
+The crying voice of Yuuho and the warmth on my neck were the[r]
+last things I felt before my consciousness was swallowed by[r]
+darkness.[pcms]
 
 ;//ゲームオーバー
 [gameover time=0 movie="gameover.mpg"]

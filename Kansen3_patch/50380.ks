@@ -34,13 +34,14 @@ As soon as I offered the nail gun, Senpai smiled brightly.[pcms]
 
 *1891|
 [fc]
-Senpai took the nail gun and strode carelessly forward, circling around to the[r]
-side of the infected.[pcms]
+Senpai took the nail gun and strode carelessly forward,[r]
+circling around to the side of the infected.[pcms]
 
 *1892|
 [fc]
-And before the slowly reacting infected could fully turn around, Senpai[r]
-hesitated not a moment to drive a nail right between its eyes.[pcms]
+And before the slowly reacting infected could fully turn[r]
+around, Senpai hesitated not a moment to drive a nail right[r]
+between its eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -76,8 +77,8 @@ The infected man let out a dramatic scream as he fell.[pcms]
 
 *1897|
 [fc]
-Senpai swiftly turned around and pressed the nail gun against the forehead of[r]
-another infected.[pcms]
+Senpai swiftly turned around and pressed the nail gun[r]
+against the forehead of another infected.[pcms]
 
 ;//se021
 [se buf=0 storage="se021"]
@@ -97,8 +98,8 @@ another infected.[pcms]
 
 *1900|
 [fc]
-But this time, only a light sound was heard and no nail came out! Could it be[r]
-empty now!?[pcms]
+But this time, only a light sound was heard and no nail came[r]
+out! Could it be empty now!?[pcms]
 
 *1901|
 [fc]
@@ -115,8 +116,8 @@ empty now!?[pcms]
 
 *1903|
 [fc]
-Without panicking in front of the infected person lunging with outstretched[r]
-hands, Senpai took a light backstep...[pcms]
+Without panicking in front of the infected person lunging[r]
+with outstretched hands, Senpai took a light backstep...[pcms]
 
 ;//ev008b（マル子キック）
 [evcg storage="EV008b"][trans_c cross time=300]
@@ -165,8 +166,8 @@ She delivered a powerful kick to the face.[pcms]
 
 *1910|
 [fc]
-Kousuke, who had been holding his breath just like me, let out an incredibly[r]
-supportive cheer.[pcms]
+Kousuke, who had been holding his breath just like me, let[r]
+out an incredibly supportive cheer.[pcms]
 
 ;//→ブロック５０４００へ
 [jump storage="50400.ks" target=*50400_TOP]

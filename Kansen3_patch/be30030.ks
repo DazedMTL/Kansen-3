@@ -42,7 +42,8 @@
 *1815|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hehe... Now, the last one makes her appearance... With this, everyone's here."[pcms]
+"Hehe... Now, the last one makes her appearance... With[r]
+this, everyone's here."[pcms]
 
 *1816|
 [fc]
@@ -51,12 +52,13 @@
 
 *1817|
 [fc]
-Pushed in the back by a male student, I'm dragged towards the bar's dome.[pcms]
+Pushed in the back by a male student, I'm dragged towards[r]
+the bar's dome.[pcms]
 
 *1818|
 [fc]
-Waiting there were... Did everyone fail to escape? Yuuho... Ren... Maruko-[r]
-senpai... I wanted them all to escape...[pcms]
+Waiting there were... Did everyone fail to escape? Yuuho...[r]
+Ren... Maruko- senpai... I wanted them all to escape...[pcms]
 
 *1819|
 [fc]
@@ -76,24 +78,26 @@ Shigeyoshi looks at me with a smug, triumphant grin.[pcms]
 
 *1822|
 [fc]
-Beyond him, a group of about 30-40 men, mixed with curiosity and desire in their[r]
-gaze, stands ready.[pcms]
+Beyond him, a group of about 30-40 men, mixed with curiosity[r]
+and desire in their gaze, stands ready.[pcms]
 
 *1823|
 [fc]
-There are guys like Shigeyoshi, some in salaryman attire, and even male students[r]
-in school uniforms.[pcms]
+There are guys like Shigeyoshi, some in salaryman attire,[r]
+and even male students in school uniforms.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1824|
 [fc]
 [ns]Shigeyoshi[nse]
-"Huh? What happened to the rest!? Where are the brat and Mizuki!?"[pcms]
+"Huh? What happened to the rest!? Where are the brat and[r]
+Mizuki!?"[pcms]
 
 *1825|
 [fc]
-That's right! Kousuke and Mizuki!? They don't seem to be here...[pcms]
+That's right! Kousuke and Mizuki!? They don't seem to be[r]
+here...[pcms]
 
 *1826|
 [fc]
@@ -105,13 +109,13 @@ That's right! Kousuke and Mizuki!? They don't seem to be here...[pcms]
 *1827|
 [fc]
 [ns]Shigeyoshi[nse]
-"They got away? You useless fools! ...Well, whatever. Having three girls is more[r]
-than enough."[pcms]
+"They got away? You useless fools! ...Well, whatever. Having[r]
+three girls is more than enough."[pcms]
 
 *1828|
 [fc]
-Shigeyoshi leers at Maruko-senpai and the others. As usual, he thinks with[r]
-nothing but his lower half.[pcms]
+Shigeyoshi leers at Maruko-senpai and the others. As usual,[r]
+he thinks with nothing but his lower half.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -127,8 +131,8 @@ nothing but his lower half.[pcms]
 
 *1831|
 [fc]
-Shaking off the hand of the male student grabbing my arm, I walk on my own[r]
-towards where Yuuho and the others are.[pcms]
+Shaking off the hand of the male student grabbing my arm, I[r]
+walk on my own towards where Yuuho and the others are.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -161,18 +165,19 @@ At least, they don't seem to be injured...[pcms]
 [fc]
 [vo_mar s="maru1055"]
 [ns]Margarita[nse]
-"I'm sorry... I wanted to help everyone escape... It's my fault for not being[r]
-strong enough."[pcms]
+"I'm sorry... I wanted to help everyone escape... It's my[r]
+fault for not being strong enough."[pcms]
 
 *1837|
 [fc]
 [ns]Wataru[nse]
-"Maruko-senpai... It's my fault too, for being powerless and weak..."[pcms]
+"Maruko-senpai... It's my fault too, for being powerless and[r]
+weak..."[pcms]
 
 *1838|
 [fc]
-Bowing my head to Maruko-senpai's grimacing face, I take Yuuho's hand that she[r]
-offers.[pcms]
+Bowing my head to Maruko-senpai's grimacing face, I take[r]
+Yuuho's hand that she offers.[pcms]
 
 *1839|
 [fc]
@@ -191,37 +196,40 @@ offers.[pcms]
 
 *1841|
 [fc]
-Tears spill from Yuuho as she starts to cry, and I pull her into an embrace.[pcms]
+Tears spill from Yuuho as she starts to cry, and I pull her[r]
+into an embrace.[pcms]
 
 *1842|
 [fc]
-The softness and warmth of Yuuho's body spread through me. I wanted to let her[r]
-escape... I wanted to protect her...[pcms]
+The softness and warmth of Yuuho's body spread through me. I[r]
+wanted to let her escape... I wanted to protect her...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1843|
 [fc]
 [ns]Shigeyoshi[nse]
-"Now then... now that everyone's here, shall we begin? ...But first, we need to[r]
-finish the final preparations. The grand finale of my conquest."[pcms]
+"Now then... now that everyone's here, shall we begin?[r]
+...But first, we need to finish the final preparations. The[r]
+grand finale of my conquest."[pcms]
 
 *1844|
 [fc]
-Shigeyoshi's voice, laden with an ominous tone, echoes lowly around the dome.[pcms]
+Shigeyoshi's voice, laden with an ominous tone, echoes lowly[r]
+around the dome.[pcms]
 
 *1845|
 [fc]
-Bloodshot eyes that seem to barely focus. Those eyes slowly scan over us and[r]
-come to a halt on Jin-san's face.[pcms]
+Bloodshot eyes that seem to barely focus. Those eyes slowly[r]
+scan over us and come to a halt on Jin-san's face.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1846|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hey, big bro... I've climbed up, see? Not by using my head like you, but with a[r]
-much simpler and clearer method."[pcms]
+"Hey, big bro... I've climbed up, see? Not by using my head[r]
+like you, but with a much simpler and clearer method."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -235,8 +243,8 @@ much simpler and clearer method."[pcms]
 *1848|
 [fc]
 [ns]Shigeyoshi[nse]
-"Right? That's why I have to stay true to myself until the end, big bro... no,[r]
-Jin Mitsuki!"[pcms]
+"Right? That's why I have to stay true to myself until the[r]
+end, big bro... no, Jin Mitsuki!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -256,8 +264,8 @@ Jin Mitsuki!"[pcms]
 
 *1851|
 [fc]
-At Shigeyoshi's mad scream, Yuuho cries out and clings to me. I hug her tightly[r]
-as if to block her eyes and ears.[pcms]
+At Shigeyoshi's mad scream, Yuuho cries out and clings to[r]
+me. I hug her tightly as if to block her eyes and ears.[pcms]
 
 *1852|
 [fc]
@@ -268,66 +276,70 @@ Surely... it's going to be terrible.[pcms]
 *1853|
 [fc]
 [ns]Shigeyoshi[nse]
-"We deal in violence. That's why we eliminate nuisances like this... Right,[r]
-Jin?"[pcms]
+"We deal in violence. That's why we eliminate nuisances like[r]
+this... Right, Jin?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1854|
 [fc]
 [ns]Jin[nse]
-"And on top of that, this is what you do? Even non-humans could do such things.[r]
-Like those infected with a broken brain."[pcms]
+"And on top of that, this is what you do? Even non-humans[r]
+could do such things. Like those infected with a broken[r]
+brain."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1855|
 [fc]
 [ns]Shigeyoshi[nse]
-"Shut up! A loser who can't even do this should just keep his mouth shut!!"[pcms]
+"Shut up! A loser who can't even do this should just keep[r]
+his mouth shut!!"[pcms]
 
 *1856|
 [fc]
-Jin's voice is calm and collected in contrast to Shigeyoshi's trembling voice.[r]
-Jin-san, why do you keep provoking him like this...?[pcms]
+Jin's voice is calm and collected in contrast to[r]
+Shigeyoshi's trembling voice. Jin-san, why do you keep[r]
+provoking him like this...?[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1857|
 [fc]
 [ns]Shigeyoshi[nse]
-"I was really grateful to you, you know? For picking up a dumbass like me who[r]
-was good for nothing and using me. But that's all over now... I'm the top dog[r]
-now!"[pcms]
+"I was really grateful to you, you know? For picking up a[r]
+dumbass like me who was good for nothing and using me. But[r]
+that's all over now... I'm the top dog now!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1858|
 [fc]
 [ns]Jin[nse]
-"Yeah, do as you like. Whoever wants to be king should just go ahead and be[r]
-one."[pcms]
+"Yeah, do as you like. Whoever wants to be king should just[r]
+go ahead and be one."[pcms]
 
 *1859|
 [fc]
-The man seems resigned, accepting everything indifferentlyperhaps he knows what[r]
-the outcome will be...[pcms]
+The man seems resigned, accepting everything[r]
+indifferentlyperhaps he knows what the outcome will be...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1860|
 [fc]
 [ns]Jin[nse]
-"What's wrong? Can't do it when it comes down to it? Are you a fool who can't do[r]
-anything without being told by me until the very end? Go on, try it."[pcms]
+"What's wrong? Can't do it when it comes down to it? Are you[r]
+a fool who can't do anything without being told by me until[r]
+the very end? Go on, try it."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1861|
 [fc]
 [ns]Shigeyoshi[nse]
-"You bastard! Stop acting like my big brother! I'm the top dog... I'm number[r]
-one! I can do whatever I want!!"[pcms]
+"You bastard! Stop acting like my big brother! I'm the top[r]
+dog... I'm number one! I can do whatever I want!!"[pcms]
 
 
 [chara_int][trans_c cross time=150]
@@ -367,18 +379,19 @@ one! I can do whatever I want!!"[pcms]
 
 *1865|
 [fc]
-A loud sound echoed. Red liquid splattered. And then, Jin-san's body slowly[r]
-crumbled.[pcms]
+A loud sound echoed. Red liquid splattered. And then, Jin-[r]
+san's body slowly crumbled.[pcms]
 
 *1866|
 [fc]
-Yuuho seemed unable to comprehend what had just happened before her eyes,[r]
-standing there in a daze. Naturally, I was too...[pcms]
+Yuuho seemed unable to comprehend what had just happened[r]
+before her eyes, standing there in a daze. Naturally, I was[r]
+too...[pcms]
 
 *1867|
 [fc]
-Could it really come to this...? Even though we're all human... different from[r]
-those infected...![pcms]
+Could it really come to this...? Even though we're all[r]
+human... different from those infected...![pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -416,16 +429,17 @@ Screams echoed throughout the main dome.[pcms]
 *1872|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hah, hah... I killed him... I did it...! Now I'm the top dog... I'm the king[r]
-nowww!!"[pcms]
+"Hah, hah... I killed him... I did it...! Now I'm the top[r]
+dog... I'm the king nowww!!"[pcms]
 
 ;//se073ÅEäΩê∫
 [se buf=0 storage="se073"]
 
 *1873|
 [fc]
-Shigeyoshi's declaration was met with cheers from his underlings as they surged[r]
-forward. Their eyes glinted with lust, almost like those of the infected--[pcms]
+Shigeyoshi's declaration was met with cheers from his[r]
+underlings as they surged forward. Their eyes glinted with[r]
+lust, almost like those of the infected--[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -453,8 +467,8 @@ forward. Their eyes glinted with lust, almost like those of the infected--[pcms]
 
 *1877|
 [fc]
-Standing in front of Yuuho and the others as if to shield them, glaring at the[r]
-underlings as they pressed in.[pcms]
+Standing in front of Yuuho and the others as if to shield[r]
+them, glaring at the underlings as they pressed in.[pcms]
 
 
 [chara_int][trans_c cross time=150]
@@ -466,8 +480,8 @@ underlings as they pressed in.[pcms]
 
 *1879|
 [fc]
-Maruko-senpai... Ren, Yuuho...! I'll protect them... I'll protect everyone...[r]
-Yuuho![pcms]
+Maruko-senpai... Ren, Yuuho...! I'll protect them... I'll[r]
+protect everyone... Yuuho![pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -478,8 +492,9 @@ Yuuho![pcms]
 
 *1881|
 [fc]
-Shigeyoshi approached with large strides, waving his gun around, a mad smile[r]
-plastered across his face as he pressed the barrel against my forehead.[pcms]
+Shigeyoshi approached with large strides, waving his gun[r]
+around, a mad smile plastered across his face as he pressed[r]
+the barrel against my forehead.[pcms]
 
 *1882|
 [fc]
@@ -519,8 +534,8 @@ plastered across his face as he pressed the barrel against my forehead.[pcms]
 
 *1887|
 [fc]
-As I stood frozen as if bound by a spell, Shigeyoshi laughed mockingly and[r]
-reached out carelessly. And then--[pcms]
+As I stood frozen as if bound by a spell, Shigeyoshi laughed[r]
+mockingly and reached out carelessly. And then--[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -540,7 +555,8 @@ reached out carelessly. And then--[pcms]
 *1890|
 [fc]
 [ns]Shigeyoshi[nse]
-"I ain't gonna do nothing. As long as you behave and listen to what I say."[pcms]
+"I ain't gonna do nothing. As long as you behave and listen[r]
+to what I say."[pcms]
 
 *1891|
 [fc]
@@ -588,8 +604,8 @@ What on earth is he going to make me do...?[pcms]
 *1896|
 [fc]
 [ns]Shigeyoshi[nse]
-"That's right, do it properly. You wouldn't want your doll to get killed now,[r]
-would you?"[pcms]
+"That's right, do it properly. You wouldn't want your doll[r]
+to get killed now, would you?"[pcms]
 
 *1897|
 [fc]
@@ -599,30 +615,35 @@ would you?"[pcms]
 
 *1898|
 [fc]
-Yuuho sucking and slurping on my thing, and me, unable to do anything but accept[r]
-the act. It's pathetic... to make Yuuho do something like this...[pcms]
+Yuuho sucking and slurping on my thing, and me, unable to do[r]
+anything but accept the act. It's pathetic... to make Yuuho[r]
+do something like this...[pcms]
 
 *1899|
 [fc]
 [vo_mar s="maru1060"]
 [ns]Margarita[nse]
-"You... scumbag! Always doing things that humiliate people...!"[pcms]
+"You... scumbag! Always doing things that humiliate[r]
+people...!"[pcms]
 
 *1900|
 [fc]
-Maruko-senpai raises her voice in anger on behalf of me and Yuuho.[pcms]
+Maruko-senpai raises her voice in anger on behalf of me and[r]
+Yuuho.[pcms]
 
 *1901|
 [fc]
-However, with Ren being held hostage, that was all she could do...[pcms]
+However, with Ren being held hostage, that was all she could[r]
+do...[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1902|
 [fc]
 [ns]Shigeyoshi[nse]
-"Don't look at me with such scary eyes; it sends shivers down my spine. Besides,[r]
-you should be thanking me. You get to screw your beloved Yuuho-chan."[pcms]
+"Don't look at me with such scary eyes; it sends shivers[r]
+down my spine. Besides, you should be thanking me. You get[r]
+to screw your beloved Yuuho-chan."[pcms]
 
 *1903|
 [fc]
@@ -637,13 +658,13 @@ you should be thanking me. You get to screw your beloved Yuuho-chan."[pcms]
 
 *1905|
 [fc]
-Sure, I've always thought it would be nice if Yuuho and I could have that kind[r]
-of relationship...[pcms]
+Sure, I've always thought it would be nice if Yuuho and I[r]
+could have that kind of relationship...[pcms]
 
 *1906|
 [fc]
-But not like this... with Ren held hostage, in front of all these people,[r]
-forcing Yuuho against her will...[pcms]
+But not like this... with Ren held hostage, in front of all[r]
+these people, forcing Yuuho against her will...[pcms]
 
 *1907|
 [fc]
@@ -652,8 +673,9 @@ forcing Yuuho against her will...[pcms]
 
 *1908|
 [fc]
-Tears welled up from the sheer helplessness. I couldn't even protect the girl I[r]
-love... and now I'm doing something that hurts her...[pcms]
+Tears welled up from the sheer helplessness. I couldn't even[r]
+protect the girl I love... and now I'm doing something that[r]
+hurts her...[pcms]
 
 [evcg storage="HEV059a"][trans_c cross time=300]
 
@@ -661,7 +683,8 @@ love... and now I'm doing something that hurts her...[pcms]
 [fc]
 [vo_yuh s="yuho1226"]
 [ns]Yuuho[nse]
-"Don't cry, Wataru... It can't be helped, it's for Ren-chan's sake..."[pcms]
+"Don't cry, Wataru... It can't be helped, it's for Ren-[r]
+chan's sake..."[pcms]
 
 *1910|
 [fc]
@@ -689,29 +712,30 @@ love... and now I'm doing something that hurts her...[pcms]
 
 *1914|
 [fc]
-Taken aback by her unexpected words, I asked again, but Yuuho blushed and[r]
-returned to the act.[pcms]
+Taken aback by her unexpected words, I asked again, but[r]
+Yuuho blushed and returned to the act.[pcms]
 
 *1915|
 [fc]
-Could it be... Yuuho also has feelings for me...? I thought she only saw me as a[r]
-childhood friend...[pcms]
+Could it be... Yuuho also has feelings for me...? I thought[r]
+she only saw me as a childhood friend...[pcms]
 
 *1916|
 [fc]
-After all, Yuuho is cute, talented, and loved by everyone as the local idol...[pcms]
+After all, Yuuho is cute, talented, and loved by everyone as[r]
+the local idol...[pcms]
 
 *1917|
 [fc]
-I thought we were mismatched, that she was out of my league and would eventually[r]
-go far away...[pcms]
+I thought we were mismatched, that she was out of my league[r]
+and would eventually go far away...[pcms]
 
 *1918|
 [fc]
 [vo_yuh s="yuho1229"]
 [ns]Yuuho[nse]
-"Nchu, kumu, hapu, chu... Wataru, does it feel good...? This is my first time...[r]
-I'm not sure what to do..."[pcms]
+"Nchu, kumu, hapu, chu... Wataru, does it feel good...? This[r]
+is my first time... I'm not sure what to do..."[pcms]
 
 *1919|
 [fc]
@@ -748,8 +772,8 @@ If it weren't for this situation... I would be so happy...![pcms]
 *1924|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gyahahaha! How is it, feeling good? To cum inside the mouth of your cute[r]
-childhood friend!"[pcms]
+"Gyahahaha! How is it, feeling good? To cum inside the mouth[r]
+of your cute childhood friend!"[pcms]
 
 *1925|
 [fc]
@@ -758,7 +782,8 @@ childhood friend!"[pcms]
 
 *1926|
 [fc]
-To ejaculate inside Yuuho's mouth... I never imagined such a thing...[pcms]
+To ejaculate inside Yuuho's mouth... I never imagined such a[r]
+thing...[pcms]
 
 [evcg storage="HEV059d"][trans_c cross time=300]
 
@@ -766,8 +791,8 @@ To ejaculate inside Yuuho's mouth... I never imagined such a thing...[pcms]
 [fc]
 [vo_yuh s="yuho1232"]
 [ns]Yuuho[nse]
-"Nn, nuku... apu, kumu... Nmu, koku, koku... gulp... Puaah, haa, haa...[r]
-Wataru..."[pcms]
+"Nn, nuku... apu, kumu... Nmu, koku, koku... gulp... Puaah,[r]
+haa, haa... Wataru..."[pcms]
 
 *1928|
 [fc]
@@ -776,14 +801,15 @@ Wataru..."[pcms]
 
 *1929|
 [fc]
-Yuuho swallowed my cum...? She swallowed everything I ejaculated into her[r]
-mouth...[pcms]
+Yuuho swallowed my cum...? She swallowed everything I[r]
+ejaculated into her mouth...[pcms]
 
 *1930|
 [fc]
 [ns]Shigeyoshi[nse]
-"Ohou, you're really setting the mood! Didn't expect you to swallow it all. Did[r]
-you enjoy the taste of semen that much, Yuuho-chan?"[pcms]
+"Ohou, you're really setting the mood! Didn't expect you to[r]
+swallow it all. Did you enjoy the taste of semen that much,[r]
+Yuuho-chan?"[pcms]
 
 *1931|
 [fc]
@@ -794,7 +820,8 @@ you enjoy the taste of semen that much, Yuuho-chan?"[pcms]
 [fc]
 [vo_yuh s="yuho1233"]
 [ns]Yuuho[nse]
-"Nmu, ku... It's okay... If it's Wataru's, I don't mind swallowing..."[pcms]
+"Nmu, ku... It's okay... If it's Wataru's, I don't mind[r]
+swallowing..."[pcms]
 
 *1933|
 [fc]
@@ -803,12 +830,14 @@ you enjoy the taste of semen that much, Yuuho-chan?"[pcms]
 
 *1934|
 [fc]
-Tears started to well up again. Yuuho cares about me this much...[pcms]
+Tears started to well up again. Yuuho cares about me this[r]
+much...[pcms]
 
 *1935|
 [fc]
 [ns]Shigeyoshi[nse]
-"Come on, don't just show off forever! Let's continue, let's go!!"[pcms]
+"Come on, don't just show off forever! Let's continue, let's[r]
+go!!"[pcms]
 
 *1936|
 [fc]
@@ -818,7 +847,8 @@ Tears started to well up again. Yuuho cares about me this much...[pcms]
 *1937|
 [fc]
 [ns]Shigeyoshi[nse]
-"Nope, you're wrong. The one who's gonna damage Yuuho-chan is you!"[pcms]
+"Nope, you're wrong. The one who's gonna damage Yuuho-chan[r]
+is you!"[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇQÇQÅiÇxÇWÅj
 [evcg storage="DEV022a"][trans_c cross time=300]
@@ -836,14 +866,14 @@ Tears started to well up again. Yuuho cares about me this much...[pcms]
 
 *1940|
 [fc]
-Pinned down on the floor and unable to move, Yuuho was forced by Shigeyoshi to[r]
-spread her legs over me.[pcms]
+Pinned down on the floor and unable to move, Yuuho was[r]
+forced by Shigeyoshi to spread her legs over me.[pcms]
 
 *1941|
 [fc]
 [ns]Shigeyoshi[nse]
-"Don't hold back, let's fulfill your great wish! Here you go, sex with Yuuho-[r]
-chan! Enjoy it to the fullest!!"[pcms]
+"Don't hold back, let's fulfill your great wish! Here you[r]
+go, sex with Yuuho- chan! Enjoy it to the fullest!!"[pcms]
 
 *1942|
 [fc]
@@ -863,13 +893,13 @@ chan! Enjoy it to the fullest!!"[pcms]
 
 *1944|
 [fc]
-A disgusting squelching sound as my thing is forcibly twisted inside Yuuho's[r]
-pussy.[pcms]
+A disgusting squelching sound as my thing is forcibly[r]
+twisted inside Yuuho's pussy.[pcms]
 
 *1945|
 [fc]
-Bright red blood stains my lower abdomen and the painfully tight soft flesh[r]
-squeezes my penis tightly--[pcms]
+Bright red blood stains my lower abdomen and the painfully[r]
+tight soft flesh squeezes my penis tightly--[pcms]
 
 *1946|
 [fc]
@@ -891,8 +921,9 @@ squeezes my penis tightly--[pcms]
 *1948|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hey hey, what's this? Yuuho-chan's deflowering and first creampie at the same[r]
-time! Put more spirit into it, you premature boy!!"[pcms]
+"Hey hey, what's this? Yuuho-chan's deflowering and first[r]
+creampie at the same time! Put more spirit into it, you[r]
+premature boy!!"[pcms]
 
 *1949|
 [fc]
@@ -901,7 +932,8 @@ time! Put more spirit into it, you premature boy!!"[pcms]
 
 *1950|
 [fc]
-To take her virginity in such a way and even ejaculate inside her...[pcms]
+To take her virginity in such a way and even ejaculate[r]
+inside her...[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇQÇQÅiÇxÇWÅjç∑ï™
 [evcg storage="DEV022d"][trans_c cross time=300]
@@ -910,13 +942,14 @@ To take her virginity in such a way and even ejaculate inside her...[pcms]
 [fc]
 [vo_yuh s="yuho1237"]
 [ns]Yuuho[nse]
-"It's okay... so... Ugh, gik... hik, iii...! Kaah... aahh, nhah, haguuh!"[pcms]
+"It's okay... so... Ugh, gik... hik, iii...! Kaah... aahh,[r]
+nhah, haguuh!"[pcms]
 
 *1952|
 [fc]
 [ns]Shigeyoshi[nse]
-"Ora ora, do it more! Enjoy it more! After all, it might be your first and last[r]
-time!"[pcms]
+"Ora ora, do it more! Enjoy it more! After all, it might be[r]
+your first and last time!"[pcms]
 
 *1953|
 [fc]
@@ -924,14 +957,15 @@ A brave smile from Yuuho through Shigeyoshi's vile grin.[pcms]
 
 *1954|
 [fc]
-The face I didn't want to see lifts and drops Yuuho, forcing her into a piston[r]
-motion.[pcms]
+The face I didn't want to see lifts and drops Yuuho, forcing[r]
+her into a piston motion.[pcms]
 
 *1955|
 [fc]
 [vo_yuh s="yuho1238"]
 [ns]Yuuho[nse]
-"Uaa, kih...! My insides... they're being scraped raw... agu! Hik... fuguuuh!"[pcms]
+"Uaa, kih...! My insides... they're being scraped raw...[r]
+agu! Hik... fuguuuh!"[pcms]
 
 *1956|
 [fc]
@@ -941,20 +975,21 @@ motion.[pcms]
 *1957|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gyahahaha!! Your pathetic dick is enjoying itself inside her pussy! Be[r]
-honest!!"[pcms]
+"Gyahahaha!! Your pathetic dick is enjoying itself inside[r]
+her pussy! Be honest!!"[pcms]
 
 *1958|
 [fc]
 [vo_yuh s="yuho1239"]
 [ns]Yuuho[nse]
-"Agu! So deep... inside! My deepest insides are being scraped... ukuh, ah...[r]
-kuh, kihii!"[pcms]
+"Agu! So deep... inside! My deepest insides are being[r]
+scraped... ukuh, ah... kuh, kihii!"[pcms]
 
 *1959|
 [fc]
-The mixture of my semen and Yuuho's virgin blood creates a pale red liquid that[r]
-froths with obscene squelching sounds and dirties both our lower abdomens.[pcms]
+The mixture of my semen and Yuuho's virgin blood creates a[r]
+pale red liquid that froths with obscene squelching sounds[r]
+and dirties both our lower abdomens.[pcms]
 
 *1960|
 [fc]
@@ -968,29 +1003,30 @@ froths with obscene squelching sounds and dirties both our lower abdomens.[pcms]
 [fc]
 [vo_yuh s="yuho1240"]
 [ns]Yuuho[nse]
-"It's okay... so! With Wataru... if it's with Wataru, I'm fine... so ahh![r]
-Igihh... guh, unnn!!"[pcms]
+"It's okay... so! With Wataru... if it's with Wataru, I'm[r]
+fine... so ahh! Igihh... guh, unnn!!"[pcms]
 
 *1962|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uhhoo~! You two are so lovey-dovey! Then here! Might as well complete the baby-[r]
-making while you're at it!"[pcms]
+"Uhhoo~! You two are so lovey-dovey! Then here! Might as[r]
+well complete the baby- making while you're at it!"[pcms]
 
 *1963|
 [fc]
-While spewing mocking words, Shigeyoshi violently moves Yuuho's body up and down[r]
-even more.[pcms]
+While spewing mocking words, Shigeyoshi violently moves[r]
+Yuuho's body up and down even more.[pcms]
 
 *1964|
 [fc]
-The tip of my thing hits the deepest part of Yuuho and grinds against the tight[r]
-insides almost pulling out before being yanked back in.[pcms]
+The tip of my thing hits the deepest part of Yuuho and[r]
+grinds against the tight insides almost pulling out before[r]
+being yanked back in.[pcms]
 
 *1965|
 [fc]
-The stimulation forcibly activates my urge to ejaculate, dragging pleasure from[r]
-deep within my hips.[pcms]
+The stimulation forcibly activates my urge to ejaculate,[r]
+dragging pleasure from deep within my hips.[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇQÇQÅiÇxÇWÅjç∑ï™
 [evcg storage="DEV022d"][trans_c cross time=300]
@@ -999,7 +1035,8 @@ deep within my hips.[pcms]
 [fc]
 [vo_yuh s="yuho1241"]
 [ns]Yuuho[nse]
-"Nguh, kuh... kih, iii...! Wa, Wataru...! Wataru, Wataru... uuuu!!"[pcms]
+"Nguh, kuh... kih, iii...! Wa, Wataru...! Wataru, Wataru...[r]
+uuuu!!"[pcms]
 
 *1967|
 [fc]
@@ -1009,13 +1046,14 @@ deep within my hips.[pcms]
 *1968|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gyahahaha!! Just let your sperm fly already! Go on and knock up your beloved[r]
-Yuuho-chan!!"[pcms]
+"Gyahahaha!! Just let your sperm fly already! Go on and[r]
+knock up your beloved Yuuho-chan!!"[pcms]
 
 *1969|
 [fc]
-While scattering his vulgar laughter, Shigeyoshi suddenly drops Yuuho's body[r]
-down, slamming my thing into the deepest part of Yuuho.[pcms]
+While scattering his vulgar laughter, Shigeyoshi suddenly[r]
+drops Yuuho's body down, slamming my thing into the deepest[r]
+part of Yuuho.[pcms]
 
 *1970|
 [fc]
@@ -1044,15 +1082,15 @@ The stimulation pushes me past my limit--[pcms]
 *1973|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uha, hahaha!! This is amazing! Yuuho-chan is cumming from getting creampied in[r]
-her pussy for the first time!!"[pcms]
+"Uha, hahaha!! This is amazing! Yuuho-chan is cumming from[r]
+getting creampied in her pussy for the first time!!"[pcms]
 
 *1974|
 [fc]
 [vo_yuh s="yuho1243"]
 [ns]Yuuho[nse]
-"Ha, ahih, fugu... uh, aah... it's coming out... Wataru's twitching... so much[r]
-hot stuff..."[pcms]
+"Ha, ahih, fugu... uh, aah... it's coming out... Wataru's[r]
+twitching... so much hot stuff..."[pcms]
 
 *1975|
 [fc]
@@ -1061,7 +1099,8 @@ hot stuff..."[pcms]
 
 *1976|
 [fc]
-Yuuho receives my sperm deep in her belly, her body twitching violently.[pcms]
+Yuuho receives my sperm deep in her belly, her body[r]
+twitching violently.[pcms]
 
 *1977|
 [fc]
@@ -1075,7 +1114,8 @@ I'm sorry... I'm sorry, Yuuho...[pcms]
 [fc]
 [vo_yuh s="yuho1244"]
 [ns]Yuuho[nse]
-"Ha, aah... ukuh, fu, uuu... Wa, taru... I love you so much... Wataru..."[pcms]
+"Ha, aah... ukuh, fu, uuu... Wa, taru... I love you so[r]
+much... Wataru..."[pcms]
 
 ;//ÅÚ_ÉuÉâÉbÉNÉAÉEÉg
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1093,8 +1133,9 @@ I'm sorry... I'm sorry, Yuuho...[pcms]
 
 *1981|
 [fc]
-The blood drains from my body at Shigeyoshi's mocking laughter... and then boils[r]
-with rage throughout my entire body.[pcms]
+The blood drains from my body at Shigeyoshi's mocking[r]
+laughter... and then boils with rage throughout my entire[r]
+body.[pcms]
 
 *1982|
 [fc]
@@ -1106,8 +1147,8 @@ with rage throughout my entire body.[pcms]
 *1983|
 [fc]
 [ns]Shigeyoshi[nse]
-"Oh!? After showing you such a good time, that's your attitude? You should be[r]
-groveling in gratitude!"[pcms]
+"Oh!? After showing you such a good time, that's your[r]
+attitude? You should be groveling in gratitude!"[pcms]
 
 *1984|
 [fc]
@@ -1122,8 +1163,8 @@ groveling in gratitude!"[pcms]
 
 *1986|
 [fc]
-Yuuho pulls on my hand. But I can never forgive this guy for humiliating Yuuho[r]
-like that![pcms]
+Yuuho pulls on my hand. But I can never forgive this guy for[r]
+humiliating Yuuho like that![pcms]
 
 *1987|
 [fc]
@@ -1134,7 +1175,8 @@ Even if there's sin in the act itself...[pcms]
 *1988|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hmph, you've got nothing left to regret. Annoying brat. Go to the real heaven."[pcms]
+"Hmph, you've got nothing left to regret. Annoying brat. Go[r]
+to the real heaven."[pcms]
 
 *1989|
 [fc]
@@ -1166,12 +1208,13 @@ Even if there's sin in the act itself...[pcms]
 [fc]
 [vo_mar s="maru1061"]
 [ns]Margarita[nse]
-"Ayase!! Pull yourself together Ayase!! Open your eyes! Ayase----!!!"[pcms]
+"Ayase!! Pull yourself together Ayase!! Open your eyes![r]
+Ayase----!!!"[pcms]
 
 *1993|
 [fc]
-The screams grow distant... As the heat in my chest burns, strength flows out[r]
-along with the pain...[pcms]
+The screams grow distant... As the heat in my chest burns,[r]
+strength flows out along with the pain...[pcms]
 
 *1994|
 [fc]
@@ -1181,7 +1224,8 @@ along with the pain...[pcms]
 
 *1995|
 [fc]
-I have to stand up... stand up and protect everyone... Yuuho...[pcms]
+I have to stand up... stand up and protect everyone...[r]
+Yuuho...[pcms]
 
 *1996|
 [fc]

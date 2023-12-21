@@ -19,8 +19,8 @@
 *1638|
 [fc]
 [ns]Wataru[nse]
-"But if there's someone who really wants to move, we could split into two[r]
-groups..."[pcms]
+"But if there's someone who really wants to move, we could[r]
+split into two groups..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -34,8 +34,8 @@ groups..."[pcms]
 *1640|
 [fc]
 [ns]Kousuke[nse]
-"If we split up, I'd be worried about that side too, and maybe... their parents[r]
-might be there as well. And..."[pcms]
+"If we split up, I'd be worried about that side too, and[r]
+maybe... their parents might be there as well. And..."[pcms]
 
 *1641|
 [fc]
@@ -62,7 +62,8 @@ Kousuke's gaze flickered for a moment.[pcms]
 *1644|
 [fc]
 [ns]Kousuke[nse]
-"I'm the one who will protect Mizuki. So... I'm staying too!"[pcms]
+"I'm the one who will protect Mizuki. So... I'm staying[r]
+too!"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -78,8 +79,8 @@ Kousuke's gaze flickered for a moment.[pcms]
 
 *1646|
 [fc]
-Caught off guard by his sudden declaration, Mizuki was at a loss for words and[r]
-her cheeks turned red.[pcms]
+Caught off guard by his sudden declaration, Mizuki was at a[r]
+loss for words and her cheeks turned red.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -125,7 +126,8 @@ Shigeyoshi snorted, seemingly unamused.[pcms]
 
 *1653|
 [fc]
-And so, the decision to 'barricade with everyone' was finally made.[pcms]
+And so, the decision to 'barricade with everyone' was[r]
+finally made.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -139,9 +141,9 @@ And so, the decision to 'barricade with everyone' was finally made.[pcms]
 [fc]
 [vo_mar s="maru1486"]
 [ns]Margarita[nse]
-"We have no idea how long we'll need to wait for rescue. If we consider a long-[r]
-term siege, the first thing we should think about is securing the safety of this[r]
-place."[pcms]
+"We have no idea how long we'll need to wait for rescue. If[r]
+we consider a long- term siege, the first thing we should[r]
+think about is securing the safety of this place."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -172,8 +174,9 @@ Of course, no one was going to object.[pcms]
 [fc]
 [vo_mar s="maru1487"]
 [ns]Margarita[nse]
-"If possible, I want to drive out the infected from beyond the 1st-floor fire[r]
-doors... that is, from the entrance hall and completely seal off the premises."[pcms]
+"If possible, I want to drive out the infected from beyond[r]
+the 1st-floor fire doors... that is, from the entrance hall[r]
+and completely seal off the premises."[pcms]
 ;//ÅóÇPÇeÇÕÇPäKÅiÇ©Ç¢ÅjÇ∆ì«ÇÒÇ≈â∫Ç≥Ç¢ÅB
 
 *1660|
@@ -193,7 +196,8 @@ The senior looked around at everyone's faces.[pcms]
 
 
 ;	[link storage="50320.ks" target=*50320_TOP]ñ≥óùÇ¡Ç€Ç≠Ç»Ç¢ÅH[endlink]
-; (link storage="50330.ks" target=*50330_TOP)Could it be possible?(endlink)[pcms]
+; (link storage="50330.ks" target=*50330_TOP)Could it be[r]
+possible?(endlink)[pcms]
 
 *SEL44|ñ≥óùÇ¡Ç€Ç≠Ç»Ç¢ÅHÅ^Ç≈Ç´ÇÈÇ©Ç‡ÅH
 [fc]

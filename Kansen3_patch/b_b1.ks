@@ -14,11 +14,13 @@
 
 *4381|
 [fc]
-There's no time to hesitate. I have to go save Yuuho quickly!![pcms]
+There's no time to hesitate. I have to go save Yuuho[r]
+quickly!![pcms]
 
 *4382|
 [fc]
-I ran to get the ladder that should take me straight to Yuuho's side.[pcms]
+I ran to get the ladder that should take me straight to[r]
+Yuuho's side.[pcms]
 
 *4383|
 [fc]
@@ -31,7 +33,8 @@ But--[pcms]
 
 *4385|
 [fc]
-The moment I burst out of the indoor pool, someone appeared, swaying.[pcms]
+The moment I burst out of the indoor pool, someone appeared,[r]
+swaying.[pcms]
 
 [白フラ]
 
@@ -39,7 +42,8 @@ The moment I burst out of the indoor pool, someone appeared, swaying.[pcms]
 
 *4386|
 [fc]
-I collided head-on with them and ended up rolling on the floor.[pcms]
+I collided head-on with them and ended up rolling on the[r]
+floor.[pcms]
 
 *4387|
 [fc]
@@ -48,11 +52,13 @@ I collided head-on with them and ended up rolling on the floor.[pcms]
 
 *4388|
 [fc]
-While worrying about my bruised hip, I looked at the person I bumped into.[pcms]
+While worrying about my bruised hip, I looked at the person[r]
+I bumped into.[pcms]
 
 *4389|
 [fc]
-They're wearing a uniform... so they must be a student at the academy, right?[pcms]
+They're wearing a uniform... so they must be a student at[r]
+the academy, right?[pcms]
 
 *4390|
 [fc]
@@ -61,8 +67,8 @@ They're wearing a uniform... so they must be a student at the academy, right?[pc
 
 *4391|
 [fc]
-While letting out a relieved breath, I looked up at him, forgetting even to get[r]
-up.[pcms]
+While letting out a relieved breath, I looked up at him,[r]
+forgetting even to get up.[pcms]
 
 *4392|
 [fc]
@@ -81,7 +87,8 @@ Red!![pcms]
 
 *4395|
 [fc]
-Which was faster, me trying to hurriedly get up or him pouncing on me?[pcms]
+Which was faster, me trying to hurriedly get up or him[r]
+pouncing on me?[pcms]
 
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
 ;//<ImageInit 9><UpDate Cross,500>
@@ -92,8 +99,8 @@ And him biting at my throat?[pcms]
 
 *4397|
 [fc]
-The answer will remain unknown forever, as my consciousness was swallowed by[r]
-darkness.[pcms]
+The answer will remain unknown forever, as my consciousness[r]
+was swallowed by darkness.[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]

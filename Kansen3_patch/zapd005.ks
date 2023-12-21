@@ -29,13 +29,14 @@
 
 *3339|
 [fc]
-Jin's voice sounded a bit panicked. Why would he, who is always calm, be in such[r]
-a state?[pcms]
+Jin's voice sounded a bit panicked. Why would he, who is[r]
+always calm, be in such a state?[pcms]
 
 *3340|
 [fc]
-I don't understand. My head, still not functioning properly due to the effects[r]
-of the medicine and just waking up, can't comprehend why Jin is so flustered.[pcms]
+I don't understand. My head, still not functioning properly[r]
+due to the effects of the medicine and just waking up, can't[r]
+comprehend why Jin is so flustered.[pcms]
 
 *3341|
 [fc]
@@ -43,7 +44,8 @@ It's concerning... But I should go to Jin.[pcms]
 
 *3342|
 [fc]
-With a heavy head, I staggered to my feet and made my way outside the door.[pcms]
+With a heavy head, I staggered to my feet and made my way[r]
+outside the door.[pcms]
 
 [eval exp="f.l_mizuki = 1"]
 

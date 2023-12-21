@@ -19,8 +19,8 @@
 
 *112|
 [fc]
-As I was about to head to the third floor, I thought I heard a familiar voice[r]
-and turned towards it.[pcms]
+As I was about to head to the third floor, I thought I heard[r]
+a familiar voice and turned towards it.[pcms]
 
 ;//BG：EV005
 
@@ -47,13 +47,13 @@ and turned towards it.[pcms]
 
 *115|
 [fc]
-It was the sight of Senior Margarita kicking down the swarming infected one[r]
-after another.[pcms]
+It was the sight of Senior Margarita kicking down the[r]
+swarming infected one after another.[pcms]
 
 *116|
 [fc]
-Even at a time like this, her kicks are so beautiful that even a complete[r]
-amateur like me can tell...[pcms]
+Even at a time like this, her kicks are so beautiful that[r]
+even a complete amateur like me can tell...[pcms]
 
 *117|
 [fc]
@@ -78,8 +78,9 @@ amateur like me can tell...[pcms]
 
 *120|
 [fc]
-She quickly knocked down another one attacking from behind and, as if she had[r]
-finished a job, she dusted off her hands with a pat-pat.[pcms]
+She quickly knocked down another one attacking from behind[r]
+and, as if she had finished a job, she dusted off her hands[r]
+with a pat-pat.[pcms]
 
 ;//BG：学園内廊下
 [bg storage="BG017"][trans_c cross time=500]
@@ -99,7 +100,8 @@ Senior Margarita looked down at the infected with cold eyes.[pcms]
 
 *123|
 [fc]
-As I was captivated by her chilling gaze, she glared at my face.[pcms]
+As I was captivated by her chilling gaze, she glared at my[r]
+face.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -111,7 +113,8 @@ As I was captivated by her chilling gaze, she glared at my face.[pcms]
 
 *125|
 [fc]
-While staring at me, Senior Margarita quietly took her stance.[pcms]
+While staring at me, Senior Margarita quietly took her[r]
+stance.[pcms]
 
 *126|
 [fc]
@@ -135,7 +138,8 @@ Eh?[pcms]
 *129|
 [fc]
 [ns]Wataru[nse]
-"No, that's not it. I'm different from those guys! I'm not infected."[pcms]
+"No, that's not it. I'm different from those guys! I'm not[r]
+infected."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -156,8 +160,9 @@ Eh?[pcms]
 [fc]
 [vo_mar s="maru0057B"]
 [ns]Margarita[nse]
-"The Tohoku infection disaster? Impossible. But indeed, you seem different from[r]
-them. Escape quickly before the school is completely overrun by them."[pcms]
+"The Tohoku infection disaster? Impossible. But indeed, you[r]
+seem different from them. Escape quickly before the school[r]
+is completely overrun by them."[pcms]
 ;//〆ボイスa、b有り
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -179,8 +184,9 @@ them. Escape quickly before the school is completely overrun by them."[pcms]
 *135|
 [fc]
 [ns]Wataru[nse]
-"I have a sister. She's in the music room upstairs. And my best friend is in[r]
-another place... I can't just abandon them and run away."[pcms]
+"I have a sister. She's in the music room upstairs. And my[r]
+best friend is in another place... I can't just abandon them[r]
+and run away."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -188,13 +194,15 @@ another place... I can't just abandon them and run away."[pcms]
 [fc]
 [vo_mar s="maru0059"]
 [ns]Margarita[nse]
-"Their movements are slow. If you're determined, escaping should be no problem."[pcms]
+"Their movements are slow. If you're determined, escaping[r]
+should be no problem."[pcms]
 
 *137|
 [fc]
 [ns]Wataru[nse]
-"Maybe for my best friend. But my sister... Ren has always been physically weak.[r]
-She's slow and doesn't have much stamina. I have to protect her. She's family."[pcms]
+"Maybe for my best friend. But my sister... Ren has always[r]
+been physically weak. She's slow and doesn't have much[r]
+stamina. I have to protect her. She's family."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -206,8 +214,8 @@ She's slow and doesn't have much stamina. I have to protect her. She's family."[
 
 *139|
 [fc]
-Senior Margarita looked at me with an indescribable emotion on her face,[r]
-different from her usual expressionless one.[pcms]
+Senior Margarita looked at me with an indescribable emotion[r]
+on her face, different from her usual expressionless one.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -220,14 +228,15 @@ different from her usual expressionless one.[pcms]
 *141|
 [fc]
 [ns]Wataru[nse]
-"Senior... Could you please help me? It's embarrassing to say, but I can only[r]
-manage to run away on my own... It would be reassuring if you could come with[r]
-us..."[pcms]
+"Senior... Could you please help me? It's embarrassing to[r]
+say, but I can only manage to run away on my own... It would[r]
+be reassuring if you could come with us..."[pcms]
 
 *142|
 [fc]
-I hastily called out to Senior Margarita as she tried to slip past me while[r]
-readjusting the backpack filled with her belongings.[pcms]
+I hastily called out to Senior Margarita as she tried to[r]
+slip past me while readjusting the backpack filled with her[r]
+belongings.[pcms]
 
 *143|
 [fc]
@@ -255,8 +264,9 @@ No, I'm quite certain that we won't be able to make it...[pcms]
 
 *148|
 [fc]
-Senior Margarita's face, staring straight at me, showed no expression at all, as[r]
-if the emotion she had shown earlier was just an illusion.[pcms]
+Senior Margarita's face, staring straight at me, showed no[r]
+expression at all, as if the emotion she had shown earlier[r]
+was just an illusion.[pcms]
 
 *149|
 [fc]
@@ -265,13 +275,13 @@ She just looked at me coldly.[pcms]
 *150|
 [fc]
 [ns]Wataru[nse]
-"...I'm sorry. I relied on you too much, Senior. I'll manage to rescue my sister[r]
-by myself."[pcms]
+"...I'm sorry. I relied on you too much, Senior. I'll manage[r]
+to rescue my sister by myself."[pcms]
 
 *151|
 [fc]
-Just as I bowed my head and was about to head to the third floor, Senior[r]
-Margarita overtook me and ran up the stairs.[pcms]
+Just as I bowed my head and was about to head to the third[r]
+floor, Senior Margarita overtook me and ran up the stairs.[pcms]
 
 *152|
 [fc]
@@ -284,8 +294,8 @@ Margarita overtook me and ran up the stairs.[pcms]
 [fc]
 [vo_mar s="maru0063"]
 [ns]Margarita[nse]
-"It can't be helped. Even a brief encounter is a connection from a past life.[r]
-But if you dawdle, I'll leave you behind."[pcms]
+"It can't be helped. Even a brief encounter is a connection[r]
+from a past life. But if you dawdle, I'll leave you behind."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -300,13 +310,13 @@ But if you dawdle, I'll leave you behind."[pcms]
 [fc]
 [vo_mar s="maru0064"]
 [ns]Margarita[nse]
-"Save your thanks until we're out of here. If your sister has become one of[r]
-them, I won't show any mercy."[pcms]
+"Save your thanks until we're out of here. If your sister[r]
+has become one of them, I won't show any mercy."[pcms]
 
 *156|
 [fc]
-With a quiet intensity, Senior Margarita declared that and I followed her[r]
-resolutely.[pcms]
+With a quiet intensity, Senior Margarita declared that and I[r]
+followed her resolutely.[pcms]
 
 *157|
 [fc]
@@ -321,7 +331,8 @@ Even so...[pcms]
 
 *159|
 [fc]
-I prayed for Ren's safety as I chased after Senior Margarita up the stairs.[pcms]
+I prayed for Ren's safety as I chased after Senior Margarita[r]
+up the stairs.[pcms]
 
 ;//→block:30060
 [jump storage="30060.ks" target=*30060_TOP]

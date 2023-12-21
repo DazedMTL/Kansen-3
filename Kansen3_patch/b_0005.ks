@@ -17,7 +17,8 @@
 ;[winset][scene_exp_init]
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]緒織とセックスした[endlink]
-(link target=*scene_selend)I haven't had sex with Inori(endlink)[pcms]
+(link target=*scene_selend)I haven't had sex with[r]
+Inori(endlink)[pcms]
 
 	[call storage="_scene_sel.ks" target=*scene_sel_iori]
 
@@ -42,23 +43,26 @@
 
 *3308|
 [fc]
-Leaving Otowa behind, I shook my foggy head, somehow maintaining consciousness[r]
-as I walked towards Shibuya Station along the usual route to school.[pcms]
+Leaving Otowa behind, I shook my foggy head, somehow[r]
+maintaining consciousness as I walked towards Shibuya[r]
+Station along the usual route to school.[pcms]
 
 *3309|
 [fc]
-As my vision began to blur, I rubbed my eyes and continued through the shopping[r]
-district, realizing I was near Yuuho's house.[pcms]
+As my vision began to blur, I rubbed my eyes and continued[r]
+through the shopping district, realizing I was near Yuuho's[r]
+house.[pcms]
 
 *3310|
 [fc]
-But everything was completely different than usual. I had seen many strange[r]
-things today, but the scene in front of Yuuho's house was even more bizarre.[pcms]
+But everything was completely different than usual. I had[r]
+seen many strange things today, but the scene in front of[r]
+Yuuho's house was even more bizarre.[pcms]
 
 *3311|
 [fc]
-Even through my hazy eyes, it was clear that there was a huge crowd of people[r]
-around Yuuho's house.[pcms]
+Even through my hazy eyes, it was clear that there was a[r]
+huge crowd of people around Yuuho's house.[pcms]
 
 *3312|
 [fc]
@@ -67,12 +71,13 @@ around Yuuho's house.[pcms]
 
 *3313|
 [fc]
-The incident I had just witnessed in Otowa flashed through my mind. Could it be[r]
-Yuuho this time?[pcms]
+The incident I had just witnessed in Otowa flashed through[r]
+my mind. Could it be Yuuho this time?[pcms]
 
 *3314|
 [fc]
-Dragging my staggering feet, I hurried towards Yuuho's house.[pcms]
+Dragging my staggering feet, I hurried towards Yuuho's[r]
+house.[pcms]
 
 *3315|
 [fc]
@@ -98,8 +103,8 @@ As I pushed through the crowd, there was--[pcms]
 *3318|
 [fc]
 [ns]Infected Man B[nse]
-"Damn! To think Yuuho-chan would do something like this in the middle of the[r]
-street..."[pcms]
+"Damn! To think Yuuho-chan would do something like this in[r]
+the middle of the street..."[pcms]
 
 *3319|
 [fc]
@@ -116,7 +121,8 @@ street..."[pcms]
 
 *3321|
 [fc]
-The crowd was shouting things like "Yuuho-chan is the best!" and "I'm next!"[pcms]
+The crowd was shouting things like "Yuuho-chan is the best!"[r]
+and "I'm next!"[pcms]
 
 *3322|
 [fc]
@@ -144,8 +150,8 @@ The crowd was shouting things like "Yuuho-chan is the best!" and "I'm next!"[pcm
 
 *3326|
 [fc]
-Yuuho was surrounded and violated by a hundred men. Her eyes were already dyed[r]
-bright red, enjoying the act.[pcms]
+Yuuho was surrounded and violated by a hundred men. Her eyes[r]
+were already dyed bright red, enjoying the act.[pcms]
 
 *3327|
 [fc]
@@ -159,8 +165,8 @@ Which means, Yuuho is already...[pcms]
 *3329|
 [fc]
 [ns]Yuuho's father[nse]
-"How about it! My daughter is the best, isn't she!? She's too good for the likes[r]
-of you... but today is special!"[pcms]
+"How about it! My daughter is the best, isn't she!? She's[r]
+too good for the likes of you... but today is special!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -177,7 +183,8 @@ Even her uncle... It's hopeless...[pcms]
 
 *3332|
 [fc]
-The entire town has become like this. Everyone has lost their self-control.[pcms]
+The entire town has become like this. Everyone has lost[r]
+their self-control.[pcms]
 
 *3333|
 [fc]
@@ -209,18 +216,19 @@ Even Yuuho...[pcms]
 [fc]
 [vo_yuh s="yuho_KB0032"]
 [ns]Yuuho[nse]
-"I'm cumminggggg!! It's splashing on me! Even on my face...!"[pcms]
+"I'm cumminggggg!! It's splashing on me! Even on my[r]
+face...!"[pcms]
 ;//yuho_KB0032.wav
 
 *3338|
 [fc]
-One after another, the men ejaculated, and Yuuho joyfully received it all over[r]
-her body.[pcms]
+One after another, the men ejaculated, and Yuuho joyfully[r]
+received it all over her body.[pcms]
 
 *3339|
 [fc]
-The figure before me was no longer Yuuho. What stood there was a beast[r]
-completely drowned in lust.[pcms]
+The figure before me was no longer Yuuho. What stood there[r]
+was a beast completely drowned in lust.[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -228,26 +236,28 @@ completely drowned in lust.[pcms]
 [fc]
 [vo_yuh s="yuho_MK0013"]
 [ns]Yuuho[nse]
-"Nnaaahhnn, is it coming out!? Inside...ahhhaaann! It's hot...the semen, it's so[r]
-thick...!?"[pcms]
+"Nnaaahhnn, is it coming out!? Inside...ahhhaaann! It's[r]
+hot...the semen, it's so thick...!?"[pcms]
 ;//yuho_MK0013.wav
 
 [evcg storage="HEV017d"][trans_c cross time=300]
 
 *3341|
 [fc]
-Yuuho, being violated front and back in turns and still rejoicing, must have[r]
-been completely overtaken by UNKNOWN-LV4. The people surrounding her were no[r]
-different.[pcms]
+Yuuho, being violated front and back in turns and still[r]
+rejoicing, must have been completely overtaken by UNKNOWN-[r]
+LV4. The people surrounding her were no different.[pcms]
 
 *3342|
 [fc]
-The shock was so great that the haze before my eyes spread even further.[pcms]
+The shock was so great that the haze before my eyes spread[r]
+even further.[pcms]
 
 *3343|
 [fc]
 [ns]Infected Man F[nse]
-"Whoa... this tightness is amazing! Girls who do sports really are different!"[pcms]
+"Whoa... this tightness is amazing! Girls who do sports[r]
+really are different!"[pcms]
 
 *3344|
 [fc]
@@ -268,8 +278,8 @@ The shock was so great that the haze before my eyes spread even further.[pcms]
 [fc]
 [vo_yuh s="yuho_MK0010"]
 [ns]Yuuho[nse]
-"Hiiin...nnnn! It feels so good!!! My butt and my breasts too... everything[r]
-feels so good!"[pcms]
+"Hiiin...nnnn! It feels so good!!! My butt and my breasts[r]
+too... everything feels so good!"[pcms]
 ;//yuho_MK0010.wav
 
 [se buf=0 storage="se_sex01"]
@@ -277,8 +287,8 @@ feels so good!"[pcms]
 
 *3347|
 [fc]
-Again and again, milky white fluid rained down on her entire body, and each time[r]
-Yuuho let out cries of ecstasy.[pcms]
+Again and again, milky white fluid rained down on her entire[r]
+body, and each time Yuuho let out cries of ecstasy.[pcms]
 
 [evcg storage="HEV017b"][trans_c cross time=300]
 
@@ -299,8 +309,8 @@ Yuuho let out cries of ecstasy.[pcms]
 [fc]
 [vo_yuh s="yuho_MK0014"]
 [ns]Yuuho[nse]
-"Nhiiaaaahhh... it's so hot! My skin feels like it's burning! Nhfahhh! Ahh,[r]
-ahfuhh, ahihhh!"[pcms]
+"Nhiiaaaahhh... it's so hot! My skin feels like it's[r]
+burning! Nhfahhh! Ahh, ahfuhh, ahihhh!"[pcms]
 ;//yuho_MK0014.wav
 
 *3351|
@@ -317,15 +327,16 @@ ahfuhh, ahihhh!"[pcms]
 [fc]
 [vo_yuh s="yuho0674"]
 [ns]Yuuho[nse]
-"Aaahn, amazing. To be filled up with so much cum. I'm going to get pregnant[r]
-with everyone's semen~"[pcms]
+"Aaahn, amazing. To be filled up with so much cum. I'm going[r]
+to get pregnant with everyone's semen~"[pcms]
 ;//yuho0674.wav
 
 [evcg storage="HEV017d"][trans_c cross time=300]
 
 *3353|
 [fc]
-Hearing those words from Yuuho, something inside me snapped with a sound.[pcms]
+Hearing those words from Yuuho, something inside me snapped[r]
+with a sound.[pcms]
 
 *3354|
 [fc]
@@ -334,12 +345,13 @@ Hearing those words from Yuuho, something inside me snapped with a sound.[pcms]
 
 *3355|
 [fc]
-As my vision began to flicker, I felt drawn to Yuuho and pushed through the[r]
-crowd towards her.[pcms]
+As my vision began to flicker, I felt drawn to Yuuho and[r]
+pushed through the crowd towards her.[pcms]
 
 *3356|
 [fc]
-I could no longer hold back. I had assimilated with the beasts present here.[pcms]
+I could no longer hold back. I had assimilated with the[r]
+beasts present here.[pcms]
 
 *3357|
 [fc]
@@ -348,8 +360,8 @@ I could no longer hold back. I had assimilated with the beasts present here.[pcm
 
 *3358|
 [fc]
-Unable to think of anything else, I just kept muttering Yuuho's name like a[r]
-mantra.[pcms]
+Unable to think of anything else, I just kept muttering[r]
+Yuuho's name like a mantra.[pcms]
 
 *3359|
 [fc]
@@ -385,8 +397,8 @@ Why...? All I want is to have sex with Yuuho...[pcms]
 
 *3365|
 [fc]
-Finally reaching Yuuho, I was beaten up by the men surrounding her, and my[r]
-consciousness began to fade away.[pcms]
+Finally reaching Yuuho, I was beaten up by the men[r]
+surrounding her, and my consciousness began to fade away.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -433,34 +445,38 @@ consciousness began to fade away.[pcms]
 
 *3370|
 [fc]
-As I came to from the noise around me, Yuuho was stirring inside her pussy with[r]
-her fingers, blowing out the cum that had accumulated inside.[pcms]
+As I came to from the noise around me, Yuuho was stirring[r]
+inside her pussy with her fingers, blowing out the cum that[r]
+had accumulated inside.[pcms]
 
 *3371|
 [fc]
-Yuuho looked only at me, approaching with a smile as if to say, "I'm all clean[r]
-now."[pcms]
+Yuuho looked only at me, approaching with a smile as if to[r]
+say, "I'm all clean now."[pcms]
 
 *3372|
 [fc]
-Even though Yuuho was about to have sex with me, my consciousness was fading[r]
-again.[pcms]
+Even though Yuuho was about to have sex with me, my[r]
+consciousness was fading again.[pcms]
 
 ;//〆HEV020a
 [evcg storage="HEV018a"][trans_c cross time=300]
 
 *3373|
 [fc]
-When I finally opened my eyes, Yuuho was sticking out her butt and moaning.[pcms]
+When I finally opened my eyes, Yuuho was sticking out her[r]
+butt and moaning.[pcms]
 
 *3374|
 [fc]
-The butt I always watched during bicycle races was now so close...[pcms]
+The butt I always watched during bicycle races was now so[r]
+close...[pcms]
 
 *3375|
 [fc]
 [ns]Infected Man P[nse]
-"Damn it! I'm so jealous of that guy! He skipped the line and all..."[pcms]
+"Damn it! I'm so jealous of that guy! He skipped the line[r]
+and all..."[pcms]
 
 *3376|
 [fc]
@@ -473,7 +489,8 @@ The butt I always watched during bicycle races was now so close...[pcms]
 [fc]
 [vo_yuh s="yuho0773"]
 [ns]Yuuho[nse]
-"Is the service not enough? Oh right~. Wataru loves my butt~"[pcms]
+"Is the service not enough? Oh right~. Wataru loves my[r]
+butt~"[pcms]
 ;//yuho0773.wav
 
 ;//〆HEV020b
@@ -481,8 +498,8 @@ The butt I always watched during bicycle races was now so close...[pcms]
 
 *3378|
 [fc]
-In my intermittent consciousness, I remember Yuuho guiding my dick with her[r]
-hand, urging me to insert it from behind.[pcms]
+In my intermittent consciousness, I remember Yuuho guiding[r]
+my dick with her hand, urging me to insert it from behind.[pcms]
 
 ;//---------------------------------------------------------------
 ;//〆・フラグ判定：緒織とsex
@@ -502,8 +519,8 @@ hand, urging me to insert it from behind.[pcms]
 [fc]
 [vo_yuh s="yuho0763"]
 [ns]Yuuho[nse]
-"Wataru's this~. It's gotten so hard~ twitching and pulsing~. It feels so[r]
-good~~!"[pcms]
+"Wataru's this~. It's gotten so hard~ twitching and[r]
+pulsing~. It feels so good~~!"[pcms]
 ;//yuho0763.wav
 
 *3380|
@@ -517,8 +534,9 @@ good~~!"[pcms]
 
 *3381|
 [fc]
-Although my consciousness was slipping away, the excitement of being able to[r]
-have sex with Yuuho made me ejaculate easily.[pcms]
+Although my consciousness was slipping away, the excitement[r]
+of being able to have sex with Yuuho made me ejaculate[r]
+easily.[pcms]
 
 ;//HEV020c
 
@@ -541,17 +559,19 @@ have sex with Yuuho made me ejaculate easily.[pcms]
 
 *3384|
 [fc]
-Perhaps due to the excitement, my dick didn't wilt at all, and even after[r]
-pulling out of Yuuho, it kept throbbing and spewing white fluid.[pcms]
+Perhaps due to the excitement, my dick didn't wilt at all,[r]
+and even after pulling out of Yuuho, it kept throbbing and[r]
+spewing white fluid.[pcms]
 
 *3385|
 [fc]
-This isn't enough at all. I want to feel more of Yuuho's insides.[pcms]
+This isn't enough at all. I want to feel more of Yuuho's[r]
+insides.[pcms]
 
 *3386|
 [fc]
-Thinking that, I grabbed her butt and thrust my thing into her with all my might[r]
-as if to say, this time for sure.[pcms]
+Thinking that, I grabbed her butt and thrust my thing into[r]
+her with all my might as if to say, this time for sure.[pcms]
 
 ;//〆：ラベル：合流へ
 [jump storage="B_0005.ks" target=*03]
@@ -563,8 +583,8 @@ as if to say, this time for sure.[pcms]
 
 *3387|
 [fc]
-Even in this situation, having sex with Yuuho felt so good that I thought I[r]
-could die happy right then and there.[pcms]
+Even in this situation, having sex with Yuuho felt so good[r]
+that I thought I could die happy right then and there.[pcms]
 
 ;//〆：ラベル：合流へ
 [jump storage="B_0005.ks" target=*03]
@@ -578,35 +598,38 @@ could die happy right then and there.[pcms]
 
 *3388|
 [fc]
-I almost blacked out several times, but I desperately held on, enjoying the[r]
-sensation inside Yuuho.[pcms]
+I almost blacked out several times, but I desperately held[r]
+on, enjoying the sensation inside Yuuho.[pcms]
 
 *3389|
 [fc]
-To those watching, it might have seemed like I was having sex in my sleep.[pcms]
+To those watching, it might have seemed like I was having[r]
+sex in my sleep.[pcms]
 
 *3390|
 [fc]
-But I couldn't afford to sleep. I was too busy enjoying the sensation inside[r]
-Yuuho, fighting the urge to ejaculate, and struggling not to lose consciousness.[pcms]
+But I couldn't afford to sleep. I was too busy enjoying the[r]
+sensation inside Yuuho, fighting the urge to ejaculate, and[r]
+struggling not to lose consciousness.[pcms]
 
 *3391|
 [fc]
-However, all my efforts were in vain against the stimulation from Yuuho's pussy,[r]
-and I was reaching my limit.[pcms]
+However, all my efforts were in vain against the stimulation[r]
+from Yuuho's pussy, and I was reaching my limit.[pcms]
 
 *3392|
 [fc]
 [vo_yuh s="yuho0662"]
 [ns]Yuuho[nse]
-"Wataru~, I want more~. I want to drink lots of cum~. I want my pussy to drink[r]
-lots of cum~"[pcms]
+"Wataru~, I want more~. I want to drink lots of cum~. I want[r]
+my pussy to drink lots of cum~"[pcms]
 ;//yuho0662.wav
 
 *3393|
 [fc]
 [ns]Wataru[nse]
-"I understand... Inside Yuuho, I'll let out so much... it'll overflow!!"[pcms]
+"I understand... Inside Yuuho, I'll let out so much... it'll[r]
+overflow!!"[pcms]
 
 *3394|
 [fc]
@@ -618,8 +641,8 @@ The sex with Yuuho that I've dreamed of!![pcms]
 
 *3396|
 [fc]
-Surrounded by many people and despite what they said, all I could do was seek[r]
-Yuuho's body; I wasn't embarrassed at all.[pcms]
+Surrounded by many people and despite what they said, all I[r]
+could do was seek Yuuho's body; I wasn't embarrassed at all.[pcms]
 
 [evcg storage="HEV018b"][trans_c cross time=300]
 
@@ -633,15 +656,16 @@ Yuuho's body; I wasn't embarrassed at all.[pcms]
 *3398|
 [fc]
 [ns]Wataru[nse]
-"Yuuho!! I love you!! I really love you, Yuuho!! Kuh... uwaah! Inside Yuuho's[r]
-pussy, it's warm and soft... it's the best!!"[pcms]
+"Yuuho!! I love you!! I really love you, Yuuho!! Kuh...[r]
+uwaah! Inside Yuuho's pussy, it's warm and soft... it's the[r]
+best!!"[pcms]
 
 *3399|
 [fc]
 [vo_yuh s="yuho0766"]
 [ns]Yuuho[nse]
-"Aaahn... Wataru said he loves me. I'm so happy~. Then, I'll give you proper[r]
-service!"[pcms]
+"Aaahn... Wataru said he loves me. I'm so happy~. Then, I'll[r]
+give you proper service!"[pcms]
 ;//yuho0766.wav
 
 *3400|
@@ -651,8 +675,8 @@ service!"[pcms]
 
 *3401|
 [fc]
-Yuuho turned to me with a smile and then suddenly tightened around my dick[r]
-intensely.[pcms]
+Yuuho turned to me with a smile and then suddenly tightened[r]
+around my dick intensely.[pcms]
 
 *3402|
 [fc]
@@ -675,9 +699,9 @@ intensely.[pcms]
 
 *3405|
 [fc]
-The sweet sound of Yuuho's voice caused the dam in my heart to collapse[r]
-effortlessly, and I couldn't contain the sensation that felt like an eruption of[r]
-magma.[pcms]
+The sweet sound of Yuuho's voice caused the dam in my heart[r]
+to collapse effortlessly, and I couldn't contain the[r]
+sensation that felt like an eruption of magma.[pcms]
 
 *3406|
 [fc]
@@ -693,8 +717,8 @@ magma.[pcms]
 [fc]
 [vo_yuh s="yuho0138"]
 [ns]Yuuho[nse]
-"Hafuuu... Amazing semen, so much semen... Aaahhhn. It's overflowing inside my[r]
-pussy. It's overflowing."[pcms]
+"Hafuuu... Amazing semen, so much semen... Aaahhhn. It's[r]
+overflowing inside my pussy. It's overflowing."[pcms]
 
 ;//yuho0138.wav
 
@@ -707,40 +731,42 @@ pussy. It's overflowing."[pcms]
 
 *3409|
 [fc]
-The desire expelled from me spread vigorously inside Yuuho's vagina, overflowing[r]
-from where we were joined.[pcms]
+The desire expelled from me spread vigorously inside Yuuho's[r]
+vagina, overflowing from where we were joined.[pcms]
 
 *3410|
 [fc]
-The semen from me and others, mixed with Yuuho's love juices, made her swollen[r]
-red pussy glisten wetly.[pcms]
+The semen from me and others, mixed with Yuuho's love[r]
+juices, made her swollen red pussy glisten wetly.[pcms]
 
 *3411|
 [fc]
-Seeing the various bodily fluids dripping down, the desire within me rose up[r]
-again.[pcms]
+Seeing the various bodily fluids dripping down, the desire[r]
+within me rose up again.[pcms]
 
 *3412|
 [fc]
-And strangely, my dick didn't seem to be calming down at all.[pcms]
+And strangely, my dick didn't seem to be calming down at[r]
+all.[pcms]
 
 *3413|
 [fc]
-As I gazed at Yuuho's semen-covered butt, she seemed to notice and begged me[r]
-with a voice that sounded like pleading.[pcms]
+As I gazed at Yuuho's semen-covered butt, she seemed to[r]
+notice and begged me with a voice that sounded like[r]
+pleading.[pcms]
 
 *3414|
 [fc]
 [vo_yuh s="yuho0776"]
 [ns]Yuuho[nse]
-"Aahh~~. As I thought, Wataru loves butts~. Looking at my butt~ it's getting[r]
-bigger~"[pcms]
+"Aahh~~. As I thought, Wataru loves butts~. Looking at my[r]
+butt~ it's getting bigger~"[pcms]
 ;//yuho0776.wav
 
 *3415|
 [fc]
-Again, I found myself unable to think of anything else. Nothing but having sex[r]
-with Yuuho.[pcms]
+Again, I found myself unable to think of anything else.[r]
+Nothing but having sex with Yuuho.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -755,8 +781,8 @@ with Yuuho.[pcms]
 
 *3417|
 [fc]
-Spurred on by Yuuho's words, I felt an urge to try everything with my whole[r]
-body.[pcms]
+Spurred on by Yuuho's words, I felt an urge to try[r]
+everything with my whole body.[pcms]
 
 *3418|
 [fc]
@@ -768,8 +794,8 @@ body.[pcms]
 
 *3419|
 [fc]
-I pressed my dick against the twitching little bud in the center of Yuuho's butt[r]
-and thrust deeply into it.[pcms]
+I pressed my dick against the twitching little bud in the[r]
+center of Yuuho's butt and thrust deeply into it.[pcms]
 
 *3420|
 [fc]
@@ -780,11 +806,13 @@ and thrust deeply into it.[pcms]
 
 *3421|
 [fc]
-Then, without any sign of pain, Yuuho smoothly swallowed up my dick.[pcms]
+Then, without any sign of pain, Yuuho smoothly swallowed up[r]
+my dick.[pcms]
 
 *3422|
 [fc]
-It's completely different from a pussy... The entrance is tight...[pcms]
+It's completely different from a pussy... The entrance is[r]
+tight...[pcms]
 
 *3423|
 [fc]
@@ -792,24 +820,24 @@ At this rate, I'm going to cum easily again.[pcms]
 
 *3424|
 [fc]
-But do I really need to worry about that...? Yuuho seems to be enjoying it[r]
-too...[pcms]
+But do I really need to worry about that...? Yuuho seems to[r]
+be enjoying it too...[pcms]
 
 *3425|
 [fc]
-That's right! There's no need to worry! Besides, it feels like I could ejaculate[r]
-over and over right now...[pcms]
+That's right! There's no need to worry! Besides, it feels[r]
+like I could ejaculate over and over right now...[pcms]
 
 *3426|
 [fc]
 [ns]Wataru[nse]
-"Yuuho's butt is the best! More than just her butt, her whole body... Her entire[r]
-body is amazing!"[pcms]
+"Yuuho's butt is the best! More than just her butt, her[r]
+whole body... Her entire body is amazing!"[pcms]
 
 *3427|
 [fc]
-Without my excitement fading or my dick wilting, I desperately sought Yuuho's[r]
-body, thrusting my hips.[pcms]
+Without my excitement fading or my dick wilting, I[r]
+desperately sought Yuuho's body, thrusting my hips.[pcms]
 
 *3428|
 [fc]
@@ -824,38 +852,41 @@ Yuuho responded by slamming her butt back against me.[pcms]
 
 *3430|
 [fc]
-Every time my dick entered and exited Yuuho's butt, the cute bud also popped in[r]
-and out.[pcms]
+Every time my dick entered and exited Yuuho's butt, the cute[r]
+bud also popped in and out.[pcms]
 
 *3431|
 [fc]
-I was violating Yuuho as she squirted love juices from her pussy and writhed as[r]
-if something had burst inside her.[pcms]
+I was violating Yuuho as she squirted love juices from her[r]
+pussy and writhed as if something had burst inside her.[pcms]
 
 *3432|
 [fc]
-I never imagined doing such things with the girl I've always liked. But now, for[r]
-certain, I am violating Yuuho here.[pcms]
+I never imagined doing such things with the girl I've always[r]
+liked. But now, for certain, I am violating Yuuho here.[pcms]
 
 *3433|
 [fc]
-Fiercely like a beast... As if we were the only two people in this world.[pcms]
+Fiercely like a beast... As if we were the only two people[r]
+in this world.[pcms]
 
 *3434|
 [fc]
 [vo_yuh s="yuho0781"]
 [ns]Yuuho[nse]
-"It's hard~ hot~ big~! Aaahh!! It feels good!! It feels so good!!"[pcms]
+"It's hard~ hot~ big~! Aaahh!! It feels good!! It feels so[r]
+good!!"[pcms]
 ;//yuho0781.wav
 
 *3435|
 [fc]
-Yuuho let out a truly happy voice and squeezed my dick very tightly.[pcms]
+Yuuho let out a truly happy voice and squeezed my dick very[r]
+tightly.[pcms]
 
 *3436|
 [fc]
-With each thrust, my dick was intensely squeezed, and I reached my limit once[r]
-again.[pcms]
+With each thrust, my dick was intensely squeezed, and I[r]
+reached my limit once again.[pcms]
 
 *3437|
 [fc]
@@ -872,17 +903,19 @@ again.[pcms]
 *3439|
 [fc]
 [ns]Wataru[nse]
-"That's not it... I'm about to cum again! Inside Yuuho's butt... I'm going to[r]
-cum!"[pcms]
+"That's not it... I'm about to cum again! Inside Yuuho's[r]
+butt... I'm going to cum!"[pcms]
 
 *3440|
 [fc]
-In a voice filled with desperation that even I found pitiful, I cried out.[r]
-That's how much stimulation Yuuho's butt was giving me.[pcms]
+In a voice filled with desperation that even I found[r]
+pitiful, I cried out. That's how much stimulation Yuuho's[r]
+butt was giving me.[pcms]
 
 *3441|
 [fc]
-Yuuho looked at me without disdain and after a light smile, she shouted.[pcms]
+Yuuho looked at me without disdain and after a light smile,[r]
+she shouted.[pcms]
 
 *3442|
 [fc]
@@ -894,25 +927,28 @@ Yuuho looked at me without disdain and after a light smile, she shouted.[pcms]
 *3443|
 [fc]
 [ns]Wataru[nse]
-"Ugh... Uwaaah!! I'm going to cum!! I'll fill up Yuuho's butt with my semen!"[pcms]
+"Ugh... Uwaaah!! I'm going to cum!! I'll fill up Yuuho's[r]
+butt with my semen!"[pcms]
 
 *3444|
 [fc]
 [vo_yuh s="yuho_YK0094"]
 [ns]Yuuho[nse]
-"Naaahiiii!? It feels so good...!? Come on, come on, come onnnnn!!"[pcms]
+"Naaahiiii!? It feels so good...!? Come on, come on, come[r]
+onnnnn!!"[pcms]
 ;//yuho_YK0094.wav
 
 *3445|
 [fc]
-As Yuuho screamed, the tightness in her butt became even more intense, squeezing[r]
-my dick dry.[pcms]
+As Yuuho screamed, the tightness in her butt became even[r]
+more intense, squeezing my dick dry.[pcms]
 
 *3446|
 [fc]
-Different from a pussy and feeling like being compressed by a rubber mass, my[r]
-dick received such intense stimulation that it couldn't hold back and released a[r]
-large amount of semen inside Yuuho.[pcms]
+Different from a pussy and feeling like being compressed by[r]
+a rubber mass, my dick received such intense stimulation[r]
+that it couldn't hold back and released a large amount of[r]
+semen inside Yuuho.[pcms]
 
 *3447|
 [fc]
@@ -929,7 +965,8 @@ large amount of semen inside Yuuho.[pcms]
 [fc]
 [vo_yuh s="yuho0784"]
 [ns]Yuuho[nse]
-"Aaahhh~~~! Wataru's hot stuff is spreading inside me~! Aaahh!!"[pcms]
+"Aaahhh~~~! Wataru's hot stuff is spreading inside me~![r]
+Aaahh!!"[pcms]
 
 ;//yuho0784.wav
 
@@ -939,15 +976,16 @@ large amount of semen inside Yuuho.[pcms]
 *3449|
 [fc]
 [ns]Wataru[nse]
-"Haa... Haa... Amazing... Yuuho... I still feel like cumming... It won't subside[r]
-at all! Yuuho's body is the best! Not just for me, let everyone enjoy it!"[pcms]
+"Haa... Haa... Amazing... Yuuho... I still feel like[r]
+cumming... It won't subside at all! Yuuho's body is the[r]
+best! Not just for me, let everyone enjoy it!"[pcms]
 
 *3450|
 [fc]
 [vo_yuh s="yuho_YK0107"]
 [ns]Yuuho[nse]
-"Fufufu... Then, shall we let them have a go...? Let everyone... experience[r]
-it...?"[pcms]
+"Fufufu... Then, shall we let them have a go...? Let[r]
+everyone... experience it...?"[pcms]
 
 *3451|
 [fc]
@@ -956,8 +994,8 @@ it...?"[pcms]
 
 *3452|
 [fc]
-If everyone gets involved... That means they'll interrupt me having sex with[r]
-Yuuho.[pcms]
+If everyone gets involved... That means they'll interrupt me[r]
+having sex with Yuuho.[pcms]
 
 *3453|
 [fc]
@@ -970,14 +1008,14 @@ No way... Yuuho is... Yuuho is mine!![pcms]
 *3454|
 [fc]
 [ns]Wataru[nse]
-"Yuuho! After all, I'm going to have sex with you again! I can't hand you over[r]
-to any other men!!"[pcms]
+"Yuuho! After all, I'm going to have sex with you again! I[r]
+can't hand you over to any other men!!"[pcms]
 
 *3455|
 [fc]
 [ns]Infected Man Q[nse]
-"What are you saying?! We're at our limit too!! We're sick of just watching you[r]
-two!!"[pcms]
+"What are you saying?! We're at our limit too!! We're sick[r]
+of just watching you two!!"[pcms]
 
 *3456|
 [fc]
@@ -991,12 +1029,14 @@ two!!"[pcms]
 
 *3458|
 [fc]
-It seems I can't have her all to myself after all. But Yuuho's pussy is mine!![pcms]
+It seems I can't have her all to myself after all. But[r]
+Yuuho's pussy is mine!![pcms]
 
 *3459|
 [fc]
 [ns]Wataru[nse]
-"Yuuho's pussy is off-limits to anyone but me!! Only I am allowed to enter!!"[pcms]
+"Yuuho's pussy is off-limits to anyone but me!! Only I am[r]
+allowed to enter!!"[pcms]
 
 *3460|
 [fc]
@@ -1007,25 +1047,27 @@ It seems I can't have her all to myself after all. But Yuuho's pussy is mine!![p
 
 *3461|
 [fc]
-Drenched in sweat from the summer sun and sex with Yuuho, and stained with my[r]
-own release, I stripped off all my dirty clothes and leaped at Yuuho again,[r]
-seeking "that sensation."[pcms]
+Drenched in sweat from the summer sun and sex with Yuuho,[r]
+and stained with my own release, I stripped off all my dirty[r]
+clothes and leaped at Yuuho again, seeking "that sensation."[pcms]
 
 ;//〆HEV017B
 [evcg storage="HEV018b"][trans_c cross time=300]
 
 *3462|
 [fc]
-Pushing aside the crowding men, I was able to monopolize Yuuho's pussy once[r]
-again.[pcms]
+Pushing aside the crowding men, I was able to monopolize[r]
+Yuuho's pussy once again.[pcms]
 
 *3463|
 [fc]
-If I hesitate, other men will take her! Yuuho's pussy is mine alone...[pcms]
+If I hesitate, other men will take her! Yuuho's pussy is[r]
+mine alone...[pcms]
 
 *3464|
 [fc]
-In my haste, I mounted Yuuho and thrust into her pussy in one go.[pcms]
+In my haste, I mounted Yuuho and thrust into her pussy in[r]
+one go.[pcms]
 
 *3465|
 [fc]
@@ -1036,11 +1078,13 @@ In my haste, I mounted Yuuho and thrust into her pussy in one go.[pcms]
 
 *3466|
 [fc]
-Indeed, Yuuho only has eyes for me! That's why she only calls out my name!![pcms]
+Indeed, Yuuho only has eyes for me! That's why she only[r]
+calls out my name!![pcms]
 
 *3467|
 [fc]
-I feel sorry for the other men crowding around, but Yuuho is mine.[pcms]
+I feel sorry for the other men crowding around, but Yuuho is[r]
+mine.[pcms]
 
 *3468|
 [fc]
@@ -1050,12 +1094,14 @@ So, I'll stay with Yuuho forever...![pcms]
 [fc]
 [vo_yuh s="yuho_YK0077"]
 [ns]Yuuho[nse]
-"...My pussy... Wataru is... inside, ahh! I'm... so... incredibly happy...ahh!"[pcms]
+"...My pussy... Wataru is... inside, ahh! I'm... so...[r]
+incredibly happy...ahh!"[pcms]
 ;//yuho_YK0077.wav
 
 *3470|
 [fc]
-I feel absolutely amazing!! As much as I want, with the girl I love...[pcms]
+I feel absolutely amazing!! As much as I want, with the girl[r]
+I love...[pcms]
 
 *3471|
 [fc]
@@ -1071,22 +1117,24 @@ I'm going to live here forever, just having sex with Yuuho.[pcms]
 
 *3474|
 [fc]
-Without any other ties... Without caring who else is around...[pcms]
+Without any other ties... Without caring who else is[r]
+around...[pcms]
 
 *3475|
 [fc]
-I'll be having sex with Yuuho here forever! That's all I need!![pcms]
+I'll be having sex with Yuuho here forever! That's all I[r]
+need!![pcms]
 
 *3476|
 [fc]
 [ns]Infected Man S[nse]
-"It's about time you switch! We want to put it in Yuuho-chan's pussy too! Move[r]
-it already...!"[pcms]
+"It's about time you switch! We want to put it in Yuuho-[r]
+chan's pussy too! Move it already...!"[pcms]
 
 *3477|
 [fc]
-Just as I was rejoicing at having reached the ideal place, I was startled by a[r]
-man's angry shout and turned around--[pcms]
+Just as I was rejoicing at having reached the ideal place, I[r]
+was startled by a man's angry shout and turned around--[pcms]
 
 ;//〆：レッドフラッシュ
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
@@ -1098,7 +1146,8 @@ man's angry shout and turned around--[pcms]
 
 *3479|
 [fc]
-Right after feeling something pierce my neck, my vision turned completely red.[pcms]
+Right after feeling something pierce my neck, my vision[r]
+turned completely red.[pcms]
 
 ;//SE:どさっ
 
@@ -1111,7 +1160,8 @@ There was no pain. But I couldn't breathe in or out anymore.[pcms]
 
 *3481|
 [fc]
-As my entire field of view turned red, I could hear Yuuho's moans from afar.[pcms]
+As my entire field of view turned red, I could hear Yuuho's[r]
+moans from afar.[pcms]
 
 ;//HEV019b
 [evcg storage="HEV017d"][trans_c cross time=300]
@@ -1120,21 +1170,24 @@ As my entire field of view turned red, I could hear Yuuho's moans from afar.[pcm
 [fc]
 [vo_yuh s="yuho_KB0031"]
 [ns]Yuuho[nse]
-"Nnnnnn, nmuuu, nmp...haaunn! Th-that's... no good, ahhhhhhhhhhhhh...!"[pcms]
+"Nnnnnn, nmuuu, nmp...haaunn! Th-that's... no good,[r]
+ahhhhhhhhhhhhh...!"[pcms]
 ;//yuho_KB0031.wav
 
 *3483|
 [fc]
-I was pushed away by many people, getting further and further away from Yuuho.[pcms]
+I was pushed away by many people, getting further and[r]
+further away from Yuuho.[pcms]
 
 *3484|
 [fc]
-As my vision increasingly reddened, I saw other men covering her, but Yuuho[r]
-seemed to be enjoying it.[pcms]
+As my vision increasingly reddened, I saw other men covering[r]
+her, but Yuuho seemed to be enjoying it.[pcms]
 
 *3485|
 [fc]
-This was supposed to be a world just for me and Yuuho... But it wasn't...[pcms]
+This was supposed to be a world just for me and Yuuho... But[r]
+it wasn't...[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る

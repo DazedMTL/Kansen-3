@@ -22,8 +22,8 @@
 *6534|
 [fc]
 [ns]Wataru[nse]
-"But Dad, you always used to say to me, 'You always put Ren first, don't you?' I[r]
-love Ren the most, you know~"[pcms]
+"But Dad, you always used to say to me, 'You always put Ren[r]
+first, don't you?' I love Ren the most, you know~"[pcms]
 
 *6535|
 [fc]
@@ -33,7 +33,8 @@ love Ren the most, you know~"[pcms]
 *6536|
 [fc]
 [ns]Wataru[nse]
-"For a workaholic who hardly ever comes home~ Don't act like a guardian now~"[pcms]
+"For a workaholic who hardly ever comes home~ Don't act like[r]
+a guardian now~"[pcms]
 
 ;//se012ÅEë≈åÇâπ
 [se buf=0 storage="se012"]
@@ -58,18 +59,19 @@ love Ren the most, you know~"[pcms]
 
 *6539|
 [fc]
-When I lightly pushed Dad along with Ren, he amusingly tumbled and flew away.[pcms]
+When I lightly pushed Dad along with Ren, he amusingly[r]
+tumbled and flew away.[pcms]
 
 *6540|
 [fc]
-I didn't mean to put much strength into it... But still, it's funny. It makes me[r]
-laugh.[pcms]
+I didn't mean to put much strength into it... But still,[r]
+it's funny. It makes me laugh.[pcms]
 
 *6541|
 [fc]
 [ns]Wataru[nse]
-"Hahahaha! Dad~ You're getting old~ Just watch us quietly~ I'll let you have a[r]
-turn next time~"[pcms]
+"Hahahaha! Dad~ You're getting old~ Just watch us quietly~[r]
+I'll let you have a turn next time~"[pcms]
 
 ;//ÅYÇgÇdÇuÇOÇSÇSÅ@ó¯Å^êßïûÅ^òríÕÇ›íàÇ√ÇËÉoÉbÉN
 [evcg storage="HEV035b"][trans_c cross time=300]
@@ -92,14 +94,14 @@ turn next time~"[pcms]
 
 *6545|
 [fc]
-Ren screams in surprise, looking embarrassed. It's similar to a submission[r]
-hold... so it's natural, right? It's as if she's being made to go to the[r]
-bathroom...[pcms]
+Ren screams in surprise, looking embarrassed. It's similar[r]
+to a submission hold... so it's natural, right? It's as if[r]
+she's being made to go to the bathroom...[pcms]
 
 *6546|
 [fc]
-Or maybe it's a voice of joy in anticipation of having her virginity taken by[r]
-me?[pcms]
+Or maybe it's a voice of joy in anticipation of having her[r]
+virginity taken by me?[pcms]
 
 [evcg storage="HEV035a"][trans_c cross time=300]
 
@@ -144,7 +146,8 @@ Ren says to me in a trembling, weak voice.[pcms]
 [fc]
 [vo_ren s="ren0730"]
 [ns]Ren[nse]
-"No, not in front of people... I absolutely don't want to..."[pcms]
+"No, not in front of people... I absolutely don't want[r]
+to..."[pcms]
 
 *6555|
 [fc]
@@ -170,31 +173,33 @@ If Ren doesn't hate me... then she's just being shy.[pcms]
 [fc]
 [vo_ren s="ren0732"]
 [ns]Ren[nse]
-"No... I don't want that... There shouldn't be such a thing..."[pcms]
+"No... I don't want that... There shouldn't be such a[r]
+thing..."[pcms]
 
 *6560|
 [fc]
-For some reason, Ren is murmuring in a weak voice while shaking her head from[r]
-side to side.[pcms]
+For some reason, Ren is murmuring in a weak voice while[r]
+shaking her head from side to side.[pcms]
 
 *6561|
 [fc]
 [vo_ren s="ren0733"]
 [ns]Ren[nse]
-"Please stop... I'm begging you, big brother... Big brother..."[pcms]
+"Please stop... I'm begging you, big brother... Big[r]
+brother..."[pcms]
 
 *6562|
 [fc]
 [ns]Wataru[nse]
-"You can relax~ I'm not a virgin~ It's not my first time, so I'll make it feel[r]
-good~"[pcms]
+"You can relax~ I'm not a virgin~ It's not my first time, so[r]
+I'll make it feel good~"[pcms]
 
 *6563|
 [fc]
 [vo_ren s="ren0734"]
 [ns]Ren[nse]
-"It's not your first time...? No, please stop... I'm begging you, big brother...[r]
-This isn't like you, big brother..."[pcms]
+"It's not your first time...? No, please stop... I'm begging[r]
+you, big brother... This isn't like you, big brother..."[pcms]
 
 *6564|
 [fc]
@@ -214,8 +219,8 @@ This isn't like you, big brother..."[pcms]
 
 *6566|
 [fc]
-I thrust into Ren's pussy all at once. The very small hole is tightly squeezing[r]
-the hot flesh.[pcms]
+I thrust into Ren's pussy all at once. The very small hole[r]
+is tightly squeezing the hot flesh.[pcms]
 
 *6567|
 [fc]
@@ -241,33 +246,38 @@ the hot flesh.[pcms]
 
 *6571|
 [fc]
-Ren is making loud noises. Was it that good for her? Or was she happy?[pcms]
+Ren is making loud noises. Was it that good for her? Or was[r]
+she happy?[pcms]
 
 *6572|
 [fc]
-I look at Ren's pussy where my thing is inside. Unlike when I did it with Yuuho,[r]
-red blood is dripping down.[pcms]
+I look at Ren's pussy where my thing is inside. Unlike when[r]
+I did it with Yuuho, red blood is dripping down.[pcms]
 
 *6573|
 [fc]
 [ns]Wataru[nse]
-"I'm so happy~ Turns out, Ren was a virgin after all~ I believed in you~"[pcms]
+"I'm so happy~ Turns out, Ren was a virgin after all~ I[r]
+believed in you~"[pcms]
 
 *6574|
 [fc]
 [ns]Wataru[nse]
-"Lately, you've been acting differently, so I thought maybe you got a boyfriend[r]
-and gave it away~ I've been worried all this time~"[pcms]
+"Lately, you've been acting differently, so I thought maybe[r]
+you got a boyfriend and gave it away~ I've been worried all[r]
+this time~"[pcms]
 
 *6575|
 [fc]
-I'm so happy that I continue thrusting my hips without stopping.[pcms]
+I'm so happy that I continue thrusting my hips without[r]
+stopping.[pcms]
 
 *6576|
 [fc]
 [vo_ren s="ren0738"]
 [ns]Ren[nse]
-"Higuh...no please stop...stop it... Uuhh...auuhh... ...uuuhh...big brother..."[pcms]
+"Higuh...no please stop...stop it... Uuhh...auuhh...[r]
+...uuuhh...big brother..."[pcms]
 
 *6577|
 [fc]
@@ -280,7 +290,8 @@ I'm so happy that I continue thrusting my hips without stopping.[pcms]
 [fc]
 [vo_ren s="ren0739"]
 [ns]Ren[nse]
-"Agguuh...uuhh...yeah... Please...uuuhh...stop it... Big brother..."[pcms]
+"Agguuh...uuhh...yeah... Please...uuuhh...stop it... Big[r]
+brother..."[pcms]
 
 *6579|
 [fc]
@@ -291,7 +302,8 @@ I'm so happy that I continue thrusting my hips without stopping.[pcms]
 [fc]
 [vo_ren s="ren0740"]
 [ns]Ren[nse]
-"Hikk...I don't want this kind of thing... Hikuuu...I don't want this..."[pcms]
+"Hikk...I don't want this kind of thing... Hikuuu...I don't[r]
+want this..."[pcms]
 
 *6581|
 [fc]
@@ -306,20 +318,21 @@ Ren is crying and shaking her body as if saying no.[pcms]
 [fc]
 [vo_ren s="ren0741"]
 [ns]Ren[nse]
-"I don't want this kind of thing~ My first time with big brother... I don't want[r]
-it like this..."[pcms]
+"I don't want this kind of thing~ My first time with big[r]
+brother... I don't want it like this..."[pcms]
 
 *6584|
 [fc]
 [ns]Wataru[nse]
-"Your first time with me~? Did you want to do it with me, Ren~?"[pcms]
+"Your first time with me~? Did you want to do it with me,[r]
+Ren~?"[pcms]
 
 *6585|
 [fc]
 [vo_ren s="ren0742"]
 [ns]Ren[nse]
-"Uuhh... I thought big brother would be gentler... Uuhh... I thought... Not like[r]
-this for my first time..."[pcms]
+"Uuhh... I thought big brother would be gentler... Uuhh... I[r]
+thought... Not like this for my first time..."[pcms]
 
 *6586|
 [fc]
@@ -356,8 +369,8 @@ For some reason, Ren is shedding tears.[pcms]
 [fc]
 [vo_ren s="ren0745"]
 [ns]Ren[nse]
-"When we were alone... big brother said he loved me... And then... the two of[r]
-us..."[pcms]
+"When we were alone... big brother said he loved me... And[r]
+then... the two of us..."[pcms]
 
 *6593|
 [fc]
@@ -379,14 +392,14 @@ us..."[pcms]
 [fc]
 [vo_ren s="ren0747"]
 [ns]Ren[nse]
-"If you love me... then don't do this kind of thing... Please stop... big[r]
-brother~ If you love me..."[pcms]
+"If you love me... then don't do this kind of thing...[r]
+Please stop... big brother~ If you love me..."[pcms]
 
 *6597|
 [fc]
 [ns]Wataru[nse]
-"Why not~? Because I love you so much~ Because I love you, I have to do this,[r]
-right~?"[pcms]
+"Why not~? Because I love you so much~ Because I love you, I[r]
+have to do this, right~?"[pcms]
 
 *6598|
 [fc]
@@ -396,7 +409,8 @@ right~?"[pcms]
 
 *6599|
 [fc]
-Ren is bashfully struggling weakly. She doesn't understand...[pcms]
+Ren is bashfully struggling weakly. She doesn't[r]
+understand...[pcms]
 
 *6600|
 [fc]
@@ -406,8 +420,8 @@ Ren is bashfully struggling weakly. She doesn't understand...[pcms]
 *6601|
 [fc]
 [ns]Wataru[nse]
-"We have to show everyone properly~ That Ren was a splendid virgin. That she[r]
-dedicated herself to her beloved me~"[pcms]
+"We have to show everyone properly~ That Ren was a splendid[r]
+virgin. That she dedicated herself to her beloved me~"[pcms]
 
 *6602|
 [fc]
@@ -418,7 +432,8 @@ dedicated herself to her beloved me~"[pcms]
 *6603|
 [fc]
 [ns]Wataru[nse]
-"No can do, Ren~. We have to show everyone and receive their blessings~"[pcms]
+"No can do, Ren~. We have to show everyone and receive their[r]
+blessings~"[pcms]
 
 *6604|
 [fc]
@@ -433,13 +448,15 @@ Ren continues to resist, shrinking away.[pcms]
 *6606|
 [fc]
 [ns]Wataru[nse]
-"Can't be helped... Ren needs to be seen by everyone properly~"[pcms]
+"Can't be helped... Ren needs to be seen by everyone[r]
+properly~"[pcms]
 
 *6607|
 [fc]
 [vo_yuh s="yuho0785"]
 [ns]Yuuho[nse]
-"I'm so jealous of you, Ren-chan~ To have your first time with Wataru~"[pcms]
+"I'm so jealous of you, Ren-chan~ To have your first time[r]
+with Wataru~"[pcms]
 
 *6608|
 [fc]
@@ -449,8 +466,8 @@ Yuuho says this while watching us.[pcms]
 [fc]
 [vo_yuh s="yuho0786"]
 [ns]Yuuho[nse]
-"For me, it was with someone I didn't know~ I wanted it to be with Wataru~ Don't[r]
-be too greedy, Ren-chan~"[pcms]
+"For me, it was with someone I didn't know~ I wanted it to[r]
+be with Wataru~ Don't be too greedy, Ren-chan~"[pcms]
 
 *6610|
 [fc]
@@ -478,7 +495,8 @@ be too greedy, Ren-chan~"[pcms]
 [fc]
 [vo_ren s="ren0752"]
 [ns]Ren[nse]
-"That's not it... I wanted... I wanted it to be just the two of us, gently..."[pcms]
+"That's not it... I wanted... I wanted it to be just the two[r]
+of us, gently..."[pcms]
 
 *6615|
 [fc]
@@ -490,7 +508,8 @@ be too greedy, Ren-chan~"[pcms]
 *6616|
 [fc]
 [ns]Wataru[nse]
-"Oh come on, Ren~ Even Yuuho is so envious. ...You should enjoy it more, right?"[pcms]
+"Oh come on, Ren~ Even Yuuho is so envious. ...You should[r]
+enjoy it more, right?"[pcms]
 
 *6617|
 [fc]
@@ -502,7 +521,8 @@ be too greedy, Ren-chan~"[pcms]
 *6618|
 [fc]
 [ns]Wataru[nse]
-"If you don't answer properly~, I won't hold back either, okay~?"[pcms]
+"If you don't answer properly~, I won't hold back either,[r]
+okay~?"[pcms]
 
 ;//SEÅEë}ì¸âπåÉÇµÇ≠
 
@@ -521,8 +541,9 @@ I start thrusting into Ren from below again.[pcms]
 *6621|
 [fc]
 [ns]Wataru[nse]
-"If you won't answer, then I'll ask Ren's body~. There~! How about that~, can't[r]
-hold back because it feels too good, right~?"[pcms]
+"If you won't answer, then I'll ask Ren's body~. There~! How[r]
+about that~, can't hold back because it feels too good,[r]
+right~?"[pcms]
 
 *6622|
 [fc]
@@ -537,7 +558,8 @@ hold back because it feels too good, right~?"[pcms]
 
 *6624|
 [fc]
-Ren is making almost crying sounds and doesn't seem to be having fun.[pcms]
+Ren is making almost crying sounds and doesn't seem to be[r]
+having fun.[pcms]
 
 *6625|
 [fc]
@@ -548,13 +570,15 @@ Ren is making almost crying sounds and doesn't seem to be having fun.[pcms]
 *6626|
 [fc]
 [ns]Wataru[nse]
-"Hey, I'm good at this, right~? Yuuho was really enjoying it too~"[pcms]
+"Hey, I'm good at this, right~? Yuuho was really enjoying it[r]
+too~"[pcms]
 
 *6627|
 [fc]
 [vo_yuh s="yuho0788"]
 [ns]Yuuho[nse]
-"That's right, Ren-chan~. Wataru's is so hard and good, isn't it~"[pcms]
+"That's right, Ren-chan~. Wataru's is so hard and good,[r]
+isn't it~"[pcms]
 
 *6628|
 [fc]
@@ -564,24 +588,28 @@ Ren is making almost crying sounds and doesn't seem to be having fun.[pcms]
 
 *6629|
 [fc]
-I keep thrusting fiercely without caring, and from where Wataru and Ren are[r]
-connected, the lewd squelching sounds grow louder...[pcms]
+I keep thrusting fiercely without caring, and from where[r]
+Wataru and Ren are connected, the lewd squelching sounds[r]
+grow louder...[pcms]
 
 *6630|
 [fc]
-Ren is dripping plenty of love juice from her pussy. Covered in red love juice,[r]
-I get even more excited and thrust harder.[pcms]
+Ren is dripping plenty of love juice from her pussy. Covered[r]
+in red love juice, I get even more excited and thrust[r]
+harder.[pcms]
 
 *6631|
 [fc]
 [ns]Wataru[nse]
-"That's right, that's right~. Even if your voice isn't good, your body is[r]
-feeling it very honestly. Ren's body is so honest~"[pcms]
+"That's right, that's right~. Even if your voice isn't good,[r]
+your body is feeling it very honestly. Ren's body is so[r]
+honest~"[pcms]
 
 *6632|
 [fc]
 [ns]Wataru[nse]
-"I'm getting close to wanting to hear your pleased voice now~"[pcms]
+"I'm getting close to wanting to hear your pleased voice[r]
+now~"[pcms]
 
 *6633|
 [fc]
@@ -591,14 +619,14 @@ feeling it very honestly. Ren's body is so honest~"[pcms]
 
 *6634|
 [fc]
-Ren's tight pussy is twitching violently. Rubbing against me as I thrust in and[r]
-out fiercely, it feels unbearably good.[pcms]
+Ren's tight pussy is twitching violently. Rubbing against me[r]
+as I thrust in and out fiercely, it feels unbearably good.[pcms]
 
 *6635|
 [fc]
 [ns]Wataru[nse]
-"Ahh~ Sisters are the best. Someone said it before, but it's really true~![r]
-Sisters are amazing~ Auhh...!"[pcms]
+"Ahh~ Sisters are the best. Someone said it before, but it's[r]
+really true~! Sisters are amazing~ Auhh...!"[pcms]
 
 *6636|
 [fc]
@@ -610,14 +638,15 @@ Sisters are amazing~ Auhh...!"[pcms]
 *6637|
 [fc]
 [ns]Wataru[nse]
-"The sound of 'with my sister' is also nice~ It feels like I'm doing something[r]
-bad~, and it makes my heart race~. My dick is getting even harder~"[pcms]
+"The sound of 'with my sister' is also nice~ It feels like[r]
+I'm doing something bad~, and it makes my heart race~. My[r]
+dick is getting even harder~"[pcms]
 
 *6638|
 [fc]
 [ns]Wataru[nse]
-"For me, you stayed a virgin~. Having such a tight pussy~. Ren, you're such a[r]
-good girl~"[pcms]
+"For me, you stayed a virgin~. Having such a tight pussy~.[r]
+Ren, you're such a good girl~"[pcms]
 
 *6639|
 [fc]
@@ -627,14 +656,16 @@ good girl~"[pcms]
 
 *6640|
 [fc]
-Ren lets out a moan that sounds like pleasure. Is she trying to say 'yes', but[r]
-her voice is too overwhelmed with joy to form words?[pcms]
+Ren lets out a moan that sounds like pleasure. Is she trying[r]
+to say 'yes', but her voice is too overwhelmed with joy to[r]
+form words?[pcms]
 
 [evcg storage="HEV035b"][trans_c cross time=300]
 
 *6641|
 [fc]
-While shaking Ren's hips violently on top of me, I stroke her small, white butt.[pcms]
+While shaking Ren's hips violently on top of me, I stroke[r]
+her small, white butt.[pcms]
 
 *6642|
 [fc]
@@ -646,8 +677,9 @@ While shaking Ren's hips violently on top of me, I stroke her small, white butt.
 *6643|
 [fc]
 [ns]Wataru[nse]
-"Ren's butt is so small~. You won't do unless you get big like Yuuho~. Ahh, but[r]
-because it's small, it seems like it would be really tight~"[pcms]
+"Ren's butt is so small~. You won't do unless you get big[r]
+like Yuuho~. Ahh, but because it's small, it seems like it[r]
+would be really tight~"[pcms]
 
 *6644|
 [fc]
@@ -657,14 +689,14 @@ because it's small, it seems like it would be really tight~"[pcms]
 
 *6645|
 [fc]
-As I knead her small butt and slide my hand into the white crevice to stroke it,[r]
-Ren writhes with strange noises.[pcms]
+As I knead her small butt and slide my hand into the white[r]
+crevice to stroke it, Ren writhes with strange noises.[pcms]
 
 *6646|
 [fc]
 [ns]Wataru[nse]
-"You're too surprised~. Yuuho even shows me her butt hole and invites me with[r]
-'Wanna try putting it in?'~"[pcms]
+"You're too surprised~. Yuuho even shows me her butt hole[r]
+and invites me with 'Wanna try putting it in?'~"[pcms]
 
 ;//SEÅEë}ì¸âπÅ@åÉÇµÇ≠
 
@@ -677,11 +709,13 @@ Ren writhes with strange noises.[pcms]
 *6648|
 [fc]
 [ns]Wataru[nse]
-"It's nice being so small~. Maybe next time I'll try Ren's ass hole~"[pcms]
+"It's nice being so small~. Maybe next time I'll try Ren's[r]
+ass hole~"[pcms]
 
 *6649|
 [fc]
-As I play with her small, smooth butt, I thrust into Ren even more fiercely.[pcms]
+As I play with her small, smooth butt, I thrust into Ren[r]
+even more fiercely.[pcms]
 
 *6650|
 [fc]
@@ -691,24 +725,27 @@ As I play with her small, smooth butt, I thrust into Ren even more fiercely.[pcm
 
 *6651|
 [fc]
-Ren continues to let out screams that sound like cries... Ahh... Is this what[r]
-they call "screams of joy"?[pcms]
+Ren continues to let out screams that sound like cries...[r]
+Ahh... Is this what they call "screams of joy"?[pcms]
 
 *6652|
 [fc]
 [vo_yuh s="yuho0789"]
 [ns]Yuuho[nse]
-"Ahhh...I'm really jealous of Ren-chan~. To be done so fiercely~"[pcms]
+"Ahhh...I'm really jealous of Ren-chan~. To be done so[r]
+fiercely~"[pcms]
 
 *6653|
 [fc]
-Yuuho watches me thrust into Ren and plays with her own pussy.[pcms]
+Yuuho watches me thrust into Ren and plays with her own[r]
+pussy.[pcms]
 
 *6654|
 [fc]
 [vo_ren s="ren0766"]
 [ns]Ren[nse]
-"O...brother...ahhyaah! Yuuho...chan...iyahyaaah!! Ahihiih! Hiih!"[pcms]
+"O...brother...ahhyaah! Yuuho...chan...iyahyaaah!! Ahihiih![r]
+Hiih!"[pcms]
 ;//ÅóÅ@ä¥Ç∂Ç»Ç™ÇÁÇ‡Å@Ç§Ç¬ÇÎÇ»îﬂñ¬
 
 *6655|
@@ -731,14 +768,14 @@ Hyaa...hidadaaah...!"[pcms]
 *6658|
 [fc]
 [ns]Wataru[nse]
-"So that's it~ Ren liked me after all~. Not being honest~. Maybe she's a[r]
-tsundere~..."[pcms]
+"So that's it~ Ren liked me after all~. Not being honest~.[r]
+Maybe she's a tsundere~..."[pcms]
 
 *6659|
 [fc]
 [ns]Wataru[nse]
-"But you always told me you liked me~ And you made lunch for me~. Ren, you're[r]
-such a good girl~"[pcms]
+"But you always told me you liked me~ And you made lunch for[r]
+me~. Ren, you're such a good girl~"[pcms]
 
 *6660|
 [fc]
@@ -750,34 +787,36 @@ such a good girl~"[pcms]
 [fc]
 [vo_ren s="ren0769"]
 [ns]Ren[nse]
-"Ahihiih...auuuh...uuuuh... Brother...I've always loved you...,[r]
-auuuh...ahhh...ahh..."[pcms]
+"Ahihiih...auuuh...uuuuh... Brother...I've always loved[r]
+you..., auuuh...ahhh...ahh..."[pcms]
 
 *6662|
 [fc]
 [ns]Wataru[nse]
-"Ahh, I love you too~! Putting it in Ren's pussy made me love you even more~.[r]
-Ren, even your pussy is cute, little sister~ Ahhh!!"[pcms]
+"Ahh, I love you too~! Putting it in Ren's pussy made me[r]
+love you even more~. Ren, even your pussy is cute, little[r]
+sister~ Ahhh!!"[pcms]
 
 *6663|
 [fc]
-Ren's is truly tight and feels so good that I can't hold back anymore. Why[r]
-should there be any need to hold back?[pcms]
+Ren's is truly tight and feels so good that I can't hold[r]
+back anymore. Why should there be any need to hold back?[pcms]
 
 *6664|
 [fc]
-I'll give Ren a full creampie just like I did with Yuuho. I have to please her[r]
-thoroughly.[pcms]
+I'll give Ren a full creampie just like I did with Yuuho. I[r]
+have to please her thoroughly.[pcms]
 
 *6665|
 [fc]
 [ns]Wataru[nse]
-"Uhh...I'm going to cum, Ren~. I'll release plenty inside and show everyone that[r]
-Ren's pussy belongs to me~"[pcms]
+"Uhh...I'm going to cum, Ren~. I'll release plenty inside[r]
+and show everyone that Ren's pussy belongs to me~"[pcms]
 
 *6666|
 [fc]
-I thrust even deeper and more violently into Ren's ass with my hips.[pcms]
+I thrust even deeper and more violently into Ren's ass with[r]
+my hips.[pcms]
 
 *6667|
 [fc]
@@ -792,13 +831,14 @@ I thrust even deeper and more violently into Ren's ass with my hips.[pcms]
 
 *6668|
 [fc]
-Just as she makes a strange noise, a hot liquid bursts out from where Ren and I[r]
-are connected.[pcms]
+Just as she makes a strange noise, a hot liquid bursts out[r]
+from where Ren and I are connected.[pcms]
 
 *6669|
 [fc]
 [ns]Wataru[nse]
-"What's wrong~? You can't do that, Ren~ Did you wet yourself?"[pcms]
+"What's wrong~? You can't do that, Ren~ Did you wet[r]
+yourself?"[pcms]
 
 *6670|
 [fc]
@@ -806,13 +846,14 @@ I don't mind at all if it's Ren's cute pee.[pcms]
 
 *6671|
 [fc]
-In fact, our joined parts are making even more lewd squelching sounds now, and[r]
-it feels kind of nice~.[pcms]
+In fact, our joined parts are making even more lewd[r]
+squelching sounds now, and it feels kind of nice~.[pcms]
 
 *6672|
 [fc]
 [ns]Father[nse]
-"...Wataru is amazing~. Indeed, being young makes such a difference in vigor~"[pcms]
+"...Wataru is amazing~. Indeed, being young makes such a[r]
+difference in vigor~"[pcms]
 
 *6673|
 [fc]
@@ -843,8 +884,8 @@ Ren suddenly starts screaming and panicking.[pcms]
 *6678|
 [fc]
 [ns]Father[nse]
-"What's wrong, Ren~? When I was young, I did the same thing to your mother[r]
-fiercely too~. She enjoyed it."[pcms]
+"What's wrong, Ren~? When I was young, I did the same thing[r]
+to your mother fiercely too~. She enjoyed it."[pcms]
 
 *6679|
 [fc]
@@ -855,8 +896,8 @@ fiercely too~. She enjoyed it."[pcms]
 *6680|
 [fc]
 [ns]Wataru[nse]
-"Ren~ That's not good~. Losing your virginity is your big moment~. Let Father[r]
-watch properly~"[pcms]
+"Ren~ That's not good~. Losing your virginity is your big[r]
+moment~. Let Father watch properly~"[pcms]
 
 *6681|
 [fc]
@@ -867,12 +908,13 @@ watch properly~"[pcms]
 *6682|
 [fc]
 [ns]Wataru[nse]
-"Uhh...Ren~. Don't thrash about because you're happy, the tightness is~~"[pcms]
+"Uhh...Ren~. Don't thrash about because you're happy, the[r]
+tightness is~~"[pcms]
 
 *6683|
 [fc]
-The incredibly tight inside of Ren writhes painfully around me... No, it hurts[r]
-so good~~!![pcms]
+The incredibly tight inside of Ren writhes painfully around[r]
+me... No, it hurts so good~~!![pcms]
 
 *6684|
 [fc]
@@ -892,7 +934,8 @@ so good~~!![pcms]
 
 *6686|
 [fc]
-I couldn't hold back and released plenty, deep inside Ren, into her very depths.[pcms]
+I couldn't hold back and released plenty, deep inside Ren,[r]
+into her very depths.[pcms]
 
 *6687|
 [fc]
@@ -911,7 +954,8 @@ My sister, Ren, feels this amazing~~.[pcms]
 
 *6690|
 [fc]
-Ren seems happy to be filled up by me, crying tears of joy without answering.[pcms]
+Ren seems happy to be filled up by me, crying tears of joy[r]
+without answering.[pcms]
 
 *6691|
 [fc]
@@ -922,16 +966,19 @@ She's really always been so shy~~.[pcms]
 
 *6692|
 [fc]
-From the place where Ren and I are connected, white semen is dripping down...[pcms]
+From the place where Ren and I are connected, white semen is[r]
+dripping down...[pcms]
 
 *6693|
 [fc]
-It's mixing with Ren's light red and spreading out in a pinkish hue.[pcms]
+It's mixing with Ren's light red and spreading out in a[r]
+pinkish hue.[pcms]
 
 *6694|
 [fc]
 [ns]Wataru[nse]
-"Look, Ren~ Because it felt so good for you~ I ended up releasing so much~"[pcms]
+"Look, Ren~ Because it felt so good for you~ I ended up[r]
+releasing so much~"[pcms]
 
 *6695|
 [fc]
@@ -946,7 +993,8 @@ It's mixing with Ren's light red and spreading out in a pinkish hue.[pcms]
 *6696|
 [fc]
 [ns]Father[nse]
-"Ahh, looks like you came a lot inside her~. Now, it's my turn~"[pcms]
+"Ahh, looks like you came a lot inside her~. Now, it's my[r]
+turn~"[pcms]
 
 *6697|
 [fc]
@@ -980,14 +1028,14 @@ Father gently places his hand on Ren's face~.[pcms]
 
 *6702|
 [fc]
-Father thrusts his proudly standing, shiny black object into Ren's mouth at the[r]
-center of her exposed lower half.[pcms]
+Father thrusts his proudly standing, shiny black object into[r]
+Ren's mouth at the center of her exposed lower half.[pcms]
 
 *6703|
 [fc]
 [ns]Father[nse]
-"Uuh... If it's your first time in front, then it must be your first time with[r]
-your mouth too, right, Ren?"[pcms]
+"Uuh... If it's your first time in front, then it must be[r]
+your first time with your mouth too, right, Ren?"[pcms]
 
 *6704|
 [fc]
@@ -1002,7 +1050,8 @@ your mouth too, right, Ren?"[pcms]
 
 *6706|
 [fc]
-But Ren can't help it since she's filling her small mouth with Father's big one.[pcms]
+But Ren can't help it since she's filling her small mouth[r]
+with Father's big one.[pcms]
 
 *6707|
 [fc]
@@ -1018,8 +1067,8 @@ But Ren can't help it since she's filling her small mouth with Father's big one.
 *6709|
 [fc]
 [ns]Father[nse]
-"Nnh... Besides that~ Ren, you look so much like your mother. She was just like[r]
-this, a perfect fit~"[pcms]
+"Nnh... Besides that~ Ren, you look so much like your[r]
+mother. She was just like this, a perfect fit~"[pcms]
 
 ;//@konya é∏ã÷Å{ÉtÉFÉâÅ@ï\èÓïœâª
 [evcg storage="HEV035i"][trans_c cross time=300]
@@ -1039,7 +1088,8 @@ this, a perfect fit~"[pcms]
 *6712|
 [fc]
 [ns]Father[nse]
-"It's no lie~. Your mother loved to lick my cock. That's right..."[pcms]
+"It's no lie~. Your mother loved to lick my cock. That's[r]
+right..."[pcms]
 
 *6713|
 [fc]
@@ -1066,7 +1116,8 @@ Father starts to thrust vigorously into Ren's mouth.[pcms]
 
 *6717|
 [fc]
-Inspired by Father, I start moving my hips, ready for a second round.[pcms]
+Inspired by Father, I start moving my hips, ready for a[r]
+second round.[pcms]
 
 *6718|
 [fc]
@@ -1075,13 +1126,14 @@ Ren's muffled voice grows even more intense.[pcms]
 *6719|
 [fc]
 [ns]Father[nse]
-"Ahh... When Wataru starts moving~ Ren's mouth tightens even more~.[r]
-Uuh...ahh...it feels even better~!"[pcms]
+"Ahh... When Wataru starts moving~ Ren's mouth tightens even[r]
+more~. Uuh...ahh...it feels even better~!"[pcms]
 
 *6720|
 [fc]
 [ns]Wataru[nse]
-"Ahh! Father, my side is also very tight~, it hurts so good~"[pcms]
+"Ahh! Father, my side is also very tight~, it hurts so[r]
+good~"[pcms]
 
 *6721|
 [fc]
@@ -1092,13 +1144,14 @@ Uuh...ahh...it feels even better~!"[pcms]
 *6722|
 [fc]
 [ns]Father[nse]
-"Of course~. It feels extra good because the three of us are together as a[r]
-family~."[pcms]
+"Of course~. It feels extra good because the three of us are[r]
+together as a family~."[pcms]
 
 *6723|
 [fc]
 [ns]Wataru[nse]
-"Ahh, that's why~. It was tight before but it can be even tighter~"[pcms]
+"Ahh, that's why~. It was tight before but it can be even[r]
+tighter~"[pcms]
 
 *6724|
 [fc]
@@ -1109,14 +1162,14 @@ family~."[pcms]
 *6725|
 [fc]
 [ns]Father[nse]
-"Family intimacy is important~. We need to do important things like meals[r]
-together as a family~"[pcms]
+"Family intimacy is important~. We need to do important[r]
+things like meals together as a family~"[pcms]
 
 *6726|
 [fc]
 [ns]Wataru[nse]
-"Family time is nice, isn't it~. We should have shown family SEX on Father's[r]
-show too~"[pcms]
+"Family time is nice, isn't it~. We should have shown family[r]
+SEX on Father's show too~"[pcms]
 
 *6727|
 [fc]
@@ -1127,8 +1180,9 @@ show too~"[pcms]
 *6728|
 [fc]
 [ns]Father[nse]
-"That's right~, why didn't we do that? We could have broadcasted Ren losing her[r]
-virginity nationwide. What a missed opportunity, Ren~"[pcms]
+"That's right~, why didn't we do that? We could have[r]
+broadcasted Ren losing her virginity nationwide. What a[r]
+missed opportunity, Ren~"[pcms]
 
 *6729|
 [fc]
@@ -1144,14 +1198,15 @@ virginity nationwide. What a missed opportunity, Ren~"[pcms]
 *6731|
 [fc]
 [ns]Father[nse]
-"Can't be helped~. Your mother was the same, completely absorbed in licking and[r]
-said nothing at all~"[pcms]
+"Can't be helped~. Your mother was the same, completely[r]
+absorbed in licking and said nothing at all~"[pcms]
 
 *6732|
 [fc]
 [ns]Father[nse]
-"Ahh~! But Ren's mouth is really something else~. It's tight, amateurish,[r]
-clumsy~, and sometimes biting is just great, feels good~~!!"[pcms]
+"Ahh~! But Ren's mouth is really something else~. It's[r]
+tight, amateurish, clumsy~, and sometimes biting is just[r]
+great, feels good~~!!"[pcms]
 
 *6733|
 [fc]
@@ -1162,7 +1217,8 @@ clumsy~, and sometimes biting is just great, feels good~~!!"[pcms]
 *6734|
 [fc]
 [ns]Wataru[nse]
-"Ahh... I'm gonna cum too~. It's amazing~! Ren's tight pussy~!!"[pcms]
+"Ahh... I'm gonna cum too~. It's amazing~! Ren's tight[r]
+pussy~!!"[pcms]
 
 *6735|
 [fc]
@@ -1172,8 +1228,9 @@ clumsy~, and sometimes biting is just great, feels good~~!!"[pcms]
 *6736|
 [fc]
 [ns]Wataru[nse]
-"You too, Dad~? Me too~. Cumming together like this~. Even if we're not blood-[r]
-related~ we're a real family, aren't we~"[pcms]
+"You too, Dad~? Me too~. Cumming together like this~. Even[r]
+if we're not blood- related~ we're a real family, aren't[r]
+we~"[pcms]
 
 *6737|
 [fc]
@@ -1204,8 +1261,8 @@ It's just so much fun, I can't help it. Family is great~.[pcms]
 *6742|
 [fc]
 [ns]Father[nse]
-"Now, Ren, you're underdeveloped for your age~ You need to take in lots of[r]
-nutrients~"[pcms]
+"Now, Ren, you're underdeveloped for your age~ You need to[r]
+take in lots of nutrients~"[pcms]
 
 ;//éÀê∏ç∑ï™
 ;//@konya é∏ã÷Å{ÉtÉFÉâÅ@éÀê∏
@@ -1232,22 +1289,25 @@ nutrients~"[pcms]
 
 *6746|
 [fc]
-Ren seems to have a mouthful of Dad's cum, her eyes darting back and forth...[pcms]
+Ren seems to have a mouthful of Dad's cum, her eyes darting[r]
+back and forth...[pcms]
 
 *6747|
 [fc]
-I also release mercilessly into Ren's pussy, and the excess that she couldn't[r]
-swallow is oozing out from the seam.[pcms]
+I also release mercilessly into Ren's pussy, and the excess[r]
+that she couldn't swallow is oozing out from the seam.[pcms]
 
 *6748|
 [fc]
 [ns]Father[nse]
-"Ahh... Ren is such a good girl, not picky at all. She drank it all up nicely~"[pcms]
+"Ahh... Ren is such a good girl, not picky at all. She drank[r]
+it all up nicely~"[pcms]
 ;//ÅóÅ@Ç±Ç±ÇÁÇ÷ÇÒÇ©ÇÁÅAÇ–ÇÁÇ™Ç»Ç™ñ⁄óßÇøénÇﬂÇÈ
 
 *6749|
 [fc]
-Father is fully indulging in the afterglow of Ren having swallowed everything.[pcms]
+Father is fully indulging in the afterglow of Ren having[r]
+swallowed everything.[pcms]
 
 ;//éÂêlåˆÇ‡Ç±ÇÃï”ÇËÇ©ÇÁéûÅXäøéöÇ™î≤ÇØóéÇøÇæÇ∑
 
@@ -1260,12 +1320,13 @@ Father is fully indulging in the afterglow of Ren having swallowed everything.[p
 
 *6751|
 [fc]
-I'm also completely satisfied after cumming inside Ren twice.[pcms]
+I'm also completely satisfied after cumming inside Ren[r]
+twice.[pcms]
 
 *6752|
 [fc]
-Now, maybe I'll take Ren's anal virginity next~. Since Dad had her mouth, her[r]
-ass is mine~.[pcms]
+Now, maybe I'll take Ren's anal virginity next~. Since Dad[r]
+had her mouth, her ass is mine~.[pcms]
 
 [sysbt_meswin clear]
 

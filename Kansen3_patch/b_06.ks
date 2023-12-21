@@ -40,13 +40,13 @@
 
 *3593|
 [fc]
-I'm concerned about Ren and Yuuho's situation, but for now, escaping from these[r]
-guys is the top priority.[pcms]
+I'm concerned about Ren and Yuuho's situation, but for now,[r]
+escaping from these guys is the top priority.[pcms]
 
 *3594|
 [fc]
-I quickly made up my mind and dashed straight into the nearest emergency exit of[r]
-the regular classroom building.[pcms]
+I quickly made up my mind and dashed straight into the[r]
+nearest emergency exit of the regular classroom building.[pcms]
 
 ;//BGFŠw‰€“à˜L‰ºEŠK’i•t‹ß
 [bg storage="BG015"][trans_c cross time=500]
@@ -54,20 +54,23 @@ the regular classroom building.[pcms]
 
 *3595|
 [fc]
-Inside, it seemed that the red-eyed ones had already infiltrated, as I could[r]
-hear girls' screams and boys' shouts of joy coming from the special classroom[r]
-building and the gymnasium.[pcms]
+Inside, it seemed that the red-eyed ones had already[r]
+infiltrated, as I could hear girls' screams and boys' shouts[r]
+of joy coming from the special classroom building and the[r]
+gymnasium.[pcms]
 
 *3596|
 [fc]
-But the regular classroom building, which is usually used during summer vacation[r]
-by clubs without their own rooms or students coming to pick up something, seemed[r]
-to be unpopular.[pcms]
+But the regular classroom building, which is usually used[r]
+during summer vacation by clubs without their own rooms or[r]
+students coming to pick up something, seemed to be[r]
+unpopular.[pcms]
 
 *3597|
 [fc]
-I quickly checked to make sure they weren't around, then locked the emergency[r]
-exit door to prevent them from following and finally caught my breath.[pcms]
+I quickly checked to make sure they weren't around, then[r]
+locked the emergency exit door to prevent them from[r]
+following and finally caught my breath.[pcms]
 
 *3598|
 [fc]
@@ -75,12 +78,13 @@ Why has it come to this?[pcms]
 
 *3599|
 [fc]
-Could it be the same virus that caused the "Tohoku Infection Disaster"?[pcms]
+Could it be the same virus that caused the "Tohoku Infection[r]
+Disaster"?[pcms]
 
 *3600|
 [fc]
-But since then, vaccinations have been almost mandatory, and of course, Yoshino-[r]
-san should have received it too.[pcms]
+But since then, vaccinations have been almost mandatory, and[r]
+of course, Yoshino- san should have received it too.[pcms]
 
 *3601|
 [fc]
@@ -92,7 +96,8 @@ I don't want to believe it.[pcms]
 
 *3603|
 [fc]
-Even as I think this, the screams I still hear immediately negate my thoughts.[pcms]
+Even as I think this, the screams I still hear immediately[r]
+negate my thoughts.[pcms]
 
 *3604|
 [fc]
@@ -113,13 +118,13 @@ Such an ominous thought crosses my mind.[pcms]
 
 *3608|
 [fc]
-But even so, unlike Kousuke, what can I, with my poor athletic abilities,[r]
-possibly do?[pcms]
+But even so, unlike Kousuke, what can I, with my poor[r]
+athletic abilities, possibly do?[pcms]
 
 *3609|
 [fc]
-Even though I'm worried about everyone... about the two of them, I couldn't move[r]
-and just stood there.[pcms]
+Even though I'm worried about everyone... about the two of[r]
+them, I couldn't move and just stood there.[pcms]
 
 *3610|
 [fc]
@@ -127,8 +132,8 @@ Then... I sense something moving in the corner of my vision.[pcms]
 
 *3611|
 [fc]
-I flinch and turn towards it, only to see a woman with red eyes who seemed to[r]
-have wandered from somewhere.[pcms]
+I flinch and turn towards it, only to see a woman with red[r]
+eyes who seemed to have wandered from somewhere.[pcms]
 
 *3612|
 [fc]
@@ -164,7 +169,8 @@ dash through the corridor in one go or run up the stairs.[pcms]
 ;	[link storage="B6_001.ks" target=*B6_001_TOP]ˆê‹C‚É˜L‰º‚ğ‚Â‚Á‚«‚Á‚ÄA“n‚è˜L‰º‚Ü‚ÅI[endlink]
 ;	[link storage="B6_005.ks" target=*B6_005_TOP]ŠK’i‚ğã‚Á‚Ä‚Q‚e‚Ö[endlink]
 ;	;[link storage="B_D1.ks" target=*B_D1_TOP]ŠÔØ‚ê[endlink]
-;       (link storage="B_D1.ks" target=*B_D1_TOP)What to do...(endlink)[pcms]
+;       (link storage="B_D1.ks" target=*B_D1_TOP)What to[r]
+do...(endlink)[pcms]
 
 *SEL61|ˆê‹C‚É˜L‰º‚ğ‚Â‚Á‚«‚Á‚ÄA“n‚è˜L‰º‚Ü‚ÅI^ŠK’i‚ğã‚Á‚Ä‚Q‚e‚Ö^‚Ç‚¤‚·‚écc
 [fc]

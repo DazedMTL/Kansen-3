@@ -30,20 +30,20 @@ I thought it might be impossible.[pcms]
 
 *1664|
 [fc]
-It's an unpleasant situation to be separated by just a fire door from them[r]
-walking around...[pcms]
+It's an unpleasant situation to be separated by just a fire[r]
+door from them walking around...[pcms]
 
 *1665|
 [fc]
 [ns]Wataru[nse]
-"We don't know how many enemies are at the entrance, and new ones might come in[r]
-from the street while we're fighting..."[pcms]
+"We don't know how many enemies are at the entrance, and new[r]
+ones might come in from the street while we're fighting..."[pcms]
 
 *1666|
 [fc]
 [ns]Wataru[nse]
-"Rather than fighting recklessly, maybe it's better to strengthen the defenses[r]
-of the safe place we're in now?"[pcms]
+"Rather than fighting recklessly, maybe it's better to[r]
+strengthen the defenses of the safe place we're in now?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -87,8 +87,9 @@ Suddenly, Yuuho looked up and smiled brightly.[pcms]
 [fc]
 [vo_yuh s="yuho1537"]
 [ns]Yuuho[nse]
-"Didn't Jin-san and the others say earlier? 'They chased us because we called[r]
-out loudly.' Couldn't the opposite work too?"[pcms]
+"Didn't Jin-san and the others say earlier? 'They chased us[r]
+because we called out loudly.' Couldn't the opposite work[r]
+too?"[pcms]
 
 *1673|
 [fc]
@@ -97,7 +98,8 @@ out loudly.' Couldn't the opposite work too?"[pcms]
 
 *1674|
 [fc]
-Finally, we began to understand what Yuuho was trying to say.[pcms]
+Finally, we began to understand what Yuuho was trying to[r]
+say.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -105,8 +107,8 @@ Finally, we began to understand what Yuuho was trying to say.[pcms]
 [fc]
 [vo_yuh s="yuho1538"]
 [ns]Yuuho[nse]
-"From somewhere else, we could lure the infected with sounds or voices, and[r]
-empty the entrance hall! How about that?"[pcms]
+"From somewhere else, we could lure the infected with sounds[r]
+or voices, and empty the entrance hall! How about that?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -141,8 +143,8 @@ The plan gradually became more concrete.[pcms]
 [fc]
 [vo_mar s="maru1492"]
 [ns]Margarita[nse]
-"The veranda of the nap room faces the street. Moreover, the route there and[r]
-back is relatively safe."[pcms]
+"The veranda of the nap room faces the street. Moreover, the[r]
+route there and back is relatively safe."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -150,7 +152,8 @@ back is relatively safe."[pcms]
 [fc]
 [vo_mar s="maru1493"]
 [ns]Margarita[nse]
-"Well... 'Relatively' is just that, it doesn't guarantee safety."[pcms]
+"Well... 'Relatively' is just that, it doesn't guarantee[r]
+safety."[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇTÇOÇRÇSÇOÇ÷
 [jump storage="50340.ks" target=*50340_TOP]

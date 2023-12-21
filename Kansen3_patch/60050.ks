@@ -45,8 +45,9 @@ I turned my back on Yuuho and ran away.[pcms]
 
 *286|
 [fc]
-Escaping from Yuuho, I rushed towards the elevator entrance, frantically[r]
-pressing the button, and then stumbled into the elevator.[pcms]
+Escaping from Yuuho, I rushed towards the elevator entrance,[r]
+frantically pressing the button, and then stumbled into the[r]
+elevator.[pcms]
 
 ;//ÅYçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -58,7 +59,8 @@ pressing the button, and then stumbled into the elevator.[pcms]
 
 *288|
 [fc]
-While pressing my back against the wall, I slid down to a seated position.[pcms]
+While pressing my back against the wall, I slid down to a[r]
+seated position.[pcms]
 
 *289|
 [fc]

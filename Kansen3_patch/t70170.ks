@@ -30,7 +30,8 @@
 ;[winset][scene_exp_init]
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]緒織とセックスした[endlink]
-(link target=*scene_selend)I did not have sex with Inori(endlink)[pcms]
+(link target=*scene_selend)I did not have sex with[r]
+Inori(endlink)[pcms]
 
 	[call storage="_scene_sel.ks" target=*scene_sel_iori]
 
@@ -68,8 +69,9 @@
 
 *8530|
 [fc]
-I rubbed my tear-stained cheeks vigorously, gently wiped away the tears that had[r]
-formed in Yuuho's eyes, and then pressed my lips against hers.[pcms]
+I rubbed my tear-stained cheeks vigorously, gently wiped[r]
+away the tears that had formed in Yuuho's eyes, and then[r]
+pressed my lips against hers.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -95,9 +97,9 @@ A gentle kiss. A kiss where lips meet lips. Our first kiss.[pcms]
 
 *8534|
 [fc]
-The softness of Yuuho's lips stimulated my brain. The scent rising from Yuuho[r]
-tickled my nose. The sweet smell of a girl. The soft fragrance of Yuuho's[r]
-kindness itself.[pcms]
+The softness of Yuuho's lips stimulated my brain. The scent[r]
+rising from Yuuho tickled my nose. The sweet smell of a[r]
+girl. The soft fragrance of Yuuho's kindness itself.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -109,9 +111,9 @@ kindness itself.[pcms]
 
 *8536|
 [fc]
-Unable to be satisfied with just a kiss, I gently licked Yuuho's lips with my[r]
-tongue. The taste of Yuuho. I slipped the tip of my tongue just a little between[r]
-her lips.[pcms]
+Unable to be satisfied with just a kiss, I gently licked[r]
+Yuuho's lips with my tongue. The taste of Yuuho. I slipped[r]
+the tip of my tongue just a little between her lips.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -123,15 +125,16 @@ her lips.[pcms]
 
 *8538|
 [fc]
-As if responding, but a bit hesitantly, Yuuho also touched the tip of her tongue[r]
-to mine. I could feel Yuuho's heartbeat against my chest, getting a little[r]
-faster and stronger.[pcms]
+As if responding, but a bit hesitantly, Yuuho also touched[r]
+the tip of her tongue to mine. I could feel Yuuho's[r]
+heartbeat against my chest, getting a little faster and[r]
+stronger.[pcms]
 
 *8539|
 [fc]
-I was so engrossed, sucking on Yuuho's tongue so as not to let it escape,[r]
-twining it around, tasting her saliva. Yuuho's saliva was sweet, exciting my[r]
-brain.[pcms]
+I was so engrossed, sucking on Yuuho's tongue so as not to[r]
+let it escape, twining it around, tasting her saliva.[r]
+Yuuho's saliva was sweet, exciting my brain.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -139,12 +142,14 @@ brain.[pcms]
 [fc]
 [vo_yuh s="yuho1128"]
 [ns]Yuuho[nse]
-"Nnnnjyu... chupa... jyu... nnn. Nfu... muchu... nnnnn... jyu"[pcms]
+"Nnnnjyu... chupa... jyu... nnn. Nfu... muchu... nnnnn...[r]
+jyu"[pcms]
 
 *8541|
 [fc]
-Yuuho was desperately responding to me. Her tongue was hot. Her heartbeat was[r]
-getting louder than before, and her whole body was starting to emit heat.[pcms]
+Yuuho was desperately responding to me. Her tongue was hot.[r]
+Her heartbeat was getting louder than before, and her whole[r]
+body was starting to emit heat.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -176,18 +181,20 @@ getting louder than before, and her whole body was starting to emit heat.[pcms]
 
 *8543|
 [fc]
-Yuuho, in her birthday suit, was slightly sweaty, her whole body tinged with a[r]
-faint peach color.[pcms]
+Yuuho, in her birthday suit, was slightly sweaty, her whole[r]
+body tinged with a faint peach color.[pcms]
 
 ;//♂_イベント絵、全裸と仮定。下半身のみの場合は文章を変える事
 
 *8544|
 [fc]
-The plump mound of Yuuho's mons pubis. It was smooth and completely hairless.[pcms]
+The plump mound of Yuuho's mons pubis. It was smooth and[r]
+completely hairless.[pcms]
 
 *8545|
 [fc]
-The valley below the mound was already wet with a viscous sheen.[pcms]
+The valley below the mound was already wet with a viscous[r]
+sheen.[pcms]
 
 *8546|
 [fc]
@@ -202,8 +209,8 @@ The valley below the mound was already wet with a viscous sheen.[pcms]
 [fc]
 [vo_yuh s="yuho1130"]
 [ns]Yuuho[nse]
-"No more, I can't. It's embarrassing, Wataru. Don't stare at me like that...[r]
-it's embarrassing..."[pcms]
+"No more, I can't. It's embarrassing, Wataru. Don't stare at[r]
+me like that... it's embarrassing..."[pcms]
 ;//♂_差分があるのなら、ここで股間に顔を埋める航登場。
 
 [evcg storage="HEV056f11"][trans_c cross time=300]
@@ -217,8 +224,9 @@ it's embarrassing..."[pcms]
 
 *8549|
 [fc]
-I buried my face in that moist valley. The sweet scent. The slippery juice of[r]
-Yuuho. When I licked it up with my tongue, it tasted as sweet as its fragrance.[pcms]
+I buried my face in that moist valley. The sweet scent. The[r]
+slippery juice of Yuuho. When I licked it up with my tongue,[r]
+it tasted as sweet as its fragrance.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -239,7 +247,8 @@ Yuuho. When I licked it up with my tongue, it tasted as sweet as its fragrance.[
 [fc]
 [vo_yuh s="yuho1133"]
 [ns]Yuuho[nse]
-"Hia... aahh... wa, Wataru... aack! Ahh... iih... iih... fuaan aah aah..."[pcms]
+"Hia... aahh... wa, Wataru... aack! Ahh... iih... iih...[r]
+fuaan aah aah..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -247,19 +256,20 @@ Yuuho. When I licked it up with my tongue, it tasted as sweet as its fragrance.[
 [fc]
 [vo_yuh s="yuho1134"]
 [ns]Yuuho[nse]
-"Ahh iih... wa, taru, that's too much... ack... being done like this... aah aah[r]
-iih!"[pcms]
+"Ahh iih... wa, taru, that's too much... ack... being done[r]
+like this... aah aah iih!"[pcms]
 
 *8554|
 [fc]
-Yuuho's pussy. Being licked and sucked by me, it was melting into a more and[r]
-more slippery state. It was dyed a deep pink color and shining slickly.[pcms]
+Yuuho's pussy. Being licked and sucked by me, it was melting[r]
+into a more and more slippery state. It was dyed a deep pink[r]
+color and shining slickly.[pcms]
 
 *8555|
 [fc]
-The elastic mound of shame. The quivering flesh mound beckoning me. Right below[r]
-that mound was a small protrusion peeking out. I focused on tormenting that[r]
-clitoris.[pcms]
+The elastic mound of shame. The quivering flesh mound[r]
+beckoning me. Right below that mound was a small protrusion[r]
+peeking out. I focused on tormenting that clitoris.[pcms]
 
 *8556|
 [fc]
@@ -272,8 +282,9 @@ clitoris.[pcms]
 [fc]
 [vo_yuh s="yuho1135"]
 [ns]Yuuho[nse]
-"Hiaa...! No... stop... ahii! More... stop... aah iih... wata... ru! That's too[r]
-much... sah... doing it like this nhiiaaaahhh!"[pcms]
+"Hiaa...! No... stop... ahii! More... stop... aah iih...[r]
+wata... ru! That's too much... sah... doing it like this[r]
+nhiiaaaahhh!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -281,8 +292,8 @@ much... sah... doing it like this nhiiaaaahhh!"[pcms]
 [fc]
 [vo_yuh s="yuho1136"]
 [ns]Yuuho[nse]
-"Stop... noo... ah, aaaaah!! Stop it! Aahii iih, Wataru! More, I'm going to[r]
-iih... iih... cum aaahhh... kuuuu!"[pcms]
+"Stop... noo... ah, aaaaah!! Stop it! Aahii iih, Wataru![r]
+More, I'm going to iih... iih... cum aaahhh... kuuuu!"[pcms]
 
 *8559|
 [fc]
@@ -295,7 +306,8 @@ iih... iih... cum aaahhh... kuuuu!"[pcms]
 [fc]
 [vo_yuh s="yuho1137"]
 [ns]Yuuho[nse]
-"Hiaaaaah ah, I'm cumming aaahhh! Aih iih! Aaaaaah ah ah ahhh!!"[pcms]
+"Hiaaaaah ah, I'm cumming aaahhh! Aih iih! Aaaaaah ah ah[r]
+ahhh!!"[pcms]
 
 ;//#_ホワイトフラッシュ
 ;//#_ホワイトフラッシュ
@@ -303,8 +315,9 @@ iih... iih... cum aaahhh... kuuuu!"[pcms]
 
 *8561|
 [fc]
-Trembling with supple muscles, Yuuho arched back as much as she could. A large[r]
-amount of sweet juice overflowed from inside Yuuho's pussy into my mouth.[pcms]
+Trembling with supple muscles, Yuuho arched back as much as[r]
+she could. A large amount of sweet juice overflowed from[r]
+inside Yuuho's pussy into my mouth.[pcms]
 
 [evcg storage="HEV056f10"][trans_c cross time=300]
 
@@ -318,8 +331,9 @@ amount of sweet juice overflowed from inside Yuuho's pussy into my mouth.[pcms]
 
 *8563|
 [fc]
-Seeing that Yuuho's breathing had calmed down a bit, I decided to ask for a[r]
-favor. Pushing my thing in front of Yuuho.[pcms]
+Seeing that Yuuho's breathing had calmed down a bit, I[r]
+decided to ask for a favor. Pushing my thing in front of[r]
+Yuuho.[pcms]
 
 *8564|
 [fc]
@@ -343,11 +357,13 @@ favor. Pushing my thing in front of Yuuho.[pcms]
 
 *8566|
 [fc]
-Yuuho's hand hesitantly reached out and gently touched my thing.[pcms]
+Yuuho's hand hesitantly reached out and gently touched my[r]
+thing.[pcms]
 
 *8567|
 [fc]
-While stroking my thing, Yuuho began to lick its surface like eating soft cream.[pcms]
+While stroking my thing, Yuuho began to lick its surface[r]
+like eating soft cream.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -355,13 +371,13 @@ While stroking my thing, Yuuho began to lick its surface like eating soft cream.
 [fc]
 [vo_yuh s="yuho1140"]
 [ns]Yuuho[nse]
-"...nn... nchu... chumu... nrel... ruu, emm... nrelruu emmruu... chu...[r]
-relruu... chu"[pcms]
+"...nn... nchu... chumu... nrel... ruu, emm... nrelruu[r]
+emmruu... chu... relruu... chu"[pcms]
 
 *8569|
 [fc]
-Glimpsing up at me, Yuuho slowly opened her lips and took my thing into her[r]
-mouth.[pcms]
+Glimpsing up at me, Yuuho slowly opened her lips and took my[r]
+thing into her mouth.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [evcg storage="HEV059n"][trans_c cross time=300]
@@ -370,18 +386,21 @@ mouth.[pcms]
 [fc]
 [vo_yuh s="yuho1141"]
 [ns]Yuuho[nse]
-"Nnnjyum... jyururu... jyupo... emm. Njyujyuru... jyutchuu... njyuuchu"[pcms]
+"Nnnjyum... jyururu... jyupo... emm. Njyujyuru...[r]
+jyutchuu... njyuuchu"[pcms]
 
 *8571|
 [fc]
-My beloved Yuuho was sucking on my thing. Her mouth was warm inside, and her[r]
-slippery tongue clung and swirled around fiercely.[pcms]
+My beloved Yuuho was sucking on my thing. Her mouth was warm[r]
+inside, and her slippery tongue clung and swirled around[r]
+fiercely.[pcms]
 
 *8572|
 [fc]
-The overwhelming stimulation. Just because she's the girl I love, it feels so[r]
-different. It's hot... my head is spinning. The way she glances up at me[r]
-stimulates me even more.[pcms]
+The overwhelming stimulation. Just because she's the girl I[r]
+love, it feels so different. It's hot... my head is[r]
+spinning. The way she glances up at me stimulates me even[r]
+more.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -389,12 +408,14 @@ stimulates me even more.[pcms]
 [fc]
 [vo_yuh s="yuho1142"]
 [ns]Yuuho[nse]
-"Muchuuu... emruu... nnnruu... jyupo nchuchuchu... jyupo... jyujyuruuu... chu"[pcms]
+"Muchuuu... emruu... nnnruu... jyupo nchuchuchu... jyupo...[r]
+jyujyuruuu... chu"[pcms]
 
 *8574|
 [fc]
-Without giving me time to think of ways to hold back, pleasure rushed in[r]
-acceleratingly, and I ended up ejaculating inside Yuuho's mouth with momentum.[pcms]
+Without giving me time to think of ways to hold back,[r]
+pleasure rushed in acceleratingly, and I ended up[r]
+ejaculating inside Yuuho's mouth with momentum.[pcms]
 
 ;//#_ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -418,8 +439,9 @@ acceleratingly, and I ended up ejaculating inside Yuuho's mouth with momentum.[p
 
 *8576|
 [fc]
-I heard Yuuho swallow with a gulp. She looked up at me with moist eyes. My[r]
-slightly deflated thing was pushed out of Yuuho's mouth with a plop.[pcms]
+I heard Yuuho swallow with a gulp. She looked up at me with[r]
+moist eyes. My slightly deflated thing was pushed out of[r]
+Yuuho's mouth with a plop.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [evcg storage="HEV059p"][trans_c cross time=300]
@@ -428,15 +450,18 @@ slightly deflated thing was pushed out of Yuuho's mouth with a plop.[pcms]
 [fc]
 [vo_yuh s="yuho1144"]
 [ns]Yuuho[nse]
-"Nn... haaahh.. nn, this is what men's is like... Wataru's..."[pcms]
+"Nn... haaahh.. nn, this is what men's is like...[r]
+Wataru's..."[pcms]
 
 *8578|
 [fc]
-Still holding onto my thing, she murmured with a dreamy look in her eyes.[pcms]
+Still holding onto my thing, she murmured with a dreamy look[r]
+in her eyes.[pcms]
 
 *8579|
 [fc]
-Yuuho had swallowed all of my semen without leaving a single drop behind.[pcms]
+Yuuho had swallowed all of my semen without leaving a single[r]
+drop behind.[pcms]
 
 ;//〆HEV069
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -448,8 +473,8 @@ Yuuho had swallowed all of my semen without leaving a single drop behind.[pcms]
 [fc]
 [vo_yuh s="yuho1145"]
 [ns]Yuuho[nse]
-"Ah... aah, it feels good. Wataru... rubbing it, it feels... good... aahnn ah[r]
-aah..."[pcms]
+"Ah... aah, it feels good. Wataru... rubbing it, it feels...[r]
+good... aahnn ah aah..."[pcms]
 
 *8581|
 [fc]
@@ -457,8 +482,9 @@ I was rubbing my thing against Yuuho's already wet pussy.[pcms]
 
 *8582|
 [fc]
-After the first ejaculation, my thing had slightly softened, but it was getting[r]
-harder again, spreading Yuuho's slickness all over it.[pcms]
+After the first ejaculation, my thing had slightly softened,[r]
+but it was getting harder again, spreading Yuuho's slickness[r]
+all over it.[pcms]
 
 *8583|
 [fc]
@@ -471,12 +497,14 @@ harder again, spreading Yuuho's slickness all over it.[pcms]
 [fc]
 [vo_yuh s="yuho1146"]
 [ns]Yuuho[nse]
-"Nn... ah... aah, uhh... nn. It's going in... eek... Wataru... ah aahnn ah"[pcms]
+"Nn... ah... aah, uhh... nn. It's going in... eek...[r]
+Wataru... ah aahnn ah"[pcms]
 
 *8585|
 [fc]
-I placed my hand on my thing and aimed it at the entrance of Yuuho's pussy. I[r]
-stopped rubbing and pressed the tip against the entrance.[pcms]
+I placed my hand on my thing and aimed it at the entrance of[r]
+Yuuho's pussy. I stopped rubbing and pressed the tip against[r]
+the entrance.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [evcg storage="HEV056f9"][trans_c cross time=300]
@@ -485,12 +513,13 @@ stopped rubbing and pressed the tip against the entrance.[pcms]
 [fc]
 [vo_yuh s="yuho1147"]
 [ns]Yuuho[nse]
-"...nn... it's okay, Wataru... come inside me... insert it into me..."[pcms]
+"...nn... it's okay, Wataru... come inside me... insert it[r]
+into me..."[pcms]
 
 *8587|
 [fc]
-Yuuho looked back at me with tearful eyes. Gently, yet firmly, I pushed my thing[r]
-into the entrance.[pcms]
+Yuuho looked back at me with tearful eyes. Gently, yet[r]
+firmly, I pushed my thing into the entrance.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -505,8 +534,9 @@ into the entrance.[pcms]
 
 *8589|
 [fc]
-Moving my hips in slow motion, I gradually thrust my thing inside Yuuho. It felt[r]
-like the walls of flesh that seemed to creak were parting to let me in.[pcms]
+Moving my hips in slow motion, I gradually thrust my thing[r]
+inside Yuuho. It felt like the walls of flesh that seemed to[r]
+creak were parting to let me in.[pcms]
 
 ;[evcg storage="HEV056f2"][trans_c cross time=300]
 
@@ -516,12 +546,14 @@ like the walls of flesh that seemed to creak were parting to let me in.[pcms]
 [fc]
 [vo_yuh s="yuho1149"]
 [ns]Yuuho[nse]
-"Nnaaahii... i-it hurts... ouch, aahh uuuh, nnaaah... aah... ah... ah... ah..."[pcms]
+"Nnaaahii... i-it hurts... ouch, aahh uuuh, nnaaah... aah...[r]
+ah... ah... ah..."[pcms]
 
 *8591|
 [fc]
-The walls of flesh that were forcibly opened began to clench tightly around my[r]
-thing. They writhed and began to coil around it.[pcms]
+The walls of flesh that were forcibly opened began to clench[r]
+tightly around my thing. They writhed and began to coil[r]
+around it.[pcms]
 
 *8592|
 [fc]
@@ -535,8 +567,8 @@ thing. They writhed and began to coil around it.[pcms]
 [fc]
 [vo_yuh s="yuho1150"]
 [ns]Yuuho[nse]
-"Nn... yeah. It's okay, it hurts but... just a little pain... I'm happy with[r]
-this pain... aah"[pcms]
+"Nn... yeah. It's okay, it hurts but... just a little[r]
+pain... I'm happy with this pain... aah"[pcms]
 
 ;[evcg storage="HEV056f9"][trans_c cross time=300]
 
@@ -546,13 +578,15 @@ this pain... aah"[pcms]
 [fc]
 [vo_yuh s="yuho1151"]
 [ns]Yuuho[nse]
-"It's okay because... Wataru. Nnaah... it's tingling... but I'm okay... My first[r]
-time is with Wataru, and I'm happy... so happy with you, Wataru..."[pcms]
+"It's okay because... Wataru. Nnaah... it's tingling... but[r]
+I'm okay... My first time is with Wataru, and I'm happy...[r]
+so happy with you, Wataru..."[pcms]
 
 *8595|
 [fc]
-I began to move my hips slowly. Pushing open the walls of flesh that had been[r]
-enveloping me. As I moved, Yuuho's flesh seemed to tear away and start moving.[pcms]
+I began to move my hips slowly. Pushing open the walls of[r]
+flesh that had been enveloping me. As I moved, Yuuho's flesh[r]
+seemed to tear away and start moving.[pcms]
 
 [evcg storage="HEV056f2"][trans_c cross time=300]
 
@@ -562,8 +596,8 @@ enveloping me. As I moved, Yuuho's flesh seemed to tear away and start moving.[p
 [fc]
 [vo_yuh s="yuho1152"]
 [ns]Yuuho[nse]
-"Nnaaaahh ah, aaaaah, i-it hurts... aah, ah it feels so good, even though it[r]
-hurts, aahh ah aahnn nnaaah"[pcms]
+"Nnaaaahh ah, aaaaah, i-it hurts... aah, ah it feels so[r]
+good, even though it hurts, aahh ah aahnn nnaaah"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -571,8 +605,8 @@ hurts, aahh ah aahnn nnaaah"[pcms]
 [fc]
 [vo_yuh s="yuho1153"]
 [ns]Yuuho[nse]
-"Nkuuhh... aah, aahh aahh, nnaaahnnnn. It hurts... aah. Ah, aahnn ah. It hurts[r]
-but it feels so good, aahh, aahnnaaah"[pcms]
+"Nkuuhh... aah, aahh aahh, nnaaahnnnn. It hurts... aah. Ah,[r]
+aahnn ah. It hurts but it feels so good, aahh, aahnnaaah"[pcms]
 
 *8598|
 [fc]
@@ -587,8 +621,8 @@ but it feels so good, aahh, aahnnaaah"[pcms]
 [fc]
 [vo_yuh s="yuho1154"]
 [ns]Yuuho[nse]
-"Nnaahh, Wataru! Wataru! I love you too! It feels so good! Aahnnaaah, aah,[r]
-aahhaahh"[pcms]
+"Nnaahh, Wataru! Wataru! I love you too! It feels so good![r]
+Aahnnaaah, aah, aahhaahh"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -596,14 +630,15 @@ aahhaahh"[pcms]
 [fc]
 [vo_yuh s="yuho1155"]
 [ns]Yuuho[nse]
-"Aaah it feels good! Aaah! It hurts but ohh. Aaahh, uhh, I'm so happy...[r]
-ahiinnnaaah, ah! Ah, it feels so good... kimochi ii... aah"[pcms]
+"Aaah it feels good! Aaah! It hurts but ohh. Aaahh, uhh, I'm[r]
+so happy... ahiinnnaaah, ah! Ah, it feels so good... kimochi[r]
+ii... aah"[pcms]
 
 *8601|
 [fc]
-The inside of her pussy became mushy and heated up stickily. The walls of flesh[r]
-writhed and tightened around my thing. Wet and naughty sounds leaked from the[r]
-entrance.[pcms]
+The inside of her pussy became mushy and heated up stickily.[r]
+The walls of flesh writhed and tightened around my thing.[r]
+Wet and naughty sounds leaked from the entrance.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [evcg storage="HEV056f3"][trans_c cross time=300]
@@ -612,8 +647,9 @@ entrance.[pcms]
 [fc]
 [vo_yuh s="yuho1156"]
 [ns]Yuuho[nse]
-"Ah, it feels good... becoming pleasured... aaaaah, it's good, Wataru, it feels[r]
-good, aaaaah. Nnaaahh, ah, it hurts... ah, it feels so good!"[pcms]
+"Ah, it feels good... becoming pleasured... aaaaah, it's[r]
+good, Wataru, it feels good, aaaaah. Nnaaahh, ah, it[r]
+hurts... ah, it feels so good!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -621,8 +657,9 @@ good, aaaaah. Nnaaahh, ah, it hurts... ah, it feels so good!"[pcms]
 [fc]
 [vo_yuh s="yuho1157"]
 [ns]Yuuho[nse]
-"Wataru, Wataru! It's good, it's so good. It's hot. It's hot because of you,[r]
-Wataru's... aaaaaaah! Nnaaaahh, ahhaaahh, aaahh, it's hot!"[pcms]
+"Wataru, Wataru! It's good, it's so good. It's hot. It's hot[r]
+because of you, Wataru's... aaaaaaah! Nnaaaahh, ahhaaahh,[r]
+aaahh, it's hot!"[pcms]
 
 *8604|
 [fc]
@@ -631,8 +668,9 @@ Wataru's... aaaaaaah! Nnaaaahh, ahhaaahh, aaahh, it's hot!"[pcms]
 
 *8605|
 [fc]
-My hips moved faster and faster like an uncontrollable robot, and at the same[r]
-time, a hot lump rose rapidly from deep within my thing.[pcms]
+My hips moved faster and faster like an uncontrollable[r]
+robot, and at the same time, a hot lump rose rapidly from[r]
+deep within my thing.[pcms]
 
 ;[evcg storage="HEV056f11"][trans_c cross time=300]
 
@@ -642,8 +680,8 @@ time, a hot lump rose rapidly from deep within my thing.[pcms]
 [fc]
 [vo_yuh s="yuho1158"]
 [ns]Yuuho[nse]
-"Aaahiit, amazingg, aaaahh, aaannnaaah. It's hot, it feels so good, aaaahaah.[r]
-Aaahh, ahhiinnnaaah"[pcms]
+"Aaahiit, amazingg, aaaahh, aaannnaaah. It's hot, it feels[r]
+so good, aaaahaah. Aaahh, ahhiinnnaaah"[pcms]
 
 *8607|
 [fc]
@@ -657,13 +695,14 @@ Aaahh, ahhiinnnaaah"[pcms]
 [fc]
 [vo_yuh s="yuho1159"]
 [ns]Yuuho[nse]
-"Aaahh, Wataru! Just like that, aaahaah! Just like that inside meee. Release[r]
-inside me, Wataru's!"[pcms]
+"Aaahh, Wataru! Just like that, aaahaah! Just like that[r]
+inside meee. Release inside me, Wataru's!"[pcms]
 
 *8609|
 [fc]
 [ns]Wataru[nse]
-"Yuuho... Yuuho! Uoooh!! I'm releasing. Releasing inside you, inside Yuuho!!"[pcms]
+"Yuuho... Yuuho! Uoooh!! I'm releasing. Releasing inside[r]
+you, inside Yuuho!!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -683,8 +722,8 @@ Aaaannnaaaauuuuhhh!"[pcms]
 
 *8611|
 [fc]
-I released all of my feelings into my beloved Yuuho while being enveloped in her[r]
-kindness.[pcms]
+I released all of my feelings into my beloved Yuuho while[r]
+being enveloped in her kindness.[pcms]
 
 ;//〆HEV072
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -700,8 +739,9 @@ kindness.[pcms]
 
 *8613|
 [fc]
-Yuuho was still basking in the afterglow. Her body was damp with sweat. Her[r]
-well-proportioned beautiful body snuggled up to me.[pcms]
+Yuuho was still basking in the afterglow. Her body was damp[r]
+with sweat. Her well-proportioned beautiful body snuggled up[r]
+to me.[pcms]
 
 *8614|
 [fc]
@@ -719,8 +759,8 @@ well-proportioned beautiful body snuggled up to me.[pcms]
 *8616|
 [fc]
 [ns]Wataru[nse]
-"Thank you, Yuuho. If you hadn't accepted me, I might have been lost. Thank you,[r]
-Yuuho."[pcms]
+"Thank you, Yuuho. If you hadn't accepted me, I might have[r]
+been lost. Thank you, Yuuho."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -733,14 +773,15 @@ Yuuho."[pcms]
 *8618|
 [fc]
 [ns]Wataru[nse]
-"...I've loved you for so long, Yuuho. I really love you. But I couldn't bring[r]
-myself to say it... I always hoped that someday we could be together."[pcms]
+"...I've loved you for so long, Yuuho. I really love you.[r]
+But I couldn't bring myself to say it... I always hoped that[r]
+someday we could be together."[pcms]
 
 *8619|
 [fc]
 [ns]Wataru[nse]
-"Yuuho... even though I'm such a pathetic guy, will you stay by my side from now[r]
-on and forever?"[pcms]
+"Yuuho... even though I'm such a pathetic guy, will you stay[r]
+by my side from now on and forever?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -752,8 +793,9 @@ on and forever?"[pcms]
 
 *8621|
 [fc]
-Yuuho said that with a smile and snuggled up to me. Wrapped in Yuuho's warm[r]
-kindness, I savored the feeling of happiness.[pcms]
+Yuuho said that with a smile and snuggled up to me. Wrapped[r]
+in Yuuho's warm kindness, I savored the feeling of[r]
+happiness.[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -797,7 +839,8 @@ kindness, I savored the feeling of happiness.[pcms]
 
 *8622|
 [fc]
-Yuuho's hand hesitantly reached out and gently touched my thing.[pcms]
+Yuuho's hand hesitantly reached out and gently touched my[r]
+thing.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -805,12 +848,14 @@ Yuuho's hand hesitantly reached out and gently touched my thing.[pcms]
 [fc]
 [vo_yuh s="yuho1165"]
 [ns]Yuuho[nse]
-"It's my first time... so I'm not sure if I can do it well..."[pcms]
+"It's my first time... so I'm not sure if I can do it[r]
+well..."[pcms]
 
 *8624|
 [fc]
-While saying that, Yuuho stroked my thing and started licking the surface as if[r]
-she were eating soft-serve ice cream.[pcms]
+While saying that, Yuuho stroked my thing and started[r]
+licking the surface as if she were eating soft-serve ice[r]
+cream.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -818,15 +863,15 @@ she were eating soft-serve ice cream.[pcms]
 [fc]
 [vo_yuh s="yuho1166"]
 [ns]Yuuho[nse]
-"...nn... nchu... chumu... nrel... ruu, emm... nrelruu emmruu... chu...[r]
-relruu... chu"[pcms]
+"...nn... nchu... chumu... nrel... ruu, emm... nrelruu[r]
+emmruu... chu... relruu... chu"[pcms]
 
 [evcg storage="HEV059n"][trans_c cross time=300]
 
 *8626|
 [fc]
-Glimpsing up at me, Yuuho slowly opened her lips and took my thing into her[r]
-mouth.[pcms]
+Glimpsing up at me, Yuuho slowly opened her lips and took my[r]
+thing into her mouth.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -834,18 +879,21 @@ mouth.[pcms]
 [fc]
 [vo_yuh s="yuho1167"]
 [ns]Yuuho[nse]
-"Nnnjyum... jyururu... jyupo... emm. Njyujyuru... jyutchuu... njyuuchu"[pcms]
+"Nnnjyum... jyururu... jyupo... emm. Njyujyuru...[r]
+jyutchuu... njyuuchu"[pcms]
 
 *8628|
 [fc]
-My beloved Yuuho is holding my thing in her mouth. The inside of Yuuho's mouth[r]
-is warm, and her slippery tongue is sucking and licking vigorously.[pcms]
+My beloved Yuuho is holding my thing in her mouth. The[r]
+inside of Yuuho's mouth is warm, and her slippery tongue is[r]
+sucking and licking vigorously.[pcms]
 
 *8629|
 [fc]
-It's an incredible sensation. The girl I love is holding my thing in her mouth.[r]
-It's hot... my head is spinning. Her eyes flicker up to mine. The stimulation[r]
-from her gaze. The direct stimulation on my thing.[pcms]
+It's an incredible sensation. The girl I love is holding my[r]
+thing in her mouth. It's hot... my head is spinning. Her[r]
+eyes flicker up to mine. The stimulation from her gaze. The[r]
+direct stimulation on my thing.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -853,13 +901,15 @@ from her gaze. The direct stimulation on my thing.[pcms]
 [fc]
 [vo_yuh s="yuho1168"]
 [ns]Yuuho[nse]
-"Mmmchu... eruu... nnnruu... jupo... nchuchu... jupo... jyujyuruu... chu"[pcms]
+"Mmmchu... eruu... nnnruu... jupo... nchuchu... jupo...[r]
+jyujyuruu... chu"[pcms]
 
 *8631|
 [fc]
-The combined effect of these dual stimulations quickly became too much for me to[r]
-bear, and overwhelmed by pleasure, I ended up ejaculating inside Yuuho's mouth[r]
-with that momentum.[pcms]
+The combined effect of these dual stimulations quickly[r]
+became too much for me to bear, and overwhelmed by pleasure,[r]
+I ended up ejaculating inside Yuuho's mouth with that[r]
+momentum.[pcms]
 
 ;//#_ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -878,8 +928,9 @@ with that momentum.[pcms]
 
 *8633|
 [fc]
-Yuuho's throat made a gulping sound. She looked up at me with moist eyes. My[r]
-slightly softened thing was pushed out of Yuuho's mouth with a pop.[pcms]
+Yuuho's throat made a gulping sound. She looked up at me[r]
+with moist eyes. My slightly softened thing was pushed out[r]
+of Yuuho's mouth with a pop.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [evcg storage="HEV059p"][trans_c cross time=300]
@@ -893,12 +944,14 @@ slightly softened thing was pushed out of Yuuho's mouth with a pop.[pcms]
 
 *8635|
 [fc]
-Still holding my thing in her hand, she murmured with a dazed look in her eyes.[pcms]
+Still holding my thing in her hand, she murmured with a[r]
+dazed look in her eyes.[pcms]
 
 *8636|
 [fc]
-Yuuho had swallowed all of my semen without leaving a single drop. Not even a[r]
-single drop was left. I felt not only happiness but also a sense of awe.[pcms]
+Yuuho had swallowed all of my semen without leaving a single[r]
+drop. Not even a single drop was left. I felt not only[r]
+happiness but also a sense of awe.[pcms]
 
 ;//〆HEV069
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -909,19 +962,21 @@ single drop was left. I felt not only happiness but also a sense of awe.[pcms]
 [fc]
 [vo_yuh s="yuho1171"]
 [ns]Yuuho[nse]
-"Nnn, nnaa, there, if you rub it like that... nhi, ahhhn, no, no, it feels...[r]
-good... ahh, nnaaah!"[pcms]
+"Nnn, nnaa, there, if you rub it like that... nhi, ahhhn,[r]
+no, no, it feels... good... ahh, nnaaah!"[pcms]
 
 *8638|
 [fc]
-I was trying to insert myself into Yuuho, rubbing my thing against her down[r]
-there. With a bit of haste. While my thing was getting harder and harder.[pcms]
+I was trying to insert myself into Yuuho, rubbing my thing[r]
+against her down there. With a bit of haste. While my thing[r]
+was getting harder and harder.[pcms]
 
 *8639|
 [fc]
-I was trying to find the entrance to Yuuho, but my thing was being toyed with by[r]
-the slippery juices of Yuuho, and I ended up just rubbing against Yuuho's down[r]
-there without finding the entrance.[pcms]
+I was trying to find the entrance to Yuuho, but my thing was[r]
+being toyed with by the slippery juices of Yuuho, and I[r]
+ended up just rubbing against Yuuho's down there without[r]
+finding the entrance.[pcms]
 
 [evcg storage="HEV056f11"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -930,12 +985,14 @@ there without finding the entrance.[pcms]
 [fc]
 [vo_yuh s="yuho1172"]
 [ns]Yuuho[nse]
-"Nnaaah, ah, there, Wataru... ahhhhnn! There, put it in, there, ahhhh, hiaaann!"[pcms]
+"Nnaaah, ah, there, Wataru... ahhhhnn! There, put it in,[r]
+there, ahhhh, hiaaann!"[pcms]
 
 *8641|
 [fc]
-With no other choice, I guided my thing with my hand as Yuuho urged me on, and[r]
-pressed the tip against a slight indentation in the slippery inside.[pcms]
+With no other choice, I guided my thing with my hand as[r]
+Yuuho urged me on, and pressed the tip against a slight[r]
+indentation in the slippery inside.[pcms]
 
 [evcg storage="HEV056f10"][trans_c cross time=300]
 
@@ -945,12 +1002,13 @@ pressed the tip against a slight indentation in the slippery inside.[pcms]
 [fc]
 [vo_yuh s="yuho1173"]
 [ns]Yuuho[nse]
-"Nnhhaaahaaah, there, Wataru... that's the spot. There... you can put your...[r]
-that in..."[pcms]
+"Nnhhaaahaaah, there, Wataru... that's the spot. There...[r]
+you can put your... that in..."[pcms]
 
 *8643|
 [fc]
-I carefully aimed and then slowly pushed my thing into Yuuho.[pcms]
+I carefully aimed and then slowly pushed my thing into[r]
+Yuuho.[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="HEV056f2"]
@@ -965,8 +1023,9 @@ I carefully aimed and then slowly pushed my thing into Yuuho.[pcms]
 
 *8645|
 [fc]
-Yuuho's down there seemed to make a creaking sound as I slowly and surely thrust[r]
-my thing inside. The walls of flesh tightly enveloped my thing.[pcms]
+Yuuho's down there seemed to make a creaking sound as I[r]
+slowly and surely thrust my thing inside. The walls of flesh[r]
+tightly enveloped my thing.[pcms]
 
 ;[evcg storage="HEV056f3"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -975,17 +1034,20 @@ my thing inside. The walls of flesh tightly enveloped my thing.[pcms]
 [fc]
 [vo_yuh s="yuho1175"]
 [ns]Yuuho[nse]
-"Nnaaahiih... it hurts... ouch, ahhhuhh, nnaaah... ahh... ah... ah... ah..."[pcms]
+"Nnaaahiih... it hurts... ouch, ahhhuhh, nnaaah... ahh...[r]
+ah... ah... ah..."[pcms]
 
 *8647|
 [fc]
-The forcibly opened walls of flesh were now tightly wrapping around my thing.[r]
-Twitching and writhing, they began to cling to my thing.[pcms]
+The forcibly opened walls of flesh were now tightly wrapping[r]
+around my thing. Twitching and writhing, they began to cling[r]
+to my thing.[pcms]
 
 *8648|
 [fc]
-This is the inside of a woman. Inside there. Inside Yuuho. It's hot and soft[r]
-with elasticity, slippery and perfectly clinging to my thing.[pcms]
+This is the inside of a woman. Inside there. Inside Yuuho.[r]
+It's hot and soft with elasticity, slippery and perfectly[r]
+clinging to my thing.[pcms]
 
 *8649|
 [fc]
@@ -998,8 +1060,8 @@ with elasticity, slippery and perfectly clinging to my thing.[pcms]
 [fc]
 [vo_yuh s="yuho1176"]
 [ns]Yuuho[nse]
-"Nn... yeah. It's okay, it hurts but... just a little pain but... I'm happy with[r]
-this pain... ahh"[pcms]
+"Nn... yeah. It's okay, it hurts but... just a little pain[r]
+but... I'm happy with this pain... ahh"[pcms]
 
 [evcg storage="HEV056f4"][trans_c cross time=300]
 
@@ -1009,19 +1071,20 @@ this pain... ahh"[pcms]
 [fc]
 [vo_yuh s="yuho1177"]
 [ns]Yuuho[nse]
-"It's okay because... Wataru. Nnaaah... it's tingling... but it's okay... My[r]
-first time is with Wataru... I'm happy... so happy with Wataru..."[pcms]
+"It's okay because... Wataru. Nnaaah... it's tingling... but[r]
+it's okay... My first time is with Wataru... I'm happy... so[r]
+happy with Wataru..."[pcms]
 
 *8652|
 [fc]
-I started to move my hips slowly. It seemed dangerous to move any faster. I was[r]
-already at my limit.[pcms]
+I started to move my hips slowly. It seemed dangerous to[r]
+move any faster. I was already at my limit.[pcms]
 
 *8653|
 [fc]
-The walls of flesh that had been enveloping me were now being pushed open again.[r]
-With my movements, Yuuho's walls of flesh started to move as if they were being[r]
-tugged along.[pcms]
+The walls of flesh that had been enveloping me were now[r]
+being pushed open again. With my movements, Yuuho's walls of[r]
+flesh started to move as if they were being tugged along.[pcms]
 
 [evcg storage="HEV056f2"][trans_c cross time=300]
 
@@ -1031,7 +1094,8 @@ tugged along.[pcms]
 [fc]
 [vo_yuh s="yuho1178"]
 [ns]Yuuho[nse]
-"Nnaaaahaaah, ahhhh, it hurts... ahh, ahiiiiiih, it hurts but... nnaaahaaah"[pcms]
+"Nnaaaahaaah, ahhhh, it hurts... ahh, ahiiiiiih, it hurts[r]
+but... nnaaahaaah"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1039,8 +1103,8 @@ tugged along.[pcms]
 [fc]
 [vo_yuh s="yuho1179"]
 [ns]Yuuho[nse]
-"Nkuuhh... ahhhh, ahhhh, nnaaaahnnn. It hurts... ahh. Ah, ahhhnnahh. It hurts[r]
-but... ahhhnn"[pcms]
+"Nkuuhh... ahhhh, ahhhh, nnaaaahnnn. It hurts... ahh. Ah,[r]
+ahhhnnahh. It hurts but... ahhhnn"[pcms]
 
 *8656|
 [fc]
@@ -1054,7 +1118,8 @@ but... ahhhnn"[pcms]
 [fc]
 [vo_yuh s="yuho1180"]
 [ns]Yuuho[nse]
-"Nnaahh, Wataru! Wataruu! Me too! Aii! Ahhhaaah! Ahnnnaaah, ah, ahhaahh!"[pcms]
+"Nnaahh, Wataru! Wataruu! Me too! Aii! Ahhhaaah! Ahnnnaaah,[r]
+ah, ahhaahh!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1062,13 +1127,14 @@ but... ahhhnn"[pcms]
 [fc]
 [vo_yuh s="yuho1181"]
 [ns]Yuuho[nse]
-"Ahh good! Ahh! It hurts but ohh. Ahhh, oh, I'm happy... ahinnnaaah, ah! Ah, ii,[r]
-good... ahah"[pcms]
+"Ahh good! Ahh! It hurts but ohh. Ahhh, oh, I'm happy...[r]
+ahinnnaaah, ah! Ah, ii, good... ahah"[pcms]
 
 *8659|
 [fc]
-The inside became mushy and heated up stickily. The walls of flesh writhed and[r]
-tightened around my thing. Wet sounds leaked from the entrance.[pcms]
+The inside became mushy and heated up stickily. The walls of[r]
+flesh writhed and tightened around my thing. Wet sounds[r]
+leaked from the entrance.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1076,8 +1142,8 @@ tightened around my thing. Wet sounds leaked from the entrance.[pcms]
 [fc]
 [vo_yuh s="yuho1182"]
 [ns]Yuuho[nse]
-"Ah, good... feeling good... ahhhahh, good, Wataru, good, ahhhahh. Nnaaahh, ah,[r]
-it hurts... ahiiiahh!"[pcms]
+"Ah, good... feeling good... ahhhahh, good, Wataru, good,[r]
+ahhhahh. Nnaaahh, ah, it hurts... ahiiiahh!"[pcms]
 
 [evcg storage="HEV056f2"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -1086,8 +1152,8 @@ it hurts... ahiiiahh!"[pcms]
 [fc]
 [vo_yuh s="yuho1183"]
 [ns]Yuuho[nse]
-"Wataru, Wataruuuh! It's good, it's so good. It's hot. Your heat, Wataru's[r]
-heat... ahhhahh! Nnaaahh, ahhaahh, ahhhahh!"[pcms]
+"Wataru, Wataruuuh! It's good, it's so good. It's hot. Your[r]
+heat, Wataru's heat... ahhhahh! Nnaaahh, ahhaahh, ahhhahh!"[pcms]
 
 *8662|
 [fc]
@@ -1096,14 +1162,16 @@ heat... ahhhahh! Nnaaahh, ahhaahh, ahhhahh!"[pcms]
 
 *8663|
 [fc]
-The moans of Yuuho echoed in my head like an echo and I increased the speed of[r]
-my thrusts uncontrollably like a robot without control.[pcms]
+The moans of Yuuho echoed in my head like an echo and I[r]
+increased the speed of my thrusts uncontrollably like a[r]
+robot without control.[pcms]
 
 *8664|
 [fc]
-The faster I moved the tighter Yuuho's walls of flesh squeezed me. They seemed[r]
-to be trying to milk out the hot semen that was just about to come outwrithing[r]
-and squeezing tightly![pcms]
+The faster I moved the tighter Yuuho's walls of flesh[r]
+squeezed me. They seemed to be trying to milk out the hot[r]
+semen that was just about to come outwrithing and squeezing[r]
+tightly![pcms]
 
 ;[evcg storage="HEV056f2"][trans_c cross time=300]
 
@@ -1113,8 +1181,8 @@ and squeezing tightly![pcms]
 [fc]
 [vo_yuh s="yuho1184"]
 [ns]Yuuho[nse]
-"Ahh! Amazing! Ahhh! Ahnnnaaahh. It's hot, so hot, it feels so good... ahhhahh.[r]
-Ahh! Ahiiihh! Ahnnnaaahh"[pcms]
+"Ahh! Amazing! Ahhh! Ahnnnaaahh. It's hot, so hot, it feels[r]
+so good... ahhhahh. Ahh! Ahiiihh! Ahnnnaaahh"[pcms]
 
 *8666|
 [fc]
@@ -1135,8 +1203,9 @@ Ahh! Ahiiihh! Ahnnnaaahh"[pcms]
 
 *8668|
 [fc]
-I couldn't hold back anymore. I surrendered myself to the pleasure Yuuho gave me[r]
-and released all my semen inside her with force.[pcms]
+I couldn't hold back anymore. I surrendered myself to the[r]
+pleasure Yuuho gave me and released all my semen inside her[r]
+with force.[pcms]
 
 *8669|
 [fc]
@@ -1150,8 +1219,8 @@ and released all my semen inside her with force.[pcms]
 [fc]
 [vo_yuh s="yuho1186"]
 [ns]Yuuho[nse]
-"Fuaaaahhaaahh... nnnfuaahnn... no more inside please... it's getting so hot[r]
-inside..."[pcms]
+"Fuaaaahhaaahh... nnnfuaahnn... no more inside please...[r]
+it's getting so hot inside..."[pcms]
 
 *8671|
 [fc]
@@ -1166,11 +1235,13 @@ inside..."[pcms]
 [fc]
 [vo_yuh s="yuho1187"]
 [ns]Yuuho[nse]
-"Nfnfnnnn... it's hot inside... you shouldn't have done that..."[pcms]
+"Nfnfnnnn... it's hot inside... you shouldn't have done[r]
+that..."[pcms]
 
 *8673|
 [fc]
-Yuuho repeated this like she was talking in her sleep with unfocused eyes.[pcms]
+Yuuho repeated this like she was talking in her sleep with[r]
+unfocused eyes.[pcms]
 
 ;//〆HEV072
 
@@ -1186,8 +1257,9 @@ Yuuho repeated this like she was talking in her sleep with unfocused eyes.[pcms]
 
 *8675|
 [fc]
-Yet Yuuho seemed somehow happy as she said this. Still glistening with sweat,[r]
-she snuggled her well-proportioned beautiful body close to mine.[pcms]
+Yet Yuuho seemed somehow happy as she said this. Still[r]
+glistening with sweat, she snuggled her well-proportioned[r]
+beautiful body close to mine.[pcms]
 
 *8676|
 [fc]
@@ -1207,8 +1279,8 @@ she snuggled her well-proportioned beautiful body close to mine.[pcms]
 *8678|
 [fc]
 [ns]Wataru[nse]
-"Thank you, Yuuho. If you hadn't accepted me, I think I would have surely broken[r]
-down. Thank you so much, Yuuho."[pcms]
+"Thank you, Yuuho. If you hadn't accepted me, I think I[r]
+would have surely broken down. Thank you so much, Yuuho."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1221,14 +1293,16 @@ down. Thank you so much, Yuuho."[pcms]
 *8680|
 [fc]
 [ns]Wataru[nse]
-"I've... I've loved you for a long time. I still do, of course. But I never had[r]
-the courage to say it, just vaguely hoping that someday I could be with you."[pcms]
+"I've... I've loved you for a long time. I still do, of[r]
+course. But I never had the courage to say it, just vaguely[r]
+hoping that someday I could be with you."[pcms]
 
 *8681|
 [fc]
 [ns]Wataru[nse]
-"Yuuho... that's why I was so happy. For your kindness, for accepting someone[r]
-like me. Yuuho... will you stay with me forever from now on?"[pcms]
+"Yuuho... that's why I was so happy. For your kindness, for[r]
+accepting someone like me. Yuuho... will you stay with me[r]
+forever from now on?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1240,9 +1314,9 @@ like me. Yuuho... will you stay with me forever from now on?"[pcms]
 
 *8683|
 [fc]
-Yuuho said that with a smile and snuggled up to me. Yuuho, who said even someone[r]
-like me was okay. I was enveloped in an overwhelming sense of happiness and[r]
-kindness right now.[pcms]
+Yuuho said that with a smile and snuggled up to me. Yuuho,[r]
+who said even someone like me was okay. I was enveloped in[r]
+an overwhelming sense of happiness and kindness right now.[pcms]
 
 
 ;//---------------------------------------------------------------

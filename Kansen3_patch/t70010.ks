@@ -25,8 +25,9 @@
 
 *7429|
 [fc]
-I carried Ren, who continued to cry, into the room, holding her close. Without[r]
-turning on the light, I sat her on the bed in the dark and hugged her.[pcms]
+I carried Ren, who continued to cry, into the room, holding[r]
+her close. Without turning on the light, I sat her on the[r]
+bed in the dark and hugged her.[pcms]
 
 *7430|
 [fc]
@@ -57,8 +58,9 @@ In my arms, Ren shook her entire body as she cried.[pcms]
 
 *7435|
 [fc]
-It's no wonder. I'm shocked too. I want to cry... But Ren must be much more[r]
-shocked than me... After all, it's her real father...[pcms]
+It's no wonder. I'm shocked too. I want to cry... But Ren[r]
+must be much more shocked than me... After all, it's her[r]
+real father...[pcms]
 
 *7436|
 [fc]
@@ -79,14 +81,15 @@ shocked than me... After all, it's her real father...[pcms]
 
 *7439|
 [fc]
-Ren clung to my chest and cried, her slender fingers clawing at my chest as if[r]
-struggling.[pcms]
+Ren clung to my chest and cried, her slender fingers clawing[r]
+at my chest as if struggling.[pcms]
 
 *7440|
 [fc]
 [ns]Wataru[nse]
-"Yeah... Ren. I'm here for you. You can cry as much as you need. It's just the[r]
-two of us... You don't have to hold back, cry more if you need to, Ren."[pcms]
+"Yeah... Ren. I'm here for you. You can cry as much as you[r]
+need. It's just the two of us... You don't have to hold[r]
+back, cry more if you need to, Ren."[pcms]
 
 *7441|
 [fc]
@@ -96,8 +99,8 @@ two of us... You don't have to hold back, cry more if you need to, Ren."[pcms]
 
 *7442|
 [fc]
-Like a dam breaking, intense sobs came from Ren's mouth, and tears flowed from[r]
-her eyes like a flood.[pcms]
+Like a dam breaking, intense sobs came from Ren's mouth, and[r]
+tears flowed from her eyes like a flood.[pcms]
 
 *7443|
 [fc]
@@ -113,16 +116,16 @@ her eyes like a flood.[pcms]
 
 *7445|
 [fc]
-In the dimly lit room, only Ren's crying echoed. I hugged Ren, stroked her back,[r]
-and continued to pat her head.[pcms]
+In the dimly lit room, only Ren's crying echoed. I hugged[r]
+Ren, stroked her back, and continued to pat her head.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *7446|
 [fc]
-I wonder how much time has passed. Eventually, Ren's crying stopped, and the[r]
-trembling of her body in my arms ceased.[pcms]
+I wonder how much time has passed. Eventually, Ren's crying[r]
+stopped, and the trembling of her body in my arms ceased.[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020b"][trans_c cross time=500]
@@ -141,9 +144,9 @@ trembling of her body in my arms ceased.[pcms]
 
 *7449|
 [fc]
-Ren had fallen asleep from exhaustion. I gently laid her body on the bed and in[r]
-the still dark room, I wiped away the sparkling trails of her tears before[r]
-leaving the room.[pcms]
+Ren had fallen asleep from exhaustion. I gently laid her[r]
+body on the bed and in the still dark room, I wiped away the[r]
+sparkling trails of her tears before leaving the room.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -177,7 +180,8 @@ leaving the room.[pcms]
 
 *7453|
 [fc]
-Everyone was still gathered in the dome. When they saw me, they rushed over.[pcms]
+Everyone was still gathered in the dome. When they saw me,[r]
+they rushed over.[pcms]
 
 *7454|
 [fc]
@@ -210,7 +214,8 @@ Everyone was still gathered in the dome. When they saw me, they rushed over.[pcm
 *7458|
 [fc]
 [ns]Kousuke[nse]
-"That, umm... Wataru! For Ren-chan's sake too, as a brother, you know..."[pcms]
+"That, umm... Wataru! For Ren-chan's sake too, as a brother,[r]
+you know..."[pcms]
 
 *7459|
 [fc]
@@ -223,8 +228,8 @@ Everyone was still gathered in the dome. When they saw me, they rushed over.[pcm
 [fc]
 [vo_yuh s="yuho0914"]
 [ns]Yuuho[nse]
-"Wataru... don't push yourself. You must be hurting too. Look, we're all friends[r]
-here, so... it's okay to cry."[pcms]
+"Wataru... don't push yourself. You must be hurting too.[r]
+Look, we're all friends here, so... it's okay to cry."[pcms]
 
 *7461|
 [fc]
@@ -237,16 +242,16 @@ here, so... it's okay to cry."[pcms]
 [fc]
 [vo_yuh s="yuho0915"]
 [ns]Yuuho[nse]
-"Hey, they say crying can make you feel better for the time being, right? So,[r]
-Wataru. Don't hold back."[pcms]
+"Hey, they say crying can make you feel better for the time[r]
+being, right? So, Wataru. Don't hold back."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *7463|
 [fc]
 [ns]Kousuke[nse]
-"That's right, Wataru. I'll lend you my shoulder, so go ahead and cry. Just let[r]
-it all out, okay?"[pcms]
+"That's right, Wataru. I'll lend you my shoulder, so go[r]
+ahead and cry. Just let it all out, okay?"[pcms]
 
 *7464|
 [fc]
@@ -255,8 +260,8 @@ it all out, okay?"[pcms]
 
 *7465|
 [fc]
-I probably had a tearful smile on my face. I was so happy with everyone's[r]
-feelings that I wanted to start crying...[pcms]
+I probably had a tearful smile on my face. I was so happy[r]
+with everyone's feelings that I wanted to start crying...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -268,8 +273,8 @@ feelings that I wanted to start crying...[pcms]
 
 *7467|
 [fc]
-From behind me came Maruko-senpai's sharp voice. Suddenly, all my emotions were[r]
-put on pause.[pcms]
+From behind me came Maruko-senpai's sharp voice. Suddenly,[r]
+all my emotions were put on pause.[pcms]
 
 *7468|
 [fc]
@@ -282,7 +287,8 @@ put on pause.[pcms]
 [fc]
 [vo_mar s="maru1011"]
 [ns]Margarita[nse]
-"Could you come with me for a moment? I'll make you some coffee, so follow me."[pcms]
+"Could you come with me for a moment? I'll make you some[r]
+coffee, so follow me."[pcms]
 
 *7470|
 [fc]
@@ -336,8 +342,8 @@ put on pause.[pcms]
 
 *7477|
 [fc]
-Maruko-senpai forcibly pulled me away from my near-tears state and took me with[r]
-her.[pcms]
+Maruko-senpai forcibly pulled me away from my near-tears[r]
+state and took me with her.[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -354,12 +360,14 @@ her.[pcms]
 [fc]
 [vo_mar s="maru1015"]
 [ns]Margarita[nse]
-"Hmm. Is this how it's done? Well, it seems drinkable at least."[pcms]
+"Hmm. Is this how it's done? Well, it seems drinkable at[r]
+least."[pcms]
 
 *7479|
 [fc]
-Maruko-senpai placed the cup with a thud in front of me. The coffee looked warm[r]
-with steam rising from it, and the aroma wasn't bad. I took a sip.[pcms]
+Maruko-senpai placed the cup with a thud in front of me. The[r]
+coffee looked warm with steam rising from it, and the aroma[r]
+wasn't bad. I took a sip.[pcms]
 
 *7480|
 [fc]
@@ -382,8 +390,8 @@ It was a bit strong and bitter...[pcms]
 
 *7483|
 [fc]
-While holding her own cup of coffee with both hands, Marie came around the[r]
-counter and stood in front of me.[pcms]
+While holding her own cup of coffee with both hands, Marie[r]
+came around the counter and stood in front of me.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -404,23 +412,23 @@ counter and stood in front of me.[pcms]
 [fc]
 [vo_mar s="maru1018"]
 [ns]Margarita[nse]
-"Wataru... I also lost my mother in an unreasonable situation. It was very sad[r]
-and painful..."[pcms]
+"Wataru... I also lost my mother in an unreasonable[r]
+situation. It was very sad and painful..."[pcms]
 
 *7487|
 [fc]
-Before she finished speaking, Marie put her cup on the table and gently embraced[r]
-my head.[pcms]
+Before she finished speaking, Marie put her cup on the table[r]
+and gently embraced my head.[pcms]
 
 *7488|
 [fc]
-My head was cradled in her gentle arms, and Marie's soft and resilient breasts[r]
-were pressed against my face.[pcms]
+My head was cradled in her gentle arms, and Marie's soft and[r]
+resilient breasts were pressed against my face.[pcms]
 
 *7489|
 [fc]
-Marie's warm voice poured into my ears, which were blocked by her arms, sounding[r]
-slightly muffled.[pcms]
+Marie's warm voice poured into my ears, which were blocked[r]
+by her arms, sounding slightly muffled.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -428,8 +436,8 @@ slightly muffled.[pcms]
 [fc]
 [vo_mar s="maru1019"]
 [ns]Margarita[nse]
-"...I still have my father. But Wataru, you've lost both of yours... You must be[r]
-suffering much more than I am..."[pcms]
+"...I still have my father. But Wataru, you've lost both of[r]
+yours... You must be suffering much more than I am..."[pcms]
 
 *7491|
 [fc]
@@ -450,8 +458,8 @@ suffering much more than I am..."[pcms]
 [fc]
 [vo_mar s="maru1021"]
 [ns]Margarita[nse]
-"Don't bear everything about Ren alone. Ren is your sister. Because she's[r]
-important to you, she's also important to me."[pcms]
+"Don't bear everything about Ren alone. Ren is your sister.[r]
+Because she's important to you, she's also important to me."[pcms]
 
 *7494|
 [fc]
@@ -460,8 +468,8 @@ important to you, she's also important to me."[pcms]
 
 *7495|
 [fc]
-The tears I had been holding back started to overflow. I wasn't alone. Marie,[r]
-who understood me, was there.[pcms]
+The tears I had been holding back started to overflow. I[r]
+wasn't alone. Marie, who understood me, was there.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -491,8 +499,8 @@ who understood me, was there.[pcms]
 
 *7500|
 [fc]
-Clinging to Marie's soft breasts, I buried my face in them and let out all the[r]
-tears I had been holding back.[pcms]
+Clinging to Marie's soft breasts, I buried my face in them[r]
+and let out all the tears I had been holding back.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d26"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -513,8 +521,8 @@ While gently stroking my head, Marie kissed my hair.[pcms]
 
 *7504|
 [fc]
-Hugging Marie tightly, I let out all the tears I could. Without saying a word,[r]
-she continued to hold me.[pcms]
+Hugging Marie tightly, I let out all the tears I could.[r]
+Without saying a word, she continued to hold me.[pcms]
 
 *7505|
 [fc]
@@ -531,7 +539,8 @@ she continued to hold me.[pcms]
 
 *7507|
 [fc]
-While stroking my head in silence, comforting me, Marie spoke up.[pcms]
+While stroking my head in silence, comforting me, Marie[r]
+spoke up.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -539,7 +548,8 @@ While stroking my head in silence, comforting me, Marie spoke up.[pcms]
 [fc]
 [vo_mar s="maru1026"]
 [ns]Margarita[nse]
-"...I'm also a woman. I think I know how to comfort a man..."[pcms]
+"...I'm also a woman. I think I know how to comfort a[r]
+man..."[pcms]
 
 *7509|
 [fc]
@@ -548,8 +558,8 @@ While stroking my head in silence, comforting me, Marie spoke up.[pcms]
 
 *7510|
 [fc]
-In front of me, as I lifted my face, was Marie with a smile filled with self-[r]
-love yet tinged with sadness.[pcms]
+In front of me, as I lifted my face, was Marie with a smile[r]
+filled with self- love yet tinged with sadness.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -557,16 +567,19 @@ love yet tinged with sadness.[pcms]
 [fc]
 [vo_mar s="maru1027"]
 [ns]Margarita[nse]
-"Wataru... Let's go over there. I want to comfort you a lot."[pcms]
+"Wataru... Let's go over there. I want to comfort you a[r]
+lot."[pcms]
 
 *7512|
 [fc]
-Taking my hand, Marie led me toward the direction she pointed atthe "depot."[pcms]
+Taking my hand, Marie led me toward the direction she[r]
+pointed atthe "depot."[pcms]
 
 *7513|
 [fc]
-I followed Marie, being led by the hand like a child sobbing while being pulled[r]
-along by his mother, to the "depot" where Marie and I first became intimate.[pcms]
+I followed Marie, being led by the hand like a child sobbing[r]
+while being pulled along by his mother, to the "depot" where[r]
+Marie and I first became intimate.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -586,8 +599,8 @@ along by his mother, to the "depot" where Marie and I first became intimate.[pcm
 [fc]
 [vo_mar s="maru1028"]
 [ns]Margarita[nse]
-"Wataru... It's okay. I wanted to comfort you... I wanted to embrace you with[r]
-all of me..."[pcms]
+"Wataru... It's okay. I wanted to comfort you... I wanted to[r]
+embrace you with all of me..."[pcms]
 
 *7516|
 [fc]
@@ -608,24 +621,25 @@ With all her heart and soul, Marie comforted me.[pcms]
 
 *7519|
 [fc]
-Every time a cry of joy escaped from Marie's lips, the lump inside my heart[r]
-melted away bit by bit. With every spray of Marie's sweat, my tears also[r]
-scattered.[pcms]
+Every time a cry of joy escaped from Marie's lips, the lump[r]
+inside my heart melted away bit by bit. With every spray of[r]
+Marie's sweat, my tears also scattered.[pcms]
 
 *7520|
 [fc]
-Thank you, Marie. It's okay now. From tomorrow on, I'll surely be fine, even[r]
-more than before.[pcms]
+Thank you, Marie. It's okay now. From tomorrow on, I'll[r]
+surely be fine, even more than before.[pcms]
 
 *7521|
 [fc]
-I'll properly support both Marie and Ren. Even if I feel like breaking down,[r]
-Marie will be there for me. Feeling this clearly now, I know I'll be okay.[pcms]
+I'll properly support both Marie and Ren. Even if I feel[r]
+like breaking down, Marie will be there for me. Feeling this[r]
+clearly now, I know I'll be okay.[pcms]
 
 *7522|
 [fc]
-I have to be strong. For Marie's sake too. To protect this beautiful sleeping[r]
-face.[pcms]
+I have to be strong. For Marie's sake too. To protect this[r]
+beautiful sleeping face.[pcms]
 
 [eval exp="f.l_route_m = 1"]
 

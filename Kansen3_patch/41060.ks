@@ -28,16 +28,18 @@
 [fc]
 [vo_mar s="maru0381"]
 [ns]Margarita[nse]
-"That's right... It's only a matter of time before that door we saw earlier gets[r]
-broken down. There's nowhere to escape underground."[pcms]
+"That's right... It's only a matter of time before that door[r]
+we saw earlier gets broken down. There's nowhere to escape[r]
+underground."[pcms]
 
 *2855|
 [fc]
 [vo_mar s="maru0382"]
 [ns]Margarita[nse]
-"Even if we can't make it to the town, if we proceed from the open channel, we[r]
-might be able to reach the sea. We also have the option of escaping by sea, and[r]
-it's possible that help is coming from there."[pcms]
+"Even if we can't make it to the town, if we proceed from[r]
+the open channel, we might be able to reach the sea. We also[r]
+have the option of escaping by sea, and it's possible that[r]
+help is coming from there."[pcms]
 
 *2856|
 [fc]
@@ -54,8 +56,8 @@ it's possible that help is coming from there."[pcms]
 
 *2858|
 [fc]
-As I respond to my senior, Yuuho, with a look of apology, places her hand on the[r]
-bag I carried for her.[pcms]
+As I respond to my senior, Yuuho, with a look of apology,[r]
+places her hand on the bag I carried for her.[pcms]
 
 *2859|
 [fc]
@@ -85,8 +87,8 @@ That's right. I still have Yuuho with me.[pcms]
 
 *2864|
 [fc]
-"I will protect Yuuho no matter what," I thought to myself as I looked at Yuuho[r]
-smiling genuinely happily.[pcms]
+"I will protect Yuuho no matter what," I thought to myself[r]
+as I looked at Yuuho smiling genuinely happily.[pcms]
 
 ;//se108・ハッチをノック
 ;//[se buf=0 storage="se108"]
@@ -114,8 +116,9 @@ smiling genuinely happily.[pcms]
 
 *2867|
 [fc]
-We proceeded down the decided path as if shaking off the sound of the door being[r]
-hit that we could still hear behind us.[pcms]
+We proceeded down the decided path as if shaking off the[r]
+sound of the door being hit that we could still hear behind[r]
+us.[pcms]
 
 ;//se051・コンクリートの上の足音（複数）
 [se buf=0 storage="se051"]
@@ -130,12 +133,14 @@ hit that we could still hear behind us.[pcms]
 
 *2869|
 [fc]
-The path split again to the left and right. The left was a straight corridor.[r]
-The right was a gently descending staircase.[pcms]
+The path split again to the left and right. The left was a[r]
+straight corridor. The right was a gently descending[r]
+staircase.[pcms]
 
 *2870|
 [fc]
-The senior compared it with the map in the book she was carrying.[pcms]
+The senior compared it with the map in the book she was[r]
+carrying.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -143,15 +148,16 @@ The senior compared it with the map in the book she was carrying.[pcms]
 [fc]
 [vo_mar s="maru0384"]
 [ns]Margarita[nse]
-"The left probably heads towards Meiji Street. It might be connected to the[r]
-Shibuya River culvert."[pcms]
+"The left probably heads towards Meiji Street. It might be[r]
+connected to the Shibuya River culvert."[pcms]
 
 *2872|
 [fc]
 [vo_mar s="maru0385"]
 [ns]Margarita[nse]
-"The right is in the direction of Udagawa Street. ...The unpleasant smell of[r]
-sewage is strong. It must be connected to the Udagawa culvert."[pcms]
+"The right is in the direction of Udagawa Street. ...The[r]
+unpleasant smell of sewage is strong. It must be connected[r]
+to the Udagawa culvert."[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢Ａ２
@@ -160,8 +166,8 @@ sewage is strong. It must be connected to the Udagawa culvert."[pcms]
 
 
 ;	[link storage="41070.ks" target=*41070_TOP]左に！　渋谷川へ[endlink]
-;       (link storage="41080.ks" target=*41080_TOP)To the right! To some[r]
-facility!(endlink)[pcms]
+;       (link storage="41080.ks" target=*41080_TOP)To the[r]
+right! To some facility!(endlink)[pcms]
 
 *SEL32|左に！　渋谷川へ／右に！　どこかの施設へ！
 [fc]

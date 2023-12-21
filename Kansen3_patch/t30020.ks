@@ -21,21 +21,22 @@
 
 *6161|
 [fc]
-"I can't just leave her alone after seeing her back like that. It looks so[r]
-fragile, as if she might start crying at any moment."[pcms]
+"I can't just leave her alone after seeing her back like[r]
+that. It looks so fragile, as if she might start crying at[r]
+any moment."[pcms]
 
 ;//YƒtƒF[ƒhƒAƒEƒg
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *6162|
 [fc]
-"Worried, I climbed down from the sign and passed through the DJ bar's backyard[r]
-to go back up to the rooftop."[pcms]
+"Worried, I climbed down from the sign and passed through[r]
+the DJ bar's backyard to go back up to the rooftop."[pcms]
 
 *6163|
 [fc]
-"Yuuho was still in the same spot, in the same posture, gazing into the[r]
-distance."[pcms]
+"Yuuho was still in the same spot, in the same posture,[r]
+gazing into the distance."[pcms]
 
 ;//Y‚d‚u‚O‚P‚U
 ;//‚`F‰“‚­‚ğŒ©‚é—I”¿
@@ -52,18 +53,19 @@ distance."[pcms]
 
 *6165|
 [fc]
-"I quietly walked closer. Yuuho, with her earphones in, didn't seem to notice[r]
-me."[pcms]
+"I quietly walked closer. Yuuho, with her earphones in,[r]
+didn't seem to notice me."[pcms]
 
 *6166|
 [fc]
-"Her profile was filled with melancholy... Her soft cheeks glowed faintly in the[r]
-sunset, and her glossy hair swayed in the wind..."[pcms]
+"Her profile was filled with melancholy... Her soft cheeks[r]
+glowed faintly in the sunset, and her glossy hair swayed in[r]
+the wind..."[pcms]
 
 *6167|
 [fc]
-"Despite the sadness, she was so beautiful... I forgot to speak and was utterly[r]
-captivated."[pcms]
+"Despite the sadness, she was so beautiful... I forgot to[r]
+speak and was utterly captivated."[pcms]
 
 ;//‚aF‚±‚¿‚ç‚ğŒ©‚é—I”¿
 [evcg storage="EV016c"][trans_c cross time=300]
@@ -79,7 +81,8 @@ captivated."[pcms]
 
 *6169|
 [fc]
-"Suddenly, as if she noticed my gaze, Yuuho turned to look at me."[pcms]
+"Suddenly, as if she noticed my gaze, Yuuho turned to look[r]
+at me."[pcms]
 
 *6170|
 [fc]
@@ -88,8 +91,8 @@ captivated."[pcms]
 
 *6171|
 [fc]
-"Caught off guard and unsure of what to say, I remained silent and continued to[r]
-stare at Yuuho."[pcms]
+"Caught off guard and unsure of what to say, I remained[r]
+silent and continued to stare at Yuuho."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -106,8 +109,8 @@ stare at Yuuho."[pcms]
 
 *6174|
 [fc]
-"It's not that she was lost in thought... But she didn't show any sign of[r]
-surprise at my presence either."[pcms]
+"It's not that she was lost in thought... But she didn't[r]
+show any sign of surprise at my presence either."[pcms]
 
 *6175|
 [fc]
@@ -115,8 +118,8 @@ surprise at my presence either."[pcms]
 
 *6176|
 [fc]
-"The dying sun's embers flickered in her eyes. Her clear gaze poured straight[r]
-into me..."[pcms]
+"The dying sun's embers flickered in her eyes. Her clear[r]
+gaze poured straight into me..."[pcms]
 
 *6177|
 [fc]
@@ -135,7 +138,8 @@ into me..."[pcms]
 ;	[link storage="T30030.ks" target=*T30030_TOP]ƒLƒX‚·‚é[endlink]
 ;	[link storage="T30060.ks" target=*T30060_TOP]˜b‚µ‚©‚¯‚é[endlink]
 ;	;[link storage="T30070.ks" target=*T30070_TOP]ŠÔØ‚ê[endlink]
-;       (link storage="T30070.ks" target=*T30070_TOP)Yuuho...(endlink)[pcms]
+;       (link storage="T30070.ks"[r]
+target=*T30070_TOP)Yuuho...(endlink)[pcms]
 
 *SEL70|ƒLƒX‚·‚é^˜b‚µ‚©‚¯‚é^—I”¿cc
 [fc]

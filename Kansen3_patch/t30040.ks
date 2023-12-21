@@ -25,12 +25,13 @@ I find myself apologizing again.[pcms]
 
 *6200|
 [fc]
-The previous "sorry" was for the clumsy kiss, but this time... it's different...[pcms]
+The previous "sorry" was for the clumsy kiss, but this[r]
+time... it's different...[pcms]
 
 *6201|
 [fc]
-Somehow, I feel like I've hurt Yuuho by prioritizing my own desires in such a[r]
-moment...[pcms]
+Somehow, I feel like I've hurt Yuuho by prioritizing my own[r]
+desires in such a moment...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -60,43 +61,49 @@ A quiet voice echoed.[pcms]
 
 *6206|
 [fc]
-Surprised by the quiet anger in her voice, I look at her face.[pcms]
+Surprised by the quiet anger in her voice, I look at her[r]
+face.[pcms]
 
 *6207|
 [fc]
-Yuuho, with tears in her eyes, glares at me and roughly yanks off her earphones.[pcms]
+Yuuho, with tears in her eyes, glares at me and roughly[r]
+yanks off her earphones.[pcms]
 
 *6208|
 [fc]
-Huh...? Yuuho... is she angry...? Not about the kiss, but because I[r]
-apologized...?[pcms]
+Huh...? Yuuho... is she angry...? Not about the kiss, but[r]
+because I apologized...?[pcms]
 
 *6209|
 [fc]
 [ns]Wataru[nse]
-"Wh-why, well... there's no deep meaning, but, ah, it's not like I haven't[r]
-thought about it, just..."[pcms]
+"Wh-why, well... there's no deep meaning, but, ah, it's not[r]
+like I haven't thought about it, just..."[pcms]
 
 *6210|
 [fc]
-In my confusion, I open my mouth feeling I have to say something.[pcms]
+In my confusion, I open my mouth feeling I have to say[r]
+something.[pcms]
 
 *6211|
 [fc]
 [ns]Wataru[nse]
-"Yu, Yuuho is going through a tough time right now, or rather, ah... of course,[r]
-it's tough for everyone, but just..."[pcms]
+"Yu, Yuuho is going through a tough time right now, or[r]
+rather, ah... of course, it's tough for everyone, but[r]
+just..."[pcms]
 
 *6212|
 [fc]
 [ns]Wataru[nse]
-"In Yuuho's case... losing family and loved ones... Ah, family is, well, still[r]
-unknown, but, um, people like Oshima-senpai too..."[pcms]
+"In Yuuho's case... losing family and loved ones... Ah,[r]
+family is, well, still unknown, but, um, people like Oshima-[r]
+senpai too..."[pcms]
 
 *6213|
 [fc]
-Ah, this is no good. I'm stumbling over my words with zero persuasiveness... I[r]
-can't even understand what I'm saying anymore...[pcms]
+Ah, this is no good. I'm stumbling over my words with zero[r]
+persuasiveness... I can't even understand what I'm saying[r]
+anymore...[pcms]
 
 ;//---------------------------------------------------------------
 ;//ÅöÇ±Ç±Ç©ÇÁêÊÇÕÅAÇsÇRÇOÇOÇTÇOÇ≈Ç‡égÇ¢Ç‹Ç∑ÅBó¨ópïîï™Ç≈Ç∑
@@ -141,7 +148,8 @@ Yuuho's eyes look at me suspiciously.[pcms]
 
 *6220|
 [fc]
-Yuuho looks utterly bewildered. She seems genuinely confused.[pcms]
+Yuuho looks utterly bewildered. She seems genuinely[r]
+confused.[pcms]
 
 ;//---------------------------------------------------------------
 ;//Å£ÉtÉâÉOîªíË
@@ -163,7 +171,8 @@ Yuuho looks utterly bewildered. She seems genuinely confused.[pcms]
 
 *6222|
 [fc]
-Being so surprised has made even me lose track of what's going on.[pcms]
+Being so surprised has made even me lose track of what's[r]
+going on.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -171,8 +180,9 @@ Being so surprised has made even me lose track of what's going on.[pcms]
 [fc]
 [vo_yuh s="yuho_T0035"]
 [ns]Yuuho[nse]
-"I don't know what you're misunderstanding but making such a mess and accusing[r]
-me is the worst! I hate that about you, Wataru!"[pcms]
+"I don't know what you're misunderstanding but making such a[r]
+mess and accusing me is the worst! I hate that about you,[r]
+Wataru!"[pcms]
 
 *6224|
 [fc]
@@ -195,7 +205,8 @@ Clearly annoyed, Yuuho sternly snaps at me while glaring.[pcms]
 
 *6227|
 [fc]
-With an angry face, Yuuho turns her back on me and walks away...[pcms]
+With an angry face, Yuuho turns her back on me and walks[r]
+away...[pcms]
 
 *6228|
 [fc]
@@ -217,12 +228,14 @@ So then, all this time I've been... misunderstanding?[pcms]
 
 *6232|
 [fc]
-If it's true that there was nothing between her and the senpai...[pcms]
+If it's true that there was nothing between her and the[r]
+senpai...[pcms]
 
 *6233|
 [fc]
-If it was all just my imagination, getting jealous and worried and gloomy and in[r]
-the end accusing Yuuho of something...[pcms]
+If it was all just my imagination, getting jealous and[r]
+worried and gloomy and in the end accusing Yuuho of[r]
+something...[pcms]
 
 *6234|
 [fc]
@@ -235,7 +248,8 @@ Just as Yuuho said... I'm the worst...[pcms]
 
 *6236|
 [fc]
-I hang my head dejectedly, scratching my head in frustration.[pcms]
+I hang my head dejectedly, scratching my head in[r]
+frustration.[pcms]
 
 ;//se003ÅEågë—ÇÃíÖêMâπ
 [se buf=0 storage="se003" loop=true]
@@ -247,13 +261,13 @@ I hang my head dejectedly, scratching my head in frustration.[pcms]
 
 *6238|
 [fc]
-The phone rings at the worst possible time. I don't feel like talking to anyone[r]
-right now...[pcms]
+The phone rings at the worst possible time. I don't feel[r]
+like talking to anyone right now...[pcms]
 
 *6239|
 [fc]
-The phone keeps ringing persistently. When I check it, it's a call from[r]
-Kousuke's number.[pcms]
+The phone keeps ringing persistently. When I check it, it's[r]
+a call from Kousuke's number.[pcms]
 
 ;//Åöâ∫ãLÇSçsÅAÇsÇRÇOÇOÇPÇOÇ©ÇÁÇÃÉRÉsÅ[Ç≈Ç∑ÅB
 
@@ -308,7 +322,8 @@ Mizuki's panicked scream from the phone hits my ears.[pcms]
 *6246|
 [fc]
 [ns]Wataru[nse]
-"On the night of the festival, behind the shrine with the senpai..."[pcms]
+"On the night of the festival, behind the shrine with the[r]
+senpai..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -325,7 +340,8 @@ Yuuho's complexion suddenly turned pale.[pcms]
 
 *6249|
 [fc]
-...As I thought... that wasn't a mistake. She remembers it...[pcms]
+...As I thought... that wasn't a mistake. She remembers[r]
+it...[pcms]
 
 *6250|
 [fc]
@@ -344,12 +360,14 @@ So... it wasn't a mistake after all...[pcms]
 
 *6253|
 [fc]
-"No way, he was just removing some dust from my eye," I had hoped she would say[r]
-something cheerful like that, even if just a little...[pcms]
+"No way, he was just removing some dust from my eye," I had[r]
+hoped she would say something cheerful like that, even if[r]
+just a little...[pcms]
 
 *6254|
 [fc]
-But such things you see in comics, they don't happen, do they...[pcms]
+But such things you see in comics, they don't happen, do[r]
+they...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -362,8 +380,8 @@ But such things you see in comics, they don't happen, do they...[pcms]
 
 *6256|
 [fc]
-With her head still down, Yuuho took a quiet breath. Then, a suppressed voice[r]
-followed.[pcms]
+With her head still down, Yuuho took a quiet breath. Then, a[r]
+suppressed voice followed.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -411,7 +429,8 @@ My excuses were sharply cut off.[pcms]
 
 *6264|
 [fc]
-What is it...? Something seems off... Yuuho seems more than angry, this is...[pcms]
+What is it...? Something seems off... Yuuho seems more than[r]
+angry, this is...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -428,8 +447,8 @@ Yuuho suddenly raised her face and shouted at me.[pcms]
 
 *6267|
 [fc]
-Her face was twisted in frustration... and on her cheeks shone large[r]
-teardrops...[pcms]
+Her face was twisted in frustration... and on her cheeks[r]
+shone large teardrops...[pcms]
 
 *6268|
 [fc]
@@ -438,7 +457,8 @@ teardrops...[pcms]
 
 *6269|
 [fc]
-In my panic, I instinctively reached out my hand, but Yuuho turned and ran away.[pcms]
+In my panic, I instinctively reached out my hand, but Yuuho[r]
+turned and ran away.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -478,13 +498,13 @@ Hanging my head in dejection, I clawed at my head.[pcms]
 
 *6277|
 [fc]
-The phone rings at the worst possible time. I don't feel like talking to anyone[r]
-right now...[pcms]
+The phone rings at the worst possible time. I don't feel[r]
+like talking to anyone right now...[pcms]
 
 *6278|
 [fc]
-The phone keeps ringing persistently. When I check it, it's a call from[r]
-Kousuke's number.[pcms]
+The phone keeps ringing persistently. When I check it, it's[r]
+a call from Kousuke's number.[pcms]
 
 ;//Åöâ∫ãLÇSçsÅAÇsÇRÇOÇOÇPÇOÇ©ÇÁÇÃÉRÉsÅ[Ç≈Ç∑
 

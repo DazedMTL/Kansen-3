@@ -38,19 +38,22 @@ I gently pulled away from Yuuho's body.[pcms]
 *8056|
 [fc]
 [ns]Wataru[nse]
-"I'm happy to know how you feel, Yuuho. I've received it loud and clear. But I'm[r]
-okay now. After crying on your chest, I feel refreshed."[pcms]
+"I'm happy to know how you feel, Yuuho. I've received it[r]
+loud and clear. But I'm okay now. After crying on your[r]
+chest, I feel refreshed."[pcms]
 
 *8057|
 [fc]
-I rubbed my cheeks carelessly, wiping away the tears. I responded to Yuuho's[r]
-still worried face with the best smile I could muster.[pcms]
+I rubbed my cheeks carelessly, wiping away the tears. I[r]
+responded to Yuuho's still worried face with the best smile[r]
+I could muster.[pcms]
 
 *8058|
 [fc]
 [ns]Wataru[nse]
-"Really, thank you, Yuuho. I'm grateful. After crying so much, the lump in my[r]
-chest has cleared. I'm really okay now. It's not just bravado, I truly am fine."[pcms]
+"Really, thank you, Yuuho. I'm grateful. After crying so[r]
+much, the lump in my chest has cleared. I'm really okay now.[r]
+It's not just bravado, I truly am fine."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -63,7 +66,8 @@ chest has cleared. I'm really okay now. It's not just bravado, I truly am fine."
 *8060|
 [fc]
 [ns]Wataru[nse]
-"Yeah, I'm okay. Thanks to you, I feel better. You're amazing, Yuuho."[pcms]
+"Yeah, I'm okay. Thanks to you, I feel better. You're[r]
+amazing, Yuuho."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -84,13 +88,14 @@ chest has cleared. I'm really okay now. It's not just bravado, I truly am fine."
 [fc]
 [vo_yuh s="yuho1009"]
 [ns]Yuuho[nse]
-"I see. I'm relieved. You're really, really okay, right? Wataru?"[pcms]
+"I see. I'm relieved. You're really, really okay, right?[r]
+Wataru?"[pcms]
 
 *8064|
 [fc]
 [ns]Wataru[nse]
-"You're being repetitive, Yuuho. I'm really, really okay. Let's get some rest[r]
-now. It's gotten quite late."[pcms]
+"You're being repetitive, Yuuho. I'm really, really okay.[r]
+Let's get some rest now. It's gotten quite late."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -107,8 +112,8 @@ now. It's gotten quite late."[pcms]
 
 *8067|
 [fc]
-I can't rely on Yuuho any more than this. With that thought in mind, I walked[r]
-back to the room alongside Yuuho.[pcms]
+I can't rely on Yuuho any more than this. With that thought[r]
+in mind, I walked back to the room alongside Yuuho.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -120,8 +125,8 @@ back to the room alongside Yuuho.[pcms]
 *8068|
 [fc]
 [ns]Wataru[nse]
-"Well then, Yuuho. Good night. I'm really happy that you were worried about me.[r]
-Thank you."[pcms]
+"Well then, Yuuho. Good night. I'm really happy that you[r]
+were worried about me. Thank you."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -138,7 +143,8 @@ Thank you."[pcms]
 
 *8071|
 [fc]
-Yuuho suddenly stopped walking and then looked straight at me.[pcms]
+Yuuho suddenly stopped walking and then looked straight at[r]
+me.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -146,8 +152,9 @@ Yuuho suddenly stopped walking and then looked straight at me.[pcms]
 [fc]
 [vo_yuh s="yuho1012"]
 [ns]Yuuho[nse]
-"You know... I understand that things are tough for you too. But Ren-chan... she[r]
-really loves you a lot and I think she relies on you greatly."[pcms]
+"You know... I understand that things are tough for you too.[r]
+But Ren-chan... she really loves you a lot and I think she[r]
+relies on you greatly."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -155,14 +162,15 @@ really loves you a lot and I think she relies on you greatly."[pcms]
 [fc]
 [vo_yuh s="yuho1013"]
 [ns]Yuuho[nse]
-"I want you to protect Ren in place of our father. So... do your best! Big[r]
-brother!"[pcms]
+"I want you to protect Ren in place of our father. So... do[r]
+your best! Big brother!"[pcms]
 
 *8074|
 [fc]
 [ns]Wataru[nse]
-"Yuuho... thank you for thinking of Ren. I'll do my best. I'll try as hard as I[r]
-can. After all, I've received so much energy from you and your support."[pcms]
+"Yuuho... thank you for thinking of Ren. I'll do my best.[r]
+I'll try as hard as I can. After all, I've received so much[r]
+energy from you and your support."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -170,8 +178,8 @@ can. After all, I've received so much energy from you and your support."[pcms]
 [fc]
 [vo_yuh s="yuho1014"]
 [ns]Yuuho[nse]
-"Yeah! That's the spirit! Do your best, big brother! Well then, good night.[r]
-Sleep well."[pcms]
+"Yeah! That's the spirit! Do your best, big brother! Well[r]
+then, good night. Sleep well."[pcms]
 
 *8076|
 [fc]
@@ -184,7 +192,8 @@ Saying that, Yuuho headed towards her own room.[pcms]
 
 *8078|
 [fc]
-Glancing back a little, Yuuho waved her hand as she went off to her own room.[pcms]
+Glancing back a little, Yuuho waved her hand as she went off[r]
+to her own room.[pcms]
 
 [eval exp="f.l_route_y = 1"]
 

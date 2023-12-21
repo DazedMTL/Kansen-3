@@ -42,21 +42,21 @@ Jin spoke in his usual indifferent tone.[pcms]
 
 *3347|
 [fc]
-But in such a situation, the fact that Jin came to save someone like me made me[r]
-very happy.[pcms]
+But in such a situation, the fact that Jin came to save[r]
+someone like me made me very happy.[pcms]
 
 *3348|
 [fc]
-My spirits, which had been lifted just a little, were blown away by a sigh mixed[r]
-with a vulgar voice.[pcms]
+My spirits, which had been lifted just a little, were blown[r]
+away by a sigh mixed with a vulgar voice.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3349|
 [fc]
 [ns]Shigeyoshi[nse]
-"You're safe! Man, I've been looking for you! Why are you in a place like[r]
-this... hurry up..."[pcms]
+"You're safe! Man, I've been looking for you! Why are you in[r]
+a place like this... hurry up..."[pcms]
 
 *3350|
 [fc]
@@ -64,8 +64,8 @@ He was here too...[pcms]
 
 *3351|
 [fc]
-It was clear he came to help with Jin. But as always, he appraised my body with[r]
-lecherous eyes.[pcms]
+It was clear he came to help with Jin. But as always, he[r]
+appraised my body with lecherous eyes.[pcms]
 
 *3352|
 [fc]
@@ -100,20 +100,21 @@ That look and his voice, everything about it was irritating.[pcms]
 
 *3357|
 [fc]
-Shige glared at me with an even uglier twisted face, his hands trembling[r]
-slightly with anger.[pcms]
+Shige glared at me with an even uglier twisted face, his[r]
+hands trembling slightly with anger.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3358|
 [fc]
 [ns]Jin[nse]
-"...Both of you, that's enough. Shige. Did you see any more of them around?"[pcms]
+"...Both of you, that's enough. Shige. Did you see any more[r]
+of them around?"[pcms]
 
 *3359|
 [fc]
-Jin stepped between me and Shige, who were about to argue, and asked in a strong[r]
-tone.[pcms]
+Jin stepped between me and Shige, who were about to argue,[r]
+and asked in a strong tone.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -128,15 +129,16 @@ tone.[pcms]
 
 *3362|
 [fc]
-What are they talking about...? Come to think of it, the gunshots earlier... was[r]
-that really Jin?[pcms]
+What are they talking about...? Come to think of it, the[r]
+gunshots earlier... was that really Jin?[pcms]
 
 *3363|
 [fc]
 [vo_miz s="mizuki0115"]
 [ns]Mizuki[nse]
-"Hey, what's going on? There were gunshots earlier. Did Jin shoot? And those[r]
-people with red eyes were acting crazy and making a fuss..."[pcms]
+"Hey, what's going on? There were gunshots earlier. Did Jin[r]
+shoot? And those people with red eyes were acting crazy and[r]
+making a fuss..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -149,31 +151,32 @@ people with red eyes were acting crazy and making a fuss..."[pcms]
 [fc]
 [vo_miz s="mizuki0116"]
 [ns]Mizuki[nse]
-"...Right, that woman with the red eyes... she had the same red eyes as that[r]
-dirty woman we picked up during the rave... Could it be related to her? The[r]
-people who had sex with her were all acting strange too..."[pcms]
+"...Right, that woman with the red eyes... she had the same[r]
+red eyes as that dirty woman we picked up during the rave...[r]
+Could it be related to her? The people who had sex with her[r]
+were all acting strange too..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3366|
 [fc]
 [ns]Jin[nse]
-"...Calm down. I don't understand it at all either. Even if we wanted to[r]
-investigate, that woman has disappeared and the city is full of crazies. That's[r]
-all we know right now."[pcms]
+"...Calm down. I don't understand it at all either. Even if[r]
+we wanted to investigate, that woman has disappeared and the[r]
+city is full of crazies. That's all we know right now."[pcms]
 
 ;//se024・安っぽいビープ音
 [se buf=0 storage="se024"]
 
 *3367|
 [fc]
-At that moment, a cheap electronic sound that didn't belong in this place came[r]
-from Jin's pants pocket.[pcms]
+At that moment, a cheap electronic sound that didn't belong[r]
+in this place came from Jin's pants pocket.[pcms]
 
 *3368|
 [fc]
-While still looking at me, Jin put his hand in his pocket and took out a small[r]
-device.[pcms]
+While still looking at me, Jin put his hand in his pocket[r]
+and took out a small device.[pcms]
 
 *3369|
 [fc]
@@ -204,8 +207,9 @@ device.[pcms]
 
 *3373|
 [fc]
-Jin stared at the pager's screen. I stretched my neck to peek at the screen too,[r]
-but I couldn't understand what was written there.[pcms]
+Jin stared at the pager's screen. I stretched my neck to[r]
+peek at the screen too, but I couldn't understand what was[r]
+written there.[pcms]
 
 *3374|
 [fc]
@@ -238,17 +242,19 @@ but I couldn't understand what was written there.[pcms]
 *3378|
 [fc]
 [ns]Shigeyoshi[nse]
-"The security guards probably ran off a long time ago. Because of that, while[r]
-searching for you, 'they' were wandering around being annoying, so I went ahead[r]
-and closed all the fire doors."[pcms]
+"The security guards probably ran off a long time ago.[r]
+Because of that, while searching for you, 'they' were[r]
+wandering around being annoying, so I went ahead and closed[r]
+all the fire doors."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3379|
 [fc]
 [ns]Shigeyoshi[nse]
-"I also turned off all the elevator power, so 'they' won't be able to come up[r]
-here. It'll be a pain when I go down though."[pcms]
+"I also turned off all the elevator power, so 'they' won't[r]
+be able to come up here. It'll be a pain when I go down[r]
+though."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -262,16 +268,18 @@ here. It'll be a pain when I go down though."[pcms]
 *3381|
 [fc]
 [ns]Shigeyoshi[nse]
-"If you mean the alarm, I set it up properly... Oh, is your pager going off[r]
-because something triggered the alarm system!?"[pcms]
+"If you mean the alarm, I set it up properly... Oh, is your[r]
+pager going off because something triggered the alarm[r]
+system!?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3382|
 [fc]
 [ns]Jin[nse]
-"...Seems like it's the back door on the first floor. Someone opened it and came[r]
-in. 'They' can't unlock doors, so it must be 'humans'..."[pcms]
+"...Seems like it's the back door on the first floor.[r]
+Someone opened it and came in. 'They' can't unlock doors, so[r]
+it must be 'humans'..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -294,8 +302,8 @@ in. 'They' can't unlock doors, so it must be 'humans'..."[pcms]
 
 *3385|
 [fc]
-Upon Jin's command, Shige hurried out of the room, leaving just me and Jin[r]
-alone.[pcms]
+Upon Jin's command, Shige hurried out of the room, leaving[r]
+just me and Jin alone.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -312,8 +320,9 @@ alone.[pcms]
 
 *3388|
 [fc]
-Jin said a small "Hmph," then looked over my body with sharp eyes as if licking[r]
-it with his gaze, and finally opened his mouth while staring into my eyes.[pcms]
+Jin said a small "Hmph," then looked over my body with sharp[r]
+eyes as if licking it with his gaze, and finally opened his[r]
+mouth while staring into my eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -355,34 +364,35 @@ it with his gaze, and finally opened his mouth while staring into my eyes.[pcms]
 
 *3395|
 [fc]
-Jin's voice remained calm. However, I could clearly sense the anger in it.[pcms]
+Jin's voice remained calm. However, I could clearly sense[r]
+the anger in it.[pcms]
 
 *3396|
 [fc]
-Maybe I am hooked. But I felt a bit of anger myself at Jin for making such[r]
-assumptions.[pcms]
+Maybe I am hooked. But I felt a bit of anger myself at Jin[r]
+for making such assumptions.[pcms]
 
 *3397|
 [fc]
 [vo_miz s="mizuki0124"]
 [ns]Mizuki[nse]
-"I'm not hooked on anything! Why do you assume that!? ...I was just so scared, I[r]
-used it a little to distract myself!"[pcms]
+"I'm not hooked on anything! Why do you assume that!? ...I[r]
+was just so scared, I used it a little to distract myself!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3398|
 [fc]
 [ns]Jin[nse]
-"That's what being hooked means. I would have turned a blind eye if it was just[r]
-for fun... Hand it over. All of it."[pcms]
+"That's what being hooked means. I would have turned a blind[r]
+eye if it was just for fun... Hand it over. All of it."[pcms]
 
 *3399|
 [fc]
 [vo_miz s="mizuki0125"]
 [ns]Mizuki[nse]
-"I don't have any. I don't have any! Even if you tell me to hand it over,[r]
-there's nothing to give!"[pcms]
+"I don't have any. I don't have any! Even if you tell me to[r]
+hand it over, there's nothing to give!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -399,33 +409,36 @@ there's nothing to give!"[pcms]
 
 *3402|
 [fc]
-Jin's gaze was fixed on the glasses case. He completely knew.[pcms]
+Jin's gaze was fixed on the glasses case. He completely[r]
+knew.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3403|
 [fc]
 [ns]Jin[nse]
-"It was tough when you were coming back from the brink of addiction, wasn't it?[r]
-Do you want to go through that again? I can't let you hold onto it anymore.[r]
-...You might be fine now but..."[pcms]
+"It was tough when you were coming back from the brink of[r]
+addiction, wasn't it? Do you want to go through that again?[r]
+I can't let you hold onto it anymore. ...You might be fine[r]
+now but..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3404|
 [fc]
 [ns]Jin[nse]
-"Once you see what's outside, you'll definitely run to the drugs. You'll surely[r]
-drown in it."[pcms]
+"Once you see what's outside, you'll definitely run to the[r]
+drugs. You'll surely drown in it."[pcms]
 
 *3405|
 [fc]
-What's outside...? What has he been talking about since earlier?[pcms]
+What's outside...? What has he been talking about since[r]
+earlier?[pcms]
 
 *3406|
 [fc]
-And what's with that attitude... It was that fatso who got you into this,[r]
-right!?[pcms]
+And what's with that attitude... It was that fatso who got[r]
+you into this, right!?[pcms]
 
 *3407|
 [fc]
@@ -433,8 +446,9 @@ You deal with it yourself... and profit from it![pcms]
 
 *3408|
 [fc]
-There were many things I wanted to say to Jin. But faced with a level of anger[r]
-in his eyes that I had never seen before, I found myself unable to speak.[pcms]
+There were many things I wanted to say to Jin. But faced[r]
+with a level of anger in his eyes that I had never seen[r]
+before, I found myself unable to speak.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 

@@ -21,12 +21,14 @@
 
 *767|
 [fc]
-I've set up my earphones, now I need to refocus and accomplish what I originally[r]
-intended to do. It seems the video has finished loading.[pcms]
+I've set up my earphones, now I need to refocus and[r]
+accomplish what I originally intended to do. It seems the[r]
+video has finished loading.[pcms]
 
 *768|
 [fc]
-When I press the play button, the familiar logo of DHK News appears.[pcms]
+When I press the play button, the familiar logo of DHK News[r]
+appears.[pcms]
 
 *769|
 [fc]
@@ -35,32 +37,36 @@ When I press the play button, the familiar logo of DHK News appears.[pcms]
 
 *770|
 [fc]
-The news starts off tense, relaying the situation in various parts of the[r]
-metropolitan area through live broadcasts.[pcms]
+The news starts off tense, relaying the situation in various[r]
+parts of the metropolitan area through live broadcasts.[pcms]
 
 *771|
 [fc]
-People rampaging, people fleeing, shops and facilities being destroyed...[pcms]
+People rampaging, people fleeing, shops and facilities being[r]
+destroyed...[pcms]
 
 *772|
 [fc]
-It feels like I'm watching a panic movie; I can't believe this is really[r]
-happening right now. Or rather, I don't want to believe it...[pcms]
+It feels like I'm watching a panic movie; I can't believe[r]
+this is really happening right now. Or rather, I don't want[r]
+to believe it...[pcms]
 
 *773|
 [fc]
-The announcer, desperately trying to remain calm, reports that the turmoil began[r]
-in the early morning.[pcms]
+The announcer, desperately trying to remain calm, reports[r]
+that the turmoil began in the early morning.[pcms]
 
 *774|
 [fc]
-Based on the news timing, it seems that an emergency situation had already been[r]
-reported to the public early in the morning.[pcms]
+Based on the news timing, it seems that an emergency[r]
+situation had already been reported to the public early in[r]
+the morning.[pcms]
 
 *775|
 [fc]
-Right around the time we were heading to school. Come to think of it, I was so[r]
-rushed because of the camping trip that I left without watching the news...[pcms]
+Right around the time we were heading to school. Come to[r]
+think of it, I was so rushed because of the camping trip[r]
+that I left without watching the news...[pcms]
 
 *776|
 [fc]
@@ -69,7 +75,8 @@ rushed because of the camping trip that I left without watching the news...[pcms
 
 *777|
 [fc]
-The video eventually became a repetition of the same information.[pcms]
+The video eventually became a repetition of the same[r]
+information.[pcms]
 
 *778|
 [fc]
@@ -77,7 +84,8 @@ Isn't there any other news...?[pcms]
 
 *779|
 [fc]
-But considering battery consumption, I can't just keep watching videos blindly.[pcms]
+But considering battery consumption, I can't just keep[r]
+watching videos blindly.[pcms]
 
 *780|
 [fc]
@@ -90,12 +98,13 @@ I check the list of related videos.[pcms]
 
 *782|
 [fc]
-I found a video with an unusually high number of accesses. It seems to be a[r]
-self-recorded video... but what is it?[pcms]
+I found a video with an unusually high number of accesses.[r]
+It seems to be a self-recorded video... but what is it?[pcms]
 
 *783|
 [fc]
-I select the video and stare blankly at the screen as it loads again.[pcms]
+I select the video and stare blankly at the screen as it[r]
+loads again.[pcms]
 
 *784|
 [fc]
@@ -112,8 +121,9 @@ Not just because of the tragic news I saw.[pcms]
 
 *787|
 [fc]
-About that phone call earlier... and even now, during such times, I'm worried[r]
-about Yuuho and Oshima-senpai's relationship...[pcms]
+About that phone call earlier... and even now, during such[r]
+times, I'm worried about Yuuho and Oshima-senpai's[r]
+relationship...[pcms]
 
 *788|
 [fc]
@@ -122,18 +132,20 @@ about Yuuho and Oshima-senpai's relationship...[pcms]
 
 *789|
 [fc]
-Maruko-senpai and Ren tried to cheer me up, but even that was... just because I[r]
-was so focused on Yuuho and Ren's sake.[pcms]
+Maruko-senpai and Ren tried to cheer me up, but even that[r]
+was... just because I was so focused on Yuuho and Ren's[r]
+sake.[pcms]
 
 *790|
 [fc]
-Honestly, I don't even remember if I tried to help Kousuke. Probably... I wasn't[r]
-thinking about it. Even though he's a childhood friend and best buddy.[pcms]
+Honestly, I don't even remember if I tried to help Kousuke.[r]
+Probably... I wasn't thinking about it. Even though he's a[r]
+childhood friend and best buddy.[pcms]
 
 *791|
 [fc]
-In the end, it seems like I was only acting for myself, for those who are[r]
-important to me.[pcms]
+In the end, it seems like I was only acting for myself, for[r]
+those who are important to me.[pcms]
 
 *792|
 [fc]
@@ -142,17 +154,19 @@ important to me.[pcms]
 
 *793|
 [fc]
-It's not just Kousuke. The Astronomy Club members should have been gathering at[r]
-school too, yet I didn't even bother to check on their safety.[pcms]
+It's not just Kousuke. The Astronomy Club members should[r]
+have been gathering at school too, yet I didn't even bother[r]
+to check on their safety.[pcms]
 
 *794|
 [fc]
-They were supposed to be companions who could get excited about stars with me,[r]
-but still, they weren't on my mind...[pcms]
+They were supposed to be companions who could get excited[r]
+about stars with me, but still, they weren't on my mind...[pcms]
 
 *795|
 [fc]
-The teachers, my classmates... the people in town..., Tadahiko and Inori-san...[pcms]
+The teachers, my classmates... the people in town...,[r]
+Tadahiko and Inori-san...[pcms]
 
 *796|
 [fc]
@@ -161,7 +175,8 @@ The teachers, my classmates... the people in town..., Tadahiko and Inori-san...[
 
 *797|
 [fc]
-It's too late now, but I strongly hope that they are surviving somewhere.[pcms]
+It's too late now, but I strongly hope that they are[r]
+surviving somewhere.[pcms]
 
 *798|
 [fc]

@@ -19,21 +19,23 @@
 *1599|
 [fc]
 [ns]Wataru[nse]
-"I agree with Yuuho; I think it's better to hold up here. It's unsettling to[r]
-move through an unknown city in this situation."[pcms]
+"I agree with Yuuho; I think it's better to hold up here.[r]
+It's unsettling to move through an unknown city in this[r]
+situation."[pcms]
 
 *1600|
 [fc]
-I understood Kousuke's point, but... I just couldn't agree with going outside[r]
-where they were waiting for us.[pcms]
+I understood Kousuke's point, but... I just couldn't agree[r]
+with going outside where they were waiting for us.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1601|
 [fc]
 [ns]Kousuke[nse]
-"You can check that stuff with the net or a map, right? If you use Street View,[r]
-you can get a pretty good idea of the surrounding area."[pcms]
+"You can check that stuff with the net or a map, right? If[r]
+you use Street View, you can get a pretty good idea of the[r]
+surrounding area."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -41,8 +43,9 @@ you can get a pretty good idea of the surrounding area."[pcms]
 [fc]
 [vo_mar s="maru1477"]
 [ns]Margarita[nse]
-"However, Wataru has a point. If the route we planned is somehow unusable... or[r]
-if we're suddenly attacked by infected... there's no recovery from that."[pcms]
+"However, Wataru has a point. If the route we planned is[r]
+somehow unusable... or if we're suddenly attacked by[r]
+infected... there's no recovery from that."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -55,13 +58,13 @@ if we're suddenly attacked by infected... there's no recovery from that."[pcms]
 *1604|
 [fc]
 [ns]Wataru[nse]
-"Just the thought of being surrounded by infected in an unknown place gives me[r]
-the chills..."[pcms]
+"Just the thought of being surrounded by infected in an[r]
+unknown place gives me the chills..."[pcms]
 
 *1605|
 [fc]
-Maruko-senpai, who had been deep in thought for a while, asked Kousuke with a[r]
-puffed-up face.[pcms]
+Maruko-senpai, who had been deep in thought for a while,[r]
+asked Kousuke with a puffed-up face.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -69,14 +72,16 @@ puffed-up face.[pcms]
 [fc]
 [vo_mar s="maru1478"]
 [ns]Margarita[nse]
-"...This building, it's often used for your meetups and such, right?"[pcms]
+"...This building, it's often used for your meetups and[r]
+such, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1607|
 [fc]
 [ns]Kousuke[nse]
-"Huh? Yeah, that's right. It's a prominent building after all."[pcms]
+"Huh? Yeah, that's right. It's a prominent building after[r]
+all."[pcms]
 
 *1608|
 [fc]
@@ -89,8 +94,9 @@ puffed-up face.[pcms]
 [fc]
 [vo_mar s="maru1479"]
 [ns]Margarita[nse]
-"In other words, it's easily designated as a landmark... That means there's a[r]
-high possibility it could serve as a sign for rescuers."[pcms]
+"In other words, it's easily designated as a landmark...[r]
+That means there's a high possibility it could serve as a[r]
+sign for rescuers."[pcms]
 
 *1610|
 [fc]
@@ -99,8 +105,8 @@ high possibility it could serve as a sign for rescuers."[pcms]
 
 *1611|
 [fc]
-If it's about being in a place that's easy to find, then here is just as likely[r]
-as anywhere by the sea.[pcms]
+If it's about being in a place that's easy to find, then[r]
+here is just as likely as anywhere by the sea.[pcms]
 
 *1612|
 [fc]

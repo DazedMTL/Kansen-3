@@ -32,9 +32,10 @@
 
 *7523|
 [fc]
-To give Ren, who continued to cry, a rest and to change her clothes, I brought[r]
-her to the room. Without turning on the lights, it remained dark, and I sat Ren[r]
-on the bed and embraced her.[pcms]
+To give Ren, who continued to cry, a rest and to change her[r]
+clothes, I brought her to the room. Without turning on the[r]
+lights, it remained dark, and I sat Ren on the bed and[r]
+embraced her.[pcms]
 ;//★_薄暗い部屋の中、あるいは黒バック
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -59,8 +60,9 @@ In my arms, Ren is shaking her entire body as she cries.[pcms]
 
 *7527|
 [fc]
-It's not surprising. I'm shocked too. I want to cry... But Ren must be... much[r]
-more shocked than me. After all, he was her real father...[pcms]
+It's not surprising. I'm shocked too. I want to cry... But[r]
+Ren must be... much more shocked than me. After all, he was[r]
+her real father...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -85,13 +87,15 @@ more shocked than me. After all, he was her real father...[pcms]
 
 *7531|
 [fc]
-Ren is crying with her face buried in my chest as if clinging to me. Her slender[r]
-fingers are desperately clawing at my chest.[pcms]
+Ren is crying with her face buried in my chest as if[r]
+clinging to me. Her slender fingers are desperately clawing[r]
+at my chest.[pcms]
 
 *7532|
 [fc]
 [ns]Wataru[nse]
-"Yeah... Ren. I'm here for you. Until you feel better, I'll stay with you."[pcms]
+"Yeah... Ren. I'm here for you. Until you feel better, I'll[r]
+stay with you."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -103,16 +107,16 @@ fingers are desperately clawing at my chest.[pcms]
 
 *7534|
 [fc]
-In the dimly lit room, only Ren's sniffling echoes secretly. I continue to hug[r]
-Ren, stroke her back, and pat her head.[pcms]
+In the dimly lit room, only Ren's sniffling echoes secretly.[r]
+I continue to hug Ren, stroke her back, and pat her head.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *7535|
 [fc]
-How much time has passed? Eventually, Ren's crying stopped, and the trembling of[r]
-her body in my arms ceased.[pcms]
+How much time has passed? Eventually, Ren's crying stopped,[r]
+and the trembling of her body in my arms ceased.[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020b"][trans_c cross time=500]
@@ -133,8 +137,8 @@ her body in my arms ceased.[pcms]
 
 *7538|
 [fc]
-Ren, exhausted from crying, had fallen asleep. I gently laid her body on the bed[r]
-and quietly left the room.[pcms]
+Ren, exhausted from crying, had fallen asleep. I gently laid[r]
+her body on the bed and quietly left the room.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -152,7 +156,8 @@ and quietly left the room.[pcms]
 
 *7539|
 [fc]
-Leaving the room, feeling thirsty, I headed towards the drink bar.[pcms]
+Leaving the room, feeling thirsty, I headed towards the[r]
+drink bar.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -192,8 +197,8 @@ Leaving the room, feeling thirsty, I headed towards the drink bar.[pcms]
 
 *7545|
 [fc]
-Everyone had gathered together. Surely, they were worried about Ren and me and[r]
-had followed us here.[pcms]
+Everyone had gathered together. Surely, they were worried[r]
+about Ren and me and had followed us here.[pcms]
 
 *7546|
 [fc]
@@ -246,17 +251,20 @@ had followed us here.[pcms]
 
 *7553|
 [fc]
-Everyone is trying to comfort me in their own way. I felt like crying...[pcms]
+Everyone is trying to comfort me in their own way. I felt[r]
+like crying...[pcms]
 
 *7554|
 [fc]
 [ns]Wataru[nse]
-"Thank you, everyone. But I'm okay. Really, don't worry. I'm truly fine."[pcms]
+"Thank you, everyone. But I'm okay. Really, don't worry. I'm[r]
+truly fine."[pcms]
 
 *7555|
 [fc]
-I witnessed my father's last moments, but the same anxiety, the same fear,[r]
-everyone here is carrying it too. It's not just me who is sad.[pcms]
+I witnessed my father's last moments, but the same anxiety,[r]
+the same fear, everyone here is carrying it too. It's not[r]
+just me who is sad.[pcms]
 
 *7556|
 [fc]
@@ -265,25 +273,25 @@ So...[pcms]
 *7557|
 [fc]
 [ns]Wataru[nse]
-"Really, I'm fine. But I'm going to sleep now. I came out because I was[r]
-thirsty."[pcms]
+"Really, I'm fine. But I'm going to sleep now. I came out[r]
+because I was thirsty."[pcms]
 
 *7558|
 [fc]
-I headed to the drink bar and poured water into a glass. I almost let it[r]
-overflow, so I took a small sip.[pcms]
+I headed to the drink bar and poured water into a glass. I[r]
+almost let it overflow, so I took a small sip.[pcms]
 
 *7559|
 [fc]
 [ns]Wataru[nse]
-"...Gulp. Yeah... Thank you for worrying about me. I'm going to sleep now, so[r]
-everyone should rest too. Don't worry about Ren either. I'll make sure to follow[r]
-up properly."[pcms]
+"...Gulp. Yeah... Thank you for worrying about me. I'm going[r]
+to sleep now, so everyone should rest too. Don't worry about[r]
+Ren either. I'll make sure to follow up properly."[pcms]
 
 *7560|
 [fc]
-I tried to sound decisive. After making sure everyone was silent, I firmly held[r]
-the glass and headed back to my room.[pcms]
+I tried to sound decisive. After making sure everyone was[r]
+silent, I firmly held the glass and headed back to my room.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -300,12 +308,14 @@ the glass and headed back to my room.[pcms]
 
 *7561|
 [fc]
-The voices of everyone in the hallway gradually faded away. They must have gone[r]
-to a different floor out of consideration for us.[pcms]
+The voices of everyone in the hallway gradually faded away.[r]
+They must have gone to a different floor out of[r]
+consideration for us.[pcms]
 
 *7562|
 [fc]
-...It became quiet. Ren must be sleeping soundly just as she was before.[pcms]
+...It became quiet. Ren must be sleeping soundly just as she[r]
+was before.[pcms]
 
 *7563|
 [fc]
@@ -314,8 +324,8 @@ to a different floor out of consideration for us.[pcms]
 
 *7564|
 [fc]
-As soon as I thought I was alone, tears started overflowing. It seems like I[r]
-can't stop crying anymore.[pcms]
+As soon as I thought I was alone, tears started overflowing.[r]
+It seems like I can't stop crying anymore.[pcms]
 
 *7565|
 [fc]
@@ -324,8 +334,9 @@ can't stop crying anymore.[pcms]
 
 *7566|
 [fc]
-I must not wake Ren up. My precious sister is sleeping in the next room. Trying[r]
-not to be noticed, I suppressed my voice and cried.[pcms]
+I must not wake Ren up. My precious sister is sleeping in[r]
+the next room. Trying not to be noticed, I suppressed my[r]
+voice and cried.[pcms]
 
 [fadeoutbgm time=500]
 
@@ -355,8 +366,9 @@ not to be noticed, I suppressed my voice and cried.[pcms]
 
 *7570|
 [fc]
-As I stood up wiping my tears, Ren staggered into the room. Her steps were[r]
-unsteady. It seemed like she couldn't focus her eyes properly.[pcms]
+As I stood up wiping my tears, Ren staggered into the room.[r]
+Her steps were unsteady. It seemed like she couldn't focus[r]
+her eyes properly.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -379,12 +391,14 @@ unsteady. It seemed like she couldn't focus her eyes properly.[pcms]
 [fc]
 [vo_ren s="ren0978"]
 [ns]Ren[nse]
-"It's not that... Big brother, dad has passed away... I've become all alone."[pcms]
+"It's not that... Big brother, dad has passed away... I've[r]
+become all alone."[pcms]
 
 *7574|
 [fc]
 [ns]Wataru[nse]
-"Ren. That's not true, I'm here, aren't I? You're not alone, I'm by your side."[pcms]
+"Ren. That's not true, I'm here, aren't I? You're not alone,[r]
+I'm by your side."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -393,7 +407,8 @@ unsteady. It seemed like she couldn't focus her eyes properly.[pcms]
 [fc]
 [vo_ren s="ren0979"]
 [ns]Ren[nse]
-"It's different. You are my big brother, but... you're not my real brother."[pcms]
+"It's different. You are my big brother, but... you're not[r]
+my real brother."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -416,7 +431,8 @@ unsteady. It seemed like she couldn't focus her eyes properly.[pcms]
 [fc]
 [vo_ren s="ren0981"]
 [ns]Ren[nse]
-"Hey, big brother, hold me... Please. Big brother, hold me and make me a woman."[pcms]
+"Hey, big brother, hold me... Please. Big brother, hold me[r]
+and make me a woman."[pcms]
 
 *7579|
 [fc]
@@ -430,8 +446,8 @@ unsteady. It seemed like she couldn't focus her eyes properly.[pcms]
 [fc]
 [vo_ren s="ren0982"]
 [ns]Ren[nse]
-"Because, big brother, you might leave me someday. You might go to Yuuho-chan,[r]
-whom you love."[pcms]
+"Because, big brother, you might leave me someday. You might[r]
+go to Yuuho-chan, whom you love."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -440,8 +456,9 @@ whom you love."[pcms]
 [fc]
 [vo_ren s="ren0983"]
 [ns]Ren[nse]
-"That's right... I've been frail since I was little and always causing trouble[r]
-for you... So, eventually, you might..."[pcms]
+"That's right... I've been frail since I was little and[r]
+always causing trouble for you... So, eventually, you[r]
+might..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -449,8 +466,9 @@ for you... So, eventually, you might..."[pcms]
 [fc]
 [vo_ren s="ren0984"]
 [ns]Ren[nse]
-"I don't want that, I hate that. I want to have you all to myself. I don't want[r]
-to give you to anyone, not even to Yuuho-chan."[pcms]
+"I don't want that, I hate that. I want to have you all to[r]
+myself. I don't want to give you to anyone, not even to[r]
+Yuuho-chan."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -503,8 +521,8 @@ Silently taking my hand, Ren guided it towards her crotch.[pcms]
 
 *7588|
 [fc]
-My whole body felt paralyzed, unable to move. Led by Ren's guidance, my hand was[r]
-gently pressed against her crotch.[pcms]
+My whole body felt paralyzed, unable to move. Led by Ren's[r]
+guidance, my hand was gently pressed against her crotch.[pcms]
 
 ;	[evcg storage="HEV058e"][trans_c cross time=300]
 ;
@@ -516,15 +534,15 @@ gently pressed against her crotch.[pcms]
 [fc]
 [vo_ren s="ren0987"]
 [ns]Ren[nse]
-"Big brother, hold me. Hold me. You can do whatever you like with me. I want to[r]
-be yours."[pcms]
+"Big brother, hold me. Hold me. You can do whatever you like[r]
+with me. I want to be yours."[pcms]
 
 *7590|
 [fc]
 [vo_ren s="ren0988"]
 [ns]Ren[nse]
-"I don't want to be alone. I don't want to give you to anyone else. I want us to[r]
-be lovers and always be together."[pcms]
+"I don't want to be alone. I don't want to give you to[r]
+anyone else. I want us to be lovers and always be together."[pcms]
 
 ;	[evcg storage="HEV058b"][trans_c cross time=300]
 
@@ -536,8 +554,8 @@ be lovers and always be together."[pcms]
 
 *7592|
 [fc]
-With force in her hand, Ren pressed my palm firmly against her pussy without any[r]
-resistance.[pcms]
+With force in her hand, Ren pressed my palm firmly against[r]
+her pussy without any resistance.[pcms]
 
 *7593|
 [fc]
@@ -553,7 +571,8 @@ What should I do... What should I do?[pcms]
 ;//１２：抱かない→T70050
 
 ;	[link storage="T70030.ks" target=*T70030_TOP]抱く[endlink]
-;       (link storage="T70050.ks" target=*T70050_TOP)Do not hold(endlink)[pcms]
+;       (link storage="T70050.ks" target=*T70050_TOP)Do not[r]
+hold(endlink)[pcms]
 
 *SEL76|抱く／抱かない
 [fc]

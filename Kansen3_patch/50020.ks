@@ -20,11 +20,13 @@
 
 *134|
 [fc]
-I slipped past the police box and emerged onto Inokashira Street...[pcms]
+I slipped past the police box and emerged onto Inokashira[r]
+Street...[pcms]
 
 *135|
 [fc]
-But this place is just as much of a disaster as Center Street.[pcms]
+But this place is just as much of a disaster as Center[r]
+Street.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -36,7 +38,8 @@ But this place is just as much of a disaster as Center Street.[pcms]
 
 *137|
 [fc]
-Maruko-senpai called out to us with a loud voice as we stood there dumbfounded.[pcms]
+Maruko-senpai called out to us with a loud voice as we stood[r]
+there dumbfounded.[pcms]
 
 *138|
 [fc]
@@ -45,12 +48,13 @@ Maruko-senpai called out to us with a loud voice as we stood there dumbfounded.[
 
 *139|
 [fc]
-Looking in the direction of Senpai's gaze, there was the drugstore "Kimesugi[r]
-Takashi."[pcms]
+Looking in the direction of Senpai's gaze, there was the[r]
+drugstore "Kimesugi Takashi."[pcms]
 
 *140|
 [fc]
-From the outside, it seems that this store hasn't been attacked by them...[pcms]
+From the outside, it seems that this store hasn't been[r]
+attacked by them...[pcms]
 
 *141|
 [fc]
@@ -89,16 +93,18 @@ Senpai let out a small smile.[pcms]
 [fc]
 [vo_mar s="maru1297"]
 [ns]Margarita[nse]
-"It's nothing significant. It's something we'll need going forward."[pcms]
+"It's nothing significant. It's something we'll need going[r]
+forward."[pcms]
 
 *147|
 [fc]
-Even in times like these, Maruko-senpai is thinking about everyone.[pcms]
+Even in times like these, Maruko-senpai is thinking about[r]
+everyone.[pcms]
 
 *148|
 [fc]
-I should have been the first to notice, being her brother... I felt my cheeks[r]
-redden slightly.[pcms]
+I should have been the first to notice, being her brother...[r]
+I felt my cheeks redden slightly.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -110,7 +116,8 @@ redden slightly.[pcms]
 
 *150|
 [fc]
-Senpai started to say something and then whispered into Yuuho's ear.[pcms]
+Senpai started to say something and then whispered into[r]
+Yuuho's ear.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -122,7 +129,8 @@ Senpai started to say something and then whispered into Yuuho's ear.[pcms]
 
 *152|
 [fc]
-To lift the gloomy mood, Yuuho responded with a playful tone.[pcms]
+To lift the gloomy mood, Yuuho responded with a playful[r]
+tone.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -130,15 +138,17 @@ To lift the gloomy mood, Yuuho responded with a playful tone.[pcms]
 [fc]
 [vo_mar s="maru1299"]
 [ns]Margarita[nse]
-"Then, I'll leave that to you. Sai and I will go check out further down the[r]
-street. If anything happens, let's meet up at 'Dedepou'."[pcms]
+"Then, I'll leave that to you. Sai and I will go check out[r]
+further down the street. If anything happens, let's meet up[r]
+at 'Dedepou'."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *154|
 [fc]
 [ns]Kousuke[nse]
-"Huh? What's up? You can just call me 'Kousuke' like usual, you know?"[pcms]
+"Huh? What's up? You can just call me 'Kousuke' like usual,[r]
+you know?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -146,15 +156,16 @@ street. If anything happens, let's meet up at 'Dedepou'."[pcms]
 [fc]
 [vo_mar s="maru1300"]
 [ns]Margarita[nse]
-"I was trying to show some respect since I'm asking you to take on a dangerous[r]
-role..."[pcms]
+"I was trying to show some respect since I'm asking you to[r]
+take on a dangerous role..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *156|
 [fc]
 [ns]Kousuke[nse]
-"...Then, me too. Understood, Margarita-senpai! ...or something like that."[pcms]
+"...Then, me too. Understood, Margarita-senpai! ...or[r]
+something like that."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -174,8 +185,8 @@ Kousuke and Maruko-senpai stared at each other for a moment.[pcms]
 [fc]
 [vo_mar s="maru1302"]
 [ns]Margarita[nse]
-"No, my bad, Kousuke. Maruko is fine... It's just that when you suddenly become[r]
-formal, it feels a bit..."[pcms]
+"No, my bad, Kousuke. Maruko is fine... It's just that when[r]
+you suddenly become formal, it feels a bit..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -183,8 +194,8 @@ formal, it feels a bit..."[pcms]
 [fc]
 [vo_mar s="maru1303"]
 [ns]Margarita[nse]
-"I never thought I'd feel uncomfortable with the name my parents gave me...[r]
-ugh."[pcms]
+"I never thought I'd feel uncomfortable with the name my[r]
+parents gave me... ugh."[pcms]
 ;//＠小声
 
 [ChrSetEx layer=5 chbase="ren_j12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -198,7 +209,8 @@ ugh."[pcms]
 
 *162|
 [fc]
-Seeing Senpai's red face, Ren whispered to me with a pleased look.[pcms]
+Seeing Senpai's red face, Ren whispered to me with a pleased[r]
+look.[pcms]
 
 *163|
 [fc]
@@ -214,8 +226,9 @@ So, what should I do now...[pcms]
 
 *165|
 [fc]
-It's true that at the drugstore we could get various things we need. But I'm[r]
-also concerned about what lies ahead on the street...[pcms]
+It's true that at the drugstore we could get various things[r]
+we need. But I'm also concerned about what lies ahead on the[r]
+street...[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢Ａ１
@@ -224,7 +237,8 @@ also concerned about what lies ahead on the street...[pcms]
 
 
 ;	[link storage="50030.ks" target=*50030_TOP]ドラッグストアへ[endlink]
-; (link storage="50040.ks" target=*50040_TOP)I'll go take a look(endlink)[pcms]
+; (link storage="50040.ks" target=*50040_TOP)I'll go take a[r]
+look(endlink)[pcms]
 
 *SEL40|ドラッグストアへ／ボクが見に行きます
 [fc]

@@ -22,12 +22,13 @@
 *5797|
 [fc]
 [ns]Wataru[nse]
-"Senpai, why did those guys who should have been at the academy come from over[r]
-there... from that side ahead of us?"[pcms]
+"Senpai, why did those guys who should have been at the[r]
+academy come from over there... from that side ahead of us?"[pcms]
 
 *5798|
 [fc]
-I almost say Yuuho's name, but swallow my words and ask Senpai instead.[pcms]
+I almost say Yuuho's name, but swallow my words and ask[r]
+Senpai instead.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -35,22 +36,24 @@ I almost say Yuuho's name, but swallow my words and ask Senpai instead.[pcms]
 [fc]
 [vo_mar s="maru0775"]
 [ns]Margarita[nse]
-"They probably came through Udagawa after leaving the academy. That's the only[r]
-explanation."[pcms]
+"They probably came through Udagawa after leaving the[r]
+academy. That's the only explanation."[pcms]
 
 *5800|
 [fc]
 [vo_mar s="maru0776"]
 [ns]Margarita[nse]
-"Is there a road from near the academy to Udagawa... Or... hmm, there might be a[r]
-place ahead at the fork in the road that leads to Udagawa..."[pcms]
+"Is there a road from near the academy to Udagawa... Or...[r]
+hmm, there might be a place ahead at the fork in the road[r]
+that leads to Udagawa..."[pcms]
 
 *5801|
 [fc]
 [vo_mar s="maru0777"]
 [ns]Margarita[nse]
-"I still have much to learn... I used that passage as an emergency route without[r]
-considering such possibilities. It's a significant oversight."[pcms]
+"I still have much to learn... I used that passage as an[r]
+emergency route without considering such possibilities. It's[r]
+a significant oversight."[pcms]
 
 ;//Å™Å@ñ`ì™Ç©ÇÁÇ±Ç±Ç‹Ç≈èCê≥ÇµÇ‹ÇµÇΩämîFÇ®äËÇ¢ÇµÇ‹Ç∑
 
@@ -97,12 +100,13 @@ Senpai's voice cuts off my attempt to follow up.[pcms]
 
 *5805|
 [fc]
-Sounds of knocking on a door and trying to pry it open, along with growling, can[r]
-be heard from a distance.[pcms]
+Sounds of knocking on a door and trying to pry it open,[r]
+along with growling, can be heard from a distance.[pcms]
 
 *5806|
 [fc]
-Right, we're already near the basement of that branch school building.[pcms]
+Right, we're already near the basement of that branch school[r]
+building.[pcms]
 
 ;//se043ÅEã‡ëÆÇÃî¬Çí@Ç≠âπ
 [se buf=0 storage="se043"]
@@ -133,8 +137,9 @@ Every time the metal door we closed is hit, it shakes.[pcms]
 
 *5808|
 [fc]
-On the other side of the rusty metal door, it seems like a group of crazed[r]
-people has gathered, as the moaning and banging on the door continues.[pcms]
+On the other side of the rusty metal door, it seems like a[r]
+group of crazed people has gathered, as the moaning and[r]
+banging on the door continues.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -142,8 +147,8 @@ people has gathered, as the moaning and banging on the door continues.[pcms]
 [fc]
 [vo_mar s="maru0779"]
 [ns]Margarita[nse]
-"It seems the door will hold for a while longer... Though I don't think it will[r]
-be for much time..."[pcms]
+"It seems the door will hold for a while longer... Though I[r]
+don't think it will be for much time..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -151,27 +156,29 @@ be for much time..."[pcms]
 [fc]
 [vo_mar s="maru0780"]
 [ns]Margarita[nse]
-"For now, it's clear that they didn't come through this door from the fork in[r]
-the road via Udagawa."[pcms]
+"For now, it's clear that they didn't come through this door[r]
+from the fork in the road via Udagawa."[pcms]
 
 *5811|
 [fc]
 [vo_mar s="maru0781"]
 [ns]Margarita[nse]
-"This reduces the likelihood of them lurking ahead. We can proceed with a bit[r]
-more peace of mind."[pcms]
+"This reduces the likelihood of them lurking ahead. We can[r]
+proceed with a bit more peace of mind."[pcms]
 
 ;//@konya à√ì]
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5812|
 [fc]
-We decide not to linger and quickly enter the passage toward Shibuya Station.[pcms]
+We decide not to linger and quickly enter the passage toward[r]
+Shibuya Station.[pcms]
 
 *5813|
 [fc]
-After a while, we come upon a path that splits in two directions. To the left is[r]
-a straight path. To the right is a gently descending staircase.[pcms]
+After a while, we come upon a path that splits in two[r]
+directions. To the left is a straight path. To the right is[r]
+a gently descending staircase.[pcms]
 
 ;//@konya ínâ∫ìπ
 [bg storage="BG027"][trans_c cross time=500]
@@ -183,30 +190,32 @@ a straight path. To the right is a gently descending staircase.[pcms]
 [fc]
 [vo_mar s="maru0782"]
 [ns]Margarita[nse]
-"Left leads towards Meiji Street. It seems to connect to the underground channel[r]
-of Shibuya River. It's a longer route but wider, so it's easier to escape if[r]
-we're attacked..."[pcms]
+"Left leads towards Meiji Street. It seems to connect to the[r]
+underground channel of Shibuya River. It's a longer route[r]
+but wider, so it's easier to escape if we're attacked..."[pcms]
 
 *5815|
 [fc]
 [vo_mar s="maru0783"]
 [ns]Margarita[nse]
-"Right leads towards Udagawa Street... Ugh... The smell of sewage is strong. It[r]
-should connect directly to the underground channel of Udagawa."[pcms]
+"Right leads towards Udagawa Street... Ugh... The smell of[r]
+sewage is strong. It should connect directly to the[r]
+underground channel of Udagawa."[pcms]
 
 *5816|
 [fc]
 [vo_mar s="maru0784"]
 [ns]Margarita[nse]
-"It's narrow, but since it merges with Shibuya River quickly, we should be able[r]
-to reach the surface in the shortest distance possible."[pcms]
+"It's narrow, but since it merges with Shibuya River[r]
+quickly, we should be able to reach the surface in the[r]
+shortest distance possible."[pcms]
 
 *5817|
 [fc]
 [vo_mar s="maru0785"]
 [ns]Margarita[nse]
-"A wide and long path, or a narrow and short one... Now, which should we[r]
-take..."[pcms]
+"A wide and long path, or a narrow and short one... Now,[r]
+which should we take..."[pcms]
 
 ;//--------------------------------------------------------------------
 ;//ÅúëIëéàÇbÇS
@@ -215,8 +224,8 @@ take..."[pcms]
 
 
 ;	[link storage="42160.ks" target=*42160_TOP]ç∂Ç…ÅIÅ@èaíJêÏÇ÷[endlink]
-; (link storage="42170.ks" target=*42170_TOP)To the right! Towards[r]
-Udagawa(endlink)[pcms]
+; (link storage="42170.ks" target=*42170_TOP)To the right![r]
+Towards Udagawa(endlink)[pcms]
 
 *SEL38|ç∂Ç…ÅIÅ@èaíJêÏÇ÷Å^âEÇ…ÅIÅ@âFìcêÏÇ÷
 [fc]

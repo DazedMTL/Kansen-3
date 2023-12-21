@@ -35,26 +35,29 @@
 
 *7817|
 [fc]
-In my arms, Ren was shaking all over, crying. I silently stroked her back,[r]
-continued to pat her head, and held her tight.[pcms]
+In my arms, Ren was shaking all over, crying. I silently[r]
+stroked her back, continued to pat her head, and held her[r]
+tight.[pcms]
 
 *7818|
 [fc]
-In the dimly lit room, only Ren's sobbing echoed quietly. The trembling of Ren's[r]
-body in my arms spoke volumes of her sorrow.[pcms]
+In the dimly lit room, only Ren's sobbing echoed quietly.[r]
+The trembling of Ren's body in my arms spoke volumes of her[r]
+sorrow.[pcms]
 
 ;//〆EV008
 [evcg storage="EV012f"][trans_c cross time=300]
 
 *7819|
 [fc]
-I wonder how much time has passed. Eventually, Ren's sobbing stopped, and her[r]
-trembling ceased. Her slight weight was entrusted to my body.[pcms]
+I wonder how much time has passed. Eventually, Ren's sobbing[r]
+stopped, and her trembling ceased. Her slight weight was[r]
+entrusted to my body.[pcms]
 
 *7820|
 [fc]
-Ren had fallen asleep exhausted from crying. I gently laid her body on the futon[r]
-and quietly left the room.[pcms]
+Ren had fallen asleep exhausted from crying. I gently laid[r]
+her body on the futon and quietly left the room.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -64,9 +67,9 @@ and quietly left the room.[pcms]
 
 *7821|
 [fc]
-After leaving the room, I headed towards the drink bar. I just wanted to quench[r]
-my thirst with anything. Something was stuck in my throat. I wanted to drink it[r]
-down.[pcms]
+After leaving the room, I headed towards the drink bar. I[r]
+just wanted to quench my thirst with anything. Something was[r]
+stuck in my throat. I wanted to drink it down.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -98,8 +101,8 @@ down.[pcms]
 
 *7826|
 [fc]
-Everyone had gathered around. They must have been worried about Ren and me and[r]
-followed us.[pcms]
+Everyone had gathered around. They must have been worried[r]
+about Ren and me and followed us.[pcms]
 
 *7827|
 [fc]
@@ -117,7 +120,8 @@ followed us.[pcms]
 *7829|
 [fc]
 [ns]Wataru[nse]
-"Yes... Maruko-senpai. She seems to have cried herself to sleep."[pcms]
+"Yes... Maruko-senpai. She seems to have cried herself to[r]
+sleep."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -137,7 +141,8 @@ followed us.[pcms]
 *7832|
 [fc]
 [ns]Kousuke[nse]
-"...Wataru, don't push yourself too hard. You don't look okay."[pcms]
+"...Wataru, don't push yourself too hard. You don't look[r]
+okay."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b12"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -145,35 +150,37 @@ followed us.[pcms]
 [fc]
 [vo_miz s="mizuki0094"]
 [ns]Mizuki[nse]
-"That's right, Wataru. Hey, is there anything I can do for you?"[pcms]
+"That's right, Wataru. Hey, is there anything I can do for[r]
+you?"[pcms]
 
 *7834|
 [fc]
-Everyone was voicing their concern for me. Honestly, if I just cried out loud, I[r]
-might feel better.[pcms]
+Everyone was voicing their concern for me. Honestly, if I[r]
+just cried out loud, I might feel better.[pcms]
 
 *7835|
 [fc]
-But I couldn't worry everyone any more than this. I didn't want to show such a[r]
-pathetic sight to everyone.[pcms]
+But I couldn't worry everyone any more than this. I didn't[r]
+want to show such a pathetic sight to everyone.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *7835a|
 [fc]
-I went to the drink bar and took a light sip of water, feeling everyone's gaze[r]
-following my every move.[pcms]
+I went to the drink bar and took a light sip of water,[r]
+feeling everyone's gaze following my every move.[pcms]
 
 *7836|
 [fc]
 [ns]Wataru[nse]
-"I'm really fine. Thank you, everyone. I just came to drink some water because I[r]
-was thirsty. Ren has calmed down, and I'll be going to rest soon..."[pcms]
+"I'm really fine. Thank you, everyone. I just came to drink[r]
+some water because I was thirsty. Ren has calmed down, and[r]
+I'll be going to rest soon..."[pcms]
 
 *7837|
 [fc]
-I said that and went back towards the room, feeling everyone's lingering gazes[r]
-on my back...[pcms]
+I said that and went back towards the room, feeling[r]
+everyone's lingering gazes on my back...[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -184,18 +191,20 @@ on my back...[pcms]
 
 *7838|
 [fc]
-I remember passing by the room. But before I knew it, I found myself standing in[r]
-the 7th floor backyard.[pcms]
+I remember passing by the room. But before I knew it, I[r]
+found myself standing in the 7th floor backyard.[pcms]
 
 *7839|
 [fc]
-Maybe subconsciously, I was looking for a place where I could be alone. That's[r]
-right... right now, it's just me here.[pcms]
+Maybe subconsciously, I was looking for a place where I[r]
+could be alone. That's right... right now, it's just me[r]
+here.[pcms]
 
 *7840|
 [fc]
-The lump in my throat that water couldn't wash down. The lump called sorrow[r]
-overflowed now that I was alone, unable to be held back.[pcms]
+The lump in my throat that water couldn't wash down. The[r]
+lump called sorrow overflowed now that I was alone, unable[r]
+to be held back.[pcms]
 
 *7841|
 [fc]
@@ -204,13 +213,14 @@ overflowed now that I was alone, unable to be held back.[pcms]
 
 *7842|
 [fc]
-Dad... Dad! I wanted you to be alive. I thought you'd come to pick us up with[r]
-your usual joking smile.[pcms]
+Dad... Dad! I wanted you to be alive. I thought you'd come[r]
+to pick us up with your usual joking smile.[pcms]
 
 *7843|
 [fc]
-We'd run up to each other and embrace, like a reunion scene from a drama. That's[r]
-what I thought we'd laugh about together.[pcms]
+We'd run up to each other and embrace, like a reunion scene[r]
+from a drama. That's what I thought we'd laugh about[r]
+together.[pcms]
 
 *7844|
 [fc]
@@ -219,13 +229,15 @@ what I thought we'd laugh about together.[pcms]
 
 *7845|
 [fc]
-We weren't blood-related, but you were no different from a real father to me.[r]
-No, I respected you even more than that, Dad.[pcms]
+We weren't blood-related, but you were no different from a[r]
+real father to me. No, I respected you even more than that,[r]
+Dad.[pcms]
 
 *7846|
 [fc]
-I should have told you while you were still alive. I never thought that[r]
-suddenly, like Mom, Dad would be taken away from me so abruptly.[pcms]
+I should have told you while you were still alive. I never[r]
+thought that suddenly, like Mom, Dad would be taken away[r]
+from me so abruptly.[pcms]
 
 *7847|
 [fc]
@@ -234,8 +246,9 @@ suddenly, like Mom, Dad would be taken away from me so abruptly.[pcms]
 
 *7848|
 [fc]
-Dad... it's okay... I'll do my best. I'll make sure to protect Ren. For both of[r]
-us. Just let me cry for a little bit now... then I'll really do my best.[pcms]
+Dad... it's okay... I'll do my best. I'll make sure to[r]
+protect Ren. For both of us. Just let me cry for a little[r]
+bit now... then I'll really do my best.[pcms]
 
 *7849|
 [fc]
@@ -248,8 +261,9 @@ us. Just let me cry for a little bit now... then I'll really do my best.[pcms]
 
 *7851|
 [fc]
-I felt like I could hear Dad's voice. Ah... that's right. It's about time to go[r]
-back to the room. Ren might have woken up by now.[pcms]
+I felt like I could hear Dad's voice. Ah... that's right.[r]
+It's about time to go back to the room. Ren might have woken[r]
+up by now.[pcms]
 
 *7852|
 [fc]
@@ -270,13 +284,14 @@ I decided to go back to the room after wiping my cheeks dry.[pcms]
 
 *7855|
 [fc]
-Yuuho was standing quietly in the shadow of the corridor. I hadn't noticed at[r]
-all... She must have seen me crying pathetically.[pcms]
+Yuuho was standing quietly in the shadow of the corridor. I[r]
+hadn't noticed at all... She must have seen me crying[r]
+pathetically.[pcms]
 
 *7856|
 [fc]
-Yuuho also seemed to have a slightly awkward expression on her face. She might[r]
-have been watching me the whole time.[pcms]
+Yuuho also seemed to have a slightly awkward expression on[r]
+her face. She might have been watching me the whole time.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -284,9 +299,9 @@ have been watching me the whole time.[pcms]
 [fc]
 [vo_yuh s="yuho0927"]
 [ns]Yuuho[nse]
-"Wataru... I was worried because... I saw you walking unsteadily. So I followed[r]
-you because I was concerned... But then I missed the chance to call out to[r]
-you..."[pcms]
+"Wataru... I was worried because... I saw you walking[r]
+unsteadily. So I followed you because I was concerned... But[r]
+then I missed the chance to call out to you..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -299,14 +314,15 @@ you..."[pcms]
 *7859|
 [fc]
 [ns]Wataru[nse]
-"...It's okay, Yuuho. Thank you for worrying about me. But I'm fine now. I'm[r]
-just a bit tired so I'll go back to my room and rest. You should rest too."[pcms]
+"...It's okay, Yuuho. Thank you for worrying about me. But[r]
+I'm fine now. I'm just a bit tired so I'll go back to my[r]
+room and rest. You should rest too."[pcms]
 
 *7860|
 [fc]
-While putting on a brave front, I didn't want Yuuho to see any more of my[r]
-pathetic state, so I turned my face away slightly as I tried to pass by her[r]
-side.[pcms]
+While putting on a brave front, I didn't want Yuuho to see[r]
+any more of my pathetic state, so I turned my face away[r]
+slightly as I tried to pass by her side.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -318,7 +334,8 @@ side.[pcms]
 
 *7862|
 [fc]
-Yuuho stood in my way as if blocking me and then... Yuuho hugged me![pcms]
+Yuuho stood in my way as if blocking me and then... Yuuho[r]
+hugged me![pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -326,8 +343,8 @@ Yuuho stood in my way as if blocking me and then... Yuuho hugged me![pcms]
 [fc]
 [vo_yuh s="yuho0930"]
 [ns]Yuuho[nse]
-"Wataru! Please, don't push yourself. Don't hold back. Let me hear your true[r]
-feelings."[pcms]
+"Wataru! Please, don't push yourself. Don't hold back. Let[r]
+me hear your true feelings."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -335,24 +352,26 @@ feelings."[pcms]
 [fc]
 [vo_yuh s="yuho0931"]
 [ns]Yuuho[nse]
-"Wataru, you don't have to be strong at a time like this. Please, cry as much as[r]
-you need to ease your feelings. Okay, Wataru? Please, Wataru."[pcms]
+"Wataru, you don't have to be strong at a time like this.[r]
+Please, cry as much as you need to ease your feelings. Okay,[r]
+Wataru? Please, Wataru."[pcms]
 
 *7865|
 [fc]
-With a voice as if squeezing out the words, almost shouting, Yuuho hugged me.[r]
-Yuuho's face looked worried, and a single tear rolled down her cheek. Yuuho was[r]
-crying for me.[pcms]
+With a voice as if squeezing out the words, almost shouting,[r]
+Yuuho hugged me. Yuuho's face looked worried, and a single[r]
+tear rolled down her cheek. Yuuho was crying for me.[pcms]
 
 *7866|
 [fc]
-The moment I saw that tear, the emotions I thought had settled came rushing[r]
-back.[pcms]
+The moment I saw that tear, the emotions I thought had[r]
+settled came rushing back.[pcms]
 
 *7867|
 [fc]
 [ns]Wataru[nse]
-"...Yuuho... *sob*... ugh. Yuuho, Yuuho. Dad is... *sob sob*... Dad is...!"[pcms]
+"...Yuuho... *sob*... ugh. Yuuho, Yuuho. Dad is... *sob[r]
+sob*... Dad is...!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -360,8 +379,8 @@ back.[pcms]
 [fc]
 [vo_yuh s="yuho0932"]
 [ns]Yuuho[nse]
-"Yes, Wataru... it's okay. Cry as much as you want. When you want to cry, it's[r]
-better to cry a lot."[pcms]
+"Yes, Wataru... it's okay. Cry as much as you want. When you[r]
+want to cry, it's better to cry a lot."[pcms]
 
 *7869|
 [fc]
@@ -370,8 +389,8 @@ better to cry a lot."[pcms]
 
 *7870|
 [fc]
-While clinging to Yuuho who was hugging me, I raised my voice and continued to[r]
-cry, indulging in Yuuho's kindness.[pcms]
+While clinging to Yuuho who was hugging me, I raised my[r]
+voice and continued to cry, indulging in Yuuho's kindness.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

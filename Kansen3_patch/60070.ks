@@ -29,7 +29,8 @@
 
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]èèêDÇ∆ÉZÉbÉNÉXÇµÇΩ[endlink]
-(link target=*scene_selend)I haven't had sex with Inori(endlink)[pcms]
+(link target=*scene_selend)I haven't had sex with[r]
+Inori(endlink)[pcms]
 
 	[call storage="_scene_sel.ks" target=*scene_sel_iori]
 
@@ -67,8 +68,8 @@ Suddenly, strength returned to Yuuho's hand.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0043"]
 [ns]Yuuho[nse]
-"After all...we're about to do something nice, right...? You can't run[r]
-away...okay...?"[pcms]
+"After all...we're about to do something nice, right...? You[r]
+can't run away...okay...?"[pcms]
 
 *302|
 [fc]
@@ -81,11 +82,13 @@ It seems it was too late...[pcms]
 
 *304|
 [fc]
-Once again, I could feel the strength building up inside Yuuho.[pcms]
+Once again, I could feel the strength building up inside[r]
+Yuuho.[pcms]
 
 *305|
 [fc]
-Without a moment to blame my indecisiveness, Yuuho presses on.[pcms]
+Without a moment to blame my indecisiveness, Yuuho presses[r]
+on.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e18"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -93,8 +96,8 @@ Without a moment to blame my indecisiveness, Yuuho presses on.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0044"]
 [ns]Yuuho[nse]
-"Being alone...is lonely...right...? I can't be satisfied...okay...? ...So,[r]
-let's be together, okay...?"[pcms]
+"Being alone...is lonely...right...? I can't be[r]
+satisfied...okay...? ...So, let's be together, okay...?"[pcms]
 
 ;//ÅYÅFÉâÉxÉãÅ@60070 çáó¨
 ;mm Ç±ÇÃçáó¨ÉâÉxÉãÇÕégÇÌÇ»Ç¢
@@ -106,8 +109,9 @@ let's be together, okay...?"[pcms]
 [fc]
 [vo_yuh s="yuho_YK0045"]
 [ns]Yuuho[nse]
-"W-Wataru... you like me, don't you? Always, always... you were looking at my[r]
-body, weren't you? I'll show you... my naughty places..."[pcms]
+"W-Wataru... you like me, don't you? Always, always... you[r]
+were looking at my body, weren't you? I'll show you... my[r]
+naughty places..."[pcms]
 
 *308|
 [fc]
@@ -120,8 +124,8 @@ Yuuho's cheeks are dyed red, and she's breathing heavily...[pcms]
 
 *310|
 [fc]
-Despite thinking it's frightening, I can't take my eyes off her incredibly lewd[r]
-appearance.[pcms]
+Despite thinking it's frightening, I can't take my eyes off[r]
+her incredibly lewd appearance.[pcms]
 
 *311|
 [fc]
@@ -131,8 +135,8 @@ Yuuho chuckles at my flustered state.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0046"]
 [ns]Yuuho[nse]
-"...Wataru... you're so cute... Look, here... you can touch it...? It's special[r]
-because it's you, okay...?"[pcms]
+"...Wataru... you're so cute... Look, here... you can touch[r]
+it...? It's special because it's you, okay...?"[pcms]
 
 *313|
 [fc]
@@ -144,8 +148,9 @@ And then she let me touch her mound over her spats.[pcms]
 
 *315|
 [fc]
-She moved my hand slowly as if searching for something. I could feel the warmth[r]
-of Yuuho's body, my childhood friend... and the heat of my own feelings for her.[pcms]
+She moved my hand slowly as if searching for something. I[r]
+could feel the warmth of Yuuho's body, my childhood[r]
+friend... and the heat of my own feelings for her.[pcms]
 
 ;//ÅYÇgÇdÇuÇOÇSÇW
 ;//ÇaÅFçqÇ…ÅAÉXÉpÉbÉcÇÃè„Ç©ÇÁÉNÉäÉgÉäÉXÇéCÇÁÇπÇÈ
@@ -156,15 +161,15 @@ of Yuuho's body, my childhood friend... and the heat of my own feelings for her.
 [fc]
 [vo_yuh s="yuho_YK0047"]
 [ns]Yuuho[nse]
-"Mmmnnn... a little higher... there... where it's poking out... mmm, ahhhnn![r]
-There... that spot...!"[pcms]
+"Mmmnnn... a little higher... there... where it's poking[r]
+out... mmm, ahhhnn! There... that spot...!"[pcms]
 
 *317|
 [fc]
 [vo_yuh s="yuho_YK0048"]
 [ns]Yuuho[nse]
-"You can touch it, okay...? Because it's you, Wataru... ah, mmm... it feels[r]
-good... it feels so good, okay...?"[pcms]
+"You can touch it, okay...? Because it's you, Wataru... ah,[r]
+mmm... it feels good... it feels so good, okay...?"[pcms]
 
 *318|
 [fc]
@@ -173,9 +178,10 @@ good... it feels so good, okay...?"[pcms]
 
 *319|
 [fc]
-However, before I knew it, my fingers were moving on their own. They searched[r]
-for Yuuho's hot genitals and felt the sensation of her sticky fluids. And[r]
-finally, they found the sensitive bud.[pcms]
+However, before I knew it, my fingers were moving on their[r]
+own. They searched for Yuuho's hot genitals and felt the[r]
+sensation of her sticky fluids. And finally, they found the[r]
+sensitive bud.[pcms]
 
 *320|
 [fc]
@@ -185,8 +191,8 @@ finally, they found the sensitive bud.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0049"]
 [ns]Yuuho[nse]
-"Hiiii, mmm...! W-Wataru...! Your fingers are so gentle... ahhhh, my hips are[r]
-moving on their own...!"[pcms]
+"Hiiii, mmm...! W-Wataru...! Your fingers are so gentle...[r]
+ahhhh, my hips are moving on their own...!"[pcms]
 
 *322|
 [fc]
@@ -194,19 +200,20 @@ Yuuho writhes and shakes her hips.[pcms]
 
 *323|
 [fc]
-My fingers move more and more intensely, attacking Yuuho as if they have a mind[r]
-of their own.[pcms]
+My fingers move more and more intensely, attacking Yuuho as[r]
+if they have a mind of their own.[pcms]
 
 *324|
 [fc]
-Rubbing her flesh walls and pinching her clitoris. Yuuho's overflowing love[r]
-juices numb my hand and mind...[pcms]
+Rubbing her flesh walls and pinching her clitoris. Yuuho's[r]
+overflowing love juices numb my hand and mind...[pcms]
 
 *325|
 [fc]
 [vo_yuh s="yuho_YK0050"]
 [ns]Yuuho[nse]
-"Nhaaaa, hihiiii...! I'm melting! I-I can't take it anymore... nnh, nhiinn!"[pcms]
+"Nhaaaa, hihiiii...! I'm melting! I-I can't take it[r]
+anymore... nnh, nhiinn!"[pcms]
 
 ;//ÇbÅFÇaÇÃçsà◊Ç≈ê‚í∏Çå}Ç¶ÇÈóIîø
 
@@ -214,13 +221,15 @@ juices numb my hand and mind...[pcms]
 [fc]
 [vo_yuh s="yuho_YK0051"]
 [ns]Yuuho[nse]
-"Nnnnhiiiiiiiaaaaahhhhh! Ahh, hihh...!? Ahhhuhhuhh, it's overflowing! Hihiiii!?"[pcms]
+"Nnnnhiiiiiiiaaaaahhhhh! Ahh, hihh...!? Ahhhuhhuhh, it's[r]
+overflowing! Hihiiii!?"[pcms]
 
 *327|
 [fc]
 [vo_yuh s="yuho_YK0052"]
 [ns]Yuuho[nse]
-"W-Wataru's... Wataru is making meee! Kahiiiiihh, hihh, nhiuhhuhh, gufuhhh!!"[pcms]
+"W-Wataru's... Wataru is making meee! Kahiiiiihh, hihh,[r]
+nhiuhhuhh, gufuhhh!!"[pcms]
 
 *328|
 [fc]
@@ -234,7 +243,8 @@ It seems Yuuho has reached her climax all too quickly.[pcms]
 
 *330|
 [fc]
-She takes deep breaths and looks at me with an ecstatic expression.[pcms]
+She takes deep breaths and looks at me with an ecstatic[r]
+expression.[pcms]
 
 *331|
 [fc]
@@ -243,8 +253,9 @@ She takes deep breaths and looks at me with an ecstatic expression.[pcms]
 
 *332|
 [fc]
-I look at my trembling fingertips. They are wet and shiny with the love juices[r]
-of my childhood friend and slippery to the touch.[pcms]
+I look at my trembling fingertips. They are wet and shiny[r]
+with the love juices of my childhood friend and slippery to[r]
+the touch.[pcms]
 
 *333|
 [fc]

@@ -18,12 +18,14 @@
 
 *491|
 [fc]
-With Yuuho in this condition, there should be no need to worry. I made sure to[r]
-stay alert and focused on guarding our surroundings.[pcms]
+With Yuuho in this condition, there should be no need to[r]
+worry. I made sure to stay alert and focused on guarding our[r]
+surroundings.[pcms]
 
 *492|
 [fc]
-As expected, an infected lying on the catwalk was about to rise.[pcms]
+As expected, an infected lying on the catwalk was about to[r]
+rise.[pcms]
 
 *493|
 [fc]
@@ -31,7 +33,8 @@ A hit from a mop isn't enough to deal a fatal blow.[pcms]
 
 *494|
 [fc]
-I immediately thrust the handle of the mop at the infected trying to get up.[pcms]
+I immediately thrust the handle of the mop at the infected[r]
+trying to get up.[pcms]
 
 ;//se012
 [se buf=0 storage="se012"]
@@ -46,8 +49,8 @@ I immediately thrust the handle of the mop at the infected trying to get up.[pcm
 
 *496|
 [fc]
-After receiving a full-force blow, the infected lost balance and easily toppled[r]
-over.[pcms]
+After receiving a full-force blow, the infected lost balance[r]
+and easily toppled over.[pcms]
 
 *497|
 [fc]
@@ -56,8 +59,8 @@ over.[pcms]
 
 *498|
 [fc]
-Feeling as if I had truly experienced strength, I indulged in a small sense of[r]
-accomplishment.[pcms]
+Feeling as if I had truly experienced strength, I indulged[r]
+in a small sense of accomplishment.[pcms]
 
 ;//ÅYEV011
 
@@ -65,13 +68,14 @@ accomplishment.[pcms]
 
 *499|
 [fc]
-When I turned around, there was Yuuho, who had safely escaped. Yuuho hugged me[r]
-without a word, and I gently stroked her sobbing back.[pcms]
+When I turned around, there was Yuuho, who had safely[r]
+escaped. Yuuho hugged me without a word, and I gently[r]
+stroked her sobbing back.[pcms]
 
 *500|
 [fc]
-The feel of her soft body and Yuuho's gentle scent seemed to heal my weary[r]
-heart.[pcms]
+The feel of her soft body and Yuuho's gentle scent seemed to[r]
+heal my weary heart.[pcms]
 
 *501|
 [fc]
@@ -93,7 +97,8 @@ heart.[pcms]
 
 *504|
 [fc]
-Yuuho managed to get to the window by herself. All I did was guard it from here.[pcms]
+Yuuho managed to get to the window by herself. All I did was[r]
+guard it from here.[pcms]
 
 *505|
 [fc]
@@ -105,12 +110,13 @@ I wanted to be the hero of the story...[pcms]
 
 *506|
 [fc]
-It's too early to rejoice in our reunion. Our predicament hasn't changed at all.[pcms]
+It's too early to rejoice in our reunion. Our predicament[r]
+hasn't changed at all.[pcms]
 
 *507|
 [fc]
-In fact, we might be facing a crisis so imminent that it's only a matter of[r]
-whether we'll be prey alone or together.[pcms]
+In fact, we might be facing a crisis so imminent that it's[r]
+only a matter of whether we'll be prey alone or together.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 

@@ -26,8 +26,8 @@
 
 *267|
 [fc]
-I decided to leave Yuuho and Ren to Kousuke, and headed to the station front[r]
-with Maruko Senpai.[pcms]
+I decided to leave Yuuho and Ren to Kousuke, and headed to[r]
+the station front with Maruko Senpai.[pcms]
 
 ;//@konya èaíJâwëO
 [bg storage="BG04d"][trans_c cross time=500]
@@ -43,17 +43,20 @@ with Maruko Senpai.[pcms]
 
 *269|
 [fc]
-The road from the Western department store to the scramble intersection was[r]
-overflowing with a large number of abandoned cars, some of which were on fire.[pcms]
+The road from the Western department store to the scramble[r]
+intersection was overflowing with a large number of[r]
+abandoned cars, some of which were on fire.[pcms]
 
 *270|
 [fc]
-It wasn't completely blocked, so maybe a military vehicle could pass through...[pcms]
+It wasn't completely blocked, so maybe a military vehicle[r]
+could pass through...[pcms]
 
 *271|
 [fc]
-But for a regular car, it would likely mean moving forward while hitting[r]
-obstacles and being ready to write it off as a total loss.[pcms]
+But for a regular car, it would likely mean moving forward[r]
+while hitting obstacles and being ready to write it off as a[r]
+total loss.[pcms]
 
 ;//ÅYîwåiÅFÉXÉNÉâÉìÉuÉãåç∑ì_
 ;//@konya èaíJâwëOï\é¶çœÇ›
@@ -65,8 +68,9 @@ obstacles and being ready to write it off as a total loss.[pcms]
 
 *273|
 [fc]
-Standing in the middle of the scramble intersection, I looked around at the[r]
-surrounding scene and was at a loss for words.[pcms]
+Standing in the middle of the scramble intersection, I[r]
+looked around at the surrounding scene and was at a loss for[r]
+words.[pcms]
 
 *274|
 [fc]
@@ -74,9 +78,9 @@ Nobody's here... No living thing, that is.[pcms]
 
 *275|
 [fc]
-Bodies of people and crows were scattered here and there, many buildings had[r]
-been ransacked... The air was filled with the smell of smoldering smoke and[r]
-rotting flesh...[pcms]
+Bodies of people and crows were scattered here and there,[r]
+many buildings had been ransacked... The air was filled with[r]
+the smell of smoldering smoke and rotting flesh...[pcms]
 
 *276|
 [fc]
@@ -84,8 +88,8 @@ The smell of death...[pcms]
 
 *277|
 [fc]
-From here at the bottom of Shibuya, it looked like we were in a valley made of[r]
-collapsed buildings.[pcms]
+From here at the bottom of Shibuya, it looked like we were[r]
+in a valley made of collapsed buildings.[pcms]
 
 *278|
 [fc]
@@ -103,8 +107,8 @@ collapsed buildings.[pcms]
 
 *280|
 [fc]
-Trying to lift our spirits that were prone to darken, we decided to look around[r]
-for any survivors.[pcms]
+Trying to lift our spirits that were prone to darken, we[r]
+decided to look around for any survivors.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -121,8 +125,9 @@ for any survivors.[pcms]
 
 *283|
 [fc]
-Senpai's and my voices echoed. In the streets of Shibuya, which would normally[r]
-drown out the sound of human voices with its bustle...[pcms]
+Senpai's and my voices echoed. In the streets of Shibuya,[r]
+which would normally drown out the sound of human voices[r]
+with its bustle...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -134,13 +139,15 @@ drown out the sound of human voices with its bustle...[pcms]
 
 *285|
 [fc]
-Senpai's clear voice echoed again. But no response came back from anywhere.[pcms]
+Senpai's clear voice echoed again. But no response came back[r]
+from anywhere.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *286|
 [fc]
-If only... If only there was at least one survivor somewhere.[pcms]
+If only... If only there was at least one survivor[r]
+somewhere.[pcms]
 
 *287|
 [fc]
@@ -157,7 +164,8 @@ Something like a shadow flickered into my field of vision.[pcms]
 
 *290|
 [fc]
-The moment I turned my eyes towards where the shadow was, I froze.[pcms]
+The moment I turned my eyes towards where the shadow was, I[r]
+froze.[pcms]
 
 ;//bgmí‚é~
 [fadeoutbgm time=500]
@@ -172,8 +180,9 @@ The moment I turned my eyes towards where the shadow was, I froze.[pcms]
 
 *292|
 [fc]
-That girl standing unsteadily at the entrance to Center Street in a bondage-like[r]
-outfit... That's... the "Red-eyed Girl" I met before.[pcms]
+That girl standing unsteadily at the entrance to Center[r]
+Street in a bondage-like outfit... That's... the "Red-eyed[r]
+Girl" I met before.[pcms]
 
 *293|
 [fc]
@@ -190,7 +199,8 @@ What on earth is she doing here...?[pcms]
 
 *295|
 [fc]
-At that moment, strange groaning sounds began to be heard around us.[pcms]
+At that moment, strange groaning sounds began to be heard[r]
+around us.[pcms]
 
 ;//@konya èaíJâwëO
 [bg storage="bg04a"][trans_c cross time=500]
@@ -206,16 +216,17 @@ At that moment, strange groaning sounds began to be heard around us.[pcms]
 
 *297|
 [fc]
-Startled, Senpai and I looked at each other and hurriedly scanned our[r]
-surroundings.[pcms]
+Startled, Senpai and I looked at each other and hurriedly[r]
+scanned our surroundings.[pcms]
 
 ;//ÉLÉÉÉâè¡Çµ
 [chara_int][trans_c cross time=150]
 
 *298|
 [fc]
-From the station building and underground mall entrances, infected people slowly[r]
-emerged. Like the dead crawling out of their graves...[pcms]
+From the station building and underground mall entrances,[r]
+infected people slowly emerged. Like the dead crawling out[r]
+of their graves...[pcms]
 
 [ChrSetEx layer=4 chbase="kansen_b"][ChrSetXY layer=4 x=380 y=0][trans_c cross time=150]
 
@@ -236,8 +247,9 @@ emerged. Like the dead crawling out of their graves...[pcms]
 
 *301|
 [fc]
-The voices grew in number and volume. Including those not yet visible, it seemed[r]
-a tremendous number of infected were lurking.[pcms]
+The voices grew in number and volume. Including those not[r]
+yet visible, it seemed a tremendous number of infected were[r]
+lurking.[pcms]
 
 [chara_int]
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -262,8 +274,8 @@ We started running across the intersection.[pcms]
 
 *305|
 [fc]
-But from the Western department store on our way back, more and more infected[r]
-people kept coming out.[pcms]
+But from the Western department store on our way back, more[r]
+and more infected people kept coming out.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -284,8 +296,9 @@ Senpai skidded to a stop with a screech of her shoe soles.[pcms]
 
 *309|
 [fc]
-I pointed towards the main entrance of Center Street. There were only a few[r]
-infected people other than the red-eyed girl.[pcms]
+I pointed towards the main entrance of Center Street. There[r]
+were only a few infected people other than the red-eyed[r]
+girl.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -293,7 +306,8 @@ infected people other than the red-eyed girl.[pcms]
 [fc]
 [vo_mar s="maru1316"]
 [ns]Margarita[nse]
-"But it's narrow! We won't be able to maneuver if it comes down to it!"[pcms]
+"But it's narrow! We won't be able to maneuver if it comes[r]
+down to it!"[pcms]
 
 *311|
 [fc]
@@ -306,19 +320,20 @@ What should we do?[pcms]
 
 *313|
 [fc]
-The route we took past the Western department store is wide but crowded with[r]
-many infected. And there were abandoned cars too...[pcms]
+The route we took past the Western department store is wide[r]
+but crowded with many infected. And there were abandoned[r]
+cars too...[pcms]
 
 *314|
 [fc]
-On the other hand, the direction towards the main entrance of Center Street is[r]
-narrow but has only a few infected. It's also a bit of a shortcut distance-[r]
-wise...[pcms]
+On the other hand, the direction towards the main entrance[r]
+of Center Street is narrow but has only a few infected. It's[r]
+also a bit of a shortcut distance- wise...[pcms]
 
 *315|
 [fc]
-To get back in front of "Kimesugitakashi" where Kousuke and the others are,[r]
-either route would work but...[pcms]
+To get back in front of "Kimesugitakashi" where Kousuke and[r]
+the others are, either route would work but...[pcms]
 
 *316|
 [fc]

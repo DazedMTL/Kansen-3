@@ -19,7 +19,8 @@
 
 *100|
 [fc]
-On the bed in the nap room, Senior Margarita was lying naked.[pcms]
+On the bed in the nap room, Senior Margarita was lying[r]
+naked.[pcms]
 
 ;//Ａ：オナニー・序盤
 [evcg storage="HEV042d"][trans_c cross time=300]
@@ -28,75 +29,84 @@ On the bed in the nap room, Senior Margarita was lying naked.[pcms]
 [fc]
 [vo_mar s="maru_K0004"]
 [ns]Margarita[nse]
-"...Ah, giiii! Hih, hifuaaaa! Ahahaaa, ahh, aguahaaa! Haa...!"[pcms]
+"...Ah, giiii! Hih, hifuaaaa! Ahahaaa, ahh, aguahaaa![r]
+Haa...!"[pcms]
 
 *102|
 [fc]
-Her well-trained body arched like a bow, her hips lifted high as she furiously[r]
-moved the hand placed at her crotch.[pcms]
+Her well-trained body arched like a bow, her hips lifted[r]
+high as she furiously moved the hand placed at her crotch.[pcms]
 
 *103|
 [fc]
-It was unclear how long she had been comforting herself; her inner thighs were[r]
-already drenched, and the sheets beneath her butt were soaked with sweat, love[r]
-juices, and the occasional squirt of tide.[pcms]
+It was unclear how long she had been comforting herself; her[r]
+inner thighs were already drenched, and the sheets beneath[r]
+her butt were soaked with sweat, love juices, and the[r]
+occasional squirt of tide.[pcms]
 
 *104|
 [fc]
 [vo_mar s="maru_K0005"]
 [ns]Margarita[nse]
-"Sh... unbelievable, this... ughaaa! It won't stop... can't stop it...!! Hihii!"[pcms]
+"Sh... unbelievable, this... ughaaa! It won't stop... can't[r]
+stop it...!! Hihii!"[pcms]
 
 *105|
 [fc]
-Her usually dignified presence was nowhere to be found, replaced by a lewdly[r]
-melting expression...[pcms]
+Her usually dignified presence was nowhere to be found,[r]
+replaced by a lewdly melting expression...[pcms]
 
 *106|
 [fc]
-Even I, watching her, became excited and involuntarily swallowed my saliva.[pcms]
+Even I, watching her, became excited and involuntarily[r]
+swallowed my saliva.[pcms]
 
 *107|
 [fc]
 [vo_mar s="maru_K0006"]
 [ns]Margarita[nse]
-"Naaaaa, aaaaaa, hufuaaa! ...It's so hot, my vagina's burning!! Ahh, aaaaaaaa,[r]
-hiaaaa, kuhii, naa!"[pcms]
+"Naaaaa, aaaaaa, hufuaaa! ...It's so hot, my vagina's[r]
+burning!! Ahh, aaaaaaaa, hiaaaa, kuhii, naa!"[pcms]
 
 ;//Ｂ：オナニー・快感
 [evcg storage="HEV042e"][trans_c cross time=300]
 
 *108|
 [fc]
-Suddenly, Senior Maruko arched her neck back as if struck. She gasped for breath[r]
-and writhed, her long hair dancing with each pant.[pcms]
+Suddenly, Senior Maruko arched her neck back as if struck.[r]
+She gasped for breath and writhed, her long hair dancing[r]
+with each pant.[pcms]
 
 *109|
 [fc]
 [vo_mar s="maru_K0007"]
 [ns]Margarita[nse]
-"...Nn, qaaaa! It's erect! My female penis! It's so hard and pointed!"[pcms]
+"...Nn, qaaaa! It's erect! My female penis! It's so hard and[r]
+pointed!"[pcms]
 
 *110|
 [fc]
 [vo_mar s="maru_K0008"]
 [ns]Margarita[nse]
-"Gihii, i-i-i-iiiiii, it feels so good! Hiihii... too good... I'm dying!"[pcms]
+"Gihii, i-i-i-iiiiii, it feels so good! Hiihii... too[r]
+good... I'm dying!"[pcms]
 
 *111|
 [fc]
-She curled her toes, stretched her legs out stiffly, and roared.[pcms]
+She curled her toes, stretched her legs out stiffly, and[r]
+roared.[pcms]
 
 *112|
 [fc]
-I was the one watching, yet I felt anxious that someone might notice us due to[r]
-how intensely Senior Maruko climaxed.[pcms]
+I was the one watching, yet I felt anxious that someone[r]
+might notice us due to how intensely Senior Maruko climaxed.[pcms]
 
 *113|
 [fc]
 [vo_mar s="maru_K0009"]
 [ns]Margarita[nse]
-"Uaaaaaah, I'm dying, dying! Higyuuuuu! Naaagaaaaaaahhhhhhhhh...!!"[pcms]
+"Uaaaaaah, I'm dying, dying! Higyuuuuu![r]
+Naaagaaaaaaahhhhhhhhh...!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV042f"]
@@ -104,12 +114,13 @@ how intensely Senior Maruko climaxed.[pcms]
 
 *114|
 [fc]
-Sinking into the sheets damp with her own fluids, Senior Maruko caught her[r]
-breath in the afterglow of ecstasy.[pcms]
+Sinking into the sheets damp with her own fluids, Senior[r]
+Maruko caught her breath in the afterglow of ecstasy.[pcms]
 
 *115|
 [fc]
-But even then, the hand placed on her genitals continued to twitch restlessly.[pcms]
+But even then, the hand placed on her genitals continued to[r]
+twitch restlessly.[pcms]
 
 [evcg storage="HEV042h"][trans_c cross time=300]
 
@@ -117,24 +128,26 @@ But even then, the hand placed on her genitals continued to twitch restlessly.[p
 [fc]
 [vo_mar s="maru_K0010"]
 [ns]Margarita[nse]
-"...Zeha---hahaa, ah, hiaaa! I... still need more... not enough!"[pcms]
+"...Zeha---hahaa, ah, hiaaa! I... still need more... not[r]
+enough!"[pcms]
 
 *117|
 [fc]
-Once again her fingertips flickered wickedly as she rubbed her crotch[r]
-vigorously. She seemed unable to control her own actions.[pcms]
+Once again her fingertips flickered wickedly as she rubbed[r]
+her crotch vigorously. She seemed unable to control her own[r]
+actions.[pcms]
 
 *118|
 [fc]
-Senior Maruko's fingers steadily rubbed her clitoris and ceaselessly teased the[r]
-dripping wet slit.[pcms]
+Senior Maruko's fingers steadily rubbed her clitoris and[r]
+ceaselessly teased the dripping wet slit.[pcms]
 
 *119|
 [fc]
 [vo_mar s="maru_K0011"]
 [ns]Margarita[nse]
-"Kihiiii, ah, naaaa, aaaaafuuu! Nhihiii, it's coming again! It's coming![r]
-Uaaaaaaahhhhhhhhhhhaaaahhh...!!"[pcms]
+"Kihiiii, ah, naaaa, aaaaafuuu! Nhihiii, it's coming again![r]
+It's coming! Uaaaaaaahhhhhhhhhhhaaaahhh...!!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV042c"]
@@ -142,8 +155,9 @@ Uaaaaaaahhhhhhhhhhhaaaahhh...!!"[pcms]
 
 *120|
 [fc]
-Her eyelids and lips trembled minutely as Senior Maruko writhed. Her moans were[r]
-nasal and carried an allure that was unimaginable from the usual senior.[pcms]
+Her eyelids and lips trembled minutely as Senior Maruko[r]
+writhed. Her moans were nasal and carried an allure that was[r]
+unimaginable from the usual senior.[pcms]
 
 ;//Ｃ：オナニー・絶頂寸前
 [evcg storage="HEV042h"][trans_c cross time=300]
@@ -152,20 +166,22 @@ nasal and carried an allure that was unimaginable from the usual senior.[pcms]
 [fc]
 [vo_mar s="maru_K0012"]
 [ns]Margarita[nse]
-"...Zehahh, hahh, ah, gaah, hihii! No... can't stop it... it's not ending! It's[r]
-still coming, coming!!"[pcms]
+"...Zehahh, hahh, ah, gaah, hihii! No... can't stop it...[r]
+it's not ending! It's still coming, coming!!"[pcms]
 
 *122|
 [fc]
 [vo_mar s="maru_K0013"]
 [ns]Margarita[nse]
-"Aguahaa, agahh, no... no more...! I'm falling, falling down...!!"[pcms]
+"Aguahaa, agahh, no... no more...! I'm falling, falling[r]
+down...!!"[pcms]
 
 *123|
 [fc]
-The movement of her fingers became intense again. Love juices splashed through[r]
-the gaps between her fingers and the sound of her flesh rubbing obscenely could[r]
-be heard from her crotch.[pcms]
+The movement of her fingers became intense again. Love[r]
+juices splashed through the gaps between her fingers and the[r]
+sound of her flesh rubbing obscenely could be heard from her[r]
+crotch.[pcms]
 
 *124|
 [fc]
@@ -175,15 +191,16 @@ be heard from her crotch.[pcms]
 
 *125|
 [fc]
-Her voice grew higher. Overwhelmed with emotion, she seemed to be crying out.[r]
-Her breaths mixed with moans became hotter and rougher. I naturally gripped the[r]
-door handle tighter.[pcms]
+Her voice grew higher. Overwhelmed with emotion, she seemed[r]
+to be crying out. Her breaths mixed with moans became hotter[r]
+and rougher. I naturally gripped the door handle tighter.[pcms]
 
 *126|
 [fc]
 [vo_mar s="maru_K0015"]
 [ns]Margarita[nse]
-"I'm cumming! Cumcumcumcum! Hihiii! Can't stop it!! Cumcumcumcum!!"[pcms]
+"I'm cumming! Cumcumcumcum! Hihiii! Can't stop it!![r]
+Cumcumcumcum!!"[pcms]
 
 ;//Ｄ：オナニー潮吹き絶頂
 
@@ -199,8 +216,9 @@ door handle tighter.[pcms]
 
 *128|
 [fc]
-I lost count of how many times she had such intense orgasms. She lifted her hips[r]
-as if piercing the heavens and squirted like a fountain from her slit.[pcms]
+I lost count of how many times she had such intense orgasms.[r]
+She lifted her hips as if piercing the heavens and squirted[r]
+like a fountain from her slit.[pcms]
 
 *129|
 [fc]
@@ -213,8 +231,9 @@ as if piercing the heavens and squirted like a fountain from her slit.[pcms]
 
 *130|
 [fc]
-Senior Margarita's body convulsed violently. After writhing in agony for a[r]
-while, she collapsed back onto the bed with a thud.[pcms]
+Senior Margarita's body convulsed violently. After writhing[r]
+in agony for a while, she collapsed back onto the bed with a[r]
+thud.[pcms]
 
 *131|
 [fc]
@@ -224,12 +243,14 @@ while, she collapsed back onto the bed with a thud.[pcms]
 
 *132|
 [fc]
-While gasping for breath and savoring the afterglow, Senior Maruko continued to[r]
-play with her clitoris with her delicate fingers.[pcms]
+While gasping for breath and savoring the afterglow, Senior[r]
+Maruko continued to play with her clitoris with her delicate[r]
+fingers.[pcms]
 
 *133|
 [fc]
-It seemed more like she was soothing herself than seeking further pleasure.[pcms]
+It seemed more like she was soothing herself than seeking[r]
+further pleasure.[pcms]
 
 *134|
 [fc]
@@ -240,12 +261,14 @@ It seemed more like she was soothing herself than seeking further pleasure.[pcms
 
 *135|
 [fc]
-Senior slowly inserted a single finger deep into the folds of flesh.[pcms]
+Senior slowly inserted a single finger deep into the folds[r]
+of flesh.[pcms]
 
 *136|
 [fc]
-After stirring around a few times and pulling out her finger, a bead drenched in[r]
-love juices rolled out from the vagina.[pcms]
+After stirring around a few times and pulling out her[r]
+finger, a bead drenched in love juices rolled out from the[r]
+vagina.[pcms]
 
 *137|
 [fc]
@@ -255,8 +278,9 @@ love juices rolled out from the vagina.[pcms]
 
 *138|
 [fc]
-Senior Maruko gazed lovingly at her finger tips and bead covered in her own[r]
-sticky fluids. Eventually, she slowly brought that finger to her mouth.[pcms]
+Senior Maruko gazed lovingly at her finger tips and bead[r]
+covered in her own sticky fluids. Eventually, she slowly[r]
+brought that finger to her mouth.[pcms]
 
 ;//・口元カットイン　指＆ビー玉舐め
 
@@ -272,8 +296,8 @@ In ecstasy and seemingly intoxicated.[pcms]
 
 *141|
 [fc]
-Senior Maruko continued to lap up her own love juices without tiring for quite[r]
-some time.[pcms]
+Senior Maruko continued to lap up her own love juices[r]
+without tiring for quite some time.[pcms]
 
 *142|
 [fc]
@@ -310,8 +334,8 @@ some time.[pcms]
 
 *147|
 [fc]
-Senior Maruko asked sharply with a strained voice while covering herself with a[r]
-blanket.[pcms]
+Senior Maruko asked sharply with a strained voice while[r]
+covering herself with a blanket.[pcms]
 
 *148|
 [fc]
@@ -319,16 +343,18 @@ What should I do?[pcms]
 
 *149|
 [fc]
-I was unable to think clearly after witnessing such an indecent scene.[pcms]
+I was unable to think clearly after witnessing such an[r]
+indecent scene.[pcms]
 
 *150|
 [fc]
-The room was filled with the lingering presence of Maruko-senpai's intense[r]
-actions, drifting as an alluring fragrance.[pcms]
+The room was filled with the lingering presence of Maruko-[r]
+senpai's intense actions, drifting as an alluring fragrance.[pcms]
 
 *151|
 [fc]
-As if drawn by that scent, I found myself staggering into the nap room.[pcms]
+As if drawn by that scent, I found myself staggering into[r]
+the nap room.[pcms]
 
 [bg storage="BG022"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
@@ -346,13 +372,13 @@ As if drawn by that scent, I found myself staggering into the nap room.[pcms]
 
 *154|
 [fc]
-Maruko-senpai is staring at me with her face flushed red, while covering her[r]
-body with a blanket.[pcms]
+Maruko-senpai is staring at me with her face flushed red,[r]
+while covering her body with a blanket.[pcms]
 
 *155|
 [fc]
-A long, unbearable silence followed. Eventually, Maruko-senpai asked with[r]
-trembling lips and a hoarse voice.[pcms]
+A long, unbearable silence followed. Eventually, Maruko-[r]
+senpai asked with trembling lips and a hoarse voice.[pcms]
 
 *156|
 [fc]
@@ -363,8 +389,8 @@ trembling lips and a hoarse voice.[pcms]
 *157|
 [fc]
 [ns]Wataru[nse]
-"Ah, um, I didn't mean to peep, I just thought I'd take a break, but then, that,[r]
-I just couldn't take my eyes off..."[pcms]
+"Ah, um, I didn't mean to peep, I just thought I'd take a[r]
+break, but then, that, I just couldn't take my eyes off..."[pcms]
 
 *158|
 [fc]
@@ -375,8 +401,8 @@ I just couldn't take my eyes off..."[pcms]
 
 *159|
 [fc]
-In a panic, I desperately apologized, while Maruko-senpai looked at me with eyes[r]
-wide in astonishment.[pcms]
+In a panic, I desperately apologized, while Maruko-senpai[r]
+looked at me with eyes wide in astonishment.[pcms]
 
 *160|
 [fc]
@@ -385,7 +411,8 @@ wide in astonishment.[pcms]
 
 *161|
 [fc]
-Shouting that, I turned on my heel, intending to flee the scene.[pcms]
+Shouting that, I turned on my heel, intending to flee the[r]
+scene.[pcms]
 
 *162|
 [fc]
@@ -395,14 +422,15 @@ Shouting that, I turned on my heel, intending to flee the scene.[pcms]
 
 *163|
 [fc]
-With her voice filled with urgency, as if she had grabbed me by the collar, I[r]
-stopped in my tracks.[pcms]
+With her voice filled with urgency, as if she had grabbed me[r]
+by the collar, I stopped in my tracks.[pcms]
 
 *164|
 [fc]
-The sound of a thick fabric falling reached my ears. The image that the noise[r]
-suggested seized my heart. I was torn. Should I turn around or should I continue[r]
-this conversation without looking back?[pcms]
+The sound of a thick fabric falling reached my ears. The[r]
+image that the noise suggested seized my heart. I was torn.[r]
+Should I turn around or should I continue this conversation[r]
+without looking back?[pcms]
 
 *165|
 [fc]
@@ -412,13 +440,14 @@ Unable to bear it, I turned around.[pcms]
 
 *166|
 [fc]
-Maruko-senpai was kneeling on the bed, her intense gaze fixed on me.[pcms]
+Maruko-senpai was kneeling on the bed, her intense gaze[r]
+fixed on me.[pcms]
 
 *167|
 [fc]
-Every inch of her lustrous skin was dotted with beads of sweat, and from her[r]
-crotch to her genitals, viscous honey glistened, making senpai's body shine[r]
-obscenely.[pcms]
+Every inch of her lustrous skin was dotted with beads of[r]
+sweat, and from her crotch to her genitals, viscous honey[r]
+glistened, making senpai's body shine obscenely.[pcms]
 
 *168|
 [fc]
@@ -428,13 +457,14 @@ obscenely.[pcms]
 
 *169|
 [fc]
-Her flushed cheeks, her moist eyes, I felt like I was being drawn in. I[r]
-swallowed hard.[pcms]
+Her flushed cheeks, her moist eyes, I felt like I was being[r]
+drawn in. I swallowed hard.[pcms]
 
 *170|
 [fc]
-Due to the tension, I could feel the blood returning to my crotch that had[r]
-started to wilt a bit, and I inadvertently checked it with my eyes.[pcms]
+Due to the tension, I could feel the blood returning to my[r]
+crotch that had started to wilt a bit, and I inadvertently[r]
+checked it with my eyes.[pcms]
 
 *171|
 [fc]
@@ -451,8 +481,9 @@ Suddenly, senpai's cheeks turned even redder than before.[pcms]
 
 *174|
 [fc]
-As I tried to make excuses, Maruko-senpai slowly shook her head to interrupt me.[r]
-With a faint sigh, she pleaded in a feverish voice.[pcms]
+As I tried to make excuses, Maruko-senpai slowly shook her[r]
+head to interrupt me. With a faint sigh, she pleaded in a[r]
+feverish voice.[pcms]
 
 *175|
 [fc]
@@ -462,29 +493,33 @@ With a faint sigh, she pleaded in a feverish voice.[pcms]
 
 *176|
 [fc]
-We looked at each other in silence. Gradually, Maruko-senpai's beautiful face[r]
-came closer.[pcms]
+We looked at each other in silence. Gradually, Maruko-[r]
+senpai's beautiful face came closer.[pcms]
 
 *177|
 [fc]
-...No, it was me who was being drawn in, as if pulled towards her.[pcms]
+...No, it was me who was being drawn in, as if pulled[r]
+towards her.[pcms]
 
 *178|
 [fc]
 [vo_mar s="maru_K0031"]
 [ns]Margarita[nse]
-"...I can't stop it, Wataru... No matter how many times I do it, no matter how[r]
-many times I come... I can't stop... I can't do it alone anymore..."[pcms]
+"...I can't stop it, Wataru... No matter how many times I do[r]
+it, no matter how many times I come... I can't stop... I[r]
+can't do it alone anymore..."[pcms]
 
 *179|
 [fc]
-Senpai's face, filled with tension and anticipation, was close at hand. I could[r]
-feel the warmth of her body heightened by the earlier activities.[pcms]
+Senpai's face, filled with tension and anticipation, was[r]
+close at hand. I could feel the warmth of her body[r]
+heightened by the earlier activities.[pcms]
 
 *180|
 [fc]
-The faintly sharp and lewd fragrance of sweat on Maruko-senpai's skin and the[r]
-honey dripping from her pussy violated my reason.[pcms]
+The faintly sharp and lewd fragrance of sweat on Maruko-[r]
+senpai's skin and the honey dripping from her pussy violated[r]
+my reason.[pcms]
 
 *181|
 [fc]
@@ -500,8 +535,8 @@ I can't hold back anymore.[pcms]
 
 *183|
 [fc]
-I collided with Maruko-senpai's body as if covering her. Even taking off clothes[r]
-felt too slow.[pcms]
+I collided with Maruko-senpai's body as if covering her.[r]
+Even taking off clothes felt too slow.[pcms]
 
 ;//〆ＨＥＶ０６０
 ;//マル子・パイズリフェラ／マル子／
@@ -515,23 +550,24 @@ felt too slow.[pcms]
 [fc]
 [vo_mar s="maru_K0032"]
 [ns]Margarita[nse]
-"Amazing... Wataru... You're so strong, unlike your face... fufufu..."[pcms]
+"Amazing... Wataru... You're so strong, unlike your face...[r]
+fufufu..."[pcms]
 
 *185|
 [fc]
-As she whispered that, senpai covered my lower half with her body, trapping my[r]
-dick between her ample breasts.[pcms]
+As she whispered that, senpai covered my lower half with her[r]
+body, trapping my dick between her ample breasts.[pcms]
 
 *186|
 [fc]
-While letting out hot breaths, Maruko-senpai kneaded her breasts, stimulating my[r]
-dick.[pcms]
+While letting out hot breaths, Maruko-senpai kneaded her[r]
+breasts, stimulating my dick.[pcms]
 
 *187|
 [fc]
-The sensation of being enveloped by her soft, slightly sweaty skin was different[r]
-from using hands, bringing a sweet pleasure to my membranes as if being rocked[r]
-in a cradle.[pcms]
+The sensation of being enveloped by her soft, slightly[r]
+sweaty skin was different from using hands, bringing a sweet[r]
+pleasure to my membranes as if being rocked in a cradle.[pcms]
 
 *188|
 [fc]
@@ -539,54 +575,60 @@ But there was one thing that worried me.[pcms]
 
 *189|
 [fc]
-Somehow, Maruko-senpai's eyes seemed to shine red... Could it be my imagination?[pcms]
+Somehow, Maruko-senpai's eyes seemed to shine red... Could[r]
+it be my imagination?[pcms]
 
 *190|
 [fc]
 [vo_mar s="maru_K0033"]
 [ns]Margarita[nse]
-"Fufufu... Looks like there's something worth sucking on... ...hmmn!"[pcms]
+"Fufufu... Looks like there's something worth sucking on...[r]
+...hmmn!"[pcms]
 
 [evcg storage="HEV061h"][trans_c cross time=300]
 
 *191|
 [fc]
-With a happy smile, Maruko-senpai looked down and nibbled on the slick tip of[r]
-the dick poking out from between her breasts.[pcms]
+With a happy smile, Maruko-senpai looked down and nibbled on[r]
+the slick tip of the dick poking out from between her[r]
+breasts.[pcms]
 
 *192|
 [fc]
 [ns]Wataru[nse]
-"Eh... Se-Senpai?! You don't have to... su-suck it... Ah, aahh...!!"[pcms]
+"Eh... Se-Senpai?! You don't have to... su-suck it... Ah,[r]
+aahh...!!"[pcms]
 
 *193|
 [fc]
 [vo_mar s="maru_K0034"]
 [ns]Margarita[nse]
-"Nmmuuh, mutch, nnn, guh, puhfu...! You smell so good, Wataru...[r]
-nngung...lick..."[pcms]
+"Nmmuuh, mutch, nnn, guh, puhfu...! You smell so good,[r]
+Wataru... nngung...lick..."[pcms]
 
 *194|
 [fc]
-Whether she heard my words or not, senpai murmured with a melting expression and[r]
-sucked on the glans as if it were candy.[pcms]
+Whether she heard my words or not, senpai murmured with a[r]
+melting expression and sucked on the glans as if it were[r]
+candy.[pcms]
 
 *195|
 [fc]
 [vo_mar s="maru_K0035"]
 [ns]Margarita[nse]
-"Puhah... It's already overflowing from the tip... nmmutchu, chu... I'll lick it[r]
-all up... nnn, amu, nnn... nggguh..."[pcms]
+"Puhah... It's already overflowing from the tip... nmmutchu,[r]
+chu... I'll lick it all up... nnn, amu, nnn... nggguh..."[pcms]
 
 *196|
 [fc]
-The sensation of her tongue crawling over the surface of my mucous membrane. I[r]
-clenched my butt muscles and writhed in agony.[pcms]
+The sensation of her tongue crawling over the surface of my[r]
+mucous membrane. I clenched my butt muscles and writhed in[r]
+agony.[pcms]
 
 *197|
 [fc]
-Never had I imagined that being loved by a woman's lips could bring such[r]
-pleasure.[pcms]
+Never had I imagined that being loved by a woman's lips[r]
+could bring such pleasure.[pcms]
 
 *198|
 [fc]
@@ -595,7 +637,8 @@ pleasure.[pcms]
 
 *199|
 [fc]
-A pitiful voice escaped me. But the torrent of pleasure was unstoppable.[pcms]
+A pitiful voice escaped me. But the torrent of pleasure was[r]
+unstoppable.[pcms]
 
 ;//Ｃ：口の中に射精されるマル子（Ｂの液差分）
 ;//ホワイトスラッシュ
@@ -605,8 +648,9 @@ A pitiful voice escaped me. But the torrent of pleasure was unstoppable.[pcms]
 
 *200|
 [fc]
-In an instant, a thick sensation crawled up from deep within my hips. I had no[r]
-time to resist. I gasped miserably and my hips crumbled.[pcms]
+In an instant, a thick sensation crawled up from deep within[r]
+my hips. I had no time to resist. I gasped miserably and my[r]
+hips crumbled.[pcms]
 
 *201|
 [fc]
@@ -621,9 +665,10 @@ time to resist. I gasped miserably and my hips crumbled.[pcms]
 
 *203|
 [fc]
-While apologizing, I desperately pushed my erection into Senpai's mouth and[r]
-released a grand load. I felt the large amount of semen filling Maruko-senpai's[r]
-small mouth through the membrane.[pcms]
+While apologizing, I desperately pushed my erection into[r]
+Senpai's mouth and released a grand load. I felt the large[r]
+amount of semen filling Maruko-senpai's small mouth through[r]
+the membrane.[pcms]
 
 *204|
 [fc]
@@ -633,57 +678,58 @@ small mouth through the membrane.[pcms]
 
 *205|
 [fc]
-The tip of my penis made an embarrassingly loud sound as it released semen, and[r]
-all I could do was watch in misery.[pcms]
+The tip of my penis made an embarrassingly loud sound as it[r]
+released semen, and all I could do was watch in misery.[pcms]
 
 *206|
 [fc]
 [vo_mar s="maru_K0038"]
 [ns]Margarita[nse]
-"...amazing, Wataru... you came out so much... It's unbelievably smelly and[r]
-thick... mmm..."[pcms]
+"...amazing, Wataru... you came out so much... It's[r]
+unbelievably smelly and thick... mmm..."[pcms]
 ;//＠口の中に液体あり
 
 *207|
 [fc]
-With a moist voice, Maruko-senpai extended her tongue and showed off the large[r]
-amount of semen released in her mouth.[pcms]
+With a moist voice, Maruko-senpai extended her tongue and[r]
+showed off the large amount of semen released in her mouth.[pcms]
 
 *208|
 [fc]
-Even though I was the one who released it, the amount and concentration were[r]
-unbelievable.[pcms]
+Even though I was the one who released it, the amount and[r]
+concentration were unbelievable.[pcms]
 
 *209|
 [fc]
 [vo_mar s="maru_K0039"]
 [ns]Margarita[nse]
-"Mmm... kuchu, kucha... it's really thick... like jelly... kuchakucha... It's[r]
-sticky and clings to my throat..."[pcms]
+"Mmm... kuchu, kucha... it's really thick... like jelly...[r]
+kuchakucha... It's sticky and clings to my throat..."[pcms]
 ;//＠口の中に液体あり
 
 *210|
 [fc]
-Maruko-senpai savored the semen in her mouth with a lewd smile as if chewing on[r]
-it.[pcms]
+Maruko-senpai savored the semen in her mouth with a lewd[r]
+smile as if chewing on it.[pcms]
 
 *211|
 [fc]
 [vo_mar s="maru_K0040"]
 [ns]Margarita[nse]
-"Kucha, kucha... With it being this thick, you must have been holding back quite[r]
-a bit, haven't you? Kukuku..."[pcms]
+"Kucha, kucha... With it being this thick, you must have[r]
+been holding back quite a bit, haven't you? Kukuku..."[pcms]
 ;//＠口の中に液体あり
 
 *212|
 [fc]
-For a while, Senpai continued to play with the liquid in her mouth with the tip[r]
-of her tongue. The chewed and stirred semen gradually began to foam.[pcms]
+For a while, Senpai continued to play with the liquid in her[r]
+mouth with the tip of her tongue. The chewed and stirred[r]
+semen gradually began to foam.[pcms]
 
 *213|
 [fc]
-The juice overflowed from the corner of her lips and trickled down towards her[r]
-chin.[pcms]
+The juice overflowed from the corner of her lips and[r]
+trickled down towards her chin.[pcms]
 
 ;//Ｅ：飲み干すマル子
 [evcg storage="HEV061k"][trans_c cross time=300]
@@ -692,12 +738,13 @@ chin.[pcms]
 [fc]
 [vo_mar s="maru_K0041"]
 [ns]Margarita[nse]
-"Mmm, gulp... gulp... delicious... So this is the taste of Wataru's semen...[r]
-gulp... gulp. It's truly flavorful..."[pcms]
+"Mmm, gulp... gulp... delicious... So this is the taste of[r]
+Wataru's semen... gulp... gulp. It's truly flavorful..."[pcms]
 
 *215|
 [fc]
-Eventually, Maruko-senpai swallowed the foamed liquid with a gulp.[pcms]
+Eventually, Maruko-senpai swallowed the foamed liquid with a[r]
+gulp.[pcms]
 
 ;//Ｆ：飲み終わったことを見せるマル子（Ｄの液無し）
 [evcg storage="HEV061k"][trans_c cross time=300]
@@ -706,13 +753,13 @@ Eventually, Maruko-senpai swallowed the foamed liquid with a gulp.[pcms]
 [fc]
 [vo_mar s="maru_K0042"]
 [ns]Margarita[nse]
-"...look, Wataru... I've drunk it all up, your sperm... It was very delicious...[r]
-Fufufufu..."[pcms]
+"...look, Wataru... I've drunk it all up, your sperm... It[r]
+was very delicious... Fufufufu..."[pcms]
 
 *217|
 [fc]
-Senpai opened her mouth to show me that she had swallowed everything. Her tongue[r]
-flickered seductively.[pcms]
+Senpai opened her mouth to show me that she had swallowed[r]
+everything. Her tongue flickered seductively.[pcms]
 
 *218|
 [fc]
@@ -726,8 +773,8 @@ Seeing that, I quickly regained my vigor.[pcms]
 
 *220|
 [fc]
-Looking at me brimming with energy, Senpai made a face as if she was melting in[r]
-depravity.[pcms]
+Looking at me brimming with energy, Senpai made a face as if[r]
+she was melting in depravity.[pcms]
 
 ;//〆黒画面
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -746,44 +793,49 @@ depravity.[pcms]
 
 *222|
 [fc]
-Senpai's naked body covered my field of vision. The sight alone was shocking,[r]
-but Maruko-senpai's bare skin retained the afterglow of masturbation; it was[r]
-flushed with heat and moist with sweat and love juices, which was incredibly[r]
+Senpai's naked body covered my field of vision. The sight[r]
+alone was shocking, but Maruko-senpai's bare skin retained[r]
+the afterglow of masturbation; it was flushed with heat and[r]
+moist with sweat and love juices, which was incredibly[r]
 stimulating.[pcms]
 
 *223|
 [fc]
-Maruko-senpai's white fingers grabbed my manhood and angled it towards her slit.[r]
-Just the thought of entering Senpai's vagina made me even more excited.[pcms]
+Maruko-senpai's white fingers grabbed my manhood and angled[r]
+it towards her slit. Just the thought of entering Senpai's[r]
+vagina made me even more excited.[pcms]
 
 *224|
 [fc]
 [vo_mar s="maru_K0045"]
 [ns]Margarita[nse]
-"Fufufu... Wataru... now, as much as you want... You can play with it any way[r]
-you like..."[pcms]
+"Fufufu... Wataru... now, as much as you want... You can[r]
+play with it any way you like..."[pcms]
 
 *225|
 [fc]
-Suddenly prompted by her words, I reached out without thinking. Maruko-senpai[r]
-guided my hand to her ample breasts.[pcms]
+Suddenly prompted by her words, I reached out without[r]
+thinking. Maruko-senpai guided my hand to her ample breasts.[pcms]
 
 *226|
 [fc]
-She smiled at my surprise and urged me to knead them with the movement of her[r]
-fingers. Swallowing hard, I followed Senpai's instructions.[pcms]
+She smiled at my surprise and urged me to knead them with[r]
+the movement of her fingers. Swallowing hard, I followed[r]
+Senpai's instructions.[pcms]
 
 *227|
 [fc]
 [vo_mar s="maru_K0046"]
 [ns]Margarita[nse]
-"I want you to stay with me until I'm satisfied today. ...In return, I'll take[r]
-as much as you want until you're satisfied..."[pcms]
+"I want you to stay with me until I'm satisfied today. ...In[r]
+return, I'll take as much as you want until you're[r]
+satisfied..."[pcms]
 
 *228|
 [fc]
 [ns]Wataru[nse]
-"Yes... I want to insert it quickly. Please, Maruko-senpai..."[pcms]
+"Yes... I want to insert it quickly. Please, Maruko-[r]
+senpai..."[pcms]
 
 *229|
 [fc]
@@ -793,8 +845,8 @@ as much as you want until you're satisfied..."[pcms]
 
 *230|
 [fc]
-In response to my plea, Senpai nodded silently. She reached for my penis again[r]
-and took aim once more.[pcms]
+In response to my plea, Senpai nodded silently. She reached[r]
+for my penis again and took aim once more.[pcms]
 
 ;//Ｂ：破瓜
 [evcg storage="HEV044l"][trans_c cross time=300]
@@ -812,8 +864,9 @@ and took aim once more.[pcms]
 
 *233|
 [fc]
-The sensation of my glans being enveloped by hot, moist folds made me groan. But[r]
-Senpai's expression also seemed to be one of intense discomfort.[pcms]
+The sensation of my glans being enveloped by hot, moist[r]
+folds made me groan. But Senpai's expression also seemed to[r]
+be one of intense discomfort.[pcms]
 
 *234|
 [fc]
@@ -823,8 +876,9 @@ Senpai's expression also seemed to be one of intense discomfort.[pcms]
 
 *235|
 [fc]
-It seemed like we could join even deeper, but the tip met strong resistance and[r]
-Senpai couldn't lower her hips any further.[pcms]
+It seemed like we could join even deeper, but the tip met[r]
+strong resistance and Senpai couldn't lower her hips any[r]
+further.[pcms]
 
 *236|
 [fc]
@@ -834,8 +888,9 @@ Senpai couldn't lower her hips any further.[pcms]
 
 *237|
 [fc]
-After a sensation like something snapped, I felt my erect member cut into a warm[r]
-and narrow space all the way to the base.[pcms]
+After a sensation like something snapped, I felt my erect[r]
+member cut into a warm and narrow space all the way to the[r]
+base.[pcms]
 
 *238|
 [fc]
@@ -845,9 +900,9 @@ and narrow space all the way to the base.[pcms]
 
 *239|
 [fc]
-The high-pitched and lovely scream from Maruko-senpai was something I heard for[r]
-the first time. Overlapping with that voice, I also let out a cry of joy[r]
-involuntarily.[pcms]
+The high-pitched and lovely scream from Maruko-senpai was[r]
+something I heard for the first time. Overlapping with that[r]
+voice, I also let out a cry of joy involuntarily.[pcms]
 
 *240|
 [fc]
@@ -857,23 +912,27 @@ involuntarily.[pcms]
 
 *241|
 [fc]
-Perhaps due to Maruko-senpai's well-trained abdominal muscles, the grip strength[r]
-of her vagina was unusually strong.[pcms]
+Perhaps due to Maruko-senpai's well-trained abdominal[r]
+muscles, the grip strength of her vagina was unusually[r]
+strong.[pcms]
 
 *242|
 [fc]
-Yet the complexly folded flesh and the stickiness of the love juices filling the[r]
-gaps, along with the softness of the mucous membranes sweetly enveloped me. It[r]
-was murderously pleasurable.[pcms]
+Yet the complexly folded flesh and the stickiness of the[r]
+love juices filling the gaps, along with the softness of the[r]
+mucous membranes sweetly enveloped me. It was murderously[r]
+pleasurable.[pcms]
 
 *243|
 [fc]
-Just by inserting it, an ejaculation-like sensation surged up immediately.[pcms]
+Just by inserting it, an ejaculation-like sensation surged[r]
+up immediately.[pcms]
 
 *244|
 [fc]
-I tensed my abdominal muscles desperately trying to hold back. Clenching my[r]
-teeth, I looked up at Senpai's naked body.[pcms]
+I tensed my abdominal muscles desperately trying to hold[r]
+back. Clenching my teeth, I looked up at Senpai's naked[r]
+body.[pcms]
 
 ;//Ｃ：告白（Ａのチンコ挿入差分）
 [evcg storage="HEV044q"][trans_c cross time=300]
@@ -882,13 +941,15 @@ teeth, I looked up at Senpai's naked body.[pcms]
 [fc]
 [vo_mar s="maru_K0053"]
 [ns]Margarita[nse]
-"Haah, haah... fufufufu, hahaha, it's in... it's inside, fufufu..."[pcms]
+"Haah, haah... fufufufu, hahaha, it's in... it's inside,[r]
+fufufu..."[pcms]
 
 *246|
 [fc]
-Maruko-senpai frowned with an agonized expression and moaned. Her entire body[r]
-trembled finely around the part where my manhood had penetrated. Her unusual[r]
-reaction made me feel anxious.[pcms]
+Maruko-senpai frowned with an agonized expression and[r]
+moaned. Her entire body trembled finely around the part[r]
+where my manhood had penetrated. Her unusual reaction made[r]
+me feel anxious.[pcms]
 
 *247|
 [fc]
@@ -897,13 +958,15 @@ reaction made me feel anxious.[pcms]
 
 *248|
 [fc]
-To my question, Senpai once again forced a strained smile and shook her head.[pcms]
+To my question, Senpai once again forced a strained smile[r]
+and shook her head.[pcms]
 
 *249|
 [fc]
 [vo_mar s="maru_K0054"]
 [ns]Margarita[nse]
-"Fufufu... don't worry. It's just that I'm not used to this yet..."[pcms]
+"Fufufu... don't worry. It's just that I'm not used to this[r]
+yet..."[pcms]
 
 *250|
 [fc]
@@ -914,53 +977,58 @@ To my question, Senpai once again forced a strained smile and shook her head.[pc
 [fc]
 [vo_mar s="maru_K0055"]
 [ns]Margarita[nse]
-"Men are amazing... To penetrate so deeply... aahhh... so hot and hard, reaching[r]
-all the way inside... fufufu..."[pcms]
+"Men are amazing... To penetrate so deeply... aahhh... so[r]
+hot and hard, reaching all the way inside... fufufu..."[pcms]
 
 *252|
 [fc]
-I was at a loss for words for a moment. She had seemed so experienced, and she[r]
-even came onto me herself, so I had just assumed she had done this before.[pcms]
+I was at a loss for words for a moment. She had seemed so[r]
+experienced, and she even came onto me herself, so I had[r]
+just assumed she had done this before.[pcms]
 
 *253|
 [fc]
 [ns]Wataru[nse]
-"Are you... are you okay?! If it's your first time... doesn't it hurt a lot...?"[pcms]
+"Are you... are you okay?! If it's your first time...[r]
+doesn't it hurt a lot...?"[pcms]
 
 *254|
 [fc]
 [vo_mar s="maru_K0056"]
 [ns]Margarita[nse]
-"No need to worry. It does hurt a bit... but for some reason, even this pain[r]
-feels pleasant. Strange, isn't it... fufufu..."[pcms]
+"No need to worry. It does hurt a bit... but for some[r]
+reason, even this pain feels pleasant. Strange, isn't it...[r]
+fufufu..."[pcms]
 
 *255|
 [fc]
-While her body trembled, as time passed since the insertion, she seemed to get[r]
-used to it somewhat, and Maruko-senpai shook her head with a bit more composure.[pcms]
+While her body trembled, as time passed since the insertion,[r]
+she seemed to get used to it somewhat, and Maruko-senpai[r]
+shook her head with a bit more composure.[pcms]
 
 *256|
 [fc]
 [ns]Wataru[nse]
-"...Is it really okay that I'm your first...? Are you sure you're happy with[r]
-that?"[pcms]
+"...Is it really okay that I'm your first...? Are you sure[r]
+you're happy with that?"[pcms]
 
 *257|
 [fc]
 [vo_mar s="maru_K0057"]
 [ns]Margarita[nse]
-"Of course, I'm delighted, fufufu... But right now, forget about that...[r]
-focus..."[pcms]
+"Of course, I'm delighted, fufufu... But right now, forget[r]
+about that... focus..."[pcms]
 
 *258|
 [fc]
-Without giving me a chance to ask any more questions, Senpai slowly began to[r]
-move her hips.[pcms]
+Without giving me a chance to ask any more questions, Senpai[r]
+slowly began to move her hips.[pcms]
 
 *259|
 [fc]
-The dick was tightly compressed with no gaps, and the sensation of being licked[r]
-by the wet folds made my breath catch.[pcms]
+The dick was tightly compressed with no gaps, and the[r]
+sensation of being licked by the wet folds made my breath[r]
+catch.[pcms]
 
 ;//Ｄ：快感
 [evcg storage="HEV044m"][trans_c cross time=300]
@@ -978,29 +1046,31 @@ by the wet folds made my breath catch.[pcms]
 
 *262|
 [fc]
-It felt as if the center of pleasure was being grasped and I was suspended in[r]
-mid-air.[pcms]
+It felt as if the center of pleasure was being grasped and I[r]
+was suspended in mid-air.[pcms]
 
 *263|
 [fc]
-While being toyed with, I responded to Senpai's dedication by kneading the[r]
-breasts she pushed into my hands and thrusting my hips up as if to wriggle.[pcms]
+While being toyed with, I responded to Senpai's dedication[r]
+by kneading the breasts she pushed into my hands and[r]
+thrusting my hips up as if to wriggle.[pcms]
 
 *264|
 [fc]
-At first, Senpai was awkward, but before long she seemed to get the hang of it,[r]
-and her movements became smoother.[pcms]
+At first, Senpai was awkward, but before long she seemed to[r]
+get the hang of it, and her movements became smoother.[pcms]
 
 *265|
 [fc]
 [vo_mar s="maru_K0059"]
 [ns]Margarita[nse]
-"...How is it, Wataru...? Does my vagina feel good? Fufufu..."[pcms]
+"...How is it, Wataru...? Does my vagina feel good?[r]
+Fufufu..."[pcms]
 
 *266|
 [fc]
-Without unnecessarily lifting her hips, Senpai pressed her butt against my body[r]
-and began to swing her entire waist.[pcms]
+Without unnecessarily lifting her hips, Senpai pressed her[r]
+butt against my body and began to swing her entire waist.[pcms]
 
 *267|
 [fc]
@@ -1009,33 +1079,35 @@ and began to swing her entire waist.[pcms]
 
 *268|
 [fc]
-Writhing from the twisting stimulation, I also desperately shook my hips in[r]
-response.[pcms]
+Writhing from the twisting stimulation, I also desperately[r]
+shook my hips in response.[pcms]
 
 *269|
 [fc]
 [ns]Wataru[nse]
-"It's incredibly tight, hot, and moist... It's like being enveloped by Maruko[r]
-Senpai's tongue... being squeezed tight...!"[pcms]
+"It's incredibly tight, hot, and moist... It's like being[r]
+enveloped by Maruko Senpai's tongue... being squeezed[r]
+tight...!"[pcms]
 
 *270|
 [fc]
-Blushing at my expression, Maruko Senpai nodded happily and then began to move[r]
-her hips even more vigorously. The lewd rhythm echoed from where we were joined[r]
-with a squelching sound.[pcms]
+Blushing at my expression, Maruko Senpai nodded happily and[r]
+then began to move her hips even more vigorously. The lewd[r]
+rhythm echoed from where we were joined with a squelching[r]
+sound.[pcms]
 
 *271|
 [fc]
 [vo_mar s="maru_K0060"]
 [ns]Margarita[nse]
-"Fufufufu, is that so...? That's good to hear. I also... find it quite...[r]
-nice... nnh."[pcms]
+"Fufufufu, is that so...? That's good to hear. I also...[r]
+find it quite... nice... nnh."[pcms]
 
 *272|
 [fc]
-Maruko Senpai spilled out as if overwhelmed by emotion. The amount of honey had[r]
-increased since she welcomed me in, and I could tell that the vaginal walls had[r]
-become even hotter.[pcms]
+Maruko Senpai spilled out as if overwhelmed by emotion. The[r]
+amount of honey had increased since she welcomed me in, and[r]
+I could tell that the vaginal walls had become even hotter.[pcms]
 
 *273|
 [fc]
@@ -1045,53 +1117,58 @@ Senpai was beginning to feel pleasure.[pcms]
 [fc]
 [vo_mar s="maru_K0061"]
 [ns]Margarita[nse]
-"Like this... nnhnnn... every time I lower my hips, your sturdy penis rubs[r]
-against me... Nnh, nn...!"[pcms]
+"Like this... nnhnnn... every time I lower my hips, your[r]
+sturdy penis rubs against me... Nnh, nn...!"[pcms]
 
 *275|
 [fc]
 [vo_mar s="maru_K0062"]
 [ns]Margarita[nse]
-"And when I lift my hips up... haaah, nnh, nnguh, it catches on the folds of my[r]
-vagina... and that feeling... aah, aunnn, is indescribable..."[pcms]
+"And when I lift my hips up... haaah, nnh, nnguh, it catches[r]
+on the folds of my vagina... and that feeling... aah, aunnn,[r]
+is indescribable..."[pcms]
 
 *276|
 [fc]
 [ns]Wataru[nse]
-"...Yes, stirring... My thing is stirring the honey overflowing inside Maruko[r]
-Senpai's vagina... stirring it... uah, aaaaah...!!"[pcms]
+"...Yes, stirring... My thing is stirring the honey[r]
+overflowing inside Maruko Senpai's vagina... stirring it...[r]
+uah, aaaaah...!!"[pcms]
 
 *277|
 [fc]
-We nodded at each other, and Maruko Senpai and I synchronized our hip movements.[pcms]
+We nodded at each other, and Maruko Senpai and I[r]
+synchronized our hip movements.[pcms]
 
 *278|
 [fc]
-Maruko Senpai's beautiful slit was distorted painfully as it enveloped my thick[r]
-one. With each thrust, white, cloudy love juices spilled out, wetting our[r]
-groins.[pcms]
+Maruko Senpai's beautiful slit was distorted painfully as it[r]
+enveloped my thick one. With each thrust, white, cloudy love[r]
+juices spilled out, wetting our groins.[pcms]
 
 *279|
 [fc]
-The intense friction was like a suicidal act for me, who was on the verge of[r]
-leaking the moment I entered. It heightened all at once.[pcms]
+The intense friction was like a suicidal act for me, who was[r]
+on the verge of leaking the moment I entered. It heightened[r]
+all at once.[pcms]
 
 *280|
 [fc]
 [ns]Wataru[nse]
-"Kuaa, aah, aah... Senpai, no good... I, I'm already... I'm about to come out...[r]
-I'm sorry... aah...!!"[pcms]
+"Kuaa, aah, aah... Senpai, no good... I, I'm already... I'm[r]
+about to come out... I'm sorry... aah...!!"[pcms]
 
 *281|
 [fc]
 [vo_mar s="maru_K0063"]
 [ns]Margarita[nse]
-"Fufufufu... is that so. Just let it out... nnh, nhaaah, aahhh...!"[pcms]
+"Fufufufu... is that so. Just let it out... nnh, nhaaah,[r]
+aahhh...!"[pcms]
 
 *282|
 [fc]
-While saying that, Maruko Senpai leaned her body towards me, deepening our[r]
-connection willingly and twisting her hips.[pcms]
+While saying that, Maruko Senpai leaned her body towards me,[r]
+deepening our connection willingly and twisting her hips.[pcms]
 
 *283|
 [fc]
@@ -1102,28 +1179,29 @@ connection willingly and twisting her hips.[pcms]
 [fc]
 [vo_mar s="maru_K0064"]
 [ns]Margarita[nse]
-"Haaah, aah, ah... I won't allow you to pull out... Until I'm satisfied... it's[r]
-no good... Just like that... inside...! Nnh... aguahh, hah!"[pcms]
+"Haaah, aah, ah... I won't allow you to pull out... Until[r]
+I'm satisfied... it's no good... Just like that...[r]
+inside...! Nnh... aguahh, hah!"[pcms]
 
 *285|
 [fc]
 [vo_mar s="maru_K0065"]
 [ns]Margarita[nse]
-"Inside... cum... let it out many times...! Over and over again... aaaaahhh,[r]
-hihiiii, yessss!"[pcms]
+"Inside... cum... let it out many times...! Over and over[r]
+again... aaaaahhh, hihiiii, yessss!"[pcms]
 
 *286|
 [fc]
-I hesitated, trying to endure it, but as soon as I was led to the narrow space[r]
-deep inside, my senses sharpened. I could feel the hot impulse contracting to a[r]
-single point.[pcms]
+I hesitated, trying to endure it, but as soon as I was led[r]
+to the narrow space deep inside, my senses sharpened. I[r]
+could feel the hot impulse contracting to a single point.[pcms]
 
 *287|
 [fc]
 [vo_mar s="maru_K0066"]
 [ns]Margarita[nse]
-"Nnh, aaaaahhh, aahh, hurry...! Hurry, hurry, I can't wait any longer...[r]
-aaaaahhh!"[pcms]
+"Nnh, aaaaahhh, aahh, hurry...! Hurry, hurry, I can't wait[r]
+any longer... aaaaahhh!"[pcms]
 
 ;//Ｅ：射精
 ;//ホワイトスラッシュ
@@ -1133,25 +1211,27 @@ aaaaahhh!"[pcms]
 
 *288|
 [fc]
-My heart throbbed powerfully, and droplets leaked from the tip. The next moment[r]
-I thought it was pointless to endure any longer, it burst forth all at once.[pcms]
+My heart throbbed powerfully, and droplets leaked from the[r]
+tip. The next moment I thought it was pointless to endure[r]
+any longer, it burst forth all at once.[pcms]
 
 *289|
 [fc]
 [vo_mar s="maru_K0067"]
 [ns]Margarita[nse]
-"Nfuuuuh!! Nhaaahhh... ah, ah, aahhh! It's hitting...! The semen is... ah,[r]
-again!? It's hitting, hitting... inside meee...!!"[pcms]
+"Nfuuuuh!! Nhaaahhh... ah, ah, aahhh! It's hitting...! The[r]
+semen is... ah, again!? It's hitting, hitting... inside[r]
+meee...!!"[pcms]
 
 *290|
 [fc]
-Guided by the rapidly overflowing fluids inside her, Maruko Senpai also reaches[r]
-climax.[pcms]
+Guided by the rapidly overflowing fluids inside her, Maruko[r]
+Senpai also reaches climax.[pcms]
 
 *291|
 [fc]
-She closes her eyelids, sticks out her tongue, convulses her limbs, and gasps in[r]
-ecstasy.[pcms]
+She closes her eyelids, sticks out her tongue, convulses her[r]
+limbs, and gasps in ecstasy.[pcms]
 
 *292|
 [fc]
@@ -1161,34 +1241,35 @@ ecstasy.[pcms]
 
 *293|
 [fc]
-Deeply connected, I release my seed further and further inside. With each splash[r]
-against her womb, Senpai twitches and jerks her body, shaking her breasts[r]
-lewdly.[pcms]
+Deeply connected, I release my seed further and further[r]
+inside. With each splash against her womb, Senpai twitches[r]
+and jerks her body, shaking her breasts lewdly.[pcms]
 
 *294|
 [fc]
 [vo_mar s="maru_K0069"]
 [ns]Margarita[nse]
-"...Aaaaahhh, ahh... it's still... coming out... twitching and spilling...[r]
-ahhfuu..."[pcms]
+"...Aaaaahhh, ahh... it's still... coming out... twitching[r]
+and spilling... ahhfuu..."[pcms]
 
 ;//Ｆ：恍惚
 [evcg storage="HEV044s"][trans_c cross time=300]
 
 *295|
 [fc]
-Still connected, we gaze at each other. Maruko Senpai had a melting expression[r]
-of immense happiness.[pcms]
+Still connected, we gaze at each other. Maruko Senpai had a[r]
+melting expression of immense happiness.[pcms]
 
 *296|
 [fc]
-While captivated by that expression, I secretly fear the shock of what I've[r]
-done.[pcms]
+While captivated by that expression, I secretly fear the[r]
+shock of what I've done.[pcms]
 
 *297|
 [fc]
-I came inside Maruko Senpai, who was inexperienced. Even though it was what she[r]
-wanted, was it really, thank goodness?[pcms]
+I came inside Maruko Senpai, who was inexperienced. Even[r]
+though it was what she wanted, was it really, thank[r]
+goodness?[pcms]
 
 *298|
 [fc]
@@ -1198,24 +1279,25 @@ wanted, was it really, thank goodness?[pcms]
 
 *299|
 [fc]
-While I was worried about it, my dick was still reluctantly releasing more seed.[pcms]
+While I was worried about it, my dick was still reluctantly[r]
+releasing more seed.[pcms]
 
 *300|
 [fc]
-Feeling Maruko-senpai's hot sighs against my lower abdomen, I turned my face[r]
-away in an unbearable feeling.[pcms]
+Feeling Maruko-senpai's hot sighs against my lower abdomen,[r]
+I turned my face away in an unbearable feeling.[pcms]
 
 *301|
 [fc]
-Above me, Maruko-senpai looked puzzled, slightly swaying her body. Just as I was[r]
-about to ask what's wrong,[pcms]
+Above me, Maruko-senpai looked puzzled, slightly swaying her[r]
+body. Just as I was about to ask what's wrong,[pcms]
 
 *302|
 [fc]
 [vo_mar s="maru_K0071"]
 [ns]Margarita[nse]
-"The moment Wataru exploded... his penis hit my womb... over and over... it[r]
-overflowed... fufufu..."[pcms]
+"The moment Wataru exploded... his penis hit my womb... over[r]
+and over... it overflowed... fufufu..."[pcms]
 
 *303|
 [fc]
@@ -1225,8 +1307,9 @@ Senpai began to vividly describe the changes in me.[pcms]
 [fc]
 [vo_mar s="maru_K0072"]
 [ns]Margarita[nse]
-"Wataru is overflowing more and more... fufufu..., ...inside me... fufu, ufufu,[r]
-ahahahaha..., I've been made so messy... hahahaha...!"[pcms]
+"Wataru is overflowing more and more... fufufu..., ...inside[r]
+me... fufu, ufufu, ahahahaha..., I've been made so messy...[r]
+hahahaha...!"[pcms]
 
 *305|
 [fc]
@@ -1234,13 +1317,13 @@ What is it, something feels incredibly strange...[pcms]
 
 *306|
 [fc]
-The tone of her voice, which seemed broken in some way, and Senpai's eyes, which[r]
-were gradually turning red...[pcms]
+The tone of her voice, which seemed broken in some way, and[r]
+Senpai's eyes, which were gradually turning red...[pcms]
 
 *307|
 [fc]
-Red... eyes? What was that again...? I feel like it had some important[r]
-meaning...[pcms]
+Red... eyes? What was that again...? I feel like it had some[r]
+important meaning...[pcms]
 
 ;//Ｃ：
 [evcg storage="HEV044s"][trans_c cross time=300]
@@ -1254,7 +1337,8 @@ meaning...[pcms]
 *309|
 [fc]
 [ns]Margarita[nse]
-"But... was it really okay, Wataru...? Do you... care about Yuuho...?"[pcms]
+"But... was it really okay, Wataru...? Do you... care about[r]
+Yuuho...?"[pcms]
 
 *310|
 [fc]
@@ -1263,8 +1347,8 @@ With a numb head, I listened to Senpai's voice.[pcms]
 *311|
 [fc]
 [ns]Wataru[nse]
-"...It's fine, Senpai. More importantly... are you already satisfied? I'm not[r]
-yet..."[pcms]
+"...It's fine, Senpai. More importantly... are you already[r]
+satisfied? I'm not yet..."[pcms]
 
 *312|
 [fc]
@@ -1278,45 +1362,49 @@ That's right... I'm far from satisfied yet.[pcms]
 
 *314|
 [fc]
-As if responding to that feeling, the penis still lodged inside Senpai's womb[r]
-grew hard again.[pcms]
+As if responding to that feeling, the penis still lodged[r]
+inside Senpai's womb grew hard again.[pcms]
 
 *315|
 [fc]
 [vo_mar s="maru_K0075"]
 [ns]Margarita[nse]
-"Aaaaah... it's getting hard again... Inside me, filling up... fufufu, fufu,[r]
-fufu, ahahahahaha...!"[pcms]
+"Aaaaah... it's getting hard again... Inside me, filling[r]
+up... fufufu, fufu, fufu, ahahahahaha...!"[pcms]
 
 *316|
 [fc]
-Laughing madly, Senpai began to shake her hips violently. Flesh collided with[r]
-flesh so hard it hurt.[pcms]
+Laughing madly, Senpai began to shake her hips violently.[r]
+Flesh collided with flesh so hard it hurt.[pcms]
 
 *317|
 [fc]
 [vo_mar s="maru_K0076"]
 [ns]Margarita[nse]
-"That's right, hahahaha..., I'm not satisfied yet either...! Let's mate more,[r]
-Wataru...! Hahahahaha, ha-ha, ah-hahahahaha...!"[pcms]
+"That's right, hahahaha..., I'm not satisfied yet either...![r]
+Let's mate more, Wataru...! Hahahahaha, ha-ha, ah-[r]
+hahahahaha...!"[pcms]
 
 ;//〆黒画面
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *318|
 [fc]
-We mated over and over again. We kissed. We licked and rubbed each other's[r]
-genitals. I released inside her butt, mouth, and hands over and over again.[pcms]
+We mated over and over again. We kissed. We licked and[r]
+rubbed each other's genitals. I released inside her butt,[r]
+mouth, and hands over and over again.[pcms]
 
 *319|
 [fc]
-Every time Senpai climaxed, every time I ejaculated, pleasure increased[r]
-unbelievably and something vanished from my mind.[pcms]
+Every time Senpai climaxed, every time I ejaculated,[r]
+pleasure increased unbelievably and something vanished from[r]
+my mind.[pcms]
 
 *320|
 [fc]
-A blissful sensation of being completely fulfilled without any worries welled[r]
-up. Driven by that feeling, we mated even more.[pcms]
+A blissful sensation of being completely fulfilled without[r]
+any worries welled up. Driven by that feeling, we mated even[r]
+more.[pcms]
 
 ;//〆ＨＥＶ０６６
 ;//マル子　立ちバック／マル子　全裸
@@ -1326,8 +1414,9 @@ up. Driven by that feeling, we mated even more.[pcms]
 [fc]
 [vo_mar s="maru_K0077"]
 [ns]Margarita[nse]
-"...kahaaaah, haaah, nhaaaaaa! Thrust and thrust and thrust! More, moreee...![r]
-Ku-hahahaha, thrust and thrust eeeeh!! Ahahahaha!"[pcms]
+"...kahaaaah, haaah, nhaaaaaa! Thrust and thrust and thrust![r]
+More, moreee...! Ku-hahahaha, thrust and thrust eeeeh!![r]
+Ahahahaha!"[pcms]
 
 *322|
 [fc]
@@ -1335,14 +1424,15 @@ The fully naked Senpai covered in semen accepted me.[pcms]
 
 *323|
 [fc]
-In a lewd pose with her butt sticking out. She gasped for air with indecent[r]
-screams from the depths of her throat.[pcms]
+In a lewd pose with her butt sticking out. She gasped for[r]
+air with indecent screams from the depths of her throat.[pcms]
 
 *324|
 [fc]
 [vo_mar s="maru_K0078"]
 [ns]Margarita[nse]
-"Nhihiiii, hihii! Kuaaah, ah, ahihaaaah! More more moreee!! Kyahahahahaha!"[pcms]
+"Nhihiiii, hihii! Kuaaah, ah, ahihaaaah! More more moreee!![r]
+Kyahahahahaha!"[pcms]
 
 *325|
 [fc]
@@ -1352,31 +1442,33 @@ We were completely broken... Both Senpai and I...[pcms]
 [fc]
 [vo_mar s="maru_K0079"]
 [ns]Margarita[nse]
-"Nhaaaaah, hihiiiih. Higiih, aaguuuh!! C-cumming cumming cumming!! Cumminggg!![r]
-Ahhaaah!! I'm dying! Dying dying dyinggg!!"[pcms]
+"Nhaaaaah, hihiiiih. Higiih, aaguuuh!! C-cumming cumming[r]
+cumming!! Cumminggg!! Ahhaaah!! I'm dying! Dying dying[r]
+dyinggg!!"[pcms]
 
 *327|
 [fc]
-No longer the voice of a human woman but that of a beast in heat, Senpai's[r]
-entire body writhed and bounced.[pcms]
+No longer the voice of a human woman but that of a beast in[r]
+heat, Senpai's entire body writhed and bounced.[pcms]
 
 *328|
 [fc]
 [ns]Wataru[nse]
-"Se... Senpai! I-I'm going to release! Uuuuhhh, it's coming out. Coming out.[r]
-Coming ouuuut!!"[pcms]
+"Se... Senpai! I-I'm going to release! Uuuuhhh, it's coming[r]
+out. Coming out. Coming ouuuut!!"[pcms]
 
 *329|
 [fc]
 [vo_mar s="maru_K0080"]
 [ns]Margarita[nse]
-"Hyahaaaah!! Release itttt!! Your stinky semen, let it outtt!! Hyahahaha! All of[r]
-ittt!! Swallow every last drop insideee...!!"[pcms]
+"Hyahaaaah!! Release itttt!! Your stinky semen, let it[r]
+outtt!! Hyahahaha! All of ittt!! Swallow every last drop[r]
+insideee...!!"[pcms]
 
 *330|
 [fc]
-There's no need to hesitate. Thrust and knead and release. Gouge and violate and[r]
-release. That's all there is to it.[pcms]
+There's no need to hesitate. Thrust and knead and release.[r]
+Gouge and violate and release. That's all there is to it.[pcms]
 
 *331|
 [fc]
@@ -1387,7 +1479,8 @@ release. That's all there is to it.[pcms]
 [fc]
 [vo_mar s="maru_K0081"]
 [ns]Margarita[nse]
-"Guhaaaah, cumming cumming cum! Nghiiiih, kahaaaahhhhhhhhhhhhhhhhhhh~!!"[pcms]
+"Guhaaaah, cumming cumming cum! Nghiiiih,[r]
+kahaaaahhhhhhhhhhhhhhhhhhh~!!"[pcms]
 
 ;//ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -1396,25 +1489,29 @@ release. That's all there is to it.[pcms]
 
 *333|
 [fc]
-The spurting burst forth. With a scream, Senpai's back arched like a bow as she[r]
-convulsed. At the same time, the muscles near the vaginal entrance contracted[r]
-tightly around me.[pcms]
+The spurting burst forth. With a scream, Senpai's back[r]
+arched like a bow as she convulsed. At the same time, the[r]
+muscles near the vaginal entrance contracted tightly around[r]
+me.[pcms]
 
 *334|
 [fc]
 [vo_mar s="maru_K0082"]
 [ns]Margarita[nse]
-"Nhaaaahh, it's coming outtt! Still coming outtt!! Until the last drop... I'll[r]
-squeeze it out for you... uuh! Kyaha, hyahahaha, ahahaahaahaahaha!!"[pcms]
+"Nhaaaahh, it's coming outtt! Still coming outtt!! Until the[r]
+last drop... I'll squeeze it out for you... uuh! Kyaha,[r]
+hyahahaha, ahahaahaahaahaha!!"[pcms]
 
 *335|
 [fc]
-Maruko-senpai's vaginal walls writhed as if tickled, milking my penis and[r]
-squeezing out the remnants stuck in the urethra.[pcms]
+Maruko-senpai's vaginal walls writhed as if tickled, milking[r]
+my penis and squeezing out the remnants stuck in the[r]
+urethra.[pcms]
 
 *336|
 [fc]
-Matching that sensation, I continued to piston slowly while ejaculating.[pcms]
+Matching that sensation, I continued to piston slowly while[r]
+ejaculating.[pcms]
 
 *337|
 [fc]
@@ -1424,8 +1521,9 @@ Matching that sensation, I continued to piston slowly while ejaculating.[pcms]
 
 *338|
 [fc]
-Thrust and knead and release. Gouge and violate and release... Release and be[r]
-squeezed out, then release again...[pcms]
+Thrust and knead and release. Gouge and violate and[r]
+release... Release and be squeezed out, then release[r]
+again...[pcms]
 
 ;//〆黒画面
 ;//<ChrInit>
@@ -1443,15 +1541,15 @@ squeezed out, then release again...[pcms]
 
 *340|
 [fc]
-After mating countless times and our throats dried up, we finally collapsed[r]
-together.[pcms]
+After mating countless times and our throats dried up, we[r]
+finally collapsed together.[pcms]
 
 *341|
 [fc]
 [vo_mar s="maru_K0085"]
 [ns]Margarita[nse]
-"...Semen... can't take any more..., ufufufu... My belly and mouth are all[r]
-messy..."[pcms]
+"...Semen... can't take any more..., ufufufu... My belly and[r]
+mouth are all messy..."[pcms]
 
 *342|
 [fc]
@@ -1470,8 +1568,8 @@ With a dazed smile, Senpai looked at me.[pcms]
 
 *345|
 [fc]
-I too was enveloped in a pleasant sense of euphoria and slumped against the[r]
-wall.[pcms]
+I too was enveloped in a pleasant sense of euphoria and[r]
+slumped against the wall.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1479,7 +1577,8 @@ wall.[pcms]
 [fc]
 [vo_mar s="maru_K0087"]
 [ns]Margarita[nse]
-"...Hey, Wataru... Do you want to have sex with Yuuho too...?"[pcms]
+"...Hey, Wataru... Do you want to have sex with Yuuho[r]
+too...?"[pcms]
 
 *347|
 [fc]
@@ -1496,28 +1595,30 @@ Ah yes, there was a girl with that name...[pcms]
 
 *350|
 [fc]
-I'm tired of everything now. I've had enough. I got to have sex with Maruko-[r]
-senpai.[pcms]
+I'm tired of everything now. I've had enough. I got to have[r]
+sex with Maruko- senpai.[pcms]
 
 *351|
 [fc]
-"I'm sleepy now, so I just want to sleep for the time being. When I wake up..."[pcms]
+"I'm sleepy now, so I just want to sleep for the time being.[r]
+When I wake up..."[pcms]
 
 *352|
 [fc]
-"Until everyone is satisfied, until I've fully tasted everyone. I want to...! I[r]
-want to feel good!"[pcms]
+"Until everyone is satisfied, until I've fully tasted[r]
+everyone. I want to...! I want to feel good!"[pcms]
 
 *353|
 [fc]
 [vo_mar s="maru_K0088"]
 [ns]Margarita[nse]
-"Fufufufufu... Okay, Wataru. Fufu, ufu, ufufu...fufufufufu..."[pcms]
+"Fufufufufu... Okay, Wataru. Fufu, ufu,[r]
+ufufu...fufufufufu..."[pcms]
 
 *354|
 [fc]
-As I listened to Senpai's voice, laughing happily, my consciousness gradually[r]
-faded away...[pcms]
+As I listened to Senpai's voice, laughing happily, my[r]
+consciousness gradually faded away...[pcms]
 
 *355|
 [fc]
@@ -1529,8 +1630,9 @@ I feel incredibly happy...[pcms]
 
 *357|
 [fc]
-This is a truly wonderful world where everything comes together. This is the[r]
-"somewhere that isn't here" that I've always longed for.[pcms]
+This is a truly wonderful world where everything comes[r]
+together. This is the "somewhere that isn't here" that I've[r]
+always longed for.[pcms]
 
 *358|
 [fc]
@@ -1574,8 +1676,9 @@ Ugh... For now, let's eat something.[pcms]
 
 *368|
 [fc]
-I'm hungry and I want to have sex but I don't want to wake up I want to sleep.[r]
-Ahh... no good, I can't think of anything.[pcms]
+I'm hungry and I want to have sex but I don't want to wake[r]
+up I want to sleep. Ahh... no good, I can't think of[r]
+anything.[pcms]
 
 *369|
 [fc]

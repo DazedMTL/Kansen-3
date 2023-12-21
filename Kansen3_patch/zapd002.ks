@@ -44,18 +44,19 @@
 
 *3297|
 [fc]
-I woke up to the sound of a familiar explosion and the noise of a shelf falling[r]
-over.[pcms]
+I woke up to the sound of a familiar explosion and the noise[r]
+of a shelf falling over.[pcms]
 
 *3298|
 [fc]
-The explosive sound was a gunshot. I've heard it before when Jin and Shige would[r]
-"play" with it sometimes.[pcms]
+The explosive sound was a gunshot. I've heard it before when[r]
+Jin and Shige would "play" with it sometimes.[pcms]
 
 *3299|
 [fc]
-Maybe it's the drugs, but I feel as sluggish and heavy-headed as if I have a[r]
-terrible hangover, and even lifting my eyelids feels like too much effort.[pcms]
+Maybe it's the drugs, but I feel as sluggish and heavy-[r]
+headed as if I have a terrible hangover, and even lifting my[r]
+eyelids feels like too much effort.[pcms]
 
 *3300|
 [fc]
@@ -83,8 +84,8 @@ Lying down, I concentrate all my attention on my hearing.[pcms]
 
 *3305|
 [fc]
-I stayed still for a while, sensing the surroundings, but the gunshots didn't[r]
-sound again.[pcms]
+I stayed still for a while, sensing the surroundings, but[r]
+the gunshots didn't sound again.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -122,8 +123,9 @@ But it's not Jin. He wouldn't shoot recklessly like that.[pcms]
 
 *3311|
 [fc]
-I force my heavy head up and, more sharply than before, press my ear against the[r]
-wall, trying to locate the source of the gunshots.[pcms]
+I force my heavy head up and, more sharply than before,[r]
+press my ear against the wall, trying to locate the source[r]
+of the gunshots.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -166,8 +168,8 @@ Jin! What's he doing in a place like this?[pcms]
 
 *3318|
 [fc]
-But I was actually happy. Because it was right after I woke up, I felt[r]
-vulnerable.[pcms]
+But I was actually happy. Because it was right after I woke[r]
+up, I felt vulnerable.[pcms]
 
 *3319|
 [fc]
@@ -203,7 +205,8 @@ And because Jin came looking for someone like me.[pcms]
 ;	[link storage="zapD003.ks" target=*zapD003_TOP]すぐに出る[endlink]
 ;	[link storage="zapD004.ks" target=*zapD004_TOP]ちょっとまって[endlink]
 ;	;[link storage="zapD005.ks" target=*zapD005_TOP]時間切れ[endlink]
-;       (link storage="zapD005.ks" target=*zapD005_TOP)Jin...(endlink)[pcms]
+;       (link storage="zapD005.ks"[r]
+target=*zapD005_TOP)Jin...(endlink)[pcms]
 
 *SEL90|すぐに出る／ちょっとまって／ジン……
 [fc]

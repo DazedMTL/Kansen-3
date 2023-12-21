@@ -22,13 +22,14 @@
 
 *4691|
 [fc]
-The kids are all out to prevent intruders from outside. In the DJ bar, there's[r]
-no one but me. All that's here is good liquor and good music.[pcms]
+The kids are all out to prevent intruders from outside. In[r]
+the DJ bar, there's no one but me. All that's here is good[r]
+liquor and good music.[pcms]
 
 *4692|
 [fc]
-How many days, no, how many months has it been since I've had such a relaxing[r]
-time?[pcms]
+How many days, no, how many months has it been since I've[r]
+had such a relaxing time?[pcms]
 
 *4693|
 [fc]
@@ -37,8 +38,8 @@ time?[pcms]
 
 *4694|
 [fc]
-The taste in liquor of this place's owner is really good. All of my favorite[r]
-brands are stocked here.[pcms]
+The taste in liquor of this place's owner is really good.[r]
+All of my favorite brands are stocked here.[pcms]
 
 *4695|
 [fc]
@@ -50,8 +51,8 @@ brands are stocked here.[pcms]
 *4696|
 [fc]
 [ns]Shigeyoshi[nse]
-`Hey, Aniki! When are we gonna do those brats? It's about time we do whatever we[r]
-want with women and food, right?[pcms]
+`Hey, Aniki! When are we gonna do those brats? It's about[r]
+time we do whatever we want with women and food, right?[pcms]
 
 *4697|
 [fc]
@@ -60,25 +61,25 @@ want with women and food, right?[pcms]
 *4698|
 [fc]
 [ns]Jin[nse]
-`Shige...we finally don't have to kiss up to those bastards anymore. Don't start[r]
-with the annoying talk. First off, if Mizuki starts yapping, that'll be a real[r]
-pain.[pcms]
+`Shige...we finally don't have to kiss up to those bastards[r]
+anymore. Don't start with the annoying talk. First off, if[r]
+Mizuki starts yapping, that'll be a real pain.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4699|
 [fc]
 [ns]Shigeyoshi[nse]
-`That's true, but... But Aniki! If the whole town, no, the whole world has gone[r]
-to shit like this, why don't we go wild and take over the streets for[r]
-ourselves!?[pcms]
+`That's true, but... But Aniki! If the whole town, no, the[r]
+whole world has gone to shit like this, why don't we go wild[r]
+and take over the streets for ourselves!?[pcms]
 
 *4700|
 [fc]
 [ns]Jin[nse]
-`...Don't be so greedy. Shige, calm down a bit. You've got a thing for that girl[r]
-Yuuho, right? If you act like a rampaging bull, she won't give you the time of[r]
-day.[pcms]
+`...Don't be so greedy. Shige, calm down a bit. You've got a[r]
+thing for that girl Yuuho, right? If you act like a[r]
+rampaging bull, she won't give you the time of day.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -89,18 +90,18 @@ day.[pcms]
 
 *4702|
 [fc]
-Shige puffs up his cheeks and sulks like a child. His expression lacks any charm[r]
-or age-appropriateness.[pcms]
+Shige puffs up his cheeks and sulks like a child. His[r]
+expression lacks any charm or age-appropriateness.[pcms]
 
 *4703|
 [fc]
-But... I can understand why he's bottling things up. His way of life has always[r]
-been about brawling every day.[pcms]
+But... I can understand why he's bottling things up. His way[r]
+of life has always been about brawling every day.[pcms]
 
 *4704|
 [fc]
-Leaving Shige as he is might be fine, but if "something" happens, it'll be a[r]
-real hassle.[pcms]
+Leaving Shige as he is might be fine, but if "something"[r]
+happens, it'll be a real hassle.[pcms]
 
 *4705|
 [fc]
@@ -116,14 +117,15 @@ real hassle.[pcms]
 
 *4707|
 [fc]
-Shige's sulky face softens in an instant, turning into a lecherous grin.[pcms]
+Shige's sulky face softens in an instant, turning into a[r]
+lecherous grin.[pcms]
 
 *4708|
 [fc]
 [ns]Jin[nse]
-`Idiot. That's not what I'm talking about. Sports. It's better to move your[r]
-body. It's refreshing above all else. ...There's a sports store downstairs.[r]
-Let's go.[pcms]
+`Idiot. That's not what I'm talking about. Sports. It's[r]
+better to move your body. It's refreshing above all else.[r]
+...There's a sports store downstairs. Let's go.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -134,7 +136,8 @@ Let's go.[pcms]
 
 *4710|
 [fc]
-Shige stares at me with a face like a pigeon that's been shot by a bean shooter.[pcms]
+Shige stares at me with a face like a pigeon that's been[r]
+shot by a bean shooter.[pcms]
 
 *4711|
 [fc]
@@ -150,8 +153,8 @@ His ever-changing expression slightly soothes my irritation.[pcms]
 *4713|
 [fc]
 [ns]Shigeyoshi[nse]
-`What are you saying Aniki...heheh, you saying you don't hate me means you[r]
-acknowledge me, right!? Heheh![pcms]
+`What are you saying Aniki...heheh, you saying you don't[r]
+hate me means you acknowledge me, right!? Heheh![pcms]
 
 *4714|
 [fc]
@@ -164,8 +167,8 @@ acknowledge me, right!? Heheh![pcms]
 
 *4716|
 [fc]
-Taking the elated Shige with me, I use the stairs to head down to the lower[r]
-floor.[pcms]
+Taking the elated Shige with me, I use the stairs to head[r]
+down to the lower floor.[pcms]
 
 ;[zapend_random]
 [zapfade]

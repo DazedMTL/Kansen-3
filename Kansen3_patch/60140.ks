@@ -22,18 +22,20 @@
 
 *898|
 [fc]
-A voice from somewhere deep inside tells me it's useless, that discussing it[r]
-won't solve anything...[pcms]
+A voice from somewhere deep inside tells me it's useless,[r]
+that discussing it won't solve anything...[pcms]
 
 *899|
 [fc]
-But just the thought that Yuuho might be infected sends my mind into chaos, and[r]
-I feel myself starting to freeze in fear.[pcms]
+But just the thought that Yuuho might be infected sends my[r]
+mind into chaos, and I feel myself starting to freeze in[r]
+fear.[pcms]
 
 *900|
 [fc]
-I can't come to a conclusion at a time like this. Especially when it's such a[r]
-difficult issue... one that involves Yuuho's life, no less.[pcms]
+I can't come to a conclusion at a time like this. Especially[r]
+when it's such a difficult issue... one that involves[r]
+Yuuho's life, no less.[pcms]
 
 *901|
 [fc]
@@ -42,8 +44,8 @@ difficult issue... one that involves Yuuho's life, no less.[pcms]
 
 *902|
 [fc]
-Trying not to alert Yuuho, I leave the storage room and head back to the front[r]
-of the counter.[pcms]
+Trying not to alert Yuuho, I leave the storage room and head[r]
+back to the front of the counter.[pcms]
 
 ;//ÅYñüâÊãiíÉÉAÉãÉJÉfÉBÉA
 [bg storage="BG020a"][trans_c cross time=500]
@@ -62,11 +64,13 @@ Yuuho is calling me from the cafe corner.[pcms]
 
 *905|
 [fc]
-Hearing her lifeless, hollow voice sends chills down my spine.[pcms]
+Hearing her lifeless, hollow voice sends chills down my[r]
+spine.[pcms]
 
 *906|
 [fc]
-That's not... Yuuho... That's something else wearing Yuuho's face...![pcms]
+That's not... Yuuho... That's something else wearing Yuuho's[r]
+face...![pcms]
 
 *907|
 [fc]
@@ -79,8 +83,9 @@ That's not... Yuuho... That's something else wearing Yuuho's face...![pcms]
 
 *908|
 [fc]
-I flee from the voice towards the elevator entrance, frantically pressing the[r]
-button and tumbling into the elevator.[pcms]
+I flee from the voice towards the elevator entrance,[r]
+frantically pressing the button and tumbling into the[r]
+elevator.[pcms]
 
 ;//ÅYçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -92,7 +97,8 @@ button and tumbling into the elevator.[pcms]
 
 *910|
 [fc]
-Slumping down against the wall, I slide to a seated position.[pcms]
+Slumping down against the wall, I slide to a seated[r]
+position.[pcms]
 
 *911|
 [fc]

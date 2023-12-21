@@ -20,8 +20,9 @@
 
 *261|
 [fc]
-Guided by the voice, when I turned around, I could see Ren's face banging on the[r]
-skylight of the audio-visual room and shouting.[pcms]
+Guided by the voice, when I turned around, I could see Ren's[r]
+face banging on the skylight of the audio-visual room and[r]
+shouting.[pcms]
 
 *262|
 [fc]
@@ -29,8 +30,8 @@ Next to her, there was Kousuke's face.[pcms]
 
 *263|
 [fc]
-During summer vacation, the audio-visual room is usually not used, so it's[r]
-normal for the door to be closed.[pcms]
+During summer vacation, the audio-visual room is usually not[r]
+used, so it's normal for the door to be closed.[pcms]
 
 *264|
 [fc]
@@ -38,8 +39,9 @@ I had assumed that Ren would be in the music room.[pcms]
 
 *265|
 [fc]
-So, without giving it much thought, my senior and I headed straight for the[r]
-music room, but it seems that the two of them had taken refuge there.[pcms]
+So, without giving it much thought, my senior and I headed[r]
+straight for the music room, but it seems that the two of[r]
+them had taken refuge there.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -66,13 +68,14 @@ music room, but it seems that the two of them had taken refuge there.[pcms]
 
 *269|
 [fc]
-The infected ones who were heading towards us stopped in their tracks, reacting[r]
-to Kousuke and Ren's voices.[pcms]
+The infected ones who were heading towards us stopped in[r]
+their tracks, reacting to Kousuke and Ren's voices.[pcms]
 
 *270|
 [fc]
-It seems they're hesitating whether to come after us or head towards Ren and the[r]
-others upon hearing the voices of fresh prey other than us.[pcms]
+It seems they're hesitating whether to come after us or head[r]
+towards Ren and the others upon hearing the voices of fresh[r]
+prey other than us.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -84,8 +87,9 @@ others upon hearing the voices of fresh prey other than us.[pcms]
 
 *272|
 [fc]
-With a cold tone, my senior swung the mop again, taking advantage of the[r]
-infected ones' halted movements to knock them down.[pcms]
+With a cold tone, my senior swung the mop again, taking[r]
+advantage of the infected ones' halted movements to knock[r]
+them down.[pcms]
 
 [se buf=0 storage="se012"]
 
@@ -99,7 +103,8 @@ And then she cleared a path to the audio-visual room.[pcms]
 
 *274|
 [fc]
-I ran after her, making my way back to the audio-visual room.[pcms]
+I ran after her, making my way back to the audio-visual[r]
+room.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -110,8 +115,8 @@ I ran after her, making my way back to the audio-visual room.[pcms]
 
 *276|
 [fc]
-When we got close to the audio-visual room, Kousuke was waiting with the door[r]
-open for us.[pcms]
+When we got close to the audio-visual room, Kousuke was[r]
+waiting with the door open for us.[pcms]
 
 *277|
 [fc]
@@ -131,8 +136,9 @@ open for us.[pcms]
 
 *279|
 [fc]
-After knocking down an infected with the steel hook used for pulling down the[r]
-slide screen, Kousuke gestured for us to come over.[pcms]
+After knocking down an infected with the steel hook used for[r]
+pulling down the slide screen, Kousuke gestured for us to[r]
+come over.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -155,7 +161,8 @@ slide screen, Kousuke gestured for us to come over.[pcms]
 [fc]
 [vo_mar s="maru0084"]
 [ns]Margarita[nse]
-"The lower floors are already full of them. Do you plan to hole up here?"[pcms]
+"The lower floors are already full of them. Do you plan to[r]
+hole up here?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -174,8 +181,8 @@ slide screen, Kousuke gestured for us to come over.[pcms]
 
 *285|
 [fc]
-While my senior and Kousuke were arguing, Ren slipped past them and came out of[r]
-the audio-visual room.[pcms]
+While my senior and Kousuke were arguing, Ren slipped past[r]
+them and came out of the audio-visual room.[pcms]
 
 *286|
 [fc]
@@ -199,17 +206,18 @@ the audio-visual room.[pcms]
 
 *289|
 [fc]
-Firmly holding her hand, I felt grateful that Ren was safe for now.[pcms]
+Firmly holding her hand, I felt grateful that Ren was safe[r]
+for now.[pcms]
 
 *290|
 [fc]
-But that gratitude should probably be saved until we've safely escaped from[r]
-them.[pcms]
+But that gratitude should probably be saved until we've[r]
+safely escaped from them.[pcms]
 
 *291|
 [fc]
-Anyway, for now, we have to decide whether to follow my senior's advice and head[r]
-to the rooftop or to hole up here.[pcms]
+Anyway, for now, we have to decide whether to follow my[r]
+senior's advice and head to the rooftop or to hole up here.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -221,8 +229,8 @@ to the rooftop or to hole up here.[pcms]
 
 *293|
 [fc]
-With a cold tone, my senior kicked away the clinging infected ones and headed[r]
-straight for the stairs.[pcms]
+With a cold tone, my senior kicked away the clinging[r]
+infected ones and headed straight for the stairs.[pcms]
 
 *294|
 [fc]
@@ -239,7 +247,8 @@ What should we do?[pcms]
 ;	[link storage="30110.ks" target=*30110_TOP]視聴覚室に立てこもろう！[endlink]
 ;	[link storage="30120.ks" target=*30120_TOP]先輩について行こう！[endlink]
 ;	;[link storage="30130.ks" target=*30130_TOP]時間切れ[endlink]
-;       (link storage="30130.ks" target=*30130_TOP)Which is best...(endlink)[pcms]
+;       (link storage="30130.ks" target=*30130_TOP)Which is[r]
+best...(endlink)[pcms]
 
 *SEL21|視聴覚室に立てこもろう！／先輩について行こう！／どちらがベストだろう……
 [fc]

@@ -16,32 +16,35 @@
 
 *327|
 [fc]
-I'm painfully aware of it myself. I'm an utterly hopeless man.[pcms]
+I'm painfully aware of it myself. I'm an utterly hopeless[r]
+man.[pcms]
 
 *328|
 [fc]
-Neither strength nor courage, a sharp mind, anything to be proud of, or any[r]
-special skills. Even my looks don't stand out...[pcms]
+Neither strength nor courage, a sharp mind, anything to be[r]
+proud of, or any special skills. Even my looks don't stand[r]
+out...[pcms]
 
 *329|
 [fc]
-If I have nothing to boast about to others, never have, and don't plan to in the[r]
-future...[pcms]
+If I have nothing to boast about to others, never have, and[r]
+don't plan to in the future...[pcms]
 
 *330|
 [fc]
-But still... if I get cold feet here, I feel like I'd lose even the right to[r]
-live as a man, as a human being.[pcms]
+But still... if I get cold feet here, I feel like I'd lose[r]
+even the right to live as a man, as a human being.[pcms]
 
 *331|
 [fc]
-If I have to live with the memory of abandoning Yuuho... then I'd rather join[r]
-those weird people.[pcms]
+If I have to live with the memory of abandoning Yuuho...[r]
+then I'd rather join those weird people.[pcms]
 
 *332|
 [fc]
-Until just a moment ago, I was so panicked that I could barely keep my sanity,[r]
-but once I made up my mind, strangely enough, I was able to regain my composure.[pcms]
+Until just a moment ago, I was so panicked that I could[r]
+barely keep my sanity, but once I made up my mind, strangely[r]
+enough, I was able to regain my composure.[pcms]
 
 *333|
 [fc]
@@ -49,12 +52,14 @@ but once I made up my mind, strangely enough, I was able to regain my composure.
 
 *334|
 [fc]
-I couldn't come up with a clear answer, but without hesitation, I ran up the[r]
-emergency stairs and grabbed the doorknob of the gym teacher's office.[pcms]
+I couldn't come up with a clear answer, but without[r]
+hesitation, I ran up the emergency stairs and grabbed the[r]
+doorknob of the gym teacher's office.[pcms]
 
 *335|
 [fc]
-However, a firm resistance met me. The door to the teacher's office was locked.[pcms]
+However, a firm resistance met me. The door to the teacher's[r]
+office was locked.[pcms]
 
 *336|
 [fc]
@@ -67,8 +72,8 @@ However, a firm resistance met me. The door to the teacher's office was locked.[
 
 *337|
 [fc]
-I desperately twisted the doorknob back and forth, but it wasn't a weak enough[r]
-lock to come off just like that.[pcms]
+I desperately twisted the doorknob back and forth, but it[r]
+wasn't a weak enough lock to come off just like that.[pcms]
 
 *338|
 [fc]
@@ -87,8 +92,9 @@ lock to come off just like that.[pcms]
 
 *340|
 [fc]
-Immediately looking towards the direction of the voice, overhead, I saw[r]
-Margarita-senpai peering down at us from the rooftop of the gymnasium.[pcms]
+Immediately looking towards the direction of the voice,[r]
+overhead, I saw Margarita-senpai peering down at us from the[r]
+rooftop of the gymnasium.[pcms]
 
 *341|
 [fc]
@@ -110,8 +116,9 @@ Margarita-senpai peering down at us from the rooftop of the gymnasium.[pcms]
 
 *344|
 [fc]
-I pointed towards the roof where Yuuho was and explained the situation.[r]
-Margarita-senpai immediately moved to the corridor side to check on Yuuho.[pcms]
+I pointed towards the roof where Yuuho was and explained the[r]
+situation. Margarita-senpai immediately moved to the[r]
+corridor side to check on Yuuho.[pcms]
 
 [se buf=0 storage="se041"]
 [wait time=300]
@@ -119,13 +126,15 @@ Margarita-senpai immediately moved to the corridor side to check on Yuuho.[pcms]
 
 *345|
 [fc]
-Even though Margarita-senpai had come to help, my worry for Yuuho only grew as I[r]
-blindly twisted the doorknob in frustration.[pcms]
+Even though Margarita-senpai had come to help, my worry for[r]
+Yuuho only grew as I blindly twisted the doorknob in[r]
+frustration.[pcms]
 
 *346|
 [fc]
-Margarita-senpai began descending the maintenance ladder that connected to the[r]
-rooftop and braced herself in front of the door...[pcms]
+Margarita-senpai began descending the maintenance ladder[r]
+that connected to the rooftop and braced herself in front of[r]
+the door...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -142,15 +151,17 @@ rooftop and braced herself in front of the door...[pcms]
 
 *348|
 [fc]
-As soon as she shouted, she aimed a kick at the doorknob with great force.[pcms]
+As soon as she shouted, she aimed a kick at the doorknob[r]
+with great force.[pcms]
 
 ;//se033
 [se buf=0 storage="se033"]
 
 *349|
 [fc]
-I thought it was impossible, but after Margarita-senpai delivered several kicks,[r]
-the doorknob flew off and the lock was broken.[pcms]
+I thought it was impossible, but after Margarita-senpai[r]
+delivered several kicks, the doorknob flew off and the lock[r]
+was broken.[pcms]
 
 *350|
 [fc]
@@ -165,14 +176,16 @@ the doorknob flew off and the lock was broken.[pcms]
 
 *351|
 [fc]
-Thanks to Margarita-senpai breaking down the door with her kick at the last[r]
-moment, I was able to enter the gym teacher's office.[pcms]
+Thanks to Margarita-senpai breaking down the door with her[r]
+kick at the last moment, I was able to enter the gym[r]
+teacher's office.[pcms]
 
 *352|
 [fc]
-Having finally entered the gym teacher's office, I quickly looked for the door[r]
-leading to the catwalk to head towards Yuuho, not dwelling too much on my[r]
-reunion with Margarita-senpai.[pcms]
+Having finally entered the gym teacher's office, I quickly[r]
+looked for the door leading to the catwalk to head towards[r]
+Yuuho, not dwelling too much on my reunion with Margarita-[r]
+senpai.[pcms]
 
 *353|
 [fc]
@@ -187,13 +200,14 @@ And there was a girl from the swim club trembling alone.[pcms]
 [fc]
 [vo_mob s="buinA_X0001"]
 [ns]Club Member A[nse]
-"Ah, Ayase-kun? No... it's not like that... It's not that I abandoned her... I[r]
-was just so scared, so scared... It couldn't be helped!!"[pcms]
+"Ah, Ayase-kun? No... it's not like that... It's not that I[r]
+abandoned her... I was just so scared, so scared... It[r]
+couldn't be helped!!"[pcms]
 
 *356|
 [fc]
-It seems Yuuho had fled here with her and ended up being left behind at that[r]
-place.[pcms]
+It seems Yuuho had fled here with her and ended up being[r]
+left behind at that place.[pcms]
 
 *357|
 [fc]
@@ -202,13 +216,14 @@ place.[pcms]
 
 *358|
 [fc]
-Blaming her now wouldn't solve anything. In such a situation, it's natural to be[r]
-confused and paralyzed by fear.[pcms]
+Blaming her now wouldn't solve anything. In such a[r]
+situation, it's natural to be confused and paralyzed by[r]
+fear.[pcms]
 
 *359|
 [fc]
-As I was calming down the confused girl, Margarita-senpai brought over a plastic[r]
-mop handle from a locker.[pcms]
+As I was calming down the confused girl, Margarita-senpai[r]
+brought over a plastic mop handle from a locker.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -216,7 +231,8 @@ mop handle from a locker.[pcms]
 [fc]
 [vo_mar s="maru_Y0004"]
 [ns]Margarita[nse]
-"It's only plastic but... keep watch with this. I'll go to her."[pcms]
+"It's only plastic but... keep watch with this. I'll go to[r]
+her."[pcms]
 
 *361|
 [fc]
@@ -252,13 +268,14 @@ But she shook off my hand with all her might--[pcms]
 
 *367|
 [fc]
-Perhaps having reached her limit of tension, the confused girl ran out through[r]
-the door.[pcms]
+Perhaps having reached her limit of tension, the confused[r]
+girl ran out through the door.[pcms]
 
 *368|
 [fc]
-In a panic, I chased after her and just as I reached the emergency stairs,[r]
-Margarita-senpai grabbed my arm to stop me.[pcms]
+In a panic, I chased after her and just as I reached the[r]
+emergency stairs, Margarita-senpai grabbed my arm to stop[r]
+me.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -275,8 +292,8 @@ Margarita-senpai grabbed my arm to stop me.[pcms]
 
 *371|
 [fc]
-Margarita-senpai grabbed my hand that was trying to chase after her and stopped[r]
-me.[pcms]
+Margarita-senpai grabbed my hand that was trying to chase[r]
+after her and stopped me.[pcms]
 
 *372|
 [fc]
@@ -308,7 +325,8 @@ The echo from outside was her tragic scream.[pcms]
 
 
 ;	[link storage="21040.ks" target=*21040_TOP]Ç±Ç±ÇÕÉ}ÉãÉKÉäÅ[É^êÊîyÇ…îCÇπÇÊÇ§ÅcÅc[endlink]
-(link storage="21050.ks" target=*21050_TOP)I'll go!!(endlink)[pcms]
+(link storage="21050.ks" target=*21050_TOP)I'll[r]
+go!!(endlink)[pcms]
 
 *SEL12|Ç±Ç±ÇÕÉ}ÉãÉKÉäÅ[É^êÊîyÇ…îCÇπÇÊÇ§ÅcÅcÅ^ñlÇ™çsÇ´Ç‹Ç∑ÅIÅI
 [fc]

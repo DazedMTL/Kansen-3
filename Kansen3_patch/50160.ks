@@ -22,8 +22,8 @@
 
 *970|
 [fc]
-The 6th floor fire door wasn't closed. We'll explore here later and head to the[r]
-7th floor.[pcms]
+The 6th floor fire door wasn't closed. We'll explore here[r]
+later and head to the 7th floor.[pcms]
 
 *971|
 [fc]
@@ -55,8 +55,9 @@ Finally reached the 7th floor backyard.[pcms]
 
 *975|
 [fc]
-While catching our breath, we cautiously survey the surroundings and slowly head[r]
-towards the interior of the DJ bar.[pcms]
+While catching our breath, we cautiously survey the[r]
+surroundings and slowly head towards the interior of the DJ[r]
+bar.[pcms]
 
 ;//〆ＤＪバー（メインドーム）
 [bg storage="BG019a"][trans_c cross time=500]
@@ -68,8 +69,9 @@ The main dome was, as expected, deathly silent.[pcms]
 
 *977|
 [fc]
-The cooler seems to be on for opening preparations, but it's not set to a[r]
-comfortable temperature for customers, so it's a bit hot.[pcms]
+The cooler seems to be on for opening preparations, but it's[r]
+not set to a comfortable temperature for customers, so it's[r]
+a bit hot.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -77,8 +79,8 @@ comfortable temperature for customers, so it's a bit hot.[pcms]
 [fc]
 [vo_mar s="maru1430"]
 [ns]Margarita[nse]
-"...Now that we've arrived at our destination, we need to decide on our next[r]
-course of action."[pcms]
+"...Now that we've arrived at our destination, we need to[r]
+decide on our next course of action."[pcms]
 
 *979|
 [fc]
@@ -90,7 +92,8 @@ We look around the floor and form a circle.[pcms]
 [fc]
 [vo_mar s="maru1431"]
 [ns]Margarita[nse]
-"It seems that the building itself is reasonably secure, but..."[pcms]
+"It seems that the building itself is reasonably secure,[r]
+but..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -98,29 +101,33 @@ We look around the floor and form a circle.[pcms]
 [fc]
 [vo_mar s="maru1432"]
 [ns]Margarita[nse]
-"Since none of your acquaintances are here, shouldn't we prioritize finding an[r]
-escape route and return to 'Dedepou'?"[pcms]
+"Since none of your acquaintances are here, shouldn't we[r]
+prioritize finding an escape route and return to 'Dedepou'?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *982|
 [fc]
 [ns]Kousuke[nse]
-"Wait, wait, we don't know that yet! The master might be on some other floor..."[pcms]
+"Wait, wait, we don't know that yet! The master might be on[r]
+some other floor..."[pcms]
 
 *983|
 [fc]
-Kousuke argued back, clearly not wanting to turn back just after arriving.[pcms]
+Kousuke argued back, clearly not wanting to turn back just[r]
+after arriving.[pcms]
 
 *984|
 [fc]
-Maybe it's not about checking on acquaintances but rather the Tengudo musical[r]
-instrument store on the 2nd floor that's keeping him here...[pcms]
+Maybe it's not about checking on acquaintances but rather[r]
+the Tengudo musical instrument store on the 2nd floor that's[r]
+keeping him here...[pcms]
 
 *985|
 [fc]
 [ns]Wataru[nse]
-"...Yeah, I also want to check on the 5th floor we saw earlier."[pcms]
+"...Yeah, I also want to check on the 5th floor we saw[r]
+earlier."[pcms]
 
 *986|
 [fc]
@@ -128,7 +135,8 @@ I feel a bit guilty, but I back up Kousuke.[pcms]
 
 *987|
 [fc]
-If the seniors knew our aim was to go to the rooftop, they'd probably get mad...[pcms]
+If the seniors knew our aim was to go to the rooftop, they'd[r]
+probably get mad...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -136,8 +144,8 @@ If the seniors knew our aim was to go to the rooftop, they'd probably get mad...
 [fc]
 [vo_mar s="maru1433"]
 [ns]Margarita[nse]
-"...I am also concerned about that 5th floor, which is another reason I suggest[r]
-we retreat..."[pcms]
+"...I am also concerned about that 5th floor, which is[r]
+another reason I suggest we retreat..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -145,7 +153,8 @@ we retreat..."[pcms]
 [fc]
 [vo_ren s="ren1346"]
 [ns]Ren[nse]
-"There were lots of things on the lower floors that could be useful, right...?"[pcms]
+"There were lots of things on the lower floors that could be[r]
+useful, right...?"[pcms]
 ;//＠おさえていますが、おねだり口調
 
 *990|
@@ -154,8 +163,8 @@ Even Ren started to chime in with Kousuke.[pcms]
 
 *991|
 [fc]
-She's probably interested in the manga cafe. As expected of siblings. They[r]
-really get along...[pcms]
+She's probably interested in the manga cafe. As expected of[r]
+siblings. They really get along...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -163,8 +172,9 @@ really get along...[pcms]
 [fc]
 [vo_yuh s="yuho1507"]
 [ns]Yuuho[nse]
-"That's right, we brought various things from 'Kimesugitakashi' earlier, but it[r]
-would be a problem if we're missing something."[pcms]
+"That's right, we brought various things from[r]
+'Kimesugitakashi' earlier, but it would be a problem if[r]
+we're missing something."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -172,13 +182,14 @@ would be a problem if we're missing something."[pcms]
 [fc]
 [vo_yuh s="yuho1508"]
 [ns]Yuuho[nse]
-"At least, let's just check out each store... Please, Maruko-senpai~"[pcms]
+"At least, let's just check out each store... Please,[r]
+Maruko-senpai~"[pcms]
 ;//＠おねだり口調で
 
 *994|
 [fc]
-In the end, Yuuho shamelessly pleads in a cajoling tone, peeking into Maruko-[r]
-senpai's face.[pcms]
+In the end, Yuuho shamelessly pleads in a cajoling tone,[r]
+peeking into Maruko- senpai's face.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -186,8 +197,8 @@ senpai's face.[pcms]
 [fc]
 [vo_mar s="maru1434"]
 [ns]Margarita[nse]
-"...Understood. Replenishing supplies is an important strategy. Let's adopt[r]
-everyone's opinion."[pcms]
+"...Understood. Replenishing supplies is an important[r]
+strategy. Let's adopt everyone's opinion."[pcms]
 
 *996|
 [fc]
@@ -198,7 +209,8 @@ Senpai shrugged her shoulders with a somewhat resigned mood.[pcms]
 *997|
 [fc]
 [ns]Kousuke[nse]
-"Alright! Then let's quickly start exploring inside the building..."[pcms]
+"Alright! Then let's quickly start exploring inside the[r]
+building..."[pcms]
 
 *998|
 [fc]
@@ -215,7 +227,8 @@ As Kousuke was about to run off, Ren suddenly looked up.[pcms]
 
 *1000|
 [fc]
-Ren's gaze was directed towards the entrance where the elevator was located.[pcms]
+Ren's gaze was directed towards the entrance where the[r]
+elevator was located.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -233,8 +246,9 @@ Ren's gaze was directed towards the entrance where the elevator was located.[pcm
 
 *1003|
 [fc]
-I didn't hear anything, but Ren has especially good ears because she's involved[r]
-in music; she can catch much fainter sounds than I can.[pcms]
+I didn't hear anything, but Ren has especially good ears[r]
+because she's involved in music; she can catch much fainter[r]
+sounds than I can.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -247,8 +261,8 @@ in music; she can catch much fainter sounds than I can.[pcms]
 
 *1005|
 [fc]
-Maruko-senpai quickly tensed up and sharply pointed her chin towards the[r]
-entrance.[pcms]
+Maruko-senpai quickly tensed up and sharply pointed her chin[r]
+towards the entrance.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -263,8 +277,8 @@ entrance.[pcms]
 [fc]
 [vo_mar s="maru1436"]
 [ns]Margarita[nse]
-"Wait. It's dangerous for everyone to move together. It's better if a small[r]
-group checks out the situation first."[pcms]
+"Wait. It's dangerous for everyone to move together. It's[r]
+better if a small group checks out the situation first."[pcms]
 
 *1008|
 [fc]
@@ -288,7 +302,8 @@ Kousuke and I nod at each other in agreement.[pcms]
 [fc]
 [vo_mar s="maru1437"]
 [ns]Margarita[nse]
-"I'll stay here on standby. I'll ensure the safety of the scene."[pcms]
+"I'll stay here on standby. I'll ensure the safety of the[r]
+scene."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -309,13 +324,13 @@ Leaving the girls in the dome, we head towards the entrance.[pcms]
 
 *1014|
 [fc]
-We had entered the shop through the emergency staircase, but this entrance is[r]
-actually the official way into the DJ bar.[pcms]
+We had entered the shop through the emergency staircase, but[r]
+this entrance is actually the official way into the DJ bar.[pcms]
 
 *1015|
 [fc]
-As we approach the entrance area, we can see the cash register and reception[r]
-counter of the shop.[pcms]
+As we approach the entrance area, we can see the cash[r]
+register and reception counter of the shop.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -340,12 +355,13 @@ Kousuke frowned as he caught a faint bad smell.[pcms]
 *1018a|
 [fc]
 [ns]Wataru[nse]
-"Yeah... It's over there. Let's slowly make our way around..."[pcms]
+"Yeah... It's over there. Let's slowly make our way[r]
+around..."[pcms]
 
 *1019|
 [fc]
-From the other side of the counter, a blind spot from our view, it seemed that[r]
-the smell was emanating.[pcms]
+From the other side of the counter, a blind spot from our[r]
+view, it seemed that the smell was emanating.[pcms]
 
 [se buf=0 storage="se058"]
 
@@ -359,8 +375,8 @@ Bori, bori... crunch... crunch crunch...[pcms]
 
 *1022|
 [fc]
-The sound, which left an unpleasant echo in our brains, was very similar to that[r]
-of an animal chewing on food...[pcms]
+The sound, which left an unpleasant echo in our brains, was[r]
+very similar to that of an animal chewing on food...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -391,8 +407,8 @@ We both gasped and were left speechless.[pcms]
 
 *1028|
 [fc]
-A darkened sea of blood... The DJ bar's master lying there with eyes wide open.[r]
-And then...[pcms]
+A darkened sea of blood... The DJ bar's master lying there[r]
+with eyes wide open. And then...[pcms]
 
 ;//BGM03:rage
 [bgm storage="BGM03"]
@@ -408,8 +424,8 @@ And then...[pcms]
 
 *1030|
 [fc]
-Straddling the master, there was a woman's back as she bit into the flesh of his[r]
-neck.[pcms]
+Straddling the master, there was a woman's back as she bit[r]
+into the flesh of his neck.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -476,7 +492,8 @@ Shivering with horror, Kousuke muttered.[pcms]
 
 *1042|
 [fc]
-The DJ bar's mama slowly stood up and started approaching us.[pcms]
+The DJ bar's mama slowly stood up and started approaching[r]
+us.[pcms]
 
 *1043|
 [fc]
@@ -488,7 +505,8 @@ The DJ bar's mama slowly stood up and started approaching us.[pcms]
 *1044|
 [fc]
 [ns]Kousuke[nse]
-"Wha-what do you mean what should we do, there's nothing to...!"[pcms]
+"Wha-what do you mean what should we do, there's nothing[r]
+to...!"[pcms]
 
 *1045|
 [fc]
@@ -504,12 +522,13 @@ Fumbling with trembling hands under my shirt.[pcms]
 
 *1048|
 [fc]
-The lump of metal hooked onto my pants... Grip it, pull the trigger...[pcms]
+The lump of metal hooked onto my pants... Grip it, pull the[r]
+trigger...[pcms]
 
 *1049|
 [fc]
-What? It won't move!? Safety mechanism? How do I disengage it... Oh right, first[r]
-of all, the bullets...!?[pcms]
+What? It won't move!? Safety mechanism? How do I disengage[r]
+it... Oh right, first of all, the bullets...!?[pcms]
 
 [ChrSetEx layer=5 chbase="mama_b"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 
@@ -521,8 +540,8 @@ of all, the bullets...!?[pcms]
 
 *1051|
 [fc]
-Mama, now close enough to breathe on us, reached out with her arms wide to grab[r]
-us.[pcms]
+Mama, now close enough to breathe on us, reached out with[r]
+her arms wide to grab us.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -538,8 +557,8 @@ us.[pcms]
 
 *1054|
 [fc]
-About to reflexively shield my head, I spotted Maruko-senpai in the corner of my[r]
-vision and looked up.[pcms]
+About to reflexively shield my head, I spotted Maruko-senpai[r]
+in the corner of my vision and looked up.[pcms]
 
 *1055|
 [fc]
@@ -557,7 +576,8 @@ vision and looked up.[pcms]
 
 *1057|
 [fc]
-Senpai stood silently behind Mama, slowly raising her arm horizontally.[pcms]
+Senpai stood silently behind Mama, slowly raising her arm[r]
+horizontally.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -588,8 +608,8 @@ A sharp sound echoed as she whispered softly.[pcms]
 
 *1061|
 [fc]
-A small hole appeared between Mama's eyebrows and the next moment, she collapsed[r]
-at our feet with a thud.[pcms]
+A small hole appeared between Mama's eyebrows and the next[r]
+moment, she collapsed at our feet with a thud.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -625,7 +645,8 @@ Was that... Did Senpai just...? Did she shoot Mama...?[pcms]
 
 *1066|
 [fc]
-After stating it firmly, Senpai's face clouded over just a bit.[pcms]
+After stating it firmly, Senpai's face clouded over just a[r]
+bit.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a24"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -649,7 +670,8 @@ After stating it firmly, Senpai's face clouded over just a bit.[pcms]
 
 *1070|
 [fc]
-From the direction of the dome, Yuuho's worried voice could be heard.[pcms]
+From the direction of the dome, Yuuho's worried voice could[r]
+be heard.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -662,7 +684,8 @@ From the direction of the dome, Yuuho's worried voice could be heard.[pcms]
 
 *1072|
 [fc]
-After replying, Senpai turned back to us and lowered her voice.[pcms]
+After replying, Senpai turned back to us and lowered her[r]
+voice.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -670,7 +693,8 @@ After replying, Senpai turned back to us and lowered her voice.[pcms]
 [fc]
 [vo_mar s="maru1444"]
 [ns]Margarita[nse]
-"Be careful not to touch the blood. We'll carry the body ourselves."[pcms]
+"Be careful not to touch the blood. We'll carry the body[r]
+ourselves."[pcms]
 ;//＠声を通常に落として
 
 *1074|
@@ -687,8 +711,8 @@ After replying, Senpai turned back to us and lowered her voice.[pcms]
 
 *1076|
 [fc]
-Indeed, as Senpai said, it's a body... But this is Master and Mama. They're not[r]
-just any bodies...[pcms]
+Indeed, as Senpai said, it's a body... But this is Master[r]
+and Mama. They're not just any bodies...[pcms]
 
 *1077|
 [fc]
@@ -696,8 +720,9 @@ But still...[pcms]
 
 *1078|
 [fc]
-Kousuke and I were at a loss for words, only able to stare at the remains of who[r]
-were once the well-known Master and Mama.[pcms]
+Kousuke and I were at a loss for words, only able to stare[r]
+at the remains of who were once the well-known Master and[r]
+Mama.[pcms]
 
 *1079|
 [fc]

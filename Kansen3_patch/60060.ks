@@ -22,13 +22,13 @@
 
 *291|
 [fc]
-Even if she's infected, Yuuho is still Yuuho. She's still desperately trying to[r]
-let me escape.[pcms]
+Even if she's infected, Yuuho is still Yuuho. She's still[r]
+desperately trying to let me escape.[pcms]
 
 *292|
 [fc]
-I might still be able to save her, I can't just leave her behind and run[r]
-away...![pcms]
+I might still be able to save her, I can't just leave her[r]
+behind and run away...![pcms]
 
 
 ;mm TOPラベル踏んで無いー。
@@ -55,8 +55,8 @@ Suddenly, strength returned to Yuuho's hand.[pcms]
 ;	[fc]
 ;	[vo_yuh s="yuho_YK0043"]
 [ns]Yuuho[nse]
-"After all... we're about to do something nice, right...? You can't run away...[r]
-no..."[pcms]
+"After all... we're about to do something nice, right...?[r]
+You can't run away... no..."[pcms]
 ;
 ;	*296|
 ;	[fc]
@@ -65,8 +65,8 @@ no..."[pcms]
 ;
 ;	*297|
 ;	[fc]
-Once again, the light vanished from her eyes, and her voice returned to an empty[r]
-echo.[pcms]
+Once again, the light vanished from her eyes, and her voice[r]
+returned to an empty echo.[pcms]
 ;
 ;	[ChrSetEx layer=5 chbase="yuho_e18"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 ;
@@ -74,8 +74,8 @@ echo.[pcms]
 ;	[fc]
 ;	[vo_yuh s="yuho_YK0044"]
 [ns]Yuuho[nse]
-"Being alone... is lonely... right...? I won't be satisfied... you know...?[r]
-...So let's be together, okay...?"[pcms]
+"Being alone... is lonely... right...? I won't be[r]
+satisfied... you know...? ...So let's be together, okay...?"[pcms]
 
 ;//→block60070 ラベル　合流へ
 ;[jump storage="60070.ks" target=*60070_01]

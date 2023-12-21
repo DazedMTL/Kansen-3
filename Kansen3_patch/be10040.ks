@@ -61,11 +61,13 @@ There's no sign of anyone near the entrance of LASER.[pcms]
 
 *200|
 [fc]
-The men who got off the truck seem to have all stormed into LASER.[pcms]
+The men who got off the truck seem to have all stormed into[r]
+LASER.[pcms]
 
 *201|
 [fc]
-I thought there might be someone left in the truck, but it was empty.[pcms]
+I thought there might be someone left in the truck, but it[r]
+was empty.[pcms]
 
 *202|
 [fc]
@@ -73,12 +75,13 @@ There's no lookout either.[pcms]
 
 *203|
 [fc]
-Peeking into LASER, I can hear the sounds of the men causing a ruckus in the[r]
-store.[pcms]
+Peeking into LASER, I can hear the sounds of the men causing[r]
+a ruckus in the store.[pcms]
 
 *204|
 [fc]
-This way, it seems possible to climb up to the floor where everyone is.[pcms]
+This way, it seems possible to climb up to the floor where[r]
+everyone is.[pcms]
 
 ;//Åö_ÇPFì‡ïîÇÃâÊëú
 [bg storage="BG08f"][trans_c cross time=500]
@@ -86,8 +89,9 @@ This way, it seems possible to climb up to the floor where everyone is.[pcms]
 
 *205|
 [fc]
-To avoid being spotted by the men, I head towards the backyard used for staff[r]
-breaks and storage, and from there, I get on the service elevator.[pcms]
+To avoid being spotted by the men, I head towards the[r]
+backyard used for staff breaks and storage, and from there,[r]
+I get on the service elevator.[pcms]
 
 [bg storage="BG120"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
@@ -102,8 +106,8 @@ I think there's a high chance that someone is there.[pcms]
 
 *208|
 [fc]
-The frequently used and somewhat damaged elevator managed to carry me to Arcadia[r]
-without being spotted by the men.[pcms]
+The frequently used and somewhat damaged elevator managed to[r]
+carry me to Arcadia without being spotted by the men.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

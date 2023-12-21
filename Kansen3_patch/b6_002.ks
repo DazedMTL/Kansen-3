@@ -19,13 +19,14 @@
 
 *36|
 [fc]
-First, let's head towards Yuuho!! It's more dangerous for Yuuho since we can go[r]
-directly from the first floor.[pcms]
+First, let's head towards Yuuho!! It's more dangerous for[r]
+Yuuho since we can go directly from the first floor.[pcms]
 
 *37|
 [fc]
-Indeed, more people went to the left, and I'm almost out of breath from running,[r]
-but they're slow so I should be able to manage.[pcms]
+Indeed, more people went to the left, and I'm almost out of[r]
+breath from running, but they're slow so I should be able to[r]
+manage.[pcms]
 
 *38|
 [fc]
@@ -45,12 +46,13 @@ Besides, Yuuho is waiting for help ahead.[pcms]
 
 *42|
 [fc]
-...I don't know if there's morning practice or not, but she's definitely there.[pcms]
+...I don't know if there's morning practice or not, but[r]
+she's definitely there.[pcms]
 
 *43|
 [fc]
-I won't let Yuuho suffer like someone I just passed by in a classroom... Yuuho,[r]
-I will protect you![pcms]
+I won't let Yuuho suffer like someone I just passed by in a[r]
+classroom... Yuuho, I will protect you![pcms]
 
 *44|
 [fc]
@@ -59,8 +61,9 @@ I will protect you![pcms]
 
 *45|
 [fc]
-I couldn't shout out loud to avoid being noticed, but with plenty of fighting[r]
-spirit, I made up my mind and dashed to the left... towards the gymnasium.[pcms]
+I couldn't shout out loud to avoid being noticed, but with[r]
+plenty of fighting spirit, I made up my mind and dashed to[r]
+the left... towards the gymnasium.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -72,23 +75,26 @@ spirit, I made up my mind and dashed to the left... towards the gymnasium.[pcms]
 
 *47|
 [fc]
-As soon as I jumped out from hiding, I was inevitably spotted by the women.[pcms]
+As soon as I jumped out from hiding, I was inevitably[r]
+spotted by the women.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *48|
 [fc]
-But I don't want to be attacked by these weirdos. I agilely dodged and headed[r]
-for the gymnasium.[pcms]
+But I don't want to be attacked by these weirdos. I agilely[r]
+dodged and headed for the gymnasium.[pcms]
 
 *49|
 [fc]
-Alright, the corridor leading to the gymnasium is just ahead! The destination is[r]
-right in front of me! Hang in there, me!![pcms]
+Alright, the corridor leading to the gymnasium is just[r]
+ahead! The destination is right in front of me! Hang in[r]
+there, me!![pcms]
 
 *50|
 [fc]
-Just as I tried to jump over a woman who tackled at my feet...[pcms]
+Just as I tried to jump over a woman who tackled at my[r]
+feet...[pcms]
 
 *51|
 [fc]
@@ -103,12 +109,13 @@ I realized that I couldn't jump as high as I thought.[pcms]
 
 *53|
 [fc]
-Because I was pulled down with great force from behind onto the corridor, I[r]
-couldn't jump.[pcms]
+Because I was pulled down with great force from behind onto[r]
+the corridor, I couldn't jump.[pcms]
 
 *54|
 [fc]
-Despite being slammed hard onto the corridor, the impact wasn't that severe.[pcms]
+Despite being slammed hard onto the corridor, the impact[r]
+wasn't that severe.[pcms]
 
 *55|
 [fc]
@@ -116,8 +123,8 @@ It was thanks to the camping gear I had on my back.[pcms]
 
 *56|
 [fc]
-No, since being pulled down was also a result of someone pulling on my gear from[r]
-behind, I wonder which was better.[pcms]
+No, since being pulled down was also a result of someone[r]
+pulling on my gear from behind, I wonder which was better.[pcms]
 
 *57|
 [fc]
@@ -138,11 +145,13 @@ In a panic, I tried to shake off my gear and get up.[pcms]
 
 *60|
 [fc]
-But already on top of me was a woman with a triumphant look...[pcms]
+But already on top of me was a woman with a triumphant[r]
+look...[pcms]
 
 *61|
 [fc]
-Looking down at me with eyes as if she was looking at a feast...[pcms]
+Looking down at me with eyes as if she was looking at a[r]
+feast...[pcms]
 
 *62|
 [fc]
@@ -154,7 +163,8 @@ Will I end up like that too...?[pcms]
 
 *64|
 [fc]
-Will I be killed, or... will I become like these strange people?[pcms]
+Will I be killed, or... will I become like these strange[r]
+people?[pcms]
 
 *65|
 [fc]
@@ -166,7 +176,8 @@ That common phrase repeated in my mind.[pcms]
 
 *67|
 [fc]
-There's no such convenient story. It's too late to regret now...[pcms]
+There's no such convenient story. It's too late to regret[r]
+now...[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_c"][ChrSetXY layer=5 x=174 y=0][trans_c cross time=150]
 
@@ -178,8 +189,9 @@ There's no such convenient story. It's too late to regret now...[pcms]
 
 *69|
 [fc]
-Without my life flashing before my eyes like a revolving lantern... my vision[r]
-was filled with women with uniformly red eyes.[pcms]
+Without my life flashing before my eyes like a revolving[r]
+lantern... my vision was filled with women with uniformly[r]
+red eyes.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -187,7 +199,8 @@ was filled with women with uniformly red eyes.[pcms]
 [fc]
 [vo_mob s="onna_san0001"]
 [ns]Infected Woman D[nse]
-"Ahahahaha! A young man, huh! Let's have plenty of fun from now on, shall we!?"[pcms]
+"Ahahahaha! A young man, huh! Let's have plenty of fun from[r]
+now on, shall we!?"[pcms]
 
 ;//〆：ゲームオーバー画面へ。
 ;//jump：ブロック●●●●●

@@ -34,7 +34,8 @@
 
 *1179|
 [fc]
-I slowly help Ren drink from the nearly empty canteen, careful not to spill any.[pcms]
+I slowly help Ren drink from the nearly empty canteen,[r]
+careful not to spill any.[pcms]
 
 *1180|
 [fc]
@@ -42,8 +43,9 @@ This marks the end of the drinks I had with me.[pcms]
 
 *1181|
 [fc]
-We've managed to get by on snacks and canned food, so we're not too hungry...[r]
-But going forward without any water will be tough.[pcms]
+We've managed to get by on snacks and canned food, so we're[r]
+not too hungry... But going forward without any water will[r]
+be tough.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -55,7 +57,8 @@ But going forward without any water will be tough.[pcms]
 
 *1183|
 [fc]
-From beyond where Yuuho and Kousuke are sleeping, Senior Maruko calls out.[pcms]
+From beyond where Yuuho and Kousuke are sleeping, Senior[r]
+Maruko calls out.[pcms]
 
 *1184|
 [fc]
@@ -73,16 +76,19 @@ From beyond where Yuuho and Kousuke are sleeping, Senior Maruko calls out.[pcms]
 
 *1186|
 [fc]
-Senior slowly shifts her gaze towards where the luggage is kept.[pcms]
+Senior slowly shifts her gaze towards where the luggage is[r]
+kept.[pcms]
 
 *1187|
 [fc]
-It's easy to tell what she's looking at. It was a bottle of water.[pcms]
+It's easy to tell what she's looking at. It was a bottle of[r]
+water.[pcms]
 
 *1188|
 [fc]
-What's left now is about half of the 500 milliliter mineral water bottle that[r]
-Senior brought, and half of the 1 liter bottle that Kousuke had.[pcms]
+What's left now is about half of the 500 milliliter mineral[r]
+water bottle that Senior brought, and half of the 1 liter[r]
+bottle that Kousuke had.[pcms]
 
 *1189|
 [fc]
@@ -116,12 +122,13 @@ I'm a bit puzzled by the sudden change in topic.[pcms]
 
 *1195|
 [fc]
-Indeed, if you listen closely, the surroundings are deathly silent.[pcms]
+Indeed, if you listen closely, the surroundings are deathly[r]
+silent.[pcms]
 
 *1196|
 [fc]
-The signs of commotion from above ground that we could hear through the hatch[r]
-seem to have stopped...[pcms]
+The signs of commotion from above ground that we could hear[r]
+through the hatch seem to have stopped...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -129,8 +136,8 @@ seem to have stopped...[pcms]
 [fc]
 [vo_mar s="maru0976"]
 [ns]Margarita[nse]
-"...It's been like this since this morning. Wataru, have you noticed any[r]
-sounds?"[pcms]
+"...It's been like this since this morning. Wataru, have you[r]
+noticed any sounds?"[pcms]
 
 *1198|
 [fc]
@@ -139,8 +146,8 @@ sounds?"[pcms]
 
 *1199|
 [fc]
-The scarce remaining water and the silence above ground... I understood what[r]
-Senior was implying.[pcms]
+The scarce remaining water and the silence above ground... I[r]
+understood what Senior was implying.[pcms]
 
 *1200|
 [fc]
@@ -151,8 +158,8 @@ Senior was implying.[pcms]
 [fc]
 [vo_mar s="maru0977"]
 [ns]Margarita[nse]
-"Yes. I didn't want to move around much without accurate information... But we[r]
-can't help it without water."[pcms]
+"Yes. I didn't want to move around much without accurate[r]
+information... But we can't help it without water."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -164,8 +171,8 @@ can't help it without water."[pcms]
 
 *1203|
 [fc]
-Ren, who had been listening intently to our conversation, asks with a tremble in[r]
-her voice.[pcms]
+Ren, who had been listening intently to our conversation,[r]
+asks with a tremble in her voice.[pcms]
 
 *1204|
 [fc]
@@ -181,8 +188,8 @@ I hug Ren to reassure her and gently pat her back.[pcms]
 
 *1206|
 [fc]
-But honestly, the thought of returning to the surface... where they might be,[r]
-fills me with fear...[pcms]
+But honestly, the thought of returning to the surface...[r]
+where they might be, fills me with fear...[pcms]
 
 ;BGMë¶éûí‚é~
 [fadeoutbgm time=500]
@@ -209,8 +216,8 @@ Gong gong... gong gong...[pcms]
 
 *1209|
 [fc]
-Suddenly, a loud noise echoes, and Ren and I jump up while still in each other's[r]
-arms.[pcms]
+Suddenly, a loud noise echoes, and Ren and I jump up while[r]
+still in each other's arms.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -304,7 +311,8 @@ Could it be... they're attacking us!?[pcms]
 
 *1219|
 [fc]
-At Senior's command, we all strain our ears to listen. And then...[pcms]
+At Senior's command, we all strain our ears to listen. And[r]
+then...[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -345,19 +353,21 @@ I recognize this voice...!![pcms]
 
 *1225|
 [fc]
-Our faces light up instantly. We rush to the door in a panic.[pcms]
+Our faces light up instantly. We rush to the door in a[r]
+panic.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1226|
 [fc]
 [ns]Kousuke[nse]
-"Tadahiko, it's me, me! Kousuke! Wataru, Yuuho, and Ren-chan are here too!"[pcms]
+"Tadahiko, it's me, me! Kousuke! Wataru, Yuuho, and Ren-chan[r]
+are here too!"[pcms]
 
 *1227|
 [fc]
-When I shout back, after a brief pause, a voice comes from the other side of the[r]
-door.[pcms]
+When I shout back, after a brief pause, a voice comes from[r]
+the other side of the door.[pcms]
 
 *1228|
 [fc]
@@ -378,13 +388,15 @@ Tadahiko seems surprised to know it's us.[pcms]
 *1231|
 [fc]
 [ns]Kousuke[nse]
-"Of course! I believed it! Tadahiko wouldn't die even if you killed him!"[pcms]
+"Of course! I believed it! Tadahiko wouldn't die even if you[r]
+killed him!"[pcms]
 ;//Åóó‹ñ⁄
 
 *1232|
 [fc]
 [ns]Tadahiko[nse]
-"Yeah, I'm fine. But... let me in quickly! There's someone injured!"[pcms]
+"Yeah, I'm fine. But... let me in quickly! There's someone[r]
+injured!"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -400,7 +412,8 @@ Tadahiko seems surprised to know it's us.[pcms]
 
 *1235|
 [fc]
-We rush to remove the chains and pipes fortifying the iron door.[pcms]
+We rush to remove the chains and pipes fortifying the iron[r]
+door.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -416,11 +429,13 @@ We rush to remove the chains and pipes fortifying the iron door.[pcms]
 
 *1237|
 [fc]
-Maruko-senpai sharply calls out to Kousuke and me as we start moving.[pcms]
+Maruko-senpai sharply calls out to Kousuke and me as we[r]
+start moving.[pcms]
 
 *1238|
 [fc]
-Ignoring our surprised looks, the senior approaches the door and states clearly.[pcms]
+Ignoring our surprised looks, the senior approaches the door[r]
+and states clearly.[pcms]
 
 
 
@@ -429,8 +444,9 @@ Ignoring our surprised looks, the senior approaches the door and states clearly.
 [fc]
 [vo_mar s="maru0980"]
 [ns]Margarita[nse]
-"...Sorry to rush you, but answer this one thing. You said there's an injured[r]
-person, who is it? What caused the injury?"[pcms]
+"...Sorry to rush you, but answer this one thing. You said[r]
+there's an injured person, who is it? What caused the[r]
+injury?"[pcms]
 
 *1240|
 [fc]
@@ -439,7 +455,8 @@ person, who is it? What caused the injury?"[pcms]
 
 *1241|
 [fc]
-I hadn't thought of that. But if Tadahiko's companion was bitten by them...[pcms]
+I hadn't thought of that. But if Tadahiko's companion was[r]
+bitten by them...[pcms]
 
 *1242|
 [fc]
@@ -460,8 +477,8 @@ In a panic, Yuuho shouts through the door.[pcms]
 [fc]
 [vo_yuh s="yuho0849"]
 [ns]Yuuho[nse]
-"Ah, um, Tadahiko. This person is Mar... uh, Margarita-san, and she's a senior[r]
-from our school."[pcms]
+"Ah, um, Tadahiko. This person is Mar... uh, Margarita-san,[r]
+and she's a senior from our school."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -469,8 +486,9 @@ from our school."[pcms]
 [fc]
 [vo_yuh s="yuho0850"]
 [ns]Yuuho[nse]
-"She might seem a bit unfriendly at times, but she's really dependable, you[r]
-know? We were able to escape here thanks to her."[pcms]
+"She might seem a bit unfriendly at times, but she's really[r]
+dependable, you know? We were able to escape here thanks to[r]
+her."[pcms]
 
 *1247|
 [fc]
@@ -479,7 +497,8 @@ know? We were able to escape here thanks to her."[pcms]
 
 *1248|
 [fc]
-Perhaps convinced by Yuuho's explanation, Tadahiko seems to readily accept it.[pcms]
+Perhaps convinced by Yuuho's explanation, Tadahiko seems to[r]
+readily accept it.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -487,7 +506,8 @@ Perhaps convinced by Yuuho's explanation, Tadahiko seems to readily accept it.[p
 *1249|
 [fc]
 [ns]Tadahiko[nse]
-"The injured person here is my old man. He's got a couple of broken ribs."[pcms]
+"The injured person here is my old man. He's got a couple of[r]
+broken ribs."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -513,7 +533,8 @@ Maruko-senpai nods and signals us.[pcms]
 
 *1253|
 [fc]
-Kousuke and I compete to remove the chains and iron pipes from the iron door.[pcms]
+Kousuke and I compete to remove the chains and iron pipes[r]
+from the iron door.[pcms]
 
 *1254|
 [fc]

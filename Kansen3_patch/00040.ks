@@ -20,8 +20,8 @@
 
 *984|
 [fc]
-As I rushed down the stairs and reached Kousuke, he had just hung up his cell[r]
-phone.[pcms]
+As I rushed down the stairs and reached Kousuke, he had just[r]
+hung up his cell phone.[pcms]
 
 ;//コウピン
 [ChrSetEx layer=1 chbase="kou_e11"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
@@ -39,7 +39,8 @@ phone.[pcms]
 *987|
 [fc]
 [ns]Kousuke[nse]
-"Yeah, Yuuho and the others are on the first floor right now. See you later!"[pcms]
+"Yeah, Yuuho and the others are on the first floor right[r]
+now. See you later!"[pcms]
 
 *988|
 [fc]
@@ -51,8 +52,9 @@ phone.[pcms]
 
 *989|
 [fc]
-With only a brief greeting to the master and his wife, Kousuke and I dashed out[r]
-of the shop and headed for the elevator hall.[pcms]
+With only a brief greeting to the master and his wife,[r]
+Kousuke and I dashed out of the shop and headed for the[r]
+elevator hall.[pcms]
 
 ;//BG：LASER内部１
 ;//SE008(エレベーターのドアが開く音)
@@ -63,13 +65,14 @@ of the shop and headed for the elevator hall.[pcms]
 
 *990|
 [fc]
-In the elevator, I was impatient to move quickly, and as soon as we reached the[r]
-first floor, I immediately leaped out of the opening doors.[pcms]
+In the elevator, I was impatient to move quickly, and as[r]
+soon as we reached the first floor, I immediately leaped out[r]
+of the opening doors.[pcms]
 
 *991|
 [fc]
-It was as if I were a thoroughbred that had been penned in at the starting gate[r]
-of a horse race.[pcms]
+It was as if I were a thoroughbred that had been penned in[r]
+at the starting gate of a horse race.[pcms]
 
 *992|
 [fc]
@@ -100,8 +103,8 @@ At that moment, I heard Ren's scream.[pcms]
 
 *997|
 [fc]
-With an unbearable anxiety in my chest, Kousuke and I ran towards the lobby[r]
-where we heard Ren's scream.[pcms]
+With an unbearable anxiety in my chest, Kousuke and I ran[r]
+towards the lobby where we heard Ren's scream.[pcms]
 
 *998|
 [fc]
@@ -112,16 +115,19 @@ Though it was only about 10 meters from the elevator hall.[pcms]
 
 *999|
 [fc]
-It was just a nuisance to push through the crowd of onlookers surrounding us.[pcms]
+It was just a nuisance to push through the crowd of[r]
+onlookers surrounding us.[pcms]
 
 *1000|
 [fc]
-When I finally pushed through the wall of people and jumped into the center of[r]
-the commotion, the first thing I saw was Ren's frightened face.[pcms]
+When I finally pushed through the wall of people and jumped[r]
+into the center of the commotion, the first thing I saw was[r]
+Ren's frightened face.[pcms]
 
 *1001|
 [fc]
-beautiful legs stretching gracefully and a large man being blown away.[pcms]
+beautiful legs stretching gracefully and a large man being[r]
+blown away.[pcms]
 
 ;//〆：EV　人を蹴り上げるマルガリータ　一瞬表示
 [evcg storage="EV008c"][trans_c cross time=300]
@@ -145,8 +151,8 @@ beautiful legs stretching gracefully and a large man being blown away.[pcms]
 
 *1003|
 [fc]
-Following that, the sound of something heavy falling echoed throughout the[r]
-spacious hall.[pcms]
+Following that, the sound of something heavy falling echoed[r]
+throughout the spacious hall.[pcms]
 
 ;//BG:1Fホール
 ;//表示済み
@@ -167,7 +173,8 @@ spacious hall.[pcms]
 [fc]
 [vo_ren s="ren0024"]
 [ns]Ren[nse]
-"Big brother! Senpai... Senpai just happened to pass by and..."[pcms]
+"Big brother! Senpai... Senpai just happened to pass by[r]
+and..."[pcms]
 
 *1006|
 [fc]
@@ -178,28 +185,31 @@ spacious hall.[pcms]
 
 *1007|
 [fc]
-As I calmed down a bit and looked around, I saw Yuuho standing excitedly in[r]
-front of Ren, as if trying to protect her.[pcms]
+As I calmed down a bit and looked around, I saw Yuuho[r]
+standing excitedly in front of Ren, as if trying to protect[r]
+her.[pcms]
 
 *1008|
 [fc]
-And on the floor, lying face down, was a man exposing his ugly figure... I[r]
-couldn't see his face, but judging by his build, he was probably Shigeyoshi from[r]
-the local delinquent group.[pcms]
+And on the floor, lying face down, was a man exposing his[r]
+ugly figure... I couldn't see his face, but judging by his[r]
+build, he was probably Shigeyoshi from the local delinquent[r]
+group.[pcms]
 
 *1009|
 [fc]
-Gazing down... or rather looking down with disdain, stood Margarita-senpai,[r]
-looking valiant.[pcms]
+Gazing down... or rather looking down with disdain, stood[r]
+Margarita-senpai, looking valiant.[pcms]
 
 *1010|
 [fc]
-Apparently, the sound of falling earlier was Senpai knocking this guy down.[pcms]
+Apparently, the sound of falling earlier was Senpai knocking[r]
+this guy down.[pcms]
 
 *1011|
 [fc]
-But we couldn't relax yet. Lined up around the three of them were members of the[r]
-delinquent group.[pcms]
+But we couldn't relax yet. Lined up around the three of them[r]
+were members of the delinquent group.[pcms]
 
 *1012|
 [fc]
@@ -208,13 +218,15 @@ delinquent group.[pcms]
 
 *1013|
 [fc]
-Already in a battle stance, Kousuke moved away from me as I stepped further in[r]
-front of Yuuho to take a protective stance for both of them.[pcms]
+Already in a battle stance, Kousuke moved away from me as I[r]
+stepped further in front of Yuuho to take a protective[r]
+stance for both of them.[pcms]
 
 *1014|
 [fc]
-Rubbing his stomach where he had taken Senpai's kick, Shigeyoshi slowly stood up[r]
-with movements as sluggish as his appearance suggested and glared at Senpai.[pcms]
+Rubbing his stomach where he had taken Senpai's kick,[r]
+Shigeyoshi slowly stood up with movements as sluggish as his[r]
+appearance suggested and glared at Senpai.[pcms]
 
 ;//シゲピン
 [ChrSetEx layer=1 chbase="shige_c1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
@@ -226,8 +238,8 @@ with movements as sluggish as his appearance suggested and glared at Senpai.[pcm
 
 *1016|
 [fc]
-With only his momentum to rely on due to his bulky body, Shigeyoshi charged[r]
-straight at Senpai.[pcms]
+With only his momentum to rely on due to his bulky body,[r]
+Shigeyoshi charged straight at Senpai.[pcms]
 
 *1017|
 [fc]
@@ -247,8 +259,8 @@ The leader of the delinquent group appeared from behind...[pcms]
 
 *1019a|
 [fc]
-Shigeyoshi stopped in his tracks when he was sharply reprimanded by Jin, whose[r]
-name was known to us.[pcms]
+Shigeyoshi stopped in his tracks when he was sharply[r]
+reprimanded by Jin, whose name was known to us.[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -259,8 +271,9 @@ name was known to us.[pcms]
 
 *1021|
 [fc]
-With just a quick glance around to grasp the situation, Jin spoke to Shigeyoshi[r]
-with a calm voice filled with quiet anger.[pcms]
+With just a quick glance around to grasp the situation, Jin[r]
+spoke to Shigeyoshi with a calm voice filled with quiet[r]
+anger.[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c3"][ChrSetXY layer=1 x=0 y=0]
 [ChrSetEx layer=2 chbase="shige_c2"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
@@ -284,18 +297,20 @@ with a calm voice filled with quiet anger.[pcms]
 
 *1025|
 [fc]
-Reluctantly responding to his elder's words, Shigeyoshi grumbled like a growling[r]
-bulldog while glaring at us in the latter half of his statement.[pcms]
+Reluctantly responding to his elder's words, Shigeyoshi[r]
+grumbled like a growling bulldog while glaring at us in the[r]
+latter half of his statement.[pcms]
 
 *1026|
 [fc]
-At least for now, being admonished by leader Jin, Shigeyoshi seemed to remember[r]
-what he had been ordered to do.[pcms]
+At least for now, being admonished by leader Jin, Shigeyoshi[r]
+seemed to remember what he had been ordered to do.[pcms]
 
 *1027|
 [fc]
-Glowering at us... especially at Senpai who had made him grovel in front of his[r]
-friends, he soon turned his gaze back to Jin and moved closer to him.[pcms]
+Glowering at us... especially at Senpai who had made him[r]
+grovel in front of his friends, he soon turned his gaze back[r]
+to Jin and moved closer to him.[pcms]
 
 ;//SE停止(レイヤー２番の雑踏ループ。2秒でF.O.)
 [stopse buf=0]
@@ -314,8 +329,9 @@ friends, he soon turned his gaze back to Jin and moved closer to him.[pcms]
 
 *1029|
 [fc]
-With a bright and coquettish voice, a familiar voice reached my ears... In that[r]
-moment, Mizuki appeared with Jin's underlings in tow.[pcms]
+With a bright and coquettish voice, a familiar voice reached[r]
+my ears... In that moment, Mizuki appeared with Jin's[r]
+underlings in tow.[pcms]
 
 [ChrSetEx layer=2 chbase="mizu_e3"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
@@ -353,8 +369,9 @@ moment, Mizuki appeared with Jin's underlings in tow.[pcms]
 
 *1034|
 [fc]
-Perhaps she had only been looking at Jin; upon hearing Kousuke's shout, Mizuki[r]
-seemed to notice us for the first time and her complexion changed.[pcms]
+Perhaps she had only been looking at Jin; upon hearing[r]
+Kousuke's shout, Mizuki seemed to notice us for the first[r]
+time and her complexion changed.[pcms]
 
 *1035|
 [fc]
@@ -362,9 +379,9 @@ It's clearly written as 'awkward' in a single word.[pcms]
 
 *1036|
 [fc]
-For a while, she and Kousuke... rather, she silently stared at each other, but[r]
-then Mizuki suddenly averted her gaze and approached Jin, leaning against his[r]
-arm.[pcms]
+For a while, she and Kousuke... rather, she silently stared[r]
+at each other, but then Mizuki suddenly averted her gaze and[r]
+approached Jin, leaning against his arm.[pcms]
 
 [ChrSetEx layer=2 chbase="mizu_e8"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
@@ -376,8 +393,8 @@ arm.[pcms]
 
 *1038|
 [fc]
-The face she made as she looked up at Jin with a flirtatious gaze was no longer[r]
-the Mizuki we knew.[pcms]
+The face she made as she looked up at Jin with a flirtatious[r]
+gaze was no longer the Mizuki we knew.[pcms]
 
 *1039|
 [fc]
@@ -406,13 +423,14 @@ The face of a gang leader's girl. That's what it was.[pcms]
 
 *1043|
 [fc]
-As the two were about to leave together, Kousuke called out from behind.[pcms]
+As the two were about to leave together, Kousuke called out[r]
+from behind.[pcms]
 
 *1044|
 [fc]
 [ns]Kousuke[nse]
-"Don't hang out with those guys, come back here! You quit school on your own[r]
-too"[pcms]
+"Don't hang out with those guys, come back here! You quit[r]
+school on your own too"[pcms]
 
 ;//コウ1+瑞2
 [chara_int]
@@ -430,8 +448,8 @@ too"[pcms]
 *1046|
 [fc]
 [ns]Kousuke[nse]
-"Quitting without consulting anyone isn't like you, right? I'm still waiting for[r]
-you..."[pcms]
+"Quitting without consulting anyone isn't like you, right?[r]
+I'm still waiting for you..."[pcms]
 
 [ChrSetEx layer=2 chbase="mizu_e7"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
@@ -439,7 +457,8 @@ you..."[pcms]
 [fc]
 [vo_miz s="mizuki0064"]
 [ns]Mizuki[nse]
-"Shut up! I don't have anything to do with you anymore, do I!?"[pcms]
+"Shut up! I don't have anything to do with you anymore, do[r]
+I!?"[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e5"][ChrSetXY layer=1 x=0 y=0]
 [ChrSetEx layer=2 chbase="mizu_e4"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
@@ -452,8 +471,9 @@ you..."[pcms]
 *1049|
 [fc]
 [ns]Wataru[nse]
-"Hey hey, don't get so worked up, calm down a bit, both of you. I understand[r]
-Kousuke's feelings, but Mizuki has her own circumstances too..."[pcms]
+"Hey hey, don't get so worked up, calm down a bit, both of[r]
+you. I understand Kousuke's feelings, but Mizuki has her own[r]
+circumstances too..."[pcms]
 
 [ChrSetEx layer=2 chbase="mizu_e7"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
@@ -461,26 +481,29 @@ Kousuke's feelings, but Mizuki has her own circumstances too..."[pcms]
 [fc]
 [vo_miz s="mizuki0065"]
 [ns]Mizuki[nse]
-"Circumstances... Shut up! Don't talk like you know everything when you don't[r]
-know anything!!"[pcms]
+"Circumstances... Shut up! Don't talk like you know[r]
+everything when you don't know anything!!"[pcms]
 
 *1051|
 [fc]
-Mizuki's shout seemed to freeze the atmosphere around us solid.[pcms]
+Mizuki's shout seemed to freeze the atmosphere around us[r]
+solid.[pcms]
 
 *1052|
 [fc]
-Indeed, I only had guesses about what had happened between Mizuki and Kousuke.[pcms]
+Indeed, I only had guesses about what had happened between[r]
+Mizuki and Kousuke.[pcms]
 
 *1053|
 [fc]
-I mentioned 'circumstances', but I really didn't know anything about Mizuki's[r]
-situation.[pcms]
+I mentioned 'circumstances', but I really didn't know[r]
+anything about Mizuki's situation.[pcms]
 
 *1054|
 [fc]
-Rather than saying it was unreasonable for Mizuki to be angry, her shout made[r]
-the hollowness of my words stand out even more.[pcms]
+Rather than saying it was unreasonable for Mizuki to be[r]
+angry, her shout made the hollowness of my words stand out[r]
+even more.[pcms]
 
 ;//♪：cage　フェードアウト
 [fadeoutbgm time=500]
@@ -497,7 +520,8 @@ the hollowness of my words stand out even more.[pcms]
 
 *1056|
 [fc]
-At that moment, an unfamiliar female voice echoed as if tumbling into the space.[pcms]
+At that moment, an unfamiliar female voice echoed as if[r]
+tumbling into the space.[pcms]
 
 ;//朋ピン
 [chara_int]
@@ -505,18 +529,19 @@ At that moment, an unfamiliar female voice echoed as if tumbling into the space.
 
 *1057|
 [fc]
-As we turned towards the source of the voice as if repelled, a girl with an[r]
-unusual aura was brought over by men who seemed to be Jin's underlings.[pcms]
+As we turned towards the source of the voice as if repelled,[r]
+a girl with an unusual aura was brought over by men who[r]
+seemed to be Jin's underlings.[pcms]
 
 *1058|
 [fc]
-In the frozen space, Jin's brows furrowed slightly as he smiled wryly upon[r]
-seeing the girl.[pcms]
+In the frozen space, Jin's brows furrowed slightly as he[r]
+smiled wryly upon seeing the girl.[pcms]
 
 *1059|
 [fc]
-But as if blowing away any concern, the girl, still clad in an oversized men's[r]
-shirt, just looked around curiously.[pcms]
+But as if blowing away any concern, the girl, still clad in[r]
+an oversized men's shirt, just looked around curiously.[pcms]
 
 [ChrSetEx layer=1 chbase="tomomi_a4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -542,7 +567,8 @@ shirt, just looked around curiously.[pcms]
 [fc]
 [vo_mob s="tomomi0008"]
 [ns]Girl[nse]
-"Where's the food? It looked delicious... sorry for interrupting..."[pcms]
+"Where's the food? It looked delicious... sorry for[r]
+interrupting..."[pcms]
 ;//＠五十嵐
 
 *1063|
@@ -560,7 +586,8 @@ shirt, just looked around curiously.[pcms]
 *1065|
 [fc]
 [ns]Jin[nse]
-"...If it's food you want, we have it, so don't make a fuss."[pcms]
+"...If it's food you want, we have it, so don't make a[r]
+fuss."[pcms]
 
 [ChrSetEx layer=2 chbase="tomomi_a6"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
@@ -588,25 +615,27 @@ shirt, just looked around curiously.[pcms]
 
 *1069|
 [fc]
-Hearing Jin's words which seemed slightly disgusted, the girl beamed with a[r]
-broad smile.[pcms]
+Hearing Jin's words which seemed slightly disgusted, the[r]
+girl beamed with a broad smile.[pcms]
 
 *1070|
 [fc]
-The face of the girl I saw for the first time. Her tone and expression were[r]
-truly innocent, just like a clueless young child.[pcms]
+The face of the girl I saw for the first time. Her tone and[r]
+expression were truly innocent, just like a clueless young[r]
+child.[pcms]
 
 *1071|
 [fc]
-But her eyes were... "ominous." I didn't quite understand the meaning, but such[r]
-a word crossed my mind.[pcms]
+But her eyes were... "ominous." I didn't quite understand[r]
+the meaning, but such a word crossed my mind.[pcms]
 
 ;//BG：EV001B
 [evcg storage="EV001d"][trans_c cross time=300]
 
 *1072|
 [fc]
-The girl seemed to notice my shocked gaze and stared intently at my face.[pcms]
+The girl seemed to notice my shocked gaze and stared[r]
+intently at my face.[pcms]
 
 *1073|
 [fc]
@@ -614,13 +643,15 @@ Her eyes were as red as blood.[pcms]
 
 *1074|
 [fc]
-Even without knowing Ren's situation, I knew from biology class that children[r]
-can be born with such eyes if they have an extreme lack of melanin pigment.[pcms]
+Even without knowing Ren's situation, I knew from biology[r]
+class that children can be born with such eyes if they have[r]
+an extreme lack of melanin pigment.[pcms]
 
 *1075|
 [fc]
-But because Ren was close by, my instincts sensed that those eyes were not due[r]
-to some natural congenital condition but something more ominous.[pcms]
+But because Ren was close by, my instincts sensed that those[r]
+eyes were not due to some natural congenital condition but[r]
+something more ominous.[pcms]
 
 *1076|
 [fc]
@@ -628,8 +659,9 @@ Ominous...?[pcms]
 
 *1077|
 [fc]
-It felt odd to have such thoughts about a child I just met, but it was more of[r]
-an unsettling feeling that fit 'ominous' rather than 'anxious.'[pcms]
+It felt odd to have such thoughts about a child I just met,[r]
+but it was more of an unsettling feeling that fit 'ominous'[r]
+rather than 'anxious.'[pcms]
 
 [evcg storage="EV001e"][trans_c cross time=300]
 
@@ -659,7 +691,8 @@ an unsettling feeling that fit 'ominous' rather than 'anxious.'[pcms]
 
 *1080|
 [fc]
-The moment I unconsciously stepped back, Jin stepped in between me and the girl.[pcms]
+The moment I unconsciously stepped back, Jin stepped in[r]
+between me and the girl.[pcms]
 
 *1081|
 [fc]
@@ -672,9 +705,10 @@ The moment I unconsciously stepped back, Jin stepped in between me and the girl.
 
 *1082|
 [fc]
-Guiding the girl to change direction by pushing her shoulder, Jin called out to[r]
-Mizuki and Shigeyoshi, then quickly slipped through the opened ranks of his[r]
-underlings and headed towards the Shibuya Q Building across the way.[pcms]
+Guiding the girl to change direction by pushing her[r]
+shoulder, Jin called out to Mizuki and Shigeyoshi, then[r]
+quickly slipped through the opened ranks of his underlings[r]
+and headed towards the Shibuya Q Building across the way.[pcms]
 
 ;//瑞
 [ChrSetEx layer=1 chbase="mizu_e5"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
@@ -694,14 +728,15 @@ underlings and headed towards the Shibuya Q Building across the way.[pcms]
 
 *1085|
 [fc]
-Mizuki hurried after them, and although Kousuke called out to her, she pretended[r]
-not to hear and quickly lined up beside Jin as if she were his girlfriend.[pcms]
+Mizuki hurried after them, and although Kousuke called out[r]
+to her, she pretended not to hear and quickly lined up[r]
+beside Jin as if she were his girlfriend.[pcms]
 
 *1086|
 [fc]
-The last one left, Shigeyoshi, glared at us... especially at the senior, as if[r]
-to say he wouldn't forget the humiliation he was forcibly made to endure by[r]
-Jin's hand.[pcms]
+The last one left, Shigeyoshi, glared at us... especially at[r]
+the senior, as if to say he wouldn't forget the humiliation[r]
+he was forcibly made to endure by Jin's hand.[pcms]
 
 ;//マル1
 [ChrSetEx layer=1 chbase="maru_a1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
@@ -732,13 +767,15 @@ Jin's hand.[pcms]
 
 *1090|
 [fc]
-Seeing that Jin and the others had left and the danger had passed, the senior[r]
-briefly greeted us before turning to leave.[pcms]
+Seeing that Jin and the others had left and the danger had[r]
+passed, the senior briefly greeted us before turning to[r]
+leave.[pcms]
 
 *1091|
 [fc]
-Yuuho hurriedly thanked her, and while responding with few words, the senior[r]
-looked back at us with a smile that was so characteristic of her, somehow cool.[pcms]
+Yuuho hurriedly thanked her, and while responding with few[r]
+words, the senior looked back at us with a smile that was so[r]
+characteristic of her, somehow cool.[pcms]
 
 ;//マル退場
 [chara_int_ layer=1][trans_c cross time=150]
@@ -748,14 +785,15 @@ looked back at us with a smile that was so characteristic of her, somehow cool.[
 
 *1092|
 [fc]
-And then she turned on her heel and disappeared into the crowd as if nothing had[r]
-happened.[pcms]
+And then she turned on her heel and disappeared into the[r]
+crowd as if nothing had happened.[pcms]
 
 *1093|
 [fc]
 [vo_yuh s="yuho0043"]
 [ns]Yuuho[nse]
-"Haa... The senior is really cool, isn't she? Don't you think so?"[pcms]
+"Haa... The senior is really cool, isn't she? Don't you[r]
+think so?"[pcms]
 
 *1094|
 [fc]
@@ -778,7 +816,8 @@ happened.[pcms]
 [fc]
 [vo_ren s="ren0025"]
 [ns]Ren[nse]
-"Big brother, are you worried about that girl with the red eyes?"[pcms]
+"Big brother, are you worried about that girl with the red[r]
+eyes?"[pcms]
 
 *1097|
 [fc]
@@ -787,8 +826,9 @@ happened.[pcms]
 
 *1098|
 [fc]
-Ren looked up at me anxiously, and while I smiled back at her, I couldn't help[r]
-but be concerned about that girl's red eyes.[pcms]
+Ren looked up at me anxiously, and while I smiled back at[r]
+her, I couldn't help but be concerned about that girl's red[r]
+eyes.[pcms]
 
 ;//♪：outside　フェードアウト
 [fadeoutbgm time=500]
@@ -798,8 +838,8 @@ but be concerned about that girl's red eyes.[pcms]
 
 *1099|
 [fc]
-But in the end, even if I was concerned, there was no way to know her true[r]
-identity, so we headed home.[pcms]
+But in the end, even if I was concerned, there was no way to[r]
+know her true identity, so we headed home.[pcms]
 
 ;//♪：lastsummer　フェードイン
 [bgm storage="BGM01"]
@@ -833,7 +873,8 @@ identity, so we headed home.[pcms]
 *1103|
 [fc]
 [ns]Wataru[nse]
-"See ya, Kousuke! ...Hey, that guy left without waiting for my reply."[pcms]
+"See ya, Kousuke! ...Hey, that guy left without waiting for[r]
+my reply."[pcms]
 
 ;//悠1+漣2
 [ChrSetEx layer=1 chbase="yuho_b2"][ChrSetXY layer=1 x=0 y=0]
@@ -843,8 +884,9 @@ identity, so we headed home.[pcms]
 [fc]
 [vo_yuh s="yuho0046"]
 [ns]Yuuho[nse]
-"Well, Kousuke has been down since he saw Mizuki... I never thought we'd run[r]
-into her there, but he's been feeling down ever since."[pcms]
+"Well, Kousuke has been down since he saw Mizuki... I never[r]
+thought we'd run into her there, but he's been feeling down[r]
+ever since."[pcms]
 
 *1105|
 [fc]
@@ -853,12 +895,14 @@ into her there, but he's been feeling down ever since."[pcms]
 
 *1106|
 [fc]
-Both Kousuke and I had long known from rumors among classmates that Mizuki had[r]
-quit school and was hanging out with that delinquent group.[pcms]
+Both Kousuke and I had long known from rumors among[r]
+classmates that Mizuki had quit school and was hanging out[r]
+with that delinquent group.[pcms]
 
 *1107|
 [fc]
-But the fact that she rejected us in such a manner was also true.[pcms]
+But the fact that she rejected us in such a manner was also[r]
+true.[pcms]
 
 [ChrSetEx layer=1 chbase="yuho_b3"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
@@ -894,7 +938,8 @@ But the fact that she rejected us in such a manner was also true.[pcms]
 
 *1112|
 [fc]
-With a bright smile, Yuuho responded to Ren and gracefully mounted her bicycle.[pcms]
+With a bright smile, Yuuho responded to Ren and gracefully[r]
+mounted her bicycle.[pcms]
 
 ;//航の間違いかと思われ
 
@@ -911,8 +956,9 @@ With a bright smile, Yuuho responded to Ren and gracefully mounted her bicycle.[
 
 *1115|
 [fc]
-Yuuho pedaled off energetically as if she were racing me on bicycles again. It[r]
-must be an action she's completely unaware of...[pcms]
+Yuuho pedaled off energetically as if she were racing me on[r]
+bicycles again. It must be an action she's completely[r]
+unaware of...[pcms]
 
 *1116|
 [fc]
@@ -920,8 +966,8 @@ But still, that panty shot is definitely cheating...[pcms]
 
 *1117|
 [fc]
-As I absentmindedly watched Yuuho's retreating figure, I was suddenly smacked on[r]
-the back of my head from behind.[pcms]
+As I absentmindedly watched Yuuho's retreating figure, I was[r]
+suddenly smacked on the back of my head from behind.[pcms]
 
 ;//se011（漣に頭をはたかれる）
 [se buf=0 storage="se011"]
@@ -940,8 +986,9 @@ the back of my head from behind.[pcms]
 
 *1119|
 [fc]
-I reflexively held my head where it was hit and turned around to face Ren who[r]
-was standing behind me. Ren was pouting and staring intently at my face.[pcms]
+I reflexively held my head where it was hit and turned[r]
+around to face Ren who was standing behind me. Ren was[r]
+pouting and staring intently at my face.[pcms]
 
 [ChrSetEx layer=1 chbase="ren_j6"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -949,7 +996,8 @@ was standing behind me. Ren was pouting and staring intently at my face.[pcms]
 [fc]
 [vo_ren s="ren0028"]
 [ns]Ren[nse]
-"Big brother, you were looking at Yuuho-chan's panties again, weren't you?"[pcms]
+"Big brother, you were looking at Yuuho-chan's panties[r]
+again, weren't you?"[pcms]
 
 *1121|
 [fc]
@@ -962,7 +1010,8 @@ was standing behind me. Ren was pouting and staring intently at my face.[pcms]
 [fc]
 [vo_ren s="ren0029"]
 [ns]Ren[nse]
-"You're panicking like that because you were looking, right?"[pcms]
+"You're panicking like that because you were looking,[r]
+right?"[pcms]
 
 *1123|
 [fc]
@@ -971,9 +1020,9 @@ was standing behind me. Ren was pouting and staring intently at my face.[pcms]
 
 *1124|
 [fc]
-In a panic to correct myself before Yuuho could tell on me and ruin my enjoyment[r]
-of the panty shots I always look forward to, I noticed a change in Ren's[r]
-complexion.[pcms]
+In a panic to correct myself before Yuuho could tell on me[r]
+and ruin my enjoyment of the panty shots I always look[r]
+forward to, I noticed a change in Ren's complexion.[pcms]
 
 [ChrSetEx layer=1 chbase="ren_j11"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -985,8 +1034,8 @@ complexion.[pcms]
 
 *1126|
 [fc]
-I firmly held her in place as she tried to escape my gaze for a moment and[r]
-looked into Ren's face again.[pcms]
+I firmly held her in place as she tried to escape my gaze[r]
+for a moment and looked into Ren's face again.[pcms]
 
 [ChrSetEx layer=1 chbase="ren_j5"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -1005,22 +1054,24 @@ looked into Ren's face again.[pcms]
 
 *1129|
 [fc]
-I stated it decisively and Ren's expression changed from anger to something more[r]
-anxious.[pcms]
+I stated it decisively and Ren's expression changed from[r]
+anger to something more anxious.[pcms]
 
 *1130|
 [fc]
-This was the kind of expression Ren often made when trying to hide that she[r]
-wasn't feeling well.[pcms]
+This was the kind of expression Ren often made when trying[r]
+to hide that she wasn't feeling well.[pcms]
 
 *1131|
 [fc]
-But I pressed on as if to confirm it by touching my forehead to hers.[pcms]
+But I pressed on as if to confirm it by touching my forehead[r]
+to hers.[pcms]
 
 *1132|
 [fc]
 [ns]Wataru[nse]
-"You're still hot, aren't you? Hasn't your fever gone down yet?"[pcms]
+"You're still hot, aren't you? Hasn't your fever gone down[r]
+yet?"[pcms]
 
 [ChrSetEx layer=1 chbase="ren_j11"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -1028,14 +1079,14 @@ But I pressed on as if to confirm it by touching my forehead to hers.[pcms]
 [fc]
 [vo_ren s="ren0032"]
 [ns]Ren[nse]
-"I'm fine with this much. It's normal for me to get a slight fever when I go out[r]
-in the summer every year."[pcms]
+"I'm fine with this much. It's normal for me to get a slight[r]
+fever when I go out in the summer every year."[pcms]
 
 *1134|
 [fc]
 [ns]Wataru[nse]
-"No, you always push yourself too hard like that. I'll make dinner, so you just[r]
-go to bed in your room, okay?"[pcms]
+"No, you always push yourself too hard like that. I'll make[r]
+dinner, so you just go to bed in your room, okay?"[pcms]
 
 [ChrSetEx layer=1 chbase="ren_j1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -1048,8 +1099,8 @@ go to bed in your room, okay?"[pcms]
 *1136|
 [fc]
 [ns]Wataru[nse]
-"It's curry, right? Even I can make that much. Rely on your big brother a[r]
-little."[pcms]
+"It's curry, right? Even I can make that much. Rely on your[r]
+big brother a little."[pcms]
 
 [ChrSetEx layer=1 chbase="ren_j20"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -1061,8 +1112,8 @@ little."[pcms]
 
 *1138|
 [fc]
-As Ren looked up at me with flushed cheeks, I patted her head and gave her a[r]
-warm smile.[pcms]
+As Ren looked up at me with flushed cheeks, I patted her[r]
+head and gave her a warm smile.[pcms]
 
 ;//〆：黒画面
 ;[fadeoutbgm time=500]

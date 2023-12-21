@@ -28,12 +28,14 @@
 
 *1258|
 [fc]
-Tadahiko was carrying the boss, who was dressed in a kimono, on his back. For[r]
-now, they let the boss rest where Ren had been sleeping.[pcms]
+Tadahiko was carrying the boss, who was dressed in a kimono,[r]
+on his back. For now, they let the boss rest where Ren had[r]
+been sleeping.[pcms]
 
 *1259|
 [fc]
-The boss was sweating profusely and had a pained expression on his face.[pcms]
+The boss was sweating profusely and had a pained expression[r]
+on his face.[pcms]
 
 *1260|
 [fc]
@@ -49,8 +51,9 @@ The boss was sweating profusely and had a pained expression on his face.[pcms]
 
 *1262|
 [fc]
-It didn't seem like it would be effective for a broken rib, but it was better[r]
-than nothing, so they gave him some painkillers to take.[pcms]
+It didn't seem like it would be effective for a broken rib,[r]
+but it was better than nothing, so they gave him some[r]
+painkillers to take.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -92,8 +95,8 @@ Ren and Yuuho were busily wiping the sweat off the boss.[pcms]
 
 *1268|
 [fc]
-After making sure everything was taken care of, Tadahiko finally sat down[r]
-heavily.[pcms]
+After making sure everything was taken care of, Tadahiko[r]
+finally sat down heavily.[pcms]
 
 *1269|
 [fc]
@@ -103,8 +106,8 @@ heavily.[pcms]
 
 *1270|
 [fc]
-He must have been very thirsty, as Tadahiko was gulping down water from a[r]
-plastic bottle.[pcms]
+He must have been very thirsty, as Tadahiko was gulping down[r]
+water from a plastic bottle.[pcms]
 
 ;//@konya テキスト修正
 ;//よく見れば、いつもの白スーツはボロボロで、
@@ -112,11 +115,13 @@ plastic bottle.[pcms]
 
 *1271|
 [fc]
-Upon closer inspection, his shirt was tattered, with tears and cuts all over.[pcms]
+Upon closer inspection, his shirt was tattered, with tears[r]
+and cuts all over.[pcms]
 
 *1272|
 [fc]
-And for some reason, he was wearing long boots and had a headlamp turned on...?[pcms]
+And for some reason, he was wearing long boots and had a[r]
+headlamp turned on...?[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -135,12 +140,13 @@ And for some reason, he was wearing long boots and had a headlamp turned on...?[
 *1275|
 [fc]
 [ns]Wataru[nse]
-"That's right! After all, it's Tadahiko we're talking about!"[pcms]
+"That's right! After all, it's Tadahiko we're talking[r]
+about!"[pcms]
 
 *1276|
 [fc]
-The joy of seeing familiar faces, especially since it was Tadahiko, made us all[r]
-start talking to him at once.[pcms]
+The joy of seeing familiar faces, especially since it was[r]
+Tadahiko, made us all start talking to him at once.[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -151,8 +157,8 @@ start talking to him at once.[pcms]
 
 *1278|
 [fc]
-Tadahiko responded with his usual smile as if nothing in the world mattered to[r]
-him.[pcms]
+Tadahiko responded with his usual smile as if nothing in the[r]
+world mattered to him.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -160,8 +166,8 @@ him.[pcms]
 [fc]
 [vo_yuh s="yuho0852"]
 [ns]Yuuho[nse]
-"Hey, I called you so many times, Tadahiko? Why didn't you answer? And... where[r]
-is Inori-san?"[pcms]
+"Hey, I called you so many times, Tadahiko? Why didn't you[r]
+answer? And... where is Inori-san?"[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -177,34 +183,35 @@ Tadahiko paused for a moment at Yuuho's question.[pcms]
 *1282|
 [fc]
 [ns]Tadahiko[nse]
-"Inori is still at the shop. She's useless without me. She's just waiting there[r]
-for me."[pcms]
+"Inori is still at the shop. She's useless without me. She's[r]
+just waiting there for me."[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1283|
 [fc]
 [ns]Tadahiko[nse]
-"The phone... sorry. I wasn't in a position to... Oh, true. There were quite a[r]
-few missed calls."[pcms]
+"The phone... sorry. I wasn't in a position to... Oh, true.[r]
+There were quite a few missed calls."[pcms]
 
 *1284|
 [fc]
-Looking at his mobile phone he took out of his pocket, Tadahiko scratched the[r]
-tip of his nose.[pcms]
+Looking at his mobile phone he took out of his pocket,[r]
+Tadahiko scratched the tip of his nose.[pcms]
 
 *1285|
 [fc]
 [ns]Wataru[nse]
-"Not in a position to... What have you been doing all this time, Tadahiko?"[pcms]
+"Not in a position to... What have you been doing all this[r]
+time, Tadahiko?"[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1286|
 [fc]
 [ns]Tadahiko[nse]
-"I was holed up in the gang's office. With the neighbors, the priest from behind[r]
-us, and my underlings."[pcms]
+"I was holed up in the gang's office. With the neighbors,[r]
+the priest from behind us, and my underlings."[pcms]
 
 *1287|
 [fc]
@@ -216,18 +223,20 @@ us, and my underlings."[pcms]
 
 *1288|
 [fc]
-A siege and a war of attrition... The content of Tadahiko's story was straight[r]
-out of a panic action movie.[pcms]
+A siege and a war of attrition... The content of Tadahiko's[r]
+story was straight out of a panic action movie.[pcms]
 
 *1289|
 [fc]
-However, it seems that a blood-splattered underling turned into "one of them,"[r]
-and a big fight broke out inside the office.[pcms]
+However, it seems that a blood-splattered underling turned[r]
+into "one of them," and a big fight broke out inside the[r]
+office.[pcms]
 
 *1290|
 [fc]
-In the end, during the standoff in the kitchen, the infected priest lured the[r]
-boss into a trap, causing considerable chaos, as Tadahiko explained.[pcms]
+In the end, during the standoff in the kitchen, the infected[r]
+priest lured the boss into a trap, causing considerable[r]
+chaos, as Tadahiko explained.[pcms]
 
 ;//@konya ev025 地下道(BG扱い)
 [evcg storage="EV025b"][trans_c cross time=300]
@@ -237,26 +246,28 @@ boss into a trap, causing considerable chaos, as Tadahiko explained.[pcms]
 *1291|
 [fc]
 [ns]Tadahiko[nse]
-""They" talk to people to lure them in. If the priest who became one of them[r]
-hadn't spoken to him, the old man wouldn't have ended up like this..."[pcms]
+""They" talk to people to lure them in. If the priest who[r]
+became one of them hadn't spoken to him, the old man[r]
+wouldn't have ended up like this..."[pcms]
 
 *1292|
 [fc]
-The cupboard that was blocking the kitchen fell over, and it seems the boss got[r]
-trapped underneath it and broke his bones.[pcms]
+The cupboard that was blocking the kitchen fell over, and it[r]
+seems the boss got trapped underneath it and broke his[r]
+bones.[pcms]
 
 *1293|
 [fc]
-Seeing that, Tadahiko carried the boss on his back and escaped through the[r]
-shrine's passageway...[pcms]
+Seeing that, Tadahiko carried the boss on his back and[r]
+escaped through the shrine's passageway...[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1294|
 [fc]
 [ns]Tadahiko[nse]
-"I left behind three young ones... They did it to let me and the old man[r]
-escape..."[pcms]
+"I left behind three young ones... They did it to let me and[r]
+the old man escape..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -272,7 +283,8 @@ escape..."[pcms]
 
 *1297|
 [fc]
-According to Tadahiko's story, our town is now completely overrun with them...[pcms]
+According to Tadahiko's story, our town is now completely[r]
+overrun with them...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -302,49 +314,53 @@ Tadahiko spoke with an unusually hesitant tone.[pcms]
 *1302|
 [fc]
 [ns]Tadahiko[nse]
-"During that time's construction work, all the manpower and materials around[r]
-here were managed by the previous head of our gang."[pcms]
+"During that time's construction work, all the manpower and[r]
+materials around here were managed by the previous head of[r]
+our gang."[pcms]
 
 *1303|
 [fc]
 [ns]Tadahiko[nse]
-"So when they were hiding Udagawa River underground during the construction[r]
-work, they also did some sewer maintenance. And while they were at it, they did[r]
-a little bit of groundwork..."[pcms]
+"So when they were hiding Udagawa River underground during[r]
+the construction work, they also did some sewer maintenance.[r]
+And while they were at it, they did a little bit of[r]
+groundwork..."[pcms]
 
 *1304|
 [fc]
-Tadahiko confessed that they had the sewer from under the shrine to Udagawa[r]
-River made big enough for people to pass through.[pcms]
+Tadahiko confessed that they had the sewer from under the[r]
+shrine to Udagawa River made big enough for people to pass[r]
+through.[pcms]
 
 *1305|
 [fc]
 [ns]Tadahiko[nse]
-"Well, there was some trouble with tampering with blueprints and greasing palms[r]
-with money..."[pcms]
+"Well, there was some trouble with tampering with blueprints[r]
+and greasing palms with money..."[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1306|
 [fc]
 [ns]Tadahiko[nse]
-"Thanks to that, our gang had a hidden passageway... In other words, a special[r]
-escape route."[pcms]
+"Thanks to that, our gang had a hidden passageway... In[r]
+other words, a special escape route."[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1307|
 [fc]
 [ns]Tadahiko[nse]
-"They actually wanted to connect it all the way to the office, but that would[r]
-have been bad in case of a raid. So, the nearby shrine became the entrance and[r]
-exit."[pcms]
+"They actually wanted to connect it all the way to the[r]
+office, but that would have been bad in case of a raid. So,[r]
+the nearby shrine became the entrance and exit."[pcms]
 
 *1308|
 [fc]
 [ns]Tadahiko[nse]
-"The priest at that time was a relative of the previous generation... And that's[r]
-how it's remained undiscovered until now."[pcms]
+"The priest at that time was a relative of the previous[r]
+generation... And that's how it's remained undiscovered[r]
+until now."[pcms]
 
 *1309|
 [fc]
@@ -367,7 +383,8 @@ We all interjected with a mix of amazement and disbelief.[pcms]
 
 *1312|
 [fc]
-But unlike us, Maruko-senpai seemed interested in the passageway.[pcms]
+But unlike us, Maruko-senpai seemed interested in the[r]
+passageway.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -375,8 +392,9 @@ But unlike us, Maruko-senpai seemed interested in the passageway.[pcms]
 [fc]
 [vo_mar s="maru0983"]
 [ns]Margarita[nse]
-"I see. But... one question remains. Was the original purpose of this[r]
-underground passage for transporting weapons or drugs?"[pcms]
+"I see. But... one question remains. Was the original[r]
+purpose of this underground passage for transporting weapons[r]
+or drugs?"[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -391,16 +409,16 @@ underground passage for transporting weapons or drugs?"[pcms]
 [fc]
 [vo_mar s="maru0984"]
 [ns]Margarita[nse]
-"So it was used regularly, not just for emergencies? Then you must know where[r]
-this passage leads to, right?"[pcms]
+"So it was used regularly, not just for emergencies? Then[r]
+you must know where this passage leads to, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1316|
 [fc]
 [ns]Tadahiko[nse]
-"You're getting more interesting by the minute. And you're quick-witted... I[r]
-like that."[pcms]
+"You're getting more interesting by the minute. And you're[r]
+quick-witted... I like that."[pcms]
 
 *1317|
 [fc]
@@ -409,15 +427,17 @@ The menacing look disappeared from Tadahiko's eyes.[pcms]
 *1318|
 [fc]
 [ns]Tadahiko[nse]
-"If you follow this passage, you can get out at Harajuku, and from under Meiji[r]
-Street, you can reach the underground channel of Shibuya River. A little further[r]
-and you can also return to Udagawa."[pcms]
+"If you follow this passage, you can get out at Harajuku,[r]
+and from under Meiji Street, you can reach the underground[r]
+channel of Shibuya River. A little further and you can also[r]
+return to Udagawa."[pcms]
 
 *1319|
 [fc]
 [ns]Tadahiko[nse]
-"It's connected to the basement of the government complex, and... I haven't[r]
-tried it myself, but there's talk that it's connected to a basement in DHK."[pcms]
+"It's connected to the basement of the government complex,[r]
+and... I haven't tried it myself, but there's talk that it's[r]
+connected to a basement in DHK."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -429,7 +449,8 @@ tried it myself, but there's talk that it's connected to a basement in DHK."[pcm
 
 *1321|
 [fc]
-After pondering for a while, the senior slowly began to speak.[pcms]
+After pondering for a while, the senior slowly began to[r]
+speak.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -437,8 +458,8 @@ After pondering for a while, the senior slowly began to speak.[pcms]
 [fc]
 [vo_mar s="maru0986"]
 [ns]Margarita[nse]
-"That means, if we use this passage and the dark channel, we can move around[r]
-with minimal exposure on the surface."[pcms]
+"That means, if we use this passage and the dark channel, we[r]
+can move around with minimal exposure on the surface."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -454,7 +475,8 @@ As she said this, the senior looked at me.[pcms]
 
 *1325|
 [fc]
-That's right... When the senior and I escaped from the academy, we fought them.[pcms]
+That's right... When the senior and I escaped from the[r]
+academy, we fought them.[pcms]
 
 *1326|
 [fc]
@@ -466,8 +488,8 @@ We could certainly defeat a small group of them...![pcms]
 [fc]
 [vo_mar s="maru0988"]
 [ns]Margarita[nse]
-"If we can avoid the large groups of 'Them' and move carefully, we should be[r]
-able to manage."[pcms]
+"If we can avoid the large groups of 'Them' and move[r]
+carefully, we should be able to manage."[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -489,14 +511,15 @@ able to manage."[pcms]
 *1330|
 [fc]
 [ns]Tadahiko[nse]
-"I see... Then let's head to our hideout. We were originally planning to take[r]
-Dad there."[pcms]
+"I see... Then let's head to our hideout. We were originally[r]
+planning to take Dad there."[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1331|
 [fc]
-In contrast to Tadahiko's cheerful demeanor, we were once again left speechless.[pcms]
+In contrast to Tadahiko's cheerful demeanor, we were once[r]
+again left speechless.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -518,8 +541,9 @@ In contrast to Tadahiko's cheerful demeanor, we were once again left speechless.
 *1334|
 [fc]
 [ns]Tadahiko[nse]
-"Well, it's not exactly a hideout, but 'Dedepou'. There's an entrance in the[r]
-back yard of that shop that connects to Udagawa."[pcms]
+"Well, it's not exactly a hideout, but 'Dedepou'. There's an[r]
+entrance in the back yard of that shop that connects to[r]
+Udagawa."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -531,8 +555,8 @@ back yard of that shop that connects to Udagawa."[pcms]
 
 *1336|
 [fc]
-I can't believe it... I've passed by that shop so many times and never noticed[r]
-anything like that...[pcms]
+I can't believe it... I've passed by that shop so many times[r]
+and never noticed anything like that...[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -546,20 +570,22 @@ anything like that...[pcms]
 *1338|
 [fc]
 [ns]Tadahiko[nse]
-"The shop should have been closed before opening time, so the shutters would be[r]
-down. If we're lucky, 'They' might not have gotten in there yet, and there[r]
-should be food there too."[pcms]
+"The shop should have been closed before opening time, so[r]
+the shutters would be down. If we're lucky, 'They' might not[r]
+have gotten in there yet, and there should be food there[r]
+too."[pcms]
 
 *1339|
 [fc]
 [ns]Tadahiko[nse]
-"If we follow Udagawa River, we won't have to go above ground even once. It'll[r]
-be tough walking through the river, but from here to 'Dedepou' is just around[r]
-the corner."[pcms]
+"If we follow Udagawa River, we won't have to go above[r]
+ground even once. It'll be tough walking through the river,[r]
+but from here to 'Dedepou' is just around the corner."[pcms]
 
 *1340|
 [fc]
-As he said this, Tadahiko slapped his rubber boots for emphasis.[pcms]
+As he said this, Tadahiko slapped his rubber boots for[r]
+emphasis.[pcms]
 
 *1341|
 [fc]
@@ -567,8 +593,8 @@ So that's why he was wearing a suit with rubber boots.[pcms]
 
 *1342|
 [fc]
-He must have been planning to go down into the underground Udagawa River all[r]
-along.[pcms]
+He must have been planning to go down into the underground[r]
+Udagawa River all along.[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -590,7 +616,8 @@ along.[pcms]
 *1345|
 [fc]
 [ns]Tadahiko[nse]
-"Don't mention it. If you're with these guys, you're as good as family to me!"[pcms]
+"Don't mention it. If you're with these guys, you're as good[r]
+as family to me!"[pcms]
 
 *1346|
 [fc]
@@ -601,9 +628,9 @@ Having declared this, Tadahiko stood up with vigor.[pcms]
 *1347|
 [fc]
 [ns]Tadahiko[nse]
-"Now that it's decided, we need to go back for your rubber boots. Wataru and[r]
-Kousuke aside, the rest of you are wearing indoor shoes, right? You'll slip and[r]
-end up covered in mud."[pcms]
+"Now that it's decided, we need to go back for your rubber[r]
+boots. Wataru and Kousuke aside, the rest of you are wearing[r]
+indoor shoes, right? You'll slip and end up covered in mud."[pcms]
 
 *1348|
 [fc]
@@ -615,8 +642,9 @@ end up covered in mud."[pcms]
 *1349|
 [fc]
 [ns]Tadahiko[nse]
-"There's a place under the government complex where we store supplies. It's[r]
-meant for our gang members... but under these circumstances, it should be fine."[pcms]
+"There's a place under the government complex where we store[r]
+supplies. It's meant for our gang members... but under these[r]
+circumstances, it should be fine."[pcms]
 
 *1350|
 [fc]
@@ -628,12 +656,13 @@ meant for our gang members... but under these circumstances, it should be fine."
 *1351|
 [fc]
 [ns]Tadahiko[nse]
-"There's no need for all of us to go. Just me, Wataru, and..."[pcms]
+"There's no need for all of us to go. Just me, Wataru,[r]
+and..."[pcms]
 
 *1352|
 [fc]
-As Tadahiko looked around at everyone's faces, the senior raised her hand in a[r]
-somewhat flustered manner.[pcms]
+As Tadahiko looked around at everyone's faces, the senior[r]
+raised her hand in a somewhat flustered manner.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -641,23 +670,25 @@ somewhat flustered manner.[pcms]
 [fc]
 [vo_mar s="maru0991"]
 [ns]Margarita[nse]
-"I-I'll go! No, I really want to go! Please take me with you!"[pcms]
+"I-I'll go! No, I really want to go! Please take me with[r]
+you!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1354|
 [fc]
-Maruko-senpai was sparkling with excitement like a child as she waited for[r]
-Tadahiko's response.[pcms]
+Maruko-senpai was sparkling with excitement like a child as[r]
+she waited for Tadahiko's response.[pcms]
 
 *1355|
 [fc]
-Come to think of it... The senior had mentioned she had researched underground[r]
-passages before...[pcms]
+Come to think of it... The senior had mentioned she had[r]
+researched underground passages before...[pcms]
 
 *1356|
 [fc]
-In such a situation, she must really want to go on an "exploration"...[pcms]
+In such a situation, she must really want to go on an[r]
+"exploration"...[pcms]
 
 *1357|
 [fc]
@@ -668,13 +699,13 @@ I couldn't help but give a wry smile.[pcms]
 
 *1358|
 [fc]
-What can I say... Even in an emergency, I guess I'm still me. Interests and[r]
-curiosities, those things don't change...[pcms]
+What can I say... Even in an emergency, I guess I'm still[r]
+me. Interests and curiosities, those things don't change...[pcms]
 
 *1359|
 [fc]
-Thinking only about Yuuho and Oshima-senpai had even led me to self-loathing,[r]
-which now seemed a bit silly.[pcms]
+Thinking only about Yuuho and Oshima-senpai had even led me[r]
+to self-loathing, which now seemed a bit silly.[pcms]
 
 *1360|
 [fc]
@@ -683,8 +714,9 @@ which now seemed a bit silly.[pcms]
 
 *1361|
 [fc]
-Rather than that, right now, I should be honestly happy about having met[r]
-Tadahiko... and about finding a seemingly safe destination.[pcms]
+Rather than that, right now, I should be honestly happy[r]
+about having met Tadahiko... and about finding a seemingly[r]
+safe destination.[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

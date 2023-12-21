@@ -46,7 +46,8 @@ I spread my arms wide and smiled at Yuuho.[pcms]
 
 *6680|
 [fc]
-The moment Yuuho jumped into my chest, she started crying as if a dam had burst.[pcms]
+The moment Yuuho jumped into my chest, she started crying as[r]
+if a dam had burst.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -54,7 +55,8 @@ The moment Yuuho jumped into my chest, she started crying as if a dam had burst.
 [fc]
 [vo_yuh s="yuho_T0118"]
 [ns]Yuuho[nse]
-"...Dad, Mom, Tadachin, Inori-san, everyone at school... they're all gone!"[pcms]
+"...Dad, Mom, Tadachin, Inori-san, everyone at school...[r]
+they're all gone!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -66,13 +68,14 @@ The moment Yuuho jumped into my chest, she started crying as if a dam had burst.
 
 *6683|
 [fc]
-With painful words, Yuuho revealed the feelings she had been hiding and sobbed[r]
-uncontrollably.[pcms]
+With painful words, Yuuho revealed the feelings she had been[r]
+hiding and sobbed uncontrollably.[pcms]
 
 *6684|
 [fc]
-Like a little child... as if she was on the brink of despair... Yuuho's wailing[r]
-figure made my heart ache like never before.[pcms]
+Like a little child... as if she was on the brink of[r]
+despair... Yuuho's wailing figure made my heart ache like[r]
+never before.[pcms]
 
 *6685|
 [fc]
@@ -81,8 +84,8 @@ figure made my heart ache like never before.[pcms]
 
 *6686|
 [fc]
-Yuuho... you've been holding it in all this time. Hiding all the pain and[r]
-sadness...[pcms]
+Yuuho... you've been holding it in all this time. Hiding all[r]
+the pain and sadness...[pcms]
 
 *6687|
 [fc]
@@ -90,12 +93,13 @@ I silently continued to stroke Yuuho's hair.[pcms]
 
 *6688|
 [fc]
-It's okay to cry a lot... Cry and cry... until your tears stop, I'll be right[r]
-here with you...[pcms]
+It's okay to cry a lot... Cry and cry... until your tears[r]
+stop, I'll be right here with you...[pcms]
 
 *6689|
 [fc]
-So Yuuho... you don't have to hold back anymore in front of me...[pcms]
+So Yuuho... you don't have to hold back anymore in front of[r]
+me...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -107,7 +111,8 @@ So Yuuho... you don't have to hold back anymore in front of me...[pcms]
 
 *6691|
 [fc]
-Her crying gradually became quieter, eventually turning into sniffling.[pcms]
+Her crying gradually became quieter, eventually turning into[r]
+sniffling.[pcms]
 
 *6692|
 [fc]
@@ -115,8 +120,8 @@ We remained embraced, motionless like statues.[pcms]
 
 *6693|
 [fc]
-In the distance, the ruined city spread out... Beyond the rising smoke, a blood-[r]
-red sunset slowly sank...[pcms]
+In the distance, the ruined city spread out... Beyond the[r]
+rising smoke, a blood- red sunset slowly sank...[pcms]
 
 ;//se003ÅEågë—ÇÃíÖêMâπ
 [se buf=0 storage="se003" loop=true]
@@ -135,7 +140,8 @@ red sunset slowly sank...[pcms]
 
 *6695|
 [fc]
-We were suddenly startled apart by the sound of a ringing cell phone.[pcms]
+We were suddenly startled apart by the sound of a ringing[r]
+cell phone.[pcms]
 
 *6696|
 [fc]
@@ -144,8 +150,8 @@ We were suddenly startled apart by the sound of a ringing cell phone.[pcms]
 
 *6697|
 [fc]
-The phone was still ringing. When I checked, it was a call from Kousuke's[r]
-number.[pcms]
+The phone was still ringing. When I checked, it was a call[r]
+from Kousuke's number.[pcms]
 
 ;//Åöà»â∫ÇsÇRÇOÇOÇPÇOÇ©ÇÁÇÃÉRÉsÅ[Ç≈Ç∑ÅB
 
@@ -206,7 +212,8 @@ The panicked scream of Mizuki from the phone struck my ears.[pcms]
 
 *6703|
 [fc]
-We were suddenly startled apart by the sound of a ringing cell phone.[pcms]
+We were suddenly startled apart by the sound of a ringing[r]
+cell phone.[pcms]
 
 *6704|
 [fc]
@@ -215,8 +222,8 @@ We were suddenly startled apart by the sound of a ringing cell phone.[pcms]
 
 *6705|
 [fc]
-I picked up the phone while grooming myself. It was a call from Kousuke's[r]
-number.[pcms]
+I picked up the phone while grooming myself. It was a call[r]
+from Kousuke's number.[pcms]
 
 ;//Åöà»â∫ÇsÇRÇOÇOÇPÇOÇ©ÇÁÇÃÉRÉsÅ[Ç≈Ç∑
 

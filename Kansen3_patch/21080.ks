@@ -19,8 +19,8 @@
 
 *512|
 [fc]
-"I can't just abandon them. If I were to save myself alone here, I'd live the[r]
-rest of my life in regret."[pcms]
+"I can't just abandon them. If I were to save myself alone[r]
+here, I'd live the rest of my life in regret."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -41,8 +41,8 @@ rest of my life in regret."[pcms]
 [fc]
 [vo_mar s="maru0042"]
 [ns]Margarita[nse]
-"Understood... I'll be waiting in the staff preparation room on the first[r]
-floor."[pcms]
+"Understood... I'll be waiting in the staff preparation room[r]
+on the first floor."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -63,14 +63,16 @@ floor."[pcms]
 
 *518|
 [fc]
-As I said that, Yuuho hugged me without a word and pressed her lips to mine.[pcms]
+As I said that, Yuuho hugged me without a word and pressed[r]
+her lips to mine.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *519|
 [fc]
-The kiss with Yuuho that I had dreamed of... I never thought it would come so[r]
-easily. But now is not the time to indulge in happiness.[pcms]
+The kiss with Yuuho that I had dreamed of... I never thought[r]
+it would come so easily. But now is not the time to indulge[r]
+in happiness.[pcms]
 
 [evcg storage="EV013b"][trans_c cross time=300]
 
@@ -89,15 +91,16 @@ I must hurry to rescue them...[pcms]
 
 *522|
 [fc]
-I entrusted the camping gear to Yuuho and, gripping only the handle of a mop,[r]
-began to move.[pcms]
+I entrusted the camping gear to Yuuho and, gripping only the[r]
+handle of a mop, began to move.[pcms]
 
 ;//ÅYÇaÇfçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *523|
 [fc]
-Following the advice of my senior, I was able to easily enter inside.[pcms]
+Following the advice of my senior, I was able to easily[r]
+enter inside.[pcms]
 
 ;//ÅYÇaÇfÅFäwâÄì‡òLâ∫
 ;//@konya ï™çZé…òLâ∫ÇQ
@@ -106,19 +109,20 @@ Following the advice of my senior, I was able to easily enter inside.[pcms]
 
 *524|
 [fc]
-Moving quickly to the third floor, I killed the sound of my footsteps to avoid[r]
-drawing attention.[pcms]
+Moving quickly to the third floor, I killed the sound of my[r]
+footsteps to avoid drawing attention.[pcms]
 
 *525|
 [fc]
-There were quite a few infected wandering around, and even turning down a[r]
-corridor required the utmost caution.[pcms]
+There were quite a few infected wandering around, and even[r]
+turning down a corridor required the utmost caution.[pcms]
 
 *526|
 [fc]
-Honestly, I might be a rabbit who has jumped into a tiger's den. But now that[r]
-I've come this far, there's no turning back. When I return, it will be with[r]
-Kousuke and Ren, all three of us together.[pcms]
+Honestly, I might be a rabbit who has jumped into a tiger's[r]
+den. But now that I've come this far, there's no turning[r]
+back. When I return, it will be with Kousuke and Ren, all[r]
+three of us together.[pcms]
 
 ;//@konya òLâ∫ÇQï™çZé…
 [bg storage="BG015"][trans_c cross time=500]
@@ -126,8 +130,9 @@ Kousuke and Ren, all three of us together.[pcms]
 
 *527|
 [fc]
-With renewed determination, I tried to proceed when I saw infected swarming at[r]
-the entrance of the audio-visual room just down the stairs.[pcms]
+With renewed determination, I tried to proceed when I saw[r]
+infected swarming at the entrance of the audio-visual room[r]
+just down the stairs.[pcms]
 
 *528|
 [fc]
@@ -142,13 +147,14 @@ the entrance of the audio-visual room just down the stairs.[pcms]
 
 *529|
 [fc]
-Whether they sensed someone inside or knew someone was there, they were trying[r]
-to break down the door.[pcms]
+Whether they sensed someone inside or knew someone was[r]
+there, they were trying to break down the door.[pcms]
 
 *530|
 [fc]
-The way things were going, it was uncertain how long the door would hold. But it[r]
-was absolutely impossible for me alone to fend off that number of infected.[pcms]
+The way things were going, it was uncertain how long the[r]
+door would hold. But it was absolutely impossible for me[r]
+alone to fend off that number of infected.[pcms]
 
 *531|
 [fc]
@@ -159,8 +165,9 @@ was absolutely impossible for me alone to fend off that number of infected.[pcms
 
 *532|
 [fc]
-And as I hesitated, the door to the audio-visual room was broken down with a[r]
-dull sound, and the infected poured inside.[pcms]
+And as I hesitated, the door to the audio-visual room was[r]
+broken down with a dull sound, and the infected poured[r]
+inside.[pcms]
 
 *533|
 [fc]
@@ -169,8 +176,9 @@ dull sound, and the infected poured inside.[pcms]
 
 *534|
 [fc]
-The two were quickly surrounded by the rushing infected. I had no choice but to[r]
-jump in with a resolve to die if necessary.[pcms]
+The two were quickly surrounded by the rushing infected. I[r]
+had no choice but to jump in with a resolve to die if[r]
+necessary.[pcms]
 
 *535|
 [fc]
@@ -179,13 +187,14 @@ jump in with a resolve to die if necessary.[pcms]
 
 *536|
 [fc]
-However, now outnumbered, it was hopeless. Unlike my senior who had knowledge of[r]
-martial arts, there was nothing an amateur like me could do.[pcms]
+However, now outnumbered, it was hopeless. Unlike my senior[r]
+who had knowledge of martial arts, there was nothing an[r]
+amateur like me could do.[pcms]
 
 *537|
 [fc]
-In no time at all, I was captured by the swarm of infected and pushed down on[r]
-the spot.[pcms]
+In no time at all, I was captured by the swarm of infected[r]
+and pushed down on the spot.[pcms]
 
 ;//Å®block:21120Ç÷
 [jump storage="21120.ks" target=*21120_TOP]

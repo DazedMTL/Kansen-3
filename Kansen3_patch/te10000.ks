@@ -26,20 +26,22 @@
 
 *1|
 [fc]
-I had finished dinner with just some white rice, miso soup, and a little bit of[r]
-leftover pickles. Now, I found myself on the rooftop.[pcms]
+I had finished dinner with just some white rice, miso soup,[r]
+and a little bit of leftover pickles. Now, I found myself on[r]
+the rooftop.[pcms]
 
 *2|
 [fc]
-A gas-based sweep operation is scheduled for tomorrow. Thinking it might be my[r]
-last chance to see the night sky for a while, I went up to the rooftop alone and[r]
-gazed at the sky from my usual spot.[pcms]
+A gas-based sweep operation is scheduled for tomorrow.[r]
+Thinking it might be my last chance to see the night sky for[r]
+a while, I went up to the rooftop alone and gazed at the sky[r]
+from my usual spot.[pcms]
 
 *3|
 [fc]
-The neon lights of the city still shone brightly, illuminating the night sky.[r]
-The slightly bright sky over Shibuya. Stars were supposed to be out even amidst[r]
-that.[pcms]
+The neon lights of the city still shone brightly,[r]
+illuminating the night sky. The slightly bright sky over[r]
+Shibuya. Stars were supposed to be out even amidst that.[pcms]
 
 *4|
 [fc]
@@ -48,7 +50,8 @@ that.[pcms]
 
 *5|
 [fc]
-I sensed someone's presence behind me. It seemed like someone had come up.[pcms]
+I sensed someone's presence behind me. It seemed like[r]
+someone had come up.[pcms]
 
 ;//--------------------------------------------------------------------
 ;//èåèï™äÚ

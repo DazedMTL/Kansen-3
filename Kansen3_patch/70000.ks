@@ -36,28 +36,29 @@
 [fc]
 [vo_yuh s="yuho_T0001"]
 [ns]Yuuho[nse]
-"Alright everyone, good work! Lunch is a special vegetable stir-fry today!"[pcms]
+"Alright everyone, good work! Lunch is a special vegetable[r]
+stir-fry today!"[pcms]
 
 ;//〆昼食カットイン
 
 
 *2|
 [fc]
-The lunch menu consisted of rice, miso soup, meat and vegetable stir-fry, salad,[r]
-and omelet.[pcms]
+The lunch menu consisted of rice, miso soup, meat and[r]
+vegetable stir-fry, salad, and omelet.[pcms]
 
 *3|
 [fc]
-It seems Yuuho was eager to cook because she got her hands on some fresh[r]
-vegetables and eggs.[pcms]
+It seems Yuuho was eager to cook because she got her hands[r]
+on some fresh vegetables and eggs.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4|
 [fc]
 [ns]Kousuke[nse]
-"Whoa, the special meat and vegetable stir-fry from Kannagi-ken! I really love[r]
-this stuff!"[pcms]
+"Whoa, the special meat and vegetable stir-fry from Kannagi-[r]
+ken! I really love this stuff!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -70,7 +71,8 @@ this stuff!"[pcms]
 
 *6|
 [fc]
-Like my senior, I didn't say it out loud, but I was also inwardly relieved.[pcms]
+Like my senior, I didn't say it out loud, but I was also[r]
+inwardly relieved.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -82,7 +84,8 @@ Like my senior, I didn't say it out loud, but I was also inwardly relieved.[pcms
 
 *8|
 [fc]
-Everyone joined in the greeting and then started eating their meals.[pcms]
+Everyone joined in the greeting and then started eating[r]
+their meals.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -94,8 +97,8 @@ Everyone joined in the greeting and then started eating their meals.[pcms]
 
 *10|
 [fc]
-As soon as she tasted the meat and vegetable stir-fry, Margarita immediately[r]
-grabbed Yuuho's hand.[pcms]
+As soon as she tasted the meat and vegetable stir-fry,[r]
+Margarita immediately grabbed Yuuho's hand.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -119,8 +122,8 @@ grabbed Yuuho's hand.[pcms]
 [fc]
 [vo_mar s="maru_T0004"]
 [ns]Margarita[nse]
-"Don't fuss over appearances, compete with flavor! That way you can become a[r]
-first-class chef, right?"[pcms]
+"Don't fuss over appearances, compete with flavor! That way[r]
+you can become a first-class chef, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -132,12 +135,14 @@ first-class chef, right?"[pcms]
 
 *15|
 [fc]
-With a complicated expression on her face, Yuuho gave a wry smile.[pcms]
+With a complicated expression on her face, Yuuho gave a wry[r]
+smile.[pcms]
 
 *16|
 [fc]
-Kousuke is shoveling rice into his mouth with incredible speed, and it looks[r]
-like Mizuki won't have any trouble with this menu either.[pcms]
+Kousuke is shoveling rice into his mouth with incredible[r]
+speed, and it looks like Mizuki won't have any trouble with[r]
+this menu either.[pcms]
 
 *17|
 [fc]
@@ -145,13 +150,14 @@ I wonder what the vegetarians will do...?[pcms]
 
 *18|
 [fc]
-Looking over, I saw that Jin-san had a plate of meatless vegetable stir-fry in[r]
-front of him.[pcms]
+Looking over, I saw that Jin-san had a plate of meatless[r]
+vegetable stir-fry in front of him.[pcms]
 
 *19|
 [fc]
-The special meat and vegetable stir-fry from Kannagi-ken is amazing for its[r]
-juicy vegetables' crispness; it's one of my favorite dishes too...[pcms]
+The special meat and vegetable stir-fry from Kannagi-ken is[r]
+amazing for its juicy vegetables' crispness; it's one of my[r]
+favorite dishes too...[pcms]
 
 *20|
 [fc]
@@ -162,17 +168,18 @@ I wonder if it's still delicious without the meat...?[pcms]
 *21|
 [fc]
 [ns]Jin[nse]
-"...It's delicious. The balance of spicy miso and oil is perfect. And the salad[r]
-is good too. It was worth the work."[pcms]
+"...It's delicious. The balance of spicy miso and oil is[r]
+perfect. And the salad is good too. It was worth the work."[pcms]
 
 *22|
 [fc]
-Explaining to me who was watching, Jin-san continued to eat steadily.[pcms]
+Explaining to me who was watching, Jin-san continued to eat[r]
+steadily.[pcms]
 
 *23|
 [fc]
-Of course... there's a portion prepared for Ren too, but she's still asleep as[r]
-usual and nowhere to be seen.[pcms]
+Of course... there's a portion prepared for Ren too, but[r]
+she's still asleep as usual and nowhere to be seen.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -180,7 +187,8 @@ usual and nowhere to be seen.[pcms]
 [fc]
 [vo_miz s="mizuki_RK0001"]
 [ns]Mizuki[nse]
-"...Ren... she still hasn't woken up? Is she really feeling that bad?"[pcms]
+"...Ren... she still hasn't woken up? Is she really feeling[r]
+that bad?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -199,8 +207,8 @@ usual and nowhere to be seen.[pcms]
 
 *27|
 [fc]
-Despite our worries, the meal was delicious... We finished lunch in a pleasant[r]
-atmosphere.[pcms]
+Despite our worries, the meal was delicious... We finished[r]
+lunch in a pleasant atmosphere.[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -215,38 +223,40 @@ atmosphere.[pcms]
 
 *29|
 [fc]
-Kousuke, whose stomach had visibly expanded before and after the meal, stretched[r]
-out and sprawled over his chair.[pcms]
+Kousuke, whose stomach had visibly expanded before and after[r]
+the meal, stretched out and sprawled over his chair.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *30|
 [fc]
 [ns]Kousuke[nse]
-"So, what are we doing after this? Oh, Wataru will go visit her first, right?"[pcms]
+"So, what are we doing after this? Oh, Wataru will go visit[r]
+her first, right?"[pcms]
 
 *31|
 [fc]
 [ns]Wataru[nse]
-"Yeah... since we've finished moving stuff and there's no news."[pcms]
+"Yeah... since we've finished moving stuff and there's no[r]
+news."[pcms]
 
 *32|
 [fc]
-The updates on the mobile site aren't that frequent either, so there doesn't[r]
-seem to be any need to rush to check it.[pcms]
+The updates on the mobile site aren't that frequent either,[r]
+so there doesn't seem to be any need to rush to check it.[pcms]
 
 *33|
 [fc]
-We discussed various things and decided to spend the afternoon looking around[r]
-the shops inside LASER.[pcms]
+We discussed various things and decided to spend the[r]
+afternoon looking around the shops inside LASER.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *34|
 [fc]
 [ns]Kousuke[nse]
-"Then I guess I'll check out the second floor. I need to check out any good[r]
-equipment while I'm at it..."[pcms]
+"Then I guess I'll check out the second floor. I need to[r]
+check out any good equipment while I'm at it..."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -258,8 +268,9 @@ equipment while I'm at it..."[pcms]
 
 *36|
 [fc]
-Considering he had been fussing about "Tengu-dou!" since day one, he probably[r]
-won't return for a while once he goes there...[pcms]
+Considering he had been fussing about "Tengu-dou!" since day[r]
+one, he probably won't return for a while once he goes[r]
+there...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -270,7 +281,8 @@ won't return for a while once he goes there...[pcms]
 
 *38|
 [fc]
-The fourth floor is home to the large analog record shop 'Recomani'.[pcms]
+The fourth floor is home to the large analog record shop[r]
+'Recomani'.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -296,21 +308,23 @@ The fourth floor is home to the large analog record shop 'Recomani'.[pcms]
 
 *42|
 [fc]
-Indeed 'Recomani' mainly sells analog records but they also sell CDs and DVDs.[pcms]
+Indeed 'Recomani' mainly sells analog records but they also[r]
+sell CDs and DVDs.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *43|
 [fc]
 [ns]Shigeyoshi[nse]
-"...I'll pass. I'm completely worn out from being worked to the bone. Now that[r]
-I've eaten, let me sleep."[pcms]
+"...I'll pass. I'm completely worn out from being worked to[r]
+the bone. Now that I've eaten, let me sleep."[pcms]
 
 *44|
 [fc]
-Despite saying he wanted to sleep, Shigeyoshi left with a load of items[r]
-including bottles of liquor, snacks, magazines, and headed to the VIP room. Even[r]
-after such a big lunch, is his stomach still not satisfied...?[pcms]
+Despite saying he wanted to sleep, Shigeyoshi left with a[r]
+load of items including bottles of liquor, snacks,[r]
+magazines, and headed to the VIP room. Even after such a big[r]
+lunch, is his stomach still not satisfied...?[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -318,8 +332,8 @@ after such a big lunch, is his stomach still not satisfied...?[pcms]
 [fc]
 [vo_yuh s="yuho_RK0003"]
 [ns]Yuuho[nse]
-"I think I'll go to 'Staybucks'. I want a latte, so I need to learn how to make[r]
-one..."[pcms]
+"I think I'll go to 'Staybucks'. I want a latte, so I need[r]
+to learn how to make one..."[pcms]
 
 *46|
 [fc]
@@ -331,11 +345,13 @@ That means Yuuho is heading to the B1 floor...[pcms]
 [fc]
 [vo_mar s="maru_RK0001"]
 [ns]Margarita[nse]
-"Then I shall go to the third floor. I might find something useful there."[pcms]
+"Then I shall go to the third floor. I might find something[r]
+useful there."[pcms]
 
 *48|
 [fc]
-Maruko-senpai seems to be aiming for the military shop 'Tokyo Ghost'.[pcms]
+Maruko-senpai seems to be aiming for the military shop[r]
+'Tokyo Ghost'.[pcms]
 
 *49|
 [fc]
@@ -351,7 +367,8 @@ Maruko-senpai seems to be aiming for the military shop 'Tokyo Ghost'.[pcms]
 
 *51|
 [fc]
-I decided to bring nutritional supplements and mineral water for Ren.[pcms]
+I decided to bring nutritional supplements and mineral water[r]
+for Ren.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

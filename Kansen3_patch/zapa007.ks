@@ -20,32 +20,33 @@
 
 *1599|
 [fc]
-The height of the catwalk is about the same as the second floor of a building.[r]
-It's not that high.[pcms]
+The height of the catwalk is about the same as the second[r]
+floor of a building. It's not that high.[pcms]
 
 *1600|
 [fc]
-If I can manage to jump down properly, I feel like there's no need to worry[r]
-about getting injured.[pcms]
+If I can manage to jump down properly, I feel like there's[r]
+no need to worry about getting injured.[pcms]
 
 *1601|
 [fc]
-There's no time to hesitate, and danger is imminent. I have no choice but to[r]
-jump... that's the only option right now.[pcms]
+There's no time to hesitate, and danger is imminent. I have[r]
+no choice but to jump... that's the only option right now.[pcms]
 
 *1602|
 [fc]
-Having made that decision, I jumped down without any hesitation.[pcms]
+Having made that decision, I jumped down without any[r]
+hesitation.[pcms]
 
 *1603|
 [fc]
-But... the shoulder bag I was carrying caused trouble. I should have just thrown[r]
-it away.[pcms]
+But... the shoulder bag I was carrying caused trouble. I[r]
+should have just thrown it away.[pcms]
 
 *1604|
 [fc]
-In my panic, I couldn't think straight. In the end, the bag got caught, and I[r]
-lost my balance, crashing onto the floor.[pcms]
+In my panic, I couldn't think straight. In the end, the bag[r]
+got caught, and I lost my balance, crashing onto the floor.[pcms]
 
 [ê‘ÉtÉâ]
 
@@ -59,17 +60,18 @@ lost my balance, crashing onto the floor.[pcms]
 
 *1606|
 [fc]
-The shock and pain made it so I couldn't even breathe properly, and I couldn't[r]
-move.[pcms]
+The shock and pain made it so I couldn't even breathe[r]
+properly, and I couldn't move.[pcms]
 
 *1607|
 [fc]
-In front of me was a corridor, and beyond that a pool... but the door was[r]
-mercilessly closed.[pcms]
+In front of me was a corridor, and beyond that a pool... but[r]
+the door was mercilessly closed.[pcms]
 
 *1608|
 [fc]
-An eerie shadow approached, and those mad, empty eyes stared intently at me.[pcms]
+An eerie shadow approached, and those mad, empty eyes stared[r]
+intently at me.[pcms]
 
 ;//jumpÅFzapA0010
 ;[jump storage="zapA010.ks" target=*zapA010_01]

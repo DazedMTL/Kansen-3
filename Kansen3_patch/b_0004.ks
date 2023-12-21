@@ -16,13 +16,13 @@
 
 *3257|
 [fc]
-Somehow, it doesn't even matter anymore. That thought began to spread through my[r]
-mind.[pcms]
+Somehow, it doesn't even matter anymore. That thought began[r]
+to spread through my mind.[pcms]
 
 *3258|
 [fc]
-In front of me, my cute little sister is smiling. Looking at me, she smiles with[r]
-bewitching eyes.[pcms]
+In front of me, my cute little sister is smiling. Looking at[r]
+me, she smiles with bewitching eyes.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -30,13 +30,15 @@ bewitching eyes.[pcms]
 [fc]
 [vo_ren s="ren0417"]
 [ns]Ren[nse]
-"Now... big brother is all mine... Only look at me... Feel only me..."[pcms]
+"Now... big brother is all mine... Only look at me... Feel[r]
+only me..."[pcms]
 ;//ren0417.wav
 
 *3260|
 [fc]
-Ren's ragged breathing and expression, along with the sensation of insects[r]
-crawling inside my head, something burst inside of me.[pcms]
+Ren's ragged breathing and expression, along with the[r]
+sensation of insects crawling inside my head, something[r]
+burst inside of me.[pcms]
 
 *3261|
 [fc]
@@ -53,14 +55,15 @@ I just want to surrender myself to what Ren is doing.[pcms]
 
 *3263|
 [fc]
-Ren, looking pleased, moved away from me and sat down on the floor, placing her[r]
-feet on my thing.[pcms]
+Ren, looking pleased, moved away from me and sat down on the[r]
+floor, placing her feet on my thing.[pcms]
 
 [evcg storage="HEV062g"][trans_c cross time=300]
 
 *3264|
 [fc]
-As Ren began rubbing my thing with her feet, she wore a sadistic smile.[pcms]
+As Ren began rubbing my thing with her feet, she wore a[r]
+sadistic smile.[pcms]
 
 *3265|
 [fc]
@@ -69,8 +72,8 @@ As Ren began rubbing my thing with her feet, she wore a sadistic smile.[pcms]
 
 *3266|
 [fc]
-Indeed, Ren's legs were famous at school. I myself have fantasized about these[r]
-legs before, that's for sure.[pcms]
+Indeed, Ren's legs were famous at school. I myself have[r]
+fantasized about these legs before, that's for sure.[pcms]
 
 *3267|
 [fc]
@@ -82,21 +85,25 @@ And now, I'm being tormented by those very legs...[pcms]
 [fc]
 [vo_ren s="ren_RK0038"]
 [ns]Ren[nse]
-"Hey...? Is just using fingers enough for you? Are you satisfied with that...?[r]
-If it's not enough... I can lick it too? Hyaha?"[pcms]
+"Hey...? Is just using fingers enough for you? Are you[r]
+satisfied with that...? If it's not enough... I can lick it[r]
+too? Hyaha?"[pcms]
 ;//ren_RK0038.wav
 
 *3269|
 [fc]
-Ren's words had somehow become completely vulgar and different from usual.[pcms]
+Ren's words had somehow become completely vulgar and[r]
+different from usual.[pcms]
 
 *3270|
 [fc]
-Why has Ren become like this...? Is it because of the shock from being raped...?[pcms]
+Why has Ren become like this...? Is it because of the shock[r]
+from being raped...?[pcms]
 
 *3271|
 [fc]
-As I ponder various things, my consciousness gradually fades away.[pcms]
+As I ponder various things, my consciousness gradually fades[r]
+away.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -117,9 +124,10 @@ As I ponder various things, my consciousness gradually fades away.[pcms]
 
 *3273|
 [fc]
-My eyelids grow heavy as if being attacked by sleepiness. But the queen-like[r]
-tone and the rising sensation force my eyes open, and Ren's face, filled with[r]
-madness, jumps into view.[pcms]
+My eyelids grow heavy as if being attacked by sleepiness.[r]
+But the queen-like tone and the rising sensation force my[r]
+eyes open, and Ren's face, filled with madness, jumps into[r]
+view.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -132,8 +140,8 @@ madness, jumps into view.[pcms]
 
 *3275|
 [fc]
-Assaulted by a sensation like sleepiness and the softness of Ren's feet, the[r]
-confusion in my head accelerates.[pcms]
+Assaulted by a sensation like sleepiness and the softness of[r]
+Ren's feet, the confusion in my head accelerates.[pcms]
 
 *3276|
 [fc]
@@ -151,11 +159,13 @@ confusion in my head accelerates.[pcms]
 
 *3278|
 [fc]
-Ren let out a sadistic laugh and stomped hard on my thing with her feet.[pcms]
+Ren let out a sadistic laugh and stomped hard on my thing[r]
+with her feet.[pcms]
 
 *3279|
 [fc]
-Then, embarrassingly enough, my thing burst forth vigorously.[pcms]
+Then, embarrassingly enough, my thing burst forth[r]
+vigorously.[pcms]
 
 *3280|
 [fc]
@@ -172,8 +182,9 @@ Looking at my face, Ren smiles blissfully.[pcms]
 
 *3282|
 [fc]
-I was almost captivated by that face, but the exhaustion from ejaculating and[r]
-the dizziness that attacked again made my eyelids close once more.[pcms]
+I was almost captivated by that face, but the exhaustion[r]
+from ejaculating and the dizziness that attacked again made[r]
+my eyelids close once more.[pcms]
 
 
 ;//ÅYÅFçïâÊñ 
@@ -188,7 +199,8 @@ the dizziness that attacked again made my eyelids close once more.[pcms]
 [fc]
 [vo_ren s="ren0828"]
 [ns]Ren[nse]
-"Ahh! Big brother is so intense! So intense and good!! Ahh!!"[pcms]
+"Ahh! Big brother is so intense! So intense and good!![r]
+Ahh!!"[pcms]
 ;//ren0828.wav
 
 *3284|
@@ -201,13 +213,15 @@ Ah... Ren is... On top of me...[pcms]
 [fc]
 [vo_ren s="ren1171"]
 [ns]Ren[nse]
-"Let it out...! I want your hot cum to throb inside! I want it so hot it feels[r]
-like it'll burn my pussy...! I want it overflowing!"[pcms]
+"Let it out...! I want your hot cum to throb inside! I want[r]
+it so hot it feels like it'll burn my pussy...! I want it[r]
+overflowing!"[pcms]
 ;//ren1171.wav
 
 *3286|
 [fc]
-Ren danced wildly on top of my hips like an actress from a naughty DVD.[pcms]
+Ren danced wildly on top of my hips like an actress from a[r]
+naughty DVD.[pcms]
 
 [evcg storage="HEV053f"][trans_c cross time=300]
 
@@ -239,7 +253,8 @@ Damn it... Damn it, damn it!! Damn it!!!!!!![pcms]
 
 *3291|
 [fc]
-In my intermittent consciousness, I just watched Ren bouncing on top of me.[pcms]
+In my intermittent consciousness, I just watched Ren[r]
+bouncing on top of me.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -248,8 +263,9 @@ In my intermittent consciousness, I just watched Ren bouncing on top of me.[pcms
 
 *3292|
 [fc]
-While being assaulted by sensations that kept welling up, even in my dazed[r]
-state, I desperately held back seeking even stronger pleasure.[pcms]
+While being assaulted by sensations that kept welling up,[r]
+even in my dazed state, I desperately held back seeking even[r]
+stronger pleasure.[pcms]
 
 ;//HEV015c
 [evcg storage="HEV053g"][trans_c cross time=300]
@@ -260,13 +276,14 @@ state, I desperately held back seeking even stronger pleasure.[pcms]
 [fc]
 [vo_ren s="ren_RK0094"]
 [ns]Ren[nse]
-"Big brother... big... ahiaaaah, more! More and more, more and more! Do it, do[r]
-it, do as much as you like!"[pcms]
+"Big brother... big... ahiaaaah, more! More and more, more[r]
+and more! Do it, do it, do as much as you like!"[pcms]
 ;//ren_RK0094.wav
 
 *3294|
 [fc]
-But there's no need to hold back anymore. I can let Ren do as she pleases.[pcms]
+But there's no need to hold back anymore. I can let Ren do[r]
+as she pleases.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -274,13 +291,14 @@ But there's no need to hold back anymore. I can let Ren do as she pleases.[pcms]
 [fc]
 [vo_ren s="ren_RK0095"]
 [ns]Ren[nse]
-"Do lots of it!! Intense ones, amazing ones, super amazing! Big brother can fuck[r]
-his little sister as much as he wants!"[pcms]
+"Do lots of it!! Intense ones, amazing ones, super amazing![r]
+Big brother can fuck his little sister as much as he wants!"[pcms]
 ;//ren_RK0095.wav
 
 *3296|
 [fc]
-After all, Ren and I are in a relationship where we have sex...[pcms]
+After all, Ren and I are in a relationship where we have[r]
+sex...[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -304,25 +322,28 @@ Ren... My sister...[pcms]
 
 *3299|
 [fc]
-My consciousness is dragged down by a leaden weight, feeling like I'm sinking to[r]
-the bottom of a deep sea.[pcms]
+My consciousness is dragged down by a leaden weight, feeling[r]
+like I'm sinking to the bottom of a deep sea.[pcms]
 
 *3300|
 [fc]
-A pleasant sense of fatigue and a strange sensation numb my mind.[pcms]
+A pleasant sense of fatigue and a strange sensation numb my[r]
+mind.[pcms]
 
 *3301|
 [fc]
-Just before my consciousness completely breaks off. A thought I've had for a[r]
-long time surfaced in my mind.[pcms]
+Just before my consciousness completely breaks off. A[r]
+thought I've had for a long time surfaced in my mind.[pcms]
 
 *3302|
 [fc]
-The "somewhere else" I've always dreamed ofa place that would free the petty me.[pcms]
+The "somewhere else" I've always dreamed ofa place that[r]
+would free the petty me.[pcms]
 
 *3303|
 [fc]
-But I knew such a place didn't exist. At least until just a moment ago.[pcms]
+But I knew such a place didn't exist. At least until just a[r]
+moment ago.[pcms]
 
 *3304|
 [fc]
@@ -330,13 +351,14 @@ I must always be in "this place called myself."[pcms]
 
 *3305|
 [fc]
-If so, I'd rather be with someone than alone. I want to indulge in pleasure with[r]
-someone.[pcms]
+If so, I'd rather be with someone than alone. I want to[r]
+indulge in pleasure with someone.[pcms]
 
 *3306|
 [fc]
-That is... If that someone is my dearest sister... maybe that would be[r]
-happiness. Better than the pathetic yesterday...[pcms]
+That is... If that someone is my dearest sister... maybe[r]
+that would be happiness. Better than the pathetic[r]
+yesterday...[pcms]
 
 *3307|
 [fc]

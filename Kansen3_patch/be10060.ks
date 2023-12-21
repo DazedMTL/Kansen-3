@@ -26,7 +26,8 @@
 
 *249|
 [fc]
-As I hurried through Arcadia, I was suddenly pushed from behind by Marie.[pcms]
+As I hurried through Arcadia, I was suddenly pushed from[r]
+behind by Marie.[pcms]
 
 [quake_bg 元time=500 xy m]
 
@@ -35,11 +36,13 @@ As I hurried through Arcadia, I was suddenly pushed from behind by Marie.[pcms]
 
 *250|
 [fc]
-Something passed by the area where I had been standing until just now.[pcms]
+Something passed by the area where I had been standing until[r]
+just now.[pcms]
 
 *251|
 [fc]
-The strange sensation of cutting through the air... it was a bullet.[pcms]
+The strange sensation of cutting through the air... it was a[r]
+bullet.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -51,8 +54,8 @@ The strange sensation of cutting through the air... it was a bullet.[pcms]
 
 *253|
 [fc]
-Marie began to return fire bravely at the two men who had come, using a[r]
-bookshelf as a shield.[pcms]
+Marie began to return fire bravely at the two men who had[r]
+come, using a bookshelf as a shield.[pcms]
 
 ;//♂：少し間隔を開けて何度か銃声を入れて下さい
 ;//♂：銃を撃ち合っているような演出です
@@ -76,24 +79,27 @@ Against the two of them, only Marie was shooting.[pcms]
 
 *255|
 [fc]
-Marie, who grew up in a country in civil war, might be better with guns than[r]
-Japanese thugs, but the number of hands was clearly different.[pcms]
+Marie, who grew up in a country in civil war, might be[r]
+better with guns than Japanese thugs, but the number of[r]
+hands was clearly different.[pcms]
 
 *256|
 [fc]
-I should be able to fight on equal terms or better if I shoot, making it two[r]
-against two...[pcms]
+I should be able to fight on equal terms or better if I[r]
+shoot, making it two against two...[pcms]
 
 [se buf=0 storage="se026"]
 [白フラ]
 
 *257|
 [fc]
-To save my friends, to ensure that nothing happens to Marie...[pcms]
+To save my friends, to ensure that nothing happens to[r]
+Marie...[pcms]
 
 *258|
 [fc]
-I started returning fire without aiming directly at the men, from behind cover.[pcms]
+I started returning fire without aiming directly at the men,[r]
+from behind cover.[pcms]
 
 [se buf=0 storage="se026"]
 [白フラ]
@@ -117,8 +123,8 @@ I started returning fire without aiming directly at the men, from behind cover.[
 
 *260|
 [fc]
-Thanks to Marie's accurate shooting, the men were unable to come out from their[r]
-hiding spots.[pcms]
+Thanks to Marie's accurate shooting, the men were unable to[r]
+come out from their hiding spots.[pcms]
 
 *261|
 [fc]
@@ -126,8 +132,8 @@ They were clearly reduced in number and on the defensive.[pcms]
 
 *262|
 [fc]
-If this continues, we might be able to quickly help someone who has screamed for[r]
-help.[pcms]
+If this continues, we might be able to quickly help someone[r]
+who has screamed for help.[pcms]
 
 *263|
 [fc]
@@ -139,8 +145,8 @@ They haven't noticed me yet.[pcms]
 
 *265|
 [fc]
-If this goes well, I might be able to get them to surrender by pointing my gun[r]
-at them.[pcms]
+If this goes well, I might be able to get them to surrender[r]
+by pointing my gun at them.[pcms]
 
 *266|
 [fc]
@@ -165,7 +171,8 @@ A fight to save our friends.[pcms]
 
 *271|
 [fc]
-Along with cold sweat, a strange excitement heats up inside me.[pcms]
+Along with cold sweat, a strange excitement heats up inside[r]
+me.[pcms]
 
 *272|
 [fc]
@@ -198,8 +205,8 @@ I didn't understand what happened.[pcms]
 
 *276|
 [fc]
-Suddenly my vision flickered and a sharp stinging smell filled the back of my[r]
-nose.[pcms]
+Suddenly my vision flickered and a sharp stinging smell[r]
+filled the back of my nose.[pcms]
 
 *277|
 [fc]
@@ -223,7 +230,8 @@ Were there more than just two men...?[pcms]
 
 *281|
 [fc]
-Marie's voice approached, sounding like a roar from the depths of her belly.[pcms]
+Marie's voice approached, sounding like a roar from the[r]
+depths of her belly.[pcms]
 
 *282|
 [fc]
@@ -272,7 +280,8 @@ Of course, I know Marie is strong in a fistfight too...[pcms]
 
 *288|
 [fc]
-I saw Marie fighting against a group of men through my blurry vision.[pcms]
+I saw Marie fighting against a group of men through my[r]
+blurry vision.[pcms]
 
 ;//イベント絵使用する
 [evcg storage="EV008b"][trans_c cross time=300]
@@ -292,7 +301,8 @@ I saw Marie fighting against a group of men through my blurry vision.[pcms]
 
 *290|
 [fc]
-I was despairing at the absolute difference in numbers they had.[pcms]
+I was despairing at the absolute difference in numbers they[r]
+had.[pcms]
 
 *291|
 [fc]
@@ -324,12 +334,13 @@ That's the best choice for everyone's sake.[pcms]
 
 *297|
 [fc]
-I started running as fast as I could so as not to hold Marie back.[pcms]
+I started running as fast as I could so as not to hold Marie[r]
+back.[pcms]
 
 *298|
 [fc]
-I heard gunshots aimed at me several times, but I just kept running wildly,[r]
-desperately.[pcms]
+I heard gunshots aimed at me several times, but I just kept[r]
+running wildly, desperately.[pcms]
 
 *299|
 [fc]

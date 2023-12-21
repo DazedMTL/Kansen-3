@@ -36,13 +36,14 @@ It's concerning, but...[pcms]
 
 *5913|
 [fc]
-Just last night, I saw Ren and Kousuke getting scolded for eavesdropping, so I[r]
-think it's best not to do the same.[pcms]
+Just last night, I saw Ren and Kousuke getting scolded for[r]
+eavesdropping, so I think it's best not to do the same.[pcms]
 
 *5914|
 [fc]
-It's one thing with Yuuho, but if Shigeyoshi gives me a "serious talk," there's[r]
-no guarantee I'll make it back alive...[pcms]
+It's one thing with Yuuho, but if Shigeyoshi gives me a[r]
+"serious talk," there's no guarantee I'll make it back[r]
+alive...[pcms]
 
 *5915|
 [fc]
@@ -50,7 +51,8 @@ A wise man keeps away from danger. Kuwabara, kuwabara.[pcms]
 
 *5916|
 [fc]
-I quietly made my footsteps silent and headed towards the rooftop.[pcms]
+I quietly made my footsteps silent and headed towards the[r]
+rooftop.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

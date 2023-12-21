@@ -23,9 +23,9 @@
 
 *6118|
 [fc]
-Despite the unexpected incident earlier, I decided to try and cheer myself up by[r]
-going up to the signboard. At this time, Venus should be shining in the western[r]
-sky...[pcms]
+Despite the unexpected incident earlier, I decided to try[r]
+and cheer myself up by going up to the signboard. At this[r]
+time, Venus should be shining in the western sky...[pcms]
 
 *6119|
 [fc]
@@ -34,47 +34,51 @@ sky...[pcms]
 
 *6120|
 [fc]
-As I was about to stand up, Kousuke and Mizuki came into the dome. And then Jin-[r]
-san followed...[pcms]
+As I was about to stand up, Kousuke and Mizuki came into the[r]
+dome. And then Jin- san followed...[pcms]
 
 *6121|
 [fc]
-"Oh" and "Hey" they greeted each other, it seemed like they hadn't arranged to[r]
-meet but rather it was just a coincidence.[pcms]
+"Oh" and "Hey" they greeted each other, it seemed like they[r]
+hadn't arranged to meet but rather it was just a[r]
+coincidence.[pcms]
 
 *6122|
 [fc]
-Jin-san settled himself down alone at a seat by the wall and placed a bottle of[r]
-Western liquor on the table.[pcms]
+Jin-san settled himself down alone at a seat by the wall and[r]
+placed a bottle of Western liquor on the table.[pcms]
 
 *6123|
 [fc]
-Kousuke and Mizuki sat down away from Jin-san, sharing earphones from a portable[r]
-music player, and began listening to music together.[pcms]
+Kousuke and Mizuki sat down away from Jin-san, sharing[r]
+earphones from a portable music player, and began listening[r]
+to music together.[pcms]
 
 *6124|
 [fc]
-Mizuki seems kind of different... No, not different, it's more like she's[r]
-returned to how she was before she disappeared...[pcms]
+Mizuki seems kind of different... No, not different, it's[r]
+more like she's returned to how she was before she[r]
+disappeared...[pcms]
 
 *6125|
 [fc]
-Probably, the reason is Kousuke's presence. And Kousuke, since reuniting with[r]
-Mizuki, seems... somehow more handsome.[pcms]
+Probably, the reason is Kousuke's presence. And Kousuke,[r]
+since reuniting with Mizuki, seems... somehow more handsome.[pcms]
 
 *6126|
 [fc]
-Lovers who can influence each other... That's kind of nice, isn't it?[pcms]
+Lovers who can influence each other... That's kind of nice,[r]
+isn't it?[pcms]
 
 *6127|
 [fc]
-What's strange is Jin-san's attitude; he doesn't seem to care at all about[r]
-Kousuke and Mizuki flirting.[pcms]
+What's strange is Jin-san's attitude; he doesn't seem to[r]
+care at all about Kousuke and Mizuki flirting.[pcms]
 
 *6128|
 [fc]
-Maybe Jin-san and Mizuki's relationship isn't what we imagined. Like a brother[r]
-and sister... or something?[pcms]
+Maybe Jin-san and Mizuki's relationship isn't what we[r]
+imagined. Like a brother and sister... or something?[pcms]
 
 *6129|
 [fc]
@@ -87,7 +91,8 @@ It's hard to imagine a yakuza playing "big brother"...[pcms]
 
 *6131|
 [fc]
-I stopped entertaining my imagination and headed for the rooftop.[pcms]
+I stopped entertaining my imagination and headed for the[r]
+rooftop.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -97,8 +102,8 @@ I stopped entertaining my imagination and headed for the rooftop.[pcms]
 
 *6132|
 [fc]
-Once I got on top of the signboard, I surveyed the city of Shibuya dyed in the[r]
-sunset.[pcms]
+Once I got on top of the signboard, I surveyed the city of[r]
+Shibuya dyed in the sunset.[pcms]
 
 *6133|
 [fc]
@@ -111,9 +116,10 @@ It was beautiful...[pcms]
 
 *6135|
 [fc]
-The afterglow reflected on the glass windows of various buildings, and in the[r]
-distance, silhouettes of high-rise buildings in Shinjuku emitting smoke... The[r]
-sky, turning a shade of indigo, had the evening star shining brightly...[pcms]
+The afterglow reflected on the glass windows of various[r]
+buildings, and in the distance, silhouettes of high-rise[r]
+buildings in Shinjuku emitting smoke... The sky, turning a[r]
+shade of indigo, had the evening star shining brightly...[pcms]
 
 *6136|
 [fc]
@@ -126,8 +132,8 @@ I almost forgot that this is a city of the dead.[pcms]
 
 *6138|
 [fc]
-As I was captivated by the scenery and slowly shifted my gaze, I spotted Yuuho[r]
-by the side of the dome's roof.[pcms]
+As I was captivated by the scenery and slowly shifted my[r]
+gaze, I spotted Yuuho by the side of the dome's roof.[pcms]
 
 [evcg storage="EV016a"][trans_c cross time=300]
 
@@ -144,11 +150,13 @@ by the side of the dome's roof.[pcms]
 
 *6140|
 [fc]
-Yuuho was sitting with her back turned towards me, hugging her knees.[pcms]
+Yuuho was sitting with her back turned towards me, hugging[r]
+her knees.[pcms]
 
 *6141|
 [fc]
-Her gaze was not directed towards Yoyogi Park but rather towards Yotsubase Town.[pcms]
+Her gaze was not directed towards Yoyogi Park but rather[r]
+towards Yotsubase Town.[pcms]
 
 *6142|
 [fc]
@@ -161,7 +169,8 @@ The loneliness of her back made me...[pcms]
 
 
 ;	[link storage="T30010.ks" target=*T30010_TOP]ÇªÇ¡Ç∆ÇµÇƒÇ®Ç≠[endlink]
-;       (link storage="T30020.ks" target=*T30020_TOP)Go to her(endlink)[pcms]
+;       (link storage="T30020.ks" target=*T30020_TOP)Go to[r]
+her(endlink)[pcms]
 
 *SEL69|ÇªÇ¡Ç∆ÇµÇƒÇ®Ç≠Å^ÇªÇŒÇ…çsÇ≠
 [fc]

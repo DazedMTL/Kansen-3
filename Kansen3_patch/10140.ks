@@ -21,18 +21,19 @@
 
 *941|
 [fc]
-I stand alone under "the legendary tree" where the girls gossip, clutching my[r]
-phone and looking up at the sky.[pcms]
+I stand alone under "the legendary tree" where the girls[r]
+gossip, clutching my phone and looking up at the sky.[pcms]
 
 *942|
 [fc]
-Just after pressing the send button on my phone, I look up at the sky where the[r]
-stars are dimly shining, waiting for Kanagi-san to arrive.[pcms]
+Just after pressing the send button on my phone, I look up[r]
+at the sky where the stars are dimly shining, waiting for[r]
+Kanagi-san to arrive.[pcms]
 
 *943|
 [fc]
-The reply to my email said, "I might be a little late, but I will definitely[r]
-come."[pcms]
+The reply to my email said, "I might be a little late, but I[r]
+will definitely come."[pcms]
 
 *944|
 [fc]
@@ -44,22 +45,23 @@ Mosquitoes attack my bare legs. But still, I wait here.[pcms]
 
 *946|
 [fc]
-Today, I will confess to the idol of our school... to Kanagi-san![pcms]
+Today, I will confess to the idol of our school... to[r]
+Kanagi-san![pcms]
 
 *947|
 [fc]
-She is the idol of the school. I'm not bragging, but I'm quite popular too. I[r]
-can definitely do it.[pcms]
+She is the idol of the school. I'm not bragging, but I'm[r]
+quite popular too. I can definitely do it.[pcms]
 
 *948|
 [fc]
-The distant sounds of festival music and laughter. The dim orange light emitted[r]
-from the hanging lanterns.[pcms]
+The distant sounds of festival music and laughter. The dim[r]
+orange light emitted from the hanging lanterns.[pcms]
 
 *949|
 [fc]
-Against the backdrop of those sounds and lights, I can see a slender figure[r]
-approaching me.[pcms]
+Against the backdrop of those sounds and lights, I can see a[r]
+slender figure approaching me.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
@@ -70,12 +72,13 @@ approaching me.[pcms]
 
 *951|
 [fc]
-Suppressing my excitement and feigning calmness, I call out her name in a soft[r]
-voice.[pcms]
+Suppressing my excitement and feigning calmness, I call out[r]
+her name in a soft voice.[pcms]
 
 *952|
 [fc]
-When talking to girls I'm not interested in, my heart doesn't race like this.[pcms]
+When talking to girls I'm not interested in, my heart[r]
+doesn't race like this.[pcms]
 
 *953|
 [fc]
@@ -95,7 +98,8 @@ The school idol responds to my call in her usual tone.[pcms]
 
 *956|
 [fc]
-As she gets closer to me, her figure becomes clearer and clearer.[pcms]
+As she gets closer to me, her figure becomes clearer and[r]
+clearer.[pcms]
 
 *957|
 [fc]
@@ -103,8 +107,9 @@ She's not in her usual school uniform, but in a yukata.[pcms]
 
 *958|
 [fc]
-It's fresh and different from the usual clothes--and that appearance, which[r]
-highlights Kanagi-san's cuteness even more, makes my heart race faster.[pcms]
+It's fresh and different from the usual clothes--and that[r]
+appearance, which highlights Kanagi-san's cuteness even[r]
+more, makes my heart race faster.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
@@ -126,7 +131,8 @@ highlights Kanagi-san's cuteness even more, makes my heart race faster.[pcms]
 *961|
 [fc]
 [ns]Oshimi[nse]
-"No, not at all. It's just the right time, and I just got here too."[pcms]
+"No, not at all. It's just the right time, and I just got[r]
+here too."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -145,18 +151,18 @@ highlights Kanagi-san's cuteness even more, makes my heart race faster.[pcms]
 
 *964|
 [fc]
-Kanagi-san's yukata appearance and her cute voice and gestures make me lose my[r]
-usual composure.[pcms]
+Kanagi-san's yukata appearance and her cute voice and[r]
+gestures make me lose my usual composure.[pcms]
 
 *965|
 [fc]
-If this continues... I won't be able to fulfill today's main purpose of[r]
-"confessing to Kanagi-san."[pcms]
+If this continues... I won't be able to fulfill today's main[r]
+purpose of "confessing to Kanagi-san."[pcms]
 
 *966|
 [fc]
-Would it be better to just make up my mind and confess straight away rather than[r]
-continue this trivial exchange?[pcms]
+Would it be better to just make up my mind and confess[r]
+straight away rather than continue this trivial exchange?[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -168,8 +174,9 @@ continue this trivial exchange?[pcms]
 
 *968|
 [fc]
-The mature allure mixed with the fragility of a young girl, and that smile[r]
-illuminated by the orange light, help me regain my composure instead.[pcms]
+The mature allure mixed with the fragility of a young girl,[r]
+and that smile illuminated by the orange light, help me[r]
+regain my composure instead.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
@@ -183,8 +190,8 @@ illuminated by the orange light, help me regain my composure instead.[pcms]
 *970|
 [fc]
 [ns]Oshimi[nse]
-"Yeah. The swimsuit look is cool too, but Kanagi-san looks even more beautiful[r]
-today."[pcms]
+"Yeah. The swimsuit look is cool too, but Kanagi-san looks[r]
+even more beautiful today."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -196,7 +203,8 @@ today."[pcms]
 
 *972|
 [fc]
-She covers her mouth with her hand, looks down shyly, and blushes.[pcms]
+She covers her mouth with her hand, looks down shyly, and[r]
+blushes.[pcms]
 
 *973|
 [fc]
@@ -204,12 +212,13 @@ Really, this girl is so cute...[pcms]
 
 *974|
 [fc]
-I want to make this girl mine. Whether it's because of the dim light or our[r]
-youth.[pcms]
+I want to make this girl mine. Whether it's because of the[r]
+dim light or our youth.[pcms]
 
 *975|
 [fc]
-A sense of possessiveness towards her spreads throughout my heart.[pcms]
+A sense of possessiveness towards her spreads throughout my[r]
+heart.[pcms]
 
 *976|
 [fc]
@@ -235,7 +244,8 @@ After a moment of silence, I make up my mind.[pcms]
 *979|
 [fc]
 [ns]Oshimi[nse]
-"I'm not good with words, so I can't come up with clever lines or anything..."[pcms]
+"I'm not good with words, so I can't come up with clever[r]
+lines or anything..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
@@ -254,7 +264,8 @@ After a moment of silence, I make up my mind.[pcms]
 
 *982|
 [fc]
-Kanagi looks as if she wants to say she had never expected this.[pcms]
+Kanagi looks as if she wants to say she had never expected[r]
+this.[pcms]
 
 *983|
 [fc]
@@ -266,12 +277,14 @@ Then again, a heavy silence falls upon us.[pcms]
 
 *985|
 [fc]
-In my head swirls the thought "It was no good." But maybe she's just confused.[r]
-There's also the possibility that she's undecided.[pcms]
+In my head swirls the thought "It was no good." But maybe[r]
+she's just confused. There's also the possibility that she's[r]
+undecided.[pcms]
 
 *986|
 [fc]
-Maybe it's better to give up for today and confess again another time...[pcms]
+Maybe it's better to give up for today and confess again[r]
+another time...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
@@ -282,8 +295,8 @@ Maybe it's better to give up for today and confess again another time...[pcms]
 
 *988|
 [fc]
-I try to calm Kanagi-san's feelings by speaking as cheerfully as possible, as if[r]
-consoling a child.[pcms]
+I try to calm Kanagi-san's feelings by speaking as[r]
+cheerfully as possible, as if consoling a child.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -299,15 +312,16 @@ A slightly flustered voice comes back to me.[pcms]
 
 *991|
 [fc]
-Perhaps she's hesitating? With one more push from me, her feelings might tilt.[pcms]
+Perhaps she's hesitating? With one more push from me, her[r]
+feelings might tilt.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *992|
 [fc]
 [ns]Oshimi[nse]
-"I want you to go out with me if possible. But that's secondary. I just wanted[r]
-to convey these feelings..."[pcms]
+"I want you to go out with me if possible. But that's[r]
+secondary. I just wanted to convey these feelings..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -383,8 +397,8 @@ We stare at each other in silence.[pcms]
 
 *1003|
 [fc]
-The smooth lips, like those of a smooth doll, are faintly illuminated by the[r]
-orange light.[pcms]
+The smooth lips, like those of a smooth doll, are faintly[r]
+illuminated by the orange light.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -399,7 +413,8 @@ orange light.[pcms]
 *1005|
 [fc]
 [ns]Oshimi[nse]
-"I have friends too. I just want to be lovers with Kanagi-san."[pcms]
+"I have friends too. I just want to be lovers with Kanagi-[r]
+san."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -414,7 +429,8 @@ orange light.[pcms]
 *1007|
 [fc]
 [ns]Oshimi[nse]
-"Love is a matter of free will, right? It's not like it'll mess up your life."[pcms]
+"Love is a matter of free will, right? It's not like it'll[r]
+mess up your life."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -430,7 +446,8 @@ Just a little more! With a bit more pushing, she might fall![pcms]
 
 *1010|
 [fc]
-My body moves towards Kanagi-san without waiting for my brain's command.[pcms]
+My body moves towards Kanagi-san without waiting for my[r]
+brain's command.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
@@ -451,8 +468,8 @@ My body moves towards Kanagi-san without waiting for my brain's command.[pcms]
 
 *1013|
 [fc]
-I'm drawn to those lips and lean in towards Kanagi-san, embracing her slender[r]
-shoulders.[pcms]
+I'm drawn to those lips and lean in towards Kanagi-san,[r]
+embracing her slender shoulders.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -464,17 +481,19 @@ shoulders.[pcms]
 
 *1015|
 [fc]
-Kanagi-san rejects me with a suppressed yet forceful voice and turns her doll-[r]
-like face away.[pcms]
+Kanagi-san rejects me with a suppressed yet forceful voice[r]
+and turns her doll- like face away.[pcms]
 
 *1016|
 [fc]
-In response to that action, rather than affection, a desire to "conquer" wells[r]
-up in me, and I forcefully turn her face back towards me.[pcms]
+In response to that action, rather than affection, a desire[r]
+to "conquer" wells up in me, and I forcefully turn her face[r]
+back towards me.[pcms]
 
 *1017|
 [fc]
-The moment Kanagi-san's large eyes come into view before me--[pcms]
+The moment Kanagi-san's large eyes come into view before[r]
+me--[pcms]
 
 ;//〆：レッドフラッシュ
 [赤フラ]
@@ -506,32 +525,37 @@ Kanagi-san bit my mouth!?[pcms]
 
 *1022|
 [fc]
-The taste of iron spreads through my mouth. A hot liquid trickles down the side[r]
-of my mouth.[pcms]
+The taste of iron spreads through my mouth. A hot liquid[r]
+trickles down the side of my mouth.[pcms]
 
 *1023|
 [fc]
-Yes, just before the kiss... Kanagi-san bit down hard on my lips.[pcms]
+Yes, just before the kiss... Kanagi-san bit down hard on my[r]
+lips.[pcms]
 
 *1024|
 [fc]
-Kanagi-san glares at me with eyes like a carnivore stalking its prey, while I[r]
-instinctively cover my mouth and stand frozen on the spot.[pcms]
+Kanagi-san glares at me with eyes like a carnivore stalking[r]
+its prey, while I instinctively cover my mouth and stand[r]
+frozen on the spot.[pcms]
 
 *1025|
 [fc]
-The two of us, illuminated by the orange light, stand facing each other as if[r]
-before a battle, contrary to the distant sounds of festive music and cheers.[pcms]
+The two of us, illuminated by the orange light, stand facing[r]
+each other as if before a battle, contrary to the distant[r]
+sounds of festive music and cheers.[pcms]
 
 *1026|
 [fc]
-Dumbfounded by the turn of events, I can only stand there staring at Kanagi-san,[r]
-the hot liquid still running down the side of my mouth.[pcms]
+Dumbfounded by the turn of events, I can only stand there[r]
+staring at Kanagi-san, the hot liquid still running down the[r]
+side of my mouth.[pcms]
 
 *1027|
 [fc]
-Suddenly coming to my senses and realizing I've done something terrible, I try[r]
-to mend the situation with my bloodied mouth.[pcms]
+Suddenly coming to my senses and realizing I've done[r]
+something terrible, I try to mend the situation with my[r]
+bloodied mouth.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
@@ -567,8 +591,8 @@ to mend the situation with my bloodied mouth.[pcms]
 
 *1032|
 [fc]
-After glaring at me with tearful eyes, Kanagi-san turns on her heel and runs off[r]
-into the orange light.[pcms]
+After glaring at me with tearful eyes, Kanagi-san turns on[r]
+her heel and runs off into the orange light.[pcms]
 
 *1033|
 [fc]
@@ -576,8 +600,9 @@ All I could do was watch her retreating figure.[pcms]
 
 *1034|
 [fc]
-However, at the same time, the humiliation of being bitten and the thought that[r]
-"I've been rejected" bring a surge of frustration...[pcms]
+However, at the same time, the humiliation of being bitten[r]
+and the thought that "I've been rejected" bring a surge of[r]
+frustration...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 

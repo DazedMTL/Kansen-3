@@ -20,7 +20,8 @@
 *1605|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hehe... Now, the last one makes her appearance... With this, everyone's here."[pcms]
+"Hehe... Now, the last one makes her appearance... With[r]
+this, everyone's here."[pcms]
 
 *1606|
 [fc]
@@ -29,12 +30,13 @@
 
 *1607|
 [fc]
-Pushed in the back by a male student, I'm dragged towards the bar's dome.[pcms]
+Pushed in the back by a male student, I'm dragged towards[r]
+the bar's dome.[pcms]
 
 *1608|
 [fc]
-Waiting there were... did everyone fail to escape? Yuuho, Ren... Marie... I[r]
-wanted them all to escape...[pcms]
+Waiting there were... did everyone fail to escape? Yuuho,[r]
+Ren... Marie... I wanted them all to escape...[pcms]
 
 *1609|
 [fc]
@@ -50,30 +52,33 @@ wanted them all to escape...[pcms]
 
 *1611|
 [fc]
-Shigeyoshi looks at me with a smug grin, clearly pleased with himself.[pcms]
+Shigeyoshi looks at me with a smug grin, clearly pleased[r]
+with himself.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1612|
 [fc]
-Beyond him, a group of about 30 to 40 men, filled with curiosity and desire,[r]
-stare at us.[pcms]
+Beyond him, a group of about 30 to 40 men, filled with[r]
+curiosity and desire, stare at us.[pcms]
 
 *1613|
 [fc]
-There are guys like Shigeyoshi, some dressed like salarymen, and even male[r]
-students in school uniforms.[pcms]
+There are guys like Shigeyoshi, some dressed like salarymen,[r]
+and even male students in school uniforms.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1614|
 [fc]
 [ns]Shigeyoshi[nse]
-"Huh? What happened to the rest!? Where are the brat and Mizuki!?"[pcms]
+"Huh? What happened to the rest!? Where are the brat and[r]
+Mizuki!?"[pcms]
 
 *1615|
 [fc]
-That's right! Where are Kousuke and Mizuki!? They don't seem to be here...[pcms]
+That's right! Where are Kousuke and Mizuki!? They don't seem[r]
+to be here...[pcms]
 
 *1616|
 [fc]
@@ -85,14 +90,15 @@ That's right! Where are Kousuke and Mizuki!? They don't seem to be here...[pcms]
 *1617|
 [fc]
 [ns]Shigeyoshi[nse]
-"They got away? You useless fools! (ChrSetEx layer=5 chbase="shige_b3")(ChrSetXY[r]
-layer=5 x=161 y=0)(trans_c cross time=150)...well, whatever. Having three girls[r]
-is more than enough."[pcms]
+"They got away? You useless fools! (ChrSetEx layer=5[r]
+chbase="shige_b3")(ChrSetXY layer=5 x=161 y=0)(trans_c cross[r]
+time=150)...well, whatever. Having three girls is more than[r]
+enough."[pcms]
 
 *1618|
 [fc]
-Shigeyoshi leers at Marie and the others. As usual, he thinks with nothing but[r]
-his lower half.[pcms]
+Shigeyoshi leers at Marie and the others. As usual, he[r]
+thinks with nothing but his lower half.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -110,8 +116,8 @@ his lower half.[pcms]
 
 *1621|
 [fc]
-I shake off the hand of the male student grabbing my arm and walk on my own[r]
-towards where Marie and the others are.[pcms]
+I shake off the hand of the male student grabbing my arm and[r]
+walk on my own towards where Marie and the others are.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -146,47 +152,51 @@ At least, they don't seem to be injured...[pcms]
 [fc]
 [vo_mar s="maru1039"]
 [ns]Margarita[nse]
-"I'm sorry... I wanted to help everyone escape... It's my fault for not being[r]
-strong enough."[pcms]
+"I'm sorry... I wanted to help everyone escape... It's my[r]
+fault for not being strong enough."[pcms]
 
 *1627|
 [fc]
 [ns]Wataru[nse]
-"Marie... It's my fault too, for being powerless and weak... I'm sorry..."[pcms]
+"Marie... It's my fault too, for being powerless and weak...[r]
+I'm sorry..."[pcms]
 
 *1628|
 [fc]
-I tightly grasp Marie's outstretched hand, feeling its warmth and softness.[pcms]
+I tightly grasp Marie's outstretched hand, feeling its[r]
+warmth and softness.[pcms]
 
 *1629|
 [fc]
-Marie is here... That fact made me both happy and sad. I wished she had[r]
-escaped...[pcms]
+Marie is here... That fact made me both happy and sad. I[r]
+wished she had escaped...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1630|
 [fc]
 [ns]Shigeyoshi[nse]
-"Well then... now that everyone's here, shall we begin? ...But first, we need to[r]
-finish the final preparations. The grand finale of my rise to power."[pcms]
+"Well then... now that everyone's here, shall we begin?[r]
+...But first, we need to finish the final preparations. The[r]
+grand finale of my rise to power."[pcms]
 
 *1631|
 [fc]
-Shigeyoshi's voice, laden with an ominous tone, echoes lowly around the dome.[pcms]
+Shigeyoshi's voice, laden with an ominous tone, echoes lowly[r]
+around the dome.[pcms]
 
 *1632|
 [fc]
-Bloodshot eyes with dubious focus. Those eyes slowly caress us before stopping[r]
-abruptly on Jin's face.[pcms]
+Bloodshot eyes with dubious focus. Those eyes slowly caress[r]
+us before stopping abruptly on Jin's face.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1633|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hey, big bro... I've climbed up, see? Not by using my head like you, but by a[r]
-much simpler and clearer method."[pcms]
+"Hey, big bro... I've climbed up, see? Not by using my head[r]
+like you, but by a much simpler and clearer method."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -200,8 +210,8 @@ much simpler and clearer method."[pcms]
 *1635|
 [fc]
 [ns]Shigeyoshi[nse]
-"Right? That's why I have to stay true to myself until the end, big bro... no,[r]
-Jin Mitsuki!"[pcms]
+"Right? That's why I have to stay true to myself until the[r]
+end, big bro... no, Jin Mitsuki!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -227,72 +237,78 @@ Ren and Yuuho scream and tense up at Shigeyoshi's mad shout.[pcms]
 
 *1639|
 [fc]
-It might be better to just close our eyes and cover our ears. Surely something[r]
-terrible is about to happen.[pcms]
+It might be better to just close our eyes and cover our[r]
+ears. Surely something terrible is about to happen.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1640|
 [fc]
 [ns]Shigeyoshi[nse]
-"We're in the business of violence. That's why we eliminate nuisances like[r]
-this... Right, Jin?"[pcms]
+"We're in the business of violence. That's why we eliminate[r]
+nuisances like this... Right, Jin?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1641|
 [fc]
 [ns]Jin[nse]
-"And this is what you do on top of that? Seems like something even a 'human'[r]
-wouldn't need to do. Even infected fools with broken brains could do it."[pcms]
+"And this is what you do on top of that? Seems like[r]
+something even a 'human' wouldn't need to do. Even infected[r]
+fools with broken brains could do it."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1642|
 [fc]
 [ns]Shigeyoshi[nse]
-"Shut up! A loser who can't even do that should just keep his mouth shut!!"[pcms]
+"Shut up! A loser who can't even do that should just keep[r]
+his mouth shut!!"[pcms]
 
 *1643|
 [fc]
-Jin's voice is calm and collected in contrast to Shigeyoshi's trembling voice.[r]
-Jin, why do you keep provoking him like this...?[pcms]
+Jin's voice is calm and collected in contrast to[r]
+Shigeyoshi's trembling voice. Jin, why do you keep provoking[r]
+him like this...?[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1644|
 [fc]
 [ns]Shigeyoshi[nse]
-"I was really grateful to you, you know? For picking up a useless idiot like me[r]
-and giving me a chance. But that's all over now... I'm the top dog!"[pcms]
+"I was really grateful to you, you know? For picking up a[r]
+useless idiot like me and giving me a chance. But that's all[r]
+over now... I'm the top dog!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1645|
 [fc]
 [ns]Jin[nse]
-"Yeah, do as you like. Whoever wants to be king should just go ahead and be it."[pcms]
+"Yeah, do as you like. Whoever wants to be king should just[r]
+go ahead and be it."[pcms]
 
 *1646|
 [fc]
-The man seems resigned, accepting everything as if he has made up his mind about[r]
-the outcome he knows is coming--[pcms]
+The man seems resigned, accepting everything as if he has[r]
+made up his mind about the outcome he knows is coming--[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1647|
 [fc]
 [ns]Jin[nse]
-"What's wrong? Can't do it when it comes down to it? Are you a wimp who can't do[r]
-anything unless told by me until the very end? Go on, try it."[pcms]
+"What's wrong? Can't do it when it comes down to it? Are you[r]
+a wimp who can't do anything unless told by me until the[r]
+very end? Go on, try it."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1648|
 [fc]
 [ns]Shigeyoshi[nse]
-"You bastard! Stop acting like my big brother! I'm the top... I'm number one! I[r]
-can do whatever I want!!"[pcms]
+"You bastard! Stop acting like my big brother! I'm the[r]
+top... I'm number one! I can do whatever I want!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -330,17 +346,19 @@ can do whatever I want!!"[pcms]
 
 *1652|
 [fc]
-A loud noise rings out. Red liquid splatters. And Jin's body slowly collapses.[pcms]
+A loud noise rings out. Red liquid splatters. And Jin's body[r]
+slowly collapses.[pcms]
 
 *1653|
 [fc]
-Ren and Yuuho seem unable to comprehend what just happened before their eyes,[r]
-standing there dazed. Naturally, I am too...[pcms]
+Ren and Yuuho seem unable to comprehend what just happened[r]
+before their eyes, standing there dazed. Naturally, I am[r]
+too...[pcms]
 
 *1654|
 [fc]
-To think he would go this far... Even though we're all human... unlike those[r]
-infected...![pcms]
+To think he would go this far... Even though we're all[r]
+human... unlike those infected...![pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -377,15 +395,17 @@ The screams echoed throughout the main dome.[pcms]
 *1659|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hah, hah... I killed him... I did it...! Now I'm the top... I'm the king!!!"[pcms]
+"Hah, hah... I killed him... I did it...! Now I'm the top...[r]
+I'm the king!!!"[pcms]
 
 ;//se073ÅEäΩê∫
 [se buf=0 storage="se073"]
 
 *1660|
 [fc]
-Shigeyoshi's declaration was met with cheers from his underlings as they surged[r]
-forward, their eyes glinting with lust, almost like the infected--[pcms]
+Shigeyoshi's declaration was met with cheers from his[r]
+underlings as they surged forward, their eyes glinting with[r]
+lust, almost like the infected--[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -415,8 +435,8 @@ forward, their eyes glinting with lust, almost like the infected--[pcms]
 
 *1664|
 [fc]
-Standing in front of Marie and the others to shield them, glaring at the[r]
-underlings as they pressed in.[pcms]
+Standing in front of Marie and the others to shield them,[r]
+glaring at the underlings as they pressed in.[pcms]
 
 *1665|
 [fc]
@@ -425,14 +445,16 @@ underlings as they pressed in.[pcms]
 
 *1666|
 [fc]
-Yuuho, Ren... Marie...! I'll protect them... I'll protect everyone...![pcms]
+Yuuho, Ren... Marie...! I'll protect them... I'll protect[r]
+everyone...![pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1667|
 [fc]
 [ns]Shigeyoshi[nse]
-"Oops, there's another one. We don't need men, they're just in the way."[pcms]
+"Oops, there's another one. We don't need men, they're just[r]
+in the way."[pcms]
 
 *1668|
 [fc]
@@ -474,8 +496,8 @@ Yuuho, Ren... Marie...! I'll protect them... I'll protect everyone...![pcms]
 
 *1672|
 [fc]
-The screams grow distant... As the heat in my chest burns, strength flows out[r]
-along with the pain...[pcms]
+The screams grow distant... As the heat in my chest burns,[r]
+strength flows out along with the pain...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -487,7 +509,8 @@ along with the pain...[pcms]
 
 *1674|
 [fc]
-I have to stand up... I have to get up and protect everyone... Marie...[pcms]
+I have to stand up... I have to get up and protect[r]
+everyone... Marie...[pcms]
 
 ;//se073ÅEäΩê∫
 [se buf=0 storage="se073"]

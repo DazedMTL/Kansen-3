@@ -36,38 +36,41 @@
 
 *464|
 [fc]
-I was supposed to be at a meeting for the Astronomy Club... but before I knew[r]
-it, I had fallen asleep.[pcms]
+I was supposed to be at a meeting for the Astronomy Club...[r]
+but before I knew it, I had fallen asleep.[pcms]
 
 *465|
 [fc]
-I wasn't particularly sleep-deprived or tired. So, it was a mystery to me why I[r]
-had fallen asleep like that.[pcms]
+I wasn't particularly sleep-deprived or tired. So, it was a[r]
+mystery to me why I had fallen asleep like that.[pcms]
 
 *466|
 [fc]
-But what was even more puzzling was the content of that dream. At first, I was[r]
-gazing at a beautiful star-filled night sky...[pcms]
+But what was even more puzzling was the content of that[r]
+dream. At first, I was gazing at a beautiful star-filled[r]
+night sky...[pcms]
 
 *467|
 [fc]
-In a way, it was fitting for the Astronomy Club, or you could say, a romantic[r]
-scene.[pcms]
+In a way, it was fitting for the Astronomy Club, or you[r]
+could say, a romantic scene.[pcms]
 
 *468|
 [fc]
-The problem was the latter half. Compared to the dream appropriate for dozing[r]
-off during an Astronomy Club meeting, what was with the eeriness of the latter[r]
-half?[pcms]
+The problem was the latter half. Compared to the dream[r]
+appropriate for dozing off during an Astronomy Club meeting,[r]
+what was with the eeriness of the latter half?[pcms]
 
 *469|
 [fc]
-Yuuho's creepy figure. It was like something out of a horror movie...[pcms]
+Yuuho's creepy figure. It was like something out of a horror[r]
+movie...[pcms]
 
 *470|
 [fc]
-Shivering from the sensation of sweat oozing all over my body, I tried to[r]
-organize the scenes from the dream with my confused thoughts.[pcms]
+Shivering from the sensation of sweat oozing all over my[r]
+body, I tried to organize the scenes from the dream with my[r]
+confused thoughts.[pcms]
 
 *471|
 [fc]
@@ -76,23 +79,23 @@ organize the scenes from the dream with my confused thoughts.[pcms]
 
 *472|
 [fc]
-Thinking about random things, or being inexplicably concerned about the dream I[r]
-had while napping.[pcms]
+Thinking about random things, or being inexplicably[r]
+concerned about the dream I had while napping.[pcms]
 
 *473|
 [fc]
-The content of dreams is often contradictory, incoherent, meaningless, such[r]
-vague and ambiguous things.[pcms]
+The content of dreams is often contradictory, incoherent,[r]
+meaningless, such vague and ambiguous things.[pcms]
 
 *474|
 [fc]
-But I just couldn't shake the feeling that the dream I had was special, or[r]
-rather, peculiar, and it bothered me a lot.[pcms]
+But I just couldn't shake the feeling that the dream I had[r]
+was special, or rather, peculiar, and it bothered me a lot.[pcms]
 
 *475|
 [fc]
-So, in the midst of the muggy air, drenched in sweat, I still found myself[r]
-thinking about this and that...[pcms]
+So, in the midst of the muggy air, drenched in sweat, I[r]
+still found myself thinking about this and that...[pcms]
 
 ;//吉野1
 [ChrSetEx layer=1 chbase="yoshino_b"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
@@ -110,12 +113,13 @@ In the end, I was scolded by name like this.[pcms]
 *478|
 [fc]
 [ns]Wataru[nse]
-"Ah, huh? Yoshino...? Ah-...yeah...sorry. I wasn't listening."[pcms]
+"Ah, huh? Yoshino...? Ah-...yeah...sorry. I wasn't[r]
+listening."[pcms]
 
 *479|
 [fc]
-I was so groggy that I couldn't even come up with a clever lie to cover it up;[r]
-my response was almost provocative.[pcms]
+I was so groggy that I couldn't even come up with a clever[r]
+lie to cover it up; my response was almost provocative.[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_b"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -123,7 +127,8 @@ my response was almost provocative.[pcms]
 [fc]
 [vo_mob s="yoshino0002"]
 [ns]Yoshino[nse]
-"Come on, cut it out already. You're the one who started this..."[pcms]
+"Come on, cut it out already. You're the one who started[r]
+this..."[pcms]
 
 *481|
 [fc]
@@ -132,8 +137,8 @@ my response was almost provocative.[pcms]
 
 *482|
 [fc]
-I honestly told her the truth and apologized. Yoshino sighed as if exasperated[r]
-by my words.[pcms]
+I honestly told her the truth and apologized. Yoshino sighed[r]
+as if exasperated by my words.[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_a"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -150,28 +155,31 @@ by my words.[pcms]
 
 *485|
 [fc]
-It's only natural for Yoshino to be exasperated, but there's nothing I can do[r]
-about having fallen asleep, and I just can't stop thinking about that dream...[pcms]
+It's only natural for Yoshino to be exasperated, but there's[r]
+nothing I can do about having fallen asleep, and I just[r]
+can't stop thinking about that dream...[pcms]
 
 *486|
 [fc]
-But, of course, I can't just neglect the meeting any further and immerse myself[r]
-in reminiscing about the dream.[pcms]
+But, of course, I can't just neglect the meeting any further[r]
+and immerse myself in reminiscing about the dream.[pcms]
 
 *487|
 [fc]
-As a member of the Astronomy Club, I was the one who suggested we go camping[r]
-during this summer vacation as part of our club activities.[pcms]
+As a member of the Astronomy Club, I was the one who[r]
+suggested we go camping during this summer vacation as part[r]
+of our club activities.[pcms]
 
 *488|
 [fc]
-Right now, we're in the middle of that meeting, and everyone has taken time out[r]
-of their schedules to gather here.[pcms]
+Right now, we're in the middle of that meeting, and everyone[r]
+has taken time out of their schedules to gather here.[pcms]
 
 *489|
 [fc]
-And yet, to have fallen asleep in the middle of it is laughable enough, but to[r]
-say I'm preoccupied with a dream is something I could never utter.[pcms]
+And yet, to have fallen asleep in the middle of it is[r]
+laughable enough, but to say I'm preoccupied with a dream is[r]
+something I could never utter.[pcms]
 
 *490|
 [fc]
@@ -193,8 +201,8 @@ say I'm preoccupied with a dream is something I could never utter.[pcms]
 
 *493|
 [fc]
-Just when I thought I'd pull myself together and focus on the meeting... I was[r]
-the one caught off guard this time.[pcms]
+Just when I thought I'd pull myself together and focus on[r]
+the meeting... I was the one caught off guard this time.[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_a"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -213,7 +221,8 @@ Yoshino thrust a handwritten note in front of my eyes.[pcms]
 
 *495a|
 [fc]
-The departure date for the camp is August 19th. We're meeting at 8 AM.[pcms]
+The departure date for the camp is August 19th. We're[r]
+meeting at 8 AM.[pcms]
 
 *496|
 [fc]
@@ -235,12 +244,13 @@ The departure date for the camp is August 19th. We're meeting at 8 AM.[pcms]
 
 *499|
 [fc]
-I frantically tried to recall any vague memories, but as expected, I had no[r]
-recollection of the meeting at all.[pcms]
+I frantically tried to recall any vague memories, but as[r]
+expected, I had no recollection of the meeting at all.[pcms]
 
 *500|
 [fc]
-It's a pitiful story that I don't even know when I fell asleep.[pcms]
+It's a pitiful story that I don't even know when I fell[r]
+asleep.[pcms]
 
 *501|
 [fc]
@@ -251,8 +261,8 @@ It's a pitiful story that I don't even know when I fell asleep.[pcms]
 [fc]
 [vo_mob s="yoshino0007"]
 [ns]Yoshino[nse]
-"Get it together. At least make sure you don't forget the decisions that have[r]
-been made."[pcms]
+"Get it together. At least make sure you don't forget the[r]
+decisions that have been made."[pcms]
 
 *503|
 [fc]
@@ -267,8 +277,8 @@ been made."[pcms]
 
 *505|
 [fc]
-I looked over the memo that was handed to me, but there didn't seem to be any[r]
-problems.[pcms]
+I looked over the memo that was handed to me, but there[r]
+didn't seem to be any problems.[pcms]
 
 *506|
 [fc]
@@ -285,20 +295,22 @@ problems.[pcms]
 
 *508|
 [fc]
-It's regrettable to end without being involved in the decision-making despite[r]
-being the initiator, but it's my own fault, so it can't be helped.[pcms]
+It's regrettable to end without being involved in the[r]
+decision-making despite being the initiator, but it's my own[r]
+fault, so it can't be helped.[pcms]
 
 *509|
 [fc]
 [vo_mob s="yoshino0010"]
 [ns]Yoshino[nse]
-"Okay everyone, that's it for today. Wataru-kun, make sure you don't oversleep[r]
-on the day, okay?"[pcms]
+"Okay everyone, that's it for today. Wataru-kun, make sure[r]
+you don't oversleep on the day, okay?"[pcms]
 
 *510|
 [fc]
-With that one remark, the club members in the classroom burst into laughter, and[r]
-with a good punchline, the meeting was adjourned.[pcms]
+With that one remark, the club members in the classroom[r]
+burst into laughter, and with a good punchline, the meeting[r]
+was adjourned.[pcms]
 
 ;//〆BG：学園廊下（分校舎）
 [bg storage="bg017"][trans_c cross time=500]
@@ -313,13 +325,15 @@ with a good punchline, the meeting was adjourned.[pcms]
 
 *512|
 [fc]
-After the astronomy club meeting wrapped up, I stepped out into the hallway and[r]
-shook my head while tapping my not-so-clear head with my left hand.[pcms]
+After the astronomy club meeting wrapped up, I stepped out[r]
+into the hallway and shook my head while tapping my not-so-[r]
+clear head with my left hand.[pcms]
 
 *513|
 [fc]
-Rather than a refreshing awakening from a good night's sleep, I felt a heavy[r]
-sensation as if I had just woken up from a lazy slumber, and I felt tired.[pcms]
+Rather than a refreshing awakening from a good night's[r]
+sleep, I felt a heavy sensation as if I had just woken up[r]
+from a lazy slumber, and I felt tired.[pcms]
 
 *514|
 [fc]
@@ -328,18 +342,21 @@ sensation as if I had just woken up from a lazy slumber, and I felt tired.[pcms]
 
 *515|
 [fc]
-It's strange to talk about heat fatigue at the start of summer vacation, but[r]
-there's nothing I can do about feeling unwell.[pcms]
+It's strange to talk about heat fatigue at the start of[r]
+summer vacation, but there's nothing I can do about feeling[r]
+unwell.[pcms]
 
 *516|
 [fc]
-It's not like the punchline from earlier, but I need to get my health back to[r]
-perfect condition before the day of the event.[pcms]
+It's not like the punchline from earlier, but I need to get[r]
+my health back to perfect condition before the day of the[r]
+event.[pcms]
 
 *517|
 [fc]
-As I walked down the hallway, where the sound of the brass band practice echoed,[r]
-someone tapped me on the shoulder from behind.[pcms]
+As I walked down the hallway, where the sound of the brass[r]
+band practice echoed, someone tapped me on the shoulder from[r]
+behind.[pcms]
 
 *518|
 [fc]
@@ -356,7 +373,8 @@ someone tapped me on the shoulder from behind.[pcms]
 
 *520|
 [fc]
-The one standing behind me was Kousuke, my bad friend and best friend.[pcms]
+The one standing behind me was Kousuke, my bad friend and[r]
+best friend.[pcms]
 
 *521|
 [fc]
@@ -365,14 +383,16 @@ The one standing behind me was Kousuke, my bad friend and best friend.[pcms]
 
 *522|
 [fc]
-Kousuke is a member of the go-home club, unlike me, so he's not part of any club[r]
-activities. Normally, it wouldn't be strange to meet him here, but there are no[r]
-classes during summer vacation.[pcms]
+Kousuke is a member of the go-home club, unlike me, so he's[r]
+not part of any club activities. Normally, it wouldn't be[r]
+strange to meet him here, but there are no classes during[r]
+summer vacation.[pcms]
 
 *523|
 [fc]
-He's the type to head straight home after classes and doesn't come near during[r]
-breaks. And yet, here he is in the school building during summer vacation...[pcms]
+He's the type to head straight home after classes and[r]
+doesn't come near during breaks. And yet, here he is in the[r]
+school building during summer vacation...[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -384,16 +404,17 @@ breaks. And yet, here he is in the school building during summer vacation...[pcm
 *525|
 [fc]
 [ns]Wataru[nse]
-"Yeah, it's very strange. It's summer vacation, and I thought you'd never come[r]
-within a kilometer radius of the school."[pcms]
+"Yeah, it's very strange. It's summer vacation, and I[r]
+thought you'd never come within a kilometer radius of the[r]
+school."[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *526|
 [fc]
 [ns]Kousuke[nse]
-"A kilometer radius... that's an exaggeration. I'm one of the students who[r]
-attends this school, you know?"[pcms]
+"A kilometer radius... that's an exaggeration. I'm one of[r]
+the students who attends this school, you know?"[pcms]
 
 *527|
 [fc]
@@ -405,14 +426,14 @@ attends this school, you know?"[pcms]
 *528|
 [fc]
 [ns]Kousuke[nse]
-"Well, I can't deny that. So basically, I came here today for an unavoidable[r]
-reason."[pcms]
+"Well, I can't deny that. So basically, I came here today[r]
+for an unavoidable reason."[pcms]
 
 *529|
 [fc]
 [ns]Wataru[nse]
-"Unavoidable reason? Feels more like a trivial reason to me, or is it just my[r]
-imagination?"[pcms]
+"Unavoidable reason? Feels more like a trivial reason to me,[r]
+or is it just my imagination?"[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -423,15 +444,16 @@ imagination?"[pcms]
 
 *531|
 [fc]
-We've known each other since we were kids, and he's not the type to get into[r]
-trouble, so there must be some reason...[pcms]
+We've known each other since we were kids, and he's not the[r]
+type to get into trouble, so there must be some reason...[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *532|
 [fc]
 [ns]Kousuke[nse]
-"Actually, I'm looking for a new vocalist to feature on a track."[pcms]
+"Actually, I'm looking for a new vocalist to feature on a[r]
+track."[pcms]
 
 *533|
 [fc]
@@ -445,15 +467,16 @@ trouble, so there must be some reason...[pcms]
 
 *535|
 [fc]
-It might be dismissive to call it trivial, but it seems he came here for a very[r]
-personal reason.[pcms]
+It might be dismissive to call it trivial, but it seems he[r]
+came here for a very personal reason.[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *536|
 [fc]
 [ns]Kousuke[nse]
-"So with that said, I was thinking of checking out the choir club now."[pcms]
+"So with that said, I was thinking of checking out the choir[r]
+club now."[pcms]
 
 *537|
 [fc]
@@ -475,7 +498,8 @@ personal reason.[pcms]
 *540|
 [fc]
 [ns]Kousuke[nse]
-"Of course. It's all about taking a shot and seeing if it breaks."[pcms]
+"Of course. It's all about taking a shot and seeing if it[r]
+breaks."[pcms]
 
 *541|
 [fc]
@@ -507,13 +531,13 @@ As usual, Kousuke seems to act before thinking.[pcms]
 
 *546|
 [fc]
-With his usual initiative in full swing, I ended up being dragged along by[r]
-Kousuke to scout with him.[pcms]
+With his usual initiative in full swing, I ended up being[r]
+dragged along by Kousuke to scout with him.[pcms]
 
 *547|
 [fc]
-I was actually feeling a bit under the weather due to heat fatigue and was[r]
-thinking of going home to rest...[pcms]
+I was actually feeling a bit under the weather due to heat[r]
+fatigue and was thinking of going home to rest...[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -537,8 +561,8 @@ thinking of going home to rest...[pcms]
 
 *550|
 [fc]
-I grabbed Kousuke's hand as he boldly tried to enter the music room and held him[r]
-back.[pcms]
+I grabbed Kousuke's hand as he boldly tried to enter the[r]
+music room and held him back.[pcms]
 
 *551|
 [fc]
@@ -554,50 +578,56 @@ back.[pcms]
 
 *553|
 [fc]
-Although soundproofed, if you listened closely, you could faintly hear the sound[r]
-of instruments.[pcms]
+Although soundproofed, if you listened closely, you could[r]
+faintly hear the sound of instruments.[pcms]
 
 *554|
 [fc]
 [ns]Wataru[nse]
-"Isn't it pretty tactless to just barge in here and say we came to scout you?"[pcms]
+"Isn't it pretty tactless to just barge in here and say we[r]
+came to scout you?"[pcms]
 
 *555|
 [fc]
 [ns]Kousuke[nse]
-"Hmm, now that you mention it, I guess it does feel that way."[pcms]
+"Hmm, now that you mention it, I guess it does feel that[r]
+way."[pcms]
 
 *556|
 [fc]
-Finally, it seemed that even Kousuke with his super laid-back attitude had[r]
-managed to think like an ordinary person.[pcms]
+Finally, it seemed that even Kousuke with his super laid-[r]
+back attitude had managed to think like an ordinary person.[pcms]
 
 *557|
 [fc]
-If they're practicing at school during summer vacation, it means they're serious[r]
-or rather dedicated; they're definitely committed to their club activities.[pcms]
+If they're practicing at school during summer vacation, it[r]
+means they're serious or rather dedicated; they're[r]
+definitely committed to their club activities.[pcms]
 
 *558|
 [fc]
-Intruding on them to scout would be an unwelcome guest indeed.[pcms]
+Intruding on them to scout would be an unwelcome guest[r]
+indeed.[pcms]
 
 *559|
 [fc]
 [ns]Kousuke[nse]
-"But hey, there's no point in hesitating now that we've come this far. If we[r]
-can't secure the necessary talent, we can't move forward."[pcms]
+"But hey, there's no point in hesitating now that we've come[r]
+this far. If we can't secure the necessary talent, we can't[r]
+move forward."[pcms]
 
 *560|
 [fc]
-As expected, Kousuke's thoughts seem to revolve around himself.[pcms]
+As expected, Kousuke's thoughts seem to revolve around[r]
+himself.[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *561|
 [fc]
 [ns]Kousuke[nse]
-"I get your point, but let's call this a necessary evil and ask for forgiveness[r]
-later. So let's charge in!"[pcms]
+"I get your point, but let's call this a necessary evil and[r]
+ask for forgiveness later. So let's charge in!"[pcms]
 
 *562|
 [fc]
@@ -610,8 +640,8 @@ later. So let's charge in!"[pcms]
 
 *563|
 [fc]
-Before I could stop him, Kousuke had made up his mind and opened the door to the[r]
-music room, entering inside.[pcms]
+Before I could stop him, Kousuke had made up his mind and[r]
+opened the door to the music room, entering inside.[pcms]
 
 *564|
 [fc]
@@ -620,7 +650,8 @@ music room, entering inside.[pcms]
 
 *565|
 [fc]
-And there, Kousuke's voice trailed off abruptly as he charged in.[pcms]
+And there, Kousuke's voice trailed off abruptly as he[r]
+charged in.[pcms]
 
 *566|
 [fc]
@@ -649,9 +680,9 @@ I followed suit and entered the classroom.[pcms]
 
 *569|
 [fc]
-Inside the room, bathed in the white light of the backlight, stood Ren, playing[r]
-the violin alone in the center, causing both Kousuke and me to freeze as if time[r]
-had stopped.[pcms]
+Inside the room, bathed in the white light of the backlight,[r]
+stood Ren, playing the violin alone in the center, causing[r]
+both Kousuke and me to freeze as if time had stopped.[pcms]
 
 *570|
 [fc]
@@ -671,13 +702,15 @@ I understand it in my head. I understand, but...[pcms]
 
 *574|
 [fc]
-Bathed in the dazzling light, she seemed to be listening intently to the melody[r]
-she was creating, her figure immersed in practice appeared somewhat divine,[r]
-mystical, and beautiful.[pcms]
+Bathed in the dazzling light, she seemed to be listening[r]
+intently to the melody she was creating, her figure immersed[r]
+in practice appeared somewhat divine, mystical, and[r]
+beautiful.[pcms]
 
 *575|
 [fc]
-The flowing melody and her dazzling figure held Kousuke and me in silent awe.[pcms]
+The flowing melody and her dazzling figure held Kousuke and[r]
+me in silent awe.[pcms]
 
 *576|
 [fc]
@@ -689,23 +722,25 @@ The words I read somewhere crossed my mind.[pcms]
 
 *578|
 [fc]
-The figure of Ren, enveloped in light in the center of the room, seemed not like[r]
-the Ren I knew, but like some other beautiful entity.[pcms]
+The figure of Ren, enveloped in light in the center of the[r]
+room, seemed not like the Ren I knew, but like some other[r]
+beautiful entity.[pcms]
 
 *579|
 [fc]
-Her illuminated skin was wrapped in a white radiance, shining like a gemstone,[r]
-and her closed eyes were like delicate sculptures, perfectly formed as they[r]
-were.[pcms]
+Her illuminated skin was wrapped in a white radiance,[r]
+shining like a gemstone, and her closed eyes were like[r]
+delicate sculptures, perfectly formed as they were.[pcms]
 
 *580|
 [fc]
-Beautiful... My mind was filled with that single word as I was mesmerized.[pcms]
+Beautiful... My mind was filled with that single word as I[r]
+was mesmerized.[pcms]
 
 *581|
 [fc]
-Forgetting to breathe, I continued to gaze at Ren, or rather, the beautiful[r]
-entity that took the form of Ren.[pcms]
+Forgetting to breathe, I continued to gaze at Ren, or[r]
+rather, the beautiful entity that took the form of Ren.[pcms]
 
 ;//〆：EV004：バイオリンを弾く漣　目を開きこちらを見る
 [evcg storage="EV007b"][trans_c cross time=300]
@@ -720,8 +755,8 @@ And what moved my frozen time was Ren's eyes.[pcms]
 
 *583|
 [fc]
-Before I knew it, the violin's melody had ceased, and Ren's gaze was directed[r]
-our way.[pcms]
+Before I knew it, the violin's melody had ceased, and Ren's[r]
+gaze was directed our way.[pcms]
 
 *584|
 [fc]
@@ -753,7 +788,8 @@ our way.[pcms]
 
 *587|
 [fc]
-The usual words from Ren finally released me and Kousuke from our trance.[pcms]
+The usual words from Ren finally released me and Kousuke[r]
+from our trance.[pcms]
 
 ;//漣1+コウ2
 [ChrSetEx layer=1 chbase="ren_a7"][ChrSetXY layer=1 x=0 y=0]
@@ -774,8 +810,9 @@ The usual words from Ren finally released me and Kousuke from our trance.[pcms]
 
 *590|
 [fc]
-Kousuke seemed unable to admit he had been captivated by her performance and[r]
-gave a non-committal response. I followed suit, trying to act natural.[pcms]
+Kousuke seemed unable to admit he had been captivated by her[r]
+performance and gave a non-committal response. I followed[r]
+suit, trying to act natural.[pcms]
 
 *591|
 [fc]
@@ -795,7 +832,8 @@ gave a non-committal response. I followed suit, trying to act natural.[pcms]
 [fc]
 [vo_ren s="ren0004"]
 [ns]Ren[nse]
-"Oh really? What brought you here, Kousuke from the go-home club?"[pcms]
+"Oh really? What brought you here, Kousuke from the go-home[r]
+club?"[pcms]
 
 [ChrSetEx layer=2 chbase="kou_e1"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
@@ -833,8 +871,8 @@ gave a non-committal response. I followed suit, trying to act natural.[pcms]
 
 *599|
 [fc]
-Finally back to our usual rhythm, Kousuke and I were able to have a lively[r]
-conversation with Ren.[pcms]
+Finally back to our usual rhythm, Kousuke and I were able to[r]
+have a lively conversation with Ren.[pcms]
 
 *600|
 [fc]
@@ -843,8 +881,8 @@ conversation with Ren.[pcms]
 
 *601|
 [fc]
-Kousuke looked around the room. Ren was the only one there in the spacious[r]
-classroom.[pcms]
+Kousuke looked around the room. Ren was the only one there[r]
+in the spacious classroom.[pcms]
 
 [ChrSetEx layer=1 chbase="ren_a1"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
@@ -852,8 +890,8 @@ classroom.[pcms]
 [fc]
 [vo_ren s="ren0007"]
 [ns]Ren[nse]
-"The choir club practice might start a bit later. Ah, it might be about time for[r]
-them to arrive..."[pcms]
+"The choir club practice might start a bit later. Ah, it[r]
+might be about time for them to arrive..."[pcms]
 
 [ChrSetEx layer=2 chbase="kou_e4"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
@@ -868,12 +906,13 @@ them to arrive..."[pcms]
 [fc]
 [vo_ren s="ren0008"]
 [ns]Ren[nse]
-"Yeah. If you wait, I think they'll come. Oh, big brother, what would you like[r]
-for dinner tonight?"[pcms]
+"Yeah. If you wait, I think they'll come. Oh, big brother,[r]
+what would you like for dinner tonight?"[pcms]
 
 *605|
 [fc]
-Taken aback by the sudden change in topic, I responded as naturally as I could.[pcms]
+Taken aback by the sudden change in topic, I responded as[r]
+naturally as I could.[pcms]
 
 *606|
 [fc]
@@ -886,12 +925,14 @@ Taken aback by the sudden change in topic, I responded as naturally as I could.[
 [fc]
 [vo_ren s="ren0009"]
 [ns]Ren[nse]
-"Because practice is almost over, and I'm going shopping before heading home."[pcms]
+"Because practice is almost over, and I'm going shopping[r]
+before heading home."[pcms]
 
 *608|
 [fc]
 [ns]Wataru[nse]
-"Even if you ask me... I don't particularly crave anything right now..."[pcms]
+"Even if you ask me... I don't particularly crave anything[r]
+right now..."[pcms]
 
 *609|
 [fc]
@@ -916,20 +957,22 @@ Taken aback by the sudden change in topic, I responded as naturally as I could.[
 
 *612|
 [fc]
-With those words, Ren put her violin back in its case and began preparing to[r]
-leave.[pcms]
+With those words, Ren put her violin back in its case and[r]
+began preparing to leave.[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *613|
 [fc]
 [ns]Kousuke[nse]
-"You two sound like a newlywed couple when you talk like that."[pcms]
+"You two sound like a newlywed couple when you talk like[r]
+that."[pcms]
 
 *614|
 [fc]
 [ns]Wataru[nse]
-"Nah, don't be ridiculous. It's just normal family conversation."[pcms]
+"Nah, don't be ridiculous. It's just normal family[r]
+conversation."[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=0 y=0]
 [ChrSetEx layer=2 chbase="ren_j8"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
@@ -944,8 +987,9 @@ leave.[pcms]
 *616|
 [fc]
 [ns]Kousuke[nse]
-"No, seriously, from an outsider's perspective, you look like a couple. Normal[r]
-siblings don't talk about dinner plans, right?"[pcms]
+"No, seriously, from an outsider's perspective, you look[r]
+like a couple. Normal siblings don't talk about dinner[r]
+plans, right?"[pcms]
 
 *617|
 [fc]
@@ -963,8 +1007,8 @@ siblings don't talk about dinner plans, right?"[pcms]
 
 *619|
 [fc]
-At that moment, Ren, who had been looking through her bag, let out a flustered[r]
-cry.[pcms]
+At that moment, Ren, who had been looking through her bag,[r]
+let out a flustered cry.[pcms]
 
 *620|
 [fc]
@@ -973,8 +1017,8 @@ cry.[pcms]
 
 *621|
 [fc]
-I also raised my voice in concern. For Ren, the cream was an essential part of[r]
-her life.[pcms]
+I also raised my voice in concern. For Ren, the cream was an[r]
+essential part of her life.[pcms]
 
 [ChrSetEx layer=2 chbase="ren_j4"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
@@ -982,8 +1026,8 @@ her life.[pcms]
 [fc]
 [vo_ren s="ren0014"]
 [ns]Ren[nse]
-"I probably left it in my locker. Ah, don't worry. I'll be fine as long as I[r]
-reapply it when I get home."[pcms]
+"I probably left it in my locker. Ah, don't worry. I'll be[r]
+fine as long as I reapply it when I get home."[pcms]
 
 *623|
 [fc]
@@ -1009,8 +1053,8 @@ reapply it when I get home."[pcms]
 [fc]
 [vo_ren s="ren0016"]
 [ns]Ren[nse]
-"Geez, I'm not a child anymore. I'll be fine. You just take your time with Ko-[r]
-chan. See you later."[pcms]
+"Geez, I'm not a child anymore. I'll be fine. You just take[r]
+your time with Ko- chan. See you later."[pcms]
 
 *627|
 [fc]
@@ -1022,42 +1066,49 @@ chan. See you later."[pcms]
 
 *628|
 [fc]
-Despite my worries, Ren waved with a smile and left the music room.[pcms]
+Despite my worries, Ren waved with a smile and left the[r]
+music room.[pcms]
 
 *629|
 [fc]
-Ren's cream is a cosmetic for UV protection that can completely block UV rays.[pcms]
+Ren's cream is a cosmetic for UV protection that can[r]
+completely block UV rays.[pcms]
 
 *630|
 [fc]
-For most women, it's used for sunburn prevention and to protect against spots[r]
-and freckles, but for Ren, it holds a much more significant meaning.[pcms]
+For most women, it's used for sunburn prevention and to[r]
+protect against spots and freckles, but for Ren, it holds a[r]
+much more significant meaning.[pcms]
 
 ;//〆：メモ　アルビノは公表可能か？　ソフ倫対策
 
 *631|
 [fc]
-That's because Ren suffers from a condition known as albinism.[pcms]
+That's because Ren suffers from a condition known as[r]
+albinism.[pcms]
 
 *632|
 [fc]
-Albinism, also called congenital hypopigmentation, is a genetic disorder where[r]
-melanin, which protects the body from ultraviolet rays, is deficient.[pcms]
+Albinism, also called congenital hypopigmentation, is a[r]
+genetic disorder where melanin, which protects the body from[r]
+ultraviolet rays, is deficient.[pcms]
 
 *633|
 [fc]
-As a result, direct sunlight in the summer can easily cause her skin to burn red[r]
-and even lead to fever.[pcms]
+As a result, direct sunlight in the summer can easily cause[r]
+her skin to burn red and even lead to fever.[pcms]
 
 *634|
 [fc]
-The radiant beauty of her pale skin is a unique charm of Ren's body that lacks[r]
-resistance to ultraviolet rays and signifies her vulnerability at the same time.[pcms]
+The radiant beauty of her pale skin is a unique charm of[r]
+Ren's body that lacks resistance to ultraviolet rays and[r]
+signifies her vulnerability at the same time.[pcms]
 
 *635|
 [fc]
-Therefore, she always applies UV-cut cream to her skin before going out and[r]
-wears colored contacts to protect her eyes from UV rays.[pcms]
+Therefore, she always applies UV-cut cream to her skin[r]
+before going out and wears colored contacts to protect her[r]
+eyes from UV rays.[pcms]
 
 ;//コウ位置調整再表示
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
@@ -1074,12 +1125,14 @@ wears colored contacts to protect her eyes from UV rays.[pcms]
 
 *638|
 [fc]
-As I absentmindedly watched Ren's retreating figure, Kousuke spoke to me.[pcms]
+As I absentmindedly watched Ren's retreating figure, Kousuke[r]
+spoke to me.[pcms]
 
 *639|
 [fc]
 [ns]Kousuke[nse]
-"I mean, right? Getting to eat homemade food cooked by such a beautiful sister."[pcms]
+"I mean, right? Getting to eat homemade food cooked by such[r]
+a beautiful sister."[pcms]
 
 *640|
 [fc]
@@ -1103,8 +1156,9 @@ As I absentmindedly watched Ren's retreating figure, Kousuke spoke to me.[pcms]
 *643|
 [fc]
 [ns]Kousuke[nse]
-"No way, it's totally different. The cooking of an unattractive older sister and[r]
-that of a beautiful and cute younger sister are like night and day."[pcms]
+"No way, it's totally different. The cooking of an[r]
+unattractive older sister and that of a beautiful and cute[r]
+younger sister are like night and day."[pcms]
 
 *644|
 [fc]
@@ -1113,8 +1167,8 @@ that of a beautiful and cute younger sister are like night and day."[pcms]
 
 *645|
 [fc]
-Tasty food is tasty no matter who makes it; I've never really thought about it[r]
-that much.[pcms]
+Tasty food is tasty no matter who makes it; I've never[r]
+really thought about it that much.[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -1126,12 +1180,13 @@ that much.[pcms]
 *647|
 [fc]
 [ns]Wataru[nse]
-"That's not true at all. Maybe you just have too many worldly desires."[pcms]
+"That's not true at all. Maybe you just have too many[r]
+worldly desires."[pcms]
 
 *648|
 [fc]
-As we engaged in such trivial banter, the choir members we had been waiting for[r]
-finally arrived.[pcms]
+As we engaged in such trivial banter, the choir members we[r]
+had been waiting for finally arrived.[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -1152,8 +1207,9 @@ finally arrived.[pcms]
 
 *651|
 [fc]
-It seems Kousuke was acquainted with the choir members. As soon as he called out[r]
-to them, a lively conversation blossomed.[pcms]
+It seems Kousuke was acquainted with the choir members. As[r]
+soon as he called out to them, a lively conversation[r]
+blossomed.[pcms]
 
 *652|
 [fc]
@@ -1179,7 +1235,8 @@ to them, a lively conversation blossomed.[pcms]
 [fc]
 [vo_mob s="waka0003"]
 [ns]Waka[nse]
-"Don't say things like that and disrupt our activities again, okay?"[pcms]
+"Don't say things like that and disrupt our activities[r]
+again, okay?"[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
@@ -1198,8 +1255,9 @@ to them, a lively conversation blossomed.[pcms]
 
 *658|
 [fc]
-The choir member made an exasperated face but seemed not entirely opposed as she[r]
-started listening to Kousuke's enthusiastic explanation.[pcms]
+The choir member made an exasperated face but seemed not[r]
+entirely opposed as she started listening to Kousuke's[r]
+enthusiastic explanation.[pcms]
 
 ;//演出暗転、時間経過っぽく
 [sysbt_meswin clear]
@@ -1223,15 +1281,16 @@ started listening to Kousuke's enthusiastic explanation.[pcms]
 [fc]
 [vo_mob s="waka0005"]
 [ns]Waka[nse]
-"If that's the case, we need someone with chorus line experience."[pcms]
+"If that's the case, we need someone with chorus line[r]
+experience."[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
 *661|
 [fc]
 [ns]Kousuke[nse]
-"Yeah, that might be necessary. It'd be problematic if they get carried away by[r]
-the loop's pitch."[pcms]
+"Yeah, that might be necessary. It'd be problematic if they[r]
+get carried away by the loop's pitch."[pcms]
 
 ;//〆：メモ　hip-hopはリフではなくて、ループ？　確認。
 
@@ -1257,8 +1316,8 @@ the loop's pitch."[pcms]
 *665|
 [fc]
 [ns]Kousuke[nse]
-"That's where I'll come in with kindness and sincerity in my request. It'll[r]
-definitely be okay!"[pcms]
+"That's where I'll come in with kindness and sincerity in my[r]
+request. It'll definitely be okay!"[pcms]
 
 [ChrSetEx layer=2 chbase="waka_a"][ChrSetXY layer=2 x=-70 y=0][trans_c cross time=150]
 
@@ -1280,22 +1339,25 @@ definitely be okay!"[pcms]
 [fc]
 [vo_mob s="waka0009"]
 [ns]Waka[nse]
-"Hey, stop with the expressions that could cause weird misunderstandings."[pcms]
+"Hey, stop with the expressions that could cause weird[r]
+misunderstandings."[pcms]
 
 *669|
 [fc]
-I was completely left out of the conversation, just eavesdropping, but it seemed[r]
-like Kousuke's plan was progressing smoothly.[pcms]
+I was completely left out of the conversation, just[r]
+eavesdropping, but it seemed like Kousuke's plan was[r]
+progressing smoothly.[pcms]
 
 *670|
 [fc]
-Kousuke has always been good at sweet-talking or rather, persuading people. He's[r]
-also well-regarded by the girls at school.[pcms]
+Kousuke has always been good at sweet-talking or rather,[r]
+persuading people. He's also well-regarded by the girls at[r]
+school.[pcms]
 
 *671|
 [fc]
-At this rate, it's only a matter of time before Kousuke finds a girl who can[r]
-handle the vocal line he needs.[pcms]
+At this rate, it's only a matter of time before Kousuke[r]
+finds a girl who can handle the vocal line he needs.[pcms]
 
 [ChrSetEx layer=2 chbase="waka_a"][ChrSetXY layer=2 x=-70 y=0][trans_c cross time=150]
 
@@ -1303,8 +1365,8 @@ handle the vocal line he needs.[pcms]
 [fc]
 [vo_mob s="waka0010"]
 [ns]Waka[nse]
-"Oh, that reminds me. Kousuke-kun, have you been in touch with that Mizuki girl[r]
-recently?"[pcms]
+"Oh, that reminds me. Kousuke-kun, have you been in touch[r]
+with that Mizuki girl recently?"[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e2"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
@@ -1349,14 +1411,16 @@ recently?"[pcms]
 
 *679|
 [fc]
-As Kousuke's expression began to cloud over with his question, Waka's eyes[r]
-widened in realization, and her voice dropped.[pcms]
+As Kousuke's expression began to cloud over with his[r]
+question, Waka's eyes widened in realization, and her voice[r]
+dropped.[pcms]
 
 *680|
 [fc]
 [vo_mob s="waka0014"]
 [ns]Waka[nse]
-"She seemed completely different. I didn't even recognize her at first."[pcms]
+"She seemed completely different. I didn't even recognize[r]
+her at first."[pcms]
 
 *681|
 [fc]
@@ -1367,7 +1431,8 @@ widened in realization, and her voice dropped.[pcms]
 [fc]
 [vo_mob s="waka0015"]
 [ns]Waka[nse]
-"She was dressed really flashy and walking with some shady-looking people."[pcms]
+"She was dressed really flashy and walking with some shady-[r]
+looking people."[pcms]
 
 *683|
 [fc]
@@ -1381,7 +1446,8 @@ widened in realization, and her voice dropped.[pcms]
 
 *685|
 [fc]
-That's when I decided to join the conversation instead of just listening.[pcms]
+That's when I decided to join the conversation instead of[r]
+just listening.[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e5"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
@@ -1392,20 +1458,23 @@ That's when I decided to join the conversation instead of just listening.[pcms]
 
 *687|
 [fc]
-Mizuki was a childhood friend of both Kousuke and me. We used to play together[r]
-often when we were kids, and even after entering school, we spent a lot of time[r]
-together at first.[pcms]
+Mizuki was a childhood friend of both Kousuke and me. We[r]
+used to play together often when we were kids, and even[r]
+after entering school, we spent a lot of time together at[r]
+first.[pcms]
 
 *688|
 [fc]
-She sang some of Kousuke's songs... But for the past few years, we've completely[r]
-lost touch, and I've been somewhat concerned about it.[pcms]
+She sang some of Kousuke's songs... But for the past few[r]
+years, we've completely lost touch, and I've been somewhat[r]
+concerned about it.[pcms]
 
 *689|
 [fc]
 [vo_mob s="waka0016"]
 [ns]Waka[nse]
-"She had an air about her like she belonged to a different world."[pcms]
+"She had an air about her like she belonged to a different[r]
+world."[pcms]
 
 *690|
 [fc]
@@ -1417,7 +1486,8 @@ lost touch, and I've been somewhat concerned about it.[pcms]
 *691|
 [fc]
 [ns]Kousuke[nse]
-"Anyway, I want to record vocals next week. So I'm counting on you, okay?"[pcms]
+"Anyway, I want to record vocals next week. So I'm counting[r]
+on you, okay?"[pcms]
 
 *692|
 [fc]
@@ -1429,8 +1499,8 @@ lost touch, and I've been somewhat concerned about it.[pcms]
 
 *693|
 [fc]
-Then Kousuke abruptly ended the light-hearted conversation and quickly left the[r]
-classroom.[pcms]
+Then Kousuke abruptly ended the light-hearted conversation[r]
+and quickly left the classroom.[pcms]
 
 *694|
 [fc]
@@ -1439,7 +1509,8 @@ classroom.[pcms]
 
 *695|
 [fc]
-Taken aback by the sudden turn of events, I reluctantly decided to follow him.[pcms]
+Taken aback by the sudden turn of events, I reluctantly[r]
+decided to follow him.[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1448,23 +1519,25 @@ Taken aback by the sudden turn of events, I reluctantly decided to follow him.[p
 
 *696|
 [fc]
-Mizuki... A common childhood friend between Kousuke and me. We used to play[r]
-together a lot as kids.[pcms]
+Mizuki... A common childhood friend between Kousuke and me.[r]
+We used to play together a lot as kids.[pcms]
 
 *697|
 [fc]
-We went to the same school and played in the same park, sharing those common[r]
-memories that everyone experiences during childhood.[pcms]
+We went to the same school and played in the same park,[r]
+sharing those common memories that everyone experiences[r]
+during childhood.[pcms]
 
 *698|
 [fc]
-As we grew up normally and became adultsnot quite adults but at an age where we[r]
-became conscious of being male or femalewe still got along well.[pcms]
+As we grew up normally and became adultsnot quite adults but[r]
+at an age where we became conscious of being male or[r]
+femalewe still got along well.[pcms]
 
 *699|
 [fc]
-Eventually, Mizuki started singing Kousuke's songs, and the two of them began[r]
-working together.[pcms]
+Eventually, Mizuki started singing Kousuke's songs, and the[r]
+two of them began working together.[pcms]
 
 *700|
 [fc]
@@ -1472,33 +1545,35 @@ Then I was told that Kousuke and Mizuki were dating.[pcms]
 
 *701|
 [fc]
-In dramas or manga, this is where I would feel left behind, but I didn't have[r]
-any particular feelings about it.[pcms]
+In dramas or manga, this is where I would feel left behind,[r]
+but I didn't have any particular feelings about it.[pcms]
 
 *702|
 [fc]
-I interacted with them both without any problems, without any hidden feelings or[r]
-discomfort.[pcms]
+I interacted with them both without any problems, without[r]
+any hidden feelings or discomfort.[pcms]
 
 *703|
 [fc]
-But ironically, it wasn't me who was engulfed by the stormy seas but Kousuke and[r]
-Mizuki who were dating.[pcms]
+But ironically, it wasn't me who was engulfed by the stormy[r]
+seas but Kousuke and Mizuki who were dating.[pcms]
 
 *704|
 [fc]
-At some point, talk of Mizuki performing at live houses started, and that became[r]
-the catalyst for their constant arguments.[pcms]
+At some point, talk of Mizuki performing at live houses[r]
+started, and that became the catalyst for their constant[r]
+arguments.[pcms]
 
 *705|
 [fc]
-I don't know the exact reasons, but their relationship deteriorated steadily,[r]
-becoming so serious that I couldn't even mediate between them.[pcms]
+I don't know the exact reasons, but their relationship[r]
+deteriorated steadily, becoming so serious that I couldn't[r]
+even mediate between them.[pcms]
 
 *706|
 [fc]
-And then Mizuki suddenly disappeared. She left school and all contact with me,[r]
-Kousuke, and other friends ceased.[pcms]
+And then Mizuki suddenly disappeared. She left school and[r]
+all contact with me, Kousuke, and other friends ceased.[pcms]
 
 *707|
 [fc]
@@ -1506,16 +1581,18 @@ What caused their discord?[pcms]
 
 *708|
 [fc]
-The reason for losing contact started with her falling out with Kousuke or[r]
-perhaps--[pcms]
+The reason for losing contact started with her falling out[r]
+with Kousuke or perhaps--[pcms]
 
 *709|
 [fc]
-Kousuke never talked about it, and I didn't feel like asking for details.[pcms]
+Kousuke never talked about it, and I didn't feel like asking[r]
+for details.[pcms]
 
 *710|
 [fc]
-All I remember is comforting a disheartened Kousuke after Mizuki vanished.[pcms]
+All I remember is comforting a disheartened Kousuke after[r]
+Mizuki vanished.[pcms]
 
 ;//BG:学校全景
 [bg storage="bg015"][trans_c cross time=500]
@@ -1530,11 +1607,13 @@ All I remember is comforting a disheartened Kousuke after Mizuki vanished.[pcms]
 
 *712|
 [fc]
-Catching up at last, I walked alongside Kousuke, who had his shoulders slumped.[pcms]
+Catching up at last, I walked alongside Kousuke, who had his[r]
+shoulders slumped.[pcms]
 
 *713|
 [fc]
-It seems that the wound from that day is still throbbing in Kousuke's heart.[pcms]
+It seems that the wound from that day is still throbbing in[r]
+Kousuke's heart.[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -1551,8 +1630,8 @@ It seems that the wound from that day is still throbbing in Kousuke's heart.[pcm
 *716|
 [fc]
 [ns]Kousuke[nse]
-"Yeah, I'll start over with that. But more importantly, let's go see 'that' to[r]
-cheer up, huh?"[pcms]
+"Yeah, I'll start over with that. But more importantly,[r]
+let's go see 'that' to cheer up, huh?"[pcms]
 
 *717|
 [fc]
@@ -1686,8 +1765,8 @@ And there was...[pcms]
 *721|
 [fc]
 [ns]Kousuke[nse]
-"Wow, look at those breasts!! I can tell, she's the type that looks slim when[r]
-dressed."[pcms]
+"Wow, look at those breasts!! I can tell, she's the type[r]
+that looks slim when dressed."[pcms]
 
 *722|
 [fc]
@@ -1696,8 +1775,9 @@ dressed."[pcms]
 
 *723|
 [fc]
-She was a half-Japanese female student who transferred from South America during[r]
-the strange period at the end of the first semester.[pcms]
+She was a half-Japanese female student who transferred from[r]
+South America during the strange period at the end of the[r]
+first semester.[pcms]
 
 [chara_int_ layer=1][chara_int_ layer=2][trans_c cross time=150]
 
@@ -1714,8 +1794,8 @@ the strange period at the end of the first semester.[pcms]
 *726|
 [fc]
 [ns]Kousuke[nse]
-"Oops, got distracted by international affairs. Now, let's go to our main[r]
-event."[pcms]
+"Oops, got distracted by international affairs. Now, let's[r]
+go to our main event."[pcms]
 
 *727|
 [fc]
@@ -1731,8 +1811,9 @@ And then we moved to the gymnasium.[pcms]
 
 *729|
 [fc]
-Following Kousuke's beckoning, we peeked through the door next to the gymnasium,[r]
-and there was the swimming club's practice scene.[pcms]
+Following Kousuke's beckoning, we peeked through the door[r]
+next to the gymnasium, and there was the swimming club's[r]
+practice scene.[pcms]
 
 ;//〆：HEV003：水泳部のエース
 [evcg storage="EV003a"][trans_c cross time=300]
@@ -1749,8 +1830,9 @@ and there was the swimming club's practice scene.[pcms]
 
 *732|
 [fc]
-Despite thinking it was inappropriate, I'm also a healthy male. Naturally, I'm[r]
-curious, or rather, my eyes are drawn to it.[pcms]
+Despite thinking it was inappropriate, I'm also a healthy[r]
+male. Naturally, I'm curious, or rather, my eyes are drawn[r]
+to it.[pcms]
 
 *733|
 [fc]
@@ -1764,8 +1846,9 @@ curious, or rather, my eyes are drawn to it.[pcms]
 
 *735|
 [fc]
-What they're doing is serious club activity and sports, but for us, their[r]
-appearance inevitably carries a different meaning.[pcms]
+What they're doing is serious club activity and sports, but[r]
+for us, their appearance inevitably carries a different[r]
+meaning.[pcms]
 
 *736|
 [fc]
@@ -1790,17 +1873,20 @@ appearance inevitably carries a different meaning.[pcms]
 *740|
 [fc]
 [ns]Kousuke[nse]
-"Idiot, we're not peeping into the changing room. It's just sports viewing."[pcms]
+"Idiot, we're not peeping into the changing room. It's just[r]
+sports viewing."[pcms]
 
 *741|
 [fc]
-If it were images from the Olympics on TV, that would certainly be the case, but[r]
-seeing competitive swimsuits live has a very strong sexual appeal.[pcms]
+If it were images from the Olympics on TV, that would[r]
+certainly be the case, but seeing competitive swimsuits live[r]
+has a very strong sexual appeal.[pcms]
 
 *742|
 [fc]
-The thin fabric below encases a naked body... My gaze was fixed on the raised[r]
-lines of their bodies and how the fabric dug in.[pcms]
+The thin fabric below encases a naked body... My gaze was[r]
+fixed on the raised lines of their bodies and how the fabric[r]
+dug in.[pcms]
 
 ;//〆HEV003：水泳部のエース　主人公達に気が付く
 [evcg storage="EV003b"][trans_c cross time=300]
@@ -1813,8 +1899,8 @@ lines of their bodies and how the fabric dug in.[pcms]
 
 *744|
 [fc]
-To our surprise, her gaze sharply turned towards Kousuke and me who were[r]
-captivated.[pcms]
+To our surprise, her gaze sharply turned towards Kousuke and[r]
+me who were captivated.[pcms]
 
 *745|
 [fc]
@@ -1825,7 +1911,8 @@ captivated.[pcms]
 
 *746|
 [fc]
-The moment our eyes met, Kousuke quickly flipped around and started running.[pcms]
+The moment our eyes met, Kousuke quickly flipped around and[r]
+started running.[pcms]
 
 *747|
 [fc]
@@ -1836,8 +1923,9 @@ The moment our eyes met, Kousuke quickly flipped around and started running.[pcm
 
 *748|
 [fc]
-In a panic, I turned around only to find he was no longer there. I realized too[r]
-late that I had missed my chance to escape.[pcms]
+In a panic, I turned around only to find he was no longer[r]
+there. I realized too late that I had missed my chance to[r]
+escape.[pcms]
 
 *749|
 [fc]
@@ -1853,8 +1941,8 @@ late that I had missed my chance to escape.[pcms]
 
 *751|
 [fc]
-I tried to follow Kousuke and escape but was caught by the collar by the[r]
-advisory teacher who rushed over.[pcms]
+I tried to follow Kousuke and escape but was caught by the[r]
+collar by the advisory teacher who rushed over.[pcms]
 
 *752|
 [fc]
@@ -1872,9 +1960,10 @@ advisory teacher who rushed over.[pcms]
 
 *754|
 [fc]
-Once it had come to this, there was nothing to do but apologize profusely.[r]
-Having been caught after Kousuke escaped, I was thoroughly squeezed for[r]
-information and even received a physical reprimand.[pcms]
+Once it had come to this, there was nothing to do but[r]
+apologize profusely. Having been caught after Kousuke[r]
+escaped, I was thoroughly squeezed for information and even[r]
+received a physical reprimand.[pcms]
 
 [se buf=0 storage="se012"]
 

@@ -22,8 +22,8 @@
 
 *3522|
 [fc]
-"At least until the day before yesterday, Yoshino-san was sane. So why? Why did[r]
-things suddenly come to this?"[pcms]
+"At least until the day before yesterday, Yoshino-san was[r]
+sane. So why? Why did things suddenly come to this?"[pcms]
 
 [se buf=0 storage="se018"]
 
@@ -33,7 +33,8 @@ things suddenly come to this?"[pcms]
 
 *3524|
 [fc]
-"But faced with a situation I can't deny, even my body can't keep up."[pcms]
+"But faced with a situation I can't deny, even my body can't[r]
+keep up."[pcms]
 
 ;//SE・エンジン音
 
@@ -54,23 +55,27 @@ things suddenly come to this?"[pcms]
 
 *3528|
 [fc]
-"I realized it was a car that had plowed into us when I saw Yoshino-san,[r]
-contorted like a doll, twisting strangely in the air."[pcms]
+"I realized it was a car that had plowed into us when I saw[r]
+Yoshino-san, contorted like a doll, twisting strangely in[r]
+the air."[pcms]
 
 *3529|
 [fc]
-"Probably, from Yoshino-san's perspective, I must be flying in a similar way."[pcms]
+"Probably, from Yoshino-san's perspective, I must be flying[r]
+in a similar way."[pcms]
 
 ;//SE・地面に叩きつけられる音
 [se buf=0 storage="se036"]
 
 *3530|
 [fc]
-"I heard a crushing sound, as if something was being smashed."[pcms]
+"I heard a crushing sound, as if something was being[r]
+smashed."[pcms]
 
 *3531|
 [fc]
-"It seems like part of me was slammed and crushed against the ground."[pcms]
+"It seems like part of me was slammed and crushed against[r]
+the ground."[pcms]
 
 *3532|
 [fc]
@@ -86,8 +91,9 @@ contorted like a doll, twisting strangely in the air."[pcms]
 
 *3535|
 [fc]
-"I couldn't feel pain or anything, but I could see the black asphalt at the edge[r]
-of my vision gradually staining a dark red."[pcms]
+"I couldn't feel pain or anything, but I could see the black[r]
+asphalt at the edge of my vision gradually staining a dark[r]
+red."[pcms]
 
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
 
@@ -97,7 +103,8 @@ of my vision gradually staining a dark red."[pcms]
 
 *3537|
 [fc]
-"If I'm losing this much blood, probably, I'm going to die like this."[pcms]
+"If I'm losing this much blood, probably, I'm going to die[r]
+like this."[pcms]
 
 *3538|
 [fc]
@@ -105,14 +112,14 @@ of my vision gradually staining a dark red."[pcms]
 
 *3539|
 [fc]
-"Without worrying about whether we were a good match or not, I should have just[r]
-confessed."[pcms]
+"Without worrying about whether we were a good match or not,[r]
+I should have just confessed."[pcms]
 
 *3540|
 [fc]
-"No, if by some chance she had said 'OK', maybe I would have been satisfied, but[r]
-then again, Yuuho might have been even sadder, so maybe it's better that I[r]
-didn't confess?"[pcms]
+"No, if by some chance she had said 'OK', maybe I would have[r]
+been satisfied, but then again, Yuuho might have been even[r]
+sadder, so maybe it's better that I didn't confess?"[pcms]
 
 *3541|
 [fc]
@@ -120,13 +127,14 @@ didn't confess?"[pcms]
 
 *3542|
 [fc]
-"After mom passed away, if I'm gone too, she'll definitely cry."[pcms]
+"After mom passed away, if I'm gone too, she'll definitely[r]
+cry."[pcms]
 
 *3543|
 [fc]
-"When dad and they got married and our family grew, she was so happy. But now[r]
-it'll be just dad and her alone again... I thought I'd protect her, but now I[r]
-can't anymore."[pcms]
+"When dad and they got married and our family grew, she was[r]
+so happy. But now it'll be just dad and her alone again... I[r]
+thought I'd protect her, but now I can't anymore."[pcms]
 
 *3544|
 [fc]
@@ -135,8 +143,8 @@ can't anymore."[pcms]
 
 *3545|
 [fc]
-"With each word, there's a sound of air leaking out. I can only exhale, unable[r]
-to inhale."[pcms]
+"With each word, there's a sound of air leaking out. I can[r]
+only exhale, unable to inhale."[pcms]
 
 *3546|
 [fc]
@@ -148,8 +156,9 @@ to inhale."[pcms]
 
 *3548|
 [fc]
-"All that comes to mind is Yuuho and Ren and Kousuke and Mizuki, and the times[r]
-we laughed and did silly things together--"[pcms]
+"All that comes to mind is Yuuho and Ren and Kousuke and[r]
+Mizuki, and the times we laughed and did silly things[r]
+together--"[pcms]
 
 ;//♯_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

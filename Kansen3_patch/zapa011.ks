@@ -17,8 +17,8 @@
 
 *2035|
 [fc]
-Peering inside through the skylight, I was met with a bizarre scene that made me[r]
-doubt my eyes.[pcms]
+Peering inside through the skylight, I was met with a[r]
+bizarre scene that made me doubt my eyes.[pcms]
 
 *2036|
 [fc]
@@ -28,79 +28,87 @@ doubt my eyes.[pcms]
 
 *2037|
 [fc]
-I tried desperately to suppress my voice, but I couldn't help muttering.[pcms]
+I tried desperately to suppress my voice, but I couldn't[r]
+help muttering.[pcms]
 
 ;//ÅYHEV35
 
 *2038|
 [fc]
-How did those strange people get in here? Outsiders weren't supposed to be able[r]
-to enter this place.[pcms]
+How did those strange people get in here? Outsiders weren't[r]
+supposed to be able to enter this place.[pcms]
 
 *2039|
 [fc]
-And that abnormal, uniform movement... It was like a scene out of a horror[r]
-movie.[pcms]
+And that abnormal, uniform movement... It was like a scene[r]
+out of a horror movie.[pcms]
 
 *2040|
 [fc]
 [vo_yuh s="yuho0483"]
 [ns]Yuuho[nse]
-"Could it be that if they touch us, we'll end up the same way?"[pcms]
+"Could it be that if they touch us, we'll end up the same[r]
+way?"[pcms]
 
 *2041|
 [fc]
-But why... why is this happening? I frantically looked around.[pcms]
+But why... why is this happening? I frantically looked[r]
+around.[pcms]
 
 ;//ÅYHEV36
 
 *2042|
 [fc]
-A teacher being violated by boys, a senior being held by her lower half and[r]
-assaulted.[pcms]
+A teacher being violated by boys, a senior being held by her[r]
+lower half and assaulted.[pcms]
 
 *2043|
 [fc]
-A junior clinging to the poolside was being swarmed and violated by the people[r]
-in the pool.[pcms]
+A junior clinging to the poolside was being swarmed and[r]
+violated by the people in the pool.[pcms]
 
 *2044|
 [fc]
-I couldn't bear to look directly at it and turned my eyes away. They're all mad,[r]
-everyone's gone mad...[pcms]
+I couldn't bear to look directly at it and turned my eyes[r]
+away. They're all mad, everyone's gone mad...[pcms]
 
 *2045|
 [fc]
-When I turned my gaze towards the corridor, I noticed a fallen male student near[r]
-the entrance.[pcms]
+When I turned my gaze towards the corridor, I noticed a[r]
+fallen male student near the entrance.[pcms]
 
 *2046|
 [fc]
-He lay in a sea of blood, with a gruesome bite mark visible on his neck.[pcms]
+He lay in a sea of blood, with a gruesome bite mark visible[r]
+on his neck.[pcms]
 
 *2047|
 [fc]
-The clothes and faces of the approaching male students were splattered with[r]
-blood, and they had bite marks on their hands. It was the same with the girls.[pcms]
+The clothes and faces of the approaching male students were[r]
+splattered with blood, and they had bite marks on their[r]
+hands. It was the same with the girls.[pcms]
 
 ;//ÅYHEV036
 
 *2048|
 [fc]
-A familiar swim team member was still being gang-raped, covered in semen.[pcms]
+A familiar swim team member was still being gang-raped,[r]
+covered in semen.[pcms]
 
 *2049|
 [fc]
-All of them had unnaturally red eyes and seemed to willingly accept men, taking[r]
-pleasure in receiving semen inside them.[pcms]
+All of them had unnaturally red eyes and seemed to willingly[r]
+accept men, taking pleasure in receiving semen inside them.[pcms]
 
 *2050|
 [fc]
-The senior was begging fervently for more, exclaiming how good it felt.[pcms]
+The senior was begging fervently for more, exclaiming how[r]
+good it felt.[pcms]
 
 *2051|
 [fc]
-Trembling with fear, I ran away from the scene I had witnessed.[pcms]
+Trembling with fear, I ran away from the scene I had[r]
+witnessed.[pcms]
 
 ;//ÅYÇaÇfÅFâÆì‡ÉvÅ[Éã
 [bg storage="BG300"][trans_c cross time=500]
@@ -108,8 +116,9 @@ Trembling with fear, I ran away from the scene I had witnessed.[pcms]
 
 *2052|
 [fc]
-In my shuddering mind, the image of the red-eyed girl I saw the day before[r]
-yesterday and the infectious disaster flashed back.[pcms]
+In my shuddering mind, the image of the red-eyed girl I saw[r]
+the day before yesterday and the infectious disaster flashed[r]
+back.[pcms]
 
 *2053|
 [fc]
@@ -117,14 +126,14 @@ Come to think of it, I feel like I've seen it before too.[pcms]
 
 *2054|
 [fc]
-The incident where Wataru's mother and relatives died. The virus that turns[r]
-people violent and kills them.[pcms]
+The incident where Wataru's mother and relatives died. The[r]
+virus that turns people violent and kills them.[pcms]
 
 *2055|
 [fc]
-But... I looked down at my own arm. We were supposed to have been vaccinated[r]
-against that virus. Without exception, everyone in the school had been[r]
-vaccinated.[pcms]
+But... I looked down at my own arm. We were supposed to have[r]
+been vaccinated against that virus. Without exception,[r]
+everyone in the school had been vaccinated.[pcms]
 
 *2056|
 [fc]
@@ -139,12 +148,13 @@ vaccinated.[pcms]
 
 *2058|
 [fc]
-At that moment, I heard a creepy growl from behind me and the sound of something[r]
-falling.[pcms]
+At that moment, I heard a creepy growl from behind me and[r]
+the sound of something falling.[pcms]
 
 *2059|
 [fc]
-Before I knew it, countless infected had gathered below, all staring at me.[pcms]
+Before I knew it, countless infected had gathered below, all[r]
+staring at me.[pcms]
 
 *2060|
 [fc]
@@ -154,13 +164,13 @@ Before I knew it, countless infected had gathered below, all staring at me.[pcms
 
 *2061|
 [fc]
-The thought of being seen as prey was terrifying, and I felt like I was going[r]
-mad.[pcms]
+The thought of being seen as prey was terrifying, and I felt[r]
+like I was going mad.[pcms]
 
 *2062|
 [fc]
-The infected who climbed from the catwalk to the roof were falling down one[r]
-after another.[pcms]
+The infected who climbed from the catwalk to the roof were[r]
+falling down one after another.[pcms]
 
 *2063|
 [fc]
@@ -168,8 +178,8 @@ But perhaps they couldn't give up on me?[pcms]
 
 *2064|
 [fc]
-With a creepy smile on their face, they tried to climb back up to the catwalk[r]
-where they originally were.[pcms]
+With a creepy smile on their face, they tried to climb back[r]
+up to the catwalk where they originally were.[pcms]
 
 *2065|
 [fc]
@@ -179,7 +189,8 @@ where they originally were.[pcms]
 
 *2066|
 [fc]
-Trembling with fear, my last pillar of support was only Wataru.[pcms]
+Trembling with fear, my last pillar of support was only[r]
+Wataru.[pcms]
 
 ;[zapend_random]
 [zapfade]

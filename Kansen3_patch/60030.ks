@@ -39,22 +39,23 @@ I pushed Yuuho's body away with all my might.[pcms]
 
 *204|
 [fc]
-Although I wanted to help her, I didn't know how long Yuuho's current state[r]
-would last.[pcms]
+Although I wanted to help her, I didn't know how long[r]
+Yuuho's current state would last.[pcms]
 
 *205|
 [fc]
-If that's the case, as Yuuho said, I should escape once and regroup, or consult[r]
-with everyone else.[pcms]
+If that's the case, as Yuuho said, I should escape once and[r]
+regroup, or consult with everyone else.[pcms]
 
 *206|
 [fc]
-After sprinting a few steps, I turned around near the counter.[pcms]
+After sprinting a few steps, I turned around near the[r]
+counter.[pcms]
 
 *207|
 [fc]
-Yuuho was groaning on the floor, still in the position she fell from on top of[r]
-me.[pcms]
+Yuuho was groaning on the floor, still in the position she[r]
+fell from on top of me.[pcms]
 
 *208|
 [fc]
@@ -64,8 +65,8 @@ me.[pcms]
 
 *209|
 [fc]
-Yuuho was clawing at her head and writhing in agony. It seems her moment of[r]
-sanity didn't last long after all...[pcms]
+Yuuho was clawing at her head and writhing in agony. It[r]
+seems her moment of sanity didn't last long after all...[pcms]
 
 *210|
 [fc]
@@ -74,16 +75,19 @@ sanity didn't last long after all...[pcms]
 
 *211|
 [fc]
-It's painful to watch her suffer. I want to go and help her up.[pcms]
+It's painful to watch her suffer. I want to go and help her[r]
+up.[pcms]
 
 *212|
 [fc]
-But Yuuho managed to let me escape... Even though she was in so much pain, she[r]
-tried to save me... Considering her feelings, I can't go back...[pcms]
+But Yuuho managed to let me escape... Even though she was in[r]
+so much pain, she tried to save me... Considering her[r]
+feelings, I can't go back...[pcms]
 
 *213|
 [fc]
-As I backed away, my hips hit the counter, making a loud thud.[pcms]
+As I backed away, my hips hit the counter, making a loud[r]
+thud.[pcms]
 
 *214|
 [fc]
@@ -92,12 +96,13 @@ As I backed away, my hips hit the counter, making a loud thud.[pcms]
 
 *215|
 [fc]
-The source of the solid sound was Tadahiko's gun hanging at my waist.[pcms]
+The source of the solid sound was Tadahiko's gun hanging at[r]
+my waist.[pcms]
 
 *216|
 [fc]
-I had forgotten I was carrying it until now, but as soon as I remembered,[r]
-conflict arose within me.[pcms]
+I had forgotten I was carrying it until now, but as soon as[r]
+I remembered, conflict arose within me.[pcms]
 
 *217|
 [fc]
@@ -106,7 +111,8 @@ conflict arose within me.[pcms]
 
 *218|
 [fc]
-Can I save Yuuho...? But that action would mean Yuuho's... death...!![pcms]
+Can I save Yuuho...? But that action would mean Yuuho's...[r]
+death...!![pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e31"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -118,8 +124,8 @@ Can I save Yuuho...? But that action would mean Yuuho's... death...!![pcms]
 
 *220|
 [fc]
-From beneath her labored breaths, Yuuho calls out to me. The light of sanity is[r]
-fading from her eyes.[pcms]
+From beneath her labored breaths, Yuuho calls out to me. The[r]
+light of sanity is fading from her eyes.[pcms]
 
 *221|
 [fc]
@@ -132,8 +138,8 @@ What should I do... What can I do!?[pcms]
 
 
 ;	[link storage="60040.ks" target=*60040_TOP]ボクが撃つしかない……！！[endlink]
-; (link storage="60050.ks" target=*60050_TOP)...I can't do it, I can't[r]
-shoot(endlink)[pcms]
+; (link storage="60050.ks" target=*60050_TOP)...I can't do[r]
+it, I can't shoot(endlink)[pcms]
 
 *SEL51|ボクが撃つしかない……！！／……だめだ撃てそうにない
 [fc]

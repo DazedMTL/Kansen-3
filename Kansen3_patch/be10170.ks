@@ -43,8 +43,8 @@ Yuuho's body was lying on the mattress.[pcms]
 
 *1472|
 [fc]
-Her eyes were vacantly wide open, reflecting nothing. She used to be so[r]
-expressive...[pcms]
+Her eyes were vacantly wide open, reflecting nothing. She[r]
+used to be so expressive...[pcms]
 
 *1473|
 [fc]
@@ -52,7 +52,8 @@ What on earth happened to her...[pcms]
 
 *1474|
 [fc]
-Sadness and anger coursed through my body, almost driving me insane.[pcms]
+Sadness and anger coursed through my body, almost driving me[r]
+insane.[pcms]
 
 *1475|
 [fc]
@@ -67,11 +68,13 @@ How cruel... why...[pcms]
 
 *1477|
 [fc]
-Next to her, Ren too... lay dead, bearing the remnants of violation.[pcms]
+Next to her, Ren too... lay dead, bearing the remnants of[r]
+violation.[pcms]
 
 *1478|
 [fc]
-Her expression was as if she was sleeping... but what had she been subjected to?[pcms]
+Her expression was as if she was sleeping... but what had[r]
+she been subjected to?[pcms]
 
 *1479|
 [fc]
@@ -90,12 +93,13 @@ Maybe...[pcms]
 
 *1482|
 [fc]
-I thought they might have been raped by the men, but I never imagined they would[r]
-be killed...[pcms]
+I thought they might have been raped by the men, but I never[r]
+imagined they would be killed...[pcms]
 
 *1483|
 [fc]
-A little away from the mattress, Jin-san's body was lying there.[pcms]
+A little away from the mattress, Jin-san's body was lying[r]
+there.[pcms]
 
 *1484|
 [fc]
@@ -103,11 +107,13 @@ Could it have been infighting?[pcms]
 
 *1485|
 [fc]
-If Jin-san had been the boss, maybe this wouldn't have happened...[pcms]
+If Jin-san had been the boss, maybe this wouldn't have[r]
+happened...[pcms]
 
 *1486|
 [fc]
-I don't know the circumstances, but maybe he was protecting everyone.[pcms]
+I don't know the circumstances, but maybe he was protecting[r]
+everyone.[pcms]
 
 *1487|
 [fc]
@@ -145,18 +151,20 @@ A little further away, Marie had collapsed.[pcms]
 
 *1493|
 [fc]
-Kousuke and Mizuki, whom we had just said goodbye to, appeared from the spiral[r]
-staircase.[pcms]
+Kousuke and Mizuki, whom we had just said goodbye to,[r]
+appeared from the spiral staircase.[pcms]
 
 *1494|
 [fc]
-Just like me, they were speechless at the sight of this tragedy.[pcms]
+Just like me, they were speechless at the sight of this[r]
+tragedy.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1495|
 [fc]
-I don't know why they are here, but that's not what matters right now.[pcms]
+I don't know why they are here, but that's not what matters[r]
+right now.[pcms]
 
 [evcg storage="DEV008b"][trans_c cross time=300]
 
@@ -180,13 +188,14 @@ I don't know why they are here, but that's not what matters right now.[pcms]
 
 *1499|
 [fc]
-I couldn't look away from Marie's tragic state, overwhelmed by what had[r]
-happened.[pcms]
+I couldn't look away from Marie's tragic state, overwhelmed[r]
+by what had happened.[pcms]
 
 *1500|
 [fc]
-Her whole body was defiled with semen from who knows who, and her knees were[r]
-swollen. She might even have broken bones...[pcms]
+Her whole body was defiled with semen from who knows who,[r]
+and her knees were swollen. She might even have broken[r]
+bones...[pcms]
 
 *1501|
 [fc]
@@ -197,8 +206,8 @@ swollen. She might even have broken bones...[pcms]
 
 *1502|
 [fc]
-Trying to pull her away from the remnants of unspeakable torment, I gently tried[r]
-to lift Marie's body.[pcms]
+Trying to pull her away from the remnants of unspeakable[r]
+torment, I gently tried to lift Marie's body.[pcms]
 
 *1503|
 [fc]
@@ -213,8 +222,9 @@ to lift Marie's body.[pcms]
 
 *1505|
 [fc]
-Not only her legs, but her hips and... even her hip joints seemed to be injured,[r]
-as she gasped in pain with just a bend of her body.[pcms]
+Not only her legs, but her hips and... even her hip joints[r]
+seemed to be injured, as she gasped in pain with just a bend[r]
+of her body.[pcms]
 
 [evcg storage="DEV008e"][trans_c cross time=300]
 
@@ -222,7 +232,8 @@ as she gasped in pain with just a bend of her body.[pcms]
 [fc]
 [vo_mar s="maru_BE0017"]
 [ns]Margarita[nse]
-"I'm... probably beyond saving... Wataru, you should escape alone..."[pcms]
+"I'm... probably beyond saving... Wataru, you should escape[r]
+alone..."[pcms]
 
 *1507|
 [fc]
@@ -231,7 +242,8 @@ as she gasped in pain with just a bend of her body.[pcms]
 
 *1508|
 [fc]
-I couldn't hold back my tears and, with a crumpled face, I stroked Marie's hair.[pcms]
+I couldn't hold back my tears and, with a crumpled face, I[r]
+stroked Marie's hair.[pcms]
 
 *1509|
 [fc]
@@ -242,8 +254,8 @@ I couldn't hold back my tears and, with a crumpled face, I stroked Marie's hair.
 *1510|
 [fc]
 [ns]Wataru[nse]
-"If we're going to escape, we'll do it together. If Marie doesn't escape,[r]
-neither will I"[pcms]
+"If we're going to escape, we'll do it together. If Marie[r]
+doesn't escape, neither will I"[pcms]
 
 *1511|
 [fc]
@@ -258,8 +270,8 @@ neither will I"[pcms]
 
 *1513|
 [fc]
-Marie tried to hold back her tears and nodded while making a face as if she was[r]
-about to cry.[pcms]
+Marie tried to hold back her tears and nodded while making a[r]
+face as if she was about to cry.[pcms]
 
 *1514|
 [fc]
@@ -278,8 +290,8 @@ about to cry.[pcms]
 
 *1516|
 [fc]
-I carried Marie on my back and slowly stood up so as not to put any strain on[r]
-her.[pcms]
+I carried Marie on my back and slowly stood up so as not to[r]
+put any strain on her.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -301,7 +313,8 @@ her.[pcms]
 [fc]
 [vo_miz s="mizuki_BE0106"]
 [ns]Mizuki[nse]
-"No, I don't want to be separated anymore... besides... I'm probably..."[pcms]
+"No, I don't want to be separated anymore... besides... I'm[r]
+probably..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -332,8 +345,8 @@ Kousuke and Mizuki...[pcms]
 *1525|
 [fc]
 [ns]Kousuke[nse]
-"This is really goodbye. Don't worry about us and make sure to protect Maruko-[r]
-senpai."[pcms]
+"This is really goodbye. Don't worry about us and make sure[r]
+to protect Maruko- senpai."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -443,7 +456,8 @@ Looking down at the ground from the 7th floor of LASER.[pcms]
 ;
 ;	*1535|
 ;	[fc]
-Mizuki says she's scared, but strangely, I didn't feel any fear.[pcms]
+Mizuki says she's scared, but strangely, I didn't feel any[r]
+fear.[pcms]
 ;
 ;	*1536|
 ;	[fc]
@@ -451,11 +465,13 @@ Instead, I was captivated by the beauty of the dawn.[pcms]
 ;
 ;	*1537|
 ;	[fc]
-The quiet town, beyond the tombstone-like buildings, the sun was slowly rising.[pcms]
+The quiet town, beyond the tombstone-like buildings, the sun[r]
+was slowly rising.[pcms]
 ;
 ;	*1538|
 ;	[fc]
-It was so beautiful that... Mizuki and I just watched in silence.[pcms]
+It was so beautiful that... Mizuki and I just watched in[r]
+silence.[pcms]
 ;
 ;	;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 ;
@@ -470,8 +486,8 @@ It was so beautiful that... Mizuki and I just watched in silence.[pcms]
 ;
 ;	*1540|
 ;	[fc]
-While imprinting the piercing blue sky onto my eyelids, I tell Mizuki, the[r]
-person most important to me.[pcms]
+While imprinting the piercing blue sky onto my eyelids, I[r]
+tell Mizuki, the person most important to me.[pcms]
 ;
 ;
 ;	;mm追加
@@ -494,8 +510,8 @@ At those words, I couldn't help but laugh.[pcms]
 ;
 ;	*1544|
 ;	[fc]
-...But that's right, isn't it? It's not like we're not scared. We are still...[r]
-"human" after all.[pcms]
+...But that's right, isn't it? It's not like we're not[r]
+scared. We are still... "human" after all.[pcms]
 ;
 ;	;//★_DJ-BAR
 ;	;//<ChrInit>
@@ -513,8 +529,8 @@ I gently embraced Mizuki, who was trembling.[pcms]
 ;
 ;	*1546|
 ;	[fc]
-Warm... It was hard to believe that we were infected with the virus and that it[r]
-was all over for us.[pcms]
+Warm... It was hard to believe that we were infected with[r]
+the virus and that it was all over for us.[pcms]
 ;
 ;	*1547|
 ;	[fc]
@@ -554,7 +570,8 @@ was all over for us.[pcms]
 ;
 ;	*1553|
 ;	[fc]
-Mizuki buried her face in my chest and had a peaceful expression.[pcms]
+Mizuki buried her face in my chest and had a peaceful[r]
+expression.[pcms]
 ;
 ;	*1554|
 ;	[fc]
@@ -602,7 +619,8 @@ I'm really sorry... Mizuki.[pcms]
 ;
 ;	*1562|
 ;	[fc]
-Holding Mizuki in my arms, I casually moved my footing to the side.[pcms]
+Holding Mizuki in my arms, I casually moved my footing to[r]
+the side.[pcms]
 ;
 ;	*1563|
 ;	[fc]
@@ -626,7 +644,8 @@ I hugged her body tightly.[pcms]
 ;
 ;	*1566|
 ;	[fc]
-Believing that when we open our eyes next time... that moment will come.[pcms]
+Believing that when we open our eyes next time... that[r]
+moment will come.[pcms]
 ;
 ;
 ;	;システムボタン＆ウィンドウ消去
@@ -661,14 +680,16 @@ On the first floor, the gunfire had already ceased.[pcms]
 
 *1568|
 [fc]
-Whether Shigeyoshi and the others had escaped or had been taken down...[pcms]
+Whether Shigeyoshi and the others had escaped or had been[r]
+taken down...[pcms]
 
 ;mm追加
 [evcg storage="evs001"][trans_c cross time=300]
 
 *1569|
 [fc]
-As a result, the first floor of LASER was overflowing with infected people.[pcms]
+As a result, the first floor of LASER was overflowing with[r]
+infected people.[pcms]
 
 *1570|
 [fc]
@@ -676,7 +697,8 @@ Just one scratch and it would be over.[pcms]
 
 *1571|
 [fc]
-Becoming one of them, I'd be wandering around Shibuya from tomorrow.[pcms]
+Becoming one of them, I'd be wandering around Shibuya from[r]
+tomorrow.[pcms]
 
 *1572|
 [fc]
@@ -730,8 +752,8 @@ We might be able to survive.[pcms]
 
 *1581|
 [fc]
-I pulled the trigger on the infected nearby that seemed likely to obstruct our[r]
-path.[pcms]
+I pulled the trigger on the infected nearby that seemed[r]
+likely to obstruct our path.[pcms]
 
 
 
@@ -765,7 +787,8 @@ I let out a roar and sprint towards the emergency exit.[pcms]
 
 *1584|
 [fc]
-The slowly moving infected can't react to us as we dash straight past them.[pcms]
+The slowly moving infected can't react to us as we dash[r]
+straight past them.[pcms]
 
 
 *1585|
@@ -800,14 +823,16 @@ The slowly moving infected can't react to us as we dash straight past them.[pcms
 
 *1587|
 [fc]
-Following Marie's instructions, I shoot down the infected in our path.[pcms]
+Following Marie's instructions, I shoot down the infected in[r]
+our path.[pcms]
 
 ;BGM即時停止
 [fadeoutbgm time=500]
 
 *1588|
 [fc]
-And then... what we saw as we burst out the emergency exit...[pcms]
+And then... what we saw as we burst out the emergency[r]
+exit...[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 
@@ -832,8 +857,8 @@ Was a swarm of infected writhing throughout the city.[pcms]
 
 *1592|
 [fc]
-Marie says that, but... the infected had already gathered behind us too much for[r]
-us to turn back.[pcms]
+Marie says that, but... the infected had already gathered[r]
+behind us too much for us to turn back.[pcms]
 
 *1593|
 [fc]
@@ -848,7 +873,8 @@ us to turn back.[pcms]
 
 *1595|
 [fc]
-I take out the grenade I brought from 'Dedepou' from my pocket.[pcms]
+I take out the grenade I brought from 'Dedepou' from my[r]
+pocket.[pcms]
 
 *1596|
 [fc]
@@ -894,8 +920,8 @@ I felt like Marie laughed behind me.[pcms]
 
 *1604|
 [fc]
-I pull the pin of the grenade and raise it high above my head so Marie can see[r]
-it too.[pcms]
+I pull the pin of the grenade and raise it high above my[r]
+head so Marie can see it too.[pcms]
 
 ;//♂：爆発の効果、シャイクやフラッシュなどお任せします
 ;mm追加

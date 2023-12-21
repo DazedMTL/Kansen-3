@@ -55,8 +55,8 @@
 
 *4640|
 [fc]
-Wataru, Kousuke, and the senior were all pushing against the rusty iron door in[r]
-the basement.[pcms]
+Wataru, Kousuke, and the senior were all pushing against the[r]
+rusty iron door in the basement.[pcms]
 
 *4641|
 [fc]
@@ -64,8 +64,9 @@ As expected, Ren was waiting behind us.[pcms]
 
 *4642|
 [fc]
-The door, completely rusted over, wouldn't open easily no matter how quickly we[r]
-tried to push it. It opened only very slowly, little by little.[pcms]
+The door, completely rusted over, wouldn't open easily no[r]
+matter how quickly we tried to push it. It opened only very[r]
+slowly, little by little.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -73,7 +74,8 @@ tried to push it. It opened only very slowly, little by little.[pcms]
 [fc]
 [vo_mar s="maru0575"]
 [ns]Margarita[nse]
-"It's rusted shut; it doesn't look like it will open easily."[pcms]
+"It's rusted shut; it doesn't look like it will open[r]
+easily."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -99,8 +101,9 @@ tried to push it. It opened only very slowly, little by little.[pcms]
 [fc]
 [vo_mar s="maru0577"]
 [ns]Margarita[nse]
-"It might open, but... I don't want to kick a door like this unless it's an[r]
-emergency. You never know what kind of injury you might get."[pcms]
+"It might open, but... I don't want to kick a door like this[r]
+unless it's an emergency. You never know what kind of injury[r]
+you might get."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -121,19 +124,22 @@ Kousuke chuckled wryly.[pcms]
 [fc]
 [vo_mar s="maru0578"]
 [ns]Margarita[nse]
-"That's right. But if I twist my ankle, it'll be hard to walk, and if I get cut[r]
-by the rust, there's a risk of getting tetanus."[pcms]
+"That's right. But if I twist my ankle, it'll be hard to[r]
+walk, and if I get cut by the rust, there's a risk of[r]
+getting tetanus."[pcms]
 
 *4651|
 [fc]
 [vo_mar s="maru0579"]
 [ns]Margarita[nse]
-"There's no need to go to such lengths. If you understand, then let's push hard![r]
-The more time passes, the less leeway we have."[pcms]
+"There's no need to go to such lengths. If you understand,[r]
+then let's push hard! The more time passes, the less leeway[r]
+we have."[pcms]
 
 *4652|
 [fc]
-Wataru and Kousuke continued to push the door following the senior's lead.[pcms]
+Wataru and Kousuke continued to push the door following the[r]
+senior's lead.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -159,9 +165,9 @@ Wataru and Kousuke continued to push the door following the senior's lead.[pcms]
 
 *4654|
 [fc]
-How many minutes had we been pushing that door? I have no idea since I wasn't[r]
-looking at a clock. It feels like a lot of time has passed, but then again,[r]
-maybe not.[pcms]
+How many minutes had we been pushing that door? I have no[r]
+idea since I wasn't looking at a clock. It feels like a lot[r]
+of time has passed, but then again, maybe not.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -180,7 +186,8 @@ maybe not.[pcms]
 
 *4657|
 [fc]
-As soon as the door opened, the senior gestured for us to follow through.[pcms]
+As soon as the door opened, the senior gestured for us to[r]
+follow through.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -200,15 +207,16 @@ As soon as the door opened, the senior gestured for us to follow through.[pcms]
 
 *4660|
 [fc]
-Ren nodded slightly and approached me. I took her hand and led her through the[r]
-door.[pcms]
+Ren nodded slightly and approached me. I took her hand and[r]
+led her through the door.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4661|
 [fc]
-Following Wataru and Ren, Kousuke also passed through the door.[pcms]
+Following Wataru and Ren, Kousuke also passed through the[r]
+door.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -246,20 +254,21 @@ Following Wataru and Ren, Kousuke also passed through the door.[pcms]
 
 *4666|
 [fc]
-After hearing our responses, the senior began to close the door we had just[r]
-opened.[pcms]
+After hearing our responses, the senior began to close the[r]
+door we had just opened.[pcms]
 
 *4667|
 [fc]
-Unlike before, the iron door closed easily and satisfyingly all at once.[pcms]
+Unlike before, the iron door closed easily and satisfyingly[r]
+all at once.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4668|
 [fc]
 [ns]Kousuke[nse]
-"Somehow, it feels like a waste to close it right after we worked so hard to[r]
-open it..."[pcms]
+"Somehow, it feels like a waste to close it right after we[r]
+worked so hard to open it..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -267,8 +276,8 @@ open it..."[pcms]
 [fc]
 [vo_mar s="maru0583"]
 [ns]Margarita[nse]
-"Stop chattering and keep watch over there. I'll make sure they can't get in by[r]
-securing this door properly..."[pcms]
+"Stop chattering and keep watch over there. I'll make sure[r]
+they can't get in by securing this door properly..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -281,8 +290,9 @@ securing this door properly..."[pcms]
 
 *4671|
 [fc]
-Taking the senior's serious words to heart, Kousuke stopped his light banter and[r]
-began looking around with his flashlight down the dark corridor.[pcms]
+Taking the senior's serious words to heart, Kousuke stopped[r]
+his light banter and began looking around with his[r]
+flashlight down the dark corridor.[pcms]
 
 ;//@konya EV25 地下道（BG扱い）
 ;[evcg storage="EV025a"][trans_c cross time=300]
@@ -309,8 +319,9 @@ began looking around with his flashlight down the dark corridor.[pcms]
 
 *4674|
 [fc]
-Remembering that I had brought something useful in response to the senior's[r]
-comment, I searched through my bag and found it easily.[pcms]
+Remembering that I had brought something useful in response[r]
+to the senior's comment, I searched through my bag and found[r]
+it easily.[pcms]
 
 ;//se021・ランタン、スイッチオン
 [se buf=0 storage="se021"]
@@ -355,8 +366,8 @@ I began to help the senior.[pcms]
 
 *4679|
 [fc]
-The senior skillfully used an iron pipe she had brought along to secure a bolt[r]
-on the rusty iron door.[pcms]
+The senior skillfully used an iron pipe she had brought[r]
+along to secure a bolt on the rusty iron door.[pcms]
 
 ;//se049・チェーンがじゃらじゃら
 [wait time=500]
@@ -364,17 +375,19 @@ on the rusty iron door.[pcms]
 
 *4680|
 [fc]
-On top of that, she firmly fixed it with a rusty chain she had also conveniently[r]
-brought along.[pcms]
+On top of that, she firmly fixed it with a rusty chain she[r]
+had also conveniently brought along.[pcms]
 
 *4681|
 [fc]
-But both the chain and pipe were terribly corroded with rust.[pcms]
+But both the chain and pipe were terribly corroded with[r]
+rust.[pcms]
 
 *4682|
 [fc]
-If pushed by a group of crazed people... would it hold? I couldn't help feeling[r]
-anxious about the state of decay of the chain and pipe.[pcms]
+If pushed by a group of crazed people... would it hold? I[r]
+couldn't help feeling anxious about the state of decay of[r]
+the chain and pipe.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -390,12 +403,14 @@ Kousuke turned back to report to the senior.[pcms]
 *4685|
 [fc]
 [ns]Kousuke[nse]
-"A little further on, it seems to split into a right and left path."[pcms]
+"A little further on, it seems to split into a right and[r]
+left path."[pcms]
 
 *4686|
 [fc]
 [ns]Wataru[nse]
-"Right and left? Senior, do you know which way we should go?"[pcms]
+"Right and left? Senior, do you know which way we should[r]
+go?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -403,23 +418,24 @@ Kousuke turned back to report to the senior.[pcms]
 [fc]
 [vo_mar s="maru0587"]
 [ns]Margarita[nse]
-"The left leads towards Shibuya Station. We might be able to get out near the[r]
-river."[pcms]
+"The left leads towards Shibuya Station. We might be able to[r]
+get out near the river."[pcms]
 
 *4688|
 [fc]
 [vo_mar s="maru0588"]
 [ns]Margarita[nse]
-"The right goes towards Yoyogi Park. If the passage is as it was in the past, it[r]
-should connect to the sports center beyond Yoyogi Park."[pcms]
+"The right goes towards Yoyogi Park. If the passage is as it[r]
+was in the past, it should connect to the sports center[r]
+beyond Yoyogi Park."[pcms]
 
 *4689|
 [fc]
 [vo_mar s="maru0589"]
 [ns]Margarita[nse]
-"There's also the DHK Broadcasting Center along the way, so if the rumors are[r]
-true, we might be able to get out from there... that is, if what I heard is[r]
-correct..."[pcms]
+"There's also the DHK Broadcasting Center along the way, so[r]
+if the rumors are true, we might be able to get out from[r]
+there... that is, if what I heard is correct..."[pcms]
 
 ;//噂どおりなら 聞いた話が本当ならだが
 ;//内容が被ってますが？　→　念押しですから
@@ -430,8 +446,9 @@ correct..."[pcms]
 [fc]
 [vo_ren s="ren0592"]
 [ns]Ren[nse]
-"The DHK Broadcasting Center? If it's the DHK Broadcasting Center, my father[r]
-might be there! I might be able to see my father."[pcms]
+"The DHK Broadcasting Center? If it's the DHK Broadcasting[r]
+Center, my father might be there! I might be able to see my[r]
+father."[pcms]
 
 *4691|
 [fc]
@@ -454,8 +471,9 @@ might be there! I might be able to see my father."[pcms]
 *4694|
 [fc]
 [ns]Wataru[nse]
-"Due to his job, he often has location shoots and recordings at incident sites,[r]
-so he might be at the broadcasting center."[pcms]
+"Due to his job, he often has location shoots and recordings[r]
+at incident sites, so he might be at the broadcasting[r]
+center."[pcms]
 
 *4695|
 [fc]
@@ -472,16 +490,16 @@ so he might be at the broadcasting center."[pcms]
 
 *4697|
 [fc]
-I regretted my words a little after saying them, worrying that I might have made[r]
-Ren anxious.[pcms]
+I regretted my words a little after saying them, worrying[r]
+that I might have made Ren anxious.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4698|
 [fc]
 [ns]Kousuke[nse]
-"With things being so unclear, he probably can't be out at any site. I'm sure[r]
-he's still inside DHK."[pcms]
+"With things being so unclear, he probably can't be out at[r]
+any site. I'm sure he's still inside DHK."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -500,20 +518,22 @@ he's still inside DHK."[pcms]
 *4701|
 [fc]
 [ns]Kousuke[nse]
-"Maybe they'll lend us a car... or possibly even a helicopter!"[pcms]
+"Maybe they'll lend us a car... or possibly even a[r]
+helicopter!"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4702|
 [fc]
 [ns]Kousuke[nse]
-"Escaping by helicopter is a common story in movies... I've always wanted to try[r]
-it!"[pcms]
+"Escaping by helicopter is a common story in movies... I've[r]
+always wanted to try it!"[pcms]
 
 *4703|
 [fc]
 [ns]Wataru[nse]
-"No, that does happen in movies, but... I really don't think that's possible."[pcms]
+"No, that does happen in movies, but... I really don't think[r]
+that's possible."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -525,7 +545,8 @@ it!"[pcms]
 *4705|
 [fc]
 [ns]Wataru[nse]
-"Yeah... And even if we borrowed one, who would drive or pilot it?"[pcms]
+"Yeah... And even if we borrowed one, who would drive or[r]
+pilot it?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -540,8 +561,9 @@ it!"[pcms]
 [fc]
 [vo_mar s="maru0591"]
 [ns]Margarita[nse]
-"Don't irresponsibly push it onto me. I know how to do it, so it's not[r]
-impossible... but there's no guarantee of survival, you know?"[pcms]
+"Don't irresponsibly push it onto me. I know how to do it,[r]
+so it's not impossible... but there's no guarantee of[r]
+survival, you know?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -567,7 +589,8 @@ Ren chuckled softly.[pcms]
 
 *4711|
 [fc]
-Kousuke... Ah... but maybe he said that on purpose to change the mood.[pcms]
+Kousuke... Ah... but maybe he said that on purpose to change[r]
+the mood.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -575,17 +598,19 @@ Kousuke... Ah... but maybe he said that on purpose to change the mood.[pcms]
 [fc]
 [vo_mar s="maru0592"]
 [ns]Margarita[nse]
-"Jokes aside, if it's a large media center, information will gather there, and[r]
-even if we wait for rescue, it will certainly be advantageous..."[pcms]
+"Jokes aside, if it's a large media center, information will[r]
+gather there, and even if we wait for rescue, it will[r]
+certainly be advantageous..."[pcms]
 
 *4713|
 [fc]
 [vo_mar s="maru0593"]
 [ns]Margarita[nse]
-"Since it's close to the surface from the river, if we're lucky we could escape[r]
-quickly... but considering the state of the academy, going above ground might[r]
-actually be more dangerous. Therefore, it's worth looking for an entrance to the[r]
-broadcasting center."[pcms]
+"Since it's close to the surface from the river, if we're[r]
+lucky we could escape quickly... but considering the state[r]
+of the academy, going above ground might actually be more[r]
+dangerous. Therefore, it's worth looking for an entrance to[r]
+the broadcasting center."[pcms]
 
 *4714|
 [fc]
@@ -597,7 +622,8 @@ broadcasting center."[pcms]
 
 *4715|
 [fc]
-The senior's words brought back memories of the hellish scene at the academy.[pcms]
+The senior's words brought back memories of the hellish[r]
+scene at the academy.[pcms]
 
 *4716|
 [fc]
@@ -645,7 +671,8 @@ Kousuke was patting my shoulder.[pcms]
 *4720|
 [fc]
 [ns]Kousuke[nse]
-"Forget about the academy for now. You did everything you could, right?"[pcms]
+"Forget about the academy for now. You did everything you[r]
+could, right?"[pcms]
 
 *4721|
 [fc]
@@ -654,7 +681,8 @@ Kousuke was patting my shoulder.[pcms]
 
 *4722|
 [fc]
-I was frustrated with my own powerlessness. The more I thought about it...[pcms]
+I was frustrated with my own powerlessness. The more I[r]
+thought about it...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -662,7 +690,8 @@ I was frustrated with my own powerlessness. The more I thought about it...[pcms]
 [fc]
 [vo_mar s="maru0594"]
 [ns]Margarita[nse]
-"You must have done everything within your power. You should be proud of that."[pcms]
+"You must have done everything within your power. You should[r]
+be proud of that."[pcms]
 
 *4724|
 [fc]
@@ -689,14 +718,16 @@ I was frustrated with my own powerlessness. The more I thought about it...[pcms]
 [fc]
 [vo_mar s="maru0596"]
 [ns]Margarita[nse]
-"Moreover, at least I acknowledge your effort and struggle. No..."[pcms]
+"Moreover, at least I acknowledge your effort and struggle.[r]
+No..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4726|
 [fc]
 [ns]Kousuke[nse]
-"I've been telling you all along that you gave it your all, haven't I?"[pcms]
+"I've been telling you all along that you gave it your all,[r]
+haven't I?"[pcms]
 
 *4727|
 [fc]
@@ -728,8 +759,9 @@ Ren spoke firmly with both hands clasped over her chest.[pcms]
 [fc]
 [vo_ren s="ren0596"]
 [ns]Ren[nse]
-"I definitely wouldn't have been saved if my brother hadn't come for me. The[r]
-fact that I'm here now is proof of my brother's efforts."[pcms]
+"I definitely wouldn't have been saved if my brother hadn't[r]
+come for me. The fact that I'm here now is proof of my[r]
+brother's efforts."[pcms]
 
 *4732|
 [fc]
@@ -741,12 +773,14 @@ With those words, Ren moved closer to me.[pcms]
 [fc]
 [vo_mar s="maru0597"]
 [ns]Margarita[nse]
-"Not just me, everyone here acknowledges your valiant efforts. You did[r]
-everything you could. I also think you did admirably."[pcms]
+"Not just me, everyone here acknowledges your valiant[r]
+efforts. You did everything you could. I also think you did[r]
+admirably."[pcms]
 
 *4734|
 [fc]
-The senior continued sealing the door while encouraging me over her shoulder.[pcms]
+The senior continued sealing the door while encouraging me[r]
+over her shoulder.[pcms]
 
 *4735|
 [fc]
@@ -758,8 +792,8 @@ The senior continued sealing the door while encouraging me over her shoulder.[pc
 
 *4736|
 [fc]
-I was truly happy about everyone's feelings. Tears of joy made it hard to see[r]
-the rusty chain in my hand.[pcms]
+I was truly happy about everyone's feelings. Tears of joy[r]
+made it hard to see the rusty chain in my hand.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -781,7 +815,8 @@ the rusty chain in my hand.[pcms]
 [fc]
 [vo_mar s="maru0598"]
 [ns]Margarita[nse]
-"Alright, the door is secured. This should hold for a while."[pcms]
+"Alright, the door is secured. This should hold for a[r]
+while."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -823,8 +858,8 @@ We all stood up and proceeded down the corridor.[pcms]
 
 *4744|
 [fc]
-Turning at Ren's voice, I saw her sitting down even though she had just stood[r]
-up.[pcms]
+Turning at Ren's voice, I saw her sitting down even though[r]
+she had just stood up.[pcms]
 
 *4745|
 [fc]
@@ -837,7 +872,8 @@ up.[pcms]
 [fc]
 [vo_ren s="ren0599"]
 [ns]Ren[nse]
-"I'm fine, Onii-chan. I just got a little dizzy from standing up too quickly..."[pcms]
+"I'm fine, Onii-chan. I just got a little dizzy from[r]
+standing up too quickly..."[pcms]
 
 *4747|
 [fc]
@@ -859,13 +895,15 @@ up.[pcms]
 
 *4749|
 [fc]
-I put down my luggage and carried Ren on my back. Even with my lack of strength,[r]
-Ren felt so light that I thought she was light.[pcms]
+I put down my luggage and carried Ren on my back. Even with[r]
+my lack of strength, Ren felt so light that I thought she[r]
+was light.[pcms]
 
 *4750|
 [fc]
 [ns]Wataru[nse]
-"Don't push yourself, Ren. I'll carry you until you feel better..."[pcms]
+"Don't push yourself, Ren. I'll carry you until you feel[r]
+better..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -886,7 +924,8 @@ Ren felt so light that I thought she was light.[pcms]
 [fc]
 [vo_ren s="ren0602"]
 [ns]Ren[nse]
-"You don't need to thank me... I was just saying what I was thinking..."[pcms]
+"You don't need to thank me... I was just saying what I was[r]
+thinking..."[pcms]
 ;//＠　漣テレ
 
 *4754|
@@ -899,8 +938,9 @@ Ren answered me shyly.[pcms]
 [fc]
 [vo_ren s="ren0603"]
 [ns]Ren[nse]
-"Onii-chan did his best. Just like Senpai and Kousuke said. So don't blame[r]
-yourself for what happened with Yuuho-chan..."[pcms]
+"Onii-chan did his best. Just like Senpai and Kousuke said.[r]
+So don't blame yourself for what happened with Yuuho-[r]
+chan..."[pcms]
 
 *4756|
 [fc]
@@ -925,8 +965,8 @@ yourself for what happened with Yuuho-chan..."[pcms]
 
 *4759|
 [fc]
-While feeling overwhelmed with emotion, I tried to pick up my luggage as if to[r]
-hide my embarrassment...[pcms]
+While feeling overwhelmed with emotion, I tried to pick up[r]
+my luggage as if to hide my embarrassment...[pcms]
 
 *4760|
 [fc]
@@ -935,15 +975,16 @@ hide my embarrassment...[pcms]
 
 *4761|
 [fc]
-The luggage that I thought I had put down was nowhere to be found.[pcms]
+The luggage that I thought I had put down was nowhere to be[r]
+found.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4762|
 [fc]
 [ns]Kousuke[nse]
-"It must be tough carrying both Ren-chan and the luggage, right? I'll carry it[r]
-for you."[pcms]
+"It must be tough carrying both Ren-chan and the luggage,[r]
+right? I'll carry it for you."[pcms]
 
 *4763|
 [fc]
@@ -991,8 +1032,9 @@ The senior leading the way turned back to speak to me.[pcms]
 [fc]
 [vo_mar s="maru0601"]
 [ns]Margarita[nse]
-"I want to retract a careless remark I made. I'm sorry for saying 'you might[r]
-fail to protect your sister.' You are doing admirably as a brother."[pcms]
+"I want to retract a careless remark I made. I'm sorry for[r]
+saying 'you might fail to protect your sister.' You are[r]
+doing admirably as a brother."[pcms]
 
 *4772|
 [fc]
@@ -1001,8 +1043,8 @@ fail to protect your sister.' You are doing admirably as a brother."[pcms]
 
 *4773|
 [fc]
-The senior's words were like a final blow, and I felt like I was truly about to[r]
-cry.[pcms]
+The senior's words were like a final blow, and I felt like I[r]
+was truly about to cry.[pcms]
 
 ;//→ブロック４２０３０へ
 [jump storage="42030.ks" target=*42030_TOP]

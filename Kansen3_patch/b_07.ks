@@ -27,8 +27,8 @@ I'm worried about Ren and Yuuho. But I only have one body.[pcms]
 
 *3618|
 [fc]
-Unable to choose either, nor able to choose to just run away, I found myself[r]
-frozen in place.[pcms]
+Unable to choose either, nor able to choose to just run[r]
+away, I found myself frozen in place.[pcms]
 
 *3619|
 [fc]
@@ -48,12 +48,13 @@ Someone grabbed my shoulder firmly.[pcms]
 
 *3622|
 [fc]
-A happy voice sounded close to my ear. I knew who it was without turning around.[r]
-I didn't want to turn around.[pcms]
+A happy voice sounded close to my ear. I knew who it was[r]
+without turning around. I didn't want to turn around.[pcms]
 
 *3623|
 [fc]
-But my neck turned on its own, like a broken doll looking back.[pcms]
+But my neck turned on its own, like a broken doll looking[r]
+back.[pcms]
 
 *3624|
 [fc]
@@ -62,7 +63,8 @@ But my neck turned on its own, like a broken doll looking back.[pcms]
 
 *3625|
 [fc]
-No voice came out. Just a pair of ominously glowing red eyes approaching me.[pcms]
+No voice came out. Just a pair of ominously glowing red eyes[r]
+approaching me.[pcms]
 
 *3626|
 [fc]
@@ -82,8 +84,8 @@ A pain struck my throat, and my vision was dyed red.[pcms]
 
 *3629|
 [fc]
-I realized it was because something had bitten me when I felt a slimy sensation[r]
-as I touched the painful area.[pcms]
+I realized it was because something had bitten me when I[r]
+felt a slimy sensation as I touched the painful area.[pcms]
 
 *3630|
 [fc]
@@ -91,12 +93,13 @@ as I touched the painful area.[pcms]
 
 *3631|
 [fc]
-My mind was in overdrive, ordering me to evacuate. But my body, powerless from[r]
-the pain, collapsed on its own...[pcms]
+My mind was in overdrive, ordering me to evacuate. But my[r]
+body, powerless from the pain, collapsed on its own...[pcms]
 
 *3632|
 [fc]
-Numerous hands reached out towards me. That was the last scene I saw.[pcms]
+Numerous hands reached out towards me. That was the last[r]
+scene I saw.[pcms]
 
 
 ;//・ゲームオーバー

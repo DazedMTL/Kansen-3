@@ -20,7 +20,8 @@
 *3096|
 [fc]
 [ns]Wataru[nse]
-"To the right! Let's find somewhere to barricade ourselves in."[pcms]
+"To the right! Let's find somewhere to barricade ourselves[r]
+in."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -28,20 +29,23 @@
 [fc]
 [vo_mar s="maru0429"]
 [ns]Margarita[nse]
-"That's true. It's a commercial area, so it shouldn't be hard to find food, and[r]
-there should be places to hold up. If we're lucky, we might find an emergency[r]
-shelter stocked with supplies..."[pcms]
+"That's true. It's a commercial area, so it shouldn't be[r]
+hard to find food, and there should be places to hold up. If[r]
+we're lucky, we might find an emergency shelter stocked with[r]
+supplies..."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3098|
 [fc]
-My almost instinctive response is judged by my senior with her own reasoning.[pcms]
+My almost instinctive response is judged by my senior with[r]
+her own reasoning.[pcms]
 
 *3099|
 [fc]
-If she agrees with me, maybe my haphazard decision wasn't so bad after all.[pcms]
+If she agrees with me, maybe my haphazard decision wasn't so[r]
+bad after all.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -50,7 +54,8 @@ If she agrees with me, maybe my haphazard decision wasn't so bad after all.[pcms
 
 *3100|
 [fc]
-We hurried on, praying that we would find a place that seemed defensible.[pcms]
+We hurried on, praying that we would find a place that[r]
+seemed defensible.[pcms]
 
 *3101|
 [fc]
@@ -71,8 +76,8 @@ The violently shaking LED lantern light flickers around us.[pcms]
 
 *3103|
 [fc]
-After a while, Maruko-senpai at the front seems to have found something and[r]
-stops.[pcms]
+After a while, Maruko-senpai at the front seems to have[r]
+found something and stops.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -92,7 +97,8 @@ stops.[pcms]
 
 *3106|
 [fc]
-When the senior shines the light, a square metal box-like object is illuminated.[pcms]
+When the senior shines the light, a square metal box-like[r]
+object is illuminated.[pcms]
 
 *3107|
 [fc]
@@ -113,8 +119,8 @@ When the senior shines the light, a square metal box-like object is illuminated.
 [fc]
 [vo_mar s="maru0432"]
 [ns]Margarita[nse]
-"Geographically speaking... this seems to be the basement area of the government[r]
-complex..."[pcms]
+"Geographically speaking... this seems to be the basement[r]
+area of the government complex..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -135,11 +141,13 @@ complex..."[pcms]
 *3112|
 [fc]
 [ns]Wataru[nse]
-"There might be something useful inside, so let's check it out."[pcms]
+"There might be something useful inside, so let's check it[r]
+out."[pcms]
 
 *3113|
 [fc]
-I suggest this to Maruko-senpai, who is tilting her head in confusion.[pcms]
+I suggest this to Maruko-senpai, who is tilting her head in[r]
+confusion.[pcms]
 
 *3114|
 [fc]
@@ -162,7 +170,8 @@ The senior begins to examine the large double doors.[pcms]
 
 *3116|
 [fc]
-Yuuho and I decide to open the locker and take a look inside.[pcms]
+Yuuho and I decide to open the locker and take a look[r]
+inside.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -194,8 +203,9 @@ Yuuho and I decide to open the locker and take a look inside.[pcms]
 ;//@konya ブーツを長靴に修正
 *3119a|
 [fc]
-All the dusty lockers we open are filled with nothing but raincoats, and when we[r]
-search the bottom, we only find boots.[pcms]
+All the dusty lockers we open are filled with nothing but[r]
+raincoats, and when we search the bottom, we only find[r]
+boots.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -215,8 +225,8 @@ search the bottom, we only find boots.[pcms]
 
 *3122|
 [fc]
-As I respond with a sigh due to the lack of findings, the senior comes back to[r]
-us just then.[pcms]
+As I respond with a sigh due to the lack of findings, the[r]
+senior comes back to us just then.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -235,8 +245,9 @@ us just then.[pcms]
 [fc]
 [vo_mar s="maru0436"]
 [ns]Margarita[nse]
-"It's big and thick. If we could have gotten inside, it would have cut off any[r]
-worries about being pursued from underground..."[pcms]
+"It's big and thick. If we could have gotten inside, it[r]
+would have cut off any worries about being pursued from[r]
+underground..."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -252,7 +263,8 @@ Gagigig... Gagig...![pcms]
 
 *3127|
 [fc]
-A sound like metal being torn apart echoes from far down the corridor.[pcms]
+A sound like metal being torn apart echoes from far down the[r]
+corridor.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -288,8 +300,9 @@ A sound like metal being torn apart echoes from far down the corridor.[pcms]
 
 *3132|
 [fc]
-With an expression that seemed to say it was regrettable, the senior silently[r]
-moved ahead down the corridor. Yuuho and I followed.[pcms]
+With an expression that seemed to say it was regrettable,[r]
+the senior silently moved ahead down the corridor. Yuuho and[r]
+I followed.[pcms]
 
 ;//se083・コンクリートの上を走る（複数）
 ;//[se buf=0 storage="se083"]
@@ -365,8 +378,9 @@ The senior searches around the door.[pcms]
 
 *3142|
 [fc]
-But there is no manual lock to be found on the rusted door that barely reads[r]
-"DHK," although there is something that looks like a keyhole.[pcms]
+But there is no manual lock to be found on the rusted door[r]
+that barely reads "DHK," although there is something that[r]
+looks like a keyhole.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -402,7 +416,8 @@ Bang, bang, bang...[pcms]
 
 *3147|
 [fc]
-With every strike, a tingling numbness and pain runs through my hand.[pcms]
+With every strike, a tingling numbness and pain runs through[r]
+my hand.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -418,7 +433,8 @@ With every strike, a tingling numbness and pain runs through my hand.[pcms]
 [fc]
 [vo_mar s="maru0443"]
 [ns]Margarita[nse]
-"...It can't be helped. Give up. I understand how you feel, but..."[pcms]
+"...It can't be helped. Give up. I understand how you feel,[r]
+but..."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -471,12 +487,14 @@ The voices of Ren and the crazed people echo from afar.[pcms]
 
 *3157|
 [fc]
-While thinking we need to escape quickly, I feel so sorry for my father. I have[r]
-to open this door and apologize to him...[pcms]
+While thinking we need to escape quickly, I feel so sorry[r]
+for my father. I have to open this door and apologize to[r]
+him...[pcms]
 
 *3158|
 [fc]
-For not being able to protect Ren... for letting things turn out this way...[pcms]
+For not being able to protect Ren... for letting things turn[r]
+out this way...[pcms]
 
 *3159|
 [fc]
@@ -493,7 +511,8 @@ For not being able to protect Ren... for letting things turn out this way...[pcm
 [fc]
 [vo_ren s="ren0379"]
 [ns]Ren[nse]
-"What's wrong~ Big brother...? I get it~. Those women must have bullied you~"[pcms]
+"What's wrong~ Big brother...? I get it~. Those women must[r]
+have bullied you~"[pcms]
 
 *3161|
 [fc]
@@ -511,7 +530,8 @@ For not being able to protect Ren... for letting things turn out this way...[pcm
 
 *3163|
 [fc]
-Yuuho's hand firmly grabs mine. With a strength that's almost painful...[pcms]
+Yuuho's hand firmly grabs mine. With a strength that's[r]
+almost painful...[pcms]
 
 *3164|
 [fc]
@@ -535,8 +555,8 @@ Yuuho's hand firmly grabs mine. With a strength that's almost painful...[pcms]
 
 *3167|
 [fc]
-I stop pounding on the door at Yuuho's words and once again start to flee from[r]
-the crazed people.[pcms]
+I stop pounding on the door at Yuuho's words and once again[r]
+start to flee from the crazed people.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -563,8 +583,9 @@ We continue to run down the long corridor.[pcms]
 
 *3170|
 [fc]
-In the light of the lantern, the door that emerges in front of us doesn't seem[r]
-to be rusted and doesn't appear to be too damaged.[pcms]
+In the light of the lantern, the door that emerges in front[r]
+of us doesn't seem to be rusted and doesn't appear to be too[r]
+damaged.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -572,7 +593,8 @@ to be rusted and doesn't appear to be too damaged.[pcms]
 [fc]
 [vo_mar s="maru0446"]
 [ns]Margarita[nse]
-"There seems to be a path to the left as well. What should we do?"[pcms]
+"There seems to be a path to the left as well. What should[r]
+we do?"[pcms]
 
 *3172|
 [fc]
@@ -585,7 +607,8 @@ The senior asks us.[pcms]
 
 
 ;	[link storage="41100.ks" target=*41100_TOP]調べる[endlink]
-; (link storage="41170.ks" target=*41170_TOP)Don't investigate(endlink)[pcms]
+; (link storage="41170.ks" target=*41170_TOP)Don't[r]
+investigate(endlink)[pcms]
 
 *SEL33|調べる／調べない
 [fc]

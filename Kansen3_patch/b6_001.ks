@@ -19,7 +19,8 @@
 
 *1|
 [fc]
-I dodged the approaching woman and ran down the hallway like a fleeing rabbit.[pcms]
+I dodged the approaching woman and ran down the hallway like[r]
+a fleeing rabbit.[pcms]
 
 *2|
 [fc]
@@ -29,8 +30,9 @@ I dodged the approaching woman and ran down the hallway like a fleeing rabbit.[p
 
 *3|
 [fc]
-When I turned around at the sudden scream, I saw a female student being forced[r]
-to sit on a chair by one man while another man held her down.[pcms]
+When I turned around at the sudden scream, I saw a female[r]
+student being forced to sit on a chair by one man while[r]
+another man held her down.[pcms]
 
 *4|
 [fc]
@@ -41,7 +43,8 @@ to sit on a chair by one man while another man held her down.[pcms]
 *5|
 [fc]
 [ns]Infected Man A[nse]
-"Gyahahaha, young pussy is the best. It's clamping down on my dick."[pcms]
+"Gyahahaha, young pussy is the best. It's clamping down on[r]
+my dick."[pcms]
 
 *6|
 [fc]
@@ -56,38 +59,42 @@ to sit on a chair by one man while another man held her down.[pcms]
 
 *8|
 [fc]
-Her short skirt was flipped up, and I could see both her holes engulfing the[r]
-man's raging member.[pcms]
+Her short skirt was flipped up, and I could see both her[r]
+holes engulfing the man's raging member.[pcms]
 
 *9|
 [fc]
-But from her reaction, it was clear that she wasn't infected yet.[pcms]
+But from her reaction, it was clear that she wasn't infected[r]
+yet.[pcms]
 
 *10|
 [fc]
-Even so, I knew better than anyone that I wasn't the hero who could jump into[r]
-the classroom and save her.[pcms]
+Even so, I knew better than anyone that I wasn't the hero[r]
+who could jump into the classroom and save her.[pcms]
 
 *11|
 [fc]
-I apologized in my heart, but I couldn't help being drawn to the sight of her[r]
-parts swallowing the men's members, chastising myself as I quickened my pace.[pcms]
+I apologized in my heart, but I couldn't help being drawn to[r]
+the sight of her parts swallowing the men's members,[r]
+chastising myself as I quickened my pace.[pcms]
 
 *12|
 [fc]
-In another classroom, I saw a male student with several women. Pinned to the[r]
-floor and with one woman facesitting him, while two others competed to give him[r]
-blowjobs.[pcms]
+In another classroom, I saw a male student with several[r]
+women. Pinned to the floor and with one woman facesitting[r]
+him, while two others competed to give him blowjobs.[pcms]
 
 *13|
 [fc]
-He didn't seem infected yet, but he was more aggressive than the female student[r]
-I saw earlier. Is that the sad nature of men?[pcms]
+He didn't seem infected yet, but he was more aggressive than[r]
+the female student I saw earlier. Is that the sad nature of[r]
+men?[pcms]
 
 *14|
 [fc]
-If it weren't for this situation, I might have wanted to trade places with him,[r]
-but this was no time to be a spectator.[pcms]
+If it weren't for this situation, I might have wanted to[r]
+trade places with him, but this was no time to be a[r]
+spectator.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_g"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -99,12 +106,14 @@ but this was no time to be a spectator.[pcms]
 
 *16|
 [fc]
-The shocking scene made me slow down for a moment, which was a bad move as a new[r]
-infected person burst out of the classroom.[pcms]
+The shocking scene made me slow down for a moment, which was[r]
+a bad move as a new infected person burst out of the[r]
+classroom.[pcms]
 
 *17|
 [fc]
-In a panic, I put more strength into my legs and dashed down the hallway.[pcms]
+In a panic, I put more strength into my legs and dashed down[r]
+the hallway.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_g"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -123,8 +132,8 @@ In a panic, I put more strength into my legs and dashed down the hallway.[pcms]
 
 *20|
 [fc]
-I shouted quickly and sped up to dodge the woman lunging at me with the force of[r]
-a tackle.[pcms]
+I shouted quickly and sped up to dodge the woman lunging at[r]
+me with the force of a tackle.[pcms]
 
 ;//BGÅFäwâÄì‡òLâ∫ÅEäKíiïtãﬂ
 [bg storage="BG015"][trans_c cross time=500]
@@ -132,21 +141,25 @@ a tackle.[pcms]
 
 *21|
 [fc]
-When I reached the area near the stairs through the emergency exit, I saw[r]
-infected people wandering aimlessly near the main entrance due to its proximity.[pcms]
+When I reached the area near the stairs through the[r]
+emergency exit, I saw infected people wandering aimlessly[r]
+near the main entrance due to its proximity.[pcms]
 
 *22|
 [fc]
-It seems that some of the school students were already infected.[pcms]
+It seems that some of the school students were already[r]
+infected.[pcms]
 
 *23|
 [fc]
-Luckily I didn't have any friends, but it pained my heart to see familiar faces.[pcms]
+Luckily I didn't have any friends, but it pained my heart to[r]
+see familiar faces.[pcms]
 
 *24|
 [fc]
-Hiding in the shadows so as not to be seen by them, I peeked out and saw more[r]
-infected people who weren't students entering from outside.[pcms]
+Hiding in the shadows so as not to be seen by them, I peeked[r]
+out and saw more infected people who weren't students[r]
+entering from outside.[pcms]
 
 *25|
 [fc]
@@ -158,15 +171,17 @@ I swallowed hard and determined which path I should take.[pcms]
 
 *27|
 [fc]
-To the left was the gymnasium, and beyond that was the pool. In other words,[r]
-where Yuuho was likely to be. Normally, you can only get there from the first[r]
-floor of the regular classroom building.[pcms]
+To the left was the gymnasium, and beyond that was the pool.[r]
+In other words, where Yuuho was likely to be. Normally, you[r]
+can only get there from the first floor of the regular[r]
+classroom building.[pcms]
 
 *28|
 [fc]
-To the right was the special classroom building with the music room on the third[r]
-floor. Where Ren should be. However, the connecting corridor to the special[r]
-classroom building only goes up to the second floor.[pcms]
+To the right was the special classroom building with the[r]
+music room on the third floor. Where Ren should be. However,[r]
+the connecting corridor to the special classroom building[r]
+only goes up to the second floor.[pcms]
 
 *29|
 [fc]
@@ -182,8 +197,9 @@ Whether to continue to Yuuho's place or go to Ren's.[pcms]
 
 *32|
 [fc]
-No, since there's also the option to avoid this crowd and go through the second[r]
-floor, there are actually three paths I can choose from right now.[pcms]
+No, since there's also the option to avoid this crowd and go[r]
+through the second floor, there are actually three paths I[r]
+can choose from right now.[pcms]
 
 *33|
 [fc]
@@ -192,7 +208,8 @@ floor, there are actually three paths I can choose from right now.[pcms]
 
 *34|
 [fc]
-If I stay hidden here, they will soon chase after me and come from behind.[pcms]
+If I stay hidden here, they will soon chase after me and[r]
+come from behind.[pcms]
 
 *35|
 [fc]
@@ -211,7 +228,8 @@ What should I do?[pcms]
 ;	[link storage="B6_003.ks" target=*B6_003_TOP]âπäyé∫ë§Ç÷ÅI[endlink]
 ;	[link storage="B6_004.ks" target=*B6_004_TOP]äKíiÇ≈ÇQÇeÇ÷ÅI[endlink]
 ;	;[link storage="B_D2.ks" target=*B_D2_TOP]éûä‘êÿÇÍ[endlink]
-;       (link storage="B_D2.ks" target=*B_D2_TOP)Yuuho... Ren...(endlink)[pcms]
+;       (link storage="B_D2.ks" target=*B_D2_TOP)Yuuho...[r]
+Ren...(endlink)[pcms]
 
 *SEL56|ëÃàÁäŸë§Ç÷ÅIÅ^âπäyé∫ë§Ç÷ÅIÅ^äKíiÇ≈ÇQÇeÇ÷ÅIÅ^óIîøÅcÅcó¯ÅcÅc
 [fc]

@@ -16,8 +16,8 @@
 
 *1929|
 [fc]
-I followed my senior's advice and thrust the mop towards the man's side without[r]
-thinking.[pcms]
+I followed my senior's advice and thrust the mop towards the[r]
+man's side without thinking.[pcms]
 
 *1930|
 [fc]
@@ -25,41 +25,46 @@ I will never forget the sensation I felt at that moment.[pcms]
 
 *1931|
 [fc]
-Just as I thought the handle I thrust had dug into the man's stomach, he lost[r]
-his balance and fell over splendidly.[pcms]
+Just as I thought the handle I thrust had dug into the man's[r]
+stomach, he lost his balance and fell over splendidly.[pcms]
 
 *1932|
 [fc]
-However, the man had been sticking out more than half of his body through a hole[r]
-made by broken glass.[pcms]
+However, the man had been sticking out more than half of his[r]
+body through a hole made by broken glass.[pcms]
 
 *1933|
 [fc]
-The remaining shards of glass stabbed into the man, and the smell of blood[r]
-thickly wafted through the air.[pcms]
+The remaining shards of glass stabbed into the man, and the[r]
+smell of blood thickly wafted through the air.[pcms]
 
 *1934|
 [fc]
-I had taken down several infected in front of the music room as well.[pcms]
+I had taken down several infected in front of the music room[r]
+as well.[pcms]
 
 *1935|
 [fc]
-I had seen tragedies multiple times, and even at this moment, if I looked down[r]
-from the catwalk, I couldn't help but see them.[pcms]
+I had seen tragedies multiple times, and even at this[r]
+moment, if I looked down from the catwalk, I couldn't help[r]
+but see them.[pcms]
 
 *1936|
 [fc]
-But the ones I took down in front of the music room weren't injured like this,[r]
-and the tragedies were caused by someone else's hand.[pcms]
+But the ones I took down in front of the music room weren't[r]
+injured like this, and the tragedies were caused by someone[r]
+else's hand.[pcms]
 
 *1937|
 [fc]
-The bloody state of the man before me was something I had created.[pcms]
+The bloody state of the man before me was something I had[r]
+created.[pcms]
 
 *1938|
 [fc]
-He seems not to feel pain because he's struggling, and it seems like he's still[r]
-alive, but that makes it all the more terrifying.[pcms]
+He seems not to feel pain because he's struggling, and it[r]
+seems like he's still alive, but that makes it all the more[r]
+terrifying.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -71,11 +76,13 @@ alive, but that makes it all the more terrifying.[pcms]
 
 *1940|
 [fc]
-The one who saved me from the nausea that suddenly hit was Yuuho's voice.[pcms]
+The one who saved me from the nausea that suddenly hit was[r]
+Yuuho's voice.[pcms]
 
 *1941|
 [fc]
-That's right. There's no time to be shocked by something like this.[pcms]
+That's right. There's no time to be shocked by something[r]
+like this.[pcms]
 
 *1942|
 [fc]
@@ -88,7 +95,8 @@ That's right. There's no time to be shocked by something like this.[pcms]
 [fc]
 [vo_yuh s="yuho0157"]
 [ns]Yuuho[nse]
-"I'm okay... I'm okay. Wataru... thank you for coming to save me."[pcms]
+"I'm okay... I'm okay. Wataru... thank you for coming to[r]
+save me."[pcms]
 
 *1944|
 [fc]
@@ -97,7 +105,8 @@ That's right. There's no time to be shocked by something like this.[pcms]
 
 *1945|
 [fc]
-I leaped to the window next to where the man had fallen and opened it.[pcms]
+I leaped to the window next to where the man had fallen and[r]
+opened it.[pcms]
 
 *1946|
 [fc]
@@ -114,13 +123,14 @@ I leaped to the window next to where the man had fallen and opened it.[pcms]
 
 *1948|
 [fc]
-While we were taking a detour, she had managed to move a bit from where she[r]
-slipped, so it seems I won't have to climb onto the roof after all.[pcms]
+While we were taking a detour, she had managed to move a bit[r]
+from where she slipped, so it seems I won't have to climb[r]
+onto the roof after all.[pcms]
 
 *1949|
 [fc]
-Yuuho stood up unsteadily, maintaining a precarious balance as she slowly but[r]
-surely approached me.[pcms]
+Yuuho stood up unsteadily, maintaining a precarious balance[r]
+as she slowly but surely approached me.[pcms]
 
 ;//---------------------------------------------------------------
 ;//ÅúëIëéà
@@ -134,7 +144,8 @@ surely approached me.[pcms]
 
 
 ;	[link storage="B_F2.ks" target=*B_F2_TOP]óIîøÇ…éËÇÇ≥ÇµÇÃÇ◊ÇÈ[endlink]
-; (link storage="30240.ks" target=*30240_TOP)Be wary of the infected(endlink)[pcms]
+; (link storage="30240.ks" target=*30240_TOP)Be wary of the[r]
+infected(endlink)[pcms]
 
 *SEL27|óIîøÇ…éËÇÇ≥ÇµÇÃÇ◊ÇÈÅ^ä¥êıé“Çåxâ˙
 [fc]

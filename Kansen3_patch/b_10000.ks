@@ -37,7 +37,8 @@ As soon as I finished speaking, Kousuke started yelling.[pcms]
 *3635|
 [fc]
 [ns]Kousuke[nse]
-"It must be some mistake, right!? Yuuho getting infected, no way!?"[pcms]
+"It must be some mistake, right!? Yuuho getting infected, no[r]
+way!?"[pcms]
 
 *3636|
 [fc]
@@ -46,8 +47,8 @@ As soon as I finished speaking, Kousuke started yelling.[pcms]
 
 *3637|
 [fc]
-I wish it were a mistake... I'm hoping for that too. But... Yuuho from earlier[r]
-was definitely acting strange...[pcms]
+I wish it were a mistake... I'm hoping for that too. But...[r]
+Yuuho from earlier was definitely acting strange...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -55,8 +56,8 @@ was definitely acting strange...[pcms]
 [fc]
 [vo_ren s="ren_B0001"]
 [ns]Ren[nse]
-"No... it can't be true, right...!? It's a lie... it has to be a lie...[r]
-ugh...uhh..."[pcms]
+"No... it can't be true, right...!? It's a lie... it has to[r]
+be a lie... ugh...uhh..."[pcms]
 ;//＠前半悲鳴。後半、涙声
 
 [ChrSetEx layer=5 chbase="mizu_b6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -72,8 +73,9 @@ ugh...uhh..."[pcms]
 
 *3640|
 [fc]
-Ren, who had screamed, finally covered her mouth and started crying. Mizuki also[r]
-placed her hand on Ren's shoulder, shedding tears.[pcms]
+Ren, who had screamed, finally covered her mouth and started[r]
+crying. Mizuki also placed her hand on Ren's shoulder,[r]
+shedding tears.[pcms]
 
 *3641|
 [fc]
@@ -82,8 +84,8 @@ placed her hand on Ren's shoulder, shedding tears.[pcms]
 
 *3642|
 [fc]
-Muttering, I averted my eyes from Mizuki and Ren. This isn't the time for me to[r]
-cry...[pcms]
+Muttering, I averted my eyes from Mizuki and Ren. This isn't[r]
+the time for me to cry...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -94,11 +96,13 @@ cry...[pcms]
 
 *3644|
 [fc]
-Jin stood silently in anger, while Shigeyoshi fidgeted uncomfortably beside him.[pcms]
+Jin stood silently in anger, while Shigeyoshi fidgeted[r]
+uncomfortably beside him.[pcms]
 
 *3645|
 [fc]
-Everyone lost their words and looked down, avoiding each other's eyes.[pcms]
+Everyone lost their words and looked down, avoiding each[r]
+other's eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -106,11 +110,13 @@ Everyone lost their words and looked down, avoiding each other's eyes.[pcms]
 [fc]
 [vo_miz s="mizuki_B0002"]
 [ns]Mizuki[nse]
-"Hey...! Can't we do something about it!? Is there really nothing we can do!?"[pcms]
+"Hey...! Can't we do something about it!? Is there really[r]
+nothing we can do!?"[pcms]
 
 *3647|
 [fc]
-Mizuki raised her voice in frustration and caught Maruko-senpai's eyes.[pcms]
+Mizuki raised her voice in frustration and caught Maruko-[r]
+senpai's eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -118,8 +124,9 @@ Mizuki raised her voice in frustration and caught Maruko-senpai's eyes.[pcms]
 [fc]
 [vo_miz s="mizuki_B0003"]
 [ns]Mizuki[nse]
-"That's right... you're the ambassador's daughter, aren't you!? Use your[r]
-parent's connections or whatever, just do something!"[pcms]
+"That's right... you're the ambassador's daughter, aren't[r]
+you!? Use your parent's connections or whatever, just do[r]
+something!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -131,7 +138,8 @@ parent's connections or whatever, just do something!"[pcms]
 
 *3650|
 [fc]
-At a loss for words, Maruko-senpai bit her lip in frustration.[pcms]
+At a loss for words, Maruko-senpai bit her lip in[r]
+frustration.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -139,22 +147,25 @@ At a loss for words, Maruko-senpai bit her lip in frustration.[pcms]
 [fc]
 [vo_mar s="maru_B0002"]
 [ns]Margarita[nse]
-"...Assuming the information we've obtained so far is correct..., the vaccine[r]
-won't work anymore. That means... there's nothing we can do..."[pcms]
+"...Assuming the information we've obtained so far is[r]
+correct..., the vaccine won't work anymore. That means...[r]
+there's nothing we can do..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3652|
 [fc]
 [ns]Jin[nse]
-"If she had been vaccinated, the chance of airborne infection is low. You[r]
-guys..., did you have any contact with them on your way here?"[pcms]
+"If she had been vaccinated, the chance of airborne[r]
+infection is low. You guys..., did you have any contact with[r]
+them on your way here?"[pcms]
 
 *3653|
 [fc]
 [ns]Wataru[nse]
-"...I don't think we had any contact after we met up..., but maybe something[r]
-happened when we were escaping the academy, if not then..."[pcms]
+"...I don't think we had any contact after we met up..., but[r]
+maybe something happened when we were escaping the academy,[r]
+if not then..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -172,8 +183,8 @@ Kousuke muttered with a pale face drained of blood.[pcms]
 *3656|
 [fc]
 [ns]Kousuke[nse]
-"Down in the basement, we were attacked by the boss, right? And probably...[r]
-Yuuho..."[pcms]
+"Down in the basement, we were attacked by the boss, right?[r]
+And probably... Yuuho..."[pcms]
 
 *3657|
 [fc]
@@ -182,30 +193,34 @@ Yuuho..."[pcms]
 
 *3658|
 [fc]
-That time when Tadahiko, Maruko-senpai, and I went to get rubber boots, and we[r]
-were separated from Yuuho and the others for just a moment![pcms]
+That time when Tadahiko, Maruko-senpai, and I went to get[r]
+rubber boots, and we were separated from Yuuho and the[r]
+others for just a moment![pcms]
 
 *3659|
 [fc]
-I thought we were safe after the commotion, but what if... she had a small[r]
-injury? If even a little bit of blood or bodily fluid had entered her body...?[pcms]
+I thought we were safe after the commotion, but what if...[r]
+she had a small injury? If even a little bit of blood or[r]
+bodily fluid had entered her body...?[pcms]
 
 *3660|
 [fc]
-Certainly, if the infection came from an amount of blood or bodily fluid that[r]
-went unnoticed, it would make sense for the symptoms to appear after this much[r]
-time...[pcms]
+Certainly, if the infection came from an amount of blood or[r]
+bodily fluid that went unnoticed, it would make sense for[r]
+the symptoms to appear after this much time...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3661|
 [fc]
 [ns]Kousuke[nse]
-"Damn it all! I was there with her at that time!! Wataru! I'm so sorry!!"[pcms]
+"Damn it all! I was there with her at that time!! Wataru![r]
+I'm so sorry!!"[pcms]
 
 *3662|
 [fc]
-Kousuke hung his head as he punched his own hand in frustration.[pcms]
+Kousuke hung his head as he punched his own hand in[r]
+frustration.[pcms]
 
 *3663|
 [fc]
@@ -229,7 +244,8 @@ Jin slowly stood up.[pcms]
 
 *3667|
 [fc]
-His expression was unchanged as usual, but he was holding a gun in his hand.[pcms]
+His expression was unchanged as usual, but he was holding a[r]
+gun in his hand.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -244,21 +260,22 @@ His expression was unchanged as usual, but he was holding a gun in his hand.[pcm
 *3669|
 [fc]
 [ns]Jin[nse]
-"...If we're out of viable options, there's only one thing left to do, isn't[r]
-there?"[pcms]
+"...If we're out of viable options, there's only one thing[r]
+left to do, isn't there?"[pcms]
 
 *3670|
 [fc]
-We understood without a direct answer. What Jin was about to do...[pcms]
+We understood without a direct answer. What Jin was about to[r]
+do...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3671|
 [fc]
 [ns]Jin[nse]
-"If we leave her be, we'll all be in danger. Before she starts targeting her[r]
-friends with such despicable acts..., while she's still calm..., it's better to[r]
-put her at ease."[pcms]
+"If we leave her be, we'll all be in danger. Before she[r]
+starts targeting her friends with such despicable acts...,[r]
+while she's still calm..., it's better to put her at ease."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -277,16 +294,16 @@ put her at ease."[pcms]
 
 *3674|
 [fc]
-Mizuki screamed out, but even she couldn't find words to respond to Jin's[r]
-question and fell silent.[pcms]
+Mizuki screamed out, but even she couldn't find words to[r]
+respond to Jin's question and fell silent.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3675|
 [fc]
 [ns]Jin[nse]
-"...It must be tough for you guys since you know her. I'll do it... is that[r]
-okay?"[pcms]
+"...It must be tough for you guys since you know her. I'll[r]
+do it... is that okay?"[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢Ａ１
@@ -295,7 +312,8 @@ okay?"[pcms]
 
 
 ;	[link storage="B_10010.ks" target=*B_10010_TOP]……ボクがやります！[endlink]
-; (link storage="B_10020.ks" target=*B_10020_TOP)...(endlink)[pcms]
+; (link storage="B_10020.ks"[r]
+target=*B_10020_TOP)...(endlink)[pcms]
 
 *SEL62|……ボクがやります！／…………
 [fc]

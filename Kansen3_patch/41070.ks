@@ -53,8 +53,8 @@ We continued on our way.[pcms]
 
 *2877|
 [fc]
-From the opposite side, another dark channel extended, making it more of a[r]
-Y-shaped fork than a T.[pcms]
+From the opposite side, another dark channel extended,[r]
+making it more of a Y-shaped fork than a T.[pcms]
 
 *2878|
 [fc]
@@ -70,8 +70,9 @@ We kept heading towards Shibuya Station.[pcms]
 [fc]
 [vo_yuh s="yuho0235"]
 [ns]Yuuho[nse]
-"It's towards Shibuya Station, right? By the way, there's an urban legend that[r]
-subway stations have secret escape routes hidden..."[pcms]
+"It's towards Shibuya Station, right? By the way, there's an[r]
+urban legend that subway stations have secret escape routes[r]
+hidden..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -79,14 +80,16 @@ subway stations have secret escape routes hidden..."[pcms]
 [fc]
 [vo_mar s="maru0388"]
 [ns]Margarita[nse]
-"That might also originate from passages like this one. Surprisingly, we might[r]
-be able to get out at Shibuya Station."[pcms]
+"That might also originate from passages like this one.[r]
+Surprisingly, we might be able to get out at Shibuya[r]
+Station."[pcms]
 
 *2881|
 [fc]
 [ns]Wataru[nse]
-"If we can get out at Shibuya Station, it's spacious... even if we encounter[r]
-infected people, it would be easier to escape."[pcms]
+"If we can get out at Shibuya Station, it's spacious... even[r]
+if we encounter infected people, it would be easier to[r]
+escape."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -94,24 +97,25 @@ infected people, it would be easier to escape."[pcms]
 [fc]
 [vo_mar s="maru0389A"]
 [ns]Margarita[nse]
-"Yes. But depending on the situation, we might be crushed by a horde of[r]
-infected, just like in a zombie movie."[pcms]
+"Yes. But depending on the situation, we might be crushed by[r]
+a horde of infected, just like in a zombie movie."[pcms]
 ;//〆ボイスa、b有り
 
 *2883|
 [fc]
 [vo_mar s="maru0390"]
 [ns]Margarita[nse]
-"Getting out at Shibuya Station is something to consider. We can't be too[r]
-optimistic just because it's spacious. If there are a lot of people, it means[r]
-there could be just as many infected."[pcms]
+"Getting out at Shibuya Station is something to consider. We[r]
+can't be too optimistic just because it's spacious. If there[r]
+are a lot of people, it means there could be just as many[r]
+infected."[pcms]
 
 *2884|
 [fc]
 [vo_mar s="maru0391"]
 [ns]Margarita[nse]
-"If we move forward, there should be many exits. It would be better to find the[r]
-best one among them."[pcms]
+"If we move forward, there should be many exits. It would be[r]
+better to find the best one among them."[pcms]
 
 *2885|
 [fc]
@@ -122,8 +126,9 @@ best one among them."[pcms]
 
 *2886|
 [fc]
-We continued down the passage. But no matter how much we walked, no path leading[r]
-to the surface or elsewhere appeared.[pcms]
+We continued down the passage. But no matter how much we[r]
+walked, no path leading to the surface or elsewhere[r]
+appeared.[pcms]
 
 *2887|
 [fc]
@@ -137,20 +142,22 @@ Anxiety and tension ran through us.[pcms]
 [fc]
 [vo_mar s="maru0392"]
 [ns]Margarita[nse]
-"This is strange. We should have come across at least one exit by now... Have we[r]
-taken a wrong turn?"[pcms]
+"This is strange. We should have come across at least one[r]
+exit by now... Have we taken a wrong turn?"[pcms]
 
 *2889|
 [fc]
 [ns]Wataru[nse]
-"Are you saying we should have escaped towards the sea instead?"[pcms]
+"Are you saying we should have escaped towards the sea[r]
+instead?"[pcms]
 
 *2890|
 [fc]
 [vo_mar s="maru0393"]
 [ns]Margarita[nse]
-"No, I can't say that for sure... But I'm starting to feel anxious about how far[r]
-this passage goes. Maybe my judgment was too optimistic."[pcms]
+"No, I can't say that for sure... But I'm starting to feel[r]
+anxious about how far this passage goes. Maybe my judgment[r]
+was too optimistic."[pcms]
 
 *2891|
 [fc]
@@ -163,8 +170,8 @@ this passage goes. Maybe my judgment was too optimistic."[pcms]
 [fc]
 [vo_yuh s="yuho0236"]
 [ns]Yuuho[nse]
-"Ah, speaking of zombie movies earlier, I've seen zombies attacking from the[r]
-sea. The sea isn't necessarily safe."[pcms]
+"Ah, speaking of zombie movies earlier, I've seen zombies[r]
+attacking from the sea. The sea isn't necessarily safe."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -185,8 +192,8 @@ sea. The sea isn't necessarily safe."[pcms]
 [fc]
 [vo_yuh s="yuho0237"]
 [ns]Yuuho[nse]
-"That's right. Wataru and I watched it on TV during summer vacation when we were[r]
-kids. You remember."[pcms]
+"That's right. Wataru and I watched it on TV during summer[r]
+vacation when we were kids. You remember."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a28"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -205,15 +212,17 @@ Senpai is making a strange face.[pcms]
 
 *2898|
 [fc]
-It must be a weird movie that not many people know about, and Senpai, being an[r]
-international student, probably doesn't know about those oddly selected movies[r]
-shown on TV during the day.[pcms]
+It must be a weird movie that not many people know about,[r]
+and Senpai, being an international student, probably doesn't[r]
+know about those oddly selected movies shown on TV during[r]
+the day.[pcms]
 
 *2899|
 [fc]
-That roadshow doesn't run on holidays or weekends, and serious students would[r]
-only have a chance to watch it during long vacations. I can't imagine Senpai[r]
-going out of her way to watch it.[pcms]
+That roadshow doesn't run on holidays or weekends, and[r]
+serious students would only have a chance to watch it during[r]
+long vacations. I can't imagine Senpai going out of her way[r]
+to watch it.[pcms]
 
 *2900|
 [fc]
@@ -225,9 +234,9 @@ Yuuho must have said that to dispel the creeping anxiety.[pcms]
 
 *2902|
 [fc]
-For now, Senpai tilts her head and seems unable to think about her worries[r]
-anymore, and I'm about to burst into laughter because it's so funny, so I guess[r]
-her plan worked.[pcms]
+For now, Senpai tilts her head and seems unable to think[r]
+about her worries anymore, and I'm about to burst into[r]
+laughter because it's so funny, so I guess her plan worked.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -235,7 +244,8 @@ her plan worked.[pcms]
 [fc]
 [vo_mar s="maru0396"]
 [ns]Margarita[nse]
-"Let's leave the movie talk at that... For now, let's hurry..."[pcms]
+"Let's leave the movie talk at that... For now, let's[r]
+hurry..."[pcms]
 
 *2904|
 [fc]
@@ -279,7 +289,8 @@ We all hurriedly came to a stop as Senpai abruptly halted.[pcms]
 
 *2910|
 [fc]
-Senpai said this to us without turning around, in a hushed voice.[pcms]
+Senpai said this to us without turning around, in a hushed[r]
+voice.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -289,8 +300,8 @@ Senpai said this to us without turning around, in a hushed voice.[pcms]
 
 *2911|
 [fc]
-Indeed, there was something ahead of us, and we could constantly hear something[r]
-like a crying sound.[pcms]
+Indeed, there was something ahead of us, and we could[r]
+constantly hear something like a crying sound.[pcms]
 
 *2912|
 [fc]
@@ -302,8 +313,9 @@ like a crying sound.[pcms]
 
 *2913|
 [fc]
-The lantern light, still shaking violently from our recent run, momentarily[r]
-illuminated something like a searchlight on patrol.[pcms]
+The lantern light, still shaking violently from our recent[r]
+run, momentarily illuminated something like a searchlight on[r]
+patrol.[pcms]
 
 *2914|
 [fc]
@@ -334,16 +346,16 @@ Each of us aimed our lights toward that "something."[pcms]
 
 *2918|
 [fc]
-It was... an old man in tattered clothes. He must be a homeless person who had[r]
-settled down here.[pcms]
+It was... an old man in tattered clothes. He must be a[r]
+homeless person who had settled down here.[pcms]
 
 ;//se068・ネズミの鳴き声
 [se buf=0 storage="se068"]
 
 *2919|
 [fc]
-A few rats were scurrying around his feet... no, behind him was an uncountable[r]
-number of rats.[pcms]
+A few rats were scurrying around his feet... no, behind him[r]
+was an uncountable number of rats.[pcms]
 
 *2920|
 [fc]
@@ -357,8 +369,9 @@ But... something was off.[pcms]
 
 *2922|
 [fc]
-The tattered clothes were dirty and had turned a terrible color, dark red... And[r]
-his eyes also shone with a similar murky red color...[pcms]
+The tattered clothes were dirty and had turned a terrible[r]
+color, dark red... And his eyes also shone with a similar[r]
+murky red color...[pcms]
 
 *2923|
 [fc]
@@ -371,8 +384,8 @@ The old man let out a sickening voice.[pcms]
 
 *2925|
 [fc]
-It was as if something was stuck in his throat, a leaking of air, a nauseating[r]
-sound like he was vomiting...[pcms]
+It was as if something was stuck in his throat, a leaking of[r]
+air, a nauseating sound like he was vomiting...[pcms]
 
 ;//se068・ネズミの鳴き声
 [se buf=0 storage="se068"]
@@ -397,8 +410,9 @@ And then, they went right into the area around his cheek.[pcms]
 
 *2930|
 [fc]
-One side of his cheek was gaping open with a dark red hole, and a rat peeking[r]
-out from there was nibbling on the old man's face.[pcms]
+One side of his cheek was gaping open with a dark red hole,[r]
+and a rat peeking out from there was nibbling on the old[r]
+man's face.[pcms]
 
 *2931|
 [fc]
@@ -407,8 +421,8 @@ out from there was nibbling on the old man's face.[pcms]
 
 *2932|
 [fc]
-I felt like my mind was going to break, and with great effort, I threw those[r]
-words at the old man.[pcms]
+I felt like my mind was going to break, and with great[r]
+effort, I threw those words at the old man.[pcms]
 
 *2933|
 [fc]
@@ -416,8 +430,9 @@ words at the old man.[pcms]
 
 *2934|
 [fc]
-Not just his face. In the center of all the dark red stains on his tattered[r]
-clothes, rats were burrowing in and gnawing on the old man's body.[pcms]
+Not just his face. In the center of all the dark red stains[r]
+on his tattered clothes, rats were burrowing in and gnawing[r]
+on the old man's body.[pcms]
 
 *2935|
 [fc]
@@ -428,8 +443,8 @@ Rats with eyes as dark red as blood...[pcms]
 
 *2936|
 [fc]
-The sound of flesh being torn and bones being chewed echoed faintly in the dark,[r]
-quiet underpass.[pcms]
+The sound of flesh being torn and bones being chewed echoed[r]
+faintly in the dark, quiet underpass.[pcms]
 
 *2937|
 [fc]
@@ -458,7 +473,8 @@ quiet underpass.[pcms]
 *2939|
 [fc]
 [ns]Homeless[nse]
-"...Aah~~. Obobo... Being eaten by rats~. ...obobo... feels so good~~!!"[pcms]
+"...Aah~~. Obobo... Being eaten by rats~. ...obobo... feels[r]
+so good~~!!"[pcms]
 
 *2940|
 [fc]
@@ -466,8 +482,9 @@ The old man slowly approached us.[pcms]
 
 *2941|
 [fc]
-Every time a small rat entered or exited his mouth, his voice became strange,[r]
-making creepy sounds like "obobo" and "obobobo"...[pcms]
+Every time a small rat entered or exited his mouth, his[r]
+voice became strange, making creepy sounds like "obobo" and[r]
+"obobobo"...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -495,8 +512,8 @@ making creepy sounds like "obobo" and "obobobo"...[pcms]
 
 *2945|
 [fc]
-Snapping back to reality at Maruko-senpai's voice, I quickly grabbed Yuuho's[r]
-hand and ran.[pcms]
+Snapping back to reality at Maruko-senpai's voice, I quickly[r]
+grabbed Yuuho's hand and ran.[pcms]
 
 ;//　場面転換
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -517,14 +534,16 @@ hand and ran.[pcms]
 *2947|
 [fc]
 [ns]Wataru[nse]
-"Senpai, wouldn't it have been better to avoid that old man and move on...?"[pcms]
+"Senpai, wouldn't it have been better to avoid that old man[r]
+and move on...?"[pcms]
 
 *2948|
 [fc]
 [vo_mar s="maru0401"]
 [ns]Margarita[nse]
-"No, rats are terrifying. If that many hungry ones attack, humans don't stand a[r]
-chance. I've seen rats kill people by eating them."[pcms]
+"No, rats are terrifying. If that many hungry ones attack,[r]
+humans don't stand a chance. I've seen rats kill people by[r]
+eating them."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -540,8 +559,9 @@ chance. I've seen rats kill people by eating them."[pcms]
 [fc]
 [vo_mar s="maru0402"]
 [ns]Margarita[nse]
-"The sewers of Tokyo must be very nutritious. I've heard of rats that grew like[r]
-that chewing through underground facility wiring..."[pcms]
+"The sewers of Tokyo must be very nutritious. I've heard of[r]
+rats that grew like that chewing through underground[r]
+facility wiring..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -611,7 +631,8 @@ Senpai stopped at our words, then muttered with frustration.[pcms]
 *2959|
 [fc]
 [ns]Infected Student E[nse]
-"A foreign exchange student~. I've always wanted to do it with a foreigner~"[pcms]
+"A foreign exchange student~. I've always wanted to do it[r]
+with a foreigner~"[pcms]
 
 ;//恐らくキャラ指定ミス　Ｆは男で使用している
 [ns]Infected Student F[nse]
@@ -626,13 +647,13 @@ Senpai stopped at our words, then muttered with frustration.[pcms]
 [fc]
 [vo_mar s="maru0405"]
 [ns]Margarita[nse]
-"Tigers at the front gate, wolves at the back... No, rats at the front gate,[r]
-rapists at the back, it seems..."[pcms]
+"Tigers at the front gate, wolves at the back... No, rats at[r]
+the front gate, rapists at the back, it seems..."[pcms]
 
 *2961|
 [fc]
-Senpai murmured calmly. In contrast to her calm words, I became even more[r]
-flustered.[pcms]
+Senpai murmured calmly. In contrast to her calm words, I[r]
+became even more flustered.[pcms]
 
 *2962|
 [fc]
@@ -645,8 +666,8 @@ flustered.[pcms]
 [fc]
 [vo_mar s="maru0406"]
 [ns]Margarita[nse]
-"Now that it's come to this, we have no choice but to break through those crazed[r]
-people..."[pcms]
+"Now that it's come to this, we have no choice but to break[r]
+through those crazed people..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -675,8 +696,8 @@ people..."[pcms]
 [fc]
 [vo_mar s="maru0408"]
 [ns]Margarita[nse]
-"But there's no other way. If we're lucky, we can make them run into the[r]
-rats..."[pcms]
+"But there's no other way. If we're lucky, we can make them[r]
+run into the rats..."[pcms]
 
 *2968|
 [fc]
@@ -688,8 +709,8 @@ rats..."[pcms]
 
 *2969|
 [fc]
-Filled with anxiety about whether I could do it with my lack of strength, I[r]
-answered.[pcms]
+Filled with anxiety about whether I could do it with my lack[r]
+of strength, I answered.[pcms]
 
 *2970|
 [fc]
@@ -716,14 +737,15 @@ Yuuho held my hand.[pcms]
 
 *2974|
 [fc]
-I had grabbed Yuuho's hand several times before to escape, but this was the[r]
-first time she reached out for mine, and I hadn't been able to notice its feel[r]
-due to the lack of composure.[pcms]
+I had grabbed Yuuho's hand several times before to escape,[r]
+but this was the first time she reached out for mine, and I[r]
+hadn't been able to notice its feel due to the lack of[r]
+composure.[pcms]
 
 *2975|
 [fc]
-The softness and warmth I felt for the first time gave courage to my timid[r]
-heart.[pcms]
+The softness and warmth I felt for the first time gave[r]
+courage to my timid heart.[pcms]
 
 *2976|
 [fc]
@@ -740,8 +762,8 @@ heart.[pcms]
 
 *2978|
 [fc]
-As I nodded vigorously, feeling stronger than I ever had, Yuuho silently nodded[r]
-back.[pcms]
+As I nodded vigorously, feeling stronger than I ever had,[r]
+Yuuho silently nodded back.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -749,8 +771,9 @@ back.[pcms]
 [fc]
 [vo_mar s="maru0409"]
 [ns]Margarita[nse]
-"You two are good. Dive into the area where they're less dense. Just like doing[r]
-the breaststroke, push through and break out in one go."[pcms]
+"You two are good. Dive into the area where they're less[r]
+dense. Just like doing the breaststroke, push through and[r]
+break out in one go."[pcms]
 
 ;//　主人公と悠帆の返事は一緒。　収録ミスにつながってはいけないので分けました
 
@@ -783,8 +806,8 @@ the breaststroke, push through and break out in one go."[pcms]
 
 *2983|
 [fc]
-As we responded together, our senior nodded in confirmation and then plunged[r]
-into the crowd of crazed people.[pcms]
+As we responded together, our senior nodded in confirmation[r]
+and then plunged into the crowd of crazed people.[pcms]
 
 ;//se082・コンクリートの上の足音（二人）
 ;//[se buf=0 storage="se082"]
@@ -795,17 +818,18 @@ Following our senior, Yuuho and I also...[pcms]
 
 *2985|
 [fc]
-I moved forward as if pushing through a crowd in a packed train to reach the[r]
-exit at the station we'd arrived at.[pcms]
+I moved forward as if pushing through a crowd in a packed[r]
+train to reach the exit at the station we'd arrived at.[pcms]
 
 *2986|
 [fc]
-...If only this was a crowded train during a date, how nice that would have[r]
-been, I couldn't help but think.[pcms]
+...If only this was a crowded train during a date, how nice[r]
+that would have been, I couldn't help but think.[pcms]
 
 *2987|
 [fc]
-A long-awaited date with Yuuho. And when we get home, Ren, Dad...[pcms]
+A long-awaited date with Yuuho. And when we get home, Ren,[r]
+Dad...[pcms]
 
 *2988|
 [fc]
@@ -819,12 +843,13 @@ Kousuke and Yuuho's uncle and aunt too... properly...[pcms]
 
 *2990|
 [fc]
-Just as I began to indulge in such fantasies, a scream from our senior snapped[r]
-me back to reality.[pcms]
+Just as I began to indulge in such fantasies, a scream from[r]
+our senior snapped me back to reality.[pcms]
 
 *2991|
 [fc]
-Our senior, who had never let out such screams before, was screaming![pcms]
+Our senior, who had never let out such screams before, was[r]
+screaming![pcms]
 
 *2992|
 [fc]
@@ -851,8 +876,8 @@ Our senior, who had never let out such screams before, was screaming![pcms]
 
 *2996|
 [fc]
-Our senior's long, beautiful blonde hair was being roughly grabbed and pulled by[r]
-the crazed students.[pcms]
+Our senior's long, beautiful blonde hair was being roughly[r]
+grabbed and pulled by the crazed students.[pcms]
 
 *2997|
 [fc]
@@ -885,7 +910,8 @@ the crazed students.[pcms]
 
 *3001|
 [fc]
-While being dragged by her hair, our senior was still... What should I do!?[pcms]
+While being dragged by her hair, our senior was still...[r]
+What should I do!?[pcms]
 
 *3002|
 [fc]
@@ -895,8 +921,8 @@ While being dragged by her hair, our senior was still... What should I do!?[pcms
 
 *3003|
 [fc]
-This time it was Yuuho's scream!! My firmly held hand was being pulled with a[r]
-thud.[pcms]
+This time it was Yuuho's scream!! My firmly held hand was[r]
+being pulled with a thud.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -911,13 +937,13 @@ thud.[pcms]
 
 *3005|
 [fc]
-Yuuho was being pulled away strongly. I gripped her hand tightly and pulled[r]
-back.[pcms]
+Yuuho was being pulled away strongly. I gripped her hand[r]
+tightly and pulled back.[pcms]
 
 *3006|
 [fc]
-But the force pulling Yuuho was so strong that I ended up being dragged along as[r]
-well.[pcms]
+But the force pulling Yuuho was so strong that I ended up[r]
+being dragged along as well.[pcms]
 
 *3007|
 [fc]
@@ -926,11 +952,13 @@ well.[pcms]
 
 *3008|
 [fc]
-Before I knew it, like Yuuho, my bag was being pulled, and I couldn't move.[pcms]
+Before I knew it, like Yuuho, my bag was being pulled, and I[r]
+couldn't move.[pcms]
 
 *3009|
 [fc]
-I was pulled to the floor by the hands reaching out one after another.[pcms]
+I was pulled to the floor by the hands reaching out one[r]
+after another.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -957,14 +985,16 @@ I never let go of Yuuho's hand even as I was pulled down.[pcms]
 
 *3013|
 [fc]
-The sound of an incredible number of rats squeaking grew closer.[pcms]
+The sound of an incredible number of rats squeaking grew[r]
+closer.[pcms]
 
 ;//文字をゆっくり表示
 
 *3014|
 [fc]
-The last thing I saw were the bright red eyes of animals the size of rabbits[r]
-squeezing through the gaps between the crazed humans.[pcms]
+The last thing I saw were the bright red eyes of animals the[r]
+size of rabbits squeezing through the gaps between the[r]
+crazed humans.[pcms]
 
 ;//se069・ネズミのかじる音
 [se buf=0 storage="se069"]
@@ -973,7 +1003,8 @@ squeezing through the gaps between the crazed humans.[pcms]
 
 *3015|
 [fc]
-I lost consciousness due to the intense pain running through my entire body.[pcms]
+I lost consciousness due to the intense pain running through[r]
+my entire body.[pcms]
 
 ;//ウェイト
 ;//地下道の背景一瞬？
@@ -983,19 +1014,21 @@ I lost consciousness due to the intense pain running through my entire body.[pcm
 
 *3016|
 [fc]
-How much time has passed since then? I was in a pitch-black world.[pcms]
+How much time has passed since then? I was in a pitch-black[r]
+world.[pcms]
 
 ;//se069・ネズミのかじる音
 [se buf=0 storage="se069"]
 
 *3017|
 [fc]
-I could only hear this sound for a long time. I can't see. But somewhere behind[r]
-my eyes feels really good.[pcms]
+I could only hear this sound for a long time. I can't see.[r]
+But somewhere behind my eyes feels really good.[pcms]
 
 *3018|
 [fc]
-Every time I hear a 'crunch crunch', some part of my body feels good.[pcms]
+Every time I hear a 'crunch crunch', some part of my body[r]
+feels good.[pcms]
 
 *3019|
 [fc]
@@ -1007,7 +1040,8 @@ This sensation continued for a long time.[pcms]
 
 *3021|
 [fc]
-I can understand now. That's what that man meant when he said it felt good...[pcms]
+I can understand now. That's what that man meant when he[r]
+said it felt good...[pcms]
 
 *3022|
 [fc]

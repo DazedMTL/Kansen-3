@@ -19,22 +19,25 @@
 
 *3486|
 [fc]
-"The reason Yoshino-san is acting strange must be the shock from being raped."[pcms]
+"The reason Yoshino-san is acting strange must be the shock[r]
+from being raped."[pcms]
 
 *3487|
 [fc]
-"With my barely functioning brain, I finally came to that conclusion."[pcms]
+"With my barely functioning brain, I finally came to that[r]
+conclusion."[pcms]
 
 *3488|
 [fc]
-"I've never been raped, nor do I want to be. But I can easily imagine that just[r]
-the thought of it would be enough to send someone into mental disarray."[pcms]
+"I've never been raped, nor do I want to be. But I can[r]
+easily imagine that just the thought of it would be enough[r]
+to send someone into mental disarray."[pcms]
 
 *3489|
 [fc]
 [ns]Wataru[nse]
-"Wait a minute, Yoshino-san. Calm down... I understand the shock you've been[r]
-through, but..."[pcms]
+"Wait a minute, Yoshino-san. Calm down... I understand the[r]
+shock you've been through, but..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="yoshino_c"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 ;mm 座標とレイヤがおかしくて分身しとる
@@ -44,8 +47,9 @@ through, but..."[pcms]
 [fc]
 [vo_mob s="yoshino0022"]
 [ns]Yoshino[nse]
-"Calm down? What are you talking about? I'm so psyched right now. I never knew[r]
-that having a dick inside my pussy or my ass could feel this good."[pcms]
+"Calm down? What are you talking about? I'm so psyched right[r]
+now. I never knew that having a dick inside my pussy or my[r]
+ass could feel this good."[pcms]
 
 *3491|
 [fc]
@@ -54,8 +58,8 @@ that having a dick inside my pussy or my ass could feel this good."[pcms]
 
 *3492|
 [fc]
-While continuing a conversation that made no sense, I took out my cell phone and[r]
-kept pressing 110 and 119.[pcms]
+While continuing a conversation that made no sense, I took[r]
+out my cell phone and kept pressing 110 and 119.[pcms]
 
 *3493|
 [fc]
@@ -63,12 +67,13 @@ I've never called 110 or 119 before in my life.[pcms]
 
 *3494|
 [fc]
-But since it's an emergency line, they should answer quickly.[pcms]
+But since it's an emergency line, they should answer[r]
+quickly.[pcms]
 
 *3495|
 [fc]
-Despite thinking this, the calls I alternated between making had no[r]
-responsemaybe due to poor signal or something else.[pcms]
+Despite thinking this, the calls I alternated between making[r]
+had no responsemaybe due to poor signal or something else.[pcms]
 
 *3496|
 [fc]
@@ -84,36 +89,38 @@ Why on earth...?[pcms]
 
 *3499|
 [fc]
-Maybe the sirens are blaring continuously because there are so many emergency[r]
-calls that they don't have enough operators.[pcms]
+Maybe the sirens are blaring continuously because there are[r]
+so many emergency calls that they don't have enough[r]
+operators.[pcms]
 
 *3500|
 [fc]
-I gave up on the unresponsive phone and decided to take Yoshino-san to a nearby[r]
-police box or hospital.[pcms]
+I gave up on the unresponsive phone and decided to take[r]
+Yoshino-san to a nearby police box or hospital.[pcms]
 
 *3501|
 [fc]
 [ns]Wataru[nse]
-"Damn... the phone's no good... Yoshino-san, let's head to a nearby police box[r]
-orwoah!!"[pcms]
+"Damn... the phone's no good... Yoshino-san, let's head to a[r]
+nearby police box orwoah!!"[pcms]
 
 *3502|
 [fc]
-Just as I thought that and turned around, Yoshino-san pounced on me and pushed[r]
-me to the ground.[pcms]
+Just as I thought that and turned around, Yoshino-san[r]
+pounced on me and pushed me to the ground.[pcms]
 
 ;//♯_ホワイトフラッシュ
 [白フラ]
 
 *3503|
 [fc]
-In an instant, my vision flashed white as my head was slammed hard against the[r]
-road.[pcms]
+In an instant, my vision flashed white as my head was[r]
+slammed hard against the road.[pcms]
 
 *3504|
 [fc]
-But before I could suffer from the pain, surprise took over me.[pcms]
+But before I could suffer from the pain, surprise took over[r]
+me.[pcms]
 
 ;[ChrSetEx layer=5 chbase="yoshino_c"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 ;mm 座標とレイヤがおかしくて分身しとる てか消してないからいらない
@@ -127,8 +134,8 @@ But before I could suffer from the pain, surprise took over me.[pcms]
 
 *3506|
 [fc]
-Yoshino-san, who had mounted me with the momentum of pushing me down, began to[r]
-pull down the zipper of my pants.[pcms]
+Yoshino-san, who had mounted me with the momentum of pushing[r]
+me down, began to pull down the zipper of my pants.[pcms]
 
 *3507|
 [fc]
@@ -146,13 +153,13 @@ pull down the zipper of my pants.[pcms]
 
 *3509|
 [fc]
-Yoshino-san pulled out my limp dick from inside my pants and swung it back and[r]
-forth.[pcms]
+Yoshino-san pulled out my limp dick from inside my pants and[r]
+swung it back and forth.[pcms]
 
 *3510|
 [fc]
-If it weren't for this situation... I wouldn't be able to control my sexual[r]
-desire.[pcms]
+If it weren't for this situation... I wouldn't be able to[r]
+control my sexual desire.[pcms]
 
 *3511|
 [fc]
@@ -170,8 +177,8 @@ But...[pcms]
 [fc]
 [vo_mob s="yoshino0025"]
 [ns]Yoshino[nse]
-"A limp dick is nothing but useless. If it's not useful... I might as well eat[r]
-it up♪"[pcms]
+"A limp dick is nothing but useless. If it's not useful... I[r]
+might as well eat it up♪"[pcms]
 
 *3514|
 [fc]
@@ -183,13 +190,15 @@ it up♪"[pcms]
 
 *3515|
 [fc]
-The moment I tried to get up in a panic, Yoshino-san's face twisted strangely[r]
-with a creepy smile, and then the ground started shaking.[pcms]
+The moment I tried to get up in a panic, Yoshino-san's face[r]
+twisted strangely with a creepy smile, and then the ground[r]
+started shaking.[pcms]
 
 *3516|
 [fc]
-Suddenly, darkness enveloped everything around me. Immediately after, a dull[r]
-pain shot through the back of my head.[pcms]
+Suddenly, darkness enveloped everything around me.[r]
+Immediately after, a dull pain shot through the back of my[r]
+head.[pcms]
 
 *3517|
 [fc]
@@ -205,7 +214,8 @@ Come to think of it, I hit my head really hard earlier...[pcms]
 
 *3519|
 [fc]
-The sound of Yoshino-san laughing crazily grew fainter and fainter...[pcms]
+The sound of Yoshino-san laughing crazily grew fainter and[r]
+fainter...[pcms]
 
 *3520|
 [fc]

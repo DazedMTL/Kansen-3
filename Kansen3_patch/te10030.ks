@@ -26,7 +26,8 @@
 
 *50|
 [fc]
-A golden shadow emerges in the dim darkness. Maruko-senpai came up next to me.[pcms]
+A golden shadow emerges in the dim darkness. Maruko-senpai[r]
+came up next to me.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -52,8 +53,9 @@ A golden shadow emerges in the dim darkness. Maruko-senpai came up next to me.[p
 *54|
 [fc]
 [ns]Wataru[nse]
-"No, it's not that there aren't any. It's true that the city lights make them[r]
-hard to see... Look, you can count a few first-magnitude stars."[pcms]
+"No, it's not that there aren't any. It's true that the city[r]
+lights make them hard to see... Look, you can count a few[r]
+first-magnitude stars."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -61,7 +63,8 @@ hard to see... Look, you can count a few first-magnitude stars."[pcms]
 [fc]
 [vo_mar s="maru_TE0114"]
 [ns]Margarita[nse]
-"Ah, indeed... So this is the "view" Ayase was talking about..."[pcms]
+"Ah, indeed... So this is the "view" Ayase was talking[r]
+about..."[pcms]
 
 *56|
 [fc]
@@ -92,8 +95,9 @@ hard to see... Look, you can count a few first-magnitude stars."[pcms]
 *60|
 [fc]
 [ns]Wataru[nse]
-"I want to thank you again. If it weren't for Maruko-senpai, I'm sure neither I,[r]
-Ren, Yuuho, nor Kousuke would be here. Without a doubt, by now..."[pcms]
+"I want to thank you again. If it weren't for Maruko-senpai,[r]
+I'm sure neither I, Ren, Yuuho, nor Kousuke would be here.[r]
+Without a doubt, by now..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -101,9 +105,10 @@ Ren, Yuuho, nor Kousuke would be here. Without a doubt, by now..."[pcms]
 [fc]
 [vo_mar s="maru_TE0117"]
 [ns]Margarita[nse]
-"Ayase, it's mutual. If it were just me, I might have escaped the academy but I[r]
-don't know if I could have survived after that. It's because of Ayase and Sai,[r]
-Ren and Yuuho, and Hiko... was it?"[pcms]
+"Ayase, it's mutual. If it were just me, I might have[r]
+escaped the academy but I don't know if I could have[r]
+survived after that. It's because of Ayase and Sai, Ren and[r]
+Yuuho, and Hiko... was it?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -111,9 +116,10 @@ Ren and Yuuho, and Hiko... was it?"[pcms]
 [fc]
 [vo_mar s="maru_TE0118"]
 [ns]Margarita[nse]
-"It's because everyone who has lived here was there that I was able to survive.[r]
-Everyone has lived and taken root in their own way. It's because of that[r]
-experience that I am alive today."[pcms]
+"It's because everyone who has lived here was there that I[r]
+was able to survive. Everyone has lived and taken root in[r]
+their own way. It's because of that experience that I am[r]
+alive today."[pcms]
 
 *63|
 [fc]
@@ -126,8 +132,9 @@ experience that I am alive today."[pcms]
 [fc]
 [vo_mar s="maru_TE0119"]
 [ns]Margarita[nse]
-"Ayase... Tomorrow's sweep operation will mark a milestone. But the road ahead[r]
-is still long. I'm counting on you for what's to come."[pcms]
+"Ayase... Tomorrow's sweep operation will mark a milestone.[r]
+But the road ahead is still long. I'm counting on you for[r]
+what's to come."[pcms]
 
 *65|
 [fc]
@@ -155,8 +162,8 @@ is still long. I'm counting on you for what's to come."[pcms]
 [fc]
 [vo_mar s="maru_TE0121"]
 [ns]Margarita[nse]
-"Ah- um... There's something I've been curious about for a while. To tell the[r]
-truth... that's why I came here."[pcms]
+"Ah- um... There's something I've been curious about for a[r]
+while. To tell the truth... that's why I came here."[pcms]
 
 [evcg storage="EV015k"][trans_c cross time=300]
 
@@ -220,8 +227,9 @@ truth... that's why I came here."[pcms]
 [fc]
 [vo_mar s="maru_TE0126"]
 [ns]Margarita[nse]
-"Since that day, Ayase has worked very hard. I know your efforts. That's why I[r]
-forgive you. Consider it special treatment."[pcms]
+"Since that day, Ayase has worked very hard. I know your[r]
+efforts. That's why I forgive you. Consider it special[r]
+treatment."[pcms]
 
 *78|
 [fc]
@@ -234,8 +242,8 @@ forgive you. Consider it special treatment."[pcms]
 [fc]
 [vo_mar s="maru_TE0127"]
 [ns]Margarita[nse]
-"No. Well, I am a woman after all... Sometimes... you know. But don't tell[r]
-anyone."[pcms]
+"No. Well, I am a woman after all... Sometimes... you know.[r]
+But don't tell anyone."[pcms]
 
 *80|
 [fc]
@@ -248,8 +256,8 @@ anyone."[pcms]
 [fc]
 [vo_mar s="maru_TE0128"]
 [ns]Margarita[nse]
-"That's an exaggeration. Well, maybe it was somewhat good that it was Ayase who[r]
-saw it."[pcms]
+"That's an exaggeration. Well, maybe it was somewhat good[r]
+that it was Ayase who saw it."[pcms]
 
 [evcg storage="EV015k"][trans_c cross time=300]
 
@@ -264,9 +272,10 @@ saw it."[pcms]
 [fc]
 [vo_mar s="maru_TE0129"]
 [ns]Margarita[nse]
-"If it had been someone else, they wouldn't have waited until now and would have[r]
-immediately confronted me and demanded silence. But with Ayase, I knew there[r]
-wouldn't be any careless talk..."[pcms]
+"If it had been someone else, they wouldn't have waited[r]
+until now and would have immediately confronted me and[r]
+demanded silence. But with Ayase, I knew there wouldn't be[r]
+any careless talk..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -274,14 +283,15 @@ wouldn't be any careless talk..."[pcms]
 [fc]
 [vo_mar s="maru_TE0130"]
 [ns]Margarita[nse]
-"I trusted you. I knew Ayase would be alright. That's why, until today when we[r]
-reached a milestone, I could focus on other things without worrying about it."[pcms]
+"I trusted you. I knew Ayase would be alright. That's why,[r]
+until today when we reached a milestone, I could focus on[r]
+other things without worrying about it."[pcms]
 
 *85|
 [fc]
 [ns]Wataru[nse]
-"...To think that someone like me could be trusted... Thank you so much. Maruko-[r]
-senpai..."[pcms]
+"...To think that someone like me could be trusted... Thank[r]
+you so much. Maruko- senpai..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -289,8 +299,9 @@ senpai..."[pcms]
 [fc]
 [vo_mar s="maru_TE0131"]
 [ns]Margarita[nse]
-"Don't say 'someone like me'. You've worked hard. Have more confidence. Ayase[r]
-has done everything properly up until now."[pcms]
+"Don't say 'someone like me'. You've worked hard. Have more[r]
+confidence. Ayase has done everything properly up until[r]
+now."[pcms]
 
 [evcg storage="EV015m"][trans_c cross time=300]
 
@@ -300,7 +311,8 @@ has done everything properly up until now."[pcms]
 [fc]
 [vo_mar s="maru_TE0132"]
 [ns]Margarita[nse]
-"From now on too, don't betray my trust... I'm counting on you."[pcms]
+"From now on too, don't betray my trust... I'm counting on[r]
+you."[pcms]
 
 *88|
 [fc]
@@ -309,8 +321,8 @@ has done everything properly up until now."[pcms]
 
 *89|
 [fc]
-I felt like crying. That someone recognized me properly. That Maruko-senpai[r]
-trusted me.[pcms]
+I felt like crying. That someone recognized me properly.[r]
+That Maruko-senpai trusted me.[pcms]
 
 [evcg storage="EV015j"][trans_c cross time=300]
 

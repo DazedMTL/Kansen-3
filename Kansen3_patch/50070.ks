@@ -21,7 +21,8 @@
 
 *403|
 [fc]
-As I hesitated, unable to make up my mind, the senior shouted.[pcms]
+As I hesitated, unable to make up my mind, the senior[r]
+shouted.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -29,7 +30,8 @@ As I hesitated, unable to make up my mind, the senior shouted.[pcms]
 [fc]
 [vo_mar s="maru1329"]
 [ns]Margarita[nse]
-"Can't decide? Then choose the one that's even slightly closer!"[pcms]
+"Can't decide? Then choose the one that's even slightly[r]
+closer!"[pcms]
 
 *405|
 [fc]
@@ -38,8 +40,9 @@ As I hesitated, unable to make up my mind, the senior shouted.[pcms]
 
 *406|
 [fc]
-It's not a big difference, but if you go through the alley from Center Street,[r]
-you'll come out right in front of "Kimesugi Takashi".[pcms]
+It's not a big difference, but if you go through the alley[r]
+from Center Street, you'll come out right in front of[r]
+"Kimesugi Takashi".[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇTÇOÇOÇTÇOÇ÷
 [jump storage="50050.ks" target=*50050_TOP]

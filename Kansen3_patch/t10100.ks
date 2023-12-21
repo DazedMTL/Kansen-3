@@ -47,8 +47,9 @@ The table is set for shabu-shabu, just as Ren requested.[pcms]
 
 *6029|
 [fc]
-It's summer, but the air conditioning inside the mansion is effective, and it's[r]
-a good menu that can replenish our stamina after a tiring day.[pcms]
+It's summer, but the air conditioning inside the mansion is[r]
+effective, and it's a good menu that can replenish our[r]
+stamina after a tiring day.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -56,13 +57,13 @@ a good menu that can replenish our stamina after a tiring day.[pcms]
 [fc]
 [vo_yuh s="yuho_T0022"]
 [ns]Yuuho[nse]
-"Yes, please help yourselves to more meat and vegetables! I've also prepared[r]
-plenty of dipping sauce."[pcms]
+"Yes, please help yourselves to more meat and vegetables![r]
+I've also prepared plenty of dipping sauce."[pcms]
 
 *6031|
 [fc]
-Yuuho and Ren come from the kitchen, carrying plates and pots full of additional[r]
-ingredients.[pcms]
+Yuuho and Ren come from the kitchen, carrying plates and[r]
+pots full of additional ingredients.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -70,16 +71,18 @@ ingredients.[pcms]
 [fc]
 [vo_ren s="ren_T0020"]
 [ns]Ren[nse]
-"For Jin-san, we have the 'Ren Special Anti-Metabolic Vegetable Pot'."[pcms]
+"For Jin-san, we have the 'Ren Special Anti-Metabolic[r]
+Vegetable Pot'."[pcms]
 
 *6033|
 [fc]
-Ren placed a special dish in front of Jin-san, who can't eat meat.[pcms]
+Ren placed a special dish in front of Jin-san, who can't eat[r]
+meat.[pcms]
 
 *6034|
 [fc]
-The "Ren Special Anti-Metabolic Vegetable Pot" is one of Ren's specialties,[r]
-often made for her father in winter...[pcms]
+The "Ren Special Anti-Metabolic Vegetable Pot" is one of[r]
+Ren's specialties, often made for her father in winter...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -91,15 +94,16 @@ often made for her father in winter...[pcms]
 
 *6036|
 [fc]
-Jin-san slightly relaxes his cheeks as Ren asks with concern.[pcms]
+Jin-san slightly relaxes his cheeks as Ren asks with[r]
+concern.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *6037|
 [fc]
 [ns]Jin[nse]
-"Sorry to make you worry. I'm vegetarian, but not for religious reasons, so I'm[r]
-not that strict about it."[pcms]
+"Sorry to make you worry. I'm vegetarian, but not for[r]
+religious reasons, so I'm not that strict about it."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -141,8 +145,8 @@ Suddenly, Shigeyoshi sluggishly shows his face.[pcms]
 
 *6042|
 [fc]
-As soon as he recognizes me, a dangerous light that could almost be called[r]
-murderous shines in Shigeyoshi's eyes.[pcms]
+As soon as he recognizes me, a dangerous light that could[r]
+almost be called murderous shines in Shigeyoshi's eyes.[pcms]
 
 *6043|
 [fc]
@@ -155,8 +159,9 @@ I can't afford to lose either.[pcms]
 
 *6045|
 [fc]
-If I show fear here, they'll think intimidation works and might start making[r]
-unreasonable demands again, using Ren and Yuuho as shields...[pcms]
+If I show fear here, they'll think intimidation works and[r]
+might start making unreasonable demands again, using Ren and[r]
+Yuuho as shields...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -167,8 +172,8 @@ unreasonable demands again, using Ren and Yuuho as shields...[pcms]
 
 *6047|
 [fc]
-Jin-san doesn't miss our silent standoff and directs his sharp gaze at both me[r]
-and Shigeyoshi.[pcms]
+Jin-san doesn't miss our silent standoff and directs his[r]
+sharp gaze at both me and Shigeyoshi.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -224,19 +229,19 @@ Kousuke and the others hurry into the shop.[pcms]
 [fc]
 [vo_miz s="mizuki_T0026"]
 [ns]Mizuki[nse]
-"No way, should we really be eating such delicious food while we're taking[r]
-refuge?"[pcms]
+"No way, should we really be eating such delicious food[r]
+while we're taking refuge?"[pcms]
 ;//＠不自然に明るい
 
 *6056|
 [fc]
-Their unusually bright and lively behavior could be due to guilt or[r]
-embarrassment from enjoying themselves alone...[pcms]
+Their unusually bright and lively behavior could be due to[r]
+guilt or embarrassment from enjoying themselves alone...[pcms]
 
 *6057|
 [fc]
-I wonder what kind of faces they would make if they knew we accidentally[r]
-overheard them...[pcms]
+I wonder what kind of faces they would make if they knew we[r]
+accidentally overheard them...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d24"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -244,15 +249,16 @@ overheard them...[pcms]
 [fc]
 [vo_mar s="maru_T0038"]
 [ns]Margarita[nse]
-"...Ahem!... That is... there's something I need to say before we eat... In[r]
-other words... that..."[pcms]
+"...Ahem!... That is... there's something I need to say[r]
+before we eat... In other words... that..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6059|
 [fc]
-The senior coughs to clear her throat and starts to speak but falters, ending up[r]
-saying "uhm" and "in other words" without actually saying anything.[pcms]
+The senior coughs to clear her throat and starts to speak[r]
+but falters, ending up saying "uhm" and "in other words"[r]
+without actually saying anything.[pcms]
 
 [ChrSetEx layer=3 chbase="mizu_b1"][ChrSetXY layer=3 x=-63 y=0]
 [ChrSetEx layer=4 chbase="kou_c1"][ChrSetXY layer=4 x=407 y=0][trans_c cross time=150]
@@ -272,12 +278,13 @@ saying "uhm" and "in other words" without actually saying anything.[pcms]
 
 *6062|
 [fc]
-The senior who usually leads the conversation well has failed, and we fall into[r]
-an awkward silence.[pcms]
+The senior who usually leads the conversation well has[r]
+failed, and we fall into an awkward silence.[pcms]
 
 *6063|
 [fc]
-Only the bubbling sound of the simmering broth dominates the room...[pcms]
+Only the bubbling sound of the simmering broth dominates the[r]
+room...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -288,8 +295,8 @@ Only the bubbling sound of the simmering broth dominates the room...[pcms]
 
 *6065|
 [fc]
-Jin-san starts putting vegetables into the pot without paying any mind to us who[r]
-are blushing and silent.[pcms]
+Jin-san starts putting vegetables into the pot without[r]
+paying any mind to us who are blushing and silent.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -300,8 +307,8 @@ are blushing and silent.[pcms]
 
 *6067|
 [fc]
-Jin-san's gaze sweeps over us frozen in place and finally settles on Kousuke and[r]
-Mizuki.[pcms]
+Jin-san's gaze sweeps over us frozen in place and finally[r]
+settles on Kousuke and Mizuki.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -314,7 +321,8 @@ Mizuki.[pcms]
 
 *6069|
 [fc]
-With that said, he takes some cooked vegetables and dips them into the sauce.[pcms]
+With that said, he takes some cooked vegetables and dips[r]
+them into the sauce.[pcms]
 
 [ChrSetEx layer=3 chbase="mizu_b9"][ChrSetXY layer=3 x=-63 y=0]
 [ChrSetEx layer=4 chbase="kou_c8"][ChrSetXY layer=4 x=387 y=0][trans_c cross time=150]
@@ -330,7 +338,8 @@ With that said, he takes some cooked vegetables and dips them into the sauce.[pc
 
 *6071|
 [fc]
-Kousuke and Mizuki look at each other and then shrug their shoulders.[pcms]
+Kousuke and Mizuki look at each other and then shrug their[r]
+shoulders.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -354,7 +363,8 @@ Kousuke and Mizuki look at each other and then shrug their shoulders.[pcms]
 *6075|
 [fc]
 [ns]Wataru[nse]
-"Not just Jin-san and me. Yuuho, Ren, and Maruko-senpai heard it too."[pcms]
+"Not just Jin-san and me. Yuuho, Ren, and Maruko-senpai[r]
+heard it too."[pcms]
 
 [chara_int][ChrSetEx layer=3 chbase="mizu_b20"][ChrSetXY layer=3 x=-63 y=0]
 [ChrSetEx layer=4 chbase="kou_c5"][ChrSetXY layer=4 x=387 y=0][trans_c cross time=150]
@@ -370,8 +380,8 @@ Kousuke and Mizuki look at each other and then shrug their shoulders.[pcms]
 
 *6077|
 [fc]
-The boiling broth spilled over, and our table was enveloped in a grand cloud of[r]
-steam.[pcms]
+The boiling broth spilled over, and our table was enveloped[r]
+in a grand cloud of steam.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

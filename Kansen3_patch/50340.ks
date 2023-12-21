@@ -18,7 +18,8 @@
 
 *1696|
 [fc]
-While driving the point home, the senior nodded emphatically.[pcms]
+While driving the point home, the senior nodded[r]
+emphatically.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -43,8 +44,8 @@ Kousuke promptly raised his hand.[pcms]
 *1700|
 [fc]
 [ns]Kousuke[nse]
-"If that's the case, count me in too. That hall is pretty spacious, so we'll[r]
-need two people, right?"[pcms]
+"If that's the case, count me in too. That hall is pretty[r]
+spacious, so we'll need two people, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -59,7 +60,8 @@ need two people, right?"[pcms]
 *1702|
 [fc]
 [ns]Kousuke[nse]
-"That's what I'm sayingthe bait role is the most dangerous one!"[pcms]
+"That's what I'm sayingthe bait role is the most dangerous[r]
+one!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -67,7 +69,8 @@ need two people, right?"[pcms]
 [fc]
 [vo_yuh s="yuho1541"]
 [ns]Yuuho[nse]
-"No worries, no worries. I won't come out of the alley, and I'll be careful."[pcms]
+"No worries, no worries. I won't come out of the alley, and[r]
+I'll be careful."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -75,13 +78,14 @@ need two people, right?"[pcms]
 [fc]
 [vo_ren s="ren1365"]
 [ns]Ren[nse]
-"I-I'll help too! I don't want Yuuho-chan to be in danger all by herself..."[pcms]
+"I-I'll help too! I don't want Yuuho-chan to be in danger[r]
+all by herself..."[pcms]
 ;//ÅóóIîøÇ…ó«Ç¢Ç∆Ç±ÇÎÇéÊÇÁÇÍÇΩÇ≠Ç»Ç¢ä¥Ç∂
 
 *1705|
 [fc]
-Inspired by Yuuho's carefree attitude and Kousuke's exchange, even Ren[r]
-volunteered to join the plan.[pcms]
+Inspired by Yuuho's carefree attitude and Kousuke's[r]
+exchange, even Ren volunteered to join the plan.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -93,8 +97,8 @@ volunteered to join the plan.[pcms]
 
 *1707|
 [fc]
-Mizuki showed a moment of hesitation, but finally took a deep breath and[r]
-declared.[pcms]
+Mizuki showed a moment of hesitation, but finally took a[r]
+deep breath and declared.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -118,8 +122,8 @@ declared.[pcms]
 
 *1711|
 [fc]
-I felt like Mizuki had returned to being one of us, just like old times... It[r]
-suddenly made me very happy.[pcms]
+I felt like Mizuki had returned to being one of us, just[r]
+like old times... It suddenly made me very happy.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k21"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -134,13 +138,13 @@ suddenly made me very happy.[pcms]
 [fc]
 [vo_miz s="mizuki0288"]
 [ns]Mizuki[nse]
-"After all... it's for my own sake, right? I don't want to be in the same[r]
-building as those guys either."[pcms]
+"After all... it's for my own sake, right? I don't want to[r]
+be in the same building as those guys either."[pcms]
 
 *1714|
 [fc]
-Kousuke, grinning creepily with joy, listened as Mizuki made her embarrassed[r]
-excuses.[pcms]
+Kousuke, grinning creepily with joy, listened as Mizuki made[r]
+her embarrassed excuses.[pcms]
 
 *1715|
 [fc]
@@ -167,8 +171,9 @@ Involuntarily, our gazes turned towards Jin and Shigeyoshi.[pcms]
 
 *1719|
 [fc]
-Though they initially showed no reaction, they couldn't help but realize what[r]
-was expected of them when everyone's attention was on them.[pcms]
+Though they initially showed no reaction, they couldn't help[r]
+but realize what was expected of them when everyone's[r]
+attention was on them.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -176,7 +181,8 @@ was expected of them when everyone's attention was on them.[pcms]
 [fc]
 [vo_mar s="maru1500"]
 [ns]Margarita[nse]
-"You both plan to stay here, right? Then I would appreciate your cooperation."[pcms]
+"You both plan to stay here, right? Then I would appreciate[r]
+your cooperation."[pcms]
 ;//ÅóåµÇµÇ¢å˚í≤Ç≈
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
@@ -188,15 +194,16 @@ was expected of them when everyone's attention was on them.[pcms]
 
 *1722|
 [fc]
-Facing stern words from senior Maruko, Shigeyoshi turned away.[pcms]
+Facing stern words from senior Maruko, Shigeyoshi turned[r]
+away.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1723|
 [fc]
 [ns]Kousuke[nse]
-"Come on! Don't mess around! If you're gonna act like that, then just get out of[r]
-here!"[pcms]
+"Come on! Don't mess around! If you're gonna act like that,[r]
+then just get out of here!"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -211,16 +218,17 @@ here!"[pcms]
 *1725|
 [fc]
 [ns]Jin[nse]
-"...I've done my part. When we first entered this building, we locked the fire[r]
-doors just in casethat was our contribution."[pcms]
+"...I've done my part. When we first entered this building,[r]
+we locked the fire doors just in casethat was our[r]
+contribution."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1726|
 [fc]
 [ns]Jin[nse]
-"Besides, it's your responsibility for drawing those guys out front. Clean up[r]
-your own mess."[pcms]
+"Besides, it's your responsibility for drawing those guys[r]
+out front. Clean up your own mess."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -231,16 +239,16 @@ your own mess."[pcms]
 
 *1728|
 [fc]
-Unable to retort against Jin's logically sound argument, Kousuke bit his lip in[r]
-frustration.[pcms]
+Unable to retort against Jin's logically sound argument,[r]
+Kousuke bit his lip in frustration.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1729|
 [fc]
 [ns]Jin[nse]
-"Well, if you guys seem to be in a tight spot, I'll help you out then. So don't[r]
-worry."[pcms]
+"Well, if you guys seem to be in a tight spot, I'll help you[r]
+out then. So don't worry."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -252,7 +260,8 @@ worry."[pcms]
 
 *1731|
 [fc]
-As Mizuki tried to admonish Jin, Yuuho waved her hand with a smile.[pcms]
+As Mizuki tried to admonish Jin, Yuuho waved her hand with a[r]
+smile.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -268,8 +277,8 @@ As Mizuki tried to admonish Jin, Yuuho waved her hand with a smile.[pcms]
 [fc]
 [vo_mar s="maru1501"]
 [ns]Margarita[nse]
-"If it's about being prepared as a mobile unit for unexpected situations, then[r]
-yes."[pcms]
+"If it's about being prepared as a mobile unit for[r]
+unexpected situations, then yes."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -288,8 +297,8 @@ yes."[pcms]
 
 *1736|
 [fc]
-Bowing cheerfully to Jin, Yuuho seemed to catch him slightly off guard with her[r]
-brightness.[pcms]
+Bowing cheerfully to Jin, Yuuho seemed to catch him slightly[r]
+off guard with her brightness.[pcms]
 
 *1737|
 [fc]
@@ -301,8 +310,8 @@ Yuuho turned back to me and winked with one eye.[pcms]
 [fc]
 [vo_yuh s="yuho1544"]
 [ns]Yuuho[nse]
-"Teamwork is important in situations like this! Let's all work hard and survive[r]
-together!"[pcms]
+"Teamwork is important in situations like this! Let's all[r]
+work hard and survive together!"[pcms]
 
 *1739|
 [fc]
@@ -310,7 +319,8 @@ That's right... That was the case.[pcms]
 
 *1740|
 [fc]
-We have to ensure the safety of everyone here first and foremost.[pcms]
+We have to ensure the safety of everyone here first and[r]
+foremost.[pcms]
 
 *1741|
 [fc]

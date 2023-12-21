@@ -37,7 +37,8 @@ Gong gong... gong gong...[pcms]
 
 *4482|
 [fc]
-The hatch that was supposed to be tightly sealed is being knocked on already.[pcms]
+The hatch that was supposed to be tightly sealed is being[r]
+knocked on already.[pcms]
 
 ;//se043ÅEã‡ëÆÇÃî¬Çí@Ç≠âπ
 [se buf=0 storage="se043"]
@@ -58,18 +59,19 @@ Slowly and mechanically, in a regular rhythm.[pcms]
 
 *4485|
 [fc]
-For a moment, I can't help but think it might be Yuuho, who we just gave up on[r]
-saving.[pcms]
+For a moment, I can't help but think it might be Yuuho, who[r]
+we just gave up on saving.[pcms]
 
 *4486|
 [fc]
-With her physical strength, Yuuho could have escaped that enclosure by herself,[r]
-and she must have seen us escaping underground and followed us...[pcms]
+With her physical strength, Yuuho could have escaped that[r]
+enclosure by herself, and she must have seen us escaping[r]
+underground and followed us...[pcms]
 
 *4487|
 [fc]
-It must be so. Yuuho, the swimmer with a promising future and the idol of the[r]
-town and school...[pcms]
+It must be so. Yuuho, the swimmer with a promising future[r]
+and the idol of the town and school...[pcms]
 
 *4488|
 [fc]
@@ -175,8 +177,8 @@ Gong gong! Gong! Gong gong! Gong gong![pcms]
 
 *4495|
 [fc]
-Gong!! Gong gong! Gong gong! Gong! Gong! Gong gong! Gong!! Gong gong! Gong[r]
-gong!! Gong![pcms]
+Gong!! Gong gong! Gong gong! Gong! Gong! Gong gong! Gong!![r]
+Gong gong! Gong gong!! Gong![pcms]
 
 *4496|
 [fc]
@@ -185,8 +187,8 @@ gong!! Gong![pcms]
 
 *4496a|
 [fc]
-Like a sudden downpour, the sounds hitting the hatch from all over are not those[r]
-of a human with a heart.[pcms]
+Like a sudden downpour, the sounds hitting the hatch from[r]
+all over are not those of a human with a heart.[pcms]
 
 *4496b|
 [fc]
@@ -194,9 +196,9 @@ It's them![pcms]
 
 *4497|
 [fc]
-Instinctively moving... If I were to borrow the words of Senior Margarita, it's[r]
-not humans but "beasts in human form" that are swarming and continuously[r]
-pounding on the hatch![pcms]
+Instinctively moving... If I were to borrow the words of[r]
+Senior Margarita, it's not humans but "beasts in human form"[r]
+that are swarming and continuously pounding on the hatch![pcms]
 
 ;//SEÅEã‡ëÆÇÃî¬Çí@Ç≠âπ
 ;//Ç≤ÇÒÇ≤ÇÒÇÕÉtÉHÉìÉgëÂÇ´ÇﬂÇ≈ÅAì¡éÍÉtÉHÉìÉgÅH
@@ -289,7 +291,8 @@ Gogon! Gon! Gogon! Gogogon!![pcms]
 
 *4504|
 [fc]
-Gogon!! Gogon! Gong gong! Gon! Gon! Gong gong! Gon!! Gong gong! Gong gong!! Gon![pcms]
+Gogon!! Gogon! Gong gong! Gon! Gon! Gong gong! Gon!! Gong[r]
+gong! Gong gong!! Gon![pcms]
 
 *4505|
 [fc]
@@ -361,7 +364,8 @@ What hit my back was Senior Margarita's back.[pcms]
 
 *4516|
 [fc]
-Ren looks at me with concern. At least, I shouldn't worry her.[pcms]
+Ren looks at me with concern. At least, I shouldn't worry[r]
+her.[pcms]
 
 *4517|
 [fc]
@@ -374,21 +378,23 @@ Ren looks at me with concern. At least, I shouldn't worry her.[pcms]
 [fc]
 [vo_mar s="maru0548"]
 [ns]Margarita[nse]
-"Your voice is trembling... That will only make your sister worry more."[pcms]
+"Your voice is trembling... That will only make your sister[r]
+worry more."[pcms]
 
 *4519|
 [fc]
 [vo_mar s="maru0549"]
 [ns]Margarita[nse]
-"Indeed, being cowardly can help one survive. Being cowardly also means being[r]
-cautious. Foolhardy bravery without fear leads to ruin over trivial matters."[pcms]
+"Indeed, being cowardly can help one survive. Being cowardly[r]
+also means being cautious. Foolhardy bravery without fear[r]
+leads to ruin over trivial matters."[pcms]
 
 *4520|
 [fc]
 [vo_mar s="maru0550"]
 [ns]Margarita[nse]
-"But being too cowardly means sitting still in fear, waiting for death. It's[r]
-meaningless to be defeated by fear."[pcms]
+"But being too cowardly means sitting still in fear, waiting[r]
+for death. It's meaningless to be defeated by fear."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -396,12 +402,13 @@ meaningless to be defeated by fear."[pcms]
 [fc]
 [vo_mar s="maru0551"]
 [ns]Margarita[nse]
-"Control your fear, Ayase!! Otherwise, you won't be able to protect your sister,[r]
-will you?"[pcms]
+"Control your fear, Ayase!! Otherwise, you won't be able to[r]
+protect your sister, will you?"[pcms]
 
 *4522|
 [fc]
-That's right. Ren is weak! I have to protect her. I must protect her.[pcms]
+That's right. Ren is weak! I have to protect her. I must[r]
+protect her.[pcms]
 
 *4523|
 [fc]
@@ -468,13 +475,14 @@ Gogon!! Gogogon!![pcms]
 
 *4533|
 [fc]
-The sound of banging on the hatch grows louder. It's hard to make out what[r]
-they're saying, but the moans of the crazed people seem to seep through as well.[pcms]
+The sound of banging on the hatch grows louder. It's hard to[r]
+make out what they're saying, but the moans of the crazed[r]
+people seem to seep through as well.[pcms]
 
 *4534|
 [fc]
-However, it's clear that it's getting stronger and louder than before. Surely,[r]
-the number of people is increasing.[pcms]
+However, it's clear that it's getting stronger and louder[r]
+than before. Surely, the number of people is increasing.[pcms]
 
 *4535|
 [fc]
@@ -499,7 +507,8 @@ the number of people is increasing.[pcms]
 
 *4538|
 [fc]
-Ren begins to cry, hugging her violin case and spilling tears.[pcms]
+Ren begins to cry, hugging her violin case and spilling[r]
+tears.[pcms]
 
 *4539|
 [fc]
@@ -521,8 +530,8 @@ Ren begins to cry, hugging her violin case and spilling tears.[pcms]
 
 *4542|
 [fc]
-I hugged Ren firmly, intending to make up for the panic I had succumbed to[r]
-earlier due to fear.[pcms]
+I hugged Ren firmly, intending to make up for the panic I[r]
+had succumbed to earlier due to fear.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -540,7 +549,8 @@ Kousuke is muttering to himself as if talking in his sleep.[pcms]
 
 *4545|
 [fc]
-Even Kousuke seems to be on the verge of panic due to the current situation...[pcms]
+Even Kousuke seems to be on the verge of panic due to the[r]
+current situation...[pcms]
 
 *4546|
 [fc]
@@ -561,7 +571,8 @@ I hugged Ren strongly once again.[pcms]
 [fc]
 [vo_mar s="maru0553"]
 [ns]Margarita[nse]
-"For now, let's keep moving forward. There's no other path anyway..."[pcms]
+"For now, let's keep moving forward. There's no other path[r]
+anyway..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -569,16 +580,17 @@ I hugged Ren strongly once again.[pcms]
 [fc]
 [vo_mar s="maru0554"]
 [ns]Margarita[nse]
-"It's unlikely that hatch will be broken through, but we can't predict what will[r]
-happen. Besides, staying here won't solve anything."[pcms]
+"It's unlikely that hatch will be broken through, but we[r]
+can't predict what will happen. Besides, staying here won't[r]
+solve anything."[pcms]
 
 *4551|
 [fc]
 [vo_mar s="maru0555"]
 [ns]Margarita[nse]
-"If we stay at a dead end, we won't have any more options to escape. They might[r]
-come from the opposite side as well. To confirm the situation, we must move[r]
-forward first!"[pcms]
+"If we stay at a dead end, we won't have any more options to[r]
+escape. They might come from the opposite side as well. To[r]
+confirm the situation, we must move forward first!"[pcms]
 
 *4552|
 [fc]
@@ -602,8 +614,8 @@ forward first!"[pcms]
 
 *4555|
 [fc]
-Ren responded weakly but surely to her senior. Kousuke... still seemed[r]
-unconvinced and remained silent.[pcms]
+Ren responded weakly but surely to her senior. Kousuke...[r]
+still seemed unconvinced and remained silent.[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇSÇQÇOÇPÇOÇ÷
 [jump storage="42010.ks" target=*42010_TOP]

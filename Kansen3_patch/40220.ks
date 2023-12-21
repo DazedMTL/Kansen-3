@@ -33,7 +33,8 @@
 [fc]
 [vo_yuh s="yuho0883"]
 [ns]Yuuho[nse]
-"I wonder if the medicine worked... He seems to have calmed down."[pcms]
+"I wonder if the medicine worked... He seems to have calmed[r]
+down."[pcms]
 
 *1684|
 [fc]
@@ -43,21 +44,23 @@
 
 *1685|
 [fc]
-Despite being so badly injured, I think it's amazing that the boss has held on[r]
-this long.[pcms]
+Despite being so badly injured, I think it's amazing that[r]
+the boss has held on this long.[pcms]
 
 *1686|
 [fc]
-But with the medicine taking effect and due to exhaustion, the pained noises[r]
-have ceased, and now he seems to be falling asleep.[pcms]
+But with the medicine taking effect and due to exhaustion,[r]
+the pained noises have ceased, and now he seems to be[r]
+falling asleep.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1687|
 [fc]
 [ns]Kousuke[nse]
-"Everyone, let's prepare to move from here. Of course, we'll move after Wataru[r]
-comes back. Before that, let's gather our belongings."[pcms]
+"Everyone, let's prepare to move from here. Of course, we'll[r]
+move after Wataru comes back. Before that, let's gather our[r]
+belongings."[pcms]
 
 *1688|
 [fc]
@@ -65,32 +68,38 @@ Eh...? Are we going to wake up the boss again?[pcms]
 
 *1689|
 [fc]
-But indeed, it might be better to nurse him somewhere cleaner than here.[pcms]
+But indeed, it might be better to nurse him somewhere[r]
+cleaner than here.[pcms]
 
 *1690|
 [fc]
-Plus, if Onii-chan is with us, everything will be okay. Definitely.[pcms]
+Plus, if Onii-chan is with us, everything will be okay.[r]
+Definitely.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1691|
 [fc]
-Just as Ko-chan said, we collected our belongings and gathered around the boss.[pcms]
+Just as Ko-chan said, we collected our belongings and[r]
+gathered around the boss.[pcms]
 
 *1692|
 [fc]
-Looking at the boss, I noticed sweat beading on his forehead. Even though it's[r]
-summer, we can't just leave him like this.[pcms]
+Looking at the boss, I noticed sweat beading on his[r]
+forehead. Even though it's summer, we can't just leave him[r]
+like this.[pcms]
 
 *1693|
 [fc]
-As I took out a towel to wipe his sweat, suddenly my pocket started to vibrate.[pcms]
+As I took out a towel to wipe his sweat, suddenly my pocket[r]
+started to vibrate.[pcms]
 
 *1694|
 [fc]
-Onii-chan's cell phone had received something. In a panic, I took out the phone[r]
-and saw the display read "Mail Received 1".[pcms]
+Onii-chan's cell phone had received something. In a panic, I[r]
+took out the phone and saw the display read "Mail Received[r]
+1".[pcms]
 
 *1695|
 [fc]
@@ -118,8 +127,8 @@ and saw the display read "Mail Received 1".[pcms]
 
 *1698|
 [fc]
-I opened the phone and pressed the mail button. Ko-chan and Yuuho-chan both[r]
-focused their gaze on my fingertips.[pcms]
+I opened the phone and pressed the mail button. Ko-chan and[r]
+Yuuho-chan both focused their gaze on my fingertips.[pcms]
 
 *1699|
 [fc]
@@ -142,33 +151,34 @@ Dad is safe at this stage...[pcms]
 
 *1703|
 [fc]
-This kind of mail is reassuring no matter how many times I read it in such a[r]
-situation.[pcms]
+This kind of mail is reassuring no matter how many times I[r]
+read it in such a situation.[pcms]
 
 *1704|
 [fc]
-I couldn't help but let my face break into a smile from relief, but I can't be[r]
-completely reassured without reading the content.[pcms]
+I couldn't help but let my face break into a smile from[r]
+relief, but I can't be completely reassured without reading[r]
+the content.[pcms]
 
 *1705|
 [fc]
-I held back the tears I wanted to cry out and began reading the text of the[r]
-mail.[pcms]
+I held back the tears I wanted to cry out and began reading[r]
+the text of the mail.[pcms]
 
 *1706|
 [fc]
-"The Mouse Kingdom shelter has been attacked by a large flock of crows and it's[r]
-a mess."[pcms]
+"The Mouse Kingdom shelter has been attacked by a large[r]
+flock of crows and it's a mess."[pcms]
 
 *1707|
 [fc]
-"We are safe inside the building, but we don't know what happened to the people[r]
-who were in the tents outside--"[pcms]
+"We are safe inside the building, but we don't know what[r]
+happened to the people who were in the tents outside--"[pcms]
 
 *1708|
 [fc]
-"I have no idea why those crows are flocking together and attacking people. You[r]
-also, 'be careful of them'."[pcms]
+"I have no idea why those crows are flocking together and[r]
+attacking people. You also, 'be careful of them'."[pcms]
 
 *1709|
 [fc]
@@ -179,12 +189,14 @@ also, 'be careful of them'."[pcms]
 
 *1710|
 [fc]
-The content of the mail included a report of his own situation as well as words[r]
-of concern for Onii-chan... for us.[pcms]
+The content of the mail included a report of his own[r]
+situation as well as words of concern for Onii-chan... for[r]
+us.[pcms]
 
 *1711|
 [fc]
-...Dad, who even worries about Onii-chan who is not related by blood.[pcms]
+...Dad, who even worries about Onii-chan who is not related[r]
+by blood.[pcms]
 
 *1712|
 [fc]
@@ -192,8 +204,8 @@ This made my tear ducts loosen.[pcms]
 
 *1713|
 [fc]
-I want to live happily again with my kind dad and my beloved Onii-chan... with[r]
-everyone smiling together...[pcms]
+I want to live happily again with my kind dad and my beloved[r]
+Onii-chan... with everyone smiling together...[pcms]
 
 *1714|
 [fc]
@@ -270,8 +282,8 @@ When did this happen?! He was supposed to be asleep...[pcms]
 
 *1726|
 [fc]
-As I turned towards the direction of the boss's moaning, a dull red light caught[r]
-my eye.[pcms]
+As I turned towards the direction of the boss's moaning, a[r]
+dull red light caught my eye.[pcms]
 
 *1727|
 [fc]
@@ -299,12 +311,14 @@ my eye.[pcms]
 
 *1730|
 [fc]
-Upon closer inspection, it was the boss's eyes, bearing an eerie smile.[pcms]
+Upon closer inspection, it was the boss's eyes, bearing an[r]
+eerie smile.[pcms]
 
 *1731|
 [fc]
-In the dim light, seeing that face made me freeze like a frog being stared down[r]
-by a snake, unable to move even a finger.[pcms]
+In the dim light, seeing that face made me freeze like a[r]
+frog being stared down by a snake, unable to move even a[r]
+finger.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -335,8 +349,9 @@ by a snake, unable to move even a finger.[pcms]
 *1735|
 [fc]
 [ns]Boss[nse]
-"Gubaaa! You seem so soft... hehe!! But your lower part seems tight~!! It must[r]
-feel good... Your pussy is nice, young lady!"[pcms]
+"Gubaaa! You seem so soft... hehe!! But your lower part[r]
+seems tight~!! It must feel good... Your pussy is nice,[r]
+young lady!"[pcms]
 
 *1736|
 [fc]
@@ -358,7 +373,8 @@ Has the boss also become like those infected?![pcms]
 
 *1739|
 [fc]
-Ko-chan took a flying kick stance towards the boss who wouldn't let go of us.[pcms]
+Ko-chan took a flying kick stance towards the boss who[r]
+wouldn't let go of us.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -392,12 +408,13 @@ Ko-chan took a flying kick stance towards the boss who wouldn't let go of us.[pc
 
 *1743|
 [fc]
-Without a chance to raise his voice, Ko-chan's foot struck the boss, forcefully[r]
-knocking him away.[pcms]
+Without a chance to raise his voice, Ko-chan's foot struck[r]
+the boss, forcefully knocking him away.[pcms]
 
 *1744|
 [fc]
-Suddenly freed from the boss's grip, we stumbled backward and fell on our butts.[pcms]
+Suddenly freed from the boss's grip, we stumbled backward[r]
+and fell on our butts.[pcms]
 
 *1745|
 [fc]
@@ -452,7 +469,8 @@ Thanks to you, we're saved... But my butt hurts a little.[pcms]
 *1752|
 [fc]
 [ns]Boss[nse]
-"Bubaaa...gah...guh...gugguggug!! I can smell pussy, is it over here?"[pcms]
+"Bubaaa...gah...guh...gugguggug!! I can smell pussy, is it[r]
+over here?"[pcms]
 
 *1753|
 [fc]
@@ -484,7 +502,8 @@ That was the only word that came to mind.[pcms]
 
 *1757|
 [fc]
-Face covered in blood. Body trembling in small, rapid shakes.[pcms]
+Face covered in blood. Body trembling in small, rapid[r]
+shakes.[pcms]
 
 *1758|
 [fc]
@@ -505,7 +524,8 @@ All of it paralyzed my brain.[pcms]
 
 *1761|
 [fc]
-The only command my paralyzed brain could send to my body was to scream.[pcms]
+The only command my paralyzed brain could send to my body[r]
+was to scream.[pcms]
 
 *1762|
 [fc]
@@ -517,8 +537,8 @@ It couldn't issue any other command.[pcms]
 [fc]
 [vo_yuh s="yuho0892"]
 [ns]Yuuho[nse]
-"No good! Let's run! Ren-chan, come on, stand up! Hurry, Kousuke! Let's[r]
-escape!!"[pcms]
+"No good! Let's run! Ren-chan, come on, stand up! Hurry,[r]
+Kousuke! Let's escape!!"[pcms]
 ;//＠後半、重いモノを持ち上げるように
 
 *1764|
@@ -564,8 +584,8 @@ And my brother again!![pcms]
 *1771|
 [fc]
 [ns]Kousuke[nse]
-"Damn it!! Just die quietly!! We're running away, we can't deal with that[r]
-thing!!"[pcms]
+"Damn it!! Just die quietly!! We're running away, we can't[r]
+deal with that thing!!"[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -618,7 +638,8 @@ Finally, my legs started to obey me.[pcms]
 
 *1781|
 [fc]
-With Ko-chan leading the way, we charged towards the door and burst through it.[pcms]
+With Ko-chan leading the way, we charged towards the door[r]
+and burst through it.[pcms]
 
 ;//@konya char_clear
 
@@ -647,13 +668,13 @@ With Ko-chan leading the way, we charged towards the door and burst through it.[
 
 *1784|
 [fc]
-Following Ko-chan, who had leaped forward with great momentum, we too slammed[r]
-into the door.[pcms]
+Following Ko-chan, who had leaped forward with great[r]
+momentum, we too slammed into the door.[pcms]
 
 *1785|
 [fc]
-But because the door opened more easily than expected, we tumbled to the floor[r]
-from our own momentum.[pcms]
+But because the door opened more easily than expected, we[r]
+tumbled to the floor from our own momentum.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -664,7 +685,8 @@ from our own momentum.[pcms]
 
 *1787|
 [fc]
-Ignoring us who couldn't move, Ko-chan ran to close the door.[pcms]
+Ignoring us who couldn't move, Ko-chan ran to close the[r]
+door.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -674,7 +696,8 @@ Ignoring us who couldn't move, Ko-chan ran to close the door.[pcms]
 
 *1788|
 [fc]
-And just like that, as if nothing had happened, the door was closed again.[pcms]
+And just like that, as if nothing had happened, the door was[r]
+closed again.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -688,8 +711,8 @@ And just like that, as if nothing had happened, the door was closed again.[pcms]
 
 *1790|
 [fc]
-Fearing that Boss might come chasing after us, we stared at the closed door with[r]
-tense expressions.[pcms]
+Fearing that Boss might come chasing after us, we stared at[r]
+the closed door with tense expressions.[pcms]
 
 
 ;//〆：ザッピング終了
@@ -723,14 +746,16 @@ tense expressions.[pcms]
 
 *1793|
 [fc]
-Ren, with her face drenched in tears, ran towards me screaming and hugged me.[pcms]
+Ren, with her face drenched in tears, ran towards me[r]
+screaming and hugged me.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1794|
 [fc]
-What on earth happened? Ko-suke and Yuuho both looked completely drained.[pcms]
+What on earth happened? Ko-suke and Yuuho both looked[r]
+completely drained.[pcms]
 
 *1795|
 [fc]
@@ -743,7 +768,8 @@ What on earth happened? Ko-suke and Yuuho both looked completely drained.[pcms]
 [fc]
 [vo_yuh s="yuho0896"]
 [ns]Yuuho[nse]
-"Suddenly, Boss started acting... crazy... He attacked Ren-chan and Ko-suke..."[pcms]
+"Suddenly, Boss started acting... crazy... He attacked Ren-[r]
+chan and Ko-suke..."[pcms]
 ;//〆：親分の表記の整合性を確認
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
@@ -762,14 +788,15 @@ What on earth happened? Ko-suke and Yuuho both looked completely drained.[pcms]
 *1798|
 [fc]
 [ns]Boss[nse]
-"Heeekoooooo!! Where are you!! Heekooooo!!! Ahahaha! I feel so good, hey!! Bring[r]
-me women! Bring me women!!"[pcms]
+"Heeekoooooo!! Where are you!! Heekooooo!!! Ahahaha! I feel[r]
+so good, hey!! Bring me women! Bring me women!!"[pcms]
 
 *1799|
 [fc]
-The growling voice coming from behind the door was definitely Boss's, but it[r]
-wasn't the voice of the injured man from just before; it was the voice we heard[r]
-when we were running around the school[pcms]
+The growling voice coming from behind the door was[r]
+definitely Boss's, but it wasn't the voice of the injured[r]
+man from just before; it was the voice we heard when we were[r]
+running around the school[pcms]
 
 *1800|
 [fc]
@@ -777,8 +804,8 @@ when we were running around the school[pcms]
 
 *1801|
 [fc]
-It was more than just similar; from what Yuuho said, it seemed Boss had already[r]
-been infected and gone mad.[pcms]
+It was more than just similar; from what Yuuho said, it[r]
+seemed Boss had already been infected and gone mad.[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c5"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -796,17 +823,18 @@ Tadahiko...[pcms]
 
 *1804|
 [fc]
-Tadahiko seemed to accept that Boss had completely lost his mind, just like me.[pcms]
+Tadahiko seemed to accept that Boss had completely lost his[r]
+mind, just like me.[pcms]
 
 *1805|
 [fc]
-With his eyes closed and head bowed, Tadahiko gritted his teeth and repeatedly[r]
-pounded on the door.[pcms]
+With his eyes closed and head bowed, Tadahiko gritted his[r]
+teeth and repeatedly pounded on the door.[pcms]
 
 *1806|
 [fc]
-In Tadahiko's world, Boss was like a parent. Being infected meant the same as[r]
-death for that person.[pcms]
+In Tadahiko's world, Boss was like a parent. Being infected[r]
+meant the same as death for that person.[pcms]
 
 *1807|
 [fc]
@@ -814,8 +842,8 @@ In other words, for Tadahiko, this situation was...[pcms]
 
 *1808|
 [fc]
-But in this state, and with Boss having turned out like that, there was nothing[r]
-I could do.[pcms]
+But in this state, and with Boss having turned out like[r]
+that, there was nothing I could do.[pcms]
 
 *1809|
 [fc]
@@ -844,8 +872,8 @@ I couldn't even offer any comforting words...[pcms]
 
 *1813|
 [fc]
-If Boss did something to Ren while he was infected... She let out a small groan[r]
-while holding her wrist.[pcms]
+If Boss did something to Ren while he was infected... She[r]
+let out a small groan while holding her wrist.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -853,13 +881,14 @@ while holding her wrist.[pcms]
 [fc]
 [vo_ren s="ren0948"]
 [ns]Ren[nse]
-"No... it's just really painful because he gripped it so hard. But I'm okay..."[pcms]
+"No... it's just really painful because he gripped it so[r]
+hard. But I'm okay..."[pcms]
 
 *1815|
 [fc]
 [ns]Wataru[nse]
-"Just show me to be sure. If anything happened to Ren, I couldn't face dad or...[r]
-mom..."[pcms]
+"Just show me to be sure. If anything happened to Ren, I[r]
+couldn't face dad or... mom..."[pcms]
 
 *1816|
 [fc]
@@ -869,25 +898,27 @@ mom..."[pcms]
 
 *1817|
 [fc]
-Hesitantly, Ren offered her white wrist to me to check for any injuries.[pcms]
+Hesitantly, Ren offered her white wrist to me to check for[r]
+any injuries.[pcms]
 
 *1818|
 [fc]
-Her fine and smooth white skin indeed had no injuries or bruises.[pcms]
+Her fine and smooth white skin indeed had no injuries or[r]
+bruises.[pcms]
 
 *1819|
 [fc]
 [ns]Wataru[nse]
-"Indeed, there are no cuts or bruises... But if anything happens, let me know[r]
-right away..."[pcms]
+"Indeed, there are no cuts or bruises... But if anything[r]
+happens, let me know right away..."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1820|
 [fc]
-I was worried about Ren alone, but Yuuho was attacked too. I wonder if she's[r]
-okay...[pcms]
+I was worried about Ren alone, but Yuuho was attacked too. I[r]
+wonder if she's okay...[pcms]
 
 *1821|
 [fc]
@@ -905,8 +936,9 @@ okay...[pcms]
 ;mm ↓ここの描写ってユウホ感染用じゃないの？なんでれんのほうに書いてあるんだ？ミスリード用か
 ;逆移植時カット	*1823|
 ;逆移植時カット	[fc]
-;During reverse transplantation cut Yuuho, who was inexplicably wiping her hands[r]
-with her skirt, responded in surprise.;During reverse transplantation cut[pcms]
+;During reverse transplantation cut Yuuho, who was[r]
+inexplicably wiping her hands with her skirt, responded in[r]
+surprise.;During reverse transplantation cut[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -919,7 +951,8 @@ with her skirt, responded in surprise.;During reverse transplantation cut[pcms]
 
 *1825|
 [fc]
-Indeed, there were no injuries or wounds anywhere on Yuuho. She should be fine.[pcms]
+Indeed, there were no injuries or wounds anywhere on Yuuho.[r]
+She should be fine.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -934,8 +967,8 @@ Indeed, there were no injuries or wounds anywhere on Yuuho. She should be fine.[
 *1827|
 [fc]
 [ns]Kousuke[nse]
-"Don't underestimate me. I wouldn't go down that easily. But I might have[r]
-scraped my butt..."[pcms]
+"Don't underestimate me. I wouldn't go down that easily. But[r]
+I might have scraped my butt..."[pcms]
 
 *1828|
 [fc]
@@ -953,8 +986,8 @@ scraped my butt..."[pcms]
 
 *1830|
 [fc]
-Ko-suke started to say something but then stopped himself. It didn't seem like[r]
-he was hiding anything serious.[pcms]
+Ko-suke started to say something but then stopped himself.[r]
+It didn't seem like he was hiding anything serious.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -976,18 +1009,18 @@ he was hiding anything serious.[pcms]
 
 *1833|
 [fc]
-It was as if Tadahiko reacted to my "thank goodness," he banged on the door[r]
-forcefully.[pcms]
+It was as if Tadahiko reacted to my "thank goodness," he[r]
+banged on the door forcefully.[pcms]
 
 *1834|
 [fc]
-That's right... How could I say "thank goodness" when the Boss is in this[r]
-state... Did I anger Tadahiko?[pcms]
+That's right... How could I say "thank goodness" when the[r]
+Boss is in this state... Did I anger Tadahiko?[pcms]
 
 *1835|
 [fc]
-The eyes that had been closed until now sharpened more than usual, and he took a[r]
-deep breath.[pcms]
+The eyes that had been closed until now sharpened more than[r]
+usual, and he took a deep breath.[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -998,12 +1031,13 @@ deep breath.[pcms]
 
 *1837|
 [fc]
-Tadahiko reached for his waist and pulled out a heavy, dull shining lump of[r]
-irona gun.[pcms]
+Tadahiko reached for his waist and pulled out a heavy, dull[r]
+shining lump of irona gun.[pcms]
 
 *1838|
 [fc]
-"Make it easier for you" means... Tadahiko is going to... the Boss...[pcms]
+"Make it easier for you" means... Tadahiko is going to...[r]
+the Boss...[pcms]
 
 *1839|
 [fc]
@@ -1013,28 +1047,29 @@ irona gun.[pcms]
 *1840|
 [fc]
 [ns]Tadahiko[nse]
-"Shut up, Wataru. I'm the only one who can do this... No matter what anyone[r]
-says, I have to do it."[pcms]
+"Shut up, Wataru. I'm the only one who can do this... No[r]
+matter what anyone says, I have to do it."[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1841|
 [fc]
 [ns]Tadahiko[nse]
-"The Boss too... he doesn't want to be seen in such a state by the others...!![r]
-Besides, no one else can see the Boss in that condition but me!"[pcms]
+"The Boss too... he doesn't want to be seen in such a state[r]
+by the others...!! Besides, no one else can see the Boss in[r]
+that condition but me!"[pcms]
 
 *1842|
 [fc]
-We were so overwhelmed by Tadahiko's intensity that we couldn't move even a[r]
-fingertip.[pcms]
+We were so overwhelmed by Tadahiko's intensity that we[r]
+couldn't move even a fingertip.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1843|
 [fc]
-While we all looked down, trying our best not to look at Tadahiko, only Maruko-[r]
-senpai was staring at him intently.[pcms]
+While we all looked down, trying our best not to look at[r]
+Tadahiko, only Maruko- senpai was staring at him intently.[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
@@ -1079,7 +1114,8 @@ And, I'm sorry. I lied...[pcms]
 
 *1847|
 [fc]
-The hand I showed earlier was unharmed, which was to be expected.[pcms]
+The hand I showed earlier was unharmed, which was to be[r]
+expected.[pcms]
 
 *1848|
 [fc]
@@ -1087,12 +1123,13 @@ The hand that was grabbed was the opposite...[pcms]
 
 *1849|
 [fc]
-That hand still hurts. There's a sensation of something trickling down.[pcms]
+That hand still hurts. There's a sensation of something[r]
+trickling down.[pcms]
 
 *1850|
 [fc]
-A cold streak is the proof of my lie. If I wipe this away, my lie will also[r]
-disappear.[pcms]
+A cold streak is the proof of my lie. If I wipe this away,[r]
+my lie will also disappear.[pcms]
 
 *1851|
 [fc]
@@ -1100,8 +1137,8 @@ If big brother saw this, I would surely...[pcms]
 
 *1852|
 [fc]
-I have no choice but to carry through with this lie. I don't want to leave big[r]
-brother's side.[pcms]
+I have no choice but to carry through with this lie. I don't[r]
+want to leave big brother's side.[pcms]
 
 *1853|
 [fc]
@@ -1119,8 +1156,8 @@ I'm sorry. I'm sorry...[pcms]
 *1856|
 [fc]
 [ns]Boss[nse]
-"Ooohahahahaha!! Hiko~! You've become a full-fledged man, haven't you, Oi!![r]
-Heheh!! Gahahaha! Gah! Do it!!!"[pcms]
+"Ooohahahahaha!! Hiko~! You've become a full-fledged man,[r]
+haven't you, Oi!! Heheh!! Gahahaha! Gah! Do it!!!"[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]

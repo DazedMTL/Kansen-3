@@ -19,29 +19,30 @@
 
 *8488|
 [fc]
-Ren finally fell into a deep sleep. I gently laid her on the bed and left the[r]
-room.[pcms]
+Ren finally fell into a deep sleep. I gently laid her on the[r]
+bed and left the room.[pcms]
 
 *8489|
 [fc]
-I didn't intend to go anywhere, but it was painful to keep watching Ren's[r]
-sleeping face.[pcms]
+I didn't intend to go anywhere, but it was painful to keep[r]
+watching Ren's sleeping face.[pcms]
 
 *8490|
 [fc]
-I never imagined that Ren would say such a thing. That she would desire me as a[r]
-"man".[pcms]
+I never imagined that Ren would say such a thing. That she[r]
+would desire me as a "man".[pcms]
 
 *8491|
 [fc]
-No, Ren wasn't in her right mind at that time. She was distraught facing our[r]
-father's death. She must have felt like she was about to lose everything, even[r]
-me.[pcms]
+No, Ren wasn't in her right mind at that time. She was[r]
+distraught facing our father's death. She must have felt[r]
+like she was about to lose everything, even me.[pcms]
 
 *8492|
 [fc]
-It was Ren's desperate attempt to cling to me. That must have been what those[r]
-words were. They surely shattered my heart in an instant.[pcms]
+It was Ren's desperate attempt to cling to me. That must[r]
+have been what those words were. They surely shattered my[r]
+heart in an instant.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -52,13 +53,14 @@ words were. They surely shattered my heart in an instant.[pcms]
 
 *8493|
 [fc]
-I don't remember how I walked here. When I realized it, I was standing in the[r]
-7th floor backyard.[pcms]
+I don't remember how I walked here. When I realized it, I[r]
+was standing in the 7th floor backyard.[pcms]
 
 *8494|
 [fc]
-Where is everyone? No one is here... It's just me... When I thought that, the[r]
-tears I had been holding back started to well up.[pcms]
+Where is everyone? No one is here... It's just me... When I[r]
+thought that, the tears I had been holding back started to[r]
+well up.[pcms]
 
 *8495|
 [fc]
@@ -67,19 +69,19 @@ tears I had been holding back started to well up.[pcms]
 
 *8496|
 [fc]
-I wished my father was still alive. I thought he would come to greet me with his[r]
-usual joking smile. I believed we could have a dramatic reunion like in the TV[r]
-dramas.[pcms]
+I wished my father was still alive. I thought he would come[r]
+to greet me with his usual joking smile. I believed we could[r]
+have a dramatic reunion like in the TV dramas.[pcms]
 
 *8497|
 [fc]
-When my mother died, it didn't feel real. An empty coffin. I kept thinking she[r]
-might come back suddenly.[pcms]
+When my mother died, it didn't feel real. An empty coffin. I[r]
+kept thinking she might come back suddenly.[pcms]
 
 *8498|
 [fc]
-But my father's death feels real. Even though it was through a TV screen, it was[r]
-reality.[pcms]
+But my father's death feels real. Even though it was through[r]
+a TV screen, it was reality.[pcms]
 
 *8499|
 [fc]
@@ -88,13 +90,14 @@ reality.[pcms]
 
 *8500|
 [fc]
-We weren't blood-related, but he was no different from a real father to me. No,[r]
-I respected him even more than that, father.[pcms]
+We weren't blood-related, but he was no different from a[r]
+real father to me. No, I respected him even more than that,[r]
+father.[pcms]
 
 *8501|
 [fc]
-I should have told him how I felt while he was still alive. I never thought I'd[r]
-suddenly lose him too, just like mother.[pcms]
+I should have told him how I felt while he was still alive.[r]
+I never thought I'd suddenly lose him too, just like mother.[pcms]
 
 *8502|
 [fc]
@@ -107,17 +110,19 @@ suddenly lose him too, just like mother.[pcms]
 
 *8504|
 [fc]
-I felt like I could hear my father's voice. That's right... I have to protect[r]
-Ren as her brother. I have to work hard for both myself and for father.[pcms]
+I felt like I could hear my father's voice. That's right...[r]
+I have to protect Ren as her brother. I have to work hard[r]
+for both myself and for father.[pcms]
 
 *8505|
 [fc]
-Let's go back to the room. If Ren wakes up and finds herself alone, she might[r]
-start crying again.[pcms]
+Let's go back to the room. If Ren wakes up and finds herself[r]
+alone, she might start crying again.[pcms]
 
 *8506|
 [fc]
-I rubbed my cheeks vigorously and turned on my heel to head back to the room.[pcms]
+I rubbed my cheeks vigorously and turned on my heel to head[r]
+back to the room.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -142,8 +147,8 @@ Yuuho was standing quietly in the shadow of the corridor.[pcms]
 [fc]
 [vo_yuh s="yuho1117"]
 [ns]Yuuho[nse]
-"Wataru...I saw you walking aimlessly. I hesitated whether to call out to you or[r]
-not..."[pcms]
+"Wataru...I saw you walking aimlessly. I hesitated whether[r]
+to call out to you or not..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -161,11 +166,13 @@ not..."[pcms]
 *8513|
 [fc]
 [ns]Wataru[nse]
-"I'm just tired, so I'm going back to my room now. Good night, Yuuho..."[pcms]
+"I'm just tired, so I'm going back to my room now. Good[r]
+night, Yuuho..."[pcms]
 
 *8514|
 [fc]
-Trying not to show my tear-stained face, I attempted to pass by Yuuho.[pcms]
+Trying not to show my tear-stained face, I attempted to pass[r]
+by Yuuho.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -193,8 +200,8 @@ Yuuho... Yuuho hugged me.[pcms]
 [fc]
 [vo_yuh s="yuho1120"]
 [ns]Yuuho[nse]
-"Wataru, please. Don't hold back. Don't pretend to be strong. Let me hear your[r]
-true feelings."[pcms]
+"Wataru, please. Don't hold back. Don't pretend to be[r]
+strong. Let me hear your true feelings."[pcms]
 
 *8519|
 [fc]
@@ -207,23 +214,25 @@ true feelings."[pcms]
 [fc]
 [vo_yuh s="yuho1121"]
 [ns]Yuuho[nse]
-"I think I understand how you feel, Wataru. Don't force yourself. Please. I want[r]
-you to cry as much as you need to and ease your feelings."[pcms]
+"I think I understand how you feel, Wataru. Don't force[r]
+yourself. Please. I want you to cry as much as you need to[r]
+and ease your feelings."[pcms]
 
 *8521|
 [fc]
-With a voice that seemed to squeeze out every word, Yuuho hugged me tightly. A[r]
-single tear rolled down her cheek.[pcms]
+With a voice that seemed to squeeze out every word, Yuuho[r]
+hugged me tightly. A single tear rolled down her cheek.[pcms]
 
 *8522|
 [fc]
-The moment I saw that tear, emotions surged within me. The sorrow that I had[r]
-been suppressing.[pcms]
+The moment I saw that tear, emotions surged within me. The[r]
+sorrow that I had been suppressing.[pcms]
 
 *8523|
 [fc]
 [ns]Wataru[nse]
-"...uhhuhuh... Yuuho, Yuuho. Uhhuhahah... ...father... father...ahhh!"[pcms]
+"...uhhuhuh... Yuuho, Yuuho. Uhhuhahah... ...father...[r]
+father...ahhh!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -231,7 +240,8 @@ been suppressing.[pcms]
 [fc]
 [vo_yuh s="yuho1122"]
 [ns]Yuuho[nse]
-"Yes... Wataru. Cry as much as you need... just cry for now."[pcms]
+"Yes... Wataru. Cry as much as you need... just cry for[r]
+now."[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -239,8 +249,8 @@ been suppressing.[pcms]
 [fc]
 [vo_yuh s="yuho1123"]
 [ns]Yuuho[nse]
-"Hey, Wataru. It's okay to keep crying until you can't anymore. I'll stay with[r]
-you all night tonight."[pcms]
+"Hey, Wataru. It's okay to keep crying until you can't[r]
+anymore. I'll stay with you all night tonight."[pcms]
 
 *8526|
 [fc]
@@ -249,13 +259,14 @@ you all night tonight."[pcms]
 
 *8527|
 [fc]
-With tears brimming in her eyes and even a warm smile on her face, Yuuho looked[r]
-back at me.[pcms]
+With tears brimming in her eyes and even a warm smile on her[r]
+face, Yuuho looked back at me.[pcms]
 
 *8528|
 [fc]
-The face of mine that must look terribly unsightly from all the tears, Yuuho[r]
-accepted me just as I am. She seemed ready to embrace all of me.[pcms]
+The face of mine that must look terribly unsightly from all[r]
+the tears, Yuuho accepted me just as I am. She seemed ready[r]
+to embrace all of me.[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -278,7 +289,8 @@ accepted me just as I am. She seemed ready to embrace all of me.[pcms]
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="T70170.ks" target=*T70170_TOP]キスする[endlink]
-; (link storage="T70190.ks" target=*T70190_TOP)Thank you...(endlink)[pcms]
+; (link storage="T70190.ks" target=*T70190_TOP)Thank[r]
+you...(endlink)[pcms]
 
 *SEL81|キスする／ありがとう……
 [fc]

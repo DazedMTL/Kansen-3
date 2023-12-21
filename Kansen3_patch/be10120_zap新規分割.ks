@@ -69,11 +69,13 @@ It's almost... dawn.[pcms]
 
 *919|
 [fc]
-Looking down at the ground from the 7th floor of the LASER building.[pcms]
+Looking down at the ground from the 7th floor of the LASER[r]
+building.[pcms]
 
 *920|
 [fc]
-Although Mizuki says it's scary, I strangely didn't feel any fear.[pcms]
+Although Mizuki says it's scary, I strangely didn't feel any[r]
+fear.[pcms]
 
 *921|
 [fc]
@@ -81,8 +83,8 @@ Instead, I was captivated by the beauty of the dawn.[pcms]
 
 *922|
 [fc]
-The quiet streets, and beyond the tombstone-like buildings, the sun slowly[r]
-rises.[pcms]
+The quiet streets, and beyond the tombstone-like buildings,[r]
+the sun slowly rises.[pcms]
 
 *923|
 [fc]
@@ -104,8 +106,8 @@ It was so beautiful... Mizuki and I silently gazed at it.[pcms]
 
 *925|
 [fc]
-While searing the piercing blue sky into my eyelids, I tell Mizuki, the person[r]
-most important to me, beside me.[pcms]
+While searing the piercing blue sky into my eyelids, I tell[r]
+Mizuki, the person most important to me, beside me.[pcms]
 
 ;mm追加
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -127,8 +129,8 @@ I couldn't help but laugh at those words.[pcms]
 
 *929|
 [fc]
-...But that's right. It's not like we can be unafraid. We are still... "human"[r]
-after all.[pcms]
+...But that's right. It's not like we can be unafraid. We[r]
+are still... "human" after all.[pcms]
 
 ;//★_DJ-BAR
 ;//<ChrInit>
@@ -145,8 +147,8 @@ Gently embracing the trembling Mizuki.[pcms]
 
 *931|
 [fc]
-Warm... It was hard to believe that we were humans infected with a virus and[r]
-nearing our end.[pcms]
+Warm... It was hard to believe that we were humans infected[r]
+with a virus and nearing our end.[pcms]
 
 *932|
 [fc]
@@ -162,7 +164,8 @@ nearing our end.[pcms]
 *934|
 [fc]
 [ns]Kousuke[nse]
-"The next time we open our eyes, it will be when we are reborn."[pcms]
+"The next time we open our eyes, it will be when we are[r]
+reborn."[pcms]
 
 *935|
 [fc]
@@ -183,11 +186,13 @@ nearing our end.[pcms]
 
 *938|
 [fc]
-Mizuki buried her cheek in my chest, with a peaceful expression.[pcms]
+Mizuki buried her cheek in my chest, with a peaceful[r]
+expression.[pcms]
 
 *939|
 [fc]
-She had a face completely at ease, entrusting everything to me.[pcms]
+She had a face completely at ease, entrusting everything to[r]
+me.[pcms]
 
 *940|
 [fc]
@@ -231,7 +236,8 @@ I'm really sorry... Mizuki.[pcms]
 
 *947|
 [fc]
-While holding Mizuki in my arms, I casually move our footing to the side.[pcms]
+While holding Mizuki in my arms, I casually move our footing[r]
+to the side.[pcms]
 
 *948|
 [fc]
@@ -254,7 +260,8 @@ I hug her body tightly.[pcms]
 
 *951|
 [fc]
-Believing that when we open our eyes next time... that moment will come.[pcms]
+Believing that when we open our eyes next time... that[r]
+moment will come.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

@@ -22,14 +22,15 @@ What should I do...!?[pcms]
 
 *47|
 [fc]
-If I play it safe, I should take the long way around, but if I want to go[r]
-immediately, climbing these stairs is the quickest route. Each option has its[r]
-pros and cons.[pcms]
+If I play it safe, I should take the long way around, but if[r]
+I want to go immediately, climbing these stairs is the[r]
+quickest route. Each option has its pros and cons.[pcms]
 
 *48|
 [fc]
 [ns]Wataru[nse]
-`After all... I want to confirm Ren's safety as soon as possible.[pcms]
+`After all... I want to confirm Ren's safety as soon as[r]
+possible.[pcms]
 
 *49|
 [fc]
@@ -45,9 +46,9 @@ And then--[pcms]
 
 *52|
 [fc]
-Out of the corner of my eye, I saw something rolling down from above. Startled,[r]
-I stopped in my tracks, and it finally came to a halt after hitting the wall on[r]
-the landing.[pcms]
+Out of the corner of my eye, I saw something rolling down[r]
+from above. Startled, I stopped in my tracks, and it finally[r]
+came to a halt after hitting the wall on the landing.[pcms]
 
 *53|
 [fc]
@@ -56,8 +57,9 @@ the landing.[pcms]
 
 *54|
 [fc]
-Judging by the lack of a uniform, it doesn't seem to be a student from the[r]
-academy. As I stared intently, the figure shakily stood up before me.[pcms]
+Judging by the lack of a uniform, it doesn't seem to be a[r]
+student from the academy. As I stared intently, the figure[r]
+shakily stood up before me.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -77,13 +79,14 @@ It was a man with his dick still out.[pcms]
 
 *58|
 [fc]
-The man with blood-red eyes reached out towards me as I let out an involuntary[r]
-scream.[pcms]
+The man with blood-red eyes reached out towards me as I let[r]
+out an involuntary scream.[pcms]
 
 *59|
 [fc]
-Apparently, his pants had fallen down to his ankles, tangling his legs and[r]
-making his already sluggish movements even slower.[pcms]
+Apparently, his pants had fallen down to his ankles,[r]
+tangling his legs and making his already sluggish movements[r]
+even slower.[pcms]
 
 *60|
 [fc]
@@ -99,14 +102,16 @@ This is no good...[pcms]
 
 *62|
 [fc]
-I quickly turned on my heel and dashed towards the back staircase.[pcms]
+I quickly turned on my heel and dashed towards the back[r]
+staircase.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *63|
 [fc]
-I felt like there was someone in the classroom, but without checking who or what[r]
-it was, I ran straight for the back stairs.[pcms]
+I felt like there was someone in the classroom, but without[r]
+checking who or what it was, I ran straight for the back[r]
+stairs.[pcms]
 
 ;//ÅYBGÅFçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

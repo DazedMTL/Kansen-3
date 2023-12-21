@@ -52,8 +52,8 @@
 *1583|
 [fc]
 [ns]Wataru[nse]
-"The one we used to tie Ren's violin case earlier, maybe we can use it to pull[r]
-Yuuho up?"[pcms]
+"The one we used to tie Ren's violin case earlier, maybe we[r]
+can use it to pull Yuuho up?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -68,14 +68,15 @@ Yuuho up?"[pcms]
 *1585|
 [fc]
 [ns]Kousuke[nse]
-"Well, considering the remaining length of that rope, it might work... but[r]
-making a human ladder like we did to get up here seems impossible."[pcms]
+"Well, considering the remaining length of that rope, it[r]
+might work... but making a human ladder like we did to get[r]
+up here seems impossible."[pcms]
 
 *1586|
 [fc]
 [ns]Wataru[nse]
-"Yeah. From here it's like a two-story height, and besides, that roof is[r]
-triangular."[pcms]
+"Yeah. From here it's like a two-story height, and besides,[r]
+that roof is triangular."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -83,13 +84,14 @@ triangular."[pcms]
 [fc]
 [vo_mar s="maru0212"]
 [ns]Margarita[nse]
-"If that's the only option, we should act quickly. We never know when they might[r]
-come."[pcms]
+"If that's the only option, we should act quickly. We never[r]
+know when they might come."[pcms]
 
 *1588|
 [fc]
 [ns]Wataru[nse]
-"Right. ...Yuuho, I'm going to throw the rope over to you now."[pcms]
+"Right. ...Yuuho, I'm going to throw the rope over to you[r]
+now."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -101,18 +103,20 @@ come."[pcms]
 
 *1590|
 [fc]
-Smiling reassuringly at Yuuho, who looked anxious, we took out the rope from our[r]
-backpack.[pcms]
+Smiling reassuringly at Yuuho, who looked anxious, we took[r]
+out the rope from our backpack.[pcms]
 
 *1591|
 [fc]
-Tying something heavy enough to serve as a weight to one end, I firmly tied the[r]
-other end around my body and then threw it towards Yuuho.[pcms]
+Tying something heavy enough to serve as a weight to one[r]
+end, I firmly tied the other end around my body and then[r]
+threw it towards Yuuho.[pcms]
 
 *1592|
 [fc]
-It didn't go well on the first try, and after several attempts of pulling it[r]
-back and throwing again, we finally managed to get the rope down to Yuuho.[pcms]
+It didn't go well on the first try, and after several[r]
+attempts of pulling it back and throwing again, we finally[r]
+managed to get the rope down to Yuuho.[pcms]
 
 *1593|
 [fc]
@@ -131,18 +135,20 @@ back and throwing again, we finally managed to get the rope down to Yuuho.[pcms]
 
 *1595|
 [fc]
-Responding to my words, Yuuho quickly and securely tied herself up with the rope[r]
-in a cross-body fashion while we made the final preparations for pulling her up.[pcms]
+Responding to my words, Yuuho quickly and securely tied[r]
+herself up with the rope in a cross-body fashion while we[r]
+made the final preparations for pulling her up.[pcms]
 
 *1596|
 [fc]
-Kousuke wrapped the rope firmly around me, and Ren supported us from behind[r]
-Kousuke.[pcms]
+Kousuke wrapped the rope firmly around me, and Ren supported[r]
+us from behind Kousuke.[pcms]
 
 *1597|
 [fc]
-In the meantime, Senpai took out a vinyl sheet from my backpack to use as an[r]
-edge guard on the roof so that the rope wouldn't fray.[pcms]
+In the meantime, Senpai took out a vinyl sheet from my[r]
+backpack to use as an edge guard on the roof so that the[r]
+rope wouldn't fray.[pcms]
 
 *1598|
 [fc]
@@ -151,8 +157,8 @@ edge guard on the roof so that the rope wouldn't fray.[pcms]
 
 *1599|
 [fc]
-With everyone's preparations complete, we began to pull Yuuho's body up with all[r]
-our strength.[pcms]
+With everyone's preparations complete, we began to pull[r]
+Yuuho's body up with all our strength.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -167,17 +173,19 @@ The vinyl rope bit into our bodies because of its material.[pcms]
 
 *1602|
 [fc]
-Kousuke was the only one voicing out, but probably it was biting into Yuuho's[r]
-body as well.[pcms]
+Kousuke was the only one voicing out, but probably it was[r]
+biting into Yuuho's body as well.[pcms]
 
 *1603|
 [fc]
-But somehow, we managed to start lifting Yuuho into the air smoothly.[pcms]
+But somehow, we managed to start lifting Yuuho into the air[r]
+smoothly.[pcms]
 
 *1604|
 [fc]
 [ns]Wataru[nse]
-"Yuuho, can you put your feet on the window and distribute some of your weight?"[pcms]
+"Yuuho, can you put your feet on the window and distribute[r]
+some of your weight?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -193,8 +201,8 @@ Crash![pcms]
 
 *1607|
 [fc]
-The sound of Yuuho's scream turning into a shriek and the breaking of window[r]
-glass. I wonder which was faster.[pcms]
+The sound of Yuuho's scream turning into a shriek and the[r]
+breaking of window glass. I wonder which was faster.[pcms]
 
 *1608|
 [fc]
@@ -203,7 +211,8 @@ glass. I wonder which was faster.[pcms]
 
 *1609|
 [fc]
-In a panic, I called out just as my body was yanked forward violently.[pcms]
+In a panic, I called out just as my body was yanked forward[r]
+violently.[pcms]
 
 *1610|
 [fc]
@@ -234,12 +243,13 @@ I'm going to fall from the gym roof to the corridor roof![pcms]
 
 *1614|
 [fc]
-The moment I thought that, I realized I was suspended in mid-air.[pcms]
+The moment I thought that, I realized I was suspended in[r]
+mid-air.[pcms]
 
 *1615|
 [fc]
-It seems Kousuke and Ren, and even Senpai who were spared from falling off the[r]
-roof, hurriedly grabbed onto the rope.[pcms]
+It seems Kousuke and Ren, and even Senpai who were spared[r]
+from falling off the roof, hurriedly grabbed onto the rope.[pcms]
 
 *1616|
 [fc]
@@ -273,12 +283,14 @@ But in front of me, Yuuho... Yuuho was...[pcms]
 
 *1618|
 [fc]
-While being jostled by them, Yuuho was already being violated.[pcms]
+While being jostled by them, Yuuho was already being[r]
+violated.[pcms]
 
 *1619|
 [fc]
-Struggling to escape as she might, the very rope meant to save her now deprived[r]
-her of freedom, making it impossible for her to escape from the men's grasp.[pcms]
+Struggling to escape as she might, the very rope meant to[r]
+save her now deprived her of freedom, making it impossible[r]
+for her to escape from the men's grasp.[pcms]
 
 *1620|
 [fc]
@@ -297,8 +309,8 @@ her of freedom, making it impossible for her to escape from the men's grasp.[pcm
 
 *1622|
 [fc]
-As they ripped off Yuuho's underwear as if tearing it apart, a man climbed on[r]
-top of her.[pcms]
+As they ripped off Yuuho's underwear as if tearing it apart,[r]
+a man climbed on top of her.[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -314,8 +326,8 @@ Incessant screams came from Yuuho's mouth.[pcms]
 
 *1625|
 [fc]
-But regardless of that, the man began thrusting his hips as if pushing up[r]
-against Yuuho's entire body.[pcms]
+But regardless of that, the man began thrusting his hips as[r]
+if pushing up against Yuuho's entire body.[pcms]
 
 [evcg storage="HEV026d"][trans_c cross time=300]
 
@@ -329,7 +341,8 @@ against Yuuho's entire body.[pcms]
 
 *1627|
 [fc]
-Moving her restricted body, Yuuho still struggled to escape from the man.[pcms]
+Moving her restricted body, Yuuho still struggled to escape[r]
+from the man.[pcms]
 
 *1628|
 [fc]
@@ -339,7 +352,8 @@ But that brought disaster upon Yuuho.[pcms]
 
 *1629|
 [fc]
-The rope tangled around her neck, and Yuuho's eyes quickly lost focus.[pcms]
+The rope tangled around her neck, and Yuuho's eyes quickly[r]
+lost focus.[pcms]
 
 *1630|
 [fc]
@@ -348,11 +362,13 @@ The rope tangled around her neck, and Yuuho's eyes quickly lost focus.[pcms]
 
 *1631|
 [fc]
-Despite calling out in a panic, Yuuho's eyes remained unfocused.[pcms]
+Despite calling out in a panic, Yuuho's eyes remained[r]
+unfocused.[pcms]
 
 *1632|
 [fc]
-However, the occasional groan was proof that Yuuho was still breathing.[pcms]
+However, the occasional groan was proof that Yuuho was still[r]
+breathing.[pcms]
 
 *1633|
 [fc]
@@ -376,8 +392,9 @@ Where did I go wrong?[pcms]
 
 *1637|
 [fc]
-The voice that leaked from Yuuho, as if air was being pushed out of her lungs in[r]
-sync with the man's movements, pierced my heart.[pcms]
+The voice that leaked from Yuuho, as if air was being pushed[r]
+out of her lungs in sync with the man's movements, pierced[r]
+my heart.[pcms]
 
 *1638|
 [fc]
@@ -385,12 +402,13 @@ It's because I screwed up.[pcms]
 
 *1639|
 [fc]
-That's why Yuuho is being violated right before my eyes... And yet, I'm right[r]
-here and can't do anything to save her.[pcms]
+That's why Yuuho is being violated right before my eyes...[r]
+And yet, I'm right here and can't do anything to save her.[pcms]
 
 *1640|
 [fc]
-Just watching Yuuho being violated while suspended helplessly in the air.[pcms]
+Just watching Yuuho being violated while suspended[r]
+helplessly in the air.[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -405,13 +423,15 @@ Just watching Yuuho being violated while suspended helplessly in the air.[pcms]
 
 *1642|
 [fc]
-After being violated with a creampie by the first and second men, something[r]
-changed in Yuuho when the third man did the same.[pcms]
+After being violated with a creampie by the first and second[r]
+men, something changed in Yuuho when the third man did the[r]
+same.[pcms]
 
 *1643|
 [fc]
-Until now, her voice had been one of pain or just leaking out, but now it was[r]
-mixed with the moans I had heard from other female students.[pcms]
+Until now, her voice had been one of pain or just leaking[r]
+out, but now it was mixed with the moans I had heard from[r]
+other female students.[pcms]
 
 [evcg storage="HEV026e"][trans_c cross time=300]
 
@@ -428,8 +448,8 @@ mixed with the moans I had heard from other female students.[pcms]
 
 *1646|
 [fc]
-That voice was proof that Yuuho had also become one of them. Her wide-open eyes[r]
-were also dyed red.[pcms]
+That voice was proof that Yuuho had also become one of them.[r]
+Her wide-open eyes were also dyed red.[pcms]
 
 *1647|
 [fc]
@@ -448,7 +468,8 @@ were also dyed red.[pcms]
 
 *1649|
 [fc]
-When the fourth man climbed on top of Yuuho, a strange sound echoed around.[pcms]
+When the fourth man climbed on top of Yuuho, a strange sound[r]
+echoed around.[pcms]
 
 *1650|
 [fc]
@@ -456,12 +477,13 @@ An indescribable sound, like a crack.[pcms]
 
 *1651|
 [fc]
-And with that, Yuuho's hands, which had been happily welcoming the man, dangled[r]
-down powerlessly.[pcms]
+And with that, Yuuho's hands, which had been happily[r]
+welcoming the man, dangled down powerlessly.[pcms]
 
 *1652|
 [fc]
-The rope that had been tangled around Yuuho's neck had delivered the final blow.[pcms]
+The rope that had been tangled around Yuuho's neck had[r]
+delivered the final blow.[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -517,8 +539,8 @@ Ren's voice poured down on me, my vision blurred by tears.[pcms]
 
 *1656|
 [fc]
-When I came back to my senses, I was surrounded by the men who had been[r]
-violating Yuuho.[pcms]
+When I came back to my senses, I was surrounded by the men[r]
+who had been violating Yuuho.[pcms]
 
 *1657|
 [fc]
@@ -550,12 +572,14 @@ No, all three of them were trying to help me.[pcms]
 
 *1662|
 [fc]
-But the fact that they had firmly wrapped the rope around their bodies to[r]
-support Yuuho's weight was now also to my detriment.[pcms]
+But the fact that they had firmly wrapped the rope around[r]
+their bodies to support Yuuho's weight was now also to my[r]
+detriment.[pcms]
 
 *1663|
 [fc]
-The rope that had been meant to save Yuuho now bared its fangs at me.[pcms]
+The rope that had been meant to save Yuuho now bared its[r]
+fangs at me.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -575,7 +599,8 @@ I'm sorry... I never wanted to make you cry like that...[pcms]
 
 *1667|
 [fc]
-Suspended in mid-air, powerless, I was grabbed by the men's hands, and then--[pcms]
+Suspended in mid-air, powerless, I was grabbed by the men's[r]
+hands, and then--[pcms]
 
 *1668|
 [fc]

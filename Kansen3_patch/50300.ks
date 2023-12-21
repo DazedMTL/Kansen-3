@@ -42,8 +42,8 @@
 
 *1617|
 [fc]
-Thinking he had agreement, Kousuke makes a grand gesture of stumbling in[r]
-surprise when things don't go as expected.[pcms]
+Thinking he had agreement, Kousuke makes a grand gesture of[r]
+stumbling in surprise when things don't go as expected.[pcms]
 
 *1618|
 [fc]
@@ -70,28 +70,31 @@ Ren squeezes my hand back tightly.[pcms]
 *1622|
 [fc]
 [ns]Wataru[nse]
-"Ren and I can't move during the day. In this sunlight, I can't possibly make[r]
-Ren walk all the way to the sea. And moving after the sun goes down is out of[r]
-the question, right?"[pcms]
+"Ren and I can't move during the day. In this sunlight, I[r]
+can't possibly make Ren walk all the way to the sea. And[r]
+moving after the sun goes down is out of the question,[r]
+right?"[pcms]
 
 *1623|
 [fc]
 [ns]Wataru[nse]
-"Besides... I think it's better to stay put, just like Yuuho. It's unsettling to[r]
-move around an unfamiliar town in this situation."[pcms]
+"Besides... I think it's better to stay put, just like[r]
+Yuuho. It's unsettling to move around an unfamiliar town in[r]
+this situation."[pcms]
 
 *1624|
 [fc]
-I understand Kousuke's point of view, but... I just can't agree with going[r]
-outside where they are waiting for us.[pcms]
+I understand Kousuke's point of view, but... I just can't[r]
+agree with going outside where they are waiting for us.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1625|
 [fc]
 [ns]Kousuke[nse]
-"But we can check that with the net or a map, right? If we use Street View, we[r]
-can get a pretty good idea of our surroundings."[pcms]
+"But we can check that with the net or a map, right? If we[r]
+use Street View, we can get a pretty good idea of our[r]
+surroundings."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -99,9 +102,9 @@ can get a pretty good idea of our surroundings."[pcms]
 [fc]
 [vo_mar s="maru1480"]
 [ns]Margarita[nse]
-"However, Wataru has a point. If the route we planned on using becomes unusable[r]
-for some reason... If we're suddenly attacked by infected... there's no recovery[r]
-from that."[pcms]
+"However, Wataru has a point. If the route we planned on[r]
+using becomes unusable for some reason... If we're suddenly[r]
+attacked by infected... there's no recovery from that."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -114,12 +117,13 @@ from that."[pcms]
 *1628|
 [fc]
 [ns]Wataru[nse]
-"And just the thought of being surrounded by infected in an unknown place gives[r]
-me the chills..."[pcms]
+"And just the thought of being surrounded by infected in an[r]
+unknown place gives me the chills..."[pcms]
 
 *1629|
 [fc]
-After pondering for a while, Maruko-senpai, with a puffed-up face, asks Kousuke.[pcms]
+After pondering for a while, Maruko-senpai, with a puffed-up[r]
+face, asks Kousuke.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -127,7 +131,8 @@ After pondering for a while, Maruko-senpai, with a puffed-up face, asks Kousuke.
 [fc]
 [vo_mar s="maru1481"]
 [ns]Margarita[nse]
-"...This building, it's often used for your meetups and such, right?"[pcms]
+"...This building, it's often used for your meetups and[r]
+such, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -147,8 +152,9 @@ After pondering for a while, Maruko-senpai, with a puffed-up face, asks Kousuke.
 [fc]
 [vo_mar s="maru1482"]
 [ns]Margarita[nse]
-"In other words, it's easily designated as a landmark... That means there's a[r]
-high possibility it can serve as a sign for rescuers."[pcms]
+"In other words, it's easily designated as a landmark...[r]
+That means there's a high possibility it can serve as a sign[r]
+for rescuers."[pcms]
 
 *1634|
 [fc]
@@ -157,8 +163,8 @@ high possibility it can serve as a sign for rescuers."[pcms]
 
 *1635|
 [fc]
-If it's about being in a place that's easy to find, then here is just as likely[r]
-as the seaside.[pcms]
+If it's about being in a place that's easy to find, then[r]
+here is just as likely as the seaside.[pcms]
 
 *1636|
 [fc]

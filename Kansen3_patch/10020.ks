@@ -14,25 +14,30 @@
 
 *85|
 [fc]
-I just kept running mindlessly, abandoning Wataru and fleeing.[pcms]
+I just kept running mindlessly, abandoning Wataru and[r]
+fleeing.[pcms]
 
 *86|
 [fc]
-There's nothing I can do. It's best to run away in this situation.[pcms]
+There's nothing I can do. It's best to run away in this[r]
+situation.[pcms]
 
 *87|
 [fc]
-If both of us are going to be instructed, it's better to have fewer sacrifices.[pcms]
+If both of us are going to be instructed, it's better to[r]
+have fewer sacrifices.[pcms]
 
 *88|
 [fc]
-Before I knew it, I had run up the emergency stairs behind the gymnasium and[r]
-escaped to the rooftop using the maintenance ladder.[pcms]
+Before I knew it, I had run up the emergency stairs behind[r]
+the gymnasium and escaped to the rooftop using the[r]
+maintenance ladder.[pcms]
 
 *89|
 [fc]
-While catching my breath and resting my nearly bursting heart, I cautiously[r]
-looked down from the edge of the gymnasium's rooftop.[pcms]
+While catching my breath and resting my nearly bursting[r]
+heart, I cautiously looked down from the edge of the[r]
+gymnasium's rooftop.[pcms]
 
 *90|
 [fc]
@@ -44,12 +49,14 @@ It seems he wasn't able to escape successfully after all.[pcms]
 
 *92|
 [fc]
-Although I felt bad for abandoning him after luring him out, it's not like he's[r]
-going to be eaten, so let's call it a noble sacrifice![pcms]
+Although I felt bad for abandoning him after luring him out,[r]
+it's not like he's going to be eaten, so let's call it a[r]
+noble sacrifice![pcms]
 
 *93|
 [fc]
-Looking down at Wataru, I joined my hands together and laughed.[pcms]
+Looking down at Wataru, I joined my hands together and[r]
+laughed.[pcms]
 
 ;//ÅYÇaÇfÅFäwçZëSåi
 [bg storage="BG07a"][trans_c cross time=500]
@@ -70,21 +77,23 @@ But this place is too hot.[pcms]
 
 *97|
 [fc]
-If I'm exposed to the blazing sun, I'll turn into a dried fish.[pcms]
+If I'm exposed to the blazing sun, I'll turn into a dried[r]
+fish.[pcms]
 
 *98|
 [fc]
-I decided to move to the rooftop of the "Kannan Academy Annex Building" next[r]
-door.[pcms]
+I decided to move to the rooftop of the "Kannan Academy[r]
+Annex Building" next door.[pcms]
 
 *99|
 [fc]
-It's a bit wide, but with a running start like in long jump, I can leap over it.[pcms]
+It's a bit wide, but with a running start like in long jump,[r]
+I can leap over it.[pcms]
 
 *100|
 [fc]
-This rooftop is a garden with plants and even a simple pond with fish, making it[r]
-much more comfortable.[pcms]
+This rooftop is a garden with plants and even a simple pond[r]
+with fish, making it much more comfortable.[pcms]
 
 *101|
 [fc]
@@ -93,28 +102,30 @@ much more comfortable.[pcms]
 
 *102|
 [fc]
-It's used as an annex building, but originally it was a branch office building[r]
-for Shibuya Ward.[pcms]
+It's used as an annex building, but originally it was a[r]
+branch office building for Shibuya Ward.[pcms]
 
 *103|
 [fc]
-Due to the tight location conditions in Shibuya Ward, it's built right next to[r]
-the gymnasium.[pcms]
+Due to the tight location conditions in Shibuya Ward, it's[r]
+built right next to the gymnasium.[pcms]
 
 *104|
 [fc]
-During the disaster four years ago, Japan's population decreased and the offices[r]
-were consolidated, and that's when our school took over this building.[pcms]
+During the disaster four years ago, Japan's population[r]
+decreased and the offices were consolidated, and that's when[r]
+our school took over this building.[pcms]
 
 *105|
 [fc]
-The biotope garden on this rooftop was also taken over and is now managed by the[r]
-school.[pcms]
+The biotope garden on this rooftop was also taken over and[r]
+is now managed by the school.[pcms]
 
 *106|
 [fc]
-I walked leisurely around the annex building's rooftop as if taking a stroll,[r]
-seeking refuge from the sunlight, and entered the school building.[pcms]
+I walked leisurely around the annex building's rooftop as if[r]
+taking a stroll, seeking refuge from the sunlight, and[r]
+entered the school building.[pcms]
 
 ;//ÅYÇaÇfÅFï™çZé…ì‡
 [bg storage="BG015"][trans_c cross time=500]
@@ -122,24 +133,25 @@ seeking refuge from the sunlight, and entered the school building.[pcms]
 
 *107|
 [fc]
-The inside of the building has been beautifully reformed, a far cry from its[r]
-days as an office.[pcms]
+The inside of the building has been beautifully reformed, a[r]
+far cry from its days as an office.[pcms]
 
 *108|
 [fc]
-The commercial department's computer learning and such... Well, now it's being[r]
-used by students as a special classroom block that the school wanted to add on[r]
-later.[pcms]
+The commercial department's computer learning and such...[r]
+Well, now it's being used by students as a special classroom[r]
+block that the school wanted to add on later.[pcms]
 
 *109|
 [fc]
-The building itself is old, but the facilities are state-of-the-art.[pcms]
+The building itself is old, but the facilities are state-of-[r]
+the-art.[pcms]
 
 *110|
 [fc]
 [ns]Kousuke[nse]
-"Speaking of which, I saw Margarita-senpai and the principal coming out earlier.[r]
-Was that compensated dating?!"[pcms]
+"Speaking of which, I saw Margarita-senpai and the principal[r]
+coming out earlier. Was that compensated dating?!"[pcms]
 
 ;//ÅYÇaÇfÅFçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -147,38 +159,42 @@ Was that compensated dating?!"[pcms]
 *111|
 [fc]
 [ns]Kousuke[nse]
-"There are rumors that Margarita-senpai is researching Shibuya's history, so[r]
-maybe it's part of that."[pcms]
+"There are rumors that Margarita-senpai is researching[r]
+Shibuya's history, so maybe it's part of that."[pcms]
 
 *112|
 [fc]
-I was amazed at my own wild imagination for jumping to compensated dating and[r]
-switched back to more plausible reasoning.[pcms]
+I was amazed at my own wild imagination for jumping to[r]
+compensated dating and switched back to more plausible[r]
+reasoning.[pcms]
 
 *113|
 [fc]
-Speaking of which, this school's grounds seem to have quite a history.[pcms]
+Speaking of which, this school's grounds seem to have quite[r]
+a history.[pcms]
 
 *114|
 [fc]
-During World War II, it was Imperial Army property, either a prison or a[r]
-training ground or something.[pcms]
+During World War II, it was Imperial Army property, either a[r]
+prison or a training ground or something.[pcms]
 
 *115|
 [fc]
-There's an urban legend that remnants from that time still lie beneath the[r]
-school, and ghost stories about wandering soldiers come up every summer.[pcms]
+There's an urban legend that remnants from that time still[r]
+lie beneath the school, and ghost stories about wandering[r]
+soldiers come up every summer.[pcms]
 
 *116|
 [fc]
-Another story is that there's an underground passage extending to Shibuya[r]
-Station that was made for evacuating athletes when Yoyogi Park across from the[r]
-school was used as a village for world championship competitors...[pcms]
+Another story is that there's an underground passage[r]
+extending to Shibuya Station that was made for evacuating[r]
+athletes when Yoyogi Park across from the school was used as[r]
+a village for world championship competitors...[pcms]
 
 *117|
 [fc]
-All these stories are dubious at best, but maybe Margarita-senpai actually likes[r]
-such occult stuff?[pcms]
+All these stories are dubious at best, but maybe Margarita-[r]
+senpai actually likes such occult stuff?[pcms]
 
 ;//ÅYÇaÇfÅFäwâÄëSåi
 [bg storage="BG07a"][trans_c cross time=500]
@@ -190,45 +206,49 @@ I wonder how Mizuki is doing now.[pcms]
 
 *119|
 [fc]
-Suddenly, I remembered my childhood friend who I spent time with at this school.[pcms]
+Suddenly, I remembered my childhood friend who I spent time[r]
+with at this school.[pcms]
 
 *120|
 [fc]
-She was good at singing, gentle... Not as lively as Yuuho, but I felt at ease[r]
-with her.[pcms]
+She was good at singing, gentle... Not as lively as Yuuho,[r]
+but I felt at ease with her.[pcms]
 
 *121|
 [fc]
-Before I knew it, I had come to like her not just as a childhood friend but as a[r]
-girl...[pcms]
+Before I knew it, I had come to like her not just as a[r]
+childhood friend but as a girl...[pcms]
 
 *122|
 [fc]
-The truth be told, the real reason I started music was to make Mizuki's dream[r]
-come true and to live happily together forever.[pcms]
+The truth be told, the real reason I started music was to[r]
+make Mizuki's dream come true and to live happily together[r]
+forever.[pcms]
 
 ;//ÅYÇaÇfçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *123|
 [fc]
-But before I knew it... Mizuki started hanging out with shady self-proclaimed[r]
-"industry people," and that was the beginning of everything--[pcms]
+But before I knew it... Mizuki started hanging out with[r]
+shady self-proclaimed "industry people," and that was the[r]
+beginning of everything--[pcms]
 
 *124|
 [fc]
-We started fighting all the time. Suddenly she stopped coming to school[r]
-altogether.[pcms]
+We started fighting all the time. Suddenly she stopped[r]
+coming to school altogether.[pcms]
 
 *125|
 [fc]
-She doesn't seem to be returning home either, and there are stories about her[r]
-being seen with bad guys who drifted into town from other places.[pcms]
+She doesn't seem to be returning home either, and there are[r]
+stories about her being seen with bad guys who drifted into[r]
+town from other places.[pcms]
 
 *126|
 [fc]
-Rumors started spreading that she became a gangster's woman or got addicted to[r]
-drugs...[pcms]
+Rumors started spreading that she became a gangster's woman[r]
+or got addicted to drugs...[pcms]
 
 ;ÉVÉXÉeÉÄÉ{É^ÉìÅïÉEÉBÉìÉhÉEè¡ãé
 [sysbt_meswin clear]
@@ -247,14 +267,15 @@ drugs...[pcms]
 
 *127|
 [fc]
-And what was decisive was seeing a video rumored to be of a girl who looked like[r]
-Mizuki being raped. That was definitely Mizuki herself.[pcms]
+And what was decisive was seeing a video rumored to be of a[r]
+girl who looked like Mizuki being raped. That was definitely[r]
+Mizuki herself.[pcms]
 
 *128|
 [fc]
-If things were going to turn out like this, I should have... I should have[r]
-protected her with my life back then. There must have been a chance to stop her[r]
-rampage.[pcms]
+If things were going to turn out like this, I should have...[r]
+I should have protected her with my life back then. There[r]
+must have been a chance to stop her rampage.[pcms]
 
 ;//ÅYäwçZòLâ∫ÅiäKíiÅj
 [bg storage="BG015"][trans_c cross time=500]
@@ -262,12 +283,14 @@ rampage.[pcms]
 
 *129|
 [fc]
-Sitting in the shadow of the stairs, I absentmindedly thought about it.[pcms]
+Sitting in the shadow of the stairs, I absentmindedly[r]
+thought about it.[pcms]
 
 *130|
 [fc]
-It's been over a year since Mizuki disappeared. For some reason, we still[r]
-haven't met again, but next time I want to save her by force if necessary.[pcms]
+It's been over a year since Mizuki disappeared. For some[r]
+reason, we still haven't met again, but next time I want to[r]
+save her by force if necessary.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -279,7 +302,8 @@ haven't met again, but next time I want to save her by force if necessary.[pcms]
 
 *132|
 [fc]
-Suddenly addressed from behind, I almost slid off the stairs.[pcms]
+Suddenly addressed from behind, I almost slid off the[r]
+stairs.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -328,8 +352,8 @@ Suddenly addressed from behind, I almost slid off the stairs.[pcms]
 
 *139|
 [fc]
-While dealing with Ren-chan's curious questions, I casually brushed them off and[r]
-changed the subject.[pcms]
+While dealing with Ren-chan's curious questions, I casually[r]
+brushed them off and changed the subject.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -351,8 +375,8 @@ changed the subject.[pcms]
 *142|
 [fc]
 [ns]Kousuke[nse]
-"Then, how about we go together to borrow some records from the master at[r]
-LASER's DJ-Bar?"[pcms]
+"Then, how about we go together to borrow some records from[r]
+the master at LASER's DJ-Bar?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -360,7 +384,8 @@ LASER's DJ-Bar?"[pcms]
 [fc]
 [vo_ren s="ren0439"]
 [ns]Ren[nse]
-"Sure. I wanted to go to Manga Darake anyway, so it works out well."[pcms]
+"Sure. I wanted to go to Manga Darake anyway, so it works[r]
+out well."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -374,18 +399,18 @@ LASER's DJ-Bar?"[pcms]
 
 *145|
 [fc]
-As we moved to the bicycle parking area, Ren-chan noticed that Wataru's bicycle[r]
-wasn't there and mentioned it to me.[pcms]
+As we moved to the bicycle parking area, Ren-chan noticed[r]
+that Wataru's bicycle wasn't there and mentioned it to me.[pcms]
 
 *146|
 [fc]
-Ren-chan, with a somewhat sulky expression, told me that "Yuuho must have gone[r]
-somewhere with him after practice."[pcms]
+Ren-chan, with a somewhat sulky expression, told me that[r]
+"Yuuho must have gone somewhere with him after practice."[pcms]
 
 *147|
 [fc]
-She started typing an email on the spot. I guessed that we'd probably meet up at[r]
-LASER, watching her as she did so.[pcms]
+She started typing an email on the spot. I guessed that we'd[r]
+probably meet up at LASER, watching her as she did so.[pcms]
 
 ;[zapend_random]
 [zapfade]

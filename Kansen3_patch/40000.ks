@@ -42,7 +42,8 @@ Gongon... gongon...[pcms]
 
 *2|
 [fc]
-The hatch that was supposed to be tightly closed is being knocked on already.[pcms]
+The hatch that was supposed to be tightly closed is being[r]
+knocked on already.[pcms]
 
 *3|
 [fc]
@@ -132,7 +133,8 @@ Gogon! Gon! Gogon! Gongon![pcms]
 
 *8|
 [fc]
-Gon!! Gogon! Gongon! Gon! Gon! Gogon! Gon!! Gogon! Gon! Gongon!![pcms]
+Gon!! Gogon! Gongon! Gon! Gon! Gogon! Gon!! Gogon! Gon![r]
+Gongon!![pcms]
 
 *9|
 [fc]
@@ -141,8 +143,9 @@ Gon!! Gogon! Gongon! Gon! Gon! Gogon! Gon!! Gogon! Gon! Gongon!![pcms]
 
 *9a|
 [fc]
-The sound echoing from the hatch, struck violently like a downpour and weakly at[r]
-random, was not made by a sane human being.[pcms]
+The sound echoing from the hatch, struck violently like a[r]
+downpour and weakly at random, was not made by a sane human[r]
+being.[pcms]
 
 *9b|
 [fc]
@@ -150,8 +153,9 @@ It's them![pcms]
 
 *10|
 [fc]
-Moving instinctively... borrowing the words of my senior, it's not humans but[r]
-"beasts in human form" that are swarming and continuously pounding on the hatch![pcms]
+Moving instinctively... borrowing the words of my senior,[r]
+it's not humans but "beasts in human form" that are swarming[r]
+and continuously pounding on the hatch![pcms]
 
 ;//SE・金属の板を叩く音
 ;// ごんごんはフォント大きめで、特殊フォント？
@@ -255,7 +259,8 @@ Gogon! Gon! Gogon! Gogogon!![pcms]
 
 *17|
 [fc]
-Gogon!! Gogon! Gongon! Gon! Gon! Gongon! Gon!! Gongon! Gongon!! Gon![pcms]
+Gogon!! Gogon! Gongon! Gon! Gon! Gongon! Gon!! Gongon![r]
+Gongon!! Gon![pcms]
 
 *18|
 [fc]
@@ -281,7 +286,8 @@ Gogon!! Gogon! Gongon! Gon! Gon! Gongon! Gon!! Gongon! Gongon!! Gon![pcms]
 
 *21|
 [fc]
-While letting out a pitiful scream, I stagger backward in terror.[pcms]
+While letting out a pitiful scream, I stagger backward in[r]
+terror.[pcms]
 
 ;//se004・身体と身体が　軽くぶつかる音
 [se buf=0 storage="se004"]
@@ -334,15 +340,17 @@ Yuuho is looking at me with concern.[pcms]
 [fc]
 [vo_mar s="maru0884"]
 [ns]Margarita[nse]
-"Being cowardly can help you survive. Cowardice also means being cautious.[r]
-Foolhardy bravery without fear leads to ruin over trivial matters."[pcms]
+"Being cowardly can help you survive. Cowardice also means[r]
+being cautious. Foolhardy bravery without fear leads to ruin[r]
+over trivial matters."[pcms]
 
 *31|
 [fc]
 [vo_mar s="maru0885"]
 [ns]Margarita[nse]
-"However, being too cowardly means you might end up frozen in fear, simply[r]
-waiting for death. It's meaningless to lose to fear."[pcms]
+"However, being too cowardly means you might end up frozen[r]
+in fear, simply waiting for death. It's meaningless to lose[r]
+to fear."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -363,8 +371,9 @@ waiting for death. It's meaningless to lose to fear."[pcms]
 [fc]
 [vo_mar s="maru0887"]
 [ns]Margarita[nse]
-"It's unlikely that hatch will be broken through, but staying here gets us[r]
-nowhere. Above all, if we're at a dead end, we have no further means to escape."[pcms]
+"It's unlikely that hatch will be broken through, but[r]
+staying here gets us nowhere. Above all, if we're at a dead[r]
+end, we have no further means to escape."[pcms]
 
 *35|
 [fc]
@@ -377,8 +386,8 @@ nowhere. Above all, if we're at a dead end, we have no further means to escape."
 *36|
 [fc]
 [ns]Kousuke[nse]
-"For real? We don't even know what's down there, and you wanna go down? You[r]
-kidding me?!"[pcms]
+"For real? We don't even know what's down there, and you[r]
+wanna go down? You kidding me?!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -397,7 +406,8 @@ kidding me?!"[pcms]
 
 *39|
 [fc]
-It was then that Kousuke and the senior glared at each other.[pcms]
+It was then that Kousuke and the senior glared at each[r]
+other.[pcms]
 
 [chara_int][trans_c cross time=150]
 ;//se043・金属の板を叩く音
@@ -429,8 +439,8 @@ Gongongongongongongongongongongongon![pcms]
 
 *43|
 [fc]
-The clamorous sound of metal being struck reverberates, and we all look at the[r]
-hatch in shock.[pcms]
+The clamorous sound of metal being struck reverberates, and[r]
+we all look at the hatch in shock.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -485,8 +495,9 @@ Yuuho bit her lip and glared intently at the door.[pcms]
 
 *51|
 [fc]
-Next to the bewildered Kousuke, the senior muttered something in a foreign[r]
-language and made the sign of the cross in front of his chest.[pcms]
+Next to the bewildered Kousuke, the senior muttered[r]
+something in a foreign language and made the sign of the[r]
+cross in front of his chest.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -498,7 +509,8 @@ language and made the sign of the cross in front of his chest.[pcms]
 
 *53|
 [fc]
-Unable to bear the tension any longer, Ren began to sob softly.[pcms]
+Unable to bear the tension any longer, Ren began to sob[r]
+softly.[pcms]
 
 *54|
 [fc]
@@ -518,7 +530,8 @@ I pulled Ren's body close to embrace her.[pcms]
 
 
 ;	[link storage="40010.ks" target=*40010_TOP]悠帆のそばに行く[endlink]
-; (link storage="40020.ks" target=*40020_TOP)Calm Ren down(endlink)[pcms]
+; (link storage="40020.ks" target=*40020_TOP)Calm Ren[r]
+down(endlink)[pcms]
 
 *SEL29|悠帆のそばに行く／漣を落ち着かせる
 [fc]

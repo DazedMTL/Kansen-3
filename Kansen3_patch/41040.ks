@@ -63,8 +63,8 @@ This is indeed, that basement...[pcms]
 
 *2575|
 [fc]
-We were the only ones there, wrapped in towels and covered with larger towels[r]
-and jackets over our bellies as we slept.[pcms]
+We were the only ones there, wrapped in towels and covered[r]
+with larger towels and jackets over our bellies as we slept.[pcms]
 
 *2576|
 [fc]
@@ -77,20 +77,21 @@ As expected, Ren's figure was nowhere to be seen.[pcms]
 
 *2578|
 [fc]
-The disappointment after the anticipation left me speechless and sinking.[pcms]
+The disappointment after the anticipation left me speechless[r]
+and sinking.[pcms]
 
 ;//　画面黒
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2579|
 [fc]
-I closed my eyes. They were completely awake, but I had to sleep, so I forced my[r]
-eyelids shut.[pcms]
+I closed my eyes. They were completely awake, but I had to[r]
+sleep, so I forced my eyelids shut.[pcms]
 
 *2580|
 [fc]
-Tears welled up around my eyes. "I must not cry!" I have to sleep, forget, and[r]
-show a cheerful face to the two of them.[pcms]
+Tears welled up around my eyes. "I must not cry!" I have to[r]
+sleep, forget, and show a cheerful face to the two of them.[pcms]
 
 ;//se108・ハッチをノック
 ;//[se buf=0 storage="se108"]
@@ -120,7 +121,8 @@ I thought I heard a sound and sat up.[pcms]
 
 *2584|
 [fc]
-There was a sound. A knocking sound. And also a voice calling me...[pcms]
+There was a sound. A knocking sound. And also a voice[r]
+calling me...[pcms]
 
 [fadeoutbgm time=500]
 ;//se066・布ずれの音
@@ -134,8 +136,8 @@ There was a sound. A knocking sound. And also a voice calling me...[pcms]
 
 *2585|
 [fc]
-I strained my ears and slowly walked towards the direction from which the sound[r]
-was coming.[pcms]
+I strained my ears and slowly walked towards the direction[r]
+from which the sound was coming.[pcms]
 
 *2586|
 [fc]
@@ -157,7 +159,8 @@ I was led by that voice, climbing up the stairs.[pcms]
 
 *2589|
 [fc]
-The sound of my footsteps echoed alone in the dimly lit concrete room.[pcms]
+The sound of my footsteps echoed alone in the dimly lit[r]
+concrete room.[pcms]
 
 *2590|
 [fc]
@@ -171,7 +174,8 @@ The sound of my footsteps echoed alone in the dimly lit concrete room.[pcms]
 
 *2591|
 [fc]
-The faint voice heard between the echoing footsteps, a small, hesitant knock.[pcms]
+The faint voice heard between the echoing footsteps, a[r]
+small, hesitant knock.[pcms]
 
 *2592|
 [fc]
@@ -191,7 +195,8 @@ I remembered both sounds.[pcms]
 
 *2595|
 [fc]
-That voice was unmistakably... the voice of the sister I had been longing for.[pcms]
+That voice was unmistakably... the voice of the sister I had[r]
+been longing for.[pcms]
 
 *2596|
 [fc]
@@ -222,8 +227,8 @@ I answered the voice with a tremble.[pcms]
 
 *2601|
 [fc]
-At Ren's voice, my body received a tingling shock. A nasty sweat began to seep[r]
-out from my body.[pcms]
+At Ren's voice, my body received a tingling shock. A nasty[r]
+sweat began to seep out from my body.[pcms]
 
 *2602|
 [fc]
@@ -238,13 +243,13 @@ out from my body.[pcms]
 
 *2604|
 [fc]
-But it sounded as if she was drunk on alcohol, oddly merry and in high[r]
-spirits...[pcms]
+But it sounded as if she was drunk on alcohol, oddly merry[r]
+and in high spirits...[pcms]
 
 *2605|
 [fc]
-It didn't seem at all like she had narrowly escaped from being surrounded by[r]
-infected people.[pcms]
+It didn't seem at all like she had narrowly escaped from[r]
+being surrounded by infected people.[pcms]
 
 *2606|
 [fc]
@@ -267,22 +272,23 @@ It was as if...[pcms]
 [fc]
 [vo_mob s="yoshino0019"]
 [ns]Yoshino[nse]
-"It feels good~. Just now, some stranger did it to me a lot, a lot. He thrust[r]
-into my ass and pussy a lot."[pcms]
+"It feels good~. Just now, some stranger did it to me a lot,[r]
+a lot. He thrust into my ass and pussy a lot."[pcms]
 
 *2609|
 [fc]
 [vo_mob s="yoshino0020"]
 [ns]Yoshino[nse]
-"A dick, of course? What else would you thrust into my pussy and ass?[r]
-Ahahaha..."[pcms]
+"A dick, of course? What else would you thrust into my pussy[r]
+and ass? Ahahaha..."[pcms]
 
 *2610|
 [fc]
 [vo_mob s="yoshino0021"]
 [ns]Yoshino[nse]
-"Let's do it, it feels good. Do you want to put it in my ass? Or in my pussy?[r]
-Come on, you want to thrust it in, don't you?"[pcms]
+"Let's do it, it feels good. Do you want to put it in my[r]
+ass? Or in my pussy? Come on, you want to thrust it in,[r]
+don't you?"[pcms]
 
 ;//　フラッシュバック　終わり
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -333,7 +339,8 @@ Suddenly, something on my shoulder![pcms]
 
 *2618|
 [fc]
-I involuntarily let out a cry, a muffled scream as if I was gasping for breath.[pcms]
+I involuntarily let out a cry, a muffled scream as if I was[r]
+gasping for breath.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -360,8 +367,9 @@ Senpai silently nods her head in agreement.[pcms]
 
 *2623|
 [fc]
-Needless to say, it was Senpai who had just placed her hand on my shoulder. She[r]
-must have been worried about me and came to check on me.[pcms]
+Needless to say, it was Senpai who had just placed her hand[r]
+on my shoulder. She must have been worried about me and came[r]
+to check on me.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -378,21 +386,23 @@ must have been worried about me and came to check on me.[pcms]
 
 *2625|
 [fc]
-The sound of knocking on the hatch has gotten louder than before. It feels like[r]
-the voice has gotten louder after confirming my presence.[pcms]
+The sound of knocking on the hatch has gotten louder than[r]
+before. It feels like the voice has gotten louder after[r]
+confirming my presence.[pcms]
 
 *2626|
 [fc]
 [vo_ren s="ren0331"]
 [ns]Ren[nse]
-"I heard that Onii-chan went in here. You were here after all~"[pcms]
+"I heard that Onii-chan went in here. You were here after[r]
+all~"[pcms]
 
 *2627|
 [fc]
 [vo_ren s="ren0332"]
 [ns]Ren[nse]
-"Onii-chaaan~. I'm so tired. Hurry up and open up~. I'm thirsty, and my stomach[r]
-is really empty."[pcms]
+"Onii-chaaan~. I'm so tired. Hurry up and open up~. I'm[r]
+thirsty, and my stomach is really empty."[pcms]
 
 *2628|
 [fc]
@@ -426,25 +436,28 @@ is really empty."[pcms]
 
 *2633|
 [fc]
-Senpai's brief words were filled with a pitiful and hesitant emphasis. Ren is[r]
-infected. We must not open this door.[pcms]
+Senpai's brief words were filled with a pitiful and hesitant[r]
+emphasis. Ren is infected. We must not open this door.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2634|
 [fc]
-I was also warned by Dad via email to "never go near the infected."[pcms]
+I was also warned by Dad via email to "never go near the[r]
+infected."[pcms]
 
 *2635|
 [fc]
-...At the same time, he also told me to "take care of Ren"...[pcms]
+...At the same time, he also told me to "take care of[r]
+Ren"...[pcms]
 
 *2636|
 [fc]
 [vo_ren s="ren0334"]
 [ns]Ren[nse]
-"Is that... a woman's voice? Is there a woman there~ Onii-chan?"[pcms]
+"Is that... a woman's voice? Is there a woman there~ Onii-[r]
+chan?"[pcms]
 
 *2637|
 [fc]
@@ -466,8 +479,8 @@ I was also warned by Dad via email to "never go near the infected."[pcms]
 [fc]
 [vo_ren s="ren0335"]
 [ns]Ren[nse]
-"That woman is telling you not to open it, isn't she~. Why are you listening to[r]
-what some woman says~"[pcms]
+"That woman is telling you not to open it, isn't she~. Why[r]
+are you listening to what some woman says~"[pcms]
 
 *2640|
 [fc]
@@ -496,8 +509,8 @@ We involuntarily hold our breath at Ren's voice.[pcms]
 
 *2643|
 [fc]
-Yuuho must have heard the noise and come over. She was covering her mouth,[r]
-gasping for breath.[pcms]
+Yuuho must have heard the noise and come over. She was[r]
+covering her mouth, gasping for breath.[pcms]
 
 *2644|
 [fc]
@@ -533,8 +546,8 @@ Tears began to spill from Yuuho's eyes.[pcms]
 
 *2650|
 [fc]
-Despite having cried so much before, tears of unbearable sadness were streaming[r]
-down Yuuho's cheeks.[pcms]
+Despite having cried so much before, tears of unbearable[r]
+sadness were streaming down Yuuho's cheeks.[pcms]
 
 *2651|
 [fc]
@@ -551,8 +564,9 @@ down Yuuho's cheeks.[pcms]
 [fc]
 [vo_ren s="ren0337"]
 [ns]Ren[nse]
-"...Yuuho-chan is there? Onii-chan, hurry up and let me in~. It's not fair that[r]
-only Yuuho-chan is inside~. Hey~, Onii-chan"[pcms]
+"...Yuuho-chan is there? Onii-chan, hurry up and let me in~.[r]
+It's not fair that only Yuuho-chan is inside~. Hey~, Onii-[r]
+chan"[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -565,7 +579,8 @@ only Yuuho-chan is inside~. Hey~, Onii-chan"[pcms]
 [fc]
 [vo_ren s="ren0338"]
 [ns]Ren[nse]
-"Onii-chan! Yuuho-chan is saying it~! She's saying not to let me in~!!"[pcms]
+"Onii-chan! Yuuho-chan is saying it~! She's saying not to[r]
+let me in~!!"[pcms]
 
 *2654|
 [fc]
@@ -583,8 +598,8 @@ only Yuuho-chan is inside~. Hey~, Onii-chan"[pcms]
 [fc]
 [vo_ren s="ren0339"]
 [ns]Ren[nse]
-"It's not fair, only Yuuho! She really intends to take Onii-chan away from me![r]
-That's right! That must be it~!!"[pcms]
+"It's not fair, only Yuuho! She really intends to take Onii-[r]
+chan away from me! That's right! That must be it~!!"[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -597,8 +612,8 @@ That's right! That must be it~!!"[pcms]
 [fc]
 [vo_ren s="ren0340"]
 [ns]Ren[nse]
-"I won't forgive her! I'll kill her! Anyone who tries to steal Onii-chan from[r]
-me, I'll kill them~!!"[pcms]
+"I won't forgive her! I'll kill her! Anyone who tries to[r]
+steal Onii-chan from me, I'll kill them~!!"[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -626,7 +641,8 @@ me, I'll kill them~!!"[pcms]
 
 *2658|
 [fc]
-Yuuho screams. Ren curses at Yuuho with words I've never heard her use before.[pcms]
+Yuuho screams. Ren curses at Yuuho with words I've never[r]
+heard her use before.[pcms]
 
 *2659|
 [fc]
@@ -638,12 +654,14 @@ It's Ren, but at the same time, it's not Ren!![pcms]
 
 *2661|
 [fc]
-It's like that movie remade years ago with a popular black actor as the lead.[pcms]
+It's like that movie remade years ago with a popular black[r]
+actor as the lead.[pcms]
 
 *2662|
 [fc]
-In the movie, the family and friends who became vampires visit the only man left[r]
-on Earth every night, knocking on his door and begging to be let in...[pcms]
+In the movie, the family and friends who became vampires[r]
+visit the only man left on Earth every night, knocking on[r]
+his door and begging to be let in...[pcms]
 
 ;//　地球最後の男（オメガマン、アイ・アム・レジェンド）
 
@@ -655,8 +673,9 @@ Ren is like the vampires from that movie...[pcms]
 [fc]
 [vo_ren s="ren0341"]
 [ns]Ren[nse]
-"Open up quickly!! What do you see in such a woman~! A two-faced heartbreaker![r]
-Knowing how Onii-chan feels and playing with him!"[pcms]
+"Open up quickly!! What do you see in such a woman~! A two-[r]
+faced heartbreaker! Knowing how Onii-chan feels and playing[r]
+with him!"[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -669,8 +688,9 @@ Knowing how Onii-chan feels and playing with him!"[pcms]
 [fc]
 [vo_ren s="ren0342"]
 [ns]Ren[nse]
-"I can cherish Onii-chan more than such a woman! Open up quickly! I'm the one[r]
-who can make Onii-chan happy! I'll kill her! Open up!! I'll kill her!!"[pcms]
+"I can cherish Onii-chan more than such a woman! Open up[r]
+quickly! I'm the one who can make Onii-chan happy! I'll kill[r]
+her! Open up!! I'll kill her!!"[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -714,9 +734,9 @@ Maruko-senpai mutters in a daze.[pcms]
 
 *2669|
 [fc]
-Indeed, Ren's sudden change was just like the possession by a demon I saw in a[r]
-movie. The filthy words that Ren would never say, her raging with incredible[r]
-strength...[pcms]
+Indeed, Ren's sudden change was just like the possession by[r]
+a demon I saw in a movie. The filthy words that Ren would[r]
+never say, her raging with incredible strength...[pcms]
 
 *2670|
 [fc]
@@ -724,7 +744,8 @@ It's just like a movie. Exactly like a movie![pcms]
 
 *2671|
 [fc]
-...How I wish it were just a movie. But this is unmistakably reality.[pcms]
+...How I wish it were just a movie. But this is unmistakably[r]
+reality.[pcms]
 
 *2672|
 [fc]
@@ -775,7 +796,8 @@ The hatch creaks under Ren's furious pounding.[pcms]
 
 *2676|
 [fc]
-Yuuho crouches down with her ears covered, crying and screaming.[pcms]
+Yuuho crouches down with her ears covered, crying and[r]
+screaming.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -864,7 +886,8 @@ Yuuho crouches down with her ears covered, crying and screaming.[pcms]
 
 *2684|
 [fc]
-The intense sound of Ren's voice and the continuous banging on the hatch stops.[pcms]
+The intense sound of Ren's voice and the continuous banging[r]
+on the hatch stops.[pcms]
 
 *2685|
 [fc]
@@ -879,7 +902,8 @@ The intense sound of Ren's voice and the continuous banging on the hatch stops.[
 
 *2687|
 [fc]
-I approach the door and, with a voice that naturally trembles, I speak to Ren.[pcms]
+I approach the door and, with a voice that naturally[r]
+trembles, I speak to Ren.[pcms]
 
 *2688|
 [fc]
@@ -910,21 +934,23 @@ I approach the door and, with a voice that naturally trembles, I speak to Ren.[p
 
 *2693|
 [fc]
-My vision blurs, and my eyes feel hot. Despite all the crying, and trying so[r]
-hard not to cry anymore, tears start to fall uncontrollably.[pcms]
+My vision blurs, and my eyes feel hot. Despite all the[r]
+crying, and trying so hard not to cry anymore, tears start[r]
+to fall uncontrollably.[pcms]
 
 *2694|
 [fc]
 [vo_ren s="ren0350"]
 [ns]Ren[nse]
-"Hey... Onii-chan. Let me in quickly. You must be hungry too, right?"[pcms]
+"Hey... Onii-chan. Let me in quickly. You must be hungry[r]
+too, right?"[pcms]
 
 *2695|
 [fc]
 [vo_ren s="ren0351"]
 [ns]Ren[nse]
-"I couldn't make curry last time, so today I'll make it for you. ...So please,[r]
-open the door, Onii-chan..."[pcms]
+"I couldn't make curry last time, so today I'll make it for[r]
+you. ...So please, open the door, Onii-chan..."[pcms]
 
 *2696|
 [fc]
@@ -966,8 +992,8 @@ The sobbing voice leaks through the hatch.[pcms]
 
 *2703|
 [fc]
-The terrifying tone mixed with crying makes me shudder, and my heart feels like[r]
-it's being gripped tightly.[pcms]
+The terrifying tone mixed with crying makes me shudder, and[r]
+my heart feels like it's being gripped tightly.[pcms]
 
 *2704|
 [fc]
@@ -984,7 +1010,8 @@ it's being gripped tightly.[pcms]
 [fc]
 [vo_ren s="ren0355"]
 [ns]Ren[nse]
-"Because I'm weak? I see, you've become tired of taking care of me. Is that it?"[pcms]
+"Because I'm weak? I see, you've become tired of taking care[r]
+of me. Is that it?"[pcms]
 
 *2707|
 [fc]
@@ -993,8 +1020,8 @@ it's being gripped tightly.[pcms]
 
 *2708|
 [fc]
-I weakly deny the malicious words that I would never expect from Ren, barely[r]
-squeezing out the words.[pcms]
+I weakly deny the malicious words that I would never expect[r]
+from Ren, barely squeezing out the words.[pcms]
 
 *2709|
 [fc]
@@ -1013,17 +1040,19 @@ But...[pcms]
 
 *2712|
 [fc]
-I feel like my breath and even my heart might stop at those words.[pcms]
+I feel like my breath and even my heart might stop at those[r]
+words.[pcms]
 
 *2713|
 [fc]
-My mouth is dry, my body feels as heavy as lead, and even my fingers seem unable[r]
-to move.[pcms]
+My mouth is dry, my body feels as heavy as lead, and even my[r]
+fingers seem unable to move.[pcms]
 
 *2714|
 [fc]
-My mind goes blank, and it feels like everything might just disappear. No, maybe[r]
-it would be better if it all just vanished.[pcms]
+My mind goes blank, and it feels like everything might just[r]
+disappear. No, maybe it would be better if it all just[r]
+vanished.[pcms]
 
 *2715|
 [fc]
@@ -1033,8 +1062,8 @@ I thought that while being bombarded with words from Ren.[pcms]
 [fc]
 [vo_ren s="ren0357"]
 [ns]Ren[nse]
-"I was waiting for you~? I was waiting for Onii-chan to come save me... I waited[r]
-so long, you know?"[pcms]
+"I was waiting for you~? I was waiting for Onii-chan to come[r]
+save me... I waited so long, you know?"[pcms]
 
 *2717|
 [fc]
@@ -1045,7 +1074,8 @@ so long, you know?"[pcms]
 [fc]
 [vo_ren s="ren0358"]
 [ns]Ren[nse]
-"Is that so? But then, why is Yuuho-chan with you? Huh? Why?"[pcms]
+"Is that so? But then, why is Yuuho-chan with you? Huh?[r]
+Why?"[pcms]
 
 *2719|
 [fc]
@@ -1056,15 +1086,16 @@ so long, you know?"[pcms]
 [fc]
 [vo_ren s="ren0359"]
 [ns]Ren[nse]
-"Yuuho-chan is there, right? Why am I not there with you? Why am I not together[r]
-with you?"[pcms]
+"Yuuho-chan is there, right? Why am I not there with you?[r]
+Why am I not together with you?"[pcms]
 
 *2721|
 [fc]
 [vo_ren s="ren0360"]
 [ns]Ren[nse]
-"After all, I'm just in the way... Is it because I always get bullied, or[r]
-because I get sick and feel bad? Have you gotten tired of taking care of me?"[pcms]
+"After all, I'm just in the way... Is it because I always[r]
+get bullied, or because I get sick and feel bad? Have you[r]
+gotten tired of taking care of me?"[pcms]
 
 *2722|
 [fc]
@@ -1087,13 +1118,15 @@ because I get sick and feel bad? Have you gotten tired of taking care of me?"[pc
 
 *2724|
 [fc]
-Ren's voice becomes rough again, and she bangs on the hatch forcefully.[pcms]
+Ren's voice becomes rough again, and she bangs on the hatch[r]
+forcefully.[pcms]
 
 *2725|
 [fc]
 [ns]Wataru[nse]
-"It's not that! The reason I couldn't come to save you is because I was weak,[r]
-because I couldn't make it to where you were! I wanted to save you!"[pcms]
+"It's not that! The reason I couldn't come to save you is[r]
+because I was weak, because I couldn't make it to where you[r]
+were! I wanted to save you!"[pcms]
 
 *2726|
 [fc]
@@ -1130,8 +1163,8 @@ The banging on the hatch stops.[pcms]
 [fc]
 [vo_ren s="ren0365"]
 [ns]Ren[nse]
-"Onii-chan... Then hurry up and open this... You said I'm your precious sister,[r]
-right? Your beloved sister, right!"[pcms]
+"Onii-chan... Then hurry up and open this... You said I'm[r]
+your precious sister, right? Your beloved sister, right!"[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -1160,12 +1193,13 @@ right? Your beloved sister, right!"[pcms]
 [fc]
 [vo_ren s="ren0366"]
 [ns]Ren[nse]
-"Hey! Open it!! Hey! Hey! Open it! Open it! Open it!! Open it~!! Open it~~!!"[pcms]
+"Hey! Open it!! Hey! Hey! Open it! Open it! Open it!! Open[r]
+it~!! Open it~~!!"[pcms]
 
 *2734|
 [fc]
-The voice that seemed to be crying suddenly changes to anger, and she begins to[r]
-pound on the hatch.[pcms]
+The voice that seemed to be crying suddenly changes to[r]
+anger, and she begins to pound on the hatch.[pcms]
 
 *2735|
 [fc]
@@ -1196,8 +1230,8 @@ I crouch down, holding my head in my hands.[pcms]
 
 *2740|
 [fc]
-The growling of the infected can be heard approaching from afar. If they attack[r]
-me... I'll end up like Ren...[pcms]
+The growling of the infected can be heard approaching from[r]
+afar. If they attack me... I'll end up like Ren...[pcms]
 
 *2741|
 [fc]
@@ -1205,17 +1239,18 @@ Together with Ren? Maybe that wouldn't be so bad.[pcms]
 
 *2742|
 [fc]
-The last man alive on Earth was feared as the "Legendary Monster."[pcms]
+The last man alive on Earth was feared as the "Legendary[r]
+Monster."[pcms]
 
 *2743|
 [fc]
-By the new masters of Earth, the "Vampires." Not the ending of the remade movie,[r]
-but the original one.[pcms]
+By the new masters of Earth, the "Vampires." Not the ending[r]
+of the remade movie, but the original one.[pcms]
 
 *2744|
 [fc]
---That's right. Maybe I should just become one of Ren's kind. After all, Kousuke[r]
-and Dad...[pcms]
+--That's right. Maybe I should just become one of Ren's[r]
+kind. After all, Kousuke and Dad...[pcms]
 
 *2745|
 [fc]
@@ -1246,7 +1281,8 @@ I don't want to be left alone.[pcms]
 
 *2746|
 [fc]
-The banging on the hatch increases, and the walls begin to creak.[pcms]
+The banging on the hatch increases, and the walls begin to[r]
+creak.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1254,13 +1290,14 @@ The banging on the hatch increases, and the walls begin to creak.[pcms]
 [fc]
 [vo_mar s="maru0363"]
 [ns]Margarita[nse]
-"The hatch looks like it's going to break. The door might hold, but the[r]
-surrounding concrete is deteriorating... if they keep swarming like this..."[pcms]
+"The hatch looks like it's going to break. The door might[r]
+hold, but the surrounding concrete is deteriorating... if[r]
+they keep swarming like this..."[pcms]
 
 *2748|
 [fc]
-Maruko-senpai is shouting. But it doesn't matter anymore. I'm going to become[r]
-one of Ren's kind.[pcms]
+Maruko-senpai is shouting. But it doesn't matter anymore.[r]
+I'm going to become one of Ren's kind.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1296,7 +1333,8 @@ It doesn't matter anymore... Senpai can escape by herself.[pcms]
 
 *2753|
 [fc]
-A sharp pain runs across my cheek, and I am forcefully grabbed by the chest.[pcms]
+A sharp pain runs across my cheek, and I am forcefully[r]
+grabbed by the chest.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1312,7 +1350,8 @@ A sharp pain runs across my cheek, and I am forcefully grabbed by the chest.[pcm
 [fc]
 [vo_mar s="maru0367"]
 [ns]Margarita[nse]
-"What did you save her for!? Aren't you supposed to protect her?!"[pcms]
+"What did you save her for!? Aren't you supposed to protect[r]
+her?!"[pcms]
 
 *2756|
 [fc]
@@ -1327,12 +1366,14 @@ Maruko-senpai points at Yuuho and speaks to me.[pcms]
 
 *2758|
 [fc]
-A sense of mission surges in my heart that had fallen into despair. It feels[r]
-like blood is flowing back into my powerless limbs.[pcms]
+A sense of mission surges in my heart that had fallen into[r]
+despair. It feels like blood is flowing back into my[r]
+powerless limbs.[pcms]
 
 *2759|
 [fc]
-That's right, Yuuho is still here. I have to... I have to protect Yuuho!![pcms]
+That's right, Yuuho is still here. I have to... I have to[r]
+protect Yuuho!![pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -1356,8 +1397,8 @@ That's right, Yuuho is still here. I have to... I have to protect Yuuho!![pcms]
 [fc]
 [vo_mar s="maru0368"]
 [ns]Margarita[nse]
-"We can't hold out much longer! You take care of Kannagi! I'll pack up and break[r]
-through the door!"[pcms]
+"We can't hold out much longer! You take care of Kannagi![r]
+I'll pack up and break through the door!"[pcms]
 
 *2763|
 [fc]
@@ -1375,14 +1416,15 @@ I try to go to Yuuho's side following Senpai's words.[pcms]
 [fc]
 [vo_ren s="ren0367"]
 [ns]Ren[nse]
-"Who's that!? Onii-chan, is there another woman there!? She's trying to steal[r]
-you from me too!"[pcms]
+"Who's that!? Onii-chan, is there another woman there!?[r]
+She's trying to steal you from me too!"[pcms]
 
 *2766|
 [fc]
 [vo_ren s="ren0368"]
 [ns]Ren[nse]
-"She's deceiving you, Onii-chan! I'll kill her too! Open it! Open it~!!"[pcms]
+"She's deceiving you, Onii-chan! I'll kill her too! Open it![r]
+Open it~!!"[pcms]
 
 *2767|
 [fc]
@@ -1394,8 +1436,9 @@ you from me too!"[pcms]
 
 *2768|
 [fc]
-I pick up the flashlight I had dropped on the floor, embrace Yuuho's shoulders[r]
-as she crouches and cries, and pull her up to descend into the basement.[pcms]
+I pick up the flashlight I had dropped on the floor, embrace[r]
+Yuuho's shoulders as she crouches and cries, and pull her up[r]
+to descend into the basement.[pcms]
 
 ;//se048・鉄パイプが床に落ちる
 [se buf=0 storage="se048"]
@@ -1406,13 +1449,14 @@ as she crouches and cries, and pull her up to descend into the basement.[pcms]
 
 *2769|
 [fc]
-Senpai removes the iron pipe that's been used as a brace from the rusty door and[r]
-takes off the rusted chain that's been cut.[pcms]
+Senpai removes the iron pipe that's been used as a brace[r]
+from the rusty door and takes off the rusted chain that's[r]
+been cut.[pcms]
 
 *2770|
 [fc]
-I shoulder two bags that Senpai had packed and brought near the door. They're[r]
-for Yuuho and me.[pcms]
+I shoulder two bags that Senpai had packed and brought near[r]
+the door. They're for Yuuho and me.[pcms]
 
 ;//→ブロック４１０５０へ
 [jump storage="41050.ks" target=*41050_TOP]

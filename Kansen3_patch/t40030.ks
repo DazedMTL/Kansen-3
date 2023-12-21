@@ -25,19 +25,20 @@ That might be nice... Or rather, it's really nice...!?[pcms]
 
 *6816|
 [fc]
-Ren is such an honest and kind girl, she does chores and cooking without a[r]
-single complaint, and above all, she's cute. Yeah... sometimes I think she's[r]
-almost like a doll...[pcms]
+Ren is such an honest and kind girl, she does chores and[r]
+cooking without a single complaint, and above all, she's[r]
+cute. Yeah... sometimes I think she's almost like a doll...[pcms]
 
 *6817|
 [fc]
-If I'm being honest, every time we're told by others that "You two get along too[r]
-well," it tickles me inside, and I was happy.[pcms]
+If I'm being honest, every time we're told by others that[r]
+"You two get along too well," it tickles me inside, and I[r]
+was happy.[pcms]
 
 *6818|
 [fc]
-After all, for me, Ren is not only my "stepsister" but also undoubtedly a "cute[r]
-girl."[pcms]
+After all, for me, Ren is not only my "stepsister" but also[r]
+undoubtedly a "cute girl."[pcms]
 
 *6819|
 [fc]
@@ -46,13 +47,13 @@ If Ren became my wife...!?[pcms]
 *6820|
 [fc]
 [ns]Wataru[nse]
-"It... it might be nice? Having such a cute girl as a wife would make me happy,[r]
-right?"[pcms]
+"It... it might be nice? Having such a cute girl as a wife[r]
+would make me happy, right?"[pcms]
 
 *6821|
 [fc]
-Half-serious... no, quite seriously answering, Ren widened her eyes and[r]
-flusteredly waved her hands.[pcms]
+Half-serious... no, quite seriously answering, Ren widened[r]
+her eyes and flusteredly waved her hands.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -71,8 +72,8 @@ flusteredly waved her hands.[pcms]
 [fc]
 [vo_ren s="ren_T0045"]
 [ns]Ren[nse]
-"After all... I won't become the wife of someone who has such naughty books and[r]
-peeks at me changing!!"[pcms]
+"After all... I won't become the wife of someone who has[r]
+such naughty books and peeks at me changing!!"[pcms]
 
 *6824|
 [fc]
@@ -89,8 +90,8 @@ Naughty books!? Could it be... she found my collection!?[pcms]
 [fc]
 [vo_ren s="ren_T0046"]
 [ns]Ren[nse]
-"...Books about butts and little sister themes... Big brother, you're too much[r]
-of a pervert~!!"[pcms]
+"...Books about butts and little sister themes... Big[r]
+brother, you're too much of a pervert~!!"[pcms]
 
 *6827|
 [fc]
@@ -103,19 +104,20 @@ Whoa, this isn't just teasing! She really found out!![pcms]
 
 *6829|
 [fc]
-I have no words to return or any way to defend myself, but it can't be helped![r]
-That's who I am, and I'm a boy after all![pcms]
+I have no words to return or any way to defend myself, but[r]
+it can't be helped! That's who I am, and I'm a boy after[r]
+all![pcms]
 
 *6830|
 [fc]
 [ns]Wataru[nse]
-"But, well, if Ren became my wife, it seems like I'd be made to eat nothing but[r]
-vegetables..."[pcms]
+"But, well, if Ren became my wife, it seems like I'd be made[r]
+to eat nothing but vegetables..."[pcms]
 
 *6831|
 [fc]
-I can't just take this lying down; it would affect my dignity as a brother. I[r]
-quietly attempted a counter-punch.[pcms]
+I can't just take this lying down; it would affect my[r]
+dignity as a brother. I quietly attempted a counter-punch.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f13"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -123,7 +125,8 @@ quietly attempted a counter-punch.[pcms]
 [fc]
 [vo_ren s="ren_T0047"]
 [ns]Ren[nse]
-"Ah, that's because I'm worried about dad's metabolic syndrome-"[pcms]
+"Ah, that's because I'm worried about dad's metabolic[r]
+syndrome-"[pcms]
 
 *6833|
 [fc]
@@ -140,8 +143,8 @@ quietly attempted a counter-punch.[pcms]
 
 *6835|
 [fc]
-Puffing her cheeks adorably, Ren tapped me with the back of her hand holding the[r]
-bow.[pcms]
+Puffing her cheeks adorably, Ren tapped me with the back of[r]
+her hand holding the bow.[pcms]
 
 *6836|
 [fc]
@@ -154,7 +157,8 @@ bow.[pcms]
 [fc]
 [vo_ren s="ren_T0049"]
 [ns]Ren[nse]
-"I won't stop! A mean big brother like you deserves a deadly punch-!"[pcms]
+"I won't stop! A mean big brother like you deserves a deadly[r]
+punch-!"[pcms]
 
 *6838|
 [fc]
@@ -163,7 +167,8 @@ bow.[pcms]
 
 *6839|
 [fc]
-I spread my hands in front of Ren and wiggled my ten fingers ominously.[pcms]
+I spread my hands in front of Ren and wiggled my ten fingers[r]
+ominously.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -212,7 +217,8 @@ I spread my hands in front of Ren and wiggled my ten fingers ominously.[pcms]
 
 *6845|
 [fc]
-Laughing, Ren glared at me and then readjusted her instrument.[pcms]
+Laughing, Ren glared at me and then readjusted her[r]
+instrument.[pcms]
 
 ;//bgmí‚é~
 [fadeoutbgm time=500]
@@ -225,17 +231,18 @@ Laughing, Ren glared at me and then readjusted her instrument.[pcms]
 
 *6846|
 [fc]
-Her arm raised, the bow touched the strings. Soon she swayed lightly and began[r]
-to play.[pcms]
+Her arm raised, the bow touched the strings. Soon she swayed[r]
+lightly and began to play.[pcms]
 
 *6847|
 [fc]
-I've heard this piece many times before. It's the one Ren always likes to[r]
-practice.[pcms]
+I've heard this piece many times before. It's the one Ren[r]
+always likes to practice.[pcms]
 
 *6848|
 [fc]
-As I listened to the light notes, I leaned back into the chair and relaxed.[pcms]
+As I listened to the light notes, I leaned back into the[r]
+chair and relaxed.[pcms]
 
 *6849|
 [fc]
@@ -243,13 +250,13 @@ It's been a while... since I've heard Ren's music...[pcms]
 
 *6850|
 [fc]
-If... I married Ren, would gentle times like these continue to flow every[r]
-day...?[pcms]
+If... I married Ren, would gentle times like these continue[r]
+to flow every day...?[pcms]
 
 *6851|
 [fc]
-The sound is really beautiful... Maybe having Ren as a wife wouldn't be so bad[r]
-after all...??[pcms]
+The sound is really beautiful... Maybe having Ren as a wife[r]
+wouldn't be so bad after all...??[pcms]
 
 ;//se097ÅEëñÇËçûÇÒÇ≈Ç≠ÇÈë´âπÅiàÍêlÅj
 ;//[se buf=0 storage="se097"]
@@ -281,8 +288,8 @@ Suddenly, Yuuho burst into the restaurant.[pcms]
 
 *6855|
 [fc]
-I noticed Yuuho's face was pale as paper and drained of blood, and an ominous[r]
-premonition crossed my mind...[pcms]
+I noticed Yuuho's face was pale as paper and drained of[r]
+blood, and an ominous premonition crossed my mind...[pcms]
 
 ;//ÅöÇ±Ç±Ç‹Ç≈ÅAÇsÇSÇOÇOÇSÇOÇ≈ó¨ópÇµÇ‹Ç∑
 ;//Å®T60030

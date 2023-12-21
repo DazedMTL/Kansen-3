@@ -29,8 +29,9 @@
 
 *461|
 [fc]
-There's no time to hesitate. The situation is urgent. It would be a lie to say[r]
-I'm not scared, but I absolutely must avoid being too late due to indecision...[pcms]
+There's no time to hesitate. The situation is urgent. It[r]
+would be a lie to say I'm not scared, but I absolutely must[r]
+avoid being too late due to indecision...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -42,13 +43,13 @@ I'm not scared, but I absolutely must avoid being too late due to indecision...[
 
 *463|
 [fc]
-With those words, my senior threw the handle of a mop to me. As I caught it, my[r]
-grip tightened with strength.[pcms]
+With those words, my senior threw the handle of a mop to me.[r]
+As I caught it, my grip tightened with strength.[pcms]
 
 *464|
 [fc]
-Can I do what my senior does? Can I, without hesitation, use violence against[r]
-another person?[pcms]
+Can I do what my senior does? Can I, without hesitation, use[r]
+violence against another person?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -56,8 +57,8 @@ another person?[pcms]
 [fc]
 [vo_mar s="maru0038"]
 [ns]Margarita[nse]
-"Don't think of it as a human. That's a beast in human form. If you don't do it,[r]
-you'll lose what's important to you."[pcms]
+"Don't think of it as a human. That's a beast in human form.[r]
+If you don't do it, you'll lose what's important to you."[pcms]
 
 *466|
 [fc]
@@ -70,8 +71,9 @@ you'll lose what's important to you."[pcms]
 [fc]
 [vo_mar s="maru0039"]
 [ns]Margarita[nse]
-"When you use it, aim for the solar plexus. Never aim for the head. An amateur[r]
-swinging around won't be able to accurately hit a small target."[pcms]
+"When you use it, aim for the solar plexus. Never aim for[r]
+the head. An amateur swinging around won't be able to[r]
+accurately hit a small target."[pcms]
 
 *468|
 [fc]
@@ -80,7 +82,8 @@ swinging around won't be able to accurately hit a small target."[pcms]
 
 *469|
 [fc]
-The instructions from my senior were very practical and suited for real combat.[pcms]
+The instructions from my senior were very practical and[r]
+suited for real combat.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -97,8 +100,8 @@ The instructions from my senior were very practical and suited for real combat.[
 
 *472|
 [fc]
-Emboldened by my senior's words, I resolved myself and opened the door to the[r]
-catwalk.[pcms]
+Emboldened by my senior's words, I resolved myself and[r]
+opened the door to the catwalk.[pcms]
 
 ;//ÅYÇaÇfÅFëÃàÁäŸì‡
 [bg storage="BG014"][trans_c cross time=500]
@@ -106,8 +109,8 @@ catwalk.[pcms]
 
 *473|
 [fc]
-The gymnasium was filled with the moans of the infected and victims, and an[r]
-abnormal stench of sex.[pcms]
+The gymnasium was filled with the moans of the infected and[r]
+victims, and an abnormal stench of sex.[pcms]
 
 *474|
 [fc]
@@ -117,25 +120,29 @@ I took a cautious step into the midst of it all.[pcms]
 
 *475|
 [fc]
-Immediately, I could see an infected person standing still on the catwalk.[pcms]
+Immediately, I could see an infected person standing still[r]
+on the catwalk.[pcms]
 
 *476|
 [fc]
-They were reaching out from a window, screaming towards Yuuho.[pcms]
+They were reaching out from a window, screaming towards[r]
+Yuuho.[pcms]
 
 *477|
 [fc]
-Right outside that window was the roof of the corridor where Yuuho was. In other[r]
-words, unless I defeat this infected person, there's no prospect of rescue.[pcms]
+Right outside that window was the roof of the corridor where[r]
+Yuuho was. In other words, unless I defeat this infected[r]
+person, there's no prospect of rescue.[pcms]
 
 *478|
 [fc]
-Even though I thought I was prepared, when the moment came, hesitation began to[r]
-creep into my heart.[pcms]
+Even though I thought I was prepared, when the moment came,[r]
+hesitation began to creep into my heart.[pcms]
 
 *479|
 [fc]
-What will happen to me if I fail? What will happen to Yuuho if I fail?[pcms]
+What will happen to me if I fail? What will happen to Yuuho[r]
+if I fail?[pcms]
 
 *480|
 [fc]
@@ -144,8 +151,9 @@ What will happen to me if I fail? What will happen to Yuuho if I fail?[pcms]
 
 *481|
 [fc]
-To protect someone important to me, for the sake of someone important... It's up[r]
-to me to do it now! I quickly ran towards the infected person.[pcms]
+To protect someone important to me, for the sake of someone[r]
+important... It's up to me to do it now! I quickly ran[r]
+towards the infected person.[pcms]
 
 ;//---------------------------------------------------------------
 ;//Åúéûå¿éÆëIëéàÇ`ÇR
@@ -161,7 +169,8 @@ to me to do it now! I quickly ran towards the infected person.[pcms]
 ;
 ;	[link storage="B_F1.ks" target=*B_F1_TOP]ë§ì™ïîÇ…ìÀÇ´çûÇﬁÅI[endlink]
 ;	[link storage="21060.ks" target=*21060_TOP]â°Ç¡ï†Ç…ìÀÇ´çûÇﬁÅI[endlink]
-; ;(link storage="21060.ks" target=*21060_TOP)Time's up(endlink)[pcms]
+; ;(link storage="21060.ks" target=*21060_TOP)Time's[r]
+up(endlink)[pcms]
 
 *SEL14|ë§ì™ïîÇ…ìÀÇ´çûÇﬁÅIÅ^â°Ç¡ï†Ç…ìÀÇ´çûÇﬁÅI
 [fc]

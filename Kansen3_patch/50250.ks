@@ -19,8 +19,8 @@
 *1446|
 [fc]
 [ns]Kousuke[nse]
-"But hey, you said they were 'moving to the suburbs'... Yet there were swarms of[r]
-them on the streets, weren't there?"[pcms]
+"But hey, you said they were 'moving to the suburbs'... Yet[r]
+there were swarms of them on the streets, weren't there?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -28,8 +28,8 @@ them on the streets, weren't there?"[pcms]
 [fc]
 [vo_mar s="maru1463"]
 [ns]Margarita[nse]
-"Compared to the usual streets of Shibuya, it was a modest number. Considering[r]
-Tokyo's population, that is."[pcms]
+"Compared to the usual streets of Shibuya, it was a modest[r]
+number. Considering Tokyo's population, that is."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -40,15 +40,17 @@ Tokyo's population, that is."[pcms]
 
 *1449|
 [fc]
-Having not participated in the conversation until now, Jin, who had been blankly[r]
-staring at the monitor, opened his mouth with curiosity.[pcms]
+Having not participated in the conversation until now, Jin,[r]
+who had been blankly staring at the monitor, opened his[r]
+mouth with curiosity.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1450|
 [fc]
 [ns]Jin[nse]
-"When we arrived here, it seemed like there was no one on the main street."[pcms]
+"When we arrived here, it seemed like there was no one on[r]
+the main street."[pcms]
 
 *1451|
 [fc]
@@ -64,21 +66,23 @@ staring at the monitor, opened his mouth with curiosity.[pcms]
 
 *1453|
 [fc]
-He didn't go into much detail (probably corporate secrets), but Jin said that[r]
-they used an underground passage on their way from Celesta Tower to LASER.[pcms]
+He didn't go into much detail (probably corporate secrets),[r]
+but Jin said that they used an underground passage on their[r]
+way from Celesta Tower to LASER.[pcms]
 
 *1454|
 [fc]
-Just like Hiko-chin's gang's hideout 'Dedepou', Jin's gang's hideout 'Q[r]
-Building' might also have an entrance connected to Udagawa's underground[r]
-drainage... perhaps.[pcms]
+Just like Hiko-chin's gang's hideout 'Dedepou', Jin's gang's[r]
+hideout 'Q Building' might also have an entrance connected[r]
+to Udagawa's underground drainage... perhaps.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1455|
 [fc]
 [ns]Kousuke[nse]
-"No one was there? That's a lie, right? They were crawling all over the place!"[pcms]
+"No one was there? That's a lie, right? They were crawling[r]
+all over the place!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -92,21 +96,23 @@ drainage... perhaps.[pcms]
 
 *1457|
 [fc]
-Kousuke looked unconvinced, but indeed, when we left 'Dedepou', there was no one[r]
-in the streets.[pcms]
+Kousuke looked unconvinced, but indeed, when we left[r]
+'Dedepou', there was no one in the streets.[pcms]
 
 *1458|
 [fc]
-The infected started pouring out after we started moving around...?[pcms]
+The infected started pouring out after we started moving[r]
+around...?[pcms]
 
 *1459|
 [fc]
-But we didn't walk a long distance, and if it's just about moving, Jin and his[r]
-group did the same.[pcms]
+But we didn't walk a long distance, and if it's just about[r]
+moving, Jin and his group did the same.[pcms]
 
 *1460|
 [fc]
-The only difference between our actions and Jin's group's could be...[pcms]
+The only difference between our actions and Jin's group's[r]
+could be...[pcms]
 
 *1461|
 [fc]
@@ -122,7 +128,8 @@ I remember calling out to see if there were any survivors.[pcms]
 *1463|
 [fc]
 [ns]Jin[nse]
-"...It must be the cause. They chased us because we called out loudly."[pcms]
+"...It must be the cause. They chased us because we called[r]
+out loudly."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 

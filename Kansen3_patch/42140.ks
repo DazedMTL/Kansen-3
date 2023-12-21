@@ -42,8 +42,8 @@
 
 *5781|
 [fc]
-We stumbled a few times, but somehow we managed to make it back to the front of[r]
-the branch school's basement.[pcms]
+We stumbled a few times, but somehow we managed to make it[r]
+back to the front of the branch school's basement.[pcms]
 
 ;//SEí‚é~(2ïbÇ≈F.O.)
 [stopse buf=0]
@@ -63,8 +63,8 @@ the branch school's basement.[pcms]
 
 *5784|
 [fc]
-Ren is breathing with difficulty. It can't be helped since her fever just went[r]
-down.[pcms]
+Ren is breathing with difficulty. It can't be helped since[r]
+her fever just went down.[pcms]
 
 *5785|
 [fc]
@@ -82,7 +82,8 @@ down.[pcms]
 *5787|
 [fc]
 [ns]Wataru[nse]
-"It's okay. Kousuke has been carrying the luggage all this time..."[pcms]
+"It's okay. Kousuke has been carrying the luggage all this[r]
+time..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -109,8 +110,8 @@ Ren climbed onto my back with an apologetic look.[pcms]
 [fc]
 [vo_mar s="maru0774"]
 [ns]Margarita[nse]
-"Let's slow down the pace a bit. It seems impossible to keep sprinting at full[r]
-speed..."[pcms]
+"Let's slow down the pace a bit. It seems impossible to keep[r]
+sprinting at full speed..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -121,8 +122,8 @@ speed..."[pcms]
 
 *5793|
 [fc]
-The two of them, hardly out of breath, said so. It goes without saying that they[r]
-are being considerate of us.[pcms]
+The two of them, hardly out of breath, said so. It goes[r]
+without saying that they are being considerate of us.[pcms]
 
 ;//@konya ÉLÉÉÉâè¡Çµ
 [chara_int_ layer=5][trans_c cross time=150]
@@ -135,13 +136,13 @@ are being considerate of us.[pcms]
 
 *5794|
 [fc]
-I carried Ren on my back and started running. Though it was more like a brisk[r]
-walk...[pcms]
+I carried Ren on my back and started running. Though it was[r]
+more like a brisk walk...[pcms]
 
 *5795|
 [fc]
-I thought we should move faster... but since it's the senior's judgment... it[r]
-must be okay.[pcms]
+I thought we should move faster... but since it's the[r]
+senior's judgment... it must be okay.[pcms]
 
 *5796|
 [fc]

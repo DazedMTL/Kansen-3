@@ -51,8 +51,9 @@
 [fc]
 [vo_ren s="ren_TE0047"]
 [ns]Ren[nse]
-"Wow... Onii-chan. It's amazing. So beautiful. Just like the starry sky we saw[r]
-together in Akita. Beautiful... I never thought we could see this in Shibuya..."[pcms]
+"Wow... Onii-chan. It's amazing. So beautiful. Just like the[r]
+starry sky we saw together in Akita. Beautiful... I never[r]
+thought we could see this in Shibuya..."[pcms]
 
 *230|
 [fc]
@@ -78,16 +79,18 @@ together in Akita. Beautiful... I never thought we could see this in Shibuya..."
 [fc]
 [vo_ren s="ren_TE0049"]
 [ns]Ren[nse]
-"You see... there's something I really want you to listen to... I've been[r]
-wanting to talk to you about it... I've been searching for you, Onii-chan..."[pcms]
+"You see... there's something I really want you to listen[r]
+to... I've been wanting to talk to you about it... I've been[r]
+searching for you, Onii-chan..."[pcms]
 
 [evcg storage="EV019a"][trans_c cross time=300]
 
 *234|
 [fc]
-As she said that, Ren turned around and gazed at me intently. Her delicate[r]
-silhouette emerged against the backdrop of the star-filled sky. The clear[r]
-moonlight also illuminated Ren from behind.[pcms]
+As she said that, Ren turned around and gazed at me[r]
+intently. Her delicate silhouette emerged against the[r]
+backdrop of the star-filled sky. The clear moonlight also[r]
+illuminated Ren from behind.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -108,8 +111,8 @@ moonlight also illuminated Ren from behind.[pcms]
 [fc]
 [vo_ren s="ren_TE0051"]
 [ns]Ren[nse]
-"It's not like that. I don't mean it in that way. I love you, Onii-chan, as a[r]
-man... I love you..."[pcms]
+"It's not like that. I don't mean it in that way. I love[r]
+you, Onii-chan, as a man... I love you..."[pcms]
 
 *238|
 [fc]
@@ -122,8 +125,8 @@ man... I love you..."[pcms]
 [fc]
 [vo_ren s="ren_TE0052"]
 [ns]Ren[nse]
-"No, listen to me properly. That night... I might have been out of my mind, just[r]
-like you're thinking now..."[pcms]
+"No, listen to me properly. That night... I might have been[r]
+out of my mind, just like you're thinking now..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -131,8 +134,8 @@ like you're thinking now..."[pcms]
 [fc]
 [vo_ren s="ren_TE0053"]
 [ns]Ren[nse]
-"But what I said was my true feelings. I love you, Onii-chan, not as a sister[r]
-but as a man. I want to be with you."[pcms]
+"But what I said was my true feelings. I love you, Onii-[r]
+chan, not as a sister but as a man. I want to be with you."[pcms]
 
 *241|
 [fc]
@@ -141,51 +144,57 @@ but as a man. I want to be with you."[pcms]
 
 *242|
 [fc]
-Ren stood there looking straight at me, with the moon shining brightly behind[r]
-her. The little Ren who had spent time under the starry sky of Akita with me...[r]
-The Ren I carried on my back.[pcms]
+Ren stood there looking straight at me, with the moon[r]
+shining brightly behind her. The little Ren who had spent[r]
+time under the starry sky of Akita with me... The Ren I[r]
+carried on my back.[pcms]
 
 *243|
 [fc]
-But the Ren who was earnestly waiting for my answer in front of me now was not[r]
-the little sister Ren anymore. She had grown into a girl filled with a gentle[r]
-light like the moon behind her.[pcms]
+But the Ren who was earnestly waiting for my answer in front[r]
+of me now was not the little sister Ren anymore. She had[r]
+grown into a girl filled with a gentle light like the moon[r]
+behind her.[pcms]
 
 *244|
 [fc]
-Ren always cared for me and stayed by my side, just like the moon that never[r]
-leaves Earth's side and keeps influencing life on it.[pcms]
+Ren always cared for me and stayed by my side, just like the[r]
+moon that never leaves Earth's side and keeps influencing[r]
+life on it.[pcms]
 
 *245|
 [fc]
-She never left my side, filling me with her gentle kindness when needed,[r]
-supporting me... Ren was always watching over me quietly like the moon.[pcms]
+She never left my side, filling me with her gentle kindness[r]
+when needed, supporting me... Ren was always watching over[r]
+me quietly like the moon.[pcms]
 
 *246|
 [fc]
-The important existence that is Ren. So, I opened my mouth trying to remain as[r]
-calm as possible...[pcms]
+The important existence that is Ren. So, I opened my mouth[r]
+trying to remain as calm as possible...[pcms]
 
 [evcg storage="EV019b"][trans_c cross time=300]
 
 *247|
 [fc]
 [ns]Wataru[nse]
-"Ren... Are you really okay with someone like me? Not just because of favoritism[r]
-as a brother, but I think Ren is cute and talented... But I don't have any[r]
-talents..."[pcms]
+"Ren... Are you really okay with someone like me? Not just[r]
+because of favoritism as a brother, but I think Ren is cute[r]
+and talented... But I don't have any talents..."[pcms]
 
 *248|
 [fc]
 [ns]Wataru[nse]
-"And about looks, I think I'm just average or maybe not even that. As a man, I'm[r]
-certainly not strong... In fact, I'm aware that I'm on the weaker side."[pcms]
+"And about looks, I think I'm just average or maybe not even[r]
+that. As a man, I'm certainly not strong... In fact, I'm[r]
+aware that I'm on the weaker side."[pcms]
 
 *249|
 [fc]
 [ns]Wataru[nse]
-"The reason you say you love me might be because of the long time we've spent[r]
-together as siblings, mistaking familial love for..."[pcms]
+"The reason you say you love me might be because of the long[r]
+time we've spent together as siblings, mistaking familial[r]
+love for..."[pcms]
 
 [fadeoutbgm time=500]
 
@@ -209,8 +218,8 @@ together as siblings, mistaking familial love for..."[pcms]
 
 *251|
 [fc]
-Suddenly, Ren hugged me tightly and kissed me as if to seal my lips. Her soft[r]
-lips stripped away my composure...[pcms]
+Suddenly, Ren hugged me tightly and kissed me as if to seal[r]
+my lips. Her soft lips stripped away my composure...[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -239,8 +248,8 @@ lips stripped away my composure...[pcms]
 [fc]
 [vo_ren s="ren_TE0055"]
 [ns]Ren[nse]
-"...Onii-chan. I'm not misunderstanding anything... I know that what I feel is[r]
-different from familial love..."[pcms]
+"...Onii-chan. I'm not misunderstanding anything... I know[r]
+that what I feel is different from familial love..."[pcms]
 
 *254|
 [fc]
@@ -253,8 +262,9 @@ different from familial love..."[pcms]
 [fc]
 [vo_ren s="ren_TE0056"]
 [ns]Ren[nse]
-"Don't say things like 'someone like me'. I want you, Onii-chan... I love you.[r]
-You've always been strong and kind... protecting me."[pcms]
+"Don't say things like 'someone like me'. I want you, Onii-[r]
+chan... I love you. You've always been strong and kind...[r]
+protecting me."[pcms]
 
 *256|
 [fc]
@@ -267,8 +277,9 @@ You've always been strong and kind... protecting me."[pcms]
 [fc]
 [vo_ren s="ren_TE0057"]
 [ns]Ren[nse]
-"No. I know you did all that as a brother. And I understand that. But still...[r]
-it made me happy. Being protected by Onii-chan made me happy."[pcms]
+"No. I know you did all that as a brother. And I understand[r]
+that. But still... it made me happy. Being protected by[r]
+Onii-chan made me happy."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -276,8 +287,9 @@ it made me happy. Being protected by Onii-chan made me happy."[pcms]
 [fc]
 [vo_ren s="ren_TE0058"]
 [ns]Ren[nse]
-"Even before coming here, it was because Onii-chan protected me that I can be[r]
-here now. Even after coming here, Onii-chan has always been protecting me..."[pcms]
+"Even before coming here, it was because Onii-chan protected[r]
+me that I can be here now. Even after coming here, Onii-chan[r]
+has always been protecting me..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -285,9 +297,9 @@ here now. Even after coming here, Onii-chan has always been protecting me..."[pc
 [fc]
 [vo_ren s="ren_TE0059"]
 [ns]Ren[nse]
-"Onii-chan is strong. Remember how often I was bullied when we were little? You[r]
-always protected me. Without fighting back, just enduring it while shielding me[r]
-with your back."[pcms]
+"Onii-chan is strong. Remember how often I was bullied when[r]
+we were little? You always protected me. Without fighting[r]
+back, just enduring it while shielding me with your back."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -295,16 +307,16 @@ with your back."[pcms]
 [fc]
 [vo_ren s="ren_TE0060"]
 [ns]Ren[nse]
-"What is strength in a man...? It's not about being good at fighting, right? To[r]
-me, having the mental strength to endure for the sake of protection is far more[r]
-manly...!!"[pcms]
+"What is strength in a man...? It's not about being good at[r]
+fighting, right? To me, having the mental strength to endure[r]
+for the sake of protection is far more manly...!!"[pcms]
 ;mm アンドロでケツがｒになってた
 ;//○後半感情を高ぶらせてお願いします。
 
 *261|
 [fc]
-I hugged Ren close and embraced her. Pulling her head to my chest, I gently[r]
-wrapped my arms around her delicate body.[pcms]
+I hugged Ren close and embraced her. Pulling her head to my[r]
+chest, I gently wrapped my arms around her delicate body.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -317,9 +329,9 @@ wrapped my arms around her delicate body.[pcms]
 *263|
 [fc]
 [ns]Wataru[nse]
-"It's okay now, Ren. I understand your feelings well... Now let me tell you mine[r]
-honestly. Listen, Ren... I've felt many times that you're not just a sister but[r]
-a girl."[pcms]
+"It's okay now, Ren. I understand your feelings well... Now[r]
+let me tell you mine honestly. Listen, Ren... I've felt many[r]
+times that you're not just a sister but a girl."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -332,14 +344,16 @@ a girl."[pcms]
 *265|
 [fc]
 [ns]Wataru[nse]
-"But each time, I told myself that Ren is my sister, my precious sister. And[r]
-that the affection you showed me was definitely that of a sister..."[pcms]
+"But each time, I told myself that Ren is my sister, my[r]
+precious sister. And that the affection you showed me was[r]
+definitely that of a sister..."[pcms]
 
 *266|
 [fc]
 [ns]Wataru[nse]
-"That night too... honestly, my feelings were shaken... But it was clear that[r]
-Ren was devastated, and I was sad too... That's why I could hold back..."[pcms]
+"That night too... honestly, my feelings were shaken... But[r]
+it was clear that Ren was devastated, and I was sad too...[r]
+That's why I could hold back..."[pcms]
 
 *267|
 [fc]
@@ -352,7 +366,8 @@ Ren was devastated, and I was sad too... That's why I could hold back..."[pcms]
 [fc]
 [vo_ren s="ren_TE0063"]
 [ns]Ren[nse]
-"...Yes. I want you, Onii-chan... It has to be you. I love you, Onii-chan..."[pcms]
+"...Yes. I want you, Onii-chan... It has to be you. I love[r]
+you, Onii-chan..."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -372,8 +387,8 @@ Ren was devastated, and I was sad too... That's why I could hold back..."[pcms]
 
 *269|
 [fc]
-This time, I kissed Ren back. As a man responding to the affection of a cute[r]
-girl. With love, I devoured Ren's lips.[pcms]
+This time, I kissed Ren back. As a man responding to the[r]
+affection of a cute girl. With love, I devoured Ren's lips.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -381,7 +396,8 @@ girl. With love, I devoured Ren's lips.[pcms]
 [fc]
 [vo_ren s="ren_TE0064"]
 [ns]Ren[nse]
-"Mmm... Chu... Ahh... Mmm... Nnnnnnn. Mmm... Chu... Ahh... Nnnnnnn... Chu"[pcms]
+"Mmm... Chu... Ahh... Mmm... Nnnnnnn. Mmm... Chu... Ahh...[r]
+Nnnnnnn... Chu"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -406,18 +422,20 @@ girl. With love, I devoured Ren's lips.[pcms]
 
 *272|
 [fc]
-Before we knew it, several lights had come on. Looking around while holding[r]
-hands with Ren, lights had returned to places like Celesta Tower and Mark City.[pcms]
+Before we knew it, several lights had come on. Looking[r]
+around while holding hands with Ren, lights had returned to[r]
+places like Celesta Tower and Mark City.[pcms]
 
 *273|
 [fc]
-The stars were still shining brightly. But the beauty from before couldn't be[r]
-felt anymore.[pcms]
+The stars were still shining brightly. But the beauty from[r]
+before couldn't be felt anymore.[pcms]
 
 *274|
 [fc]
-But it didn't bother me because the moon was shining quietly and brilliantly.[r]
-The moon named Ren was also casting a quiet light by my side.[pcms]
+But it didn't bother me because the moon was shining quietly[r]
+and brilliantly. The moon named Ren was also casting a quiet[r]
+light by my side.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -435,18 +453,20 @@ The moon named Ren was also casting a quiet light by my side.[pcms]
 
 *275|
 [fc]
-I slowly started undressing Ren. While she stood there... as if undressing a[r]
-doll for a costume change.[pcms]
+I slowly started undressing Ren. While she stood there... as[r]
+if undressing a doll for a costume change.[pcms]
 
 *276|
 [fc]
-The exposed white skin of Ren. As I caressed its surface, I cupped her small[r]
-breasts with my hands. Her cute little breasts fit perfectly in my palms.[pcms]
+The exposed white skin of Ren. As I caressed its surface, I[r]
+cupped her small breasts with my hands. Her cute little[r]
+breasts fit perfectly in my palms.[pcms]
 
 *277|
 [fc]
-Gently massaging them, sweet sighs escaped from Ren's mouth. While rolling her[r]
-small nipples between my fingers, I slowly knelt down in front of her.[pcms]
+Gently massaging them, sweet sighs escaped from Ren's mouth.[r]
+While rolling her small nipples between my fingers, I slowly[r]
+knelt down in front of her.[pcms]
 
 
 
@@ -476,7 +496,8 @@ small nipples between my fingers, I slowly knelt down in front of her.[pcms]
 
 *279|
 [fc]
-I eagerly devoured the small mound of Ren's pussy right before my eyes.[pcms]
+I eagerly devoured the small mound of Ren's pussy right[r]
+before my eyes.[pcms]
 
 *280|
 [fc]
@@ -489,7 +510,8 @@ I eagerly devoured the small mound of Ren's pussy right before my eyes.[pcms]
 [fc]
 [vo_ren s="ren_TE0067"]
 [ns]Ren[nse]
-"Nnaaahh... Nnn... Onii-chan, it feels good... Your mouth on my pussy... Ahhh!"[pcms]
+"Nnaaahh... Nnn... Onii-chan, it feels good... Your mouth on[r]
+my pussy... Ahhh!"[pcms]
 
 [evcg storage="HEV058d"][trans_c cross time=300]
 
@@ -499,13 +521,14 @@ I eagerly devoured the small mound of Ren's pussy right before my eyes.[pcms]
 [fc]
 [vo_ren s="ren_TE0068"]
 [ns]Ren[nse]
-"Ahh! It's good. It feels so good, Onii-chan. More, more, lavish my pussy with[r]
-lots... Nnn... Ahh! Lick me. Please."[pcms]
+"Ahh! It's good. It feels so good, Onii-chan. More, more,[r]
+lavish my pussy with lots... Nnn... Ahh! Lick me. Please."[pcms]
 
 *283|
 [fc]
-Sweet nectar trickled through the thin fabric into my mouth. I sucked on the[r]
-small protrusion that touched the tip of my tongue and gently bit down on it.[pcms]
+Sweet nectar trickled through the thin fabric into my mouth.[r]
+I sucked on the small protrusion that touched the tip of my[r]
+tongue and gently bit down on it.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -513,8 +536,8 @@ small protrusion that touched the tip of my tongue and gently bit down on it.[pc
 [fc]
 [vo_ren s="ren_TE0069"]
 [ns]Ren[nse]
-"Biku! Nkyuaa! That spot... Onii-chan, it's sensitive... be gentler... Ahhh,[r]
-nkuu, ahhh!"[pcms]
+"Biku! Nkyuaa! That spot... Onii-chan, it's sensitive... be[r]
+gentler... Ahhh, nkuu, ahhh!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -522,12 +545,13 @@ nkuu, ahhh!"[pcms]
 [fc]
 [vo_ren s="ren_TE0070"]
 [ns]Ren[nse]
-"Ah! Ahh! Ahaaah! My pussy's so hot... Fuaah. Ahh. It's good, Onii-chan, it[r]
-feels so good."[pcms]
+"Ah! Ahh! Ahaaah! My pussy's so hot... Fuaah. Ahh. It's[r]
+good, Onii-chan, it feels so good."[pcms]
 
 *286|
 [fc]
-As I moved my tongue around and savored Ren's pussy, her body began to tremble.[pcms]
+As I moved my tongue around and savored Ren's pussy, her[r]
+body began to tremble.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -535,12 +559,14 @@ As I moved my tongue around and savored Ren's pussy, her body began to tremble.[
 [fc]
 [vo_ren s="ren_TE0071"]
 [ns]Ren[nse]
-"Nnaaahh! Nannn, nkuuuuuh, ahh. Onii-cha... I can't stand anymore... hiaann!"[pcms]
+"Nnaaahh! Nannn, nkuuuuuh, ahh. Onii-cha... I can't stand[r]
+anymore... hiaann!"[pcms]
 
 *288|
 [fc]
-Ren's pussy had become drenched, dyed a deep pink color. As I extended my tongue[r]
-to tease her more, Ren's knees began to shake.[pcms]
+Ren's pussy had become drenched, dyed a deep pink color. As[r]
+I extended my tongue to tease her more, Ren's knees began to[r]
+shake.[pcms]
 
 *289|
 [fc]
@@ -549,8 +575,9 @@ to tease her more, Ren's knees began to shake.[pcms]
 
 *290|
 [fc]
-It seemed she couldn't stand any longer. I lifted Ren's light body and gently[r]
-laid her face down on the sofa bed we had prepared earlier.[pcms]
+It seemed she couldn't stand any longer. I lifted Ren's[r]
+light body and gently laid her face down on the sofa bed we[r]
+had prepared earlier.[pcms]
 
 ;//〆HEV073
 [evcg storage="HEV047a"][trans_c cross time=300]
@@ -565,8 +592,9 @@ laid her face down on the sofa bed we had prepared earlier.[pcms]
 
 *292|
 [fc]
-Her breath was ragged. Ren's small, white butt was still trembling slightly.[r]
-That trembling sent viscous juices dripping from her pussy...[pcms]
+Her breath was ragged. Ren's small, white butt was still[r]
+trembling slightly. That trembling sent viscous juices[r]
+dripping from her pussy...[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -583,8 +611,8 @@ That trembling sent viscous juices dripping from her pussy...[pcms]
 
 *295|
 [fc]
-I went behind Ren and rubbed my dick against her pussy as I guided it with my[r]
-hand.[pcms]
+I went behind Ren and rubbed my dick against her pussy as I[r]
+guided it with my hand.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -592,17 +620,18 @@ hand.[pcms]
 [fc]
 [vo_ren s="ren_TE0074"]
 [ns]Ren[nse]
-"Hiaaah! Ahh, no, that feels... good, ahh, ahhnn, Onii-cha... it's good."[pcms]
+"Hiaaah! Ahh, no, that feels... good, ahh, ahhnn, Onii-[r]
+cha... it's good."[pcms]
 
 *297|
 [fc]
-I rubbed the juices overflowing from Ren's pussy onto my dick to make it slide[r]
-better and to ease any pain for her.[pcms]
+I rubbed the juices overflowing from Ren's pussy onto my[r]
+dick to make it slide better and to ease any pain for her.[pcms]
 
 *298|
 [fc]
-But the warm and slippery sensation made it feel like my dick was about to burst[r]
-with semen at any moment.[pcms]
+But the warm and slippery sensation made it feel like my[r]
+dick was about to burst with semen at any moment.[pcms]
 
 *299|
 [fc]
@@ -625,12 +654,14 @@ I slowly pushed into the small entrance of Ren's pussy.[pcms]
 
 *302|
 [fc]
-My dick was swallowed up by Ren's pussy more easily than I imagined. It was[r]
-tight and hot inside, and the walls of flesh pressed tightly...[pcms]
+My dick was swallowed up by Ren's pussy more easily than I[r]
+imagined. It was tight and hot inside, and the walls of[r]
+flesh pressed tightly...[pcms]
 
 *303|
 [fc]
-My dick plunged through those tight walls of flesh all at once...[pcms]
+My dick plunged through those tight walls of flesh all at[r]
+once...[pcms]
 
 ;//#_ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -651,7 +682,8 @@ My dick plunged through those tight walls of flesh all at once...[pcms]
 
 *306|
 [fc]
-I couldn't hold back and ended up releasing my semen inside Ren.[pcms]
+I couldn't hold back and ended up releasing my semen inside[r]
+Ren.[pcms]
 
 *307|
 [fc]
@@ -664,8 +696,8 @@ I couldn't hold back and ended up releasing my semen inside Ren.[pcms]
 [fc]
 [vo_ren s="ren_TE0077"]
 [ns]Ren[nse]
-"It's okay... Nnaahh, Onii-chan's semen is soaking inside me... It's hot and[r]
-feels good..."[pcms]
+"It's okay... Nnaahh, Onii-chan's semen is soaking inside[r]
+me... It's hot and feels good..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -673,8 +705,9 @@ feels good..."[pcms]
 [fc]
 [vo_ren s="ren_TE0078"]
 [ns]Ren[nse]
-"Onii-chan... hey, let's stay connected like this, turn me towards you... I want[r]
-to see your face. Hold me while looking at me properly..."[pcms]
+"Onii-chan... hey, let's stay connected like this, turn me[r]
+towards you... I want to see your face. Hold me while[r]
+looking at me properly..."[pcms]
 
 *310|
 [fc]
@@ -683,8 +716,9 @@ to see your face. Hold me while looking at me properly..."[pcms]
 
 *311|
 [fc]
-I hugged Ren from behind. Her insides clenched tightly around my dick. The[r]
-stimulation made my dick regain its vigor inside her.[pcms]
+I hugged Ren from behind. Her insides clenched tightly[r]
+around my dick. The stimulation made my dick regain its[r]
+vigor inside her.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -692,8 +726,9 @@ stimulation made my dick regain its vigor inside her.[pcms]
 [fc]
 [vo_ren s="ren_TE0079"]
 [ns]Ren[nse]
-"Nnn... Ahh... nkuuh... it hurts a bit. Your dick is getting hot again inside[r]
-me. Hey, Onii-chan. Show me your face. I want to see too, please."[pcms]
+"Nnn... Ahh... nkuuh... it hurts a bit. Your dick is getting[r]
+hot again inside me. Hey, Onii-chan. Show me your face. I[r]
+want to see too, please."[pcms]
 
 ;//〆HEV058
 
@@ -701,8 +736,9 @@ me. Hey, Onii-chan. Show me your face. I want to see too, please."[pcms]
 
 *313|
 [fc]
-I rotated Ren around my dick as a pivot point. My dick slid against the walls of[r]
-her flesh and became rock hard again from the sensation.[pcms]
+I rotated Ren around my dick as a pivot point. My dick slid[r]
+against the walls of her flesh and became rock hard again[r]
+from the sensation.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -710,8 +746,9 @@ her flesh and became rock hard again from the sensation.[pcms]
 [fc]
 [vo_ren s="ren_TE0080"]
 [ns]Ren[nse]
-"Nnfuuuhh. Onii-chan's dick is hot. It's hot and hard... throbbing inside me...[r]
-it feels so good... ahh, I'm happy..."[pcms]
+"Nnfuuuhh. Onii-chan's dick is hot. It's hot and hard...[r]
+throbbing inside me... it feels so good... ahh, I'm[r]
+happy..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -719,8 +756,8 @@ it feels so good... ahh, I'm happy..."[pcms]
 [fc]
 [vo_ren s="ren_TE0081"]
 [ns]Ren[nse]
-"My first time... finally, finally... given to me by Onii-chan... I'm so[r]
-happy..."[pcms]
+"My first time... finally, finally... given to me by Onii-[r]
+chan... I'm so happy..."[pcms]
 
 *316|
 [fc]
@@ -733,13 +770,15 @@ happy..."[pcms]
 [fc]
 [vo_ren s="ren_TE0082"]
 [ns]Ren[nse]
-"Yeah... I'm okay, Onii-chan. It still hurts a little but... I'm fine. Hey, you[r]
-can move now... Make it feel even better. Make yourself feel good too..."[pcms]
+"Yeah... I'm okay, Onii-chan. It still hurts a little but...[r]
+I'm fine. Hey, you can move now... Make it feel even better.[r]
+Make yourself feel good too..."[pcms]
 
 *318|
 [fc]
-I started moving my hips slowly in response. The semen I had released inside Ren[r]
-mixed with her juices, gradually leaking out between us.[pcms]
+I started moving my hips slowly in response. The semen I had[r]
+released inside Ren mixed with her juices, gradually leaking[r]
+out between us.[pcms]
 
 [evcg storage="HEV048c"][trans_c cross time=300]
 
@@ -753,8 +792,8 @@ The lewd sounds of squelching and squishing could be heard.[pcms]
 [fc]
 [vo_ren s="ren_TE0083"]
 [ns]Ren[nse]
-"Nhihi, it hurts just a little but it feels so good. Ahh! Just a bit painful but[r]
-I'm so happy."[pcms]
+"Nhihi, it hurts just a little but it feels so good. Ahh![r]
+Just a bit painful but I'm so happy."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -762,8 +801,8 @@ I'm so happy."[pcms]
 [fc]
 [vo_ren s="ren_TE0084"]
 [ns]Ren[nse]
-"Ahh! Ahhaaah! It hurts but I'm so happy. Onii-chan's dick is inside me, inside[r]
-my pussy... ah, ahhnn!"[pcms]
+"Ahh! Ahhaaah! It hurts but I'm so happy. Onii-chan's dick[r]
+is inside me, inside my pussy... ah, ahhnn!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -771,18 +810,19 @@ my pussy... ah, ahhnn!"[pcms]
 [fc]
 [vo_ren s="ren_TE0085"]
 [ns]Ren[nse]
-"More, more, Onii-cha...!! Rub my pussy thoroughly... make it messy... please...[r]
-ahhhh!!"[pcms]
+"More, more, Onii-cha...!! Rub my pussy thoroughly... make[r]
+it messy... please... ahhhh!!"[pcms]
 
 *323|
 [fc]
-The mix of my semen and Ren's fluids became a perfect lubricant, urging my hips[r]
-to move faster.[pcms]
+The mix of my semen and Ren's fluids became a perfect[r]
+lubricant, urging my hips to move faster.[pcms]
 
 *324|
 [fc]
-But with every thrust, Ren's light body slid upwards. I grabbed her arms and[r]
-pulled her towards me as I thrust upward.[pcms]
+But with every thrust, Ren's light body slid upwards. I[r]
+grabbed her arms and pulled her towards me as I thrust[r]
+upward.[pcms]
 
 [evcg storage="HEV048b"][trans_c cross time=300]
 
@@ -792,8 +832,8 @@ pulled her towards me as I thrust upward.[pcms]
 [fc]
 [vo_ren s="ren_TE0086"]
 [ns]Ren[nse]
-"Ahhh! Ahihi!! It feels good! It's amazing! Onii-chan's dick is amazingggg,[r]
-ahhh!"[pcms]
+"Ahhh! Ahihi!! It feels good! It's amazing! Onii-chan's dick[r]
+is amazingggg, ahhh!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -801,8 +841,8 @@ ahhh!"[pcms]
 [fc]
 [vo_ren s="ren_TE0087"]
 [ns]Ren[nse]
-"Nhaah! Akihi!! Nhaaah! Haaah! It's amazing, it's hot!! Onii-chan's feels so[r]
-good!!"[pcms]
+"Nhaah! Akihi!! Nhaaah! Haaah! It's amazing, it's hot!![r]
+Onii-chan's feels so good!!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -810,14 +850,14 @@ good!!"[pcms]
 [fc]
 [vo_ren s="ren_TE0088"]
 [ns]Ren[nse]
-"My pussy is getting so messy ahhh!! Onii-chan's dick is rubbing against it...[r]
-ahihi, it feels so good!!"[pcms]
+"My pussy is getting so messy ahhh!! Onii-chan's dick is[r]
+rubbing against it... ahihi, it feels so good!!"[pcms]
 
 *328|
 [fc]
-With intense moans of pleasure, Ren arched her back as much as she could and[r]
-surrendered to the sensation. Held by her arms by me, her body was almost[r]
-floating in the air.[pcms]
+With intense moans of pleasure, Ren arched her back as much[r]
+as she could and surrendered to the sensation. Held by her[r]
+arms by me, her body was almost floating in the air.[pcms]
 
 ;//〆HRV074
 
@@ -830,8 +870,9 @@ floating in the air.[pcms]
 [fc]
 [vo_ren s="ren_TE0089"]
 [ns]Ren[nse]
-"Aaaaah! Ahiiii!! It feels good!! It's so deep. Amazing... Onii-chan's, Onii-[r]
-chan's dick, deep inside, all the way... aaaaaah ahhhh!"[pcms]
+"Aaaaah! Ahiiii!! It feels good!! It's so deep. Amazing...[r]
+Onii-chan's, Onii- chan's dick, deep inside, all the way...[r]
+aaaaaah ahhhh!"[pcms]
 
 [evcg storage="HEV048c"][trans_c cross time=300]
 
@@ -841,13 +882,14 @@ chan's dick, deep inside, all the way... aaaaaah ahhhh!"[pcms]
 [fc]
 [vo_ren s="ren_TE0090"]
 [ns]Ren[nse]
-"Nhaah! Akihiii!! Nhaaah! Haaah! It's hitting, inside my pussy, deep inside...[r]
-it's amazing, it's so amazing!!"[pcms]
+"Nhaah! Akihiii!! Nhaaah! Haaah! It's hitting, inside my[r]
+pussy, deep inside... it's amazing, it's so amazing!!"[pcms]
 
 *331|
 [fc]
-Every time I thrust my hips, Ren's petite light body bounced up. Bouncing up and[r]
-down, my thing was rubbed from the tip to the base by Ren's heated pussy.[pcms]
+Every time I thrust my hips, Ren's petite light body bounced[r]
+up. Bouncing up and down, my thing was rubbed from the tip[r]
+to the base by Ren's heated pussy.[pcms]
 
 *332|
 [fc]
@@ -860,8 +902,9 @@ down, my thing was rubbed from the tip to the base by Ren's heated pussy.[pcms]
 [fc]
 [vo_ren s="ren_TE0091"]
 [ns]Ren[nse]
-"Hihhih... aaaaah! Rubbing... with Onii-chan's dick... aaaaah! Hihiinnn! My[r]
-pussy... deep inside, being rubbed... ahh kuuuh!"[pcms]
+"Hihhih... aaaaah! Rubbing... with Onii-chan's dick...[r]
+aaaaah! Hihiinnn! My pussy... deep inside, being rubbed...[r]
+ahh kuuuh!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -869,14 +912,14 @@ pussy... deep inside, being rubbed... ahh kuuuh!"[pcms]
 [fc]
 [vo_ren s="ren_TE0092"]
 [ns]Ren[nse]
-"My pussy is getting so messy aaaaaah!! O-Onii-chan's dick is rubbing against[r]
-it... ahiiii, it's... it's so good!!"[pcms]
+"My pussy is getting so messy aaaaaah!! O-Onii-chan's dick[r]
+is rubbing against it... ahiiii, it's... it's so good!!"[pcms]
 
 *335|
 [fc]
-Ren's pussy was rubbing against my thing. Using the bouncing of her body, she[r]
-clung and tightened around me, continuously rubbing and squelching against my[r]
-thing.[pcms]
+Ren's pussy was rubbing against my thing. Using the bouncing[r]
+of her body, she clung and tightened around me, continuously[r]
+rubbing and squelching against my thing.[pcms]
 
 *336|
 [fc]
@@ -889,8 +932,8 @@ thing.[pcms]
 [fc]
 [vo_ren s="ren_TE0093"]
 [ns]Ren[nse]
-"Aaaaah, let it out, again, fill me up inside... nhiiii! Let out Onii-chan's...[r]
-semen!"[pcms]
+"Aaaaah, let it out, again, fill me up inside... nhiiii! Let[r]
+out Onii-chan's... semen!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -898,14 +941,14 @@ semen!"[pcms]
 [fc]
 [vo_ren s="ren_TE0094"]
 [ns]Ren[nse]
-"Let it out... please. Please give me Onii-chan's, aaaaah, semen, please! I want[r]
-it... inside meee, aaaaaahnn aaaaah!"[pcms]
+"Let it out... please. Please give me Onii-chan's, aaaaah,[r]
+semen, please! I want it... inside meee, aaaaaahnn aaaaah!"[pcms]
 
 *339|
 [fc]
 [ns]Wataru[nse]
-"Uooh, it's coming. It's coming, I'm going to let it out, I'm letting it out,[r]
-Ren!"[pcms]
+"Uooh, it's coming. It's coming, I'm going to let it out,[r]
+I'm letting it out, Ren!"[pcms]
 
 ;//#_ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -964,8 +1007,9 @@ Ren!"[pcms]
 [fc]
 [vo_ren s="ren_TE0098"]
 [ns]Ren[nse]
-"No way, don't apologize Onii-chan... I just got... so happy, and finally... my[r]
-feelings reached Onii-chan... That's why I got a little excited..."[pcms]
+"No way, don't apologize Onii-chan... I just got... so[r]
+happy, and finally... my feelings reached Onii-chan...[r]
+That's why I got a little excited..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -973,8 +1017,8 @@ feelings reached Onii-chan... That's why I got a little excited..."[pcms]
 [fc]
 [vo_ren s="ren_TE0099"]
 [ns]Ren[nse]
-"I might have gotten a bit too carried away... So, Onii-chan has nothing to[r]
-apologize for..."[pcms]
+"I might have gotten a bit too carried away... So, Onii-chan[r]
+has nothing to apologize for..."[pcms]
 
 *347|
 [fc]
@@ -983,8 +1027,8 @@ apologize for..."[pcms]
 
 *348|
 [fc]
-I hugged Ren. Her body was still slightly damp and delicate. I hugged her gently[r]
-so as not to break her.[pcms]
+I hugged Ren. Her body was still slightly damp and delicate.[r]
+I hugged her gently so as not to break her.[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1029,18 +1073,18 @@ Holding Ren in my arms, I eventually fell asleep.[pcms]
 
 *351|
 [fc]
-I suddenly woke up. It still seemed to be the middle of the night. When I[r]
-reached out with my hand, Ren wasn't there.[pcms]
+I suddenly woke up. It still seemed to be the middle of the[r]
+night. When I reached out with my hand, Ren wasn't there.[pcms]
 
 *352|
 [fc]
-I was a bit panicked, but the remaining dampness and Ren's lingering scent[r]
-calmed me down. It wasn't just a dream.[pcms]
+I was a bit panicked, but the remaining dampness and Ren's[r]
+lingering scent calmed me down. It wasn't just a dream.[pcms]
 
 *353|
 [fc]
-I wonder if she went to take a shower... or maybe something else. With that[r]
-thought in mind, I fell back into sleep.[pcms]
+I wonder if she went to take a shower... or maybe something[r]
+else. With that thought in mind, I fell back into sleep.[pcms]
 
 
 

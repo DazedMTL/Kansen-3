@@ -26,12 +26,13 @@
 
 *3412|
 [fc]
-She took out the glasses case from her bag and handed it to Jin.[pcms]
+She took out the glasses case from her bag and handed it to[r]
+Jin.[pcms]
 
 *3413|
 [fc]
-Jin, while glaring at me, opened the case to check its contents, then twisted it[r]
-into his pants pocket.[pcms]
+Jin, while glaring at me, opened the case to check its[r]
+contents, then twisted it into his pants pocket.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -65,7 +66,8 @@ into his pants pocket.[pcms]
 
 *3418|
 [fc]
-Jin pulled me close and slid his hand inside my skirt... no, inside my panties.[pcms]
+Jin pulled me close and slid his hand inside my skirt... no,[r]
+inside my panties.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -78,13 +80,13 @@ Jin pulled me close and slid his hand inside my skirt... no, inside my panties.[
 
 *3420|
 [fc]
-Jin's fingers, as if they were a separate creature, invaded my "down there" and[r]
-moved around inside.[pcms]
+Jin's fingers, as if they were a separate creature, invaded[r]
+my "down there" and moved around inside.[pcms]
 
 *3421|
 [fc]
-Caught off guard and with fingers inside me, my pussy became surprisingly[r]
-quickly moistened, independent of my will.[pcms]
+Caught off guard and with fingers inside me, my pussy became[r]
+surprisingly quickly moistened, independent of my will.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -103,8 +105,9 @@ quickly moistened, independent of my will.[pcms]
 
 *3424|
 [fc]
-Having confirmed that there was nothing inside my vagina, Jin roughly pulled his[r]
-fingers out, bringing them in front of my face, wet with my bodily fluids.[pcms]
+Having confirmed that there was nothing inside my vagina,[r]
+Jin roughly pulled his fingers out, bringing them in front[r]
+of my face, wet with my bodily fluids.[pcms]
 
 *3425|
 [fc]
@@ -127,8 +130,8 @@ What am I doing...?[pcms]
 *3428|
 [fc]
 [ns]Jin[nse]
-"I'm doing this because I'm worried about you. At least you're not carrying[r]
-anything else now."[pcms]
+"I'm doing this because I'm worried about you. At least[r]
+you're not carrying anything else now."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -140,8 +143,8 @@ anything else now."[pcms]
 
 *3430|
 [fc]
-Caught off guard, I felt a flush on my cheeks and couldn't look directly at Jin,[r]
-replying with my head down.[pcms]
+Caught off guard, I felt a flush on my cheeks and couldn't[r]
+look directly at Jin, replying with my head down.[pcms]
 
 *3431|
 [fc]
@@ -149,7 +152,8 @@ Me, staring at the floor and Jin's feet.[pcms]
 
 *3432|
 [fc]
-Jin is concerned about me. In my heart, I apologize to Jin. I'm sorry, Jin.[pcms]
+Jin is concerned about me. In my heart, I apologize to Jin.[r]
+I'm sorry, Jin.[pcms]
 
 ;//シャワールームに隠してある包み。
 ;//あれは、ジンには絶対に言えない。

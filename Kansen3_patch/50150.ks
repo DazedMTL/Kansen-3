@@ -19,8 +19,9 @@
 
 *922|
 [fc]
-While keeping a lookout, we carefully ascend the stairs. Leading the way is[r]
-Kousuke, followed by Yuuho, Ren, me, and then Senior Maruko.[pcms]
+While keeping a lookout, we carefully ascend the stairs.[r]
+Leading the way is Kousuke, followed by Yuuho, Ren, me, and[r]
+then Senior Maruko.[pcms]
 
 *923|
 [fc]
@@ -31,7 +32,8 @@ Kousuke, followed by Yuuho, Ren, me, and then Senior Maruko.[pcms]
 
 *924|
 [fc]
-When we reached the landing on the second floor, Yuuho suddenly stopped.[pcms]
+When we reached the landing on the second floor, Yuuho[r]
+suddenly stopped.[pcms]
 
 *925|
 [fc]
@@ -45,8 +47,9 @@ When we reached the landing on the second floor, Yuuho suddenly stopped.[pcms]
 
 *926|
 [fc]
-Yuuho approached the fire door that separates the landing from the shops, gently[r]
-turned the knob, and looked back at us.[pcms]
+Yuuho approached the fire door that separates the landing[r]
+from the shops, gently turned the knob, and looked back at[r]
+us.[pcms]
 
 *927|
 [fc]
@@ -57,8 +60,9 @@ turned the knob, and looked back at us.[pcms]
 
 *928|
 [fc]
-The fire door on the first floor was locked, but the one on the second floor was[r]
-only secured with a stopper and wasn't locked.[pcms]
+The fire door on the first floor was locked, but the one on[r]
+the second floor was only secured with a stopper and wasn't[r]
+locked.[pcms]
 
 *929|
 [fc]
@@ -71,8 +75,8 @@ Kousuke eagerly opened the door.[pcms]
 
 *931|
 [fc]
-...I know the reason. This is Tengudo Music Store. Kousuke would definitely want[r]
-to check it out.[pcms]
+...I know the reason. This is Tengudo Music Store. Kousuke[r]
+would definitely want to check it out.[pcms]
 
 ;//@konya 天狗堂楽器店
 [bg storage="BGS004a"][trans_c cross time=500]
@@ -111,11 +115,13 @@ There's no sign of people, but the lights are on...[pcms]
 *937|
 [fc]
 [ns]Kousuke[nse]
-"Well then, let me just check if my precious CDJs are safe..."[pcms]
+"Well then, let me just check if my precious CDJs are[r]
+safe..."[pcms]
 
 *938|
 [fc]
-Kousuke is about to enter the floor with a spring in his step.[pcms]
+Kousuke is about to enter the floor with a spring in his[r]
+step.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -135,7 +141,8 @@ Kousuke is about to enter the floor with a spring in his step.[pcms]
 
 *941|
 [fc]
-Yuuho quickly grabs his ear and drags him back to continue up the stairs.[pcms]
+Yuuho quickly grabs his ear and drags him back to continue[r]
+up the stairs.[pcms]
 
 ;//@konya 暗転、黒背景
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -146,8 +153,9 @@ Third floor... Fourth floor...[pcms]
 
 *943|
 [fc]
-Just like on the second floor, the fire doors on both floors were not locked.[r]
-The situation was also similar in that there was no one around.[pcms]
+Just like on the second floor, the fire doors on both floors[r]
+were not locked. The situation was also similar in that[r]
+there was no one around.[pcms]
 
 *944|
 [fc]
@@ -156,8 +164,8 @@ The situation was also similar in that there was no one around.[pcms]
 
 *945|
 [fc]
-At the fifth-floor landing, I tried to open the fire door and felt something[r]
-different, tilting my head in confusion.[pcms]
+At the fifth-floor landing, I tried to open the fire door[r]
+and felt something different, tilting my head in confusion.[pcms]
 
 ;//se041・ドアノブがちゃがちゃ
 [se buf=0 storage="se041"]
@@ -190,8 +198,8 @@ The knob only rattles without opening... it's locked.[pcms]
 
 *951|
 [fc]
-The act of locking oneself in doesn't seem like their doing. In other words,[r]
-there might be people inside...[pcms]
+The act of locking oneself in doesn't seem like their doing.[r]
+In other words, there might be people inside...[pcms]
 
 *952|
 [fc]
@@ -203,17 +211,18 @@ there might be people inside...[pcms]
 [fc]
 [vo_mar s="maru1384"]
 [ns]Margarita[nse]
-"Understood. I'll call out, so stay back. Don't move until I give a signal."[pcms]
+"Understood. I'll call out, so stay back. Don't move until I[r]
+give a signal."[pcms]
 
 *954|
 [fc]
-We step back to the rear of the landing, leaving Senior Margarita with her gun[r]
-ready.[pcms]
+We step back to the rear of the landing, leaving Senior[r]
+Margarita with her gun ready.[pcms]
 
 *955|
 [fc]
-Senior Margarita presses herself against the wall and knocks on the door[r]
-deliberately.[pcms]
+Senior Margarita presses herself against the wall and knocks[r]
+on the door deliberately.[pcms]
 
 ;//se005・ドアノック
 [se buf=0 storage="se005"]
@@ -227,8 +236,8 @@ deliberately.[pcms]
 
 *957|
 [fc]
-After calling out, we wait silently as Senior Margarita listens intently at the[r]
-door.[pcms]
+After calling out, we wait silently as Senior Margarita[r]
+listens intently at the door.[pcms]
 
 *958|
 [fc]
@@ -243,22 +252,23 @@ door.[pcms]
 
 *960|
 [fc]
-After a while, Senior Margarita steps away from the door, tilting her head[r]
-suspiciously.[pcms]
+After a while, Senior Margarita steps away from the door,[r]
+tilting her head suspiciously.[pcms]
 
 *961|
 [fc]
 [vo_mar s="maru1387"]
 [ns]Margarita[nse]
-"However... I sense a strange atmosphere. It's likely not them but rather a[r]
-human presence. Something about it... doesn't sit right with me."[pcms]
+"However... I sense a strange atmosphere. It's likely not[r]
+them but rather a human presence. Something about it...[r]
+doesn't sit right with me."[pcms]
 
 *962|
 [fc]
 [vo_yuh s="yuho1504"]
 [ns]Yuuho[nse]
-"Hmm. If Senior Maruko with her danger sensor says so, then we should probably[r]
-leave this be."[pcms]
+"Hmm. If Senior Maruko with her danger sensor says so, then[r]
+we should probably leave this be."[pcms]
 
 *963|
 [fc]
@@ -269,8 +279,8 @@ leave this be."[pcms]
 [fc]
 [vo_mar s="maru1388"]
 [ns]Margarita[nse]
-"...Staying here won't get us anywhere. Let's head for our original objective[r]
-first."[pcms]
+"...Staying here won't get us anywhere. Let's head for our[r]
+original objective first."[pcms]
 
 *965|
 [fc]
@@ -280,11 +290,13 @@ first."[pcms]
 
 *966|
 [fc]
-After a quiet discussion, we once again aim for higher floors.[pcms]
+After a quiet discussion, we once again aim for higher[r]
+floors.[pcms]
 
 *967|
 [fc]
-I wonder why only the fifth floor was locked. It's concerning, but...[pcms]
+I wonder why only the fifth floor was locked. It's[r]
+concerning, but...[pcms]
 
 *968|
 [fc]
@@ -293,7 +305,8 @@ I wonder why only the fifth floor was locked. It's concerning, but...[pcms]
 
 *969|
 [fc]
-I redirect my gaze from the fire door and follow after everyone else.[pcms]
+I redirect my gaze from the fire door and follow after[r]
+everyone else.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

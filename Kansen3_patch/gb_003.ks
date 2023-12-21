@@ -38,8 +38,9 @@ I covered my face and broke down crying.[pcms]
 
 *4906|
 [fc]
-The precious... Ren. My sister whom I've always cherished and protected above[r]
-all else... To take her life with my own hands... I just can't...!![pcms]
+The precious... Ren. My sister whom I've always cherished[r]
+and protected above all else... To take her life with my own[r]
+hands... I just can't...!![pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -57,7 +58,8 @@ A hand was gently placed on my shoulder.[pcms]
 *4909|
 [fc]
 [ns]Jin[nse]
-"...You don't have to force yourself in situations like this."[pcms]
+"...You don't have to force yourself in situations like[r]
+this."[pcms]
 
 *4910|
 [fc]
@@ -95,12 +97,13 @@ As if relieved, Ren relaxed her shoulders.[pcms]
 
 *4915|
 [fc]
-Yuuho tried to respond but couldn't form words through her tears.[pcms]
+Yuuho tried to respond but couldn't form words through her[r]
+tears.[pcms]
 
 *4916|
 [fc]
-Ren then looked around at everyone's faces in turn, finally resting her gaze on[r]
-me.[pcms]
+Ren then looked around at everyone's faces in turn, finally[r]
+resting her gaze on me.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -112,8 +115,9 @@ me.[pcms]
 
 *4918|
 [fc]
-A fleeting, somewhat lonely smile. Yet it seemed to say she couldn't help but[r]
-want to be spoiled by me, her usual expression...[pcms]
+A fleeting, somewhat lonely smile. Yet it seemed to say she[r]
+couldn't help but want to be spoiled by me, her usual[r]
+expression...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 

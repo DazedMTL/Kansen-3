@@ -74,26 +74,28 @@ I'm confused by the scene before my eyes.[pcms]
 
 *6353|
 [fc]
-No, my head is still foggy, as if I'm half-asleep... Yet, I find myself[r]
-responding to Yuuho.[pcms]
+No, my head is still foggy, as if I'm half-asleep... Yet, I[r]
+find myself responding to Yuuho.[pcms]
 
 *6354|
 [fc]
-Let's see... I was supposed to be running away from a crazy person...[pcms]
+Let's see... I was supposed to be running away from a crazy[r]
+person...[pcms]
 
 *6355|
 [fc]
-...So why is Yuuho on top of me? Yuuho is sitting on top of me, her back turned.[pcms]
+...So why is Yuuho on top of me? Yuuho is sitting on top of[r]
+me, her back turned.[pcms]
 
 *6356|
 [fc]
-Nearby, there's a bag of snacks that either Yuuho ate or I had bought, rolling[r]
-on the ground.[pcms]
+Nearby, there's a bag of snacks that either Yuuho ate or I[r]
+had bought, rolling on the ground.[pcms]
 
 *6357|
 [fc]
-And then, there's this strangely pleasant feeling... A tingling warmth on my[r]
-back...[pcms]
+And then, there's this strangely pleasant feeling... A[r]
+tingling warmth on my back...[pcms]
 
 *6358|
 [fc]
@@ -119,7 +121,8 @@ back...[pcms]
 
 *6362|
 [fc]
-Yuuho is... What on earth is Yuuho doing!? Sex means... SEX... right!?[pcms]
+Yuuho is... What on earth is Yuuho doing!? Sex means...[r]
+SEX... right!?[pcms]
 
 *6363|
 [fc]
@@ -138,8 +141,9 @@ My mind feels like it's going to turn completely white.[pcms]
 
 *6366|
 [fc]
-A hot sensation races up my back. From my... thing, a tingling pleasure shoots[r]
-up my spine, making it unbearably hot and pleasurable.[pcms]
+A hot sensation races up my back. From my... thing, a[r]
+tingling pleasure shoots up my spine, making it unbearably[r]
+hot and pleasurable.[pcms]
 
 *6367|
 [fc]
@@ -160,7 +164,8 @@ That can't be right? Am I really doing this? With Yuuho?[pcms]
 [fc]
 [vo_yuh s="yuho0762"]
 [ns]Yuuho[nse]
-"Geez~ Wataru~. It's gotten so big~. You're violating my pussy~"[pcms]
+"Geez~ Wataru~. It's gotten so big~. You're violating my[r]
+pussy~"[pcms]
 
 *6371|
 [fc]
@@ -169,15 +174,15 @@ That can't be right? Am I really doing this? With Yuuho?[pcms]
 
 *6372|
 [fc]
-I scream again in pleasure. Just as Yuuho said, my thing was inside her. Inside[r]
-Yuuho's pussy...[pcms]
+I scream again in pleasure. Just as Yuuho said, my thing was[r]
+inside her. Inside Yuuho's pussy...[pcms]
 
 *6373|
 [fc]
 [vo_yuh s="yuho0763"]
 [ns]Yuuho[nse]
-"Your thing~. It's gotten so hard~ and it's throbbing bikun bikun~. It feels so[r]
-good~~!"[pcms]
+"Your thing~. It's gotten so hard~ and it's throbbing bikun[r]
+bikun~. It feels so good~~!"[pcms]
 
 *6374|
 [fc]
@@ -192,7 +197,8 @@ I can only scream helplessly as Yuuho moves her hips.[pcms]
 [fc]
 [vo_yuh s="yuho0764"]
 [ns]Yuuho[nse]
-"Ahhnn... It feels good~~! Look... Wataru~! We're connected~!"[pcms]
+"Ahhnn... It feels good~~! Look... Wataru~! We're[r]
+connected~!"[pcms]
 
 *6377|
 [fc]
@@ -201,13 +207,14 @@ I can only scream helplessly as Yuuho moves her hips.[pcms]
 
 *6378|
 [fc]
-My mind is going crazy with pleasure and this dream-like event. I'm truly[r]
-becoming one with Yuuho.[pcms]
+My mind is going crazy with pleasure and this dream-like[r]
+event. I'm truly becoming one with Yuuho.[pcms]
 
 *6379|
 [fc]
-I've always loved Yuuho. I've dreamed many times about having SEX with her like[r]
-this, imagining it while jerking off.[pcms]
+I've always loved Yuuho. I've dreamed many times about[r]
+having SEX with her like this, imagining it while jerking[r]
+off.[pcms]
 
 *6380|
 [fc]
@@ -217,8 +224,8 @@ And now, it's become reality.[pcms]
 [fc]
 [vo_yuh s="yuho0765"]
 [ns]Yuuho[nse]
-"Ahh... Nnn... It's so hard. You've gotten so hard for me too~. Did you like me[r]
-as well, Wataru~?"[pcms]
+"Ahh... Nnn... It's so hard. You've gotten so hard for me[r]
+too~. Did you like me as well, Wataru~?"[pcms]
 
 *6382|
 [fc]
@@ -229,8 +236,8 @@ as well, Wataru~?"[pcms]
 [fc]
 [vo_yuh s="yuho0766"]
 [ns]Yuuho[nse]
-"Ahhnn... Wataru said he likes me. I'm so happy~. Then, I'll give you a proper[r]
-service!"[pcms]
+"Ahhnn... Wataru said he likes me. I'm so happy~. Then, I'll[r]
+give you a proper service!"[pcms]
 
 *6384|
 [fc]
@@ -249,12 +256,14 @@ Yuuho begins to move her hips with a bewitching smile.[pcms]
 
 *6387|
 [fc]
-The pleasure and happiness make me feel like my body is melting. Is this a[r]
-dream? Yes, I've had this dream many times.[pcms]
+The pleasure and happiness make me feel like my body is[r]
+melting. Is this a dream? Yes, I've had this dream many[r]
+times.[pcms]
 
 *6388|
 [fc]
-But this isn't a dream. This pleasure is real!? I'm having SEX with Yuuho...!![pcms]
+But this isn't a dream. This pleasure is real!? I'm having[r]
+SEX with Yuuho...!![pcms]
 
 *6389|
 [fc]
@@ -273,7 +282,8 @@ Yuuho is... Yuuho is riding me and moving her hips.[pcms]
 
 *6392|
 [fc]
-She lets out such a pleasurable voice, her face delirious with ecstasy~.[pcms]
+She lets out such a pleasurable voice, her face delirious[r]
+with ecstasy~.[pcms]
 
 *6393|
 [fc]
@@ -300,13 +310,14 @@ This Yuuho is... she's Yuuho but... she's not Yuuho!![pcms]
 
 *6397|
 [fc]
-I look into Yuuho's bright red eyes, and as if the fog clears, my consciousness[r]
-sharpens, and I begin to remember what has happened one by one.[pcms]
+I look into Yuuho's bright red eyes, and as if the fog[r]
+clears, my consciousness sharpens, and I begin to remember[r]
+what has happened one by one.[pcms]
 
 *6398|
 [fc]
-That's right, we were completely surrounded! Senpai was captured, Kousuke was[r]
-captured, and then Ren...[pcms]
+That's right, we were completely surrounded! Senpai was[r]
+captured, Kousuke was captured, and then Ren...[pcms]
 
 *6399|
 [fc]
@@ -349,8 +360,8 @@ I frantically look around.[pcms]
 
 *6405|
 [fc]
-Kousuke is being sucked off by the crazed girls, bitten all over his body, and[r]
-they're rubbing against his dick.[pcms]
+Kousuke is being sucked off by the crazed girls, bitten all[r]
+over his body, and they're rubbing against his dick.[pcms]
 
 ;mm óßÇøÇÕì\ÇÁÇ»Ç¢
 
@@ -373,8 +384,9 @@ they're rubbing against his dick.[pcms]
 
 *6409|
 [fc]
-Senpai is being stripped of her clothes, pulled to the floor, and even as she's[r]
-pinned down, she continues to fight against the crazed men piling on her.[pcms]
+Senpai is being stripped of her clothes, pulled to the[r]
+floor, and even as she's pinned down, she continues to fight[r]
+against the crazed men piling on her.[pcms]
 
 *6410|
 [fc]
@@ -389,8 +401,8 @@ But Senpai seems tired already, her movements are sluggish.[pcms]
 
 *6412|
 [fc]
-I look around and realize that Ren is nowhere to be found, so I frantically[r]
-search the area again.[pcms]
+I look around and realize that Ren is nowhere to be found,[r]
+so I frantically search the area again.[pcms]
 
 ;mmîwåiÅH
 [bg storage="BG027"]
@@ -406,7 +418,8 @@ search the area again.[pcms]
 
 *6414|
 [fc]
-There! Clutching her violin case and trembling against the wall, I find Ren.[pcms]
+There! Clutching her violin case and trembling against the[r]
+wall, I find Ren.[pcms]
 
 *6415|
 [fc]
@@ -435,9 +448,9 @@ I call out, but Ren doesn't seem to notice.[pcms]
 
 *6419|
 [fc]
-I don't know why, but the crazed people seem to be fighting in front of Ren.[r]
-She's crouching down with her hands over her ears, so she can't hear anything[r]
-extra.[pcms]
+I don't know why, but the crazed people seem to be fighting[r]
+in front of Ren. She's crouching down with her hands over[r]
+her ears, so she can't hear anything extra.[pcms]
 
 *6420|
 [fc]
@@ -457,7 +470,8 @@ extra.[pcms]
 [fc]
 [vo_yuh s="yuho0769"]
 [ns]Yuuho[nse]
-"Even at a time like this... you're still thinking about Ren-chan~~"[pcms]
+"Even at a time like this... you're still thinking about[r]
+Ren-chan~~"[pcms]
 
 *6422|
 [fc]
@@ -482,7 +496,8 @@ A lukewarm hand roughly pulls my face closer.[pcms]
 
 *6426|
 [fc]
-Yuuho speaks to me in a slurred manner typical of those who have gone mad.[pcms]
+Yuuho speaks to me in a slurred manner typical of those who[r]
+have gone mad.[pcms]
 
 *6427|
 [fc]
@@ -497,8 +512,9 @@ Yuuho speaks to me in a slurred manner typical of those who have gone mad.[pcms]
 
 *6429|
 [fc]
-Even though I understand in my head, my body is drawn to Yuuho. To the lewdness[r]
-of Yuuho that I've always loved and wanted to see...[pcms]
+Even though I understand in my head, my body is drawn to[r]
+Yuuho. To the lewdness of Yuuho that I've always loved and[r]
+wanted to see...[pcms]
 
 
 ;mm Ç±ÇÃï”Ç©ÇÁHEVñﬂÇµÇ∆Ç≠
@@ -509,12 +525,13 @@ of Yuuho that I've always loved and wanted to see...[pcms]
 [fc]
 [vo_yuh s="yuho0773"]
 [ns]Yuuho[nse]
-"Is my service not enough for you~~? That's right~~. Wataru loves my butt after[r]
-all~~"[pcms]
+"Is my service not enough for you~~? That's right~~. Wataru[r]
+loves my butt after all~~"[pcms]
 
 *6431|
 [fc]
-Yuuho emphasizes her butt even more as she sticks it out towards me.[pcms]
+Yuuho emphasizes her butt even more as she sticks it out[r]
+towards me.[pcms]
 
 *6432|
 [fc]
@@ -525,8 +542,8 @@ Yuuho emphasizes her butt even more as she sticks it out towards me.[pcms]
 [fc]
 [vo_yuh s="yuho0774"]
 [ns]Yuuho[nse]
-"How about it~~? You can do what you like~~. You've always been looking at it,[r]
-right~~? My butt~~"[pcms]
+"How about it~~? You can do what you like~~. You've always[r]
+been looking at it, right~~? My butt~~"[pcms]
 
 *6434|
 [fc]
@@ -537,7 +554,8 @@ right~~? My butt~~"[pcms]
 [fc]
 [vo_yuh s="yuho0775"]
 [ns]Yuuho[nse]
-"You can do what you like with it~~. Because this butt is yours after all~~"[pcms]
+"You can do what you like with it~~. Because this butt is[r]
+yours after all~~"[pcms]
 
 *6436|
 [fc]
@@ -546,28 +564,32 @@ right~~? My butt~~"[pcms]
 
 *6437|
 [fc]
-I nod my head as Yuuho says, just going along with it. It's been like this for a[r]
-while; even though I think I need to do something, I can't seem to act.[pcms]
+I nod my head as Yuuho says, just going along with it. It's[r]
+been like this for a while; even though I think I need to do[r]
+something, I can't seem to act.[pcms]
 
 *6438|
 [fc]
-I must be infected too by now. And so must Kousuke... The only ones who might[r]
-not be infected are probably Ren and Senpai.[pcms]
+I must be infected too by now. And so must Kousuke... The[r]
+only ones who might not be infected are probably Ren and[r]
+Senpai.[pcms]
 
 *6439|
 [fc]
-I think I have to save at least the two of them, but my body won't move. A[r]
-feeling that it doesn't matter anymore is what's keeping me immobile.[pcms]
+I think I have to save at least the two of them, but my body[r]
+won't move. A feeling that it doesn't matter anymore is[r]
+what's keeping me immobile.[pcms]
 
 *6440|
 [fc]
-But it's not despair. It's a sensation as if something is violating my[r]
-consciousness... whispering to me that it feels good, so why not just accept it?[pcms]
+But it's not despair. It's a sensation as if something is[r]
+violating my consciousness... whispering to me that it feels[r]
+good, so why not just accept it?[pcms]
 
 *6441|
 [fc]
-I'm excited to see Yuuho's butt that I've always watched so closely, and my dick[r]
-gets even harder.[pcms]
+I'm excited to see Yuuho's butt that I've always watched so[r]
+closely, and my dick gets even harder.[pcms]
 
 *6442|
 [fc]
@@ -576,14 +598,15 @@ gets even harder.[pcms]
 
 *6443|
 [fc]
-Once again Yuuho starts moving her hips, and I let out a moan of pleasure.[pcms]
+Once again Yuuho starts moving her hips, and I let out a[r]
+moan of pleasure.[pcms]
 
 *6444|
 [fc]
 [vo_yuh s="yuho0776"]
 [ns]Yuuho[nse]
-"Ahh~~~. As expected, Wataru is a butt lover~~. Looking at my butt~~, it gets[r]
-bigger~~"[pcms]
+"Ahh~~~. As expected, Wataru is a butt lover~~. Looking at[r]
+my butt~~, it gets bigger~~"[pcms]
 
 *6445|
 [fc]
@@ -603,7 +626,8 @@ bigger~~"[pcms]
 
 *6448|
 [fc]
-Yuuho spreads her butt cheeks even wider, showing me her asshole.[pcms]
+Yuuho spreads her butt cheeks even wider, showing me her[r]
+asshole.[pcms]
 
 *6449|
 [fc]
@@ -631,7 +655,8 @@ Yuuho spreads her butt cheeks even wider, showing me her asshole.[pcms]
 
 *6453|
 [fc]
-Yuuho's face distorts with pleasure as she wildly shakes her hips.[pcms]
+Yuuho's face distorts with pleasure as she wildly shakes her[r]
+hips.[pcms]
 
 *6454|
 [fc]
@@ -643,7 +668,8 @@ Yuuho's face distorts with pleasure as she wildly shakes her hips.[pcms]
 [fc]
 [vo_yuh s="yuho0781"]
 [ns]Yuuho[nse]
-"It's hard, hot, and big~! Ahh!! It feels good!! It feels so good!!"[pcms]
+"It's hard, hot, and big~! Ahh!! It feels good!! It feels so[r]
+good!!"[pcms]
 
 *6456|
 [fc]
@@ -652,7 +678,8 @@ Yuuho's face distorts with pleasure as she wildly shakes her hips.[pcms]
 
 *6457|
 [fc]
-While moving intensely, Yuuho's insides tighten as if squeezing everything out.[pcms]
+While moving intensely, Yuuho's insides tighten as if[r]
+squeezing everything out.[pcms]
 
 *6458|
 [fc]
@@ -676,7 +703,8 @@ Suddenly, I wonder what's wrong. I thought to myself.[pcms]
 
 *6462|
 [fc]
-There's a lingering dissatisfaction. Something doesn't feel right.[pcms]
+There's a lingering dissatisfaction. Something doesn't feel[r]
+right.[pcms]
 
 *6463|
 [fc]
@@ -723,7 +751,8 @@ I release my desire fully inside Yuuho, just as she wishes.[pcms]
 
 *6470|
 [fc]
-Yuuho receives my sperm with an ecstatic face, reveling in the joy.[pcms]
+Yuuho receives my sperm with an ecstatic face, reveling in[r]
+the joy.[pcms]
 
 *6471|
 [fc]
@@ -731,8 +760,9 @@ She's so cute~.[pcms]
 
 *6472|
 [fc]
-With my ejaculation, it feels like all my unnecessary worries have been[r]
-expelled. What was I even worrying about...[pcms]
+With my ejaculation, it feels like all my unnecessary[r]
+worries have been expelled. What was I even worrying[r]
+about...[pcms]
 
 *6473|
 [fc]
@@ -741,8 +771,8 @@ expelled. What was I even worrying about...[pcms]
 
 *6474|
 [fc]
-Kousuke is being sucked all over by the girls. About three of them are fighting[r]
-over his thing.[pcms]
+Kousuke is being sucked all over by the girls. About three[r]
+of them are fighting over his thing.[pcms]
 
 *6475|
 [fc]
@@ -762,8 +792,8 @@ Kousuke really is popular, huh~. I'm envious~.[pcms]
 
 *6478|
 [fc]
-Senpai is popular too, huh... And yet she resists so much~. Is Senpai a[r]
-tsundere, I wonder?[pcms]
+Senpai is popular too, huh... And yet she resists so much~.[r]
+Is Senpai a tsundere, I wonder?[pcms]
 
 *6479|
 [fc]
@@ -781,7 +811,8 @@ Senpai has a great figure and blonde hair~.[pcms]
 
 *6482|
 [fc]
-Ren is once again hugging her violin case, trembling in the corner of the room.[pcms]
+Ren is once again hugging her violin case, trembling in the[r]
+corner of the room.[pcms]
 
 *6483|
 [fc]
@@ -816,7 +847,8 @@ The best thing to have is a cute little sister~[pcms]
 
 *6488|
 [fc]
-Just wait a little longer~ Your favorite big brother is coming soon~[pcms]
+Just wait a little longer~ Your favorite big brother is[r]
+coming soon~[pcms]
 
 ;//@konya ã≠êßÉWÉÉÉìÉv
 [jump storage="42200.ks" target=*42200_TOP]

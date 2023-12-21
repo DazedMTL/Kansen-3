@@ -43,12 +43,13 @@ I took Ren and Yuuho with me and headed to the drugstore.[pcms]
 
 *170|
 [fc]
-After confirming there were no signs of people or 'them', we entered the store.[pcms]
+After confirming there were no signs of people or 'them', we[r]
+entered the store.[pcms]
 
 *171|
 [fc]
-The store was a bit of a mess, but it looked more like the work of panicked[r]
-humans than an attack by 'them'.[pcms]
+The store was a bit of a mess, but it looked more like the[r]
+work of panicked humans than an attack by 'them'.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -56,19 +57,20 @@ humans than an attack by 'them'.[pcms]
 [fc]
 [vo_yuh s="yuho1457"]
 [ns]Yuuho[nse]
-"Since it seemed like there was food at the 'depot', we don't need to take any[r]
-for now, right?"[pcms]
+"Since it seemed like there was food at the 'depot', we[r]
+don't need to take any for now, right?"[pcms]
 
 *173|
 [fc]
 [ns]Wataru[nse]
-"Yeah. I'm going to look for medicines and daily necessities. Ren, you'll need[r]
-cream and contact lens supplies, right?"[pcms]
+"Yeah. I'm going to look for medicines and daily[r]
+necessities. Ren, you'll need cream and contact lens[r]
+supplies, right?"[pcms]
 
 *174|
 [fc]
-When I reached out my hand and said "come here," Ren blushed for some reason and[r]
-hesitated.[pcms]
+When I reached out my hand and said "come here," Ren blushed[r]
+for some reason and hesitated.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -106,8 +108,8 @@ Yuuho's tone was also hesitant.[pcms]
 [fc]
 [vo_yuh s="yuho1459"]
 [ns]Yuuho[nse]
-"No way! If I leave it to a guy, you'll pick something terrible without[r]
-considering hair or skin type."[pcms]
+"No way! If I leave it to a guy, you'll pick something[r]
+terrible without considering hair or skin type."[pcms]
 
 *181|
 [fc]
@@ -131,7 +133,8 @@ considering hair or skin type."[pcms]
 
 *183|
 [fc]
-For some reason, the two of them really wanted to act separately.[pcms]
+For some reason, the two of them really wanted to act[r]
+separately.[pcms]
 
 *184|
 [fc]
@@ -144,12 +147,13 @@ I watched the two sneak away...[pcms]
 
 *186|
 [fc]
-The place they headed to was a corner with private brand underwear and menstrual[r]
-products.[pcms]
+The place they headed to was a corner with private brand[r]
+underwear and menstrual products.[pcms]
 
 *187|
 [fc]
-I guess that's definitely something they'd want to do separately...[pcms]
+I guess that's definitely something they'd want to do[r]
+separately...[pcms]
 
 *188|
 [fc]
@@ -172,7 +176,8 @@ Noticing my gaze, Yuuho turned around with incredible speed.[pcms]
 
 *190|
 [fc]
-I'm always impressed, but she really has an incredible intuition...[pcms]
+I'm always impressed, but she really has an incredible[r]
+intuition...[pcms]
 
 *191|
 [fc]
@@ -181,22 +186,25 @@ I'm always impressed, but she really has an incredible intuition...[pcms]
 
 *192|
 [fc]
-I held shopping baskets in both hands and began to search through the shelves.[pcms]
+I held shopping baskets in both hands and began to search[r]
+through the shelves.[pcms]
 
 *193|
 [fc]
-First, I packed as much as I could of the essentials like Ren's UV cut cream,[r]
-contact lens solution, and eye drops into the basket.[pcms]
+First, I packed as much as I could of the essentials like[r]
+Ren's UV cut cream, contact lens solution, and eye drops[r]
+into the basket.[pcms]
 
 *194|
 [fc]
-In the other basket, I threw in anything that seemed useful that caught my eye,[r]
-like wet wipes and painkillers.[pcms]
+In the other basket, I threw in anything that seemed useful[r]
+that caught my eye, like wet wipes and painkillers.[pcms]
 
 *195|
 [fc]
-Shopping (?) without any budget or restrictions gave me a strange sense of[r]
-excitement... Even in this situation, I couldn't help feeling a bit elated.[pcms]
+Shopping (?) without any budget or restrictions gave me a[r]
+strange sense of excitement... Even in this situation, I[r]
+couldn't help feeling a bit elated.[pcms]
 
 *196|
 [fc]
@@ -209,18 +217,19 @@ The baskets were full in no time.[pcms]
 
 *198|
 [fc]
-When I looked up to check on them, Ren and Yuuho were picking out cosmetics. It[r]
-seemed like they would take more time...[pcms]
+When I looked up to check on them, Ren and Yuuho were[r]
+picking out cosmetics. It seemed like they would take more[r]
+time...[pcms]
 
 *199|
 [fc]
-I decided to leave the store first, passing by the register with the baskets[r]
-still in hand.[pcms]
+I decided to leave the store first, passing by the register[r]
+with the baskets still in hand.[pcms]
 
 *200|
 [fc]
-I also piled up some special sale snacks that were left at the storefront into[r]
-the basket as an afterthought.[pcms]
+I also piled up some special sale snacks that were left at[r]
+the storefront into the basket as an afterthought.[pcms]
 
 ;//ÅYîwåiÅFÉZÉìÉ^Å[ÉXÉgÉäÅ[Ég
 ;//@konya îwåiïœÇÌÇ¡ÇƒÇ¢Ç‹ÇπÇÒ
@@ -246,13 +255,13 @@ As I stepped outside, I heard voices from afar.[pcms]
 
 *204|
 [fc]
-I wonder where Senpai and Kousuke are walking. They seem to be within earshot at[r]
-least.[pcms]
+I wonder where Senpai and Kousuke are walking. They seem to[r]
+be within earshot at least.[pcms]
 
 *205|
 [fc]
-I waited for Yuuho and the others to come out while absentmindedly looking up at[r]
-the sky.[pcms]
+I waited for Yuuho and the others to come out while[r]
+absentmindedly looking up at the sky.[pcms]
 
 ;//ÅYîwåiÅFãÛ
 [bg storage="BGS008a"][trans_c cross time=500]
@@ -264,7 +273,8 @@ The sky was clear and blue...[pcms]
 
 *207|
 [fc]
-A few planes were flying across the sky, trailing clouds behind them.[pcms]
+A few planes were flying across the sky, trailing clouds[r]
+behind them.[pcms]
 
 *208|
 [fc]
@@ -273,24 +283,26 @@ A few planes were flying across the sky, trailing clouds behind them.[pcms]
 
 *209|
 [fc]
-They weren't Self-Defense Force planes but American military aircraft. The[r]
-formation flew from in front of me over my head and disappeared into the[r]
-distance.[pcms]
+They weren't Self-Defense Force planes but American military[r]
+aircraft. The formation flew from in front of me over my[r]
+head and disappeared into the distance.[pcms]
 
 *210|
 [fc]
-This area isn't usually on any flight routes. Maybe they're heading from the[r]
-ocean to some base... Or could it be a reconnaissance mission?[pcms]
+This area isn't usually on any flight routes. Maybe they're[r]
+heading from the ocean to some base... Or could it be a[r]
+reconnaissance mission?[pcms]
 
 *211|
 [fc]
-But at least it's been a while since I've seen evidence that living humans are[r]
-still active...[pcms]
+But at least it's been a while since I've seen evidence that[r]
+living humans are still active...[pcms]
 
 *212|
 [fc]
-The outside world is still functioning... maybe. If we wait a little longer,[r]
-will the situation be resolved and help arrive... maybe.[pcms]
+The outside world is still functioning... maybe. If we wait[r]
+a little longer, will the situation be resolved and help[r]
+arrive... maybe.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -309,9 +321,9 @@ will the situation be resolved and help arrive... maybe.[pcms]
 
 *215|
 [fc]
-As I was idly thinking about such things, the voices of Senpai and Kousuke[r]
-calling out continued to echo in the distance through the streets lined with[r]
-buildings.[pcms]
+As I was idly thinking about such things, the voices of[r]
+Senpai and Kousuke calling out continued to echo in the[r]
+distance through the streets lined with buildings.[pcms]
 
 ;//ÅYîwåiÅFÉZÉìÉ^Å[ÉXÉgÉäÅ[Ég
 [bg storage="BG05d"][trans_c cross time=500]
@@ -344,14 +356,15 @@ Finally, Yuuho and Ren came out of the store.[pcms]
 
 *220|
 [fc]
-Yuuho had baskets full of goods in both hands, and on top of that, she was[r]
-carrying bundles of toilet paper (the economical 12-roll pack) bound together[r]
-with tape.[pcms]
+Yuuho had baskets full of goods in both hands, and on top of[r]
+that, she was carrying bundles of toilet paper (the[r]
+economical 12-roll pack) bound together with tape.[pcms]
 
 *221|
 [fc]
-As for Ren, she had less because she was carrying a violin case, but like Yuuho,[r]
-she was also holding bundles of tissues and baskets.[pcms]
+As for Ren, she had less because she was carrying a violin[r]
+case, but like Yuuho, she was also holding bundles of[r]
+tissues and baskets.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -359,7 +372,8 @@ she was also holding bundles of tissues and baskets.[pcms]
 [fc]
 [vo_yuh s="yuho1463"]
 [ns]Yuuho[nse]
-"Ahahaha. Maybe I bought a little too much~. Oh, but I didn't pay for it..."[pcms]
+"Ahahaha. Maybe I bought a little too much~. Oh, but I[r]
+didn't pay for it..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -367,8 +381,8 @@ she was also holding bundles of tissues and baskets.[pcms]
 [fc]
 [vo_ren s="ren1318"]
 [ns]Ren[nse]
-"At first, I thought we'd just get what we needed, but as we looked around, it[r]
-seemed like we might need everything..."[pcms]
+"At first, I thought we'd just get what we needed, but as we[r]
+looked around, it seemed like we might need everything..."[pcms]
 
 *224|
 [fc]
@@ -377,9 +391,10 @@ seemed like we might need everything..."[pcms]
 
 *225|
 [fc]
-The safety of the city hasn't been clearly confirmed, and it would be difficult[r]
-to come to this store many times... With that in mind, stocking up on supplies[r]
-all at once is the right decision.[pcms]
+The safety of the city hasn't been clearly confirmed, and it[r]
+would be difficult to come to this store many times... With[r]
+that in mind, stocking up on supplies all at once is the[r]
+right decision.[pcms]
 
 *226|
 [fc]
@@ -388,14 +403,16 @@ all at once is the right decision.[pcms]
 
 *227|
 [fc]
-As I casually looked around, something like a shadow caught my eye.[pcms]
+As I casually looked around, something like a shadow caught[r]
+my eye.[pcms]
 
 ;//bgmí‚é~
 [fadeoutbgm time=500]
 
 *228|
 [fc]
-I froze in an instant when I turned my eyes towards where the shadow was.[pcms]
+I froze in an instant when I turned my eyes towards where[r]
+the shadow was.[pcms]
 
 ;//ÅYÇdÇuÇOÇOÇP
 [evcg storage="EV001d"][trans_c cross time=300]
@@ -407,8 +424,9 @@ I froze in an instant when I turned my eyes towards where the shadow was.[pcms]
 
 *230|
 [fc]
-There stood a girl in a bondage-like outfit swaying gently... That was... the[r]
-"girl with red eyes" we met before.[pcms]
+There stood a girl in a bondage-like outfit swaying[r]
+gently... That was... the "girl with red eyes" we met[r]
+before.[pcms]
 
 *231|
 [fc]
@@ -425,7 +443,8 @@ What on earth is she doing here...?[pcms]
 
 *233|
 [fc]
-At that moment, strange groaning sounds began to be heard from around us.[pcms]
+At that moment, strange groaning sounds began to be heard[r]
+from around us.[pcms]
 
 ;//ÅYîwåiÅFÉZÉìÉ^Å[ÉXÉgÉäÅ[Ég
 [bg storage="BG05a"][trans_c cross time=500]
@@ -445,7 +464,8 @@ At that moment, strange groaning sounds began to be heard from around us.[pcms]
 *235|
 [fc]
 [ns]Infected Man C[nse]
-"Grrraaahh! Oooh! Give me... flesh... let me eat it aaaaahhh!"[pcms]
+"Grrraaahh! Oooh! Give me... flesh... let me eat it[r]
+aaaaahhh!"[pcms]
 ;//Åóä¥êıé“ÇΩÇø
 
 *236|
@@ -476,9 +496,9 @@ The voices quickly grew louder.[pcms]
 
 *240|
 [fc]
-From the street leading to the station front, I could see Senpai Maruko and[r]
-Kousuke running back with a rolling momentum. Behind them surged a horde of[r]
-infected![pcms]
+From the street leading to the station front, I could see[r]
+Senpai Maruko and Kousuke running back with a rolling[r]
+momentum. Behind them surged a horde of infected![pcms]
 
 *241|
 [fc]
@@ -486,7 +506,8 @@ We all started running towards the depot at once.[pcms]
 
 *242|
 [fc]
-Suddenly catching up, Senpai and Kousuke rushed towards Yuuho and Ren.[pcms]
+Suddenly catching up, Senpai and Kousuke rushed towards[r]
+Yuuho and Ren.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -507,15 +528,18 @@ Suddenly catching up, Senpai and Kousuke rushed towards Yuuho and Ren.[pcms]
 
 *245|
 [fc]
-The depot was only a short distance away. Yet that distance felt impossibly far.[pcms]
+The depot was only a short distance away. Yet that distance[r]
+felt impossibly far.[pcms]
 
 *246|
 [fc]
-We must hurry, move our arms and legs faster, faster forward...[pcms]
+We must hurry, move our arms and legs faster, faster[r]
+forward...[pcms]
 
 *247|
 [fc]
-A particularly loud groan echoed in my ears as I struggled to run.[pcms]
+A particularly loud groan echoed in my ears as I struggled[r]
+to run.[pcms]
 
 *248|
 [fc]
@@ -524,13 +548,15 @@ A particularly loud groan echoed in my ears as I struggled to run.[pcms]
 
 *249|
 [fc]
-I instinctively looked back to see a large swarm of infected coming from the[r]
-direction of the station, swarming towards us.[pcms]
+I instinctively looked back to see a large swarm of infected[r]
+coming from the direction of the station, swarming towards[r]
+us.[pcms]
 
 *250|
 [fc]
-Not only that, but new infected were continuously emerging from inside the[r]
-surrounding buildings and from blind spots in the streets.[pcms]
+Not only that, but new infected were continuously emerging[r]
+from inside the surrounding buildings and from blind spots[r]
+in the streets.[pcms]
 
 *251|
 [fc]
@@ -552,8 +578,8 @@ surrounding buildings and from blind spots in the streets.[pcms]
 
 *254|
 [fc]
-We plunged into the half-open shutter of the depot as if diving in with our[r]
-bodies.[pcms]
+We plunged into the half-open shutter of the depot as if[r]
+diving in with our bodies.[pcms]
 
 ;//@konya Ç≈Ç≈Ç¡Ç€Ç§ÉLÉbÉ`Éì
 [bg storage="BG022"][trans_c cross time=500]
@@ -584,8 +610,9 @@ bodies.[pcms]
 
 *258|
 [fc]
-The moment I ran inside, Kousuke who was waiting slammed down the shutter. He[r]
-locked the shutter, closed the glass door, and locked it as well.[pcms]
+The moment I ran inside, Kousuke who was waiting slammed[r]
+down the shutter. He locked the shutter, closed the glass[r]
+door, and locked it as well.[pcms]
 
 *259|
 [fc]
@@ -601,7 +628,8 @@ locked the shutter, closed the glass door, and locked it as well.[pcms]
 
 *261|
 [fc]
-Ren staggered and leaned against me. She had turned pale from suddenly running.[pcms]
+Ren staggered and leaned against me. She had turned pale[r]
+from suddenly running.[pcms]
 
 *262|
 [fc]
@@ -618,8 +646,8 @@ Ren staggered and leaned against me. She had turned pale from suddenly running.[
 
 *264|
 [fc]
-While placing her hand on her chest and catching her breath, Ren nodded[r]
-slightly.[pcms]
+While placing her hand on her chest and catching her breath,[r]
+Ren nodded slightly.[pcms]
 
 ;//se043ÅEã‡ëÆÇÃî¬Çí@Ç≠âπ
 [se buf=0 storage="se043"]
@@ -630,8 +658,8 @@ slightly.[pcms]
 
 *265|
 [fc]
-And then... before long, the sound of something hitting the shutter began to[r]
-echo inside the store...[pcms]
+And then... before long, the sound of something hitting the[r]
+shutter began to echo inside the store...[pcms]
 
 [eval exp="f.l_ren_point = f.l_ren_point + 1"]
 

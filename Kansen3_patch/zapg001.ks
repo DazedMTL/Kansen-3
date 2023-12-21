@@ -31,8 +31,8 @@
 
 *4004|
 [fc]
-Tossing aside the half-finished bottle, he stood up from his chair to look for[r]
-the next drink.[pcms]
+Tossing aside the half-finished bottle, he stood up from his[r]
+chair to look for the next drink.[pcms]
 
 *4005|
 [fc]
@@ -41,8 +41,9 @@ the next drink.[pcms]
 
 *4006|
 [fc]
-As he was searching through the shelves of liquor, he felt a presence behind him[r]
-and turned around to find Shigeyoshi standing there.[pcms]
+As he was searching through the shelves of liquor, he felt a[r]
+presence behind him and turned around to find Shigeyoshi[r]
+standing there.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -58,8 +59,9 @@ and turned around to find Shigeyoshi standing there.[pcms]
 
 *4009|
 [fc]
-Jin and Shige stood across the bar counter from each other, like a bartender and[r]
-a customer, silently staring at each other.[pcms]
+Jin and Shige stood across the bar counter from each other,[r]
+like a bartender and a customer, silently staring at each[r]
+other.[pcms]
 
 *4010|
 [fc]
@@ -70,32 +72,36 @@ After a moment of silence, it was Shige who spoke first.[pcms]
 *4011|
 [fc]
 [ns]Shigeyoshi[nse]
-"I know Aniki only joined the yakuza because you had no other choice and climbed[r]
-the ranks, even if reluctantly. But I'm different."[pcms]
+"I know Aniki only joined the yakuza because you had no[r]
+other choice and climbed the ranks, even if reluctantly. But[r]
+I'm different."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4012|
 [fc]
 [ns]Shigeyoshi[nse]
-"As you know, I'm an idiot and a piece of trash. If Aniki hadn't picked me up, I[r]
-wouldn't even know where I'd have dropped dead. The only life I can live now is[r]
-in the yakuza..."[pcms]
+"As you know, I'm an idiot and a piece of trash. If Aniki[r]
+hadn't picked me up, I wouldn't even know where I'd have[r]
+dropped dead. The only life I can live now is in the[r]
+yakuza..."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4013|
 [fc]
 [ns]Shigeyoshi[nse]
-"Life here is too well-mannered for me, it's suffocating. And... even if Aniki[r]
-doesn't want to admit it, I'm worried about the young ones we left behind."[pcms]
+"Life here is too well-mannered for me, it's suffocating.[r]
+And... even if Aniki doesn't want to admit it, I'm worried[r]
+about the young ones we left behind."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4014|
 [fc]
 [ns]Shigeyoshi[nse]
-"Aniki, I'll say it again. Come back with me... to Celesta Tower."[pcms]
+"Aniki, I'll say it again. Come back with me... to Celesta[r]
+Tower."[pcms]
 
 *4015|
 [fc]
@@ -126,8 +132,8 @@ But as for me...[pcms]
 
 *4020|
 [fc]
-Shige, perhaps expecting a response from me, turned his back and stopped after[r]
-taking a few steps.[pcms]
+Shige, perhaps expecting a response from me, turned his back[r]
+and stopped after taking a few steps.[pcms]
 
 *4021|
 [fc]
@@ -147,18 +153,19 @@ I can't get my thoughts together. ...What a pain.[pcms]
 
 *4025|
 [fc]
-Shige and I are going to live in different worlds from now on. That's all there[r]
-is to it.[pcms]
+Shige and I are going to live in different worlds from now[r]
+on. That's all there is to it.[pcms]
 
 *4026|
 [fc]
 [ns]Jin[nse]
-"Shige! You're just rough around the edges, not trash. Don't you forget that.[r]
-Take care."[pcms]
+"Shige! You're just rough around the edges, not trash. Don't[r]
+you forget that. Take care."[pcms]
 
 *4027|
 [fc]
-Hearing the words "Take care," Shige left the room without looking back.[pcms]
+Hearing the words "Take care," Shige left the room without[r]
+looking back.[pcms]
 
 *4028|
 [fc]

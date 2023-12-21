@@ -47,7 +47,8 @@ I slowly reach into my pants and grip the handle tightly...[pcms]
 
 *1205|
 [fc]
-Just as Kousuke was lowering his gun, he reacted to my voice and aimed again![pcms]
+Just as Kousuke was lowering his gun, he reacted to my voice[r]
+and aimed again![pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -80,8 +81,8 @@ The two gang members also looked at me with puzzled faces.[pcms]
 
 *1210|
 [fc]
-Later, I heard from Yuuho that I had completely missed the timing, and my gun[r]
-stance was all wrong...[pcms]
+Later, I heard from Yuuho that I had completely missed the[r]
+timing, and my gun stance was all wrong...[pcms]
 
 *1211|
 [fc]
@@ -89,8 +90,9 @@ Apparently, everyone thought I had clearly "missed."[pcms]
 
 *1212|
 [fc]
-But at that time, I couldn't see the situation around me, and I was just filled[r]
-with the thought that I had to do something.[pcms]
+But at that time, I couldn't see the situation around me,[r]
+and I was just filled with the thought that I had to do[r]
+something.[pcms]
 
 [ChrSetEx layer=4 chbase="shige_b4"][ChrSetXY layer=4 x=321 y=0]
 [ChrSetEx layer=3 chbase="jin_c4"][ChrSetXY layer=3 x=-71 y=0][trans_c cross time=150]
@@ -102,29 +104,33 @@ with the thought that I had to do something.[pcms]
 
 *1214|
 [fc]
-I can't back down here... I spoke in as calm a tone as I could manage.[pcms]
+I can't back down here... I spoke in as calm a tone as I[r]
+could manage.[pcms]
 
 *1215|
 [fc]
 [ns]Wataru[nse]
-"But... that doesn't mean I can completely trust you guys waving guns around..."[pcms]
+"But... that doesn't mean I can completely trust you guys[r]
+waving guns around..."[pcms]
 
 *1216|
 [fc]
 [ns]Wataru[nse]
-"So please answer our questions. Then Kousuke will be satisfied, we can end this[r]
-situation, and we can all relax..."[pcms]
+"So please answer our questions. Then Kousuke will be[r]
+satisfied, we can end this situation, and we can all[r]
+relax..."[pcms]
 
 *1217|
 [fc]
-Seeing that no one was responding, I decided to continue persuading a bit more.[pcms]
+Seeing that no one was responding, I decided to continue[r]
+persuading a bit more.[pcms]
 
 *1218|
 [fc]
 [ns]Wataru[nse]
-"I'm thirsty, and I'd like to turn up the cooler a bit more. And if we go to a[r]
-manga cafe, we can take a shower... Oh, um, even just washing our faces would be[r]
-fine..."[pcms]
+"I'm thirsty, and I'd like to turn up the cooler a bit more.[r]
+And if we go to a manga cafe, we can take a shower... Oh,[r]
+um, even just washing our faces would be fine..."[pcms]
 
 [ChrSetEx layer=3 chbase="jin_c3"][ChrSetXY layer=3 x=-71 y=0][trans_c cross time=150]
 
@@ -135,8 +141,8 @@ fine..."[pcms]
 
 *1220|
 [fc]
-Jin started to say something with an angry look on his face but stopped mid-[r]
-sentence.[pcms]
+Jin started to say something with an angry look on his face[r]
+but stopped mid- sentence.[pcms]
 
 [ChrSetEx layer=3 chbase="jin_c2"][ChrSetXY layer=3 x=-71 y=0][trans_c cross time=150]
 
@@ -185,8 +191,8 @@ Reluctantly, Shigeyoshi obeyed Jin's words.[pcms]
 
 *1228|
 [fc]
-Without taking her eyes off them, Maruko-senpai also lowered her gun in sync[r]
-with the gang members' movements.[pcms]
+Without taking her eyes off them, Maruko-senpai also lowered[r]
+her gun in sync with the gang members' movements.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -209,8 +215,8 @@ Suddenly, I realized Jin was staring intently at me.[pcms]
 *1232|
 [fc]
 [ns]Jin[nse]
-"How long are you going to point that thing? What's this 'I can't trust anyone[r]
-who waves guns around'..."[pcms]
+"How long are you going to point that thing? What's this 'I[r]
+can't trust anyone who waves guns around'..."[pcms]
 
 *1233|
 [fc]

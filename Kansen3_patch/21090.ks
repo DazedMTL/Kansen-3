@@ -19,31 +19,33 @@
 
 *538|
 [fc]
-It's frustrating... it's sad... But right now, giving up was the only option.[pcms]
+It's frustrating... it's sad... But right now, giving up was[r]
+the only option.[pcms]
 
 *539|
 [fc]
-I want to go back and save Ren and Kousuke, but the school is overflowing with[r]
-infected.[pcms]
+I want to go back and save Ren and Kousuke, but the school[r]
+is overflowing with infected.[pcms]
 
 *540|
 [fc]
-Moreover, they are swarming in from the streets of Shibuya below, increasing in[r]
-number.[pcms]
+Moreover, they are swarming in from the streets of Shibuya[r]
+below, increasing in number.[pcms]
 
 *541|
 [fc]
-Going back to save them in this situation would just be going to our deaths...[r]
-it's the same as committing suicide.[pcms]
+Going back to save them in this situation would just be[r]
+going to our deaths... it's the same as committing suicide.[pcms]
 
 *542|
 [fc]
-Even if I were the one left behind, I wouldn't want Ren or Kousuke to commit a[r]
-suicidal act just to save me.[pcms]
+Even if I were the one left behind, I wouldn't want Ren or[r]
+Kousuke to commit a suicidal act just to save me.[pcms]
 
 *543|
 [fc]
-So for now... all I can do is endure. All I could do was pray for their safety.[pcms]
+So for now... all I can do is endure. All I could do was[r]
+pray for their safety.[pcms]
 
 ;//ÅYÇaÇfÅFê_ìÏäwâÄÅEëSåi
 [bg storage="BG07a"][trans_c cross time=500]
@@ -51,8 +53,9 @@ So for now... all I can do is endure. All I could do was pray for their safety.[
 
 *544|
 [fc]
-Yuuho seemed about to voice her dissatisfaction with following the senior's[r]
-instructions, but perhaps sensing my feelings, she fell silent.[pcms]
+Yuuho seemed about to voice her dissatisfaction with[r]
+following the senior's instructions, but perhaps sensing my[r]
+feelings, she fell silent.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -69,23 +72,26 @@ instructions, but perhaps sensing my feelings, she fell silent.[pcms]
 
 *547|
 [fc]
-Yuuho gently hugged me from behind as I answered with trembling shoulders.[pcms]
+Yuuho gently hugged me from behind as I answered with[r]
+trembling shoulders.[pcms]
 
 *548|
 [fc]
-That's right, I have to protect Yuuho. I can't afford to show any weakness here.[pcms]
+That's right, I have to protect Yuuho. I can't afford to[r]
+show any weakness here.[pcms]
 
 *549|
 [fc]
-I'll allow myself to grieve once I've taken Yuuho to a safe place.[pcms]
+I'll allow myself to grieve once I've taken Yuuho to a safe[r]
+place.[pcms]
 
 ;//ÅYÇaÇfÅFçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *550|
 [fc]
-After escaping to the biotope garden, we moved inside the branch school[r]
-building.[pcms]
+After escaping to the biotope garden, we moved inside the[r]
+branch school building.[pcms]
 
 ;//ÅYÇaÇfÅFï™çZé…òLâ∫
 [bg storage="BG017"][trans_c cross time=500]
@@ -93,8 +99,9 @@ building.[pcms]
 
 *551|
 [fc]
-It seemed that the infected had already infiltrated here too, as we could hear[r]
-the agonizing cries of girls who appeared to be violated.[pcms]
+It seemed that the infected had already infiltrated here[r]
+too, as we could hear the agonizing cries of girls who[r]
+appeared to be violated.[pcms]
 
 *552|
 [fc]
@@ -104,13 +111,14 @@ the agonizing cries of girls who appeared to be violated.[pcms]
 
 *553|
 [fc]
-We had no choice but to proceed with extreme caution so as not to be found. We[r]
-moved forward step by step, holding our breath.[pcms]
+We had no choice but to proceed with extreme caution so as[r]
+not to be found. We moved forward step by step, holding our[r]
+breath.[pcms]
 
 *554|
 [fc]
-Then, about halfway down the corridor, several infected suddenly started chasing[r]
-us from behind.[pcms]
+Then, about halfway down the corridor, several infected[r]
+suddenly started chasing us from behind.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -131,23 +139,25 @@ us from behind.[pcms]
 [fc]
 [vo_mar s="maru0045"]
 [ns]Margarita[nse]
-"Once found, they'll keep coming in droves. We have no choice but to run and[r]
-shake them off!"[pcms]
+"Once found, they'll keep coming in droves. We have no[r]
+choice but to run and shake them off!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *557a|
 [fc]
-Nodding at the senior's words, I grabbed Yuuho's hand and started running.[pcms]
+Nodding at the senior's words, I grabbed Yuuho's hand and[r]
+started running.[pcms]
 
 *558|
 [fc]
-Fortunately, they were slow-moving. If we sprinted at full speed, there was no[r]
-worry of being caught from behind.[pcms]
+Fortunately, they were slow-moving. If we sprinted at full[r]
+speed, there was no worry of being caught from behind.[pcms]
 
 *559|
 [fc]
-As long as we don't get caught in a pincer attack, escaping should be easy.[pcms]
+As long as we don't get caught in a pincer attack, escaping[r]
+should be easy.[pcms]
 
 ;//ÅYÇaÇfÅFï™çZé…èÄîıé∫
 ;//@konya äYìñCGÇ†ÇÈÇ©ÅH
@@ -158,9 +168,9 @@ As long as we don't get caught in a pincer attack, escaping should be easy.[pcms
 
 *560|
 [fc]
-We immediately dove into the branch school's prep room. Thanks to a key that the[r]
-senior had borrowed in advance, we were able to retreat into the unoccupied[r]
-room.[pcms]
+We immediately dove into the branch school's prep room.[r]
+Thanks to a key that the senior had borrowed in advance, we[r]
+were able to retreat into the unoccupied room.[pcms]
 
 *561|
 [fc]
@@ -182,13 +192,13 @@ room.[pcms]
 
 *564|
 [fc]
-Even though the door was locked, it was only a matter of time before it was[r]
-broken through.[pcms]
+Even though the door was locked, it was only a matter of[r]
+time before it was broken through.[pcms]
 
 *565|
 [fc]
-We had secured temporary safety, but the situation could still be considered[r]
-extremely dangerous.[pcms]
+We had secured temporary safety, but the situation could[r]
+still be considered extremely dangerous.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -200,8 +210,9 @@ extremely dangerous.[pcms]
 
 *567|
 [fc]
-Ignoring our worries, the senior said that and began removing the hatch cover[r]
-and setting it aside, descending under the school building.[pcms]
+Ignoring our worries, the senior said that and began[r]
+removing the hatch cover and setting it aside, descending[r]
+under the school building.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -215,8 +226,8 @@ and setting it aside, descending under the school building.[pcms]
 
 *568a|
 [fc]
-As she took out a flashlight from her backpack and said that, the senior started[r]
-moving ahead.[pcms]
+As she took out a flashlight from her backpack and said[r]
+that, the senior started moving ahead.[pcms]
 
 [se buf=0 storage="se043"]
 [wait time=400]
@@ -226,8 +237,8 @@ moving ahead.[pcms]
 
 *569|
 [fc]
-And at that moment, a loud banging noise echoed as someone furiously hit the[r]
-sliding door.[pcms]
+And at that moment, a loud banging noise echoed as someone[r]
+furiously hit the sliding door.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -246,19 +257,20 @@ sliding door.[pcms]
 
 *572|
 [fc]
-In a panic, I pulled Yuuho's hand and jumped down under the floor.[pcms]
+In a panic, I pulled Yuuho's hand and jumped down under the[r]
+floor.[pcms]
 
 *573|
 [fc]
-I reached for the hatch cover set aside, but it was too heavy to move without[r]
-lifting it from above.[pcms]
+I reached for the hatch cover set aside, but it was too[r]
+heavy to move without lifting it from above.[pcms]
 
 [se buf=0 storage="se038"]
 
 *574|
 [fc]
-The door rail was easily removed, and the infected came pouring in like an[r]
-avalanche.[pcms]
+The door rail was easily removed, and the infected came[r]
+pouring in like an avalanche.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -279,7 +291,8 @@ avalanche.[pcms]
 ;
 ;	[link storage="21100.ks" target=*21100_TOP]ÉnÉbÉ`Çï¬ÇﬂÇÈÇÃÇÕÇ†Ç´ÇÁÇﬂÇÈ[endlink]
 ;	[link storage="21110.ks" target=*21110_TOP]äÊí£Ç¡ÇƒÉnÉbÉ`Çï¬ÇﬂÇÈ[endlink]
-; ;(link storage="21110.ks" target=*21110_TOP)Time's up(endlink)[pcms]
+; ;(link storage="21110.ks" target=*21110_TOP)Time's[r]
+up(endlink)[pcms]
 
 *SEL16|ÉnÉbÉ`Çï¬ÇﬂÇÈÇÃÇÕÇ†Ç´ÇÁÇﬂÇÈÅ^äÊí£Ç¡ÇƒÉnÉbÉ`Çï¬ÇﬂÇÈ
 [fc]

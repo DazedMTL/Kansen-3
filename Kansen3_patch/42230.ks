@@ -22,8 +22,8 @@
 *6879|
 [fc]
 [ns]Wataru[nse]
-"Yeah, Dad raised Ren and me all by himself. He deserves a little reward,[r]
-right?"[pcms]
+"Yeah, Dad raised Ren and me all by himself. He deserves a[r]
+little reward, right?"[pcms]
 
 *6880|
 [fc]
@@ -33,8 +33,9 @@ right?"[pcms]
 *6881|
 [fc]
 [ns]Wataru[nse]
-"He's been so busy with work and hardly ever comes home lately. Today, he should[r]
-spend some quality father-daughter time with Ren!"[pcms]
+"He's been so busy with work and hardly ever comes home[r]
+lately. Today, he should spend some quality father-daughter[r]
+time with Ren!"[pcms]
 
 *6882|
 [fc]
@@ -99,8 +100,9 @@ spend some quality father-daughter time with Ren!"[pcms]
 
 *6889|
 [fc]
-Ren screams in surprise. It looks like Dad is going to do it. If it goes on like[r]
-this, it'll be what they call a 'station bento' position.[pcms]
+Ren screams in surprise. It looks like Dad is going to do[r]
+it. If it goes on like this, it'll be what they call a[r]
+'station bento' position.[pcms]
 
 *6890|
 [fc]
@@ -114,9 +116,9 @@ Wow, Dad is amazing. He really is strong.[pcms]
 
 *6892|
 [fc]
-But why does Ren sound like she's screaming in disgust? Could it be that she's[r]
-actually looking forward to having her virginity taken by Dad, and that's a cry[r]
-of joy?[pcms]
+But why does Ren sound like she's screaming in disgust?[r]
+Could it be that she's actually looking forward to having[r]
+her virginity taken by Dad, and that's a cry of joy?[pcms]
 
 *6893|
 [fc]
@@ -138,7 +140,8 @@ of joy?[pcms]
 [fc]
 [vo_ren s="ren_Z0006"]
 [ns]Ren[nse]
-"Not in front of people...! It's wrong...! This is so wrong!!"[pcms]
+"Not in front of people...! It's wrong...! This is so[r]
+wrong!!"[pcms]
 
 *6897|
 [fc]
@@ -183,7 +186,8 @@ There's no way Ren hates Dad... She must just be shy.[pcms]
 
 *6905|
 [fc]
-In a weak voice that's hard to understand, Ren mutters while shaking her head.[pcms]
+In a weak voice that's hard to understand, Ren mutters while[r]
+shaking her head.[pcms]
 
 *6906|
 [fc]
@@ -195,21 +199,25 @@ In a weak voice that's hard to understand, Ren mutters while shaking her head.[p
 [fc]
 [vo_ren s="ren_Z0011"]
 [ns]Ren[nse]
-"I don't want to do this with Dad, no! I absolutely hate it~~!!"[pcms]
+"I don't want to do this with Dad, no! I absolutely hate[r]
+it~~!!"[pcms]
 
 *6908|
 [fc]
-Ren screams! What's wrong with Ren? Even Dad is surprised by Ren's scream.[pcms]
+Ren screams! What's wrong with Ren? Even Dad is surprised by[r]
+Ren's scream.[pcms]
 
 *6909|
 [fc]
-Even though Ren doesn't hate Dad at all. She never once said anything as[r]
-terrible as 'I hate being washed together with Dad.'[pcms]
+Even though Ren doesn't hate Dad at all. She never once said[r]
+anything as terrible as 'I hate being washed together with[r]
+Dad.'[pcms]
 
 *6910|
 [fc]
 [ns]Father[nse]
-"I'm good at this~. I made Ren's mother feel good not just a hundred times~"[pcms]
+"I'm good at this~. I made Ren's mother feel good not just a[r]
+hundred times~"[pcms]
 
 *6911|
 [fc]
@@ -221,7 +229,8 @@ terrible as 'I hate being washed together with Dad.'[pcms]
 *6912|
 [fc]
 [ns]Father[nse]
-"Your mother loved it so much~. Ren will surely like it too~"[pcms]
+"Your mother loved it so much~. Ren will surely like it[r]
+too~"[pcms]
 
 *6913|
 [fc]
@@ -263,7 +272,8 @@ Father thrusts into Ren's pussy all at once.[pcms]
 *6919|
 [fc]
 [ns]Father[nse]
-"Ren's pussy is so tight~. It's incredibly tight and feels so good~"[pcms]
+"Ren's pussy is so tight~. It's incredibly tight and feels[r]
+so good~"[pcms]
 
 *6920|
 [fc]
@@ -273,13 +283,14 @@ Father thrusts into Ren's pussy all at once.[pcms]
 
 *6921|
 [fc]
-Ren is making an incredible sound like a scream. Does it feel that good? Or is[r]
-she just happy?[pcms]
+Ren is making an incredible sound like a scream. Does it[r]
+feel that good? Or is she just happy?[pcms]
 
 *6922|
 [fc]
-I look at Ren's pussy where Dad's thing is inside. Unlike when I did it with[r]
-Yuuho, there are drops of red blood dripping down.[pcms]
+I look at Ren's pussy where Dad's thing is inside. Unlike[r]
+when I did it with Yuuho, there are drops of red blood[r]
+dripping down.[pcms]
 
 *6923|
 [fc]
@@ -289,13 +300,15 @@ Yuuho, there are drops of red blood dripping down.[pcms]
 *6924|
 [fc]
 [ns]Father[nse]
-"Is that so~? I'm so happy~. Ren was a virgin after all. I believed in her~"[pcms]
+"Is that so~? I'm so happy~. Ren was a virgin after all. I[r]
+believed in her~"[pcms]
 
 *6925|
 [fc]
 [vo_ren s="ren_Z0017"]
 [ns]Ren[nse]
-"Higuuu... uuu... higuu... Don't look! Brother, don't look~~"[pcms]
+"Higuuu... uuu... higuu... Don't look! Brother, don't[r]
+look~~"[pcms]
 
 *6926|
 [fc]
@@ -305,8 +318,9 @@ Yuuho, there are drops of red blood dripping down.[pcms]
 *6927|
 [fc]
 [ns]Father[nse]
-"Ahh... You're at that age where you might have a boyfriend and have your first[r]
-experience without telling me~, I was worried about that~"[pcms]
+"Ahh... You're at that age where you might have a boyfriend[r]
+and have your first experience without telling me~, I was[r]
+worried about that~"[pcms]
 
 *6928|
 [fc]
@@ -316,43 +330,47 @@ Dad seems happy and continues thrusting his hips.[pcms]
 [fc]
 [vo_ren s="ren_Z0018"]
 [ns]Ren[nse]
-"Higuu... no, stop... stop it... uuu... it hurts... ahhh... It hurts, Dad...!"[pcms]
+"Higuu... no, stop... stop it... uuu... it hurts... ahhh...[r]
+It hurts, Dad...!"[pcms]
 
 *6930|
 [fc]
 [ns]Father[nse]
-"Is that so~? Your mother said the same thing during her first time~. She was[r]
-pure and innocent like Ren~ unaware of any filth~"[pcms]
+"Is that so~? Your mother said the same thing during her[r]
+first time~. She was pure and innocent like Ren~ unaware of[r]
+any filth~"[pcms]
 
 *6931|
 [fc]
 [ns]Father[nse]
-"It was her first time with me too... It hurt but she was so happy, she was[r]
-overjoyed~"[pcms]
+"It was her first time with me too... It hurt but she was so[r]
+happy, she was overjoyed~"[pcms]
 
 *6932|
 [fc]
 [ns]Father[nse]
-"Ahh... Ren's pussy feels just like your mother's... So incredibly tight...[r]
-ugh..."[pcms]
+"Ahh... Ren's pussy feels just like your mother's... So[r]
+incredibly tight... ugh..."[pcms]
 
 *6933|
 [fc]
 [vo_ren s="ren_Z0019"]
 [ns]Ren[nse]
-"Aguuu... uuu... uhh... Please... please stop... Dad, it hurts..."[pcms]
+"Aguuu... uuu... uhh... Please... please stop... Dad, it[r]
+hurts..."[pcms]
 
 *6934|
 [fc]
 [ns]Wataru[nse]
-"Why is that, Ren~? Dad is so pleased~ You must be happy too, right~?"[pcms]
+"Why is that, Ren~? Dad is so pleased~ You must be happy[r]
+too, right~?"[pcms]
 
 *6935|
 [fc]
 [vo_ren s="ren_Z0020"]
 [ns]Ren[nse]
-"Hikku... uuu... no... I don't want this... bikuuu... uuu, I don't like this...[r]
-Stop it..."[pcms]
+"Hikku... uuu... no... I don't want this... bikuuu... uuu, I[r]
+don't like this... Stop it..."[pcms]
 
 *6936|
 [fc]
@@ -363,17 +381,19 @@ Stop it..."[pcms]
 [fc]
 [vo_ren s="ren_Z0021"]
 [ns]Ren[nse]
-"Uuu... please, I'm begging you, stop it... Brother, don't look... Don't look~"[pcms]
+"Uuu... please, I'm begging you, stop it... Brother, don't[r]
+look... Don't look~"[pcms]
 
 *6938|
 [fc]
-Ren is crying and shaking her body as if saying no. Ren is acting strange~[pcms]
+Ren is crying and shaking her body as if saying no. Ren is[r]
+acting strange~[pcms]
 
 *6939|
 [fc]
 [ns]Wataru[nse]
-"What don't you like, Ren? You say you don't like Dad~, and you tell me not to[r]
-look~"[pcms]
+"What don't you like, Ren? You say you don't like Dad~, and[r]
+you tell me not to look~"[pcms]
 
 *6940|
 [fc]
@@ -384,8 +404,8 @@ look~"[pcms]
 *6941|
 [fc]
 [ns]Father[nse]
-"You don't like it with me? There's no one who loves Ren as much as I do~? Even[r]
-so~"[pcms]
+"You don't like it with me? There's no one who loves Ren as[r]
+much as I do~? Even so~"[pcms]
 
 *6942|
 [fc]
@@ -407,14 +427,14 @@ so~"[pcms]
 [fc]
 [vo_ren s="ren_Z0024"]
 [ns]Ren[nse]
-"Uuu... stop it! Brother... My first time was supposed to be with you!! That's[r]
-why! Don't look~ Don't tell!"[pcms]
+"Uuu... stop it! Brother... My first time was supposed to be[r]
+with you!! That's why! Don't look~ Don't tell!"[pcms]
 ;//＠　混乱して自棄につぶやく
 
 *6946|
 [fc]
-So Ren wanted to be with me~. Ren is crying and shouting, and for some reason,[r]
-tears are streaming down her face.[pcms]
+So Ren wanted to be with me~. Ren is crying and shouting,[r]
+and for some reason, tears are streaming down her face.[pcms]
 
 *6947|
 [fc]
@@ -430,8 +450,8 @@ tears are streaming down her face.[pcms]
 *6949|
 [fc]
 [ns]Father[nse]
-"So~ Ren wanted her first time to be with Wataru~. Maybe I did something a[r]
-little bad then~"[pcms]
+"So~ Ren wanted her first time to be with Wataru~. Maybe I[r]
+did something a little bad then~"[pcms]
 
 *6950|
 [fc]
@@ -441,14 +461,14 @@ little bad then~"[pcms]
 *6951|
 [fc]
 [ns]Father[nse]
-"Well~, there's still the mouth and the ass for the first time. Wataru can have[r]
-those~. That's fine, right Wataru~"[pcms]
+"Well~, there's still the mouth and the ass for the first[r]
+time. Wataru can have those~. That's fine, right Wataru~"[pcms]
 
 *6952|
 [fc]
 [ns]Wataru[nse]
-"That's right~. I like butts anyway~. Ah, but Ren's butt isn't as big as[r]
-Yuuho's~"[pcms]
+"That's right~. I like butts anyway~. Ah, but Ren's butt[r]
+isn't as big as Yuuho's~"[pcms]
 
 *6953|
 [fc]
@@ -458,8 +478,8 @@ Yuuho's~"[pcms]
 
 *6954|
 [fc]
-Yuuho is smiling happily while stroking her big, shapely, and firm butt from a[r]
-distance.[pcms]
+Yuuho is smiling happily while stroking her big, shapely,[r]
+and firm butt from a distance.[pcms]
 
 *6955|
 [fc]
@@ -481,8 +501,8 @@ distance.[pcms]
 *6958|
 [fc]
 [ns]Father[nse]
-"You have to say it or I won't understand~? Ren~, that's what I taught you,[r]
-right~"[pcms]
+"You have to say it or I won't understand~? Ren~, that's[r]
+what I taught you, right~"[pcms]
 
 *6959|
 [fc]
@@ -499,14 +519,16 @@ right~"[pcms]
 [fc]
 [vo_ren s="ren_Z0029"]
 [ns]Ren[nse]
-"...nooooo... Just the two of us~! I want to be alone with Brother..."[pcms]
+"...nooooo... Just the two of us~! I want to be alone with[r]
+Brother..."[pcms]
 ;//＠　少し意識朦朧としながら逆切れ
 
 *6962|
 [fc]
 [vo_ren s="ren_Z0030"]
 [ns]Ren[nse]
-"Brother would kiss me gently... Tell me he loves me... Just the two of us..."[pcms]
+"Brother would kiss me gently... Tell me he loves me... Just[r]
+the two of us..."[pcms]
 ;//＠　うわごとのように
 
 *6963|
@@ -523,20 +545,23 @@ right~"[pcms]
 *6965|
 [fc]
 [ns]Wataru[nse]
-"You don't have to be so shy, Ren. It's not just me~. Everyone loves Ren~"[pcms]
+"You don't have to be so shy, Ren. It's not just me~.[r]
+Everyone loves Ren~"[pcms]
 
 *6966|
 [fc]
 [vo_ren s="ren_Z0032"]
 [ns]Ren[nse]
-"If you love me then... don't do this kind of thing... Stop it... everyone,[r]
-please stop!! If you say you love me then stop it..."[pcms]
+"If you love me then... don't do this kind of thing... Stop[r]
+it... everyone, please stop!! If you say you love me then[r]
+stop it..."[pcms]
 
 *6967|
 [fc]
 [ns]Wataru[nse]
-"Why is that~? Because we love you~, because we care, we all want to witness[r]
-Ren's first time together, isn't that right~?"[pcms]
+"Why is that~? Because we love you~, because we care, we all[r]
+want to witness Ren's first time together, isn't that[r]
+right~?"[pcms]
 
 *6968|
 [fc]
@@ -546,14 +571,15 @@ Ren's first time together, isn't that right~?"[pcms]
 
 *6969|
 [fc]
-Ren is bashfully struggling weakly. But there's no way Dad would let go. Geez,[r]
-Ren just doesn't understand...[pcms]
+Ren is bashfully struggling weakly. But there's no way Dad[r]
+would let go. Geez, Ren just doesn't understand...[pcms]
 
 *6970|
 [fc]
 [ns]Father[nse]
-"We really need to show everyone properly. That Ren was a proud virgin. That she[r]
-dedicated her virginity to her beloved father~"[pcms]
+"We really need to show everyone properly. That Ren was a[r]
+proud virgin. That she dedicated her virginity to her[r]
+beloved father~"[pcms]
 
 *6971|
 [fc]
@@ -564,7 +590,8 @@ dedicated her virginity to her beloved father~"[pcms]
 *6972|
 [fc]
 [ns]Wataru[nse]
-"No way, Ren~. We have to show everyone properly and get their blessings~"[pcms]
+"No way, Ren~. We have to show everyone properly and get[r]
+their blessings~"[pcms]
 
 *6973|
 [fc]
@@ -579,7 +606,8 @@ Ren continues to cower and resist as usual.[pcms]
 *6975|
 [fc]
 [ns]Father[nse]
-"It can't be helped... Ren needs to be seen properly by everyone~"[pcms]
+"It can't be helped... Ren needs to be seen properly by[r]
+everyone~"[pcms]
 
 *6976|
 [fc]
@@ -591,8 +619,8 @@ Ren continues to cower and resist as usual.[pcms]
 [fc]
 [vo_yuh s="yuho_Z0003"]
 [ns]Yuuho[nse]
-"My first time was with someone I didn't even know at all~? I really wanted it[r]
-to be with Wataru~"[pcms]
+"My first time was with someone I didn't even know at all~?[r]
+I really wanted it to be with Wataru~"[pcms]
 
 *6978|
 [fc]
@@ -603,7 +631,8 @@ to be with Wataru~"[pcms]
 *6979|
 [fc]
 [ns]Wataru[nse]
-"That's right, Ren~. Yuuho is correct~. It's fine because it's with Dad~"[pcms]
+"That's right, Ren~. Yuuho is correct~. It's fine because[r]
+it's with Dad~"[pcms]
 
 *6980|
 [fc]
@@ -620,7 +649,8 @@ to be with Wataru~"[pcms]
 [fc]
 [vo_ren s="ren_Z0037"]
 [ns]Ren[nse]
-"No, that's... I... I wanted to be alone with Onii-chan, gently... uuu..."[pcms]
+"No, that's... I... I wanted to be alone with Onii-chan,[r]
+gently... uuu..."[pcms]
 
 *6983|
 [fc]
@@ -632,7 +662,8 @@ to be with Wataru~"[pcms]
 *6984|
 [fc]
 [ns]Wataru[nse]
-"Geez, Ren~. It's not often you get a blessing from the whole family~"[pcms]
+"Geez, Ren~. It's not often you get a blessing from the[r]
+whole family~"[pcms]
 
 *6985|
 [fc]
@@ -661,8 +692,8 @@ Father starts thrusting into Ren from below vigorously.[pcms]
 *6989|
 [fc]
 [ns]Father[nse]
-"If you can't be honest, I'll ask Ren's body~. How is it~? It feels so good you[r]
-can't hold back, right~?"[pcms]
+"If you can't be honest, I'll ask Ren's body~. How is it~?[r]
+It feels so good you can't hold back, right~?"[pcms]
 
 *6990|
 [fc]
@@ -673,7 +704,8 @@ can't hold back, right~?"[pcms]
 *6991|
 [fc]
 [ns]Father[nse]
-"Uuu, let out a better voice, Ren~. Mom really enjoyed it when I did this~"[pcms]
+"Uuu, let out a better voice, Ren~. Mom really enjoyed it[r]
+when I did this~"[pcms]
 
 *6992|
 [fc]
@@ -683,8 +715,9 @@ can't hold back, right~?"[pcms]
 
 *6993|
 [fc]
-So that's it... Ren keeps making sounds like she's about to cry, maybe she[r]
-doesn't seem to be enjoying it because her mother isn't here. Alright~.[pcms]
+So that's it... Ren keeps making sounds like she's about to[r]
+cry, maybe she doesn't seem to be enjoying it because her[r]
+mother isn't here. Alright~.[pcms]
 
 *6994|
 [fc]
@@ -702,7 +735,8 @@ I've come up with a good idea.[pcms]
 *6996|
 [fc]
 [ns]Father[nse]
-"Now~, how is it, Ren? I'm skilled, aren't I~? This is how I made Ren~?"[pcms]
+"Now~, how is it, Ren? I'm skilled, aren't I~? This is how I[r]
+made Ren~?"[pcms]
 
 *6997|
 [fc]
@@ -732,9 +766,9 @@ I've come up with a good idea.[pcms]
 
 *7001|
 [fc]
-I play the violin that was a keepsake of Ren's mother. It doesn't sound as good[r]
-as when Ren plays it, but she seems to be enjoying it. She's raising such a loud[r]
-voice...[pcms]
+I play the violin that was a keepsake of Ren's mother. It[r]
+doesn't sound as good as when Ren plays it, but she seems to[r]
+be enjoying it. She's raising such a loud voice...[pcms]
 
 *7002|
 [fc]
@@ -756,26 +790,28 @@ Ren seems happy as her body twitches and trembles.[pcms]
 *7005|
 [fc]
 [ns]Father[nse]
-"Ahhh... Ren's insides are trembling so much~. It's tight and trembling~, it[r]
-feels really good!!"[pcms]
+"Ahhh... Ren's insides are trembling so much~. It's tight[r]
+and trembling~, it feels really good!!"[pcms]
 
 *7006|
 [fc]
 [ns]Father[nse]
-"The lewd sounds are getting louder from where Ren and I are joined~. Ahh,[r]
-there's so much love juice coming out from there~"[pcms]
+"The lewd sounds are getting louder from where Ren and I are[r]
+joined~. Ahh, there's so much love juice coming out from[r]
+there~"[pcms]
 
 *7007|
 [fc]
 [vo_ren s="ren_Z0048"]
 [ns]Ren[nse]
-"...Uuu... Ah, ahiyii! Ahhh... Yaaa! Like this... Ahhh! ...Hyahhaaa!!"[pcms]
+"...Uuu... Ah, ahiyii! Ahhh... Yaaa! Like this... Ahhh![r]
+...Hyahhaaa!!"[pcms]
 
 *7008|
 [fc]
 [ns]Father[nse]
-"Red love juice is quite rare and exciting~! Keep it up, Ren. Even if your voice[r]
-isn't good, your body is honest~"[pcms]
+"Red love juice is quite rare and exciting~! Keep it up,[r]
+Ren. Even if your voice isn't good, your body is honest~"[pcms]
 
 *7009|
 [fc]
@@ -791,13 +827,14 @@ isn't good, your body is honest~"[pcms]
 *7011|
 [fc]
 [ns]Father[nse]
-"Ahh~, it's so tight... having a daughter is great~. Really great! Everyone[r]
-should have a daughter like this~. Auuu...!"[pcms]
+"Ahh~, it's so tight... having a daughter is great~. Really[r]
+great! Everyone should have a daughter like this~. Auuu...!"[pcms]
 
 *7012|
 [fc]
-Father seems to like Ren as he thrusts into her vigorously while she trembles[r]
-intensely. It seems Ren's insides are really good.[pcms]
+Father seems to like Ren as he thrusts into her vigorously[r]
+while she trembles intensely. It seems Ren's insides are[r]
+really good.[pcms]
 
 *7013|
 [fc]
@@ -809,14 +846,14 @@ intensely. It seems Ren's insides are really good.[pcms]
 *7014|
 [fc]
 [ns]Father[nse]
-"Ahhh! So it's incest~! It's immoral and really good~!! My thing is getting even[r]
-harder~"[pcms]
+"Ahhh! So it's incest~! It's immoral and really good~!! My[r]
+thing is getting even harder~"[pcms]
 
 *7015|
 [fc]
 [ns]Father[nse]
-"Thank you for staying a virgin~. With such a tight pussy~. Ahhh~ Ren is such a[r]
-filial daughter~"[pcms]
+"Thank you for staying a virgin~. With such a tight pussy~.[r]
+Ahhh~ Ren is such a filial daughter~"[pcms]
 
 *7016|
 [fc]
@@ -826,12 +863,14 @@ filial daughter~"[pcms]
 
 *7017|
 [fc]
-Ren lets out a moan-like sound of pleasure. She says "yes," but maybe her voice[r]
-isn't coming out because she's enjoying it too much?[pcms]
+Ren lets out a moan-like sound of pleasure. She says "yes,"[r]
+but maybe her voice isn't coming out because she's enjoying[r]
+it too much?[pcms]
 
 *7018|
 [fc]
-Father shakes Ren vigorously on his hips while stroking her small, white butt.[pcms]
+Father shakes Ren vigorously on his hips while stroking her[r]
+small, white butt.[pcms]
 
 *7019|
 [fc]
@@ -843,8 +882,8 @@ Father shakes Ren vigorously on his hips while stroking her small, white butt.[p
 *7020|
 [fc]
 [ns]Father[nse]
-"Ren's butt is so small~. You need to eat more nutrients to get a good ass~.[r]
-That's right~, let me taste it a bit..."[pcms]
+"Ren's butt is so small~. You need to eat more nutrients to[r]
+get a good ass~. That's right~, let me taste it a bit..."[pcms]
 
 *7021|
 [fc]
@@ -854,19 +893,20 @@ That's right~, let me taste it a bit..."[pcms]
 
 *7022|
 [fc]
-Father massages the small butt while sliding his hand into the white crevice,[r]
-causing Ren to moan in a strange voice.[pcms]
+Father massages the small butt while sliding his hand into[r]
+the white crevice, causing Ren to moan in a strange voice.[pcms]
 
 *7023|
 [fc]
 [ns]Father[nse]
-"It seems Ren's ass is sensitive~. That's good for you, Wataru~"[pcms]
+"It seems Ren's ass is sensitive~. That's good for you,[r]
+Wataru~"[pcms]
 
 *7024|
 [fc]
 [ns]Wataru[nse]
-"But Ren is too surprised~. Yuuho would show me her butt hole and invite me[r]
-saying, 'Want to try putting it in?' ~"[pcms]
+"But Ren is too surprised~. Yuuho would show me her butt[r]
+hole and invite me saying, 'Want to try putting it in?' ~"[pcms]
 
 ;//SE・挿入音　激しく
 
@@ -888,33 +928,36 @@ Father starts thrusting into Ren even more vigorously.[pcms]
 
 *7028|
 [fc]
-Being vigorously handled by Father, Ren continues to let out scream-like[r]
-voices..., ah, this must be the so-called "screams of pleasure."[pcms]
+Being vigorously handled by Father, Ren continues to let out[r]
+scream-like voices..., ah, this must be the so-called[r]
+"screams of pleasure."[pcms]
 
 *7029|
 [fc]
 [vo_ren s="ren_Z0056"]
 [ns]Ren[nse]
-"Father... stop... ah... Onii-chan... ahyaa! ...ahyaaa!! Ahyiii! Hii!"[pcms]
+"Father... stop... ah... Onii-chan... ahyaa! ...ahyaaa!![r]
+Ahyiii! Hii!"[pcms]
 ;//＠　感じながらも　うつろな悲鳴
 
 *7030|
 [fc]
 [ns]Father[nse]
-"What a nice voice~. And such a tight squeeze~. That's great! Ren's pussy is so[r]
-good~!!"[pcms]
+"What a nice voice~. And such a tight squeeze~. That's[r]
+great! Ren's pussy is so good~!!"[pcms]
 
 *7031|
 [fc]
 [vo_ren s="ren_Z0057"]
 [ns]Ren[nse]
-"Ahyii... it's too much~. Ahyaa! Hyaa... ahyaa... auuu... Ahi! Hya... hyadaaa!!"[pcms]
+"Ahyii... it's too much~. Ahyaa! Hyaa... ahyaa... auuu...[r]
+Ahi! Hya... hyadaaa!!"[pcms]
 
 *7032|
 [fc]
 [ns]Father[nse]
-"Ah, this embrace~. This feeling when I'm about to come~. It's exactly like with[r]
-your mother~!!"[pcms]
+"Ah, this embrace~. This feeling when I'm about to come~.[r]
+It's exactly like with your mother~!!"[pcms]
 
 *7033|
 [fc]
@@ -925,36 +968,37 @@ your mother~!!"[pcms]
 [fc]
 [vo_ren s="ren_Z0058"]
 [ns]Ren[nse]
-"Hiuuu... auuu... Onii-chan~... Onii-chan! Yahyaa... yahyaaa!!"[pcms]
+"Hiuuu... auuu... Onii-chan~... Onii-chan! Yahyaa...[r]
+yahyaaa!!"[pcms]
 
 *7035|
 [fc]
 [vo_ren s="ren_Z0059"]
 [ns]Ren[nse]
-"Ahyiii... auuu... uuuu... Onii-chan... I loved you so much... but this is[r]
-cruel... ahh... ah..."[pcms]
+"Ahyiii... auuu... uuuu... Onii-chan... I loved you so[r]
+much... but this is cruel... ahh... ah..."[pcms]
 
 *7036|
 [fc]
 [ns]Wataru[nse]
-"Ah, I love you too~! Next time, I'll pamper Ren together with Father~. Because[r]
-Ren is such a cute little sister~"[pcms]
+"Ah, I love you too~! Next time, I'll pamper Ren together[r]
+with Father~. Because Ren is such a cute little sister~"[pcms]
 
 *7037|
 [fc]
-Father seems about to come soon~. Next, I'll fill Ren up thoroughly too~. I have[r]
-to please her like Yuuho~.[pcms]
+Father seems about to come soon~. Next, I'll fill Ren up[r]
+thoroughly too~. I have to please her like Yuuho~.[pcms]
 
 *7038|
 [fc]
-Virgin mouth or butt? Or maybe I'll go for the pussy since Father seems to like[r]
-it~. Yeah, let's go for the pussy.[pcms]
+Virgin mouth or butt? Or maybe I'll go for the pussy since[r]
+Father seems to like it~. Yeah, let's go for the pussy.[pcms]
 
 *7039|
 [fc]
 [ns]Father[nse]
-"Uuh... I'm coming, Ren~. I'll release plenty and show everyone that Ren's pussy[r]
-is mine~"[pcms]
+"Uuh... I'm coming, Ren~. I'll release plenty and show[r]
+everyone that Ren's pussy is mine~"[pcms]
 
 *7040|
 [fc]
@@ -970,8 +1014,8 @@ is mine~"[pcms]
 *7042|
 [fc]
 [ns]Father[nse]
-"Aahh... Wataru~. Somehow, my body feels in great condition~ and power is[r]
-surging through me~"[pcms]
+"Aahh... Wataru~. Somehow, my body feels in great condition~[r]
+and power is surging through me~"[pcms]
 
 *7043|
 [fc]
@@ -997,13 +1041,14 @@ Ren suddenly starts screaming and making a fuss.[pcms]
 [fc]
 [vo_ren s="ren_Z0062"]
 [ns]Ren[nse]
-"Noo!! ...This shouldn't be happening... This shouldn't be happening~!!"[pcms]
+"Noo!! ...This shouldn't be happening... This shouldn't be[r]
+happening~!!"[pcms]
 
 *7048|
 [fc]
 [ns]Father[nse]
-"What's wrong, Ren~? When I was younger, I did the same to your mother with such[r]
-vigor~. She enjoyed it~"[pcms]
+"What's wrong, Ren~? When I was younger, I did the same to[r]
+your mother with such vigor~. She enjoyed it~"[pcms]
 
 *7049|
 [fc]
@@ -1014,16 +1059,16 @@ vigor~. She enjoyed it~"[pcms]
 *7050|
 [fc]
 [ns]Father[nse]
-"Ren~ That's no good~. This is your moment to shine~. You have to let your[r]
-beloved Wataru see properly~"[pcms]
+"Ren~ That's no good~. This is your moment to shine~. You[r]
+have to let your beloved Wataru see properly~"[pcms]
 
 ;//SE・適当に引くバイオリン
 
 *7051|
 [fc]
 [ns]Wataru[nse]
-"Look, Ren~! Your mother is watching from here too~. The whole family is[r]
-gathered!!"[pcms]
+"Look, Ren~! Your mother is watching from here too~. The[r]
+whole family is gathered!!"[pcms]
 
 *7052|
 [fc]
@@ -1035,17 +1080,19 @@ I play the violin for Ren.[pcms]
 [fc]
 [vo_ren s="ren_Z0064"]
 [ns]Ren[nse]
-"Ihyaaa! Don't look! Onii-chan! Father! Mother!! Ihyaa! Ihyaa... ahh..."[pcms]
+"Ihyaaa! Don't look! Onii-chan! Father! Mother!! Ihyaa![r]
+Ihyaa... ahh..."[pcms]
 
 *7054|
 [fc]
 [ns]Father[nse]
-"Uuh... Ren~. If you thrash about too much in happiness, the tightness will be~~[r]
-uuu..."[pcms]
+"Uuh... Ren~. If you thrash about too much in happiness, the[r]
+tightness will be~~ uuu..."[pcms]
 
 *7055|
 [fc]
-Father seems to be feeling really good indeed. Ren's pussy must be really nice~.[pcms]
+Father seems to be feeling really good indeed. Ren's pussy[r]
+must be really nice~.[pcms]
 
 *7056|
 [fc]
@@ -1076,8 +1123,8 @@ Father seems to have poured his semen deep inside Ren.[pcms]
 
 *7060|
 [fc]
-Ren seems happy to be filled up by Father, crying tears of joy without[r]
-answering.[pcms]
+Ren seems happy to be filled up by Father, crying tears of[r]
+joy without answering.[pcms]
 
 *7061|
 [fc]
@@ -1085,13 +1132,15 @@ Ren really is shy no matter how much time passes.[pcms]
 
 *7062|
 [fc]
-From the connection between Father and Ren, white semen is dripping down...[r]
-mixing with Ren's light red and spreading out pinkish.[pcms]
+From the connection between Father and Ren, white semen is[r]
+dripping down... mixing with Ren's light red and spreading[r]
+out pinkish.[pcms]
 
 *7063|
 [fc]
 [ns]Father[nse]
-"Ooh... Because Ren feels so good~~. So much is coming out~~"[pcms]
+"Ooh... Because Ren feels so good~~. So much is coming[r]
+out~~"[pcms]
 
 *7064|
 [fc]
@@ -1106,7 +1155,8 @@ mixing with Ren's light red and spreading out pinkish.[pcms]
 *7065|
 [fc]
 [ns]Wataru[nse]
-"Father, it looks like you came a lot inside her~. Now it's my turn, right?~"[pcms]
+"Father, it looks like you came a lot inside her~. Now it's[r]
+my turn, right?~"[pcms]
 
 *7066|
 [fc]

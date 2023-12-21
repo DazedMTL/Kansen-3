@@ -16,7 +16,8 @@
 
 *65|
 [fc]
-Eeei! The music room is just above here. Let's cut straight through.[pcms]
+Eeei! The music room is just above here. Let's cut straight[r]
+through.[pcms]
 
 ;//〆BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -48,7 +49,8 @@ The landing at the top was a veritable hellish scene.[pcms]
 [fc]
 [vo_mob s="jogaku2_0001"]
 [ns]Infected Female Student F[nse]
-"Nfuuu, it's grinding inside my belly. Stirred by a cock...ah, ah, ahhhaannn!"[pcms]
+"Nfuuu, it's grinding inside my belly. Stirred by a[r]
+cock...ah, ah, ahhhaannn!"[pcms]
 
 *71|
 [fc]
@@ -59,7 +61,8 @@ The landing at the top was a veritable hellish scene.[pcms]
 [fc]
 [vo_mob s="joshigaku10002"]
 [ns]Infected Female Student E[nse]
-"Kuuuu, I can't stand it. I can't stand it, the cock is amazing!"[pcms]
+"Kuuuu, I can't stand it. I can't stand it, the cock is[r]
+amazing!"[pcms]
 
 *73|
 [fc]
@@ -70,12 +73,13 @@ The landing at the top was a veritable hellish scene.[pcms]
 [fc]
 [vo_mob s="jogaku2_0002"]
 [ns]Infected Female Student F[nse]
-"More...do it more fiercely. Nfuuu, my butt, a cock is entering my ass too."[pcms]
+"More...do it more fiercely. Nfuuu, my butt, a cock is[r]
+entering my ass too."[pcms]
 
 *75|
 [fc]
-Multiple men were swarming over each girl, gangbanging them, while many girls[r]
-were being violated by the men.[pcms]
+Multiple men were swarming over each girl, gangbanging them,[r]
+while many girls were being violated by the men.[pcms]
 
 *76|
 [fc]
@@ -83,8 +87,9 @@ The intense play made me feel nauseous before anything else.[pcms]
 
 *77|
 [fc]
-The voices of the girls I had heard on my way up, which had been voices of[r]
-rejection, had now turned into moans of pleasure.[pcms]
+The voices of the girls I had heard on my way up, which had[r]
+been voices of rejection, had now turned into moans of[r]
+pleasure.[pcms]
 
 *78|
 [fc]
@@ -92,7 +97,8 @@ Had they become "one of them"?[pcms]
 
 *79|
 [fc]
-Their eyes, like those of the men violating them, were beginning to turn red.[pcms]
+Their eyes, like those of the men violating them, were[r]
+beginning to turn red.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="waka_b"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -104,8 +110,9 @@ Their eyes, like those of the men violating them, were beginning to turn red.[pc
 
 *81|
 [fc]
-Startled by a familiar voice, I turned to see the choir girl who was rumored to[r]
-be talking about Mizuki... Was her name Waka-chan?[pcms]
+Startled by a familiar voice, I turned to see the choir girl[r]
+who was rumored to be talking about Mizuki... Was her name[r]
+Waka-chan?[pcms]
 
 *82|
 [fc]
@@ -122,12 +129,13 @@ She was straddling a man, vigorously shaking her hips.[pcms]
 [fc]
 [vo_mob s="waka0019"]
 [ns]Waka[nse]
-"Ahhaaann, put your cock in. In Waka's ass, thrust your cock in and out."[pcms]
+"Ahhaaann, put your cock in. In Waka's ass, thrust your cock[r]
+in and out."[pcms]
 
 *85|
 [fc]
-With her eyes completely red, Waka-chan lifted her skirt and showed me the place[r]
-where she was joined with the man.[pcms]
+With her eyes completely red, Waka-chan lifted her skirt and[r]
+showed me the place where she was joined with the man.[pcms]
 
 *86|
 [fc]
@@ -139,22 +147,24 @@ Why?[pcms]
 
 *87|
 [fc]
-Waka-chan too... No, even Yoshino-san should have received the vaccination. Why[r]
-has it come to this?[pcms]
+Waka-chan too... No, even Yoshino-san should have received[r]
+the vaccination. Why has it come to this?[pcms]
 
 *88|
 [fc]
-Questions swirled in my head, but they didn't seem to care about me because they[r]
-had partners to satisfy their desires right there.[pcms]
+Questions swirled in my head, but they didn't seem to care[r]
+about me because they had partners to satisfy their desires[r]
+right there.[pcms]
 
 *89|
 [fc]
-Maybe I could use this chance to slip by them and get to the music room.[pcms]
+Maybe I could use this chance to slip by them and get to the[r]
+music room.[pcms]
 
 *90|
 [fc]
-But there were too many people; even if I could slip past one group, I'd[r]
-immediately run into another.[pcms]
+But there were too many people; even if I could slip past[r]
+one group, I'd immediately run into another.[pcms]
 
 *91|
 [fc]
@@ -162,13 +172,14 @@ No, let's be honest.[pcms]
 
 *92|
 [fc]
-I feel bad for the choir girls, but even if I wanted to leave them behind and go[r]
-ahead, the sight of the gangbang was so abnormal that my legs wouldn't move.[pcms]
+I feel bad for the choir girls, but even if I wanted to[r]
+leave them behind and go ahead, the sight of the gangbang[r]
+was so abnormal that my legs wouldn't move.[pcms]
 
 *93|
 [fc]
-However, as my brain began to numb, that face came to mind-- I was worried about[r]
-Ren's condition.[pcms]
+However, as my brain began to numb, that face came to mind--[r]
+I was worried about Ren's condition.[pcms]
 
 *94|
 [fc]
@@ -180,8 +191,9 @@ Is Ren safe?[pcms]
 
 *96|
 [fc]
-Even if she is safe... if I head to the music room now, can I really meet Ren[r]
-again without letting a single intruder through?[pcms]
+Even if she is safe... if I head to the music room now, can[r]
+I really meet Ren again without letting a single intruder[r]
+through?[pcms]
 
 *97|
 [fc]
@@ -194,8 +206,9 @@ I'm not confident.[pcms]
 
 *99|
 [fc]
-I quickly apologized and ran back down the stairs. At this point, I had no[r]
-choice but to take a detour to the music room.[pcms]
+I quickly apologized and ran back down the stairs. At this[r]
+point, I had no choice but to take a detour to the music[r]
+room.[pcms]
 
 ;//♯_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -206,7 +219,8 @@ choice but to take a detour to the music room.[pcms]
 
 *100|
 [fc]
-I turned back towards the second floor and started towards the back staircase.[pcms]
+I turned back towards the second floor and started towards[r]
+the back staircase.[pcms]
 
 *101|
 [fc]
@@ -225,7 +239,8 @@ Is that person infected?[pcms]
 
 *104|
 [fc]
-In a panic, I turned on my heel and ran back down the stairs.[pcms]
+In a panic, I turned on my heel and ran back down the[r]
+stairs.[pcms]
 
 ;//BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -233,12 +248,13 @@ In a panic, I turned on my heel and ran back down the stairs.[pcms]
 
 *105|
 [fc]
-In the end, I ended up back where I started on the first floor.[pcms]
+In the end, I ended up back where I started on the first[r]
+floor.[pcms]
 
 *106|
 [fc]
-I peeked down the hallway cautiously; maybe because I had left the emergency[r]
-exit open?[pcms]
+I peeked down the hallway cautiously; maybe because I had[r]
+left the emergency exit open?[pcms]
 
 *107|
 [fc]
@@ -246,8 +262,8 @@ Or is there another entrance?[pcms]
 
 *108|
 [fc]
-Unlike before, I could see several people wandering around. Probably those who[r]
-came in from outside.[pcms]
+Unlike before, I could see several people wandering around.[r]
+Probably those who came in from outside.[pcms]
 
 *109|
 [fc]
@@ -255,7 +271,8 @@ Should I cut straight through?[pcms]
 
 *110|
 [fc]
-Or should I go outside once and then circle around to the other side?[pcms]
+Or should I go outside once and then circle around to the[r]
+other side?[pcms]
 
 *111|
 [fc]
@@ -274,8 +291,8 @@ What should I do?[pcms]
 ;	[link storage="30020.ks" target=*30020_TOP]もう他に道はない！　廊下を突っ切る！[endlink]
 ;	[link storage="B_B4.ks" target=*B_B4_TOP]外から回り込もう！[endlink]
 ;	;[link storage="B_D6.ks" target=*B_D6_TOP]時間切れ[endlink]
-;       (link storage="B_D6.ks" target=*B_D6_TOP)Which will you[r]
-choose...(endlink)[pcms]
+;       (link storage="B_D6.ks" target=*B_D6_TOP)Which will[r]
+you choose...(endlink)[pcms]
 
 *SEL19|もう他に道はない！　廊下を突っ切る！／外から回り込もう！／どちらを選ぶか
 [fc]

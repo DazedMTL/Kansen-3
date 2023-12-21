@@ -24,8 +24,9 @@
 
 *829|
 [fc]
-Hesitantly, he touched the gun hanging at his waist. The hard texture of the Bob[r]
-Chow Special made his heart feel cold and tight.[pcms]
+Hesitantly, he touched the gun hanging at his waist. The[r]
+hard texture of the Bob Chow Special made his heart feel[r]
+cold and tight.[pcms]
 
 *830|
 [fc]
@@ -33,9 +34,9 @@ If infected and symptoms develop, there's... no cure.[pcms]
 
 *831|
 [fc]
-The new variant virus is resistant to conventional vaccines, and although a[r]
-treatment might be found in the future, by then, Yuuho will probably have turned[r]
-into "one of them."[pcms]
+The new variant virus is resistant to conventional vaccines,[r]
+and although a treatment might be found in the future, by[r]
+then, Yuuho will probably have turned into "one of them."[pcms]
 
 [bg storage="effect_black"]
 [ChrSetEx layer=5 chbase="mama_b"][ChrSetXY layer=5 x=196 y=0]
@@ -48,13 +49,13 @@ The face of DJ Bar's mama flashed in his mind.[pcms]
 
 *833|
 [fc]
-She wouldn't have wanted to expose herself in such a state. She never wanted to[r]
-devour the master she loved.[pcms]
+She wouldn't have wanted to expose herself in such a state.[r]
+She never wanted to devour the master she loved.[pcms]
 
 *834|
 [fc]
-Mama, who had become a despicable creature... It was indeed a gun that saved[r]
-her...[pcms]
+Mama, who had become a despicable creature... It was indeed[r]
+a gun that saved her...[pcms]
 
 
 [ChrSetEx layer=5 chbase="tadahiko_c4_1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=300]
@@ -78,8 +79,8 @@ I swore to protect everyone...[pcms]
 
 *838|
 [fc]
-If there really is nothing else I can do, then to protect Yuuho... this is the[r]
-only way...![pcms]
+If there really is nothing else I can do, then to protect[r]
+Yuuho... this is the only way...![pcms]
 
 *839|
 [fc]
@@ -88,8 +89,8 @@ only way...![pcms]
 
 *840|
 [fc]
-He took the gun in hand, removed the safety as his senior had taught him, and[r]
-pulled back the slide.[pcms]
+He took the gun in hand, removed the safety as his senior[r]
+had taught him, and pulled back the slide.[pcms]
 
 *841|
 [fc]
@@ -100,9 +101,10 @@ Another of Tadahiko's words floated up in his mind.[pcms]
 *842|
 [fc]
 [ns]Tadahiko[nse]
-"When you put your finger on the trigger, make sure you understand what it means[r]
-to fire that bullet. Think about it, think it through, and once your finger is[r]
-on the trigger... don't hesitate."[pcms]
+"When you put your finger on the trigger, make sure you[r]
+understand what it means to fire that bullet. Think about[r]
+it, think it through, and once your finger is on the[r]
+trigger... don't hesitate."[pcms]
 
 [chara_int][trans_c cross time=300]
 
@@ -113,8 +115,8 @@ Yes, I must not hesitate...[pcms]
 
 *844|
 [fc]
-I can't bear to see the kind Yuuho turn into such a monster. She would surely[r]
-suffer too...[pcms]
+I can't bear to see the kind Yuuho turn into such a monster.[r]
+She would surely suffer too...[pcms]
 
 *845|
 [fc]
@@ -151,7 +153,8 @@ Sensing my presence, Yuuho lifted her face.[pcms]
 
 *851|
 [fc]
-Red eyes... She looked at me vacantly with eyes as red as blood.[pcms]
+Red eyes... She looked at me vacantly with eyes as red as[r]
+blood.[pcms]
 
 *852|
 [fc]
@@ -168,7 +171,8 @@ Yuuho was undoubtedly infected.[pcms]
 
 *855|
 [fc]
-I have to... shoot... I can't just watch silently as Yuuho turns into a monster![pcms]
+I have to... shoot... I can't just watch silently as Yuuho[r]
+turns into a monster![pcms]
 
 *856|
 [fc]
@@ -199,16 +203,19 @@ Seeing the gun, Yuuho staggered to her feet.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0037"]
 [ns]Yuuho[nse]
-"Wata...ru... Wataru...? Are you serious...? Are you going to... kill me...?"[pcms]
+"Wata...ru... Wataru...? Are you serious...? Are you going[r]
+to... kill me...?"[pcms]
 
 *861|
 [fc]
-With a resentful anger, Yuuho called my name and approached me.[pcms]
+With a resentful anger, Yuuho called my name and approached[r]
+me.[pcms]
 
 *862|
 [fc]
-I have to shoot before she gets too close. Even though I think so, my arms and[r]
-legs are shaking so much that I can't aim properly...[pcms]
+I have to shoot before she gets too close. Even though I[r]
+think so, my arms and legs are shaking so much that I can't[r]
+aim properly...[pcms]
 
 *863|
 [fc]
@@ -217,13 +224,15 @@ legs are shaking so much that I can't aim properly...[pcms]
 
 *864|
 [fc]
-I gritted my teeth and put strength into my arms. Contrary to what my senior[r]
-taught me, I couldn't possibly shoot in a relaxed posture...[pcms]
+I gritted my teeth and put strength into my arms. Contrary[r]
+to what my senior taught me, I couldn't possibly shoot in a[r]
+relaxed posture...[pcms]
 
 *865|
 [fc]
-All I need to do is pull the trigger. Just move this finger a few millimeters...[r]
-But my fingertips feel frozen and won't budge an inch.[pcms]
+All I need to do is pull the trigger. Just move this finger[r]
+a few millimeters... But my fingertips feel frozen and won't[r]
+budge an inch.[pcms]
 
 ;//çïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -242,8 +251,8 @@ The meaning of Tadahiko's words finally sank in deeply.[pcms]
 
 *869|
 [fc]
-This time for sure... this time for sure! I'll shoot!!!! And I'll set Yuuho[r]
-free!!![pcms]
+This time for sure... this time for sure! I'll shoot!!!! And[r]
+I'll set Yuuho free!!![pcms]
 
 *870|
 [fc]
@@ -254,7 +263,8 @@ I made up my mind and opened my eyes wide...[pcms]
 
 *871|
 [fc]
-Yuuho was right in front of me. Yuuho with her crazily red eyes.[pcms]
+Yuuho was right in front of me. Yuuho with her crazily red[r]
+eyes.[pcms]
 
 *872|
 [fc]
@@ -263,8 +273,8 @@ Yuuho was right in front of me. Yuuho with her crazily red eyes.[pcms]
 
 *873|
 [fc]
-The red eyes were closing in. If I don't shoot, I'll be attacked! I'll get[r]
-infected too...![pcms]
+The red eyes were closing in. If I don't shoot, I'll be[r]
+attacked! I'll get infected too...![pcms]
 
 *874|
 [fc]
@@ -281,8 +291,8 @@ After all, there's no way I can do it.[pcms]
 
 *877|
 [fc]
-To erase the Yuuho I love from this world, to take her life with these hands, I[r]
-can't do it...!![pcms]
+To erase the Yuuho I love from this world, to take her life[r]
+with these hands, I can't do it...!![pcms]
 
 *878|
 [fc]
@@ -295,13 +305,14 @@ Because... because I love Yuuho... I love her...[pcms]
 
 *880|
 [fc]
-Now that I know I can't shoot, the trembling in my arms has stopped. I begin to[r]
-slowly lower the gun.[pcms]
+Now that I know I can't shoot, the trembling in my arms has[r]
+stopped. I begin to slowly lower the gun.[pcms]
 
 *881|
 [fc]
-If it means killing Yuuho with my own hands, I'd rather be attacked and become[r]
-infected myself... That's what I started to think.[pcms]
+If it means killing Yuuho with my own hands, I'd rather be[r]
+attacked and become infected myself... That's what I started[r]
+to think.[pcms]
 
 ;//ev013f
 [evcg storage="EV013f"][trans_c cross time=300]
@@ -323,12 +334,14 @@ Yuuho's arm reached out smoothly and touched my arm.[pcms]
 
 *885|
 [fc]
-But it wasn't with the intention to attack, just a gentle... really light touch.[pcms]
+But it wasn't with the intention to attack, just a gentle...[r]
+really light touch.[pcms]
 
 *886|
 [fc]
-Her eyes were completely red, but upon closer inspection, they were focused[r]
-firmly on me, and her face had her usual smile.[pcms]
+Her eyes were completely red, but upon closer inspection,[r]
+they were focused firmly on me, and her face had her usual[r]
+smile.[pcms]
 
 ;//ev013g
 [evcg storage="EV013g"][trans_c cross time=300]
@@ -346,8 +359,8 @@ firmly on me, and her face had her usual smile.[pcms]
 
 *889|
 [fc]
-Yuuho nodded slightly and took my arm, guiding the muzzle of the gun to her[r]
-head.[pcms]
+Yuuho nodded slightly and took my arm, guiding the muzzle of[r]
+the gun to her head.[pcms]
 
 ;//ev013h
 [evcg storage="EV013h"][trans_c cross time=300]
@@ -355,12 +368,14 @@ head.[pcms]
 *890|
 [fc]
 [ns]Wataru[nse]
-"Wha...!? What are you doing, Yuuho!? Ah, that's dangerous!!"[pcms]
+"Wha...!? What are you doing, Yuuho!? Ah, that's[r]
+dangerous!!"[pcms]
 
 *891|
 [fc]
-I try to pull my arm away in a panic, but Yuuho's strength is tremendous, and it[r]
-doesn't budge as if it's been clamped in a vise.[pcms]
+I try to pull my arm away in a panic, but Yuuho's strength[r]
+is tremendous, and it doesn't budge as if it's been clamped[r]
+in a vise.[pcms]
 
 ;//ev013i
 [evcg storage="EV013i"][trans_c cross time=300]
@@ -374,7 +389,8 @@ doesn't budge as if it's been clamped in a vise.[pcms]
 
 *893|
 [fc]
-Yuuho puts strength into the fingertips that are placed on my hand.[pcms]
+Yuuho puts strength into the fingertips that are placed on[r]
+my hand.[pcms]
 
 *894|
 [fc]
@@ -383,7 +399,8 @@ Yuuho puts strength into the fingertips that are placed on my hand.[pcms]
 
 *895|
 [fc]
-My finger is pressed by Yuuho's finger, and I end up pulling the trigger...[pcms]
+My finger is pressed by Yuuho's finger, and I end up pulling[r]
+the trigger...[pcms]
 
 *896|
 [fc]

@@ -21,33 +21,35 @@
 
 *3531|
 [fc]
-The front was sunny again today. Even though it's still morning, the sunlight is[r]
-already strong.[pcms]
+The front was sunny again today. Even though it's still[r]
+morning, the sunlight is already strong.[pcms]
 
 *3532|
 [fc]
-But the wind passing between the buildings feels cooler than usual... Maybe it's[r]
-because there are fewer buildings running coolers.[pcms]
+But the wind passing between the buildings feels cooler than[r]
+usual... Maybe it's because there are fewer buildings[r]
+running coolers.[pcms]
 
 *3533|
 [fc]
-The stench of death still lingers, but judging by the number of corpses, it[r]
-doesn't seem too severe.[pcms]
+The stench of death still lingers, but judging by the number[r]
+of corpses, it doesn't seem too severe.[pcms]
 
 *3534|
 [fc]
-Most of the remains have been eaten by infected humans or animals, leaving only[r]
-bones, which might be why...[pcms]
+Most of the remains have been eaten by infected humans or[r]
+animals, leaving only bones, which might be why...[pcms]
 
 *3535|
 [fc]
-The voices of the infected are hardly heard. Maybe they've moved to the suburbs[r]
-as the news said.[pcms]
+The voices of the infected are hardly heard. Maybe they've[r]
+moved to the suburbs as the news said.[pcms]
 
 *3536|
 [fc]
-In a city where the presence of living creatures has decreased even more than[r]
-yesterday, only the lively music of the public broadcast flows...[pcms]
+In a city where the presence of living creatures has[r]
+decreased even more than yesterday, only the lively music of[r]
+the public broadcast flows...[pcms]
 
 ;//;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -83,7 +85,8 @@ yesterday, only the lively music of the public broadcast flows...[pcms]
 
 *3537|
 [fc]
-We went out into the valleys between buildings for a supply operation.[pcms]
+We went out into the valleys between buildings for a supply[r]
+operation.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -91,8 +94,8 @@ We went out into the valleys between buildings for a supply operation.[pcms]
 [fc]
 [vo_mar s="maru1684"]
 [ns]Margarita[nse]
-"...Make sure to pay close attention to your surroundings, and retreat quickly[r]
-if the situation changes."[pcms]
+"...Make sure to pay close attention to your surroundings,[r]
+and retreat quickly if the situation changes."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -100,11 +103,13 @@ if the situation changes."[pcms]
 [fc]
 [vo_mar s="maru1685"]
 [ns]Margarita[nse]
-"Let's begin. Everyone, please check your assigned buildings."[pcms]
+"Let's begin. Everyone, please check your assigned[r]
+buildings."[pcms]
 
 *3540|
 [fc]
-As usual, Maruko-senpai gave us instructions, and then we started our action.[pcms]
+As usual, Maruko-senpai gave us instructions, and then we[r]
+started our action.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -127,8 +132,8 @@ As usual, Maruko-senpai gave us instructions, and then we started our action.[pc
 [fc]
 [vo_miz s="mizuki0329"]
 [ns]Mizuki[nse]
-"We should gather things like canned goods and preserved food that seem to last[r]
-longer, right?"[pcms]
+"We should gather things like canned goods and preserved[r]
+food that seem to last longer, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -150,13 +155,14 @@ longer, right?"[pcms]
 
 *3546|
 [fc]
-We move around the buildings through the valleys, carrying out food, medicine,[r]
-clothing, and such.[pcms]
+We move around the buildings through the valleys, carrying[r]
+out food, medicine, clothing, and such.[pcms]
 
 *3547|
 [fc]
-The most important thing is securing food and drinks, so we peek inside[r]
-restaurants mainly, selecting things that seem preservable.[pcms]
+The most important thing is securing food and drinks, so we[r]
+peek inside restaurants mainly, selecting things that seem[r]
+preservable.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -164,8 +170,8 @@ restaurants mainly, selecting things that seem preservable.[pcms]
 [fc]
 [vo_yuh s="yuho1641"]
 [ns]Yuuho[nse]
-"Hmm. What's inside this jar? I can't understand the label at all, is it[r]
-Russian?"[pcms]
+"Hmm. What's inside this jar? I can't understand the label[r]
+at all, is it Russian?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -173,7 +179,8 @@ Russian?"[pcms]
 [fc]
 [vo_mar s="maru1686"]
 [ns]Margarita[nse]
-"...It would be wise to avoid seafood. We must not risk poisoning..."[pcms]
+"...It would be wise to avoid seafood. We must not risk[r]
+poisoning..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -181,13 +188,14 @@ Russian?"[pcms]
 [fc]
 [vo_yuh s="yuho1642"]
 [ns]Yuuho[nse]
-"I'll also take candies and chocolates. They say it's good to eat them in case[r]
-of an emergency, right?"[pcms]
+"I'll also take candies and chocolates. They say it's good[r]
+to eat them in case of an emergency, right?"[pcms]
 
 *3551|
 [fc]
-We found rice and large commercial retort foods, but ingredients from beef bowl[r]
-restaurants and meals from coffee shops were frozen items.[pcms]
+We found rice and large commercial retort foods, but[r]
+ingredients from beef bowl restaurants and meals from coffee[r]
+shops were frozen items.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -195,8 +203,8 @@ restaurants and meals from coffee shops were frozen items.[pcms]
 [fc]
 [vo_miz s="mizuki0331"]
 [ns]Mizuki[nse]
-"Hey, Kousuke, should we take the frozen stuff too? We can keep it in the[r]
-freezer while we have electricity."[pcms]
+"Hey, Kousuke, should we take the frozen stuff too? We can[r]
+keep it in the freezer while we have electricity."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -228,8 +236,8 @@ freezer while we have electricity."[pcms]
 
 *3557|
 [fc]
-Meat and vegetables could also be frozen, so the amount of cargo we had to carry[r]
-kept increasing.[pcms]
+Meat and vegetables could also be frozen, so the amount of[r]
+cargo we had to carry kept increasing.[pcms]
 
 ;//ジャンプ
 [jump storage="50580.ks" target=*50580_05]
@@ -246,7 +254,8 @@ kept increasing.[pcms]
 
 *3558|
 [fc]
-We went out into the valleys between buildings for a supply operation.[pcms]
+We went out into the valleys between buildings for a supply[r]
+operation.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -254,8 +263,8 @@ We went out into the valleys between buildings for a supply operation.[pcms]
 [fc]
 [vo_mar s="maru1684"]
 [ns]Margarita[nse]
-"...Make sure to pay close attention to your surroundings, and retreat quickly[r]
-if the situation changes."[pcms]
+"...Make sure to pay close attention to your surroundings,[r]
+and retreat quickly if the situation changes."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -263,11 +272,13 @@ if the situation changes."[pcms]
 [fc]
 [vo_mar s="maru1685"]
 [ns]Margarita[nse]
-"Let's begin. Everyone, please check your assigned buildings."[pcms]
+"Let's begin. Everyone, please check your assigned[r]
+buildings."[pcms]
 
 *3561|
 [fc]
-As usual, Maruko-senpai gave us instructions, and then we started our action.[pcms]
+As usual, Maruko-senpai gave us instructions, and then we[r]
+started our action.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -282,8 +293,8 @@ As usual, Maruko-senpai gave us instructions, and then we started our action.[pc
 [fc]
 [vo_miz s="mizuki0329"]
 [ns]Mizuki[nse]
-"We should gather things like canned goods and preserved food that seem to last[r]
-longer, right?"[pcms]
+"We should gather things like canned goods and preserved[r]
+food that seem to last longer, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -305,13 +316,14 @@ longer, right?"[pcms]
 
 *3566|
 [fc]
-We move around the buildings through the valleys, carrying out food, medicine,[r]
-clothing, and such.[pcms]
+We move around the buildings through the valleys, carrying[r]
+out food, medicine, clothing, and such.[pcms]
 
 *3567|
 [fc]
-The most important thing is securing food and drinks, so we peek inside[r]
-restaurants mainly, selecting things that seem preservable.[pcms]
+The most important thing is securing food and drinks, so we[r]
+peek inside restaurants mainly, selecting things that seem[r]
+preservable.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -319,12 +331,14 @@ restaurants mainly, selecting things that seem preservable.[pcms]
 [fc]
 [vo_mar s="maru1686"]
 [ns]Margarita[nse]
-"...It would be wise to avoid seafood. We must not risk poisoning..."[pcms]
+"...It would be wise to avoid seafood. We must not risk[r]
+poisoning..."[pcms]
 
 *3569|
 [fc]
-We found rice and large commercial retort foods, but ingredients from beef bowl[r]
-restaurants and meals from coffee shops were frozen items.[pcms]
+We found rice and large commercial retort foods, but[r]
+ingredients from beef bowl restaurants and meals from coffee[r]
+shops were frozen items.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -332,8 +346,8 @@ restaurants and meals from coffee shops were frozen items.[pcms]
 [fc]
 [vo_miz s="mizuki0331"]
 [ns]Mizuki[nse]
-"Hey, Kousuke, should we take the frozen stuff too? We can keep it in the[r]
-freezer while we have electricity."[pcms]
+"Hey, Kousuke, should we take the frozen stuff too? We can[r]
+keep it in the freezer while we have electricity."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -365,8 +379,8 @@ freezer while we have electricity."[pcms]
 
 *3575|
 [fc]
-Meat and vegetables could also be frozen, so the amount of cargo we had to carry[r]
-kept increasing.[pcms]
+Meat and vegetables could also be frozen, so the amount of[r]
+cargo we had to carry kept increasing.[pcms]
 
 ;//ジャンプ
 [jump storage="50580.ks" target=*50580_05]
@@ -383,7 +397,8 @@ kept increasing.[pcms]
 
 *3576|
 [fc]
-We went out into the valleys between buildings for a supply operation.[pcms]
+We went out into the valleys between buildings for a supply[r]
+operation.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -391,8 +406,8 @@ We went out into the valleys between buildings for a supply operation.[pcms]
 [fc]
 [vo_mar s="maru1684"]
 [ns]Margarita[nse]
-"...Make sure to pay close attention to your surroundings, and retreat quickly[r]
-if the situation changes."[pcms]
+"...Make sure to pay close attention to your surroundings,[r]
+and retreat quickly if the situation changes."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -400,11 +415,13 @@ if the situation changes."[pcms]
 [fc]
 [vo_mar s="maru1685"]
 [ns]Margarita[nse]
-"Let's begin. Everyone, please check your assigned buildings."[pcms]
+"Let's begin. Everyone, please check your assigned[r]
+buildings."[pcms]
 
 *3579|
 [fc]
-As usual, Maruko-senpai gave us instructions, and then we started our action.[pcms]
+As usual, Maruko-senpai gave us instructions, and then we[r]
+started our action.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -419,8 +436,8 @@ As usual, Maruko-senpai gave us instructions, and then we started our action.[pc
 [fc]
 [vo_miz s="mizuki0329"]
 [ns]Mizuki[nse]
-"We should gather canned goods and preserved food that seem to last longer,[r]
-right?"[pcms]
+"We should gather canned goods and preserved food that seem[r]
+to last longer, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -442,13 +459,14 @@ right?"[pcms]
 
 *3584|
 [fc]
-While making a commotion, we went around the buildings in the valley, carrying[r]
-out food, medicine, and clothing.[pcms]
+While making a commotion, we went around the buildings in[r]
+the valley, carrying out food, medicine, and clothing.[pcms]
 
 *3585|
 [fc]
-The most important thing was securing food and drinks, so we peeked inside[r]
-restaurants, selecting items that seemed preservable.[pcms]
+The most important thing was securing food and drinks, so we[r]
+peeked inside restaurants, selecting items that seemed[r]
+preservable.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -456,12 +474,14 @@ restaurants, selecting items that seemed preservable.[pcms]
 [fc]
 [vo_mar s="maru1686"]
 [ns]Margarita[nse]
-"...It would be wise to avoid seafood. We can't risk food poisoning..."[pcms]
+"...It would be wise to avoid seafood. We can't risk food[r]
+poisoning..."[pcms]
 
 *3587|
 [fc]
-We found rice and large commercial retort food, but ingredients from beef bowl[r]
-restaurants and meals from cafes were frozen.[pcms]
+We found rice and large commercial retort food, but[r]
+ingredients from beef bowl restaurants and meals from cafes[r]
+were frozen.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -469,8 +489,8 @@ restaurants and meals from cafes were frozen.[pcms]
 [fc]
 [vo_miz s="mizuki0331"]
 [ns]Mizuki[nse]
-"Hey, Kousuke, should we take the frozen stuff too? We can keep it in the[r]
-freezer while we have electricity."[pcms]
+"Hey, Kousuke, should we take the frozen stuff too? We can[r]
+keep it in the freezer while we have electricity."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -502,8 +522,8 @@ freezer while we have electricity."[pcms]
 
 *3593|
 [fc]
-Meat and vegetables could also be frozen, so the amount of cargo we had to carry[r]
-kept increasing.[pcms]
+Meat and vegetables could also be frozen, so the amount of[r]
+cargo we had to carry kept increasing.[pcms]
 
 ;//ジャンプ
 [jump storage="50580.ks" target=*50580_05]
@@ -520,16 +540,19 @@ kept increasing.[pcms]
 
 *3594|
 [fc]
-We went out into the valleys between buildings for a supply operation.[pcms]
+We went out into the valleys between buildings for a supply[r]
+operation.[pcms]
 
 *3595|
 [fc]
 [ns]Wataru[nse]
-"...Let's begin. Everyone, please check your assigned buildings."[pcms]
+"...Let's begin. Everyone, please check your assigned[r]
+buildings."[pcms]
 
 *3596|
 [fc]
-Without Maruko-senpai, I felt somewhat uneasy... But I have to do my best too.[pcms]
+Without Maruko-senpai, I felt somewhat uneasy... But I have[r]
+to do my best too.[pcms]
 
 *3597|
 [fc]
@@ -548,7 +571,8 @@ We started our action.[pcms]
 [fc]
 [vo_yuh s="yuho1640"]
 [ns]Yuuho[nse]
-"Alright, this time I'm going to search for some expensive ingredients~"[pcms]
+"Alright, this time I'm going to search for some expensive[r]
+ingredients~"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -556,8 +580,8 @@ We started our action.[pcms]
 [fc]
 [vo_miz s="mizuki0329"]
 [ns]Mizuki[nse]
-"We should gather canned goods and preserved food that seem to last longer,[r]
-right?"[pcms]
+"We should gather canned goods and preserved food that seem[r]
+to last longer, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -579,13 +603,14 @@ right?"[pcms]
 
 *3603|
 [fc]
-While making a commotion, we went around the buildings in the valley, carrying[r]
-out food, medicine, and clothing.[pcms]
+While making a commotion, we went around the buildings in[r]
+the valley, carrying out food, medicine, and clothing.[pcms]
 
 *3604|
 [fc]
-The most important thing was securing food and drinks, so we peeked inside[r]
-restaurants, selecting items that seemed preservable.[pcms]
+The most important thing was securing food and drinks, so we[r]
+peeked inside restaurants, selecting items that seemed[r]
+preservable.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -593,13 +618,14 @@ restaurants, selecting items that seemed preservable.[pcms]
 [fc]
 [vo_yuh s="yuho1641"]
 [ns]Yuuho[nse]
-"Hmm. What's inside this jar? I can't understand the label at all, is it[r]
-Russian?"[pcms]
+"Hmm. What's inside this jar? I can't understand the label[r]
+at all, is it Russian?"[pcms]
 
 *3606|
 [fc]
-We found rice and large commercial retort food, but ingredients from beef bowl[r]
-restaurants and meals from cafes were frozen.[pcms]
+We found rice and large commercial retort food, but[r]
+ingredients from beef bowl restaurants and meals from cafes[r]
+were frozen.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -607,8 +633,8 @@ restaurants and meals from cafes were frozen.[pcms]
 [fc]
 [vo_yuh s="yuho1642"]
 [ns]Yuuho[nse]
-"Let's also take candies and chocolates. They say it's good to eat them in case[r]
-of an emergency, right?"[pcms]
+"Let's also take candies and chocolates. They say it's good[r]
+to eat them in case of an emergency, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -616,8 +642,8 @@ of an emergency, right?"[pcms]
 [fc]
 [vo_miz s="mizuki0331"]
 [ns]Mizuki[nse]
-"Hey, Kousuke, should we take the frozen stuff too? We can keep it in the[r]
-freezer while we have electricity."[pcms]
+"Hey, Kousuke, should we take the frozen stuff too? We can[r]
+keep it in the freezer while we have electricity."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -649,8 +675,8 @@ freezer while we have electricity."[pcms]
 
 *3613|
 [fc]
-Meat and vegetables could also be frozen, so the amount of cargo we had to carry[r]
-kept increasing.[pcms]
+Meat and vegetables could also be frozen, so the amount of[r]
+cargo we had to carry kept increasing.[pcms]
 
 ;//ジャンプ
 [jump storage="50580.ks" target=*50580_05]
@@ -673,9 +699,9 @@ I paused my work for a moment and looked down at the street.[pcms]
 
 *3615|
 [fc]
-There were a few infected visible on the street, and sounds like screams or[r]
-groans could be heard. It's unclear whether they're infected or someone still[r]
-alive...[pcms]
+There were a few infected visible on the street, and sounds[r]
+like screams or groans could be heard. It's unclear whether[r]
+they're infected or someone still alive...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -686,13 +712,15 @@ alive...[pcms]
 
 *3617|
 [fc]
-Kousuke noticed me pausing and muttered as he looked down at the street as well.[pcms]
+Kousuke noticed me pausing and muttered as he looked down at[r]
+the street as well.[pcms]
 
 *3618|
 [fc]
 [ns]Kousuke[nse]
-"Yesterday, we made a lot of noise and attracted them, but if we stay quiet,[r]
-maybe it's okay to go out of the 'valley'?"[pcms]
+"Yesterday, we made a lot of noise and attracted them, but[r]
+if we stay quiet, maybe it's okay to go out of the[r]
+'valley'?"[pcms]
 
 *3619|
 [fc]
@@ -701,7 +729,8 @@ maybe it's okay to go out of the 'valley'?"[pcms]
 
 *3620|
 [fc]
-But if there are infected hiding somewhere, we could be attacked at any time.[pcms]
+But if there are infected hiding somewhere, we could be[r]
+attacked at any time.[pcms]
 
 ;//@konya ビルの谷間
 [bg storage="BG130"][trans_c cross time=500]
@@ -710,21 +739,23 @@ But if there are infected hiding somewhere, we could be attacked at any time.[pc
 *3621|
 [fc]
 [ns]Wataru[nse]
-"Maybe we should stay in this section for a while. If we start running low on[r]
-food or anything else, we can think about it then."[pcms]
+"Maybe we should stay in this section for a while. If we[r]
+start running low on food or anything else, we can think[r]
+about it then."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3622|
 [fc]
 [ns]Kousuke[nse]
-"Well, that might be true. Since we can only move on foot, it's scary. I don't[r]
-even feel like going anywhere other than LASER."[pcms]
+"Well, that might be true. Since we can only move on foot,[r]
+it's scary. I don't even feel like going anywhere other than[r]
+LASER."[pcms]
 
 *3623|
 [fc]
-Considering the terrible state of other shelters seen on TV, moving somewhere[r]
-right now is unthinkable.[pcms]
+Considering the terrible state of other shelters seen on TV,[r]
+moving somewhere right now is unthinkable.[pcms]
 
 *3624|
 [fc]

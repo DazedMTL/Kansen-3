@@ -18,8 +18,8 @@
 
 *4568|
 [fc]
-What to do... For now, I decided to be cautious and once again peeked at the[r]
-situation above.[pcms]
+What to do... For now, I decided to be cautious and once[r]
+again peeked at the situation above.[pcms]
 
 *4569|
 [fc]
@@ -27,14 +27,16 @@ Then--[pcms]
 
 *4570|
 [fc]
-I felt someone's presence behind me. The moment I realized that.[pcms]
+I felt someone's presence behind me. The moment I realized[r]
+that.[pcms]
 
 ;//☆レッドフラッシュ
 [赤フラ]
 
 *4571|
 [fc]
-My throat was being bitten through. Blood gushed out in spurts.[pcms]
+My throat was being bitten through. Blood gushed out in[r]
+spurts.[pcms]
 
 *4572|
 [fc]
@@ -43,8 +45,8 @@ My throat was being bitten through. Blood gushed out in spurts.[pcms]
 
 *4573|
 [fc]
-Without knowing who had bitten me, or who had approached, my consciousness was[r]
-sealed by darkness.[pcms]
+Without knowing who had bitten me, or who had approached, my[r]
+consciousness was sealed by darkness.[pcms]
 
 ;//バッドエンド
 ;//ゲームオーバー

@@ -20,23 +20,25 @@
 
 *1140|
 [fc]
-I hummed to myself as I drained the boiled somen noodles into a colander and[r]
-rinsed off the sliminess with running water.[pcms]
+I hummed to myself as I drained the boiled somen noodles[r]
+into a colander and rinsed off the sliminess with running[r]
+water.[pcms]
 
 *1141|
 [fc]
-Even after setting aside a portion for Dad, it feels like there's too much for[r]
-just Ren and me... Well, we'll manage to eat it all somehow.[pcms]
+Even after setting aside a portion for Dad, it feels like[r]
+there's too much for just Ren and me... Well, we'll manage[r]
+to eat it all somehow.[pcms]
 
 *1142|
 [fc]
-If I add canned fruits like oranges and pineapples, which also serve as dessert,[r]
-it somehow looks more luxurious.[pcms]
+If I add canned fruits like oranges and pineapples, which[r]
+also serve as dessert, it somehow looks more luxurious.[pcms]
 
 *1143|
 [fc]
-As I nodded to myself alone in the kitchen, Dad appeared with his finished[r]
-dishes in hand.[pcms]
+As I nodded to myself alone in the kitchen, Dad appeared[r]
+with his finished dishes in hand.[pcms]
 
 [ChrSetEx layer=1 chbase="otousan2"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -48,33 +50,36 @@ dishes in hand.[pcms]
 *1145|
 [fc]
 [ns]Wataru[nse]
-"Didn't you say last time that you didn't like the somen getting sweet if fruit[r]
-was added? Something about it being more appropriate for cold buckwheat[r]
-noodles."[pcms]
+"Didn't you say last time that you didn't like the somen[r]
+getting sweet if fruit was added? Something about it being[r]
+more appropriate for cold buckwheat noodles."[pcms]
 
 [ChrSetEx layer=1 chbase="otousan1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *1146|
 [fc]
 [ns]Father[nse]
-"...You could have just served it on a separate plate, right?"[pcms]
+"...You could have just served it on a separate plate,[r]
+right?"[pcms]
 
 *1147|
 [fc]
 [ns]Wataru[nse]
-"That would just increase the dishes to wash. Ah, leave that there by the sink."[pcms]
+"That would just increase the dishes to wash. Ah, leave that[r]
+there by the sink."[pcms]
 
 *1148|
 [fc]
-With a tone of envy and a bit of a sulk, Dad looked at the fruit floating in the[r]
-bowl as I coldly responded and started to prepare the condiments for the noodle[r]
-dipping sauce.[pcms]
+With a tone of envy and a bit of a sulk, Dad looked at the[r]
+fruit floating in the bowl as I coldly responded and started[r]
+to prepare the condiments for the noodle dipping sauce.[pcms]
 
 *1149|
 [fc]
 [ns]Father[nse]
-"I heard from Ren that we were having curry today. Why somen? It's fine for[r]
-lunch, but somen for dinner doesn't sit well with me."[pcms]
+"I heard from Ren that we were having curry today. Why[r]
+somen? It's fine for lunch, but somen for dinner doesn't sit[r]
+well with me."[pcms]
 
 *1150|
 [fc]
@@ -89,43 +94,47 @@ lunch, but somen for dinner doesn't sit well with me."[pcms]
 *1152|
 [fc]
 [ns]Wataru[nse]
-"Of course I can make curry. But I thought it might be bad for Ren's throat if[r]
-her fever wasn't from walking around in the daytime but from a cold."[pcms]
+"Of course I can make curry. But I thought it might be bad[r]
+for Ren's throat if her fever wasn't from walking around in[r]
+the daytime but from a cold."[pcms]
 
 *1153|
 [fc]
 [ns]Father[nse]
-"Oh come on, are you making excuses? ...Well, it's true that Ren is your top[r]
-priority. It wouldn't hurt to pay a little attention to your dad too."[pcms]
+"Oh come on, are you making excuses? ...Well, it's true that[r]
+Ren is your top priority. It wouldn't hurt to pay a little[r]
+attention to your dad too."[pcms]
 
 *1154|
 [fc]
 [ns]Wataru[nse]
-"While you say that, you're about to head off to work, right? Where's the time[r]
-to care for a workaholic?"[pcms]
+"While you say that, you're about to head off to work,[r]
+right? Where's the time to care for a workaholic?"[pcms]
 
 *1155|
 [fc]
 [ns]Father[nse]
-"Ugh, mmm...you hit where it hurts! I'll do tomorrow's tape check at the[r]
-company."[pcms]
+"Ugh, mmm...you hit where it hurts! I'll do tomorrow's tape[r]
+check at the company."[pcms]
 
 *1156|
 [fc]
 [ns]Wataru[nse]
-"I've already set up the recording for the fireworks broadcast, and besides,[r]
-taking tapes out of the company other than rentals is prohibited."[pcms]
+"I've already set up the recording for the fireworks[r]
+broadcast, and besides, taking tapes out of the company[r]
+other than rentals is prohibited."[pcms]
 
 *1157|
 [fc]
-As I took out concentrated noodle sauce and cold water from the fridge without[r]
-looking at Dad, I replied.[pcms]
+As I took out concentrated noodle sauce and cold water from[r]
+the fridge without looking at Dad, I replied.[pcms]
 
 *1158|
 [fc]
-Dad is in charge of broadcasting the Oedo Fireworks Festival every year, and[r]
-even without that event, he works at DHK, so it's usual for him to head straight[r]
-to work when there's a big incident.[pcms]
+Dad is in charge of broadcasting the Oedo Fireworks Festival[r]
+every year, and even without that event, he works at DHK, so[r]
+it's usual for him to head straight to work when there's a[r]
+big incident.[pcms]
 
 *1159|
 [fc]
@@ -133,12 +142,14 @@ Calling him a workaholic might be right in a way.[pcms]
 
 *1160|
 [fc]
-I'm somewhat envious of my father who can say he loves his job.[pcms]
+I'm somewhat envious of my father who can say he loves his[r]
+job.[pcms]
 
 *1161|
 [fc]
 [ns]Wataru[nse]
-"By the way, wasn't there a documentary you worked on recently?"[pcms]
+"By the way, wasn't there a documentary you worked on[r]
+recently?"[pcms]
 
 *1162|
 [fc]
@@ -147,13 +158,14 @@ I glared at Dad and after a beat...[pcms]
 *1163|
 [fc]
 [ns]Wataru[nse]
-"Parents Who Neglect Meals with Their Children! The Light and Shadow of Modern[r]
-Japan!!"[pcms]
+"Parents Who Neglect Meals with Their Children! The Light[r]
+and Shadow of Modern Japan!!"[pcms]
 
 *1164|
 [fc]
-I wasn't jealous of my father for having the job he wanted, but I deliberately[r]
-teased him by quoting the subtitle of a documentary I had seen before.[pcms]
+I wasn't jealous of my father for having the job he wanted,[r]
+but I deliberately teased him by quoting the subtitle of a[r]
+documentary I had seen before.[pcms]
 
 [ChrSetEx layer=1 chbase="otousan2"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -165,16 +177,16 @@ teased him by quoting the subtitle of a documentary I had seen before.[pcms]
 *1166|
 [fc]
 [ns]Wataru[nse]
-"The cobbler's children have no shoes, a doctor who neglects his own health,[r]
-darkness under the lighthouse!!"[pcms]
+"The cobbler's children have no shoes, a doctor who neglects[r]
+his own health, darkness under the lighthouse!!"[pcms]
 
 [ChrSetEx layer=1 chbase="otousan1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *1167|
 [fc]
 [ns]Father[nse]
-"Whoa, I'll borrow the Space Journey DVD for you next time, so please forgive[r]
-me!!"[pcms]
+"Whoa, I'll borrow the Space Journey DVD for you next time,[r]
+so please forgive me!!"[pcms]
 
 *1168|
 [fc]
@@ -188,33 +200,36 @@ me!!"[pcms]
 
 *1170|
 [fc]
-In an attempt to dodge my barrage of attacks, Dad's eyes shone triumphantly as[r]
-he realized I already had the DVD title he blurted out.[pcms]
+In an attempt to dodge my barrage of attacks, Dad's eyes[r]
+shone triumphantly as he realized I already had the DVD[r]
+title he blurted out.[pcms]
 
 *1171|
 [fc]
 [ns]Father[nse]
-"But what about the Director's Cut edition that just started reservations?[r]
-You're saying you have that one, Wataru-dono?"[pcms]
+"But what about the Director's Cut edition that just started[r]
+reservations? You're saying you have that one, Wataru-dono?"[pcms]
 
 *1172|
 [fc]
 [ns]Wataru[nse]
-"Eh? The Director's Cut edition... that includes unreleased footage scheduled[r]
-for sale in autumn?"[pcms]
+"Eh? The Director's Cut edition... that includes unreleased[r]
+footage scheduled for sale in autumn?"[pcms]
 
 [ChrSetEx layer=1 chbase="otousan2"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *1173|
 [fc]
 [ns]Father[nse]
-"Hehehe... Listen well, Echigoya. It's just re-editing the content."[pcms]
+"Hehehe... Listen well, Echigoya. It's just re-editing the[r]
+content."[pcms]
 
 *1174|
 [fc]
 [ns]Father[nse]
-"The master is already finished; we're just waiting on the package design now.[r]
-But you wouldn't want to see it, would you?"[pcms]
+"The master is already finished; we're just waiting on the[r]
+package design now. But you wouldn't want to see it, would[r]
+you?"[pcms]
 
 *1175|
 [fc]
@@ -233,13 +248,15 @@ But you wouldn't want to see it, would you?"[pcms]
 
 *1178|
 [fc]
-While bowing my head like a corrupt magistrate before an all-powerful badge, my[r]
-hands continued to work tirelessly adjusting the concentrated noodle sauce to[r]
-make the dipping broth for the somen.[pcms]
+While bowing my head like a corrupt magistrate before an[r]
+all-powerful badge, my hands continued to work tirelessly[r]
+adjusting the concentrated noodle sauce to make the dipping[r]
+broth for the somen.[pcms]
 
 *1179|
 [fc]
-As I poured it into bowls, I glanced at the clock in the kitchen.[pcms]
+As I poured it into bowls, I glanced at the clock in the[r]
+kitchen.[pcms]
 
 *1180|
 [fc]
@@ -251,8 +268,8 @@ As I poured it into bowls, I glanced at the clock in the kitchen.[pcms]
 *1181|
 [fc]
 [ns]Father[nse]
-"Oh right. I'm heading out now. It shouldn't be too late... Take care of Ren for[r]
-me."[pcms]
+"Oh right. I'm heading out now. It shouldn't be too late...[r]
+Take care of Ren for me."[pcms]
 
 *1182|
 [fc]
@@ -262,14 +279,16 @@ me."[pcms]
 *1183|
 [fc]
 [ns]Father[nse]
-"Yeah. I'll show you a fireworks festival that's better than seeing it live."[pcms]
+"Yeah. I'll show you a fireworks festival that's better than[r]
+seeing it live."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1184|
 [fc]
-After seeing Dad off with a grin as he left the living room, I placed the somen[r]
-and dipping sauce on a tray and headed towards Ren's room.[pcms]
+After seeing Dad off with a grin as he left the living room,[r]
+I placed the somen and dipping sauce on a tray and headed[r]
+towards Ren's room.[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -290,12 +309,13 @@ and dipping sauce on a tray and headed towards Ren's room.[pcms]
 
 *1187|
 [fc]
-When I knocked and called out to Ren who should be inside her room, she replied[r]
-with an unusually flustered voice.[pcms]
+When I knocked and called out to Ren who should be inside[r]
+her room, she replied with an unusually flustered voice.[pcms]
 
 *1188|
 [fc]
-Along with that came sounds of something being hastily put away.[pcms]
+Along with that came sounds of something being hastily put[r]
+away.[pcms]
 
 *1189|
 [fc]
@@ -310,25 +330,27 @@ Along with that came sounds of something being hastily put away.[pcms]
 
 *1190|
 [fc]
-After saying a word, I opened the door and saw Ren, who was at least quietly[r]
-lying in bed under a towelket.[pcms]
+After saying a word, I opened the door and saw Ren, who was[r]
+at least quietly lying in bed under a towelket.[pcms]
 
 *1191|
 [fc]
-Her complexion seemed a bit better than in the evening, but her cheeks still[r]
-looked faintly red.[pcms]
+Her complexion seemed a bit better than in the evening, but[r]
+her cheeks still looked faintly red.[pcms]
 
 *1192|
 [fc]
 [vo_ren s="ren0036"]
 [ns]Ren[nse]
-"Geez. You didn't even wait for me to say it's okay before you just came in."[pcms]
+"Geez. You didn't even wait for me to say it's okay before[r]
+you just came in."[pcms]
 
 *1193|
 [fc]
 [ns]Wataru[nse]
-"You were supposed to be resting, but you were just hurriedly hiding the manga[r]
-you were reading in secret, weren't you?"[pcms]
+"You were supposed to be resting, but you were just[r]
+hurriedly hiding the manga you were reading in secret,[r]
+weren't you?"[pcms]
 
 *1194|
 [fc]
@@ -343,59 +365,66 @@ you were reading in secret, weren't you?"[pcms]
 
 *1196|
 [fc]
-I laughed as I placed the tray beside the bed and peered into Ren's face.[pcms]
+I laughed as I placed the tray beside the bed and peered[r]
+into Ren's face.[pcms]
 
 *1197|
 [fc]
-Her purple eyes, usually hidden behind light-blocking colored contact lenses to[r]
-avoid strange looks due to her light sensitivity, stared back at me.[pcms]
+Her purple eyes, usually hidden behind light-blocking[r]
+colored contact lenses to avoid strange looks due to her[r]
+light sensitivity, stared back at me.[pcms]
 
 *1198|
 [fc]
-In novels and comics, they might be described as violet or amethyst, but the[r]
-color of Ren's eyes is so striking that you wouldn't understand unless you saw[r]
-them yourself.[pcms]
+In novels and comics, they might be described as violet or[r]
+amethyst, but the color of Ren's eyes is so striking that[r]
+you wouldn't understand unless you saw them yourself.[pcms]
 
 *1199|
 [fc]
-No matter how many times I see them, I never get used to them.[pcms]
+No matter how many times I see them, I never get used to[r]
+them.[pcms]
 
 *1200|
 [fc]
-Even a poet who could instantly come up with a million eloquent phrases would[r]
-only think of the trite word "beautiful."[pcms]
+Even a poet who could instantly come up with a million[r]
+eloquent phrases would only think of the trite word[r]
+"beautiful."[pcms]
 
 *1201|
 [fc]
 [vo_ren s="ren0038"]
 [ns]Ren[nse]
-"Sorry for making you prepare dinner, big brother. I took advantage today, but[r]
-it's not like it's unusual for me to get a fever. You're overreacting."[pcms]
+"Sorry for making you prepare dinner, big brother. I took[r]
+advantage today, but it's not like it's unusual for me to[r]
+get a fever. You're overreacting."[pcms]
 
 *1202|
 [fc]
-Her eyes still seemed a bit moist as if she hadn't fully recovered from the[r]
-fever, and looking up at me like that stirred my protective instincts, though I[r]
-smiled to hide it.[pcms]
+Her eyes still seemed a bit moist as if she hadn't fully[r]
+recovered from the fever, and looking up at me like that[r]
+stirred my protective instincts, though I smiled to hide it.[pcms]
 
 *1203|
 [fc]
 [ns]Wataru[nse]
-"If we take 'usual' for granted and it turns out to be a serious illness, that[r]
-would be bad, right? Early detection and treatment are key for anything."[pcms]
+"If we take 'usual' for granted and it turns out to be a[r]
+serious illness, that would be bad, right? Early detection[r]
+and treatment are key for anything."[pcms]
 
 *1204|
 [fc]
 [vo_ren s="ren0039"]
 [ns]Ren[nse]
-"But... I don't smell curry. Wasn't dinner supposed to be curry? It's not like I[r]
-have a cold; curry would have been fine."[pcms]
+"But... I don't smell curry. Wasn't dinner supposed to be[r]
+curry? It's not like I have a cold; curry would have been[r]
+fine."[pcms]
 
 *1205|
 [fc]
 [ns]Wataru[nse]
-"Huh? I said I could make curry, but think about it, I'm going camping with the[r]
-club the day after tomorrow, right?"[pcms]
+"Huh? I said I could make curry, but think about it, I'm[r]
+going camping with the club the day after tomorrow, right?"[pcms]
 
 *1206|
 [fc]
@@ -406,48 +435,50 @@ club the day after tomorrow, right?"[pcms]
 *1207|
 [fc]
 [ns]Wataru[nse]
-"The menu for that is curry. If we have curry today, it'll inevitably be curry[r]
-tomorrow too."[pcms]
+"The menu for that is curry. If we have curry today, it'll[r]
+inevitably be curry tomorrow too."[pcms]
 
 *1208|
 [fc]
 [ns]Wataru[nse]
-"Three days of curry in a row is a bit much... That's why I went with somen.[r]
-It's simple."[pcms]
+"Three days of curry in a row is a bit much... That's why I[r]
+went with somen. It's simple."[pcms]
 
 *1209|
 [fc]
 [vo_ren s="ren0041"]
 [ns]Ren[nse]
-"Ehh, wasn't it because you were considering my feelings? That's mean, big[r]
-brother."[pcms]
+"Ehh, wasn't it because you were considering my feelings?[r]
+That's mean, big brother."[pcms]
 
 *1210|
 [fc]
-I laughed as I stopped Ren from getting out of bed in a huff and re-covered her[r]
-with the towelket that had slipped off her shoulders.[pcms]
+I laughed as I stopped Ren from getting out of bed in a huff[r]
+and re-covered her with the towelket that had slipped off[r]
+her shoulders.[pcms]
 
 *1211|
 [fc]
 [ns]Wataru[nse]
-"Ahaha. You know I'm just kidding, right? Hey, how's your fever? Has it gone[r]
-down?"[pcms]
+"Ahaha. You know I'm just kidding, right? Hey, how's your[r]
+fever? Has it gone down?"[pcms]
 
 *1212|
 [fc]
-As I touched my forehead to hers to check her temperature, despite her moist[r]
-eyes, Ren's fever had completely subsided.[pcms]
+As I touched my forehead to hers to check her temperature,[r]
+despite her moist eyes, Ren's fever had completely subsided.[pcms]
 
 *1213|
 [fc]
-I brushed away the hair that had come loose and was entangling her face as I[r]
-pulled away from her forehead.[pcms]
+I brushed away the hair that had come loose and was[r]
+entangling her face as I pulled away from her forehead.[pcms]
 
 [evcg storage="EV010b"][trans_c cross time=300]
 
 *1214|
 [fc]
-My cheeks relaxed in relief, and seeing that, Ren also smiled.[pcms]
+My cheeks relaxed in relief, and seeing that, Ren also[r]
+smiled.[pcms]
 
 *1215|
 [fc]
@@ -463,17 +494,19 @@ My cheeks relaxed in relief, and seeing that, Ren also smiled.[pcms]
 *1217|
 [fc]
 [ns]Wataru[nse]
-"If worrying is all it takes to keep you healthy, then I'll worry as much as it[r]
-takes, right?"[pcms]
+"If worrying is all it takes to keep you healthy, then I'll[r]
+worry as much as it takes, right?"[pcms]
 
 *1218|
 [fc]
 [ns]Wataru[nse]
-"Dad said he wouldn't be late tonight, but since he's not here..."[pcms]
+"Dad said he wouldn't be late tonight, but since he's not[r]
+here..."[pcms]
 
 *1219|
 [fc]
-I smiled at Ren who was still a bit sulky and was about to leave her room.[pcms]
+I smiled at Ren who was still a bit sulky and was about to[r]
+leave her room.[pcms]
 
 *1220|
 [fc]
@@ -498,8 +531,9 @@ I answered Ren's question without much thought.[pcms]
 
 *1224|
 [fc]
-Eating in the living room would be easier when considering cleanup, but[r]
-eventually, I'd have to go down anyway to take care of Ren's finished dishes.[pcms]
+Eating in the living room would be easier when considering[r]
+cleanup, but eventually, I'd have to go down anyway to take[r]
+care of Ren's finished dishes.[pcms]
 
 *1225|
 [fc]
@@ -507,7 +541,8 @@ Eating in my own room might actually be more convenient...[pcms]
 
 *1226|
 [fc]
-I realized this only after answering her question unconsciously.[pcms]
+I realized this only after answering her question[r]
+unconsciously.[pcms]
 
 ;//<ImageLoad 4,EV008b.bmp><UpDate Cross,1000>
 
@@ -520,7 +555,8 @@ I realized this only after answering her question unconsciously.[pcms]
 *1228|
 [fc]
 [ns]Wataru[nse]
-"Right. Your fever's gone down too, and eating alone is bland. Sure."[pcms]
+"Right. Your fever's gone down too, and eating alone is[r]
+bland. Sure."[pcms]
 
 ;//<ImageLoad 4,EV008a.bmp><UpDate Cross,1000>
 
@@ -533,8 +569,8 @@ I realized this only after answering her question unconsciously.[pcms]
 *1230|
 [fc]
 [ns]Wataru[nse]
-"Oh, mine's still in the kitchen. It'll get cold, so start eating in my room[r]
-first."[pcms]
+"Oh, mine's still in the kitchen. It'll get cold, so start[r]
+eating in my room first."[pcms]
 
 ;//<ImageLoad 4,EV008b.bmp><UpDate Cross,1000>
 
@@ -546,8 +582,8 @@ first."[pcms]
 
 *1232|
 [fc]
-I left Ren smiling sweetly as she answered and headed to the kitchen to get my[r]
-share.[pcms]
+I left Ren smiling sweetly as she answered and headed to the[r]
+kitchen to get my share.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -561,27 +597,30 @@ share.[pcms]
 
 *1234|
 [fc]
-As I returned to my room with my set of somen, Ren had just arrived and was[r]
-placing her somen on a small table on a tray.[pcms]
+As I returned to my room with my set of somen, Ren had just[r]
+arrived and was placing her somen on a small table on a[r]
+tray.[pcms]
 
 *1235|
 [fc]
-But then again, Ren was only wearing a pair of panties and an oversized black[r]
-T-shirt--[pcms]
+But then again, Ren was only wearing a pair of panties and[r]
+an oversized black T-shirt--[pcms]
 
 *1236|
 [fc]
-The moment I opened the door, Ren's panties were in full view.[pcms]
+The moment I opened the door, Ren's panties were in full[r]
+view.[pcms]
 
 *1237|
 [fc]
-I wondered if it was really okay for a girl her age to come over in such a[r]
-slightly erotic outfit, even if it was her brother's room.[pcms]
+I wondered if it was really okay for a girl her age to come[r]
+over in such a slightly erotic outfit, even if it was her[r]
+brother's room.[pcms]
 
 *1238|
 [fc]
-Well, she must see me not as a man but simply as her brother, innocently adoring[r]
-me like when she was a child.[pcms]
+Well, she must see me not as a man but simply as her[r]
+brother, innocently adoring me like when she was a child.[pcms]
 
 ;//漣1
 [ChrSetEx layer=1 chbase="ren_d12"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
@@ -608,7 +647,8 @@ me like when she was a child.[pcms]
 *1242|
 [fc]
 [ns]Wataru[nse]
-"I told you to start eating without me, but you haven't started yet."[pcms]
+"I told you to start eating without me, but you haven't[r]
+started yet."[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d14"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -620,14 +660,14 @@ me like when she was a child.[pcms]
 
 *1244|
 [fc]
-While I found Ren's fidgety behavior a bit strange, I placed my portion opposite[r]
-her and sat down across the small table.[pcms]
+While I found Ren's fidgety behavior a bit strange, I placed[r]
+my portion opposite her and sat down across the small table.[pcms]
 
 *1245|
 [fc]
 [ns]Wataru[nse]
-"It's been a while, so the ice has started to melt. I brought some more, do you[r]
-need it?"[pcms]
+"It's been a while, so the ice has started to melt. I[r]
+brought some more, do you need it?"[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d8"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -640,7 +680,8 @@ need it?"[pcms]
 *1247|
 [fc]
 [ns]Wataru[nse]
-"Hmm... I put too much water, after all. It's causing surface tension."[pcms]
+"Hmm... I put too much water, after all. It's causing[r]
+surface tension."[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d7"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -653,19 +694,20 @@ need it?"[pcms]
 *1249|
 [fc]
 [ns]Wataru[nse]
-"Yeah. He ate dinner early and then left. Seriously, he just did a segment on[r]
-his show about parents who don't eat dinner with their kids."[pcms]
+"Yeah. He ate dinner early and then left. Seriously, he just[r]
+did a segment on his show about parents who don't eat dinner[r]
+with their kids."[pcms]
 
 *1250|
 [fc]
-As I placed a glass filled with ice in front of Ren, I twisted open a bottle of[r]
-barley tea.[pcms]
+As I placed a glass filled with ice in front of Ren, I[r]
+twisted open a bottle of barley tea.[pcms]
 
 *1251|
 [fc]
 [ns]Wataru[nse]
-"Maybe next time we should feature Dad's show. 'The Reality of DHK Employee A!'[r]
-or something."[pcms]
+"Maybe next time we should feature Dad's show. 'The Reality[r]
+of DHK Employee A!' or something."[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d11"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -673,13 +715,15 @@ or something."[pcms]
 [fc]
 [vo_ren s="ren0052"]
 [ns]Ren[nse]
-"Right now... It's just you and me alone in this house, right?"[pcms]
+"Right now... It's just you and me alone in this house,[r]
+right?"[pcms]
 
 *1253|
 [fc]
 [ns]Wataru[nse]
-"That's right. If Mom were here, we'd always have eggplant with our somen around[r]
-this time. We used to get summer vegetables from Grandpa Myoden."[pcms]
+"That's right. If Mom were here, we'd always have eggplant[r]
+with our somen around this time. We used to get summer[r]
+vegetables from Grandpa Myoden."[pcms]
 
 *1254|
 [fc]
@@ -690,33 +734,34 @@ this time. We used to get summer vegetables from Grandpa Myoden."[pcms]
 *1255|
 [fc]
 [ns]Wataru[nse]
-"I want to eat it. Grandpa's eggplants were delicious, but Mom's eggplant dishes[r]
-were exceptional."[pcms]
+"I want to eat it. Grandpa's eggplants were delicious, but[r]
+Mom's eggplant dishes were exceptional."[pcms]
 
 *1256|
 [fc]
-As I poured barley tea into a glass for her, I suddenly noticed that Ren's[r]
-complexion seemed off.[pcms]
+As I poured barley tea into a glass for her, I suddenly[r]
+noticed that Ren's complexion seemed off.[pcms]
 
 *1257|
 [fc]
-Even though four years had passed, it might still be an unhealed wound for Ren.[pcms]
+Even though four years had passed, it might still be an[r]
+unhealed wound for Ren.[pcms]
 
 *1258|
 [fc]
-I still can't believe it myself... or rather, I keep feeling like Mom will come[r]
-back at any moment saying, "I'm home."[pcms]
+I still can't believe it myself... or rather, I keep feeling[r]
+like Mom will come back at any moment saying, "I'm home."[pcms]
 
 *1259|
 [fc]
-To hide the awkwardness of my insensitivity, I offered Ren the glass of barley[r]
-tea I had poured for her.[pcms]
+To hide the awkwardness of my insensitivity, I offered Ren[r]
+the glass of barley tea I had poured for her.[pcms]
 
 *1260|
 [fc]
 [ns]Wataru[nse]
-"Well, we may not have eggplant, but there's plenty of somen, so don't hold back[r]
-and eat up... Ren?"[pcms]
+"Well, we may not have eggplant, but there's plenty of[r]
+somen, so don't hold back and eat up... Ren?"[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d12"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -733,14 +778,15 @@ and eat up... Ren?"[pcms]
 
 *1263|
 [fc]
-As Ren reached out to take the glass, pushing her chest out a bit, the[r]
-silhouette of the "Cassini" logo on her chest became clearly visible to me.[pcms]
+As Ren reached out to take the glass, pushing her chest out[r]
+a bit, the silhouette of the "Cassini" logo on her chest[r]
+became clearly visible to me.[pcms]
 
 *1264|
 [fc]
 [ns]Wataru[nse]
-"I knew it. That's a 'Cassini' T-shirt, right? And black too... that's super[r]
-rare!"[pcms]
+"I knew it. That's a 'Cassini' T-shirt, right? And black[r]
+too... that's super rare!"[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d13"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -748,14 +794,14 @@ rare!"[pcms]
 [fc]
 [vo_ren s="ren0055"]
 [ns]Ren[nse]
-"Super rare... Onii-chan, you have three each of both white and black ones,[r]
-don't you?"[pcms]
+"Super rare... Onii-chan, you have three each of both white[r]
+and black ones, don't you?"[pcms]
 
 *1266|
 [fc]
 [ns]Wataru[nse]
-"Bah! You don't get it. The T-shirts made for the Cassini satellite launch came[r]
-in two colors, black and white."[pcms]
+"Bah! You don't get it. The T-shirts made for the Cassini[r]
+satellite launch came in two colors, black and white."[pcms]
 
 *1267|
 [fc]
@@ -766,19 +812,20 @@ in two colors, black and white."[pcms]
 [fc]
 [vo_ren s="ren0056"]
 [ns]Ren[nse]
-"If only a thousand were made and Onii-chan has three of them, it must have been[r]
-really unpopular, right?"[pcms]
+"If only a thousand were made and Onii-chan has three of[r]
+them, it must have been really unpopular, right?"[pcms]
 
 *1269|
 [fc]
 [ns]Wataru[nse]
-"You don't understand how much time I spent glued to online auctions to get[r]
-those..."[pcms]
+"You don't understand how much time I spent glued to online[r]
+auctions to get those..."[pcms]
 
 *1270|
 [fc]
 [ns]Wataru[nse]
-"Anyway, what do you mean by taking someone else's stuff without asking?"[pcms]
+"Anyway, what do you mean by taking someone else's stuff[r]
+without asking?"[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d11"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -786,14 +833,14 @@ those..."[pcms]
 [fc]
 [vo_ren s="ren0057"]
 [ns]Ren[nse]
-"Eh? Well, I didn't have anything suitable to wear... and if I wore my T-shirts,[r]
-my panties would show."[pcms]
+"Eh? Well, I didn't have anything suitable to wear... and if[r]
+I wore my T-shirts, my panties would show."[pcms]
 
 *1272|
 [fc]
 [ns]Wataru[nse]
-"No... anyway, even if it's inside the house, a girl your age wearing just[r]
-underwear and a T-shirt is..."[pcms]
+"No... anyway, even if it's inside the house, a girl your[r]
+age wearing just underwear and a T-shirt is..."[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d12"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -806,8 +853,9 @@ underwear and a T-shirt is..."[pcms]
 *1274|
 [fc]
 [ns]Wataru[nse]
-"Bah! Don't tease your brother. Anyway, that T-shirt is for preservation,[r]
-viewing, and bragging purposes, so take it off now!"[pcms]
+"Bah! Don't tease your brother. Anyway, that T-shirt is for[r]
+preservation, viewing, and bragging purposes, so take it off[r]
+now!"[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d6"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -832,7 +880,8 @@ viewing, and bragging purposes, so take it off now!"[pcms]
 
 *1278|
 [fc]
-Reluctantly agreeing, Ren suddenly reached for the hem of her T-shirt.[pcms]
+Reluctantly agreeing, Ren suddenly reached for the hem of[r]
+her T-shirt.[pcms]
 
 *1279|
 [fc]
@@ -852,22 +901,24 @@ Reluctantly agreeing, Ren suddenly reached for the hem of her T-shirt.[pcms]
 
 *1282|
 [fc]
-Ignoring my words, Ren attempted to roll up her T-shirt with vigor.[pcms]
+Ignoring my words, Ren attempted to roll up her T-shirt with[r]
+vigor.[pcms]
 
 *1283|
 [fc]
-Luckily hidden by the shadow of the table so her panties weren't visible, Ren's[r]
-white belly was exposed.[pcms]
+Luckily hidden by the shadow of the table so her panties[r]
+weren't visible, Ren's white belly was exposed.[pcms]
 
 *1284|
 [fc]
 [ns]Wataru[nse]
-"Whoa! Wait. I surrender, I surrender!! I was wrong, so stop!"[pcms]
+"Whoa! Wait. I surrender, I surrender!! I was wrong, so[r]
+stop!"[pcms]
 
 *1285|
 [fc]
-Dazzled by the contrast between her translucent skin and the black T-shirt, I[r]
-hurriedly stood up to try and stop Ren.[pcms]
+Dazzled by the contrast between her translucent skin and the[r]
+black T-shirt, I hurriedly stood up to try and stop Ren.[pcms]
 
 *1286|
 [fc]
@@ -899,13 +950,14 @@ And for some reason, Ren's face was right in front of me.[pcms]
 
 *1291|
 [fc]
-When I realized what was happening, I panicked and quickly got up, turning my[r]
-back to Ren.[pcms]
+When I realized what was happening, I panicked and quickly[r]
+got up, turning my back to Ren.[pcms]
 
 *1292|
 [fc]
-When I stood up to try and hold Ren down, by some fluke or mischief, I had ended[r]
-up pushing her down hard onto the floor.[pcms]
+When I stood up to try and hold Ren down, by some fluke or[r]
+mischief, I had ended up pushing her down hard onto the[r]
+floor.[pcms]
 
 *1293|
 [fc]
@@ -914,8 +966,8 @@ The soft thing that my palm felt was... Ren's breast.[pcms]
 *1294|
 [fc]
 [ns]Wataru[nse]
-"Sorry. I mean, I didn't intend to touch you, it was an accident... I'm really[r]
-sorry!!"[pcms]
+"Sorry. I mean, I didn't intend to touch you, it was an[r]
+accident... I'm really sorry!!"[pcms]
 
 *1295|
 [fc]
@@ -925,18 +977,20 @@ sorry!!"[pcms]
 
 *1296|
 [fc]
-Ren's voice came from behind me. It sounded a bit exasperated, maybe even[r]
-sympathetic. Or is that just my imagination?[pcms]
+Ren's voice came from behind me. It sounded a bit[r]
+exasperated, maybe even sympathetic. Or is that just my[r]
+imagination?[pcms]
 
 *1297|
 [fc]
-I sheepishly returned to my original spot and sat down again in front of Ren.[pcms]
+I sheepishly returned to my original spot and sat down again[r]
+in front of Ren.[pcms]
 
 *1298|
 [fc]
 [ns]Wataru[nse]
-"Sorry, Ren. I didn't mean to push you down or anything, it was just some kind[r]
-of fluke..."[pcms]
+"Sorry, Ren. I didn't mean to push you down or anything, it[r]
+was just some kind of fluke..."[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d14"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -944,8 +998,8 @@ of fluke..."[pcms]
 [fc]
 [vo_ren s="ren0064"]
 [ns]Ren[nse]
-"It's fine already. Shall we eat instead? The somen noodles are going to get[r]
-cold, you know?"[pcms]
+"It's fine already. Shall we eat instead? The somen noodles[r]
+are going to get cold, you know?"[pcms]
 
 *1300|
 [fc]
@@ -954,13 +1008,13 @@ cold, you know?"[pcms]
 
 *1301|
 [fc]
-Feeling somewhat guilty even after hearing Ren's words, I turned on the TV to[r]
-hide the awkward atmosphere.[pcms]
+Feeling somewhat guilty even after hearing Ren's words, I[r]
+turned on the TV to hide the awkward atmosphere.[pcms]
 
 *1302|
 [fc]
-The channel that came on was broadcasting the news, covering a story about zoo[r]
-animals struggling with the heat.[pcms]
+The channel that came on was broadcasting the news, covering[r]
+a story about zoo animals struggling with the heat.[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d8"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -979,33 +1033,36 @@ animals struggling with the heat.[pcms]
 
 *1305|
 [fc]
-While I wondered why she found that cute, Ren seemed interested, so I left the[r]
-channel as it was and we started eating our dinner.[pcms]
+While I wondered why she found that cute, Ren seemed[r]
+interested, so I left the channel as it was and we started[r]
+eating our dinner.[pcms]
 
 *1306|
 [fc]
-The commotion had caused the noodles to stretch out a bit, but as we slurped the[r]
-still-chilled somen, the zoo news ended and switched to today's events.[pcms]
+The commotion had caused the noodles to stretch out a bit,[r]
+but as we slurped the still-chilled somen, the zoo news[r]
+ended and switched to today's events.[pcms]
 
 *1307|
 [fc]
-Without bothering to change the channel, the words "Tohoku Infection Disaster"[r]
-suddenly caught my attention.[pcms]
+Without bothering to change the channel, the words "Tohoku[r]
+Infection Disaster" suddenly caught my attention.[pcms]
 
 *1308|
 [fc]
 [vo_mob s="ana0001A"]
 [ns]Announcer[nse]
-"Today marks the 10th hearing at the Tokyo High Court regarding the 'Tohoku[r]
-Infection Disaster' lawsuit--"[pcms]
+"Today marks the 10th hearing at the Tokyo High Court[r]
+regarding the 'Tohoku Infection Disaster' lawsuit--"[pcms]
 ;//〆ボイスa、b有り
 
 *1309|
 [fc]
 [vo_mob s="ana0002"]
 [ns]Announcer[nse]
-"The legal team for the families affected by the infection claims that even[r]
-after four years have passed since the incident, they still haven't received--"[pcms]
+"The legal team for the families affected by the infection[r]
+claims that even after four years have passed since the[r]
+incident, they still haven't received--"[pcms]
 
 *1310|
 [fc]
@@ -1023,7 +1080,8 @@ after four years have passed since the incident, they still haven't received--"[
 *1312|
 [fc]
 [ns]Wataru[nse]
-"No... I was just thinking that it's been four years since mom passed away."[pcms]
+"No... I was just thinking that it's been four years since[r]
+mom passed away."[pcms]
 
 [ChrSetEx layer=1 chbase="ren_d11"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
@@ -1044,18 +1102,18 @@ after four years have passed since the incident, they still haven't received--"[
 
 *1314|
 [fc]
-Ren answered with a pained expression, and I naturally found myself reminiscing[r]
-about what happened four years ago.[pcms]
+Ren answered with a pained expression, and I naturally found[r]
+myself reminiscing about what happened four years ago.[pcms]
 
 *1315|
 [fc]
-Up until four years ago, it was a family tradition for us to spend our summer[r]
-vacations in Akita, my mother's hometown.[pcms]
+Up until four years ago, it was a family tradition for us to[r]
+spend our summer vacations in Akita, my mother's hometown.[pcms]
 
 *1316|
 [fc]
-Mom would go ahead with the three of us kids to Akita, and Dad would join us[r]
-later after taking his Obon holiday.[pcms]
+Mom would go ahead with the three of us kids to Akita, and[r]
+Dad would join us later after taking his Obon holiday.[pcms]
 
 *1317|
 [fc]
@@ -1063,39 +1121,44 @@ That was always the style.[pcms]
 
 *1318|
 [fc]
-Yes... It could be said that it was always our style, as if we had been a single[r]
-family unit from the very beginning.[pcms]
+Yes... It could be said that it was always our style, as if[r]
+we had been a single family unit from the very beginning.[pcms]
 
 *1319|
 [fc]
-In reality, it was only after my mom and dad remarried each other, each with[r]
-their own children, that the four of us started spending time together. Before[r]
-that, it was just my mom and me going back to Akita.[pcms]
+In reality, it was only after my mom and dad remarried each[r]
+other, each with their own children, that the four of us[r]
+started spending time together. Before that, it was just my[r]
+mom and me going back to Akita.[pcms]
 
 *1320|
 [fc]
-I don't know much about my real father, who he was or why he and my mom split[r]
-up, because I was too young to remember anything.[pcms]
+I don't know much about my real father, who he was or why he[r]
+and my mom split up, because I was too young to remember[r]
+anything.[pcms]
 
 *1321|
 [fc]
-I've heard that Ren's mother was frail, just like Ren, and passed away soon[r]
-after giving birth to her. But maybe that was for the best.[pcms]
+I've heard that Ren's mother was frail, just like Ren, and[r]
+passed away soon after giving birth to her. But maybe that[r]
+was for the best.[pcms]
 
 *1322|
 [fc]
-For me, who grew up without knowing my biological father's face, the man I call[r]
-Dad is Ren's current father, even though we're not related by blood. And I[r]
-suppose it's the same for Ren with her mother.[pcms]
+For me, who grew up without knowing my biological father's[r]
+face, the man I call Dad is Ren's current father, even[r]
+though we're not related by blood. And I suppose it's the[r]
+same for Ren with her mother.[pcms]
 
 *1323|
 [fc]
-Even when our family grew to four people, Grandpa and Grandma always welcomed us[r]
-warmly.[pcms]
+Even when our family grew to four people, Grandpa and[r]
+Grandma always welcomed us warmly.[pcms]
 
 *1324|
 [fc]
-And Ren and Dad, originally from Tokyo, quickly grew fond of Akita as well.[pcms]
+And Ren and Dad, originally from Tokyo, quickly grew fond of[r]
+Akita as well.[pcms]
 
 *1325|
 [fc]
@@ -1103,62 +1166,68 @@ Of course, I also loved spending summers in Akita.[pcms]
 
 *1326|
 [fc]
-It wasn't a city surrounded by concrete and asphalt everywhere like Tokyo, but a[r]
-place rich in nature.[pcms]
+It wasn't a city surrounded by concrete and asphalt[r]
+everywhere like Tokyo, but a place rich in nature.[pcms]
 
 *1327|
 [fc]
-The food was delicious, the people were warm and kind, and the relaxed pace of[r]
-life there was almost unbelievable for the same Japan.[pcms]
+The food was delicious, the people were warm and kind, and[r]
+the relaxed pace of life there was almost unbelievable for[r]
+the same Japan.[pcms]
 
 *1328|
 [fc]
-Maybe, even though I was born and raised in Tokyo, the blood flowing through me[r]
-matched well with Akita.[pcms]
+Maybe, even though I was born and raised in Tokyo, the blood[r]
+flowing through me matched well with Akita.[pcms]
 
 *1329|
 [fc]
-And above all, the starry sky seen from the mountain behind Grandpa's house was[r]
-the best.[pcms]
+And above all, the starry sky seen from the mountain behind[r]
+Grandpa's house was the best.[pcms]
 
 *1330|
 [fc]
-I would lie down on the grassy hilltop and gaze at the twinkling stars until Mom[r]
-came to pick me up.[pcms]
+I would lie down on the grassy hilltop and gaze at the[r]
+twinkling stars until Mom came to pick me up.[pcms]
 
 *1331|
 [fc]
-Perhaps my love for stars originated from those starry skies in Akita.[pcms]
+Perhaps my love for stars originated from those starry skies[r]
+in Akita.[pcms]
 
 *1332|
 [fc]
-Of course, once Ren and Dad started coming to Akita, Ren also joined in on the[r]
-stargazing from the mountain.[pcms]
+Of course, once Ren and Dad started coming to Akita, Ren[r]
+also joined in on the stargazing from the mountain.[pcms]
 
 ;//BG：EV002B
 ;//<ImageLoad 4,EV002b.bmp><UpDate Cross,1000>
 
 *1333|
 [fc]
-After that, I didn't need Mom to come pick me up anymore; I would make sure to[r]
-go home on my own.[pcms]
+After that, I didn't need Mom to come pick me up anymore; I[r]
+would make sure to go home on my own.[pcms]
 
 *1334|
 [fc]
-After all, Ren would always fall asleep while gazing at the stars, without fail.[pcms]
+After all, Ren would always fall asleep while gazing at the[r]
+stars, without fail.[pcms]
 
 *1335|
 [fc]
-And carrying a sleeping Ren on my back on the way home became my new routine.[pcms]
+And carrying a sleeping Ren on my back on the way home[r]
+became my new routine.[pcms]
 
 *1336|
 [fc]
-Once we got home, we'd eat the watermelon Grandma had cut for us and discuss[r]
-with Grandpa the insect traps we planned to set up early in the morning.[pcms]
+Once we got home, we'd eat the watermelon Grandma had cut[r]
+for us and discuss with Grandpa the insect traps we planned[r]
+to set up early in the morning.[pcms]
 
 *1337|
 [fc]
-That was always something I looked forward to... it was very happy times.[pcms]
+That was always something I looked forward to... it was very[r]
+happy times.[pcms]
 
 *1338|
 [fc]
@@ -1166,13 +1235,14 @@ But that year was--[pcms]
 
 *1339|
 [fc]
-Mom, worried about Grandpa's failing health, decided to return to Akita alone a[r]
-bit earlier.[pcms]
+Mom, worried about Grandpa's failing health, decided to[r]
+return to Akita alone a bit earlier.[pcms]
 
 *1340|
 [fc]
-We tried to go with her, but I was too engrossed in the stars and my grades[r]
-weren't good enough to get into the same school as Ren.[pcms]
+We tried to go with her, but I was too engrossed in the[r]
+stars and my grades weren't good enough to get into the same[r]
+school as Ren.[pcms]
 
 *1341|
 [fc]
@@ -1180,8 +1250,9 @@ I was forcibly enrolled in a cram school's summer course.[pcms]
 
 *1342|
 [fc]
-Ren didn't need to, but she joined me in attending the summer course, and we[r]
-planned to go with Dad during his Bon holiday break.[pcms]
+Ren didn't need to, but she joined me in attending the[r]
+summer course, and we planned to go with Dad during his Bon[r]
+holiday break.[pcms]
 
 *1343|
 [fc]
@@ -1212,7 +1283,8 @@ And then the fateful August 6th.[pcms]
 
 *1345|
 [fc]
-Yes... I think Mom got caught up in that "Tohoku Infection Disaster."[pcms]
+Yes... I think Mom got caught up in that "Tohoku Infection[r]
+Disaster."[pcms]
 
 *1346|
 [fc]
@@ -1220,13 +1292,15 @@ I really don't know what happened.[pcms]
 
 *1347|
 [fc]
-After all, since that day, there's been no cell phone connection, and her life[r]
-or death, her whereabouts remain unknown... not even her body has been found.[pcms]
+After all, since that day, there's been no cell phone[r]
+connection, and her life or death, her whereabouts remain[r]
+unknown... not even her body has been found.[pcms]
 
 *1348|
 [fc]
-But considering there's been no contact from Grandpa or Grandma either, it's[r]
-natural to assume that all three were caught up in the disaster.[pcms]
+But considering there's been no contact from Grandpa or[r]
+Grandma either, it's natural to assume that all three were[r]
+caught up in the disaster.[pcms]
 
 *1349|
 [fc]
@@ -1242,9 +1316,10 @@ Such hope still resides in our family's hearts.[pcms]
 
 *1352|
 [fc]
-However, considering the extent of the damage and the survival rate of those[r]
-involved, it's only realistic to despair for Mom and the others' survival, and[r]
-we held a funeral without a body to come to terms with our feelings.[pcms]
+However, considering the extent of the damage and the[r]
+survival rate of those involved, it's only realistic to[r]
+despair for Mom and the others' survival, and we held a[r]
+funeral without a body to come to terms with our feelings.[pcms]
 
 *1353|
 [fc]
@@ -1268,8 +1343,8 @@ Now unreachable, the precious place I can no longer visit.[pcms]
 
 *1358|
 [fc]
-Four years have passed, and naturally, I feel lonely, but still, I have my kind[r]
-father and my cute sister Ren.[pcms]
+Four years have passed, and naturally, I feel lonely, but[r]
+still, I have my kind father and my cute sister Ren.[pcms]
 
 *1359|
 [fc]
@@ -1287,26 +1362,28 @@ I'm okay...[pcms]
 
 *1361|
 [fc]
-Dinner ended with a somewhat disheartened mood, and Ren took my dishes down with[r]
-hers as she returned to her room.[pcms]
+Dinner ended with a somewhat disheartened mood, and Ren took[r]
+my dishes down with hers as she returned to her room.[pcms]
 
 ;//BG：夜空（星のない空）
 [bg storage="bgs008c"][trans_c cross time=500]
 
 *1362|
 [fc]
-Glancing out the window, I saw the dazzling city lights contrasting with the[r]
-dark sky where not a single star could be seen.[pcms]
+Glancing out the window, I saw the dazzling city lights[r]
+contrasting with the dark sky where not a single star could[r]
+be seen.[pcms]
 
 *1363|
 [fc]
-If I were to use a clich expression, it would be as if the stars from heaven had[r]
-descended to the earth?[pcms]
+If I were to use a clich expression, it would be as if the[r]
+stars from heaven had descended to the earth?[pcms]
 
 *1364|
 [fc]
-The true brilliance of the heavenly stars is hundreds of times more divine and[r]
-mystical than these false earthly stars.[pcms]
+The true brilliance of the heavenly stars is hundreds of[r]
+times more divine and mystical than these false earthly[r]
+stars.[pcms]
 
 *1365|
 [fc]
@@ -1315,26 +1392,29 @@ mystical than these false earthly stars.[pcms]
 
 *1366|
 [fc]
-Someone's words I read somewhere. But truly, there is no sky in Tokyo.[pcms]
+Someone's words I read somewhere. But truly, there is no sky[r]
+in Tokyo.[pcms]
 
 *1367|
 [fc]
-All there is are fake skies hidden by the neon lights' splendor.[pcms]
+All there is are fake skies hidden by the neon lights'[r]
+splendor.[pcms]
 
 *1368|
 [fc]
 [ns]Wataru[nse]
-"Looks like I can't love my birthplace like Mom did after all."[pcms]
+"Looks like I can't love my birthplace like Mom did after[r]
+all."[pcms]
 
 *1369|
 [fc]
-All I feel everywhere is a sense of discomfort and alienation, leaving me[r]
-empty...[pcms]
+All I feel everywhere is a sense of discomfort and[r]
+alienation, leaving me empty...[pcms]
 
 *1370|
 [fc]
-The place where my heart can truly rest might have been lost four years ago on[r]
-that day.[pcms]
+The place where my heart can truly rest might have been lost[r]
+four years ago on that day.[pcms]
 
 *1371|
 [fc]
@@ -1358,13 +1438,13 @@ Yes, along with Mom, forever.[pcms]
 
 *1373|
 [fc]
-Suddenly hearing Ren's voice snapped me back to reality, and my face turned[r]
-pale.[pcms]
+Suddenly hearing Ren's voice snapped me back to reality, and[r]
+my face turned pale.[pcms]
 
 *1374|
 [fc]
-The voice came from the next room so it was faint; it might have been a[r]
-mistake... but that was definitely a scream.[pcms]
+The voice came from the next room so it was faint; it might[r]
+have been a mistake... but that was definitely a scream.[pcms]
 
 *1375|
 [fc]
@@ -1386,8 +1466,8 @@ I rushed out of my room and knocked on Ren's door.[pcms]
 
 *1377|
 [fc]
-When I tried to open it, I realized that it wouldn't budge, probably due to its[r]
-weight.[pcms]
+When I tried to open it, I realized that it wouldn't budge,[r]
+probably due to its weight.[pcms]
 
 *1378|
 [fc]
@@ -1402,13 +1482,13 @@ weight.[pcms]
 
 *1380|
 [fc]
-The voice didn't sound like someone who just stubbed their toe, but if the door[r]
-won't open, I can't go in to check.[pcms]
+The voice didn't sound like someone who just stubbed their[r]
+toe, but if the door won't open, I can't go in to check.[pcms]
 
 *1381|
 [fc]
-The voice sounded close for being through a door; probably because Ren herself[r]
-was leaning against it.[pcms]
+The voice sounded close for being through a door; probably[r]
+because Ren herself was leaning against it.[pcms]
 
 *1382|
 [fc]
@@ -1429,9 +1509,10 @@ was leaning against it.[pcms]
 
 *1385|
 [fc]
-Ren's voice was a bit shaky as if she had hit her toe quite hard, but despite[r]
-our earlier stubborn fight, my sister apologizing so meekly made her seem so[r]
-dear to me that I smiled.[pcms]
+Ren's voice was a bit shaky as if she had hit her toe quite[r]
+hard, but despite our earlier stubborn fight, my sister[r]
+apologizing so meekly made her seem so dear to me that I[r]
+smiled.[pcms]
 
 *1386|
 [fc]
@@ -1446,7 +1527,8 @@ dear to me that I smiled.[pcms]
 
 *1388|
 [fc]
-Hearing Ren's voice reassured me, and I returned to my own room.[pcms]
+Hearing Ren's voice reassured me, and I returned to my own[r]
+room.[pcms]
 
 ;//〆：黒画面
 ;[fadeoutbgm time=500]

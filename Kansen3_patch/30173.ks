@@ -36,8 +36,9 @@
 
 *1296|
 [fc]
-When I rushed to the end of the pool side of the gymnasium roof, I found a crowd[r]
-of infected people already gathered by the side of the corridor roof.[pcms]
+When I rushed to the end of the pool side of the gymnasium[r]
+roof, I found a crowd of infected people already gathered by[r]
+the side of the corridor roof.[pcms]
 
 *1297|
 [fc]
@@ -64,7 +65,8 @@ What is that...?[pcms]
 
 *1299|
 [fc]
-The lewd scene that jumped into my eyes. I thought it was a lie.[pcms]
+The lewd scene that jumped into my eyes. I thought it was a[r]
+lie.[pcms]
 
 *1300|
 [fc]
@@ -82,7 +84,8 @@ But... I couldn't take my eyes off it.[pcms]
 [fc]
 [vo_yuh s="yuho0128"]
 [ns]Yuuho[nse]
-"Stop! Don't put it in... Nnguh! Nju... at the same time... nngung..."[pcms]
+"Stop! Don't put it in... Nnguh! Nju... at the same time...[r]
+nngung..."[pcms]
 
 *1304|
 [fc]
@@ -91,19 +94,21 @@ But... I couldn't take my eyes off it.[pcms]
 
 *1305|
 [fc]
-The reality I didn't want to admit came crashing down on me as something real[r]
-when I muttered my own words and suddenly came back to myself.[pcms]
+The reality I didn't want to admit came crashing down on me[r]
+as something real when I muttered my own words and suddenly[r]
+came back to myself.[pcms]
 
 *1306|
 [fc]
-Yuuho was being violated. Even though she was resisting, she was overpowered by[r]
-the many and forced to take men's things in her pussy and mouth at the same[r]
-time.[pcms]
+Yuuho was being violated. Even though she was resisting, she[r]
+was overpowered by the many and forced to take men's things[r]
+in her pussy and mouth at the same time.[pcms]
 
 *1307|
 [fc]
-And here I am, powerless. The girl I like, the girl I love is being violated,[r]
-and I can't do anything, how foolish I am.[pcms]
+And here I am, powerless. The girl I like, the girl I love[r]
+is being violated, and I can't do anything, how foolish I[r]
+am.[pcms]
 
 *1308|
 [fc]
@@ -128,25 +133,26 @@ No, she definitely noticed. Our eyes met.[pcms]
 [fc]
 [vo_yuh s="yuho0130"]
 [ns]Yuuho[nse]
-"Wacha... nnh! Haaah!! Ah, nngu, ngu... don't look, Wata... nnfu, so intense...[r]
-hyaaan!!"[pcms]
+"Wacha... nnh! Haaah!! Ah, nngu, ngu... don't look, Wata...[r]
+nnfu, so intense... hyaaan!!"[pcms]
 
 *1313|
 [fc]
-The man behind Yuuho whispered something into her ear and then firmly grabbed[r]
-her hips and began to move vigorously.[pcms]
+The man behind Yuuho whispered something into her ear and[r]
+then firmly grabbed her hips and began to move vigorously.[pcms]
 
 *1314|
 [fc]
 [vo_yuh s="yuho0131"]
 [ns]Yuuho[nse]
-"Hyah, stop... it's going to make me come... nnh, haa... aahaaan!"[pcms]
+"Hyah, stop... it's going to make me come... nnh, haa...[r]
+aahaaan!"[pcms]
 
 *1315|
 [fc]
-The man's thrusting became gradually more intense. Even from where I was, I[r]
-could clearly see the movement of the man's thing appearing and disappearing[r]
-inside Yuuho.[pcms]
+The man's thrusting became gradually more intense. Even from[r]
+where I was, I could clearly see the movement of the man's[r]
+thing appearing and disappearing inside Yuuho.[pcms]
 
 *1316|
 [fc]
@@ -156,9 +162,10 @@ inside Yuuho.[pcms]
 
 *1317|
 [fc]
-With the man's intense movements as if slamming all his desire into her, Yuuho's[r]
-expression gradually changed to that of the female students I had seen inside[r]
-the school building.[pcms]
+With the man's intense movements as if slamming all his[r]
+desire into her, Yuuho's expression gradually changed to[r]
+that of the female students I had seen inside the school[r]
+building.[pcms]
 
 *1318|
 [fc]
@@ -168,8 +175,9 @@ the school building.[pcms]
 
 *1319|
 [fc]
-The moment Yuuho let out an especially loud cry, men's semen splattered on her[r]
-face, and probably... most likely, semen was also poured inside her.[pcms]
+The moment Yuuho let out an especially loud cry, men's semen[r]
+splattered on her face, and probably... most likely, semen[r]
+was also poured inside her.[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV004c"]
@@ -213,7 +221,8 @@ Kousuke's voice came from behind me.[pcms]
 
 *1326|
 [fc]
-My intense voice ended up drawing Kousuke and the senior closer instead.[pcms]
+My intense voice ended up drawing Kousuke and the senior[r]
+closer instead.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -224,13 +233,14 @@ My intense voice ended up drawing Kousuke and the senior closer instead.[pcms]
 
 *1328|
 [fc]
-Kousuke's voice came out as if he couldn't believe it, rather than not wanting[r]
-to believe it. I didn't want to believe it either.[pcms]
+Kousuke's voice came out as if he couldn't believe it,[r]
+rather than not wanting to believe it. I didn't want to[r]
+believe it either.[pcms]
 
 *1329|
 [fc]
-But... right before our eyes, Yuuho began to move her hips as if seeking[r]
-pleasure.[pcms]
+But... right before our eyes, Yuuho began to move her hips[r]
+as if seeking pleasure.[pcms]
 
 [evcg storage="HEV004d"][trans_c cross time=300]
 
@@ -249,8 +259,8 @@ pleasure.[pcms]
 [fc]
 [vo_yuh s="yuho0135"]
 [ns]Yuuho[nse]
-"Nnhah... Wataru? You too... want to thrust into my pussy? Ahhaaahn, good,[r]
-good... right thereee!"[pcms]
+"Nnhah... Wataru? You too... want to thrust into my pussy?[r]
+Ahhaaahn, good, good... right thereee!"[pcms]
 
 *1333|
 [fc]
@@ -274,8 +284,8 @@ good... right thereee!"[pcms]
 [fc]
 [vo_mar s="maru0184"]
 [ns]Margarita[nse]
-"It's no use. Once she's become like that, it's over. If you go now, you'll just[r]
-become one of them."[pcms]
+"It's no use. Once she's become like that, it's over. If you[r]
+go now, you'll just become one of them."[pcms]
 
 *1336|
 [fc]
@@ -284,8 +294,8 @@ become one of them."[pcms]
 
 *1337|
 [fc]
-Tears started to overflow. Why didn't I reach Yuuho sooner? Why not sooner...[r]
-sooner.[pcms]
+Tears started to overflow. Why didn't I reach Yuuho sooner?[r]
+Why not sooner... sooner.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -300,7 +310,8 @@ sooner.[pcms]
 *1339|
 [fc]
 [ns]Kousuke[nse]
-"Let's go? Just because you're a senior doesn't mean... I've had enough."[pcms]
+"Let's go? Just because you're a senior doesn't mean... I've[r]
+had enough."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -308,9 +319,10 @@ sooner.[pcms]
 [fc]
 [vo_mar s="maru0186"]
 [ns]Margarita[nse]
-"You know what happens when you get infected with that virus. I thought you, a[r]
-Japanese person, would understand better than me, a foreigner, since you[r]
-experienced the outbreak four years ago."[pcms]
+"You know what happens when you get infected with that[r]
+virus. I thought you, a Japanese person, would understand[r]
+better than me, a foreigner, since you experienced the[r]
+outbreak four years ago."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -325,13 +337,13 @@ experienced the outbreak four years ago."[pcms]
 [fc]
 [vo_mar s="maru0187"]
 [ns]Margarita[nse]
-"Think of it as losing if you lose your composure. It's cruel but sometimes you[r]
-have to cut things off to survive."[pcms]
+"Think of it as losing if you lose your composure. It's[r]
+cruel but sometimes you have to cut things off to survive."[pcms]
 
 *1343|
 [fc]
-I heard the voices of the senior and Kousuke as if they were coming from another[r]
-dimension.[pcms]
+I heard the voices of the senior and Kousuke as if they were[r]
+coming from another dimension.[pcms]
 
 ;//BG：EV014（使い回し）
 
@@ -345,8 +357,8 @@ dimension.[pcms]
 
 *1345|
 [fc]
-Even though Ren should have been held by Kousuke, she somehow got down and[r]
-gently hugged me.[pcms]
+Even though Ren should have been held by Kousuke, she[r]
+somehow got down and gently hugged me.[pcms]
 
 *1346|
 [fc]
@@ -357,8 +369,8 @@ gently hugged me.[pcms]
 *1347|
 [fc]
 [ns]Wataru[nse]
-"It's my fault... If only I had reached Ren sooner... If only I had found Yuuho[r]
-sooner."[pcms]
+"It's my fault... If only I had reached Ren sooner... If[r]
+only I had found Yuuho sooner."[pcms]
 
 *1348|
 [fc]
@@ -368,8 +380,9 @@ sooner."[pcms]
 
 *1349|
 [fc]
-Feeling the warmth of Ren, who gently hugged me as I was on the verge of tears,[r]
-I hugged her tightly in return and forcibly swallowed my tears.[pcms]
+Feeling the warmth of Ren, who gently hugged me as I was on[r]
+the verge of tears, I hugged her tightly in return and[r]
+forcibly swallowed my tears.[pcms]
 
 *1350|
 [fc]
@@ -381,24 +394,28 @@ The warmth of Ren... I have to protect this warmth.[pcms]
 
 *1351|
 [fc]
-When I looked down, I could see Yuuho, who was in the throes of ecstasy.[pcms]
+When I looked down, I could see Yuuho, who was in the throes[r]
+of ecstasy.[pcms]
 
 *1352|
 [fc]
 [vo_yuh s="yuho0136"]
 [ns]Yuuho[nse]
-"Ah, ah, ah. Good... good. It feels amazing to have my pussy rubbed... Ahn!"[pcms]
+"Ah, ah, ah. Good... good. It feels amazing to have my pussy[r]
+rubbed... Ahn!"[pcms]
 
 *1353|
 [fc]
 [vo_yuh s="yuho0137"]
 [ns]Yuuho[nse]
-"Ah, hyaaahnn. There, there, more... Ahfuuu, I'm coming. I'm going to come."[pcms]
+"Ah, hyaaahnn. There, there, more... Ahfuuu, I'm coming. I'm[r]
+going to come."[pcms]
 
 *1354|
 [fc]
 [ns]Wataru[nse]
-"Yuuho... you might not have noticed, but I've always, always liked you."[pcms]
+"Yuuho... you might not have noticed, but I've always,[r]
+always liked you."[pcms]
 
 *1355|
 [fc]
@@ -409,13 +426,13 @@ When I looked down, I could see Yuuho, who was in the throes of ecstasy.[pcms]
 [fc]
 [vo_yuh s="yuho0138"]
 [ns]Yuuho[nse]
-"Hafuuu... Amazing semen, so much semen... Aaahhh. It's overflowing in my pussy.[r]
-It's overflowing."[pcms]
+"Hafuuu... Amazing semen, so much semen... Aaahhh. It's[r]
+overflowing in my pussy. It's overflowing."[pcms]
 
 *1357|
 [fc]
-It seemed like my voice wasn't reaching Yuuho's ears anymore. But still, I[r]
-couldn't help but say it.[pcms]
+It seemed like my voice wasn't reaching Yuuho's ears[r]
+anymore. But still, I couldn't help but say it.[pcms]
 
 *1358|
 [fc]
@@ -428,8 +445,8 @@ Perhaps, to say goodbye to my feelings of love.[pcms]
 
 *1360|
 [fc]
-If only I hadn't worried about being rejected or not being a good match, I[r]
-should have confessed to Yuuho sooner.[pcms]
+If only I hadn't worried about being rejected or not being a[r]
+good match, I should have confessed to Yuuho sooner.[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -449,8 +466,8 @@ should have confessed to Yuuho sooner.[pcms]
 
 *1361|
 [fc]
-Wiping away the last tear with a jerk, I silently started walking after the[r]
-senior who had gone ahead.[pcms]
+Wiping away the last tear with a jerk, I silently started[r]
+walking after the senior who had gone ahead.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -475,14 +492,15 @@ senior who had gone ahead.[pcms]
 
 *1365|
 [fc]
-Watching the back of the senior as she leaped across the gap between the[r]
-gymnasium and the annex building, I started to feel that maybe she wasn't just a[r]
-strict person after all.[pcms]
+Watching the back of the senior as she leaped across the gap[r]
+between the gymnasium and the annex building, I started to[r]
+feel that maybe she wasn't just a strict person after all.[pcms]
 
 *1366|
 [fc]
 [ns]Wataru[nse]
-"Ren, can you jump by yourself? Or do you want to jump together with me?"[pcms]
+"Ren, can you jump by yourself? Or do you want to jump[r]
+together with me?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -498,14 +516,15 @@ strict person after all.[pcms]
 [fc]
 [vo_mar s="maru0190"]
 [ns]Margarita[nse]
-"Even though this side is more stable, it's dangerous for two people to jump[r]
-together. If it's just your sister, even I can catch her, so jump with[r]
-confidence."[pcms]
+"Even though this side is more stable, it's dangerous for[r]
+two people to jump together. If it's just your sister, even[r]
+I can catch her, so jump with confidence."[pcms]
 
 *1369|
 [fc]
-Looking at the senior who turned around and reached out her hand to us, I felt[r]
-happy that what I thought earlier wasn't a misunderstanding.[pcms]
+Looking at the senior who turned around and reached out her[r]
+hand to us, I felt happy that what I thought earlier wasn't[r]
+a misunderstanding.[pcms]
 
 ;//→block:30174へ
 [jump storage="30174.ks" target=*30174_TOP]

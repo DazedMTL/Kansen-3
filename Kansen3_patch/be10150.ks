@@ -18,7 +18,8 @@
 
 *1175|
 [fc]
-Maruko-senpai was rolling her eyes back and bleeding from her mouth, dead.[pcms]
+Maruko-senpai was rolling her eyes back and bleeding from[r]
+her mouth, dead.[pcms]
 
 *1176|
 [fc]
@@ -26,7 +27,8 @@ Her body was left with the brutal marks of being violated.[pcms]
 
 *1177|
 [fc]
-Maruko-senpai, who was so strong... she was never fazed by men...[pcms]
+Maruko-senpai, who was so strong... she was never fazed by[r]
+men...[pcms]
 
 ;//ÅâÅFÇ±ÇÃíiäKÇ≈ÇÕåƒÇ—ñºÇÕêÊîyÇ©Ç‡ÇµÇÍÇ‹ÇπÇÒ
 
@@ -45,15 +47,16 @@ Maybe...[pcms]
 
 *1181|
 [fc]
-I thought she might have been roughed up by the men, but I never imagined they[r]
-would kill her...[pcms]
+I thought she might have been roughed up by the men, but I[r]
+never imagined they would kill her...[pcms]
 
 [bg storage="BG019c"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
 
 *1182|
 [fc]
-A little away from the mattress, Jin-san's corpse was lying there.[pcms]
+A little away from the mattress, Jin-san's corpse was lying[r]
+there.[pcms]
 
 *1183|
 [fc]
@@ -61,11 +64,13 @@ Could it have been infighting?[pcms]
 
 *1184|
 [fc]
-If Jin-san had been the boss, maybe this wouldn't have happened...[pcms]
+If Jin-san had been the boss, maybe this wouldn't have[r]
+happened...[pcms]
 
 *1185|
 [fc]
-I don't know the circumstances, but maybe he was protecting everyone.[pcms]
+I don't know the circumstances, but maybe he was protecting[r]
+everyone.[pcms]
 
 *1186|
 [fc]
@@ -107,18 +112,20 @@ She's alive?! Ren is alive?![pcms]
 
 *1193|
 [fc]
-Kousuke and Mizuki, whom I had just said goodbye to, appeared from the spiral[r]
-staircase.[pcms]
+Kousuke and Mizuki, whom I had just said goodbye to,[r]
+appeared from the spiral staircase.[pcms]
 
 *1194|
 [fc]
-Just like me, they were speechless at the sight of this tragedy.[pcms]
+Just like me, they were speechless at the sight of this[r]
+tragedy.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1195|
 [fc]
-I don't know why they are here, but that's not what matters right now.[pcms]
+I don't know why they are here, but that's not what matters[r]
+right now.[pcms]
 
 [evcg storage="DEV014b"][trans_c cross time=300]
 
@@ -150,7 +157,8 @@ I don't know why they are here, but that's not what matters right now.[pcms]
 [fc]
 [vo_ren s="ren_BE0016"]
 [ns]Ren[nse]
-"I tried so hard because I wanted to see you one more time, big brother?"[pcms]
+"I tried so hard because I wanted to see you one more time,[r]
+big brother?"[pcms]
 
 *1201|
 [fc]
@@ -193,13 +201,15 @@ Right beside where Ren lay, there was a broken violin.[pcms]
 *1208|
 [fc]
 [ns]Wataru[nse]
-"Don't strain yourself, we're going to take you to the hospital right away..."[pcms]
+"Don't strain yourself, we're going to take you to the[r]
+hospital right away..."[pcms]
 
 *1209|
 [fc]
 [vo_ren s="ren_BE0019"]
 [ns]Ren[nse]
-"You know... I might not make it but I think the violin can be fixed"[pcms]
+"You know... I might not make it but I think the violin can[r]
+be fixed"[pcms]
 
 *1210|
 [fc]
@@ -290,7 +300,8 @@ And with those words, Ren... stopped moving.[pcms]
 
 *1227|
 [fc]
-I laid my head on Ren's body and cried as if I was covering her.[pcms]
+I laid my head on Ren's body and cried as if I was covering[r]
+her.[pcms]
 
 *1228|
 [fc]
@@ -313,7 +324,8 @@ Until I fix this violin, I can't die.[pcms]
 
 *1232|
 [fc]
-After crying for a while, I stood up without wiping away my tears.[pcms]
+After crying for a while, I stood up without wiping away my[r]
+tears.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -335,7 +347,8 @@ After crying for a while, I stood up without wiping away my tears.[pcms]
 [fc]
 [vo_miz s="mizuki_BE0077"]
 [ns]Mizuki[nse]
-"No, I don't want to be apart anymore... besides... I'm sure I also..."[pcms]
+"No, I don't want to be apart anymore... besides... I'm sure[r]
+I also..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -430,7 +443,8 @@ Kousuke pushed Mizuki towards me.[pcms]
 
 *1250|
 [fc]
-Kousuke showed me his arm that seemed to have been bitten by an infected person.[pcms]
+Kousuke showed me his arm that seemed to have been bitten by[r]
+an infected person.[pcms]
 
 *1251|
 [fc]
@@ -556,8 +570,9 @@ He was sweating slightly on his forehead.[pcms]
 [fc]
 [vo_miz s="mizuki_BE0088"]
 [ns]Mizuki[nse]
-"Promise me too... that you'll definitely come to save me, that a new vaccine[r]
-will surely be made, so wait here without moving..."[pcms]
+"Promise me too... that you'll definitely come to save me,[r]
+that a new vaccine will surely be made, so wait here without[r]
+moving..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -592,7 +607,8 @@ will surely be made, so wait here without moving..."[pcms]
 [fc]
 [vo_miz s="mizuki_BE0090"]
 [ns]Mizuki[nse]
-"I'll never say goodbye, I'll chase you to the ends of the earth!"[pcms]
+"I'll never say goodbye, I'll chase you to the ends of the[r]
+earth!"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -633,11 +649,13 @@ There was no longer a gunfight happening on the first floor.[pcms]
 
 *1282|
 [fc]
-Whether Shigeyoshi and the others had escaped or been taken down...[pcms]
+Whether Shigeyoshi and the others had escaped or been taken[r]
+down...[pcms]
 
 *1283|
 [fc]
-As a result, the first floor of LASER was overrun with infected.[pcms]
+As a result, the first floor of LASER was overrun with[r]
+infected.[pcms]
 
 *1284|
 [fc]
@@ -666,8 +684,8 @@ I can't die in a place like this.[pcms]
 *1290|
 [fc]
 [ns]Wataru[nse]
-"When I shoot the gun, run. To that emergency exit, without thinking of anything[r]
-else."[pcms]
+"When I shoot the gun, run. To that emergency exit, without[r]
+thinking of anything else."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -675,7 +693,8 @@ else."[pcms]
 [fc]
 [vo_miz s="mizuki_BE0091"]
 [ns]Mizuki[nse]
-"Understood. We have to save Kousuke. I'll definitely survive."[pcms]
+"Understood. We have to save Kousuke. I'll definitely[r]
+survive."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -701,8 +720,8 @@ We might be able to survive.[pcms]
 
 *1297|
 [fc]
-I pulled the trigger on an infected that seemed to be in the way of our[r]
-progress.[pcms]
+I pulled the trigger on an infected that seemed to be in the[r]
+way of our progress.[pcms]
 
 ;//se026ÅEèeê∫
 [se buf=0 storage="se026"]
@@ -725,7 +744,8 @@ progress.[pcms]
 
 *1300|
 [fc]
-Mizuki let out a battle cry and sprinted towards the emergency exit.[pcms]
+Mizuki let out a battle cry and sprinted towards the[r]
+emergency exit.[pcms]
 
 *1301|
 [fc]
@@ -733,7 +753,8 @@ I followed suit and started running as well.[pcms]
 
 *1302|
 [fc]
-The slowly moving infected couldn't react to us as we dashed straight past them.[pcms]
+The slowly moving infected couldn't react to us as we dashed[r]
+straight past them.[pcms]
 
 ;//se026ÅEèeê∫
 [se buf=0 storage="se026"]
@@ -747,7 +768,8 @@ I shot down the infected in our path as we advanced.[pcms]
 
 *1304|
 [fc]
-And... what we saw as we tumbled out of the emergency exit...[pcms]
+And... what we saw as we tumbled out of the emergency[r]
+exit...[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 

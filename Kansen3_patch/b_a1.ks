@@ -22,22 +22,25 @@ Let's head to the music room![pcms]
 
 *4337|
 [fc]
-After all, Ren is delicate and has limitations when it comes to physical[r]
-activities. I can't imagine we'd be able to escape, no matter how slow they are.[pcms]
+After all, Ren is delicate and has limitations when it comes[r]
+to physical activities. I can't imagine we'd be able to[r]
+escape, no matter how slow they are.[pcms]
 
 *4338|
 [fc]
-Considering the overwhelming numbers against us, the same could be said for[r]
-Yuuho, but at least she's faster than Ren...[pcms]
+Considering the overwhelming numbers against us, the same[r]
+could be said for Yuuho, but at least she's faster than[r]
+Ren...[pcms]
 
 *4339|
 [fc]
-Rather, she has better reflexes than me, so she should be fine.[pcms]
+Rather, she has better reflexes than me, so she should be[r]
+fine.[pcms]
 
 *4340|
 [fc]
-Telling myself that as an excuse, I tried not to think about Yuuho anymore and[r]
-headed towards the music room.[pcms]
+Telling myself that as an excuse, I tried not to think about[r]
+Yuuho anymore and headed towards the music room.[pcms]
 
 *4341|
 [fc]
@@ -45,8 +48,8 @@ If I didn't, I felt like I would never be able to move.[pcms]
 
 *4342|
 [fc]
-With a determined spirit, I readjusted the bag on my back and set out towards[r]
-the special classrooms building.[pcms]
+With a determined spirit, I readjusted the bag on my back[r]
+and set out towards the special classrooms building.[pcms]
 
 *4343|
 [fc]
@@ -54,8 +57,8 @@ But--[pcms]
 
 *4344|
 [fc]
-Somehow, the bag on my back feels unusually heavy. Or rather, it's awkward to[r]
-readjust.[pcms]
+Somehow, the bag on my back feels unusually heavy. Or[r]
+rather, it's awkward to readjust.[pcms]
 
 *4345|
 [fc]
@@ -69,8 +72,8 @@ A woman's laughter sounded eerily close.[pcms]
 
 *4347|
 [fc]
-With a chilling premonition, I turned my head slowly like an old mechanical doll[r]
-creaking as it moves.[pcms]
+With a chilling premonition, I turned my head slowly like an[r]
+old mechanical doll creaking as it moves.[pcms]
 
 *4348|
 [fc]
@@ -83,7 +86,8 @@ creaking as it moves.[pcms]
 [fc]
 [vo_mob s="onna_iti0015"]
 [ns]Infected Woman A[nse]
-"Where are you going? Let's do something pleasurable together."[pcms]
+"Where are you going? Let's do something pleasurable[r]
+together."[pcms]
 
 *4350|
 [fc]
@@ -92,11 +96,13 @@ creaking as it moves.[pcms]
 
 *4351|
 [fc]
-I thought about dropping my bag right there and running away.[pcms]
+I thought about dropping my bag right there and running[r]
+away.[pcms]
 
 *4352|
 [fc]
-But by the time I realized it, I had lost any chance of escape.[pcms]
+But by the time I realized it, I had lost any chance of[r]
+escape.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_c"][ChrSetXY layer=5 x=174 y=0][trans_c cross time=150]
 
@@ -112,7 +118,8 @@ But by the time I realized it, I had lost any chance of escape.[pcms]
 [fc]
 [vo_mob s="onna_san0003"]
 [ns]Infected Woman D[nse]
-"Aaahhh, my pussy, my pussy, stir it with your dick, pleaseee."[pcms]
+"Aaahhh, my pussy, my pussy, stir it with your dick,[r]
+pleaseee."[pcms]
 
 *4355|
 [fc]
@@ -150,13 +157,13 @@ But by the time I realized it, I had lost any chance of escape.[pcms]
 
 *4360|
 [fc]
-My screams as I was forcefully pushed down in the hallway were drowned out by[r]
-the women's moans...[pcms]
+My screams as I was forcefully pushed down in the hallway[r]
+were drowned out by the women's moans...[pcms]
 
 *4361|
 [fc]
-With a soft female body covering my mouth and nose, my consciousness was sealed[r]
-into darkness.[pcms]
+With a soft female body covering my mouth and nose, my[r]
+consciousness was sealed into darkness.[pcms]
 
 ;//〆：ゲームオーバー画面へ
 ;//jump：ブロック●●●●●

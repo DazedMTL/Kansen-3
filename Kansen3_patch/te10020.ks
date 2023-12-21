@@ -37,9 +37,9 @@
 *29|
 [fc]
 [ns]Wataru[nse]
-"Yeah. The gas attacks are starting tomorrow. I thought we might not be able to[r]
-come up here for a while, so I wanted to see the stars... even if just a[r]
-little."[pcms]
+"Yeah. The gas attacks are starting tomorrow. I thought we[r]
+might not be able to come up here for a while, so I wanted[r]
+to see the stars... even if just a little."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -47,16 +47,16 @@ little."[pcms]
 [fc]
 [vo_ren s="ren_TE0037"]
 [ns]Ren[nse]
-"Yeah. I wanted to see the night view with you, Onii-chan. And if we could see[r]
-the stars too, that would be nice... But the city lights are getting in the way,[r]
-aren't they..."[pcms]
+"Yeah. I wanted to see the night view with you, Onii-chan.[r]
+And if we could see the stars too, that would be nice... But[r]
+the city lights are getting in the way, aren't they..."[pcms]
 
 
 *30a|
 [fc]
 [ns]Wataru[nse]
-"Yeah, well, that can't be helped. Even so, we can still count a few of the[r]
-brighter stars."[pcms]
+"Yeah, well, that can't be helped. Even so, we can still[r]
+count a few of the brighter stars."[pcms]
 
 [evcg storage="EV019c"][trans_c cross time=300]
 
@@ -66,14 +66,15 @@ brighter stars."[pcms]
 [fc]
 [vo_ren s="ren_TE0038"]
 [ns]Ren[nse]
-"Ah, you're right. Hey, hey, Onii-chan. The moon is beautiful. I always have[r]
-this vague image of a summer moon..."[pcms]
+"Ah, you're right. Hey, hey, Onii-chan. The moon is[r]
+beautiful. I always have this vague image of a summer[r]
+moon..."[pcms]
 
 *32|
 [fc]
 [ns]Wataru[nse]
-"That's true. Maybe the air is clearer than usual summers because there aren't[r]
-any cars running around..."[pcms]
+"That's true. Maybe the air is clearer than usual summers[r]
+because there aren't any cars running around..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -94,15 +95,16 @@ any cars running around..."[pcms]
 [fc]
 [vo_ren s="ren_TE0040"]
 [ns]Ren[nse]
-"Onii-chan... We've been through a lot, haven't we? It's not over yet, but I[r]
-have a feeling that things will be different from tomorrow..."[pcms]
+"Onii-chan... We've been through a lot, haven't we? It's not[r]
+over yet, but I have a feeling that things will be different[r]
+from tomorrow..."[pcms]
 
 *36|
 [fc]
 [ns]Wataru[nse]
-"Yeah. I feel the same way about tomorrow. At least, once tomorrow is over, we[r]
-might start to see the possibility of returning to our lives as they were[r]
-before."[pcms]
+"Yeah. I feel the same way about tomorrow. At least, once[r]
+tomorrow is over, we might start to see the possibility of[r]
+returning to our lives as they were before."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -115,8 +117,9 @@ before."[pcms]
 *38|
 [fc]
 [ns]Wataru[nse]
-"Yeah. Don't worry, Ren. We've done everything we could, right? And it's not[r]
-just us. Everyone is together, so it'll be okay."[pcms]
+"Yeah. Don't worry, Ren. We've done everything we could,[r]
+right? And it's not just us. Everyone is together, so it'll[r]
+be okay."[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -134,8 +137,9 @@ just us. Everyone is together, so it'll be okay."[pcms]
 [fc]
 [vo_ren s="ren_TE0043"]
 [ns]Ren[nse]
-"You know, Onii-chan... I won't forget about Dad. It was a huge shock, but[r]
-because you were with me, I'm really okay now."[pcms]
+"You know, Onii-chan... I won't forget about Dad. It was a[r]
+huge shock, but because you were with me, I'm really okay[r]
+now."[pcms]
 
 *41|
 [fc]
@@ -148,21 +152,22 @@ because you were with me, I'm really okay now."[pcms]
 [fc]
 [vo_ren s="ren_TE0044"]
 [ns]Ren[nse]
-"No, I'm okay. It still makes me a little sad sometimes, but I have you, Onii-[r]
-chan..."[pcms]
+"No, I'm okay. It still makes me a little sad sometimes, but[r]
+I have you, Onii- chan..."[pcms]
 
 *43|
 [fc]
 [ns]Wataru[nse]
-"Ren, I won't forget about Mom either. Honestly, with what happened this time, I[r]
-sometimes wonder if Mom encountered something similar back then and it makes my[r]
-chest hurt."[pcms]
+"Ren, I won't forget about Mom either. Honestly, with what[r]
+happened this time, I sometimes wonder if Mom encountered[r]
+something similar back then and it makes my chest hurt."[pcms]
 
 *44|
 [fc]
 [ns]Wataru[nse]
-"But it's okay. I felt that I had to protect Ren for both Dad and Mom's sake. I[r]
-think I've become a little stronger because you were by my side."[pcms]
+"But it's okay. I felt that I had to protect Ren for both[r]
+Dad and Mom's sake. I think I've become a little stronger[r]
+because you were by my side."[pcms]
 
 [evcg storage="EV019b"][trans_c cross time=300]
 
@@ -172,13 +177,15 @@ think I've become a little stronger because you were by my side."[pcms]
 [fc]
 [vo_ren s="ren_TE0045"]
 [ns]Ren[nse]
-"Onii-chan... Thank you. Even though I've been nothing but trouble..."[pcms]
+"Onii-chan... Thank you. Even though I've been nothing but[r]
+trouble..."[pcms]
 
 *46|
 [fc]
 [ns]Wataru[nse]
-"That's not true. Because Ren is here, I have to be firm and become even[r]
-stronger. Ren, you've become the support for my heart."[pcms]
+"That's not true. Because Ren is here, I have to be firm and[r]
+become even stronger. Ren, you've become the support for my[r]
+heart."[pcms]
 
 [evcg storage="EV019c"][trans_c cross time=300]
 
@@ -192,14 +199,16 @@ stronger. Ren, you've become the support for my heart."[pcms]
 
 *48|
 [fc]
-The words I told Ren contained no lies. If it had been just me alone, I might[r]
-have given up a long time ago and even ended up joining them if I had been weak.[pcms]
+The words I told Ren contained no lies. If it had been just[r]
+me alone, I might have given up a long time ago and even[r]
+ended up joining them if I had been weak.[pcms]
 
 *49|
 [fc]
-Even after losing Dad and being left just the two of us, it was because we were[r]
-together that I could keep going until today... Hearing Ren's words made me look[r]
-back and deeply feel this.[pcms]
+Even after losing Dad and being left just the two of us, it[r]
+was because we were together that I could keep going until[r]
+today... Hearing Ren's words made me look back and deeply[r]
+feel this.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

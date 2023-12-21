@@ -36,19 +36,20 @@
 
 *5643|
 [fc]
-Considering the location of the descending escalator exit, the position on the[r]
-5th floor of the ascending exit is probably near the wall of the manga cafe's[r]
-office.[pcms]
+Considering the location of the descending escalator exit,[r]
+the position on the 5th floor of the ascending exit is[r]
+probably near the wall of the manga cafe's office.[pcms]
 
 *5644|
 [fc]
-It's not like it's really blocked by a wall, but if it were, there's always the[r]
-brute force method of shooting a hole and barging through when necessary.[pcms]
+It's not like it's really blocked by a wall, but if it were,[r]
+there's always the brute force method of shooting a hole and[r]
+barging through when necessary.[pcms]
 
 *5645|
 [fc]
-I peeked, but it's too dark to see anything up there without lighting. Maybe[r]
-I'll check again when it's brighter.[pcms]
+I peeked, but it's too dark to see anything up there without[r]
+lighting. Maybe I'll check again when it's brighter.[pcms]
 
 *5646|
 [fc]

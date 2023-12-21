@@ -55,13 +55,13 @@ She calls out to the two standing beside her.[pcms]
 
 *1752|
 [fc]
-Ren-chan is trembling a little, while Mizuki puts on a calm face, but still,[r]
-they both nod vigorously.[pcms]
+Ren-chan is trembling a little, while Mizuki puts on a calm[r]
+face, but still, they both nod vigorously.[pcms]
 
 *1753|
 [fc]
-We are looking down at Udagawa Street from the balcony of the "Dedepou" nap[r]
-room.[pcms]
+We are looking down at Udagawa Street from the balcony of[r]
+the "Dedepou" nap room.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -78,7 +78,8 @@ I tell this to the phone and then press the call end button.[pcms]
 
 *1756|
 [fc]
-The real performance begins... We have to lure them in properly![pcms]
+The real performance begins... We have to lure them in[r]
+properly![pcms]
 
 *1757|
 [fc]
@@ -90,7 +91,8 @@ I take a deep breath and then tense my stomach.[pcms]
 [fc]
 [vo_yuh s="yuho1547"]
 [ns]Yuuho[nse]
-"...Attention all infected passersby! Sorry to disturb you, we are survivors!!"[pcms]
+"...Attention all infected passersby! Sorry to disturb you,[r]
+we are survivors!!"[pcms]
 ;//ÅóÇ∑Å[Ç¡Ç∆ëÂÇ´Ç≠ëßÇãzÇ¢çûÇÒÇ≈Ç©ÇÁÅBí ÇËÇ…ã©Ç‘ÅB
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -103,7 +105,8 @@ I take a deep breath and then tense my stomach.[pcms]
 
 *1760|
 [fc]
-In a voice that sounds both amazed and pitiful, Mizuki mutters.[pcms]
+In a voice that sounds both amazed and pitiful, Mizuki[r]
+mutters.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -111,13 +114,14 @@ In a voice that sounds both amazed and pitiful, Mizuki mutters.[pcms]
 [fc]
 [vo_yuh s="yuho1548"]
 [ns]Yuuho[nse]
-"It's fine, it's fine. As long as they notice us, the content doesn't really[r]
-matter."[pcms]
+"It's fine, it's fine. As long as they notice us, the[r]
+content doesn't really matter."[pcms]
 
 *1762|
 [fc]
-What's important is to attract every single infected person. If we don't fulfill[r]
-our role properly, Wataru and the others will be in danger...[pcms]
+What's important is to attract every single infected person.[r]
+If we don't fulfill our role properly, Wataru and the others[r]
+will be in danger...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -129,7 +133,8 @@ our role properly, Wataru and the others will be in danger...[pcms]
 
 *1764|
 [fc]
-I pat their backs for encouragement and raise my voice even louder.[pcms]
+I pat their backs for encouragement and raise my voice even[r]
+louder.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -153,13 +158,13 @@ I pat their backs for encouragement and raise my voice even louder.[pcms]
 [fc]
 [vo_miz s="mizuki0294"]
 [ns]Mizuki[nse]
-"Hey you, infected ones! My flesh is delicious, you know!! Come on, look over[r]
-here! Look at me!!"[pcms]
+"Hey you, infected ones! My flesh is delicious, you know!![r]
+Come on, look over here! Look at me!!"[pcms]
 
 *1768|
 [fc]
-Driven to desperation, Mizuki leans out from the balcony and starts waving her[r]
-hands wildly.[pcms]
+Driven to desperation, Mizuki leans out from the balcony and[r]
+starts waving her hands wildly.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -174,12 +179,13 @@ hands wildly.[pcms]
 
 *1770|
 [fc]
-Next to her, Ren-chan with her violin begins to move her bow dramatically.[pcms]
+Next to her, Ren-chan with her violin begins to move her bow[r]
+dramatically.[pcms]
 
 *1771|
 [fc]
-She seems to be playing a fast-paced polka in response to the request for lively[r]
-and attention-grabbing music.[pcms]
+She seems to be playing a fast-paced polka in response to[r]
+the request for lively and attention-grabbing music.[pcms]
 
 *1772|
 [fc]
@@ -190,11 +196,13 @@ and attention-grabbing music.[pcms]
 
 *1773|
 [fc]
-In between her performance, I can hear Ren-chan's prayer-like murmurs.[pcms]
+In between her performance, I can hear Ren-chan's prayer-[r]
+like murmurs.[pcms]
 
 *1774|
 [fc]
-That's right, do your best, Wataru... We'll also try our hardest.[pcms]
+That's right, do your best, Wataru... We'll also try our[r]
+hardest.[pcms]
 
 *1775|
 [fc]

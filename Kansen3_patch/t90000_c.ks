@@ -35,8 +35,9 @@
 
 *9125|
 [fc]
-Finally, morning has come. It was a long night. Even on such a morning, I was[r]
-hungry... But I couldn't bring myself to eat anything...[pcms]
+Finally, morning has come. It was a long night. Even on such[r]
+a morning, I was hungry... But I couldn't bring myself to[r]
+eat anything...[pcms]
 
 *9126|
 [fc]
@@ -51,34 +52,36 @@ I... I killed someone... Someone I loved...[pcms]
 
 *9127|
 [fc]
-In the afternoon, I finally started moving unsteadily. After having nothing but[r]
-bad dreams and waking up repeatedly, I couldn't tell what was reality and what[r]
-was a dream anymore.[pcms]
+In the afternoon, I finally started moving unsteadily. After[r]
+having nothing but bad dreams and waking up repeatedly, I[r]
+couldn't tell what was reality and what was a dream anymore.[pcms]
 
 *9128|
 [fc]
-I sat in front of the computer, trying to gather information from the net.[pcms]
+I sat in front of the computer, trying to gather information[r]
+from the net.[pcms]
 
 *9129|
 [fc]
-"Mouse-Kingdom's refuge annihilated" "Mouse-Kingdom, the last relay, all lost?"[r]
-"Mouse-Kingdom..."[pcms]
+"Mouse-Kingdom's refuge annihilated" "Mouse-Kingdom, the[r]
+last relay, all lost?" "Mouse-Kingdom..."[pcms]
 
 *9130|
 [fc]
-The top page of the news was lined with several lines about the last broadcast[r]
-from dad's Mouse-Kingdom.[pcms]
+The top page of the news was lined with several lines about[r]
+the last broadcast from dad's Mouse-Kingdom.[pcms]
 
 *9131|
 [fc]
-It's strange, but seeing it laid out as news like this makes me realize all over[r]
-again that last night's events were real. I couldn't bring myself to click, so I[r]
-just scrolled the mouse wheel.[pcms]
+It's strange, but seeing it laid out as news like this makes[r]
+me realize all over again that last night's events were[r]
+real. I couldn't bring myself to click, so I just scrolled[r]
+the mouse wheel.[pcms]
 
 *9132|
 [fc]
-"Flocks of crows moving through the metropolitan area. The latest information[r]
-is"[pcms]
+"Flocks of crows moving through the metropolitan area. The[r]
+latest information is"[pcms]
 
 *9133|
 [fc]
@@ -89,15 +92,15 @@ I selected one of the several links and clicked on it.[pcms]
 
 *9134|
 [fc]
-"This is Hachioji. Just moments ago, a flock of crows flew overhead. They seem[r]
-to be heading eastward."[pcms]
+"This is Hachioji. Just moments ago, a flock of crows flew[r]
+overhead. They seem to be heading eastward."[pcms]
 
 ;//♂_八王子という地名、問題あるなら変更する事。その場合他の地名、方角も検討する事
 
 *9135|
 [fc]
-It seems that those who are still alive and can connect to the net are posting[r]
-in real-time.[pcms]
+It seems that those who are still alive and can connect to[r]
+the net are posting in real-time.[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020a"][trans_c cross time=500]
@@ -105,26 +108,30 @@ in real-time.[pcms]
 
 *9136|
 [fc]
-I open my email. There's a new message from "Pikarin" in Ishikawa.[pcms]
+I open my email. There's a new message from "Pikarin" in[r]
+Ishikawa.[pcms]
 
 ;//♂_これ以前に、すでにメール以外でやりとりをしている場合は以下の文章も含めて変える事
 
 *9137|
 [fc]
-"Hello, Wataru. Thank you for your email. Thank goodness we're both safe. Things[r]
-are somehow okay here too. I'm currently at a shelter, but it's quite tough."[pcms]
+"Hello, Wataru. Thank you for your email. Thank goodness[r]
+we're both safe. Things are somehow okay here too. I'm[r]
+currently at a shelter, but it's quite tough."[pcms]
 
 *9138|
 [fc]
-"There aren't many infected here, but because of that, the shelter is[r]
-overflowing with people, and sometimes there are disputes. It feels like there[r]
-are more and more irritated people."[pcms]
+"There aren't many infected here, but because of that, the[r]
+shelter is overflowing with people, and sometimes there are[r]
+disputes. It feels like there are more and more irritated[r]
+people."[pcms]
 
 *9139|
 [fc]
-"I'll set up a topic in the community too, so Wataru, please leave a comment.[r]
-I've brought out my laptop, so I think I'll be sticking around quite a bit. I'll[r]
-contact you again. Wataru, please do the same."[pcms]
+"I'll set up a topic in the community too, so Wataru, please[r]
+leave a comment. I've brought out my laptop, so I think I'll[r]
+be sticking around quite a bit. I'll contact you again.[r]
+Wataru, please do the same."[pcms]
 
 *9140|
 [fc]
@@ -144,22 +151,23 @@ As I passed by the 7th floor, everyone was watching TV.[pcms]
 *9142|
 [fc]
 [ns]Announcer[nse]
-`New information has come in. The government will distribute supplies to various[r]
-shelters tomorrow. In places where landing is not possible, they will be dropped[r]
-from the air.[pcms]
+`New information has come in. The government will distribute[r]
+supplies to various shelters tomorrow. In places where[r]
+landing is not possible, they will be dropped from the air.[pcms]
 
 *9143|
 [fc]
 [ns]Announcer[nse]
-`Details on the timing and other specifics will be announced later...[pcms]
+`Details on the timing and other specifics will be announced[r]
+later...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *9144|
 [fc]
 [ns]Jin[nse]
-`...Hmph... Well, if we're lucky, something might be dropped here too...[r]
-Although the chances are slim.[pcms]
+`...Hmph... Well, if we're lucky, something might be dropped[r]
+here too... Although the chances are slim.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -167,8 +175,8 @@ Although the chances are slim.[pcms]
 [fc]
 [vo_mar s="maru_TE0007"]
 [ns]Margarita[nse]
-`...That's right. It's best to make do with what we have now as much as[r]
-possible.[pcms]
+`...That's right. It's best to make do with what we have now[r]
+as much as possible.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -179,13 +187,14 @@ possible.[pcms]
 
 *9147|
 [fc]
-Jin-san and Maruko-senpai were standing apart from each other, but both had[r]
-their arms crossed and were glaring at the TV screen.[pcms]
+Jin-san and Maruko-senpai were standing apart from each[r]
+other, but both had their arms crossed and were glaring at[r]
+the TV screen.[pcms]
 
 *9148|
 [fc]
-If everyone noticed me and started talking to me, it would be painful... So I[r]
-silently returned to my room again.[pcms]
+If everyone noticed me and started talking to me, it would[r]
+be painful... So I silently returned to my room again.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -200,7 +209,8 @@ silently returned to my room again.[pcms]
 
 *9149|
 [fc]
-I woke up early. For now, I decided to go to the 7th floor and left my room.[pcms]
+I woke up early. For now, I decided to go to the 7th floor[r]
+and left my room.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -228,7 +238,8 @@ The sky visible from the dorm was already beginning to dawn.[pcms]
 [fc]
 [vo_yuh s="yuho_TE0019"]
 [ns]Yuuho[nse]
-`Hey---!! Come over here too---!! I'm here---!! Give us something---![pcms]
+`Hey---!! Come over here too---!! I'm here---!! Give us[r]
+something---![pcms]
 
 ;//★_空あるいは遠景
 [bg storage="BGS008a"][trans_c cross time=500]
@@ -236,14 +247,16 @@ The sky visible from the dorm was already beginning to dawn.[pcms]
 
 *9152|
 [fc]
-It must be over Misujuku. A military helicopter is hovering. Although not[r]
-clearly visible, they're probably dropping the supplies mentioned in the news.[pcms]
+It must be over Misujuku. A military helicopter is hovering.[r]
+Although not clearly visible, they're probably dropping the[r]
+supplies mentioned in the news.[pcms]
 
 *9153|
 [fc]
-Not only from Misujuku's direction but also from elsewhere, engine sounds can be[r]
-heard. It seems that several transport aircraft and planes are flying around.[r]
-Yuuho is waving her hands and shouting, but it probably won't reach them.[pcms]
+Not only from Misujuku's direction but also from elsewhere,[r]
+engine sounds can be heard. It seems that several transport[r]
+aircraft and planes are flying around. Yuuho is waving her[r]
+hands and shouting, but it probably won't reach them.[pcms]
 
 ;//SE停止(2秒でF.O.)
 ;//[stopse buf=0]
@@ -264,8 +277,9 @@ Yuuho is waving her hands and shouting, but it probably won't reach them.[pcms]
 
 *9155|
 [fc]
-Perhaps drawn by the sound of the transport planes, Tomomi appeared from[r]
-somewhere, looking up at the sky and then firmly gazing at the building.[pcms]
+Perhaps drawn by the sound of the transport planes, Tomomi[r]
+appeared from somewhere, looking up at the sky and then[r]
+firmly gazing at the building.[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 ;[eval exp="f.l_map = 5"]
@@ -287,8 +301,9 @@ somewhere, looking up at the sky and then firmly gazing at the building.[pcms]
 
 *9159|
 [fc]
-A group of infected appeared behind Tomomi. Perhaps inspired by the noisy skies[r]
-above, they had emerged from wherever they were hiding.[pcms]
+A group of infected appeared behind Tomomi. Perhaps inspired[r]
+by the noisy skies above, they had emerged from wherever[r]
+they were hiding.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -303,18 +318,21 @@ above, they had emerged from wherever they were hiding.[pcms]
 [fc]
 [vo_mar s="maru_TE0019"]
 [ns]Margarita[nse]
-`Although it's not much, I've managed to gather some information and would like[r]
-everyone to listen. Please spare me a little time.[pcms]
+`Although it's not much, I've managed to gather some[r]
+information and would like everyone to listen. Please spare[r]
+me a little time.[pcms]
 
 *9161|
 [fc]
-Maruko-senpai started speaking at the dining table where I was dragged out for a[r]
-meal against my will because they said it was toxic not to eat anything.[pcms]
+Maruko-senpai started speaking at the dining table where I[r]
+was dragged out for a meal against my will because they said[r]
+it was toxic not to eat anything.[pcms]
 
 *9162|
 [fc]
-Jin-san, Kousuke, and Mizuki who were about to leave their seats sat back down,[r]
-and Yuuho who was about to start cleaning also took her seat again.[pcms]
+Jin-san, Kousuke, and Mizuki who were about to leave their[r]
+seats sat back down, and Yuuho who was about to start[r]
+cleaning also took her seat again.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -322,9 +340,10 @@ and Yuuho who was about to start cleaning also took her seat again.[pcms]
 [fc]
 [vo_mar s="maru_TE0020"]
 [ns]Margarita[nse]
-`I've been in contact with Sesuka at Misujuku garrison. As a result, we have a[r]
-slight understanding of the situation outside here and have obtained other[r]
-information as well, so I thought I'd share it.[pcms]
+`I've been in contact with Sesuka at Misujuku garrison. As a[r]
+result, we have a slight understanding of the situation[r]
+outside here and have obtained other information as well, so[r]
+I thought I'd share it.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -332,9 +351,10 @@ information as well, so I thought I'd share it.[pcms]
 [fc]
 [vo_mar s="maru_TE0021"]
 [ns]Margarita[nse]
-`First about today's supplies; it seems that Misujuku received a reasonable[r]
-amount of replenishment. However, it's still not sufficient and only a temporary[r]
-amount. In other words, it doesn't solve the fundamental problem.[pcms]
+`First about today's supplies; it seems that Misujuku[r]
+received a reasonable amount of replenishment. However, it's[r]
+still not sufficient and only a temporary amount. In other[r]
+words, it doesn't solve the fundamental problem.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -342,9 +362,9 @@ amount. In other words, it doesn't solve the fundamental problem.[pcms]
 [fc]
 [vo_mar s="maru_TE0022"]
 [ns]Margarita[nse]
-`It means that there isn't enough for us to live in shelters for an extended[r]
-period. There seem to be small isolated shelters with few people scattered[r]
-around as well.[pcms]
+`It means that there isn't enough for us to live in shelters[r]
+for an extended period. There seem to be small isolated[r]
+shelters with few people scattered around as well.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -352,9 +372,9 @@ around as well.[pcms]
 [fc]
 [vo_mar s="maru_TE0023"]
 [ns]Margarita[nse]
-`Through the net and other means, there are calls for rescue, but not all can be[r]
-answered, and it's difficult to replenish supplies as well. That's all for now,[r]
-okay?[pcms]
+`Through the net and other means, there are calls for[r]
+rescue, but not all can be answered, and it's difficult to[r]
+replenish supplies as well. That's all for now, okay?[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -369,8 +389,9 @@ okay?[pcms]
 [fc]
 [vo_mar s="maru_TE0024"]
 [ns]Margarita[nse]
-`Teams made up of volunteers or those who have been assigned are heading out to[r]
-rescue those isolated shelters. However, there are teams that don't return...[pcms]
+`Teams made up of volunteers or those who have been assigned[r]
+are heading out to rescue those isolated shelters. However,[r]
+there are teams that don't return...[pcms]
 
 *9169|
 [fc]
@@ -383,8 +404,8 @@ rescue those isolated shelters. However, there are teams that don't return...[pc
 [fc]
 [vo_mar s="maru_TE0025"]
 [ns]Margarita[nse]
-`Today, a team that headed for Celesta Tower for rescue has lost contact and is[r]
-now missing...[pcms]
+`Today, a team that headed for Celesta Tower for rescue has[r]
+lost contact and is now missing...[pcms]
 
 *9171|
 [fc]
@@ -401,9 +422,10 @@ now missing...[pcms]
 [fc]
 [vo_mar s="maru_TE0026"]
 [ns]Margarita[nse]
-`...Yes. Inside some shelters, there are people demanding weapons supply.[r]
-Indeed, even within shelters it's not completely safe, so I understand the[r]
-desire to defend oneself.[pcms]
+`...Yes. Inside some shelters, there are people demanding[r]
+weapons supply. Indeed, even within shelters it's not[r]
+completely safe, so I understand the desire to defend[r]
+oneself.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -411,8 +433,9 @@ desire to defend oneself.[pcms]
 [fc]
 [vo_mar s="maru_TE0027"]
 [ns]Margarita[nse]
-`But we can't just hand out weapons easily. Especially not to amateurs. Lately,[r]
-there have been increasing disputes over whether or not to distribute weapons.[pcms]
+`But we can't just hand out weapons easily. Especially not[r]
+to amateurs. Lately, there have been increasing disputes[r]
+over whether or not to distribute weapons.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -420,8 +443,9 @@ there have been increasing disputes over whether or not to distribute weapons.[p
 [fc]
 [vo_mar s="maru_TE0028"]
 [ns]Margarita[nse]
-"With that in mind, there's a proposal to use the large-scale communal sewer[r]
-connected underground at Mishuku, 246, to see if we can escape."[pcms]
+"With that in mind, there's a proposal to use the large-[r]
+scale communal sewer connected underground at Mishuku, 246,[r]
+to see if we can escape."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -429,8 +453,8 @@ connected underground at Mishuku, 246, to see if we can escape."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0020"]
 [ns]Yuuho[nse]
-"Does that mean there's a possibility that we can all escape, just like we made[r]
-it here?"[pcms]
+"Does that mean there's a possibility that we can all[r]
+escape, just like we made it here?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -438,9 +462,10 @@ it here?"[pcms]
 [fc]
 [vo_mar s="maru_TE0029"]
 [ns]Margarita[nse]
-"Hmm. There is a possibility. The communal sewer is interconnected in various[r]
-sizes, and if navigated correctly, it's possible to traverse Tokyo underground[r]
-without surfacing."[pcms]
+"Hmm. There is a possibility. The communal sewer is[r]
+interconnected in various sizes, and if navigated correctly,[r]
+it's possible to traverse Tokyo underground without[r]
+surfacing."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -455,9 +480,10 @@ without surfacing."[pcms]
 [fc]
 [vo_mar s="maru_TE0030"]
 [ns]Margarita[nse]
-"There is a possibility. But there are problems. We are only a few people.[r]
-However, the shelters are gathering thousands of people. Basically, the only way[r]
-to move underground is on foot."[pcms]
+"There is a possibility. But there are problems. We are only[r]
+a few people. However, the shelters are gathering thousands[r]
+of people. Basically, the only way to move underground is on[r]
+foot."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -465,9 +491,9 @@ to move underground is on foot."[pcms]
 [fc]
 [vo_mar s="maru_TE0031"]
 [ns]Margarita[nse]
-"Considering this humid season, it's almost impossible to move thousands of[r]
-people safely underground. That's why it's being discussed as a 'just in case[r]
-plan'."[pcms]
+"Considering this humid season, it's almost impossible to[r]
+move thousands of people safely underground. That's why it's[r]
+being discussed as a 'just in case plan'."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -475,8 +501,9 @@ plan'."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0021"]
 [ns]Yuuho[nse]
-"I see... Even if we try to move in small groups... who goes first, whether it's[r]
-safe with just a few people, it seems like various problems could arise..."[pcms]
+"I see... Even if we try to move in small groups... who goes[r]
+first, whether it's safe with just a few people, it seems[r]
+like various problems could arise..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -484,17 +511,18 @@ safe with just a few people, it seems like various problems could arise..."[pcms
 [fc]
 [vo_mar s="maru_TE0032"]
 [ns]Margarita[nse]
-"That's right. Considering our current environment, the situation here, and the[r]
-resources and food available, it seems better to stay put as much as possible[r]
-rather than rashly moving to a shelter."[pcms]
+"That's right. Considering our current environment, the[r]
+situation here, and the resources and food available, it[r]
+seems better to stay put as much as possible rather than[r]
+rashly moving to a shelter."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *9183|
 [fc]
 [ns]Jin[nse]
-"What happens to us if the people in the shelters manage to escape[r]
-successfully?"[pcms]
+"What happens to us if the people in the shelters manage to[r]
+escape successfully?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -502,9 +530,10 @@ successfully?"[pcms]
 [fc]
 [vo_mar s="maru_TE0033"]
 [ns]Margarita[nse]
-"If the contingency plan is executed and the escape is successful, they will[r]
-come for us. Definitely. It seems that it's difficult to be flexible with the[r]
-various situations inside the shelters right now."[pcms]
+"If the contingency plan is executed and the escape is[r]
+successful, they will come for us. Definitely. It seems that[r]
+it's difficult to be flexible with the various situations[r]
+inside the shelters right now."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -512,18 +541,18 @@ various situations inside the shelters right now."[pcms]
 [fc]
 [vo_mar s="maru_TE0034"]
 [ns]Margarita[nse]
-"But if they escape, knowing Sesuka, she will come to pick us up early on. At[r]
-that time, we can all escape from here. Probably arrangements like a helicopter[r]
-can be made."[pcms]
+"But if they escape, knowing Sesuka, she will come to pick[r]
+us up early on. At that time, we can all escape from here.[r]
+Probably arrangements like a helicopter can be made."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *9186|
 [fc]
 [ns]Kousuke[nse]
-"I'll go along with everyone's opinion. I'm not good with complicated stuff. But[r]
-in return, if you tell me to work, I'll do it properly, and I'll do whatever I[r]
-can on my own."[pcms]
+"I'll go along with everyone's opinion. I'm not good with[r]
+complicated stuff. But in return, if you tell me to work,[r]
+I'll do it properly, and I'll do whatever I can on my own."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -531,8 +560,8 @@ can on my own."[pcms]
 [fc]
 [vo_miz s="mizuki_TE0010"]
 [ns]Mizuki[nse]
-"I will... follow Kousuke... Jin, Jin will also stay with everyone... that's[r]
-okay, right?"[pcms]
+"I will... follow Kousuke... Jin, Jin will also stay with[r]
+everyone... that's okay, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -547,9 +576,10 @@ okay, right?"[pcms]
 [fc]
 [vo_mar s="maru_TE0035"]
 [ns]Margarita[nse]
-"No, that's about it for today. As soon as we get information, let's share it[r]
-with everyone. We'll gather for meals and if anyone gets information like today,[r]
-we'll talk after eating."[pcms]
+"No, that's about it for today. As soon as we get[r]
+information, let's share it with everyone. We'll gather for[r]
+meals and if anyone gets information like today, we'll talk[r]
+after eating."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -565,7 +595,8 @@ Everyone agrees and starts moving around as they disperse.[pcms]
 
 *9192|
 [fc]
-In the end, I could hardly swallow my food... I return to my PC like a shut-in.[pcms]
+In the end, I could hardly swallow my food... I return to my[r]
+PC like a shut-in.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -576,12 +607,14 @@ In the end, I could hardly swallow my food... I return to my PC like a shut-in.[
 
 *9193|
 [fc]
-"Wataru, if you're safe, please reply. We didn't get any supplies either. It[r]
-almost caused a commotion because they said so on the news."[pcms]
+"Wataru, if you're safe, please reply. We didn't get any[r]
+supplies either. It almost caused a commotion because they[r]
+said so on the news."[pcms]
 
 *9194|
 [fc]
-It was another email from "Pikarin." She seems to be glued to her laptop.[pcms]
+It was another email from "Pikarin." She seems to be glued[r]
+to her laptop.[pcms]
 
 *9195|
 [fc]
@@ -589,19 +622,20 @@ I open SNS and look at some comments from "Pikarin."[pcms]
 
 *9196|
 [fc]
-"By the way, the Perseid meteor shower is almost over too. I missed it this[r]
-year. I thought I'd catch it after the peak day."[pcms]
+"By the way, the Perseid meteor shower is almost over too. I[r]
+missed it this year. I thought I'd catch it after the peak[r]
+day."[pcms]
 
 *9197|
 [fc]
-"Well, with the clear night skies coming up, there's the Draconids and Leo[r]
-meteor showers to look forward to. Hopefully, the shelter life will be over by[r]
-then..."[pcms]
+"Well, with the clear night skies coming up, there's the[r]
+Draconids and Leo meteor showers to look forward to.[r]
+Hopefully, the shelter life will be over by then..."[pcms]
 
 *9198|
 [fc]
-There's still time until the Draconids and Leo meteor showers. By then... will I[r]
-still be alive?[pcms]
+There's still time until the Draconids and Leo meteor[r]
+showers. By then... will I still be alive?[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -624,8 +658,9 @@ still be alive?[pcms]
 
 *9199|
 [fc]
-I woke up early in the morning. When I went up to the 7th floor, I could hear[r]
-Maruko-senpai's voice from outside the dome.[pcms]
+I woke up early in the morning. When I went up to the 7th[r]
+floor, I could hear Maruko-senpai's voice from outside the[r]
+dome.[pcms]
 
 *9200|
 [fc]
@@ -636,8 +671,9 @@ Maruko-senpai's voice from outside the dome.[pcms]
 
 *9201|
 [fc]
-She must be exercising... I wish I had the strength of a senior who doesn't[r]
-change her lifestyle no matter what happens...[pcms]
+She must be exercising... I wish I had the strength of a[r]
+senior who doesn't change her lifestyle no matter what[r]
+happens...[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -648,27 +684,30 @@ change her lifestyle no matter what happens...[pcms]
 
 *9202|
 [fc]
-We eat breakfast with the TV left on. This morning too, I could hardly swallow[r]
-my food.[pcms]
+We eat breakfast with the TV left on. This morning too, I[r]
+could hardly swallow my food.[pcms]
 
 *9203|
 [fc]
 [ns]Announcer[nse]
-"According to the government's announcement, the first wave of supply drops has[r]
-almost concluded. It seems that large shelters have received supplies, but[r]
-smaller ones have not been reached."[pcms]
+"According to the government's announcement, the first wave[r]
+of supply drops has almost concluded. It seems that large[r]
+shelters have received supplies, but smaller ones have not[r]
+been reached."[pcms]
 
 *9204|
 [fc]
 [ns]Announcer[nse]
-"When the next one will be is still undecided, and we will inform you as soon as[r]
-an announcement is made... Repeating this information..."[pcms]
+"When the next one will be is still undecided, and we will[r]
+inform you as soon as an announcement is made... Repeating[r]
+this information..."[pcms]
 
 *9205|
 [fc]
-The live broadcast from the shelter seems to have been discontinued altogether.[r]
-The announcer repeats only the necessary news several times before switching to[r]
-a standby screen.[pcms]
+The live broadcast from the shelter seems to have been[r]
+discontinued altogether. The announcer repeats only the[r]
+necessary news several times before switching to a standby[r]
+screen.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -678,18 +717,20 @@ a standby screen.[pcms]
 
 *9206|
 [fc]
-"There were supplies, but it seems there weren't enough. More troubles are[r]
-starting here again. By the way, comments from others have decreased too."[pcms]
+"There were supplies, but it seems there weren't enough.[r]
+More troubles are starting here again. By the way, comments[r]
+from others have decreased too."[pcms]
 
 *9207|
 [fc]
-Checking "Pikarin"'s comments has become almost a daily routine. Indeed, the[r]
-number of comments had decreased.[pcms]
+Checking "Pikarin"'s comments has become almost a daily[r]
+routine. Indeed, the number of comments had decreased.[pcms]
 
 *9208|
 [fc]
-I don't want to think about why. It feels like it's not just because PCs can't[r]
-be used all the time or mobiles aren't connecting.[pcms]
+I don't want to think about why. It feels like it's not just[r]
+because PCs can't be used all the time or mobiles aren't[r]
+connecting.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -727,9 +768,10 @@ be used all the time or mobiles aren't connecting.[pcms]
 
 *9211|
 [fc]
-In the empty dome with some daylight left, a black shadow runs across the[r]
-ceiling. The flapping of wings and screeching cries can be heard. Although[r]
-unseen, only the black shadow eerily crosses over.[pcms]
+In the empty dome with some daylight left, a black shadow[r]
+runs across the ceiling. The flapping of wings and[r]
+screeching cries can be heard. Although unseen, only the[r]
+black shadow eerily crosses over.[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -754,25 +796,28 @@ unseen, only the black shadow eerily crosses over.[pcms]
 
 *9212|
 [fc]
-Waking up early has become a habit for me. After idling on the 7th floor for a[r]
-while, I sit in front of my PC. That too has become part of my morning routine.[pcms]
+Waking up early has become a habit for me. After idling on[r]
+the 7th floor for a while, I sit in front of my PC. That too[r]
+has become part of my morning routine.[pcms]
 
 *9213|
 [fc]
-There were no new comments on the community site. No new topics were created[r]
-either. Even after pressing F5 several times, there were still no new comments[r]
-from "Pikarin."[pcms]
+There were no new comments on the community site. No new[r]
+topics were created either. Even after pressing F5 several[r]
+times, there were still no new comments from "Pikarin."[pcms]
 
 *9214|
 [fc]
-I visit a video site and see some new uploads. Clicking on them reveals that[r]
-half are calls for rescue and desperate pleas for medical supplies and food.[pcms]
+I visit a video site and see some new uploads. Clicking on[r]
+them reveals that half are calls for rescue and desperate[r]
+pleas for medical supplies and food.[pcms]
 
 *9215|
 [fc]
-The other half... were videos that seemed almost like last words. Proofs of[r]
-survival or messages filled with despair aimed at family, lovers, and[r]
-acquaintances they haven't seen.[pcms]
+The other half... were videos that seemed almost like last[r]
+words. Proofs of survival or messages filled with despair[r]
+aimed at family, lovers, and acquaintances they haven't[r]
+seen.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -787,9 +832,10 @@ acquaintances they haven't seen.[pcms]
 [fc]
 [vo_mar s="maru_TE0086"]
 [ns]Margarita[nse]
-"Some bad news has come in. It seems an infected person appeared at Mishuku[r]
-garrison. Fortunately, they were able to respond quickly and prevent any[r]
-increase in infected individuals."[pcms]
+"Some bad news has come in. It seems an infected person[r]
+appeared at Mishuku garrison. Fortunately, they were able to[r]
+respond quickly and prevent any increase in infected[r]
+individuals."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -797,21 +843,23 @@ increase in infected individuals."[pcms]
 [fc]
 [vo_mar s="maru_TE0088"]
 [ns]Margarita[nse]
-"However, those who had been demanding arms became more aggressive and some[r]
-military personnel also joined them causing quite a disturbance. They managed to[r]
-suppress it though..."[pcms]
+"However, those who had been demanding arms became more[r]
+aggressive and some military personnel also joined them[r]
+causing quite a disturbance. They managed to suppress it[r]
+though..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *9218|
 [fc]
 [ns]Jin[nse]
-"...Hmph. With so many people around, there are bound to be various issues..."[pcms]
+"...Hmph. With so many people around, there are bound to be[r]
+various issues..."[pcms]
 
 *9219|
 [fc]
-Maruko-senpai looks somber; Mizuki clings to Kousuke as if seeking comfort; Jin[r]
-alone appears calm and composed.[pcms]
+Maruko-senpai looks somber; Mizuki clings to Kousuke as if[r]
+seeking comfort; Jin alone appears calm and composed.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -840,9 +888,10 @@ Days pass by slowly.[pcms]
 
 *9221|
 [fc]
-Sitting in front of my PC has become part of my daily routine, but updates on[r]
-the community site have stopped and there are no new comments from "Pikarin."[r]
-There were no new posts on message boards either.[pcms]
+Sitting in front of my PC has become part of my daily[r]
+routine, but updates on the community site have stopped and[r]
+there are no new comments from "Pikarin." There were no new[r]
+posts on message boards either.[pcms]
 
 *9222|
 [fc]
@@ -854,7 +903,8 @@ In the midst of this, Maruko-senpai's voice echoes loudly.[pcms]
 [fc]
 [vo_mar s="maru_TE0090"]
 [ns]Margarita[nse]
-"Everyone, gather on the 7th floor. There's a new broadcast being aired."[pcms]
+"Everyone, gather on the 7th floor. There's a new broadcast[r]
+being aired."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -865,24 +915,26 @@ In the midst of this, Maruko-senpai's voice echoes loudly.[pcms]
 *9224|
 [fc]
 [ns]Announcer[nse]
-"Citizens of the nation, there has been an important announcement from the[r]
-government. Three days from today, under the leadership of the United States[r]
-government, a sweeping operation will commence. It will be an all-out gas[r]
+"Citizens of the nation, there has been an important[r]
+announcement from the government. Three days from today,[r]
+under the leadership of the United States government, a[r]
+sweeping operation will commence. It will be an all-out gas[r]
 attack."[pcms]
 
 *9225|
 [fc]
 [ns]Announcer[nse]
-"Please evacuate to an airtight location as much as possible within the next[r]
-three days. If evacuation is difficult, please prepare your current location by[r]
-sealing it off to make it as airtight as possible."[pcms]
+"Please evacuate to an airtight location as much as possible[r]
+within the next three days. If evacuation is difficult,[r]
+please prepare your current location by sealing it off to[r]
+make it as airtight as possible."[pcms]
 
 *9226|
 [fc]
 [ns]Announcer[nse]
-"The operation is scheduled to take place in three days, but the start time has[r]
-not been determined. We will notify you as soon as a decision is made. We will[r]
-keep you updated..."[pcms]
+"The operation is scheduled to take place in three days, but[r]
+the start time has not been determined. We will notify you[r]
+as soon as a decision is made. We will keep you updated..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -897,16 +949,16 @@ keep you updated..."[pcms]
 [fc]
 [vo_mar s="maru_TE0091"]
 [ns]Margarita[nse]
-"...I want more detailed information. Can someone lend me a mobile phone? I'll[r]
-try to contact Sesuka directly."[pcms]
+"...I want more detailed information. Can someone lend me a[r]
+mobile phone? I'll try to contact Sesuka directly."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *9229|
 [fc]
-Maruko-senpai, who had been whispering into her mobile phone, pressed the[r]
-speaker button and placed it in the center of the table where everyone was[r]
-gathered.[pcms]
+Maruko-senpai, who had been whispering into her mobile[r]
+phone, pressed the speaker button and placed it in the[r]
+center of the table where everyone was gathered.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -914,31 +966,35 @@ gathered.[pcms]
 [fc]
 [vo_mar s="maru_TE0092"]
 [ns]Margarita[nse]
-"Sesuka, everyone is gathered. Speak so that everyone can understand."[pcms]
+"Sesuka, everyone is gathered. Speak so that everyone can[r]
+understand."[pcms]
 
 *9231|
 [fc]
 [vo_mob s="sesuka_TE0001"]
 [ns]Sesuka[nse]
-"Yes, my lady. As you may have heard on TV, a gas eradication operation will[r]
-unfold at dawn three days from now. The Japanese government has been unable to[r]
-contain the situation and has entrusted it to the United Nations."[pcms]
+"Yes, my lady. As you may have heard on TV, a gas[r]
+eradication operation will unfold at dawn three days from[r]
+now. The Japanese government has been unable to contain the[r]
+situation and has entrusted it to the United Nations."[pcms]
 
 *9232|
 [fc]
 [vo_mob s="sesuka_TE0002"]
 [ns]Sesuka[nse]
-"Initially, the UN was opposed to the use of wide-area weapons, but neighboring[r]
-countries of Japan, concerned about a pandemic due to the international scale of[r]
-infection spread, pressured them."[pcms]
+"Initially, the UN was opposed to the use of wide-area[r]
+weapons, but neighboring countries of Japan, concerned about[r]
+a pandemic due to the international scale of infection[r]
+spread, pressured them."[pcms]
 
 *9233|
 [fc]
 [vo_mob s="sesuka_TE0003"]
 [ns]Sesuka[nse]
-"There's also concern that birds and other vectors could spread the virus[r]
-further or that it could mutate again, so the UN has agreed, leading to the[r]
-decision to carry out this eradication operation."[pcms]
+"There's also concern that birds and other vectors could[r]
+spread the virus further or that it could mutate again, so[r]
+the UN has agreed, leading to the decision to carry out this[r]
+eradication operation."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -952,9 +1008,10 @@ decision to carry out this eradication operation."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0004"]
 [ns]Sesuka[nse]
-"Yes. They were originally the country that produced the virus. Also, they are[r]
-currently the only ones prepared to execute the operation on short notice. It[r]
-seems there are no objections from Japan or other neighboring countries."[pcms]
+"Yes. They were originally the country that produced the[r]
+virus. Also, they are currently the only ones prepared to[r]
+execute the operation on short notice. It seems there are no[r]
+objections from Japan or other neighboring countries."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -967,17 +1024,18 @@ seems there are no objections from Japan or other neighboring countries."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0005"]
 [ns]Sesuka[nse]
-"That may be true. However, there are many small isolated shelters scattered[r]
-around. Even in large shelters, escape is quite difficult, and considering the[r]
-current situation, an attack on urban areas would result in extensive damage."[pcms]
+"That may be true. However, there are many small isolated[r]
+shelters scattered around. Even in large shelters, escape is[r]
+quite difficult, and considering the current situation, an[r]
+attack on urban areas would result in extensive damage."[pcms]
 
 *9238|
 [fc]
 [vo_mob s="sesuka_TE0006"]
 [ns]Sesuka[nse]
-"According to the information we've obtained, the Japanese government was also[r]
-concerned about this point and took a considerable amount of time to reach a[r]
-conclusion."[pcms]
+"According to the information we've obtained, the Japanese[r]
+government was also concerned about this point and took a[r]
+considerable amount of time to reach a conclusion."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -985,16 +1043,17 @@ conclusion."[pcms]
 [fc]
 [vo_mar s="maru_TE0094"]
 [ns]Margarita[nse]
-"Well, that figures... Sesuka, what measures are being taken at the Mishuku[r]
-garrison where you are?"[pcms]
+"Well, that figures... Sesuka, what measures are being taken[r]
+at the Mishuku garrison where you are?"[pcms]
 
 *9240|
 [fc]
 [vo_mob s="sesuka_TE0007"]
 [ns]Sesuka[nse]
-"Yes. Here we plan to divide into two groups: one that will attempt to escape[r]
-using the vehicles we have secured and another that will stay in the facility[r]
-and prepare for the gas attack."[pcms]
+"Yes. Here we plan to divide into two groups: one that will[r]
+attempt to escape using the vehicles we have secured and[r]
+another that will stay in the facility and prepare for the[r]
+gas attack."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1008,9 +1067,10 @@ and prepare for the gas attack."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0008"]
 [ns]Sesuka[nse]
-"Yes. That was considered, but due to lack of arrangements and several aircraft[r]
-being brought down by crow attacks in recent days, there aren't enough large[r]
-aircraft available to transport large numbers of people."[pcms]
+"Yes. That was considered, but due to lack of arrangements[r]
+and several aircraft being brought down by crow attacks in[r]
+recent days, there aren't enough large aircraft available to[r]
+transport large numbers of people."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1023,16 +1083,18 @@ aircraft available to transport large numbers of people."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0009"]
 [ns]Sesuka[nse]
-"Yes. It's inexplicable. They attack in flocks, diving straight for the engines.[r]
-It's like suicide bombings... Mainly aircraft are being affected..."[pcms]
+"Yes. It's inexplicable. They attack in flocks, diving[r]
+straight for the engines. It's like suicide bombings...[r]
+Mainly aircraft are being affected..."[pcms]
 
 *9245|
 [fc]
 [vo_mob s="sesuka_TE0010"]
 [ns]Sesuka[nse]
-"Helicopters seem to suffer less damage. There's speculation that it might have[r]
-something to do with the sound of their engines or motors, but even so, we don't[r]
-have enough helicopters available to transport large numbers of people."[pcms]
+"Helicopters seem to suffer less damage. There's speculation[r]
+that it might have something to do with the sound of their[r]
+engines or motors, but even so, we don't have enough[r]
+helicopters available to transport large numbers of people."[pcms]
 ;//♂_航たち脱出のための布石とします
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -1047,9 +1109,10 @@ have enough helicopters available to transport large numbers of people."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0011"]
 [ns]Sesuka[nse]
-"We've done aerial reconnaissance and have some confirmation, and plans have[r]
-been made. If insurmountable obstacles arise, we'll proceed by eliminating them[r]
-on the spot with the accompanying troops."[pcms]
+"We've done aerial reconnaissance and have some[r]
+confirmation, and plans have been made. If insurmountable[r]
+obstacles arise, we'll proceed by eliminating them on the[r]
+spot with the accompanying troops."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1057,8 +1120,9 @@ on the spot with the accompanying troops."[pcms]
 [fc]
 [vo_mar s="maru_TE0097"]
 [ns]Margarita[nse]
-"...It's risky, but it can't be helped... Sesuka, sorry for keeping you up late.[r]
-Thank you. Do what you can do there at Mishuku."[pcms]
+"...It's risky, but it can't be helped... Sesuka, sorry for[r]
+keeping you up late. Thank you. Do what you can do there at[r]
+Mishuku."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1066,15 +1130,16 @@ Thank you. Do what you can do there at Mishuku."[pcms]
 [fc]
 [vo_mar s="maru_TE0098"]
 [ns]Margarita[nse]
-"You don't need to worry about me for now. I think we've managed to secure[r]
-temporary safety. If any new information comes in, contact me immediately."[pcms]
+"You don't need to worry about me for now. I think we've[r]
+managed to secure temporary safety. If any new information[r]
+comes in, contact me immediately."[pcms]
 
 *9250|
 [fc]
 [vo_mob s="sesuka_TE0012"]
 [ns]Sesuka[nse]
-"Understood, my lady. Please be careful and take all precautions. Everyone,[r]
-please take good care of my lady."[pcms]
+"Understood, my lady. Please be careful and take all[r]
+precautions. Everyone, please take good care of my lady."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1103,8 +1168,9 @@ please take good care of my lady."[pcms]
 [fc]
 [vo_mar s="maru_TE0100"]
 [ns]Margarita[nse]
-"We don't know what kind of gas will be used, but we should try to barricade[r]
-ourselves on the upper floors as much as possible."[pcms]
+"We don't know what kind of gas will be used, but we should[r]
+try to barricade ourselves on the upper floors as much as[r]
+possible."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -1119,36 +1185,39 @@ ourselves on the upper floors as much as possible."[pcms]
 [fc]
 [vo_mar s="maru_TE0101"]
 [ns]Margarita[nse]
-"Today, let's all focus on securing airtightness on the 7th floor. We'll divide[r]
-up and seal off as many gaps as possible."[pcms]
+"Today, let's all focus on securing airtightness on the 7th[r]
+floor. We'll divide up and seal off as many gaps as[r]
+possible."[pcms]
 
 *9254|
 [fc]
-We gathered materials like duct tape and vinyl from various floors and spent the[r]
-day working together to seal off gaps.[pcms]
+We gathered materials like duct tape and vinyl from various[r]
+floors and spent the day working together to seal off gaps.[pcms]
 
 *9255|
 [fc]
-Because we needed all hands on deck, I was persuaded to join in on the work.[pcms]
+Because we needed all hands on deck, I was persuaded to join[r]
+in on the work.[pcms]
 
 *9256|
 [fc]
-Since we still had time, we decided to seal off doors leading downstairs and[r]
-routes to the rooftop at the last minute, while sealing off other places as[r]
-thoroughly as possible with double and triple layers.[pcms]
+Since we still had time, we decided to seal off doors[r]
+leading downstairs and routes to the rooftop at the last[r]
+minute, while sealing off other places as thoroughly as[r]
+possible with double and triple layers.[pcms]
 
 *9257|
 [fc]
-While we were all working on sealing off the 7th floor, shadows flitted across[r]
-the dome.[pcms]
+While we were all working on sealing off the 7th floor,[r]
+shadows flitted across the dome.[pcms]
 
 [evcg storage="EV500c"][trans_c cross time=300]
 [se buf=0 storage="se079"]
 
 *9258|
 [fc]
-The cawing of crows. A large black mass of shadows covered it. It was a flock of[r]
-infected crows.[pcms]
+The cawing of crows. A large black mass of shadows covered[r]
+it. It was a flock of infected crows.[pcms]
 
 
 [bg storage="BG019a"][trans_c cross time=500]
@@ -1156,9 +1225,10 @@ infected crows.[pcms]
 
 *9259|
 [fc]
-Perhaps reminded of last night's conversation, everyone except Jin looked[r]
-anxiously at the shadows. The crows didn't break through the dome, but their[r]
-shadows visited three times.[pcms]
+Perhaps reminded of last night's conversation, everyone[r]
+except Jin looked anxiously at the shadows. The crows didn't[r]
+break through the dome, but their shadows visited three[r]
+times.[pcms]
 
 ;mm カラス止め
 [stopse buf=0]
@@ -1194,24 +1264,28 @@ Maruko-senpai is energetic again today.[pcms]
 
 *9262|
 [fc]
-There are two more days until the gas attack including today. I fell asleep like[r]
-a log yesterday because of all the sealing work, but strangely I woke up at my[r]
-usual early time today.[pcms]
+There are two more days until the gas attack including[r]
+today. I fell asleep like a log yesterday because of all the[r]
+sealing work, but strangely I woke up at my usual early time[r]
+today.[pcms]
 
 *9263|
 [fc]
-The pain of losing Ren hasn't disappeared. It's just that little by little[r]
-something soft and sensitive inside me is fading away...[pcms]
+The pain of losing Ren hasn't disappeared. It's just that[r]
+little by little something soft and sensitive inside me is[r]
+fading away...[pcms]
 
 *9264|
 [fc]
-I realized that I hadn't seen Shigeyoshi around lately. Kousuke said with a[r]
-worried look at my face that he had left quite some time ago.[pcms]
+I realized that I hadn't seen Shigeyoshi around lately.[r]
+Kousuke said with a worried look at my face that he had left[r]
+quite some time ago.[pcms]
 
 *9265|
 [fc]
-I was taken aback that I hadn't noticed until now and realized that I really[r]
-hadn't been paying attention to my surroundings.[pcms]
+I was taken aback that I hadn't noticed until now and[r]
+realized that I really hadn't been paying attention to my[r]
+surroundings.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1277,16 +1351,18 @@ That girl was once again staring intently at the rooftop.[pcms]
 [fc]
 [vo_mar s="maru_TE0107"]
 [ns]Margarita[nse]
-"Sesuka volunteered to stay with the group at the garrison. Part of it is[r]
-because it makes it easier for her to communicate with me. But it seems they're[r]
-quite busy over there right now."[pcms]
+"Sesuka volunteered to stay with the group at the garrison.[r]
+Part of it is because it makes it easier for her to[r]
+communicate with me. But it seems they're quite busy over[r]
+there right now."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *9272|
 [fc]
 [ns]Jin[nse]
-"...I see. Well, if anything comes up they'll let us know. Don't overdo it."[pcms]
+"...I see. Well, if anything comes up they'll let us know.[r]
+Don't overdo it."[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1305,14 +1381,15 @@ quite busy over there right now."[pcms]
 
 *9274|
 [fc]
-Stretching her arms above her head, Maruko-senpai came up to the rooftop.[pcms]
+Stretching her arms above her head, Maruko-senpai came up to[r]
+the rooftop.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *9275|
 [fc]
-After stretching a bit, Maruko-senpai dropped her hips and suddenly began to[r]
-unleash kicks and punches.[pcms]
+After stretching a bit, Maruko-senpai dropped her hips and[r]
+suddenly began to unleash kicks and punches.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1330,8 +1407,9 @@ It's already dusk.[pcms]
 
 *9278|
 [fc]
-Whether we can survive until tomorrow morning... We've done what we could. Now,[r]
-it's out of our hands. We can only leave our fate to the heavens.[pcms]
+Whether we can survive until tomorrow morning... We've done[r]
+what we could. Now, it's out of our hands. We can only leave[r]
+our fate to the heavens.[pcms]
 
 *9279|
 [fc]
@@ -1347,8 +1425,8 @@ it's out of our hands. We can only leave our fate to the heavens.[pcms]
 
 *9280|
 [fc]
-Glancing down at the street, I saw a horde of infected people overflowing on[r]
-Center Street.[pcms]
+Glancing down at the street, I saw a horde of infected[r]
+people overflowing on Center Street.[pcms]
 
 *9281|
 [fc]
@@ -1357,18 +1435,20 @@ Center Street.[pcms]
 
 *9282|
 [fc]
-Faint memories from the news came back to me. The infected who had moved to the[r]
-suburbs were returning to the city center because they couldn't find any prey...[pcms]
+Faint memories from the news came back to me. The infected[r]
+who had moved to the suburbs were returning to the city[r]
+center because they couldn't find any prey...[pcms]
 
 *9283|
 [fc]
-As I looked down at the infected crowding the street, the calm feeling I had[r]
-earlier began to fade away.[pcms]
+As I looked down at the infected crowding the street, the[r]
+calm feeling I had earlier began to fade away.[pcms]
 
 *9284|
 [fc]
-Is it really going to be okay...? Can the friends here with me survive safely?[r]
-The vague anxiety I had always carried was sprouting anew.[pcms]
+Is it really going to be okay...? Can the friends here with[r]
+me survive safely? The vague anxiety I had always carried[r]
+was sprouting anew.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

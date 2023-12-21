@@ -26,8 +26,8 @@
 
 *2042|
 [fc]
-The lockdown of LASER's first floor and the elimination of the infected roaming[r]
-inside the mansion were successful.[pcms]
+The lockdown of LASER's first floor and the elimination of[r]
+the infected roaming inside the mansion were successful.[pcms]
 
 *2043|
 [fc]
@@ -39,8 +39,9 @@ But I feel heavy-hearted.[pcms]
 
 *2045|
 [fc]
-The sensation of flesh and bone shattering under my blows, lingering in my[r]
-hands, continued to assault me, draining all strength from my body.[pcms]
+The sensation of flesh and bone shattering under my blows,[r]
+lingering in my hands, continued to assault me, draining all[r]
+strength from my body.[pcms]
 
 *2046|
 [fc]
@@ -53,7 +54,8 @@ For the first time, I struck someone like that, and then...[pcms]
 
 *2048|
 [fc]
-...I don't want to think about it. That I might have taken a life.[pcms]
+...I don't want to think about it. That I might have taken a[r]
+life.[pcms]
 
 *2049|
 [fc]
@@ -69,18 +71,20 @@ But I... We have things we must do.[pcms]
 
 *2051|
 [fc]
-We were headed to "Machiyar-Guard" on Inokashira Street, behind LASER, to secure[r]
-food supplies and hide the remains of the bar's master.[pcms]
+We were headed to "Machiyar-Guard" on Inokashira Street,[r]
+behind LASER, to secure food supplies and hide the remains[r]
+of the bar's master.[pcms]
 
 *2052|
 [fc]
-Even though I say that, LASER is just around the corner. Walking through the[r]
-alley between buildings, we arrived in no time.[pcms]
+Even though I say that, LASER is just around the corner.[r]
+Walking through the alley between buildings, we arrived in[r]
+no time.[pcms]
 
 *2053|
 [fc]
-As expected, the back door was locked, and turning the knob did nothing to open[r]
-it.[pcms]
+As expected, the back door was locked, and turning the knob[r]
+did nothing to open it.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -91,16 +95,16 @@ it.[pcms]
 
 *2055|
 [fc]
-Saying that, Kousuke swung the barrel he was carrying with all his might at the[r]
-doorknob.[pcms]
+Saying that, Kousuke swung the barrel he was carrying with[r]
+all his might at the doorknob.[pcms]
 
 ;//se046・ガン
 [se buf=0 storage="se046"]
 
 *2056|
 [fc]
-With a heavy thud, the door slowly opened. No matter how well it was locked,[r]
-it's useless once destroyed.[pcms]
+With a heavy thud, the door slowly opened. No matter how[r]
+well it was locked, it's useless once destroyed.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -111,8 +115,8 @@ it's useless once destroyed.[pcms]
 
 *2058|
 [fc]
-The sound brought back that unpleasant sensation to my hands, and I replied to[r]
-Kousuke absentmindedly.[pcms]
+The sound brought back that unpleasant sensation to my[r]
+hands, and I replied to Kousuke absentmindedly.[pcms]
 
 *2059|
 [fc]
@@ -153,13 +157,15 @@ Kousuke absentmindedly.[pcms]
 
 *2064|
 [fc]
-Silently dragging our feet, we made several trips to bring in the corpses, which[r]
-we then wrapped in blankets and stored inside a large commercial refrigerator.[pcms]
+Silently dragging our feet, we made several trips to bring[r]
+in the corpses, which we then wrapped in blankets and stored[r]
+inside a large commercial refrigerator.[pcms]
 
 *2065|
 [fc]
-Among them were those we had just killed, those Jin and others had shot while[r]
-rescuing Mizuki, and... the bodies of the DJ bar's master and mama.[pcms]
+Among them were those we had just killed, those Jin and[r]
+others had shot while rescuing Mizuki, and... the bodies of[r]
+the DJ bar's master and mama.[pcms]
 
 *2066|
 [fc]
@@ -168,26 +174,27 @@ rescuing Mizuki, and... the bodies of the DJ bar's master and mama.[pcms]
 
 *2067|
 [fc]
-I offered a prayer to those who were once human and to those I had killed[r]
-myself, even though they were infected.[pcms]
+I offered a prayer to those who were once human and to those[r]
+I had killed myself, even though they were infected.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2068|
 [fc]
 [ns]Kousuke[nse]
-`Master... and mama-san... May you be a couple again in your next life... And[r]
-teach me about good music again...[pcms]
+`Master... and mama-san... May you be a couple again in your[r]
+next life... And teach me about good music again...[pcms]
 
 *2069|
 [fc]
-I wanted to bury the master and mama more respectfully. But in this situation, I[r]
-couldn't think of any other way to bury them.[pcms]
+I wanted to bury the master and mama more respectfully. But[r]
+in this situation, I couldn't think of any other way to bury[r]
+them.[pcms]
 
 *2070|
 [fc]
-Because it was dangerous to touch blood, we couldn't even close their eyes for[r]
-them.[pcms]
+Because it was dangerous to touch blood, we couldn't even[r]
+close their eyes for them.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -195,8 +202,8 @@ them.[pcms]
 [fc]
 [vo_yuh s="yuho1556"]
 [ns]Yuuho[nse]
-`Master and mama always treated us kindly. They let us into their shop even when[r]
-we weren't customers...[pcms]
+`Master and mama always treated us kindly. They let us into[r]
+their shop even when we weren't customers...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -204,15 +211,16 @@ we weren't customers...[pcms]
 [fc]
 [vo_ren s="ren1370"]
 [ns]Ren[nse]
-`Yeah... Thanks to them, I came to like music other than classical...[pcms]
+`Yeah... Thanks to them, I came to like music other than[r]
+classical...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2073|
 [fc]
 [ns]Kousuke[nse]
-`...Master really loved music. He used to play all sorts of tracks for us,[r]
-right?[pcms]
+`...Master really loved music. He used to play all sorts of[r]
+tracks for us, right?[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -220,12 +228,14 @@ right?[pcms]
 [fc]
 [vo_miz s="mizuki0296"]
 [ns]Mizuki[nse]
-`...I also had quite a bit of respect for the master, you know.[pcms]
+`...I also had quite a bit of respect for the master, you[r]
+know.[pcms]
 
 *2075|
 [fc]
-We each hesitantly offered our final words to the remains of the master and[r]
-mama, which were placed on top of the pile of bodies.[pcms]
+We each hesitantly offered our final words to the remains of[r]
+the master and mama, which were placed on top of the pile of[r]
+bodies.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a26"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -238,8 +248,8 @@ mama, which were placed on top of the pile of bodies.[pcms]
 
 *2077|
 [fc]
-Maruko-senpai, who had no acquaintance with the master and mama, also quietly[r]
-joined her hands in prayer.[pcms]
+Maruko-senpai, who had no acquaintance with the master and[r]
+mama, also quietly joined her hands in prayer.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -251,12 +261,13 @@ joined her hands in prayer.[pcms]
 
 *2079|
 [fc]
-I tried to say my last goodbye as well. But I couldn't continue speaking.[pcms]
+I tried to say my last goodbye as well. But I couldn't[r]
+continue speaking.[pcms]
 
 *2080|
 [fc]
-I couldn't save the master... Especially mama, I couldn't do anything for her...[r]
-I am... powerless...[pcms]
+I couldn't save the master... Especially mama, I couldn't do[r]
+anything for her... I am... powerless...[pcms]
 
 ;//se040・ドアノブを回す
 [se buf=0 storage="se040"]
@@ -269,35 +280,38 @@ I am... powerless...[pcms]
 *2081|
 [fc]
 [ns]Shigeyoshi[nse]
-`There's quite a lot here... oh! Doesn't this look like something Aniki would[r]
-like? Let's gorge on it later together...[pcms]
+`There's quite a lot here... oh! Doesn't this look like[r]
+something Aniki would like? Let's gorge on it later[r]
+together...[pcms]
 
 *2082|
 [fc]
-Jin and Shigeyoshi, who had been searching for food a little distance away, came[r]
-into the backyard and started rummaging through the refrigerator for[r]
-ingredients.[pcms]
+Jin and Shigeyoshi, who had been searching for food a little[r]
+distance away, came into the backyard and started rummaging[r]
+through the refrigerator for ingredients.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2083|
 [fc]
 [ns]Shigeyoshi[nse]
-`There's some good liquor here... ...but why do I have to be with these guys...[r]
-Tch[pcms]
+`There's some good liquor here... ...but why do I have to be[r]
+with these guys... Tch[pcms]
 
 *2084|
 [fc]
-While happily collecting bottles of alcohol, Shigeyoshi clicked his tongue[r]
-bitterly upon noticing us in his field of view.[pcms]
+While happily collecting bottles of alcohol, Shigeyoshi[r]
+clicked his tongue bitterly upon noticing us in his field of[r]
+view.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2085|
 [fc]
 [ns]Jin[nse]
-`Don't get distracted by unnecessary things. Take all of that with you. And if[r]
-there are snacks... that would be perfect.[pcms]
+`Don't get distracted by unnecessary things. Take all of[r]
+that with you. And if there are snacks... that would be[r]
+perfect.[pcms]
 
 *2086|
 [fc]
@@ -305,9 +319,9 @@ Shigeyoshi's glare was mainly directed at Maruko-senpai.[pcms]
 
 *2087|
 [fc]
-Earlier at the game center, amidst the chaos of fighting infected, he tried to[r]
-take advantage of the situation to hug her and ended up eating a fierce kick[r]
-instead.[pcms]
+Earlier at the game center, amidst the chaos of fighting[r]
+infected, he tried to take advantage of the situation to hug[r]
+her and ended up eating a fierce kick instead.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -325,9 +339,10 @@ instead.[pcms]
 
 *2090|
 [fc]
-Still with a foolish expression from stuffing tissues up his nose, Shigeyoshi[r]
-continued glaring at Maruko-senpai with dissatisfaction until Jin urged him on[r]
-and he finally looked away.[pcms]
+Still with a foolish expression from stuffing tissues up his[r]
+nose, Shigeyoshi continued glaring at Maruko-senpai with[r]
+dissatisfaction until Jin urged him on and he finally looked[r]
+away.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a27"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -339,8 +354,8 @@ and he finally looked away.[pcms]
 
 *2092|
 [fc]
-Maruko-senpai completely ignored Shigeyoshi, turning to the Master and Mama,[r]
-crossing herself in front of her chest.[pcms]
+Maruko-senpai completely ignored Shigeyoshi, turning to the[r]
+Master and Mama, crossing herself in front of her chest.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -351,8 +366,8 @@ crossing herself in front of her chest.[pcms]
 
 *2094|
 [fc]
-As Maruko-senpai quietly recited a passage from the Bible, Jin coldly mocked her[r]
-with his words as if to ridicule her.[pcms]
+As Maruko-senpai quietly recited a passage from the Bible,[r]
+Jin coldly mocked her with his words as if to ridicule her.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -367,37 +382,40 @@ with his words as if to ridicule her.[pcms]
 [fc]
 [vo_mar s="maru1538"]
 [ns]Margarita[nse]
-"Really... How about showing some respect for the dead? Given the state of this[r]
-city, it wouldn't be surprising if you ended up in the same situation, right?"[pcms]
+"Really... How about showing some respect for the dead?[r]
+Given the state of this city, it wouldn't be surprising if[r]
+you ended up in the same situation, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2097|
 [fc]
 [ns]Jin[nse]
-"If it were me, I'd be annoyed to be mourned by someone I hardly know."[pcms]
+"If it were me, I'd be annoyed to be mourned by someone I[r]
+hardly know."[pcms]
 
 *2098|
 [fc]
-Without showing any sign of being intimidated by the harsh words, Jin spoke[r]
-smoothly.[pcms]
+Without showing any sign of being intimidated by the harsh[r]
+words, Jin spoke smoothly.[pcms]
 
 *2099|
 [fc]
 [ns]Jin[nse]
-"First of all, there are plenty of corpses lying around. There are fewer people[r]
-alive and well now."[pcms]
+"First of all, there are plenty of corpses lying around.[r]
+There are fewer people alive and well now."[pcms]
 
 *2100|
 [fc]
 [ns]Jin[nse]
-"...Before becoming one to be mourned, before dying... there are things that[r]
-need to be done. That's what's important, right?"[pcms]
+"...Before becoming one to be mourned, before dying... there[r]
+are things that need to be done. That's what's important,[r]
+right?"[pcms]
 
 *2101|
 [fc]
-What Jin was saying wasn't wrong. But... in this situation, there was no need to[r]
-say such things...[pcms]
+What Jin was saying wasn't wrong. But... in this situation,[r]
+there was no need to say such things...[pcms]
 
 *2102|
 [fc]
@@ -407,13 +425,14 @@ say such things...[pcms]
 *2103|
 [fc]
 [ns]Jin[nse]
-"I don't feel good about visiting graves repeatedly or eating stuff left in such[r]
-places."[pcms]
+"I don't feel good about visiting graves repeatedly or[r]
+eating stuff left in such places."[pcms]
 
 *2104|
 [fc]
-Still with his back turned to us, Shigeyoshi continued packing alcohol and food[r]
-into boxes while saying terrible things.[pcms]
+Still with his back turned to us, Shigeyoshi continued[r]
+packing alcohol and food into boxes while saying terrible[r]
+things.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -431,8 +450,8 @@ into boxes while saying terrible things.[pcms]
 
 *2107|
 [fc]
-The two of them, having packed various items, shouldered the boxes and returned[r]
-to LASER.[pcms]
+The two of them, having packed various items, shouldered the[r]
+boxes and returned to LASER.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -464,8 +483,8 @@ Yuuho bit her lip and hesitantly continued her words.[pcms]
 
 *2112|
 [fc]
-Maybe... that might be true. Jin might be right. But being right doesn't[r]
-necessarily mean it's good...[pcms]
+Maybe... that might be true. Jin might be right. But being[r]
+right doesn't necessarily mean it's good...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -477,14 +496,16 @@ necessarily mean it's good...[pcms]
 
 *2114|
 [fc]
-Before becoming one to be mourned... Before dying... there are things that need[r]
-to be done. Does that include killing people...?[pcms]
+Before becoming one to be mourned... Before dying... there[r]
+are things that need to be done. Does that include killing[r]
+people...?[pcms]
 
 *2115|
 [fc]
 [vo_yuh s="yuho1560"]
 [ns]Yuuho[nse]
-"Wataru? What's wrong, you're spacing out... ...It's a shock, isn't it?"[pcms]
+"Wataru? What's wrong, you're spacing out... ...It's a[r]
+shock, isn't it?"[pcms]
 
 *2116|
 [fc]
@@ -496,7 +517,8 @@ to be done. Does that include killing people...?[pcms]
 
 *2117|
 [fc]
-Before I knew it, I was lost in thought and Yuuho was peering into my face.[pcms]
+Before I knew it, I was lost in thought and Yuuho was[r]
+peering into my face.[pcms]
 
 *2118|
 [fc]
@@ -504,16 +526,17 @@ Ren also seemed concerned and gently held my hand.[pcms]
 
 *2119|
 [fc]
-I thought to myself that if I looked in a mirror now, I would probably see a[r]
-terrible complexion.[pcms]
+I thought to myself that if I looked in a mirror now, I[r]
+would probably see a terrible complexion.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2120|
 [fc]
 [ns]Kousuke[nse]
-"Ah, so that's it. Well, for the usual Wataru, you've been moving around a lot[r]
-and doing great! Today's Wataru was cool, huh?"[pcms]
+"Ah, so that's it. Well, for the usual Wataru, you've been[r]
+moving around a lot and doing great! Today's Wataru was[r]
+cool, huh?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -525,7 +548,8 @@ and doing great! Today's Wataru was cool, huh?"[pcms]
 
 *2122|
 [fc]
-Yuuho nodded and looked at me as if she remembered something.[pcms]
+Yuuho nodded and looked at me as if she remembered[r]
+something.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -550,8 +574,8 @@ She was unusually hesitant and faltering in her speech.[pcms]
 [fc]
 [vo_yuh s="yuho1563"]
 [ns]Yuuho[nse]
-"It's nothing? Anyway, it's getting dark, so let's head back to LASER for[r]
-dinner?"[pcms]
+"It's nothing? Anyway, it's getting dark, so let's head back[r]
+to LASER for dinner?"[pcms]
 ;//＠少し照れて答える。
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
@@ -559,8 +583,8 @@ dinner?"[pcms]
 *2127|
 [fc]
 [ns]Kousuke[nse]
-"Oh! Food, huh! I'm starting to get hungry too. I'm looking forward to Yuuho's[r]
-special menu!"[pcms]
+"Oh! Food, huh! I'm starting to get hungry too. I'm looking[r]
+forward to Yuuho's special menu!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -568,7 +592,8 @@ special menu!"[pcms]
 [fc]
 [vo_yuh s="yuho1564"]
 [ns]Yuuho[nse]
-"Yeah! I'll put my heart into making it? It'll definitely be delicious!"[pcms]
+"Yeah! I'll put my heart into making it? It'll definitely be[r]
+delicious!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -592,7 +617,8 @@ It seemed like everyone had already switched to dinner mode.[pcms]
 
 *2132|
 [fc]
-Each person was chatting amiably about what they wanted to cook or eat.[pcms]
+Each person was chatting amiably about what they wanted to[r]
+cook or eat.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -611,13 +637,13 @@ In the midst of this, Yuuho glanced at me once more.[pcms]
 
 *2135|
 [fc]
-I was preoccupied with the words Yuuho had started to say earlier and couldn't[r]
-join in everyone's conversation.[pcms]
+I was preoccupied with the words Yuuho had started to say[r]
+earlier and couldn't join in everyone's conversation.[pcms]
 
 *2136|
 [fc]
-...Hmm. I wonder what Yuuho was trying to say. But I'm so hungry... my head[r]
-isn't working well...[pcms]
+...Hmm. I wonder what Yuuho was trying to say. But I'm so[r]
+hungry... my head isn't working well...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -647,12 +673,14 @@ isn't working well...[pcms]
 
 *2140|
 [fc]
-At Kousuke's signal, everyone started walking back towards LASER together.[pcms]
+At Kousuke's signal, everyone started walking back towards[r]
+LASER together.[pcms]
 
 *2141|
 [fc]
-Left behind alone, I turned back to the Master's remains once more, remembering[r]
-their kind smile and the music they taught me.[pcms]
+Left behind alone, I turned back to the Master's remains[r]
+once more, remembering their kind smile and the music they[r]
+taught me.[pcms]
 
 *2142|
 [fc]
@@ -661,7 +689,8 @@ their kind smile and the music they taught me.[pcms]
 
 *2143|
 [fc]
-I bowed to the remains and then followed after everyone else.[pcms]
+I bowed to the remains and then followed after everyone[r]
+else.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

@@ -22,13 +22,14 @@
 
 *2|
 [fc]
-I was awakened by a dazzling light pulling me back from the world of sleep, and[r]
-lazily reached out from my bed to try and draw the curtains.[pcms]
+I was awakened by a dazzling light pulling me back from the[r]
+world of sleep, and lazily reached out from my bed to try[r]
+and draw the curtains.[pcms]
 
 *3|
 [fc]
-The early summer sunlight was already shining into my room, but it still had to[r]
-be quite early.[pcms]
+The early summer sunlight was already shining into my room,[r]
+but it still had to be quite early.[pcms]
 
 *4|
 [fc]
@@ -41,8 +42,9 @@ It's too early to be waking up during summer vacation.[pcms]
 
 *6|
 [fc]
-Last night, I scolded myself for not drawing the curtains before going to bed,[r]
-but lying in bed, I could touch the curtains but couldn't manage to draw them.[pcms]
+Last night, I scolded myself for not drawing the curtains[r]
+before going to bed, but lying in bed, I could touch the[r]
+curtains but couldn't manage to draw them.[pcms]
 
 *7|
 [fc]
@@ -50,8 +52,8 @@ Can't be helped.[pcms]
 
 *8|
 [fc]
-Forcing my body that still craved sleep to move, I sat up in bed and[r]
-absentmindedly looked around my room.[pcms]
+Forcing my body that still craved sleep to move, I sat up in[r]
+bed and absentmindedly looked around my room.[pcms]
 
 *9|
 [fc]
@@ -80,7 +82,8 @@ It feels like there's no sense of reality at all.[pcms]
 
 *12|
 [fc]
-If we're talking about a lack of reality, I had SEX with Inori-san yesterday.[pcms]
+If we're talking about a lack of reality, I had SEX with[r]
+Inori-san yesterday.[pcms]
 
 *13|
 [fc]
@@ -99,36 +102,40 @@ My bleary eyes once again scanned my unremarkable room...[pcms]
 
 *15|
 [fc]
-My gaze caught the luggage prepared in the corner of my room.[pcms]
+My gaze caught the luggage prepared in the corner of my[r]
+room.[pcms]
 
 *16|
 [fc]
 [ns]Wataru[nse]
-"That's right! Today's the day for camping!! And, I haven't even packed the[r]
-stuff I bought yet."[pcms]
+"That's right! Today's the day for camping!! And, I haven't[r]
+even packed the stuff I bought yet."[pcms]
 
 *17|
 [fc]
-Suddenly wide awake, I frantically peered at the alarm clock that usually wakes[r]
-me up.[pcms]
+Suddenly wide awake, I frantically peered at the alarm clock[r]
+that usually wakes me up.[pcms]
 
 *18|
 [fc]
-Luckily, there's still about two hours left until the meeting time.[pcms]
+Luckily, there's still about two hours left until the[r]
+meeting time.[pcms]
 
 *19|
 [fc]
-But if I had properly closed the curtains and slept, I wouldn't have been woken[r]
-up by the morning sun...[pcms]
+But if I had properly closed the curtains and slept, I[r]
+wouldn't have been woken up by the morning sun...[pcms]
 
 *20|
 [fc]
 [ns]Wataru[nse]
-"Uwaaaah, good job to me from last night for forgetting to draw the curtains!"[pcms]
+"Uwaaaah, good job to me from last night for forgetting to[r]
+draw the curtains!"[pcms]
 
 *21|
 [fc]
-Completely forgetting the scolding from earlier, I praised my last night's self.[pcms]
+Completely forgetting the scolding from earlier, I praised[r]
+my last night's self.[pcms]
 
 ;//jumpÅF20010
 [jump storage="20010.ks" target=*20010_TOP]

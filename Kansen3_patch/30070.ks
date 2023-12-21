@@ -22,13 +22,14 @@ Indeed, the music room door is closed.[pcms]
 
 *242|
 [fc]
-But among the female students, there's one I recognize... surely a member of the[r]
-choir club who's an acquaintance of Ren.[pcms]
+But among the female students, there's one I recognize...[r]
+surely a member of the choir club who's an acquaintance of[r]
+Ren.[pcms]
 
 *243|
 [fc]
-Which means, maybe the music room door is just closed, not that it has already[r]
-fallen, right?[pcms]
+Which means, maybe the music room door is just closed, not[r]
+that it has already fallen, right?[pcms]
 
 *244|
 [fc]
@@ -64,8 +65,9 @@ When I realized it, I was shouting Ren's name.[pcms]
 *250|
 [fc]
 [ns]Wataru[nse]
-"But, but Ren is, Ren is supposed to be there... in that music room. And yet...[r]
-Ren, Ren, are you there? You are there, right? Ren!!"[pcms]
+"But, but Ren is, Ren is supposed to be there... in that[r]
+music room. And yet... Ren, Ren, are you there? You are[r]
+there, right? Ren!!"[pcms]
 
 *251|
 [fc]
@@ -77,8 +79,8 @@ Maybe I'm crying.[pcms]
 
 *253|
 [fc]
-Through my blurred vision, I can see a senior re-gripping a mop to fend off[r]
-those attacking us.[pcms]
+Through my blurred vision, I can see a senior re-gripping a[r]
+mop to fend off those attacking us.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -94,7 +96,8 @@ But Ren is... Ren is.[pcms]
 
 *256|
 [fc]
-Ren's voice reached my ears from somewhere. An auditory hallucination?[pcms]
+Ren's voice reached my ears from somewhere. An auditory[r]
+hallucination?[pcms]
 
 *257|
 [fc]
@@ -113,8 +116,8 @@ No--[pcms]
 
 *260|
 [fc]
-Certainly, I can clearly hear Ren's voice. And it's not like those infected by[r]
-the virus, it's the usual voice of Ren.[pcms]
+Certainly, I can clearly hear Ren's voice. And it's not like[r]
+those infected by the virus, it's the usual voice of Ren.[pcms]
 
 ;//Å®block:30080Ç÷
 [jump storage="30080.ks" target=*30080_TOP]

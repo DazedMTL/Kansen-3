@@ -27,22 +27,24 @@
 
 *170|
 [fc]
-Marie, who had been watching me, looked at me with a serious expression.[pcms]
+Marie, who had been watching me, looked at me with a serious[r]
+expression.[pcms]
 
 *171|
 [fc]
 [ns]Wataru[nse]
-"Yeah, it's no good. I don't know what's going on inside LASER, but it's[r]
-definitely not normal."[pcms]
+"Yeah, it's no good. I don't know what's going on inside[r]
+LASER, but it's definitely not normal."[pcms]
 
 *172|
 [fc]
-The call tone keeps ringing, which means either they don't have their cell[r]
-phones or they can't answer them.[pcms]
+The call tone keeps ringing, which means either they don't[r]
+have their cell phones or they can't answer them.[pcms]
 
 *173|
 [fc]
-Maybe they're holding their breath and hiding to avoid the men...[pcms]
+Maybe they're holding their breath and hiding to avoid the[r]
+men...[pcms]
 
 *174|
 [fc]
@@ -54,8 +56,9 @@ I should stop ringing their cell phones.[pcms]
 [fc]
 [vo_mar s="maru_BE0002"]
 [ns]Margarita[nse]
-"The others must have noticed the men too. Whether we fight or flee, they'll[r]
-need our help. Let's go back to help them right away."[pcms]
+"The others must have noticed the men too. Whether we fight[r]
+or flee, they'll need our help. Let's go back to help them[r]
+right away."[pcms]
 
 *176|
 [fc]
@@ -71,8 +74,8 @@ We'll have to fight back with these.[pcms]
 
 *179|
 [fc]
-While checking my Bob Chau Special at hand, I tried to rid myself of any[r]
-hesitation.[pcms]
+While checking my Bob Chau Special at hand, I tried to rid[r]
+myself of any hesitation.[pcms]
 
 *180|
 [fc]
@@ -85,11 +88,13 @@ Even if they are just punks.[pcms]
 *182|
 [fc]
 [ns]Wataru[nse]
-"At times like this, having Marie by my side really gives me strength."[pcms]
+"At times like this, having Marie by my side really gives me[r]
+strength."[pcms]
 
 *183|
 [fc]
-I was honestly expressing the words I truly felt from the bottom of my heart.[pcms]
+I was honestly expressing the words I truly felt from the[r]
+bottom of my heart.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -117,8 +122,8 @@ Marie blushed slightly and then turned away with a huff.[pcms]
 
 *188|
 [fc]
-Marie slapped her cheeks to psych herself up and then reached out her hand to[r]
-me.[pcms]
+Marie slapped her cheeks to psych herself up and then[r]
+reached out her hand to me.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 

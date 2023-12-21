@@ -16,35 +16,38 @@ Without understanding why, I frantically ran away.[pcms]
 
 *293|
 [fc]
-Driven by fear, my confused thoughts couldn't even search for a proper answer.[pcms]
+Driven by fear, my confused thoughts couldn't even search[r]
+for a proper answer.[pcms]
 
 *294|
 [fc]
-Is this a dream, or perhaps a movie shoot? A situation that seems nothing but[r]
-fiction has befallen me.[pcms]
+Is this a dream, or perhaps a movie shoot? A situation that[r]
+seems nothing but fiction has befallen me.[pcms]
 
 *295|
 [fc]
-I want to declare it all a dream and crouch down on the spot, holding my head.[r]
-If I close my eyes and scream for the nightmare to end, I feel like I could[r]
-return to an ordinary day.[pcms]
+I want to declare it all a dream and crouch down on the[r]
+spot, holding my head. If I close my eyes and scream for the[r]
+nightmare to end, I feel like I could return to an ordinary[r]
+day.[pcms]
 
 *296|
 [fc]
-However, the scene before my eyes, the looming fear, didn't even give me a[r]
-moment to escape from reality.[pcms]
+However, the scene before my eyes, the looming fear, didn't[r]
+even give me a moment to escape from reality.[pcms]
 
 *297|
 [fc]
-Gasping for breath, I crossed the ground and headed to the gymnasium. What[r]
-awaited me there was the cruel reality of despair.[pcms]
+Gasping for breath, I crossed the ground and headed to the[r]
+gymnasium. What awaited me there was the cruel reality of[r]
+despair.[pcms]
 
 [evcg storage="evs001"][trans_c cross time=300]
 
 *298|
 [fc]
-The gymnasium was filled with beings that looked human but were not, all turning[r]
-their glittering red eyes towards me.[pcms]
+The gymnasium was filled with beings that looked human but[r]
+were not, all turning their glittering red eyes towards me.[pcms]
 
 *299|
 [fc]
@@ -53,8 +56,9 @@ their glittering red eyes towards me.[pcms]
 
 *300|
 [fc]
-Surprise and fear turned into words that flew out of my mouth. It was an[r]
-extremely foolish act that only served to draw attention to myself.[pcms]
+Surprise and fear turned into words that flew out of my[r]
+mouth. It was an extremely foolish act that only served to[r]
+draw attention to myself.[pcms]
 
 *301|
 [fc]
@@ -62,19 +66,22 @@ Suddenly, their red eyes were all focused on me.[pcms]
 
 *302|
 [fc]
-Before I could think, I unconsciously turned my back and started running.[pcms]
+Before I could think, I unconsciously turned my back and[r]
+started running.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *303|
 [fc]
-The sound of countless footsteps approached from behind, but without looking[r]
-back, I just ran desperately with all my might.[pcms]
+The sound of countless footsteps approached from behind, but[r]
+without looking back, I just ran desperately with all my[r]
+might.[pcms]
 
 *304|
 [fc]
-Wanting to escape the footsteps of despair, blindly and earnestly, I tried with[r]
-all my strength to shake off the presence looming behind me.[pcms]
+Wanting to escape the footsteps of despair, blindly and[r]
+earnestly, I tried with all my strength to shake off the[r]
+presence looming behind me.[pcms]
 
 [bg storage="BG017"][trans_c cross time=500]
 
@@ -82,9 +89,9 @@ all my strength to shake off the presence looming behind me.[pcms]
 
 *305|
 [fc]
-The building of the indoor pool came into view as I ran. It was one of the[r]
-closest buildings from the gymnasium. The countless footsteps echoing behind me[r]
-were closing in fast.[pcms]
+The building of the indoor pool came into view as I ran. It[r]
+was one of the closest buildings from the gymnasium. The[r]
+countless footsteps echoing behind me were closing in fast.[pcms]
 
 ;//---------------------------------------------------------------
 ;//Åúéûå¿éÆëIëéàÇ`ÇP

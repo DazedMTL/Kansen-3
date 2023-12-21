@@ -30,8 +30,8 @@
 
 *1087|
 [fc]
-When we returned to the dome, I saw the gang we had met before surrounding Yuuho[r]
-and Ren.[pcms]
+When we returned to the dome, I saw the gang we had met[r]
+before surrounding Yuuho and Ren.[pcms]
 
 *1088|
 [fc]
@@ -62,7 +62,8 @@ It was Jin and Shigeyoshi... those two.[pcms]
 
 *1092|
 [fc]
-The rough-looking man among them was smirking at the frightened pair.[pcms]
+The rough-looking man among them was smirking at the[r]
+frightened pair.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -90,16 +91,18 @@ The rough-looking man among them was smirking at the frightened pair.[pcms]
 *1096|
 [fc]
 [ns]Shigeyoshi[nse]
-"Like hell I will! If you want to move me, you'll have to do it by force!"[pcms]
+"Like hell I will! If you want to move me, you'll have to do[r]
+it by force!"[pcms]
 
 *1097|
 [fc]
-Kousuke, infuriated, is met with nothing but a sneering laugh from Shigeyoshi,[r]
-who doesn't drop his grin.[pcms]
+Kousuke, infuriated, is met with nothing but a sneering[r]
+laugh from Shigeyoshi, who doesn't drop his grin.[pcms]
 
 *1098|
 [fc]
-Their gazes locked in a glare, Kousuke and Shigeyoshi faced off.[pcms]
+Their gazes locked in a glare, Kousuke and Shigeyoshi faced[r]
+off.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -110,8 +113,9 @@ Their gazes locked in a glare, Kousuke and Shigeyoshi faced off.[pcms]
 
 *1100|
 [fc]
-Jin, the man, didn't react to Kousuke, just watched us, but I could feel a tense[r]
-atmosphere emanating from his entire body.[pcms]
+Jin, the man, didn't react to Kousuke, just watched us, but[r]
+I could feel a tense atmosphere emanating from his entire[r]
+body.[pcms]
 
 *1101|
 [fc]
@@ -126,7 +130,8 @@ Where did these guys come from!? What are they after...!?[pcms]
 
 *1103|
 [fc]
-Just as the situation was about to explode, a familiar female voice echoed.[pcms]
+Just as the situation was about to explode, a familiar[r]
+female voice echoed.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -163,8 +168,8 @@ The woman froze in place as she noticed us.[pcms]
 *1108|
 [fc]
 [ns]Kousuke[nse]
-"Mizuki...! You're okay, right!? Are you hurt? Did anything scary happen to[r]
-you?"[pcms]
+"Mizuki...! You're okay, right!? Are you hurt? Did anything[r]
+scary happen to you?"[pcms]
 
 *1109|
 [fc]
@@ -172,8 +177,9 @@ Kousuke's voice was filled with excitement as he called out.[pcms]
 
 *1110|
 [fc]
-While escaping through the underground passages, Kousuke had been constantly[r]
-worried about Mizuki's safety; he couldn't be anything but relieved.[pcms]
+While escaping through the underground passages, Kousuke had[r]
+been constantly worried about Mizuki's safety; he couldn't[r]
+be anything but relieved.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -186,8 +192,8 @@ worried about Mizuki's safety; he couldn't be anything but relieved.[pcms]
 
 *1112|
 [fc]
-Mizuki, who had momentarily shown a stiff smile at the call, turned her face[r]
-away sharply the next moment.[pcms]
+Mizuki, who had momentarily shown a stiff smile at the call,[r]
+turned her face away sharply the next moment.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -195,8 +201,8 @@ away sharply the next moment.[pcms]
 [fc]
 [vo_miz s="mizuki0261"]
 [ns]Mizuki[nse]
-"That's none of your business! Whatever happens to me...! I don't need you[r]
-anymore...!"[pcms]
+"That's none of your business! Whatever happens to me...! I[r]
+don't need you anymore...!"[pcms]
 ;//ÅóÇ‚ÇÕÇËà”ínÇí£Ç¡ÇƒÇµÇ‹Ç§
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
@@ -208,7 +214,8 @@ anymore...!"[pcms]
 
 *1115|
 [fc]
-At that moment, Jin, who had been silent until now, pointed at us smoothly.[pcms]
+At that moment, Jin, who had been silent until now, pointed[r]
+at us smoothly.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -232,8 +239,8 @@ I glanced at my senior for guidance.[pcms]
 
 *1120|
 [fc]
-Maruko-senpai was tensed up just like Jin, ready to spring into action at any[r]
-moment.[pcms]
+Maruko-senpai was tensed up just like Jin, ready to spring[r]
+into action at any moment.[pcms]
 
 *1121|
 [fc]
@@ -242,8 +249,8 @@ moment.[pcms]
 
 *1122|
 [fc]
-I thought I had to be honest, so I answered while also asking a question in[r]
-return.[pcms]
+I thought I had to be honest, so I answered while also[r]
+asking a question in return.[pcms]
 
 *1123|
 [fc]
@@ -278,13 +285,14 @@ Jin ignored my question and pressed on with his own.[pcms]
 *1128|
 [fc]
 [ns]Kousuke[nse]
-"Come on, that's not fair! We answered honestly without hiding anything! It's[r]
-only polite for you to answer too!"[pcms]
+"Come on, that's not fair! We answered honestly without[r]
+hiding anything! It's only polite for you to answer too!"[pcms]
 
 *1129|
 [fc]
-Possibly due to the tension or being treated coldly by Mizuki, Kousuke's tone[r]
-was rougher than usual as he barked out.[pcms]
+Possibly due to the tension or being treated coldly by[r]
+Mizuki, Kousuke's tone was rougher than usual as he barked[r]
+out.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -316,7 +324,8 @@ was rougher than usual as he barked out.[pcms]
 
 *1134|
 [fc]
-Fueled by anger, Kousuke pointed sharply at Jin and moved to confront him.[pcms]
+Fueled by anger, Kousuke pointed sharply at Jin and moved to[r]
+confront him.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -327,7 +336,8 @@ Fueled by anger, Kousuke pointed sharply at Jin and moved to confront him.[pcms]
 
 *1136|
 [fc]
-Shigeyoshi, seemingly quick to anger, easily took Kousuke's bait.[pcms]
+Shigeyoshi, seemingly quick to anger, easily took Kousuke's[r]
+bait.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -338,8 +348,8 @@ Shigeyoshi, seemingly quick to anger, easily took Kousuke's bait.[pcms]
 
 *1138|
 [fc]
-Without paying any mind to the surrounding commotion, Jin reached out straight[r]
-towards me.[pcms]
+Without paying any mind to the surrounding commotion, Jin[r]
+reached out straight towards me.[pcms]
 
 *1139|
 [fc]
@@ -361,7 +371,8 @@ What shone in his hand was...[pcms]
 
 *1142|
 [fc]
-The air around Maruko-senpai, standing next to me, became even more tense.[pcms]
+The air around Maruko-senpai, standing next to me, became[r]
+even more tense.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -408,8 +419,9 @@ Kousuke's body jolted as if he was about to start a brawl.[pcms]
 [fc]
 [vo_miz s="mizuki0265"]
 [ns]Mizuki[nse]
-"When I was on the 5th floor, surrounded and unable to move, I didn't know what[r]
-to do and was scared. So I sent Jin an email..."[pcms]
+"When I was on the 5th floor, surrounded and unable to move,[r]
+I didn't know what to do and was scared. So I sent Jin an[r]
+email..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -424,8 +436,8 @@ The anger seemed to drain from Kousuke's entire body.[pcms]
 
 *1152|
 [fc]
-He appeared to be quite shocked to hear that Mizuki had relied on Jin instead of[r]
-himself.[pcms]
+He appeared to be quite shocked to hear that Mizuki had[r]
+relied on Jin instead of himself.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -433,8 +445,8 @@ himself.[pcms]
 [fc]
 [vo_mar s="maru1447"]
 [ns]Margarita[nse]
-"I understand the situation now. So let's get an answer. How long have you been[r]
-here? Do you have any companions?"[pcms]
+"I understand the situation now. So let's get an answer. How[r]
+long have you been here? Do you have any companions?"[pcms]
 
 *1154|
 [fc]
@@ -464,8 +476,8 @@ Without taking her eyes off the gun, the senior asked.[pcms]
 
 *1158|
 [fc]
-Danger flickered in Maruko-senpai's eyes as Jin refused to reveal any[r]
-information.[pcms]
+Danger flickered in Maruko-senpai's eyes as Jin refused to[r]
+reveal any information.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -495,8 +507,8 @@ Everyone's movements came to an abrupt halt.[pcms]
 *1163|
 [fc]
 [ns]Kousuke[nse]
-"For now... even if you guys don't play it straight, I will. So I'll say thanks[r]
-for helping Mizuki."[pcms]
+"For now... even if you guys don't play it straight, I will.[r]
+So I'll say thanks for helping Mizuki."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -516,7 +528,8 @@ for helping Mizuki."[pcms]
 
 *1166|
 [fc]
-Mizuki looked surprised, as if she hadn't expected such words from him.[pcms]
+Mizuki looked surprised, as if she hadn't expected such[r]
+words from him.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -530,8 +543,8 @@ Mizuki looked surprised, as if she hadn't expected such words from him.[pcms]
 *1168|
 [fc]
 [ns]Kousuke[nse]
-"But now that we're here, you're no longer needed, right? Leave Mizuki and get[r]
-out!"[pcms]
+"But now that we're here, you're no longer needed, right?[r]
+Leave Mizuki and get out!"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -546,7 +559,8 @@ out!"[pcms]
 *1170|
 [fc]
 [ns]Kousuke[nse]
-"LASER is our home! You guys should go back to your own hideout!!"[pcms]
+"LASER is our home! You guys should go back to your own[r]
+hideout!!"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -557,14 +571,16 @@ out!"[pcms]
 
 *1172|
 [fc]
-Shigeyoshi immediately reacted to Kousuke's declaration of war.[pcms]
+Shigeyoshi immediately reacted to Kousuke's declaration of[r]
+war.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1173|
 [fc]
 [ns]Shigeyoshi[nse]
-"What home! You brat getting all cocky!! Can't you see this!?"[pcms]
+"What home! You brat getting all cocky!! Can't you see[r]
+this!?"[pcms]
 
 *1174|
 [fc]
@@ -575,7 +591,8 @@ In his hand, pulled from his bosom, was also a gun![pcms]
 *1175|
 [fc]
 [ns]Shigeyoshi[nse]
-"I don't care! Aniki! Let's do this! Let's shoot and kill this brat!"[pcms]
+"I don't care! Aniki! Let's do this! Let's shoot and kill[r]
+this brat!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -586,23 +603,26 @@ In his hand, pulled from his bosom, was also a gun![pcms]
 
 *1177|
 [fc]
-Jin calmly admonished Shigeyoshi, who was waving his gun around and threatening[r]
-us.[pcms]
+Jin calmly admonished Shigeyoshi, who was waving his gun[r]
+around and threatening us.[pcms]
 
 *1178|
 [fc]
-Perhaps this person named Jin isn't interested in fighting needlessly...[pcms]
+Perhaps this person named Jin isn't interested in fighting[r]
+needlessly...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1179|
 [fc]
 [ns]Kousuke[nse]
-"What about the gun! Such a thing...! It doesn't scare me at all...!"[pcms]
+"What about the gun! Such a thing...! It doesn't scare me at[r]
+all...!"[pcms]
 
 *1180|
 [fc]
-But Kousuke, heated up, seemed oblivious to the situation around him.[pcms]
+But Kousuke, heated up, seemed oblivious to the situation[r]
+around him.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -613,8 +633,8 @@ But Kousuke, heated up, seemed oblivious to the situation around him.[pcms]
 
 *1182|
 [fc]
-Kousuke's hand reached behind his waist. There lay the gun he had obtained from[r]
-dedepou.[pcms]
+Kousuke's hand reached behind his waist. There lay the gun[r]
+he had obtained from dedepou.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -637,7 +657,8 @@ Jin started to react to his movement.[pcms]
 
 *1186|
 [fc]
-Maruko-senpai quickly took aim and pointed her gun at Jin and Shigeyoshi.[pcms]
+Maruko-senpai quickly took aim and pointed her gun at Jin[r]
+and Shigeyoshi.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -653,9 +674,9 @@ Her tone was calm.[pcms]
 
 *1189|
 [fc]
-But perhaps there was a different scent to the intimidation of Maruko-senpai,[r]
-who had experienced real combat. Jin, Shigeyoshi, and Kousuke all stopped moving[r]
-at once.[pcms]
+But perhaps there was a different scent to the intimidation[r]
+of Maruko-senpai, who had experienced real combat. Jin,[r]
+Shigeyoshi, and Kousuke all stopped moving at once.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -667,8 +688,8 @@ at once.[pcms]
 
 *1191|
 [fc]
-Seizing the moment when she could finally move, Yuuho spoke soothingly to[r]
-Kousuke.[pcms]
+Seizing the moment when she could finally move, Yuuho spoke[r]
+soothingly to Kousuke.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -680,8 +701,8 @@ Kousuke.[pcms]
 
 *1193|
 [fc]
-But Kousuke didn't seem willing to let go of the gun he held. Of course, neither[r]
-did Jin or Shigeyoshi...[pcms]
+But Kousuke didn't seem willing to let go of the gun he[r]
+held. Of course, neither did Jin or Shigeyoshi...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -720,8 +741,8 @@ How can I resolve this situation!?[pcms]
 ;	[link storage="50180.ks" target=*50180_TOP]ÇÕÇ¡ÇΩÇËÇ≈Ç‡èeÇî≤Ç¢Çƒå°êß[endlink]
 ;	[link storage="50190.ks" target=*50190_TOP]óéÇøíÖÇ¢ÇƒòbÇµÇ©ÇØÇÈ[endlink]
 ;	;[link storage="50200.ks" target=*50200_TOP]éûä‘êÿÇÍ[endlink]
-;       (link storage="50200.ks" target=*50200_TOP)What should I do in this[r]
-situation...(endlink)[pcms]
+;       (link storage="50200.ks" target=*50200_TOP)What[r]
+should I do in this situation...(endlink)[pcms]
 
 *SEL42|ÇÕÇ¡ÇΩÇËÇ≈Ç‡èeÇî≤Ç¢Çƒå°êßÅ^óéÇøíÖÇ¢ÇƒòbÇµÇ©ÇØÇÈÅ^Ç±ÇÒÇ»èÛãµÇ«Ç§Ç∑ÇÍÇŒÅcÅc
 [fc]

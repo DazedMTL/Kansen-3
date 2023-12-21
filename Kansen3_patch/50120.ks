@@ -21,8 +21,8 @@
 
 *843|
 [fc]
-When I suggested it, as we did when escaping from the academy, Maruko-senpai[r]
-slowly shook her head.[pcms]
+When I suggested it, as we did when escaping from the[r]
+academy, Maruko-senpai slowly shook her head.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -30,8 +30,8 @@ slowly shook her head.[pcms]
 [fc]
 [vo_mar s="maru1372"]
 [ns]Margarita[nse]
-"No good. The door seems thick and made of steel. It's different from the flimsy[r]
-doors at the academy."[pcms]
+"No good. The door seems thick and made of steel. It's[r]
+different from the flimsy doors at the academy."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -47,7 +47,8 @@ doors at the academy."[pcms]
 [fc]
 [vo_mar s="maru1373"]
 [ns]Margarita[nse]
-"To be honest, I'm not sure. It might not be impossible but..."[pcms]
+"To be honest, I'm not sure. It might not be impossible[r]
+but..."[pcms]
 
 *847|
 [fc]

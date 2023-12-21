@@ -43,28 +43,29 @@
 [fc]
 [vo_yuh s="yuho_T0001"]
 [ns]Yuuho[nse]
-"Alright everyone, good work! Lunch today is a special vegetable stir-fry!"[pcms]
+"Alright everyone, good work! Lunch today is a special[r]
+vegetable stir-fry!"[pcms]
 
 ;//〆昼食カットイン
 
 
 *5472|
 [fc]
-The lunch menu consisted of rice, miso soup, meat and vegetable stir-fry, salad,[r]
-and tamagoyaki.[pcms]
+The lunch menu consisted of rice, miso soup, meat and[r]
+vegetable stir-fry, salad, and tamagoyaki.[pcms]
 
 *5473|
 [fc]
-It seems that Yuuho and Ren went all out cooking because they got their hands on[r]
-some fresh vegetables and eggs.[pcms]
+It seems that Yuuho and Ren went all out cooking because[r]
+they got their hands on some fresh vegetables and eggs.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5474|
 [fc]
 [ns]Kousuke[nse]
-"Whoa, the special meat and vegetable stir-fry from Kannagi-ken! I really love[r]
-this stuff!"[pcms]
+"Whoa, the special meat and vegetable stir-fry from Kannagi-[r]
+ken! I really love this stuff!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -77,7 +78,8 @@ this stuff!"[pcms]
 
 *5476|
 [fc]
-I didn't say it out loud like my senior, but I also felt relieved inside.[pcms]
+I didn't say it out loud like my senior, but I also felt[r]
+relieved inside.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -89,7 +91,8 @@ I didn't say it out loud like my senior, but I also felt relieved inside.[pcms]
 
 *5478|
 [fc]
-Everyone joined in the greeting and then started eating their meals.[pcms]
+Everyone joined in the greeting and then started eating[r]
+their meals.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -101,8 +104,8 @@ Everyone joined in the greeting and then started eating their meals.[pcms]
 
 *5480|
 [fc]
-Upon tasting the meat and vegetable stir-fry, the senior immediately grabbed[r]
-Yuuho's hand.[pcms]
+Upon tasting the meat and vegetable stir-fry, the senior[r]
+immediately grabbed Yuuho's hand.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -126,8 +129,8 @@ Yuuho's hand.[pcms]
 [fc]
 [vo_mar s="maru_T0004"]
 [ns]Margarita[nse]
-"Focus on the taste rather than the appearance! That way, you can become a[r]
-first-class chef, right?"[pcms]
+"Focus on the taste rather than the appearance! That way,[r]
+you can become a first-class chef, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -139,14 +142,16 @@ first-class chef, right?"[pcms]
 
 *5485|
 [fc]
-With a complicated expression on her face, Yuuho gave a wry smile.[pcms]
+With a complicated expression on her face, Yuuho gave a wry[r]
+smile.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5485a|
 [fc]
-Kousuke is wolfing down his rice at an incredible pace, and it seems like Mizuki[r]
-won't have any trouble with this menu either.[pcms]
+Kousuke is wolfing down his rice at an incredible pace, and[r]
+it seems like Mizuki won't have any trouble with this menu[r]
+either.[pcms]
 
 *5486|
 [fc]
@@ -154,14 +159,14 @@ I wonder what the vegetarians will do...?[pcms]
 
 *5487|
 [fc]
-Looking over, I saw that Jin-san had a plate of meatless vegetable stir-fry in[r]
-front of him.[pcms]
+Looking over, I saw that Jin-san had a plate of meatless[r]
+vegetable stir-fry in front of him.[pcms]
 
 *5488|
 [fc]
-The special meat and vegetable stir-fry from Kannagi-ken has a great crunchy[r]
-texture from the vegetables soaked in meat juices; it's one of my favorite menus[r]
-too...[pcms]
+The special meat and vegetable stir-fry from Kannagi-ken has[r]
+a great crunchy texture from the vegetables soaked in meat[r]
+juices; it's one of my favorite menus too...[pcms]
 
 *5489|
 [fc]
@@ -172,12 +177,13 @@ I wonder if it's still delicious without the meat...?[pcms]
 *5490|
 [fc]
 [ns]Jin[nse]
-"...Delicious? The balance of spicy miso and oil is perfect. And the salad is[r]
-good too. It was worth the work."[pcms]
+"...Delicious? The balance of spicy miso and oil is perfect.[r]
+And the salad is good too. It was worth the work."[pcms]
 
 *5491|
 [fc]
-Jin-san noticed my gaze and nodded towards Ren while explaining.[pcms]
+Jin-san noticed my gaze and nodded towards Ren while[r]
+explaining.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -185,8 +191,8 @@ Jin-san noticed my gaze and nodded towards Ren while explaining.[pcms]
 [fc]
 [vo_ren s="ren_T0002"]
 [ns]Ren[nse]
-"Ehehe... We brought a lot of leafy vegetables since they don't last long, so[r]
-please eat a lot while you can."[pcms]
+"Ehehe... We brought a lot of leafy vegetables since they[r]
+don't last long, so please eat a lot while you can."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -197,7 +203,8 @@ please eat a lot while you can."[pcms]
 
 *5494|
 [fc]
-Not that anyone needed to be told, as there were already people eating plenty.[pcms]
+Not that anyone needed to be told, as there were already[r]
+people eating plenty.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -219,8 +226,8 @@ Not that anyone needed to be told, as there were already people eating plenty.[p
 
 *5496|
 [fc]
-Kousuke, with his belly visibly more swollen before and after eating, stretched[r]
-out and sprawled over the chair.[pcms]
+Kousuke, with his belly visibly more swollen before and[r]
+after eating, stretched out and sprawled over the chair.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -238,13 +245,13 @@ out and sprawled over the chair.[pcms]
 
 *5499|
 [fc]
-Since mobile sites aren't updated that frequently, there doesn't seem to be any[r]
-need to check them in a hurry.[pcms]
+Since mobile sites aren't updated that frequently, there[r]
+doesn't seem to be any need to check them in a hurry.[pcms]
 
 *5500|
 [fc]
-We discussed various things and decided to spend the afternoon looking around[r]
-the shops inside LASER.[pcms]
+We discussed various things and decided to spend the[r]
+afternoon looking around the shops inside LASER.[pcms]
 
 *5501|
 [fc]
@@ -253,8 +260,8 @@ the shops inside LASER.[pcms]
 
 *5502|
 [fc]
-I didn't expect him to come when I invited him, but to my surprise, Jin-san[r]
-thought for a moment and then nodded.[pcms]
+I didn't expect him to come when I invited him, but to my[r]
+surprise, Jin-san thought for a moment and then nodded.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -268,14 +275,15 @@ thought for a moment and then nodded.[pcms]
 *5504|
 [fc]
 [ns]Shigeyoshi[nse]
-"...I'll pass. I've been worked to the bone and I'm beat. I've had my meal, so[r]
-let me sleep for now."[pcms]
+"...I'll pass. I've been worked to the bone and I'm beat.[r]
+I've had my meal, so let me sleep for now."[pcms]
 
 *5505|
 [fc]
-Despite saying he was going to sleep, Shigeyoshi disappeared into the VIP room[r]
-with a load of stuff like bottles of liquor, snacks, and magazines. Even after[r]
-eating so much lunch, he still has room in his stomach...[pcms]
+Despite saying he was going to sleep, Shigeyoshi disappeared[r]
+into the VIP room with a load of stuff like bottles of[r]
+liquor, snacks, and magazines. Even after eating so much[r]
+lunch, he still has room in his stomach...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -306,20 +314,21 @@ Everyone except Shigeyoshi got into the elevator.[pcms]
 
 *5509|
 [fc]
-This place is an all-you-can-eat shabu-shabu and sukiyaki restaurant.[pcms]
+This place is an all-you-can-eat shabu-shabu and sukiyaki[r]
+restaurant.[pcms]
 
 *5510|
 [fc]
-We've been quite grateful for their cheap and plentiful 980 yen all-you-can-eat[r]
-lunch specials.[pcms]
+We've been quite grateful for their cheap and plentiful 980[r]
+yen all-you-can-eat lunch specials.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5511|
 [fc]
 [ns]Kousuke[nse]
-"But you know, when I glanced over during the food delivery earlier, the fridge[r]
-was pretty full, huh?"[pcms]
+"But you know, when I glanced over during the food delivery[r]
+earlier, the fridge was pretty full, huh?"[pcms]
 
 *5512|
 [fc]
@@ -332,13 +341,15 @@ was pretty full, huh?"[pcms]
 [fc]
 [vo_mar s="maru_T0005"]
 [ns]Margarita[nse]
-"It's good to have a large stockpile of food. Especially rice, which can be[r]
-stored for a long time as long as it's kept dry."[pcms]
+"It's good to have a large stockpile of food. Especially[r]
+rice, which can be stored for a long time as long as it's[r]
+kept dry."[pcms]
 
 *5514|
 [fc]
-There was also a huge stock of drinks, and just with the food from this[r]
-restaurant alone, it seems like all of us could survive for a week or so.[pcms]
+There was also a huge stock of drinks, and just with the[r]
+food from this restaurant alone, it seems like all of us[r]
+could survive for a week or so.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -346,8 +357,9 @@ restaurant alone, it seems like all of us could survive for a week or so.[pcms]
 [fc]
 [vo_yuh s="yuho_T0004"]
 [ns]Yuuho[nse]
-"Even so, this refrigerator is really huge! The meat storage room is definitely[r]
-professional equipment! Even the famous 'Kannagi-ken' can't compete with this."[pcms]
+"Even so, this refrigerator is really huge! The meat storage[r]
+room is definitely professional equipment! Even the famous[r]
+'Kannagi-ken' can't compete with this."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -355,8 +367,8 @@ professional equipment! Even the famous 'Kannagi-ken' can't compete with this."[
 [fc]
 [vo_yuh s="yuho_T0005"]
 [ns]Yuuho[nse]
-"Ah, but maybe the stove is a bit shabby. After all, ours has high heat! ...I[r]
-win!"[pcms]
+"Ah, but maybe the stove is a bit shabby. After all, ours[r]
+has high heat! ...I win!"[pcms]
 
 *5517|
 [fc]
@@ -373,7 +385,8 @@ Yuuho. What kind of competition is that...?[pcms]
 
 *5519|
 [fc]
-Ren opened the meat storage and gazed at it dreamily with narrowed eyes.[pcms]
+Ren opened the meat storage and gazed at it dreamily with[r]
+narrowed eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -389,7 +402,8 @@ Ren opened the meat storage and gazed at it dreamily with narrowed eyes.[pcms]
 [fc]
 [vo_ren s="ren_T0004"]
 [ns]Ren[nse]
-"Sorry... But Yonezawa-kun, Tajima-kun, and Maezawa-kun are tempting me~"[pcms]
+"Sorry... But Yonezawa-kun, Tajima-kun, and Maezawa-kun are[r]
+tempting me~"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -401,13 +415,14 @@ Ren opened the meat storage and gazed at it dreamily with narrowed eyes.[pcms]
 
 *5523|
 [fc]
-Maruko-senpai's body stiffened with a start, and I explained with a laugh.[pcms]
+Maruko-senpai's body stiffened with a start, and I explained[r]
+with a laugh.[pcms]
 
 *5524|
 [fc]
 [ns]Wataru[nse]
-"No, those are the names of famous Wagyu beef brands from various places in[r]
-Japan. Well, they're clones though."[pcms]
+"No, those are the names of famous Wagyu beef brands from[r]
+various places in Japan. Well, they're clones though."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -415,8 +430,9 @@ Japan. Well, they're clones though."[pcms]
 [fc]
 [vo_ren s="ren_T0005"]
 [ns]Ren[nse]
-"Ah, this shelf over here is even more amazing! There's Matsusaka-kun, Kobe-kun,[r]
-and even Omi-kun~! Let's have dinner here! I love meat~!"[pcms]
+"Ah, this shelf over here is even more amazing! There's[r]
+Matsusaka-kun, Kobe-kun, and even Omi-kun~! Let's have[r]
+dinner here! I love meat~!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -427,8 +443,8 @@ and even Omi-kun~! Let's have dinner here! I love meat~!"[pcms]
 
 *5527|
 [fc]
-Suddenly noticing, Jin-san was staring intently at the frolicking Ren with a[r]
-grim expression.[pcms]
+Suddenly noticing, Jin-san was staring intently at the[r]
+frolicking Ren with a grim expression.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -436,7 +452,8 @@ grim expression.[pcms]
 [fc]
 [vo_ren s="ren_T0006"]
 [ns]Ren[nse]
-"Ah... Jin-san, we can also do hot pot!! How about vegetable shabu-shabu?"[pcms]
+"Ah... Jin-san, we can also do hot pot!! How about vegetable[r]
+shabu-shabu?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -451,8 +468,9 @@ grim expression.[pcms]
 [fc]
 [vo_mar s="maru_T0007"]
 [ns]Margarita[nse]
-"Ren is really interesting. With her taste in manga and food preferences...[r]
-People can't be judged by their appearance alone."[pcms]
+"Ren is really interesting. With her taste in manga and food[r]
+preferences... People can't be judged by their appearance[r]
+alone."[pcms]
 
 ;mm マル子消すんじゃね？
 [chara_int][trans_c cross time=150]
@@ -461,17 +479,19 @@ People can't be judged by their appearance alone."[pcms]
 
 *5531|
 [fc]
-While making a commotion, we finished looking around the store.[pcms]
+While making a commotion, we finished looking around the[r]
+store.[pcms]
 
 *5532|
 [fc]
-The layout of the back yard and emergency stairs at the back of the store is the[r]
-same as the 7F DJ Bar.[pcms]
+The layout of the back yard and emergency stairs at the back[r]
+of the store is the same as the 7F DJ Bar.[pcms]
 
 *5533|
 [fc]
-There's another emergency staircase at the back of the back yard, along with a[r]
-freight elevator and several storage rooms lined up.[pcms]
+There's another emergency staircase at the back of the back[r]
+yard, along with a freight elevator and several storage[r]
+rooms lined up.[pcms]
 
 *5534|
 [fc]
@@ -489,8 +509,8 @@ The next floor is the 5F manga caf... What should we do?[pcms]
 
 
 ;	[link storage="T10010.ks" target=*T10010_TOP]別に良いか……[endlink]
-; (link storage="T10020.ks" target=*T10020_TOP)We should at least take a look[r]
-around(endlink)[pcms]
+; (link storage="T10020.ks" target=*T10020_TOP)We should at[r]
+least take a look around(endlink)[pcms]
 
 *SEL65|別に良いか……／一応、見て回る
 [fc]

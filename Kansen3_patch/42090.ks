@@ -21,7 +21,8 @@
 
 *5474|
 [fc]
-I pressed the power button with trembling hands... and ended the call.[pcms]
+I pressed the power button with trembling hands... and ended[r]
+the call.[pcms]
 
 *5475|
 [fc]
@@ -29,13 +30,14 @@ I pressed the power button with trembling hands... and ended the call.[pcms]
 
 *5476|
 [fc]
-Even though I should be happy about that, I was sweating an unpleasant sweat on[r]
-my back.[pcms]
+Even though I should be happy about that, I was sweating an[r]
+unpleasant sweat on my back.[pcms]
 
 *5477|
 [fc]
-The various events that had happened... the realistic conversations with[r]
-Margarita-senpai... might have shattered my fantasy that Yuuho was safe.[pcms]
+The various events that had happened... the realistic[r]
+conversations with Margarita-senpai... might have shattered[r]
+my fantasy that Yuuho was safe.[pcms]
 
 *5478|
 [fc]
@@ -48,8 +50,8 @@ Having my fantasy shattered, I felt terror.[pcms]
 
 *5480|
 [fc]
-A call from Yuuho, who shouldn't be safe!? My head felt like it was going to[r]
-burst, and my body shook naturally.[pcms]
+A call from Yuuho, who shouldn't be safe!? My head felt like[r]
+it was going to burst, and my body shook naturally.[pcms]
 
 *5481|
 [fc]
@@ -70,28 +72,31 @@ I took a deep breath and tried to calm myself down.[pcms]
 
 *5485|
 [fc]
-Even if she was attacked by those strange people, it's not certain that she[r]
-would die.[pcms]
+Even if she was attacked by those strange people, it's not[r]
+certain that she would die.[pcms]
 
 *5486|
 [fc]
-Besides, I've heard rumors that if you administer a vaccine even after symptoms[r]
-appear, you can suppress its progression, and there are people who are still[r]
-living healthily today.[pcms]
+Besides, I've heard rumors that if you administer a vaccine[r]
+even after symptoms appear, you can suppress its[r]
+progression, and there are people who are still living[r]
+healthily today.[pcms]
 
 *5487|
 [fc]
-The speed of symptom onset varies, and if Yuuho happens to have a slow-[r]
-developing case, there might be a good chance she could be saved.[pcms]
+The speed of symptom onset varies, and if Yuuho happens to[r]
+have a slow- developing case, there might be a good chance[r]
+she could be saved.[pcms]
 
 *5488|
 [fc]
-When did Yuuho get infected... No, maybe she hasn't been infected at all.[pcms]
+When did Yuuho get infected... No, maybe she hasn't been[r]
+infected at all.[pcms]
 
 *5489|
 [fc]
-And then... maybe the sudden mutation that senpai mentioned could work in a good[r]
-way.[pcms]
+And then... maybe the sudden mutation that senpai mentioned[r]
+could work in a good way.[pcms]
 
 *5490|
 [fc]
@@ -99,8 +104,9 @@ There might be a miraculous chance of that happening.[pcms]
 
 *5491|
 [fc]
-...No, miracles are called miracles because they don't happen. If they did[r]
-happen, it would just become a trite story.[pcms]
+...No, miracles are called miracles because they don't[r]
+happen. If they did happen, it would just become a trite[r]
+story.[pcms]
 
 *5492|
 [fc]
@@ -113,7 +119,8 @@ No, this isn't a made-up story. This is my reality.[pcms]
 
 *5494|
 [fc]
-Still, my mind is a mess and I can't think of what to do at all.[pcms]
+Still, my mind is a mess and I can't think of what to do at[r]
+all.[pcms]
 
 ;//se023・携帯のバイブ音
 [se buf=0 storage="se023" loop=true]
@@ -139,7 +146,8 @@ If I fearfully peek at it, the display indeed says "Yuuho".[pcms]
 
 
 ;	[link storage="42090.ks" target=*01]出る[endlink]
-; (link storage="42100.ks" target=*42100_TOP)Don't answer(endlink)[pcms]
+; (link storage="42100.ks" target=*42100_TOP)Don't[r]
+answer(endlink)[pcms]
 
 *SEL36|出る／出ない
 [fc]

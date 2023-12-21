@@ -23,56 +23,60 @@
 
 *1121|
 [fc]
-Sleep, meals, keeping watch... and occasionally checking the news. That's how[r]
-we've been slowly passing the time.[pcms]
+Sleep, meals, keeping watch... and occasionally checking the[r]
+news. That's how we've been slowly passing the time.[pcms]
 
 ;//@konya ev025 ínâ∫ìπ(BGàµÇ¢)
 [evcg storage="EV025b"][trans_c cross time=300]
 
 *1122|
 [fc]
-While a storm raged in the outside world, the underground realm was eerily[r]
-peaceful... But that only made the oppressive, stifling atmosphere all the more[r]
-palpable.[pcms]
+While a storm raged in the outside world, the underground[r]
+realm was eerily peaceful... But that only made the[r]
+oppressive, stifling atmosphere all the more palpable.[pcms]
 
 *1123|
 [fc]
-Considering the remaining battery life, we decided to only turn on one of our[r]
-three cell phones at a time.[pcms]
+Considering the remaining battery life, we decided to only[r]
+turn on one of our three cell phones at a time.[pcms]
 
 *1124|
 [fc]
-Thanks to the near recovery of communication, it became easier to access news[r]
-and information... But it's frightening to think why the network congestion has[r]
-eased.[pcms]
+Thanks to the near recovery of communication, it became[r]
+easier to access news and information... But it's[r]
+frightening to think why the network congestion has eased.[pcms]
 
 *1125|
 [fc]
-If "humans" have restored the lines, we should be happy, and if the situation is[r]
-improving and restrictions are being lifted, that's a good sign.[pcms]
+If "humans" have restored the lines, we should be happy, and[r]
+if the situation is improving and restrictions are being[r]
+lifted, that's a good sign.[pcms]
 
 *1126|
 [fc]
-But... what if the reason is that there are fewer "humans" using cell phones...?[pcms]
+But... what if the reason is that there are fewer "humans"[r]
+using cell phones...?[pcms]
 
 *1127|
 [fc]
-As time passed, internet information sites and bulletin boards became[r]
-inaccessible one after another or stopped updating.[pcms]
+As time passed, internet information sites and bulletin[r]
+boards became inaccessible one after another or stopped[r]
+updating.[pcms]
 
 *1128|
 [fc]
-As a result, the few sites that continued to update were congested and hard to[r]
-connect to.[pcms]
+As a result, the few sites that continued to update were[r]
+congested and hard to connect to.[pcms]
 
 *1129|
 [fc]
-But... that concentration of access also proves that there are still that many[r]
-"humans" surviving.[pcms]
+But... that concentration of access also proves that there[r]
+are still that many "humans" surviving.[pcms]
 
 *1130|
 [fc]
-We continued to seek information with an almost prayerful desire.[pcms]
+We continued to seek information with an almost prayerful[r]
+desire.[pcms]
 
 ;//ëfçﬁêÿÇËë÷Ç¶Ç®äËÇ¢ÇµÇ‹Ç∑
 ;//@konya à√ì]
@@ -80,17 +84,20 @@ We continued to seek information with an almost prayerful desire.[pcms]
 
 *1131|
 [fc]
-Around this time, the government finally began to release official statements.[pcms]
+Around this time, the government finally began to release[r]
+official statements.[pcms]
 
 *1132|
 [fc]
-The Japanese government evacuated with an escort fleet from Yokosuka, waited at[r]
-sea for a while, and then set up a provisional government on Miyake Island.[pcms]
+The Japanese government evacuated with an escort fleet from[r]
+Yokosuka, waited at sea for a while, and then set up a[r]
+provisional government on Miyake Island.[pcms]
 
 *1133|
 [fc]
-The current turmoil was caused by the same virus as the "Tohoku Infection[r]
-Disaster," according to a government statement, which confirmed my fears.[pcms]
+The current turmoil was caused by the same virus as the[r]
+"Tohoku Infection Disaster," according to a government[r]
+statement, which confirmed my fears.[pcms]
 
 ;ÉVÉXÉeÉÄÉ{É^ÉìÅïÉEÉBÉìÉhÉEè¡ãé
 [sysbt_meswin clear]
@@ -114,8 +121,8 @@ Disaster," according to a government statement, which confirmed my fears.[pcms]
 
 *1134|
 [fc]
-The severity of the situation had already been confirmed by the posts of[r]
-survivors and eyewitnesses...[pcms]
+The severity of the situation had already been confirmed by[r]
+the posts of survivors and eyewitnesses...[pcms]
 
 ;//ëfçﬁêÿÇËë÷Ç¶Ç®äËÇ¢ÇµÇ‹Ç∑
 ;//@konya îRÇ¶ÇƒÇÈèaíJ
@@ -123,68 +130,74 @@ survivors and eyewitnesses...[pcms]
 
 *1135|
 [fc]
-"Major riots have broken out centered around Japan's major cities and their[r]
-vicinities, with the impact still expanding nationwide..."[pcms]
+"Major riots have broken out centered around Japan's major[r]
+cities and their vicinities, with the impact still expanding[r]
+nationwide..."[pcms]
 
 ;//@konya îRÇ¶ÇƒÇÈäXÅïä¥êıé“
 [evcg storage="evs003"][trans_c cross time=300]
 
 *1136|
 [fc]
-"Infections have occurred throughout Japan regardless of region. Is Tokyo the[r]
-source of infection...?"[pcms]
+"Infections have occurred throughout Japan regardless of[r]
+region. Is Tokyo the source of infection...?"[pcms]
 
 ;//@konya à√ì]
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1137|
 [fc]
-The implications of each piece of information were clear. The infected were[r]
-about to engulf all of Japan.[pcms]
+The implications of each piece of information were clear.[r]
+The infected were about to engulf all of Japan.[pcms]
 
 *1138|
 [fc]
-Some posts mentioned that the U.S. forces in Japan had escaped to sea, but there[r]
-were also many reports of Self-Defense Forces and U.S. troops remaining in the[r]
-country, working hard to rescue people and contain the situation.[pcms]
+Some posts mentioned that the U.S. forces in Japan had[r]
+escaped to sea, but there were also many reports of Self-[r]
+Defense Forces and U.S. troops remaining in the country,[r]
+working hard to rescue people and contain the situation.[pcms]
 
 *1139|
 [fc]
-Maruko-senpai, who is fluent in languages, was also checking international news.[pcms]
+Maruko-senpai, who is fluent in languages, was also checking[r]
+international news.[pcms]
 
 *1140|
 [fc]
-"The UN declares an emergency," "The United States announces cooperation with[r]
-its stationed forces," "The World Health Organization recommends a travel ban to[r]
-Japan..."[pcms]
+"The UN declares an emergency," "The United States announces[r]
+cooperation with its stationed forces," "The World Health[r]
+Organization recommends a travel ban to Japan..."[pcms]
 
 *1141|
 [fc]
-World opinion seems to be leaning towards bashing the United States for[r]
-developing the original virus and the Japanese government for declaring control.[pcms]
+World opinion seems to be leaning towards bashing the United[r]
+States for developing the original virus and the Japanese[r]
+government for declaring control.[pcms]
 
 ;//ëfçﬁêÿÇËë÷Ç¶Ç®äËÇ¢ÇµÇ‹Ç∑
 
 *1142|
 [fc]
-Even amidst this, there was some unofficial information that caught my[r]
-attention.[pcms]
+Even amidst this, there was some unofficial information that[r]
+caught my attention.[pcms]
 
 *1143|
 [fc]
-Two days ago at a fireworks festival in Tokyo, there was a yakuza-related person[r]
-who went on a rampage causing serious injuries to spectators... or so it goes.[pcms]
+Two days ago at a fireworks festival in Tokyo, there was a[r]
+yakuza-related person who went on a rampage causing serious[r]
+injuries to spectators... or so it goes.[pcms]
 
 *1144|
 [fc]
-There were numerous posts about sightings of a half-naked woman near the[r]
-venue...[pcms]
+There were numerous posts about sightings of a half-naked[r]
+woman near the venue...[pcms]
 
 *1145|
 [fc]
-After the fireworks ended and spectators were returning home, there were[r]
-multiple traffic accidents, and at the nearest station, there were successive[r]
-incidents involving people...[pcms]
+After the fireworks ended and spectators were returning[r]
+home, there were multiple traffic accidents, and at the[r]
+nearest station, there were successive incidents involving[r]
+people...[pcms]
 
 *1146|
 [fc]
@@ -192,14 +205,14 @@ That fireworks festival we didn't go to see...[pcms]
 
 *1147|
 [fc]
-Although it was unconfirmed information, the number of traffic accidents and[r]
-personal injuries were said to be a terrifying new record for a single day in[r]
-Tokyo.[pcms]
+Although it was unconfirmed information, the number of[r]
+traffic accidents and personal injuries were said to be a[r]
+terrifying new record for a single day in Tokyo.[pcms]
 
 *1148|
 [fc]
-What on earth happened at that fireworks festival? And what about this half-[r]
-naked woman...?[pcms]
+What on earth happened at that fireworks festival? And what[r]
+about this half- naked woman...?[pcms]
 
 ;ÉVÉXÉeÉÄÉ{É^ÉìÅïÉEÉBÉìÉhÉEè¡ãé
 [sysbt_meswin clear]
@@ -217,12 +230,13 @@ naked woman...?[pcms]
 
 *1149|
 [fc]
-Anyway... no matter how you look at it, the situation was dire.[pcms]
+Anyway... no matter how you look at it, the situation was[r]
+dire.[pcms]
 
 *1150|
 [fc]
-The creatures have overrun all of Japan, and only the important people have[r]
-fled, leaving us survivors behind...[pcms]
+The creatures have overrun all of Japan, and only the[r]
+important people have fled, leaving us survivors behind...[pcms]
 
 ;//---------------------------------------------------------------
 
@@ -235,60 +249,67 @@ In the meantime, I've had several email exchanges with Dad.[pcms]
 
 *1152|
 [fc]
-He tried his best to rescue us by flying a DHK news helicopter...[pcms]
+He tried his best to rescue us by flying a DHK news[r]
+helicopter...[pcms]
 
 *1153|
 [fc]
-But with flight restrictions over central Tokyo and the need to conserve[r]
-precious fuel preventing unauthorized helicopter flights, Dad seemed helpless[r]
-due to various constraints.[pcms]
+But with flight restrictions over central Tokyo and the need[r]
+to conserve precious fuel preventing unauthorized helicopter[r]
+flights, Dad seemed helpless due to various constraints.[pcms]
 
 *1154|
 [fc]
-"I'm sorry I can't come to help," he said... During a brief phone call that[r]
-connected, Dad was crying manly tears. He was frustrated that he couldn't move[r]
-even though we had managed to survive.[pcms]
+"I'm sorry I can't come to help," he said... During a brief[r]
+phone call that connected, Dad was crying manly tears. He[r]
+was frustrated that he couldn't move even though we had[r]
+managed to survive.[pcms]
 
 *1155|
 [fc]
-Ren cried her eyes out at Dad's words, and I... I couldn't help but cry too.[pcms]
+Ren cried her eyes out at Dad's words, and I... I couldn't[r]
+help but cry too.[pcms]
 
 *1156|
 [fc]
-Well, in any case, it would have been impossible for all of us to board DHK's[r]
-news helicopter anyway, so maybe this was for the best.[pcms]
+Well, in any case, it would have been impossible for all of[r]
+us to board DHK's news helicopter anyway, so maybe this was[r]
+for the best.[pcms]
 
 *1157|
 [fc]
-Among the five of us here, having to decide who gets saved and who doesn't...[r]
-that's something I can't bear...[pcms]
+Among the five of us here, having to decide who gets saved[r]
+and who doesn't... that's something I can't bear...[pcms]
 
 ;//---------------------------------------------------------------
 
 *1158|
 [fc]
-Speaking of calls, Kousuke also seemed to have gotten through directly to some[r]
-of his music friends.[pcms]
+Speaking of calls, Kousuke also seemed to have gotten[r]
+through directly to some of his music friends.[pcms]
 
 *1159|
 [fc]
-They were a group on a regional live tour and apparently managed to avoid[r]
-getting caught up in the turmoil in central Tokyo.[pcms]
+They were a group on a regional live tour and apparently[r]
+managed to avoid getting caught up in the turmoil in central[r]
+Tokyo.[pcms]
 
 *1160|
 [fc]
-After a brief exchange confirming each other's safety, Kousuke had a complex[r]
-expression mixed with relief and anxiety...[pcms]
+After a brief exchange confirming each other's safety,[r]
+Kousuke had a complex expression mixed with relief and[r]
+anxiety...[pcms]
 
 *1161|
 [fc]
-It seems that calls don't go through to people who were in central Tokyo after[r]
-all.[pcms]
+It seems that calls don't go through to people who were in[r]
+central Tokyo after all.[pcms]
 
 *1162|
 [fc]
-It's tough when calls go unanswered even though they're connected; on top of[r]
-that, more and more people aren't replying to emails either...[pcms]
+It's tough when calls go unanswered even though they're[r]
+connected; on top of that, more and more people aren't[r]
+replying to emails either...[pcms]
 
 *1163|
 [fc]
@@ -296,46 +317,49 @@ What's happening... It's scary to start thinking about it.[pcms]
 
 *1164|
 [fc]
-Still, we continued our sparse exchanges with those we could still contact by[r]
-email.[pcms]
+Still, we continued our sparse exchanges with those we could[r]
+still contact by email.[pcms]
 
 *1165|
 [fc]
-Maruko-senpai said she was able to get in touch with her home country by email.[pcms]
+Maruko-senpai said she was able to get in touch with her[r]
+home country by email.[pcms]
 
 *1166|
 [fc]
-There had been rumors of her death over there, so they were very happy to learn[r]
-she was alive.[pcms]
+There had been rumors of her death over there, so they were[r]
+very happy to learn she was alive.[pcms]
 
 ;//ÅöÇTÇOÇSÇXÇOÇ∆ì‡óeÇ™Ç©Ç‘ÇÈÇÃÇ≈ïœçXÇµÇ‹ÇµÇΩ
 
 *1167|
 [fc]
-After that, Senpai's father apparently left Japan by helicopter. He seems to be[r]
-at sea now, but detailed information hasn't come in yet.[pcms]
+After that, Senpai's father apparently left Japan by[r]
+helicopter. He seems to be at sea now, but detailed[r]
+information hasn't come in yet.[pcms]
 
 *1168|
 [fc]
-Most of the embassy staff accompanied her father, but only Sesuka-san stayed in[r]
-Tokyo to look for Senpai.[pcms]
+Most of the embassy staff accompanied her father, but only[r]
+Sesuka-san stayed in Tokyo to look for Senpai.[pcms]
 
 *1169|
 [fc]
-She intended to rescue Senpai by tracking her cell phone location, but since[r]
-Senpai left her phone charging and abandoned it, they couldn't meet up[r]
-successfully.[pcms]
+She intended to rescue Senpai by tracking her cell phone[r]
+location, but since Senpai left her phone charging and[r]
+abandoned it, they couldn't meet up successfully.[pcms]
 
 *1170|
 [fc]
-However, Sesuka-san is still sending regular updates, and someone from her home[r]
-country has promised to inform them of Maruko-senpai's safety during their next[r]
-communication.[pcms]
+However, Sesuka-san is still sending regular updates, and[r]
+someone from her home country has promised to inform them of[r]
+Maruko-senpai's safety during their next communication.[pcms]
 
 *1171|
 [fc]
-Senpai, upon receiving that information, turned her face away from us... I think[r]
-she probably didn't want us to see her tears.[pcms]
+Senpai, upon receiving that information, turned her face[r]
+away from us... I think she probably didn't want us to see[r]
+her tears.[pcms]
 
 *1172|
 [fc]
@@ -343,12 +367,13 @@ In the midst of all this...[pcms]
 
 *1173|
 [fc]
-Yuuho was the only one who couldn't get in touch with anyone. Not with her[r]
-family, nor with her club mates...[pcms]
+Yuuho was the only one who couldn't get in touch with[r]
+anyone. Not with her family, nor with her club mates...[pcms]
 
 *1174|
 [fc]
-She never tries to show her tears, but she looks incredibly anxious.[pcms]
+She never tries to show her tears, but she looks incredibly[r]
+anxious.[pcms]
 
 *1175|
 [fc]
@@ -356,8 +381,8 @@ All I could do was to offer some words of comfort...[pcms]
 
 *1176|
 [fc]
-I thought about asking if she was worried about Oshima-senpai's safety, but... I[r]
-decided not to.[pcms]
+I thought about asking if she was worried about Oshima-[r]
+senpai's safety, but... I decided not to.[pcms]
 
 ;//@konya à√ì]
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

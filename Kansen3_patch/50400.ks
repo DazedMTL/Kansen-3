@@ -39,8 +39,8 @@
 
 *1953|
 [fc]
-Even when nailed down or knocked over, the infected keep getting up with a[r]
-laugh.[pcms]
+Even when nailed down or knocked over, the infected keep[r]
+getting up with a laugh.[pcms]
 
 *1954|
 [fc]
@@ -57,8 +57,8 @@ Maruko-senpai took out a gun from her bosom and aimed it.[pcms]
 [fc]
 [vo_mar s="maru1529"]
 [ns]Margarita[nse]
-"The finishing blow will be from my gun! Move to an angle where the bullets[r]
-won't hit the glass door!"[pcms]
+"The finishing blow will be from my gun! Move to an angle[r]
+where the bullets won't hit the glass door!"[pcms]
 
 *1957|
 [fc]
@@ -74,8 +74,8 @@ Luring the infected closer, we move inch by inch.[pcms]
 
 *1959|
 [fc]
-To shoot avoiding the glass... we need to adjust the angle a bit more, or it's[r]
-dangerous...[pcms]
+To shoot avoiding the glass... we need to adjust the angle a[r]
+bit more, or it's dangerous...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -86,8 +86,8 @@ dangerous...[pcms]
 
 *1961|
 [fc]
-Kousuke keeps taunting them, but the naturally slow-moving infected aren't[r]
-advancing as expected.[pcms]
+Kousuke keeps taunting them, but the naturally slow-moving[r]
+infected aren't advancing as expected.[pcms]
 
 ;//ÉLÉÉÉâè¡Çµ
 [chara_int][trans_c cross time=150]
@@ -99,8 +99,8 @@ advancing as expected.[pcms]
 
 *1963|
 [fc]
-As the infected approach before we can change the angle, a creeping fear runs[r]
-down my back...[pcms]
+As the infected approach before we can change the angle, a[r]
+creeping fear runs down my back...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -148,7 +148,8 @@ He's grinning with a bunch of bats in his arms.[pcms]
 
 *1971|
 [fc]
-Jin walked up to the infected with a lazy gait and swung his bat mightily...[pcms]
+Jin walked up to the infected with a lazy gait and swung his[r]
+bat mightily...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -175,8 +176,8 @@ He delivered a full swing to the head of an infected.[pcms]
 
 *1975|
 [fc]
-The infected sent flying by the blood spray fell to the floor and didn't move an[r]
-inch.[pcms]
+The infected sent flying by the blood spray fell to the[r]
+floor and didn't move an inch.[pcms]
 
 ;//ÉLÉÉÉâè¡Çµ
 [chara_int][trans_c cross time=150]
@@ -192,13 +193,13 @@ A one-hit kill... so this is what it really means...[pcms]
 
 *1978|
 [fc]
-Witnessing the rawness of the act of 'striking' and its tremendous destructive[r]
-power, I was at a loss for words.[pcms]
+Witnessing the rawness of the act of 'striking' and its[r]
+tremendous destructive power, I was at a loss for words.[pcms]
 
 *1979|
 [fc]
-The frighteningly familiar movements of Jin amidst such terrifying 'violence'...[r]
-It even made me feel fear...[pcms]
+The frighteningly familiar movements of Jin amidst such[r]
+terrifying 'violence'... It even made me feel fear...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -223,8 +224,8 @@ Tapping his shoulder with the bat, Jin turned back to us.[pcms]
 *1983|
 [fc]
 [ns]Jin[nse]
-"You're a selfish guy. Asking for help then saying don't interfere... But more[r]
-importantly..."[pcms]
+"You're a selfish guy. Asking for help then saying don't[r]
+interfere... But more importantly..."[pcms]
 
 *1984|
 [fc]
@@ -242,12 +243,13 @@ Jin jerked his chin.[pcms]
 
 *1986|
 [fc]
-In the direction he pointed, there was the game center 'CONTINUE'.[pcms]
+In the direction he pointed, there was the game center[r]
+'CONTINUE'.[pcms]
 
 *1987|
 [fc]
-We quickly followed with our eyes to the entrance glass doors of the many shops[r]
-there.[pcms]
+We quickly followed with our eyes to the entrance glass[r]
+doors of the many shops there.[pcms]
 
 *1988|
 [fc]
@@ -267,8 +269,8 @@ One of the blind sheets was half-open.[pcms]
 
 *1991|
 [fc]
-Rushing over, Maruko-senpai flung aside the sheet and pulled open the glass[r]
-door.[pcms]
+Rushing over, Maruko-senpai flung aside the sheet and pulled[r]
+open the glass door.[pcms]
 
 *1992|
 [fc]
@@ -284,8 +286,8 @@ That door alone wasn't locked.[pcms]
 *1994|
 [fc]
 [ns]Jin[nse]
-"A staff member from the store must have used it. It was already open when I[r]
-arrived."[pcms]
+"A staff member from the store must have used it. It was[r]
+already open when I arrived."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -307,7 +309,8 @@ arrived."[pcms]
 *1997|
 [fc]
 [ns]Kousuke[nse]
-"Don't mess around!! Such an important thing, don't forget it!"[pcms]
+"Don't mess around!! Such an important thing, don't forget[r]
+it!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -344,11 +347,13 @@ We all fell silent at Jin's response.[pcms]
 
 *2003|
 [fc]
-"CONTINUE" is a large game center that occupies part of LASER 1F and B1.[pcms]
+"CONTINUE" is a large game center that occupies part of[r]
+LASER 1F and B1.[pcms]
 
 *2004|
 [fc]
-If the door was open, maybe infected people have gotten in...?[pcms]
+If the door was open, maybe infected people have gotten[r]
+in...?[pcms]
 
 *2005|
 [fc]
@@ -362,7 +367,8 @@ If the door was open, maybe infected people have gotten in...?[pcms]
 
 *2007|
 [fc]
-As if answering our doubts, the groans of the infected could be heard.[pcms]
+As if answering our doubts, the groans of the infected could[r]
+be heard.[pcms]
 
 *2008|
 [fc]
@@ -377,19 +383,22 @@ Indeed, there are some... inside.[pcms]
 
 *2010|
 [fc]
-Standing before us, Jin grinned as he tapped his bat into his palm.[pcms]
+Standing before us, Jin grinned as he tapped his bat into[r]
+his palm.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2011|
 [fc]
 [ns]Jin[nse]
-"Shall we experience the basic rule that's often forgottenkilling to survive?"[pcms]
+"Shall we experience the basic rule that's often[r]
+forgottenkilling to survive?"[pcms]
 
 *2012|
 [fc]
 [ns]Jin[nse]
-"It might be more educational than just ending it with a single finger."[pcms]
+"It might be more educational than just ending it with a[r]
+single finger."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -400,30 +409,34 @@ Standing before us, Jin grinned as he tapped his bat into his palm.[pcms]
 
 *2014|
 [fc]
-Shigeyoshi threw down the bat he was carrying onto the floor.[pcms]
+Shigeyoshi threw down the bat he was carrying onto the[r]
+floor.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2015|
 [fc]
 [ns]Jin[nse]
-"Concrete walls make it hard to predict ricochets. It's fine if you make holes[r]
-in the wall, but cleaning up after breaking game cabinets is a hassle."[pcms]
+"Concrete walls make it hard to predict ricochets. It's fine[r]
+if you make holes in the wall, but cleaning up after[r]
+breaking game cabinets is a hassle."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2016|
 [fc]
 [ns]Jin[nse]
-"...Besides, your guns aren't exactly Cosmo Guns with a million rounds, right?"[pcms]
+"...Besides, your guns aren't exactly Cosmo Guns with a[r]
+million rounds, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2017|
 [fc]
 [ns]Jin[nse]
-"It's better to learn how to control the situation for when you run out of[r]
-bullets. This is something you can only get the hang of by actually doing it."[pcms]
+"It's better to learn how to control the situation for when[r]
+you run out of bullets. This is something you can only get[r]
+the hang of by actually doing it."[pcms]
 
 *2018|
 [fc]
@@ -431,7 +444,8 @@ In other words... Jin is urging us.[pcms]
 
 *2019|
 [fc]
-To take down those things by brute force, just like he showed us earlier...[pcms]
+To take down those things by brute force, just like he[r]
+showed us earlier...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -450,8 +464,8 @@ Maruko-senpai slowly bent down and picked up a bat.[pcms]
 [fc]
 [vo_mar s="maru1534"]
 [ns]Margarita[nse]
-"There's no light in the basement. I'm not confident about headshots in the[r]
-dark."[pcms]
+"There's no light in the basement. I'm not confident about[r]
+headshots in the dark."[pcms]
 
 *2023|
 [fc]
@@ -476,7 +490,8 @@ It seems she's serious...[pcms]
 
 *2027|
 [fc]
-With a resigned look on his face, Kousuke reluctantly picked up a bat.[pcms]
+With a resigned look on his face, Kousuke reluctantly picked[r]
+up a bat.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -521,12 +536,13 @@ I was honestly hesitating.[pcms]
 
 *2035|
 [fc]
-The bat hitting their bodies... Crushing what once was a human body...[pcms]
+The bat hitting their bodies... Crushing what once was a[r]
+human body...[pcms]
 
 *2036|
 [fc]
-The thought of that sensation gave me a stronger resistance than pulling a[r]
-trigger.[pcms]
+The thought of that sensation gave me a stronger resistance[r]
+than pulling a trigger.[pcms]
 
 *2037|
 [fc]

@@ -29,12 +29,14 @@ I rushed into the DJ bar, panting, after receiving the news.[pcms]
 
 *7338|
 [fc]
-Everyone was already gathered, silently engrossed in the television.[pcms]
+Everyone was already gathered, silently engrossed in the[r]
+television.[pcms]
 
 *7339|
 [fc]
-The usual male announcer was on the screen, but his expression was stiff with[r]
-fear, and he was sweating profusely...[pcms]
+The usual male announcer was on the screen, but his[r]
+expression was stiff with fear, and he was sweating[r]
+profusely...[pcms]
 
 *7340|
 [fc]
@@ -45,8 +47,8 @@ What's going on? What's happening...!?[pcms]
 *7341|
 [fc]
 [ns]Father[nse]
-"...I will repeat the information, please listen! This is a shelter in Mouse[r]
-Kingdom!"[pcms]
+"...I will repeat the information, please listen! This is a[r]
+shelter in Mouse Kingdom!"[pcms]
 
 *7342|
 [fc]
@@ -57,7 +59,8 @@ It's Dad! He was in the middle of a live broadcast.[pcms]
 *7343|
 [fc]
 [ns]Father[nse]
-"At last, an infection by UNKNOWN-LV4 has occurred in this shelter!"[pcms]
+"At last, an infection by UNKNOWN-LV4 has occurred in this[r]
+shelter!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -75,35 +78,38 @@ Ren let out a scream and nearly collapsed.[pcms]
 
 *7346|
 [fc]
-I suppressed my own urge to shout and supported Ren, desperately listening to[r]
-the voice coming from the TV.[pcms]
+I suppressed my own urge to shout and supported Ren,[r]
+desperately listening to the voice coming from the TV.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7347|
 [fc]
 [ns]Father[nse]
-"The initial confirmation of the infected was delayed, and we failed to secure[r]
-the facility. The number has rapidly increased, and now almost everyone in the[r]
-facility has turned into an infected!"[pcms]
+"The initial confirmation of the infected was delayed, and[r]
+we failed to secure the facility. The number has rapidly[r]
+increased, and now almost everyone in the facility has[r]
+turned into an infected!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7348|
 [fc]
 [ns]Father[nse]
-"Currently, the survivors have barricaded themselves inside the facility and are[r]
-waiting for rescue from the Self-Defense Forces, but we can't communicate with[r]
-each other! Immediate rescue is desperately needed!!"[pcms]
+"Currently, the survivors have barricaded themselves inside[r]
+the facility and are waiting for rescue from the Self-[r]
+Defense Forces, but we can't communicate with each other![r]
+Immediate rescue is desperately needed!!"[pcms]
 
 *7349|
 [fc]
-The content was terrifying, and Dad's voice was quite tense, but he spoke calmly[r]
-and composedly.[pcms]
+The content was terrifying, and Dad's voice was quite tense,[r]
+but he spoke calmly and composedly.[pcms]
 
 *7350|
 [fc]
-Maybe Dad is the only one who managed to hide somewhere out of their reach...[pcms]
+Maybe Dad is the only one who managed to hide somewhere out[r]
+of their reach...[pcms]
 
 *7351|
 [fc]
@@ -112,22 +118,23 @@ Maybe Dad is the only one who managed to hide somewhere out of their reach...[pc
 
 *7352|
 [fc]
-The announcer seemed to regain his composure after hearing Dad's voice and began[r]
-to speak.[pcms]
+The announcer seemed to regain his composure after hearing[r]
+Dad's voice and began to speak.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7353|
 [fc]
 [ns]Father[nse]
-"I'm at the press center inside the facility! This room is prepared for[r]
-journalists from various companies, and the gathered reporters are exchanging[r]
-information while planning their next steps..."[pcms]
+"I'm at the press center inside the facility! This room is[r]
+prepared for journalists from various companies, and the[r]
+gathered reporters are exchanging information while planning[r]
+their next steps..."[pcms]
 
 *7354|
 [fc]
-Suddenly, Dad's voice cut off, followed by sounds like something breaking one[r]
-after another.[pcms]
+Suddenly, Dad's voice cut off, followed by sounds like[r]
+something breaking one after another.[pcms]
 
 *7355|
 [fc]
@@ -139,8 +146,8 @@ after another.[pcms]
 *7356|
 [fc]
 [ns]Father[nse]
-"...I'm sorry! That's all for my report! This was from a shelter in Mouse[r]
-Kingdom!"[pcms]
+"...I'm sorry! That's all for my report! This was from a[r]
+shelter in Mouse Kingdom!"[pcms]
 
 *7357|
 [fc]
@@ -149,16 +156,17 @@ Kingdom!"[pcms]
 
 *7358|
 [fc]
-Sounds of objects colliding and men shouting at each other could be heard behind[r]
-the live audio.[pcms]
+Sounds of objects colliding and men shouting at each other[r]
+could be heard behind the live audio.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7359|
 [fc]
 [ns]Father[nse]
-"...Yamazaki-san. From here on is not a report, but a personal message. I[r]
-apologize in advance for using public airwaves!"[pcms]
+"...Yamazaki-san. From here on is not a report, but a[r]
+personal message. I apologize in advance for using public[r]
+airwaves!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
@@ -169,8 +177,8 @@ apologize in advance for using public airwaves!"[pcms]
 
 *7361|
 [fc]
-His tone changed drastically... It was Dad's usual voice for family, not his[r]
-professional one.[pcms]
+His tone changed drastically... It was Dad's usual voice for[r]
+family, not his professional one.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -186,9 +194,10 @@ professional one.[pcms]
 *7363|
 [fc]
 [ns]Father[nse]
-"The door to the press center will be broken soon... I said I would come to get[r]
-you, but it looks like I won't be able to keep that promise... Ren... I'm[r]
-sorry... Wataru, take care of Ren for me..."[pcms]
+"The door to the press center will be broken soon... I said[r]
+I would come to get you, but it looks like I won't be able[r]
+to keep that promise... Ren... I'm sorry... Wataru, take[r]
+care of Ren for me..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
@@ -199,12 +208,13 @@ sorry... Wataru, take care of Ren for me..."[pcms]
 
 *7365|
 [fc]
-Behind Dad's voice, everyone was screaming. There were cries and shouts, and[r]
-voices saying "They're inside!!"[pcms]
+Behind Dad's voice, everyone was screaming. There were cries[r]
+and shouts, and voices saying "They're inside!!"[pcms]
 
 *7366|
 [fc]
-Suddenly, all too abruptly, the live audio cut off with a "click."[pcms]
+Suddenly, all too abruptly, the live audio cut off with a[r]
+"click."[pcms]
 
 *7367|
 [fc]
@@ -213,7 +223,8 @@ Suddenly, all too abruptly, the live audio cut off with a "click."[pcms]
 
 *7368|
 [fc]
-The announcer screamed, throwing away all sense of professionalism...[pcms]
+The announcer screamed, throwing away all sense of[r]
+professionalism...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -227,8 +238,8 @@ The announcer screamed, throwing away all sense of professionalism...[pcms]
 
 *7370|
 [fc]
-Ren stretched her arms towards the TV screen and continued to struggle within my[r]
-arms.[pcms]
+Ren stretched her arms towards the TV screen and continued[r]
+to struggle within my arms.[pcms]
 
 *7371|
 [fc]
@@ -237,7 +248,8 @@ arms.[pcms]
 
 *7372|
 [fc]
-While holding her thrashing body, I was speechless with shock...[pcms]
+While holding her thrashing body, I was speechless with[r]
+shock...[pcms]
 
 ;//〆あればドームの翳った差分
 
@@ -265,8 +277,8 @@ Suddenly, the inside of the dome darkened.[pcms]
 
 *7375|
 [fc]
-A flock of crows covered the sky. The living black cloud swarmed and swept over[r]
-Shibuya's sky like an avalanche...[pcms]
+A flock of crows covered the sky. The living black cloud[r]
+swarmed and swept over Shibuya's sky like an avalanche...[pcms]
 
 [bg storage="BG019b"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
@@ -295,7 +307,8 @@ It's over... Everything has come to an end...[pcms]
 
 *7379|
 [fc]
-Yuuho and Dad are gone... One by one, the people important to me are leaving...[pcms]
+Yuuho and Dad are gone... One by one, the people important[r]
+to me are leaving...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -307,7 +320,8 @@ Yuuho and Dad are gone... One by one, the people important to me are leaving...[
 
 *7381|
 [fc]
-While holding Ren as she sobbed, I too was captured by a deep despair...[pcms]
+While holding Ren as she sobbed, I too was captured by a[r]
+deep despair...[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

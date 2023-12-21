@@ -18,18 +18,20 @@
 
 *4440|
 [fc]
-I compared the corridor and the emergency exit. Thankfully, it seems like there[r]
-are no new infected on the other side of the door.[pcms]
+I compared the corridor and the emergency exit. Thankfully,[r]
+it seems like there are no new infected on the other side of[r]
+the door.[pcms]
 
 *4441|
 [fc]
-Alright, it looks safer to circle around from outside than to sprint down this[r]
-corridor where they are.[pcms]
+Alright, it looks safer to circle around from outside than[r]
+to sprint down this corridor where they are.[pcms]
 
 *4442|
 [fc]
-After all, trying to head straight for the music room has led me back to where I[r]
-started. It's like they say, more haste less speed.[pcms]
+After all, trying to head straight for the music room has[r]
+led me back to where I started. It's like they say, more[r]
+haste less speed.[pcms]
 
 ;//BG：神南学園全景
 [bg storage="BG07a"][trans_c cross time=500]
@@ -37,8 +39,8 @@ started. It's like they say, more haste less speed.[pcms]
 
 *4443|
 [fc]
-Slipping through a door that was left ajar by the wind, I dashed outside the[r]
-school building.[pcms]
+Slipping through a door that was left ajar by the wind, I[r]
+dashed outside the school building.[pcms]
 
 *4444|
 [fc]
@@ -51,11 +53,13 @@ But--[pcms]
 
 *4446|
 [fc]
-A woman's arm stretched out from behind the door and grabbed my arm.[pcms]
+A woman's arm stretched out from behind the door and grabbed[r]
+my arm.[pcms]
 
 *4447|
 [fc]
-An infected had been lurking in the shadow of the door left open.[pcms]
+An infected had been lurking in the shadow of the door left[r]
+open.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -63,7 +67,8 @@ An infected had been lurking in the shadow of the door left open.[pcms]
 [fc]
 [vo_mob s="onna0004"]
 [ns]Infected Woman A[nse]
-`Kyahaha! Let's do something pleasurable, something very pleasurable.[pcms]
+`Kyahaha! Let's do something pleasurable, something very[r]
+pleasurable.[pcms]
 
 *4449|
 [fc]
@@ -76,8 +81,8 @@ I screamed loudly as I tried to shake off her arm.[pcms]
 
 *4451|
 [fc]
-But the hand gripping my arm was unnaturally strong for a woman, and her long[r]
-nails dug painfully into my skin.[pcms]
+But the hand gripping my arm was unnaturally strong for a[r]
+woman, and her long nails dug painfully into my skin.[pcms]
 
 *4452|
 [fc]
@@ -88,20 +93,23 @@ nails dug painfully into my skin.[pcms]
 [fc]
 [vo_mob s="onna0005"]
 [ns]Infected Woman A[nse]
-`If you're not going to do pleasurable things... then let's eat you up.[pcms]
+`If you're not going to do pleasurable things... then let's[r]
+eat you up.[pcms]
 
 *4454|
 [fc]
-Perhaps alerted by my scream, more infected began to approach us in droves.[pcms]
+Perhaps alerted by my scream, more infected began to[r]
+approach us in droves.[pcms]
 
 *4455|
 [fc]
-And it seemed like the smell of blood had stimulated another kind of desire in[r]
-the woman.[pcms]
+And it seemed like the smell of blood had stimulated another[r]
+kind of desire in the woman.[pcms]
 
 *4456|
 [fc]
-A grinning face was the last thing I saw in this world's light.[pcms]
+A grinning face was the last thing I saw in this world's[r]
+light.[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]

@@ -25,7 +25,8 @@
 
 *1902|
 [fc]
-I was surprised at my own reflexive answer, which was uncharacteristic of me.[pcms]
+I was surprised at my own reflexive answer, which was[r]
+uncharacteristic of me.[pcms]
 
 *1903|
 [fc]
@@ -33,21 +34,24 @@ But if I don't go now, I'm surely not a man.[pcms]
 
 *1904|
 [fc]
-If survival was the only concern, it would be better to leave it to my senior.[pcms]
+If survival was the only concern, it would be better to[r]
+leave it to my senior.[pcms]
 
 *1905|
 [fc]
-The odds are incomparably higher if I leave it to my senior, and it's not like[r]
-Ren's face, waiting with Kousuke, didn't flash across my mind.[pcms]
+The odds are incomparably higher if I leave it to my senior,[r]
+and it's not like Ren's face, waiting with Kousuke, didn't[r]
+flash across my mind.[pcms]
 
 *1906|
 [fc]
-Still, I thought that if I couldn't protect the woman I love, I wouldn't be a[r]
-man.[pcms]
+Still, I thought that if I couldn't protect the woman I[r]
+love, I wouldn't be a man.[pcms]
 
 *1907|
 [fc]
-I don't think I can become a hero like in the movies or novels.[pcms]
+I don't think I can become a hero like in the movies or[r]
+novels.[pcms]
 
 *1908|
 [fc]
@@ -68,7 +72,8 @@ But still, I have to be the one to go.[pcms]
 
 *1911|
 [fc]
-I replied to my senior, desperately suppressing my trembling voice.[pcms]
+I replied to my senior, desperately suppressing my trembling[r]
+voice.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -76,8 +81,8 @@ I replied to my senior, desperately suppressing my trembling voice.[pcms]
 [fc]
 [vo_mar s="maru0250"]
 [ns]Margarita[nse]
-"There's no need to aim. Just thrust. An amateur like you swinging a stick won't[r]
-be able to deal effective damage."[pcms]
+"There's no need to aim. Just thrust. An amateur like you[r]
+swinging a stick won't be able to deal effective damage."[pcms]
 
 *1913|
 [fc]
@@ -88,17 +93,19 @@ be able to deal effective damage."[pcms]
 
 *1914|
 [fc]
-With my senior's advice etched in my heart, I opened the door to the catwalk.[pcms]
+With my senior's advice etched in my heart, I opened the[r]
+door to the catwalk.[pcms]
 
 *1915|
 [fc]
-The moment I did, I was assaulted by the sensual moans of infected people[r]
-attacking humans and an overpowering sexual stench.[pcms]
+The moment I did, I was assaulted by the sensual moans of[r]
+infected people attacking humans and an overpowering sexual[r]
+stench.[pcms]
 
 *1916|
 [fc]
-Feeling dizzy from the excessively gruesome and surreal scene, I still entered[r]
-the gymnasium.[pcms]
+Feeling dizzy from the excessively gruesome and surreal[r]
+scene, I still entered the gymnasium.[pcms]
 
 ;//BG：体育館内
 [bg storage="BG014"][trans_c cross time=500]
@@ -111,13 +118,14 @@ the gymnasium.[pcms]
 
 *1918|
 [fc]
-Muttering my senior's advice like a spell, I ran straight towards Yuuho on the[r]
-catwalk.[pcms]
+Muttering my senior's advice like a spell, I ran straight[r]
+towards Yuuho on the catwalk.[pcms]
 
 *1919|
 [fc]
-Fortunately, no one seemed to be coming up here, engrossed in the mad orgy[r]
-below... there wasn't a single person on the catwalk.[pcms]
+Fortunately, no one seemed to be coming up here, engrossed[r]
+in the mad orgy below... there wasn't a single person on the[r]
+catwalk.[pcms]
 
 *1920|
 [fc]
@@ -125,13 +133,13 @@ No, there was...![pcms]
 
 *1921|
 [fc]
-Somehow sniffing me out, a man had broken through the corridor window and was[r]
-reaching out his hand.[pcms]
+Somehow sniffing me out, a man had broken through the[r]
+corridor window and was reaching out his hand.[pcms]
 
 *1922|
 [fc]
-He must have cut himself on the glass; blood was streaming down, but he didn't[r]
-seem to care at all.[pcms]
+He must have cut himself on the glass; blood was streaming[r]
+down, but he didn't seem to care at all.[pcms]
 
 *1923|
 [fc]
@@ -140,8 +148,8 @@ seem to care at all.[pcms]
 
 *1924|
 [fc]
-I thought they just lost their reason, but maybe they're already dead physically[r]
-by the time they show symptoms?[pcms]
+I thought they just lost their reason, but maybe they're[r]
+already dead physically by the time they show symptoms?[pcms]
 
 *1925|
 [fc]
@@ -149,7 +157,8 @@ The thought sent a shiver through my body.[pcms]
 
 *1926|
 [fc]
-But there's no time to stop here. Yuuho is right where that guy is reaching out.[pcms]
+But there's no time to stop here. Yuuho is right where that[r]
+guy is reaching out.[pcms]
 
 *1927|
 [fc]
@@ -176,7 +185,8 @@ I readied the mop again and quickly ran over. And then--[pcms]
 ;
 ;	[link storage="B_B3.ks" target=*B_B3_TOP]側頭部に突き込む！[endlink]
 ;	[link storage="30230.ks" target=*30230_TOP]横っ腹に突き込む！[endlink]
-; ;(link storage="30230.ks" target=*30230_TOP)Time's up(endlink)[pcms]
+; ;(link storage="30230.ks" target=*30230_TOP)Time's[r]
+up(endlink)[pcms]
 
 *SEL26|側頭部に突き込む！／横っ腹に突き込む！
 [fc]

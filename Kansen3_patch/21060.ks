@@ -25,23 +25,24 @@
 
 *482|
 [fc]
-When I struck the mop handle with all my might, the infected person lost their[r]
-balance surprisingly easily and fell over.[pcms]
+When I struck the mop handle with all my might, the infected[r]
+person lost their balance surprisingly easily and fell over.[pcms]
 
 *483|
 [fc]
-It seems that their endurance and strength are quite formidable, but their[r]
-overall motor skills are significantly inferior to those of an ordinary human.[pcms]
+It seems that their endurance and strength are quite[r]
+formidable, but their overall motor skills are significantly[r]
+inferior to those of an ordinary human.[pcms]
 
 *484|
 [fc]
-Once they've fallen, they can't properly get up while their arm is caught in the[r]
-window frame.[pcms]
+Once they've fallen, they can't properly get up while their[r]
+arm is caught in the window frame.[pcms]
 
 *485|
 [fc]
-I took this opportunity to fully open the sliding window and called out to Yuuho[r]
-above on the corridor.[pcms]
+I took this opportunity to fully open the sliding window and[r]
+called out to Yuuho above on the corridor.[pcms]
 
 *486|
 [fc]
@@ -58,17 +59,18 @@ above on the corridor.[pcms]
 
 *488|
 [fc]
-Then, while maintaining her balance on the unstable footing of the roof, Yuuho[r]
-began to move slowly towards us.[pcms]
+Then, while maintaining her balance on the unstable footing[r]
+of the roof, Yuuho began to move slowly towards us.[pcms]
 
 *489|
 [fc]
-As expected of one of the top athletes at the academy, her motor skills were[r]
-exceptional.[pcms]
+As expected of one of the top athletes at the academy, her[r]
+motor skills were exceptional.[pcms]
 
 *490|
 [fc]
-Yuuho displayed a superb sense of balance as she smoothly approached us.[pcms]
+Yuuho displayed a superb sense of balance as she smoothly[r]
+approached us.[pcms]
 
 ;//---------------------------------------------------------------
 ;//œ‘I‘ğˆ
@@ -78,8 +80,8 @@ Yuuho displayed a superb sense of balance as she smoothly approached us.[pcms]
 
 
 ;	[link storage="B_F2.ks" target=*B_F2_TOP]—I”¿‚Éè‚ğ‚³‚µ‚Ì‚×‚é[endlink]
-;       (link storage="21070.ks" target=*21070_TOP)Be cautious of the[r]
-infected(endlink)[pcms]
+;       (link storage="21070.ks" target=*21070_TOP)Be[r]
+cautious of the infected(endlink)[pcms]
 
 *SEL15|—I”¿‚Éè‚ğ‚³‚µ‚Ì‚×‚é^Š´õÒ‚ğŒx‰ú
 [fc]

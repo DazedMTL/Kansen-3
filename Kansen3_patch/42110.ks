@@ -37,8 +37,9 @@ I operate my phone with trembling hands.[pcms]
 
 *5511|
 [fc]
-While gripping the phone with shaking hands, I speak. I feel as if my heart[r]
-might leap out of my mouth along with my words.[pcms]
+While gripping the phone with shaking hands, I speak. I feel[r]
+as if my heart might leap out of my mouth along with my[r]
+words.[pcms]
 
 *5512|
 [fc]
@@ -56,7 +57,8 @@ But no reply comes.[pcms]
 
 *5515|
 [fc]
-Suppressing my trembles, I try speaking again. But still, there's no response.[pcms]
+Suppressing my trembles, I try speaking again. But still,[r]
+there's no response.[pcms]
 
 *5516|
 [fc]
@@ -69,7 +71,8 @@ Suppressing my trembles, I try speaking again. But still, there's no response.[p
 
 *5518|
 [fc]
-I try to press the button to end the call with a trembling finger.[pcms]
+I try to press the button to end the call with a trembling[r]
+finger.[pcms]
 
 *5519|
 [fc]
@@ -93,8 +96,8 @@ I was certain it was Yuuho's voice.[pcms]
 
 *5523|
 [fc]
-It was a bit faint and hard to make out, and it sounded a bit drawn out... but I[r]
-was sure it was Yuuho's voice.[pcms]
+It was a bit faint and hard to make out, and it sounded a[r]
+bit drawn out... but I was sure it was Yuuho's voice.[pcms]
 
 *5524|
 [fc]
@@ -108,7 +111,8 @@ Once more, a voice calling out to me.[pcms]
 
 *5526|
 [fc]
-Fear and joy are all mixed up in my head... I can't make sense of it myself.[pcms]
+Fear and joy are all mixed up in my head... I can't make[r]
+sense of it myself.[pcms]
 
 *5527|
 [fc]
@@ -135,17 +139,20 @@ Fear and joy are all mixed up in my head... I can't make sense of it myself.[pcm
 *5531|
 [fc]
 [ns]Wataru[nse]
-"...That's so like you, Yuuho... To be hungry even at a time like this..."[pcms]
+"...That's so like you, Yuuho... To be hungry even at a time[r]
+like this..."[pcms]
 
 *5532|
 [fc]
-It's Yuuho. What she's saying is a bit out of place, but it's definitely her.[pcms]
+It's Yuuho. What she's saying is a bit out of place, but[r]
+it's definitely her.[pcms]
 
 *5533|
 [fc]
 [vo_yuh s="yuho0713"]
 [ns]Yuuho[nse]
-"I'm really hungry... and there's something I really want to eat~"[pcms]
+"I'm really hungry... and there's something I really want to[r]
+eat~"[pcms]
 
 *5534|
 [fc]
@@ -170,7 +177,8 @@ It's Yuuho. What she's saying is a bit out of place, but it's definitely her.[pc
 *5538|
 [fc]
 [ns]Wataru[nse]
-"Nearby? Then come here quickly. We have some snacks here..."[pcms]
+"Nearby? Then come here quickly. We have some snacks[r]
+here..."[pcms]
 
 *5539|
 [fc]
@@ -199,7 +207,8 @@ I realized that Yuuho was saying something very strange.[pcms]
 
 *5544|
 [fc]
-How did Yuuho find out? We hadn't told her that we were here. And yet...[pcms]
+How did Yuuho find out? We hadn't told her that we were[r]
+here. And yet...[pcms]
 
 *5545|
 [fc]
@@ -225,13 +234,13 @@ How did Yuuho find out? We hadn't told her that we were here. And yet...[pcms]
 
 *5549|
 [fc]
-I thought my heart would stop. My body stiffened and wouldn't move. My mouth[r]
-dried up with a tingling tension.[pcms]
+I thought my heart would stop. My body stiffened and[r]
+wouldn't move. My mouth dried up with a tingling tension.[pcms]
 
 *5550|
 [fc]
-Yet it doesn't stop... As if controlled by something, I slowly and awkwardly[r]
-turn around to look behind me.[pcms]
+Yet it doesn't stop... As if controlled by something, I[r]
+slowly and awkwardly turn around to look behind me.[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -288,8 +297,8 @@ turn around to look behind me.[pcms]
 [fc]
 [vo_yuh s="yuho0721"]
 [ns]Yuuho[nse]
-"...Ren-chan, Kousuke, and Wataru... Ufufufufu... Now we can always be together,[r]
-right?"[pcms]
+"...Ren-chan, Kousuke, and Wataru... Ufufufufu... Now we can[r]
+always be together, right?"[pcms]
 
 ;//SE’âŽ~(2•b‚ÅF.O.)
 [stopse buf=0]

@@ -23,18 +23,21 @@
 
 *3233|
 [fc]
-As I stood up and started to walk, Maruko-senpai began to leave, and a round,[r]
-sparkling object flew out of my pocket, bouncing and rolling across the floor.[pcms]
+As I stood up and started to walk, Maruko-senpai began to[r]
+leave, and a round, sparkling object flew out of my pocket,[r]
+bouncing and rolling across the floor.[pcms]
 
 *3234|
 [fc]
-In an instant, Maruko-senpai twisted her body like a cat, chased after the[r]
-rolling marble, and caught it with one hand.[pcms]
+In an instant, Maruko-senpai twisted her body like a cat,[r]
+chased after the rolling marble, and caught it with one[r]
+hand.[pcms]
 
 *3235|
 [fc]
 [ns]Wataru[nse]
-"That's some amazing reflexes... as expected, there's no other way to put it..."[pcms]
+"That's some amazing reflexes... as expected, there's no[r]
+other way to put it..."[pcms]
 
 [evcg storage="EV021f"][trans_c cross time=300]
 
@@ -46,7 +49,8 @@ rolling marble, and caught it with one hand.[pcms]
 
 *3237|
 [fc]
-Maruko-senpai was staring at the small marble with wide eyes.[pcms]
+Maruko-senpai was staring at the small marble with wide[r]
+eyes.[pcms]
 
 *3238|
 [fc]
@@ -55,8 +59,8 @@ Maruko-senpai was staring at the small marble with wide eyes.[pcms]
 
 *3239|
 [fc]
-While staring at the blue shining marble, Maruko-senpai sighed and then slowly[r]
-began to speak.[pcms]
+While staring at the blue shining marble, Maruko-senpai[r]
+sighed and then slowly began to speak.[pcms]
 
 ;mm BGあってる？
 [bg storage="BG019c"][trans_c cross time=500]
@@ -66,28 +70,28 @@ began to speak.[pcms]
 [fc]
 [vo_mar s="maru1659"]
 [ns]Margarita[nse]
-"...It's nothing... no... Well, I might as well tell Wataru. We've talked about[r]
-various things already."[pcms]
+"...It's nothing... no... Well, I might as well tell Wataru.[r]
+We've talked about various things already."[pcms]
 
 *3241|
 [fc]
-Maruko-senpai began to speak with a downcast gaze, reminiscing about something,[r]
-her expression somewhat sad.[pcms]
+Maruko-senpai began to speak with a downcast gaze,[r]
+reminiscing about something, her expression somewhat sad.[pcms]
 
 *3242|
 [fc]
 [vo_mar s="maru1660"]
 [ns]Margarita[nse]
-"When I was young, my mother got it for me at a summer festival. 'A marble just[r]
-like this one. It was so pretty and cute, I couldn't help but carry it around[r]
-all the time."[pcms]
+"When I was young, my mother got it for me at a summer[r]
+festival. 'A marble just like this one. It was so pretty and[r]
+cute, I couldn't help but carry it around all the time."[pcms]
 
 *3243|
 [fc]
 [vo_mar s="maru1661"]
 [ns]Margarita[nse]
-"I took it everywhere, so I lost it several times. After making a big fuss, a[r]
-boy I didn't know found it for me."[pcms]
+"I took it everywhere, so I lost it several times. After[r]
+making a big fuss, a boy I didn't know found it for me."[pcms]
 
 *3244|
 [fc]
@@ -97,8 +101,8 @@ boy I didn't know found it for me."[pcms]
 
 *3245|
 [fc]
-Maruko-senpai's face softened as if she was reminiscing about something, then[r]
-suddenly looked lonely.[pcms]
+Maruko-senpai's face softened as if she was reminiscing[r]
+about something, then suddenly looked lonely.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f27"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -106,13 +110,15 @@ suddenly looked lonely.[pcms]
 [fc]
 [vo_mar s="maru1663"]
 [ns]Margarita[nse]
-"But that marble once again slipped out of my hands. It was precious to me..."[pcms]
+"But that marble once again slipped out of my hands. It was[r]
+precious to me..."[pcms]
 
 *3247|
 [fc]
 [vo_mar s="maru1664"]
 [ns]Margarita[nse]
-"I buried it with my mother... in her coffin with her remains."[pcms]
+"I buried it with my mother... in her coffin with her[r]
+remains."[pcms]
 
 *3248|
 [fc]
@@ -125,8 +131,9 @@ I couldn't help but let out a deep sigh.[pcms]
 
 *3250|
 [fc]
-I had heard that Maruko-senpai's mother had passed away, but I never knew there[r]
-was such a sad story... It's a story that's too sad... and yet so beautiful...[pcms]
+I had heard that Maruko-senpai's mother had passed away, but[r]
+I never knew there was such a sad story... It's a story[r]
+that's too sad... and yet so beautiful...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -134,13 +141,14 @@ was such a sad story... It's a story that's too sad... and yet so beautiful...[p
 [fc]
 [vo_mar s="maru1665"]
 [ns]Margarita[nse]
-"This one... it looks just like that marble. Blue and transparent, just like[r]
-this marble, it was truly a beautiful color."[pcms]
+"This one... it looks just like that marble. Blue and[r]
+transparent, just like this marble, it was truly a beautiful[r]
+color."[pcms]
 
 *3252|
 [fc]
-Maruko-senpai sighed and with a melancholic smile, she tried to hand the marble[r]
-over to me.[pcms]
+Maruko-senpai sighed and with a melancholic smile, she tried[r]
+to hand the marble over to me.[pcms]
 
 *3253|
 [fc]
@@ -148,14 +156,15 @@ But I didn't feel like accepting it.[pcms]
 
 *3254|
 [fc]
-It wasn't mine to begin with... After hearing the story, I felt like it should[r]
-belong to Maruko-senpai.[pcms]
+It wasn't mine to begin with... After hearing the story, I[r]
+felt like it should belong to Maruko-senpai.[pcms]
 
 *3255|
 [fc]
 [ns]Wataru[nse]
-"Senpai. Please keep it. We don't know who originally owned it, and in this[r]
-situation, the owner won't appear. It suits you better than me."[pcms]
+"Senpai. Please keep it. We don't know who originally owned[r]
+it, and in this situation, the owner won't appear. It suits[r]
+you better than me."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -167,8 +176,8 @@ situation, the owner won't appear. It suits you better than me."[pcms]
 
 *3257|
 [fc]
-Maruko-senpai hesitantly asked while holding the marble close to her chest as if[r]
-it were precious.[pcms]
+Maruko-senpai hesitantly asked while holding the marble[r]
+close to her chest as if it were precious.[pcms]
 
 *3258|
 [fc]
@@ -179,8 +188,8 @@ it were precious.[pcms]
 *3259|
 [fc]
 [ns]Wataru[nse]
-"Don't worry about it. However, if by any chance the owner shows up, please[r]
-return it to them then."[pcms]
+"Don't worry about it. However, if by any chance the owner[r]
+shows up, please return it to them then."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -192,13 +201,13 @@ return it to them then."[pcms]
 
 *3261|
 [fc]
-Gently rolling the marble in her palm with affection, Maruko-senpai whispered in[r]
-a soft voice.[pcms]
+Gently rolling the marble in her palm with affection,[r]
+Maruko-senpai whispered in a soft voice.[pcms]
 
 *3262|
 [fc]
-Her expression was happy and nostalgic, so purely innocent that she looked just[r]
-like a little girl.[pcms]
+Her expression was happy and nostalgic, so purely innocent[r]
+that she looked just like a little girl.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -206,7 +215,8 @@ like a little girl.[pcms]
 [fc]
 [vo_mar s="maru1669"]
 [ns]Margarita[nse]
-"With this marble, I feel like I can forget the painful things a little..."[pcms]
+"With this marble, I feel like I can forget the painful[r]
+things a little..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -214,7 +224,8 @@ like a little girl.[pcms]
 [fc]
 [vo_mar s="maru1670"]
 [ns]Margarita[nse]
-"I think I can sleep well tonight... Thank you so much, Wataru."[pcms]
+"I think I can sleep well tonight... Thank you so much,[r]
+Wataru."[pcms]
 
 *3265|
 [fc]
@@ -226,17 +237,19 @@ like a little girl.[pcms]
 
 *3266|
 [fc]
-Waving her hands happily, Maruko-senpai returned to her place and I decided to[r]
-head to my own bed.[pcms]
+Waving her hands happily, Maruko-senpai returned to her[r]
+place and I decided to head to my own bed.[pcms]
 
 *3267|
 [fc]
-Even so, Maruko-senpai has her girlish moments. Like her smile just now and her[r]
-expression when she looked at the marble.[pcms]
+Even so, Maruko-senpai has her girlish moments. Like her[r]
+smile just now and her expression when she looked at the[r]
+marble.[pcms]
 
 *3268|
 [fc]
-She's not just strong; she also possesses femininity. Senpai is really cool...[pcms]
+She's not just strong; she also possesses femininity. Senpai[r]
+is really cool...[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

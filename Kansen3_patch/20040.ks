@@ -37,13 +37,15 @@
 [fc]
 [vo_mob s="yoshino0016"]
 [ns]Yoshino[nse]
-"You can cum loads inside me. I wonder what Ayase-kun's semen tastes like?[r]
-Ufufu, it must have a lewd male flavor. Sounds delicious..."[pcms]
+"You can cum loads inside me. I wonder what Ayase-kun's[r]
+semen tastes like? Ufufu, it must have a lewd male flavor.[r]
+Sounds delicious..."[pcms]
 
 *83|
 [fc]
-Drooling as if she couldn't help it, Yoshino-san reached out to me. Upon closer[r]
-inspection, her hand was also covered in a sticky liquid.[pcms]
+Drooling as if she couldn't help it, Yoshino-san reached out[r]
+to me. Upon closer inspection, her hand was also covered in[r]
+a sticky liquid.[pcms]
 
 *84|
 [fc]
@@ -52,8 +54,9 @@ inspection, her hand was also covered in a sticky liquid.[pcms]
 
 *85|
 [fc]
-In AVs, gravure, erotic manga, and eroge, it's a situation that would make you[r]
-swell up inside your pants when a girl lifts her skirt to show her genitals.[pcms]
+In AVs, gravure, erotic manga, and eroge, it's a situation[r]
+that would make you swell up inside your pants when a girl[r]
+lifts her skirt to show her genitals.[pcms]
 
 *86|
 [fc]
@@ -61,8 +64,8 @@ But witnessing it in reality is just too abnormal.[pcms]
 
 *87|
 [fc]
-No, the atmosphere she exuded definitely sent me a danger signal telling me to[r]
-run away.[pcms]
+No, the atmosphere she exuded definitely sent me a danger[r]
+signal telling me to run away.[pcms]
 
 *88|
 [fc]
@@ -70,7 +73,8 @@ Yoshino-san's hand reached out, about to grab my arm.[pcms]
 
 *89|
 [fc]
-I instinctively backed away with my bicycle, escaping from her grasp.[pcms]
+I instinctively backed away with my bicycle, escaping from[r]
+her grasp.[pcms]
 
 ;//se029・人が自動車にはねられる音
 [se buf=0 storage="se029"]
@@ -92,7 +96,8 @@ That moment.[pcms]
 
 *92|
 [fc]
-Even though it happened right before my eyes just now, I couldn't comprehend it.[pcms]
+Even though it happened right before my eyes just now, I[r]
+couldn't comprehend it.[pcms]
 
 *93|
 [fc]
@@ -108,8 +113,8 @@ All I understood was that.[pcms]
 
 *96|
 [fc]
-Yes... like a doll, Yoshino-san's body twisted strangely as she danced in the[r]
-air.[pcms]
+Yes... like a doll, Yoshino-san's body twisted strangely as[r]
+she danced in the air.[pcms]
 
 *97|
 [fc]
@@ -120,16 +125,17 @@ Without even understanding why it happened...[pcms]
 
 *98|
 [fc]
-It was thanks to the sound of the impact when the white mass... a car speeding[r]
-fiercely crashed into a traffic light.[pcms]
+It was thanks to the sound of the impact when the white[r]
+mass... a car speeding fiercely crashed into a traffic[r]
+light.[pcms]
 
 ;//se036・人間が地面に叩きつけられる音
 [se buf=0 storage="se036"]
 
 *99|
 [fc]
-Then came the heavy, indescribable sound of Yoshino-san being slammed to the[r]
-ground as she was still in mid-air.[pcms]
+Then came the heavy, indescribable sound of Yoshino-san[r]
+being slammed to the ground as she was still in mid-air.[pcms]
 
 *100|
 [fc]
@@ -154,8 +160,8 @@ Yoshino-san lying on the road... I need to help...[pcms]
 
 *103|
 [fc]
-The blast and heat wave struck me at the same time, and I was blown away to the[r]
-ground.[pcms]
+The blast and heat wave struck me at the same time, and I[r]
+was blown away to the ground.[pcms]
 
 ;//se004・人が倒れる音
 [se buf=1 storage="se004"]
@@ -167,13 +173,13 @@ ground.[pcms]
 
 *105|
 [fc]
-The driver, turned into a fireball, jumped out of the car and rolled on the[r]
-ground.[pcms]
+The driver, turned into a fireball, jumped out of the car[r]
+and rolled on the ground.[pcms]
 
 *106|
 [fc]
-Yoshino-san is twitching, but around her fallen body, a red liquid is spreading[r]
-on the asphalt...[pcms]
+Yoshino-san is twitching, but around her fallen body, a red[r]
+liquid is spreading on the asphalt...[pcms]
 
 ;//SE・飛び交うヘリのローター音（ループ）
 [se buf=0 storage="SE502" loop=true]
@@ -191,8 +197,8 @@ Is this a dream?[pcms]
 
 *109|
 [fc]
-But for a dream, the pain from hitting the ground when the car exploded and the[r]
-heat I feel on my skin are too real.[pcms]
+But for a dream, the pain from hitting the ground when the[r]
+car exploded and the heat I feel on my skin are too real.[pcms]
 
 *110|
 [fc]
@@ -226,13 +232,13 @@ The city, the entire city is wrong.[pcms]
 *117|
 [fc]
 [ns]Wataru[nse]
-"Could it be... that what I just saw happening before my eyes is occurring all[r]
-over town at the same time?"[pcms]
+"Could it be... that what I just saw happening before my[r]
+eyes is occurring all over town at the same time?"[pcms]
 
 *118|
 [fc]
-The unending sound of rotors from who knows how many helicopters flying[r]
-overhead.[pcms]
+The unending sound of rotors from who knows how many[r]
+helicopters flying overhead.[pcms]
 
 *119|
 [fc]
@@ -244,8 +250,8 @@ No one is coming close despite such an accident happening.[pcms]
 
 *121|
 [fc]
-No, I myself don't know how to deal with this, so maybe everyone else feels the[r]
-same way.[pcms]
+No, I myself don't know how to deal with this, so maybe[r]
+everyone else feels the same way.[pcms]
 
 *122|
 [fc]
@@ -260,8 +266,8 @@ The sudden scream made me turn in that direction.[pcms]
 
 *124|
 [fc]
-That's natural. Anyone who witnesses such a tragedy would scream. Especially if[r]
-they're a girl.[pcms]
+That's natural. Anyone who witnesses such a tragedy would[r]
+scream. Especially if they're a girl.[pcms]
 
 ;//このあたりでループ止めておく
 [stopse buf=0]
@@ -288,7 +294,8 @@ But what I saw when I looked...[pcms]
 
 *126|
 [fc]
-What jumped into my sight was a girl being raped by several men.[pcms]
+What jumped into my sight was a girl being raped by several[r]
+men.[pcms]
 
 *127|
 [fc]
@@ -304,8 +311,8 @@ What jumped into my sight was a girl being raped by several men.[pcms]
 *129|
 [fc]
 [ns]Male B[nse]
-"Don't forget about this cock either. Hey, if you have time to talk, you should[r]
-be sucking."[pcms]
+"Don't forget about this cock either. Hey, if you have time[r]
+to talk, you should be sucking."[pcms]
 
 *130|
 [fc]
@@ -316,13 +323,15 @@ be sucking."[pcms]
 *131|
 [fc]
 [ns]Elder[nse]
-"Kuuu, young pussy is irresistible. It has a different flavor. Slurrrrp..."[pcms]
+"Kuuu, young pussy is irresistible. It has a different[r]
+flavor. Slurrrrp..."[pcms]
 
 *132|
 [fc]
 [vo_mob s="onnanoko0004"]
 [ns]Girl[nse]
-"Higguuuu... ng, no, ahh. Nnju... it's so... nng, ng, ngfuuu."[pcms]
+"Higguuuu... ng, no, ahh. Nnju... it's so... nng, ng,[r]
+ngfuuu."[pcms]
 
 *133|
 [fc]
@@ -338,20 +347,22 @@ But I'm not so sleep-deprived that I'd see such a dream.[pcms]
 
 *136|
 [fc]
-I don't recognize those men, but if I'm not mistaken, the old man and the girl[r]
-are actually... actually grandfather and granddaughter.[pcms]
+I don't recognize those men, but if I'm not mistaken, the[r]
+old man and the girl are actually... actually grandfather[r]
+and granddaughter.[pcms]
 
 *137|
 [fc]
 [ns]Elder[nse]
-"I can't hold back any longer. Here, Miyuki, I'll feed you grandpa's dick."[pcms]
+"I can't hold back any longer. Here, Miyuki, I'll feed you[r]
+grandpa's dick."[pcms]
 
 *138|
 [fc]
 [vo_mob s="onnanoko0005"]
 [ns]Girl[nse]
-"No, I don't want to. I don't want to, I don't want to! Grandpa, come back to[r]
-your senses!!"[pcms]
+"No, I don't want to. I don't want to, I don't want to![r]
+Grandpa, come back to your senses!!"[pcms]
 
 [evcg storage="HEV014b"][trans_c cross time=300]
 
@@ -371,14 +382,14 @@ But--[pcms]
 
 *142|
 [fc]
-Despite her pleas, the old man's erect member was thrust deeply into the girl's[r]
-pussy in one swift motion.[pcms]
+Despite her pleas, the old man's erect member was thrust[r]
+deeply into the girl's pussy in one swift motion.[pcms]
 
 *143|
 [fc]
 [ns]Elder[nse]
-"Fuguuuu. Miyuki's pussy feels so good, it feels so good. I'm still in the[r]
-game!!"[pcms]
+"Fuguuuu. Miyuki's pussy feels so good, it feels so good.[r]
+I'm still in the game!!"[pcms]
 
 *144|
 [fc]
@@ -389,7 +400,8 @@ game!!"[pcms]
 *145|
 [fc]
 [ns]Man A[nse]
-"She's enjoying the old man's hip movements, don't leave her alone."[pcms]
+"She's enjoying the old man's hip movements, don't leave her[r]
+alone."[pcms]
 
 *146|
 [fc]
@@ -402,26 +414,28 @@ game!!"[pcms]
 *147|
 [fc]
 [ns]Male B[nse]
-"You're happy, aren't you? Getting your pussy fucked by grandpa while sucking on[r]
-two dicks. Look, you're tasting three of your favorite dickshow does it feel?"[pcms]
+"You're happy, aren't you? Getting your pussy fucked by[r]
+grandpa while sucking on two dicks. Look, you're tasting[r]
+three of your favorite dickshow does it feel?"[pcms]
 
 *148|
 [fc]
 [vo_mob s="onnanoko0009"]
 [ns]Girl[nse]
-"I don't... like it... nng. I can't take it anymore. Don't move. Don't move...[r]
-njyuuuu."[pcms]
+"I don't... like it... nng. I can't take it anymore. Don't[r]
+move. Don't move... njyuuuu."[pcms]
 
 *149|
 [fc]
 [ns]Elder[nse]
-"Does it feel good? It feels good, doesn't it? Grandpa's dick won't lose to any[r]
-young man."[pcms]
+"Does it feel good? It feels good, doesn't it? Grandpa's[r]
+dick won't lose to any young man."[pcms]
 
 *150|
 [fc]
-It's disgusting. Despite thinking this, my eyes and neck seemed fixed in place[r]
-as if drawn to the scene, unable to look away.[pcms]
+It's disgusting. Despite thinking this, my eyes and neck[r]
+seemed fixed in place as if drawn to the scene, unable to[r]
+look away.[pcms]
 
 *151|
 [fc]
@@ -432,7 +446,8 @@ as if drawn to the scene, unable to look away.[pcms]
 *152|
 [fc]
 [ns]Elder[nse]
-"I'm going to cum. Here, I'll spill plenty of grandpa's semen inside you."[pcms]
+"I'm going to cum. Here, I'll spill plenty of grandpa's[r]
+semen inside you."[pcms]
 
 *153|
 [fc]
@@ -443,12 +458,14 @@ as if drawn to the scene, unable to look away.[pcms]
 *154|
 [fc]
 [ns]Man A[nse]
-"You're going to be covered in your favorite semen, you must be happy?"[pcms]
+"You're going to be covered in your favorite semen, you must[r]
+be happy?"[pcms]
 
 *155|
 [fc]
 [ns]Man B[nse]
-"Gyahahaha! The old man's fuck is full of spirit. We can't lose either!"[pcms]
+"Gyahahaha! The old man's fuck is full of spirit. We can't[r]
+lose either!"[pcms]
 
 *156|
 [fc]
@@ -460,8 +477,8 @@ as if drawn to the scene, unable to look away.[pcms]
 
 *157|
 [fc]
-With a throb that seemed audible even to me, the old man's white semen[r]
-overflowed from the girl's pussy.[pcms]
+With a throb that seemed audible even to me, the old man's[r]
+white semen overflowed from the girl's pussy.[pcms]
 
 *158|
 [fc]
@@ -473,7 +490,8 @@ overflowed from the girl's pussy.[pcms]
 *159|
 [fc]
 [ns]Man A[nse]
-"The old man died. Was her slutty pussy so good that he went to heaven?"[pcms]
+"The old man died. Was her slutty pussy so good that he went[r]
+to heaven?"[pcms]
 
 *160|
 [fc]
@@ -507,14 +525,14 @@ overflowed from the girl's pussy.[pcms]
 
 *164|
 [fc]
-The girl repeatedly vomited as she received the men's semen on her face and in[r]
-her mouth.[pcms]
+The girl repeatedly vomited as she received the men's semen[r]
+on her face and in her mouth.[pcms]
 
 *165|
 [fc]
-But without any hesitation or apology, the men kicked aside the old man who had[r]
-just ejaculated and become motionless and inserted themselves into the girl's[r]
-pussy.[pcms]
+But without any hesitation or apology, the men kicked aside[r]
+the old man who had just ejaculated and become motionless[r]
+and inserted themselves into the girl's pussy.[pcms]
 
 [evcg storage="HEV014i"][trans_c cross time=300]
 
@@ -522,7 +540,8 @@ pussy.[pcms]
 [fc]
 [vo_mob s="onnanoko0014"]
 [ns]Girl[nse]
-"Hifuuuu, it's rough... it's rough. It's rough inside my pussy."[pcms]
+"Hifuuuu, it's rough... it's rough. It's rough inside my[r]
+pussy."[pcms]
 
 *167|
 [fc]
@@ -533,7 +552,8 @@ pussy.[pcms]
 [fc]
 [vo_mob s="onnanoko0015"]
 [ns]Girl[nse]
-"Ihihiiii, that's good. Nngfuuu, stirring up my pussy with your dicks."[pcms]
+"Ihihiiii, that's good. Nngfuuu, stirring up my pussy with[r]
+your dicks."[pcms]
 
 *169|
 [fc]
@@ -541,7 +561,8 @@ Is it the shock of the old man dying?[pcms]
 
 *170|
 [fc]
-The girl's attitude changed drastically, and she began to accept the men.[pcms]
+The girl's attitude changed drastically, and she began to[r]
+accept the men.[pcms]
 
 *171|
 [fc]
@@ -561,12 +582,14 @@ Suddenly someone appeared from the alleyway.[pcms]
 [fc]
 [vo_mob s="onnanoko0016"]
 [ns]Girl[nse]
-"Give it to me, more, fill me up more. Ahahahahaha! Dicks, so many dicks!"[pcms]
+"Give it to me, more, fill me up more. Ahahahahaha! Dicks,[r]
+so many dicks!"[pcms]
 
 *175|
 [fc]
-Without any hesitation, they approached her and crowded around the girl, pushing[r]
-aside the man who was inserting himself to get their own dicks in.[pcms]
+Without any hesitation, they approached her and crowded[r]
+around the girl, pushing aside the man who was inserting[r]
+himself to get their own dicks in.[pcms]
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
@@ -585,8 +608,9 @@ This is abnormal...[pcms]
 
 *177|
 [fc]
-I can't believe what I'm seeing before me; I can't run away either; all I can do[r]
-is continue watching the girl being violated.[pcms]
+I can't believe what I'm seeing before me; I can't run away[r]
+either; all I can do is continue watching the girl being[r]
+violated.[pcms]
 
 *178|
 [fc]
@@ -598,7 +622,8 @@ I don't understand. I don't understand anything.[pcms]
 
 *180|
 [fc]
-At least until yesterday, it was supposed to be an ordinary day like any other.[pcms]
+At least until yesterday, it was supposed to be an ordinary[r]
+day like any other.[pcms]
 
 ;//〆BG：通学路・放送センター前
 [bg storage="BG01a"][trans_c cross time=500]
@@ -606,23 +631,23 @@ At least until yesterday, it was supposed to be an ordinary day like any other.[
 
 *181|
 [fc]
-But before my eyes now is a girl being gang-raped, traffic lights broken, and[r]
-cars burning.[pcms]
+But before my eyes now is a girl being gang-raped, traffic[r]
+lights broken, and cars burning.[pcms]
 
 *182|
 [fc]
-Suddenly, I felt a chilling presence and instinctively looked back towards the[r]
-station.[pcms]
+Suddenly, I felt a chilling presence and instinctively[r]
+looked back towards the station.[pcms]
 
 *183|
 [fc]
-Perhaps because it was nearing the time for the morning rush hour, I could see[r]
-people coming from the station in droves.[pcms]
+Perhaps because it was nearing the time for the morning rush[r]
+hour, I could see people coming from the station in droves.[pcms]
 
 *184|
 [fc]
-The scene was a familiar one, and strangely, I found myself breathing a sigh of[r]
-relief.[pcms]
+The scene was a familiar one, and strangely, I found myself[r]
+breathing a sigh of relief.[pcms]
 
 *185|
 [fc]
@@ -647,13 +672,14 @@ That's when I noticed something was terribly wrong.[pcms]
 
 *190|
 [fc]
-If the police officers were acting normally, they would be rushing over here[r]
-after seeing this horrific scene.[pcms]
+If the police officers were acting normally, they would be[r]
+rushing over here after seeing this horrific scene.[pcms]
 
 *191|
 [fc]
-Even if they couldn't see the girl being gang-raped, the crashed car into the[r]
-traffic light should be clearly visible.[pcms]
+Even if they couldn't see the girl being gang-raped, the[r]
+crashed car into the traffic light should be clearly[r]
+visible.[pcms]
 
 *192|
 [fc]
@@ -670,7 +696,8 @@ Yes... a speed that perfectly fits "wandering aimlessly."[pcms]
 
 *195|
 [fc]
-As if they heard my shout, they all turned to look at me at once.[pcms]
+As if they heard my shout, they all turned to look at me at[r]
+once.[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 
@@ -684,16 +711,19 @@ A shiver of ominous foreboding ran up my spine.[pcms]
 
 *198|
 [fc]
-This sensation is definitely something I've experienced recently.[pcms]
+This sensation is definitely something I've experienced[r]
+recently.[pcms]
 
 *199|
 [fc]
-Yes... two days ago, when I locked eyes with that girl who was with the[r]
-delinquent group, I felt this same sense of doom.[pcms]
+Yes... two days ago, when I locked eyes with that girl who[r]
+was with the delinquent group, I felt this same sense of[r]
+doom.[pcms]
 
 *200|
 [fc]
-At the same time, images from the news two days ago flashed through my mind.[pcms]
+At the same time, images from the news two days ago flashed[r]
+through my mind.[pcms]
 
 *201|
 [fc]
@@ -705,16 +735,18 @@ The smiling face of my mother just before I left home.[pcms]
 
 *203|
 [fc]
-The funeral for my mother with only an empty coffin, a portrait, and a mortuary[r]
-tablet.[pcms]
+The funeral for my mother with only an empty coffin, a[r]
+portrait, and a mortuary tablet.[pcms]
 
 *204|
 [fc]
-One by one, these scenes crossed my mind as if happening right before my eyes.[pcms]
+One by one, these scenes crossed my mind as if happening[r]
+right before my eyes.[pcms]
 
 *205|
 [fc]
-And finally, once again, the face of that girl with the red eyes.[pcms]
+And finally, once again, the face of that girl with the red[r]
+eyes.[pcms]
 
 *206|
 [fc]
@@ -727,8 +759,8 @@ The "Tohoku Infection Disaster" that started in Akita?[pcms]
 
 *208|
 [fc]
-But since then, vaccinations have been made mandatory, and besides, this is the[r]
-heart of Tokyo, far away from Tohoku.[pcms]
+But since then, vaccinations have been made mandatory, and[r]
+besides, this is the heart of Tokyo, far away from Tohoku.[pcms]
 
 *209|
 [fc]
@@ -740,8 +772,8 @@ But...[pcms]
 
 *211|
 [fc]
-No matter how much my mind wants to deny it, the scene before my eyes is forcing[r]
-me to confront the truth.[pcms]
+No matter how much my mind wants to deny it, the scene[r]
+before my eyes is forcing me to confront the truth.[pcms]
 
 *212|
 [fc]
@@ -760,7 +792,8 @@ Ren left for school earlier than me.[pcms]
 
 *215|
 [fc]
-Kousuke said he had to help out with the basketball club early this morning too.[pcms]
+Kousuke said he had to help out with the basketball club[r]
+early this morning too.[pcms]
 
 *216|
 [fc]
@@ -768,17 +801,18 @@ And Yuuho...[pcms]
 
 *217|
 [fc]
-Yuuho should also be at school practicing for her upcoming tournament.[pcms]
+Yuuho should also be at school practicing for her upcoming[r]
+tournament.[pcms]
 
 *218|
 [fc]
-I haven't met anyone today, nor have I been in contact. I wonder if everyone is[r]
-okay?[pcms]
+I haven't met anyone today, nor have I been in contact. I[r]
+wonder if everyone is okay?[pcms]
 
 *219|
 [fc]
-When I picked up my bicycle, I caught Yoshino-san's gaze as if she was looking[r]
-up at me resentfully.[pcms]
+When I picked up my bicycle, I caught Yoshino-san's gaze as[r]
+if she was looking up at me resentfully.[pcms]
 
 *220|
 [fc]
@@ -791,8 +825,8 @@ Her eyes were vacant, showing no emotion at all.[pcms]
 
 *222|
 [fc]
-Hurriedly apologizing to Yoshino-san, who was no longer moving, I mounted my[r]
-bicycle again.[pcms]
+Hurriedly apologizing to Yoshino-san, who was no longer[r]
+moving, I mounted my bicycle again.[pcms]
 
 ;//〆BG:黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -803,12 +837,13 @@ Then I headed straight for school.[pcms]
 
 *224|
 [fc]
-Dodging oncoming cars and ignoring traffic signals, I just kept going straight[r]
-ahead.[pcms]
+Dodging oncoming cars and ignoring traffic signals, I just[r]
+kept going straight ahead.[pcms]
 
 *225|
 [fc]
-Believing that they are all safe, I continued to pedal frantically.[pcms]
+Believing that they are all safe, I continued to pedal[r]
+frantically.[pcms]
 
 ;//〆・jump：20050
 [jump storage="20050.ks" target=*20050_TOP]

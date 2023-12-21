@@ -54,8 +54,8 @@ A row of many men standing in line...[pcms]
 
 *2482|
 [fc]
-Not just people like Shige-san, but also ordinary office workers, and even boys[r]
-in school uniforms...[pcms]
+Not just people like Shige-san, but also ordinary office[r]
+workers, and even boys in school uniforms...[pcms]
 
 *2483|
 [fc]
@@ -63,15 +63,16 @@ There must be about 30 to 40 people in total...[pcms]
 
 *2484|
 [fc]
-What's going to happen to us now... What kind of fate awaits us... No, I'm[r]
-scared... Onii-chan...[pcms]
+What's going to happen to us now... What kind of fate awaits[r]
+us... No, I'm scared... Onii-chan...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2485|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hehe... Now, the last one makes her appearance... With this, everyone's here."[pcms]
+"Hehe... Now, the last one makes her appearance... With[r]
+this, everyone's here."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -83,8 +84,8 @@ scared... Onii-chan...[pcms]
 
 *2487|
 [fc]
-Senpai was brought over to where we were. Even someone as strong as Senpai[r]
-couldn't do anything against so many...[pcms]
+Senpai was brought over to where we were. Even someone as[r]
+strong as Senpai couldn't do anything against so many...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -100,26 +101,28 @@ couldn't do anything against so many...[pcms]
 
 *2490|
 [fc]
-The brat... is he talking about Onii-chan? I see... Onii-chan got away... Thank[r]
-goodness, at least Onii-chan escaped...[pcms]
+The brat... is he talking about Onii-chan? I see... Onii-[r]
+chan got away... Thank goodness, at least Onii-chan[r]
+escaped...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2491|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hmph, the stupid brat and Mizuki aren't here either... Well, it's fine. Having[r]
-three girls is more than enough."[pcms]
+"Hmph, the stupid brat and Mizuki aren't here either...[r]
+Well, it's fine. Having three girls is more than enough."[pcms]
 
 *2492|
 [fc]
-Senpai came tumbling down next to us. Her beautiful face was twisted with[r]
-humiliation and disgust, her gaze fiercely fixed on Shige-san.[pcms]
+Senpai came tumbling down next to us. Her beautiful face was[r]
+twisted with humiliation and disgust, her gaze fiercely[r]
+fixed on Shige-san.[pcms]
 
 *2493|
 [fc]
-Even in such a situation--Senpai is strong after all. As for me... I can only[r]
-tremble in fear...[pcms]
+Even in such a situation--Senpai is strong after all. As for[r]
+me... I can only tremble in fear...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -127,8 +130,8 @@ tremble in fear...[pcms]
 [fc]
 [vo_mar s="maru1247"]
 [ns]Margarita[nse]
-"I'm sorry... I wanted to help everyone escape... It's my fault for not being[r]
-strong enough."[pcms]
+"I'm sorry... I wanted to help everyone escape... It's my[r]
+fault for not being strong enough."[pcms]
 
 *2495|
 [fc]
@@ -159,29 +162,30 @@ strong enough."[pcms]
 
 *2497|
 [fc]
-Senpai muttered in frustration, her teeth clenched. It's not her responsibility[r]
-that things turned out this way.[pcms]
+Senpai muttered in frustration, her teeth clenched. It's not[r]
+her responsibility that things turned out this way.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2498|
 [fc]
 [ns]Shigeyoshi[nse]
-"Well then... now that everyone's here, shall we begin? ...But first, we need to[r]
-put the finishing touches on. The grand finale of my rise to power."[pcms]
+"Well then... now that everyone's here, shall we begin?[r]
+...But first, we need to put the finishing touches on. The[r]
+grand finale of my rise to power."[pcms]
 
 *2499|
 [fc]
-As he said that, Shige-san's bloodshot eyes turned towards Jin-san, and[r]
-naturally, our gazes followed.[pcms]
+As he said that, Shige-san's bloodshot eyes turned towards[r]
+Jin-san, and naturally, our gazes followed.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2500|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hey, Aniki... I've climbed up, haven't I? Not by using my head like you, but[r]
-with a much simpler and clearer method."[pcms]
+"Hey, Aniki... I've climbed up, haven't I? Not by using my[r]
+head like you, but with a much simpler and clearer method."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -195,8 +199,8 @@ with a much simpler and clearer method."[pcms]
 *2502|
 [fc]
 [ns]Shigeyoshi[nse]
-"Right? So you see... I have to stay true to my style until the end, Aniki...[r]
-no, Jin Mitsuki!"[pcms]
+"Right? So you see... I have to stay true to my style until[r]
+the end, Aniki... no, Jin Mitsuki!"[pcms]
 
 *2503|
 [fc]
@@ -227,16 +231,16 @@ no, Jin Mitsuki!"[pcms]
 
 *2505|
 [fc]
-The thing Shige-san pulled out while shouting was a handgun. And its barrel,[r]
-slightly trembling, was pointed at Jin-san.[pcms]
+The thing Shige-san pulled out while shouting was a handgun.[r]
+And its barrel, slightly trembling, was pointed at Jin-san.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2506|
 [fc]
 [ns]Shigeyoshi[nse]
-"We're in the business of violence. That's why we eliminate nuisances like[r]
-this... Right, Jin?"[pcms]
+"We're in the business of violence. That's why we eliminate[r]
+nuisances like this... Right, Jin?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -247,49 +251,53 @@ this... Right, Jin?"[pcms]
 
 *2508|
 [fc]
-A calm voice, or rather one of resignation, spun from Jin-san's lips.[pcms]
+A calm voice, or rather one of resignation, spun from Jin-[r]
+san's lips.[pcms]
 
 *2509|
 [fc]
-In contrast, Shige-san, who should be the one pointing the gun, was shaking his[r]
-voice and contorting his face.[pcms]
+In contrast, Shige-san, who should be the one pointing the[r]
+gun, was shaking his voice and contorting his face.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2510|
 [fc]
 [ns]Shigeyoshi[nse]
-"I really was grateful to you, you know? For picking up a useless idiot like me[r]
-and giving me a chance. But that's all over now... I'm the top dog!"[pcms]
+"I really was grateful to you, you know? For picking up a[r]
+useless idiot like me and giving me a chance. But that's all[r]
+over now... I'm the top dog!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2511|
 [fc]
 [ns]Jin[nse]
-"That's right... Do as you like. Whoever wants to be king should just go ahead[r]
-and be it."[pcms]
+"That's right... Do as you like. Whoever wants to be king[r]
+should just go ahead and be it."[pcms]
 
 *2512|
 [fc]
-Even with a gun pointed at him, Jin-san replied indifferently with a short[r]
-answer. Not a single plea for his life... Why?[pcms]
+Even with a gun pointed at him, Jin-san replied[r]
+indifferently with a short answer. Not a single plea for his[r]
+life... Why?[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2513|
 [fc]
 [ns]Jin[nse]
-"What's wrong? Can't do it when it comes down to it? Are you such a fool that[r]
-you can't do anything without me telling you? Go on, try it."[pcms]
+"What's wrong? Can't do it when it comes down to it? Are you[r]
+such a fool that you can't do anything without me telling[r]
+you? Go on, try it."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2514|
 [fc]
 [ns]Shigeyoshi[nse]
-"You bastard! Stop acting like you're still Aniki! I'm the top... I'm the best![r]
-I can do whatever I want!!"[pcms]
+"You bastard! Stop acting like you're still Aniki! I'm the[r]
+top... I'm the best! I can do whatever I want!!"[pcms]
 
 ;//se026ÅEèeê∫
 [se buf=0 storage="se026"]
@@ -333,12 +341,13 @@ I can do whatever I want!!"[pcms]
 
 *2518|
 [fc]
-A loud bang. Red liquid splattered. And Jin-san's body slowly crumbled.[pcms]
+A loud bang. Red liquid splattered. And Jin-san's body[r]
+slowly crumbled.[pcms]
 
 *2519|
 [fc]
-The surreal scene paralyzed my mind. Suddenly Jin-san's head was half gone, and[r]
-his body lay motionless.[pcms]
+The surreal scene paralyzed my mind. Suddenly Jin-san's head[r]
+was half gone, and his body lay motionless.[pcms]
 
 *2520|
 [fc]
@@ -379,19 +388,21 @@ Screams echoed throughout the main dome.[pcms]
 
 *2525|
 [fc]
-Tears streamed down my face. Is it because I'm sad that Jin-san is dead?[pcms]
+Tears streamed down my face. Is it because I'm sad that Jin-[r]
+san is dead?[pcms]
 
 *2526|
 [fc]
-No. Pure terror is what keeps producing these tears. Help me, help me... please[r]
-help![pcms]
+No. Pure terror is what keeps producing these tears. Help[r]
+me, help me... please help![pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2527|
 [fc]
 [ns]Shigeyoshi[nse]
-"Haah, haah... I killed him... I did it! Now I'm the top dog... I'm the king!!"[pcms]
+"Haah, haah... I killed him... I did it! Now I'm the top[r]
+dog... I'm the king!!"[pcms]
 
 ;//se073ÅEäΩê∫
 [se buf=0 storage="se073"]
@@ -400,7 +411,8 @@ help![pcms]
 [fc]
 [vo_ren s="ren1178"]
 [ns]Ren[nse]
-"No, nooo... Why is this happening!? Onii-chan... Onii-chan...!"[pcms]
+"No, nooo... Why is this happening!? Onii-chan... Onii-[r]
+chan...!"[pcms]
 
 
 ;//èåèï™äÚ
@@ -418,7 +430,8 @@ help![pcms]
 [fc]
 [vo_yuh s="yuho1414"]
 [ns]Yuuho[nse]
-"Why are humans doing this to each other... They're not infected so why...!?"[pcms]
+"Why are humans doing this to each other... They're not[r]
+infected so why...!?"[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_10
@@ -433,8 +446,9 @@ help![pcms]
 
 *2531|
 [fc]
-In stark contrast to my sobbing, my senior continued to glare at the hulking[r]
-murderer with eyes filled with hatred. But... this is just...![pcms]
+In stark contrast to my sobbing, my senior continued to[r]
+glare at the hulking murderer with eyes filled with hatred.[r]
+But... this is just...![pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -445,8 +459,9 @@ murderer with eyes filled with hatred. But... this is just...![pcms]
 
 *2533|
 [fc]
-While nudging Jin-san's motionless body with his toe, Shige-san gave orders to[r]
-his underlings with a vulgar laugh. He's not sane, this man is...![pcms]
+While nudging Jin-san's motionless body with his toe, Shige-[r]
+san gave orders to his underlings with a vulgar laugh. He's[r]
+not sane, this man is...![pcms]
 
 *LABEL_MEMORIES_START
 
@@ -458,8 +473,9 @@ his underlings with a vulgar laugh. He's not sane, this man is...![pcms]
 *2534|
 [fc]
 [ns]Shigeyoshi[nse]
-"Alright, just throw him over there. That's fine... Now, it's just these three[r]
-left... How shall we enjoy ourselves...?"[pcms]
+"Alright, just throw him over there. That's fine... Now,[r]
+it's just these three left... How shall we enjoy[r]
+ourselves...?"[pcms]
 
 *2535|
 [fc]
@@ -499,13 +515,13 @@ left... How shall we enjoy ourselves...?"[pcms]
 
 *2538|
 [fc]
-The men, along with Shige-san, ignored my senior's angry shouts and reached out[r]
-eagerly to our bodies.[pcms]
+The men, along with Shige-san, ignored my senior's angry[r]
+shouts and reached out eagerly to our bodies.[pcms]
 
 *2539|
 [fc]
-No, I can't stand this... being touched by men other than my brother... No![r]
-Absolutely not...![pcms]
+No, I can't stand this... being touched by men other than my[r]
+brother... No! Absolutely not...![pcms]
 
 *2540|
 [fc]
@@ -517,12 +533,14 @@ Absolutely not...![pcms]
 *2541|
 [fc]
 [ns]Shigeyoshi[nse]
-"Huh? What's that? Heh, heh... indeed, this is some interesting stuff."[pcms]
+"Huh? What's that? Heh, heh... indeed, this is some[r]
+interesting stuff."[pcms]
 
 *2542|
 [fc]
-A man wearing our school's uniform brought our belongings. The bag was opened,[r]
-and the contents were spilling out... even the violin was treated so roughly...![pcms]
+A man wearing our school's uniform brought our belongings.[r]
+The bag was opened, and the contents were spilling out...[r]
+even the violin was treated so roughly...![pcms]
 
 ;//[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 [ns]Shigeyoshi[nse]
@@ -539,13 +557,14 @@ and the contents were spilling out... even the violin was treated so roughly...!
 *2543|
 [fc]
 [ns]Shigeyoshi[nse]
-"What's this...? School swimsuits and... sailor uniforms, huh... Heh, this is[r]
-really interesting."[pcms]
+"What's this...? School swimsuits and... sailor uniforms,[r]
+huh... Heh, this is really interesting."[pcms]
 
 *2544|
 [fc]
-Shige-san stared at the swimsuits and sailor uniforms pulled from the bag with[r]
-eyes brimming with lust, then turned that gaze towards me--[pcms]
+Shige-san stared at the swimsuits and sailor uniforms pulled[r]
+from the bag with eyes brimming with lust, then turned that[r]
+gaze towards me--[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -560,7 +579,8 @@ eyes brimming with lust, then turned that gaze towards me--[pcms]
 
 *2546|
 [fc]
-While speaking in a cajoling tone, he thrust the swimsuit towards me.[pcms]
+While speaking in a cajoling tone, he thrust the swimsuit[r]
+towards me.[pcms]
 
 *2547|
 [fc]
@@ -570,8 +590,8 @@ While speaking in a cajoling tone, he thrust the swimsuit towards me.[pcms]
 
 *2548|
 [fc]
-I turned my face away and let out a scream as the dark blue school swimsuit was[r]
-pressed against me.[pcms]
+I turned my face away and let out a scream as the dark blue[r]
+school swimsuit was pressed against me.[pcms]
 
 ;//èåèï™äÚ
 [if exp="f.l_dead_y == 0 && f.l_alive_y == 0"][jump storage="BEH_10020.ks" target=*BEH_10020_21][endif]
@@ -606,7 +626,8 @@ pressed against me.[pcms]
 *2551|
 [fc]
 [ns]Shigeyoshi[nse]
-"This one's for you. It'll be perfect for a blonde like you, right?"[pcms]
+"This one's for you. It'll be perfect for a blonde like you,[r]
+right?"[pcms]
 ;//àÍïîïsìKêÿÇ»ï∂èÕÇÃÇΩÇﬂí≤êÆ
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -619,13 +640,14 @@ pressed against me.[pcms]
 
 *2553|
 [fc]
-Shige-san continued to press the swimsuits on us with a lecherous smile[r]
-plastered on his face that was devoid of anything but lust.[pcms]
+Shige-san continued to press the swimsuits on us with a[r]
+lecherous smile plastered on his face that was devoid of[r]
+anything but lust.[pcms]
 
 *2554|
 [fc]
-The swimsuits handed to us were stared at with eyes full of despair as he threw[r]
-decisive words at us.[pcms]
+The swimsuits handed to us were stared at with eyes full of[r]
+despair as he threw decisive words at us.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 [ns]Shigeyoshi[nse]
@@ -637,23 +659,25 @@ decisive words at us.[pcms]
 *2555|
 [fc]
 [ns]Shigeyoshi[nse]
-"Come on, change. Right here in front of us! It's a live changing show!!"[pcms]
+"Come on, change. Right here in front of us! It's a live[r]
+changing show!!"[pcms]
 
 ;//se073ÅEäΩê∫
 [se buf=0 storage="se073"]
 
 *2556|
 [fc]
-As Shige-san's greasy voice echoed, a chorus of approval rose from the[r]
-surrounding men, and their lustful gazes pierced our bodies all at once.[pcms]
+As Shige-san's greasy voice echoed, a chorus of approval[r]
+rose from the surrounding men, and their lustful gazes[r]
+pierced our bodies all at once.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2557|
 [fc]
 [ns]Shigeyoshi[nse]
-"What's wrong? If you change so slowly, dawn will break. Let's make it snappy[r]
-and lively."[pcms]
+"What's wrong? If you change so slowly, dawn will break.[r]
+Let's make it snappy and lively."[pcms]
 
 *2558|
 [fc]
@@ -663,37 +687,40 @@ and lively."[pcms]
 
 *2559|
 [fc]
-The voices that jeered in unison at Shige-san's words made my hands even more[r]
-sluggish.[pcms]
+The voices that jeered in unison at Shige-san's words made[r]
+my hands even more sluggish.[pcms]
 
 *2560|
 [fc]
-Because... being seen naked by anyone other than my brother... That's something[r]
-I hate! I hate it... yet...[pcms]
+Because... being seen naked by anyone other than my[r]
+brother... That's something I hate! I hate it... yet...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2561|
 [fc]
 [ns]Shigeyoshi[nse]
-"Can't be helped... This is why pure dolls are so troublesome."[pcms]
+"Can't be helped... This is why pure dolls are so[r]
+troublesome."[pcms]
 
 *2562|
 [fc]
-Sighing as if annoyed, he tapped my shoulder with the butt of his gun. That[r]
-gesture--the intimidation of that gun--washed away my disgust with fear.[pcms]
+Sighing as if annoyed, he tapped my shoulder with the butt[r]
+of his gun. That gesture--the intimidation of that gun--[r]
+washed away my disgust with fear.[pcms]
 
 *2563|
 [fc]
-Still, my hands were slow to change clothes, and I could see impatience growing[r]
-on the ugly faces filled with desire.[pcms]
+Still, my hands were slow to change clothes, and I could see[r]
+impatience growing on the ugly faces filled with desire.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2564|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hey, looks like this doll is actually a dress-up doll. Someone dress her up."[pcms]
+"Hey, looks like this doll is actually a dress-up doll.[r]
+Someone dress her up."[pcms]
 
 *2565|
 [fc]
@@ -703,8 +730,9 @@ on the ugly faces filled with desire.[pcms]
 *2566|
 [fc]
 [ns]Student B[nse]
-"I'll help too... I've always wanted to do it with her... She's so slender and[r]
-fragile... the epitome of purity... hehehe."[pcms]
+"I'll help too... I've always wanted to do it with her...[r]
+She's so slender and fragile... the epitome of purity...[r]
+hehehe."[pcms]
 
 *2567|
 [fc]
@@ -743,8 +771,8 @@ fragile... the epitome of purity... hehehe."[pcms]
 
 *2570|
 [fc]
-Ignoring our pleas, the men's hands reached out all at once to me and began to[r]
-tear off my clothes roughly.[pcms]
+Ignoring our pleas, the men's hands reached out all at once[r]
+to me and began to tear off my clothes roughly.[pcms]
 
 *2571|
 [fc]
@@ -754,9 +782,9 @@ tear off my clothes roughly.[pcms]
 
 *2572|
 [fc]
-Pain surged through my body, and even as I screamed, the men's hands did not[r]
-stop; they became more violent, tearing apart not just my clothes but also my[r]
-dignity.[pcms]
+Pain surged through my body, and even as I screamed, the[r]
+men's hands did not stop; they became more violent, tearing[r]
+apart not just my clothes but also my dignity.[pcms]
 
 *2573|
 [fc]
@@ -767,8 +795,8 @@ And then--[pcms]
 *2574|
 [fc]
 [ns]Shigeyoshi[nse]
-"Ahahaha! Nice, very nice! It suits you well! Summer is all about swimsuits![r]
-It's a swimsuit festival!"[pcms]
+"Ahahaha! Nice, very nice! It suits you well! Summer is all[r]
+about swimsuits! It's a swimsuit festival!"[pcms]
 
 ;//se073ÅEäΩê∫
 [se buf=0 storage="se073"]
@@ -809,20 +837,21 @@ It's a swimsuit festival!"[pcms]
 
 *2578|
 [fc]
-The cheers and lust-filled gazes showered upon us in our swimsuit attire.[pcms]
+The cheers and lust-filled gazes showered upon us in our[r]
+swimsuit attire.[pcms]
 
 *2579|
 [fc]
-Overwhelmed by shame and fear, I tried to crouch down and cover myself with my[r]
-hands--[pcms]
+Overwhelmed by shame and fear, I tried to crouch down and[r]
+cover myself with my hands--[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2580|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hey! Don't hide it! It's a show, after all, so make sure to display it[r]
-properly!"[pcms]
+"Hey! Don't hide it! It's a show, after all, so make sure to[r]
+display it properly!"[pcms]
 
 *2581|
 [fc]
@@ -836,42 +865,46 @@ The muzzle is pointed this way.[pcms]
 
 *2583|
 [fc]
-Brother, help me...! I'm embarrassed... I'm scared... Help me... Brother...![pcms]
+Brother, help me...! I'm embarrassed... I'm scared... Help[r]
+me... Brother...![pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2584|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gufufu... What eroticism, school swimsuits have. They have a unique eroticism[r]
-that's different from regular swimsuits and underwear, I kinda get why maniacs[r]
-feel the way they do..."[pcms]
+"Gufufu... What eroticism, school swimsuits have. They have[r]
+a unique eroticism that's different from regular swimsuits[r]
+and underwear, I kinda get why maniacs feel the way they[r]
+do..."[pcms]
 
 *2585|
 [fc]
-The men leered at us, their gazes crawling over our bodies as if savoring every[r]
-detail. Please... stop it already... I can't take it anymore...[pcms]
+The men leered at us, their gazes crawling over our bodies[r]
+as if savoring every detail. Please... stop it already... I[r]
+can't take it anymore...[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2586|
 [fc]
 [ns]Shigeyoshi[nse]
-"Well then... Have you all enjoyed yourselves enough...? Now, let's move on to[r]
-the main event!"[pcms]
+"Well then... Have you all enjoyed yourselves enough...?[r]
+Now, let's move on to the main event!"[pcms]
 
 ;//se073ÅEäΩê∫
 [se buf=0 storage="se073"]
 
 *2587|
 [fc]
-A roar of cheers rose, and within the lustful gazes of the men, a more ferocious[r]
-light began to mix in.[pcms]
+A roar of cheers rose, and within the lustful gazes of the[r]
+men, a more ferocious light began to mix in.[pcms]
 
 *2588|
 [fc]
-The circle of encirclement tightened, and the hands reaching out from it seemed[r]
-as grotesque as limbs of a different creature--[pcms]
+The circle of encirclement tightened, and the hands reaching[r]
+out from it seemed as grotesque as limbs of a different[r]
+creature--[pcms]
 
 *2589|
 [fc]
@@ -906,28 +939,30 @@ as grotesque as limbs of a different creature--[pcms]
 [fc]
 [vo_yuh s="yuho1422"]
 [ns]Yuuho[nse]
-"Higyiii!! Aguh... it... uguuuu!! It hurts... stop, pull it out... gihiiii!!"[pcms]
+"Higyiii!! Aguh... it... uguuuu!! It hurts... stop, pull it[r]
+out... gihiiii!!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2591|
 [fc]
 [ns]Shigeyoshi[nse]
-"Ohoo... So Yuuho-chan was a virgin. I thought that brat had been all over her[r]
-but this is good."[pcms]
+"Ohoo... So Yuuho-chan was a virgin. I thought that brat had[r]
+been all over her but this is good."[pcms]
 
 *2592|
 [fc]
-With vulgar laughter, they forced their huge and hideous dicks into Yuuho-chan.[pcms]
+With vulgar laughter, they forced their huge and hideous[r]
+dicks into Yuuho-chan.[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_29
 
 *2593|
 [fc]
-The moment they did, agonized screams filled the dome, and it almost seemed like[r]
-one could hear the sound of pain snapping, making one instinctively want to[r]
-cover their ears.[pcms]
+The moment they did, agonized screams filled the dome, and[r]
+it almost seemed like one could hear the sound of pain[r]
+snapping, making one instinctively want to cover their ears.[pcms]
 
 *2594|
 [fc]
@@ -942,13 +977,14 @@ Meanwhile--[pcms]
 [fc]
 [vo_mar s="maru1257"]
 [ns]Margarita[nse]
-"No... Stop it! You filthy bastards! Don't touch me... uguu!"[pcms]
+"No... Stop it! You filthy bastards! Don't touch me...[r]
+uguu!"[pcms]
 
 *2596|
 [fc]
 [ns]Thug A[nse]
-"Uhehe... What's wrong? For a woman who was kicking us down left and right. Now[r]
-you can't do anything about it."[pcms]
+"Uhehe... What's wrong? For a woman who was kicking us down[r]
+left and right. Now you can't do anything about it."[pcms]
 
 *2597|
 [fc]
@@ -973,7 +1009,8 @@ you can't do anything about it."[pcms]
 *2600|
 [fc]
 [ns]Thug A[nse]
-"What's this, already starting to enjoy it? Then I'll join in too...!"[pcms]
+"What's this, already starting to enjoy it? Then I'll join[r]
+in too...!"[pcms]
 
 *2601|
 [fc]
@@ -989,7 +1026,8 @@ you can't do anything about it."[pcms]
 [fc]
 [vo_mar s="maru1260"]
 [ns]Margarita[nse]
-"Uguu!! Nmbu, bufu!! Guhi... it...! Gubo, bofu... fuguuuuuuuu!!?"[pcms]
+"Uguu!! Nmbu, bufu!! Guhi... it...! Gubo, bofu...[r]
+fuguuuuuuuu!!?"[pcms]
 
 *2603|
 [fc]
@@ -999,14 +1037,15 @@ you can't do anything about it."[pcms]
 
 *2604|
 [fc]
-Senpai's mouth, pussy, and ass were being forced upon by the men's dicks, and[r]
-muffled screams arose.[pcms]
+Senpai's mouth, pussy, and ass were being forced upon by the[r]
+men's dicks, and muffled screams arose.[pcms]
 
 *2605|
 [fc]
-In pain and suffering, Senpai's face twisted as she was continuously tormented.[r]
-Without any concern for her state, the men just kept thrusting their hips,[r]
-ravaging her beautiful body.[pcms]
+In pain and suffering, Senpai's face twisted as she was[r]
+continuously tormented. Without any concern for her state,[r]
+the men just kept thrusting their hips, ravaging her[r]
+beautiful body.[pcms]
 
 *2606|
 [fc]
@@ -1019,8 +1058,9 @@ ravaging her beautiful body.[pcms]
 
 *2607|
 [fc]
-The moment a particularly loud cry of agony escaped from Senpai's mouth, her[r]
-body went limp like a puppet with its strings cut, her eyes rolling back.[pcms]
+The moment a particularly loud cry of agony escaped from[r]
+Senpai's mouth, her body went limp like a puppet with its[r]
+strings cut, her eyes rolling back.[pcms]
 
 *2608|
 [fc]
@@ -1035,7 +1075,8 @@ body went limp like a puppet with its strings cut, her eyes rolling back.[pcms]
 *2610|
 [fc]
 [ns]Thug C[nse]
-"Gyahahaha! Let's give her a kick in the ass to wake her up!"[pcms]
+"Gyahahaha! Let's give her a kick in the ass to wake her[r]
+up!"[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇOÇVÅiÇlÇVÅj
 [evcg storage="DEV007d"][trans_c cross time=300]
@@ -1048,23 +1089,26 @@ body went limp like a puppet with its strings cut, her eyes rolling back.[pcms]
 
 *2612|
 [fc]
-Even though she had lost consciousness, the men mercilessly continued to violate[r]
-Senpai.[pcms]
+Even though she had lost consciousness, the men mercilessly[r]
+continued to violate Senpai.[pcms]
 
 *2612a|
 [fc]
-The torment awakened Senpai once again, afflicting her body and soul.[pcms]
+The torment awakened Senpai once again, afflicting her body[r]
+and soul.[pcms]
 
 *2613|
 [fc]
 [vo_mar s="maru1263"]
 [ns]Margarita[nse]
-"Nmmu, gubu... guh, nmpah! No... stop it...! Higi! It... aguuu!!"[pcms]
+"Nmmu, gubu... guh, nmpah! No... stop it...! Higi! It...[r]
+aguuu!!"[pcms]
 
 *2614|
 [fc]
 [ns]Thug C[nse]
-"Don't hold back, pretty lady! I'll stir up your insides and drive you crazy!"[pcms]
+"Don't hold back, pretty lady! I'll stir up your insides and[r]
+drive you crazy!"[pcms]
 
 *2615|
 [fc]
@@ -1075,13 +1119,13 @@ The torment awakened Senpai once again, afflicting her body and soul.[pcms]
 [fc]
 [vo_mar s="maru1264"]
 [ns]Margarita[nse]
-"NOOO... Ahhh! Please stop... uguu! Hih... guhii! Igi... kahh, hauuu! Ngi,[r]
-gahah, hah... kihii!"[pcms]
+"NOOO... Ahhh! Please stop... uguu! Hih... guhii! Igi...[r]
+kahh, hauuu! Ngi, gahah, hah... kihii!"[pcms]
 
 *2617|
 [fc]
-The men laughed vulgarly at Senpai's screams as they dirtied her even more[r]
-fiercely and strongly.[pcms]
+The men laughed vulgarly at Senpai's screams as they dirtied[r]
+her even more fiercely and strongly.[pcms]
 
 [bg storage="BG019c"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
@@ -1105,13 +1149,14 @@ I too might be subjected to such an ordeal...?[pcms]
 [fc]
 [vo_ren s="ren1196"]
 [ns]Ren[nse]
-"Hii...! No, nooo! Don't touch me... don't come any closer...! Agu!"[pcms]
+"Hii...! No, nooo! Don't touch me... don't come any[r]
+closer...! Agu!"[pcms]
 
 *2622|
 [fc]
-Suddenly someone's hand was placed on my shoulder and I was violently pulled[r]
-back. Unable to resist the strong force, my body fell to the floor as if slammed[r]
-down.[pcms]
+Suddenly someone's hand was placed on my shoulder and I was[r]
+violently pulled back. Unable to resist the strong force, my[r]
+body fell to the floor as if slammed down.[pcms]
 
 ;//ÅYDEV024aÅiÇkÇPÅjÉmÅ[É}Éãíjç∑ï™
 [evcg storage="DEV024a"][trans_c cross time=300]
@@ -1125,8 +1170,9 @@ down.[pcms]
 *2624|
 [fc]
 [ns]Student B[nse]
-"Woah... this is Ayase's pussy...! It's small and pink just like I imagined...![r]
-I've always wanted to do this to you... to rape you."[pcms]
+"Woah... this is Ayase's pussy...! It's small and pink just[r]
+like I imagined...! I've always wanted to do this to you...[r]
+to rape you."[pcms]
 
 [ns]Student A[nse]
 ;//ÅuÇ®ÅAÇ®Ç¢ÅIÅ@â¥Ç…Ç‡å©ÇπÇÎÇÊÅI
@@ -1141,14 +1187,14 @@ I've always wanted to do this to you... to rape you."[pcms]
 [fc]
 [vo_ren s="ren1198"]
 [ns]Ren[nse]
-"No, nooo! That place is only for one person to see and touch! Ukuh! Hih...[r]
-nooo!"[pcms]
+"No, nooo! That place is only for one person to see and[r]
+touch! Ukuh! Hih... nooo!"[pcms]
 
 *2627|
 [fc]
-My legs were spread wide open and faces were brought close to my crotch... My[r]
-pussy is being seen by someone other than brother  a place that should never be[r]
-shown or seen![pcms]
+My legs were spread wide open and faces were brought close[r]
+to my crotch... My pussy is being seen by someone other than[r]
+brother  a place that should never be shown or seen![pcms]
 
 [ns]Student B[nse]
 ;//Åuì≤ÇÍÇÃÇ±ÇÃèÍèäÅcÅcÇ®ÅAâ¥Ç™ÅcÅcíÜÇ‡å©ÇƒÇ‚ÇÈÅcÅcÅI
@@ -1161,8 +1207,8 @@ shown or seen![pcms]
 *2628|
 [fc]
 [ns]Student B[nse]
-"Also look at this thin and beautiful pink fold. Even though her legs are spread[r]
-wide open, it's almost closed..."[pcms]
+"Also look at this thin and beautiful pink fold. Even though[r]
+her legs are spread wide open, it's almost closed..."[pcms]
 
 *2629|
 [fc]
@@ -1175,27 +1221,28 @@ The boy roughly grabbed my mound and began to knead it.[pcms]
 
 *2631|
 [fc]
-He moved his hand as if kneading the whole area, enjoying the sensation with his[r]
-rough fingers clenching and unclenching.[pcms]
+He moved his hand as if kneading the whole area, enjoying[r]
+the sensation with his rough fingers clenching and[r]
+unclenching.[pcms]
 
 *2632|
 [fc]
 [ns]Student A[nse]
-"Kuu~! It's so squishy, feels so good to touch, and on top of that... heheh![r]
-It's incredibly warm!"[pcms]
+"Kuu~! It's so squishy, feels so good to touch, and on top[r]
+of that... heheh! It's incredibly warm!"[pcms]
 
 *2633|
 [fc]
 [ns]Student B[nse]
-"This longed-for place... I, I will... look inside...! All the way to the[r]
-deepest part...!!"[pcms]
+"This longed-for place... I, I will... look inside...! All[r]
+the way to the deepest part...!!"[pcms]
 
 *2634|
 [fc]
 [vo_ren s="ren1199"]
 [ns]Ren[nse]
-"You can't do that! If you open it... spread it... hii! Yuck... it feels[r]
-disgusting...!"[pcms]
+"You can't do that! If you open it... spread it... hii![r]
+Yuck... it feels disgusting...!"[pcms]
 
 ;//ÉAÉ\ÉRÇ…íjéqÇÃéwêÊÇ™êGÇÍÅAñ≥óùñÓóùçLÇ∞ÇÁÇÍÇƒÇµÇ‹Ç¡ÇΩÅB
 ;//ÇªÇÃìrí[ÅAÉgÉçÉäÇ∆îSíÖéøÇÃâtëÃÇ™àÏÇÍèoÇµÇƒÇ´ÇΩÅB
@@ -1211,8 +1258,8 @@ That place is only for brother...![pcms]
 
 *2637|
 [fc]
-The boys' gazes were unabashedly fixed on my precious part that was forcibly[r]
-opened.[pcms]
+The boys' gazes were unabashedly fixed on my precious part[r]
+that was forcibly opened.[pcms]
 
 [ns]Student B[nse]
 ;//ÅuÇ»ÅAÇ»ÇÒÇæÇÊÇ±ÇÍÅcÅcÅI
@@ -1222,14 +1269,15 @@ opened.[pcms]
 *2638|
 [fc]
 [ns]Student B[nse]
-"Aah...! This, this is Ayase's inside...! The clit, the urethra, and the vaginal[r]
-opening are all a beautiful light pink!"[pcms]
+"Aah...! This, this is Ayase's inside...! The clit, the[r]
+urethra, and the vaginal opening are all a beautiful light[r]
+pink!"[pcms]
 
 *2639|
 [fc]
 [ns]Student A[nse]
-"This tiny entrance...! If I thrust inside, it seems like it would feel amazing,[r]
-right?!"[pcms]
+"This tiny entrance...! If I thrust inside, it seems like it[r]
+would feel amazing, right?!"[pcms]
 
 *2640|
 [fc]
@@ -1238,13 +1286,14 @@ right?!"[pcms]
 
 *2641|
 [fc]
-The bloodshot eyes glaring at me, the lewd voices of admiration, the fingers[r]
-growing more forceful, and the breath blowing on my genitals.[pcms]
+The bloodshot eyes glaring at me, the lewd voices of[r]
+admiration, the fingers growing more forceful, and the[r]
+breath blowing on my genitals.[pcms]
 
 *2642|
 [fc]
-To me, all of it felt like trampling over the precious memories between brother[r]
-and me.[pcms]
+To me, all of it felt like trampling over the precious[r]
+memories between brother and me.[pcms]
 
 *2643|
 [fc]
@@ -1257,8 +1306,9 @@ Why are they doing this...?[pcms]
 *2645|
 [fc]
 [ns]Student B[nse]
-"More! I'll look even deeper inside Ayase's body! I'll see inside Ayase's womb,[r]
-all the way to the uterus... Oh, what's this...?"[pcms]
+"More! I'll look even deeper inside Ayase's body! I'll see[r]
+inside Ayase's womb, all the way to the uterus... Oh, what's[r]
+this...?"[pcms]
 
 ;//ÅYDEV024aÅiÇkÇPÅjÉmÅ[É}Éãíjç∑ï™
 [evcg storage="DEV024c"][trans_c cross time=300]
@@ -1266,13 +1316,13 @@ all the way to the uterus... Oh, what's this...?"[pcms]
 *2646|
 [fc]
 [ns]Student A[nse]
-"Hey, something's dripping out? It's not love juice... it's white and[r]
-sticky...?"[pcms]
+"Hey, something's dripping out? It's not love juice... it's[r]
+white and sticky...?"[pcms]
 
 *2647|
 [fc]
-From my forcibly opened entrance, a sticky liquid began to overflow. The thick[r]
-and warm substance brother gave me...[pcms]
+From my forcibly opened entrance, a sticky liquid began to[r]
+overflow. The thick and warm substance brother gave me...[pcms]
 
 *2648|
 [fc]
@@ -1302,20 +1352,23 @@ and warm substance brother gave me...[pcms]
 
 *2651|
 [fc]
-The boy's fingers twisted inside my pussy, stirring around as if trying to force[r]
-out brother's sperm from my vagina, insistently spreading and scraping it out.[pcms]
+The boy's fingers twisted inside my pussy, stirring around[r]
+as if trying to force out brother's sperm from my vagina,[r]
+insistently spreading and scraping it out.[pcms]
 
 *2652|
 [fc]
-No...! Having someone else's fingers inside me other than brother's is[r]
-disgusting! I hate this... I absolutely hate it! Help me brother... brother![pcms]
+No...! Having someone else's fingers inside me other than[r]
+brother's is disgusting! I hate this... I absolutely hate[r]
+it! Help me brother... brother![pcms]
 
 *2653|
 [fc]
 [vo_ren s="ren1201"]
 [ns]Ren[nse]
-"No... stop it! Don't put your fingers in there...! You're scraping out[r]
-brother's sperm...! Ukuh, hii... yaaah! Aaaaah!"[pcms]
+"No... stop it! Don't put your fingers in there...! You're[r]
+scraping out brother's sperm...! Ukuh, hii... yaaah![r]
+Aaaaah!"[pcms]
 
 [ns]Student B[nse]
 ;//Åuí{ê∂ÅcÅcí{ê∂ÅI
@@ -1335,27 +1388,28 @@ brother's sperm...! Ukuh, hii... yaaah! Aaaaah!"[pcms]
 *2656|
 [fc]
 [ns]Student A[nse]
-"Brother? You don't mean, that brother? Seriously! You've been having SEX with[r]
-him?"[pcms]
+"Brother? You don't mean, that brother? Seriously! You've[r]
+been having SEX with him?"[pcms]
 
 ;//ÅYDEV024aÅiÇkÇPÅjÉmÅ[É}Éãíjç∑ï™
 [evcg storage="DEV024c"][trans_c cross time=300]
 
 *2657|
 [fc]
-The boy stopped moving his fingers inside me. Then slowly pulled them out to[r]
-look at the tips.[pcms]
+The boy stopped moving his fingers inside me. Then slowly[r]
+pulled them out to look at the tips.[pcms]
 
 *2658|
 [fc]
-The beautiful milky liquid clung to them. The jelly-like fragments of life that[r]
-brother gave me.[pcms]
+The beautiful milky liquid clung to them. The jelly-like[r]
+fragments of life that brother gave me.[pcms]
 
 *2659|
 [fc]
 [ns]Student A[nse]
-"I can't believe it... You've been sleeping with your own brother and letting[r]
-him cum inside you with such thick semen?!"[pcms]
+"I can't believe it... You've been sleeping with your own[r]
+brother and letting him cum inside you with such thick[r]
+semen?!"[pcms]
 
 *2660|
 [fc]
@@ -1369,17 +1423,19 @@ The other boy's voice trembled as he loomed over me.[pcms]
 *2662|
 [fc]
 [ns]Student B[nse]
-"...I thought Ayase was still untainted! ...I thought you were still pure!"[pcms]
+"...I thought Ayase was still untainted! ...I thought you[r]
+were still pure!"[pcms]
 
 *2663|
 [fc]
-A single tear fell from the boy's eyes and landed on his glasses.[pcms]
+A single tear fell from the boy's eyes and landed on his[r]
+glasses.[pcms]
 
 *2664|
 [fc]
 [ns]Student B[nse]
-"And yet...! You've been a slut all along, hoarding a man's semen inside your[r]
-pussy!!"[pcms]
+"And yet...! You've been a slut all along, hoarding a man's[r]
+semen inside your pussy!!"[pcms]
 
 *2665|
 [fc]
@@ -1390,16 +1446,18 @@ That's not true...![pcms]
 
 *2666|
 [fc]
-Raising his voice roughly, the boy took off his pants and exposed his large[r]
-swollen mass of flesh.[pcms]
+Raising his voice roughly, the boy took off his pants and[r]
+exposed his large swollen mass of flesh.[pcms]
 
 *2667|
 [fc]
-It was a dirty and grotesque genitalia, nothing like brother's.[pcms]
+It was a dirty and grotesque genitalia, nothing like[r]
+brother's.[pcms]
 
 *2668|
 [fc]
-I instinctively turned my face away, but the boy shouted angrily at me.[pcms]
+I instinctively turned my face away, but the boy shouted[r]
+angrily at me.[pcms]
 
 *2669|
 [fc]
@@ -1408,18 +1466,20 @@ I instinctively turned my face away, but the boy shouted angrily at me.[pcms]
 
 *2670|
 [fc]
-Ouch! The boy roughly opened my pussy and pressed his body against me.[pcms]
+Ouch! The boy roughly opened my pussy and pressed his body[r]
+against me.[pcms]
 
 *2671|
 [fc]
 [ns]Student B[nse]
-"Don't act so high and mighty! A pervert who fucks her own brother!! Pretending[r]
-to be pure and deceiving everyone!"[pcms]
+"Don't act so high and mighty! A pervert who fucks her own[r]
+brother!! Pretending to be pure and deceiving everyone!"[pcms]
 
 *2672|
 [fc]
-The hot and hard sensation touched the entrance of my pussy. No way...! Am I[r]
-going to be penetrated? By a dick that isn't brother's...?![pcms]
+The hot and hard sensation touched the entrance of my pussy.[r]
+No way...! Am I going to be penetrated? By a dick that isn't[r]
+brother's...?![pcms]
 
 *2673|
 [fc]
@@ -1430,7 +1490,8 @@ going to be penetrated? By a dick that isn't brother's...?![pcms]
 [fc]
 [vo_ren s="ren1202"]
 [ns]Ren[nse]
-"!? No! That's not allowed!! Don't penetrate me... don't put your dick in me!!"[pcms]
+"!? No! That's not allowed!! Don't penetrate me... don't put[r]
+your dick in me!!"[pcms]
 
 ;//ÉAÉ\ÉRÇÃì¸ÇËå˚Ç…êGÇÍÇÈÅAîMÇ≠å≈Ç¢ä¥êGÅB
 ;//ÇªÇÒÇ»Ç¡ÅcÅcë}ÇÍÇÁÇÍÇøÇ·Ç§ÇÃÅH
@@ -1439,19 +1500,21 @@ going to be penetrated? By a dick that isn't brother's...?![pcms]
 *2675|
 [fc]
 [ns]Student B[nse]
-"No way! I'll thrust all the way in!! I'll gouge into your womb and scrape out[r]
-all of brother's semen with my dick!!"[pcms]
+"No way! I'll thrust all the way in!! I'll gouge into your[r]
+womb and scrape out all of brother's semen with my dick!!"[pcms]
 
 *2676|
 [fc]
 [vo_ren s="ren1203"]
 [ns]Ren[nse]
-"No! Nooo!! Brother! Help me brother!! No! Not by anyone other than brother!!"[pcms]
+"No! Nooo!! Brother! Help me brother!! No! Not by anyone[r]
+other than brother!!"[pcms]
 
 *2677|
 [fc]
 [ns]Student B[nse]
-"Brother, brother, shut up!! I'll thrust in! My dick into Ayase!"[pcms]
+"Brother, brother, shut up!! I'll thrust in! My dick into[r]
+Ayase!"[pcms]
 
 *2678|
 [fc]
@@ -1466,26 +1529,28 @@ all of brother's semen with my dick!!"[pcms]
 
 *2679|
 [fc]
-Ah... Aah!? It's going in... pushing apart the hole of my pussy... Inside my[r]
-vagina... where only my brother is supposed to enter...![pcms]
+Ah... Aah!? It's going in... pushing apart the hole of my[r]
+pussy... Inside my vagina... where only my brother is[r]
+supposed to enter...![pcms]
 
 *2680|
 [fc]
 [ns]Student B[nse]
-"Ha... Haha!! Serves you right! I raped you... I fucked you! I shoved my cock[r]
-into the pretty face of a nympho girl!!"[pcms]
+"Ha... Haha!! Serves you right! I raped you... I fucked you![r]
+I shoved my cock into the pretty face of a nympho girl!!"[pcms]
 
 *2681|
 [fc]
 [vo_ren s="ren1205"]
 [ns]Ren[nse]
-"No... Nooo! Pull it out, quickly...! I don't want this...! I don't want any[r]
-cock other than my brother's!!"[pcms]
+"No... Nooo! Pull it out, quickly...! I don't want this...![r]
+I don't want any cock other than my brother's!!"[pcms]
 
 *2682|
 [fc]
 [ns]Student B[nse]
-"Shut up!! Even though your tight pussy is clamping down on my dick!"[pcms]
+"Shut up!! Even though your tight pussy is clamping down on[r]
+my dick!"[pcms]
 
 *2683|
 [fc]
@@ -1495,25 +1560,27 @@ cock other than my brother's!!"[pcms]
 
 *2684|
 [fc]
-He swung his hips roughly, stirring inside my vagina with his dick as if[r]
-slamming into me.[pcms]
+He swung his hips roughly, stirring inside my vagina with[r]
+his dick as if slamming into me.[pcms]
 
 *2685|
 [fc]
-I'm sorry, brother... I've been defiled... By a man other than you... My[r]
-precious place, inside my belly, has been dirtied...[pcms]
+I'm sorry, brother... I've been defiled... By a man other[r]
+than you... My precious place, inside my belly, has been[r]
+dirtied...[pcms]
 
 *2686|
 [fc]
 [ns]Student B[nse]
-"Haah! Haah!! Ah, I'm raping Ayase, me...! To think I could lose my virginity[r]
-with Ayase..."[pcms]
+"Haah! Haah!! Ah, I'm raping Ayase, me...! To think I could[r]
+lose my virginity with Ayase..."[pcms]
 
 *2687|
 [fc]
 [ns]Student A[nse]
-"Gyahahaha! What, you were a virgin? That's great, isn't it? You got to lose[r]
-your virginity by raping your beloved Ayase! That's a rare opportunity!"[pcms]
+"Gyahahaha! What, you were a virgin? That's great, isn't it?[r]
+You got to lose your virginity by raping your beloved Ayase![r]
+That's a rare opportunity!"[pcms]
 
 *2688|
 [fc]
@@ -1523,24 +1590,26 @@ your virginity by raping your beloved Ayase! That's a rare opportunity!"[pcms]
 
 *2689|
 [fc]
-The boy's hips moved as if drilling right through the middle of my widely spread[r]
-legs.[pcms]
+The boy's hips moved as if drilling right through the middle[r]
+of my widely spread legs.[pcms]
 
 *2690|
 [fc]
-With each of those pounding movements, my body was violently shaken up and down.[pcms]
+With each of those pounding movements, my body was violently[r]
+shaken up and down.[pcms]
 
 *2691|
 [fc]
-Each time, the semen I received from my brother and the mucous membrane inside[r]
-my womb made a splashing sound as they scattered from the connected part.[pcms]
+Each time, the semen I received from my brother and the[r]
+mucous membrane inside my womb made a splashing sound as[r]
+they scattered from the connected part.[pcms]
 
 *2692|
 [fc]
 [ns]Student B[nse]
-"You're still so tight...! Damn beast! Even though I'm a virgin, Ayase has been[r]
-fucked many times by her brother and let him cum inside her over and over[r]
-again!!"[pcms]
+"You're still so tight...! Damn beast! Even though I'm a[r]
+virgin, Ayase has been fucked many times by her brother and[r]
+let him cum inside her over and over again!!"[pcms]
 
 *2693|
 [fc]
@@ -1548,8 +1617,9 @@ With the boy's anger, the force of his thrusts intensified.[pcms]
 
 *2694|
 [fc]
-There was no gentleness at all, just a barbaric movement that skewered me, and[r]
-with each thrust of his dick's tip inside me, pain echoed to the top of my head.[pcms]
+There was no gentleness at all, just a barbaric movement[r]
+that skewered me, and with each thrust of his dick's tip[r]
+inside me, pain echoed to the top of my head.[pcms]
 
 ;//Ç±ÅAÇ±ÇÒÇ»ÇÃÅcÅcÅI
 ;//Ç±ÇÒÇ»Ç±Ç∆Ç≥ÇÍë±ÇØÇÁÇÍÇΩÇÁÅcÅcÉzÉìÉgÇ…âÛÇÍÇøÇ·Ç§ÅcÅcÅI
@@ -1558,14 +1628,14 @@ with each thrust of his dick's tip inside me, pain echoed to the top of my head.
 [fc]
 [vo_ren s="ren1208"]
 [ns]Ren[nse]
-"No! I don't want this! Please stop... igi! Agu, fuhii, uwaah! It hurts! It[r]
-hurts so much!"[pcms]
+"No! I don't want this! Please stop... igi! Agu, fuhii,[r]
+uwaah! It hurts! It hurts so much!"[pcms]
 
 *2696|
 [fc]
 [ns]Student A[nse]
-"Kuhuhu! They say you're worse than that brother of hers! Virgin-kun is so[r]
-clumsy it doesn't feel good at all!"[pcms]
+"Kuhuhu! They say you're worse than that brother of hers![r]
+Virgin-kun is so clumsy it doesn't feel good at all!"[pcms]
 
 *2697|
 [fc]
@@ -1576,31 +1646,32 @@ clumsy it doesn't feel good at all!"[pcms]
 [fc]
 [vo_ren s="ren1209"]
 [ns]Ren[nse]
-"Kii... hiii!! Uguu, no, agi... iii!! I'm breaking...! Really, no more...! My[r]
-pussy is going to tear... uguu!"[pcms]
+"Kii... hiii!! Uguu, no, agi... iii!! I'm breaking...![r]
+Really, no more...! My pussy is going to tear... uguu!"[pcms]
 
 ;//ÉSÉäÉSÉäÇ∆Ç®ÇøÇÒÇøÇÒÇ™‰Sì‡ÇÃÇ®ì˜Çà¯Ç¡ë~Ç´âÒÇµÅA
 ;//ÉOÉCÉOÉCÇ∆Ç®ÇøÇÒÇøÇÒÇÃêÊÇ™âüÇµïtÇØÇÁÇÍÇƒÇ≠ÇÈÅB
 
 *2699|
 [fc]
-The mass scraping inside my vagina began to move even more violently.[pcms]
+The mass scraping inside my vagina began to move even more[r]
+violently.[pcms]
 
 *2700|
 [fc]
 [ns]Student B[nse]
-"Ayase! I loved you! I've always loved you so much! But with her brother... Damn[r]
-beast! Damn beast!!"[pcms]
+"Ayase! I loved you! I've always loved you so much! But with[r]
+her brother... Damn beast! Damn beast!!"[pcms]
 
 *2701|
 [fc]
-The boy's flesh that penetrated me in the middle became even hotter and started[r]
-to scorch inside me.[pcms]
+The boy's flesh that penetrated me in the middle became even[r]
+hotter and started to scorch inside me.[pcms]
 
 *2702|
 [fc]
-The folds were stretched and felt like they were about to be torn apart, and[r]
-screams incessantly leaked from my mouth.[pcms]
+The folds were stretched and felt like they were about to be[r]
+torn apart, and screams incessantly leaked from my mouth.[pcms]
 
 *2703|
 [fc]
@@ -1609,8 +1680,8 @@ Help me... Help me!![pcms]
 *2704|
 [fc]
 [ns]Student B[nse]
-"Damn beast! Damn beast! Damn beast! Damn beast!! Damn beast!! Damn beast!! Damn[r]
-beast oooohhh!!!"[pcms]
+"Damn beast! Damn beast! Damn beast! Damn beast!! Damn[r]
+beast!! Damn beast!! Damn beast oooohhh!!!"[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 ;ÉVÉXÉeÉÄÉ{É^ÉìÅïÉEÉBÉìÉhÉEè¡ãé
@@ -1624,20 +1695,21 @@ beast oooohhh!!!"[pcms]
 
 *2705|
 [fc]
-Suddenly, while his dick was still thrust inside me, the boy's hip movements[r]
-stopped, and his body began to tremble in small spasms.[pcms]
+Suddenly, while his dick was still thrust inside me, the[r]
+boy's hip movements stopped, and his body began to tremble[r]
+in small spasms.[pcms]
 
 *2706|
 [fc]
 [vo_ren s="ren1210"]
 [ns]Ren[nse]
-"Eh...? No, don't! Aah, nooo!! Don't release your sperm... I don't want it![r]
-Don't let it out!!"[pcms]
+"Eh...? No, don't! Aah, nooo!! Don't release your sperm... I[r]
+don't want it! Don't let it out!!"[pcms]
 
 *2707|
 [fc]
-By the time I realized it was too late, the dick inside me twitched and hot[r]
-fluid struck deep within me.[pcms]
+By the time I realized it was too late, the dick inside me[r]
+twitched and hot fluid struck deep within me.[pcms]
 
 *2708|
 [fc]
@@ -1658,12 +1730,13 @@ No! No! Nooo!![pcms]
 [fc]
 [vo_ren s="ren1211"]
 [ns]Ren[nse]
-"Hiii... no! Uwah, ahhh! Don't release it! Don't release anymore!"[pcms]
+"Hiii... no! Uwah, ahhh! Don't release it! Don't release[r]
+anymore!"[pcms]
 
 *2711|
 [fc]
-I couldn't do anything but despairingly accept the sperm that was being poured[r]
-into me in pulses.[pcms]
+I couldn't do anything but despairingly accept the sperm[r]
+that was being poured into me in pulses.[pcms]
 
 ;//Ç®åZÇøÇ·ÇÒà»äOÇÃê∏éqÇÅAÇ®Ç»Ç©ÇÃâúÇ…Ç¢Ç¡ÇœÇ¢ÅcÅcÅB
 ;//êgëÃÇÃâúÇÃâúÇ‹Ç≈ÅAâòÇ≥ÇÍÇƒÅcÅcÅB
@@ -1671,18 +1744,21 @@ into me in pulses.[pcms]
 *2712|
 [fc]
 [ns]Student B[nse]
-"Haah, haah... I did it... I splattered my semen into Ayase's slutty pussy..."[pcms]
+"Haah, haah... I did it... I splattered my semen into[r]
+Ayase's slutty pussy..."[pcms]
 
 ;//ÅYDEV009ÅiÇkÇPÅjÉmÅ[É}ÉãíjéÀê∏
 [evcg storage="DEV009f"][trans_c cross time=300]
 
 *2713|
 [fc]
-The boy's meat stick was pulled out from inside me with a slurp.[pcms]
+The boy's meat stick was pulled out from inside me with a[r]
+slurp.[pcms]
 
 *2714|
 [fc]
-From the sore insides of my womb, a warm viscous mass slowly began to flow out.[pcms]
+From the sore insides of my womb, a warm viscous mass slowly[r]
+began to flow out.[pcms]
 
 *2715|
 [fc]
@@ -1691,16 +1767,19 @@ I've been defiled... My very core has been dirtied...[pcms]
 *2716|
 [fc]
 [ns]Student A[nse]
-"All of her brother's stuff got spilled outside, but instead you got a huge load[r]
-of thick stuff pumped into you! That's great for you, Ayase!"[pcms]
+"All of her brother's stuff got spilled outside, but instead[r]
+you got a huge load of thick stuff pumped into you! That's[r]
+great for you, Ayase!"[pcms]
 
 *2717|
 [fc]
-That can't be... All of my brother's precious seed is gone...[pcms]
+That can't be... All of my brother's precious seed is[r]
+gone...[pcms]
 
 *2718|
 [fc]
-This disgusting fluid from a boy who does such terrible things is inside me...![pcms]
+This disgusting fluid from a boy who does such terrible[r]
+things is inside me...![pcms]
 
 *2719|
 [fc]
@@ -1709,8 +1788,8 @@ I can't take it anymore...[pcms]
 *2720|
 [fc]
 [ns]Student B[nse]
-"Haah, haah... not yet! I'll rape you more! More than that brother of yours,[r]
-much more...!"[pcms]
+"Haah, haah... not yet! I'll rape you more! More than that[r]
+brother of yours, much more...!"[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇOÅiÇkÇQÅj
 [evcg storage="DEV010a"][trans_c cross time=300]
@@ -1719,31 +1798,32 @@ much more...!"[pcms]
 [fc]
 [vo_ren s="ren1212"]
 [ns]Ren[nse]
-"No... please stop... please, no more... I can't take anyone else but my brother[r]
-anymore..."[pcms]
+"No... please stop... please, no more... I can't take anyone[r]
+else but my brother anymore..."[pcms]
 
 *2722|
 [fc]
 [ns]Student B[nse]
-"Shut up! I'll defile you even more...! I'll make you dripping with my semen!"[pcms]
+"Shut up! I'll defile you even more...! I'll make you[r]
+dripping with my semen!"[pcms]
 
 *2723|
 [fc]
 [vo_ren s="ren1213"]
 [ns]Ren[nse]
-"Igi...! Hiuu, kuh, fuhah...! Auhh, kuh, kufuuu! It hurts...! Don't grab so[r]
-hard...! Don't pull on me!"[pcms]
+"Igi...! Hiuu, kuh, fuhah...! Auhh, kuh, kufuuu! It[r]
+hurts...! Don't grab so hard...! Don't pull on me!"[pcms]
 
 *2724|
 [fc]
-Grabbing my arms and pulling them roughly, the boy now thrusts his dick into me[r]
-from behind. Immediately after that, I could feel the semen from earlier[r]
-overflowing out.[pcms]
+Grabbing my arms and pulling them roughly, the boy now[r]
+thrusts his dick into me from behind. Immediately after[r]
+that, I could feel the semen from earlier overflowing out.[pcms]
 
 *2725|
 [fc]
-No... am I going to be filled again? Am I going to have another man's sperm[r]
-poured into my vagina?[pcms]
+No... am I going to be filled again? Am I going to have[r]
+another man's sperm poured into my vagina?[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇOÅiÇkÇQÅj
 [evcg storage="DEV010b"][trans_c cross time=300]
@@ -1752,54 +1832,58 @@ poured into my vagina?[pcms]
 [fc]
 [vo_ren s="ren1214"]
 [ns]Ren[nse]
-"No! Noooo! Please stop it! I hate this so much! Uguu, hihah! Kahah, aguuu...[r]
-guuun!"[pcms]
+"No! Noooo! Please stop it! I hate this so much! Uguu,[r]
+hihah! Kahah, aguuu... guuun!"[pcms]
 
 *2727|
 [fc]
 [ns]Student B[nse]
-"What do you hate?! You were happily collecting your brother's semen in your[r]
-womb all this time!"[pcms]
+"What do you hate?! You were happily collecting your[r]
+brother's semen in your womb all this time!"[pcms]
 
 *2728|
 [fc]
-The boy twisted my wrists further and dug his fingers into the flesh of my butt.[pcms]
+The boy twisted my wrists further and dug his fingers into[r]
+the flesh of my butt.[pcms]
 
 *2729|
 [fc]
-The bones in my arms creak, and with each thrust that follows, it feels like my[r]
-shoulders are going to be dislocated.[pcms]
+The bones in my arms creak, and with each thrust that[r]
+follows, it feels like my shoulders are going to be[r]
+dislocated.[pcms]
 
 *2730|
 [fc]
 [ns]Student B[nse]
-"I thought Ayase was a kind and pure girl...! I've always admired her...! And[r]
-yet! And yet!!"[pcms]
+"I thought Ayase was a kind and pure girl...! I've always[r]
+admired her...! And yet! And yet!!"[pcms]
 
 *2731|
 [fc]
 [ns]Student A[nse]
-"Bwahaha! So the cuter they are, the more you hate them when they betray you,[r]
-huh? Well, I'm shocked too. To think such a pretty girl has been screwing her[r]
-own brother all this time!"[pcms]
+"Bwahaha! So the cuter they are, the more you hate them when[r]
+they betray you, huh? Well, I'm shocked too. To think such a[r]
+pretty girl has been screwing her own brother all this[r]
+time!"[pcms]
 
 *2732|
 [fc]
 [vo_ren s="ren1215"]
 [ns]Ren[nse]
-"Don't talk about it in such a vulgar way! My brother and I truly love each[r]
-other! We're in love!"[pcms]
+"Don't talk about it in such a vulgar way! My brother and I[r]
+truly love each other! We're in love!"[pcms]
 
 *2733|
 [fc]
 [ns]Student B[nse]
-"Shut up, shut up!! Just keep that dick in your mouth! You're nothing but our[r]
-flesh doll now!"[pcms]
+"Shut up, shut up!! Just keep that dick in your mouth![r]
+You're nothing but our flesh doll now!"[pcms]
 
 *2734|
 [fc]
 [ns]Student A[nse]
-"Heh, right...! Might as well plug up that noisy mouth of hers too!"[pcms]
+"Heh, right...! Might as well plug up that noisy mouth of[r]
+hers too!"[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇOÅiÇkÇQÅj
 ;mm
@@ -1818,13 +1902,15 @@ flesh doll now!"[pcms]
 
 *2736|
 [fc]
-A dirty and smelly dick is thrust deep into my throat, and in rhythm with that,[r]
-another dick stirs inside me, pushing up against the flesh deep inside.[pcms]
+A dirty and smelly dick is thrust deep into my throat, and[r]
+in rhythm with that, another dick stirs inside me, pushing[r]
+up against the flesh deep inside.[pcms]
 
 *2737|
 [fc]
 [ns]Student A[nse]
-"Hey hey, use your tongue more! Like you're licking your brother's dick!"[pcms]
+"Hey hey, use your tongue more! Like you're licking your[r]
+brother's dick!"[pcms]
 
 *2738|
 [fc]
@@ -1834,8 +1920,9 @@ another dick stirs inside me, pushing up against the flesh deep inside.[pcms]
 
 *2739|
 [fc]
-A dirty and smelly dick is thrust deep into my throat, and in rhythm with that,[r]
-another dick stirs inside me, pushing up against the flesh deep inside.[pcms]
+A dirty and smelly dick is thrust deep into my throat, and[r]
+in rhythm with that, another dick stirs inside me, pushing[r]
+up against the flesh deep inside.[pcms]
 
 *2740|
 [fc]
@@ -1848,13 +1935,15 @@ No! No...! I absolutely hate this!![pcms]
 *2742|
 [fc]
 [ns]Student B[nse]
-"Guh... I'm gonna cum again! Inside Ayase... I'm gonna pump my semen into you![r]
-I'll fill you up until you're pregnant with my seed!"[pcms]
+"Guh... I'm gonna cum again! Inside Ayase... I'm gonna pump[r]
+my semen into you! I'll fill you up until you're pregnant[r]
+with my seed!"[pcms]
 
 *2743|
 [fc]
 [ns]Student A[nse]
-"Hahaha! Then I'll pour plenty from this side too and fill her up!"[pcms]
+"Hahaha! Then I'll pour plenty from this side too and fill[r]
+her up!"[pcms]
 
 *2744|
 [fc]
@@ -1864,18 +1953,21 @@ I'll fill you up until you're pregnant with my seed!"[pcms]
 
 *2745|
 [fc]
-No! I can't stand it anymore! If I get any more sperm poured into me... I'll[r]
-really get pregnant...! I absolutely don't want anyone's baby but my brother's![pcms]
+No! I can't stand it anymore! If I get any more sperm poured[r]
+into me... I'll really get pregnant...! I absolutely don't[r]
+want anyone's baby but my brother's![pcms]
 
 *2746|
 [fc]
 [ns]Student B[nse]
-"I'm cumming... now! Get pregnant! Get knocked up with my kid...!!"[pcms]
+"I'm cumming... now! Get pregnant! Get knocked up with my[r]
+kid...!!"[pcms]
 
 *2747|
 [fc]
 [ns]Student A[nse]
-"Uku...! I'm gonna cum too... I'm cumming! Swallow every last drop!"[pcms]
+"Uku...! I'm gonna cum too... I'm cumming! Swallow every[r]
+last drop!"[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇOÅiÇkÇQÅj
@@ -1887,12 +1979,14 @@ really get pregnant...! I absolutely don't want anyone's baby but my brother's![
 [fc]
 [vo_ren s="ren1219"]
 [ns]Ren[nse]
-"Gubu!? Ngu, bofu, gobu, geho! Abu, gu... fuu, nbo... bufuu!!"[pcms]
+"Gubu!? Ngu, bofu, gobu, geho! Abu, gu... fuu, nbo...[r]
+bufuu!!"[pcms]
 
 *2749|
 [fc]
-Ah, ahh... a dick is rampaging against the back of my navel... In my mouth too,[r]
-a dick is throbbing... Hot and smelly liquid is filling me up inside...[pcms]
+Ah, ahh... a dick is rampaging against the back of my[r]
+navel... In my mouth too, a dick is throbbing... Hot and[r]
+smelly liquid is filling me up inside...[pcms]
 
 *2750|
 [fc]
@@ -1902,13 +1996,13 @@ a dick is throbbing... Hot and smelly liquid is filling me up inside...[pcms]
 *2751|
 [fc]
 [ns]Student B[nse]
-"Ayase's butt... while grabbing her white and small butt, I'm ejaculating...[r]
-inside Ayase, spewing out semen..."[pcms]
+"Ayase's butt... while grabbing her white and small butt,[r]
+I'm ejaculating... inside Ayase, spewing out semen..."[pcms]
 
 *2752|
 [fc]
-Again, a dick twitches in the deepest part of me. Once more, filth is being[r]
-poured into my defenseless womb...[pcms]
+Again, a dick twitches in the deepest part of me. Once more,[r]
+filth is being poured into my defenseless womb...[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇOÅiÇkÇQÅj
@@ -1918,8 +2012,9 @@ poured into my defenseless womb...[pcms]
 
 *2753|
 [fc]
-I want to spit it out. But with my breath caught in my throat, all I can do is[r]
-swallow the liquid that has accumulated in my mouth.[pcms]
+I want to spit it out. But with my breath caught in my[r]
+throat, all I can do is swallow the liquid that has[r]
+accumulated in my mouth.[pcms]
 
 *2754|
 [fc]
@@ -1929,32 +2024,36 @@ swallow the liquid that has accumulated in my mouth.[pcms]
 
 *2755|
 [fc]
-While feeling my stomach convulse from the fishy smell and strange taste, I[r]
-still gulp down the liquid that's like rotten juice.[pcms]
+While feeling my stomach convulse from the fishy smell and[r]
+strange taste, I still gulp down the liquid that's like[r]
+rotten juice.[pcms]
 
 [evcg storage="DEV014a"][trans_c cross time=300]
 
 *2756|
 [fc]
-The dicks are pulled out from both my pussy and mouth with a slurping sound, and[r]
-at the same time, my body covered in semen is thrown limply onto the floor.[pcms]
+The dicks are pulled out from both my pussy and mouth with a[r]
+slurping sound, and at the same time, my body covered in[r]
+semen is thrown limply onto the floor.[pcms]
 
 *2757|
 [fc]
-My whole body hurts... It's screaming from being treated so roughly... I can't[r]
-take it anymore... I'm really going to be broken... Help me... Help me...![pcms]
+My whole body hurts... It's screaming from being treated so[r]
+roughly... I can't take it anymore... I'm really going to be[r]
+broken... Help me... Help me...![pcms]
 
 *2758|
 [fc]
 [ns]Thug A[nse]
-"Hehehe... what's this? Looks like you've been having quite the fun with the[r]
-kids."[pcms]
+"Hehehe... what's this? Looks like you've been having quite[r]
+the fun with the kids."[pcms]
 
 *2759|
 [fc]
 [vo_ren s="ren1221"]
 [ns]Ren[nse]
-"No... please no more... My whole body hurts... Please let me rest..."[pcms]
+"No... please no more... My whole body hurts... Please let[r]
+me rest..."[pcms]
 
 *2760|
 [fc]
@@ -1962,7 +2061,8 @@ Ignoring my pleading words, rough hands drag and pull me up.[pcms]
 
 *2761|
 [fc]
-Pain and suffering leave my body powerless as it's lifted up--[pcms]
+Pain and suffering leave my body powerless as it's lifted[r]
+up--[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇOÅiÇkÇQÅjîΩì]
 [evcg storage="DEV010h"][trans_c cross time=300]
@@ -1979,39 +2079,41 @@ Once again, a man's dick invades inside me.[pcms]
 
 *2764|
 [fc]
-While pushing out the sperm that was poured into my vagina full, a hot and hard[r]
-thing enters without resistance...[pcms]
+While pushing out the sperm that was poured into my vagina[r]
+full, a hot and hard thing enters without resistance...[pcms]
 
 *2765|
 [fc]
 [vo_ren s="ren1223"]
 [ns]Ren[nse]
-"Hiha... auu... please... no more, I don't want this... This is so dirty...[r]
-don't dirty me anymore... My body is getting soiled..."[pcms]
+"Hiha... auu... please... no more, I don't want this... This[r]
+is so dirty... don't dirty me anymore... My body is getting[r]
+soiled..."[pcms]
 
 *2766|
 [fc]
 [ns]Thug A[nse]
-"Hyahaha! What are you saying, missy?! You're making your pussy all sloppy wet![r]
-It's all melty from being stirred by those kids!"[pcms]
+"Hyahaha! What are you saying, missy?! You're making your[r]
+pussy all sloppy wet! It's all melty from being stirred by[r]
+those kids!"[pcms]
 
 *2767|
 [fc]
 [vo_ren s="ren1224"]
 [ns]Ren[nse]
-"That's not true...! I didn't want this... It hurts so much, it's agonizing...[r]
-ukuh, higi, yah... aguu!"[pcms]
+"That's not true...! I didn't want this... It hurts so much,[r]
+it's agonizing... ukuh, higi, yah... aguu!"[pcms]
 
 *2768|
 [fc]
-I flail my aching body trying to escape from the thrusts that push deeper and[r]
-deeper inside me. Despite screaming out in pain, I try to crawl forward to[r]
-escape.[pcms]
+I flail my aching body trying to escape from the thrusts[r]
+that push deeper and deeper inside me. Despite screaming out[r]
+in pain, I try to crawl forward to escape.[pcms]
 
 *2769|
 [fc]
-But I can't get away from the man's hands that grip my hips tightly with painful[r]
-strength; I'm quickly pulled back.[pcms]
+But I can't get away from the man's hands that grip my hips[r]
+tightly with painful strength; I'm quickly pulled back.[pcms]
 
 *2770|
 [fc]
@@ -2020,8 +2122,8 @@ Furthermore--[pcms]
 *2771|
 [fc]
 [ns]Working Adult A[nse]
-"What's wrong? All that struggling is useless, useless! Hey, take care of mine[r]
-too, missy."[pcms]
+"What's wrong? All that struggling is useless, useless! Hey,[r]
+take care of mine too, missy."[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇOÅiÇkÇQÅjîΩì]
 ;mm
@@ -2032,51 +2134,56 @@ too, missy."[pcms]
 [fc]
 [vo_ren s="ren1225"]
 [ns]Ren[nse]
-"No please... I don't want this... nmmuu! Guh, gubuu! Apu, bufu, obu... nguu!"[pcms]
+"No please... I don't want this... nmmuu! Guh, gubuu! Apu,[r]
+bufu, obu... nguu!"[pcms]
 
 *2773|
 [fc]
-A man grabs my hair as if to catch me trying to escape and forces his hard dick[r]
-into my gasping mouth.[pcms]
+A man grabs my hair as if to catch me trying to escape and[r]
+forces his hard dick into my gasping mouth.[pcms]
 
 *2774|
 [fc]
-Suddenly thrust deep into my throat, cutting off my breath for a moment and[r]
-making my consciousness fade. But then I'm violently awakened by the rough[r]
-movements of the men assaulting me.[pcms]
+Suddenly thrust deep into my throat, cutting off my breath[r]
+for a moment and making my consciousness fade. But then I'm[r]
+violently awakened by the rough movements of the men[r]
+assaulting me.[pcms]
 
 *2775|
 [fc]
 [vo_ren s="ren1226"]
 [ns]Ren[nse]
-"Pufu, nkuh, fuhah, abu... ndjuh, gupu! Gebu, mugo, obu, gumu... uh, gupuu!"[pcms]
+"Pufu, nkuh, fuhah, abu... ndjuh, gupu! Gebu, mugo, obu,[r]
+gumu... uh, gupuu!"[pcms]
 
 *2776|
 [fc]
 [ns]Thug A[nse]
-"Ohh... oouh! Heheh, every time she moans she tightens up. The folds all[r]
-slippery with semen and love juice are wrapping around me?"[pcms]
+"Ohh... oouh! Heheh, every time she moans she tightens up.[r]
+The folds all slippery with semen and love juice are[r]
+wrapping around me?"[pcms]
 
 *2777|
 [fc]
 [ns]Working Adult A[nse]
-"This side too...! Her throat muscles and tongue tremble with her pained[r]
-voice... amazing!"[pcms]
+"This side too...! Her throat muscles and tongue tremble[r]
+with her pained voice... amazing!"[pcms]
 
 *2778|
 [fc]
-The men seem to get even more excited by my trembling agony and assault me even[r]
-more violently.[pcms]
+The men seem to get even more excited by my trembling agony[r]
+and assault me even more violently.[pcms]
 
 *2779|
 [fc]
-It feels like my arms are going to be pulled out...! My back is going to[r]
-break...! My stomach, my throat... they're going to be pierced through...![pcms]
+It feels like my arms are going to be pulled out...! My back[r]
+is going to break...! My stomach, my throat... they're going[r]
+to be pierced through...![pcms]
 
 *2780|
 [fc]
-My whole body... it's going to be torn apart...! No, help me... someone, help...[r]
-Onii-chan... Onii-chan![pcms]
+My whole body... it's going to be torn apart...! No, help[r]
+me... someone, help... Onii-chan... Onii-chan![pcms]
 
 *2781|
 [fc]
@@ -2087,26 +2194,29 @@ Onii-chan... Onii-chan![pcms]
 *2782|
 [fc]
 [ns]Thug A[nse]
-"Ou...! Heheh, this one's in good shape! The girl's pussy is great!"[pcms]
+"Ou...! Heheh, this one's in good shape! The girl's pussy is[r]
+great!"[pcms]
 
 *2783|
 [fc]
 [ns]Working Adult A[nse]
-"To have a black-haired, bespectacled girl with such a neat face... giving a[r]
-blowjob...! Uah! I'm getting too excited, I'm gonna...!"[pcms]
+"To have a black-haired, bespectacled girl with such a neat[r]
+face... giving a blowjob...! Uah! I'm getting too excited,[r]
+I'm gonna...!"[pcms]
 
 *2784|
 [fc]
 [ns]Thug A[nse]
-"What's the matter, you're quick, aren't you? You're getting to do it with such[r]
-a fine piece. Enjoy it more slowly, right?"[pcms]
+"What's the matter, you're quick, aren't you? You're getting[r]
+to do it with such a fine piece. Enjoy it more slowly,[r]
+right?"[pcms]
 
 *2785|
 [fc]
 [vo_ren s="ren1228"]
 [ns]Ren[nse]
-"Ubu, hapu, gu... fubaaa!! Obu, guu, nmpu, abuu! Hihapu, pau! No! Inside is[r]
-already... no, I don't want it!!"[pcms]
+"Ubu, hapu, gu... fubaaa!! Obu, guu, nmpu, abuu! Hihapu,[r]
+pau! No! Inside is already... no, I don't want it!!"[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇOÅiÇkÇQÅjîΩì]
@@ -2118,20 +2228,21 @@ already... no, I don't want it!!"[pcms]
 [fc]
 [vo_ren s="ren1229"]
 [ns]Ren[nse]
-"Hiiii!! It's... coming out...! Again, inside... in my vagina...! No, please...[r]
-stop it..."[pcms]
+"Hiiii!! It's... coming out...! Again, inside... in my[r]
+vagina...! No, please... stop it..."[pcms]
 
 *2787|
 [fc]
 [ns]Thug A[nse]
-"Oo... ohh...! Being squeezed out... The pussy flesh is gripping the dick and[r]
-milking the semen out of me..."[pcms]
+"Oo... ohh...! Being squeezed out... The pussy flesh is[r]
+gripping the dick and milking the semen out of me..."[pcms]
 
 *2788|
 [fc]
 [ns]Working Adult A[nse]
-"Fa... ha, haha... To be defiling such a beautiful girl's... mystically pretty[r]
-face with my semen... it's like a dream..."[pcms]
+"Fa... ha, haha... To be defiling such a beautiful girl's...[r]
+mystically pretty face with my semen... it's like a[r]
+dream..."[pcms]
 
 *2789|
 [fc]
@@ -2141,13 +2252,13 @@ face with my semen... it's like a dream..."[pcms]
 
 *2790|
 [fc]
-The filthy liquid with an ugly smell is sprayed inside and outside of my body,[r]
-and they raise satisfied voices.[pcms]
+The filthy liquid with an ugly smell is sprayed inside and[r]
+outside of my body, and they raise satisfied voices.[pcms]
 
 *2791|
 [fc]
-I can tell that countless men are approaching me as I collapse from exhaustion[r]
-both mentally and physically...[pcms]
+I can tell that countless men are approaching me as I[r]
+collapse from exhaustion both mentally and physically...[pcms]
 
 *2792|
 [fc]
@@ -2159,7 +2270,8 @@ In the midst of that, a rough laughter pierces my eardrums.[pcms]
 *2793|
 [fc]
 [ns]Student B[nse]
-"Ha, haha... serves you right! You lewd woman! Get even dirtier! Despair!"[pcms]
+"Ha, haha... serves you right! You lewd woman! Get even[r]
+dirtier! Despair!"[pcms]
 
 *2794|
 [fc]
@@ -2169,14 +2281,16 @@ In the midst of that, a rough laughter pierces my eardrums.[pcms]
 
 *2795|
 [fc]
-As I slowly move my aching body and lift my face, I see the boy who violated me[r]
-holding up a violin case with a twisted expression. What is he doing...?[pcms]
+As I slowly move my aching body and lift my face, I see the[r]
+boy who violated me holding up a violin case with a twisted[r]
+expression. What is he doing...?[pcms]
 
 *2796|
 [fc]
 [ns]Student B[nse]
-"A slut like you doesn't need something like this anymore! Damn it... pretending[r]
-to be pure playing this thing... Take this!!"[pcms]
+"A slut like you doesn't need something like this anymore![r]
+Damn it... pretending to be pure playing this thing... Take[r]
+this!!"[pcms]
 
 ;//ÅÚ_ÉåÉbÉhÉtÉâÉbÉVÉÖ
 [ê‘ÉtÉâ]
@@ -2189,19 +2303,20 @@ to be pure playing this thing... Take this!!"[pcms]
 
 *2798|
 [fc]
-The violin is smashed on the floor, cruelly broken. Crushed, the strings[r]
-snapped, scattered...[pcms]
+The violin is smashed on the floor, cruelly broken. Crushed,[r]
+the strings snapped, scattered...[pcms]
 
 *2799|
 [fc]
 [vo_ren s="ren1233"]
 [ns]Ren[nse]
-"No, I can't take this anymore... Please stop... it's too cruel..."[pcms]
+"No, I can't take this anymore... Please stop... it's too[r]
+cruel..."[pcms]
 
 *2800|
 [fc]
-Why is this happening... we're humans... not infected ones... How can they do[r]
-such cruel things...?[pcms]
+Why is this happening... we're humans... not infected[r]
+ones... How can they do such cruel things...?[pcms]
 
 *2801|
 [fc]
@@ -2216,8 +2331,8 @@ such cruel things...?[pcms]
 
 *2803|
 [fc]
-The last voice I want to hear--Shige-san's voice comes through. Mocking me with[r]
-a cajoling tone...[pcms]
+The last voice I want to hear--Shige-san's voice comes[r]
+through. Mocking me with a cajoling tone...[pcms]
 
 *2804|
 [fc]
@@ -2236,8 +2351,8 @@ a cajoling tone...[pcms]
 *2806|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uhoohoo! You're light as a feather little doll! Just like a real doll! Now let[r]
-everyone see! The doll's pussy!"[pcms]
+"Uhoohoo! You're light as a feather little doll! Just like a[r]
+real doll! Now let everyone see! The doll's pussy!"[pcms]
 
 *2807|
 [fc]
@@ -2247,30 +2362,33 @@ everyone see! The doll's pussy!"[pcms]
 
 *2808|
 [fc]
-I can't resist Shige-san's strength; he spreads my legs wide open and exposes my[r]
-pussy to the gaze of the men.[pcms]
+I can't resist Shige-san's strength; he spreads my legs wide[r]
+open and exposes my pussy to the gaze of the men.[pcms]
 
 *2809|
 [fc]
-The entrance to my vagina has become slack from being treated so roughly; I can[r]
-feel the semen dripping down...[pcms]
+The entrance to my vagina has become slack from being[r]
+treated so roughly; I can feel the semen dripping down...[pcms]
 
 *2810|
 [fc]
 [vo_ren s="ren1237"]
 [ns]Ren[nse]
-"Hiu... ku, ah... please stop... don't look at me... don't look..."[pcms]
+"Hiu... ku, ah... please stop... don't look at me... don't[r]
+look..."[pcms]
 
 *2811|
 [fc]
-My plea is like the buzz of a mosquito and doesn't reach anyone; Shige-san[r]
-shakes my body happily and prepares to humiliate me further.[pcms]
+My plea is like the buzz of a mosquito and doesn't reach[r]
+anyone; Shige-san shakes my body happily and prepares to[r]
+humiliate me further.[pcms]
 
 *2812|
 [fc]
 [ns]Shigeyoshi[nse]
-"If you don't want to be seen, you gotta hide it little doll. Hey someone cover[r]
-her up! Stick your thing in and make sure it reaches deep inside!"[pcms]
+"If you don't want to be seen, you gotta hide it little[r]
+doll. Hey someone cover her up! Stick your thing in and make[r]
+sure it reaches deep inside!"[pcms]
 
 *2813|
 [fc]
@@ -2280,19 +2398,21 @@ her up! Stick your thing in and make sure it reaches deep inside!"[pcms]
 *2814|
 [fc]
 [ns]Shigeyoshi[nse]
-"It's not fresh anymore... after that brat inserted it there I just can't get[r]
-into it."[pcms]
+"It's not fresh anymore... after that brat inserted it there[r]
+I just can't get into it."[pcms]
 
 *2815|
 [fc]
 [ns]Thug B[nse]
-"Heheh, is that so? Then I won't hold back... I'll gladly take it."[pcms]
+"Heheh, is that so? Then I won't hold back... I'll gladly[r]
+take it."[pcms]
 
 *2816|
 [fc]
 [vo_ren s="ren1238"]
 [ns]Ren[nse]
-"Ah... stop it... no more, I can't take it... It's breaking me... I'll break..."[pcms]
+"Ah... stop it... no more, I can't take it... It's breaking[r]
+me... I'll break..."[pcms]
 
 *2817|
 [fc]
@@ -2313,26 +2433,26 @@ into it."[pcms]
 *2819|
 [fc]
 [ns]Thug B[nse]
-"Kuuu~...! Even though it's drenched in semen, it still tightens nicely around[r]
-me... irresistible~..."[pcms]
+"Kuuu~...! Even though it's drenched in semen, it still[r]
+tightens nicely around me... irresistible~..."[pcms]
 
 *2820|
 [fc]
 [ns]Shigeyoshi[nse]
-"What? Is the doll's that much of a treasure? Damn it, that brat got to taste[r]
-such a virgin treasure?"[pcms]
+"What? Is the doll's that much of a treasure? Damn it, that[r]
+brat got to taste such a virgin treasure?"[pcms]
 
 *2821|
 [fc]
 [vo_ren s="ren1240"]
 [ns]Ren[nse]
-"Don't move please... eahh! It hurts... my insides are stinging! It hurts when[r]
-you rub against it... iiii!"[pcms]
+"Don't move please... eahh! It hurts... my insides are[r]
+stinging! It hurts when you rub against it... iiii!"[pcms]
 
 *2822|
 [fc]
-Pulling his hips back largely and thrusting in violently all at once, a sharp[r]
-pain resonates from inside my vagina.[pcms]
+Pulling his hips back largely and thrusting in violently all[r]
+at once, a sharp pain resonates from inside my vagina.[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇPÅiÇkÇRÅjÉmÅ[É}Éãíjç∑ï™
 [evcg storage="DEV011d"][trans_c cross time=300]
@@ -2341,32 +2461,34 @@ pain resonates from inside my vagina.[pcms]
 [fc]
 [vo_ren s="ren1241"]
 [ns]Ren[nse]
-"Higu, uah, ha, hauh... ngi, hi, aah! No, it hurts... I'm breaking! I'm really[r]
-going to break apart!"[pcms]
+"Higu, uah, ha, hauh... ngi, hi, aah! No, it hurts... I'm[r]
+breaking! I'm really going to break apart!"[pcms]
 
 *2824|
 [fc]
 [ns]Thug B[nse]
-"Uh, qua! The lewd flesh smeared with semen is entangling me... squeezing me..."[pcms]
+"Uh, qua! The lewd flesh smeared with semen is entangling[r]
+me... squeezing me..."[pcms]
 
 *2825|
 [fc]
 [ns]Shigeyoshi[nse]
-"Hurry up and finish inside her! Make sure to give her a present deep in her[r]
-womb. She's made you feel so good; you gotta show some gratitude."[pcms]
+"Hurry up and finish inside her! Make sure to give her a[r]
+present deep in her womb. She's made you feel so good; you[r]
+gotta show some gratitude."[pcms]
 
 *2826|
 [fc]
 [vo_ren s="ren1242"]
 [ns]Ren[nse]
-"No please don't...! Not inside anymore... I don't want semen. Semen from anyone[r]
-but Onii-chan is bad for me..."[pcms]
+"No please don't...! Not inside anymore... I don't want[r]
+semen. Semen from anyone but Onii-chan is bad for me..."[pcms]
 
 *2827|
 [fc]
-I shake my head from side to side with a body that can barely muster any[r]
-strength left to show my refusal of being cummed inside. But as expected, my[r]
-wishes are ignored--[pcms]
+I shake my head from side to side with a body that can[r]
+barely muster any strength left to show my refusal of being[r]
+cummed inside. But as expected, my wishes are ignored--[pcms]
 
 *2828|
 [fc]
@@ -2383,22 +2505,24 @@ wishes are ignored--[pcms]
 [fc]
 [vo_ren s="ren1243"]
 [ns]Ren[nse]
-"Hic... it's coming out... Again, inside my stomach... deep inside, so much...[r]
-no... This could really make a baby..."[pcms]
+"Hic... it's coming out... Again, inside my stomach... deep[r]
+inside, so much... no... This could really make a baby..."[pcms]
 
 *2830|
 [fc]
-The sensation of hot, sticky fluid forcefully shot into the depths of my belly,[r]
-and the feeling of an enormous amount of semen swirling inside my womb.[pcms]
+The sensation of hot, sticky fluid forcefully shot into the[r]
+depths of my belly, and the feeling of an enormous amount of[r]
+semen swirling inside my womb.[pcms]
 
 *2831|
 [fc]
-Limp and powerless in Shigeyoshi's arms, I feel the two sensations mixing inside[r]
-me.[pcms]
+Limp and powerless in Shigeyoshi's arms, I feel the two[r]
+sensations mixing inside me.[pcms]
 
 *2832|
 [fc]
-If only these arms were Onii-chan's... Onii-chan... Onii-chan...[pcms]
+If only these arms were Onii-chan's... Onii-chan... Onii-[r]
+chan...[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇPÅiÇkÇRÅjÉmÅ[É}Éãíjç∑ï™
 [evcg storage="DEV011a"][trans_c cross time=300]
@@ -2406,18 +2530,20 @@ If only these arms were Onii-chan's... Onii-chan... Onii-chan...[pcms]
 *2833|
 [fc]
 [ns]Thug B[nse]
-"Heheh... Shigeyoshi-san should have a go too? It feels amazing."[pcms]
+"Heheh... Shigeyoshi-san should have a go too? It feels[r]
+amazing."[pcms]
 
 *2834|
 [fc]
 [ns]Shigeyoshi[nse]
-"Tch, you idiots. Like I'd stick it in a hole smeared with your cum! Damn, I[r]
-wanted to taste a virgin too... huh?"[pcms]
+"Tch, you idiots. Like I'd stick it in a hole smeared with[r]
+your cum! Damn, I wanted to taste a virgin too... huh?"[pcms]
 
 *2835|
 [fc]
-Shigeyoshi shakes my body, trying to sieve out the cum overflowing from my[r]
-gaping pussy. Each time, his hard, monstrous dick touches my butt...[pcms]
+Shigeyoshi shakes my body, trying to sieve out the cum[r]
+overflowing from my gaping pussy. Each time, his hard,[r]
+monstrous dick touches my butt...[pcms]
 
 *2836|
 [fc]
@@ -2426,14 +2552,15 @@ gaping pussy. Each time, his hard, monstrous dick touches my butt...[pcms]
 
 *2837|
 [fc]
-Shigeyoshi approaches my ear with a voice filled with sinister pleasure, his[r]
-foul breath wafting over me... no, please no more...[pcms]
+Shigeyoshi approaches my ear with a voice filled with[r]
+sinister pleasure, his foul breath wafting over me... no,[r]
+please no more...[pcms]
 
 *2838|
 [fc]
 [ns]Shigeyoshi[nse]
-"The doll might have been fucked by that brat of a brother, but this here is[r]
-still untouched, right?"[pcms]
+"The doll might have been fucked by that brat of a brother,[r]
+but this here is still untouched, right?"[pcms]
 
 *2839|
 [fc]
@@ -2443,34 +2570,35 @@ still untouched, right?"[pcms]
 
 *2840|
 [fc]
-The tip of a dick as thick as an arm is perfectly aligned with my asshole. No[r]
-way... no way...![pcms]
+The tip of a dick as thick as an arm is perfectly aligned[r]
+with my asshole. No way... no way...![pcms]
 
 *2841|
 [fc]
 [vo_ren s="ren1245"]
 [ns]Ren[nse]
-"That's impossible... there! Because that place is... It's the wrong spot...![r]
-That kind of thing...!"[pcms]
+"That's impossible... there! Because that place is... It's[r]
+the wrong spot...! That kind of thing...!"[pcms]
 
 *2842|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gwehehe... Looks like that ass is still untouched. I'll be the one to break it[r]
-in? Cry and enjoy it!"[pcms]
+"Gwehehe... Looks like that ass is still untouched. I'll be[r]
+the one to break it in? Cry and enjoy it!"[pcms]
 
 *2843|
 [fc]
 [vo_ren s="ren1246"]
 [ns]Ren[nse]
-"No no no no noooo!! Please! I'm really going to break! I can't take it[r]
-anymore!"[pcms]
+"No no no no noooo!! Please! I'm really going to break! I[r]
+can't take it anymore!"[pcms]
 
 *2844|
 [fc]
-With the last of my strength, I flail my arms and legs desperately trying to[r]
-escape. But my resistance seems almost non-existent to Shigeyoshi. The next[r]
-moment, something hot presses hard against my butt--[pcms]
+With the last of my strength, I flail my arms and legs[r]
+desperately trying to escape. But my resistance seems almost[r]
+non-existent to Shigeyoshi. The next moment, something hot[r]
+presses hard against my butt--[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇPÅiÇkÇRÅjèdãgÉ`ÉìÉ|ë}ì¸ç∑ï™
 ;mm
@@ -2517,22 +2645,25 @@ It's going in...! Into my butt... tearing and ripping...!![pcms]
 *2849|
 [fc]
 [ns]Shigeyoshi[nse]
-"Oh, you're waking up? Thought you broke just from the insertion."[pcms]
+"Oh, you're waking up? Thought you broke just from the[r]
+insertion."[pcms]
 
 *2850|
 [fc]
-I lost consciousness due to the terror of being torn in two and the sharp pain.[pcms]
+I lost consciousness due to the terror of being torn in two[r]
+and the sharp pain.[pcms]
 
 *2851|
 [fc]
-However, I was forcibly awakened by the dull, hot pain and pressure coming from[r]
-my ass and the bottom of my stomach.[pcms]
+However, I was forcibly awakened by the dull, hot pain and[r]
+pressure coming from my ass and the bottom of my stomach.[pcms]
 
 *2852|
 [fc]
 [ns]Shigeyoshi[nse]
-"How is it? My dick is the best, right...! Your ass is tearing and stretching?[r]
-You've probably never taken such a big shit before!"[pcms]
+"How is it? My dick is the best, right...! Your ass is[r]
+tearing and stretching? You've probably never taken such a[r]
+big shit before!"[pcms]
 
 *2853|
 [fc]
@@ -2540,30 +2671,31 @@ Laughter erupts from those around at Shigeyoshi's words.[pcms]
 
 *2854|
 [fc]
-The sensation of a huge foreign object in my ass and stomach makes cold sweat[r]
-break out all over my body.[pcms]
+The sensation of a huge foreign object in my ass and stomach[r]
+makes cold sweat break out all over my body.[pcms]
 
 *2855|
 [fc]
-That unbelievable thickness and size are tearing through my asshole and[r]
-thrusting deep inside.[pcms]
+That unbelievable thickness and size are tearing through my[r]
+asshole and thrusting deep inside.[pcms]
 
 *2856|
 [fc]
-I feel dizzy with pain and discomfort... If only I could have stayed[r]
-unconscious...[pcms]
+I feel dizzy with pain and discomfort... If only I could[r]
+have stayed unconscious...[pcms]
 
 *2857|
 [fc]
 [ns]Shigeyoshi[nse]
-"Now then... time to get serious? Brace yourself as I pound your rectum."[pcms]
+"Now then... time to get serious? Brace yourself as I pound[r]
+your rectum."[pcms]
 
 *2858|
 [fc]
 [vo_ren s="ren1250"]
 [ns]Ren[nse]
-"Hic... I'm going to die! Such a thing... my ass... my stomach will tear...[r]
-aguuu!!"[pcms]
+"Hic... I'm going to die! Such a thing... my ass... my[r]
+stomach will tear... aguuu!!"[pcms]
 
 ;//ÅÚ_ÉåÉbÉhÉtÉâÉbÉVÉÖ
 ;mm
@@ -2572,12 +2704,13 @@ aguuu!!"[pcms]
 
 *2859|
 [fc]
-The large mass inside my stomach is being pulled out as if everything is going[r]
-to come out.[pcms]
+The large mass inside my stomach is being pulled out as if[r]
+everything is going to come out.[pcms]
 
 *2860|
 [fc]
-I convulse as if my stomach and intestines are being wound up and dragged out.[pcms]
+I convulse as if my stomach and intestines are being wound[r]
+up and dragged out.[pcms]
 
 *2861|
 [fc]
@@ -2603,34 +2736,37 @@ I convulse as if my stomach and intestines are being wound up and dragged out.[p
 
 *2863|
 [fc]
-I listen to myself screaming like a beast from within my fading consciousness.[pcms]
+I listen to myself screaming like a beast from within my[r]
+fading consciousness.[pcms]
 
 *2864|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uoh, hofuu! Nice ass! The pussy was a masterpiece; is the asshole too? The[r]
-flesh of your rectum is clinging and won't let go!!"[pcms]
+"Uoh, hofuu! Nice ass! The pussy was a masterpiece; is the[r]
+asshole too? The flesh of your rectum is clinging and won't[r]
+let go!!"[pcms]
 
 *2865|
 [fc]
 [vo_ren s="ren1253"]
 [ns]Ren[nse]
-"Igih... higuuuu! Yaaaah! Don't moveeeehhh!! It hurts it hurts it hurts it[r]
-hurtttttttt!!"[pcms]
+"Igih... higuuuu! Yaaaah! Don't moveeeehhh!! It hurts it[r]
+hurts it hurts it hurtttttttt!!"[pcms]
 
 *2866|
 [fc]
-Pain echoes throughout my butt, the bottom of my stomach, and inside my head...[r]
-every part of my body.[pcms]
+Pain echoes throughout my butt, the bottom of my stomach,[r]
+and inside my head... every part of my body.[pcms]
 
 *2867|
 [fc]
-The impact that feels like it could tear me apart makes my consciousness flicker[r]
-in and out.[pcms]
+The impact that feels like it could tear me apart makes my[r]
+consciousness flicker in and out.[pcms]
 
 *2868|
 [fc]
-My body convulses violently as I roll my eyes back; it feels like someone else.[pcms]
+My body convulses violently as I roll my eyes back; it feels[r]
+like someone else.[pcms]
 
 *2869|
 [fc]
@@ -2639,40 +2775,41 @@ My body convulses violently as I roll my eyes back; it feels like someone else.[
 *2870|
 [fc]
 [ns]Shigeyoshi[nse]
-"Uoh, houu! Kuah, fooh! I feel like I'm going to be squeezed out any second now![r]
-Hahhaa!"[pcms]
+"Uoh, houu! Kuah, fooh! I feel like I'm going to be squeezed[r]
+out any second now! Hahhaa!"[pcms]
 
 *2871|
 [fc]
-My insides and outsides are so defiled, even my asshole has been violated;[r]
-vomiting like this can't be me.[pcms]
+My insides and outsides are so defiled, even my asshole has[r]
+been violated; vomiting like this can't be me.[pcms]
 
 *2872|
 [fc]
 [vo_ren s="ren1254"]
 [ns]Ren[nse]
-"Ngiuh, gubuh... gebuh, gohoh, ugeeh! Gurujih... ugah, agih... gihiiii!!"[pcms]
+"Ngiuh, gubuh... gebuh, gohoh, ugeeh! Gurujih... ugah,[r]
+agih... gihiiii!!"[pcms]
 
 *2873|
 [fc]
-I feel like all my organs are being pushed up from below and about to burst out[r]
-of my mouth.[pcms]
+I feel like all my organs are being pushed up from below and[r]
+about to burst out of my mouth.[pcms]
 
 *2874|
 [fc]
-The pressure from inside pushes up again, causing semen and stomach acid to[r]
-overflow from my stomach.[pcms]
+The pressure from inside pushes up again, causing semen and[r]
+stomach acid to overflow from my stomach.[pcms]
 
 *2875|
 [fc]
-No good... it's still "me"... No more... I'm going to die... To die like this...[r]
-Onii-chan...[pcms]
+No good... it's still "me"... No more... I'm going to die...[r]
+To die like this... Onii-chan...[pcms]
 
 *2876|
 [fc]
 [ns]Shigeyoshi[nse]
-"Ugh... guuuh! I'm going to release! I'll pour it all into your ass! So much[r]
-that it'll overflow from your mouth!!"[pcms]
+"Ugh... guuuh! I'm going to release! I'll pour it all into[r]
+your ass! So much that it'll overflow from your mouth!!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_c3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -2680,8 +2817,8 @@ that it'll overflow from your mouth!!"[pcms]
 [fc]
 [vo_ren s="ren1255"]
 [ns]Ren[nse]
-"No wayyyyy!! Stop... I can't take it! It's too muchhh!!! My stomach will[r]
-burstttt!!!"[pcms]
+"No wayyyyy!! Stop... I can't take it! It's too muchhh!!! My[r]
+stomach will burstttt!!!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -2704,17 +2841,18 @@ burstttt!!!"[pcms]
 [fc]
 [vo_ren s="ren1256"]
 [ns]Ren[nse]
-"Ugh!!? Agah, geh! Gehah! Gafuu! Guhih...ugh, kah...hiiiiiiiiii!!"[pcms]
+"Ugh!!? Agah, geh! Gehah! Gafuu! Guhih...ugh,[r]
+kah...hiiiiiiiiii!!"[pcms]
 
 *2880|
 [fc]
-The hot liquid travels back up from my butt to my stomach, coursing through my[r]
-body.[pcms]
+The hot liquid travels back up from my butt to my stomach,[r]
+coursing through my body.[pcms]
 
 *2881|
 [fc]
-The discomfort and disgust make my body and mind reject everything, almost[r]
-tearing my consciousness apart.[pcms]
+The discomfort and disgust make my body and mind reject[r]
+everything, almost tearing my consciousness apart.[pcms]
 
 *2882|
 [fc]
@@ -2722,14 +2860,14 @@ Ah... why... why is this happening...?[pcms]
 
 *2883|
 [fc]
-Why am I... going through this...? Onii-chan... where are you...? Help me... I'm[r]
-going to die...[pcms]
+Why am I... going through this...? Onii-chan... where are[r]
+you...? Help me... I'm going to die...[pcms]
 
 *2884|
 [fc]
 [ns]Shigeyoshi[nse]
-"Fuhah, haaa~... What a nice ass you have, doll. Once is not enough to enjoy[r]
-this. Hey! Someone fill her up front too!"[pcms]
+"Fuhah, haaa~... What a nice ass you have, doll. Once is not[r]
+enough to enjoy this. Hey! Someone fill her up front too!"[pcms]
 
 *2885|
 [fc]
@@ -2754,13 +2892,14 @@ this. Hey! Someone fill her up front too!"[pcms]
 *2888|
 [fc]
 [ns]Thug C[nse]
-"Ahh... Isn't this a bit too much? She's all loose now. Didn't she break?"[pcms]
+"Ahh... Isn't this a bit too much? She's all loose now.[r]
+Didn't she break?"[pcms]
 
 *2889|
 [fc]
 [ns]Shigeyoshi[nse]
-"What? Is it because your little stick is like a toothpick? Come on! Pull[r]
-yourself together, doll!"[pcms]
+"What? Is it because your little stick is like a toothpick?[r]
+Come on! Pull yourself together, doll!"[pcms]
 
 *2890|
 [fc]
@@ -2770,25 +2909,25 @@ yourself together, doll!"[pcms]
 
 *2891|
 [fc]
-A heavy thud hits the bottom of my stomach, and my relaxed body jerks up[r]
-involuntarily.[pcms]
+A heavy thud hits the bottom of my stomach, and my relaxed[r]
+body jerks up involuntarily.[pcms]
 
 *2892|
 [fc]
-The moment that happens, the dick inside me swells-- no, it's my vagina that[r]
-painfully contracts.[pcms]
+The moment that happens, the dick inside me swells-- no,[r]
+it's my vagina that painfully contracts.[pcms]
 
 *2893|
 [fc]
 [ns]Thug C[nse]
-"Ohh! It tightened up all at once! There's something big and bumpy in there...[r]
-what's this?"[pcms]
+"Ohh! It tightened up all at once! There's something big and[r]
+bumpy in there... what's this?"[pcms]
 
 *2894|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gyahahaha!! That's my manhood! It's bumping against your toothpick through the[r]
-wall between her pussy and her ass!"[pcms]
+"Gyahahaha!! That's my manhood! It's bumping against your[r]
+toothpick through the wall between her pussy and her ass!"[pcms]
 
 *2895|
 [fc]
@@ -2803,45 +2942,48 @@ wall between her pussy and her ass!"[pcms]
 
 *2897|
 [fc]
-As they speak carelessly, the two of them begin to ravage my insides. With every[r]
-rub of their dicks inside my vagina and butt, my consciousness gets stirred into[r]
-a muddled mess.[pcms]
+As they speak carelessly, the two of them begin to ravage my[r]
+insides. With every rub of their dicks inside my vagina and[r]
+butt, my consciousness gets stirred into a muddled mess.[pcms]
 
 *2898|
 [fc]
 [vo_ren s="ren1261"]
 [ns]Ren[nse]
-"Gubuh, gih...ah, ubuu! Uboh, ha, hag...uuu! Ugi, hih...hihaa!"[pcms]
+"Gubuh, gih...ah, ubuu! Uboh, ha, hag...uuu! Ugi,[r]
+hih...hihaa!"[pcms]
 
 *2899|
 [fc]
 [ns]Thug C[nse]
-"Kuuu...! It's seriously tight! Despite being all slippery and squishy, it[r]
-clings so much...! This is seriously an erotic pussy!"[pcms]
+"Kuuu...! It's seriously tight! Despite being all slippery[r]
+and squishy, it clings so much...! This is seriously an[r]
+erotic pussy!"[pcms]
 
 *2900|
 [fc]
 [vo_ren s="ren1262"]
 [ns]Ren[nse]
-"Kuh, ah, gafu...! Ih...giii! Agu, fuh, uwa...! Kahah, hah...aaah!"[pcms]
+"Kuh, ah, gafu...! Ih...giii! Agu, fuh, uwa...! Kahah,[r]
+hah...aaah!"[pcms]
 
 *2901|
 [fc]
-Groaning as if being squeezed from the depths of my throat, I'm at the mercy of[r]
-Shige-san and the others. It's no use... no matter what I do... this is[r]
-hopeless...[pcms]
+Groaning as if being squeezed from the depths of my throat,[r]
+I'm at the mercy of Shige-san and the others. It's no use...[r]
+no matter what I do... this is hopeless...[pcms]
 
 *2902|
 [fc]
 [ns]Thug C[nse]
-"Kuuu...! I can't hold it anymore! It's coming out... I'm going to release[r]
-inside... inside your pussy!"[pcms]
+"Kuuu...! I can't hold it anymore! It's coming out... I'm[r]
+going to release inside... inside your pussy!"[pcms]
 
 *2903|
 [fc]
 [ns]Shigeyoshi[nse]
-"Ooh! Give her plenty! Keep pouring it in until she breaks! She's nothing but a[r]
-real fleshlight now!"[pcms]
+"Ooh! Give her plenty! Keep pouring it in until she breaks![r]
+She's nothing but a real fleshlight now!"[pcms]
 
 *2904|
 [fc]
@@ -2864,8 +3006,9 @@ real fleshlight now!"[pcms]
 
 *2906|
 [fc]
-The pulsing semen being poured into my vagina and butt in such force and[r]
-quantity clouds not only my insides but also my consciousness.[pcms]
+The pulsing semen being poured into my vagina and butt in[r]
+such force and quantity clouds not only my insides but also[r]
+my consciousness.[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 ;ÉVÉXÉeÉÄÉ{É^ÉìÅïÉEÉBÉìÉhÉEè¡ãé
@@ -2879,14 +3022,16 @@ quantity clouds not only my insides but also my consciousness.[pcms]
 
 *2907|
 [fc]
-They thrust into me two or three more times as if trying to pour in every last[r]
-drop, stirring the insides of my stomach and butt into a mushy mess.[pcms]
+They thrust into me two or three more times as if trying to[r]
+pour in every last drop, stirring the insides of my stomach[r]
+and butt into a mushy mess.[pcms]
 
 *2908|
 [fc]
 [vo_ren s="ren1265"]
 [ns]Ren[nse]
-"Uguh, gepoh...guhoh, gehoh...kahah, ha... aguuu, hih, noo...fuguuuu..."[pcms]
+"Uguh, gepoh...guhoh, gehoh...kahah, ha... aguuu, hih,[r]
+noo...fuguuuu..."[pcms]
 
 *2909|
 [fc]
@@ -2898,8 +3043,8 @@ drop, stirring the insides of my stomach and butt into a mushy mess.[pcms]
 *2910|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gufuh, gehaha... Her belly's swollen like a pregnant woman. How about we do a[r]
-birth show next?"[pcms]
+"Gufuh, gehaha... Her belly's swollen like a pregnant woman.[r]
+How about we do a birth show next?"[pcms]
 
 *2911|
 [fc]
@@ -2909,13 +3054,14 @@ birth show next?"[pcms]
 
 *2912|
 [fc]
-The sensation of Shige-san's hard and brutal dick being pulled out of my butt[r]
-makes me moan.[pcms]
+The sensation of Shige-san's hard and brutal dick being[r]
+pulled out of my butt makes me moan.[pcms]
 
 *2913|
 [fc]
-The dick scrapes against the intestinal walls as if dragging the organs out with[r]
-it; I can feel my asshole turning inside out and my rectum bulging out.[pcms]
+The dick scrapes against the intestinal walls as if dragging[r]
+the organs out with it; I can feel my asshole turning inside[r]
+out and my rectum bulging out.[pcms]
 
 *2914|
 [fc]
@@ -2930,8 +3076,8 @@ Ah... I'm being destroyed... I am... I..."[pcms]
 
 *2916|
 [fc]
-At the same time as the shout, the moment Shige-san's dick pops out from the[r]
-most swollen part--[pcms]
+At the same time as the shout, the moment Shige-san's dick[r]
+pops out from the most swollen part--[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇPÅiÇkÇRÅj‰SàÏÇÍÅAí∞ì‡àÏÇÍç∑ï™
 [evcg storage="DEV011h"][trans_c cross time=300]
@@ -2942,27 +3088,29 @@ Splash! Whooshhhhh!![pcms]
 
 *2918|
 [fc]
-The semen that had been swelling my stomach bursts out forcefully, along with[r]
-all the filth that was left inside.[pcms]
+The semen that had been swelling my stomach bursts out[r]
+forcefully, along with all the filth that was left inside.[pcms]
 
 *2919|
 [fc]
 [ns]Shigeyoshi[nse]
-"Gyahahahaha!! I've cleaned your insides with my semen!! It's like an intestinal[r]
-cleansing at an esthetic salon!!"[pcms]
+"Gyahahahaha!! I've cleaned your insides with my semen!![r]
+It's like an intestinal cleansing at an esthetic salon!!"[pcms]
 
 *2920|
 [fc]
-Guffawing loudly, Shige-san continues to watch me scatter filth.[pcms]
+Guffawing loudly, Shige-san continues to watch me scatter[r]
+filth.[pcms]
 
 *2921|
 [fc]
-I just stare blankly at it. The scene before me is too surreal to believe it's[r]
-my own doing.[pcms]
+I just stare blankly at it. The scene before me is too[r]
+surreal to believe it's my own doing.[pcms]
 
 *2922|
 [fc]
-This can't be real... I must be broken... this can't be true...[pcms]
+This can't be real... I must be broken... this can't be[r]
+true...[pcms]
 
 *2923|
 [fc]
@@ -2977,8 +3125,8 @@ This can't be real... I must be broken... this can't be true...[pcms]
 *2925|
 [fc]
 [ns]Shigeyoshi[nse]
-"Huh? Oh yeah, do whatever you want. I've had my fill of fresh meat. She's just[r]
-a fleshlight now!"[pcms]
+"Huh? Oh yeah, do whatever you want. I've had my fill of[r]
+fresh meat. She's just a fleshlight now!"[pcms]
 
 *2926|
 [fc]
@@ -3000,13 +3148,14 @@ No way... I'm already...[pcms]
 *2929|
 [fc]
 [ns]Office Worker B[nse]
-"Ah, the inside of her thighs are sticky with semen. It keeps overflowing from[r]
-inside."[pcms]
+"Ah, the inside of her thighs are sticky with semen. It[r]
+keeps overflowing from inside."[pcms]
 
 *2930|
 [fc]
 [ns]Student C[nse]
-"Damn, that's thick... We gotta try her out too and see how good she feels!"[pcms]
+"Damn, that's thick... We gotta try her out too and see how[r]
+good she feels!"[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇQÅiÇkÇSÅj
 [evcg storage="DEV012a"][trans_c cross time=300]
@@ -3025,8 +3174,8 @@ inside."[pcms]
 *2933|
 [fc]
 [ns]Student C[nse]
-"Who cares! Her ass feels great. It's probably loosened up from that thick one[r]
-before, it's the perfect tightness now!"[pcms]
+"Who cares! Her ass feels great. It's probably loosened up[r]
+from that thick one before, it's the perfect tightness now!"[pcms]
 
 *2934|
 [fc]
@@ -3040,34 +3189,36 @@ Her toes dangle helplessly in the air.[pcms]
 
 *2936|
 [fc]
-Standing upright, my body is lifted solely by the dicks thrust into my pussy and[r]
-ass.[pcms]
+Standing upright, my body is lifted solely by the dicks[r]
+thrust into my pussy and ass.[pcms]
 
 *2937|
 [fc]
 [ns]Working Adult B[nse]
-"Ku...the semen-covered folds of flesh are stroking my dick...!"[pcms]
+"Ku...the semen-covered folds of flesh are stroking my[r]
+dick...!"[pcms]
 
 *2938|
 [fc]
-As the men thrust upward, my body momentarily floats in the air, then falls back[r]
-down until it stops at the base of their two shafts.[pcms]
+As the men thrust upward, my body momentarily floats in the[r]
+air, then falls back down until it stops at the base of[r]
+their two shafts.[pcms]
 
 *2939|
 [fc]
-The motion repeats in quick succession, shaking my body violently up and down[r]
-between the men.[pcms]
+The motion repeats in quick succession, shaking my body[r]
+violently up and down between the men.[pcms]
 
 *2940|
 [fc]
-With each movement, drool drips from my agape mouth, and my glasses begin to[r]
-slide off.[pcms]
+With each movement, drool drips from my agape mouth, and my[r]
+glasses begin to slide off.[pcms]
 
 *2941|
 [fc]
 [ns]Office Worker B[nse]
-"Haha! Look at that face she's making! Her tongue's hanging out sloppily, and[r]
-there's even snot coming out!"[pcms]
+"Haha! Look at that face she's making! Her tongue's hanging[r]
+out sloppily, and there's even snot coming out!"[pcms]
 
 *2942|
 [fc]
@@ -3077,13 +3228,15 @@ there's even snot coming out!"[pcms]
 *2943|
 [fc]
 [ns]Office Worker B[nse]
-"Anyway, this is a great face... Such a cute girl being fucked senseless and[r]
-showing such a wrecked expression... It's getting me excited...!"[pcms]
+"Anyway, this is a great face... Such a cute girl being[r]
+fucked senseless and showing such a wrecked expression...[r]
+It's getting me excited...!"[pcms]
 
 *2944|
 [fc]
 [ns]Student C[nse]
-"You were worried just a moment ago. Is this what they call an awakening?"[pcms]
+"You were worried just a moment ago. Is this what they call[r]
+an awakening?"[pcms]
 
 *2945|
 [fc]
@@ -3097,18 +3250,19 @@ The man fucking me from the front peers into my face.[pcms]
 *2947|
 [fc]
 [ns]Office Worker B[nse]
-"It's your fault, you know? Making such a lewd face and having such a[r]
-pleasurable body!"[pcms]
+"It's your fault, you know? Making such a lewd face and[r]
+having such a pleasurable body!"[pcms]
 
 *2948|
 [fc]
-The guy behind me touches my hair while sweetly nibbling on my ear.[pcms]
+The guy behind me touches my hair while sweetly nibbling on[r]
+my ear.[pcms]
 
 *2949|
 [fc]
 [ns]Student C[nse]
-"That's right. It's not our fault. It's because you have such a beautiful and[r]
-erotic body!"[pcms]
+"That's right. It's not our fault. It's because you have[r]
+such a beautiful and erotic body!"[pcms]
 
 *2950|
 [fc]
@@ -3116,20 +3270,20 @@ The men's hip movements speed up.[pcms]
 
 *2951|
 [fc]
-I immediately understand what the change means. But I no longer have the energy[r]
-to resist.[pcms]
+I immediately understand what the change means. But I no[r]
+longer have the energy to resist.[pcms]
 
 *2952|
 [fc]
-My toes, weakly suspended in the air, just wait for the moment to come as they[r]
-flail about...[pcms]
+My toes, weakly suspended in the air, just wait for the[r]
+moment to come as they flail about...[pcms]
 
 *2953|
 [fc]
 [ns]Office Worker B[nse]
-"Well, every time I see a girl like you on a crowded train, I wanted to do[r]
-thisfuck her while standing. In the midst of people, silently cumming inside her[r]
-vagina!"[pcms]
+"Well, every time I see a girl like you on a crowded train,[r]
+I wanted to do thisfuck her while standing. In the midst of[r]
+people, silently cumming inside her vagina!"[pcms]
 
 *2954|
 [fc]
@@ -3138,13 +3292,14 @@ Indeed, it's no use... I'm done for...[pcms]
 *2955|
 [fc]
 [ns]Student C[nse]
-"Oh, I also wanted to silently thrust into a cute, delicate girl like this from[r]
-behind on a crowded bus...! With my bare dick, thrusting over and over...!"[pcms]
+"Oh, I also wanted to silently thrust into a cute, delicate[r]
+girl like this from behind on a crowded bus...! With my bare[r]
+dick, thrusting over and over...!"[pcms]
 
 *2956|
 [fc]
-The men's breathing quickens, and they let out pained voices. The two dicks[r]
-inside me begin to swell harder.[pcms]
+The men's breathing quickens, and they let out pained[r]
+voices. The two dicks inside me begin to swell harder.[pcms]
 
 *2957|
 [fc]
@@ -3157,19 +3312,21 @@ I'm done for... Help me... Onii-chan...[pcms]
 *2959|
 [fc]
 [ns]Office Worker B[nse]
-"Ku... I'm cumming! I'm gonna cum!! Inside a girl! Bareback in her vagina![r]
-...Right into her womb!"[pcms]
+"Ku... I'm cumming! I'm gonna cum!! Inside a girl! Bareback[r]
+in her vagina! ...Right into her womb!"[pcms]
 
 *2960|
 [fc]
 [ns]Student C[nse]
-"Quaah! I'm gonna cum inside this girl's ass...! Into this broken doll!"[pcms]
+"Quaah! I'm gonna cum inside this girl's ass...! Into this[r]
+broken doll!"[pcms]
 
 *2961|
 [fc]
 [vo_ren s="ren1270"]
 [ns]Ren[nse]
-"Ha, hauu...kuh, hiha...haa, haa... Nuu, hi...hifuu, qua...onii-chan..."[pcms]
+"Ha, hauu...kuh, hiha...haa, haa... Nuu, hi...hifuu,[r]
+qua...onii-chan..."[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇQÅiÇkÇSÅj
@@ -3190,24 +3347,26 @@ I'm done for... Help me... Onii-chan...[pcms]
 [fc]
 [vo_ren s="ren1271"]
 [ns]Ren[nse]
-"Uu, aah...hih, kufu, uhh...nnn...hia... Open up, fihu...hi, ii..."[pcms]
+"Uu, aah...hih, kufu, uhh...nnn...hia... Open up, fihu...hi,[r]
+ii..."[pcms]
 
 *2963|
 [fc]
 [ns]Thug D[nse]
-"What's this? She's not reacting much anymore. Hey, make sure you hold her up[r]
-properly!"[pcms]
+"What's this? She's not reacting much anymore. Hey, make[r]
+sure you hold her up properly!"[pcms]
 
 *2964|
 [fc]
 [ns]Working Adult C[nse]
-"Ah, yeah, uh... But she's gone so limp, she really does feel like a doll."[pcms]
+"Ah, yeah, uh... But she's gone so limp, she really does[r]
+feel like a doll."[pcms]
 
 *2965|
 [fc]
 [ns]Thug D[nse]
-"Yeah, like those real dolls, right? There are those high-end Dutch wives. She's[r]
-just like one of those now."[pcms]
+"Yeah, like those real dolls, right? There are those high-[r]
+end Dutch wives. She's just like one of those now."[pcms]
 
 *2966|
 [fc]
@@ -3218,14 +3377,14 @@ just like one of those now."[pcms]
 *2967|
 [fc]
 [ns]Working Adult C[nse]
-"She's so slender and pale, almost translucent white skin... If there was a doll[r]
-this cute, I might have wanted one."[pcms]
+"She's so slender and pale, almost translucent white skin...[r]
+If there was a doll this cute, I might have wanted one."[pcms]
 
 *2968|
 [fc]
 [ns]Thug D[nse]
-"Then fuck her with more spirit! Come on, you tooshoot your semen into her[r]
-asshole... Go!"[pcms]
+"Then fuck her with more spirit! Come on, you tooshoot your[r]
+semen into her asshole... Go!"[pcms]
 
 ;//ÅÚ_ÉzÉèÉCÉgÉtÉâÉbÉVÉÖ
 [îíÉtÉâ]
@@ -3273,13 +3432,14 @@ asshole... Go!"[pcms]
 [fc]
 [vo_ren s="ren1275"]
 [ns]Ren[nse]
-"Npuh...pufu, fu, ah...hafu, ku...ua... Ha, aah...nnnn, kuu..."[pcms]
+"Npuh...pufu, fu, ah...hafu, ku...ua... Ha, aah...nnnn,[r]
+kuu..."[pcms]
 
 *2974|
 [fc]
 [ns]Student D[nse]
-"Haha... Even her glasses are covered in semen milk from my dicka perfect cum-[r]
-covered doll!"[pcms]
+"Haha... Even her glasses are covered in semen milk from my[r]
+dicka perfect cum- covered doll!"[pcms]
 
 *2975|
 [fc]
@@ -3290,7 +3450,8 @@ covered doll!"[pcms]
 [fc]
 [vo_ren s="ren1276"]
 [ns]Ren[nse]
-"Kufu...fuu, fuu...hiha...ah, uu... Ahi...gupu...kahaa, ha...aah..."[pcms]
+"Kufu...fuu, fuu...hiha...ah, uu... Ahi...gupu...kahaa,[r]
+ha...aah..."[pcms]
 
 ;ÉVÉXÉeÉÄÉ{É^ÉìÅïÉEÉBÉìÉhÉEè¡ãé
 [sysbt_meswin clear]
@@ -3316,8 +3477,8 @@ covered doll!"[pcms]
 
 *2979|
 [fc]
-My body sprawled on the floor... I'm so powerless, just like a doll, unable to[r]
-move or do anything...[pcms]
+My body sprawled on the floor... I'm so powerless, just like[r]
+a doll, unable to move or do anything...[pcms]
 
 *2980|
 [fc]
@@ -3325,29 +3486,31 @@ Am I... broken? Onii-chan...[pcms]
 
 *2981|
 [fc]
-From all over my body--from my pussy, from my intestines, from my mouth... semen[r]
-is dripping, and I'm sinking into a puddle of semen...[pcms]
+From all over my body--from my pussy, from my intestines,[r]
+from my mouth... semen is dripping, and I'm sinking into a[r]
+puddle of semen...[pcms]
 
 *2982|
 [fc]
-Continuing to be ravaged like this... am I going to die? By people who aren't[r]
-infected, as if they were infected...[pcms]
+Continuing to be ravaged like this... am I going to die? By[r]
+people who aren't infected, as if they were infected...[pcms]
 
 *2983|
 [fc]
-Why...? Why are they doing such things...? People who are supposed to still have[r]
-hearts...[pcms]
+Why...? Why are they doing such things...? People who are[r]
+supposed to still have hearts...[pcms]
 
 *2984|
 [fc]
 [ns]Student A[nse]
-"Hey! How long are you going to sleep?! We're just getting started!!"[pcms]
+"Hey! How long are you going to sleep?! We're just getting[r]
+started!!"[pcms]
 
 *2985|
 [fc]
-The school uniforms... Until just recently, we were at the same school...[r]
-Attending the same classes, laughing together... Why did it turn out like[r]
-this...[pcms]
+The school uniforms... Until just recently, we were at the[r]
+same school... Attending the same classes, laughing[r]
+together... Why did it turn out like this...[pcms]
 
 ;//ÅYÇcÇdÇuÅ[ÇOÇPÇSÅiÇkÇUÅj
 [evcg storage="DEV014c"][trans_c cross time=300]

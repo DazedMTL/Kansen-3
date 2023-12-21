@@ -38,8 +38,8 @@
 *7219|
 [fc]
 [ns]Father[nse]
-"You've always been all about Ren~ But I too want to take Ren's purity~ That's a[r]
-good idea~."[pcms]
+"You've always been all about Ren~ But I too want to take[r]
+Ren's purity~ That's a good idea~."[pcms]
 
 ;//äGÇ™Ç»Ç¢ÇΩÇﬂÇ…çÌèúÇ≥ÇÍÇΩçÄñ⁄ÅóashÅiÇ±Ç±Ç©ÇÁÅj--------------
 
@@ -181,7 +181,8 @@ good idea~."[pcms]
 [fc]
 [vo_ren s="ren_Z0125"]
 [ns]Ren[nse]
-"No... I don't want that... That's not right... It's strange~!!"[pcms]
+"No... I don't want that... That's not right... It's[r]
+strange~!!"[pcms]
 
 *7223|
 [fc]
@@ -214,8 +215,8 @@ good idea~."[pcms]
 
 *7227|
 [fc]
-When Dad and I thrust into Ren's pussy at once, it's so tight it hurts... no,[r]
-it's painfully pleasurable~!![pcms]
+When Dad and I thrust into Ren's pussy at once, it's so[r]
+tight it hurts... no, it's painfully pleasurable~!![pcms]
 
 *7228|
 [fc]
@@ -230,13 +231,14 @@ This is inside Ren...[pcms]
 *7230|
 [fc]
 [ns]Father[nse]
-"Ahh! What tightness, Ren~. I've never felt such a tight pussy before~!!"[pcms]
+"Ahh! What tightness, Ren~. I've never felt such a tight[r]
+pussy before~!!"[pcms]
 
 *7231|
 [fc]
 [ns]Wataru[nse]
-"Ahh... Ren~! It feels like it's going to tear~. It's so tight it feels like it[r]
-could tear~!!"[pcms]
+"Ahh... Ren~! It feels like it's going to tear~. It's so[r]
+tight it feels like it could tear~!!"[pcms]
 
 *7232|
 [fc]
@@ -253,29 +255,32 @@ could tear~!!"[pcms]
 
 *7234|
 [fc]
-Ren is making such loud noises. Was it that pleasurable? Or was she happy?[pcms]
+Ren is making such loud noises. Was it that pleasurable? Or[r]
+was she happy?[pcms]
 
 *7235|
 [fc]
-The pussy of Ren, filled by Dad and me, seems to be making tearing sounds... And[r]
-red blood is dripping down.[pcms]
+The pussy of Ren, filled by Dad and me, seems to be making[r]
+tearing sounds... And red blood is dripping down.[pcms]
 
 *7236|
 [fc]
 [ns]Father[nse]
-"Ahh, as expected, Ren was a virgin~. I was a bit worried, you know~"[pcms]
+"Ahh, as expected, Ren was a virgin~. I was a bit worried,[r]
+you know~"[pcms]
 
 *7237|
 [fc]
 [ns]Wataru[nse]
-"I thought it was a joke but~ you really meant it when you said you wanted to be[r]
-my bride~"[pcms]
+"I thought it was a joke but~ you really meant it when you[r]
+said you wanted to be my bride~"[pcms]
 
 *7238|
 [fc]
 [ns]Wataru[nse]
-"Ren has properly become my bride now~ She saved her virginity just for me~. Ren[r]
-really is a cute little sister!!"[pcms]
+"Ren has properly become my bride now~ She saved her[r]
+virginity just for me~. Ren really is a cute little[r]
+sister!!"[pcms]
 
 *7239|
 [fc]
@@ -328,7 +333,8 @@ really is a cute little sister!!"[pcms]
 
 *7248|
 [fc]
-Dad must be right. That shyness is also what makes her cute as a sister...[pcms]
+Dad must be right. That shyness is also what makes her cute[r]
+as a sister...[pcms]
 
 *7249|
 [fc]
@@ -340,8 +346,8 @@ Dad must be right. That shyness is also what makes her cute as a sister...[pcms]
 *7250|
 [fc]
 [ns]Father[nse]
-"Ahh, but still, I didn't expect it to be this tight. Ren's pussy is very[r]
-tight~. ...Even tighter than Mom's~"[pcms]
+"Ahh, but still, I didn't expect it to be this tight. Ren's[r]
+pussy is very tight~. ...Even tighter than Mom's~"[pcms]
 
 *7251|
 [fc]
@@ -351,8 +357,8 @@ tight~. ...Even tighter than Mom's~"[pcms]
 *7252|
 [fc]
 [ns]Father[nse]
-"No no~, that might be so, but Ren is small after all~. ...Uaahh... Surely, even[r]
-tighter than Mom's~!!"[pcms]
+"No no~, that might be so, but Ren is small after all~.[r]
+...Uaahh... Surely, even tighter than Mom's~!!"[pcms]
 
 *7253|
 [fc]
@@ -364,25 +370,27 @@ tighter than Mom's~!!"[pcms]
 *7254|
 [fc]
 [ns]Wataru[nse]
-"Is that so~, I see~. Come to think of it, I wanted to do it with Ren's mother[r]
-too~"[pcms]
+"Is that so~, I see~. Come to think of it, I wanted to do it[r]
+with Ren's mother too~"[pcms]
 
 *7255|
 [fc]
 [ns]Father[nse]
-"That's right~, if she were alive~. She was a beauty just like Ren~. I wanted to[r]
-include Wataru's mother and do it with five of us~"[pcms]
+"That's right~, if she were alive~. She was a beauty just[r]
+like Ren~. I wanted to include Wataru's mother and do it[r]
+with five of us~"[pcms]
 
 *7256|
 [fc]
 [ns]Wataru[nse]
-"Dad~, because Ren's mother died~, you remarried Mom, right?"[pcms]
+"Dad~, because Ren's mother died~, you remarried Mom,[r]
+right?"[pcms]
 
 *7257|
 [fc]
 [ns]Father[nse]
-"Ahh~, that's right~. But that's okay too, isn't it? Wataru also wants to do it[r]
-with his mother, right?"[pcms]
+"Ahh~, that's right~. But that's okay too, isn't it? Wataru[r]
+also wants to do it with his mother, right?"[pcms]
 
 *7258|
 [fc]
@@ -392,8 +400,9 @@ with his mother, right?"[pcms]
 *7259|
 [fc]
 [ns]Father[nse]
-"Right? But thank goodness for you, Ren~. To have your virginity taken by your[r]
-loving family members, Dad and Wataru, both at once~"[pcms]
+"Right? But thank goodness for you, Ren~. To have your[r]
+virginity taken by your loving family members, Dad and[r]
+Wataru, both at once~"[pcms]
 
 *7260|
 [fc]
@@ -404,16 +413,18 @@ loving family members, Dad and Wataru, both at once~"[pcms]
 *7261|
 [fc]
 [ns]Wataru[nse]
-"What's wrong, Ren? Rolling your eyes back? Don't pretend to be dead now~"[pcms]
+"What's wrong, Ren? Rolling your eyes back? Don't pretend to[r]
+be dead now~"[pcms]
 
 *7262|
 [fc]
-Ren is rolling her eyes back and twitching. Why would Ren do something like[r]
-that?[pcms]
+Ren is rolling her eyes back and twitching. Why would Ren do[r]
+something like that?[pcms]
 
 *7263|
 [fc]
-...Especially when Dad and I are doing such a nice thing together...[pcms]
+...Especially when Dad and I are doing such a nice thing[r]
+together...[pcms]
 
 *7264|
 [fc]
@@ -428,13 +439,14 @@ that?[pcms]
 *7266|
 [fc]
 [ns]Father[nse]
-"Ahh, that's right~. It's such a waste not to move when it's so nicely tight~"[pcms]
+"Ahh, that's right~. It's such a waste not to move when it's[r]
+so nicely tight~"[pcms]
 
 *7267|
 [fc]
 [ns]Wataru[nse]
-"Exactly~. It feels good when she twitches, but we've got to move~! Let's make[r]
-sure Ren can't pretend to be dead~"[pcms]
+"Exactly~. It feels good when she twitches, but we've got to[r]
+move~! Let's make sure Ren can't pretend to be dead~"[pcms]
 
 *7268|
 [fc]
@@ -461,7 +473,8 @@ Ren let out a scream-like voice and jerked.[pcms]
 *7272|
 [fc]
 [ns]Wataru[nse]
-"Look, she made a sound~! Ren~. You can't pretend to be dead, you know~!"[pcms]
+"Look, she made a sound~! Ren~. You can't pretend to be[r]
+dead, you know~!"[pcms]
 
 *7273|
 [fc]
@@ -472,8 +485,8 @@ Ren let out a scream-like voice and jerked.[pcms]
 *7274|
 [fc]
 [ns]Father[nse]
-"That's right~. You should be more pleased, Ren~! Ah, Ren's pussy is so much[r]
-tighter than your mother's first time~!"[pcms]
+"That's right~. You should be more pleased, Ren~! Ah, Ren's[r]
+pussy is so much tighter than your mother's first time~!"[pcms]
 
 *7275|
 [fc]
@@ -507,8 +520,8 @@ tighter than your mother's first time~!"[pcms]
 
 *7280|
 [fc]
-Ren is still letting out scream-like voices. So... this is what they call[r]
-screams of pleasure~.[pcms]
+Ren is still letting out scream-like voices. So... this is[r]
+what they call screams of pleasure~.[pcms]
 
 *7281|
 [fc]
@@ -519,19 +532,20 @@ screams of pleasure~.[pcms]
 *7282|
 [fc]
 [ns]Wataru[nse]
-"Nnn~. What's the matter, Ren~? You're making such strange noises~! Let's hear[r]
-some nicer sounds~"[pcms]
+"Nnn~. What's the matter, Ren~? You're making such strange[r]
+noises~! Let's hear some nicer sounds~"[pcms]
 
 *7283|
 [fc]
 [ns]Father[nse]
-"That's right~. Ahh... let us hear a better voice like your mother's~"[pcms]
+"That's right~. Ahh... let us hear a better voice like your[r]
+mother's~"[pcms]
 
 *7284|
 [fc]
 [ns]Wataru[nse]
-"Uuh...! That's right, Ren~! Say something like 'I'm so happy with my pussy full[r]
-of Dad and big brother's cum!!'~"[pcms]
+"Uuh...! That's right, Ren~! Say something like 'I'm so[r]
+happy with my pussy full of Dad and big brother's cum!!'~"[pcms]
 
 *7285|
 [fc]
@@ -542,16 +556,19 @@ of Dad and big brother's cum!!'~"[pcms]
 *7286|
 [fc]
 [ns]Wataru[nse]
-"Ahh! But it feels so good I can't stand it~! Ahh, it's twitching inside~!!"[pcms]
+"Ahh! But it feels so good I can't stand it~! Ahh, it's[r]
+twitching inside~!!"[pcms]
 
 *7287|
 [fc]
-Ren is so cute~. Even with Dad inside her, her pussy is painfully tight~.[pcms]
+Ren is so cute~. Even with Dad inside her, her pussy is[r]
+painfully tight~.[pcms]
 
 *7288|
 [fc]
-It's tight, painful, and feels good! And it twitches too! Yuuho's was good too,[r]
-but this is a completely different kind of pleasure.[pcms]
+It's tight, painful, and feels good! And it twitches too![r]
+Yuuho's was good too, but this is a completely different[r]
+kind of pleasure.[pcms]
 
 ;//SEÅEë}ì¸Å@åÉÇµÇ≠
 
@@ -569,8 +586,9 @@ but this is a completely different kind of pleasure.[pcms]
 *7291|
 [fc]
 [ns]Father[nse]
-"Wataru is amazing to fit in such a tight one~. Back in my younger days, I[r]
-worked hard like this with Ren's mother too~"[pcms]
+"Wataru is amazing to fit in such a tight one~. Back in my[r]
+younger days, I worked hard like this with Ren's mother[r]
+too~"[pcms]
 
 *7292|
 [fc]
@@ -581,8 +599,8 @@ worked hard like this with Ren's mother too~"[pcms]
 *7293|
 [fc]
 [ns]Wataru[nse]
-"Uuh... It's because I'm young~. Grandpa~! How about it, Ren? Shall we try[r]
-moving more vigorously?"[pcms]
+"Uuh... It's because I'm young~. Grandpa~! How about it,[r]
+Ren? Shall we try moving more vigorously?"[pcms]
 
 *7294|
 [fc]
@@ -593,7 +611,8 @@ moving more vigorously?"[pcms]
 *7295|
 [fc]
 [ns]Father[nse]
-"Ahh! Wataru... if you move like that~, oh, I can't take it anymore... Uuh...!"[pcms]
+"Ahh! Wataru... if you move like that~, oh, I can't take it[r]
+anymore... Uuh...!"[pcms]
 
 *7296|
 [fc]
@@ -602,7 +621,8 @@ moving more vigorously?"[pcms]
 
 *7297|
 [fc]
-I can't hold back anymore. Huh? ...Is there even a need to hold back?[pcms]
+I can't hold back anymore. Huh? ...Is there even a need to[r]
+hold back?[pcms]
 
 *7298|
 [fc]
@@ -610,20 +630,20 @@ I can't hold back anymore. Huh? ...Is there even a need to hold back?[pcms]
 
 *7299|
 [fc]
-Huh? Isn't Ren enjoying being done by me and Dad like this? Huh? What is this[r]
-feeling?[pcms]
+Huh? Isn't Ren enjoying being done by me and Dad like this?[r]
+Huh? What is this feeling?[pcms]
 
 *7300|
 [fc]
 [ns]Father[nse]
-"Auuu!! Ren is too delicate~. Now~! Drink up the nutrient-rich semen just like[r]
-your mother did, Ren!!"[pcms]
+"Auuu!! Ren is too delicate~. Now~! Drink up the nutrient-[r]
+rich semen just like your mother did, Ren!!"[pcms]
 
 *7301|
 [fc]
 [ns]Wataru[nse]
-"Uuh! Now, Ren~! Drink up plenty with your pussy~! You're undernourished after[r]
-all~"[pcms]
+"Uuh! Now, Ren~! Drink up plenty with your pussy~! You're[r]
+undernourished after all~"[pcms]
 
 *7302|
 [fc]
@@ -634,8 +654,9 @@ all~"[pcms]
 *7303|
 [fc]
 [ns]Wataru[nse]
-"Auuuh... Girls need to grow bigger breasts and butts too~ Drink up properly~,[r]
-and get a nice butt like Yuuho's, Ren~!!"[pcms]
+"Auuuh... Girls need to grow bigger breasts and butts too~[r]
+Drink up properly~, and get a nice butt like Yuuho's,[r]
+Ren~!!"[pcms]
 
 *7304|
 [fc]
@@ -643,12 +664,13 @@ Yuuho?[pcms]
 
 *7305|
 [fc]
-Huh...? Yuuho has been gone for a while now, hasn't she? ...Where did she go?[pcms]
+Huh...? Yuuho has been gone for a while now, hasn't she?[r]
+...Where did she go?[pcms]
 
 *7306|
 [fc]
-I felt like she was here until just now? ...Ah, must be my imagination.[r]
-Anyway...[pcms]
+I felt like she was here until just now? ...Ah, must be my[r]
+imagination. Anyway...[pcms]
 
 *7307|
 [fc]
@@ -678,7 +700,8 @@ Inside my cute little sister! Ahh!! How pleasurable it is.[pcms]
 [fc]
 [vo_ren s="ren_Z0146"]
 [ns]Ren[nse]
-"Uuuuh...uuuuuh...that's mean... ...that's so mean... Big brother...Dad..."[pcms]
+"Uuuuh...uuuuuh...that's mean... ...that's so mean... Big[r]
+brother...Dad..."[pcms]
 ;//ÅóÅ@à´ñ≤ÇÃÇÊÇ§Ç»Å@ñ≤Ç§Ç¬Ç¬
 
 ;//à√ì]
@@ -699,13 +722,13 @@ Inside my cute little sister! Ahh!! How pleasurable it is.[pcms]
 *7313|
 [fc]
 [ns]Wataru[nse]
-"Dad too~. Looks like you came a lot inside her too. Next time, I want to be the[r]
-only one inside Ren's pussy."[pcms]
+"Dad too~. Looks like you came a lot inside her too. Next[r]
+time, I want to be the only one inside Ren's pussy."[pcms]
 
 *7314|
 [fc]
-It hurts but feels good to be with Dad, but still, I want to monopolize Ren's[r]
-pussy all to myself.[pcms]
+It hurts but feels good to be with Dad, but still, I want to[r]
+monopolize Ren's pussy all to myself.[pcms]
 
 *7315|
 [fc]

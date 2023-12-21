@@ -20,11 +20,13 @@ What should I do?[pcms]
 
 *575|
 [fc]
-I really can't imagine making it to the music room without any trouble.[pcms]
+I really can't imagine making it to the music room without[r]
+any trouble.[pcms]
 
 *576|
 [fc]
-But then again, even though the music room is right there, should we turn back?[pcms]
+But then again, even though the music room is right there,[r]
+should we turn back?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -39,8 +41,9 @@ But then again, even though the music room is right there, should we turn back?[
 
 *578|
 [fc]
-When I snapped back to reality at the sound of my senior's voice, we were[r]
-already surrounded by a horde of infected, both in front and behind.[pcms]
+When I snapped back to reality at the sound of my senior's[r]
+voice, we were already surrounded by a horde of infected,[r]
+both in front and behind.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -73,7 +76,8 @@ While shouting in frustration, I gripped the mop tighter.[pcms]
 
 *585|
 [fc]
-It's do or die now. I can't afford to care whether they're male or female.[pcms]
+It's do or die now. I can't afford to care whether they're[r]
+male or female.[pcms]
 
 *586|
 [fc]
@@ -83,7 +87,8 @@ It's do or die now. I can't afford to care whether they're male or female.[pcms]
 
 *587|
 [fc]
-Just as I made up my mind, Ren's voice reached my ears from somewhere.[pcms]
+Just as I made up my mind, Ren's voice reached my ears from[r]
+somewhere.[pcms]
 
 *588|
 [fc]
@@ -110,8 +115,8 @@ I could clearly hear Ren's voice.[pcms]
 
 *593|
 [fc]
-And it wasn't the voice of someone infected with the virus; it was Ren's usual[r]
-voice.[pcms]
+And it wasn't the voice of someone infected with the virus;[r]
+it was Ren's usual voice.[pcms]
 
 ;//Å®block30080Ç÷
 [jump storage="30080.ks" target=*30080_TOP]

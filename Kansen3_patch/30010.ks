@@ -18,15 +18,16 @@
 
 *30|
 [fc]
-Thinking about it is useless. Luckily, those guys are slow. I'll manage somehow.[r]
-But first, I need to get to Ren.[pcms]
+Thinking about it is useless. Luckily, those guys are slow.[r]
+I'll manage somehow. But first, I need to get to Ren.[pcms]
 
 ;//〆BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *31|
 [fc]
-Without a moment's hesitation, I dashed straight up to the second floor.[pcms]
+Without a moment's hesitation, I dashed straight up to the[r]
+second floor.[pcms]
 
 ;//〆BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -51,7 +52,8 @@ Without a moment's hesitation, I dashed straight up to the second floor.[pcms]
 
 *35|
 [fc]
-The voices of a girl being toyed with downstairs sounded unusually loud.[pcms]
+The voices of a girl being toyed with downstairs sounded[r]
+unusually loud.[pcms]
 
 *36|
 [fc]
@@ -63,12 +65,13 @@ No, is that voice coming from the third floor?[pcms]
 
 *38|
 [fc]
-Could it be the music room? But that's not Ren's voice...right?[pcms]
+Could it be the music room? But that's not Ren's[r]
+voice...right?[pcms]
 
 *39|
 [fc]
-I cautiously searched the situation upstairs while desperately straining my[r]
-ears.[pcms]
+I cautiously searched the situation upstairs while[r]
+desperately straining my ears.[pcms]
 
 *40|
 [fc]
@@ -89,7 +92,8 @@ What should I do?[pcms]
 ;	[link storage="30040.ks" target=*30040_TOP]このままさらに上に！[endlink]
 ;	[link storage="B_B2.ks" target=*B_B2_TOP]まずい！　奥の方の階段へ！[endlink]
 ;	;[link storage="B_D5.ks" target=*B_D5_TOP]時間切れ[endlink]
-; (link storage="B_D5.ks" target=*B_D5_TOP)I can't choose carelessly...(endlink)[pcms]
+; (link storage="B_D5.ks" target=*B_D5_TOP)I can't choose[r]
+carelessly...(endlink)[pcms]
 
 *SEL18|このままさらに上に！／まずい！　奥の方の階段へ！／うかつに選べない……
 [fc]

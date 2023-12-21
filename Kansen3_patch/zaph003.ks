@@ -26,16 +26,18 @@
 *4090|
 [fc]
 [ns]Shigeyoshi[nse]
-"Ugyaaaahhhhhhhhh!?! It hurts so muchhhhh!!!! Guahhhhhhhhhhhh!!!"[pcms]
+"Ugyaaaahhhhhhhhh!?! It hurts so muchhhhh!!!![r]
+Guahhhhhhhhhhhh!!!"[pcms]
 
 *4091|
 [fc]
-Blood spurts from where Shigeyoshi's right hand fingers used to be, as he lets[r]
-out a beast-like roar.[pcms]
+Blood spurts from where Shigeyoshi's right hand fingers used[r]
+to be, as he lets out a beast-like roar.[pcms]
 
 *4092|
 [fc]
-Writhing in agony, Shigeyoshi rolls on the floor, splattering blood everywhere.[pcms]
+Writhing in agony, Shigeyoshi rolls on the floor,[r]
+splattering blood everywhere.[pcms]
 
 *4093|
 [fc]
@@ -46,25 +48,27 @@ Writhing in agony, Shigeyoshi rolls on the floor, splattering blood everywhere.[
 
 *4094|
 [fc]
-I was captured by Shigeyoshi and brought to this place... a luxury hotel room[r]
-near the top floor of the Celesta Tower.[pcms]
+I was captured by Shigeyoshi and brought to this place... a[r]
+luxury hotel room near the top floor of the Celesta Tower.[pcms]
 
 *4095|
 [fc]
-Shigeyoshi's hand had suddenly burst while he was fighting with Wataru and his[r]
-men, so they returned to this place for treatment.[pcms]
+Shigeyoshi's hand had suddenly burst while he was fighting[r]
+with Wataru and his men, so they returned to this place for[r]
+treatment.[pcms]
 
 *4096|
 [fc]
-Shigeyoshi screams, surrounded by his henchmen. I was sitting a little distance[r]
-away, slumped over.[pcms]
+Shigeyoshi screams, surrounded by his henchmen. I was[r]
+sitting a little distance away, slumped over.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4097|
 [fc]
 [ns]Shigeyoshi[nse]
-"Drugs... Drugs and alcohol! Bring them quickly! Ughhhhhhhhhh!!!"[pcms]
+"Drugs... Drugs and alcohol! Bring them quickly![r]
+Ughhhhhhhhhh!!!"[pcms]
 
 *4098|
 [fc]
@@ -75,15 +79,16 @@ away, slumped over.[pcms]
 [fc]
 [vo_mob s="mini0001"]
 [ns]Woman A[nse]
-"Please bear with it, Shigeyoshi-san... I'm going to insert the needle..."[pcms]
+"Please bear with it, Shigeyoshi-san... I'm going to insert[r]
+the needle..."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4100|
 [fc]
 [ns]Shigeyoshi[nse]
-"Guahhhhhh! You! Who do you think I am! Be more gentle, you damn bitchhh!!![r]
-Gyiiiiii!!! Cut the crap, damn it!"[pcms]
+"Guahhhhhh! You! Who do you think I am! Be more gentle, you[r]
+damn bitchhh!!! Gyiiiiii!!! Cut the crap, damn it!"[pcms]
 
 ;//se026ÅEèeê∫
 [se buf=0 storage="se026"]
@@ -99,9 +104,9 @@ Gyiiiiii!!! Cut the crap, damn it!"[pcms]
 
 *4102|
 [fc]
-The gun Shigeyoshi was holding spews flames of irrational anger at the girl[r]
-treating him. The flames that pierced through the girl's chest easily snatched[r]
-away her life.[pcms]
+The gun Shigeyoshi was holding spews flames of irrational[r]
+anger at the girl treating him. The flames that pierced[r]
+through the girl's chest easily snatched away her life.[pcms]
 
 *4103|
 [fc]
@@ -121,26 +126,28 @@ away her life.[pcms]
 *4105|
 [fc]
 [ns]Shigeyoshi[nse]
-"Don't scream!! It echoes, damn it!! Hurry up and do something about this[r]
-blood!! Ugh..."[pcms]
+"Don't scream!! It echoes, damn it!! Hurry up and do[r]
+something about this blood!! Ugh..."[pcms]
 
 *4106|
 [fc]
 [vo_mob s="pank0002"]
 [ns]Woman B[nse]
-"Please stay still, Shigeyoshi-san! If you thrash too much... the blood..."[pcms]
+"Please stay still, Shigeyoshi-san! If you thrash too[r]
+much... the blood..."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4107|
 [fc]
 [ns]Shigeyoshi[nse]
-"Ah, ahh... guh... kuhahh... It seems to be taking effect at last... aguh..."[pcms]
+"Ah, ahh... guh... kuhahh... It seems to be taking effect at[r]
+last... aguh..."[pcms]
 
 *4108|
 [fc]
-Shigeyoshi, who had been rampaging until now, suddenly calmed down like an[r]
-animal hit by a tranquilizer dart on TV.[pcms]
+Shigeyoshi, who had been rampaging until now, suddenly[r]
+calmed down like an animal hit by a tranquilizer dart on TV.[pcms]
 
 ;//ÉLÉÉÉâè¡Çµ
 [chara_int][trans_c cross time=150]
@@ -153,13 +160,14 @@ animal hit by a tranquilizer dart on TV.[pcms]
 *4110|
 [fc]
 [ns]Henchman B[nse]
-"Ah, ahh... for now, we've got no choice but to let him lie down..."[pcms]
+"Ah, ahh... for now, we've got no choice but to let him lie[r]
+down..."[pcms]
 
 *4111|
 [fc]
 [ns]Henchman A[nse]
-"Right... You, keep an eye on Shigeyoshi-san! If anything happens, call us...[r]
-Got it?"[pcms]
+"Right... You, keep an eye on Shigeyoshi-san! If anything[r]
+happens, call us... Got it?"[pcms]
 
 *4112|
 [fc]
@@ -170,8 +178,8 @@ Got it?"[pcms]
 
 *4113|
 [fc]
-Finally falling asleep after continuous groaning, Shigeyoshi and I, who was[r]
-ordered to watch over him.[pcms]
+Finally falling asleep after continuous groaning, Shigeyoshi[r]
+and I, who was ordered to watch over him.[pcms]
 
 *4114|
 [fc]
@@ -179,9 +187,10 @@ At least I can feel a bit relieved...[pcms]
 
 *4115|
 [fc]
-I'm not tied up or anything, so I can move freely. But still, alone with the[r]
-ferocious Shigeyoshi who is just sleeping. It's unpredictable when he might[r]
-start rampaging again.[pcms]
+I'm not tied up or anything, so I can move freely. But[r]
+still, alone with the ferocious Shigeyoshi who is just[r]
+sleeping. It's unpredictable when he might start rampaging[r]
+again.[pcms]
 
 *4116|
 [fc]
@@ -189,8 +198,8 @@ I'm scared... Wataru... help me...[pcms]
 
 *4117|
 [fc]
-Even if I wanted to contact Wataru, I didn't bring my cell phone. Is there any[r]
-way to communicate...[pcms]
+Even if I wanted to contact Wataru, I didn't bring my cell[r]
+phone. Is there any way to communicate...[pcms]
 
 *4118|
 [fc]
@@ -200,13 +209,14 @@ way to communicate...[pcms]
 
 *4119|
 [fc]
-Looking around the room, there was nothing. Except for Shigeyoshi's blood[r]
-scattered on the floor.[pcms]
+Looking around the room, there was nothing. Except for[r]
+Shigeyoshi's blood scattered on the floor.[pcms]
 
 *4120|
 [fc]
-If Wataru and the others come chasing after this place, maybe they'll notice[r]
-this blood... Maybe it's better if I don't move from here...[pcms]
+If Wataru and the others come chasing after this place,[r]
+maybe they'll notice this blood... Maybe it's better if I[r]
+don't move from here...[pcms]
 
 *4121|
 [fc]
@@ -214,12 +224,13 @@ Wataru... Wataru... help me, Wataru...[pcms]
 
 *4122|
 [fc]
-I stared out the window while calling Wataru's name over and over in my heart.[pcms]
+I stared out the window while calling Wataru's name over and[r]
+over in my heart.[pcms]
 
 *4123|
 [fc]
-The sky outside the window was brightening. Dawn is coming, and with it, the[r]
-United States' gas attack will begin.[pcms]
+The sky outside the window was brightening. Dawn is coming,[r]
+and with it, the United States' gas attack will begin.[pcms]
 
 *4124|
 [fc]
@@ -246,7 +257,8 @@ United States' gas attack will begin.[pcms]
 [fc]
 [vo_yuh s="yuho1444"]
 [ns]Yuuho[nse]
-"If it's Wataru... I feel like he can do something about this..."[pcms]
+"If it's Wataru... I feel like he can do something about[r]
+this..."[pcms]
 
 *4126|
 [fc]
@@ -273,8 +285,8 @@ So I won't give up either. If there's any chance...[pcms]
 
 *4130|
 [fc]
-Yeah, he'll surely come to save me. But Shigeyoshi's men have guns... I wonder[r]
-if it's safe.[pcms]
+Yeah, he'll surely come to save me. But Shigeyoshi's men[r]
+have guns... I wonder if it's safe.[pcms]
 
 *4131|
 [fc]

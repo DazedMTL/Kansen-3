@@ -33,8 +33,8 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 
 *43|
 [fc]
-The first to get off the elevator was me, who had come to visit on the 5th[r]
-floor.[pcms]
+The first to get off the elevator was me, who had come to[r]
+visit on the 5th floor.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -54,8 +54,8 @@ floor.[pcms]
 
 *46|
 [fc]
-In the brief moment before the doors closed, everyone said their words of[r]
-visitation and left.[pcms]
+In the brief moment before the doors closed, everyone said[r]
+their words of visitation and left.[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]
@@ -74,8 +74,8 @@ visitation and left.[pcms]
 
 *48|
 [fc]
-I called out softly and knocked, but there was no response. I knocked several[r]
-times...[pcms]
+I called out softly and knocked, but there was no response.[r]
+I knocked several times...[pcms]
 
 *49|
 [fc]
@@ -104,7 +104,8 @@ I quietly pressed my ear against the door.[pcms]
 
 *53|
 [fc]
-Startled by a sudden voice from behind, I turned around in surprise.[pcms]
+Startled by a sudden voice from behind, I turned around in[r]
+surprise.[pcms]
 
 *54|
 [fc]
@@ -117,8 +118,8 @@ Unexpectedly close by, Yuuho stood in her spats.[pcms]
 
 *56|
 [fc]
-Yuuho seemed a bit unsteady on her feet. And she looked tired, her head hanging[r]
-down.[pcms]
+Yuuho seemed a bit unsteady on her feet. And she looked[r]
+tired, her head hanging down.[pcms]
 
 *57|
 [fc]
@@ -128,20 +129,22 @@ down.[pcms]
 
 *58|
 [fc]
-Her reaction was a bit slow, and her voice sounded a little strange. Maybe she[r]
-has a fever...?[pcms]
+Her reaction was a bit slow, and her voice sounded a little[r]
+strange. Maybe she has a fever...?[pcms]
 
 *59|
 [fc]
 [ns]Wataru[nse]
-"You don't seem very energetic...? I brought some nutritional supplements and[r]
-mineral water, do you want some?"[pcms]
+"You don't seem very energetic...? I brought some[r]
+nutritional supplements and mineral water, do you want[r]
+some?"[pcms]
 
 *60|
 [fc]
 [vo_yuh s="yuho_YK0003"]
 [ns]Yuuho[nse]
-"I don't need water... I drank a lot of drinks... But... I'm hungry..."[pcms]
+"I don't need water... I drank a lot of drinks... But... I'm[r]
+hungry..."[pcms]
 
 *61|
 [fc]
@@ -150,8 +153,8 @@ mineral water, do you want some?"[pcms]
 
 *62|
 [fc]
-If she's not feeling energetic, it's because she's hungry. It's no wonder since[r]
-she skipped breakfast and lunch.[pcms]
+If she's not feeling energetic, it's because she's hungry.[r]
+It's no wonder since she skipped breakfast and lunch.[pcms]
 
 *63|
 [fc]
@@ -160,23 +163,26 @@ she skipped breakfast and lunch.[pcms]
 
 *64|
 [fc]
-I'm used to making rice porridge since Ren often gets sick and needs it.[pcms]
+I'm used to making rice porridge since Ren often gets sick[r]
+and needs it.[pcms]
 
 *65|
 [fc]
 [ns]Wataru[nse]
-"But if you want to eat something more substantial, there's food here, right?"[pcms]
+"But if you want to eat something more substantial, there's[r]
+food here, right?"[pcms]
 
 *66|
 [fc]
-I remember that the manga cafe had a good selection of ready-to-heat retort[r]
-food.[pcms]
+I remember that the manga cafe had a good selection of[r]
+ready-to-heat retort food.[pcms]
 
 *67|
 [fc]
 [vo_yuh s="yuho_YK0004"]
 [ns]Yuuho[nse]
-"There's food... in the back of the room... but I don't know..."[pcms]
+"There's food... in the back of the room... but I don't[r]
+know..."[pcms]
 
 *68|
 [fc]
@@ -184,18 +190,20 @@ Yuuho muttered faintly.[pcms]
 
 *69|
 [fc]
-I wonder what she means by 'I don't know'... Is it that she can't decide whether[r]
-it's okay to eat it or not?[pcms]
+I wonder what she means by 'I don't know'... Is it that she[r]
+can't decide whether it's okay to eat it or not?[pcms]
 
 *70|
 [fc]
-Indeed, Yuuho had said we should try not to touch it since it keeps well...[pcms]
+Indeed, Yuuho had said we should try not to touch it since[r]
+it keeps well...[pcms]
 
 *71|
 [fc]
 [ns]Wataru[nse]
-"We just stocked up on a lot of food with everyone else, so considering the[r]
-emergency situation, I think it's okay. Shall I make something for you?"[pcms]
+"We just stocked up on a lot of food with everyone else, so[r]
+considering the emergency situation, I think it's okay.[r]
+Shall I make something for you?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e33"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -208,8 +216,8 @@ emergency situation, I think it's okay. Shall I make something for you?"[pcms]
 
 *73|
 [fc]
-Yuuho still spoke in a vague tone, but she seemed a bit happier than before in[r]
-her response.[pcms]
+Yuuho still spoke in a vague tone, but she seemed a bit[r]
+happier than before in her response.[pcms]
 
 *74|
 [fc]
@@ -226,8 +234,8 @@ her response.[pcms]
 
 *76|
 [fc]
-I took Yuuho to the cafe corner. There are sofas here, so she can wait in a[r]
-comfortable position.[pcms]
+I took Yuuho to the cafe corner. There are sofas here, so[r]
+she can wait in a comfortable position.[pcms]
 
 *77|
 [fc]
@@ -254,8 +262,8 @@ I started walking towards the counter.[pcms]
 
 *81|
 [fc]
-I felt like I was called and turned around. But Yuuho had her back to me and was[r]
-slumped over on the sofa.[pcms]
+I felt like I was called and turned around. But Yuuho had[r]
+her back to me and was slumped over on the sofa.[pcms]
 
 *82|
 [fc]
@@ -284,8 +292,8 @@ Maybe it was just my imagination...[pcms]
 
 *86|
 [fc]
-I went into the storeroom next to the office behind the counter where the food[r]
-was kept.[pcms]
+I went into the storeroom next to the office behind the[r]
+counter where the food was kept.[pcms]
 
 ;//〆黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -297,8 +305,8 @@ was kept.[pcms]
 
 *88|
 [fc]
-I was taken aback as I entered the storeroom. The floor was littered with[r]
-microwaveable food products.[pcms]
+I was taken aback as I entered the storeroom. The floor was[r]
+littered with microwaveable food products.[pcms]
 
 *89|
 [fc]
@@ -307,13 +315,14 @@ microwaveable food products.[pcms]
 
 *90|
 [fc]
-But on closer inspection, the food packaging was torn open, and boxes were[r]
-ripped as if their lids had been torn off.[pcms]
+But on closer inspection, the food packaging was torn open,[r]
+and boxes were ripped as if their lids had been torn off.[pcms]
 
 *90a|
 [fc]
-"Mice wouldn't be this skillful. Plus, there are bite marks left on the solid[r]
-curry and doria, and those teeth marks... they're clearly human."[pcms]
+"Mice wouldn't be this skillful. Plus, there are bite marks[r]
+left on the solid curry and doria, and those teeth marks...[r]
+they're clearly human."[pcms]
 
 *91|
 [fc]
@@ -321,8 +330,9 @@ curry and doria, and those teeth marks... they're clearly human."[pcms]
 
 *92|
 [fc]
-"We're the only ones in the building. And everyone was busy with carrying stuff[r]
-and laundry this morning. If I rule out my friends by process of elimination..."[pcms]
+"We're the only ones in the building. And everyone was busy[r]
+with carrying stuff and laundry this morning. If I rule out[r]
+my friends by process of elimination..."[pcms]
 
 *93|
 [fc]
@@ -331,12 +341,13 @@ and laundry this morning. If I rule out my friends by process of elimination..."
 
 *94|
 [fc]
-As I picked up an omelet rice with bite marks through the vacuum pack, my face[r]
-stiffened.[pcms]
+As I picked up an omelet rice with bite marks through the[r]
+vacuum pack, my face stiffened.[pcms]
 
 *95|
 [fc]
-Even with a fever, this is a bit... strange. Is Yuuho really okay?[pcms]
+Even with a fever, this is a bit... strange. Is Yuuho really[r]
+okay?[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢Ａ１
@@ -347,8 +358,8 @@ Even with a fever, this is a bit... strange. Is Yuuho really okay?[pcms]
 
 
 ;	[link storage="60020.ks" target=*60020_TOP]精神的に参ってる。内緒にしておこう[endlink]
-;       (link storage="60120.ks" target=*60120_TOP)This isn't normal... Could it[r]
-be?(endlink)[pcms]
+;       (link storage="60120.ks" target=*60120_TOP)This[r]
+isn't normal... Could it be?(endlink)[pcms]
 
 *SEL49|精神的に参ってる。内緒にしておこう／普通じゃない。……まさか？
 [fc]

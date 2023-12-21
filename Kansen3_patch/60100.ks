@@ -40,12 +40,14 @@
 [fc]
 [vo_yuh s="yuho_YK0055"]
 [ns]Yuuho[nse]
-"...Come on... Wataru, you too... want to feel good... right?"[pcms]
+"...Come on... Wataru, you too... want to feel good...[r]
+right?"[pcms]
 
 *553|
 [fc]
 [ns]Wataru[nse]
-"Wait! No, that's not right... Yuuho! Please... come back to your senses...!!"[pcms]
+"Wait! No, that's not right... Yuuho! Please... come back to[r]
+your senses...!!"[pcms]
 
 *554|
 [fc]
@@ -54,12 +56,13 @@
 
 *555|
 [fc]
-However, contrary to his words of denial, the thing between his legs had already[r]
-grown large.[pcms]
+However, contrary to his words of denial, the thing between[r]
+his legs had already grown large.[pcms]
 
 *556|
 [fc]
-Gripping the proudly standing erection, Yuuho smiles mischievously.[pcms]
+Gripping the proudly standing erection, Yuuho smiles[r]
+mischievously.[pcms]
 
 *557|
 [fc]
@@ -69,7 +72,8 @@ Gripping the proudly standing erection, Yuuho smiles mischievously.[pcms]
 
 *558|
 [fc]
-Without a moment to stop her, she takes it into her mouth with gusto.[pcms]
+Without a moment to stop her, she takes it into her mouth[r]
+with gusto.[pcms]
 
 *559|
 [fc]
@@ -83,7 +87,8 @@ Without a moment to stop her, she takes it into her mouth with gusto.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0057"]
 [ns]Yuuho[nse]
-"...Feel it a lot, okay? Mmm, mmmuuu, slurp... mmm... lick... haaam, mmm..."[pcms]
+"...Feel it a lot, okay? Mmm, mmmuuu, slurp... mmm...[r]
+lick... haaam, mmm..."[pcms]
 
 *561|
 [fc]
@@ -95,7 +100,8 @@ My childhood friend's mouth is violating my penis...[pcms]
 
 *563|
 [fc]
-Excited by being sucked by my beloved Yuuho, I quickly reach the climax.[pcms]
+Excited by being sucked by my beloved Yuuho, I quickly reach[r]
+the climax.[pcms]
 
 *564|
 [fc]
@@ -125,8 +131,9 @@ Throb! Spurt! Throb... throb![pcms]
 
 *568|
 [fc]
-The semen spurting from the dick is too much for the childhood friend's mouth to[r]
-contain, threatening to overflow.[pcms]
+The semen spurting from the dick is too much for the[r]
+childhood friend's mouth to contain, threatening to[r]
+overflow.[pcms]
 
 *569|
 [fc]
@@ -136,8 +143,8 @@ contain, threatening to overflow.[pcms]
 
 *570|
 [fc]
-Even the sight of Yuuho choking is lewd, everything is so far removed from[r]
-normality...[pcms]
+Even the sight of Yuuho choking is lewd, everything is so[r]
+far removed from normality...[pcms]
 
 *571|
 [fc]
@@ -147,8 +154,8 @@ I just stood there, entranced by it.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0060"]
 [ns]Yuuho[nse]
-"Amazing, isn't it? ...Were you surprised? That so much came out... because it[r]
-felt good? Did a lot come out?"[pcms]
+"Amazing, isn't it? ...Were you surprised? That so much came[r]
+out... because it felt good? Did a lot come out?"[pcms]
 
 *573|
 [fc]
@@ -161,19 +168,21 @@ felt good? Did a lot come out?"[pcms]
 
 *574|
 [fc]
-When she opens her mouth, it's filled with the cloudy fluid I released.[pcms]
+When she opens her mouth, it's filled with the cloudy fluid[r]
+I released.[pcms]
 
 *575|
 [fc]
-It clings to her tongue, and every time she speaks, it makes a squelching,[r]
-obscene sound.[pcms]
+It clings to her tongue, and every time she speaks, it makes[r]
+a squelching, obscene sound.[pcms]
 
 *576|
 [fc]
 [vo_yuh s="yuho_YK0062"]
 [ns]Yuuho[nse]
-"Look at this... so much... it's all gooey and thick, isn't it? It's sticky and[r]
-slimy... inside my mouth... it's all squishy, right?"[pcms]
+"Look at this... so much... it's all gooey and thick, isn't[r]
+it? It's sticky and slimy... inside my mouth... it's all[r]
+squishy, right?"[pcms]
 
 *577|
 [fc]
@@ -182,8 +191,8 @@ slimy... inside my mouth... it's all squishy, right?"[pcms]
 
 *578|
 [fc]
-Yuuho shows an ecstatic expression as she feels the thick and copious amount of[r]
-semen I released.[pcms]
+Yuuho shows an ecstatic expression as she feels the thick[r]
+and copious amount of semen I released.[pcms]
 
 *579|
 [fc]
@@ -193,8 +202,9 @@ The whole situation makes my head spin.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0063"]
 [ns]Yuuho[nse]
-"Like this, see? I'll stir it with my tongue for you... frothing up your[r]
-semen... nchutsu... Look at this... the smell fills my mouth..."[pcms]
+"Like this, see? I'll stir it with my tongue for you...[r]
+frothing up your semen... nchutsu... Look at this... the[r]
+smell fills my mouth..."[pcms]
 
 ;//ÇdÅFà˘Ç›ä±Ç∑óIîø
 
@@ -202,13 +212,13 @@ semen... nchutsu... Look at this... the smell fills my mouth..."[pcms]
 [fc]
 [vo_yuh s="yuho_YK0064"]
 [ns]Yuuho[nse]
-"It's delicious... fresh-squeezed... I'm going to drink it all up, okay? Mmm,[r]
-gulp gulp..."[pcms]
+"It's delicious... fresh-squeezed... I'm going to drink it[r]
+all up, okay? Mmm, gulp gulp..."[pcms]
 
 *582|
 [fc]
-She locks eyes with me, drawing my gaze before lifting her face to focus on her[r]
-throat.[pcms]
+She locks eyes with me, drawing my gaze before lifting her[r]
+face to focus on her throat.[pcms]
 
 *583|
 [fc]
@@ -216,7 +226,8 @@ Then she swallows what I released with apparent relish.[pcms]
 
 *584|
 [fc]
-Gulping it down slowly, as if she couldn't bear to part with it.[pcms]
+Gulping it down slowly, as if she couldn't bear to part with[r]
+it.[pcms]
 
 ;//ÇeÅFà˘Ç›èIÇÌÇ¡ÇΩÇ±Ç∆Çå©ÇπÇÈóIîøÅiÇcÇÃâtñ≥ÇµÅj
 [evcg storage="HEV059e"][trans_c cross time=300]
@@ -225,7 +236,8 @@ Gulping it down slowly, as if she couldn't bear to part with it.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0065"]
 [ns]Yuuho[nse]
-"...Mmmphahh... I drank it all...? Your semen is really delicious, Wataru."[pcms]
+"...Mmmphahh... I drank it all...? Your semen is really[r]
+delicious, Wataru."[pcms]
 
 *586|
 [fc]
@@ -233,7 +245,8 @@ Yuuho shows off with a proud smile, her mouth wide open.[pcms]
 
 *587|
 [fc]
-The semen that had dominated her mouth just moments ago was gone.[pcms]
+The semen that had dominated her mouth just moments ago was[r]
+gone.[pcms]
 
 *588|
 [fc]
@@ -243,8 +256,9 @@ Is this really reality? It makes me want to doubt it.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0066"]
 [ns]Yuuho[nse]
-"Ufufufu... protein? Does it also contain collagen? It's full of nutrients...[r]
-and since it's yours, Wataru, it tastes even better!"[pcms]
+"Ufufufu... protein? Does it also contain collagen? It's[r]
+full of nutrients... and since it's yours, Wataru, it tastes[r]
+even better!"[pcms]
 
 *590|
 [fc]
@@ -279,12 +293,13 @@ She looks so pleased.[pcms]
 
 *596|
 [fc]
-I desperately try to stop my childhood friend who has lost her senses, but my[r]
-body won't listen.[pcms]
+I desperately try to stop my childhood friend who has lost[r]
+her senses, but my body won't listen.[pcms]
 
 *597|
 [fc]
-My head feels hot and fuzzy as if I have a fever, and my throat is parched.[pcms]
+My head feels hot and fuzzy as if I have a fever, and my[r]
+throat is parched.[pcms]
 
 *598|
 [fc]
@@ -297,7 +312,8 @@ A virus?[pcms]
 
 *600|
 [fc]
-As my consciousness becomes less clear, I feel my penis throbbing with heat.[pcms]
+As my consciousness becomes less clear, I feel my penis[r]
+throbbing with heat.[pcms]
 
 ;//ÇhÅFÇ©ÇËÇÃòeÇ»Ç«ÇÅAê„Ç≈ê”ÇﬂÇÈóIîø
 [evcg storage="HEV059f"][trans_c cross time=300]
@@ -306,7 +322,8 @@ As my consciousness becomes less clear, I feel my penis throbbing with heat.[pcm
 [fc]
 [vo_yuh s="yuho_YK0069"]
 [ns]Yuuho[nse]
-"It's okay... mmmchuusss! You can do more, right Wataru? Chuchu..."[pcms]
+"It's okay... mmmchuusss! You can do more, right Wataru?[r]
+Chuchu..."[pcms]
 
 *602|
 [fc]
@@ -324,19 +341,20 @@ Chiro... Churururu... Pechapecha...[pcms]
 
 *605|
 [fc]
-As if to interrupt his words of denial, Yuuho attacks his sensitive spots.[pcms]
+As if to interrupt his words of denial, Yuuho attacks his[r]
+sensitive spots.[pcms]
 
 *606|
 [fc]
-Stimulated by her tongue on the side of my glans, my erection comes back full[r]
-force.[pcms]
+Stimulated by her tongue on the side of my glans, my[r]
+erection comes back full force.[pcms]
 
 *607|
 [fc]
 [vo_yuh s="yuho_YK0070"]
 [ns]Yuuho[nse]
-"Here you go, ufufu, ufufufufu? You're energetic, aren't you? Let's do even more[r]
-good things...?"[pcms]
+"Here you go, ufufu, ufufufufu? You're energetic, aren't[r]
+you? Let's do even more good things...?"[pcms]
 
 *608|
 [fc]
@@ -350,13 +368,13 @@ Yuuho chuckles mischievously, staring at me.[pcms]
 *610|
 [fc]
 [ns]Wataru[nse]
-"It's no good... I can't... not anymore... haah, ahh... It's just no good...[r]
-ugh, ku...!"[pcms]
+"It's no good... I can't... not anymore... haah, ahh... It's[r]
+just no good... ugh, ku...!"[pcms]
 
 *611|
 [fc]
-The sight is so overwhelming that tears seem to well up in the corners of my[r]
-eyes.[pcms]
+The sight is so overwhelming that tears seem to well up in[r]
+the corners of my eyes.[pcms]
 
 ;//ÅYçïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -367,7 +385,8 @@ Biritt...[pcms]
 
 *613|
 [fc]
-Suddenly, Yuuho tears the crotch of her spats with her own hands.[pcms]
+Suddenly, Yuuho tears the crotch of her spats with her own[r]
+hands.[pcms]
 
 *614|
 [fc]
@@ -381,7 +400,8 @@ Suddenly, Yuuho tears the crotch of her spats with her own hands.[pcms]
 
 *616|
 [fc]
-Her genitals, lewdly and suspiciously glistening, are exposed.[pcms]
+Her genitals, lewdly and suspiciously glistening, are[r]
+exposed.[pcms]
 
 *617|
 [fc]
@@ -398,7 +418,8 @@ Yuuho lightly pushes me away.[pcms]
 
 *620|
 [fc]
-I try to get up in a hurry, but Yuuho straddles me, holding me down.[pcms]
+I try to get up in a hurry, but Yuuho straddles me, holding[r]
+me down.[pcms]
 
 ;mm
 [bg storage="BG020a"][trans_c cross time=500]
@@ -409,7 +430,8 @@ I try to get up in a hurry, but Yuuho straddles me, holding me down.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0071"]
 [ns]Yuuho[nse]
-"Ufufufufu, ufufufufu... You like this sort of thing, don't you? Boys do... eh"[pcms]
+"Ufufufufu, ufufufufu... You like this sort of thing, don't[r]
+you? Boys do... eh"[pcms]
 
 *622|
 [fc]
@@ -419,8 +441,8 @@ I try to get up in a hurry, but Yuuho straddles me, holding me down.[pcms]
 *623|
 [fc]
 [ns]Wataru[nse]
-"Y-Yuuho... it's no good, we shouldn't do this anymore...! Anyway, it's just no[r]
-good!!"[pcms]
+"Y-Yuuho... it's no good, we shouldn't do this anymore...![r]
+Anyway, it's just no good!!"[pcms]
 
 *624|
 [fc]
@@ -450,7 +472,8 @@ Pann...[pcms]
 
 *629|
 [fc]
-Then, a light shock as if something was broken through is felt.[pcms]
+Then, a light shock as if something was broken through is[r]
+felt.[pcms]
 
 *630|
 [fc]
@@ -473,16 +496,18 @@ Then, a light shock as if something was broken through is felt.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0074"]
 [ns]Yuuho[nse]
-"Npaaaah, ahi, hiin...nnnn! It feels sooo good!! Even the pain is all, all of[r]
-it... good!"[pcms]
+"Npaaaah, ahi, hiin...nnnn! It feels sooo good!! Even the[r]
+pain is all, all of it... good!"[pcms]
 
 *633|
 [fc]
-No doubt about it. That was the sound of her hymen being broken through.[pcms]
+No doubt about it. That was the sound of her hymen being[r]
+broken through.[pcms]
 
 *634|
 [fc]
-I've taken my childhood friend's virginity. What have I done?[pcms]
+I've taken my childhood friend's virginity. What have I[r]
+done?[pcms]
 
 *635|
 [fc]
@@ -507,15 +532,16 @@ How incredibly good it feels...![pcms]
 
 *639|
 [fc]
-Maybe because Yuuho was a virgin. The unrestrained tightness is different from[r]
-when I was with Inori-san; it makes me hard in no time.[pcms]
+Maybe because Yuuho was a virgin. The unrestrained tightness[r]
+is different from when I was with Inori-san; it makes me[r]
+hard in no time.[pcms]
 
 *640|
 [fc]
 [vo_yuh s="yuho_YK0101"]
 [ns]Yuuho[nse]
-"I'm also feeling good...? We both feel good, right? I'm so happy...! Hiiiuuu,[r]
-nnnnn!"[pcms]
+"I'm also feeling good...? We both feel good, right? I'm so[r]
+happy...! Hiiiuuu, nnnnn!"[pcms]
 
 *641|
 [fc]
@@ -529,14 +555,15 @@ nnnnn!"[pcms]
 
 *643|
 [fc]
-Excited by the sensation of the hot penis she's taken in for the first time,[r]
-Yuuho frantically moves her hips.[pcms]
+Excited by the sensation of the hot penis she's taken in for[r]
+the first time, Yuuho frantically moves her hips.[pcms]
 
 *644|
 [fc]
 [vo_yuh s="yuho_YK0102"]
 [ns]Yuuho[nse]
-"...My pussy feels good with your nice dick inside it! I'm sooo happy!"[pcms]
+"...My pussy feels good with your nice dick inside it! I'm[r]
+sooo happy!"[pcms]
 
 *645|
 [fc]
@@ -549,7 +576,8 @@ She moans loudly, writhing on top of me.[pcms]
 
 *647|
 [fc]
-The intense tightness continues to stimulate every part of my penis.[pcms]
+The intense tightness continues to stimulate every part of[r]
+my penis.[pcms]
 
 *648|
 [fc]
@@ -566,7 +594,8 @@ I swallow my saliva at that point.[pcms]
 
 *651|
 [fc]
-Tormented by the terrifyingly soft and warm sensation of Yuuho's insides.[pcms]
+Tormented by the terrifyingly soft and warm sensation of[r]
+Yuuho's insides.[pcms]
 
 *652|
 [fc]
@@ -575,7 +604,8 @@ Tormented by the terrifyingly soft and warm sensation of Yuuho's insides.[pcms]
 
 *653|
 [fc]
-On top of that, Yuuho moves using the spring in her well-trained body.[pcms]
+On top of that, Yuuho moves using the spring in her well-[r]
+trained body.[pcms]
 
 *654|
 [fc]
@@ -614,8 +644,8 @@ In Yuuho's vagina, my spent penis twitches.[pcms]
 
 *660|
 [fc]
-The semen is squeezed out, overflowing from the entrance. Yuuho seems to love[r]
-this sensation.[pcms]
+The semen is squeezed out, overflowing from the entrance.[r]
+Yuuho seems to love this sensation.[pcms]
 
 *661|
 [fc]
@@ -630,12 +660,13 @@ this sensation.[pcms]
 
 *663|
 [fc]
-My head feels like it's bursting with whiteness, unable to think of anything.[pcms]
+My head feels like it's bursting with whiteness, unable to[r]
+think of anything.[pcms]
 
 *664|
 [fc]
-In my lower half, the ejaculation doesn't stop. It continues to release inside[r]
-Yuuho.[pcms]
+In my lower half, the ejaculation doesn't stop. It continues[r]
+to release inside Yuuho.[pcms]
 
 *665|
 [fc]
@@ -652,8 +683,8 @@ Throb! Twitching![pcms]
 [fc]
 [vo_yuh s="yuho_YK0080"]
 [ns]Yuuho[nse]
-"Nnhiaaahhh...! Still... coming out... ah, nfuahh!? Again... ah! It's coming[r]
-out! Nnah, hik, higyauu!? Yessss!!"[pcms]
+"Nnhiaaahhh...! Still... coming out... ah, nfuahh!? Again...[r]
+ah! It's coming out! Nnah, hik, higyauu!? Yessss!!"[pcms]
 
 *668|
 [fc]
@@ -679,7 +710,8 @@ I swallow my saliva. The thirst is unquenchable.[pcms]
 
 *673|
 [fc]
-Breathing roughly. The long ejaculation seems to have finally stopped.[pcms]
+Breathing roughly. The long ejaculation seems to have[r]
+finally stopped.[pcms]
 
 *674|
 [fc]
@@ -691,8 +723,8 @@ I wonder to myself where all this could possibly come from.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0081"]
 [ns]Yuuho[nse]
-"...Fuaaahhh... amazing, right? That was surprising? That just now... was really[r]
-good... Can we do it one more time?"[pcms]
+"...Fuaaahhh... amazing, right? That was surprising? That[r]
+just now... was really good... Can we do it one more time?"[pcms]
 
 *676|
 [fc]
@@ -700,8 +732,8 @@ No sooner said than done, Yuuho starts moving again.[pcms]
 
 *677|
 [fc]
-The sensation of being tightly squeezed makes my softened penis begin to wake up[r]
-again.[pcms]
+The sensation of being tightly squeezed makes my softened[r]
+penis begin to wake up again.[pcms]
 
 *678|
 [fc]
@@ -714,7 +746,8 @@ Squelch, slurp...! Plunge! Squish, squish...[pcms]
 
 *680|
 [fc]
-Despite my desperate attempt to stay conscious, it seems I was half-fainting.[pcms]
+Despite my desperate attempt to stay conscious, it seems I[r]
+was half-fainting.[pcms]
 
 *681|
 [fc]
@@ -723,8 +756,8 @@ Despite my desperate attempt to stay conscious, it seems I was half-fainting.[pc
 
 *682|
 [fc]
-The sharp stimulation from below snaps me back to reality. And once again, I'm[r]
-dominated by pleasure.[pcms]
+The sharp stimulation from below snaps me back to reality.[r]
+And once again, I'm dominated by pleasure.[pcms]
 
 *683|
 [fc]
@@ -734,8 +767,8 @@ dominated by pleasure.[pcms]
 
 *684|
 [fc]
-Delighted that the penis inside her is regaining its strength, Yuuho licks her[r]
-lips and smiles.[pcms]
+Delighted that the penis inside her is regaining its[r]
+strength, Yuuho licks her lips and smiles.[pcms]
 
 ;//ÇaÅFê„Ç»ÇﬂÇ∏ÇËÇÇµÇƒâıä¥ÇÇﬁÇ≥Ç⁄ÇÈóIîø
 
@@ -743,7 +776,8 @@ lips and smiles.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0083"]
 [ns]Yuuho[nse]
-"...We'll go slowly, so... nfuuuu, Wataru... enjoy it, okay?"[pcms]
+"...We'll go slowly, so... nfuuuu, Wataru... enjoy it,[r]
+okay?"[pcms]
 
 *686|
 [fc]
@@ -761,19 +795,20 @@ In stark contrast to before, she slides her hips slowly.[pcms]
 *689|
 [fc]
 [ns]Wataru[nse]
-"If you do it like that...! I can feel it... Inside Yuuho's...! The heat... I[r]
-can feel it!!"[pcms]
+"If you do it like that...! I can feel it... Inside[r]
+Yuuho's...! The heat... I can feel it!!"[pcms]
 
 *690|
 [fc]
-She swings her hips grandly, engulfing from the ridge to the base as if savoring[r]
-Wataru's penis.[pcms]
+She swings her hips grandly, engulfing from the ridge to the[r]
+base as if savoring Wataru's penis.[pcms]
 
 *691|
 [fc]
 [vo_yuh s="yuho_YK0084"]
 [ns]Yuuho[nse]
-"Nfuuu, ffuhiiii, nnnnn... This too... feels good, doesn't it? Ahiiin!"[pcms]
+"Nfuuu, ffuhiiii, nnnnn... This too... feels good, doesn't[r]
+it? Ahiiin!"[pcms]
 
 *692|
 [fc]
@@ -781,7 +816,8 @@ Squish! Plunge! Squelch...!![pcms]
 
 *693|
 [fc]
-Pistoning slowly as if savoring the penis, Yuuho repeats the motion.[pcms]
+Pistoning slowly as if savoring the penis, Yuuho repeats the[r]
+motion.[pcms]
 
 *694|
 [fc]
@@ -806,7 +842,8 @@ Licking her lips as if tasting her favorite delicacy.[pcms]
 
 *698|
 [fc]
-The movements are slow but gradually both are climbing to new heights.[pcms]
+The movements are slow but gradually both are climbing to[r]
+new heights.[pcms]
 
 *699|
 [fc]
@@ -822,8 +859,8 @@ Yuuho's face looks ecstatic and flushed with pleasure.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0086"]
 [ns]Yuuho[nse]
-"We'll do it lots and lots... Wataru, wait for me, okay? ...Because I want to[r]
-cum too...?"[pcms]
+"We'll do it lots and lots... Wataru, wait for me, okay?[r]
+...Because I want to cum too...?"[pcms]
 
 *702|
 [fc]
@@ -832,19 +869,21 @@ cum too...?"[pcms]
 
 *703|
 [fc]
-Gazing at Yuuho's happy face, a sense of fulfillment fills my body.[pcms]
+Gazing at Yuuho's happy face, a sense of fulfillment fills[r]
+my body.[pcms]
 
 *704|
 [fc]
 [ns]Wataru[nse]
-"Together... I want to cum together! I want to cum with Yuuho...!!"[pcms]
+"Together... I want to cum together! I want to cum with[r]
+Yuuho...!!"[pcms]
 
 *705|
 [fc]
 [vo_yuh s="yuho_YK0087"]
 [ns]Yuuho[nse]
-"Ufufufufufu~uu? Shall I move? Really hard, a lot, a looot, intensely... with[r]
-Wataru... both of us...!"[pcms]
+"Ufufufufufu~uu? Shall I move? Really hard, a lot, a looot,[r]
+intensely... with Wataru... both of us...!"[pcms]
 
 *706|
 [fc]
@@ -857,11 +896,13 @@ Yuuho begins to move her hips fiercely once again.[pcms]
 *708|
 [fc]
 [ns]Wataru[nse]
-"Aaaaah! Aah! Aaaaah! It's amazing... like this... aaaaahhh!"[pcms]
+"Aaaaah! Aah! Aaaaah! It's amazing... like this...[r]
+aaaaahhh!"[pcms]
 
 *709|
 [fc]
-I couldn't help but let out a scream from the overwhelming pleasure.[pcms]
+I couldn't help but let out a scream from the overwhelming[r]
+pleasure.[pcms]
 
 *710|
 [fc]
@@ -879,8 +920,8 @@ I couldn't help but let out a scream from the overwhelming pleasure.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0088"]
 [ns]Yuuho[nse]
-"...Nnn, nnnuu, han...nnnn! Hafuuu, it's so amazing!? Wataru... it's getting[r]
-bigger again...aaah!"[pcms]
+"...Nnn, nnnuu, han...nnnn! Hafuuu, it's so amazing!?[r]
+Wataru... it's getting bigger again...aaah!"[pcms]
 
 *713|
 [fc]
@@ -892,21 +933,22 @@ Yuuho shakes her hips even more fiercely.[pcms]
 
 *715|
 [fc]
-The cute face of my childhood friend has lost its sanity, melting into the face[r]
-of a lustful female.[pcms]
+The cute face of my childhood friend has lost its sanity,[r]
+melting into the face of a lustful female.[pcms]
 
 *716|
 [fc]
 [vo_yuh s="yuho_YK0089"]
 [ns]Yuuho[nse]
-"My pussy... it's so sloppy...! Gooey and sticky...! Clinging and sliding...!"[pcms]
+"My pussy... it's so sloppy...! Gooey and sticky...![r]
+Clinging and sliding...!"[pcms]
 
 *717|
 [fc]
 [vo_yuh s="yuho_YK0090"]
 [ns]Yuuho[nse]
-"Hahihaaaa, it feels so good!? I'm going to cum... Wataru...? Hiiiuuu, haaah, it[r]
-feels so goooood!!"[pcms]
+"Hahihaaaa, it feels so good!? I'm going to cum...[r]
+Wataru...? Hiiiuuu, haaah, it feels so goooood!!"[pcms]
 
 *718|
 [fc]
@@ -920,14 +962,15 @@ It's as if time has stopped in the small climax of pleasure.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0091"]
 [ns]Yuuho[nse]
-"Hahihaaa!? Hyauuu!? It's so... amazing...! I'm cumming, cumming, kufaaaahhh!"[pcms]
+"Hahihaaa!? Hyauuu!? It's so... amazing...! I'm cumming,[r]
+cumming, kufaaaahhh!"[pcms]
 
 *721|
 [fc]
 [vo_yuh s="yuho_YK0092"]
 [ns]Yuuho[nse]
-"Moreee! Ngi, hiiiu! Fill me up, fill me up, Wataru...! Come deeper,[r]
-kihiiiiiaaahhh!!"[pcms]
+"Moreee! Ngi, hiiiu! Fill me up, fill me up, Wataru...! Come[r]
+deeper, kihiiiiiaaahhh!!"[pcms]
 
 *722|
 [fc]
@@ -939,8 +982,8 @@ Yuuho immediately starts moving fiercely again.[pcms]
 
 *724|
 [fc]
-Reaching small climaxes two, three times in a row, she continues to shake her[r]
-hips.[pcms]
+Reaching small climaxes two, three times in a row, she[r]
+continues to shake her hips.[pcms]
 
 ;//ÇcÅFâıä¥ÇÃó]ÇËÉAÉwäÁÇ…Ç»ÇÈóIîø
 
@@ -948,15 +991,18 @@ hips.[pcms]
 [fc]
 [vo_yuh s="yuho_YK0093"]
 [ns]Yuuho[nse]
-"It feels so good, so good...! Hahii! I'm going crazy...? Kahaaauu!?"[pcms]
+"It feels so good, so good...! Hahii! I'm going crazy...?[r]
+Kahaaauu!?"[pcms]
 
 *726|
 [fc]
-Apparently, she can't stop cumming from the overwhelming pleasure.[pcms]
+Apparently, she can't stop cumming from the overwhelming[r]
+pleasure.[pcms]
 
 *727|
 [fc]
-She continues to shake her hips without caring about enduring her own climax.[pcms]
+She continues to shake her hips without caring about[r]
+enduring her own climax.[pcms]
 
 *728|
 [fc]
@@ -970,8 +1016,8 @@ Squirt! Slurp! Squish! Gush![pcms]
 *730|
 [fc]
 [ns]Wataru[nse]
-"If you do it that much... aahhh! I can't hold back anymore... kaha! Ha...[r]
-haaaah!!"[pcms]
+"If you do it that much... aahhh! I can't hold back[r]
+anymore... kaha! Ha... haaaah!!"[pcms]
 
 *731|
 [fc]
@@ -982,8 +1028,8 @@ haaaah!!"[pcms]
 [fc]
 [vo_yuh s="yuho_YK0094"]
 [ns]Yuuho[nse]
-"Naaaahiiii!? It feels so good...!? Come, come to meee, come come, come[r]
-hereee!!"[pcms]
+"Naaaahiiii!? It feels so good...!? Come, come to meee, come[r]
+come, come hereee!!"[pcms]
 
 ;//ÇeÅF‰Sì‡éÀê∏ÇéÛÇØÇÈóIîøÇQÅiÇcÇÃâtç∑ï™Åj
 
@@ -999,12 +1045,13 @@ Squish! B...burst![pcms]
 
 *735|
 [fc]
-Reaching a massive climax, Yuuho lets out a beast-like roar and relaxes her[r]
-entire body.[pcms]
+Reaching a massive climax, Yuuho lets out a beast-like roar[r]
+and relaxes her entire body.[pcms]
 
 *736|
 [fc]
-Her body twitches as if electrified, then loses all strength and stops moving.[pcms]
+Her body twitches as if electrified, then loses all strength[r]
+and stops moving.[pcms]
 
 *737|
 [fc]
@@ -1014,7 +1061,8 @@ Her body twitches as if electrified, then loses all strength and stops moving.[p
 *738|
 [fc]
 [ns]Wataru[nse]
-"I can't hold back anymore... I'm cummingggg!! Aaahhh, aaahhh, agaaah~~!!"[pcms]
+"I can't hold back anymore... I'm cummingggg!! Aaahhh,[r]
+aaahhh, agaaah~~!!"[pcms]
 
 ;//îíÉtÉâ
 [se buf=0 storage="se_sex01"]
@@ -1041,8 +1089,8 @@ Ejaculating inside Yuuho for an extended period.[pcms]
 
 *743|
 [fc]
-The contracting vagina of the unconscious Yuuho feels like it could bite off my[r]
-penis.[pcms]
+The contracting vagina of the unconscious Yuuho feels like[r]
+it could bite off my penis.[pcms]
 
 *744|
 [fc]
@@ -1074,12 +1122,13 @@ Thump[pcms]
 
 *750|
 [fc]
-I can feel Yuuho, who had stopped moving, slowly collapsing onto me.[pcms]
+I can feel Yuuho, who had stopped moving, slowly collapsing[r]
+onto me.[pcms]
 
 *751|
 [fc]
-In a panic to catch her, I stretch out my arms and manage to hold her. With that[r]
-impact, it seems Yuuho has woken up.[pcms]
+In a panic to catch her, I stretch out my arms and manage to[r]
+hold her. With that impact, it seems Yuuho has woken up.[pcms]
 
 *752|
 [fc]
@@ -1096,7 +1145,8 @@ I slowly stand up from on top of her, pulling out my penis.[pcms]
 
 *754|
 [fc]
-A large amount of semen from the two ejaculations overflows from Yuuho's vagina.[pcms]
+A large amount of semen from the two ejaculations overflows[r]
+from Yuuho's vagina.[pcms]
 
 *755|
 [fc]
@@ -1110,8 +1160,8 @@ Gop...! Gobuchuuu...! Byuk byuk...!![pcms]
 
 *757|
 [fc]
-In front of me is Yuuho. The face of my childhood friend that I know so well. I[r]
-see myself reflected in her eyes.[pcms]
+In front of me is Yuuho. The face of my childhood friend[r]
+that I know so well. I see myself reflected in her eyes.[pcms]
 
 *758|
 [fc]
@@ -1136,12 +1186,13 @@ Before I knew it, we were naturally embracing each other.[pcms]
 
 *762|
 [fc]
-The body heat transmitted from Yuuho... the scent of sweat... and the scent of[r]
-love juices.[pcms]
+The body heat transmitted from Yuuho... the scent of[r]
+sweat... and the scent of love juices.[pcms]
 
 *763|
 [fc]
-All of it seems so dear to me, and I find myself utterly enchanted.[pcms]
+All of it seems so dear to me, and I find myself utterly[r]
+enchanted.[pcms]
 
 *764|
 [fc]

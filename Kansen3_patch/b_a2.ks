@@ -22,8 +22,8 @@ Anyway, Yuuho is in the direction of the gym.[pcms]
 
 *4363|
 [fc]
-I've decided to cut straight through the gym and head into the indoor pool where[r]
-Yuuho should be.[pcms]
+I've decided to cut straight through the gym and head into[r]
+the indoor pool where Yuuho should be.[pcms]
 
 *4364|
 [fc]
@@ -35,7 +35,8 @@ But for some reason, my backpack suddenly feels heavy...[pcms]
 
 *4366|
 [fc]
-Eh? ...When I turned around, there was the figure of a woman smiling slyly.[pcms]
+Eh? ...When I turned around, there was the figure of a woman[r]
+smiling slyly.[pcms]
 
 *4367|
 [fc]
@@ -48,7 +49,8 @@ Eh? ...When I turned around, there was the figure of a woman smiling slyly.[pcms
 [fc]
 [vo_mob s="onna_iti0017"]
 [ns]Infected Woman A[nse]
-`Where are you going? Let's do something pleasurable together.[pcms]
+`Where are you going? Let's do something pleasurable[r]
+together.[pcms]
 
 *4369|
 [fc]
@@ -57,11 +59,13 @@ Eh? ...When I turned around, there was the figure of a woman smiling slyly.[pcms
 
 *4370|
 [fc]
-I thought about running away, even if it meant dropping my baggage right there.[pcms]
+I thought about running away, even if it meant dropping my[r]
+baggage right there.[pcms]
 
 *4371|
 [fc]
-But by the time I realized it, I had lost any place to escape.[pcms]
+But by the time I realized it, I had lost any place to[r]
+escape.[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_c"][ChrSetXY layer=5 x=174 y=0][trans_c cross time=150]
 
@@ -77,7 +81,8 @@ But by the time I realized it, I had lost any place to escape.[pcms]
 [fc]
 [vo_mob s="onna_san0005"]
 [ns]Infected - Female D[nse]
-`Haaaan, my pussy, my pussy wants your cock to stir it upppp.[pcms]
+`Haaaan, my pussy, my pussy wants your cock to stir it[r]
+upppp.[pcms]
 
 *4374|
 [fc]
@@ -115,13 +120,13 @@ But by the time I realized it, I had lost any place to escape.[pcms]
 
 *4379|
 [fc]
-My screams as I was forcefully pushed down in the hallway were drowned out by[r]
-the women's moans...[pcms]
+My screams as I was forcefully pushed down in the hallway[r]
+were drowned out by the women's moans...[pcms]
 
 *4380|
 [fc]
-My consciousness was closed off into darkness by the soft female bodies covering[r]
-my mouth and nose.[pcms]
+My consciousness was closed off into darkness by the soft[r]
+female bodies covering my mouth and nose.[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]

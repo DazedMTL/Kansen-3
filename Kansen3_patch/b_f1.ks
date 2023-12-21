@@ -20,12 +20,13 @@
 
 *4594|
 [fc]
-I decided to go for it and thrust the mop handle towards the infected person's[r]
-temple.[pcms]
+I decided to go for it and thrust the mop handle towards the[r]
+infected person's temple.[pcms]
 
 *4595|
 [fc]
-There was a sensation of cutting through the air with a 'whoosh'.[pcms]
+There was a sensation of cutting through the air with a[r]
+'whoosh'.[pcms]
 
 *4596|
 [fc]
@@ -37,9 +38,9 @@ That has to be one of the human body's vital points.[pcms]
 
 *4598|
 [fc]
-For someone as physically weak as me, who isn't nearly as good at sports or[r]
-fighting as Kousuke, aiming there was the only chance I had to take him down in[r]
-one hit.[pcms]
+For someone as physically weak as me, who isn't nearly as[r]
+good at sports or fighting as Kousuke, aiming there was the[r]
+only chance I had to take him down in one hit.[pcms]
 
 *4599|
 [fc]
@@ -52,8 +53,8 @@ However--[pcms]
 
 *4601|
 [fc]
-Indeed, the mop handle hit his head. But the spot it hit wasn't the forehead I[r]
-aimed for; it was his right cheek.[pcms]
+Indeed, the mop handle hit his head. But the spot it hit[r]
+wasn't the forehead I aimed for; it was his right cheek.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -64,8 +65,9 @@ aimed for; it was his right cheek.[pcms]
 
 *4603|
 [fc]
-While still in a thrusting stance, I heard the man's sluggish voice and almost[r]
-lost my balance, about to fall over.[pcms]
+While still in a thrusting stance, I heard the man's[r]
+sluggish voice and almost lost my balance, about to fall[r]
+over.[pcms]
 
 *4604|
 [fc]
@@ -73,13 +75,13 @@ This is bad! I need to regain my posture at any cost...![pcms]
 
 *4605|
 [fc]
-In an instant, my mind was racing with thoughts and strategies, but my body[r]
-couldn't keep up.[pcms]
+In an instant, my mind was racing with thoughts and[r]
+strategies, but my body couldn't keep up.[pcms]
 
 *4606|
 [fc]
-The only reason I didn't end up face-planting on the floor was that the man[r]
-grabbed my arm.[pcms]
+The only reason I didn't end up face-planting on the floor[r]
+was that the man grabbed my arm.[pcms]
 
 *4607|
 [fc]
@@ -99,7 +101,8 @@ Rather, it was the opposite--[pcms]
 
 *4610|
 [fc]
-The grip tightened mercilessly, and I couldn't help but scream out in pain.[pcms]
+The grip tightened mercilessly, and I couldn't help but[r]
+scream out in pain.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -111,17 +114,18 @@ The grip tightened mercilessly, and I couldn't help but scream out in pain.[pcms
 
 *4612|
 [fc]
-Spurred by Yuuho's voice, I turned towards her. She was looking at me with a[r]
-face about to cry.[pcms]
+Spurred by Yuuho's voice, I turned towards her. She was[r]
+looking at me with a face about to cry.[pcms]
 
 *4613|
 [fc]
-What's with that... Yuuho doesn't suit such a tearful face...[pcms]
+What's with that... Yuuho doesn't suit such a tearful[r]
+face...[pcms]
 
 *4614|
 [fc]
-The man's grip tightened further, and my vision began to blur red with[r]
-suffocation. Could it be that this is the end?[pcms]
+The man's grip tightened further, and my vision began to[r]
+blur red with suffocation. Could it be that this is the end?[pcms]
 
 *4615|
 [fc]
@@ -146,8 +150,9 @@ Without being able to save Yuuho? Right in front of her?[pcms]
 
 *4618|
 [fc]
-The last thing I felt before my consciousness was swallowed by darkness was[r]
-Yuuho's crying voice and a warm sensation on my neck.[pcms]
+The last thing I felt before my consciousness was swallowed[r]
+by darkness was Yuuho's crying voice and a warm sensation on[r]
+my neck.[pcms]
 
 ;//ゲームオーバー
 [gameover time=0 movie="gameover.mpg"]

@@ -30,51 +30,54 @@
 
 *161|
 [fc]
-Just as I was about to dash towards the music room, I was held back and looked[r]
-at my senior with dissatisfaction.[pcms]
+Just as I was about to dash towards the music room, I was[r]
+held back and looked at my senior with dissatisfaction.[pcms]
 
 *162|
 [fc]
-But the senior silently directed her gaze down the corridor leading to the music[r]
-room.[pcms]
+But the senior silently directed her gaze down the corridor[r]
+leading to the music room.[pcms]
 
 *163|
 [fc]
-The third floor, which I peeked at quietly, was more crowded with people than[r]
-ever before.[pcms]
+The third floor, which I peeked at quietly, was more crowded[r]
+with people than ever before.[pcms]
 
 *164|
 [fc]
-Or rather, should I say it was overflowing with infected people?[pcms]
+Or rather, should I say it was overflowing with infected[r]
+people?[pcms]
 
 *165|
 [fc]
-Fortunately, the other infected were preoccupied with devouring each other and[r]
-hadn't noticed us.[pcms]
+Fortunately, the other infected were preoccupied with[r]
+devouring each other and hadn't noticed us.[pcms]
 
 *166|
 [fc]
-For a moment, I looked for an escape route down the stairs, but I could hear[r]
-groaning coming from below.[pcms]
+For a moment, I looked for an escape route down the stairs,[r]
+but I could hear groaning coming from below.[pcms]
 
 *167|
 [fc]
-Perhaps the infected person who was only kicked by my senior had come back to[r]
-life.[pcms]
+Perhaps the infected person who was only kicked by my senior[r]
+had come back to life.[pcms]
 
 *168|
 [fc]
-The top floor has a handball court and a basketball court on the rooftop.[pcms]
+The top floor has a handball court and a basketball court on[r]
+the rooftop.[pcms]
 
 *169|
 [fc]
-Of course, it's covered with fences, but it's not impossible to escape to[r]
-another building by climbing along the roof.[pcms]
+Of course, it's covered with fences, but it's not impossible[r]
+to escape to another building by climbing along the roof.[pcms]
 
 *170|
 [fc]
-But whether Ren and I could escape through such a place... no, that's a worry[r]
-for after we rescue Ren from the music room![pcms]
+But whether Ren and I could escape through such a place...[r]
+no, that's a worry for after we rescue Ren from the music[r]
+room![pcms]
 
 *171|
 [fc]
@@ -109,8 +112,9 @@ for after we rescue Ren from the music room![pcms]
 *175|
 [fc]
 [ns]Wataru[nse]
-"I know. In front of us is a horde of them! The music room where Ren is... is[r]
-beyond them. But that's exactly why we have to go!"[pcms]
+"I know. In front of us is a horde of them! The music room[r]
+where Ren is... is beyond them. But that's exactly why we[r]
+have to go!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -123,8 +127,8 @@ beyond them. But that's exactly why we have to go!"[pcms]
 *177|
 [fc]
 [ns]Wataru[nse]
-"The bottom is no good, the only escape route is to flee along the rooftop. But[r]
-we have to go. Because Ren is there."[pcms]
+"The bottom is no good, the only escape route is to flee[r]
+along the rooftop. But we have to go. Because Ren is there."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -132,14 +136,15 @@ we have to go. Because Ren is there."[pcms]
 [fc]
 [vo_mar s="maru0069"]
 [ns]Margarita[nse]
-"Hmph. I thought you were too peace-loving, but you're sensible. It's basic to[r]
-check the escape routes first."[pcms]
+"Hmph. I thought you were too peace-loving, but you're[r]
+sensible. It's basic to check the escape routes first."[pcms]
 
 *179|
 [fc]
-With a slight smile, my senior looked in the opposite direction of the music[r]
-room and skillfully took out a mop from the janitor's closet in the hallway[r]
-while watching for an opening.[pcms]
+With a slight smile, my senior looked in the opposite[r]
+direction of the music room and skillfully took out a mop[r]
+from the janitor's closet in the hallway while watching for[r]
+an opening.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -147,7 +152,8 @@ while watching for an opening.[pcms]
 [fc]
 [vo_mar s="maru0070"]
 [ns]Margarita[nse]
-"Is it made of plastic? Isn't there a mop with a wooden handle?"[pcms]
+"Is it made of plastic? Isn't there a mop with a wooden[r]
+handle?"[pcms]
 
 *181|
 [fc]
@@ -165,8 +171,9 @@ while watching for an opening.[pcms]
 *183|
 [fc]
 [ns]Wataru[nse]
-"That's why... isn't it? Our school isn't like that, but I've heard stories[r]
-about delinquents causing trouble in other places in the past."[pcms]
+"That's why... isn't it? Our school isn't like that, but[r]
+I've heard stories about delinquents causing trouble in[r]
+other places in the past."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -174,12 +181,14 @@ about delinquents causing trouble in other places in the past."[pcms]
 [fc]
 [vo_mar s="maru0072"]
 [ns]Margarita[nse]
-"Now instead of delinquents, we have these unknown creatures causing havoc."[pcms]
+"Now instead of delinquents, we have these unknown creatures[r]
+causing havoc."[pcms]
 
 *185|
 [fc]
-While smiling thinly, she took a mop in one hand, fixed the wiping part with her[r]
-foot, and deftly unscrewed the handle with a twirl.[pcms]
+While smiling thinly, she took a mop in one hand, fixed the[r]
+wiping part with her foot, and deftly unscrewed the handle[r]
+with a twirl.[pcms]
 
 *186|
 [fc]
@@ -194,12 +203,13 @@ foot, and deftly unscrewed the handle with a twirl.[pcms]
 
 *188|
 [fc]
-One of the men who had been vigorously moving his hips stood up unsteadily as if[r]
-he had caught the scent of my senior.[pcms]
+One of the men who had been vigorously moving his hips stood[r]
+up unsteadily as if he had caught the scent of my senior.[pcms]
 
 *189|
 [fc]
-The female student who had been with the man followed suit...[pcms]
+The female student who had been with the man followed[r]
+suit...[pcms]
 
 *190|
 [fc]
@@ -211,8 +221,9 @@ In a panic, I also grabbed a mop and held it firmly.[pcms]
 [fc]
 [vo_mar s="maru0073"]
 [ns]Margarita[nse]
-"It would be better to use just the handle... but it can't be helped. You can't[r]
-use staff or spear techniques, can you?"[pcms]
+"It would be better to use just the handle... but it can't[r]
+be helped. You can't use staff or spear techniques, can[r]
+you?"[pcms]
 
 *192|
 [fc]
@@ -225,9 +236,9 @@ use staff or spear techniques, can you?"[pcms]
 [fc]
 [vo_mar s="maru0074"]
 [ns]Margarita[nse]
-"Combat techniques using a staff or spear. Anyway, you just need to aim straight[r]
-for the belly and chest with the end of the handle. Even you can do that much,[r]
-right?"[pcms]
+"Combat techniques using a staff or spear. Anyway, you just[r]
+need to aim straight for the belly and chest with the end of[r]
+the handle. Even you can do that much, right?"[pcms]
 
 *194|
 [fc]
@@ -250,8 +261,8 @@ right?"[pcms]
 ;mm こっちにテキスト移動
 *197|
 [fc]
-While giving me pointers, she quickly took down the attacking man by thrusting[r]
-him with the end of the mop.[pcms]
+While giving me pointers, she quickly took down the[r]
+attacking man by thrusting him with the end of the mop.[pcms]
 
 
 [ChrSetEx layer=5 chbase="kansen_a"][ChrSetXY layer=5 x=148 y=0][trans_c cross time=150]
@@ -269,8 +280,8 @@ him with the end of the mop.[pcms]
 [chara_int][trans_c cross time=150]
 
 ;	*197|
-; While giving me pointers, she quickly took down the attacking man by ;[r]
-thrusting him with the end of the mop.[pcms]
+; While giving me pointers, she quickly took down the[r]
+attacking man by ; thrusting him with the end of the mop.[pcms]
 
 *198|
 [fc]
@@ -278,19 +289,19 @@ Of course, she showed no mercy even to the girls.[pcms]
 
 *199|
 [fc]
-I followed behind my senior, aiming mostly at men and taking them down, but her[r]
-efficiency was amazing.[pcms]
+I followed behind my senior, aiming mostly at men and taking[r]
+them down, but her efficiency was amazing.[pcms]
 
 *200|
 [fc]
-I felt there was more than just the difference between someone who knew combat[r]
-techniques and someone who didn't.[pcms]
+I felt there was more than just the difference between[r]
+someone who knew combat techniques and someone who didn't.[pcms]
 
 *201|
 [fc]
-Compared to my senior who almost single-handedly took them down without even[r]
-letting them scream, I had to thrust two or three times before they would even[r]
-fall over.[pcms]
+Compared to my senior who almost single-handedly took them[r]
+down without even letting them scream, I had to thrust two[r]
+or three times before they would even fall over.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -342,7 +353,8 @@ fall over.[pcms]
 [fc]
 [vo_mob s="jogaku2_0003"]
 [ns]Infected Female Student F[nse]
-"It feels good. Hey, you want to be thrust into like this, don't you?"[pcms]
+"It feels good. Hey, you want to be thrust into like this,[r]
+don't you?"[pcms]
 
 [se buf=0 storage="se012"]
 
@@ -353,28 +365,29 @@ fall over.[pcms]
 
 *208|
 [fc]
-As if paving a road to death, my senior took down one after another of those[r]
-attacking us.[pcms]
+As if paving a road to death, my senior took down one after[r]
+another of those attacking us.[pcms]
 
 *209|
 [fc]
-The distance that would normally take just a dozen seconds to walk felt absurdly[r]
-long.[pcms]
+The distance that would normally take just a dozen seconds[r]
+to walk felt absurdly long.[pcms]
 
 *210|
 [fc]
-Fortunately, even if I just knocked them down, it took them some time to get[r]
-back up.[pcms]
+Fortunately, even if I just knocked them down, it took them[r]
+some time to get back up.[pcms]
 
 *211|
 [fc]
-By skillfully knocking down those of the opposite sex nearby, they would stop[r]
-chasing us and start having sex right there on the spot.[pcms]
+By skillfully knocking down those of the opposite sex[r]
+nearby, they would stop chasing us and start having sex[r]
+right there on the spot.[pcms]
 
 *212|
 [fc]
-There were some male students among them, but essentially, the outsiders here[r]
-were mostly old men.[pcms]
+There were some male students among them, but essentially,[r]
+the outsiders here were mostly old men.[pcms]
 
 *213|
 [fc]
@@ -382,8 +395,9 @@ And... most of the girls were students from our academy.[pcms]
 
 *214|
 [fc]
-It felt like a guilty burden, as if we were offering the girls up as sacrifices[r]
-to these old men, but they were already infected and it's what they desired.[pcms]
+It felt like a guilty burden, as if we were offering the[r]
+girls up as sacrifices to these old men, but they were[r]
+already infected and it's what they desired.[pcms]
 
 *215|
 [fc]
@@ -391,18 +405,19 @@ No, I don't really know if that's true.[pcms]
 
 *216|
 [fc]
-But, using that as an excuse to convince myself, we continued towards the music[r]
-room.[pcms]
+But, using that as an excuse to convince myself, we[r]
+continued towards the music room.[pcms]
 
 *217|
 [fc]
-However, the closer we got to the music room, the more it seemed like a scene[r]
-from hell or paradise, I couldn't tell which, but it was a massive orgy.[pcms]
+However, the closer we got to the music room, the more it[r]
+seemed like a scene from hell or paradise, I couldn't tell[r]
+which, but it was a massive orgy.[pcms]
 
 *218|
 [fc]
-Everywhere there were girls taking on several men by themselves, or men taking[r]
-on several women...[pcms]
+Everywhere there were girls taking on several men by[r]
+themselves, or men taking on several women...[pcms]
 
 *219|
 [fc]
@@ -410,13 +425,14 @@ And they were quickly switching partners one after another.[pcms]
 
 *220|
 [fc]
-It was like a mass of dumplings or a wall of flesh; I couldn't quite understand[r]
-it, but it didn't seem easy to get into the music room.[pcms]
+It was like a mass of dumplings or a wall of flesh; I[r]
+couldn't quite understand it, but it didn't seem easy to get[r]
+into the music room.[pcms]
 
 *221|
 [fc]
-However, the fact that the door was closed meant there was a possibility that no[r]
-infected had gotten inside yet.[pcms]
+However, the fact that the door was closed meant there was a[r]
+possibility that no infected had gotten inside yet.[pcms]
 
 *222|
 [fc]
@@ -441,13 +457,14 @@ But...[pcms]
 
 *226|
 [fc]
-While taking down new enemies, my senior said in a calm and cold voice.[pcms]
+While taking down new enemies, my senior said in a calm and[r]
+cold voice.[pcms]
 
 *227|
 [fc]
 [ns]Wataru[nse]
-"But the door to the music room is right there... If I stretch out the mop, I[r]
-could almost touch it."[pcms]
+"But the door to the music room is right there... If I[r]
+stretch out the mop, I could almost touch it."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -466,23 +483,25 @@ could almost touch it."[pcms]
 
 *230|
 [fc]
-In front of us was a mass of infected people copulating in a dumpling-like[r]
-state.[pcms]
+In front of us was a mass of infected people copulating in a[r]
+dumpling-like state.[pcms]
 
 *231|
 [fc]
-The ones behind us have been lying on the floor since earlier... No, they're[r]
-getting up and starting to come towards us.[pcms]
+The ones behind us have been lying on the floor since[r]
+earlier... No, they're getting up and starting to come[r]
+towards us.[pcms]
 
 *232|
 [fc]
-Their movements are slow, but unlike us, they don't need to fight off other[r]
-infected or take them down, so their speed is similar to ours.[pcms]
+Their movements are slow, but unlike us, they don't need to[r]
+fight off other infected or take them down, so their speed[r]
+is similar to ours.[pcms]
 
 *233|
 [fc]
-No, considering the number of people we have to take down from here on out, they[r]
-will definitely catch up to us.[pcms]
+No, considering the number of people we have to take down[r]
+from here on out, they will definitely catch up to us.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -494,8 +513,8 @@ will definitely catch up to us.[pcms]
 
 *235|
 [fc]
-The cold voice of my senior echoed down the hallway like an officer announcing[r]
-retreat to his troops.[pcms]
+The cold voice of my senior echoed down the hallway like an[r]
+officer announcing retreat to his troops.[pcms]
 
 *236|
 [fc]
@@ -503,7 +522,8 @@ But... we're so close. Ren is right there.[pcms]
 
 *237|
 [fc]
-But if we miss this moment, we might not even have a chance to escape anymore.[pcms]
+But if we miss this moment, we might not even have a chance[r]
+to escape anymore.[pcms]
 
 *238|
 [fc]
@@ -524,7 +544,8 @@ What am I going to do?[pcms]
 ;	[link storage="30070.ks" target=*30070_TOP]……あきらめよう……[endlink]
 ;	[link storage="30090.ks" target=*30090_TOP]強行突破して音楽室へ！！[endlink]
 ;	;[link storage="30100.ks" target=*30100_TOP]時間切れ[endlink]
-;       (link storage="30100.ks" target=*30100_TOP)Damn it...(endlink)[pcms]
+;       (link storage="30100.ks" target=*30100_TOP)Damn[r]
+it...(endlink)[pcms]
 
 *SEL20|……あきらめよう……／強行突破して音楽室へ！！／くそ……
 [fc]

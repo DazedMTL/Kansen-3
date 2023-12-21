@@ -32,8 +32,8 @@
 
 *817|
 [fc]
-The roar of a squadron could be heard from somewhere. I can't see it from[r]
-between the buildings, but...[pcms]
+The roar of a squadron could be heard from somewhere. I[r]
+can't see it from between the buildings, but...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -49,16 +49,18 @@ between the buildings, but...[pcms]
 
 *820|
 [fc]
-We were squeezed into a gap between the LASER and the gun shop.[pcms]
+We were squeezed into a gap between the LASER and the gun[r]
+shop.[pcms]
 
 *821|
 [fc]
-Even with walls, it's not wise to be spotted by the infected on the main street[r]
-since they aren't very tall.[pcms]
+Even with walls, it's not wise to be spotted by the infected[r]
+on the main street since they aren't very tall.[pcms]
 
 *822|
 [fc]
-While being kicked along by Kousuke, we moved in front of LASER.[pcms]
+While being kicked along by Kousuke, we moved in front of[r]
+LASER.[pcms]
 
 *823|
 [fc]
@@ -67,9 +69,9 @@ While being kicked along by Kousuke, we moved in front of LASER.[pcms]
 
 *824|
 [fc]
-The door leading to the corridor from the gun shop side could be easily unlocked[r]
-from the inside. The problem was whether it would be the same for the LASER[r]
-building...[pcms]
+The door leading to the corridor from the gun shop side[r]
+could be easily unlocked from the inside. The problem was[r]
+whether it would be the same for the LASER building...[pcms]
 
 *825|
 [fc]
@@ -78,8 +80,9 @@ building...[pcms]
 
 *826|
 [fc]
-There are two emergency exits in the LASER building. But the senior who had[r]
-checked the other one just shrugged his shoulders silently.[pcms]
+There are two emergency exits in the LASER building. But the[r]
+senior who had checked the other one just shrugged his[r]
+shoulders silently.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -95,7 +98,8 @@ checked the other one just shrugged his shoulders silently.[pcms]
 
 *829|
 [fc]
-While calming down a frustrated Kousuke, I wondered what to do next.[pcms]
+While calming down a frustrated Kousuke, I wondered what to[r]
+do next.[pcms]
 
 ;//---------------------------------------------------------------
 ;//ÅúëIëéàÇ`Å[ÇP
@@ -106,7 +110,8 @@ While calming down a frustrated Kousuke, I wondered what to do next.[pcms]
 
 ;	[link storage="50110.ks" target=*50110_TOP]èeÇ≈âÛÇªÇ§ÅI[endlink]
 ;	[link storage="50120.ks" target=*50120_TOP]êÊîyÇÃÉLÉbÉNÇ≈ÅI[endlink]
-; (link storage="50130.ks" target=*50130_TOP)...Let's go back(endlink)[pcms]
+; (link storage="50130.ks" target=*50130_TOP)...Let's go[r]
+back(endlink)[pcms]
 
 *SEL41|èeÇ≈âÛÇªÇ§ÅIÅ^êÊîyÇÃÉLÉbÉNÇ≈ÅIÅ^ÅcÅcñﬂÇËÇ‹ÇµÇÂÇ§
 [fc]

@@ -32,7 +32,8 @@
 *3687|
 [fc]
 [ns]Kousuke[nse]
-"Alright, let's get on with the second half of the transport!"[pcms]
+"Alright, let's get on with the second half of the[r]
+transport!"[pcms]
 
 *3688|
 [fc]
@@ -40,19 +41,21 @@ We resumed the task of transporting supplies.[pcms]
 
 *3689|
 [fc]
-Since we had mostly finished exploring in the first half, the main task now was[r]
-to carry in the goods.[pcms]
+Since we had mostly finished exploring in the first half,[r]
+the main task now was to carry in the goods.[pcms]
 
 *3690|
 [fc]
-It was a bit surprising that Jin-san and the others ended up helping us out of[r]
-momentum... but actually, having more hands is helpful.[pcms]
+It was a bit surprising that Jin-san and the others ended up[r]
+helping us out of momentum... but actually, having more[r]
+hands is helpful.[pcms]
 
 *3691|
 [fc]
 [ns]Wataru[nse]
-"But... the DJ Bar's fridge is almost full, right? The large refrigerator at[r]
-"Gyuu Gyuu Tengoku" is almost completely filled with vegetables too."[pcms]
+"But... the DJ Bar's fridge is almost full, right? The large[r]
+refrigerator at "Gyuu Gyuu Tengoku" is almost completely[r]
+filled with vegetables too."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -65,8 +68,9 @@ momentum... but actually, having more hands is helpful.[pcms]
 *3693|
 [fc]
 [ns]Wataru[nse]
-"Uh... oh, there was a fridge at "Dedepou" too. It's safe and good because you[r]
-can go there through the valley, so it'll be safe when we go to fetch it later."[pcms]
+"Uh... oh, there was a fridge at "Dedepou" too. It's safe[r]
+and good because you can go there through the valley, so[r]
+it'll be safe when we go to fetch it later."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -74,8 +78,8 @@ can go there through the valley, so it'll be safe when we go to fetch it later."
 [fc]
 [vo_miz s="mizuki0335"]
 [ns]Mizuki[nse]
-"Let's carry mainly frozen stuff so we don't have to go back and forth too[r]
-much."[pcms]
+"Let's carry mainly frozen stuff so we don't have to go back[r]
+and forth too much."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -93,8 +97,8 @@ much."[pcms]
 
 *3697|
 [fc]
-Grumbling at Mizuki's words, Jin-san and Shigeyoshi started carrying the luggage[r]
-with us, surprisingly obediently.[pcms]
+Grumbling at Mizuki's words, Jin-san and Shigeyoshi started[r]
+carrying the luggage with us, surprisingly obediently.[pcms]
 
 ;//---------------------------------------------------------------
 ;//★以下３行は、感染したチェック。
@@ -111,7 +115,8 @@ with us, surprisingly obediently.[pcms]
 [fc]
 [vo_mar s="maru1687"]
 [ns]Margarita[nse]
-"Frozen seafood... Could there possibly be octopus in this too?"[pcms]
+"Frozen seafood... Could there possibly be octopus in this[r]
+too?"[pcms]
 
 *50600_01_02
 [if exp="f.l_kansen_y==0"][jump storage="50600.ks" target=*50600_02_01][endif]
@@ -125,7 +130,8 @@ with us, surprisingly obediently.[pcms]
 [fc]
 [vo_yuh s="yuho1647"]
 [ns]Yuuho[nse]
-"Come on, hurry up! If we don't carry it quickly, it'll melt!"[pcms]
+"Come on, hurry up! If we don't carry it quickly, it'll[r]
+melt!"[pcms]
 
 *50600_02_02
 [if exp="f.l_kansen_r==0"][jump storage="50600.ks" target=*50600_03][endif]
@@ -148,8 +154,8 @@ with us, surprisingly obediently.[pcms]
 
 *3701|
 [fc]
-While making a racket, everyone started moving towards "Dedepou," each carrying[r]
-as many boxes as they could.[pcms]
+While making a racket, everyone started moving towards[r]
+"Dedepou," each carrying as many boxes as they could.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -157,18 +163,21 @@ as many boxes as they could.[pcms]
 [fc]
 [vo_miz s="mizuki0336"]
 [ns]Mizuki[nse]
-"Speaking of which... we saw a lot of planes yesterday, but none today, huh?"[pcms]
+"Speaking of which... we saw a lot of planes yesterday, but[r]
+none today, huh?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3703|
 [fc]
 [ns]Kousuke[nse]
-"Fuel isn't free, after all. Maybe they're saving it to come help us?"[pcms]
+"Fuel isn't free, after all. Maybe they're saving it to come[r]
+help us?"[pcms]
 
 *3704|
 [fc]
-Kousuke and Mizuki were walking side by side, looking up at the sky as usual.[pcms]
+Kousuke and Mizuki were walking side by side, looking up at[r]
+the sky as usual.[pcms]
 
 *3705|
 [fc]
@@ -222,8 +231,8 @@ Yuuho's face turned bright red as she glared at Shigeyoshi.[pcms]
 *3710|
 [fc]
 [ns]Shigeyoshi[nse]
-"I didn't do anything like that! You're not walking fast enough, so my hand just[r]
-happened to touch it, that's all!"[pcms]
+"I didn't do anything like that! You're not walking fast[r]
+enough, so my hand just happened to touch it, that's all!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -231,19 +240,21 @@ happened to touch it, that's all!"[pcms]
 [fc]
 [vo_yuh s="yuho1650"]
 [ns]Yuuho[nse]
-"It couldn't have been just a touch! You clearly touched it in a lewd way!"[pcms]
+"It couldn't have been just a touch! You clearly touched it[r]
+in a lewd way!"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3712|
 [fc]
 [ns]Shigeyoshi[nse]
-"What did you say!? You're accusing me of something I didn't do...!"[pcms]
+"What did you say!? You're accusing me of something I didn't[r]
+do...!"[pcms]
 
 *3713|
 [fc]
-Neither Yuuho nor Shigeyoshi would give in, and it almost turned into a[r]
-pointless argument... when.[pcms]
+Neither Yuuho nor Shigeyoshi would give in, and it almost[r]
+turned into a pointless argument... when.[pcms]
 
 ;//EV008・マル子キック
 [evcg storage="EV008a"][trans_c cross time=300]
@@ -268,12 +279,13 @@ pointless argument... when.[pcms]
 
 *3716|
 [fc]
-While still holding a box of frozen goods, Maruko-senpai delivered a splendid[r]
-high kick.[pcms]
+While still holding a box of frozen goods, Maruko-senpai[r]
+delivered a splendid high kick.[pcms]
 
 *3717|
 [fc]
-The kick caught Shigeyoshi squarely in the face and hit its mark![pcms]
+The kick caught Shigeyoshi squarely in the face and hit its[r]
+mark![pcms]
 
 ;//〆：ビルの谷間
 [bg storage="BG130"][trans_c cross time=500]
@@ -288,15 +300,16 @@ The kick caught Shigeyoshi squarely in the face and hit its mark![pcms]
 
 *3719|
 [fc]
-Jin-san muttered to himself as he watched Shigeyoshi writhe while holding his[r]
-nose.[pcms]
+Jin-san muttered to himself as he watched Shigeyoshi writhe[r]
+while holding his nose.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3720|
 [fc]
 [ns]Jin[nse]
-"...I have no sympathy. It's your own fault for doing unnecessary things."[pcms]
+"...I have no sympathy. It's your own fault for doing[r]
+unnecessary things."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -337,15 +350,16 @@ Suddenly, Maruko-senpai stopped in her tracks.[pcms]
 
 *3726|
 [fc]
-The person she was glaring at was, predictably or inevitably, Shigeyoshi.[pcms]
+The person she was glaring at was, predictably or[r]
+inevitably, Shigeyoshi.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3727|
 [fc]
 [ns]Shigeyoshi[nse]
-"I didn't do anything like that! You're not walking fast enough, so my hand just[r]
-happened to touch it, that's all!"[pcms]
+"I didn't do anything like that! You're not walking fast[r]
+enough, so my hand just happened to touch it, that's all!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -360,12 +374,13 @@ happened to touch it, that's all!"[pcms]
 *3729|
 [fc]
 [ns]Shigeyoshi[nse]
-"What did you say!? You're accusing me of something I didn't do...!"[pcms]
+"What did you say!? You're accusing me of something I didn't[r]
+do...!"[pcms]
 
 *3730|
 [fc]
-Just when it seemed like Maruko-senpai and Shigeyoshi were about to get into a[r]
-pointless argument...[pcms]
+Just when it seemed like Maruko-senpai and Shigeyoshi were[r]
+about to get into a pointless argument...[pcms]
 
 ;//EV008・マル子キック
 [evcg storage="EV008a"][trans_c cross time=300]
@@ -390,12 +405,13 @@ pointless argument...[pcms]
 
 *3733|
 [fc]
-While still holding a box of frozen goods, Maruko-senpai delivered another[r]
-splendid high kick.[pcms]
+While still holding a box of frozen goods, Maruko-senpai[r]
+delivered another splendid high kick.[pcms]
 
 *3734|
 [fc]
-The kick caught Shigeyoshi squarely in the face and hit its mark![pcms]
+The kick caught Shigeyoshi squarely in the face and hit its[r]
+mark![pcms]
 
 ;//〆：ビルの谷間
 [bg storage="BG130"][trans_c cross time=500]
@@ -410,14 +426,16 @@ The kick caught Shigeyoshi squarely in the face and hit its mark![pcms]
 
 *3736|
 [fc]
-Shigeyoshi, clutching his nose in agony, Jin-san muttered under his breath.[pcms]
+Shigeyoshi, clutching his nose in agony, Jin-san muttered[r]
+under his breath.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3737|
 [fc]
 [ns]Jin[nse]
-"...I have no sympathy. It's because you do unnecessary things."[pcms]
+"...I have no sympathy. It's because you do unnecessary[r]
+things."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -452,19 +470,21 @@ Suddenly, Yuuho let out an extraordinary scream.[pcms]
 [fc]
 [vo_yuh s="yuho1652"]
 [ns]Yuuho[nse]
-"Sa, sa, you touched it! You just touched my butt, didn't you!?"[pcms]
+"Sa, sa, you touched it! You just touched my butt, didn't[r]
+you!?"[pcms]
 
 *3743|
 [fc]
-Yuuho, her face turning bright red, was glaring at Shigeyoshi.[pcms]
+Yuuho, her face turning bright red, was glaring at[r]
+Shigeyoshi.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3744|
 [fc]
 [ns]Shigeyoshi[nse]
-"I didn't do anything like that! You're not walking fast enough, so my hand just[r]
-happened to touch it, that's all!"[pcms]
+"I didn't do anything like that! You're not walking fast[r]
+enough, so my hand just happened to touch it, that's all!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -472,19 +492,21 @@ happened to touch it, that's all!"[pcms]
 [fc]
 [vo_yuh s="yuho1653"]
 [ns]Yuuho[nse]
-"It couldn't have been just a touch! You clearly touched it in a lewd way!"[pcms]
+"It couldn't have been just a touch! You clearly touched it[r]
+in a lewd way!"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3746|
 [fc]
 [ns]Shigeyoshi[nse]
-"What did you say!? You're accusing me of something I didn't do...!"[pcms]
+"What did you say!? You're accusing me of something I didn't[r]
+do...!"[pcms]
 
 *3747|
 [fc]
-Neither Yuuho nor Shigeyoshi would give in, and they were on the verge of[r]
-getting into a pointless argument...[pcms]
+Neither Yuuho nor Shigeyoshi would give in, and they were on[r]
+the verge of getting into a pointless argument...[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -508,12 +530,13 @@ getting into a pointless argument...[pcms]
 
 *3750|
 [fc]
-While still holding a box of frozen goods, Mizuki delivered another splendid[r]
-high kick.[pcms]
+While still holding a box of frozen goods, Mizuki delivered[r]
+another splendid high kick.[pcms]
 
 *3751|
 [fc]
-The kick caught Shigeyoshi squarely in the face and hit its mark![pcms]
+The kick caught Shigeyoshi squarely in the face and hit its[r]
+mark![pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -536,8 +559,8 @@ She looked surprised herself, but we were just as shocked.[pcms]
 
 *3755|
 [fc]
-It was always Maruko-senpai who played this role; has Mizuki's personality[r]
-changed a bit?[pcms]
+It was always Maruko-senpai who played this role; has[r]
+Mizuki's personality changed a bit?[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -548,14 +571,16 @@ changed a bit?[pcms]
 
 *3757|
 [fc]
-Shigeyoshi, clutching his nose in agony, Jin-san muttered under his breath.[pcms]
+Shigeyoshi, clutching his nose in agony, Jin-san muttered[r]
+under his breath.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3758|
 [fc]
 [ns]Jin[nse]
-"...I have no sympathy. It's because you do unnecessary things."[pcms]
+"...I have no sympathy. It's because you do unnecessary[r]
+things."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -582,16 +607,19 @@ And so, the lively moving operation was almost over.[pcms]
 
 *3762|
 [fc]
-Last of all, we went around the clothing store and got some new clothes.[pcms]
+Last of all, we went around the clothing store and got some[r]
+new clothes.[pcms]
 
 *3763|
 [fc]
-The girls insisted on going to the lingerie shop by themselves.[pcms]
+The girls insisted on going to the lingerie shop by[r]
+themselves.[pcms]
 
 *3764|
 [fc]
-Kousuke, who had offered to be their escort, was scolded severely for trying to[r]
-follow them, which was rather amusing.[pcms]
+Kousuke, who had offered to be their escort, was scolded[r]
+severely for trying to follow them, which was rather[r]
+amusing.[pcms]
 
 ;//〆アルカディア
 [bg storage="BG020a"][trans_c cross time=500]
@@ -614,13 +642,13 @@ follow them, which was rather amusing.[pcms]
 
 *3767|
 [fc]
-Kousuke and I returned to the manga cafe first and changed into our newly[r]
-acquired clothes.[pcms]
+Kousuke and I returned to the manga cafe first and changed[r]
+into our newly acquired clothes.[pcms]
 
 *3768|
 [fc]
-Changing into a new shirt and putting on a belt with jeans. Just like Kousuke[r]
-said, it felt a bit more tightening.[pcms]
+Changing into a new shirt and putting on a belt with jeans.[r]
+Just like Kousuke said, it felt a bit more tightening.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -631,12 +659,13 @@ said, it felt a bit more tightening.[pcms]
 
 *3770|
 [fc]
-During the change, Kousuke tucked the Beretta he had placed aside into his belt.[pcms]
+During the change, Kousuke tucked the Beretta he had placed[r]
+aside into his belt.[pcms]
 
 *3771|
 [fc]
-I also took Tadahiko's Bob. Chow. Special and was about to tuck it into my[r]
-belt...[pcms]
+I also took Tadahiko's Bob. Chow. Special and was about to[r]
+tuck it into my belt...[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -648,32 +677,36 @@ belt...[pcms]
 
 *3773|
 [fc]
-I had always been curious about the hook attached to the gun... When I hooked it[r]
-onto my belt, the gun smartly hung down.[pcms]
+I had always been curious about the hook attached to the[r]
+gun... When I hooked it onto my belt, the gun smartly hung[r]
+down.[pcms]
 
 *3774|
 [fc]
-I never knew what the hook was for, but now I finally understood its use.[pcms]
+I never knew what the hook was for, but now I finally[r]
+understood its use.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3775|
 [fc]
 [ns]Kousuke[nse]
-"Alright. Ready to go! Now we're prepared for anything that might happen!"[pcms]
+"Alright. Ready to go! Now we're prepared for anything that[r]
+might happen!"[pcms]
 
 *3776|
 [fc]
 [ns]Wataru[nse]
-"Cut it out, Kousuke. It would be trouble if anything were to happen."[pcms]
+"Cut it out, Kousuke. It would be trouble if anything were[r]
+to happen."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3777|
 [fc]
-While laughing, I couldn't help but think. The "something" in "if something[r]
-happens" means...[pcms]
+While laughing, I couldn't help but think. The "something"[r]
+in "if something happens" means...[pcms]
 
 *3778|
 [fc]
@@ -685,11 +718,13 @@ It means... that sort of thing...[pcms]
 
 *3780|
 [fc]
-If it were an unknown infected person, maybe I could shoot without hesitation.[pcms]
+If it were an unknown infected person, maybe I could shoot[r]
+without hesitation.[pcms]
 
 *3781|
 [fc]
-But if it were someone I knew... If by any chance one of us got infected...?[pcms]
+But if it were someone I knew... If by any chance one of us[r]
+got infected...?[pcms]
 
 *3782|
 [fc]

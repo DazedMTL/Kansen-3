@@ -24,24 +24,27 @@
 
 *173|
 [fc]
-...It seems unlikely, but if I think about it calmly, it's not impossible.[pcms]
+...It seems unlikely, but if I think about it calmly, it's[r]
+not impossible.[pcms]
 
 *174|
 [fc]
-When we were attacked by the infected at the academy, I haven't heard the[r]
-details about what happened before I met up with Kousuke... Could there have[r]
-been some contact...?[pcms]
+When we were attacked by the infected at the academy, I[r]
+haven't heard the details about what happened before I met[r]
+up with Kousuke... Could there have been some contact...?[pcms]
 
 *175|
 [fc]
-Moreover, the news said that there's a risk of infection even for the elderly[r]
-and children who have been vaccinated...[pcms]
+Moreover, the news said that there's a risk of infection[r]
+even for the elderly and children who have been[r]
+vaccinated...[pcms]
 
 *176|
 [fc]
-The fact that the elderly and children are in danger means that those with[r]
-weaker immune systems might be susceptible to airborne transmission. Ren, with[r]
-her frail body, couldn't possibly have strong resistance...[pcms]
+The fact that the elderly and children are in danger means[r]
+that those with weaker immune systems might be susceptible[r]
+to airborne transmission. Ren, with her frail body, couldn't[r]
+possibly have strong resistance...[pcms]
 
 *177|
 [fc]

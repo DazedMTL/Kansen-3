@@ -38,12 +38,14 @@
 
 *6754|
 [fc]
-Ren, with tears streaming down her face, begins to cry tears of joy.[pcms]
+Ren, with tears streaming down her face, begins to cry tears[r]
+of joy.[pcms]
 
 *6755|
 [fc]
-Father has already pulled out the shiny black object from Ren's mouth. He used[r]
-that to create Ren, huh~. Thinking about it, it's kind of moving.[pcms]
+Father has already pulled out the shiny black object from[r]
+Ren's mouth. He used that to create Ren, huh~. Thinking[r]
+about it, it's kind of moving.[pcms]
 
 *6756|
 [fc]
@@ -70,13 +72,15 @@ that to create Ren, huh~. Thinking about it, it's kind of moving.[pcms]
 *6759|
 [fc]
 [ns]Wataru[nse]
-"Yeah. Ren was created by putting your thing into Ren's mother's pussy. So,[r]
-putting it into Ren's pussy would be moving, wouldn't it?"[pcms]
+"Yeah. Ren was created by putting your thing into Ren's[r]
+mother's pussy. So, putting it into Ren's pussy would be[r]
+moving, wouldn't it?"[pcms]
 
 *6760|
 [fc]
 [ns]Father[nse]
-"That's true~. Maybe I'll make a documentary like that next time~"[pcms]
+"That's true~. Maybe I'll make a documentary like that next[r]
+time~"[pcms]
 
 *6761|
 [fc]
@@ -86,7 +90,8 @@ putting it into Ren's pussy would be moving, wouldn't it?"[pcms]
 *6762|
 [fc]
 [ns]Father[nse]
-"Ahh~! The butt, huh~. Maybe I'll put it in there later too~"[pcms]
+"Ahh~! The butt, huh~. Maybe I'll put it in there later[r]
+too~"[pcms]
 
 ;//@konya HEV036
 [evcg storage="HEV036a"][trans_c cross time=300]
@@ -100,29 +105,32 @@ putting it into Ren's pussy would be moving, wouldn't it?"[pcms]
 *6764|
 [fc]
 [ns]Wataru[nse]
-"You don't have to be so shy~. Everyone's doing it these days~"[pcms]
+"You don't have to be so shy~. Everyone's doing it these[r]
+days~"[pcms]
 
 *6765|
 [fc]
 [vo_ren s="ren0795"]
 [ns]Ren[nse]
-"No, no... that's weird...!! Not the butt~! I don't want it~!!"[pcms]
+"No, no... that's weird...!! Not the butt~! I don't want[r]
+it~!!"[pcms]
 
 *6766|
 [fc]
 [ns]Wataru[nse]
-"No way~ If you're that picky about eating, Ren won't get healthy~"[pcms]
+"No way~ If you're that picky about eating, Ren won't get[r]
+healthy~"[pcms]
 
 *6767|
 [fc]
-I press the object that was wedged in the valley of Ren's butt against her[r]
-small, cute pink bud.[pcms]
+I press the object that was wedged in the valley of Ren's[r]
+butt against her small, cute pink bud.[pcms]
 
 *6768|
 [fc]
 [ns]Wataru[nse]
-"Ren's butt... it's so pretty and small~, just looking at it drives me wild. I[r]
-want to put it in quickly~"[pcms]
+"Ren's butt... it's so pretty and small~, just looking at it[r]
+drives me wild. I want to put it in quickly~"[pcms]
 
 *6769|
 [fc]
@@ -177,8 +185,9 @@ I'm all ready to go. All that's left is to put it in~.[pcms]
 
 *6777|
 [fc]
-Ren's small pink bud in her butt spreads wide open as if tearing apart when I[r]
-push in with all my might, accepting me.[pcms]
+Ren's small pink bud in her butt spreads wide open as if[r]
+tearing apart when I push in with all my might, accepting[r]
+me.[pcms]
 
 *6778|
 [fc]
@@ -189,45 +198,47 @@ push in with all my might, accepting me.[pcms]
 [fc]
 [vo_ren s="ren0799"]
 [ns]Ren[nse]
-"Ugguh... ubuh... haaaah...! Iggy... it hurts... it hurts so much... ahh! Haa...[r]
-haa... haa..."[pcms]
+"Ugguh... ubuh... haaaah...! Iggy... it hurts... it hurts so[r]
+much... ahh! Haa... haa... haa..."[pcms]
 
 *6780|
 [fc]
 [ns]Wataru[nse]
-"Yeah, that's right~! Inside Ren is so tight it feels like tearing, and it hurts[r]
-so good~! My thing feels like it's going to tear apart too~!"[pcms]
+"Yeah, that's right~! Inside Ren is so tight it feels like[r]
+tearing, and it hurts so good~! My thing feels like it's[r]
+going to tear apart too~!"[pcms]
 
 *6781|
 [fc]
 [ns]Father[nse]
-"Ahh... truly, Ren's pussy is so tight. It feels amazing to have raised her so[r]
-well~"[pcms]
+"Ahh... truly, Ren's pussy is so tight. It feels amazing to[r]
+have raised her so well~"[pcms]
 
 *6782|
 [fc]
 [vo_ren s="ren0800"]
 [ns]Ren[nse]
-"Ubuuh... ahh... ugguh... nooo. Ihhaaah...! Ahh... haa... haa... haaa..."[pcms]
+"Ubuuh... ahh... ugguh... nooo. Ihhaaah...! Ahh... haa...[r]
+haa... haaa..."[pcms]
 
 *6783|
 [fc]
 [ns]Wataru[nse]
-"But~, the tip is slippery and warm but not moving doesn't feel very good. Maybe[r]
-it's time to start moving~"[pcms]
+"But~, the tip is slippery and warm but not moving doesn't[r]
+feel very good. Maybe it's time to start moving~"[pcms]
 
 *6784|
 [fc]
 [ns]Father[nse]
-"Yeah~, I want to start moving soon too. It would be a waste not to move now.[r]
-Let's go~"[pcms]
+"Yeah~, I want to start moving soon too. It would be a waste[r]
+not to move now. Let's go~"[pcms]
 
 *6785|
 [fc]
 [vo_ren s="ren0801"]
 [ns]Ren[nse]
-"Ihyaa! If you move... ububuh... Ahh... I'll break... ubuh... ahh...! Stop it~[r]
-Father... brother..."[pcms]
+"Ihyaa! If you move... ububuh... Ahh... I'll break...[r]
+ubuh... ahh...! Stop it~ Father... brother..."[pcms]
 
 *6786|
 [fc]
@@ -248,8 +259,8 @@ Father... brother..."[pcms]
 
 *6789|
 [fc]
-When we thrust into Ren all at once, she lets out a strange noise like a[r]
-squashed frog.[pcms]
+When we thrust into Ren all at once, she lets out a strange[r]
+noise like a squashed frog.[pcms]
 
 *6790|
 [fc]
@@ -259,12 +270,14 @@ squashed frog.[pcms]
 *6791|
 [fc]
 [ns]Father[nse]
-"Ahh, her pussy is clamping down so tight it hurts. Ahh~ the pain feels good~!"[pcms]
+"Ahh, her pussy is clamping down so tight it hurts. Ahh~ the[r]
+pain feels good~!"[pcms]
 
 *6792|
 [fc]
-I feel incredibly good too. The entrance to Ren's butt is still biting down as[r]
-if to tear off, and the hot, slippery flesh inside hits the tip...[pcms]
+I feel incredibly good too. The entrance to Ren's butt is[r]
+still biting down as if to tear off, and the hot, slippery[r]
+flesh inside hits the tip...[pcms]
 
 *6793|
 [fc]
@@ -401,29 +414,32 @@ I thrust my hips up with all the pleasure I can muster.[pcms]
 [fc]
 [vo_ren s="ren0808"]
 [ns]Ren[nse]
-"Afufuuuh... haaaah... Brother~, Father~. Nnh... nnnh! ...Ah! Ahh...!"[pcms]
+"Afufuuuh... haaaah... Brother~, Father~. Nnh... nnnh![r]
+...Ah! Ahh...!"[pcms]
 ;//＠　発症しはじめ快感まじりのあえぎ
 
 *6799|
 [fc]
-When Father and I thrust up from below with all our might, Ren starts to make[r]
-sweet noises.[pcms]
+When Father and I thrust up from below with all our might,[r]
+Ren starts to make sweet noises.[pcms]
 
 *6800|
 [fc]
-Ren's butt still clamps down on my thing as if to bite it off, and her belly[r]
-inside is warm and sticky-soft. It's very tight and messy~.[pcms]
+Ren's butt still clamps down on my thing as if to bite it[r]
+off, and her belly inside is warm and sticky-soft. It's very[r]
+tight and messy~.[pcms]
 
 *6801|
 [fc]
-Different from before, we move fiercely and wildly. Surely because Father's[r]
-splendid thing is inside her from before. Ahh, the tip rubs against it and feels[r]
-amazing!![pcms]
+Different from before, we move fiercely and wildly. Surely[r]
+because Father's splendid thing is inside her from before.[r]
+Ahh, the tip rubs against it and feels amazing!![pcms]
 
 *6802|
 [fc]
 [ns]Wataru[nse]
-"As expected, it's incredible~. Inside Ren's butt is amazing~"[pcms]
+"As expected, it's incredible~. Inside Ren's butt is[r]
+amazing~"[pcms]
 
 ;//@konya　コメントオフ部から移植
 
@@ -436,7 +452,8 @@ amazing!![pcms]
 *6804|
 [fc]
 [ns]Wataru[nse]
-"It's getting so tight, it feels good~. Ren's virgin ass is amazing~!!"[pcms]
+"It's getting so tight, it feels good~. Ren's virgin ass is[r]
+amazing~!!"[pcms]
 
 *6805|
 [fc]
@@ -445,7 +462,8 @@ Red, slippery liquid drips from Ren's ass, just like before.[pcms]
 *6806|
 [fc]
 [ns]Wataru[nse]
-"Ahh! It's so good~. Being a virgin is amazing~! Ahahahaha~!!"[pcms]
+"Ahh! It's so good~. Being a virgin is amazing~![r]
+Ahahahaha~!!"[pcms]
 
 ;//@konya HEV036
 [evcg storage="HEV036h"][trans_c cross time=300]
@@ -454,25 +472,28 @@ Red, slippery liquid drips from Ren's ass, just like before.[pcms]
 [fc]
 [vo_ren s="ren0809"]
 [ns]Ren[nse]
-"Hiuuuh! Haaaah! Ahh~!! Ahh... Ahhhn! Auuhhh!! It feels so good~!!"[pcms]
+"Hiuuuh! Haaaah! Ahh~!! Ahh... Ahhhn! Auuhhh!! It feels so[r]
+good~!!"[pcms]
 
 *6808|
 [fc]
 [ns]Father[nse]
-"Ahh... Ren's insides are amazing~. We've only just started moving seriously~"[pcms]
+"Ahh... Ren's insides are amazing~. We've only just started[r]
+moving seriously~"[pcms]
 
 *6809|
 [fc]
 [ns]Father[nse]
-"As expected of my pride and joy daughter~. Ahh! It's amazing~! It's writhing![r]
-The tightness is good~! It feels like it's going to tear off~!"[pcms]
+"As expected of my pride and joy daughter~. Ahh! It's[r]
+amazing~! It's writhing! The tightness is good~! It feels[r]
+like it's going to tear off~!"[pcms]
 
 *6810|
 [fc]
 [vo_ren s="ren0810"]
 [ns]Ren[nse]
-"Abuu! My, my stomach is being pushed up... agigii! Uuh...! Higii! Higiiii!![r]
-Ahhiiii! I... I..."[pcms]
+"Abuu! My, my stomach is being pushed up... agigii! Uuh...![r]
+Higii! Higiiii!! Ahhiiii! I... I..."[pcms]
 ;//＠　感染が発症する寸前で　苦痛を悦びはじめている
 
 *6811|
@@ -483,8 +504,8 @@ Ahhiiii! I... I..."[pcms]
 *6812|
 [fc]
 [ns]Wataru[nse]
-"Inside Ren's ass is too good~. It's hot and gooey and squishy~! Plus, it's[r]
-being kneaded~ it's all messy~!"[pcms]
+"Inside Ren's ass is too good~. It's hot and gooey and[r]
+squishy~! Plus, it's being kneaded~ it's all messy~!"[pcms]
 
 *6813|
 [fc]
@@ -498,7 +519,8 @@ I feel so good, I want to cum already!![pcms]
 *6815|
 [fc]
 [ns]Father[nse]
-"Ahh! Me too~. I'm going to release plenty~! Plenty for Ren~!!"[pcms]
+"Ahh! Me too~. I'm going to release plenty~! Plenty for[r]
+Ren~!!"[pcms]
 
 *6816|
 [fc]
@@ -543,13 +565,14 @@ Ren screamed loudly as she peed.[pcms]
 [fc]
 [vo_ren s="ren0812"]
 [ns]Ren[nse]
-"Ahh~~, I'm peeing~! Ahh~~!! It's coming out~~!! It feels so good~~!!"[pcms]
+"Ahh~~, I'm peeing~! Ahh~~!! It's coming out~~!! It feels so[r]
+good~~!!"[pcms]
 
 *6822|
 [fc]
 [ns]Wataru[nse]
-"Ahh, as expected, Ren feels good~. Ren's ass and pussy are cute too~. The pee[r]
-is also warm and feels good~"[pcms]
+"Ahh, as expected, Ren feels good~. Ren's ass and pussy are[r]
+cute too~. The pee is also warm and feels good~"[pcms]
 
 *6823|
 [fc]
@@ -560,12 +583,14 @@ is also warm and feels good~"[pcms]
 [fc]
 [vo_ren s="ren0813"]
 [ns]Ren[nse]
-"Nnn... Ahh... ...Ufufufufu~. Thank you~ Big brother! Father~!"[pcms]
+"Nnn... Ahh... ...Ufufufufu~. Thank you~ Big brother![r]
+Father~!"[pcms]
 ;//＠完全発症　淫乱化
 
 *6825|
 [fc]
-Ren turned around and laughed naughtily at me. With her rabbit-like red eyes~.[pcms]
+Ren turned around and laughed naughtily at me. With her[r]
+rabbit-like red eyes~.[pcms]
 
 *6826|
 [fc]
@@ -573,7 +598,8 @@ Ah, that's right~. What was it again?[pcms]
 
 *6827|
 [fc]
-I don't know why, but I'm happy that Ren is also a part of us~.[pcms]
+I don't know why, but I'm happy that Ren is also a part of[r]
+us~.[pcms]
 
 ;//@konya HEV036　二穴挿し　発病
 [evcg storage="HEV036h"][trans_c cross time=300]
@@ -582,8 +608,8 @@ I don't know why, but I'm happy that Ren is also a part of us~.[pcms]
 [fc]
 [vo_ren s="ren0814"]
 [ns]Ren[nse]
-"Big brother, Father, I want more~. Let me drink lots of sperm~. I want to drink[r]
-lots with my mouth and pussy~"[pcms]
+"Big brother, Father, I want more~. Let me drink lots of[r]
+sperm~. I want to drink lots with my mouth and pussy~"[pcms]
 
 *6829|
 [fc]
@@ -599,25 +625,27 @@ lots with my mouth and pussy~"[pcms]
 *6831|
 [fc]
 [ns]Father[nse]
-"You're dripping semen from your pussy and ass and still want more? There's[r]
-plenty more where that came from, Ren~~"[pcms]
+"You're dripping semen from your pussy and ass and still[r]
+want more? There's plenty more where that came from, Ren~~"[pcms]
 
 *6832|
 [fc]
 [vo_ren s="ren0816"]
 [ns]Ren[nse]
-"Yay~~ I'm somehow really hungry and I feel like I could drink lots today~~"[pcms]
+"Yay~~ I'm somehow really hungry and I feel like I could[r]
+drink lots today~~"[pcms]
 
 *6833|
 [fc]
-Ren looks happily delighted. So that's it~, Father's semen must have worked its[r]
-magic. It really is full of nutrients.[pcms]
+Ren looks happily delighted. So that's it~, Father's semen[r]
+must have worked its magic. It really is full of nutrients.[pcms]
 
 *6834|
 [fc]
 [vo_ren s="ren0817"]
 [ns]Ren[nse]
-"Aaahn~. Big brother, sew me up more in my ass~ Don't pull out~~"[pcms]
+"Aaahn~. Big brother, sew me up more in my ass~ Don't pull[r]
+out~~"[pcms]
 
 *6835|
 [fc]
@@ -628,8 +656,8 @@ magic. It really is full of nutrients.[pcms]
 [fc]
 [vo_ren s="ren0818"]
 [ns]Ren[nse]
-"Yes~~. Big brother's dick is so big~, it makes my insides all messy and that[r]
-feels good~~"[pcms]
+"Yes~~. Big brother's dick is so big~, it makes my insides[r]
+all messy and that feels good~~"[pcms]
 
 ;//@konya HEV036　2穴
 [evcg storage="HEV036f"][trans_c cross time=300]
@@ -646,13 +674,13 @@ Ren looks excitedly happy as she beckons for me and Father.[pcms]
 
 *6839|
 [fc]
-Ren is dripping plenty of semen from her pussy and ass. She looks extremely[r]
-happy~~.[pcms]
+Ren is dripping plenty of semen from her pussy and ass. She[r]
+looks extremely happy~~.[pcms]
 
 *6840|
 [fc]
-Covered in semen, Ren's white skin makes me shiver with excitement, and my thing[r]
-gets hard again.[pcms]
+Covered in semen, Ren's white skin makes me shiver with[r]
+excitement, and my thing gets hard again.[pcms]
 
 *6841|
 [fc]
@@ -672,7 +700,8 @@ gets hard again.[pcms]
 [fc]
 [vo_ren s="ren0821"]
 [ns]Ren[nse]
-"Ahahahaha~. Being done by Father and big brother like this is the best~~"[pcms]
+"Ahahahaha~. Being done by Father and big brother like this[r]
+is the best~~"[pcms]
 
 *6844|
 [fc]
@@ -683,14 +712,15 @@ gets hard again.[pcms]
 [fc]
 [vo_ren s="ren0822"]
 [ns]Ren[nse]
-"Yes~~. So remember, Father and big brother, I'm all yours~~"[pcms]
+"Yes~~. So remember, Father and big brother, I'm all[r]
+yours~~"[pcms]
 
 *6846|
 [fc]
 [vo_ren s="ren0823"]
 [ns]Ren[nse]
-"My mouth, my pussy, and my ass hole are all for you two to use as much as you[r]
-want~~"[pcms]
+"My mouth, my pussy, and my ass hole are all for you two to[r]
+use as much as you want~~"[pcms]
 
 *6847|
 [fc]
@@ -701,7 +731,8 @@ want~~"[pcms]
 *6848|
 [fc]
 [ns]Father[nse]
-"Ahh~~, if I have my cute daughter, I don't need anything else. Right~, Wataru?"[pcms]
+"Ahh~~, if I have my cute daughter, I don't need anything[r]
+else. Right~, Wataru?"[pcms]
 
 *6849|
 [fc]
@@ -710,7 +741,8 @@ want~~"[pcms]
 
 *6850|
 [fc]
-Huh? Is that right? I feel like there was someone important to me.[pcms]
+Huh? Is that right? I feel like there was someone important[r]
+to me.[pcms]
 
 *6851|
 [fc]
@@ -750,7 +782,8 @@ Well, if I can't remember, it doesn't matter~.[pcms]
 [fc]
 [vo_ren s="ren0827"]
 [ns]Ren[nse]
-"Thank you, Onii-chan! Let me drink lots of your sperm in my butt~"[pcms]
+"Thank you, Onii-chan! Let me drink lots of your sperm in my[r]
+butt~"[pcms]
 
 *6859|
 [fc]
@@ -764,7 +797,8 @@ Well, if I can't remember, it doesn't matter~.[pcms]
 [fc]
 [vo_ren s="ren0828"]
 [ns]Ren[nse]
-"Ahh! Onii-chan, you're so rough! It's good, so rough!! Ahh!!"[pcms]
+"Ahh! Onii-chan, you're so rough! It's good, so rough!![r]
+Ahh!!"[pcms]
 
 *6861|
 [fc]
@@ -778,7 +812,8 @@ I was so happy that I thrust into Ren's butt with vigor.[pcms]
 
 *6863|
 [fc]
-Ren's butt feels amazing, but a bigger one would be even better. Like Yuuho's...[pcms]
+Ren's butt feels amazing, but a bigger one would be even[r]
+better. Like Yuuho's...[pcms]
 
 *6864|
 [fc]
@@ -786,8 +821,8 @@ Ren's butt feels amazing, but a bigger one would be even better. Like Yuuho's...
 
 *6865|
 [fc]
-I can't remember... Well, it doesn't matter~ I have Ren's perfectly fitting[r]
-butt.[pcms]
+I can't remember... Well, it doesn't matter~ I have Ren's[r]
+perfectly fitting butt.[pcms]
 
 *6866|
 [fc]
@@ -797,12 +832,14 @@ That's why it's the best.[pcms]
 [fc]
 [vo_ren s="ren0830"]
 [ns]Ren[nse]
-"Ahh~n, amazing, Onii-chan. So much sperm! Let Father give me some too!!"[pcms]
+"Ahh~n, amazing, Onii-chan. So much sperm! Let Father give[r]
+me some too!!"[pcms]
 
 *6868|
 [fc]
-Father is about to thrust into Ren's mouth. Ren looks happy because she can[r]
-drink her favorite semen~. Drinking semen makes her energetic~.[pcms]
+Father is about to thrust into Ren's mouth. Ren looks happy[r]
+because she can drink her favorite semen~. Drinking semen[r]
+makes her energetic~.[pcms]
 
 *6869|
 [fc]
@@ -815,7 +852,8 @@ This is what family is all about, huh~. Ahh, it's nice~.[pcms]
 [fc]
 [vo_ren s="ren0831"]
 [ns]Ren[nse]
-"Ahh~n, in my butt, in my mouth! In my pussy! Let me drink lots of sperm~!!"[pcms]
+"Ahh~n, in my butt, in my mouth! In my pussy! Let me drink[r]
+lots of sperm~!!"[pcms]
 
 *6871|
 [fc]
@@ -830,11 +868,13 @@ It's nice, it's nice... Family really is a wonderful thing.[pcms]
 
 *6873|
 [fc]
-We all feel good together, it's the best. This place is like heaven~.[pcms]
+We all feel good together, it's the best. This place is like[r]
+heaven~.[pcms]
 
 *6874|
 [fc]
-So that's it~, the bluebird of happiness really was at our home~.[pcms]
+So that's it~, the bluebird of happiness really was at our[r]
+home~.[pcms]
 
 *6875|
 [fc]

@@ -57,8 +57,8 @@
 [fc]
 [vo_yuh s="yuho_TE0001"]
 [ns]Yuuho[nse]
-"Okay! Sorry to keep you waiting. The food is ready! Oh, perfect timing, Wataru.[r]
-Come on, help me carry this."[pcms]
+"Okay! Sorry to keep you waiting. The food is ready! Oh,[r]
+perfect timing, Wataru. Come on, help me carry this."[pcms]
 
 *4922|
 [fc]
@@ -67,9 +67,9 @@ Come on, help me carry this."[pcms]
 
 *4923|
 [fc]
-Finally, morning came. It was a long night. With a groggy head, I went to the[r]
-seventh floor, where the energetic Yuuho ordered me to help out. She seemed a[r]
-bit too lively, though.[pcms]
+Finally, morning came. It was a long night. With a groggy[r]
+head, I went to the seventh floor, where the energetic Yuuho[r]
+ordered me to help out. She seemed a bit too lively, though.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -77,8 +77,9 @@ bit too lively, though.[pcms]
 [fc]
 [vo_yuh s="yuho_TE0002"]
 [ns]Yuuho[nse]
-"Wataru, take the portions that are already served and bring them one after[r]
-another. Don't spill anything. I worked hard on this."[pcms]
+"Wataru, take the portions that are already served and bring[r]
+them one after another. Don't spill anything. I worked hard[r]
+on this."[pcms]
 
 *4925|
 [fc]
@@ -97,9 +98,10 @@ another. Don't spill anything. I worked hard on this."[pcms]
 
 *4927|
 [fc]
-I carefully placed the served dishes on the prepared tray and carried them to[r]
-the table. Everyone slowly started to gather around the table. It would be nice[r]
-if they helped out, too.[pcms]
+I carefully placed the served dishes on the prepared tray[r]
+and carried them to the table. Everyone slowly started to[r]
+gather around the table. It would be nice if they helped[r]
+out, too.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -111,9 +113,10 @@ if they helped out, too.[pcms]
 
 *4929|
 [fc]
-While carrying dishes herself, Yuuho arranged servings for eight people at the[r]
-table. After placing the last dish in front of Mr. Jin, she sat down next to me,[r]
-and we began our meal.[pcms]
+While carrying dishes herself, Yuuho arranged servings for[r]
+eight people at the table. After placing the last dish in[r]
+front of Mr. Jin, she sat down next to me, and we began our[r]
+meal.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -128,8 +131,9 @@ and we began our meal.[pcms]
 *4931|
 [fc]
 [ns]Kousuke[nse]
-"Oh, it looks delicious today too. Rice, miso soup, ohitashi. Omelette, seaweed,[r]
-simmered dishes... it's like a breakfast at a ryokan..."[pcms]
+"Oh, it looks delicious today too. Rice, miso soup,[r]
+ohitashi. Omelette, seaweed, simmered dishes... it's like a[r]
+breakfast at a ryokan..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h14"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -152,7 +156,8 @@ simmered dishes... it's like a breakfast at a ryokan..."[pcms]
 [fc]
 [vo_miz s="mizuki_TE0001"]
 [ns]Mizuki[nse]
-"Let's eat. Ah... the miso soup is delicious~. Thank goodness I'm Japanese~"[pcms]
+"Let's eat. Ah... the miso soup is delicious~. Thank[r]
+goodness I'm Japanese~"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -167,8 +172,8 @@ simmered dishes... it's like a breakfast at a ryokan..."[pcms]
 [fc]
 [vo_mar s="maru_TE0001"]
 [ns]Margarita[nse]
-"Jin... I hate to interrupt you as you start eating... Where is Shigeyoshi? I[r]
-don't see him."[pcms]
+"Jin... I hate to interrupt you as you start eating... Where[r]
+is Shigeyoshi? I don't see him."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -190,8 +195,9 @@ don't see him."[pcms]
 *4939|
 [fc]
 [ns]Jin[nse]
-"Where he went is not important, but I've checked all over the mansion. There[r]
-are no signs of them breaking in, and all doors are confirmed closed."[pcms]
+"Where he went is not important, but I've checked all over[r]
+the mansion. There are no signs of them breaking in, and all[r]
+doors are confirmed closed."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -199,7 +205,8 @@ are no signs of them breaking in, and all doors are confirmed closed."[pcms]
 [fc]
 [vo_mar s="maru_TE0003"]
 [ns]Margarita[nse]
-"...Understood... then that's fine. Sorry for disturbing your meal..."[pcms]
+"...Understood... then that's fine. Sorry for disturbing[r]
+your meal..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -210,8 +217,9 @@ are no signs of them breaking in, and all doors are confirmed closed."[pcms]
 
 *4942|
 [fc]
-It seems he left. Where to? Celesta Tower? Well, it doesn't really matter... In[r]
-fact, it's more comfortable without him here.[pcms]
+It seems he left. Where to? Celesta Tower? Well, it doesn't[r]
+really matter... In fact, it's more comfortable without him[r]
+here.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -224,8 +232,8 @@ fact, it's more comfortable without him here.[pcms]
 *4944|
 [fc]
 [ns]Wataru[nse]
-"Hm? Oh, she said she wanted to sleep a little more. I called out to her, but[r]
-that was the reply from inside."[pcms]
+"Hm? Oh, she said she wanted to sleep a little more. I[r]
+called out to her, but that was the reply from inside."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -238,14 +246,15 @@ that was the reply from inside."[pcms]
 *4946|
 [fc]
 [ns]Wataru[nse]
-"Yeah... I think she's fine. Ren said she's okay too. She just wants to sleep a[r]
-bit more."[pcms]
+"Yeah... I think she's fine. Ren said she's okay too. She[r]
+just wants to sleep a bit more."[pcms]
 
 *4947|
 [fc]
 [ns]Wataru[nse]
-"Tell Yuuho and everyone not to worry about her. She says sorry for missing the[r]
-meal... though saying it now is a bit late."[pcms]
+"Tell Yuuho and everyone not to worry about her. She says[r]
+sorry for missing the meal... though saying it now is a bit[r]
+late."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -289,9 +298,9 @@ meal... though saying it now is a bit late."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0010"]
 [ns]Yuuho[nse]
-"Even you, senpai, what are you saying? There's still plenty of rice and miso[r]
-soup for seconds, and there are still some side dishes left. Come on now, share[r]
-nicely please!"[pcms]
+"Even you, senpai, what are you saying? There's still plenty[r]
+of rice and miso soup for seconds, and there are still some[r]
+side dishes left. Come on now, share nicely please!"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -319,9 +328,10 @@ nicely please!"[pcms]
 
 *4957|
 [fc]
-I was still truly worried about Ren. Everyone else seemed concerned as well. But[r]
-thanks to Kousuke lightening up the mood that seemed about to sink, this[r]
-morning's breakfast ended pleasantly.[pcms]
+I was still truly worried about Ren. Everyone else seemed[r]
+concerned as well. But thanks to Kousuke lightening up the[r]
+mood that seemed about to sink, this morning's breakfast[r]
+ended pleasantly.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -332,53 +342,60 @@ morning's breakfast ended pleasantly.[pcms]
 
 *4958|
 [fc]
-After the meal, everyone scattered in different directions. I sat down in front[r]
-of the computer to gather information from the net.[pcms]
+After the meal, everyone scattered in different directions.[r]
+I sat down in front of the computer to gather information[r]
+from the net.[pcms]
 
 *4959|
 [fc]
-"Nezumi-Land shelter annihilated" "Nezumi-Land's last broadcast, total[r]
-annihilation?" "Nezumi-Land..."[pcms]
+"Nezumi-Land shelter annihilated" "Nezumi-Land's last[r]
+broadcast, total annihilation?" "Nezumi-Land..."[pcms]
 
 *4960|
 [fc]
-The top page of the news featured several lines about Dad's last broadcast and[r]
-news about Nezumi-Land.[pcms]
+The top page of the news featured several lines about Dad's[r]
+last broadcast and news about Nezumi-Land.[pcms]
 
 *4961|
 [fc]
-It's strange but seeing it laid out as news like this makes me realize all over[r]
-again that last night's events were real. I couldn't bring myself to click on it[r]
-and just scrolled with the mouse wheel.[pcms]
+It's strange but seeing it laid out as news like this makes[r]
+me realize all over again that last night's events were[r]
+real. I couldn't bring myself to click on it and just[r]
+scrolled with the mouse wheel.[pcms]
 
 *4962|
 [fc]
-"Flocks of crows moving through Tokyo. The latest information is"[pcms]
+"Flocks of crows moving through Tokyo. The latest[r]
+information is"[pcms]
 
 *4963|
 [fc]
-I clicked on it. Information about the movement of infected crows is good to[r]
-know. I selected one from several links and clicked on it.[pcms]
+I clicked on it. Information about the movement of infected[r]
+crows is good to know. I selected one from several links and[r]
+clicked on it.[pcms]
 
 [evcg storage="EV500c"][trans_c cross time=300]
 ;[eval exp="f.l_map = 22"]
 
 *4964|
 [fc]
-"This is Hachioji. A flock of crows just flew overhead heading eastward."[pcms]
+"This is Hachioji. A flock of crows just flew overhead[r]
+heading eastward."[pcms]
 
 ;//♂_八王子という地名、問題あるなら変更する事。その場合他の地名、方角も検討す事
 
 *4965|
 [fc]
-It seems that those who are still alive and can connect to the net are posting[r]
-in real-time. The time stamps on their posts could be a good reference.[pcms]
+It seems that those who are still alive and can connect to[r]
+the net are posting in real-time. The time stamps on their[r]
+posts could be a good reference.[pcms]
 
 *4966|
 [fc]
-Each piece of information has comments attached to it, and from those comments,[r]
-you can sense people's anxiety about whether the crows will come their way. We[r]
-have a rooftop here too; we need to be careful.[pcms]
+Each piece of information has comments attached to it, and[r]
+from those comments, you can sense people's anxiety about[r]
+whether the crows will come their way. We have a rooftop[r]
+here too; we need to be careful.[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020a"][trans_c cross time=500]
@@ -386,64 +403,71 @@ have a rooftop here too; we need to be careful.[pcms]
 
 *4967|
 [fc]
-I open my emailer. There's a new email from "Pikarin" in Ishikawa. She's safe.[r]
-When I realized that PCs could be used, I sent an email out. Her reply had[r]
-arrived.[pcms]
+I open my emailer. There's a new email from "Pikarin" in[r]
+Ishikawa. She's safe. When I realized that PCs could be[r]
+used, I sent an email out. Her reply had arrived.[pcms]
 
 ;//♂_これ以前に、すでにメール以外でやりとりをしている場合は以下の文章も含めて事
 
 *4968|
 [fc]
-"Hello Wataru. Thank you for your email. It's good that we're both safe. Things[r]
-are okay here too. Right now I'm at a shelter, but it's quite tough."[pcms]
+"Hello Wataru. Thank you for your email. It's good that[r]
+we're both safe. Things are okay here too. Right now I'm at[r]
+a shelter, but it's quite tough."[pcms]
 
 *4969|
 [fc]
-"There aren't many infected people here, but because of that, the shelter is[r]
-overflowing with people and sometimes there are disputes. People are getting[r]
-more irritable."[pcms]
+"There aren't many infected people here, but because of[r]
+that, the shelter is overflowing with people and sometimes[r]
+there are disputes. People are getting more irritable."[pcms]
 
 *4970|
 [fc]
-"I'll set up a topic on the community site too, so Wataru please leave a comment[r]
-as well. I've brought out my laptop so I'll probably be glued to it quite a bit.[r]
-I'll contact you again later. Please do the same."[pcms]
+"I'll set up a topic on the community site too, so Wataru[r]
+please leave a comment as well. I've brought out my laptop[r]
+so I'll probably be glued to it quite a bit. I'll contact[r]
+you again later. Please do the same."[pcms]
 
 *4971|
 [fc]
-I immediately opened the SNS community. There was a topic titled "Is everyone[r]
-okay? Roll call for survivors~!"[pcms]
+I immediately opened the SNS community. There was a topic[r]
+titled "Is everyone okay? Roll call for survivors~!"[pcms]
 
 *4972|
 [fc]
-I saw comments from several familiar names. "Pikarin," who started the topic,[r]
-was diligently replying to them. I quickly left a comment as well.[pcms]
+I saw comments from several familiar names. "Pikarin," who[r]
+started the topic, was diligently replying to them. I[r]
+quickly left a comment as well.[pcms]
 
 *4973|
 [fc]
-"This is Wataru. I'm in Shibuya, somehow surviving with friends. If anyone[r]
-nearby sees this, please comment. Let's get in touch and help each other."[pcms]
+"This is Wataru. I'm in Shibuya, somehow surviving with[r]
+friends. If anyone nearby sees this, please comment. Let's[r]
+get in touch and help each other."[pcms]
 
 *4974|
 [fc]
-I also checked other video sites and forums. There were some updates, but not[r]
-many. However, the view counts on video sites seemed to be increasing.[pcms]
+I also checked other video sites and forums. There were some[r]
+updates, but not many. However, the view counts on video[r]
+sites seemed to be increasing.[pcms]
 
 *4975|
 [fc]
-When I returned to the SNS and checked the comment I wrote earlier, "Pikarin"[r]
-had already replied. It seems she wrote it right after I posted mine, according[r]
-to the time stamp.[pcms]
+When I returned to the SNS and checked the comment I wrote[r]
+earlier, "Pikarin" had already replied. It seems she wrote[r]
+it right after I posted mine, according to the time stamp.[pcms]
 
 *4976|
 [fc]
-"Wataru! Thanks for the comment. It's great that we're both safe. Let's write[r]
-any information we catch here and share it with everyone."[pcms]
+"Wataru! Thanks for the comment. It's great that we're both[r]
+safe. Let's write any information we catch here and share it[r]
+with everyone."[pcms]
 
 *4977|
 [fc]
-She really must be glued to her notebook. After my comment, several others had[r]
-been added, and "Pikarin" had replied to those as well.[pcms]
+She really must be glued to her notebook. After my comment,[r]
+several others had been added, and "Pikarin" had replied to[r]
+those as well.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -454,9 +478,10 @@ been added, and "Pikarin" had replied to those as well.[pcms]
 
 *4978|
 [fc]
-I was lazing around on the 7th floor, watching TV absentmindedly. It's mostly[r]
-the same news, but I keep it on because sometimes there are emergency news[r]
-updates or new information.[pcms]
+I was lazing around on the 7th floor, watching TV[r]
+absentmindedly. It's mostly the same news, but I keep it on[r]
+because sometimes there are emergency news updates or new[r]
+information.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -468,8 +493,9 @@ updates or new information.[pcms]
 
 *4980|
 [fc]
-At Yuuho's voice, I turned around to see Ren had arrived. I wonder if she's okay[r]
-now. She seems to have recovered quite a bit.[pcms]
+At Yuuho's voice, I turned around to see Ren had arrived. I[r]
+wonder if she's okay now. She seems to have recovered quite[r]
+a bit.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -477,8 +503,8 @@ now. She seems to have recovered quite a bit.[pcms]
 [fc]
 [vo_mar s="maru_TE0005"]
 [ns]Margarita[nse]
-"Ren, are you feeling better now? Your complexion doesn't look too bad. But[r]
-maybe you should rest a bit more."[pcms]
+"Ren, are you feeling better now? Your complexion doesn't[r]
+look too bad. But maybe you should rest a bit more."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -486,8 +512,8 @@ maybe you should rest a bit more."[pcms]
 [fc]
 [vo_ren s="ren_TE0001"]
 [ns]Ren[nse]
-"No, senpai. I'm fine now. I slept well. Besides, it's about time for a meal,[r]
-and I'm getting hungry."[pcms]
+"No, senpai. I'm fine now. I slept well. Besides, it's about[r]
+time for a meal, and I'm getting hungry."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -495,8 +521,9 @@ and I'm getting hungry."[pcms]
 [fc]
 [vo_mar s="maru_TE0006"]
 [ns]Margarita[nse]
-"I see. If you're hungry, then you must be okay. Now that you've had a good[r]
-sleep, make sure to eat well and regain your strength."[pcms]
+"I see. If you're hungry, then you must be okay. Now that[r]
+you've had a good sleep, make sure to eat well and regain[r]
+your strength."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -520,8 +547,9 @@ sleep, make sure to eat well and regain your strength."[pcms]
 [fc]
 [vo_ren s="ren_TE0003"]
 [ns]Ren[nse]
-"Yes, Yuuho-chan, I'm fine. Sorry for not being able to help with breakfast[r]
-preparations. I'll take care of it next time, so you just relax."[pcms]
+"Yes, Yuuho-chan, I'm fine. Sorry for not being able to help[r]
+with breakfast preparations. I'll take care of it next time,[r]
+so you just relax."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -529,8 +557,9 @@ preparations. I'll take care of it next time, so you just relax."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0014"]
 [ns]Yuuho[nse]
-"It's okay, it's okay. Let's prepare the meal together, okay? It's faster and[r]
-more fun when we do it together, right?"[pcms]
+"It's okay, it's okay. Let's prepare the meal together,[r]
+okay? It's faster and more fun when we do it together,[r]
+right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -560,7 +589,8 @@ more fun when we do it together, right?"[pcms]
 *4991|
 [fc]
 [ns]Jin[nse]
-"Good. Then I'm looking forward to another delicious salad..."[pcms]
+"Good. Then I'm looking forward to another delicious[r]
+salad..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -579,29 +609,30 @@ more fun when we do it together, right?"[pcms]
 
 *4994|
 [fc]
-She might be pushing herself a bit, but she seems okay. I listened to Ren and[r]
-everyone else's conversation with my back turned to them while facing the TV[r]
-absentmindedly.[pcms]
+She might be pushing herself a bit, but she seems okay. I[r]
+listened to Ren and everyone else's conversation with my[r]
+back turned to them while facing the TV absentmindedly.[pcms]
 
 *4995|
 [fc]
 [ns]Announcer[nse]
-"We have new information. The government will distribute supplies to various[r]
-shelters tomorrow. In places where landing is not possible, they will be dropped[r]
-from the air."[pcms]
+"We have new information. The government will distribute[r]
+supplies to various shelters tomorrow. In places where[r]
+landing is not possible, they will be dropped from the air."[pcms]
 
 *4996|
 [fc]
 [ns]Announcer[nse]
-"Details on the timing and other specifics will be announced later..."[pcms]
+"Details on the timing and other specifics will be announced[r]
+later..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *4997|
 [fc]
 [ns]Jin[nse]
-"...Hmph... Well, if we're lucky, something might get dropped here too... Though[r]
-the chances are slim."[pcms]
+"...Hmph... Well, if we're lucky, something might get[r]
+dropped here too... Though the chances are slim."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -609,8 +640,8 @@ the chances are slim."[pcms]
 [fc]
 [vo_mar s="maru_TE0007"]
 [ns]Margarita[nse]
-"...That's true. It's best to make do with what we have now as much as[r]
-possible."[pcms]
+"...That's true. It's best to make do with what we have now[r]
+as much as possible."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -623,15 +654,16 @@ possible."[pcms]
 
 *5000|
 [fc]
-I felt like there were fewer live broadcasts than before. Shelters in urban[r]
-areas are still being shown on TV, but I haven't seen any from the countryside[r]
-today.[pcms]
+I felt like there were fewer live broadcasts than before.[r]
+Shelters in urban areas are still being shown on TV, but I[r]
+haven't seen any from the countryside today.[pcms]
 
 *5001|
 [fc]
-Yuuho and Ren seemed to be happily heading towards the kitchen. Jin-san and[r]
-Maruko-senpai were standing apart from each other but both had their arms[r]
-crossed and were glaring at the TV screen.[pcms]
+Yuuho and Ren seemed to be happily heading towards the[r]
+kitchen. Jin-san and Maruko-senpai were standing apart from[r]
+each other but both had their arms crossed and were glaring[r]
+at the TV screen.[pcms]
 
 *5002|
 [fc]
@@ -653,29 +685,31 @@ I wonder where Kousuke and Mizuki are.[pcms]
 [fc]
 [vo_miz s="mizuki_TE0003"]
 [ns]Mizuki[nse]
-"Ahhhh!! Kousuke, it's amazing. Right up to my womb... it's tingling... Ahh ahhh[r]
-that feels so good! Your cock... Ahh ahh, it feels so good!"[pcms]
+"Ahhhh!! Kousuke, it's amazing. Right up to my womb... it's[r]
+tingling... Ahh ahhh that feels so good! Your cock... Ahh[r]
+ahh, it feels so good!"[pcms]
 
 *5004|
 [fc]
 [vo_miz s="mizuki_TE0004"]
 [ns]Mizuki[nse]
-"It's hitting me deep inside, pounding... Ahh that feels good! It's hot... Ahh[r]
-ahh that feels so good! Ahh!"[pcms]
+"It's hitting me deep inside, pounding... Ahh that feels[r]
+good! It's hot... Ahh ahh that feels so good! Ahh!"[pcms]
 
 *5005|
 [fc]
 [vo_miz s="mizuki_TE0005"]
 [ns]Mizuki[nse]
-"Kousuke, Kousuke, cum inside me, please cum inside me, I'm going to... Ahh ahh[r]
-that feels so good, I'm cumming, uhh! Kousuke, no I'm cumming... Ahh!"[pcms]
+"Kousuke, Kousuke, cum inside me, please cum inside me, I'm[r]
+going to... Ahh ahh that feels so good, I'm cumming, uhh![r]
+Kousuke, no I'm cumming... Ahh!"[pcms]
 
 *5006|
 [fc]
 [vo_miz s="mizuki_TE0006"]
 [ns]Mizuki[nse]
-"Cum inside me, fill up my pussy! Ahh, I'm cumming, I'm cumming! I'm cumming![r]
-Ahhhhhhh!!!"[pcms]
+"Cum inside me, fill up my pussy! Ahh, I'm cumming, I'm[r]
+cumming! I'm cumming! Ahhhhhhh!!!"[pcms]
 
 *5007|
 [fc]
@@ -721,8 +755,9 @@ Ahhhhhhh!!!"[pcms]
 
 *5009|
 [fc]
-I woke up early. I thought about going back to sleep but felt hungry and decided[r]
-to go up to the 7th floor instead as I left my room.[pcms]
+I woke up early. I thought about going back to sleep but[r]
+felt hungry and decided to go up to the 7th floor instead as[r]
+I left my room.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -732,9 +767,9 @@ to go up to the 7th floor instead as I left my room.[pcms]
 
 *5010|
 [fc]
-I looked around the kitchen for something easy to eat. Hoping there might be[r]
-some leftovers from last night. The sky visible from the dome was already[r]
-beginning to lighten.[pcms]
+I looked around the kitchen for something easy to eat.[r]
+Hoping there might be some leftovers from last night. The[r]
+sky visible from the dome was already beginning to lighten.[pcms]
 
 *5011|
 [fc]
@@ -746,8 +781,8 @@ beginning to lighten.[pcms]
 
 *5012|
 [fc]
-I heard Maruko-senpai's voice from outside the dome. It sounded like a scream,[r]
-so I hurriedly headed to the rooftop.[pcms]
+I heard Maruko-senpai's voice from outside the dome. It[r]
+sounded like a scream, so I hurriedly headed to the rooftop.[pcms]
 
 ;//★_屋上
 [bg storage="BG200a"][trans_c cross time=500]
@@ -764,8 +799,9 @@ so I hurriedly headed to the rooftop.[pcms]
 
 *5014|
 [fc]
-Maruko-senpai was fine. More than fine; she was full of energy. She seemed to be[r]
-practicing in what appeared to be a gi procured from the third floor.[pcms]
+Maruko-senpai was fine. More than fine; she was full of[r]
+energy. She seemed to be practicing in what appeared to be a[r]
+gi procured from the third floor.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_o2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -777,9 +813,9 @@ practicing in what appeared to be a gi procured from the third floor.[pcms]
 
 *5016|
 [fc]
-She skillfully wielded a long wooden mop handle. Her blonde hair fluttered as[r]
-she moved as if dancing a dance, and I was captivated by Maruko-senpai for a[r]
-moment.[pcms]
+She skillfully wielded a long wooden mop handle. Her blonde[r]
+hair fluttered as she moved as if dancing a dance, and I was[r]
+captivated by Maruko-senpai for a moment.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_o1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -792,8 +828,9 @@ moment.[pcms]
 *5018|
 [fc]
 [ns]Wataru[nse]
-"You're early too, Maruko-senpai. I was on the 7th floor when I heard your voice[r]
-coming from above, so I got worried something happened and rushed over."[pcms]
+"You're early too, Maruko-senpai. I was on the 7th floor[r]
+when I heard your voice coming from above, so I got worried[r]
+something happened and rushed over."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_o1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -801,15 +838,17 @@ coming from above, so I got worried something happened and rushed over."[pcms]
 [fc]
 [vo_mar s="maru_TE0012"]
 [ns]Margarita[nse]
-"I see. Sorry about that. I felt like my body was getting sluggish so I thought[r]
-I'd move around while it's still cool in the morning since it looks like it's[r]
-going to be hot today."[pcms]
+"I see. Sorry about that. I felt like my body was getting[r]
+sluggish so I thought I'd move around while it's still cool[r]
+in the morning since it looks like it's going to be hot[r]
+today."[pcms]
 
 *5020|
 [fc]
 [ns]Wataru[nse]
-"I see. Practice is good but please be careful of crows. They seem to be moving[r]
-around Tokyo. Well, I think you'll be fine though, Maruko-senpai."[pcms]
+"I see. Practice is good but please be careful of crows.[r]
+They seem to be moving around Tokyo. Well, I think you'll be[r]
+fine though, Maruko-senpai."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_o3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -817,12 +856,14 @@ around Tokyo. Well, I think you'll be fine though, Maruko-senpai."[pcms]
 [fc]
 [vo_mar s="maru_TE0013"]
 [ns]Margarita[nse]
-"Understood, I'll be careful. Oh, Ayase, how about joining me?"[pcms]
+"Understood, I'll be careful. Oh, Ayase, how about joining[r]
+me?"[pcms]
 
 *5022|
 [fc]
 [ns]Wataru[nse]
-"Eh?! N-no... I mean, I woke up because I was hungry... I'll pass today."[pcms]
+"Eh?! N-no... I mean, I woke up because I was hungry... I'll[r]
+pass today."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_o4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -849,8 +890,9 @@ around Tokyo. Well, I think you'll be fine though, Maruko-senpai."[pcms]
 
 *5026|
 [fc]
-"I left the rooftop with a heavy step. Practicing together with everyone might[r]
-be good. It wouldn't hurt to do it. But I'd rather not do it alone."[pcms]
+"I left the rooftop with a heavy step. Practicing together[r]
+with everyone might be good. It wouldn't hurt to do it. But[r]
+I'd rather not do it alone."[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -873,8 +915,8 @@ be good. It wouldn't hurt to do it. But I'd rather not do it alone."[pcms]
 
 *5028|
 [fc]
-Ren shook me awake. It seems that although I woke up early, I fell asleep again[r]
-at the table afterwards.[pcms]
+Ren shook me awake. It seems that although I woke up early,[r]
+I fell asleep again at the table afterwards.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -882,13 +924,14 @@ at the table afterwards.[pcms]
 [fc]
 [vo_ren s="ren_TE0008"]
 [ns]Ren[nse]
-"Breakfast is ready. Hey, how long have you been sleeping here?"[pcms]
+"Breakfast is ready. Hey, how long have you been sleeping[r]
+here?"[pcms]
 
 *5030|
 [fc]
 [ns]Wataru[nse]
-"Eh? Uh... I woke up unusually early because I was hungry... and then after[r]
-that..."[pcms]
+"Eh? Uh... I woke up unusually early because I was hungry...[r]
+and then after that..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -896,8 +939,8 @@ that..."[pcms]
 [fc]
 [vo_ren s="ren_TE0009"]
 [ns]Ren[nse]
-"Geez, unbelievable. Since breakfast is ready, help me carry it. It'll wake you[r]
-up properly."[pcms]
+"Geez, unbelievable. Since breakfast is ready, help me carry[r]
+it. It'll wake you up properly."[pcms]
 
 *5032|
 [fc]
@@ -906,8 +949,9 @@ up properly."[pcms]
 
 *5033|
 [fc]
-I reluctantly stood up from the chair. It looks like I'm going to be roped into[r]
-helping with meal delivery again today.[pcms]
+I reluctantly stood up from the chair. It looks like I'm[r]
+going to be roped into helping with meal delivery again[r]
+today.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -919,17 +963,17 @@ helping with meal delivery again today.[pcms]
 
 *5035|
 [fc]
-All seven of us sat at the table today. Toast with salad, fried eggs, and soup[r]
-with vegetables. Jin's plate alone was piled high with an unusually large amount[r]
-of salad.[pcms]
+All seven of us sat at the table today. Toast with salad,[r]
+fried eggs, and soup with vegetables. Jin's plate alone was[r]
+piled high with an unusually large amount of salad.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5036|
 [fc]
 [ns]Jin[nse]
-"Yeah... this salad is really delicious. I could eat this every day without[r]
-getting tired of it..."[pcms]
+"Yeah... this salad is really delicious. I could eat this[r]
+every day without getting tired of it..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -937,8 +981,9 @@ getting tired of it..."[pcms]
 [fc]
 [vo_ren s="ren_TE0010"]
 [ns]Ren[nse]
-"I'm glad to hear that, Jin-san. But... we might be reaching our limit with the[r]
-leafy greens for the salad. They're starting to spoil..."[pcms]
+"I'm glad to hear that, Jin-san. But... we might be reaching[r]
+our limit with the leafy greens for the salad. They're[r]
+starting to spoil..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -946,8 +991,9 @@ leafy greens for the salad. They're starting to spoil..."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0016"]
 [ns]Yuuho[nse]
-"Yes, that's right. We were just talking about pickling what's left before it[r]
-goes bad. The root vegetables still seem to be okay though..."[pcms]
+"Yes, that's right. We were just talking about pickling[r]
+what's left before it goes bad. The root vegetables still[r]
+seem to be okay though..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -962,8 +1008,8 @@ goes bad. The root vegetables still seem to be okay though..."[pcms]
 [fc]
 [vo_mar s="maru_TE0016"]
 [ns]Margarita[nse]
-"Even if we're lucky enough to get a supply drop, it's unlikely we'll find leafy[r]
-greens suitable for salad..."[pcms]
+"Even if we're lucky enough to get a supply drop, it's[r]
+unlikely we'll find leafy greens suitable for salad..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -971,8 +1017,9 @@ greens suitable for salad..."[pcms]
 [fc]
 [vo_ren s="ren_TE0011"]
 [ns]Ren[nse]
-"Yes. Well, we'll come up with something. So please leave the food to us. By the[r]
-way... Senpai, why are you in uniform?"[pcms]
+"Yes. Well, we'll come up with something. So please leave[r]
+the food to us. By the way... Senpai, why are you in[r]
+uniform?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -980,15 +1027,17 @@ way... Senpai, why are you in uniform?"[pcms]
 [fc]
 [vo_mar s="maru_TE0017"]
 [ns]Margarita[nse]
-"It keeps me focused. In case of emergency, it's not good to be too casual. I[r]
-think it's better to be properly dressed on a regular basis."[pcms]
+"It keeps me focused. In case of emergency, it's not good to[r]
+be too casual. I think it's better to be properly dressed on[r]
+a regular basis."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5043|
 [fc]
 [ns]Kousuke[nse]
-"Whoa... I mean, Maruko-senpai... you're too tense. Relax a little..."[pcms]
+"Whoa... I mean, Maruko-senpai... you're too tense. Relax a[r]
+little..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -996,8 +1045,9 @@ think it's better to be properly dressed on a regular basis."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0017"]
 [ns]Yuuho[nse]
-"No... I understand what Senpai is saying. Wasn't there a saying like 'Disorder[r]
-in spirit begins with disarray in dress'?"[pcms]
+"No... I understand what Senpai is saying. Wasn't there a[r]
+saying like 'Disorder in spirit begins with disarray in[r]
+dress'?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1012,8 +1062,9 @@ in spirit begins with disarray in dress'?"[pcms]
 [fc]
 [vo_ren s="ren_TE0012"]
 [ns]Ren[nse]
-"Kou-chan, I think what Senpai is saying is right. I've decided. I'll try to[r]
-dress properly as much as possible, like wearing my uniform."[pcms]
+"Kou-chan, I think what Senpai is saying is right. I've[r]
+decided. I'll try to dress properly as much as possible,[r]
+like wearing my uniform."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1021,8 +1072,9 @@ dress properly as much as possible, like wearing my uniform."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0018"]
 [ns]Yuuho[nse]
-"If Ren-chan is going to do that, then so will I. Wataru... Wataru should also[r]
-take a cue from Senpai and Ren-chan. Kou-chan too."[pcms]
+"If Ren-chan is going to do that, then so will I. Wataru...[r]
+Wataru should also take a cue from Senpai and Ren-chan. Kou-[r]
+chan too."[pcms]
 
 *5048|
 [fc]
@@ -1046,9 +1098,10 @@ take a cue from Senpai and Ren-chan. Kou-chan too."[pcms]
 
 *5051|
 [fc]
-As soon as Mizuki began to speak, Ren, Yuuho, and Maruko-senpai all looked[r]
-startled... Mizuki had quit school. Perhaps Kousuke opposed because he was[r]
-considering Mizuki's feelings.[pcms]
+As soon as Mizuki began to speak, Ren, Yuuho, and Maruko-[r]
+senpai all looked startled... Mizuki had quit school.[r]
+Perhaps Kousuke opposed because he was considering Mizuki's[r]
+feelings.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1056,9 +1109,10 @@ considering Mizuki's feelings.[pcms]
 [fc]
 [vo_mar s="maru_TE0018"]
 [ns]Margarita[nse]
-"Well... that... Don't worry too much about it. It's just what I think; I'm not[r]
-trying to force anyone. It would be too stiff if we all did it. It should be a[r]
-matter of personal freedom."[pcms]
+"Well... that... Don't worry too much about it. It's just[r]
+what I think; I'm not trying to force anyone. It would be[r]
+too stiff if we all did it. It should be a matter of[r]
+personal freedom."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -1066,8 +1120,9 @@ matter of personal freedom."[pcms]
 [fc]
 [vo_miz s="mizuki_TE0009"]
 [ns]Mizuki[nse]
-"...Ah, maybe later I'll go downstairs and look for a cute uniform among the[r]
-cosplay stuff... Kou-chan, you'll come with me, right?"[pcms]
+"...Ah, maybe later I'll go downstairs and look for a cute[r]
+uniform among the cosplay stuff... Kou-chan, you'll come[r]
+with me, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1085,8 +1140,8 @@ cosplay stuff... Kou-chan, you'll come with me, right?"[pcms]
 
 *5056|
 [fc]
-Jin chuckled softly to himself. After that, everyone quietly and quickly[r]
-finished their meal.[pcms]
+Jin chuckled softly to himself. After that, everyone quietly[r]
+and quickly finished their meal.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1104,7 +1159,8 @@ finished their meal.[pcms]
 [fc]
 [vo_yuh s="yuho_TE0019"]
 [ns]Yuuho[nse]
-"Hey---! Come over here too---! We're over here---! Give us something---!"[pcms]
+"Hey---! Come over here too---! We're over here---! Give us[r]
+something---!"[pcms]
 
 ;//★_空あるいは遠景
 
@@ -1113,14 +1169,16 @@ finished their meal.[pcms]
 
 *5058|
 [fc]
-A military helicopter was hovering somewhere above Misujuku. Although it wasn't[r]
-clearly visible, they were probably dropping supplies as mentioned in the news.[pcms]
+A military helicopter was hovering somewhere above Misujuku.[r]
+Although it wasn't clearly visible, they were probably[r]
+dropping supplies as mentioned in the news.[pcms]
 
 *5059|
 [fc]
-Not only from the direction of Misujuku but also from other directions, engine[r]
-noises could be heard. It seemed like several transport planes and aircraft were[r]
-flying around in different places. Yuuho was waving and shouting, but it[r]
+Not only from the direction of Misujuku but also from other[r]
+directions, engine noises could be heard. It seemed like[r]
+several transport planes and aircraft were flying around in[r]
+different places. Yuuho was waving and shouting, but it[r]
 probably wouldn't reach them.[pcms]
 
 ;//SE停止(2秒でF.O.)
@@ -1140,9 +1198,10 @@ probably wouldn't reach them.[pcms]
 
 *5061|
 [fc]
-Lured by the sound of the transport planes or perhaps by the voice of Yuuho[r]
-Kanagi, Tomomi appeared from somewhere and gazed up at the sky before firmly[r]
-fixing her eyes on the rooftop of the building.[pcms]
+Lured by the sound of the transport planes or perhaps by the[r]
+voice of Yuuho Kanagi, Tomomi appeared from somewhere and[r]
+gazed up at the sky before firmly fixing her eyes on the[r]
+rooftop of the building.[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 ;[eval exp="f.l_map = 5"]
@@ -1164,9 +1223,9 @@ fixing her eyes on the rooftop of the building.[pcms]
 
 *5065|
 [fc]
-Following Tomomi, a group of infected people appeared one after another. Perhaps[r]
-they were drawn out by the commotion in the sky or had been hiding somewhere[r]
-until now.[pcms]
+Following Tomomi, a group of infected people appeared one[r]
+after another. Perhaps they were drawn out by the commotion[r]
+in the sky or had been hiding somewhere until now.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1181,14 +1240,16 @@ until now.[pcms]
 [fc]
 [vo_mar s="maru_TE0019"]
 [ns]Margarita[nse]
-"I've managed to gather some information, so I'd like everyone to listen for a[r]
-bit. Sorry to ask this of you, but could you spare some time?"[pcms]
+"I've managed to gather some information, so I'd like[r]
+everyone to listen for a bit. Sorry to ask this of you, but[r]
+could you spare some time?"[pcms]
 
 *5067|
 [fc]
-As soon as the meal was over, Maruko-senpai brought this up. Jin-san, Kousuke,[r]
-and Mizuki who were about to leave their seats sat back down while Yuuho and Ren[r]
-who were going to clean up took their seats again.[pcms]
+As soon as the meal was over, Maruko-senpai brought this up.[r]
+Jin-san, Kousuke, and Mizuki who were about to leave their[r]
+seats sat back down while Yuuho and Ren who were going to[r]
+clean up took their seats again.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1196,9 +1257,9 @@ who were going to clean up took their seats again.[pcms]
 [fc]
 [vo_mar s="maru_TE0020"]
 [ns]Margarita[nse]
-"I've been in contact with Sesuka at the Misujuku garrison. As a result, we've[r]
-learned a bit about the situation outside here and obtained some other[r]
-information as well."[pcms]
+"I've been in contact with Sesuka at the Misujuku garrison.[r]
+As a result, we've learned a bit about the situation outside[r]
+here and obtained some other information as well."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1206,9 +1267,9 @@ information as well."[pcms]
 [fc]
 [vo_mar s="maru_TE0021"]
 [ns]Margarita[nse]
-"Regarding today's supplies, it seems that Misujuku received a reasonable amount[r]
-of replenishment. However, it's still not sufficient and only a temporary[r]
-measure."[pcms]
+"Regarding today's supplies, it seems that Misujuku received[r]
+a reasonable amount of replenishment. However, it's still[r]
+not sufficient and only a temporary measure."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1216,9 +1277,10 @@ measure."[pcms]
 [fc]
 [vo_mar s="maru_TE0022"]
 [ns]Margarita[nse]
-"This means that there isn't enough for us to live in shelters for an extended[r]
-period of time. It seems there are also other small isolated shelters scattered[r]
-around with just a few people each."[pcms]
+"This means that there isn't enough for us to live in[r]
+shelters for an extended period of time. It seems there are[r]
+also other small isolated shelters scattered around with[r]
+just a few people each."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1226,9 +1288,9 @@ around with just a few people each."[pcms]
 [fc]
 [vo_mar s="maru_TE0023"]
 [ns]Margarita[nse]
-"Through the net and other means, there have been requests for rescue, but they[r]
-can't respond to all of them, and it's difficult to resupply goods. That's all[r]
-for now, okay?"[pcms]
+"Through the net and other means, there have been requests[r]
+for rescue, but they can't respond to all of them, and it's[r]
+difficult to resupply goods. That's all for now, okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -1243,8 +1305,9 @@ for now, okay?"[pcms]
 [fc]
 [vo_mar s="maru_TE0024"]
 [ns]Margarita[nse]
-"They've dispatched personnel and units who volunteered to rescue those isolated[r]
-shelters. However, there are units that haven't returned..."[pcms]
+"They've dispatched personnel and units who volunteered to[r]
+rescue those isolated shelters. However, there are units[r]
+that haven't returned..."[pcms]
 
 *5074|
 [fc]
@@ -1257,13 +1320,14 @@ shelters. However, there are units that haven't returned..."[pcms]
 [fc]
 [vo_mar s="maru_TE0025"]
 [ns]Margarita[nse]
-"The unit that went to Celesta Tower for rescue today has lost contact and is[r]
-missing..."[pcms]
+"The unit that went to Celesta Tower for rescue today has[r]
+lost contact and is missing..."[pcms]
 
 *5076|
 [fc]
-Celesta Tower? The thought of Shigeyoshi who had left crossed my mind, and I[r]
-glanced at Jin-san. But Jin-san seemed uninterested, his expression unreadable.[pcms]
+Celesta Tower? The thought of Shigeyoshi who had left[r]
+crossed my mind, and I glanced at Jin-san. But Jin-san[r]
+seemed uninterested, his expression unreadable.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -1278,9 +1342,10 @@ glanced at Jin-san. But Jin-san seemed uninterested, his expression unreadable.[
 [fc]
 [vo_mar s="maru_TE0026"]
 [ns]Margarita[nse]
-"...Right. Inside the shelters, there are people demanding the provision of[r]
-weapons. Well, indeed, even inside a shelter it's not completely safe. I[r]
-understand the feeling of wanting to defend oneself."[pcms]
+"...Right. Inside the shelters, there are people demanding[r]
+the provision of weapons. Well, indeed, even inside a[r]
+shelter it's not completely safe. I understand the feeling[r]
+of wanting to defend oneself."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1288,8 +1353,9 @@ understand the feeling of wanting to defend oneself."[pcms]
 [fc]
 [vo_mar s="maru_TE0027"]
 [ns]Margarita[nse]
-"But we can't just hand over weapons, especially to amateurs. Lately, there have[r]
-been increasing disputes over whether to give weapons or not."[pcms]
+"But we can't just hand over weapons, especially to[r]
+amateurs. Lately, there have been increasing disputes over[r]
+whether to give weapons or not."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1297,9 +1363,9 @@ been increasing disputes over whether to give weapons or not."[pcms]
 [fc]
 [vo_mar s="maru_TE0028"]
 [ns]Margarita[nse]
-"With that in mind, there's a plan being considered to use the large-scale[r]
-underground drainage system connected to the Misujuku shelter underground on[r]
-Route 246 for escape."[pcms]
+"With that in mind, there's a plan being considered to use[r]
+the large-scale underground drainage system connected to the[r]
+Misujuku shelter underground on Route 246 for escape."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1307,8 +1373,8 @@ Route 246 for escape."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0020"]
 [ns]Yuuho[nse]
-"Like how we made it here, is there a possibility that everyone could escape[r]
-together?"[pcms]
+"Like how we made it here, is there a possibility that[r]
+everyone could escape together?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1316,9 +1382,10 @@ together?"[pcms]
 [fc]
 [vo_mar s="maru_TE0029"]
 [ns]Margarita[nse]
-"Hmm. There is a possibility. The drainage system is interconnected in various[r]
-sizes, and if used cleverly, one could traverse Tokyo underground without[r]
-emerging above ground."[pcms]
+"Hmm. There is a possibility. The drainage system is[r]
+interconnected in various sizes, and if used cleverly, one[r]
+could traverse Tokyo underground without emerging above[r]
+ground."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1334,9 +1401,10 @@ emerging above ground."[pcms]
 [fc]
 [vo_mar s="maru_TE0030"]
 [ns]Margarita[nse]
-"There is a possibility. But there are problems. We are only a few people.[r]
-However, the shelters are gathering thousands of people. Basically, the only way[r]
-to move underground is on foot."[pcms]
+"There is a possibility. But there are problems. We are only[r]
+a few people. However, the shelters are gathering thousands[r]
+of people. Basically, the only way to move underground is on[r]
+foot."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1344,9 +1412,9 @@ to move underground is on foot."[pcms]
 [fc]
 [vo_mar s="maru_TE0031"]
 [ns]Margarita[nse]
-"Considering this hot and humid season, it's nearly impossible to move thousands[r]
-of people safely underground. That's why it's being discussed as a 'just in[r]
-case' plan."[pcms]
+"Considering this hot and humid season, it's nearly[r]
+impossible to move thousands of people safely underground.[r]
+That's why it's being discussed as a 'just in case' plan."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1354,8 +1422,9 @@ case' plan."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0021"]
 [ns]Yuuho[nse]
-"I see... Even if we try to move in small groups... who goes first, whether it's[r]
-safe with just a few people... I feel like various problems could arise..."[pcms]
+"I see... Even if we try to move in small groups... who goes[r]
+first, whether it's safe with just a few people... I feel[r]
+like various problems could arise..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1363,17 +1432,18 @@ safe with just a few people... I feel like various problems could arise..."[pcms
 [fc]
 [vo_mar s="maru_TE0032"]
 [ns]Margarita[nse]
-"That's right. Considering our current environment, the situation here, what we[r]
-can use, and our food supply, it seems better to stay put as much as possible[r]
-rather than rashly trying to move to a shelter."[pcms]
+"That's right. Considering our current environment, the[r]
+situation here, what we can use, and our food supply, it[r]
+seems better to stay put as much as possible rather than[r]
+rashly trying to move to a shelter."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5088|
 [fc]
 [ns]Jin[nse]
-"What happens to us if the people in the shelters manage to escape[r]
-successfully?"[pcms]
+"What happens to us if the people in the shelters manage to[r]
+escape successfully?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1381,9 +1451,10 @@ successfully?"[pcms]
 [fc]
 [vo_mar s="maru_TE0033"]
 [ns]Margarita[nse]
-"If they execute the 'just in case' plan and succeed in escaping, they will come[r]
-for us. Definitely. Right now, it seems difficult to make arrangements within[r]
-the shelter due to various issues."[pcms]
+"If they execute the 'just in case' plan and succeed in[r]
+escaping, they will come for us. Definitely. Right now, it[r]
+seems difficult to make arrangements within the shelter due[r]
+to various issues."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1391,9 +1462,10 @@ the shelter due to various issues."[pcms]
 [fc]
 [vo_mar s="maru_TE0034"]
 [ns]Margarita[nse]
-"But if they escape, knowing Sesuka, she will come to pick us up early on. When[r]
-that time comes, we can all escape from here. Probably they can arrange[r]
-something like a helicopter."[pcms]
+"But if they escape, knowing Sesuka, she will come to pick[r]
+us up early on. When that time comes, we can all escape from[r]
+here. Probably they can arrange something like a[r]
+helicopter."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1401,14 +1473,15 @@ something like a helicopter."[pcms]
 [fc]
 [vo_ren s="ren_TE0014"]
 [ns]Ren[nse]
-"Maybe it's better not to move from here after all. That's what I think. Onii-[r]
-chan, what do you think?"[pcms]
+"Maybe it's better not to move from here after all. That's[r]
+what I think. Onii- chan, what do you think?"[pcms]
 
 *5092|
 [fc]
 [ns]Wataru[nse]
-"Yeah... I think so too. I haven't checked how much food we have or how long we[r]
-can stay holed up here, but at least for now, it seems better to wait and see."[pcms]
+"Yeah... I think so too. I haven't checked how much food we[r]
+have or how long we can stay holed up here, but at least for[r]
+now, it seems better to wait and see."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1416,16 +1489,17 @@ can stay holed up here, but at least for now, it seems better to wait and see."[
 [fc]
 [vo_yuh s="yuho_TE0022"]
 [ns]Yuuho[nse]
-"I also think it's better for us to stay here for now. It's not like I'm not[r]
-anxious... you know."[pcms]
+"I also think it's better for us to stay here for now. It's[r]
+not like I'm not anxious... you know."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5094|
 [fc]
 [ns]Kousuke[nse]
-"I'll follow everyone's opinion. I'm not good with complicated stuff. But if you[r]
-tell me to work, I'll do it properly, and I'll do whatever I can by myself."[pcms]
+"I'll follow everyone's opinion. I'm not good with[r]
+complicated stuff. But if you tell me to work, I'll do it[r]
+properly, and I'll do whatever I can by myself."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -1433,8 +1507,8 @@ tell me to work, I'll do it properly, and I'll do whatever I can by myself."[pcm
 [fc]
 [vo_miz s="mizuki_TE0010"]
 [ns]Mizuki[nse]
-"I'll... follow Kousuke... Jin, Jin will stay with everyone too... that's okay,[r]
-right?"[pcms]
+"I'll... follow Kousuke... Jin, Jin will stay with everyone[r]
+too... that's okay, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -1449,9 +1523,10 @@ right?"[pcms]
 [fc]
 [vo_mar s="maru_TE0035"]
 [ns]Margarita[nse]
-"No, that's about it for today. As we get information, let's share it with[r]
-everyone. We'll gather for meals like today and if anyone gets information,[r]
-we'll discuss it after meals like we did today."[pcms]
+"No, that's about it for today. As we get information, let's[r]
+share it with everyone. We'll gather for meals like today[r]
+and if anyone gets information, we'll discuss it after meals[r]
+like we did today."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1471,8 +1546,8 @@ Everyone agreed and began to move on to their next actions.[pcms]
 [fc]
 [vo_mar s="maru_TE0037"]
 [ns]Margarita[nse]
-"Ah, Ayase, Kousuke. When it gets a bit cooler, let's do the gun practice we[r]
-promised. Come up to the rooftop later."[pcms]
+"Ah, Ayase, Kousuke. When it gets a bit cooler, let's do the[r]
+gun practice we promised. Come up to the rooftop later."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1493,9 +1568,10 @@ promised. Come up to the rooftop later."[pcms]
 
 *5103|
 [fc]
-Kousuke and Mizuki stood up together. Ren and Yuuho went off to clean up, and[r]
-before I knew it, Jin-san was no longer at his seat. I decided to head towards[r]
-the PC to try and gather some information.[pcms]
+Kousuke and Mizuki stood up together. Ren and Yuuho went off[r]
+to clean up, and before I knew it, Jin-san was no longer at[r]
+his seat. I decided to head towards the PC to try and gather[r]
+some information.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1506,58 +1582,62 @@ the PC to try and gather some information.[pcms]
 
 *5104|
 [fc]
-"That's right. Wataru couldn't do it either. We didn't get any supplies here[r]
-either. It was almost a commotion because they said so on the news."[pcms]
+"That's right. Wataru couldn't do it either. We didn't get[r]
+any supplies here either. It was almost a commotion because[r]
+they said so on the news."[pcms]
 
 *5105|
 [fc]
-It seems that "Pikarin" really is glued in front of her notebook. Well, there[r]
-isn't much one can do in a shelter anyway; most people are probably just idly[r]
-passing time.[pcms]
+It seems that "Pikarin" really is glued in front of her[r]
+notebook. Well, there isn't much one can do in a shelter[r]
+anyway; most people are probably just idly passing time.[pcms]
 
 *5106|
 [fc]
-As soon as I posted a comment on the SNS topic, a comment from "Pikarin"[r]
-followed almost immediately. It was the kind of timing you'd get by pressing F5[r]
-a few times to reload.[pcms]
+As soon as I posted a comment on the SNS topic, a comment[r]
+from "Pikarin" followed almost immediately. It was the kind[r]
+of timing you'd get by pressing F5 a few times to reload.[pcms]
 
 *5107|
 [fc]
-It was as if we were chatting; Pikarin and I were having a conversation through[r]
-our comments.[pcms]
+It was as if we were chatting; Pikarin and I were having a[r]
+conversation through our comments.[pcms]
 
 *5108|
 [fc]
-"By the way, the Perseids meteor shower is about to end too. I missed it this[r]
-year. I was thinking of watching after the peak day but missed that too. How[r]
-about you, Wataru?"[pcms]
+"By the way, the Perseids meteor shower is about to end too.[r]
+I missed it this year. I was thinking of watching after the[r]
+peak day but missed that too. How about you, Wataru?"[pcms]
 
 *5109|
 [fc]
-I missed it too. Even the camp I had planned fell through on the day itself. I[r]
-wanted to see the meteor shower but wasn't able to at that time. Can I still[r]
-catch some shooting stars?[pcms]
+I missed it too. Even the camp I had planned fell through on[r]
+the day itself. I wanted to see the meteor shower but wasn't[r]
+able to at that time. Can I still catch some shooting stars?[pcms]
 
 *5110|
 [fc]
-"Wataru too huh. Yeah, it overlaps with this period after all. In the shelter,[r]
-you can't just casually look up at the sky at night; I'm starting to feel[r]
-stressed out~"[pcms]
+"Wataru too huh. Yeah, it overlaps with this period after[r]
+all. In the shelter, you can't just casually look up at the[r]
+sky at night; I'm starting to feel stressed out~"[pcms]
 
 *5111|
 [fc]
-"Well, with the night sky clearing up soon and with meteor showers like the[r]
-Draconids and Leonids coming up, maybe I'll look forward to those instead.[r]
-Hopefully shelter life will be over by then..."[pcms]
+"Well, with the night sky clearing up soon and with meteor[r]
+showers like the Draconids and Leonids coming up, maybe I'll[r]
+look forward to those instead. Hopefully shelter life will[r]
+be over by then..."[pcms]
 
 *5112|
 [fc]
-There's still time until the Draconids and Leonids meteor showers. Will we be[r]
-able to return to normal life by then? The vague anxiety of not seeing an end.[pcms]
+There's still time until the Draconids and Leonids meteor[r]
+showers. Will we be able to return to normal life by then?[r]
+The vague anxiety of not seeing an end.[pcms]
 
 *5113|
 [fc]
-Pikarin and I both felt the same anxiety from our separate locations.[pcms]
+Pikarin and I both felt the same anxiety from our separate[r]
+locations.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1576,13 +1656,14 @@ Pikarin and I both felt the same anxiety from our separate locations.[pcms]
 
 *5115|
 [fc]
-The guns left behind by Tadahiko. Mine seems to be called Bob Chow Special.[r]
-Kousuke and Maruko-senpai had chosen the same gun from among those hidden awaya[r]
-Beretta.[pcms]
+The guns left behind by Tadahiko. Mine seems to be called[r]
+Bob Chow Special. Kousuke and Maruko-senpai had chosen the[r]
+same gun from among those hidden awaya Beretta.[pcms]
 
 *5116|
 [fc]
-Kousuke, Maruko-senpai, and I each took our respective guns in hand.[pcms]
+Kousuke, Maruko-senpai, and I each took our respective guns[r]
+in hand.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1590,9 +1671,10 @@ Kousuke, Maruko-senpai, and I each took our respective guns in hand.[pcms]
 [fc]
 [vo_mar s="maru_TE0039"]
 [ns]Margarita[nse]
-"This is a slide cocking type. Look here, when you pull this part back it slides[r]
-and you can see the barrel. When you let go of your hand, the slide returns to[r]
-its original position and at this point the first round is loaded."[pcms]
+"This is a slide cocking type. Look here, when you pull this[r]
+part back it slides and you can see the barrel. When you let[r]
+go of your hand, the slide returns to its original position[r]
+and at this point the first round is loaded."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1600,9 +1682,9 @@ its original position and at this point the first round is loaded."[pcms]
 [fc]
 [vo_mar s="maru_TE0040"]
 [ns]Margarita[nse]
-"The bullets are not loaded one by one into holes like in a revolver but into[r]
-this magazine heresee this? You load the bullets into this first and then insert[r]
-it into place."[pcms]
+"The bullets are not loaded one by one into holes like in a[r]
+revolver but into this magazine heresee this? You load the[r]
+bullets into this first and then insert it into place."[pcms]
 
 ;//se076・マガジンを填める音（あれば）
 [se buf=0 storage="se076"]
@@ -1613,9 +1695,10 @@ it into place."[pcms]
 [fc]
 [vo_mar s="maru_TE0041"]
 [ns]Margarita[nse]
-"With the initial slide action, you're ready to fire the first shot. Pulling the[r]
-trigger will fire the bullet and the next bullet loaded in this magazine will be[r]
-pushed up from below ready for the next shot."[pcms]
+"With the initial slide action, you're ready to fire the[r]
+first shot. Pulling the trigger will fire the bullet and the[r]
+next bullet loaded in this magazine will be pushed up from[r]
+below ready for the next shot."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1623,9 +1706,10 @@ pushed up from below ready for the next shot."[pcms]
 [fc]
 [vo_mar s="maru_TE0042"]
 [ns]Margarita[nse]
-"When you fire a bullet, at that instant from this slide part, the cartridge[r]
-case is ejected as if being flicked away. Unlike revolvers, no cartridge case[r]
-remains in the gun."[pcms]
+"When you fire a bullet, at that instant from this slide[r]
+part, the cartridge case is ejected as if being flicked[r]
+away. Unlike revolvers, no cartridge case remains in the[r]
+gun."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1633,9 +1717,10 @@ remains in the gun."[pcms]
 [fc]
 [vo_mar s="maru_TE0043"]
 [ns]Margarita[nse]
-"This is called a semi-automatic gun. After firing one shot, if you release your[r]
-finger from the trigger, it will be in a standby state. You can only shoot one[r]
-shot at a time, but you don't need to slide it back each time. Have you[r]
+"This is called a semi-automatic gun. After firing one shot,[r]
+if you release your finger from the trigger, it will be in a[r]
+standby state. You can only shoot one shot at a time, but[r]
+you don't need to slide it back each time. Have you[r]
 understood so far?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
@@ -1643,8 +1728,9 @@ understood so far?"[pcms]
 *5122|
 [fc]
 [ns]Kousuke[nse]
-"Hmm, well, mostly. So, I load the bullets into the magazine, insert it here,[r]
-and when I slide it, I can shoot... Is that correct?"[pcms]
+"Hmm, well, mostly. So, I load the bullets into the[r]
+magazine, insert it here, and when I slide it, I can[r]
+shoot... Is that correct?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1652,9 +1738,10 @@ and when I slide it, I can shoot... Is that correct?"[pcms]
 [fc]
 [vo_mar s="maru_TE0044"]
 [ns]Margarita[nse]
-"Well, that's fine. The important thing with any gun is to keep count of how[r]
-many shots you've already fired. By doing so, you can prevent running out of[r]
-bullets and reload calmly."[pcms]
+"Well, that's fine. The important thing with any gun is to[r]
+keep count of how many shots you've already fired. By doing[r]
+so, you can prevent running out of bullets and reload[r]
+calmly."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1662,14 +1749,16 @@ bullets and reload calmly."[pcms]
 [fc]
 [vo_mar s="maru_TE0045"]
 [ns]Margarita[nse]
-"By the way, with this gun, you can load 7 bullets into the magazine. However,[r]
-after sliding and loading the first bullet, if you remove the magazine and add[r]
-another bullet before reinserting it, you can shoot a total of 8 rounds."[pcms]
+"By the way, with this gun, you can load 7 bullets into the[r]
+magazine. However, after sliding and loading the first[r]
+bullet, if you remove the magazine and add another bullet[r]
+before reinserting it, you can shoot a total of 8 rounds."[pcms]
 
 *5125|
 [fc]
-While pointing at my gun, Maruko-senpai explained that Kousuke and Maruko-[r]
-senpai's guns... the Berettas could shoot 16 rounds with the same operation.[pcms]
+While pointing at my gun, Maruko-senpai explained that[r]
+Kousuke and Maruko- senpai's guns... the Berettas could[r]
+shoot 16 rounds with the same operation.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1677,9 +1766,9 @@ senpai's guns... the Berettas could shoot 16 rounds with the same operation.[pcm
 [fc]
 [vo_mar s="maru_TE0046"]
 [ns]Margarita[nse]
-"Always count the number of shots you've fired. Don't forget that. Counting[r]
-helps keep your mind somewhat cool. Remember this as a mindset when handling[r]
-guns."[pcms]
+"Always count the number of shots you've fired. Don't forget[r]
+that. Counting helps keep your mind somewhat cool. Remember[r]
+this as a mindset when handling guns."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1699,13 +1788,14 @@ guns."[pcms]
 [fc]
 [vo_mar s="maru_TE0047"]
 [ns]Margarita[nse]
-"...Well, that's fine. When it comes to real combat, you'll remember what I[r]
-said. Just like I did. Now, take aim. The target is that PET bottle."[pcms]
+"...Well, that's fine. When it comes to real combat, you'll[r]
+remember what I said. Just like I did. Now, take aim. The[r]
+target is that PET bottle."[pcms]
 
 *5130|
 [fc]
-Several meters away, PET bottles filled with blue liquid were arranged at[r]
-varying heights.[pcms]
+Several meters away, PET bottles filled with blue liquid[r]
+were arranged at varying heights.[pcms]
 
 *5131|
 [fc]
@@ -1718,8 +1808,9 @@ varying heights.[pcms]
 [fc]
 [vo_mar s="maru_TE0048"]
 [ns]Margarita[nse]
-"Ah, I thought it would be easier to see with color. I wanted you to see the[r]
-splash when the bullet hits and how the water flies."[pcms]
+"Ah, I thought it would be easier to see with color. I[r]
+wanted you to see the splash when the bullet hits and how[r]
+the water flies."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1742,12 +1833,13 @@ splash when the bullet hits and how the water flies."[pcms]
 [fc]
 [vo_mar s="maru_TE0050"]
 [ns]Margarita[nse]
-"...The toilet. That doesn't matter right now. Hurry up and take aim."[pcms]
+"...The toilet. That doesn't matter right now. Hurry up and[r]
+take aim."[pcms]
 
 *5136|
 [fc]
-Kousuke crouched slightly and extended one hand straight out, holding the gun[r]
-sideways as he aimed...[pcms]
+Kousuke crouched slightly and extended one hand straight[r]
+out, holding the gun sideways as he aimed...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1762,7 +1854,8 @@ sideways as he aimed...[pcms]
 *5138|
 [fc]
 [ns]Kousuke[nse]
-"Eh? Oh, no. I saw it in a movie. It looked pretty cool. Is that not okay?"[pcms]
+"Eh? Oh, no. I saw it in a movie. It looked pretty cool. Is[r]
+that not okay?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a24"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1770,9 +1863,9 @@ sideways as he aimed...[pcms]
 [fc]
 [vo_mar s="maru_TE0052"]
 [ns]Margarita[nse]
-"If you can hit your target exactly like that, you must be quite the pro. Aim[r]
-normally. Besides, with that stance, you can't complain if you get burned on[r]
-your face."[pcms]
+"If you can hit your target exactly like that, you must be[r]
+quite the pro. Aim normally. Besides, with that stance, you[r]
+can't complain if you get burned on your face."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c7"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1787,9 +1880,9 @@ your face."[pcms]
 [fc]
 [vo_mar s="maru_TE0053"]
 [ns]Margarita[nse]
-"I explained earlier. This type ejects the cartridge case. Without a doubt, hot[r]
-cartridge cases heated by gunpowder will hit your face several times with that[r]
-stance."[pcms]
+"I explained earlier. This type ejects the cartridge case.[r]
+Without a doubt, hot cartridge cases heated by gunpowder[r]
+will hit your face several times with that stance."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1804,8 +1897,8 @@ stance."[pcms]
 [fc]
 [vo_mar s="maru_TE0054"]
 [ns]Margarita[nse]
-"Also, handguns are basically made to be shot with one hand. But at first, shoot[r]
-with both hands."[pcms]
+"Also, handguns are basically made to be shot with one hand.[r]
+But at first, shoot with both hands."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1813,9 +1906,11 @@ with both hands."[pcms]
 [fc]
 [vo_mar s="maru_TE0055"]
 [ns]Margarita[nse]
-"No matter how small the gun is, there will always be recoil. That recoil causes[r]
-shaking. Until you get used to the sensation of aiming and shooting a gun, it's[r]
-easier to hit your target if you shoot with both hands while crouching."[pcms]
+"No matter how small the gun is, there will always be[r]
+recoil. That recoil causes shaking. Until you get used to[r]
+the sensation of aiming and shooting a gun, it's easier to[r]
+hit your target if you shoot with both hands while[r]
+crouching."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1836,9 +1931,9 @@ easier to hit your target if you shoot with both hands while crouching."[pcms]
 [fc]
 [vo_mar s="maru_TE0057"]
 [ns]Margarita[nse]
-"Well, it rarely happens if you maintain and inspect it properly. Normally the[r]
-ejected cartridge case gets stuck or the next bullet to be loaded doesn't fit[r]
-properly."[pcms]
+"Well, it rarely happens if you maintain and inspect it[r]
+properly. Normally the ejected cartridge case gets stuck or[r]
+the next bullet to be loaded doesn't fit properly."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1846,9 +1941,10 @@ properly."[pcms]
 [fc]
 [vo_mar s="maru_TE0058"]
 [ns]Margarita[nse]
-"That condition is called jamming. If the cartridge case gets stuck, you can see[r]
-it with your eyes. If you try to shoot and it doesn't fire, then it's likely[r]
-that the bullet isn't seated properly."[pcms]
+"That condition is called jamming. If the cartridge case[r]
+gets stuck, you can see it with your eyes. If you try to[r]
+shoot and it doesn't fire, then it's likely that the bullet[r]
+isn't seated properly."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1856,9 +1952,10 @@ that the bullet isn't seated properly."[pcms]
 [fc]
 [vo_mar s="maru_TE0059"]
 [ns]Margarita[nse]
-"In that case, don't try to fix it carelessly. Worst case scenario, that gun[r]
-will never work again. If you're facing 'them', it's better to give up and think[r]
-of another method. Like running away or hitting them."[pcms]
+"In that case, don't try to fix it carelessly. Worst case[r]
+scenario, that gun will never work again. If you're facing[r]
+'them', it's better to give up and think of another method.[r]
+Like running away or hitting them."[pcms]
 
 *5150|
 [fc]
@@ -1871,13 +1968,14 @@ of another method. Like running away or hitting them."[pcms]
 [fc]
 [vo_mar s="maru_TE0060"]
 [ns]Margarita[nse]
-"Well, it's not something that happens often. But it's better to know that it[r]
-can happen. Now, take aim, Kousuke, Ayase."[pcms]
+"Well, it's not something that happens often. But it's[r]
+better to know that it can happen. Now, take aim, Kousuke,[r]
+Ayase."[pcms]
 
 *5152|
 [fc]
-Both Kousuke and I gripped our guns with both hands and crouched slightly as we[r]
-aimed at the PET bottle targets.[pcms]
+Both Kousuke and I gripped our guns with both hands and[r]
+crouched slightly as we aimed at the PET bottle targets.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1885,13 +1983,14 @@ aimed at the PET bottle targets.[pcms]
 [fc]
 [vo_mar s="maru_TE0061"]
 [ns]Margarita[nse]
-"That's a pretty good basic stance. Now let's load the bullets and actually[r]
-shoot. However, bullets are precious... Let's say three shots each."[pcms]
+"That's a pretty good basic stance. Now let's load the[r]
+bullets and actually shoot. However, bullets are precious...[r]
+Let's say three shots each."[pcms]
 
 *5154|
 [fc]
-Kousuke and I loaded three bullets each into our magazines and set them in our[r]
-guns following Maruko-senpai's example.[pcms]
+Kousuke and I loaded three bullets each into our magazines[r]
+and set them in our guns following Maruko-senpai's example.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1899,8 +1998,9 @@ guns following Maruko-senpai's example.[pcms]
 [fc]
 [vo_mar s="maru_TE0062"]
 [ns]Margarita[nse]
-"Don't shoot until I say it's okay to shoot. I'm going to teach you how to aim[r]
-now. First fully slide back to load the first bullet. Right. Next is aiming."[pcms]
+"Don't shoot until I say it's okay to shoot. I'm going to[r]
+teach you how to aim now. First fully slide back to load the[r]
+first bullet. Right. Next is aiming."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1908,9 +2008,10 @@ now. First fully slide back to load the first bullet. Right. Next is aiming."[pc
 [fc]
 [vo_mar s="maru_TE0063"]
 [ns]Margarita[nse]
-"There's a protrusion at the end of the barrel, right? Align that with the[r]
-target. Have you done that? Next, adjust so that protrusion is visible between[r]
-the groove here at the front."[pcms]
+"There's a protrusion at the end of the barrel, right? Align[r]
+that with the target. Have you done that? Next, adjust so[r]
+that protrusion is visible between the groove here at the[r]
+front."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1918,9 +2019,10 @@ the groove here at the front."[pcms]
 [fc]
 [vo_mar s="maru_TE0064"]
 [ns]Margarita[nse]
-"Make sure the protrusion fits straight between the groove. The target ahead[r]
-should appear in a straight line. Ayase, don't close one eye. You'll lose your[r]
-aim if you don't look with both eyes."[pcms]
+"Make sure the protrusion fits straight between the groove.[r]
+The target ahead should appear in a straight line. Ayase,[r]
+don't close one eye. You'll lose your aim if you don't look[r]
+with both eyes."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1945,8 +2047,9 @@ aim if you don't look with both eyes."[pcms]
 
 *5160|
 [fc]
-The PET bottle Kousuke aimed at was splendidly hit and blue water scattered[r]
-behind it. The PET bottle I aimed at... remained untouched.[pcms]
+The PET bottle Kousuke aimed at was splendidly hit and blue[r]
+water scattered behind it. The PET bottle I aimed at...[r]
+remained untouched.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1954,9 +2057,9 @@ behind it. The PET bottle I aimed at... remained untouched.[pcms]
 [fc]
 [vo_mar s="maru_TE0066"]
 [ns]Margarita[nse]
-"Ayase, tighten your arms a bit more, yes, like that. When you shoot, the[r]
-handgun will try to jump up. Be aware of that and tighten your arms to minimize[r]
-shaking. Try again."[pcms]
+"Ayase, tighten your arms a bit more, yes, like that. When[r]
+you shoot, the handgun will try to jump up. Be aware of that[r]
+and tighten your arms to minimize shaking. Try again."[pcms]
 
 ;//se026・銃声１発
 [se buf=0 storage="se026"]
@@ -1966,8 +2069,9 @@ shaking. Try again."[pcms]
 
 *5162|
 [fc]
-Blue water scattered from the PET bottle I aimed at. It seems to have hit[r]
-slightly above where I was aiming. Kousuke had hit his second shot as well.[pcms]
+Blue water scattered from the PET bottle I aimed at. It[r]
+seems to have hit slightly above where I was aiming. Kousuke[r]
+had hit his second shot as well.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1975,9 +2079,10 @@ slightly above where I was aiming. Kousuke had hit his second shot as well.[pcms
 [fc]
 [vo_mar s="maru_TE0067"]
 [ns]Margarita[nse]
-"Hmm, well enough for a first try. There's no other way but to gain experience[r]
-from here on out. That goes for everyone. Even so, hitting every shot perfectly[r]
-is not something guns can do."[pcms]
+"Hmm, well enough for a first try. There's no other way but[r]
+to gain experience from here on out. That goes for everyone.[r]
+Even so, hitting every shot perfectly is not something guns[r]
+can do."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1985,7 +2090,8 @@ is not something guns can do."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0023"]
 [ns]Yuuho[nse]
-"Ah! They're doing it! Senpai, please teach me how to handle a gun too."[pcms]
+"Ah! They're doing it! Senpai, please teach me how to handle[r]
+a gun too."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1997,39 +2103,44 @@ is not something guns can do."[pcms]
 
 *5166|
 [fc]
-After Kousuke and I each fired our remaining shot, we switched places with Yuuho[r]
-and Ren. Kousuke was handing his gun over to Yuuho.[pcms]
+After Kousuke and I each fired our remaining shot, we[r]
+switched places with Yuuho and Ren. Kousuke was handing his[r]
+gun over to Yuuho.[pcms]
 
 *5167|
 [fc]
-Ren was handed another type of gun by Maruko-senpaia Glockwhich she had[r]
-previously mentioned was easy to handle. My gun was from Hiko-chin...[pcms]
+Ren was handed another type of gun by Maruko-senpaia[r]
+Glockwhich she had previously mentioned was easy to handle.[r]
+My gun was from Hiko-chin...[pcms]
 
 *5168|
 [fc]
-Just like she did with us, Maruko-senpai carefully explained to Yuuho and Ren[r]
-before adding more PET bottles for them to aim at. Kousuke and I moved aside to[r]
-watch.[pcms]
+Just like she did with us, Maruko-senpai carefully explained[r]
+to Yuuho and Ren before adding more PET bottles for them to[r]
+aim at. Kousuke and I moved aside to watch.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5169|
 [fc]
 [ns]Kousuke[nse]
-"I never thought I'd have the chance to fire a handgun myself..."[pcms]
+"I never thought I'd have the chance to fire a handgun[r]
+myself..."[pcms]
 
 *5170|
 [fc]
 [ns]Wataru[nse]
-"Yeah... I thought I'd never have such an opportunity in my life."[pcms]
+"Yeah... I thought I'd never have such an opportunity in my[r]
+life."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5171|
 [fc]
 [ns]Kousuke[nse]
-"...right. I've heard there are places abroad where they let you shoot, but I[r]
-never would have done it if I hadn't wanted to."[pcms]
+"...right. I've heard there are places abroad where they let[r]
+you shoot, but I never would have done it if I hadn't wanted[r]
+to."[pcms]
 
 *5172|
 [fc]
@@ -2038,13 +2149,15 @@ never would have done it if I hadn't wanted to."[pcms]
 
 *5173|
 [fc]
-Maruko-senpai carefully teaches us how to handle guns. She must have been taught[r]
-by someone too, and had no choice but to shoot.[pcms]
+Maruko-senpai carefully teaches us how to handle guns. She[r]
+must have been taught by someone too, and had no choice but[r]
+to shoot.[pcms]
 
 *5174|
 [fc]
-While feeling grateful that Maruko-senpai is here with us, I couldn't help but[r]
-wish I didn't know about the world she experienced or the current situation.[pcms]
+While feeling grateful that Maruko-senpai is here with us, I[r]
+couldn't help but wish I didn't know about the world she[r]
+experienced or the current situation.[pcms]
 
 ;//se026・銃声１発
 [se buf=0 storage="se026"]
@@ -2071,8 +2184,8 @@ wish I didn't know about the world she experienced or the current situation.[pcm
 [fc]
 [vo_ren s="ren_TE0016"]
 [ns]Ren[nse]
-"Senpai... I'm not confident, so I'd like to try shooting from point-blank[r]
-range."[pcms]
+"Senpai... I'm not confident, so I'd like to try shooting[r]
+from point-blank range."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2092,8 +2205,8 @@ range."[pcms]
 
 *5180|
 [fc]
-Ren walked briskly towards the target PET bottles, pressed the gun barrel[r]
-against one, and pulled the trigger.[pcms]
+Ren walked briskly towards the target PET bottles, pressed[r]
+the gun barrel against one, and pulled the trigger.[pcms]
 
 ;//se026・銃声１発
 [se buf=0 storage="se026"]
@@ -2104,8 +2217,8 @@ against one, and pulled the trigger.[pcms]
 [fc]
 [vo_ren s="ren_TE0018"]
 [ns]Ren[nse]
-"Uwaa... Senpai... I got quite wet... This method wouldn't work against those[r]
-people, would it?"[pcms]
+"Uwaa... Senpai... I got quite wet... This method wouldn't[r]
+work against those people, would it?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2113,8 +2226,9 @@ people, would it?"[pcms]
 [fc]
 [vo_mar s="maru_TE0070"]
 [ns]Margarita[nse]
-"Yeah, that's right. Unless you're fully protected, it's safer to stop. Instead[r]
-of saying you're not confident, why not try shooting from a distance too, Ren?"[pcms]
+"Yeah, that's right. Unless you're fully protected, it's[r]
+safer to stop. Instead of saying you're not confident, why[r]
+not try shooting from a distance too, Ren?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -2126,14 +2240,15 @@ of saying you're not confident, why not try shooting from a distance too, Ren?"[
 
 *5184|
 [fc]
-After that, Yuuho hit her remaining two shots and was praised by Maruko-senpai[r]
-again. Ren seemed to have given up after just one shot. She said she would think[r]
-of a different way to protect herself.[pcms]
+After that, Yuuho hit her remaining two shots and was[r]
+praised by Maruko-senpai again. Ren seemed to have given up[r]
+after just one shot. She said she would think of a different[r]
+way to protect herself.[pcms]
 
 *5185|
 [fc]
-In the end, Maruko-senpai demonstrated her shooting, and that concluded the[r]
-day's lecture.[pcms]
+In the end, Maruko-senpai demonstrated her shooting, and[r]
+that concluded the day's lecture.[pcms]
 
 ;//フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -2149,8 +2264,8 @@ day's lecture.[pcms]
 
 *5187|
 [fc]
-I showered off the sweat in the shower room and returned to my room, getting[r]
-ready to sleep.[pcms]
+I showered off the sweat in the shower room and returned to[r]
+my room, getting ready to sleep.[pcms]
 
 *5188|
 [fc]
@@ -2166,9 +2281,10 @@ ready to sleep.[pcms]
 
 *5190|
 [fc]
-That was Mizuki's voice. It was coming from the women's shower room. And... it[r]
-was a moan. They were... I'm not saying they shouldn't do it, but I wish they'd[r]
-consider the place and time a bit more.[pcms]
+That was Mizuki's voice. It was coming from the women's[r]
+shower room. And... it was a moan. They were... I'm not[r]
+saying they shouldn't do it, but I wish they'd consider the[r]
+place and time a bit more.[pcms]
 
 
 ;システムボタン＆ウィンドウ消去
@@ -2193,8 +2309,8 @@ consider the place and time a bit more.[pcms]
 
 *5191|
 [fc]
-I woke up early again. When I went to the seventh floor, I could hear Maruko-[r]
-senpai's voice from outside the dorm.[pcms]
+I woke up early again. When I went to the seventh floor, I[r]
+could hear Maruko- senpai's voice from outside the dorm.[pcms]
 
 *5192|
 [fc]
@@ -2217,9 +2333,10 @@ senpai's voice from outside the dorm.[pcms]
 
 *5194|
 [fc]
-While thinking it was just a precaution, I tiptoed up to the rooftop and peeked[r]
-secretly so as not to be found. It seemed she was practicing again this morning.[r]
-To avoid being caught, I quietly returned to the seventh floor.[pcms]
+While thinking it was just a precaution, I tiptoed up to the[r]
+rooftop and peeked secretly so as not to be found. It seemed[r]
+she was practicing again this morning. To avoid being[r]
+caught, I quietly returned to the seventh floor.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -2230,33 +2347,36 @@ To avoid being caught, I quietly returned to the seventh floor.[pcms]
 
 *5195|
 [fc]
-We had breakfast with the TV on. Rice with miso soup. Pickles with nori and[r]
-fried eggs. It was enough to fill our stomachs. Ren had said that this was all[r]
-there was.[pcms]
+We had breakfast with the TV on. Rice with miso soup.[r]
+Pickles with nori and fried eggs. It was enough to fill our[r]
+stomachs. Ren had said that this was all there was.[pcms]
 
 [evcg storage="evs005"][trans_c cross time=300]
 
 *5196|
 [fc]
 [ns]Announcer[nse]
-"According to the government's announcement, the first wave of supply drops has[r]
-almost concluded. It seems to have reached the major evacuation centers, but not[r]
-all of the smaller ones."[pcms]
+"According to the government's announcement, the first wave[r]
+of supply drops has almost concluded. It seems to have[r]
+reached the major evacuation centers, but not all of the[r]
+smaller ones."[pcms]
 
 *5197|
 [fc]
 [ns]Announcer[nse]
-"When the next one will be is still undecided, and we will inform you as soon as[r]
-there is an announcement... Repeating, we will inform you..."[pcms]
+"When the next one will be is still undecided, and we will[r]
+inform you as soon as there is an announcement... Repeating,[r]
+we will inform you..."[pcms]
 
 [bg storage="BG019a"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
 
 *5198|
 [fc]
-The live broadcast from the evacuation centers seemed to have been discontinued[r]
-altogether. The announcer repeated only the necessary news several times before[r]
-switching to a standby screen.[pcms]
+The live broadcast from the evacuation centers seemed to[r]
+have been discontinued altogether. The announcer repeated[r]
+only the necessary news several times before switching to a[r]
+standby screen.[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020a"][trans_c cross time=500]
@@ -2264,19 +2384,22 @@ switching to a standby screen.[pcms]
 
 *5199|
 [fc]
-"There were supplies, but it seems there weren't many. There are more disputes[r]
-happening here now. By the way, comments from other people have decreased too."[pcms]
+"There were supplies, but it seems there weren't many. There[r]
+are more disputes happening here now. By the way, comments[r]
+from other people have decreased too."[pcms]
 
 *5200|
 [fc]
-The exchange of comments with "Pikarin," which has become a routine after[r]
-breakfast, indeed showed a decrease in the number of comments.[pcms]
+The exchange of comments with "Pikarin," which has become a[r]
+routine after breakfast, indeed showed a decrease in the[r]
+number of comments.[pcms]
 
 *5201|
 [fc]
-The reason is something I don't want to think about too much. I hope it's simply[r]
-because PCs can't be used all the time or mobile phones aren't connecting.[r]
-That's what I discussed with "Pikarin."[pcms]
+The reason is something I don't want to think about too[r]
+much. I hope it's simply because PCs can't be used all the[r]
+time or mobile phones aren't connecting. That's what I[r]
+discussed with "Pikarin."[pcms]
 
 ;//★_LESER　７階
 [bg storage="BG019a"][trans_c cross time=500]
@@ -2294,9 +2417,10 @@ That's what I discussed with "Pikarin."[pcms]
 
 *5202|
 [fc]
-The sound of a violin could be heard. Ren was practicing in her school uniform[r]
-in a dome with good acoustics. I thought about calling out to her but decided[r]
-not to. Jin-san was sitting directly in front of her, listening intently.[pcms]
+The sound of a violin could be heard. Ren was practicing in[r]
+her school uniform in a dome with good acoustics. I thought[r]
+about calling out to her but decided not to. Jin-san was[r]
+sitting directly in front of her, listening intently.[pcms]
 
 [bg storage="BG019a"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
@@ -2305,15 +2429,17 @@ not to. Jin-san was sitting directly in front of her, listening intently.[pcms]
 
 *5203|
 [fc]
-Jin-san seemed to be listening with his eyes closed and arms crossed. At first,[r]
-he seemed quite intimidating and unapproachable, with an atmosphere that seemed[r]
-to reject others.[pcms]
+Jin-san seemed to be listening with his eyes closed and arms[r]
+crossed. At first, he seemed quite intimidating and[r]
+unapproachable, with an atmosphere that seemed to reject[r]
+others.[pcms]
 
 *5204|
 [fc]
-But after living together for several days, he turned out to be much more[r]
-communicative than Shigeyoshi, and I got used to Jin-san's reactions. It felt[r]
-like Jin-san was gradually fitting in too.[pcms]
+But after living together for several days, he turned out to[r]
+be much more communicative than Shigeyoshi, and I got used[r]
+to Jin-san's reactions. It felt like Jin-san was gradually[r]
+fitting in too.[pcms]
 
 ;mm 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -2330,9 +2456,10 @@ like Jin-san was gradually fitting in too.[pcms]
 
 *5205|
 [fc]
-I went up to the usual spot on the rooftop thinking of watching something on[r]
-One-Seg. I could hear cheerful voices. When I went out onto the rooftop, Maruko-[r]
-senpai and Yuuho were playing badminton in casual clothes.[pcms]
+I went up to the usual spot on the rooftop thinking of[r]
+watching something on One-Seg. I could hear cheerful voices.[r]
+When I went out onto the rooftop, Maruko- senpai and Yuuho[r]
+were playing badminton in casual clothes.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -2360,9 +2487,10 @@ senpai and Yuuho were playing badminton in casual clothes.[pcms]
 
 *5209|
 [fc]
-It was a fun scene to watch. I passed by without disturbing them and took my[r]
-usual spot on top of the signboard. Yuuho and Maruko-senpai seemed to notice me[r]
-but were too engrossed in their match.[pcms]
+It was a fun scene to watch. I passed by without disturbing[r]
+them and took my usual spot on top of the signboard. Yuuho[r]
+and Maruko-senpai seemed to notice me but were too engrossed[r]
+in their match.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -2374,14 +2502,14 @@ but were too engrossed in their match.[pcms]
 
 *5211|
 [fc]
-It looked like Yuuho had hit a home run with the shuttlecock. The shuttle flew[r]
-off energetically from the rooftop. Casually following its trajectory with my[r]
-eyes...[pcms]
+It looked like Yuuho had hit a home run with the[r]
+shuttlecock. The shuttle flew off energetically from the[r]
+rooftop. Casually following its trajectory with my eyes...[pcms]
 
 *5212|
 [fc]
-The shuttlecock falling from the rooftop... Below, I could see them writhing[r]
-around.[pcms]
+The shuttlecock falling from the rooftop... Below, I could[r]
+see them writhing around.[pcms]
 
 [fadeoutbgm time=500]
 ;//★_渋谷街中
@@ -2405,9 +2533,10 @@ around.[pcms]
 
 *5215|
 [fc]
-It was that girl. She seemed a bit different from the others even from afar; it[r]
-was easy to tell. She was still wandering around here. She picked up the[r]
-shuttlecock and looked up at us.[pcms]
+It was that girl. She seemed a bit different from the others[r]
+even from afar; it was easy to tell. She was still wandering[r]
+around here. She picked up the shuttlecock and looked up at[r]
+us.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -2423,62 +2552,65 @@ shuttlecock and looked up at us.[pcms]
 [fc]
 [vo_miz s="mizuki_TE0013"]
 [ns]Mizuki[nse]
-"Aaah! That feels good, Kousuke! Your cock inside me... Ahh, that's great...[r]
-amazing... ahhh!"[pcms]
+"Aaah! That feels good, Kousuke! Your cock inside me... Ahh,[r]
+that's great... amazing... ahhh!"[pcms]
 
 *5217|
 [fc]
 [ns]Kousuke[nse]
-"Ugh... Mizuki, you're amazing; your pussy is so wet. Come on, tighten up more.[r]
-Mizuki, come on!"[pcms]
+"Ugh... Mizuki, you're amazing; your pussy is so wet. Come[r]
+on, tighten up more. Mizuki, come on!"[pcms]
 
 *5218|
 [fc]
 [vo_miz s="mizuki_TE0014"]
 [ns]Mizuki[nse]
-"Aiiii!! Nnhah! Ahhh!! Aaah! More, more Kousuke, fill me up... thrust into me...[r]
-nhaahh, ahhhh!"[pcms]
+"Aiiii!! Nnhah! Ahhh!! Aaah! More, more Kousuke, fill me[r]
+up... thrust into me... nhaahh, ahhhh!"[pcms]
 
 *5219|
 [fc]
 [vo_miz s="mizuki_TE0015"]
 [ns]Mizuki[nse]
-"Nnaaah! Amazing, it's so hot! My pussy is so hot... that's good, ahiiii![r]
-Kousuke's cock, rub it moreee!"[pcms]
+"Nnaaah! Amazing, it's so hot! My pussy is so hot... that's[r]
+good, ahiiii! Kousuke's cock, rub it moreee!"[pcms]
 
 *5220|
 [fc]
 [ns]Kousuke[nse]
-"Woahhh. Damn, Mizuki's pussy is clinging onto mine... More of that, more! Come[r]
-on, Mizuki. More of that! Come on!!"[pcms]
+"Woahhh. Damn, Mizuki's pussy is clinging onto mine... More[r]
+of that, more! Come on, Mizuki. More of that! Come on!!"[pcms]
 
 *5221|
 [fc]
 [vo_miz s="mizuki_TE0016"]
 [ns]Mizuki[nse]
-"Aaah! Aaah! Aaah! Ahhh!! That's good, my, my naughty crotch, more, so much[r]
-more! Thrust, thrust, thrust into me, ahh! Ahhhhh!"[pcms]
+"Aaah! Aaah! Aaah! Ahhh!! That's good, my, my naughty[r]
+crotch, more, so much more! Thrust, thrust, thrust into me,[r]
+ahh! Ahhhhh!"[pcms]
 
 *5222|
 [fc]
 [vo_miz s="mizuki_TE0017"]
 [ns]Mizuki[nse]
-"Droo... droo, my crotch, it's so hot, it's melting! Ahh! Ahh! Ahhhhh! No, no[r]
-more... I can't... ahhh!"[pcms]
+"Droo... droo, my crotch, it's so hot, it's melting! Ahh![r]
+Ahh! Ahhhhh! No, no more... I can't... ahhh!"[pcms]
 
 *5223|
 [fc]
 [vo_miz s="mizuki_TE0018"]
 [ns]Mizuki[nse]
-"K-Kousuke... I'm, ahhh... going to cum... ahh! Ahhh! I can't take it anymore![r]
-I'm cumming, I'm cumming so much inside..."[pcms]
+"K-Kousuke... I'm, ahhh... going to cum... ahh! Ahhh! I[r]
+can't take it anymore! I'm cumming, I'm cumming so much[r]
+inside..."[pcms]
 
 *5224|
 [fc]
 [vo_miz s="mizuki_TE0019"]
 [ns]Mizuki[nse]
-"Kousuke's cum, I want it ahhh! Give it to me. I'm cumming, I'm going to cum,[r]
-cumming so much! Please, Kousuke's cum, pleaseee!"[pcms]
+"Kousuke's cum, I want it ahhh! Give it to me. I'm cumming,[r]
+I'm going to cum, cumming so much! Please, Kousuke's cum,[r]
+pleaseee!"[pcms]
 
 *5225|
 [fc]
@@ -2489,8 +2621,8 @@ cumming so much! Please, Kousuke's cum, pleaseee!"[pcms]
 [fc]
 [vo_miz s="mizuki_TE0020"]
 [ns]Mizuki[nse]
-"Nnaaahhh!! Ahhiiiiiiiiii!!! I'm cummingggggg!! Cumming so harddddd!![r]
-Nhiiaaahhh!!"[pcms]
+"Nnaaahhh!! Ahhiiiiiiiiii!!! I'm cummingggggg!! Cumming so[r]
+harddddd!! Nhiiaaahhh!!"[pcms]
 
 ;//#_ホワイトフラッシュ
 ;//〆HEV039
@@ -2513,8 +2645,8 @@ Nhiiaaahhh!!"[pcms]
 
 *5227|
 [fc]
-Maruko-senpai called for a gathering. Wondering what it was about, everyone[r]
-gathered on the first floor as instructed.[pcms]
+Maruko-senpai called for a gathering. Wondering what it was[r]
+about, everyone gathered on the first floor as instructed.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a24"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2522,15 +2654,17 @@ gathered on the first floor as instructed.[pcms]
 [fc]
 [vo_mar s="maru_TE0074"]
 [ns]Margarita[nse]
-"Ah, that, you know... finally, I can make coffee to a degree that even I'm[r]
-satisfied with. So... I thought maybe everyone would like to try it..."[pcms]
+"Ah, that, you know... finally, I can make coffee to a[r]
+degree that even I'm satisfied with. So... I thought maybe[r]
+everyone would like to try it..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c6"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5229|
 [fc]
 [ns]Kousuke[nse]
-"Huh? I was wondering what this was all about, Maruko-senpai."[pcms]
+"Huh? I was wondering what this was all about, Maruko-[r]
+senpai."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2538,8 +2672,8 @@ satisfied with. So... I thought maybe everyone would like to try it..."[pcms]
 [fc]
 [vo_mar s="maru_TE0075"]
 [ns]Margarita[nse]
-"Sorry. That... since I can't cook... at least, I thought I could make[r]
-coffee..."[pcms]
+"Sorry. That... since I can't cook... at least, I thought I[r]
+could make coffee..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -2559,9 +2693,9 @@ coffee..."[pcms]
 
 *5233|
 [fc]
-Maruko-senpai looked adorably out of place. With the help of Yuuho and Ren, she[r]
-placed the steaming coffee in front of everyone and then stood by to watch their[r]
-reactions.[pcms]
+Maruko-senpai looked adorably out of place. With the help of[r]
+Yuuho and Ren, she placed the steaming coffee in front of[r]
+everyone and then stood by to watch their reactions.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -2597,19 +2731,21 @@ reactions.[pcms]
 [fc]
 [vo_miz s="mizuki_TE0021"]
 [ns]Mizuki[nse]
-"Nnfuuu. It smells good. It's been a while since I had such delicious coffee."[pcms]
+"Nnfuuu. It smells good. It's been a while since I had such[r]
+delicious coffee."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5239|
 [fc]
 [ns]Jin[nse]
-"Yeah. The balance of acidity and bitterness is good. The aroma is nice too."[pcms]
+"Yeah. The balance of acidity and bitterness is good. The[r]
+aroma is nice too."[pcms]
 
 *5240|
 [fc]
-As everyone voiced how delicious it was, Maruko-senpai showed an indescribably[r]
-happy and radiant smile.[pcms]
+As everyone voiced how delicious it was, Maruko-senpai[r]
+showed an indescribably happy and radiant smile.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2625,8 +2761,8 @@ happy and radiant smile.[pcms]
 [fc]
 [vo_ren s="ren_TE0022"]
 [ns]Ren[nse]
-"It really is delicious, senpai. Can I ask you to make coffee whenever I feel[r]
-like drinking some from now on?"[pcms]
+"It really is delicious, senpai. Can I ask you to make[r]
+coffee whenever I feel like drinking some from now on?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2650,9 +2786,10 @@ like drinking some from now on?"[pcms]
 
 *5244|
 [fc]
-The dome was empty. Shadows ran across the ceiling where daylight still[r]
-lingered. The sound of flapping wings. The cries that could be heard were eerie.[r]
-Though their forms were unseen, only the black shadows ominously crossed over.[pcms]
+The dome was empty. Shadows ran across the ceiling where[r]
+daylight still lingered. The sound of flapping wings. The[r]
+cries that could be heard were eerie. Though their forms[r]
+were unseen, only the black shadows ominously crossed over.[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -2683,16 +2820,18 @@ Though their forms were unseen, only the black shadows ominously crossed over.[p
 
 *5246|
 [fc]
-Waking up early had become a habit for me. While idly spending time on the[r]
-seventh floor, I listened to Maruko-senpai's practice shouts. That too was[r]
-becoming part of my morning routine.[pcms]
+Waking up early had become a habit for me. While idly[r]
+spending time on the seventh floor, I listened to Maruko-[r]
+senpai's practice shouts. That too was becoming part of my[r]
+morning routine.[pcms]
 
 ;//★_LESER　７階
 
 *5247|
 [fc]
-Rice with miso soup. Seaweed with pickles and potato salad. It seems the eggs[r]
-are gone, but there's still plenty of rice left. That's what Ren was saying.[pcms]
+Rice with miso soup. Seaweed with pickles and potato salad.[r]
+It seems the eggs are gone, but there's still plenty of rice[r]
+left. That's what Ren was saying.[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020a"][trans_c cross time=500]
@@ -2700,27 +2839,29 @@ are gone, but there's still plenty of rice left. That's what Ren was saying.[pcm
 
 *5248|
 [fc]
-There were no new comments on the community site. No new topics either. I added[r]
-some comments and pressed the F5 key several times but there was no reply from[r]
-"Pikarin."[pcms]
+There were no new comments on the community site. No new[r]
+topics either. I added some comments and pressed the F5 key[r]
+several times but there was no reply from "Pikarin."[pcms]
 
 *5249|
 [fc]
-When I checked the video site, there were some new arrivals. Clicking to watch[r]
-them revealed that half of the new videos were desperate pleas for rescue and[r]
-requests for medical supplies and food.[pcms]
+When I checked the video site, there were some new arrivals.[r]
+Clicking to watch them revealed that half of the new videos[r]
+were desperate pleas for rescue and requests for medical[r]
+supplies and food.[pcms]
 
 *5250|
 [fc]
-The other half were videos that seemed almost like last wills and testaments.[r]
-They were proof of survival or messages filled with despair aimed at family[r]
-members, lovers, and acquaintances they hadn't been able to meet.[pcms]
+The other half were videos that seemed almost like last[r]
+wills and testaments. They were proof of survival or[r]
+messages filled with despair aimed at family members,[r]
+lovers, and acquaintances they hadn't been able to meet.[pcms]
 
 *5251|
 [fc]
-I realized once again that the place where we were was still better off than[r]
-others. Returning to the SNS site, there still wasn't any reply from "Pikarin."[r]
-I hope they're safe.[pcms]
+I realized once again that the place where we were was still[r]
+better off than others. Returning to the SNS site, there[r]
+still wasn't any reply from "Pikarin." I hope they're safe.[pcms]
 
 ;//★_LESER　１階地階コンティニュー
 [bg storage="BGS005a"][trans_c cross time=500]
@@ -2803,8 +2944,8 @@ I hope they're safe.[pcms]
 *5261|
 [fc]
 [ns]Wataru[nse]
-"No way. Today's me is just a facade. Next time you'll see my true form. Wait,[r]
-where's Ren?"[pcms]
+"No way. Today's me is just a facade. Next time you'll see[r]
+my true form. Wait, where's Ren?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -2812,7 +2953,8 @@ where's Ren?"[pcms]
 [fc]
 [vo_yuh s="yuho_TE0031"]
 [ns]Yuuho[nse]
-"Hmm? Oh yeah, she said something about going to the third floor."[pcms]
+"Hmm? Oh yeah, she said something about going to the third[r]
+floor."[pcms]
 
 *5263|
 [fc]
@@ -2844,9 +2986,10 @@ where's Ren?"[pcms]
 
 *5266|
 [fc]
-Ren was wandering around the third floor alone. She was intently looking at the[r]
-lined-up equipment. She had mentioned something about thinking of her own means[r]
-of defense.[pcms]
+Ren was wandering around the third floor alone. She was[r]
+intently looking at the lined-up equipment. She had[r]
+mentioned something about thinking of her own means of[r]
+defense.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -2858,8 +3001,8 @@ of defense.[pcms]
 
 *5268|
 [fc]
-Ren showed me a heavy-looking chainmail shirt by lifting it slightly and[r]
-spreading it out.[pcms]
+Ren showed me a heavy-looking chainmail shirt by lifting it[r]
+slightly and spreading it out.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -2867,8 +3010,9 @@ spreading it out.[pcms]
 [fc]
 [vo_ren s="ren_TE0026"]
 [ns]Ren[nse]
-"This is chainmail. There was also samurai armor in that corner over there. It's[r]
-really heavy. Did people from the past really fight wearing these?"[pcms]
+"This is chainmail. There was also samurai armor in that[r]
+corner over there. It's really heavy. Did people from the[r]
+past really fight wearing these?"[pcms]
 
 *5270|
 [fc]
@@ -2881,8 +3025,9 @@ really heavy. Did people from the past really fight wearing these?"[pcms]
 [fc]
 [vo_ren s="ren_TE0027"]
 [ns]Ren[nse]
-"No, big brother. I know that. It would be nice if there was something lighter,[r]
-bulletproof... and in my size. Big brother, help me look for it."[pcms]
+"No, big brother. I know that. It would be nice if there was[r]
+something lighter, bulletproof... and in my size. Big[r]
+brother, help me look for it."[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -2901,13 +3046,15 @@ bulletproof... and in my size. Big brother, help me look for it."[pcms]
 
 *5273|
 [fc]
-Maruko-senpai brought over the food. Following the coffee, it seems she also[r]
-tried her hand at cooking. Surprisingly, it looked... delicious.[pcms]
+Maruko-senpai brought over the food. Following the coffee,[r]
+it seems she also tried her hand at cooking. Surprisingly,[r]
+it looked... delicious.[pcms]
 
 *5274|
 [fc]
-Western-style dishes were lined up. On everyone's plate except Jin's, there was[r]
-a steaming sauted meat, and on Jin's plate, there was some kind of bean stew.[pcms]
+Western-style dishes were lined up. On everyone's plate[r]
+except Jin's, there was a steaming sauted meat, and on Jin's[r]
+plate, there was some kind of bean stew.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -2915,8 +3062,8 @@ a steaming sauted meat, and on Jin's plate, there was some kind of bean stew.[pc
 [fc]
 [vo_yuh s="yuho_TE0032"]
 [ns]Yuuho[nse]
-"It looks delicious, doesn't it? I don't have anything this fancy in my[r]
-repertoire. Well then, let's eat."[pcms]
+"It looks delicious, doesn't it? I don't have anything this[r]
+fancy in my repertoire. Well then, let's eat."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -2939,16 +3086,16 @@ repertoire. Well then, let's eat."[pcms]
 [fc]
 [vo_mar s="maru_TE0084"]
 [ns]Margarita[nse]
-"Is that so? Well... I didn't make it all by myself... Yuuho and Ren helped me[r]
-out. So I think it should be edible..."[pcms]
+"Is that so? Well... I didn't make it all by myself... Yuuho[r]
+and Ren helped me out. So I think it should be edible..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5279|
 [fc]
 [ns]Jin[nse]
-"Hmm... This is delicious. Is this a bean stew? Were there still tomatoes[r]
-around...?"[pcms]
+"Hmm... This is delicious. Is this a bean stew? Were there[r]
+still tomatoes around...?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -2956,9 +3103,10 @@ around...?"[pcms]
 [fc]
 [vo_mar s="maru_TE0085"]
 [ns]Margarita[nse]
-"Yes, I found one can each of beans and tomatoes. It's a traditional dish often[r]
-made in my homeland. I tried to recreate it from memory. Yuuho and Ren helped me[r]
-out a lot though."[pcms]
+"Yes, I found one can each of beans and tomatoes. It's a[r]
+traditional dish often made in my homeland. I tried to[r]
+recreate it from memory. Yuuho and Ren helped me out a lot[r]
+though."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -2966,14 +3114,15 @@ out a lot though."[pcms]
 [fc]
 [vo_ren s="ren_TE0028"]
 [ns]Ren[nse]
-"That's not true. Yuuho-chan and I did help out a bit, but senpai did the[r]
-seasoning. The salt balance is just exquisite... Delicious..."[pcms]
+"That's not true. Yuuho-chan and I did help out a bit, but[r]
+senpai did the seasoning. The salt balance is just[r]
+exquisite... Delicious..."[pcms]
 
 *5282|
 [fc]
-Time passed peacefully. We enjoyed our conversation while devouring Maruko-[r]
-senpai's cooking. Jin seemed to really like the bean dish and ended up[r]
-monopolizing it.[pcms]
+Time passed peacefully. We enjoyed our conversation while[r]
+devouring Maruko- senpai's cooking. Jin seemed to really[r]
+like the bean dish and ended up monopolizing it.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -2988,9 +3137,9 @@ monopolizing it.[pcms]
 [fc]
 [vo_mar s="maru_TE0086"]
 [ns]Margarita[nse]
-"I've got some bad news. There was an outbreak at the Mishuku garrison.[r]
-Fortunately, they were able to respond quickly, so it doesn't seem like the[r]
-infection has spread."[pcms]
+"I've got some bad news. There was an outbreak at the[r]
+Mishuku garrison. Fortunately, they were able to respond[r]
+quickly, so it doesn't seem like the infection has spread."[pcms]
 
 *5284|
 [fc]
@@ -3003,8 +3152,8 @@ infection has spread."[pcms]
 [fc]
 [vo_mar s="maru_TE0087"]
 [ns]Margarita[nse]
-"Ah, thank you for your concern, Ayase. Sesuka is safe. That's why I'm able to[r]
-talk about it with everyone here."[pcms]
+"Ah, thank you for your concern, Ayase. Sesuka is safe.[r]
+That's why I'm able to talk about it with everyone here."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -3012,21 +3161,24 @@ talk about it with everyone here."[pcms]
 [fc]
 [vo_mar s="maru_TE0088"]
 [ns]Margarita[nse]
-"However, those who had been demanding arms before have become more active, and[r]
-some of the military personnel have also responded to them, causing quite a[r]
-commotion. They managed to suppress it though..."[pcms]
+"However, those who had been demanding arms before have[r]
+become more active, and some of the military personnel have[r]
+also responded to them, causing quite a commotion. They[r]
+managed to suppress it though..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5287|
 [fc]
 [ns]Jin[nse]
-"...Hmph. When there are many people, there's bound to be various issues..."[pcms]
+"...Hmph. When there are many people, there's bound to be[r]
+various issues..."[pcms]
 
 *5288|
 [fc]
-Maruko-senpai looked somber. Yuuho and Ren also seemed anxious. Mizuki clung to[r]
-Kousuke as if seeking comfort, while Jin alone appeared calm and composed.[pcms]
+Maruko-senpai looked somber. Yuuho and Ren also seemed[r]
+anxious. Mizuki clung to Kousuke as if seeking comfort,[r]
+while Jin alone appeared calm and composed.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -3056,9 +3208,10 @@ Kousuke as if seeking comfort, while Jin alone appeared calm and composed.[pcms]
 
 *5290|
 [fc]
-The days passed leisurely. Maruko-senpai's morning training continued, and[r]
-waking up early had become part of my routine. After breakfast, everyone seemed[r]
-to scatter around the mansion as if killing time.[pcms]
+The days passed leisurely. Maruko-senpai's morning training[r]
+continued, and waking up early had become part of my[r]
+routine. After breakfast, everyone seemed to scatter around[r]
+the mansion as if killing time.[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020a"][trans_c cross time=500]
@@ -3066,14 +3219,15 @@ to scatter around the mansion as if killing time.[pcms]
 
 *5291|
 [fc]
-I had made it a habit to sit in front of the PC, but updates on the community[r]
-had ceased, and there were no new comments from "Pikarin." There were no new[r]
-posts on video sites or bulletin boards either.[pcms]
+I had made it a habit to sit in front of the PC, but updates[r]
+on the community had ceased, and there were no new comments[r]
+from "Pikarin." There were no new posts on video sites or[r]
+bulletin boards either.[pcms]
 
 *5292|
 [fc]
-Unable to stay seated for long, I too started wandering around the mansion to[r]
-kill time.[pcms]
+Unable to stay seated for long, I too started wandering[r]
+around the mansion to kill time.[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020a"][trans_c cross time=500]
@@ -3092,7 +3246,8 @@ kill time.[pcms]
 *5294|
 [fc]
 [ns]Wataru[nse]
-"Eh? Oh, that hasn't come out yet. It's only up to Season 8."[pcms]
+"Eh? Oh, that hasn't come out yet. It's only up to Season[r]
+8."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -3103,9 +3258,10 @@ kill time.[pcms]
 
 *5296|
 [fc]
-Jin was wandering around with a box set of Series 8. Once he realized it wasn't[r]
-available, he grumbled to himself as he went downstairs to the fourth floor. I[r]
-followed him, thinking of watching a DVD myself.[pcms]
+Jin was wandering around with a box set of Series 8. Once he[r]
+realized it wasn't available, he grumbled to himself as he[r]
+went downstairs to the fourth floor. I followed him,[r]
+thinking of watching a DVD myself.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 ;//★_LESER　５階　シアタールーム
@@ -3122,9 +3278,10 @@ followed him, thinking of watching a DVD myself.[pcms]
 
 *5298|
 [fc]
-Entering the theater room with my favorite "Planetary Journey," I found Kousuke[r]
-and Mizuki there. It seemed they had just finished watching another film and[r]
-left together in good spirits.[pcms]
+Entering the theater room with my favorite "Planetary[r]
+Journey," I found Kousuke and Mizuki there. It seemed they[r]
+had just finished watching another film and left together in[r]
+good spirits.[pcms]
 
 *5299|
 [fc]
@@ -3136,7 +3293,8 @@ Ren and Yuuho entered chattering happily as they passed by.[pcms]
 [fc]
 [vo_ren s="ren_TE0029"]
 [ns]Ren[nse]
-"Oh, big brother. I was thinking of watching a DVD. Let's watch together."[pcms]
+"Oh, big brother. I was thinking of watching a DVD. Let's[r]
+watch together."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -3144,13 +3302,14 @@ Ren and Yuuho entered chattering happily as they passed by.[pcms]
 [fc]
 [vo_yuh s="yuho_TE0033"]
 [ns]Yuuho[nse]
-"Let's watch my recommendation together after Ren-chan's turn."[pcms]
+"Let's watch my recommendation together after Ren-chan's[r]
+turn."[pcms]
 
 *5302|
 [fc]
 [ns]Wataru[nse]
-"I'll go first. I was here first, wasn't I? Let's watch my recommendation first,[r]
-then we can watch together in order."[pcms]
+"I'll go first. I was here first, wasn't I? Let's watch my[r]
+recommendation first, then we can watch together in order."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a13"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -3166,38 +3325,42 @@ then we can watch together in order."[pcms]
 [fc]
 [vo_ren s="ren_TE0030"]
 [ns]Ren[nse]
-"Now now, Yuuho-chan. It's fine, let's watch together in order, okay?"[pcms]
+"Now now, Yuuho-chan. It's fine, let's watch together in[r]
+order, okay?"[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *5305|
 [fc]
-My recommendation was "Planetary Journey," a vast universe with countless[r]
-shining stars floating in the darkness. But Yuuho and Ren were stifling yawns[r]
-while watching. How rude.[pcms]
+My recommendation was "Planetary Journey," a vast universe[r]
+with countless shining stars floating in the darkness. But[r]
+Yuuho and Ren were stifling yawns while watching. How rude.[pcms]
 
 *5306|
 [fc]
-Ren's recommendation was... a horror movie. More of a splatter than horror? Of[r]
-all things, a zombie flick.[pcms]
+Ren's recommendation was... a horror movie. More of a[r]
+splatter than horror? Of all things, a zombie flick.[pcms]
 
 *5307|
 [fc]
-Ren made an unpleasant excuse about it possibly being useful for reference.[r]
-Well, there might be some truth to that. But still, the realistic feel was[r]
-unsettling and not at all pleasant.[pcms]
+Ren made an unpleasant excuse about it possibly being useful[r]
+for reference. Well, there might be some truth to that. But[r]
+still, the realistic feel was unsettling and not at all[r]
+pleasant.[pcms]
 
 *5308|
 [fc]
-Yuuho's recommendation was a hard action series about a man who doesn't die. She[r]
-thought it might be useful for survival tips.[pcms]
+Yuuho's recommendation was a hard action series about a man[r]
+who doesn't die. She thought it might be useful for survival[r]
+tips.[pcms]
 
 *5309|
 [fc]
-Yuuho's excuse also felt unpleasant. I wouldn't want to experience such things,[r]
-and it wouldn't be of any use to someone like me at all. Maruko-senpai would[r]
-probably say... sweet... or something like that.[pcms]
+Yuuho's excuse also felt unpleasant. I wouldn't want to[r]
+experience such things, and it wouldn't be of any use to[r]
+someone like me at all. Maruko-senpai would probably say...[r]
+sweet... or something like that.[pcms]
 
 ;//★_LESER　７階
 [bg storage="BG019a"][trans_c cross time=500]
@@ -3205,22 +3368,25 @@ probably say... sweet... or something like that.[pcms]
 
 *5310|
 [fc]
-It seems Maruko-senpai had been engrossed in reading manga at "Manga Darake."[r]
-Ren was talking happily about how interesting they were while cooking.[pcms]
+It seems Maruko-senpai had been engrossed in reading manga[r]
+at "Manga Darake." Ren was talking happily about how[r]
+interesting they were while cooking.[pcms]
 
 *5311|
 [fc]
-The side dishes for dinner had significantly decreased. Little by little but[r]
-surely, our food supply was dwindling. Still, I thought we were better off since[r]
-we could still eat.[pcms]
+The side dishes for dinner had significantly decreased.[r]
+Little by little but surely, our food supply was dwindling.[r]
+Still, I thought we were better off since we could still[r]
+eat.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5312|
 [fc]
 [ns]Kousuke[nse]
-"Alright everyone, attention! Let's have fun on the first floor after this. I'm[r]
-going all out playing music, so let's rave for once."[pcms]
+"Alright everyone, attention! Let's have fun on the first[r]
+floor after this. I'm going all out playing music, so let's[r]
+rave for once."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -3229,8 +3395,9 @@ going all out playing music, so let's rave for once."[pcms]
 
 *5313|
 [fc]
-Everyone agreed with Kousuke's suggestion and after cleaning up from the meal,[r]
-we moved en masse to the first floor. Jin joined us as well.[pcms]
+Everyone agreed with Kousuke's suggestion and after cleaning[r]
+up from the meal, we moved en masse to the first floor. Jin[r]
+joined us as well.[pcms]
 
 [bg storage="BGS005a"][trans_c cross time=500]
 ;[eval exp="f.l_map = 17"]
@@ -3240,9 +3407,10 @@ we moved en masse to the first floor. Jin joined us as well.[pcms]
 
 *5313a|
 [fc]
-Kousuke took his place in the DJ booth and skillfully started operating the CDJ[r]
-brought over from Tengudo. Ren and Yuuho were dancing energetically while Mizuki[r]
-swayed her body to the dance, and even Maruko-senpai joined in.[pcms]
+Kousuke took his place in the DJ booth and skillfully[r]
+started operating the CDJ brought over from Tengudo. Ren and[r]
+Yuuho were dancing energetically while Mizuki swayed her[r]
+body to the dance, and even Maruko-senpai joined in.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -3253,9 +3421,10 @@ swayed her body to the dance, and even Maruko-senpai joined in.[pcms]
 
 *5315|
 [fc]
-Jin sat in front of the game console and didn't dance, but he seemed to be[r]
-enjoying himself keeping rhythm with the music. I'm not good at dancing either[r]
-but enjoyed the atmosphere.[pcms]
+Jin sat in front of the game console and didn't dance, but[r]
+he seemed to be enjoying himself keeping rhythm with the[r]
+music. I'm not good at dancing either but enjoyed the[r]
+atmosphere.[pcms]
 
 [fadeoutbgm time=500]
 ;//★_黒画面
@@ -3267,8 +3436,9 @@ but enjoyed the atmosphere.[pcms]
 
 *5316|
 [fc]
-Sweaty and ready for bed, everyone was about to head back to their rooms when[r]
-Maruko-senpai's voice echoed through the space.[pcms]
+Sweaty and ready for bed, everyone was about to head back to[r]
+their rooms when Maruko-senpai's voice echoed through the[r]
+space.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -3276,12 +3446,13 @@ Maruko-senpai's voice echoed through the space.[pcms]
 [fc]
 [vo_mar s="maru_TE0090"]
 [ns]Margarita[nse]
-"Everyone, gather on the seventh floor. There's a new broadcast on."[pcms]
+"Everyone, gather on the seventh floor. There's a new[r]
+broadcast on."[pcms]
 
 *5318|
 [fc]
-In a hurry, I moved along with everyone else who was bustling to the seventh[r]
-floor.[pcms]
+In a hurry, I moved along with everyone else who was[r]
+bustling to the seventh floor.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 [bgm storage="BGM06"]
@@ -3292,24 +3463,27 @@ floor.[pcms]
 *5319|
 [fc]
 [ns]Announcer[nse]
-"Citizens of the nation, there has been an important announcement from the[r]
-government. Three days from today, under the leadership of the United States[r]
-government, a sweeping operation will be conducted. It will be an attack using[r]
-gas."[pcms]
+"Citizens of the nation, there has been an important[r]
+announcement from the government. Three days from today,[r]
+under the leadership of the United States government, a[r]
+sweeping operation will be conducted. It will be an attack[r]
+using gas."[pcms]
 
 *5320|
 [fc]
 [ns]Announcer[nse]
-"Please evacuate to an airtight location as much as possible within three days.[r]
-If evacuation is difficult, seal up your current location with tape or other[r]
-means to make it as airtight as possible."[pcms]
+"Please evacuate to an airtight location as much as possible[r]
+within three days. If evacuation is difficult, seal up your[r]
+current location with tape or other means to make it as[r]
+airtight as possible."[pcms]
 
 *5321|
 [fc]
 [ns]Announcer[nse]
-"The operation is scheduled to take place in three days, but the exact start[r]
-time has not been determined. We will notify you as soon as a decision is made.[r]
-We repeat this message..."[pcms]
+"The operation is scheduled to take place in three days, but[r]
+the exact start time has not been determined. We will notify[r]
+you as soon as a decision is made. We repeat this[r]
+message..."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -3324,15 +3498,16 @@ We repeat this message..."[pcms]
 [fc]
 [vo_mar s="maru_TE0091"]
 [ns]Margarita[nse]
-"...I want more detailed information. Can someone lend me a mobile phone? I'll[r]
-try to contact Sesuka directly."[pcms]
+"...I want more detailed information. Can someone lend me a[r]
+mobile phone? I'll try to contact Sesuka directly."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5324|
 [fc]
-Maruko-senpai, who had been whispering into her phone, pressed the speaker[r]
-button and placed it in the center of the table where everyone was gathered.[pcms]
+Maruko-senpai, who had been whispering into her phone,[r]
+pressed the speaker button and placed it in the center of[r]
+the table where everyone was gathered.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -3340,31 +3515,34 @@ button and placed it in the center of the table where everyone was gathered.[pcm
 [fc]
 [vo_mar s="maru_TE0092"]
 [ns]Margarita[nse]
-"Sesuka, everyone's here. Speak so that everyone can understand."[pcms]
+"Sesuka, everyone's here. Speak so that everyone can[r]
+understand."[pcms]
 
 *5326|
 [fc]
 [vo_mob s="sesuka_TE0001"]
 [ns]Sesuka[nse]
-"Yes, my lady. As you may have heard on TV, there will be a sweeping operation[r]
-using gas at dawn three days from now. The Japanese government has been unable[r]
-to contain the situation and has entrusted it to the United Nations."[pcms]
+"Yes, my lady. As you may have heard on TV, there will be a[r]
+sweeping operation using gas at dawn three days from now.[r]
+The Japanese government has been unable to contain the[r]
+situation and has entrusted it to the United Nations."[pcms]
 
 *5327|
 [fc]
 [vo_mob s="sesuka_TE0002"]
 [ns]Sesuka[nse]
-"Initially, the UN was opposed to the use of wide-area weapons, but neighboring[r]
-countries of Japan, concerned about a pandemic due to the international scale of[r]
-the infection, pressured them."[pcms]
+"Initially, the UN was opposed to the use of wide-area[r]
+weapons, but neighboring countries of Japan, concerned about[r]
+a pandemic due to the international scale of the infection,[r]
+pressured them."[pcms]
 
 *5328|
 [fc]
 [vo_mob s="sesuka_TE0003"]
 [ns]Sesuka[nse]
-"There's also concern that birds could spread the virus or that it could mutate[r]
-further, so the UN has agreed, and that's why this sweeping operation has been[r]
-decided upon."[pcms]
+"There's also concern that birds could spread the virus or[r]
+that it could mutate further, so the UN has agreed, and[r]
+that's why this sweeping operation has been decided upon."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -3378,9 +3556,10 @@ decided upon."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0004"]
 [ns]Sesuka[nse]
-"Yes. They were originally the country that produced the virus. Plus, they are[r]
-currently the only ones prepared to carry out an operation on such short notice.[r]
-It seems there are no objections from Japan or any neighboring countries."[pcms]
+"Yes. They were originally the country that produced the[r]
+virus. Plus, they are currently the only ones prepared to[r]
+carry out an operation on such short notice. It seems there[r]
+are no objections from Japan or any neighboring countries."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -3393,17 +3572,18 @@ It seems there are no objections from Japan or any neighboring countries."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0005"]
 [ns]Sesuka[nse]
-"That may be true. But there are many small isolated shelters scattered around.[r]
-Even in large shelters, escape is quite difficult, and considering the current[r]
-situation, an attack on urban areas would cause tremendous damage."[pcms]
+"That may be true. But there are many small isolated[r]
+shelters scattered around. Even in large shelters, escape is[r]
+quite difficult, and considering the current situation, an[r]
+attack on urban areas would cause tremendous damage."[pcms]
 
 *5333|
 [fc]
 [vo_mob s="sesuka_TE0006"]
 [ns]Sesuka[nse]
-"According to the information we've obtained, the Japanese government was also[r]
-concerned about this point and took a considerable amount of time to reach a[r]
-conclusion."[pcms]
+"According to the information we've obtained, the Japanese[r]
+government was also concerned about this point and took a[r]
+considerable amount of time to reach a conclusion."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -3411,15 +3591,15 @@ conclusion."[pcms]
 [fc]
 [vo_mar s="maru_TE0094"]
 [ns]Margarita[nse]
-"Well, that figures... Sesuka, what measures are being taken at the garrison in[r]
-Mishuku where you are?"[pcms]
+"Well, that figures... Sesuka, what measures are being taken[r]
+at the garrison in Mishuku where you are?"[pcms]
 
 *5335|
 [fc]
 [vo_mob s="sesuka_TE0007"]
 [ns]Sesuka[nse]
-"Yes. Here we plan to either escape using the vehicles we have secured or stay[r]
-and prepare for the gas attack."[pcms]
+"Yes. Here we plan to either escape using the vehicles we[r]
+have secured or stay and prepare for the gas attack."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -3433,10 +3613,11 @@ and prepare for the gas attack."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0008"]
 [ns]Sesuka[nse]
-"Yes. That was considered, but arrangements couldn't be made, and in the past[r]
-few days... there have been attacks by crows, causing several aircraft to go[r]
-down. There aren't enough large aircraft available to transport large numbers of[r]
-people."[pcms]
+"Yes. That was considered, but arrangements couldn't be[r]
+made, and in the past few days... there have been attacks by[r]
+crows, causing several aircraft to go down. There aren't[r]
+enough large aircraft available to transport large numbers[r]
+of people."[pcms]
 
 *5338|
 [fc]
@@ -3447,16 +3628,18 @@ people."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0009"]
 [ns]Sesuka[nse]
-"Yes. It's inexplicable. They come in flocks and dive straight for the engines.[r]
-It's like suicide bombing... Mainly aircraft have been affected..."[pcms]
+"Yes. It's inexplicable. They come in flocks and dive[r]
+straight for the engines. It's like suicide bombing...[r]
+Mainly aircraft have been affected..."[pcms]
 
 *5340|
 [fc]
 [vo_mob s="sesuka_TE0010"]
 [ns]Sesuka[nse]
-"Helicopters seem to suffer less damage. There's talk that it might have[r]
-something to do with the sound of their engines or motors, but even so, we don't[r]
-have enough helicopters available to transport large numbers of people."[pcms]
+"Helicopters seem to suffer less damage. There's talk that[r]
+it might have something to do with the sound of their[r]
+engines or motors, but even so, we don't have enough[r]
+helicopters available to transport large numbers of people."[pcms]
 ;//♂_航たち脱出のための布石とします
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -3471,9 +3654,10 @@ have enough helicopters available to transport large numbers of people."[pcms]
 [fc]
 [vo_mob s="sesuka_TE0011"]
 [ns]Sesuka[nse]
-"We've done aerial reconnaissance and have some confirmation, and plans have[r]
-been made. If insurmountable obstacles arise, we'll proceed by eliminating them[r]
-on the spot with the troops accompanying us."[pcms]
+"We've done aerial reconnaissance and have some[r]
+confirmation, and plans have been made. If insurmountable[r]
+obstacles arise, we'll proceed by eliminating them on the[r]
+spot with the troops accompanying us."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -3481,8 +3665,8 @@ on the spot with the troops accompanying us."[pcms]
 [fc]
 [vo_mar s="maru_TE0097"]
 [ns]Margarita[nse]
-"...It's risky, but it can't be helped... Sesuka, sorry for keeping you up late.[r]
-Thank you. Do what you can do there."[pcms]
+"...It's risky, but it can't be helped... Sesuka, sorry for[r]
+keeping you up late. Thank you. Do what you can do there."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -3490,15 +3674,16 @@ Thank you. Do what you can do there."[pcms]
 [fc]
 [vo_mar s="maru_TE0098"]
 [ns]Margarita[nse]
-"Don't worry about me for now. I think we've managed to secure some safety for[r]
-the time being. If any new information comes in, contact me immediately."[pcms]
+"Don't worry about me for now. I think we've managed to[r]
+secure some safety for the time being. If any new[r]
+information comes in, contact me immediately."[pcms]
 
 *5345|
 [fc]
 [vo_mob s="sesuka_TE0012"]
 [ns]Sesuka[nse]
-"Understood, my lady. Please be careful and take care. Everyone, please look[r]
-after my lady."[pcms]
+"Understood, my lady. Please be careful and take care.[r]
+Everyone, please look after my lady."[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -3529,8 +3714,9 @@ after my lady."[pcms]
 
 *5347|
 [fc]
-With three days left until the gas attack including today, Maruko-senpai seemed[r]
-to be practicing on the rooftop as usual.[pcms]
+With three days left until the gas attack including today,[r]
+Maruko-senpai seemed to be practicing on the rooftop as[r]
+usual.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -3545,8 +3731,9 @@ to be practicing on the rooftop as usual.[pcms]
 [fc]
 [vo_mar s="maru_TE0100"]
 [ns]Margarita[nse]
-"We don't know what kind of gas will be used, but we want to barricade ourselves[r]
-on the upper floors as much as possible."[pcms]
+"We don't know what kind of gas will be used, but we want to[r]
+barricade ourselves on the upper floors as much as[r]
+possible."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -3561,27 +3748,29 @@ on the upper floors as much as possible."[pcms]
 [fc]
 [vo_mar s="maru_TE0101"]
 [ns]Margarita[nse]
-"Today, let's all focus on making the seventh floor airtight. We'll divide up[r]
-and seal everything as much as possible."[pcms]
+"Today, let's all focus on making the seventh floor[r]
+airtight. We'll divide up and seal everything as much as[r]
+possible."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *5351|
 [fc]
-We gathered materials like duct tape and vinyl from various floors and spent the[r]
-day sealing up gaps as best we could.[pcms]
+We gathered materials like duct tape and vinyl from various[r]
+floors and spent the day sealing up gaps as best we could.[pcms]
 
 *5352|
 [fc]
-Since we still had time, we decided to seal off doors leading downstairs and[r]
-routes to the rooftop at the last minute, while we sealed other places two or[r]
-three times over as much as possible.[pcms]
+Since we still had time, we decided to seal off doors[r]
+leading downstairs and routes to the rooftop at the last[r]
+minute, while we sealed other places two or three times over[r]
+as much as possible.[pcms]
 
 *5353|
 [fc]
-While we were all making the seventh floor airtight, shadows flitted across the[r]
-dome.[pcms]
+While we were all making the seventh floor airtight, shadows[r]
+flitted across the dome.[pcms]
 
 [evcg storage="EV500c"][trans_c cross time=300]
 ;mm カラス
@@ -3592,23 +3781,25 @@ dome.[pcms]
 
 *5354|
 [fc]
-The cawing of crows. A large black mass cast its shadow over us. It was a flock[r]
-of infected crows.[pcms]
+The cawing of crows. A large black mass cast its shadow over[r]
+us. It was a flock of infected crows.[pcms]
 
 [bg storage="BG019a"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
 
 *5355|
 [fc]
-Everyone except Jin seemed anxious as they remembered last night's conversation[r]
-and stared at the shadows. The crows didn't break through the dome, but their[r]
-shadows visited us three times.[pcms]
+Everyone except Jin seemed anxious as they remembered last[r]
+night's conversation and stared at the shadows. The crows[r]
+didn't break through the dome, but their shadows visited us[r]
+three times.[pcms]
 
 *5356|
 [fc]
-For lunch, Ren and Yuuho had prepared rice balls. Everyone ate casually, and[r]
-after Maruko-senpai and Jin checked everything over and gave their OK, it was[r]
-already time for dinner.[pcms]
+For lunch, Ren and Yuuho had prepared rice balls. Everyone[r]
+ate casually, and after Maruko-senpai and Jin checked[r]
+everything over and gave their OK, it was already time for[r]
+dinner.[pcms]
 
 ;mm カラス止め
 [stopse buf=0]
@@ -3617,8 +3808,9 @@ already time for dinner.[pcms]
 
 *5357|
 [fc]
-We had a few side dishes with rice and miso soup for dinner. By the time we[r]
-finished eating, everyone was exhausted and quickly retreated to their rooms.[pcms]
+We had a few side dishes with rice and miso soup for dinner.[r]
+By the time we finished eating, everyone was exhausted and[r]
+quickly retreated to their rooms.[pcms]
 
 
 
@@ -3651,9 +3843,10 @@ finished eating, everyone was exhausted and quickly retreated to their rooms.[pc
 
 *5359|
 [fc]
-Maruko-senpai was still full of energy today. With two days left until the gas[r]
-attack including today, I fell asleep like a log yesterday but strangely woke up[r]
-at my usual early time today.[pcms]
+Maruko-senpai was still full of energy today. With two days[r]
+left until the gas attack including today, I fell asleep[r]
+like a log yesterday but strangely woke up at my usual early[r]
+time today.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -3683,28 +3876,30 @@ at my usual early time today.[pcms]
 [fc]
 [vo_mar s="maru_TE0103"]
 [ns]Margarita[nse]
-"Ayase, squeeze your mouth tighter like this. Aim higher up, yes yes, like a[r]
-shower."[pcms]
+"Ayase, squeeze your mouth tighter like this. Aim higher up,[r]
+yes yes, like a shower."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5363|
 [fc]
 [ns]Kousuke[nse]
-"I'll take over Wataru. You have a lot of requests, Maruko-senpai."[pcms]
+"I'll take over Wataru. You have a lot of requests, Maruko-[r]
+senpai."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5364|
 [fc]
-If the gas attack were carried out, we wouldn't be able to go up to the rooftop[r]
-for a while. That was one reason why Yuuho and Ren begged me to help them bathe[r]
-in water under the strong sunlight.[pcms]
+If the gas attack were carried out, we wouldn't be able to[r]
+go up to the rooftop for a while. That was one reason why[r]
+Yuuho and Ren begged me to help them bathe in water under[r]
+the strong sunlight.[pcms]
 
 *5365|
 [fc]
-Kousuke also came over and took turns splashing water on the girls. Their cheers[r]
-were music to my ears.[pcms]
+Kousuke also came over and took turns splashing water on the[r]
+girls. Their cheers were music to my ears.[pcms]
 
 [ChrSetEx layer=3 chbase="maru_h21"][ChrSetXY layer=3 x=-69 y=0]
 [ChrSetEx layer=5 chbase="yuho_j12"][ChrSetXY layer=5 x=164 y=0]
@@ -3712,20 +3907,21 @@ were music to my ears.[pcms]
 
 *5366|
 [fc]
-Of course, Yuuho's healthy bikini figure and Maruko-senpai's impressive bikini[r]
-figure were a feast for the eyes. Their chests swayed in tune with their[r]
-cheers...[pcms]
+Of course, Yuuho's healthy bikini figure and Maruko-senpai's[r]
+impressive bikini figure were a feast for the eyes. Their[r]
+chests swayed in tune with their cheers...[pcms]
 
 *5367|
 [fc]
-I was worried about Ren getting too much sun exposure, but she seemed well-[r]
-prepared with a long-sleeved shirt over her swimsuit and plenty of UV cream[r]
-applied.[pcms]
+I was worried about Ren getting too much sun exposure, but[r]
+she seemed well- prepared with a long-sleeved shirt over her[r]
+swimsuit and plenty of UV cream applied.[pcms]
 
 *5368|
 [fc]
-She said she was fine because of that, but her shirt clung to her wet body in a[r]
-way that was strangely erotic even though she's my sister.[pcms]
+She said she was fine because of that, but her shirt clung[r]
+to her wet body in a way that was strangely erotic even[r]
+though she's my sister.[pcms]
 
 [se buf=0 storage="se074"]
 
@@ -3740,7 +3936,8 @@ way that was strangely erotic even though she's my sister.[pcms]
 
 *5370|
 [fc]
-Ren snatched the hose from Kousuke and drenched me with water.[pcms]
+Ren snatched the hose from Kousuke and drenched me with[r]
+water.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_l8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -3756,7 +3953,8 @@ Ren snatched the hose from Kousuke and drenched me with water.[pcms]
 [fc]
 [vo_yuh s="yuho_TE0036"]
 [ns]Yuuho[nse]
-"Eh, no way, Wataru. I'm shocked you were looking with such eyes!"[pcms]
+"Eh, no way, Wataru. I'm shocked you were looking with such[r]
+eyes!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_h24"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -3769,51 +3967,57 @@ Ren snatched the hose from Kousuke and drenched me with water.[pcms]
 *5374|
 [fc]
 [ns]Wataru[nse]
-"Wh-What are you talking about? If you're going to say that, then Kousuke is..."[pcms]
+"Wh-What are you talking about? If you're going to say that,[r]
+then Kousuke is..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5375|
 [fc]
 [ns]Kousuke[nse]
-"Tsk tsk tsk. Wataru, you still need more training! It's only natural to look[r]
-when girls are frolicking in cute swimsuits. It's a matter of courtesy to look.[r]
-However, that look in your eyes is a no-go."[pcms]
+"Tsk tsk tsk. Wataru, you still need more training! It's[r]
+only natural to look when girls are frolicking in cute[r]
+swimsuits. It's a matter of courtesy to look. However, that[r]
+look in your eyes is a no-go."[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *5376|
 [fc]
-Kousuke said that and splashed more water on me. Yuuho took the hose from[r]
-Kousuke, and the girls started splashing each other and frolicking.[pcms]
+Kousuke said that and splashed more water on me. Yuuho took[r]
+the hose from Kousuke, and the girls started splashing each[r]
+other and frolicking.[pcms]
 
 *5377|
 [fc]
-Kousuke came over laughing and sat down right next to me. When I asked about[r]
-Mizuki, it seems she's with Jin. They're watching that series together with a[r]
-dubbed version now.[pcms]
+Kousuke came over laughing and sat down right next to me.[r]
+When I asked about Mizuki, it seems she's with Jin. They're[r]
+watching that series together with a dubbed version now.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5378|
 [fc]
 [ns]Kousuke[nse]
-"They were engrossed in it, saying 'The dubbed version is more intense...'"[pcms]
+"They were engrossed in it, saying 'The dubbed version is[r]
+more intense...'"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5379|
 [fc]
 [ns]Kousuke[nse]
-"...Also, in two days. At first, I was jealous because Mizuki was so clingy, but[r]
-now I'm glad she's with us... She seems to have been considerate of Mizuki."[pcms]
+"...Also, in two days. At first, I was jealous because[r]
+Mizuki was so clingy, but now I'm glad she's with us... She[r]
+seems to have been considerate of Mizuki."[pcms]
 
 *5380|
 [fc]
-It was more like a murmur than talking to me. Two more days. I thought I had[r]
-done everything I could yesterday. So for the remaining two days, let's enjoy[r]
-ourselves. Let's enjoy to the fullest.[pcms]
+It was more like a murmur than talking to me. Two more days.[r]
+I thought I had done everything I could yesterday. So for[r]
+the remaining two days, let's enjoy ourselves. Let's enjoy[r]
+to the fullest.[pcms]
 
 *5381|
 [fc]
@@ -3847,8 +4051,8 @@ I was thinking such things under the sunlight.[pcms]
 
 *5383|
 [fc]
-Maruko-senpai's familiar morning practice voice. Only one day left until the gas[r]
-attack.[pcms]
+Maruko-senpai's familiar morning practice voice. Only one[r]
+day left until the gas attack.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -3893,8 +4097,9 @@ The shuttlecock fell to the ground with a plop.[pcms]
 
 *5389|
 [fc]
-The girl picked up the shuttlecock again. She brushed off other infected people[r]
-who tried to snatch it away and stared intently at the rooftop.[pcms]
+The girl picked up the shuttlecock again. She brushed off[r]
+other infected people who tried to snatch it away and stared[r]
+intently at the rooftop.[pcms]
 
 ;//★_屋上
 [bg storage="BG200a"][trans_c cross time=500]
@@ -3921,8 +4126,9 @@ who tried to snatch it away and stared intently at the rooftop.[pcms]
 *5392|
 [fc]
 [ns]Kousuke[nse]
-"Hahahaha. Exactly. Look at Wataru's stretching. He won't be able to recover for[r]
-a while. Yuuho, you should go a bit easier."[pcms]
+"Hahahaha. Exactly. Look at Wataru's stretching. He won't be[r]
+able to recover for a while. Yuuho, you should go a bit[r]
+easier."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -3950,8 +4156,8 @@ a while. Yuuho, you should go a bit easier."[pcms]
 
 *5396|
 [fc]
-It was badminton under the clear sky. I agreed to play along but quickly got[r]
-exhausted. Ren looked at me worriedly.[pcms]
+It was badminton under the clear sky. I agreed to play along[r]
+but quickly got exhausted. Ren looked at me worriedly.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_g5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -3963,9 +4169,10 @@ exhausted. Ren looked at me worriedly.[pcms]
 
 *5398|
 [fc]
-She had a point. But there was no way I could compete under this scorching sun[r]
-with Yuuho, who's like a bundle of athletic nerves. Maybe if it were the[r]
-invisible Maruko-senpai...[pcms]
+She had a point. But there was no way I could compete under[r]
+this scorching sun with Yuuho, who's like a bundle of[r]
+athletic nerves. Maybe if it were the invisible Maruko-[r]
+senpai...[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020a"][trans_c cross time=500]
@@ -3999,16 +4206,17 @@ invisible Maruko-senpai...[pcms]
 [fc]
 [vo_mar s="maru_TE0107"]
 [ns]Margarita[nse]
-"Sesuka volunteered to stay behind at the garrison. It's also because it makes[r]
-it easier for her to communicate with me. But it seems they're quite busy over[r]
-there now."[pcms]
+"Sesuka volunteered to stay behind at the garrison. It's[r]
+also because it makes it easier for her to communicate with[r]
+me. But it seems they're quite busy over there now."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5403|
 [fc]
 [ns]Jin[nse]
-"...I see. Well, if anything comes up, they'll let us know. Just take it easy."[pcms]
+"...I see. Well, if anything comes up, they'll let us know.[r]
+Just take it easy."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -4016,14 +4224,16 @@ there now."[pcms]
 [fc]
 [vo_mar s="maru_TE0108"]
 [ns]Margarita[nse]
-"...Yeah. Got it. I will. This coffee is good... Jin, you're quite attentive."[pcms]
+"...Yeah. Got it. I will. This coffee is good... Jin, you're[r]
+quite attentive."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5405|
 [fc]
 [ns]Jin[nse]
-"...Heh. I wouldn't have survived if I weren't. ...See ya, don't overdo it."[pcms]
+"...Heh. I wouldn't have survived if I weren't. ...See ya,[r]
+don't overdo it."[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -4042,7 +4252,8 @@ there now."[pcms]
 
 *5407|
 [fc]
-Maruko-senpai came up to the rooftop stretching her arms above her head.[pcms]
+Maruko-senpai came up to the rooftop stretching her arms[r]
+above her head.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -4050,7 +4261,8 @@ Maruko-senpai came up to the rooftop stretching her arms above her head.[pcms]
 [fc]
 [vo_yuh s="yuho_TE0039"]
 [ns]Yuuho[nse]
-"Ah, senpai. What were you doing? We were all playing badminton just now."[pcms]
+"Ah, senpai. What were you doing? We were all playing[r]
+badminton just now."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -4058,13 +4270,13 @@ Maruko-senpai came up to the rooftop stretching her arms above her head.[pcms]
 [fc]
 [vo_mar s="maru_TE0110"]
 [ns]Margarita[nse]
-"Ah, I was on the PC for a bit. I got stiff from staying in the same position[r]
-too long, so I came here to stretch."[pcms]
+"Ah, I was on the PC for a bit. I got stiff from staying in[r]
+the same position too long, so I came here to stretch."[pcms]
 
 *5410|
 [fc]
-After saying that, Maruko-senpai did some stretches and then suddenly started[r]
-throwing kicks and punches.[pcms]
+After saying that, Maruko-senpai did some stretches and then[r]
+suddenly started throwing kicks and punches.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -4080,8 +4292,8 @@ throwing kicks and punches.[pcms]
 [fc]
 [vo_mar s="maru_TE0111"]
 [ns]Margarita[nse]
-"Hm? Alright, I'll teach you the basics. You had a good sense for shooting,[r]
-Yuuho, so you'll pick this up quickly."[pcms]
+"Hm? Alright, I'll teach you the basics. You had a good[r]
+sense for shooting, Yuuho, so you'll pick this up quickly."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -4101,8 +4313,9 @@ Yuuho, so you'll pick this up quickly."[pcms]
 
 *5415|
 [fc]
-While saying that, Ren stood next to me overlooking Yuuho and the others from[r]
-atop a signboard and began to play the violin.[pcms]
+While saying that, Ren stood next to me overlooking Yuuho[r]
+and the others from atop a signboard and began to play the[r]
+violin.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -4118,9 +4331,10 @@ atop a signboard and began to play the violin.[pcms]
 
 *5416|
 [fc]
-The elegant melody of Ren's violin served as background music, oddly matching[r]
-the movements of Yuuho and Maruko-senpai's bodies as they danced. It was already[r]
-dusk. Today, we didn't see any crows.[pcms]
+The elegant melody of Ren's violin served as background[r]
+music, oddly matching the movements of Yuuho and Maruko-[r]
+senpai's bodies as they danced. It was already dusk. Today,[r]
+we didn't see any crows.[pcms]
 
 ;//@konya 空
 [bg storage="BGS008b"][trans_c cross time=500]
@@ -4128,14 +4342,15 @@ dusk. Today, we didn't see any crows.[pcms]
 
 *5417|
 [fc]
-If we survive until tomorrow morning, we will surely be saved. We've done what[r]
-we could do. Now it's out of our hands. We can only leave our fate to heaven.[pcms]
+If we survive until tomorrow morning, we will surely be[r]
+saved. We've done what we could do. Now it's out of our[r]
+hands. We can only leave our fate to heaven.[pcms]
 
 *5418|
 [fc]
-But all of us here will survive safely. It's okay because everyone is here.[r]
-We're not alone. The vague anxiety that I had been carrying around had[r]
-disappeared.[pcms]
+But all of us here will survive safely. It's okay because[r]
+everyone is here. We're not alone. The vague anxiety that I[r]
+had been carrying around had disappeared.[pcms]
 
 *sce36_2
 

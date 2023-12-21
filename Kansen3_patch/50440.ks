@@ -27,14 +27,16 @@
 [fc]
 [vo_yuh s="yuho1576"]
 [ns]Yuuho[nse]
-"Dodon! Kannagi-ken's special Takokimchi Fried Rice Revolution! ...No, that's[r]
-not right! This is... Deep-fried rice!!"[pcms]
+"Dodon! Kannagi-ken's special Takokimchi Fried Rice[r]
+Revolution! ...No, that's not right! This is... Deep-fried[r]
+rice!!"[pcms]
 
 *2216|
 [fc]
 [vo_ren s="ren1380"]
 [ns]Ren[nse]
-"Ando! A salt-massaged salad of eggplant, cucumber, and tomato~!"[pcms]
+"Ando! A salt-massaged salad of eggplant, cucumber, and[r]
+tomato~!"[pcms]
 
 *2217|
 [fc]
@@ -43,11 +45,13 @@ not right! This is... Deep-fried rice!!"[pcms]
 
 *2218|
 [fc]
-On the plate, the takokimchi fried rice is beautifully arranged in a dome shape.[pcms]
+On the plate, the takokimchi fried rice is beautifully[r]
+arranged in a dome shape.[pcms]
 
 *2219|
 [fc]
-But... Octopus legs are sprouting from here and there... What is this...?[pcms]
+But... Octopus legs are sprouting from here and there...[r]
+What is this...?[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="ren_m2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -55,8 +59,8 @@ But... Octopus legs are sprouting from here and there... What is this...?[pcms]
 [fc]
 [vo_ren s="ren1381"]
 [ns]Ren[nse]
-"Don't make that face... Sure, it looks a bit, well... But it looks delicious,[r]
-right?"[pcms]
+"Don't make that face... Sure, it looks a bit, well... But[r]
+it looks delicious, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -68,14 +72,14 @@ right?"[pcms]
 
 *2222|
 [fc]
-Maruko-senpai's face is turning pale. She's probably scared of the state of the[r]
-dish in more ways than one.[pcms]
+Maruko-senpai's face is turning pale. She's probably scared[r]
+of the state of the dish in more ways than one.[pcms]
 
 *2223|
 [fc]
-That's odd... But I heard that while Westerners dislike octopus, calling it 'the[r]
-devil's fish', people in Spanish-speaking countries eat it just like the[r]
-Japanese do...[pcms]
+That's odd... But I heard that while Westerners dislike[r]
+octopus, calling it 'the devil's fish', people in Spanish-[r]
+speaking countries eat it just like the Japanese do...[pcms]
 
 [chara_int][ChrSetEx layer=3 chbase="jin_b4"][ChrSetXY layer=3 x=-71 y=0]
 [ChrSetEx layer=4 chbase="shige_b2"][ChrSetXY layer=4 x=321 y=0][trans_c cross time=150]
@@ -92,15 +96,16 @@ Japanese do...[pcms]
 
 *2226|
 [fc]
-Jin is silent, and Shigeyoshi is looking at the plate with a suspicious look...[pcms]
+Jin is silent, and Shigeyoshi is looking at the plate with a[r]
+suspicious look...[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2227|
 [fc]
-But the takokimchi fried rice is one of the variations of Kannagi-ken's kimchi[r]
-fried rice, and I really liked it too.[pcms]
+But the takokimchi fried rice is one of the variations of[r]
+Kannagi-ken's kimchi fried rice, and I really liked it too.[pcms]
 
 *2228|
 [fc]
@@ -108,14 +113,14 @@ But... it didn't look like this.[pcms]
 
 *2229|
 [fc]
-Indeed, I acknowledge Yuuho's cooking skills. But her sense of arrangement is[r]
-just too unique.[pcms]
+Indeed, I acknowledge Yuuho's cooking skills. But her sense[r]
+of arrangement is just too unique.[pcms]
 
 *2230|
 [fc]
-Or rather... Yuuho, you might be misunderstanding the meaning of 'arrangement'[r]
-in cooking. Visual arrangement and flavoring arrangement are different, you[r]
-know...?[pcms]
+Or rather... Yuuho, you might be misunderstanding the[r]
+meaning of 'arrangement' in cooking. Visual arrangement and[r]
+flavoring arrangement are different, you know...?[pcms]
 
 *2231|
 [fc]
@@ -124,13 +129,14 @@ know...?[pcms]
 
 *2232|
 [fc]
-But still, Yuuho put a lot of effort into making it... It's not like she did it[r]
-to be mean...[pcms]
+But still, Yuuho put a lot of effort into making it... It's[r]
+not like she did it to be mean...[pcms]
 
 *2233|
 [fc]
-And when I see Yuuho waiting for our reactions with a smile as if to say, "How[r]
-is it? Looks delicious, right?" I can't bring myself to say anything.[pcms]
+And when I see Yuuho waiting for our reactions with a smile[r]
+as if to say, "How is it? Looks delicious, right?" I can't[r]
+bring myself to say anything.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -138,7 +144,8 @@ is it? Looks delicious, right?" I can't bring myself to say anything.[pcms]
 [fc]
 [vo_yuh s="yuho1577"]
 [ns]Yuuho[nse]
-"What's wrong, Wataru? Don't you like octopus? You shouldn't be picky!"[pcms]
+"What's wrong, Wataru? Don't you like octopus? You shouldn't[r]
+be picky!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -146,7 +153,8 @@ is it? Looks delicious, right?" I can't bring myself to say anything.[pcms]
 [fc]
 [vo_yuh s="yuho1578"]
 [ns]Yuuho[nse]
-"Octopus is rich in protein and taurine, and above all, it's healthy!"[pcms]
+"Octopus is rich in protein and taurine, and above all, it's[r]
+healthy!"[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a13"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -158,14 +166,15 @@ is it? Looks delicious, right?" I can't bring myself to say anything.[pcms]
 
 *2237|
 [fc]
-Mizuki has a complex expression mixed with regret for not being able to eat what[r]
-was made for her and reluctance as if to say "I'd rather not" as she tries to[r]
-decline Yuuho's dish.[pcms]
+Mizuki has a complex expression mixed with regret for not[r]
+being able to eat what was made for her and reluctance as if[r]
+to say "I'd rather not" as she tries to decline Yuuho's[r]
+dish.[pcms]
 
 *2238|
 [fc]
-But as soon as Yuuho sees Mizuki's face, her eyes light up and she presents[r]
-another plate.[pcms]
+But as soon as Yuuho sees Mizuki's face, her eyes light up[r]
+and she presents another plate.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -173,13 +182,14 @@ another plate.[pcms]
 [fc]
 [vo_yuh s="yuho1579"]
 [ns]Yuuho[nse]
-"I've known about that for years! Here! For Mizuki-chan, I've prepared a version[r]
-without octopus!"[pcms]
+"I've known about that for years! Here! For Mizuki-chan,[r]
+I've prepared a version without octopus!"[pcms]
 
 *2240|
 [fc]
-Mizuki looks down and starts to tremble slightly as Yuuho places the plate in[r]
-front of her with a proud look on her face.[pcms]
+Mizuki looks down and starts to tremble slightly as Yuuho[r]
+places the plate in front of her with a proud look on her[r]
+face.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a14"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -215,9 +225,9 @@ front of her with a proud look on her face.[pcms]
 
 *2245|
 [fc]
-Yuuho blushes and hands Mizuki a spoon, then turns to Maruko-senpai who is[r]
-waiting her turn and offers the dish with a loud voice as if to hide her[r]
-embarrassment.[pcms]
+Yuuho blushes and hands Mizuki a spoon, then turns to[r]
+Maruko-senpai who is waiting her turn and offers the dish[r]
+with a loud voice as if to hide her embarrassment.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -229,8 +239,9 @@ embarrassment.[pcms]
 
 *2247|
 [fc]
-As the takokimchi fried rice is placed on the table in front of her, Maruko-[r]
-senpai also looks down and opens her mouth in a small, embarrassed voice.[pcms]
+As the takokimchi fried rice is placed on the table in front[r]
+of her, Maruko- senpai also looks down and opens her mouth[r]
+in a small, embarrassed voice.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -238,7 +249,8 @@ senpai also looks down and opens her mouth in a small, embarrassed voice.[pcms]
 [fc]
 [vo_mar s="maru1544"]
 [ns]Margarita[nse]
-"...If possible, I would be grateful to receive one without octopus..."[pcms]
+"...If possible, I would be grateful to receive one without[r]
+octopus..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -262,12 +274,13 @@ Maruko-senpai is being pushed around by Yuuho...[pcms]
 
 *2252|
 [fc]
-I feel something strange about their conversation and can only watch silently.[pcms]
+I feel something strange about their conversation and can[r]
+only watch silently.[pcms]
 
 *2253|
 [fc]
-Apart from Yuuho and Maruko-senpai, everyone else has the same look as me,[r]
-watching the two of them.[pcms]
+Apart from Yuuho and Maruko-senpai, everyone else has the[r]
+same look as me, watching the two of them.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -292,8 +305,8 @@ watching the two of them.[pcms]
 
 *2257|
 [fc]
-Just when an odd atmosphere and a heavy silence began to spread around us, Ren[r]
-offered a lifeline.[pcms]
+Just when an odd atmosphere and a heavy silence began to[r]
+spread around us, Ren offered a lifeline.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -301,8 +314,8 @@ offered a lifeline.[pcms]
 [fc]
 [vo_ren s="ren1382"]
 [ns]Ren[nse]
-"Um... The food's going to get cold... Let's eat? Uh... Who's going to say[r]
-'Let's eat'?"[pcms]
+"Um... The food's going to get cold... Let's eat? Uh...[r]
+Who's going to say 'Let's eat'?"[pcms]
 
 *2259|
 [fc]
@@ -323,7 +336,8 @@ offered a lifeline.[pcms]
 ;	[link storage="50440.ks" target=*50440_01]マル子先輩お願いします[endlink]
 ;	[link storage="50440.ks" target=*50440_02]じゃ、僕が……[endlink]
 ;	;[link storage="50440.ks" target=*50440_03]時間切れ[endlink]
-; (link storage="50440.ks" target=*50440_03)Someone...(endlink)[pcms]
+; (link storage="50440.ks"[r]
+target=*50440_03)Someone...(endlink)[pcms]
 
 *SEL46|マル子先輩お願いします／じゃ、僕が……／誰か……
 [fc]
@@ -392,8 +406,8 @@ offered a lifeline.[pcms]
 *2262|
 [fc]
 [ns]Wataru[nse]
-"You've been leading everyone up until today, senpai. It seems more fitting than[r]
-if someone like me were to say it."[pcms]
+"You've been leading everyone up until today, senpai. It[r]
+seems more fitting than if someone like me were to say it."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -423,13 +437,14 @@ if someone like me were to say it."[pcms]
 
 *2267|
 [fc]
-All eyes suddenly focused on Jin. Everyone had the same look of surprise, as if[r]
-to say "Jin is the one saying 'Let's eat'?"[pcms]
+All eyes suddenly focused on Jin. Everyone had the same look[r]
+of surprise, as if to say "Jin is the one saying 'Let's[r]
+eat'?"[pcms]
 
 *2268|
 [fc]
-Even Shigeyoshi, who is always with him, looked at Jin with eyes full of[r]
-astonishment.[pcms]
+Even Shigeyoshi, who is always with him, looked at Jin with[r]
+eyes full of astonishment.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -477,13 +492,14 @@ astonishment.[pcms]
 
 *2275|
 [fc]
-All eyes suddenly focused on Jin. Everyone had the same look of surprise, as if[r]
-to say "Jin is the one saying 'Let's eat'?"[pcms]
+All eyes suddenly focused on Jin. Everyone had the same look[r]
+of surprise, as if to say "Jin is the one saying 'Let's[r]
+eat'?"[pcms]
 
 *2276|
 [fc]
-Even Shigeyoshi, who is always with him, looked at Jin with eyes full of[r]
-astonishment.[pcms]
+Even Shigeyoshi, who is always with him, looked at Jin with[r]
+eyes full of astonishment.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -503,12 +519,13 @@ astonishment.[pcms]
 
 *2278|
 [fc]
-Ugh... Who should I turn to? I feel pathetic for not being quick-witted in times[r]
-like this...[pcms]
+Ugh... Who should I turn to? I feel pathetic for not being[r]
+quick-witted in times like this...[pcms]
 
 *2279|
 [fc]
-The silence fell once again, and everyone's expressions began to cloud over.[pcms]
+The silence fell once again, and everyone's expressions[r]
+began to cloud over.[pcms]
 
 *2280|
 [fc]
@@ -520,7 +537,8 @@ Ah, what should I do... I guess I have to say it... Hm?[pcms]
 
 *2282|
 [fc]
-The one who broke the awkward silence was an unexpected voice.[pcms]
+The one who broke the awkward silence was an unexpected[r]
+voice.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -531,8 +549,8 @@ The one who broke the awkward silence was an unexpected voice.[pcms]
 
 *2284|
 [fc]
-Jin put his hands together in front of his chest as if praying and clearly took[r]
-the lead with a "Let's eat."[pcms]
+Jin put his hands together in front of his chest as if[r]
+praying and clearly took the lead with a "Let's eat."[pcms]
 
 *2285|
 [fc]
@@ -541,13 +559,14 @@ the lead with a "Let's eat."[pcms]
 
 *2286|
 [fc]
-All eyes suddenly focused on Jin. Everyone had the same look of surprise, as if[r]
-to say "Jin is the one saying 'Let's eat'?"[pcms]
+All eyes suddenly focused on Jin. Everyone had the same look[r]
+of surprise, as if to say "Jin is the one saying 'Let's[r]
+eat'?"[pcms]
 
 *2287|
 [fc]
-Even Shigeyoshi, who is always with him, looked at Jin with eyes full of[r]
-astonishment.[pcms]
+Even Shigeyoshi, who is always with him, looked at Jin with[r]
+eyes full of astonishment.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 

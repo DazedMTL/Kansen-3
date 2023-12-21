@@ -13,11 +13,13 @@ No good, I can't think of anywhere to escape to.[pcms]
 
 *355|
 [fc]
-If I go back to the freight elevator as I am, I'll just be cornered.[pcms]
+If I go back to the freight elevator as I am, I'll just be[r]
+cornered.[pcms]
 
 *356|
 [fc]
-Maybe I could luckily get on the elevator before the men catch up...[pcms]
+Maybe I could luckily get on the elevator before the men[r]
+catch up...[pcms]
 
 *357|
 [fc]
@@ -44,8 +46,8 @@ I'd just be a burden.[pcms]
 
 *362|
 [fc]
-I went to the front of the freight elevator I had come up in and hurriedly[r]
-pressed the open/close switch.[pcms]
+I went to the front of the freight elevator I had come up in[r]
+and hurriedly pressed the open/close switch.[pcms]
 
 *363|
 [fc]
@@ -58,24 +60,28 @@ I press the elevator switch over and over again.[pcms]
 
 *365|
 [fc]
-But all it does is click-clack, making plastic sounds without trying to open the[r]
-door.[pcms]
+But all it does is click-clack, making plastic sounds[r]
+without trying to open the door.[pcms]
 
 *366|
 [fc]
-Feeling all strength leave my body, I involuntarily slumped down on the spot.[pcms]
+Feeling all strength leave my body, I involuntarily slumped[r]
+down on the spot.[pcms]
 
 *367|
 [fc]
-The elevator I had just come up in wasn't stopped on this floor.[pcms]
+The elevator I had just come up in wasn't stopped on this[r]
+floor.[pcms]
 
 *368|
 [fc]
-It had been operated from a different floor and had gone there.[pcms]
+It had been operated from a different floor and had gone[r]
+there.[pcms]
 
 *369|
 [fc]
-It's no longer possible to escape to another floor from here.[pcms]
+It's no longer possible to escape to another floor from[r]
+here.[pcms]
 
 *370|
 [fc]
@@ -83,8 +89,8 @@ Should I take a chance and fight, or...[pcms]
 
 *371|
 [fc]
-While listening to the approaching footsteps of the men, I pray that Marie[r]
-breaks through the encirclement.[pcms]
+While listening to the approaching footsteps of the men, I[r]
+pray that Marie breaks through the encirclement.[pcms]
 
 *372|
 [fc]
@@ -111,14 +117,16 @@ For that to happen, I can't afford to be a drag...[pcms]
 
 *377|
 [fc]
-But I can't give up here. I have to break through on my own by any means[r]
-necessary and meet up with Marie somewhere else![pcms]
+But I can't give up here. I have to break through on my own[r]
+by any means necessary and meet up with Marie somewhere[r]
+else![pcms]
 
 *378|
 [fc]
 [ns]Henchman A[nse]
-"Heheh! With this, maybe I'll get a reward from Shigeyoshi-san... Yeah, that[r]
-blonde chick! Maybe he'll let me have a go with her!!"[pcms]
+"Heheh! With this, maybe I'll get a reward from Shigeyoshi-[r]
+san... Yeah, that blonde chick! Maybe he'll let me have a go[r]
+with her!!"[pcms]
 
 *379|
 [fc]
@@ -154,26 +162,29 @@ Shigeyoshi's henchman punched me hard in the solar plexus.[pcms]
 
 *384|
 [fc]
-Because of that, I could barely breathe and was left writhing in agony while the[r]
-two of them looked down at me with smirks and laughed.[pcms]
+Because of that, I could barely breathe and was left[r]
+writhing in agony while the two of them looked down at me[r]
+with smirks and laughed.[pcms]
 
 *385|
 [fc]
 [ns]Henchman A[nse]
-"So, shall we go? But man, this kid is light... You should work out more, you[r]
-won't be popular with the ladies like this!?"[pcms]
+"So, shall we go? But man, this kid is light... You should[r]
+work out more, you won't be popular with the ladies like[r]
+this!?"[pcms]
 
 *386|
 [fc]
 [ns]Henchman B[nse]
-"Heheh! Exactly! ...But more importantly, Shigeyoshi-san might have already[r]
-started. We better hurry or it'll be over before our turn comes and she won't be[r]
-of any use!"[pcms]
+"Heheh! Exactly! ...But more importantly, Shigeyoshi-san[r]
+might have already started. We better hurry or it'll be over[r]
+before our turn comes and she won't be of any use!"[pcms]
 
 *387|
 [fc]
 [ns]Henchman A[nse]
-"That would be bad... Alright, let's take this brat and get going."[pcms]
+"That would be bad... Alright, let's take this brat and get[r]
+going."[pcms]
 
 *388|
 [fc]
@@ -196,8 +207,8 @@ Not of any use...? What are these guys... talking about!?[pcms]
 
 *392|
 [fc]
-With vile grins on their faces, the two men lifted me by my sides and started[r]
-walking towards the elevator hall.[pcms]
+With vile grins on their faces, the two men lifted me by my[r]
+sides and started walking towards the elevator hall.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

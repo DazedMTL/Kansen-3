@@ -21,17 +21,20 @@
 
 *6144|
 [fc]
-Considering Yuuho's current state of mind, it's natural that she looks lonely.[pcms]
+Considering Yuuho's current state of mind, it's natural that[r]
+she looks lonely.[pcms]
 
 *6145|
 [fc]
-She must have chosen a place where no one can see her to indulge in her[r]
-sentimentality, so it's obvious that I shouldn't call out to her.[pcms]
+She must have chosen a place where no one can see her to[r]
+indulge in her sentimentality, so it's obvious that I[r]
+shouldn't call out to her.[pcms]
 
 *6146|
 [fc]
-Besides... I don't even know what to say... Yuuho probably prefers to be left[r]
-alone rather than receive some misguided attempt at comfort.[pcms]
+Besides... I don't even know what to say... Yuuho probably[r]
+prefers to be left alone rather than receive some misguided[r]
+attempt at comfort.[pcms]
 
 ;//ÅYó[ï˚ÇÃãÛ
 [bg storage="BGS008b"][trans_c cross time=500]
@@ -39,7 +42,8 @@ alone rather than receive some misguided attempt at comfort.[pcms]
 
 *6147|
 [fc]
-I lay down quietly without Yuuho noticing and look up at the sky.[pcms]
+I lay down quietly without Yuuho noticing and look up at the[r]
+sky.[pcms]
 
 *6148|
 [fc]
@@ -52,18 +56,20 @@ An unexpected sigh escaped me.[pcms]
 
 *6150|
 [fc]
-It's been a while since I've spent such a long time face-to-face with someone[r]
-other than family, and it seems I've become tired without realizing it.[pcms]
+It's been a while since I've spent such a long time face-to-[r]
+face with someone other than family, and it seems I've[r]
+become tired without realizing it.[pcms]
 
 *6151|
 [fc]
-Maybe Yuuho is just a bit tired like me... If that's the case, then not calling[r]
-out to her was the right decision...[pcms]
+Maybe Yuuho is just a bit tired like me... If that's the[r]
+case, then not calling out to her was the right decision...[pcms]
 
 *6152|
 [fc]
-While watching the clear sky turn from madder red to deep blue, I just lay there[r]
-blankly, not thinking about anything in particular...[pcms]
+While watching the clear sky turn from madder red to deep[r]
+blue, I just lay there blankly, not thinking about anything[r]
+in particular...[pcms]
 
 ;//ÅYÉtÉFÅ[ÉhÉAÉEÉg
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -82,12 +88,13 @@ blankly, not thinking about anything in particular...[pcms]
 
 *6154|
 [fc]
-The ringtone of my cell phone rudely awakened my consciousness.[pcms]
+The ringtone of my cell phone rudely awakened my[r]
+consciousness.[pcms]
 
 *6155|
 [fc]
-The phone is still ringing. When I take a look, it's a call from Kousuke's[r]
-number.[pcms]
+The phone is still ringing. When I take a look, it's a call[r]
+from Kousuke's number.[pcms]
 
 ;//SEë¶éûí‚é~
 [stopse buf=0]
@@ -107,7 +114,8 @@ number.[pcms]
 
 *6158|
 [fc]
-The panicked scream of Mizuki flows from the phone, striking my ears.[pcms]
+The panicked scream of Mizuki flows from the phone, striking[r]
+my ears.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 

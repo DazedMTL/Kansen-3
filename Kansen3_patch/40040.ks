@@ -36,8 +36,9 @@
 
 *168|
 [fc]
-Wanting to make things a bit more comfortable, I took out an electric lantern[r]
-from the luggage prepared for the training camp.[pcms]
+Wanting to make things a bit more comfortable, I took out an[r]
+electric lantern from the luggage prepared for the training[r]
+camp.[pcms]
 
 ;//@konya EV25 ínâ∫ìπÅiBGàµÇ¢Åj
 [evcg storage="EV025b"][trans_c cross time=300]
@@ -56,12 +57,14 @@ from the luggage prepared for the training camp.[pcms]
 [fc]
 [vo_yuh s="yuho0805"]
 [ns]Yuuho[nse]
-"Just having a light makes all the difference. It's so relieving~"[pcms]
+"Just having a light makes all the difference. It's so[r]
+relieving~"[pcms]
 
 *171|
 [fc]
-Indeed, just having a single soft light reduced the oppressive feeling of being[r]
-surrounded by concrete underground.[pcms]
+Indeed, just having a single soft light reduced the[r]
+oppressive feeling of being surrounded by concrete[r]
+underground.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -78,33 +81,37 @@ I blushed at being praised like that.[pcms]
 *174|
 [fc]
 [ns]Wataru[nse]
-"No, it's not really equipment, I just had it ready for the Astronomy Club's[r]
-camping..."[pcms]
+"No, it's not really equipment, I just had it ready for the[r]
+Astronomy Club's camping..."[pcms]
 
 *175|
 [fc]
-Various chemicals, trash bags, dishes, knives, towels, a radio... There were[r]
-even things like "cool sheets" that you don't know if they'll be useful but[r]
-supposedly make you feel cooler when you lay them out.[pcms]
+Various chemicals, trash bags, dishes, knives, towels, a[r]
+radio... There were even things like "cool sheets" that you[r]
+don't know if they'll be useful but supposedly make you feel[r]
+cooler when you lay them out.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *176|
 [fc]
 [ns]Kousuke[nse]
-"Well, anything is fine at this point. Let's gratefully make use of it."[pcms]
+"Well, anything is fine at this point. Let's gratefully make[r]
+use of it."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *177|
 [fc]
-And so, we formed a circle around the lantern and finally settled down...[pcms]
+And so, we formed a circle around the lantern and finally[r]
+settled down...[pcms]
 
 *178|
 [fc]
-The shock of the surreal situation and the relief of having survived the harsh[r]
-conditions led to everyone falling silent as if in a daze.[pcms]
+The shock of the surreal situation and the relief of having[r]
+survived the harsh conditions led to everyone falling silent[r]
+as if in a daze.[pcms]
 
 *179|
 [fc]
@@ -121,7 +128,8 @@ conditions led to everyone falling silent as if in a daze.[pcms]
 
 *181|
 [fc]
-Suddenly realizing something, I pressed my forehead against Ren's.[pcms]
+Suddenly realizing something, I pressed my forehead against[r]
+Ren's.[pcms]
 
 *182|
 [fc]
@@ -140,7 +148,8 @@ Suddenly realizing something, I pressed my forehead against Ren's.[pcms]
 
 *184|
 [fc]
-It wasn't noticeably high, but Ren's forehead had a faint warmth to it.[pcms]
+It wasn't noticeably high, but Ren's forehead had a faint[r]
+warmth to it.[pcms]
 
 *185|
 [fc]
@@ -149,23 +158,24 @@ It wasn't noticeably high, but Ren's forehead had a faint warmth to it.[pcms]
 
 *186|
 [fc]
-I hadn't noticed in the rush of everything, but we had been on the move non-stop[r]
-since escaping the school.[pcms]
+I hadn't noticed in the rush of everything, but we had been[r]
+on the move non-stop since escaping the school.[pcms]
 
 *187|
 [fc]
-It was tough even for us healthy people, so it must have been quite harsh for[r]
-Ren.[pcms]
+It was tough even for us healthy people, so it must have[r]
+been quite harsh for Ren.[pcms]
 
 *188|
 [fc]
 [ns]Wataru[nse]
-"You haven't had any water, have you? You need to drink something..."[pcms]
+"You haven't had any water, have you? You need to drink[r]
+something..."[pcms]
 
 *189|
 [fc]
-In a panic, I took out a sports drink but it was lukewarm. Well, it can't be[r]
-helped in this situation...[pcms]
+In a panic, I took out a sports drink but it was lukewarm.[r]
+Well, it can't be helped in this situation...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -177,8 +187,8 @@ helped in this situation...[pcms]
 
 *191|
 [fc]
-The senior offered a water bottle. When I took it, it was surprisingly heavy. It[r]
-was a thermos.[pcms]
+The senior offered a water bottle. When I took it, it was[r]
+surprisingly heavy. It was a thermos.[pcms]
 
 *192|
 [fc]
@@ -199,17 +209,19 @@ was a thermos.[pcms]
 [fc]
 [vo_mar s="maru0910"]
 [ns]Margarita[nse]
-"No, there's no need for thanks. We still have a long way to go. You should[r]
-recover your strength now while you can."[pcms]
+"No, there's no need for thanks. We still have a long way to[r]
+go. You should recover your strength now while you can."[pcms]
 
 *195|
 [fc]
-The senior returned our words with a gruff tone as if annoyed. But upon closer[r]
-inspection, her cheeks were slightly red.[pcms]
+The senior returned our words with a gruff tone as if[r]
+annoyed. But upon closer inspection, her cheeks were[r]
+slightly red.[pcms]
 
 *196|
 [fc]
-Her seemingly cold commands could be overlooked as just being foreigner speech.[pcms]
+Her seemingly cold commands could be overlooked as just[r]
+being foreigner speech.[pcms]
 
 *197|
 [fc]
@@ -220,8 +232,8 @@ Could it be that this person... is shy?[pcms]
 
 *198|
 [fc]
-While I was thinking about that, Ren, with a cup of chilled tea in hand, gulped[r]
-it down and emptied the cup.[pcms]
+While I was thinking about that, Ren, with a cup of chilled[r]
+tea in hand, gulped it down and emptied the cup.[pcms]
 
 *199|
 [fc]
@@ -257,7 +269,8 @@ I piled up backpacks and towels to make a makeshift pillow.[pcms]
 
 *204|
 [fc]
-Lying down and squinting in comfort, Ren's expression suddenly clouded over.[pcms]
+Lying down and squinting in comfort, Ren's expression[r]
+suddenly clouded over.[pcms]
 
 *205|
 [fc]
@@ -272,13 +285,15 @@ Lying down and squinting in comfort, Ren's expression suddenly clouded over.[pcm
 
 *207|
 [fc]
-Until just now we were desperate to escape ourselves, but once we settled down,[r]
-thoughts of family started to worry us.[pcms]
+Until just now we were desperate to escape ourselves, but[r]
+once we settled down, thoughts of family started to worry[r]
+us.[pcms]
 
 *208|
 [fc]
 [ns]Wataru[nse]
-"Dad will be fine. He's used to dealing with incidents because of his job."[pcms]
+"Dad will be fine. He's used to dealing with incidents[r]
+because of his job."[pcms]
 
 *209|
 [fc]
@@ -287,8 +302,8 @@ I tried to speak cheerfully.[pcms]
 *210|
 [fc]
 [ns]Wataru[nse]
-"With all this commotion, he must be really busy right now. Once things settle[r]
-down, he'll surely get in touch..."[pcms]
+"With all this commotion, he must be really busy right now.[r]
+Once things settle down, he'll surely get in touch..."[pcms]
 
 *211|
 [fc]
@@ -302,14 +317,16 @@ Ren's cheeks relaxed slightly.[pcms]
 
 *213|
 [fc]
-I couldn't tell if she believed my words or just wanted to believe them.[pcms]
+I couldn't tell if she believed my words or just wanted to[r]
+believe them.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *214|
 [fc]
-But in times like these, it's best to avoid thinking negatively...[pcms]
+But in times like these, it's best to avoid thinking[r]
+negatively...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -321,7 +338,8 @@ But in times like these, it's best to avoid thinking negatively...[pcms]
 
 *216|
 [fc]
-Seeing that we had calmed down, the senior opened her mouth to speak.[pcms]
+Seeing that we had calmed down, the senior opened her mouth[r]
+to speak.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -329,8 +347,8 @@ Seeing that we had calmed down, the senior opened her mouth to speak.[pcms]
 [fc]
 [vo_mar s="maru0912"]
 [ns]Margarita[nse]
-"Then, let's check everyone's equipment here. Each of you, report the items and[r]
-quantities of your gear."[pcms]
+"Then, let's check everyone's equipment here. Each of you,[r]
+report the items and quantities of your gear."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -341,8 +359,9 @@ quantities of your gear."[pcms]
 
 *219|
 [fc]
-Once again, Kousuke is pushing back. It was a lighter tone than before, but he[r]
-really doesn't seem to like being ordered around...[pcms]
+Once again, Kousuke is pushing back. It was a lighter tone[r]
+than before, but he really doesn't seem to like being[r]
+ordered around...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -357,22 +376,23 @@ really doesn't seem to like being ordered around...[pcms]
 *221|
 [fc]
 [ns]Kousuke[nse]
-"But, you know... I get that this Onee-san is amazing and all... but she just[r]
-transferred here, and I don't really know her..."[pcms]
+"But, you know... I get that this Onee-san is amazing and[r]
+all... but she just transferred here, and I don't really[r]
+know her..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *222|
 [fc]
 [ns]Kousuke[nse]
-"I mean... in situations like this, it's all about trust, right? How much you[r]
-can entrust your life to someone. I just don't wanna be ordered around by[r]
-someone I don't know..."[pcms]
+"I mean... in situations like this, it's all about trust,[r]
+right? How much you can entrust your life to someone. I just[r]
+don't wanna be ordered around by someone I don't know..."[pcms]
 
 *223|
 [fc]
-I'd be fine with whatever a trusted comrade says. But I have no intention of[r]
-following the words of someone I don't know.[pcms]
+I'd be fine with whatever a trusted comrade says. But I have[r]
+no intention of following the words of someone I don't know.[pcms]
 
 *224|
 [fc]
@@ -381,13 +401,14 @@ It was a very simple and typical reaction from Kousuke.[pcms]
 *225|
 [fc]
 [ns]Wataru[nse]
-"But just like we don't know the senior, she doesn't know us either, right?"[pcms]
+"But just like we don't know the senior, she doesn't know us[r]
+either, right?"[pcms]
 
 *226|
 [fc]
 [ns]Wataru[nse]
-"Despite that, the senior risked her own safety to help us escape. Isn't that[r]
-enough to trust her?"[pcms]
+"Despite that, the senior risked her own safety to help us[r]
+escape. Isn't that enough to trust her?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -400,12 +421,13 @@ enough to trust her?"[pcms]
 
 *228|
 [fc]
-Sensing that his position was weak, Kousuke mumbled the end of his sentence, but[r]
-he still didn't stop arguing.[pcms]
+Sensing that his position was weak, Kousuke mumbled the end[r]
+of his sentence, but he still didn't stop arguing.[pcms]
 
 *229|
 [fc]
-Kousuke can be stubborn and single-minded once he gets an idea in his head...[pcms]
+Kousuke can be stubborn and single-minded once he gets an[r]
+idea in his head...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -413,16 +435,16 @@ Kousuke can be stubborn and single-minded once he gets an idea in his head...[pc
 [fc]
 [vo_mar s="maru0913"]
 [ns]Margarita[nse]
-"I understand what you want to say and I get your feelings. But if we're talking[r]
-about the situation, isn't this exactly the time when we should be cooperating[r]
-unanimously?"[pcms]
+"I understand what you want to say and I get your feelings.[r]
+But if we're talking about the situation, isn't this exactly[r]
+the time when we should be cooperating unanimously?"[pcms]
 
 *231|
 [fc]
 [vo_mar s="maru0914"]
 [ns]Margarita[nse]
-"If it's a matter of feelings, then please be satisfied with the fact that I'm[r]
-the oldest here."[pcms]
+"If it's a matter of feelings, then please be satisfied with[r]
+the fact that I'm the oldest here."[pcms]
 
 *232|
 [fc]
@@ -434,13 +456,14 @@ Kousuke is the type who won't be convinced by logic alone.[pcms]
 
 *234|
 [fc]
-But even he must understand that we need a leader in this situation and that the[r]
-senior is the most suitable for the role...[pcms]
+But even he must understand that we need a leader in this[r]
+situation and that the senior is the most suitable for the[r]
+role...[pcms]
 
 *235|
 [fc]
-In other words, as he himself said, it's a "matter of feelings," and he just[r]
-needs a reason to convince himself...[pcms]
+In other words, as he himself said, it's a "matter of[r]
+feelings," and he just needs a reason to convince himself...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -470,7 +493,8 @@ As expected, Kousuke quickly nodded in agreement.[pcms]
 
 *240|
 [fc]
-The senior bowed politely and then crossed her arms as if deep in thought.[pcms]
+The senior bowed politely and then crossed her arms as if[r]
+deep in thought.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -478,8 +502,9 @@ The senior bowed politely and then crossed her arms as if deep in thought.[pcms]
 [fc]
 [vo_mar s="maru0916"]
 [ns]Margarita[nse]
-"That's right... Kousuke, that's a good suggestion. Having nicknames will likely[r]
-increase our unity. You can call me Marie."[pcms]
+"That's right... Kousuke, that's a good suggestion. Having[r]
+nicknames will likely increase our unity. You can call me[r]
+Marie."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -490,7 +515,8 @@ increase our unity. You can call me Marie."[pcms]
 
 *243|
 [fc]
-A hand timidly raised from beside Kousuke as he repeated the name.[pcms]
+A hand timidly raised from beside Kousuke as he repeated the[r]
+name.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -538,8 +564,9 @@ Yuuho spoke up to the senior with a shy tilt of her head.[pcms]
 
 *250|
 [fc]
-Taken aback by the unexpected suggestion, we all murmured among ourselves as[r]
-Yuuho continued while scratching her head.[pcms]
+Taken aback by the unexpected suggestion, we all murmured[r]
+among ourselves as Yuuho continued while scratching her[r]
+head.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -547,8 +574,9 @@ Yuuho continued while scratching her head.[pcms]
 [fc]
 [vo_yuh s="yuho0809"]
 [ns]Yuuho[nse]
-"Well, 'Marie-san' sounds like a foreign name, and it feels a bit hard to call[r]
-out, like there's a distance... I was thinking."[pcms]
+"Well, 'Marie-san' sounds like a foreign name, and it feels[r]
+a bit hard to call out, like there's a distance... I was[r]
+thinking."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -556,8 +584,9 @@ out, like there's a distance... I was thinking."[pcms]
 [fc]
 [vo_yuh s="yuho0810"]
 [ns]Yuuho[nse]
-"If we go with Maruko-senpai, it sounds a bit cuter and more familiar, plus it's[r]
-a Japanese-style nickname. How about it?"[pcms]
+"If we go with Maruko-senpai, it sounds a bit cuter and more[r]
+familiar, plus it's a Japanese-style nickname. How about[r]
+it?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -578,8 +607,8 @@ The senior was clearly at a loss for words.[pcms]
 [fc]
 [vo_yuh s="yuho0811"]
 [ns]Yuuho[nse]
-"Ah! But I wasn't the first one to think of it! It was the girls from the swim[r]
-club, not me!"[pcms]
+"Ah! But I wasn't the first one to think of it! It was the[r]
+girls from the swim club, not me!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -595,30 +624,32 @@ club, not me!"[pcms]
 [fc]
 [vo_mar s="maru0921"]
 [ns]Margarita[nse]
-"I had heard whispers of underclassmen calling me that, but I didn't realize it[r]
-originated from the swim club..."[pcms]
+"I had heard whispers of underclassmen calling me that, but[r]
+I didn't realize it originated from the swim club..."[pcms]
 
 *258|
 [fc]
-With a complicated look on her face, the senior muttered to herself.[pcms]
+With a complicated look on her face, the senior muttered to[r]
+herself.[pcms]
 
 *259|
 [fc]
 [ns]Wataru[nse]
-"If we're going for something Japanese-style, wouldn't Homura-senpai be fine[r]
-too? Just using her last name."[pcms]
+"If we're going for something Japanese-style, wouldn't[r]
+Homura-senpai be fine too? Just using her last name."[pcms]
 
 *260|
 [fc]
-I thought there was no need to force it if she herself disliked it...[pcms]
+I thought there was no need to force it if she herself[r]
+disliked it...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *261|
 [fc]
 [ns]Kousuke[nse]
-"No, no, no. 'Maruko-senpai' is easier to call out and feels more like she's one[r]
-of us, right?"[pcms]
+"No, no, no. 'Maruko-senpai' is easier to call out and feels[r]
+more like she's one of us, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -634,13 +665,13 @@ of us, right?"[pcms]
 [fc]
 [vo_mar s="maru0922"]
 [ns]Margarita[nse]
-"So, is that so... Well... If it makes me more approachable, then I suppose[r]
-there's no helping it."[pcms]
+"So, is that so... Well... If it makes me more approachable,[r]
+then I suppose there's no helping it."[pcms]
 
 *264|
 [fc]
-Somehow pushed into agreement by everyone else, the senior herself gave her[r]
-consent.[pcms]
+Somehow pushed into agreement by everyone else, the senior[r]
+herself gave her consent.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -652,8 +683,9 @@ consent.[pcms]
 
 *266|
 [fc]
-And so, having been officially recognized by everyone as the "Leader and Maruko-[r]
-senpai," the senior solemnly announced her first command.[pcms]
+And so, having been officially recognized by everyone as the[r]
+"Leader and Maruko- senpai," the senior solemnly announced[r]
+her first command.[pcms]
 
 ;//à√ì]
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

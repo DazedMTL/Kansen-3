@@ -20,7 +20,8 @@
 
 *5558|
 [fc]
-I hurriedly pressed the power button with trembling hands to end the call.[pcms]
+I hurriedly pressed the power button with trembling hands to[r]
+end the call.[pcms]
 
 *5559|
 [fc]
@@ -39,22 +40,24 @@ I hurriedly pressed the power button with trembling hands to end the call.[pcms]
 
 *5561|
 [fc]
-I became terrified and threw my phone against the wall. Screaming without a[r]
-sound... It was so frightening that my chest felt constricted, and I couldn't[r]
-make a noise.[pcms]
+I became terrified and threw my phone against the wall.[r]
+Screaming without a sound... It was so frightening that my[r]
+chest felt constricted, and I couldn't make a noise.[pcms]
 
 *5562|
 [fc]
-Horror movies are a lie! When you're truly terrified, you can't let out a big[r]
-scream. It's so frightening that it feels like you're suffocating.[pcms]
+Horror movies are a lie! When you're truly terrified, you[r]
+can't let out a big scream. It's so frightening that it[r]
+feels like you're suffocating.[pcms]
 
 ;//ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5563|
 [fc]
-Turning my eyes away from the phone that clattered to the ground, I closed my[r]
-eyes, covered my ears, and crouched down on the spot.[pcms]
+Turning my eyes away from the phone that clattered to the[r]
+ground, I closed my eyes, covered my ears, and crouched down[r]
+on the spot.[pcms]
 
 ;//se056・歯の根が合わない音
 ;[se buf=0 storage="se056"]
@@ -66,13 +69,15 @@ eyes, covered my ears, and crouched down on the spot.[pcms]
 
 *5565|
 [fc]
-My body was shaking uncontrollably, and my teeth chattered involuntarily. It was[r]
-like being so cold that I was about to freeze...[pcms]
+My body was shaking uncontrollably, and my teeth chattered[r]
+involuntarily. It was like being so cold that I was about to[r]
+freeze...[pcms]
 
 *5566|
 [fc]
 [ns]Wataru[nse]
-"I'm sorry... Yuuho...! I wanted to save you! ...I really did...!"[pcms]
+"I'm sorry... Yuuho...! I wanted to save you! ...I really[r]
+did...!"[pcms]
 
 *5567|
 [fc]
@@ -82,16 +87,19 @@ like being so cold that I was about to freeze...[pcms]
 *5568|
 [fc]
 [ns]Wataru[nse]
-"It's not that I abandoned you! I wanted to help but couldn't...!! So, so...!!"[pcms]
+"It's not that I abandoned you! I wanted to help but[r]
+couldn't...!! So, so...!!"[pcms]
 
 *5569|
 [fc]
 [ns]Wataru[nse]
-"...forgive me... Please forgive me, Yuuho!! I'm begging you..."[pcms]
+"...forgive me... Please forgive me, Yuuho!! I'm begging[r]
+you..."[pcms]
 
 *5570|
 [fc]
-I continued to apologize to Yuuho while shivering uncontrollably.[pcms]
+I continued to apologize to Yuuho while shivering[r]
+uncontrollably.[pcms]
 
 *5571|
 [fc]
@@ -118,8 +126,8 @@ I thought the phone might ring... but it didn't.[pcms]
 
 *5575|
 [fc]
-I opened my eyes. Nothing had changed from before; it was the same underground[r]
-passage lit by the lantern.[pcms]
+I opened my eyes. Nothing had changed from before; it was[r]
+the same underground passage lit by the lantern.[pcms]
 
 *5576|
 [fc]
@@ -143,8 +151,9 @@ At that moment...[pcms]
 
 *5580|
 [fc]
-The voice made me think my heart had stopped. My body stiffened and wouldn't[r]
-move. My mouth dried up with a tingling tension.[pcms]
+The voice made me think my heart had stopped. My body[r]
+stiffened and wouldn't move. My mouth dried up with a[r]
+tingling tension.[pcms]
 
 *5581|
 [fc]
@@ -152,8 +161,9 @@ It was unmistakably Yuuho's voice.[pcms]
 
 *5582|
 [fc]
-Even so, I couldn't stop myself. As if controlled by something, I slowly and[r]
-awkwardly turned around to look behind me.[pcms]
+Even so, I couldn't stop myself. As if controlled by[r]
+something, I slowly and awkwardly turned around to look[r]
+behind me.[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -208,13 +218,15 @@ awkwardly turned around to look behind me.[pcms]
 [fc]
 [vo_yuh s="yuho0728"]
 [ns]Yuuho[nse]
-"But... I'll forgive you... Because~ Wataru is very delicious~"[pcms]
+"But... I'll forgive you... Because~ Wataru is very[r]
+delicious~"[pcms]
 
 *5588|
 [fc]
 [vo_yuh s="yuho0729"]
 [ns]Yuuho[nse]
-"...more than Ren-chan, more than Kousuke... Wataru is much, much tastier~"[pcms]
+"...more than Ren-chan, more than Kousuke... Wataru is much,[r]
+much tastier~"[pcms]
 
 *5589|
 [fc]
@@ -237,7 +249,8 @@ awkwardly turned around to look behind me.[pcms]
 [fc]
 [vo_yuh s="yuho0732"]
 [ns]Yuuho[nse]
-"Ahahahahaha...ahahahah! Ahaha...hihi! Ahahaha!! Aaaaaahhhhh~~~!!!"[pcms]
+"Ahahahahaha...ahahahah! Ahaha...hihi! Ahahaha!![r]
+Aaaaaahhhhh~~~!!!"[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]

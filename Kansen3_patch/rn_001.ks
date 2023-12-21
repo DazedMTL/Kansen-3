@@ -35,15 +35,17 @@ How much time has passed since then...?[pcms]
 
 *5421|
 [fc]
-I've been holed up in my room on the 5th floor, crying continuously. My eyes and[r]
-throat are stinging and painful. But more than that, the pain in my heart feels[r]
-like it's going to tear me apart.[pcms]
+I've been holed up in my room on the 5th floor, crying[r]
+continuously. My eyes and throat are stinging and painful.[r]
+But more than that, the pain in my heart feels like it's[r]
+going to tear me apart.[pcms]
 
 *5422|
 [fc]
-Yuuho's body was wrapped in a blanket and buried in the same place as the[r]
-Masters. I'm sorry for leaving you alone in that dark, cold refrigerator... But[r]
-maybe being with your beloved Masters will bring you some comfort...[pcms]
+Yuuho's body was wrapped in a blanket and buried in the same[r]
+place as the Masters. I'm sorry for leaving you alone in[r]
+that dark, cold refrigerator... But maybe being with your[r]
+beloved Masters will bring you some comfort...[pcms]
 
 *5423|
 [fc]
@@ -52,18 +54,19 @@ maybe being with your beloved Masters will bring you some comfort...[pcms]
 
 *5424|
 [fc]
-Yuuho can't feel anything anymore. She can't have any emotions. Because... I...[r]
-I shot Yuuho with these hands.[pcms]
+Yuuho can't feel anything anymore. She can't have any[r]
+emotions. Because... I... I shot Yuuho with these hands.[pcms]
 
 *5425|
 [fc]
-I took her life... I erased Yuuho's existence from this world... Undoubtedly, it[r]
-was me.[pcms]
+I took her life... I erased Yuuho's existence from this[r]
+world... Undoubtedly, it was me.[pcms]
 
 *5426|
 [fc]
-The Yuuho I loved so much... Probably, I was in love with Yuuho... Yet, I could[r]
-only express my feelings through an act opposite of love...[pcms]
+The Yuuho I loved so much... Probably, I was in love with[r]
+Yuuho... Yet, I could only express my feelings through an[r]
+act opposite of love...[pcms]
 
 *5427|
 [fc]
@@ -72,8 +75,9 @@ only express my feelings through an act opposite of love...[pcms]
 
 *5428|
 [fc]
-I should have protected her. I intended to protect her no matter what. And yet,[r]
-with the gun entrusted to me by Tadahiko, I...![pcms]
+I should have protected her. I intended to protect her no[r]
+matter what. And yet, with the gun entrusted to me by[r]
+Tadahiko, I...![pcms]
 
 *5429|
 [fc]
@@ -86,22 +90,24 @@ Far from protecting her... I killed her...[pcms]
 
 *5431|
 [fc]
-If that gun had been within reach, I would have shot myself in the chest without[r]
-hesitation.[pcms]
+If that gun had been within reach, I would have shot myself[r]
+in the chest without hesitation.[pcms]
 
 *5432|
 [fc]
-But perhaps anticipating that, Tadahiko's gun was taken away by Senior Maruko.[pcms]
+But perhaps anticipating that, Tadahiko's gun was taken away[r]
+by Senior Maruko.[pcms]
 
 *5433|
 [fc]
-I tear at my hair and beat my chest over and over. If I couldn't kill myself, I[r]
-wanted to at least inflict some wounds as a substitute.[pcms]
+I tear at my hair and beat my chest over and over. If I[r]
+couldn't kill myself, I wanted to at least inflict some[r]
+wounds as a substitute.[pcms]
 
 *5434|
 [fc]
-What kind of punishment would absolve me of my sins? What kind of pain must I[r]
-endure to understand Yuuho's pain...?[pcms]
+What kind of punishment would absolve me of my sins? What[r]
+kind of pain must I endure to understand Yuuho's pain...?[pcms]
 
 ;//se003・携帯の着信音
 [se buf=0 storage="se003" loop=true]
@@ -121,8 +127,9 @@ My phone is ringing. Maybe someone is worried about me...[pcms]
 
 *5437|
 [fc]
-But right now, I don't want to talk to anyone. Not comfort, not sympathy, not[r]
-understanding. I didn't want to receive anything.[pcms]
+But right now, I don't want to talk to anyone. Not comfort,[r]
+not sympathy, not understanding. I didn't want to receive[r]
+anything.[pcms]
 
 
 
@@ -135,8 +142,8 @@ understanding. I didn't want to receive anything.[pcms]
 
 *5438|
 [fc]
-The call that had once stopped started ringing again. Reluctantly, I picked up[r]
-the phone to the incessant sound.[pcms]
+The call that had once stopped started ringing again.[r]
+Reluctantly, I picked up the phone to the incessant sound.[pcms]
 
 *5439|
 [fc]
@@ -169,7 +176,8 @@ It was from Mizuki when I checked the display.[pcms]
 
 *5443|
 [fc]
-Mizuki's scream, loud enough to burst my eardrums, pulled me back to reality.[pcms]
+Mizuki's scream, loud enough to burst my eardrums, pulled me[r]
+back to reality.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

@@ -39,8 +39,9 @@ I opened my mouth as I organized my thoughts.[pcms]
 *1686|
 [fc]
 [ns]Wataru[nse]
-"Remember what Jin-san and the others said earlier? "Because you called out[r]
-loudly, that's why you were chased." Couldn't the opposite be true as well?"[pcms]
+"Remember what Jin-san and the others said earlier? "Because[r]
+you called out loudly, that's why you were chased." Couldn't[r]
+the opposite be true as well?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -54,13 +55,14 @@ loudly, that's why you were chased." Couldn't the opposite be true as well?"[pcm
 
 *1688|
 [fc]
-Yuuho's face brightened up as she clapped her hands together.[pcms]
+Yuuho's face brightened up as she clapped her hands[r]
+together.[pcms]
 
 *1689|
 [fc]
 [ns]Wataru[nse]
-"If we lure the infected to a different place with sounds or voices, the[r]
-entrance hall will be emptied."[pcms]
+"If we lure the infected to a different place with sounds or[r]
+voices, the entrance hall will be emptied."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -68,7 +70,8 @@ entrance hall will be emptied."[pcms]
 [fc]
 [vo_mar s="maru1494"]
 [ns]Margarita[nse]
-"I see, during that time, we just need to seal off the entrance!"[pcms]
+"I see, during that time, we just need to seal off the[r]
+entrance!"[pcms]
 
 *1691|
 [fc]
@@ -79,7 +82,8 @@ The plan gradually became more concrete.[pcms]
 *1692|
 [fc]
 [ns]Kousuke[nse]
-"But, even if we lure them, wouldn't that be dangerous for us?"[pcms]
+"But, even if we lure them, wouldn't that be dangerous for[r]
+us?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -95,8 +99,8 @@ The plan gradually became more concrete.[pcms]
 [fc]
 [vo_mar s="maru1496"]
 [ns]Margarita[nse]
-"The veranda of the nap room faces the street. Moreover, the route there and[r]
-back is relatively safe."[pcms]
+"The veranda of the nap room faces the street. Moreover, the[r]
+route there and back is relatively safe."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -104,7 +108,8 @@ back is relatively safe."[pcms]
 [fc]
 [vo_mar s="maru1497"]
 [ns]Margarita[nse]
-"Well... It's only relatively safe, it's not guaranteed to be secure."[pcms]
+"Well... It's only relatively safe, it's not guaranteed to[r]
+be secure."[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇTÇOÇRÇSÇOÇ÷
 [jump storage="50340.ks" target=*50340_TOP]

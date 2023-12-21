@@ -33,24 +33,27 @@
 [fc]
 [vo_mar s="maru0648"]
 [ns]Margarita[nse]
-"No, I carelessly left it in the library while it was solar-charging."[pcms]
+"No, I carelessly left it in the library while it was solar-[r]
+charging."[pcms]
 
 *5005|
 [fc]
-It seems like the senior is deeply regretting forgetting her cellphone.[pcms]
+It seems like the senior is deeply regretting forgetting her[r]
+cellphone.[pcms]
 
 *5006|
 [fc]
-Given that she's the daughter of a diplomat, her cellphone might be special,[r]
-perhaps containing numbers that could be of help in a rescue.[pcms]
+Given that she's the daughter of a diplomat, her cellphone[r]
+might be special, perhaps containing numbers that could be[r]
+of help in a rescue.[pcms]
 
 *5007|
 [fc]
 [vo_mar s="maru0649"]
 [ns]Margarita[nse]
-"Well, there's no use crying over spilled milk now. The plan to escape while we[r]
-still have the strength hasn't changed. We could have held out if we had enough[r]
-food and water..."[pcms]
+"Well, there's no use crying over spilled milk now. The plan[r]
+to escape while we still have the strength hasn't changed.[r]
+We could have held out if we had enough food and water..."[pcms]
 
 *5008|
 [fc]
@@ -61,9 +64,10 @@ food and water..."[pcms]
 [fc]
 [vo_mar s="maru0650"]
 [ns]Margarita[nse]
-"We're short on food, and more importantly, water. I've heard that similar[r]
-commotions in the past were suppressed within a few days, but with our current[r]
-supplies, we won't last that long."[pcms]
+"We're short on food, and more importantly, water. I've[r]
+heard that similar commotions in the past were suppressed[r]
+within a few days, but with our current supplies, we won't[r]
+last that long."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -71,24 +75,27 @@ supplies, we won't last that long."[pcms]
 [fc]
 [vo_mar s="maru0651"]
 [ns]Margarita[nse]
-"We could survive for about a week if we really had to... But we'd be severely[r]
-weakened, and it would be too cruel for your frail sister. After all, this all[r]
-assumes someone will come to rescue us."[pcms]
+"We could survive for about a week if we really had to...[r]
+But we'd be severely weakened, and it would be too cruel for[r]
+your frail sister. After all, this all assumes someone will[r]
+come to rescue us."[pcms]
 ;//＠酷（こく）
 
 *5011|
 [fc]
 [vo_mar s="maru0652"]
 [ns]Margarita[nse]
-"There's no guarantee that someone will come to save us. If not, starvation is[r]
-certain. Moreover, we haven't secured a place that's absolutely safe."[pcms]
+"There's no guarantee that someone will come to save us. If[r]
+not, starvation is certain. Moreover, we haven't secured a[r]
+place that's absolutely safe."[pcms]
 
 *5012|
 [fc]
 [vo_mar s="maru0653"]
 [ns]Margarita[nse]
-"If this door doesn't seem like it will open, we'll have to try to reach the[r]
-surface from another location. It may be harsh for you guys... but be prepared."[pcms]
+"If this door doesn't seem like it will open, we'll have to[r]
+try to reach the surface from another location. It may be[r]
+harsh for you guys... but be prepared."[pcms]
 ;//＠酷（こく）
 
 *5013|
@@ -98,18 +105,18 @@ surface from another location. It may be harsh for you guys... but be prepared."
 
 *5014|
 [fc]
-I understand that what the senior is saying is right, but I still couldn't bring[r]
-myself to be prepared.[pcms]
+I understand that what the senior is saying is right, but I[r]
+still couldn't bring myself to be prepared.[pcms]
 
 *5015|
 [fc]
-I wonder if we should have followed the senior's intuition and headed towards[r]
-the river at that fork in the road?[pcms]
+I wonder if we should have followed the senior's intuition[r]
+and headed towards the river at that fork in the road?[pcms]
 
 *5016|
 [fc]
-No, given the senior's state back then... if she had her cellphone, could there[r]
-have been a breakthrough?[pcms]
+No, given the senior's state back then... if she had her[r]
+cellphone, could there have been a breakthrough?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -117,20 +124,23 @@ have been a breakthrough?[pcms]
 [fc]
 [vo_mar s="maru0654"]
 [ns]Margarita[nse]
-"Thanks to you, we're better off with supplies than I thought... Even so, you[r]
-managed to escape with all this luggage even though it was just for camping."[pcms]
+"Thanks to you, we're better off with supplies than I[r]
+thought... Even so, you managed to escape with all this[r]
+luggage even though it was just for camping."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5018|
 [fc]
 [ns]Kousuke[nse]
-"Like I said earlier, looking at it again, it's an impressive amount..."[pcms]
+"Like I said earlier, looking at it again, it's an[r]
+impressive amount..."[pcms]
 
 *5019|
 [fc]
 [ns]Wataru[nse]
-"Maybe it was adrenaline or a runner's high...? I didn't notice at all..."[pcms]
+"Maybe it was adrenaline or a runner's high...? I didn't[r]
+notice at all..."[pcms]
 
 *5020|
 [fc]
@@ -153,13 +163,15 @@ managed to escape with all this luggage even though it was just for camping."[pc
 [fc]
 [vo_mar s="maru0655"]
 [ns]Margarita[nse]
-"For now, let's sort out and leave anything we likely won't need here. The[r]
-remaining luggage should be evenly distributed among the four of us."[pcms]
+"For now, let's sort out and leave anything we likely won't[r]
+need here. The remaining luggage should be evenly[r]
+distributed among the four of us."[pcms]
 
 *5024|
 [fc]
 [ns]Wataru[nse]
-"Then, why don't we start by eating lunch together? It's already past noon."[pcms]
+"Then, why don't we start by eating lunch together? It's[r]
+already past noon."[pcms]
 
 *5025|
 [fc]
@@ -169,7 +181,8 @@ I said this while offering the lunchbox Ren gave me.[pcms]
 [fc]
 [vo_mar s="maru0656"]
 [ns]Margarita[nse]
-"Speaking of which, what about that lunchbox? Did your sister make it...?"[pcms]
+"Speaking of which, what about that lunchbox? Did your[r]
+sister make it...?"[pcms]
 
 *5027|
 [fc]
@@ -180,22 +193,23 @@ I said this while offering the lunchbox Ren gave me.[pcms]
 [fc]
 [vo_mar s="maru0657"]
 [ns]Margarita[nse]
-"Right. It's unfortunate for your sister, but we should eat when we can... Let's[r]
-go ahead and eat."[pcms]
+"Right. It's unfortunate for your sister, but we should eat[r]
+when we can... Let's go ahead and eat."[pcms]
 
 *5029|
 [fc]
 [ns]Wataru[nse]
-"No, I'm sure Ren would be happy about it. If she heard that we couldn't eat[r]
-because she was asleep, she would definitely be sad."[pcms]
+"No, I'm sure Ren would be happy about it. If she heard that[r]
+we couldn't eat because she was asleep, she would definitely[r]
+be sad."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5030|
 [fc]
 [ns]Kousuke[nse]
-"That's true. If it were Ren-chan, she would say that... Let's share mine here[r]
-too."[pcms]
+"That's true. If it were Ren-chan, she would say that...[r]
+Let's share mine here too."[pcms]
 
 *5031|
 [fc]
@@ -210,31 +224,34 @@ We decided to eat before Ren.[pcms]
 
 *5032|
 [fc]
-Following the senior's suggestion, we served ourselves on paper plates I brought[r]
-with clean chopsticks. It seems that if bacteria get into the lunchbox, it[r]
-spoils more easily.[pcms]
+Following the senior's suggestion, we served ourselves on[r]
+paper plates I brought with clean chopsticks. It seems that[r]
+if bacteria get into the lunchbox, it spoils more easily.[pcms]
 
 *5033|
 [fc]
-Only a little bit of Ren's portion remains inside the closed lunchbox.[pcms]
+Only a little bit of Ren's portion remains inside the closed[r]
+lunchbox.[pcms]
 
 *5034|
 [fc]
-The meal felt more like stuffing ourselves rather than satisfying hunger.[pcms]
+The meal felt more like stuffing ourselves rather than[r]
+satisfying hunger.[pcms]
 
 *5035|
 [fc]
-While eating, I couldn't help but remember Yuuho who always loved to eat and[r]
-carried snacks with her.[pcms]
+While eating, I couldn't help but remember Yuuho who always[r]
+loved to eat and carried snacks with her.[pcms]
 
 *5036|
 [fc]
-Thinking of Yuuho made my stomach clench and I could feel my appetite fading.[pcms]
+Thinking of Yuuho made my stomach clench and I could feel my[r]
+appetite fading.[pcms]
 
 *5037|
 [fc]
-But with the thought of "I must eat now," I continued to eat as if cramming it[r]
-in.[pcms]
+But with the thought of "I must eat now," I continued to eat[r]
+as if cramming it in.[pcms]
 
 ;//場面転換
 
@@ -246,51 +263,57 @@ in.[pcms]
 
 *5038|
 [fc]
-After finishing the lunch and sorting out our luggage, I finally checked my own[r]
-cellphone.[pcms]
+After finishing the lunch and sorting out our luggage, I[r]
+finally checked my own cellphone.[pcms]
 
 *5039|
 [fc]
-The conversation about Maruko-senpai forgetting her cellphone made me realize I[r]
-hadn't checked mine in a while, so now that I had a moment, I finally did.[pcms]
+The conversation about Maruko-senpai forgetting her[r]
+cellphone made me realize I hadn't checked mine in a while,[r]
+so now that I had a moment, I finally did.[pcms]
 
 *5040|
 [fc]
-To my surprise, even underground here, the cellphone signal was getting through.[r]
-The antenna was up. But maybe the lines were messed up because I couldn't get[r]
-through with a call.[pcms]
+To my surprise, even underground here, the cellphone signal[r]
+was getting through. The antenna was up. But maybe the lines[r]
+were messed up because I couldn't get through with a call.[pcms]
 
 *5041|
 [fc]
-I tried sending an email to my dad even though I thought it was futile, but all[r]
-of them resulted in a transmission error.[pcms]
+I tried sending an email to my dad even though I thought it[r]
+was futile, but all of them resulted in a transmission[r]
+error.[pcms]
 
 *5042|
 [fc]
-I reluctantly decided to check the unread emails that had come in.[pcms]
+I reluctantly decided to check the unread emails that had[r]
+come in.[pcms]
 
 *5043|
 [fc]
-Maybe I didn't check my own emails first because Margarita-senpai's "no use[r]
-crying over spilled milk" had rubbed off on me.[pcms]
+Maybe I didn't check my own emails first because Margarita-[r]
+senpai's "no use crying over spilled milk" had rubbed off on[r]
+me.[pcms]
 
 *5044|
 [fc]
-The emails were from Ren and Kousuke. They were sent during the summer festival[r]
-when I was talking with Inori-san.[pcms]
+The emails were from Ren and Kousuke. They were sent during[r]
+the summer festival when I was talking with Inori-san.[pcms]
 
 *5045|
 [fc]
-"Hey, where did you disappear to?" and "Big brother, where are you?"[pcms]
+"Hey, where did you disappear to?" and "Big brother, where[r]
+are you?"[pcms]
 
 *5046|
 [fc]
-...Short messages of concern for me who had run away from the summer festival.[r]
-They cared so much for me...[pcms]
+...Short messages of concern for me who had run away from[r]
+the summer festival. They cared so much for me...[pcms]
 
 *5047|
 [fc]
-I'm happy but feel embarrassed in front of just the two people here with me.[pcms]
+I'm happy but feel embarrassed in front of just the two[r]
+people here with me.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -333,20 +356,24 @@ I let out a small voice involuntarily.[pcms]
 
 *5055|
 [fc]
-According to the emails... after I disappeared, Yuuho also went missing.[pcms]
+According to the emails... after I disappeared, Yuuho also[r]
+went missing.[pcms]
 
 *5056|
 [fc]
-"Do you know where Yuuho is?" "Are you with her?" ...the emails asked.[pcms]
+"Do you know where Yuuho is?" "Are you with her?" ...the[r]
+emails asked.[pcms]
 
 *5057|
 [fc]
-Yuuho... on that day, Yuuho was meeting alone with Oshima-senpai... And she[r]
-hadn't returned to everyone else afterwards.[pcms]
+Yuuho... on that day, Yuuho was meeting alone with Oshima-[r]
+senpai... And she hadn't returned to everyone else[r]
+afterwards.[pcms]
 
 *5058|
 [fc]
-...In other words, the two of them were together even after that...[pcms]
+...In other words, the two of them were together even after[r]
+that...[pcms]
 
 *5059|
 [fc]
@@ -376,7 +403,8 @@ After all, those two...[pcms]
 [fc]
 [vo_yuh s="yuho0703"]
 [ns]Yuuho[nse]
-"Se-senpai too, it feels good. It feels good... ah, ahn! Oshima-senpai"[pcms]
+"Se-senpai too, it feels good. It feels good... ah, ahn![r]
+Oshima-senpai"[pcms]
 
 *5063|
 [fc]
@@ -387,7 +415,8 @@ After all, those two...[pcms]
 [fc]
 [vo_yuh s="yuho0704"]
 [ns]Yuuho[nse]
-"Nnfuuu, go ahead, cum inside me, senpai. Fill me up with lots of your sperm~"[pcms]
+"Nnfuuu, go ahead, cum inside me, senpai. Fill me up with[r]
+lots of your sperm~"[pcms]
 
 *5065|
 [fc]
@@ -405,7 +434,8 @@ After all, those two...[pcms]
 [fc]
 [vo_yuh s="yuho0705"]
 [ns]Yuuho[nse]
-"Hiuuu! Se-senpai's sperm, there's so much cumming out nnhh!"[pcms]
+"Hiuuu! Se-senpai's sperm, there's so much cumming out[r]
+nnhh!"[pcms]
 
 ;//BG:HEV013
 [evcg storage="HEV013c"][trans_c cross time=300]
@@ -429,7 +459,8 @@ What am I thinking about at a time like this?[pcms]
 
 *5069|
 [fc]
-...Even if it's a reflexive fantasy, I can't believe this is what comes to mind.[pcms]
+...Even if it's a reflexive fantasy, I can't believe this is[r]
+what comes to mind.[pcms]
 
 *5070|
 [fc]
@@ -437,12 +468,14 @@ Did I really love Yuuho?[pcms]
 
 *5071|
 [fc]
-Or was it just her body... Yuuho's body, bursting with charm... that I loved?[pcms]
+Or was it just her body... Yuuho's body, bursting with[r]
+charm... that I loved?[pcms]
 
 *5072|
 [fc]
-...If that's the case, I'm no different from those people. The ones we're[r]
-running from now--those who have gone crazy with SEX on their minds...[pcms]
+...If that's the case, I'm no different from those people.[r]
+The ones we're running from now--those who have gone crazy[r]
+with SEX on their minds...[pcms]
 
 ;//妄想なので　夢に落ちていく感じの演出ができれば
 
@@ -471,7 +504,8 @@ running from now--those who have gone crazy with SEX on their minds...[pcms]
 [fc]
 [vo_yuh s="yuho0707"]
 [ns]Yuuho[nse]
-"Wataru is different from those people. You truly loved me... I know that..."[pcms]
+"Wataru is different from those people. You truly loved[r]
+me... I know that..."[pcms]
 ;//＠　主人公の妄想
 
 *5076|
@@ -531,12 +565,13 @@ running from now--those who have gone crazy with SEX on their minds...[pcms]
 
 *5083|
 [fc]
-I realized the reality of my current situation and swallowed the name "Yuuho"[r]
-that I was about to say.[pcms]
+I realized the reality of my current situation and swallowed[r]
+the name "Yuuho" that I was about to say.[pcms]
 
 *5084|
 [fc]
-If Kousuke heard Yuuho's name, he would surely feel pain again.[pcms]
+If Kousuke heard Yuuho's name, he would surely feel pain[r]
+again.[pcms]
 
 *5085|
 [fc]
@@ -547,7 +582,8 @@ If I said I saw Yuuho in my dream, surely...[pcms]
 *5086|
 [fc]
 [ns]Kousuke[nse]
-"Are you okay? Wataru? If you're tired, you can sleep a bit more."[pcms]
+"Are you okay? Wataru? If you're tired, you can sleep a bit[r]
+more."[pcms]
 
 *5087|
 [fc]
@@ -559,8 +595,8 @@ If I said I saw Yuuho in my dream, surely...[pcms]
 *5088|
 [fc]
 [ns]Kousuke[nse]
-"Hmm, as far as I know... about 2 or 3 minutes. So if you're tired, you can rest[r]
-a bit more..."[pcms]
+"Hmm, as far as I know... about 2 or 3 minutes. So if you're[r]
+tired, you can rest a bit more..."[pcms]
 
 *5089|
 [fc]
@@ -573,7 +609,8 @@ a bit more..."[pcms]
 [fc]
 [vo_mar s="maru0658"]
 [ns]Margarita[nse]
-"By the way, your phone was ringing earlier. Was that an email notification?"[pcms]
+"By the way, your phone was ringing earlier. Was that an[r]
+email notification?"[pcms]
 
 *5091|
 [fc]
@@ -587,8 +624,8 @@ a bit more..."[pcms]
 
 *5092|
 [fc]
-I took out my phone which was caught on a strap and checked the incoming[r]
-messages.[pcms]
+I took out my phone which was caught on a strap and checked[r]
+the incoming messages.[pcms]
 
 *5093|
 [fc]
@@ -600,26 +637,28 @@ messages.[pcms]
 
 *5094|
 [fc]
-The notification came quite late, but the date was today's. I hurriedly opened[r]
-the received email.[pcms]
+The notification came quite late, but the date was today's.[r]
+I hurriedly opened the received email.[pcms]
 
 ;//具体的時間があれば反映
 ;//以下ケータイメール　何らかの演出を
 
 *5095|
 [fc]
-There's a big commotion going on. It seems to be related to that infection in[r]
-the northeast. The vaccine doesn't seem to be working.[pcms]
+There's a big commotion going on. It seems to be related to[r]
+that infection in the northeast. The vaccine doesn't seem to[r]
+be working.[pcms]
 
 *5096|
 [fc]
-Is the school okay? Are there any infected? If there are any infected people,[r]
-don't go near them.[pcms]
+Is the school okay? Are there any infected? If there are any[r]
+infected people, don't go near them.[pcms]
 
 *5097|
 [fc]
-No matter if they are friends. It sounds harsh, but once infected, there's no[r]
-hope for recovery. That was the case with the virus in the northeast.[pcms]
+No matter if they are friends. It sounds harsh, but once[r]
+infected, there's no hope for recovery. That was the case[r]
+with the virus in the northeast.[pcms]
 
 *5098|
 [fc]
@@ -627,8 +666,8 @@ Above all, think only about protecting yourself first.[pcms]
 
 *5099|
 [fc]
-I'm planning to go on air, but with this commotion, I don't know when I can get[r]
-out.[pcms]
+I'm planning to go on air, but with this commotion, I don't[r]
+know when I can get out.[pcms]
 
 *5100|
 [fc]
@@ -660,14 +699,14 @@ Please take care of Ren.[pcms]
 
 *5105|
 [fc]
-Could it be the effect of the cocktail party? Ren sits up at the mention of her[r]
-father.[pcms]
+Could it be the effect of the cocktail party? Ren sits up at[r]
+the mention of her father.[pcms]
 
 *5106|
 [fc]
 [ns]Wataru[nse]
-"Yeah. He's safe. It's a bit of an old email, but he's at the center... above[r]
-us..."[pcms]
+"Yeah. He's safe. It's a bit of an old email, but he's at[r]
+the center... above us..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -692,8 +731,9 @@ us..."[pcms]
 
 *5110|
 [fc]
-Ren shows a guts pose with her slender white arms. Her complexion looks good and[r]
-she doesn't seem to be pushing herself, which reassures me.[pcms]
+Ren shows a guts pose with her slender white arms. Her[r]
+complexion looks good and she doesn't seem to be pushing[r]
+herself, which reassures me.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -701,8 +741,8 @@ she doesn't seem to be pushing herself, which reassures me.[pcms]
 [fc]
 [vo_mar s="maru0659"]
 [ns]Margarita[nse]
-"It's good to hear that your father is safe. We might start receiving useful[r]
-information directly."[pcms]
+"It's good to hear that your father is safe. We might start[r]
+receiving useful information directly."[pcms]
 
 *5112|
 [fc]
@@ -713,15 +753,16 @@ information directly."[pcms]
 [fc]
 [vo_mar s="maru0660"]
 [ns]Margarita[nse]
-"We're not broadcasting right now, but there's also the radio. If it's even a[r]
-little faster and accurate, it should be valuable."[pcms]
+"We're not broadcasting right now, but there's also the[r]
+radio. If it's even a little faster and accurate, it should[r]
+be valuable."[pcms]
 
 *5114|
 [fc]
 [vo_mar s="maru0661"]
 [ns]Margarita[nse]
-"Besides, if they know we're here, they might open it from the inside. Isn't[r]
-that more important?"[pcms]
+"Besides, if they know we're here, they might open it from[r]
+the inside. Isn't that more important?"[pcms]
 
 *5115|
 [fc]
@@ -738,8 +779,8 @@ I had forgotten which was more important.[pcms]
 [fc]
 [vo_mar s="maru0662"]
 [ns]Margarita[nse]
-"There's no radio broadcast right now, so email is the only way to know what's[r]
-happening outside."[pcms]
+"There's no radio broadcast right now, so email is the only[r]
+way to know what's happening outside."[pcms]
 
 *5118|
 [fc]
@@ -763,15 +804,17 @@ happening outside."[pcms]
 *5121|
 [fc]
 [ns]Kousuke[nse]
-"He left yesterday and arrived in NY the same day. He heard about the commotion[r]
-in Japan on TV and seems to have emailed us."[pcms]
+"He left yesterday and arrived in NY the same day. He heard[r]
+about the commotion in Japan on TV and seems to have emailed[r]
+us."[pcms]
 
 *5122|
 [fc]
 [ns]Kousuke[nse]
-"He was asking if me and the master were safe... It's not clear whether it's a[r]
-mysterious riot or a recurrence of the Northeast infection disaster, but it's[r]
-clear that something serious is happening all over Japan..."[pcms]
+"He was asking if me and the master were safe... It's not[r]
+clear whether it's a mysterious riot or a recurrence of the[r]
+Northeast infection disaster, but it's clear that something[r]
+serious is happening all over Japan..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -803,16 +846,18 @@ clear that something serious is happening all over Japan..."[pcms]
 
 *5127|
 [fc]
-The story from America isn't really helpful. It's scary to ask, but we need[r]
-other emails that could be references... preferably ones that can give us hope.[pcms]
+The story from America isn't really helpful. It's scary to[r]
+ask, but we need other emails that could be references...[r]
+preferably ones that can give us hope.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5128|
 [fc]
 [ns]Kousuke[nse]
-"Then there are messages from music-related friends and seniors from other[r]
-schools... Everyone's asking if we're okay..."[pcms]
+"Then there are messages from music-related friends and[r]
+seniors from other schools... Everyone's asking if we're[r]
+okay..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -820,23 +865,25 @@ schools... Everyone's asking if we're okay..."[pcms]
 [fc]
 [vo_mar s="maru0664"]
 [ns]Margarita[nse]
-"It seems those kids are okay. So, which schools are they from?"[pcms]
+"It seems those kids are okay. So, which schools are they[r]
+from?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5130|
 [fc]
 [ns]Kousuke[nse]
-"The thing is, they're all from other prefectures... Oh, there are some from[r]
-Tokyo too, but only from quite remote suburbs..."[pcms]
+"The thing is, they're all from other prefectures... Oh,[r]
+there are some from Tokyo too, but only from quite remote[r]
+suburbs..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5131|
 [fc]
 [ns]Kousuke[nse]
-"From around here or... no, not a single one from within the 23 wards. Not from[r]
-dad or mom... And from Mizuki too..."[pcms]
+"From around here or... no, not a single one from within the[r]
+23 wards. Not from dad or mom... And from Mizuki too..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -848,30 +895,33 @@ dad or mom... And from Mizuki too..."[pcms]
 
 *5133|
 [fc]
-The senior looked down as if regretting asking such a question.[pcms]
+The senior looked down as if regretting asking such a[r]
+question.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5134|
 [fc]
-Kousuke must be worried about his uncle and aunt... and also about Mizuki.[pcms]
+Kousuke must be worried about his uncle and aunt... and also[r]
+about Mizuki.[pcms]
 
 *5135|
 [fc]
-I've been preoccupied with Yuuho, but hearing that name made me worry about[r]
-Mizuki too. What could she be doing right now?[pcms]
+I've been preoccupied with Yuuho, but hearing that name made[r]
+me worry about Mizuki too. What could she be doing right[r]
+now?[pcms]
 
 *5136|
 [fc]
-...Come to think of it, what about the senior? She must have people she's[r]
-worried about too.[pcms]
+...Come to think of it, what about the senior? She must have[r]
+people she's worried about too.[pcms]
 
 *5137|
 [fc]
 [ns]Wataru[nse]
-"Senior, don't you have people you're worried about? Your parents are at the[r]
-embassy, right?"[pcms]
+"Senior, don't you have people you're worried about? Your[r]
+parents are at the embassy, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -885,15 +935,15 @@ embassy, right?"[pcms]
 [fc]
 [vo_mar s="maru0667"]
 [ns]Margarita[nse]
-"My father is away on official business, so only my personal bodyguard and staff[r]
-remain at the embassy."[pcms]
+"My father is away on official business, so only my personal[r]
+bodyguard and staff remain at the embassy."[pcms]
 
 *5140|
 [fc]
 [vo_mar s="maru0668"]
 [ns]Margarita[nse]
-"...My mother has passed away. She was killed in a bomb terrorist attack during[r]
-the Martini civil war..."[pcms]
+"...My mother has passed away. She was killed in a bomb[r]
+terrorist attack during the Martini civil war..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -913,24 +963,26 @@ the Martini civil war..."[pcms]
 
 *5143|
 [fc]
-A sharp pain struck my heart. The senior had experienced the same suffering as[r]
-me.[pcms]
+A sharp pain struck my heart. The senior had experienced the[r]
+same suffering as me.[pcms]
 
 *5144|
 [fc]
-"Having her mother's life taken away for such an unreasonable reason..."[pcms]
+"Having her mother's life taken away for such an[r]
+unreasonable reason..."[pcms]
 
 *5145|
 [fc]
-The pain the senior is feeling now must be the same as what I had just felt.[pcms]
+The pain the senior is feeling now must be the same as what[r]
+I had just felt.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5146|
 [fc]
 [ns]Kousuke[nse]
-"Wataru and Ren-chan lost their mother in the previous Northeast infection[r]
-disaster... There was no ill intent..."[pcms]
+"Wataru and Ren-chan lost their mother in the previous[r]
+Northeast infection disaster... There was no ill intent..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -946,17 +998,18 @@ disaster... There was no ill intent..."[pcms]
 [fc]
 [vo_mar s="maru0669"]
 [ns]Margarita[nse]
-"Don't worry about it. It's an unavoidable pain when people try to understand[r]
-each other. I know that."[pcms]
+"Don't worry about it. It's an unavoidable pain when people[r]
+try to understand each other. I know that."[pcms]
 
 *5149|
 [fc]
-The senior smiled kindly at us. It was the same expression I often made when I[r]
-felt the same pain.[pcms]
+The senior smiled kindly at us. It was the same expression I[r]
+often made when I felt the same pain.[pcms]
 
 *5150|
 [fc]
-Enduring the pain, with a feeling of 'thank you' for those who showed concern...[pcms]
+Enduring the pain, with a feeling of 'thank you' for those[r]
+who showed concern...[pcms]
 
 *5151|
 [fc]
@@ -973,43 +1026,47 @@ I bowed my head once again.[pcms]
 [fc]
 [vo_mar s="maru0670"]
 [ns]Margarita[nse]
-"There's no need to worry about it... I'm more concerned about the staff who[r]
-fell ill."[pcms]
+"There's no need to worry about it... I'm more concerned[r]
+about the staff who fell ill."[pcms]
 
 *5154|
 [fc]
 [vo_mar s="maru0671"]
 [ns]Margarita[nse]
-"Some of them were capable soldiers in their homeland during the civil war, so[r]
-they must be working hard to resolve the situation by now."[pcms]
+"Some of them were capable soldiers in their homeland during[r]
+the civil war, so they must be working hard to resolve the[r]
+situation by now."[pcms]
 
 *5155|
 [fc]
 [vo_mar s="maru0672"]
 [ns]Margarita[nse]
-"It should work out somehow. Capable military personnel show their true worth in[r]
-situations like this."[pcms]
+"It should work out somehow. Capable military personnel show[r]
+their true worth in situations like this."[pcms]
 
 *5156|
 [fc]
-The senior said this to reassure us. But at the same time, it sounded like she[r]
-was saying that our own Self-Defense Forces were useless.[pcms]
+The senior said this to reassure us. But at the same time,[r]
+it sounded like she was saying that our own Self-Defense[r]
+Forces were useless.[pcms]
 
 *5157|
 [fc]
-Indeed, during the Northeast infection disaster, there were rumors of units that[r]
-had panicked in fear and ended up attacking each other, which the media[r]
-criticized as a waste of taxpayers' money.[pcms]
+Indeed, during the Northeast infection disaster, there were[r]
+rumors of units that had panicked in fear and ended up[r]
+attacking each other, which the media criticized as a waste[r]
+of taxpayers' money.[pcms]
 
 *5158|
 [fc]
-The only ones who didn't do that were the national broadcasters, like my[r]
-father's D.H.K.[pcms]
+The only ones who didn't do that were the national[r]
+broadcasters, like my father's D.H.K.[pcms]
 
 *5159|
 [fc]
-I was about to blame the Self-Defense Forces for my mother not coming back, but[r]
-it seemed like my father had said, "We shouldn't do that..."[pcms]
+I was about to blame the Self-Defense Forces for my mother[r]
+not coming back, but it seemed like my father had said, "We[r]
+shouldn't do that..."[pcms]
 
 *5160|
 [fc]
@@ -1029,13 +1086,13 @@ Oh, by the way...[pcms]
 
 *5162|
 [fc]
-That person... He seems to be the senior's bodyguard, but I wonder if he's at[r]
-the embassy too.[pcms]
+That person... He seems to be the senior's bodyguard, but I[r]
+wonder if he's at the embassy too.[pcms]
 
 *5163|
 [fc]
-He was very concerned about the senior, and with the situation being what it is,[r]
-his worry must be immeasurable.[pcms]
+He was very concerned about the senior, and with the[r]
+situation being what it is, his worry must be immeasurable.[pcms]
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1050,16 +1107,17 @@ his worry must be immeasurable.[pcms]
 [fc]
 [vo_mar s="maru0673"]
 [ns]Margarita[nse]
-"For now, we know that this abnormal situation is apparently only in the central[r]
-part of Tokyo."[pcms]
+"For now, we know that this abnormal situation is apparently[r]
+only in the central part of Tokyo."[pcms]
 
 *5165|
 [fc]
 [vo_mar s="maru0674"]
 [ns]Margarita[nse]
-"There's information about it being all over Japan, but that's uncertain news[r]
-from foreign media. More credible is the information close at hand. If we escape[r]
-from Tokyo, there's a high chance of survival."[pcms]
+"There's information about it being all over Japan, but[r]
+that's uncertain news from foreign media. More credible is[r]
+the information close at hand. If we escape from Tokyo,[r]
+there's a high chance of survival."[pcms]
 
 *5166|
 [fc]
@@ -1079,16 +1137,16 @@ from Tokyo, there's a high chance of survival."[pcms]
 [fc]
 [vo_mar s="maru0675"]
 [ns]Margarita[nse]
-"There's no need if the situation settles down, but it's good to be prepared for[r]
-that possibility."[pcms]
+"There's no need if the situation settles down, but it's[r]
+good to be prepared for that possibility."[pcms]
 
 *5169|
 [fc]
 [vo_mar s="maru0676"]
 [ns]Margarita[nse]
-"It will be tough to leave without searching for your loved ones, but if you[r]
-lose your life, it's all for naught. Surely they would be saddened to know[r]
-that."[pcms]
+"It will be tough to leave without searching for your loved[r]
+ones, but if you lose your life, it's all for naught. Surely[r]
+they would be saddened to know that."[pcms]
 
 *5170|
 [fc]
@@ -1097,16 +1155,16 @@ that."[pcms]
 
 *5171|
 [fc]
-To think that a day might come when we have to abandon our city, our home, and[r]
-flee...[pcms]
+To think that a day might come when we have to abandon our[r]
+city, our home, and flee...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5172|
 [fc]
 [ns]Kousuke[nse]
-"Come to think of it, I haven't received any emails from Tadahiko and Inori-san[r]
-either... Are they okay...?"[pcms]
+"Come to think of it, I haven't received any emails from[r]
+Tadahiko and Inori-san either... Are they okay...?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1129,8 +1187,9 @@ I realized I hadn't received any emails on my phone either.[pcms]
 *5176|
 [fc]
 [ns]Kousuke[nse]
-"While Tadahiko might not understand how to use a cell phone, it's strange not[r]
-to get an email from Inori-san at a time like this..."[pcms]
+"While Tadahiko might not understand how to use a cell[r]
+phone, it's strange not to get an email from Inori-san at a[r]
+time like this..."[pcms]
 
 *5177|
 [fc]
@@ -1142,8 +1201,9 @@ to get an email from Inori-san at a time like this..."[pcms]
 *5178|
 [fc]
 [ns]Kousuke[nse]
-"Well, Tadahiko is tough enough to not die even if you kill him, so he should be[r]
-fine. If he's there, Inori-san will be safe too."[pcms]
+"Well, Tadahiko is tough enough to not die even if you kill[r]
+him, so he should be fine. If he's there, Inori-san will be[r]
+safe too."[pcms]
 
 *5179|
 [fc]
@@ -1152,7 +1212,8 @@ fine. If he's there, Inori-san will be safe too."[pcms]
 
 *5180|
 [fc]
-I nodded at Kousuke's words while thinking about the two of them.[pcms]
+I nodded at Kousuke's words while thinking about the two of[r]
+them.[pcms]
 
 ;//--------------------------------------------------------------------
 ;//条件分岐
@@ -1189,7 +1250,8 @@ I nodded at Kousuke's words while thinking about the two of them.[pcms]
 
 *5181|
 [fc]
-Inori-san must be safe... Tadahiko must be protecting her with his life.[pcms]
+Inori-san must be safe... Tadahiko must be protecting her[r]
+with his life.[pcms]
 
 *5182|
 [fc]
@@ -1197,7 +1259,8 @@ So...[pcms]
 
 *5183|
 [fc]
-It's too optimistic, but I really want my first love to be safe.[pcms]
+It's too optimistic, but I really want my first love to be[r]
+safe.[pcms]
 
 ;//以降　緒織とＳＥＸ off へ
 
@@ -1208,17 +1271,19 @@ It's too optimistic, but I really want my first love to be safe.[pcms]
 
 *5184|
 [fc]
-Email reception is unstable; you never know when they'll come through.[pcms]
+Email reception is unstable; you never know when they'll[r]
+come through.[pcms]
 
 *5185|
 [fc]
-I tried to convince myself that Inori-san must have sent an email letting us[r]
-know she's safe, and it just hasn't been received yet.[pcms]
+I tried to convince myself that Inori-san must have sent an[r]
+email letting us know she's safe, and it just hasn't been[r]
+received yet.[pcms]
 
 *5186|
 [fc]
-I pushed away the terrifying thought that by the time it arrives, the situation[r]
-may have already changed...[pcms]
+I pushed away the terrifying thought that by the time it[r]
+arrives, the situation may have already changed...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1226,8 +1291,9 @@ may have already changed...[pcms]
 [fc]
 [vo_mar s="maru0677"]
 [ns]Margarita[nse]
-"For now, there are no broadcasts on radio or TV, and the internet isn't[r]
-connecting. It seems like cell phones have also stopped sending and receiving."[pcms]
+"For now, there are no broadcasts on radio or TV, and the[r]
+internet isn't connecting. It seems like cell phones have[r]
+also stopped sending and receiving."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1235,28 +1301,31 @@ connecting. It seems like cell phones have also stopped sending and receiving."[
 [fc]
 [vo_mar s="maru0678"]
 [ns]Margarita[nse]
-"We can't make a move until more information comes in. Until we get some[r]
-reliable information, let's rest our bodies a bit more."[pcms]
+"We can't make a move until more information comes in. Until[r]
+we get some reliable information, let's rest our bodies a[r]
+bit more."[pcms]
 
 *5189|
 [fc]
 [vo_mar s="maru0679"]
 [ns]Margarita[nse]
-"We can stay here for another half day without problems. If there's no progress[r]
-by then, we'll have to escape Tokyo without any information... Hopefully this[r]
-door will open by then..."[pcms]
+"We can stay here for another half day without problems. If[r]
+there's no progress by then, we'll have to escape Tokyo[r]
+without any information... Hopefully this door will open by[r]
+then..."[pcms]
 
 *5190|
 [fc]
-Our resentful gazes naturally gathered on the door that wouldn't open.[pcms]
+Our resentful gazes naturally gathered on the door that[r]
+wouldn't open.[pcms]
 
 *5191|
 [fc]
 [vo_mar s="maru0680"]
 [ns]Margarita[nse]
-"For now, let's make sure we're ready to move at full strength at any moment by[r]
-keeping our physical condition and attire in top shape while we wait for the[r]
-opportunity."[pcms]
+"For now, let's make sure we're ready to move at full[r]
+strength at any moment by keeping our physical condition and[r]
+attire in top shape while we wait for the opportunity."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1268,8 +1337,8 @@ opportunity."[pcms]
 
 *5193|
 [fc]
-Before we could respond, Ren quickly replied as if it were her own[r]
-responsibility.[pcms]
+Before we could respond, Ren quickly replied as if it were[r]
+her own responsibility.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

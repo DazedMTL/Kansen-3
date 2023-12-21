@@ -43,23 +43,24 @@ Shaken by someone, I slowly opened my eyes.[pcms]
 
 *507|
 [fc]
-Senior... no, Maruko-senpai, illuminated by the dim light of the lantern, was[r]
-peering into my face.[pcms]
+Senior... no, Maruko-senpai, illuminated by the dim light of[r]
+the lantern, was peering into my face.[pcms]
 
 *508|
 [fc]
-...After that, we decided to take turns standing guard and each of us took a[r]
-break.[pcms]
+...After that, we decided to take turns standing guard and[r]
+each of us took a break.[pcms]
 
 *509|
 [fc]
-I didn't think I could sleep under such tension, but as I lay beside Ren[r]
-thinking about various things, it seems I fell asleep after all.[pcms]
+I didn't think I could sleep under such tension, but as I[r]
+lay beside Ren thinking about various things, it seems I[r]
+fell asleep after all.[pcms]
 
 *510|
 [fc]
-Looking at the clock, about three hours had passed since Maruko-senpai first[r]
-stood guard.[pcms]
+Looking at the clock, about three hours had passed since[r]
+Maruko-senpai first stood guard.[pcms]
 
 ;//●以下小声で会話
 
@@ -69,14 +70,15 @@ stood guard.[pcms]
 [fc]
 [vo_mar s="maru0958"]
 [ns]Margarita[nse]
-"While I was on watch, I borrowed Kannagi's cell phone and tried it out."[pcms]
+"While I was on watch, I borrowed Kannagi's cell phone and[r]
+tried it out."[pcms]
 
 *512|
 [fc]
 [vo_mar s="maru0959"]
 [ns]Margarita[nse]
-"Calls are still difficult, but it seems that emails and the internet are now[r]
-connected."[pcms]
+"Calls are still difficult, but it seems that emails and the[r]
+internet are now connected."[pcms]
 
 *513|
 [fc]
@@ -93,14 +95,15 @@ connected."[pcms]
 
 *515|
 [fc]
-I asked eagerly, but Maruko-senpai's expression remained clouded.[pcms]
+I asked eagerly, but Maruko-senpai's expression remained[r]
+clouded.[pcms]
 
 *516|
 [fc]
 [vo_mar s="maru0961"]
 [ns]Margarita[nse]
-"Well, a little. The situation is such that the information itself seems to be[r]
-confused..."[pcms]
+"Well, a little. The situation is such that the information[r]
+itself seems to be confused..."[pcms]
 
 *517|
 [fc]
@@ -108,14 +111,16 @@ Senpai explained briefly.[pcms]
 
 *518|
 [fc]
-The bulletin boards were full of pleas for rescue, and the news content was just[r]
-short, hearsay-style reports of their attacks.[pcms]
+The bulletin boards were full of pleas for rescue, and the[r]
+news content was just short, hearsay-style reports of their[r]
+attacks.[pcms]
 
 *519|
 [fc]
 [vo_mar s="maru0962"]
 [ns]Margarita[nse]
-"However, it seems certain that the upper levels are full of 'them'."[pcms]
+"However, it seems certain that the upper levels are full of[r]
+'them'."[pcms]
 
 *520|
 [fc]
@@ -128,8 +133,8 @@ short, hearsay-style reports of their attacks.[pcms]
 [fc]
 [vo_mar s="maru0963"]
 [ns]Margarita[nse]
-"That's right. I'll take a rest in preparation for what's to come. I'm counting[r]
-on you for the watch."[pcms]
+"That's right. I'll take a rest in preparation for what's to[r]
+come. I'm counting on you for the watch."[pcms]
 
 *522|
 [fc]
@@ -138,8 +143,8 @@ on you for the watch."[pcms]
 
 *523|
 [fc]
-Senpai responded with a light raise of her hand to my words, then started to[r]
-walk away but suddenly stopped again.[pcms]
+Senpai responded with a light raise of her hand to my words,[r]
+then started to walk away but suddenly stopped again.[pcms]
 
 [bgm storage="BGM14"]
 
@@ -158,7 +163,8 @@ walk away but suddenly stopped again.[pcms]
 
 *526|
 [fc]
-...I was surprised. Senpai suddenly brought her face close to mine.[pcms]
+...I was surprised. Senpai suddenly brought her face close[r]
+to mine.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -175,20 +181,23 @@ walk away but suddenly stopped again.[pcms]
 
 *529|
 [fc]
-With an unusually soft smile, senpai continued in a low voice.[pcms]
+With an unusually soft smile, senpai continued in a low[r]
+voice.[pcms]
 
 *530|
 [fc]
 [vo_mar s="maru0966"]
 [ns]Margarita[nse]
-"Let me be honest. I thought you were a more fragile man. But..."[pcms]
+"Let me be honest. I thought you were a more fragile man.[r]
+But..."[pcms]
 
 *531|
 [fc]
 [vo_mar s="maru0967"]
 [ns]Margarita[nse]
-"You went to help Ren and Kannagi without regard for your own life in that[r]
-situation where even your life was in danger..."[pcms]
+"You went to help Ren and Kannagi without regard for your[r]
+own life in that situation where even your life was in[r]
+danger..."[pcms]
 
 *532|
 [fc]
@@ -216,8 +225,9 @@ Senpai continued without breaking her smile at my words.[pcms]
 [fc]
 [vo_mar s="maru0968"]
 [ns]Margarita[nse]
-"Moreover, since coming here, you've been taking care of Ren and encouraging[r]
-everyone... You've been a really good brother and friend."[pcms]
+"Moreover, since coming here, you've been taking care of Ren[r]
+and encouraging everyone... You've been a really good[r]
+brother and friend."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -225,15 +235,15 @@ everyone... You've been a really good brother and friend."[pcms]
 [fc]
 [vo_mar s="maru0969"]
 [ns]Margarita[nse]
-"Even though you must be overwhelmed yourself, the way you care for others[r]
-is..."[pcms]
+"Even though you must be overwhelmed yourself, the way you[r]
+care for others is..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *539|
 [fc]
-Gazing off into the distance for a moment as if searching for words... Senpai[r]
-suddenly smiled again.[pcms]
+Gazing off into the distance for a moment as if searching[r]
+for words... Senpai suddenly smiled again.[pcms]
 
 *540|
 [fc]
@@ -252,8 +262,9 @@ Eh...? Impressive...? Me?[pcms]
 
 *543|
 [fc]
-I'm glad this room is dimly lit... If the lighting had been stronger, my ears[r]
-would have surely given away how red they've become...[pcms]
+I'm glad this room is dimly lit... If the lighting had been[r]
+stronger, my ears would have surely given away how red[r]
+they've become...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -261,7 +272,8 @@ would have surely given away how red they've become...[pcms]
 [fc]
 [vo_mar s="maru0971"]
 [ns]Margarita[nse]
-"I'll be relying on you from now on. Let's work well together again."[pcms]
+"I'll be relying on you from now on. Let's work well[r]
+together again."[pcms]
 
 *545|
 [fc]
@@ -280,8 +292,8 @@ I instinctively grasped senpai's hand.[pcms]
 
 *548|
 [fc]
-Senpai squeezed back lightly in the handshake and then said 'see ya' as she[r]
-returned to her own bed.[pcms]
+Senpai squeezed back lightly in the handshake and then said[r]
+'see ya' as she returned to her own bed.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -292,17 +304,19 @@ returned to her own bed.[pcms]
 
 *550|
 [fc]
-Maruko-senpai is relying on me...? The reliable senpai who seems like she can do[r]
-anything by herself...?[pcms]
+Maruko-senpai is relying on me...? The reliable senpai who[r]
+seems like she can do anything by herself...?[pcms]
 
 *551|
 [fc]
-I tighten my cheeks that are about to relax with a 'no no...'.[pcms]
+I tighten my cheeks that are about to relax with a 'no[r]
+no...'.[pcms]
 
 *552|
 [fc]
-This is no time to be happy. It just means that the situation is serious. That[r]
-even my strength is being counted on...[pcms]
+This is no time to be happy. It just means that the[r]
+situation is serious. That even my strength is being counted[r]
+on...[pcms]
 
 *553|
 [fc]
@@ -311,7 +325,8 @@ even my strength is being counted on...[pcms]
 
 *554|
 [fc]
-Once again, I psyched myself up and was about to get up to go on watch.[pcms]
+Once again, I psyched myself up and was about to get up to[r]
+go on watch.[pcms]
 
 *555|
 [fc]
@@ -340,8 +355,8 @@ But... Suddenly, my sleeve was pulled.[pcms]
 
 *558|
 [fc]
-Ren, who I thought was asleep, was looking at me with a smile, having woken up[r]
-at some point.[pcms]
+Ren, who I thought was asleep, was looking at me with a[r]
+smile, having woken up at some point.[pcms]
 
 *559|
 [fc]
@@ -356,7 +371,8 @@ at some point.[pcms]
 
 *561|
 [fc]
-She giggled softly, perhaps being considerate of the surroundings.[pcms]
+She giggled softly, perhaps being considerate of the[r]
+surroundings.[pcms]
 
 *562|
 [fc]
@@ -379,9 +395,9 @@ Ren gently took my hand as I turned away in embarrassment.[pcms]
 [fc]
 [vo_ren s="ren0870"]
 [ns]Ren[nse]
-"You know... when I barricaded myself in the audio-visual room, I believed that[r]
-big brother would definitely come to save me. And then... you really did[r]
-come..."[pcms]
+"You know... when I barricaded myself in the audio-visual[r]
+room, I believed that big brother would definitely come to[r]
+save me. And then... you really did come..."[pcms]
 
 [evcg storage="EV010d"][trans_c cross time=300]
 
@@ -398,30 +414,33 @@ come..."[pcms]
 
 *568|
 [fc]
-Of course, I would. After all, we are the only two siblings we have.[pcms]
+Of course, I would. After all, we are the only two siblings[r]
+we have.[pcms]
 
 *569|
 [fc]
-I thought about saying that, but it felt too embarrassing to say out loud, so I[r]
-stopped myself.[pcms]
+I thought about saying that, but it felt too embarrassing to[r]
+say out loud, so I stopped myself.[pcms]
 
 *570|
 [fc]
 [ns]Wataru[nse]
-"...More importantly, you need to rest properly. You still have a fever..."[pcms]
+"...More importantly, you need to rest properly. You still[r]
+have a fever..."[pcms]
 
 [evcg storage="EV010c"][trans_c cross time=300]
 
 *571|
 [fc]
-When I brought my face close and touched foreheads with her, I could feel her[r]
-faint warmth.[pcms]
+When I brought my face close and touched foreheads with her,[r]
+I could feel her faint warmth.[pcms]
 
 *572|
 [fc]
 [ns]Wataru[nse]
-"...See, you're still a bit warm. We're going to face even tougher times ahead,[r]
-so you need to recover your strength, okay?"[pcms]
+"...See, you're still a bit warm. We're going to face even[r]
+tougher times ahead, so you need to recover your strength,[r]
+okay?"[pcms]
 
 [evcg storage="EV010d"][trans_c cross time=300]
 
@@ -433,7 +452,8 @@ so you need to recover your strength, okay?"[pcms]
 
 *574|
 [fc]
-Ren obediently replied and lay down with a shy smile on her face.[pcms]
+Ren obediently replied and lay down with a shy smile on her[r]
+face.[pcms]
 
 *575|
 [fc]
@@ -458,8 +478,9 @@ Gently stroking her feverish forehead, I slowly got up.[pcms]
 
 *577|
 [fc]
-The spot I decided on for keeping watch was near the stairs against the wall.[r]
-From here, I could oversee the entire room and keep an eye on the door.[pcms]
+The spot I decided on for keeping watch was near the stairs[r]
+against the wall. From here, I could oversee the entire room[r]
+and keep an eye on the door.[pcms]
 
 *578|
 [fc]
@@ -467,12 +488,13 @@ I sat down leaning against the wall.[pcms]
 
 *579|
 [fc]
-At my feet were mine and Kousuke's cell phones, along with Yuuho's, all laid[r]
-out.[pcms]
+At my feet were mine and Kousuke's cell phones, along with[r]
+Yuuho's, all laid out.[pcms]
 
 *580|
 [fc]
-All of them barely had signal and seemed to be receiving emails.[pcms]
+All of them barely had signal and seemed to be receiving[r]
+emails.[pcms]
 
 *581|
 [fc]
@@ -480,8 +502,9 @@ I hope there's some good news...[pcms]
 
 *582|
 [fc]
-While cautioning myself not to get my hopes up too much, I picked up my cell[r]
-phone and opened the email screen. And then...[pcms]
+While cautioning myself not to get my hopes up too much, I[r]
+picked up my cell phone and opened the email screen. And[r]
+then...[pcms]
 
 *583|
 [fc]
@@ -511,8 +534,8 @@ I hurried back to the sleeping area.[pcms]
 
 *587|
 [fc]
-Ren had just fallen asleep and opened her eyes slightly, looking at me with a[r]
-dazed expression...[pcms]
+Ren had just fallen asleep and opened her eyes slightly,[r]
+looking at me with a dazed expression...[pcms]
 
 *588|
 [fc]
@@ -530,7 +553,8 @@ dazed expression...[pcms]
 
 *590|
 [fc]
-With that one word, she sprang up and clung to my cell phone.[pcms]
+With that one word, she sprang up and clung to my cell[r]
+phone.[pcms]
 
 ;//@konya ev025 地下道(BG扱い)
 [evcg storage="EV025b"][trans_c cross time=300]
@@ -555,8 +579,8 @@ The creatures are multiplying rapidly.[pcms]
 
 *595|
 [fc]
-The government has evacuated the city center. The military and police are at[r]
-their limits.[pcms]
+The government has evacuated the city center. The military[r]
+and police are at their limits.[pcms]
 
 *596|
 [fc]
@@ -584,7 +608,8 @@ Tears began to well up in Ren's eyes as she read.[pcms]
 [fc]
 [vo_ren s="ren0876"]
 [ns]Ren[nse]
-"Fueee...sniff... thank goodness... sniff... thank goodness... Dad's still..."[pcms]
+"Fueee...sniff... thank goodness... sniff... thank[r]
+goodness... Dad's still..."[pcms]
 
 *601|
 [fc]
@@ -593,8 +618,8 @@ Tears began to well up in Ren's eyes as she read.[pcms]
 
 *602|
 [fc]
-I was about to say 'alive', but hesitated because of the ominousness of those[r]
-words.[pcms]
+I was about to say 'alive', but hesitated because of the[r]
+ominousness of those words.[pcms]
 
 *603|
 [fc]
@@ -618,7 +643,8 @@ Gently stroking Ren's back as she cries silently.[pcms]
 *606|
 [fc]
 [ns]Wataru[nse]
-"To Dad... um... We've taken refuge in the school's basement for now..."[pcms]
+"To Dad... um... We've taken refuge in the school's basement[r]
+for now..."[pcms]
 
 *607|
 [fc]
@@ -644,7 +670,8 @@ I smile at Ren, who looks puzzled for a moment.[pcms]
 *611|
 [fc]
 [ns]Wataru[nse]
-"Let's show Dad our healthy faces. It'll surely reassure him, right?"[pcms]
+"Let's show Dad our healthy faces. It'll surely reassure[r]
+him, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -667,18 +694,20 @@ I smile at Ren, who looks puzzled for a moment.[pcms]
 
 *615|
 [fc]
-Finally smiling, Ren shyly wipes away the traces of her tears.[pcms]
+Finally smiling, Ren shyly wipes away the traces of her[r]
+tears.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *616|
 [fc]
-Ren and I huddle close together to fit in the frame and take the shot.[pcms]
+Ren and I huddle close together to fit in the frame and take[r]
+the shot.[pcms]
 
 *617|
 [fc]
-The attachment made the email quite heavy, but it looks like it can still be[r]
-sent.[pcms]
+The attachment made the email quite heavy, but it looks like[r]
+it can still be sent.[pcms]
 
 *618|
 [fc]
@@ -695,8 +724,8 @@ sent.[pcms]
 
 *620|
 [fc]
-Without saying anything, our feelings are understood. We look at each other and[r]
-quietly share our joy.[pcms]
+Without saying anything, our feelings are understood. We[r]
+look at each other and quietly share our joy.[pcms]
 
 ;//メール着信音
 [se buf=0 storage="se002"]
@@ -724,18 +753,19 @@ We both eagerly peer at the screen.[pcms]
 
 *624|
 [fc]
-Wataru, Ren, I'm glad you're both safe. Dad is safe too. The phones are still[r]
-restricted, but I want to hear your voices soon.[pcms]
+Wataru, Ren, I'm glad you're both safe. Dad is safe too. The[r]
+phones are still restricted, but I want to hear your voices[r]
+soon.[pcms]
 
 *625|
 [fc]
-At the heliport, I'm exchanging information with colleagues. A large shelter has[r]
-been set up in Kingdom.[pcms]
+At the heliport, I'm exchanging information with colleagues.[r]
+A large shelter has been set up in Kingdom.[pcms]
 
 *626|
 [fc]
-As soon as the helicopters can fly, I'll come to rescue you, so until then,[r]
-please work together and stay strong.[pcms]
+As soon as the helicopters can fly, I'll come to rescue you,[r]
+so until then, please work together and stay strong.[pcms]
 
 ;//ケータイメール　ここまで
 
@@ -749,7 +779,8 @@ please work together and stay strong.[pcms]
 
 *628|
 [fc]
-Holding the phone tenderly in her hands, Ren's eyes begin to moisten again.[pcms]
+Holding the phone tenderly in her hands, Ren's eyes begin to[r]
+moisten again.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -757,7 +788,8 @@ Holding the phone tenderly in her hands, Ren's eyes begin to moisten again.[pcms
 [fc]
 [vo_ren s="ren0884"]
 [ns]Ren[nse]
-"Let's do our best together, big brother. Dad will come to rescue us."[pcms]
+"Let's do our best together, big brother. Dad will come to[r]
+rescue us."[pcms]
 
 *630|
 [fc]
@@ -774,8 +806,8 @@ Holding the phone tenderly in her hands, Ren's eyes begin to moisten again.[pcms
 
 *632|
 [fc]
-I had woken her up because I wanted to tell her about Dad's safety, but Ren[r]
-still needs her rest.[pcms]
+I had woken her up because I wanted to tell her about Dad's[r]
+safety, but Ren still needs her rest.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -789,8 +821,8 @@ still needs her rest.[pcms]
 
 *634|
 [fc]
-But looking at Ren's face, now fully at peace, I feel it was right to wake her[r]
-up and tell her.[pcms]
+But looking at Ren's face, now fully at peace, I feel it was[r]
+right to wake her up and tell her.[pcms]
 
 *635|
 [fc]
@@ -800,8 +832,8 @@ up and tell her.[pcms]
 
 *636|
 [fc]
-Perhaps feeling reassured, Ren quickly starts to breathe softly in her sleep[r]
-while I watch over her.[pcms]
+Perhaps feeling reassured, Ren quickly starts to breathe[r]
+softly in her sleep while I watch over her.[pcms]
 
 ;//●小声トーク終了
 

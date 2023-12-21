@@ -31,11 +31,13 @@ Yuuho remained motionless, staring at the door.[pcms]
 
 *58|
 [fc]
-Her profile was so tense it seemed as if she was holding back a scream.[pcms]
+Her profile was so tense it seemed as if she was holding[r]
+back a scream.[pcms]
 
 *59|
 [fc]
-I walked up to Yuuho, dragging Ren who was clinging to me with all her might.[pcms]
+I walked up to Yuuho, dragging Ren who was clinging to me[r]
+with all her might.[pcms]
 
 *60|
 [fc]
@@ -52,8 +54,9 @@ I walked up to Yuuho, dragging Ren who was clinging to me with all her might.[pc
 
 *62|
 [fc]
-Although I tried not to startle her, Yuuho let out a strained voice as if it was[r]
-torn from the back of her throat.[pcms]
+Although I tried not to startle her, Yuuho let out a[r]
+strained voice as if it was torn from the back of her[r]
+throat.[pcms]
 
 *63|
 [fc]
@@ -79,7 +82,8 @@ Yuuho turned around and gave an awkward smile.[pcms]
 
 *67|
 [fc]
-I gently placed my hand on her shoulder while making eye contact.[pcms]
+I gently placed my hand on her shoulder while making eye[r]
+contact.[pcms]
 
 *68|
 [fc]
@@ -93,12 +97,13 @@ Then, Yuuho's small hand was placed on top of mine.[pcms]
 
 *70|
 [fc]
-Although she was tense, Yuuho managed to muster something like a smile and gazed[r]
-back at me.[pcms]
+Although she was tense, Yuuho managed to muster something[r]
+like a smile and gazed back at me.[pcms]
 
 *71|
 [fc]
-But her words seemed more like she was reassuring herself than answering me.[pcms]
+But her words seemed more like she was reassuring herself[r]
+than answering me.[pcms]
 
 
 ;mm ユウホポイント入って無いけどいいのかな

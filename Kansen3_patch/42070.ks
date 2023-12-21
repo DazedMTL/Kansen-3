@@ -66,7 +66,8 @@ The senior behind me patted my shoulder.[pcms]
 [fc]
 [vo_mar s="maru0738"]
 [ns]Margarita[nse]
-"Don't worry. They're both sleeping soundly... Don't wake them now."[pcms]
+"Don't worry. They're both sleeping soundly... Don't wake[r]
+them now."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -78,16 +79,19 @@ The senior behind me patted my shoulder.[pcms]
 
 *5344|
 [fc]
-It seemed Kousuke reacted to my voice, moving his body slightly as if disturbed[r]
-in his sleep, then once again began to breathe quietly.[pcms]
+It seemed Kousuke reacted to my voice, moving his body[r]
+slightly as if disturbed in his sleep, then once again began[r]
+to breathe quietly.[pcms]
 
 *5345|
 [fc]
-In the light of the lantern, the two of them seemed to be sleeping well.[pcms]
+In the light of the lantern, the two of them seemed to be[r]
+sleeping well.[pcms]
 
 *5346|
 [fc]
-Indeed, they must both be tired, so I wanted to let them rest slowly.[pcms]
+Indeed, they must both be tired, so I wanted to let them[r]
+rest slowly.[pcms]
 
 *5347|
 [fc]
@@ -101,8 +105,8 @@ It was Ren's sleep-talking.[pcms]
 
 *5349|
 [fc]
-I wonder what kind of dream she's having? At least it doesn't seem like a[r]
-nightmare, thank goodness.[pcms]
+I wonder what kind of dream she's having? At least it[r]
+doesn't seem like a nightmare, thank goodness.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -122,14 +126,16 @@ nightmare, thank goodness.[pcms]
 
 *5352|
 [fc]
-I was embarrassed and used that as an excuse to look away from the senior.[pcms]
+I was embarrassed and used that as an excuse to look away[r]
+from the senior.[pcms]
 
 ;//se021ÅEågë—ìdòbÇäJÇØÇÈâπ
 [se buf=0 storage="se021"]
 
 *5353|
 [fc]
-But when I took out my cell phone, there was an email notification.[pcms]
+But when I took out my cell phone, there was an email[r]
+notification.[pcms]
 
 *5354|
 [fc]
@@ -150,8 +156,8 @@ I raised my voice unintentionally and opened the email.[pcms]
 
 *5357|
 [fc]
-The senior was trying to keep her voice down, but she couldn't hide her surprise[r]
-as she peeked at my cell phone.[pcms]
+The senior was trying to keep her voice down, but she[r]
+couldn't hide her surprise as she peeked at my cell phone.[pcms]
 
 *5358|
 [fc]
@@ -175,33 +181,37 @@ Were you in the underground passage? I know it well.[pcms]
 
 *5361|
 [fc]
-It's not being used now, but it might be useful for emergency escape, and it has[r]
-been discussed several times within the department.[pcms]
+It's not being used now, but it might be useful for[r]
+emergency escape, and it has been discussed several times[r]
+within the department.[pcms]
 
 *5362|
 [fc]
-I know the place, so I want to go pick you up right now. But it's impossible at[r]
-the moment. Please understand.[pcms]
+I know the place, so I want to go pick you up right now. But[r]
+it's impossible at the moment. Please understand.[pcms]
 
 *5363|
 [fc]
-The crazed ones have even infiltrated inside the center, and we're barely[r]
-managing to secure a safe place right now.[pcms]
+The crazed ones have even infiltrated inside the center, and[r]
+we're barely managing to secure a safe place right now.[pcms]
 
 *5364|
 [fc]
-The crazed ones seem to have lost their reason and all have incredible brute[r]
-strength. No matter how many barricades we build, it's hard to hold them off.[pcms]
+The crazed ones seem to have lost their reason and all have[r]
+incredible brute strength. No matter how many barricades we[r]
+build, it's hard to hold them off.[pcms]
 
 *5365|
 [fc]
-If it continues like this, even if we manage to rescue you, we won't be able to[r]
-provide a safe place. Please wait until our safety is secured. Once it is, I[r]
-will gather comrades and definitely come to pick you up.[pcms]
+If it continues like this, even if we manage to rescue you,[r]
+we won't be able to provide a safe place. Please wait until[r]
+our safety is secured. Once it is, I will gather comrades[r]
+and definitely come to pick you up.[pcms]
 
 *5366|
 [fc]
-Please wait until then. I'm praying for your safety. Take care of Ren.[pcms]
+Please wait until then. I'm praying for your safety. Take[r]
+care of Ren.[pcms]
 
 ;//ÉÅÅ[ÉãââèoèIÇÌÇË
 
@@ -220,12 +230,13 @@ Please wait until then. I'm praying for your safety. Take care of Ren.[pcms]
 
 *5369|
 [fc]
-The senior's face turned pale. Surely my face is no different.[pcms]
+The senior's face turned pale. Surely my face is no[r]
+different.[pcms]
 
 *5370|
 [fc]
-Even though I managed to tell Dad where we are, he's up there fighting with[r]
-those crazed people...[pcms]
+Even though I managed to tell Dad where we are, he's up[r]
+there fighting with those crazed people...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -233,7 +244,8 @@ those crazed people...[pcms]
 [fc]
 [vo_mar s="maru0742"]
 [ns]Margarita[nse]
-"Now we can't be optimistic about just getting this door open..."[pcms]
+"Now we can't be optimistic about just getting this door[r]
+open..."[pcms]
 
 *5372|
 [fc]
@@ -242,8 +254,9 @@ those crazed people...[pcms]
 
 *5373|
 [fc]
-I felt a chill run down my spine as if ice had been placed on my back. An[r]
-unpleasant sweat started dripping from my forehead.[pcms]
+I felt a chill run down my spine as if ice had been placed[r]
+on my back. An unpleasant sweat started dripping from my[r]
+forehead.[pcms]
 
 *5374|
 [fc]
@@ -252,7 +265,8 @@ unpleasant sweat started dripping from my forehead.[pcms]
 
 *5375|
 [fc]
-I was at a loss and immediately sought advice from the senior.[pcms]
+I was at a loss and immediately sought advice from the[r]
+senior.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -275,7 +289,8 @@ I was at a loss and immediately sought advice from the senior.[pcms]
 
 *5379|
 [fc]
-After a while of silent contemplation, the senior opened her mouth.[pcms]
+After a while of silent contemplation, the senior opened her[r]
+mouth.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -306,7 +321,8 @@ After a while of silent contemplation, the senior opened her mouth.[pcms]
 
 *5384|
 [fc]
-At the senior's words, I reflexively looked around at the two of them.[pcms]
+At the senior's words, I reflexively looked around at the[r]
+two of them.[pcms]
 
 *5385|
 [fc]
@@ -322,8 +338,8 @@ At the senior's words, I reflexively looked around at the two of them.[pcms]
 
 *5387|
 [fc]
-The two of them are still not awake. While I think it might be better to wake[r]
-them up, I can't help but feel relieved.[pcms]
+The two of them are still not awake. While I think it might[r]
+be better to wake them up, I can't help but feel relieved.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -331,16 +347,16 @@ them up, I can't help but feel relieved.[pcms]
 [fc]
 [vo_mar s="maru0747"]
 [ns]Margarita[nse]
-"In this situation, it seems best to stay here for now. Anyway, if we go[r]
-anywhere now, we might run into them."[pcms]
+"In this situation, it seems best to stay here for now.[r]
+Anyway, if we go anywhere now, we might run into them."[pcms]
 
 *5389|
 [fc]
 [vo_mar s="maru0748"]
 [ns]Margarita[nse]
-"Here, we can confirm the safety of one side, and there are two escape routes.[r]
-Even if we encounter them before your father arrives, we have plenty of room to[r]
-escape."[pcms]
+"Here, we can confirm the safety of one side, and there are[r]
+two escape routes. Even if we encounter them before your[r]
+father arrives, we have plenty of room to escape."[pcms]
 
 ;//ì¶Ç∞ìπÇ‡ìÒÇ¬Ç†ÇÈ
 ;//êÊÇÕçsÇ´é~Ç‹ÇËÇ∆âFìcêÏÇ÷í Ç∂ÇÈí òHÇæÇØÇ»ÇÃÇ≈àÍÇ¬Ç≈ÇÕÅH
@@ -350,8 +366,9 @@ escape."[pcms]
 [fc]
 [vo_mar s="maru0749"]
 [ns]Margarita[nse]
-"This place can be considered relatively safe. So for now, let's believe that[r]
-your father will come to rescue us and wait here."[pcms]
+"This place can be considered relatively safe. So for now,[r]
+let's believe that your father will come to rescue us and[r]
+wait here."[pcms]
 
 *5391|
 [fc]
@@ -367,29 +384,31 @@ I look down as if dejected.[pcms]
 
 *5393|
 [fc]
-The light from the lantern illuminates the dim underground passage. On the[r]
-concrete, there is a sheet laid out so as not to chill our bodies.[pcms]
+The light from the lantern illuminates the dim underground[r]
+passage. On the concrete, there is a sheet laid out so as[r]
+not to chill our bodies.[pcms]
 
 *5394|
 [fc]
-"Senpai really knows what to do in times like these. She must have learned this[r]
-during the war, an extreme situation she probably doesn't even want to[r]
-remember."[pcms]
+"Senpai really knows what to do in times like these. She[r]
+must have learned this during the war, an extreme situation[r]
+she probably doesn't even want to remember."[pcms]
 
 *5395|
 [fc]
-"Unlike us, Senpai has wandered the thin line between life and death, and in the[r]
-midst of that, she lost her mother."[pcms]
+"Unlike us, Senpai has wandered the thin line between life[r]
+and death, and in the midst of that, she lost her mother."[pcms]
 
 *5396|
 [fc]
-"It might be a shameful thing to admit, but there's no way I can make better[r]
-judgments than Senpai."[pcms]
+"It might be a shameful thing to admit, but there's no way I[r]
+can make better judgments than Senpai."[pcms]
 
 *5397|
 [fc]
-"...No, in this peace-spoiled country, how many people would have the decision-[r]
-making skills of Senpai in such a situation?"[pcms]
+"...No, in this peace-spoiled country, how many people would[r]
+have the decision- making skills of Senpai in such a[r]
+situation?"[pcms]
 
 *5398|
 [fc]
@@ -405,17 +424,18 @@ making skills of Senpai in such a situation?"[pcms]
 
 *5400|
 [fc]
-"Senpai sits in front of the door, occasionally looking over her shoulder and[r]
-seeming to listen intently. She must be keeping watch for our safety even while[r]
-resting."[pcms]
+"Senpai sits in front of the door, occasionally looking over[r]
+her shoulder and seeming to listen intently. She must be[r]
+keeping watch for our safety even while resting."[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5401|
 [fc]
-"Indeed, as Senpai said, believing in Dad and waiting while observing the[r]
-situation here isn't bad. ...No, it's surely the best option."[pcms]
+"Indeed, as Senpai said, believing in Dad and waiting while[r]
+observing the situation here isn't bad. ...No, it's surely[r]
+the best option."[pcms]
 
 *5402|
 [fc]
@@ -435,7 +455,8 @@ situation here isn't bad. ...No, it's surely the best option."[pcms]
 
 *5404|
 [fc]
-Standing up and going over to Senpai, she gives me a curious look.[pcms]
+Standing up and going over to Senpai, she gives me a curious[r]
+look.[pcms]
 
 *5405|
 [fc]
@@ -453,7 +474,8 @@ Standing up and going over to Senpai, she gives me a curious look.[pcms]
 *5407|
 [fc]
 [ns]Wataru[nse]
-"No, my head is just too full... I don't think I can sleep at all..."[pcms]
+"No, my head is just too full... I don't think I can sleep[r]
+at all..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -466,7 +488,8 @@ Standing up and going over to Senpai, she gives me a curious look.[pcms]
 *5409|
 [fc]
 [ns]Wataru[nse]
-"If we think about efficiency, it's better if I keep watch, isn't it...?"[pcms]
+"If we think about efficiency, it's better if I keep watch,[r]
+isn't it...?"[pcms]
 
 *5410|
 [fc]
@@ -497,7 +520,8 @@ Standing up and going over to Senpai, she gives me a curious look.[pcms]
 
 *5414|
 [fc]
-As I respond, Senpai nods silently and then lies down a little away from me.[pcms]
+As I respond, Senpai nods silently and then lies down a[r]
+little away from me.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -511,11 +535,13 @@ As I respond, Senpai nods silently and then lies down a little away from me.[pcm
 
 *5416|
 [fc]
-After a while, I can hear Senpai's quiet breathing as she sleeps.[pcms]
+After a while, I can hear Senpai's quiet breathing as she[r]
+sleeps.[pcms]
 
 *5417|
 [fc]
-Even though I agreed to keep watch, it feels somewhat lonely now.[pcms]
+Even though I agreed to keep watch, it feels somewhat lonely[r]
+now.[pcms]
 
 ;//se022ÅEågë—ìdòbÇÃëÄçÏâπ
 [se buf=0 storage="se022"]
@@ -526,13 +552,14 @@ I try to forget the loneliness by sending an email to Dad.[pcms]
 
 *5419|
 [fc]
-"We are waiting here," I write, followed by "Do your best" and "Don't overdo[r]
-it."[pcms]
+"We are waiting here," I write, followed by "Do your best"[r]
+and "Don't overdo it."[pcms]
 
 *5420|
 [fc]
-This short email was sent much more smoothly than when I tried to inform Dad of[r]
-our location. It was incomparably smoother.[pcms]
+This short email was sent much more smoothly than when I[r]
+tried to inform Dad of our location. It was incomparably[r]
+smoother.[pcms]
 
 *5421|
 [fc]
@@ -540,24 +567,27 @@ our location. It was incomparably smoother.[pcms]
 
 *5422|
 [fc]
-Thinking this, I feel a chill down my spine as I consider another possibility.[pcms]
+Thinking this, I feel a chill down my spine as I consider[r]
+another possibility.[pcms]
 
 *5423|
 [fc]
-Could it be that there are fewer people able to use their phones because of the[r]
-congestion?[pcms]
+Could it be that there are fewer people able to use their[r]
+phones because of the congestion?[pcms]
 
 *5424|
 [fc]
-Could it be that the number of people who can't use their phones... the number[r]
-of people acting strangely has increased even more...?[pcms]
+Could it be that the number of people who can't use their[r]
+phones... the number of people acting strangely has[r]
+increased even more...?[pcms]
 
 ;//se022ÅEågë—ÇÃëÄçÏâπ
 [se buf=0 storage="se022"]
 
 *5425|
 [fc]
-I shake off the terrifying thought and try connecting my phone to the internet.[pcms]
+I shake off the terrifying thought and try connecting my[r]
+phone to the internet.[pcms]
 
 *5426|
 [fc]
@@ -590,27 +620,27 @@ I close my phone and continue to keep watch.[pcms]
 
 *5430|
 [fc]
-I inadvertently take out my phone to relieve the boredom of keeping watch,[r]
-intending to start a game like I always do.[pcms]
+I inadvertently take out my phone to relieve the boredom of[r]
+keeping watch, intending to start a game like I always do.[pcms]
 
 *5431|
 [fc]
-It's a game that requires an internet connection, so there's no way I can play[r]
-it in this situation.[pcms]
+It's a game that requires an internet connection, so there's[r]
+no way I can play it in this situation.[pcms]
 
 *5432|
 [fc]
-Even if I could, I shouldn't waste the battery in these circumstances. I need to[r]
-conserve power. There should still be some power left in the charger, but I[r]
-can't be careless.[pcms]
+Even if I could, I shouldn't waste the battery in these[r]
+circumstances. I need to conserve power. There should still[r]
+be some power left in the charger, but I can't be careless.[pcms]
 
 ;//se022ÅEågë—ÇÃëÄçÏâπ
 [se buf=0 storage="se022"]
 
 *5433|
 [fc]
-I realize now why the old guys find it annoying when I'm always fiddling with my[r]
-phone.[pcms]
+I realize now why the old guys find it annoying when I'm[r]
+always fiddling with my phone.[pcms]
 
 *5434|
 [fc]
@@ -619,20 +649,20 @@ phone.[pcms]
 *5435|
 [fc]
 [ns]Wataru[nse]
-While operating it, I found a snapshot of Yuuho that I took a long time ago with[r]
-my old cell phone in the memory.[pcms]
+While operating it, I found a snapshot of Yuuho that I took[r]
+a long time ago with my old cell phone in the memory.[pcms]
 
 ;//Å@âΩÇ©égÇ¶ÇªÇ§Ç»óIîøÇÃÇbÇfÇ™Ç†ÇÍÇŒ
 
 *5436|
 [fc]
-I involuntarily stop my hands. Yuuho in the photo is showing that favorite smile[r]
-of mine.[pcms]
+I involuntarily stop my hands. Yuuho in the photo is showing[r]
+that favorite smile of mine.[pcms]
 
 *5437|
 [fc]
-The phone switches to power-saving mode, and Yuuho's image disappears from the[r]
-screen.[pcms]
+The phone switches to power-saving mode, and Yuuho's image[r]
+disappears from the screen.[pcms]
 
 *5438|
 [fc]
@@ -640,7 +670,8 @@ But the image of Yuuho doesn't disappear from my mind.[pcms]
 
 *5439|
 [fc]
-Staring blankly at the lantern light, I find myself thinking about Yuuho.[pcms]
+Staring blankly at the lantern light, I find myself thinking[r]
+about Yuuho.[pcms]
 
 *5440|
 [fc]
@@ -649,12 +680,14 @@ Staring blankly at the lantern light, I find myself thinking about Yuuho.[pcms]
 *5441|
 [fc]
 [ns]Wataru[nse]
-I couldn't save Yuuho. I also never got to tell her that I've always liked her.[pcms]
+I couldn't save Yuuho. I also never got to tell her that[r]
+I've always liked her.[pcms]
 
 *5442|
 [fc]
-One after another, the frustrating feelings for Yuuho that I had almost[r]
-forgotten... no, that I had only suppressed, come flooding back.[pcms]
+One after another, the frustrating feelings for Yuuho that I[r]
+had almost forgotten... no, that I had only suppressed, come[r]
+flooding back.[pcms]
 
 *5443|
 [fc]
@@ -662,8 +695,8 @@ I wanted to see it again. Yuuho's smile...[pcms]
 
 *5444|
 [fc]
-Not just in a photo, but the real Yuuho, getting angry, crying, fooling around[r]
-with me...[pcms]
+Not just in a photo, but the real Yuuho, getting angry,[r]
+crying, fooling around with me...[pcms]
 
 *5445|
 [fc]

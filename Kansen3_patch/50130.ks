@@ -29,11 +29,13 @@
 *853|
 [fc]
 [ns]Wataru[nse]
-"But it's too risky to do something reckless. Let's turn back."[pcms]
+"But it's too risky to do something reckless. Let's turn[r]
+back."[pcms]
 
 *854|
 [fc]
-Just as I was about to urge everyone to turn back, Yuuho suddenly shouted.[pcms]
+Just as I was about to urge everyone to turn back, Yuuho[r]
+suddenly shouted.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -58,7 +60,8 @@ Just as I was about to urge everyone to turn back, Yuuho suddenly shouted.[pcms]
 
 *858|
 [fc]
-With an unexpectedly sly smile, Yuuho uttered words like a deity.[pcms]
+With an unexpectedly sly smile, Yuuho uttered words like a[r]
+deity.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 

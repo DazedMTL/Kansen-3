@@ -42,7 +42,8 @@ We fell silent, at a loss for what to do.[pcms]
 
 *835|
 [fc]
-Then, Ren approached me with quick, light steps and whispered in my ear.[pcms]
+Then, Ren approached me with quick, light steps and[r]
+whispered in my ear.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -63,7 +64,8 @@ Then, Ren approached me with quick, light steps and whispered in my ear.[pcms]
 [fc]
 [vo_ren s="ren1338"]
 [ns]Ren[nse]
-"You know, there's a more fitting way to handle this situation?"[pcms]
+"You know, there's a more fitting way to handle this[r]
+situation?"[pcms]
 
 *839|
 [fc]
@@ -71,8 +73,8 @@ The perfect method...?[pcms]
 
 *840|
 [fc]
-As I turned to look at her, wondering what she would say next, Ren smiled[r]
-sweetly.[pcms]
+As I turned to look at her, wondering what she would say[r]
+next, Ren smiled sweetly.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 

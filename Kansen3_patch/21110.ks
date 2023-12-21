@@ -24,22 +24,26 @@
 
 *586|
 [fc]
-While hesitating, the infected swarmed in, and we ended up rolling under the[r]
-floor without being able to close the hatch.[pcms]
+While hesitating, the infected swarmed in, and we ended up[r]
+rolling under the floor without being able to close the[r]
+hatch.[pcms]
 
 *587|
 [fc]
-Crouching down, we proceeded through the dark, low-ceilinged space under the[r]
-floor. The light from outside shining through the vents was dazzling.[pcms]
+Crouching down, we proceeded through the dark, low-ceilinged[r]
+space under the floor. The light from outside shining[r]
+through the vents was dazzling.[pcms]
 
 *588|
 [fc]
-After a while, my senior, who had a flashlight in hand, pointed to another hatch[r]
-attached to the concrete foundation under the floor.[pcms]
+After a while, my senior, who had a flashlight in hand,[r]
+pointed to another hatch attached to the concrete foundation[r]
+under the floor.[pcms]
 
 *589|
 [fc]
-Then, the infected began to enter through the space under the floor.[pcms]
+Then, the infected began to enter through the space under[r]
+the floor.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -53,13 +57,15 @@ Then, the infected began to enter through the space under the floor.[pcms]
 
 *591|
 [fc]
-In a rush, my senior and I grabbed the hatch and opened it with all our might.[pcms]
+In a rush, my senior and I grabbed the hatch and opened it[r]
+with all our might.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *592|
 [fc]
-The opened hatch led to a concrete staircase that continued down.[pcms]
+The opened hatch led to a concrete staircase that continued[r]
+down.[pcms]
 
 *593|
 [fc]
@@ -68,19 +74,21 @@ The opened hatch led to a concrete staircase that continued down.[pcms]
 
 *594|
 [fc]
-At my urging, Yuuho nodded silently and went down the stairs below the hatch.[pcms]
+At my urging, Yuuho nodded silently and went down the stairs[r]
+below the hatch.[pcms]
 
 *595|
 [fc]
-Then, taking turns supporting the hatch with my senior, we proceeded down the[r]
-stairs.[pcms]
+Then, taking turns supporting the hatch with my senior, we[r]
+proceeded down the stairs.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *596|
 [fc]
-The infected were closing in on us, but this time we managed to close the hatch[r]
-beautifully. We immediately locked it from the inside.[pcms]
+The infected were closing in on us, but this time we managed[r]
+to close the hatch beautifully. We immediately locked it[r]
+from the inside.[pcms]
 
 [se buf=0 storage="se034"]
 ;//→本編・中編・エンディングへ

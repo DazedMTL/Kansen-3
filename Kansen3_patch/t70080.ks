@@ -22,12 +22,13 @@
 
 *7891|
 [fc]
-While being embraced by Yuuho, I ended up crying out loud with a 'wa-wa'.[pcms]
+While being embraced by Yuuho, I ended up crying out loud[r]
+with a 'wa-wa'.[pcms]
 
 *7892|
 [fc]
-Without saying anything, Yuuho continued to hug me, sometimes patting my back as[r]
-if comforting a child.[pcms]
+Without saying anything, Yuuho continued to hug me,[r]
+sometimes patting my back as if comforting a child.[pcms]
 
 ;//〆EV013
 
@@ -45,8 +46,8 @@ if comforting a child.[pcms]
 [fc]
 [vo_yuh s="yuho0936"]
 [ns]Yuuho[nse]
-"...you know, tonight... I want to stay... right by your side, together, the[r]
-whole time..."[pcms]
+"...you know, tonight... I want to stay... right by your[r]
+side, together, the whole time..."[pcms]
 
 *7895|
 [fc]
@@ -55,8 +56,8 @@ whole time..."[pcms]
 
 *7896|
 [fc]
-I asked her again without thinking. With a nasal voice, an embarrassing voice.[r]
-Yuuho looked back at me and answered.[pcms]
+I asked her again without thinking. With a nasal voice, an[r]
+embarrassing voice. Yuuho looked back at me and answered.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -64,8 +65,8 @@ Yuuho looked back at me and answered.[pcms]
 [fc]
 [vo_yuh s="yuho0937"]
 [ns]Yuuho[nse]
-"I'm still worried about you... That's why I want to stay with you all night[r]
-tonight."[pcms]
+"I'm still worried about you... That's why I want to stay[r]
+with you all night tonight."[pcms]
 
 *7898|
 [fc]
@@ -90,7 +91,8 @@ tonight."[pcms]
 
 
 ;	[link storage="T70090.ks" target=*T70090_TOP]キスする[endlink]
-; (link storage="T70110.ks" target=*T70110_TOP)Thank you...(endlink)[pcms]
+; (link storage="T70110.ks" target=*T70110_TOP)Thank[r]
+you...(endlink)[pcms]
 
 *SEL78|キスする／ありがとう……
 [fc]

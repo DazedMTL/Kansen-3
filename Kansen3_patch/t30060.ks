@@ -43,8 +43,8 @@
 
 *6374|
 [fc]
-Yuuho smiled as she took off her earphones. But there was no sound... It seems[r]
-she wasn't listening to music.[pcms]
+Yuuho smiled as she took off her earphones. But there was no[r]
+sound... It seems she wasn't listening to music.[pcms]
 
 *6375|
 [fc]
@@ -90,17 +90,19 @@ Her carefree response didn't carry a sense of despair.[pcms]
 
 *6382|
 [fc]
-It was painful to see Yuuho, who indulged in her loneliness when alone but acted[r]
-bravely in front of others.[pcms]
+It was painful to see Yuuho, who indulged in her loneliness[r]
+when alone but acted bravely in front of others.[pcms]
 
 *6383|
 [fc]
-I wish she could be honest with me... It's okay for her to cry in front of me...[r]
-Or maybe... am I not good enough for her...?[pcms]
+I wish she could be honest with me... It's okay for her to[r]
+cry in front of me... Or maybe... am I not good enough for[r]
+her...?[pcms]
 
 *6384|
 [fc]
-Not knowing what to make of the silence, Yuuho gave a bright smile.[pcms]
+Not knowing what to make of the silence, Yuuho gave a bright[r]
+smile.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -108,8 +110,9 @@ Not knowing what to make of the silence, Yuuho gave a bright smile.[pcms]
 [fc]
 [vo_yuh s="yuho_T0051"]
 [ns]Yuuho[nse]
-"...I'm sure it'll be okay, they must be doing fine somewhere. Humans are pretty[r]
-tough creatures, after all. Look, even Kousuke and Mizuki... heheheh"[pcms]
+"...I'm sure it'll be okay, they must be doing fine[r]
+somewhere. Humans are pretty tough creatures, after all.[r]
+Look, even Kousuke and Mizuki... heheheh"[pcms]
 ;//Åóç≈å„ÅAÇ≠Ç∑Ç≠Ç∑ÇÌÇÁÇ§
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -118,8 +121,8 @@ tough creatures, after all. Look, even Kousuke and Mizuki... heheheh"[pcms]
 [fc]
 [vo_yuh s="yuho_T0052"]
 [ns]Yuuho[nse]
-"Even in a situation like this, those two... hehe, really, they're so[r]
-positive..."[pcms]
+"Even in a situation like this, those two... hehe, really,[r]
+they're so positive..."[pcms]
 ;//ÅóÇ®Ç©ÇµÇªÇ§Ç…
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -128,14 +131,15 @@ positive..."[pcms]
 [fc]
 [vo_yuh s="yuho_T0053"]
 [ns]Yuuho[nse]
-"I bet... while they're holding each other, they might even forget that the[r]
-world is on the brink of destruction..."[pcms]
+"I bet... while they're holding each other, they might even[r]
+forget that the world is on the brink of destruction..."[pcms]
 ;//ÅóÇøÇÂÇ¡Ç∆Ç‚Ç≥ÇµÇ≠
 
 *6388|
 [fc]
-Yuuho's eyes were gentle as she chuckled. It was as if she was blessing Kousuke[r]
-and Mizuki, yet also as if she was watching the end of the world...[pcms]
+Yuuho's eyes were gentle as she chuckled. It was as if she[r]
+was blessing Kousuke and Mizuki, yet also as if she was[r]
+watching the end of the world...[pcms]
 
 ;//se003ÅEågë—ÇÃíÖêMâπ
 [se buf=0 storage="se003" loop=true]
@@ -147,8 +151,8 @@ and Mizuki, yet also as if she was watching the end of the world...[pcms]
 
 *6390|
 [fc]
-Suddenly, a phone rang, startling me so much I almost jumped. When I checked, it[r]
-was a call from Kousuke's number.[pcms]
+Suddenly, a phone rang, startling me so much I almost[r]
+jumped. When I checked, it was a call from Kousuke's number.[pcms]
 
 ;//se095ÅEóIîøÇÃågë—íÖêMâπ
 ;//[se buf=1 storage="se095" loop=true]
@@ -197,12 +201,13 @@ Kousuke's scream from the phone struck my ear.[pcms]
 *6397|
 [fc]
 [ns]Kousuke[nse]
-"The TV! The TV! Something serious is happening right now... just come here[r]
-quickly!!"[pcms]
+"The TV! The TV! Something serious is happening right now...[r]
+just come here quickly!!"[pcms]
 
 *6398|
 [fc]
-I've never seen him so flustered; what on earth could have happened...?[pcms]
+I've never seen him so flustered; what on earth could have[r]
+happened...?[pcms]
 
 [eval exp="f.l_meets_y = 1"]
 

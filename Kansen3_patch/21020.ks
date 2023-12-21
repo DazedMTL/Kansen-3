@@ -16,23 +16,25 @@
 
 *306|
 [fc]
-I decided to take a detour around the gymnasium and escape into the indoor pool.[pcms]
+I decided to take a detour around the gymnasium and escape[r]
+into the indoor pool.[pcms]
 
 *307|
 [fc]
-There's no time to consider whether it's the right choice or not. It's all left[r]
-to chance, a decision made on instinct.[pcms]
+There's no time to consider whether it's the right choice or[r]
+not. It's all left to chance, a decision made on instinct.[pcms]
 
 *308|
 [fc]
-In any case, staying here is too dangerous, and if those approaching catch me,[r]
-it's game over. I aimed for the emergency exit of the indoor pool and kept[r]
-running with all my might.[pcms]
+In any case, staying here is too dangerous, and if those[r]
+approaching catch me, it's game over. I aimed for the[r]
+emergency exit of the indoor pool and kept running with all[r]
+my might.[pcms]
 
 *309|
 [fc]
-Then, on the roof of the corridor connecting the indoor pool and the gymnasium,[r]
-I saw a familiar figure.[pcms]
+Then, on the roof of the corridor connecting the indoor pool[r]
+and the gymnasium, I saw a familiar figure.[pcms]
 
 *310|
 [fc]
@@ -41,13 +43,14 @@ I saw a familiar figure.[pcms]
 
 *311|
 [fc]
-As I called out reflexively with a breathless, raspy voice, Yuuho seemed to[r]
-notice me and looked my way.[pcms]
+As I called out reflexively with a breathless, raspy voice,[r]
+Yuuho seemed to notice me and looked my way.[pcms]
 
 *312|
 [fc]
-The surroundings of the corridor were already surrounded by abnormal people, and[r]
-it was a situation where she was being cornered.[pcms]
+The surroundings of the corridor were already surrounded by[r]
+abnormal people, and it was a situation where she was being[r]
+cornered.[pcms]
 
 *313|
 [fc]
@@ -55,7 +58,8 @@ But even so, I couldn't just abandon Yuuho and escape alone.[pcms]
 
 *314|
 [fc]
-My legs naturally turned towards the corridor where Yuuho was being cornered.[pcms]
+My legs naturally turned towards the corridor where Yuuho[r]
+was being cornered.[pcms]
 
 *315|
 [fc]
@@ -64,8 +68,8 @@ My legs naturally turned towards the corridor where Yuuho was being cornered.[pc
 
 *316|
 [fc]
-I shouted at the top of my lungs, and Yuuho tried to come towards me while[r]
-desperately maintaining her balance.[pcms]
+I shouted at the top of my lungs, and Yuuho tried to come[r]
+towards me while desperately maintaining her balance.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_d3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -77,44 +81,48 @@ desperately maintaining her balance.[pcms]
 
 *318|
 [fc]
-However, without taking many steps, Yuuho slipped and fell on the roof. She's in[r]
-danger if things stay like this. I want to help her somehow...[pcms]
+However, without taking many steps, Yuuho slipped and fell[r]
+on the roof. She's in danger if things stay like this. I[r]
+want to help her somehow...[pcms]
 
 *319|
 [fc]
-How can I get there, how can I save Yuuho? I tried to think with my confused[r]
-mind working at full speed.[pcms]
+How can I get there, how can I save Yuuho? I tried to think[r]
+with my confused mind working at full speed.[pcms]
 
 *320|
 [fc]
-The height of the corridor's roof is the same as the window of the catwalk[r]
-inside the gymnasium.[pcms]
+The height of the corridor's roof is the same as the window[r]
+of the catwalk inside the gymnasium.[pcms]
 
 *321|
 [fc]
-That catwalk should be connected to the physical education staff room, and[r]
-accessible from the nearby emergency staircase.[pcms]
+That catwalk should be connected to the physical education[r]
+staff room, and accessible from the nearby emergency[r]
+staircase.[pcms]
 
 *322|
 [fc]
-On one side, near the indoor pool, there should be a foldable ladder for rooftop[r]
-maintenance.[pcms]
+On one side, near the indoor pool, there should be a[r]
+foldable ladder for rooftop maintenance.[pcms]
 
 *323|
 [fc]
-Of course, there's no guarantee that there won't be any strange people there.[r]
-It's a pathetic story, but what I can do is limited, and if I'm not careful, I[r]
-might end up just like them.[pcms]
+Of course, there's no guarantee that there won't be any[r]
+strange people there. It's a pathetic story, but what I can[r]
+do is limited, and if I'm not careful, I might end up just[r]
+like them.[pcms]
 
 *324|
 [fc]
-The problem presented before me was an extremely simple choice between two[r]
-options.[pcms]
+The problem presented before me was an extremely simple[r]
+choice between two options.[pcms]
 
 *325|
 [fc]
-Whether to risk my own safety and throw myself into the tiger's den in an effort[r]
-to do everything possible for Yuuho's sake or not.[pcms]
+Whether to risk my own safety and throw myself into the[r]
+tiger's den in an effort to do everything possible for[r]
+Yuuho's sake or not.[pcms]
 
 *326|
 [fc]

@@ -23,8 +23,8 @@
 
 *1533|
 [fc]
-"If we stay inside the school, we'll eventually run out of places to escape and[r]
-just get cornered."[pcms]
+"If we stay inside the school, we'll eventually run out of[r]
+places to escape and just get cornered."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -32,23 +32,26 @@ just get cornered."[pcms]
 [fc]
 [vo_yuh s="yuho0363"]
 [ns]Yuuho[nse]
-"Let's escape outside the school. It's dangerous to stay here."[pcms]
+"Let's escape outside the school. It's dangerous to stay[r]
+here."[pcms]
 
 *1535|
 [fc]
 [vo_mob s="buinA0017"]
 [ns]Club Member A[nse]
-"Yeah... let's go outside and find a safe place to take refuge."[pcms]
+"Yeah... let's go outside and find a safe place to take[r]
+refuge."[pcms]
 
 *1536|
 [fc]
-Deciding that, my friend and I started running towards the emergency exit by the[r]
-gymnasium, which led to the school grounds.[pcms]
+Deciding that, my friend and I started running towards the[r]
+emergency exit by the gymnasium, which led to the school[r]
+grounds.[pcms]
 
 *1537|
 [fc]
-But with screams, I saw many students running from that direction into the[r]
-school.[pcms]
+But with screams, I saw many students running from that[r]
+direction into the school.[pcms]
 
 *1538|
 [fc]
@@ -58,24 +61,25 @@ school.[pcms]
 
 *1539|
 [fc]
-In no time, we were swallowed up by the people trying to escape into the school,[r]
-and we were pushed back.[pcms]
+In no time, we were swallowed up by the people trying to[r]
+escape into the school, and we were pushed back.[pcms]
 
 *1540|
 [fc]
-Moreover, behind the students who had fled, there were indeed many of those[r]
-strange figures.[pcms]
+Moreover, behind the students who had fled, there were[r]
+indeed many of those strange figures.[pcms]
 
 [evcg storage="evs001"][trans_c cross time=300]
 
 *1541|
 [fc]
-It would only be dangerous to force our way through the crowd.[pcms]
+It would only be dangerous to force our way through the[r]
+crowd.[pcms]
 
 *1542|
 [fc]
-In the end, our plan to escape outside quickly fell through, and we were simply[r]
-swept away by the crowd.[pcms]
+In the end, our plan to escape outside quickly fell through,[r]
+and we were simply swept away by the crowd.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

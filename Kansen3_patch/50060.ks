@@ -23,12 +23,14 @@
 
 *349|
 [fc]
-"Maruko-senpai's words about 'when it counts' finally spurred my decision."[pcms]
+"Maruko-senpai's words about 'when it counts' finally[r]
+spurred my decision."[pcms]
 
 *350|
 [fc]
-"I couldn't bear the regret if something happened and I couldn't deal with it.[r]
-Better to have even a little room to struggle."[pcms]
+"I couldn't bear the regret if something happened and I[r]
+couldn't deal with it. Better to have even a little room to[r]
+struggle."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -47,23 +49,26 @@ Better to have even a little room to struggle."[pcms]
 
 *353|
 [fc]
-"Following behind senpai, who dashed towards the western department store like a[r]
-bullet, I made sure not to fall behind."[pcms]
+"Following behind senpai, who dashed towards the western[r]
+department store like a bullet, I made sure not to fall[r]
+behind."[pcms]
 
 *354|
 [fc]
-"Since we had to dodge cars left irregularly all over, we couldn't go straight[r]
-and couldn't pick up speed."[pcms]
+"Since we had to dodge cars left irregularly all over, we[r]
+couldn't go straight and couldn't pick up speed."[pcms]
 
 *355|
 [fc]
-"Moreover, because we were forcing our way through narrow spaces, I ended up[r]
-hitting my hip bone hard against a side mirror."[pcms]
+"Moreover, because we were forcing our way through narrow[r]
+spaces, I ended up hitting my hip bone hard against a side[r]
+mirror."[pcms]
 
 *356|
 [fc]
 [ns]Wataru[nse]
-"Ow, ow...! Sen-senpai...! At this rate, we'll be caught...!"[pcms]
+"Ow, ow...! Sen-senpai...! At this rate, we'll be[r]
+caught...!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -80,14 +85,16 @@ hitting my hip bone hard against a side mirror."[pcms]
 
 *359|
 [fc]
-"Turning around at senpai's words, I saw the infected jostling and shoving each[r]
-other around the entrance of the street."[pcms]
+"Turning around at senpai's words, I saw the infected[r]
+jostling and shoving each other around the entrance of the[r]
+street."[pcms]
 
 *360|
 [fc]
-"Their awkward movements meant they couldn't fit through the gaps between cars,[r]
-and even if they did, they were competing to chase after us, getting in each[r]
-other's way and causing a jam in the gaps."[pcms]
+"Their awkward movements meant they couldn't fit through the[r]
+gaps between cars, and even if they did, they were competing[r]
+to chase after us, getting in each other's way and causing a[r]
+jam in the gaps."[pcms]
 
 *361|
 [fc]
@@ -96,7 +103,8 @@ other's way and causing a jam in the gaps."[pcms]
 
 *362|
 [fc]
-"On top of that, as we kept moving, they seemed unable to set a proper course."[pcms]
+"On top of that, as we kept moving, they seemed unable to[r]
+set a proper course."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -108,8 +116,9 @@ other's way and causing a jam in the gaps."[pcms]
 
 *364|
 [fc]
-"While shouting, senpai kicked down an infected blocking the entrance back to[r]
-Inokashira Street and dashed into the street."[pcms]
+"While shouting, senpai kicked down an infected blocking the[r]
+entrance back to Inokashira Street and dashed into the[r]
+street."[pcms]
 
 *365|
 [fc]
@@ -118,8 +127,8 @@ Inokashira Street and dashed into the street."[pcms]
 
 *366|
 [fc]
-"Sure enough, there were infected on Inokashira Street too, and as soon as they[r]
-noticed us, they started approaching."[pcms]
+"Sure enough, there were infected on Inokashira Street too,[r]
+and as soon as they noticed us, they started approaching."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -127,16 +136,16 @@ noticed us, they started approaching."[pcms]
 [fc]
 [vo_mar s="maru1325"]
 [ns]Margarita[nse]
-"Dodge them! We must open a path, but try not to touch them as much as[r]
-possible!"[pcms]
+"Dodge them! We must open a path, but try not to touch them[r]
+as much as possible!"[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *368|
 [fc]
-"What saved us was that this road didn't have any abandoned cars. We could avoid[r]
-the infected by making wide detours or running in zigzags across the full width[r]
-of the road."[pcms]
+"What saved us was that this road didn't have any abandoned[r]
+cars. We could avoid the infected by making wide detours or[r]
+running in zigzags across the full width of the road."[pcms]
 
 *369|
 [fc]
@@ -145,8 +154,8 @@ of the road."[pcms]
 
 *370|
 [fc]
-"My heart started to hurt from the sudden exercise and panic. But I have to[r]
-hurry... I can't let them eat me here!"[pcms]
+"My heart started to hurt from the sudden exercise and[r]
+panic. But I have to hurry... I can't let them eat me here!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -159,7 +168,8 @@ hurry... I can't let them eat me here!"[pcms]
 
 *372|
 [fc]
-"Maruko-senpai, who had just run in front of 'Kimesugitakashi,' froze in shock."[pcms]
+"Maruko-senpai, who had just run in front of[r]
+'Kimesugitakashi,' froze in shock."[pcms]
 
 *373|
 [fc]
@@ -174,7 +184,8 @@ hurry... I can't let them eat me here!"[pcms]
 
 *375|
 [fc]
-"Just as I was about to panic and jump into the store, I heard a voice."[pcms]
+"Just as I was about to panic and jump into the store, I[r]
+heard a voice."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -209,8 +220,8 @@ hurry... I can't let them eat me here!"[pcms]
 
 *381|
 [fc]
-"The three of them were standing in front of 'Dedepou,' waving their hands[r]
-wildly at us."[pcms]
+"The three of them were standing in front of 'Dedepou,'[r]
+waving their hands wildly at us."[pcms]
 
 *382|
 [fc]
@@ -223,15 +234,18 @@ wildly at us."[pcms]
 
 *384|
 [fc]
-"It's just a short distance to Dedepou. Yet that distance felt incredibly far."[pcms]
+"It's just a short distance to Dedepou. Yet that distance[r]
+felt incredibly far."[pcms]
 
 *385|
 [fc]
-"I have to hurry, move my arms and legs faster, faster forward..."[pcms]
+"I have to hurry, move my arms and legs faster, faster[r]
+forward..."[pcms]
 
 *386|
 [fc]
-"As I struggled to run, a particularly loud growl reached my ears."[pcms]
+"As I struggled to run, a particularly loud growl reached my[r]
+ears."[pcms]
 
 *387|
 [fc]
@@ -244,13 +258,15 @@ wildly at us."[pcms]
 
 *388|
 [fc]
-"When I instinctively looked back, I saw a large swarm of infected surging[r]
-towards us from the direction of the station."[pcms]
+"When I instinctively looked back, I saw a large swarm of[r]
+infected surging towards us from the direction of the[r]
+station."[pcms]
 
 *389|
 [fc]
-"Not just that, new infected were emerging from inside the surrounding buildings[r]
-and from blind spots along the street."[pcms]
+"Not just that, new infected were emerging from inside the[r]
+surrounding buildings and from blind spots along the[r]
+street."[pcms]
 
 *390|
 [fc]
@@ -280,8 +296,8 @@ and from blind spots along the street."[pcms]
 
 *393|
 [fc]
-"Senpai and I threw ourselves into Dedepou through the half-open shutter as if[r]
-diving for cover."[pcms]
+"Senpai and I threw ourselves into Dedepou through the half-[r]
+open shutter as if diving for cover."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -300,8 +316,9 @@ diving for cover."[pcms]
 
 *396|
 [fc]
-"The moment I dashed in last, Kousuke, who was waiting, slammed down the[r]
-shutter. He locked the shutter, closed the glass door, and locked it too."[pcms]
+"The moment I dashed in last, Kousuke, who was waiting,[r]
+slammed down the shutter. He locked the shutter, closed the[r]
+glass door, and locked it too."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -336,8 +353,8 @@ Without the leeway to respond, I collapsed onto the floor.[pcms]
 
 *401|
 [fc]
-And then... before long, the sound of something banging on the shutter began to[r]
-echo inside the store...[pcms]
+And then... before long, the sound of something banging on[r]
+the shutter began to echo inside the store...[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇTÇOÇOÇXÇOÇ÷
 [jump storage="50090.ks" target=*50090_TOP]

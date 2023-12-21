@@ -30,7 +30,8 @@
 
 *1913|
 [fc]
-When I presented the nail gun, senpai nodded as if to say she understood.[pcms]
+When I presented the nail gun, senpai nodded as if to say[r]
+she understood.[pcms]
 
 *1914|
 [fc]
@@ -58,8 +59,8 @@ It's okay... They move slowly.[pcms]
 
 *1918|
 [fc]
-If I move quickly to the side, I should be able to avoid them... They won't be[r]
-able to keep up with my movements![pcms]
+If I move quickly to the side, I should be able to avoid[r]
+them... They won't be able to keep up with my movements![pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
@@ -81,8 +82,8 @@ able to keep up with my movements![pcms]
 
 *1921|
 [fc]
-While dodging the eerily stretching arms of the infected, I maneuver my body in[r]
-a circular motion.[pcms]
+While dodging the eerily stretching arms of the infected, I[r]
+maneuver my body in a circular motion.[pcms]
 
 *1922|
 [fc]
@@ -91,8 +92,8 @@ a circular motion.[pcms]
 
 *1923|
 [fc]
-I aimed the nail gun at the back of the head and pulled the trigger with all my[r]
-might.[pcms]
+I aimed the nail gun at the back of the head and pulled the[r]
+trigger with all my might.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
@@ -126,8 +127,8 @@ It was surprisingly easy.[pcms]
 
 *1929|
 [fc]
-Without hesitation, I flipped over and pressed the nail gun against the forehead[r]
-of another infected.[pcms]
+Without hesitation, I flipped over and pressed the nail gun[r]
+against the forehead of another infected.[pcms]
 
 *1930|
 [fc]
@@ -208,7 +209,8 @@ I'm going to be caught![pcms]
 
 *1943|
 [fc]
-The moment I thought that, a gust of wind blew in front of my face.[pcms]
+The moment I thought that, a gust of wind blew in front of[r]
+my face.[pcms]
 
 ;//ev008b（マル子キック）
 [evcg storage="EV008b"][trans_c cross time=300]
@@ -230,7 +232,8 @@ The moment I thought that, a gust of wind blew in front of my face.[pcms]
 
 *1946|
 [fc]
-The infected was blown away by a kick from Maruko-senpai coming from the side.[pcms]
+The infected was blown away by a kick from Maruko-senpai[r]
+coming from the side.[pcms]
 
 [bg storage="BG08f"][trans_c cross time=500]
 

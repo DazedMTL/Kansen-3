@@ -16,12 +16,13 @@
 
 *1950|
 [fc]
-While keeping an eye on Yuuho as she approached, I stayed on guard against the[r]
-fallen infected.[pcms]
+While keeping an eye on Yuuho as she approached, I stayed on[r]
+guard against the fallen infected.[pcms]
 
 *1951|
 [fc]
-If they don't feel pain, there's no guarantee they won't get up again.[pcms]
+If they don't feel pain, there's no guarantee they won't get[r]
+up again.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -46,8 +47,8 @@ If they don't feel pain, there's no guarantee they won't get up again.[pcms]
 
 *1955|
 [fc]
-It was when Yuuho, who sounded worried, called out to me that I was momentarily[r]
-distracted.[pcms]
+It was when Yuuho, who sounded worried, called out to me[r]
+that I was momentarily distracted.[pcms]
 
 *1956|
 [fc]
@@ -63,22 +64,23 @@ The man who had fallen was trying to get up.[pcms]
 
 *1958|
 [fc]
-Just before he could get up, I thrust out the handle of the mop without[r]
-hesitation.[pcms]
+Just before he could get up, I thrust out the handle of the[r]
+mop without hesitation.[pcms]
 
 *1959|
 [fc]
-It hit him well, and the man rolled back onto the floor of the catwalk.[pcms]
+It hit him well, and the man rolled back onto the floor of[r]
+the catwalk.[pcms]
 
 *1960|
 [fc]
-But he wasn't caught in the window frame like before, so he would get up again[r]
-quickly.[pcms]
+But he wasn't caught in the window frame like before, so he[r]
+would get up again quickly.[pcms]
 
 *1961|
 [fc]
-I kept thrusting at his attempts to rise, making sure the man stayed down on the[r]
-floor.[pcms]
+I kept thrusting at his attempts to rise, making sure the[r]
+man stayed down on the floor.[pcms]
 
 *1962|
 [fc]
@@ -90,8 +92,8 @@ Could it be that I'm strong??[pcms]
 
 *1964|
 [fc]
-No, I shouldn't get carried away, but it's enough to make me want to be mistaken[r]
-for being good at this.[pcms]
+No, I shouldn't get carried away, but it's enough to make me[r]
+want to be mistaken for being good at this.[pcms]
 
 ;//ÅYEV011
 [evcg storage="EV011g"][trans_c cross time=300]
@@ -106,8 +108,8 @@ for being good at this.[pcms]
 
 *1966|
 [fc]
-The moment I turned around at Yuuho's voice, which sounded unexpectedly close,[r]
-she leaped into my chest.[pcms]
+The moment I turned around at Yuuho's voice, which sounded[r]
+unexpectedly close, she leaped into my chest.[pcms]
 
 *1967|
 [fc]
@@ -129,13 +131,14 @@ she leaped into my chest.[pcms]
 
 *1970|
 [fc]
-In my arms, Yuuho sobbed with relief, and as I gently stroked her back, I[r]
-couldn't contain the emotions welling up inside me.[pcms]
+In my arms, Yuuho sobbed with relief, and as I gently[r]
+stroked her back, I couldn't contain the emotions welling up[r]
+inside me.[pcms]
 
 *1971|
 [fc]
-The feel of her soft body and Yuuho's gentle scent seemed to heal my weary[r]
-heart.[pcms]
+The feel of her soft body and Yuuho's gentle scent seemed to[r]
+heal my weary heart.[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_d3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -143,18 +146,21 @@ heart.[pcms]
 [fc]
 [vo_yuh s="yuho0163"]
 [ns]Yuuho[nse]
-"Thanks to you, Wataru, I was saved. I thought I was done for and almost gave up[r]
-when you... when everyone came for me."[pcms]
+"Thanks to you, Wataru, I was saved. I thought I was done[r]
+for and almost gave up when you... when everyone came for[r]
+me."[pcms]
 
 *1973|
 [fc]
 [ns]Wataru[nse]
-"I'm also happy that Yuuho is safe. Really, thank goodness..."[pcms]
+"I'm also happy that Yuuho is safe. Really, thank[r]
+goodness..."[pcms]
 
 *1974|
 [fc]
-The sight of the man getting up again caught the corner of my eye. I quickly[r]
-pushed him down with the mop handle and took Yuuho's hand.[pcms]
+The sight of the man getting up again caught the corner of[r]
+my eye. I quickly pushed him down with the mop handle and[r]
+took Yuuho's hand.[pcms]
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
@@ -165,7 +171,8 @@ pushed him down with the mop handle and took Yuuho's hand.[pcms]
 *1975|
 [fc]
 [ns]Wataru[nse]
-"It's dangerous here, let's go back quickly. Everyone is waiting."[pcms]
+"It's dangerous here, let's go back quickly. Everyone is[r]
+waiting."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -178,13 +185,13 @@ pushed him down with the mop handle and took Yuuho's hand.[pcms]
 *1977|
 [fc]
 [ns]Wataru[nse]
-"No, Senpai is holding down the stairs. Ren and Kousuke are waiting at the annex[r]
-building."[pcms]
+"No, Senpai is holding down the stairs. Ren and Kousuke are[r]
+waiting at the annex building."[pcms]
 
 *1978|
 [fc]
-While running and holding Yuuho's hand, I briefly explained the current[r]
-situation.[pcms]
+While running and holding Yuuho's hand, I briefly explained[r]
+the current situation.[pcms]
 
 *1979|
 [fc]
@@ -193,12 +200,13 @@ situation.[pcms]
 
 *1980|
 [fc]
-I shouted that as soon as I opened the door leading to the staff room.[pcms]
+I shouted that as soon as I opened the door leading to the[r]
+staff room.[pcms]
 
 *1981|
 [fc]
-I wonder how fierce the battle was. There were several infected lying at[r]
-Senpai's feet.[pcms]
+I wonder how fierce the battle was. There were several[r]
+infected lying at Senpai's feet.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -227,7 +235,8 @@ Senpai's feet.[pcms]
 [fc]
 [vo_mar s="maru0252"]
 [ns]Margarita[nse]
-"It's too early for thanks. You can say it when we've gotten out of here."[pcms]
+"It's too early for thanks. You can say it when we've gotten[r]
+out of here."[pcms]
 
 *1986|
 [fc]
@@ -244,18 +253,20 @@ Senpai's feet.[pcms]
 
 *1988|
 [fc]
-Senpai spoke so firmly that there was no room for interjection, though I wished[r]
-she could have said it a bit differently...[pcms]
+Senpai spoke so firmly that there was no room for[r]
+interjection, though I wished she could have said it a bit[r]
+differently...[pcms]
 
 *1989|
 [fc]
-But when I realized that what she was holding wasn't a mop but a wooden sword,[r]
-my words trailed off.[pcms]
+But when I realized that what she was holding wasn't a mop[r]
+but a wooden sword, my words trailed off.[pcms]
 
 *1990|
 [fc]
-This place has enough space to swing a wooden sword effectively. It would[r]
-certainly showcase Senpai's strength better than a mop handle.[pcms]
+This place has enough space to swing a wooden sword[r]
+effectively. It would certainly showcase Senpai's strength[r]
+better than a mop handle.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -267,9 +278,9 @@ certainly showcase Senpai's strength better than a mop handle.[pcms]
 
 *1992|
 [fc]
-Following Senpai who dashed off slashing at the infected with her wooden sword,[r]
-I climbed up the maintenance ladder to the gymnasium roof while pulling Yuuho by[r]
-the hand.[pcms]
+Following Senpai who dashed off slashing at the infected[r]
+with her wooden sword, I climbed up the maintenance ladder[r]
+to the gymnasium roof while pulling Yuuho by the hand.[pcms]
 
 ;//Å®block:30250Ç÷
 [jump storage="30250.ks" target=*30250_TOP]

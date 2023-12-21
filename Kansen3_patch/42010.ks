@@ -23,9 +23,10 @@
 
 *4556|
 [fc]
-Repelled by the senior's words, we turned our eyes from the hatch that was being[r]
-continuously pelted like early summer rain, towards the basement illuminated by[r]
-the flashlight and proceeded.[pcms]
+Repelled by the senior's words, we turned our eyes from the[r]
+hatch that was being continuously pelted like early summer[r]
+rain, towards the basement illuminated by the flashlight and[r]
+proceeded.[pcms]
 
 ;//場面転換
 
@@ -52,16 +53,17 @@ the flashlight and proceeded.[pcms]
 
 *4559|
 [fc]
-Just as we reached the basement, a voice like a curse was heard, and the noise[r]
-of the hatch being struck, which had been loud until now, stopped completely.[pcms]
+Just as we reached the basement, a voice like a curse was[r]
+heard, and the noise of the hatch being struck, which had[r]
+been loud until now, stopped completely.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4560|
 [fc]
 [ns]Kousuke[nse]
-"Maybe they've given up? If it's now, we might be able to go back... Then, we[r]
-can help those who were left behind."[pcms]
+"Maybe they've given up? If it's now, we might be able to go[r]
+back... Then, we can help those who were left behind."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -69,15 +71,16 @@ can help those who were left behind."[pcms]
 [fc]
 [vo_mar s="maru0557"]
 [ns]Margarita[nse]
-"It's impossible. There's also the possibility of an ambush. Even beasts would[r]
-have that much wit."[pcms]
+"It's impossible. There's also the possibility of an ambush.[r]
+Even beasts would have that much wit."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4562|
 [fc]
 [ns]Kousuke[nse]
-"Senior! The way you say it, it's like my wit is less than that of a beast~"[pcms]
+"Senior! The way you say it, it's like my wit is less than[r]
+that of a beast~"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -110,16 +113,18 @@ have that much wit."[pcms]
 
 *4567|
 [fc]
-Ren laughed. Even though she had been crying a little while ago. Somehow, the[r]
-atmosphere that had been filled with despair seemed to lighten up a bit.[pcms]
+Ren laughed. Even though she had been crying a little while[r]
+ago. Somehow, the atmosphere that had been filled with[r]
+despair seemed to lighten up a bit.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4568|
 [fc]
-She really is a mood maker. I was worried about her before... but she's calmed[r]
-down. It's good that Kousuke is here at a time like this.[pcms]
+She really is a mood maker. I was worried about her[r]
+before... but she's calmed down. It's good that Kousuke is[r]
+here at a time like this.[pcms]
 
 *4569|
 [fc]
@@ -127,17 +132,19 @@ down. It's good that Kousuke is here at a time like this.[pcms]
 
 *4570|
 [fc]
-When Kousuke said "we might be able to go back," I wanted to say that I would go[r]
-back to save Yuuho.[pcms]
+When Kousuke said "we might be able to go back," I wanted to[r]
+say that I would go back to save Yuuho.[pcms]
 
 *4571|
 [fc]
-But now is not the time for that. What Margarita-senpai says is correct.[pcms]
+But now is not the time for that. What Margarita-senpai says[r]
+is correct.[pcms]
 
 *4572|
 [fc]
-I can't leave Ren behind. Just as the senior said, I have to protect her.[r]
-Yuuho... Yuuho will surely manage to escape with her physical strength.[pcms]
+I can't leave Ren behind. Just as the senior said, I have to[r]
+protect her. Yuuho... Yuuho will surely manage to escape[r]
+with her physical strength.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -174,7 +181,8 @@ Yuuho... Yuuho will surely manage to escape with her physical strength.[pcms]
 *4576|
 [fc]
 [ns]Wataru[nse]
-"That's true... Ren, you should cover your mouth with a handkerchief."[pcms]
+"That's true... Ren, you should cover your mouth with a[r]
+handkerchief."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -187,21 +195,22 @@ Yuuho... Yuuho will surely manage to escape with her physical strength.[pcms]
 
 *4578|
 [fc]
-Ren took out a folded handkerchief from her skirt and covered her mouth with it.[pcms]
+Ren took out a folded handkerchief from her skirt and[r]
+covered her mouth with it.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4579|
 [fc]
-The cool basement emitted a unique smell of mold, rotten water, and concrete[r]
-mixed together.[pcms]
+The cool basement emitted a unique smell of mold, rotten[r]
+water, and concrete mixed together.[pcms]
 
 *4580|
 [fc]
-The walls and ceiling were bare concrete as expected. That might be what made it[r]
-feel even colder. The ceiling was quite high, about three stories... around 9[r]
-meters.[pcms]
+The walls and ceiling were bare concrete as expected. That[r]
+might be what made it feel even colder. The ceiling was[r]
+quite high, about three stories... around 9 meters.[pcms]
 
 *4581|
 [fc]
@@ -209,42 +218,46 @@ We are now near that high ceiling.[pcms]
 
 *4582|
 [fc]
-From the hatch, there is a wide concrete staircase with low steps that gently[r]
-slopes down along the wall, continuing on.[pcms]
+From the hatch, there is a wide concrete staircase with low[r]
+steps that gently slopes down along the wall, continuing on.[pcms]
 
 *4583|
 [fc]
-Strangely enough for an emergency exit, there are no handrails. From here to the[r]
-basement floor is about 6 meters.[pcms]
+Strangely enough for an emergency exit, there are no[r]
+handrails. From here to the basement floor is about 6[r]
+meters.[pcms]
 
 *4584|
 [fc]
-If one were to fall down to the bottom by mistake, it could be a height fatal[r]
-enough to kill instantly if unlucky.[pcms]
+If one were to fall down to the bottom by mistake, it could[r]
+be a height fatal enough to kill instantly if unlucky.[pcms]
 
 *4585|
 [fc]
-There was once a game about an explorer who died just from tripping over a small[r]
-step, but humans can die from just slipping if they land badly.[pcms]
+There was once a game about an explorer who died just from[r]
+tripping over a small step, but humans can die from just[r]
+slipping if they land badly.[pcms]
 
 *4586|
 [fc]
-Yoshino-san would have surely died if it had been a normal situation.[pcms]
+Yoshino-san would have surely died if it had been a normal[r]
+situation.[pcms]
 
 *4587|
 [fc]
-Suddenly remembering that scene, I shook my head to push away the unpleasant[r]
-memory.[pcms]
+Suddenly remembering that scene, I shook my head to push[r]
+away the unpleasant memory.[pcms]
 
 *4588|
 [fc]
-While doing so, we reached a wide landing that felt like the midpoint of the[r]
-basement. It was right at the corner of the basement.[pcms]
+While doing so, we reached a wide landing that felt like the[r]
+midpoint of the basement. It was right at the corner of the[r]
+basement.[pcms]
 
 *4589|
 [fc]
-If it were a three-story building, it would be like descending from the third[r]
-floor to the second floor.[pcms]
+If it were a three-story building, it would be like[r]
+descending from the third floor to the second floor.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -255,22 +268,22 @@ floor to the second floor.[pcms]
 
 *4591|
 [fc]
-Kousuke looked around and let out his question as if asking no one in[r]
-particular.[pcms]
+Kousuke looked around and let out his question as if asking[r]
+no one in particular.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4592|
 [fc]
-Certainly, this basement was a mystery to me too. Looking up, there were[r]
-ceilings cracked and stained. Parts of the wall had fallen off, revealing red[r]
-brick underneath.[pcms]
+Certainly, this basement was a mystery to me too. Looking[r]
+up, there were ceilings cracked and stained. Parts of the[r]
+wall had fallen off, revealing red brick underneath.[pcms]
 
 *4593|
 [fc]
-It looked very old. It might be an evacuation route or something, but what is[r]
-this for, and why here...?[pcms]
+It looked very old. It might be an evacuation route or[r]
+something, but what is this for, and why here...?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -278,8 +291,8 @@ this for, and why here...?[pcms]
 [fc]
 [vo_mar s="maru0561"]
 [ns]Margarita[nse]
-"This used to be a terminal connecting an evacuation route from the former[r]
-Olympic Village to the surface."[pcms]
+"This used to be a terminal connecting an evacuation route[r]
+from the former Olympic Village to the surface."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -300,19 +313,22 @@ Olympic Village to the surface."[pcms]
 
 *4597|
 [fc]
-About half a century ago during the Tokyo Olympics. The Olympic Village was said[r]
-to have been built in what is now Yoyogi Park.[pcms]
+About half a century ago during the Tokyo Olympics. The[r]
+Olympic Village was said to have been built in what is now[r]
+Yoyogi Park.[pcms]
 
 *4598|
 [fc]
-But at that time in Japan, there were active protests and terrorist activities[r]
-by radicals.[pcms]
+But at that time in Japan, there were active protests and[r]
+terrorist activities by radicals.[pcms]
 
 *4599|
 [fc]
-Therefore, as one of the measures to protect athletes from various anticipated[r]
-situations including large-scale demonstrations and radical activities, an[r]
-evacuation route was constructed beneath the Olympic Village, so goes the story.[pcms]
+Therefore, as one of the measures to protect athletes from[r]
+various anticipated situations including large-scale[r]
+demonstrations and radical activities, an evacuation route[r]
+was constructed beneath the Olympic Village, so goes the[r]
+story.[pcms]
 
 *4600|
 [fc]
@@ -320,25 +336,28 @@ This is--[pcms]
 
 *4601|
 [fc]
-"There are secret escape routes underground for government officials" "There are[r]
-underground shelters for high-ranking government officials"[pcms]
+"There are secret escape routes underground for government[r]
+officials" "There are underground shelters for high-ranking[r]
+government officials"[pcms]
 
 *4602|
 [fc]
-I heard from my father that this is the origin of the famous urban legend.[pcms]
+I heard from my father that this is the origin of the famous[r]
+urban legend.[pcms]
 
 *4603|
 [fc]
-The underground passage was said to be connected to DHK's broadcasting center[r]
-and the government complex as well.[pcms]
+The underground passage was said to be connected to DHK's[r]
+broadcasting center and the government complex as well.[pcms]
 
 ;//@konya ev025a 地下道（BG扱い）
 ;[evcg storage="EV025a"][trans_c cross time=300]
 
 *4604|
 [fc]
-An unused passage forgotten and only mentioned in urban legends... And it's[r]
-right here. Moreover, it's connected to our school as well.[pcms]
+An unused passage forgotten and only mentioned in urban[r]
+legends... And it's right here. Moreover, it's connected to[r]
+our school as well.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -346,8 +365,9 @@ right here. Moreover, it's connected to our school as well.[pcms]
 [fc]
 [vo_mar s="maru0562"]
 [ns]Margarita[nse]
-"If what I've heard is true, from here we can follow the passage and river and[r]
-should be able to emerge above ground."[pcms]
+"If what I've heard is true, from here we can follow the[r]
+passage and river and should be able to emerge above[r]
+ground."[pcms]
 
 *4606|
 [fc]
@@ -358,8 +378,9 @@ should be able to emerge above ground."[pcms]
 [fc]
 [vo_mar s="maru0563"]
 [ns]Margarita[nse]
-"Yes... However, since the passage hasn't been used for many years, there might[r]
-be places that have become impassable, and I don't have an accurate map."[pcms]
+"Yes... However, since the passage hasn't been used for many[r]
+years, there might be places that have become impassable,[r]
+and I don't have an accurate map."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -367,8 +388,8 @@ be places that have become impassable, and I don't have an accurate map."[pcms]
 [fc]
 [vo_mar s="maru0564"]
 [ns]Margarita[nse]
-"Besides, there's also a non-zero chance that those beast-like people have[r]
-gotten in..."[pcms]
+"Besides, there's also a non-zero chance that those beast-[r]
+like people have gotten in..."[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -388,14 +409,15 @@ gotten in..."[pcms]
 
 *4609|
 [fc]
-As we descended the stairs to the floor below, Senpai Margarita said. The light[r]
-from the flashlight shone on a red, rusted iron door.[pcms]
+As we descended the stairs to the floor below, Senpai[r]
+Margarita said. The light from the flashlight shone on a[r]
+red, rusted iron door.[pcms]
 
 *4610|
 [fc]
-The double doors had a rusty chain wrapped around the handle in the center, with[r]
-an iron pipe passed through it like a bolt. There doesn't seem to be anything[r]
-resembling a lock.[pcms]
+The double doors had a rusty chain wrapped around the handle[r]
+in the center, with an iron pipe passed through it like a[r]
+bolt. There doesn't seem to be anything resembling a lock.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -403,16 +425,17 @@ resembling a lock.[pcms]
 [fc]
 [vo_mar s="maru0565"]
 [ns]Margarita[nse]
-"This door is terribly rusted. It doesn't seem impossible to open, but we might[r]
-have to break it if necessary. Well, given its condition... if we're determined,[r]
-we could probably break it..."[pcms]
+"This door is terribly rusted. It doesn't seem impossible to[r]
+open, but we might have to break it if necessary. Well,[r]
+given its condition... if we're determined, we could[r]
+probably break it..."[pcms]
 
 *4612|
 [fc]
 [vo_mar s="maru0566"]
 [ns]Margarita[nse]
-"It seems safe here for now. You must be tired from all the running. Let's rest[r]
-here for a bit..."[pcms]
+"It seems safe here for now. You must be tired from all the[r]
+running. Let's rest here for a bit..."[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -431,13 +454,13 @@ here for a bit..."[pcms]
 
 *4614|
 [fc]
-The banging on the hatch increased, and it felt as if the hatch, the walls, were[r]
-creaking.[pcms]
+The banging on the hatch increased, and it felt as if the[r]
+hatch, the walls, were creaking.[pcms]
 
 *4615|
 [fc]
-At Senpai Margarita's words, I hurriedly pulled Ren up as I was about to let her[r]
-sit down.[pcms]
+At Senpai Margarita's words, I hurriedly pulled Ren up as I[r]
+was about to let her sit down.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -459,7 +482,8 @@ sit down.[pcms]
 
 *4617|
 [fc]
-Perhaps because of the sudden way I lifted her, Ren's face turned red.[pcms]
+Perhaps because of the sudden way I lifted her, Ren's face[r]
+turned red.[pcms]
 
 *4618|
 [fc]
@@ -467,8 +491,8 @@ It was unexpected, unlike what happened earlier.[pcms]
 
 *4619|
 [fc]
-Even if I am her brother, being hugged so frequently would surely make Ren[r]
-embarrassed.[pcms]
+Even if I am her brother, being hugged so frequently would[r]
+surely make Ren embarrassed.[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -498,8 +522,8 @@ embarrassed.[pcms]
 
 *4622|
 [fc]
-Ren's body was trembling. The sound of someone hitting the hatch grew louder and[r]
-echoed throughout the basement.[pcms]
+Ren's body was trembling. The sound of someone hitting the[r]
+hatch grew louder and echoed throughout the basement.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -517,8 +541,8 @@ Senpai murmured while looking at the hatch.[pcms]
 [fc]
 [vo_mar s="maru0569"]
 [ns]Margarita[nse]
-"That's an unpleasant sound. The door should hold, but it seems like the[r]
-surrounding concrete has deteriorated."[pcms]
+"That's an unpleasant sound. The door should hold, but it[r]
+seems like the surrounding concrete has deteriorated."[pcms]
 
 *4626|
 [fc]
@@ -531,9 +555,10 @@ surrounding concrete has deteriorated."[pcms]
 [fc]
 [vo_mar s="maru0570"]
 [ns]Margarita[nse]
-"I had heard that buildings constructed during the construction boom era often[r]
-used poor quality concrete with things like sea sand mixed in... This place[r]
-might be one of those."[pcms]
+"I had heard that buildings constructed during the[r]
+construction boom era often used poor quality concrete with[r]
+things like sea sand mixed in... This place might be one of[r]
+those."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -563,8 +588,8 @@ In contrast to Kousuke, Senpai remained completely calm.[pcms]
 
 *4632|
 [fc]
-Kousuke clenched his fist in frustration. But there was nowhere to direct his[r]
-anger.[pcms]
+Kousuke clenched his fist in frustration. But there was[r]
+nowhere to direct his anger.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -572,8 +597,9 @@ anger.[pcms]
 [fc]
 [vo_mar s="maru0572"]
 [ns]Margarita[nse]
-"Anyway, we can't afford to rest easy here. You might be tired, but we need to[r]
-keep moving. Use that energy of yours to overcome the obstacles ahead."[pcms]
+"Anyway, we can't afford to rest easy here. You might be[r]
+tired, but we need to keep moving. Use that energy of yours[r]
+to overcome the obstacles ahead."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 

@@ -49,7 +49,8 @@ As everyone's tension eased, Mizuki rushed over to Jin.[pcms]
 
 *1318|
 [fc]
-Yuuho patted Kousuke's arm, which was sulking discontentedly, with a light tap.[pcms]
+Yuuho patted Kousuke's arm, which was sulking[r]
+discontentedly, with a light tap.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -60,8 +61,8 @@ Yuuho patted Kousuke's arm, which was sulking discontentedly, with a light tap.[
 
 *1320|
 [fc]
-Maruko-senpai called out to Kousuke, who reluctantly eased his anger, with an[r]
-exasperated look.[pcms]
+Maruko-senpai called out to Kousuke, who reluctantly eased[r]
+his anger, with an exasperated look.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -69,14 +70,16 @@ exasperated look.[pcms]
 [fc]
 [vo_mar s="maru1456"]
 [ns]Margarita[nse]
-"But Kousuke, what were you planning to do if it really came to a shootout?"[pcms]
+"But Kousuke, what were you planning to do if it really came[r]
+to a shootout?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1322|
 [fc]
 [ns]Kousuke[nse]
-"What do you mean 'what'? Obviously, I'd have to do it, right?"[pcms]
+"What do you mean 'what'? Obviously, I'd have to do it,[r]
+right?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -99,7 +102,8 @@ Kousuke was at a loss for words, his mouth agape.[pcms]
 
 *1326|
 [fc]
-It seems he had forgotten... Our guns don't have any bullets in them.[pcms]
+It seems he had forgotten... Our guns don't have any bullets[r]
+in them.[pcms]
 
 *1327|
 [fc]
@@ -120,8 +124,9 @@ It seems he had forgotten... Our guns don't have any bullets in them.[pcms]
 
 *1330|
 [fc]
-Just as he tried to smile, his throat choked up. Whether it was from the tension[r]
-or from talking too much, his throat felt incredibly dry.[pcms]
+Just as he tried to smile, his throat choked up. Whether it[r]
+was from the tension or from talking too much, his throat[r]
+felt incredibly dry.[pcms]
 
 *1331|
 [fc]
@@ -142,11 +147,13 @@ or from talking too much, his throat felt incredibly dry.[pcms]
 [fc]
 [vo_yuh s="yuho1517"]
 [ns]Yuuho[nse]
-"Ah, I'll go too. It'd be nice if there's juice or something."[pcms]
+"Ah, I'll go too. It'd be nice if there's juice or[r]
+something."[pcms]
 
 *1334|
 [fc]
-Ren and Yuuho headed towards the kitchen, laughing together cheerfully.[pcms]
+Ren and Yuuho headed towards the kitchen, laughing together[r]
+cheerfully.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

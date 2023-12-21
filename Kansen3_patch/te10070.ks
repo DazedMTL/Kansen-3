@@ -54,17 +54,20 @@
 [fc]
 [vo_mar s="maru_TE0134"]
 [ns]Margarita[nse]
-"I never knew... there were so many stars. Amazing... so beautiful."[pcms]
+"I never knew... there were so many stars. Amazing... so[r]
+beautiful."[pcms]
 
 *355|
 [fc]
-Maruko-senpai's silhouette emerges softly against the backdrop of the starry[r]
-sky. Her flowing golden hair reflects the stars, shining brighter than usual.[pcms]
+Maruko-senpai's silhouette emerges softly against the[r]
+backdrop of the starry sky. Her flowing golden hair reflects[r]
+the stars, shining brighter than usual.[pcms]
 
 *356|
 [fc]
-My eyes, accustomed to the dark, saw a single tear reflecting the moonlight as[r]
-it rolled down Maruko-senpai's cheek.[pcms]
+My eyes, accustomed to the dark, saw a single tear[r]
+reflecting the moonlight as it rolled down Maruko-senpai's[r]
+cheek.[pcms]
 
 [evcg storage="EV015l"][trans_c cross time=300]
 
@@ -87,20 +90,21 @@ it rolled down Maruko-senpai's cheek.[pcms]
 [fc]
 [vo_mar s="maru_TE0136"]
 [ns]Margarita[nse]
-"...Hmph. Ayase... It reminds me of the starry sky I saw back in my hometown.[r]
-Lying next to my mother... saying it was just as beautiful. It's the same as[r]
-that starry sky from my memories with my mother..."[pcms]
+"...Hmph. Ayase... It reminds me of the starry sky I saw[r]
+back in my hometown. Lying next to my mother... saying it[r]
+was just as beautiful. It's the same as that starry sky from[r]
+my memories with my mother..."[pcms]
 
 *360|
 [fc]
-Maruko-senpai murmured with a tearful voice, taking out a blue marble and[r]
-holding it up to the moonlight. The blue marble I found and gave to Maruko-[r]
-senpai.[pcms]
+Maruko-senpai murmured with a tearful voice, taking out a[r]
+blue marble and holding it up to the moonlight. The blue[r]
+marble I found and gave to Maruko- senpai.[pcms]
 
 *361|
 [fc]
-The moon's light penetrated the marble, casting a faint and mysterious blue[r]
-glow.[pcms]
+The moon's light penetrated the marble, casting a faint and[r]
+mysterious blue glow.[pcms]
 
 [evcg storage="EV015m"][trans_c cross time=300]
 
@@ -108,9 +112,9 @@ glow.[pcms]
 [fc]
 [vo_mar s="maru_TE0137"]
 [ns]Margarita[nse]
-"This same marble, when I lost my mother, I... threw it away. I put it in her[r]
-coffin with her... At that time, I threw away all my memories and everything[r]
-along with it..."[pcms]
+"This same marble, when I lost my mother, I... threw it[r]
+away. I put it in her coffin with her... At that time, I[r]
+threw away all my memories and everything along with it..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -118,9 +122,10 @@ along with it..."[pcms]
 [fc]
 [vo_mar s="maru_TE0138"]
 [ns]Margarita[nse]
-"The marble from back then, I had actually lost it once when I was a child. But[r]
-a boy found it for me, and since then I've always cherished it. It was one of my[r]
-childhood treasures."[pcms]
+"The marble from back then, I had actually lost it once when[r]
+I was a child. But a boy found it for me, and since then[r]
+I've always cherished it. It was one of my childhood[r]
+treasures."[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -128,8 +133,9 @@ childhood treasures."[pcms]
 [fc]
 [vo_mar s="maru_TE0139"]
 [ns]Margarita[nse]
-"But when I lost my mother, I thought I didn't need treasures anymore. I thought[r]
-I had to break away from my childish self... So, I threw it away..."[pcms]
+"But when I lost my mother, I thought I didn't need[r]
+treasures anymore. I thought I had to break away from my[r]
+childish self... So, I threw it away..."[pcms]
 
 *365|
 [fc]
@@ -144,8 +150,9 @@ I had to break away from my childish self... So, I threw it away..."[pcms]
 [fc]
 [vo_mar s="maru_TE0140"]
 [ns]Margarita[nse]
-"But then, Ayase gave me another marble. It's as if my mother... was telling me[r]
-not to throw it away, that the child I was is why I am who I am today..."[pcms]
+"But then, Ayase gave me another marble. It's as if my[r]
+mother... was telling me not to throw it away, that the[r]
+child I was is why I am who I am today..."[pcms]
 
 [evcg storage="EV015j"][trans_c cross time=300]
 
@@ -153,8 +160,8 @@ not to throw it away, that the child I was is why I am who I am today..."[pcms]
 [fc]
 [vo_mar s="maru_TE0141"]
 [ns]Margarita[nse]
-"I felt like through Ayase, my mother was letting me reclaim what I shouldn't[r]
-have thrown away..."[pcms]
+"I felt like through Ayase, my mother was letting me reclaim[r]
+what I shouldn't have thrown away..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -162,8 +169,9 @@ have thrown away..."[pcms]
 [fc]
 [vo_mar s="maru_TE0142"]
 [ns]Margarita[nse]
-"Now, looking at this starry sky that's just as precious as my memories with my[r]
-mother, I'm certain... I wasn't wrong to feel that way."[pcms]
+"Now, looking at this starry sky that's just as precious as[r]
+my memories with my mother, I'm certain... I wasn't wrong to[r]
+feel that way."[pcms]
 
 *369|
 [fc]
@@ -178,12 +186,14 @@ mother, I'm certain... I wasn't wrong to feel that way."[pcms]
 [fc]
 [vo_mar s="maru_TE0143"]
 [ns]Margarita[nse]
-"Thank you, Ayase... I'll cherish this. You've helped me reclaim both my[r]
-memories with my mother and what I had cast aside. I'll always treasure it..."[pcms]
+"Thank you, Ayase... I'll cherish this. You've helped me[r]
+reclaim both my memories with my mother and what I had cast[r]
+aside. I'll always treasure it..."[pcms]
 
 *371|
 [fc]
-With slightly teary eyes, Maruko-senpai smiled and gazed at me...[pcms]
+With slightly teary eyes, Maruko-senpai smiled and gazed at[r]
+me...[pcms]
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
@@ -201,9 +211,10 @@ With slightly teary eyes, Maruko-senpai smiled and gazed at me...[pcms]
 
 *373|
 [fc]
-Without knowing who initiated it, Maruko-senpai and I brought our faces closer[r]
-and our lips met. It was like a scene straight out of a movie. I could feel[r]
-Marie's elastic lips.[pcms]
+Without knowing who initiated it, Maruko-senpai and I[r]
+brought our faces closer and our lips met. It was like a[r]
+scene straight out of a movie. I could feel Marie's elastic[r]
+lips.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -223,7 +234,8 @@ Marie's elastic lips.[pcms]
 
 *375|
 [fc]
-When our lips parted, Maruko-senpai looked back at me with an inquiring gaze.[pcms]
+When our lips parted, Maruko-senpai looked back at me with[r]
+an inquiring gaze.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -231,7 +243,8 @@ When our lips parted, Maruko-senpai looked back at me with an inquiring gaze.[pc
 [fc]
 [vo_mar s="maru_TE0146"]
 [ns]Margarita[nse]
-"...Ayase... is this okay? That... you have feelings for Yuuho..."[pcms]
+"...Ayase... is this okay? That... you have feelings for[r]
+Yuuho..."[pcms]
 
 *377|
 [fc]
@@ -241,14 +254,15 @@ When our lips parted, Maruko-senpai looked back at me with an inquiring gaze.[pc
 *378|
 [fc]
 [ns]Wataru[nse]
-"I used to think of you... like a princess from another star. So beautiful that[r]
-all I could do was admire you from afar."[pcms]
+"I used to think of you... like a princess from another[r]
+star. So beautiful that all I could do was admire you from[r]
+afar."[pcms]
 
 *379|
 [fc]
 [ns]Wataru[nse]
-"We had a few chances to talk. But even when we did talk, it didn't feel real.[r]
-It was like being in a dream."[pcms]
+"We had a few chances to talk. But even when we did talk, it[r]
+didn't feel real. It was like being in a dream."[pcms]
 
 [evcg storage="EV015k"][trans_c cross time=300]
 
@@ -261,34 +275,38 @@ It was like being in a dream."[pcms]
 *381|
 [fc]
 [ns]Wataru[nse]
-"No, that's really what I thought. A beautiful princess from a distant star...[r]
-someone to be admired from afar."[pcms]
+"No, that's really what I thought. A beautiful princess from[r]
+a distant star... someone to be admired from afar."[pcms]
 
 [evcg storage="EV015m"][trans_c cross time=300]
 
 *382|
 [fc]
 [ns]Wataru[nse]
-"But... no matter how it started, getting to know Marie better, talking and[r]
-living together... Marie's presence in my life became more and more real."[pcms]
+"But... no matter how it started, getting to know Marie[r]
+better, talking and living together... Marie's presence in[r]
+my life became more and more real."[pcms]
 
 *383|
 [fc]
 [ns]Wataru[nse]
-"Eventually... I started wanting more. Wanting to get closer, to be together...[r]
-It was a different kind of burning desire than what I felt for Yuuho."[pcms]
+"Eventually... I started wanting more. Wanting to get[r]
+closer, to be together... It was a different kind of burning[r]
+desire than what I felt for Yuuho."[pcms]
 
 *384|
 [fc]
 [ns]Wataru[nse]
-"Still, I didn't have the confidence to say anything... But now it's different.[r]
-Just now, when Marie showed me trust. When she understood me..."[pcms]
+"Still, I didn't have the confidence to say anything... But[r]
+now it's different. Just now, when Marie showed me trust.[r]
+When she understood me..."[pcms]
 
 *385|
 [fc]
 [ns]Wataru[nse]
-"...Marie, Margarita... I like you. I'm still unreliable, but I'll work hard to[r]
-be worthy of your trust. I want to walk into the future together with you."[pcms]
+"...Marie, Margarita... I like you. I'm still unreliable,[r]
+but I'll work hard to be worthy of your trust. I want to[r]
+walk into the future together with you."[pcms]
 
 [evcg storage="EV015i"][trans_c cross time=300]
 
@@ -298,8 +316,8 @@ be worthy of your trust. I want to walk into the future together with you."[pcms
 [fc]
 [vo_mar s="maru_TE0148"]
 [ns]Margarita[nse]
-"...Wataru. ...Yes... yes, thank you. I also want to walk together with[r]
-Wataru..."[pcms]
+"...Wataru. ...Yes... yes, thank you. I also want to walk[r]
+together with Wataru..."[pcms]
 
 ;//★_マルガリータと航のキスシーン（イベント画あり？）
 
@@ -315,8 +333,8 @@ Wataru..."[pcms]
 
 *388|
 [fc]
-Holding Marie as she hugged me, we kissed again. This time the kiss was a bit[r]
-more passionatea kiss savoring Marie.[pcms]
+Holding Marie as she hugged me, we kissed again. This time[r]
+the kiss was a bit more passionatea kiss savoring Marie.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -344,8 +362,9 @@ more passionatea kiss savoring Marie.[pcms]
 
 *390|
 [fc]
-Lights began to appear behind the blushing Marie. Looking around, lights were[r]
-coming back on in places like Celesta Tower and Mark City.[pcms]
+Lights began to appear behind the blushing Marie. Looking[r]
+around, lights were coming back on in places like Celesta[r]
+Tower and Mark City.[pcms]
 
 *391|
 [fc]
@@ -362,13 +381,15 @@ coming back on in places like Celesta Tower and Mark City.[pcms]
 
 *393|
 [fc]
-I looked up at the night sky again. The stars were still shining brightly. But[r]
-the beauty from before couldn't be felt anymore.[pcms]
+I looked up at the night sky again. The stars were still[r]
+shining brightly. But the beauty from before couldn't be[r]
+felt anymore.[pcms]
 
 *394|
 [fc]
-Taking the marble that Marie had been clutching in her hand and holding it up to[r]
-the moonlight while holding her hand. The mysterious glow of pale blue.[pcms]
+Taking the marble that Marie had been clutching in her hand[r]
+and holding it up to the moonlight while holding her hand.[r]
+The mysterious glow of pale blue.[pcms]
 
 *395|
 [fc]
@@ -385,9 +406,9 @@ the moonlight while holding her hand. The mysterious glow of pale blue.[pcms]
 
 *397|
 [fc]
-Taking Marie's hand that had turned red again, we began walking. A light that[r]
-rivaled the stars in the sky, one that captivated more than they didI had[r]
-obtained it...[pcms]
+Taking Marie's hand that had turned red again, we began[r]
+walking. A light that rivaled the stars in the sky, one that[r]
+captivated more than they didI had obtained it...[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -414,9 +435,10 @@ obtained it...[pcms]
 
 *399|
 [fc]
-Marie began undressing herself without warning. In a hurry, I also started[r]
-taking off my clothes. Once Marie finished undressing, she knelt before me and[r]
-took hold of my thing with her large breasts.[pcms]
+Marie began undressing herself without warning. In a hurry,[r]
+I also started taking off my clothes. Once Marie finished[r]
+undressing, she knelt before me and took hold of my thing[r]
+with her large breasts.[pcms]
 
 ;//〆HEV0650
 
@@ -444,8 +466,9 @@ took hold of my thing with her large breasts.[pcms]
 
 *402|
 [fc]
-I wondered if Marie wasn't inexperienced after all... Was she used to this?[r]
-Despite these thoughts, I entrusted everything to Marie.[pcms]
+I wondered if Marie wasn't inexperienced after all... Was[r]
+she used to this? Despite these thoughts, I entrusted[r]
+everything to Marie.[pcms]
 
 ;//Ｂ：ペニスを銜えるマル子
 [evcg storage="HEV061b"][trans_c cross time=300]
@@ -456,14 +479,15 @@ Despite these thoughts, I entrusted everything to Marie.[pcms]
 [fc]
 [vo_mar s="maru_TE0154"]
 [ns]Margarita[nse]
-"Mm--...eluuun...ju...jubu... Juru... mmchu... leruu... chunn... eluuun...[r]
-ryubu... jup..."[pcms]
+"Mm--...eluuun...ju...jubu... Juru... mmchu... leruu...[r]
+chunn... eluuun... ryubu... jup..."[pcms]
 
 *404|
 [fc]
-Her elastic breasts compressed my dick while she sucked it into her hot mouth,[r]
-and then she licked the ridge with the tip of her tongue. The fine movements of[r]
-her tongue made my dick even harder.[pcms]
+Her elastic breasts compressed my dick while she sucked it[r]
+into her hot mouth, and then she licked the ridge with the[r]
+tip of her tongue. The fine movements of her tongue made my[r]
+dick even harder.[pcms]
 
 *405|
 [fc]
@@ -489,14 +513,14 @@ her tongue made my dick even harder.[pcms]
 [fc]
 [vo_mar s="maru_TE0156"]
 [ns]Margarita[nse]
-"Is that so...? I'm glad... Nn... Amuu, jup, jubu... Nchu... Churure... Jujyu...[r]
-Nnn... Nchu..."[pcms]
+"Is that so...? I'm glad... Nn... Amuu, jup, jubu... Nchu...[r]
+Churure... Jujyu... Nnn... Nchu..."[pcms]
 
 *409|
 [fc]
-Marie's saliva coated my dick, and seeing that, she began to sway her breasts.[r]
-The improved lubrication made jerking off my dick while it was sandwiched[r]
-between them even better.[pcms]
+Marie's saliva coated my dick, and seeing that, she began to[r]
+sway her breasts. The improved lubrication made jerking off[r]
+my dick while it was sandwiched between them even better.[pcms]
 
 [evcg storage="HEV061c"][trans_c cross time=300]
 
@@ -506,13 +530,15 @@ between them even better.[pcms]
 [fc]
 [vo_mar s="maru_TE0157"]
 [ns]Margarita[nse]
-"Nchuuru... Jubu... Nchu... Amu... Reruchu... Jubo... Jup..."[pcms]
+"Nchuuru... Jubu... Nchu... Amu... Reruchu... Jubo...[r]
+Jup..."[pcms]
 
 *411|
 [fc]
-Marie shook her golden hair and moved her head back and forth while lifting her[r]
-breasts with her hands and vigorously jerking me off. My entire dick was[r]
-enveloped in hot, soft flesh...[pcms]
+Marie shook her golden hair and moved her head back and[r]
+forth while lifting her breasts with her hands and[r]
+vigorously jerking me off. My entire dick was enveloped in[r]
+hot, soft flesh...[pcms]
 
 *412|
 [fc]
@@ -537,7 +563,8 @@ enveloped in hot, soft flesh...[pcms]
 
 *414|
 [fc]
-I couldn't hold back and ended up ejaculating inside Marie's mouth in no time.[pcms]
+I couldn't hold back and ended up ejaculating inside Marie's[r]
+mouth in no time.[pcms]
 
 ;//〆Ｅ：飲み干すマル子
 [evcg storage="HEV061f"][trans_c cross time=300]
@@ -552,8 +579,8 @@ I couldn't hold back and ended up ejaculating inside Marie's mouth in no time.[p
 
 *416|
 [fc]
-Marie's white throat made a small sound, "nkun," as she opened her mouth and[r]
-looked up at me.[pcms]
+Marie's white throat made a small sound, "nkun," as she[r]
+opened her mouth and looked up at me.[pcms]
 
 ;//Ｆ：飲み終わったことを見せるマル子（Ｄの液無し）
 [evcg storage="HEV061g"][trans_c cross time=300]
@@ -564,12 +591,14 @@ looked up at me.[pcms]
 [fc]
 [vo_mar s="maru_TE0160"]
 [ns]Margarita[nse]
-"I've swallowed it all... Wataru's semen... It was delicious... Nfu..."[pcms]
+"I've swallowed it all... Wataru's semen... It was[r]
+delicious... Nfu..."[pcms]
 
 *418|
 [fc]
-The first blowjob and titjob from a girl I liked. She drank every last drop.[r]
-Even as I felt dizzy from the stimulation, I was moved.[pcms]
+The first blowjob and titjob from a girl I liked. She drank[r]
+every last drop. Even as I felt dizzy from the stimulation,[r]
+I was moved.[pcms]
 
 ;//♂_緒織としてもこのルートに来られるのか判断出来なかったので、
 ;//緒織としてもここにこられる場合は、最初の一文を消す事
@@ -581,7 +610,8 @@ Even as I felt dizzy from the stimulation, I was moved.[pcms]
 
 *419|
 [fc]
-Marie then moved away from me for a moment and folded down the sofa bed.[pcms]
+Marie then moved away from me for a moment and folded down[r]
+the sofa bed.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_m6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -602,19 +632,21 @@ I lay down on my back on the bed as Marie urged me to.[pcms]
 
 *422|
 [fc]
-Marie climbed on top of me, right above my hip bones. Her crotch pressed against[r]
-the area below my navel. Looking up at her, her hands were on her chest,[r]
-squeezing her breasts between them.[pcms]
+Marie climbed on top of me, right above my hip bones. Her[r]
+crotch pressed against the area below my navel. Looking up[r]
+at her, her hands were on her chest, squeezing her breasts[r]
+between them.[pcms]
 
 *423|
 [fc]
-Wataru and Marie locked eyes for a moment. Her cheeks were tinged with a[r]
-slightly flushed pink color. Her large, soft breasts rose and fell slowly.[pcms]
+Wataru and Marie locked eyes for a moment. Her cheeks were[r]
+tinged with a slightly flushed pink color. Her large, soft[r]
+breasts rose and fell slowly.[pcms]
 
 *424|
 [fc]
-The sight entering my eyes quickly revived my dick, and with that momentum, I[r]
-lightly spanked Marie's butt.[pcms]
+The sight entering my eyes quickly revived my dick, and with[r]
+that momentum, I lightly spanked Marie's butt.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -626,8 +658,8 @@ lightly spanked Marie's butt.[pcms]
 
 *426|
 [fc]
-Marie stroked my dick without looking back, making it even harder and more[r]
-erect.[pcms]
+Marie stroked my dick without looking back, making it even[r]
+harder and more erect.[pcms]
 
 [evcg storage="HEV044c"][trans_c cross time=300]
 
@@ -641,13 +673,14 @@ erect.[pcms]
 
 *428|
 [fc]
-Marie took my hands and pressed them against her breasts. Was it my imagination?[r]
-Her fingertips seemed to be trembling slightly...[pcms]
+Marie took my hands and pressed them against her breasts.[r]
+Was it my imagination? Her fingertips seemed to be trembling[r]
+slightly...[pcms]
 
 *429|
 [fc]
-I began to knead Marie's breasts slowly, as if confirming their elasticity and[r]
-softness.[pcms]
+I began to knead Marie's breasts slowly, as if confirming[r]
+their elasticity and softness.[pcms]
 
 [evcg storage="HEV044d"][trans_c cross time=300]
 
@@ -661,8 +694,9 @@ softness.[pcms]
 
 *431|
 [fc]
-They were soft and smooth, letting my hands feel their full weight. The pink[r]
-nipples at their peaks. I pinched them gently with my fingertips.[pcms]
+They were soft and smooth, letting my hands feel their full[r]
+weight. The pink nipples at their peaks. I pinched them[r]
+gently with my fingertips.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -670,13 +704,14 @@ nipples at their peaks. I pinched them gently with my fingertips.[pcms]
 [fc]
 [vo_mar s="maru_TE0165"]
 [ns]Margarita[nse]
-"Ahnahh... Fuanh... It feels good... Wataru, that feels... good..."[pcms]
+"Ahnahh... Fuanh... It feels good... Wataru, that feels...[r]
+good..."[pcms]
 
 *433|
 [fc]
-I pinched the now hard nipples even more with my fingertips, crushing them[r]
-slightly, while the rest of my fingers continued to softly knead her[r]
-increasingly firm breasts.[pcms]
+I pinched the now hard nipples even more with my fingertips,[r]
+crushing them slightly, while the rest of my fingers[r]
+continued to softly knead her increasingly firm breasts.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -688,9 +723,10 @@ increasingly firm breasts.[pcms]
 
 *435|
 [fc]
-Marie's hips moved slightly, and I felt a slickness where our skin was in[r]
-contact. At the same time, a sweet scent tickled my nose. My dick twitched in[r]
-response and spanked Marie again.[pcms]
+Marie's hips moved slightly, and I felt a slickness where[r]
+our skin was in contact. At the same time, a sweet scent[r]
+tickled my nose. My dick twitched in response and spanked[r]
+Marie again.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -698,14 +734,14 @@ response and spanked Marie again.[pcms]
 [fc]
 [vo_mar s="maru_TE0167"]
 [ns]Margarita[nse]
-"Ah! Aaah... It's twitching again... Wataru's... Nnhahaa... I'm getting wet...[r]
-Can you tell? Aaah. I feel so good..."[pcms]
+"Ah! Aaah... It's twitching again... Wataru's... Nnhahaa...[r]
+I'm getting wet... Can you tell? Aaah. I feel so good..."[pcms]
 
 *437|
 [fc]
-Marie's white skin turned peach-colored. She began to sweat slightly, increasing[r]
-the contact with my skin. Her breasts were stuck to my palms, and her crotch to[r]
-my hips![pcms]
+Marie's white skin turned peach-colored. She began to sweat[r]
+slightly, increasing the contact with my skin. Her breasts[r]
+were stuck to my palms, and her crotch to my hips![pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -713,8 +749,8 @@ my hips![pcms]
 [fc]
 [vo_mar s="maru_TE0168"]
 [ns]Margarita[nse]
-"Wataru... Do you want to insert it? Fuaahnn... I'm going to insert it... Is[r]
-that okay?"[pcms]
+"Wataru... Do you want to insert it? Fuaahnn... I'm going to[r]
+insert it... Is that okay?"[pcms]
 
 *439|
 [fc]
@@ -735,14 +771,15 @@ that okay?"[pcms]
 
 *441|
 [fc]
-Marie lifted her hips slightly, guided my dick with her hand, and pressed the[r]
-tip against her crotch. Instead of inserting it right away, she rubbed it[r]
-against herself.[pcms]
+Marie lifted her hips slightly, guided my dick with her[r]
+hand, and pressed the tip against her crotch. Instead of[r]
+inserting it right away, she rubbed it against herself.[pcms]
 
 *442|
 [fc]
-A warm, slippery fluid trickled down onto my dick. Breathing a bit heavily,[r]
-Marie finally allowed just the tip of my dick to enter her entrance.[pcms]
+A warm, slippery fluid trickled down onto my dick. Breathing[r]
+a bit heavily, Marie finally allowed just the tip of my dick[r]
+to enter her entrance.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -754,8 +791,9 @@ Marie finally allowed just the tip of my dick to enter her entrance.[pcms]
 
 *444|
 [fc]
-Just the entrance was already hot. My dick was buried just a little inside[r]
-Marie's entrance, both glistening wetly, which excited me even more.[pcms]
+Just the entrance was already hot. My dick was buried just a[r]
+little inside Marie's entrance, both glistening wetly, which[r]
+excited me even more.[pcms]
 
 *445|
 [fc]
@@ -774,7 +812,8 @@ Marie's entrance, both glistening wetly, which excited me even more.[pcms]
 
 *447|
 [fc]
-Marie sank her hips down hard. My dick was swallowed up by her in one go.[pcms]
+Marie sank her hips down hard. My dick was swallowed up by[r]
+her in one go.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -791,14 +830,14 @@ Marie sank her hips down hard. My dick was swallowed up by her in one go.[pcms]
 
 *450|
 [fc]
-My dick was tightly squeezed. The soft walls of flesh emitted heat as they[r]
-enveloped and pressed against me. The pleasure was so intense I almost[r]
-ejaculated.[pcms]
+My dick was tightly squeezed. The soft walls of flesh[r]
+emitted heat as they enveloped and pressed against me. The[r]
+pleasure was so intense I almost ejaculated.[pcms]
 
 *451|
 [fc]
-But not yet... I tensed my abdomen, gritted my teeth, bit my lip, and looked up[r]
-at Marie.[pcms]
+But not yet... I tensed my abdomen, gritted my teeth, bit my[r]
+lip, and looked up at Marie.[pcms]
 
 ;//〆Ｃ：告白（Ａのチンコ挿入差分）
 [evcg storage="HEV044d"][trans_c cross time=300]
@@ -810,8 +849,8 @@ at Marie.[pcms]
 
 *453|
 [fc]
-Marie's beautiful face furrowed with a vertical frown as she trembled, impaled[r]
-on my dick.[pcms]
+Marie's beautiful face furrowed with a vertical frown as she[r]
+trembled, impaled on my dick.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -819,13 +858,14 @@ on my dick.[pcms]
 [fc]
 [vo_mar s="maru_TE0173"]
 [ns]Margarita[nse]
-"Uhh... Nn. Kuu... Uhh... It's my first time... so, having it inside me this[r]
-deep... and it's so... hot and hard... I didn't expect it... Kuu..."[pcms]
+"Uhh... Nn. Kuu... Uhh... It's my first time... so, having[r]
+it inside me this deep... and it's so... hot and hard... I[r]
+didn't expect it... Kuu..."[pcms]
 
 *455|
 [fc]
-Could it be...! Marie was a virgin. But indeed, she was awkward. Her fingertips[r]
-were trembling slightly.[pcms]
+Could it be...! Marie was a virgin. But indeed, she was[r]
+awkward. Her fingertips were trembling slightly.[pcms]
 
 *456|
 [fc]
@@ -838,8 +878,8 @@ were trembling slightly.[pcms]
 [fc]
 [vo_mar s="maru_TE0174"]
 [ns]Margarita[nse]
-"I'm... okay. It's not that painful. I'm getting used to it... now. Don't[r]
-worry... about me."[pcms]
+"I'm... okay. It's not that painful. I'm getting used to[r]
+it... now. Don't worry... about me."[pcms]
 
 *458|
 [fc]
@@ -852,13 +892,14 @@ worry... about me."[pcms]
 [fc]
 [vo_mar s="maru_TE0175"]
 [ns]Margarita[nse]
-"Don't say things like 'me of all people', Wataru. I chose you... I'm happy.[r]
-Uh... I'm going to move now..."[pcms]
+"Don't say things like 'me of all people', Wataru. I chose[r]
+you... I'm happy. Uh... I'm going to move now..."[pcms]
 
 *460|
 [fc]
-Marie began to move her hips slowly. The vertical frown of pain between her[r]
-brows had not yet disappeared. Still, she started to move her hips slowly.[pcms]
+Marie began to move her hips slowly. The vertical frown of[r]
+pain between her brows had not yet disappeared. Still, she[r]
+started to move her hips slowly.[pcms]
 
 ;//〆Ｄ：快感
 [evcg storage="HEV044f"][trans_c cross time=300]
@@ -873,8 +914,9 @@ brows had not yet disappeared. Still, she started to move her hips slowly.[pcms]
 
 *462|
 [fc]
-I reached out and massaged Marie's breasts. The breasts she said felt good[r]
-earlier. I massaged them gently, hoping to alleviate some of her pain.[pcms]
+I reached out and massaged Marie's breasts. The breasts she[r]
+said felt good earlier. I massaged them gently, hoping to[r]
+alleviate some of her pain.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -882,8 +924,8 @@ earlier. I massaged them gently, hoping to alleviate some of her pain.[pcms]
 [fc]
 [vo_mar s="maru_TE0177"]
 [ns]Margarita[nse]
-"Fuaaah, my breasts... feel good... Nnaahh, itt... Aaah, fuaaahnnn, aaahhannn.[r]
-Wataru... you move too."[pcms]
+"Fuaaah, my breasts... feel good... Nnaahh, itt... Aaah,[r]
+fuaaahnnn, aaahhannn. Wataru... you move too."[pcms]
 
 *464|
 [fc]
@@ -892,8 +934,9 @@ Wataru... you move too."[pcms]
 
 *465|
 [fc]
-I was worried that it might hurt her more. But prompted by Marie, I thrust my[r]
-hips up from below, trying to match the movement of her hips.[pcms]
+I was worried that it might hurt her more. But prompted by[r]
+Marie, I thrust my hips up from below, trying to match the[r]
+movement of her hips.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -901,14 +944,14 @@ hips up from below, trying to match the movement of her hips.[pcms]
 [fc]
 [vo_mar s="maru_TE0178"]
 [ns]Margarita[nse]
-"Aaaaah! Amazing... it's so good! Inside... My vagina is hot... so hot! Wataru,[r]
-do you feel good too?"[pcms]
+"Aaaaah! Amazing... it's so good! Inside... My vagina is[r]
+hot... so hot! Wataru, do you feel good too?"[pcms]
 
 *467|
 [fc]
 [ns]Wataru[nse]
-"Yeah. Yeah. Inside you, it feels good. It's hot and tightens around me. It[r]
-feels amazing, Marie."[pcms]
+"Yeah. Yeah. Inside you, it feels good. It's hot and[r]
+tightens around me. It feels amazing, Marie."[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -916,8 +959,9 @@ feels amazing, Marie."[pcms]
 [fc]
 [vo_mar s="maru_TE0179"]
 [ns]Margarita[nse]
-"Aaaah, I'm glad... Aaah, Wataru's too... Aaahh! Rubbing inside my vagina...[r]
-rubbing... Aaah! It still hurts a bit, but it's hot and feels..."[pcms]
+"Aaaah, I'm glad... Aaah, Wataru's too... Aaahh! Rubbing[r]
+inside my vagina... rubbing... Aaah! It still hurts a bit,[r]
+but it's hot and feels..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -925,29 +969,31 @@ rubbing... Aaah! It still hurts a bit, but it's hot and feels..."[pcms]
 [fc]
 [vo_mar s="maru_TE0180"]
 [ns]Margarita[nse]
-"Wataru's is hot too... Aaah, it's starting to feel good... Kuuuhh ahh, ahhann[r]
-ahh ahh!"[pcms]
+"Wataru's is hot too... Aaah, it's starting to feel good...[r]
+Kuuuhh ahh, ahhann ahh ahh!"[pcms]
 
 *470|
 [fc]
-Marie's hips began to move faster. The walls of flesh writhed more than before,[r]
-squeezing my thing tightly, swirling around it, pulling it deeper and deeper.[pcms]
+Marie's hips began to move faster. The walls of flesh[r]
+writhed more than before, squeezing my thing tightly,[r]
+swirling around it, pulling it deeper and deeper.[pcms]
 
 *471|
 [fc]
-In front of me, golden hair leaped into the air. It was as beautiful as a comet[r]
-with a tail flying across the sky.[pcms]
+In front of me, golden hair leaped into the air. It was as[r]
+beautiful as a comet with a tail flying across the sky.[pcms]
 
 *472|
 [fc]
-The pale blue mysterious light that I had captured was the light of Marie[r]
-herself. It wasn't just light; it had a tail. A tail of golden light. Marie was[r]
-a comet.[pcms]
+The pale blue mysterious light that I had captured was the[r]
+light of Marie herself. It wasn't just light; it had a tail.[r]
+A tail of golden light. Marie was a comet.[pcms]
 
 *473|
 [fc]
-I didn't want to let go. I didn't want to release her. I wanted to engrave my[r]
-name, my heart into Marie. My thing swelled in response and thrust into Marie.[pcms]
+I didn't want to let go. I didn't want to release her. I[r]
+wanted to engrave my name, my heart into Marie. My thing[r]
+swelled in response and thrust into Marie.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -955,8 +1001,9 @@ name, my heart into Marie. My thing swelled in response and thrust into Marie.[p
 [fc]
 [vo_mar s="maru_TE0181"]
 [ns]Margarita[nse]
-"Aaaah, it feels good. It feels so good... Ahh, itt ahh! Wataru... your penis is[r]
-rubbing inside me ahhann ahh, it's good, rubbing, rubbing against me, ahh!"[pcms]
+"Aaaah, it feels good. It feels so good... Ahh, itt ahh![r]
+Wataru... your penis is rubbing inside me ahhann ahh, it's[r]
+good, rubbing, rubbing against me, ahh!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -964,12 +1011,13 @@ rubbing inside me ahhann ahh, it's good, rubbing, rubbing against me, ahh!"[pcms
 [fc]
 [vo_mar s="maru_TE0182"]
 [ns]Margarita[nse]
-"Fuaaaahh, ahhann ahh ahh, it's hot, amazing! Amazing! My vagina inside is ahh!"[pcms]
+"Fuaaaahh, ahhann ahh ahh, it's hot, amazing! Amazing! My[r]
+vagina inside is ahh!"[pcms]
 
 *476|
 [fc]
-Marie's hip movements were accelerating. I desperately moved my hips to match[r]
-hers, and the limit was already in sight.[pcms]
+Marie's hip movements were accelerating. I desperately moved[r]
+my hips to match hers, and the limit was already in sight.[pcms]
 
 *477|
 [fc]
@@ -982,8 +1030,8 @@ hers, and the limit was already in sight.[pcms]
 [fc]
 [vo_mar s="maru_TE0183"]
 [ns]Margarita[nse]
-"Inside... Wataru, you can release inside my vagina... It's okay to do it...[r]
-Ahh, release it... inside me, ahhh!"[pcms]
+"Inside... Wataru, you can release inside my vagina... It's[r]
+okay to do it... Ahh, release it... inside me, ahhh!"[pcms]
 
 *479|
 [fc]
@@ -996,13 +1044,15 @@ Ahh, release it... inside me, ahhh!"[pcms]
 [fc]
 [vo_mar s="maru_TE0184"]
 [ns]Margarita[nse]
-"It's okay. Wataru... I want to feel you to the end, inside me... Ahhannn,... do[r]
-it release inside me, fill me up, fill me up!"[pcms]
+"It's okay. Wataru... I want to feel you to the end, inside[r]
+me... Ahhannn,... do it release inside me, fill me up, fill[r]
+me up!"[pcms]
 
 *481|
 [fc]
 [ns]Wataru[nse]
-"Ugh, I'm releasing. It's coming out, Marie, here it comes, ugh ahh!!"[pcms]
+"Ugh, I'm releasing. It's coming out, Marie, here it comes,[r]
+ugh ahh!!"[pcms]
 
 ;//〆Ｅ：射精
 
@@ -1018,7 +1068,8 @@ it release inside me, fill me up, fill me up!"[pcms]
 [fc]
 [vo_mar s="maru_TE0185"]
 [ns]Margarita[nse]
-"Aaaaaaaaah!! It's coming out, the hot stuff is coming out inside my vagina!"[pcms]
+"Aaaaaaaaah!! It's coming out, the hot stuff is coming out[r]
+inside my vagina!"[pcms]
 
 *483|
 [fc]
@@ -1027,9 +1078,9 @@ it release inside me, fill me up, fill me up!"[pcms]
 
 *484|
 [fc]
-As prompted by Marie, I ejaculated inside her. Inside my beloved Marie. Her[r]
-insides writhed and continued to squeeze tightly as if trying to milk every last[r]
-drop from me.[pcms]
+As prompted by Marie, I ejaculated inside her. Inside my[r]
+beloved Marie. Her insides writhed and continued to squeeze[r]
+tightly as if trying to milk every last drop from me.[pcms]
 
 
 ;システムボタン＆ウィンドウ消去
@@ -1053,8 +1104,8 @@ drop from me.[pcms]
 
 *486|
 [fc]
-As her breathing settled down, Marie said that and lifted her hips. With a[r]
-slurping sound, my thing slipped out.[pcms]
+As her breathing settled down, Marie said that and lifted[r]
+her hips. With a slurping sound, my thing slipped out.[pcms]
 
 ;//〆HEV060
 
@@ -1080,12 +1131,14 @@ slurping sound, my thing slipped out.[pcms]
 [fc]
 [vo_mar s="maru_TE0188"]
 [ns]Margarita[nse]
-"Nnn? Nguh... Nchuu... Jyujyu... Nguhnn chuu... Leroo... Eruuunn..."[pcms]
+"Nnn? Nguh... Nchuu... Jyujyu... Nguhnn chuu... Leroo...[r]
+Eruuunn..."[pcms]
 
 *490|
 [fc]
-Marie was licking my thing as if cleaning it off. She gently inserted her tongue[r]
-tip at the tip of my thing and sucked up the remaining semen as if milking it.[pcms]
+Marie was licking my thing as if cleaning it off. She gently[r]
+inserted her tongue tip at the tip of my thing and sucked up[r]
+the remaining semen as if milking it.[pcms]
 
 *491|
 [fc]
@@ -1099,13 +1152,13 @@ The stimulation made my thing regain its hardness.[pcms]
 [fc]
 [vo_mar s="maru_TE0189"]
 [ns]Margarita[nse]
-"Njuu... Nguh. Nhaahh... Nn. It's getting hard again. It's hot. Wataru... Will[r]
-you pamper me more?"[pcms]
+"Njuu... Nguh. Nhaahh... Nn. It's getting hard again. It's[r]
+hot. Wataru... Will you pamper me more?"[pcms]
 
 *493|
 [fc]
-Marie's eyes were moist and she looked up at me with a dazed expression. I[r]
-immediately answered.[pcms]
+Marie's eyes were moist and she looked up at me with a dazed[r]
+expression. I immediately answered.[pcms]
 
 *494|
 [fc]
@@ -1130,17 +1183,20 @@ immediately answered.[pcms]
 [fc]
 [vo_mar s="maru_TE0190"]
 [ns]Margarita[nse]
-"Aaaahh, that's good. Wataru... Aaaahh fuaaahnn ahann, aaahh that feels good!!"[pcms]
+"Aaaahh, that's good. Wataru... Aaaahh fuaaahnn ahann, aaahh[r]
+that feels good!!"[pcms]
 
 *496|
 [fc]
-We made love many times after that. The pain of Marie's defloration eventually[r]
-faded away and she surrendered herself to pleasure, continuously seeking me.[pcms]
+We made love many times after that. The pain of Marie's[r]
+defloration eventually faded away and she surrendered[r]
+herself to pleasure, continuously seeking me.[pcms]
 
 *497|
 [fc]
-I was delighted by Marie's desire for me and kept thrusting my hips fiercely[r]
-into her again and again, continuously filling her with my semen.[pcms]
+I was delighted by Marie's desire for me and kept thrusting[r]
+my hips fiercely into her again and again, continuously[r]
+filling her with my semen.[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1148,8 +1204,9 @@ into her again and again, continuously filling her with my semen.[pcms]
 [fc]
 [vo_mar s="maru_TE0191"]
 [ns]Margarita[nse]
-"Aaaahh, that's good. Wataru... I'm going crazy. I'm going crazy... Fuaaaahh![r]
-It's hot, my vagina is melting... melting away... Ahh!"[pcms]
+"Aaaahh, that's good. Wataru... I'm going crazy. I'm going[r]
+crazy... Fuaaaahh! It's hot, my vagina is melting... melting[r]
+away... Ahh!"[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1157,8 +1214,9 @@ It's hot, my vagina is melting... melting away... Ahh!"[pcms]
 [fc]
 [vo_mar s="maru_TE0192"]
 [ns]Margarita[nse]
-"It's strange... Aaah Wataru, I'm going to come? Am I coming? No, no more, I[r]
-can't hold back anymore! I'm comingggg aaaaaaaaah!"[pcms]
+"It's strange... Aaah Wataru, I'm going to come? Am I[r]
+coming? No, no more, I can't hold back anymore! I'm[r]
+comingggg aaaaaaaaah!"[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV051g"]
@@ -1204,7 +1262,8 @@ can't hold back anymore! I'm comingggg aaaaaaaaah!"[pcms]
 [fc]
 [vo_mar s="maru_TE0194"]
 [ns]Margarita[nse]
-"Yeah... It's my first time feeling this kind of happy exhaustion..."[pcms]
+"Yeah... It's my first time feeling this kind of happy[r]
+exhaustion..."[pcms]
 
 *504|
 [fc]
@@ -1228,19 +1287,21 @@ can't hold back anymore! I'm comingggg aaaaaaaaah!"[pcms]
 
 *507|
 [fc]
-I hugged Marie. Marie hugged me back... Her body was soft and comfortable. Her[r]
-fluffy golden hair fell over me.[pcms]
+I hugged Marie. Marie hugged me back... Her body was soft[r]
+and comfortable. Her fluffy golden hair fell over me.[pcms]
 
 *508|
 [fc]
-The golden light spread across my vision. A faint, mysterious blue light. More[r]
-precious than the stars shining in the sky, it was the light of Marie herself[r]
-that I had obtained tonight.[pcms]
+The golden light spread across my vision. A faint,[r]
+mysterious blue light. More precious than the stars shining[r]
+in the sky, it was the light of Marie herself that I had[r]
+obtained tonight.[pcms]
 
 *509|
 [fc]
-It wasn't just a light; it was a comet. A pale blue comet with a golden tail. A[r]
-comet that could bear my name, my very own comet...[pcms]
+It wasn't just a light; it was a comet. A pale blue comet[r]
+with a golden tail. A comet that could bear my name, my very[r]
+own comet...[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1275,18 +1336,20 @@ comet that could bear my name, my very own comet...[pcms]
 
 *510|
 [fc]
-Suddenly, I woke up. It still seemed to be the middle of the night... When I[r]
-reached out with my hand, Marie wasn't there.[pcms]
+Suddenly, I woke up. It still seemed to be the middle of the[r]
+night... When I reached out with my hand, Marie wasn't[r]
+there.[pcms]
 
 *511|
 [fc]
-I was a bit panicked, but the lingering scent of Marie calmed me down. It wasn't[r]
-a dream.[pcms]
+I was a bit panicked, but the lingering scent of Marie[r]
+calmed me down. It wasn't a dream.[pcms]
 
 *512|
 [fc]
-I wondered if she had gone to take a shower... or something else. While thinking[r]
-about that, I was once again drawn into the well of sleep.[pcms]
+I wondered if she had gone to take a shower... or something[r]
+else. While thinking about that, I was once again drawn into[r]
+the well of sleep.[pcms]
 
 ;mm
 ;システムボタン＆ウィンドウ消去

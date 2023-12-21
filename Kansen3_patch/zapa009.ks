@@ -19,31 +19,35 @@
 
 *1636|
 [fc]
-Wait, calm down, me... Indeed, the height isn't much, but whether jumping down[r]
-is really the best move is another question.[pcms]
+Wait, calm down, me... Indeed, the height isn't much, but[r]
+whether jumping down is really the best move is another[r]
+question.[pcms]
 
 *1637|
 [fc]
-Even if it's not a fatal injury, getting hurt in this state would be desperate.[r]
-If I can't manage to escape afterwards, it's as good as being caught.[pcms]
+Even if it's not a fatal injury, getting hurt in this state[r]
+would be desperate. If I can't manage to escape afterwards,[r]
+it's as good as being caught.[pcms]
 
 *1638|
 [fc]
-Especially if I hurt my legs, that would be the end of it... Let's calm down and[r]
-check the surroundings once more.[pcms]
+Especially if I hurt my legs, that would be the end of it...[r]
+Let's calm down and check the surroundings once more.[pcms]
 
 *1639|
 [fc]
-There's no doubt the situation is dire, but I can't afford to lose my cool.[pcms]
+There's no doubt the situation is dire, but I can't afford[r]
+to lose my cool.[pcms]
 
 *1640|
 [fc]
-I took a few deep breaths and then checked again for a proper escape route.[pcms]
+I took a few deep breaths and then checked again for a[r]
+proper escape route.[pcms]
 
 *1641|
 [fc]
-Then, through the window of the catwalk, a part of the triangular roof of the[r]
-corridor came into view.[pcms]
+Then, through the window of the catwalk, a part of the[r]
+triangular roof of the corridor came into view.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 

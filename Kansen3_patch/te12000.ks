@@ -72,12 +72,14 @@
 
 *1332|
 [fc]
-"During the civil war in Matinia, I've seen situations like this many times."[pcms]
+"During the civil war in Matinia, I've seen situations like[r]
+this many times."[pcms]
 
 *1333|
 [fc]
-"Honestly, there's nothing I can do. But I can't let Wataru and the others see[r]
-this. Besides, it's too lonely for someone to die alone."[pcms]
+"Honestly, there's nothing I can do. But I can't let Wataru[r]
+and the others see this. Besides, it's too lonely for[r]
+someone to die alone."[pcms]
 
 *1334|
 [fc]
@@ -87,16 +89,18 @@ this. Besides, it's too lonely for someone to die alone."[pcms]
 
 *1335|
 [fc]
-As Sesuka, who was tending to Jin's wounds, noticed me and turned around, she[r]
-must have realized that this man couldn't be saved. She averted her eyes from[r]
-me, shook her head, and then cast her gaze down to the floor.[pcms]
+As Sesuka, who was tending to Jin's wounds, noticed me and[r]
+turned around, she must have realized that this man couldn't[r]
+be saved. She averted her eyes from me, shook her head, and[r]
+then cast her gaze down to the floor.[pcms]
 
 *1336|
 [fc]
 [vo_mar s="maru_TE0287"]
 [ns]Margarita[nse]
-"Sesuka, that's enough here. Can you look after Wataru and the others? Could you[r]
-get me a first aid kit, just in case...?"[pcms]
+"Sesuka, that's enough here. Can you look after Wataru and[r]
+the others? Could you get me a first aid kit, just in[r]
+case...?"[pcms]
 
 *1337|
 [fc]
@@ -106,8 +110,9 @@ get me a first aid kit, just in case...?"[pcms]
 
 *1338|
 [fc]
-After handing over the syringe and gauze she was holding, Sesuka bowed and ran[r]
-off in the direction where Wataru and the others were.[pcms]
+After handing over the syringe and gauze she was holding,[r]
+Sesuka bowed and ran off in the direction where Wataru and[r]
+the others were.[pcms]
 
 *1339|
 [fc]
@@ -117,16 +122,16 @@ off in the direction where Wataru and the others were.[pcms]
 
 *1340|
 [fc]
-With sweat on his brow and his eyes closed, I spoke to Jin, hoping to at least[r]
-alleviate his pain.[pcms]
+With sweat on his brow and his eyes closed, I spoke to Jin,[r]
+hoping to at least alleviate his pain.[pcms]
 
 [evcg storage="EV021a"][trans_c cross time=500]
 
 *1341|
 [fc]
 [ns]Jin[nse]
-"I figured it would come to something like this... My death is just as[r]
-pathetic."[pcms]
+"I figured it would come to something like this... My death[r]
+is just as pathetic."[pcms]
 
 *1342|
 [fc]
@@ -136,14 +141,16 @@ pathetic."[pcms]
 
 *1343|
 [fc]
-Whether he couldn't hear my voice or was pretending not to, Jin continued to[r]
-speak slowly without heeding my plea to stop.[pcms]
+Whether he couldn't hear my voice or was pretending not to,[r]
+Jin continued to speak slowly without heeding my plea to[r]
+stop.[pcms]
 
 *1344|
 [fc]
 [ns]Jin[nse]
-"The kids... As Wataru said, I'm the one who caused this situation. The[r]
-responsibility is mine. After all, I'm someone who shouldn't be alive..."[pcms]
+"The kids... As Wataru said, I'm the one who caused this[r]
+situation. The responsibility is mine. After all, I'm[r]
+someone who shouldn't be alive..."[pcms]
 
 *1345|
 [fc]
@@ -154,22 +161,23 @@ responsibility is mine. After all, I'm someone who shouldn't be alive..."[pcms]
 *1346|
 [fc]
 [ns]Jin[nse]
-"Heh... Trying to sound cool... But I'm not at peace with it. I thought I was[r]
-ready to die at any time, but when it comes down to it... I don't want to[r]
-die..."[pcms]
+"Heh... Trying to sound cool... But I'm not at peace with[r]
+it. I thought I was ready to die at any time, but when it[r]
+comes down to it... I don't want to die..."[pcms]
 
 [evcg storage="EV021b"][trans_c cross time=500]
 
 *1347|
 [fc]
 [ns]Jin[nse]
-"Finally... Finally free from all the troublesome things. Freed from all the[r]
-shackles, I might have been able to live a decent life..."[pcms]
+"Finally... Finally free from all the troublesome things.[r]
+Freed from all the shackles, I might have been able to live[r]
+a decent life..."[pcms]
 
 *1348|
 [fc]
-With a feeble voice, as if talking to himself about things that didn't suit him,[r]
-Jin's hand fumbled at his chest.[pcms]
+With a feeble voice, as if talking to himself about things[r]
+that didn't suit him, Jin's hand fumbled at his chest.[pcms]
 
 *1349|
 [fc]
@@ -185,13 +193,14 @@ Jin's hand fumbled at his chest.[pcms]
 *1351|
 [fc]
 [ns]Jin[nse]
-"You know the accessory I was wearing. There was a pendant in it... The one with[r]
-nothing attached to the setting."[pcms]
+"You know the accessory I was wearing. There was a pendant[r]
+in it... The one with nothing attached to the setting."[pcms]
 
 *1352|
 [fc]
-I found the pendant Jin was talking about among the accessories placed beside[r]
-him. Indeed, there was nothing attached to its setting.[pcms]
+I found the pendant Jin was talking about among the[r]
+accessories placed beside him. Indeed, there was nothing[r]
+attached to its setting.[pcms]
 
 *1353|
 [fc]
@@ -204,8 +213,9 @@ him. Indeed, there was nothing attached to its setting.[pcms]
 *1354|
 [fc]
 [ns]Jin[nse]
-"Yeah... It's nothing special... But it had an amulet in it that I got from my[r]
-deceased grandfather... I lost it soon after coming here."[pcms]
+"Yeah... It's nothing special... But it had an amulet in it[r]
+that I got from my deceased grandfather... I lost it soon[r]
+after coming here."[pcms]
 
 *1355|
 [fc]
@@ -231,35 +241,39 @@ deceased grandfather... I lost it soon after coming here."[pcms]
 [fc]
 [vo_mar s="maru_TE0294"]
 [ns]Margarita[nse]
-"If it's a blue glass bead, I have one too... Could it be something like this?"[pcms]
+"If it's a blue glass bead, I have one too... Could it be[r]
+something like this?"[pcms]
 
 [evcg storage="EV021f"][trans_c cross time=500]
 
 *1359|
 [fc]
-Barely opening his eyes, Jin looked at the marble I offered and smiled slightly.[pcms]
+Barely opening his eyes, Jin looked at the marble I offered[r]
+and smiled slightly.[pcms]
 
 *1360|
 [fc]
 [ns]Jin[nse]
-"My glass bead was a Ramune marble given to me by my grandfather who ran a candy[r]
-store. Sometimes there are defective marbles mixed in... Occasionally, there are[r]
-some with really beautiful colors... That's what he gave me."[pcms]
+"My glass bead was a Ramune marble given to me by my[r]
+grandfather who ran a candy store. Sometimes there are[r]
+defective marbles mixed in... Occasionally, there are some[r]
+with really beautiful colors... That's what he gave me."[pcms]
 
 *1361|
 [fc]
 [ns]Jin[nse]
-"When you lose it... nothing good happens... This one is the second one... The[r]
-first one... When I was a kid, my grandfather told me to give it to a girl, so I[r]
-did."[pcms]
+"When you lose it... nothing good happens... This one is the[r]
+second one... The first one... When I was a kid, my[r]
+grandfather told me to give it to a girl, so I did."[pcms]
 
 [evcg storage="EV021b"][trans_c cross time=500]
 
 *1362|
 [fc]
 [ns]Jin[nse]
-"Then right after that, my father's company went bankrupt and I got involved in[r]
-this world... the underworld. Before I knew it, I had become such a scumbag."[pcms]
+"Then right after that, my father's company went bankrupt[r]
+and I got involved in this world... the underworld. Before I[r]
+knew it, I had become such a scumbag."[pcms]
 
 *1363|
 [fc]
@@ -269,25 +283,26 @@ this world... the underworld. Before I knew it, I had become such a scumbag."[pc
 
 *1364|
 [fc]
-Jin's blood was draining away, and his limbs were starting to twitch lightly. A[r]
-normal person wouldn't be able to talk like this now.[pcms]
+Jin's blood was draining away, and his limbs were starting[r]
+to twitch lightly. A normal person wouldn't be able to talk[r]
+like this now.[pcms]
 
 *1365|
 [fc]
-But Jin seemed to have something he desperately wanted to convey. I felt that I[r]
-had to listen, and although I felt sorry for him, I couldn't stop him from[r]
-speaking.[pcms]
+But Jin seemed to have something he desperately wanted to[r]
+convey. I felt that I had to listen, and although I felt[r]
+sorry for him, I couldn't stop him from speaking.[pcms]
 
 *1366|
 [fc]
 [ns]Jin[nse]
-"...A foreigner, huh? Blonde with beautiful eyes like the marble... She looked[r]
-like a doll..."[pcms]
+"...A foreigner, huh? Blonde with beautiful eyes like the[r]
+marble... She looked like a doll..."[pcms]
 
 *1367|
 [fc]
-I had never seen such a gentle expression on Jin's face as he looked at me. I[r]
-understood what he wanted to say.[pcms]
+I had never seen such a gentle expression on Jin's face as[r]
+he looked at me. I understood what he wanted to say.[pcms]
 
 *1368|
 [fc]
@@ -295,26 +310,29 @@ Probably, that foreign girl... was me.[pcms]
 
 *1369|
 [fc]
-With Jin's best attempt at a smile, I smiled back just as warmly.[pcms]
+With Jin's best attempt at a smile, I smiled back just as[r]
+warmly.[pcms]
 
 *1370|
 [fc]
 [vo_mar s="maru_TE0296"]
 [ns]Margarita[nse]
-"I thought I had lost that marble at a shrine and that a boy had found it for[r]
-me..."[pcms]
+"I thought I had lost that marble at a shrine and that a boy[r]
+had found it for me..."[pcms]
 
 *1371|
 [fc]
 [ns]Jin[nse]
-"At that time, my grandfather and I happened to be there and helped look for[r]
-it... The marble you lost... my grandfather gave it to you..."[pcms]
+"At that time, my grandfather and I happened to be there and[r]
+helped look for it... The marble you lost... my grandfather[r]
+gave it to you..."[pcms]
 
 *1372|
 [fc]
 [ns]Jin[nse]
-"I found your lost marble. It had cracked when it hit a stone as it fell... So I[r]
-gave you my unblemished marble instead."[pcms]
+"I found your lost marble. It had cracked when it hit a[r]
+stone as it fell... So I gave you my unblemished marble[r]
+instead."[pcms]
 
 [evcg storage="EV021f"][trans_c cross time=500]
 
@@ -324,17 +342,19 @@ There was a discrepancy in my memory.[pcms]
 
 *1374|
 [fc]
-The boy had searched for the marble and handed it over to me.[pcms]
+The boy had searched for the marble and handed it over to[r]
+me.[pcms]
 
 *1375|
 [fc]
-That boy was Jin, who is now on the verge of death before me. And because the[r]
-marble he found for me was damaged, he gave me his own precious "treasure."[pcms]
+That boy was Jin, who is now on the verge of death before[r]
+me. And because the marble he found for me was damaged, he[r]
+gave me his own precious "treasure."[pcms]
 
 *1376|
 [fc]
-If I hadn't met Jin. If Jin hadn't spoken to me. The truth would have remained[r]
-unknown.[pcms]
+If I hadn't met Jin. If Jin hadn't spoken to me. The truth[r]
+would have remained unknown.[pcms]
 
 [evcg storage="EV021b"][trans_c cross time=500]
 
@@ -342,17 +362,17 @@ unknown.[pcms]
 [fc]
 [vo_mar s="maru_TE0297"]
 [ns]Margarita[nse]
-"...This marble is also an amulet and a treasure to me. I thought it was mine...[r]
-but since it was given by Jin, when my mother passed away, I buried it with her.[r]
-I'm sorry."[pcms]
+"...This marble is also an amulet and a treasure to me. I[r]
+thought it was mine... but since it was given by Jin, when[r]
+my mother passed away, I buried it with her. I'm sorry."[pcms]
 
 [evcg storage="EV021a"][trans_c cross time=500]
 
 *1378|
 [fc]
 [ns]Jin[nse]
-"...I'm not asking for it back... It's yours again... Just don't... lose it[r]
-again..."[pcms]
+"...I'm not asking for it back... It's yours again... Just[r]
+don't... lose it again..."[pcms]
 
 *1379|
 [fc]
@@ -363,27 +383,30 @@ again..."[pcms]
 
 *1380|
 [fc]
-Feeling tears welling up unexpectedly, all I could respond with were those words[r]
-to Jin's statement.[pcms]
+Feeling tears welling up unexpectedly, all I could respond[r]
+with were those words to Jin's statement.[pcms]
 
 *1381|
 [fc]
 [ns]Jin[nse]
-"Life here was... truly good... I never wanted to live in a big house or...[r]
-drive a fancy car... Good food, good drink, good music..."[pcms]
+"Life here was... truly good... I never wanted to live in a[r]
+big house or... drive a fancy car... Good food, good drink,[r]
+good music..."[pcms]
 
 *1382|
 [fc]
 [ns]Jin[nse]
-"All I needed was... like-minded companions... and that was enough for me...[r]
-Almost everything was here... it was the best..."[pcms]
+"All I needed was... like-minded companions... and that was[r]
+enough for me... Almost everything was here... it was the[r]
+best..."[pcms]
 
 *1383|
 [fc]
 [ns]Jin[nse]
-"Getting hooked on that kind of work, I thought I'd never get what I wanted in[r]
-life all at once... If only I had a little more time... I might have made some[r]
-'like-minded companions'..."[pcms]
+"Getting hooked on that kind of work, I thought I'd never[r]
+get what I wanted in life all at once... If only I had a[r]
+little more time... I might have made some 'like-minded[r]
+companions'..."[pcms]
 
 *1384|
 [fc]
@@ -417,8 +440,9 @@ Jin's hand, which was resting on my chest, slowly slips off.[pcms]
 
 *1390|
 [fc]
-Gently gripping Jin's hand, I muster the brightest smile I can and gaze into his[r]
-eyes that are on the verge of falling asleep.[pcms]
+Gently gripping Jin's hand, I muster the brightest smile I[r]
+can and gaze into his eyes that are on the verge of falling[r]
+asleep.[pcms]
 
 *1391|
 [fc]
@@ -431,21 +455,22 @@ eyes that are on the verge of falling asleep.[pcms]
 *1392|
 [fc]
 [ns]Jin[nse]
-"Heh... but man, this morphine is no good... It's got me all loopy... my mouth[r]
-is moving... moving... I'm going to sleep now... but that kid..."[pcms]
+"Heh... but man, this morphine is no good... It's got me all[r]
+loopy... my mouth is moving... moving... I'm going to sleep[r]
+now... but that kid..."[pcms]
 
 [evcg storage="EV021e"][trans_c cross time=1000]
 
 *1393|
 [fc]
 [ns]Jin[nse]
-"Please pass on a message to Wataru for me... tell him to stay strong...[r]
-alright? So long..."[pcms]
+"Please pass on a message to Wataru for me... tell him to[r]
+stay strong... alright? So long..."[pcms]
 
 *1394|
 [fc]
-The strength fades from our clasped hands. The eyes that were smiling at me[r]
-slowly close.[pcms]
+The strength fades from our clasped hands. The eyes that[r]
+were smiling at me slowly close.[pcms]
 
 *1395|
 [fc]

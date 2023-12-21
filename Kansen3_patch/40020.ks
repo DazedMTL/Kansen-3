@@ -29,8 +29,8 @@ Ren clings to the arms that are holding her.[pcms]
 
 *74|
 [fc]
-Perhaps unable to endure the continuous tension and fear, her whole body is[r]
-trembling.[pcms]
+Perhaps unable to endure the continuous tension and fear,[r]
+her whole body is trembling.[pcms]
 
 *75|
 [fc]
@@ -39,8 +39,8 @@ trembling.[pcms]
 
 *76|
 [fc]
-Not even sure what's okay, I tightly hug Ren's slender body and stroke her head[r]
-repeatedly.[pcms]
+Not even sure what's okay, I tightly hug Ren's slender body[r]
+and stroke her head repeatedly.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -52,8 +52,9 @@ repeatedly.[pcms]
 
 *78|
 [fc]
-For a moment, Ren stiffened as if confused, but then she pressed her forehead[r]
-against my chest and leaned her weight on me.[pcms]
+For a moment, Ren stiffened as if confused, but then she[r]
+pressed her forehead against my chest and leaned her weight[r]
+on me.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -78,8 +79,8 @@ against my chest and leaned her weight on me.[pcms]
 
 *82|
 [fc]
-Until Ren's trembling stopped, I kept stroking her head and repeating "It's[r]
-going to be okay."[pcms]
+Until Ren's trembling stopped, I kept stroking her head and[r]
+repeating "It's going to be okay."[pcms]
 
  [eval exp="f.l_ren_point = f.l_ren_point + 1"]
 

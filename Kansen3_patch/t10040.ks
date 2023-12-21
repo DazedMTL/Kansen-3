@@ -34,8 +34,8 @@
 
 *5626|
 [fc]
-The escalator going up from the 4th floor. But there's no sign of it on the 5th[r]
-floor, it's a bit of a mystery.[pcms]
+The escalator going up from the 4th floor. But there's no[r]
+sign of it on the 5th floor, it's a bit of a mystery.[pcms]
 
 *5627|
 [fc]
@@ -52,12 +52,14 @@ It moved ever so slightly, just barely.[pcms]
 
 *5630|
 [fc]
-There's probably a stopper or some safety device, but if the escalator suddenly[r]
-started moving in this darkness, I'd definitely tumble down.[pcms]
+There's probably a stopper or some safety device, but if the[r]
+escalator suddenly started moving in this darkness, I'd[r]
+definitely tumble down.[pcms]
 
 *5631|
 [fc]
-Being a coward at heart, I start climbing the steps slowly, almost crawling.[pcms]
+Being a coward at heart, I start climbing the steps slowly,[r]
+almost crawling.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 ;[eval exp="f.l_map = 22"]
@@ -69,18 +71,19 @@ Being a coward at heart, I start climbing the steps slowly, almost crawling.[pcm
 
 *5633|
 [fc]
-It's dark and hard to see, but is this a dead end? Right around where I've[r]
-reached the 5th floor, it seems to be blocked by something like a wall.[pcms]
+It's dark and hard to see, but is this a dead end? Right[r]
+around where I've reached the 5th floor, it seems to be[r]
+blocked by something like a wall.[pcms]
 
 *5634|
 [fc]
-Using the light coming from the 4th floor as a guide, I touch what appears to be[r]
-the wall.[pcms]
+Using the light coming from the 4th floor as a guide, I[r]
+touch what appears to be the wall.[pcms]
 
 *5635|
 [fc]
-The rough texture suggests it's the backside of a building material, the so-[r]
-called "unfinished surface."[pcms]
+The rough texture suggests it's the backside of a building[r]
+material, the so- called "unfinished surface."[pcms]
 
 *5636|
 [fc]
@@ -89,18 +92,18 @@ called "unfinished surface."[pcms]
 
 *5637|
 [fc]
-I tapped the wall a bit, and it seemed quite sturdy. Probably wouldn't break[r]
-even if I threw my body against it.[pcms]
+I tapped the wall a bit, and it seemed quite sturdy.[r]
+Probably wouldn't break even if I threw my body against it.[pcms]
 
 *5638|
 [fc]
-This should be the area of the 5th floor, around where the manga cafe's office[r]
-is located.[pcms]
+This should be the area of the 5th floor, around where the[r]
+manga cafe's office is located.[pcms]
 
 *5639|
 [fc]
-Maybe they decided to block off the escalator when they remodeled for some[r]
-reason?[pcms]
+Maybe they decided to block off the escalator when they[r]
+remodeled for some reason?[pcms]
 
 *5640|
 [fc]

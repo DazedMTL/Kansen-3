@@ -48,8 +48,9 @@
 *4035|
 [fc]
 [ns]Kousuke[nse]
-"Seriously, can you believe it!? Why did they discontinue it? And without a[r]
-successor model, too? If you ask me, that's just unthinkable!"[pcms]
+"Seriously, can you believe it!? Why did they discontinue[r]
+it? And without a successor model, too? If you ask me,[r]
+that's just unthinkable!"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -57,18 +58,18 @@ successor model, too? If you ask me, that's just unthinkable!"[pcms]
 [fc]
 [vo_miz s="mizuki_KB0001"]
 [ns]Mizuki[nse]
-"...Kousuke, you're really upset about this, huh? I've heard this rant so many[r]
-times already~?"[pcms]
+"...Kousuke, you're really upset about this, huh? I've heard[r]
+this rant so many times already~?"[pcms]
 
 *4037|
 [fc]
-From the direction of the elevator entrance, I could hear Mizuki and Kousuke's[r]
-voices.[pcms]
+From the direction of the elevator entrance, I could hear[r]
+Mizuki and Kousuke's voices.[pcms]
 
 *4038|
 [fc]
-Kousuke's voice is so loud that even from inside the manga cafe, I could tell[r]
-exactly where the two of them were.[pcms]
+Kousuke's voice is so loud that even from inside the manga[r]
+cafe, I could tell exactly where the two of them were.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -76,8 +77,8 @@ exactly where the two of them were.[pcms]
 [fc]
 [vo_miz s="mizuki_KB0002"]
 [ns]Mizuki[nse]
-"Well... but maybe the 800 series will become smaller and thinner, and it'll be[r]
-the successor to the 700, right?"[pcms]
+"Well... but maybe the 800 series will become smaller and[r]
+thinner, and it'll be the successor to the 700, right?"[pcms]
 ;//＠＆＝あんど
 
 ;//[ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
@@ -108,8 +109,9 @@ Suddenly, Kousuke cut off his words.[pcms]
 
 *4044|
 [fc]
-We had turned off all the lights in Arcadia, including the indirect lighting and[r]
-emergency lights that we usually left on through the night.[pcms]
+We had turned off all the lights in Arcadia, including the[r]
+indirect lighting and emergency lights that we usually left[r]
+on through the night.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -121,8 +123,9 @@ emergency lights that we usually left on through the night.[pcms]
 
 *4046|
 [fc]
-For the two who had just entered from the bright entrance, the inside of the[r]
-store must have seemed like true darkness...[pcms]
+For the two who had just entered from the bright entrance,[r]
+the inside of the store must have seemed like true[r]
+darkness...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -133,18 +136,18 @@ store must have seemed like true darkness...[pcms]
 
 *4048|
 [fc]
-Kousuke went ahead into the store and was calling for me around the counter[r]
-area.[pcms]
+Kousuke went ahead into the store and was calling for me[r]
+around the counter area.[pcms]
 
 *4049|
 [fc]
-As for me, I started moving from where I was hiding at the back of the entrance[r]
-and quietly approached the elevator.[pcms]
+As for me, I started moving from where I was hiding at the[r]
+back of the entrance and quietly approached the elevator.[pcms]
 
 *4050|
 [fc]
-I placed a heavy case of drinks on the rail to prevent the elevator doors from[r]
-closing easily.[pcms]
+I placed a heavy case of drinks on the rail to prevent the[r]
+elevator doors from closing easily.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -160,8 +163,9 @@ Mizuki turned around briskly.[pcms]
 
 *4053|
 [fc]
-From my position, I could see Mizuki's face illuminated by the light, but from[r]
-her perspective looking at me, I should be backlit and hard to see.[pcms]
+From my position, I could see Mizuki's face illuminated by[r]
+the light, but from her perspective looking at me, I should[r]
+be backlit and hard to see.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -174,8 +178,9 @@ her perspective looking at me, I should be backlit and hard to see.[pcms]
 
 *4055|
 [fc]
-Shielding her eyes with her hand and squinting, Mizuki seemed to recognize me by[r]
-my silhouette and appeared a bit relieved.[pcms]
+Shielding her eyes with her hand and squinting, Mizuki[r]
+seemed to recognize me by my silhouette and appeared a bit[r]
+relieved.[pcms]
 
 *4056|
 [fc]
@@ -186,14 +191,15 @@ my silhouette and appeared a bit relieved.[pcms]
 
 *4057|
 [fc]
-As Mizuki approached, she frowned for a moment at the sight of me illuminated by[r]
-the light.[pcms]
+As Mizuki approached, she frowned for a moment at the sight[r]
+of me illuminated by the light.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4058|
 [fc]
-I quickly pulled Mizuki's arm and we both fell into the elevator.[pcms]
+I quickly pulled Mizuki's arm and we both fell into the[r]
+elevator.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 [quake_bg 元time=500 xy m]
@@ -206,8 +212,9 @@ I quickly pulled Mizuki's arm and we both fell into the elevator.[pcms]
 
 *4060|
 [fc]
-While holding down a loudly screaming Mizuki, I kicked away the case of drinks[r]
-on the rail. The previously restrained doors began to close...[pcms]
+While holding down a loudly screaming Mizuki, I kicked away[r]
+the case of drinks on the rail. The previously restrained[r]
+doors began to close...[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -241,7 +248,8 @@ Kousuke, noticing her scream, hurriedly ran back...[pcms]
 
 *4065|
 [fc]
-In that instant, Yuuho and Ren who were hiding by the wall tackled Kousuke.[pcms]
+In that instant, Yuuho and Ren who were hiding by the wall[r]
+tackled Kousuke.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -252,8 +260,8 @@ In that instant, Yuuho and Ren who were hiding by the wall tackled Kousuke.[pcms
 
 *4067|
 [fc]
-The elevator doors closed with Kousuke's somewhat foolish cry being the last[r]
-thing heard...[pcms]
+The elevator doors closed with Kousuke's somewhat foolish[r]
+cry being the last thing heard...[pcms]
 
 [fadeoutbgm time=500]
 
@@ -276,17 +284,19 @@ thing heard...[pcms]
 [fc]
 [vo_miz s="mizuki_KB0008"]
 [ns]Mizuki[nse]
-"Hey!! Stop joking around! Why would Wataru do something like this!?"[pcms]
+"Hey!! Stop joking around! Why would Wataru do something[r]
+like this!?"[pcms]
 
 *4069|
 [fc]
-Once we were alone in the elevator, Mizuki shouted with a face that seemed to be[r]
-crying and laughing at the same time.[pcms]
+Once we were alone in the elevator, Mizuki shouted with a[r]
+face that seemed to be crying and laughing at the same time.[pcms]
 
 *4070|
 [fc]
-Despite lying on her back, Mizuki's breasts defied gravity as if the laws didn't[r]
-apply in this space, maintaining their full shape without any distortion.[pcms]
+Despite lying on her back, Mizuki's breasts defied gravity[r]
+as if the laws didn't apply in this space, maintaining their[r]
+full shape without any distortion.[pcms]
 
 *4071|
 [fc]
@@ -295,19 +305,19 @@ apply in this space, maintaining their full shape without any distortion.[pcms]
 
 *4072|
 [fc]
-Gently caressing her breasts that were spilling out of her fit-and-flare dress[r]
-with my palm...[pcms]
+Gently caressing her breasts that were spilling out of her[r]
+fit-and-flare dress with my palm...[pcms]
 
 *4073|
 [fc]
-They were plump and smooth as if clinging to my skin, fluffy and soft with[r]
-elasticity... beyond imagination.[pcms]
+They were plump and smooth as if clinging to my skin, fluffy[r]
+and soft with elasticity... beyond imagination.[pcms]
 
 *4074|
 [fc]
 [ns]Wataru[nse]
-"I'm so jealous of Kousuke. It's unforgivable for him to have these amazing tits[r]
-all to himself."[pcms]
+"I'm so jealous of Kousuke. It's unforgivable for him to[r]
+have these amazing tits all to himself."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -315,23 +325,26 @@ all to himself."[pcms]
 [fc]
 [vo_miz s="mizuki_KB0009"]
 [ns]Mizuki[nse]
-"If you don't stop now, even if you're Wataru, Kousuke will kill you!"[pcms]
+"If you don't stop now, even if you're Wataru, Kousuke will[r]
+kill you!"[pcms]
 
 *4076|
 [fc]
-Mizuki desperately twisted her body, but her efforts to escape only resulted in[r]
-exposing her breasts even more.[pcms]
+Mizuki desperately twisted her body, but her efforts to[r]
+escape only resulted in exposing her breasts even more.[pcms]
 
 *4077|
 [fc]
 [ns]Wataru[nse]
-"Mizuki is also naughty, isn't she? Having such an erotic body. You've been[r]
-dressing more conservatively lately to be considerate of Kousuke, but that won't[r]
-hide your sexiness, will it?"[pcms]
+"Mizuki is also naughty, isn't she? Having such an erotic[r]
+body. You've been dressing more conservatively lately to be[r]
+considerate of Kousuke, but that won't hide your sexiness,[r]
+will it?"[pcms]
 
 *4078|
 [fc]
-Squeezing her bouncing tits softly and pinching her bud-like nipples...[pcms]
+Squeezing her bouncing tits softly and pinching her bud-like[r]
+nipples...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -343,8 +356,8 @@ Squeezing her bouncing tits softly and pinching her bud-like nipples...[pcms]
 
 *4080|
 [fc]
-Looking straight into my eyes, Mizuki started trembling violently with a pale[r]
-face.[pcms]
+Looking straight into my eyes, Mizuki started trembling[r]
+violently with a pale face.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -357,8 +370,8 @@ face.[pcms]
 *4082|
 [fc]
 [ns]Wataru[nse]
-"Yeah. I got it. It feels really good. Don't worry. I'll make you one of us[r]
-too."[pcms]
+"Yeah. I got it. It feels really good. Don't worry. I'll[r]
+make you one of us too."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -370,17 +383,20 @@ too."[pcms]
 
 *4084|
 [fc]
-Mizuki began to thrash about with a ferocity that was incomparable to before...[pcms]
+Mizuki began to thrash about with a ferocity that was[r]
+incomparable to before...[pcms]
 
 *4085|
 [fc]
 [ns]Wataru[nse]
-"Ah-ah. What's with these erotic panties? They're completely visible, you know?[r]
-As punishment for wearing such indecent underwear, I'll thrust into you!"[pcms]
+"Ah-ah. What's with these erotic panties? They're completely[r]
+visible, you know? As punishment for wearing such indecent[r]
+underwear, I'll thrust into you!"[pcms]
 
 *4086|
 [fc]
-As he said that, he forcefully drove his erect penis into Mizuki's womb.[pcms]
+As he said that, he forcefully drove his erect penis into[r]
+Mizuki's womb.[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//Ｂ：挿入される瑞樹・苦痛
@@ -396,7 +412,8 @@ As he said that, he forcefully drove his erect penis into Mizuki's womb.[pcms]
 
 *4088|
 [fc]
-Her dry pussy was forcibly torn open, and Mizuki arched her back and screamed.[pcms]
+Her dry pussy was forcibly torn open, and Mizuki arched her[r]
+back and screamed.[pcms]
 
 [evcg storage="HEV038e"][trans_c cross time=300]
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -414,18 +431,20 @@ Her dry pussy was forcibly torn open, and Mizuki arched her back and screamed.[p
 
 *4091|
 [fc]
-It creaks a bit, but if I move it forcefully, it seems like it will work out.[pcms]
+It creaks a bit, but if I move it forcefully, it seems like[r]
+it will work out.[pcms]
 
 *4092|
 [fc]
-The penis that had just been skinned is bleeding again, but since the infection,[r]
-pain feels like part of the pleasure, making it feel even better.[pcms]
+The penis that had just been skinned is bleeding again, but[r]
+since the infection, pain feels like part of the pleasure,[r]
+making it feel even better.[pcms]
 
 *4093|
 [fc]
-Eventually, as I thrust to my heart's content for a while, Mizuki's womb[r]
-gradually becomes moist. Unlike Yuuho and Ren, her more experienced body seems[r]
-to get wet more easily.[pcms]
+Eventually, as I thrust to my heart's content for a while,[r]
+Mizuki's womb gradually becomes moist. Unlike Yuuho and Ren,[r]
+her more experienced body seems to get wet more easily.[pcms]
 
 *4094|
 [fc]
@@ -434,13 +453,14 @@ to get wet more easily.[pcms]
 
 *4095|
 [fc]
-They're soft and voluminous, so they feel good to hold, and with every thrust of[r]
-my hips, her well-fleshed body bounces back at me, which is irresistible.[pcms]
+They're soft and voluminous, so they feel good to hold, and[r]
+with every thrust of my hips, her well-fleshed body bounces[r]
+back at me, which is irresistible.[pcms]
 
 *4096|
 [fc]
-In the midst of my fervent hip thrusting, a sweet tone began to mix into[r]
-Mizuki's voice.[pcms]
+In the midst of my fervent hip thrusting, a sweet tone began[r]
+to mix into Mizuki's voice.[pcms]
 
 ;//Ｃ：挿入される瑞樹・快感
 [evcg storage="HEV038g"][trans_c cross time=300]
@@ -454,17 +474,19 @@ Mizuki's voice.[pcms]
 
 *4098|
 [fc]
-Mizuki let out a sultry moan with a nasal tone and trembled with her throat[r]
-quivering. A single strand of hair stuck to her slightly sweaty neck.[pcms]
+Mizuki let out a sultry moan with a nasal tone and trembled[r]
+with her throat quivering. A single strand of hair stuck to[r]
+her slightly sweaty neck.[pcms]
 
 *4099|
 [fc]
-As her voice became higher and sweeter, the joined parts gradually began to get[r]
-slippery, aiding my movements.[pcms]
+As her voice became higher and sweeter, the joined parts[r]
+gradually began to get slippery, aiding my movements.[pcms]
 
 *4100|
 [fc]
-Pleased with the ease of movement, I thrust into Mizuki with even more vigor.[pcms]
+Pleased with the ease of movement, I thrust into Mizuki with[r]
+even more vigor.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -472,14 +494,14 @@ Pleased with the ease of movement, I thrust into Mizuki with even more vigor.[pc
 [fc]
 [vo_miz s="mizuki_KB0016"]
 [ns]Mizuki[nse]
-"Ahh! Nnh, hiuunn, nnnn! ...Don't move, nooo...! Haa, kuhhaa, ah, ah, ahhh,[r]
-nnn!"[pcms]
+"Ahh! Nnh, hiuunn, nnnn! ...Don't move, nooo...! Haa,[r]
+kuhhaa, ah, ah, ahhh, nnn!"[pcms]
 
 *4102|
 [fc]
 [ns]Wataru[nse]
-"You say 'no', but you're getting wet? You're feeling it from being violated,[r]
-aren't you, Mizuki?"[pcms]
+"You say 'no', but you're getting wet? You're feeling it[r]
+from being violated, aren't you, Mizuki?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -487,13 +509,13 @@ aren't you, Mizuki?"[pcms]
 [fc]
 [vo_miz s="mizuki_KB0017"]
 [ns]Mizuki[nse]
-"That's... not... kuhhaa! I'm not feeling anything...! Ah, haaaahh, haguu,[r]
-ahhhh!"[pcms]
+"That's... not... kuhhaa! I'm not feeling anything...! Ah,[r]
+haaaahh, haguu, ahhhh!"[pcms]
 
 *4104|
 [fc]
-Despite clearly showing signs of pleasure, Mizuki shook her head frantically in[r]
-denial.[pcms]
+Despite clearly showing signs of pleasure, Mizuki shook her[r]
+head frantically in denial.[pcms]
 
 *4105|
 [fc]
@@ -502,18 +524,19 @@ denial.[pcms]
 
 *4106|
 [fc]
-The old Mizuki was a quiet and honest girl. Although even back then her body was[r]
-amazing...[pcms]
+The old Mizuki was a quiet and honest girl. Although even[r]
+back then her body was amazing...[pcms]
 
 *4107|
 [fc]
-Now her tits and ass have been polished to perfection, turned into an erotic[r]
-body developed by men...[pcms]
+Now her tits and ass have been polished to perfection,[r]
+turned into an erotic body developed by men...[pcms]
 
 *4108|
 [fc]
 [ns]Wataru[nse]
-"Being violated and feeling it, you've grown into a fine bitch."[pcms]
+"Being violated and feeling it, you've grown into a fine[r]
+bitch."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -521,13 +544,14 @@ body developed by men...[pcms]
 [fc]
 [vo_miz s="mizuki_KB0018"]
 [ns]Mizuki[nse]
-"That's wrong! It's different...! I'm not feeling...! Ahh, ahhhh, afuaaahh,[r]
-kuuuhh, nnn!"[pcms]
+"That's wrong! It's different...! I'm not feeling...! Ahh,[r]
+ahhhh, afuaaahh, kuuuhh, nnn!"[pcms]
 
 *4110|
 [fc]
-The gap between what she says and how her body reacts is too much. Is this what[r]
-they mean by "the lady doth protest too much"?[pcms]
+The gap between what she says and how her body reacts is too[r]
+much. Is this what they mean by "the lady doth protest too[r]
+much"?[pcms]
 
 *4111|
 [fc]
@@ -536,18 +560,20 @@ they mean by "the lady doth protest too much"?[pcms]
 
 *4112|
 [fc]
-When I suck hard on her nipples, Mizuki's insides clench tightly. Now that it's[r]
-wet and feels good, my dick receives exquisite friction.[pcms]
+When I suck hard on her nipples, Mizuki's insides clench[r]
+tightly. Now that it's wet and feels good, my dick receives[r]
+exquisite friction.[pcms]
 
 *4113|
 [fc]
-I get carried away sucking on her nipples and occasionally bite into her breasts[r]
-while thrusting my hips.[pcms]
+I get carried away sucking on her nipples and occasionally[r]
+bite into her breasts while thrusting my hips.[pcms]
 
 *4114|
 [fc]
-The moment I slid in deeply, my slippery penis plunged into Mizuki's womb with[r]
-unprecedented force and poked at the firm spot inside.[pcms]
+The moment I slid in deeply, my slippery penis plunged into[r]
+Mizuki's womb with unprecedented force and poked at the firm[r]
+spot inside.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -555,13 +581,13 @@ unprecedented force and poked at the firm spot inside.[pcms]
 [fc]
 [vo_miz s="mizuki_KB0019"]
 [ns]Mizuki[nse]
-"Nfuuuun, nooo! That spot... is off-limits! Don't poke there! Haannn, nnh, ah,[r]
-aunnn!"[pcms]
+"Nfuuuun, nooo! That spot... is off-limits! Don't poke[r]
+there! Haannn, nnh, ah, aunnn!"[pcms]
 
 *4116|
 [fc]
-The moment she screamed out loud, the vaginal walls began to contract and knead[r]
-me so much that I felt completely good.[pcms]
+The moment she screamed out loud, the vaginal walls began to[r]
+contract and knead me so much that I felt completely good.[pcms]
 
 *4117|
 [fc]
@@ -576,24 +602,26 @@ me so much that I felt completely good.[pcms]
 [fc]
 [vo_miz s="mizuki_KB0020"]
 [ns]Mizuki[nse]
-"...No...! Could it be Wataru... no no no nooo! Not inside! Stop it stop it[r]
-ahiaaaa! Pleaseee!"[pcms]
+"...No...! Could it be Wataru... no no no nooo! Not inside![r]
+Stop it stop it ahiaaaa! Pleaseee!"[pcms]
 
 *4119|
 [fc]
-No matter what the drooling pleasure-enjoying bitch says about "stop" or "no," I[r]
-can't listen to every single word.[pcms]
+No matter what the drooling pleasure-enjoying bitch says[r]
+about "stop" or "no," I can't listen to every single word.[pcms]
 
 *4120|
 [fc]
-I speed up the rhythm of my hips on my own. Even though I'm thrusting with[r]
-considerable intensity, the mucous membranes are well-lubricated so I can[r]
-rampage as much as I like without any unpleasant snagging.[pcms]
+I speed up the rhythm of my hips on my own. Even though I'm[r]
+thrusting with considerable intensity, the mucous membranes[r]
+are well-lubricated so I can rampage as much as I like[r]
+without any unpleasant snagging.[pcms]
 
 *4121|
 [fc]
-I swirl my hips and swing them side to side, changing angles and depths as I[r]
-please while thoroughly violating Mizuki and savoring her juicy flesh...[pcms]
+I swirl my hips and swing them side to side, changing angles[r]
+and depths as I please while thoroughly violating Mizuki and[r]
+savoring her juicy flesh...[pcms]
 
 *4122|
 [fc]
@@ -602,13 +630,14 @@ please while thoroughly violating Mizuki and savoring her juicy flesh...[pcms]
 
 *4123|
 [fc]
-Trying various things despite not being used to this kind of stuff has gotten me[r]
-extremely aroused.[pcms]
+Trying various things despite not being used to this kind of[r]
+stuff has gotten me extremely aroused.[pcms]
 
 *4124|
 [fc]
-I thrust into Mizuki violently enough to make her body shake violently and after[r]
-pulling back to the brink, I release without hesitation.[pcms]
+I thrust into Mizuki violently enough to make her body shake[r]
+violently and after pulling back to the brink, I release[r]
+without hesitation.[pcms]
 
 ;//Ｅ：瑞樹、中だし
 [se buf=0 storage="se_sex01"]
@@ -624,8 +653,8 @@ pulling back to the brink, I release without hesitation.[pcms]
 
 *4126|
 [fc]
-Burying my penis right down to the base while sandwiching my face between her[r]
-tits, I release grandly inside Mizuki.[pcms]
+Burying my penis right down to the base while sandwiching my[r]
+face between her tits, I release grandly inside Mizuki.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -633,17 +662,19 @@ tits, I release grandly inside Mizuki.[pcms]
 [fc]
 [vo_miz s="mizuki_KB0022"]
 [ns]Mizuki[nse]
-"It's coming out, it's coming out, ahhhh! It's hot inside meee! Hiaaahh![r]
-Hiiinn!!"[pcms]
+"It's coming out, it's coming out, ahhhh! It's hot inside[r]
+meee! Hiaaahh! Hiiinn!!"[pcms]
 
 *4128|
 [fc]
-With each spurt of semen splashing out, Mizuki screams and convulses so hard[r]
-that she bounces her hips up several times.[pcms]
+With each spurt of semen splashing out, Mizuki screams and[r]
+convulses so hard that she bounces her hips up several[r]
+times.[pcms]
 
 *4129|
 [fc]
-Then an incredible pressure tightens around the vaginal flesh.[pcms]
+Then an incredible pressure tightens around the vaginal[r]
+flesh.[pcms]
 
 *4130|
 [fc]
@@ -660,14 +691,14 @@ The ejaculation doesn't stop. More and more juice overflows.[pcms]
 [fc]
 [vo_miz s="mizuki_KB0023"]
 [ns]Mizuki[nse]
-"Ahi! Still coming outttt! It's hitting my womb... uuuuhh! Yessss! I'm[r]
-cummingggg!"[pcms]
+"Ahi! Still coming outttt! It's hitting my womb... uuuuhh![r]
+Yessss! I'm cummingggg!"[pcms]
 
 *4133|
 [fc]
-Finally Mizuki's entire body convulsed non-stop as if struck by a feverish fit;[r]
-she bounced her hips up and down onto the floor and eventually arched back[r]
-rigidly.[pcms]
+Finally Mizuki's entire body convulsed non-stop as if struck[r]
+by a feverish fit; she bounced her hips up and down onto the[r]
+floor and eventually arched back rigidly.[pcms]
 
 *4134|
 [fc]
@@ -676,8 +707,8 @@ rigidly.[pcms]
 
 *4135|
 [fc]
-Having squeezed out the last drop, I let all my strength go and collapsed on top[r]
-of Mizuki.[pcms]
+Having squeezed out the last drop, I let all my strength go[r]
+and collapsed on top of Mizuki.[pcms]
 
 ;//Ｆ：恍惚の瑞樹
 [evcg storage="HEV038i"][trans_c cross time=300]
@@ -691,13 +722,15 @@ of Mizuki.[pcms]
 
 *4137|
 [fc]
-As Mizuki continues to convulse without a word, I pull out my penis. With a[r]
-'dopun' sound, a large amount of cloudy juice spills out.[pcms]
+As Mizuki continues to convulse without a word, I pull out[r]
+my penis. With a 'dopun' sound, a large amount of cloudy[r]
+juice spills out.[pcms]
 
 *4138|
 [fc]
-It was an incredible amount... Even after cumming so many times, I still[r]
-released so much. Maybe it's because of the infection... Or maybe...[pcms]
+It was an incredible amount... Even after cumming so many[r]
+times, I still released so much. Maybe it's because of the[r]
+infection... Or maybe...[pcms]
 
 *4139|
 [fc]
@@ -719,8 +752,9 @@ Mizuki looks at me with a dazed expression in her eyes.[pcms]
 *4142|
 [fc]
 [ns]Wataru[nse]
-"Yeah. Don't you realize? Whether you're infected or not, Mizuki, you're[r]
-incredibly lewd. I've masturbated so many times with your tits."[pcms]
+"Yeah. Don't you realize? Whether you're infected or not,[r]
+Mizuki, you're incredibly lewd. I've masturbated so many[r]
+times with your tits."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -732,13 +766,13 @@ incredibly lewd. I've masturbated so many times with your tits."[pcms]
 
 *4144|
 [fc]
-Laughing almost like she's about to cry, Mizuki stares at me as her eyes slowly[r]
-turn red...[pcms]
+Laughing almost like she's about to cry, Mizuki stares at me[r]
+as her eyes slowly turn red...[pcms]
 
 *4145|
 [fc]
-As her eyes deepen in redness, the sorrow and melancholy are wiped from Mizuki's[r]
-expression...[pcms]
+As her eyes deepen in redness, the sorrow and melancholy are[r]
+wiped from Mizuki's expression...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -746,7 +780,8 @@ expression...[pcms]
 [fc]
 [vo_miz s="mizuki_KB0027"]
 [ns]Mizuki[nse]
-"That's right~? I'm lewd~? So what? Kyahaha, ahaha, hee-heeheehee..."[pcms]
+"That's right~? I'm lewd~? So what? Kyahaha, ahaha, hee-[r]
+heeheehee..."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -754,8 +789,8 @@ expression...[pcms]
 [fc]
 [vo_miz s="mizuki_KB0028"]
 [ns]Mizuki[nse]
-"This is me... that's who I am...! What was I even worried about before,[r]
-ahahahahaha...!!"[pcms]
+"This is me... that's who I am...! What was I even worried[r]
+about before, ahahahahaha...!!"[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -787,7 +822,8 @@ ahahahahaha...!!"[pcms]
 
 *4149|
 [fc]
-We got off the elevator. Mizuki, now fully infected, seems to be high on it.[pcms]
+We got off the elevator. Mizuki, now fully infected, seems[r]
+to be high on it.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_d4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -795,18 +831,18 @@ We got off the elevator. Mizuki, now fully infected, seems to be high on it.[pcm
 [fc]
 [vo_miz s="mizuki_KB0030"]
 [ns]Mizuki[nse]
-"Ah, what is this feeling~? I haven't felt this clear-headed in a long time~! No[r]
-drug ever made me feel like this~?"[pcms]
+"Ah, what is this feeling~? I haven't felt this clear-headed[r]
+in a long time~! No drug ever made me feel like this~?"[pcms]
 
 *4151|
 [fc]
-By the way, the elevator hasn't been working well until now. Luckily, it seems[r]
-no one else called it.[pcms]
+By the way, the elevator hasn't been working well until now.[r]
+Luckily, it seems no one else called it.[pcms]
 
 *4152|
 [fc]
-If someone else had tried to use the elevator, they would have found us. That[r]
-was a close call... Well, whatever...[pcms]
+If someone else had tried to use the elevator, they would[r]
+have found us. That was a close call... Well, whatever...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -818,8 +854,8 @@ was a close call... Well, whatever...[pcms]
 
 *4154|
 [fc]
-While I was thinking about that, Ren, who had been doing something else, came[r]
-running over.[pcms]
+While I was thinking about that, Ren, who had been doing[r]
+something else, came running over.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -834,12 +870,14 @@ running over.[pcms]
 *4156|
 [fc]
 [ns]Kousuke[nse]
-"Oh, Mizuki! Isn't this just great!? I've been so inspired since a while ago! I[r]
-think I can make a lot of good tracks now~!"[pcms]
+"Oh, Mizuki! Isn't this just great!? I've been so inspired[r]
+since a while ago! I think I can make a lot of good tracks[r]
+now~!"[pcms]
 
 *4157|
 [fc]
-Kousuke, with his eyes turned red, is also quite excited, just like Mizuki.[pcms]
+Kousuke, with his eyes turned red, is also quite excited,[r]
+just like Mizuki.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_d4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -851,8 +889,8 @@ Kousuke, with his eyes turned red, is also quite excited, just like Mizuki.[pcms
 
 *4159|
 [fc]
-Watching Kousuke and Mizuki holding hands and rejoicing makes me think that what[r]
-we're doing isn't wrong after all.[pcms]
+Watching Kousuke and Mizuki holding hands and rejoicing[r]
+makes me think that what we're doing isn't wrong after all.[pcms]
 
 *4160|
 [fc]
@@ -904,8 +942,8 @@ We form a scrum and raise our spirits.[pcms]
 
 *4167|
 [fc]
-Everyone is smiling. Smiles without any worries. Smiles brimming with happiness.[r]
-The smiles of psychos...[pcms]
+Everyone is smiling. Smiles without any worries. Smiles[r]
+brimming with happiness. The smiles of psychos...[pcms]
 
 *4168|
 [fc]

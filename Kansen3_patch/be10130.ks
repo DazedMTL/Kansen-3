@@ -16,7 +16,8 @@
 
 *979|
 [fc]
-Maruko-senpai was dead, her eyes rolled back and blood flowing from her mouth.[pcms]
+Maruko-senpai was dead, her eyes rolled back and blood[r]
+flowing from her mouth.[pcms]
 
 *980|
 [fc]
@@ -24,7 +25,8 @@ Her body was left with the brutal marks of violation.[pcms]
 
 *981|
 [fc]
-Maruko-senpai, who was so strong... she was no match for those men...[pcms]
+Maruko-senpai, who was so strong... she was no match for[r]
+those men...[pcms]
 
 ;//ÅâÅFÇ±ÇÃíiäKÇ≈ÇÕåƒÇ—ñºÇÕêÊîyÇ©Ç‡ÇµÇÍÇ‹ÇπÇÒ
 
@@ -46,12 +48,13 @@ Maybe...[pcms]
 
 *985|
 [fc]
-I thought she might have been roughed up by the men, but I never imagined they[r]
-would kill her...[pcms]
+I thought she might have been roughed up by the men, but I[r]
+never imagined they would kill her...[pcms]
 
 *986|
 [fc]
-A short distance from the mattress, Jin-san's body was lying there.[pcms]
+A short distance from the mattress, Jin-san's body was lying[r]
+there.[pcms]
 
 *987|
 [fc]
@@ -59,11 +62,13 @@ Was it infighting?[pcms]
 
 *988|
 [fc]
-If Jin-san had been the boss, maybe this wouldn't have happened...[pcms]
+If Jin-san had been the boss, maybe this wouldn't have[r]
+happened...[pcms]
 
 *989|
 [fc]
-I don't know the circumstances, but maybe he was protecting everyone.[pcms]
+I don't know the circumstances, but maybe he was protecting[r]
+everyone.[pcms]
 
 *990|
 [fc]
@@ -103,7 +108,8 @@ She's alive!? Is Yuuho alive!?[pcms]
 
 *997|
 [fc]
-Yuuho was whispering with a faint voice as if she was on the verge of death.[pcms]
+Yuuho was whispering with a faint voice as if she was on the[r]
+verge of death.[pcms]
 
 [evcg storage="DEV021c"][trans_c cross time=300]
 
@@ -115,7 +121,8 @@ Yuuho was whispering with a faint voice as if she was on the verge of death.[pcm
 
 *999|
 [fc]
-Even at a time like this, Yuuho was worried about everyone else.[pcms]
+Even at a time like this, Yuuho was worried about everyone[r]
+else.[pcms]
 
 *1000|
 [fc]
@@ -164,7 +171,8 @@ She's alive, Yuuho is alive...[pcms]
 [fc]
 [vo_yuh s="yuho_BE0006"]
 [ns]Yuuho[nse]
-"Then let's go out to town and live happily like we used to..."[pcms]
+"Then let's go out to town and live happily like we used[r]
+to..."[pcms]
 
 *1010|
 [fc]
@@ -230,8 +238,8 @@ Yuuho's eyes were closed.[pcms]
 
 *1022|
 [fc]
-In her face that had suffered terrible indignities, there was somehow a look of[r]
-peace.[pcms]
+In her face that had suffered terrible indignities, there[r]
+was somehow a look of peace.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -265,11 +273,13 @@ It's strange that I'm the only one alive.[pcms]
 
 *1030|
 [fc]
-There's no point in living anymore, I'd rather go to heaven with everyone else.[pcms]
+There's no point in living anymore, I'd rather go to heaven[r]
+with everyone else.[pcms]
 
 *1031|
 [fc]
-I slowly got up, took out a gun, and pressed it against my temple.[pcms]
+I slowly got up, took out a gun, and pressed it against my[r]
+temple.[pcms]
 
 *1032|
 [fc]

@@ -25,17 +25,19 @@
 *2335|
 [fc]
 [ns]Kousuke[nse]
-"There's a work space, and if you want to check the sound, the audio-visual room[r]
-might be free?"[pcms]
+"There's a work space, and if you want to check the sound,[r]
+the audio-visual room might be free?"[pcms]
 
 *2336|
 [fc]
-Without understanding my thoughts, Kousuke-kun cheerfully gave me that answer.[pcms]
+Without understanding my thoughts, Kousuke-kun cheerfully[r]
+gave me that answer.[pcms]
 
 *2337|
 [fc]
-But indeed, at this time no one else is using it, and since it's soundproofed[r]
-and quiet, I can concentrate solely on the sound of my violin when tuning.[pcms]
+But indeed, at this time no one else is using it, and since[r]
+it's soundproofed and quiet, I can concentrate solely on the[r]
+sound of my violin when tuning.[pcms]
 
 *2338|
 [fc]
@@ -45,16 +47,17 @@ Yeah, that might be a good idea.[pcms]
 [fc]
 [vo_ren s="ren0529"]
 [ns]Ren[nse]
-"That's true. It feels wrong to use it without permission, but it might be[r]
-okay."[pcms]
+"That's true. It feels wrong to use it without permission,[r]
+but it might be okay."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2340|
 [fc]
 [ns]Kousuke[nse]
-"It's not a problem. I sometimes go in there myself to watch PVs without[r]
-permission. The door isn't locked all year round anyway."[pcms]
+"It's not a problem. I sometimes go in there myself to watch[r]
+PVs without permission. The door isn't locked all year round[r]
+anyway."[pcms]
 
 *2341|
 [fc]
@@ -67,8 +70,8 @@ permission. The door isn't locked all year round anyway."[pcms]
 *2342|
 [fc]
 [ns]Kousuke[nse]
-"Yeah. I've got some time before the afternoon match starts, so I'll keep you[r]
-company."[pcms]
+"Yeah. I've got some time before the afternoon match starts,[r]
+so I'll keep you company."[pcms]
 
 *2343|
 [fc]
@@ -78,8 +81,9 @@ company."[pcms]
 
 *2344|
 [fc]
-I don't really want to look at Kousuke-kun's face right now... How should I[r]
-refuse Kousuke-kun's offer, which he made so cheerfully?[pcms]
+I don't really want to look at Kousuke-kun's face right[r]
+now... How should I refuse Kousuke-kun's offer, which he[r]
+made so cheerfully?[pcms]
 
 *2345|
 [fc]
@@ -90,8 +94,8 @@ As I was pondering, Kousuke-kun flashed a mischievous grin.[pcms]
 *2346|
 [fc]
 [ns]Kousuke[nse]
-"If Ren-chan is alone in the quiet audio-visual room, she might get scared and[r]
-cry~?"[pcms]
+"If Ren-chan is alone in the quiet audio-visual room, she[r]
+might get scared and cry~?"[pcms]
 
 *2347|
 [fc]
@@ -108,19 +112,20 @@ cry~?"[pcms]
 
 *2349|
 [fc]
-Even though I knew he was teasing me, I couldn't help getting angry, and[r]
-Kousuke-kun just grinned and ended up having his way.[pcms]
+Even though I knew he was teasing me, I couldn't help[r]
+getting angry, and Kousuke-kun just grinned and ended up[r]
+having his way.[pcms]
 
 *2350|
 [fc]
-At this point, there's no use arguing with Kousuke-kun. I put my violin back in[r]
-its case and checked the spare strings before heading to the audio-visual room[r]
-together.[pcms]
+At this point, there's no use arguing with Kousuke-kun. I[r]
+put my violin back in its case and checked the spare strings[r]
+before heading to the audio-visual room together.[pcms]
 
 *2351|
 [fc]
-When we passed by the second music room, I saw a familiar senior coming from the[r]
-direction of the stairs.[pcms]
+When we passed by the second music room, I saw a familiar[r]
+senior coming from the direction of the stairs.[pcms]
 
 *2352|
 [fc]
@@ -132,16 +137,16 @@ It was Waka-chan, a senior from the choir club.[pcms]
 [fc]
 [vo_mob s="waka0034"]
 [ns]Waka[nse]
-"Ah, Kousuke-kun, sorry about the other day. It seems like I upset Mizuki a[r]
-bit..."[pcms]
+"Ah, Kousuke-kun, sorry about the other day. It seems like I[r]
+upset Mizuki a bit..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2354|
 [fc]
 [ns]Kousuke[nse]
-"No... don't worry about it. More importantly, is everything okay with the[r]
-recording this weekend?"[pcms]
+"No... don't worry about it. More importantly, is everything[r]
+okay with the recording this weekend?"[pcms]
 
 [ChrSetEx layer=5 chbase="waka_b"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -149,16 +154,18 @@ recording this weekend?"[pcms]
 [fc]
 [vo_mob s="waka0035"]
 [ns]Waka[nse]
-"Hmm... well. My brother is in the basketball club. If they win today's game,[r]
-it'll be good. It's his last tournament since he's a third-year."[pcms]
+"Hmm... well. My brother is in the basketball club. If they[r]
+win today's game, it'll be good. It's his last tournament[r]
+since he's a third-year."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2356|
 [fc]
 [ns]Kousuke[nse]
-"OK. I'll take that deal. I'll score a bunch of points and let him play[r]
-basketball for as long as possible, so look forward to it."[pcms]
+"OK. I'll take that deal. I'll score a bunch of points and[r]
+let him play basketball for as long as possible, so look[r]
+forward to it."[pcms]
 
 [ChrSetEx layer=5 chbase="waka_b"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -172,18 +179,20 @@ basketball for as long as possible, so look forward to it."[pcms]
 
 *2358|
 [fc]
-After a brief chat and a wave goodbye, Waka-senpai entered the second music[r]
-room. I wonder what happened with Mizuki-chan?[pcms]
+After a brief chat and a wave goodbye, Waka-senpai entered[r]
+the second music room. I wonder what happened with Mizuki-[r]
+chan?[pcms]
 
 *2359|
 [fc]
-I wanted to ask what had happened, but Kousuke-kun's face suddenly turned cold[r]
-after Waka-senpai disappeared, so I ended up not asking.[pcms]
+I wanted to ask what had happened, but Kousuke-kun's face[r]
+suddenly turned cold after Waka-senpai disappeared, so I[r]
+ended up not asking.[pcms]
 
 *2360|
 [fc]
-I felt like things around us were suddenly starting to move. Whether that was a[r]
-good or bad thing, I couldn't tell...[pcms]
+I felt like things around us were suddenly starting to move.[r]
+Whether that was a good or bad thing, I couldn't tell...[pcms]
 
 *2361|
 [fc]
@@ -191,7 +200,8 @@ The unease deep in my chest wouldn't stop.[pcms]
 
 *2362|
 [fc]
-When we entered the audio-visual room, the stagnant air hit us.[pcms]
+When we entered the audio-visual room, the stagnant air hit[r]
+us.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -202,43 +212,44 @@ When we entered the audio-visual room, the stagnant air hit us.[pcms]
 
 *2364|
 [fc]
-Muttering to himself, Kousuke-kun quickly went to open a window and started[r]
-watching the soccer club practicing lifting in the courtyard.[pcms]
+Muttering to himself, Kousuke-kun quickly went to open a[r]
+window and started watching the soccer club practicing[r]
+lifting in the courtyard.[pcms]
 
 *2365|
 [fc]
-Maybe Kousuke-kun has something on his mind too, but I was glad not to be[r]
-disturbed.[pcms]
+Maybe Kousuke-kun has something on his mind too, but I was[r]
+glad not to be disturbed.[pcms]
 
 *2366|
 [fc]
-I immediately started using the desk as a workbench and began replacing the G[r]
-string on my violin.[pcms]
+I immediately started using the desk as a workbench and[r]
+began replacing the G string on my violin.[pcms]
 
 *2367|
 [fc]
-Once that was done, next was tuning. The most difficult part of restringing, I[r]
-think.[pcms]
+Once that was done, next was tuning. The most difficult part[r]
+of restringing, I think.[pcms]
 
 *2368|
 [fc]
-I've been told since I was young that my mother, who died as if in exchange for[r]
-giving birth to me, was a musician.[pcms]
+I've been told since I was young that my mother, who died as[r]
+if in exchange for giving birth to me, was a musician.[pcms]
 
 *2369|
 [fc]
-I must have a sense of pitch thanks to all the practice I've done... but it's[r]
-still difficult.[pcms]
+I must have a sense of pitch thanks to all the practice I've[r]
+done... but it's still difficult.[pcms]
 
 *2370|
 [fc]
-I played a little and then adjusted the tension of the strings with a peg[r]
-repeatedly.[pcms]
+I played a little and then adjusted the tension of the[r]
+strings with a peg repeatedly.[pcms]
 
 *2371|
 [fc]
-It was then that Kousuke-kun, who I thought had been looking outside all this[r]
-time, muttered something.[pcms]
+It was then that Kousuke-kun, who I thought had been looking[r]
+outside all this time, muttered something.[pcms]
 
 *2372|
 [fc]
@@ -251,37 +262,39 @@ time, muttered something.[pcms]
 *2373|
 [fc]
 [ns]Kousuke[nse]
-"No, just thinking you look beautiful. Ren-chan has a unique aura about her. You[r]
-were entrusted with solos in club activities right after joining, right?"[pcms]
+"No, just thinking you look beautiful. Ren-chan has a unique[r]
+aura about her. You were entrusted with solos in club[r]
+activities right after joining, right?"[pcms]
 
 *2374|
 [fc]
 [vo_ren s="ren0534"]
 [ns]Ren[nse]
-"That's because I'm from the same school as our advisor. I heard he was in the[r]
-same year as my mother."[pcms]
+"That's because I'm from the same school as our advisor. I[r]
+heard he was in the same year as my mother."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2375|
 [fc]
 [ns]Kousuke[nse]
-"Even so, there's something about the aura you give off... Your mother was a[r]
-violinist, so you're aiming for that too?"[pcms]
+"Even so, there's something about the aura you give off...[r]
+Your mother was a violinist, so you're aiming for that too?"[pcms]
 
 *2376|
 [fc]
 [vo_ren s="ren0535"]
 [ns]Ren[nse]
-"Yeah. I'd like to become a professional if I can... but I always get nervous[r]
-during contests."[pcms]
+"Yeah. I'd like to become a professional if I can... but I[r]
+always get nervous during contests."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2377|
 [fc]
 [ns]Kousuke[nse]
-"But there was talk of studying abroad, right? The other day?"[pcms]
+"But there was talk of studying abroad, right? The other[r]
+day?"[pcms]
 
 *2378|
 [fc]
@@ -291,20 +304,22 @@ during contests."[pcms]
 
 *2379|
 [fc]
-I was surprised by the words that came out of Kousuke-kun's mouth and looked[r]
-back at his face.[pcms]
+I was surprised by the words that came out of Kousuke-kun's[r]
+mouth and looked back at his face.[pcms]
 
 *2380|
 [fc]
-My father knows about it but my brother shouldn't. So how does Kousuke-kun know?[pcms]
+My father knows about it but my brother shouldn't. So how[r]
+does Kousuke-kun know?[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2381|
 [fc]
 [ns]Kousuke[nse]
-"Well, I'm involved in music too, even if it's a different genre~? I hear rumors[r]
-here and there. I have quite a wide network after all."[pcms]
+"Well, I'm involved in music too, even if it's a different[r]
+genre~? I hear rumors here and there. I have quite a wide[r]
+network after all."[pcms]
 
 *2382|
 [fc]
@@ -327,30 +342,32 @@ here and there. I have quite a wide network after all."[pcms]
 
 *2385|
 [fc]
-It's certainly a wasted opportunity. Especially for someone in classical music,[r]
-the chance to study abroad is an opportunity you'd normally jump at without a[r]
-second thought.[pcms]
+It's certainly a wasted opportunity. Especially for someone[r]
+in classical music, the chance to study abroad is an[r]
+opportunity you'd normally jump at without a second thought.[pcms]
 
 *2386|
 [fc]
-While Japan exports excellent instruments to the world, the reality is that the[r]
-number of performers who can match them is lacking.[pcms]
+While Japan exports excellent instruments to the world, the[r]
+reality is that the number of performers who can match them[r]
+is lacking.[pcms]
 
 *2387|
 [fc]
-In Europe, where there's a foundation in churches and community orchestras,[r]
-classical music isn't as niche as it is in Japan, where it's mostly listened to[r]
-by hobbyists.[pcms]
+In Europe, where there's a foundation in churches and[r]
+community orchestras, classical music isn't as niche as it[r]
+is in Japan, where it's mostly listened to by hobbyists.[pcms]
 
 *2388|
 [fc]
-Even if you want to join an orchestra, the number of ensembles is so few that[r]
-it's an incredibly tough world.[pcms]
+Even if you want to join an orchestra, the number of[r]
+ensembles is so few that it's an incredibly tough world.[pcms]
 
 *2389|
 [fc]
-Winning a competition overseas is more advantageous than winning one in Japan, I[r]
-know that... but I didn't want to leave my brother's side.[pcms]
+Winning a competition overseas is more advantageous than[r]
+winning one in Japan, I know that... but I didn't want to[r]
+leave my brother's side.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -363,14 +380,16 @@ know that... but I didn't want to leave my brother's side.[pcms]
 [fc]
 [vo_ren s="ren0539"]
 [ns]Ren[nse]
-"Yeah... Ever since that time, my brother has been acting strange."[pcms]
+"Yeah... Ever since that time, my brother has been acting[r]
+strange."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2392|
 [fc]
 [ns]Kousuke[nse]
-"Yeah, it's been four years since your mom passed away... wait, what?"[pcms]
+"Yeah, it's been four years since your mom passed away...[r]
+wait, what?"[pcms]
 
 ;mm bgm‚Æ‚ß‚æ‚¤‚æ
 [fadeoutbgm time=500]
@@ -380,7 +399,8 @@ know that... but I didn't want to leave my brother's side.[pcms]
 
 *2393|
 [fc]
-Kousuke-kun abruptly stopped speaking and turned his face towards the window.[pcms]
+Kousuke-kun abruptly stopped speaking and turned his face[r]
+towards the window.[pcms]
 
 
 *2394|
@@ -401,19 +421,22 @@ Kousuke-kun abruptly stopped speaking and turned his face towards the window.[pc
 
 *2396|
 [fc]
-Frowning at Kousuke-kun's words, I put down my violin and rushed to the window.[pcms]
+Frowning at Kousuke-kun's words, I put down my violin and[r]
+rushed to the window.[pcms]
 
 *2397|
 [fc]
-Indeed, I could hear something like a scream carried on the wind, and there was[r]
-also the sound of a helicopter in the distance.[pcms]
+Indeed, I could hear something like a scream carried on the[r]
+wind, and there was also the sound of a helicopter in the[r]
+distance.[pcms]
 
 [se buf=0 storage="se502"]
 
 *2398|
 [fc]
-The soccer club members outside seemed to have noticed something amiss too; they[r]
-all stopped in their tracks and stared intently towards the school gates.[pcms]
+The soccer club members outside seemed to have noticed[r]
+something amiss too; they all stopped in their tracks and[r]
+stared intently towards the school gates.[pcms]
 
 [se buf=1 storage="se503"]
 [ChrSetEx layer=5 chbase="kou_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
@@ -425,15 +448,17 @@ all stopped in their tracks and stared intently towards the school gates.[pcms]
 
 *2400|
 [fc]
-Kousuke-kun muttered as if talking to himself. I didn't have an answer for him[r]
-either. I was just overwhelmed by an intense and unknown sense of dread.[pcms]
+Kousuke-kun muttered as if talking to himself. I didn't have[r]
+an answer for him either. I was just overwhelmed by an[r]
+intense and unknown sense of dread.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2401|
 [fc]
 [ns]Kousuke[nse]
-"Hey! Someone's climbing over the school gate and coming in?"[pcms]
+"Hey! Someone's climbing over the school gate and coming[r]
+in?"[pcms]
 
 *2402|
 [fc]
@@ -443,13 +468,14 @@ either. I was just overwhelmed by an intense and unknown sense of dread.[pcms]
 
 *2403|
 [fc]
-When I hurriedly looked towards the gate, I saw a man wearing a T-shirt and[r]
-denim pants who clearly wasn't affiliated with the school entering.[pcms]
+When I hurriedly looked towards the gate, I saw a man[r]
+wearing a T-shirt and denim pants who clearly wasn't[r]
+affiliated with the school entering.[pcms]
 
 *2404|
 [fc]
-Following him was a woman in a suit, possibly on her way to work. What? What[r]
-happened?[pcms]
+Following him was a woman in a suit, possibly on her way to[r]
+work. What? What happened?[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -460,8 +486,9 @@ happened?[pcms]
 
 *2406|
 [fc]
-As if being restrained by Kousuke-kun, I was pulled away from the window. At the[r]
-same time, another scream reached my ears.[pcms]
+As if being restrained by Kousuke-kun, I was pulled away[r]
+from the window. At the same time, another scream reached my[r]
+ears.[pcms]
 
 [se buf=0 storage="hogakuseiC0001"]
 
@@ -476,8 +503,8 @@ same time, another scream reached my ears.[pcms]
 *2407|
 [fc]
 [ns]Kousuke[nse]
-"Just now... The guy who entered the school attacked the baseball team[r]
-practicing on the field..."[pcms]
+"Just now... The guy who entered the school attacked the[r]
+baseball team practicing on the field..."[pcms]
 
 *2408|
 [fc]
@@ -497,9 +524,9 @@ practicing on the field..."[pcms]
 
 *2410|
 [fc]
-Unable to fully believe Kousuke-kun's words, I shook my head. But as if to[r]
-confirm his words, screams from dozens of people could be heard through the[r]
-window.[pcms]
+Unable to fully believe Kousuke-kun's words, I shook my[r]
+head. But as if to confirm his words, screams from dozens of[r]
+people could be heard through the window.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -510,17 +537,19 @@ window.[pcms]
 
 *2412|
 [fc]
-Kousuke-kun's voice couldn't hide his irritation. We had no idea that this was[r]
-the beginning of a tragedy.[pcms]
+Kousuke-kun's voice couldn't hide his irritation. We had no[r]
+idea that this was the beginning of a tragedy.[pcms]
 
 *2413|
 [fc]
-No, I think we didn't want to realize it. All we could do was instinctively lock[r]
-the door of the audio-visual room and shut ourselves inside.[pcms]
+No, I think we didn't want to realize it. All we could do[r]
+was instinctively lock the door of the audio-visual room and[r]
+shut ourselves inside.[pcms]
 
 *2414|
 [fc]
-I wonder how my brother is doing? It's about time for him to come to school.[pcms]
+I wonder how my brother is doing? It's about time for him to[r]
+come to school.[pcms]
 
 *2415|
 [fc]

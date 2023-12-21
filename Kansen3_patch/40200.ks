@@ -35,7 +35,8 @@
 [fc]
 [vo_yuh s="yuho0854"]
 [ns]Yuuho[nse]
-"I wonder if the medicine worked... He seems to have calmed down."[pcms]
+"I wonder if the medicine worked... He seems to have calmed[r]
+down."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -50,8 +51,9 @@
 
 *1402|
 [fc]
-He's still breathing in short bursts, but the terrifying growling has subsided,[r]
-and the boss has finally fallen asleep.[pcms]
+He's still breathing in short bursts, but the terrifying[r]
+growling has subsided, and the boss has finally fallen[r]
+asleep.[pcms]
 
 ;//@konya テキスト修正
 ;//ワタル達が『ででっぽう』に向かっている間は、
@@ -59,34 +61,37 @@ and the boss has finally fallen asleep.[pcms]
 
 *1403|
 [fc]
-Until Wataru and Tadahiko return with their equipment, it's up to us... no, it's[r]
-up to me to protect this place.[pcms]
+Until Wataru and Tadahiko return with their equipment, it's[r]
+up to us... no, it's up to me to protect this place.[pcms]
 
 *1404|
 [fc]
-But we can't stay in a place like this for long. The boss is in this condition,[r]
-after all.[pcms]
+But we can't stay in a place like this for long. The boss is[r]
+in this condition, after all.[pcms]
 
 *1405|
 [fc]
-We should prepare to be able to leave at any moment... We have to save the boss[r]
-too. Either way, we'll have to go outside.[pcms]
+We should prepare to be able to leave at any moment... We[r]
+have to save the boss too. Either way, we'll have to go[r]
+outside.[pcms]
 
 *1406|
 [fc]
-The two of them are busy taking care of the boss. It's up to me to make the[r]
-suggestion.[pcms]
+The two of them are busy taking care of the boss. It's up to[r]
+me to make the suggestion.[pcms]
 
 *1407|
 [fc]
 [ns]Kousuke[nse]
-"Everyone, let's get ready to move from here. Of course, we'll move after Wataru[r]
-comes back. Before that, let's gather our belongings."[pcms]
+"Everyone, let's get ready to move from here. Of course,[r]
+we'll move after Wataru comes back. Before that, let's[r]
+gather our belongings."[pcms]
 
 *1408|
 [fc]
-They looked surprised for a moment, but they seemed to understand what I meant[r]
-right away and started moving without a word.[pcms]
+They looked surprised for a moment, but they seemed to[r]
+understand what I meant right away and started moving[r]
+without a word.[pcms]
 
 *1409|
 [fc]
@@ -94,11 +99,13 @@ Gathering our things didn't take much time at all.[pcms]
 
 *1410|
 [fc]
-Everyone quickly finished their tasks and gathered around the boss again.[pcms]
+Everyone quickly finished their tasks and gathered around[r]
+the boss again.[pcms]
 
 *1411|
 [fc]
-Yuuho and Ren seem a bit relieved now that the boss's condition has stabilized.[pcms]
+Yuuho and Ren seem a bit relieved now that the boss's[r]
+condition has stabilized.[pcms]
 
 ;//@konya テキスト修正
 ;//親分の額に滲んだ汗を拭き取ったあと、荷物をまとめた所まで
@@ -107,8 +114,8 @@ Yuuho and Ren seem a bit relieved now that the boss's condition has stabilized.[
 
 *1412|
 [fc]
-Suddenly, Ren took out the cell phone she was holding for Wataru and let out a[r]
-small gasp.[pcms]
+Suddenly, Ren took out the cell phone she was holding for[r]
+Wataru and let out a small gasp.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -136,8 +143,8 @@ small gasp.[pcms]
 
 *1416|
 [fc]
-Ren's thumb pressed the email button on Wataru's cell phone, and both Yuuho's[r]
-and my gaze focused on the display.[pcms]
+Ren's thumb pressed the email button on Wataru's cell phone,[r]
+and both Yuuho's and my gaze focused on the display.[pcms]
 
 *1417|
 [fc]
@@ -162,23 +169,23 @@ The sender was Ren and Wataru's father... from uncle.[pcms]
 
 *1421|
 [fc]
-Ren, with a relieved expression yet trembling fingers, operated the cell phone[r]
-and opened the newly arrived email.[pcms]
+Ren, with a relieved expression yet trembling fingers,[r]
+operated the cell phone and opened the newly arrived email.[pcms]
 
 *1422|
 [fc]
-"The evacuation site of Mouse Kingdom has been attacked by a swarm of crows and[r]
-it's a mess."[pcms]
+"The evacuation site of Mouse Kingdom has been attacked by a[r]
+swarm of crows and it's a mess."[pcms]
 
 *1423|
 [fc]
-"We are safe inside the building, but we don't know what happened to the people[r]
-who were in the tents outside--"[pcms]
+"We are safe inside the building, but we don't know what[r]
+happened to the people who were in the tents outside--"[pcms]
 
 *1424|
 [fc]
-"I have no idea why those crows are flocking and attacking people. You too, be[r]
-careful of 'them'."[pcms]
+"I have no idea why those crows are flocking and attacking[r]
+people. You too, be careful of 'them'."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -191,13 +198,14 @@ careful of 'them'."[pcms]
 
 *1426|
 [fc]
-Seeing the email and confirming that her uncle was safe, Ren let out a trembling[r]
-voice. Tears were brimming in her eyes.[pcms]
+Seeing the email and confirming that her uncle was safe, Ren[r]
+let out a trembling voice. Tears were brimming in her eyes.[pcms]
 
 *1427|
 [fc]
-Looking at Ren's relieved face and the somewhat calmed sleeping face of the[r]
-boss, the anxiety about our current situation eased a little.[pcms]
+Looking at Ren's relieved face and the somewhat calmed[r]
+sleeping face of the boss, the anxiety about our current[r]
+situation eased a little.[pcms]
 
 *1428|
 [fc]
@@ -223,8 +231,9 @@ boss, the anxiety about our current situation eased a little.[pcms]
 
 *1431|
 [fc]
-Ren smiled back at our voices and then turned her eyes back to the cell phone,[r]
-her expression serious again as she began to move her thumb quickly.[pcms]
+Ren smiled back at our voices and then turned her eyes back[r]
+to the cell phone, her expression serious again as she began[r]
+to move her thumb quickly.[pcms]
 
 *1432|
 [fc]
@@ -232,8 +241,8 @@ She's always been fast at typing emails...[pcms]
 
 *1433|
 [fc]
-While I was admiring Ren's finger work, I suddenly felt a strange sensation on[r]
-my back.[pcms]
+While I was admiring Ren's finger work, I suddenly felt a[r]
+strange sensation on my back.[pcms]
 
 *1434|
 [fc]
@@ -257,13 +266,14 @@ What is this unpleasant feeling...[pcms]
 
 *1437|
 [fc]
-I hadn't been touched by anyone... But I have a bad premonition. What could it[r]
-be...[pcms]
+I hadn't been touched by anyone... But I have a bad[r]
+premonition. What could it be...[pcms]
 
 *1438|
 [fc]
-I turned around because of that strange sensation, or rather an unpleasant[r]
-feeling, but only darkness spread out before me--[pcms]
+I turned around because of that strange sensation, or rather[r]
+an unpleasant feeling, but only darkness spread out before[r]
+me--[pcms]
 
 *1439|
 [fc]
@@ -285,12 +295,13 @@ feeling, but only darkness spread out before me--[pcms]
 
 *1442|
 [fc]
-The cause of Ren's scream was the boss who was supposed to be asleep until just[r]
-now.[pcms]
+The cause of Ren's scream was the boss who was supposed to[r]
+be asleep until just now.[pcms]
 
 *1443|
 [fc]
-The boss had firmly grabbed Ren's hand and was breathing heavily.[pcms]
+The boss had firmly grabbed Ren's hand and was breathing[r]
+heavily.[pcms]
 
 *1444|
 [fc]
@@ -317,7 +328,8 @@ I thought he was trying to convey his suffering to Ren...[pcms]
 
 *1448|
 [fc]
-The boss had his eyes filled with a murky red light and was growling.[pcms]
+The boss had his eyes filled with a murky red light and was[r]
+growling.[pcms]
 
 *1449|
 [fc]
@@ -338,12 +350,13 @@ Red eyes... could it be... Boss![pcms]
 
 *1452|
 [fc]
-Before me, Yuuho rushed to Ren-chan, trying to pull her hand away from the[r]
-boss's tight grip.[pcms]
+Before me, Yuuho rushed to Ren-chan, trying to pull her hand[r]
+away from the boss's tight grip.[pcms]
 
 *1453|
 [fc]
-It was hard to see in the dark, but the boss's hand did not let go of Ren-chan.[pcms]
+It was hard to see in the dark, but the boss's hand did not[r]
+let go of Ren-chan.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -358,8 +371,8 @@ It was hard to see in the dark, but the boss's hand did not let go of Ren-chan.[
 *1455|
 [fc]
 [ns]Boss[nse]
-"Gubaaa! You seem soft... hehe!! But your lower part seems firm~!! It must feel[r]
-good... your pussy, young lady!"[pcms]
+"Gubaaa! You seem soft... hehe!! But your lower part seems[r]
+firm~!! It must feel good... your pussy, young lady!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -371,13 +384,13 @@ good... your pussy, young lady!"[pcms]
 
 *1457|
 [fc]
-The boss is infected!! Just like them... If this continues, Ren-chan will be[r]
-attacked!![pcms]
+The boss is infected!! Just like them... If this continues,[r]
+Ren-chan will be attacked!![pcms]
 
 *1458|
 [fc]
-...But if I carelessly hit his face and my fist hits his teeth... I'll join[r]
-their ranks.[pcms]
+...But if I carelessly hit his face and my fist hits his[r]
+teeth... I'll join their ranks.[pcms]
 
 *1459|
 [fc]
@@ -402,8 +415,8 @@ I'm a bit reluctant, but--[pcms]
 
 *1463|
 [fc]
-I accelerated from where I stood, aimed at the boss, and leaped with a dropkick[r]
-stance.[pcms]
+I accelerated from where I stood, aimed at the boss, and[r]
+leaped with a dropkick stance.[pcms]
 
 ;//〆：レッドフラッシュ
 [赤フラ]
@@ -421,13 +434,14 @@ stance.[pcms]
 
 *1465|
 [fc]
-The boss, having received a full-body dropkick, was blown away from Ren-chan to[r]
-the wall.[pcms]
+The boss, having received a full-body dropkick, was blown[r]
+away from Ren-chan to the wall.[pcms]
 
 *1466|
 [fc]
-Yuuho, who had been trying to help by pulling, stumbled backward with Ren-chan,[r]
-who was suddenly released from the boss's grip, and fell on her butt.[pcms]
+Yuuho, who had been trying to help by pulling, stumbled[r]
+backward with Ren-chan, who was suddenly released from the[r]
+boss's grip, and fell on her butt.[pcms]
 
 *1467|
 [fc]
@@ -460,7 +474,8 @@ Landing successfully, I slid right to Ren-chan's feet.[pcms]
 
 *1472|
 [fc]
-Yuuho was safe, but Ren-chan didn't respond as if she was shocked.[pcms]
+Yuuho was safe, but Ren-chan didn't respond as if she was[r]
+shocked.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -473,15 +488,17 @@ Yuuho was safe, but Ren-chan didn't respond as if she was shocked.[pcms]
 *1474|
 [fc]
 [ns]Kousuke[nse]
-"Thank goodness... but we can't relax! The boss might get up again...!"[pcms]
+"Thank goodness... but we can't relax! The boss might get up[r]
+again...!"[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1475|
 [fc]
-Although Ren-chan was safe, we couldn't relax yet. I turned towards where the[r]
-boss had been blown away and braced myself.[pcms]
+Although Ren-chan was safe, we couldn't relax yet. I turned[r]
+towards where the boss had been blown away and braced[r]
+myself.[pcms]
 
 *1476|
 [fc]
@@ -489,20 +506,22 @@ The infected ones are like immortal... We can't be at ease![pcms]
 
 *1477|
 [fc]
-Turning around, I saw a single pitch-black line on the wall and the boss lying[r]
-down right below it.[pcms]
+Turning around, I saw a single pitch-black line on the wall[r]
+and the boss lying down right below it.[pcms]
 
 *1478|
 [fc]
-The boss, lying on his back, was twitching slightly but gradually started moving[r]
-his hips and arms, standing up like a broken puppet.[pcms]
+The boss, lying on his back, was twitching slightly but[r]
+gradually started moving his hips and arms, standing up like[r]
+a broken puppet.[pcms]
 
 [ChrSetEx layer=5 chbase="oyabun"][ChrSetXY layer=5 x=136 y=0][trans_c cross time=150]
 
 *1479|
 [fc]
 [ns]Boss[nse]
-"Bubaaa... gaha... guh... guhguhguh!! I smell pussy over here, maybe this way?"[pcms]
+"Bubaaa... gaha... guh... guhguhguh!! I smell pussy over[r]
+here, maybe this way?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -523,8 +542,9 @@ his hips and arms, standing up like a broken puppet.[pcms]
 
 *1482|
 [fc]
-Despite spewing blood from his nose and mouth while trying to stand up, I felt[r]
-disgust at the sight of the boss more than fear, like seeing a mass of maggots.[pcms]
+Despite spewing blood from his nose and mouth while trying[r]
+to stand up, I felt disgust at the sight of the boss more[r]
+than fear, like seeing a mass of maggots.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -536,8 +556,9 @@ disgust at the sight of the boss more than fear, like seeing a mass of maggots.[
 
 *1484|
 [fc]
-I wasn't the only one. Ren-chan too seemed paralyzed on the spot due to seeing[r]
-the boss's form, as if all strength had left her body.[pcms]
+I wasn't the only one. Ren-chan too seemed paralyzed on the[r]
+spot due to seeing the boss's form, as if all strength had[r]
+left her body.[pcms]
 
 *1485|
 [fc]
@@ -554,8 +575,8 @@ This is no good... We can't stay like this!![pcms]
 
 *1487|
 [fc]
-Fear of the approaching boss exceeded its limits, and Ren-chan screamed as if[r]
-mustering all her strength.[pcms]
+Fear of the approaching boss exceeded its limits, and Ren-[r]
+chan screamed as if mustering all her strength.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -563,8 +584,8 @@ mustering all her strength.[pcms]
 [fc]
 [vo_yuh s="yuho0863"]
 [ns]Yuuho[nse]
-"No good! Let's run! Ren-chan, come on, stand up! Hurry up!! Kousuke! Let's[r]
-escape!!"[pcms]
+"No good! Let's run! Ren-chan, come on, stand up! Hurry up!![r]
+Kousuke! Let's escape!!"[pcms]
 ;//＠後半、重いモノを持ち上げるように
 
 *1489|
@@ -577,13 +598,13 @@ escape!!"[pcms]
 
 *1490|
 [fc]
-I'm the only one who can protect this place... But after seeing that thing... my[r]
-legs won't move properly...[pcms]
+I'm the only one who can protect this place... But after[r]
+seeing that thing... my legs won't move properly...[pcms]
 
 *1491|
 [fc]
-The slowly approaching "thing that used to be the boss" and my own slow retreat[r]
-were all I could manage.[pcms]
+The slowly approaching "thing that used to be the boss" and[r]
+my own slow retreat were all I could manage.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -595,8 +616,8 @@ were all I could manage.[pcms]
 
 *1493|
 [fc]
-At Yuuho's scream-like voice, I finally broke free from the "thing that used to[r]
-be the boss"'s spell.[pcms]
+At Yuuho's scream-like voice, I finally broke free from the[r]
+"thing that used to be the boss"'s spell.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -604,17 +625,18 @@ be the boss"'s spell.[pcms]
 *1494|
 [fc]
 [ns]Kousuke[nse]
-"Damn it!! Just die quietly!! We're running away, we can't deal with that[r]
-thing!!"[pcms]
+"Damn it!! Just die quietly!! We're running away, we can't[r]
+deal with that thing!!"[pcms]
 
 *1495|
 [fc]
-Together with Yuuho, I grabbed Ren-chan's hand and started running towards the[r]
-door.[pcms]
+Together with Yuuho, I grabbed Ren-chan's hand and started[r]
+running towards the door.[pcms]
 
 *1496|
 [fc]
-If it's that door, we've moved it once before, so it should move easily now.[pcms]
+If it's that door, we've moved it once before, so it should[r]
+move easily now.[pcms]
 
 *1497|
 [fc]
@@ -639,7 +661,8 @@ If it's that door, we've moved it once before, so it should move easily now.[pcm
 
 *1500|
 [fc]
-I charged towards the door with all the momentum I had built up.[pcms]
+I charged towards the door with all the momentum I had built[r]
+up.[pcms]
 
 ;//〆：ホワイトフラッシュ
 [白フラ]
@@ -650,13 +673,13 @@ I charged towards the door with all the momentum I had built up.[pcms]
 
 *1501|
 [fc]
-The heavy, solid door made a louder noise when it opened than when I had rammed[r]
-into it.[pcms]
+The heavy, solid door made a louder noise when it opened[r]
+than when I had rammed into it.[pcms]
 
 *1502|
 [fc]
-But, although it didn't open smoothly, we managed to open it without too much[r]
-trouble.[pcms]
+But, although it didn't open smoothly, we managed to open it[r]
+without too much trouble.[pcms]
 
 ;//〆：地下通路
 [bg storage="BG027"][trans_c cross time=500]
@@ -676,13 +699,14 @@ trouble.[pcms]
 
 *1505|
 [fc]
-We tumbled into the empty space beyond the door, carried by the momentum of[r]
-opening it.[pcms]
+We tumbled into the empty space beyond the door, carried by[r]
+the momentum of opening it.[pcms]
 
 *1506|
 [fc]
-But we couldn't just stay down; we had to close the door that was left open, or[r]
-"the thing that used to be the boss" would come after me again.[pcms]
+But we couldn't just stay down; we had to close the door[r]
+that was left open, or "the thing that used to be the boss"[r]
+would come after me again.[pcms]
 
 *1507|
 [fc]
@@ -694,8 +718,8 @@ But we couldn't just stay down; we had to close the door that was left open, or[
 
 *1508|
 [fc]
-Leaving the two who had fallen on the floor as they were, I rushed to the door[r]
-and frantically closed it.[pcms]
+Leaving the two who had fallen on the floor as they were, I[r]
+rushed to the door and frantically closed it.[pcms]
 
 *1509|
 [fc]
@@ -708,7 +732,8 @@ I think we're safe for now, but...[pcms]
 
 *1511|
 [fc]
-We watched the closed door in silence, as if holding our breath.[pcms]
+We watched the closed door in silence, as if holding our[r]
+breath.[pcms]
 
 ;[zapend_random]
 [zapfade]

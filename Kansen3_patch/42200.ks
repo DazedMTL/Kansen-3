@@ -27,7 +27,8 @@
 
 *6490|
 [fc]
-After defeating those around him, Father approached Ren and hugged her.[pcms]
+After defeating those around him, Father approached Ren and[r]
+hugged her.[pcms]
 
 *6491|
 [fc]
@@ -63,8 +64,8 @@ Father spread Ren's legs and lifted her up from the front.[pcms]
 *6496|
 [fc]
 [ns]Father[nse]
-"What are you talking about, Ren. Didn't I often lift you up like this when you[r]
-were little?"[pcms]
+"What are you talking about, Ren. Didn't I often lift you up[r]
+like this when you were little?"[pcms]
 
 *6497|
 [fc]
@@ -74,7 +75,8 @@ were little?"[pcms]
 
 *6498|
 [fc]
-Ren, still being held up by Father, shook her body and showed her dislike.[pcms]
+Ren, still being held up by Father, shook her body and[r]
+showed her dislike.[pcms]
 
 *6499|
 [fc]
@@ -100,7 +102,8 @@ There's no need to dislike it that much~. Alright...[pcms]
 [fc]
 [vo_ren s="ren0717"]
 [ns]Ren[nse]
-"What's wrong...? Father is acting strange! Help me, Brother!!"[pcms]
+"What's wrong...? Father is acting strange! Help me,[r]
+Brother!!"[pcms]
 
 *6504|
 [fc]
@@ -148,11 +151,13 @@ There's no need to dislike it that much~. Alright...[pcms]
 
 *6512|
 [fc]
-Ren is making strange noises and seems frightened. What could she be afraid of?[pcms]
+Ren is making strange noises and seems frightened. What[r]
+could she be afraid of?[pcms]
 
 *6513|
 [fc]
-I stood behind Ren to support her back as if sandwiching her with Father.[pcms]
+I stood behind Ren to support her back as if sandwiching her[r]
+with Father.[pcms]
 
 ;//漣をサンドイッチして背後に立つ主人公
 
@@ -165,7 +170,8 @@ I stood behind Ren to support her back as if sandwiching her with Father.[pcms]
 *6515|
 [fc]
 [ns]Wataru[nse]
-"It's okay~ Ren~. Father has properly protected your virginity, hasn't he~"[pcms]
+"It's okay~ Ren~. Father has properly protected your[r]
+virginity, hasn't he~"[pcms]
 
 *6516|
 [fc]
@@ -196,17 +202,20 @@ Ren looked at me as if I were a monster and was scared.[pcms]
 *6521|
 [fc]
 [ns]Father[nse]
-"Hey hey~ what are you saying, Wataru? Ren's purity is mine to take~?"[pcms]
+"Hey hey~ what are you saying, Wataru? Ren's purity is mine[r]
+to take~?"[pcms]
 
 *6522|
 [fc]
 [ns]Wataru[nse]
-"Take her purity? No way~ Father, you protected Ren's virginity for me, right~?"[pcms]
+"Take her purity? No way~ Father, you protected Ren's[r]
+virginity for me, right~?"[pcms]
 
 *6523|
 [fc]
 [ns]Father[nse]
-"It's decided that I will take it~. Because I love Ren the most~"[pcms]
+"It's decided that I will take it~. Because I love Ren the[r]
+most~"[pcms]
 
 *6524|
 [fc]
@@ -215,13 +224,14 @@ Father said to me as if it were a matter of course.[pcms]
 *6525|
 [fc]
 [ns]Wataru[nse]
-"I can't agree with that, you old man! Ren's virginity is mine!"[pcms]
+"I can't agree with that, you old man! Ren's virginity is[r]
+mine!"[pcms]
 
 *6526|
 [fc]
 [ns]Father[nse]
-"What are you talking about? I've been the sole breadwinner, raising you kids[r]
-all this time~"[pcms]
+"What are you talking about? I've been the sole breadwinner,[r]
+raising you kids all this time~"[pcms]
 
 *6527|
 [fc]
@@ -241,7 +251,8 @@ Father sure knows where to hit where it hurts.[pcms]
 [fc]
 [vo_ren s="ren0724"]
 [ns]Ren[nse]
-"Euh...uh...uhh... Both of you are crazy... Stop it... please stop..."[pcms]
+"Euh...uh...uhh... Both of you are crazy... Stop it...[r]
+please stop..."[pcms]
 
 *6531|
 [fc]
@@ -249,7 +260,8 @@ Ren was shedding tears from her eyes.[pcms]
 
 *6532|
 [fc]
-I guess she can't wait to have her virginity taken. Alright...[pcms]
+I guess she can't wait to have her virginity taken.[r]
+Alright...[pcms]
 
 *6533|
 [fc]
@@ -289,7 +301,8 @@ Which one of us will break Ren's virginity, me or Father?[pcms]
 
 ;	[link storage="42210.ks" target=*42210_TOP]オレオレ！[endlink]
 ;	[link storage="42230.ks" target=*42230_TOP]とうさんに譲る[endlink]
-(link storage="42250.ks" target=*42250_TOP)Let's do it together(endlink)[pcms]
+(link storage="42250.ks" target=*42250_TOP)Let's do it[r]
+together(endlink)[pcms]
 
 *SEL39|オレオレ！／とうさんに譲る／仲良く一緒に
 [fc]

@@ -29,7 +29,8 @@
 
 *3625|
 [fc]
-After working for a while, I got pretty tired, so I decided to take a break.[pcms]
+After working for a while, I got pretty tired, so I decided[r]
+to take a break.[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -53,8 +54,8 @@ When I went back to the DJ bar, there was no one there.[pcms]
 
 *3629|
 [fc]
-But I could see empty plates and cups on the table, which seemed to have been[r]
-used for a meal.[pcms]
+But I could see empty plates and cups on the table, which[r]
+seemed to have been used for a meal.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -105,8 +106,9 @@ A moment of anxiety crossed my mind.[pcms]
 
 *3635|
 [fc]
-If Shigeyoshi is awake... I hope Ren isn't getting tangled up with him. If Jin-[r]
-san is with her, she should be okay, but...[pcms]
+If Shigeyoshi is awake... I hope Ren isn't getting tangled[r]
+up with him. If Jin- san is with her, she should be okay,[r]
+but...[pcms]
 
 *3636|
 [fc]
@@ -115,7 +117,8 @@ san is with her, she should be okay, but...[pcms]
 
 *3637|
 [fc]
-Leaving Ren alone in the building might have been careless...[pcms]
+Leaving Ren alone in the building might have been[r]
+careless...[pcms]
 
 *3638|
 [fc]
@@ -131,8 +134,8 @@ Just as I was starting to worry...[pcms]
 
 *3640|
 [fc]
-Ren came out from the backyard, accompanied by Jin-san and Shigeyoshi on both[r]
-sides.[pcms]
+Ren came out from the backyard, accompanied by Jin-san and[r]
+Shigeyoshi on both sides.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -171,8 +174,9 @@ A moment of anxiety crossed my mind.[pcms]
 
 *3646|
 [fc]
-If Shigeyoshi is awake... I hope Yuuho isn't getting tangled up with him. If[r]
-Jin-san is with her, she should be okay, but...[pcms]
+If Shigeyoshi is awake... I hope Yuuho isn't getting tangled[r]
+up with him. If Jin-san is with her, she should be okay,[r]
+but...[pcms]
 
 *3647|
 [fc]
@@ -181,7 +185,8 @@ Jin-san is with her, she should be okay, but...[pcms]
 
 *3648|
 [fc]
-Leaving Yuuho alone in the building might have been careless...[pcms]
+Leaving Yuuho alone in the building might have been[r]
+careless...[pcms]
 
 *3649|
 [fc]
@@ -193,13 +198,13 @@ Just as I was starting to worry...[pcms]
 [fc]
 [vo_yuh s="yuho1643"]
 [ns]Yuuho[nse]
-"Ah, welcome back~! That's a lot of stuff you've got there, must've been tough,[r]
-right?"[pcms]
+"Ah, welcome back~! That's a lot of stuff you've got there,[r]
+must've been tough, right?"[pcms]
 
 *3651|
 [fc]
-Yuuho came out from the backyard, accompanied by Jin-san and Shigeyoshi on both[r]
-sides.[pcms]
+Yuuho came out from the backyard, accompanied by Jin-san and[r]
+Shigeyoshi on both sides.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -207,7 +212,8 @@ sides.[pcms]
 [fc]
 [vo_yuh s="yuho1644"]
 [ns]Yuuho[nse]
-"We just finished the laundry too. I hung everything up neatly!"[pcms]
+"We just finished the laundry too. I hung everything up[r]
+neatly!"[pcms]
 
 ;//ジャンプ C003
 [jump storage="50590.ks" target=*50590_03]
@@ -231,7 +237,8 @@ Well, as long as nothing happened, it's fine...[pcms]
 [fc]
 [vo_miz s="mizuki0333"]
 [ns]Mizuki[nse]
-"...Speaking of which, why are Jin and the others together with you?"[pcms]
+"...Speaking of which, why are Jin and the others together[r]
+with you?"[pcms]
 
 *3656|
 [fc]
@@ -262,8 +269,9 @@ Mizuki asked exactly what I was wondering too.[pcms]
 [fc]
 [vo_ren s="ren1441"]
 [ns]Ren[nse]
-"Oh, that's because Jin-san and the others helped us out. They helped us stretch[r]
-out the clothesline wires and stuff. Right?"[pcms]
+"Oh, that's because Jin-san and the others helped us out.[r]
+They helped us stretch out the clothesline wires and stuff.[r]
+Right?"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -276,8 +284,8 @@ out the clothesline wires and stuff. Right?"[pcms]
 
 *3659|
 [fc]
-Faced with Ren's smile, Shigeyoshi hurriedly switched from a look of discontent[r]
-to a forced, creepy grin.[pcms]
+Faced with Ren's smile, Shigeyoshi hurriedly switched from a[r]
+look of discontent to a forced, creepy grin.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -293,15 +301,16 @@ More terrifying than that smile was...[pcms]
 
 *3662|
 [fc]
-Jin-san and the others. Helped with the laundry... is that what you're saying?[pcms]
+Jin-san and the others. Helped with the laundry... is that[r]
+what you're saying?[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3663|
 [fc]
 [ns]Jin[nse]
-"...I was threatened that if I didn't help, I'd never get salad made for me[r]
-again..."[pcms]
+"...I was threatened that if I didn't help, I'd never get[r]
+salad made for me again..."[pcms]
 
 *3664|
 [fc]
@@ -314,8 +323,9 @@ You... threatened them!? What have you been doing, Ren???[pcms]
 
 *3666|
 [fc]
-Somehow since coming to this building, Jin-san and the others have been quiet,[r]
-and it's easy to forget but... these people are yakuza!?[pcms]
+Somehow since coming to this building, Jin-san and the[r]
+others have been quiet, and it's easy to forget but... these[r]
+people are yakuza!?[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -323,25 +333,28 @@ and it's easy to forget but... these people are yakuza!?[pcms]
 [fc]
 [vo_ren s="ren1442"]
 [ns]Ren[nse]
-"I didn't threaten anyone. This was a fair trade done in good faith!"[pcms]
+"I didn't threaten anyone. This was a fair trade done in[r]
+good faith!"[pcms]
 
 *3668|
 [fc]
-Ren puffed out her chest proudly as if to say 'eheh'. But... dealing with[r]
-yakuza, there's no such thing as fair, right...?[pcms]
+Ren puffed out her chest proudly as if to say 'eheh'. But...[r]
+dealing with yakuza, there's no such thing as fair,[r]
+right...?[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3669|
 [fc]
-If anything, it's like seeing a lion napping and thinking 'how cute' and petting[r]
-it. These people are carnivores by nature!?[pcms]
+If anything, it's like seeing a lion napping and thinking[r]
+'how cute' and petting it. These people are carnivores by[r]
+nature!?[pcms]
 
 *3670|
 [fc]
-In the future, I'll definitely avoid leaving Ren alone with Jin-san and the[r]
-others... I firmly vowed to myself.[pcms]
+In the future, I'll definitely avoid leaving Ren alone with[r]
+Jin-san and the others... I firmly vowed to myself.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -359,8 +372,8 @@ others... I firmly vowed to myself.[pcms]
 [fc]
 [vo_yuh s="yuho1645"]
 [ns]Yuuho[nse]
-"Ah, Jin-san and the others helped out too. They helped us stretch out the[r]
-clothesline wires and stuff. Right?"[pcms]
+"Ah, Jin-san and the others helped out too. They helped us[r]
+stretch out the clothesline wires and stuff. Right?"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -373,8 +386,8 @@ clothesline wires and stuff. Right?"[pcms]
 
 *3673|
 [fc]
-Faced with Yuuho's smile, Shigeyoshi hurriedly switched from a look of[r]
-discontent to a forced, creepy grin.[pcms]
+Faced with Yuuho's smile, Shigeyoshi hurriedly switched from[r]
+a look of discontent to a forced, creepy grin.[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -390,15 +403,16 @@ More terrifying than that smile was...[pcms]
 
 *3676|
 [fc]
-Jin-san and the others. Helped with the laundry... is that what you're saying?[pcms]
+Jin-san and the others. Helped with the laundry... is that[r]
+what you're saying?[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3677|
 [fc]
 [ns]Jin[nse]
-"...If we didn't help, we were threatened that we wouldn't be able to eat our[r]
-meals in peace..."[pcms]
+"...If we didn't help, we were threatened that we wouldn't[r]
+be able to eat our meals in peace..."[pcms]
 
 *3678|
 [fc]
@@ -414,8 +428,9 @@ You... threatened them!? What have you been doing, Yuuho???[pcms]
 
 *3680|
 [fc]
-Somehow since coming to this building, Jin-san and the others have been quiet,[r]
-and it's easy to forget but... these people are yakuza!?[pcms]
+Somehow since coming to this building, Jin-san and the[r]
+others have been quiet, and it's easy to forget but... these[r]
+people are yakuza!?[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -434,18 +449,20 @@ Yuuho puffed out her chest proudly as if to say 'eheh'.[pcms]
 
 *3683|
 [fc]
-What she's saying is certainly correct, but... threatening yakuza, how is that!?[r]
-And how did you even threaten them and come out unscathed???[pcms]
+What she's saying is certainly correct, but... threatening[r]
+yakuza, how is that!? And how did you even threaten them and[r]
+come out unscathed???[pcms]
 
 *3684|
 [fc]
-If anything, it's like seeing a lion napping and thinking 'how cute' and petting[r]
-it. These people are carnivores by nature!?[pcms]
+If anything, it's like seeing a lion napping and thinking[r]
+'how cute' and petting it. These people are carnivores by[r]
+nature!?[pcms]
 
 *3685|
 [fc]
-In the future, I'll definitely avoid leaving Yuuho alone with Jin-san and the[r]
-others... I firmly vowed to myself.[pcms]
+In the future, I'll definitely avoid leaving Yuuho alone[r]
+with Jin-san and the others... I firmly vowed to myself.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

@@ -26,17 +26,19 @@
 
 *1362|
 [fc]
-We each took a seat and settled down in the main room of the DJ bar.[pcms]
+We each took a seat and settled down in the main room of the[r]
+DJ bar.[pcms]
 
 *1363|
 [fc]
-It was when we were talking about wanting more information that Kousuke[r]
-remembered we could watch TV on the bar's large screen.[pcms]
+It was when we were talking about wanting more information[r]
+that Kousuke remembered we could watch TV on the bar's large[r]
+screen.[pcms]
 
 *1364|
 [fc]
-After searching around the room, Kousuke found the remote control and[r]
-triumphantly raised his hand high.[pcms]
+After searching around the room, Kousuke found the remote[r]
+control and triumphantly raised his hand high.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -55,7 +57,8 @@ triumphantly raised his hand high.[pcms]
 
 *1367|
 [fc]
-When we turned on the monitor, it was filled with static noise like a sandstorm.[pcms]
+When we turned on the monitor, it was filled with static[r]
+noise like a sandstorm.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -70,8 +73,8 @@ Kousuke kept changing the channels one after another.[pcms]
 
 *1370|
 [fc]
-But all that appeared on the screen was static, color bars, or the message[r]
-"Please wait a moment."[pcms]
+But all that appeared on the screen was static, color bars,[r]
+or the message "Please wait a moment."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -79,8 +82,8 @@ But all that appeared on the screen was static, color bars, or the message[r]
 [fc]
 [vo_yuh s="yuho1519"]
 [ns]Yuuho[nse]
-"Hey! Isn't this like all terrestrial broadcasts are wiped out? What about BS or[r]
-cable?"[pcms]
+"Hey! Isn't this like all terrestrial broadcasts are wiped[r]
+out? What about BS or cable?"[pcms]
 
 ;//☆佐藤さんへ
 ;//ケーブルチャンネル、ＢＳチャンネルは何かしらの放送あった方が良い？
@@ -93,8 +96,8 @@ cable?"[pcms]
 *1372|
 [fc]
 [ns]Kousuke[nse]
-"Hold on. Satellite, huh... Let's see, to switch the input line... Here it is,[r]
-if I press this button..."[pcms]
+"Hold on. Satellite, huh... Let's see, to switch the input[r]
+line... Here it is, if I press this button..."[pcms]
 
 *1373|
 [fc]
@@ -120,8 +123,8 @@ Just as a news broadcast was about to start.[pcms]
 
 *1377|
 [fc]
-DHK, the station where our father works, had come on, which seemed to be a[r]
-pleasant surprise for Ren as well.[pcms]
+DHK, the station where our father works, had come on, which[r]
+seemed to be a pleasant surprise for Ren as well.[pcms]
 
 ;//★父親の勤める局の名前が、プロットごとに異なっています。
 ;//ＤＨＫとかＢＪＨとか色々ですが、よろしいでしょうか？

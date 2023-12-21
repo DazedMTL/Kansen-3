@@ -43,8 +43,9 @@ This is my job...[pcms]
 
 *4887|
 [fc]
-I can't bear the thought of Ren being killed by someone else... I won't let[r]
-anyone else take the life of my precious sister...![pcms]
+I can't bear the thought of Ren being killed by someone[r]
+else... I won't let anyone else take the life of my precious[r]
+sister...![pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -77,8 +78,8 @@ Yuuho tried to respond, but her words were lost in tears.[pcms]
 
 *4892|
 [fc]
-Ren then looked around at everyone's faces in turn, finally resting her gaze on[r]
-me.[pcms]
+Ren then looked around at everyone's faces in turn, finally[r]
+resting her gaze on me.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -90,8 +91,9 @@ me.[pcms]
 
 *4894|
 [fc]
-A fleeting, somewhat lonely smile. Yet it seemed as if she desperately wanted to[r]
-be spoiled by me, her usual expression...[pcms]
+A fleeting, somewhat lonely smile. Yet it seemed as if she[r]
+desperately wanted to be spoiled by me, her usual[r]
+expression...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -111,13 +113,14 @@ be spoiled by me, her usual expression...[pcms]
 
 *4897|
 [fc]
-Trying to disengage the safety, I failed multiple times. My fingers were[r]
-trembling amusingly.[pcms]
+Trying to disengage the safety, I failed multiple times. My[r]
+fingers were trembling amusingly.[pcms]
 
 *4898|
 [fc]
-I can't do this, I'll miss the shot. It has to be done in an instant... so Ren[r]
-doesn't suffer... Just wait a little longer, Ren. I'll be the one to kill you...[pcms]
+I can't do this, I'll miss the shot. It has to be done in an[r]
+instant... so Ren doesn't suffer... Just wait a little[r]
+longer, Ren. I'll be the one to kill you...[pcms]
 
 *4899|
 [fc]
@@ -134,9 +137,10 @@ Yuuho, Mizuki, and Maruko-senpai looked away.[pcms]
 
 *4902|
 [fc]
-I took a deep breath and then aimed the gun at Ren's forehead, pressing it[r]
-against her to make sure I wouldn't miss. It was the "point-blank range" that[r]
-Ren herself had taught me.[pcms]
+I took a deep breath and then aimed the gun at Ren's[r]
+forehead, pressing it against her to make sure I wouldn't[r]
+miss. It was the "point-blank range" that Ren herself had[r]
+taught me.[pcms]
 
 *4903|
 [fc]

@@ -25,8 +25,8 @@ Gakon![pcms]
 
 *1535|
 [fc]
-As I struggled to close the hatch, I witnessed the sliding door being kicked[r]
-open right in front of me.[pcms]
+As I struggled to close the hatch, I witnessed the sliding[r]
+door being kicked open right in front of me.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -37,19 +37,20 @@ open right in front of me.[pcms]
 
 *1536|
 [fc]
-I hurriedly finished closing the hatch and climbed down the ladder as if[r]
-tumbling down.[pcms]
+I hurriedly finished closing the hatch and climbed down the[r]
+ladder as if tumbling down.[pcms]
 
 *1537|
 [fc]
-The ceiling was so low that I had to stoop to walk, and the only source of light[r]
-was the flashlight held by my senior.[pcms]
+The ceiling was so low that I had to stoop to walk, and the[r]
+only source of light was the flashlight held by my senior.[pcms]
 
 *1538|
 [fc]
-The light coming in from the ventilation ducts was blinding, but it wasn't[r]
-enough to fully illuminate the corridor, so I ran there relying on the light[r]
-from the flashlight as if I was about to trip.[pcms]
+The light coming in from the ventilation ducts was blinding,[r]
+but it wasn't enough to fully illuminate the corridor, so I[r]
+ran there relying on the light from the flashlight as if I[r]
+was about to trip.[pcms]
 
 *1539|
 [fc]
@@ -62,13 +63,15 @@ from the flashlight as if I was about to trip.[pcms]
 [fc]
 [vo_mar s="maru0208"]
 [ns]Margarita[nse]
-`I see. I didn't expect that door to hold anyway, so it was anticipated. More[r]
-importantly, let's open this hatch and get out.[pcms]
+`I see. I didn't expect that door to hold anyway, so it was[r]
+anticipated. More importantly, let's open this hatch and get[r]
+out.[pcms]
 
 *1541|
 [fc]
-While saying that, what my senior pointed at with the flashlight was another[r]
-hatch attached to the bare concrete foundation.[pcms]
+While saying that, what my senior pointed at with the[r]
+flashlight was another hatch attached to the bare concrete[r]
+foundation.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -84,8 +87,8 @@ hatch attached to the bare concrete foundation.[pcms]
 
 *1543|
 [fc]
-I couldn't see well in the dim light, but I could finally make out a man's legs[r]
-extending from the gaping hole.[pcms]
+I couldn't see well in the dim light, but I could finally[r]
+make out a man's legs extending from the gaping hole.[pcms]
 
 *1544|
 [fc]
@@ -110,7 +113,8 @@ extending from the gaping hole.[pcms]
 [fc]
 [vo_ren s="ren0287"]
 [ns]Ren[nse]
-`Just let it go, Ko-chan... He's just worried and getting irritated.[pcms]
+`Just let it go, Ko-chan... He's just worried and getting[r]
+irritated.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -120,18 +124,19 @@ Worried? What's there to fuss about at a time like this?[pcms]
 
 *1549|
 [fc]
-Is there something more important than protecting one's own life?[pcms]
+Is there something more important than protecting one's own[r]
+life?[pcms]
 
 *1550|
 [fc]
-I wanted to ask that, but for a moment, Yuuho's face flashed in my mind, and I[r]
-wondered if Kousuke had someone in this school he would protect even at the cost[r]
-of his own life.[pcms]
+I wanted to ask that, but for a moment, Yuuho's face flashed[r]
+in my mind, and I wondered if Kousuke had someone in this[r]
+school he would protect even at the cost of his own life.[pcms]
 
 *1551|
 [fc]
-But Kousuke is friendly, though I've never heard him talk about having a crush[r]
-on anyone at this school...[pcms]
+But Kousuke is friendly, though I've never heard him talk[r]
+about having a crush on anyone at this school...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -150,9 +155,10 @@ on anyone at this school...[pcms]
 
 *1554|
 [fc]
-In a rush, I cooperated with my senior and we opened the hatch together. The[r]
-darkness and my sluggish feet were a blessing as it seemed they hadn't fully[r]
-descended yet, but they would be upon us soon.[pcms]
+In a rush, I cooperated with my senior and we opened the[r]
+hatch together. The darkness and my sluggish feet were a[r]
+blessing as it seemed they hadn't fully descended yet, but[r]
+they would be upon us soon.[pcms]
 
 *1555|
 [fc]
@@ -169,24 +175,25 @@ descended yet, but they would be upon us soon.[pcms]
 
 *1557|
 [fc]
-I quickly directed Ren towards the newly opened hatch, pointing at it.[pcms]
+I quickly directed Ren towards the newly opened hatch,[r]
+pointing at it.[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1558|
 [fc]
-The hole illuminated by the flashlight looked like it led straight to hell,[r]
-gaping open.[pcms]
+The hole illuminated by the flashlight looked like it led[r]
+straight to hell, gaping open.[pcms]
 
 *1559|
 [fc]
-Since it wasn't a ladder like before but concrete stairs leading down, even Ren[r]
-should be able to descend quickly.[pcms]
+Since it wasn't a ladder like before but concrete stairs[r]
+leading down, even Ren should be able to descend quickly.[pcms]
 
 *1560|
 [fc]
-The hatch seemed to close on its own if let go, so my senior supported the lid[r]
-until Ren had descended.[pcms]
+The hatch seemed to close on its own if let go, so my senior[r]
+supported the lid until Ren had descended.[pcms]
 
 *1561|
 [fc]
@@ -210,27 +217,29 @@ until Ren had descended.[pcms]
 
 *1564|
 [fc]
-As I was about to take over supporting the hatch lid from my senior, Kousuke's[r]
-voice echoed through the corridor.[pcms]
+As I was about to take over supporting the hatch lid from my[r]
+senior, Kousuke's voice echoed through the corridor.[pcms]
 
 *1565|
 [fc]
 [ns]Wataru[nse]
-`Where does it lead... In our current situation, do we really have the luxury to[r]
-worry about that?[pcms]
+`Where does it lead... In our current situation, do we[r]
+really have the luxury to worry about that?[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1566|
 [fc]
 [ns]Kousuke[nse]
-`Hey hey! It's exactly because of times like these that we need to worry about[r]
-it. Are you seriously considering jumping into this hole? We could get trapped![pcms]
+`Hey hey! It's exactly because of times like these that we[r]
+need to worry about it. Are you seriously considering[r]
+jumping into this hole? We could get trapped![pcms]
 
 *1567|
 [fc]
 [ns]Wataru[nse]
-`Do you think we're in a position to complain? Just jump in already.[pcms]
+`Do you think we're in a position to complain? Just jump in[r]
+already.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -244,8 +253,8 @@ it. Are you seriously considering jumping into this hole? We could get trapped![
 
 *1569|
 [fc]
-After making sure Ren had descended enough, I pushed Kousuke into the hole as if[r]
-shoving him down.[pcms]
+After making sure Ren had descended enough, I pushed Kousuke[r]
+into the hole as if shoving him down.[pcms]
 
 *1570|
 [fc]
@@ -254,8 +263,8 @@ shoving him down.[pcms]
 
 *1571|
 [fc]
-After urging my senior to jump into the hole before me, she did so without[r]
-wasting words and plunged in.[pcms]
+After urging my senior to jump into the hole before me, she[r]
+did so without wasting words and plunged in.[pcms]
 
 
 *1572|
@@ -274,8 +283,8 @@ Following her lead, I also jumped into the hole.[pcms]
 
 *1575|
 [fc]
-The voices of the infected were getting closer. Had they already descended the[r]
-ladder?[pcms]
+The voices of the infected were getting closer. Had they[r]
+already descended the ladder?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -289,8 +298,9 @@ ladder?[pcms]
 
 *1577|
 [fc]
-With my senior's brief command and as if cutting off the voices of the men[r]
-chasing us, I heard the heavy sound of the hatch closing.[pcms]
+With my senior's brief command and as if cutting off the[r]
+voices of the men chasing us, I heard the heavy sound of the[r]
+hatch closing.[pcms]
 
 *1578|
 [fc]
@@ -304,7 +314,8 @@ Gachari...[pcms]
 
 *1580|
 [fc]
-The sound of my senior locking it resonated heavily in my ears.[pcms]
+The sound of my senior locking it resonated heavily in my[r]
+ears.[pcms]
 
 ;//〆フェードアウト
 ;[fadeoutbgm time=500]

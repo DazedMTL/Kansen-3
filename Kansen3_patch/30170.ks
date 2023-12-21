@@ -24,14 +24,15 @@
 *1173|
 [fc]
 [ns]Kousuke[nse]
-"Why? Shouldn't we decide this fairly with rock-paper-scissors?"[pcms]
+"Why? Shouldn't we decide this fairly with rock-paper-[r]
+scissors?"[pcms]
 
 *1174|
 [fc]
 [ns]Wataru[nse]
-"Because you're bigger and stronger than me, right? I can handle your weight[r]
-alone, but if we consider Ren and the senior's weight, I'd definitely get[r]
-crushed."[pcms]
+"Because you're bigger and stronger than me, right? I can[r]
+handle your weight alone, but if we consider Ren and the[r]
+senior's weight, I'd definitely get crushed."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -51,11 +52,13 @@ crushed."[pcms]
 [fc]
 [vo_mar s="maru0172"]
 [ns]Margarita[nse]
-"You guys realize we don't have time to be arguing here, right?"[pcms]
+"You guys realize we don't have time to be arguing here,[r]
+right?"[pcms]
 
 *1178|
 [fc]
-At the slightly irritated words of the senior, Kousuke's face suddenly frowned.[pcms]
+At the slightly irritated words of the senior, Kousuke's[r]
+face suddenly frowned.[pcms]
 
 *1179|
 [fc]
@@ -64,16 +67,17 @@ It seems he's still not completely convinced by the senior.[pcms]
 *1180|
 [fc]
 [ns]Wataru[nse]
-"Being on the bottom means having to climb up last... Can Kousuke really climb[r]
-to the rooftop on his own strength?"[pcms]
+"Being on the bottom means having to climb up last... Can[r]
+Kousuke really climb to the rooftop on his own strength?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1181|
 [fc]
 [ns]Kousuke[nse]
-"What?! Don't be ridiculous. Even if it's just one floor, there's no way you can[r]
-climb up alone. That's something for me, who's good at sports..."[pcms]
+"What?! Don't be ridiculous. Even if it's just one floor,[r]
+there's no way you can climb up alone. That's something for[r]
+me, who's good at sports..."[pcms]
 
 *1182|
 [fc]
@@ -89,16 +93,16 @@ climb up alone. That's something for me, who's good at sports..."[pcms]
 
 *1184|
 [fc]
-After clicking his tongue, Kousuke still looked back at me with a face like he[r]
-was making excuses for losing.[pcms]
+After clicking his tongue, Kousuke still looked back at me[r]
+with a face like he was making excuses for losing.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1185|
 [fc]
 [ns]Kousuke[nse]
-"...Well, it's true that I'm stronger. How many times have I lost in the[r]
-physical fitness tests?"[pcms]
+"...Well, it's true that I'm stronger. How many times have I[r]
+lost in the physical fitness tests?"[pcms]
 
 *1186|
 [fc]
@@ -110,7 +114,8 @@ physical fitness tests?"[pcms]
 *1187|
 [fc]
 [ns]Kousuke[nse]
-"...Those aren't exactly words I'm happy to hear from a guy."[pcms]
+"...Those aren't exactly words I'm happy to hear from a[r]
+guy."[pcms]
 
 *1188|
 [fc]
@@ -140,8 +145,8 @@ physical fitness tests?"[pcms]
 *1192|
 [fc]
 [ns]Wataru[nse]
-"Yes. How about Kousuke gets on all fours and I stand on him, then we lift Ren[r]
-and the senior to the rooftop?"[pcms]
+"Yes. How about Kousuke gets on all fours and I stand on[r]
+him, then we lift Ren and the senior to the rooftop?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -149,8 +154,9 @@ and the senior to the rooftop?"[pcms]
 [fc]
 [vo_mar s="maru0174"]
 [ns]Margarita[nse]
-"Hmm... then I'll go up first. With just one of your sisters, even if you two[r]
-become a foothold, it would be impossible."[pcms]
+"Hmm... then I'll go up first. With just one of your[r]
+sisters, even if you two become a foothold, it would be[r]
+impossible."[pcms]
 
 *1194|
 [fc]
@@ -167,14 +173,15 @@ become a foothold, it would be impossible."[pcms]
 
 *1196|
 [fc]
-After a brief discussion, Kousuke got on the bottom, I got on top, and finally[r]
-we reached high enough to touch the rooftop.[pcms]
+After a brief discussion, Kousuke got on the bottom, I got[r]
+on top, and finally we reached high enough to touch the[r]
+rooftop.[pcms]
 
 *1197|
 [fc]
 [ns]Wataru[nse]
-"This looks doable. So... I'll shoulder the senior up first, and then pull Ren[r]
-up after that. Does that sound good?"[pcms]
+"This looks doable. So... I'll shoulder the senior up first,[r]
+and then pull Ren up after that. Does that sound good?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -190,8 +197,8 @@ up after that. Does that sound good?"[pcms]
 [fc]
 [vo_ren s="ren0255"]
 [ns]Ren[nse]
-"Eh? Big brother, you're going to give the senior a shoulder ride... That's[r]
-lewd!"[pcms]
+"Eh? Big brother, you're going to give the senior a shoulder[r]
+ride... That's lewd!"[pcms]
 
 *1200|
 [fc]
@@ -200,12 +207,13 @@ lewd!"[pcms]
 
 *1201|
 [fc]
-Ren said it with a look of disdain, and I inadvertently imagined it.[pcms]
+Ren said it with a look of disdain, and I inadvertently[r]
+imagined it.[pcms]
 
 *1202|
 [fc]
-Giving the senior a shoulder ride means her thighs would be right next to my[r]
-face...[pcms]
+Giving the senior a shoulder ride means her thighs would be[r]
+right next to my face...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -213,25 +221,27 @@ face...[pcms]
 [fc]
 [vo_mar s="maru0176"]
 [ns]Margarita[nse]
-"There's no point in being shy if you're going to die from it, right?"[pcms]
+"There's no point in being shy if you're going to die from[r]
+it, right?"[pcms]
 
 *1204|
 [fc]
-Snapped back to reality by the senior's assertive words, I hurriedly got off[r]
-Kousuke's back.[pcms]
+Snapped back to reality by the senior's assertive words, I[r]
+hurriedly got off Kousuke's back.[pcms]
 
 *1205|
 [fc]
 [ns]Wataru[nse]
-"Wait a second, please. It would be safer to give a shoulder ride on flat ground[r]
-first..."[pcms]
+"Wait a second, please. It would be safer to give a shoulder[r]
+ride on flat ground first..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1206|
 [fc]
 [ns]Kousuke[nse]
-"Gah! You mean both of their weights are going to come down on me at once?"[pcms]
+"Gah! You mean both of their weights are going to come down[r]
+on me at once?"[pcms]
 
 *1207|
 [fc]
@@ -243,8 +253,8 @@ first..."[pcms]
 
 *1208|
 [fc]
-I casually encouraged him and then went behind the senior to give her a shoulder[r]
-ride.[pcms]
+I casually encouraged him and then went behind the senior to[r]
+give her a shoulder ride.[pcms]
 
 ;//BG：EV016
 
@@ -254,8 +264,8 @@ The senior's thighs squeezed against my head.[pcms]
 
 *1210|
 [fc]
-The sensation was incredibly nice. Of course, it's a shame that the skirt fabric[r]
-is in the way.[pcms]
+The sensation was incredibly nice. Of course, it's a shame[r]
+that the skirt fabric is in the way.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -279,9 +289,10 @@ is in the way.[pcms]
 
 *1214|
 [fc]
-I was entranced by the sensation of the senior's thighs but snapped out of it at[r]
-Ren's words. I called out to Kousuke and climbed onto his back while still[r]
-giving the senior a shoulder ride.[pcms]
+I was entranced by the sensation of the senior's thighs but[r]
+snapped out of it at Ren's words. I called out to Kousuke[r]
+and climbed onto his back while still giving the senior a[r]
+shoulder ride.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -316,7 +327,8 @@ giving the senior a shoulder ride.[pcms]
 [fc]
 [vo_mar s="maru0177"]
 [ns]Margarita[nse]
-"It's okay, my hand has reached the gutter... just lift a little more."[pcms]
+"It's okay, my hand has reached the gutter... just lift a[r]
+little more."[pcms]
 
 *1220|
 [fc]
@@ -325,9 +337,9 @@ giving the senior a shoulder ride.[pcms]
 
 *1221|
 [fc]
-As I lifted her up, the senior tried to put her weight on the rooftop gutter by[r]
-lifting her hips. Then her weight shifted forward, and her pussy pressed against[r]
-my head.[pcms]
+As I lifted her up, the senior tried to put her weight on[r]
+the rooftop gutter by lifting her hips. Then her weight[r]
+shifted forward, and her pussy pressed against my head.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -339,8 +351,8 @@ my head.[pcms]
 
 *1223|
 [fc]
-The sensation of the senior's pussy made my heart race so much that my hands[r]
-slipped unintentionally.[pcms]
+The sensation of the senior's pussy made my heart race so[r]
+much that my hands slipped unintentionally.[pcms]
 
 *1224|
 [fc]
@@ -375,17 +387,19 @@ In an instant, I didn't understand what had happened to me.[pcms]
 
 *1229|
 [fc]
-With the senior's hips falling, my head ended up buried deep inside her skirt.[pcms]
+With the senior's hips falling, my head ended up buried deep[r]
+inside her skirt.[pcms]
 
 *1230|
 [fc]
-The direct sensation of the senior's smooth thighs and the feel of her pussy[r]
-through her panties were now tightly squeezing my head.[pcms]
+The direct sensation of the senior's smooth thighs and the[r]
+feel of her pussy through her panties were now tightly[r]
+squeezing my head.[pcms]
 
 *1231|
 [fc]
-There's only a single layer of fabric from the skirt separating us, but what is[r]
-this difference in warmth?[pcms]
+There's only a single layer of fabric from the skirt[r]
+separating us, but what is this difference in warmth?[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -402,12 +416,14 @@ this difference in warmth?[pcms]
 
 *1234|
 [fc]
-Even as I quickly responded to the senior, I couldn't suppress the excitement in[r]
-my heart, and my face broke into a grin.[pcms]
+Even as I quickly responded to the senior, I couldn't[r]
+suppress the excitement in my heart, and my face broke into[r]
+a grin.[pcms]
 
 *1235|
 [fc]
-It's a relief that my face is hidden in the shadow of the senior's skirt.[pcms]
+It's a relief that my face is hidden in the shadow of the[r]
+senior's skirt.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -419,7 +435,8 @@ It's a relief that my face is hidden in the shadow of the senior's skirt.[pcms]
 
 *1237|
 [fc]
-I was concerned about the strange moan that came from Ren behind me...[pcms]
+I was concerned about the strange moan that came from Ren[r]
+behind me...[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -431,8 +448,9 @@ I was concerned about the strange moan that came from Ren behind me...[pcms]
 
 *1239|
 [fc]
-Suddenly, the weight of the senior on my shoulders lightened, and the sensation[r]
-of being pressed together faded away in an instant.[pcms]
+Suddenly, the weight of the senior on my shoulders[r]
+lightened, and the sensation of being pressed together faded[r]
+away in an instant.[pcms]
 
 *1240|
 [fc]
@@ -459,24 +477,25 @@ I sighed as I pushed the senior up towards the rooftop.[pcms]
 
 *1242|
 [fc]
-Following that, Ren was pulled up to the rooftop from my shoulders by the[r]
-senior.[pcms]
+Following that, Ren was pulled up to the rooftop from my[r]
+shoulders by the senior.[pcms]
 
 *1243|
 [fc]
-Then, using Kousuke as a foothold, I somehow managed to climb up by myself, and[r]
-finally pulled up Kousuke, who was left behind.[pcms]
+Then, using Kousuke as a foothold, I somehow managed to[r]
+climb up by myself, and finally pulled up Kousuke, who was[r]
+left behind.[pcms]
 
 *1244|
 [fc]
-Once everyone was finally on the roof of the gymnasium, I was suddenly[r]
-overwhelmed with a feeling of exhaustion that made me want to lie down right[r]
-there.[pcms]
+Once everyone was finally on the roof of the gymnasium, I[r]
+was suddenly overwhelmed with a feeling of exhaustion that[r]
+made me want to lie down right there.[pcms]
 
 *1245|
 [fc]
-Especially Ren, who was so unsteady that she seemed like she might slide off the[r]
-roof if not supported.[pcms]
+Especially Ren, who was so unsteady that she seemed like she[r]
+might slide off the roof if not supported.[pcms]
 
 *1246|
 [fc]
@@ -494,12 +513,13 @@ roof if not supported.[pcms]
 *1248|
 [fc]
 [ns]Wataru[nse]
-"Don't say you're fine in such an unconvincing voice. Have a drink."[pcms]
+"Don't say you're fine in such an unconvincing voice. Have a[r]
+drink."[pcms]
 
 *1249|
 [fc]
-When I brought the water bottle out of the backpack pocket to Ren's lips, she[r]
-shook her head from side to side.[pcms]
+When I brought the water bottle out of the backpack pocket[r]
+to Ren's lips, she shook her head from side to side.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -507,7 +527,8 @@ shook her head from side to side.[pcms]
 [fc]
 [vo_ren s="ren0261"]
 [ns]Ren[nse]
-"I... already had some earlier. There won't be enough left for you guys."[pcms]
+"I... already had some earlier. There won't be enough left[r]
+for you guys."[pcms]
 
 *1251|
 [fc]
@@ -549,14 +570,15 @@ shook her head from side to side.[pcms]
 
 *1257|
 [fc]
-In perfect harmony, Kousuke barely touched his lips to the water bottle I handed[r]
-him before giving it back. I also just moistened my lips with it, and then[r]
-passed it back to Ren.[pcms]
+In perfect harmony, Kousuke barely touched his lips to the[r]
+water bottle I handed him before giving it back. I also just[r]
+moistened my lips with it, and then passed it back to Ren.[pcms]
 
 *1258|
 [fc]
 [ns]Wataru[nse]
-"See, both Kousuke and I have drunk, so now it's your turn, Ren."[pcms]
+"See, both Kousuke and I have drunk, so now it's your turn,[r]
+Ren."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -575,8 +597,8 @@ passed it back to Ren.[pcms]
 
 *1261|
 [fc]
-Nodding at Kousuke's urging, Ren took the sports drink that had thawed out and[r]
-gulped it down with audible swallows.[pcms]
+Nodding at Kousuke's urging, Ren took the sports drink that[r]
+had thawed out and gulped it down with audible swallows.[pcms]
 
 *1262|
 [fc]
@@ -585,7 +607,8 @@ But still, my skin is starting to feel quite hot.[pcms]
 *1263|
 [fc]
 [ns]Wataru[nse]
-"Ren, should I carry you from here? We're almost at the goal."[pcms]
+"Ren, should I carry you from here? We're almost at the[r]
+goal."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -593,8 +616,8 @@ But still, my skin is starting to feel quite hot.[pcms]
 [fc]
 [vo_ren s="ren0264"]
 [ns]Ren[nse]
-"No... it's okay. It's dangerous on the roof. Instead, shall we go help Yuuho-[r]
-chan? Right?"[pcms]
+"No... it's okay. It's dangerous on the roof. Instead, shall[r]
+we go help Yuuho- chan? Right?"[pcms]
 
 *1265|
 [fc]
@@ -603,12 +626,13 @@ chan? Right?"[pcms]
 
 *1266|
 [fc]
-Even though her own condition is getting worse, she's worried about Yuuho...[pcms]
+Even though her own condition is getting worse, she's[r]
+worried about Yuuho...[pcms]
 
 *1267|
 [fc]
-It's natural, I guess, since Yuuho is not only my childhood friend but also[r]
-Ren's. Still, it made me really happy.[pcms]
+It's natural, I guess, since Yuuho is not only my childhood[r]
+friend but also Ren's. Still, it made me really happy.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -616,7 +640,8 @@ Ren's. Still, it made me really happy.[pcms]
 [fc]
 [vo_ren s="ren0265"]
 [ns]Ren[nse]
-"Yuuho-chan is... surely waiting for her big brother, right?"[pcms]
+"Yuuho-chan is... surely waiting for her big brother,[r]
+right?"[pcms]
 
 *1269|
 [fc]
@@ -632,9 +657,9 @@ Ren's. Still, it made me really happy.[pcms]
 
 *1271|
 [fc]
-Effortlessly taking the water bottle from Ren and passing it to me, he said,[r]
-"See, this should be fine, right? Wataru. You go check on Yuuho at the pool[r]
-side."[pcms]
+Effortlessly taking the water bottle from Ren and passing it[r]
+to me, he said, "See, this should be fine, right? Wataru.[r]
+You go check on Yuuho at the pool side."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -646,13 +671,15 @@ side."[pcms]
 *1273|
 [fc]
 [ns]Wataru[nse]
-Feeling happy about Ren and Kousuke's kindness, I quickly crossed the gymnasium[r]
-rooftop and headed towards the pool side.[pcms]
+Feeling happy about Ren and Kousuke's kindness, I quickly[r]
+crossed the gymnasium rooftop and headed towards the pool[r]
+side.[pcms]
 
 *1274|
 [fc]
-Feeling happy about Ren and Kousuke's kindness, I quickly crossed the gymnasium[r]
-rooftop and headed towards the pool side.[pcms]
+Feeling happy about Ren and Kousuke's kindness, I quickly[r]
+crossed the gymnasium rooftop and headed towards the pool[r]
+side.[pcms]
 
 
 ;システムボタン＆ウィンドウ消去

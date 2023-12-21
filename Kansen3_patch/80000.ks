@@ -48,27 +48,28 @@
 [fc]
 [vo_yuh s="yuho_T0001"]
 [ns]Yuuho[nse]
-"Alright everyone, good work! Lunch is a special vegetable stir-fry!"[pcms]
+"Alright everyone, good work! Lunch is a special vegetable[r]
+stir-fry!"[pcms]
 
 ;//〆昼食カットイン
 
 *2|
 [fc]
-The lunch menu consisted of rice, miso soup, meat and vegetable stir-fry, salad,[r]
-and tamagoyaki.[pcms]
+The lunch menu consisted of rice, miso soup, meat and[r]
+vegetable stir-fry, salad, and tamagoyaki.[pcms]
 
 *3|
 [fc]
-It seems that Yuuho and Ren were eager to cook since they got their hands on[r]
-fresh vegetables and eggs.[pcms]
+It seems that Yuuho and Ren were eager to cook since they[r]
+got their hands on fresh vegetables and eggs.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4|
 [fc]
 [ns]Kousuke[nse]
-"Whoa, the special meat and vegetable stir-fry from Kannagi-ken! I really love[r]
-this stuff!"[pcms]
+"Whoa, the special meat and vegetable stir-fry from Kannagi-[r]
+ken! I really love this stuff!"[pcms]
 
 *5|
 [fc]
@@ -76,14 +77,14 @@ I wonder about Jin-san, who is a vegetarian...?[pcms]
 
 *6|
 [fc]
-Looking over, I saw that in front of Jin-san was a plate of vegetable stir-fry[r]
-without the meat.[pcms]
+Looking over, I saw that in front of Jin-san was a plate of[r]
+vegetable stir-fry without the meat.[pcms]
 
 *7|
 [fc]
-The special meat and vegetable stir-fry from Kannagi-ken has a great crunchy[r]
-texture from the vegetables soaked in meat juices; it's one of my favorite[r]
-dishes too...[pcms]
+The special meat and vegetable stir-fry from Kannagi-ken has[r]
+a great crunchy texture from the vegetables soaked in meat[r]
+juices; it's one of my favorite dishes too...[pcms]
 
 *8|
 [fc]
@@ -94,17 +95,19 @@ I wonder if it's still good without the meat...?[pcms]
 *9|
 [fc]
 [ns]Jin[nse]
-"...Delicious? The balance of spicy miso and oil is perfect. The salad is also[r]
-good. It was worth the effort."[pcms]
+"...Delicious? The balance of spicy miso and oil is perfect.[r]
+The salad is also good. It was worth the effort."[pcms]
 
 *10|
 [fc]
-Explaining to me who was watching, Jin-san continued to eat quietly.[pcms]
+Explaining to me who was watching, Jin-san continued to eat[r]
+quietly.[pcms]
 
 *11|
 [fc]
-Of course... a portion for Senior Maruko is prepared at the table too, but as[r]
-usual, she's nowhere to be seenprobably still asleep.[pcms]
+Of course... a portion for Senior Maruko is prepared at the[r]
+table too, but as usual, she's nowhere to be seenprobably[r]
+still asleep.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -112,7 +115,8 @@ usual, she's nowhere to be seenprobably still asleep.[pcms]
 [fc]
 [vo_miz s="mizuki_MK0001"]
 [ns]Mizuki[nse]
-"...Marie-san... hasn't woken up yet? Is she really feeling that bad?"[pcms]
+"...Marie-san... hasn't woken up yet? Is she really feeling[r]
+that bad?"[pcms]
 
 ;//★下記１ワード、７００００の流用です
 
@@ -148,11 +152,13 @@ The serious atmosphere turned chaotic in an instant.[pcms]
 *18|
 [fc]
 [ns]Wataru[nse]
-"No, it's not like that! Because... Senior is practically my lifesaver!"[pcms]
+"No, it's not like that! Because... Senior is practically my[r]
+lifesaver!"[pcms]
 
 *19|
 [fc]
-While realizing my face was turning red, I insisted on my point.[pcms]
+While realizing my face was turning red, I insisted on my[r]
+point.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -160,8 +166,8 @@ While realizing my face was turning red, I insisted on my point.[pcms]
 [fc]
 [vo_ren s="ren_MK0001"]
 [ns]Ren[nse]
-"That's right. If it weren't for Senior Maruko, we probably wouldn't have been[r]
-able to meet Tadahiko, nor come here..."[pcms]
+"That's right. If it weren't for Senior Maruko, we probably[r]
+wouldn't have been able to meet Tadahiko, nor come here..."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -169,7 +175,8 @@ able to meet Tadahiko, nor come here..."[pcms]
 [fc]
 [vo_yuh s="yuho_MK0001"]
 [ns]Yuuho[nse]
-"Yeah. Then we might not have been able to meet Mizuki either."[pcms]
+"Yeah. Then we might not have been able to meet Mizuki[r]
+either."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -177,12 +184,13 @@ able to meet Tadahiko, nor come here..."[pcms]
 [fc]
 [vo_miz s="mizuki_MK0002"]
 [ns]Mizuki[nse]
-"Ah, that would be troublesome. She definitely is a lifesaver."[pcms]
+"Ah, that would be troublesome. She definitely is a[r]
+lifesaver."[pcms]
 
 *23|
 [fc]
-Despite our worries, the meal was delicious... We finished lunch in a harmonious[r]
-mood.[pcms]
+Despite our worries, the meal was delicious... We finished[r]
+lunch in a harmonious mood.[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -195,12 +203,14 @@ mood.[pcms]
 
 *25|
 [fc]
-Now that we've finished eating, let's go check on Senior Maruko.[pcms]
+Now that we've finished eating, let's go check on Senior[r]
+Maruko.[pcms]
 
 *26|
 [fc]
-Last night we talked and I saw an unexpected side of her because of the[r]
-mysterious blue marble; I'm finally starting to feel closer to her.[pcms]
+Last night we talked and I saw an unexpected side of her[r]
+because of the mysterious blue marble; I'm finally starting[r]
+to feel closer to her.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -221,13 +231,14 @@ mysterious blue marble; I'm finally starting to feel closer to her.[pcms]
 *29|
 [fc]
 [ns]Wataru[nse]
-"I wonder? If too many of us show up at once, Senior might get tired. I'll go[r]
-alone first and see how she's doing."[pcms]
+"I wonder? If too many of us show up at once, Senior might[r]
+get tired. I'll go alone first and see how she's doing."[pcms]
 
 *30|
 [fc]
-To tell the truth, I also felt a little desire to have Senior Maruko all to[r]
-myself. Maybe we could have a nice atmosphere like last night...[pcms]
+To tell the truth, I also felt a little desire to have[r]
+Senior Maruko all to myself. Maybe we could have a nice[r]
+atmosphere like last night...[pcms]
 
 ;//★ここから先しばらく、ブロック70000.txt　より流用
 
@@ -236,8 +247,8 @@ myself. Maybe we could have a nice atmosphere like last night...[pcms]
 *31|
 [fc]
 [ns]Kousuke[nse]
-"Then, I guess I'll check out the second floor. Gotta check out any good[r]
-equipment while I'm at it..."[pcms]
+"Then, I guess I'll check out the second floor. Gotta check[r]
+out any good equipment while I'm at it..."[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -249,8 +260,9 @@ equipment while I'm at it..."[pcms]
 
 *33|
 [fc]
-Considering he's been throwing tantrums about 'Tengudou!' since day one, he[r]
-probably won't come back for a while once he goes...[pcms]
+Considering he's been throwing tantrums about 'Tengudou!'[r]
+since day one, he probably won't come back for a while once[r]
+he goes...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -261,7 +273,8 @@ probably won't come back for a while once he goes...[pcms]
 
 *35|
 [fc]
-The fourth floor is home to the large analog record shop 'Recomani'.[pcms]
+The fourth floor is home to the large analog record shop[r]
+'Recomani'.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -287,21 +300,23 @@ The fourth floor is home to the large analog record shop 'Recomani'.[pcms]
 
 *39|
 [fc]
-Indeed, 'Recomani' mainly sells analog records but they also sell CDs and DVDs.[pcms]
+Indeed, 'Recomani' mainly sells analog records but they also[r]
+sell CDs and DVDs.[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *40|
 [fc]
 [ns]Shigeyoshi[nse]
-"...I'll pass. I'm completely worn out from being bossed around all day. Now[r]
-that I've eaten, let me sleep."[pcms]
+"...I'll pass. I'm completely worn out from being bossed[r]
+around all day. Now that I've eaten, let me sleep."[pcms]
 
 *41|
 [fc]
-Despite saying he's going to sleep, Shigeyoshi leaves for the VIP room laden[r]
-with bottles of liquor, snacks, magazines, and more. Even after eating so much[r]
-lunch, is his stomach still empty...?[pcms]
+Despite saying he's going to sleep, Shigeyoshi leaves for[r]
+the VIP room laden with bottles of liquor, snacks,[r]
+magazines, and more. Even after eating so much lunch, is his[r]
+stomach still empty...?[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -309,8 +324,8 @@ lunch, is his stomach still empty...?[pcms]
 [fc]
 [vo_yuh s="yuho_RK0003"]
 [ns]Yuuho[nse]
-"I think I'll head to 'Staybucks'. I want a latte, so I need to learn how to[r]
-make one..."[pcms]
+"I think I'll head to 'Staybucks'. I want a latte, so I need[r]
+to learn how to make one..."[pcms]
 
 *43|
 [fc]
@@ -344,7 +359,8 @@ It seems Ren will be browsing manga on B2F.[pcms]
 
 *48|
 [fc]
-I decided to bring some nutritional supplements and mineral water for Senior.[pcms]
+I decided to bring some nutritional supplements and mineral[r]
+water for Senior.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -364,7 +380,8 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 
 *51|
 [fc]
-I'm the first to get off the elevator on the 5th floor to visit Senior.[pcms]
+I'm the first to get off the elevator on the 5th floor to[r]
+visit Senior.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -401,8 +418,9 @@ I'm the first to get off the elevator on the 5th floor to visit Senior.[pcms]
 
 *56|
 [fc]
-In the brief moment before the doors closed, everyone left behind their own[r]
-random comments and went their separate ways.[pcms]
+In the brief moment before the doors closed, everyone left[r]
+behind their own random comments and went their separate[r]
+ways.[pcms]
 
 *57|
 [fc]
@@ -411,8 +429,8 @@ random comments and went their separate ways.[pcms]
 
 *58|
 [fc]
-But everyone is worried about Senior... Despite the wry smile, I felt a warm[r]
-feeling inside.[pcms]
+But everyone is worried about Senior... Despite the wry[r]
+smile, I felt a warm feeling inside.[pcms]
 
 ;//〆個室前
 [bg storage="BG110"][trans_c cross time=500]
@@ -425,8 +443,8 @@ feeling inside.[pcms]
 
 *60|
 [fc]
-I called out softly and knocked, but there was no response. I knocked a few more[r]
-times, but...[pcms]
+I called out softly and knocked, but there was no response.[r]
+I knocked a few more times, but...[pcms]
 
 *61|
 [fc]
@@ -435,7 +453,8 @@ times, but...[pcms]
 
 *62|
 [fc]
-I tried listening at the door, but there was no sign of anyone inside.[pcms]
+I tried listening at the door, but there was no sign of[r]
+anyone inside.[pcms]
 
 *63|
 [fc]
@@ -444,7 +463,8 @@ I tried listening at the door, but there was no sign of anyone inside.[pcms]
 
 *64|
 [fc]
-After giving a warning, I opened the door. The room was empty...[pcms]
+After giving a warning, I opened the door. The room was[r]
+empty...[pcms]
 
 *65|
 [fc]
@@ -453,17 +473,18 @@ After giving a warning, I opened the door. The room was empty...[pcms]
 
 *66|
 [fc]
-Even though he's sick, could he be pushing himself to move around again?[pcms]
+Even though he's sick, could he be pushing himself to move[r]
+around again?[pcms]
 
 *67|
 [fc]
-I was really worried, and also felt disappointed that I came to visit only to[r]
-find him not here...[pcms]
+I was really worried, and also felt disappointed that I came[r]
+to visit only to find him not here...[pcms]
 
 *68|
 [fc]
-Well, considering how much Senior insists on safety, he probably hasn't gone too[r]
-far.[pcms]
+Well, considering how much Senior insists on safety, he[r]
+probably hasn't gone too far.[pcms]
 
 *69|
 [fc]
@@ -472,7 +493,8 @@ far.[pcms]
 
 *70|
 [fc]
-With a sigh, I took a breath. The scent of Senior tickled the back of my nose.[pcms]
+With a sigh, I took a breath. The scent of Senior tickled[r]
+the back of my nose.[pcms]
 
 *71|
 [fc]
@@ -480,18 +502,19 @@ What should I do? I really want to see Senior's face.[pcms]
 
 *72|
 [fc]
-Should I just wait in the room? But then again, I have no idea when Senior will[r]
-come back...[pcms]
+Should I just wait in the room? But then again, I have no[r]
+idea when Senior will come back...[pcms]
 
 *73|
 [fc]
-Everyone else is probably exploring shops they're interested in. If it were[r]
-me... Yeah, I might go to the game center on B1...[pcms]
+Everyone else is probably exploring shops they're interested[r]
+in. If it were me... Yeah, I might go to the game center on[r]
+B1...[pcms]
 
 *74|
 [fc]
-If I find a staff maintenance key, I could keep pressing the service button for[r]
-free games all I want.[pcms]
+If I find a staff maintenance key, I could keep pressing the[r]
+service button for free games all I want.[pcms]
 
 *75|
 [fc]
@@ -500,7 +523,8 @@ free games all I want.[pcms]
 
 *76|
 [fc]
-Right now, 'everyone' is inside this building... Which means...? Could it be...?[pcms]
+Right now, 'everyone' is inside this building... Which[r]
+means...? Could it be...?[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -516,12 +540,13 @@ I headed towards the 'depot'.[pcms]
 
 *79|
 [fc]
-I can't miss this perfect opportunity when everyone is at LASER and I can act[r]
-alone.[pcms]
+I can't miss this perfect opportunity when everyone is at[r]
+LASER and I can act alone.[pcms]
 
 *80|
 [fc]
-With this chance given by God, I'll check out that AV I found before...![pcms]
+With this chance given by God, I'll check out that AV I[r]
+found before...![pcms]
 
 ;//〆「ででっぽう」
 [bg storage="BG022"][trans_c cross time=500]
@@ -529,23 +554,25 @@ With this chance given by God, I'll check out that AV I found before...![pcms]
 
 *81|
 [fc]
-"There's no one in the 'depot'. Having confirmed that, I let out a sigh of[r]
-relief."[pcms]
+"There's no one in the 'depot'. Having confirmed that, I let[r]
+out a sigh of relief."[pcms]
 
 *82|
 [fc]
 [ns]Wataru[nse]
-"If it's just for about an hour... It should be okay to leave it unattended,[r]
-right...?"[pcms]
+"If it's just for about an hour... It should be okay to[r]
+leave it unattended, right...?"[pcms]
 
 *83|
 [fc]
-Although I'm anxious, my mood has already switched to self-generation mode.[pcms]
+Although I'm anxious, my mood has already switched to self-[r]
+generation mode.[pcms]
 
 *84|
 [fc]
-Thinking of the title and the fragmented content, I ponder which one to use as[r]
-my material while heading towards the staff rest room first.[pcms]
+Thinking of the title and the fragmented content, I ponder[r]
+which one to use as my material while heading towards the[r]
+staff rest room first.[pcms]
 
 [fadeoutbgm time=500]
 ;//〆黒画面
@@ -559,8 +586,8 @@ my material while heading towards the staff rest room first.[pcms]
 
 *85|
 [fc]
-Even though I know there's no one around, I still sneak up the stairs. But[r]
-midway, I stop in my tracks.[pcms]
+Even though I know there's no one around, I still sneak up[r]
+the stairs. But midway, I stop in my tracks.[pcms]
 
 *86|
 [fc]
@@ -579,17 +606,19 @@ My heart races and my body freezes. Who could it be?[pcms]
 
 *89|
 [fc]
-The most likely candidate is Kousuke, but he's with Mizuki right now.[pcms]
+The most likely candidate is Kousuke, but he's with Mizuki[r]
+right now.[pcms]
 
 *90|
 [fc]
-That being said... it doesn't seem like Jin-san would watch AV, and the only[r]
-other possibility would be Shigeyoshi...[pcms]
+That being said... it doesn't seem like Jin-san would watch[r]
+AV, and the only other possibility would be Shigeyoshi...[pcms]
 
 *91|
 [fc]
-Anyway, as a guy, I can easily imagine that carelessly barging in would lead to[r]
-an extremely awkward situation. I move forward a little more to take a peek.[pcms]
+Anyway, as a guy, I can easily imagine that carelessly[r]
+barging in would lead to an extremely awkward situation. I[r]
+move forward a little more to take a peek.[pcms]
 
 *92|
 [fc]
@@ -600,7 +629,8 @@ an extremely awkward situation. I move forward a little more to take a peek.[pcm
 
 *93|
 [fc]
-The panting is now clearer than before. I feel a sense of discomfort.[pcms]
+The panting is now clearer than before. I feel a sense of[r]
+discomfort.[pcms]
 
 *94|
 [fc]
@@ -609,13 +639,14 @@ The panting is now clearer than before. I feel a sense of discomfort.[pcms]
 
 *95|
 [fc]
-I'm sure I've never seen such a hardcore AV before. With suspicion, I move[r]
-forward and finally approach the nap room.[pcms]
+I'm sure I've never seen such a hardcore AV before. With[r]
+suspicion, I move forward and finally approach the nap room.[pcms]
 
 *96|
 [fc]
-The pitiful and indecent moans echo down the hallway. Just imagining what kind[r]
-of bold scene is unfolding is enough to make my junior stand at attention.[pcms]
+The pitiful and indecent moans echo down the hallway. Just[r]
+imagining what kind of bold scene is unfolding is enough to[r]
+make my junior stand at attention.[pcms]
 
 *97|
 [fc]
@@ -626,14 +657,16 @@ of bold scene is unfolding is enough to make my junior stand at attention.[pcms]
 
 *98|
 [fc]
-The shrill cries make me flinch as I lower my gaze. Shoes were carelessly kicked[r]
-off and trapped in the door, leaving it half-open.[pcms]
+The shrill cries make me flinch as I lower my gaze. Shoes[r]
+were carelessly kicked off and trapped in the door, leaving[r]
+it half-open.[pcms]
 
 *99|
 [fc]
-Who could be in such a hurry to enter and indulge in pleasure? As I lean[r]
-forward, I can easily see from the entrance to the back of the narrow room. When[r]
-I recognize the person at the back, I almost scream.[pcms]
+Who could be in such a hurry to enter and indulge in[r]
+pleasure? As I lean forward, I can easily see from the[r]
+entrance to the back of the narrow room. When I recognize[r]
+the person at the back, I almost scream.[pcms]
 
 ;//　ブロック８００１０へ
 [jump storage="80010.ks" target=*80010_TOP]

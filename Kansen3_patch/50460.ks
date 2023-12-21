@@ -31,7 +31,8 @@
 [fc]
 [vo_ren s="ren1387"]
 [ns]Ren[nse]
-"After eating our fill, it's natural to feel sleepy, isn't it?"[pcms]
+"After eating our fill, it's natural to feel sleepy, isn't[r]
+it?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -43,12 +44,13 @@
 
 *2354|
 [fc]
-Having finished our meal, we gathered in the main dome of the DJ Bar and each of[r]
-us took a relaxed posture.[pcms]
+Having finished our meal, we gathered in the main dome of[r]
+the DJ Bar and each of us took a relaxed posture.[pcms]
 
 *2355|
 [fc]
-The day's fatigue and a full stomach brought on a wave of drowsiness...[pcms]
+The day's fatigue and a full stomach brought on a wave of[r]
+drowsiness...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -56,7 +58,8 @@ The day's fatigue and a full stomach brought on a wave of drowsiness...[pcms]
 [fc]
 [vo_mar s="maru1553"]
 [ns]Margarita[nse]
-"Then, let's all gather and rest at the manga cafe Arcadia on the 5th floor."[pcms]
+"Then, let's all gather and rest at the manga cafe Arcadia[r]
+on the 5th floor."[pcms]
 ;//ÅóÇTÇeÅÅÇTäKÅiÇ©Ç¢Åj
 
 [ChrSetEx layer=5 chbase="ren_m8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -78,8 +81,9 @@ Ren's eyes sparkled with excitement at the response.[pcms]
 [fc]
 [vo_mar s="maru1554"]
 [ns]Margarita[nse]
-"That store has reclining seats and sofas where you can rest comfortably. Plus,[r]
-there are tatami areas and blankets available."[pcms]
+"That store has reclining seats and sofas where you can rest[r]
+comfortably. Plus, there are tatami areas and blankets[r]
+available."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -94,13 +98,13 @@ there are tatami areas and blankets available."[pcms]
 *2361|
 [fc]
 [ns]Kousuke[nse]
-"Sounds good, sounds good~. The drink bar, net, and TV are all fully equipped[r]
-too!"[pcms]
+"Sounds good, sounds good~. The drink bar, net, and TV are[r]
+all fully equipped too!"[pcms]
 
 *2362|
 [fc]
-Smiling at our excitement, the senior called out to Jin and the others who were[r]
-seated a little away from us.[pcms]
+Smiling at our excitement, the senior called out to Jin and[r]
+the others who were seated a little away from us.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -108,7 +112,8 @@ seated a little away from us.[pcms]
 [fc]
 [vo_mar s="maru1555"]
 [ns]Margarita[nse]
-"As for you guys... how about the VIP room next door in the Stage Restaurant?"[pcms]
+"As for you guys... how about the VIP room next door in the[r]
+Stage Restaurant?"[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -119,8 +124,8 @@ seated a little away from us.[pcms]
 
 *2365|
 [fc]
-As if to say he only takes orders from Jin, Shigeyoshi stood up angrily, kicking[r]
-his chair.[pcms]
+As if to say he only takes orders from Jin, Shigeyoshi stood[r]
+up angrily, kicking his chair.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -131,15 +136,16 @@ his chair.[pcms]
 
 *2367|
 [fc]
-After a moment of thought, Jin nodded in agreement as a sign of approval.[pcms]
+After a moment of thought, Jin nodded in agreement as a sign[r]
+of approval.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2368|
 [fc]
 [ns]Jin[nse]
-"We can't sleep peacefully on the same floor if we still don't trust each[r]
-other."[pcms]
+"We can't sleep peacefully on the same floor if we still[r]
+don't trust each other."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -171,16 +177,16 @@ And with that... Jin twisted his lips.[pcms]
 *2373|
 [fc]
 [ns]Jin[nse]
-"We have no intention of giving up our guns, nor do we plan to entrust them to[r]
-you or manage them together."[pcms]
+"We have no intention of giving up our guns, nor do we plan[r]
+to entrust them to you or manage them together."[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2374|
 [fc]
 [ns]Jin[nse]
-"If we were to sleep together, that could become a point of contention... but[r]
-I'm too tired to argue about it today."[pcms]
+"If we were to sleep together, that could become a point of[r]
+contention... but I'm too tired to argue about it today."[pcms]
 
 *2375|
 [fc]
@@ -196,7 +202,8 @@ I'm too tired to argue about it today."[pcms]
 
 *2377|
 [fc]
-Missing his chance to object, Shigeyoshi reluctantly sat back down.[pcms]
+Missing his chance to object, Shigeyoshi reluctantly sat[r]
+back down.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -215,18 +222,21 @@ Maruko nodded as if satisfied with the consensus.[pcms]
 *2380|
 [fc]
 [ns]Jin[nse]
-"Alright, kids should go to bed early. I'll enjoy my drink here a bit longer..."[pcms]
+"Alright, kids should go to bed early. I'll enjoy my drink[r]
+here a bit longer..."[pcms]
 
 *2381|
 [fc]
-Gazing at the label on the bottle in his hand, Jin let out a relaxed smile.[pcms]
+Gazing at the label on the bottle in his hand, Jin let out a[r]
+relaxed smile.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2382|
 [fc]
 [ns]Jin[nse]
-"To think they have Martell Extra here, this is a good place."[pcms]
+"To think they have Martell Extra here, this is a good[r]
+place."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -240,19 +250,21 @@ Gazing at the label on the bottle in his hand, Jin let out a relaxed smile.[pcms
 *2384|
 [fc]
 [ns]Jin[nse]
-"You must be sleepy, right? It's only natural after eating that much."[pcms]
+"You must be sleepy, right? It's only natural after eating[r]
+that much."[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2385|
 [fc]
 [ns]Shigeyoshi[nse]
-"Heh, hehehe. Well, that's how it is. I'll be off then... uh..."[pcms]
+"Heh, hehehe. Well, that's how it is. I'll be off then...[r]
+uh..."[pcms]
 
 *2386|
 [fc]
-Shigeyoshi stood up but didn't move to leave for bed; instead, he just stared[r]
-intently at Yuuho.[pcms]
+Shigeyoshi stood up but didn't move to leave for bed;[r]
+instead, he just stared intently at Yuuho.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -285,8 +297,9 @@ Taken aback by the sudden attention, Yuuho blinked rapidly.[pcms]
 
 *2391|
 [fc]
-With an awkward grin that didn't quite suit him, Shigeyoshi waited for a[r]
-response from Yuuho, who replied with a forced smile.[pcms]
+With an awkward grin that didn't quite suit him, Shigeyoshi[r]
+waited for a response from Yuuho, who replied with a forced[r]
+smile.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -316,8 +329,8 @@ I stopped the two who were about to head to the kitchen.[pcms]
 *2396|
 [fc]
 [ns]Wataru[nse]
-"Kousuke and I will do the dishes. You two also helped prepare dinner and must[r]
-be tired, right?"[pcms]
+"Kousuke and I will do the dishes. You two also helped[r]
+prepare dinner and must be tired, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -340,8 +353,8 @@ be tired, right?"[pcms]
 [fc]
 [vo_yuh s="yuho1597"]
 [ns]Yuuho[nse]
-"Wow, that's really helpful. Well then, I'll leave it to you guys. I'll just[r]
-carry over the luggage."[pcms]
+"Wow, that's really helpful. Well then, I'll leave it to you[r]
+guys. I'll just carry over the luggage."[pcms]
 
 *2400|
 [fc]
@@ -362,8 +375,8 @@ With a bright smile, Yuuho waved her hand lightly.[pcms]
 
 *2403|
 [fc]
-I gently pushed Ren, who had somehow missed her chance to follow Yuuho, towards[r]
-the elevator.[pcms]
+I gently pushed Ren, who had somehow missed her chance to[r]
+follow Yuuho, towards the elevator.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -376,8 +389,8 @@ the elevator.[pcms]
 *2405|
 [fc]
 [ns]Wataru[nse]
-"Ren, you worked hard today too. As a reward, why don't you take it easy and[r]
-read some manga?"[pcms]
+"Ren, you worked hard today too. As a reward, why don't you[r]
+take it easy and read some manga?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -401,12 +414,13 @@ Finally convinced, Ren hurriedly followed after Yuuho.[pcms]
 
 *2409|
 [fc]
-As everyone was leaving, Mizuki seemed to be hesitating about something.[pcms]
+As everyone was leaving, Mizuki seemed to be hesitating[r]
+about something.[pcms]
 
 *2410|
 [fc]
-Huh...? Based on the flow up until now, she should be acting together with Jin[r]
-and the others without a second thought...[pcms]
+Huh...? Based on the flow up until now, she should be acting[r]
+together with Jin and the others without a second thought...[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -447,8 +461,9 @@ Mizuki's eyes widened in surprise at Jin's unexpected words.[pcms]
 *2416|
 [fc]
 [ns]Jin[nse]
-"The VIP room seems spacious, but it's impossible to sleep with Shige's snoring,[r]
-and you'll feel safer near your friends, right?"[pcms]
+"The VIP room seems spacious, but it's impossible to sleep[r]
+with Shige's snoring, and you'll feel safer near your[r]
+friends, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -459,7 +474,8 @@ and you'll feel safer near your friends, right?"[pcms]
 
 *2418|
 [fc]
-Jin started to say something, then paused as if thinking, and looked at Mizuki.[pcms]
+Jin started to say something, then paused as if thinking,[r]
+and looked at Mizuki.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a14"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -479,12 +495,13 @@ Mizuki swallowed nervously, her expression tense.[pcms]
 *2421|
 [fc]
 [ns]Jin[nse]
-"Well, never mind. Just bring the ice and then you're free to go. Go to sleep."[pcms]
+"Well, never mind. Just bring the ice and then you're free[r]
+to go. Go to sleep."[pcms]
 
 *2422|
 [fc]
-After speaking indifferently, Jin acted as if Mizuki wasn't even there,[r]
-engrossed in the label of the cognac bottle.[pcms]
+After speaking indifferently, Jin acted as if Mizuki wasn't[r]
+even there, engrossed in the label of the cognac bottle.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a14"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -512,13 +529,15 @@ It was somewhat mysterious.[pcms]
 
 *2427|
 [fc]
-I feel bad for Kousuke, but from what I've seen, I thought Jin was Mizuki's[r]
-current boyfriend. But... it doesn't seem quite like that kind of relationship.[pcms]
+I feel bad for Kousuke, but from what I've seen, I thought[r]
+Jin was Mizuki's current boyfriend. But... it doesn't seem[r]
+quite like that kind of relationship.[pcms]
 
 *2428|
 [fc]
-Despite coming all the way from Celesta Tower to help, he doesn't seem too[r]
-attached to Mizuki... Or maybe this is what they call the composure of an adult?[pcms]
+Despite coming all the way from Celesta Tower to help, he[r]
+doesn't seem too attached to Mizuki... Or maybe this is what[r]
+they call the composure of an adult?[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a13"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -530,8 +549,8 @@ attached to Mizuki... Or maybe this is what they call the composure of an adult?
 
 *2430|
 [fc]
-While I was pondering this, Mizuki returned from the kitchen with ice in an ice[r]
-pail with tongs.[pcms]
+While I was pondering this, Mizuki returned from the kitchen[r]
+with ice in an ice pail with tongs.[pcms]
 
 *2431|
 [fc]
@@ -548,8 +567,8 @@ pail with tongs.[pcms]
 
 *2433|
 [fc]
-Jin took the ice pail without shifting his gaze from the label and silently[r]
-opened the bottle's seal.[pcms]
+Jin took the ice pail without shifting his gaze from the[r]
+label and silently opened the bottle's seal.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a14"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -568,12 +587,13 @@ opened the bottle's seal.[pcms]
 
 *2436|
 [fc]
-Jin responded curtly and poured a generous amount of cognac into a glass with[r]
-ice.[pcms]
+Jin responded curtly and poured a generous amount of cognac[r]
+into a glass with ice.[pcms]
 
 *2437|
 [fc]
-Then he put on earphones from his mobile music player and began drinking alone.[pcms]
+Then he put on earphones from his mobile music player and[r]
+began drinking alone.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a14"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -585,7 +605,8 @@ Then he put on earphones from his mobile music player and began drinking alone.[
 
 *2439|
 [fc]
-Mizuki watched Jin silently for a moment before finally turning back to us.[pcms]
+Mizuki watched Jin silently for a moment before finally[r]
+turning back to us.[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a18"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -620,7 +641,8 @@ Mizuki watched Jin silently for a moment before finally turning back to us.[pcms
 
 *2444|
 [fc]
-With an awkward smile, Mizuki greeted us and slowly left the room.[pcms]
+With an awkward smile, Mizuki greeted us and slowly left the[r]
+room.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -643,8 +665,8 @@ With an awkward smile, Mizuki greeted us and slowly left the room.[pcms]
 
 *2448|
 [fc]
-I urged Kousuke, who was absentmindedly watching Mizuki leave, and we headed[r]
-towards the kitchen.[pcms]
+I urged Kousuke, who was absentmindedly watching Mizuki[r]
+leave, and we headed towards the kitchen.[pcms]
 
 ;//ÅYÉtÉFÅ[ÉhÉAÉEÉg
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

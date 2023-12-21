@@ -35,61 +35,68 @@ We sat down in a circle in front of the DHK door.[pcms]
 
 *4908|
 [fc]
-"Finally, we can rest," we were dazed for a while from the nightmarish events we[r]
-had just gone through, but the senior reminded us, "Make sure to keep watch in[r]
-either direction."[pcms]
+"Finally, we can rest," we were dazed for a while from the[r]
+nightmarish events we had just gone through, but the senior[r]
+reminded us, "Make sure to keep watch in either direction."[pcms]
 
 *4909|
 [fc]
-Kousuke sat facing the direction we came from, while Margarita-senpai sat facing[r]
-forward, keeping watch as everyone checked their belongings. Ren was right next[r]
-to me.[pcms]
+Kousuke sat facing the direction we came from, while[r]
+Margarita-senpai sat facing forward, keeping watch as[r]
+everyone checked their belongings. Ren was right next to me.[pcms]
 
 *4910|
 [fc]
-Everyone except Ren had not only their bags but also a change of clothes, which[r]
-was fortunate.[pcms]
+Everyone except Ren had not only their bags but also a[r]
+change of clothes, which was fortunate.[pcms]
 
 *4911|
 [fc]
-Everyone had sporty clothes and uniforms for their own reasons, but Ren didn't[r]
-have those, so she was still in her uniform.[pcms]
+Everyone had sporty clothes and uniforms for their own[r]
+reasons, but Ren didn't have those, so she was still in her[r]
+uniform.[pcms]
 
 *4912|
 [fc]
-Moreover, since she was in the middle of club activities, she didn't have any[r]
-luggage. All she had was her cherished violin and its case, and a few[r]
-accessories.[pcms]
+Moreover, since she was in the middle of club activities,[r]
+she didn't have any luggage. All she had was her cherished[r]
+violin and its case, and a few accessories.[pcms]
 
 *4913|
 [fc]
-In the midst of that chaos, she had managed to bring only her violin, a keepsake[r]
-from her mother, which she cherishes like her mother herself.[pcms]
+In the midst of that chaos, she had managed to bring only[r]
+her violin, a keepsake from her mother, which she cherishes[r]
+like her mother herself.[pcms]
 
 *4914|
 [fc]
-Kousuke had two basketball uniforms... one for the team and a replica of a[r]
-famous private team. He had plenty of changes of clothes including jerseys,[r]
-spare underwear, and his uniform.[pcms]
+Kousuke had two basketball uniforms... one for the team and[r]
+a replica of a famous private team. He had plenty of changes[r]
+of clothes including jerseys, spare underwear, and his[r]
+uniform.[pcms]
 
 *4915|
 [fc]
-On the other hand, he also had a comb for grooming, a hairdryer, deodorant spray[r]
-for sweat odor, towels, a music player, sports drinks, and packed lunches.[pcms]
+On the other hand, he also had a comb for grooming, a[r]
+hairdryer, deodorant spray for sweat odor, towels, a music[r]
+player, sports drinks, and packed lunches.[pcms]
 
 *4916|
 [fc]
-But Kousuke's clothes were too big and definitely wouldn't fit Ren.[pcms]
+But Kousuke's clothes were too big and definitely wouldn't[r]
+fit Ren.[pcms]
 
 *4917|
 [fc]
-Margarita-senpai, for some reason, had a safari jacket and safari pants as a[r]
-change of clothes. Why on earth does senpai have such clothes?[pcms]
+Margarita-senpai, for some reason, had a safari jacket and[r]
+safari pants as a change of clothes. Why on earth does[r]
+senpai have such clothes?[pcms]
 
 *4918|
 [fc]
-She also seemed to have a book written about old Tokyo. The map on the book's[r]
-frontispiece and senpai's knowledge will become our navigator.[pcms]
+She also seemed to have a book written about old Tokyo. The[r]
+map on the book's frontispiece and senpai's knowledge will[r]
+become our navigator.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -97,25 +104,26 @@ frontispiece and senpai's knowledge will become our navigator.[pcms]
 [fc]
 [vo_mar s="maru0633"]
 [ns]Margarita[nse]
-"We also have just enough lights for one each... Let's each keep one. We might[r]
-have to move underground again."[pcms]
+"We also have just enough lights for one each... Let's each[r]
+keep one. We might have to move underground again."[pcms]
 
 *4920|
 [fc]
-In addition to my LED lantern, senpai had three small lights.[pcms]
+In addition to my LED lantern, senpai had three small[r]
+lights.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4921|
 [fc]
-Seeing that all the lights are different shapes, they must all be for different[r]
-purposes.[pcms]
+Seeing that all the lights are different shapes, they must[r]
+all be for different purposes.[pcms]
 
 *4922|
 [fc]
-Besides the lights, both senpai's digital camera and my cellphone can also serve[r]
-as lights for a short time.[pcms]
+Besides the lights, both senpai's digital camera and my[r]
+cellphone can also serve as lights for a short time.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -123,20 +131,22 @@ as lights for a short time.[pcms]
 [fc]
 [vo_mar s="maru0634"]
 [ns]Margarita[nse]
-"We're short on water as well as food. We have enough drinking water for one[r]
-day, but after that... It's worrying."[pcms]
+"We're short on water as well as food. We have enough[r]
+drinking water for one day, but after that... It's[r]
+worrying."[pcms]
 
 *4924|
 [fc]
 [vo_mar s="maru0635"]
 [ns]Margarita[nse]
-"Indeed, with four people, we need quite a lot of water. It means we can't stay[r]
-underground for long..."[pcms]
+"Indeed, with four people, we need quite a lot of water. It[r]
+means we can't stay underground for long..."[pcms]
 
 *4925|
 [fc]
-Water, the most important thing for survival, was something everyone except Ren[r]
-had in the form of sports drinks. Senpai also had a little bit of regular water.[pcms]
+Water, the most important thing for survival, was something[r]
+everyone except Ren had in the form of sports drinks. Senpai[r]
+also had a little bit of regular water.[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -147,13 +157,14 @@ Still, it seems it's not nearly enough for four people.[pcms]
 
 *4927|
 [fc]
-Food is even more scarce. I brought canned food and snacks for camping. Ren made[r]
-us packed lunches.[pcms]
+Food is even more scarce. I brought canned food and snacks[r]
+for camping. Ren made us packed lunches.[pcms]
 
 *4928|
 [fc]
-Apart from that, there were Kousuke's packed lunches. We have to eat the packed[r]
-lunches first. We never know when they might spoil.[pcms]
+Apart from that, there were Kousuke's packed lunches. We[r]
+have to eat the packed lunches first. We never know when[r]
+they might spoil.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -174,7 +185,8 @@ lunches first. We never know when they might spoil.[pcms]
 [fc]
 [vo_ren s="ren0619"]
 [ns]Ren[nse]
-"Because I... didn't bring anything that seems useful. And... that..."[pcms]
+"Because I... didn't bring anything that seems useful.[r]
+And... that..."[pcms]
 
 *4932|
 [fc]
@@ -189,8 +201,9 @@ lunches first. We never know when they might spoil.[pcms]
 
 *4934|
 [fc]
-Ren remained silent with her head down. She probably wanted to say "I'm just a[r]
-burden" but got scared and couldn't say it.[pcms]
+Ren remained silent with her head down. She probably wanted[r]
+to say "I'm just a burden" but got scared and couldn't say[r]
+it.[pcms]
 
 *4935|
 [fc]
@@ -212,14 +225,15 @@ Ren is surprised by my words.[pcms]
 *4938|
 [fc]
 [ns]Wataru[nse]
-"Thank you for the packed lunch... Because you made it, we can all share and eat[r]
-together, right?"[pcms]
+"Thank you for the packed lunch... Because you made it, we[r]
+can all share and eat together, right?"[pcms]
 
 *4939|
 [fc]
 [ns]Wataru[nse]
-"If it was only Kousuke's packed lunch, even if we shared it, there wouldn't be[r]
-enough... This is all thanks to you always making packed lunches for us."[pcms]
+"If it was only Kousuke's packed lunch, even if we shared[r]
+it, there wouldn't be enough... This is all thanks to you[r]
+always making packed lunches for us."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -234,8 +248,8 @@ enough... This is all thanks to you always making packed lunches for us."[pcms]
 *4941|
 [fc]
 [ns]Kousuke[nse]
-"Wataru is lucky... to have such a well-behaved and cute sister like Ren-chan...[r]
-who makes lunch every day..."[pcms]
+"Wataru is lucky... to have such a well-behaved and cute[r]
+sister like Ren-chan... who makes lunch every day..."[pcms]
 
 *4942|
 [fc]
@@ -251,7 +265,8 @@ who makes lunch every day..."[pcms]
 
 *4944|
 [fc]
-Kousuke messes up my hair with his hand. He's back to his usual self.[pcms]
+Kousuke messes up my hair with his hand. He's back to his[r]
+usual self.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -270,7 +285,8 @@ A smile has returned to Ren's face before I knew it.[pcms]
 *4947|
 [fc]
 [ns]Kousuke[nse]
-"That's right... Ren-chan looks best when she's smiling like that..."[pcms]
+"That's right... Ren-chan looks best when she's smiling like[r]
+that..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -334,8 +350,9 @@ I press my forehead against Ren's forehead.[pcms]
 
 *4958|
 [fc]
-"Why didn't you tell me?" I start to say, but then I close my mouth. It's not[r]
-that she didn't tell me... she couldn't say it.[pcms]
+"Why didn't you tell me?" I start to say, but then I close[r]
+my mouth. It's not that she didn't tell me... she couldn't[r]
+say it.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -372,7 +389,8 @@ I take out my half-finished sports drink.[pcms]
 [fc]
 [vo_mar s="maru0638"]
 [ns]Margarita[nse]
-"It would be better if it were chilled... This should still be somewhat cold."[pcms]
+"It would be better if it were chilled... This should still[r]
+be somewhat cold."[pcms]
 
 *4964|
 [fc]
@@ -389,8 +407,8 @@ I take out my half-finished sports drink.[pcms]
 
 *4966|
 [fc]
-Senpai pours from her thermos and hands it to me. I take the sports drink and[r]
-bring it to Ren's lips.[pcms]
+Senpai pours from her thermos and hands it to me. I take the[r]
+sports drink and bring it to Ren's lips.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -411,8 +429,8 @@ bring it to Ren's lips.[pcms]
 [fc]
 [vo_mar s="maru0640"]
 [ns]Margarita[nse]
-"It shouldn't be too cold. Too much chill isn't good for the body either. This[r]
-should be just the right temperature..."[pcms]
+"It shouldn't be too cold. Too much chill isn't good for the[r]
+body either. This should be just the right temperature..."[pcms]
 
 ;//ÉZÉäÉtïœçX
 
@@ -451,8 +469,8 @@ Ren swallows quietly, drinking the sports drink.[pcms]
 [fc]
 [vo_mar s="maru0641"]
 [ns]Margarita[nse]
-"It's good that we took a break... You seemed a bit off earlier too. Maybe your[r]
-sister caught a cold?"[pcms]
+"It's good that we took a break... You seemed a bit off[r]
+earlier too. Maybe your sister caught a cold?"[pcms]
 
 *4975|
 [fc]
@@ -483,7 +501,8 @@ Senpai says just that before looking around.[pcms]
 [fc]
 [vo_mar s="maru0643"]
 [ns]Margarita[nse]
-"...Anyway, Wataru, you were carrying quite a lot of stuff..."[pcms]
+"...Anyway, Wataru, you were carrying quite a lot of[r]
+stuff..."[pcms]
 
 *4980|
 [fc]
@@ -495,8 +514,8 @@ Senpai says just that before looking around.[pcms]
 *4981|
 [fc]
 [ns]Kousuke[nse]
-"You must have been desperate. Normally, Wataru would have given up immediately[r]
-with that amount of luggage..."[pcms]
+"You must have been desperate. Normally, Wataru would have[r]
+given up immediately with that amount of luggage..."[pcms]
 
 *4982|
 [fc]
@@ -508,13 +527,14 @@ with that amount of luggage..."[pcms]
 
 *4983|
 [fc]
-While saying that, I rummage through the luggage with one hand while holding Ren[r]
-with the other.[pcms]
+While saying that, I rummage through the luggage with one[r]
+hand while holding Ren with the other.[pcms]
 
 *4984|
 [fc]
-Various medicines, trash bags, dishes, knives, towels, radios... Even a "cooling[r]
-sheet" that feels cool when you put it on.[pcms]
+Various medicines, trash bags, dishes, knives, towels,[r]
+radios... Even a "cooling sheet" that feels cool when you[r]
+put it on.[pcms]
 
 *4985|
 [fc]
@@ -556,8 +576,9 @@ I unwrap the package and drape the cooling sheet over Ren.[pcms]
 [fc]
 [vo_mar s="maru0644"]
 [ns]Margarita[nse]
-"I see... a cooling sheet. Japan really is a country of technology... There are[r]
-such unexpectedly convenient things."[pcms]
+"I see... a cooling sheet. Japan really is a country of[r]
+technology... There are such unexpectedly convenient[r]
+things."[pcms]
 
 *4991|
 [fc]
@@ -568,8 +589,9 @@ Senpai seems impressed.[pcms]
 
 *4992|
 [fc]
-I roll up some towels to make a makeshift pillow for Ren's head. Then I wrap a[r]
-towel blanket around her like a belly band to keep her stomach warm.[pcms]
+I roll up some towels to make a makeshift pillow for Ren's[r]
+head. Then I wrap a towel blanket around her like a belly[r]
+band to keep her stomach warm.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -586,8 +608,8 @@ towel blanket around her like a belly band to keep her stomach warm.[pcms]
 
 *4995|
 [fc]
-I say this while touching Ren's forehead. It seems her fever has gone down a[r]
-bit.[pcms]
+I say this while touching Ren's forehead. It seems her fever[r]
+has gone down a bit.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -595,8 +617,9 @@ bit.[pcms]
 [fc]
 [vo_mar s="maru0645"]
 [ns]Margarita[nse]
-"You should rest easy. In the meantime, we will try various things... Surely,[r]
-there will be good news by the time you wake up."[pcms]
+"You should rest easy. In the meantime, we will try various[r]
+things... Surely, there will be good news by the time you[r]
+wake up."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -624,13 +647,13 @@ Ren closes her eyes at Senpai's words.[pcms]
 [fc]
 [vo_mar s="maru0646"]
 [ns]Margarita[nse]
-"I keep telling you not to worry about it... And besides, you really do seem[r]
-like a good brother."[pcms]
+"I keep telling you not to worry about it... And besides,[r]
+you really do seem like a good brother."[pcms]
 
 *5001|
 [fc]
-Gripping the mop that I've been using as a weapon since we escaped the school, I[r]
-blush at Senpai's words.[pcms]
+Gripping the mop that I've been using as a weapon since we[r]
+escaped the school, I blush at Senpai's words.[pcms]
 
 ;//Å®ÉuÉçÉbÉNÇSÇQÇOÇTÇOÇ÷
 [jump storage="42050.ks" target=*42050_TOP]

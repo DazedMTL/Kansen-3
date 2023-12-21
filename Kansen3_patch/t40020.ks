@@ -19,8 +19,9 @@
 
 *6769|
 [fc]
-I can't think of anything else I want to do, so I guess I'll head back to my[r]
-room. Maybe read some manga or play a game...[pcms]
+I can't think of anything else I want to do, so I guess I'll[r]
+head back to my room. Maybe read some manga or play a[r]
+game...[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -60,14 +61,16 @@ At my words, Ren smiles happily.[pcms]
 [fc]
 [vo_ren s="ren_T0024"]
 [ns]Ren[nse]
-"Yeah, I played a little bit yesterday, but I haven't been practicing properly[r]
-lately... I was wondering if there's a place where I won't be in the way..."[pcms]
+"Yeah, I played a little bit yesterday, but I haven't been[r]
+practicing properly lately... I was wondering if there's a[r]
+place where I won't be in the way..."[pcms]
 
 *6776|
 [fc]
 [ns]Wataru[nse]
-"Then the stage restaurant would be good. The acoustics are nice there, and if[r]
-it were the dome, everyone would be there."[pcms]
+"Then the stage restaurant would be good. The acoustics are[r]
+nice there, and if it were the dome, everyone would be[r]
+there."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -79,13 +82,14 @@ it were the dome, everyone would be there."[pcms]
 
 *6778|
 [fc]
-Come to think of it, I haven't really listened to Ren's violin performance[r]
-lately... The last time might have been at the recital at the beginning of the[r]
-year.[pcms]
+Come to think of it, I haven't really listened to Ren's[r]
+violin performance lately... The last time might have been[r]
+at the recital at the beginning of the year.[pcms]
 
 *6779|
 [fc]
-I could hear her practicing at school from afar, but I hadn't seen her play.[pcms]
+I could hear her practicing at school from afar, but I[r]
+hadn't seen her play.[pcms]
 
 *6780|
 [fc]
@@ -94,7 +98,8 @@ I could hear her practicing at school from afar, but I hadn't seen her play.[pcm
 
 *6781|
 [fc]
-I felt like it might be nice to listen to Ren's live performance for a change.[pcms]
+I felt like it might be nice to listen to Ren's live[r]
+performance for a change.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -104,9 +109,9 @@ I felt like it might be nice to listen to Ren's live performance for a change.[p
 
 *6782|
 [fc]
-Gently taking out her instrument from the case, Ren tightens the bow and,[r]
-positioning it above her collarbone, she plays a long open A string to start[r]
-tuning.[pcms]
+Gently taking out her instrument from the case, Ren tightens[r]
+the bow and, positioning it above her collarbone, she plays[r]
+a long open A string to start tuning.[pcms]
 
 ;//★ここまでの部分Ｔ４００１０から流用しました
 
@@ -125,8 +130,8 @@ tuning.[pcms]
 
 *6785|
 [fc]
-While adjusting the pegs to raise the pitch slightly, Ren looks over with just[r]
-her eyes.[pcms]
+While adjusting the pegs to raise the pitch slightly, Ren[r]
+looks over with just her eyes.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f14"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -143,8 +148,9 @@ her eyes.[pcms]
 
 *6788|
 [fc]
-I was planning to enjoy the music leisurely, but this sudden question caught me[r]
-off guard and made my eyes dart around in surprise.[pcms]
+I was planning to enjoy the music leisurely, but this sudden[r]
+question caught me off guard and made my eyes dart around in[r]
+surprise.[pcms]
 
 *6789|
 [fc]
@@ -157,13 +163,13 @@ off guard and made my eyes dart around in surprise.[pcms]
 [fc]
 [vo_ren s="ren_T0035"]
 [ns]Ren[nse]
-"Yesterday, if Koro-chan and I hadn't interrupted, I wonder if things would have[r]
-gone well for you and her..."[pcms]
+"Yesterday, if Koro-chan and I hadn't interrupted, I wonder[r]
+if things would have gone well for you and her..."[pcms]
 
 *6791|
 [fc]
-Looking down apologetically, Ren mutters. She must be really concerned about[r]
-eavesdropping...[pcms]
+Looking down apologetically, Ren mutters. She must be really[r]
+concerned about eavesdropping...[pcms]
 
 *6792|
 [fc]
@@ -177,8 +183,8 @@ To prove I'm not angry, I give her a smile.[pcms]
 *6794|
 [fc]
 [ns]Wataru[nse]
-"...Well, you know, things like this... It's all about timing, and... well...[r]
-it'll work out eventually..."[pcms]
+"...Well, you know, things like this... It's all about[r]
+timing, and... well... it'll work out eventually..."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -190,7 +196,8 @@ it'll work out eventually..."[pcms]
 
 *6796|
 [fc]
-Ouch. Even while apologizing, she lands a jab. My sister is quite something...[pcms]
+Ouch. Even while apologizing, she lands a jab. My sister is[r]
+quite something...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -202,8 +209,8 @@ Ouch. Even while apologizing, she lands a jab. My sister is quite something...[p
 
 *6798|
 [fc]
-While checking the tuning with a relaxed chord, Ren's expression clouds over[r]
-just a bit.[pcms]
+While checking the tuning with a relaxed chord, Ren's[r]
+expression clouds over just a bit.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -211,8 +218,8 @@ just a bit.[pcms]
 [fc]
 [vo_ren s="ren_T0038"]
 [ns]Ren[nse]
-"Yuuho-chan must be going through a tough time right now... Her family is[r]
-missing, and her friends have died..."[pcms]
+"Yuuho-chan must be going through a tough time right now...[r]
+Her family is missing, and her friends have died..."[pcms]
 ;//＠すこし沈んだ口調
 
 [ChrSetEx layer=5 chbase="ren_f2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -221,8 +228,8 @@ missing, and her friends have died..."[pcms]
 [fc]
 [vo_ren s="ren_T0039"]
 [ns]Ren[nse]
-"So, Onii-chan... At times like this, you should really support Yuuho-chan[r]
-firmly, okay?"[pcms]
+"So, Onii-chan... At times like this, you should really[r]
+support Yuuho-chan firmly, okay?"[pcms]
 
 *6801|
 [fc]
@@ -231,19 +238,20 @@ firmly, okay?"[pcms]
 
 *6802|
 [fc]
-I nod while thinking that Ren's kindness of always considering others first is[r]
-one of her best qualities.[pcms]
+I nod while thinking that Ren's kindness of always[r]
+considering others first is one of her best qualities.[pcms]
 
 *6803|
 [fc]
 [ns]Wataru[nse]
-"That's right... I want to be there for her too. But confessing now seems a[r]
-bit... It feels like taking advantage of her when she's vulnerable..."[pcms]
+"That's right... I want to be there for her too. But[r]
+confessing now seems a bit... It feels like taking advantage[r]
+of her when she's vulnerable..."[pcms]
 
 *6804|
 [fc]
-Making an excuse that doesn't really sound like one, Ren chuckles with her[r]
-shoulders shaking.[pcms]
+Making an excuse that doesn't really sound like one, Ren[r]
+chuckles with her shoulders shaking.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -251,13 +259,14 @@ shoulders shaking.[pcms]
 [fc]
 [vo_ren s="ren_T0040"]
 [ns]Ren[nse]
-"Onii-chan, you're really clumsy, aren't you? You'll miss your chance like[r]
-that?"[pcms]
+"Onii-chan, you're really clumsy, aren't you? You'll miss[r]
+your chance like that?"[pcms]
 
 *6806|
 [fc]
 [ns]Wataru[nse]
-"Well, maybe so... But it can't be helped; that's just how I am."[pcms]
+"Well, maybe so... But it can't be helped; that's just how I[r]
+am."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -265,12 +274,14 @@ that?"[pcms]
 [fc]
 [vo_ren s="ren_T0041"]
 [ns]Ren[nse]
-"I see... Yeah, that's right. That's just the kind of person Onii-chan is..."[pcms]
+"I see... Yeah, that's right. That's just the kind of person[r]
+Onii-chan is..."[pcms]
 ;//＠ちょっと思慕
 
 *6808|
 [fc]
-After tilting her head in thought for a moment, Ren winks at me mischievously.[pcms]
+After tilting her head in thought for a moment, Ren winks at[r]
+me mischievously.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -278,8 +289,8 @@ After tilting her head in thought for a moment, Ren winks at me mischievously.[p
 [fc]
 [vo_ren s="ren_T0042"]
 [ns]Ren[nse]
-"If... by some bad luck, you can't find a bride, would it be okay if I became[r]
-yours?"[pcms]
+"If... by some bad luck, you can't find a bride, would it be[r]
+okay if I became yours?"[pcms]
 ;//＠少し照れている
 
 ;//[ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -314,8 +325,8 @@ Ren becoming my... bride?[pcms]
 
 
 ;	[link storage="T40030.ks" target=*T40030_TOP]良いかも……[endlink]
-; (link storage="T40040.ks" target=*T40040_TOP)No, that's not right! After all,[r]
-we are...(endlink)[pcms]
+; (link storage="T40040.ks" target=*T40040_TOP)No, that's[r]
+not right! After all, we are...(endlink)[pcms]
 
 *SEL74|良いかも……／いや、だめだよ！　だってボクたちは……
 [fc]

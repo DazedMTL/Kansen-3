@@ -45,8 +45,8 @@
 
 *3573|
 [fc]
-While I felt a shock that almost made me lose consciousness, I still managed to[r]
-stay aware.[pcms]
+While I felt a shock that almost made me lose consciousness,[r]
+I still managed to stay aware.[pcms]
 
 *3574|
 [fc]
@@ -54,8 +54,9 @@ stay aware.[pcms]
 
 *3575|
 [fc]
-And when I woke up, "What are you dozing off for?" Wataru and Kousuke would be[r]
-laughing... back to the slightly boring everyday life...[pcms]
+And when I woke up, "What are you dozing off for?" Wataru[r]
+and Kousuke would be laughing... back to the slightly boring[r]
+everyday life...[pcms]
 
 ;//　フラッシュ　長め？
 
@@ -80,12 +81,13 @@ I averted my eyes from the brightness.[pcms]
 
 *3578|
 [fc]
-The swaying light grew gradually stronger and brighter, illuminating me.[pcms]
+The swaying light grew gradually stronger and brighter,[r]
+illuminating me.[pcms]
 
 *3579|
 [fc]
-As the light came closer, I finally understood what it was. It was an electric[r]
-lantern, and the one holding it was...[pcms]
+As the light came closer, I finally understood what it was.[r]
+It was an electric lantern, and the one holding it was...[pcms]
 
 *3580|
 [fc]
@@ -103,16 +105,19 @@ lantern, and the one holding it was...[pcms]
 
 *3582|
 [fc]
-Senpai was swaying the lantern as if on purpose, slowly approaching me.[pcms]
+Senpai was swaying the lantern as if on purpose, slowly[r]
+approaching me.[pcms]
 
 *3583|
 [fc]
-Her clothes were tattered... almost naked... covered in a slimy liquid all over[r]
-her body. The liquid had white and red areas...[pcms]
+Her clothes were tattered... almost naked... covered in a[r]
+slimy liquid all over her body. The liquid had white and red[r]
+areas...[pcms]
 
 *3584|
 [fc]
-Yet, she had a faint smile on her face... and her eyes were shining bright red.[pcms]
+Yet, she had a faint smile on her face... and her eyes were[r]
+shining bright red.[pcms]
 
 *3585|
 [fc]
@@ -135,8 +140,9 @@ Yet, she had a faint smile on her face... and her eyes were shining bright red.[
 
 *3588|
 [fc]
-As soon as it became brighter, the crazed people understood what my body looked[r]
-like and started reaching out for me one after another.[pcms]
+As soon as it became brighter, the crazed people understood[r]
+what my body looked like and started reaching out for me one[r]
+after another.[pcms]
 
 *3589|
 [fc]
@@ -150,7 +156,8 @@ like and started reaching out for me one after another.[pcms]
 
 *3591|
 [fc]
-The crazed people tried to tear off my clothes with their hands.[pcms]
+The crazed people tried to tear off my clothes with their[r]
+hands.[pcms]
 
 *3592|
 [fc]
@@ -161,8 +168,8 @@ The crazed people tried to tear off my clothes with their hands.[pcms]
 *3593|
 [fc]
 [ns]Yuuho's father[nse]
-"What are you saying, Yuuho... You have to take off your clothes properly,[r]
-right?"[pcms]
+"What are you saying, Yuuho... You have to take off your[r]
+clothes properly, right?"[pcms]
 
 *3594|
 [fc]
@@ -172,13 +179,14 @@ In a voice like a drunkard, my father told me.[pcms]
 [fc]
 [vo_yuh s="yuho0525"]
 [ns]Yuuho[nse]
-"Why!? Why do I have to be undressed by these people? Nooo!!"[pcms]
+"Why!? Why do I have to be undressed by these people?[r]
+Nooo!!"[pcms]
 
 *3596|
 [fc]
 [ns]Yuuho's father[nse]
-"You can't be selfish, Yuuho. You can't wear clothes when you're about to have[r]
-sex..."[pcms]
+"You can't be selfish, Yuuho. You can't wear clothes when[r]
+you're about to have sex..."[pcms]
 
 *3597|
 [fc]
@@ -188,22 +196,24 @@ sex..."[pcms]
 
 *3598|
 [fc]
-To hear such words from my father's mouth... I felt like I was going to go mad[r]
-for real this time.[pcms]
+To hear such words from my father's mouth... I felt like I[r]
+was going to go mad for real this time.[pcms]
 
 *3599|
 [fc]
-I've known about sex for a long time. I'm not a child anymore.[pcms]
+I've known about sex for a long time. I'm not a child[r]
+anymore.[pcms]
 
 *3600|
 [fc]
-I understand that I was born because my father and mother had sex...[pcms]
+I understand that I was born because my father and mother[r]
+had sex...[pcms]
 
 *3601|
 [fc]
-But I thought that was something you only do with someone you love, and I[r]
-dreamed of being united with someone I love like that someday... Occasionally[r]
-comforting myself.[pcms]
+But I thought that was something you only do with someone[r]
+you love, and I dreamed of being united with someone I love[r]
+like that someday... Occasionally comforting myself.[pcms]
 
 *3602|
 [fc]
@@ -228,7 +238,8 @@ I thought sex that wasn't like that was impure and dirty.[pcms]
 
 *3605|
 [fc]
-While tearing at my clothes, the crazed people began to lift my body.[pcms]
+While tearing at my clothes, the crazed people began to lift[r]
+my body.[pcms]
 
 *3606|
 [fc]
@@ -242,7 +253,8 @@ Their purpose was...[pcms]
 
 *3608|
 [fc]
-I involuntarily called out Wataru's name. Help me, Wataru. I am... I am...[pcms]
+I involuntarily called out Wataru's name. Help me, Wataru. I[r]
+am... I am...[pcms]
 
 *3609|
 [fc]
@@ -257,7 +269,8 @@ I involuntarily called out Wataru's name. Help me, Wataru. I am... I am...[pcms]
 
 *3611|
 [fc]
-It couldn't be a dream... Responding to my call, Wataru appeared.[pcms]
+It couldn't be a dream... Responding to my call, Wataru[r]
+appeared.[pcms]
 
 *3612|
 [fc]
@@ -272,7 +285,8 @@ It couldn't be a dream... Responding to my call, Wataru appeared.[pcms]
 
 *3614|
 [fc]
-I was so happy that I ended up shouting at the top of my lungs.[pcms]
+I was so happy that I ended up shouting at the top of my[r]
+lungs.[pcms]
 
 *3615|
 [fc]
@@ -286,12 +300,14 @@ Wataru kept his promise and caught up with me.[pcms]
 
 *3617|
 [fc]
-Tears of joy wouldn't stop flowing as I kept calling out Wataru's name.[pcms]
+Tears of joy wouldn't stop flowing as I kept calling out[r]
+Wataru's name.[pcms]
 
 *3618|
 [fc]
-Wataru came closer and showed me he was safe. His clothes were dirty and his[r]
-hair disheveled, but he looked well, and tears of happiness continued to spill.[pcms]
+Wataru came closer and showed me he was safe. His clothes[r]
+were dirty and his hair disheveled, but he looked well, and[r]
+tears of happiness continued to spill.[pcms]
 
 *3619|
 [fc]
@@ -299,8 +315,8 @@ But why...!?[pcms]
 
 *3620|
 [fc]
-I was so happy that I had completely pushed it to the back of my mind, but now I[r]
-finally realized it.[pcms]
+I was so happy that I had completely pushed it to the back[r]
+of my mind, but now I finally realized it.[pcms]
 
 *3621|
 [fc]
@@ -321,23 +337,25 @@ finally realized it.[pcms]
 
 *3624|
 [fc]
-Why are you with Maruko-senpai who's gone crazy? And following Wataru is Ren-[r]
-chan too...!?[pcms]
+Why are you with Maruko-senpai who's gone crazy? And[r]
+following Wataru is Ren- chan too...!?[pcms]
 
 *3625|
 [fc]
 [ns]Wataru[nse]
-"What's wrong~ Yuuho~? You're making a strange face~. Aren't you happy that I[r]
-caught up with you~?"[pcms]
+"What's wrong~ Yuuho~? You're making a strange face~. Aren't[r]
+you happy that I caught up with you~?"[pcms]
 
 *3626|
 [fc]
-Why is Wataru okay? Even though the two of them have gone crazy!?[pcms]
+Why is Wataru okay? Even though the two of them have gone[r]
+crazy!?[pcms]
 
 *3627|
 [fc]
-No... Wataru's way of speaking is a bit strange. It's as if he's drunk on[r]
-alcohol... It was... exactly like my father's way of speaking.[pcms]
+No... Wataru's way of speaking is a bit strange. It's as if[r]
+he's drunk on alcohol... It was... exactly like my father's[r]
+way of speaking.[pcms]
 
 *3628|
 [fc]
@@ -358,8 +376,8 @@ Ren-chan clung to Wataru's body and reached for his hips.[pcms]
 [fc]
 [vo_ren s="ren0547"]
 [ns]Ren[nse]
-"Big brother's cock belongs only to Ren... Yuuho-chan, you're such an[r]
-unnecessary child, aren't you~?"[pcms]
+"Big brother's cock belongs only to Ren... Yuuho-chan,[r]
+you're such an unnecessary child, aren't you~?"[pcms]
 
 *3632|
 [fc]
@@ -369,7 +387,8 @@ unnecessary child, aren't you~?"[pcms]
 
 *3633|
 [fc]
-Wataru's pants zipper was open, and his wet and swollen thing was peeking out.[pcms]
+Wataru's pants zipper was open, and his wet and swollen[r]
+thing was peeking out.[pcms]
 
 *3634|
 [fc]
@@ -380,8 +399,8 @@ Wataru's pants zipper was open, and his wet and swollen thing was peeking out.[p
 [fc]
 [vo_ren s="ren0548"]
 [ns]Ren[nse]
-"Ufufu... Yuuho-chan is unnecessary, right~? Yuuho-chan is an unnecessary[r]
-child~"[pcms]
+"Ufufu... Yuuho-chan is unnecessary, right~? Yuuho-chan is[r]
+an unnecessary child~"[pcms]
 
 *3636|
 [fc]
@@ -402,14 +421,14 @@ child~"[pcms]
 
 *3639|
 [fc]
-The three of them approached me amicably. I felt like I was going to go crazy[r]
-from their amicably insane appearance.[pcms]
+The three of them approached me amicably. I felt like I was[r]
+going to go crazy from their amicably insane appearance.[pcms]
 
 *3640|
 [fc]
 [ns]Wataru[nse]
-"Come on, Yuuho~. I'll make you feel good too~. Let's all have sex together and[r]
-get along~"[pcms]
+"Come on, Yuuho~. I'll make you feel good too~. Let's all[r]
+have sex together and get along~"[pcms]
 
 *3641|
 [fc]
@@ -419,8 +438,9 @@ get along~"[pcms]
 
 *3642|
 [fc]
-I couldn't take it anymore. I was rather relieved as my consciousness slowly[r]
-faded away. I wished that I would never wake up again.[pcms]
+I couldn't take it anymore. I was rather relieved as my[r]
+consciousness slowly faded away. I wished that I would never[r]
+wake up again.[pcms]
 
 
 ;システムボタン＆ウィンドウ消去
@@ -470,8 +490,8 @@ Suddenly screaming, Yuuho collapsed.[pcms]
 
 *3647|
 [fc]
-Around Yuuho, there were still plenty of men swarming. Around my beloved[r]
-Yuuho... I started to feel angry.[pcms]
+Around Yuuho, there were still plenty of men swarming.[r]
+Around my beloved Yuuho... I started to feel angry.[pcms]
 
 *3648|
 [fc]
@@ -499,8 +519,8 @@ I swung my hand in anger as I advanced. Then...[pcms]
 
 *3653|
 [fc]
-The man who had been holding Yuuho from behind knocked down the other two. That[r]
-was... isn't that Yuuho's uncle?[pcms]
+The man who had been holding Yuuho from behind knocked down[r]
+the other two. That was... isn't that Yuuho's uncle?[pcms]
 
 *3654|
 [fc]
@@ -524,29 +544,32 @@ was... isn't that Yuuho's uncle?[pcms]
 
 *3658|
 [fc]
-The uncle finally remembered me. But, it took me a while to remember my own[r]
-name, so it can't be helped.[pcms]
+The uncle finally remembered me. But, it took me a while to[r]
+remember my own name, so it can't be helped.[pcms]
 
 *3659|
 [fc]
 [ns]Yuuho's father[nse]
-"Just in time~. I want you, her childhood friend, to see it too~. The moment[r]
-Yuuho loses the virginity she has kept until now~"[pcms]
+"Just in time~. I want you, her childhood friend, to see it[r]
+too~. The moment Yuuho loses the virginity she has kept[r]
+until now~"[pcms]
 
 *3660|
 [fc]
 [ns]Wataru[nse]
-"Virginity? You mean her virginity, right~? Who exactly is going to do it with[r]
-Yuuho~?"[pcms]
+"Virginity? You mean her virginity, right~? Who exactly is[r]
+going to do it with Yuuho~?"[pcms]
 
 *3661|
 [fc]
 [ns]Yuuho's father[nse]
-"It's obviously me~. There's no one else but me who loves Yuuho the most~"[pcms]
+"It's obviously me~. There's no one else but me who loves[r]
+Yuuho the most~"[pcms]
 
 *3662|
 [fc]
-The uncle said it as if it were a matter of course, but I couldn't agree.[pcms]
+The uncle said it as if it were a matter of course, but I[r]
+couldn't agree.[pcms]
 
 *3663|
 [fc]
@@ -556,8 +579,8 @@ The uncle said it as if it were a matter of course, but I couldn't agree.[pcms]
 *3664|
 [fc]
 [ns]Yuuho's father[nse]
-"What are you talking about. It belongs to me who has raised Yuuho all this[r]
-time~! Yuuho's virginity is mine!!"[pcms]
+"What are you talking about. It belongs to me who has raised[r]
+Yuuho all this time~! Yuuho's virginity is mine!!"[pcms]
 
 
 ;mm いちいち片方みてチェックするのめんどうから条件分岐廃止。回想では片方しかみてなくても選択肢で分岐させる。
@@ -597,7 +620,8 @@ time~! Yuuho's virginity is mine!!"[pcms]
 
 ;	[link storage="41130.ks" target=*41130_TOP]二人で一緒に……[endlink]
 ;	[link storage="41140.ks" target=*41140_TOP]おとうさん、どうぞ[endlink]
-; (link storage="41150.ks" target=*41150_TOP)It's mine~!!(endlink)[pcms]
+; (link storage="41150.ks" target=*41150_TOP)It's[r]
+mine~!!(endlink)[pcms]
 
 *SEL34|二人で一緒に……／おとうさん、どうぞ／ボクのものだ！！
 [fc]

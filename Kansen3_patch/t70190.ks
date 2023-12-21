@@ -69,7 +69,8 @@
 
 *8688|
 [fc]
-I wiped away my tears and gently pulled away from Yuuho's body.[pcms]
+I wiped away my tears and gently pulled away from Yuuho's[r]
+body.[pcms]
 
 ;[evcg storage="EV013c"][trans_c cross time=300]
 
@@ -83,19 +84,19 @@ I wiped away my tears and gently pulled away from Yuuho's body.[pcms]
 
 *8690|
 [fc]
-Yuuho's concern is appreciated. I'm truly happy. But I can't leave Ren all[r]
-alone.[pcms]
+Yuuho's concern is appreciated. I'm truly happy. But I can't[r]
+leave Ren all alone.[pcms]
 
 *8691|
 [fc]
-Ren, utterly weakened to the point of losing her sanity. She might wake up[r]
-suddenly and start crying again.[pcms]
+Ren, utterly weakened to the point of losing her sanity. She[r]
+might wake up suddenly and start crying again.[pcms]
 
 *8692|
 [fc]
 [ns]Wataru[nse]
-"Yuuho, thank you so much. After crying my heart out, I feel somehow refreshed.[r]
-I'm okay now. I'm really okay."[pcms]
+"Yuuho, thank you so much. After crying my heart out, I feel[r]
+somehow refreshed. I'm okay now. I'm really okay."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -109,8 +110,8 @@ I'm okay now. I'm really okay."[pcms]
 *8694|
 [fc]
 [ns]Wataru[nse]
-"Yeah, I'm okay. Look, Yuuho. Thanks to you, I feel better. Thank you so much,[r]
-Yuuho."[pcms]
+"Yeah, I'm okay. Look, Yuuho. Thanks to you, I feel better.[r]
+Thank you so much, Yuuho."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -124,8 +125,8 @@ Yuuho."[pcms]
 *8696|
 [fc]
 [ns]Wataru[nse]
-"Yeah. Thank you. It's getting late at night, let's go back to our rooms and[r]
-rest."[pcms]
+"Yeah. Thank you. It's getting late at night, let's go back[r]
+to our rooms and rest."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -151,8 +152,8 @@ rest."[pcms]
 [fc]
 [vo_yuh s="yuho1197"]
 [ns]Yuuho[nse]
-"I was really worried, you know. I thought something might happen to you,[r]
-Wataru."[pcms]
+"I was really worried, you know. I thought something might[r]
+happen to you, Wataru."[pcms]
 
 *8699|
 [fc]
@@ -182,8 +183,9 @@ Yuuho suddenly stopped walking. She looked straight at me.[pcms]
 [fc]
 [vo_yuh s="yuho1199"]
 [ns]Yuuho[nse]
-"It's going to be tough... but do your best, big brother! Ren-chan... she really[r]
-loves you, Wataru, and I think she relies on you a lot."[pcms]
+"It's going to be tough... but do your best, big brother![r]
+Ren-chan... she really loves you, Wataru, and I think she[r]
+relies on you a lot."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -191,8 +193,9 @@ loves you, Wataru, and I think she relies on you a lot."[pcms]
 [fc]
 [vo_yuh s="yuho1200"]
 [ns]Yuuho[nse]
-"I know it's hard for you too, Wataru, but for Ren's sake as well, I want you to[r]
-do your best. Please protect Ren for our father's sake too."[pcms]
+"I know it's hard for you too, Wataru, but for Ren's sake as[r]
+well, I want you to do your best. Please protect Ren for our[r]
+father's sake too."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -205,8 +208,9 @@ do your best. Please protect Ren for our father's sake too."[pcms]
 *8706|
 [fc]
 [ns]Wataru[nse]
-"Yuuho... thank you for caring about Ren. I'll do my best. I've received plenty[r]
-of energy from Yuuho, and I have your support."[pcms]
+"Yuuho... thank you for caring about Ren. I'll do my best.[r]
+I've received plenty of energy from Yuuho, and I have your[r]
+support."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -214,8 +218,8 @@ of energy from Yuuho, and I have your support."[pcms]
 [fc]
 [vo_yuh s="yuho1202"]
 [ns]Yuuho[nse]
-"Yeah. That's the spirit! Do your best, big brother! Well then, good night.[r]
-Sleep well."[pcms]
+"Yeah. That's the spirit! Do your best, big brother! Well[r]
+then, good night. Sleep well."[pcms]
 
 *8708|
 [fc]
@@ -224,7 +228,8 @@ Sleep well."[pcms]
 
 *8709|
 [fc]
-As if to answer, Yuuho waved her hand flutteringly and left for her own room.[pcms]
+As if to answer, Yuuho waved her hand flutteringly and left[r]
+for her own room.[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -240,13 +245,14 @@ Ren was sleeping soundly, breathing softly in her sleep.[pcms]
 
 *8711|
 [fc]
-A peaceful and adorable sleeping face. It seems she was sleeping soundly after[r]
-all.[pcms]
+A peaceful and adorable sleeping face. It seems she was[r]
+sleeping soundly after all.[pcms]
 
 *8712|
 [fc]
-To always be able to see this peaceful sleeping face, I will do my best, Ren.[r]
-For dad's sake as well, I will definitely protect you.[pcms]
+To always be able to see this peaceful sleeping face, I will[r]
+do my best, Ren. For dad's sake as well, I will definitely[r]
+protect you.[pcms]
 
 *8713|
 [fc]
@@ -255,7 +261,8 @@ For dad's sake as well, I will definitely protect you.[pcms]
 
 *8714|
 [fc]
-I softly spoke to Ren and fell asleep while holding her in my arms.[pcms]
+I softly spoke to Ren and fell asleep while holding her in[r]
+my arms.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

@@ -19,27 +19,29 @@
 
 *467|
 [fc]
-I was once again strolling through the shrine, as I always do.[pcms]
+I was once again strolling through the shrine, as I always[r]
+do.[pcms]
 
 *468|
 [fc]
-Ever since I came to Japan, whenever I have free time, I naturally find myself[r]
-visiting this shrine.[pcms]
+Ever since I came to Japan, whenever I have free time, I[r]
+naturally find myself visiting this shrine.[pcms]
 
 *469|
 [fc]
-The abundance of trees provides cool shade even on hot days, and the atmosphere,[r]
-which is unique to Japanese culture, is a healing space for me.[pcms]
+The abundance of trees provides cool shade even on hot days,[r]
+and the atmosphere, which is unique to Japanese culture, is[r]
+a healing space for me.[pcms]
 
 *470|
 [fc]
-Moreover... this shrine is small and so ordinary that even the locals seldom[r]
-visit, but for me, it's a special place.[pcms]
+Moreover... this shrine is small and so ordinary that even[r]
+the locals seldom visit, but for me, it's a special place.[pcms]
 
 *471|
 [fc]
-When I lean against the cedar tree of the sacred tree, the memories come[r]
-flooding back vividly.[pcms]
+When I lean against the cedar tree of the sacred tree, the[r]
+memories come flooding back vividly.[pcms]
 
 *472|
 [fc]
@@ -58,8 +60,8 @@ Yes, on that day, I...[pcms]
 
 *474|
 [fc]
-The one who shattered my reverie and pulled me back to reality was Sesuka's[r]
-voice.[pcms]
+The one who shattered my reverie and pulled me back to[r]
+reality was Sesuka's voice.[pcms]
 
 *475|
 [fc]
@@ -71,8 +73,8 @@ I thought I had finally gotten a moment to myself.[pcms]
 [fc]
 [vo_mob s="sesuka0007"]
 [ns]Sesuka[nse]
-"You never know what might happen. How many times must I tell you not to wander[r]
-off alone?"[pcms]
+"You never know what might happen. How many times must I[r]
+tell you not to wander off alone?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -80,8 +82,9 @@ off alone?"[pcms]
 [fc]
 [vo_mar s="maru0517"]
 [ns]Margarita[nse]
-"This isn't Matinia. In Japan, where guns aren't prevalent, there are few who[r]
-could harm me. Can't you let me have a little freedom?"[pcms]
+"This isn't Matinia. In Japan, where guns aren't prevalent,[r]
+there are few who could harm me. Can't you let me have a[r]
+little freedom?"[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d6"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
@@ -89,8 +92,8 @@ could harm me. Can't you let me have a little freedom?"[pcms]
 [fc]
 [vo_mob s="sesuka0008"]
 [ns]Sesuka[nse]
-"I cannot do that, young lady. As long as I am your SP (Security Personnel), I[r]
-will protect you with my life."[pcms]
+"I cannot do that, young lady. As long as I am your SP[r]
+(Security Personnel), I will protect you with my life."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -106,8 +109,9 @@ will protect you with my life."[pcms]
 [fc]
 [vo_mob s="sesuka0009"]
 [ns]Sesuka[nse]
-"It was because no one else was suitable to be your SP that I was assigned to[r]
-you. Do you think there is an easy replacement?"[pcms]
+"It was because no one else was suitable to be your SP that[r]
+I was assigned to you. Do you think there is an easy[r]
+replacement?"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -119,14 +123,16 @@ you. Do you think there is an easy replacement?"[pcms]
 
 *482|
 [fc]
-Indeed, I have to admit that Sesuka's argument is valid. This must be because I[r]
-became the daughter of the ambassador of Matinia in Japan.[pcms]
+Indeed, I have to admit that Sesuka's argument is valid.[r]
+This must be because I became the daughter of the ambassador[r]
+of Matinia in Japan.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *483|
 [fc]
-With a sigh of resignation, I walked around to the back of the shrine.[pcms]
+With a sigh of resignation, I walked around to the back of[r]
+the shrine.[pcms]
 
 ;//〆BG：神社の裏
 ;//@konya 該当CGあるか？
@@ -136,12 +142,13 @@ With a sigh of resignation, I walked around to the back of the shrine.[pcms]
 
 *484|
 [fc]
-Although I found it annoying that Sesuka naturally followed me, I felt the usual[r]
-warmth returning to my heart.[pcms]
+Although I found it annoying that Sesuka naturally followed[r]
+me, I felt the usual warmth returning to my heart.[pcms]
 
 *485|
 [fc]
-This small shrine that most people wouldn't even glance at...[pcms]
+This small shrine that most people wouldn't even glance[r]
+at...[pcms]
 
 *486|
 [fc]
@@ -157,8 +164,8 @@ This place is just as important to me as that sacred tree.[pcms]
 [fc]
 [vo_mob s="sesuka0010"]
 [ns]Sesuka[nse]
-"But young lady, why do you visit this shrine so often? I am well aware of your[r]
-interest in Japanese culture,"[pcms]
+"But young lady, why do you visit this shrine so often? I am[r]
+well aware of your interest in Japanese culture,"[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -182,7 +189,8 @@ interest in Japanese culture,"[pcms]
 [fc]
 [vo_mar s="maru0521"]
 [ns]Margarita[nse]
-"Yes. Sesuka, do you know that my father used to be a merchant?"[pcms]
+"Yes. Sesuka, do you know that my father used to be a[r]
+merchant?"[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d7"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
@@ -190,8 +198,8 @@ interest in Japanese culture,"[pcms]
 [fc]
 [vo_mob s="sesuka0012"]
 [ns]Sesuka[nse]
-"Yes. If I recall correctly, he met your mother here in Japan through his work[r]
-and they got married."[pcms]
+"Yes. If I recall correctly, he met your mother here in[r]
+Japan through his work and they got married."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -199,14 +207,15 @@ and they got married."[pcms]
 [fc]
 [vo_mar s="maru0522"]
 [ns]Margarita[nse]
-"My mother's hometown is this town. Before the civil war in our country, we came[r]
-here for a week or two for a visit. And they brought me to this shrine."[pcms]
+"My mother's hometown is this town. Before the civil war in[r]
+our country, we came here for a week or two for a visit. And[r]
+they brought me to this shrine."[pcms]
 ;//＠母様＝かあさま
 
 *494|
 [fc]
-Yes, in front of this shrine, my mother and I played with fireworks and ran[r]
-around the sacred tree playing tag.[pcms]
+Yes, in front of this shrine, my mother and I played with[r]
+fireworks and ran around the sacred tree playing tag.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -214,8 +223,9 @@ around the sacred tree playing tag.[pcms]
 [fc]
 [vo_mar s="maru0523"]
 [ns]Margarita[nse]
-"I was also taken to a summer festival. There, my mother won a marble for me. It[r]
-was very blue and clear, a very precious thing."[pcms]
+"I was also taken to a summer festival. There, my mother won[r]
+a marble for me. It was very blue and clear, a very precious[r]
+thing."[pcms]
 ;//＠母様＝かあさま
 
 [ChrSetEx layer=5 chbase="sesuka_d9"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
@@ -232,8 +242,9 @@ was very blue and clear, a very precious thing."[pcms]
 [fc]
 [vo_mar s="maru0524"]
 [ns]Margarita[nse]
-"Yes, that marble. I was so happy that I carried it everywhere with me. There[r]
-was only one time when I lost it, and I searched desperately while crying."[pcms]
+"Yes, that marble. I was so happy that I carried it[r]
+everywhere with me. There was only one time when I lost it,[r]
+and I searched desperately while crying."[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
@@ -249,8 +260,8 @@ was only one time when I lost it, and I searched desperately while crying."[pcms
 [fc]
 [vo_mar s="maru0525"]
 [ns]Margarita[nse]
-"Ah, it was found. No, someone found it for me. Right here at this spot. A boy I[r]
-didn't know offered it to me."[pcms]
+"Ah, it was found. No, someone found it for me. Right here[r]
+at this spot. A boy I didn't know offered it to me."[pcms]
 
 *500|
 [fc]
@@ -258,8 +269,8 @@ I was so happy.[pcms]
 
 *501|
 [fc]
-He ran off before I could even thank him. Maybe he was just shy, but at that[r]
-time, I didn't understand such things.[pcms]
+He ran off before I could even thank him. Maybe he was just[r]
+shy, but at that time, I didn't understand such things.[pcms]
 
 *502|
 [fc]
@@ -315,8 +326,9 @@ My sudden cold voice surprised Sesuka.[pcms]
 [fc]
 [vo_mar s="maru0527"]
 [ns]Margarita[nse]
-"It was buried with my mother's coffin when she was lost in the blast of the[r]
-civil war and her body was never found... as a substitute for her."[pcms]
+"It was buried with my mother's coffin when she was lost in[r]
+the blast of the civil war and her body was never found...[r]
+as a substitute for her."[pcms]
 
 ;//＠母様＝かあさま
 
@@ -324,8 +336,8 @@ civil war and her body was never found... as a substitute for her."[pcms]
 
 *512|
 [fc]
-Leaving behind Sesuka who seemed to regret asking something she shouldn't have,[r]
-I left the shrine alone.[pcms]
+Leaving behind Sesuka who seemed to regret asking something[r]
+she shouldn't have, I left the shrine alone.[pcms]
 
 ;//〆ブラックアウト
 ;[fadeoutbgm time=500]

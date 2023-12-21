@@ -8,7 +8,8 @@
 
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]緒織とセックスした[endlink]
-; (link target=*scene_selend)Not having sex with Inori(endlink)[pcms]
+; (link target=*scene_selend)Not having sex with[r]
+Inori(endlink)[pcms]
 
 
 ;回想選択肢フラグオン

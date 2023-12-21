@@ -13,7 +13,8 @@ That's right![pcms]
 
 *319|
 [fc]
-I remember there was an unused escalator in the office behind the counter.[pcms]
+I remember there was an unused escalator in the office[r]
+behind the counter.[pcms]
 
 *320|
 [fc]
@@ -28,20 +29,23 @@ I run towards the office at full speed.[pcms]
 
 *321|
 [fc]
-If I can use that escalator, not only could I escape, but I might also be able[r]
-to save someone who's been taken.[pcms]
+If I can use that escalator, not only could I escape, but I[r]
+might also be able to save someone who's been taken.[pcms]
 
 *322|
 [fc]
-The men probably don't know about the existence of that sealed-off escalator.[pcms]
+The men probably don't know about the existence of that[r]
+sealed-off escalator.[pcms]
 
 *323|
 [fc]
-If things go well, I might be able to take them by surprise...[pcms]
+If things go well, I might be able to take them by[r]
+surprise...[pcms]
 
 *324|
 [fc]
-When I reach the office, I start searching for the entrance to the escalator.[pcms]
+When I reach the office, I start searching for the entrance[r]
+to the escalator.[pcms]
 
 *325|
 [fc]
@@ -67,8 +71,8 @@ And then...[pcms]
 
 *330|
 [fc]
-There was a spot where the sound of tapping on the wall was clearly different[r]
-from the others.[pcms]
+There was a spot where the sound of tapping on the wall was[r]
+clearly different from the others.[pcms]
 
 *331|
 [fc]
@@ -100,8 +104,8 @@ The gun that Tadahiko used...[pcms]
 
 *337|
 [fc]
-When I pull the trigger, a bullet is absorbed into the wall with a roaring[r]
-sound.[pcms]
+When I pull the trigger, a bullet is absorbed into the wall[r]
+with a roaring sound.[pcms]
 
 *338|
 [fc]
@@ -153,15 +157,16 @@ Maybe I can break it if I body-slam it.[pcms]
 
 *344|
 [fc]
-I step back from the wall and charge at it with momentum from my shoulder.[pcms]
+I step back from the wall and charge at it with momentum[r]
+from my shoulder.[pcms]
 
 ;//se009・打撃音
 [se buf=0 storage="se009"]
 
 *345|
 [fc]
-No good. It feels like it's about to break, but it's oddly flexible and absorbs[r]
-the impact.[pcms]
+No good. It feels like it's about to break, but it's oddly[r]
+flexible and absorbs the impact.[pcms]
 
 *346|
 [fc]
@@ -169,7 +174,8 @@ If I get more momentum...[pcms]
 
 *347|
 [fc]
-I back up to just before the opposite wall and take a breath there.[pcms]
+I back up to just before the opposite wall and take a breath[r]
+there.[pcms]
 
 *348|
 [fc]
@@ -188,7 +194,8 @@ But my plan is interrupted by a single gunshot.[pcms]
 
 *351|
 [fc]
-At the entrance of the office, several men stand smirking with their guns aimed.[pcms]
+At the entrance of the office, several men stand smirking[r]
+with their guns aimed.[pcms]
 
 *352|
 [fc]
@@ -196,8 +203,8 @@ If only I had a little more time...[pcms]
 
 *353|
 [fc]
-As I look at the men drawn by the gunfire at the wall, I apologize to everyone[r]
-in my heart.[pcms]
+As I look at the men drawn by the gunfire at the wall, I[r]
+apologize to everyone in my heart.[pcms]
 
 ;//状況的に暗転が必要か
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

@@ -36,7 +36,8 @@
 
 *587|
 [fc]
-The sound of banging on the shutter, their voices... Ren clings to me in fear.[pcms]
+The sound of banging on the shutter, their voices... Ren[r]
+clings to me in fear.[pcms]
 
 *588|
 [fc]
@@ -49,8 +50,8 @@ The sound of banging on the shutter, their voices... Ren clings to me in fear.[p
 [fc]
 [vo_mar s="maru1330"]
 [ns]Margarita[nse]
-"However, in this situation, our nerves might give out first. Let's go[r]
-upstairs."[pcms]
+"However, in this situation, our nerves might give out[r]
+first. Let's go upstairs."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -78,13 +79,14 @@ We went up the stairs.[pcms]
 
 *591|
 [fc]
-After climbing the narrow staircase, we passed the 2nd floor shop, the 3rd floor[r]
-office, and finally reached a room on the 4th floor.[pcms]
+After climbing the narrow staircase, we passed the 2nd floor[r]
+shop, the 3rd floor office, and finally reached a room on[r]
+the 4th floor.[pcms]
 
 *592|
 [fc]
-As expected, once we climbed up here, the noise from the ground was[r]
-significantly muffled.[pcms]
+As expected, once we climbed up here, the noise from the[r]
+ground was significantly muffled.[pcms]
 
 *593|
 [fc]
@@ -107,12 +109,13 @@ We looked around with a sigh of relief.[pcms]
 
 *596|
 [fc]
-While taking off our boots and stepping inside, we looked around the room.[pcms]
+While taking off our boots and stepping inside, we looked[r]
+around the room.[pcms]
 
 *597|
 [fc]
-There was a bed, and comics and magazines were scattered about haphazardly. It[r]
-seems this place is like a nap room.[pcms]
+There was a bed, and comics and magazines were scattered[r]
+about haphazardly. It seems this place is like a nap room.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -128,8 +131,8 @@ seems this place is like a nap room.[pcms]
 [fc]
 [vo_yuh s="yuho1470"]
 [ns]Yuuho[nse]
-"When it's time to sleep, we can split into boys' and girls' rooms. Shall we[r]
-draw lots later?"[pcms]
+"When it's time to sleep, we can split into boys' and girls'[r]
+rooms. Shall we draw lots later?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -142,13 +145,13 @@ draw lots later?"[pcms]
 
 *601|
 [fc]
-The items we borrowed from the drugstore were placed in the hallway for the time[r]
-being.[pcms]
+The items we borrowed from the drugstore were placed in the[r]
+hallway for the time being.[pcms]
 
 *602|
 [fc]
-After taking off our raincoats and sitting down, we finally felt at ease and let[r]
-out a sigh.[pcms]
+After taking off our raincoats and sitting down, we finally[r]
+felt at ease and let out a sigh.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -159,12 +162,13 @@ out a sigh.[pcms]
 
 *604|
 [fc]
-The sharp-eyed Kousuke found the TV remote and quickly turned on the power.[pcms]
+The sharp-eyed Kousuke found the TV remote and quickly[r]
+turned on the power.[pcms]
 
 *605|
 [fc]
-But all the commercial channels were showing color bars, and NHK only displayed[r]
-the message "Please wait for a while."[pcms]
+But all the commercial channels were showing color bars, and[r]
+NHK only displayed the message "Please wait for a while."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -183,13 +187,14 @@ Kousuke curses as he throws the remote away.[pcms]
 [fc]
 [vo_yuh s="yuho1471"]
 [ns]Yuuho[nse]
-"That... could it be...? A situation where even broadcasting isn't possible...?"[pcms]
+"That... could it be...? A situation where even broadcasting[r]
+isn't possible...?"[pcms]
 
 *609|
 [fc]
 [ns]Wataru[nse]
-"But since the screen isn't just static, it seems like the station is still[r]
-transmitting signals."[pcms]
+"But since the screen isn't just static, it seems like the[r]
+station is still transmitting signals."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -197,8 +202,8 @@ transmitting signals."[pcms]
 [fc]
 [vo_mar s="maru1332"]
 [ns]Margarita[nse]
-"If that's the case, we might get some news eventually. Regular broadcasts might[r]
-be impossible though..."[pcms]
+"If that's the case, we might get some news eventually.[r]
+Regular broadcasts might be impossible though..."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -209,12 +214,13 @@ be impossible though..."[pcms]
 
 *612|
 [fc]
-I left Kousuke to fiddle with the remote and took out my cell phone from my[r]
-pocket.[pcms]
+I left Kousuke to fiddle with the remote and took out my[r]
+cell phone from my pocket.[pcms]
 
 *613|
 [fc]
-I opened the mail screen on my phone while Ren watched intently...[pcms]
+I opened the mail screen on my phone while Ren watched[r]
+intently...[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -253,8 +259,8 @@ I patted her head gently as if to comfort her...[pcms]
 
 *620|
 [fc]
-I suddenly remembered. I'm sure that in this closet... the ceiling panel in the[r]
-left corner can be removed...[pcms]
+I suddenly remembered. I'm sure that in this closet... the[r]
+ceiling panel in the left corner can be removed...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -266,13 +272,14 @@ left corner can be removed...[pcms]
 
 *622|
 [fc]
-As I climbed up to the top shelf of the closet and rummaged around, my senior[r]
-looked up from below.[pcms]
+As I climbed up to the top shelf of the closet and rummaged[r]
+around, my senior looked up from below.[pcms]
 
 *623|
 [fc]
 [ns]Wataru[nse]
-"Ah... I heard from Hiko-chin. There's supposed to be something 'useful' here."[pcms]
+"Ah... I heard from Hiko-chin. There's supposed to be[r]
+something 'useful' here."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -286,8 +293,8 @@ I set it aside and peered into the ceiling space.[pcms]
 
 *626|
 [fc]
-It was dim and hard to see, but I could tell there were two cardboard boxes[r]
-placed nearby.[pcms]
+It was dim and hard to see, but I could tell there were two[r]
+cardboard boxes placed nearby.[pcms]
 
 *627|
 [fc]
@@ -321,8 +328,8 @@ Swords and daggers were carelessly tossed aside.[pcms]
 
 *633|
 [fc]
-My senior snatched a Japanese sword from me as if grabbing it away and[r]
-unsheathed it, holding it up in front of her.[pcms]
+My senior snatched a Japanese sword from me as if grabbing[r]
+it away and unsheathed it, holding it up in front of her.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -338,21 +345,22 @@ unsheathed it, holding it up in front of her.[pcms]
 [fc]
 [vo_mar s="maru1336"]
 [ns]Margarita[nse]
-"What a clear and brilliant shine... The splendid curve of the blade... And the[r]
-pattern of the waves on the edge is also quite something..."[pcms]
+"What a clear and brilliant shine... The splendid curve of[r]
+the blade... And the pattern of the waves on the edge is[r]
+also quite something..."[pcms]
 
 *636|
 [fc]
-With her eyes wider than usual, my senior peered closely at the blade, muttering[r]
-to herself as she examined it.[pcms]
+With her eyes wider than usual, my senior peered closely at[r]
+the blade, muttering to herself as she examined it.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *637|
 [fc]
 [ns]Kousuke[nse]
-"Maruko-san, if you keep staring like that, your soul might get sucked in, you[r]
-know?"[pcms]
+"Maruko-san, if you keep staring like that, your soul might[r]
+get sucked in, you know?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -365,11 +373,13 @@ know?"[pcms]
 *639|
 [fc]
 [ns]Wataru[nse]
-"More importantly, Kousuke, I'm going to lower the boxes, so catch them for me."[pcms]
+"More importantly, Kousuke, I'm going to lower the boxes, so[r]
+catch them for me."[pcms]
 
 *640|
 [fc]
-I dragged the cardboard box towards me and lowered it from the edge of the hole.[pcms]
+I dragged the cardboard box towards me and lowered it from[r]
+the edge of the hole.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -396,8 +406,8 @@ I casually opened the lid that wasn't even sealed with tape.[pcms]
 
 *645|
 [fc]
-Inside were three handguns, a box that seemed to contain bullets, and...[r]
-unbelievably, two grenades!?[pcms]
+Inside were three handguns, a box that seemed to contain[r]
+bullets, and... unbelievably, two grenades!?[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -412,12 +422,13 @@ unbelievably, two grenades!?[pcms]
 [fc]
 [vo_mar s="maru1337"]
 [ns]Margarita[nse]
-"It's not a magnum, it's a Beretta. It's easy to handle and a good gun."[pcms]
+"It's not a magnum, it's a Beretta. It's easy to handle and[r]
+a good gun."[pcms]
 
 *648|
 [fc]
-My senior, who had recovered from the magical allure of the Japanese sword,[r]
-promptly added her explanation.[pcms]
+My senior, who had recovered from the magical allure of the[r]
+Japanese sword, promptly added her explanation.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -425,8 +436,9 @@ promptly added her explanation.[pcms]
 [fc]
 [vo_mar s="maru1338"]
 [ns]Margarita[nse]
-"The slightly smaller one there is a Glock. It has high accuracy and a light[r]
-trigger pull. Both are practical choices."[pcms]
+"The slightly smaller one there is a Glock. It has high[r]
+accuracy and a light trigger pull. Both are practical[r]
+choices."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -434,8 +446,8 @@ trigger pull. Both are practical choices."[pcms]
 [fc]
 [vo_mar s="maru1339"]
 [ns]Margarita[nse]
-"If everyone's going to carry one... well, considering the weight, the Glock[r]
-would be better."[pcms]
+"If everyone's going to carry one... well, considering the[r]
+weight, the Glock would be better."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -457,8 +469,8 @@ would be better."[pcms]
 *653|
 [fc]
 [ns]Kousuke[nse]
-"That little difference is a big deal for guys! You girls probably prefer the[r]
-bigger one too, right?"[pcms]
+"That little difference is a big deal for guys! You girls[r]
+probably prefer the bigger one too, right?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -468,8 +480,9 @@ bigger one too, right?"[pcms]
 
 *655|
 [fc]
-Ignoring Kousuke who was unnecessarily excited by the guns, I was concerned[r]
-about the Japanese sword Maruko-senpai was holding.[pcms]
+Ignoring Kousuke who was unnecessarily excited by the guns,[r]
+I was concerned about the Japanese sword Maruko-senpai was[r]
+holding.[pcms]
 
 *656|
 [fc]
@@ -478,13 +491,14 @@ about the Japanese sword Maruko-senpai was holding.[pcms]
 
 *657|
 [fc]
-I had received a gun from Hiko-chin but still didn't have the confidence to[r]
-handle it.[pcms]
+I had received a gun from Hiko-chin but still didn't have[r]
+the confidence to handle it.[pcms]
 
 *658|
 [fc]
-If senpai was going to use a Japanese sword, maybe I should choose a dagger or[r]
-something as my weapon. That's what I briefly considered.[pcms]
+If senpai was going to use a Japanese sword, maybe I should[r]
+choose a dagger or something as my weapon. That's what I[r]
+briefly considered.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a22"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -496,8 +510,8 @@ something as my weapon. That's what I briefly considered.[pcms]
 
 *660|
 [fc]
-While making excuses in a somewhat regretful tone, Maruko-senpai slowly sheathed[r]
-the sword back into its scabbard.[pcms]
+While making excuses in a somewhat regretful tone, Maruko-[r]
+senpai slowly sheathed the sword back into its scabbard.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -505,7 +519,8 @@ the sword back into its scabbard.[pcms]
 [fc]
 [vo_ren s="ren1325"]
 [ns]Ren[nse]
-"But... If you have the skill and spirit, you won't chip the blade..."[pcms]
+"But... If you have the skill and spirit, you won't chip the[r]
+blade..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -533,8 +548,8 @@ Ren blushed happily at being praised.[pcms]
 [fc]
 [vo_mar s="maru1342"]
 [ns]Margarita[nse]
-"Indeed, that is said... But I don't have such skill. I can only handle swords[r]
-and blades."[pcms]
+"Indeed, that is said... But I don't have such skill. I can[r]
+only handle swords and blades."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -542,13 +557,13 @@ and blades."[pcms]
 [fc]
 [vo_mar s="maru1343"]
 [ns]Margarita[nse]
-"Besides, considering the possibility of bloodborne infections, fighting with[r]
-blades is too risky."[pcms]
+"Besides, considering the possibility of bloodborne[r]
+infections, fighting with blades is too risky."[pcms]
 
 *667|
 [fc]
-So that's it... Then I shouldn't use a dagger either. I put back the blade I was[r]
-about to pick up into the box.[pcms]
+So that's it... Then I shouldn't use a dagger either. I put[r]
+back the blade I was about to pick up into the box.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -556,15 +571,16 @@ about to pick up into the box.[pcms]
 [fc]
 [vo_mar s="maru1344"]
 [ns]Margarita[nse]
-"The enemy might rampage no matter how much they're cut, but for us, even a[r]
-single drop of blood could be fatal."[pcms]
+"The enemy might rampage no matter how much they're cut, but[r]
+for us, even a single drop of blood could be fatal."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *669|
 [fc]
 [ns]Kousuke[nse]
-"Right. Blood splatter is bad news. It looks cool in black mamba movies though."[pcms]
+"Right. Blood splatter is bad news. It looks cool in black[r]
+mamba movies though."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -572,8 +588,8 @@ single drop of blood could be fatal."[pcms]
 [fc]
 [vo_mar s="maru1345"]
 [ns]Margarita[nse]
-"That's fiction. In reality, you wouldn't bleed that much... Still, let's avoid[r]
-using blades."[pcms]
+"That's fiction. In reality, you wouldn't bleed that much...[r]
+Still, let's avoid using blades."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -599,7 +615,8 @@ Yuuho and Ren listened solemnly to senpai's words.[pcms]
 
 *674|
 [fc]
-Well, I can't really imagine these two swinging blades around anyway...[pcms]
+Well, I can't really imagine these two swinging blades[r]
+around anyway...[pcms]
 
 ;//★もし二人が顔を見合わせるのであれば、
 [ns]Ren & Yuuho[nse]
@@ -609,7 +626,8 @@ Well, I can't really imagine these two swinging blades around anyway...[pcms]
 *675|
 [fc]
 [ns]Wataru[nse]
-"But if that's the case, doesn't that mean we can't use guns either...?"[pcms]
+"But if that's the case, doesn't that mean we can't use guns[r]
+either...?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -617,8 +635,8 @@ Well, I can't really imagine these two swinging blades around anyway...[pcms]
 [fc]
 [vo_mar s="maru1346"]
 [ns]Margarita[nse]
-"They're our last resort. Aim for the head or heart in one shot to avoid[r]
-unnecessary bleeding."[pcms]
+"They're our last resort. Aim for the head or heart in one[r]
+shot to avoid unnecessary bleeding."[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -629,7 +647,8 @@ unnecessary bleeding."[pcms]
 
 *678|
 [fc]
-Kousuke replied energetically and took out a gun from the box to pose with it.[pcms]
+Kousuke replied energetically and took out a gun from the[r]
+box to pose with it.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -637,7 +656,8 @@ Kousuke replied energetically and took out a gun from the box to pose with it.[p
 [fc]
 [vo_mar s="maru1347"]
 [ns]Margarita[nse]
-"But... Kousuke. You've never handled a gun before, have you?"[pcms]
+"But... Kousuke. You've never handled a gun before, have[r]
+you?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -650,8 +670,8 @@ Kousuke replied energetically and took out a gun from the box to pose with it.[p
 
 *681|
 [fc]
-She smirked through her nose as if to say she was confident in her own[r]
-abilities.[pcms]
+She smirked through her nose as if to say she was confident[r]
+in her own abilities.[pcms]
 
 *682|
 [fc]
@@ -663,7 +683,8 @@ Then Ren raised her hand again.[pcms]
 [fc]
 [vo_ren s="ren1328"]
 [ns]Ren[nse]
-"Um... If you press the muzzle against them and shoot, you won't miss."[pcms]
+"Um... If you press the muzzle against them and shoot, you[r]
+won't miss."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -687,12 +708,14 @@ Then Ren raised her hand again.[pcms]
 [fc]
 [vo_mar s="maru1350"]
 [ns]Margarita[nse]
-"Zero distance, huh? Indeed, you can't miss at that range. As long as we're[r]
-careful about the blood splatter, it should work."[pcms]
+"Zero distance, huh? Indeed, you can't miss at that range.[r]
+As long as we're careful about the blood splatter, it should[r]
+work."[pcms]
 
 *687|
 [fc]
-The senior thought for a moment and then smiled warmly at Ren.[pcms]
+The senior thought for a moment and then smiled warmly at[r]
+Ren.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -708,8 +731,8 @@ The senior thought for a moment and then smiled warmly at Ren.[pcms]
 [fc]
 [vo_mar s="maru1352"]
 [ns]Margarita[nse]
-"The manga that Ren reads, is it special...? I've looked through some myself,[r]
-but I haven't come across that kind."[pcms]
+"The manga that Ren reads, is it special...? I've looked[r]
+through some myself, but I haven't come across that kind."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a20"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -717,7 +740,8 @@ but I haven't come across that kind."[pcms]
 [fc]
 [vo_ren s="ren1330"]
 [ns]Ren[nse]
-"...Maybe a little special. My brother also says I have weird tastes."[pcms]
+"...Maybe a little special. My brother also says I have[r]
+weird tastes."[pcms]
 
 *691|
 [fc]
@@ -727,13 +751,14 @@ Ren blushed faintly when she was put on the spot.[pcms]
 
 *692|
 [fc]
-Indeed, Ren's tastes are a bit strange. She prefers to read shounen and seinen[r]
-manga that feature violence and hard action.[pcms]
+Indeed, Ren's tastes are a bit strange. She prefers to read[r]
+shounen and seinen manga that feature violence and hard[r]
+action.[pcms]
 
 *693|
 [fc]
-She says she's fine with cruel scenes and erotic grotesque content in manga and[r]
-anime for some reason.[pcms]
+She says she's fine with cruel scenes and erotic grotesque[r]
+content in manga and anime for some reason.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -741,8 +766,8 @@ anime for some reason.[pcms]
 [fc]
 [vo_mar s="maru1353"]
 [ns]Margarita[nse]
-"It's not strange. They're good manga. They seem useful. I'd like to read them[r]
-sometime."[pcms]
+"It's not strange. They're good manga. They seem useful. I'd[r]
+like to read them sometime."[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -754,16 +779,18 @@ sometime."[pcms]
 
 *696|
 [fc]
-Ren smiled happily, and seeing her satisfied smile, I finally realized.[pcms]
+Ren smiled happily, and seeing her satisfied smile, I[r]
+finally realized.[pcms]
 
 *697|
 [fc]
-So that's it... Ren wanted to be helpful in her own way, and that's why she[r]
-talked about manga...[pcms]
+So that's it... Ren wanted to be helpful in her own way, and[r]
+that's why she talked about manga...[pcms]
 
 *698|
 [fc]
-I thanked Maruko-senpai in my heart for understanding Ren's feelings.[pcms]
+I thanked Maruko-senpai in my heart for understanding Ren's[r]
+feelings.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -771,7 +798,8 @@ I thanked Maruko-senpai in my heart for understanding Ren's feelings.[pcms]
 [fc]
 [vo_mar s="maru1354"]
 [ns]Margarita[nse]
-"Then, let's load the bullets. Wataru, bring your gun here too."[pcms]
+"Then, let's load the bullets. Wataru, bring your gun here[r]
+too."[pcms]
 
 *700|
 [fc]
@@ -780,7 +808,8 @@ I thanked Maruko-senpai in my heart for understanding Ren's feelings.[pcms]
 
 *701|
 [fc]
-He took the gun that was hooked onto his pants and looked it over again.[pcms]
+He took the gun that was hooked onto his pants and looked it[r]
+over again.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -788,8 +817,8 @@ He took the gun that was hooked onto his pants and looked it over again.[pcms]
 [fc]
 [vo_mar s="maru1355"]
 [ns]Margarita[nse]
-"...Bob Chau Special. A custom Government model by the master craftsman Bob[r]
-Chau..."[pcms]
+"...Bob Chau Special. A custom Government model by the[r]
+master craftsman Bob Chau..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -797,12 +826,14 @@ Chau..."[pcms]
 [fc]
 [vo_mar s="maru1356"]
 [ns]Margarita[nse]
-"It doesn't have a rail for a laser, nor does it have a sight. It's a very[r]
-practical gun with all unnecessary parts stripped away."[pcms]
+"It doesn't have a rail for a laser, nor does it have a[r]
+sight. It's a very practical gun with all unnecessary parts[r]
+stripped away."[pcms]
 
 *704|
 [fc]
-As she gazed at the gun in my hand, the senior murmured with deep emotion.[pcms]
+As she gazed at the gun in my hand, the senior murmured with[r]
+deep emotion.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -810,8 +841,8 @@ As she gazed at the gun in my hand, the senior murmured with deep emotion.[pcms]
 [fc]
 [vo_mar s="maru1357"]
 [ns]Margarita[nse]
-"Ah, speaking of stripping away, you see how the edges are rounded? I hear it's[r]
-very suitable for carrying around."[pcms]
+"Ah, speaking of stripping away, you see how the edges are[r]
+rounded? I hear it's very suitable for carrying around."[pcms]
 
 *706|
 [fc]
@@ -820,9 +851,9 @@ very suitable for carrying around."[pcms]
 
 *707|
 [fc]
-Indeed, it seems good for carrying around. It fits seamlessly into the gaps in[r]
-my clothes, so much so that I forgot I was carrying a gun until the senior[r]
-mentioned it.[pcms]
+Indeed, it seems good for carrying around. It fits[r]
+seamlessly into the gaps in my clothes, so much so that I[r]
+forgot I was carrying a gun until the senior mentioned it.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -843,27 +874,29 @@ mentioned it.[pcms]
 [fc]
 [vo_mar s="maru1358"]
 [ns]Margarita[nse]
-"However, there should only be two of those guns in the world. Why does he have[r]
-one...?"[pcms]
+"However, there should only be two of those guns in the[r]
+world. Why does he have one...?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *711|
 [fc]
 [ns]Kousuke[nse]
-"Well, it's probably a replica anyway. Hiko-chin would say it's okay as long as[r]
-it works, even if it's a fake."[pcms]
+"Well, it's probably a replica anyway. Hiko-chin would say[r]
+it's okay as long as it works, even if it's a fake."[pcms]
 
 *712|
 [fc]
-Kousuke smiled broadly as he aimed the gun in his hand at me.[pcms]
+Kousuke smiled broadly as he aimed the gun in his hand at[r]
+me.[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *713|
 [fc]
 [ns]Kousuke[nse]
-"So with that said, I'm gonna use this one! Aim for the head in one shot!"[pcms]
+"So with that said, I'm gonna use this one! Aim for the head[r]
+in one shot!"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -883,7 +916,8 @@ With a sharp slap, the senior struck Kousuke's hand.[pcms]
 [fc]
 [vo_mar s="maru1360"]
 [ns]Margarita[nse]
-"Even if the magazine is empty, don't point the muzzle this way!"[pcms]
+"Even if the magazine is empty, don't point the muzzle this[r]
+way!"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -894,7 +928,8 @@ With a sharp slap, the senior struck Kousuke's hand.[pcms]
 
 *718|
 [fc]
-The senior looked annoyed as she took the gun away from a crestfallen Kousuke.[pcms]
+The senior looked annoyed as she took the gun away from a[r]
+crestfallen Kousuke.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -902,13 +937,14 @@ The senior looked annoyed as she took the gun away from a crestfallen Kousuke.[p
 [fc]
 [vo_mar s="maru1361"]
 [ns]Margarita[nse]
-"As I thought, you guys are not ready yet. Don't load any bullets until after[r]
-we've finished a proper lecture."[pcms]
+"As I thought, you guys are not ready yet. Don't load any[r]
+bullets until after we've finished a proper lecture."[pcms]
 
 *720|
 [fc]
-The senior took our guns in each hand and with practiced movements removed the[r]
-magazines and cleared the chambers of any bullets.[pcms]
+The senior took our guns in each hand and with practiced[r]
+movements removed the magazines and cleared the chambers of[r]
+any bullets.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -928,14 +964,16 @@ magazines and cleared the chambers of any bullets.[pcms]
 
 *723|
 [fc]
-Kousuke was visibly dissatisfied with the gun he was handed back.[pcms]
+Kousuke was visibly dissatisfied with the gun he was handed[r]
+back.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *724|
 [fc]
 [ns]Kousuke[nse]
-"Hey, a gun without bullets isn't a weapon. It feels insecure, you know?"[pcms]
+"Hey, a gun without bullets isn't a weapon. It feels[r]
+insecure, you know?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -949,8 +987,9 @@ Kousuke was visibly dissatisfied with the gun he was handed back.[pcms]
 
 *726|
 [fc]
-But still... The knowledge about guns she showed earlier and the way she handles[r]
-them... The senior seems to be quite knowledgeable about firearms.[pcms]
+But still... The knowledge about guns she showed earlier and[r]
+the way she handles them... The senior seems to be quite[r]
+knowledgeable about firearms.[pcms]
 
 *727|
 [fc]
@@ -963,13 +1002,13 @@ them... The senior seems to be quite knowledgeable about firearms.[pcms]
 [fc]
 [vo_mar s="maru1363"]
 [ns]Margarita[nse]
-"...There were constant civil wars in my country. It was necessary knowledge to[r]
-protect oneself."[pcms]
+"...There were constant civil wars in my country. It was[r]
+necessary knowledge to protect oneself."[pcms]
 
 *729|
 [fc]
-We listened intently to her story with great interest, and the senior gave us a[r]
-wry smile.[pcms]
+We listened intently to her story with great interest, and[r]
+the senior gave us a wry smile.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -977,22 +1016,24 @@ wry smile.[pcms]
 [fc]
 [vo_mar s="maru1364"]
 [ns]Margarita[nse]
-"I also learned quite a bit about Japanese martial arts. Naginata from my[r]
-mother, karate and jujutsu from soldiers..."[pcms]
+"I also learned quite a bit about Japanese martial arts.[r]
+Naginata from my mother, karate and jujutsu from[r]
+soldiers..."[pcms]
 
 *731|
 [fc]
-The senior's homeland had been plagued by civil wars, and the people around her[r]
-were mostly soldiers or guerrillas.[pcms]
+The senior's homeland had been plagued by civil wars, and[r]
+the people around her were mostly soldiers or guerrillas.[pcms]
 
 *732|
 [fc]
-It wasn't something she learned casually like our hobbies or club activities...[pcms]
+It wasn't something she learned casually like our hobbies or[r]
+club activities...[pcms]
 
 *733|
 [fc]
-It was knowledge and skills she had desperately acquired to survive and keep[r]
-living...[pcms]
+It was knowledge and skills she had desperately acquired to[r]
+survive and keep living...[pcms]
 
 *734|
 [fc]
@@ -1001,7 +1042,8 @@ living...[pcms]
 
 *735|
 [fc]
-Trying to liven up the slightly somber atmosphere, I stand up.[pcms]
+Trying to liven up the slightly somber atmosphere, I stand[r]
+up.[pcms]
 
 *736|
 [fc]
@@ -1010,7 +1052,8 @@ Trying to liven up the slightly somber atmosphere, I stand up.[pcms]
 
 *737|
 [fc]
-I stick my face back into the attic and bring down the second cardboard box.[pcms]
+I stick my face back into the attic and bring down the[r]
+second cardboard box.[pcms]
 
 *738|
 [fc]
@@ -1023,12 +1066,13 @@ I stick my face back into the attic and bring down the second cardboard box.[pcm
 [fc]
 [vo_yuh s="yuho1477"]
 [ns]Yuuho[nse]
-"Tadahiko said it would be something useful, right? I wonder what it could be~[r]
-I'm excited~"[pcms]
+"Tadahiko said it would be something useful, right? I wonder[r]
+what it could be~ I'm excited~"[pcms]
 
 *740|
 [fc]
-Without delay, Yuuho opens the lid and spreads it wide open. And...[pcms]
+Without delay, Yuuho opens the lid and spreads it wide open.[r]
+And...[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1039,18 +1083,21 @@ Without delay, Yuuho opens the lid and spreads it wide open. And...[pcms]
 
 *742|
 [fc]
-Inside the box, there were DVDs packed tightly in acrylic cases.[pcms]
+Inside the box, there were DVDs packed tightly in acrylic[r]
+cases.[pcms]
 
 *743|
 [fc]
-There were also things that looked like color-printed jackets inside.[pcms]
+There were also things that looked like color-printed[r]
+jackets inside.[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *744|
 [fc]
 [ns]Kousuke[nse]
-"Something to watch when we're bored? Maybe movies or anime?"[pcms]
+"Something to watch when we're bored? Maybe movies or[r]
+anime?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1065,7 +1112,8 @@ There were also things that looked like color-printed jackets inside.[pcms]
 
 *746|
 [fc]
-The DVDs weren't printed but had words scrawled on them with a marker.[pcms]
+The DVDs weren't printed but had words scrawled on them with[r]
+a marker.[pcms]
 
 *747|
 [fc]
@@ -1081,14 +1129,14 @@ The DVDs weren't printed but had words scrawled on them with a marker.[pcms]
 [fc]
 [vo_mar s="maru1365"]
 [ns]Margarita[nse]
-"...It refers to acts involving multiple people. 'Master' probably means the[r]
-original in this context..."[pcms]
+"...It refers to acts involving multiple people. 'Master'[r]
+probably means the original in this context..."[pcms]
 ;//＠赤面して、ぼそぼそと
 
 *749|
 [fc]
-For some reason, Maruko-senpai's face turned red as she muttered the meanings of[r]
-the words under her breath.[pcms]
+For some reason, Maruko-senpai's face turned red as she[r]
+muttered the meanings of the words under her breath.[pcms]
 
 *750|
 [fc]
@@ -1117,7 +1165,8 @@ As the word sank in, we all froze.[pcms]
 *754|
 [fc]
 [ns]Kousuke[nse]
-"Isn't this kind of bad!? So, what about this one...? Blow Job...?"[pcms]
+"Isn't this kind of bad!? So, what about this one...? Blow[r]
+Job...?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1125,7 +1174,8 @@ As the word sank in, we all froze.[pcms]
 [fc]
 [vo_mar s="maru1367"]
 [ns]Margarita[nse]
-"...It means to caress a man's genitals with one's lips. Commonly known as..."[pcms]
+"...It means to caress a man's genitals with one's lips.[r]
+Commonly known as..."[pcms]
 ;//＠赤面して、ぼそぼそと
 
 *756|
@@ -1158,8 +1208,8 @@ Yuuho snatches up the jacket as if grabbing it away.[pcms]
 [fc]
 [vo_yuh s="yuho1480"]
 [ns]Yuuho[nse]
-"Mo... Momoshiri Academy Swim Club... Bukkake... White... Haku...? Milky Pool[r]
-100 Barrage..."[pcms]
+"Mo... Momoshiri Academy Swim Club... Bukkake... White...[r]
+Haku...? Milky Pool 100 Barrage..."[pcms]
 ;//＠「桃尻学園水泳部・ぶっかけ白濁プール１００連発」
 ;//＠読み慣れない漢字なので、つっかえながら読む
 
@@ -1200,8 +1250,8 @@ Yuuho slammed the stack of papers against my chest.[pcms]
 *766|
 [fc]
 [ns]Wataru[nse]
-"Well, depending on the time and situation... It might be useful. Ah, look, like[r]
-for gang finances...?"[pcms]
+"Well, depending on the time and situation... It might be[r]
+useful. Ah, look, like for gang finances...?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a13"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1239,8 +1289,8 @@ for gang finances...?"[pcms]
 
 *772|
 [fc]
-Before I knew it, Ren had picked up a jacket from the floor and was holding back[r]
-tears in her eyes.[pcms]
+Before I knew it, Ren had picked up a jacket from the floor[r]
+and was holding back tears in her eyes.[pcms]
 
 *773|
 [fc]
@@ -1252,8 +1302,8 @@ tears in her eyes.[pcms]
 *774|
 [fc]
 [ns]Kousuke[nse]
-"Eh- what's this? Little Sister Burusera Special Edition 8-Hour Special.[r]
-Selection! 24 Lewd Little Sisters..."[pcms]
+"Eh- what's this? Little Sister Burusera Special Edition[r]
+8-Hour Special. Selection! 24 Lewd Little Sisters..."[pcms]
 
 *775|
 [fc]
@@ -1300,14 +1350,16 @@ Kousuke taps me on the shoulder with a pop.[pcms]
 [fc]
 [vo_mar s="maru1368"]
 [ns]Margarita[nse]
-"Fist... It means fist. In other words, a fist. It refers to the act of[r]
-inserting one's arm into the genitals while keeping the hand clenched..."[pcms]
+"Fist... It means fist. In other words, a fist. It refers to[r]
+the act of inserting one's arm into the genitals while[r]
+keeping the hand clenched..."[pcms]
 ;//＠まだ赤面しつつも、律儀にぼそぼそと解説
 
 *782|
 [fc]
 [ns]Wataru[nse]
-"Aaaaah, Maruko-senpai too! You don't have to explain every little thing!"[pcms]
+"Aaaaah, Maruko-senpai too! You don't have to explain every[r]
+little thing!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a13"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1337,22 +1389,25 @@ inserting one's arm into the genitals while keeping the hand clenched..."[pcms]
 
 *785|
 [fc]
-After some twists and turns, we finally settled down and took a seat.[pcms]
+After some twists and turns, we finally settled down and[r]
+took a seat.[pcms]
 
 *786|
 [fc]
-We each took sips of water and nibbled on light snacks, relaxing comfortably.[pcms]
+We each took sips of water and nibbled on light snacks,[r]
+relaxing comfortably.[pcms]
 
 *787|
 [fc]
-Unlike the basement, there's natural light coming in from outside, and we have[r]
-indoor lighting. Most of all, I'm grateful for the absence of that oppressive[r]
-feeling of being crushed...[pcms]
+Unlike the basement, there's natural light coming in from[r]
+outside, and we have indoor lighting. Most of all, I'm[r]
+grateful for the absence of that oppressive feeling of being[r]
+crushed...[pcms]
 
 *788|
 [fc]
-I feel like it's been a while since I've been able to spend time feeling[r]
-human...[pcms]
+I feel like it's been a while since I've been able to spend[r]
+time feeling human...[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1376,7 +1431,8 @@ Yuuho pointed towards the window.[pcms]
 
 *792|
 [fc]
-From the window, we could see the wall of the LASER building next to us.[pcms]
+From the window, we could see the wall of the LASER building[r]
+next to us.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1384,8 +1440,9 @@ From the window, we could see the wall of the LASER building next to us.[pcms]
 [fc]
 [vo_yuh s="yuho1489"]
 [ns]Yuuho[nse]
-"This hideout isn't bad, but the place over there is bigger, and it has more[r]
-stores. Maybe they have a better selection of food?"[pcms]
+"This hideout isn't bad, but the place over there is bigger,[r]
+and it has more stores. Maybe they have a better selection[r]
+of food?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -1403,7 +1460,8 @@ Kousuke was the first to agree.[pcms]
 *796|
 [fc]
 [ns]Kousuke[nse]
-"It's a familiar place for us, and maybe the masters are holed up there too!"[pcms]
+"It's a familiar place for us, and maybe the masters are[r]
+holed up there too!"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1411,7 +1469,8 @@ Kousuke was the first to agree.[pcms]
 [fc]
 [vo_ren s="ren1336"]
 [ns]Ren[nse]
-"...There's a manga cafe on the 5th floor, right? Unlimited manga reading...?"[pcms]
+"...There's a manga cafe on the 5th floor, right? Unlimited[r]
+manga reading...?"[pcms]
 ;//＠５階（かい）と読んでください
 
 *798|
@@ -1420,18 +1479,20 @@ Ren added in a whisper.[pcms]
 
 *799|
 [fc]
-I can't help but think it's an odd time for this... But to be honest, I also[r]
-want to go up to the rooftop.[pcms]
+I can't help but think it's an odd time for this... But to[r]
+be honest, I also want to go up to the rooftop.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *800|
 [fc]
-From there... it's closer to the sky than the four-story 'Dedepou'...[pcms]
+From there... it's closer to the sky than the four-story[r]
+'Dedepou'...[pcms]
 
 *801|
 [fc]
-If I look at Shibuya now from under the signboard, I wonder... how will I feel?[pcms]
+If I look at Shibuya now from under the signboard, I[r]
+wonder... how will I feel?[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1439,7 +1500,8 @@ If I look at Shibuya now from under the signboard, I wonder... how will I feel?[
 [fc]
 [vo_mar s="maru1369"]
 [ns]Margarita[nse]
-"However... This place is secure, and we have an escape route."[pcms]
+"However... This place is secure, and we have an escape[r]
+route."[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1447,14 +1509,14 @@ If I look at Shibuya now from under the signboard, I wonder... how will I feel?[
 [fc]
 [vo_mar s="maru1370"]
 [ns]Margarita[nse]
-"First of all, with the situation outside, even moving to the next building is[r]
-dangerous..."[pcms]
+"First of all, with the situation outside, even moving to[r]
+the next building is dangerous..."[pcms]
 
 *804|
 [fc]
-It's not unreasonable for the senior to be hesitant. We've just had a close call[r]
-escaping into this shop, and we're acutely aware of the dangers of moving[r]
-through the streets.[pcms]
+It's not unreasonable for the senior to be hesitant. We've[r]
+just had a close call escaping into this shop, and we're[r]
+acutely aware of the dangers of moving through the streets.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -1472,8 +1534,8 @@ While everyone sighed, I quietly opened the window.[pcms]
 
 *807|
 [fc]
-The sounds from the main street became slightly louder. Among them were also the[r]
-voices of the infected...[pcms]
+The sounds from the main street became slightly louder.[r]
+Among them were also the voices of the infected...[pcms]
 
 *808|
 [fc]
@@ -1485,28 +1547,29 @@ voices of the infected...[pcms]
 
 *809|
 [fc]
-Being careful not to be seen from the street, I cautiously peered down right[r]
-below the building.[pcms]
+Being careful not to be seen from the street, I cautiously[r]
+peered down right below the building.[pcms]
 
 *810|
 [fc]
-The gap between "LASER" and "Dedepou" is literally a 'valley' between buildings,[r]
-about two meters wide.[pcms]
+The gap between "LASER" and "Dedepou" is literally a[r]
+'valley' between buildings, about two meters wide.[pcms]
 
 *811|
 [fc]
-But in that gap, there's a wall with a back door that separates it from the main[r]
-street.[pcms]
+But in that gap, there's a wall with a back door that[r]
+separates it from the main street.[pcms]
 
 *812|
 [fc]
-To put it more clearly, all the buildings in this block are connected by this[r]
-separated 'valley'.[pcms]
+To put it more clearly, all the buildings in this block are[r]
+connected by this separated 'valley'.[pcms]
 
 *813|
 [fc]
-The wall isn't very tall but it's made of metal so it's sturdy, and there's no[r]
-worry of it being broken. In other words... the infected can't get in.[pcms]
+The wall isn't very tall but it's made of metal so it's[r]
+sturdy, and there's no worry of it being broken. In other[r]
+words... the infected can't get in.[pcms]
 
 [bg storage="BG600b"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
@@ -1518,7 +1581,8 @@ worry of it being broken. In other words... the infected can't get in.[pcms]
 
 *815|
 [fc]
-After confirming that the partitioned space was empty, I slowly began to speak.[pcms]
+After confirming that the partitioned space was empty, I[r]
+slowly began to speak.[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

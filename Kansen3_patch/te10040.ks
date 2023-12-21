@@ -24,14 +24,14 @@
 
 *92|
 [fc]
-We decided to head back inside to sleep soon. Despite no direct lighting, the[r]
-area around the signboard was quite bright, reflecting the surrounding neon[r]
-lights.[pcms]
+We decided to head back inside to sleep soon. Despite no[r]
+direct lighting, the area around the signboard was quite[r]
+bright, reflecting the surrounding neon lights.[pcms]
 
 *93|
 [fc]
-Just as we took a step to return together, suddenly the ground beneath us[r]
-darkened.[pcms]
+Just as we took a step to return together, suddenly the[r]
+ground beneath us darkened.[pcms]
 
 ;//Åö_çïâÊñ 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -43,9 +43,10 @@ darkened.[pcms]
 
 *95|
 [fc]
-Sudden darkness. In a panic, I turned around to find that the city lights, the[r]
-dazzling neon, everything had gone out. It wasn't just Shibuya. A vast darkness[r]
-spread far into the distance.[pcms]
+Sudden darkness. In a panic, I turned around to find that[r]
+the city lights, the dazzling neon, everything had gone out.[r]
+It wasn't just Shibuya. A vast darkness spread far into the[r]
+distance.[pcms]
 
 *96|
 [fc]
@@ -54,8 +55,9 @@ spread far into the distance.[pcms]
 
 *97|
 [fc]
-In the darkness, I strained my eyes. Could I see anything? Did I understand what[r]
-had happened? After a while, my eyes finally began to adjust to the dark.[pcms]
+In the darkness, I strained my eyes. Could I see anything?[r]
+Did I understand what had happened? After a while, my eyes[r]
+finally began to adjust to the dark.[pcms]
 
 *98|
 [fc]
@@ -73,15 +75,17 @@ had happened? After a while, my eyes finally began to adjust to the dark.[pcms]
 
 *100|
 [fc]
-The moon shone brilliantly. The countless stars, too numerous to count, sparkled[r]
-as brightly as the moonlight, with the Milky Way shining white in a band across[r]
-the sky. Tokyo had been hiding such a night sky.[pcms]
+The moon shone brilliantly. The countless stars, too[r]
+numerous to count, sparkled as brightly as the moonlight,[r]
+with the Milky Way shining white in a band across the sky.[r]
+Tokyo had been hiding such a night sky.[pcms]
 
 *101|
 [fc]
-It was the same beautiful starry sky I had seen in Akita, unchanged. The bright[r]
-star that had been faintly visible before had regained its original brilliance[r]
-and now shone brightly and clearly.[pcms]
+It was the same beautiful starry sky I had seen in Akita,[r]
+unchanged. The bright star that had been faintly visible[r]
+before had regained its original brilliance and now shone[r]
+brightly and clearly.[pcms]
 
 *102|
 [fc]

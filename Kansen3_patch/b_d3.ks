@@ -22,12 +22,13 @@ Should I go to Yuuho or to Ren?[pcms]
 
 *4528|
 [fc]
-First of all, it's not like I can pick up one on the way since they're at[r]
-opposite ends of the school.[pcms]
+First of all, it's not like I can pick up one on the way[r]
+since they're at opposite ends of the school.[pcms]
 
 *4529|
 [fc]
-Both are important to me, and I want to check on their safety right away.[pcms]
+Both are important to me, and I want to check on their[r]
+safety right away.[pcms]
 
 *4530|
 [fc]
@@ -35,8 +36,9 @@ I only have one body.[pcms]
 
 *4531|
 [fc]
-I was caught in a dilemma, completely forgetting my own situation. That's[r]
-right... I myself am in the midst of danger.[pcms]
+I was caught in a dilemma, completely forgetting my own[r]
+situation. That's right... I myself am in the midst of[r]
+danger.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_a"][ChrSetXY layer=5 x=178 y=0][trans_c cross time=150]
 
@@ -52,7 +54,8 @@ right... I myself am in the midst of danger.[pcms]
 
 *4534|
 [fc]
-Startled by the voice from behind, I blindly fled from the spot.[pcms]
+Startled by the voice from behind, I blindly fled from the[r]
+spot.[pcms]
 
 *4535|
 [fc]
@@ -83,8 +86,9 @@ These guys... could they be, geez, gay?[pcms]
 
 *4540|
 [fc]
-If that's the case... I'd rather be caught by female infectees, there would be[r]
-all sorts of nice things to feel...[pcms]
+If that's the case... I'd rather be caught by female[r]
+infectees, there would be all sorts of nice things to[r]
+feel...[pcms]
 
 *4541|
 [fc]
@@ -117,11 +121,13 @@ The moment I realized my thinking was completely wrong...[pcms]
 
 *4546|
 [fc]
-The faces of the men approaching me with their mouths wide open.[pcms]
+The faces of the men approaching me with their mouths wide[r]
+open.[pcms]
 
 *4547|
 [fc]
-The "eat" the men mentioned wasn't metaphorical, but literally...[pcms]
+The "eat" the men mentioned wasn't metaphorical, but[r]
+literally...[pcms]
 
 [赤フラ]
 
@@ -134,8 +140,9 @@ The "eat" the men mentioned wasn't metaphorical, but literally...[pcms]
 
 *4549|
 [fc]
-The intense pain of being bitten on the neck was the last thing I felt before my[r]
-consciousness was engulfed in darkness.[pcms]
+The intense pain of being bitten on the neck was the last[r]
+thing I felt before my consciousness was engulfed in[r]
+darkness.[pcms]
 
 ;//〆：ゲームオーバー画面へ
 ;//jump：ブロック●●●●●

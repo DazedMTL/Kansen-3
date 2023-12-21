@@ -18,8 +18,8 @@
 
 *4551|
 [fc]
-"That moment of hesitation was fatal. In that instant, I had completely[r]
-forgotten that I was in a dangerous area..."[pcms]
+"That moment of hesitation was fatal. In that instant, I had[r]
+completely forgotten that I was in a dangerous area..."[pcms]
 
 [ChrSetEx layer=5 chbase="etc_a"][ChrSetXY layer=5 x=178 y=0][trans_c cross time=150]
 
@@ -35,12 +35,13 @@ forgotten that I was in a dangerous area..."[pcms]
 
 *4554|
 [fc]
-I was startled by the men who appeared from the gym's emergency exit and blindly[r]
-ran away from the spot.[pcms]
+I was startled by the men who appeared from the gym's[r]
+emergency exit and blindly ran away from the spot.[pcms]
 
 *4555|
 [fc]
-But it was already too late. My body was easily picked up by one of the men.[pcms]
+But it was already too late. My body was easily picked up by[r]
+one of the men.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
@@ -67,12 +68,14 @@ Gay?[pcms]
 
 *4560|
 [fc]
-If that's the case... I would have preferred to be caught by a female infected,[r]
-there would be all sorts of nice things to feel...[pcms]
+If that's the case... I would have preferred to be caught by[r]
+a female infected, there would be all sorts of nice things[r]
+to feel...[pcms]
 
 *4561|
 [fc]
-It was at that moment I realized my thinking was completely wrong.[pcms]
+It was at that moment I realized my thinking was completely[r]
+wrong.[pcms]
 
 [ChrSetEx layer=5 chbase="etc_a"][ChrSetXY layer=5 x=178 y=0][trans_c cross time=150]
 
@@ -97,8 +100,9 @@ It was at that moment I realized my thinking was completely wrong.[pcms]
 
 *4565|
 [fc]
-The faces of the men approaching me with their mouths wide open. The "eat" they[r]
-mentioned wasn't metaphorical, but literal...[pcms]
+The faces of the men approaching me with their mouths wide[r]
+open. The "eat" they mentioned wasn't metaphorical, but[r]
+literal...[pcms]
 
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
 
@@ -111,8 +115,9 @@ mentioned wasn't metaphorical, but literal...[pcms]
 
 *4567|
 [fc]
-The intense pain of being bitten on the neck was the last thing I felt before my[r]
-consciousness was engulfed in darkness.[pcms]
+The intense pain of being bitten on the neck was the last[r]
+thing I felt before my consciousness was engulfed in[r]
+darkness.[pcms]
 
 ;//ゲームオーバー
 [gameover time=0 movie="gameover.mpg"]

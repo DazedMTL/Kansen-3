@@ -35,9 +35,9 @@
 *7|
 [fc]
 [ns]Wataru[nse]
-"Yeah. The gas attacks are starting tomorrow. I thought maybe I wouldn't be able[r]
-to come up here for a while, so I wanted to see the stars... even if just a[r]
-little."[pcms]
+"Yeah. The gas attacks are starting tomorrow. I thought[r]
+maybe I wouldn't be able to come up here for a while, so I[r]
+wanted to see the stars... even if just a little."[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -50,8 +50,8 @@ little."[pcms]
 *9|
 [fc]
 [ns]Wataru[nse]
-"It's not that there aren't any. They're just not visible. But look, you can[r]
-count a few first-magnitude stars, right?"[pcms]
+"It's not that there aren't any. They're just not visible.[r]
+But look, you can count a few first-magnitude stars, right?"[pcms]
 
 [evcg storage="EV016e"][trans_c cross time=300]
 
@@ -76,8 +76,8 @@ count a few first-magnitude stars, right?"[pcms]
 [fc]
 [vo_yuh s="yuho_TE0045"]
 [ns]Yuuho[nse]
-"The reason I came here is... well... I wanted to clear up a misunderstanding[r]
-before today ends... that's it."[pcms]
+"The reason I came here is... well... I wanted to clear up a[r]
+misunderstanding before today ends... that's it."[pcms]
 
 *13|
 [fc]
@@ -90,8 +90,9 @@ before today ends... that's it."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0046"]
 [ns]Yuuho[nse]
-"About Oshima-senpai... Look, it really was nothing. I was indeed called out. I[r]
-went to meet him on the night of the festival."[pcms]
+"About Oshima-senpai... Look, it really was nothing. I was[r]
+indeed called out. I went to meet him on the night of the[r]
+festival."[pcms]
 
 [evcg storage="EV016d"][trans_c cross time=300]
 
@@ -101,7 +102,8 @@ went to meet him on the night of the festival."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0047"]
 [ns]Yuuho[nse]
-"He confessed, asking me to go out with him... and then, he tried to kiss me..."[pcms]
+"He confessed, asking me to go out with him... and then, he[r]
+tried to kiss me..."[pcms]
 
 *16|
 [fc]
@@ -114,8 +116,9 @@ went to meet him on the night of the festival."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0048"]
 [ns]Yuuho[nse]
-"...I was so surprised. I didn't think something like that would happen... and I[r]
-was scared, so I bit down hard on Oshima-senpai's approaching lips..."[pcms]
+"...I was so surprised. I didn't think something like that[r]
+would happen... and I was scared, so I bit down hard on[r]
+Oshima-senpai's approaching lips..."[pcms]
 
 *17a|
 [fc]
@@ -128,8 +131,9 @@ was scared, so I bit down hard on Oshima-senpai's approaching lips..."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0049"]
 [ns]Yuuho[nse]
-"I bit down so hard that it drew blood... Oshima-senpai was standing there[r]
-dumbfounded, bleeding from his lips. I didn't know what to do either..."[pcms]
+"I bit down so hard that it drew blood... Oshima-senpai was[r]
+standing there dumbfounded, bleeding from his lips. I didn't[r]
+know what to do either..."[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -152,9 +156,10 @@ dumbfounded, bleeding from his lips. I didn't know what to do either..."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0051"]
 [ns]Yuuho[nse]
-"Yeah. But later on, I thought maybe biting him was too much. Maybe I could have[r]
-just pushed him away... or found some other gentler way. When I thought about it[r]
-like that... I decided to apologize."[pcms]
+"Yeah. But later on, I thought maybe biting him was too[r]
+much. Maybe I could have just pushed him away... or found[r]
+some other gentler way. When I thought about it like that...[r]
+I decided to apologize."[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -162,15 +167,17 @@ like that... I decided to apologize."[pcms]
 [fc]
 [vo_yuh s="yuho_TE0052"]
 [ns]Yuuho[nse]
-"That's what the lunchbox was for, as a sign of my apology. So, Wataru, it's not[r]
-the kind of relationship you were thinking about with Oshima-senpai, really. Do[r]
-you understand? Wataru"[pcms]
+"That's what the lunchbox was for, as a sign of my apology.[r]
+So, Wataru, it's not the kind of relationship you were[r]
+thinking about with Oshima-senpai, really. Do you[r]
+understand? Wataru"[pcms]
 
 *23|
 [fc]
 [ns]Wataru[nse]
-"Yeah. I understand. I believe what Yuuho says. Actually, I've been feeling[r]
-uneasy too. But I didn't want to make Yuuho angry again..."[pcms]
+"Yeah. I understand. I believe what Yuuho says. Actually,[r]
+I've been feeling uneasy too. But I didn't want to make[r]
+Yuuho angry again..."[pcms]
 
 *24|
 [fc]
@@ -187,14 +194,14 @@ uneasy too. But I didn't want to make Yuuho angry again..."[pcms]
 
 *26|
 [fc]
-Wataru and Yuuho looked at each other and laughed. I could believe that what[r]
-Yuuho was saying was true. Yuuho explained everything without getting angry at[r]
-my misunderstanding.[pcms]
+Wataru and Yuuho looked at each other and laughed. I could[r]
+believe that what Yuuho was saying was true. Yuuho explained[r]
+everything without getting angry at my misunderstanding.[pcms]
 
 *27|
 [fc]
-All my worries and the things that were bothering me were blown away beyond the[r]
-night sky.[pcms]
+All my worries and the things that were bothering me were[r]
+blown away beyond the night sky.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

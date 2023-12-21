@@ -31,7 +31,8 @@
 
 *3324|
 [fc]
-As Jin instructed, I relied on that voice and dashed out of the shower room.[pcms]
+As Jin instructed, I relied on that voice and dashed out of[r]
+the shower room.[pcms]
 
 [eval exp="f.l_mizuki = 1"]
 

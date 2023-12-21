@@ -16,7 +16,8 @@
 
 *1567|
 [fc]
-At the suggestion of my senior, we decided to think about "what to do next."[pcms]
+At the suggestion of my senior, we decided to think about[r]
+"what to do next."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -38,8 +39,9 @@ At the suggestion of my senior, we decided to think about "what to do next."[pcm
 [fc]
 [vo_mar s="maru1470"]
 [ns]Margarita[nse]
-"That means we'll have to move on foot. In this case, we need to be wary not[r]
-only of them but also of other infected creatures..."[pcms]
+"That means we'll have to move on foot. In this case, we[r]
+need to be wary not only of them but also of other infected[r]
+creatures..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -51,8 +53,8 @@ only of them but also of other infected creatures..."[pcms]
 
 *1572|
 [fc]
-With her arms crossed, my senior let out a huge sigh and muttered as if spitting[r]
-out.[pcms]
+With her arms crossed, my senior let out a huge sigh and[r]
+muttered as if spitting out.[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -60,8 +62,8 @@ out.[pcms]
 [fc]
 [vo_yuh s="yuho1527"]
 [ns]Yuuho[nse]
-"Like they said on TV, let's barricade ourselves in a safe place until help[r]
-arrives?"[pcms]
+"Like they said on TV, let's barricade ourselves in a safe[r]
+place until help arrives?"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -69,13 +71,13 @@ arrives?"[pcms]
 [fc]
 [vo_yuh s="yuho1528"]
 [ns]Yuuho[nse]
-"If it's LASER, there's a store, and there's plenty of food, isn't it just[r]
-perfect?"[pcms]
+"If it's LASER, there's a store, and there's plenty of food,[r]
+isn't it just perfect?"[pcms]
 
 *1575|
 [fc]
-Yuuho said this deliberately cheerfully, and Ren slowly turned her face towards[r]
-her.[pcms]
+Yuuho said this deliberately cheerfully, and Ren slowly[r]
+turned her face towards her.[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -91,8 +93,8 @@ her.[pcms]
 [fc]
 [vo_yuh s="yuho1529"]
 [ns]Yuuho[nse]
-"It's okay! It's bound to come. The whole world hasn't been destroyed, so surely[r]
-help will come from somewhere!"[pcms]
+"It's okay! It's bound to come. The whole world hasn't been[r]
+destroyed, so surely help will come from somewhere!"[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -100,8 +102,9 @@ help will come from somewhere!"[pcms]
 [fc]
 [vo_yuh s="yuho1530"]
 [ns]Yuuho[nse]
-"...Besides, we survived when they attacked us that time, right? If we're[r]
-together, it'll definitely be okay. We'll manage somehow, right?"[pcms]
+"...Besides, we survived when they attacked us that time,[r]
+right? If we're together, it'll definitely be okay. We'll[r]
+manage somehow, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -114,8 +117,8 @@ together, it'll definitely be okay. We'll manage somehow, right?"[pcms]
 
 *1580|
 [fc]
-With a face still showing unease but wanting to believe, Ren nodded earnestly to[r]
-Yuuho's words.[pcms]
+With a face still showing unease but wanting to believe, Ren[r]
+nodded earnestly to Yuuho's words.[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -134,8 +137,8 @@ Yuuho's words.[pcms]
 
 *1583|
 [fc]
-Taken aback by the sudden shift in conversation, Shigeyoshi flusteredly looked[r]
-to Jin for help.[pcms]
+Taken aback by the sudden shift in conversation, Shigeyoshi[r]
+flusteredly looked to Jin for help.[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -153,14 +156,15 @@ Jin's response was quite straightforward.[pcms]
 *1586|
 [fc]
 [ns]Kousuke[nse]
-"That's fine as long as the electricity is on. But if the power plant stops,[r]
-it's all over, right? Water, internet, TV..."[pcms]
+"That's fine as long as the electricity is on. But if the[r]
+power plant stops, it's all over, right? Water, internet,[r]
+TV..."[pcms]
 
 *1587|
 [fc]
 [ns]Kousuke[nse]
-"Shouldn't we move before that happens and wait to be rescued? If we're in the[r]
-city, cars can't get to us, right?"[pcms]
+"Shouldn't we move before that happens and wait to be[r]
+rescued? If we're in the city, cars can't get to us, right?"[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -168,8 +172,9 @@ city, cars can't get to us, right?"[pcms]
 [fc]
 [vo_mar s="maru1473"]
 [ns]Margarita[nse]
-"That's true. The difficulty of vehicular movement on the ground applies not[r]
-just to those escaping but also to those rescuing."[pcms]
+"That's true. The difficulty of vehicular movement on the[r]
+ground applies not just to those escaping but also to those[r]
+rescuing."[pcms]
 
 *1589|
 [fc]
@@ -182,8 +187,8 @@ just to those escaping but also to those rescuing."[pcms]
 [fc]
 [vo_mar s="maru1474"]
 [ns]Margarita[nse]
-"But... helicopters are limited in number, fuel, and the number of people they[r]
-can carry..."[pcms]
+"But... helicopters are limited in number, fuel, and the[r]
+number of people they can carry..."[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -191,8 +196,8 @@ can carry..."[pcms]
 [fc]
 [vo_mar s="maru1475"]
 [ns]Margarita[nse]
-"Even with international assistance, how long they can fly in skies filled with[r]
-flocks of aggressive birds..."[pcms]
+"Even with international assistance, how long they can fly[r]
+in skies filled with flocks of aggressive birds..."[pcms]
 
 *1592|
 [fc]
@@ -203,21 +208,23 @@ Kousuke nodded greatly to my senior's concerns.[pcms]
 *1593|
 [fc]
 [ns]Kousuke[nse]
-"Then shouldn't we move closer to the sea or somewhere to increase our chances[r]
-of being rescued sooner?"[pcms]
+"Then shouldn't we move closer to the sea or somewhere to[r]
+increase our chances of being rescued sooner?"[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1594|
 [fc]
 [ns]Kousuke[nse]
-"The government is on an island, and the escort fleet is at sea, right? Then[r]
-being by the sea would increase our chances of being rescued, wouldn't it?"[pcms]
+"The government is on an island, and the escort fleet is at[r]
+sea, right? Then being by the sea would increase our chances[r]
+of being rescued, wouldn't it?"[pcms]
 
 *1595|
 [fc]
-Despite having clamored to go to LASER earlier, Kousuke now seemed desperate to[r]
-get outside. It wasn't surprising given his restless nature...[pcms]
+Despite having clamored to go to LASER earlier, Kousuke now[r]
+seemed desperate to get outside. It wasn't surprising given[r]
+his restless nature...[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
