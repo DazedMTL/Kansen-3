@@ -610,7 +610,7 @@ The rope slipped from the hands of the three people.[pcms]
 ;//‚d‚m‚c
 ;//œƒQ[ƒ€ƒI[ƒo[
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 
 

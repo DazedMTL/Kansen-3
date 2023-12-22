@@ -1185,7 +1185,7 @@ nose, and muttered discontentedly.[pcms]
 ;//---------------------------------------------------------------
 
 [gameover time=0 movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 
 

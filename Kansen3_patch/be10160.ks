@@ -966,4 +966,4 @@ hordes of infected gathered.[pcms]
 ;//●ゲームオーバー
 [gameover movie="ending.mpg"]
 
-(returntitle)[pcms]
+[returntitle][s]

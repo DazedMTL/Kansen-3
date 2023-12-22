@@ -1862,4 +1862,4 @@ Around me spread darkness and a world of silence.[pcms]
 
 ;//●ゲームオーバー
 [gameover time=0 movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]

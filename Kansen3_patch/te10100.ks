@@ -1347,5 +1347,5 @@ return to my town by the time the cherry blossoms bloomed.[pcms]
 
 [eval exp="sf.g_clear = 1"]
 
-(returntitle)[pcms]
+[returntitle][s]
 

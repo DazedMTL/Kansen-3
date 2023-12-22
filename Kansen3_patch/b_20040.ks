@@ -949,5 +949,5 @@ In this "somewhere that isn't here," eternally.[pcms]
 
 ;//ゲームオーバー
 [gameover time=500 movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

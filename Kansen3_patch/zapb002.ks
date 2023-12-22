@@ -1244,5 +1244,5 @@ licked up the last drop of sperm on my lips.[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

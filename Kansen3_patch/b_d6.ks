@@ -117,6 +117,6 @@ The last thing that came to mind was the most important...[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

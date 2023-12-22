@@ -137,5 +137,5 @@ by darkness was something hot on my neck.[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

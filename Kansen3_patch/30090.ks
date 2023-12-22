@@ -1757,5 +1757,5 @@ which should have been cold, have disappeared somewhere...[pcms]
 ;//‚d‚m‚c
 ;//œƒQ[ƒ€ƒI[ƒo[
 [gameover time=0 movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

@@ -3461,7 +3461,7 @@ I can't take it anymore... We're finished...[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 
 

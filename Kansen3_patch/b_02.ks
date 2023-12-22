@@ -228,6 +228,6 @@ That was the last voice I heard.[pcms]
 ;//●●●●●仕様の確定を。
 
 ;//●ゲームオーバー
-(gameover time=0 movie="gameover.mpg")(returntitle)[pcms]
+(gameover time=0 movie="gameover.mpg")[returntitle][s]
 
 

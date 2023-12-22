@@ -110,5 +110,5 @@ without being able to resist.[pcms]
 ;//●●●●●仕様の確定を
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

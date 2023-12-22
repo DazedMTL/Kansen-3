@@ -156,5 +156,5 @@ my neck.[pcms]
 
 ;//ゲームオーバー
 [gameover time=0 movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

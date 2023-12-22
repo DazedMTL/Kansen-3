@@ -2069,7 +2069,7 @@ Ahyahyahihi~~~!!!"[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 
 

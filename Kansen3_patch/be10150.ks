@@ -831,4 +831,4 @@ Our true place to belong...[pcms]
 ;//●ゲームオーバー
 [gameover movie="ending.mpg"]
 
-(returntitle)[pcms]
+[returntitle][s]

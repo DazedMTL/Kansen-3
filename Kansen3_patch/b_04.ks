@@ -139,6 +139,6 @@ I had no means left to resist the onslaught.[pcms]
 ;//●●●●●仕様の確定を。
 
 ;//ゲームオーバー
-(gameover movie="gameover.mpg")(returntitle)[pcms]
+[gameover movie="gameover.mpg"][returntitle][s]
 
 

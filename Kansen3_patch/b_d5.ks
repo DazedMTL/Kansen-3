@@ -51,5 +51,5 @@ consciousness was sealed by darkness.[pcms]
 ;//バッドエンド
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

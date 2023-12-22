@@ -506,6 +506,6 @@ severed penis spurted over and over again from its base...[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

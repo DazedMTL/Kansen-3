@@ -323,5 +323,5 @@ My worst life.[pcms]
 ;//●ゲームオーバー
 [gameover movie="ending.mpg"]
 
-(returntitle)[pcms]
+[returntitle][s]
 

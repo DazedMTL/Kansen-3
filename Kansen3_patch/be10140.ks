@@ -934,5 +934,5 @@ The two of us, together...[pcms]
 
 [eval exp="sf.g_clear = 1"]
 
-(returntitle)[pcms]
+[returntitle][s]
 

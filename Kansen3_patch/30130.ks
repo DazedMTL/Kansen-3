@@ -269,6 +269,6 @@ My consciousness drifted away, sucked into the darkness.[pcms]
 ;//‚d‚m‚c
 ;//œƒQ[ƒ€ƒI[ƒo[
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

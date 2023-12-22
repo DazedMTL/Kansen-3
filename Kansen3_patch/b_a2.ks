@@ -130,6 +130,6 @@ female bodies covering my mouth and nose.[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

@@ -194,4 +194,4 @@ I was swallowed up by the crowd of people.[pcms]
 ;//●●●●●仕様の確定を。
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]

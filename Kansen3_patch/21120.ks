@@ -1700,5 +1700,5 @@ falling into pitch- black darkness...[pcms]
 ;//---------------------------------------------------------------
 
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

@@ -3530,6 +3530,6 @@ Tell me, Onii-chan... Help me...[pcms]
 ;//---------------------------------------------------------------
 
 ;//●ゲームオーバー
-(gameover movie="gameover.mpg")(returntitle)[pcms]
+[gameover movie="gameover.mpg"][returntitle][s]
 
 
