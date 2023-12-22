@@ -1,10 +1,10 @@
 ;//block:021
-;//ブロック４２２００『地下道漣のみ脱出編』
+;//ブロック４２２００『地下道～漣のみ脱出編～』
 ;//@konya 11/20 EV_CGほか
 ;//@konya 42190.txtから
 
 *42200_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:姦染主人公・浩助（block:C019以降どうなっているか不明）
@@ -13,7 +13,7 @@
 ;//時間帯：
 ;//・テキスト容量：8K前後 →　おそらくコピペミスです。
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ５　選択肢５１：先に漣の方に
+;//●選択肢Ｃ－５　選択肢５－１：先に漣の方に
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -22,30 +22,31 @@
 
 *6489|
 [fc]
-[ns]Father[nse]
-"Come on, Ren~"[pcms]
+[ns]父[nse]
+「さぁ、漣～」[pcms]
 
 *6490|
 [fc]
-After defeating those around him, Father approached Ren and[r]
-hugged her.[pcms]
+周りのやつを叩きのめした父さんは漣のそばに寄って抱きしめる。[pcms]
 
 *6491|
 [fc]
 [vo_ren s="ren0712"]
-[ns]Ren[nse]
-"Kyah...!! No! What are you doing, Father?!!"[pcms]
+[ns]漣[nse]
+「きゃっ……！！[r]
+　いやっ！　なにをするのお父さんっ！！」[pcms]
 
 *6492|
 [fc]
-[ns]Father[nse]
-"This is what I'm doing~. There!!"[pcms]
+[ns]父[nse]
+「こうするんだ～。[r]
+　そ～れっ！！」[pcms]
 
 *6493|
 [fc]
 [vo_ren s="ren0713"]
-[ns]Ren[nse]
-"Kyaaaah!!"[pcms]
+[ns]漣[nse]
+「きゃああっ！！」[pcms]
 
 ;//〆ＨＥＶ０４３：漣／制服／サンドイッチ駅弁（横アングル）
 ;//Ａ：漣を抱きしめたまま抱え上げる主人公の父親
@@ -53,219 +54,234 @@ hugged her.[pcms]
 
 *6494|
 [fc]
-Father spread Ren's legs and lifted her up from the front.[pcms]
+父さんは漣の足を開いて、正面から抱えあげた。[pcms]
 
 *6495|
 [fc]
 [vo_ren s="ren0714"]
-[ns]Ren[nse]
-"Stop it... Father...!! Noo!!"[pcms]
+[ns]漣[nse]
+「やめてぇ……お父さん……！！[r]
+　いやぁ！！」[pcms]
 
 *6496|
 [fc]
-[ns]Father[nse]
-"What are you talking about, Ren. Didn't I often lift you up[r]
-like this when you were little?"[pcms]
+[ns]父[nse]
+「なにを言ってるんだ～漣。[r]
+　昔はよくこうやって、抱き上げてやったろ～？」[pcms]
 
 *6497|
 [fc]
 [vo_ren s="ren0715"]
-[ns]Ren[nse]
-"That's different... No! Put me down!!"[pcms]
+[ns]漣[nse]
+「そんなっ……ちがっ！[r]
+　いやぁ！　おろしてぇ！！」[pcms]
 
 *6498|
 [fc]
-Ren, still being held up by Father, shook her body and[r]
-showed her dislike.[pcms]
+漣は父さんに抱え上げられたまま、[r]
+身体を揺らして嫌がっている。[pcms]
 
 *6499|
 [fc]
-There's no need to dislike it that much~. Alright...[pcms]
+あんなに嫌がらなくてもいいのに～。[r]
+よ～し……。[pcms]
 
 *6500|
 [fc]
-[ns]Wataru[nse]
-"Ren~!"[pcms]
+[ns]航[nse]
+「漣～！」[pcms]
 
 *6501|
 [fc]
 [vo_ren s="ren0716"]
-[ns]Ren[nse]
-"B-Brother! Brother~!"[pcms]
+[ns]漣[nse]
+「お、お兄ちゃん！　お兄ちゃんっ～！」[pcms]
 
 *6502|
 [fc]
-[ns]Wataru[nse]
-"What's wrong, Ren?"[pcms]
+[ns]航[nse]
+「どうしたんだい？　漣？」[pcms]
 
 *6503|
 [fc]
 [vo_ren s="ren0717"]
-[ns]Ren[nse]
-"What's wrong...? Father is acting strange! Help me,[r]
-Brother!!"[pcms]
+[ns]漣[nse]
+「どうしたって……。[r]
+　お父さんがおかしいのっ！[r]
+　助けてっお兄ちゃんっ！！」[pcms]
 
 *6504|
 [fc]
-[ns]Father[nse]
-"Brother...? Ah, if it isn't Wataru~. What's up~"[pcms]
+[ns]父[nse]
+「お兄ちゃん……？[r]
+　ああ、航じゃないかぁ～。[r]
+　どうしたんだぁ～」[pcms]
 
 *6505|
 [fc]
-[ns]Wataru[nse]
-"Hey, Father was working hard, huh~"[pcms]
+[ns]航[nse]
+「やあ、父さんがんばってたね～」[pcms]
 
 ;//[vo_ren s="ren0718"]
 
 *6506|
 [fc]
-[ns]Father[nse]
-"Of course~. I have to protect my cute daughter's purity~"[pcms]
+[ns]父[nse]
+「そりゃそうだ～。[r]
+　かわいい娘の純潔はまもってやらんとな～」[pcms]
 
 *6507|
 [fc]
-[ns]Wataru[nse]
-"That's right, Father~"[pcms]
+[ns]航[nse]
+「そうだね～父さん～」[pcms]
 
 *6508|
 [fc]
 [vo_ren s="ren0719"]
-[ns]Ren[nse]
-"No way, Brother!? Father is acting strange! Be careful!"[pcms]
+[ns]漣[nse]
+「そんな、お兄ちゃんっ！？[r]
+　お父さんはおかしいのっ！[r]
+　気をつけてっ！」[pcms]
 
 *6509|
 [fc]
-[ns]Father[nse]
-"Ren is being harsh~. Right, Wataru~"[pcms]
+[ns]父[nse]
+「ひどいな漣は～。[r]
+　なあ、航～」[pcms]
 
 *6510|
 [fc]
-[ns]Wataru[nse]
-"Yeah~. There's nothing wrong with Father~"[pcms]
+[ns]航[nse]
+「そうだねぇ～。[r]
+　父さんはどこもおかしくないよね～」[pcms]
 
 *6511|
 [fc]
 [vo_ren s="ren0720"]
-[ns]Ren[nse]
-"Eeh!? N-No..."[pcms]
+[ns]漣[nse]
+「ええっ！？　い、いやぁ……」[pcms]
 
 *6512|
 [fc]
-Ren is making strange noises and seems frightened. What[r]
-could she be afraid of?[pcms]
+漣はなんだか変な声を出して怯えている。[r]
+なにが怖いことがあるんだろう？[pcms]
 
 *6513|
 [fc]
-I stood behind Ren to support her back as if sandwiching her[r]
-with Father.[pcms]
+ボクは漣を父さんとサンドイッチするように[r]
+漣の背中の方に立って支える。[pcms]
 
 ;//漣をサンドイッチして背後に立つ主人公
 
 *6514|
 [fc]
 [vo_ren s="ren0721"]
-[ns]Ren[nse]
-"...B-Brother!!"[pcms]
+[ns]漣[nse]
+「……お、お兄ちゃんっ！！」[pcms]
 
 *6515|
 [fc]
-[ns]Wataru[nse]
-"It's okay~ Ren~. Father has properly protected your[r]
-virginity, hasn't he~"[pcms]
+[ns]航[nse]
+「大丈夫だよ～漣～。[r]
+　父さんはちゃんと漣の処女を守ってくれたじゃないか～」[pcms]
 
 *6516|
 [fc]
-[ns]Father[nse]
-"That's right~"[pcms]
+[ns]父[nse]
+「そうだぞ～」[pcms]
 
 *6517|
 [fc]
 [vo_ren s="ren0722"]
-[ns]Ren[nse]
-"No... No..."[pcms]
+[ns]漣[nse]
+「いやぁ……いやぁ……」[pcms]
 
 *6518|
 [fc]
-[ns]Wataru[nse]
-"Don't worry, Ren~. I'll be the one to take your virginity~"[pcms]
+[ns]航[nse]
+「漣の処女はちゃ～んとこのボクがもらってあげるから～」[pcms]
 
 *6519|
 [fc]
 [vo_ren s="ren0723"]
-[ns]Ren[nse]
-"That can't be... No..."[pcms]
+[ns]漣[nse]
+「そ、そんな……そんなぁ……」[pcms]
 
 *6520|
 [fc]
-Ren looked at me as if I were a monster and was scared.[pcms]
+漣がボクのことをまるで化け物かというような目で見て怖がってる。[pcms]
 
 *6521|
 [fc]
-[ns]Father[nse]
-"Hey hey~ what are you saying, Wataru? Ren's purity is mine[r]
-to take~?"[pcms]
+[ns]父[nse]
+「おいおい～なにを言ってるんだ航？[r]
+　漣の純潔は俺がもらうぞ～？」[pcms]
 
 *6522|
 [fc]
-[ns]Wataru[nse]
-"Take her purity? No way~ Father, you protected Ren's[r]
-virginity for me, right~?"[pcms]
+[ns]航[nse]
+「純潔をもらう？[r]
+　そんな～父さんはボクのために漣の処女を守ったんだろ～？」[pcms]
 
 *6523|
 [fc]
-[ns]Father[nse]
-"It's decided that I will take it~. Because I love Ren the[r]
-most~"[pcms]
+[ns]父[nse]
+「俺がもらうに決まっているだろう～？[r]
+　俺が一番、漣を愛してるんだからな～」[pcms]
 
 *6524|
 [fc]
-Father said to me as if it were a matter of course.[pcms]
+父さんは当然のようにボクに言う。[pcms]
 
 *6525|
 [fc]
-[ns]Wataru[nse]
-"I can't agree with that, you old man! Ren's virginity is[r]
-mine!"[pcms]
+[ns]航[nse]
+「納得できるもんか、このオヤジめっ！[r]
+　漣の処女はボクのモノだっ！」[pcms]
 
 *6526|
 [fc]
-[ns]Father[nse]
-"What are you talking about? I've been the sole breadwinner,[r]
-raising you kids all this time~"[pcms]
+[ns]父[nse]
+「オマエはなにを言っているんだ？[r]
+　俺は男手ひとつで、これまでずっと[r]
+　オマエたちを養ってきたんだぞ～」[pcms]
 
 *6527|
 [fc]
-[ns]Father[nse]
-"It's clear that Ren's purity is mine~"[pcms]
+[ns]父[nse]
+「漣の純潔は俺のモノだって、[r]
+　わかりきってるじゃないか～」[pcms]
 
 *6528|
 [fc]
-[ns]Wataru[nse]
-"It's tough when you put it that way~"[pcms]
+[ns]航[nse]
+「たしかにそれを言われると辛いなぁ～」[pcms]
 
 *6529|
 [fc]
-Father sure knows where to hit where it hurts.[pcms]
+さすがは父さん。[r]
+痛いところをついてくる。[pcms]
 
 *6530|
 [fc]
 [vo_ren s="ren0724"]
-[ns]Ren[nse]
-"Euh...uh...uhh... Both of you are crazy... Stop it...[r]
-please stop..."[pcms]
+[ns]漣[nse]
+「えうっ……うっ……ううっ……。[r]
+　二人ともオカシイよ……。[r]
+　やめてっ……お願いだからやめてぇ……」[pcms]
 
 *6531|
 [fc]
-Ren was shedding tears from her eyes.[pcms]
+漣は目からボロボロと涙をこぼしている。[pcms]
 
 *6532|
 [fc]
-I guess she can't wait to have her virginity taken.[r]
-Alright...[pcms]
+そうかぁ……早く処女を破ってほしくてしかたないんだな。[r]
+よ～し……。[pcms]
 
 *6533|
 [fc]
-Which one of us will break Ren's virginity, me or Father?[pcms]
+ボクと父さんのどっちが漣の処女を破ってやるかな～？[pcms]
 
 
 ;mm いちいち片方みてチェックするのめんどうから条件分岐廃止。回想では片方しかみてなくても選択肢で分岐させる。
@@ -293,24 +309,23 @@ Which one of us will break Ren's virginity, me or Father?[pcms]
 
 *g_42200_sel01
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ６
-;//　６１：オレオレ！→ブロック４２２１０へ
-;//　６２：とうさんに譲る→ブロック４２２３０へ
-;//　６３：仲良く一緒に→ブロック４２２５０へ
+;//●選択肢Ｃ－６
+;//　６－１：オレオレ！→ブロック４２２１０へ
+;//　６－２：とうさんに譲る→ブロック４２２３０へ
+;//　６－３：仲良く一緒に→ブロック４２２５０へ
 
 
 ;	[link storage="42210.ks" target=*42210_TOP]オレオレ！[endlink]
 ;	[link storage="42230.ks" target=*42230_TOP]とうさんに譲る[endlink]
-(link storage="42250.ks" target=*42250_TOP)Let's do it[r]
-together(endlink)[pcms]
+;	[link storage="42250.ks" target=*42250_TOP]仲良く一緒に[endlink][s]
 
 *SEL39|オレオレ！／とうさんに譲る／仲良く一緒に
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'It\'s me, it\'s me!'"]
-[eval exp="f.seltext04 = 'I\'ll give it to my father'"]
-[eval exp="f.seltext06 = 'Let\'s get along together'"]
+[eval exp="f.seltext02 = 'オレオレ！'"]
+[eval exp="f.seltext04 = 'とうさんに譲る'"]
+[eval exp="f.seltext06 = '仲良く一緒に'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

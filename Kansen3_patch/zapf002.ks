@@ -23,336 +23,344 @@
 
 *3783|
 [fc]
-[ns]Jin[nse]
-"...This isn't too bad, this kind of thing."[pcms]
+[ns]壬[nse]
+「……いいもんだな、こういうのも」[pcms]
 
 *3784|
 [fc]
-Good music, good booze. And a space without those damn[r]
-fools. Only the less shitty ones are out in the streets.[pcms]
+良い音楽に、良い酒。[r]
+それにクソ共のいない空間。[r]
+街ん中は、クソはクソでもまだマシなヤツらだけ。[pcms]
 
 *3785|
 [fc]
-They don't think about unnecessary things, the infected...[pcms]
+余計な事考えてねぇからな、[ruby text="ア　イ　ツ　ら"][ch text="感染者"]は……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3786|
 [fc]
-[ns]Shigeyoshi[nse]
-"Yes, please wait a moment."[pcms]
+[ns]重吉[nse]
+「はい、少々お待ち下さい」[pcms]
 
 *3787|
 [fc]
-Shige walks over here while talking on my cell phone that[r]
-he's holding.[pcms]
+俺の携帯を持ち、話ながらシゲがこちらに歩いてくる。[pcms]
 
 *3788|
 [fc]
-[ns]Jin[nse]
-"Tch..."[pcms]
+[ns]壬[nse]
+「チッ……」[pcms]
 
 *3789|
 [fc]
-They should've just died quietly. Dazai...[pcms]
+大人しく死んでれば良かったのに。[r]
+太宰……。[pcms]
 
 *3790|
 [fc]
-Just when I was finally able to relax, my mood is completely[r]
-ruined.[pcms]
+せっかくリラックスできてたっというのに、気分ぶち壊しだ。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3791|
 [fc]
-[ns]Shigeyoshi[nse]
-"Aniki... no, Jin-san is... Yes, I understand..."[pcms]
+[ns]重吉[nse]
+「アニキ……いや、ジンさんは……。[r]
+　はい、判りました……」[pcms]
 
 *3792|
 [fc]
-[ns]Jin[nse]
-"Hand it over."[pcms]
+[ns]壬[nse]
+「貸せ」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3793|
 [fc]
-The good mood I was in is shattered, and the anger I had[r]
-long forgotten starts to resurface in the back of my head.[pcms]
+せっかくの良い気分をブチ壊された事で、[r]
+久しく忘れていた怒りが、頭の奥に浮かび上がる。[pcms]
 
 *3794|
 [fc]
-[ns]Jin[nse]
-"Yes... I'm on the line now..."[pcms]
+[ns]壬[nse]
+「はい……換わりました……」[pcms]
 
 *3795|
 [fc]
-Damn it. To call at a time like this. It's going to be a[r]
-long one again...[pcms]
+クソが。こんな時にまで電話なんてな。[r]
+また長くなりそうだぜ……。[pcms]
 
 *3796|
 [fc]
-Why. Why does everyone want to talk to people?[pcms]
+何故。[r]
+何故誰も彼も、人と話したがる？[pcms]
 
 *3797|
 [fc]
-It's such a hassle. They just want to make their opinions[r]
-heard, to have a conversation.[pcms]
+面倒な事なのに。[r]
+自分の意見を聞かせたいだけなのに、[r]
+話をしようとか。[pcms]
 
 *3798|
 [fc]
-What they're saying is nonsensical. Just trivial matters.[pcms]
+言ってる事がおかしい。[r]
+くだらない事ばかり。[pcms]
 
 *3799|
 [fc]
-Imposing conversations. Just one-sided talks where I'm[r]
-supposed to listen.[pcms]
+押しつけがましい話。[r]
+一方的に、俺が聞くだけの話。[pcms]
 
 *3800|
 [fc]
-I'm sick of it already.[pcms]
+もう、うんざりだ。[pcms]
 
 *3801|
 [fc]
-The voice rants on the other end of the phone. It seems like[r]
-they're cursing me out. But it doesn't reach my brain.[pcms]
+携帯の向こうでまくし立てる声。[r]
+俺の事を罵倒している様だ。[r]
+だけど、俺の脳には届かない。[pcms]
 
 *3802|
 [fc]
-I've already made up my mind.[pcms]
+もう、俺は決めた。[pcms]
 
 *3803|
 [fc]
-[ns]Jin[nse]
-"Hah..."[pcms]
+[ns]壬[nse]
+「はぁ……」[pcms]
 
 *3804|
 [fc]
-With a sigh, I press the power button, end the call, and[r]
-toss the phone back to Shige.[pcms]
+ため息と共に、電源ボタンを押し、そのまま電話を切り、[r]
+シゲに投げ返す。[pcms]
 
 *3805|
 [fc]
-[ns]Jin[nse]
-"That's enough. You can turn it back on if you want, but[r]
-block calls from that guy. Don't ever let me hear that[r]
-hopeless voice again."[pcms]
+[ns]壬[nse]
+「もういい。電源入れてもいいが、アイツからの電話は[r]
+　着信拒否にしておけ。俺にあのどうしようもない声、[r]
+　二度と聞かせるな」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3806|
 [fc]
-[ns]Shigeyoshi[nse]
-"Eh!? Is that okay with you, Aniki...? More importantly,[r]
-what about the gang? You're not thinking of leaving us, are[r]
-you?"[pcms]
+[ns]重吉[nse]
+「え！？　い、いいんすかアニキ……。[r]
+　ってより、組、どうするんですか？[r]
+　まさか……抜けちまおうとか思ってるんじゃないでしょうね？」[pcms]
 
 *3807|
 [fc]
-[ns]Jin[nse]
-"Yeah. That's right."[pcms]
+[ns]壬[nse]
+「ああ。そうだ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3808|
 [fc]
-[ns]Shigeyoshi[nse]
-"That's right, as in... Aniki! What about the gang!? And[r]
-what about the guys who look up to you!?"[pcms]
+[ns]重吉[nse]
+「そうだ、って……アニキ！　組は！？[r]
+　それに、アニキを慕ってる奴らとかどうすんだよ！？」[pcms]
 
 *3809|
 [fc]
-[ns]Jin[nse]
-"It's all too damn troublesome... And I'm tired of dealing[r]
-with idiots. I've lost interest in being someone important[r]
-among those guys. Let those who want to do it keep at it for[r]
-life."[pcms]
+[ns]壬[nse]
+「もう面倒くせぇ……。それにバカの相手するの、疲れた。[r]
+　あの連中の中で偉くなるのも、もう興味もねえ。[r]
+　やりたい奴らだけで、一生続けてりゃいいんだ」[pcms]
 
 *3810|
 [fc]
-[ns]Jin[nse]
-"Anyway! I've already decided. I'm done with the gang and[r]
-all that crap. I'm out. Goodbye."[pcms]
+[ns]壬[nse]
+「とにかく！　俺はもう決めたんだ。[r]
+　俺はもう、組もクソも関係ない。降りた。[r]
+　さよならだ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3811|
 [fc]
-[ns]Shigeyoshi[nse]
-"Aniki... Then... I'll follow you. Because for me, there's[r]
-only Aniki."[pcms]
+[ns]重吉[nse]
+「アニキ……。じゃあよ……俺も付いていくぜ。[r]
+　俺にとってのアニキは、“アニキ”しかいねぇからな」[pcms]
 
 *3812|
 [fc]
-[ns]Jin[nse]
-"Hmph..."[pcms]
+[ns]壬[nse]
+「ふん……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3813|
 [fc]
-[ns]Shigeyoshi[nse]
-"So come on, let's finish off those brats quickly, and do[r]
-whatever we want with the women and food! Right, Aniki!?"[pcms]
+[ns]重吉[nse]
+「だからよ、さっさとあのガキ共ヤッちまってよ、[r]
+　女もメシも、俺達の好きなようにしようぜ！？[r]
+　なぁ、アニキ！」[pcms]
 
 *3814|
 [fc]
-... He hasn't changed one bit, has he?[pcms]
+…………。[r]
+やっぱりコイツは、変わり様がねぇのか。[pcms]
 
 *3815|
 [fc]
-[ns]Jin[nse]
-"Shige, how many times do I have to tell you? What's the[r]
-point in doing such things? What I'm trying to say is, with[r]
-the world turned upside down like this, isn't there a chance[r]
-to 'live properly'?"[pcms]
+[ns]壬[nse]
+「シゲ、何度も言うがそんな真似して何になる？[r]
+　俺が言いたいのは、こんな世の中になっちまったんなら、[r]
+　『まともに生きる』チャンスがあるんじゃねぇかって事だ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3816|
 [fc]
-[ns]Shigeyoshi[nse]
-"Live properly... What the hell is that? Anyway... why won't[r]
-you let me screw Mizuki! We went through all that trouble to[r]
-save her!"[pcms]
+[ns]重吉[nse]
+「まともって……一体何だよ！[r]
+　大体……何で瑞樹とヤらせてくんねーんだよ！[r]
+　せっかく助け出したのによ！」[pcms]
 
 *3817|
 [fc]
-[ns]Jin[nse]
-"What are you talking about? You didn't come to save her[r]
-just because you wanted to screw her, right? And what's with[r]
-being so desperate about it?"[pcms]
+[ns]壬[nse]
+「お前、何言ってんだ？[r]
+　やりたくて助けに来たわけじゃねぇだろ……。[r]
+　それに、そんなにガッついてどうするんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3818|
 [fc]
-[ns]Shigeyoshi[nse]
-"Aniki! You're treating Mizuki too special! It's not like[r]
-you to be used by a woman! It's pathetic!"[pcms]
+[ns]重吉[nse]
+「アニキ！　アンタは瑞樹の事、特別扱いしすぎなんだよ！[r]
+　女に使われるなんてアニキらしくねぇよ！！[r]
+　だらしねぇ！」[pcms]
 
 *3819|
 [fc]
-This guy too... What a pain...[pcms]
+コイツもか……。[r]
+面倒くせぇ……。[pcms]
 
 *3820|
 [fc]
-[ns]Jin[nse]
-"Mizuki is the daughter of someone my old man was indebted[r]
-to. If you say she's special, then yeah, she is."[pcms]
+[ns]壬[nse]
+「瑞樹はな、俺の親父が世話になったことがある人の娘だからな。[r]
+　特別な人って言えば、そうなるな」[pcms]
 
 *3821|
 [fc]
-[ns]Jin[nse]
-"Sure, I've slept with Mizuki when she came onto me. But[r]
-that was just to calm her down when she was high on drugs.[r]
-Normally, treating her like an 'object' is something I can't[r]
-do."[pcms]
+[ns]壬[nse]
+「そりゃ、瑞樹に迫られてて抱いたことはある。[r]
+　だが、アレはクスリでラリってたのを鎮めるためだ。[r]
+　本来なら『モノ』みたく扱う事なんて、俺にはできないんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3822|
 [fc]
-[ns]Shigeyoshi[nse]
-"Is that so... But still! It's unfair that only Aniki gets[r]
-to do that! You're making excuses, but you slept with her,[r]
-didn't you!?"[pcms]
+[ns]重吉[nse]
+「そうだったのか……。[r]
+　でもよ！　やっぱアニキだけ、ズリィよ！[r]
+　ああだこうだ理由付けちゃいるけど、抱いたんだろ！？」[pcms]
 
 *3823|
 [fc]
-[ns]Jin[nse]
-"Cut it out! Always thinking about screwing... You're so[r]
-desperate, that's why women don't come near you! If you want[r]
-them to come onto you, use your head for something other[r]
-than threatening or raping."[pcms]
+[ns]壬[nse]
+「いい加減にしろ！　そうやってヤる事ばっかり考えて……。[r]
+　ガツガツしてっから、女寄りつかねぇんだよ！　向こうから[r]
+　迫られたいのなら、脅すだとか、犯す事以外に頭を使え」[pcms]
 
 *3824|
 [fc]
-[ns]Jin[nse]
-"That short-haired girl, Yuuho was it? You've got a crush on[r]
-her, right? Just confess normally, date her, and have normal[r]
-sex. Isn't that right?"[pcms]
+[ns]壬[nse]
+「あの髪の短い、悠帆だったか？　あの女に熱上げてんだろ？[r]
+　普通にコクって、付き合って、普通にセックスすれば[r]
+　いいじゃねぇか。違うか？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3825|
 [fc]
-[ns]Shigeyoshi[nse]
-"If I could do something that smooth, I wouldn't be[r]
-struggling like this..."[pcms]
+[ns]重吉[nse]
+「そんな器用な事できりゃ、こんな苦労してねぇよ……」[pcms]
 
 *3826|
 [fc]
-Finally understanding what I'm saying, Shige loses his[r]
-bluster and falls silent.[pcms]
+俺の言ってる事にようやく納得したのか、[r]
+シゲはそれまでの威勢がなくなり、押し黙る。[pcms]
 
 *3827|
 [fc]
-[ns]Jin[nse]
-"Shige... You're not my property, and since I've left the[r]
-gang, you don't need to listen to me anymore. Do whatever[r]
-you like."[pcms]
+[ns]壬[nse]
+「シゲ……。別にお前は俺のモンじゃねぇし、それに組を抜けた[r]
+　以上、俺の言う事聞く必要もねぇんだ。[r]
+　お前の好きな様にしろ」[pcms]
 
 *3828|
 [fc]
-Go back. You should just keep groveling to those idiots. If[r]
-that satisfies you.[pcms]
+戻れ。[r]
+お前は、あのバカ共相手にヘコヘコし続けてればいい。[r]
+それで自分の気が済むんならな。[pcms]
 
 *3829|
 [fc]
-I'm done with it all. I'll just hang out here with those[r]
-guys leisurely.[pcms]
+俺はもういい。[r]
+ここで、あの連中とのんびりやるんだ。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3830|
 [fc]
-[ns]Shigeyoshi[nse]
-"Tch... If Aniki is staying here, then I'll... I'll stay[r]
-here too..."[pcms]
+[ns]重吉[nse]
+「チッ……アニキがここにいるってんなら、俺も……。[r]
+　俺もここに残る……」[pcms]
 
 *3831|
 [fc]
-[ns]Jin[nse]
-"Hmph... That's fine by me. But if you're going to stay[r]
-here, stop acting like a yakuza. This place has nothing to[r]
-do with gangs. You are you."[pcms]
+[ns]壬[nse]
+「フン……それはそれで俺は構わねぇ。[r]
+　だけどな、ここにいる以上、極道ぶんのはもうやめろ。[r]
+　ここは組なんか関係ねぇ。お前は、お前なんだからな」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3832|
 [fc]
-[ns]Shigeyoshi[nse]
-"Yeah! Got it! I'm not your underling or a member of the[r]
-gang anymore. I'm Shigeyoshi! That's good enough, right!?"[pcms]
+[ns]重吉[nse]
+「ああ！　判ったよ！[r]
+　俺ァ、アンタの子分でも、組の一員でもねぇ。[r]
+　俺ァ、重吉だ！　それで良いんだろ！？」[pcms]
 
 *3833|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *3834|
 [fc]
-That attitude, it's like you're saying you're not convinced.[pcms]
+この態度、納得してないって言ってるようなモンじゃねぇか。[pcms]
 
 *3835|
 [fc]
-[ns]Jin[nse]
-"Tch... Ridiculous. I ended up blabbering about such[r]
-nonsense... Damn it..."[pcms]
+[ns]壬[nse]
+「チッ……くだらねぇ。[r]
+　くだらねぇ事ベラベラ喋っちまったな……。[r]
+　クソが……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3836|
 [fc]
-Is it because I'm not drunk enough? My mouth's moving on its[r]
-own for no reason.[pcms]
+酒が足りねぇのか。[r]
+無駄に口が動いちまった。[pcms]
 
 *3837|
 [fc]
-Should I drink some more...?[pcms]
+飲み直すか……。[pcms]
 
 
 ;[zapend_random]

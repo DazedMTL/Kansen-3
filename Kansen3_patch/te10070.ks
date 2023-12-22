@@ -8,7 +8,7 @@
 ;//・視点：主人公一人称
 ;//登場人物:主人公・マルガリータ
 ;//時間帯：
-;//・時間：６日目（８月２０日）朝
+;//・時間：６日目（８月２０日）朝～
 ;//テキスト分量：12k
 ;//--------------------------------------------------------------------
 ;//マルガリータルート：
@@ -53,21 +53,19 @@
 *354|
 [fc]
 [vo_mar s="maru_TE0134"]
-[ns]Margarita[nse]
-"I never knew... there were so many stars. Amazing... so[r]
-beautiful."[pcms]
+[ns]マルガリータ[nse]
+「こんな……こんなに星があったんだ。凄い……綺麗だ」[pcms]
 
 *355|
 [fc]
-Maruko-senpai's silhouette emerges softly against the[r]
-backdrop of the starry sky. Her flowing golden hair reflects[r]
-the stars, shining brighter than usual.[pcms]
+満天の星空を背景に柔らい線で浮き上がるマル子先輩の[r]
+シルエット。流れる金色の髪には星が映り込み、いつもより[r]
+輝いていた。[pcms]
 
 *356|
 [fc]
-My eyes, accustomed to the dark, saw a single tear[r]
-reflecting the moonlight as it rolled down Maruko-senpai's[r]
-cheek.[pcms]
+暗闇に慣れたボクの目は、マル子先輩の頬に、月明かりを[r]
+反射しながら流れ落ちるひと粒の涙を見ていた。[pcms]
 
 [evcg storage="EV015l"][trans_c cross time=300]
 
@@ -76,71 +74,69 @@ cheek.[pcms]
 *357|
 [fc]
 [vo_mar s="maru_TE0135"]
-[ns]Margarita[nse]
-"...it's just like, just like... ugh."[pcms]
+[ns]マルガリータ[nse]
+「……まるで、まるで……ううっ」[pcms]
 
 *358|
 [fc]
-[ns]Wataru[nse]
-"Maruko-senpai...?"[pcms]
+[ns]航[nse]
+「マル子先輩……？」[pcms]
 
 [evcg storage="EV015j"][trans_c cross time=300]
 
 *359|
 [fc]
 [vo_mar s="maru_TE0136"]
-[ns]Margarita[nse]
-"...Hmph. Ayase... It reminds me of the starry sky I saw[r]
-back in my hometown. Lying next to my mother... saying it[r]
-was just as beautiful. It's the same as that starry sky from[r]
-my memories with my mother..."[pcms]
+[ns]マルガリータ[nse]
+「……っく。アヤセ……。昔、故郷で見た星空を思い出した。[r]
+　母様と並んで……やっぱり同じように綺麗だって言って。[r]
+　あのときの、母様との思い出の星空と……同じだ……っ」[pcms]
 
 *360|
 [fc]
-Maruko-senpai murmured with a tearful voice, taking out a[r]
-blue marble and holding it up to the moonlight. The blue[r]
-marble I found and gave to Maruko- senpai.[pcms]
+マル子先輩は涙声でそうつぶやき、青いビー玉を取り出して、[r]
+月明かりにかざした。ボクが見つけて、マル子先輩にあげた[r]
+青いビー玉。[pcms]
 
 *361|
 [fc]
-The moon's light penetrated the marble, casting a faint and[r]
-mysterious blue glow.[pcms]
+月の光がビー玉に差し込んで、淡くて青い、不思議な輝きを[r]
+放っていた。[pcms]
 
 [evcg storage="EV015m"][trans_c cross time=300]
 
 *362|
 [fc]
 [vo_mar s="maru_TE0137"]
-[ns]Margarita[nse]
-"This same marble, when I lost my mother, I... threw it[r]
-away. I put it in her coffin with her... At that time, I[r]
-threw away all my memories and everything along with it..."[pcms]
+[ns]マルガリータ[nse]
+「これと同じビー玉を、母様を失ったとき、ワタシは……[r]
+　捨てたんだ。母様の棺に一緒に入れて……そのときワタシは[r]
+　それまでの、思い出も何もかも、一緒に捨てた……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *363|
 [fc]
 [vo_mar s="maru_TE0138"]
-[ns]Margarita[nse]
-"The marble from back then, I had actually lost it once when[r]
-I was a child. But a boy found it for me, and since then[r]
-I've always cherished it. It was one of my childhood[r]
-treasures."[pcms]
+[ns]マルガリータ[nse]
+「あのときのビー玉は、本当は子供の頃一度なくしていた。[r]
+　でも、男の子が見つけてくれて、それ以来ずっと大事に[r]
+　していた。ワタシの子供のころの宝物のひとつだったんだ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *364|
 [fc]
 [vo_mar s="maru_TE0139"]
-[ns]Margarita[nse]
-"But when I lost my mother, I thought I didn't need[r]
-treasures anymore. I thought I had to break away from my[r]
-childish self... So, I threw it away..."[pcms]
+[ns]マルガリータ[nse]
+「でも、ワタシは母様を亡くしたとき、もう宝物はいらないと[r]
+　思った。子供のワタシと……決別しなくちゃいけないと[r]
+　そのときは思った。だから、捨てた……」[pcms]
 
 *365|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 [evcg storage="EV015n"][trans_c cross time=300]
 
@@ -149,34 +145,33 @@ childish self... So, I threw it away..."[pcms]
 *366|
 [fc]
 [vo_mar s="maru_TE0140"]
-[ns]Margarita[nse]
-"But then, Ayase gave me another marble. It's as if my[r]
-mother... was telling me not to throw it away, that the[r]
-child I was is why I am who I am today..."[pcms]
+[ns]マルガリータ[nse]
+「でも、アヤセがまたビー玉をワタシに渡してくれた。[r]
+　きっと母様が……捨てちゃいけないって、子供のころの[r]
+　ワタシがいたから、今のワタシがいるんだって……」[pcms]
 
 [evcg storage="EV015j"][trans_c cross time=300]
 
 *367|
 [fc]
 [vo_mar s="maru_TE0141"]
-[ns]Margarita[nse]
-"I felt like through Ayase, my mother was letting me reclaim[r]
-what I shouldn't have thrown away..."[pcms]
+[ns]マルガリータ[nse]
+「母様が……アヤセを通して、ワタシに捨てるべきでは[r]
+　なかったものを取り戻させてくれたような気がしてた……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *368|
 [fc]
 [vo_mar s="maru_TE0142"]
-[ns]Margarita[nse]
-"Now, looking at this starry sky that's just as precious as[r]
-my memories with my mother, I'm certain... I wasn't wrong to[r]
-feel that way."[pcms]
+[ns]マルガリータ[nse]
+「今……母様との大事な思い出と同じ、この星空を見て[r]
+　確信した……そう感じたのは間違ってないって」[pcms]
 
 *369|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「……！」[pcms]
 
 [evcg storage="EV015i"][trans_c cross time=300]
 
@@ -185,15 +180,15 @@ feel that way."[pcms]
 *370|
 [fc]
 [vo_mar s="maru_TE0143"]
-[ns]Margarita[nse]
-"Thank you, Ayase... I'll cherish this. You've helped me[r]
-reclaim both my memories with my mother and what I had cast[r]
-aside. I'll always treasure it..."[pcms]
+[ns]マルガリータ[nse]
+「ありがとう、アヤセ……これ、大事にする。[r]
+　アヤセは母様との思い出も、ワタシが捨て去ったことも[r]
+　取り戻してくれた。宝物としてずっと大事に……する」[pcms]
 
 *371|
 [fc]
-With slightly teary eyes, Maruko-senpai smiled and gazed at[r]
-me...[pcms]
+少し涙目で、マル子先輩が微笑みながら、ボクを[r]
+見つめていた……。[pcms]
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
@@ -206,23 +201,22 @@ me...[pcms]
 *372|
 [fc]
 [vo_mar s="maru_TE0144"]
-[ns]Margarita[nse]
-"Mm... ah... ah!"[pcms]
+[ns]マルガリータ[nse]
+「ん……ん……ぁっ……」[pcms]
 
 *373|
 [fc]
-Without knowing who initiated it, Maruko-senpai and I[r]
-brought our faces closer and our lips met. It was like a[r]
-scene straight out of a movie. I could feel Marie's elastic[r]
-lips.[pcms]
+ボクとマル子先輩は、どちらからともなく顔を寄せ、唇を[r]
+重ね合った。まるで映画の中のワンシーンのように。[r]
+弾力のあるマリーの唇をボクは感じていた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *374|
 [fc]
 [vo_mar s="maru_TE0145"]
-[ns]Margarita[nse]
-"Mm... ah..."[pcms]
+[ns]マルガリータ[nse]
+「んっ……ん……」[pcms]
 
 
 
@@ -234,79 +228,79 @@ lips.[pcms]
 
 *375|
 [fc]
-When our lips parted, Maruko-senpai looked back at me with[r]
-an inquiring gaze.[pcms]
+唇を離すと、問うような眼差しでマル子先輩が見返してくる。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *376|
 [fc]
 [vo_mar s="maru_TE0146"]
-[ns]Margarita[nse]
-"...Ayase... is this okay? That... you have feelings for[r]
-Yuuho..."[pcms]
+[ns]マルガリータ[nse]
+「……アヤセ……いいのか？[r]
+　その……アヤセはユウホのことが……」[pcms]
 
 *377|
 [fc]
-[ns]Wataru[nse]
-"Maruko... no, Marie. Please listen without laughing?"[pcms]
+[ns]航[nse]
+「マル子……いや、マリー。笑わないで聴いてくれる？」[pcms]
 
 *378|
 [fc]
-[ns]Wataru[nse]
-"I used to think of you... like a princess from another[r]
-star. So beautiful that all I could do was admire you from[r]
-afar."[pcms]
+[ns]航[nse]
+「ボクは……マリーのこと、どこか他の星から来た[r]
+　お姫さまみたいに思っていたんだ。あんまりにも綺麗で、[r]
+　遠巻きに眺めるしかないお姫さまみたいだって」[pcms]
 
 *379|
 [fc]
-[ns]Wataru[nse]
-"We had a few chances to talk. But even when we did talk, it[r]
-didn't feel real. It was like being in a dream."[pcms]
+[ns]航[nse]
+「話す機会は、何回かあったけど。でも話をしていても[r]
+　なんだか現実味がなかった。夢を見ているみたいだった」[pcms]
 
 [evcg storage="EV015k"][trans_c cross time=300]
 
 *380|
 [fc]
 [vo_mar s="maru_TE0147"]
-[ns]Margarita[nse]
-"That's not..."[pcms]
+[ns]マルガリータ[nse]
+「そんなことは……」[pcms]
 
 *381|
 [fc]
-[ns]Wataru[nse]
-"No, that's really what I thought. A beautiful princess from[r]
-a distant star... someone to be admired from afar."[pcms]
+[ns]航[nse]
+「いや、本当にそう思ってた。遠い星から来た綺麗な[r]
+　手の届かないお姫さま……。[r]
+　眺めてるだけでいいと思ってたんだ」[pcms]
 
 [evcg storage="EV015m"][trans_c cross time=300]
 
 *382|
 [fc]
-[ns]Wataru[nse]
-"But... no matter how it started, getting to know Marie[r]
-better, talking and living together... Marie's presence in[r]
-my life became more and more real."[pcms]
+[ns]航[nse]
+「でも……きっかけはどうあれ、マリーと仲良くなることが[r]
+　できて、話も、一緒に生活もして……どんどんボクの中で[r]
+　マリーの存在は現実味を伴って大きくなっていった」[pcms]
 
 *383|
 [fc]
-[ns]Wataru[nse]
-"Eventually... I started wanting more. Wanting to get[r]
-closer, to be together... It was a different kind of burning[r]
-desire than what I felt for Yuuho."[pcms]
+[ns]航[nse]
+「そのうちに……ボクは欲が出てきていた。[r]
+　もっと仲良くなりたい。一緒にいたいって……悠帆に[r]
+　感じていたものとは、全然違う、別物の熱い欲があった」[pcms]
 
 *384|
 [fc]
-[ns]Wataru[nse]
-"Still, I didn't have the confidence to say anything... But[r]
-now it's different. Just now, when Marie showed me trust.[r]
-When she understood me..."[pcms]
+[ns]航[nse]
+「それでも、まだボクには言い出せる自信がなかった……。[r]
+　でも今は違うよ。ついさっき、マリーがボクを信頼[r]
+　してくれてるって。ボクをわかってくれてるって……」[pcms]
 
 *385|
 [fc]
-[ns]Wataru[nse]
-"...Marie, Margarita... I like you. I'm still unreliable,[r]
-but I'll work hard to be worthy of your trust. I want to[r]
-walk into the future together with you."[pcms]
+[ns]航[nse]
+「……マリー、マルガリータ……。ボクはマリーが好きだ。[r]
+　まだまだ頼りないボクだけど、マリーの信頼に足るように[r]
+　頑張る。ボクはマリーと一緒にこの先を歩いていきたいんだ」[pcms]
 
 [evcg storage="EV015i"][trans_c cross time=300]
 
@@ -315,9 +309,9 @@ walk into the future together with you."[pcms]
 *386|
 [fc]
 [vo_mar s="maru_TE0148"]
-[ns]Margarita[nse]
-"...Wataru. ...Yes... yes, thank you. I also want to walk[r]
-together with Wataru..."[pcms]
+[ns]マルガリータ[nse]
+「……ワタル。……うん……うん、ありがとう。ワタシも[r]
+　ワタルと一緒に歩いていきたい……」[pcms]
 
 ;//★_マルガリータと航のキスシーン（イベント画あり？）
 
@@ -328,21 +322,22 @@ together with Wataru..."[pcms]
 *387|
 [fc]
 [vo_mar s="maru_TE0149"]
-[ns]Margarita[nse]
-"Mm... nchu... chu... mmm..."[pcms]
+[ns]マルガリータ[nse]
+「んっ……んちゅっ……ちゅっ……んんっ……」[pcms]
 
 *388|
 [fc]
-Holding Marie as she hugged me, we kissed again. This time[r]
-the kiss was a bit more passionatea kiss savoring Marie.[pcms]
+抱き付いてきたマリーを受けとめて、ボクたちは、[r]
+また唇を重ねた。さっきよりも少しだけ情熱的なキス。[r]
+マリーを味わうキスを。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *389|
 [fc]
 [vo_mar s="maru_TE0150"]
-[ns]Margarita[nse]
-"Chu... mm... mmmchu..."[pcms]
+[ns]マルガリータ[nse]
+「ちゅ……んっ……んんっちゅっ……」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 ;[sysbt_meswin clear]
@@ -362,53 +357,51 @@ the kiss was a bit more passionatea kiss savoring Marie.[pcms]
 
 *390|
 [fc]
-Lights began to appear behind the blushing Marie. Looking[r]
-around, lights were coming back on in places like Celesta[r]
-Tower and Mark City.[pcms]
+頬を染めたマリーの後ろにいくつか灯りがともっていた。[r]
+見回すと、セレスタワーやマークシティなんかに灯りが[r]
+よみがえっている。[pcms]
 
 *391|
 [fc]
-[ns]Wataru[nse]
-"Maybe there's some kind of backup power..."[pcms]
+[ns]航[nse]
+「予備電源……とかがあるのかな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *392|
 [fc]
 [vo_mar s="maru_TE0151"]
-[ns]Margarita[nse]
-"Eh? Oh, probably..."[pcms]
+[ns]マルガリータ[nse]
+「え？　あ、ああ。たぶん……」[pcms]
 
 *393|
 [fc]
-I looked up at the night sky again. The stars were still[r]
-shining brightly. But the beauty from before couldn't be[r]
-felt anymore.[pcms]
+ボクは夜空を仰ぎ見た。まだまだ星が輝いている。[r]
+でも、さっきまでの美しさは感じられなかった。[pcms]
 
 *394|
 [fc]
-Taking the marble that Marie had been clutching in her hand[r]
-and holding it up to the moonlight while holding her hand.[r]
-The mysterious glow of pale blue.[pcms]
+マリーが握りしめいていたビー玉を、手を取りながら[r]
+受け取り月明かりにかざす。淡い青の不思議な輝き。[pcms]
 
 *395|
 [fc]
-[ns]Wataru[nse]
-"It's similar to you, Marie, this light. It's beautiful."[pcms]
+[ns]航[nse]
+「マリーに似てるよ、この光り。綺麗だね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *396|
 [fc]
 [vo_mar s="maru_TE0152"]
-[ns]Margarita[nse]
-"Eh...!"[pcms]
+[ns]マルガリータ[nse]
+「えっ……！」[pcms]
 
 *397|
 [fc]
-Taking Marie's hand that had turned red again, we began[r]
-walking. A light that rivaled the stars in the sky, one that[r]
-captivated more than they didI had obtained it...[pcms]
+ふたたび頬を染めたマリーの手を取ってボクは歩きはじめる。[r]
+空の星に負けない、それ以上に輝いて魅了する光りを[r]
+ボクは手に入れることができた……。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -430,15 +423,14 @@ captivated more than they didI had obtained it...[pcms]
 
 *398|
 [fc]
-[ns]Wataru[nse]
-"So suddenly..."[pcms]
+[ns]航[nse]
+「そ、そんないきなり……」[pcms]
 
 *399|
 [fc]
-Marie began undressing herself without warning. In a hurry,[r]
-I also started taking off my clothes. Once Marie finished[r]
-undressing, she knelt before me and took hold of my thing[r]
-with her large breasts.[pcms]
+マリーは自分で服を脱ぎ始めた。ボクも慌てて服を脱ぐ。[r]
+脱ぎ終えたマリは、すぐにボクの前にひざまずき、[r]
+ボクのモノを手にとって大きなおっぱいで挟み込んだ。[pcms]
 
 ;//〆HEV0650
 
@@ -456,19 +448,18 @@ with her large breasts.[pcms]
 *400|
 [fc]
 [vo_mar s="maru_TE0153"]
-[ns]Margarita[nse]
-"Hm? What's wrong?"[pcms]
+[ns]マルガリータ[nse]
+「ん？　どうした？」[pcms]
 
 *401|
 [fc]
-[ns]Wataru[nse]
-"No, it's just that..."[pcms]
+[ns]航[nse]
+「い、いや、その……」[pcms]
 
 *402|
 [fc]
-I wondered if Marie wasn't inexperienced after all... Was[r]
-she used to this? Despite these thoughts, I entrusted[r]
-everything to Marie.[pcms]
+やっぱりマリーは初めてじゃないのかな……。慣れてる？[r]
+そう思いながらも、ボクは全てをマリーにゆだねていた。[pcms]
 
 ;//Ｂ：ペニスを銜えるマル子
 [evcg storage="HEV061b"][trans_c cross time=300]
@@ -478,49 +469,50 @@ everything to Marie.[pcms]
 *403|
 [fc]
 [vo_mar s="maru_TE0154"]
-[ns]Margarita[nse]
-"Mm--...eluuun...ju...jubu... Juru... mmchu... leruu...[r]
-chunn... eluuun... ryubu... jup..."[pcms]
+[ns]マルガリータ[nse]
+「んーー……え゛るぅうんっ……ぢゅ……ぢゅぶっ……。[r]
+　ぢゅるっ……んっちゅっ……れるぅ……ちゅっんっ……[r]
+　え゛るぅうっん……りゅぶっ……ぢゅぷっ……」[pcms]
 
 *404|
 [fc]
-Her elastic breasts compressed my dick while she sucked it[r]
-into her hot mouth, and then she licked the ridge with the[r]
-tip of her tongue. The fine movements of her tongue made my[r]
-dick even harder.[pcms]
+弾力のあるおっぱいでボクのモノを圧迫しながら、熱い咥内に[r]
+吸い込んで、更にその中でカリの部分を舌先でれるれると[r]
+舐めている。舌先の細かい動きがボクのモノを更に硬くする。[pcms]
 
 *405|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Ahh..."[pcms]
+[ns]航[nse]
+「うっ……うあっ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *406|
 [fc]
 [vo_mar s="maru_TE0155"]
-[ns]Margarita[nse]
-"Njuruun... Nha... Wataru, does it feel good?"[pcms]
+[ns]マルガリータ[nse]
+「んぢゅるっん……んはっ……。ワタル……気持ち良いか？」[pcms]
 
 *407|
 [fc]
-[ns]Wataru[nse]
-"Yeah... It feels amazing..."[pcms]
+[ns]航[nse]
+「う、うん……すっごく気持ちいい……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *408|
 [fc]
 [vo_mar s="maru_TE0156"]
-[ns]Margarita[nse]
-"Is that so...? I'm glad... Nn... Amuu, jup, jubu... Nchu...[r]
-Churure... Jujyu... Nnn... Nchu..."[pcms]
+[ns]マルガリータ[nse]
+「そうか……。嬉しい……。んっ……あ゛むうっぢゅっ、[r]
+　ぢゅぶっ……んちゅう……ちゅるれっ……ぢゅぢゅっ[r]
+　……んっんっ……んちゅっ……」[pcms]
 
 *409|
 [fc]
-Marie's saliva coated my dick, and seeing that, she began to[r]
-sway her breasts. The improved lubrication made jerking off[r]
-my dick while it was sandwiched between them even better.[pcms]
+マリーの唾液がボクのモノにまぶされていき、それを見たマリーは[r]
+自分のおっぱいをゆさゆさと揺らし始めた。滑りが良くなっていて[r]
+ボクのモノは、はさまれたまましごかれる。[pcms]
 
 [evcg storage="HEV061c"][trans_c cross time=300]
 
@@ -529,21 +521,20 @@ my dick while it was sandwiched between them even better.[pcms]
 *410|
 [fc]
 [vo_mar s="maru_TE0157"]
-[ns]Margarita[nse]
-"Nchuuru... Jubu... Nchu... Amu... Reruchu... Jubo...[r]
-Jup..."[pcms]
+[ns]マルガリータ[nse]
+「んちゅうぅるっ……ぢゅぶっ……んっちゅうぅ……[r]
+　あむっ……れるっちゅ……ぢゅぼっ……ぢゅぷっ……」[pcms]
 
 *411|
 [fc]
-Marie shook her golden hair and moved her head back and[r]
-forth while lifting her breasts with her hands and[r]
-vigorously jerking me off. My entire dick was enveloped in[r]
-hot, soft flesh...[pcms]
+マリーは金色の髪を波打たせながら、頭を前後に動かして[r]
+同時におっぱいを自分で持ち上げて激しくしごきあげる。[r]
+ボクのモノ全体が熱くて柔らかい肉に包まれて……。[pcms]
 
 *412|
 [fc]
-[ns]Wataru[nse]
-"Ugh, Marie, I'm sorry...!!"[pcms]
+[ns]航[nse]
+「うっ、マリー、もう、ごめ……っっ！！」[pcms]
 
 ;//#_ホワイトフラッシュ
 
@@ -558,13 +549,13 @@ hot, soft flesh...[pcms]
 *413|
 [fc]
 [vo_mar s="maru_TE0158"]
-[ns]Margarita[nse]
-"Nbu... Amuu... Nnnahh"[pcms]
+[ns]マルガリータ[nse]
+「んぶっ……あむっっ……んっんっあっ」[pcms]
 
 *414|
 [fc]
-I couldn't hold back and ended up ejaculating inside Marie's[r]
-mouth in no time.[pcms]
+ボクは押さえきれずに、あっという間にマリーの口の中に[r]
+発射してしまっていた。[pcms]
 
 ;//〆Ｅ：飲み干すマル子
 [evcg storage="HEV061f"][trans_c cross time=300]
@@ -574,13 +565,13 @@ mouth in no time.[pcms]
 *415|
 [fc]
 [vo_mar s="maru_TE0159"]
-[ns]Margarita[nse]
-"Nnn... Nk... N"[pcms]
+[ns]マルガリータ[nse]
+「んっ……んくっ……ん」[pcms]
 
 *416|
 [fc]
-Marie's white throat made a small sound, "nkun," as she[r]
-opened her mouth and looked up at me.[pcms]
+マリーの白い喉が小さく、んくんと鳴った。[r]
+マリーは口を開けて、ボクを見上げる。[pcms]
 
 ;//Ｆ：飲み終わったことを見せるマル子（Ｄの液無し）
 [evcg storage="HEV061g"][trans_c cross time=300]
@@ -590,15 +581,15 @@ opened her mouth and looked up at me.[pcms]
 *417|
 [fc]
 [vo_mar s="maru_TE0160"]
-[ns]Margarita[nse]
-"I've swallowed it all... Wataru's semen... It was[r]
-delicious... Nfu..."[pcms]
+[ns]マルガリータ[nse]
+「飲み干したぞ……ワタルのザーメン……。[r]
+　美味しかった…………んふぅ……」[pcms]
 
 *418|
 [fc]
-The first blowjob and titjob from a girl I liked. She drank[r]
-every last drop. Even as I felt dizzy from the stimulation,[r]
-I was moved.[pcms]
+初めてのフェラチオに初めてのパイズリ。[r]
+好きな女の子にしてもらって、一滴残さず飲んでもらって。[r]
+その刺激にクラクラしながらも、ボクは感動さえ憶えていた。[pcms]
 
 ;//♂_緒織としてもこのルートに来られるのか判断出来なかったので、
 ;//緒織としてもここにこられる場合は、最初の一文を消す事
@@ -610,20 +601,21 @@ I was moved.[pcms]
 
 *419|
 [fc]
-Marie then moved away from me for a moment and folded down[r]
-the sofa bed.[pcms]
+マリーはボクからいったん離れると、ソファベットを[r]
+倒した。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_m6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *420|
 [fc]
 [vo_mar s="maru_TE0161"]
-[ns]Margarita[nse]
-"Wataru... lie down beside me..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……よ、横になって……」[pcms]
 
 *421|
 [fc]
-I lay down on my back on the bed as Marie urged me to.[pcms]
+ボクはマリーに促されるまま、ベッドの上に仰向けに[r]
+寝転がった。[pcms]
 
 ;//〆HEV066
 
@@ -632,34 +624,34 @@ I lay down on my back on the bed as Marie urged me to.[pcms]
 
 *422|
 [fc]
-Marie climbed on top of me, right above my hip bones. Her[r]
-crotch pressed against the area below my navel. Looking up[r]
-at her, her hands were on her chest, squeezing her breasts[r]
-between them.[pcms]
+マリーはボクの上に乗ってきた。ちょうど、腰骨の上あたり。[r]
+ヘソの下あたりにアソコが密着する。下から見上げる姿態。[r]
+胸の上に両手をついてその間におっぱいが挟まれていた。[pcms]
 
 *423|
 [fc]
-Wataru and Marie locked eyes for a moment. Her cheeks were[r]
-tinged with a slightly flushed pink color. Her large, soft[r]
-breasts rose and fell slowly.[pcms]
+ボクとマリーはそのまましばし視線を絡ませた。[r]
+少し上気したピンク色に染まる頬。ゆっくり上下する大きくて[r]
+柔らかそうなふたつのおっぱい。[pcms]
 
 *424|
 [fc]
-The sight entering my eyes quickly revived my dick, and with[r]
-that momentum, I lightly spanked Marie's butt.[pcms]
+その目から入る刺激に、あっという間にボクのモノは[r]
+復活して、その勢いのままに、軽くマリーのお尻を[r]
+叩いてしまった。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *425|
 [fc]
 [vo_mar s="maru_TE0162"]
-[ns]Margarita[nse]
-"Fuaah... Wataru... You're energetic again... Nn."[pcms]
+[ns]マルガリータ[nse]
+「ふあっ……ワタル……元気になったな……んっ。」[pcms]
 
 *426|
 [fc]
-Marie stroked my dick without looking back, making it even[r]
-harder and more erect.[pcms]
+マリーが後ろ手で、振り返らずにボクのモノをすうっと[r]
+撫でたので、ボクのモノは更に反りかえって硬くなっていた。[pcms]
 
 [evcg storage="HEV044c"][trans_c cross time=300]
 
@@ -668,19 +660,19 @@ harder and more erect.[pcms]
 *427|
 [fc]
 [vo_mar s="maru_TE0163"]
-[ns]Margarita[nse]
-"Wataru... Touch my breasts..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……ワタシの胸を触って……」[pcms]
 
 *428|
 [fc]
-Marie took my hands and pressed them against her breasts.[r]
-Was it my imagination? Her fingertips seemed to be trembling[r]
-slightly...[pcms]
+マリーはボクの両手を取り、そのままボクの手のひらを[r]
+マリーのおっぱいに押し付けた。気のせいかな……。[r]
+かすかにマリーの指先が震えている……。[pcms]
 
 *429|
 [fc]
-I began to knead Marie's breasts slowly, as if confirming[r]
-their elasticity and softness.[pcms]
+ボクはゆっくりとその弾力と柔らかさを確かめるように[r]
+マリーのおっぱいを揉み始めた。[pcms]
 
 [evcg storage="HEV044d"][trans_c cross time=300]
 
@@ -689,81 +681,81 @@ their elasticity and softness.[pcms]
 *430|
 [fc]
 [vo_mar s="maru_TE0164"]
-[ns]Margarita[nse]
-"Nnn... Haaah... Ahh..."[pcms]
+[ns]マルガリータ[nse]
+「んっ……はあっ……あっ……」[pcms]
 
 *431|
 [fc]
-They were soft and smooth, letting my hands feel their full[r]
-weight. The pink nipples at their peaks. I pinched them[r]
-gently with my fingertips.[pcms]
+柔らかい。すべすべとしていて、ボクの手にたっぷりとした[r]
+重量感を味わわせる。頂点に置かれているピンク色の乳首。[r]
+ボクは指先で、くにくにと摘んだ。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *432|
 [fc]
 [vo_mar s="maru_TE0165"]
-[ns]Margarita[nse]
-"Ahnahh... Fuanh... It feels good... Wataru, that feels...[r]
-good..."[pcms]
+[ns]マルガリータ[nse]
+「あんあっ……ふあんっ……気持ちいい……ワタル、それ[r]
+　気持ち……いい……」[pcms]
 
 *433|
 [fc]
-I pinched the now hard nipples even more with my fingertips,[r]
-crushing them slightly, while the rest of my fingers[r]
-continued to softly knead her increasingly firm breasts.[pcms]
+ボクは硬くなってきた乳首を、更に指先で押しつぶすように[r]
+ぐにぐにと摘み、残っている指で更に張りを増してきた[r]
+おっぱいを柔らかく揉みししだいた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *434|
 [fc]
 [vo_mar s="maru_TE0166"]
-[ns]Margarita[nse]
-"Fuaahh... Aah. Nnfuahnn"[pcms]
+[ns]マルガリータ[nse]
+「ふああっ……、ああっ。んっふあっん」[pcms]
 
 *435|
 [fc]
-Marie's hips moved slightly, and I felt a slickness where[r]
-our skin was in contact. At the same time, a sweet scent[r]
-tickled my nose. My dick twitched in response and spanked[r]
-Marie again.[pcms]
+マリーの腰がかすかに動き、ボクの肌と密着していた部分に[r]
+ぬめりを感じた。同時に甘い香りがボクの鼻をくすぐる。[r]
+ボクのモノは触発されて、ビクンと動きまたマリーを叩く。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *436|
 [fc]
 [vo_mar s="maru_TE0167"]
-[ns]Margarita[nse]
-"Ah! Aaah... It's twitching again... Wataru's... Nnhahaa...[r]
-I'm getting wet... Can you tell? Aaah. I feel so good..."[pcms]
+[ns]マルガリータ[nse]
+「あっ。ああっ……また、びくんって……ワタルの……[r]
+　んっはああっ……濡れて……きてる……よ、ワタシ。[r]
+　ワタル、わか……る？　ああっ。ワタシ、気持ちい……っ」[pcms]
 
 *437|
 [fc]
-Marie's white skin turned peach-colored. She began to sweat[r]
-slightly, increasing the contact with my skin. Her breasts[r]
-were stuck to my palms, and her crotch to my hips![pcms]
+マリーの白い肌が、桃色に染まっていく。うっすらと[r]
+汗ばんできて、更にボクの肌との密着が高まる。手のひらに[r]
+おっぱいが、腰にアソコが吸い付いてくるっ！[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *438|
 [fc]
 [vo_mar s="maru_TE0168"]
-[ns]Margarita[nse]
-"Wataru... Do you want to insert it? Fuaahnn... I'm going to[r]
-insert it... Is that okay?"[pcms]
+[ns]マルガリータ[nse]
+「ワタル……挿れたい？　ふあっん……挿れる……ぞ。[r]
+　良い……か……？」[pcms]
 
 *439|
 [fc]
-[ns]Wataru[nse]
-"Yes, Marie. Inside you... quickly"[pcms]
+[ns]航[nse]
+「うん、マリー。マリーの中に……早く」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *440|
 [fc]
 [vo_mar s="maru_TE0169"]
-[ns]Margarita[nse]
-"Yeah... I'm going to insert it..."[pcms]
+[ns]マルガリータ[nse]
+「うん……挿れる……ぞ……」[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//〆Ｂ：破瓜
@@ -771,34 +763,34 @@ insert it... Is that okay?"[pcms]
 
 *441|
 [fc]
-Marie lifted her hips slightly, guided my dick with her[r]
-hand, and pressed the tip against her crotch. Instead of[r]
-inserting it right away, she rubbed it against herself.[pcms]
+マリーは少し腰を浮かし、ボクのモノに手を添えて、先端を[r]
+アソコにあてがう。すぐには挿れず、ずりずりと自分の[r]
+アソコに擦りつけている。[pcms]
 
 *442|
 [fc]
-A warm, slippery fluid trickled down onto my dick. Breathing[r]
-a bit heavily, Marie finally allowed just the tip of my dick[r]
-to enter her entrance.[pcms]
+ぬるっとした暖かい汁がボクのモノにとろっとつたってくる。[r]
+少し息を荒げながら、マリーはようやくボクのモノをアソコの[r]
+入り口に少しだけ埋めてくれた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *443|
 [fc]
 [vo_mar s="maru_TE0170"]
-[ns]Margarita[nse]
-"Nnn... Kuh..."[pcms]
+[ns]マルガリータ[nse]
+「んっ……くっ……」[pcms]
 
 *444|
 [fc]
-Just the entrance was already hot. My dick was buried just a[r]
-little inside Marie's entrance, both glistening wetly, which[r]
-excited me even more.[pcms]
+入り口だけですでに熱い。ボクのモノはマリーのアソコの[r]
+入り口にちょっとだけ埋まっていて、アソコもボクのモノも[r]
+てらてらと光り、その光景がボクをより興奮させていた。[pcms]
 
 *445|
 [fc]
-[ns]Wataru[nse]
-"Ma-Marie... Let me insert it... I'm going to explode..."[pcms]
+[ns]航[nse]
+「マ、マリー……挿れさせて……爆発しちゃうよ……」[pcms]
 
 [evcg storage="HEV044e"][trans_c cross time=300]
 
@@ -807,99 +799,100 @@ excited me even more.[pcms]
 *446|
 [fc]
 [vo_mar s="maru_TE0171"]
-[ns]Margarita[nse]
-"Uhh... Yeah. I understand... Nnn... Kuu..."[pcms]
+[ns]マルガリータ[nse]
+「う……うんっ。わかって……んっ……くうっ……」[pcms]
 
 *447|
 [fc]
-Marie sank her hips down hard. My dick was swallowed up by[r]
-her in one go.[pcms]
+マリーがぐっと腰を沈めてきた。ボクのモノは、一気に[r]
+マリーの中へと飲み込まれていく。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *448|
 [fc]
 [vo_mar s="maru_TE0172"]
-[ns]Margarita[nse]
-"Naaaaah!! Aaahahh, it's in... Aaaahn!"[pcms]
+[ns]マルガリータ[nse]
+「んああああっ！！　ああっあっ、入っ……あああっんっ！」[pcms]
 
 *449|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Fahh"[pcms]
+[ns]航[nse]
+「うっ……ふぁっ」[pcms]
 
 *450|
 [fc]
-My dick was tightly squeezed. The soft walls of flesh[r]
-emitted heat as they enveloped and pressed against me. The[r]
-pleasure was so intense I almost ejaculated.[pcms]
+ぎゅっとボクのモノは、締めつけられた。柔らかい肉の壁が[r]
+熱を発しながらボクのモノを押し包んでくる。[r]
+ボクは、あまりの快感に射精しそうになっていた。[pcms]
 
 *451|
 [fc]
-But not yet... I tensed my abdomen, gritted my teeth, bit my[r]
-lip, and looked up at Marie.[pcms]
+だけど、まだだ……と、腹に力を入れ、歯を食いしばり、[r]
+唇を噛みしめて、マリーを見上げた。[pcms]
 
 ;//〆Ｃ：告白（Ａのチンコ挿入差分）
 [evcg storage="HEV044d"][trans_c cross time=300]
 
 *452|
 [fc]
-[ns]Wataru[nse]
-"...? Marie?"[pcms]
+[ns]航[nse]
+「……？　マリー？」[pcms]
 
 *453|
 [fc]
-Marie's beautiful face furrowed with a vertical frown as she[r]
-trembled, impaled on my dick.[pcms]
+マリーは綺麗な顔の眉間に縦皺を寄せて、ぷるぷると[r]
+身体を震わせていた。ボクのモノに貫かれながら。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *454|
 [fc]
 [vo_mar s="maru_TE0173"]
-[ns]Margarita[nse]
-"Uhh... Nn. Kuu... Uhh... It's my first time... so, having[r]
-it inside me this deep... and it's so... hot and hard... I[r]
-didn't expect it... Kuu..."[pcms]
+[ns]マルガリータ[nse]
+「うっ……んっ。くうっ……うっ。……初めて……だった[r]
+　から……その、こんな奥まで入って……こんなに……[r]
+　熱くて……硬いと……思わなかっ……た……くっ……」[pcms]
 
 *455|
 [fc]
-Could it be...! Marie was a virgin. But indeed, she was[r]
-awkward. Her fingertips were trembling slightly.[pcms]
+まさか……！　マリーが処女だったなんて。[r]
+でも、確かにぎこちなかった。指先もかすかに震えていた。[pcms]
 
 *456|
 [fc]
-[ns]Wataru[nse]
-"Are you okay, Marie? Does it hurt...?"[pcms]
+[ns]航[nse]
+「だ、大丈夫、マリー？　痛いんじゃ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *457|
 [fc]
 [vo_mar s="maru_TE0174"]
-[ns]Margarita[nse]
-"I'm... okay. It's not that painful. I'm getting used to[r]
-it... now. Don't worry... about me."[pcms]
+[ns]マルガリータ[nse]
+「大……丈夫。そんなに……痛くないから。もう……落ち……[r]
+　着いてきてる……から。心配……する……な」[pcms]
 
 *458|
 [fc]
-[ns]Wataru[nse]
-"Marie... Are you really okay with me being your first?"[pcms]
+[ns]航[nse]
+「マリー……ボクが、ボクなんかが初めての相手で……[r]
+　本当に良かったの？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *459|
 [fc]
 [vo_mar s="maru_TE0175"]
-[ns]Margarita[nse]
-"Don't say things like 'me of all people', Wataru. I chose[r]
-you... I'm happy. Uh... I'm going to move now..."[pcms]
+[ns]マルガリータ[nse]
+「ボクなんか……なんて言うな、ワタル。ワタシが選んだ[r]
+　相手だ……嬉しいんだ、ワタシは。う……動くぞ……」[pcms]
 
 *460|
 [fc]
-Marie began to move her hips slowly. The vertical frown of[r]
-pain between her brows had not yet disappeared. Still, she[r]
-started to move her hips slowly.[pcms]
+マリーは、ゆっくりと腰を動かし始めた。まだ眉間の苦痛の[r]
+縦皺は消えていない。それでも、ゆっくりと腰を動かし[r]
+始めた。[pcms]
 
 ;//〆Ｄ：快感
 [evcg storage="HEV044f"][trans_c cross time=300]
@@ -909,150 +902,152 @@ started to move her hips slowly.[pcms]
 *461|
 [fc]
 [vo_mar s="maru_TE0176"]
-[ns]Margarita[nse]
-"Nnnahh... Kuuuhh... Itt... Aaah..."[pcms]
+[ns]マルガリータ[nse]
+「んっんあっ……くっうっうっ……いっ……ああっ……」[pcms]
 
 *462|
 [fc]
-I reached out and massaged Marie's breasts. The breasts she[r]
-said felt good earlier. I massaged them gently, hoping to[r]
-alleviate some of her pain.[pcms]
+ボクは手を伸ばしマリーのおっぱいを揉んだ。さっき[r]
+気持ちいいと言っていたおっぱい。少しでも苦痛が[r]
+和らげばいいと思いながら、優しく思いを込めて揉んだ。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *463|
 [fc]
 [vo_mar s="maru_TE0177"]
-[ns]Margarita[nse]
-"Fuaaah, my breasts... feel good... Nnaahh, itt... Aaah,[r]
-fuaaahnnn, aaahhannn. Wataru... you move too."[pcms]
+[ns]マルガリータ[nse]
+「ふああんっ、胸……気持ちいっ……んああっ、いっ……[r]
+　ああっ、ふああっんんっ、ああっあんっっ。ワタル……[r]
+　ワタルも、動い……て」[pcms]
 
 *464|
 [fc]
-[ns]Wataru[nse]
-"Uhh... Yeah."[pcms]
+[ns]航[nse]
+「うっ……うん」[pcms]
 
 *465|
 [fc]
-I was worried that it might hurt her more. But prompted by[r]
-Marie, I thrust my hips up from below, trying to match the[r]
-movement of her hips.[pcms]
+余計痛くなるのではないか。そんな事がちらっと頭を[r]
+かすめたけれど、ボクはマリーに促されるまま、下から腰を[r]
+突き上げ、マリーの腰の動きに合わせようとした。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *466|
 [fc]
 [vo_mar s="maru_TE0178"]
-[ns]Margarita[nse]
-"Aaaaah! Amazing... it's so good! Inside... My vagina is[r]
-hot... so hot! Wataru, do you feel good too?"[pcms]
+[ns]マルガリータ[nse]
+「あああっあっぁああっ、凄いぃ……すご……いいっ！[r]
+　中が……ワタシのヴァギナが、熱い……熱いぃっ！[r]
+　ワタル、ワタルも……ああっくうっ気持ちいっいいっ？」[pcms]
 
 *467|
 [fc]
-[ns]Wataru[nse]
-"Yeah. Yeah. Inside you, it feels good. It's hot and[r]
-tightens around me. It feels amazing, Marie."[pcms]
+[ns]航[nse]
+「うん。うんっ。マリーの中、気持ちいいよ。熱くて[r]
+　ぎゅって締めつけてきて。すっごく気持ちいいよ、マリー」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *468|
 [fc]
 [vo_mar s="maru_TE0179"]
-[ns]Margarita[nse]
-"Aaaah, I'm glad... Aaah, Wataru's too... Aaahh! Rubbing[r]
-inside my vagina... rubbing... Aaah! It still hurts a bit,[r]
-but it's hot and feels..."[pcms]
+[ns]マルガリータ[nse]
+「あああっ、う、嬉し……ああっ、ワタルのも……ああひっ[r]
+　ヴァギナの……中で……擦れ……擦れ……てっあああっ。[r]
+　ま……だ、痛い……けど、あっ熱くて……気持ち……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *469|
 [fc]
 [vo_mar s="maru_TE0180"]
-[ns]Margarita[nse]
-"Wataru's is hot too... Aaah, it's starting to feel good...[r]
-Kuuuhh ahh, ahhann ahh ahh!"[pcms]
+[ns]マルガリータ[nse]
+「ワタルの……も、熱いっ……ああっ気持ち良く……なって[r]
+　きてる……くうっああっ、ああっああんっああっああっ！[r]
+　擦れてえ……熱く……て、ワタルの……ああっああっんっ」[pcms]
 
 *470|
 [fc]
-Marie's hips began to move faster. The walls of flesh[r]
-writhed more than before, squeezing my thing tightly,[r]
-swirling around it, pulling it deeper and deeper.[pcms]
+マリーの腰が早く動き出した。さっきより肉の壁が蠢いて、[r]
+ボクのモノを締めつけ、ざわざわとまとわりつき、より奥へ[r]
+奥へとボクのモノを引っ張り込もうとしている。[pcms]
 
 *471|
 [fc]
-In front of me, golden hair leaped into the air. It was as[r]
-beautiful as a comet with a tail flying across the sky.[pcms]
+ボクの目の前で金色の髪が躍り上がる。まるで尾を引いて[r]
+飛んでいくほうき星、彗星のように綺麗だった。[pcms]
 
 *472|
 [fc]
-The pale blue mysterious light that I had captured was the[r]
-light of Marie herself. It wasn't just light; it had a tail.[r]
-A tail of golden light. Marie was a comet.[pcms]
+ボクが手に入れた淡く青い不思議な光り。[r]
+マリーそのものの光り。それは光りだけじゃなく、尾を[r]
+引いていた。金色の光りの尾だ。マリーは彗星だったんだ。[pcms]
 
 *473|
 [fc]
-I didn't want to let go. I didn't want to release her. I[r]
-wanted to engrave my name, my heart into Marie. My thing[r]
-swelled in response and thrust into Marie.[pcms]
+逃したくない。離したくない。ボクの名前を、ボクの心を[r]
+マリーに刻み込みたい。[r]
+ボクのモノは、呼応して膨れあがり、マリーを突き上げた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *474|
 [fc]
 [vo_mar s="maru_TE0181"]
-[ns]Margarita[nse]
-"Aaaah, it feels good. It feels so good... Ahh, itt ahh![r]
-Wataru... your penis is rubbing inside me ahhann ahh, it's[r]
-good, rubbing, rubbing against me, ahh!"[pcms]
+[ns]マルガリータ[nse]
+「あああっ、いいっ。気持ち、いいっ……あっ、いっああっ[r]
+　ワタル……ワタルの、ペ……ニスが、ワタシのな……かで[r]
+　ああっんああっ、いいっ、擦って、擦れ……て、ああっ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *475|
 [fc]
 [vo_mar s="maru_TE0182"]
-[ns]Margarita[nse]
-"Fuaaaahh, ahhann ahh ahh, it's hot, amazing! Amazing! My[r]
-vagina inside is ahh!"[pcms]
+[ns]マルガリータ[nse]
+「ふあああっ、ああんっあっあっあっ、熱いぃっ、凄い[r]
+　凄いよぉ……ああっああっああっ、ヴァギナの中があっ！」[pcms]
 
 *476|
 [fc]
-Marie's hip movements were accelerating. I desperately moved[r]
-my hips to match hers, and the limit was already in sight.[pcms]
+マリーの腰の動きは加速していた。ボクも合わせようと必死に[r]
+腰を動かしたので、もう、目の前に限界が来ていた。[pcms]
 
 *477|
 [fc]
-[ns]Wataru[nse]
-"Ma-Marie. I'm reaching my limit soon!"[pcms]
+[ns]航[nse]
+「マ、マリー。ボクは、そろ……そろ限界……っい！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *478|
 [fc]
 [vo_mar s="maru_TE0183"]
-[ns]Margarita[nse]
-"Inside... Wataru, you can release inside my vagina... It's[r]
-okay to do it... Ahh, release it... inside me, ahhh!"[pcms]
+[ns]マルガリータ[nse]
+「中に……ワタル、ワタシのヴァギナの中に、出して……[r]
+　出していい……ぞ。ああっ、出して……中に、あああっ」[pcms]
 
 *479|
 [fc]
-[ns]Wataru[nse]
-"Marie... That is..."[pcms]
+[ns]航[nse]
+「マリー……っく。それは……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *480|
 [fc]
 [vo_mar s="maru_TE0184"]
-[ns]Margarita[nse]
-"It's okay. Wataru... I want to feel you to the end, inside[r]
-me... Ahhannn,... do it release inside me, fill me up, fill[r]
-me up!"[pcms]
+[ns]マルガリータ[nse]
+「い、いいんだ。ワタル……最後まで、中で……ああっ、[r]
+　ワタル……を、感じたっ、ああっんっ、……いっんだっ[r]
+　出し……て、中に、いっぱ……い、いっぱっいいっっ！」[pcms]
 
 *481|
 [fc]
-[ns]Wataru[nse]
-"Ugh, I'm releasing. It's coming out, Marie, here it comes,[r]
-ugh ahh!!"[pcms]
+[ns]航[nse]
+「うっ、出す。出る、マリー、出すぞぉ、うああっ！！」[pcms]
 
 ;//〆Ｅ：射精
 
@@ -1067,20 +1062,20 @@ ugh ahh!!"[pcms]
 *482|
 [fc]
 [vo_mar s="maru_TE0185"]
-[ns]Margarita[nse]
-"Aaaaaaaaah!! It's coming out, the hot stuff is coming out[r]
-inside my vagina!"[pcms]
+[ns]マルガリータ[nse]
+「あああああああああっ！！　出てる、出てるう……熱いの、[r]
+　熱いのがぁぁ！！　ワタシの、ヴァギナ……の中にぃいい」[pcms]
 
 *483|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Ughk... Uuhh"[pcms]
+[ns]航[nse]
+「うっ……うっく……ううっ」[pcms]
 
 *484|
 [fc]
-As prompted by Marie, I ejaculated inside her. Inside my[r]
-beloved Marie. Her insides writhed and continued to squeeze[r]
-tightly as if trying to milk every last drop from me.[pcms]
+ボクはマリーに促されるままに、マリーのアソコの中に[r]
+射精した。大好きなマリーの中に。マリーの中が蠢いて[r]
+一滴残さず搾り取ろうと、まだ締めつけつづけていた。[pcms]
 
 
 ;システムボタン＆ウィンドウ消去
@@ -1099,13 +1094,14 @@ tightly as if trying to milk every last drop from me.[pcms]
 *485|
 [fc]
 [vo_mar s="maru_TE0186"]
-[ns]Margarita[nse]
-"Wataru... I'll clean you up..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……綺麗にしてやる……」[pcms]
 
 *486|
 [fc]
-As her breathing settled down, Marie said that and lifted[r]
-her hips. With a slurping sound, my thing slipped out.[pcms]
+呼吸が落ち着いたマリーは、そう言うと、自分の腰を[r]
+持ち上げた。ぢゅぷっと音を立てながら、ボクのモノは[r]
+ずるりと抜け落ちた。[pcms]
 
 ;//〆HEV060
 
@@ -1117,32 +1113,32 @@ her hips. With a slurping sound, my thing slipped out.[pcms]
 *487|
 [fc]
 [vo_mar s="maru_TE0187"]
-[ns]Margarita[nse]
-"Nchuu... Leroo... Chyum..."[pcms]
+[ns]マルガリータ[nse]
+「んちゅっ……れろぉ……ちゅむっ……」[pcms]
 
 *488|
 [fc]
-[ns]Wataru[nse]
-"Ma-Marie. If you do that..."[pcms]
+[ns]航[nse]
+「マ、マリー。そ、そんなことしたら……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *489|
 [fc]
 [vo_mar s="maru_TE0188"]
-[ns]Margarita[nse]
-"Nnn? Nguh... Nchuu... Jyujyu... Nguhnn chuu... Leroo...[r]
-Eruuunn..."[pcms]
+[ns]マルガリータ[nse]
+「んんっ？　んぐっ……んちゅっ……ぢゅぢゅっ……[r]
+　んぐっんっちゅ……れろぉ……え゛るぅうんっ……」[pcms]
 
 *490|
 [fc]
-Marie was licking my thing as if cleaning it off. She gently[r]
-inserted her tongue tip at the tip of my thing and sucked up[r]
-the remaining semen as if milking it.[pcms]
+マリーは、舐め取るようにボクのモノに舌を這わせていた。[r]
+舌先をモノの先端に優しく入れて、残っている精子を絞り取る[r]
+ように吸い上げる。[pcms]
 
 *491|
 [fc]
-The stimulation made my thing regain its hardness.[pcms]
+その刺激に、またボクのモノは、硬さを取り戻してきた。[pcms]
 
 [evcg storage="HEV061c"][trans_c cross time=300]
 
@@ -1151,19 +1147,20 @@ The stimulation made my thing regain its hardness.[pcms]
 *492|
 [fc]
 [vo_mar s="maru_TE0189"]
-[ns]Margarita[nse]
-"Njuu... Nguh. Nhaahh... Nn. It's getting hard again. It's[r]
-hot. Wataru... Will you pamper me more?"[pcms]
+[ns]マルガリータ[nse]
+「んぢゅう……んぐ。んはあっ……ん。[r]
+　また、硬くなってきたな。　熱いな。ワタル……[r]
+　もっとワタシを、可愛がってくれる……か？」[pcms]
 
 *493|
 [fc]
-Marie's eyes were moist and she looked up at me with a dazed[r]
-expression. I immediately answered.[pcms]
+マリーの目は潤んでいて、うっとりとした目つきで[r]
+ボクを見上げてきた。ボクは、即座に答えた。[pcms]
 
 *494|
 [fc]
-[ns]Wataru[nse]
-"Of course... With pleasure, Marie."[pcms]
+[ns]航[nse]
+「もちろん……喜んで、マリー」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1182,41 +1179,41 @@ expression. I immediately answered.[pcms]
 *495|
 [fc]
 [vo_mar s="maru_TE0190"]
-[ns]Margarita[nse]
-"Aaaahh, that's good. Wataru... Aaaahh fuaaahnn ahann, aaahh[r]
-that feels good!!"[pcms]
+[ns]マルガリータ[nse]
+「あああっ、いいっ。ワタルぅ……あああっふああっんっ[r]
+　ああっああんっ、ああっいいっ、気持ち……いいっ！！」[pcms]
 
 *496|
 [fc]
-We made love many times after that. The pain of Marie's[r]
-defloration eventually faded away and she surrendered[r]
-herself to pleasure, continuously seeking me.[pcms]
+ボクたちは、それから何度も身体を重ねた。[r]
+マリーの破瓜の痛みはいつしか消え、快感に身をゆだねて[r]
+ボクを求め続けた。[pcms]
 
 *497|
 [fc]
-I was delighted by Marie's desire for me and kept thrusting[r]
-my hips fiercely into her again and again, continuously[r]
-filling her with my semen.[pcms]
+ボクはマリーの求めが嬉しくて、何度も何度も激しく[r]
+マリーのアソコに自分の腰を打ち続け、マリーの中に精子を[r]
+送り込み続けた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *498|
 [fc]
 [vo_mar s="maru_TE0191"]
-[ns]Margarita[nse]
-"Aaaahh, that's good. Wataru... I'm going crazy. I'm going[r]
-crazy... Fuaaaahh! It's hot, my vagina is melting... melting[r]
-away... Ahh!"[pcms]
+[ns]マルガリータ[nse]
+「あああっ、いいっ。ワタル……ワタル、おかしくなる。[r]
+　ワタシ、おかしく……ふあああっぁあっ！　熱いぃ、[r]
+　ヴァギナが、溶ける……溶けちゃう……あぁっ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *499|
 [fc]
 [vo_mar s="maru_TE0192"]
-[ns]Margarita[nse]
-"It's strange... Aaah Wataru, I'm going to come? Am I[r]
-coming? No, no more, I can't hold back anymore! I'm[r]
-comingggg aaaaaaaaah!"[pcms]
+[ns]マルガリータ[nse]
+「変だよ……ああっワタル、ワタシ、ワタシ……ああっん[r]
+　イく？　イっちゃう……の？　だめ、ああっもう、だめぇ[r]
+　イくぅ、イちゃうううっああああああっああああっっ！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV051g"]
@@ -1240,35 +1237,34 @@ comingggg aaaaaaaaah!"[pcms]
 
 *500|
 [fc]
-[ns]Wataru[nse]
-"...Phew..."[pcms]
+[ns]航[nse]
+「……ふう……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *501|
 [fc]
 [vo_mar s="maru_TE0193"]
-[ns]Margarita[nse]
-"Are you tired? Wataru"[pcms]
+[ns]マルガリータ[nse]
+「疲れた……か？　ワタル」[pcms]
 
 *502|
 [fc]
-[ns]Wataru[nse]
-"Hm? Yeah. But there's such a thing as happy exhaustion."[pcms]
+[ns]航[nse]
+「ん？　うん。でも、幸せな疲れってのもあるんだね」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *503|
 [fc]
 [vo_mar s="maru_TE0194"]
-[ns]Margarita[nse]
-"Yeah... It's my first time feeling this kind of happy[r]
-exhaustion..."[pcms]
+[ns]マルガリータ[nse]
+「うん……ワタシも初めてだ。幸せな疲れって……」[pcms]
 
 *504|
 [fc]
-[ns]Wataru[nse]
-"Marie... You'll always be with me from now on, right?"[pcms]
+[ns]航[nse]
+「マリー……これからもずっと一緒にいてくれるよね」[pcms]
 
 [evcg storage="HEV044a"][trans_c cross time=300]
 
@@ -1277,31 +1273,31 @@ exhaustion..."[pcms]
 *505|
 [fc]
 [vo_mar s="maru_TE0195"]
-[ns]Margarita[nse]
-"Of course. Wataru is the man I chose."[pcms]
+[ns]マルガリータ[nse]
+「当たり前だ。ワタルはワタシが選んだ男だからな」[pcms]
 
 *506|
 [fc]
-[ns]Wataru[nse]
-"Thank you, Marie."[pcms]
+[ns]航[nse]
+「ありがとう、マリー」[pcms]
 
 *507|
 [fc]
-I hugged Marie. Marie hugged me back... Her body was soft[r]
-and comfortable. Her fluffy golden hair fell over me.[pcms]
+ボクは、マリーに抱き付いた。マリーはボクを抱きしめ[r]
+返してくれた……。柔らかい心地よいマリーの身体。[r]
+ふわっと金色の髪がボクに被ってくる。[pcms]
 
 *508|
 [fc]
-The golden light spread across my vision. A faint,[r]
-mysterious blue light. More precious than the stars shining[r]
-in the sky, it was the light of Marie herself that I had[r]
-obtained tonight.[pcms]
+金色の光りがボクの視界に広がる。[r]
+淡く青い不思議な光り。空に輝く星よりも大事な光り。[r]
+ボクが今晩手に入れたマリーそのものの光り。[pcms]
 
 *509|
 [fc]
-It wasn't just a light; it was a comet. A pale blue comet[r]
-with a golden tail. A comet that could bear my name, my very[r]
-own comet...[pcms]
+それは単なる光りじゃなくて、彗星だった。[r]
+金色の尾を伴った淡い青の彗星。[r]
+ボクの名前を刻み込める、ボクだけの彗星……なんだ。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1336,20 +1332,19 @@ own comet...[pcms]
 
 *510|
 [fc]
-Suddenly, I woke up. It still seemed to be the middle of the[r]
-night... When I reached out with my hand, Marie wasn't[r]
-there.[pcms]
+ふっと目が覚めた。まだ夜中……のようだった。[r]
+手で隣を探ると、マリーがいなかった。[pcms]
 
 *511|
 [fc]
-I was a bit panicked, but the lingering scent of Marie[r]
-calmed me down. It wasn't a dream.[pcms]
+ボクはちょっと慌てたけど、マリーの残り香がボクを[r]
+落ち着かせてくれた。あれは夢じゃないんだって。[pcms]
 
 *512|
 [fc]
-I wondered if she had gone to take a shower... or something[r]
-else. While thinking about that, I was once again drawn into[r]
-the well of sleep.[pcms]
+シャワーでも浴びに行ったのかな……それとも……。[r]
+そんな事を考えながら、ボクはまた眠りの泉に[r]
+引き込まれていった。[pcms]
 
 ;mm
 ;システムボタン＆ウィンドウ消去

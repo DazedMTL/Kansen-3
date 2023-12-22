@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10120_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 ;//♂：▲悠帆ノーマルＥＮＤ
 
@@ -14,334 +14,327 @@
 
 *823|
 [fc]
-Maruko-senpai was dead, her eyes rolled back and blood[r]
-flowing from her mouth.[pcms]
+マル子先輩は白目をむき、口から血を流して死んでいた。[pcms]
 
 *824|
 [fc]
-Her body was left with the brutal marks of violation.[pcms]
+身体中に、陵辱された無惨な跡が残っている。[pcms]
 
 *825|
 [fc]
-Maruko-senpai, who was so strong... she was no match for[r]
-those men...[pcms]
+あんなに強かったマル子先輩が……[r]
+男たちなんて、目じゃなかったのに……。[pcms]
 
 ;//♂：この段階では呼び名は先輩かもしれません
 
 *826|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry, Maruko-senpai..."[pcms]
+[ns]航[nse]
+「ごめん、マル子先輩……」[pcms]
 
 [evcg storage="DEV014c"][trans_c cross time=300]
 
 *827|
 [fc]
-Next to her, Ren too... had died with the remnants of[r]
-violation.[pcms]
+隣にいる漣は、先輩と同じく……陵辱の名残を残し死んでいた。[pcms]
 
 *828|
 [fc]
-Her expression was as if she was sleeping... but what had[r]
-she been subjected to?[pcms]
+その表情は眠るようだったけど……どんな目に遭わされたんだ。[pcms]
 
 *829|
 [fc]
-It must have been frightening... it must have been[r]
-painful...[pcms]
+恐かっただろう……苦しかっただろう……。[pcms]
 
 *830|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry... I'm sorry..."[pcms]
+[ns]航[nse]
+「ごめん……ごめん……」[pcms]
 
 [bg storage="BG019c"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
 
 *831|
 [fc]
-I didn't know what to say to apologize to everyone.[pcms]
+ボクはみんなになんと言って謝ればいいのかわからなかった。[pcms]
 
 *832|
 [fc]
-Maybe...[pcms]
+もしかしたら……。[pcms]
 
 *833|
 [fc]
-I thought they might have been raped by the men, but I never[r]
-imagined they would be killed...[pcms]
+男たちに乱暴されているかもしれないと思ったけれど、[r]
+まさか殺してしまうなんて……。[pcms]
 
 *834|
 [fc]
-A little away from the mattress, Jin-san's body was lying[r]
-there.[pcms]
+マットレスから少し離れた位置には[r]
+壬さんの死体が転がっていた。[pcms]
 
 *835|
 [fc]
-Was it a fallout among themselves?[pcms]
+仲間割れだろうか。[pcms]
 
 *836|
 [fc]
-If Jin-san had been the boss, maybe this wouldn't have[r]
-happened...[pcms]
+壬さんがボスだったら、こんなことには[r]
+ならなかったのかもしれない……。[pcms]
 
 *837|
 [fc]
-I don't know the circumstances, but maybe he was protecting[r]
-everyone.[pcms]
+事情はわからないけれど、みんなをかばってくれたのかも。[pcms]
 
 *838|
 [fc]
-And then, he got shot by someone like Shigeyoshi...[pcms]
+それで、重吉とかに撃たれて……。[pcms]
 
 *839|
 [fc]
 [vo_yuh s="yuho_BE0001"]
-[ns]Yuuho[nse]
-"Ugh..."[pcms]
+[ns]悠帆[nse]
+「うっ…………」[pcms]
 
 *840|
 [fc]
-[ns]Wataru[nse]
-"Yuuho? Yuuho! Hang in there!"[pcms]
+[ns]航[nse]
+「悠帆っ？　悠帆！　しっかり！」[pcms]
 
 *841|
 [fc]
-I felt like Yuuho just moved a little.[pcms]
+今、悠帆が少し動いた気がした。[pcms]
 
 *842|
 [fc]
-Is she alive!? Is Yuuho alive!?[pcms]
+生きてる！？　悠帆が生きてる！？[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *843|
 [fc]
-[ns]Kousuke[nse]
-"What the hell is this..."[pcms]
+[ns]浩助[nse]
+「な、なんだこれ……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *844|
 [fc]
 [vo_miz s="mizuki_BE0052"]
-[ns]Mizuki[nse]
-"Hii... is everyone... dead?"[pcms]
+[ns]瑞樹[nse]
+「ひっ……みんな……死んでる……？」[pcms]
 
 ;mm あれ？浩助瑞樹はBE10110.ksで噛まれて合流できないってさっき。あぁいいのか紛らわしい
 
 *845|
 [fc]
-Kousuke and Mizuki, whom we had just said goodbye to,[r]
-appeared from the spiral staircase.[pcms]
+さっきお別れをすませたコースケと瑞樹が[r]
+螺旋階段から姿を現した。[pcms]
 
 *846|
 [fc]
-Just like me, they were speechless at the sight of this[r]
-tragedy.[pcms]
+ボクと同じように、この惨状を見て絶句している。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *847|
 [fc]
-I don't know why they are here, but that's not what matters[r]
-right now.[pcms]
+どうしてふたりがここにいるのかわからないけれど、[r]
+今はそれどころじゃない。[pcms]
 
 [evcg storage="DEV021b"][trans_c cross time=300]
 
 *848|
 [fc]
 [vo_yuh s="yuho_BE0002"]
-[ns]Yuuho[nse]
-"Wa... Wataru?"[pcms]
+[ns]悠帆[nse]
+「わ……航？」[pcms]
 
 *849|
 [fc]
-[ns]Wataru[nse]
-"Yes, it's me, Yuuho..."[pcms]
+[ns]航[nse]
+「そうだよ、ボクだよ悠帆……」[pcms]
 
 *850|
 [fc]
-Yuuho was whispering in a faint voice as if she was on the[r]
-verge of death.[pcms]
+悠帆はもう、事切れる寸前みたいに[r]
+力なく小さな声でつぶやいていた。[pcms]
 
 *851|
 [fc]
 [vo_yuh s="yuho_BE0003"]
-[ns]Yuuho[nse]
-"Is everyone... okay...?"[pcms]
+[ns]悠帆[nse]
+「みんなは……大丈夫……？」[pcms]
 
 *852|
 [fc]
-Even at a time like this, Yuuho was worried about everyone[r]
-else.[pcms]
+こんなときだっていうのに、[r]
+悠帆はみんなの心配をしてくれていた。[pcms]
 
 *853|
 [fc]
-I'm sorry... I'm sorry... Yuuho.[pcms]
+ごめん……ごめん……悠帆。[pcms]
 
 *854|
 [fc]
-[ns]Wataru[nse]
-"Everyone's here, everyone's right here..."[pcms]
+[ns]航[nse]
+「みんな、みんなここにいるよ……」[pcms]
 
 *855|
 [fc]
 [vo_yuh s="yuho_BE0004"]
-[ns]Yuuho[nse]
-"That's good... I'm relieved..."[pcms]
+[ns]悠帆[nse]
+「そっかぁ……安心したよ……」[pcms]
 
 [evcg storage="DEV021c"][trans_c cross time=300]
 
 *856|
 [fc]
-[ns]Wataru[nse]
-"Everyone's okay, so you need to hang in there too, Yuuho"[pcms]
+[ns]航[nse]
+「みんな大丈夫だから、悠帆もしっかりしろ」[pcms]
 
 *857|
 [fc]
-My vision blurred with tears.[pcms]
+目の前が涙でにじむ。[pcms]
 
 *858|
 [fc]
-I took Yuuho's hand and felt its warmth.[pcms]
+ボクは悠帆の手を取って、その温もりを感じていた。[pcms]
 
 *859|
 [fc]
-She's alive, Yuuho is alive...[pcms]
+生きてる、悠帆は生きてる……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *860|
 [fc]
 [vo_yuh s="yuho_BE0005"]
-[ns]Yuuho[nse]
-"Let's eat together again with everyone..."[pcms]
+[ns]悠帆[nse]
+「また、みんなでご飯食べようねぇ……」[pcms]
 
 *861|
 [fc]
-[ns]Wataru[nse]
-"Yeah, you'll have to cook for us again"[pcms]
+[ns]航[nse]
+「うん、また悠帆が作ってくれよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *862|
 [fc]
 [vo_yuh s="yuho_BE0006"]
-[ns]Yuuho[nse]
-"Then let's go out to town and live happily like we used[r]
-to..."[pcms]
+[ns]悠帆[nse]
+「そしたら、街に出て昔みたいに楽しく暮らそうね……」[pcms]
 
 *863|
 [fc]
-[ns]Wataru[nse]
-"Yeah... yeah..."[pcms]
+[ns]航[nse]
+「うん……うん……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *864|
 [fc]
 [vo_yuh s="yuho_BE0007"]
-[ns]Yuuho[nse]
-"I want to go to the planetarium again with Wataru..."[pcms]
+[ns]悠帆[nse]
+「航と一緒に、またプラネタリウム行きたいな……」[pcms]
 
 *865|
 [fc]
-[ns]Wataru[nse]
-"Let's go, definitely... to the planetarium..."[pcms]
+[ns]航[nse]
+「行こう、必ず……プラネタリウムに……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *866|
 [fc]
 [vo_yuh s="yuho_BE0008"]
-[ns]Yuuho[nse]
-"But... I want to see... the real... starry sky..."[pcms]
+[ns]悠帆[nse]
+「でも……ホントの……星空……見て……」[pcms]
 
 *867|
 [fc]
-[ns]Wataru[nse]
-"We'll go see the starry sky too, Yuuho, let's go"[pcms]
+[ns]航[nse]
+「星空も見に行こうっ、悠帆っ、行こうなっ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *868|
 [fc]
 [vo_yuh s="yuho_BE0009"]
-[ns]Yuuho[nse]
-"I'm sorry... Wataru..."[pcms]
+[ns]悠帆[nse]
+「ごめんね……航……」[pcms]
 
 *869|
 [fc]
-[ns]Wataru[nse]
-"Yuuho! Yuuho!"[pcms]
+[ns]航[nse]
+「悠帆っ！　悠帆っ！」[pcms]
 
 *870|
 [fc]
-[ns]Wataru[nse]
-"Yuuho-!"[pcms]
+[ns]航[nse]
+「悠帆ーっ！」[pcms]
 
 [evcg storage="DEV021d"][trans_c cross time=1000]
 
 *871|
 [fc]
-The hand of Yuuho that I was gripping went limp and fell.[pcms]
+握りしめた悠帆の手が、くたっと力なく垂れ下がった。[pcms]
 
 *872|
 [fc]
-No, Yuuho, why, Yuuho.[pcms]
+駄目だ、悠帆、なんで、悠帆っ。[pcms]
 
 *873|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... it can't be true..."[pcms]
+[ns]航[nse]
+「悠帆……嘘だろ……」[pcms]
 
 *874|
 [fc]
-Yuuho's eyes were closed.[pcms]
+悠帆の目が閉じられていた。[pcms]
 
 *875|
 [fc]
-Her face, having endured terrible humiliation, strangely[r]
-seemed at peace.[pcms]
+酷い陵辱を受けたその表情には、[r]
+なぜか安らぎの色が浮かんでいる。[pcms]
 
 *876|
 [fc]
-I collapsed on the spot.[pcms]
+ボクはその場にくずおれた。[pcms]
 
 *877|
 [fc]
-A silent scream echoed in the depths of my chest.[pcms]
+声にならない叫びが、胸の奥に木霊している。[pcms]
 
 *878|
 [fc]
-Why did this have to happen...[pcms]
+どうしてこんなことに……。[pcms]
 
 *879|
 [fc]
-Just a few days ago, everyone was living normally.[pcms]
+ほんの数日前まで、みんな普通に暮らしていたのに。[pcms]
 
 *880|
 [fc]
-Why...[pcms]
+どうして……。[pcms]
 
 *881|
 [fc]
-Everyone is dead.[pcms]
+みんな死んでしまった。[pcms]
 
 *882|
 [fc]
-It's strange that I'm the only one alive.[pcms]
+ボクだけ生きているなんて、なんかおかしい。[pcms]
 
 *883|
 [fc]
-There's no point in living anymore, I'd rather go to heaven[r]
-with everyone.[pcms]
+これから生きていく意味もないし、[r]
+どうせならみんなと一緒に天国へ行きたい。[pcms]
 
 *884|
 [fc]
-I slowly got up and took out a gun, pressing it against my[r]
-temple.[pcms]
+ボクはのろのろと起きあがると、[r]
+銃を取り出してそれをこめかみに当てた。[pcms]
 
 [bg storage="BG019c"][trans_c cross time=500]
 
@@ -351,171 +344,173 @@ temple.[pcms]
 
 *885|
 [fc]
-[ns]Kousuke[nse]
-"Idiot! What are you doing!"[pcms]
+[ns]浩助[nse]
+「馬鹿っ！　なにやってんだよ！」[pcms]
 
 *886|
 [fc]
-[ns]Wataru[nse]
-"Sorry, Kousuke... I'm just... tired."[pcms]
+[ns]航[nse]
+「ごめん、コースケ……ボクはもう……疲れたよ」[pcms]
 
 *887|
 [fc]
-I want to die.[pcms]
+死にたい。[pcms]
 
 *888|
 [fc]
-I want to die and be at ease.[pcms]
+死んで楽になりたい。[pcms]
 
 *889|
 [fc]
-That way, I can be free from this pain and sorrow.[pcms]
+そうすれば、こんな苦しみからも悲しみからも解放される。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *890|
 [fc]
 [vo_miz s="mizuki_BE0053"]
-[ns]Mizuki[nse]
-"Wait, Wataru!"[pcms]
+[ns]瑞樹[nse]
+「待って、ワタル！」[pcms]
 
 *891|
 [fc]
-[ns]Wataru[nse]
-"Mizuki... at least the two of us can be happy..."[pcms]
+[ns]航[nse]
+「瑞樹……せめてふたりは幸せに……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *892|
 [fc]
-[ns]Kousuke[nse]
-"You fool!"[pcms]
+[ns]浩助[nse]
+「馬鹿野郎ーっ！」[pcms]
 
 *893|
 [fc]
-Kousuke's scream shook my body.[pcms]
+コースケの絶叫がボクの身体を震わせた。[pcms]
 
 *894|
 [fc]
-My finger on the trigger paused for a moment.[pcms]
+引き金を引く指が一瞬止まる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *895|
 [fc]
-[ns]Kousuke[nse]
-"If you die, who will remember everyone?"[pcms]
+[ns]浩助[nse]
+「お前が死んだら、誰が、誰がみんなのことを[r]
+　覚えておけるんだよっ！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *896|
 [fc]
-[ns]Kousuke[nse]
-"It might be hard, but we need to make sure the people who[r]
-lived in this town aren't forgotten..."[pcms]
+[ns]浩助[nse]
+「辛いかもしれないけど、この街で生きていた人たちが[r]
+　いなかったことにならないように……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *897|
 [fc]
-[ns]Kousuke[nse]
-"If even you don't survive, Wataru... we..."[pcms]
+[ns]浩助[nse]
+「ワタルだけでも生きていかなかったら……オレたちは……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *898|
 [fc]
-[ns]Kousuke[nse]
-"For everyone's sake, for those who remember them, please[r]
-survive!"[pcms]
+[ns]浩助[nse]
+「みんなのために、みんなのことを覚えてくれている人が[r]
+　いなくならないように、生き延びてくれ！」[pcms]
 
 *899|
 [fc]
-[ns]Wataru[nse]
-"For everyone's... sake?"[pcms]
+[ns]航[nse]
+「みんなの……ため……？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *900|
 [fc]
-[ns]Kousuke[nse]
-"Yes! Your living is for the sake of everyone!"[pcms]
+[ns]浩助[nse]
+「そうだよ！　お前が生きていくことが[r]
+　みんなのためになるんだ！」[pcms]
 
 *901|
 [fc]
-For everyone... for Yuuho, for Ren, for Maruko-senpai...[pcms]
+みんなの……悠帆のため、漣のため、マル子先輩のため……。[pcms]
 
 *902|
 [fc]
-I lowered the gun from my temple.[pcms]
+ボクはこめかみに当てていた銃をおろした。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *903|
 [fc]
-[ns]Kousuke[nse]
-"Wataru..."[pcms]
+[ns]浩助[nse]
+「ワタル……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *904|
 [fc]
 [vo_miz s="mizuki_BE0054"]
-[ns]Mizuki[nse]
-"Wataru should live... for everyone else's share..."[pcms]
+[ns]瑞樹[nse]
+「ワタルは生きて……みんなの分まで……」[pcms]
 
 *905|
 [fc]
-[ns]Wataru[nse]
-"Yeah... I'll live, if it's for everyone's sake..."[pcms]
+[ns]航[nse]
+「うん……生きるよ、それがみんなのためなら……」[pcms]
 
 *906|
 [fc]
-For everyone's sake... yes, this is for everyone...[pcms]
+みんなのため……そう、これがみんなのため……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *907|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *908|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki, go with him, stay with Wataru"[pcms]
+[ns]浩助[nse]
+「瑞樹も行け、ワタルと一緒に」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *909|
 [fc]
 [vo_miz s="mizuki_BE0055"]
-[ns]Mizuki[nse]
-"No, I don't want to be apart anymore... and... I'm[r]
-probably..."[pcms]
+[ns]瑞樹[nse]
+「いやっ、もう離れたくない……それに……[r]
+　きっとあたしも……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *910|
 [fc]
-[ns]Kousuke[nse]
-"I see..."[pcms]
+[ns]浩助[nse]
+「そうか……」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *911|
 [fc]
-I staggered back the way I came.[pcms]
+ボクはフラフラと来た道を引き返していた。[pcms]
 
 *912|
 [fc]
-Yes, I have to live for everyone...[pcms]
+そうだ、みんなのために生きないと……。[pcms]
 
 *913|
 [fc]
-For everyone's sake...[pcms]
+みんなのために……。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -574,11 +569,11 @@ For everyone's sake...[pcms]
 ;
 ;	*914|
 ;	[fc]
-The terrace was about to be illuminated by the morning sun.[pcms]
+;	テラスを朝日が照らし出そうとしていた。[pcms]
 ;
 ;	*915|
 ;	[fc]
-It's almost dawn...[pcms]
+;	もうすぐ……夜明けだ。[pcms]
 ;
 ;
 ;	;mm追加
@@ -587,13 +582,13 @@ It's almost dawn...[pcms]
 ;	*916|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0056"]
-[ns]Mizuki[nse]
-"Are you going now...?"[pcms]
+;	[ns]瑞樹[nse]
+;	「もう行くの……？」[pcms]
 ;
 ;	*917|
 ;	[fc]
-[ns]Kousuke[nse]
-"Yeah, will you come with me?"[pcms]
+;	[ns]浩助[nse]
+;	「ああ、一緒に来てくれるか？」[pcms]
 ;
 ;
 ;	;mm追加
@@ -602,30 +597,30 @@ It's almost dawn...[pcms]
 ;	*918|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0057"]
-[ns]Mizuki[nse]
-"Dying... is scary, isn't it"[pcms]
+;	[ns]瑞樹[nse]
+;	「死ぬの……恐いね」[pcms]
 ;
 ;	*919|
 ;	[fc]
-We looked down at the ground from the 7th floor of LASER.[pcms]
+;	ＬＡＳＥＲの７階から地上を見下ろす。[pcms]
 ;
 ;	*920|
 ;	[fc]
-Mizuki says she's scared, but strangely, I didn't feel any[r]
-fear.[pcms]
+;	瑞樹は恐いっていうけど、オレは不思議と恐怖を覚えなかった。[pcms]
 ;
 ;	*921|
 ;	[fc]
-Rather, I was captivated by the beauty of the dawn.[pcms]
+;	それよりも、夜明けの美しさに心を奪われる。[pcms]
 ;
 ;	*922|
 ;	[fc]
-The quiet town below, like tombstones, the buildings beyond[r]
-as the sun slowly rose.[pcms]
+;	静まり返った町並み、墓標のようなビルの向うに[r]
+;	ゆっくりと太陽が昇っていく。[pcms]
 ;
 ;	*923|
 ;	[fc]
-It was so beautiful... Mizuki and I silently gazed at it.[pcms]
+;	それがあまりにも美しくて……[r]
+;	オレと瑞樹は無言のまま見つめていた。[pcms]
 ;
 ;	[black_toplayer][trans_c cross time=1000][hide_chara_int]
 ;
@@ -638,13 +633,13 @@ It was so beautiful... Mizuki and I silently gazed at it.[pcms]
 ;
 ;	*924|
 ;	[fc]
-[ns]Kousuke[nse]
-"I'm not scared because I'm with you, Mizuki."[pcms]
+;	[ns]浩助[nse]
+;	「オレは、瑞樹と一緒だから恐くないぜ」[pcms]
 ;
 ;	*925|
 ;	[fc]
-As I seared the blue sky into my eyelids, I told the person[r]
-beside me... the most important person, Mizuki.[pcms]
+;	目に染みるような青空を瞼に焼きつけながら、[r]
+;	オレは傍らの瑞樹……なによりも大事な人に告げる。[pcms]
 ;
 ;	;mm追加
 ;	[ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -652,22 +647,22 @@ beside me... the most important person, Mizuki.[pcms]
 ;	*926|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0058"]
-[ns]Mizuki[nse]
-"I'm still scared even with you, Kousuke."[pcms]
+;	[ns]瑞樹[nse]
+;	「あたしはコースケと一緒でも恐いよ」[pcms]
 ;
 ;	*927|
 ;	[fc]
-[ns]Kousuke[nse]
-"Haha, maybe I've gone crazy."[pcms]
+;	[ns]浩助[nse]
+;	「ははっ、オレもうおかしくなってるのかな」[pcms]
 ;
 ;	*928|
 ;	[fc]
-At those words, I couldn't help but laugh.[pcms]
+;	その言葉に、オレは思わず笑ってしまう。[pcms]
 ;
 ;	*929|
 ;	[fc]
-...But that's right, isn't it? It's impossible not to be[r]
-scared. We are still... 'human' after all.[pcms]
+;	……でも、そうだよな。恐くないわけない。[r]
+;	オレたちはまだ……「人間」なんだから。[pcms]
 ;
 ;	;//★_DJ-BAR
 ;	;//<ChrInit>
@@ -680,104 +675,101 @@ scared. We are still... 'human' after all.[pcms]
 ;
 ;	*930|
 ;	[fc]
-I gently embraced Mizuki, who was trembling.[pcms]
+;	震えている瑞樹をそっと抱きしめる。[pcms]
 ;
 ;	*931|
 ;	[fc]
-Warm... It was hard to believe that we were infected with[r]
-the virus and that it was all over for us.[pcms]
+;	温かい……ウイルスに感染して、[r]
+;	もう終わりの人間だなんてとても思えなかった。[pcms]
 ;
 ;	*932|
 ;	[fc]
-[ns]Kousuke[nse]
-"Close your eyes..."[pcms]
+;	[ns]浩助[nse]
+;	「目を閉じて……」[pcms]
 ;
 ;	*933|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0059"]
-[ns]Mizuki[nse]
-"Okay..."[pcms]
+;	[ns]瑞樹[nse]
+;	「うん……」[pcms]
 ;
 ;	*934|
 ;	[fc]
-[ns]Kousuke[nse]
-"The next time we open our eyes, it will be when we are[r]
-reborn."[pcms]
+;	[ns]浩助[nse]
+;	「次に目を開けるときは、オレたちが生まれ変わったときだ」[pcms]
 ;
 ;	*935|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0060"]
-[ns]Mizuki[nse]
-"Okay..."[pcms]
+;	[ns]瑞樹[nse]
+;	「うん……」[pcms]
 ;
 ;	*936|
 ;	[fc]
-[ns]Kousuke[nse]
-"I'm sorry I couldn't protect you..."[pcms]
+;	[ns]浩助[nse]
+;	「守ってやれなくて……ごめん……」[pcms]
 ;
 ;	*937|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0061"]
-[ns]Mizuki[nse]
-"Okay..."[pcms]
+;	[ns]瑞樹[nse]
+;	「うん……」[pcms]
 ;
 ;	*938|
 ;	[fc]
-Mizuki buried her face in my chest and had a peaceful[r]
-expression.[pcms]
+;	瑞樹はオレの胸に頬を埋めて、安らかな顔をしていた。[pcms]
 ;
 ;	*939|
 ;	[fc]
-She entrusted everything to me, a face completely at peace.[pcms]
+;	オレに全てを任せて、安心しきった顔だ。[pcms]
 ;
 ;	*940|
 ;	[fc]
-I'm really sorry... Mizuki.[pcms]
+;	本当にゴメンな……瑞樹。[pcms]
 ;
 ;	*941|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0062"]
-[ns]Mizuki[nse]
-"I've always loved you since we were little... Kousuke"[pcms]
+;	[ns]瑞樹[nse]
+;	「小さい頃からずっと好きだった……コースケ」[pcms]
 ;
 ;	*942|
 ;	[fc]
-[ns]Kousuke[nse]
-"I love you too..."[pcms]
+;	[ns]浩助[nse]
+;	「オレも……愛してる」[pcms]
 ;
 ;	*943|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0063"]
-[ns]Mizuki[nse]
-"Thank you."[pcms]
+;	[ns]瑞樹[nse]
+;	「ありがとう」[pcms]
 ;
 ;	*944|
 ;	[fc]
-[ns]Kousuke[nse]
-"Do you have any regrets?"[pcms]
+;	[ns]浩助[nse]
+;	「思い残すことはあるか？」[pcms]
 ;
 ;	*945|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0064"]
-[ns]Mizuki[nse]
-"No, as long as I'm with you, Kousuke, that's enough."[pcms]
+;	[ns]瑞樹[nse]
+;	「ないよ、コースケと一緒ならそれでいい」[pcms]
 ;
 ;	;mm なんで浩助視点で貼ってあんのさ
 ;	;[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 ;
 ;	*946|
 ;	[fc]
-[ns]Kousuke[nse]
-"Me too."[pcms]
+;	[ns]浩助[nse]
+;	「オレもだ」[pcms]
 ;
 ;	*947|
 ;	[fc]
-While holding Mizuki in my arms, I casually moved our[r]
-footing to the side.[pcms]
+;	瑞樹の身体を抱いたまま、ふっと足場を横に移動する。[pcms]
 ;
 ;	*948|
 ;	[fc]
-Into the empty air.[pcms]
+;	なにもない空中へ。[pcms]
 ;
 ;	;mm追加
 ;	[fadeoutbgm time=500]
@@ -788,16 +780,15 @@ Into the empty air.[pcms]
 ;
 ;	*949|
 ;	[fc]
-I could tell that Mizuki was holding back a scream.[pcms]
+;	瑞樹が悲鳴をこらえるのがわかった。[pcms]
 ;
 ;	*950|
 ;	[fc]
-I hugged her body tightly.[pcms]
+;	オレはその身体を強く抱きしめる。[pcms]
 ;
 ;	*951|
 ;	[fc]
-Believing that when we open our eyes next time... that[r]
-moment will come.[pcms]
+;	次に目を開けるとき……そのときがやってくることを信じて。[pcms]
 ;
 ;	;システムボタン＆ウィンドウ消去
 ;	[sysbt_meswin clear]
@@ -829,56 +820,53 @@ moment will come.[pcms]
 
 *952|
 [fc]
-Down on the first floor, the gunfire had already ceased.[pcms]
+１階ではもう銃撃戦が行われていなかった。[pcms]
 
 *953|
 [fc]
-Shigeyoshi and the others had either escaped or been taken[r]
-down...[pcms]
+重吉たちは、逃げたのかやられてしまったのか……。[pcms]
 
 *954|
 [fc]
-As a result, the first floor of LASER was overrun with[r]
-infected people.[pcms]
+その結果、ＬＡＳＥＲの１階は感染者であふれかえっていた。[pcms]
 
 *955|
 [fc]
-A single scratch from them would be the end.[pcms]
+ひっかき傷ひとつ付けられればそれで終わり。[pcms]
 
 *956|
 [fc]
-We would join their ranks and wander Shibuya from tomorrow[r]
-on.[pcms]
+奴らの仲間になって、明日から渋谷をさまようことになる。[pcms]
 
 *957|
 [fc]
-But even so... I had to live for everyone's sake.[pcms]
+でも、それでも……ボクはみんなのために[r]
+生きなくちゃいけなかった。[pcms]
 
 *958|
 [fc]
-I steadied my breathing while aiming Tadahiko's gun.[pcms]
+彦ちんの銃を構えて呼吸を整える。[pcms]
 
 *959|
 [fc]
-The emergency exit was just a short distance away.[pcms]
+非常口まで、ほんのちょっとの距離だ。[pcms]
 
 *960|
 [fc]
-If I could get through there, it would be a straight shot to[r]
-'Dedepou'.[pcms]
+そこを抜ければ「ででっぽう」まで一直線。[pcms]
 
 *961|
 [fc]
-Somehow, I might be able to escape.[pcms]
+なんとか、逃げることができる。[pcms]
 
 *962|
 [fc]
-I might be able to survive.[pcms]
+生き延びることができる。[pcms]
 
 *963|
 [fc]
-I pulled the trigger on an infected person nearby who seemed[r]
-likely to obstruct my path.[pcms]
+ボクは進行の邪魔になりそうな[r]
+手近の感染者に向かって引き金を引いた。[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -888,17 +876,17 @@ likely to obstruct my path.[pcms]
 
 *964|
 [fc]
-[ns]Wataru[nse]
-"Aaaaaaaaaah!"[pcms]
+[ns]航[nse]
+「あああああああああああっ！」[pcms]
 
 *965|
 [fc]
-I let out a war cry and sprinted towards the emergency exit.[pcms]
+雄叫びをあげて非常口まで突っ走る。[pcms]
 
 *966|
 [fc]
-The slowly moving infected people couldn't react to me as I[r]
-dashed straight through them.[pcms]
+ゆったりと動いている感染者たちは、[r]
+一直線に駆け抜けるボクに反応できない。[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -908,18 +896,17 @@ dashed straight through them.[pcms]
 
 *967|
 [fc]
-I shot down the infected in my path as I moved forward.[pcms]
+進む先にいる感染者を撃ち倒す。[pcms]
 
 *968|
 [fc]
-And... what I saw when I rolled out of the emergency exit[r]
-was...[pcms]
+そして……非常口から外に転がりでたボクが見たものは……。[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 
 *969|
 [fc]
-A swarm of infected writhing throughout the city streets.[pcms]
+街中に蠢く感染者の群れだった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -942,40 +929,39 @@ A swarm of infected writhing throughout the city streets.[pcms]
 
 *970|
 [fc]
-I have to live... I have to survive...[pcms]
+生きなくちゃ……ボクは生きなくちゃ……。[pcms]
 
 *971|
 [fc]
-The memories with everyone.[pcms]
+みんなとの思い出。[pcms]
 
 *972|
 [fc]
-The fragments of everyone's lives.[pcms]
+みんなの命のかけら。[pcms]
 
 *973|
 [fc]
-I'm not alone.[pcms]
+ボクはひとりじゃない。[pcms]
 
 *974|
 [fc]
-I have memories with everyone.[pcms]
+みんなとの記憶がある。[pcms]
 
 *975|
 [fc]
-As long as I have the memories of how everyone lived, I'm[r]
-not alone.[pcms]
+みんながどう生きたのか、それがあればボクはひとりじゃない。[pcms]
 
 *976|
 [fc]
-This time for sure, I'll find it.[pcms]
+今度こそ見つけよう。[pcms]
 
 *977|
 [fc]
-A place that isn't here.[pcms]
+ここではないどこかを。[pcms]
 
 *978|
 [fc]
-Together with everyone...[pcms]
+みんなと一緒に……。[pcms]
 
 ;//<ChrInit>
 ;//[black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1089,4 +1075,4 @@ Together with everyone...[pcms]
 
 [eval exp="sf.g_clear = 1"]
 
-(returntitle)[pcms]
+[returntitle][s]

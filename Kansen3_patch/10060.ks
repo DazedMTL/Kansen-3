@@ -18,307 +18,304 @@
 
 *415|
 [fc]
-I was at the bar Eternal, located inside the Shibuya Q[r]
-Building, which serves as Jin's hideout.[pcms]
+あたしはジンたちのアジトになっている渋谷[r]
+Ｑビル内のバー、エターナルに来ていた。[pcms]
 
 *416|
 [fc]
-The large room was decked out in garish, multicolored decor,[r]
-with dazzling lights reflecting off the mirror balls.[pcms]
+ミラーボールに派手なライトが煌めく極彩色の[r]
+派手な内装の大部屋。[pcms]
 
 *417|
 [fc]
-This is Jin's frequently used VIP room. It's fully equipped[r]
-with everything from a counter to a jacuzzi, truly the[r]
-epitome of luxury.[pcms]
+ここがジンのよく利用しているＶＩＰルームだ。[r]
+カウンターにジャクジーまで完備されていて、[r]
+まさに至れり尽くせり。[pcms]
 
 *418|
 [fc]
-It felt like a den of hedonism where one could indulge in[r]
-all sorts of vices. Men and women were constantly coming and[r]
-going, always more than ten people present.[pcms]
+酒池肉林を謳歌できる背徳の根城っていった感じ。[r]
+入れ替わり立ち替わりで男女が常に１０人以上。[pcms]
 
 *419|
 [fc]
-Some were drinking, others engaged in orgies, some enjoying[r]
-drugs, and some indulging in everything...[pcms]
+酒を飲むもの、乱交にふけるやつ、ドラックを[r]
+堪能するやつ、全部を楽しむやつ……。[pcms]
 
 *420|
 [fc]
-The men were all underlings who had come to Tokyo today,[r]
-directly affiliated with Dazai. The women entertaining them[r]
-for the night were arranged by Jin.[pcms]
+男たちはみんな今日東京へと出てきた[r]
+太宰直属の子分たち。[r]
+接待するのがジンの用意した、夜の女たちだ。[pcms]
 
 *421|
 [fc]
-A chaos where money, violence, drugs, power, fear, and[r]
-pleasure all intermingle.[pcms]
+金と暴力と薬と権力と、恐怖と快楽が入り混じる[r]
+カオス。[pcms]
 
 *422|
 [fc]
-A world that seemed to be the very embodiment of human[r]
-desires.[pcms]
+人の欲をまるで具現化したような世界。[pcms]
 
 *423|
 [fc]
-Every time I saw this scene, I thought to myself that humans[r]
-are, after all, nothing but beasts...[pcms]
+この光景を見るたびにあたしは思う。[r]
+人もしょせんは獣なんだと……。[pcms]
 
 *424|
 [fc]
-Jin and Shige are both at Celesta Tower right now, so it's[r]
-empty here.[pcms]
+ジンとシゲはともにセレスタワーに行ってるので[r]
+いまは留守だ。[pcms]
 
 *425|
 [fc]
-There seems to be an important meeting at Celesta Tower[r]
-tomorrow, and they must be busy preparing for it.[pcms]
+セレスタワーで明日、何か重要な会合があるとかで、[r]
+その準備に奔走してるんだろう。[pcms]
 
 *426|
 [fc]
-Jin is incredibly sharp and adept at handling situations,[r]
-especially when dealing with powerful individuals.[pcms]
+ジンはとにかく頭が切れて要領が良く、[r]
+権力を持ってる人間相手に立ちまわるのが上手だ。[pcms]
 
 *427|
 [fc]
-He's quite favored by the higher-ups, and it seems he was[r]
-specifically requested for this occasion.[pcms]
+幹部連中にもかなり気に入られていて、[r]
+今回はそこからのご指名らしい。[pcms]
 
 *428|
 [fc]
-According to Jin, it's just "shit rolling downhill," but[r]
-it's not something just anyone can handle.[pcms]
+ジンに言わせると、それも『クソを上から流されただけ』[r]
+と言っていたけど、誰にでもできるような[r]
+ことじゃない。[pcms]
 
 *429|
 [fc]
-Still, when dealing with someone like Dazai, I can[r]
-understand why one would feel compelled to say that...[pcms]
+それでも太宰のような人間を相手にしていると、[r]
+そう言いたくなる気持ちも理解はできるけど……。[pcms]
 
 *430|
 [fc]
-My concern is also with Dazai. Without Jin around, Dazai's[r]
-beastly nature becomes uncontrollable.[pcms]
+あたしの気がかりもその太宰だ。[r]
+ジンがいないと太宰の獣性はコントロールが利かない。[pcms]
 
 *431|
 [fc]
-I can't help feeling anxious about when he might whimsically[r]
-demand something outrageous.[pcms]
+いつ気まぐれで途方もない無茶を言い出すのか、[r]
+あたしは不安で仕方がなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="dazai_a2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *432|
 [fc]
-[ns]Dazai[nse]
-"Hey! Aren't you late?!"[pcms]
+[ns]太宰[nse]
+「おいっ！　遅いやないか！！」[pcms]
 
 *433|
 [fc]
-As I worried, it promptly began. He may look like an adult,[r]
-but his rationality is less than that of a child.[pcms]
+心配していると早速はじまった。[r]
+大人の姿はしているが、理性の部分は子供以下な男だ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="dazai_a1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *434|
 [fc]
-[ns]Dazai[nse]
-"We're going to watch the fireworks festival tonight. It's a[r]
-waste of time to keep me waiting."[pcms]
+[ns]太宰[nse]
+「今夜は花火大会の見物に行くんやぞ。[r]
+　時間が惜しいのにいつまで待たせるんや」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *435|
 [fc]
 [vo_miz s="mizuki0067"]
-[ns]Mizuki[nse]
-"I'm sorry. There's nothing to do but wait a little[r]
-longer..."[pcms]
+[ns]瑞樹[nse]
+「すみません。もう少しお待ちいただくしか……」[pcms]
 
 *436|
 [fc]
-There's nothing I can do about it when told so. At best, I[r]
-can only bow my head politely and try to keep him in a good[r]
-mood.[pcms]
+あたしに言われてもどうすることもできない。[r]
+せいぜい適当に頭を下げて、ご機嫌をうかがうくらいしか[r]
+他に方法がない。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="dazai_a1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *437|
 [fc]
-[ns]Dazai[nse]
-"If we miss the fireworks, it'll be your fault."[pcms]
+[ns]太宰[nse]
+「花火が見れなかったら、お前らのせいやぞ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *438|
 [fc]
 [vo_miz s="mizuki0068"]
-[ns]Mizuki[nse]
-"Yes... I'm sorry."[pcms]
+[ns]瑞樹[nse]
+「は、はい……すみません」[pcms]
 
 *439|
 [fc]
-Like a parrot repeating the same words, I kept bowing my[r]
-head. There's no point in reasoning with Dazai; it would be[r]
-a waste of time.[pcms]
+オウム返しのように、あたしは同じ言葉を繰り返し、[r]
+頭を下げ続けた。太宰には、どうせまともな理屈は通用しない。[r]
+話すだけ時間の無駄だ。[pcms]
 
 [ChrSetEx layer=5 chbase="tomomi_b2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *440|
 [fc]
-Then, a lightning rod appeared that diverted Dazai's[r]
-interest.[pcms]
+するとそこへ、太宰の興味をそらしてくれる[r]
+避雷針が登場した。[pcms]
 
 *441|
 [fc]
-The red-eyed girl we picked up the other day.[pcms]
+先日拾った、あの赤い眼の少女である。[pcms]
 
 *442|
 [fc]
-Dressed in a gothic lolita outfit resembling a boned ham,[r]
-her ample breasts caught Dazai's attention and instantly[r]
-improved his mood.[pcms]
+ゴスロリ服にも似たボンテージ姿で、[r]
+巨乳がボンレスハムのようになっている彼女を見ると、[r]
+太宰の機嫌は一気に回復した。[pcms]
 
 [ChrSetEx layer=5 chbase="dazai_a3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *443|
 [fc]
-[ns]Dazai[nse]
-"You look pretty good in that. Come here."[pcms]
+[ns]太宰[nse]
+「よう似合っとるやないかぁ。[r]
+　ほらぁ、こっちこいやぁ」[pcms]
 
 *444|
 [fc]
-It seems Dazai's beastly instincts have awakened as he began[r]
-an orgy with the red-eyed girl.[pcms]
+さっそく獣が目覚めたらしい太宰は、赤い眼の少女を[r]
+相手に乱交をはじめた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="dazai_a1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *445|
 [fc]
-[ns]Dazai[nse]
-"I'm going to have some fun now. When it's time for the[r]
-fireworks festival, have the car ready and call me."[pcms]
+[ns]太宰[nse]
+「わしゃぁちょっと楽しむから、[r]
+　花火大会の時間が来たら、車用意して声かけぇや」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *446|
 [fc]
 [vo_miz s="mizuki0069"]
-[ns]Mizuki[nse]
-"Understood."[pcms]
+[ns]瑞樹[nse]
+「はい、かしこまりました」[pcms]
 
 [bg storage="BG029"][trans_c cross time=500]
 ;[eval exp="f.l_map = 9"]
 
 *447|
 [fc]
-With a forced smile, I replied and finally managed to leave[r]
-the VIP room.[pcms]
+愛想笑いであたしは答えると、ようやく[r]
+ＶＩＰルームから退散することができた。[pcms]
 
 *448|
 [fc]
-In the regular floor area, Jin's subordinates who brought[r]
-the red-eyed girl were resting along with the women who were[r]
-spared from entertaining Dazai thanks to her.[pcms]
+通常フロアには赤い眼の少女を連れて来た[r]
+ジンの部下と、その子のおかけで太宰の相手を[r]
+しないですんだ女たちが休んでいた。[pcms]
 
 *449|
 [fc]
-[ns]Henchman A[nse]
-"Phew, he finally calmed down."[pcms]
+[ns]手下Ａ[nse]
+「ふぅ、ようやく大人しくなったな」[pcms]
 
 *450|
 [fc]
-[ns]Henchman B[nse]
-"Dealing with that greedy toad is really exhausting."[pcms]
+[ns]手下Ｂ[nse]
+「あの強欲ガマガエルの相手はほんとにつかれるぜ」[pcms]
 
 *451|
 [fc]
 [vo_mob s="onnaA0008"]
-[ns]Woman A[nse]
-"He's just like a child."[pcms]
+[ns]女Ａ[nse]
+「子供とおんなじよね」[pcms]
 
 *452|
 [fc]
-It seems everyone shares the same sentiment as me.[pcms]
+どうやらみんなもあたしと同じ感想らしい。[pcms]
 
 *453|
 [fc]
-[ns]Henchman B[nse]
-"That red-eyed girl is completely nuts. She bit me when I[r]
-tried to wake her up."[pcms]
+[ns]手下Ｂ[nse]
+「それよりあの赤目、完全にイカれてるぜ。[r]
+　寝ているのを起こしたらいきなり噛まれたぜ」[pcms]
 
 *454|
 [fc]
 [vo_mob s="onnaB0005"]
-[ns]Woman B[nse]
-"She got me too while I was helping her change."[pcms]
+[ns]女Ｂ[nse]
+「私も着替えさせている時にやられたわ」[pcms]
 
 *455|
 [fc]
 [vo_miz s="mizuki0070"]
-[ns]Mizuki[nse]
-"You're bleeding; are you okay?"[pcms]
+[ns]瑞樹[nse]
+「血が出てるけど平気？」[pcms]
 
 *456|
 [fc]
-[ns]Henchman B[nse]
-"I disinfected it just in case, so I think it'll be fine."[pcms]
+[ns]手下Ｂ[nse]
+「一応消毒しといたから大丈夫だと思うけど」[pcms]
 
 *457|
 [fc]
-[ns]Henchman A[nse]
-"I got scratched too... It's beyond me how anyone could want[r]
-to mess with her."[pcms]
+[ns]手下Ａ[nse]
+「俺も引っ掻かれたけど……。[r]
+　よくあんなのとやろうって気になるぜ」[pcms]
 
 *458|
 [fc]
 [vo_mob s="onnaB0006"]
-[ns]Woman B[nse]
-"As long as she has a good figure and a hole, that's all[r]
-that matters to him."[pcms]
+[ns]女Ｂ[nse]
+「スタイルがよくて穴があればなんでもいいんでしょ」[pcms]
 
 *459|
 [fc]
 [vo_mob s="onnaA0009"]
-[ns]Woman A[nse]
-"Hey Mizuki, I want to disinfect too, so bring me the first[r]
-aid kit."[pcms]
+[ns]女Ａ[nse]
+「ねえ瑞樹、私も消毒したいから薬箱とってきて」[pcms]
 
 *460|
 [fc]
 [vo_miz s="mizuki0071"]
-[ns]Mizuki[nse]
-"No way. I'm exhausted too."[pcms]
+[ns]瑞樹[nse]
+「嫌よ。あたしもクタクタなんだから」[pcms]
 
 *461|
 [fc]
 [vo_mob s="onnaA0010"]
-[ns]Woman A[nse]
-"Don't get cocky just because Jin favors you."[pcms]
+[ns]女Ａ[nse]
+「なによっ、壬に気に入られているからって[r]
+　調子に乗るんじゃないわよ」[pcms]
 
 *462|
 [fc]
-They snapped at me for a moment but couldn't do anything[r]
-more. After all, these people are nothing without Jin;[r]
-they're bottom-dwellers.[pcms]
+一瞬絡んできたものの、それ以上はなにもできない。[r]
+しょせんこの連中はジンがいなければなにもできない、[r]
+底辺な存在なんだ。[pcms]
 
 *463|
 [fc]
-Just then, one of the women holding a first aid kit suddenly[r]
-hit me.[pcms]
+その時、薬箱を片手に持っていた女の一人に[r]
+あたしは突然叩かれてしまった。[pcms]
 
 *464|
 [fc]
-The impact caused my choker to come undone and fall to the[r]
-floor.[pcms]
+弾みで、チョーカーが外れ、床に落ちる。[pcms]
 
 *465|
 [fc]
-The woman who hit me twisted her mouth maliciously and[r]
-glared at me with hatred.[pcms]
+あたしを叩いた女は意地悪く口元を歪め、[r]
+憎々しげにこちらを見つめていた。[pcms]
 
 *466|
 [fc]
-Still holding the "four-leaf" part in my hand, I crouched[r]
-down in silence for a while.[pcms]
+『四つ葉』部分を手に持ったまま、あたしはしばらく[r]
+無言でうずくまっていた。[pcms]
 
 ;//〆ブラックアウト
 ;[zapend_random]

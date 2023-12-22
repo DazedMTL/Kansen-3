@@ -9,7 +9,7 @@
 ;//登場人物:主人公・浩助・マルガリータ・漣・悠帆
 ;//　　　　ジン・重吉・セスカ・手下・感染者・朋美
 ;//時間帯：
-;//・時間：６日目（８月２０日）朝
+;//・時間：６日目（８月２０日）朝～
 ;//テキスト分量：16k前後
 ;//--------------------------------------------------------------------
 
@@ -27,9 +27,9 @@
 
 *513|
 [fc]
-The ringtone from my cell phone woke me up. I seemed to be[r]
-alone, with no one beside me. When I checked my phone, it[r]
-was from Kousuke.[pcms]
+携帯から着信音。ボクはその音で目を覚ました。[r]
+ボクはひとりきりのようで、隣には誰もいなかった。[r]
+携帯を見ると、コースケからだ。[pcms]
 
 ;//bgm即時停止
 [stopbgm]
@@ -38,36 +38,38 @@ was from Kousuke.[pcms]
 
 *514|
 [fc]
-[ns]Wataru[nse]
-"Mm...hello, hello..."[pcms]
+[ns]航[nse]
+「ん……はい、もしもし……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *515|
 [fc]
-[ns]Kousuke[nse]
-"Wataru!! Where are you?! Are you safe?!"[pcms]
+[ns]浩助[nse]
+「ワタルっ！！　今どこだ？！　無事か？！」[pcms]
 
 *516|
 [fc]
-Kousuke's frantic voice pierced my ears.[pcms]
+ボクの耳をつんざくように、大慌てのコースケの[r]
+声が聞こえていた。[pcms]
 
 *517|
 [fc]
-[ns]Wataru[nse]
-"Huh? Oh? Um...where is this..."[pcms]
+[ns]航[nse]
+「あ？　え？　えっと……ここは……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *518|
 [fc]
-[ns]Kousuke[nse]
-"Hey, Wataru. Can you hear me?! Wataru! You're safe, right?"[pcms]
+[ns]浩助[nse]
+「おいっ、ワタル。聞こえるか？！　ワタルっ！[r]
+　無事なんだな？」[pcms]
 
 *519|
 [fc]
-[ns]Wataru[nse]
-"Yeah, I'm safe... Kousuke, what's..."[pcms]
+[ns]航[nse]
+「う、うん。無事……だよ？　コースケ、何か……」[pcms]
 
 ;//se109・携帯から銃声
 [se buf=0 storage="se026"]
@@ -77,29 +79,29 @@ Kousuke's frantic voice pierced my ears.[pcms]
 
 *520|
 [fc]
-[ns]Wataru[nse]
-"?! What was that?!"[pcms]
+[ns]航[nse]
+「？！　今のは？！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *521|
 [fc]
-[ns]Kousuke[nse]
-"Damn it. Listen carefully, Wataru. That fatso, Shigeyoshi,[r]
-he suddenly attacked us. Hurry over here. We're fighting[r]
-back on the 5th floor! I'm hanging up!"[pcms]
+[ns]浩助[nse]
+「くそっ。ワタル、よく聞け。あのデブが、シゲヨシの[r]
+　ヤロウが、いきなり襲ってきたんだ。早く来てくれ。[r]
+　今、５階で応戦してるからっ！　切るぞっ！」[pcms]
 
 *522|
 [fc]
-The call from Kousuke was abruptly cut off. I almost[r]
-panicked for a moment and looked around. Indeed, I was the[r]
-only one here.[pcms]
+ブツリと切られた浩助からの電話。[r]
+ボクは一瞬パニックを起こしかけ、周りを見回す。[r]
+ここにはやっぱりボクひとりだけしかいなかった。[pcms]
 
 *523|
 [fc]
-In a rush, I gathered my scattered clothes, put them on, and[r]
-left the VIP room. Gunshots and the cries of many people[r]
-could be heard from downstairs.[pcms]
+大慌てで散らかっていた衣服を掻き集めて身に着け、[r]
+ＶＩＰルームを出る。[r]
+銃声と大勢のわめき声が階下から聞こえてきていた。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -113,347 +115,339 @@ could be heard from downstairs.[pcms]
 
 *524|
 [fc]
-When I arrived on the 5th floor, it was like a battlefield.[r]
-Gunshots ringing out. Angry shouts flying around. I[r]
-hurriedly crouched down and looked for everyone.[pcms]
+ボクが５階に駆け付けたとき、そこは戦場のようだった。[r]
+鳴り響く銃声。飛び交う怒号。ボクは慌てて身を低くし[r]
+みんなの姿を探した。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *525|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, over here!"[pcms]
+[ns]浩助[nse]
+「ワタルっ、こっちだ！」[pcms]
 
 *526|
 [fc]
-Maruko-senpai was hiding at the edge of the corridor,[r]
-gripping a gun. Kousuke was right next to her, clutching his[r]
-gun and shouting. Across the corridor, Jin- san was also[r]
-crouched low with a gun in hand.[pcms]
+通路際の物陰に隠れて銃を握っているマル子先輩。[r]
+すぐ隣のコースケが銃を握りしめて叫んでいた。通路ひとつ[r]
+隔てた別の物陰には、壬さんが銃を手に身を低くしていた。[pcms]
 
 *527|
 [fc]
-Behind the cover that everyone was using for protection,[r]
-several unfamiliar men were hiding and firing their guns at[r]
-us.[pcms]
+みんなが背にしている物陰の先には、何人もの見慣れない[r]
+男達が身を隠しながら銃をこちらに向けて発射していた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *528|
 [fc]
 [vo_mar s="maru_TE0196"]
-[ns]Margarita[nse]
-"Ayase! Circle around to this side. Hurry!"[pcms]
+[ns]マルガリータ[nse]
+「アヤセっ！　回り込んで、こっちに。早くっ！」[pcms]
 
 *529|
 [fc]
-I kept low and moved from cover to cover as quickly as[r]
-possible until I finally slid in next to Kousuke.[pcms]
+ボクは身を低くして、物陰から物陰に、可能な限り[r]
+素早く動いて、ようやくコースケの隣りに滑り込んだ。[pcms]
 
 *530|
 [fc]
-[ns]Wataru[nse]
-"Ko-Kousuke. What on earth is happening?"[pcms]
+[ns]航[nse]
+「コ、コースケ。いったい何が」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *531|
 [fc]
 [vo_mar s="maru_TE0197"]
-[ns]Margarita[nse]
-"Ayase, we'll talk later. Look."[pcms]
+[ns]マルガリータ[nse]
+「アヤセ、話はあとだ。ほらっ」[pcms]
 
 *532|
 [fc]
-Maruko-senpai passed me that pistol. I took it and gripped[r]
-it tightly as if embracing it. I never thought I'd have to[r]
-use a gun so soon...[pcms]
+マル子先輩があの拳銃をボクに渡してきた。[r]
+ボクは受け取って抱え込むように拳銃を握りしめた。[r]
+まさか、こんなに早く銃を使う事になるなんて……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *533|
 [fc]
 [vo_mar s="maru_TE0198"]
-[ns]Margarita[nse]
-"It's loaded and ready to fire at any time. Ayase, calm[r]
-down. Take a deep breath or something."[pcms]
+[ns]マルガリータ[nse]
+「弾は装填してある。いつでも撃てる状態だ。[r]
+　アヤセ、落ち着け。深呼吸のひとつでもしてみろ」[pcms]
 ;//○弾は「たま」と発音してください
 
 *534|
 [fc]
-As prompted by Maruko-senpai, I took a deep breath in and[r]
-then exhaled loudly.[pcms]
+ボクはマル子先輩に促されるまま、ひゅうっと深く[r]
+息を吸い込み、はああっっと吐き出した。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *535|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, where were you? You weren't in your room, so I[r]
-thought maybe you'd already been killed somewhere."[pcms]
+[ns]浩助[nse]
+「ワタル、どこにいたんだよ。部屋にいなかったから、[r]
+　どっかですでに殺られてるんじゃないかって」[pcms]
 ;//○殺されは「やられ」と発音して下さい
 
 *536|
 [fc]
-[ns]Wataru[nse]
-"Sorry...I apologize. What exactly happened?"[pcms]
+[ns]航[nse]
+「ごめん……あやまる。いったい何があったんだ？」[pcms]
 
 *537|
 [fc]
-Kousuke continued to speak in a hushed voice.[pcms]
+コースケは、声を抑えたままぼそぼそと話をつないだ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *538|
 [fc]
-[ns]Kousuke[nse]
-"It seems that fatso suddenly attacked in the middle of the[r]
-night. Jin-san and Maruko-senpai noticed something was[r]
-wrong, and we were woken up."[pcms]
+[ns]浩助[nse]
+「深夜にいきなりデブが襲ってきたらしいんだ。ジンさんと[r]
+　マル子先輩が異変に気が付いて、オレらは叩き起こされた」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *539|
 [fc]
-[ns]Kousuke[nse]
-"That fatso, laughing like a maniac while shooting his gun[r]
-as he came up here with his thugs."[pcms]
+[ns]浩助[nse]
+「あのデブ、バカみたいに拳銃撃ちながらゲハゲハ笑って[r]
+　上まで上がってきやがった。ちんぴら連れてさ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *540|
 [fc]
-[ns]Kousuke[nse]
-"By the time they got up here, they had already been[r]
-counterattacked by Jin-san and Maruko-senpai, and now we're[r]
-in this situation."[pcms]
+[ns]浩助[nse]
+「ここまで上がってきた時点で、ジンさんやマル子先輩に[r]
+　反撃食らって、今、この状態なんだ」[pcms]
 
 *541|
 [fc]
-Jin-san was reloading his gun with a grimace as if he had[r]
-bitten into a bitter bug. Maruko-senpai and he exchanged[r]
-glances and simultaneously stood up to shoot at them a few[r]
-times before quickly ducking back down.[pcms]
+壬さんを見ると苦虫を噛み潰したような顔つきで、銃に弾を[r]
+込めていた。ちらっとマル子先輩と視線を交わし、二人同時に[r]
+身体を起こしてヤツラに数発撃って、すぐに身体を沈ませた。[pcms]
 
 *542|
 [fc]
-This had been repeated several times since earlier. A scene[r]
-often seen in action movies. The two of them were accustomed[r]
-to battle. Even though it was happening right in front of[r]
-me, it didn't feel real.[pcms]
+そんな事を何回もさっきから繰り返していた。[r]
+アクション映画でよく見る光景。戦い慣れてるふたり。[r]
+目の前で起こっているのに、なんだか現実味がなかった。[pcms]
 
 *543|
 [fc]
-[ns]Shigeyoshi[nse]
-"You guys better give up already. If you come out quietly,[r]
-I'll spare your lives."[pcms]
+[ns]重吉[nse]
+「お前ぇらあ、いい加減、降参しやがれぇ。おとなしく[r]
+　出てくりゃあ、命は助けてやらぁ」[pcms]
 ;//♂_声のみ
 
 *544|
 [fc]
-Shigeyoshi's voice echoed even though his figure wasn't[r]
-visible. Meanwhile, the enemy kept firing their guns. His[r]
-words and actions were inconsistent. There was no way we[r]
-could trust him.[pcms]
+姿は見えないけれど重吉の声がひびいた。[r]
+その間にも、相手からは銃が発射される。言ってる事と[r]
+やってる事がバラバラだ。信用なんかできるもんか。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *545|
 [fc]
 [vo_mar s="maru_TE0199"]
-[ns]Margarita[nse]
-"You bastards should give up! What are you even trying to[r]
-do?!"[pcms]
+[ns]マルガリータ[nse]
+「キサマらこそ、あきらめろっ！　いったい何のつもりだっ！」[pcms]
 
 *546|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahaha! What a spirited blonde chick. Can you still say[r]
-such things after seeing this?"[pcms]
+[ns]重吉[nse]
+「げははははっ。威勢がいいパツキンのネーチャンだなぁ。[r]
+　こぉれ見てもそんなこと、言えんのかあ？」[pcms]
 ;//♂_声のみ
 
 *547|
 [fc]
-A girl was pushed out from behind cover, her hands tied[r]
-behind her back and half in a headlock. It was──![pcms]
+ずいっと物陰から、女の子が押し出されてきた。[r]
+後ろ手にされて、半ば羽交い締めにされた状態で。[r]
+それは──！[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *548|
 [fc]
 [vo_yuh s="yuho_TE0104"]
-[ns]Yuuho[nse]
-"Hey, no! Let me go! Let go of me!"[pcms]
+[ns]悠帆[nse]
+「ちょ、いやあっ。放してよ！　放せってばっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *549|
 [fc]
-[ns]Wataru & Kousuke[nse]
-"Yu-Yuuho!!"[pcms]
+[ns]航＆浩助[nse]
+「ゆ、ゆうほっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *550|
 [fc]
-[ns]Jin[nse]
-"Tch!"[pcms]
+[ns]壬[nse]
+「ちっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *551|
 [fc]
 [vo_mar s="maru_TE0200"]
-[ns]Margarita[nse]
-"Yuuho! You-you bastard!"[pcms]
+[ns]マルガリータ[nse]
+「ユウホっ！　キ、キッサマー！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *552|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahaha! One of my men found her just now. How about that?[r]
-Can you still talk big after seeing this?"[pcms]
+[ns]重吉[nse]
+「げははははっ。さっき俺様の手下が見っけてきたぜぇ。[r]
+　どーだぁ。これ見ても、そんなこと言えんのかあ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *553|
 [fc]
 [vo_yuh s="yuho_TE0105"]
-[ns]Yuuho[nse]
-"Let go, let go of me, you! Everyone, it's okay. I'm fine,[r]
-so don't worry about me and take these guys down![r]
-...Nggghh!"[pcms]
+[ns]悠帆[nse]
+「放せっ、放せーっ、このっ！　みんな、大丈夫だから。[r]
+　わたしは大丈夫だから、気にせず、コイツらをっ！[r]
+　……んぐぐぐっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *554|
 [fc]
-[ns]Shigeyoshi[nse]
-"Shut up! Gag her and take her over there."[pcms]
+[ns]重吉[nse]
+「うるせえっ。口塞いで、あっちに連れていけ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *555|
 [fc]
 [vo_mar s="maru_TE0201"]
-[ns]Margarita[nse]
-"Coward! Let Yuuho go... Then we can talk."[pcms]
+[ns]マルガリータ[nse]
+「卑怯者っ！　ユウホを放せ。[r]
+　……そしたら、話に応じてやる」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *556|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahaha! You don't get it, do you? Ahh, what a pain. Hey[r]
-guys, we're pulling out. If you want to get that cute sister[r]
-back, come after us."[pcms]
+[ns]重吉[nse]
+「げはははっ。わかってねえなぁ。あーめんどくせー。[r]
+　おう、お前ら、引き上げんぞ。お前らぁ、あの可愛い[r]
+　ねえちゃん、取り戻したかったら、追ってくんだなぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *557|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahahahahaha..."[pcms]
+[ns]重吉[nse]
+「げはははっげはははっ……」[pcms]
 
 *558|
 [fc]
-The henchmen continued to fire their guns as they slowly[r]
-retreated backward. Shigeyoshi's voice had long since faded[r]
-away into the distance.[pcms]
+手下どもが、まだ銃を発射しながら、じりじりと[r]
+後退していく。重吉の声はとうの昔に、遠ざかり[r]
+聞こえなくなっていた。[pcms]
 
 *559|
 [fc]
-The sound of footsteps in unison followed by the[r]
-disappearance of their presence.[pcms]
+一斉にドタドタという足音がして、ひとの気配が消えた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *560|
 [fc]
-[ns]Kousuke[nse]
-"Damn it! Yuuho! We need to save her quickly!"[pcms]
+[ns]浩助[nse]
+「くそっ！　ユウホ！　早く助けにっ！」[pcms]
 
 *561|
 [fc]
-[ns]Wataru[nse]
-"Yeah! We have to save Yuuho quickly!"[pcms]
+[ns]航[nse]
+「うんっ！　早く悠帆を！」[pcms]
 
 *562|
 [fc]
-Wataru and Kousuke were about to dash out from behind cover[r]
-towards the corridor where Yuuho had disappeared.[pcms]
+ボクとコースケは、物陰から飛び出して、悠帆が消えた[r]
+通路に向かって駆け出そうとしていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *563|
 [fc]
-[ns]Jin[nse]
-"...Wait. Calm down a bit."[pcms]
+[ns]壬[nse]
+「……待て。ちったぁ落ち着け」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *564|
 [fc]
-[ns]Kousuke[nse]
-"This isn't a situation where I can stay calm!"[pcms]
+[ns]浩助[nse]
+「落ち着いていられるような状況じゃっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *565|
 [fc]
 [vo_mar s="maru_TE0202"]
-[ns]Margarita[nse]
-"Sai! Don't panic. It's precisely in times like these that[r]
-we need to stay calm."[pcms]
+[ns]マルガリータ[nse]
+「サイっ！　焦るな。こういう時こそ落ち着くんだ」[pcms]
 
 *566|
 [fc]
-[ns]Wataru[nse]
-"Please don't say anything rash. Yuuho has been kidnapped."[pcms]
+[ns]航[nse]
+「無茶言わないでください。悠帆がさらわれたんですよ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *567|
 [fc]
-[ns]Jin[nse]
-"I know. The kind of thing Shige would do is pretty[r]
-predictable. I also know where they've escaped to, so first[r]
-we need to get our gear in order."[pcms]
+[ns]壬[nse]
+「わかってるさ。シゲのやりそうな事なんて、たかが[r]
+　知れてる。どこに逃げたかもわかってるから、まずは[r]
+　装備を調えるのが先決なんだよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *568|
 [fc]
 [vo_mar s="maru_TE0203"]
-[ns]Margarita[nse]
-"That's right, Ayase. If we just rush in recklessly, we'll[r]
-be walking right into a trap. Don't worry. We'll definitely[r]
-get Yuuho back."[pcms]
+[ns]マルガリータ[nse]
+「そうだ、アヤセ。勢いに任せて追いかけたところで、[r]
+　返り討ちに遭うのが関の山だ。大丈夫だから。[r]
+　必ずユウホは取り戻すから」[pcms]
 
 *569|
 [fc]
-[ns]Wataru[nse]
-"...Understood."[pcms]
+[ns]航[nse]
+「……わかりました」[pcms]
 
 *570|
 [fc]
-[ns]Wataru[nse]
-"! That's right. Where's Ren? Where's Mizuki?"[pcms]
+[ns]航[nse]
+「！　そうだ。漣は？　瑞樹は？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *571|
 [fc]
-[ns]Kousuke[nse]
-"Right! They were supposed to be with Yuuho. Let's check on[r]
-them first. This way."[pcms]
+[ns]浩助[nse]
+「そうだっ！　ユウホと一緒にいたはずなのに。[r]
+　そっちを先に確認しよう。こっちだ」[pcms]
 
 *572|
 [fc]
-I was led by Kousuke, running with my gun in hand. Where's[r]
-Ren? Where's Mizuki? Yuuho has been kidnapped. Could it be[r]
-that those two as well? A cold sweat ran down my back.[pcms]
+ボクはコースケに先導され銃を持ったまま駆け出した。[r]
+漣は？　瑞樹は？　悠帆がさらわれたんだ。[r]
+もしかしたら、二人も？　イヤな汗がボクの背中を流れた。[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -465,166 +459,164 @@ that those two as well? A cold sweat ran down my back.[pcms]
 
 *573|
 [fc]
-[ns]Wataru[nse]
-"Ren! Mizuki!"[pcms]
+[ns]航[nse]
+「漣っ！　瑞樹っ！」[pcms]
 
 *574|
 [fc]
-I shouted loudly as I opened the door. They were nowhere to[r]
-be seen... could it be...[pcms]
+勢いよく叫びながらドアを開けた。[r]
+姿が見えない。まさか……。[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *575|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki! Ren-chan!"[pcms]
+[ns]浩助[nse]
+「瑞樹っ！　漣ちゃんっ！」[pcms]
 
 *576|
 [fc]
-With a small clatter, Ren and Mizuki stood up from behind[r]
-cover with frightened faces.[pcms]
+コトリと小さな音がして、物陰から怯えた顔で漣と瑞樹が[r]
+立ち上がった。[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *577|
 [fc]
 [vo_ren s="ren_TE0101"]
-[ns]Ren[nse]
-"Onii-chan!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ！！」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *578|
 [fc]
 [vo_miz s="mizuki_TE0027"]
-[ns]Mizuki[nse]
-"Kousuke!!"[pcms]
+[ns]瑞樹[nse]
+「コースケぇ！！」[pcms]
 
 *579|
 [fc]
-Ren came running to me and Mizuki to Kousuke, both reaching[r]
-out their arms as if seeking help and then hugging us.[pcms]
+漣はボクに、瑞樹はコースケに、助けを求めるように[r]
+両腕を伸ばしながら抱き付いてきた。[pcms]
 
 *580|
 [fc]
-[ns]Wataru[nse]
-"Ren... are you okay? Are you hurt anywhere?"[pcms]
+[ns]航[nse]
+「漣……大丈夫か？　怪我とかしてないか？」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *581|
 [fc]
 [vo_ren s="ren_TE0102"]
-[ns]Ren[nse]
-"Yeah. Yeah. I'm fine. No injuries. We're both okay."[pcms]
+[ns]漣[nse]
+「うん。うんっ。私は大丈夫。怪我もないよ。大丈夫。[r]
+　私も、瑞樹ちゃんも大丈夫だよ」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="mizu_e5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *582|
 [fc]
 [vo_miz s="mizuki_TE0028"]
-[ns]Mizuki[nse]
-"Kousuke... I was so scared... sob sob"[pcms]
+[ns]瑞樹[nse]
+「コースケぇぇ……恐かったよぉ……うっううっ」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *583|
 [fc]
-[ns]Kousuke[nse]
-"It's okay, Mizuki. It's all right now."[pcms]
+[ns]浩助[nse]
+「大丈夫だ、瑞樹。もう大丈夫だから」[pcms]
 
 *584|
 [fc]
-Kousuke and I held Ren and Mizuki, respectively, comforting[r]
-them by stroking their backs.[pcms]
+ボクとコースケは、漣と瑞樹をそれぞれ抱きとめ[r]
+あやすように背中をさすっていた。[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *585|
 [fc]
 [vo_ren s="ren_TE0103"]
-[ns]Ren[nse]
-"Onii-chan, what about Yuuho-chan? Is she with you?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん、悠帆ちゃんは？　悠帆ちゃん一緒？」[pcms]
 
 *586|
 [fc]
-[ns]Wataru[nse]
-"Yuuho has been... kidnapped by them!"[pcms]
+[ns]航[nse]
+「悠帆は……アイツらに……さらわれたっ！」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *587|
 [fc]
 [vo_ren s="ren_TE0104"]
-[ns]Ren[nse]
-"No way... Ah, I knew it. I should have stopped her[r]
-properly. Yuuho-chan said she couldn't stand just hiding[r]
-here and doing nothing."[pcms]
+[ns]漣[nse]
+「うそっ……ああ、やっぱり。やっぱりちゃんと止めてれば。[r]
+　悠帆ちゃん、こんなとこで隠れてじっとしてるなんて性に[r]
+　合わないって。何か探してみんなに加わるって」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *588|
 [fc]
 [vo_ren s="ren_TE0105"]
-[ns]Ren[nse]
-"She said she'd sneak up to the third floor from the back[r]
-and look for something. 'It's okay, they won't find me. I'll[r]
-outsmart them completely.'[pcms]
+[ns]漣[nse]
+「裏から３階にこっそり行って何か探してくる。[r]
+　大丈夫見つからないから。まんまと出し抜いてやるから」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *589|
 [fc]
 [vo_ren s="ren_TE0106"]
-[ns]Ren[nse]
-"That's what she said before she ran off. If I had just[r]
-stopped Yuuho-chan more firmly... sob, I'm sorry."[pcms]
+[ns]漣[nse]
+「そう言って飛び出したの。私が、私がもっとしっかり[r]
+　悠帆ちゃんを止めていれば……うううっ、ごめんなさい」[pcms]
 
 *590|
 [fc]
-[ns]Wataru[nse]
-"It's not your fault, Ren. You don't have to apologize for[r]
-this. It's okay. We'll definitely get Yuuho back safely."[pcms]
+[ns]航[nse]
+「漣は悪くないよ。漣があやまることじゃないよ。[r]
+　大丈夫だから。ちゃんと、悠帆は無事に取り戻すから」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *591|
 [fc]
-[ns]Kousuke[nse]
-"That's right. Don't worry, Ren-chan. We'll definitely get[r]
-her back."[pcms]
+[ns]浩助[nse]
+「そうだ。大丈夫だよ、漣ちゃん。必ず取り戻す」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="mizu_e3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *592|
 [fc]
 [vo_miz s="mizuki_TE0029"]
-[ns]Mizuki[nse]
-"Sob sob sob... Jin, what about him? And Marie-san?"[pcms]
+[ns]瑞樹[nse]
+「うっうっうっ……コースケ、ジンは？　マリーさんは？」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *593|
 [fc]
-[ns]Kousuke[nse]
-"Don't worry, Mizuki. Those two aren't the type to be taken[r]
-down easily. They're both fine and kicking."[pcms]
+[ns]浩助[nse]
+「安心しろ、瑞樹。あのふたりは、簡単に殺られるような[r]
+　たまじゃないだろ。ふたりともピンピンしてるぜ」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *594|
 [fc]
 [vo_miz s="mizuki_TE0030"]
-[ns]Mizuki[nse]
-"Thank goodness... thank goodness... sob sob ahhhh!"[pcms]
+[ns]瑞樹[nse]
+「良かった……良かったぁ……ううっあああんっ」[pcms]
 
 *595|
 [fc]
-The two of them were safe. I breathed a sigh of relief. We[r]
-need to rescue Yuuho quickly. If those guys have taken her,[r]
-who knows what they'll do to her... We have to save her as[r]
-soon as possible.[pcms]
+二人は無事だった。ボクは胸を撫で下ろした。[r]
+早く悠帆を救い出さなければ。あんな連中にさらわれたら、[r]
+何をされるか……。一刻も早く救い出さなくては。[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -640,113 +632,111 @@ soon as possible.[pcms]
 *596|
 [fc]
 [vo_mar s="maru_TE0204"]
-[ns]Margarita[nse]
-"This is about all we can use..."[pcms]
+[ns]マルガリータ[nse]
+「使えるのはこれぐらいだろう……」[pcms]
 
 *597|
 [fc]
-In the fifth floor riddled with bullet holes, we were[r]
-bustling about trying to get ready. Maruko-senpai was[r]
-gathering up lights that had been brought in before.[pcms]
+あちこちに銃弾の穴が空いた５階で、ボクたちは準備を[r]
+整えようとばたばたと動いていた。[r]
+マル子先輩は、以前持ち込んだ灯りを集めてきていた。[pcms]
 
 *598|
 [fc]
-Lanterns and flashlights we used when we went through the[r]
-underground passage, holsters for pistols and various knives[r]
-we procured from the third floor.[pcms]
+地下道を進んだ時に使ったランタンや懐中電灯。[r]
+３階から調達した、拳銃のホルダーやナイフの類。[pcms]
 
 *599|
 [fc]
-Even though we were anxious to move quickly, Jin-san and[r]
-Maruko-senpai were quietly proceeding with the equipment.[pcms]
+早く早くと気は焦っていたけれど、壬さんとマル子先輩は[r]
+静かに装備を進めていた。[pcms]
 
 *600|
 [fc]
-There was no point in rushing. I knew that in my head, but[r]
-still felt a slight irritation at their calm demeanor as[r]
-every second was critical.[pcms]
+焦っても仕方がない。そう頭ではわかっていたけれど。[r]
+一分一秒でも早くと、ふたりの様子にボクはわずかの[r]
+苛立ちを憶えていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *601|
 [fc]
-[ns]Jin[nse]
-"Shige must have used the underground passage to return to[r]
-Celesta Tower. I'll lead the way as the guide. I'll take the[r]
-front. Marie, you cover our rear. Kousuke and Wataru,[r]
-position yourselves between me and Marie."[pcms]
+[ns]壬[nse]
+「シゲは、地下道を使ってセレスタワーに戻ったはずだ。[r]
+　道案内は、俺がする。先頭を行く。マリーは、しんがりを[r]
+　努めてくれ。浩助と航は俺とマリーのあいだに入るように」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *602|
 [fc]
 [vo_mar s="maru_TE0205"]
-[ns]Margarita[nse]
-"Understood. Ren, Kugayama. The two of you stay here and[r]
-wait. According to Jin, it's highly unlikely that a separate[r]
-squad will attack while we're gone. I think so too."[pcms]
+[ns]マルガリータ[nse]
+「わかった。レン、久我山。ふたりはここで待機だ。[r]
+　ジンの話だと別動隊が動いて留守に襲ってくる可能性は[r]
+　極めて低い。ワタシもそう思う」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *603|
 [fc]
 [vo_mar s="maru_TE0206"]
-[ns]Margarita[nse]
-"There are limited routes from the underground passage up[r]
-here. And they can't come from above ground because they'd[r]
-fall prey to those guys."[pcms]
+[ns]マルガリータ[nse]
+「地下道からここに上がってくるにはルートが限られてる。[r]
+　かと言って、地上からでは、ヤツラの餌食になるから[r]
+　来られないだろう」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *604|
 [fc]
 [vo_mar s="maru_TE0207"]
-[ns]Margarita[nse]
-"Lock yourselves in a room and build a barricade inside[r]
-using furniture, just in case. Don't open it until you're[r]
-sure it's us. Got it?"[pcms]
+[ns]マルガリータ[nse]
+「鍵のかかる部屋で、念のため内側から家具なんかを使って[r]
+　バリケードを築いておけ。ワタシたちだと確認できるまで[r]
+　決して開けるな。いいな？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *605|
 [fc]
 [vo_ren s="ren_TE0107"]
-[ns]Ren[nse]
-"Yes, senpai. Leave it to me. Please make sure to rescue[r]
-Yuuho-chan and come back safely."[pcms]
+[ns]漣[nse]
+「はい、先輩。まかせてください。必ず悠帆ちゃんを[r]
+　救出して、無事に戻ってきてくだいさいね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *606|
 [fc]
 [vo_mar s="maru_TE0208"]
-[ns]Margarita[nse]
-"Don't worry, Ren. Make sure you keep yourself safe too."[pcms]
+[ns]マルガリータ[nse]
+「大丈夫だ、レン。レンもしっかり自分を守っていてくれ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *607|
 [fc]
 [vo_ren s="ren_TE0108"]
-[ns]Ren[nse]
-"Yes. Onii-chan, Ko-chan, Jin-san, please come back safely.[r]
-And please save Yuuho-chan."[pcms]
+[ns]漣[nse]
+「はい。お兄ちゃん、コーちゃん、壬さん、無事に帰って[r]
+　きてくださいね。必ず悠帆ちゃんを助けてくださいね」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *608|
 [fc]
 [vo_miz s="mizuki_TE0031"]
-[ns]Mizuki[nse]
-"Jin... be careful. Kousuke, don't do anything reckless.[r]
-Wataru, please take care of Yuuho. Marie-san, please look[r]
-after everyone."[pcms]
+[ns]瑞樹[nse]
+「ジン……気を付けてね。コースケ、無茶しないでね。[r]
+　ワタル、ユウホをお願いね。マリーさん。みんなを[r]
+　よろしくお願いします」[pcms]
 
 *609|
 [fc]
-Leaving Ren and Mizuki behind, the four of usme, Kousuke,[r]
-Maruko-senpai, and Jin-sanequipped ourselves and descended[r]
-into the underground passage to rescue Yuuho.[pcms]
+漣と瑞樹を残して、ボク、コースケ、マル子先輩、壬さん、[r]
+４人は装備を身に着けて、悠帆を救出するために[r]
+地下道へと降りて行った。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -759,160 +749,151 @@ into the underground passage to rescue Yuuho.[pcms]
 
 *610|
 [fc]
-We advanced through the underground passage with Jin-san[r]
-leading us steadily forward. We aimed for the junction where[r]
-Udagawa drainage channel meets Shibuya River and passed[r]
-through it to reach the open channel of Shibuya River. So[r]
-far, there had been no incidents.[pcms]
+ひたひたと壬さんを先頭に、ボクたちは地下道を進んだ。[r]
+宇田川暗渠から渋谷川の合流部を目指し、更にそこを通過して[r]
+渋谷川の開渠へと出た。ここまでは何ごともなかった。[pcms]
 
 *611|
 [fc]
-Outside the open channel area was still dark; there was time[r]
-until dawn. Just before reaching the open channel area, Jin-[r]
-san stopped walking, turned around to gather us in the[r]
-darkness, and began to speak.[pcms]
+開渠部から見える外は、まだ暗い。夜明けまで時間があった。[r]
+開渠部への手前で壬さんは足を止め、振り返ってボクらを[r]
+集め、暗い中で話を始めた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *612|
 [fc]
-[ns]Jin[nse]
-"Listen up and remember this well. In case we get separated[r]
-by any chance, each one of you needs to hammer this into[r]
-your head."[pcms]
+[ns]壬[nse]
+「いいか、よく聴いて憶えてくれよ。万が一はぐれた時の[r]
+　為にも、ひとりひとり、頭の中に、叩き込んでおくんだ」[pcms]
 
 *613|
 [fc]
-Jin-san sat down and, as if pointing at a blueprint on the[r]
-concrete ground illuminated by the lantern, began to[r]
-explain.[pcms]
+壬さんは座り込み、ランタンに照らされたコンクリートの[r]
+地面に、図面があるかのように指差しながら、説明を[r]
+始めた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *614|
 [fc]
-[ns]Jin[nse]
-"From here, we'll head to the open channel and aim for the[r]
-second bridge, Yahata-bashi. Below that is a drainage outlet[r]
-that leads to the sewer under the south exit of Shibuya[r]
-Station. From there, we'll move directly under Shibuya[r]
-Station, where our lift is located."[pcms]
+[ns]壬[nse]
+「この先、開渠部に出て２つ目の橋、八幡橋を目指す。その[r]
+　下にある排水口から渋谷駅の南口下の下水路に出られる。[r]
+　そこから更に渋谷駅の真下に進むと、俺らの昇降口がある」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *615|
 [fc]
 [vo_mar s="maru_TE0209"]
-[ns]Margarita[nse]
-"Our lift? Hmph, some corporate secret, huh?"[pcms]
+[ns]マルガリータ[nse]
+「俺ら？　ふん、企業秘密ってやつか？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *616|
 [fc]
-[ns]Jin[nse]
-"That's right, Marie. You know it well. Having one or two[r]
-corporate secrets is essential for us who make this area our[r]
-base of operations."[pcms]
+[ns]壬[nse]
+「そうだよ、マリー。よく知ってるな。企業秘密のひとつや[r]
+　ふたつあるのがここいらを根城にしてる俺らの大事な[r]
+　商売のもとなんだよ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *617|
 [fc]
-[ns]Jin[nse]
-"...Let's continue. Using that lift, we can get to the[r]
-station's freight distribution center. From there, we go[r]
-through the machinery room and into the common duct."[pcms]
+[ns]壬[nse]
+「……先を続けるぞ。その昇降口を使うと駅の貨物集配[r]
+　センターに出られる。そこの機械室を経由して、今度は[r]
+　共同溝に入る」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *618|
 [fc]
-[ns]Jin[nse]
-"If we follow the common duct, we'll reach the underground[r]
-machinery room of Celesta Tower. From there, it's simple;[r]
-just head upwards. Knowing Shige, he's probably holed up in[r]
-the top floor suite."[pcms]
+[ns]壬[nse]
+「共同溝を進むとセレスタワーの地下機械室に出られる。[r]
+　そっからは、単純に上を目指しゃあいい。どうせシゲの[r]
+　ことだ。最上階のスイートあたりにいるだろうさ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *619|
 [fc]
-[ns]Jin[nse]
-"Got all that? Wataru, Kousuke, have you memorized it? It's[r]
-a matter of life and death, so make sure you remember."[pcms]
+[ns]壬[nse]
+「ここまで、わかったか？　航、浩助、ちゃんと頭の中に[r]
+　叩き込んだか？　命に関わるんだ、しっかり憶えとけ」[pcms]
 
 *620|
 [fc]
-[ns]Wataru[nse]
-"Yes... I've got it... for sure."[pcms]
+[ns]航[nse]
+「はい……大丈夫……です」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *621|
 [fc]
-[ns]Kousuke[nse]
-"All good here."[pcms]
+[ns]浩助[nse]
+「大丈夫っす」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *622|
 [fc]
 [vo_mar s="maru_TE0210"]
-[ns]Margarita[nse]
-"I don't like this..."[pcms]
+[ns]マルガリータ[nse]
+「気に入らないな……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *623|
 [fc]
-[ns]Jin[nse]
-"What don't you like, Marie?"[pcms]
+[ns]壬[nse]
+「なにがだ、マリー？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *624|
 [fc]
 [vo_mar s="maru_TE0211"]
-[ns]Margarita[nse]
-"The open channel ahead. Look. There are no unnecessary[r]
-obstructions, but the path curves gently. It's easy to[r]
-create blind spots. Don't you think it's perfect for an[r]
-ambush, Jin?"[pcms]
+[ns]マルガリータ[nse]
+「この先の開渠部だ。見ろ。余計な遮蔽物はないが、経路が[r]
+　緩やかにカーブしている。死角ができやすい。[r]
+　待ち伏せするには、もってこいだと思わないか？　ジン」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *625|
 [fc]
-[ns]Jin[nse]
-"...Yeah, you're right. There might be someone there. But we[r]
-can't just not go, can we, Marie?"[pcms]
+[ns]壬[nse]
+「……ああ、確かにそうだな。いるかもしれねぇ。[r]
+　だが、行かないわけには、いかねぇだろ、マリー」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *626|
 [fc]
 [vo_mar s="maru_TE0212"]
-[ns]Margarita[nse]
-"...Yeah. Yuuho is waiting for us. Wataru, Sai. There might[r]
-be an ambush ahead. Be on your guard."[pcms]
+[ns]マルガリータ[nse]
+「……ああ。ユウホが待ってるからな。ワタル、サイ。[r]
+　この先は待ち伏せがあるかも知れない。心してかかれ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *627|
 [fc]
 [vo_mar s="maru_TE0213"]
-[ns]Margarita[nse]
-"Remember what I taught you. Keep your elbows in and shoot[r]
-with both hands. Be mindful of the recoil and keep count of[r]
-the shots you've fired. Got it? This isn't practice; it's[r]
-the real deal."[pcms]
+[ns]マルガリータ[nse]
+「ワタシが教えたことを思い出すんだ。[r]
+　脇を締めて両手で撃つ。反動に気を付けて撃った弾の数を[r]
+　数えておく。いいな、練習じゃない。実戦だからな」[pcms]
 
 *628|
 [fc]
-I steeled my resolve and nodded back to Maruko-senpai.[r]
-Kousuke also nodded firmly, and the four of us stood up and[r]
-stepped into the open channel area.[pcms]
+ボクは気持ちを固め意を決してマル子先輩にうなずき返した。[r]
+コースケも力強くうなずき返し、ボクたち４人は立ち上がり、[r]
+開渠部へと足を踏み出した。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -929,20 +910,19 @@ stepped into the open channel area.[pcms]
 
 *629|
 [fc]
-[ns]Jin[nse]
-"Tch, just as I thought they would be against it. Spot on,[r]
-Marie."[pcms]
+[ns]壬[nse]
+「ちっ、やっぱりいやがったぜ。マリー大当たりだぜ」[pcms]
 
 *630|
 [fc]
-Since Shibuya River was almost dry, we proceeded along the[r]
-dry riverbed. Jin-san stopped at the first bridge and[r]
-signaled us to be cautious with a gesture behind his back.[pcms]
+渋谷川はほとんど水がなかったので乾いた川底を進んだ。[r]
+周りに警戒しながら１つめの橋にかかったところで壬さんが[r]
+立ち止まってボクたちに後ろ手で合図をくれた。[pcms]
 
 *631|
 [fc]
-[ns]Henchman A[nse]
-"They're here-! Fire away-!"[pcms]
+[ns]手下Ａ[nse]
+「来たぞーっ、ぶっ放せー！」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -952,14 +932,14 @@ signaled us to be cautious with a gesture behind his back.[pcms]
 *632|
 [fc]
 [vo_mar s="maru_TE0214"]
-[ns]Margarita[nse]
-"Wataru, Sai. Get to the side. Put your backs against the[r]
-wall. I'll take the front!"[pcms]
+[ns]マルガリータ[nse]
+「ワタル、サイ。端に寄れ。壁を背中にしろっ。[r]
+　ワタシは前に出るっ！」[pcms]
 
 *633|
 [fc]
-Maruko-senpai crouched low and ran to Jin-san's side,[r]
-beginning to shoot towards the front.[pcms]
+マル子先輩は低い体勢で壬さんのもとに駆け寄り、[r]
+前方に向けて銃を撃ち始めた。[pcms]
 
 [se buf=0 storage="se026"]
 
@@ -967,13 +947,13 @@ beginning to shoot towards the front.[pcms]
 
 *634|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, let's do this too!"[pcms]
+[ns]浩助[nse]
+「ワタル、オレらもっ！」[pcms]
 
 *635|
 [fc]
-[ns]Wataru[nse]
-"Right!"[pcms]
+[ns]航[nse]
+「おおっ！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -981,67 +961,65 @@ beginning to shoot towards the front.[pcms]
 
 *636|
 [fc]
-There was no time for hesitation. Yuuho's life was at stake.[r]
-Both Kousuke and I gripped our guns with both hands and[r]
-began firing to support Jin-san and Maruko- senpai.[pcms]
+迷ってなんかいられなかった。悠帆の命がかかってる。[r]
+ボクもコースケも、銃を両手で握りしめ、壬さんや[r]
+マル子先輩を援護するように、銃を撃ち始めた。[pcms]
 
 [se buf=0 storage="se026"]
 
 *637|
 [fc]
-Sparks flew in the darkness. It was the light from the[r]
-gunpowder when the guns were fired.[pcms]
+暗闇の中に火花が咲いている。銃が発射されたときの[r]
+火薬の光りだ。[pcms]
 
 *638|
 [fc]
-[ns]Henchman B[nse]
-"Ughaaah! I-I've been hit-!"[pcms]
+[ns]手下Ｂ[nse]
+「うぎゃああっ！　や、やられたーっ！」[pcms]
 
 [se buf=0 storage="se026"]
 
 *639|
 [fc]
-[ns]Henchman C[nse]
-"Uwaaah, damn it hurts-!"[pcms]
+[ns]手下Ｃ[nse]
+「うわああっ、ちくしょー痛てーよー！」[pcms]
 
 [se buf=0 storage="se026"]
 
 *640|
 [fc]
-Jin-san, Maruko-senpai, and Kousuke continued shooting while[r]
-keeping their backs against the wall. I also fired my gun[r]
-while counting the shots in my head from slightly behind[r]
-Kousuke.[pcms]
+壬さん、マル子先輩、コースケは、壁を背中にしながら[r]
+射撃を続けていた。ボクもコースケのやや斜め後ろで[r]
+発射した弾の数を頭で数えながら、銃を撃っていた。[pcms]
 
 [se buf=0 storage="se026"]
 
 *641|
 [fc]
-Bullets whizzed over our heads and by our sides, slicing[r]
-through the air. Gunshots hit nearby walls and concrete[r]
-fragments occasionally fell down around us.[pcms]
+頭の上や腕の脇、弾丸が空気を切り裂いて通っていく。[r]
+頭上やすぐ近くの壁に銃弾が当たって、コンクリの[r]
+破片がパラパラと時折降ってきた。[pcms]
 
 [se buf=0 storage="se026"]
 
 *642|
 [fc]
-Even so, while screams arose from among them, no cries of[r]
-being hit came from our side. The difference in shooting[r]
-skills was clear.[pcms]
+それでも、アイツラの中で叫び声が起きることはあっても[r]
+ボク達の方には着弾の叫び声は上がらなかった。[r]
+射撃の腕前が違うんだろう。[pcms]
 
 *643|
 [fc]
-Maruko-senpai was a professional who had received training.[r]
-Jin-san was naturally accustomed to shooting. Kousuke had[r]
-been praised by Maruko-senpai for having good sense, just[r]
-like Yuuho.[pcms]
+マル子先輩は訓練を受けたいわばプロだ。壬さんは[r]
+当然だけど撃ち慣れている。コースケは悠帆同様に[r]
+センスがいいとマル子先輩に褒められていた。[pcms]
 
 [se buf=0 storage="se026"]
 
 *644|
 [fc]
-I was the only misfit. But for Yuuho's sake, I kept firing[r]
-at the sparks glowing in the darkness.[pcms]
+ミソっかすはボクだけだ。だけど、悠帆を救うためと[r]
+暗闇に光る火花目がけて、ボクは銃を撃ち続けていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
@@ -1049,17 +1027,17 @@ at the sparks glowing in the darkness.[pcms]
 
 *645|
 [fc]
-[ns]Jin[nse]
-"Tch. There's no end to this. How many underlings did Shige[r]
-gather..."[pcms]
+[ns]壬[nse]
+「ちっ。キリがねえな。シゲのヤロウ、どんだけ[r]
+　手下を集めやがったんだか……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *646|
 [fc]
 [vo_mar s="maru_TE0215"]
-[ns]Margarita[nse]
-"Were there many faces you didn't recognize?"[pcms]
+[ns]マルガリータ[nse]
+「知らない顔の方が多かったのか？」[pcms]
 
 [se buf=0 storage="se026"]
 
@@ -1067,8 +1045,8 @@ gather..."[pcms]
 
 *647|
 [fc]
-[ns]Jin[nse]
-"Yeah. Most of them were faces I didn't know."[pcms]
+[ns]壬[nse]
+「ああ。ほとんど知らねえ顔ばっかだった」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
@@ -1077,44 +1055,43 @@ gather..."[pcms]
 *648|
 [fc]
 [vo_mar s="maru_TE0216"]
-[ns]Margarita[nse]
-"I see... But no matter how many there are, we just have to[r]
-break through."[pcms]
+[ns]マルガリータ[nse]
+「そうか……だが、どれだけいようと打ち破るだけだ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *649|
 [fc]
-[ns]Jin[nse]
-"Haha. You're tough as nails, Marie."[pcms]
+[ns]壬[nse]
+「ははっ。強えーなあ、マリーは」[pcms]
 
 [se buf=0 storage="se026"]
 
 *650|
 [fc]
-While listening to their conversation, I desperately kept[r]
-firing my gun. Then suddenly, a bullet whizzed past my ear[r]
-as if it turned into wind from behind me.[pcms]
+そんな会話をボクは聞きながら必死に銃を撃っていた。[r]
+その時、ひゅんっと後ろから弾がボクの耳の横を[r]
+風と化して通っていった。[pcms]
 
 *651|
 [fc]
-Without looking back, I could sense people approaching from[r]
-behind.[pcms]
+振り返らなくても、後ろからどやどやとひとが[r]
+来る気配がわかった。[pcms]
 
 [se buf=0 storage="se026"]
 
 *652|
 [fc]
-[ns]Wataru[nse]
-"Behind us, there are enemies from behind too! They're[r]
-shooting at us from behind!!"[pcms]
+[ns]航[nse]
+「後ろ、後方にもいますっ！[r]
+　後ろからも撃ってきてますっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *653|
 [fc]
-[ns]Jin[nse]
-"What! Tch, a pincer attack, huh."[pcms]
+[ns]壬[nse]
+「なにっ！　ちっ、ご丁寧に挟み撃ちかよっ」[pcms]
 
 [se buf=0 storage="se026"]
 
@@ -1125,22 +1102,22 @@ shooting at us from behind!!"[pcms]
 *654|
 [fc]
 [vo_mar s="maru_TE0217"]
-[ns]Margarita[nse]
-"Were they hiding along the way? It's our fault for not[r]
-noticing... We'll counterattack now, Jin!"[pcms]
+[ns]マルガリータ[nse]
+「途中に潜んでいたのか？　気付かなかったワタシたちの[r]
+　落ち度だな……反撃するぞっ、ジンっ！」[pcms]
 
 [se buf=0 storage="se026"]
 
 *655|
 [fc]
-Maruko-senpai moved in front of me while maintaining a low[r]
-stance and began shooting at those trying to encircle us[r]
-from behind.[pcms]
+マル子先輩は、低い体勢のままボクの前に出て、[r]
+後方から挟み撃ちにしようとする連中に向かって[r]
+銃を撃ち始めた。[pcms]
 
 *656|
 [fc]
-Jin-san and Kousuke took on the enemies in front while[r]
-Maruko-senpai and I targeted those behind.[pcms]
+壬さんとコースケが前方の敵へ。ボクとマル子先輩が[r]
+後方の敵へと銃を撃ち続けた。[pcms]
 
 [se buf=0 storage="se026"]
 
@@ -1148,109 +1125,111 @@ Maruko-senpai and I targeted those behind.[pcms]
 
 *657|
 [fc]
-Screams came from among them. But they outnumbered us. We[r]
-were slowly being surrounded from all sides.[pcms]
+連中の中から悲鳴が上がる。[r]
+でも、数が違った。ボク達はじわじわと周囲から[r]
+押し包まれ始めていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *658|
 [fc]
-[ns]Jin[nse]
-"Tch... That bastard Shige..."[pcms]
+[ns]壬[nse]
+「ちっ……シゲのヤロウ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *659|
 [fc]
 [vo_mar s="maru_TE0218"]
-[ns]Margarita[nse]
-"There really is no end to this... This is a bad situation."[pcms]
+[ns]マルガリータ[nse]
+「本当にキリがないな……まずい状況だ」[pcms]
 
 [se buf=0 storage="se026"]
 
 *659a|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey you guys, stop shooting."[pcms]
+[ns]重吉[nse]
+「お前ぇらあ、撃つの止めなぁ」[pcms]
 ;//♂_声のみ
 
 *660|
 [fc]
-The enemy gunfire ceased abruptly at that voice. We also[r]
-instinctively stopped firing. Shigeyoshi emerged slowly from[r]
-the darkness ahead.[pcms]
+その声にぴたりと敵の銃声が止む。[r]
+ボクたちも、つい、撃つのを止めてしまっていた。[r]
+前方の暗闇から重吉がのっそりと姿を現した。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *661|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahaha! What's wrong Jin-aniki? Maybe it's about time you[r]
-surrendered?"[pcms]
+[ns]重吉[nse]
+「げはははっ。ジンのアニキぃ、どーしましたあ？[r]
+　そぉろそろ、降参しちゃあどうですかぁ？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *662|
 [fc]
-[ns]Jin[nse]
-"Shige! You bastard!"[pcms]
+[ns]壬[nse]
+「シゲっ！　てめえ！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *663|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehaha, Aniki, why are you on that side? Hehe, you've[r]
-become a complete wimp. The world has turned upside down,[r]
-hasn't it?"[pcms]
+[ns]重吉[nse]
+「げへへ、アニキぃ、なんでアニキがそっちにいるんですかねえ。[r]
+　へへっ、すっかりヘタレに成り下がりやがったよなあ。[r]
+　世の中こんだけひっくり返ったんだぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *664|
 [fc]
-[ns]Shigeyoshi[nse]
-"It's survival of the fittest! I'll rampage as I please and[r]
-remake the rules and everything else to my liking. That's[r]
-what being a yakuza is all about, right, Aniki?"[pcms]
+[ns]重吉[nse]
+「弱肉強食でしょうがあっ！　好きなように暴れまくって[r]
+　俺様の好きなようにルールもなんもかも作りかえてやるん[r]
+　ですよぉ。それがぁ、極道ってもんでしょお？　アニキぃ」[pcms]
 
 *665|
 [fc]
-Swaying his body slowly, Shigeyoshi approached Jin-san.[r]
-Everyone watched the tense situation with bated breath.[pcms]
+のそりのそりと身体を揺らしながら重吉はゆっくりと[r]
+壬さんの前に近付いていた。[r]
+誰もがその緊迫した成り行きを固唾を呑んで見守っていた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *666|
 [fc]
-[ns]Shigeyoshi[nse]
-"Nah, I don't even need the yakuza label. I'm number one.[r]
-I'll establish my own kingdom, Aniki."[pcms]
+[ns]重吉[nse]
+「いやあ、極道なんて括りもいらねえや。俺様が一番。[r]
+　俺様国を建国してやるんですよ、アニキぃ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *667|
 [fc]
-[ns]Jin[nse]
-"Heh. What kind of nonsense are you spouting? Shige, seems[r]
-like even an idiot like you can use his head."[pcms]
+[ns]壬[nse]
+「へっ。何を寝ぼけたこと、言ってやがる。[r]
+　シゲ、バカはバカなりに頭使ったようだな」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *668|
 [fc]
-[ns]Jin[nse]
-"If that's what you want to do, go ahead. I'm not going to[r]
-stop you, and I'll do as I please too. But Shige, don't mess[r]
-with the world I want to live in!"[pcms]
+[ns]壬[nse]
+「それがお前のやりてぇ事なら勝手にやれや。[r]
+　俺は止める気なんてねぇし、俺もやりたいようにやるさ。[r]
+　だがなぁ、シゲ。俺が生きたい世界にちょっかい出すな！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *669|
 [fc]
-[ns]Jin[nse]
-"Do whatever you want on your own! If you interfere any[r]
-more, we're no longer brothers! Right here, right now, I'll[r]
-kill you and throw you out! Shige!!"[pcms]
+[ns]壬[nse]
+「お前はお前で勝手にやれっ！　これ以上ちょっかい[r]
+　出すなら兄弟分でも何でもねえっ！　今、ここで[r]
+　ぶっ殺して叩き出してやるよっ！　シゲっ！！」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -1264,74 +1243,74 @@ kill you and throw you out! Shige!!"[pcms]
 
 *670|
 [fc]
-[ns]Jin[nse]
-"Ugh..."[pcms]
+[ns]壬[nse]
+「うっ……」[pcms]
 
 *671|
 [fc]
-[ns]Henchman A[nse]
-"Ughyaaaah!"[pcms]
+[ns]手下Ａ[nse]
+「うっぎゃああっ」[pcms]
 
 *672|
 [fc]
-In a split second, Shigeyoshi used one of his henchmen[r]
-walking beside him as a shield to take Jin-san's bullets.[r]
-Then, from behind that henchman, he was shooting at Jin-san.[pcms]
+重吉は並んで歩いていた手下を咄嗟に自分の前に出して[r]
+壬さんの銃弾を受ける盾がわりにした。[r]
+そして、自分はその後ろから壬さん目がけて銃を撃っていた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *673|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahahahahaha! Aniki, you're too soft. You've become[r]
-completely soft. Gehahahahaha!"[pcms]
+[ns]重吉[nse]
+「げはははっげははっげははっ！　アニキぃ、あまいなあ。[r]
+　すっかりあまくなっちまったなあ。げははっははっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *674|
 [fc]
-[ns]Jin[nse]
-"Guh..."[pcms]
+[ns]壬[nse]
+「ぐっ……」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *675|
 [fc]
-Jin-san collapsed to his knees, clutching his abdomen.[pcms]
+壬さんは腹の辺りを押さえて、膝から崩れ落ちた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *676|
 [fc]
 [vo_mar s="maru_TE0219"]
-[ns]Margarita[nse]
-"Jin!! You bastard!"[pcms]
+[ns]マルガリータ[nse]
+「ジンっ！！　キサマーっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *677|
 [fc]
-[ns]Shigeyoshi[nse]
-"Whoa there, don't move. Take a good look around. You guys[r]
-have no choice but to surrender. Now, throw down your guns!"[pcms]
+[ns]重吉[nse]
+「おおっと、動くんじゃねえよぉ。周りをよーく見な。[r]
+　もう、お前ぇらは、降参するしかねえんだよ。[r]
+　おらっ、銃を捨てなっ！」[pcms]
 
 *678|
 [fc]
-Indeed, we were surrounded. Men with guns aimed at us from[r]
-all around, threatening us.[pcms]
+確かにボク達は囲まれてしまっていた。[r]
+ぐるりと取り囲まれ、銃を構えた男達に威嚇されていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *679|
 [fc]
 [vo_mar s="maru_TE0220"]
-[ns]Margarita[nse]
-"...ugh... understood... but in exchange..."[pcms]
+[ns]マルガリータ[nse]
+「……くっ……わかった……その代わり……」[pcms]
 
 *680|
 [fc]
-The moment Maruko-senpai tried to throw her gun and break[r]
-her stance--[pcms]
+マル子先輩が銃を投げようと構えを崩した途端――[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
@@ -1340,192 +1319,189 @@ her stance--[pcms]
 
 *681|
 [fc]
-[ns]Kousuke[nse]
-"Uwah!!"[pcms]
+[ns]浩助[nse]
+「うわっ！！」[pcms]
 
 *682|
 [fc]
-[ns]Wataru[nse]
-"Nguh!!"[pcms]
+[ns]航[nse]
+「んぐっ！！」[pcms]
 
 *683|
 [fc]
-We were brutally beaten with batons and gun butts by the men[r]
-around us, and Kousuke and I were knocked to the ground.[r]
-Maruko-senpai had thrown her gun away and was being held in[r]
-a tight grip.[pcms]
+周りにいた連中に、持っていた警棒や、銃把でしたたかに[r]
+殴られて、ボクとコースケは、その場に転がった。[r]
+マル子先輩は銃を投げ捨てられ、羽交い締めにされていた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *684|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey hey, don't kill them. Keep it moderate. My kingdom[r]
-needs slaves after all. Bring that blonde chick over here."[pcms]
+[ns]重吉[nse]
+「おいおい、殺すんじゃねえよ。ほどほどにしとけ。[r]
+　俺様の王国には奴隷がいるんだからよぉ。そっちの[r]
+　パツキンのネーチャンは、こっちに連れてこいや」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *685|
 [fc]
 [vo_mar s="maru_TE0221"]
-[ns]Margarita[nse]
-"Ugh, let go. Stop it!"[pcms]
+[ns]マルガリータ[nse]
+「くっ、放せ。やめろっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *686|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahahaha. What a sight you are, Nee-chan. Come here."[pcms]
+[ns]重吉[nse]
+「げははっははっ。いいザマだなあ、ネーチャンよぉ。[r]
+　おらっ、こっちに来いや」[pcms]
 
 *687|
 [fc]
-While holding a gun under Maruko-senpai's chin, Shigeyoshi[r]
-pulled her close with his left hand and leered at her with a[r]
-sleazy gaze.[pcms]
+重吉はマル子先輩のあごの下に銃口を当てながら、[r]
+左手で抱き寄せ、ねっとりとした視線をマル子先輩に[r]
+絡ませていた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *688|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehaha. You've got a sexy body there. You've been beating[r]
-me up good until now. This fucking woman! Later, I'll take[r]
-real good care of you."[pcms]
+[ns]重吉[nse]
+「げへへっ。エロい体しやがってよぉ。今までさんざん[r]
+　ぶちのめしてくれたよなあ。この、クソ[ruby text="アマ"][ch text="女"]がっ！[r]
+　あとで、たあっぷり、可愛がってやるよ」[pcms]
 ;//♂_クソ女は「くそあま」と発音してください
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *689|
 [fc]
-[ns]Shigeyoshi[nse]
-"I'll take care of your pussy and ass with my cock. I'll[r]
-even use my hand. I'll shove it up to the elbow and make you[r]
-squeal in pleasure, so look forward to it, gehahahahaha!"[pcms]
+[ns]重吉[nse]
+「オメコもケツ穴も、俺様のイチモツで可愛がってやるよ。[r]
+　手でもやってやるよ。肘まで突っ込んで、ひいひい[r]
+　よがらせてやるから、楽しみにしてなあ、げはははははっ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *690|
 [fc]
 [vo_mar s="maru_TE0222"]
-[ns]Margarita[nse]
-"Ugh. Let go, you pig bastard!"[pcms]
+[ns]マルガリータ[nse]
+「くっ。放せ、このブタヤロウっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *691|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahahahaha! You'll be squealing for this pig bastard soon[r]
-enough. And for a long time to come. Forever, in fact.[r]
-Gehahahahaha!"[pcms]
+[ns]重吉[nse]
+「げはははっははははっ！　そのブタヤロウにひいひい[r]
+　よがらせて貰えるんだよ。これからたあっぷりとな。[r]
+　この先一生、ずうっとなあぁ。げはははははっ」[pcms]
 
 *692|
 [fc]
-Kousuke and I couldn't move. Kousuke was clutching his[r]
-abdomen where he had been kicked and hit with a baton,[r]
-gritting his teeth and glaring at Shigeyoshi.[pcms]
+ボクとコースケは動けずにいた。[r]
+コースケは腹の辺りに蹴りと警棒を食らって、手で押さえながら[r]
+必死に歯を食いしばって、重吉を睨みつけていた。[pcms]
 
 *693|
 [fc]
-I had been hit in the head. It throbbed painfully, my vision[r]
-swayed, and I felt dazed. I tried to move to help Maruko-[r]
-senpai and the fallen Jin-san but couldn't muster any[r]
-strength.[pcms]
+ボクは、頭を殴られていた。ずきずきと痛み、目の前が揺れ、[r]
+もうろうとしていた。マル子先輩や倒れている壬さんを[r]
+助けようと体を動かしたが、力が入らずにいた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *694|
 [fc]
-[ns]Jin[nse]
-"You're so naive... Shige... As dawn breaks, your so-called[r]
-kingdom will be engulfed in gas... and it'll be over...[r]
-Idiots will always be idiots, Shige."[pcms]
+[ns]壬[nse]
+「おめでたい……ヤツだなあ、シゲよぉ。……っく。[r]
+　夜が明けたら、その王国とやらも、ガスに巻かれて[r]
+　終わりだぜ……っ。バカは結局バカだよなぁ、シゲ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *695|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahahaha! Shut up, Aniki. No wait, Jin! You've been[r]
-calling me an idiot all this time. I won't take you with me.[r]
-Die here. I'll execute you. Gehahahaha!"[pcms]
+[ns]重吉[nse]
+「げははははっ、うっせーよ、アニキぃ。ちゃんと用意は[r]
+　できてるんだよぉ。この前、部隊がやってきてよぉ。[r]
+　ちゃあんと、そいつらのバスも装備も貰ったのさ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *696|
 [fc]
 [vo_mar s="maru_TE0223"]
-[ns]Margarita[nse]
-"You bastard, are you saying you killed the rescue squad[r]
-that was sent out?"[pcms]
+[ns]マルガリータ[nse]
+「キサマっ、救出に向かった部隊を、殺したっていうのか！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *697|
 [fc]
-[ns]Shigeyoshi[nse]
-"Yeah, that's right. Didn't need them. What I wanted was[r]
-their bus, their guns, all sorts of things. Humans who can't[r]
-become slaves are useless to me. Gehahaha!"[pcms]
+[ns]重吉[nse]
+「ああ、そうだよ。いらねーもん。欲しかったのは、[r]
+　バスに銃に、いろいろだ。奴隷にもならねえ人間なんて[r]
+　いらねーんだよぉ。げはははっ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *698|
 [fc]
-[ns]Shigeyoshi[nse]
-"I've also managed to prepare trucks and stuff. Before the[r]
-attack starts, I'll make my getaway. If I go deep into the[r]
-mountains where there's no one around, the gas won't matter.[r]
-Right, Aniki?"[pcms]
+[ns]重吉[nse]
+「他にもトラックなんかを用意できたからなぁ。攻撃が[r]
+　始まる前に、ずらかるさ。ひと気のない山の中にでも[r]
+　行きゃあガスなんか関係ない。そうだろぉ、アニキぃ？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *699|
 [fc]
-[ns]Jin[nse]
-"Idiot..."[pcms]
+[ns]壬[nse]
+「バカ……が……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *700|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahah! That's not all. With women, food, and slaves on[r]
-board, I can establish my kingdom anywhere in Japan that I[r]
-like and live a harem life. Gehahahaha!!"[pcms]
+[ns]重吉[nse]
+「げははっ。それだけじゃねえよ。女もメシも奴隷も乗せて[r]
+　日本中どこでも、気に入った場所で俺様の王国を作って[r]
+　やるのさ。ハーレム暮らしさ。げははははははっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *701|
 [fc]
-[ns]Shigeyoshi[nse]
-"Bitch, I'll take you along too. Using you as bait, I'll[r]
-call out Mizuki and that glasses-wearing doll too. It's[r]
-going to be fun."[pcms]
+[ns]重吉[nse]
+「クソ女、ちゃあんとお前も連れて行ってやっからよぉ。[r]
+　お前をダシにミズキや、あのメガネのお人形ちゃんも、[r]
+　ちゃあんと呼び出してやるからよぉ。楽しみだぜぇ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_j4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *702|
 [fc]
-[ns]Jin[nse]
-"Shige... no matter where you go, the gas will follow you.[r]
-Even an idiot... should be able to understand that...[r]
-but..."[pcms]
+[ns]壬[nse]
+「シゲ……どこに行ったって、ガスは流れてくるんだぞ。[r]
+　バカな頭でも……わかりそうなもん……だが……な」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *703|
 [fc]
-[ns]Shigeyoshi[nse]
-"Shut up, Aniki. No wait, Jin! You've been calling me an[r]
-idiot all this time. I won't take you with me. Die here.[r]
-I'll sentence you to death. Gehahaha!"[pcms]
+[ns]重吉[nse]
+「うるせえよ、アニキ。いんや、ジンっ！　俺様をさんざん[r]
+　バカ呼ばわりしやがって。テメェは、連れてかねぇ。[r]
+　ここで、死ねや。死刑にしてやる。げははははっ！」[pcms]
 
 *704|
 [fc]
-As he said this, Shigeyoshi moved the gun from under Maruko-[r]
-senpai's chin and aimed it at Jin-san who was on his knees.[pcms]
+そう言うと、重吉はマル子先輩のあごの下から銃口を[r]
+外し、ひざをついている壬さんに銃口を向けた。[pcms]
 
 ;//se078・銃声（ライフル銃）
 [se buf=0 storage="se078"]
@@ -1535,18 +1511,18 @@ senpai's chin and aimed it at Jin-san who was on his knees.[pcms]
 
 *704a|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gyah!! Ugyaaah! My finger! My finger!"[pcms]
+[ns]重吉[nse]
+「ぎゃっ！！　うぎゃああっ！　指がっ！　指がぁ！」[pcms]
 
 *705|
 [fc]
-The gun Shigeyoshi had been aiming was knocked away along[r]
-with his finger. Maruko-senpai slipped out of his loosened[r]
-grip and rolled away from him as she escaped.[pcms]
+重吉が構えていた銃は、重吉の指ごと弾き飛ばされて[r]
+いた。マル子先輩を抱いていた左手が弛み、マル子先輩は[r]
+横っ飛びに転がりながら、重吉の手から逃れた。[pcms]
 
 *706|
 [fc]
-At that moment[pcms]
+その途端──[pcms]
 
 ;//se078・銃声（ライフル銃）
 [se buf=1 storage="se078"]
@@ -1555,8 +1531,8 @@ At that moment[pcms]
 
 *707|
 [fc]
-[ns]Henchman A[nse]
-"Gyaaaah!!"[pcms]
+[ns]手下Ａ[nse]
+「ぎゃあああっ！！」[pcms]
 
 ;//se078・銃声（ライフル銃）
 [se buf=0 storage="se078"]
@@ -1565,21 +1541,21 @@ At that moment[pcms]
 
 *708|
 [fc]
-[ns]Henchman B[nse]
-"Higyaaaah!!"[pcms]
+[ns]手下Ｂ[nse]
+「ひぎゃあああっ！！」[pcms]
 
 *709|
 [fc]
-With each gunshot sound, people were blown away as if[r]
-shattered by the tremendous power of the gun.[pcms]
+銃声が鳴り響くたびに、次々とひとが砕けるように[r]
+吹っ飛んでいく。凄い威力の銃のようだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *710|
 [fc]
 [vo_mar s="maru_TE0224"]
-[ns]Margarita[nse]
-"Sesuka!"[pcms]
+[ns]マルガリータ[nse]
+「セスカっ！」[pcms]
 
 [evcg storage="EV020a"][trans_c cross time=300]
 
@@ -1590,10 +1566,9 @@ shattered by the tremendous power of the gun.[pcms]
 
 *711|
 [fc]
-Following Maruko-senpai's gaze, I saw a person who appeared[r]
-to be a female soldier standing on the building of a[r]
-bookstore above the open canal, aiming a rifle and shooting[r]
-one after another.[pcms]
+マル子先輩の視線をたどるとその先にはライフル銃を構えた[r]
+女兵士とおぼしきひとが開渠部の上に立つ書店のビル。[r]
+そこから狙いを定めて次々と連中を撃ち抜いていた。[pcms]
 
 [se buf=0 storage="se078"]
 
@@ -1611,47 +1586,46 @@ one after another.[pcms]
 
 *712|
 [fc]
-[ns]Shigeyoshi[nse]
-"Damn it all. We're pulling out!!"[pcms]
+[ns]重吉[nse]
+「くっそおおおおおおおっ。引き上げるぞっ！！」[pcms]
 
 *713|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Jin-san... Jin-san!"[pcms]
+[ns]航[nse]
+「う……壬さんっ……壬さんをっ」[pcms]
 
 *714|
 [fc]
-While holding my wobbly head, I tried to go to where Jin-san[r]
-had fallen. I saw Shigeyoshi's massive figure escaping along[r]
-the riverbed out of the corner of my eye.[pcms]
+ボクはぐらぐらする頭を手で押さえながら、倒れている[r]
+壬さんのもとへ向かおうとした。重吉がその巨体を[r]
+揺らして、川底を逃げていくのを目の端で見ながら。[pcms]
 
 *715|
 [fc]
-In the corner of my eye, I saw a girl's figure. On the[r]
-bridge... she was on the bridge![pcms]
+その目の端に、女の子の姿が見えた。[r]
+橋の上……橋の上にあの子がっ！[pcms]
 
 [ChrSetEx layer=5 chbase="tomomi_a2"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *716|
 [fc]
 [vo_mob s="tomomi_TE0004"]
-[ns]Tomomi[nse]
-"..."[pcms]
+[ns]朋美[nse]
+「……」[pcms]
 
 *717|
 [fc]
-She seemed to be staring intently in the direction where[r]
-Shigeyoshi had fled.[pcms]
+じっと重吉が逃げ去る方向を見ているように見えた。[pcms]
 
 *718|
 [fc]
-[ns]Wataru[nse]
-"Jin-san..."[pcms]
+[ns]航[nse]
+「壬さん……」[pcms]
 
 *719|
 [fc]
-I desperately tried to reach Jin-san, but my vision was[r]
-shaking and my head started throbbing with pain[pcms]
+ボクは必死に壬さんの元へと向かう。でも目の前が揺らいで[r]
+頭がずきんずきんと痛んできて──[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]
@@ -1663,8 +1637,8 @@ shaking and my head started throbbing with pain[pcms]
 
 *720|
 [fc]
-The moment I lost consciousness, I'm certain our eyes met[r]
-again...[pcms]
+ボクは意識を失う瞬間、確かにあの子と、[r]
+また視線が合っていた……。[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1675,105 +1649,102 @@ again...[pcms]
 
 *721|
 [fc]
-[ns]Wataru[nse]
-"Mmm..."[pcms]
+[ns]航[nse]
+「ん……」[pcms]
 
 *722|
 [fc]
-When I came to, I was lying in a room on the fifth floor.[r]
-Ren's face was in front of me. She had a bittersweet[r]
-expression, a mix of sadness and joy, as she placed her hand[r]
-on my forehead.[pcms]
+気が付くとボクは５階の部屋で寝かされていた。[r]
+目の前に漣の顔。悲しそうな嬉しそうな、なんだか[r]
+ちぐはくな表情で、ボクの額に手を置いていた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *723|
 [fc]
 [vo_ren s="ren_TE0109"]
-[ns]Ren[nse]
-"Big brother... are you awake? Are you okay?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……目が覚めた？　大丈夫？」[pcms]
 
 *724|
 [fc]
-[ns]Wataru[nse]
-"...Where is this...?"[pcms]
+[ns]航[nse]
+「……ここは……？」[pcms]
 
 *725|
 [fc]
-As I sat up, a wet towel fell from my forehead. My head was[r]
-still throbbing with pain. This pain brought me back to[r]
-reality, confirming that what happened in the underground[r]
-passage wasn't a dream.[pcms]
+起きあがると、ボクの額から濡れたタオルが落ちた。[r]
+まだ頭がずきずきしている。この痛みがボクを現実に[r]
+引き戻した。地下道であった事は夢じゃないって。[pcms]
 
 ;//bgm05
 [bgm storage="BGM05"]
 
 *726|
 [fc]
-[ns]Wataru[nse]
-"Ouch..."[pcms]
+[ns]航[nse]
+「ううっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *727|
 [fc]
 [vo_ren s="ren_TE0110"]
-[ns]Ren[nse]
-"Big brother! Are you okay? You should still lie down."[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ！　大丈夫？　まだ横になってて、ねっ」[pcms]
 
 *728|
 [fc]
-[ns]Wataru[nse]
-"No... I'm fine, Ren. My head still hurts a bit, but I'm[r]
-okay. Ren, how are the others?"[pcms]
+[ns]航[nse]
+「いや……大丈夫だよ、漣。確かにちょっとまだ頭痛が[r]
+　するけど。大丈夫だ。[r]
+　漣、ほかのみんなはどうした？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *729|
 [fc]
 [vo_ren s="ren_TE0111"]
-[ns]Ren[nse]
-"Yuuho-chan is still... captured... And Jin-san has been[r]
-seriously injured... He's receiving treatment in another[r]
-room."[pcms]
+[ns]漣[nse]
+「うん……悠帆ちゃんは、まだ……捕まったまま……。[r]
+　壬さんが、大怪我してて……別の部屋で手当を受けた」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *730|
 [fc]
 [vo_ren s="ren_TE0112"]
-[ns]Ren[nse]
-"Senpai is fine. Ko-chan said her stomach hurt, but it's[r]
-probably nothing serious. Also, Sesuka-san has joined us.[r]
-She's probably upstairs talking with everyone right now."[pcms]
+[ns]漣[nse]
+「先輩は大丈夫。コーちゃんもお腹が痛いって言ってたけど、[r]
+　大したことないだろうって。それから、セスカさんが[r]
+　合流したの。たぶん今、上でみんなと話してると思う」[pcms]
 
 *731|
 [fc]
-[ns]Wataru[nse]
-"I see... then, I'll go upstairs too."[pcms]
+[ns]航[nse]
+「そうか……じゃあ、ボクも上に行くよ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *732|
 [fc]
 [vo_ren s="ren_TE0113"]
-[ns]Ren[nse]
-"Eh?! Big brother, it's still too soon for you. Don't push[r]
-yourself."[pcms]
+[ns]漣[nse]
+「えっ？！　お兄ちゃん、まだ無理だよ。無理しないでよ」[pcms]
 
 *733|
 [fc]
-[ns]Wataru[nse]
-"I'm fine, Ren. Besides, we don't have time... Yuuho is in[r]
-danger, Ren. We can't afford to waste time."[pcms]
+[ns]航[nse]
+「大丈夫だよ、漣。それに、時間がないんだ……悠帆が[r]
+　危ないんだよ、漣。ぐずぐずしてられないんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *734|
 [fc]
 [vo_ren s="ren_TE0114"]
-[ns]Ren[nse]
-"...Okay. I'll go upstairs with you then."[pcms]
+[ns]漣[nse]
+「……わかった。私もお兄ちゃんと一緒に上に行くね」[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1787,430 +1758,414 @@ danger, Ren. We can't afford to waste time."[pcms]
 *735|
 [fc]
 [vo_mar s="maru_TE0225"]
-[ns]Margarita[nse]
-"Ayase, are you alright now?"[pcms]
+[ns]マルガリータ[nse]
+「アヤセ、もう大丈夫なのか？」[pcms]
 
 *736|
 [fc]
-[ns]Wataru[nse]
-"Yes, I'm fine. Thank you for your concern."[pcms]
+[ns]航[nse]
+「はい、大丈夫です。心配をおかけしました」[pcms]
 
 *737|
 [fc]
-When we went up to the seventh floor, everyone was gathered[r]
-there. However, Jin- san and Yuuho were still missing...[pcms]
+７階に上がると、みんなが集まっていた。[r]
+ただ、壬さんと悠帆の姿は……やっぱりそこにはなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *738|
 [fc]
 [vo_mar s="maru_TE0226"]
-[ns]Margarita[nse]
-"Now that Ayase and Ren are here, let's introduce Sesuka.[r]
-Although everyone has spoken with her over the phone[r]
-before."[pcms]
+[ns]マルガリータ[nse]
+「アヤセもレンも来た事だし、セスカを紹介しよう。[r]
+　以前電話越しでみんなと話してはいるけどな」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *739|
 [fc]
 [vo_mob s="sesuka_TE0013"]
-[ns]Sesuka[nse]
-"It's a pleasure to meet you for the first time. Please call[r]
-me Sesuka. My primary duty is as Margarita-sama's bodyguard.[r]
-I am grateful for how everyone has taken care of our young[r]
-lady."[pcms]
+[ns]セスカ[nse]
+「初めてお目にかかります。セスカとお呼びください。[r]
+　お嬢様、マルガリータさまのボディガードが本来の[r]
+　仕事です。みなさまにはお嬢様がお世話になりました」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *740|
 [fc]
 [vo_mar s="maru_TE0227"]
-[ns]Margarita[nse]
-"Sesuka, your timing was impeccable."[pcms]
+[ns]マルガリータ[nse]
+「セスカ、なかなかいいタイミングの登場だったな」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *741|
 [fc]
 [vo_mob s="sesuka_TE0014"]
-[ns]Sesuka[nse]
-"Yes. I was able to borrow arms from a squad member I met in[r]
-Mishuku. I had previously heard about this route from[r]
-Margarita-sama, so I headed for the Shibuya River[r]
-underground channel."[pcms]
+[ns]セスカ[nse]
+「はい。三宿で知り合った隊員から武装を借りる事が[r]
+　できました。お嬢様に以前こちらへのルートは聴いていた[r]
+　ので、渋谷川の暗渠を目指しておりました」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *742|
 [fc]
 [vo_mar s="maru_TE0228"]
-[ns]Margarita[nse]
-"Did you come all the way from Mishuku through the[r]
-underground?"[pcms]
+[ns]マルガリータ[nse]
+「三宿からは全て地下を通って来たのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *743|
 [fc]
 [vo_mob s="sesuka_TE0015"]
-[ns]Sesuka[nse]
-"Yes. From the basement in Mishuku we entered the communal[r]
-sewer, and from there to Shibuya Station's machine room[r]
-without any issues. However, we lost our way there and ended[r]
-up on the platform."[pcms]
+[ns]セスカ[nse]
+「ええ。以前お話しした三宿の地下室から共同溝に入り、[r]
+　そこから渋谷駅の機械室までは問題なく。[r]
+　ただそこでルートを見失い、ホームに出てしまっていました」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c3"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *744|
 [fc]
 [vo_mob s="sesuka_TE0016"]
-[ns]Sesuka[nse]
-"That's when I heard gunshots. Although unexpected, I[r]
-clearly heard Margarita- sama's voice as well, so I followed[r]
-the sound and broke into a building adjacent to the platform[r]
-through a window."[pcms]
+[ns]セスカ[nse]
+「そこで銃声を聞きつけまして。まさかとは思いましたが[r]
+　ハッキリとお嬢様の声も聞こえましたので、音を頼りに[r]
+　ホームに隣接していたビルの窓を破って中へ入りました」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *745|
 [fc]
 [vo_mar s="maru_TE0229"]
-[ns]Margarita[nse]
-"I see. You really saved us. Thank you, Sesuka."[pcms]
+[ns]マルガリータ[nse]
+「そうか。本当に助かった。ありがとう、セスカ」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c2"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *746|
 [fc]
 [vo_mob s="sesuka_TE0017"]
-[ns]Sesuka[nse]
-"No... I apologize. I took for granted that Margarita-sama[r]
-was safe and neglected the dire situation of my friends in[r]
-Mishuku..."[pcms]
+[ns]セスカ[nse]
+「いえ……申し訳ありませんでした。つい、お嬢様の[r]
+　安全が確保されている事に甘えておりました。三宿の[r]
+　友人達の窮地を放っておけず……」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c2"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *747|
 [fc]
 [vo_mob s="sesuka_TE0018"]
-[ns]Sesuka[nse]
-"I regret not arriving sooner. As a bodyguard, I consider[r]
-myself a failure."[pcms]
+[ns]セスカ[nse]
+「もっと早くに駆け付けなければと思っていたのですが。[r]
+　申し訳ありません。ボディガードとしては失格だと[r]
+　反省しております」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *748|
 [fc]
 [vo_mar s="maru_TE0230"]
-[ns]Margarita[nse]
-"Well, don't be so formal about it. Indeed, as a bodyguard[r]
-you might have failed, but that's alright. If you had[r]
-abandoned your friends and comrades, I would have fired you[r]
-on the spot, Sesuka."[pcms]
+[ns]マルガリータ[nse]
+「まあ、そう堅苦しく考えるな。確かにボディガードとしては[r]
+　失格かもしれないが、それで良い。友人達を、仲間を放って[r]
+　きたら、それこそ、即刻クビにしていたぞ、セスカ」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c7"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *749|
 [fc]
 [vo_mob s="sesuka_TE0019"]
-[ns]Sesuka[nse]
-"Margarita-sama... you seem to have changed a bit."[pcms]
+[ns]セスカ[nse]
+「お嬢様……少し、変わられましたね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e18"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *750|
 [fc]
 [vo_mar s="maru_TE0231"]
-[ns]Margarita[nse]
-"Is that so?"[pcms]
+[ns]マルガリータ[nse]
+「そうか？」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c7"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *751|
 [fc]
 [vo_mob s="sesuka_TE0020"]
-[ns]Sesuka[nse]
-"Yes. Your aura has become softer."[pcms]
+[ns]セスカ[nse]
+「ええ。雰囲気が柔らかくなりました」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e14"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *752|
 [fc]
 [vo_mar s="maru_TE0232"]
-[ns]Margarita[nse]
-"...! Ba... Ahem. Enough greetings. We need to... have a[r]
-strategy meeting. Join us, Sesuka."[pcms]
+[ns]マルガリータ[nse]
+「……っ！　ば……っ。あ、挨拶はもういいな。[r]
+　その……作戦会議をする。セスカも加わってくれ」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c3"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *753|
 [fc]
 [vo_mob s="sesuka_TE0021"]
-[ns]Sesuka[nse]
-"Understood, Margarita-sama."[pcms]
+[ns]セスカ[nse]
+「はい、わかりました。お嬢様」[pcms]
 
 *754|
 [fc]
-Ren and Mizuki joined us as well, and the six of usme,[r]
-Kousuke, Maruko-senpai, and Sesuka-sanpulled our chairs up[r]
-to one table and sat down.[pcms]
+漣と瑞樹も加わって、ボク、コースケ、マル子先輩、セスカさんの[r]
+６人は、ひとつのテーブルに椅子を寄せて座った。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *755|
 [fc]
 [vo_mar s="maru_TE0233"]
-[ns]Margarita[nse]
-"I'll summarize the key points. Based on that, we need to[r]
-decide how we're going to act from here on out. Okay?"[pcms]
+[ns]マルガリータ[nse]
+「要点をまとめて話す。それを踏まえた上で、これから[r]
+　どう行動するか決めたいと思う。良いか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *756|
 [fc]
-[ns]Kousuke[nse]
-"What do you mean 'how we're going to act'? It's obvious[r]
-we're going to rescue Yuuho, right?"[pcms]
+[ns]浩助[nse]
+「どう行動って、悠帆を助けに乗り込むに決まってるだろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *757|
 [fc]
 [vo_mar s="maru_TE0234"]
-[ns]Margarita[nse]
-"Sai, listen up. Now is the time for us to make calm[r]
-decisions."[pcms]
+[ns]マルガリータ[nse]
+「サイ、まあ聞け。今は冷静に判断をしなければならないとき[r]
+　なんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *758|
 [fc]
-[ns]Kousuke[nse]
-"...Alright. Let me hear what you have to say quickly."[pcms]
+[ns]浩助[nse]
+「……わかったよ。早く話を聴かせてくれ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *759|
 [fc]
 [vo_mar s="maru_TE0235"]
-[ns]Margarita[nse]
-"First point. According to those guys earlier, they're[r]
-planning an escape from Tokyo using stolen vehicles and[r]
-equipment."[pcms]
+[ns]マルガリータ[nse]
+「まず１つめ。さっきのアイツらの話だと、奪った車輌と[r]
+　装備で、東京からの脱出を目論んでいるということだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *760|
 [fc]
 [vo_mar s="maru_TE0236"]
-[ns]Margarita[nse]
-"In this case, even if we rush over there now, it might[r]
-already be empty. Furthermore, if we can't find their[r]
-whereabouts, we won't be able to save Yuuho."[pcms]
+[ns]マルガリータ[nse]
+「この場合、ワタシたちが駆け付けても、もうもぬけの殻だと[r]
+　いう可能性がある。更に、行方がわからなければ、ユウホは[r]
+　助ける事ができないだろう」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *761|
 [fc]
 [vo_mar s="maru_TE0237"]
-[ns]Margarita[nse]
-"Additionally, even if we find out where they are, if the[r]
-gas attack starts, we currently have no means to pursue[r]
-them. Therefore, once they've escaped, it's impossible for[r]
-us to rescue Yuuho no matter how hard we try."[pcms]
+[ns]マルガリータ[nse]
+「また、行方がわかったとしてもガス攻撃が始まったら、[r]
+　ワタシたちには現状では追う術がない。だからアイツらが[r]
+　脱出したあとは、どうあがいてもユウホの救出は無理だ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *762|
 [fc]
 [vo_mar s="maru_TE0238"]
-[ns]Margarita[nse]
-"In any case, we might end up in a situation where we can't[r]
-return here before the worst-case scenario of the gas attack[r]
-starting, and we'll have to barricade ourselves in Celesta[r]
-Tower."[pcms]
+[ns]マルガリータ[nse]
+「又、いずれの場合でも、ワタシたちは、最悪ガス攻撃開始の[r]
+　時間までにここに戻れず、セレスタワーに立てこもる。[r]
+　そういうハメになるかもしれない」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *763|
 [fc]
 [vo_mar s="maru_TE0239"]
-[ns]Margarita[nse]
-"This place is prepared for a gas attack, but if they[r]
-intended to abandon Celesta Tower, it's highly likely that[r]
-no countermeasures have been taken there..."[pcms]
+[ns]マルガリータ[nse]
+「ここはガスに対しての準備を施してあるが、セレスタワーは[r]
+　アイツらが放棄するつもりでいたなら、何も対策が取られて[r]
+　いない可能性も高いだろうな……」[pcms]
 
 *764|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *765|
 [fc]
 [vo_mar s="maru_TE0240_1"]
-[ns]Margarita[nse]
-"Let's say we manage to reach their stronghold before they[r]
-escape. In this case, a battle is inevitable. Whether we can[r]
-rescue Yuuho or not, whether we can make it back alive or[r]
-not..."[pcms]
+[ns]マルガリータ[nse]
+「脱出前にアイツらの根城に到達できたとしよう。この場合[r]
+　間違いなく戦闘になる。ユウホを助け出せるか出せないか、[r]
+　ワタシたちが生きて帰れるのか帰れないのか……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *766|
 [fc]
 [vo_mar s="maru_TE0241"]
-[ns]Margarita[nse]
-"That's an unknown... At worst, we might not only fail to[r]
-save Yuuho but also lose our lives."[pcms]
+[ns]マルガリータ[nse]
+「それは、未知数だ……。最悪、ユウホも助けられず、[r]
+　ワタシたちも、命を落とすかもしれない」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *767|
 [fc]
-[ns]Kousuke[nse]
-"Earlier, we chased after them without thinking about all[r]
-these troublesome things."[pcms]
+[ns]浩助[nse]
+「さっきは、しち面倒くさいこと考えずに、追いかけたのに」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *768|
 [fc]
 [vo_mar s="maru_TE0242"]
-[ns]Margarita[nse]
-"The situation has changed, Sai. Information has been added,[r]
-time has passed, and injuries have occurred... All of this[r]
-increases the number of things we must consider."[pcms]
+[ns]マルガリータ[nse]
+「状況が変わったのだ、サイ。情報が付加されて、時間が[r]
+　経過して、負傷者が出て……それによって判断しなければ[r]
+　ならないことが増えたのだ」[pcms]
 
 *769|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *770|
 [fc]
 [vo_mar s="maru_TE0243"]
-[ns]Margarita[nse]
-"Continuing the discussion. Second point. Those guys took a[r]
-heavy blow earlier. One of them even had his fingers blown[r]
-off by Sesuka."[pcms]
+[ns]マルガリータ[nse]
+「話を続ける。２つめ。さっきアイツらは痛手を負った。[r]
+　アイツ自身もセスカに指を吹っ飛ばされたからな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *771|
 [fc]
 [vo_mar s="maru_TE0244"]
-[ns]Margarita[nse]
-"That's why they might try to barricade themselves in[r]
-Celesta Tower. I heard from Jin before that the place has[r]
-its own power generation facilities, so the electricity[r]
-should be working."[pcms]
+[ns]マルガリータ[nse]
+「だから、もしかしたらセレスタワーに立てこもろうとする[r]
+　かもしれない。以前ジンに聴いた話だが、あそこは自家発電の[r]
+　設備があるそうだ。だから電力が生きているはずだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *772|
 [fc]
 [vo_mar s="maru_TE0245"]
-[ns]Margarita[nse]
-"Besides, he said something earlier. He wants to use me as[r]
-bait to lure out Ren and Kugayama, and to capture them..."[pcms]
+[ns]マルガリータ[nse]
+「それに、さっきアイツは言っていた。ワタシをダシに[r]
+　レンや久我山もおびき出し、ものにしたいと……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *773|
 [fc]
 [vo_ren s="ren_TE0115"]
-[ns]Ren[nse]
-"He said such a thing...!"[pcms]
+[ns]漣[nse]
+「そ、そんなことを……っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *774|
 [fc]
 [vo_miz s="mizuki_TE0032"]
-[ns]Mizuki[nse]
-"That... scumbag..."[pcms]
+[ns]瑞樹[nse]
+「あの……げすヤロウ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *775|
 [fc]
 [vo_mar s="maru_TE0246"]
-[ns]Margarita[nse]
-"It's true. That's what he said. So there's a possibility[r]
-that they might decide to barricade themselves until they[r]
-get what they want, driven by their obsession."[pcms]
+[ns]マルガリータ[nse]
+「事実なんだ。アイツはそう言っていた。だから[r]
+　その執着のままに、手に入れるまで立てこもろうと考える[r]
+　可能性もある」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *776|
 [fc]
 [vo_mar s="maru_TE0247"]
-[ns]Margarita[nse]
-"However, if they don't escape and decide to barricade[r]
-themselves, then if we head to Celesta Tower now, we'll[r]
-definitely be able to find Yuuho."[pcms]
+[ns]マルガリータ[nse]
+「だが、脱出せずに、立てこもってくれれば、これから[r]
+　セレスタワーに向かっても、ユウホを確実に見つける[r]
+　ことができるだろう」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *777|
 [fc]
 [vo_mar s="maru_TE0248_1"]
-[ns]Margarita[nse]
-"Of course, in this case, it will lead to combat, so whether[r]
-we can rescue Yuuho or not, and whether we survive or not,[r]
-remains an unknown..."[pcms]
+[ns]マルガリータ[nse]
+「もちろん、この場合戦闘になるから救出の可否、[r]
+　ワタシたちの生死は、未知数のままだ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *778|
 [fc]
 [vo_mar s="maru_TE0249"]
-[ns]Margarita[nse]
-"And... the third option. We give up on Yuuho... We don't go[r]
-for the rescue... And to survive the gas attack, we[r]
-barricade ourselves here..."[pcms]
+[ns]マルガリータ[nse]
+「そして……３つめ。ワタシたちはユウホをあきらめ……[r]
+　救出にも行かず……ガス攻撃をやりすごすために、[r]
+　ここに立てこもる……」[pcms]
 ;//○言いたくなかったといった雰囲気で。
 
 *779|
 [fc]
-[ns]Wataru[nse]
-"...!!"[pcms]
+[ns]航[nse]
+「……っ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *780|
 [fc]
-[ns]Kousuke[nse]
-"Maruko-senpai! What are you saying!"[pcms]
+[ns]浩助[nse]
+「マル子先輩っ！　何をっ！」[pcms]
 
 *781|
 [fc]
-Interrupting Kousuke's words, Sesuka-san began to speak.[pcms]
+コースケの言葉を遮るように、セスカさんが話し出した。[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c3"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *782|
 [fc]
 [vo_mob s="sesuka_TE0022"]
-[ns]Sesuka[nse]
-"The gas attack will commence at dawn. Aircraft loaded with[r]
-gas will take off at dawn, head towards Tokyo, and as soon[r]
-as they arrive, the attack will begin immediately."[pcms]
+[ns]セスカ[nse]
+「ガス攻撃は夜明けと供に開始されます。夜明けと供に[r]
+　ガスを詰んだ航空機が発進し、東京を目指し、到着し[r]
+　次第、すぐ攻撃を開始します」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c3"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *783|
 [fc]
 [vo_mob s="sesuka_TE0023"]
-[ns]Sesuka[nse]
-"Depending on the weather, the attack could start earlier.[r]
-We don't have much time to decide our next move. We must[r]
-make a decision quickly, regardless."[pcms]
+[ns]セスカ[nse]
+「天候次第では攻撃は早まる可能性もあります。この先[r]
+　どう行動するのか。時間がありません。いずれにしても[r]
+　早く決めなくてはならないんです」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -2232,85 +2187,82 @@ make a decision quickly, regardless."[pcms]
 
 *784|
 [fc]
-Up until just a little while ago, I felt a sense of[r]
-alienation. This city where I somehow couldn't fit in. Me,[r]
-with nothing special about me.[pcms]
+ボクはほんの少し前まで、疎外感を感じていた。[r]
+なんとなく馴染めない街。何の取り柄もないボク。[pcms]
 
 *785|
 [fc]
-Surrounded by friends who flaunt their talents, living in a[r]
-bustling city where people come and go, I thought this[r]
-wasn't really the place for me.[pcms]
+才能を見せつける友人達に囲まれながら、賑やかに人が[r]
+行き交う街に暮らしながら、ここは本当はボクが[r]
+いる場所じゃない。[pcms]
 
 *786|
 [fc]
-I believed there was a real place for me somewhere, where I[r]
-could live as my true self.[pcms]
+どこかに本当の居場所があって、そこでは本当の自分で[r]
+暮らせるはずだと考えていた。[pcms]
 
 *787|
 [fc]
-Not here, somewhere else. The real me, not the current me.[pcms]
+此処ではない何処か。今の自分じゃない本当の自分。[pcms]
 
 *788|
 [fc]
-Thinking such things, yet without particularly doing[r]
-anything about it, I was just going with the flow, immersing[r]
-myself in astronomy which seemed like the only thing[r]
-connected to the real me, but somehow, I had been living[r]
-like that.[pcms]
+そんな事を考えながら、それでも特に何かをする訳でも[r]
+なく、流されるように、唯一の本当のボクに繋がりそうな[r]
+天文に没頭して、でも何となく、生きてきていたんだ。[pcms]
 
 *789|
 [fc]
-"All of Wataru's feelings are inside me," Yuuho said last[r]
-night, while her eyes reflected only me.[pcms]
+『今の航の気持ち、全部わたしの中に』[r]
+夕べ悠帆は、そう言いながら、その瞳にボクだけを[r]
+映してくれていた。[pcms]
 
 *790|
 [fc]
-My current feelings. Yuuho, my shining star that I finally[r]
-obtained. Even though the beloved starry sky seemed faded[r]
-last night, I didn't mind at all because Yuuho had accepted[r]
-me.[pcms]
+今のボクの気持ち。やっと手に入れたボクの輝く星、悠帆。[r]
+夕べ、大好きな星空が色あせて見えても、ボクは全然気に[r]
+ならなかった。悠帆がボクを受け入れてくれていたから。[pcms]
 
 *791|
 [fc]
-Yuuho accepted me as I am now, and responded to that.[pcms]
+悠帆は、今の自分をそのまま受け入れ受けとめ、[r]
+応えてくれたんだ。[pcms]
 
 *792|
 [fc]
-What did I do? I confessed to Yuuho. Is the current me not[r]
-the real me? Was it not the current me who confessed to[r]
-Yuuho?[pcms]
+ボクは何をした。悠帆にボクは告白をしたんだ。[r]
+今の自分は、本当の自分じゃないのか？[r]
+悠帆に告白したのは今の自分じゃないのか？[pcms]
 
 *793|
 [fc]
-No, I was wrong. Denying my current self won't help me find[r]
-my true self.[pcms]
+違う。ボクは間違っていた。今の自分を否定したって、[r]
+本当の自分なんか見いだせないんだ。[pcms]
 
 *794|
 [fc]
-If I want to find my true self, I need to acknowledge who I[r]
-am now and then take action to discover my true self.[pcms]
+本当の自分を見つけたいなら今の自分を認めてその上で[r]
+本当の自分を見つけに行動しなくちゃいけなかったんだ。[pcms]
 
 *795|
 [fc]
-Not here, somewhere else. Even for that, I had to[r]
-acknowledge my current situation and then take action to[r]
-seek out the ideal place.[pcms]
+此処ではない何処か。それだって、現状を認めて、その上で[r]
+理想の場所を求めて行動を起こさなくちゃいけなかったんだ。[pcms]
 
 *796|
 [fc]
-I was just running away, avoiding facing my own weakness.[pcms]
+ボクはただ弱い自分から、目を背けて逃げ続けていただけ[r]
+だったんだ。[pcms]
 
 *797|
 [fc]
-I don't want to lose Yuuho as I am now. I don't want to let[r]
-go of the star I've finally obtained.[pcms]
+ボクはこのまま悠帆を失いたくなんかない。[r]
+やっと手に入れた星をむざむざ逃がしたくない。[pcms]
 
 *798|
 [fc]
-So for that reason, I have to firmly acknowledge myself,[r]
-even if I have no special talents, and do what I can, what[r]
-I'm able to do now.[pcms]
+だからその為には、何の取り柄もないボクをしっかりと認めて[r]
+ボクができる事を、今、できる事をしなくちゃいけないんだ。[pcms]
 
 ;//〆ラベル：合流へ
 [jump storage="TE10080.ks" target=*TE10080_04]
@@ -2321,87 +2273,83 @@ I'm able to do now.[pcms]
 
 *799|
 [fc]
-Up until just a little while ago, I felt a sense of[r]
-alienation. This city where I somehow couldn't fit in. Me,[r]
-with nothing special about me.[pcms]
+ボクはほんの少し前まで、疎外感を感じていた。[r]
+なんとなく馴染めない街。何の取り柄もないボク。[pcms]
 
 *800|
 [fc]
-Surrounded by friends who flaunt their talents, living in a[r]
-bustling city where people come and go, I thought this[r]
-wasn't really the place for me.[pcms]
+才能を見せつける友人達に囲まれながら、賑やかに人が[r]
+行き交う街に暮らしながら、ここは本当はボクが[r]
+いる場所じゃない。[pcms]
 
 *801|
 [fc]
-I thought there must be a true place for me somewhere, where[r]
-I could live as my true self.[pcms]
+どこかに本当の居場所があって、そこでは本当の自分で[r]
+暮らせるはずだと考えていた。[pcms]
 
 *802|
 [fc]
-Not here, somewhere else. Not the current me, but my true[r]
-self.[pcms]
+此処ではない何処か。今の自分じゃない本当の自分。[pcms]
 
 *803|
 [fc]
-While thinking such things, I didn't particularly do[r]
-anything, just drifted along, immersing myself in astronomy[r]
-which seemed to be my only true connection, and somehow,[r]
-I've lived like that.[pcms]
+そんな事を考えながら、それでも特に何かをする訳でも[r]
+なく、流されるように、唯一の本当のボクに繋がりそうな[r]
+天文に没頭して、でも何となく、生きてきていたんだ。[pcms]
 
 *804|
 [fc]
-"Big brother was always strong and kind." "The strength of a[r]
-man isn't about being good at fighting, right? It's more[r]
-about the mental strength to endure for the sake of[r]
-protecting."[pcms]
+『お兄ちゃんはいつだって強くて優しかった』[r]
+『男としての強さってケンカが強い事じゃないよね。[r]
+　守るために耐えられる精神力のほうが、ずっと』[pcms]
 
 *805|
 [fc]
-Last night, I accepted Ren's confession, and then I[r]
-confessed my true feelings to Ren.[pcms]
+夕べボクは漣の告白を受けとめ、そして漣にボクの本当の[r]
+気持ちを告白した。[pcms]
 
 *806|
 [fc]
-True feelings... If the current me isn't the real me, then[r]
-were the true feelings I confessed to Ren a lie?[pcms]
+本当の気持ち……今の自分が本当の自分じゃないのなら、[r]
+漣に告げた本当の気持ちは、偽りだったのか。[pcms]
 
 *807|
 [fc]
-No, I was wrong. Denying my current self won't help me find[r]
-my true self.[pcms]
+違う。ボクは間違っていた。今の自分を否定したって、[r]
+本当の自分なんか見いだせないんだ。[pcms]
 
 *808|
 [fc]
-If I want to find my true self, I need to acknowledge who I[r]
-am now and then take action to discover my true self.[pcms]
+本当の自分を見つけたいなら今の自分を認めてその上で[r]
+本当の自分を見つけに行動しなくちゃいけなかったんだ。[pcms]
 
 *809|
 [fc]
-Not here, somewhere else. Even for that, I had to[r]
-acknowledge my current situation and then take action to[r]
-seek out the ideal place.[pcms]
+此処ではない何処か。それだって、現状を認めて、その上で[r]
+理想の場所を求めて行動を起こさなくちゃいけなかったんだ。[pcms]
 
 *810|
 [fc]
-I was just running away, avoiding facing my own weakness.[pcms]
+ボクはただ弱い自分から、目を背けて逃げ続けていただけ[r]
+だったんだ。[pcms]
 
 *811|
 [fc]
-Ren accepted all of my weaknesses. But if I abandon Yuuho[r]
-here... would Ren still love me?[pcms]
+漣はボクのそんな弱い部分も含めて受けとめてくれた。[r]
+でも、もしボクがここで悠帆を見捨てたら……それでも[r]
+漣はボクを好きでいてくれるんだろうか。[pcms]
 
 *812|
 [fc]
-Would she continue to support me like the moon that[r]
-illuminates the Earth, just as she has until now? More[r]
-importantly, if I abandon Yuuho, can I proudly protect Ren[r]
-in the future?[pcms]
+今まで同様に、地球を照らす月のように、ボクを支え続けて[r]
+くれるんだろうか。それよりも、悠帆を見捨てて、ボクは[r]
+胸を張って漣をこの先、守る事ができるのか？[pcms]
 
 *813|
 [fc]
-I can't. There's no way I can. To continue protecting Ren in[r]
-the future, I must accept who I am now and do what I can,[r]
-right now.[pcms]
+できない。できるわけがない。[r]
+ボクが漣をこの先も守り続ける為には、今の自分を認めて[r]
+ボクができる事を、今、できる事をしなくちゃいけないんだ。[pcms]
 
 ;//〆ラベル：合流へ
 [jump storage="TE10080.ks" target=*TE10080_04]
@@ -2412,79 +2360,78 @@ right now.[pcms]
 
 *814|
 [fc]
-Until just a short while ago, I felt alienated. A city where[r]
-I somehow didn't fit in. Me, with no special talents.[pcms]
+ボクはほんの少し前まで、疎外感を感じていた。[r]
+なんとなく馴染めない街。何の取り柄もないボク。[pcms]
 
 *815|
 [fc]
-While living in a city bustling with people coming and[r]
-going, surrounded by friends who flaunted their talents, I[r]
-thought this wasn't really my place.[pcms]
+才能を見せつける友人達に囲まれながら、賑やかに人が[r]
+行き交う街に暮らしながら、ここは本当はボクが[r]
+いる場所じゃない。[pcms]
 
 *816|
 [fc]
-I believed there was a real place for me somewhere else,[r]
-where I could live as my true self.[pcms]
+どこかに本当の居場所があって、そこでは本当の自分で[r]
+暮らせるはずだと考えていた。[pcms]
 
 *817|
 [fc]
-Not here but somewhere else. Not the current me but the real[r]
-me.[pcms]
+此処ではない何処か。今の自分じゃない本当の自分。[pcms]
 
 *818|
 [fc]
-While thinking such things, yet without particularly doing[r]
-anything about it, I was just living life passively,[r]
-immersing myself in astronomy which seemed like the only[r]
-connection to the real me, but somehow just getting by.[pcms]
+そんな事を考えながら、それでも特に何かをする訳でも[r]
+なく、流されるように、唯一の本当のボクに繋がりそうな[r]
+天文に没頭して、でも何となく、生きてきていたんだ。[pcms]
 
 *819|
 [fc]
-"You've worked hard. Have more confidence. Ayase has been[r]
-doing what she can properly all this time."[pcms]
+『お前は頑張ってきた。もっと自信を持て。アヤセは[r]
+　ちゃんとできる事を今までしっかりやってきたんだから』[pcms]
 
 *820|
 [fc]
-Last night Marie said that to me. She acknowledged me, who[r]
-thought I had no special talents, and even trusted me.[pcms]
+夕べマリーはそう言ってくれた。なんの取り柄もないと[r]
+思っていたボクを認めてくれて、その上信頼まで寄せて[r]
+くれていたんだ。[pcms]
 
 *821|
 [fc]
-If the current me isn't the real me, then who did Marie[r]
-trust? Who was it that Marie showed affection to?[pcms]
+今の自分が本当の自分じゃないんだとしたら、マリーが[r]
+信頼を寄せてくれたのは誰だ？[r]
+マリーが愛情を示してくれたのは、いったい誰だと言うんだ。[pcms]
 
 *822|
 [fc]
-I was wrong. Denying the current me won't help me find the[r]
-real me.[pcms]
+ボクは間違っていた。今の自分を否定したって、[r]
+本当の自分なんか見いだせないんだ。[pcms]
 
 *823|
 [fc]
-If I want to find the real me, I need to acknowledge who I[r]
-am now and act upon that to seek my true self.[pcms]
+本当の自分を見つけたいなら今の自分を認めてその上で[r]
+本当の自分を見つけに行動しなくちゃいけなかったんだ。[pcms]
 
 *824|
 [fc]
-Not here but somewhere else. Even for that ideal place, I[r]
-had to acknowledge my current situation and take action[r]
-towards it.[pcms]
+此処ではない何処か。それだって、現状を認めて、その上で[r]
+理想の場所を求めて行動を起こさなくちゃいけなかったんだ。[pcms]
 
 *825|
 [fc]
-I was just running away from my weak self, avoiding facing[r]
-it.[pcms]
+ボクはただ弱い自分から、目を背けて逃げ続けていただけ[r]
+だったんだ。[pcms]
 
 *826|
 [fc]
-I must not run away. Marie always faced challenges head-on.[r]
-A faint blue light. My comet, Marie, appeared before me with[r]
-a golden tail.[pcms]
+逃げてはいけない。マリーはいつだって立ち向かってきた。[r]
+淡く青い光り。金色の尾を引いてボクの目の前に現れた[r]
+ボクの彗星、マリー。[pcms]
 
 *827|
 [fc]
-If I turn my back now, the comet will fly far away in an[r]
-instant. What I can do now. I must face it without looking[r]
-away.[pcms]
+ボクが背中を向けたら、あっという間に彗星は遙か彼方に[r]
+飛び去ってしまうだろう。ボクが今できる事。[r]
+そこから目を逸らさずに立ち向かわなくちゃいけないんだ。[pcms]
 
 ;//〆ラベル：合流へ
 [jump storage="TE10080.ks" target=*TE10080_04]
@@ -2495,84 +2442,85 @@ away.[pcms]
 
 *828|
 [fc]
-[ns]Wataru[nse]
-"Let's go, Maruko-senpai. I can't abandon Yuuho. No matter[r]
-what awaits us ahead, I want to face it with all my might."[pcms]
+[ns]航[nse]
+「行きましょう、マル子先輩。悠帆を見捨てる事なんか[r]
+　ボクにはできない。この先どんな事が待ちかまえていようと[r]
+　ボクはボクの全力で向かっていきたいんです」[pcms]
 
 *829|
 [fc]
-[ns]Wataru[nse]
-"Whatever the outcome may be, I will accept it. I don't want[r]
-to regret not taking action."[pcms]
+[ns]航[nse]
+「どんな結末を迎えても、受けとめます。行動を起こさずに[r]
+　後悔なんかしたくないんです」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *830|
 [fc]
 [vo_mar s="maru_TE0250"]
-[ns]Margarita[nse]
-"Ayase..."[pcms]
+[ns]マルガリータ[nse]
+「アヤセ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *831|
 [fc]
-[ns]Kousuke[nse]
-"That's right. Let's move quickly. If we don't have time,[r]
-let's do it right away!"[pcms]
+[ns]浩助[nse]
+「そうですよ。早く動きましょう。時間がないんだったら[r]
+　すぐに！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *832|
 [fc]
 [vo_mar s="maru_TE0251"]
-[ns]Margarita[nse]
-"...Understood. Everyone prepare and gather here again.[r]
-We'll depart once everyone is assembled. ...Ren, Kugayama.[r]
-You two stay here..."[pcms]
+[ns]マルガリータ[nse]
+「……わかった。では、各自準備して、ふたたびここに[r]
+　集合するように。揃った時点で出発する。[r]
+　……レン、久我山。二人はここに残るように……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *833|
 [fc]
 [vo_ren s="ren_TE0116"]
-[ns]Ren[nse]
-"No, I refuse. I'm going too. I won't be a burden. I'm fully[r]
-equipped."[pcms]
+[ns]漣[nse]
+「いや、いやです。私も行きます。足手まといには[r]
+　なりません。ちゃんと、ちゃんと装備もできてます」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *834|
 [fc]
 [vo_miz s="mizuki_TE0033"]
-[ns]Mizuki[nse]
-"I refuse too. I'm going with you. Please let me. I can't[r]
-forgive that person for what they did to Jin!"[pcms]
+[ns]瑞樹[nse]
+「あたしもいやです。一緒に行きます。お願いです。[r]
+　ジンをあんなめに遭わせたアイツを許せないっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *835|
 [fc]
 [vo_ren s="ren_TE0117"]
-[ns]Ren[nse]
-"Senpai, please let me go with you."[pcms]
+[ns]漣[nse]
+「先輩、お願いです。私も一緒に行かせて下さい」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *836|
 [fc]
 [vo_miz s="mizuki_TE0034"]
-[ns]Mizuki[nse]
-"Marie-san, please!"[pcms]
+[ns]瑞樹[nse]
+「マリーさん、お願いしますっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *837|
 [fc]
 [vo_mar s="maru_TE0252"]
-[ns]Margarita[nse]
-"...Understood. Then both of you prepare and gather here as[r]
-well. ...That's all."[pcms]
+[ns]マルガリータ[nse]
+「……わかった。では二人とも準備をして、集合するように。[r]
+　……以上だ」[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -2588,20 +2536,20 @@ well. ...That's all."[pcms]
 
 *838|
 [fc]
-I returned to my room and while preparing, I firmed up my[r]
-resolve once again.[pcms]
+ボクは部屋に戻り、準備をしながら、改めて気持ちを[r]
+固めていた。[pcms]
 
 *839|
 [fc]
-I won't run away anymore. The fact that Yuuho was kidnapped.[r]
-That Jin-san was shot. The gunfight in the underground[r]
-passage. The bullet I fired that might have taken a life.[pcms]
+もうどこにも逃げ出さない。悠帆がさらわれた事。[r]
+壬さんが撃たれた事。地下道での銃撃戦。[r]
+もしかしたら命を奪ったかもしれないボクの撃った弾。[pcms]
 
 *840|
 [fc]
-All of these are not dreams but reality. I've decided to[r]
-face reality and fight for the next future, for those[r]
-peaceful days to return.[pcms]
+それらは夢でもなんでもなくて、現実だ。[r]
+ちゃんと現実として受けとめて、次の未来。あの穏やかな[r]
+日々を取り戻すためにも、ボクは立ち向かう事にしたんだ。[pcms]
 
 ;//--------------------------------------------------------------------
 ;//※ラベル打ち分け
@@ -2622,29 +2570,29 @@ peaceful days to return.[pcms]
 
 *841|
 [fc]
-[ns]Wataru[nse]
-"Yes?"[pcms]
+[ns]航[nse]
+「はい？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *842|
 [fc]
 [vo_ren s="ren_TE0118"]
-[ns]Ren[nse]
-"I... Brother... may I speak with you for a moment?"[pcms]
+[ns]漣[nse]
+「私……お兄ちゃん……ちょっといい？」[pcms]
 
 *843|
 [fc]
-[ns]Wataru[nse]
-"Sure, come in."[pcms]
+[ns]航[nse]
+「いいよ、入って」[pcms]
 
 ;//se040・ドアノブを回す
 [se buf=0 storage="se040"]
 
 *844|
 [fc]
-[ns]Wataru[nse]
-"Ren... what's wrong?"[pcms]
+[ns]航[nse]
+「漣……どうした？」[pcms]
 
 ;mm 追加　07か14か17
 [bgm storage="BGM14"]
@@ -2659,82 +2607,83 @@ peaceful days to return.[pcms]
 *845|
 [fc]
 [vo_ren s="ren_TE0119"]
-[ns]Ren[nse]
-"Brother!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ！」[pcms]
 
 *846|
 [fc]
-Ren hugged me tightly.[pcms]
+漣はボクに抱き付いてきた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *847|
 [fc]
 [vo_ren s="ren_TE0120"]
-[ns]Ren[nse]
-"Brother, I will definitely follow you no matter what[r]
-happens. I won't leave you. We'll always be together![r]
-Whatever outcome you accept, I will accept it with you."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、私、私は絶対、何があってもお兄ちゃんに[r]
+　ついていくから。離れない。絶対一緒にいる！[r]
+　お兄ちゃんが受けとめる結末を私も一緒に受けとめるから」[pcms]
 
 *848|
 [fc]
-[ns]Wataru[nse]
-"Ren... thank you. But it's okay. Surely the best outcome is[r]
-waiting for us. So please don't do anything dangerous."[pcms]
+[ns]航[nse]
+「漣……ありがとう。でも、大丈夫だよ。[r]
+　きっと一番いい結末がボクたちを待っててくれるから。[r]
+　だから、何があっても危険な真似だけはしないでくれ」[pcms]
 
 *849|
 [fc]
-[ns]Wataru[nse]
-"Okay? If I'm worried about Ren, then surely I won't be able[r]
-to act properly. So what I want most from Ren is not to[r]
-worry me and avoid doing anything dangerous."[pcms]
+[ns]航[nse]
+「いいね。漣のことが心配だと、きっとボクは思うように[r]
+　動けなくなる。だから、漣に一番やって欲しいのは、ボクに[r]
+　心配をかけないように、危険な真似はしないこと」[pcms]
 
 *850|
 [fc]
-[ns]Wataru[nse]
-"Please keep that promise. Because I want to live with Ren[r]
-forever from now on. Just make sure to keep that promise,[r]
-Ren."[pcms]
+[ns]航[nse]
+「それだけは守って欲しい。ボクはこの先もずっと漣と一緒に[r]
+　暮らしていきたいから。それだけは絶対守って、漣」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *851|
 [fc]
 [vo_ren s="ren_TE0121"]
-[ns]Ren[nse]
-"Yes. Yes, Brother. I'll keep it. I promise you that. So[r]
-Brother... you too must not do anything dangerous!"[pcms]
+[ns]漣[nse]
+「はい。はい、お兄ちゃん。守る。私約束するから。[r]
+　だから、お兄ちゃん……お兄ちゃんも危険なことはっ！」[pcms]
 
 *852|
 [fc]
-[ns]Wataru[nse]
-"That's impossible, Ren. To save Yuuho, even if it's[r]
-dangerous, there are things we'll have to do ahead."[pcms]
+[ns]航[nse]
+「それは無理だよ、漣。悠帆を助ける為には、危険だと[r]
+　思っても、この先しなくちゃならない事が出てくる」[pcms]
 
 *853|
 [fc]
-[ns]Wataru[nse]
-"But if Ren doesn't worry about me, then I feel like I can[r]
-find the best way possible even among those things. So[r]
-please, Ren."[pcms]
+[ns]航[nse]
+「それでも、漣が心配をかけないでくれるなら、ボクは[r]
+　きっとその中でも一番最良の方法を見つける事が[r]
+　できるような気がしてるんだ。だから、ね、漣」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *854|
 [fc]
 [vo_ren s="ren_TE0122"]
-[ns]Ren[nse]
-"...Understood. I promise. To avoid putting you in danger,[r]
-Brother, I won't do anything dangerous. I won't worry you."[pcms]
+[ns]漣[nse]
+「……わかった。約束する。お兄ちゃんを危険なめに[r]
+　遭わせないためにも、私は、危険な真似はしない。[r]
+　お兄ちゃんに心配をかけない」[pcms]
 
 *855|
 [fc]
-[ns]Wataru[nse]
-"Mm. Thank you, Ren. Now go get ready."[pcms]
+[ns]航[nse]
+「ん。ありがとう、漣。さ、準備をしておいで」[pcms]
 
 *856|
 [fc]
-I kissed Ren gently on the forehead and sent her off.[pcms]
+ボクは漣のおでこに優しくキスをして、漣を送り出した。[pcms]
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
@@ -2750,29 +2699,29 @@ I kissed Ren gently on the forehead and sent her off.[pcms]
 
 *857|
 [fc]
-[ns]Wataru[nse]
-"Yes?"[pcms]
+[ns]航[nse]
+「はい？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *858|
 [fc]
 [vo_mar s="maru_TE0253"]
-[ns]Margarita[nse]
-"It's me. Wataru... may I come in?"[pcms]
+[ns]マルガリータ[nse]
+「ワタシだ。ワタル……ちょっと入ってもいいか？」[pcms]
 
 *859|
 [fc]
-[ns]Wataru[nse]
-"Yes, of course, Marie."[pcms]
+[ns]航[nse]
+「ええ、どうぞ、マリー」[pcms]
 
 ;//se040・ドアノブを回す
 [se buf=0 storage="se040"]
 
 *860|
 [fc]
-[ns]Wataru[nse]
-"Is something wrong? Marie?"[pcms]
+[ns]航[nse]
+「何かあった？　マリー？」[pcms]
 
 ;mm 追加　07か14か17
 [bgm storage="BGM14"]
@@ -2782,103 +2731,106 @@ I kissed Ren gently on the forehead and sent her off.[pcms]
 *861|
 [fc]
 [vo_mar s="maru_TE0254"]
-[ns]Margarita[nse]
-"...Sesuka told me... that I've changed. To think that I[r]
-would agree to take Ren and Kugayama along, the old me[r]
-wouldn't have considered it."[pcms]
+[ns]マルガリータ[nse]
+「……セスカに……お嬢様は変わられたと言われた。[r]
+　レンと久我山を連れて行くのを承諾するなんて、[r]
+　これまでのワタシじゃ、考えられないそうだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e22"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *862|
 [fc]
 [vo_mar s="maru_TE0255"]
-[ns]Margarita[nse]
-"That... I've become softer. My aura, my expressions. Even[r]
-my way of thinking... she said."[pcms]
+[ns]マルガリータ[nse]
+「その……柔らかくなったって。雰囲気も、表情も。[r]
+　考え方も……って」[pcms]
 
 *863|
 [fc]
-[ns]Wataru[nse]
-"Is there a problem with that? I would take it as a[r]
-compliment..."[pcms]
+[ns]航[nse]
+「何か問題があるの？　ボクはそれは褒め言葉だと[r]
+　思えるけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *864|
 [fc]
 [vo_mar s="maru_TE0256"]
-[ns]Margarita[nse]
-"No... I was happy... That's why I wanted to thank you[r]
-again, Wataru."[pcms]
+[ns]マルガリータ[nse]
+「いや……ワタシも嬉しかった……だから、ワタルに[r]
+　改めてお礼が言いたくて来たんだ」[pcms]
 
 *865|
 [fc]
-[ns]Wataru[nse]
-"Eh? Thank me? I haven't done anything."[pcms]
+[ns]航[nse]
+「え？　ボクにお礼って。ボクは何もしてないよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *866|
 [fc]
 [vo_mar s="maru_TE0257"]
-[ns]Margarita[nse]
-"No, you did. Along with that bead, you helped me reclaim[r]
-the part of myself that I had discarded."[pcms]
+[ns]マルガリータ[nse]
+「いいや、ワタルはあのビー玉と一緒に、ワタシの、[r]
+　自分で捨てたワタシを取り戻してくれたんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *867|
 [fc]
 [vo_mar s="maru_TE0258"]
-[ns]Margarita[nse]
-"If it were the old me that Sesuka knew, I would have been[r]
-dismissed as useless, a hindrance, and treated coldly..."[pcms]
+[ns]マルガリータ[nse]
+「そうじゃなかったら、セスカの知っているワタシだったら、[r]
+　戦力外だ、足手まといだと言って、冷たくあしらって[r]
+　いたと思う……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *868|
 [fc]
 [vo_mar s="maru_TE0259"]
-[ns]Margarita[nse]
-"But now, I have Wataru. There's someone I want to protect,[r]
-and a part of me that wants to be protected... That's why I[r]
-could understand Ren's feelings and Kugayama's feelings."[pcms]
+[ns]マルガリータ[nse]
+「でも、今のワタシには、ワタルがいる。守りたいと[r]
+　思う相手がいて、守られたいと思う自分がいて……[r]
+　だから、レンの気持ちも久我山の気持ちも汲み取れた」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *869|
 [fc]
 [vo_mar s="maru_TE0260"]
-[ns]Margarita[nse]
-"And... Wataru's words earlier... they moved me... The man I[r]
-chose. I fell for him all over again as a man."[pcms]
+[ns]マルガリータ[nse]
+「それに……さっきのワタルの言葉……ワタシは、[r]
+　感動してた……ワタシの選んだ男。男として[r]
+　惚れ直したんだ」[pcms]
 
 *870|
 [fc]
-[ns]Wataru[nse]
-"Marie..."[pcms]
+[ns]航[nse]
+「マリー……」[pcms]
 
 *871|
 [fc]
-I spread my arms wide. I wanted to embrace Marie. Calling my[r]
-name, Marie lightly leaped into my arms.[pcms]
+ボクは両腕を広げた。マリーを抱きしめたかった。[r]
+マリーはボクの名前を呼びながら、ボクの腕の中に[r]
+軽やかに飛び込んできた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *872|
 [fc]
 [vo_mar s="maru_TE0261"]
-[ns]Margarita[nse]
-"Wataru!! Thank you. I'm so glad I met you. Glad I came to[r]
-Japan. Glad it was the streets of Shibuya. Right now, I[r]
-truly feel that way."[pcms]
+[ns]マルガリータ[nse]
+「ワタルっ！！　ありがとう。ワタシはワタルに出会えて[r]
+　良かった。日本に来て良かった。渋谷の街で良かった。[r]
+　今、本当にそう思えてる」[pcms]
 
 *873|
 [fc]
-[ns]Wataru[nse]
-"I feel the same. I'm glad I met Marie. Glad you chose[r]
-Japan, Shibuya, my hometown, and that you said you liked me.[r]
-Thank goodness."[pcms]
+[ns]航[nse]
+「ボクだって、同じだよ。マリーに出会えて良かった。[r]
+　マリーが日本を、渋谷をボクの地元を選んでくれて、[r]
+　マリーがボクを好きだって言ってくれて、良かった」[pcms]
 
 
 ;//〆マリーと航のキスシーン
@@ -2890,28 +2842,27 @@ Thank goodness."[pcms]
 *874|
 [fc]
 [vo_mar s="maru_TE0262"]
-[ns]Margarita[nse]
-"Amuu... nchu... chu... njuu"[pcms]
+[ns]マルガリータ[nse]
+「あむうっ……んちゅっ……ちゅっ……んぢゅう」[pcms]
 
 *875|
 [fc]
-[ns]Wataru[nse]
-"Nn... nn...nnn!"[pcms]
+[ns]航[nse]
+「んっ……んっんっ！」[pcms]
 
 *876|
 [fc]
-I devoured Marie's lips. Her hot tongue, her smooth and[r]
-beautiful teeth.[pcms]
+ボクはマリーの唇をむさぼった。熱い舌も、つるつると[r]
+した綺麗な歯も。[pcms]
 
 *877|
 [fc]
-This wasn't a farewell kiss. It was a promise kiss. To come[r]
-back here together with Marie again. To continue on together[r]
-with Marie.[pcms]
+別れのキスなんかじゃない。約束のキス。またここにマリーと[r]
+ふたりで戻ってくる。この先もマリーと一緒に行く。[pcms]
 
 *878|
 [fc]
-I kissed Marie with all those thoughts in mind.[pcms]
+ボクはそんな思いを込めてマリーとキスを交わした。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -2925,14 +2876,14 @@ I kissed Marie with all those thoughts in mind.[pcms]
 *879|
 [fc]
 [vo_mar s="maru_TE0263"]
-[ns]Margarita[nse]
-"Wataru! You are the man I love. The best man I chose. We[r]
-will definitely save Yuuho! Surely, a good ending is waiting[r]
-for us!"[pcms]
+[ns]マルガリータ[nse]
+「ワタル！　お前はワタシの愛した男だ。ワタシが選んだ[r]
+　最高の男だ。必ず、必ず、ユウホを救い出そうっ！[r]
+　絶対、いい結末が、ワタシたちを待っているっ！」[pcms]
 
 *880|
 [fc]
-With those words, Marie left my room.[pcms]
+そう言って、マリーはボクの部屋をあとにした。[pcms]
 
 ;//〆ラベル：合流へ
 [jump storage="TE10080.ks" target=*TE10080_07]
@@ -2957,179 +2908,179 @@ With those words, Marie left my room.[pcms]
 
 *881|
 [fc]
-After preparing as much equipment as possible, when I[r]
-returned to the seventh floor, Maruko-senpai, Kousuke, and[r]
-Ren were already gathered there.[pcms]
+可能な限りの装備を調えて、７階に戻ると、そこには[r]
+マル子先輩とコースケ、漣の３人が、すでに集まっていた。[pcms]
 
 *882|
 [fc]
-[ns]Wataru[nse]
-"Sorry. I'm late..."[pcms]
+[ns]航[nse]
+「ごめん。遅くなった……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *883|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, we weren't waiting. I just got here too."[pcms]
+[ns]浩助[nse]
+「ワタル、待ってないよ。今オレも来たばかりだ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *884|
 [fc]
 [vo_ren s="ren_TE0123"]
-[ns]Ren[nse]
-"Big brother... I..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……私……」[pcms]
 
 *885|
 [fc]
-Ren was holding her violin case in her arms.[pcms]
+漣はケースに入れたバイオリンを、腕に抱えていた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *886|
 [fc]
 [vo_ren s="ren_TE0124"]
-[ns]Ren[nse]
-"I'm thinking of leaving my violin here. It's the same[r]
-violin that big brother desperately protected before..."[pcms]
+[ns]漣[nse]
+「私、バイオリンをここに置いていこうと思うの。あの時も[r]
+　お兄ちゃんが必死に守り通してくれたバイオリンだけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *887|
 [fc]
 [vo_ren s="ren_TE0125"]
-[ns]Ren[nse]
-"As a charm, so we can all safely return here again. As a[r]
-sign of our promise, I want to leave it here."[pcms]
+[ns]漣[nse]
+「また、みんなでここに無事に帰って来られるようにって。[r]
+　おまじない。約束の印として、置いていきたいの」[pcms]
 
 *888|
 [fc]
-[ns]Wataru[nse]
-"That's right, Ren. Don't worry, surely your charm will[r]
-work. We'll all return safely, and then we can listen to[r]
-Ren's performance again in that dome."[pcms]
+[ns]航[nse]
+「そうだね、漣。大丈夫だよ、きっとそのおまじないは[r]
+　利くよ。必ずみんなで戻って、そしたら、また漣の演奏を[r]
+　みんなで、あのドームで聴こう」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *889|
 [fc]
 [vo_ren s="ren_TE0126"]
-[ns]Ren[nse]
-"Yes."[pcms]
+[ns]漣[nse]
+「うん」[pcms]
 
 *890|
 [fc]
-Ren said this and carefully placed her precious violin on[r]
-the table.[pcms]
+漣はそう言って、大事そうにそっとバイオリンをテーブルの[r]
+上に置いていた。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *891|
 [fc]
 [vo_miz s="mizuki_TE0035"]
-[ns]Mizuki[nse]
-"I'm sorry! I'm late!"[pcms]
+[ns]瑞樹[nse]
+「ごめんなさいっ！　遅くなっちゃって」[pcms]
 
 *892|
 [fc]
-Mizuki came running in with several handguns cradled in her[r]
-arms.[pcms]
+瑞樹はその腕の中に、いくつかの拳銃を抱えて小走りに[r]
+やってきた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *893|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki, where did you get those?"[pcms]
+[ns]浩助[nse]
+「瑞樹、それ、どうしたんだ？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *894|
 [fc]
 [vo_miz s="mizuki_TE0036"]
-[ns]Mizuki[nse]
-"I gathered them up. From when those guys attacked us[r]
-earlier. The henchmen who were taken down left them behind,[r]
-so I ran around the mansion collecting them."[pcms]
+[ns]瑞樹[nse]
+「集めてきたの。さっきの、アイツらが襲ってきたときの。[r]
+　やられた手下どもがそのままにしていったのを、館内走って[r]
+　集めてまわってきたの」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *895|
 [fc]
 [vo_mar s="maru_TE0264"]
-[ns]Margarita[nse]
-"You were very observant, Kugayama. That helps."[pcms]
+[ns]マルガリータ[nse]
+「よく気が付いたな、久我山。助かる」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *896|
 [fc]
 [vo_miz s="mizuki_TE0037"]
-[ns]Mizuki[nse]
-"I don't want to stay miserable forever. With this handgun,[r]
-I'll put a hole in that pig bastard's belly!"[pcms]
+[ns]瑞樹[nse]
+「あたしだって、いつまでも惨めなままでいたくないもの。[r]
+　この拳銃で、あのブタヤロウの土手っ腹に風穴空けて[r]
+　やるんだからっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *897|
 [fc]
-[ns]Kousuke[nse]
-"You're spirited, Mizuki. Ever fired one before?"[pcms]
+[ns]浩助[nse]
+「勇ましいな、瑞樹。撃ったこと、あんのかよ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *898|
 [fc]
 [vo_miz s="mizuki_TE0038"]
-[ns]Mizuki[nse]
-"Uh... no... Hey, Kousuke. Teach me quickly now. Right now,[r]
-please?!"[pcms]
+[ns]瑞樹[nse]
+「うっ……ないよ……ね、コースケ。今ちょちょいと[r]
+　教えてよ。ね、今すぐ。ね？！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *899|
 [fc]
-[ns]Kousuke[nse]
-"Can't be helped. It's just a quick fix."[pcms]
+[ns]浩助[nse]
+「しょーがねーなー。付け焼き刃かよ」[pcms]
 
 *900|
 [fc]
-Kousuke took the handgun from Mizuki and began an impromptu[r]
-lecture.[pcms]
+コースケは瑞樹から拳銃を受け取って、急遽レクチャーを[r]
+始めていた。[pcms]
 
 *901|
 [fc]
-[ns]Wataru[nse]
-"Maruko-senpai... Where is Sesuka-san...?"[pcms]
+[ns]航[nse]
+「マル子先輩……セスカさんは……？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *902|
 [fc]
 [vo_mar s="maru_TE0265"]
-[ns]Margarita[nse]
-"Ah, yes. She's with Jin. Let me go check on them for a[r]
-moment."[pcms]
+[ns]マルガリータ[nse]
+「あ、ああ。ジンのところだ。ちょっとワタシも様子を[r]
+　見てくる」[pcms]
 
 *903|
 [fc]
-[ns]Wataru[nse]
-"Ah, then I'll go too"[pcms]
+[ns]航[nse]
+「あ、じゃあボクも」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *904|
 [fc]
 [vo_mar s="maru_TE0266"]
-[ns]Margarita[nse]
-"No, stay here please. Help Sai with Ren. And check the[r]
-equipment too."[pcms]
+[ns]マルガリータ[nse]
+「いや、ここにいてくれ。レンと一緒にサイを手伝って[r]
+　やってくれ。それから装備の点検も頼む」[pcms]
 
 *905|
 [fc]
-[ns]Wataru[nse]
-"...Understood"[pcms]
+[ns]航[nse]
+「……わかりました」[pcms]
 
 ;[chara_int_ layer=5][trans_c cross time=150]
 
@@ -3156,35 +3107,35 @@ equipment too."[pcms]
 
 *906|
 [fc]
-Sesuka-san came in as if on cue and took over from Kousuke,[r]
-teaching Mizuki how to handle the gun carefully. Meanwhile,[r]
-with Ren's help, I was checking the equipment.[pcms]
+入れ替わるようにセスカさんがやってきて、コースケに[r]
+代わって、拳銃の扱い方を瑞樹に丁寧に教えてくれていた。[r]
+ボクは漣に手伝ってもらいながら、装備の点検をしていた。[pcms]
 
 *907|
 [fc]
-Just as Maruko-senpai returned, I was about to ask about[r]
-Jin-san's condition──[pcms]
+そこへ、ようやくマル子先輩が戻ってきた。[r]
+壬さんの様子を聴こうと、ボクは口を開きかけた──[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *908|
 [fc]
 [vo_mar s="maru_TE0267"]
-[ns]Margarita[nse]
-"...Everyone, Jin has... just passed away..."[pcms]
+[ns]マルガリータ[nse]
+「……みんな、ジンが……今、逝った……」[pcms]
 
 *909|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「……！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *910|
 [fc]
 [vo_miz s="mizuki_TE0039"]
-[ns]Mizuki[nse]
-"Eh! Eh?! Marie-san, what did you just say...?"[pcms]
+[ns]瑞樹[nse]
+「えっ！　えっ？！　マリーさん、今、何て……」[pcms]
 
 ;//bgm06
 [bgm storage="BGM06"]
@@ -3194,72 +3145,77 @@ Jin-san's condition──[pcms]
 *911|
 [fc]
 [vo_mar s="maru_TE0268"]
-[ns]Margarita[nse]
-"Jin has... just now, passed away... he's gone..."[pcms]
+[ns]マルガリータ[nse]
+「ジンが……今、亡くなった……旅立ったんだ……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *912|
 [fc]
 [vo_miz s="mizuki_TE0040"]
-[ns]Mizuki[nse]
-"No... no no no... noooo---!! No, no, Jin. Jin---!![r]
-Uwaaaaaaahhhhh!!"[pcms]
+[ns]瑞樹[nse]
+「うそ……うそうそうそ……うそぉーーーっ！！[r]
+　いや、いやあ、ジン。ジンっーーーっ！！[r]
+　うっあああああっああああああっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *913|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki, Mizuki, calm down!"[pcms]
+[ns]浩助[nse]
+「瑞樹、瑞樹っ、落ち着けっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *914|
 [fc]
 [vo_miz s="mizuki_TE0041"]
-[ns]Mizuki[nse]
-"Uwaaaah. Jin, Jin!! No, Jin! Don't leave me behind and[r]
-gooo!! Uwaaaaaaahhh!"[pcms]
+[ns]瑞樹[nse]
+「うわああっ。ジン、ジンっ！！　やだよ、ジンっ！[r]
+　やだよ、あたしを置いて逝かないでよぉっ！！[r]
+　うわああああっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *915|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki! Mizuki, calm down! I'm here. I'm here by your[r]
-side!"[pcms]
+[ns]浩助[nse]
+「瑞樹っ！　瑞樹、落ち着けっ！　オレがいるだろ。[r]
+　オレが、オレが瑞樹のそばにはいるだろっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *916|
 [fc]
 [vo_miz s="mizuki_TE0042"]
-[ns]Mizuki[nse]
-"Uuuaaah, Kousuke, Kousukeee! Jin, Jin saved me. He picked[r]
-me up from rock bottom, uuaaaah!"[pcms]
+[ns]瑞樹[nse]
+「ううああっ、コースケ、コースケええっ！[r]
+　ジンは、ジンは、あたしを助けてくれたんだよぉっ。[r]
+　どん底から、あたしを拾い上げてっ、うあああっ！」[pcms]
 
 *917|
 [fc]
-Kousuke continued to hold the thrashing Mizuki in his arms.[pcms]
+コースケは、暴れる瑞樹を抱きしめ続けていた。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *918|
 [fc]
 [vo_miz s="mizuki_TE0043"]
-[ns]Mizuki[nse]
-"To me, to me... Maybe to Jin I was just like a stray cat he[r]
-picked up. But to me, to me... uuuuuaaaahhh"[pcms]
+[ns]瑞樹[nse]
+「あたしを、あたしをっ。ジンにしてみれば、野良猫[r]
+　拾ったぐらいのつもりだったのかもしれないけど。[r]
+　あ、たしには、あたしには……ううっうあああっ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *919|
 [fc]
 [vo_miz s="mizuki_TE0044"]
-[ns]Mizuki[nse]
-"If Jin wasn't there, I! I wouldn't even be here now!! Jin[r]
-always, always saved me... aaaaah!"[pcms]
+[ns]瑞樹[nse]
+「ジンが、ジンがいなかったら、あたしっ！[r]
+　あたし、今、ここにさえっ！！　いつでも、[r]
+　いつでもジンは、あたしを助けて……っあああっ！」[pcms]
 ;//[ChrSetEx layer=5 chbase="kou_c2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 [ChrSetEx layer=5 chbase="mizu_e3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -3267,17 +3223,18 @@ always, always saved me... aaaaah!"[pcms]
 *920|
 [fc]
 [vo_miz s="mizuki_TE0045"]
-[ns]Mizuki[nse]
-"Kousuke, Kousuke. If Jin wasn't there, I wouldn't be able[r]
-to meet you like this now... uuuuhhh, aaaaah... Jin, Jin-!"[pcms]
+[ns]瑞樹[nse]
+「コースケ、コースケぇ。ジンがいなかったら、あたし[r]
+　今、こうしてコースケにも逢えて……なかった……[r]
+　ううっうっ、あああっ……ジン、ジンーっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *921|
 [fc]
-[ns]Kousuke[nse]
-"I understand, I understand, Mizuki. From now on, I will be[r]
-by your side in place of Jin-san!"[pcms]
+[ns]浩助[nse]
+「わかった、わかったから、瑞樹っ。これからは、オレが[r]
+　オレが壬さんの分まで、瑞樹のそばにいるからっ！」[pcms]
 
 ;//[ChrSetEx layer=4 chbase="kou_c4"][ChrSetXY layer=4 x=161 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="mizu_e5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -3285,56 +3242,56 @@ by your side in place of Jin-san!"[pcms]
 *922|
 [fc]
 [vo_miz s="mizuki_TE0046"]
-[ns]Mizuki[nse]
-"Uuuuaaaaaaaaahhh, aaaaaahhh, Kousukeee"[pcms]
+[ns]瑞樹[nse]
+「うっうあああああっ、ああああんっ、コースケぇ」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *922a|
 [fc]
-Kousuke held Mizuki in his arms and continued to stroke her[r]
-head. The fact that Jin-san had died... the presence of[r]
-death so close by... it almost crushed me.[pcms]
+コースケは、瑞樹を抱きしめ、頭を撫で続けていた。[r]
+あの壬さんが亡くなるなんて……こんなに身近に死が[r]
+あったなんて、ボクは打ちのめされかけていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *923|
 [fc]
 [vo_mar s="maru_TE0269"]
-[ns]Margarita[nse]
-"Ayase... these were Jin's last words. ...He entrusted them[r]
-to me to pass on to Ayase. 'Put some spirit into it.' Those[r]
-were the words Jin left for Ayase."[pcms]
+[ns]マルガリータ[nse]
+「アヤセ……ジンの最後の言葉だ。[r]
+　……アヤセに伝えてくれとワタシが預かった。[r]
+　『気合い入れろ』それがジンがアヤセに残した言葉だ」[pcms]
 
 *924|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「……！」[pcms]
 
 *925|
 [fc]
-"Put some spirit into it, Wataru. Don't run away. Face[r]
-forward and confront it."[pcms]
+『気合い入れろやっ、航。逃げんじゃねぇぞ。[r]
+　背中向けずに、正面向いて立ち向かえや』[pcms]
 
 *926|
 [fc]
-I felt like I could hear Jin-san's voice. Right now, I was[r]
-on the verge of breaking down. I wanted to run away from the[r]
-feeling of death. Just like my pathetic old self.[pcms]
+壬さんの声が、聞こえた気がした。ボクは、まさに今、[r]
+くじけそうになっていた。死を感じて逃げ出したくなっていた。[r]
+また、以前の情けない自分のように。[pcms]
 
 *927|
 [fc]
-[ns]Wataru[nse]
-"...Hmph. I've received it. I've definitely received Jin-[r]
-san's words."[pcms]
+[ns]航[nse]
+「……っく。受け取りました。確かに壬さんの言葉、[r]
+　ボクは受け取りました」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *927a|
 [fc]
-While holding back the tears that were welling up, I looked[r]
-straight into Maruko-senpai's face and answered. Maruko-[r]
-senpai also nodded back at me with tears in her eyes.[pcms]
+ボクはにじみ出てくる涙をこらえながら、マル子先輩の[r]
+顔を真っ直ぐ見つめて答えた。マル子先輩も、目に涙を[r]
+浮かべながら、うなずき、応えてくれていた。[pcms]
 
 
 ;//★_黒画面
@@ -3342,9 +3299,9 @@ senpai also nodded back at me with tears in her eyes.[pcms]
 
 *928|
 [fc]
-After waiting for Mizuki to stop crying and calm down, we[r]
-set out. Quite some time had passed. The time left for us[r]
-was now very short.[pcms]
+瑞樹が泣きやみ落ち着くのを待ってから、ボクらは出かけた。[r]
+だいぶん、時間が経過していた。残された時間は、わずかな[r]
+時間となっていた。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -3355,16 +3312,15 @@ was now very short.[pcms]
 
 *929|
 [fc]
-With Maruko-senpai leading the way and Sesuka-san at the[r]
-rear guard, with Mizuki and Ren sandwiched between me and[r]
-Kousuke, we walked through the underground passage.[pcms]
+マル子先輩を先頭に、しんがりにセスカさんが付き、[r]
+ボクとコースケのあいだに更に瑞樹と漣を挟んで[r]
+ボクたちは地下道を歩いた。[pcms]
 
 *930|
 [fc]
-When we reached the open channel of the Shibuya River, dawn[r]
-was already breaking faintly. We had come this far without[r]
-any problems. Hoping that nothing would happen from here on[r]
-out, we stepped forward.[pcms]
+渋谷川の開渠部に到達したとき、すでにうっすらと夜が[r]
+明け始めていた。ここまでは問題なく来られた。[r]
+この先も何もないようにと、ボクたちは足を踏み出した。[pcms]
 
 ;//se025・戦闘機が飛び去る音
 [se buf=0 storage="se502"]
@@ -3374,31 +3330,31 @@ out, we stepped forward.[pcms]
 *931|
 [fc]
 [vo_mob s="sesuka_TE0024"]
-[ns]Sesuka[nse]
-"Milady, look at that!"[pcms]
+[ns]セスカ[nse]
+「お嬢様、あれをっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *932|
 [fc]
-As everyone looked in the direction Sesuka-san was pointing,[r]
-against the backdrop of the dawning sky, a formation of[r]
-United States Army Black Hawks was heading our way.[pcms]
+セスカさんが指差す方を、一斉にみんなが見ると、[r]
+明けかかった空を背景に、合衆国軍のブラックホークが[r]
+編隊を組んで、こちらへと向かってきていた。[pcms]
 
 *933|
 [fc]
-Right after we spotted them, missiles were launched from the[r]
-launchers on the side of the aircraft. With a ground-shaking[r]
-roar, the missiles hit their target.[pcms]
+その姿を確認したすぐ後に、機体のサイドのランチャーから[r]
+ミサイルが発射された。[r]
+地響きと轟音を伴って、ミサイルが着弾する。[pcms]
 
 [se buf=0 storage="attention"]
 [quake_bg 元time=500 xy m]
 
 *934|
 [fc]
-Immediately after, yellow smoke began to billow out. It was[r]
-gas. A gas attack had begun.[pcms]
+すぐに、黄色い煙が吹き出しはじめた。[r]
+ガスだ。ガス攻撃が始まってしまっていた。[pcms]
 
 ;//--------------------------------------------------------------------
 ;//♂_暫定的にガスの色を黄色とした。すでにガスで煙る絵が出来ていて、
@@ -3426,27 +3382,26 @@ gas. A gas attack had begun.[pcms]
 *935|
 [fc]
 [vo_mar s="maru_TE0270"]
-[ns]Margarita[nse]
-"It's earlier than planned. It seems the operation has been[r]
-moved up."[pcms]
+[ns]マルガリータ[nse]
+「予定よりも早い。作戦開始が前倒しにされたようだな」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c3"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *936|
 [fc]
 [vo_mob s="sesuka_TE0025"]
-[ns]Sesuka[nse]
-"Yes. Let's hurry ahead. The gas will reach here soon. If[r]
-the gas descends into the communal ditch where the air[r]
-conditioning has stopped, it's all over."[pcms]
+[ns]セスカ[nse]
+「ええ。先を急ぎましょう。じきにここにもガスが来ます。[r]
+　空調が止まっている共同溝にガスが降りてきたら、[r]
+　おしまいです」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *937|
 [fc]
 [vo_mar s="maru_TE0271"]
-[ns]Margarita[nse]
-"I know. Everyone, hurry up!"[pcms]
+[ns]マルガリータ[nse]
+「わかってる。みんな、急げっ！」[pcms]
 
 ;//se079
 [se buf=0 storage="se079"]
@@ -3456,9 +3411,9 @@ conditioning has stopped, it's all over."[pcms]
 
 *938|
 [fc]
-Just as we were about to start running, a black shadow[r]
-covered the sky in an instantcrows. A massive flock of[r]
-infected crows. It looked like one gigantic bird.[pcms]
+ボクたちが走りだそうとしたとき、空を黒い影がざあっと[r]
+覆った。カラスだ。感染したカラスの大群。[r]
+まるで、１羽の巨大な鳥に見える。[pcms]
 
 ;//★_地下道　渋谷川開渠
 [bg storage="BG400"][trans_c cross time=500]
@@ -3466,69 +3421,68 @@ infected crows. It looked like one gigantic bird.[pcms]
 
 *939|
 [fc]
-The black shadow dove into the middle of the Black Hawk[r]
-formation as if it had a target in mind.[pcms]
+その黒い影は、狙いを定めたかのように、ブラックホークの[r]
+編隊の中へと、一気に突っ込んでいった。[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c3"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *940|
 [fc]
 [vo_mob s="sesuka_TE0026"]
-[ns]Sesuka[nse]
-"No way! They deployed Black Hawks because there were fewer[r]
-casualties with helicopters compared to airplanes."[pcms]
+[ns]セスカ[nse]
+「まさかっ！　航空機の被害に比べて、ヘリの被害が[r]
+　少ないからと、だからブラックホークを出撃させたのに」[pcms]
 
 *941|
 [fc]
-Screaming crows were sucked into the helicopter rotors one[r]
-after another. Feathers and flesh scattered everywhere.[pcms]
+ギャアギャアと叫びながら、次々ヘリのローターにカラスは[r]
+巻き込まれいった。羽が飛び散り肉が飛び散る。[pcms]
 
 *942|
 [fc]
-Even the tail rotors were destroyed, and one by one, the[r]
-Black Hawks fell to the ground. Some of them exploded and[r]
-burst into flames upon crashing.[pcms]
+テイルローターまでも破壊されて、ブラックホークが次々に[r]
+地上へと落ちていく。落ちていく機体の中には、墜落と[r]
+同時に爆発炎上しているものもあった。[pcms]
 
 *943|
 [fc]
-The crows momentarily dispersed their flock at the rising[r]
-flames but quickly regrouped into a large mass and dove[r]
-again at the Black Hawks.[pcms]
+立ちのぼる炎に、カラスたちはその群れを一瞬崩すが、[r]
+たちまち集まってまた大きな群れを作り、そして再度[r]
+ブラックホークに突っ込んでいく。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *944|
 [fc]
 [vo_mar s="maru_TE0272"]
-[ns]Margarita[nse]
-"Hey! Don't stop! Hurry up! Move it!"[pcms]
+[ns]マルガリータ[nse]
+「おいっ！　立ち止まるなっ！　急げっ！　早くしろっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *944a|
 [fc]
-Maruko-senpai's shout brought us back to our senses. We had[r]
-been transfixed by the horrific scene unfolding before us.[pcms]
+マル子先輩の叫び声に、正気に戻る。[r]
+ボクたちは、その凄まじい地獄絵に、立ちすくんだまま[r]
+見入ってしまっていた。[pcms]
 
 *945|
 [fc]
-In a panic, we rushed into the drainage outlet under the[r]
-bridge where Maruko- senpai was waiting. As soon as everyone[r]
-was insidea heavy rain of blood poured down behind us with a[r]
-dull sound.[pcms]
+慌ててマル子先輩が待ちかまえている、橋の下の排水口に[r]
+駆け込む。全員が入った途端──背後に大量の血の雨が[r]
+鈍い音をさせて降り注いできた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *946|
 [fc]
-[ns]Kousuke[nse]
-"That was close... just in time. If we had been showered in[r]
-that blood..."[pcms]
+[ns]浩助[nse]
+「やばかった……間一髪だ。もしあの血を浴びていたら……」[pcms]
 
 *947|
 [fc]
-Everyone shuddered for a moment and then we all ran through[r]
-the underground passage as if fleeing.[pcms]
+誰もが一瞬身を震わせ、ボクたちみんなは、逃げるように[r]
+地下道を駆け進んでいった。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -3546,45 +3500,42 @@ the underground passage as if fleeing.[pcms]
 *948|
 [fc]
 [vo_mob s="sesuka_TE0027"]
-[ns]Sesuka[nse]
-"Ladies and gentlemen, please be careful of the yellow[r]
-smoke. The yellow smoke is gas. It's gas that has been[r]
-colored to be easily identifiable."[pcms]
+[ns]セスカ[nse]
+「みなさん、黄色い煙には注意を払って下さい。黄色い煙は[r]
+　ガスです。わかりやすいように着色されたガスです」[pcms]
 
 *949|
 [fc]
-[ns]Wataru[nse]
-"Colored? They actually colored the gas?"[pcms]
+[ns]航[nse]
+「着色？　わざわざガスに着色なんかしたんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c3"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *950|
 [fc]
 [vo_mob s="sesuka_TE0028"]
-[ns]Sesuka[nse]
-"Yes. If it were just an attack, they wouldn't do such a[r]
-thing. Normally, you'd spread it without letting the enemy[r]
-notice as a basic tactic. But this time they're attacking[r]
-where there are many survivors."[pcms]
+[ns]セスカ[nse]
+「そうです。単なる攻撃ならそんなことはしません。[r]
+　敵に気付かれないよう、ばらまくのが基本です。[r]
+　ですが、今回は生存者が多数いる中への攻撃です」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c3"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *951|
 [fc]
 [vo_mob s="sesuka_TE0029"]
-[ns]Sesuka[nse]
-"The gas is colored so that survivors can immediately see[r]
-where it is drifting and easily distinguish it to protect[r]
-themselves. It's done with special technology."[pcms]
+[ns]セスカ[nse]
+「ガスがどこを漂っているのか、見てすぐわかるように、[r]
+　生存者が容易に判別し、身を守れるようにと、着色を[r]
+　したのです。特殊な技術で」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 ;//[vo_ren s="ren_TE0127"]
 
 *952|
 [fc]
-[ns]Wataru[nse]
-"Understood. I'll keep an eye out and not let my guard[r]
-down."[pcms]
+[ns]航[nse]
+「わかりました。周囲を見回して、注意を怠らないようにします」[pcms]
 
 ;//--------------------------------------------------------------------
 ;//♂_以下ガスが無色透明だった場合に対応した差し替え文章。
@@ -3593,31 +3544,31 @@ down."[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 ;//[vo_mob s="sesuka_TE0030"]
-[ns]Sesuka[nse]
+;//[ns]セスカ[nse]
 ;//「みなさん、空気の流れに注意を払って下さい。ガスは
 ;//　無色透明ですが、ふつうの空気とは屈折率が違うので
 ;//　何かしら見ている光景に違和感を憶えると思います」
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「ボクたち素人でも、そんなことわかるんでしょうか？」
 ;//
 ;//[ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 ;//[vo_mob s="sesuka_TE0031"]
-[ns]Sesuka[nse]
+;//[ns]セスカ[nse]
 ;//「ええ。違う場所に出るときに必ず注意深く観察すれば
 ;//　大概の場合、気が付く事が出来ると思います。また、
 ;//　他の生き物がいた場合は、それらも観察してください」
 ;//
 ;//[ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 ;//[vo_mob s="sesuka_TE0032"]
-[ns]Sesuka[nse]
+;//[ns]セスカ[nse]
 ;//「ガスが漂っていれば、すでに外傷のない死骸が転がって
 ;//　いる可能性があります。ガス攻撃が始まってしまった以上、
 ;//　ワタシたちは、自分で身を守るしかないんですから」
 ;//
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 ;//[vo_ren s="ren_TE0128"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「わかりました。周囲を見回して、
 ;//　注意を怠らないようにします」
 ;//
@@ -3632,10 +3583,9 @@ down."[pcms]
 
 *953|
 [fc]
-We followed Jin-san's instructions and passed through the[r]
-corporate secret elevator shaft and entered the communal[r]
-ditch from the machinery room of the station's freight[r]
-distribution center.[pcms]
+ボクたちは壬さんに教わったとおりに、企業秘密の昇降口を[r]
+抜け、駅の貨物集配センターの機械室から、共同溝へと[r]
+入った。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -3644,107 +3594,104 @@ distribution center.[pcms]
 
 *954|
 [fc]
-All the doors on our route so far had been unlocked. Maybe[r]
-Shigeyoshi panicked and fled... Even after entering this[r]
-communal ditch, doors were unnaturally left open.[pcms]
+これまでの経路にあった扉は、どれも施錠されていなかった。[r]
+重吉は、よっぽど慌てて逃げたんだろうか……。[r]
+この共同溝に入ってからも不自然に扉が開け放たれていた。[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *955|
 [fc]
 [vo_mob s="sesuka_TE0033"]
-[ns]Sesuka[nse]
-"Milady, this is..."[pcms]
+[ns]セスカ[nse]
+「お嬢様、これは……」[pcms]
 
 *956|
 [fc]
-Sesuka-san pointed ahead where there were bloodstains and[r]
-countless footprints left behind.[pcms]
+セスカさんが指差す先、そこに、血痕と無数の足あとらしき[r]
+ものが残されていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *957|
 [fc]
 [vo_mar s="maru_TE0273"]
-[ns]Margarita[nse]
-"It's hard to tell. He was injured... There must have been[r]
-other injured people among them too. So whether those are[r]
-their tracks... or someone else's..."[pcms]
+[ns]マルガリータ[nse]
+「判断がつかないな。アイツは手傷を負っていたし……[r]
+　他の連中の中にも怪我人が出ていたはずだ。[r]
+　だから、それが連中のものなのか……それとも……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *958|
 [fc]
-[ns]Kousuke[nse]
-"Either way is fine. Let's hurry on. For the bloodstains,[r]
-try not to step on anything that isn't dry, and watch your[r]
-feet. There might be some on the walls too, so it's better[r]
-to be careful."[pcms]
+[ns]浩助[nse]
+「どっちでもいいよ。先を急ごう。血痕は乾いてないもの[r]
+　以外は、極力踏まないように足もとに注意してさ。壁にも[r]
+　あるかも知れないから気を付けたほうがいいだろうな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *959|
 [fc]
 [vo_mar s="maru_TE0274"]
-[ns]Margarita[nse]
-"Right... Let's hurry on while keeping an eye on our[r]
-surroundings."[pcms]
+[ns]マルガリータ[nse]
+「そうだな……周囲を見回しながら、先を急ごう」[pcms]
 
 *960|
 [fc]
-The inside of the communal ditch was steamy and the air was[r]
-stagnant. I was feeling suffocated.[pcms]
+共同溝の内部は、蒸し暑く空気がよどんでいた。[r]
+ボクは息苦しさを感じていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *961|
 [fc]
 [vo_mar s="maru_TE0275"]
-[ns]Margarita[nse]
-"The gas attack seems to be delayed due to the crow attack.[r]
-From what we saw earlier, a considerable number of[r]
-helicopters had gone down. Both the gas and the helicopters[r]
-will take time to allocate."[pcms]
+[ns]マルガリータ[nse]
+「カラスの襲撃でガス攻撃は遅れそうだな。[r]
+　さっき見た限りでは、かなりの数のヘリが落ちていた。[r]
+　ガスもヘリも、充当するには時間をくうだろう」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *962|
 [fc]
 [vo_mob s="sesuka_TE0034"]
-[ns]Sesuka[nse]
-"Yes, I think that's likely. But still..."[pcms]
+[ns]セスカ[nse]
+「ええ、そうなると思います。それにしても……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *963|
 [fc]
 [vo_mar s="maru_TE0276"]
-[ns]Margarita[nse]
-"What is it, Sesuka?"[pcms]
+[ns]マルガリータ[nse]
+「なんだ、セスカ？」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *964|
 [fc]
 [vo_mob s="sesuka_TE0035"]
-[ns]Sesuka[nse]
-"The air is even more stagnant and steamy than when I passed[r]
-through earlier. And... I can faintly smell something[r]
-odd..."[pcms]
+[ns]セスカ[nse]
+「先ほどワタシが通ってきたよりも、遙かに空気が[r]
+　淀み、蒸し暑さも。それに……かすかに異臭を[r]
+　感じるのですが……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *965|
 [fc]
 [vo_mar s="maru_TE0277"]
-[ns]Margarita[nse]
-"I had also noticed the odd smell. I thought the steaminess[r]
-and stagnation might be due to the sun rising."[pcms]
+[ns]マルガリータ[nse]
+「異臭はワタシも感じていた。蒸し暑さと淀みは、日が[r]
+　昇ったせいかもしれないと、ワタシは思っていたが」[pcms]
 
 *966|
 [fc]
-[ns]Infected person[nse]
-"Uuuuu..."[pcms]
+[ns]感染者[nse]
+「うううう……」[pcms]
 ;//♂＿声のみ
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -3752,153 +3699,153 @@ and stagnation might be due to the sun rising."[pcms]
 *967|
 [fc]
 [vo_ren s="ren_TE0129"]
-[ns]Ren[nse]
-"Senpai... Did you hear that just now?"[pcms]
+[ns]漣[nse]
+「先輩……今の……聞こえましたか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *968|
 [fc]
 [vo_mar s="maru_TE0278"]
-[ns]Margarita[nse]
-"Yeah, I heard it... Have they infiltrated even this place?"[pcms]
+[ns]マルガリータ[nse]
+「ああ、聞こえた……ヤツラがこんなところにも[r]
+　入りこんでいるのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *969|
 [fc]
 [vo_mob s="sesuka_TE0036"]
-[ns]Sesuka[nse]
-"I didn't see a single person when I passed through. Did[r]
-something happen after that?"[pcms]
+[ns]セスカ[nse]
+「ワタシが通った時には、ひとりたりとも[r]
+　見かけませんでした。あのあと、何かあったのでしょうか」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *970|
 [fc]
 [vo_mar s="maru_TE0279"]
-[ns]Margarita[nse]
-"I don't know. Anyway, let's proceed with caution... Shh!"[pcms]
+[ns]マルガリータ[nse]
+「わからない。とにかく慎重に進も…………しっ！」[pcms]
 
 *971|
 [fc]
-Maruko-senpai silently pointed ahead where they were sitting[r]
-back to back in a corner diagonally across from us, their[r]
-tattered clothes emitting a foul odor.[pcms]
+マル子先輩が無言のまま指差す先には、ボクらに背を向けた[r]
+ヤツラがいた。ふたり並んで背を向けて対角線の隅っこに[r]
+座り込んでいる。ボロボロの衣服が異臭を放っていた。[pcms]
 
 *972|
 [fc]
-Maruko-senpai whispered to try and pass by quietly. Not[r]
-wanting to waste time unnecessarily, we tried to move[r]
-without being noticed as much as possible.[pcms]
+マル子先輩は小声でやり過ごそうと言ってきた。[r]
+無駄に時間を取られたくないので、なるべく静かに[r]
+気付かれないように、動こうと。[pcms]
 
 *973|
 [fc]
-We whispered to each other like a game of telephone,[r]
-starting to walk on tiptoes.[pcms]
+ボクたちは伝言ゲームのように、そのことを小声で[r]
+伝えあって、忍び足で歩きはじめた。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *974|
 [fc]
-We found several more infected people ahead. We managed to[r]
-pass by them and finally approached the junction leading to[r]
-the underground machinery room of Celesta Tower.[pcms]
+その先にも何人かの感染者を見つけた。ボクたちは何とか[r]
+やり過ごし、ようやくセレスタワーの地下機械室に通じる[r]
+分岐点へと差しかかっていた。[pcms]
 
 *975|
 [fc]
-As we passed by the infected people, I remembered that girl.[r]
-The girl who had been staring intently at Shigeyoshi as he[r]
-fled across the bridge.[pcms]
+ボクは、やり過ごした感染者を見ながら、あの少女の事を[r]
+思い出していた。橋の上から逃げ去る重吉の[r]
+行方をじっと凝視していた少女。[pcms]
 
 *976|
 [fc]
-She seemed different from the other infected people. The[r]
-others had a muddy look in their eyes, making it unclear[r]
-whether they were looking at us or not.[pcms]
+彼女は、他の感染者とはどこか違っているように思っていた。[r]
+他のヤツラは、どろんとした目つきで、こちらを見ているのか[r]
+見ていないかわからないような視線を漂わせていた。[pcms]
 
 *977|
 [fc]
-But that girl occasionally threw glances that seemed to[r]
-carry intent, and I happened to catch her gaze several[r]
-times. That gaze[pcms]
+でも、あの少女は、ときどき、意志を感じさせる視線を[r]
+投げかけてきて、ボクはたまたま何回かその視線を[r]
+まともに受けとめてしまっていた。あの視線──[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *978|
 [fc]
 [vo_mar s="maru_TE0280"]
-[ns]Margarita[nse]
-"The path ahead leads to Celesta Tower. We're finally[r]
-entering their stronghold. Everyone, brace yourselves."[pcms]
+[ns]マルガリータ[nse]
+「この先はセレスタワーに通じている。いよいよ、[r]
+　アイツらの本拠地に入る。みんな、心してかかるように」[pcms]
 
 *979|
 [fc]
-I was brought back from my thoughts by Maruko-senpai's[r]
-voice.[pcms]
+ボクはマル子先輩の声で、取り付かれていた考えから[r]
+引き戻された。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *980|
 [fc]
 [vo_mar s="maru_TE0281"]
-[ns]Margarita[nse]
-"Let's go... Ugh!!"[pcms]
+[ns]マルガリータ[nse]
+「行くぞ……うっ！！」[pcms]
 
 *981|
 [fc]
-As soon as we entered the route leading to the machinery[r]
-room, Maruko-senpai let out a small cry and stopped in her[r]
-tracks.[pcms]
+機械室への扉に通じている経路を入った途端、マル子先輩が[r]
+小さく声をあげ、立ち止まってしまっていた。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *982|
 [fc]
-There lay a human body torn to pieces and devoured in[r]
-various places, reduced to mere chunks of flesh. The door to[r]
-the machinery room beyond was left wide open.[pcms]
+そこには、八つ裂きにされ無惨にもあちこちをむさぼり[r]
+食われて、ただの肉片になった、もと人間の死体が[r]
+転がっていた。その先の機械室の扉は開け放たれていた。[pcms]
 
 *983|
 [fc]
-[ns]Wataru[nse]
-"Ugh..."[pcms]
+[ns]航[nse]
+「うわっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *984|
 [fc]
-[ns]Kousuke[nse]
-"Ugh, ugh..."[pcms]
+[ns]浩助[nse]
+「うっ、うげっ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *985|
 [fc]
 [vo_ren s="ren_TE0130"]
-[ns]Ren[nse]
-"Hii..."[pcms]
+[ns]漣[nse]
+「ひっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *986|
 [fc]
 [vo_miz s="mizuki_TE0047"]
-[ns]Mizuki[nse]
-"Kyaa..."[pcms]
+[ns]瑞樹[nse]
+「きゃっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *987|
 [fc]
 [vo_mob s="sesuka_TE0037"]
-[ns]Sesuka[nse]
-"This is..."[pcms]
+[ns]セスカ[nse]
+「これは……」[pcms]
 
 *988|
 [fc]
-We managed to avoid the corpse and passed through the[r]
-machinery room, heading for the first floor.[pcms]
+ボクたちはその死体を、なんとか避けながら通り、[r]
+機械室を抜け１階を目指した。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -3907,9 +3854,9 @@ machinery room, heading for the first floor.[pcms]
 
 *989|
 [fc]
-Maruko-senpai, leading the way, stopped in front of the door[r]
-leading to the first-floor lobby. The fire door was half-[r]
-opened. Beyond it[pcms]
+先頭を歩くマル子先輩が、１階ロビーにつながる扉の[r]
+前で立ち止まる。半開きになった防火ドア。[r]
+その向こうに見えたのは──[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -3921,85 +3868,82 @@ opened. Beyond it[pcms]
 
 *990|
 [fc]
-[ns]Infected Man A[nse]
-"Uuuuu, I want meat, I'm hungry."[pcms]
+[ns]感染者・男Ａ[nse]
+「うううう、にくう、はらあへったあ」[pcms]
 
 *991|
 [fc]
-[ns]Infected Man B[nse]
-"Give it to me, give me the meat."[pcms]
+[ns]感染者・男Ｂ[nse]
+「おれによこせえ、にくを、よこせえ」[pcms]
 
 *992|
 [fc]
-Numerous infected people were wandering around the lobby.[r]
-Chunks of flesh were scattered here and there on the lobby[r]
-floor.[pcms]
+多数の感染者がロビーをうろついていた。[r]
+ロビーの床のあちこちに、肉片が転がっている。[pcms]
 
 *993|
 [fc]
-Bodies that barely retained human form were also strewn[r]
-about everywhere.[pcms]
+まだ人間の形をかろうじて保っている死体も[r]
+そこかしこに転がっていた。[pcms]
 
 *994|
 [fc]
-Perhaps they were very hungry. They seemed to be trying to[r]
-satisfy their hunger without indulging in sexual pleasure,[r]
-driven purely by instinct.[pcms]
+よほどヤツラは、腹が減っていたんだろうか。[r]
+本能のまま、性の享楽に溺れることもなく、[r]
+ひたすら食欲を満たそうとしたかのようだ。[pcms]
 
 *995|
 [fc]
-It seems that those who attacked us and abducted Yuuho,[r]
-taking Jin-san's life, were eaten alive without being given[r]
-any pleasure and died in agony.[pcms]
+どうやらボクらを襲って悠帆をさらい、壬さんの[r]
+命を奪った連中は、快楽さえ与えられず、生きながら食われ、[r]
+最後は苦痛の中で死んでいったようだ。[pcms]
 
 *996|
 [fc]
-But it seems they fought back. Bullet holes were embedded in[r]
-various places on the walls, and the reinforced glass of the[r]
-entrance was riddled with countless bullet holes and[r]
-cracked.[pcms]
+だが連中も反撃はしたらしい。壁のあちらこちらに銃弾が[r]
+めり込んだ穴と、出入り口の強化ガラスには、銃弾が[r]
+空けた無数の穴が空き、ヒビが走っていた。[pcms]
 
 *997|
 [fc]
-In front of us, an infected person inside approached the[r]
-glass door slowly and then suddenly slammed into it with[r]
-their body.[pcms]
+ボクたちの目の前で、中にいる感染者がガラスの扉に[r]
+向かってのそのそと近づきそのままどーんと身体ごと[r]
+ガラスにぶつかっていた。[pcms]
 
 *998|
 [fc]
-It wasn't just one person. Several infected people were[r]
-doing the same thing. And not just from inside; those[r]
-outside were also ramming into the glass from the outside.[pcms]
+ひとりだけじゃなかった。何人もの感染者が同じことを[r]
+している。しかも中からだけじゃない。外にいるヤツラも[r]
+同じように外側からガラスに体当たりをしている。[pcms]
 
 *999|
 [fc]
-It was as if they were cooperating from inside and outside.[r]
-The moment I thought that, there was a crash, and the glass[r]
-of the door shattered into pieces on the floor.[pcms]
+まるで中と外で協力しあっているようだ。[r]
+そう思った瞬間、ガシャンと音がして、扉のガラスが[r]
+粉々に砕けて床に散らばっていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1000|
 [fc]
 [vo_mar s="maru_TE0282"]
-[ns]Margarita[nse]
-"There's no point in just watching. If they start flowing in[r]
-from outside, it will only increase the danger. We need to[r]
-break through here before that happens and head for the[r]
-upper floors."[pcms]
+[ns]マルガリータ[nse]
+「いつまで見ていても仕方がない。外からヤツラが[r]
+　流れ込んできたら、危険が増すだけだ。[r]
+　その前にここを突破して、上の階を目指す」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1001|
 [fc]
 [vo_mar s="maru_TE0283"]
-[ns]Margarita[nse]
-"Everyone... Are you ready?"[pcms]
+[ns]マルガリータ[nse]
+「みんな……覚悟はいいな？」[pcms]
 
 *1002|
 [fc]
-After confirming everyone's nod, Maruko-senpai took the lead[r]
-and started running to break through the lobby.[pcms]
+誰もがうなずいたのを確認したマル子先輩は、[r]
+自ら率先して、ロビーを突破しようと、駆け出していた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

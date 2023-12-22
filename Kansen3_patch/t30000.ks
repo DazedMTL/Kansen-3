@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//---------------------------------------------------------------
 ;//block:A001
 ;[bg storage="BG019b"][trans_c cross time=500]
@@ -18,81 +18,81 @@
 
 *6117|
 [fc]
-[ns]Wataru[nse]
-"Maybe I'll go to the rooftop..."[pcms]
+[ns]航[nse]
+「……屋上に行くかな……」[pcms]
 
 *6118|
 [fc]
-Despite the unexpected incident earlier, I decided to try[r]
-and cheer myself up by going up to the signboard. At this[r]
-time, Venus should be shining in the western sky...[pcms]
+さっきは思いがけない事件に遭遇してしまったけれど、[r]
+気を取り直して看板の上に出てみよう、と思った。[r]
+この時間ならば西の空に金星が輝いているだろうし……。[pcms]
 
 *6119|
 [fc]
-[ns]Wataru[nse]
-"Huh? Kousuke?"[pcms]
+[ns]航[nse]
+「あれ？　コースケ」[pcms]
 
 *6120|
 [fc]
-As I was about to stand up, Kousuke and Mizuki came into the[r]
-dome. And then Jin- san followed...[pcms]
+立ち上がろうとした時、コースケと瑞樹がドームに入ってきた。[r]
+続けて壬さんも……。[pcms]
 
 *6121|
 [fc]
-"Oh" and "Hey" they greeted each other, it seemed like they[r]
-hadn't arranged to meet but rather it was just a[r]
-coincidence.[pcms]
+『おっ』とか『よお』とか言い合ってるところを見ると[r]
+別に待ち合わせをしたわけじゃなくて、偶然のようだ。[pcms]
 
 *6122|
 [fc]
-Jin-san settled himself down alone at a seat by the wall and[r]
-placed a bottle of Western liquor on the table.[pcms]
+壬さんはひとりで壁際の席にどっかりと腰を落ち着け、[r]
+洋酒のボトルをテーブルに置く。[pcms]
 
 *6123|
 [fc]
-Kousuke and Mizuki sat down away from Jin-san, sharing[r]
-earphones from a portable music player, and began listening[r]
-to music together.[pcms]
+コースケと瑞樹は壬さんとは離れた場所に座ると、[r]
+携帯音楽プレイヤーのイヤホンを仲良く半分ずつ使いながら、[r]
+音楽を聴きはじめた。[pcms]
 
 *6124|
 [fc]
-Mizuki seems kind of different... No, not different, it's[r]
-more like she's returned to how she was before she[r]
-disappeared...[pcms]
+瑞樹、なんとなく変わったよな……。[r]
+ううん、変わったっていうよりも、[r]
+失踪する前の瑞樹に戻ったんだろうけど……。[pcms]
 
 *6125|
 [fc]
-Probably, the reason is Kousuke's presence. And Kousuke,[r]
-since reuniting with Mizuki, seems... somehow more handsome.[pcms]
+多分、理由はコースケの存在なんだろうな。[r]
+そのコースケも、瑞樹と合流してからは、[r]
+なんていうか……男前度が上がったような気がするし。[pcms]
 
 *6126|
 [fc]
-Lovers who can influence each other... That's kind of nice,[r]
-isn't it?[pcms]
+お互い影響しあえる恋人か……。[r]
+なんかいいな、そういうのって。[pcms]
 
 *6127|
 [fc]
-What's strange is Jin-san's attitude; he doesn't seem to[r]
-care at all about Kousuke and Mizuki flirting.[pcms]
+不思議なのは壬さんの態度で、瑞樹とコースケがいちゃついても[r]
+ちっとも気にしていないように見える。[pcms]
 
 *6128|
 [fc]
-Maybe Jin-san and Mizuki's relationship isn't what we[r]
-imagined. Like a brother and sister... or something?[pcms]
+壬さんと瑞樹って、ボクらが想像してたような関係じゃ[r]
+なかったのかもしれないな。[r]
+お兄さんと妹みたいなもの……とか？[pcms]
 
 *6129|
 [fc]
-[ns]Wataru[nse]
-"...That can't be it."[pcms]
+[ns]航[nse]
+「…………それはないか」[pcms]
 
 *6130|
 [fc]
-It's hard to imagine a yakuza playing "big brother"...[pcms]
+極道さんが『お兄さんごっこ』なんて考えにくい……。[pcms]
 
 *6131|
 [fc]
-I stopped entertaining my imagination and headed for the[r]
-rooftop.[pcms]
+ボクは想像をもてあそぶのをやめて、屋上へと向かう。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -102,38 +102,36 @@ rooftop.[pcms]
 
 *6132|
 [fc]
-Once I got on top of the signboard, I surveyed the city of[r]
-Shibuya dyed in the sunset.[pcms]
+看板の上に出たボクは、夕焼けに染まった渋谷の街を見渡した。[pcms]
 
 *6133|
 [fc]
-[ns]Wataru[nse]
-"...Amazing..."[pcms]
+[ns]航[nse]
+「…………すごいな……」[pcms]
 
 *6134|
 [fc]
-It was beautiful...[pcms]
+キレイだった……。[pcms]
 
 *6135|
 [fc]
-The afterglow reflected on the glass windows of various[r]
-buildings, and in the distance, silhouettes of high-rise[r]
-buildings in Shinjuku emitting smoke... The sky, turning a[r]
-shade of indigo, had the evening star shining brightly...[pcms]
+あちらこちらのビルのガラス窓に残照が映えて、[r]
+遠くには、煙を上げる新宿の高層ビル群のシルエット……。[r]
+一部が藍色になりかけた空には、一番星が輝いている……。[pcms]
 
 *6136|
 [fc]
-I almost forgot that this is a city of the dead.[pcms]
+思わずここが死者の街であることを忘れそうになる。[pcms]
 
 *6137|
 [fc]
-[ns]Wataru[nse]
-"...Huh?"[pcms]
+[ns]航[nse]
+「……あれ？」[pcms]
 
 *6138|
 [fc]
-As I was captivated by the scenery and slowly shifted my[r]
-gaze, I spotted Yuuho by the side of the dome's roof.[pcms]
+景色に見惚れて視線をゆっくりと移したボクは[r]
+ドームの屋根の脇に、悠帆の姿を見つけた。[pcms]
 
 [evcg storage="EV016a"][trans_c cross time=300]
 
@@ -142,42 +140,40 @@ gaze, I spotted Yuuho by the side of the dome's roof.[pcms]
 *6139|
 [fc]
 [vo_yuh s="yuho_T0023"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 ;//＠さびしそうなため息
 
 ;[chara_int_ layer=5][trans_c cross time=150]
 
 *6140|
 [fc]
-Yuuho was sitting with her back turned towards me, hugging[r]
-her knees.[pcms]
+悠帆はこちらに背を向け、膝を抱いた格好で座っている。[pcms]
 
 *6141|
 [fc]
-Her gaze was not directed towards Yoyogi Park but rather[r]
-towards Yotsubase Town.[pcms]
+その視線が見つめる先は代々木公園……ではなく、[r]
+四つ葉瀬町の方角だった。[pcms]
 
 *6142|
 [fc]
-The loneliness of her back made me...[pcms]
+あまりにも寂しそうな背中に、ボクは……。[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１
-;//１１：そっとしておく→T30010
-;//１２：そばに行く→block:T30020
+;//●選択肢Ａ－１
+;//１－１：そっとしておく→T30010
+;//１－２：そばに行く→block:T30020
 
 
 ;	[link storage="T30010.ks" target=*T30010_TOP]そっとしておく[endlink]
-;       (link storage="T30020.ks" target=*T30020_TOP)Go to[r]
-her(endlink)[pcms]
+;	[link storage="T30020.ks" target=*T30020_TOP]そばに行く[endlink][s]
 
 *SEL69|そっとしておく／そばに行く
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Leave it alone quietly'"]
-[eval exp="f.seltext04 = 'Go to the side'"]
+[eval exp="f.seltext02 = 'そっとしておく'"]
+[eval exp="f.seltext04 = 'そばに行く'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

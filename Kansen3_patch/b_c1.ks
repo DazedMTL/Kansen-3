@@ -18,13 +18,14 @@
 
 *4457|
 [fc]
-I'm worried about Yuuho! Let's go to the gym!![pcms]
+やっぱり悠帆が心配だ！[r]
+体育館へ行こう！！[pcms]
 
 *4458|
 [fc]
-I skillfully avoided the eyes of those wandering around on[r]
-the second floor, passed in front of the library, and made[r]
-it to the stairs leading to the entrance of the gym.[pcms]
+ボクはそっと２階を徘徊するヤツラの目を巧みに避けて、[r]
+図書館前を通り、体育館入り口前に出る階段まで[r]
+行くことができた。[pcms]
 
 ;//BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -32,32 +33,32 @@ it to the stairs leading to the entrance of the gym.[pcms]
 
 *4459|
 [fc]
-As I move stealthily like this, I'm reminded of the[r]
-protagonist from a game I used to play.[pcms]
+こうして隠れて移動していると、以前遊んでいたゲームの[r]
+主人公を思い出す。[pcms]
 
 *4460|
 [fc]
-That protagonist would act calmly even in a situation like[r]
-this, hiding and moving behind cardboard boxes...[pcms]
+あの主人公なら、こんな状況でも、落ち着いて行動するんだろう。[r]
+ダンボールに隠れて移動したり……。[pcms]
 
 *4461|
 [fc]
-...I wish I had a cardboard box to hide in too.[pcms]
+……ボクも隠れられるダンボールが欲しいところだ。[pcms]
 
 *4462|
 [fc]
-But of course, there aren't conveniently placed cardboard[r]
-boxes lying around the school, and even if there were, they[r]
-wouldn't be big enough for me to fit in and hide. That's the[r]
-tough part.[pcms]
+もっとも都合よくダンボールなんか学園に転がってないし、[r]
+たとえ転がっていてもボクが入れて身を隠せられるほど[r]
+大きくはないだろうってのが、ツライところだけど。[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4463|
 [fc]
-To distract myself from the fear, I thought about such[r]
-things as I slowly descended the stairs. And then...[pcms]
+恐怖を紛らすためにと、そんなことを考えながら、[r]
+ボクはゆっくりと階段を降りた。[r]
+すると……。[pcms]
 
 ;//BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -66,127 +67,130 @@ things as I slowly descended the stairs. And then...[pcms]
 *4464|
 [fc]
 [vo_mob s="josiD0001"]
-[ns]Female Student D[nse]
-"Nooo, higgu, mo-mom...mommy!!"[pcms]
+[ns]女学生Ｄ[nse]
+「いやぁあああっ！　ひっぐ、[r]
+　お、おかあ……お母さんっ！！」[pcms]
 
 *4465|
 [fc]
-[ns]Infected Man A[nse]
-"Gyahahaha! She's delighting in having my dick shoved into[r]
-her pussy!"[pcms]
+[ns]感染者・男Ａ[nse]
+「ぎゃはははっ！　マンコに俺のチンポ[r]
+　ぶち込まれて悦んでるぜっ」[pcms]
 
 *4466|
 [fc]
-[ns]Infected Man B[nse]
-"Idiot, she's enjoying having my cock rammed into her ass!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「ばぁ～か、俺のチンポをケツに突っ込んで[r]
+　もらって悦んでるんだよ」[pcms]
 
 *4467|
 [fc]
 [vo_mob s="josiD0002"]
-[ns]Female Student D[nse]
-"It hurts...it hurts. Don't move, don't move!"[pcms]
+[ns]女学生Ｄ[nse]
+「い、痛い……痛いの。うご、動かないで……[r]
+　動かないでっ！」[pcms]
 
 *4468|
 [fc]
-[ns]Infected Man C[nse]
-"Young women's breasts are so nice."[pcms]
+[ns]感染者・男Ｃ[nse]
+「若い女の乳はいいなぁ」[pcms]
 
 *4469|
 [fc]
-[ns]Infected Man D[nse]
-"Can't hold back anymore. Look, I'm gonna cover your whole[r]
-body with my cum!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「我慢できねぇぜ。ほら、体中精液まみれにしてやるぜっ」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV015a"]
 
 *4470|
 [fc]
-At the entrance of the gym, I saw female students being[r]
-attacked by men.[pcms]
+体育館の入り口で、女子学生が男たちに[r]
+襲われているのが目に入った。[pcms]
 
 *4471|
 [fc]
-[ns]Wataru[nse]
-"Ah, ahh..."[pcms]
+[ns]航[nse]
+「あっ、あぁ……」[pcms]
 
 *4472|
 [fc]
-[ns]Infected Man A[nse]
-"Hey, you gonna join us?"[pcms]
+[ns]感染者・男Ａ[nse]
+「よぉ、仲間に入るか？」[pcms]
 
 *4473|
 [fc]
-The voice I inadvertently raised caught their attention, and[r]
-one of them turned to look at me, blowing away the last of[r]
-my rationality.[pcms]
+思わずあげたボクの声に気がついて、その中の[r]
+一人がボクを振り返ったのがボクの最後の[r]
+理性を吹き飛ばした。[pcms]
 
 *4474|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaaaaaaaaaaaaaaaaaaaah!!"[pcms]
+[ns]航[nse]
+「うわぁああああああああああああああっ！！」[pcms]
 
 ;//BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
 
 *4475|
 [fc]
-Without looking back, I tried to run straight for the exit.[pcms]
+後ろを確かめることもせずに、ボクは一直線に[r]
+昇降口のほうへと走ろうとした。[pcms]
 
 *4476|
 [fc]
-But...[pcms]
+でも……。[pcms]
 
 [evcg storage="evs001"][trans_c cross time=300]
 
 *4477|
 [fc]
-There were people, people, people.[pcms]
+そこにも人、人、人。[pcms]
 
 *4478|
 [fc]
-The place was overflowing with people.[pcms]
+人があふれかえっていた。[pcms]
 
 *4479|
 [fc]
-People with red eyes, and even those without red eyes yet[r]
-were thrusting their hips like madmen.[pcms]
+赤い目をした人、そしてまだ赤い目をしていないものの、[r]
+狂ったように腰を振ってる男子学生。[pcms]
 
 *4480|
 [fc]
-And female students being violated.[pcms]
+そして犯されてる女子学生。[pcms]
 
 *4481|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaaaaaaaaaaaaaaaaaaaah!!"[pcms]
+[ns]航[nse]
+「うわぁああああああああああああああっ！！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4482|
 [fc]
-Who is it?[pcms]
+誰だ？[pcms]
 
 *4483|
 [fc]
-Who's screaming?[pcms]
+誰が悲鳴を上げてる？[pcms]
 
 *4484|
 [fc]
-I don't know. I can't tell anymore.[pcms]
+わからない。もうわからない。[pcms]
 
 *4485|
 [fc]
-All I know is that in front of me, countless arms are[r]
-reaching out towards me.[pcms]
+わかるのはボクの目の前に、幾本もの腕が[r]
+ボクに向かって伸ばされているということだけだ。[pcms]
 
 *4486|
 [fc]
-And then...[pcms]
+そして……。[pcms]
 
 *4487|
 [fc]
-I was swallowed up by the crowd of people.[pcms]
+ボクは人の群れに飲み込まれて行った。[pcms]
 
 ;//〆：ゲームオーバー画面へ。
 ;//jump：ブロック●●●●●
@@ -194,4 +198,4 @@ I was swallowed up by the crowd of people.[pcms]
 ;//●●●●●仕様の確定を。
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]

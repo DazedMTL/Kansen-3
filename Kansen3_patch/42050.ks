@@ -1,10 +1,10 @@
 ;//block:C006
-;//ブロック４２０５０『地下道漣のみ脱出編』
+;//ブロック４２０５０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42040.txtから
 
 *42050_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣
@@ -19,201 +19,200 @@
 *5002|
 [fc]
 [vo_mar s="maru0647"]
-[ns]Margarita[nse]
-"...However, to forget my cellphone..."[pcms]
+[ns]マルガリータ[nse]
+「……しかし、ケータイを忘れてしまうとは……」[pcms]
 
 *5003|
 [fc]
-[ns]Wataru[nse]
-"Did you drop it?"[pcms]
+[ns]航[nse]
+「落としたんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5004|
 [fc]
 [vo_mar s="maru0648"]
-[ns]Margarita[nse]
-"No, I carelessly left it in the library while it was solar-[r]
-charging."[pcms]
+[ns]マルガリータ[nse]
+「いや、不覚にも図書室でソーラー充電したまま、[r]
+　忘れてきてしまった」[pcms]
 
 *5005|
 [fc]
-It seems like the senior is deeply regretting forgetting her[r]
-cellphone.[pcms]
+先輩はケータイを忘れてきたことを[r]
+ひどく悔やんでるようにみえる。[pcms]
 
 *5006|
 [fc]
-Given that she's the daughter of a diplomat, her cellphone[r]
-might be special, perhaps containing numbers that could be[r]
-of help in a rescue.[pcms]
+外交官の娘である先輩のケータイだけに[r]
+特殊なケータイだとか、救助の助けになるような番号が[r]
+入っていたのかもしれない。[pcms]
 
 *5007|
 [fc]
 [vo_mar s="maru0649"]
-[ns]Margarita[nse]
-"Well, there's no use crying over spilled milk now. The plan[r]
-to escape while we still have the strength hasn't changed.[r]
-We could have held out if we had enough food and water..."[pcms]
+[ns]マルガリータ[nse]
+「まあ、いまさら悔やんでもしかたがないな。[r]
+　体力のあるうちに、ここを出て逃げることには変わらない。[r]
+　食料と水が十分にあれば篭城もできたが……」[pcms]
 
 *5008|
 [fc]
-[ns]Wataru[nse]
-"But that's impossible, right...?"[pcms]
+[ns]航[nse]
+「やっぱり、無理ですよね……」[pcms]
 
 *5009|
 [fc]
 [vo_mar s="maru0650"]
-[ns]Margarita[nse]
-"We're short on food, and more importantly, water. I've[r]
-heard that similar commotions in the past were suppressed[r]
-within a few days, but with our current supplies, we won't[r]
-last that long."[pcms]
+[ns]マルガリータ[nse]
+「食料は乏しいし、なにより水分がな。[r]
+　これまでの似通った騒ぎは数日で鎮圧されたように聞いているが、[r]
+　今の水分と食料では、それまで保ちそうにない」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5010|
 [fc]
 [vo_mar s="maru0651"]
-[ns]Margarita[nse]
-"We could survive for about a week if we really had to...[r]
-But we'd be severely weakened, and it would be too cruel for[r]
-your frail sister. After all, this all assumes someone will[r]
-come to rescue us."[pcms]
+[ns]マルガリータ[nse]
+「生きのびるだけなら一週間くらいは可能だが……。[r]
+　かなり衰弱するだろうし、身体の弱い妹さんには酷すぎる。[r]
+　そもそも、誰かが助けに来ることが前提だ」[pcms]
 ;//＠酷（こく）
 
 *5011|
 [fc]
 [vo_mar s="maru0652"]
-[ns]Margarita[nse]
-"There's no guarantee that someone will come to save us. If[r]
-not, starvation is certain. Moreover, we haven't secured a[r]
-place that's absolutely safe."[pcms]
+[ns]マルガリータ[nse]
+「誰かが助けに来る保障は皆無だ。[r]
+　そうでないなら、餓死は確実だ。[r]
+　しかも、絶対に無事と言う場所を確保できたわけじゃない」[pcms]
 
 *5012|
 [fc]
 [vo_mar s="maru0653"]
-[ns]Margarita[nse]
-"If this door doesn't seem like it will open, we'll have to[r]
-try to reach the surface from another location. It may be[r]
-harsh for you guys... but be prepared."[pcms]
+[ns]マルガリータ[nse]
+「もし、この扉が開きそうになかったら、[r]
+　別の場所から地上を目指そう。[r]
+　キミたちには酷な話かもしれないが……覚悟してくれ」[pcms]
 ;//＠酷（こく）
 
 *5013|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はい……」[pcms]
 
 *5014|
 [fc]
-I understand that what the senior is saying is right, but I[r]
-still couldn't bring myself to be prepared.[pcms]
+先輩の言っていることが正しいのはよくわかってるけど、[r]
+やっぱりボクはまだ覚悟をすることはできなかった。[pcms]
 
 *5015|
 [fc]
-I wonder if we should have followed the senior's intuition[r]
-and headed towards the river at that fork in the road?[pcms]
+先輩の勘に従って、[r]
+あの分かれ道を川へと向かったほうが良かったんだろうか？[pcms]
 
 *5016|
 [fc]
-No, given the senior's state back then... if she had her[r]
-cellphone, could there have been a breakthrough?[pcms]
+いや、先輩のあの様子だと……先輩のケータイがあれば、[r]
+なにか打開策があったんだろうか？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5017|
 [fc]
 [vo_mar s="maru0654"]
-[ns]Margarita[nse]
-"Thanks to you, we're better off with supplies than I[r]
-thought... Even so, you managed to escape with all this[r]
-luggage even though it was just for camping."[pcms]
+[ns]マルガリータ[nse]
+「キミのおかげで持ち物には思ったよりも恵まれているがな……。[r]
+　それにしてもキミは、キャンプだったとはいえ、[r]
+　コレだけの荷物を持ってよく逃げられたな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5018|
 [fc]
-[ns]Kousuke[nse]
-"Like I said earlier, looking at it again, it's an[r]
-impressive amount..."[pcms]
+[ns]浩助[nse]
+「さっきも言ったけど、改めて見てもすごい量だ……」[pcms]
 
 *5019|
 [fc]
-[ns]Wataru[nse]
-"Maybe it was adrenaline or a runner's high...? I didn't[r]
-notice at all..."[pcms]
+[ns]航[nse]
+「たぶん、火事場のバカ力とか、ランナーズハイ……とか？[r]
+　ぜんぜん気がつかなったよ……」[pcms]
 
 *5020|
 [fc]
-[ns]Kousuke[nse]
-"Well, I carried it on my back after a while..."[pcms]
+[ns]浩助[nse]
+「まあ、途中から、オレが背負ったからな……」[pcms]
 
 *5021|
 [fc]
-[ns]Wataru[nse]
-"Ah, that's right. Thanks..."[pcms]
+[ns]航[nse]
+「あっ、そういえば。[r]
+　助かったよ……」[pcms]
 
 *5022|
 [fc]
-[ns]Kousuke[nse]
-"You're welcome..."[pcms]
+[ns]浩助[nse]
+「どういたしまして……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5023|
 [fc]
 [vo_mar s="maru0655"]
-[ns]Margarita[nse]
-"For now, let's sort out and leave anything we likely won't[r]
-need here. The remaining luggage should be evenly[r]
-distributed among the four of us."[pcms]
+[ns]マルガリータ[nse]
+「とりあえず、整理して要りそうにないものはここに置いていこう。[r]
+　残った荷物は４人でバランスよく分配だ」[pcms]
 
 *5024|
 [fc]
-[ns]Wataru[nse]
-"Then, why don't we start by eating lunch together? It's[r]
-already past noon."[pcms]
+[ns]航[nse]
+「それなら、まずはみんなでお弁当を食べませんか？[r]
+　お昼はとっくに過ぎてますし」[pcms]
 
 *5025|
 [fc]
-I said this while offering the lunchbox Ren gave me.[pcms]
+ボクは漣がくれたお弁当を差し出しながら言った。[pcms]
 
 *5026|
 [fc]
 [vo_mar s="maru0656"]
-[ns]Margarita[nse]
-"Speaking of which, what about that lunchbox? Did your[r]
-sister make it...?"[pcms]
+[ns]マルガリータ[nse]
+「そういえば、そのお弁当は？[r]
+　妹さんが作ったものか……」[pcms]
 
 *5027|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はい……」[pcms]
 
 *5028|
 [fc]
 [vo_mar s="maru0657"]
-[ns]Margarita[nse]
-"Right. It's unfortunate for your sister, but we should eat[r]
-when we can... Let's go ahead and eat."[pcms]
+[ns]マルガリータ[nse]
+「そうだな。[r]
+　妹さんには悪いが食べれる時に食べておかないとな……。[r]
+　先にいただいておこう」[pcms]
 
 *5029|
 [fc]
-[ns]Wataru[nse]
-"No, I'm sure Ren would be happy about it. If she heard that[r]
-we couldn't eat because she was asleep, she would definitely[r]
-be sad."[pcms]
+[ns]航[nse]
+「いえ、きっと、その方が漣も喜んでくれますよ。[r]
+　自分が寝ていたせいで食べられなかったなんて聞いたら、[r]
+　きっと悲しみます」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5030|
 [fc]
-[ns]Kousuke[nse]
-"That's true. If it were Ren-chan, she would say that...[r]
-Let's share mine here too."[pcms]
+[ns]浩助[nse]
+「そうだな。[r]
+　漣ちゃんだったら、そう言うな……。[r]
+　オレのも、一緒にここで分けるとしようか」[pcms]
 
 *5031|
 [fc]
-We decided to eat before Ren.[pcms]
+ボク達は漣より先に食事をとることにした。[pcms]
 
 ;//ナマモノなので、ここで弁当は消費します。
 
@@ -224,34 +223,34 @@ We decided to eat before Ren.[pcms]
 
 *5032|
 [fc]
-Following the senior's suggestion, we served ourselves on[r]
-paper plates I brought with clean chopsticks. It seems that[r]
-if bacteria get into the lunchbox, it spoils more easily.[pcms]
+先輩の意見で、きれいな箸でボクの持ってきた紙皿にとりわけて、[r]
+ボク達は食事にした。弁当箱に雑菌が入ると、[r]
+それだけ腐敗しやすくなるそうだ。[pcms]
 
 *5033|
 [fc]
-Only a little bit of Ren's portion remains inside the closed[r]
-lunchbox.[pcms]
+蓋を閉めた弁当箱の中には、漣の分が少し残っているだけだ。[pcms]
 
 *5034|
 [fc]
-The meal felt more like stuffing ourselves rather than[r]
-satisfying hunger.[pcms]
+食欲を満たすというよりも、[r]
+ただ詰め込むというような食事だった。[pcms]
 
 *5035|
 [fc]
-While eating, I couldn't help but remember Yuuho who always[r]
-loved to eat and carried snacks with her.[pcms]
+食べているうちに、食べることが大好きで、[r]
+いつもお菓子を持っていた悠帆のことを[r]
+どうしても思い出してしまう。[pcms]
 
 *5036|
 [fc]
-Thinking of Yuuho made my stomach clench and I could feel my[r]
-appetite fading.[pcms]
+悠帆のことを思い出すと胃がキリッとして、[r]
+食欲がなくなってくるのがわかる。[pcms]
 
 *5037|
 [fc]
-But with the thought of "I must eat now," I continued to eat[r]
-as if cramming it in.[pcms]
+ただ、「今、食べておかなくちゃ」という気持ちだけで[r]
+ボクは詰め込むように食べた。[pcms]
 
 ;//場面転換
 
@@ -263,73 +262,73 @@ as if cramming it in.[pcms]
 
 *5038|
 [fc]
-After finishing the lunch and sorting out our luggage, I[r]
-finally checked my own cellphone.[pcms]
+お弁当を食べ終わって荷物の整理がついたところで、[r]
+ボクはいまさら自分のケータイを確認していた。[pcms]
 
 *5039|
 [fc]
-The conversation about Maruko-senpai forgetting her[r]
-cellphone made me realize I hadn't checked mine in a while,[r]
-so now that I had a moment, I finally did.[pcms]
+さっきのマル子先輩のケータイを忘れた話で、[r]
+ずっと見てないことに気がついて、[r]
+手の空いた今、やっと確認していた。[pcms]
 
 *5040|
 [fc]
-To my surprise, even underground here, the cellphone signal[r]
-was getting through. The antenna was up. But maybe the lines[r]
-were messed up because I couldn't get through with a call.[pcms]
+驚いたことにこんな地下でもケータイの電波は通じていた。[r]
+ちゃんと、アンテナがたっている。だけど、[r]
+回線がおかしくなっているのか、電話はどこにも通じない。[pcms]
 
 *5041|
 [fc]
-I tried sending an email to my dad even though I thought it[r]
-was futile, but all of them resulted in a transmission[r]
-error.[pcms]
+無駄だと思いながらも父さんに[r]
+メールを出してみたけど、全部送信エラーが起こる。[pcms]
 
 *5042|
 [fc]
-I reluctantly decided to check the unread emails that had[r]
-come in.[pcms]
+ボクはしかたなしに、着信している未開封のメールを[r]
+見てみることにした。[pcms]
 
 *5043|
 [fc]
-Maybe I didn't check my own emails first because Margarita-[r]
-senpai's "no use crying over spilled milk" had rubbed off on[r]
-me.[pcms]
+普段なら、こっちのメールから確認するのにそれをしなかったのは[r]
+先輩の『悔やんでもしかたがない』がうつったのかも知れない。[pcms]
 
 *5044|
 [fc]
-The emails were from Ren and Kousuke. They were sent during[r]
-the summer festival when I was talking with Inori-san.[pcms]
+メールは漣とコ－スケからだった。[r]
+送られたのは夏祭りの最中。[r]
+緒織さんと話をしていた頃だ。[pcms]
 
 *5045|
 [fc]
-"Hey, where did you disappear to?" and "Big brother, where[r]
-are you?"[pcms]
+『お～い、どこに消えたんだ？』[r]
+とか[r]
+『お兄ちゃん、どこにいるの？』[pcms]
 
 *5046|
 [fc]
-...Short messages of concern for me who had run away from[r]
-the summer festival. They cared so much for me...[pcms]
+……といった、夏祭りから逃げ出したボクを気づかう[r]
+短いメールが数通。こんなにボクのことを……。[pcms]
 
 *5047|
 [fc]
-I'm happy but feel embarrassed in front of just the two[r]
-people here with me.[pcms]
+うれしいけど、今そばにいる二人だけに[r]
+ついつい恥ずかしくなってしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5048|
 [fc]
-[ns]Kousuke[nse]
-"...What's wrong? Wataru?"[pcms]
+[ns]浩助[nse]
+「……どーした？　ワタル？」[pcms]
 
 *5049|
 [fc]
-Kousuke notices my gaze.[pcms]
+ボクの視線に気がつく、コースケ。[pcms]
 
 *5050|
 [fc]
-[ns]Wataru[nse]
-"N-nothing... It's nothing..."[pcms]
+[ns]航[nse]
+「い、いや……なんでもないよ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -339,45 +338,45 @@ Kousuke notices my gaze.[pcms]
 
 *5051|
 [fc]
-I felt embarrassed and started checking my emails again.[pcms]
+ボクは照れくさくて、ふたたびメールをチェックし始める。[pcms]
 
 *5052|
 [fc]
-There was one more email each from the two of them.[pcms]
+二人からのメールにはもう一通ずつ続きがあった。[pcms]
 
 *5053|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「えっ……」[pcms]
 
 *5054|
 [fc]
-I let out a small voice involuntarily.[pcms]
+ボクは思わず小さい声をもらしてしまう。[pcms]
 
 *5055|
 [fc]
-According to the emails... after I disappeared, Yuuho also[r]
-went missing.[pcms]
+メールによれば……、[r]
+ボクがいなくなったあと、悠帆もいなくなったという。[pcms]
 
 *5056|
 [fc]
-"Do you know where Yuuho is?" "Are you with her?" ...the[r]
-emails asked.[pcms]
+「悠帆を知らないか？」[r]
+「一緒にいるのか？」[r]
+……と、メールにはあった。[pcms]
 
 *5057|
 [fc]
-Yuuho... on that day, Yuuho was meeting alone with Oshima-[r]
-senpai... And she hadn't returned to everyone else[r]
-afterwards.[pcms]
+悠帆は……[r]
+あの日の悠帆は……大嶋先輩と二人っきりで会っていて……。[r]
+……あのあと、みんなの所に戻っていない。[pcms]
 
 *5058|
 [fc]
-...In other words, the two of them were together even after[r]
-that...[pcms]
+……つまり、二人はあのあとも一緒で……。[pcms]
 
 *5059|
 [fc]
-After all, those two...[pcms]
+やっぱり、二人は……。[pcms]
 
 ;//フェードイン　ここから妄想
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -390,38 +389,40 @@ After all, those two...[pcms]
 *5060|
 [fc]
 [vo_yuh s="yuho0702"]
-[ns]Yuuho[nse]
-"Ah, Oshima-senpai is... kufuu, going in, it's coming in"[pcms]
+[ns]悠帆[nse]
+「あんっ、大嶋先輩が……くふぅう、入って、[r]
+　入ってきちゃう」[pcms]
 ;//＠20020　同様のセリフです
 
 *5061|
 [fc]
-[ns]Oshimi[nse]
-"It feels so good. Yuuho, your insides are irresistible."[pcms]
+[ns]大嶋[nse]
+「すごい気持ちいいよ。悠帆の中、たまらない」[pcms]
 
 *5062|
 [fc]
 [vo_yuh s="yuho0703"]
-[ns]Yuuho[nse]
-"Se-senpai too, it feels good. It feels good... ah, ahn![r]
-Oshima-senpai"[pcms]
+[ns]悠帆[nse]
+「せ、先輩もき、気持ちいい。[r]
+　気持ちいい……あっ、あんっ！　大嶋先輩」[pcms]
 
 *5063|
 [fc]
-[ns]Oshimi[nse]
-"I'm going to cum. Can I cum?"[pcms]
+[ns]大嶋[nse]
+「出る。出してもいいか？」[pcms]
 
 *5064|
 [fc]
 [vo_yuh s="yuho0704"]
-[ns]Yuuho[nse]
-"Nnfuuu, go ahead, cum inside me, senpai. Fill me up with[r]
-lots of your sperm~"[pcms]
+[ns]悠帆[nse]
+「んっふぅうう、だ、出して、先輩。[r]
+　わたしの、わたしの中に、[r]
+　大嶋先輩の精子、いっぱい出して～」[pcms]
 
 *5065|
 [fc]
-[ns]Oshimi[nse]
-"Yuuho!"[pcms]
+[ns]大嶋[nse]
+「悠帆っ！」[pcms]
 
 ;//BG:HEV013
 [se buf=0 storage="se_sex01"]
@@ -433,9 +434,9 @@ lots of your sperm~"[pcms]
 *5066|
 [fc]
 [vo_yuh s="yuho0705"]
-[ns]Yuuho[nse]
-"Hiuuu! Se-senpai's sperm, there's so much cumming out[r]
-nnhh!"[pcms]
+[ns]悠帆[nse]
+「ひぅうっ！[r]
+　せ、精子、精子いっぱいいっぱい出てるぅううんっ」[pcms]
 
 ;//BG:HEV013
 [evcg storage="HEV013c"][trans_c cross time=300]
@@ -450,32 +451,32 @@ nnhh!"[pcms]
 
 *5067|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5068|
 [fc]
-What am I thinking about at a time like this?[pcms]
+ボクはこんな時に何を考えているんだろうか？[pcms]
 
 *5069|
 [fc]
-...Even if it's a reflexive fantasy, I can't believe this is[r]
-what comes to mind.[pcms]
+……反射的な妄想とはいえ、こんなものが出てくるなんて。[pcms]
 
 *5070|
 [fc]
-Did I really love Yuuho?[pcms]
+ボクは本当に悠帆のことが好きだったんだろうか？[pcms]
 
 *5071|
 [fc]
-Or was it just her body... Yuuho's body, bursting with[r]
-charm... that I loved?[pcms]
+ただ、あの身体を……。[r]
+はじけんばかりに魅力的な悠帆の身体が……[r]
+それが好きだったんじゃないだろうか？[pcms]
 
 *5072|
 [fc]
-...If that's the case, I'm no different from those people.[r]
-The ones we're running from now--those who have gone crazy[r]
-with SEX on their minds...[pcms]
+……それじゃ、ボクはあの人たちと変わらない。[r]
+ボクたちが今、逃げている相手――ＳＥＸしか頭にない、[r]
+あのおかしくなっている人たちと……。[pcms]
 
 ;//妄想なので　夢に落ちていく感じの演出ができれば
 
@@ -489,37 +490,41 @@ with SEX on their minds...[pcms]
 *5073|
 [fc]
 [vo_yuh s="yuho0706"]
-[ns]Yuuho[nse]
-"It's not like that... That's not true..."[pcms]
+[ns]悠帆[nse]
+「ちがうよ……。[r]
+　そんなことはないよ……」[pcms]
 ;//＠　主人公の妄想
 
 *5074|
 [fc]
-[ns]Wataru[nse]
-"...Yuu... ho...?"[pcms]
+[ns]航[nse]
+「……悠……帆……？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5075|
 [fc]
 [vo_yuh s="yuho0707"]
-[ns]Yuuho[nse]
-"Wataru is different from those people. You truly loved[r]
-me... I know that..."[pcms]
+[ns]悠帆[nse]
+「航はあの人たちとはちがう。[r]
+　わたしのことを本当に好きでいてくれた……。[r]
+　わたしは……わかってるから……」[pcms]
 ;//＠　主人公の妄想
 
 *5076|
 [fc]
-[ns]Wataru[nse]
-"Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5077|
 [fc]
 [vo_yuh s="yuho0708"]
-[ns]Yuuho[nse]
-"Because I... I love Wataru... I love you..."[pcms]
+[ns]悠帆[nse]
+「だって、わたしは……。[r]
+　航のことが……。[r]
+　……航のことが好き……」[pcms]
 ;//＠　主人公の妄想
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -532,8 +537,8 @@ me... I know that..."[pcms]
 
 *5078|
 [fc]
-[ns]Wataru[nse]
-"Yuuho...!!"[pcms]
+[ns]航[nse]
+「悠帆……っ！！[pcms]
 
 ;//se002・メール着信
 [se buf=0 storage="se002"]
@@ -543,79 +548,87 @@ me... I know that..."[pcms]
 
 *5079|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5080|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「えっ……？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5081|
 [fc]
-[ns]Kousuke[nse]
-"Hey, what's up Wataru? You awake?"[pcms]
+[ns]浩助[nse]
+「おっ、どうしたワタル？[r]
+　目が覚めたか？」[pcms]
 
 *5082|
 [fc]
-[ns]Wataru[nse]
-"Huh? Just now, Yuu... ... ...It's nothing."[pcms]
+[ns]航[nse]
+「あれっ……今、ゆ……。[r]
+　………………。[r]
+　……なんでもないっ」[pcms]
 
 *5083|
 [fc]
-I realized the reality of my current situation and swallowed[r]
-the name "Yuuho" that I was about to say.[pcms]
+ボクは今の自分の現実に気がついて、[r]
+出しかけた『悠帆』の名前を飲み込んだ。[pcms]
 
 *5084|
 [fc]
-If Kousuke heard Yuuho's name, he would surely feel pain[r]
-again.[pcms]
+コースケだって、悠帆の名前を聞くと、[r]
+きっとまた辛い気持ちになる。[pcms]
 
 *5085|
 [fc]
-If I said I saw Yuuho in my dream, surely...[pcms]
+悠帆を夢で見たなんて言ったら、きっと……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5086|
 [fc]
-[ns]Kousuke[nse]
-"Are you okay? Wataru? If you're tired, you can sleep a bit[r]
-more."[pcms]
+[ns]浩助[nse]
+「大丈夫か？　ワタル？[r]
+　疲れてるんなら、もう少し寝ててもいいぞ？」[pcms]
 
 *5087|
 [fc]
-[ns]Wataru[nse]
-"No, it's not that... How long did I sleep?"[pcms]
+[ns]航[nse]
+「い、いや……そんなことないよ……。[r]
+　ボク、どれくらい寝てた？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5088|
 [fc]
-[ns]Kousuke[nse]
-"Hmm, as far as I know... about 2 or 3 minutes. So if you're[r]
-tired, you can rest a bit more..."[pcms]
+[ns]浩助[nse]
+「う～ん、オレが知ってるかぎりじゃ……２、３分ってとこだけど。[r]
+　だから、疲れてるんならもう少し……」[pcms]
 
 *5089|
 [fc]
-[ns]Wataru[nse]
-"No, it's okay. Thank you... Oh right, the emails..."[pcms]
+[ns]航[nse]
+「いや、いいよ。[r]
+　ありがとう……。[r]
+　……そうだメール……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5090|
 [fc]
 [vo_mar s="maru0658"]
-[ns]Margarita[nse]
-"By the way, your phone was ringing earlier. Was that an[r]
-email notification?"[pcms]
+[ns]マルガリータ[nse]
+「そういえば、さっきキミのケータイが鳴っていたな。[r]
+　あれはメールの着信音か？」[pcms]
 
 *5091|
 [fc]
-[ns]Wataru[nse]
-"...Yes. It wasn't a dream. Who could it be from...?"[pcms]
+[ns]航[nse]
+「……はい｡[r]
+　夢じゃなかったんだ。[r]
+　だれからだろう……？」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -624,168 +637,171 @@ email notification?"[pcms]
 
 *5092|
 [fc]
-I took out my phone which was caught on a strap and checked[r]
-the incoming messages.[pcms]
+ボクはストラップで手に引っかかっていたケータイを[r]
+とりあげると、着信を調べてみる。[pcms]
 
 *5093|
 [fc]
-[ns]Wataru[nse]
-"It really is... an email..."[pcms]
+[ns]航[nse]
+「ホントに……メールだ……」[pcms]
 
 ;//se022・携帯の操作音
 [se buf=0 storage="se022"]
 
 *5094|
 [fc]
-The notification came quite late, but the date was today's.[r]
-I hurriedly opened the received email.[pcms]
+ずいぶん遅れての着信だったけど、日付は今日のものだった。[r]
+ボクは着信していたメールをあわてて開いた。[pcms]
 
 ;//具体的時間があれば反映
 ;//以下ケータイメール　何らかの演出を
 
 *5095|
 [fc]
-There's a big commotion going on. It seems to be related to[r]
-that infection in the northeast. The vaccine doesn't seem to[r]
-be working.[pcms]
+大変な騒ぎになっている。[r]
+おそらく東北のあの感染症が関係しているようだ。[r]
+ワクチンが効いてないらしい。[pcms]
 
 *5096|
 [fc]
-Is the school okay? Are there any infected? If there are any[r]
-infected people, don't go near them.[pcms]
+学校は大丈夫か？[r]
+感染者は出ていないか？[r]
+感染者がいたら、絶対に近寄るな。[pcms]
 
 *5097|
 [fc]
-No matter if they are friends. It sounds harsh, but once[r]
-infected, there's no hope for recovery. That was the case[r]
-with the virus in the northeast.[pcms]
+たとえ、それが友達でも。[r]
+惨いようだが、一度感染したら治る見込みはない。[r]
+東北のウィルスはそうだった。[pcms]
 
 *5098|
 [fc]
-Above all, think only about protecting yourself first.[pcms]
+とにかく、まずは自分を守ることだけ考えろ。[pcms]
 
 *5099|
 [fc]
-I'm planning to go on air, but with this commotion, I don't[r]
-know when I can get out.[pcms]
+中継に出ようと思っているが、[r]
+この騒ぎだといつ出れるかわからない。[pcms]
 
 *5100|
 [fc]
-I'll be on standby at the center for now.[pcms]
+とりあえず、しばらくはセンターで待機している。[pcms]
 
 *5101|
 [fc]
-Please take care of Ren.[pcms]
+漣を頼む。[pcms]
 
 *5102|
 [fc]
-[ns]Wataru[nse]
-"Dad..."[pcms]
+[ns]航[nse]
+「父さん……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5103|
 [fc]
-[ns]Kousuke[nse]
-"From uncle?"[pcms]
+[ns]浩助[nse]
+「おじさんからか？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5104|
 [fc]
 [vo_ren s="ren0634"]
-[ns]Ren[nse]
-"Eh, from dad...?"[pcms]
+[ns]漣[nse]
+「えっ、お父さんから……？」[pcms]
 
 *5105|
 [fc]
-Could it be the effect of the cocktail party? Ren sits up at[r]
-the mention of her father.[pcms]
+カクテルパーティー効果って、やつだろうか？[r]
+父さんと言う話題に漣が身体を起こしてくる。[pcms]
 
 *5106|
 [fc]
-[ns]Wataru[nse]
-"Yeah. He's safe. It's a bit of an old email, but he's at[r]
-the center... above us..."[pcms]
+[ns]航[nse]
+「うん。無事だって。[r]
+　ちょっと、前のメールだけど、センターに……[r]
+　この上にいるって……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5107|
 [fc]
 [vo_ren s="ren0635"]
-[ns]Ren[nse]
-"Dad..."[pcms]
+[ns]漣[nse]
+「お父さん……」[pcms]
 
 *5108|
 [fc]
-[ns]Wataru[nse]
-"Are you okay, Ren?"[pcms]
+[ns]航[nse]
+「大丈夫か？　漣？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5109|
 [fc]
 [vo_ren s="ren0636"]
-[ns]Ren[nse]
-"Yeah. I'm fine now. Thank you, big brother..."[pcms]
+[ns]漣[nse]
+「うん。[r]
+　もう、大丈夫。[r]
+　ありがとうお兄ちゃん……」[pcms]
 
 *5110|
 [fc]
-Ren shows a guts pose with her slender white arms. Her[r]
-complexion looks good and she doesn't seem to be pushing[r]
-herself, which reassures me.[pcms]
+漣は細い白い腕でガッツポーズを作ってみせる。[r]
+顔色もいいし、無理はしてないみたいでボクは安心する。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5111|
 [fc]
 [vo_mar s="maru0659"]
-[ns]Margarita[nse]
-"It's good to hear that your father is safe. We might start[r]
-receiving useful information directly."[pcms]
+[ns]マルガリータ[nse]
+「お父上は無事のようで、よかったな。[r]
+　これからは有益な情報が直接送信されてくるかもしれない」[pcms]
 
 *5112|
 [fc]
-[ns]Wataru[nse]
-"...but the reception is quite delayed."[pcms]
+[ns]航[nse]
+「……ただ、着信がかなり遅れますけどね」[pcms]
 
 *5113|
 [fc]
 [vo_mar s="maru0660"]
-[ns]Margarita[nse]
-"We're not broadcasting right now, but there's also the[r]
-radio. If it's even a little faster and accurate, it should[r]
-be valuable."[pcms]
+[ns]マルガリータ[nse]
+「今は放送してないが、ラジオもあることだ。[r]
+　それより少しでも早くて、正確なら十分に価値があるはずだ」[pcms]
 
 *5114|
 [fc]
 [vo_mar s="maru0661"]
-[ns]Margarita[nse]
-"Besides, if they know we're here, they might open it from[r]
-the inside. Isn't that more important?"[pcms]
+[ns]マルガリータ[nse]
+「それにここにいることがわかれば、[r]
+　中から開けてもらえるだろう。[r]
+　そっちのほうが重要だろう？」[pcms]
 
 *5115|
 [fc]
-[ns]Wataru[nse]
-"Now that you mention it, that's true..."[pcms]
+[ns]航[nse]
+「そういえば、そうですね……」[pcms]
 
 *5116|
 [fc]
-I had forgotten which was more important.[pcms]
+ボクはついどっちが大事かを忘れていた。[pcms]
 
 ;//ラジオで流していい情報がわからないので
 
 *5117|
 [fc]
 [vo_mar s="maru0662"]
-[ns]Margarita[nse]
-"There's no radio broadcast right now, so email is the only[r]
-way to know what's happening outside."[pcms]
+[ns]マルガリータ[nse]
+「今はラジオが放送されていないし、[r]
+　メールが外の様子を知るための唯一の方法だな」[pcms]
 
 *5118|
 [fc]
-[ns]Wataru[nse]
-"Kousuke, did you get any emails?"[pcms]
+[ns]航[nse]
+「コースケはなにかメールきてた？」[pcms]
 
 ;//ＤＪーＨＥＡＶＹ　の設定がないので適当に書きます
 
@@ -793,288 +809,288 @@ way to know what's happening outside."[pcms]
 
 *5119|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, I got a bunch. They came from DJ-HEAVY."[pcms]
+[ns]浩助[nse]
+「ああ、いっぱい来てた。[r]
+　ＤＪーＨＥＡＶＹから来てたぞ」[pcms]
 
 *5120|
 [fc]
-[ns]Wataru[nse]
-"From DJ-HEAVY? What did he say?"[pcms]
+[ns]航[nse]
+「ＤＪーＨＥＡＶＹから？[r]
+　なんだって？」[pcms]
 
 *5121|
 [fc]
-[ns]Kousuke[nse]
-"He left yesterday and arrived in NY the same day. He heard[r]
-about the commotion in Japan on TV and seems to have emailed[r]
-us."[pcms]
+[ns]浩助[nse]
+「昨日、出発しててその日のうちにＮＹについてたって。[r]
+　ＴＶで、日本で騒ぎが起きてるって知って、[r]
+　メールしてくれたらしい」[pcms]
 
 *5122|
 [fc]
-[ns]Kousuke[nse]
-"He was asking if me and the master were safe... It's not[r]
-clear whether it's a mysterious riot or a recurrence of the[r]
-Northeast infection disaster, but it's clear that something[r]
-serious is happening all over Japan..."[pcms]
+[ns]浩助[nse]
+「オレやマスターが無事か……だってさ。[r]
+　謎の暴動とか、東北感染災害の再来とか、はっきりしないけど[r]
+　日本中で大変なことになってのだけはわかるって……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5123|
 [fc]
 [vo_mar s="maru0663"]
-[ns]Margarita[nse]
-"All over Japan...?"[pcms]
+[ns]マルガリータ[nse]
+「日本中だと……？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5124|
 [fc]
-[ns]Kousuke[nse]
-"...Yes..."[pcms]
+[ns]浩助[nse]
+「……ええっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5125|
 [fc]
 [vo_ren s="ren0637"]
-[ns]Ren[nse]
-"That can't be..."[pcms]
+[ns]漣[nse]
+「そんな……」[pcms]
 
 *5126|
 [fc]
-[ns]Wataru[nse]
-"...So, what else?"[pcms]
+[ns]航[nse]
+「……それで、他には？」[pcms]
 
 *5127|
 [fc]
-The story from America isn't really helpful. It's scary to[r]
-ask, but we need other emails that could be references...[r]
-preferably ones that can give us hope.[pcms]
+アメリカの話じゃ、ゼンゼン参考にははならない。[r]
+聞くのは怖いけど、他に参考になりそうな……[r]
+できれば希望をもてるようなメールじゃないと……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5128|
 [fc]
-[ns]Kousuke[nse]
-"Then there are messages from music-related friends and[r]
-seniors from other schools... Everyone's asking if we're[r]
-okay..."[pcms]
+[ns]浩助[nse]
+「あとは他の学校の音楽関係のダチや先輩から……。[r]
+　みんな、大丈夫かって……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5129|
 [fc]
 [vo_mar s="maru0664"]
-[ns]Margarita[nse]
-"It seems those kids are okay. So, which schools are they[r]
-from?"[pcms]
+[ns]マルガリータ[nse]
+「その子たちは大丈夫みたいだな。[r]
+　それで、彼らはどこの学校だ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5130|
 [fc]
-[ns]Kousuke[nse]
-"The thing is, they're all from other prefectures... Oh,[r]
-there are some from Tokyo too, but only from quite remote[r]
-suburbs..."[pcms]
+[ns]浩助[nse]
+「それが他の県のばかり……。[r]
+　あ、都内のからもきてるけど、[r]
+　かなり郊外の離れたところしか……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5131|
 [fc]
-[ns]Kousuke[nse]
-"From around here or... no, not a single one from within the[r]
-23 wards. Not from dad or mom... And from Mizuki too..."[pcms]
+[ns]浩助[nse]
+「このあたりや……いや、２３区内からは、ひとつも。[r]
+　おやじやおふくろや……。[r]
+　それから、瑞樹も……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5132|
 [fc]
 [vo_mar s="maru0665"]
-[ns]Margarita[nse]
-"...I see."[pcms]
+[ns]マルガリータ[nse]
+「……そうか」[pcms]
 
 *5133|
 [fc]
-The senior looked down as if regretting asking such a[r]
-question.[pcms]
+先輩はまた「悪いことを聞いた」といった感じにうつむく。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5134|
 [fc]
-Kousuke must be worried about his uncle and aunt... and also[r]
-about Mizuki.[pcms]
+コースケもおじさんとおばさん……[r]
+それから瑞樹のことが心配に違いない。[pcms]
 
 *5135|
 [fc]
-I've been preoccupied with Yuuho, but hearing that name made[r]
-me worry about Mizuki too. What could she be doing right[r]
-now?[pcms]
+悠帆のことで頭がいっぱいだったけど、[r]
+その名前を聞いて、ボクも瑞樹が心配になってきた。[r]
+今頃、瑞樹はどうしてるんだろう？[pcms]
 
 *5136|
 [fc]
-...Come to think of it, what about the senior? She must have[r]
-people she's worried about too.[pcms]
+……そう言えば、先輩は？[r]
+先輩だって……心配な人たちがいるに違いない。[pcms]
 
 *5137|
 [fc]
-[ns]Wataru[nse]
-"Senior, don't you have people you're worried about? Your[r]
-parents are at the embassy, right?"[pcms]
+[ns]航[nse]
+「先輩は心配な人はいませんか？[r]
+　ご両親は大使館ですよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5138|
 [fc]
 [vo_mar s="maru0666"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *5139|
 [fc]
 [vo_mar s="maru0667"]
-[ns]Margarita[nse]
-"My father is away on official business, so only my personal[r]
-bodyguard and staff remain at the embassy."[pcms]
+[ns]マルガリータ[nse]
+「父は公務でここを離れているから[r]
+　大使館にはワタシの専属ボディーガードと[r]
+　スタッフが残ってるだけだ」[pcms]
 
 *5140|
 [fc]
 [vo_mar s="maru0668"]
-[ns]Margarita[nse]
-"...My mother has passed away. She was killed in a bomb[r]
-terrorist attack during the Martini civil war..."[pcms]
+[ns]マルガリータ[nse]
+「……母は、もう亡くなっている。[r]
+　マティニア内戦の最中に爆弾テロでな……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5141|
 [fc]
 [vo_ren s="ren0638"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 
 *5142|
 [fc]
-[ns]Wataru[nse]
-"...I'm sorry."[pcms]
+[ns]航[nse]
+「……すいません」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5143|
 [fc]
-A sharp pain struck my heart. The senior had experienced the[r]
-same suffering as me.[pcms]
+ずきりと胸が痛んだ。[r]
+先輩もボクと同じ苦しみを味わっていたんだ。[pcms]
 
 *5144|
 [fc]
-"Having her mother's life taken away for such an[r]
-unreasonable reason..."[pcms]
+『あまりに理不尽な理由で母親の命を奪われる』っていう……。[pcms]
 
 *5145|
 [fc]
-The pain the senior is feeling now must be the same as what[r]
-I had just felt.[pcms]
+先輩の今感じている痛みは[r]
+きっと、ついさっきボクが感じていたものと同じに違いない。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5146|
 [fc]
-[ns]Kousuke[nse]
-"Wataru and Ren-chan lost their mother in the previous[r]
-Northeast infection disaster... There was no ill intent..."[pcms]
+[ns]浩助[nse]
+「ワタルと漣ちゃんは前の[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]で[r]
+　おふくろさんを亡くしてるんで……。[r]
+　悪気があったわけじゃ……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5147|
 [fc]
 [vo_ren s="ren0639"]
-[ns]Ren[nse]
-"...I'm sorry."[pcms]
+[ns]漣[nse]
+「……すいません」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5148|
 [fc]
 [vo_mar s="maru0669"]
-[ns]Margarita[nse]
-"Don't worry about it. It's an unavoidable pain when people[r]
-try to understand each other. I know that."[pcms]
+[ns]マルガリータ[nse]
+「気にするな。[r]
+　人がわかりあう時には、避けられない痛みだ。[r]
+　わかっている」[pcms]
 
 *5149|
 [fc]
-The senior smiled kindly at us. It was the same expression I[r]
-often made when I felt the same pain.[pcms]
+先輩はやさしく笑ってくれた。[r]
+それはボクが同じ痛みを感じた時によくする表情だった。[pcms]
 
 *5150|
 [fc]
-Enduring the pain, with a feeling of 'thank you' for those[r]
-who showed concern...[pcms]
+痛みに耐えながら、[r]
+気づかってくれた人に「ありがとう」って気持ちで……。[pcms]
 
 *5151|
 [fc]
-[ns]Wataru[nse]
-"I'm truly sorry!"[pcms]
+[ns]航[nse]
+「本当にすみません！」[pcms]
 
 *5152|
 [fc]
-I bowed my head once again.[pcms]
+ボクはもう一度頭を下げた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5153|
 [fc]
 [vo_mar s="maru0670"]
-[ns]Margarita[nse]
-"There's no need to worry about it... I'm more concerned[r]
-about the staff who fell ill."[pcms]
+[ns]マルガリータ[nse]
+「気にしないでいいというのに……。[r]
+　ワタシはそれよりも体調を崩していたスタッフたちが心配だ」[pcms]
 
 *5154|
 [fc]
 [vo_mar s="maru0671"]
-[ns]Margarita[nse]
-"Some of them were capable soldiers in their homeland during[r]
-the civil war, so they must be working hard to resolve the[r]
-situation by now."[pcms]
+[ns]マルガリータ[nse]
+「何人かは、内戦中の祖国では有能な兵士だったから、[r]
+　今頃は事態の収拾に尽力してくれているだろう」[pcms]
 
 *5155|
 [fc]
 [vo_mar s="maru0672"]
-[ns]Margarita[nse]
-"It should work out somehow. Capable military personnel show[r]
-their true worth in situations like this."[pcms]
+[ns]マルガリータ[nse]
+「なんとかなっているはずだ。[r]
+　有能な軍人はこういう事態でこそ、本領を発揮するからな」[pcms]
 
 *5156|
 [fc]
-The senior said this to reassure us. But at the same time,[r]
-it sounded like she was saying that our own Self-Defense[r]
-Forces were useless.[pcms]
+先輩はボクたちを安心させるように言う。[r]
+だけど、それは同時にこの国の自衛隊が[r]
+役に立たないと言ってるようにも聞こえた。[pcms]
 
 *5157|
 [fc]
-Indeed, during the Northeast infection disaster, there were[r]
-rumors of units that had panicked in fear and ended up[r]
-attacking each other, which the media criticized as a waste[r]
-of taxpayers' money.[pcms]
+実際、[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]の時は恐怖に混乱して[r]
+同士討ちした部隊がいくつかあるって噂を[r]
+マスコミは取り上げて、税金のムダ使いとののしった。[pcms]
 
 *5158|
 [fc]
-The only ones who didn't do that were the national[r]
-broadcasters, like my father's D.H.K.[pcms]
+それをしなかったのは国営放送の[r]
+父さんたちＤＨＫくらいだった。[pcms]
 
 *5159|
 [fc]
-I was about to blame the Self-Defense Forces for my mother[r]
-not coming back, but it seemed like my father had said, "We[r]
-shouldn't do that..."[pcms]
+ボクも母さんが帰ってこなかったことを[r]
+自衛隊の人たちのせいにしかけてたけど、それは父さんが[r]
+『そういうことはしちゃダメだ』っていってたみたいで……。[pcms]
 
 *5160|
 [fc]
-That's when I stopped thinking that way.[pcms]
+ボクはそんな風に考えるをやめたっけ。[pcms]
 
 *5161|
 [fc]
-Oh, by the way...[pcms]
+あっ、そういえば……。[pcms]
 
 ;//立ち絵　セスカ　回想エフェクト
 ;//@konya 暗転
@@ -1086,13 +1102,14 @@ Oh, by the way...[pcms]
 
 *5162|
 [fc]
-That person... He seems to be the senior's bodyguard, but I[r]
-wonder if he's at the embassy too.[pcms]
+あの人……。[r]
+先輩のボディーガードらしいけど、[r]
+あの人も大使館にいるんだろうか。[pcms]
 
 *5163|
 [fc]
-He was very concerned about the senior, and with the[r]
-situation being what it is, his worry must be immeasurable.[pcms]
+先輩のことをいろいろ心配してたし、[r]
+こんな状況だと心配どころじゃないだろうな。[pcms]
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1106,114 +1123,110 @@ situation being what it is, his worry must be immeasurable.[pcms]
 *5164|
 [fc]
 [vo_mar s="maru0673"]
-[ns]Margarita[nse]
-"For now, we know that this abnormal situation is apparently[r]
-only in the central part of Tokyo."[pcms]
+[ns]マルガリータ[nse]
+「とりあえず、この異常事態がどうやら都内中心部だけだ[r]
+　ということはわかったな」[pcms]
 
 *5165|
 [fc]
 [vo_mar s="maru0674"]
-[ns]Margarita[nse]
-"There's information about it being all over Japan, but[r]
-that's uncertain news from foreign media. More credible is[r]
-the information close at hand. If we escape from Tokyo,[r]
-there's a high chance of survival."[pcms]
+[ns]マルガリータ[nse]
+「日本各地という情報もあるが、海外メディアの不確かな情報だ。[r]
+　それよりも、身近な情報の方が信憑性が高い。[r]
+　都内から逃げだせば助かる可能性は高いな」[pcms]
 
 *5166|
 [fc]
-[ns]Wataru[nse]
-"Escape from Tokyo?"[pcms]
+[ns]航[nse]
+「都内から、脱出ですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5167|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5168|
 [fc]
 [vo_mar s="maru0675"]
-[ns]Margarita[nse]
-"There's no need if the situation settles down, but it's[r]
-good to be prepared for that possibility."[pcms]
+[ns]マルガリータ[nse]
+「事態が収まればその必要がないが、[r]
+　その覚悟はしておいたほうがいい」[pcms]
 
 *5169|
 [fc]
 [vo_mar s="maru0676"]
-[ns]Margarita[nse]
-"It will be tough to leave without searching for your loved[r]
-ones, but if you lose your life, it's all for naught. Surely[r]
-they would be saddened to know that."[pcms]
+[ns]マルガリータ[nse]
+「大切な人たちを探せずに置いて行くのはつらいだろうが、[r]
+　それで自分が命を失ってしまっては意味がない。[r]
+　きっとその人たちだって、それを知れば悲しむだろう」[pcms]
 
 *5170|
 [fc]
-[ns]Wataru[nse]
-"...I understand."[pcms]
+[ns]航[nse]
+「……わかりました」[pcms]
 
 *5171|
 [fc]
-To think that a day might come when we have to abandon our[r]
-city, our home, and flee...[pcms]
+この街を、ボクたちのこの街を捨てて[r]
+逃げなきゃいけない日がくるなんて……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5172|
 [fc]
-[ns]Kousuke[nse]
-"Come to think of it, I haven't received any emails from[r]
-Tadahiko and Inori-san either... Are they okay...?"[pcms]
+[ns]浩助[nse]
+「そういえば彦ちんと緒織さんからもメールがないな……。[r]
+　大丈夫……かな……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5173|
 [fc]
 [vo_ren s="ren0640"]
-[ns]Ren[nse]
-"...From Tadahiko and Inori-san too?"[pcms]
+[ns]漣[nse]
+「……彦ちんと緒織さんからも？」[pcms]
 
 *5174|
 [fc]
-Ren looked worried.[pcms]
+漣は心配そうな顔をする。[pcms]
 
 *5175|
 [fc]
-I realized I hadn't received any emails on my phone either.[pcms]
+そういえばボクのケータイにもメールがない。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5176|
 [fc]
-[ns]Kousuke[nse]
-"While Tadahiko might not understand how to use a cell[r]
-phone, it's strange not to get an email from Inori-san at a[r]
-time like this..."[pcms]
+[ns]浩助[nse]
+「ケータイの使い方が良くわからない彦ちんはともかく、[r]
+　こんな時に緒織さんからメールがないってのは……」[pcms]
 
 *5177|
 [fc]
-[ns]Wataru[nse]
-"That's true..."[pcms]
+[ns]航[nse]
+「そうだね……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5178|
 [fc]
-[ns]Kousuke[nse]
-"Well, Tadahiko is tough enough to not die even if you kill[r]
-him, so he should be fine. If he's there, Inori-san will be[r]
-safe too."[pcms]
+[ns]浩助[nse]
+「まあ、彦ちんは殺しても死にそうにないから、大丈夫だろ。[r]
+　彦ちんがいれば、緒織さんも大丈夫だし」[pcms]
 
 *5179|
 [fc]
-[ns]Wataru[nse]
-"Yeah, that's right..."[pcms]
+[ns]航[nse]
+「そうだよね……」[pcms]
 
 *5180|
 [fc]
-I nodded at Kousuke's words while thinking about the two of[r]
-them.[pcms]
+ボクはコースケの言葉にうなずきながら、二人のことを考えた。[pcms]
 
 ;//--------------------------------------------------------------------
 ;//条件分岐
@@ -1250,17 +1263,17 @@ them.[pcms]
 
 *5181|
 [fc]
-Inori-san must be safe... Tadahiko must be protecting her[r]
-with his life.[pcms]
+緒織さんも、きっと……きっと無事でいてくれる。[r]
+彦ちんが命がけで守ってるはずだ。[pcms]
 
 *5182|
 [fc]
-So...[pcms]
+だから……。[pcms]
 
 *5183|
 [fc]
-It's too optimistic, but I really want my first love to be[r]
-safe.[pcms]
+ムシの良すぎる話だけど、[r]
+ボクの初めての人にはどうしても無事でいてほしかった。[pcms]
 
 ;//以降　緒織とＳＥＸ off へ
 
@@ -1271,74 +1284,70 @@ safe.[pcms]
 
 *5184|
 [fc]
-Email reception is unstable; you never know when they'll[r]
-come through.[pcms]
+メールの受信は不安定で、いつ送られてくるかわからない。[pcms]
 
 *5185|
 [fc]
-I tried to convince myself that Inori-san must have sent an[r]
-email letting us know she's safe, and it just hasn't been[r]
-received yet.[pcms]
+順番もムチャクチャだし、きっと緒織さんが[r]
+無事を知らせるメールを送ってくれてるけど、[r]
+着信してないだけだと思うようにした。[pcms]
 
 *5186|
 [fc]
-I pushed away the terrifying thought that by the time it[r]
-arrives, the situation may have already changed...[pcms]
+着信した時には既に状況は変わっていて……[r]
+という恐ろしい考えは振り切って。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5187|
 [fc]
 [vo_mar s="maru0677"]
-[ns]Margarita[nse]
-"For now, there are no broadcasts on radio or TV, and the[r]
-internet isn't connecting. It seems like cell phones have[r]
-also stopped sending and receiving."[pcms]
+[ns]マルガリータ[nse]
+「とりあえず、今はラジオもテレビも放送されてなければ、[r]
+　ネットもつながらない。[r]
+　ケータイも送受信がとまってるみたいだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5188|
 [fc]
 [vo_mar s="maru0678"]
-[ns]Margarita[nse]
-"We can't make a move until more information comes in. Until[r]
-we get some reliable information, let's rest our bodies a[r]
-bit more."[pcms]
+[ns]マルガリータ[nse]
+「もう少し情報が集まるまでは身動きが取れないな。[r]
+　何らかの有力な情報が手に入るまで、[r]
+　もう少し身体を休めておこう」[pcms]
 
 *5189|
 [fc]
 [vo_mar s="maru0679"]
-[ns]Margarita[nse]
-"We can stay here for another half day without problems. If[r]
-there's no progress by then, we'll have to escape Tokyo[r]
-without any information... Hopefully this door will open by[r]
-then..."[pcms]
+[ns]マルガリータ[nse]
+「あと半日くらいなら、ここに留まっていても問題ないだろう。[r]
+　それで進展がないなら、情報なしで都内を脱出するしかない。[r]
+　……それまでにこの扉が開いてくれればいいのだが……」[pcms]
 
 *5190|
 [fc]
-Our resentful gazes naturally gathered on the door that[r]
-wouldn't open.[pcms]
+ボクたちの恨みがましい視線が、開いてくれない扉に自然と集まる。[pcms]
 
 *5191|
 [fc]
 [vo_mar s="maru0680"]
-[ns]Margarita[nse]
-"For now, let's make sure we're ready to move at full[r]
-strength at any moment by keeping our physical condition and[r]
-attire in top shape while we wait for the opportunity."[pcms]
+[ns]マルガリータ[nse]
+「とりあえず、いつでも全力で動けるように[r]
+　体調や服装をベストな状態にして機を待つこととしよう」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5192|
 [fc]
 [vo_ren s="ren0641"]
-[ns]Ren[nse]
-"...Yes...!"[pcms]
+[ns]漣[nse]
+「……はいっ……！」[pcms]
 
 *5193|
 [fc]
-Before we could respond, Ren quickly replied as if it were[r]
-her own responsibility.[pcms]
+ボクたちが返事するよりも早く、[r]
+漣が自分のことだといわんばかりに強く返事をした。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

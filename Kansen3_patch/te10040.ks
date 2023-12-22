@@ -8,7 +8,7 @@
 ;//・視点：主人公一人称
 ;//登場人物:主人公・浩助・マルガリータ・漣・悠帆
 ;//時間帯：
-;//・時間：６日目（８月２０日）朝
+;//・時間：６日目（８月２０日）朝～
 ;//テキスト分量：2k
 ;//--------------------------------------------------------------------
 
@@ -24,45 +24,44 @@
 
 *92|
 [fc]
-We decided to head back inside to sleep soon. Despite no[r]
-direct lighting, the area around the signboard was quite[r]
-bright, reflecting the surrounding neon lights.[pcms]
+ボクたちは、そろそろ寝ようかと屋内に戻ることにした。[r]
+灯りが直接点いている訳ではないのに、周りのネオンを[r]
+反射して看板の上はだいぶん明るい。[pcms]
 
 *93|
 [fc]
-Just as we took a step to return together, suddenly the[r]
-ground beneath us darkened.[pcms]
+連れ立って戻ろうと一歩を踏み出したとき、急に足もとが[r]
+暗くなった。[pcms]
 
 ;//★_黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *94|
 [fc]
-[ns]Wataru[nse]
-"Eh?!"[pcms]
+[ns]航[nse]
+「えっ？！」[pcms]
 
 *95|
 [fc]
-Sudden darkness. In a panic, I turned around to find that[r]
-the city lights, the dazzling neon, everything had gone out.[r]
-It wasn't just Shibuya. A vast darkness spread far into the[r]
-distance.[pcms]
+いきなりの暗闇。慌てて振り返ると、街中の灯りが、[r]
+きらびやかなネオンが、全部消えていた。[r]
+渋谷だけじゃない。遙か遠くまで暗い闇が広がっていた。[pcms]
 
 *96|
 [fc]
-[ns]Wataru[nse]
-"What's..."[pcms]
+[ns]航[nse]
+「何が……」[pcms]
 
 *97|
 [fc]
-In the darkness, I strained my eyes. Could I see anything?[r]
-Did I understand what had happened? After a while, my eyes[r]
-finally began to adjust to the dark.[pcms]
+ボクは暗闇の中、目をこらす。何か見えないだろうか、[r]
+何があったかわからないだろうかと。[r]
+しばらくすると、ようやく暗闇に目が慣れ始めた。[pcms]
 
 *98|
 [fc]
-[ns]Wataru[nse]
-"...Ah..."[pcms]
+[ns]航[nse]
+「……あっ……」[pcms]
 
 ;//★_満天の星空
 [evcg storage="EV002l"][trans_c cross time=300]
@@ -70,27 +69,25 @@ finally began to adjust to the dark.[pcms]
 
 *99|
 [fc]
-[ns]Wataru[nse]
-"Incredible..."[pcms]
+[ns]航[nse]
+「すごい……」[pcms]
 
 *100|
 [fc]
-The moon shone brilliantly. The countless stars, too[r]
-numerous to count, sparkled as brightly as the moonlight,[r]
-with the Milky Way shining white in a band across the sky.[r]
-Tokyo had been hiding such a night sky.[pcms]
+煌々と輝く月。その月の明かりに負けないぐらい光り輝く[r]
+無数の、数え切れないほどの星々。帯状に白く輝く天の川。[r]
+東京は、こんな夜空を隠していたんだ。[pcms]
 
 *101|
 [fc]
-It was the same beautiful starry sky I had seen in Akita,[r]
-unchanged. The bright star that had been faintly visible[r]
-before had regained its original brilliance and now shone[r]
-brightly and clearly.[pcms]
+明田で見たのと代わらない、同じ美しい星空。[r]
+さっきまでかすかに見えていた一等星は、本来の輝きを[r]
+取り戻し、明るく冴え冴えと見えている。[pcms]
 
 *102|
 [fc]
-[ns]Wataru[nse]
-"It's beautiful..."[pcms]
+[ns]航[nse]
+「綺麗だ……」[pcms]
 
 ;//--------------------------------------------------------------------
 ;//条件分岐

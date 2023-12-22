@@ -29,20 +29,20 @@
 *1748|
 [fc]
 [vo_yuh s="yuho1545"]
-[ns]Yuuho[nse]
-"Ren-chan, Mizuki, are you ready?"[pcms]
+[ns]悠帆[nse]
+「漣ちゃん。瑞樹。準備はいい？」[pcms]
 
 *1749|
 [fc]
-She calls out to the two standing beside her.[pcms]
+傍らに立っている二人に、声をかける。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1750|
 [fc]
 [vo_ren s="ren1366"]
-[ns]Ren[nse]
-"Y-Yes!"[pcms]
+[ns]漣[nse]
+「う、うんっ！」[pcms]
 ;//＠ちょっとビビリ
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -50,49 +50,49 @@ She calls out to the two standing beside her.[pcms]
 *1751|
 [fc]
 [vo_miz s="mizuki0291"]
-[ns]Mizuki[nse]
-"Anytime is fine!"[pcms]
+[ns]瑞樹[nse]
+「いつでもいいよ！」[pcms]
 
 *1752|
 [fc]
-Ren-chan is trembling a little, while Mizuki puts on a calm[r]
-face, but still, they both nod vigorously.[pcms]
+漣ちゃんは少し震えながら、瑞樹は平気な顔を装って、[r]
+それでも二人とも大きくうなずいてくれる。[pcms]
 
 *1753|
 [fc]
-We are looking down at Udagawa Street from the balcony of[r]
-the "Dedepou" nap room.[pcms]
+わたしたちは「ででっぽう」仮眠室のベランダから[r]
+宇田川通りを見下ろしている。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1754|
 [fc]
 [vo_yuh s="yuho1546"]
-[ns]Yuuho[nse]
-"...Okay, let's start!"[pcms]
+[ns]悠帆[nse]
+「……じゃ、始めるね！」[pcms]
 ;//＠携帯電話に向かって
 
 *1755|
 [fc]
-I tell this to the phone and then press the call end button.[pcms]
+電話に向かって告げたわたしは、通話終了ボタンを押す。[pcms]
 
 *1756|
 [fc]
-The real performance begins... We have to lure them in[r]
-properly![pcms]
+本番開始……。[r]
+ヤツラをきっちりおびき寄せなくちゃ！[pcms]
 
 *1757|
 [fc]
-I take a deep breath and then tense my stomach.[pcms]
+すーっと大きく息を吸い込んでから、お腹に力を入れる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1758|
 [fc]
 [vo_yuh s="yuho1547"]
-[ns]Yuuho[nse]
-"...Attention all infected passersby! Sorry to disturb you,[r]
-we are survivors!!"[pcms]
+[ns]悠帆[nse]
+「……ご通行中の、感染者のみなさーん！！[r]
+　お騒がせしまーす、こちら、生存者でーす！！」[pcms]
 ;//＠すーっと大きく息を吸い込んでから。通りに叫ぶ。
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -100,123 +100,124 @@ we are survivors!!"[pcms]
 *1759|
 [fc]
 [vo_miz s="mizuki0292"]
-[ns]Mizuki[nse]
-"...This feels kind of stupid..."[pcms]
+[ns]瑞樹[nse]
+「……なんかバカっぽい……」[pcms]
 
 *1760|
 [fc]
-In a voice that sounds both amazed and pitiful, Mizuki[r]
-mutters.[pcms]
+呆れたような情けなさそうな声で、瑞樹が呟く。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1761|
 [fc]
 [vo_yuh s="yuho1548"]
-[ns]Yuuho[nse]
-"It's fine, it's fine. As long as they notice us, the[r]
-content doesn't really matter."[pcms]
+[ns]悠帆[nse]
+「いいのいいの。[r]
+　よーするに、こっちに気付かせればいいんだから[r]
+　内容なんかテキトーで構わないんだって」[pcms]
 
 *1762|
 [fc]
-What's important is to attract every single infected person.[r]
-If we don't fulfill our role properly, Wataru and the others[r]
-will be in danger...[pcms]
+大事なのは、一人残さず感染者を引きつけること。[r]
+わたしたちがちゃんと役目を果たさないと、[r]
+航たちが危険な目に遭ってしまうんだから……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1763|
 [fc]
 [vo_yuh s="yuho1549"]
-[ns]Yuuho[nse]
-"So come on, you two, make some noise as well!"[pcms]
+[ns]悠帆[nse]
+「だから、ほら、二人もちゃんと騒いで！」[pcms]
 
 *1764|
 [fc]
-I pat their backs for encouragement and raise my voice even[r]
-louder.[pcms]
+ばんっと背中を叩いて励まし、わたしは更に声を張り上げる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1765|
 [fc]
 [vo_yuh s="yuho1550"]
-[ns]Yuuho[nse]
-"Ah-, ah-, currently testing the microphone!!"[pcms]
+[ns]悠帆[nse]
+「あー、あー、ただいまマイクのテスト中ーっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1766|
 [fc]
 [vo_miz s="mizuki0293"]
-[ns]Mizuki[nse]
-"...Ah-, geez! Fine, I'll do it!"[pcms]
+[ns]瑞樹[nse]
+「……あーっ、もう！　やればいいんでしょっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1767|
 [fc]
 [vo_miz s="mizuki0294"]
-[ns]Mizuki[nse]
-"Hey you, infected ones! My flesh is delicious, you know!![r]
-Come on, look over here! Look at me!!"[pcms]
+[ns]瑞樹[nse]
+「こらーっ、そこの感染者ーっ！[r]
+　あたしの肉はおいしーわよーっ！！[r]
+　ほーら、こっち見なさいっ！　見なさいったらー！」[pcms]
 
 *1768|
 [fc]
-Driven to desperation, Mizuki leans out from the balcony and[r]
-starts waving her hands wildly.[pcms]
+ヤケになった瑞樹は、ベランダから身体を乗り出して[r]
+大きく手まで振り回し始めた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1769|
 [fc]
 [vo_ren s="ren1367"]
-[ns]Ren[nse]
-"Mm...and"[pcms]
+[ns]漣[nse]
+「ん……と」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1770|
 [fc]
-Next to her, Ren-chan with her violin begins to move her bow[r]
-dramatically.[pcms]
+その隣ではバイオリンを構えた漣ちゃんが[r]
+弓を大きく動かし始める。[pcms]
 
 *1771|
 [fc]
-She seems to be playing a fast-paced polka in response to[r]
-the request for lively and attention-grabbing music.[pcms]
+軽快で目立ちそうな音楽を、っていうリクエストに応えて[r]
+テンポの早いポルカを演奏しているみたい。[pcms]
 
 *1772|
 [fc]
 [vo_ren s="ren1368"]
-[ns]Ren[nse]
-"...Hng... Do your best, big brother..."[pcms]
+[ns]漣[nse]
+「…………っ、…………。お兄ちゃん、がんばって……」[pcms]
 ;//＠懸命に
 
 *1773|
 [fc]
-In between her performance, I can hear Ren-chan's prayer-[r]
-like murmurs.[pcms]
+演奏の合間に、漣ちゃんの祈るような呟きが聞こえてくる。[pcms]
 
 *1774|
 [fc]
-That's right, do your best, Wataru... We'll also try our[r]
-hardest.[pcms]
+そうだね、頑張って、航……。[r]
+わたしたちも、精一杯、やってみるから。[pcms]
 
 *1775|
 [fc]
-[ns]Infected Man C[nse]
-"Ugh...grrrrr...uhhh... A woman... and a fresh one..."[pcms]
+[ns]感染者・男Ｃ[nse]
+「う……うぐるるる……ううぅぅ……。[r]
+　女だ…………し、新鮮な女……」[pcms]
 
 *1776|
 [fc]
-[ns]Infected Man D[nse]
-"Soft and... looks tasty, the flesh...uhhh"[pcms]
+[ns]感染者・男Ｄ[nse]
+「柔らかくて……旨そうな、肉……ぅぅぅ」[pcms]
 
 *1777|
 [fc]
-Down on the street below, they were starting to notice us...[pcms]
+通りの下の方では、そろそろヤツラが[r]
+わたしたちに気付き始めていた……。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

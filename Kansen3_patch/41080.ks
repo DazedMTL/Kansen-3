@@ -1,10 +1,10 @@
 ;//ブロック４１０６０から選択肢でjump
-;//ブロック４１０８０『地下道悠帆のみ脱出』END2
+;//ブロック４１０８０『地下道～悠帆のみ脱出～』END2
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41060.txtから
 
 *41080_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：地下通路 開渠部の橋の上
 ;//カットイン？：宇田川暗渠　川底の風景　渋谷川暗渠・開口部付近
@@ -13,7 +13,7 @@
 ;//時間帯：
 ;//・テキスト容量：３K前後
 ;//---------------------------------------------------------------
-;//●選択肢Ａ２　２２：右に！どこかの施設へ！
+;//●選択肢Ａ－２　２－２：右に！どこかの施設へ！
 ;//ここら辺の河の構造　再度調べてから検証
 
 ;//---------------------------------------------------------------
@@ -39,18 +39,19 @@
 
 *3024|
 [fc]
-[ns]Wataru[nse]
-"Let's escape that way. If it smells, it means they're[r]
-close, right?"[pcms]
+[ns]航[nse]
+「そっちに逃げましょう。[r]
+　臭うっていうことは近いってことですね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3025|
 [fc]
 [vo_mar s="maru0415"]
-[ns]Margarita[nse]
-"Right. Udagawa should be close from here. We'll probably be[r]
-able to get out easily."[pcms]
+[ns]マルガリータ[nse]
+「そうだな。[r]
+　宇田川ならここから近いはずだ。[r]
+　きっと、外へも抜けやすい。」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -60,37 +61,37 @@ able to get out easily."[pcms]
 
 *3026|
 [fc]
-Just as we were about to head for the stairs, the sound of a[r]
-door being broken echoed from far away.[pcms]
+ボクたちが階段へと向かおうとした時。[r]
+ボクたちのずっと遠くで、扉が壊れた音が反響した。[pcms]
 
 ;//立ち絵なし
 
 *3027|
 [fc]
 [vo_ren s="ren0377"]
-[ns]Ren[nse]
-"Brother~~~~~~~"[pcms]
+[ns]漣[nse]
+「おにい～～ちゃ～～ん～～～」[pcms]
 ;//＠遠くから反響音で
 
 *3028|
 [fc]
-Ren's resentful voice echoed and distorted through the[r]
-narrow underground passage.[pcms]
+狭い地下道の中を反響して歪み、[r]
+聞こえてくる漣の恨みがましい声。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3029|
 [fc]
 [vo_mar s="maru0416"]
-[ns]Margarita[nse]
-"Hurry up!"[pcms]
+[ns]マルガリータ[nse]
+「急ごう！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3030|
 [fc]
-At the senior's voice, we hurried down the stairs.[pcms]
+先輩の声に、ボクらは急いで階段を駆け下りた。[pcms]
 
 ;//ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -121,29 +122,29 @@ At the senior's voice, we hurried down the stairs.[pcms]
 
 *3031|
 [fc]
-[ns]Wataru[nse]
-"Ah..."[pcms]
+[ns]航[nse]
+「あっ……」[pcms]
 
 *3032|
 [fc]
 [vo_yuh s="yuho0251"]
-[ns]Yuuho[nse]
-"Mmm..."[pcms]
+[ns]悠帆[nse]
+「んんっ……」[pcms]
 
 *3033|
 [fc]
 [vo_mar s="maru0417"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *3034|
 [fc]
-A white light poured in.[pcms]
+白い光が射し込んできた。[pcms]
 
 *3035|
 [fc]
-To us who had been wandering underground for so long, it was[r]
-a hot, hot light that felt like it could burn our bodies.[pcms]
+今までずっと地下をさまよっていたボクたちには、[r]
+身体を焼かれるかと思うように熱い、熱い光だ。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -170,116 +171,115 @@ a hot, hot light that felt like it could burn our bodies.[pcms]
 
 *3036|
 [fc]
-We managed to escape in a frenzy, following the dark channel[r]
-well and seemed to have reached the open channel of the[r]
-Shibuya River.[pcms]
+夢中で逃げたボクたちは、[r]
+なんとか暗渠をうまく伝って、[r]
+渋谷川の開渠にたどりついたみたいだ。[pcms]
 
 ;//se037・石の転げる乾いた音
 [se buf=0 storage="se037"]
 
 *3037|
 [fc]
-From the dried riverbed, we looked up at the towering[r]
-buildings.[pcms]
+枯れた川底から、天にそびえるビルを見上げる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3038|
 [fc]
 [vo_yuh s="yuho0252"]
-[ns]Yuuho[nse]
-"It's like... the city is dead..."[pcms]
+[ns]悠帆[nse]
+「まるで……街が死んじゃったみたい……」[pcms]
 
 *3039|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3040|
 [fc]
-There was no music echoing from the city, no hustle and[r]
-bustle, no noise of cars driving.[pcms]
+街から響く音楽も喧騒も、車の走る騒音もない。[pcms]
 
 *3041|
 [fc]
-All that could be heard were small screams and groans[r]
-carried by the wind, which seemed to disappear into the[r]
-howling of the wind.[pcms]
+聞こえるのは風に乗って届く小さな悲鳴とうめき声だけ。[r]
+それすらも、風のうなりに消えてしまいそうだ。[pcms]
 
 *3042|
 [fc]
-The Shibuya city where we were born and raised is dead.[pcms]
+ボクたちが生まれて育った渋谷の街は死んでしまった。[pcms]
 
 *3043|
 [fc]
-We might be the only ones left alive in this city...[pcms]
+この街で生き残っているのは、[r]
+もうボクたちだけなのかもしれない……。[pcms]
 
 *3044|
 [fc]
-The white, black, and gray smoke rising everywhere seemed[r]
-like the smoke of cremation burning corpses.[pcms]
+ところどこに上がっている白や黒や灰色の煙は、[r]
+死体を焼く荼毘の煙のようにも思えてくる。[pcms]
 
 *3045|
 [fc]
-The buildings soaring into the high blue summer sky looked[r]
-like silver tombstones.[pcms]
+夏の高く青い空にそびえるビルは、[r]
+まるで白銀の墓標のようだった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3046|
 [fc]
 [vo_mar s="maru0418"]
-[ns]Margarita[nse]
-"Fortunately, they haven't entered this area yet. It's a[r]
-good vantage point here, it's wide and easy to move around.[r]
-We should reach the port by dusk."[pcms]
+[ns]マルガリータ[nse]
+「幸いこのあたりにはまだ、あいつらは入ってきて[r]
+　いないらしい。ここなら、見晴らしもいいし広くて[r]
+　身動きもとりやすい。日が暮れるまでには港に着くだろう」[pcms]
 
 *3047|
 [fc]
-[ns]Wataru[nse]
-"...Yes."[pcms]
+[ns]航[nse]
+「……そうですね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3048|
 [fc]
 [vo_yuh s="yuho0253"]
-[ns]Yuuho[nse]
-"Wataru, senior... look!"[pcms]
+[ns]悠帆[nse]
+「航、先輩……あれっ！」[pcms]
 
 *3049|
 [fc]
-Yuuho pointed ahead...[pcms]
+悠帆が指差した先には……。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3050|
 [fc]
-There were many figures. Countless infected were wandering[r]
-on the bridge over the open channel and along the riverbank.[pcms]
+多くの人影があった。[r]
+開渠部の橋の上や、河縁に無数の感染者たちが徘徊していた。[pcms]
 
 *3051|
 [fc]
-The faint moans carried by the summer wind reached our ears[r]
-again.[pcms]
+夏の風にのって、かすかなうめきがまた、[r]
+ボクたちの耳へと届く。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3052|
 [fc]
 [vo_mar s="maru0419"]
-[ns]Margarita[nse]
-"It's okay. They can't get in here. Unless they come in[r]
-through a sewer or something like us, it's impossible."[pcms]
+[ns]マルガリータ[nse]
+「大丈夫だ。ここまでは入ってこれない。[r]
+　ワタシたちのように、[r]
+　下水かなにかで入って来ない限りは無理だ」[pcms]
 
 *3053|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -287,111 +287,112 @@ through a sewer or something like us, it's impossible."[pcms]
 
 *3054|
 [fc]
-Surely, as the senior said. Looking around the riverbed,[r]
-there were several crushed corpses lying around. Like those[r]
-people who fell in that basement and stopped moving.[pcms]
+きっと、先輩の言うとおりなんだろう。[r]
+川底を見回せば何体かのつぶれた死体が転がっていた。[r]
+あの地下室で落っこちて動かなくなった人のように。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3055|
 [fc]
 [vo_mar s="maru0420"]
-[ns]Margarita[nse]
-"Even if they go mad, if their bodies are destroyed enough[r]
-to stop moving, they seem to die. Rather than walking[r]
-corpses from stories, they seem to become extremely numb to[r]
-pain like drug addicts..."[pcms]
+[ns]マルガリータ[nse]
+「おかしくなっていても、身体が動かなくなるほど破壊されれば[r]
+　死んでしまうようだな。作り話の動く死体と言うよりは、[r]
+　麻薬中毒の患者のように痛みに異常に鈍くなっているようだ……」[pcms]
 
 *3056|
 [fc]
 [vo_mar s="maru0421"]
-[ns]Margarita[nse]
-"Thanks to that, they don't die from shock. Since that's[r]
-surprisingly common among human causes of death, they even[r]
-seem invincible at first glance."[pcms]
+[ns]マルガリータ[nse]
+「おかげでショック死することがない。[r]
+　人間の死因には意外とそれが多いものだから、[r]
+　あいつらは一見不死身にすら見える」[pcms]
 
 *3057|
 [fc]
 [vo_mar s="maru0422"]
-[ns]Margarita[nse]
-"But if they fall from that height, they'll most likely be[r]
-unable to move. So, rest assured."[pcms]
+[ns]マルガリータ[nse]
+「だが、あの高さから落ちれば、まず動けなくなるだろう。[r]
+　だから、安心だ」[pcms]
 
 *3058|
 [fc]
-The senior spoke to us with a somewhat desolate expression[r]
-while looking around the riverbank.[pcms]
+先輩は川辺を見回しながら、[r]
+どこかやるせないような表情でボクたちに話す。[pcms]
 
 *3059|
 [fc]
-[ns]Wataru[nse]
-"If you say it's safe... why do you look like that, senior?"[pcms]
+[ns]航[nse]
+「安心だというのに……なんで先輩は[r]
+　そんな顔をしてるんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3060|
 [fc]
 [vo_mar s="maru0423"]
-[ns]Margarita[nse]
-"I never thought we'd be saved by a dead river. I find it[r]
-ironic..."[pcms]
+[ns]マルガリータ[nse]
+「まさかワタシたちが死んだ河に助けられるとは[r]
+　思わなかった。それが皮肉だと思ってな……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3061|
 [fc]
 [vo_yuh s="yuho0254"]
-[ns]Yuuho[nse]
-"A dead river? There's no water indeed but..."[pcms]
+[ns]悠帆[nse]
+「死んだ河？[r]
+　たしかに水はないですけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3062|
 [fc]
 [vo_mar s="maru0424"]
-[ns]Margarita[nse]
-"No, even with water it's dead. If you cover the riverbank[r]
-with concrete like this, most of the creatures living in the[r]
-river will die."[pcms]
+[ns]マルガリータ[nse]
+「いや、水があっても死んでいる。[r]
+　こんな風に川辺をコンクリートで塗り固めれば、[r]
+　川にすむほとんどの生き物は死んでしまう。[pcms]
 
 *3063|
 [fc]
 [vo_mar s="maru0425"]
-[ns]Margarita[nse]
-"It looks like a river... but it becomes no different from a[r]
-drain. A dead river."[pcms]
+[ns]マルガリータ[nse]
+「見た目は河だが……排水溝と変わらなくなる。[r]
+　死んだ河だ」[pcms]
 
 *3064|
 [fc]
 [vo_mar s="maru0426"]
-[ns]Margarita[nse]
-"When I read about it in a book, I was furious at such[r]
-foolishness. But now... we are saved thanks to that dead[r]
-river."[pcms]
+[ns]マルガリータ[nse]
+「それを本で読んだ時、ワタシは愚かしいと激怒した。[r]
+　だが、ワタシたちは今……[r]
+　死んだその河のおかげで助かっている」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3065|
 [fc]
 [vo_mar s="maru0427"]
-[ns]Margarita[nse]
-"...Life is unpredictable."[pcms]
+[ns]マルガリータ[nse]
+「……人生、何が起こるかわからないな」[pcms]
 
 *3066|
 [fc]
-Saying that, the senior laughed self-deprecatingly. She[r]
-values tradition and had been researching this city's[r]
-history, so she must be feeling complicated.[pcms]
+そういって先輩は、自嘲気味に笑う。[r]
+先輩は伝統を大切にする人だし、この街の歴史なんかを[r]
+調べてたから、きっと複雑な気分だろう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3067|
 [fc]
 [vo_mar s="maru0428"]
-[ns]Margarita[nse]
-"I'm not defending the construction that kills rivers, but[r]
-let's take it as a lesson that in life, you never know what[r]
-will come in handy. ...It's time to leave."[pcms]
+[ns]マルガリータ[nse]
+「河を殺すような工事を擁護する気はないが、人生、[r]
+　なにがなんの役に立つかわからないという教訓としよう。[r]
+　……そろそろ出発するぞ」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -401,8 +402,8 @@ will come in handy. ...It's time to leave."[pcms]
 
 *3068|
 [fc]
-The senior said this as if to hide her embarrassment and[r]
-started walking along the riverbed towards the sea.[pcms]
+先輩は照れ隠しのように、最後にそう言うと[r]
+海に向かって川底を歩き始めた。[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -424,31 +425,30 @@ started walking along the riverbed towards the sea.[pcms]
 *3069|
 [fc]
 [vo_yuh s="yuho0255"]
-[ns]Yuuho[nse]
-"Let's go! Wataru"[pcms]
+[ns]悠帆[nse]
+「行こうっ！　航」[pcms]
 
 *3070|
 [fc]
-Yuuho firmly grasped my hand.[pcms]
+悠帆がボクの手をしっかりと握ってくれた。[pcms]
 
 *3071|
 [fc]
-Her eyes still shone with hope, just like always, even in[r]
-this situation.[pcms]
+その目はこんなになってもまた、[r]
+いつもの悠帆のように希望に輝いている。[pcms]
 
 *3072|
 [fc]
-The eyes of my beloved Yuuho.[pcms]
+ボクの大好きな悠帆の目に。[pcms]
 
 *3073|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 *3074|
 [fc]
-I firmly gripped Yuuho's hand back, and we began to walk[r]
-together.[pcms]
+ボクは悠帆の手をしっかりと握り返し、二人で歩き始めた。[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -456,37 +456,39 @@ together.[pcms]
 
 *3075|
 [fc]
-The voices of the crazed people around the river could still[r]
-be heard on the wind.[pcms]
+相変わらず河の周りからはおかしくなった人たちの声が[r]
+風に乗って聞こえてくる。[pcms]
 
 *3076|
 [fc]
-It was like a zombie movie; the only humans moving in the[r]
-dead city seemed to be them.[pcms]
+まるでゾンビ映画のように、[r]
+死んだ街の中で動いている人間は彼らだけのようだ。[pcms]
 
 *3077|
 [fc]
-[ns]Wataru[nse]
-"...Re..."[pcms]
+[ns]航[nse]
+「……れ……」[pcms]
 
 *3078|
 [fc]
-I spotted a child who looked just like Ren among those[r]
-crazed people and almost called out her name instinctively.[pcms]
+ボクはそのおかしくなった人たちの中に漣に[r]
+そっくりな子を見つけて、思わず名前を呼びそうになった。[pcms]
 
 *3079|
 [fc]
-...[pcms]
+………………。[pcms]
 
 *3080|
 [fc]
-I mustn't call out. Ren is no longer here. Even if that was[r]
-Ren, it's something else wearing her appearance.[pcms]
+……呼んじゃだめだ。[r]
+漣はもういない。[r]
+あれが漣だとしても、漣の姿をした違うものだ。[pcms]
 
 *3081|
 [fc]
-It's not just Ren. Kousuke too, surely... And then, Dad,[r]
-Hikochin...[pcms]
+漣だけじゃない。[r]
+コースケもきっと……。[r]
+それから、父さん、彦ちん……。[pcms]
 
 ;//---------------------------------------------------------------
 ;//条件分岐
@@ -506,7 +508,7 @@ Hikochin...[pcms]
 
 *3082|
 [fc]
-Inori-san... my first love as well...[pcms]
+緒織さん……ボクの初めての人も……。[pcms]
 
 ;//以降　合流ポイントに
 [jump storage="41080.ks" target=*41080_03]
@@ -518,56 +520,56 @@ Inori-san... my first love as well...[pcms]
 
 *3083|
 [fc]
-And then, Inori-san... too...[pcms]
+それから、緒織さん……も……[pcms]
 
 ;//合流
 *41080_03
 
 *3083a|
 [fc]
-The town I was born in, my family, my friends... everything[r]
-has disappeared.[pcms]
+生まれた街も、家族も友達も……[r]
+すべてがなくなってしまった。[pcms]
 
 *3084|
 [fc]
-That disease that drives people mad... It spreads easily,[r]
-and there's no telling how far the damage will extend. I[r]
-hope it calms down like it did in Tohoku...[pcms]
+あの人間をおかしくする病気だって……。[r]
+簡単に伝染、どこまで被害は広がっていくかわからない。[r]
+東北の時のように沈静化すればいい……。[pcms]
 
 *3085|
 [fc]
-No, I hate this pattern of always losing someone important[r]
-in exchange for stabilization.[pcms]
+いや、こんな風にいつも、大切な人を失う代わりに[r]
+沈静化するなんてのはイヤだ。[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *3086|
 [fc]
 [vo_yuh s="yuho0256"]
-[ns]Yuuho[nse]
-"...Ah..."[pcms]
+[ns]悠帆[nse]
+「……あっ……」[pcms]
 
 ;//@konya ev014 きょとん
 [evcg storage="EV014c"][trans_c cross time=300]
 
 *3087|
 [fc]
-In the hand I clenched in frustration, there was a soft,[r]
-small hand.[pcms]
+ボクが思わず悔しさに握り閉めた手の中には[r]
+やわらかで小さな手があった。[pcms]
 
 *3088|
 [fc]
-I thought there was nothing left, and in my clenched fist[r]
-was...[pcms]
+なにもないって思ってしまって、[r]
+握り締めたこぶしの中には……。[pcms]
 
 *3089|
 [fc]
-I hastily loosened my grip and apologized.[pcms]
+ボクはあわてて力を緩めて謝った。[pcms]
 
 *3090|
 [fc]
-[ns]Wataru[nse]
-"Sorry, Yuuho."[pcms]
+[ns]航[nse]
+「ごめん。悠帆」[pcms]
 
 ;//@konya ev014 微笑
 [evcg storage="EV014b"][trans_c cross time=300]
@@ -575,14 +577,14 @@ I hastily loosened my grip and apologized.[pcms]
 *3091|
 [fc]
 [vo_yuh s="yuho0257"]
-[ns]Yuuho[nse]
-"No..."[pcms]
+[ns]悠帆[nse]
+「ううん……」[pcms]
 
 [evcg storage="EV014a"][trans_c cross time=300]
 
 *3092|
 [fc]
-Yuuho said that and smiled gently.[pcms]
+悠帆はそう言って、優しく笑った。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 ;[sysbt_meswin clear]
@@ -606,20 +608,20 @@ Yuuho said that and smiled gently.[pcms]
 
 *3093|
 [fc]
-Everything has become like this; I wonder what will become[r]
-of us from now on.[pcms]
+こんなになってしまって、[r]
+ボクたちはこれからどうなるんだろう。[pcms]
 
 *3094|
 [fc]
-But still, I have to keep moving forward. Through this world[r]
-of despair.[pcms]
+それでも、ボクは進んでいかなくちゃいけない。[r]
+この絶望的な世界の中を。[pcms]
 
 ;mm CGで終わらすかどうかあとで再考　切り替え多くてテンポ悪い
 [evcg storage="EV014a"][trans_c cross time=500]
 
 *3095|
 [fc]
-...But I have Yuuho with me.[pcms]
+……だけど、ボクには悠帆がいる。[pcms]
 
 
 ;//　フェードアウト
@@ -651,6 +653,6 @@ of despair.[pcms]
 
 
 
-(returntitle)[pcms]
+[returntitle][s]
 
 

@@ -1,9 +1,9 @@
 ;//block:A001
-;//ブロック５０１００『地上ＬＡＳＥＲへ』
+;//ブロック５０１００『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50100_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：ででっぽう
 ;//カットイン：ビルの谷間
@@ -23,8 +23,8 @@
 
 *816|
 [fc]
-[ns]Wataru[nse]
-"...Again, a fighter jet."[pcms]
+[ns]航[nse]
+「……また、戦闘機だ」[pcms]
 
 ;//〆ビルの谷間（カットイン）
 [bg storage="BG130"][trans_c cross time=500]
@@ -32,94 +32,92 @@
 
 *817|
 [fc]
-The roar of a squadron could be heard from somewhere. I[r]
-can't see it from between the buildings, but...[pcms]
+どこかから編隊の爆音が聞こえてきた。[r]
+ビルの谷間からは姿は見えないけれど……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *818|
 [fc]
-[ns]Kousuke[nse]
-"Just keep moving, don't stop!"[pcms]
+[ns]浩助[nse]
+「いいから止まらないで進めっ！」[pcms]
 
 *819|
 [fc]
-[ns]Wataru[nse]
-"Ah, yeah. Sorry."[pcms]
+[ns]航[nse]
+「あ、うん。ごめん」[pcms]
 
 *820|
 [fc]
-We were squeezed into a gap between the LASER and the gun[r]
-shop.[pcms]
+ボクたちはＬＡＳＥＲとででっぽうの間にある、[r]
+隙間の中に入り込んでいた。[pcms]
 
 *821|
 [fc]
-Even with walls, it's not wise to be spotted by the infected[r]
-on the main street since they aren't very tall.[pcms]
+いくら壁があるとはいえ、あまり背の高いものじゃないから[r]
+表通りの感染者たちに見つかるのは賢明じゃない。[pcms]
 
 *822|
 [fc]
-While being kicked along by Kousuke, we moved in front of[r]
-LASER.[pcms]
+コースケに蹴り飛ばされながら、[r]
+ボクたちはＬＡＳＥＲ前に移動する。[pcms]
 
 *823|
 [fc]
-[ns]Wataru[nse]
-"So, this is the emergency exit, but..."[pcms]
+[ns]航[nse]
+「で、ここが非常口なんだけど……」[pcms]
 
 *824|
 [fc]
-The door leading to the corridor from the gun shop side[r]
-could be easily unlocked from the inside. The problem was[r]
-whether it would be the same for the LASER building...[pcms]
+ででっぽう側から通路に出る扉は[r]
+中から施錠するタイプだから簡単に出られた。[r]
+問題は、ＬＡＳＥＲビルのほうはどうか、ということで……。[pcms]
 
 *825|
 [fc]
-[ns]Wataru[nse]
-"...No good. This one's locked."[pcms]
+[ns]航[nse]
+「……ダメだ。こっちは鍵が閉まってるね」[pcms]
 
 *826|
 [fc]
-There are two emergency exits in the LASER building. But the[r]
-senior who had checked the other one just shrugged his[r]
-shoulders silently.[pcms]
+ＬＡＳＥＲの非常口は２カ所ある。[r]
+だけど、もう１カ所を調べていた先輩は、無言で肩をすくめた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *827|
 [fc]
-[ns]Kousuke[nse]
-"Seriously!? It's not open?"[pcms]
+[ns]浩助[nse]
+「マジ！？　開いてねーの？」[pcms]
 
 *828|
 [fc]
-[ns]Wataru[nse]
-"Well, well"[pcms]
+[ns]航[nse]
+「まあまあ」[pcms]
 
 *829|
 [fc]
-While calming down a frustrated Kousuke, I wondered what to[r]
-do next.[pcms]
+悔しがるコースケをなだめながら、[r]
+さて、どうしようかと考えた。[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢Ａー１
-;//１１：銃で壊そう！→ブロック５０１１０へ
-;//１２：先輩のキックで！→ブロック５０１２０へ
-;//１３：・・・戻りましょう→ブロック５０１３０へ
+;//１－１：銃で壊そう！→ブロック５０１１０へ
+;//１－２：先輩のキックで！→ブロック５０１２０へ
+;//１－３：・・・戻りましょう→ブロック５０１３０へ
 
 
 ;	[link storage="50110.ks" target=*50110_TOP]銃で壊そう！[endlink]
 ;	[link storage="50120.ks" target=*50120_TOP]先輩のキックで！[endlink]
-; (link storage="50130.ks" target=*50130_TOP)...Let's go[r]
-back(endlink)[pcms]
+;	[link storage="50130.ks" target=*50130_TOP]……戻りましょう[endlink][s]
 
 *SEL41|銃で壊そう！／先輩のキックで！／……戻りましょう
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Let\'s destroy it with a gun!'"]
-[eval exp="f.seltext04 = 'With the senior\'s kick!'"]
-[eval exp="f.seltext06 = 'Let\'s go back'"]
+[eval exp="f.seltext02 = '銃で壊そう！'"]
+[eval exp="f.seltext04 = '先輩のキックで！'"]
+[eval exp="f.seltext06 = '……戻りましょう'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

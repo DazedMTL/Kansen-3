@@ -22,47 +22,44 @@
 
 *4132|
 [fc]
-[ns]Henchman A[nse]
-"We're surrounded by infected again... But I doubt anyone[r]
-else could have made it this far."[pcms]
+[ns]手下Ａ[nse]
+「ここも[ruby text="ア　イ　ツ　ら"][ch text="感染者"]に囲まれちまったな……。[r]
+　だけど、ここまでこれるヤツはいねぇだろ」[pcms]
 
 *4133|
 [fc]
-Since the town's blackout, the number of infected has[r]
-continued to rise. They seem excited by the absence of[r]
-light, constantly growling and howling.[pcms]
+街中が停電してから、感染者の数は増え続けていた。[r]
+彼らは明かりがなくなったことに興奮しているのか、[r]
+ひっきりなしにうなり声や、雄叫びを上げている。[pcms]
 
 *4134|
 [fc]
-[ns]Henchman B[nse]
-"But man, hearing that voice still gives me the creeps... We[r]
-know they can't get in, right? The entrance has reinforced[r]
-glass. No matter how strong they are, they can't break[r]
-that."[pcms]
+[ns]手下Ｂ[nse]
+「けどよ、やっぱあの声聞いたら、気味ワリィよな……。[r]
+　入ってこねぇのは判ってるけどさ……入り口も強化ガラスだろ？[r]
+　いくらアイツらがバカ力だっつっても割れるもんじゃねぇしな」[pcms]
 
 *4135|
 [fc]
-[ns]Henchman A[nse]
-"Yeah. Plus, those guys are attracted to the light like[r]
-moths... which they definitely aren't."[pcms]
+[ns]手下Ａ[nse]
+「まあな。それにアイツら、明かりに向かって集まってんだよな。[r]
+　虫じゃあるまいし……」[pcms]
 
 *4136|
 [fc]
-[ns]Henchman B[nse]
-"Hey, we don't have time to chat... It's time for patrol.[r]
-It's creepy, but we've got no choice but to go down[r]
-there..."[pcms]
+[ns]手下Ｂ[nse]
+「おい、ダベってる時間ねぇぞ……見回りの時間か……。[r]
+　気持ち悪ぃけどよ、下いくしかねぇな……」[pcms]
 
 *4137|
 [fc]
-[ns]Henchman A[nse]
-"Can't be helped... Let's go..."[pcms]
+[ns]手下Ａ[nse]
+「しかたねぇ……行くか……」[pcms]
 
 *4138|
 [fc]
-Shigeyoshi's henchmen exchanged glances and sighed in[r]
-exasperation before leaving the large room and heading down[r]
-the stairs to the basement.[pcms]
+重吉の手下は、顔を見合わせ、うんざりしたようなため息をつくと、[r]
+大きな部屋を抜け、階段を下りて地下へと足を運んだ。[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -73,72 +70,69 @@ the stairs to the basement.[pcms]
 
 *4139|
 [fc]
-The basement. A dimly lit room where only the low hum of[r]
-machinery could be heard.[pcms]
+地下。[r]
+薄暗く、低い機械のうねる音だけが響く部屋に到着した二人。[pcms]
 
 *4140|
 [fc]
-The source of the humming was the emergency power supply,[r]
-which provided electricity to Celesta Tower even during a[r]
-blackout.[pcms]
+うねりの音の元は、停電時でもセレスタワーに電力を供給する、[r]
+非常用電源装置だった。[pcms]
 
 *4141|
 [fc]
-[ns]Henchman A[nse]
-"The only way in and out now is this underground passage...[r]
-It's scary to think that if we're not watching, those guys[r]
-might get in..."[pcms]
+[ns]手下Ａ[nse]
+「今出入りできんのは、この地下通路だけだからな……。[r]
+　見張ってなきゃ、アイツらが入って来ちまうかも[r]
+　しれねぇってのは怖いっちゃ怖いな……」[pcms]
 
 *4142|
 [fc]
-[ns]Henchman B[nse]
-"Hey, look at that! The communal sewer, was it? The door's[r]
-slightly open!?"[pcms]
+[ns]手下Ｂ[nse]
+「おい、アレ見ろよ！　共同溝っつったか？[r]
+　扉がちょっと開いてるぞ！？」[pcms]
 
 *4143|
 [fc]
-[ns]Henchman A[nse]
-"Maybe when Shigeyoshi-san came back... He forgot to close[r]
-it. He did have his fingers blown off after all... What a[r]
-pain... seriously..."[pcms]
+[ns]手下Ａ[nse]
+「重吉サンが戻って来た時か……。[r]
+　閉め忘れたか。指フッ飛ばされてたしな……。[r]
+　困ったもんだぜ……ったくよ……」[pcms]
 
 *4144|
 [fc]
-[ns]Henchman B[nse]
-"But man... there's probably going to be an attack soon,[r]
-right? Then all of them will be wiped out... Back to a[r]
-boring life again..."[pcms]
+[ns]手下Ｂ[nse]
+「しかしよー……もうそろそろ攻撃あるんだろ？[r]
+　そしたらアイツらも全滅か……。[r]
+　またつまんねぇ生活に戻るのか……」[pcms]
 
 *4145|
 [fc]
-[ns]Henchman A[nse]
-"Stop complaining. Besides, this country is contaminated[r]
-with the virus, we'll be abandoned by other countries...[r]
-Then we can do whatever we want!"[pcms]
+[ns]手下Ａ[nse]
+「ぼやくなよ。それによ、どうせこの国はウィルスに[r]
+　汚染されてっから、よその国から見捨てられんだろ……。[r]
+　そしたら好き放題できるだろうよ！」[pcms]
 
 *4146|
 [fc]
-[ns]Henchman B[nse]
-"True that... For now, let's close the door and head back[r]
-up. ...Huh? Did you say something just now? You"[pcms]
+[ns]手下Ｂ[nse]
+「確かになあ……。とりあえず、扉閉めて上戻ろうぜ。[r]
+　……ん？　今なんか言ったか？　お前」[pcms]
 
 *4147|
 [fc]
-[ns]Henchman A[nse]
-"No, nothing... Outside the door?"[pcms]
+[ns]手下Ａ[nse]
+「いや、何も……扉の外か？」[pcms]
 
 *4148|
 [fc]
-Shigeyoshi's henchmen peeked through the gap in the door,[r]
-unaware that Tomomi Igarashi and a large number of infected[r]
-she had brought with her were waiting on the other side.[pcms]
+重吉の手下は、扉の隙間から顔を出し、通路の様子を覗いた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4149|
 [fc]
-Unaware that Tomomi Igarashi and many infected she had led[r]
-there were lying in wait.[pcms]
+そこに五十嵐朋美と、朋美が引き連れてきた多数の感染者が、[r]
+待ち構えているとも知らずに。[pcms]
 
 [bg storage="BG027"][trans_c cross time=500]
 ;[eval exp="f.l_map = 11"]
@@ -148,33 +142,33 @@ there were lying in wait.[pcms]
 *4150|
 [fc]
 [vo_mob s="tomomi0038"]
-[ns]Tomomi[nse]
-"Aha~... Looks like we can get in from here, everyone~"[pcms]
+[ns]朋美[nse]
+「あはぁ～……ここから入れそうだよ、みんな～」[pcms]
 
 *4151|
 [fc]
-[ns]Infected Man B[nse]
-"Oh, I smell something delicious!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「おお、なんか旨そうな匂いもするな！」[pcms]
 
 *4152|
 [fc]
-[ns]Infected Man C[nse]
-"I'm starving, man... I've been starving for so long"[pcms]
+[ns]感染者・男Ｃ[nse]
+「ハラ減ってんだよ、俺……ずっとハラ減ってんだよぉ」[pcms]
 
 *4153|
 [fc]
-[ns]Infected Man A[nse]
-"Is there a woman too? I'm so damn horny!"[pcms]
+[ns]感染者・男Ａ[nse]
+「女もいるのか？　俺ァヤリたくてたまんねぇぜ！」[pcms]
 
 *4154|
 [fc]
-[ns]Henchman A[nse]
-"Ugh... Uwaaaaaaahhhhhhhhhhhhh!!!!"[pcms]
+[ns]手下Ａ[nse]
+「うっ……うわあぁああああ！！！！！！！！！！！」[pcms]
 
 *4155|
 [fc]
-The screams of Shigeyoshi's henchmen were drowned out by the[r]
-frenzied growls of the many infected led by Tomomi Igarashi.[pcms]
+重吉の手下の叫び声は、五十嵐朋美に引き連れられた[r]
+多数の感染者達の狂気をはらんだうなり声にかき消された。[pcms]
 
 ;[zapend_random]
 [zapfade]

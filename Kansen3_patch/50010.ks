@@ -1,9 +1,9 @@
 ;//block:A002
-;//ブロック５００１０『地上ＬＡＳＥＲへ』
+;//ブロック５００１０『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50010_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：ＬＡＳＥＲ前
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣・航
@@ -20,38 +20,37 @@
 
 *42|
 [fc]
-As we timidly stepped out, an empty Center Street stretched[r]
-out before us.[pcms]
+おそるおそる表に出たボクたちの前には、[r]
+無人のセンターストリートが広がっていた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *43|
 [fc]
 [vo_yuh s="yuho1447"]
-[ns]Yuuho[nse]
-"Wow... It's so bright..."[pcms]
+[ns]悠帆[nse]
+「わー……。あっかるーい……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *44|
 [fc]
-[ns]Kousuke[nse]
-"It's been a while since the sun was this blinding."[pcms]
+[ns]浩助[nse]
+「久々の、お天道様がまぶしいぜっ」[pcms]
 
 *45|
 [fc]
-The sky was clear, and the strong sunlight of the summer[r]
-afternoon cast sharp shadows of the buildings on the[r]
-asphalt.[pcms]
+空は快晴で、夏の午後の強い日差しが[r]
+くっきりとした建物の影をアスファルトに落としている。[pcms]
 
 ;//以下、対応する服装がないのでコメントアウト＠ash
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「漣。レインコートは脱ぐなよ。
 ;//　暑いかもしれないけど、少しでも光を遮ろう」
 ;//
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 ;//[vo_ren s="ren1305"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「う、うん……」
 ;//
 ;//ボクは漣のコートのフードを引っ張って、
@@ -59,19 +58,19 @@ asphalt.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 ;//[vo_yuh s="yuho1448"]
-[ns]Yuuho[nse]
+;//[ns]悠帆[nse]
 ;//「そっか。漣ちゃん、ごめんね。
 ;//　呑気なこといって……」
 ;//
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 ;//[vo_ren s="ren1306"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「いいの。
 ;//　私も、お日様が見えるのは嬉しいもん」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru1282"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ワタシたちも、安全が確認できるまでは
 ;//　コートを着たままのほうが良さそうだ」
 
@@ -79,134 +78,135 @@ asphalt.[pcms]
 
 *46|
 [fc]
-[ns]Kousuke[nse]
-"But... this smell... It's terrible."[pcms]
+[ns]浩助[nse]
+「けど……。こいつは……。[r]
+　ひでぇ臭いだな」[pcms]
 
 *47|
 [fc]
-Kousuke muttered blankly as he surveyed the surroundings[r]
-once more.[pcms]
+改めて周囲を見渡して、コースケが茫然と呟いた。[pcms]
 
 *48|
 [fc]
-An uninhabited Shibuya... Yet, black smoke was rising from[r]
-various places.[pcms]
+無人の渋谷……。[r]
+だけど、そこかしこから黒煙が上がっている。[pcms]
 
 *49|
 [fc]
-In the town of Shibuya, quieter than usual, only the bright[r]
-BGM echoed emptily.[pcms]
+誰もいない、普段より静かな渋谷の町に、[r]
+明るいＢＧＭだけが虚ろに鳴り響いている。[pcms]
 
 *50|
 [fc]
-Between the sounds, the buzzing of insects could be heard,[r]
-and a foul stench permeated the area...[pcms]
+その音の合間に、虫の羽音が聞こえて、[r]
+辺り一帯に生臭い異臭が漂っている……。[pcms]
 
 *51|
 [fc]
-The streets were littered with more trash than usual, but[r]
-the source of this smell wasn't such things...[pcms]
+路上は、いつにも増してゴミだらけだったけれど、[r]
+この臭いの正体は、そんなものじゃなくて……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *52|
 [fc]
 [vo_ren s="ren1307"]
-[ns]Ren[nse]
-"Hii... huu..."[pcms]
+[ns]漣[nse]
+「ひ……ひぅっ……」[pcms]
 ;//＠おびえて
 
 *53|
 [fc]
-With a small scream, Ren clung to me.[pcms]
+小さな悲鳴を上げて、漣が飛びついてきた。[pcms]
 
 *54|
 [fc]
-Looking down, she was staring at her feet and trembling.[pcms]
+見れば、足元を凝視して震えている。[pcms]
 
 *55|
 [fc]
-[ns]Wataru[nse]
-"...ugh..."[pcms]
+[ns]航[nse]
+「……うわっ……」[pcms]
 
 *56|
 [fc]
-There were stains on the road that seemed to be bloodstains.[pcms]
+道路のそこかしこには血痕と思しき染みがある。[pcms]
 
 *57|
 [fc]
-Not just that, but there were dead rats, dead crows... All[r]
-scattered about as if they had been torn apart.[pcms]
+それだけじゃなくてネズミの死体、カラスの死体……。[r]
+それら全てが食い散らかされたように散乱していた。[pcms]
 
 *58|
 [fc]
-Furthermore, among the bones...[pcms]
+更に、骨の中には……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *59|
 [fc]
 [vo_yuh s="yuho1449"]
-[ns]Yuuho[nse]
-"Hii!? A-are those... h-human bones?"[pcms]
+[ns]悠帆[nse]
+「ひっ！？[r]
+　あ、あ、あ、あれって……ひ、人の、骨？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *60|
 [fc]
 [vo_mar s="maru1283"]
-[ns]Margarita[nse]
-"...It seems so."[pcms]
+[ns]マルガリータ[nse]
+「……そのようだ」[pcms]
 
 *61|
 [fc]
-There were clearly recognizable human bones among them.[pcms]
+明らかに人骨と分かるものもある。[pcms]
 
 *62|
 [fc]
-Some were almost completely intact like skeletal specimens,[r]
-but like the animal corpses, they were torn apart and[r]
-scattered.[pcms]
+中にはほぼ原型をとどめた、[r]
+骨格標本みたいなものもあったけれど、[r]
+動物の死体と同じように、食い散らかされている。[pcms]
 
 *63|
 [fc]
-The remains with guts spilling out or flesh violently ripped[r]
-off looked like finished fried chicken.[pcms]
+内臓が飛び出したり、肉を乱暴にむしったような残骸は[r]
+食べ終わったフライドチキンみたいに見えた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *64|
 [fc]
 [vo_mar s="maru1284"]
-[ns]Margarita[nse]
-"Everyone, be careful. Make sure not to touch anything."[pcms]
+[ns]マルガリータ[nse]
+「みんな、気をつけて。[r]
+　決して触らないように」[pcms]
 
 *65|
 [fc]
-Maruko-senpai showed a handkerchief in her hand while[r]
-swatting away the swarming flies.[pcms]
+飛び回るハエを手で追いながら、[r]
+マル子先輩が、ハンカチを手にしてみせた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *66|
 [fc]
 [vo_mar s="maru1285"]
-[ns]Margarita[nse]
-"Also, just to be safe, let's cover our mouths with a[r]
-handkerchief or towel."[pcms]
+[ns]マルガリータ[nse]
+「それと、念のためだ、[r]
+　ハンカチかタオルで口を覆っておこう」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *67|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, that's right... Just looking at it makes me feel like[r]
-I could catch a disease..."[pcms]
+[ns]浩助[nse]
+「そ、そうだな……。[r]
+　なんか、見てるだけで病気になりそうだ……」[pcms]
 
 *68|
 [fc]
-Following the senior's example, everyone covered their[r]
-mouths with towels or handkerchiefs.[pcms]
+先輩を真似て、全員がタオルやハンカチで口を覆う。[pcms]
 
 ;//☆佐藤様
 ;//収録時に、実際に声優さんにハンカチを使って貰いますか？
@@ -216,409 +216,420 @@ mouths with towels or handkerchiefs.[pcms]
 *69|
 [fc]
 [vo_ren s="ren1308"]
-[ns]Ren[nse]
-"O-Onii-chan..."[pcms]
+[ns]漣[nse]
+「お、お兄ちゃぁん……」[pcms]
 ;//＠おびえと不安
 
 *70|
 [fc]
-Hugging Ren's shoulder as she clung to me in fear, I gently[r]
-turned her face away.[pcms]
+怯えてすがりついてくる漣の肩を抱き寄せ、[r]
+ボクはそうっと顔の向きを変えさせる。[pcms]
 
 *71|
 [fc]
-[ns]Wataru[nse]
-"You don't need to look, Ren."[pcms]
+[ns]航[nse]
+「見なくていいからな、漣」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *72|
 [fc]
 [vo_ren s="ren1309"]
-[ns]Ren[nse]
-"Okay..."[pcms]
+[ns]漣[nse]
+「う、うん……」[pcms]
 
 *73|
 [fc]
-Staring only at her feet, Ren pressed on desperately,[r]
-leaning on me for support.[pcms]
+足元だけを見詰めながら、漣は懸命に、[r]
+ボクに寄りかかりながら進んでいく。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *74|
 [fc]
 [vo_yuh s="yuho1450"]
-[ns]Yuuho[nse]
-"...No one should die like this..."[pcms]
+[ns]悠帆[nse]
+「……こんな死に方って、ないよ……」[pcms]
 ;//＠悲しそう
 
 *75|
 [fc]
-Yuuho muttered softly to herself.[pcms]
+ポツリと悠帆が呟いた。[pcms]
 
 *76|
 [fc]
-[ns]Wataru[nse]
-"How did these people... die?"[pcms]
+[ns]航[nse]
+「この人たち……、[r]
+　どうして死んだんだろう……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *77|
 [fc]
-[ns]Kousuke[nse]
-"How? They were probably eaten... Or maybe taken out by a[r]
-virus, right?"[pcms]
+[ns]浩助[nse]
+「どうしてって……食われちまったんじゃねぇの？[r]
+　それか、ウィルスにやられたか……だろ？」[pcms]
 
 *78|
 [fc]
-[ns]Wataru[nse]
-"Yeah, but... The bodies here aren't just human, right?[r]
-There are crows and rats too..."[pcms]
+[ns]航[nse]
+「うん、そうなんだけど……。[r]
+　ここにある死体って、人だけじゃないだろ？[r]
+　カラスとかネズミとか……」[pcms]
 
 *79|
 [fc]
-[ns]Wataru[nse]
-"I wonder if people infected with it start eating animals[r]
-too..."[pcms]
+[ns]航[nse]
+「アレに感染した人間は、[r]
+　動物まで食べるようになっちゃうのかな……」[pcms]
 
 *80|
 [fc]
-Maruko-senpai listened to our conversation without changing[r]
-her stern expression and joined in.[pcms]
+ボクらのやりとりに耳を傾けていたマル子先輩は[r]
+厳しい表情を崩さないまま、会話に入ってきた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *81|
 [fc]
 [vo_mar s="maru1286"]
-[ns]Margarita[nse]
-"...Cannibalism is also a possibility."[pcms]
+[ns]マルガリータ[nse]
+「……共食いという可能性もある」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *82|
 [fc]
-[ns]Kousuke[nse]
-"Geh! Cannibalism?"[pcms]
+[ns]浩助[nse]
+「ゲ！　と、共食い？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *83|
 [fc]
 [vo_mar s="maru1287"]
-[ns]Margarita[nse]
-"The infected attacked their own kind, humans. By that[r]
-logic, it wouldn't be strange if infected rats and crows[r]
-also ate each other..."[pcms]
+[ns]マルガリータ[nse]
+「感染したヤツラは、同種である人間を襲ってきた。[r]
+　その理屈から言えば、ネズミやカラスが感染した場合、[r]
+　互いに喰らい合ってもおかしくはない……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *84|
 [fc]
 [vo_mar s="maru1288"]
-[ns]Margarita[nse]
-"But that's just speculation."[pcms]
+[ns]マルガリータ[nse]
+「ま、単なる想像にすぎないが」[pcms]
 
 *85|
 [fc]
-Everyone shuddered at her somber voice.[pcms]
+暗い声に全員が身を震わせた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *86|
 [fc]
 [vo_yuh s="yuho1451"]
-[ns]Yuuho[nse]
-"...I'm starting to lose my appetite."[pcms]
+[ns]悠帆[nse]
+「……なんか食欲なくなってきた」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *87|
 [fc]
 [vo_ren s="ren1310"]
-[ns]Ren[nse]
-"Onii-chan!"[pcms]
+[ns]漣[nse]
+「お、お兄ちゃん！」[pcms]
 ;//＠緊張と驚き、ちょっと恐怖
 
 *88|
 [fc]
-Suddenly stopping, Ren tugged at my sleeve.[pcms]
+急に立ち止まった漣が、ボクの袖を引いている。[pcms]
 
 *89|
 [fc]
-[ns]Wataru[nse]
-"What's wrong, Ren? Are you feeling sick?"[pcms]
+[ns]航[nse]
+「どうした、漣。[r]
+　気分でも悪くなったのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *90|
 [fc]
 [vo_ren s="ren1311"]
-[ns]Ren[nse]
-"No, it's not that. I-I just got a message... From Dad..."[pcms]
+[ns]漣[nse]
+「ううん、そうじゃないの。[r]
+　い、今……メール、あって……。[r]
+　お父さんから……」[pcms]
 
 *91|
 [fc]
-Ren showed me my cell phone that she had been keeping safe.[pcms]
+預けておいたボクの携帯を、[r]
+漣は目の前に開いてみせる。[pcms]
 
 *92|
 [fc]
-I quickly scanned the text.[pcms]
+ボクは素早く文面に目を走らせた。[pcms]
 
 *93|
 [fc]
-[ns]Wataru[nse]
-"...! A swarm of crows!?"[pcms]
+[ns]航[nse]
+「…………っ！[r]
+　カラスの大群！？……」[pcms]
 
 *94|
 [fc]
-The message from Dad was about a heliport near Chiba Mouse-[r]
-Kingdom being attacked by a swarm of crows.[pcms]
+父さんのいる、千葉ネズミーキングダム近くのヘリポートが[r]
+カラスの大群に襲われている、という内容だった。[pcms]
 
 *95|
 [fc]
-It was written in an unusually short message, telling us to[r]
-be careful not only of them but also of the crows.[pcms]
+ボクたちにも、ヤツラだけじゃなくカラスに注意しろと、[r]
+いつにも増して短い文面で記されている。[pcms]
 
 *96|
 [fc]
-[ns]Wataru[nse]
-"Anyway, let's reply, Ren."[pcms]
+[ns]航[nse]
+「と、とにかく返信しよう。漣」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *97|
 [fc]
 [vo_ren s="ren1312"]
-[ns]Ren[nse]
-"Y-yeah."[pcms]
+[ns]漣[nse]
+「う、うん」[pcms]
 
 *98|
 [fc]
-"Please reply when it's safe," Ren typed quickly and sent[r]
-the email.[pcms]
+『安全になったら返事をください』、と打ち込んで[r]
+漣は素早くメールを送った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *99|
 [fc]
-[ns]Kousuke[nse]
-"A flock of crows, huh."[pcms]
+[ns]浩助[nse]
+「カラスの群れ、か」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *100|
 [fc]
 [vo_mar s="maru1289"]
-[ns]Margarita[nse]
-"That's right... So far, we haven't seen any animals that[r]
-seem to be infected."[pcms]
+[ns]マルガリータ[nse]
+「そうだな……。[r]
+　今のところ、感染した動物らしきものは見当たらないが」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *101|
 [fc]
-[ns]Kousuke[nse]
-"If we haven't seen 'em, it means they're not here either."[pcms]
+[ns]浩助[nse]
+「見当たらないってんなら、ヤツラもいないけどな」[pcms]
 
 *102|
 [fc]
-I realized something anew from Kousuke's words.[pcms]
+コースケの言葉で改めて気付いた。[pcms]
 
 *103|
 [fc]
-Indeed, since a while ago, all we've seen are corpses... The[r]
-only things moving are the annoying flies.[pcms]
+言われてみれば、さっきから見かけるのは死体ばかり……。[r]
+動いているものといえば、うるさいハエだけだ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *104|
 [fc]
 [vo_yuh s="yuho1452"]
-[ns]Yuuho[nse]
-"...Does that mean what Wataru said about the infected's[r]
-lifespan coming to an end?"[pcms]
+[ns]悠帆[nse]
+「……それって、航が言ってた、[r]
+　感染者の寿命が尽きたってこと？」[pcms]
 
 *105|
 [fc]
-[ns]Wataru[nse]
-"I hope that's the case..."[pcms]
+[ns]航[nse]
+「そう……、だといいんだけど」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *106|
 [fc]
 [vo_mar s="maru1290"]
-[ns]Margarita[nse]
-"No, that's not necessarily true."[pcms]
+[ns]マルガリータ[nse]
+「いや、そうとも限らない」[pcms]
 
 *107|
 [fc]
-The senior's voice tightened our nearly relaxed feelings.[pcms]
+先輩の声が、安心しかけたボクらの気持ちを引き締めさせる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *108|
 [fc]
 [vo_mar s="maru1291"]
-[ns]Margarita[nse]
-"If it were a matter of lifespan, there should be bodies[r]
-that simply collapsed. The fact that all the bodies have[r]
-been ravaged suggests that those who fed on them are still[r]
-around."[pcms]
+[ns]マルガリータ[nse]
+「寿命なら、ただ倒れただけの死体があるべきだ。[r]
+　全ての死体が食い荒らされているということは、[r]
+　それを食したヤツラが残っている証拠とも思える」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *109|
 [fc]
 [vo_mar s="maru1292"]
-[ns]Margarita[nse]
-"Let's not let our guard down and continue to be vigilant."[pcms]
+[ns]マルガリータ[nse]
+「気を緩めず、警戒を続けよう」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *110|
 [fc]
-[ns]Kousuke[nse]
-"Ugh, this is tough. Not only them, but if I have to worry[r]
-about rats and crows too, my delicate nerves won't last."[pcms]
+[ns]浩助[nse]
+「うへー、まいったな～。ヤツラだけじゃなくて[r]
+　ネズミだのカラスだの気にしてたんじゃ[r]
+　オレ様の繊細な神経がもたねーっての」[pcms]
 
 *111|
 [fc]
-Trying to lighten the mood or perhaps deliberately reacting[r]
-cheerfully, Kousuke suddenly stopped talking mid-sentence.[pcms]
+緊張を解そうとしてか、わざと明るく反応したコースケが[r]
+ふっと途中で口を閉ざした。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *112|
 [fc]
-[ns]Kousuke[nse]
-"Like..."[pcms]
+[ns]浩助[nse]
+「って……」[pcms]
 
 *113|
 [fc]
-His face looked as if he suddenly realized something, and he[r]
-started running down the street.[pcms]
+ハッと何かに気付いたような顔になり、[r]
+通りを駆け出していく。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *114|
 [fc]
 [vo_yuh s="yuho1453"]
-[ns]Yuuho[nse]
-"Kousuke?"[pcms]
+[ns]悠帆[nse]
+「コースケ？」[pcms]
 
 *115|
 [fc]
-Kousuke stopped and slowly picked something up.[pcms]
+コースケは立ち止まると……[r]
+ゆっくりと何かを拾い上げた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *116|
 [fc]
 [vo_mar s="maru1293"]
-[ns]Margarita[nse]
-"Don't touch it carelessly; you might get infected!"[pcms]
+[ns]マルガリータ[nse]
+「むやみに触ると感染するぞ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *117|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「………………」[pcms]
 ;//＠怒りと悲しみ
 
 *118|
 [fc]
-Ignoring Maruko-senpai's warning, Kousuke kept his gaze[r]
-fixed on what was in his hand.[pcms]
+マル子先輩の警告にも構わず、[r]
+コースケは手元にじっと視線を落としている。[pcms]
 
 *119|
 [fc]
-What he was holding was... a bloodstained vigilante's cap...[pcms]
+その手に握られているのは……、[r]
+血まみれの自警団の帽子だった……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *120|
 [fc]
 [vo_mar s="maru1294"]
-[ns]Margarita[nse]
-"What does this mean?"[pcms]
+[ns]マルガリータ[nse]
+「どういうことだ？」[pcms]
 
 *121|
 [fc]
-[ns]Wataru[nse]
-"...That's the cap of the town's vigilantes. Kousuke also[r]
-volunteered to join them... So, probably... one of his[r]
-comrades..."[pcms]
+[ns]航[nse]
+「……あれは、この街の自警団の帽子です。[r]
+　コースケもボランティアで参加してて……。[r]
+　だから、多分……仲間の……」[pcms]
 
 *122|
 [fc]
-As I explained to the puzzled senior, I found myself at a[r]
-loss for words.[pcms]
+不審そうな先輩に説明しながらも[r]
+ボクは何も言えなくなってしまう。[pcms]
 
 *123|
 [fc]
-Kousuke's comrade had died... Someone he saw every day...[pcms]
+コースケの、仲間が死んだんだ……。[r]
+毎日、顔を合わせていた、誰かが……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *124|
 [fc]
 [vo_yuh s="yuho1454"]
-[ns]Yuuho[nse]
-"Kousuke..."[pcms]
+[ns]悠帆[nse]
+「コースケ……」[pcms]
 ;//＠声をかけたいが何を言えばいいか分からない
 
 *125|
 [fc]
-Even though Yuuho called out to him, she seemed at a loss[r]
-for what to say next, her words trailing off.[pcms]
+声をかけたものの、[r]
+その後どう言えばいいか分からないというように、[r]
+悠帆も言葉を詰まらせる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *126|
 [fc]
-[ns]Kousuke[nse]
-"...Let's go."[pcms]
+[ns]浩助[nse]
+「……行こう」[pcms]
 
 *127|
 [fc]
-In a quiet tone that conveyed sadness and anger, Kousuke[r]
-murmured slowly.[pcms]
+静かな、だけど悲しみや怒りの伝わってくる口調で[r]
+ゆっくりとコースケが呟いた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *128|
 [fc]
-[ns]Kousuke[nse]
-"We need to check out the town..."[pcms]
+[ns]浩助[nse]
+「街の様子、確認しないとな……」[pcms]
 
 *129|
 [fc]
-With the cap still in hand, Kousuke started walking.[pcms]
+帽子を手にしたまま、コースケは歩き出す。[pcms]
 
 *130|
 [fc]
-Despite the dangerous blood on it, even Maruko-senpai didn't[r]
-try to stop him.[pcms]
+危険な血液が付着してはいたけれど、[r]
+さすがのマル子先輩も止めようとはしなかった。[pcms]
 
 *131|
 [fc]
-[ns]Wataru[nse]
-"...Ren, can you still walk? Are you okay?"[pcms]
+[ns]航[nse]
+「……漣、まだ歩くけど、平気か？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *132|
 [fc]
 [vo_ren s="ren1313"]
-[ns]Ren[nse]
-"Yeah. My fever has gone down; I'm fine."[pcms]
+[ns]漣[nse]
+「うん。熱も下がってるし、大丈夫だよ」[pcms]
 
 *133|
 [fc]
-We slowly followed behind Kousuke.[pcms]
+ボクたちは、ゆっくりとコースケの後を追う。[pcms]
 
 ;//→ブロック５００２０へ
 [jump storage="50020.ks" target=*50020_TOP]

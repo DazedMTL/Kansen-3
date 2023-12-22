@@ -1,10 +1,10 @@
 ;//block:C025
-;//ブロック４２２４０『地下道漣のみ脱出編』
+;//ブロック４２２４０『地下道～漣のみ脱出編～』
 ;//@konya 11/20 EV_CGほか
 ;//@konya 42230 42250.txtから
 
 *42240_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助（block:C019以降どうなっているか不明）
@@ -13,21 +13,21 @@
 ;//時間帯：
 ;//・テキスト容量：8K前後
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ８　・８１：このまま漣と一緒
-;//●選択肢Ｃ９　・９１：このまま漣と一緒
+;//●選択肢Ｃ－８　・８－１：このまま漣と一緒
+;//●選択肢Ｃ－９　・９－１：このまま漣と一緒
 
 ;[sysbt_meswin]
 
 *7070|
 [fc]
-[ns]Wataru[nse]
-"Then, I'll put it in Ren's pussy~"[pcms]
+[ns]航[nse]
+「じゃあ、ボクは漣のオマンコに入れるよ～」[pcms]
 
 *7071|
 [fc]
-[ns]Father[nse]
-"Is that so~? If it's her mouth or ass, it would be Ren's[r]
-first time~"[pcms]
+[ns]父[nse]
+「そうか～？[r]
+　口やシリなら、漣ははじめてだぞ～」[pcms]
 ;//＠　極端にひらがな増加
 
 ;//--------------------------------------------------------------------
@@ -43,14 +43,15 @@ first time~"[pcms]
 
 *7072|
 [fc]
-[ns]Wataru[nse]
-"After all, I want to taste Ren's pussy by myself~ I'll put[r]
-it in Ren's pussy alone~"[pcms]
+[ns]航[nse]
+「やっぱり、漣のオマンコをひとりで味わってみたいなって～、[r]
+　漣のオマンコにひとりで入れてみるよ～」[pcms]
 
 *7073|
 [fc]
-[ns]Father[nse]
-"Is that so, is that so~. Then, it's just you, Wataru~"[pcms]
+[ns]父[nse]
+「そうかそうか～。[r]
+　じゃあ、航ひとりでだな～」[pcms]
 
 ;//合流点へ
 [jump storage="42240.ks" target=*42240_03]
@@ -61,14 +62,15 @@ it in Ren's pussy alone~"[pcms]
 
 *7074|
 [fc]
-[ns]Wataru[nse]
-"When I saw Father feeling good with Ren's pussy, I wanted[r]
-to put it in Ren's pussy too~"[pcms]
+[ns]航[nse]
+「父さんが漣のオマンコでキモチよさそうにしてるのを見たら、[r]
+　漣のオマンコに入れたくなったんだ～」[pcms]
 
 *7075|
 [fc]
-[ns]Father[nse]
-"Is that so, is that so~. Then, it's your turn~"[pcms]
+[ns]父[nse]
+「そうかそうか～。[r]
+　じゃあ、こうたいだ～」[pcms]
 
 ;//合流点へ
 [jump storage="42240.ks" target=*42240_03]
@@ -80,44 +82,45 @@ to put it in Ren's pussy too~"[pcms]
 *7076|
 [fc]
 [vo_ren s="ren_Z0067"]
-[ns]Ren[nse]
-"Nnn... Ahh..."[pcms]
+[ns]漣[nse]
+「んんっ……ああっ……」[pcms]
 ;//＠　意識朦朧でうなされている
 
 ;//〆ＨＥＶ０４４　漣／制服／腕掴み宙づりバック
 
 *7077|
 [fc]
-I took over Ren from Father. For some reason, Ren seems[r]
-tired. Maybe she's been loved too much by the family?[pcms]
+ボクは父さんから漣をうけとった。[r]
+漣はどういうわけか、疲れてるみたいだ。[r]
+家族から愛されすぎたせいかな？[pcms]
 
 *7078|
 [fc]
-[ns]Wataru[nse]
-"So~, I'm putting it in now~ Ren~"[pcms]
+[ns]航[nse]
+「じゃあ～、入れるよ～漣～」[pcms]
 
 *7079|
 [fc]
 [vo_ren s="ren_Z0068"]
-[ns]Ren[nse]
-"Ugh... Uuu... Nnn..."[pcms]
+[ns]漣[nse]
+「ううっ……うううっ……んんっ……」[pcms]
 
 *7080|
 [fc]
-[ns]Wataru[nse]
-"You seem out of energy~. But once I put it in~, surely[r]
-you'll perk up, right~?"[pcms]
+[ns]航[nse]
+「元気がないなぁ～。[r]
+　でも、入れれば～きっと、元気になるよね～」[pcms]
 
 *7081|
 [fc]
 [vo_ren s="ren_Z0069"]
-[ns]Ren[nse]
-"Ugh... Uuuhn..."[pcms]
+[ns]漣[nse]
+「ううっ……うううんっ……」[pcms]
 
 *7082|
 [fc]
-[ns]Wataru[nse]
-"That's right~"[pcms]
+[ns]航[nse]
+「そうれぇ～」[pcms]
 
 
 [se buf=0 storage="se_sex01"]
@@ -127,106 +130,116 @@ you'll perk up, right~?"[pcms]
 *7083|
 [fc]
 [vo_ren s="ren_Z0070"]
-[ns]Ren[nse]
-"Aguu! Auuueaaahhh~~!!"[pcms]
+[ns]漣[nse]
+「あぐうっ！　あうぅえああっ～～っ！！」[pcms]
 
 *7084|
 [fc]
-I thrust into Ren's pussy with all my might in one go.[pcms]
+ボクは思いっきり一気に、漣のオマンコを突き上げた。[pcms]
 
 *7085|
 [fc]
-[ns]Wataru[nse]
-"Uguu! Ahh! It's so tight!!"[pcms]
+[ns]航[nse]
+「うぐうっ！[r]
+　ああっ！　すごいせまさだぁ！！」[pcms]
 
 *7086|
 [fc]
-Inside Ren is very tight, squeezing my dick painfully tight.[pcms]
+漣の中はとってもせまくて、[r]
+ボクのをぴっちりと痛いくらいにしめあげる。[pcms]
 
 *7087|
 [fc]
 [vo_ren s="ren_Z0071"]
-[ns]Ren[nse]
-"Aguuuu! Auueeaaahhh~~!!"[pcms]
+[ns]漣[nse]
+「あぐうううっ！　あうううぅえぇああっ～～っ！！」[pcms]
 
 *7088|
 [fc]
-[ns]Wataru[nse]
-"Ahh! It's so tight... the tip is hitting something~. Ren's[r]
-pussy is so tight... Ugh!!"[pcms]
+[ns]航[nse]
+「ああっ！[r]
+　せまくて……先っぽがあたってるよおぉ～。[r]
+　漣のオマンコせまいぃ……うっ！！」[pcms]
 
 *7089|
 [fc]
 [vo_ren s="ren_Z0072"]
-[ns]Ren[nse]
-"Uguu! Uuh! Uaaahhh!!"[pcms]
+[ns]漣[nse]
+「うぐうっ！　ううっ！　うあぁああっ！！」[pcms]
 
 *7090|
 [fc]
-The tight pussy feels good, but when I thrust hard, the tip[r]
-hits a firm spot... and that feels indescribably good~~!![pcms]
+ぴっちりとせまいオマンコの中もいいけど、[r]
+強く突きあげると先端がこりっとした感じのところに当たって……[r]
+それがなんともいえずキモチいい～～っ！！[pcms]
 
 *7091|
 [fc]
 [vo_ren s="ren_Z0073"]
-[ns]Ren[nse]
-"Uuaah... deep in my belly... ubu... Ah, it's hitting...[r]
-ububu...!"[pcms]
+[ns]漣[nse]
+「ううあっ……おなかのおくにぃ……うぶっ……、[r]
+　あっ、あたってぇ……うぶぶっ……！」[pcms]
 
 *7092|
 [fc]
-[ns]Wataru[nse]
-"Ahh~~, I know~. It's hitting deep inside your belly~ It[r]
-feels good~~!!"[pcms]
+[ns]航[nse]
+「ああっ～、わかるよぉ～。[r]
+　漣のおなかの奥にあってるよぉ～キモチいいよぉ～！！」[pcms]
 
 *7093|
 [fc]
 [vo_ren s="ren_Z0074"]
-[ns]Ren[nse]
-"Ubu... Uuh my belly... it hurts... ubu...! O-onii-chan...[r]
-be gentle... ububu..."[pcms]
+[ns]漣[nse]
+「うぶっ……ううっおなか……いたぃいっ……うぶっ……！[r]
+　お、おにい……ちゃん……やさしっ……うぶっ……、[r]
+　やさしく……してぇ……うぶぶっ……」[pcms]
 
 *7094|
 [fc]
-[ns]Wataru[nse]
-"Gentle? I don't really get it~. Wouldn't it feel less good[r]
-if I'm gentle~?"[pcms]
+[ns]航[nse]
+「やさしく？[r]
+　よくわかんないや～。[r]
+　やさしくしたらキモチよくないだろ～？」[pcms]
 
 *7095|
 [fc]
 [vo_ren s="ren_Z0075"]
-[ns]Ren[nse]
-"Ubuuu... that's not what I mean..."[pcms]
+[ns]漣[nse]
+「うぶううっ……そ、そんなぁ……」[pcms]
 
 *7096|
 [fc]
-Somehow, Ren is saying strange things.[pcms]
+なんだか、漣は変なことを言ってる。[pcms]
 
 *7097|
 [fc]
-[ns]Father[nse]
-"Then, it's my turn now~"[pcms]
+[ns]父[nse]
+「じゃあ、こんどはおれのばんだなぁ～」[pcms]
 
 *7098|
 [fc]
-[ns]Wataru[nse]
-"Eh? Father, I just put it in~! I don't want to pull out[r]
-yet~"[pcms]
+[ns]航[nse]
+「えっ？[r]
+　父さん、ボク入れたばかりだよ～！[r]
+　ボクはまだ、抜きたくないよぉ～」[pcms]
 
 *7099|
 [fc]
-[ns]Father[nse]
-"Ahh... I understand~ I'll use this instead~"[pcms]
+[ns]父[nse]
+「ああっ……。[r]
+　わかってるさ～[r]
+　俺はこっちを使うからなぁ～」[pcms]
 
 *7100|
 [fc]
 [vo_ren s="ren_Z0076"]
-[ns]Ren[nse]
-"Ahi? Uuh... Abaaahhh!!"[pcms]
+[ns]漣[nse]
+「あひっ？[r]
+　ううっ……あばぁあっ！！」[pcms]
 
 *7101|
 [fc]
-Father gently places his hand on Ren's face...[pcms]
+父さんは漣の顔にそっと手を添えると……。[pcms]
 
 
 ;//精液と愛液で汚れた肉棒を漣の口に突っ込む主人公の父親
@@ -235,237 +248,248 @@ Father gently places his hand on Ren's face...[pcms]
 *7102|
 [fc]
 [vo_ren s="ren_Z0077"]
-[ns]Ren[nse]
-"Uguuu!! Ubbaaahhh!!"[pcms]
+[ns]漣[nse]
+「うぐううっ！！　うばぁああっ！！」[pcms]
 
 *7103|
 [fc]
-The splendid black shining thing, standing erect at the[r]
-center of the exposed lower half. He thrusts it, wet with[r]
-semen and love juice and blood, into Ren's mouth.[pcms]
+丸出しの下半身の中心で、ギンギンにそそり立っている[r]
+立派な黒光りするモノ。[r]
+精液と愛液や血で濡れたままのそれを、漣の口にねじ込んだ。[pcms]
 
 *7104|
 [fc]
-[ns]Father[nse]
-"Uuh... If it was your first time in front, then your mouth[r]
-is also a first time, right~ Ren?"[pcms]
+[ns]父[nse]
+「ううっ……前がはじめてだったなら、[r]
+　口だって初めてだよなぁ～漣？」[pcms]
 
 *7105|
 [fc]
 [vo_ren s="ren_Z0078"]
-[ns]Ren[nse]
-"Ugguuu!! Ubuua...! Nnaahh...!"[pcms]
+[ns]漣[nse]
+「うぐぐうっ！！　うぶぶぁ……！　んああっ……！」[pcms]
 
 *7106|
 [fc]
-[ns]Wataru[nse]
-"I can't understand what you're saying anymore~ Ren~"[pcms]
+[ns]航[nse]
+「もう、なにを言ってるかわからないよ～漣～」[pcms]
 
 *7107|
 [fc]
-But since Ren is opening her small mouth wide to swallow[r]
-Father's big one, it can't be helped~.[pcms]
+でも、漣は小さな口をいっぱいに開いて、[r]
+父さんの大きいのを飲み込んでるからしかたないか～。[pcms]
 
 *7108|
 [fc]
-[ns]Father[nse]
-"Ahh... Ren's mouth feels really good~"[pcms]
+[ns]父[nse]
+「ああっ……漣の口はとってもいいよ～」[pcms]
 
 *7109|
 [fc]
 [vo_ren s="ren_Z0079"]
-[ns]Ren[nse]
-"Uguu! Ubuua... Nnn!!"[pcms]
+[ns]漣[nse]
+「うぐうっ！　うぶぶぁ……んんっ！！」[pcms]
 
 *7110|
 [fc]
-[ns]Father[nse]
-"Nnn... Besides that~ you look so much like your mother,[r]
-Ren. She has a good resemblance to your mother~"[pcms]
+[ns]父[nse]
+「んっ……それにしても～漣の母さんにそ～っくりだぞぉ。[r]
+　母さんそっくりのいいぐあいだぁ～」[pcms]
 
 *7111|
 [fc]
 [vo_ren s="ren_Z0080"]
-[ns]Ren[nse]
-"Ugguu!! Uboh!! Nnaahh~~!!"[pcms]
-;//＠　そんな　ウソっ！　いやぁ
+[ns]漣[nse]
+「うぐぐっ！！　うぼっ！！　んああっ～！！」[pcms]
+;//＠　そんな　ウソっ！　いやぁ～
 
 *7112|
 [fc]
-[ns]Wataru[nse]
-"Ren seems to be saying "No way!?""[pcms]
+[ns]航[nse]
+「漣は『うそっ！？』って言ってるみたいだよ～」[pcms]
 
 *7113|
 [fc]
-[ns]Father[nse]
-"It's no lie~. Ren's mother loved to lick my cock. That's[r]
-right..."[pcms]
+[ns]父[nse]
+「ウソなもんかぁ～。[r]
+　漣の母さんはおれのチンコをなめるのがだいすきだったんだぞ～。[r]
+　そうら……」[pcms]
 
 *7114|
 [fc]
 [vo_ren s="ren_Z0081"]
-[ns]Ren[nse]
-"Ugguu!! Ubuun!! Nnnnh~~!!"[pcms]
+[ns]漣[nse]
+「うぐぐっ！！　うぶんっ！！　んんんっ～！！」[pcms]
 
 *7115|
 [fc]
-Father starts to thrust vigorously into Ren's mouth.[pcms]
+父さんは激しく漣の口の中に出し入れを始める。[pcms]
 
 *7116|
 [fc]
-[ns]Wataru[nse]
-"Alright, I can't lose either~"[pcms]
+[ns]航[nse]
+「よぉ～し、ボクだって負けてられないぞ～」[pcms]
 
 ;//SE・挿入音
 
 *7117|
 [fc]
 [vo_ren s="ren_Z0082"]
-[ns]Ren[nse]
-"Uguunn!! Uunn!! Nnnnh~~!!"[pcms]
+[ns]漣[nse]
+「うぐうんっ！！　ううんっ！！　んんんっ～！！」[pcms]
 
 *7118|
 [fc]
-I also start moving my hips, feeling like I'm about to come[r]
-from watching Father.[pcms]
+ボクも父さんをみていて、[r]
+そろそろ出そうと、腰を動かし始めた。[pcms]
 
 *7119|
 [fc]
-Ren's muffled voice becomes even more intense.[pcms]
+漣のくぐもった声がさらにはげしくなる。[pcms]
 
 *7120|
 [fc]
-[ns]Father[nse]
-"Ahh... When Wataru starts moving~ Ren's mouth tightens even[r]
-more~. Uuh... Ahh... It feels so good~ It's really nice~!"[pcms]
+[ns]父[nse]
+「ああっ……航がうごきだしたら～漣の口がよけいにしまって～。[r]
+　ううっ……ああっ……いいなぁ～よいにいいぞ～っ！」[pcms]
 
 *7121|
 [fc]
-[ns]Wataru[nse]
-"Ahh! Father, my side is also very tight~, it hurts but it[r]
-feels good~"[pcms]
+[ns]航[nse]
+「ああっ！　父さんボクのほうも～とってもしまって～、[r]
+　いたくてキモチがいいよぉ～」[pcms]
 
 *7122|
 [fc]
 [vo_ren s="ren_Z0083"]
-[ns]Ren[nse]
-"Uguuunn!! Nnuunn!! Nnbbuu~~!!"[pcms]
+[ns]漣[nse]
+「うぐううんっ！！　んうんっ！！　んぶぶっ～！！」[pcms]
 
 *7123|
 [fc]
-[ns]Father[nse]
-"That's natural~. Since we're all doing this as a family~.[r]
-It feels even better~"[pcms]
+[ns]父[nse]
+「そりゃ、とうぜんだぁ～。[r]
+　こうやってかぞくさんにんがそろってしてるんだから～。[r]
+　よけいにキモチいいさ～」[pcms]
 
 *7124|
 [fc]
-[ns]Wataru[nse]
-"Ah, that's why~. It was tight before but now it's even[r]
-tighter and that's good~"[pcms]
+[ns]航[nse]
+「ああ、それでかぁ～。[r]
+　さっきもせまかったっけど～もっとせまくていいよぉ」[pcms]
 
 *7125|
 [fc]
 [vo_ren s="ren_Z0084"]
-[ns]Ren[nse]
-"Uggu!! Uuunn!! Nnnnh~~!!"[pcms]
+[ns]漣[nse]
+「うぐっ！！　ううんっ！！　んんんっ～！！」[pcms]
 
 *7126|
 [fc]
-[ns]Father[nse]
-"Family is important, you know~. For important things like[r]
-meals and sex, we should do it together as a family~"[pcms]
+[ns]父[nse]
+「かぞくみずいらずたいせつだ～。[r]
+　しょくじとかせっくすとか、たいせつなことは[r]
+　かぞくだんらんで～しないとなぁ～」[pcms]
 
 *7127|
 [fc]
-[ns]Wataru[nse]
-"Family bonding is such a nice thing~. You should have shown[r]
-family SEX on your program, Father~"[pcms]
+[ns]航[nse]
+「家族のだんらんって～いいもんだねぇ～。[r]
+　父さんの番組でも～家族でのＳＥＸを流せばよかったのに～」[pcms]
 
 *7128|
 [fc]
 [vo_ren s="ren_Z0085"]
-[ns]Ren[nse]
-"Ugguu!! Uuuh!! Uh...! Unnnh..."[pcms]
+[ns]漣[nse]
+「うぐぐっ！！　ううっ！！　うっ……！　うんんっ……」[pcms]
 
 *7129|
 [fc]
-[ns]Father[nse]
-"That's true~ Why didn't I do that~? Then we could have[r]
-shown Ren's virgin loss on national broadcast~"[pcms]
+[ns]父[nse]
+「そうだなぁ～、なんでやらなかったんだろ～。[r]
+　そうすれば漣のしょじょそうしつをぜんこくほうそうで[r]
+　みてもらえたのにな～」[pcms]
 
 *7130|
 [fc]
-[ns]Father[nse]
-"That was a missed opportunity, wasn't it? Right, Ren~?"[pcms]
+[ns]父[nse]
+「ざんねんだったなぁ～？[r]
+　なぁ～漣～」[pcms]
 
 *7131|
 [fc]
 [vo_ren s="ren_Z0086"]
-[ns]Ren[nse]
-"Uggu!! Uuunn!! Nnnh~~!! Nnnh!!"[pcms]
+[ns]漣[nse]
+「うぐっ！！　ううんっ！！　んんっ～！！　んんっ！！」[pcms]
 
 *7132|
 [fc]
-[ns]Wataru[nse]
-"Ren, you've been moaning non-stop since earlier~"[pcms]
+[ns]航[nse]
+「もう、漣ったら～。[r]
+　さっきからあえいでばかりじゃないかぁ～」[pcms]
 
 *7133|
 [fc]
-[ns]Father[nse]
-"Can't be helped~. Ren's mother was also so absorbed in[r]
-licking that she didn't say anything either~"[pcms]
+[ns]父[nse]
+「しかたがないさ～。[r]
+　漣のかあさんだって～むちゅうでなめてて、[r]
+　なにもいわなかったからなぁ～」[pcms]
 
 *7134|
 [fc]
-[ns]Father[nse]
-"Ahh~ But Ren's mouth is really something else~. It's tight,[r]
-amateurish and clumsy~. And sometimes, the biting is what[r]
-makes it even better! Ee~~!!"[pcms]
+[ns]父[nse]
+「ああっ～、それにしても漣の口はいいな～。[r]
+　せまくて、しろうとくさくてたどたどしくてぇ～。[r]
+　ときどき、かむのが～またいいっ！　いっ～～！！」[pcms]
 
 *7135|
 [fc]
 [vo_ren s="ren_Z0087"]
-[ns]Ren[nse]
-"Ugguuug! Unnnh! Aaannh~~!! Ugguuu!!"[pcms]
+[ns]漣[nse]
+「うぐぐぐっ！　うんんっ！[r]
+　あんんっ～！！　うぐううっ！！」[pcms]
 
 *7136|
 [fc]
-[ns]Wataru[nse]
-"Ahh... It's okay to tighten up more~. It's the best~~![r]
-Ren's snug pussy~~!!"[pcms]
+[ns]航[nse]
+「ああっ……ボクもしまっていいよぉ～。[r]
+　サイコ～だぁ～！[r]
+　漣のぴっちりオマンコ～！！」[pcms]
 
 *7137|
 [fc]
 [vo_ren s="ren_Z0088"]
-[ns]Ren[nse]
-"Hibuuh! Gubuuh!! Ueh! Ueeehh!!"[pcms]
+[ns]漣[nse]
+「ひぶうっ！　ぐぶうっ！！　うえっ！　うえ゛ぇえっ！！」[pcms]
 ;//＠　内臓を押し上げられる苦しさに吐く寸前
 
 *7138|
 [fc]
-As we thrust strongly into Ren's mouth and pussy, she made[r]
-strange muffled noises.[pcms]
+ボクたちが口とアソコをつよく突くと、[r]
+漣はもごもごとヘンな声をだした。[pcms]
 
 *7139|
 [fc]
-[ns]Wataru[nse]
-"Uuh...! Ahh, it's amazing inside Ren's pussy~"[pcms]
+[ns]航[nse]
+「ううっ……！[r]
+　ああっ、すごいよ漣のオマンコのなか～」[pcms]
 
 *7140|
 [fc]
-[ns]Father[nse]
-"Ahh, it hurts so good~~!!"[pcms]
+[ns]父[nse]
+「ああ、いたくていい～っ！！」[pcms]
 
 *7141|
 [fc]
-[ns]Wataru[nse]
-"Ahh... I can't stand it. I can't stand it, Ren~"[pcms]
+[ns]航[nse]
+「ああっ……たまらない。[r]
+　たまらないよ漣～」[pcms]
 
 ;//------------------------------------------------------------
 ;//ボクは気持ちよさに思いっきりコシをつき上げた。
 ;//
 ;//[vo_ren s="ren_Z0089"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「ひぐうっ！　うぶぶっ……！　うぶうぁああ！！
 ;//　うげぇぇええっ……！　うげぇ……！！」
 ;//;//＠　吐瀉
@@ -477,24 +501,24 @@ strange muffled noises.[pcms]
 ;//なんだかツンとしたにおいがして、
 ;//生あたたかいものが漣の上からこぼれおちてきた。
 ;//
-[ns]Father[nse]
-;//「ああっ漣。
-;//　なつかしいなぁ」
+;//[ns]父[nse]
+;//「ああっ～漣～。
+;//　なつかしいなぁ～」
 ;//
 ;//[vo_ren s="ren_Z0090"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「うぶぶっ……うぶぉ……うえぇぇえ……」
 ;//
-[ns]Father[nse]
-;//「こどものころからからだがよわくて。
-;//　漣はよくはいたからなぁ」
+;//[ns]父[nse]
+;//「こどものころからからだがよわくて～。
+;//　漣はよくはいたからなぁ～」
 ;//
 ;//父さんは漣がはいている口の中に、
 ;//だしいれしながら、なつかしそうに言っている。
 ;//
 ;//[vo_ren s="ren_Z0091"]
-[ns]Ren[nse]
-;//「うぶぶっ……。うえぇぇ……！　うえぇええっ！！」
+;//[ns]漣[nse]
+;//「うぶぶっ……。うえぇぇ……！　うえぇええ～っ！！」
 ;//
 ;//;//se070・床にこぼれる吐瀉物
 ;//[se buf=0 storage="se070"]
@@ -503,42 +527,42 @@ strange muffled noises.[pcms]
 ;//ボクのふとももをぬらす生あたかいのが、
 ;//なんだかキモチいい。
 ;//
-[ns]Father[nse]
-;//「だいじょうぶだぞ。
-;//　漣はかわいいむすめだからな。
-;//　いいんだぞ、いくらはいても」
+;//[ns]父[nse]
+;//「だいじょうぶだぞ～。
+;//　漣はかわいいむすめだからな～。
+;//　いいんだぞ～、いくらはいても～」
 ;//
-[ns]Wataru[nse]
-;//「ボクだってさ。
-;//　何度もかたづけたからねぇ」
+;//[ns]航[nse]
+;//「ボクだってさ～。
+;//　何度もかたづけたからねぇ～」
 ;//
 ;//[vo_ren s="ren_Z0092"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「うぐぐっ……ううっ……。
 ;//　うぶぶっ……おにい……ちゃん……、おとう……さんっ……。
 ;//　んっ……んんっ……うええっ……ううっ……」
 ;//;//＠　吐きそうになりながらも、発症が始まり、悦びと快感が少し
 ;//
-[ns]Father[nse]
-;//「ああっ……漣のくちのなか、
-;//　はいたものがいっぱいつまってて、
-;//　ううっああっ……こんなキモチよさはじめてだぁ！」
+;//[ns]父[nse]
+;//「ああっ……漣のくちのなか～、
+;//　はいたものがいっぱいつまってて～、
+;//　ううっああっ……こんなキモチよさはじめてだぁ～！」
 ;//
-[ns]Father[nse]
-;//「ああ、漣のはいたものがおれのチンポにからみつく。
-;//　あったくてぬるぬるしていいぞぉ漣。
-;//　ああっ！　それから、もっとかんでくれえっ！！」
+;//[ns]父[nse]
+;//「ああ～、漣のはいたものがおれのチンポにからみつく～。
+;//　あったくてぬるぬるしていいぞぉ～漣～。
+;//　ああっ！　それから～、もっとかんでくれえっ！！」
 
 *7142|
 [fc]
-Father thrusts even deeper and more vigorously into Ren's[r]
-ass.[pcms]
+ボクはいっそう深く、激しく[r]
+漣のおしりに自分の腰をうちつける。[pcms]
 
 *7143|
 [fc]
 [vo_ren s="ren0770"]
-[ns]Ren[nse]
-"Ihyaa... ihihyaa..."[pcms]
+[ns]漣[nse]
+「いひゃあ……いっいひゃあ……」[pcms]
 
 ;//SE 失禁
 [se buf=0 storage="se014"]
@@ -547,104 +571,117 @@ ass.[pcms]
 
 *7144|
 [fc]
-Just as she let out a strange cry, a hot liquid burst forth[r]
-from where Ren and I were connected.[pcms]
+変な声をあげたかとおもうと、[r]
+漣とボクの繋がりあった部分から[r]
+熱い液体がふきだした。[pcms]
 
 *7145|
 [fc]
-[ns]Wataru[nse]
-"What happened? That won't do, Ren~ Did you wet yourself~?"[pcms]
+[ns]航[nse]
+「あれ～どうしたんだ～。[r]
+　だめだよ～漣ったら～[r]
+　おもらししちゃったのか～」[pcms]
 
 *7146|
 [fc]
-If it's cute Ren's pee, I don't mind at all.[pcms]
+かわいい漣のおしっこなら[r]
+ボクはぜんぜん気にならない。[pcms]
 
 *7147|
 [fc]
-Rather, the connection became even more slippery and made[r]
-lewd noises, which felt kind of nice~.[pcms]
+むしろ今まで以上に結合部が[r]
+ぐっちょぐっちょやらしい音をたてて[r]
+なんだかいい感じだ～。[pcms]
 
 *7148|
 [fc]
-[ns]Father[nse]
-"Ahh~ Ren~. It brings back memories~"[pcms]
+[ns]父[nse]
+「ああっ～漣～。[r]
+　なつかしいなぁ～」[pcms]
 
 *7149|
 [fc]
-[ns]Father[nse]
-"When you were a child, Ren, you often wet yourself~"[pcms]
+[ns]父[nse]
+「こどものころ漣は[r]
+　よくおもらししたからなぁ～」[pcms]
 
 *7150|
 [fc]
-The inside of Ren started moving violently, and I couldn't[r]
-take it anymore.[pcms]
+なんだか漣の中がはげしくうごいて、[r]
+ボクはたまらなくなってくる。[pcms]
 
 *7151|
 [fc]
-[ns]Wataru[nse]
-"Ahh... Inside Ren is amazing~ Ahh! Father~~!"[pcms]
+[ns]航[nse]
+「ああっ……、漣の中がすごいよぉ～ああっ！[r]
+　父さ～ん！っ！」[pcms]
 
 *7152|
 [fc]
-[ns]Father[nse]
-"Ahh, me too! I'm about to come too~"[pcms]
+[ns]父[nse]
+「ああ、おれもだぁ！[r]
+　おれも、もうでそうだよ～」[pcms]
 
 *7153|
 [fc]
-[ns]Wataru[nse]
-"Father too, huh? Let's come together~! Coming together like[r]
-this~ Even if we're not blood-related, we're still a proper[r]
-family, aren't we~"[pcms]
+[ns]航[nse]
+「父さんもかい～？　いっしょにだそうよ～！[r]
+　出すのがいっしょだなんて～。[r]
+　血はつながってなくても～りっぱなかぞくだね～ボクたち～」[pcms]
 
 *7154|
 [fc]
 [vo_ren s="ren_Z0093"]
-[ns]Ren[nse]
-"Ubbuu!! Ubuu!! Nnnnh~~!!"[pcms]
+[ns]漣[nse]
+「うぶぶっ！！　うぶぅ！！　んんんっ～！！」[pcms]
 
 *7155|
 [fc]
-[ns]Father[nse]
-"That's right, Wataru~. What do you think, Ren?[r]
-Hahahahaha~~"[pcms]
+[ns]父[nse]
+「そうだな～航～。[r]
+　漣もそうおもうか～！[r]
+　ははははははは～」[pcms]
 
 *7156|
 [fc]
-[ns]Wataru[nse]
-"Ren, you're such a... Ahahahaha~~"[pcms]
+[ns]航[nse]
+「漣ったら～。[r]
+　あははははは～」[pcms]
 
 *7157|
 [fc]
-I just can't help but feel happy. Family is such a wonderful[r]
-thing.[pcms]
+なんだかもう楽しくてしかたがない。[r]
+かぞくっていいなぁ～。[pcms]
 
 *7158|
 [fc]
 [vo_ren s="ren_Z0094"]
-[ns]Ren[nse]
-"Uunn! Nnh!! Ngguuug~~!! Nnnh~~!!"[pcms]
+[ns]漣[nse]
+「ううんっ！　んっ！！　んぐぐぐっ～！！　んんっ～～！！」[pcms]
 
 *7159|
 [fc]
-[ns]Father[nse]
-"Now, since Ren is behind her peers these days, she needs to[r]
-take in plenty of nutrition~"[pcms]
+[ns]父[nse]
+「さあ、漣はいまどきのこにしてははついくがわるいから～[r]
+　いっぱいえいようをとらないとなぁ～」[pcms]
 
 *7160|
 [fc]
-[ns]Father[nse]
-"Here you go~, my semen is full of nutrients for you~~!!"[pcms]
+[ns]父[nse]
+「ほうら～、[r]
+　とうさんのえいようたっぷりのザーメンだぞぉ～！！」[pcms]
 
 *7161|
 [fc]
-[ns]Wataru[nse]
-"You need to drink mine properly with your pussy too~~!!"[pcms]
+[ns]航[nse]
+「ボ、ボクのもしっかりオマンコでのんでよ～！！」[pcms]
 
 *7162|
 [fc]
 [vo_ren s="ren_Z0095"]
-[ns]Ren[nse]
-"Ugguu! Ubuu!! Ubbuu!! Nnnh!! Nnnh~~!! Nnnh~~!!"[pcms]
+[ns]漣[nse]
+「うぐぐっ！　うぶっ！！　うぶぶっ！！[r]
+　んんっ！！　んんっ～！！　んんっ～～！！」[pcms]
 
 ;//射精差分
 ;//射精エフェクト
@@ -654,54 +691,57 @@ take in plenty of nutrition~"[pcms]
 
 *7163|
 [fc]
-We almost simultaneously ejaculated inside Ren.[pcms]
+ボクたちはほぼ同時に、漣の中に発射した。[pcms]
 
 *7164|
 [fc]
-Ren seemed to have a lot of Father's semen in her mouth, her[r]
-eyes rolling wildly...[pcms]
+漣は口に大量に父さんのを出されたらしくて、[r]
+目を白黒させている……。[pcms]
 
 *7165|
 [fc]
-I also uncontrollably ejaculated inside Ren's pussy, and the[r]
-excess that couldn't be swallowed oozed out from the seam.[pcms]
+ボクも漣のオマンコによ～しゃなくはき出して、[r]
+つなぎ目からは飲みきれなかったのがにじみ出てくる。[pcms]
 
 *7166|
 [fc]
 [vo_ren s="ren_Z0096"]
-[ns]Ren[nse]
-"Uunn... nnnh... uguu... nnnh... Uuuuh... uunn..."[pcms]
+[ns]漣[nse]
+「ううんっ……んんっ……うぐっ……んんっ……。[r]
+　うううっ……ううんっ……」[pcms]
 
 *7167|
 [fc]
-[ns]Father[nse]
-"Ahh... Ren doesn't have any dislikes. She's a good girl~.[r]
-She drank it all up nicely~~"[pcms]
+[ns]父[nse]
+「ああっ……れんはスキキライのない。[r]
+　いいこだぁ～。[r]
+　しっかりとのんでくれたなぁ～」[pcms]
 
 *7168|
 [fc]
-Father is indulging in the afterglow of Ren having swallowed[r]
-everything.[pcms]
+父さんはまったりと漣がぜんぶ飲んでくれたことの[r]
+余いんにひたってる。[pcms]
 
 ;//主人公もこの辺りから漢字がなくなる
 
 *7169|
 [fc]
-I'm also completely satisfied having come inside Ren.[pcms]
+ボクも漣の中に出せてだいまんぞくだ～。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *7170|
 [fc]
-Now, I think I'll take Ren's anal virginity~. Since she gave[r]
-her mouth to Dad, her butt is definitely mine~.[pcms]
+さあ、次は漣のおしりのしょじょをもらおうかな～。[r]
+口も父さんにあげたから、[r]
+おしりはぜったいにボクのものだ～。[pcms]
 
 ;//;//ＣＧ　差分　　漣、感染して発狂。失禁
 ;//<ChrInit><ImageLoad 7,HEV035d.bmp><UpDate Cross,1000>
 
 ;//[vo_ren s="ren_Z0097"]
-[ns]Ren[nse]
-;//「あひゃああああああぁあぁあっ！！」
+;//[ns]漣[nse]
+;//「あひゃああああああぁあぁあ～～っ！！」
 ;//;//＠　発症　快感の声
 ;//
 ;//;//se014・失禁する音
@@ -710,111 +750,118 @@ her mouth to Dad, her butt is definitely mine~.[pcms]
 ;//漣は大きなこえでさけびながら突然、おしっこをした。
 ;//
 ;//[vo_ren s="ren_Z0098"]
-[ns]Ren[nse]
-;//「ああっ、おしっこがぁ！
-;//　ああっ！！　でてるぅ！！
-;//　キモチいいぃ！！」
+;//[ns]漣[nse]
+;//「ああっ～～、おしっこがぁ～！
+;//　ああっ～！！　でてるぅ～～！！
+;//　キモチいいぃ～～！！」
 
-[ns]Wataru[nse]
-;//「ああ、やっぱり漣のはキモチいいよ。
-;//　おしっこもあったかくてキモチいいよ」
+;//[ns]航[nse]
+;//「ああ、やっぱり漣のはキモチいいよ～。
+;//　おしっこも～あったかくて～キモチいいよ～」
 
-[ns]Father[nse]
-;//「ああっさいこうのシャワーだよれん。
-;//　いいゆかげんだあ！！」
+;//[ns]父[nse]
+;//「ああっ～さいこうのシャワーだよ～れん～。
+;//　いいゆかげんだあ～！！」
 
 ;//[vo_ren s="ren_Z0099"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「んんっ……、ああっ……。
-;//　……うふふふふっ。
-;//　ありがとうお兄ちゃん！　お父さんっ！」
+;//　……うふふふふっ～。
+;//　ありがとう～お兄ちゃ～ん！　お父さ～んっ！」
 ;//;//＠完全発症　淫乱化
 
 ;//[vo_ren s="ren_Z0100"]
-[ns]Ren[nse]
-;//「お兄ちゃん、お父さん、私もっとほしいの。
-;//　もっといっぱいスペルマ飲ませてぇ。
-;//　お口と、マンコでいっぱい飲みたいの」
+;//[ns]漣[nse]
+;//「お兄ちゃ～ん、お父さ～ん、私～もっとほしいの～。
+;//　もっといっぱいスペルマ飲ませてぇ～。
+;//　お口と、マンコでいっぱい飲みたいの～」
 
 *7171|
 [fc]
-Ren turned to me and laughed lewdly. With eyes red like a[r]
-rabbit's~.[pcms]
+漣はボクの方をふりかえってエッチにわらった。[r]
+ウサギのようなあかい目で～。[pcms]
 
 *7172|
 [fc]
-Ah, is that so~. What was it again~?[pcms]
+ああ、そうか～。[r]
+なんだっけ～。[pcms]
 
 *7173|
 [fc]
-I don't know why, but~ Ren is also a friend~ I'm so happy.[pcms]
+なんだかわからないけど～、[r]
+漣もなかまだ～うれしいなぁ～。[pcms]
 
-[ns]Wataru[nse]
-;//「もう漣ったら」
+;//[ns]航[nse]
+;//「もう～漣ったら～」
 
 ;//[vo_ren s="ren_Z0101"]
-[ns]Ren[nse]
-;//「うふふふっ」
+;//[ns]漣[nse]
+;//「うふふふ～っ」
 
-[ns]Father[nse]
-;//「そんなにマンコからザーメンたらして。
-;//　まだ、ほしいのか？
-;//　いくらでもあるぞれん」
+;//[ns]父[nse]
+;//「そんなにマンコからザーメンたらして～。
+;//　まだ、ほしいのか～？
+;//　いくらでもあるぞ～れん～」
 
 ;//[vo_ren s="ren_Z0102"]
-[ns]Ren[nse]
-;//「わあぁいい。
-;//　私はなんだかおなかが減って
-;//　今日はいくらでも飲めそうだよ」
+;//[ns]漣[nse]
+;//「わあぁ～いい。
+;//　私はなんだかおなかが減って～
+;//　今日はいくらでも飲めそうだよ～」
 
-;//漣はニコニコとたのしそうだ。
-;//そうか父さんのセイシがきいたんだな。
-;//やっぱり、えいようまんてんなんだ。
+;//漣はニコニコとたのしそうだ～。
+;//そうか～父さんのセイシがきいたんだな～。
+;//やっぱり、えいようまんてんなんだ～。
 
 [evcg storage="HEV036e"][trans_c cross time=300]
 
 *7174|
 [fc]
 [vo_ren s="ren_Z0103"]
-[ns]Ren[nse]
-"Aaahn~ Big brother~ Next time, put it in my butt~ In my[r]
-butt please!!"[pcms]
+[ns]漣[nse]
+「ああんっ～。[r]
+　お兄ちゃん～今度はおしりに～[r]
+　おしりにいれてぇ！！」[pcms]
 
 *7175|
 [fc]
-I'm so happy~, Ren feels the same way~ We're truly siblings.[pcms]
+うれしいなぁ～、漣も同じきもちだったんだ～[r]
+さすがきょうだいだ～[pcms]
 
 *7176|
 [fc]
-[ns]Wataru[nse]
-"Ren wants it in the butt too, huh~?"[pcms]
+[ns]航[nse]
+「漣もおしりでしたいんだね～？」[pcms]
 
 *7177|
 [fc]
 [vo_ren s="ren_Z0104"]
-[ns]Ren[nse]
-"Yeah~. To be stirred up by big brother's big cock~"[pcms]
+[ns]漣[nse]
+「うんっ～。[r]
+　お兄ちゃんのおっきいおちんちんでかきまわされるなんて～」[pcms]
 
 *7178|
 [fc]
 [vo_ren s="ren_Z0105"]
-[ns]Ren[nse]
-"Aahh~~. Just thinking about how it's going to mess up my[r]
-insides makes me so wet, it's good~"[pcms]
+[ns]漣[nse]
+「ああっ～～。[r]
+　おなかの中がぐちゃぐちゃになっちゃいそうで、[r]
+　考えてだけですっごく濡れてきて～、いいのぉ～」[pcms]
 
 *7179|
 [fc]
 [vo_ren s="ren_Z0106"]
-[ns]Ren[nse]
-"Aaahnn. That's why~ in the butt! Twist it in roughly~ Big[r]
-brother!!"[pcms]
+[ns]漣[nse]
+「ああっ～ん。[r]
+　だから～おしりにぃ！　おしりに乱暴にねじこんでぇ～！！[r]
+　お兄ちゃ～ん！！」[pcms]
 
 ;//漣もうれしそうにこうふんして、
 ;//ボクと父さんをもとめてる。
 
 ;//漣はオマンコから、たっぷりセイシをたれながして。
 ;//床にはおしっことはきだしたものだらけだ。
-;//いろんなものにまみれたままで、すごくうれしそうだ。
+;//いろんなものにまみれたままで、すご～くうれしそうだ～。
 
 ;//白いはだをセイシやおしっこや、
 ;//あいえきやちやげろまみれにしてる漣。
@@ -822,155 +869,175 @@ brother!!"[pcms]
 
 *7180|
 [fc]
-Thinking of Ren, covered in semen, wanting mine in her butt[r]
-makes me shiver with excitement, and my thing gets hard[r]
-again.[pcms]
+白いはだをセイシまみれにしてる漣が[r]
+おしりにぼくのをほしがってるとおもうと[r]
+なんだかゾクゾクして、またモノがかたくなる。[pcms]
 
 *7181|
 [fc]
 [vo_ren s="ren_Z0107"]
-[ns]Ren[nse]
-"Aah! Big brother is getting hard again~"[pcms]
+[ns]漣[nse]
+「ああっ！[r]
+　お兄ちゃんがまた、かたくなってるぅ～」[pcms]
 
 *7182|
 [fc]
-[ns]Wataru[nse]
-"Because~, Ren is so very cute!"[pcms]
+[ns]航[nse]
+「だって～、漣がとっても、かわいいからじゃないか～！」[pcms]
 
 *7183|
 [fc]
 [vo_ren s="ren_Z0108"]
-[ns]Ren[nse]
-"Ahahaha~. Being done like this by Dad and big brother~.[r]
-It's the best."[pcms]
+[ns]漣[nse]
+「あはははは～。[r]
+　私も、お父さんとお兄ちゃんにこんなにされて～。[r]
+　最高だよぉ～」[pcms]
 
 *7184|
 [fc]
-[ns]Father[nse]
-"Is that so, is that so~ I'll make you drink even more[r]
-semen~. Ren~"[pcms]
+[ns]父[nse]
+「そうかそうか～、も～っとザーメンのませてやるよ～。[r]
+　れん～」[pcms]
 
 *7185|
 [fc]
 [vo_ren s="ren_Z0109"]
-[ns]Ren[nse]
-"Yeah~. So~, Dad and big brother~, I'm all yours~"[pcms]
+[ns]漣[nse]
+「うん～。[r]
+　だから～、お父さんも～お兄ちゃんも～、[r]
+　私だけのものだからね～」[pcms]
 
 *7186|
 [fc]
 [vo_ren s="ren_Z0110"]
-[ns]Ren[nse]
-"My mouth, pussy, and butt hole~, they all belong to you[r]
-two~. You can use them as much as you want~"[pcms]
+[ns]漣[nse]
+「お口も～、マンコも～、おしりの穴も～、[r]
+　二人のモノなんだから～。[r]
+　いくらでも使っていいんだから～」[pcms]
 
 *7187|
 [fc]
 [vo_ren s="ren_Z0111"]
-[ns]Ren[nse]
-"So please~, I beg you!!"[pcms]
+[ns]漣[nse]
+「だから～、おねが～いっ！！」[pcms]
 
 *7188|
 [fc]
-[ns]Father[nse]
-"Aahh~, I don't need anything else if I have a cute daughter[r]
-like this~. Right~, Wataru~"[pcms]
+[ns]父[nse]
+「ああっ～、おれはかわいいむすめがいればなにもいらないよ～。[r]
+　なぁ～、わたる～」[pcms]
 
 *7189|
 [fc]
-[ns]Wataru[nse]
-"Yeah~, as long as I have Ren~"[pcms]
+[ns]航[nse]
+「うんっ～、ボクも漣がいれば～」[pcms]
 
 *7190|
 [fc]
-Huh? Is that right? I feel like there was someone important[r]
-to me.[pcms]
+アレ？[r]
+そうだっけ？[r]
+ボクには、だれかたいせつな子がいたような気がする。[pcms]
 
 *7191|
 [fc]
-Uh~, I thought she was just here a moment ago~? Huh~.[pcms]
+えっと～、さっきまでそこにいたような気がするけど～？[r]
+あれ～。[pcms]
 
 *7192|
 [fc]
-Uh... Yu... Yuu... Yuuho... I can't remember.[pcms]
+えっと……。[r]
+ゆ……ゆ……ゆう……。[r]
+……わからないなぁ～。[pcms]
 
 *7193|
 [fc]
 [vo_ren s="ren_Z0112"]
-[ns]Ren[nse]
-"Big brother~, what's wrong?"[pcms]
+[ns]漣[nse]
+「お兄ちゃ～ん、ど～したのぉ？」[pcms]
 
 *7194|
 [fc]
-[ns]Wataru[nse]
-"Ah? No, well~"[pcms]
+[ns]航[nse]
+「あっ？[r]
+　いやぁ～」[pcms]
 
-[ns]Ren[nse]
-;//「はやくぅ。
-;//　私だけのものになるっていってよ」
+;//;//[ns]漣[nse]
+;//「はやくぅ～。
+;//　私だけのものになるっていってよ～」
 
 *7195|
 [fc]
-"That's okay~ If you can't remember, it doesn't matter."[pcms]
+そうだな～[r]
+おもいだせないんなら、どうでもいいいさ～。[pcms]
 
 *7196|
 [fc]
-[ns]Wataru[nse]
-"Yeah~. After all, Ren is all I need."[pcms]
+[ns]航[nse]
+「うん～。[r]
+　やっぱりボクは～漣だけでいいよ～」[pcms]
 
 *7197|
 [fc]
 [vo_ren s="ren_Z0113"]
-[ns]Ren[nse]
-"Thank you~ big brother! Next time, let me drink lots of[r]
-sperm in my butt~"[pcms]
+[ns]漣[nse]
+「ありがと～お兄ちゃ～ん！[r]
+　スペルマ、次はい～っぱいおしりに飲ませてね～」[pcms]
 
 *7198|
 [fc]
-[ns]Wataru[nse]
-"Aahh~. I'm so happy when Ren says that to me~. Aahh!!"[pcms]
+[ns]航[nse]
+「ああっ～。[r]
+　うれしいなぁ～、漣にそんなにいわれると～。[r]
+　ああっ！！」[pcms]
 
 *7199|
 [fc]
-I pulled out from Ren's pussy and spread her butt open.[pcms]
+ボクは漣のおまんこからモノをぬくと、[r]
+漣のおしりをわりひらいた。[pcms]
 
 *7200|
 [fc]
-Ren's small and smooth butt feels so nice to touch. It's[r]
-cute and feels good, but I wish her butt was bigger.[pcms]
+ちいさくてすべすべした漣のおしりはいいてざわりだ。[r]
+かわいくててざわりがいいけど、[r]
+おしりはもっとおおきいほうがいいなぁ。[pcms]
 
 *7201|
 [fc]
-Like Yuuho's...[pcms]
+ゆうほみたいに……。[pcms]
 
 *7202|
 [fc]
-...Wait, Yuuho... who is that?[pcms]
+……あれっ、ゆうほって……だれだ。[pcms]
 
 *7203|
 [fc]
-I can't remember... Well, it doesn't matter~ I have Ren.[pcms]
+おもいだせない……[r]
+まあ、いいか～[r]
+ボクには漣がいるから。[pcms]
 
 *7204|
 [fc]
 [vo_ren s="ren_Z0114"]
-[ns]Ren[nse]
-"Aaahn, big brother. Dad too~ Fill my mouth, pussy, and butt[r]
-with lots of sperm! Let me drink it all!!"[pcms]
+[ns]漣[nse]
+「ああ～んっ、お兄ちゃ～ん。お父さんも～[r]
+　お口に、あそこに～おしりに～スペルマいっぱ～い！[r]
+　飲ませてぇ！！」[pcms]
 
 ;//父さんはまた漣のくちにつっこもうとしている。
-;//漣はだいすきなセイシがのめるからうれしそうだ。
-;//セイシをのむとゲンキになるし。
+;//漣はだいすきなセイシがのめるからうれしそうだ～。
+;//セイシをのむとゲンキになるし～。
 
 *7205|
 [fc]
-Now, let's quickly put it in Ren's butt hole. I'm looking[r]
-forward to it~! It's pink and pretty, and I bet it'll be[r]
-really tight!![pcms]
+さあ、ボクもはやく漣のおしりのあなにいれよう～。[r]
+たのしみだなぁ～！[r]
+ぴんくできれいだし～きっとすごくしまるぞ～！！[pcms]
 
 *7206|
 [fc]
-Family is great~! This is what family is all about. Aahh,[r]
-it's so nice.[pcms]
+かぞくっていいなぁ～！[r]
+これがかぞくなんだなぁ～。[r]
+ああっ、いいなぁ～。[pcms]
 
 ;//se100・粘液のねちゃつく音
 ;//[se buf=0 storage="se100"]
@@ -983,48 +1050,49 @@ it's so nice.[pcms]
 *7207|
 [fc]
 [vo_ren s="ren_Z0115"]
-[ns]Ren[nse]
-"Aaahn, lots of sperm~~!!"[pcms]
+[ns]漣[nse]
+「ああ～んっ、[r]
+　スペルマいっぱ～い～！！」[pcms]
 
 *7208|
 [fc]
-Ren is overjoyed with our plentiful semen.[pcms]
+漣はぼくたちのたっぷりのせいしにおおよろこびだ～。[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *7209|
 [fc]
-It's so nice... Family really is a wonderful thing.[pcms]
+いいなぁいいなぁ……。[r]
+かぞくってほんとうにいいいもんだなぁ。[pcms]
 
 *7210|
 [fc]
-It's the best feeling ever when we all feel good together.[r]
-This place is like heaven.[pcms]
+みんなでいっしょにきもちよくなれてさいこーだぁ。[r]
+ここはてんごくみたいだぁ～。[pcms]
 
 *7211|
 [fc]
-So that's it~, the bluebird of happiness really was at our[r]
-home.[pcms]
+そうか～、[r]
+しあわせのあおいとりってほんとうにうちにいたんだなぁ～。[pcms]
 
 *7212|
 [fc]
-So that's it~, the place I wanted to go was here all along.[pcms]
+そうか～ぼくがいきたかったばしょはここだったんだ～。[pcms]
 
 *7213|
 [fc]
-Uhihihihihihihihihihihihihihihihihihihihihihihihihihihihihih[r]
-ihihihihihihihihihih[r]
-ihihihihihihihihihihihihihihihihihihihihihihihihihihihi.[pcms]
+うひひひひひひひひひ～。[r]
+あひひひひひひひひひ～。[pcms]
 
 *7214|
 [fc]
-I can't stop laughing with happiness.[pcms]
+しあわせでわらいがとまらないや～。[pcms]
 
 *7215|
 [fc]
-Kukekekekekekekekekekekekekekekekekekekekekekekekekekekekeke[r]
-kekekekekekekekekeke[r]
-kekekekekekekekekekekekekekekekekekekekekekekeke! ...Kukee!![pcms]
+くけけけ～。[r]
+くけけけけけけけけけ～っ！[r]
+……くけぇ！！[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -1037,4 +1105,4 @@ kekekekekekekekekekekekekekekekekekekekekekekeke! ...Kukee!![pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]

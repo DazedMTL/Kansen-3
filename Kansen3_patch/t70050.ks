@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・漣
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//・テキスト分量：2K
 ;//---------------------------------------------------------------
 ;//block:B004
@@ -18,7 +18,7 @@
 
 ;[sysbt_meswin]
 
-;mm イベントHEV047eHEV047p合わせで白ワンピに修正する。　2016/03/28
+;mm イベントHEV047e～HEV047p合わせで白ワンピに修正する。　2016/03/28
 
 ;[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -26,19 +26,19 @@
 *7791|
 [fc]
 [vo_ren s="ren1054"]
-[ns]Ren[nse]
-"Hey... big brother... I want you to..."[pcms]
+[ns]漣[nse]
+「ね……お兄ちゃん……私を……」[pcms]
 
 *7792|
 [fc]
-[ns]Wataru[nse]
-"...Gah! Ren, stop it!"[pcms]
+[ns]航[nse]
+「……っくっ！　漣っ、止めないかっ！」[pcms]
 
 *7793|
 [fc]
-My body, which had been frozen, was suddenly ignited with[r]
-fire. I shook off Ren's hand and raised my own hand, driven[r]
-by emotion, as if to strike her cheek.[pcms]
+凍り付いていたボクの身体に、瞬時に火が入った。[r]
+漣の手を振り払い、ボクは感情のままに手を振り上げた。[r]
+漣の頬目がけて振り下ろそうとして。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -46,22 +46,23 @@ by emotion, as if to strike her cheek.[pcms]
 *7794|
 [fc]
 [vo_ren s="ren1055"]
-[ns]Ren[nse]
-"Big brother...? What's wrong...?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……？　どうしたの……？」[pcms]
 
 *7795|
 [fc]
-[ns]Wataru[nse]
-"...Ugh!!"[pcms]
+[ns]航[nse]
+「……っうっ！！」[pcms]
 
 *7796|
 [fc]
-No good. Ren's eyes aren't sane. She's staring at me with[r]
-vacant eyes.[pcms]
+ダメだ。[r]
+漣の目は正気じゃない。うつろな目でボクを見つめている。[pcms]
 
 *7797|
 [fc]
-The strength drains from my raised hand. Poor Ren...[pcms]
+振り上げた手からへなへなと力が抜けていく。[r]
+漣……可哀想に……。[pcms]
 
 ;//〆EV012
 ;[ChrSetEx layer=5 chbase="ren_e10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -69,31 +70,31 @@ The strength drains from my raised hand. Poor Ren...[pcms]
 
 *7798|
 [fc]
-[ns]Wataru[nse]
-"Ren... you don't have to do that."[pcms]
+[ns]航[nse]
+「漣……そんなこと、しなくていい」[pcms]
 
 *7799|
 [fc]
-I wrapped my raised hand around Ren's body. I hugged her[r]
-tightly.[pcms]
+振り上げた手を漣の身体に回す。[r]
+ボクは漣をぎゅっと抱きしめた。[pcms]
 
 *7800|
 [fc]
-[ns]Wataru[nse]
-"You don't have to do that, because I will never leave you[r]
-alone."[pcms]
+[ns]航[nse]
+「そんなこと、しなくても、ボクは漣をひとりぼっちなんかに[r]
+　絶対しないよ」[pcms]
 
 *7801|
 [fc]
-[ns]Wataru[nse]
-"Forever and ever, from now on, I will live with Ren. Even[r]
-if we leave here, no matter where we go."[pcms]
+[ns]航[nse]
+「ずっと、ずっとこれから先も、漣と一緒に、生きていくから。[r]
+　ここから出ても、どこに行っても」[pcms]
 
 *7802|
 [fc]
-[ns]Wataru[nse]
-"So, Ren. Don't do that. Believe in me, believe in my words,[r]
-Ren."[pcms]
+[ns]航[nse]
+「だから、漣。そんなこと、しないで。[r]
+　ボクを、ボクの言葉を信じて、漣」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_e4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -101,14 +102,15 @@ Ren."[pcms]
 *7803|
 [fc]
 [vo_ren s="ren1056"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 
 *7804|
 [fc]
-[ns]Wataru[nse]
-"Ren. I'll always be with you. I'll be by your side. Hey,[r]
-Ren. You're not alone. I'm here."[pcms]
+[ns]航[nse]
+「漣。いつでも一緒にいるから。漣のそばにボクはいるから。[r]
+　ね、漣。漣はひとりぼっちなんかじゃないよ。[r]
+　ボクがいるよ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_e11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -116,13 +118,13 @@ Ren. You're not alone. I'm here."[pcms]
 *7805|
 [fc]
 [vo_ren s="ren1057"]
-[ns]Ren[nse]
-"...Uh..."[pcms]
+[ns]漣[nse]
+「……っう……」[pcms]
 
 *7806|
 [fc]
-Tears fell from Ren's still vacant eyes, wetting the chest[r]
-of the me who was hugging her.[pcms]
+まだどこかうつろな漣の目から涙が落ちてきた。[r]
+抱きしめるボクの胸を濡らしていく。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_e10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -135,50 +137,50 @@ of the me who was hugging her.[pcms]
 *7807|
 [fc]
 [vo_ren s="ren1058"]
-[ns]Ren[nse]
-"...Uh...uh..."[pcms]
+[ns]漣[nse]
+「……うっ……っ……」[pcms]
 
 *7808|
 [fc]
-The strength continued to drain from Ren's crying body. The[r]
-light weight of her body pressed against me.[pcms]
+泣き続ける漣の身体からどんどん力が抜けてくる。[r]
+漣の身体の軽い重みが、ボクにかかってくる。[pcms]
 
 *7809|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7810|
 [fc]
 [vo_ren s="ren1059"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「…………」[pcms]
 
 *7811|
 [fc]
-Before long, Ren was swallowed up by the whirlpool of sleep[r]
-while crying.[pcms]
+いつしか、泣きながら漣は眠りのうずへ飲まれていった。[pcms]
 
 ;//★_黒背景
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *7812|
 [fc]
-I continued to hold Ren. I will never let her be alone[r]
-again. To ensure she never feels trapped like this again.[pcms]
+ボクは漣を抱きしめ続けた。[r]
+絶対に漣をひとりぼっちなんかにさせない。[r]
+もう二度と、こんな思いに囚われないようにする。[pcms]
 
 *7813|
 [fc]
-Now that our father is gone... Ren and I will live together.[r]
-As brother and sister. If Ren is with me, then I'm not alone[r]
-either.[pcms]
+父さんがいない今……漣とボクは一緒に生きていくんだ。[r]
+兄と妹として。[r]
+漣がいれば、ボクだってひとりぼっちじゃない。[pcms]
 
 *7814|
 [fc]
-We may not be related by blood, but she is my precious[r]
-family. I will live with Ren.[pcms]
+血はつながってないけど、ボクの大事な肉親。[r]
+漣と一緒に生きていくんだ。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

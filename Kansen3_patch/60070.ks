@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：;//〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：5k前後
@@ -29,8 +29,7 @@
 
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]緒織とセックスした[endlink]
-(link target=*scene_selend)I haven't had sex with[r]
-Inori(endlink)[pcms]
+;	[link target=*scene_selend]緒織とセックスしていない[endlink][s]
 
 	[call storage="_scene_sel.ks" target=*scene_sel_iori]
 
@@ -57,47 +56,46 @@ Inori(endlink)[pcms]
 *299|
 [fc]
 [vo_yuh s="yuho_YK0042"]
-[ns]Yuuho[nse]
-"...Are you, going somewhere...? You can't...okay...?"[pcms]
+[ns]悠帆[nse]
+「……どっか、行く、のぉ……？　ダメ、だよぉ……？」[pcms]
 
 *300|
 [fc]
-Suddenly, strength returned to Yuuho's hand.[pcms]
+突然、悠帆の手に力が戻った。[pcms]
 
 *301|
 [fc]
 [vo_yuh s="yuho_YK0043"]
-[ns]Yuuho[nse]
-"After all...we're about to do something nice, right...? You[r]
-can't run away...okay...?"[pcms]
+[ns]悠帆[nse]
+「せっかく……いいコト、するんだ、よぉ……？[r]
+　逃げ、ちゃ、だ、め……ぇ……」[pcms]
 
 *302|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuuho..."[pcms]
+[ns]航[nse]
+「ゆ、うほ……」[pcms]
 
 *303|
 [fc]
-It seems it was too late...[pcms]
+どうやら、遅すぎたようだ……。[pcms]
 
 *304|
 [fc]
-Once again, I could feel the strength building up inside[r]
-Yuuho.[pcms]
+再び、悠帆の内側で力が強まっていくのを感じる。[pcms]
 
 *305|
 [fc]
-Without a moment to blame my indecisiveness, Yuuho presses[r]
-on.[pcms]
+優柔不断な己を責める間もなく、悠帆が迫る。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e18"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *306|
 [fc]
 [vo_yuh s="yuho_YK0044"]
-[ns]Yuuho[nse]
-"Being alone...is lonely...right...? I can't be[r]
-satisfied...okay...? ...So, let's be together, okay...?"[pcms]
+[ns]悠帆[nse]
+「ひとり……は……寂しい、よ……？[r]
+　満足……できない、よぉぉ……？[r]
+　…………だからぁぁ…………一緒に、ね……？」[pcms]
 
 ;//〆：ラベル　60070 合流
 ;mm この合流ラベルは使わない
@@ -108,49 +106,52 @@ satisfied...okay...? ...So, let's be together, okay...?"[pcms]
 *307|
 [fc]
 [vo_yuh s="yuho_YK0045"]
-[ns]Yuuho[nse]
-"W-Wataru... you like me, don't you? Always, always... you[r]
-were looking at my body, weren't you? I'll show you... my[r]
-naughty places..."[pcms]
+[ns]悠帆[nse]
+「わ、たる……、わたしの、こと……好き、でしょぉ？[r]
+　いっつもいっつも……、わたしの身体……見てた、でしょぉ？[r]
+　見せて、あげ、る……、わたしの、エッチなトコ……」[pcms]
 
 *308|
 [fc]
-[ns]Wataru[nse]
-"U-uhh... Y-Yuuho...! Th-that's...!"[pcms]
+[ns]航[nse]
+「う……うう……っ。[r]
+　ゆ…悠帆……！[r]
+　そ……それはっ……！」[pcms]
 
 *309|
 [fc]
-Yuuho's cheeks are dyed red, and she's breathing heavily...[pcms]
+頬を紅く染め、息を荒げている悠帆……。[pcms]
 
 *310|
 [fc]
-Despite thinking it's frightening, I can't take my eyes off[r]
-her incredibly lewd appearance.[pcms]
+恐ろしいと思いつつも[r]
+そのあまりに淫靡な様子に、目が離せない。[pcms]
 
 *311|
 [fc]
-Yuuho chuckles at my flustered state.[pcms]
+しどろもどろするボクの姿が可笑しいのか、[r]
+悠帆はクスクスと笑う。[pcms]
 
 *312|
 [fc]
 [vo_yuh s="yuho_YK0046"]
-[ns]Yuuho[nse]
-"...Wataru... you're so cute... Look, here... you can touch[r]
-it...? It's special because it's you, okay...?"[pcms]
+[ns]悠帆[nse]
+「……わた、る……、可愛いねぇぇ……。[r]
+　ほらぁぁ、ココ……、触って、いいよ……？[r]
+　わたる、だから……トクベツ、だよぉぉ……？」[pcms]
 
 *313|
 [fc]
-With that, Yuuho took my hand and guided it to her crotch.[pcms]
+そう言うと、悠帆は自分の手を取り、股間へと導いた。[pcms]
 
 *314|
 [fc]
-And then she let me touch her mound over her spats.[pcms]
+そして、スパッツの上から恥丘を触らせる。[pcms]
 
 *315|
 [fc]
-She moved my hand slowly as if searching for something. I[r]
-could feel the warmth of Yuuho's body, my childhood[r]
-friend... and the heat of my own feelings for her.[pcms]
+ゆっくりとその手を動かし、何かを探らせているかのようだ。[r]
+悠帆の、幼馴染の体温……熱い自分への感情を感じる。[pcms]
 
 ;//〆ＨＥＶ０４８
 ;//Ｂ：航に、スパッツの上からクリトリスを擦らせる
@@ -160,121 +161,126 @@ friend... and the heat of my own feelings for her.[pcms]
 *316|
 [fc]
 [vo_yuh s="yuho_YK0047"]
-[ns]Yuuho[nse]
-"Mmmnnn... a little higher... there... where it's poking[r]
-out... mmm, ahhhnn! There... that spot...!"[pcms]
+[ns]悠帆[nse]
+「ふぅぅんん……、も、すこし、上……ぇ……、[r]
+　ソコの……ポチッってなってる、トコぉぉ……、[r]
+　……んっ、はああぁあぁんっ！　そ、ソコ……ぉ……っ！」[pcms]
 
 *317|
 [fc]
 [vo_yuh s="yuho_YK0048"]
-[ns]Yuuho[nse]
-"You can touch it, okay...? Because it's you, Wataru... ah,[r]
-mmm... it feels good... it feels so good, okay...?"[pcms]
+[ns]悠帆[nse]
+「さわって、いいよぉぉ……？　わたる、だから……ぁ、[r]
+　んっ……はあぁぁ……、いっ、いい……っ、[r]
+　気持ちいいいぃぃぃぃ、よぉぉ……っ？」[pcms]
 
 *318|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuuho... such things..."[pcms]
+[ns]航[nse]
+「ゆ…悠帆っ……そ、そんな……[r]
+　そんな……事……っ！」[pcms]
 
 *319|
 [fc]
-However, before I knew it, my fingers were moving on their[r]
-own. They searched for Yuuho's hot genitals and felt the[r]
-sensation of her sticky fluids. And finally, they found the[r]
-sensitive bud.[pcms]
+しかし、知らないうちに指は勝手に動いてしまう。[r]
+悠帆の、熱い秘部を探り、じっとりとした粘液の感触を感じる。[r]
+そして、ついに敏感な突起を探り当てた。[pcms]
 
 *320|
 [fc]
-*Squish* *Squelch*![pcms]
+チュクッ……チュプ……ッ！[pcms]
 
 *321|
 [fc]
 [vo_yuh s="yuho_YK0049"]
-[ns]Yuuho[nse]
-"Hiiii, mmm...! W-Wataru...! Your fingers are so gentle...[r]
-ahhhh, my hips are moving on their own...!"[pcms]
+[ns]悠帆[nse]
+「ひぅぅぅぅ、んん……っ！　わ、たる……ぅぅ！[r]
+　わたるの、指ぃぃ……っ、すごく……やさしい……っ、[r]
+　ぁぁあああぁぁ、腰がぁあぁぁ、動いちゃうぅぅ……っ！」[pcms]
 
 *322|
 [fc]
-Yuuho writhes and shakes her hips.[pcms]
+ガクガクと腰を動かし、悶える悠帆。[pcms]
 
 *323|
 [fc]
-My fingers move more and more intensely, attacking Yuuho as[r]
-if they have a mind of their own.[pcms]
+指は、どんどんと激しく動き、[r]
+自分の意思とは関係ないかのように悠帆を攻める。[pcms]
 
 *324|
 [fc]
-Rubbing her flesh walls and pinching her clitoris. Yuuho's[r]
-overflowing love juices numb my hand and mind...[pcms]
+肉壁を擦り、クリトリスを摘む。[r]
+あふれ出た悠帆の愛液が、手を、頭を麻痺させて行く……。[pcms]
 
 *325|
 [fc]
 [vo_yuh s="yuho_YK0050"]
-[ns]Yuuho[nse]
-"Nhaaaa, hihiiii...! I'm melting! I-I can't take it[r]
-anymore... nnh, nhiinn!"[pcms]
+[ns]悠帆[nse]
+「んはぁぁぁ、はひぃぃ……っ！　とろけ、ちゃうぅぅ！[r]
+　も、もう……、わ、わたしの……んんっ、んひぃぃん！？」[pcms]
 
 ;//Ｃ：Ｂの行為で絶頂を迎える悠帆
 
 *326|
 [fc]
 [vo_yuh s="yuho_YK0051"]
-[ns]Yuuho[nse]
-"Nnnnhiiiiiiiaaaaahhhhh! Ahh, hihh...!? Ahhhuhhuhh, it's[r]
-overflowing! Hihiiii!?"[pcms]
+[ns]悠帆[nse]
+「んんんひいぃぃぃぃぃああぁぁぁぁっ！[r]
+　あひっ、ひっ……！？[r]
+　ああぅぅぁあぅ、あふれて、くる、ぅぅ！！　はひぃぃっ！？」[pcms]
 
 *327|
 [fc]
 [vo_yuh s="yuho_YK0052"]
-[ns]Yuuho[nse]
-"W-Wataru's... Wataru is making meee! Kahiiiiihh, hihh,[r]
-nhiuhhuhh, gufuhhh!!"[pcms]
+[ns]悠帆[nse]
+「わ、たるの……っ、わた、る……が、わたしをぉぉぉ！[r]
+　かひぃぃぃっ、ひっ、んひぅぅふぅぅ、ぐふぅぅ！！」[pcms]
 
 *328|
 [fc]
 [vo_yuh s="yuho_YK0053"]
-[ns]Yuuho[nse]
-"...Hii, haaahh... haaahhhh..."[pcms]
+[ns]悠帆[nse]
+「……ひぃ、はぁ……っ、はあぁぁぁ……」[pcms]
 
 *329|
 [fc]
-It seems Yuuho has reached her climax all too quickly.[pcms]
+悠帆は、あっけなく頂点に達してしまったようだ。[pcms]
 
 *330|
 [fc]
-She takes deep breaths and looks at me with an ecstatic[r]
-expression.[pcms]
+大きく息をつき、恍惚とした表情で自分を見ている。[pcms]
 
 *331|
 [fc]
-[ns]Wataru[nse]
-"Haaahh... haaahh...! This is just...! Y-Yuuho...!"[pcms]
+[ns]航[nse]
+「はぁ……っ、はぁぁ……！[r]
+　こ、こんなのって……！[r]
+　ゆ、悠帆っ……！」[pcms]
 
 *332|
 [fc]
-I look at my trembling fingertips. They are wet and shiny[r]
-with the love juices of my childhood friend and slippery to[r]
-the touch.[pcms]
+震える指先を見る。[r]
+そこは、幼馴染の愛液でぬらりと光り、ぬるぬると滑っている。[pcms]
 
 *333|
 [fc]
-Suddenly, Yuuho takes my hand and starts licking my fingers.[pcms]
+不意に、その手を悠帆が取って、指を舐め始めた。[pcms]
 
 *334|
 [fc]
-*Lick* *Slurp*...[pcms]
+ペロッ……チュルッ……。[pcms]
 
 *335|
 [fc]
-[ns]Wataru[nse]
-"Uuhh...! Y-Yuuho...? What are you doing!?"[pcms]
+[ns]航[nse]
+「ううっ…！？　ゆ、悠帆……？[r]
+　な、何をっ！？」[pcms]
 
 *336|
 [fc]
 [vo_yuh s="yuho_YK0054"]
-[ns]Yuuho[nse]
-"...Next is your turn, Wataru..."[pcms]
+[ns]悠帆[nse]
+「……次は……わたる、の、番……だよぉ？」[pcms]
 
 ;mm いちいち片方みてチェックするのめんどうから条件分岐廃止。回想では片方しかみてなくても選択肢で分岐させる。
 
@@ -296,7 +302,7 @@ Suddenly, Yuuho takes my hand and starts licking my fingers.[pcms]
 ;	[link storage="60090.ks" target=*sce39_1]緒織とセックスしていない[endlink]
 ;	;//▼選択肢2
 ;	[link storage="60100.ks" target=*sce39_2]緒織とセックスしている[endlink]
-[pcms]
+;	[s]
 
 ;//---------------------------------------------------------------
 *sce39_sel02

@@ -1,10 +1,10 @@
 ;//block:A013
-;//ブロック４０１２０『地下道全員脱出編　中』pt.5
+;//ブロック４０１２０『地下道～全員脱出編～　中』pt.5
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40110.txtから
 
 *40120_TOP
-;{SceneSet 地下道全員脱出編中}
+;{SceneSet 地下道～全員脱出編～中}
 ;//---------------------------------------------------------------
 ;//背景：永田町
 ;//感染者（集団）・軍隊の歩兵・女性リポーター・カメラマン
@@ -62,557 +62,549 @@
 
 *802|
 [fc]
-Even though it's evening, the August sun still shines nearly[r]
-vertically down on the earth. That is something that never[r]
-changes, no matter the circumstances.[pcms]
+夕方とはいえ、８月の太陽は未だ垂直に近い位置で大地を照らす。[r]
+それは、いかなる状態においても変わることはない。[pcms]
 
 *803|
 [fc]
-What's different from usual is, yes. The atmosphere of this[r]
-town.[pcms]
+いつもと異なるのは、そう。[r]
+この街の様子である。[pcms]
 
 *804|
 [fc]
-In this area, at this time of day, "normally" there would be[r]
-few people around, with only black cars used to escort[r]
-important national figures and luxury hired cars parked by[r]
-the roadside being noticeable.[pcms]
+この一帯、この時間帯は、『平常時』ならば人影もまばらになり、[r]
+国家の重要人物を送迎する黒塗りの車や、高級そうなハイヤーが[r]
+道路脇に停車されているのが確認できる程度である。[pcms]
 
 *805|
 [fc]
-However, today is completely different. The region, which[r]
-should be quiet at this hour, echoes with the screams of men[r]
-and women and the presence of ominous figures.[pcms]
+しかし、今日はまるで様子が違う。[r]
+静閑であるはずの時間帯のこの地域に響き渡る、[r]
+男女の叫び声と、物騒な人影。[pcms]
 
 *806|
 [fc]
-Amidst the loud noise of heavy diesel engines, barricades of[r]
-spiraling barbed wire are being laid out, and behind them[r]
-stands an army in full gear.[pcms]
+重量感のあるディーゼルエンジンの音がけたたましく鳴り響く中[r]
+螺旋を描く有刺鉄線のバリケードを敷設し[r]
+その後方に陣取るのは、完全装備に身を包む軍隊。[pcms]
 
 *807|
 [fc]
-With beautiful precision, not a single person out of line,[r]
-they aim their horizontally held guns at "something."[pcms]
+美しいまでの精密さで誰一人乱れることなく整列し[r]
+水平に向けた銃口を『何か』に対し狙いを定めている。[pcms]
 
 *808|
 [fc]
-Dozens of men in suits run towards those gun barrels,[r]
-screaming as they approach.[pcms]
+数十人のスーツ姿の男性が、その銃口めがけ、[r]
+悲鳴を上げながら駆け寄ってくる。[pcms]
 
 *809|
 [fc]
-The armed men do not flinch or fire at these men in suits.[pcms]
+銃を構えた彼らは、その男達に対しては微動だにせず、[r]
+発砲することはなかった。[pcms]
 
 *810|
 [fc]
-Yes, what they are looking at through their sights is not[r]
-the men in suits, but rather the abnormal group creeping up[r]
-from behind--[pcms]
+そう、彼らが照星越しに見ているのはスーツ姿の男達ではなく、[r]
+その背後からにじり寄る、異常な集団――[pcms]
 
 *811|
 [fc]
-"A mob of rioters"[pcms]
+『暴徒の群れ』[pcms]
 
 *812|
 [fc]
-They are aiming solely at that, nothing else.[pcms]
+ただそれだけに対して、狙いを定めている。[pcms]
 
 *813|
 [fc]
-The dangerous group and the fleeing people. And then,[r]
-there's another type of person present in this place.[pcms]
+物騒な集団と、逃げ惑う人々。[r]
+そして、この場にはまた別のタイプの人間が存在していた。[pcms]
 
 *814|
 [fc]
-"Mass Communication" That's what this breed of people is[r]
-called.[pcms]
+『マス・コミュニケーション』[r]
+そう呼ばれる人種である。[pcms]
 
 *815|
 [fc]
-The military, the panicked people, the media. In addition to[r]
-these, a crowd of abnormal people.[pcms]
+軍隊、逃げ惑う人々、マスコミ。[r]
+これらに加えて、異常な人々の群れ。[pcms]
 
 *816|
 [fc]
-These four groups are the cause of making this time in this[r]
-city different from usual.[pcms]
+この４つの集団が、この街のこの時間帯を、[r]
+いつもと違う物にする原因となっていた。[pcms]
 
 *817|
 [fc]
-As each group heightens its tension, there was movement in[r]
-the armed formation.[pcms]
+それぞれがそれぞれに緊張感を高める中、[r]
+武装した隊列に、動きがあった。[pcms]
 
 *818|
 [fc]
-In response to that movement, a change occurred among the[r]
-group of "media."[pcms]
+その動きに呼応するように、『マスコミ』の集団の中でも[r]
+変化が起きた。[pcms]
 
 *819|
 [fc]
-Among them "media," those who stood out most were the ones[r]
-who started moving forward.[pcms]
+彼ら『マスコミ』の中でも最も前に乗り出し、一際目立つ者達。[pcms]
 
 *820|
 [fc]
-A few of them were different from other media groups; they[r]
-began to act in small numbers.[pcms]
+その数名は、他マスコミの団体とは異なり、[r]
+少数で行動を開始した。[pcms]
 
 *821|
 [fc]
 [vo_mob s="repo0001"]
-[ns]Female Reporter[nse]
-I've never seen anything like this before...! What's with[r]
-that crowd and the Self-Defense Forces? To be able to report[r]
-on a scene like this... it's a guaranteed award! Wait... is[r]
-the camera rolling!? You should have told me sooner!![pcms]
+[ns]女性レポーター[nse]
+「こ、こんなの初めて見たよ……！　何よ、あの群衆と、自衛隊？[r]
+　こんな光景をリポートできるなんて……受賞確定だよ！[r]
+　って……カメラ回ってんの！？　先に言ってよ！！」[pcms]
 
 *822|
 [fc]
-[ns]Cameraman[nse]
-Because you keep moving forward...[pcms]
+[ns]カメラマン[nse]
+「だって、お前がどんどん前に行くから……」[pcms]
 
 *823|
 [fc]
-[ns]Cameraman[nse]
-Besides, it's my job to roll the camera so it can't be[r]
-helped! Anything could happen at any time...[pcms]
+[ns]カメラマン[nse]
+「それに、俺は[ruby text="コイツ"][ch text="カメラ"]を回すのが仕事なんだから[r]
+　仕方ないだろ！[r]
+　いつ何が起きてもおかしくないんだから……」[pcms]
 
 *824|
 [fc]
-Contrary to the female reporter holding the microphone, the[r]
-male holding the camera was hesitant.[pcms]
+マイクを持った女性レポーターと対照的に、[r]
+カメラを持った男性は及び腰だった。[pcms]
 
 *825|
 [fc]
-The female reporter, perhaps frustrated by this, raised her[r]
-voice and yelled at the cameraman.[pcms]
+女性レポーターは、その様子に苛立ちを覚えたのか、[r]
+声を荒げて、カメラマンに怒鳴り散らす。[pcms]
 
 *826|
 [fc]
 [vo_mob s="repo0002"]
-[ns]Female Reporter[nse]
-What's with that scaredy-cat attitude! Coward! Are you[r]
-thinking of running away? A big event like this isn't[r]
-something that freelancers like us can capture so easily,[r]
-you know!?[pcms]
+[ns]女性レポーター[nse]
+「何そのへっぴり腰！　ヘタレ野郎！　逃げようとか思ってんの？[r]
+　こんな大事件の絵なんて、アタシ達みたいなフリーが、[r]
+　そうそう収められるモンじゃないんだよ！？」[pcms]
 
 *827|
 [fc]
-The few who had started moving did not wear anything like[r]
-"armbands" that would indicate which broadcasting station or[r]
-publishing company they belonged to.[pcms]
+動き出した数名は、それぞれの所属する放送局、[r]
+或いは出版社を指し示す『腕章』の様な物は持っていなかった。[pcms]
 
 *828|
 [fc]
-They were what you call freelance media.[pcms]
+所謂、フリーランスのマスコミである。[pcms]
 
 *829|
 [fc]
-They were burning with ambition.[pcms]
+彼らは、野望に燃えていた。[pcms]
 
 *830|
 [fc]
-"To scoop this historic moment as quickly as possible"[pcms]
+『この歴史的瞬間を、もっとも早くスクープする』[pcms]
 
 *831|
 [fc]
-Although somewhat disrespectful, for them, this current[r]
-situation was an excellent opportunity to sell themselves.[pcms]
+いささか不謹慎ではあるものの、彼らにとって今のこの状況は、[r]
+自らを売り込む絶好の機会でもある。[pcms]
 
 *832|
 [fc]
 [vo_mob s="repo0003"]
-[ns]Female Reporter[nse]
-Such a major incident... in the political heart of this[r]
-country...! A scene where "rioters" and "military" clash...[r]
-This footage will definitely sell overseas too![pcms]
+[ns]女性レポーター[nse]
+「こんな大事件……この国の、政治的な中枢で……！[r]
+　『暴徒』と『軍隊』が衝突する光景なんて……。[r]
+　この絵、絶対海外でも売れるよ！」[pcms]
 
 *833|
 [fc]
 [vo_mob s="repo0004"]
-[ns]Female Reporter[nse]
-The other commercial broadcasters seem too scared to[r]
-move... If we secure "that place" now, we'll have the best[r]
-footage all to ourselves! Let's go! Hurry!![pcms]
+[ns]女性レポーター[nse]
+「他の民放とかの連中、ビビッて動けないみたいだから……、[r]
+　今私達が、『あの場所』抑えちゃえばさ、[r]
+　一番良い絵、私ら独占だよ！　行くよ！　早く！！」[pcms]
 
 *834|
 [fc]
-The female reporter pointed at "that place" with an urgency[r]
-as if she was about to bite the cameraman, and rattled on.[pcms]
+女性レポーターは、カメラマンに噛みつかんばかりの勢いで、[r]
+『あの場所』を指さし、まくし立てる。[pcms]
 
 *835|
 [fc]
-"That place" is right in the middle between the group called[r]
-rioters and the formation aiming at them, behind an[r]
-overturned car.[pcms]
+『あの場所』とは、暴徒と呼ばれている集団と、[r]
+それに狙いを定める隊列のちょうど中間に位置する、[r]
+横転した車の陰。[pcms]
 
 *836|
 [fc]
-Whether someone set it on fire or not, that car was making a[r]
-roaring noise and radiating a huge amount of heat around it.[pcms]
+何者かに火を放たれたのか、その車は轟々と音を立て、[r]
+周囲に巨大な熱量を放射している。[pcms]
 
 *837|
 [fc]
-[ns]Cameraman[nse]
-You say that but it's insanely dangerous! Over there...[r]
-*cough* *cough cough*!! Damn it! Ever since coming to Tokyo[r]
-my cough hasn't stopped...! *cough*[pcms]
+[ns]カメラマン[nse]
+「そうは言うけどさ！　滅茶苦茶危ないじゃないか！[r]
+　あんな所……ゲホッ……ゲホゲホッ！！　クソッ！[r]
+　[ruby text="こっち"][ch text="東京"]来てから咳も止まらねーし……！　ゲホッ」[pcms]
 
 *838|
 [fc]
 [vo_mob s="repo0005"]
-[ns]Female Reporter[nse]
-Stop making excuses all the time! Let's go quickly, you[r]
-coward![pcms]
+[ns]女性レポーター[nse]
+「そんな言い訳ばっかりして！[r]
+　さっさと行くよこのヘタレ！」[pcms]
 
 *839|
 [fc]
-Though it's unclear who is the male in this duo, perhaps[r]
-because he was scolded by the woman, the male cameraman[r]
-angrily stood up and pointed his camera towards "that[r]
-place."[pcms]
+まるでどちらが男性か分からない二人組だが、[r]
+女性に罵られたせいか、男性カメラマンは怒ったように、[r]
+立ち上がり、『あの場所』へと、カメラを向けた。[pcms]
 
 *840|
 [fc]
 [vo_mob s="repo0006"]
-[ns]Female Reporter[nse]
-Finally got motivated, huh? Then let's go! I'll report[r]
-while we walk! Don't you dare run away halfway through![pcms]
+[ns]女性レポーター[nse]
+「やっとやる気になったね。じゃあ、行くよ！[r]
+　歩きながらレポートする！[r]
+　途中で逃げるんじゃないよ！？」[pcms]
 
 *841|
 [fc]
-[ns]Cameraman[nse]
-Tch... I get it! Let's go then! But if it gets dangerous,[r]
-*cough*! I'll only look out for myself! Take care of your[r]
-own safety![pcms]
+[ns]カメラマン[nse]
+「チッ……わかってるよ！[r]
+　じゃあ、行くぞ！　だけど……危なくなったら、ゲホッ！[r]
+　俺は自分だけ守るからな！　自分の身は自分で守れよ！」[pcms]
 
 *842|
 [fc]
-As carefully as possible. As inconspicuously as possible.[pcms]
+できるだけ慎重に。[r]
+できるだけ、目立たぬよう。[pcms]
 
 *843|
 [fc]
-The reporter and cameraman, along with other crews, stepped[r]
-towards "that place."[pcms]
+レポーターとカメラマンと、他クルーは『あの場所』へと[r]
+足を踏み出した。[pcms]
 
 *844|
 [fc]
 [vo_mob s="repo0007"]
-[ns]Female Reporter[nse]
-...Check, mic check... Can everyone see this!? I will[r]
-report on the riots that suddenly erupted a few days ago![pcms]
+[ns]女性レポーター[nse]
+「……チェック、マイク・チェック……。[r]
+　皆様、ごらん頂けておりますでしょうか！？[r]
+　先日から突然発生した暴動の様子をお伝えします！」[pcms]
 
 *845|
 [fc]
 [vo_mob s="repo0008"]
-[ns]Female Reporter[nse]
-The wave of rioters that quickly flooded all over Tokyo has[r]
-finally reached here in Nagata Town! It's dangerous but we[r]
-will report in detail![pcms]
+[ns]女性レポーター[nse]
+「瞬く間に東京全土にあふれた暴徒の波は、ついに……ここ、[r]
+　長田町にまで押し寄せています！　危険では有りますが、[r]
+　私共が詳しくレポートさせていただきます！」[pcms]
 
 *846|
 [fc]
-The reporter took a deep breath and was about to spit out[r]
-her next words.[pcms]
+レポーターは大きく息を吸い込み、[r]
+次の言葉を吐き出そうとした。[pcms]
 
 *847|
 [fc]
-But that was interrupted by another -- a rough male voice[r]
-amplified by a megaphone and cracked with anger.[pcms]
+だが、それは別の――[r]
+男性の乱暴な、拡声器によって割れた怒声によって[r]
+堰き止められてしまう。[pcms]
 
 *848|
 [fc]
-[ns]Self-Defense Force Member A[nse]
-Aim! Target distance 200![pcms]
+[ns]自衛隊員Ａ[nse]
+「構え！　目標まで距離２００！」[pcms]
 
 *849|
 [fc]
-[ns]Self-Defense Force Member A[nse]
-If they approach within 150... permission to fire is[r]
-granted! Suppress everything... Do not let them advance one[r]
-step beyond this point![pcms]
+[ns]自衛隊員Ａ[nse]
+「１５０まで接近した場合……、発砲を許可する！[r]
+　全てを……制圧せよ！[r]
+　この場所から先に、あいつらを一歩も進ませるな！」[pcms]
 
 *850|
 [fc]
-"Permission to fire"[pcms]
+『発砲を許可する』[pcms]
 
 *851|
 [fc]
-That dangerous phrase, almost unheard of in this country.[r]
-Those words seemed to stop the hands of time in this place[r]
-for just a brief moment.[pcms]
+その物騒な、ことこの国ではまず聞くことのない台詞。[r]
+その言葉は、この場の時計の針をごく僅かな時間[r]
+停止させたかのようだった。[pcms]
 
 *852|
 [fc]
-Those specific individuals, yes... the movements of everyone[r]
-except the "rioters" were completely halted.[pcms]
+特定の者達、そう……『暴徒』達以外の動きを、[r]
+全て停止させた。[pcms]
 
 *853|
 [fc]
-In the midst of this, the only ones who could move were not[r]
-the military personnel but two freelance reporters.[pcms]
+そんな中で身体を動かすことができたのは、[r]
+軍隊の隊員ではなくレポーター、特にフリーの二人であった。[pcms]
 
 *854|
 [fc]
 [vo_mob s="repo0009"]
-[ns]Female Reporter[nse]
-Permission to fire!? In a place like this...!?[r]
-Impossible... that's just impossible!! Such a thing in this[r]
-country...[pcms]
+[ns]女性レポーター[nse]
+「は、発砲許可！？　こんな場所で……！？[r]
+　ありえない……そんなのあり得ないよ！！[r]
+　この国でそんなこと……」[pcms]
 
 *855|
 [fc]
 [vo_mob s="repo0010"]
-[ns]Female Reporter[nse]
-No, wait... once before... four years ago it happened...![r]
-Yes, just like that time with the Tohoku infected[r]
-victims...! Everyone, this might possibly be--[pcms]
+[ns]女性レポーター[nse]
+「い、いや……前に一度……４年前にあった……！[r]
+　そう、あの時の……東北感染者被害と同じ……！？[r]
+　皆様、これはひょっとすると――」[pcms]
 
 *856|
 [fc]
 [vo_mob s="repo0011"]
-[ns]Female Reporter[nse]
-Those who appear to be rioters... they might possibly be[r]
-people afflicted with "UNKNOWN-LV4"![pcms]
+[ns]女性レポーター[nse]
+「暴徒と見られる人達は……[r]
+　ひょっとすると『UNKNOWN-LV4』に[r]
+　冒された人々かもしれません！」[pcms]
 
 *857|
 [fc]
 [vo_mob s="repo0012"]
-[ns]Female Reporter[nse]
-There were rumors that the Self-Defense Forces were given[r]
-permission to fire at the infected during the incident four[r]
-years ago. Records indicate that the situation was similar[r]
-to what we're seeing here now.[pcms]
+[ns]女性レポーター[nse]
+「４年前の事件の際、自衛隊が感染者に対し発砲許可を[r]
+　行ったという噂がありました。その際も、今この場と[r]
+　同様の状況だったという記録があります」[pcms]
 
 *858|
 [fc]
 [vo_mob s="repo0013"]
-[ns]Female Reporter[nse]
-Just moments ago, I received information that a virus very[r]
-similar to UNKNOWN- LV4 might have emerged. Perhaps these[r]
-individuals are afflicted by that virus.[pcms]
+[ns]女性レポーター[nse]
+「つい先ほど、UNKNOWN-LV4によく似たウィルスが発生しているの[r]
+　ではないかとの情報が私の手元にも入ってきています。ひょっと[r]
+　して、彼らはそのウィルスに冒された人々かもしれません」[pcms]
 
 *859|
 [fc]
 [vo_mob s="repo0014"]
-[ns]Female Reporter[nse]
-But... UNKNOWN-LV4 was supposed to have been suppressed[r]
-with a declaration! That means, whether those people are[r]
-infected or truly rioters... I cannot determine the[r]
-situation.[pcms]
+[ns]女性レポーター[nse]
+「ですが……UNKNOWN-LV4は、鎮圧宣言が出されたはず[r]
+　です！　と言うことは、あの人々は感染者なのか、それとも[r]
+　本当に暴徒なのか……私には判断できない状態です」[pcms]
 
 *860|
 [fc]
 [vo_mob s="repo0015"]
-[ns]Female Reporter[nse]
-However, is such a state of affairs permissible!? They are[r]
-human beings. To fire upon them, to shoot real bullets... is[r]
-that really allowed!?[pcms]
+[ns]女性レポーター[nse]
+「しかし、このような状態が許されるのでしょうか！？[r]
+　彼らは、人間です。その彼らに対し、発砲……、[r]
+　実弾の発砲など、許されるのでしょうか！？」[pcms]
 
 *861|
 [fc]
-The female reporter, facing the camera, ranted desperately.[r]
-Her voice seemed to prompt a similar reaction from the men[r]
-holding guns.[pcms]
+カメラに向かい、必死の形相でまくし立てる女性レポーター。[r]
+その声は銃を構える男達の同様を誘った。[pcms]
 
 *862|
 [fc]
-The previously level guns began to waver in height[r]
-inconsistently.[pcms]
+それまで水平に保たれていた銃の高さが不揃いになっていく。[pcms]
 
 *863|
 [fc]
-The female reporter had no intention whatsoever of stopping[r]
-their actions.[pcms]
+女性レポーターは、特に彼らの行動を止めよう等という気は[r]
+毛頭なかった。[pcms]
 
 *864|
 [fc]
-But perhaps it was the blood of a journalist stirring within[r]
-her. Still, she continued with words that seemed to dampen[r]
-the spirits of the soldiers present.[pcms]
+しかし、ジャーナリストの血が騒ぐのか。[r]
+それでもなお、その場にいる軍人達の感情を[r]
+萎えさせるような言葉を続ける。[pcms]
 
 *865|
 [fc]
 [vo_mob s="repo0016"]
-[ns]Female Reporter[nse]
-Their purpose has yet to be grasped, but they may be acting[r]
-out against recent economic conditions or political[r]
-corruption. To suppress them with military force...[pcms]
+[ns]女性レポーター[nse]
+「彼らの目的は、未だ掴めておりませんが、昨今の経済状況や、[r]
+　政治腐敗に対する行動を行っているのかもしれません。[r]
+　それを、武力で鎮圧するなど……」[pcms]
 
 *866|
 [fc]
-Once again, the voice of the female reporter was interrupted[r]
-by the amplified voice from a megaphone, now even louder and[r]
-more forceful than before.[pcms]
+再び、女性レポーターの声は拡声器の声によって妨げられる。[r]
+その言葉は、先ほどよりも更に更に大きく、強い口調だ。[pcms]
 
 *867|
 [fc]
-[ns]Self-Defense Force Member A[nse]
-Distance 160! Everyone, move to firing positions! Don't let[r]
-a single one escape! Until orders are given..., do not break[r]
-firing stance![pcms]
+[ns]自衛隊員Ａ[nse]
+「距離１６０！　全員、射撃体勢に移行！[r]
+　『一体も』撃ち漏らすな！　命令あるまで……、[r]
+　射撃姿勢を絶対に崩すな！」[pcms]
 
 *868|
 [fc]
-However, contrary to the strong tone, the response from the[r]
-troops was weak.[pcms]
+しかし、強い口調とはうらはらに、隊員達の反応は弱い。[pcms]
 
 *869|
 [fc]
-Whether they were frightened by the rioters who were slowly[r]
-creeping closer with strange groans or hesitated to fire[r]
-upon "people"...[pcms]
+じりじりと、奇妙なうなり声を上げにじり寄る暴徒達に怯えたのか[r]
+それとも『人』に対しての発砲をためらったのか……。[pcms]
 
 *870|
 [fc]
-Sensing their demeanor, a third command echoed.[pcms]
+その様子を察し、三度目の号令が響き渡る。[pcms]
 
 *871|
 [fc]
-[ns]Self-Defense Force Member A[nse]
-Take aim!! Remaining distance 5! Firing stance![pcms]
+[ns]自衛隊員Ａ[nse]
+「構え！！　距離残５！　射撃体勢！」[pcms]
 
 *872|
 [fc]
-With the third command, the troops regained their posture.[r]
-As they made metallic sounds while preparing their weapons,[r]
-they aimed their dull gleaming gun barrels at the[r]
-approaching threat.[pcms]
+三度目ともあって、姿勢を取り戻す隊員達。[r]
+金属の触れ合う音を響かせながら、迫り来る驚異に対して、[r]
+鈍く光る銃口を向ける。[pcms]
 
 *873|
 [fc]
-The sound of metal ceased, and only bizarre moaning echoed.[pcms]
+金属の音が止み、異様な呻き声だけが響く。[pcms]
 
 *874|
 [fc]
-A shout tore through the silence.[pcms]
+その静寂を引き裂く怒鳴り声。[pcms]
 
 *875|
 [fc]
-[ns]Self-Defense Force Member A[nse]
-Distance 0! Everyone, begin firing!! Fireeeeeee!!![pcms]
+[ns]自衛隊員Ａ[nse]
+「距離０！　全員、射撃開始！！[r]
+　撃てぇぇぇえぇぇええ！！！」[pcms]
 
 *876|
 [fc]
-Finally, the order to fire upon the "rioters" was given.[pcms]
+ついに、『暴徒』に対しての発砲命令が下された。[pcms]
 
 *877|
 [fc]
-However--[pcms]
+しかし――[pcms]
 
 *878|
 [fc]
-Although their gun barrels were aimed at them, not a single[r]
-one in the line fired.[pcms]
+銃口こそ、彼らに向けてはいるものの、[r]
+横一列に並んだそれは、一つも火を噴くことはなかった。[pcms]
 
 *879|
 [fc]
-It wasn't because of what the female reporter had said[r]
-earlier.[pcms]
+先ほどの女性レポーターの発した言葉のせいではない。[pcms]
 
 *880|
 [fc]
-It was because none of them had any experience firing upon[r]
-"humans."[pcms]
+各々、『人間』に対しての発砲など経験していない為だった。[pcms]
 
 *881|
 [fc]
-Indeed, as the female reporter said, there had been an[r]
-incident four years ago in Tohoku where Self-Defense[r]
-officers fired upon "infected" individuals.[pcms]
+女性レポーターの言うとおり、[r]
+確かに４年前の東北感染者被害の際に、[r]
+自衛官が『感染者』に対し発砲したことがあった。[pcms]
 
 *882|
 [fc]
-But none of those troops were present here by chance.[pcms]
+だが、その時の隊員達は、偶然にも誰一人として、[r]
+この場に参加していなかった。[pcms]
 
 *883|
 [fc]
-That is to say, none of the troops present had any[r]
-experience with firing upon people.[pcms]
+と言うことは、この場に居合わせた隊員達は、[r]
+対人発砲経験など皆無なのだ。[pcms]
 
 *884|
 [fc]
-For them, no matter the orders, no matter if the enemy was[r]
-"infected"...[pcms]
+そんな彼らである。[r]
+いかに命令とはいえ、[r]
+いかに敵が『感染者』であるとはいえ……。[pcms]
 
 *885|
 [fc]
-It was no wonder that not a single one could pull the[r]
-trigger.[pcms]
+誰一人として、引き金を引く事ができないのは無理もない。[pcms]
 
 *886|
 [fc]
-Silence visited once again.[pcms]
+再び訪れる静寂。[pcms]
 
 *887|
 [fc]
-For those who had been watching with bated breath, a turning[r]
-point arrived.[pcms]
+この様子を、固唾を呑んで見守っていた人々に、[r]
+転機が訪れる。[pcms]
 
 *888|
 [fc]
-The crowd of rioters -- no, "infected" -- had approached[r]
-right up to the female reporter and her cameraman colleague[r]
-who had been reporting on this situation until just moments[r]
-ago.[pcms]
+先ほどまでまくし立てるようにこの状況をレポートしていた[r]
+女性レポーターと、その仲間のカメラマンに対し、暴徒が――[r]
+いや、『感染者』の群れが、目と鼻の先まで迫っていた。[pcms]
 
 *889|
 [fc]
-[ns]Cameraman[nse]
-Ugh... uwaahhhhhhh!!! When did they get so closeeee?![pcms]
+[ns]カメラマン[nse]
+「うっ……うわああぁああ！！！！！[r]
+　い、いつの間にいいぃぃっ！！！」[pcms]
 
 *890|
 [fc]
-[ns]Infected Man C[nse]
-Gyah-gyah shut upppppppppp!!! You're so[r]
-annoyingggggggggggggggggg!!![pcms]
+[ns]感染者・男Ｃ[nse]
+「ギャーギャーうるせえええええええぇぇぇぇぇぇぇ！！！[r]
+　テメェうぜえぇえええええええええええええええぇぇ！！」[pcms]
 
 *891|
 [fc]
-[ns]Infected Man D[nse]
-Hyahahahahahahahaha!!!!!! I'm starving here! You're just in[r]
-timeeeee! Don't move from there!!![pcms]
+[ns]感染者・男Ｄ[nse]
+「ひゃはははああははははは！！！！！！[r]
+　腹減ってんだよ俺！　ちょうどいいぜぇぇぇ！？[r]
+　そこ、動くなよ！！！」[pcms]
 
 *892|
 [fc]
 [vo_mob s="onna_kansenC0001"]
-[ns]Infected Woman A[nse]
-Give me your cock, pretty please~![pcms]
+[ns]感染者・女Ａ[nse]
+「おちんぽ、ちょうだ～い！」[pcms]
 
 *893|
 [fc]
-The crowd of men and women drew closer with bizarre cries.[pcms]
+奇声を上げながら迫り寄る男女の群れ。[pcms]
 
 *894|
 [fc]
-Their movements were sluggish, but perhaps because their[r]
-legs gave out from fear, both the cameraman and reporter[r]
-became unable to move from their spot.[pcms]
+彼らの動きは緩慢だったが、カメラマンもレポーターも、[r]
+腰を抜かしてしまったのか、[r]
+その場から動く事ができなくなってしまった。[pcms]
 
 *895|
 [fc]
-"to protect people."[pcms]
+その様は、固まっていた隊員達に『人を守る』という[r]
+ごく単純な行動理由を与えた。[pcms]
 
 *896|
 [fc]
-"Begin firing"[pcms]
+『射撃開始』[pcms]
 
 *897|
 [fc]
-That voice echoed like a game of telephone through the[r]
-woods.[pcms]
+その声が伝言ゲームのように木霊する。[pcms]
 
 *898|
 [fc]
-A four-lane road. Tall buildings towering high.[pcms]
+四車線の道路。[r]
+高くそびえるビル群。[pcms]
 
 *899|
 [fc]
-The words "begin firing" hit all of these and bounced back.[r]
-Soon after, from all directions came those words and a noise[r]
-resembling that of a metalworking factory  a series of[r]
-explosive sounds.[pcms]
+それら全てに『射撃開始』の言葉がぶつかり、跳ね返る。[r]
+やがて四方から聞こえだしたその言葉と、[r]
+金属加工工場のノイズにも似た、連続した破裂音。[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -622,14 +614,16 @@ explosive sounds.[pcms]
 
 *900|
 [fc]
-Although sparse, firing upon the "infected" had begun.[pcms]
+まばらではあるものの、[r]
+『感染者』に対する射撃が開始された。[pcms]
 
 *901|
 [fc]
 [vo_mob s="repo0017"]
-[ns]Female Reporter[nse]
-...finally...! The gunfire has started! This is not a movie[r]
-or drama!![pcms]
+[ns]女性レポーター[nse]
+「……つ、ついに……！[r]
+　ついに、銃撃が開始されました！[r]
+　これは映画やドラマではありません！！」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -643,37 +637,36 @@ or drama!![pcms]
 *902|
 [fc]
 [vo_mob s="repo0018"]
-[ns]Female Reporter[nse]
-"Who would have thought such a thing could happen in this[r]
-country! The sound is incredible! Aaaaaahhh!!"[pcms]
+[ns]女性レポーター[nse]
+「こ……こんな事が……この国で発生するなどと、[r]
+　誰が思ったでしょうか！　凄い音です！[r]
+　きゃああああああああああ！！」[pcms]
 
 *903|
 [fc]
-The explosive sounds drowned out the reporter's screams. Red[r]
-flashes crisscrossed the sky.[pcms]
+リポーターの叫び声をかき消さんばかりの破裂音。[r]
+宙を飛び交う赤い閃光。[pcms]
 
 *904|
 [fc]
-In a situation that could be mistaken for war, the reporter[r]
-crawled on the ground, moving forward while continuing to[r]
-record the situation.[pcms]
+『戦争』と見間違うかのごとき状態の中、[r]
+レポーターは地面に這いつくばり、前へ前へと進みながら、[r]
+この状況を記録し続ける。[pcms]
 
 *905|
 [fc]
-Meanwhile, the "infected" did not stop their advance even[r]
-amidst the gunfire.[pcms]
+対して『感染者』達はと言うと、この銃撃の中にあっても、[r]
+一歩もその歩みを止める事はなかった。[pcms]
 
 *906|
 [fc]
-The order of the red flashes flying through the air began to[r]
-falter. This was because some of the troops, feeling fear[r]
-against the relentlessly advancing infected, started to[r]
-leave their posts.[pcms]
+次第に空を飛ぶ赤い閃光の秩序が乱れ始める。[r]
+ひるむことなく突き進む感染者に対し恐れを感じた隊員が[r]
+自分の持ち場を離れようとし始めた為である。[pcms]
 
 *907|
 [fc]
-The person who appeared to be the commander raised his[r]
-voice, trying to maintain order.[pcms]
+司令官と見られる人物は声を張り上げ、秩序を保とうとする。[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -686,27 +679,27 @@ voice, trying to maintain order.[pcms]
 
 *908|
 [fc]
-Disordered gunfire and shouts of anger.[pcms]
+乱れた銃撃と怒号。[pcms]
 
 *909|
 [fc]
-The noise that surpassed all others began with a roar.[r]
-Finally, even the machine guns mounted on armored vehicles[r]
-started spewing fire.[pcms]
+これ以上ない騒音を、更に上回る轟音が開始された。[r]
+ついには装甲車に搭載された機関砲までもが[r]
+火を吹き始めた。[pcms]
 
 *910|
 [fc]
-[ns]Cameraman[nse]
-"Whoa! That was close!! Hey! It's no use... It's too[r]
-dangerous to stay here any longer!! Let's pull back!"[pcms]
+[ns]カメラマン[nse]
+「うわあっ！　危ねえっ！！　おい！　もう無理だ……[r]
+　これ以上は危険すぎる！！　引き上げるぞ！」[pcms]
 
 *911|
 [fc]
 [vo_mob s="repo0019"]
-[ns]Female Reporter[nse]
-"Look! The rioters are falling one by one! Unarmed people[r]
-are being struck down by ruthless bullets!! Is this really[r]
-allowed?!"[pcms]
+[ns]女性レポーター[nse]
+「見て下さい！　暴徒が次々と倒れています！[r]
+　無防備な人々が、凶弾に倒されていきます！！[r]
+　このような事が許されていいのでしょうか！！」[pcms]
 
 ;//se030・爆発
 [se buf=0 storage="se030"]
@@ -714,75 +707,77 @@ allowed?!"[pcms]
 *912|
 [fc]
 [vo_mob s="repo0020"]
-[ns]Female Reporter[nse]
-"Ah...an explosion!! Did the rioters use a bomb? Ahh![r]
-They're trying to break through the barricade!!"[pcms]
+[ns]女性レポーター[nse]
+「あっ……爆発です！！[r]
+　暴徒が爆弾を使用したのでしょうか！　ああっ！[r]
+　暴徒がバリケードを突破しようとしています！！」[pcms]
 
 *913|
 [fc]
 [vo_mob s="repo0021"]
-[ns]Female Reporter[nse]
-"This is insane...the rioters who should have been[r]
-shot...they're still advancing! Could it be...as I[r]
-feared..."[pcms]
+[ns]女性レポーター[nse]
+「ば、バカな……撃たれたはずの暴徒が……それでもなお、[r]
+　前進を続けています！　まさか……やはり……」[pcms]
 
 *914|
 [fc]
-[ns]Cameraman[nse]
-"No good! I can't take this anymore!! Do it yourself...[r]
-Aaaaaahhhhhhh!!"[pcms]
+[ns]カメラマン[nse]
+「駄目だ！　俺ァもうつきあいきれねえ！！[r]
+　テメェ一人でやってろ……[r]
+　ぎゃあああああああああぁぁ！！」[pcms]
 
 *915|
 [fc]
-Amidst the gunfire, the cameraman collapsed on the spot.[pcms]
+銃撃音に紛れ、カメラマンがその場に崩れ落ちた。[pcms]
 
 *916|
 [fc]
-Naturally, the camera fell over too. However... The camera[r]
-continued to roll.[pcms]
+当然、カメラも横倒しになる。[r]
+しかし……。[r]
+カメラは、回り続けていた。[pcms]
 
 *917|
 [fc]
-Even without its operator, the machine continued to move to[r]
-capture the truth.[pcms]
+操作する主を失っても。[r]
+機械は真実を捕らえるため、動き続ける。[pcms]
 
 *918|
 [fc]
-The machine that records the truth -- continued to capture[r]
-the upcoming disgrace without blinking.[pcms]
+真実を記録する機械は――[r]
+これから起こる凌辱劇を瞬きする事なく録らえ続けた。[pcms]
 
 *919|
 [fc]
 [vo_mob s="repo0022"]
-[ns]Female Reporter[nse]
-"Aaaaaahhhhh!!! Let go of meee!!! What are you doing! Stop[r]
-it!!!"[pcms]
+[ns]女性レポーター[nse]
+「きゃああぁあああああああ！！！　はっ離せぇぇぇ！！！[r]
+　なんだ！　やめろおぉおおお！！！」[pcms]
 
 *920|
 [fc]
-[ns]Infected Man E[nse]
-"This one's got a pretty nice ass!"[pcms]
+[ns]感染者・男Ｅ[nse]
+「こいつ、けっこう良い尻してんなぁ！」[pcms]
 
 *921|
 [fc]
-[ns]Infected Man F[nse]
-"Can I be first? It's okay, right?!"[pcms]
+[ns]感染者・男Ｆ[nse]
+「俺、一番でいいか！？　良いよな！！」[pcms]
 
 *922|
 [fc]
-[ns]Infected Man H[nse]
-"Don't talk nonsense! It's my turn, right, sister?!"[pcms]
+[ns]感染者・男Ｈ[nse]
+「バカ言ってんじゃねえよ！　俺だよ、なあ、姉ちゃん！」[pcms]
 
 *923|
 [fc]
-[ns]Infected Man I[nse]
-"Damn it, shut up! It's obviously my turn!"[pcms]
+[ns]感染者・男Ｉ[nse]
+「だああ、ウルセェっての！　俺に決まってるっつの！」[pcms]
 
 *924|
 [fc]
 [vo_mob s="repo0023"]
-[ns]Female Reporter[nse]
-"No...noooooo!!!"[pcms]
+[ns]女性レポーター[nse]
+「やっ……いやあぁぁぁああぁああああ！！！」[pcms]
 
 ;//〆：ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -794,104 +789,105 @@ it!!!"[pcms]
 
 *925|
 [fc]
-Angry voices. Gunfire. Screams.[pcms]
+怒声。[r]
+銃撃音。[r]
+悲鳴。[pcms]
 
 *926|
 [fc]
-An intense cacophony unheard in everyday life.[pcms]
+およそ日常では聞くことができない壮絶な[ruby text="ノイズ"][ch text="雑音"]。[pcms]
 
 *927|
 [fc]
-Along with these sounds, the camera continued to shine its[r]
-eye to record the true tragedy about to begin.[pcms]
+それらの音と共に、これから始まる真実の悲劇を。[r]
+カメラは全て記録するため、[r]
+その目を光らせ続けていた。[pcms]
 
 ;//〆・ＨＥＶ０４０：輪姦中継／女性リポーター／ベージュのスーツ／背面駅弁（俯瞰図）
 [evcg storage="HEV031a"][trans_c cross time=300]
 
 *928|
 [fc]
-The female reporter's screams and resistance were in vain as[r]
-the fabric covering her genitals was easily torn away,[r]
-exposing everything.[pcms]
+女性レポーターの叫びも、抵抗も虚しく、[r]
+秘部を覆い隠してた布が、あっけなく引き裂かれ、[r]
+そして全てが露わになった。[pcms]
 
 *929|
 [fc]
 [vo_mob s="repo0024"]
-[ns]Female Reporter[nse]
-"Let go of me!! Noooooo!!!"[pcms]
+[ns]女性レポーター[nse]
+「はっ、離せ！！　いやぁあああぁぁぁ！！！」[pcms]
 
 *930|
 [fc]
-[ns]Infected Man C[nse]
-"Oh ho! Young women are different indeed! Soft and smelling[r]
-good...the best!!"[pcms]
+[ns]感染者・男Ｃ[nse]
+「おひょぉお！　やっぱ若けぇ女は違うぜ！[r]
+　柔らかくて、良い匂いするしよ……最高だぜ！！」[pcms]
 
 *931|
 [fc]
-[ns]Infected Man D[nse]
-"Damn it... I got beaten to being first! I'm next, so none[r]
-of you other guys touch her!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「くっそ……。一番乗り、取られちまった！[r]
+　次は俺だかんな！　他のヤロウは手ェだすなよ！」[pcms]
 
 *932|
 [fc]
-[ns]Infected Man E[nse]
-"Shut up! I want to do it too... No matter how many times I[r]
-do it, it's never enough!"[pcms]
+[ns]感染者・男Ｅ[nse]
+「ウルセェよ！　俺だってヤりてーんだよ……。[r]
+　何回抜いても全然駄目なんだよ！」[pcms]
 
 *933|
 [fc]
-[ns]Infected Person - Male F[nse]
-"Ugh... I want to do it..."[pcms]
+[ns]感染者・男Ｆ[nse]
+「ウゥ……、ヤりてぇよ……」[pcms]
 
 *934|
 [fc]
-The infected swarming around the female reporter were[r]
-captivated by their prey and did not even see the TV camera.[pcms]
+女性レポーターに群がる感染者達は、目の前の餌食に心を奪われ、[r]
+テレビカメラはまるで見えていなかった。[pcms]
 
 *935|
 [fc]
-But even as it lay discarded on the ground, still rolling,[r]
-one of the infected forcefully spread the reporter's legs[r]
-and exposed her to the camera.[pcms]
+だが、地面にうち捨てられてもなお回り続けるカメラに対し、[r]
+女性レポーターの足を強引に開き、見せつける感染者。[pcms]
 
 *936|
 [fc]
-The infected --[pcms]
+感染者達は――[pcms]
 
 *937|
 [fc]
-Those who were infected with UNKNOWN-LV4 and had symptoms[r]
-had their brain's motor functions paralyzed. As a result,[r]
-there was no limit to the strength of the man lifting up the[r]
-female reporter.[pcms]
+UNKNOWN-LV4に感染し、発症してしまった者達は、[r]
+運動機能を司る脳が麻痺する。その影響で、[r]
+女性レポーターを持ち上げる男の筋力に制限はない。[pcms]
 
 *938|
 [fc]
-In addition, everything they saw became an object of carnal[r]
-desire.[pcms]
+加えて、彼らの目に写るもの全ては、[r]
+肉欲の対象となってしまう。[pcms]
 
 *939|
 [fc]
-Right now, part of their behavioral principles was about to[r]
-be recorded by this single camera.[pcms]
+今まさに、彼らの行動原理の一部が、そう、[r]
+この一台のカメラによって、記録されようとしていた。[pcms]
 
 *940|
 [fc]
 [vo_mob s="repo0025"]
-[ns]Female Reporter[nse]
-"Aaaaahhh!!! Stop it!! The camera is... Don't film this![r]
-Don't look!!"[pcms]
+[ns]女性レポーター[nse]
+「うわあぁぁぁあ！！！　やっやめろぉっ！！[r]
+　カ、カメラがっ！！　映さないでっ！　見るなぁあぁ！」[pcms]
 
 *941|
 [fc]
-[ns]Infected Man F[nse]
-"What's this? Your pussy is twitching! And yet you say[r]
-stop?"[pcms]
+[ns]感染者・男Ｆ[nse]
+「なんだよぉ～、オマンコ、ヒクヒクさせてんじゃねーか！[r]
+　なのにやめろってか？」[pcms]
 
 *942|
 [fc]
-[ns]Infected Man C[nse]
-"Alright, I can't hold back anymore... I'm going in!"[pcms]
+[ns]感染者・男Ｃ[nse]
+「さあて、俺ァもう我慢できねぇからよ……突っ込むぜ！」[pcms]
 
 ;//〆：レッドフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -902,91 +898,96 @@ stop?"[pcms]
 *943|
 [fc]
 [vo_mob s="repo0026"]
-[ns]Female Reporter[nse]
-"Giiiiiiiiii!! So sudden... You must be crazy...[r]
-Giiiiiiiiii!"[pcms]
+[ns]女性レポーター[nse]
+「ぎっ……ぎいいいぃぃいっ！！[r]
+　そんな……いきなりっ！！[r]
+　バカじゃない……ぎぃいぃっ！」[pcms]
 
 *944|
 [fc]
-[ns]Infected Man D[nse]
-"Hehehe! She's tight! It's like she's a virgin!! Ugh...[r]
-Ohhhh!!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「げへへっ！　コイツ、締まり良いなぁ！[r]
+　まるで処女だぜ！！　うっ……おぉおっ！！」[pcms]
 
 *945|
 [fc]
-[ns]Infected Person - Male F[nse]
-"Oh-oh-...I can see her pussy spreading wide open! It's[r]
-really beautiful... She even groomed her hair properly![r]
-Gyahaha!"[pcms]
+[ns]感染者・男Ｆ[nse]
+「おーおー……キレーなマンコが広がってんがの丸見えだ！[r]
+　ほんと綺麗だな……毛もちゃんと整えてっしよ！[r]
+　ギャハハ！」[pcms]
 
 *946|
 [fc]
-[ns]Infected Man D[nse]
-"Damn, her pussy is so plump... I haven't been with a woman[r]
-in years... It's really good! Women are great! I'm gonna cum[r]
-soon!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「すっげープックリしてるな……このネーちゃんのマンコ。[r]
+　俺、ご無沙汰でよ……女抱いたの何年ぶりかな……。[r]
+　やっぱ良いぜ！　女はよ！　すぐイッちまいそうだぜ！」[pcms]
 
 *947|
 [fc]
 [vo_mob s="repo0027"]
-[ns]Female Reporter[nse]
-"Stop it! Ah... Nuuuuh! It's moving, no!! Aaaahhhhh!! It's[r]
-hitting deep... Giiiiiiiiii! It hurts!!"[pcms]
+[ns]女性レポーター[nse]
+「やめっ！　あっ……んうぅっ！　うっ、動くっ、なっ！！[r]
+　あぁぁっうぅう！！　奥にあたっ……いっぎいいぃいっ！[r]
+　いっ痛いぃぃいぃっ！！」[pcms]
 
 *948|
 [fc]
-[ns]Infected Man C[nse]
-"Hey, it smells a bit off... Think about the next guy who's[r]
-gonna do it."[pcms]
+[ns]感染者・男Ｃ[nse]
+「オメー、ちっとクセェぞ……[r]
+　次ヤるヤツの身にもなってみろよ」[pcms]
 
 *949|
 [fc]
 [vo_mob s="repo0028"]
-[ns]Female Reporter[nse]
-"Giiiiiiiiii! Auuuuuh! I said let go of me![r]
-Aaaaaaaaahhhhh!!! Idiot!"[pcms]
+[ns]女性レポーター[nse]
+「いぎいぃっ！　あぅぅうっ！　離せって言ってるでしょ！[r]
+　あぁっぁぁぁあああああああっ！！！　バカあぁぁあ！」[pcms]
 
 *950|
 [fc]
-The female reporter could only scream in a position like she[r]
-was being put in a wrestling hold, unable to do anything but[r]
-be violated by the infected.[pcms]
+女性レポーターは、プロレス技をかけられた様な姿のまま、[r]
+ただ悲鳴を上げ、感染者に犯される事しかできなかった。[pcms]
 
 *951|
 [fc]
-The troops who had been shooting at the infected just[r]
-moments before did not come to help her.[pcms]
+少し前に感染者達に対し射撃していた軍団は、[r]
+彼女を助けに来ることはなかった。[pcms]
 
 *952|
 [fc]
-Some of the troops deployed to stop the infected also became[r]
-infected themselves, breaking the discipline of the legion.[pcms]
+感染者を阻止すべく配備された彼らの一部もまた、[r]
+感染者の仲間入りを果たし、軍団の規律を崩壊させてしまった[r]
+為である。[pcms]
 
 *953|
 [fc]
 [vo_mob s="repo0029"]
-[ns]Female Reporter[nse]
-"Nuuuh... Ah! Uwah! Giiiiiiiiii! My stomach! You're[r]
-thrusting so hard... Guuuaah! Noooo!! It hurts!"[pcms]
+[ns]女性レポーター[nse]
+「んぅっ……あっ！　うぁっ！　ぎいいっ！！[r]
+　お腹っ！　そんなに突き上げちゃっ……っぐああっ！[r]
+　駄目ぇぇっ！！　い、痛いっ！」[pcms]
 
 *954|
 [fc]
-[ns]Infected Man D[nse]
-"Oh, oh... here it comes... It's been a while since I've[r]
-felt this! I'm gonna cum all inside you, Onee-san! Make my[r]
-baby! Guhehehe!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「おっ、おっ……来たぜぇ……久々だなこの感じぁよ！[r]
+　全部ネーちゃんの中にブチまけてやっからよ！[r]
+　俺の子供、産んでくれよ！　ぐへへへっ！」[pcms]
 
 *955|
 [fc]
 [vo_mob s="repo0030"]
-[ns]Female Reporter[nse]
-"Hik! Don't say such stupid things... Nguahh!! Stop...[r]
-Aaah!! It's swelling! Stop it... Stop it ahhhhhh!!"[pcms]
+[ns]女性レポーター[nse]
+「ひっ！　バカな事言わない……んぐぁっ！！[r]
+　やめっ……ああっ！！　膨らんでるっ！　やめろ……[r]
+　やめろぉぉおぉっ！！！」[pcms]
 
 *956|
 [fc]
-[ns]Infected Man D[nse]
-"I'm cumming... I'm gonna cum, cumming ahhhh!! Oooohhh!!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「イクぜ……、イクぜ行くぜ逝くぜぇぇっ！！[r]
+　おおぉぉおぉっ！！」[pcms]
 
 ;//@konya 膣内射精1回目
 ;//〆：ホワイトフラッシュ×３
@@ -997,16 +998,17 @@ Aaah!! It's swelling! Stop it... Stop it ahhhhhh!!"[pcms]
 *957|
 [fc]
 [vo_mob s="repo0031"]
-[ns]Female Reporter[nse]
-"Hik... Hiaaaaaahhhh!!! You idiot ahhhh!! Inside...[r]
-Uwaaaaahh!! Not by someone like youuuu!"[pcms]
+[ns]女性レポーター[nse]
+「ひっ……ひぁぁぁぁぁっっ！！！[r]
+　ばっ……バカあぁぁぁあぁっ！！！　なっ……中にっ……！[r]
+　うわあぁぁぁぁっ！！　こんな“ヤツ”にいぃぃっ！」[pcms]
 
 *958|
 [fc]
-[ns]Infected Man D[nse]
-"Saying 'someone like you' is pretty harsh... You talk dirty[r]
-for a Onee-san... Oh, it's not stopping yet! Your pussy...[r]
-is too good!! Heheheh!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「こんなヤツってなヒデェな……こんなナリして[r]
+　口悪いネーちゃんだぜ……お、まだ止まらねえよ！[r]
+　ネーちゃんのマンコ……良すぎんぜ！！　ひひひぃっ！」[pcms]
 
 ;//@konya 膣内射精1回目後
 [evcg storage="HEV031d"][trans_c cross time=300]
@@ -1014,52 +1016,53 @@ is too good!! Heheheh!"[pcms]
 *959|
 [fc]
 [vo_mob s="repo0032"]
-[ns]Female Reporter[nse]
-"Uwaaaaaaaaahhh!! Stop it!! Aaaaaahhh!!"[pcms]
+[ns]女性レポーター[nse]
+「うああああぁああああっ！！[r]
+　やめてっ！！　あああああっ！！」[pcms]
 
 *960|
 [fc]
-[ns]Infected Man E[nse]
-"Looks like it's my turn now... Here I go...!!"[pcms]
+[ns]感染者・男Ｅ[nse]
+「そろそろ俺の出番だな……いくぞぉ……！！」[pcms]
 
 *961|
 [fc]
 [vo_mob s="repo0033"]
-[ns]Female Reporter[nse]
-"Stop... Stop it!! This kind of thing... You guys, don't do[r]
-this ahhh Uwaaaaaahhh!!"[pcms]
+[ns]女性レポーター[nse]
+「やっ……やめてっ！！[r]
+　こんなっ事……貴方たち、こんなあぁっ[r]
+　うあああぁあっっ！！」[pcms]
 
 *962|
 [fc]
-[ns]Infected Man E[nse]
-"You're really noisy... Aren't reporters supposed to[r]
-accurately report the situation? Report everything that's[r]
-going to happen to you now!"[pcms]
+[ns]感染者・男Ｅ[nse]
+「ホントうるせーな……レポーターってな、[r]
+　状況を的確に伝えるのが仕事なんじゃねーの？[r]
+　今から俺にされること、全部レポートしなよ！」[pcms]
 
 *963|
 [fc]
-[ns]Infected Person - Male F[nse]
-"That's right! How do you feel right now? Are you happy[r]
-being surrounded by so many cocks? Hyahahaha! Say it! Try[r]
-saying it ahhhh!!"[pcms]
+[ns]感染者・男Ｆ[nse]
+「そういやそうだなぁ！　今の心境はどうですか？[r]
+　沢山のチンポコに囲まれて嬉しいですかァ？[r]
+　ひゃはははっ！　言えよ！　言ってみろよぉぉぉお！！」[pcms]
 
 *964|
 [fc]
 [vo_mob s="repo0034"]
-[ns]Female Reporter[nse]
-"No, please stopppp!!"[pcms]
+[ns]女性レポーター[nse]
+「いやあああぁぁああぁ！！　やめえてえぇぇ！！」[pcms]
 
 *965|
 [fc]
-The female reporter, surrounded by the infected and verbally[r]
-abused, no longer had the ambitious tone she had before and[r]
-could only scream in half-madness.[pcms]
+感染者に囲まれ、口々に罵倒され――[r]
+先ほどまでの野望に燃えた口調はすでになく、[r]
+半狂乱で悲鳴を上げるだけの女性レポーター。[pcms]
 
 *966|
 [fc]
-However, her screams were in vain as the next man, an[r]
-infected, approached and put his full weight on the female[r]
-reporter who was still being held.[pcms]
+しかし、その叫び声も虚しく、次の男が……感染者が近寄り、[r]
+抱きかかえられたままの女性レポーターに全体重を乗せた。[pcms]
 
 ;//〆：レッドフラッシュ
 
@@ -1070,167 +1073,169 @@ reporter who was still being held.[pcms]
 *967|
 [fc]
 [vo_mob s="repo0035"]
-[ns]Female Reporter[nse]
-"Aaaaaahhh!! Stop, stop it!! Guuuh! Don't put it in meee!![r]
-Aaaaahhhh!! Why is this happening to me..."[pcms]
+[ns]女性レポーター[nse]
+「あああぁああっ！！　やめっ、やめっ！！[r]
+　ぐぅうっ！　入れちゃ駄目ぇぇっ！！[r]
+　ああぁああああっ！！　なんで……なんでこんな目に……」[pcms]
 
 *968|
 [fc]
-[ns]Infected Man F[nse]
-"You have such a nice voice! Reporters really do have good[r]
-screams! You've got strong abs too... Have you been training[r]
-your pussy as well!? It's so tight!!"[pcms]
+[ns]感染者・男Ｆ[nse]
+「いい声してんなぁ！　レポーターってな、[r]
+　叫び声もいいモンだな！　腹筋も鍛えてるし……。[r]
+　オマンコも鍛えてあったのか！？　すげぇ締まる！！」[pcms]
 
 *969|
 [fc]
-[ns]Infected Man C[nse]
-"Hooo! So the secret to making good sounds is training your[r]
-pussy, huh! Gyahahahaha!!"[pcms]
+[ns]感染者・男Ｃ[nse]
+「ほぉお！　いい声出す秘訣はオマンコ鍛える事だったのか！[r]
+　ぎゃはははははあっ！！」[pcms]
 
 *970|
 [fc]
 [vo_mob s="repo0036"]
-[ns]Female Reporter[nse]
-"That's not itttt!! Stop saying stupid things and let me[r]
-gooooo!!"[pcms]
+[ns]女性レポーター[nse]
+「違うううっ！！　バカな事言ってないで離せぇぇっ！！」[pcms]
 
 *971|
 [fc]
-[ns]Infected Man G[nse]
-"That's why I'm telling you to report! Look, the camera is[r]
-rolling too! Your pussy is perfectly captured!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「だからさー、リポートしろっつってんだよ！[r]
+　見ろよ！　カメラも回ってる事だしよ！[r]
+　お前のオマンコ、ばっちり写ってるぜ！」[pcms]
 
 *972|
 [fc]
 [vo_mob s="repo0037"]
-[ns]Female Reporter[nse]
-"Eh..."[pcms]
+[ns]女性レポーター[nse]
+「え……」[pcms]
 
 *973|
 [fc]
-[ns]Infected Man D[nse]
-"Oh yeah, this thing has been shining all along... We can[r]
-make an adult video of you with this, gehehe!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「おお、そう言えばこれずっと光ってたな……。[r]
+　ネーちゃんのアダルトビデオ作れるなコレでゲヘヘ！」[pcms]
 
 *974|
 [fc]
-The word 'camera' caused the female reporter to react[r]
-excessively.[pcms]
+カメラ、という言葉に、女性レポーターが過剰に反応する。[pcms]
 
 *975|
 [fc]
-The camera records the truth, everything that comes into its[r]
-view accurately. In her fading consciousness, she imagined[r]
-what her future would be like because of this.[pcms]
+カメラは、真実を、その目に写る全てを、正確に記録する。[r]
+彼女は掠れる意識の中で、[r]
+そのことによる自分の今後を想像した。[pcms]
 
 *976|
 [fc]
 [vo_mob s="repo0038"]
-[ns]Female Reporter[nse]
-"No, noooooooooooooo!! The camera... isn't it stopped!? No,[r]
-NO!! Stop it!! Stop the camera pleeease!!"[pcms]
+[ns]女性レポーター[nse]
+「いやあああああああああああぁあああああああああ！！！[r]
+　かめ、カメラ……止まってないの！？　いや、イヤ！！[r]
+　やめて！！　とめ、止めて！　カメラ止めてぇぇっ！！」[pcms]
 
 *977|
 [fc]
-Naturally, what was happening at this place would not be[r]
-broadcasted on general television. However, in this[r]
-situation, she was unable to make any rational judgments.[pcms]
+当然この場で行われている事は、一般放送で流れる事はない。[r]
+しかし、この状況で彼女は、[r]
+まともな判断ができなくなってしまっていた。[pcms]
 
 *978|
 [fc]
-Moreover, none of the men surrounding her were "sane"[r]
-anymore...[pcms]
+もっとも、彼女を取り囲む男達には、すでに『まとも』な者など[r]
+一人もいないのだが……。[pcms]
 
 *979|
 [fc]
-[ns]Infected Person - Male F[nse]
-"Even if you tell me to stop, your pussy is just too good...[r]
-Can't stop moving my hips! Your screams are also nice[r]
-ahhhhh!"[pcms]
+[ns]感染者・男Ｆ[nse]
+「やめろって言われてもよ、お前のオマンコ、良すぎんだよ……。[r]
+　腰止めらんねーぜ！[r]
+　叫び声も良い感じだしよぉぉぉぉおぉぉおぉおぉ！」[pcms]
 
 *980|
 [fc]
-[ns]Infected Man G[nse]
-"Hurry up, there's a line waiting! Just cum already![r]
-Anywhere inside that Onee- san will do!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「早くしろよ、後がつかえてんだよ！　さっさと出しちまえ！[r]
+　そのネーちゃんの中でも何処にでもよぉ！」[pcms]
 
 *981|
 [fc]
-[ns]Infected Man F[nse]
-"Heh! Then I'll cum inside too! This chick's pussy is tight[r]
-and slippery from the last guy's cum. I'm about to cum too!"[pcms]
+[ns]感染者・男Ｆ[nse]
+「へっ！　じゃあ、俺も中に出してやんぜ！　こいつのマンコ[r]
+　締まるし、さっきのヤロウの出したヤツがヌルヌルでよう！[r]
+　俺ももうイキそうだ！」[pcms]
 
 *982|
 [fc]
 [vo_mob s="repo0039"]
-[ns]Female Reporter[nse]
-"Uwaaaahh!! Stop... Nooo!! The sound... I can hear weird[r]
-sounds!! Don't look! Stop the camera pleeease!!"[pcms]
+[ns]女性レポーター[nse]
+「うわあぁっ！！　やっ……いやあっ！！[r]
+　音がっ……ヘンな音聞こえちゃう！！　見ないでっ！[r]
+　カメラ止めてぇぇっ！！」[pcms]
 
 *983|
 [fc]
-[ns]Infected Man F[nse]
-"Heh, I thought the first guy came too easily, but I can't[r]
-help it... Your pussy is clinging to my cock... Is this what[r]
-they call a 'treasure pussy'?"[pcms]
+[ns]感染者・男Ｆ[nse]
+「へへっ、最初のヤロウ、あっさりイッちまったと思ったけど、[r]
+　こりゃ仕方ねえな……お前のオマンコ、俺のチンポコに[r]
+　吸い付いてくるしよ……名器ってヤツか？」[pcms]
 
 *984|
 [fc]
-[ns]Infected Man G[nse]
-"Oh, that sounds good! Can't wait for my turn! So hurry up[r]
-and cum already!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「おー、そりゃいい！　楽しみだぜ！[r]
+　だからテメーもさっさとイけよ！」[pcms]
 
 *985|
 [fc]
-In this place alone, order had completely collapsed. Not[r]
-just order...[pcms]
+この場だけに限って言えば、完全に秩序が崩壊している。[r]
+いや、秩序だけではない。[pcms]
 
 *986|
 [fc]
-Rationality and ethics had all crumbled away, creating a[r]
-situation akin to primitive times.[pcms]
+理性も、倫理も全てが崩れ去った、まるで原始時代の様な状況。[pcms]
 
 *987|
 [fc]
-The infected were truly like beasts. Or rather, beings even[r]
-lower than beasts, violating the woman.[pcms]
+感染者はまさに獣。[r]
+もしくは、獣以下の存在となって、女を犯している。[pcms]
 
 *988|
 [fc]
-Rather than violating...[pcms]
+犯すというよりも、むしろ――[pcms]
 
 *989|
 [fc]
-It was more like they were using a toy for masturbation.[pcms]
+オモチャを使った、自慰行為を行っている。[pcms]
 
 *990|
 [fc]
-And the masturbation continued.[pcms]
+そしてその自慰行為は続く。[pcms]
 
 *991|
 [fc]
-[ns]Infected Man F[nse]
-"Oh... I'm gonna cum now... Here I gooo!!"[pcms]
+[ns]感染者・男Ｆ[nse]
+「おっ……俺もう出るわ……イクぜぇ！！」[pcms]
 
 *992|
 [fc]
-With a spirited shout, the man's hip movements accelerated.[pcms]
+威勢のいいかけ声とともに、男の腰の動きが加速する。[pcms]
 
 *993|
 [fc]
-The rhythmic movements of his hips until then became nothing[r]
-more than rough thrusts in every direction. Especially hard[r]
-thrusts deep inside.[pcms]
+それまでは、まだリズミカルであった腰の動きは、[r]
+乱暴に前後左右に動くだけのものとなった直後。[r]
+ことさら強く、奥へと叩き付けた。[pcms]
 
 *994|
 [fc]
-This was the signal for both the female reporter and the[r]
-infected man penetrating her to arch their necks back.[pcms]
+それを合図に、女性レポーターと、挿入している[r]
+感染者の首が反り返る。[pcms]
 
 *995|
 [fc]
-[ns]Infected - Male F[nse]
-"Uwaaah... My cock's gonna get torn off! Ooohh!"[pcms]
+[ns]感染者・男Ｆ[nse]
+「うぁぁっ……チンポコ千切られちまうっ！　おおうっ！」[pcms]
 
 ;//@konya 膣内射精2回目
 ;//〆：ホワイトフラッシュ×３
@@ -1241,68 +1246,68 @@ infected man penetrating her to arch their necks back.[pcms]
 *996|
 [fc]
 [vo_mob s="repo0040"]
-[ns]Female Reporter[nse]
-"Uwaaaaaaahh!! Again!! Inside againnn!! Uwaaah..."[pcms]
+[ns]女性レポーター[nse]
+「う、うわああああぁぁっ！！　ま、またっ！！[r]
+　また中にぃいぃぃっ！！　う、うあぁあ……」[pcms]
 
 *997|
 [fc]
-[ns]Infected Person - Male F[nse]
-"Uwoooohh... This chick is amazing... My balls are gonna be[r]
-emptied..."[pcms]
+[ns]感染者・男Ｆ[nse]
+「うぉおぉおっ……コイツぁスゲぇ……。[r]
+　キンタマ、空っぽになっちまう……」[pcms]
 
 ;//@konya 膣内射精2回目後
 [evcg storage="HEV031g"][trans_c cross time=300]
 
 *998|
 [fc]
-[ns]Infected Man G[nse]
-"Next is my turn! ...What's with this woman? She's stretched[r]
-out? I wanted to hear a good scream too, but oh well..."[pcms]
+[ns]感染者・男Ｇ[nse]
+「次は俺だァ！　……なんだよこの女……ノビちまったか？[r]
+　俺もいい声聞きたかったけど、しゃーねぇな……」[pcms]
 
 *999|
 [fc]
 [vo_mob s="repo0041"]
-[ns]Female Reporter[nse]
-"Uh... Auh..."[pcms]
+[ns]女性レポーター[nse]
+「う……、あぅ……」[pcms]
 
 *1000|
 [fc]
-[ns]Infected Man G[nse]
-"Well, whatever... Here I go then! Heheh, it's slippery with[r]
-that guy's semen... Goes in easy..."[pcms]
+[ns]感染者・男Ｇ[nse]
+「まあ、いいか……じゃあ、俺も、っと！[r]
+　へへっ、ヤロウのセーシでヌルヌルだし……[r]
+　簡単に入るな……」[pcms]
 
 *1001|
 [fc]
 [vo_mob s="repo0042"]
-[ns]Female Reporter[nse]
-"Ah... Aaah... Uh"[pcms]
+[ns]女性レポーター[nse]
+「あ……ああ……ぅ」[pcms]
 
 *1002|
 [fc]
-Still being held up with her crotch exposed, it was hard for[r]
-her to realize that her consciousness was already starting[r]
-to drift away from her body.[pcms]
+未だ持ち上げられ、股を開かせられた状態で気が付きにくいが、[r]
+彼女の意識は、その身体からすでに離れつつあった。[pcms]
 
 *1003|
 [fc]
-The third infected person began to prepare for "self-[r]
-pleasure" as he climbed on top of the female reporter, who[r]
-was unable to respond properly.[pcms]
+まともな反応を返すことができない彼女に３人目の感染者が[r]
+覆い被さり、『自慰行為』の準備を開始した。[pcms]
 
 *1004|
 [fc]
-[ns]Infected Man H[nse]
-"I... I want to put it in soon..."[pcms]
+[ns]感染者・男Ｈ[nse]
+「お、俺も……そろそろ入れたい……」[pcms]
 
 *1005|
 [fc]
-The man holding her from behind, not satisfied with just[r]
-restraining her, began to grind his hips, rubbing his dick[r]
-against her anus.[pcms]
+後ろで羽交い締めにしている男も、[r]
+押さえつけているだけでは物足りないのか、腰をくねらせ、[r]
+彼女の菊門へと男性器を擦りつけ始めた。[pcms]
 
 *1006|
 [fc]
-The moment the female reporter's head drooped down...[pcms]
+女性レポーターの首が、がくんと項垂れたその刹那――[pcms]
 
 ;//〆：レッドフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -1312,179 +1317,177 @@ The moment the female reporter's head drooped down...[pcms]
 
 *1007|
 [fc]
-Now reduced to an object, the female reporter accepted the[r]
-infected men's erections in both her front and back holes[r]
-without resistance.[pcms]
+もはや『モノ』と化した女性レポーターは、[r]
+抵抗することなく、感染者の怒張を、[r]
+前、後ろの穴両方ですんなりと受け入れる。[pcms]
 
 *1008|
 [fc]
 [vo_mob s="repo0043"]
-[ns]Female Reporter[nse]
-"Nghiiiiiiiiiiii! No, no... not both... front and back... at[r]
-the same time..."[pcms]
+[ns]女性レポーター[nse]
+「んぎっいいいいいいいいっいいっ！？[r]
+　そ、そん、な……前とうし、ろ、なん、て……」[pcms]
 
 *1009|
 [fc]
 [vo_mob s="repo0044"]
-[ns]Female Reporter[nse]
-"Hic... igii... ngha... faaah... no, my... pussy... nooo..."[pcms]
+[ns]女性レポーター[nse]
+「ひっ……い、ぎいっ……んあ……ふぁあぁっ……、[r]
+　お、おま……ん……いや……いやあ……」[pcms]
 ;//＠おまんこ、と言おうとしているが理性がまだ勝っている
 
 *1010|
 [fc]
-[ns]Infected Man G[nse]
-"Whoa... this is amazing! It's rubbing against the inside!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「うぉ……すげえ！　中で擦れてんぜ！」[pcms]
 
 *1011|
 [fc]
-[ns]Infected Man H[nse]
-"Oooh... it's so warm... The entrance is tight... and[r]
-something's hitting it deep inside... It feels different[r]
-than the front!"[pcms]
+[ns]感染者・男Ｈ[nse]
+「おぉ～……あったけぇ……入り口もが狭くて……奥で何か[r]
+　当たって……前と違う気持ちよさだぁ～」[pcms]
 
 *1012|
 [fc]
 [vo_mob s="repo0045"]
-[ns]Female Reporter[nse]
-"Aggh... ugh... it hurts!!"[pcms]
+[ns]女性レポーター[nse]
+「あぐ……ぅ……い、いたいいいぃいっ！！」[pcms]
 
 *1013|
 [fc]
-Though the female reporter seemed on the verge of collapse,[r]
-being assaulted from both ends as if ignited caused her to[r]
-throw her head back and scream.[pcms]
+一度は陥落寸前に見えた女性レポーターだが、[r]
+前後を同時に責められたせいか、火を付けられたかのように[r]
+首を跳ね上げ、叫んだ。[pcms]
 
 *1014|
 [fc]
-[ns]Infected Man G[nse]
-"Oh, oh, oh... you're clamping down so tight...! Are you[r]
-getting excited being filled in your pussy and ass? Your[r]
-juices are overflowing too!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「お、お、おお……ギチギチに締めやがって……！[r]
+　マンコとケツに入れられて興奮してんのかぁ？[r]
+　マン汁もあふれて来てるしよ！」[pcms]
 
 *1015|
 [fc]
-[ns]Infected Man H[nse]
-"The ass is so slippery... The entrance to the asshole feels[r]
-good..."[pcms]
+[ns]感染者・男Ｈ[nse]
+「ケツ穴もヌルヌルだあ……ケツ穴の入り口がきもちいー」[pcms]
 
 *1016|
 [fc]
 [vo_mob s="repo0046"]
-[ns]Female Reporter[nse]
-"This is... this is too much... I'm going to go crazy...[r]
-Both the front and back at the same time... ughhh..."[pcms]
+[ns]女性レポーター[nse]
+「こんな……こんな事……あた、あたし……おかしくなる……[r]
+　前も……後ろも一緒に……うあぁ……」[pcms]
 
 *1017|
 [fc]
-[ns]Infected Man H[nse]
-"This is my first time experiencing this... The cock inside[r]
-the pussy is hitting mine, and it feels good..."[pcms]
+[ns]感染者・男Ｈ[nse]
+「俺、こんなの初めてだぁ～……オマンコの中のチンコが[r]
+　俺のに当たって、気持ちいい～」[pcms]
 
 *1018|
 [fc]
-[ns]Infected Man G[nse]
-"This is insane! The pussy is clamping down, and the thing[r]
-in the ass is grinding! This is the best!!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「これすげえな！　オマンコが締めてくるし、[r]
+　ケツのアレがゴリゴリ言うしよ！　最高だぜぇ！！」[pcms]
 
 *1019|
 [fc]
 [vo_mob s="repo0047"]
-[ns]Female Reporter[nse]
-"Don't say such things! I can't take it anymore! I'm going[r]
-to... uwaah!! My pussy... and my ass feel good too!![r]
-Aaahhh!"[pcms]
+[ns]女性レポーター[nse]
+「そ、そんな事言わないでぇっ！　も、もう駄目！[r]
+　アタシ……うぁぁ！！　お、オマンコ……も……[r]
+　お尻も気持ち……いいっ！！　あぁぁっ！」[pcms]
 
 *1020|
 [fc]
-[ns]Infected Man G[nse]
-"Oh, she's getting into it now! I gotta give it my all too![r]
-Ora! You puppet in the back! Stir up her insides too![r]
-Hyahahahaha!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「おー、ノッて来たじゃねーか！[r]
+　俺もガンバっちまうぜ！？　オラ！　後ろの木偶の坊！[r]
+　テメーもケツん中かき回してやれ！　ひゃはははははぁ！」[pcms]
 
 *1021|
 [fc]
-[ns]Infected Man H[nse]
-"Yeah, yeah! Nwooo!! I'm gonna fuck you so hard your asshole[r]
-breaks!"[pcms]
+[ns]感染者・男Ｈ[nse]
+「お、おう！　んぉおお！！　おらぁ！[r]
+　ケツ穴ブッ壊れるくらい犯してやるぅ～」[pcms]
 
 *1022|
 [fc]
 [vo_mob s="repo0048"]
-[ns]Female Reporter[nse]
-"Nyiiih! Nuhh!! Fuaahh!! My ass! It's hot!! My pussy won't[r]
-stop overflowing!! I'm losing my mind!!"[pcms]
+[ns]女性レポーター[nse]
+「んぃぃっ！　んぅっ！！　ふあぁっ！！　お、おしりっ！[r]
+　熱いっ！！　オマンコも……あふれて止まらないよぉっ！！[r]
+　気がヘンになるぅっ！！」[pcms]
 
 *1023|
 [fc]
 [vo_mob s="repo0049"]
-[ns]Female Reporter[nse]
-"It feels good!! It feels so good!! I'm going to die!! I'm[r]
-dying!!"[pcms]
+[ns]女性レポーター[nse]
+「気持ちいいっ！！　気持ちいいよぉ！！[r]
+　し、死んじゃうっ！！　死んじゃうぅ！！」[pcms]
 
 *1024|
 [fc]
-Sexual intercourse with an infected person creates more[r]
-infected. Now, a new infected is about to be born.[pcms]
+感染した者との性交渉は、感染者を生む。[r]
+今、新たな感染者が生まれようとしている。[pcms]
 
 *1025|
 [fc]
-In the eyes of the female reporter, a mad glint began to[r]
-flicker, just like the men surrounding her.[pcms]
+女性レポーターの目には、周りを取り囲む男達同様の[r]
+狂気の光が見え隠れし始めた。[pcms]
 
 *1026|
 [fc]
-Yes, she was on the verge of joining the ranks of the[r]
-infected.[pcms]
+そう、彼女も感染者の仲間入りを果たす寸前なのだ。[pcms]
 
 *1027|
 [fc]
-[ns]Infected Man G[nse]
-"Oh, she finally made a sound! That's what I wanted to[r]
-hear!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「おぉ、やっと声出したな！　聞きたかったんだぜ、それ！」[pcms]
 
 *1028|
 [fc]
-[ns]Infected Man H[nse]
-"Such a cute voice... Just hearing it makes me wanna cum."[pcms]
+[ns]感染者・男Ｈ[nse]
+「可愛い声だぁ～……声聞いただけでイッちまいそうだぁ」[pcms]
 
 *1029|
 [fc]
 [vo_mob s="repo0050"]
-[ns]Female Reporter[nse]
-"Not inside again... nooo! Please stop! No more... please,[r]
-I'm begging you... it feels too good..."[pcms]
+[ns]女性レポーター[nse]
+「ま、また中……ううん！　いやあぁ！！　もうやめて！[r]
+　これ以上は……お願い、だから……ふぁ……感じるっ……」[pcms]
 
 *1030|
 [fc]
-[ns]Infected Man H[nse]
-"Oooh, the entrance to the asshole... it's amazing! It[r]
-clenches way more than the pussy!"[pcms]
+[ns]感染者・男Ｈ[nse]
+「おぉ～、ケツ穴の入り口……すっげぇ～！[r]
+　マンコの何倍も締まるぅ～」[pcms]
 
 *1031|
 [fc]
-[ns]Infected Man G[nse]
-"I can't hold back anymore! I'm going to fill your pussy[r]
-with my cum, wash away all the semen those guys dumped in[r]
-you with mine! Here I cummmmm!!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「俺もう駄目！　お前のオマンコんなか、[r]
+　俺の精液だらけに……、さっきのヤツらがブチまけた分、[r]
+　全部俺ので洗い流してやんぜ！　イクぜぇええええ！！！」[pcms]
 
 *1032|
 [fc]
 [vo_mob s="repo0051"]
-[ns]Female Reporter[nse]
-"No aaaaah!! I'll get pregnant!! Stop it ooooh!! Not by[r]
-someone like you... not your child!! Uwaaaahhh!!"[pcms]
+[ns]女性レポーター[nse]
+「いやぁああ！！　子供できちゃう！！　やめろぉおっ！！[r]
+　お前らなんかの……子供なんてっ！！　うぁぁあぁあっ！！」[pcms]
 
 *1033|
 [fc]
-[ns]Infected - Male F & Male G[nse]
-"Uwoooooh... I'm cummingggggg!!!!!"[pcms]
+[ns]感染者・男Ｆ＆男Ｇ[nse]
+「うおおおぉお……出るぅうううっ！！！！！！」[pcms]
 
 *1034|
 [fc]
 [vo_mob s="repo0052"]
-[ns]Female Reporter[nse]
-"Aaaaaaaaaaaaaaaahhhhh!! I'm going to get[r]
-pregnantttttttt!!!!!"[pcms]
+[ns]女性レポーター[nse]
+「あああああああああぁあぁあああああ！！[r]
+　妊娠しちゃうううぅううっ！！！！！！！！！」[pcms]
 
 ;//@konya 膣内射精3回目、AV挿入中
 ;//〆：ホワイトフラッシュ×３
@@ -1494,24 +1497,24 @@ pregnantttttttt!!!!!"[pcms]
 
 *1035|
 [fc]
-The tension in the female reporter snapped at that moment as[r]
-she received their seed from both ends simultaneously.[pcms]
+前後同時に精を受けた女性レポーターの緊張の糸は、[r]
+その瞬間に弾けた。[pcms]
 
 *1036|
 [fc]
-With a half-smile and tears overflowing, her ambivalent[r]
-expression collapsed once again as her head drooped down.[pcms]
+半ば笑顔のまま、涙をあふれさせたアンビバレンツな[r]
+表情のまま、彼女の首は再びガックリと崩れた。[pcms]
 
 *1037|
 [fc]
-[ns]Infected Man G[nse]
-"Woah!? My cock got pushed out... She's clamping down so[r]
-hard..."[pcms]
+[ns]感染者・男Ｇ[nse]
+「うぉぉっ！？　俺のチンポコが押し出された……。[r]
+　すげえ締めるな、コイツ……」[pcms]
 
 *1038|
 [fc]
-[ns]Infected Man H[nse]
-"Ugh...! That felt so good..."[pcms]
+[ns]感染者・男Ｈ[nse]
+「うぁ……！　きもちいがった～」[pcms]
 
 ;//@konya 膣内射精3回目後、AV挿入中
 [evcg storage="HEV031j"][trans_c cross time=300]
@@ -1519,20 +1522,20 @@ hard..."[pcms]
 *1039|
 [fc]
 [vo_mob s="repo0053"]
-[ns]Female Reporter[nse]
-"Ahaha... ahaha... Did that feel good? Did you enjoy being[r]
-inside me that much? Ahaha... ahah! I want you to fuck me[r]
-more~?"[pcms]
+[ns]女性レポーター[nse]
+「あはっ……あははっ……気持ちよかったぁ？[r]
+　アタシの中そんなに気持ち良かった？[r]
+　あははっ……あはっ！　もっと、犯してほしいなぁ～？」[pcms]
 
 *1040|
 [fc]
-Her eyes were vacant, but they only regained their light[r]
-when looking at a man's dick.[pcms]
+彼女の目は虚ろだったが、[r]
+男性器を見る時だけ、その目に光が戻っていた。[pcms]
 
 *1041|
 [fc]
-The dull red glow in her eyes was fixated only on a man's[r]
-particular part.[pcms]
+赤く、鈍い光を放つ瞳は、男の一部のみ見つめている。[r]
+特定の一部を。[pcms]
 
 ;//〆：フェードアウト
 ;//〆：黒画面継続
@@ -1540,13 +1543,13 @@ particular part.[pcms]
 
 *1042|
 [fc]
-[ns]Infected Man I[nse]
-"Alright then, my turn!"[pcms]
+[ns]感染者・男Ｉ[nse]
+「ヨシャ！　じゃあ俺が！」[pcms]
 
 *1043|
 [fc]
-[ns]Infected - Male J[nse]
-"Me too!"[pcms]
+[ns]感染者・男Ｊ[nse]
+「俺もだぁ！」[pcms]
 
 ;//@konya 膣内射精3回目後
 [evcg storage="HEV031k"][trans_c cross time=300]
@@ -1554,89 +1557,93 @@ particular part.[pcms]
 *1044|
 [fc]
 [vo_mob s="repo0054"]
-[ns]Female Reporter[nse]
-"Heheheh... ahahaha... *sob*... uh... What am I doing...[r]
-ahaha... But now... I don't care anymore! Ahaha! Ahahahaha![r]
-Hurry up! Fuck me!"[pcms]
+[ns]女性レポーター[nse]
+「ふふふっ……あははっ……ぐすっ……うぅ……アタシ、[r]
+　何やってるんだろ……あははっ……でも、もう……いいや！[r]
+　あははっ！　あはははっ！　はやく！　私を犯してぇっ！」[pcms]
 ;//＠半泣き
 
 *1045|
 [fc]
-[ns]Infected Man K[nse]
-"Me too, me too!"[pcms]
+[ns]感染者・男Ｋ[nse]
+「お、俺も俺もっ！」[pcms]
 
 *1046|
 [fc]
-The something that had been supporting her spirit until then[r]
-burst silently. The woman who had been resisting was nowhere[r]
-to be found.[pcms]
+それまで彼女の心を支えていた何かは、音もなく弾けた。[r]
+抱きかかえられ、抵抗をしていた彼女は何処にもいない。[pcms]
 
 *1047|
 [fc]
-All that was left was a mere flesh puppet. Just a broken[r]
-marionette and beasts.[pcms]
+そこにいるのは、ただの肉欲人形。[r]
+糸の切れた、操り人形一体と、獣達だけであった。[pcms]
 
 *1048|
 [fc]
-[ns]Infected Man I[nse]
-"Come on! Next, it's our turn!"[pcms]
+[ns]感染者・男Ｉ[nse]
+「おら！　次だよ次！　俺らの出番だぜ！」[pcms]
 
 *1049|
 [fc]
 [vo_mob s="repo0055"]
-[ns]Female Reporter[nse]
-"*sob*... hic... hic... ahahahaha!! You guys... Can you[r]
-satisfy me? *sob*... Hic... Sorry for being unsightly..."[pcms]
+[ns]女性レポーター[nse]
+「ぐすっ……ひっ……ひっ……あはははっ！！[r]
+　アンタ達……。私のこと満足させられるの？　ぐすっ……。[r]
+　ひっ……お、お見苦しいですが……」[pcms]
 ;//＠涙声
 
 *1050|
 [fc]
 [vo_mob s="repo0056"]
-[ns]Female Reporter[nse]
-"Please watch me being violated... Everyone! Look closely at[r]
-me!! Waaaaahhh!! *sob*..."[pcms]
+[ns]女性レポーター[nse]
+「あた、あたしの、凌辱される姿を……ご覧下さい……。[r]
+　皆様！　私の姿をとくとご覧下さい！！　うぇぇぇんん！！[r]
+　ぐすっ……」[pcms]
 ;//＠涙声
 
 *1051|
 [fc]
-[ns]Infected Man I[nse]
-"Whoa!? Are we gonna be on TV? Can we really appear? That[r]
-gets me fired up!"[pcms]
+[ns]感染者・男Ｉ[nse]
+「おぉお！？　俺達ＴＶに出るのか？　出れんの？[r]
+　張り切っちまうぜ！」[pcms]
 
 *1052|
 [fc]
-[ns]Infected Person - Male K[nse]
-"It's my first time being on TV! And it's even recording the[r]
-sex, I'll use this as fap material at home later! Hyahaha!!"[pcms]
+[ns]感染者・男Ｋ[nse]
+「俺ＴＶに出るのなんて初めてだぜ！　しかもセックス、[r]
+　ばっちり記録されんだろ！？　後で家でネタにすんぜコレ！[r]
+　ひゃははぁ！！！」[pcms]
 
 *1053|
 [fc]
 [vo_mob s="repo0057"]
-[ns]Female Reporter[nse]
-"Th-that's... right... everything... everything up to now[r]
-has been recorded, nooooooo!! Uwaaaaahhh!!"[pcms]
+[ns]女性レポーター[nse]
+「そ、そう……よ……全部……ここまでのが全部記録されて、[r]
+　いやあああああああああああぁぁああぁぁあ！！！！[r]
+　うわぁぁぁぁぁぁぁあぁあ！！！」[pcms]
 
 *1054|
 [fc]
-[ns]Infected Man I[nse]
-"Oh-oh-... Are you so happy you're crying!? You're so happy[r]
-to be filled with our cum that you're crying, huh!?"[pcms]
+[ns]感染者・男Ｉ[nse]
+「おーおー……泣くほど嬉しいんかぁ！？[r]
+　俺らの中に出されて、[r]
+　泣くほど嬉しいってかよ、アァ！？」[pcms]
 
 *1055|
 [fc]
 [vo_mob s="repo0058"]
-[ns]Female Reporter[nse]
-"My belly... my pussy and my butt... are filled with these[r]
-men's cum... Everyone watching this footage! My belly is[r]
-full of these people's cum!"[pcms]
+[ns]女性レポーター[nse]
+「アタシのお腹の中が……オマンコも、お尻の中も……、[r]
+　この男達の精液で一杯……この映像をご覧の皆様！[r]
+　アタシ、アタシのお腹の中は、この人達の精液で一杯です！」[pcms]
 
 *1056|
 [fc]
 [vo_mob s="repo0059"]
-[ns]Female Reporter[nse]
-"If... if you see me in town... then... hehe... please do[r]
-whatever you want with my body! Ugh... *sniffle*... ahaha![r]
-Ahahahah!!"[pcms]
+[ns]女性レポーター[nse]
+「もし……アタシを街で見かけたら……そのときは……、[r]
+　ふふっ……アタシの身体を……好きな様にして下さい！[r]
+　うぅっ……ぐすっ……あははっ！　あはははっ！！」[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1647,107 +1654,110 @@ Ahahahah!!"[pcms]
 *1057|
 [fc]
 [vo_mob s="repo0060"]
-[ns]Female Reporter[nse]
-"My body is... being continuously ravaged by these men![r]
-Nfu... naaaaa!! My pussy is getting so sloppy, so sloppy!!"[pcms]
+[ns]女性レポーター[nse]
+「私の身体は……この男達によって蹂躙され続けていますっ！[r]
+　んふっ……んあああああっ！！　オマンコ……ドロドロにっ、[r]
+　ドロドロになっています！！」[pcms]
 
 *1058|
 [fc]
 [vo_mob s="repo0061"]
-[ns]Female Reporter[nse]
-"My pussy and my butt, everything... ughh... my nipples are[r]
-still hard, they won't calm down... my clit, too... hiaaah![r]
-Don't rub it, noooo!!"[pcms]
+[ns]女性レポーター[nse]
+「オマンコも、お尻も全部……うあぁっ……乳首も、[r]
+　立ったまま、治まりません……く、クリトリス、[r]
+　も……ひああっ！　擦っちゃ、だ、駄目えぇっ！！」[pcms]
 
 *1059|
 [fc]
-[ns]Infected Man I[nse]
-"What's this, a live broadcast? Sounds like you're reading[r]
-an erotic novel! You suck at it though... heh, but it's[r]
-getting me excited!!"[pcms]
+[ns]感染者・男Ｉ[nse]
+「何だよ、中継か？　エロ小説朗読してるみたいだな！[r]
+　ヘッタクソだけどよ……へへっ、[r]
+　でも興奮してきたぜぇぇ！！」[pcms]
 
 *1060|
 [fc]
-[ns]Infected Man K[nse]
-"Oh! Me too! Thinking that I'm on TV, I just can't help it![r]
-Am I a pervert? ...But I think this woman is quite the[r]
-pervert too! Her face and her pussy are both a sloppy mess!"[pcms]
+[ns]感染者・男Ｋ[nse]
+「おぉ！　俺もだ！　ＴＶに映ってるかと思うと、[r]
+　どうしてもな！　俺って変態か？　……ってより、この女も[r]
+　相当の変態だと思うがな！　顔もオマンコもドロドロだぜ！」[pcms]
 
 *1061|
 [fc]
 [vo_mob s="repo0062"]
-[ns]Female Reporter[nse]
-"Ha... hii... that's right! I am... getting excited being[r]
-filmed by the camera! Ahh... my insides are being stirred[r]
-up... nhihii!! I'm at my limit..."[pcms]
+[ns]女性レポーター[nse]
+「はっ……ひぃっ……そ、そうです！　アタシは……カメラに……[r]
+　カメラに映されて……興奮しています！　あぁっ……お腹の中、[r]
+　掻き回されて……んひぃっ！！　も、もうアタシ、限界……」[pcms]
 
 *1062|
 [fc]
 [vo_mob s="repo0063"]
-[ns]Female Reporter[nse]
-"I can't... anymore... ahf... report from this place, the[r]
-situation here... aaaaah!! My pussy... feels so, feels so[r]
-good!!"[pcms]
+[ns]女性レポーター[nse]
+「も、もう、アタシは……これ以上……あふっ……この場を、[r]
+　現場の状況、をっ……お伝えすることは……あああっ！！[r]
+　お、オマンコ……きも、気持ち……気持ちいいぃっ！！」[pcms]
 
 *1063|
 [fc]
-[ns]Infected Man I[nse]
-"Alright, I'll make you feel even better! Your pussy, clit,[r]
-and nipples, all of it! Even if you cum, we'll keep going!"[pcms]
+[ns]感染者・男Ｉ[nse]
+「おっしゃ、もっと気持ちい～くしてやるよ！[r]
+　オマンコも、クリも乳首も全部なぁ！　お前がイッても、[r]
+　ずっと続けてやんぜ！」[pcms]
 
 *1064|
 [fc]
-[ns]Infected Man K[nse]
-"I'll fuck your ass until it tears apart too!!"[pcms]
+[ns]感染者・男Ｋ[nse]
+「俺も、ケツ穴切れる位犯してやるぞぉおお！！」[pcms]
 
 *1065|
 [fc]
-The female reporter and the infected ones were all equally[r]
-enjoying this frenzied feast.[pcms]
+女性レポーターも、感染者達も、みな一様にこの狂乱の宴を[r]
+楽しんでいる。[pcms]
 
 *1066|
 [fc]
-This wasn't the only place. All over the country, beasts[r]
-were calling to beasts, creating a sort of paradise-like[r]
-state.[pcms]
+この場だけではない。[r]
+この国の至る所で、獣が獣を呼び、[r]
+そしてある種、楽園のような状態を作っていた。[pcms]
 
 *1067|
 [fc]
-The spread was happening at a speed incomparable to four[r]
-years ago. A different UNKNOWN-LV4 than four years ago...[pcms]
+四年前とは比較にならない速度で。[r]
+四年前とは、異なるUNKNOWN-LV4が……。[pcms]
 
 *1068|
 [fc]
 [vo_mob s="repo0064"]
-[ns]Female Reporter[nse]
-"With my pussy and my ass, nghh... already four men have...[r]
-ughh... finished inside me... Everyone, won't you enjoy it[r]
-like me... like me? Go outside right now!!"[pcms]
+[ns]女性レポーター[nse]
+「私のオマンコと、お尻で、んぁっ……もう、四人の男が……、[r]
+　うぁあっ……は、果てましたっ……皆さんも、私の様に……、[r]
+　私の様に楽しみませんか！！　今すぐ、外へ！！」[pcms]
 
 *1069|
 [fc]
 [vo_mob s="repo0065"]
-[ns]Female Reporter[nse]
-"Let's enjoy it together with everyone!! Everyone come to[r]
-this place right now!! Come and fuck me right now!!"[pcms]
+[ns]女性レポーター[nse]
+「アタシと一緒に、みんなで楽しみましょう！！[r]
+　みなさんも、今すぐこの場所まで！！[r]
+　アタシ目がけて、今すぐ犯しに来てぇっ！！」[pcms]
 
 *1070|
 [fc]
 [vo_mob s="repo0066"]
-[ns]Female Reporter[nse]
-"Ahaha... *sniffle*... My head is getting... ah, ahhh... I'm[r]
-going to cum... fuahh, I'm cumming!! I'm cumming!! Watch me[r]
-cumming... Come see me cummmmm!!"[pcms]
+[ns]女性レポーター[nse]
+「あははっ……ぐすっ……アタシ……頭がっ……あ、ああっ……、[r]
+　い、イキ、そうっ……ふああっ、イ、イクッ！！　イクぅぅっ！[r]
+　アタシの、イク所……見に来てっ……イクウゥウッウ！！」[pcms]
 
 *1071|
 [fc]
-[ns]Infected Man K[nse]
-"Ugh... guoooooo!! I'm gonna cum too!"[pcms]
+[ns]感染者・男Ｋ[nse]
+「うっ……ぐおぉおおおおっ！！　俺もイッちまうっ！」[pcms]
 
 *1072|
 [fc]
-[ns]Infected Man I[nse]
-"Ooooohhh!!"[pcms]
+[ns]感染者・男Ｉ[nse]
+「おぁああっ！！」[pcms]
 
 ;//@konya 膣内射精4回目
 ;//〆：ホワイトフラッシュ×３
@@ -1758,96 +1768,96 @@ cumming... Come see me cummmmm!!"[pcms]
 *1073|
 [fc]
 [vo_mob s="repo0067"]
-[ns]Female Reporter[nse]
-"Fuh... fuhaaaaaaaaaaah!! Aaaaaaaaahhhhhhhhh!![r]
-Hiiiiiiiiii!!"[pcms]
+[ns]女性レポーター[nse]
+「ふっ……ふああああああぁあああああっ！！[r]
+　あぁああああああぁああっ！！　ひっ……ぃぃいぃっ！！」[pcms]
 
 *1074|
 [fc]
-[ns]Infected Man I[nse]
-"Nghh... guuuuuh... damn, that's amazing..."[pcms]
+[ns]感染者・男Ｉ[nse]
+「んっ……ぐぅぅうっ……すっ、すげぇ……すげぇぜ……」[pcms]
 
 *1075|
 [fc]
-[ns]Infected Man K[nse]
-"Ahhh~... I can't anymore... I've got nothing left..."[pcms]
+[ns]感染者・男Ｋ[nse]
+「あぁあ～……、俺もう無理だぁ……もう何もでねェよ……」[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1076|
 [fc]
-After receiving the sixth load of cum, the female reporter[r]
-reached her climax, and it seemed as if the beasts' feast[r]
-was heading towards its end.[pcms]
+６度目の精を受け、女性レポーターも絶頂を迎え、[r]
+獣達の宴は終焉に向かうかのように見えた。[pcms]
 
 ;//@konya 膣内射精4回目後
 [evcg storage="HEV031n"][trans_c cross time=300]
 
 *1077|
 [fc]
-However, there were still many beasts lurking around. She[r]
-would have to face these numbers alone after this.[pcms]
+しかし、回りにはまだ何人もの獣がうろついている。[r]
+彼女は、この後一人で、この人数を相手しなければならない。[pcms]
 
 *1078|
 [fc]
-However, she would likely accept it willingly.[pcms]
+しかし、彼女はそれを甘んじて受け入れるだろう。[pcms]
 
 *1079|
 [fc]
-Because her brain had already been eroded by pleasure.[r]
-Because her heart had already drowned in lust.[pcms]
+すでに、脳まで快楽に侵食されてしまっているから。[r]
+すでに、心まで肉欲に溺れてしまっていたから。[pcms]
 
 *1080|
 [fc]
-And among the beasts aiming for her, one particularly[r]
-spirited one crept closer to her.[pcms]
+そして彼女を狙う獣の中でも、ひときわ威勢の良い者が、[r]
+彼女ににじり寄る。[pcms]
 
 *1081|
 [fc]
-Yes, the man who had been continuously berated by her-- the[r]
-"former" cameraman was approaching her.[pcms]
+そう、彼女に罵倒され続けていた男――[r]
+『元』カメラマンが、彼女に迫る。[pcms]
 
 *1082|
 [fc]
-Ravaged by the infected all over her body, forgetting her[r]
-own duties, she just laid bare her desires and crept towards[r]
-the woman who was once a female reporter.[pcms]
+身体中を感染者に蹂躙され、自らの職務を忘れ……、[r]
+ただ己の欲望をむき出しにして、[r]
+『かつて』女性レポーターだった女ににじり寄る。[pcms]
 
 *1083|
 [fc]
-[ns]Cameraman[nse]
-"You bitch... You've been calling me a loser and all that.[r]
-I've always disliked that face of yours! Always...[r]
-someday... I thought about fucking you!!"[pcms]
+[ns]カメラマン[nse]
+「てめぇよぉ～……俺の事ヘタレだなんだって散々言い[r]
+　やがって。前からそのツラ、気に入らなかったんだよ！[r]
+　ずーっと……いつか……犯してやろうと思ってたんだよ！！」[pcms]
 
 *1084|
 [fc]
 [vo_mob s="repo0068"]
-[ns]Female Reporter[nse]
-"Nfu... what's that? A loser is a loser, right!? If you're[r]
-frustrated, then make me cum with your pathetic dick! Come[r]
-on, hurry up!! Ahah! Ahahahaha!!"[pcms]
+[ns]女性レポーター[nse]
+「んふっ……なによ……ヘタレはヘタレでしょ！！[r]
+　悔しかったら、アンタの粗チンで、アタシをイカせて見なさい！[r]
+　ほら、ホラ早く！！　あはっ！　あははははっ！！」[pcms]
 
 *1085|
 [fc]
-[ns]Cameraman[nse]
-"Damn it... I'll break everything of yours... Your pussy,[r]
-your ass, your mouth, your face... everything... I'll break[r]
-it all!"[pcms]
+[ns]カメラマン[nse]
+「クソォ……テメェの全部……ブッ壊してやっかんな！！[r]
+　オマンコも、ケツも口も顔も……全部……[r]
+　全部俺がブッ壊す！」[pcms]
 
 *1086|
 [fc]
 [vo_mob s="repo0069"]
-[ns]Female Reporter[nse]
-"Ahaha!! Come on, hurry up!! Break me if you can! Do you[r]
-think a loser like you can satisfy me? We're broadcasting it[r]
-all, so hurry up and stick it in my pussy!"[pcms]
+[ns]女性レポーター[nse]
+「あははっ！！　ほら、早く！！　アタシをブッ壊してごらんよ！[r]
+　アンタみたいなヘタレに、アタシが満足させられると思ってる？[r]
+　全部中継してやるから、早く私のオマンコに突っ込みなさい！」[pcms]
 
 *1087|
 [fc]
-[ns]Cameraman[nse]
-"I'll break you... I'll break you!! Oooooohhhhh!!"[pcms]
+[ns]カメラマン[nse]
+「ブッ壊してやる……ブッ壊してやる！！[r]
+　おおおおおぉおっ！」[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1855,39 +1865,38 @@ all, so hurry up and stick it in my pussy!"[pcms]
 *1088|
 [fc]
 [vo_mob s="repo0070"]
-[ns]Female Reporter[nse]
-"Ahh... fuhh... ughhhhh... your pathetic dick is inside me![r]
-Just came... but it feels so good!! Ahhh!! To feel this good[r]
-while..."[pcms]
+[ns]女性レポーター[nse]
+「ああっ……ふっ……うあぁあっ……粗チンが……アタシの中っ！[r]
+　イッたばっかり……なのに、き、もち……いいっ！！[r]
+　あぁっ！！　こんなに気持ちよくなったまま……」[pcms]
 
 *1089|
 [fc]
 [vo_mob s="repo0071"]
-[ns]Female Reporter[nse]
-"To feel this good while continuing the live broadcast from[r]
-the scene, that's what I want to do..., ahhh!! My clit is[r]
-getting rubbed... nhaaaaahhh!!! I think sooo!!! Fuahhhhhh!!"[pcms]
+[ns]女性レポーター[nse]
+「気持ち良くなったまま……現場の中継、をっ……つ、続け、[r]
+　たいと……、ああっ！！　クリがッ……んあぁああっっ！[r]
+　思い、ま、すっ！！　ふあぁあぁああっ！！」[pcms]
 
 *1090|
 [fc]
-The camera that lost its master could not record all of this[r]
-ongoing feast of beasts.[pcms]
+主を失ったカメラは、まだ続くこの獣達の宴を[r]
+全て記録することはできなかった。[pcms]
 
 *1091|
 [fc]
-The eyes that were supposed to show the truth closed as if[r]
-they were going to sleep.[pcms]
+真実を映し出す瞳は、眠るようにその目を閉じた。[pcms]
 
 *1092|
 [fc]
-The beasts who did not realize this continued their frenzied[r]
-feast without an audience, probably until they got tired of[r]
-it.[pcms]
+そのことに気が付く事のない獣達は、[r]
+視聴者のないまま、おそらく飽きるまで、[r]
+この狂乱の宴を続ける。[pcms]
 
 *1093|
 [fc]
-Now that the military force to stop the infected was lost.[r]
-There was no longer any way to stop them here.[pcms]
+感染者を阻止する為の武力が失われた今。[r]
+彼らを止める術は、ここにはもう、残されていなかった。[pcms]
 
 
 

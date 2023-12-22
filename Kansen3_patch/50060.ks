@@ -1,10 +1,10 @@
 ;//block:A007
 ;//ブロック５００４０から選択肢でjump
-;//ブロック５００６０『地上ＬＡＳＥＲへ』
+;//ブロック５００６０『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50060_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：スクランブル交差点・西洋百貨店・井の頭通り
 ;//　　　・「キメスギタカシ」前・「ででっぽう」
@@ -12,245 +12,238 @@
 ;//時間帯：
 ;//・テキスト容量：2K前後
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ａ１　１２：西洋百貨店方向から
+;//●時限式選択肢Ａ－１　１－２：西洋百貨店方向から
 
 [sysbt_meswin]
 
 *348|
 [fc]
-[ns]Wataru[nse]
-"Ei! To the wider side!"[pcms]
+[ns]航[nse]
+「えーいっ！　ひ、広い方にっ！」[pcms]
 
 *349|
 [fc]
-"Maruko-senpai's words about 'when it counts' finally[r]
-spurred my decision."[pcms]
+『いざという時』というマル子先輩の言葉が[r]
+最後にボクの決断を促した。[pcms]
 
 *350|
 [fc]
-"I couldn't bear the regret if something happened and I[r]
-couldn't deal with it. Better to have even a little room to[r]
-struggle."[pcms]
+何かあっても対処できないんじゃ悔やみきれない。[r]
+それなら少しでも、じたばた足掻く余地があるほうがいい。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *351|
 [fc]
 [vo_mar s="maru1322"]
-[ns]Margarita[nse]
-"Alright! Break through!"[pcms]
+[ns]マルガリータ[nse]
+「よし！　突破する！」[pcms]
 
 *352|
 [fc]
-[ns]Wataru[nse]
-"Ye-yes!"[pcms]
+[ns]航[nse]
+「は、はいっ！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *353|
 [fc]
-"Following behind senpai, who dashed towards the western[r]
-department store like a bullet, I made sure not to fall[r]
-behind."[pcms]
+弾丸が飛び出すように西洋百貨店方向へダッシュする先輩に、[r]
+遅れないように追随する。[pcms]
 
 *354|
 [fc]
-"Since we had to dodge cars left irregularly all over, we[r]
-couldn't go straight and couldn't pick up speed."[pcms]
+ごちゃごちゃと不規則に放置された車を避けながらなので、[r]
+どうしたって真っ直ぐ進めなくてスピードが出ない。[pcms]
 
 *355|
 [fc]
-"Moreover, because we were forcing our way through narrow[r]
-spaces, I ended up hitting my hip bone hard against a side[r]
-mirror."[pcms]
+おまけに狭いところを無理に走り抜けるものだから[r]
+サイドミラーでしたたかに腰骨を打ってしまった。[pcms]
 
 *356|
 [fc]
-[ns]Wataru[nse]
-"Ow, ow...! Sen-senpai...! At this rate, we'll be[r]
-caught...!"[pcms]
+[ns]航[nse]
+「い、いててっ……！　せ、先輩……っ！[r]
+　このままじゃ、追いつかれて……っ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *357|
 [fc]
 [vo_mar s="maru1323"]
-[ns]Margarita[nse]
-"No, look closely!"[pcms]
+[ns]マルガリータ[nse]
+「いや、よく見ろ！」[pcms]
 
 *358|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 *359|
 [fc]
-"Turning around at senpai's words, I saw the infected[r]
-jostling and shoving each other around the entrance of the[r]
-street."[pcms]
+先輩の言葉に振り返ると、[r]
+感染者たちは通りの入り口あたりで押し合いへし合いしている。[pcms]
 
 *360|
 [fc]
-"Their awkward movements meant they couldn't fit through the[r]
-gaps between cars, and even if they did, they were competing[r]
-to chase after us, getting in each other's way and causing a[r]
-jam in the gaps."[pcms]
+ぎこちない動作のために自動車の隙間にうまく入れなかったり、[r]
+入れたとしても、競い合ってボクらを目指そうとするので[r]
+互いの身体が邪魔になって車の隙間で目詰まりを起こしている。[pcms]
 
 *361|
 [fc]
-[ns]Wataru[nse]
-"Are they stuck...?"[pcms]
+[ns]航[nse]
+「スタックしてる……？」[pcms]
 
 *362|
 [fc]
-"On top of that, as we kept moving, they seemed unable to[r]
-set a proper course."[pcms]
+そのうえボクたちがどんどん移動しているので、[r]
+うまく進路も定められないようだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *363|
 [fc]
 [vo_mar s="maru1324"]
-[ns]Margarita[nse]
-"We're lucky. We can escape this way!"[pcms]
+[ns]マルガリータ[nse]
+「運がいい。このまま逃げ切れるっ！」[pcms]
 
 *364|
 [fc]
-"While shouting, senpai kicked down an infected blocking the[r]
-entrance back to Inokashira Street and dashed into the[r]
-street."[pcms]
+叫びながら先輩は、[r]
+井の頭通りへ戻る道の入り口に立ち塞がっていた感染者を[r]
+走る勢いそのままに蹴り倒し、通りに駆け込んでいく。[pcms]
 
 *365|
 [fc]
-[ns]Wataru[nse]
-"Whoa, there are more...! On this road too!"[pcms]
+[ns]航[nse]
+「うわっ、ま、また……っ！　この道にも！」[pcms]
 
 *366|
 [fc]
-"Sure enough, there were infected on Inokashira Street too,[r]
-and as soon as they noticed us, they started approaching."[pcms]
+井の頭通りにはやはり感染者がいて、[r]
+ボクたちに気付くなり、近寄ってこようとしている。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *367|
 [fc]
 [vo_mar s="maru1325"]
-[ns]Margarita[nse]
-"Dodge them! We must open a path, but try not to touch them[r]
-as much as possible!"[pcms]
+[ns]マルガリータ[nse]
+「避けろ！[r]
+　血路は開かねばならないが、なるべく触れるな！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *368|
 [fc]
-"What saved us was that this road didn't have any abandoned[r]
-cars. We could avoid the infected by making wide detours or[r]
-running in zigzags across the full width of the road."[pcms]
+救いだったのは、こっちの道には放置自動車がなかったことだ。[r]
+ボクたちは道幅いっぱいに大きく迂回したり、[r]
+ジグザグに走ったりして感染者を回避することができた。[pcms]
 
 *369|
 [fc]
-[ns]Wataru[nse]
-"Pant, pant, pant...!"[pcms]
+[ns]航[nse]
+「ぜぇ、ぜぇ、ぜぇ……っ！」[pcms]
 
 *370|
 [fc]
-"My heart started to hurt from the sudden exercise and[r]
-panic. But I have to hurry... I can't let them eat me here!"[pcms]
+急激な運動とパニックとで心臓が痛くなってくる。[r]
+だけど、急がないと……。[r]
+ここでヤツラに喰われるわけにはいかないんだ！[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *371|
 [fc]
 [vo_mar s="maru1326"]
-[ns]Margarita[nse]
-"...!?"[pcms]
+[ns]マルガリータ[nse]
+「……っ！？」[pcms]
 ;//＠三人の姿がないので、一瞬、あせる
 
 *372|
 [fc]
-"Maruko-senpai, who had just run in front of[r]
-'Kimesugitakashi,' froze in shock."[pcms]
+ようやく『キメスギタカシ』前に走りこんだマル子先輩が、[r]
+ギョッと立ちすくんだ。[pcms]
 
 *373|
 [fc]
-"The three of them are not here."[pcms]
+３人がいない。[pcms]
 
 *374|
 [fc]
-[ns]Wataru[nse]
-"Wha... Where is everyone...!?"[pcms]
+[ns]航[nse]
+「なっ……、み、みんなは……！？」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *375|
 [fc]
-"Just as I was about to panic and jump into the store, I[r]
-heard a voice."[pcms]
+焦って店の中に飛び込もうとした瞬間、声が聞こえた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *376|
 [fc]
 [vo_yuh s="yuho1466"]
-[ns]Yuuho[nse]
-"Wataru------!"[pcms]
+[ns]悠帆[nse]
+「航ーーーーーーっ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *377|
 [fc]
 [vo_ren s="ren1321"]
-[ns]Ren[nse]
-"Big brother!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ！」[pcms]
 
 *378|
 [fc]
-"Yuuho and Ren are calling out!"[pcms]
+悠帆と漣が呼んでる！[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *379|
 [fc]
-[ns]Kousuke[nse]
-"Over here--!!"[pcms]
+[ns]浩助[nse]
+「こっちだ～っ！！」[pcms]
 
 *380|
 [fc]
-"Kousuke too."[pcms]
+コースケもだ。[pcms]
 
 *381|
 [fc]
-"The three of them were standing in front of 'Dedepou,'[r]
-waving their hands wildly at us."[pcms]
+３人は『ででっぽう』の前に立って、[r]
+大きくボクらに向かって手を振り回してる。[pcms]
 
 *382|
 [fc]
-[ns]Wataru[nse]
-"They're here! Inside the store!"[pcms]
+[ns]航[nse]
+「いました！　店です！」[pcms]
 
 *383|
 [fc]
-"Senpai and I immediately started running towards Dedepou."[pcms]
+ボクと先輩は一斉に、ででっぽうに向かって駆け出した。[pcms]
 
 *384|
 [fc]
-"It's just a short distance to Dedepou. Yet that distance[r]
-felt incredibly far."[pcms]
+ででっぽうまでは、ほんの少し。[r]
+なのにその距離が途方もなく遠く感じられる。[pcms]
 
 *385|
 [fc]
-"I have to hurry, move my arms and legs faster, faster[r]
-forward..."[pcms]
+急がなくちゃ、手足をもっと早く、早く前に……。[pcms]
 
 *386|
 [fc]
-"As I struggled to run, a particularly loud growl reached my[r]
-ears."[pcms]
+もがくように走るボクの耳に、一際大きな唸り声が響く。[pcms]
 
 *387|
 [fc]
-[ns]Wataru[nse]
-"Whoa...!?"[pcms]
+[ns]航[nse]
+「う、うわっ……！？」[pcms]
 
 [ChrSetEx layer=4 chbase="etc_a"][ChrSetXY layer=4 x=334 y=0]
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0]
@@ -258,20 +251,18 @@ ears."[pcms]
 
 *388|
 [fc]
-"When I instinctively looked back, I saw a large swarm of[r]
-infected surging towards us from the direction of the[r]
-station."[pcms]
+思わず振り返ると、駅の方向から感染者の大群が[r]
+わらわらと押し寄せてくるのが見えた。[pcms]
 
 *389|
 [fc]
-"Not just that, new infected were emerging from inside the[r]
-surrounding buildings and from blind spots along the[r]
-street."[pcms]
+それだけじゃなく、周囲の建物の中や通りの死角からも[r]
+新たな感染者が続々と湧いて出てくる。[pcms]
 
 *390|
 [fc]
-[ns]Wataru[nse]
-"There are so many... were there this many...?"[pcms]
+[ns]航[nse]
+「こ、こんなに……いたのか……」[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -280,15 +271,15 @@ street."[pcms]
 *391|
 [fc]
 [vo_mar s="maru1327"]
-[ns]Margarita[nse]
-"Wataru, don't fall behind!"[pcms]
+[ns]マルガリータ[nse]
+「ワタル、遅れるなっ！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *392|
 [fc]
-[ns]Wataru[nse]
-"Yes!"[pcms]
+[ns]航[nse]
+「は、はいっ！」[pcms]
 
 ;//@konya ででっぽうキッチン
 [bg storage="BG022"][trans_c cross time=500]
@@ -296,53 +287,53 @@ street."[pcms]
 
 *393|
 [fc]
-"Senpai and I threw ourselves into Dedepou through the half-[r]
-open shutter as if diving for cover."[pcms]
+ボクらは、ででっぽうの半開きのシャッターに[r]
+身体ごと飛び込むようにして逃げ込んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *394|
 [fc]
 [vo_mar s="maru1328"]
-[ns]Margarita[nse]
-"Hurry up! Don't forget to close the shutter!"[pcms]
+[ns]マルガリータ[nse]
+「急げっ！　シャッターを忘れるな！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *395|
 [fc]
-[ns]Kousuke[nse]
-"Here you go!"[pcms]
+[ns]浩助[nse]
+「そらよっ！」[pcms]
 
 *396|
 [fc]
-"The moment I dashed in last, Kousuke, who was waiting,[r]
-slammed down the shutter. He locked the shutter, closed the[r]
-glass door, and locked it too."[pcms]
+最後にボクが駆け込んだ瞬間、[r]
+待ち構えていたコースケがシャッターを叩き下ろした。[r]
+シャッターをロックし、ガラスドアを閉め、鍵もかける。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *397|
 [fc]
-[ns]Kousuke[nse]
-"Phew... Safe at last!"[pcms]
+[ns]浩助[nse]
+「ふー…………っ、ギリギリセーフっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *398|
 [fc]
 [vo_yuh s="yuho1467"]
-[ns]Yuuho[nse]
-"That was a close call..."[pcms]
+[ns]悠帆[nse]
+「間一髪ってとこだったね……」[pcms]
 
 *399|
 [fc]
-[ns]Wataru[nse]
-"Ze... ze... ze..."[pcms]
+[ns]航[nse]
+「ぜーっ……ぜーっ……ぜーっ……」[pcms]
 
 *400|
 [fc]
-Without the leeway to respond, I collapsed onto the floor.[pcms]
+返事をする余裕もなく、ボクは床にへたりこむ。[pcms]
 
 ;//se043・金属の板を叩く音
 [se buf=0 storage="se043"]
@@ -353,8 +344,8 @@ Without the leeway to respond, I collapsed onto the floor.[pcms]
 
 *401|
 [fc]
-And then... before long, the sound of something banging on[r]
-the shutter began to echo inside the store...[pcms]
+そして……。[r]
+程なくして、シャッターを叩く音が店の中に響き出した……。[pcms]
 
 ;//→ブロック５００９０へ
 [jump storage="50090.ks" target=*50090_TOP]

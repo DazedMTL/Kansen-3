@@ -1,11 +1,11 @@
 ;//block:C016
 ;//ブロック４２１４０からフラグ判定でjump
-;//ブロック４２１５０『地下道漣のみ脱出編』
+;//ブロック４２１５０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42140.txtから
 
 *42150_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣・感染者（複数）
@@ -21,61 +21,61 @@
 
 *5797|
 [fc]
-[ns]Wataru[nse]
-"Senpai, why did those guys who should have been at the[r]
-academy come from over there... from that side ahead of us?"[pcms]
+[ns]航[nse]
+「先輩。どうして、ゆ……いや、学園にいたはずのやつらが[r]
+　あっちから……、あっち側から先回りして来たんでしょう？」[pcms]
 
 *5798|
 [fc]
-I almost say Yuuho's name, but swallow my words and ask[r]
-Senpai instead.[pcms]
+ボクは悠帆の名前を言いかけて、[r]
+それを飲み込みつつ、先輩に聞いてみる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5799|
 [fc]
 [vo_mar s="maru0775"]
-[ns]Margarita[nse]
-"They probably came through Udagawa after leaving the[r]
-academy. That's the only explanation."[pcms]
+[ns]マルガリータ[nse]
+「おそらく学園から、宇田川をとおってやってきたんだろう。[r]
+　そうとしか考えられない」[pcms]
 
 *5800|
 [fc]
 [vo_mar s="maru0776"]
-[ns]Margarita[nse]
-"Is there a road from near the academy to Udagawa... Or...[r]
-hmm, there might be a place ahead at the fork in the road[r]
-that leads to Udagawa..."[pcms]
+[ns]マルガリータ[nse]
+「学園の近くから宇田川へと通じる道があるのか……[r]
+　あるいは……んっ、この先の分かれ道の先にも宇田川へと[r]
+　向かっている場所があるな……」[pcms]
 
 *5801|
 [fc]
 [vo_mar s="maru0777"]
-[ns]Margarita[nse]
-"I still have much to learn... I used that passage as an[r]
-emergency route without considering such possibilities. It's[r]
-a significant oversight."[pcms]
+[ns]マルガリータ[nse]
+「ワタシもまだまだ、考えが甘い……。[r]
+　そういった可能性を考えずにあの通路を非常用としていた。[r]
+　誤算にもほどがある」[pcms]
 
 ;//↑　冒頭からここまで修正しました確認お願いします
 
 *5802|
 [fc]
-[ns]Wataru[nse]
-"That's not..."[pcms]
+[ns]航[nse]
+「そんなことは……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5803|
 [fc]
 [vo_mar s="maru0778"]
-[ns]Margarita[nse]
-"Shh... be quiet..."[pcms]
+[ns]マルガリータ[nse]
+「しっ……静かに……」[pcms]
 
 ;//@konya キャラ消し
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5804|
 [fc]
-Senpai's voice cuts off my attempt to follow up.[pcms]
+ボクのフォローの言葉をさえぎる先輩の声。[pcms]
 
 ;//se043・金属の板を叩く音
 [se buf=0 storage="se043"]
@@ -100,13 +100,12 @@ Senpai's voice cuts off my attempt to follow up.[pcms]
 
 *5805|
 [fc]
-Sounds of knocking on a door and trying to pry it open,[r]
-along with growling, can be heard from a distance.[pcms]
+少し離れた場所から扉を叩く音、こじ開けようとする音と、[r]
+うなり声が聞こえてくる。[pcms]
 
 *5806|
 [fc]
-Right, we're already near the basement of that branch school[r]
-building.[pcms]
+そうか、ここはもう、あの分校舎の地下室のすぐ近くだ。[pcms]
 
 ;//se043・金属の板を叩く音
 [se buf=0 storage="se043"]
@@ -133,52 +132,54 @@ building.[pcms]
 
 *5807|
 [fc]
-Every time the metal door we closed is hit, it shakes.[pcms]
+ボクたちが閉鎖した鉄の扉が金属が叩かれる音がするたびに、[r]
+揺れていている。[pcms]
 
 *5808|
 [fc]
-On the other side of the rusty metal door, it seems like a[r]
-group of crazed people has gathered, as the moaning and[r]
-banging on the door continues.[pcms]
+錆びた鉄の扉の向こう側には、すでにおかしくなった人たちが[r]
+群れているらしく、うめき声と鉄扉を叩く音が続いていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5809|
 [fc]
 [vo_mar s="maru0779"]
-[ns]Margarita[nse]
-"It seems the door will hold for a while longer... Though I[r]
-don't think it will be for much time..."[pcms]
+[ns]マルガリータ[nse]
+「どうやら、まだしばらくは扉は持ちそうだな……。[r]
+　そう長い間とは思えないが……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5810|
 [fc]
 [vo_mar s="maru0780"]
-[ns]Margarita[nse]
-"For now, it's clear that they didn't come through this door[r]
-from the fork in the road via Udagawa."[pcms]
+[ns]マルガリータ[nse]
+「とりあえず、この扉が破られて、[r]
+　この先の分かれ道から宇田川を通ってきた[r]
+　という訳ではなかったな」[pcms]
 
 *5811|
 [fc]
 [vo_mar s="maru0781"]
-[ns]Margarita[nse]
-"This reduces the likelihood of them lurking ahead. We can[r]
-proceed with a bit more peace of mind."[pcms]
+[ns]マルガリータ[nse]
+「これで、この先にあいつらがうろついている可能性は[r]
+　少し低くなった。[r]
+　これでいくらか安心して進める。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5812|
 [fc]
-We decide not to linger and quickly enter the passage toward[r]
-Shibuya Station.[pcms]
+ボクたちは長居は無用とばかりに[r]
+渋谷駅方向への通路へと入り、先を急いだ。[pcms]
 
 *5813|
 [fc]
-After a while, we come upon a path that splits in two[r]
-directions. To the left is a straight path. To the right is[r]
-a gently descending staircase.[pcms]
+しばらくいくと、目の前には二方向へと道が伸びている。[r]
+左はまっすぐな道。[r]
+右はゆるやかな下り階段だ。[pcms]
 
 ;//@konya 地下道
 [bg storage="BG027"][trans_c cross time=500]
@@ -189,50 +190,48 @@ a gently descending staircase.[pcms]
 *5814|
 [fc]
 [vo_mar s="maru0782"]
-[ns]Margarita[nse]
-"Left leads towards Meiji Street. It seems to connect to the[r]
-underground channel of Shibuya River. It's a longer route[r]
-but wider, so it's easier to escape if we're attacked..."[pcms]
+[ns]マルガリータ[nse]
+「左は明治通りの方向だな。[r]
+　この先は渋谷川の暗渠へ繋がってるようだ。[r]
+　時間はかかるが広いから、襲われても逃げやすくはあるな……」[pcms]
 
 *5815|
 [fc]
 [vo_mar s="maru0783"]
-[ns]Margarita[nse]
-"Right leads towards Udagawa Street... Ugh... The smell of[r]
-sewage is strong. It should connect directly to the[r]
-underground channel of Udagawa."[pcms]
+[ns]マルガリータ[nse]
+「右は宇田川通り方向だな……。[r]
+　うっ……下水の臭いが強いな。[r]
+　このまま宇田川の暗渠に繋がってるはずだ」[pcms]
 
 *5816|
 [fc]
 [vo_mar s="maru0784"]
-[ns]Margarita[nse]
-"It's narrow, but since it merges with Shibuya River[r]
-quickly, we should be able to reach the surface in the[r]
-shortest distance possible."[pcms]
+[ns]マルガリータ[nse]
+「狭いが、すぐに渋谷川に合流するから、[r]
+　最短の移動距離で地上に出ることができるはずだ」[pcms]
 
 *5817|
 [fc]
 [vo_mar s="maru0785"]
-[ns]Margarita[nse]
-"A wide and long path, or a narrow and short one... Now,[r]
-which should we take..."[pcms]
+[ns]マルガリータ[nse]
+「広くて長い道が、狭くて短い道か……。[r]
+　さて、どっちを行くべきか……」[pcms]
 
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ４
-;//４１：左に！渋谷川へ→ブロック４２１６０へ
-;//４２：右に！宇田川へ→ブロック４２１７０へ
+;//●選択肢Ｃ－４
+;//４－１：左に！渋谷川へ→ブロック４２１６０へ
+;//４－２：右に！宇田川へ→ブロック４２１７０へ
 
 
 ;	[link storage="42160.ks" target=*42160_TOP]左に！　渋谷川へ[endlink]
-; (link storage="42170.ks" target=*42170_TOP)To the right![r]
-Towards Udagawa(endlink)[pcms]
+;	[link storage="42170.ks" target=*42170_TOP]右に！　宇田川へ[endlink][s]
 
 *SEL38|左に！　渋谷川へ／右に！　宇田川へ
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'To the left! To the Shibuya River!'"]
-[eval exp="f.seltext04 = 'To the right! To Udagawa!'"]
+[eval exp="f.seltext02 = '左に！　渋谷川へ'"]
+[eval exp="f.seltext04 = '右に！　宇田川へ'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

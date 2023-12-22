@@ -1,10 +1,10 @@
 ;//block:C014
-;//ブロック４２１３０『地下道漣のみ脱出編』
+;//ブロック４２１３０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42080 42090.txtから
 
 *42130_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣
@@ -12,8 +12,8 @@
 ;//時間帯：
 ;//・テキスト容量：5K前後
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ１　１１：出る
-;//●選択肢Ｃ２　２１：出る
+;//●選択肢Ｃ－１　１－１：出る
+;//●選択肢Ｃ－２　２－１：出る
 
 ;//SE・バイブ音（前のファイル、42080、42090から継続）
 
@@ -25,311 +25,322 @@
 
 *5592|
 [fc]
-I operate my cellphone with trembling hands.[pcms]
+ボクは震える手でケータイを操作する。[pcms]
 
 *5593|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5594|
 [fc]
-[ns]Wataru[nse]
-"Hello... hello..."[pcms]
+[ns]航[nse]
+「……もしもし……」[pcms]
 
 *5595|
 [fc]
-While gripping the cellphone with trembling hands, I speak[r]
-up. My heart feels like it's going to leap out of my mouth[r]
-along with my words due to the tension.[pcms]
+ボクは震える手でケータイを握りながら、話しかける。[r]
+緊張に言葉と一緒に、心臓が口から飛び出してしまいそうだ。[pcms]
 
 *5596|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5597|
 [fc]
-But no reply comes back.[pcms]
+だけど、返事は返ってはこない。[pcms]
 
 *5598|
 [fc]
-[ns]Wataru[nse]
-"Hello... hello..."[pcms]
+[ns]航[nse]
+「……もしもし……」[pcms]
 
 *5599|
 [fc]
-Suppressing my shaking, I try speaking again. But still,[r]
-there's no answer.[pcms]
+震えを押し殺すように、もういちど話しかけてみる。[r]
+だけど、やっぱり返事はない。[pcms]
 
 *5600|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5601|
 [fc]
-...Could it be that someone who's gone crazy is messing with[r]
-it or something?[pcms]
+……やっぱり、おかしくなった人が[r]
+いじくるか、なんかしてるだけなのか？[pcms]
 
 *5602|
 [fc]
-No, that can't be it!![pcms]
+いや、違うはずだっ！！[pcms]
 
 *5603|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!? Yuuho...?"[pcms]
+[ns]航[nse]
+「悠帆！？[r]
+　悠帆……？」[pcms]
 
 *5604|
 [fc]
-I continue to call out Yuuho's name without giving up.[pcms]
+ボクはあきらめずに悠帆の名前を呼び続ける。[pcms]
 
 *5605|
 [fc]
-Then...[pcms]
+すると……。[pcms]
 
 *5606|
 [fc]
 [vo_yuh s="yuho0733"]
 [ns]？？？[nse]
-"...Wataru..."[pcms]
+「……わたる……」[pcms]
 ;//＠　姦染悠帆　電話越し　ぼそぼそ声
 
 *5607|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!? Is that you, Yuuho!?"[pcms]
+[ns]航[nse]
+「悠帆！？　悠帆なのか！？」[pcms]
 
 *5608|
 [fc]
-I was certain that it was Yuuho's voice.[pcms]
+それは間違いなく悠帆の声だとボクは思った。[pcms]
 
 *5609|
 [fc]
-It was a bit faint and hard to make out, and it sounded a[r]
-bit drawn out... but I was sure it was Yuuho's voice.[pcms]
+少し小さくて聞きとり難くて、[r]
+少し間延びしたようにも聞こえたけど……。[r]
+それは間違いなく悠帆の声だって。[pcms]
 
 *5610|
 [fc]
 [vo_yuh s="yuho0734"]
-[ns]Yuuho[nse]
-"...Wataru..."[pcms]
+[ns]悠帆[nse]
+「……わたる……」[pcms]
 
 *5611|
 [fc]
-Once more, a voice calls out to me.[pcms]
+もういちど、ボクを呼ぶ声。[pcms]
 
 *5612|
 [fc]
-I was a little scared, but more than that, I was so[r]
-relieved.[pcms]
+ボクは少し怖かったけど、それよりもずっとうれしかった。[pcms]
 
 *5613|
 [fc]
-I was a bit confused, and my mind felt like it was in a[r]
-mess... but still, I was relieved.[pcms]
+少し混乱してて、ちょっと頭の中が[r]
+ぐちゃぐちゃになりそうだったけど……[r]
+やっぱりうれしかった。[pcms]
 
 *5614|
 [fc]
-[ns]Wataru[nse]
-"Thank goodness... Yuuho. Are you okay... Yuuho!? Are you[r]
-hurt?"[pcms]
+[ns]航[nse]
+「よかった……悠帆。[r]
+　大丈夫か……悠帆！？[r]
+　ケガしてないか？」[pcms]
 
 *5615|
 [fc]
 [vo_yuh s="yuho0735"]
-[ns]Yuuho[nse]
-"Yeah... I'm okay..."[pcms]
+[ns]悠帆[nse]
+「うん……だいじょうぶだよ……」[pcms]
 ;//＠　姦染悠帆　ハイな感じで
 
 *5616|
 [fc]
-[ns]Wataru[nse]
-"...You seem... fine...?"[pcms]
+[ns]航[nse]
+「……元気……みたいだな……？」[pcms]
 
 *5617|
 [fc]
 [vo_yuh s="yuho0736"]
-[ns]Yuuho[nse]
-"Yep, I'm really energetic... And... I'm so hungry~"[pcms]
+[ns]悠帆[nse]
+「うんっ、とってもゲンキだよ……。[r]
+　それで……とってもオナカかすいてるの～」[pcms]
 
 *5618|
 [fc]
-[ns]Wataru[nse]
-"...That's so like you, Yuuho... To be hungry even at a time[r]
-like this..."[pcms]
+[ns]航[nse]
+「……悠帆らしいな……。[r]
+　こんな時にまでオナカが空いてるなんて……」[pcms]
 
 *5619|
 [fc]
-It's Yuuho. What she's saying is a bit out of place, but[r]
-it's definitely Yuuho.[pcms]
+悠帆だ。[r]
+言ってることは少し場違いだけど、間違いなく悠帆だ。[pcms]
 
 *5620|
 [fc]
 [vo_yuh s="yuho0737"]
-[ns]Yuuho[nse]
-"I'm really hungry... and there's something I really want to[r]
-eat~"[pcms]
+[ns]悠帆[nse]
+「とってもオナカがすいてて……、[r]
+　すごくたべたいものがあるの～」[pcms]
 
 *5621|
 [fc]
-[ns]Wataru[nse]
-"Seriously... I was worried about you... And yet..."[pcms]
+[ns]航[nse]
+「まったく……心配してたんだぞ……。[r]
+　それなのに……」[pcms]
 
 *5622|
 [fc]
-...Yuuho is really carefree. It's just like her... I guess?[pcms]
+……悠帆ったら……本当にノンキだな。[r]
+悠帆らしいといえば悠帆らしい……かな？[pcms]
 
 *5623|
 [fc]
-[ns]Wataru[nse]
-"...So where are you?"[pcms]
+[ns]航[nse]
+「……それでどこにいるんだ？」[pcms]
 
 *5624|
 [fc]
 [vo_yuh s="yuho0738"]
-[ns]Yuuho[nse]
-"...I'm nearby..."[pcms]
+[ns]悠帆[nse]
+「……ちかくにいるよ……」[pcms]
 
 *5625|
 [fc]
-[ns]Wataru[nse]
-"Nearby? Then come over here quickly. We have some snacks[r]
-here..."[pcms]
+[ns]航[nse]
+「近く？[r]
+　じゃあ、早くこっちにこいよ。[r]
+　こっちには少しだけどお菓子もあるし……」[pcms]
 
 *5626|
 [fc]
-[ns]Wataru[nse]
-"...!?"[pcms]
+[ns]航[nse]
+「………………！？」[pcms]
 
 *5627|
 [fc]
-I realize that Yuuho is saying something very strange.[pcms]
+ボクは悠帆がすごくおかしなことを言っているのに気がついた。[pcms]
 
 *5628|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... Do you know where we are right now?"[pcms]
+[ns]航[nse]
+「悠帆……。[r]
+　……ボクたちが今どこにいるか知ってるの？」[pcms]
 
 *5629|
 [fc]
 [vo_yuh s="yuho0739"]
-[ns]Yuuho[nse]
-"Yep... I know~"[pcms]
+[ns]悠帆[nse]
+「うんっ……しってるよ～」[pcms]
 
 *5630|
 [fc]
-[ns]Wataru[nse]
-"...How!?"[pcms]
+[ns]航[nse]
+「……どうして！？」[pcms]
 
 ;//不気味なＢＧＭ
 
 *5631|
 [fc]
-How did Yuuho find out? We haven't told her that we're here.[r]
-And yet...[pcms]
+どうやって、悠帆は知ったんだろうか？[r]
+ボクたちがここにいることは、悠帆には伝えていない。[r]
+それなのに……。[pcms]
 
 *5632|
 [fc]
-The mystery sends a chill down my spine and clears my[r]
-confused mind.[pcms]
+その不可解さがボクの背筋を寒くして、[r]
+混乱していた頭をハッキリさせる。[pcms]
 
 *5633|
 [fc]
-That's not all. Something is definitely off.[pcms]
+それだけじゃない。[r]
+やっぱり、なにかヘンだ。[pcms]
 
 *5634|
 [fc]
-[ns]Wataru[nse]
-"Where... where are you right now!?"[pcms]
+[ns]航[nse]
+「い、今……どこに……いるの！？」[pcms]
 
 *5635|
 [fc]
 [vo_yuh s="yuho0740"]
-[ns]Yuuho[nse]
-"Really close~. Ah~, I found Kousuke too~"[pcms]
+[ns]悠帆[nse]
+「すごく、ちかく～。[r]
+　あ～、こうすけもみつけた～」[pcms]
 
 *5636|
 [fc]
-[ns]Wataru[nse]
-"Kousuke!?"[pcms]
+[ns]航[nse]
+「コースケ！？」[pcms]
 
 *5637|
 [fc]
-In a panic, I look towards where Kousuke should be in front[r]
-of me.[pcms]
+ボクはあわてて正面にいるはずのコースケの方を見る。[pcms]
 
 *5638|
 [fc]
-[ns]Kousuke[nse]
-"... ...Mmm..."[pcms]
+[ns]浩助[nse]
+「…………。……んっ……」[pcms]
 
 *5639|
 [fc]
-Kousuke seems to be sleeping comfortably.[pcms]
+コースケは気持ちよさそうに寝ている。[pcms]
 
 *5640|
 [fc]
-Then I turn my eyes towards the direction of the school we[r]
-came from.[pcms]
+それからボクは、ボクたちのやってきた学園へと続く方へ[r]
+目を向けた。[pcms]
 
 *5641|
 [fc]
-But the light from the lantern doesn't reach very far.[pcms]
+だけど、ランタンの光はあまり遠くまでは届いていない。[pcms]
 
 *5642|
 [fc]
-I reach out for the flashlight and light up the corridor.[r]
-The strong light illuminates the surroundings.[pcms]
+ボクは手をのばして、懐中電灯をとると通路を照らした。[r]
+強い光が、あたりを照らし出す。[pcms]
 
 *5643|
 [fc]
-But Yuuho's figure is nowhere to be seen.[pcms]
+だけど、そこには悠帆の姿は見えない。[pcms]
 
 *5644|
 [fc]
-[ns]Wataru[nse]
-"Yuuho...?"[pcms]
+[ns]航[nse]
+「悠帆……？」[pcms]
 
 *5645|
 [fc]
 [vo_yuh s="yuho0741"]
-[ns]Yuuho[nse]
-"...behind... you..."[pcms]
+[ns]悠帆[nse]
+「……うしろ……だよ……」[pcms]
 
 *5646|
 [fc]
-[ns]Wataru[nse]
-"...eh...?"[pcms]
+[ns]航[nse]
+「……えっ……」[pcms]
 
 *5647|
 [fc]
 [vo_yuh s="yuho0742"]
-[ns]Yuuho[nse]
-"... Wataru, are you behind me?"[pcms]
+[ns]悠帆[nse]
+「………………。[r]
+　……わたるの、うしろにいるよ？」[pcms]
 
 *5648|
 [fc]
-I thought my heart would stop. My body stiffens and won't[r]
-move. My mouth dries up with a tingling tension.[pcms]
+ボクは心臓が止まるかと思った。[r]
+身体がこわばって動かない。[r]
+しびれるような緊張に口の中が乾いてくる。[pcms]
 
 *5649|
 [fc]
-It's definitely strange! This Yuuho... she's not normal.[pcms]
+やっぱり、ヘンだ！[r]
+この悠帆は……どこか普通じゃない。[pcms]
 
 *5650|
 [fc]
-[ns]Wataru[nse]
-"...!!"[pcms]
+[ns]航[nse]
+「………………っ！！」[pcms]
 
 
 *5651|
 [fc]
-I suppress my fear and anxiety, and immediately look to the[r]
-opposite side! Turning around, I look towards Yoyogi Park...[r]
-the direction that had been a dead end when I checked with[r]
-the senior before.[pcms]
+ボクは恐怖と不安を押さえこんで、すぐさま反対側を！[r]
+振り返って、代々木公園側を……[r]
+さっき先輩と確かめて行き止まりになっていた方を見る。[pcms]
 
 ;BGM即時停止
 [fadeoutbgm time=500]
@@ -339,13 +350,13 @@ the senior before.[pcms]
 *5652|
 [fc]
 [vo_yuh s="yuho0743"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 
 *5653|
 [fc]
-About 40 meters into the darkness... Yuuho's figure holding[r]
-her cellphone emerges.[pcms]
+４０メートル先ぐらいの闇の中に……[r]
+携帯電話を握る悠帆の姿が浮かび上がった。[pcms]
 
 [bgm storage="BGM04"]
 
@@ -357,24 +368,24 @@ her cellphone emerges.[pcms]
 *5654|
 [fc]
 [vo_yuh s="yuho0744"]
-[ns]Yuuho[nse]
-"...you found me~"[pcms]
+[ns]悠帆[nse]
+「……みつかっちゃった～」[pcms]
 
 *5655|
 [fc]
-Yuuho slowly waves at me. With a vacant, pasted-on smile on[r]
-her face...[pcms]
+悠帆はゆっくりとボクに手を振った。[r]
+顔にうつろな、はりついたような笑顔を浮かべながら……。[pcms]
 
 *5656|
 [fc]
-It was a strangely lively smile, like that of someone drunk,[r]
-completely different from Yuuho's voice, like a bloodless[r]
-mask.[pcms]
+それは、妙に元気で、[r]
+よっぱらったようにも聞こえる悠帆の声とはまったく違った、[r]
+血の通っていない仮面のような笑顔だった。[pcms]
 
 *5657|
 [fc]
-And within that mask-like face, eyes shining bright red. A[r]
-dull light, red and black like blood.[pcms]
+そして、その仮面のような顔の中で真っ赤に光っている目。[r]
+血のように赤く黒く鈍い光。[pcms]
 
 ;//se107・歩く足音　ゆっくり　数歩
 ;//[se buf=0 storage="se107"]
@@ -384,72 +395,74 @@ dull light, red and black like blood.[pcms]
 *5658|
 [fc]
 [vo_yuh s="yuho0745"]
-[ns]Yuuho[nse]
-"What's wrong~ Wataru~"[pcms]
+[ns]悠帆[nse]
+「どうしたの～わたる～」[pcms]
 
 *5659|
 [fc]
-Yuuho slowly, swaying back and forth, walks towards us. Just[r]
-like the zombies in the horror movie we watched during[r]
-summer vacation with Yuuho, with clumsy steps...[pcms]
+悠帆はゆっくり、ゆらリゆらりとボクたちの方へ歩いてくる。[r]
+まるで、悠帆と一緒に夏休みにＴＶで見たホラー映画の[r]
+ゾンビのようにつたない足どりで……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_f49"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5660|
 [fc]
 [vo_yuh s="yuho0746"]
-[ns]Yuuho[nse]
-"Ehehehe... I can't seem to walk properly~. So~, Wataru~,[r]
-wait there for me~"[pcms]
+[ns]悠帆[nse]
+「えへへへへっ……なんだかうまくあるけないの～。[r]
+　だから～、わたる～そこでまっててね～」[pcms]
 
 *5661|
 [fc]
-[ns]Wataru[nse]
-"...hik...!"[pcms]
+[ns]航[nse]
+「……ひっ……」[pcms]
 
 *5662|
 [fc]
-I let out a scream that barely sounds like a voice as I[r]
-instinctively back away...[pcms]
+ボクはかろうじて声になったような悲鳴をあげながら、[r]
+思わず後ずさる……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_f48"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5663|
 [fc]
 [vo_yuh s="yuho0747"]
-[ns]Yuuho[nse]
-"Why are you running away~? Hey~, Wataru~"[pcms]
+[ns]悠帆[nse]
+「どうして、にげるの～？[r]
+　ねぇ～、わたるぅ……」[pcms]
 
 ;//se508・複数の感染者のうなり声
 [se buf=0 storage="se508"]
 
 *5664|
 [fc]
-Behind Yuuho, numerous eerie footsteps and growling voices.[r]
-And then, red eyes glowing in the darkness...[pcms]
+悠帆の背後に不気味な足音の数々、うなり声。[r]
+そして、闇に輝く赤い目……。[pcms]
 
 ;//背景　悠帆の後ろに赤い目（BG扱い）
 [evcg storage="evs001"][trans_c cross time=300]
 
 *5665|
 [fc]
-I felt like my legs would give out. But perhaps[r]
-unconsciously following what the senior had said, I was[r]
-somehow calmly accepting reality.[pcms]
+腰が抜けそうだった。[r]
+だけど、先輩に言われたことを無意識に守っているのか、[r]
+ボクはどこか冷静に現実を受け止めていた。[pcms]
 
 *5666|
 [fc]
-...Yuuho has gone strange. She's coming to attack us with[r]
-those who have become strange.[pcms]
+……悠帆はおかしくなっている。[r]
+おかしくなった人たちと、ボクたちを襲いに来ている。[pcms]
 
 *5667|
 [fc]
-I have to run... But... my body won't move from fear![pcms]
+逃げなきゃ……。[r]
+だけど……、だけど身体は恐怖に動かない！[pcms]
 
 *5668|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaaaaahhhhh!!!"[pcms]
+[ns]航[nse]
+「うわぁああぁぁぁぁああっ！！」[pcms]
 
 ;//se103・。懐中電灯を取り落とす
 ;//[se buf=0 storage="se103"]
@@ -460,8 +473,8 @@ I have to run... But... my body won't move from fear![pcms]
 
 *5669|
 [fc]
-The flashlight rolls out of my hand as I scream louder than[r]
-I ever thought possible.[pcms]
+ボクは自分でも驚くほどの悲鳴をあげた。[r]
+手から懐中電灯が転がり落ちる。[pcms]
 
 ;//@konya ev025 地下道(BG扱い)
 [evcg storage="EV025a"][trans_c cross time=300]
@@ -471,8 +484,9 @@ I ever thought possible.[pcms]
 *5670|
 [fc]
 [vo_mar s="maru0758"]
-[ns]Margarita[nse]
-"... What happened!? Wataru!!"[pcms]
+[ns]マルガリータ[nse]
+「………………。[r]
+　……どうした！？　ワタルッ！！」[pcms]
 
 ;//ここ悠帆を照らし出す演出が入れられば。
 ;//悠帆の立ち絵
@@ -489,28 +503,27 @@ I ever thought possible.[pcms]
 *5671|
 [fc]
 [vo_mar s="maru0759"]
-[ns]Margarita[nse]
-"...they've come... Where from...?"[pcms]
+[ns]マルガリータ[nse]
+「……やってきたか……。いったい、どこから……？」[pcms]
 
 ;//再び感染者たちの影のみで
 
 *5672|
 [fc]
-The senior jumps up, picks up the flashlight I dropped, and[r]
-shines it around. As soon as she jumps up, she seems to[r]
-grasp the situation.[pcms]
+先輩は飛び起きるとボクの落とした懐中電灯を拾い上げて照らす。[r]
+飛び起きたとたんに先輩は現状を把握したみたいだ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5673|
 [fc]
-[ns]Kousuke[nse]
-"...!? What happened... Wataru?"[pcms]
+[ns]浩助[nse]
+「………………！？[r]
+　どうした……ワタル？」[pcms]
 
 *5674|
 [fc]
-Kousuke quickly gets up, even though he's still a bit[r]
-sleepy.[pcms]
+少し寝ぼけながらもすぐに起き上がるコースケ。[pcms]
 
 ;//se508・複数の感染者のうなり声
 [se buf=0 storage="se508"]
@@ -519,115 +532,119 @@ sleepy.[pcms]
 
 *5675|
 [fc]
-[ns]Kousuke[nse]
-"Uwaaaah!!"[pcms]
+[ns]浩助[nse]
+「うぁあああっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5676|
 [fc]
 [vo_ren s="ren0644"]
-[ns]Ren[nse]
-"... What... happened?"[pcms]
+[ns]漣[nse]
+「………………。[r]
+　……どう……したのぉ？」[pcms]
 
 *5677|
 [fc]
-Roused by Kousuke's cry of surprise, Ren seems to still be[r]
-half asleep.[pcms]
+コースケの驚きの声にやっと起き出した漣は、[r]
+まだ寝ぼけてるみたいだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5678|
 [fc]
 [vo_mar s="maru0760"]
-[ns]Margarita[nse]
-"Gather your things quickly and run!"[pcms]
+[ns]マルガリータ[nse]
+「すぐに荷物をまとめて逃げるぞっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5679|
 [fc]
-[ns]Kousuke[nse]
-"Yes!! Ren-chan!!"[pcms]
+[ns]浩助[nse]
+「は、はいっ！！[r]
+　漣ちゃんっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5680|
 [fc]
 [vo_ren s="ren0645"]
-[ns]Ren[nse]
-"Eh... Kousuke... what...?"[pcms]
+[ns]漣[nse]
+「えっ……。[r]
+　コーちゃん……なにっ……？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5681|
 [fc]
-[ns]Kousuke[nse]
-"Just do it! Gather your things and run!!"[pcms]
+[ns]浩助[nse]
+「いいからっ！[r]
+　荷物をまとめて逃げるんだっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5682|
 [fc]
 [vo_ren s="ren0646"]
-[ns]Ren[nse]
-"Eh, ah... okay..."[pcms]
+[ns]漣[nse]
+「えっ、あっ……うんっ……」[pcms]
 
 *5683|
 [fc]
-Ren first checks her violin case before slowly starting to[r]
-pack her things.[pcms]
+漣は、まずバイオリンのケースを確かめてから、[r]
+ゆっくりと荷物をまとめはじめる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5684|
 [fc]
 [vo_mar s="maru0761"]
-[ns]Margarita[nse]
-"Hurry!! Move it!!"[pcms]
+[ns]マルガリータ[nse]
+「早く！！　急げ！！」[pcms]
 
 *5685|
 [fc]
-At the senior's command, I finally manage to move my body.[pcms]
+先輩の檄にボクはやっと身体が動いた。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5686|
 [fc]
-Even though Ren is told to hurry, she still packs her things[r]
-sluggishly. It can't be helped. Ren gets dizzy from anemia[r]
-when she wakes up.[pcms]
+漣は急げと言われても、未だにのろのろと荷物を詰め込んでいる。[r]
+しかたがない。[r]
+漣は貧血だから起きぬけはどうしてもボーっとしてしまう。[pcms]
 
 *5687|
 [fc]
-I quickly look around the area.[pcms]
+ボクは手早く辺りを見回した。[pcms]
 
 *5688|
 [fc]
-If we're not collecting the vinyl sheet, I'm ready to move[r]
-immediately since I had no intention of sleeping.[pcms]
+ビニールシートを回収しないのなら、寝る気のなかったボクは[r]
+すぐにでも動ける状態だ。[pcms]
 
 *5689|
 [fc]
-[ns]Wataru[nse]
-"Ren!"[pcms]
+[ns]航[nse]
+「漣っ！」[pcms]
 
 *5690|
 [fc]
-I go over to where Ren is packing her things and help her.[pcms]
+ボクはそのまま荷物をまとめている漣のところに行って手伝う。[pcms]
 
 *5691|
 [fc]
-I quickly fold the towel blanket and sheet and stuff them[r]
-into my bag.[pcms]
+タオルケットとシートを手早く畳んで、[r]
+ボクのバックへと詰め込んでいく。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5692|
 [fc]
 [vo_ren s="ren0647"]
-[ns]Ren[nse]
-"Big brother...?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……？」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -641,78 +658,79 @@ into my bag.[pcms]
 *5693|
 [fc]
 [vo_ren s="ren0648"]
-[ns]Ren[nse]
-"Kyaa!!"[pcms]
+[ns]漣[nse]
+「きゃっ！！」[pcms]
 
 *5694|
 [fc]
-Suddenly, the door to the DHK was violently knocked on. What[r]
-now!? What on earth is happening inside...?[pcms]
+突然、ＤＨＫへの扉が激しく叩かれた。[r]
+今度は何だ！？[r]
+いったい、中で何が……。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5695|
 [fc]
-[ns]Wataru[nse]
-"That's right... maybe father...!?"[pcms]
+[ns]航[nse]
+「そうだ……父さんなら……！？」[pcms]
 
 ;//se059・ものを探るがさごそ
 [se buf=0 storage="se059"]
 
 *5696|
 [fc]
-[ns]Wataru[nse]
-"Ren! Call dad..."[pcms]
+[ns]航[nse]
+「漣！　父さんに電話して……」[pcms]
 
 *5697|
 [fc]
-I take out my cell phone and hand it to Ren.[pcms]
+ボクはケータイを取り出すと漣に渡した。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5698|
 [fc]
 [vo_ren s="ren0649"]
-[ns]Ren[nse]
-"Eh! But..."[pcms]
+[ns]漣[nse]
+「えっ！　でも……」[pcms]
 
 *5699|
 [fc]
-[ns]Wataru[nse]
-"Just do it!"[pcms]
+[ns]航[nse]
+「いいからっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5700|
 [fc]
 [vo_ren s="ren0650"]
-[ns]Ren[nse]
-"O-okay..."[pcms]
+[ns]漣[nse]
+「う、うん……」[pcms]
 
 *5701|
 [fc]
-Ren quickly finds dad's number from the contacts and calls.[r]
-It's the cell phone dad bought us as a matching set, so she[r]
-operates it without hesitation.[pcms]
+漣は登録番号からすぐに父さんを探し出してかける。[r]
+父さんがおそろいで買ってくれたケータイだから、[r]
+漣も戸惑うことなく操作している。[pcms]
 
 *5702|
 [fc]
-In the meantime, I gather things that are close at hand and[r]
-pack them.[pcms]
+ボクはその間に手近なものをかき集めて詰め込んだ。[pcms]
 
 *5703|
 [fc]
-[ns]Wataru[nse]
-"Ren... the phone!?"[pcms]
+[ns]航[nse]
+「漣……電話は！？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5704|
 [fc]
 [vo_ren s="ren0651"]
-[ns]Ren[nse]
-"I'm calling now... It's connecting... connecting... Thank[r]
-goodness, it's calling..."[pcms]
+[ns]漣[nse]
+「今、呼び出してるよ……。[r]
+　かかって……かかって……。[r]
+　やった、コールしたよ……」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -721,21 +739,21 @@ goodness, it's calling..."[pcms]
 
 *5705|
 [fc]
-[ns]Wataru[nse]
-"Eh...!?"[pcms]
+[ns]航[nse]
+「えっ……！？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5706|
 [fc]
 [vo_ren s="ren0652"]
-[ns]Ren[nse]
-"...This is..."[pcms]
+[ns]漣[nse]
+「……これって……」[pcms]
 
 *5707|
 [fc]
-At that moment, music could be heard. It was a tune I had[r]
-heard many times before.[pcms]
+その時、音楽が聞こえてきた。[r]
+何度も聞いたことのある音楽だ。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -744,44 +762,47 @@ heard many times before.[pcms]
 
 *5708|
 [fc]
-Of course... This is... this is dad's ringtone.[pcms]
+あたりまえだ……。[r]
+これは……[r]
+これは……父さんのケータイの着信音だ。[pcms]
 
 *5709|
 [fc]
-[ns]Wataru[nse]
-"Where on earth! Where is it coming from!?"[pcms]
+[ns]航[nse]
+「いったい！　いったいどこから！？」[pcms]
 
 *5710|
 [fc]
-No need to strain my ears, I already knew...[pcms]
+……いや、耳をそばだてなくてもわかっていた……。[pcms]
 
 *5711|
 [fc]
-The sound was coming from the direction of the DHK door that[r]
-was being knocked on.[pcms]
+その音は今、叩かれているＤＨＫの扉の方から聞こえてきてた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5712|
 [fc]
 [vo_ren s="ren0653"]
-[ns]Ren[nse]
-"...Dad... Dad, is that you?"[pcms]
+[ns]漣[nse]
+「……お父……さん。[r]
+　お父さんなのっ？」[pcms]
 
 *5713|
 [fc]
-[ns]Wataru[nse]
-"Dad? Dad, are you right there!?"[pcms]
+[ns]航[nse]
+「父さん？[r]
+　そこまで来てるの父さん！？」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5714|
 [fc]
-I shout towards the DHK door.[pcms]
+ボクはＤＨＫの扉へと叫んだ。[pcms]
 
 *5715|
 [fc]
-However, there is no response.[pcms]
+しかし、返事はない。[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -797,144 +818,149 @@ However, there is no response.[pcms]
 
 *5716|
 [fc]
-Instead, the sound of the door being violently knocked and[r]
-the lock being clumsily fiddled with could be heard.[pcms]
+かわりに聞こえてくる、扉を叩く激しい音。[r]
+中のロックをガチャガチャと不器用にいじっているような音。[pcms]
 
 *5717|
 [fc]
-And then...[pcms]
+そして……。[pcms]
 
 ;//se508・複数の感染者のうなり声
 [se buf=0 storage="se508"]
 
 *5718|
 [fc]
-...a growl like that of a beast.[pcms]
+……獣のような唸り声。[pcms]
 
 *5719|
 [fc]
-[ns]Wataru[nse]
-"...Dad!?"[pcms]
+[ns]航[nse]
+「……父さん！？」[pcms]
 
 *5720|
 [fc]
-Dad is inside... right nearby!? And the crazed people are[r]
-trying to break through the door!?[pcms]
+父さんが中に……すぐ近くに！？[r]
+そして、おかしくなった人たちが扉を破ろうとしてる！？[pcms]
 
 *5721|
 [fc]
-What should I do, what can I do!?[pcms]
+ボクは、ボクはどうすれば！？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5722|
 [fc]
 [vo_mar s="maru0762"]
-[ns]Margarita[nse]
-"What's wrong Wataru! We need to escape quickly! Your[r]
-sister..."[pcms]
+[ns]マルガリータ[nse]
+「どうしたワタル！[r]
+　早く逃げるぞ！[r]
+　妹さんを……」[pcms]
 
 *5723|
 [fc]
-[ns]Wataru[nse]
-"But... even dad..."[pcms]
+[ns]航[nse]
+「そんな……父さんまでが……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5724|
 [fc]
 [vo_mar s="maru0763"]
-[ns]Margarita[nse]
-"What are you doing Wataru...!?"[pcms]
+[ns]マルガリータ[nse]
+「何をしているワタル……！？」[pcms]
 
 *5725|
 [fc]
-[ns]Wataru[nse]
-"Dad is... dad is beyond that door..."[pcms]
+[ns]航[nse]
+「父さんが……父さんが扉の向こうに……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5726|
 [fc]
 [vo_mar s="maru0764"]
-[ns]Margarita[nse]
-"...What!?"[pcms]
+[ns]マルガリータ[nse]
+「……なんだとっ！？」[pcms]
 
 *5727|
 [fc]
-The senior glares at the door with a fierce expression.[pcms]
+先輩はすごい形相で扉をにらみつける。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5728|
 [fc]
-[ns]Kousuke[nse]
-"What did you say!? Dad is... inside!!"[pcms]
+[ns]浩助[nse]
+「なんだって！？[r]
+　オヤジさんが……中にっ！！」[pcms]
 
 *5729|
 [fc]
-Kousuke also raises his voice in surprise.[pcms]
+浩助も驚きの声をあげる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5730|
 [fc]
 [vo_ren s="ren0654"]
-[ns]Ren[nse]
-"No!! Dad!? Dad ahh~~!?"[pcms]
+[ns]漣[nse]
+「いやぁ！！[r]
+　お父さんが！？[r]
+　お父さんがぁ～～！？」[pcms]
 
 *5731|
 [fc]
-Ren screams in horror.[pcms]
+漣が悲鳴をあげる。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5732|
 [fc]
-I also no longer know what to do.[pcms]
+……ボクももう、どうしていいかわからない。[pcms]
 
 *5733|
 [fc]
-[ns]Wataru[nse]
-"Senior... what should we do..."[pcms]
+[ns]航[nse]
+「先輩……どうすれば……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5734|
 [fc]
 [vo_mar s="maru0765"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5735|
 [fc]
 [vo_mar s="maru0766"]
-[ns]Margarita[nse]
-"...There's no choice but to run..."[pcms]
+[ns]マルガリータ[nse]
+「……逃げるしかない……」[pcms]
 
 *5736|
 [fc]
-[ns]Wataru[nse]
-"Run... you mean..."[pcms]
+[ns]航[nse]
+「逃げる……って……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5737|
 [fc]
 [vo_mar s="maru0767"]
-[ns]Margarita[nse]
-"Exactly as I said. We're going back to the crossroads under[r]
-the academy and escaping from there!"[pcms]
+[ns]マルガリータ[nse]
+「言葉のとおりだ。[r]
+　学園の下の分かれ道まで戻って逃げるぞ！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5738|
 [fc]
 [vo_yuh s="yuho0748"]
-[ns]Yuuho[nse]
-"Run away~ what's that~. Hey? Wataru~"[pcms]
+[ns]悠帆[nse]
+「にげるって～なぁに～。[r]
+　ねぇ？　わたる～」[pcms]
 
 ;//ここから悠帆立ち絵はっきりと
 
@@ -943,46 +969,49 @@ the academy and escaping from there!"[pcms]
 *5739|
 [fc]
 [vo_ren s="ren0655"]
-[ns]Ren[nse]
-"Waah... Yuuho-chan...!?"[pcms]
+[ns]漣[nse]
+「わっ……悠帆……ちゃん……！？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5740|
 [fc]
-[ns]Kousuke[nse]
-"...Yuuho..."[pcms]
+[ns]浩助[nse]
+「……悠帆……」[pcms]
 
 *5741|
 [fc]
-It seems Ren and Kousuke have finally noticed Yuuho.[pcms]
+漣とコースケはやっと悠帆に気がついたみたいだ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_f49"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5742|
 [fc]
 [vo_yuh s="yuho0749"]
-[ns]Yuuho[nse]
-"Ah~, Kousuke and Ren-chan, haha... Let's all get along~"[pcms]
+[ns]悠帆[nse]
+「あ～、こーすけにれんちゃんだぁ～。[r]
+　あははははははっ……。[r]
+　みんなでなかよくしよ～」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_f47"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5743|
 [fc]
 [vo_yuh s="yuho0750"]
-[ns]Yuuho[nse]
-"And yet~ Wataru... you wouldn't run away, right~"[pcms]
+[ns]悠帆[nse]
+「それなのに～。[r]
+　わたる……にげるなんてことはないよね～」[pcms]
 
 *5744|
 [fc]
-[ns]Wataru[nse]
-"Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆……」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5745|
 [fc]
-That's right, Yuuho too...[pcms]
+そうだ、悠帆も……。[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -996,28 +1025,28 @@ That's right, Yuuho too...[pcms]
 
 *5746|
 [fc]
-Behind this door is my father...[pcms]
+この扉の奥には父さんが……。[pcms]
 
 *5747|
 [fc]
-Am I going to run away again? After leaving Yuuho like that,[r]
-am I still going to flee?![pcms]
+ボクはまたにげるのか？[r]
+悠帆をあんな風にしておいて、まだ逃げるというのか！？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5748|
 [fc]
 [vo_mar s="maru0768"]
-[ns]Margarita[nse]
-"Wataru! We're going to escape from here!"[pcms]
+[ns]マルガリータ[nse]
+「ワタル！　ここから逃げるぞ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_f47"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5749|
 [fc]
 [vo_yuh s="yuho0751"]
-[ns]Yuuho[nse]
-"Wataru~"[pcms]
+[ns]悠帆[nse]
+「わたる～」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -1033,21 +1062,21 @@ am I still going to flee?![pcms]
 
 *5750|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5751|
 [fc]
-[ns]Wataru[nse]
-"Senior... I... don't want to run away anymore..."[pcms]
+[ns]航[nse]
+「先輩……ボクは……もう……逃げたくないです……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5752|
 [fc]
 [vo_mar s="maru0769"]
-[ns]Margarita[nse]
-"Wataru!"[pcms]
+[ns]マルガリータ[nse]
+「ワタルッ！」[pcms]
 
 ;//se057・ビンタ
 [se buf=0 storage="se057"]
@@ -1056,92 +1085,96 @@ am I still going to flee?![pcms]
 
 *5753|
 [fc]
-A sharp pain runs across my cheek as I'm forcefully grabbed[r]
-by the chest.[pcms]
+熱い痛みが頬にはしり、ボクは力強く胸元をつかみあげられる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5754|
 [fc]
 [vo_mar s="maru0770"]
-[ns]Margarita[nse]
-"Pull yourself together! Unfortunately, there's no way to[r]
-save your father. Give up..."[pcms]
+[ns]マルガリータ[nse]
+「しっかりしろ！[r]
+　残念だが、キミの父上を助ける方法はない。[r]
+　あきらめろ……」[pcms]
 
 *5755|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5756|
 [fc]
 [vo_mar s="maru0771"]
-[ns]Margarita[nse]
-"I understand how you feel. But do you intend to turn your[r]
-sister into such a monster as well?!"[pcms]
+[ns]マルガリータ[nse]
+「気持ちはわかる。[r]
+　しかし、キミは妹さんまであんな怪物にする気か！？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_f49"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5757|
 [fc]
 [vo_yuh s="yuho0752"]
-[ns]Yuuho[nse]
-"Hahaha~ a monster~?"[pcms]
+[ns]悠帆[nse]
+「あはははははっ～、かいぶつ～？」[pcms]
 
 *5758|
 [fc]
-Yuuho is laughing at the direction Senior is pointing.[pcms]
+先輩の指差した先では悠帆が笑ってる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5759|
 [fc]
-[ns]Kousuke[nse]
-"...Yuuho... what a state you've become..."[pcms]
+[ns]浩助[nse]
+「……悠帆……なんて姿に……」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5760|
 [fc]
-Yuuho, though staggering, is already approaching us.[pcms]
+悠帆はもう、よろよろとしながらも、すぐそこまで迫ってきている。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5761|
 [fc]
 [vo_mar s="maru0772"]
-[ns]Margarita[nse]
-"Why did you rescue your sister if not to protect her?![r]
-Isn't that what your father would have wanted?!"[pcms]
+[ns]マルガリータ[nse]
+「キミはなんのために妹さんを助け出したんだ！？[r]
+　守るんじゃないのか？！[r]
+　父上だってそれを望んでるんじゃないのか！？」[pcms]
 
 *5762|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5763|
 [fc]
-Senior pointed at Yuuho and spoke to me, igniting a sense of[r]
-mission in my heart filled with despair. It feels like blood[r]
-is returning to my powerless limbs.[pcms]
+先輩は悠帆を指差しながらボクに言った。[r]
+絶望したボクの心に使命感が湧き上がる。[r]
+力を失った手足に血が通ってゆくような気がする。[pcms]
 
 *5764|
 [fc]
-That's right, Ren is still here. I have to protect Ren!![pcms]
+そうだ、まだ漣がいる。[r]
+ボクは……。[r]
+ボクは漣を守らなくっちゃ！！[pcms]
 
 *5765|
 [fc]
-I was even asked by email from my father. It might be his[r]
-last wish.[pcms]
+父さんにメールでも頼まれたんだ。[r]
+それが父さんの最期の願いかも知れない。[pcms]
 
 *5766|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry, Senior! I'm okay now!"[pcms]
+[ns]航[nse]
+「すいませんっ、先輩！[r]
+　もう、大丈夫です！」[pcms]
 
 ;//se033・金属の鍵が力任せに破壊される音
 [se buf=0 storage="se033"]
@@ -1151,63 +1184,65 @@ last wish.[pcms]
 *5767|
 [fc]
 [vo_mar s="maru0773"]
-[ns]Margarita[nse]
-"The door here might not hold much longer! Everyone, escape[r]
-now!"[pcms]
+[ns]マルガリータ[nse]
+「もう、こっちの扉ももたないかもしれない！[r]
+　みんなすぐに逃げるぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5768|
 [fc]
-[ns]Kousuke[nse]
-"Understood!"[pcms]
+[ns]浩助[nse]
+「了解っ！」[pcms]
 
 *5769|
 [fc]
-[ns]Wataru[nse]
-"Yes!"[pcms]
+[ns]航[nse]
+「はいっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5770|
 [fc]
 [vo_ren s="ren0656"]
-[ns]Ren[nse]
-"Father... Yuuho-chan..."[pcms]
+[ns]漣[nse]
+「お父……さん……悠帆……ちゃん……」[pcms]
 
 *5771|
 [fc]
-Ren is still crouching, clutching her violin case,[r]
-frightened by the monstrous form of the approaching Yuuho,[r]
-unable to accept the separation from her father.[pcms]
+漣はまだ、うずくまったままでバイオリンのケースを抱きしめ、[r]
+迫り来る悠帆の変わり果てた姿に怯え、[r]
+父さんとの別れを受け入れられずにいた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5772|
 [fc]
 [vo_ren s="ren0657"]
-[ns]Ren[nse]
-"...Big brother..."[pcms]
+[ns]漣[nse]
+「……お兄……ちゃん……」[pcms]
 
 *5773|
 [fc]
-No, I can't accept it either... But we have to run now...[r]
-for my father's sake...[pcms]
+いや、ボクだって受け入れられていない。[r]
+……でも、今は逃げなくちゃ……。[r]
+父さんのためにも……。[pcms]
 
 *5774|
 [fc]
-[ns]Wataru[nse]
-"Let's go... Ren..."[pcms]
+[ns]航[nse]
+「行くよ……漣……」[pcms]
 
 *5775|
 [fc]
-I half-forcefully drag Ren along as if pulling her.[pcms]
+ボクは漣を半ば強引に、[r]
+引きずろうとするみたいにして連れて行く。[pcms]
 
 *5776|
 [fc]
 [vo_ren s="ren0658"]
-[ns]Ren[nse]
-"...Yeah..."[pcms]
+[ns]漣[nse]
+「……うん……」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -1216,27 +1251,29 @@ I half-forcefully drag Ren along as if pulling her.[pcms]
 
 *5777|
 [fc]
-Perhaps understanding my feelings, Ren stands up firmly and[r]
-starts running with me.[pcms]
+ボクの気持ちをわかってくれたのか、[r]
+漣はしっかりと立ちあがって駆け出してくれた。[pcms]
 
 *5778|
 [fc]
-Kousuke is carrying my luggage and lantern for me.[pcms]
+ボクの荷物とランタンは……コースケがかわりに持ってくれてた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_f49"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5779|
 [fc]
 [vo_yuh s="yuho0753"]
-[ns]Yuuho[nse]
-"Hahaha~ Ah~ wait for me~ everyone~"[pcms]
+[ns]悠帆[nse]
+「あははは～。[r]
+　あ～ん、まってよぉ～みんなぁ～」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5780|
 [fc]
-With the voice of Yuuhoor what used to be Yuuhobehind us, we[r]
-all started running away.[pcms]
+悠帆の……[r]
+いや、悠帆だったものの声を背にして、[r]
+ボクたちはみんなで逃げ出した。[pcms]
 
 ;//　→ブロック４２１４０へ
 [jump storage="42140.ks" target=*42140_TOP]

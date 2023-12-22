@@ -38,72 +38,71 @@
 
 *274|
 [fc]
-After finishing the dishes from dinner, I returned to my[r]
-room and lay down on my bed.[pcms]
+夕飯のお素麺の洗い物を済ませて自分の部屋に戻ると、[r]
+私はベッドの上に横たわった。[pcms]
 
 *275|
 [fc]
-Maybe it's because I got tangled up with some bad people[r]
-today, but I was exhausted.[pcms]
+今日は悪い人たちに絡まれたせいか、クタクタだった。[pcms]
 
 *276|
 [fc]
-Still, my brother was worried about me, and I ended up[r]
-acting spoiled, and he was kind to me, so maybe it wasn't[r]
-all bad.[pcms]
+それでもお兄ちゃんに心配してもらって、[r]
+甘えちゃったし、優しくして貰えたから、[r]
+悪いことばかりでもないかもしれない。[pcms]
 
 *277|
 [fc]
-Plus... I ended up borrowing my brother's T-shirt.[pcms]
+それに……お兄ちゃんのＴシャツを借りてきちゃった。[pcms]
 
 ;//se066・衣擦れの音
 [se buf=0 storage="se066"]
 
 *278|
 [fc]
-When I curl up, I can smell my brother's room, or rather, my[r]
-brother's scent.[pcms]
+体を丸めると、お兄ちゃんの部屋の匂いというか、[r]
+お兄ちゃんの匂いがする。[pcms]
 
 *279|
 [fc]
-He said he hardly ever wears it because it's too precious,[r]
-but it was enough to intensify my aching and restless[r]
-feelings.[pcms]
+もったいなくてあまり着てないって言ってたけれど、[r]
+私の切なくてもやもやする気持ちを高めるには十分だった。[pcms]
 
 *280|
 [fc]
 [vo_ren s="ren0440"]
-[ns]Ren[nse]
-"Big brother..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 *281|
 [fc]
-While intoxicated by the scent of my brother, my hand almost[r]
-reached down there, but I stopped it midway.[pcms]
+うっとりとするお兄ちゃんの香りを嗅ぎながら、[r]
+思わず手がアソコに伸びかけて、私は途中で手を止めた。[pcms]
 
 *282|
 [fc]
-I usually do it when my brother isn't next to me, but if I[r]
-go on as usual, he might hear my voice.[pcms]
+普段はお兄ちゃんが隣にいないときにしてるけど、[r]
+このままいつもみたいにしちゃったら、[r]
+声が聞こえちゃうかもしれない。[pcms]
 
 *283|
 [fc]
-He usually responds before opening the door, but sometimes[r]
-he opens it without permission like when he brought[r]
-dinner...[pcms]
+一応返事をしてから開けてくれるけど、お夕飯を[r]
+持ってきてくれた時みたいに[r]
+たまに勝手に開けちゃうから……。[pcms]
 
 *284|
 [fc]
-I know he's just worried about me.[pcms]
+私のこと、心配してくれてだって言うのはわかるけど。[pcms]
 
 *285|
 [fc]
-I blocked the door with a cushion and a table so it couldn't[r]
-open, then sat down on the bed.[pcms]
+私はクッションとテーブルでドアが開かないように[r]
+してから、ベッドに座り込んだ。[pcms]
 
 *286|
 [fc]
-Then, slowly, I reached my hand towards my crotch.[pcms]
+それからそろそろと自分のアソコに手を伸ばす。[pcms]
 
 ;//ここまで黒画面
 
@@ -116,398 +115,402 @@ Then, slowly, I reached my hand towards my crotch.[pcms]
 *287|
 [fc]
 [vo_ren s="ren0441"]
-[ns]Ren[nse]
-"But... what if... big brother saw me doing this...? Ah, uh,[r]
-would he think... mmm, that I'm a naughty girl... maybe..."[pcms]
+[ns]漣[nse]
+「で、でも……こんな事してるトコ……お兄ちゃんに[r]
+　見られたら、どうなるのかな……？　あふぅう、えっ、[r]
+　エッチな子だって……んっ、思われちゃう……かな……」[pcms]
 
 *288|
 [fc]
-Gently tracing the slit of my crotch, I thought about my[r]
-brother.[pcms]
+ゆっくりとアソコの割れ目部分をなぞるように触りながら、[r]
+私はお兄ちゃんの事を考えた。[pcms]
 
 *289|
 [fc]
-By the way, today he went to see the planetarium with Yuuho-[r]
-chan.[pcms]
+そう言えば今日は悠帆ちゃんと一緒にプラネタリウムを[r]
+見に行ったみたい。[pcms]
 
 *290|
 [fc]
-I wish he had invited me too...[pcms]
+私も誘って欲しかったな……。[pcms]
 
 *291|
 [fc]
-If possible, just the two of us, like we used to lie back[r]
-and watch in the hills behind Aketa, I want to gaze at the[r]
-starry sky together.[pcms]
+できるなら、二人きり、昔、明田の裏山で寝転がって[r]
+見てたように、二人で星空を眺めたい。[pcms]
 
 *292|
 [fc]
-But...[pcms]
+でも……。[pcms]
 
 *293|
 [fc]
-To my brother, am I just a stepsister?[pcms]
+お兄ちゃんにとって私は、[r]
+[ruby text="いもうと"][ch text="義妹"]でしかないの？[pcms]
 
 *294|
 [fc]
-To me, my brother is a very cool man.[pcms]
+私にとってお兄ちゃんはとっても格好いい男の人なのに。[pcms]
 
 *295|
 [fc]
 [vo_ren s="ren0442"]
-[ns]Ren[nse]
-"Ah, haahhh. Big brother... you're so... mmmfuuu, good...[r]
-look, even my breasts are getting so... pointed..."[pcms]
+[ns]漣[nse]
+「あっ、はぁああんっ。お兄ちゃん……すごく……[r]
+　んっふぅう、いい……ほら、胸もこんなに……尖って[r]
+　きちゃって……」[pcms]
 
 *296|
 [fc]
-I massaged my breasts as if the big brother in my head was[r]
-kneading them.[pcms]
+私は頭の中のお兄ちゃんが胸を揉みあげているように、[r]
+自分の胸を揉みあげた。[pcms]
 
 *297|
 [fc]
-Normally touching them doesn't feel like anything special,[r]
-but when I touch them as if the big brother in my head is[r]
-doing it, my nipples get hard and at the same time my crotch[r]
-gets slippery.[pcms]
+普通に触っても別に感じないけど、頭の中に浮かんだ[r]
+お兄ちゃんが触ってるように触ってると、[r]
+乳首がキュンと尖って、同時にアソコがぬるぬるしてくる。[pcms]
 
 *298|
 [fc]
 [vo_ren s="ren0443"]
-[ns]Ren[nse]
-"So fiercely... ah, big brother"[pcms]
+[ns]漣[nse]
+「そんなに激しく……あぁ、お兄ちゃん」[pcms]
 
 *299|
 [fc]
-The big brother in my head always comes seeking me.[pcms]
+頭の中のお兄ちゃんはいつも私を求めてくる。[pcms]
 
 *300|
 [fc]
-With fingers slick and lewdly parting the bush, as soon as[r]
-they touch the hidden nub, my body shudders with a jolt.[pcms]
+いやらしくぬるぬるした指で茂みをかきわけ、奥に[r]
+隠された突起に触れたとたん、体がビクンと震えた。[pcms]
 
 *301|
 [fc]
-Big brother was the only "stranger" who didn't react with[r]
-surprise to my appearance from the first time we met.[pcms]
+お兄ちゃんは初めて会ったときから私の容姿に[r]
+驚かなかったただ一人の『[ruby text="ひと"][ch text="他人"]』[pcms]
 
 *302|
 [fc]
-I have no melanin pigment from birth, which seems to make me[r]
-look odd.[pcms]
+先天的にメラニン色素がない私は、異様に見えるらしい。[pcms]
 
 *303|
 [fc]
-But big brother... only big brother treated me normally.[pcms]
+でも、お兄ちゃんは……お兄ちゃんだけは[r]
+私を普通に扱ってくれた。[pcms]
 
 *304|
 [fc]
-And he protected me from the insults thrown at me by unknown[r]
-children.[pcms]
+そして見知らぬ子供から不意に浴びせられる[r]
+私への悪口から守ってくれた。[pcms]
 
 *305|
 [fc]
-He never laid a hand on them but stood between me and the[r]
-bullies, glaring at them intently.[pcms]
+手を出すことはなかったけれど、[r]
+私と虐めっ子との間に立って、じっと睨み付けてくれる。[pcms]
 
 *306|
 [fc]
-That sharp gaze... just thinking about it sends shivers down[r]
-my spine.[pcms]
+あの鋭い視線……思い出しただけでもゾクゾクする。[pcms]
 
 *307|
 [fc]
 [vo_ren s="ren0444"]
-[ns]Ren[nse]
-"Mmfuuu, that's good, ah... right there! If you rub there[r]
-like that... ahnn"[pcms]
+[ns]漣[nse]
+「んふぅう、いいっ、あぁ……そこっ！[r]
+　そこをクニクニってされたら……あんっ」[pcms]
 
 *308|
 [fc]
-The big brother in my head seems to take out some pent-up[r]
-frustration by roughly kneading my crotch, thighs, and[r]
-breasts.[pcms]
+頭の中のお兄ちゃんは、まるで何かの鬱憤を晴らすかのように[r]
+私のアソコや太もも、胸を乱暴に揉みしだいていく。[pcms]
 
 *309|
 [fc]
-As I touch myself following that fantasy, my dripping honey[r]
-leaves traces on my body.[pcms]
+その妄想のままに触っていくと、トロトロの私の蜜が[r]
+私の体に跡を残す。[pcms]
 
 *310|
 [fc]
-The glistening wetness is very lewd, and big brother can't[r]
-hold back anymore.[pcms]
+ぬめぬめと光るソレはとてもいやらしくて、[r]
+お兄ちゃんはガマンできなくなってきた。[pcms]
 
 *311|
 [fc]
 [vo_ren s="ren0445"]
-[ns]Ren[nse]
-"Ah, ahnn. Big brother... ahfuuu, right there, rough...[r]
-ahnn, I WANT IT, I WANT IT. More... do you want to knead it?[r]
-My crotch... mmfuuu"[pcms]
+[ns]漣[nse]
+「あっ、あんっ。お兄ちゃ……あふぅう、そこっ、[r]
+　乱暴に……あんっ、シタイ、シタイね……。もっと……[r]
+　こねくり回したいの？　私のアソコ……んっふぅう」[pcms]
 
 *312|
 [fc]
-As I smear the melting honey around, my fingersnow acting as[r]
-big brother'sexpose my most sensitive nub.[pcms]
+トロトロにとろけ出した蜜をなすりつけながら、[r]
+私にとってはお兄ちゃんの指と化した私の指が[r]
+私の一番敏感な突起をむき出しにする。[pcms]
 
 *313|
 [fc]
-At first gently tracing around the base...[pcms]
+最初は根元の皮との間をなぞるように……。[pcms]
 
 *314|
 [fc]
-Gradually pinching and flicking the tip while driving me[r]
-further into pleasure.[pcms]
+次第に先端を摘んだりはじいたりしながら、私を[r]
+どんどん快楽へと追い込んでいった。[pcms]
 
 *315|
 [fc]
 [vo_ren s="ren0446"]
-[ns]Ren[nse]
-"That's good... that's good, big brother. My sensitive[r]
-spot... do you like it that much? Big brother..."[pcms]
+[ns]漣[nse]
+「いい……いいわ、お兄ちゃん。私の敏感なトコ……[r]
+　そんなに、んっくぅう、好き？　お兄ちゃん……」[pcms]
 
 *316|
 [fc]
-In my head, big brother's voice nods in response to me.[pcms]
+頭の中でお兄ちゃんの声が、私に答えてうなずいてくれる。[pcms]
 
 *317|
 [fc]
-The big brother in my head only looks at me.[pcms]
+頭の中のお兄ちゃんは私だけしか見ていない。[pcms]
 
 *318|
 [fc]
-All he does is make me feel good... all he does is pleasure[r]
-me.[pcms]
+私を感じさせてくれる事だけ……[r]
+私を気持ちよくする事だけだ。[pcms]
 
 *319|
 [fc]
-Yes, unlike the real big brother who looks somewhere "far[r]
-away," not at me.[pcms]
+そう、現実のお兄ちゃんのように、私ではない[r]
+どこか『遠く』を見る事なんてない。[pcms]
 
 *320|
 [fc]
-Especially after mom passed away, big brother started[r]
-looking "far away."[pcms]
+お母さんが亡くなってからは特に『遠く』を[r]
+見るようになったお兄ちゃん。[pcms]
 
 *321|
 [fc]
-I wish the real big brother would look only at me like the[r]
-one in my head does. I want him to see me as a woman.[pcms]
+現実のお兄ちゃんも私の頭の中のお兄ちゃんみたいに、[r]
+私だけ見て欲しいのに。私を女として見て欲しいのに。[pcms]
 
 *322|
 [fc]
-But what the real big brother is looking at is...[pcms]
+でも現実のお兄ちゃんが見てるのは……。[pcms]
 
 *323|
 [fc]
 [vo_ren s="ren0447"]
-[ns]Ren[nse]
-"Haahnn. No, no good, big brother. You should only look at[r]
-me. Don't look "far away"... don't look at Yuuho-chan. You[r]
-have to look at me... or I won't give it to you"[pcms]
+[ns]漣[nse]
+「はあんっ。ダメ、ダメよ、お兄ちゃん。お兄ちゃんは[r]
+　私だけ見ていればいいの。『遠く』なんて……[r]
+　悠帆ちゃんなんて見ないで。私を見なきゃ……あげないよ」[pcms]
 
 *324|
 [fc]
-When I said that, the face of the big brother in my head[r]
-looked sadly clouded.[pcms]
+私がそう言うと、頭の中のお兄ちゃんの顔は淋しそうに曇った。[pcms]
 
 *325|
 [fc]
 [vo_ren s="ren0448"]
-[ns]Ren[nse]
-"That's right, you want to do it more, don't you? Just like[r]
-the men in those naughty manga, you can't help but want to[r]
-make me feel more, right? ...Then, look at me..."[pcms]
+[ns]漣[nse]
+「そうよね、もっとシタイんでしょ？　あのエッチな漫画に[r]
+　出てくる男の人みたいに、私をもっと感じさせたくて[r]
+　たまらないんでしょ？　……なら、私を見て……」[pcms]
 
 *326|
 [fc]
-While saying that, I quickened the movement of my fingers[r]
-playing with my sensitive spot.[pcms]
+言いながら、私は自分の敏感な部分を[r]
+弄る指の動きを早めていく。[pcms]
 
 *327|
 [fc]
-The big brother in my head happily plays with my nipples.[pcms]
+頭の中のお兄ちゃんが嬉しそうに私の突起を弄るから。[pcms]
 
 *328|
 [fc]
-Because he's rough with his touches.[pcms]
+乱暴な手つきで弄っていくから。[pcms]
 
 *329|
 [fc]
-But somewhere inside, I knew.[pcms]
+でも私はどこかで気がついていた。[pcms]
 
 *330|
 [fc]
-Yuuho-chan is as kind as a real "big sister" to me, and I[r]
-love her very much.[pcms]
+悠帆ちゃんは本当の私の『お姉ちゃん』みたいに優しいし、[r]
+私も大好きな人。[pcms]
 
 *331|
 [fc]
-So maybe it's inevitable that big brother is drawn to Yuuho-[r]
-chan.[pcms]
+だから悠帆ちゃんにお兄ちゃんが惹かれていくのは[r]
+仕方がないのかもしれない。[pcms]
 
 *332|
 [fc]
-But...[pcms]
+でも……。[pcms]
 
 *333|
 [fc]
 [vo_ren s="ren0449"]
-[ns]Ren[nse]
-"Good... amazing... nnfuuh, to Yuuho-chan... I won't hand[r]
-over big brother to someone like Yuuho-chan who treats him[r]
-coldly..."[pcms]
+[ns]漣[nse]
+「いい……すごい……んっふぅう、ゆ、悠帆ちゃんに……[r]
+　悠帆ちゃんになんか、お兄ちゃんは渡さない……。[r]
+　お兄ちゃんにつれなくする悠帆ちゃんなんて……」[pcms]
 
 *334|
 [fc]
-If I were as charming as Yuuho-chan, even the real big[r]
-brother would surely notice me...[pcms]
+私だって悠帆ちゃんみたいに魅力的なら、現実の[r]
+お兄ちゃんにだって振り向いてもらえるはず……。[pcms]
 
 *335|
 [fc]
-He used to care when I was just in a T-shirt... a slightly[r]
-naughty outfit.[pcms]
+Ｔシャツだけの……少しエッチな格好をしてたら、[r]
+気にしてくれたもの。[pcms]
 
 *336|
 [fc]
-He was flustered earlier about whether to take off the[r]
-T-shirt or not.[pcms]
+さっきもＴシャツを脱ぐ、脱がないで動揺してた。[pcms]
 
 *337|
 [fc]
-When he pushed me down in the heat of the moment, he fondled[r]
-my breasts so much...[pcms]
+勢いで押し倒されたとき、[r]
+私の胸を思いっきりもんで……。[pcms]
 
 *338|
 [fc]
 [vo_ren s="ren0450"]
-[ns]Ren[nse]
-"Haaann, that's right, isn't it? You wanted to rape me just[r]
-like that, didn't you? Hey, big brother"[pcms]
+[ns]漣[nse]
+「はぁああんっ、そう、そうでしょ？　私のこと、[r]
+　あのまま犯したくて仕方なかったんでしょ？[r]
+　ねぇ、お兄ちゃん」[pcms]
 
 *339|
 [fc]
-Remembering the sensation of big brother actually fondling[r]
-my breasts, I grabbed my chest just as firmly.[pcms]
+お兄ちゃんに実際に胸を揉まれた感触を思い出しながら、[r]
+私はそれと同じように強くギュッと胸をつかんだ。[pcms]
 
 *340|
 [fc]
-It hurts, but if it's done by big brother, it feels good.[pcms]
+痛いけど、お兄ちゃんにされるのなら気持ちいい。[pcms]
 
 *341|
 [fc]
 [vo_ren s="ren0451"]
-[ns]Ren[nse]
-"Ah, ahnn. So rough... kuuu. If you stimulate my breasts and[r]
-pussy so strongly... ah, ahnn. Big brother!"[pcms]
+[ns]漣[nse]
+「あっ、あんっ。そんな乱暴に……くぅううっ。胸も[r]
+　アソコもそんなに強く刺激されたら……あっ、あんっ。[r]
+　お兄ちゃんっ」[pcms]
 
 *342|
 [fc]
-The big brother in my head started to rape me as if he was a[r]
-completely different person.[pcms]
+頭の中のお兄ちゃんはまるで人が変わったかのように、[r]
+急激に私を犯し始めた。[pcms]
 
 *343|
 [fc]
-Rubbing the entrance overflowing with honey and playing with[r]
-the sensitive nipples.[pcms]
+蜜があふれる入り口をこすり、クリクリと敏感な突起を弄る。[pcms]
 
 *344|
 [fc]
 [vo_ren s="ren0452"]
-[ns]Ren[nse]
-"Ah, aaaaah, that's too fast, too fast... kuuuuu"[pcms]
+[ns]漣[nse]
+「あっ、あぁあああ、そ、そんなはや、早すぎ……[r]
+　早すぎて……くぅうううっ」[pcms]
 
 *345|
 [fc]
-The momentum carried my finger inside...[pcms]
+にゅるんって……[r]
+勢い余って、指が入ってしまった。[pcms]
 
 *346|
 [fc]
-In the naughty manga, the man's thing enters there and they[r]
-seem to feel good.[pcms]
+エッチな漫画の中では男の人のがココに入って[r]
+気持ちよさそうにしてた。[pcms]
 
 *347|
 [fc]
-I don't feel good yet, but if big brother's dick really[r]
-entered me, would it feel good?[pcms]
+私はまだ気持ちよくなんかないけれど、指なんかじゃなく[r]
+本当にお兄ちゃんのおちんちんが入ってきたら[r]
+気持ちいいのかな？[pcms]
 
 *348|
 [fc]
-I don't know but... I don't know, but I quickly moved the[r]
-finger that had entered inside in and out.[pcms]
+わからないけど……。[r]
+わからないけど、私はそのまま中に[r]
+入ってしまった指をすばやく出し入れしてみる。[pcms]
 
 *349|
 [fc]
-If big brother's dick entered me, it would probably move[r]
-like this, so I imitated that motion...[pcms]
+お兄ちゃんのおちんちんが入ってきたら、[r]
+たぶんそう動くだろうと思う、その動きを真似して……。[pcms]
 
 *350|
 [fc]
 [vo_ren s="ren0453"]
-[ns]Ren[nse]
-"Oh, big brother. It feels good... it feels so good... My[r]
-pussy is filled with big brother's dick... feeling so much[r]
-pleasure..."[pcms]
+[ns]漣[nse]
+「お、お兄ちゃん。気持ちいい……気持ちいいよぉ……。[r]
+　私のアソコ、お兄ちゃんのおちんちんで塞がれて……[r]
+　いっぱい気持ちいい……」[pcms]
 
 *351|
 [fc]
-Big brother laughs and speeds up his movements even more.[pcms]
+お兄ちゃんは笑ってどんどん動きを早くする。[pcms]
 
 *352|
 [fc]
-At the same time, the fingers playing with the sensitive[r]
-nipples also move strongly and violently.[pcms]
+それと同時に敏感な突起を弄る指も強く、[r]
+激しく動かしてくる。[pcms]
 
 *353|
 [fc]
 [vo_ren s="ren0454"]
-[ns]Ren[nse]
-"Aaaaah... good, good. I'm being raped by big brother's[r]
-dick, being raped. I'm being raped by big brother"[pcms]
+[ns]漣[nse]
+「あぁああ……いい、いい。お兄ちゃんに、お兄ちゃんの[r]
+　おちんちんに犯されて、犯されてるよ、私。お兄ちゃんに[r]
+　強姦されちゃってる」[pcms]
 
 *354|
 [fc]
-Big brother laughs and asks if it feels good.[pcms]
+気持ちいいか？　と笑うお兄ちゃん。[pcms]
 
 *355|
 [fc]
-I nod over and over again while still speeding up the[r]
-movement of my fingers even more.[pcms]
+私は何度も何度もうなずきながら、それでも指の動きを[r]
+もっともっと早くしていった。[pcms]
 
 *356|
 [fc]
 [vo_ren s="ren0455"]
-[ns]Ren[nse]
-"Good... good... Ah! Kuuu..."[pcms]
+[ns]漣[nse]
+「いい……いい……。あっ！　くぅう……」[pcms]
 
 [メスフラ]
 
 *357|
 [fc]
-A huge wave surges through my body as if struck by[r]
-lightning, and my mind goes blank.[pcms]
+体中に電撃が突き抜けるように大きい波がやってきて、[r]
+私の頭は真っ白になった。[pcms]
 
 *358|
 [fc]
-I can't even see big brother anymore, who I should have been[r]
-able to see.[pcms]
+見えてたはずのお兄ちゃんさえ、もう見えない。[pcms]
 
 *359|
 [fc]
-My body trembles with spasms, and even though only one[r]
-finger is inside, my pussy clenches tightly around it in[r]
-response.[pcms]
+体がビクンビクン震えて、たった一本しか入れてないのに、[r]
+私のアソコがそれに連動するように私の指をビクビクと[r]
+締め付けてきた。[pcms]
 
 *360|
 [fc]
-I wonder if this spasming is because I'm clenching down; if[r]
-big brother's dick really entered me, would he find it[r]
-pleasurable?[pcms]
+このビクビクって私が締め付けちゃってるの、本当に[r]
+お兄ちゃんのおちんちんが入ってきたとき、お兄ちゃんは[r]
+気持ちいいって思ってくれるかな？[pcms]
 
 *361|
 [fc]
-Can my pussy make big brother's dick feel good?[pcms]
+私のココ、お兄ちゃんのおちんちんを[r]
+気持ちよくできるかな？[pcms]
 
 ;//〆♪：hangon　フェードアウト
 [fadeoutbgm time=500]
@@ -521,244 +524,247 @@ Can my pussy make big brother's dick feel good?[pcms]
 
 *362|
 [fc]
-I was vaguely thinking about such things when I heard a[r]
-knock on the door.[pcms]
+ぼんやりそんな事を考えてた私の耳に、[r]
+ドアのノック音が聞こえた。[pcms]
 
 *363|
 [fc]
-Did big brother hear my voice?[pcms]
+お兄ちゃんに声、聞かれちゃった？[pcms]
 
 *364|
 [fc]
-I let out a sigh of relief at my own decision to have built[r]
-a barricade in front of the door before "doing it."[pcms]
+ドキッとしながら、私は『する』前にドアの前に[r]
+バリケードを築いていた自分の判断にホッと息をつく。[pcms]
 
 ;//〆♪：hangon　フェードイン
 [bgm storage="BGM07"]
 
 *365|
 [fc]
-[ns]Wataru[nse]
-"Hey, Ren. Are you okay? You haven't fainted, have you?"[pcms]
+[ns]航[nse]
+「おい、漣。大丈夫か？　まさか、[r]
+　倒れてるんじゃないだろうな？」[pcms]
 
 *366|
 [fc]
-I can hear big brother's anxious voice through the door.[pcms]
+お兄ちゃんの焦った声がドア越しに聞こえてきた。[pcms]
 
 *367|
 [fc]
-Big brother is right there...[pcms]
+お兄ちゃんがそこにいる……。[pcms]
 
 *368|
 [fc]
-"If he saw me in this state... what would big brother[r]
-think..."[pcms]
+『こんな格好……お兄ちゃんに見られたら……』[pcms]
 
 *369|
 [fc]
-The sheets above are splattered with the naughty juice that[r]
-squirted out from my pussy, and my lower half is still[r]
-exposed.[pcms]
+シーツの上には私のアソコから噴き出したいやらしいお汁が[r]
+飛び散っていたし、下半身はむき出しのままだ。[pcms]
 
 *370|
 [fc]
-And my legs are spread wide open towards the door.[pcms]
+しかもドアのほうに向かって大きく足を開いて。[pcms]
 
 *371|
 [fc]
-I blushed while asking the big brother in my head softly,[pcms]
+私は顔を真っ赤に染めながらも、[r]
+でも頭の中のお兄ちゃんにそっと尋ねてみた。[pcms]
 
 *372|
 [fc]
-"What would you do if you saw me like this? Big brother.[r]
-Hey, do you want to do naughty things with me? You want to,[r]
-don't you?"[pcms]
+『こんな格好見たら、どうする？　お兄ちゃん。ねぇ、[r]
+　私とエッチな事シタイ？　シタイよね』[pcms]
 
 *373|
 [fc]
-I slowly started moving the finger still engulfed by my[r]
-pussy as if teasing myself.[pcms]
+私はゆっくり自分を焦らすように、アソコに[r]
+咥え込んだままの指を動かし始めた。[pcms]
 
 *374|
 [fc]
 [vo_ren s="ren0456"]
-[ns]Ren[nse]
-"I-I'm okay... I just bumped my little finger, that's all."[pcms]
+[ns]漣[nse]
+「だ、大丈夫……ちょ、ちょっと小指[r]
+　ぶつけちゃっただけだから」[pcms]
 
 *375|
 [fc]
-I think I managed to sound normal.[pcms]
+声はたぶん、普通を装えたと思う。[pcms]
 
 *376|
 [fc]
-But maybe because I just came, or because big brother is[r]
-right there, even the slow movement of my finger feels good.[pcms]
+でもイッたばかりだからなのか、お兄ちゃんがそこに[r]
+いるからなのか、ゆっくりした指の動きなのに気持ちいい。[pcms]
 
 *377|
 [fc]
 [vo_ren s="ren0457"]
-[ns]Ren[nse]
-"Your T-shirt... I'll return it later, sorry."[pcms]
+[ns]漣[nse]
+「Ｔシャツ……あとで返すから、ごめんね」[pcms]
 
 *378|
 [fc]
-[ns]Wataru[nse]
-"That's fine but... are you really okay?"[pcms]
+[ns]航[nse]
+「そりゃあいいけど……本当に大丈夫なのか？」[pcms]
 
 *379|
 [fc]
 [vo_ren s="ren0458"]
-[ns]Ren[nse]
-"Yeah... I'm okay."[pcms]
+[ns]漣[nse]
+「うん……大丈夫だよ」[pcms]
 
 *380|
 [fc]
-I could do it more intensely...[pcms]
+もっと激しくしても……。[pcms]
 
 *381|
 [fc]
-Swallowing those words was harder than I thought.[pcms]
+その言葉を飲み込むのがこれほど[r]
+大変だなんて思わなかった。[pcms]
 
 *382|
 [fc]
-Is it because it's not the voice of the big brother in my[r]
-head, but one I'm actually hearing?[pcms]
+いつもの頭の中のお兄ちゃんの声じゃなく、[r]
+本当に耳にしてるから？[pcms]
 
 *383|
 [fc]
-But the big brother in my head is on top of me, moving his[r]
-dick slowly inside me.[pcms]
+でも頭の中のお兄ちゃんは私に覆いかぶさって、[r]
+私の中でおちんちんをゆったりと動かしてる。[pcms]
 
 *384|
 [fc]
-[ns]Wataru[nse]
-"Alright. Then, good night."[pcms]
+[ns]航[nse]
+「そっか。じゃあ、おやすみ」[pcms]
 
 *385|
 [fc]
-But cruelly, the real big brother is trying to leave me.[pcms]
+でも無情にも、現実のお兄ちゃんは[r]
+私から離れようとしていた。[pcms]
 
 *386|
 [fc]
-He's going back to his own room.[pcms]
+自分の部屋に帰っちゃう。[pcms]
 
 *387|
 [fc]
-But I have no way to stop big brother.[pcms]
+けれど私はお兄ちゃんを引き止める術なんかない。[pcms]
 
 *388|
 [fc]
-Rather, I wanted the big brother in my head to make me feel[r]
-even better.[pcms]
+それよりも頭の中のお兄ちゃんに[r]
+もっと気持ちよくしてもらいたかった。[pcms]
 
 *389|
 [fc]
 [vo_ren s="ren0459"]
-[ns]Ren[nse]
-"Good night..."[pcms]
+[ns]漣[nse]
+「おやすみなさい……」[pcms]
 
 [evcg storage="HEV008c"][trans_c cross time=300]
 
 *390|
 [fc]
-As soon as I say that quickly, I stuff my removed panties[r]
-into my mouth to make sure no sounds leak out.[pcms]
+口早にそう言うと、私は脱いだ下着を口に[r]
+押し込むようにして声が漏れないように対策をした。[pcms]
 
 *391|
 [fc]
-If he hears my voice again, no matter how much of a[r]
-barricade I've built, big brother will surely break through[r]
-and enter my room.[pcms]
+また声を聞かれたら、いくらバリケードを築いていても、[r]
+お兄ちゃんはぶち破って私の部屋に[r]
+入ってくるに違いない。[pcms]
 
 *392|
 [fc]
-Then, then he would see all of me as I am now...[pcms]
+そうしたら、そうしたら私の今の姿を全部お兄ちゃんに[r]
+見られちゃって……。[pcms]
 
 *393|
 [fc]
 [vo_ren s="ren0460"]
-[ns]Ren[nse]
-"Maybe that would make big brother want to ravish me?[r]
-Roughly like the big brother in my head? Or would he be[r]
-gentle?"[pcms]
+[ns]漣[nse]
+「いっそその方がお兄ちゃんは私の事を犯したくなるかしら？[r]
+　頭の中のお兄ちゃんのように乱暴に？[r]
+　それとも優しくするかな？」[pcms]
 
 *394|
 [fc]
-No matter which, it wouldn't be such fingers but big brother[r]
-himself entering me.[pcms]
+どちらにしてもこんな指じゃなくて、[r]
+お兄ちゃん自身が入ってくる。[pcms]
 
 *395|
 [fc]
-The fingers playing with my sensitive spots wouldn't be[r]
-mine, but big brother's.[pcms]
+私の敏感なところを弄る指も私の指じゃなくて、お兄ちゃんの指。[pcms]
 
 *396|
 [fc]
 [vo_ren s="ren0461"]
-[ns]Ren[nse]
-"Ah... ah, big brother, hold me. Embrace me. I want to feel[r]
-your dick more inside me. I want to be ravished by you..."[pcms]
+[ns]漣[nse]
+「あぁ……あぁ、お兄ちゃん、私を抱いて。抱きしめて。[r]
+　お兄ちゃんのおちんちんをもっと私の中に感じたい。[r]
+　お兄ちゃんに犯されたい……」[pcms]
 
 *397|
 [fc]
-Surely big brother would stir up my insides over and over[r]
-again with his dick fiercely, fiercely.[pcms]
+きっとお兄ちゃんは激しく、激しく私の中を何度も何度も[r]
+おちんちんでかき混ぜてくる。[pcms]
 
 *398|
 [fc]
-I wrap my legs around big brother's waist and call out to[r]
-him.[pcms]
+私はお兄ちゃんの腰に足を回して、お兄ちゃんを呼んで。[pcms]
 
 *399|
 [fc]
 [vo_ren s="ren0462"]
-[ns]Ren[nse]
-"Kuhuu, ah, it's good... it's so good, big brother. Stir me[r]
-up more. Make me feel even better."[pcms]
+[ns]漣[nse]
+「くふぅうっ、いっ、いい……いいよ、お兄ちゃん。[r]
+　もっと私をかき混ぜて。もっと気持ちよくして。」[pcms]
 
 *400|
 [fc]
-As I move my fingers more and more intensely as if driving[r]
-myself into a corner, I beg big brother in my head like a[r]
-heroine from a naughty manga.[pcms]
+どんどん激しく自分を追い詰めるように指を動かしながら、[r]
+私は頭の中でまるでエッチな漫画で見たヒロインのように[r]
+お兄ちゃんにおねだりをする。[pcms]
 
 *401|
 [fc]
-The big brother in my head accepts my desires and stimulates[r]
-my freshly sensitive parts without any hesitation.[pcms]
+お兄ちゃんは私の願望を受け入れてくれて、激しく[r]
+グリグリとイッたばかりの私の敏感な部分を遠慮もなしに[r]
+刺激してきた。[pcms]
 
 *402|
 [fc]
 [vo_ren s="ren0463"]
-[ns]Ren[nse]
-"Ah, ah, aaaaah! Amazing. It's amazing... Kuhuuu, big[r]
-brother's feels so good. My pussy says it feels good... ah,[r]
-ah! It's so good!"[pcms]
+[ns]漣[nse]
+「あっ、あっ、あぁあああんっ。凄い。凄いの……[r]
+　くぅふぅううっ、お兄ちゃんのが気持ちいい。気持ち[r]
+　いいって私のアソコが……あっ、あんっ。いいっ！」[pcms]
 
 *403|
 [fc]
-The heat gathered at my hips climbs up my spine as if[r]
-crawling and begins to swell as if burning through my brain.[pcms]
+腰に溜まった熱が背骨を這い登るように上がってきて、[r]
+脳髄を焼き尽くすかのように膨らみ始める。[pcms]
 
 *404|
 [fc]
 [vo_ren s="ren0464"]
-[ns]Ren[nse]
-"Hihuuu, it's amazing... something amazing is coming. It's[r]
-coming! Aaaaah! Something amazing is coming!"[pcms]
+[ns]漣[nse]
+「ひ、ひふぅううっ、す、スゴイ……スゴイのが来る。[r]
+　来るっ！　あぁああんっ。[r]
+　スゴイのが来ちゃうよぉおっ」[pcms]
 
 *405|
 [fc]
-"You can come,"[pcms]
+『イッていいよ』[pcms]
 
 *406|
 [fc]
-I felt as if big brother said that in my head.[pcms]
+そう頭の中でお兄ちゃんが言ったような気がした。[pcms]
 
 *407|
 [fc]
-Is it an auditory hallucination, or is it really big[r]
-brother's voice?[pcms]
+それは幻聴なのか、それとも本当にお兄ちゃんの声なのか。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV008d"]
@@ -766,41 +772,41 @@ brother's voice?[pcms]
 *408|
 [fc]
 [vo_ren s="ren0465"]
-[ns]Ren[nse]
-"Hiiiiin!!"[pcms]
+[ns]漣[nse]
+「ひぃいいいんっ！！」[pcms]
 
 ;//<ChrInit><ImageLoad 7,HEV008e.bmp><UpDate Cross,1000>
 
 *409|
 [fc]
-In sync with the movement of my fingers, something[r]
-intermittently spurts out from inside me.[pcms]
+私の指の動きと連動するように、[r]
+私の中から何かが断続的に噴き出してくる。[pcms]
 
 *410|
 [fc]
-This must be what they call squirting...[pcms]
+これはきっと潮って言うものかもしれない……。[pcms]
 
 *411|
 [fc]
-My mind is scorched by pure white pleasure, and as I arch my[r]
-back greatly, I think vaguely.[pcms]
+真っ白な快感に頭の中を焼き尽くされて、[r]
+大きく体をのけぞらせながら私はぼんやりと思った。[pcms]
 
 *412|
 [fc]
 [vo_ren s="ren0466"]
-[ns]Ren[nse]
-"Big brother!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ！！」[pcms]
 
 *413|
 [fc]
-The subsequent large wave that sweeps me away.[pcms]
+続いてやってきた私をさらう大きな波。[pcms]
 
 [evcg storage="HEV008f"][trans_c cross time=300]
 
 *414|
 [fc]
-As if being swallowed by that wave... I fell into the[r]
-darkness.[pcms]
+その波に飲み込まれるように……。[r]
+私は暗闇の中へと落ちていった。[pcms]
 
 
 ;//---------------------------------------------------------------

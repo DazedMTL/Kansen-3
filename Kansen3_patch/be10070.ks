@@ -2,13 +2,13 @@
 ;//@konya 11/13 BG貼付
 
 *BE10070_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 
 *300|
 [fc]
-That's right, there should be an emergency exit in the[r]
-parlor corner of Arcadia.[pcms]
+そうだ、アルカディアのお座敷コーナーに[r]
+非常口があったはずだ。[pcms]
 
 ;//★_アルカディア
 [bg storage="BG020b"][trans_c cross time=500]
@@ -18,9 +18,8 @@ parlor corner of Arcadia.[pcms]
 
 *301|
 [fc]
-I hurried into the parlor corner of Arcadia and from there,[r]
-I went out to the LASER perimeter through the emergency[r]
-exit.[pcms]
+ボクは急いでアルカディアのお座敷コーナーに駆け込むと、[r]
+その非常口からＬＡＳＥＲ外周部に出た。[pcms]
 
 ;//★_LASER正面（夕）
 ;//外に出てるのにビル前は違うので夕景にします
@@ -32,54 +31,54 @@ exit.[pcms]
 
 *302|
 [fc]
-The lukewarm evening breeze caressed my cheeks as I stepped[r]
-onto the catwalk.[pcms]
+生暖かい夕暮れの風が、[r]
+キャットウォークにでたボクの頬を撫でる。[pcms]
 
 *303|
 [fc]
-Perhaps attracted by the sound of men breaking shutters,[r]
-before I knew it, infected ones had gathered in swarms[r]
-around LASER.[pcms]
+男たちがシャッターを壊す物音につられたのか、[r]
+いつの間にかＬＡＳＥＲの周りには感染者たちが[r]
+群れを成して集まっていた。[pcms]
 
 *304|
 [fc]
-If I go down now, it'll be the end of me.[pcms]
+今下に降りたら一巻の終わりだ。[pcms]
 
 *305|
 [fc]
-At this rate, the infected ones might have even invaded[r]
-inside LASER.[pcms]
+この分だと、ＬＡＳＥＲ内にも感染者たちが[r]
+侵入しているかもしれない。[pcms]
 
 *306|
 [fc]
-I need to hurry and save everyone, or they'll be attacked[r]
-not just by men but by the infected as well...[pcms]
+早くみんなを助けないと、男たちだけじゃなくて[r]
+感染者にまで襲われてしまう……。[pcms]
 
 *307|
 [fc]
-For now, there are no men on the catwalk.[pcms]
+今のところ、キャットウォークに男たちの姿はない。[pcms]
 
 *308|
 [fc]
-It seems they haven't followed me here.[pcms]
+ボクのことを追っては来なかったみたいだ。[pcms]
 
 *309|
 [fc]
-If I'm going to move, now's the chance.[pcms]
+移動するなら今のうちだろう。[pcms]
 
 *310|
 [fc]
-Should I return to 'Depot' and regroup?[pcms]
+「ででっぽう」にもどって体勢を立て直すか？[pcms]
 
 *311|
 [fc]
-Or should I go back inside LASER to save everyone...[pcms]
+それともみんなを助けにＬＡＳＥＲ内へもどるか……。[pcms]
 
 *312|
 [fc]
-While pondering, I continued to the dead end and used the[r]
-emergency lift in the deck floor to descend to the second-[r]
-floor catwalk.[pcms]
+ボクは思案しながら突き当たりまで進むと、[r]
+デッキの床にある非常昇降口を使って、[r]
+二階のキャットウォークまで降りていった。[pcms]
 
 
 
@@ -99,26 +98,26 @@ floor catwalk.[pcms]
 
 *313|
 [fc]
-Once I got down to the second floor, it was clear that the[r]
-road below was indeed a sea of infected ones.[pcms]
+二階まで降りてくるとよくわかるけれど、[r]
+下の道路はまさに感染者の海だった。[pcms]
 
 *314|
 [fc]
-There's not even a sliver of a chance to escape.[pcms]
+逃げ出す隙間なんてこれっぽっちもない。[pcms]
 
 *315|
 [fc]
-It seems I have no choice but to use the LASER perimeter to[r]
-move around.[pcms]
+なんとかＬＡＳＥＲ外周部を使って[r]
+移動するしかないみたいだ。[pcms]
 
 *316|
 [fc]
-Leaning out from the catwalk deck, I surveyed the[r]
-surroundings.[pcms]
+キャットウォークのデッキから身を乗り出して、[r]
+辺りの様子をうかがう。[pcms]
 
 *317|
 [fc]
-What should I do... How can I...?[pcms]
+どうしよう……どうすれば……。[pcms]
 
 ;//★_クロミ
 ;mm いらなくね[black_toplayer][trans_c cross time=1000][hide_chara_int]

@@ -17,145 +17,146 @@
 
 *2218|
 [fc]
-I just can't seem to lift my spirits.[pcms]
+気持ちがどうしても上向かない。[pcms]
 
 *2219|
 [fc]
-Walking alone like this only makes it worse.[pcms]
+こうして一人で歩いていると[r]
+それは余計に酷くなっていく。[pcms]
 
 *2220|
 [fc]
-Like a stone rolling down a hill, my thoughts keep spinning[r]
-around, falling into a dark abyss.[pcms]
+まるで坂道を転がる石ころみたいに、ボクの思考は[r]
+ぐるぐると回転しながら、暗い深みへと落ちていく。[pcms]
 
 *2221|
 [fc]
-No matter how much I think about it, it's a waste of time.[r]
-No matter how much I lament, nothing can be done. I know[r]
-very well that giving up is the only option.[pcms]
+いくら考えても時間の無駄。[r]
+いくら嘆いたってどうにもならない。[r]
+あきらめるしかないってこともよく分かっている。[pcms]
 
 *2222|
 [fc]
-But the thought of Yuuho dating that senior... I just can't[r]
-stop thinking about it.[pcms]
+だけど、悠帆があの先輩とこれから交際していくのかと[r]
+思うと、ボクは考えるのを止めることができなかった。[pcms]
 
 *2223|
 [fc]
-I hate it, I hate it, I absolutely hate it![pcms]
+嫌だ、嫌だ、絶対に嫌だ！[pcms]
 
 *2224|
 [fc]
-Words of lament repeated meaninglessly, without any solution[r]
-or specific answer.[pcms]
+なんの打開策でもなく、何の具体的な答えでもなく、[r]
+意味もなく繰り返される嘆きの言葉。[pcms]
 
 *2225|
 [fc]
-Like an echo in the mountains, they keep refraining[r]
-endlessly in my head.[pcms]
+山彦のようにそれがボクの頭の中で[r]
+延々とリフレインしつづけている。[pcms]
 
 *2226|
 [fc]
-[ns]Wataru[nse]
-I hate it... I hate that, I hate it, Yuuho...[pcms]
+[ns]航[nse]
+「嫌だ……そんなの嫌だ、嫌だよ悠帆……」[pcms]
 
 *2227|
 [fc]
-Muttering to myself like a sleepwalker, I wandered through[r]
-the deserted city streets like a lost child.[pcms]
+ボクは夢遊病者のようにブツブツとつぶやきながら、[r]
+人気のない市街地を迷子のように歩いていた。[pcms]
 
 *2228|
 [fc]
-Normally, I would reach home in no time, but the darkness of[r]
-the night seemed to swallow me up, making me feel as though[r]
-I wasn't getting anywhere no matter how much I walked.[pcms]
+いつもならあっというまに我が家にたどりつけるのに、[r]
+夜の闇がボクを飲み込んでしまって、[r]
+歩いても歩いても進んだ気がしないほどだった。[pcms]
 
 *2229|
 [fc]
-[ns]Wataru[nse]
-Yuuho... Yuuho... My... Yu...u...ho...[pcms]
+[ns]航[nse]
+「悠帆……悠帆……ボクの……ゆ、う、ほ……」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2230|
 [fc]
 [vo_ior s="iori0051"]
-[ns]Inori[nse]
-Hey, isn't that Wataru?[pcms]
+[ns]緒織[nse]
+「あれ、航やないか？」[pcms]
 
 *2231|
 [fc]
-[ns]Wataru[nse]
-...[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c3"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2232|
 [fc]
 [vo_ior s="iori0052"]
-[ns]Inori[nse]
-It is Wataru, what's wrong? Are you crying?[pcms]
+[ns]緒織[nse]
+「やっぱり航や、どないしたん？　泣いてはるのん？」[pcms]
 
 *2233|
 [fc]
-When I stopped at the sound of the voice and looked up,[r]
-Inori-san was standing in front of me.[pcms]
+声に足を止めて視線を上げてみると、[r]
+ボクの前に緒織さんが立っていた。[pcms]
 
 *2234|
 [fc]
-[ns]Wataru[nse]
-Inori...san?[pcms]
+[ns]航[nse]
+「い、緒織……さん？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c5"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2235|
 [fc]
 [vo_ior s="iori0053"]
-[ns]Inori[nse]
-Oh my, what a terrible face... What on earth happened?[pcms]
+[ns]緒織[nse]
+「あれまぁ、酷い顔して……いったいなにがあったん」[pcms]
 
 *2236|
 [fc]
-Even with Inori-san in front of me, all I could manage was a[r]
-pathetic face drenched in tears.[pcms]
+目の前に緒織さんがいるというのに、ボクは情けないことに[r]
+涙でぐしゃぐしゃの汚い顔しかできなかった。[pcms]
 
 *2237|
 [fc]
-I wanted to wipe away my tears and make up some excuse, but[r]
-no matter how hard I tried to hold back, tears kept[r]
-overflowing like a dam burst by heavy rain.[pcms]
+できることなら涙を拭いて、適当に誤魔化したかったけど、[r]
+いくらこらえようとしても、大雨で決壊したダムのように、[r]
+ボクの涙腺からは涙があふれ続けた。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c4"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2238|
 [fc]
 [vo_ior s="iori0054"]
-[ns]Inori[nse]
-I don't know what's going on... But it seems like something[r]
-very painful has happened.[pcms]
+[ns]緒織[nse]
+「なんやわからへんけど……。[r]
+　とっても辛い事があったようやな」[pcms]
 
 *2239|
 [fc]
-[ns]Wataru[nse]
-Ah...ughh, hicc...[pcms]
+[ns]航[nse]
+「あぅ……うぐぅっ、ひっぐぅ……」[pcms]
 
 *2240|
 [fc]
-The more I tried to respond, the more I just ended up[r]
-sobbing pathetically.[pcms]
+言葉を返そうとすればするほど、[r]
+ボクは無様な嗚咽を洩らすばかりだった。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c5"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2241|
 [fc]
 [vo_ior s="iori0055"]
-[ns]Inori[nse]
-It's okay, it's okay. There's no need to force yourself to[r]
-talk.[pcms]
+[ns]緒織[nse]
+「かまへん、かまへんよ。[r]
+　無理にしゃべることなんかあらへん」[pcms]
 
 *2242|
 [fc]
-[ns]Wataru[nse]
-Ughh...[pcms]
+[ns]航[nse]
+「うっくぅ……」[pcms]
 
 ;//---------------------------------------------------------------
 ;//◎選択肢
@@ -167,14 +168,14 @@ Ughh...[pcms]
 
 ;	[link storage="00102.ks" target=*00102_TOP]緒織さんなら、ボクの気持ちが分かってくれるかもしれない[endlink]
 ;	[link storage="00101.ks" target=*00101_XX]こんな所、緒織さんにも見られたくなんかない！[endlink]
-[pcms]
+;	[s]
 
 *SEL04|緒織さんなら、ボクの気持ちが／緒織さんにも見られたくなんかない！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Inori might understand my feelings'"]
-[eval exp="f.seltext04 = 'I don\'t want someone like Inori-san to see me in a place like this!'"]
+[eval exp="f.seltext02 = '緒織さんなら、ボクの気持ちが分かってくれるかもしれない'"]
+[eval exp="f.seltext04 = 'こんな所、緒織さんにも見られたくなんかない！'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -213,24 +214,24 @@ Ughh...[pcms]
 
 *2243|
 [fc]
-I don't want to be seen like this by Inori-san![pcms]
+こんな所、緒織さんにも見られたくなんかない！[pcms]
 
 ;//暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2244|
 [fc]
-The next moment, I shook off Inori-san and started running.[pcms]
+次の瞬間、ボクは緒織さんを振り払って駆け出していた。[pcms]
 
 *2245|
 [fc]
-Because I couldn't bear her kindness. More than anything...[r]
-I didn't want her to see me like this.[pcms]
+緒織さんの優しさに、耐えられなかったから。[r]
+なによりも……こんな姿を見られたくなかったから。[pcms]
 
 *2246|
 [fc]
-Under the cold gaze of the stars, I just kept running[r]
-desperately...[pcms]
+ボクの情けない様を星々が冷たく見下ろす中、[r]
+ただひたすらに駆けていった……。[pcms]
 
 [jump storage="00110.ks" target=*00110_TOP]
 ;//----------------------------------------------------------

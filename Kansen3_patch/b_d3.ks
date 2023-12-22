@@ -18,131 +18,128 @@
 
 *4527|
 [fc]
-Should I go to Yuuho or to Ren?[pcms]
+悠帆の元へ行くか、漣の元へ行くか。[pcms]
 
 *4528|
 [fc]
-First of all, it's not like I can pick up one on the way[r]
-since they're at opposite ends of the school.[pcms]
+だいいち、ご丁寧に学園の端と端にあるから、[r]
+途中でどっちかをピックアップしてなんて真似はできない。[pcms]
 
 *4529|
 [fc]
-Both are important to me, and I want to check on their[r]
-safety right away.[pcms]
+ボクにとってはどちらも大事で、[r]
+どちらも同じくらい安否を今すぐにも確かめたいのに。[pcms]
 
 *4530|
 [fc]
-I only have one body.[pcms]
+体は一つしかない。[pcms]
 
 *4531|
 [fc]
-I was caught in a dilemma, completely forgetting my own[r]
-situation. That's right... I myself am in the midst of[r]
-danger.[pcms]
+ボクはジレンマに陥って、すっかり自分の立場を忘れていた。[r]
+そう……ボク自身が危険地帯真っ只中にいることを。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_a"][ChrSetXY layer=5 x=178 y=0][trans_c cross time=150]
 
 *4532|
 [fc]
-[ns]Infected Man A[nse]
-"Gyahahahaha! Prey. There's prey here."[pcms]
+[ns]感染者・男Ａ[nse]
+「ぎゃははははっ！　エサだ。エサがいるぞ」[pcms]
 
 *4533|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaaaah!!"[pcms]
+[ns]航[nse]
+「うわぁあああっ！！」[pcms]
 
 *4534|
 [fc]
-Startled by the voice from behind, I blindly fled from the[r]
-spot.[pcms]
+後ろからの声に驚いて、ボクは闇雲にその場から逃げた。[pcms]
 
 *4535|
 [fc]
-But it was too late. My body was easily lifted up by a man.[pcms]
+だが時既に遅し。ボクの体は軽々と、[r]
+男に抱えあげられていた。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
 *4536|
 [fc]
-[ns]Infected Man B[nse]
-"Been screwing around since morning and I'm starving."[pcms]
+[ns]感染者・男Ｂ[nse]
+「朝から犯りまくりで腹がペコペコだぜ」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4537|
 [fc]
-[ns]Infected Man C[nse]
-"Me too."[pcms]
+[ns]感染者・男Ｃ[nse]
+「俺もだ」[pcms]
 
 *4538|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「え……」[pcms]
 
 *4539|
 [fc]
-These guys... could they be, geez, gay?[pcms]
+こいつら……もしかして、げ、ゲイ？[pcms]
 
 *4540|
 [fc]
-If that's the case... I'd rather be caught by female[r]
-infectees, there would be all sorts of nice things to[r]
-feel...[pcms]
+そんな……こんな事なら、女の感染者に捕まったほうが、[r]
+いろいろあんな気持ちいい事やこんな気持ちいい事……。[pcms]
 
 *4541|
 [fc]
-That thought was fleeting.[pcms]
+そう思った瞬間だった。[pcms]
 
 *4542|
 [fc]
-The moment I realized my thinking was completely wrong...[pcms]
+ボクの考えが完全に間違いだった事を[r]
+思い知らされたのは……。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_a"][ChrSetXY layer=5 x=178 y=0][trans_c cross time=150]
 
 *4543|
 [fc]
-[ns]Infected Person - Male A[nse]
-"Since I caught him, I'll eat first."[pcms]
+[ns]感染者・男Ａ[nse]
+「捕まえたのは俺なんだから、一番に食うぜ」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
 *4544|
 [fc]
-[ns]Infected Man B[nse]
-"Then what should I do..."[pcms]
+[ns]感染者・男Ｂ[nse]
+「じゃあ俺はどうすっかな……」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4545|
 [fc]
-[ns]Infected Man C[nse]
-"I'll take the ass, of course."[pcms]
+[ns]感染者・男Ｃ[nse]
+「俺は、当然ケツだ」[pcms]
 
 *4546|
 [fc]
-The faces of the men approaching me with their mouths wide[r]
-open.[pcms]
+大口を開けてボクに迫ってくる男たちの顔。[pcms]
 
 *4547|
 [fc]
-The "eat" the men mentioned wasn't metaphorical, but[r]
-literally...[pcms]
+男たちが言った『食う』は比喩的な意味ではなく、[r]
+文字通り……。[pcms]
 
 [赤フラ]
 
 *4548|
 [fc]
-[ns]Wataru[nse]
-"Ugyaaaaaaaah!!"[pcms]
+[ns]航[nse]
+「うぎゃぁあああああっ！！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4549|
 [fc]
-The intense pain of being bitten on the neck was the last[r]
-thing I felt before my consciousness was engulfed in[r]
-darkness.[pcms]
+首に噛みつかれた激しい痛みを最期に、[r]
+ボクの意識は闇に閉ざされた。[pcms]
 
 ;//〆：ゲームオーバー画面へ
 ;//jump：ブロック●●●●●
@@ -151,4 +148,4 @@ darkness.[pcms]
 
 ;//ゲームオーバー
 [gameover time=0 movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]

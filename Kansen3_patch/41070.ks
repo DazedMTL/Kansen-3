@@ -1,33 +1,33 @@
 ;//block:A008
 ;//ブロック４１０６０から選択肢でjump
-;//ブロック４１０７０『地下道悠帆のみ脱出』END1
+;//ブロック４１０７０『地下道～悠帆のみ脱出～』END1
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41060.txtから
 
 *41070_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・悠帆（制服＋バッグ）・マルガリータ（制服）
 ;//時間帯：
 ;//・テキスト容量：２K前後
 ;//---------------------------------------------------------------
-;//●選択肢Ａ２　２１：左に！渋谷川へ
+;//●選択肢Ａ－２　２－１：左に！渋谷川へ
 
 ;[sysbt_meswin]
 
 *2873|
 [fc]
-[ns]Wataru[nse]
-"Let's go to the left."[pcms]
+[ns]航[nse]
+「左に行きましょう」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2874|
 [fc]
 [vo_mar s="maru0386"]
-[ns]Margarita[nse]
-"Understood..."[pcms]
+[ns]マルガリータ[nse]
+「わかった……」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -36,7 +36,7 @@
 
 *2875|
 [fc]
-We continued on our way.[pcms]
+ボクたちはそのまま進んだ。[pcms]
 
 ;//場面転換
 
@@ -48,17 +48,17 @@ We continued on our way.[pcms]
 *2876|
 [fc]
 [vo_mar s="maru0387"]
-[ns]Margarita[nse]
-"This should be near Shibuya Station..."[pcms]
+[ns]マルガリータ[nse]
+「ここは渋谷駅の近くのはずだ……」[pcms]
 
 *2877|
 [fc]
-From the opposite side, another dark channel extended,[r]
-making it more of a Y-shaped fork than a T.[pcms]
+反対側からも暗渠が伸びてきていて、[r]
+ＴというよりはＹに近い三叉路になっている。[pcms]
 
 *2878|
 [fc]
-We kept heading towards Shibuya Station.[pcms]
+ボクたちはそのまま渋谷駅の方へと進む。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -69,70 +69,67 @@ We kept heading towards Shibuya Station.[pcms]
 *2879|
 [fc]
 [vo_yuh s="yuho0235"]
-[ns]Yuuho[nse]
-"It's towards Shibuya Station, right? By the way, there's an[r]
-urban legend that subway stations have secret escape routes[r]
-hidden..."[pcms]
+[ns]悠帆[nse]
+「渋谷駅の方ですよね。[r]
+　そういえば、地下鉄の駅って秘密の脱出通路が[r]
+　隠されているっていう都市伝説が……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2880|
 [fc]
 [vo_mar s="maru0388"]
-[ns]Margarita[nse]
-"That might also originate from passages like this one.[r]
-Surprisingly, we might be able to get out at Shibuya[r]
-Station."[pcms]
+[ns]マルガリータ[nse]
+「それもこの手の通路から来ているんだろう。[r]
+　案外、渋谷の駅にも出られるのかもしれない」[pcms]
 
 *2881|
 [fc]
-[ns]Wataru[nse]
-"If we can get out at Shibuya Station, it's spacious... even[r]
-if we encounter infected people, it would be easier to[r]
-escape."[pcms]
+[ns]航[nse]
+「渋谷駅に出れば、広いから……感染者に出くわしても[r]
+　逃げやすくはありますね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2882|
 [fc]
 [vo_mar s="maru0389A"]
-[ns]Margarita[nse]
-"Yes. But depending on the situation, we might be crushed by[r]
-a horde of infected, just like in a zombie movie."[pcms]
+[ns]マルガリータ[nse]
+「ああ。[r]
+　だが、場合によってはまるでゾンビ映画のように、[r]
+　[ruby text="あの連中"][ch text="感染者"]の群に押しつぶされるかもしれない」[pcms]
 ;//〆ボイスa、b有り
 
 *2883|
 [fc]
 [vo_mar s="maru0390"]
-[ns]Margarita[nse]
-"Getting out at Shibuya Station is something to consider. We[r]
-can't be too optimistic just because it's spacious. If there[r]
-are a lot of people, it means there could be just as many[r]
-infected."[pcms]
+[ns]マルガリータ[nse]
+「渋谷駅に出るのは考え物だな。[r]
+　広いからと楽観視はできない。[r]
+　人が多ければ、それだけ感染したやつが多いと考えられる」[pcms]
 
 *2884|
 [fc]
 [vo_mar s="maru0391"]
-[ns]Margarita[nse]
-"If we move forward, there should be many exits. It would be[r]
-better to find the best one among them."[pcms]
+[ns]マルガリータ[nse]
+「先に進めば、出口は多いはずだ。[r]
+　その中から最良と思われるものを見つけた方がいい」[pcms]
 
 *2885|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はい……」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2886|
 [fc]
-We continued down the passage. But no matter how much we[r]
-walked, no path leading to the surface or elsewhere[r]
-appeared.[pcms]
+ボクたちは通路を進み続けた。[r]
+だけど、なかなか地上や他へと続く道は現れない。[pcms]
 
 *2887|
 [fc]
-Anxiety and tension ran through us.[pcms]
+ボクたちの間に不安と緊張が走る。[pcms]
 
 [bg storage="BG027"][trans_c cross time=500]
 
@@ -141,115 +138,116 @@ Anxiety and tension ran through us.[pcms]
 *2888|
 [fc]
 [vo_mar s="maru0392"]
-[ns]Margarita[nse]
-"This is strange. We should have come across at least one[r]
-exit by now... Have we taken a wrong turn?"[pcms]
+[ns]マルガリータ[nse]
+「おかしいな。[r]
+　そろそろ出口のひとつもあってもいいはずだが……。[r]
+　ワタシたちは道を誤ってしまったのだろうか？」[pcms]
 
 *2889|
 [fc]
-[ns]Wataru[nse]
-"Are you saying we should have escaped towards the sea[r]
-instead?"[pcms]
+[ns]航[nse]
+「海側に逃げた方が良かったってことですか？」[pcms]
 
 *2890|
 [fc]
 [vo_mar s="maru0393"]
-[ns]Margarita[nse]
-"No, I can't say that for sure... But I'm starting to feel[r]
-anxious about how far this passage goes. Maybe my judgment[r]
-was too optimistic."[pcms]
+[ns]マルガリータ[nse]
+「いや、そうとは言い切れないが……。[r]
+　いったいこの通路はどこまで続いているのか[r]
+　不安になってきた。ワタシの判断は甘かったのではとな」[pcms]
 
 *2891|
 [fc]
-[ns]Wataru[nse]
-"Even you get anxious sometimes, Senpai?"[pcms]
+[ns]航[nse]
+「先輩でも不安になることがあるんですね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2892|
 [fc]
 [vo_yuh s="yuho0236"]
-[ns]Yuuho[nse]
-"Ah, speaking of zombie movies earlier, I've seen zombies[r]
-attacking from the sea. The sea isn't necessarily safe."[pcms]
+[ns]悠帆[nse]
+「あっ、そういえばさっきゾンビ映画って[r]
+　いってたじゃないですか。わたし、海から襲ってくるゾンビを[r]
+　見たことがありますよ。海が安全とは限りませんよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2893|
 [fc]
 [vo_mar s="maru0394"]
-[ns]Margarita[nse]
-"From the sea?"[pcms]
+[ns]マルガリータ[nse]
+「海から？」[pcms]
 
 *2894|
 [fc]
-[ns]Wataru[nse]
-"...You mean the one where zombies get eaten by sharks?"[pcms]
+[ns]航[nse]
+「……それって、ゾンビが鮫に食べれられちゃうやつ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2895|
 [fc]
 [vo_yuh s="yuho0237"]
-[ns]Yuuho[nse]
-"That's right. Wataru and I watched it on TV during summer[r]
-vacation when we were kids. You remember."[pcms]
+[ns]悠帆[nse]
+「そうそう。[r]
+　昔、航と一緒に夏休みのお昼にＴＶでやってたのを[r]
+　見たよね。覚えてたんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a28"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2896|
 [fc]
 [vo_mar s="maru0395"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *2897|
 [fc]
-Senpai is making a strange face.[pcms]
+先輩は変な顔をしている。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2898|
 [fc]
-It must be a weird movie that not many people know about,[r]
-and Senpai, being an international student, probably doesn't[r]
-know about those oddly selected movies shown on TV during[r]
-the day.[pcms]
+きっと知ってる人の少ない変な映画だし、[r]
+お昼にやってる妙にセレクトの濃い映画のＴＶ放映なんて[r]
+留学生の先輩は知らないんだろう。[pcms]
 
 *2899|
 [fc]
-That roadshow doesn't run on holidays or weekends, and[r]
-serious students would only have a chance to watch it during[r]
-long vacations. I can't imagine Senpai going out of her way[r]
-to watch it.[pcms]
+あのロードショー、休日、祝日はやってないし、[r]
+まじめな学生だと長期休暇くらいしか見る機会がない。[r]
+それをわざわざ先輩が見るとは思えない。[pcms]
 
 *2900|
 [fc]
-It's only natural for her to make a strange face.[pcms]
+変な顔をするのも当然だ。[pcms]
 
 *2901|
 [fc]
-Yuuho must have said that to dispel the creeping anxiety.[pcms]
+悠帆は、きっと忍び寄ってきている不安を打ち消すために[r]
+言ったんだな。[pcms]
 
 *2902|
 [fc]
-For now, Senpai tilts her head and seems unable to think[r]
-about her worries anymore, and I'm about to burst into[r]
-laughter because it's so funny, so I guess her plan worked.[pcms]
+とりあえず、先輩は首をかしげて不安なことを[r]
+考えられなくなったみたいだし、ボクはおかしくて[r]
+笑い出しそうだから、その思惑は成功したと言っていい。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2903|
 [fc]
 [vo_mar s="maru0396"]
-[ns]Margarita[nse]
-"Let's leave the movie talk at that... For now, let's[r]
-hurry..."[pcms]
+[ns]マルガリータ[nse]
+「映画の話はそれくらいにして……。[r]
+　と、とりあえず、急ごう……」[pcms]
 
 *2904|
 [fc]
-We continued on our way after all.[pcms]
+ボクたちはやっぱりそのまま、進み続けた。[pcms]
 
 ;//場面転換
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -264,33 +262,32 @@ We continued on our way after all.[pcms]
 *2905|
 [fc]
 [vo_mar s="maru0397"]
-[ns]Margarita[nse]
-"...!?"[pcms]
+[ns]マルガリータ[nse]
+「………………！？」[pcms]
 
 *2906|
 [fc]
-Senpai suddenly stopped in her tracks.[pcms]
+先輩の足が急に止まる。[pcms]
 
 *2907|
 [fc]
-[ns]Wataru[nse]
-"What's wrong, Senpai?"[pcms]
+[ns]航[nse]
+「どうしたんですか？　先輩？」[pcms]
 
 *2908|
 [fc]
-We all hurriedly came to a stop as Senpai abruptly halted.[pcms]
+急に足を止めた先輩に、ボクたちもあわてて立ち止まる。[pcms]
 
 *2909|
 [fc]
 [vo_mar s="maru0398"]
-[ns]Margarita[nse]
-"...There's something here..."[pcms]
+[ns]マルガリータ[nse]
+「……なにかいる……」[pcms]
 ;//＠耳打ちするように
 
 *2910|
 [fc]
-Senpai said this to us without turning around, in a hushed[r]
-voice.[pcms]
+先輩はボクたちに潜めた声で振り返らずに言った。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -300,39 +297,39 @@ voice.[pcms]
 
 *2911|
 [fc]
-Indeed, there was something ahead of us, and we could[r]
-constantly hear something like a crying sound.[pcms]
+たしかに、前にはなにかがいて、[r]
+なにか鳴き声のようなものがしきりに聞こえている。[pcms]
 
 *2912|
 [fc]
 [ns]？？？[nse]
-"..."[pcms]
+「………………」[pcms]
 ;//＠ホームレス感染者
 
 ;//　感染者の立ち絵のシルエット？
 
 *2913|
 [fc]
-The lantern light, still shaking violently from our recent[r]
-run, momentarily illuminated something like a searchlight on[r]
-patrol.[pcms]
+さっきまで走っていたためにまだ激しくゆれている[r]
+ランタンの光。それがまるで、サーチライトの巡回のように[r]
+一瞬なにかを映し出す。[pcms]
 
 *2914|
 [fc]
-[ns]Wataru[nse]
-"...!?"[pcms]
+[ns]航[nse]
+「………………！？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2915|
 [fc]
 [vo_yuh s="yuho0238"]
-[ns]Yuuho[nse]
-"...!!"[pcms]
+[ns]悠帆[nse]
+「………………っ！！」[pcms]
 
 *2916|
 [fc]
-Each of us aimed our lights toward that "something."[pcms]
+各々が手にしたライトがその“なにか”へと向けられる。[pcms]
 
 ;//SE・ショックを表す　音？　入れない方がいいかも
 ;//＠　ホームレス感染者
@@ -342,122 +339,122 @@ Each of us aimed our lights toward that "something."[pcms]
 *2917|
 [fc]
 [ns]？？？[nse]
-"...Aah~..."[pcms]
+「………………。……あ゛～っ……」[pcms]
 
 *2918|
 [fc]
-It was... an old man in tattered clothes. He must be a[r]
-homeless person who had settled down here.[pcms]
+それは……ボロボロの服を着たオジサンだった。[r]
+きっとここに住み着いているホームレスの人だろう。[pcms]
 
 ;//se068・ネズミの鳴き声
 [se buf=0 storage="se068"]
 
 *2919|
 [fc]
-A few rats were scurrying around his feet... no, behind him[r]
-was an uncountable number of rats.[pcms]
+足元には数匹のネズミがうろうろとしている。[r]
+……いや、その後ろには数え切れないほどのネズミが。[pcms]
 
 *2920|
 [fc]
 [ns]？？？[nse]
-"...Aah~..."[pcms]
+「………………。……あ゛～っ……」[pcms]
 ;//＠　ホームレス感染者
 
 *2921|
 [fc]
-But... something was off.[pcms]
+だけど……なにかがおかしい。[pcms]
 
 *2922|
 [fc]
-The tattered clothes were dirty and had turned a terrible[r]
-color, dark red... And his eyes also shone with a similar[r]
-murky red color...[pcms]
+ボロボロの服は汚れてすごい色になっていて、赤黒い。[r]
+……そして、目もそれに似た赤く濁った色に輝いていて……。[pcms]
 
 *2923|
 [fc]
-[ns]Homeless[nse]
-"...Aah~... ...obobo..."[pcms]
+[ns]ホームレス[nse]
+「……あ゛～っ……。……おぼぼっ……」[pcms]
 
 *2924|
 [fc]
-The old man let out a sickening voice.[pcms]
+オジサンが気持ちの悪い声を出す。[pcms]
 
 *2925|
 [fc]
-It was as if something was stuck in his throat, a leaking of[r]
-air, a nauseating sound like he was vomiting...[pcms]
+まるで喉になにかが詰まったような、空気が漏れるような、[r]
+気持ち悪くなって吐いているような……。[pcms]
 
 ;//se068・ネズミの鳴き声
 [se buf=0 storage="se068"]
 
 *2926|
 [fc]
-Chuchu...[pcms]
+ちゅちゅ……。[pcms]
 
 *2927|
 [fc]
-Rats were scurrying up the old man's body.[pcms]
+ネズミがオジサンの身体へと駆け上がっていく。[pcms]
 
 *2928|
 [fc]
-And then, they went right into the area around his cheek.[pcms]
+そして、そのまま頬のあたりに入っていった。[pcms]
 
 ;//　立ち絵差分１　頬を食い破られて　ネズミが顔をのぞかせている　（作れたら）
 
 *2929|
 [fc]
-...The old man had... two mouths.[pcms]
+……オジサンには……口が二つあった。[pcms]
 
 *2930|
 [fc]
-One side of his cheek was gaping open with a dark red hole,[r]
-and a rat peeking out from there was nibbling on the old[r]
-man's face.[pcms]
+片方の頬が赤黒くぽっかりと穴があいていて、[r]
+そこから顔をのぞかせたネズミがオジサンの顔を[r]
+コリコリとかじっていた。[pcms]
 
 *2931|
 [fc]
-[ns]Wataru[nse]
-"...are you okay?"[pcms]
+[ns]航[nse]
+「……だいじょうぶ……ですか？」[pcms]
 
 *2932|
 [fc]
-I felt like my mind was going to break, and with great[r]
-effort, I threw those words at the old man.[pcms]
+ボクは頭の中が変になりそうで、[r]
+やっとのことで浮かんだその言葉をオジサンに投げかける。[pcms]
 
 *2933|
 [fc]
-...Of course, he wasn't okay.[pcms]
+……大丈夫なわけがない。[pcms]
 
 *2934|
 [fc]
-Not just his face. In the center of all the dark red stains[r]
-on his tattered clothes, rats were burrowing in and gnawing[r]
-on the old man's body.[pcms]
+顔だけじゃない。ボロボロになった服のそこらじゅうにある[r]
+赤黒いシミの中心はすべて、ネズミが入り込んで[r]
+おじさんの身体を齧っていた。[pcms]
 
 *2935|
 [fc]
-Rats with eyes as dark red as blood...[pcms]
+血のように赤黒い目をしたネズミたちが……。[pcms]
 
 ;//se069・ネズミのかじる音
 [se buf=0 storage="se069"]
 
 *2936|
 [fc]
-The sound of flesh being torn and bones being chewed echoed[r]
-faintly in the dark, quiet underpass.[pcms]
+肉を齧りとり、骨を食む音が暗く静かな地下道に[r]
+小さく響いていた。[pcms]
 
 *2937|
 [fc]
-[ns]Homeless[nse]
-"...Aah~ it feels good... obobo... feels good..."[pcms]
+[ns]ホームレス[nse]
+「……あ゛～　き゛もちい゛い゛[r]
+　……おぼぼぼっ……きもちい゛い゛……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2938|
 [fc]
 [vo_yuh s="yuho0239"]
-[ns]Yuuho[nse]
-"...eek..."[pcms]
+[ns]悠帆[nse]
+「……ひいっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
@@ -472,48 +469,48 @@ faintly in the dark, quiet underpass.[pcms]
 
 *2939|
 [fc]
-[ns]Homeless[nse]
-"...Aah~~. Obobo... Being eaten by rats~. ...obobo... feels[r]
-so good~~!!"[pcms]
+[ns]ホームレス[nse]
+「……あ゛～～。おぼぼっ……。ネズミにくわれるの～。[r]
+　……おぼ　ぼぼっ……き゛もち゛いい゛～～！！」[pcms]
 
 *2940|
 [fc]
-The old man slowly approached us.[pcms]
+オジサンはゆっくりとボクらに迫ってくる。[pcms]
 
 *2941|
 [fc]
-Every time a small rat entered or exited his mouth, his[r]
-voice became strange, making creepy sounds like "obobo" and[r]
-"obobobo"...[pcms]
+小さなネズミが口の中に出入りするたびに、[r]
+声がおかしくなって『おぼぼっ』『おぼぼぼっ』と[r]
+気味の悪い音を出しながら……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2942|
 [fc]
 [vo_mar s="maru0399"]
-[ns]Margarita[nse]
-"It's them! Run!!"[pcms]
+[ns]マルガリータ[nse]
+「ヤツらだっ！　逃げるんだ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2943|
 [fc]
 [vo_yuh s="yuho0240"]
-[ns]Yuuho[nse]
-"...!"[pcms]
+[ns]悠帆[nse]
+「…………………っ！」[pcms]
 
 *2944|
 [fc]
-[ns]Wataru[nse]
-"...!? ...yes, let's go!!"[pcms]
+[ns]航[nse]
+「…………！？　……は、はいっ！！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2945|
 [fc]
-Snapping back to reality at Maruko-senpai's voice, I quickly[r]
-grabbed Yuuho's hand and ran.[pcms]
+いち早く正気を取り戻したマル子先輩の声にボクは[r]
+はっとして、悠帆の手をとって逃げ出した。[pcms]
 
 ;//　場面転換
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -528,53 +525,52 @@ grabbed Yuuho's hand and ran.[pcms]
 *2946|
 [fc]
 [vo_mar s="maru0400"]
-[ns]Margarita[nse]
-"Hurry, let's get back to the fork in the road..."[pcms]
+[ns]マルガリータ[nse]
+「急いで、三叉路のところに戻って……」[pcms]
 
 *2947|
 [fc]
-[ns]Wataru[nse]
-"Senpai, wouldn't it have been better to avoid that old man[r]
-and move on...?"[pcms]
+[ns]航[nse]
+「先輩、あのおじさんを避けて進んだ方が[r]
+　よかったんじゃ……」[pcms]
 
 *2948|
 [fc]
 [vo_mar s="maru0401"]
-[ns]Margarita[nse]
-"No, rats are terrifying. If that many hungry ones attack,[r]
-humans don't stand a chance. I've seen rats kill people by[r]
-eating them."[pcms]
+[ns]マルガリータ[nse]
+「いや、ネズミは恐ろしい。アレだけの数が腹をすかせて[r]
+　襲ってきたら人間なんてひとたまりもない。[r]
+　ワタシはそうやって人間を食い殺すネズミを見たことがある」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2949|
 [fc]
 [vo_yuh s="yuho0241"]
-[ns]Yuuho[nse]
-"Those rats... they were so big..."[pcms]
+[ns]悠帆[nse]
+「あのネズミ……とっても大きかった……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2950|
 [fc]
 [vo_mar s="maru0402"]
-[ns]Margarita[nse]
-"The sewers of Tokyo must be very nutritious. I've heard of[r]
-rats that grew like that chewing through underground[r]
-facility wiring..."[pcms]
+[ns]マルガリータ[nse]
+「東京の下水はよほど栄養がいいらしい。あんな風に育った[r]
+　ネズミが地下施設の配線を噛み千切ると聞いたことが……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2951|
 [fc]
 [vo_yuh s="yuho0242"]
-[ns]Yuuho[nse]
-"------!!"[pcms]
+[ns]悠帆[nse]
+「――――――っ！！」[pcms]
 
 *2952|
 [fc]
-[ns]Wataru[nse]
-"...Senpai!"[pcms]
+[ns]航[nse]
+「……先輩っ！」[pcms]
 
 ;//SE即時停止
 [stopse buf=0]
@@ -584,20 +580,21 @@ facility wiring..."[pcms]
 *2953|
 [fc]
 [vo_mar s="maru0403"]
-[ns]Margarita[nse]
-"What?!"[pcms]
+[ns]マルガリータ[nse]
+「なにっ！」[pcms]
 
 *2954|
 [fc]
-Senpai stopped at our words, then muttered with frustration.[pcms]
+ボクたちの言葉に先輩の足が止まる。[r]
+そして、悔しそうな呟き。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2955|
 [fc]
 [vo_mar s="maru0404"]
-[ns]Margarita[nse]
-"...It turned out just as I feared..."[pcms]
+[ns]マルガリータ[nse]
+「……恐れていたとおりになったか……」[pcms]
 
 ;//感染者　シルエットで
 ;//他のエンドとの差別化で
@@ -607,7 +604,7 @@ Senpai stopped at our words, then muttered with frustration.[pcms]
 *2956|
 [fc]
 [ns]？？？[nse]
-"...uuuh... a woman"[pcms]
+「……ううっ……おんなだぁ」[pcms]
 ;//＠感染者
 
 [ChrSetEx layer=5 chbase="yuho_b8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -615,8 +612,8 @@ Senpai stopped at our words, then muttered with frustration.[pcms]
 *2957|
 [fc]
 [vo_yuh s="yuho0243"]
-[ns]Yuuho[nse]
-"Kyaa...!!"[pcms]
+[ns]悠帆[nse]
+「きゃあ……っ！！[pcms]
 
 ;//　ここから　立ち絵カラーで
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -625,18 +622,17 @@ Senpai stopped at our words, then muttered with frustration.[pcms]
 
 *2958|
 [fc]
-[ns]Infected Student D[nse]
-"...ka, ka, Kannagi! I wanna do her!"[pcms]
+[ns]感染者・学生Ｄ[nse]
+「……か、か、かんなぎだぁ！　ヤリてぇ！」[pcms]
 
 *2959|
 [fc]
-[ns]Infected Student E[nse]
-"A foreign exchange student~. I've always wanted to do it[r]
-with a foreigner~"[pcms]
+[ns]感染者・学生Ｅ[nse]
+「留学生だ～。俺、外人とやってみたかったんだ～」[pcms]
 
 ;//恐らくキャラ指定ミス　Ｆは男で使用している
-[ns]Infected Student F[nse]
-;//「おちんぽもあるわ。ちょうだい」
+;//[ns]感染者・学生Ｆ[nse]
+;//「おちんぽもあるわ～。ちょうだ～い」
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 [bg storage="BG027"][trans_c cross time=500]
@@ -646,157 +642,156 @@ with a foreigner~"[pcms]
 *2960|
 [fc]
 [vo_mar s="maru0405"]
-[ns]Margarita[nse]
-"Tigers at the front gate, wolves at the back... No, rats at[r]
-the front gate, rapists at the back, it seems..."[pcms]
+[ns]マルガリータ[nse]
+「前門の虎、後門の狼……。[r]
+　いや、前門の鼠、後門の強姦魔といったところか……」[pcms]
 
 *2961|
 [fc]
-Senpai murmured calmly. In contrast to her calm words, I[r]
-became even more flustered.[pcms]
+先輩は冷静な声でつぶやく。[r]
+ボクはその冷静さな言葉に、逆にあわててしまう。[pcms]
 
 *2962|
 [fc]
-[ns]Wataru[nse]
-"What should we do, Senpai?"[pcms]
+[ns]航[nse]
+「ど、どうしましょう先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2963|
 [fc]
 [vo_mar s="maru0406"]
-[ns]Margarita[nse]
-"Now that it's come to this, we have no choice but to break[r]
-through those crazed people..."[pcms]
+[ns]マルガリータ[nse]
+「こうなったら、おかしくなった連中を[r]
+　突っ切るしかないな……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2964|
 [fc]
 [vo_yuh s="yuho0244"]
-[ns]Yuuho[nse]
-"Are... are you okay?"[pcms]
+[ns]悠帆[nse]
+「だ……だいじょうぶですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2965|
 [fc]
 [vo_mar s="maru0407"]
-[ns]Margarita[nse]
-"We're not okay..."[pcms]
+[ns]マルガリータ[nse]
+「大丈夫ではないな……」[pcms]
 
 *2966|
 [fc]
-[ns]Wataru[nse]
-"Not okay means..."[pcms]
+[ns]航[nse]
+「大丈夫じゃないって……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2967|
 [fc]
 [vo_mar s="maru0408"]
-[ns]Margarita[nse]
-"But there's no other way. If we're lucky, we can make them[r]
-run into the rats..."[pcms]
+[ns]マルガリータ[nse]
+「だが、それしかない。うまくいけば、[r]
+　あいつらとネズミを鉢合わせにできる……」[pcms]
 
 *2968|
 [fc]
-[ns]Wataru[nse]
-"...yes..."[pcms]
+[ns]航[nse]
+「……は、はい……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2969|
 [fc]
-Filled with anxiety about whether I could do it with my lack[r]
-of strength, I answered.[pcms]
+体力のないボクにできるだろうかと不安になりながら、[r]
+ボクは答えた。[pcms]
 
 *2970|
 [fc]
-At that moment...[pcms]
+その時……。[pcms]
 
 *2971|
 [fc]
-[ns]Wataru[nse]
-"...! Yuuho..."[pcms]
+[ns]航[nse]
+「……！？　悠帆……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2972|
 [fc]
 [vo_yuh s="yuho0245"]
-[ns]Yuuho[nse]
-"Let's go... Wataru"[pcms]
+[ns]悠帆[nse]
+「いこう……航」[pcms]
 
 *2973|
 [fc]
-Yuuho held my hand.[pcms]
+悠帆がボクの手を握った。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2974|
 [fc]
-I had grabbed Yuuho's hand several times before to escape,[r]
-but this was the first time she reached out for mine, and I[r]
-hadn't been able to notice its feel due to the lack of[r]
-composure.[pcms]
+さっきまで何度か悠帆の手を握って逃げたけど、[r]
+悠帆のほうからは初めてだったし、[r]
+余裕がなくてその感触まではわからなかった。[pcms]
 
 *2975|
 [fc]
-The softness and warmth I felt for the first time gave[r]
-courage to my timid heart.[pcms]
+こうして、初めてしっかりと感じとれたその柔らかさと[r]
+温かさはボクの弱気な心に勇気を呼び起こす。[pcms]
 
 *2976|
 [fc]
-[ns]Wataru[nse]
-"Yeah!"[pcms]
+[ns]航[nse]
+「うんっ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2977|
 [fc]
 [vo_yuh s="yuho0246"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 
 *2978|
 [fc]
-As I nodded vigorously, feeling stronger than I ever had,[r]
-Yuuho silently nodded back.[pcms]
+ボクが自分でも力強く感じるくらいに首を縦に振ると、[r]
+悠帆は無言でうなずいた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2979|
 [fc]
 [vo_mar s="maru0409"]
-[ns]Margarita[nse]
-"You two are good. Dive into the area where they're less[r]
-dense. Just like doing the breaststroke, push through and[r]
-break out in one go."[pcms]
+[ns]マルガリータ[nse]
+「いいな二人とも。なるべく、あいつらの密度の低い[r]
+　ところに飛び込むんだ。そのまま平泳ぎをするように[r]
+　かき分けて、一気に抜けるんだ」[pcms]
 
 ;//　主人公と悠帆の返事は一緒。　収録ミスにつながってはいけないので分けました
 
 *2980|
 [fc]
-[ns]Wataru[nse]
-"Yes!"[pcms]
+[ns]航[nse]
+「はいっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2981|
 [fc]
 [vo_yuh s="yuho0247"]
-[ns]Yuuho[nse]
-"Yes!"[pcms]
+[ns]悠帆[nse]
+「はいっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2982|
 [fc]
 [vo_mar s="maru0410"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -806,172 +801,175 @@ break out in one go."[pcms]
 
 *2983|
 [fc]
-As we responded together, our senior nodded in confirmation[r]
-and then plunged into the crowd of crazed people.[pcms]
+ボクたちが一緒に返事をすると、[r]
+それをたしかめた先輩はうなずいて、[r]
+おかしくなった人間の群に飛び込んだ。[pcms]
 
 ;//se082・コンクリートの上の足音（二人）
 ;//[se buf=0 storage="se082"]
 
 *2984|
 [fc]
-Following our senior, Yuuho and I also...[pcms]
+先輩に続いて、ボクと悠帆も。[pcms]
 
 *2985|
 [fc]
-I moved forward as if pushing through a crowd in a packed[r]
-train to reach the exit at the station we'd arrived at.[pcms]
+まるで目的の駅に着いた満員電車の中で人をかき分けて[r]
+出口に向かうようにボクは進んだ。[pcms]
 
 *2986|
 [fc]
-...If only this was a crowded train during a date, how nice[r]
-that would have been, I couldn't help but think.[pcms]
+……これがデートの途中の満員電車だったら、[r]
+どんなによかっただろうとボクは考えてしまう。[pcms]
 
 *2987|
 [fc]
-A long-awaited date with Yuuho. And when we get home, Ren,[r]
-Dad...[pcms]
+念願の悠帆とのデート。[r]
+そして、家に帰れば、漣が父さんが……。[pcms]
 
 *2988|
 [fc]
-Kousuke and Yuuho's uncle and aunt too... properly...[pcms]
+コースケや悠帆のおじさんやおばさんだって……[r]
+ちゃんと……。[pcms]
 
 *2989|
 [fc]
 [vo_mar s="maru0411"]
-[ns]Margarita[nse]
-"Kyaaahhh!!"[pcms]
+[ns]マルガリータ[nse]
+「きゃああぁあっ！！」[pcms]
 
 *2990|
 [fc]
-Just as I began to indulge in such fantasies, a scream from[r]
-our senior snapped me back to reality.[pcms]
+そんな妄想をしかけたボクを現実に[r]
+一気に引き戻すかのように、先輩の悲鳴が聞こえる。[pcms]
 
 *2991|
 [fc]
-Our senior, who had never let out such screams before, was[r]
-screaming![pcms]
+これまで悲鳴らしい悲鳴なんか出したことのない先輩が、[r]
+悲鳴だなんて！[pcms]
 
 *2992|
 [fc]
-[ns]Wataru[nse]
-"Senior!"[pcms]
+[ns]航[nse]
+「先輩っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a15"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2993|
 [fc]
 [vo_mar s="maru0412"]
-[ns]Margarita[nse]
-"Ah...uhh..."[pcms]
+[ns]マルガリータ[nse]
+「ああっ……ううっ……」[pcms]
 
 *2994|
 [fc]
-[ns]Infected Student H[nse]
-"The blonde exchange student... nice..."[pcms]
+[ns]感染者・学生Ｈ[nse]
+「金髪の留学生ぇ～。いいっ……」[pcms]
 
 *2995|
 [fc]
-[ns]Infected Student I[nse]
-"Blonde~ blonde~"[pcms]
+[ns]感染者・学生Ｉ[nse]
+「金髪～金髪ぅ～」[pcms]
 
 *2996|
 [fc]
-Our senior's long, beautiful blonde hair was being roughly[r]
-grabbed and pulled by the crazed students.[pcms]
+先輩の長くてきれいな金髪は、おかしくなった生徒たちに[r]
+乱暴に捕まれ引っ張られていた。[pcms]
 
 *2997|
 [fc]
-[ns]Wataru[nse]
-"Senior!"[pcms]
+[ns]航[nse]
+「先輩っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a14"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2998|
 [fc]
 [vo_mar s="maru0413"]
-[ns]Margarita[nse]
-"Don't worry about me! Run away!"[pcms]
+[ns]マルガリータ[nse]
+「ワ、ワタシにかまうなっ！[r]
+　逃げろ！」[pcms]
 
 *2999|
 [fc]
-[ns]Wataru[nse]
-"But...!!"[pcms]
+[ns]航[nse]
+「で、でもっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a13"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3000|
 [fc]
 [vo_mar s="maru0414"]
-[ns]Margarita[nse]
-"Ugh... Just go! Wataru! Kannagi!"[pcms]
+[ns]マルガリータ[nse]
+「ううっ……。[r]
+　い、いいから逃げろ！　ワタル！　カンナギッ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3001|
 [fc]
-While being dragged by her hair, our senior was still...[r]
-What should I do!?[pcms]
+髪を引っ張られ、引きずられながらも先輩は……。[r]
+ボクは……どうしたら！？[pcms]
 
 *3002|
 [fc]
 [vo_yuh s="yuho0248"]
-[ns]Yuuho[nse]
-"Kyaaahhh!! Wataru!!"[pcms]
+[ns]悠帆[nse]
+「きゃああぁあっ！！　航っ！！」[pcms]
 
 *3003|
 [fc]
-This time it was Yuuho's scream!! My firmly held hand was[r]
-being pulled with a thud.[pcms]
+今度は悠帆の悲鳴がっ！！[r]
+ボクのしっかりと握った手がずんっと引っ張られる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3004|
 [fc]
 [vo_yuh s="yuho0249"]
-[ns]Yuuho[nse]
-"My bag is being pulled...ahh..."[pcms]
+[ns]悠帆[nse]
+「に、荷物を引っ張られて……ああっ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3005|
 [fc]
-Yuuho was being pulled away strongly. I gripped her hand[r]
-tightly and pulled back.[pcms]
+悠帆が強く引っ張られていく。[r]
+ボクはその手だけは離すまいとしっかりと握ってひっぱる。[pcms]
 
 *3006|
 [fc]
-But the force pulling Yuuho was so strong that I ended up[r]
-being dragged along as well.[pcms]
+だけど、悠帆を引っ張る力はあまりに強くて、[r]
+ボクはそのまま引っ張られていく。[pcms]
 
 *3007|
 [fc]
-[ns]Wataru[nse]
-"Uwaaahhh!!"[pcms]
+[ns]航[nse]
+「うわぁああっ！！」[pcms]
 
 *3008|
 [fc]
-Before I knew it, like Yuuho, my bag was being pulled, and I[r]
-couldn't move.[pcms]
+気がつけばボクは悠帆と同じようにバッグを引っ張られて、[r]
+身動きがとれなくなってしまっていた。[pcms]
 
 *3009|
 [fc]
-I was pulled to the floor by the hands reaching out one[r]
-after another.[pcms]
+そのまま、次々と伸びる手にボクは床に引き倒された。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3010|
 [fc]
 [vo_yuh s="yuho0250"]
-[ns]Yuuho[nse]
-"Wataru!"[pcms]
+[ns]悠帆[nse]
+「航っ！」[pcms]
 
 *3011|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!!"[pcms]
+[ns]航[nse]
+「悠帆っ！！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -981,20 +979,19 @@ after another.[pcms]
 
 *3012|
 [fc]
-I never let go of Yuuho's hand even as I was pulled down.[pcms]
+ボクは引き倒されながらも決して、悠帆の手を離さなかった。[pcms]
 
 *3013|
 [fc]
-The sound of an incredible number of rats squeaking grew[r]
-closer.[pcms]
+ものすごい数のネズミの鳴き声が近づいて来た。[pcms]
 
 ;//文字をゆっくり表示
 
 *3014|
 [fc]
-The last thing I saw were the bright red eyes of animals the[r]
-size of rabbits squeezing through the gaps between the[r]
-crazed humans.[pcms]
+ボクが最後に見たものは……おかしくなった人間の隙間から、[r]
+無数にはいだしてくるウサギくらいの大きさの動物の[r]
+真っ赤な目だった。[pcms]
 
 ;//se069・ネズミのかじる音
 [se buf=0 storage="se069"]
@@ -1003,8 +1000,7 @@ crazed humans.[pcms]
 
 *3015|
 [fc]
-I lost consciousness due to the intense pain running through[r]
-my entire body.[pcms]
+ボクは身体中に走る激しい痛みに気を失った。[pcms]
 
 ;//ウェイト
 ;//地下道の背景一瞬？
@@ -1014,45 +1010,46 @@ my entire body.[pcms]
 
 *3016|
 [fc]
-How much time has passed since then? I was in a pitch-black[r]
-world.[pcms]
+アレからどれくらいたたったのだろう。[r]
+ボクはまっくらなせかいにいた。[pcms]
 
 ;//se069・ネズミのかじる音
 [se buf=0 storage="se069"]
 
 *3017|
 [fc]
-I could only hear this sound for a long time. I can't see.[r]
-But somewhere behind my eyes feels really good.[pcms]
+ずっと、このおとしかきこえない。[r]
+めがみえない。[r]
+だけど、めのおくあたりがとてもキモチいい。[pcms]
 
 *3018|
 [fc]
-Every time I hear a 'crunch crunch', some part of my body[r]
-feels good.[pcms]
+コリコリッって、おとがするたびに[r]
+からだのどこかがきもちいい。[pcms]
 
 *3019|
 [fc]
-This sensation continued for a long time.[pcms]
+それがずっとつづいている。[pcms]
 
 *3020|
 [fc]
-...I see, I've been gnawed on by rats all this time.[pcms]
+……そっか、ボクはずっとネズミにかじられてるんだ。[pcms]
 
 *3021|
 [fc]
-I can understand now. That's what that man meant when he[r]
-said it felt good...[pcms]
+いまならわかる。[r]
+ボクはあのおじさんがキモチいといっていたのが……。[pcms]
 
 *3022|
 [fc]
-More... more... more...[pcms]
+もっと……もっと……もっと……。[pcms]
 
 *3023|
 [fc]
-...I want to be gnawed on more.[pcms]
+……もっと、かじってほしい。[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

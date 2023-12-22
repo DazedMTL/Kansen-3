@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・悠帆
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//・テキスト分量：1K
 ;//---------------------------------------------------------------
 ;//block:C004
@@ -22,13 +22,13 @@
 
 *7891|
 [fc]
-While being embraced by Yuuho, I ended up crying out loud[r]
-with a 'wa-wa'.[pcms]
+悠帆に抱きしめられながら、ボクは思いっ切り[r]
+わーわーと泣いてしまった。[pcms]
 
 *7892|
 [fc]
-Without saying anything, Yuuho continued to hug me,[r]
-sometimes patting my back as if comforting a child.[pcms]
+悠帆は何も言わずに、時には子供をあやすみたいに、[r]
+ポンポンと背中を叩きながら、ボクを抱きしめ続けてくれていた。[pcms]
 
 ;//〆EV013
 
@@ -37,69 +37,69 @@ sometimes patting my back as if comforting a child.[pcms]
 *7893|
 [fc]
 [vo_yuh s="yuho0935"]
-[ns]Yuuho[nse]
-"Hey... Wataru"[pcms]
+[ns]悠帆[nse]
+「ね……航」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7894|
 [fc]
 [vo_yuh s="yuho0936"]
-[ns]Yuuho[nse]
-"...you know, tonight... I want to stay... right by your[r]
-side, together, the whole time..."[pcms]
+[ns]悠帆[nse]
+「……わたしね、今夜は……ずっと……[r]
+　航のそばに、一緒に、いてあげたいの……」[pcms]
 
 *7895|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「え゛……？」[pcms]
 
 *7896|
 [fc]
-I asked her again without thinking. With a nasal voice, an[r]
-embarrassing voice. Yuuho looked back at me and answered.[pcms]
+ボクは思わず聞き返してしまった。[r]
+鼻声の、みっともない声で。[r]
+悠帆は、そんなボクを見つめ返して、答えた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7897|
 [fc]
 [vo_yuh s="yuho0937"]
-[ns]Yuuho[nse]
-"I'm still worried about you... That's why I want to stay[r]
-with you all night tonight."[pcms]
+[ns]悠帆[nse]
+「航が……まだ心配なの……。だから、わたし、[r]
+　今夜は航とずっと一緒にいてあげたいの」[pcms]
 
 *7898|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
 ;//緒織とＳＥＸしているかどうか
 ;//●している→T70090
 ;//●していない
-;//　→選択肢Ｃ１へ
+;//　→選択肢Ｃ－１へ
 
 [if exp="f.l_iori_sex==1"][jump storage="T70090.ks" target=*T70090_TOP][endif]
 [jump storage="T70080.ks" target=*T70080_01]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ｃ１
-;//１１：キスする→T70090
-;//１２：ありがとう・・・→T70110
+;//●選択肢Ｃ－１
+;//１－１：キスする→T70090
+;//１－２：ありがとう・・・→T70110
 *T70080_01
 
 
 ;	[link storage="T70090.ks" target=*T70090_TOP]キスする[endlink]
-; (link storage="T70110.ks" target=*T70110_TOP)Thank[r]
-you...(endlink)[pcms]
+;	[link storage="T70110.ks" target=*T70110_TOP]ありがとう……[endlink][s]
 
 *SEL78|キスする／ありがとう……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Kiss'"]
-[eval exp="f.seltext04 = 'Thank you……'"]
+[eval exp="f.seltext02 = 'キスする　'"]
+[eval exp="f.seltext04 = 'ありがとう……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

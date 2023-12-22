@@ -8,8 +8,7 @@
 
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]緒織とセックスした[endlink]
-; (link target=*scene_selend)Not having sex with[r]
-Inori(endlink)[pcms]
+;	[link target=*scene_selend]緒織とセックスしていない[endlink][s]
 
 
 ;回想選択肢フラグオン
@@ -29,8 +28,8 @@ Inori(endlink)[pcms]
 	[image storage="scenesel_bgcover" layer=1 page=back visible=true left=0 top=0 opacity=154]
 	[trans_c cross time=500]
 
-[eval exp="f.seltext03 = 'I had sex with Inori'"]
-[eval exp="f.seltext06 = 'I have not had sex with Inori'"]
+[eval exp="f.seltext03 = '緒織とセックスした'"]
+[eval exp="f.seltext06 = '緒織とセックスしていない'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
@@ -76,7 +75,7 @@ Inori(endlink)[pcms]
 *scene_sel_yuho
 
 ;	[link target=*scene_selend exp="f.l_route2_y = 1"]悠帆ルート[endlink]
-; (link target=*scene_selend)Other than that(endlink)[pcms]
+;	[link target=*scene_selend]それ以外[endlink][s]
 
 
 ;回想選択肢フラグオン
@@ -97,24 +96,8 @@ Inori(endlink)[pcms]
 	[image storage="scenesel_bgcover" layer=1 page=back visible=true left=0 top=0 opacity=154]
 	[trans_c cross time=500]
 
-[eval exp="f.seltext03 = 'Yuuho Route'"]
-[eval exp="f.seltext06 = 'Wataru - Male
-Ren - Female
-Yuuho - Female
-Homura - Female
-Marie - Female
-Maruko - Female
-Mizuki - Female
-Jin - Male
-Inori - Female
-Kousuke - Male
-Dazai - Male
-Oshima - Male
-Sesuka - Female
-Shigeyoshi - Male
-Tadahiko - Male
-Waka - Female
-Yoshino - Female'"]
+[eval exp="f.seltext03 = '悠帆ルート'"]
+[eval exp="f.seltext06 = 'それ以外'"]
 
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

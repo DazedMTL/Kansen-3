@@ -1,10 +1,10 @@
 ;//block:A017
-;//ブロック４０１６０『地下道全員脱出編　下』
+;//ブロック４０１６０『地下道～全員脱出編～　下』
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40150.txtから
 
 *40160_TOP
-;{SceneSet 地下道全員脱出編下}
+;{SceneSet 地下道～全員脱出編～下}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公・悠帆（制服）・浩助（制服）・マルガリータ（制服）
@@ -23,91 +23,89 @@
 
 *1257|
 [fc]
-[ns]Boss[nse]
-"Ugh, uuu..."[pcms]
+[ns]親分[nse]
+「う、ううぅ……」[pcms]
 
 *1258|
 [fc]
-Tadahiko was carrying the boss, who was dressed in a kimono,[r]
-on his back. For now, they let the boss rest where Ren had[r]
-been sleeping.[pcms]
+彦ちんは、着流し姿の組長さんを背負っていた。[r]
+とりあえず漣の寝ていた場所に組長さんに寝てもらう。[pcms]
 
 *1259|
 [fc]
-The boss was sweating profusely and had a pained expression[r]
-on his face.[pcms]
+組長さんは脂汗を流して苦悶の表情を浮かべている。[pcms]
 
 *1260|
 [fc]
-[ns]Wataru[nse]
-"Tadahiko, this..."[pcms]
+[ns]航[nse]
+「彦ちん、これ……」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1261|
 [fc]
-[ns]Tadahiko[nse]
-"Oh, thanks."[pcms]
+[ns]忠彦[nse]
+「おお、ありがとな」[pcms]
 
 *1262|
 [fc]
-It didn't seem like it would be effective for a broken rib,[r]
-but it was better than nothing, so they gave him some[r]
-painkillers to take.[pcms]
+肋骨の骨折に効果があるとは思えなかったけど、[r]
+他に何もないよりマシかなと、痛み止めを飲ませた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1263|
 [fc]
 [vo_yuh s="yuho0851"]
-[ns]Yuuho[nse]
-"You're sweating so much..."[pcms]
+[ns]悠帆[nse]
+「すごい汗だね……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1264|
 [fc]
 [vo_ren s="ren0893"]
-[ns]Ren[nse]
-"Can I wipe it off for you? Tadahiko?"[pcms]
+[ns]漣[nse]
+「拭いてあげてもいい？　彦ちん？」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1265|
 [fc]
-[ns]Tadahiko[nse]
-"...Yeah, please take care of the old man."[pcms]
+[ns]忠彦[nse]
+「……ああ、オヤジを頼む」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1266|
 [fc]
 [vo_ren s="ren0894"]
-[ns]Ren[nse]
-"Sure!"[pcms]
+[ns]漣[nse]
+「うん！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1267|
 [fc]
-Ren and Yuuho were busily wiping the sweat off the boss.[pcms]
+漣と悠帆は、かいがいしく[r]
+組長さんの汗を拭ったりしている。[pcms]
 
 *1268|
 [fc]
-After making sure everything was taken care of, Tadahiko[r]
-finally sat down heavily.[pcms]
+そこまで見届けてようやく落ち着いたのか、[r]
+彦ちんは、どっかりと腰を下ろした。[pcms]
 
 *1269|
 [fc]
-[ns]Tadahiko[nse]
-"Nguh, ugh...ngungungu..."[pcms]
+[ns]忠彦[nse]
+「んぐっ、うぐっ……んぐんぐっ……」[pcms]
 ;//＠一気飲み
 
 *1270|
 [fc]
-He must have been very thirsty, as Tadahiko was gulping down[r]
-water from a plastic bottle.[pcms]
+よほど喉が渇いていたんだろう、彦ちんは[r]
+ペットボトルの水を喉を鳴らして一気飲みしてる。[pcms]
 
 ;//@konya テキスト修正
 ;//よく見れば、いつもの白スーツはボロボロで、
@@ -115,128 +113,132 @@ water from a plastic bottle.[pcms]
 
 *1271|
 [fc]
-Upon closer inspection, his shirt was tattered, with tears[r]
-and cuts all over.[pcms]
+よく見れば、着ているシャツはボロボロで、[r]
+あちこちが破れたり、切れたりしてる。[pcms]
 
 *1272|
 [fc]
-And for some reason, he was wearing long boots and had a[r]
-headlamp turned on...?[pcms]
+それに何故か、長靴にヘッドランプを点けていて……？[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1273|
 [fc]
-[ns]Tadahiko[nse]
-"...Puh-ah! I feel revived!"[pcms]
+[ns]忠彦[nse]
+「…………ぷはーっ！[r]
+　生き返ったぜ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1274|
 [fc]
-[ns]Kousuke[nse]
-"Revived... As if Tadahiko could ever die!"[pcms]
+[ns]浩助[nse]
+「生き返るなんて……。[r]
+　彦ちんが死ぬわけないだろ！」[pcms]
 
 *1275|
 [fc]
-[ns]Wataru[nse]
-"That's right! After all, it's Tadahiko we're talking[r]
-about!"[pcms]
+[ns]航[nse]
+「そうだよ！　なんたって彦ちんなんだから！」[pcms]
 
 *1276|
 [fc]
-The joy of seeing familiar faces, especially since it was[r]
-Tadahiko, made us all start talking to him at once.[pcms]
+見知った顔に出会えた嬉しさ、[r]
+特にその相手が彦ちんだった喜びで、[r]
+ボクらは彦ちんを囲んで一斉に話しかける。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1277|
 [fc]
-[ns]Tadahiko[nse]
-"Yeah!"[pcms]
+[ns]忠彦[nse]
+「おう！」[pcms]
 
 *1278|
 [fc]
-Tadahiko responded with his usual smile as if nothing in the[r]
-world mattered to him.[pcms]
+彦ちんは世界がどうなってるかなんて関係ないみたいな、[r]
+いつもの笑顔で応えてくれる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1279|
 [fc]
 [vo_yuh s="yuho0852"]
-[ns]Yuuho[nse]
-"Hey, I called you so many times, Tadahiko? Why didn't you[r]
-answer? And... where is Inori-san?"[pcms]
+[ns]悠帆[nse]
+「ねえ、わたし、何度も彦ちんに電話したんだよ？[r]
+　なんで出なかったの？[r]
+　それに……緒織さんは？」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1280|
 [fc]
-[ns]Tadahiko[nse]
-"..."[pcms]
+[ns]忠彦[nse]
+「…………」[pcms]
 
 *1281|
 [fc]
-Tadahiko paused for a moment at Yuuho's question.[pcms]
+悠帆の問いに彦ちんは、一瞬間を置いた。[pcms]
 
 *1282|
 [fc]
-[ns]Tadahiko[nse]
-"Inori is still at the shop. She's useless without me. She's[r]
-just waiting there for me."[pcms]
+[ns]忠彦[nse]
+「緒織はまだ店にいる。[r]
+　アイツ、俺がいないとダメなヤツだから。[r]
+　じっと俺待ちしてるんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1283|
 [fc]
-[ns]Tadahiko[nse]
-"The phone... sorry. I wasn't in a position to... Oh, true.[r]
-There were quite a few missed calls."[pcms]
+[ns]忠彦[nse]
+「電話は……すまん。[r]
+　それどころじゃなくてな……。[r]
+　ああ、本当だ。けっこう着信きてたんだな」[pcms]
 
 *1284|
 [fc]
-Looking at his mobile phone he took out of his pocket,[r]
-Tadahiko scratched the tip of his nose.[pcms]
+ポケットから取り出した携帯に目をやって[r]
+彦ちんはぽりぽりと鼻の頭を掻いた。[pcms]
 
 *1285|
 [fc]
-[ns]Wataru[nse]
-"Not in a position to... What have you been doing all this[r]
-time, Tadahiko?"[pcms]
+[ns]航[nse]
+「それどころじゃ……って。[r]
+　彦ちんは、今までどうしてたの？」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1286|
 [fc]
-[ns]Tadahiko[nse]
-"I was holed up in the gang's office. With the neighbors,[r]
-the priest from behind us, and my underlings."[pcms]
+[ns]忠彦[nse]
+「組の事務所に、立てこもってたんだ。[r]
+　ご近所や裏の神主さんやら子分と一緒にな」[pcms]
 
 *1287|
 [fc]
-[ns]Tadahiko[nse]
-"At first we managed to hold out..."[pcms]
+[ns]忠彦[nse]
+「最初のうちはなんとか持ちこたえてたんだが……」[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1288|
 [fc]
-A siege and a war of attrition... The content of Tadahiko's[r]
-story was straight out of a panic action movie.[pcms]
+篭城と持久戦……。派手なドンパチ……。[r]
+彦ちんの話してくれた内容は、[r]
+モロにパニックアクション映画並みのものだった。[pcms]
 
 *1289|
 [fc]
-However, it seems that a blood-splattered underling turned[r]
-into "one of them," and a big fight broke out inside the[r]
-office.[pcms]
+しかし、返り血を浴びた子分が『ヤツラ』になって、[r]
+事務所の中でも大立ち回りが行われたらしい。[pcms]
 
 *1290|
 [fc]
-In the end, during the standoff in the kitchen, the infected[r]
-priest lured the boss into a trap, causing considerable[r]
-chaos, as Tadahiko explained.[pcms]
+最後に立てこもった台所で、[r]
+感染した神主さんに組長さんがおびき寄せられるなど、[r]
+相当な混乱状態に陥ってしまったのだと、彦ちんは語った。[pcms]
 
 ;//@konya ev025 地下道(BG扱い)
 [evcg storage="EV025b"][trans_c cross time=300]
@@ -245,478 +247,475 @@ chaos, as Tadahiko explained.[pcms]
 
 *1291|
 [fc]
-[ns]Tadahiko[nse]
-""They" talk to people to lure them in. If the priest who[r]
-became one of them hadn't spoken to him, the old man[r]
-wouldn't have ended up like this..."[pcms]
+[ns]忠彦[nse]
+「『ヤツラ』は、喋りかけて人を呼び寄せる。[r]
+　ヤツラの仲間になった神主さんに話しかけられなければ、[r]
+　オヤジも、こんな事には……」[pcms]
 
 *1292|
 [fc]
-The cupboard that was blocking the kitchen fell over, and it[r]
-seems the boss got trapped underneath it and broke his[r]
-bones.[pcms]
+台所を封鎖していた食器棚が倒れ、[r]
+組長さんはその下敷きになって骨折したらしい。[pcms]
 
 *1293|
 [fc]
-Seeing that, Tadahiko carried the boss on his back and[r]
-escaped through the shrine's passageway...[pcms]
+それを見た彦ちんは、組長さんを背負って、[r]
+神社の通路から脱出してきた……と、こういう経緯だった。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1294|
 [fc]
-[ns]Tadahiko[nse]
-"I left behind three young ones... They did it to let me and[r]
-the old man escape..."[pcms]
+[ns]忠彦[nse]
+「若いの三人ばかり、置いてきちまった……。[r]
+　俺とオヤジを逃がすために、あいつら……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1295|
 [fc]
-[ns]Kousuke[nse]
-"Seriously...?"[pcms]
+[ns]浩助[nse]
+「マジかよ……」[pcms]
 
 *1296|
 [fc]
-[ns]Wataru[nse]
-"...Then, Yotsubase Town is already..."[pcms]
+[ns]航[nse]
+「……それじゃ、四つ葉瀬町は、もう…………」[pcms]
 
 *1297|
 [fc]
-According to Tadahiko's story, our town is now completely[r]
-overrun with them...[pcms]
+彦ちんの話からすると、ボクらの街は[r]
+すっかりヤツラでいっぱいになっている……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1298|
 [fc]
 [vo_mar s="maru0982"]
-[ns]Margarita[nse]
-"What is this shrine passageway?"[pcms]
+[ns]マルガリータ[nse]
+「神社の通路とは何だ？」[pcms]
 
 *1299|
 [fc]
-Maruko spoke up in place of us who were silent.[pcms]
+沈黙したボクらに代わって、[r]
+マル子先輩が口を開いた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1300|
 [fc]
-[ns]Tadahiko[nse]
-"Hm? Oh yeah, during the Olympics, you know..."[pcms]
+[ns]忠彦[nse]
+「ん？　ああ、オリンピックの時にな、ちょっと」[pcms]
 
 *1301|
 [fc]
-Tadahiko spoke with an unusually hesitant tone.[pcms]
+彦ちんにしては珍しく、歯切れの悪い口調だった。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1302|
 [fc]
-[ns]Tadahiko[nse]
-"During that time's construction work, all the manpower and[r]
-materials around here were managed by the previous head of[r]
-our gang."[pcms]
+[ns]忠彦[nse]
+「あの時の工事な、この近辺の人手やら資材やらは[r]
+　ウチの組の先代が仕切ってたんだ」[pcms]
 
 *1303|
 [fc]
-[ns]Tadahiko[nse]
-"So when they were hiding Udagawa River underground during[r]
-the construction work, they also did some sewer maintenance.[r]
-And while they were at it, they did a little bit of[r]
-groundwork..."[pcms]
+[ns]忠彦[nse]
+「で、宇田川を地面の下に隠す工事の時にな、[r]
+　下水整備工事も行われたんだが、[r]
+　ついでにちょっとばかり根回ししてな……」[pcms]
 
 *1304|
 [fc]
-Tadahiko confessed that they had the sewer from under the[r]
-shrine to Udagawa River made big enough for people to pass[r]
-through.[pcms]
+神社の下から宇田川までの下水道を人が通れるくらい[r]
+大きめに造らせた、と彦ちんは白状した。[pcms]
 
 *1305|
 [fc]
-[ns]Tadahiko[nse]
-"Well, there was some trouble with tampering with blueprints[r]
-and greasing palms with money..."[pcms]
+[ns]忠彦[nse]
+「まあ、図面細工したり、金を掴ませたり、[r]
+　色々苦労はしたらしいが……」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1306|
 [fc]
-[ns]Tadahiko[nse]
-"Thanks to that, our gang had a hidden passageway... In[r]
-other words, a special escape route."[pcms]
+[ns]忠彦[nse]
+「おかげで、ウチの組には隠し通路……[r]
+　つまり、スペシャル脱出ルートがあった、ってわけだ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1307|
 [fc]
-[ns]Tadahiko[nse]
-"They actually wanted to connect it all the way to the[r]
-office, but that would have been bad in case of a raid. So,[r]
-the nearby shrine became the entrance and exit."[pcms]
+[ns]忠彦[nse]
+「ホントは事務所まで繋げたかったらしいが[r]
+　それだと、万一のガサ入れの時にまずいことになる。[r]
+　だから近所の神社が、出入り口になっててな」[pcms]
 
 *1308|
 [fc]
-[ns]Tadahiko[nse]
-"The priest at that time was a relative of the previous[r]
-generation... And that's how it's remained undiscovered[r]
-until now."[pcms]
+[ns]忠彦[nse]
+「そん時の神主は、先代の身内だったし……。[r]
+　で、今までずっとバレずにいたってわけだ」[pcms]
 
 *1309|
 [fc]
-[ns]Wataru[nse]
-"A hidden passageway...?"[pcms]
+[ns]航[nse]
+「か、隠し通路って……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1310|
 [fc]
-[ns]Kousuke[nse]
-"...This is like something out of a manga!"[pcms]
+[ns]浩助[nse]
+「……漫画かよっ！」[pcms]
 
 *1311|
 [fc]
-We all interjected with a mix of amazement and disbelief.[pcms]
+ボクたちは盛大に呆れながらもツッコミを入れてしまう。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1312|
 [fc]
-But unlike us, Maruko-senpai seemed interested in the[r]
-passageway.[pcms]
+だけど、ボクたちとは違うところで、[r]
+マル子先輩は、通路に興味を持ったようだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1313|
 [fc]
 [vo_mar s="maru0983"]
-[ns]Margarita[nse]
-"I see. But... one question remains. Was the original[r]
-purpose of this underground passage for transporting weapons[r]
-or drugs?"[pcms]
+[ns]マルガリータ[nse]
+「なるほど。だが……ひとつ疑問が残る。[r]
+　もしや地下通路の、元々の用途は[r]
+　武器や麻薬の運搬用ではなかったのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1314|
 [fc]
-[ns]Tadahiko[nse]
-"You're an interesting foreign lady... That's right."[pcms]
+[ns]忠彦[nse]
+「面白い外人姉ちゃんだな……。その通りだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1315|
 [fc]
 [vo_mar s="maru0984"]
-[ns]Margarita[nse]
-"So it was used regularly, not just for emergencies? Then[r]
-you must know where this passage leads to, right?"[pcms]
+[ns]マルガリータ[nse]
+「では、緊急用ではなく、恒常的に使っていたのだな？[r]
+　ならば、この通路が、どこに繋がっているのかも[r]
+　知っているのだろう？」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1316|
 [fc]
-[ns]Tadahiko[nse]
-"You're getting more interesting by the minute. And you're[r]
-quick-witted... I like that."[pcms]
+[ns]忠彦[nse]
+「ますます面白い。それに頭の回転もいい。[r]
+　……気に入ったぜ」[pcms]
 
 *1317|
 [fc]
-The menacing look disappeared from Tadahiko's eyes.[pcms]
+彦ちんの目から険悪な光が消えた。[pcms]
 
 *1318|
 [fc]
-[ns]Tadahiko[nse]
-"If you follow this passage, you can get out at Harajuku,[r]
-and from under Meiji Street, you can reach the underground[r]
-channel of Shibuya River. A little further and you can also[r]
-return to Udagawa."[pcms]
+[ns]忠彦[nse]
+「この通路をまたいでいけば、原宿にも出られるし、[r]
+　明治通りの下からは渋谷川の暗渠に行ける。[r]
+　少し先で宇田川にも戻れる」[pcms]
 
 *1319|
 [fc]
-[ns]Tadahiko[nse]
-"It's connected to the basement of the government complex,[r]
-and... I haven't tried it myself, but there's talk that it's[r]
-connected to a basement in DHK."[pcms]
+[ns]忠彦[nse]
+「総合庁舎の地下にも繋がってるし、[r]
+　それに……試したことはないが、[r]
+　ＤＨＫにある地下室とも繋がってるって話だ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1320|
 [fc]
 [vo_mar s="maru0985"]
-[ns]Margarita[nse]
-"Hmm..."[pcms]
+[ns]マルガリータ[nse]
+「ふむ……」[pcms]
 
 *1321|
 [fc]
-After pondering for a while, the senior slowly began to[r]
-speak.[pcms]
+しばらく思案している風だった先輩は[r]
+ゆっくりと口を開いた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1322|
 [fc]
 [vo_mar s="maru0986"]
-[ns]Margarita[nse]
-"That means, if we use this passage and the dark channel, we[r]
-can move around with minimal exposure on the surface."[pcms]
+[ns]マルガリータ[nse]
+「ということは、だ。[r]
+　この通路と、暗渠を利用すれば、[r]
+　地上に出るのを最小限に抑えて移動できるな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1323|
 [fc]
 [vo_mar s="maru0987"]
-[ns]Margarita[nse]
-"Yes... We could handle a small number of people."[pcms]
+[ns]マルガリータ[nse]
+「そう……ワタシたちなら……[r]
+　多少の人数をさばくことはできる」[pcms]
 
 *1324|
 [fc]
-As she said this, the senior looked at me.[pcms]
+言いながら、先輩はボクに視線を送ってくる。[pcms]
 
 *1325|
 [fc]
-That's right... When the senior and I escaped from the[r]
-academy, we fought them.[pcms]
+そうだ……。[r]
+ボクと先輩は、学園を脱出する時、あいつらと戦った。[pcms]
 
 *1326|
 [fc]
-We could certainly defeat a small group of them...![pcms]
+確かに少人数のヤツラなら、撃破できる……！[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1327|
 [fc]
 [vo_mar s="maru0988"]
-[ns]Margarita[nse]
-"If we can avoid the large groups of 'Them' and move[r]
-carefully, we should be able to manage."[pcms]
+[ns]マルガリータ[nse]
+「うまく『ヤツラ』の大集団さえかわして移動できれば[r]
+　何とかなるはずだ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1328|
 [fc]
-[ns]Tadahiko[nse]
-"Do you have a destination in mind?"[pcms]
+[ns]忠彦[nse]
+「行くあてはあるのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1329|
 [fc]
 [vo_mar s="maru0989"]
-[ns]Margarita[nse]
-"No. We haven't decided yet."[pcms]
+[ns]マルガリータ[nse]
+「いや。決めてない」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1330|
 [fc]
-[ns]Tadahiko[nse]
-"I see... Then let's head to our hideout. We were originally[r]
-planning to take Dad there."[pcms]
+[ns]忠彦[nse]
+「そうか……。なら、ウチのアジトに行こう。[r]
+　もともとオヤジをそこに連れて行く予定だった」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1331|
 [fc]
-In contrast to Tadahiko's cheerful demeanor, we were once[r]
-again left speechless.[pcms]
+ニコニコする彦ちんと対照的に、[r]
+ボクらはまた、口をぽかんと開けてしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1332|
 [fc]
 [vo_yuh s="yuho0853"]
-[ns]Yuuho[nse]
-"Hideout? Like, a secret base?"[pcms]
+[ns]悠帆[nse]
+「アジト？　って、秘密基地ってこと？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1333|
 [fc]
-[ns]Kousuke[nse]
-"...It's getting more and more like a manga."[pcms]
+[ns]浩助[nse]
+「……ますます漫画だな」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1334|
 [fc]
-[ns]Tadahiko[nse]
-"Well, it's not exactly a hideout, but 'Dedepou'. There's an[r]
-entrance in the back yard of that shop that connects to[r]
-Udagawa."[pcms]
+[ns]忠彦[nse]
+「ま、アジトってほどでもないが『ででっぽう』だ。[r]
+　あの店のバックヤードに出入り口があって[r]
+　宇田川と繋がってる」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1335|
 [fc]
 [vo_ren s="ren0895"]
-[ns]Ren[nse]
-"Wow... That shop is such an amazing place..."[pcms]
+[ns]漣[nse]
+「わあ……、あのお店、そんな凄いとこなんだ……」[pcms]
 
 *1336|
 [fc]
-I can't believe it... I've passed by that shop so many times[r]
-and never noticed anything like that...[pcms]
+まったく……。[r]
+今まで何度も店の前を通っていたのに、[r]
+そんなのちっとも気付かなかったよ……。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1337|
 [fc]
-[ns]Tadahiko[nse]
-"The commotion got worse during the day, right?"[pcms]
+[ns]忠彦[nse]
+「この騒ぎがひどくなったのは、まだ昼間だったろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1338|
 [fc]
-[ns]Tadahiko[nse]
-"The shop should have been closed before opening time, so[r]
-the shutters would be down. If we're lucky, 'They' might not[r]
-have gotten in there yet, and there should be food there[r]
-too."[pcms]
+[ns]忠彦[nse]
+「店は開店前だったはずだから、シャッターが下りてる。[r]
+　うまくすりゃ、ヤツラも入り込んじゃいないだろうし、[r]
+　あそこなら食料もある」[pcms]
 
 *1339|
 [fc]
-[ns]Tadahiko[nse]
-"If we follow Udagawa River, we won't have to go above[r]
-ground even once. It'll be tough walking through the river,[r]
-but from here to 'Dedepou' is just around the corner."[pcms]
+[ns]忠彦[nse]
+「宇田川を伝って行けば一度も上に出なくて済むしな。[r]
+　川の中を歩くのはちょいと骨だが、[r]
+　ここから『ででっぽう』は、目と鼻の先だ」[pcms]
 
 *1340|
 [fc]
-As he said this, Tadahiko slapped his rubber boots for[r]
-emphasis.[pcms]
+言いながら彦ちんは、長靴をパンと叩いてみせた。[pcms]
 
 *1341|
 [fc]
-So that's why he was wearing a suit with rubber boots.[pcms]
+そっか、それでスーツに長靴、か。[pcms]
 
 *1342|
 [fc]
-He must have been planning to go down into the underground[r]
-Udagawa River all along.[pcms]
+元々、地下の宇田川を[r]
+下っていくつもりだったんだな、彦ちんは。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1343|
 [fc]
-[ns]Tadahiko[nse]
-"Well, that's my plan... Are you coming with me?"[pcms]
+[ns]忠彦[nse]
+「ま、俺の作戦はこんなところだが……一緒に行くか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1344|
 [fc]
 [vo_mar s="maru0990"]
-[ns]Margarita[nse]
-"I appreciate it. I'll gladly take you up on your offer."[pcms]
+[ns]マルガリータ[nse]
+「ありがたい。お言葉に甘えさせて貰おう」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1345|
 [fc]
-[ns]Tadahiko[nse]
-"Don't mention it. If you're with these guys, you're as good[r]
-as family to me!"[pcms]
+[ns]忠彦[nse]
+「気にすんな。[r]
+　こいつらの連れだってんなら、俺の身内も同然よ！」[pcms]
 
 *1346|
 [fc]
-Having declared this, Tadahiko stood up with vigor.[pcms]
+言い放った彦ちんは、勢いよく立ち上がる。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1347|
 [fc]
-[ns]Tadahiko[nse]
-"Now that it's decided, we need to go back for your rubber[r]
-boots. Wataru and Kousuke aside, the rest of you are wearing[r]
-indoor shoes, right? You'll slip and end up covered in mud."[pcms]
+[ns]忠彦[nse]
+「そうと決まれば、お前らの長靴を取りに戻らねぇとな。[r]
+　航とコースケはさておき、他のヤツは内履きだろ？[r]
+　そんなんじゃ、転んでヘドロまみれになるぜ？」[pcms]
 
 *1348|
 [fc]
-[ns]Wataru[nse]
-"Go back... where to?"[pcms]
+[ns]航[nse]
+「取りに……って、どこに？」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1349|
 [fc]
-[ns]Tadahiko[nse]
-"There's a place under the government complex where we store[r]
-supplies. It's meant for our gang members... but under these[r]
-circumstances, it should be fine."[pcms]
+[ns]忠彦[nse]
+「総合庁舎の下に、備品をしまってある場所があってな。[r]
+　組の人間用のもんだが……この際、いいだろう」[pcms]
 
 *1350|
 [fc]
-[ns]Wataru[nse]
-"Got it. Let's go then."[pcms]
+[ns]航[nse]
+「わかった。じゃ、行こう」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1351|
 [fc]
-[ns]Tadahiko[nse]
-"There's no need for all of us to go. Just me, Wataru,[r]
-and..."[pcms]
+[ns]忠彦[nse]
+「大人数で行くこともないからな。[r]
+　俺と航と……」[pcms]
 
 *1352|
 [fc]
-As Tadahiko looked around at everyone's faces, the senior[r]
-raised her hand in a somewhat flustered manner.[pcms]
+みんなの顔を見回す彦ちんに、[r]
+どこか慌てたように先輩が手を挙げた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1353|
 [fc]
 [vo_mar s="maru0991"]
-[ns]Margarita[nse]
-"I-I'll go! No, I really want to go! Please take me with[r]
-you!"[pcms]
+[ns]マルガリータ[nse]
+「わ、ワタシが行こう！　いや、ぜひ行きたい！[r]
+　連れていってくれ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1354|
 [fc]
-Maruko-senpai was sparkling with excitement like a child as[r]
-she waited for Tadahiko's response.[pcms]
+まるで子供みたいに目をキラキラさせて[r]
+マル子先輩は、彦ちんの返事を待っている。[pcms]
 
 *1355|
 [fc]
-Come to think of it... The senior had mentioned she had[r]
-researched underground passages before...[pcms]
+そういえば……、先輩、[r]
+地下通路のこと調べたことがあるとか言ってたな……。[pcms]
 
 *1356|
 [fc]
-In such a situation, she must really want to go on an[r]
-"exploration"...[pcms]
+こんな状況だっていうのに、[r]
+よっぽど『探検』がしたいんだろうか……。[pcms]
 
 *1357|
 [fc]
-I couldn't help but give a wry smile.[pcms]
+ボクは思わず苦笑してしまう。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1358|
 [fc]
-What can I say... Even in an emergency, I guess I'm still[r]
-me. Interests and curiosities, those things don't change...[pcms]
+なんだ……。[r]
+非常時だって何だって、やっぱり自分は自分だよな。[r]
+興味とか、気になることとかって、変えられないよな……。[pcms]
 
 *1359|
 [fc]
-Thinking only about Yuuho and Oshima-senpai had even led me[r]
-to self-loathing, which now seemed a bit silly.[pcms]
+悠帆と大嶋先輩のことばかり頭に浮かんだことで、[r]
+自己嫌悪までしていた自分が、ちょっと馬鹿みたいだった。[pcms]
 
 *1360|
 [fc]
-[ns]Wataru[nse]
-"Well, it's fine..."[pcms]
+[ns]航[nse]
+「ま、いいか……」[pcms]
 
 *1361|
 [fc]
-Rather than that, right now, I should be honestly happy[r]
-about having met Tadahiko... and about finding a seemingly[r]
-safe destination.[pcms]
+それよりも今は、彦ちんと会えたこと……、[r]
+安全そうな行き先が見つかった……、[r]
+そのことを素直に喜ぼう。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

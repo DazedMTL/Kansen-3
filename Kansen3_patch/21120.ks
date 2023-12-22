@@ -35,200 +35,205 @@
 
 *597|
 [fc]
-What assaulted my eyes was the tragic sight of Ren being[r]
-attacked.[pcms]
+ボクの目に飛び込んできたのは、[r]
+襲われている漣の無残な姿だった。[pcms]
 
 *598|
 [fc]
-As she was roughly manhandled and forcefully restrained,[r]
-Ren's colored contact lens came off.[pcms]
+もみくちゃにされて、力づくで抑え込まれると、[r]
+漣のカラーコンタクトが外れた。[pcms]
 
 *599|
 [fc]
-[ns]Infected Student A[nse]
-"Come on, come on, I'll make you feel good in no time!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「ほらほら、すぐに気持ち良くしてあげるよぉ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *600|
 [fc]
 [vo_ren s="ren0102"]
-[ns]Ren[nse]
-"No, stop it, let me go! Please, just stop!!"[pcms]
+[ns]漣[nse]
+「いやぁぁぁっ、やめて、離してぇぇ！[r]
+　お願いだからもうやめて！！」[pcms]
 
 *601|
 [fc]
-[ns]Infected Student B[nse]
-"We haven't even started yet! The fun is just about to[r]
-begin!!"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「まだ何にもしてないだろぉぉぉぉ！[r]
+　これからがお楽しみの時間じゃないか！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *602|
 [fc]
 [vo_ren s="ren0103"]
-[ns]Ren[nse]
-"I don't want to enjoy this, don't touch me..."[pcms]
+[ns]漣[nse]
+「楽しみたくなんてありません、[r]
+　私に触らないで……」[pcms]
 
 *603|
 [fc]
-It was easy to imagine the tragic fate that awaited Ren from[r]
-here on.[pcms]
+漣がこれからたどる悲惨な運命は容易に想像できた。[pcms]
 
 *604|
 [fc]
-That's why I wanted to save her by any means necessary...[r]
-However, a similar crisis was approaching me as well.[pcms]
+だからボクは何としても助けたくて……。[r]
+しかし、ボクにも同様の危機が迫っていた。[pcms]
 
 *605|
 [fc]
-The number of swarming infected kept increasing... I[r]
-desperately wanted to shake them off and rush to Ren's side,[r]
-but I was completely immobilized.[pcms]
+群がる感染者は数がどんどん増えて……。[r]
+必死に振りほどいて漣のもとへと駆け付けたいのに、[r]
+身動き一つできない状態だった。[pcms]
 
 *606|
 [fc]
-[ns]Infected Man A[nse]
-"I wonder if the young lady's pussy has ever had a dick[r]
-inside it!"[pcms]
+[ns]感染者・男Ａ[nse]
+「お嬢ちゃんのオマンコは、[r]
+　おちんちんをいれたことはあるのかなぁ！」[pcms]
 
 *607|
 [fc]
-[ns]Wataru[nse]
-"Stop it, don't touch my sister!!"[pcms]
+[ns]航[nse]
+「やめろ、妹に触るなぁぁぁぁ！」[pcms]
 
 *608|
 [fc]
-Despite my full-bodied resistance and shouting, my cries[r]
-meant nothing to them.[pcms]
+全身全霊で抵抗して叫んでみたが、[r]
+ボクの怒号なんて彼らには何の意味もない。[pcms]
 
 *609|
 [fc]
-[ns]Infected Man A[nse]
-"Does the young lady not know the pleasures of a cock?"[pcms]
+[ns]感染者・男Ａ[nse]
+「お嬢ちゃんはおチンチンの良さを[r]
+　知らないのかな？」[pcms]
 
 *610|
 [fc]
-[ns]Infected Man B[nse]
-"If that's the case, we'll kindly and carefully teach you!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「だったら俺達が手取り足取り、[r]
+　親切丁寧に教えてあげますよぉ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *611|
 [fc]
 [vo_ren s="ren0104"]
-[ns]Ren[nse]
-"No thank you... I don't want to know about such things!"[pcms]
+[ns]漣[nse]
+「結構です……そんなもの知りたくありません！」[pcms]
 
 *612|
 [fc]
-[ns]Infected Man A[nse]
-"You shouldn't dismiss people's kindness like that."[pcms]
+[ns]感染者・男Ａ[nse]
+「人の親切をそうやって無下にするもんじゃあないだろ」[pcms]
 
 *613|
 [fc]
-[ns]Infected Man B[nse]
-"That's right. We're just trying to teach the young lady the[r]
-joys of womanhood and make her an adult."[pcms]
+[ns]感染者・男Ｂ[nse]
+「そうだよ。俺達はお嬢ちゃんに女の悦びを教えて、[r]
+　大人にさせてあげようとしてるんだよ」[pcms]
 
 *614|
 [fc]
 [vo_ren s="ren0105"]
-[ns]Ren[nse]
-"I don't want to know that! ...Really, no thank you!"[pcms]
+[ns]漣[nse]
+「そんなの知りたくない！　……本当に結構ですっ！」[pcms]
 
 *615|
 [fc]
-[ns]Infected Man A[nse]
-"Once the young lady tastes a dick, she'll surely become[r]
-addicted!!"[pcms]
+[ns]感染者・男Ａ[nse]
+「お嬢ちゃんもおチンチンを味わったら、[r]
+　きっと病み付きになるよぉ！！」[pcms]
 
 *616|
 [fc]
-A rational conversation was impossible. They were completely[r]
-mad. Living corpses driven only by the primal instinct of[r]
-lust.[pcms]
+まともな会話など成立するはずもなかった。[r]
+彼らは完全に狂っている。肉欲という原始の[r]
+本能だけに従っている生ける屍だった。[pcms]
 
 *617|
 [fc]
-[ns]Infected Student A[nse]
-"Since we're here, why not shove a dick in that pussy and[r]
-feel good?"[pcms]
+[ns]感染者・学生Ａ[nse]
+「せっかくなんだからさ、ここでオマンコに[r]
+　チンポぶち込んで、気持ち良くなっちまえよ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *618|
 [fc]
 [vo_ren s="ren0106"]
-[ns]Ren[nse]
-"Please... stop... I absolutely refuse!"[pcms]
+[ns]漣[nse]
+「ひっ……やめてください……。[r]
+　そんなの、絶対に……絶対にお断りです！」[pcms]
 
 *619|
 [fc]
-Frightened and backing away, Ren desperately tried to reason[r]
-with the advancing infected.[pcms]
+怯え、後ずさりながら、漣は懸命に迫る感染者を[r]
+説得しようと試みた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *620|
 [fc]
 [vo_ren s="ren0107"]
-[ns]Ren[nse]
-"Please wake up, everyone. Regain your hearts. You must not[r]
-succumb to temptation."[pcms]
+[ns]漣[nse]
+「皆さんも目を覚ましてください。[r]
+　心を取り戻してください。誘惑に負けちゃだめです」[pcms]
 
 *621|
 [fc]
-[ns]Infected Man A[nse]
-"We're not troubled at all. We know true pleasure and are[r]
-feeling happy."[pcms]
+[ns]感染者・男Ａ[nse]
+「俺達はなにも困ってないぜ。[r]
+　本当の快感を知って、幸せな気分なんだ」[pcms]
 
 *622|
 [fc]
-[ns]Infected Man B[nse]
-"We just want the young lady to feel the same way as us!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「お嬢ちゃんにも俺達と同じ気持ちを味わって[r]
+　欲しいだけなんだよ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *623|
 [fc]
 [vo_ren s="ren0108"]
-[ns]Ren[nse]
-"Stop... don't come any closer!!"[pcms]
+[ns]漣[nse]
+「やめて……それ以上そばに来ないで！！」[pcms]
 
 *624|
 [fc]
-[ns]Infected Student A[nse]
-"But first, I wonder what kind of panties you're wearing[r]
-under that skirt!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「それより、スカートの下はどんな格好しているのかなぁ！」[pcms]
 
 *625|
 [fc]
-[ns]Infected Student B[nse]
-"What color are your panties?"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「パンツは何色をはいているのかなぁ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *626|
 [fc]
 [vo_ren s="ren0109"]
-[ns]Ren[nse]
-"No! Ahh!!"[pcms]
+[ns]漣[nse]
+「やっ！　あっ！！」[pcms]
 
 *627|
 [fc]
-[ns]Infected Student A[nse]
-"We can't check your pussy without flipping up that skirt!!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「スカートをめくらないと、オマンコのチェックが[r]
+　できないだろぉぉぉぉ！」[pcms]
 
 *628|
 [fc]
-Ren tried desperately to protect her skirt, but it was a[r]
-futile resistance.[pcms]
+必死になってスカートを守ろうとする漣だったけど、[r]
+それは無駄な抵抗だった。[pcms]
 
 *629|
 [fc]
-In no time at all, she was pinned down and not just flipped[r]
-up but stripped off.[pcms]
+たちまち押さえつけられと、めくるどころか[r]
+はぎとられてしまった。[pcms]
 
 [evcg storage="HEV054a"][trans_c cross time=500]
 
@@ -237,280 +242,282 @@ up but stripped off.[pcms]
 *630|
 [fc]
 [vo_ren s="ren0110"]
-[ns]Ren[nse]
-"Please... give me back my skirt!"[pcms]
+[ns]漣[nse]
+「お願い……スカートを返して！」[pcms]
 
 *631|
 [fc]
-[ns]Infected Man A[nse]
-"We need to check the young lady's pussy, so this thing is[r]
-just in the way and will be confiscated!!"[pcms]
+[ns]感染者・男Ａ[nse]
+「お嬢ちゃんのオマンコをチェックするのに、[r]
+　こいつは邪魔だから没収だよ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *632|
 [fc]
 [vo_ren s="ren0111"]
-[ns]Ren[nse]
-"Stop it... please just end this..."[pcms]
+[ns]漣[nse]
+「やめて……もうこんなこと終わりにして……」[pcms]
 
 *633|
 [fc]
-Even knowing they were infected, Ren didn't give up trying[r]
-to persuade them.[pcms]
+感染者と分かっていても、漣はあきらめず説得を試みていた。[pcms]
 
 *634|
 [fc]
-Believing there was still a shred of reason left in them,[r]
-betting on that was the only option left.[pcms]
+理性のかけらが残っていることを信じて、[r]
+いまはそれに賭けるのが残された唯一の手立てだった。[pcms]
 
 *635|
 [fc]
-[ns]Infected Man A[nse]
-"If you want it to end, how about you show us your pussy for[r]
-a check?"[pcms]
+[ns]感染者・男Ａ[nse]
+「終わりにしてほしいなら、自分でオマンコを[r]
+　見せてチェックさせてくれるかな？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j14"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *636|
 [fc]
 [vo_ren s="ren0112"]
-[ns]Ren[nse]
-"Really... if I show you, will you let it end?"[pcms]
+[ns]漣[nse]
+「本当に……見せたら終わりにしてくれますか？」[pcms]
 
 *637|
 [fc]
-An outrageous proposition that would normally be instantly[r]
-rejected, but there was no room for resistance.[pcms]
+途方もない、普段なら即答で拒絶するような話だが[r]
+抵抗する余地はない。[pcms]
 
 *638|
 [fc]
-The thought of my sister exposing her genitals in public is[r]
-revolting just to consider. But if it means saving her...[pcms]
+ボクとしても妹が人前で性器を晒すなんて[r]
+考えるだけでもおぞましいことだけど。[r]
+それでも助かるのなら……。[pcms]
 
 *639|
 [fc]
-[ns]Infected Student A[nse]
-"If we check your ass and pussy, we'll let you go!!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「お尻とオマンコをチェックしたら、[r]
+　見逃してあげるよぉぉぉ！！」[pcms]
 
 *640|
 [fc]
-[ns]Infected Man B[nse]
-"In light of the young lady's courage, we'll let her off[r]
-this time."[pcms]
+[ns]感染者・男Ｂ[nse]
+「お嬢ちゃんの度胸に免じて、今回は見逃してあげよう」[pcms]
 
 *641|
 [fc]
-After a moment of silence, Ren realized there was no other[r]
-way...[pcms]
+しばしの沈黙の後、漣はそれ以外に方法がないことを悟り……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *642|
 [fc]
 [vo_ren s="ren0113"]
-[ns]Ren[nse]
-"I understand..."[pcms]
+[ns]漣[nse]
+「わ、分かりました……」[pcms]
 
 *643|
 [fc]
-Nodding faintly, Ren herself removed the last flimsy fabric[r]
-protecting her lower half. Her face turned bright red with[r]
-embarrassment as she looked down.[pcms]
+漣は小さくうなずくと、自分から下半身を守る[r]
+最後の頼りない薄布を脱ぎ捨てた。[r]
+恥ずかしさの余りうつむいた顔が真っ赤に染まる。[pcms]
 
 *644|
 [fc]
-Clenching her thighs and trembling slightly, Ren endured[r]
-their gazes.[pcms]
+腿を閉じて、小刻みに震えながらも、[r]
+漣は彼らの視線に耐えていた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *645|
 [fc]
 [vo_ren s="ren0114"]
-[ns]Ren[nse]
-"Is this... is this okay?"[pcms]
+[ns]漣[nse]
+「これで……これでいいでしょうか」[pcms]
 
 *646|
 [fc]
-[ns]Infected Man A[nse]
-"I want to check the pussy! If it's closed up, all I can see[r]
-is whether there's pubic hair or not!!"[pcms]
+[ns]感染者・男Ａ[nse]
+「俺はマンコチェックしたいんだよ！[r]
+　とじていたら、陰毛が生えてるくらいしか[r]
+　わからないじゃないかぁぁぁ！」[pcms]
 
 *647|
 [fc]
-[ns]Infected Man B[nse]
-"Spread your ass and pussy with your fingers, and show us[r]
-properly or else!!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「ケツとマンコを自分の指で広げて、ちゃあんと[r]
+　見せないとだめだぞぉぉぉ！」[pcms]
 
 *648|
 [fc]
-[ns]Infected Student A[nse]
-"Yeah, yeah, spread it, spread it!!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「そーだ、そーだ、広げろ広げろ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *649|
 [fc]
 [vo_ren s="ren0115"]
-[ns]Ren[nse]
-"S-spread...?"[pcms]
+[ns]漣[nse]
+「ひ、広げるって……」[pcms]
 
 *650|
 [fc]
-[ns]Infected Man A[nse]
-"You've spread it yourself before, haven't you?"[pcms]
+[ns]感染者・男Ａ[nse]
+「自分で広げたことくらいはあるんだろ？」[pcms]
 
 *651|
 [fc]
-[ns]Infected Student B[nse]
-"If you don't spread and show us, we'll check with our[r]
-dicks!!"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「広げて見せないと、俺達が[r]
+　チンポでチェックしちまうぞぉぉぉぉ！」[pcms]
 
 *652|
 [fc]
-Simply removing her panties was obviously not enough to[r]
-satisfy them.[pcms]
+下着を脱いだ程度では当然満足するような連中ではなかった。[pcms]
 
 *653|
 [fc]
-Because they were mad, their demands were simple yet wildly[r]
-inappropriate.[pcms]
+狂っているからこそ、その要求はシンプルであり[r]
+同時に常軌を逸していた。[pcms]
 
 *654|
 [fc]
-They didn't care that what they were demanding was not[r]
-something you ask of a girl with little sexual experience.[pcms]
+性経験の希薄な女の子を相手にして求めるような[r]
+内容ではないのに、彼らは気にも留めない。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *655|
 [fc]
 [vo_ren s="ren0116"]
-[ns]Ren[nse]
-"O-okay... um... is this... is this okay?"[pcms]
+[ns]漣[nse]
+「わ、分かりました……えっと……これで……[r]
+　これでいいのでしょうか」[pcms]
 
 *656|
 [fc]
-Sitting down and spreading her legs, Ren used her fingers to[r]
-spread her genitals and anus to make them visible.[pcms]
+意を決した漣はその場に座って足を広げると、[r]
+性器と肛門を見えるように自分の指で広げた。[pcms]
 
 *657|
 [fc]
-[ns]Infected Man A[nse]
-"Then we'll take our time to check!"[pcms]
+[ns]感染者・男Ａ[nse]
+「それじゃあじっくりとチェックさしてもらうぞ！」[pcms]
 
 *658|
 [fc]
-[ns]Infected Man B[nse]
-"We can't tell unless we look up close!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「近くで見ないと分からないしなぁ！」[pcms]
 
 *659|
 [fc]
-The infected men approached Ren and leaned in with creepy[r]
-faces towards her spread genitals and anus.[pcms]
+漣に近づいた感染者達は、広げた性器と肛門に[r]
+不気味な顔をグーッと寄せた。[pcms]
 
 *660|
 [fc]
-[ns]Infected Man A[nse]
-"Sniff sniff, mmm, what a nice smelling pussy."[pcms]
+[ns]感染者・男Ａ[nse]
+「くんくんっ、んんっ、いい臭いのオマンコだねぇ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *661|
 [fc]
 [vo_ren s="ren0117"]
-[ns]Ren[nse]
-"No, don't sniff it..."[pcms]
+[ns]漣[nse]
+「いやぁ、臭いを嗅がないで……」[pcms]
 
 *662|
 [fc]
-[ns]Infected Man A[nse]
-"We have to smell it to know what kind of pussy it is!"[pcms]
+[ns]感染者・男Ａ[nse]
+「臭いを嗅がないと、どんなオマンコか[r]
+　わからないだろぉ！」[pcms]
 
 *663|
 [fc]
-[ns]Infected Man B[nse]
-"Oh my, are you getting excited from being watched? You're[r]
-starting to drip."[pcms]
+[ns]感染者・男Ｂ[nse]
+「おやおや見られて興奮してるのかなぁ。[r]
+　汁が出てきたよぉぉ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *664|
 [fc]
 [vo_ren s="ren0118"]
-[ns]Ren[nse]
-"Th-that's not true..."[pcms]
+[ns]漣[nse]
+「そ、そんなこと……ありません」[pcms]
 
 *665|
 [fc]
-There's no way she would take pleasure in having her[r]
-genitals inspected by such people.[pcms]
+こんな連中に性器を観察させて、喜ぶような[r]
+趣味があるはずがない。[pcms]
 
 *666|
 [fc]
-[ns]Infected Student A[nse]
-"No way, I can see the pussy juice oozing out. Look,[r]
-lickkkk."[pcms]
+[ns]感染者・学生Ａ[nse]
+「いやいや、マン汁がにじんでいるぜ。[r]
+　ほらぁ、べろぉぉぉぉ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *667|
 [fc]
 [vo_ren s="ren0119"]
-[ns]Ren[nse]
-"Eek! What are you doing!!"[pcms]
+[ns]漣[nse]
+「ひっいきゃぁ！　なんてことを！！」[pcms]
 
 *668|
 [fc]
-One of the peering infected licked Ren's spread labia with[r]
-his tongue.[pcms]
+なんと覗き込んでいた感染者の一人が、[r]
+漣の広げた肉唇を舌で舐めあげた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *669|
 [fc]
 [vo_ren s="ren0120"]
-[ns]Ren[nse]
-"You said just showing! This isn't what you promised!!"[pcms]
+[ns]漣[nse]
+「見せるだけって言ったのに！[r]
+　約束が違うじゃないですか！！」[pcms]
 
 *670|
 [fc]
-[ns]Infected Student A[nse]
-"It definitely tastes like pussy juice. It's your fault for[r]
-lying about being wet!!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「やっぱりマン汁の味がするぜぇぇぇ。[r]
+　濡れているのに嘘つくのが悪いんだよ！！」[pcms]
 
 *671|
 [fc]
-[ns]Infected Man B[nse]
-"This is a lying pussy. We need to check if you're really a[r]
-virgin!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「こりゃぁ嘘つきのマンコだ。[r]
+　本当に処女かチェックが必要だな！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *672|
 [fc]
 [vo_ren s="ren0121"]
-[ns]Ren[nse]
-"Stop... no, that's not right! You said you'd let me go if I[r]
-showed you!"[pcms]
+[ns]漣[nse]
+「やめて……駄目、駄目です！[r]
+　見せれば見逃すって言ったじゃないですか！」[pcms]
 
 ;//<ChrInit><ImageLoad 7,HEV020a.bmp><UpDate Cross,1000>
 
 *673|
 [fc]
-Promises meant nothing anymore. They never intended to make[r]
-a fair deal in the first place.[pcms]
+もはや約束などなんの意味も持たなかった。[r]
+もとから彼らは、まともな取引などする気はなかったのだから。[pcms]
 
 *674|
 [fc]
-The infected enjoyed tormenting their cornered prey, making[r]
-her perform ridiculous actions out of fear.[pcms]
+追いつめた獲物を嬲り、恐怖にかられて滑稽な[r]
+行動をさせて、楽しんでいただけにすぎなかった。[pcms]
 
 *675|
 [fc]
-Lifted by the swarming infected, Ren was penetrated in both[r]
-her widely spread genitals and anus at the same time.[pcms]
+たちまち殺到した感染者に抱えあげられた漣は、[r]
+大股開きの性器と肛門を同時に貫かれた。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg赤フラ storage="HEV020a"]
@@ -520,69 +527,69 @@ her widely spread genitals and anus at the same time.[pcms]
 *676|
 [fc]
 [vo_ren s="ren0122"]
-[ns]Ren[nse]
-"Aaahhhhh, it hurts, it hurts... stop it! I'm breaking, I'm[r]
-breaking, it won't fit!"[pcms]
+[ns]漣[nse]
+「ひいぁぁぁぁっ、痛い、痛い……やめてぇぇぇ！[r]
+　こわれちゃぅぅ、こわれちゃぅぅ、そんなの入らない！」[pcms]
 
 *677|
 [fc]
-[ns]Infected Student A[nse]
-"It's an asshole made for shitting. One or two dicks will[r]
-pass through easily!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「ふっとぃウンコをするための穴だからな。[r]
+　チンポのひとつやふたつ、簡単に通るよ！」[pcms]
 
 *678|
 [fc]
-[ns]Infected Man A[nse]
-"This pussy is made for taking dicks. It'll stretch out and[r]
-feel good in no time!!"[pcms]
+[ns]感染者・男Ａ[nse]
+「こっちのマンコはチンポを入れる為の穴だ。[r]
+　すぐに広がって気持ち良くなるさ！！」[pcms]
 
 *679|
 [fc]
-Ren was tragically robbed of her virginity in both her front[r]
-and back holes at the same time.[pcms]
+漣は無残にも前と後ろの穴の処女を同時に奪われてしまった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *680|
 [fc]
 [vo_ren s="ren0123"]
-[ns]Ren[nse]
-"Ahhhh, ngguuu... it's suffocating... I can't take it[r]
-anymore!!"[pcms]
+[ns]漣[nse]
+「あっぁぁぁっ、んっぐぅぅ……苦しい……[r]
+　もう無理ですぅぅぅぅ！！」[pcms]
 
 *681|
 [fc]
-Blood from her deflowering dripped from her penetrated[r]
-genitals, and her ravaged anus was turned inside out.[pcms]
+貫かれた性器からは破瓜の血が滴り落ち、[r]
+突きあげられた肛門はめくれかえっていた。[pcms]
 
 *682|
 [fc]
-[ns]Infected Student A[nse]
-"Look look, cheers for the loss of anal virginity!!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「ほらぁほらあ、おケツの処女喪失万歳！！」[pcms]
 
 *683|
 [fc]
-[ns]Infected Man A[nse]
-"Cheers for pussy penetration!!"[pcms]
+[ns]感染者・男Ａ[nse]
+「オマンコの貫通万歳！！」[pcms]
 
 *684|
 [fc]
-[ns]Infected Man B[nse]
-"In celebration, I'll be the one to defile the last hole!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「おめでたついでに、最後の穴も俺が犯してやるよ！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *685|
 [fc]
 [vo_ren s="ren0124"]
-[ns]Ren[nse]
-"Abuuuuu, ngguuuu... ngmuuuu, muuuuuggh! Uuuunnk! Nnnnnnn,[r]
-mmmuuuuuugh!"[pcms]
+[ns]漣[nse]
+「あっぶぅぅぅ、んっぐぅぅぅ……[r]
+　んっむぅぅ、むぅっ、むぅぐう！　うううっんくっ！[r]
+　んっんんっ、むぅぅぅっむぅ！」[pcms]
 
 *686|
 [fc]
-Raped in her vagina, anus, and mouth all at once, Ren[r]
-writhed in madness.[pcms]
+膣に肛門に口……三つの穴を同時に犯されて[r]
+漣は狂ったように悶絶した。[pcms]
 
 [赤フラ]
 
@@ -591,13 +598,14 @@ writhed in madness.[pcms]
 *687|
 [fc]
 [vo_ren s="ren0125"]
-[ns]Ren[nse]
-"Uuuuuhh, ngguuuu... ummuu, buuuuuhh, mmmnnnn!"[pcms]
+[ns]漣[nse]
+「ううぅぅっ、んっぐぅぅぅぅ……[r]
+　うっむぅ、ぶぅぅぅっ、むぅぅんんっ！」[pcms]
 
 *688|
 [fc]
-However, the infected didn't care at all and began to thrust[r]
-their hips violently as they pleased.[pcms]
+しかし、感染者たちはまったく気にせず、好き勝手に[r]
+乱暴に腰をふりはじめた。[pcms]
 
 [赤フラ]
 
@@ -606,37 +614,38 @@ their hips violently as they pleased.[pcms]
 *689|
 [fc]
 [vo_ren s="ren0126"]
-[ns]Ren[nse]
-"Fuumuuuuhh, nngmuuu... mmmuuuuhh, ngguuuu, ngguuuu!"[pcms]
+[ns]漣[nse]
+「ふぅっむぅぅぅっ、んむぅぅぅ……[r]
+　むっぅぅ、んっぐぅぅぅ、んぐぅぅぅ！」[pcms]
 
 *690|
 [fc]
-[ns]Infected Student A[nse]
-"The asshole is stretching wider and wider!!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「ケツの穴がどんどん広がっていくぞぉ！！」[pcms]
 
 *691|
 [fc]
-[ns]Infected Man A[nse]
-"The pussy is getting used to it too! Ohh ohh, it's starting[r]
-to clamp down like a pro."[pcms]
+[ns]感染者・男Ａ[nse]
+「おまんこもだいぶ馴染んできたぞ！[r]
+　おっおおっ、いっちょまえに締め付けてきやがる」[pcms]
 
 *692|
 [fc]
-[ns]Infected Man B[nse]
-"Lick it, lick it more, wrap your tongue around it!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「舐めろ舐めろ、舌をもっと絡みつけるんだよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *693|
 [fc]
 [vo_ren s="ren0127"]
-[ns]Ren[nse]
-"Buuuuuhh, ubbuuuunnn!!"[pcms]
+[ns]漣[nse]
+「ぶぅぅぅぅっ、うっぶぅぅぅぅんん！！」[pcms]
 
 *694|
 [fc]
-Barely able to breathe, Ren was brutally ravaged in both her[r]
-vagina and anusit was more than she could bear.[pcms]
+息も満足にできない状態で、膣と肛門を肉棒で[r]
+蹂躙される……それは漣が耐えられるようなものではなかった。[pcms]
 
 [赤フラ]
 
@@ -645,59 +654,59 @@ vagina and anusit was more than she could bear.[pcms]
 *695|
 [fc]
 [vo_ren s="ren0128"]
-[ns]Ren[nse]
-"Muuuuuhh, puuuuhh... uppuuuuhh"[pcms]
+[ns]漣[nse]
+「むうぅぅぅ、ぷぅぅぅぅ……うっぷぅぅぅぅ」[pcms]
 
 *696|
 [fc]
-[ns]Wataru[nse]
-"Stop it, Ren's going to die!!"[pcms]
+[ns]航[nse]
+「よせぇぇぇ、漣が、漣が死んでしまう！！」[pcms]
 
 *697|
 [fc]
-I desperately kept shouting, but my voice didn't reach at[r]
-all.[pcms]
+ボクは懸命に叫び続けたが、声は全く届かない。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *698|
 [fc]
 [vo_ren s="ren0129"]
-[ns]Ren[nse]
-"Nnguuuu, nppuuuu... nnnn! Muuuuu, buuuuuh, nnguunnguuu!"[pcms]
+[ns]漣[nse]
+「んっぐぅぅぅ、んっぷぅぅぅ……んんっ！[r]
+　むうぅぅ、ぶぅぅぅっ、んっぐぅんっぐぅぅ！」[pcms]
 
 *699|
 [fc]
-[ns]Infected Student A[nse]
-"Yeah, that's it, I'm gonna cum!!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「いいぞ、いいぞ、だすぞぉぉぉ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *700|
 [fc]
 [vo_ren s="ren0130"]
-[ns]Ren[nse]
-"Nnguuuu, nbbuuuu..."[pcms]
+[ns]漣[nse]
+「んっぐうぅぅ、んっぶぅぅぅ……」[pcms]
 
 *701|
 [fc]
-[ns]Infected Man A[nse]
-"I'm gonna cum inside your womb too, young lady!"[pcms]
+[ns]感染者・男Ａ[nse]
+「俺もお嬢ちゃんの子宮にぶっかけてやるぜ！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *702|
 [fc]
 [vo_ren s="ren0131"]
-[ns]Ren[nse]
-"Fuguhh, nmmuuu! Fuuuuh, muuuhiiii, nguhiin!! Nnhiiii,[r]
-muuuh... guuuuh!"[pcms]
+[ns]漣[nse]
+「ふぐぅっ、んっむぅぅ！　ふぅぅぅっ、[r]
+　むぅぅひいぃぃっ、んぐひぃいぃぃん！！[r]
+　んっひぃぃぃ、むぅぅっ……ぐぅぅぅっ！」[pcms]
 
 *703|
 [fc]
-Having her purity taken from her entire body, Ren ended up[r]
-being ejaculated into simultaneously in her mouth, vagina,[r]
-and intestines.[pcms]
+全身の純潔を奪われた漣は、結局そのまま、[r]
+口内と膣内と腸内に同時に射精されてしまった。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV020b"]
@@ -707,470 +716,473 @@ and intestines.[pcms]
 *704|
 [fc]
 [vo_ren s="ren0132"]
-[ns]Ren[nse]
-"Abueeeeh, higiiiaaan! Hiiiiii, nooooo!"[pcms]
+[ns]漣[nse]
+「あっぶぇぇぇぇっ、ひぎいぁぁぁん！[r]
+　ひいぃぃぃぃっ、いやぁぁぁぁぁ！」[pcms]
 
 *705|
 [fc]
-While spilling a mouthful of semen, Ren finally screamed as[r]
-she was released.[pcms]
+口内いっぱいの精液をこぼしながら、[r]
+ようやく解放された口で絶叫する漣。[pcms]
 
 [evcg storage="HEV020c"][trans_c cross time=300]
 
 *706|
 [fc]
-As white fluid explosively overflowed from her genitals and[r]
-anus, she also lost control of her bladder from the shock.[pcms]
+性器と肛門から白い粘液が爆発したようにあふれ出すと、[r]
+同時にそのショックから失禁してしまった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *707|
 [fc]
 [vo_ren s="ren0133"]
-[ns]Ren[nse]
-"Hiiiaaaa, ahhhh pee... ahhh, I'm leaking ahhhhn!"[pcms]
+[ns]漣[nse]
+「ひいぁぁぁぁ、あぁぁぁオシッコ……あぁぁ、[r]
+　もれちゃったぁぁぁぁん！」[pcms]
 
 *708|
 [fc]
-[ns]Infected Student A[nse]
-"Hiihaaahaaahaaah, she leaked, this one leaked while being[r]
-fucked!!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「ひぃはぁはぁはぁっ、漏らしたぞ、こいつ、[r]
+　犯されてションベン漏らしたぞぉ！！」[pcms]
 
 *709|
 [fc]
-[ns]Infected Man A[nse]
-"Maybe the adult baptism was a bit too stimulating for the[r]
-young lady?"[pcms]
+[ns]感染者・男Ａ[nse]
+「お嬢ちゃんには大人の洗礼はちょっと刺激が[r]
+　強すぎちゃったかなぁ？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *710|
 [fc]
 [vo_ren s="ren0134"]
-[ns]Ren[nse]
-"Noaaaaa, don't look eeeeeiiaaaan! It won't stop, it won't[r]
-stop ooooh! Ahhhhaaahh!!"[pcms]
+[ns]漣[nse]
+「いやあぁぁぁ、見ないでぇぇぇぇいぁぁぁっん！[r]
+　とまらなぁっ、とまんなぁぃのおおお！[r]
+　あぁぁああっ、あひぃぁぁぁ！！」[pcms]
 
 *711|
 [fc]
-Due to the shock of being ejaculated into in three places at[r]
-once, Ren's lower body sensations went haywire, and she[r]
-continued to endlessly drip yellow liquid on the spot.[pcms]
+三か所同時射精のショックで、下半身の感覚が狂ったらしく、[r]
+漣はその場で黄色い液体を延々と垂れ流し続けた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *712|
 [fc]
 [vo_ren s="ren0135"]
-[ns]Ren[nse]
-"Ahhh, auuuu... higuuuu..."[pcms]
+[ns]漣[nse]
+「あぁぁ、あぅぅぅ……ひぐぅぅぅ……」[pcms]
 
 *713|
 [fc]
-[ns]Infected Man A[nse]
-"You sure leaked a lot. Maybe even more than our semen,[r]
-huh?"[pcms]
+[ns]感染者・男Ａ[nse]
+「ずいぶんと一杯漏らしたもんだなぁ。[r]
+　俺達の精液より多かったんじゃないのぉぉ？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *714|
 [fc]
 [vo_ren s="ren0136"]
-[ns]Ren[nse]
-"Uuuu... uguuu..."[pcms]
+[ns]漣[nse]
+「うぅぅ……ぅぅぅぐぅぅ……」[pcms]
 
 *715|
 [fc]
-Overwhelmed by humiliation and shame, Ren broke down crying[r]
-without being able to speak as the infected continued to[r]
-mock her.[pcms]
+屈辱と恥辱の余り、言葉も発せられずに泣き崩れる[r]
+漣を感染者達は嘲笑い続けた。[pcms]
 
 ;//HEV019B
 ;//<ChrInit><ImageLoad 7,HEV020c.bmp><UpDate Cross,1000>
 
 *716|
 [fc]
-[ns]Infected Man B[nse]
-"Oops what's this? She's covered in piss now, isn't she!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「おっとこいつはなんだぁぁ？[r]
+　なんかしょんべんまみれできたねえなぁ！」[pcms]
 
 *717|
 [fc]
-Next to the crouching Ren, one of the infected picked up her[r]
-cherished violin.[pcms]
+うずくまる漣の傍らで、感染者の一人が手に取ったのは、[r]
+大事にしていたバイオリンだった。[pcms]
 
 *718|
 [fc]
-[ns]Infected Man B[nse]
-"It stinks, maybe we should throw it away!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「クセえから捨てちまうか！」[pcms]
 
 [evcg storage="HEV020d"][trans_c cross time=300]
 
 *719|
 [fc]
 [vo_ren s="ren0137"]
-[ns]Ren[nse]
-"No, don't be rough with that..."[pcms]
+[ns]漣[nse]
+「ダメ、それは乱暴に……」[pcms]
 
 *720|
 [fc]
-Ren noticed the violin and lifted her face but it was all[r]
-too late.[pcms]
+バイオリンのことに気づいて顔をあげた漣だったが[r]
+全ては手遅れだった。[pcms]
 
 *721|
 [fc]
-The carelessly thrown violin smashed into the ground and[r]
-shattered into pieces.[pcms]
+無造作に投げ捨てられたバイオリンは、[r]
+地面に激突してバラバラに砕けた。[pcms]
 
 *722|
 [fc]
-[ns]Infected Man B[nse]
-"Uha uha uha, it broke so easily. What's this crap?[r]
-Ahahahaha!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「うはっうはっうはっ、簡単に壊れたよ。[r]
+　なんじゃあこりゃぁぁぁ、あははははは！」[pcms]
 
 *723|
 [fc]
-[ns]Infected Man A[nse]
-"It's defective, this thing is defective. Uhahahaha!!"[pcms]
+[ns]感染者・男Ａ[nse]
+「不良品だ、こいつは不良品なんだよ。[r]
+　うはははははっ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *724|
 [fc]
 [vo_ren s="ren0138"]
-[ns]Ren[nse]
-"Ahhh... my precious..."[pcms]
+[ns]漣[nse]
+「あぁぁ……私の大切な……」[pcms]
 
 *725|
 [fc]
-[ns]Infected Student A[nse]
-"Oops, we don't have time to deal with defective goods."[pcms]
+[ns]感染者・学生Ａ[nse]
+「おっと不良品に構っている暇はないぞぉ」[pcms]
 
 *726|
 [fc]
-[ns]Infected Man B[nse]
-"It's time for the young lady's pussy time, round two!!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「お嬢ちゃんのオマンコタイム、第二ラウンドの開始だぁぁ！！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *727|
 [fc]
-The infected attacked Ren mercilessly as she stood in shock,[r]
-once again pushing their genitals into her vagina and[r]
-ravaging her anus and mouth as well.[pcms]
+愕然としている漣に感染者達は容赦なく襲いかかり、[r]
+またもや膣へと性器を押し込み、肛門や口内も[r]
+蹂躙した。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *728|
 [fc]
 [vo_ren s="ren0139"]
-[ns]Ren[nse]
-"Abuuuu, afuuuu, nnguuuuuuh!"[pcms]
+[ns]漣[nse]
+「あぶうぅぅ、あふぅぅぅ、んっぐぅぅぅぅっ！」[pcms]
 
 *729|
 [fc]
-However, Ren's reaction this time was clearly abnormal.[pcms]
+しかし、今度の漣の反応は明らかに異常なものだった。[pcms]
 
 *730|
 [fc]
-Without showing any sign of resistance, she was like a doll[r]
-at their mercy...[pcms]
+抵抗するそぶりも見せず、まるで人形のようになすがまま……。[pcms]
 
 *731|
 [fc]
-Her expression even seemed to bear a faint smile.[pcms]
+表情は薄笑いを浮かべているかのようにさえ思えた。[pcms]
 
 *732|
 [fc]
-And my situation had also become dire. Like Ren, I was being[r]
-attacked by female infectees along with Kousuke.[pcms]
+そしてボクの方もいよいよ差し迫った状態となった。[r]
+漣と同じく、コースケと共に女の感染者によって[r]
+襲われていた。[pcms]
 
 [evcg storage="HEV021a"][trans_c cross time=300]
 
 *733|
 [fc]
 [vo_mob s="kansenonnaA0001"]
-[ns]Infected Woman A[nse]
-"Found a cute little dick!"[pcms]
+[ns]感染者・女Ａ[nse]
+「可愛いおちんちんみっけたぁぁぁ！」[pcms]
 
 *734|
 [fc]
 [vo_mob s="kansenB0001"]
-[ns]Infected Woman C[nse]
-"I'll milk you dry with my pussy until not a drop is left."[pcms]
+[ns]感染者・女Ｃ[nse]
+「私のオマンコで一滴残らず搾り取ってあげるわ」[pcms]
 
 *735|
 [fc]
-[ns]Wataru[nse]
-"Stop it, let go of me, let goooo!!"[pcms]
+[ns]航[nse]
+「やめろ、離せ、離せぇぇ！！」[pcms]
 
 *736|
 [fc]
 [vo_mob s="kansenjosiA0001"]
-[ns]Infected Female Student A[nse]
-"There's no need to be shy. All boys love girls' breasts and[r]
-pussies and butts, right?"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「恥ずかしがることはないわ。男の子はみんな[r]
+　女の子のおっぱいとかオマンコとかお尻とか[r]
+　大好きでしょ？」[pcms]
 
 *737|
 [fc]
-[ns]Wataru[nse]
-"Shut up, don't touch me!!"[pcms]
+[ns]航[nse]
+「うるさい、ボクにさわるなぁ！！」[pcms]
 
 *738|
 [fc]
 [vo_mob s="kansenonnaA0002"]
-[ns]Infected Woman A[nse]
-"Could it be that you're a virgin boy?"[pcms]
+[ns]感染者・女Ａ[nse]
+「もしかしてキミは童貞君なのかなぁ？」[pcms]
 
 *739|
 [fc]
 [vo_mob s="kansenB0002"]
-[ns]Infected Woman C[nse]
-"I'll teach you all about pleasure with my body."[pcms]
+[ns]感染者・女Ｃ[nse]
+「お姉さんの身体で、快感をたっぷりと教えて[r]
+　あげるわ」[pcms]
 
 *740|
 [fc]
-Pinned down with strength that didn't seem feminine at all,[r]
-I was quickly subdued.[pcms]
+とても女性とは思えない力でのしかかられて、[r]
+ボクはたちまち組み敷かれてしまった。[pcms]
 
 *741|
 [fc]
-I punched and kicked as hard as I could with all my might,[r]
-but they were completely unfazed.[pcms]
+目一杯、全力で顔を殴りつけ、蹴りあげてみたけど、[r]
+彼女たちは全く動じなかった。[pcms]
 
 *742|
 [fc]
 [vo_mob s="kansenjosiB0001"]
-[ns]Infected Female Student B[nse]
-"Why are boys so violent?"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「男の子ってどうしてこんなに乱暴なのかなぁ」[pcms]
 
 *743|
 [fc]
 [vo_mob s="kansenB0003"]
-[ns]Infected Woman C[nse]
-"If you don't behave, we'll make you feel what it's like to[r]
-be a girl getting fucked."[pcms]
+[ns]感染者・女Ｃ[nse]
+「大人しくしないと、犯される女の子の気分を[r]
+　味わわせちゃうわよ」[pcms]
 
 *744|
 [fc]
 [vo_mob s="kansenjosiA0002"]
-[ns]Infected Female Student A[nse]
-"That's a good idea. I want to make him cry cutely like a[r]
-girl!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「それいいアイデアかも。女の子みたいに、[r]
+　ヒイヒイと可愛く泣かせてみたいわぁ！」[pcms]
 
 *745|
 [fc]
-[ns]Wataru[nse]
-"Damn it, let go of me, I don't want anything to do with[r]
-you..."[pcms]
+[ns]航[nse]
+「クソ、離せ、離せ、ボクはお前らなんか……」[pcms]
 
 *746|
 [fc]
-I repeated similar words over and over and struggled[r]
-desperately but was treated as if they were merely soothing[r]
-a child.[pcms]
+同じような言葉を繰り返して、ボクは夢中で[r]
+暴れたけど、まるで子供をあやすかのように[r]
+あしらわれた。[pcms]
 
 *747|
 [fc]
-Before I knew it, my pants' belt and zipper were pulled[r]
-down, and my lower half was exposed.[pcms]
+ズボンのベルトとチャックが下ろされて、[r]
+気がつけば下半身は剥き出しの状態にされた。[pcms]
 
 *748|
 [fc]
 [vo_mob s="kansenonnaA0003"]
-[ns]Infected Woman A[nse]
-"I found a cute little cock. Hamuuuun!!"[pcms]
+[ns]感染者・女Ａ[nse]
+「可愛いオチンチンみっけたぁぁぁっ。[r]
+　はむぅぅぅんっ！！」[pcms]
 
 *749|
 [fc]
-The first woman immediately latched onto my crotch.[pcms]
+一人目の女がすかさずボクの股間にしゃぶりつく。[pcms]
 
 *750|
 [fc]
 [vo_mob s="kansenjosiA0003"]
-[ns]Infected Female Student A[nse]
-"Make sure to savor the smell of a pussy that boys love so[r]
-much."[pcms]
+[ns]感染者・女学生Ａ[nse]
+「男の子の大好きなオマンコの匂いも堪能してね」[pcms]
 
 *751|
 [fc]
-At the same time, another one straddled my face, pressing[r]
-her genitals against my mouth.[pcms]
+同時にもう一人がボクの顔にまたがると、[r]
+口に性器を押し付けてきた。[pcms]
 
 *752|
 [fc]
-[ns]Wataru[nse]
-"Ughhh, nguuuh!"[pcms]
+[ns]航[nse]
+「うっぅぅぅっ、んぐうぅっ！」[pcms]
 
 *753|
 [fc]
 [vo_mob s="kansenjosiA0004"]
-[ns]Infected Female Student A[nse]
-"You love licking here, don't you?"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「ここを舐めるのが大好きなんでしょ？」[pcms]
 
 *754|
 [fc]
 [vo_mob s="kansenjosiB0002"]
-[ns]Infected Female Student B[nse]
-"Or maybe you prefer being licked instead?"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「それとも君は舐められるのが好みかなぁ？」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV021b"]
 
 *755|
 [fc]
-As my legs were spread and a tongue crawled over my anus, a[r]
-shiver ran down my spine and I couldn't hold back any[r]
-longer; I ejaculated.[pcms]
+足を広げられて、肛門に舌を這わされると、[r]
+背筋が震えてボクは耐えきれず射精してしまった。[pcms]
 
 *756|
 [fc]
 [vo_mob s="kansenonnaA0004"]
-[ns]Infected Woman A[nse]
-"Hamuuuun, njuruuuu... nguunnguu... fuuu... oh dear, how[r]
-cute. You've already cum."[pcms]
+[ns]感染者・女Ａ[nse]
+「はむぅぅぅっ、んっじゅるぅぅぅ……[r]
+　んっぐぅんっぐぅ……ふぅぅ……あらあら可愛い。[r]
+　もう出しちゃったのね」[pcms]
 
 *757|
 [fc]
 [vo_mob s="kansenjosiA0005"]
-[ns]Infected Female Student A[nse]
-"What a quick shooter. Girls will hate you if you cum this[r]
-quickly!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「早漏君だねぇ。こんなに早く出すと女の子に[r]
+　嫌われちゃうぞ！」[pcms]
 
 *758|
 [fc]
 [vo_mob s="kansenB0004"]
-[ns]Infected Woman C[nse]
-"But young ones recover quickly. Go ahead and let it out[r]
-more."[pcms]
+[ns]感染者・女Ｃ[nse]
+「でも若い子は回復が早いものね。[r]
+　さあドンドン出していいわよぉ」[pcms]
 
 *759|
 [fc]
-Without a moment's rest, another woman began to suck on my[r]
-dick. The one straddling my face started grinding herself,[r]
-roughly pressing her genitals against my lips.[pcms]
+休む間も与えられず、次の女に肉棒をしゃぶられた。[r]
+顔にまたがっているやつは自分で尻を振って、[r]
+乱暴にボクの唇に性器を押し付けてきた。[pcms]
 
 *760|
 [fc]
-[ns]Wataru[nse]
-"Ughhh, nngmuu... guuuuh!"[pcms]
+[ns]航[nse]
+「うっぅぅっ、んっむぅ……ぐぅぅぅっ！」[pcms]
 
 *761|
 [fc]
 [vo_mob s="kansenB0005"]
-[ns]Infected Woman C[nse]
-"Hamuuuun, juruuuuu, juruuu... Just as I thought, you[r]
-recover quickly."[pcms]
+[ns]感染者・女Ｃ[nse]
+「はむぅぅぅっ、じゅるぅぅぅっ、じゅるぅぅっ……[r]
+　思ったとおり回復が早いわね」[pcms]
 
 *762|
 [fc]
 [vo_mob s="kansenjosiB0003"]
-[ns]Infected Female Student B[nse]
-"But sometimes you need to experience what it's like to be a[r]
-girl getting fucked. Ei!!"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「でもたまには犯される女の子の気持ちも[r]
+　味わわないとね。えい！！」[pcms]
 
 *763|
 [fc]
-[ns]Wataru[nse]
-"Ugh ahhhh, wh-what are you..."[pcms]
+[ns]航[nse]
+「うっあぁぁっ、な、何をっ……」[pcms]
 
 [赤フラ]
 
 *764|
 [fc]
-Suddenly, one of the women who was licking my anus[r]
-forcefully pushed her finger all the way in at once.[pcms]
+なんとボクの肛門を舐めまわしていた一人が、[r]
+指を強引に根元まで一気に押し込んだ。[pcms]
 
 *765|
 [fc]
-[ns]Wataru[nse]
-"Ah ahhhhh, ahhhhhh!"[pcms]
+[ns]航[nse]
+「あっあぁぁぁっ、あぅぅぅぅ！」[pcms]
 
 *766|
 [fc]
 [vo_mob s="kansenjosiB0004"]
-[ns]Infected Female Student B[nse]
-"How does it feel to have your hole dug into? Boys put[r]
-something much thicker into our bodies. This is just the[r]
-beginning."[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「どう？　穴をほじられる気分は？[r]
+　男の子はもっと太いのを私たちの身体に入れるのよ。[r]
+　こんなのまだまだ序の口だわ」[pcms]
 
 *767|
 [fc]
-[ns]Wataru[nse]
-"Ah ahhh, stop... it's... painful..."[pcms]
+[ns]航[nse]
+「あっあぁぅっ、やめろ……く、苦しい……」[pcms]
 
 *768|
 [fc]
 [vo_mob s="kansenjosiA0006"]
-[ns]Infected Female Student A[nse]
-"Just as I thought, a virgin boy. Even your ass was a[r]
-virgin. Ahahahaha!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「やっぱり童貞君ね。お尻の穴も処女だったみたい。[r]
+　あはははははっ！」[pcms]
 
 *769|
 [fc]
 [vo_mob s="kansenjosiB0005"]
-[ns]Infected Female Student B[nse]
-"Here you go, now three fingers!! That's about the same size[r]
-as your cock."[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「ほうらっ、次は指が三本よ！！[r]
+　これでやっとおチンチンと同じくらいね」[pcms]
 
 *770|
 [fc]
-With three fingers twisted into my anus, I contorted my face[r]
-in agony.[pcms]
+三本の指を肛門にねじ込まれて、ボクは苦しさの[r]
+あまり顔を歪めた。[pcms]
 
 [赤フラ]
 
 *771|
 [fc]
 [vo_mob s="kansenjosiB0006"]
-[ns]Infected Female Student B[nse]
-"It hurts for everyone at first, whether you're a boy or a[r]
-girl. But you might get used to it and even start to like[r]
-it?"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「男も女も最初は痛いものよ。[r]
+　でも慣れてくると癖になるかもよ？」[pcms]
 
 *772|
 [fc]
-The woman tormenting my anus said this and began to move her[r]
-three fingers dramatically back and forth.[pcms]
+肛門を責めている女はそういうと、三本の指を[r]
+派手に前後に動かしはじめた。[pcms]
 
 *773|
 [fc]
-[ns]Wataru[nse]
-"Ahhh, it's tearing... it's tearing apart!"[pcms]
+[ns]航[nse]
+「うぁぁぁ、さ、裂ける……裂けるぅぅ！」[pcms]
 
 *774|
 [fc]
 [vo_mob s="kansenjosiB0007"]
-[ns]Infected Female Student B[nse]
-"It's okay, it's okay, it's getting slipperier. Here we go,[r]
-adding a twist..."[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「大丈夫、大丈夫、だんだん滑りがよくなってるわ。[r]
+　ほぅっら、ひねりも加えて……」[pcms]
 
 *775|
 [fc]
-[ns]Wataru[nse]
-"Uoohh, ohhhhh guuuuh!"[pcms]
+[ns]航[nse]
+「うぉぉっ、おっぅぅぅぅっぐぅぅぅ！」[pcms]
 
 *776|
 [fc]
-Just as she said, the pain from my anus gradually faded[r]
-away, replaced by an abnormal sensation rising within me.[pcms]
+彼女の言葉通り、肛門から痛みが徐々に薄れると、[r]
+反対に異様な感覚が湧きあがってきた。[pcms]
 
 *777|
 [fc]
 [vo_mob s="kansenB0006"]
-[ns]Infected Woman C[nse]
-"Ufufufufu, you're feeling it from being fucked in the ass.[r]
-Your cock is twitching and convulsing."[pcms]
+[ns]感染者・女Ｃ[nse]
+「うっふふふふっ、お尻を犯されて感じてるのね。[r]
+　おチンチンがピクピク痙攣してるわぁぁ」[pcms]
 
 *778|
 [fc]
 [vo_mob s="kansenjosiB0008"]
-[ns]Infected Female Student B[nse]
-"Come on, cum with your ass!!"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「ほうらっ、お尻の穴でイッちゃなさぃぃ！！」[pcms]
 
 *779|
 [fc]
-[ns]Wataru[nse]
-"Ugh ughh, ugh guuuahhh!!"[pcms]
+[ns]航[nse]
+「うっううっ、うっぐぅぅあぁぁ！！」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1183,19 +1195,20 @@ Your cock is twitching and convulsing."[pcms]
 
 *780|
 [fc]
-Tormented by the twisting and turning in my anus, I[r]
-ejaculated from the stimulation.[pcms]
+グイとねじりながら肛門を嬲られて、ボクはその刺激で[r]
+射精してしまった。[pcms]
 
 *781|
 [fc]
 [vo_mob s="kansenjosiB0009"]
-[ns]Infected Female Student B[nse]
-"Ahahaha, there it goes, semen shooting out!!"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「あはははっ、出た出た、精液発射ぁ！！」[pcms]
 
 *782|
 [fc]
-As if controlled by her fingers, with every twist, my dick[r]
-convulsed and sprayed semen everywhere.[pcms]
+しかも彼女の指に操られているかのように、[r]
+ボクはねじられるたびに、肉棒を痙攣させて、[r]
+精液をまき散らしてしまった。[pcms]
 
 [白フラ]
 
@@ -1203,183 +1216,183 @@ convulsed and sprayed semen everywhere.[pcms]
 *783|
 [fc]
 [vo_mob s="kansenjosiA0007"]
-[ns]Infected Female Student A[nse]
-"It's so funny, like a squirt gun going 'pyu-pyu'!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「面白いわねぇ、ピュッピュッて水鉄砲みたいよ！」[pcms]
 
 *784|
 [fc]
 [vo_mob s="kansenjosiB0010"]
-[ns]Infected Female Student B[nse]
-"Ei! Ei! Make sure every last drop shoots out!"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「えいっ、えいっ、一滴残らす全弾発射ね！」[pcms]
 
 *785|
 [fc]
-[ns]Wataru[nse]
-"Auhh, ahhhhhh guuuuh!"[pcms]
+[ns]航[nse]
+「あうっ、あぅぅぅっ、うっぐぅぅぅぅ！」[pcms]
 
 [白フラ]
 
 
 *786|
 [fc]
-Controlled by her fingers, I continued to spray semen.[pcms]
+指にコントロールされるまま、ボクは精液を飛ばし続けた。[pcms]
 
 *787|
 [fc]
-[ns]Wataru[nse]
-"Haa haa... hau... fuuu..."[pcms]
+[ns]航[nse]
+「はぁはぁ……はぅ……ふぅぅ……」[pcms]
 
 *788|
 [fc]
 [vo_mob s="kansenonnaA0005"]
-[ns]Infected Woman A[nse]
-"We're not done yet."[pcms]
+[ns]感染者・女Ａ[nse]
+「まだまだ終わりじゃないわよ」[pcms]
 
 *789|
 [fc]
 [vo_mob s="kansenB0007"]
-[ns]Infected Woman C[nse]
-"Next, you need to fully enjoy pussy."[pcms]
+[ns]感染者・女Ｃ[nse]
+「次はオマンコを堪能しないとね」[pcms]
 
 *790|
 [fc]
 [vo_mob s="kansenjosiA0008"]
-[ns]Infected Female Student A[nse]
-"This way you can say goodbye to being a virgin, right?"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「これで童貞ともさようならができるんじゃない？」[pcms]
 
 *791|
 [fc]
-[ns]Wataru[nse]
-"Ughhh... no more... I can't..."[pcms]
+[ns]航[nse]
+「うっぅぅ……も、もう……無理……だ」[pcms]
 
 *792|
 [fc]
 [vo_mob s="kansenjosiA0009"]
-[ns]Infected Female Student A[nse]
-"No whining allowed!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「甘えは許しませーん！」[pcms]
 
 *793|
 [fc]
-Despite my consciousness fading from continuous ejaculation,[r]
-they showed no mercy. Now they grabbed my dick and started[r]
-stroking it up and down.[pcms]
+立て続けの射精に意識が朦朧となったが、それでも[r]
+彼女たちは容赦してくれない。[r]
+今度は肉棒を握りしめると上下にしごき始めた。[pcms]
 
 *794|
 [fc]
 [vo_mob s="kansenonnaA0006"]
-[ns]Infected Woman A[nse]
-"Come on, let's get you hard again quickly!"[pcms]
+[ns]感染者・女Ａ[nse]
+「ほらほら、すぐに元気にするのよ！」[pcms]
 
 *795|
 [fc]
-[ns]Wataru[nse]
-"Stop... ah uhhh ahhh!"[pcms]
+[ns]航[nse]
+「よ、よせ……あぅっうあぁぁ！」[pcms]
 
 *796|
 [fc]
-Thanks to their skilled handiwork, my thing quickly regained[r]
-its vigor.[pcms]
+彼女たちの熟練した手技に、ボクのあそこはたちまち[r]
+元気に回復した。[pcms]
 
 *797|
 [fc]
 [vo_mob s="kansenjosiA0010"]
-[ns]Infected Female Student A[nse]
-"Now, I will take your cute cock with my pussy!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「さあ、可愛いいオチンチンを私の[r]
+　オマンコで頂くわよ！」[pcms]
 
 *798|
 [fc]
-As soon as she saw I had recovered, she straddled my hips[r]
-and pulled me into her vagina.[pcms]
+回復したのを見るや否や、たちまち腰にまたがって、[r]
+そのまま膣内へと引き込んだ。[pcms]
 
 *799|
 [fc]
-[ns]Wataru[nse]
-"Ughhh... uguuun!"[pcms]
+[ns]航[nse]
+「うっぉおおおっ……うぐぅぅぅん！」[pcms]
 
 *800|
 [fc]
 [vo_mob s="kansenjosiA0011"]
-[ns]Infected Female Student A[nse]
-"Look, it's in all the way to the back."[pcms]
+[ns]感染者・女学生Ａ[nse]
+「ほらほら、奥までたっぷりと入ったわよ」[pcms]
 
 *801|
 [fc]
 [vo_mob s="kansenonnaA0007"]
-[ns]Infected Woman A[nse]
-"It's also important for a man to move on his own and please[r]
-a woman, right?"[pcms]
+[ns]感染者・女Ａ[nse]
+「自分で動いて女を悦ばせるのも大切な男の嗜みよ？」[pcms]
 
 *802|
 [fc]
 [vo_mob s="kansenjosiB0011"]
-[ns]Infected Female Student B[nse]
-"Come on, don't just sit there, start moving your hips!"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「ほら、ぼやっとしてないで腰を振りなさい！」[pcms]
 
 *803|
 [fc]
-As I stood there dazed with it still inside, a finger was[r]
-again inserted into my anus, and I reflexively shook my[r]
-hips.[pcms]
+挿入したまま呆然としていると、またもや肛門に[r]
+指を入れられて、ボクは反射的に腰を震わせた。[pcms]
 
 *804|
 [fc]
 [vo_mob s="kansenjosiA0012"]
-[ns]Infected Female Student A[nse]
-"Ahhnn, that's good, so stimulating!!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「あぁぁっん、いいわぁ、すごい刺激的！！」[pcms]
 
 *805|
 [fc]
 [vo_mob s="kansenjosiB0012"]
-[ns]Infected Female Student B[nse]
-"Ahahaha, this is fun. When I poke around with my finger[r]
-like this, look, look, he's twitching!"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「あはははっ、面白いね。[r]
+　こうやって指でほじると、ほらほら、[r]
+　ビクンビクンって反応しているよ！」[pcms]
 
 *806|
 [fc]
-[ns]Wataru[nse]
-"Uahhh, ahh ahhhh, uguu!!"[pcms]
+[ns]航[nse]
+「うあぁぁっ、あっああぁぅっ、うぐう！！」[pcms]
 
 [白フラ]
 
 
 *807|
 [fc]
-Without my control, my hips thrust and shook, manipulated by[r]
-the finger thrust into my anus.[pcms]
+ボクの意思とは無関係に、肛門に突きいれられた[r]
+指に操られて腰を振って突きあげてしまう。[pcms]
 
 *808|
 [fc]
-The rubbing of my cock against the vaginal walls and[r]
-stimulation of the cervix caused the folds to cling and[r]
-tighten around me.[pcms]
+肉棒で膣壁を擦りあげて子宮口を刺激すると、[r]
+たちまち襞が張り付いて、締め上げてくる。[pcms]
 
 *809|
 [fc]
 [vo_mob s="kansenjosiA0013"]
-[ns]Infected Female Student A[nse]
-"Ahhnn, more, harder... Yes, thrust deeper inside!!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「あぁぁっ、もっと、もっと強く……[r]
+　そうよ、もっと奥まで突くのぉ！！」[pcms]
 
 *810|
 [fc]
-[ns]Wataru[nse]
-"Uuuuh, augh uuuuh, uuuuh!"[pcms]
+[ns]航[nse]
+「うぅぅっ、あぅっぐうぅぅ、うぅぅぅ！」[pcms]
 
 *811|
 [fc]
 [vo_mob s="kansenjosiB0013"]
-[ns]Infected Female Student B[nse]
-"Put some spirit into it and man up!"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「気合い入れて、男らしく頑張りなさい！」[pcms]
 
 *812|
 [fc]
-The stimulation of having my anus prodded and the friction[r]
-of the clinging mucus and flesh folds quickly pushed my[r]
-pleasure to its limit.[pcms]
+肛門をほじくられる刺激と、絡みつく粘液と肉襞の摩擦。[r]
+それはボクの快感をたちまち限界点へと[r]
+押し上げた。[pcms]
 
 *813|
 [fc]
-[ns]Wataru[nse]
-"Ugh uguuuh, aguuuh, ahhh!!"[pcms]
+[ns]航[nse]
+「うっうぐううっ、あぐうぅっ、あああぁっ！！」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1392,144 +1405,152 @@ pleasure to its limit.[pcms]
 
 *814|
 [fc]
-Inspired by the spiraling movement of the flesh folds that[r]
-clung from the base to the tip, I ejaculated.[pcms]
+絞め上げるように根元から先端へと向かって[r]
+らせん状に絡みついてくる肉襞の躍動に触発されて[r]
+ボクはそのまま射精した。[pcms]
 
 *815|
 [fc]
-[ns]Wataru[nse]
-"Abuuuuu boooooooh!"[pcms]
+[ns]航[nse]
+「あっぶぅぅぅぶぉぉぉぉぉっ！[pcms]
 
 *816|
 [fc]
 [vo_mob s="kansenjosiA0014"]
-[ns]Infected Female Student A[nse]
-"Ahhnn, you've already shot your load!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「ああぁぁっん、もう発射しちっゃたのぉぉぉ！」[pcms]
 
 *817|
 [fc]
 [vo_mob s="kansenjosiB0014"]
-[ns]Infected Female Student B[nse]
-"You really are quick to come."[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「本当に早漏なのね」[pcms]
 
 *818|
 [fc]
 [vo_mob s="kansenonnaA0008"]
-[ns]Infected Woman A[nse]
-"You don't understand the pleasures of sex at all."[pcms]
+[ns]感染者・女Ａ[nse]
+「セックスの楽しみ方が全然分かってないのね」[pcms]
 
 *819|
 [fc]
 [vo_mob s="kansenB0008"]
-[ns]Infected Woman C[nse]
-"As punishment, let's keep going without pulling out."[pcms]
+[ns]感染者・女Ｃ[nse]
+「罰として、このまま抜かずに連続で[r]
+　やらせましょう」[pcms]
 
 *820|
 [fc]
 [vo_mob s="kansenjosiA0015"]
-[ns]Infected Female Student A[nse]
-"Of course, I'm not satisfied with just that!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「あたりまえよ、こんなんで私満足できない！」[pcms]
 
 *821|
 [fc]
-Ignoring my ejaculation, they continued to blame me[r]
-relentlessly.[pcms]
+射精しているのに彼女たちはそれを無視し、[r]
+ボクをそのまま責め続けた。[pcms]
 
 *822|
 [fc]
-The mixture of semen and love juices turned her vagina into[r]
-a crucible that tightened and wrung me out, rubbing me over[r]
-and over without permission to pull out.[pcms]
+精液と愛液が混ざりあった汁の坩堝と化した[r]
+膣で締め上げ絞られて、抜くことも許されないまま、[r]
+何度も何度も擦られていく。[pcms]
 
 *823|
 [fc]
-[ns]Wataru[nse]
-"Aguuuuh... Ugh ahhh... haguuh!!"[pcms]
+[ns]航[nse]
+「あぐうぅぅっ……。[r]
+　うっああぁぁっ……はぐうぅ！！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *824|
 [fc]
-No longer able to utter coherent words, I could only[r]
-continue to raise pitiful moans like a girl being violated.[pcms]
+もはやまともな言葉すら出てこない。[r]
+ボクはまさに凌辱された女の子みたいに、[r]
+無様な嬌声を上げ続けるしかできなかった。[pcms]
 
 *825|
 [fc]
-I ejaculated repeatedly while still inside her countless[r]
-times as my consciousness began to fade.[pcms]
+何度となく膣内に収めた状態のまま射精を繰り返して[r]
+ボクの意識は薄れつつあった。[pcms]
 
 ;// HEV021
 [evcg storage="HEV020d"][trans_c cross time=300]
 
 *826|
 [fc]
-In my fading consciousness, I turned my eyes to Ren...[r]
-Almost unresponsive Ren was still being violated, covered in[r]
-cloudy liquid.[pcms]
+薄れゆく意識の中、漣に目をやると……。[r]
+ほぼ無反応となった漣は、白濁の液体にまみれたまま、[r]
+凌辱され続けていた。[pcms]
 
 *827|
 [fc]
-[ns]Infected Student A[nse]
-"What's this... He's not moving at all!!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「何だよ……全然動かないぜ！！」[pcms]
 
 *828|
 [fc]
-[ns]Infected Man A[nse]
-"That's what makes it irresistible, like a doll."[pcms]
+[ns]感染者・男Ａ[nse]
+「それが人形みたいで、またたまらないんじゃないか」[pcms]
 
 *829|
 [fc]
-[ns]Infected Student B[nse]
-"Just crying out is boring. When you thrust in like this,[r]
-see, the hole reacts properly."[pcms]
+[ns]感染者・学生Ｂ[nse]
+「ただ泣き叫んでいるだけなんて退屈だぜ。[r]
+　こうやって突っ込んでやれば、穴はちゃんと[r]
+　反応しているんだ」[pcms]
 
 *830|
 [fc]
-[ns]Infected Man A[nse]
-"Exactly, a flesh doll is a rare treat!"[pcms]
+[ns]感染者・男Ａ[nse]
+「そうそう、肉人形なんて滅多に味わえない[r]
+　御馳走だぜ！」[pcms]
 
 *831|
 [fc]
-While some lost interest saying it was boring, others found[r]
-the doll-like unresponsiveness enjoyable...[pcms]
+つまらないと言って興味を失うヤツがいる一方で、[r]
+人形のような無反応が楽しいというヤツがいて……。[pcms]
 
 *832|
 [fc]
-Ren's genitals were ravaged by the infected men's cocks in[r]
-turn.[pcms]
+漣の性器は代わる代わる感染者達の肉棒で[r]
+蹂躙された。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *833|
 [fc]
 [vo_ren s="ren0140"]
-[ns]Ren[nse]
-"Nnn... nnn... fuu... ugh... uuu... nnn... ugh..."[pcms]
+[ns]漣[nse]
+「んっ…………んっんっ……ふっ……[r]
+　うっ……ぅぅっ…………んっ……ぅっ……」[pcms]
 
 *834|
 [fc]
-She kept repeating mechanical responses as she continued to[r]
-receive semen inside her vagina.[pcms]
+無機質な反応だけを繰り返しては、[r]
+膣内で精液を受け続ける。[pcms]
 
 *835|
 [fc]
-[ns]Infected Man A[nse]
-"Look at that, her pussy is still clamping down nicely.[r]
-She's a well-made doll indeed!!"[pcms]
+[ns]感染者・男Ａ[nse]
+「ほらほらっ、しっかりとオマンコは締め付けて[r]
+　くるじゃねぇか。[r]
+　こいつはよくできた人形だぜ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *836|
 [fc]
 [vo_ren s="ren0141"]
-[ns]Ren[nse]
-"Ugh... nnn... nnn..."[pcms]
+[ns]漣[nse]
+「うっ……んっ……んんっ……」[pcms]
 
 *837|
 [fc]
-Mimicking a convulsion as if climaxing, Ren caused the[r]
-infected man inside her to rejoice as he poured his sperm[r]
-into her.[pcms]
+ビクンと痙攣して絶頂したような素振りを見せる[r]
+漣に、挿入していた感染者は歓喜しながら[r]
+膣内に精子を注ぎ込んだ。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV020e"]
@@ -1538,27 +1559,27 @@ into her.[pcms]
 *838|
 [fc]
 [vo_ren s="ren0142"]
-[ns]Ren[nse]
-"...! ...nn... nnn..."[pcms]
+[ns]漣[nse]
+「……っ！　……んっ……んんっ……」[pcms]
 
 *839|
 [fc]
-[ns]Infected Man A[nse]
-"Fuuuuh, no matter how many times I do it, I never get[r]
-tired."[pcms]
+[ns]感染者・男Ａ[nse]
+「ふぅぅぅ、何発出しても飽きないなぁ」[pcms]
 
 *840|
 [fc]
-[ns]Infected Student B[nse]
-"Alright, now it's my turn to fuck her ass!"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「よおし、今度は俺がケツの穴を犯すぞぉ！」[pcms]
 
 [evcg storage="HEV020d"][trans_c cross time=300]
 
 
 *841|
 [fc]
-Lifting Ren's legs with her sex dripping white fluid, the[r]
-next infected man aimed and thrust into her anus.[pcms]
+ぼっこりと開いた性器から白液をぼたぼたと滴らせる[r]
+漣の足を持ち上げると、次の感染者は肛門に狙いを[r]
+定めて突き入れた。[pcms]
 
 [赤フラ]
 
@@ -1567,41 +1588,41 @@ next infected man aimed and thrust into her anus.[pcms]
 *842|
 [fc]
 [vo_ren s="ren0143"]
-[ns]Ren[nse]
-"! Nnn... nnn..."[pcms]
+[ns]漣[nse]
+「っ！！　んんっ……んんっ……ぅっ……」[pcms]
 
 *843|
 [fc]
-[ns]Infected Student B[nse]
-"Oops, seems like she's a bit more sensitive in the back[r]
-hole."[pcms]
+[ns]感染者・学生Ｂ[nse]
+「おっと後ろの穴だと少し敏感な反応するなぁ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *844|
 [fc]
 [vo_ren s="ren0144"]
-[ns]Ren[nse]
-"...! Nnn... fuu... guu... ah... auuu..."[pcms]
+[ns]漣[nse]
+「……っ！！　んっん……ふぅ……ぐぅ……[r]
+　あっ……あぅぅぅ…………」[pcms]
 
 *845|
 [fc]
-[ns]Infected Student B[nse]
-"This hole is clamping down nicely too. This is like a[r]
-living sex craftwork!"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「こっちの穴もいい感じに締め付けてくるじゃないか。[r]
+　こりゃあ生きたセックス工芸品だ！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *846|
 [fc]
 [vo_ren s="ren0145"]
-[ns]Ren[nse]
-"Hah... fuuuuh... nnn... uauh..."[pcms]
+[ns]漣[nse]
+「はっ……ふっぅぅっ……んっ……ぅぁぅっ……」[pcms]
 
 *847|
 [fc]
-Thrusting his hips roughly, he kept pistoning in and out of[r]
-Ren's anus, digging into it.[pcms]
+乱暴に腰を振り、漣の肛門をほじくりながら[r]
+ピストンを繰り返していく。[pcms]
 
 [赤フラ]
 
@@ -1610,13 +1631,14 @@ Ren's anus, digging into it.[pcms]
 *848|
 [fc]
 [vo_ren s="ren0146"]
-[ns]Ren[nse]
-"Nn... nnn... guh... fuuuguuu... haa... hiiiaan!"[pcms]
+[ns]漣[nse]
+「んっ……んんっ……ぐっ…………[r]
+　ふぅっぐぅぅ……はぁっ…………ひいぁっん！」[pcms]
 
 *849|
 [fc]
-[ns]Infected Student B[nse]
-"Uoooohhhhhhh!!!"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「うおおっおおおおっ！！！」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1630,14 +1652,14 @@ Ren's anus, digging into it.[pcms]
 
 *850|
 [fc]
-And with a particularly loud roar, the infected man[r]
-ejaculated into Ren's anus.[pcms]
+そしてひときわ大きく雄叫びをあげると、[r]
+感染者は漣の肛門に射精した。[pcms]
 
 *851|
 [fc]
-[ns]Infected Student C[nse]
-"Me too... I also want to taste the pussy... the doll's[r]
-pussy... let me taste it eeehhh!!"[pcms]
+[ns]感染者・学生Ｃ[nse]
+「俺も……俺もオマンコ……お人形のオマンコ……[r]
+　味わわせてくれぇぇぇ！！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1646,13 +1668,14 @@ pussy... let me taste it eeehhh!!"[pcms]
 *852|
 [fc]
 [vo_ren s="ren0147"]
-[ns]Ren[nse]
-"...nnn, guu... nhfu...! Fuu... kuu..."[pcms]
+[ns]漣[nse]
+「……んんっ、ぐぅ……んっふ…………っ！[r]
+　ふぅっ…………くぅっ………」[pcms]
 
 *853|
 [fc]
-Entering and releasing into her anus and genitals, the cycle[r]
-repeated over and over...[pcms]
+肛門に性器にと出して入れて、入れては出してと[r]
+繰り返されて……。[pcms]
 
 ;//〆ＢＧ：黒画面
 ;//<ChrInit>
@@ -1660,34 +1683,34 @@ repeated over and over...[pcms]
 
 *854|
 [fc]
-And I too was falling into the hell of endless pleasure.[pcms]
+そしてボクも快楽の無間地獄へと落ちていた。[pcms]
 
 *855|
 [fc]
 [vo_mob s="kansenjosiA0016"]
-[ns]Infected Female Student A[nse]
-"Look, look, another shot, one more shot!!"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「ほら、ほらぁぁっ、もう一発、もう一発！！」[pcms]
 
 *856|
 [fc]
 [vo_mob s="kansenonnaA0009"]
-[ns]Infected Woman A[nse]
-"Feels good, doesn't it! I'll make you cummm!"[pcms]
+[ns]感染者・女Ａ[nse]
+「気持ちいいでしょぉ！　イカせてあげるぅぅぅ！」[pcms]
 
 *857|
 [fc]
-[ns]Wataru[nse]
-"Guuaaaaah, uooohhbuuuu!!"[pcms]
+[ns]航[nse]
+「ぐぁぁぁぁっ、うぉぉぉっぶぅぅぅ！！」[pcms]
 
 *858|
 [fc]
-I couldn't even remember how many times I had ejaculated. My[r]
-memory and thoughts had already stopped.[pcms]
+何度射精したかもわからない。もう記憶も思考も[r]
+停止していた。[pcms]
 
 *859|
 [fc]
-Being rubbed and milked continuously, my consciousness was[r]
-falling into pitch- black darkness...[pcms]
+擦られ、搾られ続けて、ボクの意識は漆黒の闇へと[r]
+堕ちて行った……。[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -1700,5 +1723,5 @@ falling into pitch- black darkness...[pcms]
 ;//---------------------------------------------------------------
 
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

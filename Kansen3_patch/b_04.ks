@@ -16,120 +16,119 @@
 
 *3553|
 [fc]
-Let's speed through on the bicycle! There are a lot of[r]
-people, but there's still enough space between them, and[r]
-their movements are as slow as if they're weighed down.[pcms]
+自転車でスピードをつけて突っ切ろう！[r]
+人の数は多いとは言え、まだ隙間は充分にあるし、[r]
+彼らの動きは重りでもつけているかのように遅い。[pcms]
 
 *3554|
 [fc]
-[ns]Wataru[nse]
-"Alright!"[pcms]
+[ns]航[nse]
+「よしっ！」[pcms]
 
 *3555|
 [fc]
-With determination, I directed the front of my bicycle[r]
-towards the station and stood up, leaning forward.[pcms]
+ボクは意を決して自転車の矛先を駅方向へと向けると、[r]
+立ち上がり前傾姿勢をとった。[pcms]
 
 *3556|
 [fc]
-[ns]Wataru[nse]
-"Out of the wayyyyyyyyy!!"[pcms]
+[ns]航[nse]
+「どけぇええええええっ！！！」[pcms]
 
 *3557|
 [fc]
-While shouting loudly to intimidate them, I plunged into the[r]
-crowd of people.[pcms]
+威嚇するために大声で叫びながら、ボクは人の群れの中に[r]
+飛び込んだ。[pcms]
 
 *3558|
 [fc]
-Many hands reached out, but I managed to dodge them at the[r]
-last second.[pcms]
+何本もの手が伸びてきたが、際どい所でかわしていける。[pcms]
 
 *3559|
 [fc]
-[ns]Wataru[nse]
-"Good, I can do this!!"[pcms]
+[ns]航[nse]
+「よし、イケるっ！！」[pcms]
 
 *3560|
 [fc]
-That's what I thought in that moment.[pcms]
+そう思った瞬間だった。[pcms]
 
 *3561|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「えっ？」[pcms]
 
 *3562|
 [fc]
-An arm stretched out from the side and firmly grabbed my[r]
-sleeve.[pcms]
+脇から伸びてきた腕がボクの袖をがっちりと掴んだ。[pcms]
 
 [赤フラ]
 
 *3563|
 [fc]
-[ns]Wataru[nse]
-"Ouchhhhh!"[pcms]
+[ns]航[nse]
+「いてぇええっ！」[pcms]
 
 [quake_bg 元time=500 xy m]
 
 *3564|
 [fc]
-When I realized it, I was thrown onto the asphalt road.[pcms]
+気がついたとき、ボクはアスファルト道路に[r]
+体を投げ出していた。[pcms]
 
 *3565|
 [fc]
-Was it a case of being outnumbered after all?[pcms]
+やっぱり多勢に無勢だったか？[pcms]
 
 *3566|
 [fc]
-...Wait.[pcms]
+………って。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3567|
 [fc]
 [vo_mob s="onna_iti0010"]
-[ns]Woman A[nse]
-"Ahaha... dick, dick. A young man's dick."[pcms]
+[ns]女Ａ[nse]
+「あはは……チンポ、チンポ。若い男のチンポよぉ」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
 *3568|
 [fc]
 [vo_mob s="onna2_0006"]
-[ns]Woman B[nse]
-"Hurry up and thrust it in. Thrust it into my pussy."[pcms]
+[ns]女Ｂ[nse]
+「早く突っ込んで。私のおまんこに突っ込んで」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_a"][ChrSetXY layer=5 x=178 y=0][trans_c cross time=150]
 
 *3569|
 [fc]
-[ns]Man A[nse]
-"More importantly, I'm hungry... Now then."[pcms]
+[ns]男Ａ[nse]
+「それよりさ、腹が減った……さて。」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3570|
 [fc]
 [vo_mob s="onna_iti0011"]
-[ns]Woman A[nse]
-"There's no rush, enjoy the young dick to your heart's[r]
-content."[pcms]
+[ns]女Ａ[nse]
+「たっぷり若いチンポを楽しんでからでも遅くはないわぁ」[pcms]
 
 *3571|
 [fc]
-Surrounded by people, people, people all around me.[r]
-Creatures that looked like humans with uniformly red eyes.[pcms]
+ボクの周りを囲う、人、人、人。[r]
+一様に赤い目をした人間の姿をした別の生き物。[pcms]
 
 *3572|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaaaaaaaaaaaaaaaaaaah!!"[pcms]
+[ns]航[nse]
+「うわぁああああああああああああああっ！！」[pcms]
 
 *3573|
 [fc]
-I had no means left to resist the onslaught.[pcms]
+襲いかかる彼らに、ボクには抵抗する術はもう何一つとして[r]
+残っていなかった。[pcms]
 
 
 ;//・ゲームオーバー
@@ -139,6 +138,6 @@ I had no means left to resist the onslaught.[pcms]
 ;//●●●●●仕様の確定を。
 
 ;//ゲームオーバー
-(gameover movie="gameover.mpg")(returntitle)[pcms]
+[gameover movie="gameover.mpg"][returntitle][s]
 
 

@@ -22,27 +22,25 @@
 *876|
 [fc]
 [vo_mar s="maru0528"]
-[ns]Margarita[nse]
-"Then, I would like to ask for your time the day after[r]
-tomorrow afternoon."[pcms]
+[ns]マルガリータ[nse]
+「それでは明後日の午後にお願いいたします」[pcms]
 
 *877|
 [fc]
-[ns]School Principal[nse]
-"Hmm, understood."[pcms]
+[ns]学園長[nse]
+「うむ、わかったよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *878|
 [fc]
 [vo_mar s="maru0529"]
-[ns]Margarita[nse]
-"Excuse me."[pcms]
+[ns]マルガリータ[nse]
+「失礼いたします」[pcms]
 
 *879|
 [fc]
-Having reconfirmed the appointment with the school[r]
-principal, I left the principal's office.[pcms]
+学園長に約束を再確認したワタシは校長室を後にした。[pcms]
 
 ;//〆ＢＧ：廊下
 [bg storage="BG016"][trans_c cross time=500]
@@ -50,131 +48,126 @@ principal, I left the principal's office.[pcms]
 
 *880|
 [fc]
-The urban legend of the underground passage.[pcms]
+都市伝説といわれていた、地下通路。[pcms]
 
 *881|
 [fc]
-Part of the structure that extends from the current Yoyogi[r]
-Park to Shibuya Station still exists, running beneath Kami-[r]
-nan Academy...[pcms]
+現在の代々木公園から渋谷駅へと延びる構の一部が現存して、[r]
+神南学園の下を通っている……。[pcms]
 
 *882|
 [fc]
-My predictions had been confirmed as fact, and I couldn't[r]
-help but let out a smile of joy. Now all that's left is to[r]
-confirm it with my own eyes to make it perfect.[pcms]
+ワタシの予測していたことが、事実であるという[r]
+裏付けがとれて、思わず歓喜の笑みがこぼれた。[r]
+あとはこの目で確認さえできれば完璧というわけだ。[pcms]
 
 *883|
 [fc]
-As I walked towards the entrance with a light step and in[r]
-high spirits, the male students, as usual, tried to hit on[r]
-me with their pickup lines.[pcms]
+玄関へと向かって足取りも軽く上機嫌で歩いていくと、[r]
+男子学生たちがナンパ目当でいつものように声をかけてきた。[pcms]
 
 *884|
 [fc]
-However, I had no intention of engaging with them. I[r]
-completely ignored those men as if they didn't exist.[pcms]
+しかし、相手にする気は毛頭ない。[r]
+ワタシはその男達が存在しないかの様な態度で、完全放置した。[pcms]
 
 *885|
 [fc]
-The female students who saw this threw envious and jealous[r]
-glances my way, whispering among themselves, but that too[r]
-was just one of many meaningless noises.[pcms]
+それをみていた女子学生たちが、羨望と、[r]
+嫉妬のまなざしを投げかけて、ヒソヒソと囁いているが[r]
+それも無意味な雑音の一つだ。[pcms]
 
 *886|
 [fc]
-Even so, I'm truly disappointed with the Japanese students.[pcms]
+それにしても日本の学生連中には本当に失望させられる。[pcms]
 
 *887|
 [fc]
-I wasn't particularly expecting much, but their lack of[r]
-discipline leaves me speechless.[pcms]
+特に期待していたわけではないが、[r]
+ここまで体たらくだと呆れて言葉もない。[pcms]
 
 *888|
 [fc]
-Born in a privileged country, in a privileged environment,[r]
-yet all that's on their minds is frivolous interaction with[r]
-the opposite sex.[pcms]
+恵まれた国に生まれて、恵まれた環境にあるというのに[r]
+頭にあるのはくだらない異性との交遊ばかり。[pcms]
 
 *889|
 [fc]
-No ambition, no curiosity, just squandering their youth by[r]
-taking advantage of a favorable environment.[pcms]
+向上心もなければ探求心もなく、[r]
+ただ環境の良さに便乗して、若さを浪費するだけの日々。[pcms]
 
 *890|
 [fc]
-Lacking in academic motivation, driven only by instinct.[r]
-Above all, their understanding of their own culture and[r]
-history is shallow, and they hardly have any patriotism...[pcms]
+勉強意欲に乏しく、本能に向かうだけ。[r]
+なによりも自国の文化や歴史に対する造詣すら希薄で、[r]
+愛国心すらろくにないとは……。[pcms]
 
 *891|
 [fc]
-The relationship between prosperity and decay is close, just[r]
-as the philosopher said. It's a country that truly[r]
-disappoints me to my core...[pcms]
+豊かさと堕落は密接な関係だと説いていた[r]
+哲学者の言葉を象徴するような国だ。[r]
+心底落胆させられる……。[pcms]
 
 *892|
 [fc]
-Is this really the student body of my mother's homeland?[pcms]
+本当にこれがあの母の故国の学生なのだろうか？[pcms]
 
 *893|
 [fc]
-At least my mother was nothing like these people. She was[r]
-intellectual and kind, and she loved Japan... especially[r]
-Shibuya, her hometown.[pcms]
+少なくとも母はこの連中とはかけ離れていた。[r]
+知的で優しく、日本を……とくに[r]
+生まれ故郷である渋谷という街に愛を持っていた。[pcms]
 
 *894|
 [fc]
-Shibuya, a city I visited only briefly as a child and never[r]
-returned to since then.[pcms]
+ワタシは子供の頃に少し遊びに来た程度で[r]
+それっきりだった渋谷の街。[pcms]
 
 *895|
 [fc]
-My mother's longing for her hometown was never fulfilled;[r]
-she became one of the departed this spring due to a bomb[r]
-terrorist attack by the old military regime.[pcms]
+結局母の望郷はかなえられず、今年の春、[r]
+旧軍事政権による爆弾テロで、帰らぬ人となった。[pcms]
 
 *896|
 [fc]
-Longing for the image of my mother and the Shibuya she told[r]
-me about, I persuaded my father, the ambassador to Japan, to[r]
-let me come here.[pcms]
+憧れであり、目標であった母の面影と母が話してくれた[r]
+渋谷の街が見たくて、ワタシは駐日大使である父に[r]
+無理を言ってここに来た。[pcms]
 
 *897|
 [fc]
-Moreover, my father wanted me to graduate from a school in[r]
-our home country and then study in the United States, but I[r]
-insisted on coming here instead.[pcms]
+しかも父は母国の学園を卒業させて、[r]
+合衆国へと進学させたがっていたのを押し切って来たのだ。[pcms]
 
 *898|
 [fc]
-Japan was struck by a disaster a few years ago... a[r]
-biohazard that weakened its national power.[pcms]
+日本は数年前の災害……、バイオハザードに見舞われ、[r]
+国力を落とした。[pcms]
 
 *899|
 [fc]
-It's hardly a safe or good country anymore, and it's losing[r]
-its dignity as a developed nation.[pcms]
+お世辞にも安全で良い国ではなく、[r]
+先進国としての威厳も失われつつある。[pcms]
 
 *900|
 [fc]
-Yet I came here eagerly... but now I can't help feeling[r]
-disillusioned.[pcms]
+それでも勇んでやって来たのだが……[r]
+これでは幻滅せざるをえない。[pcms]
 
 *901|
 [fc]
-Gentle, intellectual, diligent, and rich in ambition. The[r]
-Japanese people were supposed to be talented in embracing[r]
-diverse cultures and evolving.[pcms]
+優しく、知的で、勤勉で向上心の豊かな日本。[r]
+多様な文化を受け入れて進化する才能に満ちた日本人たち。[pcms]
 
 *902|
 [fc]
-However, it seems that was all just my fantasy.[pcms]
+しかし、それらはどうやらワタシの妄想だったようだ。[pcms]
 
 *903|
 [fc]
-Despite these feelings, I decided to head to the library at[r]
-Shibuya Palace to do some research.[pcms]
+ワタシはそんな気持ちを抱きつつも、[r]
+渋谷パレスにある図書館で調べものをするべく、[r]
+足を運ぶことにした。[pcms]
 
 ;//〆ＢＧ：学園前
 [bg storage="BG07a"][trans_c cross time=500]
@@ -182,15 +175,15 @@ Shibuya Palace to do some research.[pcms]
 
 *904|
 [fc]
-In front of the academy stood a woman in black clothes out[r]
-of place. It was Sesuka, in charge of my personal security.[r]
-She seemed to be on the phone with someone...[pcms]
+学園前には場違いな黒衣の女が立っていた。[r]
+ワタシの身辺警護を担当しているセスカだ。[r]
+誰かと携帯で電話をしているようだが……。[pcms]
 
 *905|
 [fc]
-It would be troublesome to be followed around here. I'm[r]
-confident I can protect myself, so I moved to the back door[r]
-to avoid being noticed.[pcms]
+ここであれこれと付きまとわれても面倒臭い。[r]
+自分の身くらいは自分で守れる自信はあるし、[r]
+ワタシは見つからないように、裏口へと移動した。[pcms]
 
 ;//〆フェードアウト
 ;[fadeoutbgm time=500]

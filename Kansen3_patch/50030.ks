@@ -1,10 +1,10 @@
 ;//block:A004
 ;//ブロック５００２０から選択肢でjump
-;//ブロック５００３０『地上ＬＡＳＥＲへ』
+;//ブロック５００３０『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50030_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：ドラッグストア「キメスギタカシ」
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣・航
@@ -12,256 +12,256 @@
 ;//時間帯：
 ;//・テキスト容量：7K前後
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１　１１：ドラッグストアへ
+;//●選択肢Ａ－１　１－１：ドラッグストアへ
 
 ;[sysbt_meswin]
 
 *166|
 [fc]
-I took Ren and Yuuho with me and headed to the drugstore.[pcms]
+ボクは漣と悠帆を連れて、ドラッグストアに向かった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *167|
 [fc]
 [vo_yuh s="yuho1456"]
-[ns]Yuuho[nse]
-"...There's no one around."[pcms]
+[ns]悠帆[nse]
+「…………誰もいないね」[pcms]
 
 *168|
 [fc]
-[ns]Wataru[nse]
-"Yeah... It seems safe to enter. Come on, Ren."[pcms]
+[ns]航[nse]
+「うん……。入っても大丈夫そうだな。[r]
+　おいで、漣」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *169|
 [fc]
 [vo_ren s="ren1315"]
-[ns]Ren[nse]
-"Ye-es. Excuse us for intruding."[pcms]
+[ns]漣[nse]
+「はーい。お邪魔しまーす」[pcms]
 
 *170|
 [fc]
-After confirming there were no signs of people or 'them', we[r]
-entered the store.[pcms]
+人の気配も、ヤツラの気配も感じられないのを確認して[r]
+店の中に入り込む。[pcms]
 
 *171|
 [fc]
-The store was a bit of a mess, but it looked more like the[r]
-work of panicked humans than an attack by 'them'.[pcms]
+店内は少し荒らされていたけれど、[r]
+ヤツラが襲ってきた、というよりも[r]
+パニックを起こした人間の仕業みたいだった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *172|
 [fc]
 [vo_yuh s="yuho1457"]
-[ns]Yuuho[nse]
-"Since it seemed like there was food at the 'depot', we[r]
-don't need to take any for now, right?"[pcms]
+[ns]悠帆[nse]
+「食料は『ででっぽう』にありそうだったから、[r]
+　とりあえずは持ってかなくても大丈夫だよね？」[pcms]
 
 *173|
 [fc]
-[ns]Wataru[nse]
-"Yeah. I'm going to look for medicines and daily[r]
-necessities. Ren, you'll need cream and contact lens[r]
-supplies, right?"[pcms]
+[ns]航[nse]
+「うん。ボクは薬や日用品なんかを見てくるよ。[r]
+　漣、クリームとか、コンタクト用品、必要だろ？」[pcms]
 
 *174|
 [fc]
-When I reached out my hand and said "come here," Ren blushed[r]
-for some reason and hesitated.[pcms]
+おいで、と手を伸ばすと、漣は何故か顔を赤くして[r]
+もじもじと留まっている。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *175|
 [fc]
 [vo_ren s="ren1316"]
-[ns]Ren[nse]
-"Ah, but... Um, I'll go with Yuuho-chan..."[pcms]
+[ns]漣[nse]
+「あ、でも……。えーっと、私は悠帆ちゃんと……」[pcms]
 
 *176|
 [fc]
-[ns]Wataru[nse]
-"Hm? What's wrong?"[pcms]
+[ns]航[nse]
+「ん？？　どうしたの？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *177|
 [fc]
 [vo_yuh s="yuho1458"]
-[ns]Yuuho[nse]
-"Um... things like body soap and shampoo, you know."[pcms]
+[ns]悠帆[nse]
+「えっと……ボディソープとかシャンプーとか、ね」[pcms]
 
 *178|
 [fc]
-Yuuho's tone was also hesitant.[pcms]
+悠帆までが歯切れの悪い口調だ。[pcms]
 
 *179|
 [fc]
-[ns]Wataru[nse]
-"That sounds heavy. Should I carry it for you?"[pcms]
+[ns]航[nse]
+「重そうだなあ。それならボクが運ぶよ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *180|
 [fc]
 [vo_yuh s="yuho1459"]
-[ns]Yuuho[nse]
-"No way! If I leave it to a guy, you'll pick something[r]
-terrible without considering hair or skin type."[pcms]
+[ns]悠帆[nse]
+「いーのっ！　男なんかに任せたら[r]
+　髪質とか肌質に関係なく、[r]
+　とんでもないの選びそうだもん」[pcms]
 
 *181|
 [fc]
-[ns]Wataru[nse]
-"That's not true. I know Ren's favorites at least."[pcms]
+[ns]航[nse]
+「そんなことないよ？[r]
+　漣のお気に入りくらいは知ってるし」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *182|
 [fc]
 [vo_yuh s="yuho1460"]
-[ns]Yuuho[nse]
-"No, it's fine, let's split up!"[pcms]
+[ns]悠帆[nse]
+「い、いいから、二手に分かれるのっ！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *182a|
 [fc]
-[ns]Wataru[nse]
-"...?? Okay, if you say so..."[pcms]
+[ns]航[nse]
+「……？？　ま、いいけど……」[pcms]
 
 *183|
 [fc]
-For some reason, the two of them really wanted to act[r]
-separately.[pcms]
+なんだか知らないけど、[r]
+二人はどうしても別行動がしたいらしい。[pcms]
 
 *184|
 [fc]
-I watched the two sneak away...[pcms]
+ボクはこそこそと離れていく二人を見送り……。[pcms]
 
 *185|
 [fc]
-[ns]Wataru[nse]
-"...I see."[pcms]
+[ns]航[nse]
+「…………なるほど」[pcms]
 
 *186|
 [fc]
-The place they headed to was a corner with private brand[r]
-underwear and menstrual products.[pcms]
+二人が向かった先は、プライベートブランドの下着や[r]
+生理用品のあるコーナーだ。[pcms]
 
 *187|
 [fc]
-I guess that's definitely something they'd want to do[r]
-separately...[pcms]
+それは確かに別行動したいよな……。[pcms]
 
 *188|
 [fc]
-Noticing my gaze, Yuuho turned around with incredible speed.[pcms]
+ボクの視線に気付いたのか、[r]
+悠帆がすごい勢いで振り返った。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b13"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *189|
 [fc]
 [vo_yuh s="yuho1461"]
-[ns]Yuuho[nse]
-"...Don't follow us, okay?"[pcms]
+[ns]悠帆[nse]
+「……ついて来ないでよ？」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *189a|
 [fc]
-[ns]Wataru[nse]
-"Yes. As you wish."[pcms]
+[ns]航[nse]
+「ハイ。オオセノママニ」[pcms]
 
 *190|
 [fc]
-I'm always impressed, but she really has an incredible[r]
-intuition...[pcms]
+いつも感心するけど、ホント恐ろしい勘の持ち主だ……。[pcms]
 
 *191|
 [fc]
-[ns]Wataru[nse]
-"Well, that aside..."[pcms]
+[ns]航[nse]
+「ま、それはそれとして……」[pcms]
 
 *192|
 [fc]
-I held shopping baskets in both hands and began to search[r]
-through the shelves.[pcms]
+ボクは両手に買い物カゴを持ち、陳列棚を物色しはじめた。[pcms]
 
 *193|
 [fc]
-First, I packed as much as I could of the essentials like[r]
-Ren's UV cut cream, contact lens solution, and eye drops[r]
-into the basket.[pcms]
+まずは必需品の、漣のＵＶカットクリームやコンタクト洗浄液、[r]
+それに目薬なんかを、カゴに入るだけ詰め込んでいく。[pcms]
 
 *194|
 [fc]
-In the other basket, I threw in anything that seemed useful[r]
-that caught my eye, like wet wipes and painkillers.[pcms]
+もうひとつのカゴには、目に付いた役立ちそうなモノ……、[r]
+ウェットティッシュとか、痛み止めとかを端から放り込んだ。[pcms]
 
 *195|
 [fc]
-Shopping (?) without any budget or restrictions gave me a[r]
-strange sense of excitement... Even in this situation, I[r]
-couldn't help feeling a bit elated.[pcms]
+予算も何も制限ナシで買い物（？）をしていると[r]
+妙な高揚感があって……。[r]
+こんな場合だっていうのに、何だか浮き浮きしてしまう。[pcms]
 
 *196|
 [fc]
-The baskets were full in no time.[pcms]
+あっという間にカゴがいっぱいになってしまった。[pcms]
 
 *197|
 [fc]
-[ns]Wataru[nse]
-"I wonder how they're doing..."[pcms]
+[ns]航[nse]
+「あっちはどうかな……」[pcms]
 
 *198|
 [fc]
-When I looked up to check on them, Ren and Yuuho were[r]
-picking out cosmetics. It seemed like they would take more[r]
-time...[pcms]
+ふと目を上げて様子を見ると、[r]
+漣と悠帆は化粧品をあれこれと物色している。[r]
+まだまだ時間かかりそうだ……。[pcms]
 
 *199|
 [fc]
-I decided to leave the store first, passing by the register[r]
-with the baskets still in hand.[pcms]
+ボクは先に店を出ようと、[r]
+カゴを持ったままレジを素通りした。[pcms]
 
 *200|
 [fc]
-I also piled up some special sale snacks that were left at[r]
-the storefront into the basket as an afterthought.[pcms]
+店頭に残っていた特売のお菓子なんかも、[r]
+ついでとばかりに、カゴに積み上げる。[pcms]
 
 ;//〆背景：センターストリート
 ;//@konya 背景変わっていません
 
 *201|
 [fc]
-As I stepped outside, I heard voices from afar.[pcms]
+外に出ると、遠くの方から声が聞こえた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *202|
 [fc]
 [vo_mar s="maru1304"]
-[ns]Margarita[nse]
-"Is anyone there~! Is there anyone~!?"[pcms]
+[ns]マルガリータ[nse]
+「誰か～！　誰かいませんか～！？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *203|
 [fc]
-[ns]Kousuke[nse]
-"Hey~! If anyone can hear me, please respond~!"[pcms]
+[ns]浩助[nse]
+「おーいっ、誰か、聞こえたら返事してくれー！」[pcms]
 
 *204|
 [fc]
-I wonder where Senpai and Kousuke are walking. They seem to[r]
-be within earshot at least.[pcms]
+先輩とコースケは、どのあたりを歩いているんだろう。[r]
+少なくとも声が届く範囲にはいるみたいだけど。[pcms]
 
 *205|
 [fc]
-I waited for Yuuho and the others to come out while[r]
-absentmindedly looking up at the sky.[pcms]
+ボクは悠帆たちが出てくるのを待ちながら、[r]
+なんとなく空を見上げた。[pcms]
 
 ;//〆背景：空
 [bg storage="BGS008a"][trans_c cross time=500]
@@ -269,61 +269,58 @@ absentmindedly looking up at the sky.[pcms]
 
 *206|
 [fc]
-The sky was clear and blue...[pcms]
+晴れ渡った青空……。[pcms]
 
 *207|
 [fc]
-A few planes were flying across the sky, trailing clouds[r]
-behind them.[pcms]
+雲を引いて数機の飛行機が飛んでいる。[pcms]
 
 *208|
 [fc]
-[ns]Wataru[nse]
-"...Are those... fighter jets?"[pcms]
+[ns]航[nse]
+「……あれは……戦闘機？」[pcms]
 
 *209|
 [fc]
-They weren't Self-Defense Force planes but American military[r]
-aircraft. The formation flew from in front of me over my[r]
-head and disappeared into the distance.[pcms]
+自衛隊機じゃなくて、米軍機だ。[r]
+編隊は、ボクの正面方向から頭上を越えて飛び去っていく。[pcms]
 
 *210|
 [fc]
-This area isn't usually on any flight routes. Maybe they're[r]
-heading from the ocean to some base... Or could it be a[r]
-reconnaissance mission?[pcms]
+この辺は通常ならもちろん、飛行ルートには入ってないはず。[r]
+洋上からどこかの基地に向かってるんだろうか……。[r]
+それとも偵察任務だろうか？[pcms]
 
 *211|
 [fc]
-But at least it's been a while since I've seen evidence that[r]
-living humans are still active...[pcms]
+だけど、少なくとも生きている人間が活動している証を、[r]
+久しぶりに見たことになる……。[pcms]
 
 *212|
 [fc]
-The outside world is still functioning... maybe. If we wait[r]
-a little longer, will the situation be resolved and help[r]
-arrive... maybe.[pcms]
+まだ外界は機能している……のかな。[r]
+少し待っていれば、事態が収拾されて救助が来る……のかな。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *213|
 [fc]
 [vo_mar s="maru1305"]
-[ns]Margarita[nse]
-"Hello~! Is there somebody~!?"[pcms]
+[ns]マルガリータ[nse]
+「へろ～！　Is there somebody～！？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *214|
 [fc]
-[ns]Kousuke[nse]
-"Is nobody there? Hey! Yoo-hoo!?"[pcms]
+[ns]浩助[nse]
+「誰もいないのかー？　おーい！　やっほー！？」[pcms]
 
 *215|
 [fc]
-As I was idly thinking about such things, the voices of[r]
-Senpai and Kousuke calling out continued to echo in the[r]
-distance through the streets lined with buildings.[pcms]
+そんなことをぼんやり考えている間にも、[r]
+遠くで呼びかけを続ける、先輩とコースケの声が[r]
+ビル街に反響していた。[pcms]
 
 ;//〆背景：センターストリート
 [bg storage="BG05d"][trans_c cross time=500]
@@ -334,117 +331,114 @@ distance through the streets lined with buildings.[pcms]
 *216|
 [fc]
 [vo_yuh s="yuho1462"]
-[ns]Yuuho[nse]
-"Sorry to keep you waiting~!"[pcms]
+[ns]悠帆[nse]
+「お待たせ～っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *217|
 [fc]
 [vo_ren s="ren1317"]
-[ns]Ren[nse]
-"Sorry, Onii-chan, for being late."[pcms]
+[ns]漣[nse]
+「ごめんね、お兄ちゃん、遅くなって」[pcms]
 
 *218|
 [fc]
-Finally, Yuuho and Ren came out of the store.[pcms]
+ようやく悠帆と漣が、店から出てきた。[pcms]
 
 *219|
 [fc]
-[ns]Wataru[nse]
-"Wow, that's amazing..."[pcms]
+[ns]航[nse]
+「すごいね……それ」[pcms]
 
 *220|
 [fc]
-Yuuho had baskets full of goods in both hands, and on top of[r]
-that, she was carrying bundles of toilet paper (the[r]
-economical 12-roll pack) bound together with tape.[pcms]
+悠帆は、両手に商品満載のカゴを持った上に、[r]
+トイレットペーパーの束（しかもお徳用１２ロール入り）を[r]
+セロテープでいくつも縛り上げて、持ち出していた。[pcms]
 
 *221|
 [fc]
-As for Ren, she had less because she was carrying a violin[r]
-case, but like Yuuho, she was also holding bundles of[r]
-tissues and baskets.[pcms]
+漣はといえば、バイオリンケースがある分、[r]
+悠帆よりは少ないものの、[r]
+ティッシュの束だのカゴだのを同じように抱え込んでいる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *222|
 [fc]
 [vo_yuh s="yuho1463"]
-[ns]Yuuho[nse]
-"Ahahaha. Maybe I bought a little too much~. Oh, but I[r]
-didn't pay for it..."[pcms]
+[ns]悠帆[nse]
+「あはははー。ちょっと買いすぎちゃったかな～。[r]
+　あ、お金は払ってないけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *223|
 [fc]
 [vo_ren s="ren1318"]
-[ns]Ren[nse]
-"At first, I thought we'd just get what we needed, but as we[r]
-looked around, it seemed like we might need everything..."[pcms]
+[ns]漣[nse]
+「最初は必要なものだけにしようって思ったんだけど[r]
+　いろいろ見てるうちに[r]
+　全部いるんじゃないかって思っちゃって……」[pcms]
 
 *224|
 [fc]
-[ns]Wataru[nse]
-"Well, it's an emergency situation, so it can't be helped."[pcms]
+[ns]航[nse]
+「まあ、緊急時だから仕方ないよね」[pcms]
 
 *225|
 [fc]
-The safety of the city hasn't been clearly confirmed, and it[r]
-would be difficult to come to this store many times... With[r]
-that in mind, stocking up on supplies all at once is the[r]
-right decision.[pcms]
+街が安全かどうかはっきり確認されたわけじゃないし、[r]
+何度もこの店まで足を運ぶのも大変だし……。[r]
+そう考えれば、一度に物資を仕入れておくのは正解なわけで。[pcms]
 
 *226|
 [fc]
-[ns]Wataru[nse]
-"Shall we head back... Hm?"[pcms]
+[ns]航[nse]
+「じゃ、戻ろうか…………ん？」[pcms]
 
 *227|
 [fc]
-As I casually looked around, something like a shadow caught[r]
-my eye.[pcms]
+何気なく周囲を見回したボクの視界に、[r]
+影のようなものが映りこんだ。[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]
 
 *228|
 [fc]
-I froze in an instant when I turned my eyes towards where[r]
-the shadow was.[pcms]
+影のあった辺りに目をやったボクは、一瞬で硬直する。[pcms]
 
 ;//〆ＥＶ００１
 [evcg storage="EV001d"][trans_c cross time=300]
 
 *229|
 [fc]
-[ns]Wataru[nse]
-"Is that...?"[pcms]
+[ns]航[nse]
+「あ、あれは……？」[pcms]
 
 *230|
 [fc]
-There stood a girl in a bondage-like outfit swaying[r]
-gently... That was... the "girl with red eyes" we met[r]
-before.[pcms]
+ボンデージっぽい衣装でゆらりと立っている、あの子……、[r]
+あれは……前に会った、あの「赤い眼の少女」だ。[pcms]
 
 *231|
 [fc]
-What on earth is she doing here...?[pcms]
+一体こんなところで何を……？[pcms]
 
 ;//bgm04:cage
 [bgm storage="BGM04"]
 
 *232|
 [fc]
-[ns]Infected Man C[nse]
-"...Uuu...grrrrr..."[pcms]
+[ns]感染者・男Ｃ[nse]
+「…………うぅぅ……ぐるるる……」[pcms]
 ;//＠？？？で表記
 
 *233|
 [fc]
-At that moment, strange groaning sounds began to be heard[r]
-from around us.[pcms]
+その時、周囲から妙な唸り声が聞こえ始めた。[pcms]
 
 ;//〆背景：センターストリート
 [bg storage="BG05a"][trans_c cross time=500]
@@ -455,131 +449,127 @@ from around us.[pcms]
 *234|
 [fc]
 [vo_mob s="kan0001"]
-[ns]Infected Woman C[nse]
-"A man! I smell a man!"[pcms]
+[ns]感染者・女Ｃ[nse]
+「男よ！　男の臭いがする！」[pcms]
 ;//＠　感染者たち
 
 [ChrSetEx layer=3 chbase="etc_a"][ChrSetXY layer=3 x=-9 y=0][trans_c cross time=150]
 
 *235|
 [fc]
-[ns]Infected Man C[nse]
-"Grrraaahh! Oooh! Give me... flesh... let me eat it[r]
-aaaaahhh!"[pcms]
+[ns]感染者・男Ｃ[nse]
+「ぐおおおお、おぉぉっ！[r]
+　に、肉……く、喰わせろおぉぉぉぉ！」[pcms]
 ;//＠感染者たち
 
 *236|
 [fc]
-[ns]Wataru[nse]
-"This is bad! They're here! From where!?"[pcms]
+[ns]航[nse]
+「ま、まずい！　ヤツラだ！　どこから！？」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *237|
 [fc]
-The voices quickly grew louder.[pcms]
+声はあっという間に大きくなってくる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *238|
 [fc]
-[ns]Kousuke[nse]
-"Wataru!"[pcms]
+[ns]浩助[nse]
+「ワタル！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *239|
 [fc]
 [vo_mar s="maru1306"]
-[ns]Margarita[nse]
-"Run!!"[pcms]
+[ns]マルガリータ[nse]
+「逃げろ！！」[pcms]
 
 *240|
 [fc]
-From the street leading to the station front, I could see[r]
-Senpai Maruko and Kousuke running back with a rolling[r]
-momentum. Behind them surged a horde of infected![pcms]
+駅前に通じる通りから、マル子先輩とコースケが[r]
+転がるような勢いで駆け戻ってくるのが見える。[r]
+その二人の背後に押し寄せてくるのは、感染者の群れだ！[pcms]
 
 *241|
 [fc]
-We all started running towards the depot at once.[pcms]
+ボクらは一斉に、ででっぽうに向かって駆け出した。[pcms]
 
 *242|
 [fc]
-Suddenly catching up, Senpai and Kousuke rushed towards[r]
-Yuuho and Ren.[pcms]
+すぐに追いついてきた先輩とコースケが、[r]
+悠帆と漣に駆け寄っていく。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *243|
 [fc]
-[ns]Kousuke[nse]
-"Hand over those baskets!"[pcms]
+[ns]浩助[nse]
+「そのカゴ、寄こしなっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *244|
 [fc]
 [vo_yuh s="yuho1464"]
-[ns]Yuuho[nse]
-"Thank you!"[pcms]
+[ns]悠帆[nse]
+「あ、ありがと！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *245|
 [fc]
-The depot was only a short distance away. Yet that distance[r]
-felt impossibly far.[pcms]
+ででっぽうまでは、ほんの少し。[r]
+なのにその距離が途方もなく遠く感じられる。[pcms]
 
 *246|
 [fc]
-We must hurry, move our arms and legs faster, faster[r]
-forward...[pcms]
+急がなくちゃ、手足をもっと早く、早く前に……。[pcms]
 
 *247|
 [fc]
-A particularly loud groan echoed in my ears as I struggled[r]
-to run.[pcms]
+もがくように走るボクの耳に、一際大きな唸り声が響く。[pcms]
 
 *248|
 [fc]
-[ns]Wataru[nse]
-"Ugh, whoa...!?"[pcms]
+[ns]航[nse]
+「う、うわっ……！？」[pcms]
 
 *249|
 [fc]
-I instinctively looked back to see a large swarm of infected[r]
-coming from the direction of the station, swarming towards[r]
-us.[pcms]
+思わず振り返ると、駅の方向から感染者の大群が[r]
+わらわらと押し寄せてくるのが見えた。[pcms]
 
 *250|
 [fc]
-Not only that, but new infected were continuously emerging[r]
-from inside the surrounding buildings and from blind spots[r]
-in the streets.[pcms]
+それだけじゃなく、周囲の建物の中や通りの死角からも[r]
+新たな感染者が続々と湧いて出てくる。[pcms]
 
 *251|
 [fc]
-[ns]Wataru[nse]
-"There are so many... were there this many...?"[pcms]
+[ns]航[nse]
+「こ、こんなに……いたのか……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *252|
 [fc]
 [vo_mar s="maru1307"]
-[ns]Margarita[nse]
-"Wataru, don't fall behind!"[pcms]
+[ns]マルガリータ[nse]
+「ワタル、遅れるなっ！」[pcms]
 
 *253|
 [fc]
-[ns]Wataru[nse]
-"Yes!"[pcms]
+[ns]航[nse]
+「は、はいっ！」[pcms]
 
 *254|
 [fc]
-We plunged into the half-open shutter of the depot as if[r]
-diving in with our bodies.[pcms]
+ボクらは、ででっぽうの半開きのシャッターに[r]
+身体ごと飛び込むようにして逃げ込んだ。[pcms]
 
 ;//@konya ででっぽうキッチン
 [bg storage="BG022"][trans_c cross time=500]
@@ -590,64 +580,64 @@ diving in with our bodies.[pcms]
 *255|
 [fc]
 [vo_yuh s="yuho1465"]
-[ns]Yuuho[nse]
-"We made it~!"[pcms]
+[ns]悠帆[nse]
+「ま、間に合った～っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *256|
 [fc]
 [vo_mar s="maru1308"]
-[ns]Margarita[nse]
-"Hurry up! Don't forget the shutter!"[pcms]
+[ns]マルガリータ[nse]
+「急げっ！　シャッターを忘れるな！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *257|
 [fc]
-[ns]Kousuke[nse]
-"Here goes!"[pcms]
+[ns]浩助[nse]
+「そらよっ！」[pcms]
 
 *258|
 [fc]
-The moment I ran inside, Kousuke who was waiting slammed[r]
-down the shutter. He locked the shutter, closed the glass[r]
-door, and locked it as well.[pcms]
+最後にボクが駆け込んだ瞬間、[r]
+待ち構えていたコースケがシャッターを叩き下ろした。[r]
+シャッターをロックし、ガラスドアを閉め、鍵もかける。[pcms]
 
 *259|
 [fc]
-...Safe, for now.[pcms]
+…………セーフ、だ。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *260|
 [fc]
 [vo_ren s="ren1319"]
-[ns]Ren[nse]
-"Haah, haah...haah..."[pcms]
+[ns]漣[nse]
+「はぁ、はぁ……はぁ……」[pcms]
 
 *261|
 [fc]
-Ren staggered and leaned against me. She had turned pale[r]
-from suddenly running.[pcms]
+ふらっと漣がボクにもたれかかってきた。[r]
+急に走ったせいで青褪めてしまっている。[pcms]
 
 *262|
 [fc]
-[ns]Wataru[nse]
-"Are you okay, Ren?"[pcms]
+[ns]航[nse]
+「大丈夫か、漣？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *263|
 [fc]
 [vo_ren s="ren1320"]
-[ns]Ren[nse]
-"Yeah..."[pcms]
+[ns]漣[nse]
+「うん……」[pcms]
 
 *264|
 [fc]
-While placing her hand on her chest and catching her breath,[r]
-Ren nodded slightly.[pcms]
+胸に手をあてて荒い息をつきながら、[r]
+漣はコクンとうなずいた。[pcms]
 
 ;//se043・金属の板を叩く音
 [se buf=0 storage="se043"]
@@ -658,8 +648,8 @@ Ren nodded slightly.[pcms]
 
 *265|
 [fc]
-And then... before long, the sound of something hitting the[r]
-shutter began to echo inside the store...[pcms]
+そして……。[r]
+程なくして、シャッターを叩く音が店の中に響き出した……。[pcms]
 
 [eval exp="f.l_ren_point = f.l_ren_point + 1"]
 

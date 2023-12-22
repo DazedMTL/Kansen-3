@@ -17,55 +17,55 @@
 
 *1|
 [fc]
-[ns]Wataru[nse]
-"Nn... What's this, already?"[pcms]
+[ns]航[nse]
+「んっ……なんだよ、もう」[pcms]
 
 *2|
 [fc]
-I was awakened by a dazzling light pulling me back from the[r]
-world of sleep, and lazily reached out from my bed to try[r]
-and draw the curtains.[pcms]
+ボクは眠りの世界から引き戻す眩しい光に起こされて、[r]
+不精にもベッドの中から手を伸ばしてカーテンを引こうとした。[pcms]
 
 *3|
 [fc]
-The early summer sunlight was already shining into my room,[r]
-but it still had to be quite early.[pcms]
+夏の早い日差しはもうボクの部屋の中にまで差し込んで[r]
+くるほど高かったけれど、まだ相当早い時間のはずだ。[pcms]
 
 *4|
 [fc]
-It's too early to be waking up during summer vacation.[pcms]
+夏休みなのに、こんな時間に起きるのは早すぎる。[pcms]
 
 *5|
 [fc]
-[ns]Wataru[nse]
-"Seriously, I should've drawn the curtains before sleeping."[pcms]
+[ns]航[nse]
+「ったく、ちゃんとカーテンは引いて寝ようぜ」[pcms]
 
 *6|
 [fc]
-Last night, I scolded myself for not drawing the curtains[r]
-before going to bed, but lying in bed, I could touch the[r]
-curtains but couldn't manage to draw them.[pcms]
+昨夜、ちゃんとカーテンを引かずに寝た自分に悪態を[r]
+ついたけれど、ベッドに寝転がったままではカーテンに[r]
+触れることはできても引くまではできなかった。[pcms]
 
 *7|
 [fc]
-Can't be helped.[pcms]
+しょうがない。[pcms]
 
 *8|
 [fc]
-Forcing my body that still craved sleep to move, I sat up in[r]
-bed and absentmindedly looked around my room.[pcms]
+まだ眠りを求める体を無理やり動かしてベッドに[r]
+起き上がりながら、ボクはぼんやりと[r]
+自分の部屋を見回した。[pcms]
 
 *9|
 [fc]
-My room looked no different than usual.[pcms]
+普段と何の変わりもない自分の部屋。[pcms]
 
 *10|
 [fc]
-My groggy head wasn't functioning well.[pcms]
+ぼんやりとした頭が上手く機能していない。[pcms]
 
 *11|
 [fc]
-It feels like there's no sense of reality at all.[pcms]
+なんか全然現実感がない感じ。[pcms]
 
 ;//---------------------------------------------------------------
 ;//条件分岐
@@ -82,12 +82,12 @@ It feels like there's no sense of reality at all.[pcms]
 
 *12|
 [fc]
-If we're talking about a lack of reality, I had SEX with[r]
-Inori-san yesterday.[pcms]
+現実感がないって言えば、昨日は緒織さんと[r]
+ＳＥＸしたんだよな。[pcms]
 
 *13|
 [fc]
-That feels even more unreal...[pcms]
+こっちのほうがよっぽど現実感ないけど……。[pcms]
 
 ;//〆・このテキストが終わるとラベル「sexしていない」へjump
 [jump storage="20001.ks" target=*20001_02]
@@ -98,44 +98,43 @@ That feels even more unreal...[pcms]
 
 *14|
 [fc]
-My bleary eyes once again scanned my unremarkable room...[pcms]
+ふわふわとした目が再び変わり映えのしない自分の[r]
+部屋を見回して……。[pcms]
 
 *15|
 [fc]
-My gaze caught the luggage prepared in the corner of my[r]
-room.[pcms]
+ボクの目は部屋の隅に用意された荷物を捉えた。[pcms]
 
 *16|
 [fc]
-[ns]Wataru[nse]
-"That's right! Today's the day for camping!! And, I haven't[r]
-even packed the stuff I bought yet."[pcms]
+[ns]航[nse]
+「そうだっ！　今日はキャンプじゃないかっ！！　って、[r]
+　買い物してきた荷物、まだ詰め込んでないっ」[pcms]
 
 *17|
 [fc]
-Suddenly wide awake, I frantically peered at the alarm clock[r]
-that usually wakes me up.[pcms]
+一気に目覚めたボクはあたふたといつもはボクを[r]
+起こしてくれる目覚まし時計を覗き込んだ。[pcms]
 
 *18|
 [fc]
-Luckily, there's still about two hours left until the[r]
-meeting time.[pcms]
+幸いまだ集合時間には２時間ほど余裕がある。[pcms]
 
 *19|
 [fc]
-But if I had properly closed the curtains and slept, I[r]
-wouldn't have been woken up by the morning sun...[pcms]
+でもカーテンをしっかり閉めて寝ていたら、[r]
+朝日に起こされることもなくて……。[pcms]
 
 *20|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaah, good job to me from last night for forgetting to[r]
-draw the curtains!"[pcms]
+[ns]航[nse]
+「うわぁああっ、カーテン引き忘れた昨日のボク、[r]
+　グッジョブッ！」[pcms]
 
 *21|
 [fc]
-Completely forgetting the scolding from earlier, I praised[r]
-my last night's self.[pcms]
+さっき悪態をついたのもすっかり忘れて、[r]
+昨夜の自分にボクはほめ言葉を送った。[pcms]
 
 ;//jump：20010
 [jump storage="20010.ks" target=*20010_TOP]

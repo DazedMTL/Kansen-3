@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）朝
+;//・時間：５日目（８月１９日）朝～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：8k前後
@@ -21,35 +21,33 @@
 
 *3531|
 [fc]
-The front was sunny again today. Even though it's still[r]
-morning, the sunlight is already strong.[pcms]
+表は今日も晴天だった。[r]
+まだ午前中だっていうのに、既に日差しがきつい。[pcms]
 
 *3532|
 [fc]
-But the wind passing between the buildings feels cooler than[r]
-usual... Maybe it's because there are fewer buildings[r]
-running coolers.[pcms]
+だけどビルの間を渡る風は、いつもより涼しく感じられる……。[r]
+クーラーなんかを動かしてるビルが少ないから、かな。[pcms]
 
 *3533|
 [fc]
-The stench of death still lingers, but judging by the number[r]
-of corpses, it doesn't seem too severe.[pcms]
+死臭は相変わらず漂っていたけれど、[r]
+死体の数からすると、たいしたことがない気がする。[pcms]
 
 *3534|
 [fc]
-Most of the remains have been eaten by infected humans or[r]
-animals, leaving only bones, which might be why...[pcms]
+亡骸のほとんどが、感染したヒトや動物に肉を食われて、[r]
+骨だけになっているからなのかもしれない……。[pcms]
 
 *3535|
 [fc]
-The voices of the infected are hardly heard. Maybe they've[r]
-moved to the suburbs as the news said.[pcms]
+感染者たちの声は、ほとんど聞こえてこない。[r]
+ニュースで言ってたように郊外に移動したんだろうか。[pcms]
 
 *3536|
 [fc]
-In a city where the presence of living creatures has[r]
-decreased even more than yesterday, only the lively music of[r]
-the public broadcast flows...[pcms]
+昨日より更に生き物の気配が減った街に、[r]
+賑やかな有線放送の音楽だけが、流れている……。[pcms]
 
 ;//;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -85,159 +83,156 @@ the public broadcast flows...[pcms]
 
 *3537|
 [fc]
-We went out into the valleys between buildings for a supply[r]
-operation.[pcms]
+ボクたちは物資の補給作戦のため、ビルの谷間に出た。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3538|
 [fc]
 [vo_mar s="maru1684"]
-[ns]Margarita[nse]
-"...Make sure to pay close attention to your surroundings,[r]
-and retreat quickly if the situation changes."[pcms]
+[ns]マルガリータ[nse]
+「……くれぐれも周囲の状況には充分に注意を払い、[r]
+　状況が変化した時はすばやく撤退だ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3539|
 [fc]
 [vo_mar s="maru1685"]
-[ns]Margarita[nse]
-"Let's begin. Everyone, please check your assigned[r]
-buildings."[pcms]
+[ns]マルガリータ[nse]
+「では始めよう。各自、担当ビルを回ってくれ」[pcms]
 
 *3540|
 [fc]
-As usual, Maruko-senpai gave us instructions, and then we[r]
-started our action.[pcms]
+いつものようにマル子先輩がボクらに訓示をたれて、[r]
+それから行動開始となった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3541|
 [fc]
-[ns]Kousuke[nse]
-"Alright! Where should we start from~?"[pcms]
+[ns]浩助[nse]
+「おっしゃ！　どっから行く～？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3542|
 [fc]
 [vo_yuh s="yuho1640"]
-[ns]Yuuho[nse]
-"Okay, this time I'm going to look for some fancy food~"[pcms]
+[ns]悠帆[nse]
+「よーし、この際だから、高そうな食材、探しちゃうぞ～っ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3543|
 [fc]
 [vo_miz s="mizuki0329"]
-[ns]Mizuki[nse]
-"We should gather things like canned goods and preserved[r]
-food that seem to last longer, right?"[pcms]
+[ns]瑞樹[nse]
+「なるべく長持ちしそうな、[r]
+　缶詰とか保存食とか、集めたほうがいいよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3544|
 [fc]
 [vo_miz s="mizuki0330"]
-[ns]Mizuki[nse]
-"And let the boys carry the heavy stuff..."[pcms]
+[ns]瑞樹[nse]
+「重そうなものは、男子に運ばせるとして……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3545|
 [fc]
-[ns]Kousuke[nse]
-"That's harsh!"[pcms]
+[ns]浩助[nse]
+「ひでーっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3546|
 [fc]
-We move around the buildings through the valleys, carrying[r]
-out food, medicine, clothing, and such.[pcms]
+口々に騒ぎながら谷間伝いにビルを回り、[r]
+食料品、医薬品、衣料品などといったものを運び出す。[pcms]
 
 *3547|
 [fc]
-The most important thing is securing food and drinks, so we[r]
-peek inside restaurants mainly, selecting things that seem[r]
-preservable.[pcms]
+中でも一番重要なのは食料や飲料の確保だということで、[r]
+飲食店を中心に店の中を覗いては、[r]
+保存のききそうなものを選んでいく。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3548|
 [fc]
 [vo_yuh s="yuho1641"]
-[ns]Yuuho[nse]
-"Hmm. What's inside this jar? I can't understand the label[r]
-at all, is it Russian?"[pcms]
+[ns]悠帆[nse]
+「んー。この瓶詰め、中身なんだろー？[r]
+　ラベル、さっぱり分かんないんだよね、ロシア語かなー？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3549|
 [fc]
 [vo_mar s="maru1686"]
-[ns]Margarita[nse]
-"...It would be wise to avoid seafood. We must not risk[r]
-poisoning..."[pcms]
+[ns]マルガリータ[nse]
+「……海鮮類はやめておくのが賢明だろうな。[r]
+　万が一にも中毒を出してはならない……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3550|
 [fc]
 [vo_yuh s="yuho1642"]
-[ns]Yuuho[nse]
-"I'll also take candies and chocolates. They say it's good[r]
-to eat them in case of an emergency, right?"[pcms]
+[ns]悠帆[nse]
+「キャンディとかチョコレートも持ってこうっと。[r]
+　遭難した時、食べるといいっていうよね？」[pcms]
 
 *3551|
 [fc]
-We found rice and large commercial retort foods, but[r]
-ingredients from beef bowl restaurants and meals from coffee[r]
-shops were frozen items.[pcms]
+米とか、業務用の大型のレトルト食品とかも見つかったけど[r]
+牛丼屋の具材とか、喫茶店の食事なんかは冷凍物だった。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3552|
 [fc]
 [vo_miz s="mizuki0331"]
-[ns]Mizuki[nse]
-"Hey, Kousuke, should we take the frozen stuff too? We can[r]
-keep it in the freezer while we have electricity."[pcms]
+[ns]瑞樹[nse]
+「ねぇ、コースケ、冷凍モノも、いちおう持ってく？[r]
+　電気が来てる間は、冷凍庫にいれとけるから」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3553|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, we just need to eat them first."[pcms]
+[ns]浩助[nse]
+「そうだな、なるべく先に食べるよーにすりゃいいしな」[pcms]
 
 *3554|
 [fc]
-[ns]Wataru[nse]
-"It's almost like we're a newlywed couple at a supermarket."[pcms]
+[ns]航[nse]
+「なんか、ほとんどスーパーの新婚夫婦だね」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3555|
 [fc]
 [vo_miz s="mizuki0332"]
-[ns]Mizuki[nse]
-"Oh stop it, Wataru! Cut it out!"[pcms]
+[ns]瑞樹[nse]
+「やだもう、ワタル！　よしてよー！」[pcms]
 ;//＠笑いながら
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3556|
 [fc]
-[ns]Kousuke[nse]
-"Don't be jealous of other people's happiness!"[pcms]
+[ns]浩助[nse]
+「ヒトの幸せ、うらやんでんじゃねーよっ！」[pcms]
 
 *3557|
 [fc]
-Meat and vegetables could also be frozen, so the amount of[r]
-cargo we had to carry kept increasing.[pcms]
+肉や野菜なんかも、冷凍すればいいだろうということになり、[r]
+運ぶ荷物はどんどん増えていく一方だった。[pcms]
 
 ;//ジャンプ
 [jump storage="50580.ks" target=*50580_05]
@@ -254,133 +249,130 @@ cargo we had to carry kept increasing.[pcms]
 
 *3558|
 [fc]
-We went out into the valleys between buildings for a supply[r]
-operation.[pcms]
+ボクたちは物資の補給作戦のため、ビルの谷間に出た。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3559|
 [fc]
 [vo_mar s="maru1684"]
-[ns]Margarita[nse]
-"...Make sure to pay close attention to your surroundings,[r]
-and retreat quickly if the situation changes."[pcms]
+[ns]マルガリータ[nse]
+「……くれぐれも周囲の状況には充分に注意を払い、[r]
+　状況が変化した時はすばやく撤退だ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3560|
 [fc]
 [vo_mar s="maru1685"]
-[ns]Margarita[nse]
-"Let's begin. Everyone, please check your assigned[r]
-buildings."[pcms]
+[ns]マルガリータ[nse]
+「では始めよう。各自、担当ビルを回ってくれ」[pcms]
 
 *3561|
 [fc]
-As usual, Maruko-senpai gave us instructions, and then we[r]
-started our action.[pcms]
+いつものようにマル子先輩がボクらに訓示をたれて、[r]
+それから行動開始となった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3562|
 [fc]
-[ns]Kousuke[nse]
-"Alright! Where should we start from~?"[pcms]
+[ns]浩助[nse]
+「おっしゃ！　どっから行く～？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3563|
 [fc]
 [vo_miz s="mizuki0329"]
-[ns]Mizuki[nse]
-"We should gather things like canned goods and preserved[r]
-food that seem to last longer, right?"[pcms]
+[ns]瑞樹[nse]
+「なるべく長持ちしそうな、[r]
+　缶詰とか保存食とか、集めたほうがいいよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3564|
 [fc]
 [vo_miz s="mizuki0330"]
-[ns]Mizuki[nse]
-"And let the boys carry the heavy stuff..."[pcms]
+[ns]瑞樹[nse]
+「重そうなものは、男子に運ばせるとして……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3565|
 [fc]
-[ns]Kousuke[nse]
-"That's harsh!"[pcms]
+[ns]浩助[nse]
+「ひでーっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3566|
 [fc]
-We move around the buildings through the valleys, carrying[r]
-out food, medicine, clothing, and such.[pcms]
+口々に騒ぎながら谷間伝いにビルを回り、[r]
+食料品、医薬品、衣料品などといったものを運び出す。[pcms]
 
 *3567|
 [fc]
-The most important thing is securing food and drinks, so we[r]
-peek inside restaurants mainly, selecting things that seem[r]
-preservable.[pcms]
+中でも一番重要なのは食料や飲料の確保だということで、[r]
+飲食店を中心に店の中を覗いては、[r]
+保存のききそうなものを選んでいく。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3568|
 [fc]
 [vo_mar s="maru1686"]
-[ns]Margarita[nse]
-"...It would be wise to avoid seafood. We must not risk[r]
-poisoning..."[pcms]
+[ns]マルガリータ[nse]
+「……海鮮類はやめておくのが賢明だろうな。[r]
+　万が一にも中毒を出してはならない……」[pcms]
 
 *3569|
 [fc]
-We found rice and large commercial retort foods, but[r]
-ingredients from beef bowl restaurants and meals from coffee[r]
-shops were frozen items.[pcms]
+米とか、業務用の大型のレトルト食品とかも見つかったけど[r]
+牛丼屋の具材とか、喫茶店の食事なんかは冷凍物だった。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3570|
 [fc]
 [vo_miz s="mizuki0331"]
-[ns]Mizuki[nse]
-"Hey, Kousuke, should we take the frozen stuff too? We can[r]
-keep it in the freezer while we have electricity."[pcms]
+[ns]瑞樹[nse]
+「ねぇ、コースケ、冷凍モノも、いちおう持ってく？[r]
+　電気が来てる間は、冷凍庫にいれとけるから」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3571|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, we just need to eat them first."[pcms]
+[ns]浩助[nse]
+「そうだな、なるべく先に食べるよーにすりゃいいしな」[pcms]
 
 *3572|
 [fc]
-[ns]Wataru[nse]
-"It's almost like we're a newlywed couple at a supermarket."[pcms]
+[ns]航[nse]
+「なんか、ほとんどスーパーの新婚夫婦だね」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3573|
 [fc]
 [vo_miz s="mizuki0332"]
-[ns]Mizuki[nse]
-"Oh stop it, Wataru! Cut it out!"[pcms]
+[ns]瑞樹[nse]
+「やだもう、ワタル！　よしてよー！」[pcms]
 ;//＠笑いながら
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3574|
 [fc]
-[ns]Kousuke[nse]
-"Don't be jealous of other people's happiness!"[pcms]
+[ns]浩助[nse]
+「ヒトの幸せ、うらやんでんじゃねーよっ！」[pcms]
 
 *3575|
 [fc]
-Meat and vegetables could also be frozen, so the amount of[r]
-cargo we had to carry kept increasing.[pcms]
+肉や野菜なんかも、冷凍すればいいだろうということになり、[r]
+運ぶ荷物はどんどん増えていく一方だった。[pcms]
 
 ;//ジャンプ
 [jump storage="50580.ks" target=*50580_05]
@@ -397,133 +389,130 @@ cargo we had to carry kept increasing.[pcms]
 
 *3576|
 [fc]
-We went out into the valleys between buildings for a supply[r]
-operation.[pcms]
+ボクたちは物資の補給作戦のため、ビルの谷間に出た。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3577|
 [fc]
 [vo_mar s="maru1684"]
-[ns]Margarita[nse]
-"...Make sure to pay close attention to your surroundings,[r]
-and retreat quickly if the situation changes."[pcms]
+[ns]マルガリータ[nse]
+「……くれぐれも周囲の状況には充分に注意を払い、[r]
+　状況が変化した時はすばやく撤退だ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3578|
 [fc]
 [vo_mar s="maru1685"]
-[ns]Margarita[nse]
-"Let's begin. Everyone, please check your assigned[r]
-buildings."[pcms]
+[ns]マルガリータ[nse]
+「では始めよう。各自、担当ビルを回ってくれ」[pcms]
 
 *3579|
 [fc]
-As usual, Maruko-senpai gave us instructions, and then we[r]
-started our action.[pcms]
+いつものようにマル子先輩がボクらに訓示をたれて、[r]
+それから行動開始となった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3580|
 [fc]
-[ns]Kousuke[nse]
-"Alright! Where should we start from~?"[pcms]
+[ns]浩助[nse]
+「おっしゃ！　どっから行く～？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3581|
 [fc]
 [vo_miz s="mizuki0329"]
-[ns]Mizuki[nse]
-"We should gather canned goods and preserved food that seem[r]
-to last longer, right?"[pcms]
+[ns]瑞樹[nse]
+「なるべく長持ちしそうな、[r]
+　缶詰とか保存食とか、集めたほうがいいよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3582|
 [fc]
 [vo_miz s="mizuki0330"]
-[ns]Mizuki[nse]
-"And we can have the boys carry the heavy stuff..."[pcms]
+[ns]瑞樹[nse]
+「重そうなものは、男子に運ばせるとして……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3583|
 [fc]
-[ns]Kousuke[nse]
-"Hey!"[pcms]
+[ns]浩助[nse]
+「ひでーっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3584|
 [fc]
-While making a commotion, we went around the buildings in[r]
-the valley, carrying out food, medicine, and clothing.[pcms]
+口々に騒ぎながら谷間伝いにビルを回り、[r]
+食料品、医薬品、衣料品などといったものを運び出す。[pcms]
 
 *3585|
 [fc]
-The most important thing was securing food and drinks, so we[r]
-peeked inside restaurants, selecting items that seemed[r]
-preservable.[pcms]
+中でも一番重要なのは食料や飲料の確保だということで、[r]
+飲食店を中心に店の中を覗いては、[r]
+保存のききそうなものを選んでいく。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3586|
 [fc]
 [vo_mar s="maru1686"]
-[ns]Margarita[nse]
-"...It would be wise to avoid seafood. We can't risk food[r]
-poisoning..."[pcms]
+[ns]マルガリータ[nse]
+「……海鮮類はやめておくのが賢明だろうな。[r]
+　万が一にも中毒を出してはならない……」[pcms]
 
 *3587|
 [fc]
-We found rice and large commercial retort food, but[r]
-ingredients from beef bowl restaurants and meals from cafes[r]
-were frozen.[pcms]
+米とか、業務用の大型のレトルト食品とかも見つかったけど[r]
+牛丼屋の具材とか、喫茶店の食事なんかは冷凍物だった。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3588|
 [fc]
 [vo_miz s="mizuki0331"]
-[ns]Mizuki[nse]
-"Hey, Kousuke, should we take the frozen stuff too? We can[r]
-keep it in the freezer while we have electricity."[pcms]
+[ns]瑞樹[nse]
+「ねぇ、コースケ、冷凍モノも、いちおう持ってく？[r]
+　電気が来てる間は、冷凍庫にいれとけるから」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3589|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, we just need to eat them first."[pcms]
+[ns]浩助[nse]
+「そうだな、なるべく先に食べるよーにすりゃいいしな」[pcms]
 
 *3590|
 [fc]
-[ns]Wataru[nse]
-"It's almost like we're a newlywed couple at a supermarket."[pcms]
+[ns]航[nse]
+「なんか、ほとんどスーパーの新婚夫婦だね」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3591|
 [fc]
 [vo_miz s="mizuki0332"]
-[ns]Mizuki[nse]
-"Oh stop it, Wataru! Cut it out!"[pcms]
+[ns]瑞樹[nse]
+「やだもう、ワタル！　よしてよー！」[pcms]
 ;//＠笑いながら
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3592|
 [fc]
-[ns]Kousuke[nse]
-"Don't be jealous of other people's happiness!"[pcms]
+[ns]浩助[nse]
+「ヒトの幸せ、うらやんでんじゃねーよっ！」[pcms]
 
 *3593|
 [fc]
-Meat and vegetables could also be frozen, so the amount of[r]
-cargo we had to carry kept increasing.[pcms]
+肉や野菜なんかも、冷凍すればいいだろうということになり、[r]
+運ぶ荷物はどんどん増えていく一方だった。[pcms]
 
 ;//ジャンプ
 [jump storage="50580.ks" target=*50580_05]
@@ -540,143 +529,141 @@ cargo we had to carry kept increasing.[pcms]
 
 *3594|
 [fc]
-We went out into the valleys between buildings for a supply[r]
-operation.[pcms]
+ボクたちは物資の補給作戦のため、ビルの谷間に出た。[pcms]
 
 *3595|
 [fc]
-[ns]Wataru[nse]
-"...Let's begin. Everyone, please check your assigned[r]
-buildings."[pcms]
+[ns]航[nse]
+「……それじゃ、始めようか。[r]
+　何か変なことがあったら、すぐ逃げられるように、[r]
+　注意だけは忘れないでいこう」[pcms]
 
 *3596|
 [fc]
-Without Maruko-senpai, I felt somewhat uneasy... But I have[r]
-to do my best too.[pcms]
+マル子先輩がいないと、何となく不安だったけど……。[r]
+ボクだって頑張らないと。[pcms]
 
 *3597|
 [fc]
-We started our action.[pcms]
+ボクらは行動を開始した。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3598|
 [fc]
-[ns]Kousuke[nse]
-"Alright! Where should we start from~?"[pcms]
+[ns]浩助[nse]
+「おっしゃ！　どっから行く～？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3599|
 [fc]
 [vo_yuh s="yuho1640"]
-[ns]Yuuho[nse]
-"Alright, this time I'm going to search for some expensive[r]
-ingredients~"[pcms]
+[ns]悠帆[nse]
+「よーし、この際だから、高そうな食材、探しちゃうぞ～っ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3600|
 [fc]
 [vo_miz s="mizuki0329"]
-[ns]Mizuki[nse]
-"We should gather canned goods and preserved food that seem[r]
-to last longer, right?"[pcms]
+[ns]瑞樹[nse]
+「なるべく長持ちしそうな、[r]
+　缶詰とか保存食とか、集めたほうがいいよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3601|
 [fc]
 [vo_miz s="mizuki0330"]
-[ns]Mizuki[nse]
-"And we can have the boys carry the heavy stuff..."[pcms]
+[ns]瑞樹[nse]
+「重そうなものは、男子に運ばせるとして……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3602|
 [fc]
-[ns]Kousuke[nse]
-"Hey!"[pcms]
+[ns]浩助[nse]
+「ひでーっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3603|
 [fc]
-While making a commotion, we went around the buildings in[r]
-the valley, carrying out food, medicine, and clothing.[pcms]
+口々に騒ぎながら谷間伝いにビルを回り、[r]
+食料品、医薬品、衣料品などといったものを運び出す。[pcms]
 
 *3604|
 [fc]
-The most important thing was securing food and drinks, so we[r]
-peeked inside restaurants, selecting items that seemed[r]
-preservable.[pcms]
+中でも一番重要なのは食料や飲料の確保だということで、[r]
+飲食店を中心に店の中を覗いては、[r]
+保存のききそうなものを選んでいく。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3605|
 [fc]
 [vo_yuh s="yuho1641"]
-[ns]Yuuho[nse]
-"Hmm. What's inside this jar? I can't understand the label[r]
-at all, is it Russian?"[pcms]
+[ns]悠帆[nse]
+「んー。この瓶詰め、中身なんだろー？[r]
+　ラベル、さっぱり分かんないんだよね、ロシア語かなー？」[pcms]
 
 *3606|
 [fc]
-We found rice and large commercial retort food, but[r]
-ingredients from beef bowl restaurants and meals from cafes[r]
-were frozen.[pcms]
+米とか、業務用の大型のレトルト食品とかも見つかったけど[r]
+牛丼屋の具材とか、喫茶店の食事なんかは冷凍物だった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3607|
 [fc]
 [vo_yuh s="yuho1642"]
-[ns]Yuuho[nse]
-"Let's also take candies and chocolates. They say it's good[r]
-to eat them in case of an emergency, right?"[pcms]
+[ns]悠帆[nse]
+「キャンディとかチョコレートも持ってこうっと。[r]
+　遭難した時、食べるといいっていうよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3608|
 [fc]
 [vo_miz s="mizuki0331"]
-[ns]Mizuki[nse]
-"Hey, Kousuke, should we take the frozen stuff too? We can[r]
-keep it in the freezer while we have electricity."[pcms]
+[ns]瑞樹[nse]
+「ねぇ、コースケ、冷凍モノも、いちおう持ってく？[r]
+　電気が来てる間は、冷凍庫にいれとけるから」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3609|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, we just need to eat them first."[pcms]
+[ns]浩助[nse]
+「そうだな、なるべく先に食べるよーにすりゃいいしな」[pcms]
 
 *3610|
 [fc]
-[ns]Wataru[nse]
-"It's almost like we're a newlywed couple at a supermarket."[pcms]
+[ns]航[nse]
+「なんか、ほとんどスーパーの買い物に来た新婚夫婦だね」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3611|
 [fc]
 [vo_miz s="mizuki0332"]
-[ns]Mizuki[nse]
-"Oh stop it, Wataru! Cut it out!"[pcms]
+[ns]瑞樹[nse]
+「やだもう、ワタル！　よしてよー！」[pcms]
 ;//＠笑いながら
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3612|
 [fc]
-[ns]Kousuke[nse]
-"Don't be jealous of other people's happiness!"[pcms]
+[ns]浩助[nse]
+「ヒトの幸せ、うらやんでんじゃねーよっ！」[pcms]
 
 *3613|
 [fc]
-Meat and vegetables could also be frozen, so the amount of[r]
-cargo we had to carry kept increasing.[pcms]
+肉や野菜なんかも、冷凍すればいいだろうということになり、[r]
+運ぶ荷物はどんどん増えていく一方だった。[pcms]
 
 ;//ジャンプ
 [jump storage="50580.ks" target=*50580_05]
@@ -691,7 +678,7 @@ cargo we had to carry kept increasing.[pcms]
 
 *3614|
 [fc]
-I paused my work for a moment and looked down at the street.[pcms]
+作業中にふと手を止めて、通りの様子を見下ろしてみた。[pcms]
 
 ;//@konya センターストリート
 [bg storage="BG05d"][trans_c cross time=500]
@@ -699,38 +686,36 @@ I paused my work for a moment and looked down at the street.[pcms]
 
 *3615|
 [fc]
-There were a few infected visible on the street, and sounds[r]
-like screams or groans could be heard. It's unclear whether[r]
-they're infected or someone still alive...[pcms]
+通りには感染者がちらほら見え、[r]
+悲鳴やうめき声みたいなものが聞こえてくる。[r]
+感染者なのか、まだ生存している誰かなのは分からないけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3616|
 [fc]
-[ns]Kousuke[nse]
-"There's nobody around."[pcms]
+[ns]浩助[nse]
+「誰もいねーな」[pcms]
 
 *3617|
 [fc]
-Kousuke noticed me pausing and muttered as he looked down at[r]
-the street as well.[pcms]
+ボクに気付いたコースケが、同じように通りを見下ろして呟く。[pcms]
 
 *3618|
 [fc]
-[ns]Kousuke[nse]
-"Yesterday, we made a lot of noise and attracted them, but[r]
-if we stay quiet, maybe it's okay to go out of the[r]
-'valley'?"[pcms]
+[ns]浩助[nse]
+「昨日は、大声出してヤツラを呼んじまったけどさ、[r]
+　黙ってれば『谷間』から出てもいいんじゃねーかな？」[pcms]
 
 *3619|
 [fc]
-[ns]Wataru[nse]
-"That might be true..."[pcms]
+[ns]航[nse]
+「そうだね……」[pcms]
 
 *3620|
 [fc]
-But if there are infected hiding somewhere, we could be[r]
-attacked at any time.[pcms]
+だけど、どこかに潜んでる感染者がいるんだとしたら[r]
+いつ襲われるか分からない。[pcms]
 
 ;//@konya ビルの谷間
 [bg storage="BG130"][trans_c cross time=500]
@@ -738,28 +723,28 @@ attacked at any time.[pcms]
 
 *3621|
 [fc]
-[ns]Wataru[nse]
-"Maybe we should stay in this section for a while. If we[r]
-start running low on food or anything else, we can think[r]
-about it then."[pcms]
+[ns]航[nse]
+「やっぱり、しばらくは、[r]
+　この区画にいたほうがいいんじゃないかな。[r]
+　将来、食べ物とかが不足したら、その時また考えようよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3622|
 [fc]
-[ns]Kousuke[nse]
-"Well, that might be true. Since we can only move on foot,[r]
-it's scary. I don't even feel like going anywhere other than[r]
-LASER."[pcms]
+[ns]浩助[nse]
+「ま、そうかもしんねーな。[r]
+　どのみち徒歩でしか移動できないんじゃ、おっかないよな。[r]
+　ＬＡＳＥＲ以外の場所に行く気もしねーし」[pcms]
 
 *3623|
 [fc]
-Considering the terrible state of other shelters seen on TV,[r]
-moving somewhere right now is unthinkable.[pcms]
+確かにテレビで見る他の避難所の酷い有様を考えれば[r]
+今すぐどこかに行くってことは考えられない。[pcms]
 
 *3624|
 [fc]
-We went back to our transportation work.[pcms]
+ボクたちは、また運搬作業に戻っていく。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

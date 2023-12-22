@@ -15,168 +15,168 @@
 
 *1609|
 [fc]
-The catwalk is about the height of a second-story building.[r]
-If you land on the soft ground properly, you should be able[r]
-to jump down without getting hurt![pcms]
+キャットウォークの高さは建物の二階程度。[r]
+柔らかい地面にうまく着地すれば、飛び降りても[r]
+怪我はしないですむはず！[pcms]
 
 *1610|
 [fc]
-It might be wishful thinking, but right now, that's all I[r]
-could cling to. I leaned out the window, ready to jump.[pcms]
+希望的観測に過ぎないかもしれないけど、今のわたしは[r]
+それにすがるしかにかった。[r]
+窓を開けて飛び降りようと、わたしは身を乗り出した。[pcms]
 
 *1611|
 [fc]
-And that's when I saw itthe triangular roof of the corridor[r]
-right next to me.[pcms]
+と、そこで目に入ったのが、すぐ横にある[r]
+渡り廊下の三角形の屋根だった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1612|
 [fc]
 [vo_yuh s="yuho0373"]
-[ns]Yuuho[nse]
-"This is it!!"[pcms]
+[ns]悠帆[nse]
+「これだ！！」[pcms]
 
 ;//〆：ラベルブロックA0008・E011
 *zapA008_01
 
 *1613|
 [fc]
-The moment I saw it, I had an epiphany and abandoned my plan[r]
-to jump. I moved a little and aimed for the roof, crawling[r]
-up towards it.[pcms]
+一目見て閃いたわたしは、飛び降り計画を中止した。[r]
+少し移動して屋根を目指し、上へと這い上がった。[pcms]
 
 *1614|
 [fc]
-As I moved on all fours, I cautiously closed the window[r]
-behind me and headed towards the pool side.[pcms]
+四つん這いで移動しながら、一応用心のために窓を閉め、[r]
+プール側へと向かっていく。[pcms]
 
 [se buf=0 storage="se032"]
 
 *1614a|
 [fc]
-Crash![pcms]
+ガシャン！[pcms]
 
 *1615|
 [fc]
-Then, the sound of breaking glass echoed from behind.[r]
-Startled, I turned around to see their bloodied hands[r]
-bursting through the window.[pcms]
+すると背後でガラスの割れる音が響いた。[r]
+はっとして振り返ると、奴らの血まみれの手が[r]
+窓から飛び出していた。[pcms]
 
 *1616|
 [fc]
-It seems that a window is not enough to buy much time after[r]
-all.[pcms]
+やっぱり窓程度では大した時間稼ぎにもならないらしい。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1617|
 [fc]
 [vo_yuh s="yuho0374"]
-[ns]Yuuho[nse]
-"What are they... What on earth are those people..."[pcms]
+[ns]悠帆[nse]
+「何なのよ……いったいあの人たちは何なのよ……」[pcms]
 
 *1618|
 [fc]
-I was so scared and confused, I just wanted to close my[r]
-eyes, cover my ears, and curl up into a ball.[pcms]
+ワケが分からなくて、とにかく怖くて、[r]
+目を閉じて耳を塞いで丸くなってしまいたくなる。[pcms]
 
 *1619|
 [fc]
-But this isn't a dream. It's an incident happening right[r]
-before my eyes, a danger that's approaching me in reality.[pcms]
+でも、これは夢じゃない。現実に目前で起きている[r]
+事件であり、今自分の身に迫っている危険なんだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1620|
 [fc]
 [vo_yuh s="yuho0375"]
-[ns]Yuuho[nse]
-"I can't give up... I can't give up..."[pcms]
+[ns]悠帆[nse]
+「あきらめちゃダメ……あきらめちゃダメ……」[pcms]
 
 *1621|
 [fc]
-I don't want to die yet. There are people I want to see,[r]
-things I want to do if I survive.[pcms]
+わたしはまだ死にたくない。生き延びて会いたい[r]
+人がいる。生き延びてやりたいことがある。[pcms]
 
 *1622|
 [fc]
-My planner doesn't have dying here written in it![pcms]
+わたしの予定帳にはここで死ぬことは[r]
+書いてない！[pcms]
 
 *1623|
 [fc]
-So, I won't give up... With a heart trembling in fear, I[r]
-encouraged myself and desperately continued to move forward.[pcms]
+だから、あきらめない……。[r]
+わたしは恐怖に震える心を鼓舞して、必死に前進を[r]
+続けた。[pcms]
 
 *1624|
 [fc]
-Eventually, one of them crossed the step and climbed onto[r]
-the roof to chase after me.[pcms]
+やがて連中の一人が段差を越えて、屋根へと上がって[r]
+わたしを追いかけはじめた。[pcms]
 
 *1625|
 [fc]
-But they seemed to have poor motor skills and quickly lost[r]
-their balance and fell.[pcms]
+だけど、運動神経が鈍いらしく、たちまちバランスを[r]
+崩して落下していった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1626|
 [fc]
 [vo_yuh s="yuho0376"]
-[ns]Yuuho[nse]
-"I see... they're not good with places like this."[pcms]
+[ns]悠帆[nse]
+「そっか……こういう場所は苦手なんだ」[pcms]
 
 *1627|
 [fc]
-All of them who chased after me lost their balance one by[r]
-one, slipping on the triangular roof and falling off.[pcms]
+追ってきた連中はことごとくバランスを崩して、[r]
+三角屋根に足を滑らせて転落していった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1628|
 [fc]
 [vo_yuh s="yuho0377"]
-[ns]Yuuho[nse]
-"I might have been saved..."[pcms]
+[ns]悠帆[nse]
+「助かったかも……」[pcms]
 
 *1629|
 [fc]
-Even though I let out a sigh of relief at that sight, the[r]
-critical situation without any respite hadn't changed at[r]
-all.[pcms]
+その光景に安堵の息を漏らすも、猶予のない[r]
+危機的状態は決して変わってはいなかった。[pcms]
 
 *1630|
 [fc]
-There's no guarantee that staying here will always be safe.[r]
-There might be someone who can cross this place.[pcms]
+いつまでもここにいることが安全だという保障はない。[r]
+もしかしたらここを渡れる奴がいる可能性もある。[pcms]
 
 *1631|
 [fc]
-I resumed moving forward while being careful not to fall,[r]
-taking extra caution with each step.[pcms]
+わたしは落下するようなことがないように慎重を[r]
+期しながら、前進を再開した。[pcms]
 
 *1632|
 [fc]
-It was a slow movement like that of a turtle, but[r]
-fortunately, all those who came after me kept slipping and[r]
-falling off.[pcms]
+カメの歩みのような遅い動きだったけど、[r]
+幸いにもあとから来る連中はことごとく[r]
+足を滑らせて落下した。[pcms]
 
 *1633|
 [fc]
-In the end, as I moved towards the poolside, nearly ten of[r]
-them popped out and slipped off repeatedly, allowing me to[r]
-arrive leisurely.[pcms]
+結局わたしがプールの傍まで移動する間、[r]
+十人近い奴が飛び出しては滑り落ちるを[r]
+繰り返し、悠々と到着することができた。[pcms]
 
 *1634|
 [fc]
-In normal times, their comical falls would have elicited at[r]
-least a chuckle from me, but in this pressing situation, I[r]
-couldn't muster even a single smile.[pcms]
+いつもなら滑稽な姿に笑いのひとつも出そうな[r]
+ものだったけど、切迫している状況に、[r]
+わたしは笑み一つ浮かべることはなかった。[pcms]
 
 *1635|
 [fc]
-Cautiously approaching the window, I stealthily peeked into[r]
-the pool through the skylight.[pcms]
+用心深くそっと窓に近づいて、こっそりと[r]
+天窓からプールの内部を覗き込む。[pcms]
 
 ;//jump：zapA0011
 [jump storage="zapA011.ks" target=*zapA011_TOP]

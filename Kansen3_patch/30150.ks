@@ -15,178 +15,175 @@
 
 *1134|
 [fc]
-I fully understand that it's dangerous to go through the[r]
-middle.[pcms]
+中を通るのが危険なのは重々わかっている。[pcms]
 
 *1135|
 [fc]
-But when I think about Ren, it seems better to get her into[r]
-the shade and let her rest as soon as possible.[pcms]
+でも漣の事を考えると、少しでも早く日陰に[r]
+入って休ませたほうがいいはずだ。[pcms]
 
 *1136|
 [fc]
-I nod to my own thoughts and call out to my senior who is[r]
-already looking for a way to climb up onto the roof.[pcms]
+ボクは自分の考えにうなずくと、早くも屋根の上に[r]
+登れるか探っている先輩に声をかけた。[pcms]
 
 *1137|
 [fc]
-[ns]Wataru[nse]
-"Senior, it seems there's no one on the catwalk, so why[r]
-don't we go through the middle?"[pcms]
+[ns]航[nse]
+「先輩、幸いキャットウォークには人影も[r]
+　ないみたいですし、中を通っていきませんか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1138|
 [fc]
 [vo_mar s="maru0163"]
-[ns]Margarita[nse]
-"No way."[pcms]
+[ns]マルガリータ[nse]
+「ダメだ」[pcms]
 
 *1139|
 [fc]
-[ns]Wataru[nse]
-"But..."[pcms]
+[ns]航[nse]
+「でも……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1140|
 [fc]
 [vo_mar s="maru0164"]
-[ns]Margarita[nse]
-"Can't you hear the voices inside? The inside is already[r]
-full of them."[pcms]
+[ns]マルガリータ[nse]
+「中の声が聞こえるだろう？[r]
+　中はもうヤツラでいっぱいだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1141|
 [fc]
 [vo_mar s="maru0165"]
-[ns]Margarita[nse]
-"It would be wiser to climb directly onto the roof of the[r]
-gymnasium rather than descending from the skylight to the[r]
-catwalk."[pcms]
+[ns]マルガリータ[nse]
+「天窓からキャットウォークに降りるよりも、[r]
+　直接体育館の屋根の上に登って行くのが賢明だろう」[pcms]
 
 *1142|
 [fc]
-[ns]Wataru[nse]
-"That might be true, but couldn't we sneak by without them[r]
-noticing?"[pcms]
+[ns]航[nse]
+「そうかもしれませんけど、[r]
+　こっそり行けば気がつかないんじゃ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1143|
 [fc]
 [vo_mar s="maru0166"]
-[ns]Margarita[nse]
-"How are you going to sneak by when the windows aren't even[r]
-open?"[pcms]
+[ns]マルガリータ[nse]
+「窓も開いてないのに、どうやってこっそり行くんだ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1144|
 [fc]
 [vo_mar s="maru0167"]
-[ns]Margarita[nse]
-"Breaking the glass would be like loudly announcing our[r]
-presence."[pcms]
+[ns]マルガリータ[nse]
+「ガラスを破る音で派手に存在を教えるようなものだろう」[pcms]
 
 *1145|
 [fc]
-When she states it so categorically, it's true that...[pcms]
+そう断言されると、確かに[r]
+その通りなんだけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1146|
 [fc]
-[ns]Kousuke[nse]
-"What's with that? Just because you're a senior doesn't mean[r]
-you can talk down to us..."[pcms]
+[ns]浩助[nse]
+「なんだよ。先輩だからってさっきから上から目線でさ……」[pcms]
 
 *1147|
 [fc]
-Kousuke, who was already feeling antagonistic, complained[r]
-about the senior who had flatly rejected my suggestion.[pcms]
+きっぱりとボクの提案を否定した先輩に、[r]
+ただでさえ反感を持っていたコースケが[r]
+文句を口にした。[pcms]
 
 *1148|
 [fc]
-But what came back from the senior was a cold gaze.[pcms]
+けれど、先輩から返って来たのは冷たい視線だった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1149|
 [fc]
 [vo_mar s="maru0168"]
-[ns]Margarita[nse]
-"The catwalk is narrow, leaving no place to hide or escape."[pcms]
+[ns]マルガリータ[nse]
+「キャットウォークは狭い分、逃げ隠れできる場所がない」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1150|
 [fc]
 [vo_mar s="maru0169"]
-[ns]Margarita[nse]
-"If you're confident you can protect yourself when they[r]
-corner us, then I won't stop you."[pcms]
+[ns]マルガリータ[nse]
+「ヤツラに挟み撃ちにされても己の身は己で[r]
+　守れる自信があるのならば、ワタシは止めないぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1151|
 [fc]
-[ns]Kousuke[nse]
-"What!"[pcms]
+[ns]浩助[nse]
+「なっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1152|
 [fc]
 [vo_ren s="ren0252"]
-[ns]Ren[nse]
-"Ko-chan! Big brother too... I'm fine, so let's do as the[r]
-senior says, okay?"[pcms]
+[ns]漣[nse]
+「コーちゃんっ！　お兄ちゃんも……私は[r]
+　大丈夫だから、先輩の言うとおりにしよう？」[pcms]
 
 *1153|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *1154|
 [fc]
-Chastised by Ren, I fell silent.[pcms]
+漣に嗜めるように言われて、ボクは黙り込んだ。[pcms]
 
 *1155|
 [fc]
-Indeed, as the senior said, even if it seems deserted, the[r]
-fact that the inside is overflowing with infected people is[r]
-true.[pcms]
+確かに先輩の言う通り、人気がないように見えても[r]
+中が感染者であふれてるだろうということは事実だし。[pcms]
 
 *1156|
 [fc]
-[ns]Wataru[nse]
-"Kousuke, it seems better for us to climb up after all. We[r]
-can't use ropes like before, so let's become footholds for[r]
-each other."[pcms]
+[ns]航[nse]
+「コースケ、ここはやっぱり上に登ったほうが[r]
+　いいみたいだ。今までみたいにロープは[r]
+　使えないから、ボクらが足場になろう」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1157|
 [fc]
-[ns]Kousuke[nse]
-"What, even you Wataru?"[pcms]
+[ns]浩助[nse]
+「なんだよ、ワタルまで」[pcms]
 
 *1158|
 [fc]
-Kousuke said this with dissatisfaction, but I want to let[r]
-Ren rest even a little.[pcms]
+コースケは不満げにそう言い放ったが、[r]
+漣を少しでも休ませたい。[pcms]
 
 *1159|
 [fc]
-But I know that my judgment, blinded by that concern, is[r]
-wrong if I think about it even a little.[pcms]
+だがその事に目が眩んだボクの判断が間違っている事は、[r]
+少しでも考えればすぐにでもわかる。[pcms]
 
 *1160|
 [fc]
-Reluctantly, Kousuke nodded silently, and we decided to[r]
-climb onto the roof of the gymnasium.[pcms]
+不承不承という感じだったけれど、[r]
+コースケも黙ってうなずいて、ボクらは体育館の屋根へと[r]
+登ることにした。[pcms]
 
 ;//→block:30170
 [jump storage="30170.ks" target=*30170_TOP]

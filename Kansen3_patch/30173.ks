@@ -36,13 +36,12 @@
 
 *1296|
 [fc]
-When I rushed to the end of the pool side of the gymnasium[r]
-roof, I found a crowd of infected people already gathered by[r]
-the side of the corridor roof.[pcms]
+体育館の屋根のプール側の端に駆け寄ると、既に渡り廊下の[r]
+屋根の脇に感染者の人だかりができてるのを見つけた。[pcms]
 
 *1297|
 [fc]
-What is that...?[pcms]
+あれは……？[pcms]
 
 ;//BG：HEV028(先行作成してるPEV-002で対応)
 
@@ -60,146 +59,153 @@ What is that...?[pcms]
 *1298|
 [fc]
 [vo_yuh s="yuho0127"]
-[ns]Yuuho[nse]
-"Nnhah, no! Ah, fuuuh..."[pcms]
+[ns]悠帆[nse]
+「んはぁ、いやっ！　あふぅううっ」[pcms]
 
 *1299|
 [fc]
-The lewd scene that jumped into my eyes. I thought it was a[r]
-lie.[pcms]
+目に飛び込んでくる痴態。[r]
+嘘だと思った。[pcms]
 
 *1300|
 [fc]
-The moans that jumped into my ears. I thought it was a lie.[pcms]
+耳に飛び込んでくる嬌声。[r]
+嘘だと思った。[pcms]
 
 *1301|
 [fc]
-It's a lie, a lie, a lie![pcms]
+嘘だ、嘘だ、嘘だ！[pcms]
 
 *1302|
 [fc]
-But... I couldn't take my eyes off it.[pcms]
+でも……目を離すことができなかった。[pcms]
 
 *1303|
 [fc]
 [vo_yuh s="yuho0128"]
-[ns]Yuuho[nse]
-"Stop! Don't put it in... Nnguh! Nju... at the same time...[r]
-nngung..."[pcms]
+[ns]悠帆[nse]
+「やっ！　い、入れないで……んっぐぅっ！[r]
+　んぢゅ……同時に……んっぐんぐ……」[pcms]
 
 *1304|
 [fc]
-[ns]Wataru[nse]
-"Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆……」[pcms]
 
 *1305|
 [fc]
-The reality I didn't want to admit came crashing down on me[r]
-as something real when I muttered my own words and suddenly[r]
-came back to myself.[pcms]
+呟いた自分の言葉に、ボクはふと我に返った。[r]
+認めたくなかった現実が、リアルなものとして[r]
+ボクにのしかかってくる。[pcms]
 
 *1306|
 [fc]
-Yuuho was being violated. Even though she was resisting, she[r]
-was overpowered by the many and forced to take men's things[r]
-in her pussy and mouth at the same time.[pcms]
+悠帆は、犯されていた。[r]
+抵抗はしていても、多勢に無勢で押さえつけられ、[r]
+アソコと口に同時に男のモノを咥えさせられていた。[pcms]
 
 *1307|
 [fc]
-And here I am, powerless. The girl I like, the girl I love[r]
-is being violated, and I can't do anything, how foolish I[r]
-am.[pcms]
+そしてここにいるのは無力なボク。[r]
+好きな子が、愛している子が犯されてるのに、[r]
+何もできないおろかなボク。[pcms]
 
 *1308|
 [fc]
 [vo_yuh s="yuho0129"]
-[ns]Yuuho[nse]
-"Hyaa... nchu... wa, wacha... nchuuryu"[pcms]
+[ns]悠帆[nse]
+「ひゃあ……んちゅっぅう……[r]
+　わ、わちゃ……んちゅぅうりゅ」[pcms]
 
 *1309|
 [fc]
-Yuuho's eyes widened in surprise. Did she notice me?[pcms]
+悠帆の目が驚いたように見開かれた。[r]
+ボクに気がついたんだろうか？[pcms]
 
 *1310|
 [fc]
-No, she definitely noticed. Our eyes met.[pcms]
+いや、確実に気がついたハズだ。[r]
+目が、あった。[pcms]
 
 *1311|
 [fc]
-[ns]Wataru[nse]
-"Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆……」[pcms]
 
 *1312|
 [fc]
 [vo_yuh s="yuho0130"]
-[ns]Yuuho[nse]
-"Wacha... nnh! Haaah!! Ah, nngu, ngu... don't look, Wata...[r]
-nnfu, so intense... hyaaan!!"[pcms]
+[ns]悠帆[nse]
+「わちゃ……んっ！　はぁああっ！！[r]
+　あっ、んっぐ、んぐ……見ないで、わた……[r]
+　んっふ、そんな…激し……ひゃああんっ！！」[pcms]
 
 *1313|
 [fc]
-The man behind Yuuho whispered something into her ear and[r]
-then firmly grabbed her hips and began to move vigorously.[pcms]
+悠帆の後ろにいた男が悠帆の耳に何かささやいたかと[r]
+思うと、悠帆の腰をしっかりと掴みなおして激しく[r]
+動かし始めた。[pcms]
 
 *1314|
 [fc]
 [vo_yuh s="yuho0131"]
-[ns]Yuuho[nse]
-"Hyah, stop... it's going to make me come... nnh, haa...[r]
-aahaaan!"[pcms]
+[ns]悠帆[nse]
+「ひゃ、ひゃめ…おか、おかひくにゃる……[r]
+　んっ、はぁ…あぁああんっ」[pcms]
 
 *1315|
 [fc]
-The man's thrusting became gradually more intense. Even from[r]
-where I was, I could clearly see the movement of the man's[r]
-thing appearing and disappearing inside Yuuho.[pcms]
+徐々に激しくなっていく男の腰使い。[r]
+ボクの位置からでも悠帆の中に見え隠れする[r]
+男のモノの動きがはっきりとわかった。[pcms]
 
 *1316|
 [fc]
 [vo_yuh s="yuho0132"]
-[ns]Yuuho[nse]
-"No... nchuuhuu, ah, stop, nngu... hyaaa... ah, haaan!"[pcms]
+[ns]悠帆[nse]
+「らめ……んっちゅうぅう、あっ、やっ、んっぐ…[r]
+　ひゃああ……あっ、はぁああんっ！」[pcms]
 
 *1317|
 [fc]
-With the man's intense movements as if slamming all his[r]
-desire into her, Yuuho's expression gradually changed to[r]
-that of the female students I had seen inside the school[r]
-building.[pcms]
+男の欲望を総て叩きつけられるような激しい動きに、[r]
+悠帆の表情が次第に校舎内で何人も見かけた[r]
+女子学生のような表情に変わっていく。[pcms]
 
 *1318|
 [fc]
 [vo_yuh s="yuho0133"]
-[ns]Yuuho[nse]
-"Hyaaa! Ah, no... ah, aaaaahn!!"[pcms]
+[ns]悠帆[nse]
+「ひゃああっ！[r]
+　あっ、だめ……あっ、あぁああああんっ！！」[pcms]
 
 *1319|
 [fc]
-The moment Yuuho let out an especially loud cry, men's semen[r]
-splattered on her face, and probably... most likely, semen[r]
-was also poured inside her.[pcms]
+一際大きな声を悠帆が上げたその瞬間、[r]
+悠帆の顔に男の精子が飛び散り、たぶん……[r]
+おそらくだけれど、中にも精液が注ぎこまれた。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV004c"]
 
 *1320|
 [fc]
-[ns]Kousuke[nse]
-"What's wrong? Wataru?"[pcms]
+[ns]浩助[nse]
+「どうした？　ワタル？」[pcms]
 
 *1321|
 [fc]
-Kousuke's voice came from behind me.[pcms]
+後ろからコースケの声が聞こえた。[pcms]
 
 *1322|
 [fc]
-[ns]Kousuke[nse]
-"Are they already here?"[pcms]
+[ns]浩助[nse]
+「すでにヤツラがいるのか？」[pcms]
 
 *1323|
 [fc]
-[ns]Wataru[nse]
-"Don't come!"[pcms]
+[ns]航[nse]
+「く、来るなっ！」[pcms]
 
 ;//BG017・分校舎廊下２
 [bg storage="bg017"][trans_c cross time=500]
@@ -208,64 +214,67 @@ Kousuke's voice came from behind me.[pcms]
 
 *1324|
 [fc]
-[ns]Kousuke[nse]
-"Eh?"[pcms]
+[ns]浩助[nse]
+「えっ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1325|
 [fc]
 [vo_mar s="maru0183"]
-[ns]Margarita[nse]
-"What happened?"[pcms]
+[ns]マルガリータ[nse]
+「どうかしたのか？」[pcms]
 
 *1326|
 [fc]
-My intense voice ended up drawing Kousuke and the senior[r]
-closer instead.[pcms]
+ボクの激しい声は、逆にコースケと先輩を引き寄せる形に[r]
+なってしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1327|
 [fc]
-[ns]Kousuke[nse]
-"Yu... Yuuho...?"[pcms]
+[ns]浩助[nse]
+「ゆ…うほ……？」[pcms]
 
 *1328|
 [fc]
-Kousuke's voice came out as if he couldn't believe it,[r]
-rather than not wanting to believe it. I didn't want to[r]
-believe it either.[pcms]
+コースケの口から信じられないというよりも、[r]
+信じたくないと言いたげな声が聞こえてくる。[r]
+ボクだって信じたくない。[pcms]
 
 *1329|
 [fc]
-But... right before our eyes, Yuuho began to move her hips[r]
-as if seeking pleasure.[pcms]
+でも……ボクらの目の前で悠帆は快楽を求めるように、[r]
+自らの腰を動かし始めた。[pcms]
 
 [evcg storage="HEV004d"][trans_c cross time=300]
 
 *1330|
 [fc]
 [vo_yuh s="yuho0134"]
-[ns]Yuuho[nse]
-"Nnhah, more... it feels good, it feels so good... aaaaahn"[pcms]
+[ns]悠帆[nse]
+「んはぁ、もっと……気持ちいい、[r]
+　気持ちいいの……あぁああんっ」[pcms]
 
 *1331|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... Yuuho! Wake up!!"[pcms]
+[ns]航[nse]
+「悠帆……悠帆っ！　目を覚ませっ！！」[pcms]
 
 *1332|
 [fc]
 [vo_yuh s="yuho0135"]
-[ns]Yuuho[nse]
-"Nnhah... Wataru? You too... want to thrust into my pussy?[r]
-Ahhaaahn, good, good... right thereee!"[pcms]
+[ns]悠帆[nse]
+「んはぁ……わたるぅ？　アンタも…わたしの[r]
+　オマンコの中、あっはぁああんっ、突っ込むぅ？[r]
+　んっくぅう、いい、いい……そこぉおおんっ！」[pcms]
 
 *1333|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... is it really over? Is it really... really..."[pcms]
+[ns]航[nse]
+「悠帆……もう、もう駄目なのか？[r]
+　もう……もう……」[pcms]
 
 ;//BG017・分校舎廊下２
 [bg storage="bg017"][trans_c cross time=500]
@@ -275,75 +284,74 @@ Ahhaaahn, good, good... right thereee!"[pcms]
 *1334|
 [fc]
 [vo_ren s="ren0267"]
-[ns]Ren[nse]
-"Big brother..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1335|
 [fc]
 [vo_mar s="maru0184"]
-[ns]Margarita[nse]
-"It's no use. Once she's become like that, it's over. If you[r]
-go now, you'll just become one of them."[pcms]
+[ns]マルガリータ[nse]
+「無理だ。ああなってしまったら、おしまいだ。[r]
+　行けばお前もアイツラの仲間になるだけだぞ」[pcms]
 
 *1336|
 [fc]
-[ns]Wataru[nse]
-"Ugh..."[pcms]
+[ns]航[nse]
+「うっ……」[pcms]
 
 *1337|
 [fc]
-Tears started to overflow. Why didn't I reach Yuuho sooner?[r]
-Why not sooner... sooner.[pcms]
+涙があふれてきた。[r]
+なんでもっと早く悠帆にたどり着かなかったのだろう。[r]
+なんでもっと早く……早く。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1338|
 [fc]
 [vo_mar s="maru0185"]
-[ns]Margarita[nse]
-"Let's go."[pcms]
+[ns]マルガリータ[nse]
+「行くぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1339|
 [fc]
-[ns]Kousuke[nse]
-"Let's go? Just because you're a senior doesn't mean... I've[r]
-had enough."[pcms]
+[ns]浩助[nse]
+「行くぞって、いくら先輩だからって……[r]
+　もういい加減に頭きた」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1340|
 [fc]
 [vo_mar s="maru0186"]
-[ns]Margarita[nse]
-"You know what happens when you get infected with that[r]
-virus. I thought you, a Japanese person, would understand[r]
-better than me, a foreigner, since you experienced the[r]
-outbreak four years ago."[pcms]
+[ns]マルガリータ[nse]
+「あのウィルスに感染したらどうなるか。四年前の[r]
+　アウトブレイクで身に染みているのは、外国人のワタシよりも[r]
+　むしろ日本人のお前だと思ってたがな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1341|
 [fc]
-[ns]Kousuke[nse]
-"Guh..."[pcms]
+[ns]浩助[nse]
+「ぐぅっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1342|
 [fc]
 [vo_mar s="maru0187"]
-[ns]Margarita[nse]
-"Think of it as losing if you lose your composure. It's[r]
-cruel but sometimes you have to cut things off to survive."[pcms]
+[ns]マルガリータ[nse]
+「冷静さを欠いたら負けだと思え。非情だが[r]
+　切り捨てなければ生きてはいけないこともある」[pcms]
 
 *1343|
 [fc]
-I heard the voices of the senior and Kousuke as if they were[r]
-coming from another dimension.[pcms]
+先輩とコースケの声をどこか異次元の声のように聞いていた。[pcms]
 
 ;//BG：EV014（使い回し）
 
@@ -352,41 +360,44 @@ coming from another dimension.[pcms]
 *1344|
 [fc]
 [vo_ren s="ren0268"]
-[ns]Ren[nse]
-"Big brother..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 *1345|
 [fc]
-Even though Ren should have been held by Kousuke, she[r]
-somehow got down and gently hugged me.[pcms]
+確かコースケに抱っこされていたはずなのに、[r]
+いつの間に降りたのか、漣がボクをそっと[r]
+抱きしめてくれる。[pcms]
 
 *1346|
 [fc]
 [vo_ren s="ren0269"]
-[ns]Ren[nse]
-"Big brother, don't cry."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、泣かないで」[pcms]
 
 *1347|
 [fc]
-[ns]Wataru[nse]
-"It's my fault... If only I had reached Ren sooner... If[r]
-only I had found Yuuho sooner."[pcms]
+[ns]航[nse]
+「ボクが……ボクが悪かったんだ。もっと早く漣の[r]
+　所へ辿り着いていたら……[r]
+　もっと早く悠帆を見つけていたら」[pcms]
 
 *1348|
 [fc]
 [vo_ren s="ren0270"]
-[ns]Ren[nse]
-"Big brother... I'm still here. I'm right here, okay?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……まだ私がいる。私がいるよ？」[pcms]
 
 *1349|
 [fc]
-Feeling the warmth of Ren, who gently hugged me as I was on[r]
-the verge of tears, I hugged her tightly in return and[r]
-forcibly swallowed my tears.[pcms]
+涙ぐむばかりのボクをそっと抱きしめてくれる漣の[r]
+暖かさに、ボクはギュッと漣の体を抱きしめ返して、[r]
+ボクは無理やり涙を飲み込んだ。[pcms]
 
 *1350|
 [fc]
-The warmth of Ren... I have to protect this warmth.[pcms]
+漣の暖かさ……この暖かさを、ボクは[r]
+守っていかなきゃいけない。[pcms]
 
 ;//BG：HEV034（使い回し）
 
@@ -394,59 +405,61 @@ The warmth of Ren... I have to protect this warmth.[pcms]
 
 *1351|
 [fc]
-When I looked down, I could see Yuuho, who was in the throes[r]
-of ecstasy.[pcms]
+視線を下に落とすと、もうよがり狂うばかりの悠帆の[r]
+姿が見えた。[pcms]
 
 *1352|
 [fc]
 [vo_yuh s="yuho0136"]
-[ns]Yuuho[nse]
-"Ah, ah, ah. Good... good. It feels amazing to have my pussy[r]
-rubbed... Ahn!"[pcms]
+[ns]悠帆[nse]
+「あっ、あっ、あっ。いい……いい。凄くオマンコ擦り[r]
+　あげられて……あんっ！」[pcms]
 
 *1353|
 [fc]
 [vo_yuh s="yuho0137"]
-[ns]Yuuho[nse]
-"Ah, hyaaahnn. There, there, more... Ahfuuu, I'm coming. I'm[r]
-going to come."[pcms]
+[ns]悠帆[nse]
+「あっ、ひゃぁああんっ。そこ、そこもっと……[r]
+　あふぅう、イク。イッちゃう」[pcms]
 
 *1354|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... you might not have noticed, but I've always,[r]
-always liked you."[pcms]
+[ns]航[nse]
+「悠帆……気づいてなかったと思うけど、[r]
+　ボクはずっと、ずっと好き、でした」[pcms]
 
 *1355|
 [fc]
-[ns]Wataru[nse]
-"I've forgotten when it started, but it's been forever..."[pcms]
+[ns]航[nse]
+「いつ好きになったのか、ボクも忘れちゃったくらい[r]
+　前からずっと……」[pcms]
 
 *1356|
 [fc]
 [vo_yuh s="yuho0138"]
-[ns]Yuuho[nse]
-"Hafuuu... Amazing semen, so much semen... Aaahhh. It's[r]
-overflowing in my pussy. It's overflowing."[pcms]
+[ns]悠帆[nse]
+「はふぅうう……スゴイせーし、せーしいっぱい……[r]
+　あぁああんっ。わたしのオマンコにいっぱいあふれてる。[r]
+　あふれちゃってるぅう」[pcms]
 
 *1357|
 [fc]
-It seemed like my voice wasn't reaching Yuuho's ears[r]
-anymore. But still, I couldn't help but say it.[pcms]
+ボクの声ももう悠帆の耳に届かないみたいだ。[r]
+それでもボクは言わずにはいられなかった。[pcms]
 
 *1358|
 [fc]
-Perhaps, to say goodbye to my feelings of love.[pcms]
+たぶん、ボクの恋心と決別するために。[pcms]
 
 *1359|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, I loved you..."[pcms]
+[ns]航[nse]
+「悠帆、好き……だったよ」[pcms]
 
 *1360|
 [fc]
-If only I hadn't worried about being rejected or not being a[r]
-good match, I should have confessed to Yuuho sooner.[pcms]
+こんなことなら振られるとか、釣り合わないとか考えて[r]
+ないで、もっと早く悠帆に告白しておけばよかった。[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -466,65 +479,65 @@ good match, I should have confessed to Yuuho sooner.[pcms]
 
 *1361|
 [fc]
-Wiping away the last tear with a jerk, I silently started[r]
-walking after the senior who had gone ahead.[pcms]
+グイッと最後の涙を拭うと、ボクは無言で[r]
+先に歩き始めた先輩のあとを追った。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1362|
 [fc]
 [vo_mar s="maru0188"]
-[ns]Margarita[nse]
-"Are you satisfied now?"[pcms]
+[ns]マルガリータ[nse]
+「気はすんだか」[pcms]
 
 *1363|
 [fc]
-[ns]Wataru[nse]
-"...I don't know, but probably."[pcms]
+[ns]航[nse]
+「……わかりませんけど、たぶん」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1364|
 [fc]
 [vo_mar s="maru0189"]
-[ns]Margarita[nse]
-"I see. Then let's survive."[pcms]
+[ns]マルガリータ[nse]
+「そうか。ならば、生き残るぞ」[pcms]
 
 *1365|
 [fc]
-Watching the back of the senior as she leaped across the gap[r]
-between the gymnasium and the annex building, I started to[r]
-feel that maybe she wasn't just a strict person after all.[pcms]
+体育館と分校舎との間にある隙間を飛んで渡る先輩の[r]
+後ろ姿を見ながら、ボクは今さらながら[r]
+先輩が厳しいだけの人じゃないような気がしてきた。[pcms]
 
 *1366|
 [fc]
-[ns]Wataru[nse]
-"Ren, can you jump by yourself? Or do you want to jump[r]
-together with me?"[pcms]
+[ns]航[nse]
+「漣、一人で飛べるか？[r]
+　それともボクと一緒に飛ぶか？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1367|
 [fc]
 [vo_ren s="ren0271"]
-[ns]Ren[nse]
-"Yeah... I think I can probably manage to jump by myself."[pcms]
+[ns]漣[nse]
+「うん……たぶん、なんとか一人で飛べると思うけど」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1368|
 [fc]
 [vo_mar s="maru0190"]
-[ns]Margarita[nse]
-"Even though this side is more stable, it's dangerous for[r]
-two people to jump together. If it's just your sister, even[r]
-I can catch her, so jump with confidence."[pcms]
+[ns]マルガリータ[nse]
+「いくらこちらの足場の方が安定してるとは言え、[r]
+　二人で飛ぶのは危険だな。妹の方くらいならばワタシでも[r]
+　受け止められるから、安心して飛んで来い」[pcms]
 
 *1369|
 [fc]
-Looking at the senior who turned around and reached out her[r]
-hand to us, I felt happy that what I thought earlier wasn't[r]
-a misunderstanding.[pcms]
+振り向いてボクらに手を差し伸べてくれる先輩を見て、[r]
+ボクはやっぱりさっき思ったことが勘違いなんかじゃないことが、[r]
+なんか嬉しかった。[pcms]
 
 ;//→block:30174へ
 [jump storage="30174.ks" target=*30174_TOP]

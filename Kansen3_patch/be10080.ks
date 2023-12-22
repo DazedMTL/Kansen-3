@@ -2,23 +2,23 @@
 ;//@konya 11/13 BG貼付
 
 *BE10080_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 
 [sysbt_meswin]
 
 *318|
 [fc]
-That's right![pcms]
+そうだ！[pcms]
 
 *319|
 [fc]
-I remember there was an unused escalator in the office[r]
-behind the counter.[pcms]
+確かカウンター奥の事務所に[r]
+使われていないエスカレーターがあった。[pcms]
 
 *320|
 [fc]
-I run towards the office at full speed.[pcms]
+ボクは一目散に、事務所を目指して走っていく。[pcms]
 
 ;//暗転挟んで移動演出
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -29,91 +29,89 @@ I run towards the office at full speed.[pcms]
 
 *321|
 [fc]
-If I can use that escalator, not only could I escape, but I[r]
-might also be able to save someone who's been taken.[pcms]
+あのエスカレーターを使えれば、ボクが逃げるだけじゃなくて[r]
+連れ去られた誰かを助けられるかもしれない。[pcms]
 
 *322|
 [fc]
-The men probably don't know about the existence of that[r]
-sealed-off escalator.[pcms]
+男たちはあの封印されたエスカレーターの存在を[r]
+知らないはずだ。[pcms]
 
 *323|
 [fc]
-If things go well, I might be able to take them by[r]
-surprise...[pcms]
+うまくいけば、不意打ちで倒せることだって……。[pcms]
 
 *324|
 [fc]
-When I reach the office, I start searching for the entrance[r]
-to the escalator.[pcms]
+ボクは事務所にたどり着くと、エスカレーターの[r]
+入口を捜し始めた。[pcms]
 
 *325|
 [fc]
-Somewhere, beyond the wall...[pcms]
+どこか、壁の向こうに……。[pcms]
 
 *326|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *327|
 [fc]
-Carefully tapping on the wall, I listen for the sound.[pcms]
+慎重に壁を叩きながら、音を確かめていく。[pcms]
 
 *328|
 [fc]
-And then...[pcms]
+そして……。[pcms]
 
 *329|
 [fc]
-[ns]Wataru[nse]
-"Hmm?"[pcms]
+[ns]航[nse]
+「うん？」[pcms]
 
 *330|
 [fc]
-There was a spot where the sound of tapping on the wall was[r]
-clearly different from the others.[pcms]
+壁を叩く音が、明らかに他と違う場所があった。[pcms]
 
 *331|
 [fc]
-This must be it.[pcms]
+きっとここだ。[pcms]
 
 *332|
 [fc]
-The escalator has to be beyond here.[pcms]
+この向こうにエスカレーターがあるに違いない。[pcms]
 
 *333|
 [fc]
-A wall like this can't be broken by just any hit.[pcms]
+ちょっとやそっとの物じゃ、[r]
+叩いても壁は壊せないだろう。[pcms]
 
 *334|
 [fc]
-But, I have a gun in my hand.[pcms]
+でも、ボクの手には銃がある。[pcms]
 
 *335|
 [fc]
-The gun that Tadahiko used...[pcms]
+彦ちんの使っていた銃が……。[pcms]
 
 *336|
 [fc]
-[ns]Wataru[nse]
-"Hang on, everyone!"[pcms]
+[ns]航[nse]
+「待ってろよ、みんな！」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
 
 *337|
 [fc]
-When I pull the trigger, a bullet is absorbed into the wall[r]
-with a roaring sound.[pcms]
+引き金を引くと、轟音とともに弾丸が壁に吸い込まれた。[pcms]
 
 *338|
 [fc]
-This might work.[pcms]
+いけるかもしれない。[pcms]
 
 *339|
 [fc]
-I continue to squeeze the trigger one after another.[pcms]
+ボクは続けざまに引き金を絞っていった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -138,73 +136,73 @@ I continue to squeeze the trigger one after another.[pcms]
 
 *340|
 [fc]
-Dust scatters around as the wall trembles faintly.[pcms]
+ホコリのようなものをまき散らして、[r]
+壁がかすかに震えている。[pcms]
 
 *341|
 [fc]
-I lightly kick the weakened wall.[pcms]
+ボクはもろくなった壁を軽く蹴ってみた。[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
 
 *342|
 [fc]
-Still not enough...?[pcms]
+まだ足りないのか……？[pcms]
 
 *343|
 [fc]
-Maybe I can break it if I body-slam it.[pcms]
+体当たりすれば壊せるかもしれない。[pcms]
 
 *344|
 [fc]
-I step back from the wall and charge at it with momentum[r]
-from my shoulder.[pcms]
+壁から少し離れると、勢いを付けて肩から突っ込んでいく。[pcms]
 
 ;//se009・打撃音
 [se buf=0 storage="se009"]
 
 *345|
 [fc]
-No good. It feels like it's about to break, but it's oddly[r]
-flexible and absorbs the impact.[pcms]
+駄目だ。壊れそうなんだけど、妙に柔軟に作られていて[r]
+衝撃が吸収されてしまう。[pcms]
 
 *346|
 [fc]
-If I get more momentum...[pcms]
+もっと、もっと勢いを付ければ……。[pcms]
 
 *347|
 [fc]
-I back up to just before the opposite wall and take a breath[r]
-there.[pcms]
+ボクは向かい壁のギリギリまで下がると、[r]
+そこで一呼吸置いた。[pcms]
 
 *348|
 [fc]
-This time I'll go in feet first.[pcms]
+今度は足から突っ込んでいくぞ。[pcms]
 
 *349|
 [fc]
-Like a dropkick.[pcms]
+ドロップキックの要領だ。[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
 
 *350|
 [fc]
-But my plan is interrupted by a single gunshot.[pcms]
+でも、ボクのその計画は一発の銃声に遮られてしまった。[pcms]
 
 *351|
 [fc]
-At the entrance of the office, several men stand smirking[r]
-with their guns aimed.[pcms]
+事務所の入り口に、銃を構えた数人の男たちが[r]
+にやにやしながら立っている。[pcms]
 
 *352|
 [fc]
-If only I had a little more time...[pcms]
+もう少し時間があれば……。[pcms]
 
 *353|
 [fc]
-As I look at the men drawn by the gunfire at the wall, I[r]
-apologize to everyone in my heart.[pcms]
+壁への銃声で呼び寄せてしまった男たちを見ながら、[r]
+ボクは心の中でみんなに謝っていた。[pcms]
 
 ;//状況的に暗転が必要か
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -240,5 +238,5 @@ apologize to everyone in my heart.[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

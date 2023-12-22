@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10060_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 
 ;//@konya アルカディア
@@ -21,13 +21,13 @@
 *248|
 [fc]
 [vo_mar s="maru_BE0006"]
-[ns]Margarita[nse]
-"Wataru!"[pcms]
+[ns]マルガリータ[nse]
+「ワタルっ！」[pcms]
 
 *249|
 [fc]
-As I hurried through Arcadia, I was suddenly pushed from[r]
-behind by Marie.[pcms]
+アルカディアの中を足早に進んでいくと、[r]
+突然後ろからマリーに突き飛ばされた。[pcms]
 
 [quake_bg 元time=500 xy m]
 
@@ -36,26 +36,25 @@ behind by Marie.[pcms]
 
 *250|
 [fc]
-Something passed by the area where I had been standing until[r]
-just now.[pcms]
+今の今までボクが立っていた場所の辺りを、[r]
+何かが通り過ぎていく。[pcms]
 
 *251|
 [fc]
-The strange sensation of cutting through the air... it was a[r]
-bullet.[pcms]
+空気を切り裂く異様な感触……銃弾だ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *252|
 [fc]
 [vo_mar s="maru_BE0007"]
-[ns]Margarita[nse]
-"Wataru! Take cover!"[pcms]
+[ns]マルガリータ[nse]
+「ワタルっ！　身を隠せ！」[pcms]
 
 *253|
 [fc]
-Marie began to return fire bravely at the two men who had[r]
-come, using a bookshelf as a shield.[pcms]
+マリーは本棚を盾にしながら、やってきた男ふたりに向けて[r]
+果敢に応射を始めていた。[pcms]
 
 ;//♂：少し間隔を開けて何度か銃声を入れて下さい
 ;//♂：銃を撃ち合っているような演出です
@@ -72,34 +71,35 @@ come, using a bookshelf as a shield.[pcms]
 
 *254|
 [fc]
-Against the two of them, only Marie was shooting.[pcms]
+相手はふたりいるのに対して、こちらはマリーだけが[r]
+銃を撃っている。[pcms]
 
 [se buf=0 storage="se026"]
 [白フラ]
 
 *255|
 [fc]
-Marie, who grew up in a country in civil war, might be[r]
-better with guns than Japanese thugs, but the number of[r]
-hands was clearly different.[pcms]
+内戦状態の国で育ったマリーなら、[r]
+日本のチンピラよりも銃の腕が立つだろうけれど、[r]
+明らかに手数が違っていた。[pcms]
 
 *256|
 [fc]
-I should be able to fight on equal terms or better if I[r]
-shoot, making it two against two...[pcms]
+本当なら、ボクが撃てば二対二の戦力比で、[r]
+互角以上に戦えるはずなんだけど……。[pcms]
 
 [se buf=0 storage="se026"]
 [白フラ]
 
 *257|
 [fc]
-To save my friends, to ensure that nothing happens to[r]
-Marie...[pcms]
+仲間を救うため、マリーに万が一のことが[r]
+おこらないようにするため……。[pcms]
 
 *258|
 [fc]
-I started returning fire without aiming directly at the men,[r]
-from behind cover.[pcms]
+ボクは男たちに狙いを定めずに、[r]
+物陰から引き金を引いて応射を始めていた。[pcms]
 
 [se buf=0 storage="se026"]
 [白フラ]
@@ -118,78 +118,79 @@ from behind cover.[pcms]
 *259|
 [fc]
 [vo_mar s="maru_BE0008"]
-[ns]Margarita[nse]
-"Good, that's it Wataru! Keep it up!"[pcms]
+[ns]マルガリータ[nse]
+「よし、いいぞワタル！　その調子だ！」[pcms]
 
 *260|
 [fc]
-Thanks to Marie's accurate shooting, the men were unable to[r]
-come out from their hiding spots.[pcms]
+マリーの正確な射撃に、男たちは[r]
+物陰から出られなくなっていた。[pcms]
 
 *261|
 [fc]
-They were clearly reduced in number and on the defensive.[pcms]
+明らかに手数が減って、防戦一方になっている。[pcms]
 
 *262|
 [fc]
-If this continues, we might be able to quickly help someone[r]
-who has screamed for help.[pcms]
+これなら、悲鳴を上げた誰かをすぐに助けることが[r]
+できるかもしれない。[pcms]
 
 *263|
 [fc]
-I moved from cover to cover, getting closer to the men.[pcms]
+ボクは物陰から物陰に移動して、[r]
+男達に近づいていった。[pcms]
 
 *264|
 [fc]
-They haven't noticed me yet.[pcms]
+向こうはボクのことに気が付いていない。[pcms]
 
 *265|
 [fc]
-If this goes well, I might be able to get them to surrender[r]
-by pointing my gun at them.[pcms]
+これなら、銃を突きつけて相手を降参させることが[r]
+できるかも。[pcms]
 
 *266|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *267|
 [fc]
-It's different from shooting at infected people.[pcms]
+感染者に銃を撃つのとは違う。[pcms]
 
 *268|
 [fc]
-The opponent is armed with guns too, aiming to shoot us.[pcms]
+相手も銃で武装していて、こちらを狙い撃ってくるんだ。[pcms]
 
 *269|
 [fc]
-A real fight for our lives.[pcms]
+命を懸けた本物の戦い。[pcms]
 
 *270|
 [fc]
-A fight to save our friends.[pcms]
+仲間を助けるための戦いだ。[pcms]
 
 *271|
 [fc]
-Along with cold sweat, a strange excitement heats up inside[r]
-me.[pcms]
+冷や汗と一緒に、妙な興奮の熱がボクの中から[r]
+わきだしてくる。[pcms]
 
 *272|
 [fc]
-Hang on, everyone.[pcms]
+待ってろよ、みんな。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *273|
 [fc]
 [vo_mar s="maru_BE0009"]
-[ns]Margarita[nse]
-"Wataru! Behind you!"[pcms]
+[ns]マルガリータ[nse]
+「ワタルっ！　後ろっ！」[pcms]
 
 *274|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
@@ -201,45 +202,45 @@ Hang on, everyone.[pcms]
 
 *275|
 [fc]
-I didn't understand what happened.[pcms]
+なにが起きたのかわからなかった。[pcms]
 
 *276|
 [fc]
-Suddenly my vision flickered and a sharp stinging smell[r]
-filled the back of my nose.[pcms]
+突然目の前がチカチカとして、[r]
+鼻の奥にツンとした刺激臭が立ちこめる。[pcms]
 
 *277|
 [fc]
-I was hit...[pcms]
+殴られた……。[pcms]
 
 *278|
 [fc]
-From where? Behind?[pcms]
+どこから？　後ろ？[pcms]
 
 *279|
 [fc]
-Were there more than just two men...?[pcms]
+男たちはふたりだけじゃなかった……？[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *280|
 [fc]
 [vo_mar s="maru_BE0010"]
-[ns]Margarita[nse]
-"Oooooohhhhhhh!"[pcms]
+[ns]マルガリータ[nse]
+「オオオオォォォォォォォッ！」[pcms]
 
 *281|
 [fc]
-Marie's voice approached, sounding like a roar from the[r]
-depths of her belly.[pcms]
+腹の底から雄叫びを上げるような、[r]
+マリーの声が近づいてくる。[pcms]
 
 *282|
 [fc]
-No, Marie...[pcms]
+ダメだ、マリー……。[pcms]
 
 *283|
 [fc]
-Leave me and save everyone else...[pcms]
+ボクなんか放っておいて、みんなを助けてくれ……。[pcms]
 
 ;//♂：打撃戦をしているような演出で、何度か殴る音を入れて下さい
 
@@ -263,25 +264,26 @@ Leave me and save everyone else...[pcms]
 *284|
 [fc]
 [vo_mar s="maru_BE0011"]
-[ns]Margarita[nse]
-"Get away from Wataru!"[pcms]
+[ns]マルガリータ[nse]
+「ワタルから離れろっ！」[pcms]
 
 *285|
 [fc]
-I'm the reason she can't use her gun.[pcms]
+ボクがいるから銃が使えないんだ。[pcms]
 
 *286|
 [fc]
-Because I went too far forward, it turned into a melee...[pcms]
+ボクが前に出すぎて、乱戦になってしまったから……。[pcms]
 
 *287|
 [fc]
-Of course, I know Marie is strong in a fistfight too...[pcms]
+もちろん、マリーが殴り合いにも強いことは[r]
+知っているけれど……。[pcms]
 
 *288|
 [fc]
-I saw Marie fighting against a group of men through my[r]
-blurry vision.[pcms]
+ボクはかすむ視界の向こうで、マリーが大勢の男と[r]
+戦っている姿を見つけた。[pcms]
 
 ;//イベント絵使用する
 [evcg storage="EV008b"][trans_c cross time=300]
@@ -289,8 +291,8 @@ blurry vision.[pcms]
 *289|
 [fc]
 [vo_mar s="maru_BE0012"]
-[ns]Margarita[nse]
-"Haaaaaaah!"[pcms]
+[ns]マルガリータ[nse]
+「ハアアアァァァァァッ！」[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
@@ -301,50 +303,49 @@ blurry vision.[pcms]
 
 *290|
 [fc]
-I was despairing at the absolute difference in numbers they[r]
-had.[pcms]
+ボクはその数が起こす絶対的な戦力差に絶望していた。[pcms]
 
 *291|
 [fc]
-The men were trying to capture Marie alive.[pcms]
+男たちはマリーを生け捕りにしようとしている。[pcms]
 
 *292|
 [fc]
-If this continues...[pcms]
+このままじゃ……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *293|
 [fc]
 [vo_mar s="maru_BE0013"]
-[ns]Margarita[nse]
-"Wataru! Run away!"[pcms]
+[ns]マルガリータ[nse]
+「ワタルっ！　逃げろっ！」[pcms]
 
 *294|
 [fc]
-That's right, if I run away, Marie can also escape.[pcms]
+そうだ、ボクが逃げればマリーも逃げられる。[pcms]
 
 *295|
 [fc]
-All I can do now is run away.[pcms]
+今ボクにできることは逃げることだけ。[pcms]
 
 *296|
 [fc]
-That's the best choice for everyone's sake.[pcms]
+それが一番みんなの役に立つ選択だ。[pcms]
 
 *297|
 [fc]
-I started running as fast as I could so as not to hold Marie[r]
-back.[pcms]
+ボクはマリーの足を引っ張らないように、[r]
+一目散に駈けだしていた。[pcms]
 
 *298|
 [fc]
-I heard gunshots aimed at me several times, but I just kept[r]
-running wildly, desperately.[pcms]
+何度かボクを狙った銃声が聞こえたけれど、[r]
+がむしゃらに目茶苦茶にとにかく走り続けた。[pcms]
 
 *299|
 [fc]
-Where... where should I run to...[pcms]
+どこに……どこに逃げればいい……。[pcms]
 
 ;//--------------------------------------------------------------------
 ;//♂：申し訳ありませんが、このフラグがどこにあるのか覚えていません。

@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10040_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 ;//♂：背景リストに「ででっぽう」関連のものがありませんが、
 ;//シナリオの都合上、多数登場する場所ですので、あると仮定して貼っておきます。
@@ -18,38 +18,39 @@
 
 *191|
 [fc]
-Tadahiko's words echo in my head.[pcms]
+彦ちんの言葉が、頭の中で反芻される。[pcms]
 
 *192|
 [fc]
-[ns]Tadahiko[nse]
-"Put some spirit into it, Wataru."[pcms]
+[ns]忠彦[nse]
+「気合い入れろよ～、航」[pcms]
 
 *193|
 [fc]
-I felt a surge of energy coursing through my body.[pcms]
+ボクの身体に、力がみなぎってくるような気がした。[pcms]
 
 *194|
 [fc]
-[ns]Wataru[nse]
-"Tadahiko, please lend me your strength."[pcms]
+[ns]航[nse]
+「彦ちん、力を貸してください」[pcms]
 
 *195|
 [fc]
-Gripping the gun firmly in my hand, I murmured softly.[pcms]
+手元の銃をしっかりと握りしめて、[r]
+ボクは小さくつぶやいた。[pcms]
 
 *196|
 [fc]
-To me, Tadahiko was a symbol of strength.[pcms]
+ボクにとって、彦ちんは強さの象徴だった。[pcms]
 
 *197|
 [fc]
-His gun and words give me the power to protect my comrades.[pcms]
+その彦ちんの銃と言葉が、ボクに仲間を守る力を与えてくれる。[pcms]
 
 *198|
 [fc]
-[ns]Wataru[nse]
-"Alright, I'm pumped up."[pcms]
+[ns]航[nse]
+「よし、気合いが入った」[pcms]
 
 ;//★_LASER正面（夕）
 [bg storage="BG06b"][trans_c cross time=500]
@@ -57,31 +58,31 @@ His gun and words give me the power to protect my comrades.[pcms]
 
 *199|
 [fc]
-There's no sign of anyone near the entrance of LASER.[pcms]
+ＬＡＳＥＲの入り口付近には人の気配がない。[pcms]
 
 *200|
 [fc]
-The men who got off the truck seem to have all stormed into[r]
-LASER.[pcms]
+トラックから降りた男たちは、みんなＬＡＳＥＲの中に[r]
+突入したみたいだ。[pcms]
 
 *201|
 [fc]
-I thought there might be someone left in the truck, but it[r]
-was empty.[pcms]
+もしかしたら、トラックに人が残っているかもしれない[r]
+と思ったけれど、もぬけの殻だった。[pcms]
 
 *202|
 [fc]
-There's no lookout either.[pcms]
+見張りもいない。[pcms]
 
 *203|
 [fc]
-Peeking into LASER, I can hear the sounds of the men causing[r]
-a ruckus in the store.[pcms]
+ＬＡＳＥＲ内の様子をうかがうと、男たちが店舗の方で[r]
+暴れている音が聞こえてきた。[pcms]
 
 *204|
 [fc]
-This way, it seems possible to climb up to the floor where[r]
-everyone is.[pcms]
+これなら、みんなのいる上の階まで[r]
+のぼることができそうだ。[pcms]
 
 ;//★_１F内部の画像
 [bg storage="BG08f"][trans_c cross time=500]
@@ -89,25 +90,26 @@ everyone is.[pcms]
 
 *205|
 [fc]
-To avoid being spotted by the men, I head towards the[r]
-backyard used for staff breaks and storage, and from there,[r]
-I get on the service elevator.[pcms]
+男たちに見付からないように[r]
+店員が休憩したり、倉庫に使っているバックヤードに向かうと、[r]
+そこから搬入用エレベーターに乗り込む。[pcms]
 
 [bg storage="BG120"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
 
 *206|
 [fc]
-Let's go to Arcadia on the fifth floor.[pcms]
+これで五階のアルカディアまで行こう。[pcms]
 
 *207|
 [fc]
-I think there's a high chance that someone is there.[pcms]
+あそこに誰かがいる可能性は高いと思う。[pcms]
 
 *208|
 [fc]
-The frequently used and somewhat damaged elevator managed to[r]
-carry me to Arcadia without being spotted by the men.[pcms]
+頻繁な商品の運送であちこち傷ついているエレベーターは、[r]
+男たちに見付かることなく、アルカディアまで[r]
+ボクの身体を運んでくれた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -120,31 +122,33 @@ carry me to Arcadia without being spotted by the men.[pcms]
 
 *209|
 [fc]
-Exiting the elevator, there's the backyard of Arcadia.[pcms]
+エレベーターからでると、そこにはアルカディアの[r]
+バックヤードがある。[pcms]
 
 *210|
 [fc]
-As I step into the store, I hear someone's scream.[pcms]
+そのまま店舗の中に足を踏み入れると、[r]
+誰かの悲鳴が聞こえてきた。[pcms]
 
 *211|
 [fc]
-It's a girl.[pcms]
+女の子だ。[pcms]
 
 *212|
 [fc]
-I instinctively start running towards the sound.[pcms]
+ボクはとっさに、そちらへ駈けだしていく。[pcms]
 
 *213|
 [fc]
-I didn't know who it was, but it was a girl.[pcms]
+誰だかわからなかったけど、女の子だった。[pcms]
 
 *214|
 [fc]
-This is bad.[pcms]
+大変だ。[pcms]
 
 *215|
 [fc]
-I need to hurry.[pcms]
+早くしないと。[pcms]
 
 ;//次ファイルに情報引き継ぎ
 

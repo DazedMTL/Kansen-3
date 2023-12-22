@@ -18,152 +18,148 @@
 
 *4336|
 [fc]
-Let's head to the music room![pcms]
+音楽室へ向かおう！[pcms]
 
 *4337|
 [fc]
-After all, Ren is delicate and has limitations when it comes[r]
-to physical activities. I can't imagine we'd be able to[r]
-escape, no matter how slow they are.[pcms]
+なんと言っても漣はか弱いし、運動することに制限がある。[r]
+いくらヤツらの足が遅いからといって逃げおおせるとは思えない。[pcms]
 
 *4338|
 [fc]
-Considering the overwhelming numbers against us, the same[r]
-could be said for Yuuho, but at least she's faster than[r]
-Ren...[pcms]
+それは多勢に無勢という事を考えれば、悠帆にも[r]
+いえることだったけれども、漣よりは足も速い……。[pcms]
 
 *4339|
 [fc]
-Rather, she has better reflexes than me, so she should be[r]
-fine.[pcms]
+というよりボクより運動神経があるから大丈夫だろう。[pcms]
 
 *4340|
 [fc]
-Telling myself that as an excuse, I tried not to think about[r]
-Yuuho anymore and headed towards the music room.[pcms]
+そう自分に言い訳すると、もう悠帆のことは[r]
+考えないようにして、ボクは音楽室に向かった。[pcms]
 
 *4341|
 [fc]
-If I didn't, I felt like I would never be able to move.[pcms]
+そうでもなければ、いつまでも動けずにいそうだ。[pcms]
 
 *4342|
 [fc]
-With a determined spirit, I readjusted the bag on my back[r]
-and set out towards the special classrooms building.[pcms]
+意を決して背中の荷物を背負いなおすと、[r]
+ボクは特殊教室棟へと向かおうとした。[pcms]
 
 *4343|
 [fc]
-But--[pcms]
+でも――[pcms]
 
 *4344|
 [fc]
-Somehow, the bag on my back feels unusually heavy. Or[r]
-rather, it's awkward to readjust.[pcms]
+なんか、やけに背中の荷物が重い。[r]
+というより、背負いなおしにくい。[pcms]
 
 *4345|
 [fc]
 [vo_mob s="onna_iti0014"]
-[ns]Infected Woman A[nse]
-"Ufufufu..."[pcms]
+[ns]感染者・女Ａ[nse]
+「うふふふ……」[pcms]
 
 *4346|
 [fc]
-A woman's laughter sounded eerily close.[pcms]
+女の笑い声が存外に近く聞こえた。[pcms]
 
 *4347|
 [fc]
-With a chilling premonition, I turned my head slowly like an[r]
-old mechanical doll creaking as it moves.[pcms]
+ゾクリとする予感に、ボクはまるで古いからくり人形が[r]
+音を軋ませながら振り向くようにゆっくりと首を動かした。[pcms]
 
 *4348|
 [fc]
-[ns]Wataru[nse]
-"Whoa!"[pcms]
+[ns]航[nse]
+「うわっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4349|
 [fc]
 [vo_mob s="onna_iti0015"]
-[ns]Infected Woman A[nse]
-"Where are you going? Let's do something pleasurable[r]
-together."[pcms]
+[ns]感染者・女Ａ[nse]
+「どこに行くのぉ？　私と気持ちいいこと、しましょ」[pcms]
 
 *4350|
 [fc]
-[ns]Wataru[nse]
-"...You've got to be joking!!"[pcms]
+[ns]航[nse]
+「……じ、冗談じゃない！！」[pcms]
 
 *4351|
 [fc]
-I thought about dropping my bag right there and running[r]
-away.[pcms]
+荷物をその場に脱ぎ捨てるように置いてでも[r]
+逃げ出そうと思った。[pcms]
 
 *4352|
 [fc]
-But by the time I realized it, I had lost any chance of[r]
-escape.[pcms]
+けれど気がついた時には、ボクは逃げ場を失っていた。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_c"][ChrSetXY layer=5 x=174 y=0][trans_c cross time=150]
 
 *4353|
 [fc]
 [vo_mob s="onna2_0007"]
-[ns]Infected Woman C[nse]
-"Then, shall we do it?"[pcms]
+[ns]感染者・女Ｃ[nse]
+「それじゃ、私としましょ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
 *4354|
 [fc]
 [vo_mob s="onna_san0003"]
-[ns]Infected Woman D[nse]
-"Aaahhh, my pussy, my pussy, stir it with your dick,[r]
-pleaseee."[pcms]
+[ns]感染者・女Ｄ[nse]
+「はぁああんっ、私のおまんこ、私のおまんこぉぉ、[r]
+　おちんちんでかき混ぜてぇええん」[pcms]
 
 *4355|
 [fc]
-[ns]Wataru[nse]
-"No, no, stop it! Stopppp!!!"[pcms]
+[ns]航[nse]
+「だっ、だから、い、いやだ！　やめろぉぉぉ！！！」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4356|
 [fc]
 [vo_mob s="onna_iti0016"]
-[ns]Infected Woman A[nse]
-"Oh my. You're talking like a virgin."[pcms]
+[ns]感染者・女Ａ[nse]
+「いやん。処女みたいなこと言ってるわ」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_c"][ChrSetXY layer=5 x=174 y=0][trans_c cross time=150]
 
 *4357|
 [fc]
 [vo_mob s="onna2_0008"]
-[ns]Infected Woman C[nse]
-"So, a virgin dick? Nfuuh, a dick full of virgin semen."[pcms]
+[ns]感染者・女Ｃ[nse]
+「じゃあ童貞チンポ？　んふぅう、[r]
+　精液たっぷり童貞チンポ」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
 *4358|
 [fc]
 [vo_mob s="onna_san0004"]
-[ns]Infected Woman D[nse]
-"I'll squeeze every last drop out of you."[pcms]
+[ns]感染者・女Ｄ[nse]
+「一滴残らず絞りだしてあげるわ」[pcms]
 
 *4359|
 [fc]
-[ns]Wataru[nse]
-"Aaaaaaaaahhhhhhhhhhh!!!"[pcms]
+[ns]航[nse]
+「うわぁああああああああああっ！！」[pcms]
 
 *4360|
 [fc]
-My screams as I was forcefully pushed down in the hallway[r]
-were drowned out by the women's moans...[pcms]
+力任せに廊下に押し倒されたボクの悲鳴は、[r]
+女たちの嬌声の中に消えていく……。[pcms]
 
 *4361|
 [fc]
-With a soft female body covering my mouth and nose, my[r]
-consciousness was sealed into darkness.[pcms]
+ボクの口や鼻をふさぐ柔らかい女の体に、[r]
+ボクの意識は闇に閉ざされた。[pcms]
 
 ;//〆：ゲームオーバー画面へ
 ;//jump：ブロック●●●●●
@@ -172,5 +168,5 @@ consciousness was sealed into darkness.[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

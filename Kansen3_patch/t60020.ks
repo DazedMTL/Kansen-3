@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//
 ;//※このＴ６００２０はさよなら悠帆から突入します。
 ;//---------------------------------------------------------------
@@ -25,237 +25,231 @@
 
 *7337|
 [fc]
-I rushed into the DJ bar, panting, after receiving the news.[pcms]
+知らせを受けたボクは息せき切ってＤＪバーに駆け込んだ。[pcms]
 
 *7338|
 [fc]
-Everyone was already gathered, silently engrossed in the[r]
-television.[pcms]
+みんなは既に集まっていて、無言でテレビに見入っている。[pcms]
 
 *7339|
 [fc]
-The usual male announcer was on the screen, but his[r]
-expression was stiff with fear, and he was sweating[r]
-profusely...[pcms]
+画面にはいつもの男性アナウンサーが映っていたけれど、[r]
+その表情は恐怖に強張り、脂汗を流している……。[pcms]
 
 *7340|
 [fc]
-What's going on? What's happening...!?[pcms]
+何だ？　何が起こってる……！？[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7341|
 [fc]
-[ns]Father[nse]
-"...I will repeat the information, please listen! This is a[r]
-shelter in Mouse Kingdom!"[pcms]
+[ns]父[nse]
+「……情報を繰り返し、お伝えします！[r]
+　こちら、ネズミーキングダムの避難所です！」[pcms]
 
 *7342|
 [fc]
-It's Dad! He was in the middle of a live broadcast.[pcms]
+父さんだ！[r]
+音声中継の最中だったのか。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7343|
 [fc]
-[ns]Father[nse]
-"At last, an infection by UNKNOWN-LV4 has occurred in this[r]
-shelter!"[pcms]
+[ns]父[nse]
+「とうとう、この避難所にも[r]
+　ＵＮＫＮＯＷＮ－ＬＶ４による感染者が発生いたしました！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7344|
 [fc]
 [vo_ren s="ren_T0054"]
-[ns]Ren[nse]
-"Eh!? O...Dad!?"[pcms]
+[ns]漣[nse]
+「えっ！？　お……お父さん！？」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *7345|
 [fc]
-Ren let out a scream and nearly collapsed.[pcms]
+漣が悲鳴を放ち、ふらっと倒れかかる。[pcms]
 
 *7346|
 [fc]
-I suppressed my own urge to shout and supported Ren,[r]
-desperately listening to the voice coming from the TV.[pcms]
+ボクも叫び出したいのをこらえて漣を支え、[r]
+テレビから流れ出す音声に、必死に耳を傾ける。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7347|
 [fc]
-[ns]Father[nse]
-"The initial confirmation of the infected was delayed, and[r]
-we failed to secure the facility. The number has rapidly[r]
-increased, and now almost everyone in the facility has[r]
-turned into an infected!"[pcms]
+[ns]父[nse]
+「最初の感染者の確認が遅れ、施設内の封鎖に失敗したことから、[r]
+　その数は急激に増大し、いまや施設にいた人間のほぼ全てが[r]
+　感染者と化しています！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7348|
 [fc]
-[ns]Father[nse]
-"Currently, the survivors have barricaded themselves inside[r]
-the facility and are waiting for rescue from the Self-[r]
-Defense Forces, but we can't communicate with each other![r]
-Immediate rescue is desperately needed!!"[pcms]
+[ns]父[nse]
+「現在、生き残った人々は施設内に立てこもり、[r]
+　自衛隊の救援を待っていますが、お互いに連絡はとれません！[r]
+　一刻も早い救助が待たれます！！」[pcms]
 
 *7349|
 [fc]
-The content was terrifying, and Dad's voice was quite tense,[r]
-but he spoke calmly and composedly.[pcms]
+恐ろしい内容だったし、父さんの声はかなり緊迫していたけれど、[r]
+話しぶりは冷静で、落ち着いたものだった。[pcms]
 
 *7350|
 [fc]
-Maybe Dad is the only one who managed to hide somewhere out[r]
-of their reach...[pcms]
+もしかしたら父さんだけは、[r]
+うまくヤツラの手の届かないところに隠れているのかも……。[pcms]
 
 *7351|
 [fc]
-[ns]Announcer[nse]
-"Mr. Ayase. Where are you right now?"[pcms]
+[ns]アナウンサー[nse]
+「綾瀬さん。今はどちらにいらっしゃるのですか？」[pcms]
 
 *7352|
 [fc]
-The announcer seemed to regain his composure after hearing[r]
-Dad's voice and began to speak.[pcms]
+父さんの声にようやく落ち着きを取り戻したのか[r]
+アナウンサーが語りかけ始めた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7353|
 [fc]
-[ns]Father[nse]
-"I'm at the press center inside the facility! This room is[r]
-prepared for journalists from various companies, and the[r]
-gathered reporters are exchanging information while planning[r]
-their next steps..."[pcms]
+[ns]父[nse]
+「施設内の取材センターです！[r]
+　ここは、各社の取材記者に用意された部屋で、[r]
+　集まった記者たちは情報交換を行いながら今後の対応を……」[pcms]
 
 *7354|
 [fc]
-Suddenly, Dad's voice cut off, followed by sounds like[r]
-something breaking one after another.[pcms]
+不意に父さんの声が途切れたかと思うと、[r]
+何かが割れるような音が立て続けに聞こえてきた。[pcms]
 
 *7355|
 [fc]
-[ns]Announcer[nse]
-"Mr. Ayase?"[pcms]
+[ns]アナウンサー[nse]
+「綾瀬さん？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7356|
 [fc]
-[ns]Father[nse]
-"...I'm sorry! That's all for my report! This was from a[r]
-shelter in Mouse Kingdom!"[pcms]
+[ns]父[nse]
+「……すみません！　レポートは以上です！[r]
+　ネズミーキングダムの避難所からお伝えしました！」[pcms]
 
 *7357|
 [fc]
-[ns]Announcer[nse]
-"Mr. Ayase!? What happened, Mr. Ayase!?"[pcms]
+[ns]アナウンサー[nse]
+「綾瀬さん！？　どうしましたか、綾瀬さんっ！？」[pcms]
 
 *7358|
 [fc]
-Sounds of objects colliding and men shouting at each other[r]
-could be heard behind the live audio.[pcms]
+物がぶつかる音や男の人が怒鳴りあう声が[r]
+中継音声の背後に聞こえている。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7359|
 [fc]
-[ns]Father[nse]
-"...Yamazaki-san. From here on is not a report, but a[r]
-personal message. I apologize in advance for using public[r]
-airwaves!"[pcms]
+[ns]父[nse]
+「……山崎アナ。ここから先はレポートでなく、私信です。[r]
+　公共の電波をお借りすることを、先にお詫びします！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7360|
 [fc]
-[ns]Father[nse]
-"...Wataru, Ren, are you listening?"[pcms]
+[ns]父[nse]
+「……航、漣、聞いてるか？」[pcms]
 
 *7361|
 [fc]
-His tone changed drastically... It was Dad's usual voice for[r]
-family, not his professional one.[pcms]
+ガラリと口調が変わった……。[r]
+職業用でなく家族用の、いつもの父さんの声が流れてくる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7362|
 [fc]
 [vo_ren s="ren_T0055"]
-[ns]Ren[nse]
-"...D...Dad!"[pcms]
+[ns]漣[nse]
+「……お、お父さんっ！」[pcms]
 
 [chara_int][trans_c cross time=150]
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7363|
 [fc]
-[ns]Father[nse]
-"The door to the press center will be broken soon... I said[r]
-I would come to get you, but it looks like I won't be able[r]
-to keep that promise... Ren... I'm sorry... Wataru, take[r]
-care of Ren for me..."[pcms]
+[ns]父[nse]
+「取材センターのドアが、もうすぐ破られる……。[r]
+　迎えに行くって言ったのに、約束、守れそうにない……。[r]
+　漣……ごめんな……。航、漣のこと頼んだぞ……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *7364|
 [fc]
-[ns]Father[nse]
-"And then..."[pcms]
+[ns]父[nse]
+「それから…………」[pcms]
 
 *7365|
 [fc]
-Behind Dad's voice, everyone was screaming. There were cries[r]
-and shouts, and voices saying "They're inside!!"[pcms]
+父さんの声の後ろで、誰もかれもが叫んでいる。[r]
+悲鳴と怒号、そして『奴らが中に！！』の声……。[pcms]
 
 *7366|
 [fc]
-Suddenly, all too abruptly, the live audio cut off with a[r]
-"click."[pcms]
+不意に。あまりにも突然に。[r]
+『ブツッ』と音を立てて中継音声が切れた。[pcms]
 
 *7367|
 [fc]
-[ns]Announcer[nse]
-"Mr. Ayase... Mr. Ayase senpaaaahhhhhhhhhhh!"[pcms]
+[ns]アナウンサー[nse]
+「綾瀬さん……綾瀬せんぱああぁぁーーーーいいっっ！？」[pcms]
 
 *7368|
 [fc]
-The announcer screamed, throwing away all sense of[r]
-professionalism...[pcms]
+プロ意識も何もかもかなぐり捨てたアナウンサーが絶叫した……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7369|
 [fc]
 [vo_ren s="ren_T0056"]
-[ns]Ren[nse]
-"Dad! Dad, Daaaaaad! Noooooooohhhhhhhhhhhhh!!!"[pcms]
+[ns]漣[nse]
+「お父さん！　お父さんっ、お父さぁあぁぁぁんっ！[r]
+　いっ、いやあああぁぁぁぁーーーーーーーーっ！！！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *7370|
 [fc]
-Ren stretched her arms towards the TV screen and continued[r]
-to struggle within my arms.[pcms]
+漣はテレビ画面に向かって腕を伸ばし、[r]
+ボクの腕の中で、もがき続ける。[pcms]
 
 *7371|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「…………漣…………」[pcms]
 
 *7372|
 [fc]
-While holding her thrashing body, I was speechless with[r]
-shock...[pcms]
+暴れる身体を抱きしめながら、[r]
+あまりのことに茫然として、言葉がない……。[pcms]
 
 ;//〆あればドームの翳った差分
 
 *7373|
 [fc]
-Suddenly, the inside of the dome darkened.[pcms]
+と、不意にドームの中が翳った。[pcms]
 
 [evcg storage="EV500a"][trans_c cross time=300]
 [evcg storage="EV500a"][trans_c cross time=300]
@@ -268,8 +262,8 @@ Suddenly, the inside of the dome darkened.[pcms]
 *7374|
 [fc]
 [vo_miz s="mizuki_T0032"]
-[ns]Mizuki[nse]
-"...huh...!? What's that...?"[pcms]
+[ns]瑞樹[nse]
+「……ひっ……！？　な、何なの……？」[pcms]
 
 ;//★Ｔ６０００１０の流用です。
 
@@ -277,8 +271,9 @@ Suddenly, the inside of the dome darkened.[pcms]
 
 *7375|
 [fc]
-A flock of crows covered the sky. The living black cloud[r]
-swarmed and swept over Shibuya's sky like an avalanche...[pcms]
+見ると、カラスの群れが空を覆い尽くしている。[r]
+その黒く蠢く生きた雲は、[r]
+雪崩をうって渋谷の空を埋め、席巻していく……。[pcms]
 
 [bg storage="BG019b"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
@@ -288,8 +283,8 @@ swarmed and swept over Shibuya's sky like an avalanche...[pcms]
 *7376|
 [fc]
 [vo_mar s="maru_T0039"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「……………………」[pcms]
 ;//＠茫然
 ;//★Ｔ６０００１０の流用です
 
@@ -298,30 +293,30 @@ swarmed and swept over Shibuya's sky like an avalanche...[pcms]
 
 *7377|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……………………」[pcms]
 
 *7378|
 [fc]
-It's over... Everything has come to an end...[pcms]
+終わりだ……。何もかも、終わってしまったんだ……。[pcms]
 
 *7379|
 [fc]
-Yuuho and Dad are gone... One by one, the people important[r]
-to me are leaving...[pcms]
+悠帆も、父さんも、いなくなってしまった……。[r]
+大切な人が、次々とボクの前から去っていく…………。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7380|
 [fc]
 [vo_ren s="ren_T0057"]
-[ns]Ren[nse]
-"Uh, uhh...uhhhhhhhh..."[pcms]
+[ns]漣[nse]
+「うっ、う……うううぅぅ、ううぅぅーーーっ……」[pcms]
 
 *7381|
 [fc]
-While holding Ren as she sobbed, I too was captured by a[r]
-deep despair...[pcms]
+嗚咽する漣を抱きしめながら、[r]
+ボクもまた深い絶望に囚われていった……。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

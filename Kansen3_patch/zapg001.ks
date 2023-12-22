@@ -26,150 +26,157 @@
 
 *4003|
 [fc]
-[ns]Jin[nse]
-"I'm getting tired of beer..."[pcms]
+[ns]壬[nse]
+「ビールもいい加減飽きたな……」[pcms]
 
 *4004|
 [fc]
-Tossing aside the half-finished bottle, he stood up from his[r]
-chair to look for the next drink.[pcms]
+飲みかけの瓶を放り投げ、次の酒を物色する為、[r]
+椅子から起き上がった。[pcms]
 
 *4005|
 [fc]
-[ns]Jin[nse]
-"Next... maybe I'll try whiskey... huh? Shige?"[pcms]
+[ns]壬[nse]
+「次は……ウィスキーでもやってみるか……ん？[r]
+　シゲ？」[pcms]
 
 *4006|
 [fc]
-As he was searching through the shelves of liquor, he felt a[r]
-presence behind him and turned around to find Shigeyoshi[r]
-standing there.[pcms]
+酒の陳列された棚を物色していると、背中に気配を感じ、[r]
+振り返るとそこにはシゲが立っていた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4007|
 [fc]
-[ns]Shigeyoshi[nse]
-"...Aniki, I want to go back there."[pcms]
+[ns]重吉[nse]
+「……アニキ、俺は[ruby text="セレスタワー"][ch text="あそこ"]に戻らしてもらう」[pcms]
 
 *4008|
 [fc]
-[ns]Jin[nse]
-"...I see."[pcms]
+[ns]壬[nse]
+「……そうか」[pcms]
 
 *4009|
 [fc]
-Jin and Shige stood across the bar counter from each other,[r]
-like a bartender and a customer, silently staring at each[r]
-other.[pcms]
+俺とシゲは、バーカウンターを挟み、まるでバーテンと客の様な[r]
+位置に立ち、無言で見つめ合った。[pcms]
 
 *4010|
 [fc]
-After a moment of silence, it was Shige who spoke first.[pcms]
+しばらくの沈黙のあと、先に口を開いたのはシゲの方だった。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4011|
 [fc]
-[ns]Shigeyoshi[nse]
-"I know Aniki only joined the yakuza because you had no[r]
-other choice and climbed the ranks, even if reluctantly. But[r]
-I'm different."[pcms]
+[ns]重吉[nse]
+「アニキは元々、仕方なく極道に入ったってのは知ってる。[r]
+　そして、嫌々かもしれないけど、のし上がった。[r]
+　けど、俺は違う」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4012|
 [fc]
-[ns]Shigeyoshi[nse]
-"As you know, I'm an idiot and a piece of trash. If Aniki[r]
-hadn't picked me up, I wouldn't even know where I'd have[r]
-dropped dead. The only life I can live now is in the[r]
-yakuza..."[pcms]
+[ns]重吉[nse]
+「俺は知っての通りバカだし、クズだしよ。アニキに拾って[r]
+　貰わなかったら、どこでのたれ死んでたもわからねえ。[r]
+　今の俺は、極道でしか生きていけねぇんだよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4013|
 [fc]
-[ns]Shigeyoshi[nse]
-"Life here is too well-mannered for me, it's suffocating.[r]
-And... even if Aniki doesn't want to admit it, I'm worried[r]
-about the young ones we left behind."[pcms]
+[ns]重吉[nse]
+「ここの生活は、俺にはお行儀が良すぎて、窮屈だ。[r]
+　それに……アニキは知らねぇって言うが、置いて来ちまった[r]
+　若い奴らの事も気になるんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4014|
 [fc]
-[ns]Shigeyoshi[nse]
-"Aniki, I'll say it again. Come back with me... to Celesta[r]
-Tower."[pcms]
+[ns]重吉[nse]
+「アニキ、もう一回言う。俺と一緒に……。[r]
+　セレスタワーに戻ってくれねぇか」[pcms]
 
 *4015|
 [fc]
-... Shige has become quite thoughtful.[pcms]
+…………。[r]
+シゲも考えるようにはなったモンだな。[pcms]
 
 *4016|
 [fc]
-...[pcms]
+…………。[r]
+……。[pcms]
 
 *4017|
 [fc]
-But as for me...[pcms]
+だが、俺は……。[pcms]
 
 *4018|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4019|
 [fc]
-[ns]Shigeyoshi[nse]
-"...I see. Well then, Aniki... no, Mr. Jin."[pcms]
+[ns]重吉[nse]
+「…………そうか。じゃあな、アニキ……。[r]
+　いや、壬さん」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *4020|
 [fc]
-Shige, perhaps expecting a response from me, turned his back[r]
-and stopped after taking a few steps.[pcms]
+シゲは、俺の返事に期待しているのか、俺に背を向け、[r]
+そのまま数歩進んだ場所で立ち止まった。[pcms]
 
 *4021|
 [fc]
-Mr. Jin, huh? He used to call me "Mr. Jin" at first too.[pcms]
+壬さん、か。[r]
+コイツも最初は、俺の事『壬さん』って呼んでたな。[pcms]
 
 *4022|
 [fc]
-Nostalgic, but now our worlds are different. You are yakuza.[pcms]
+懐かしいが、もう俺とお前は生きる世界が違うんだ。[r]
+お前は極道。[pcms]
 
 *4023|
 [fc]
-I am... What am I...?[pcms]
+俺は……。[r]
+俺は一体何者なんだ……。[pcms]
 
 *4024|
 [fc]
-I can't get my thoughts together. ...What a pain.[pcms]
+考えがまとまらない。[r]
+……めんどくせぇ。[pcms]
 
 *4025|
 [fc]
-Shige and I are going to live in different worlds from now[r]
-on. That's all there is to it.[pcms]
+俺とシゲは生きる世界がこれから変わる。[r]
+ただそれだけだ。[pcms]
 
 *4026|
 [fc]
-[ns]Jin[nse]
-"Shige! You're just rough around the edges, not trash. Don't[r]
-you forget that. Take care."[pcms]
+[ns]壬[nse]
+「シゲ！　オメェはガサツなだけでクズなんかじゃねぇ。[r]
+　それだけは忘れんなよ。[r]
+　達者でな」[pcms]
 
 *4027|
 [fc]
-Hearing the words "Take care," Shige left the room without[r]
-looking back.[pcms]
+『達者でな』の声を聞いたシゲは、そのまま振り返りもせず、[r]
+部屋を出て行った。[pcms]
 
 *4028|
 [fc]
-That's not like me. "Take care," huh...[pcms]
+俺らしくねぇな。[r]
+『達者でな』か……。[pcms]
 
 ;[zapend_random]
 [zapfade]

@@ -6,7 +6,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：;//〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）朝
+;//・時間：５日目（８月１９日）朝～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：
@@ -24,26 +24,26 @@
 
 *318|
 [fc]
-Ren crouches down in front of me.[pcms]
+自分の前に屈みこむ漣。[pcms]
 
 *319|
 [fc]
-What is she going to do? I wondered, puzzled, at that[r]
-moment.[pcms]
+何をするのか。[r]
+不可解に思った、その瞬間だった。[pcms]
 
 *320|
 [fc]
-[ns]Wataru[nse]
-"Uh... Ren... that is..."[pcms]
+[ns]航[nse]
+「う………れ、漣……そ、それは………」[pcms]
 
 *321|
 [fc]
-With a mischievous smile, she clung to my crotch without[r]
-saying a word.[pcms]
+妖しく微笑んだかと思うと、[r]
+何も言わずボクの股間にすがりついてきたではないか。[pcms]
 
 *322|
 [fc]
-She unzipped me and exposed my swollen dick.[pcms]
+チャックを開き、中で大きく膨らんだそれを露出させる。[pcms]
 
 ;//★下記、６ワードほど、７００７０からのコピーです
 ;//★コピー
@@ -53,91 +53,89 @@ She unzipped me and exposed my swollen dick.[pcms]
 *323|
 [fc]
 [vo_ren s="ren_RK0070"]
-[ns]Ren[nse]
-"...Big brother, you're waiting for me, right...?"[pcms]
+[ns]漣[nse]
+「……お兄ちゃん、待っててねぇ……？」[pcms]
 
 ;//Ａ：航のペニスを取り出す漣
 [evcg storage="HEV060j"][trans_c cross time=300]
 
 *324|
 [fc]
-I was surprised myself. My dick was already swollen to the[r]
-point of bursting.[pcms]
+自分でも驚いていた。[r]
+一物が、既にはちきれんばかりに膨らんでいる。[pcms]
 
 *325|
 [fc]
-It was standing erect, pointing to the heavens.[pcms]
+大きく反り返り、天を衝いている。[pcms]
 
 *326|
 [fc]
-Then, suddenly, Ren wrapped her slender fingers around the[r]
-tip of my dick.[pcms]
+と、いきなり漣がその細い指を[r]
+亀頭に絡みつかせてきた。[pcms]
 
 *327|
 [fc]
-With her other hand at the base, she began to slowly rub up[r]
-to the head.[pcms]
+もう一方の手を根元に添えられ、[r]
+亀頭までをゆっくり擦り始める。[pcms]
 
 *328|
 [fc]
-[ns]Wataru[nse]
-"Ah...! ...Ren...?"[pcms]
+[ns]航[nse]
+「うあっ……！　……れ、漣……？」[pcms]
 
 *329|
 [fc]
-Seeing the change in my expression, Ren was clearly enjoying[r]
-herself.[pcms]
+ボクの表情の変化を見て、漣は明らかに楽しんでいた。[pcms]
 
 *330|
 [fc]
-Staring at me with an ecstatic expression, I gasped for[r]
-breath.[pcms]
+恍惚とした表情で見詰められ、ボクは息を呑む。[pcms]
 
 *331|
 [fc]
-Ren just swallowed and made a gulping sound with that same[r]
-expression.[pcms]
+漣は、そのままの表情で喉をごくりと鳴らす。[pcms]
 
 ;//★コピー
 
 *332|
 [fc]
 [vo_ren s="ren_RK0071"]
-[ns]Ren[nse]
-"Nfufufufu...! Big brother's cock... it's so big... It's[r]
-gotten really hard, hasn't it...? It's twitching..."[pcms]
+[ns]漣[nse]
+「んふふふふふ……っ！[r]
+　お兄ちゃんの、おちんちん……、こんなおっきいんだぁ……。[r]
+　すっごく固くなってるね……？　ピクピクしてるぅぅ……」[pcms]
 
 ;//★コピー
 
 *333|
 [fc]
 [vo_ren s="ren_RK0072"]
-[ns]Ren[nse]
-"What do you want me to do with this...? Should I cherish[r]
-it? Or maybe...? Kufufufufu..."[pcms]
+[ns]漣[nse]
+「これ……どうしてほしいのぉぉ？[r]
+　可愛がればいい？　それとも……？　くふふふふふふっ」[pcms]
 
 *334|
 [fc]
-[ns]Wataru[nse]
-"Ah...! Ugh..."[pcms]
+[ns]航[nse]
+「あ……っ！　うぅ……」[pcms]
 
 *335|
 [fc]
-I tried to speak properly, but I couldn't answer.[pcms]
+うまく喋ろうとするものの、答えられない。[pcms]
 
 *336|
 [fc]
-All I could do with my confused mind was try to make sense[r]
-of the situation.[pcms]
+混乱した頭で、状況を整理するだけで精一杯だ。[pcms]
 
 ;//★コピー
 
 *337|
 [fc]
 [vo_ren s="ren_RK0073"]
-[ns]Ren[nse]
-"My cute, cute big brother... I love you so much, big[r]
-brother... I'll do whatever you desire..."[pcms]
+[ns]漣[nse]
+「可愛い可愛いお兄ちゃぁぁん……。[r]
+　だぁぁぁい好きな、お兄ちゃん……。[r]
+　お兄ちゃんの望むままに……して、あげるぅぅ……」[pcms]
 
 ;//Ｂ：ペニスを銜える漣
 [evcg storage="HEV060b"][trans_c cross time=300]
@@ -146,23 +144,24 @@ brother... I'll do whatever you desire..."[pcms]
 *338|
 [fc]
 [vo_ren s="ren_RK0074"]
-[ns]Ren[nse]
-"...Mmm, mmm...hmph! Mmm, mmmmm, amm...mmm!!"[pcms]
+[ns]漣[nse]
+「……んっ、むぅぅぅ……はむんっ！[r]
+　ん、んむぅんんんっ、あむむ……んんっ！！」[pcms]
 
 *339|
 [fc]
-[ns]Wataru[nse]
-"Ugh...!? Ren...! Stop it..."[pcms]
+[ns]航[nse]
+「ううっ……！？[r]
+　れ、漣っ……！　駄目だっ……」[pcms]
 
 *340|
 [fc]
-I reached out to stop her, but it was too late. My penis was[r]
-being swallowed by Ren's small mouth.[pcms]
+手を伸ばして制止しようとしたが、遅かった。[r]
+漣の、小さな口に自分のペニスが呑み込まれて行く。[pcms]
 
 *341|
 [fc]
-The overwhelming stimulation made me moan involuntarily and[r]
-my knees shook violently.[pcms]
+あまりの刺激に、思わず喘ぎ、膝をガクガクと震わせる。[pcms]
 
 ;//★コピー
 
@@ -171,20 +170,20 @@ my knees shook violently.[pcms]
 *342|
 [fc]
 [vo_ren s="ren_RK0075"]
-[ns]Ren[nse]
-"Mmmnn, mmmahhh!! ...How is it? Do you like a girl's mouth?[r]
-Big brother, you've never had this done to you before,[r]
-right?"[pcms]
+[ns]漣[nse]
+「んむぅんっ、んぱあぁぁっ！！[r]
+　……どう？　女の子のおくち……、気に入った？[r]
+　お兄ちゃん、こんなの、されたことないでしょぉ？」[pcms]
 
 *343|
 [fc]
-[ns]Wataru[nse]
-"That kind of thing... there's no way I have..."[pcms]
+[ns]航[nse]
+「そ、そんなの……あるはず、ないって……」[pcms]
 
 *344|
 [fc]
-[ns]Wataru[nse]
-"Guh...ahhhhh~!!"[pcms]
+[ns]航[nse]
+「くっ……うあぁあ～っ！！」[pcms]
 
 ;//Ｃ：口の中に射精される漣（Ｂの液差分）
 ;//ホワイトフラッシュ
@@ -193,39 +192,40 @@ right?"[pcms]
 
 *345|
 [fc]
-Throb!! Throb, throb...![pcms]
+ドクッ！！　ドクッ、ドク……！[pcms]
 
 
 *346|
 [fc]
-Even though it wasn't my first ejaculation, I didn't[r]
-understand what had happened.[pcms]
+射精が初めてではないボクにも、[r]
+何が起こったのか分からなかった。[pcms]
 
 *347|
 [fc]
-I had reached climax all too easily from the pleasure of my[r]
-first blowjob.[pcms]
+始めて受けたフェラチオの悦楽に、[r]
+あっけなく絶頂に達してしまった。[pcms]
 
 *348|
 [fc]
-That's when I realized I had reached my limit.[pcms]
+そこで、自分が限界まで達していた事を知った。[pcms]
 
 *349|
 [fc]
 [vo_ren s="ren_RK0076"]
-[ns]Ren[nse]
-"Nbuuuuh!?"[pcms]
+[ns]漣[nse]
+「んぶぅぅぅっ！？」[pcms]
 
 *350|
 [fc]
-Milky liquid leaked from Ren's mouth. I had ejaculated[r]
-inside my sister's mouth.[pcms]
+漣の口から、白濁液が漏れだす。[r]
+自分は、妹の口の中に射精してしまった。[pcms]
 
 *351|
 [fc]
-[ns]Wataru[nse]
-"Such a feeling... I've never done anything like this...[r]
-Ren...! You too...ugh! Ahh!!"[pcms]
+[ns]航[nse]
+「こ、こんな……き、気持ち…いいの…[r]
+　した事……な、ないよっ……！[r]
+　れ、漣っ………！　お前だって……ううっ！　あぁ！！」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -238,51 +238,53 @@ Ren...! You too...ugh! Ahh!!"[pcms]
 
 *352|
 [fc]
-Throb! Throb![pcms]
+ドクッ！　ドクッ！[pcms]
 
 *353|
 [fc]
-The ejaculation wasn't over yet. The sheer pleasure caused[r]
-the remaining semen in my urethra to spurt out.[pcms]
+まだ射精は終わっていなかった。[r]
+あまりの気持ち良さに、尿道に残っていた精液が噴出する。[pcms]
 
 *354|
 [fc]
-My semen was violating Ren's mouth...my sister's mouth.[pcms]
+自分の精液が妹の……漣の口を犯してゆく。[pcms]
 
 *355|
 [fc]
-The milky liquid entwined with Ren's tongue and filled her[r]
-mouth completely, not satisfied with just that.[pcms]
+白濁液が漣の舌に絡み付き、[r]
+それだけでは飽き足らず口内を満たし尽くす。[pcms]
 
 *356|
 [fc]
 [vo_ren s="ren_RK0077"]
-[ns]Ren[nse]
-"Nngk, nngk, gulp...mm, mmp...uuu... Big brother's semen..."[pcms]
+[ns]漣[nse]
+「んっく、んくっ、ごくんっ……ん、んっぷ……ぅぅぅ……。[r]
+　おにぃひゃんのぉぉ……んんっ、せーひぃぃ……」[pcms]
 ;//＠後半「お兄ちゃんの精子」です
 
 *357|
 [fc]
-With an ecstatic expression, Ren looked at me.[pcms]
+恍惚とした表情で、漣がこちらを見つめてくる。[pcms]
 
 *358|
 [fc]
-While her slurred speech due to excitement continued, Ren[r]
-caught everything I released with her mouth.[pcms]
+興奮のため呂律が回らない口を動かしながら、[r]
+ボクの放った全てをその口で受け止める漣。[pcms]
 
 *359|
 [fc]
 [vo_ren s="ren_RK0078"]
-[ns]Ren[nse]
-"Nngk, gulp, it's getting thicker, slurp... like ramen[r]
-broth. I'll suck on the tip for you..."[pcms]
+[ns]漣[nse]
+「んくっ、ごくんっ、まら、れてくるぅぅ、んちゅるっ……、[r]
+　おつゆ……らーめんの、おつゆぅぅ……。[r]
+　先っぽ、ちゅうちゅう、してあげるぅぅ……ん」[pcms]
 ;//＠「まだ出てくる」「ザーメンのおつゆ」です。
 
 *360|
 [fc]
 [vo_ren s="ren_RK0079"]
-[ns]Ren[nse]
-"Mmm...pff..."[pcms]
+[ns]漣[nse]
+「ん……っ、ぷふぅ……」[pcms]
 ;//＠満足そうなためいき
 
 ;//Ｄ：口内の精液を見せつける漣
@@ -291,48 +293,49 @@ broth. I'll suck on the tip for you..."[pcms]
 *361|
 [fc]
 [vo_ren s="ren_RK0080"]
-[ns]Ren[nse]
-"Hey hey, look? Look here..."[pcms]
+[ns]漣[nse]
+「ねぇねぇ、見てぇぇ？　ほらあぁ……」[pcms]
 
 *362|
 [fc]
 [vo_ren s="ren_RK0081"]
-[ns]Ren[nse]
-"This is big brother's semen... It's really thick and gooey,[r]
-isn't it?"[pcms]
+[ns]漣[nse]
+「お兄ちゃんの、ザーメンだよぉぉ？[r]
+　……すっごく濃くって、ドロドロだよぉ？」[pcms]
 
 *363|
 [fc]
-Showcasing her tongue entangled with the sticky fluid, Ren[r]
-opened her mouth wide and spoke slowly.[pcms]
+ネバついた汁に絡みつかれた舌を見せ付けるように、[r]
+大きく口を開いてゆっくり喋る漣。[pcms]
 
 *364|
 [fc]
-With an expression as if she were savoring something[r]
-exquisite, she rolled her tongue as if to thoroughly enjoy[r]
-the taste.[pcms]
+高貴なものを味わっているような恍惚とした表情で、[r]
+じっくり味わうかのように、舌を回している。[pcms]
 
 *365|
 [fc]
 [vo_ren s="ren_RK0082"]
-[ns]Ren[nse]
-"It's thick and bitter and fishy...kufufu? But you know, to[r]
-me, it tastes really good..."[pcms]
+[ns]漣[nse]
+「とろ～っとしてて、苦くて、生臭～いのぉ……くふふふっ？[r]
+　でもね、私には、すっごく、美味しいんだ～ぁ……」[pcms]
 
 *366|
 [fc]
-[ns]Wataru[nse]
-"Tastes good...you say? Ren...? My semen does...?"[pcms]
+[ns]航[nse]
+「お、美味しい……だって？[r]
+　れ、漣……？[r]
+　ボクの精液が……？」[pcms]
 
 *367|
 [fc]
-Every time Ren moved her tongue, a lewd squelching sound[r]
-echoed.[pcms]
+漣が舌を動かす度、くちゃくちゃと[r]
+いやらしい音が響く。[pcms]
 
 *368|
 [fc]
-I gasped and looked at Ren's face. It was filled with[r]
-indescribable joy, Ren's face...[pcms]
+はっ、となって漣の顔を見た。[r]
+例えようもない喜びに満ちている、漣の顔を……。[pcms]
 
 ;//Ｅ：飲み干す漣
 [evcg storage="HEV060e"][trans_c cross time=300]
@@ -342,256 +345,259 @@ indescribable joy, Ren's face...[pcms]
 *369|
 [fc]
 [vo_ren s="ren_RK0083"]
-[ns]Ren[nse]
-"Nngk...gulp..."[pcms]
+[ns]漣[nse]
+「んっく……こくん……っ」[pcms]
 
 *370|
 [fc]
-Gulping down, Ren swallowed my semen...[pcms]
+喉を鳴らし、漣が精液を飲み込んでいく。[r]
+ボクの精液を……。[pcms]
 
 *371|
 [fc]
-Lifting her face slightly, Ren showed me her moving throat.[r]
-I just stared, transfixed.[pcms]
+少し顔を上げて、漣が動く喉を見せ付ける。[r]
+ボクはただ、見入っていた。[pcms]
 
 ;//Ｆ：飲み終わったことを見せる漣（Ｄの液無し）
 [evcg storage="HEV060l"][trans_c cross time=300]
 
 *372|
 [fc]
-Finally, she licked the milky fluid that clung to her lips[r]
-and brought it into her mouth with her tongue.[pcms]
+最後に唇に絡み付いていた白濁液を[r]
+ペロリ、と舌で舐め取り口の中に運んでいく。[pcms]
 
 *373|
 [fc]
 [vo_ren s="ren_RK0084"]
-[ns]Ren[nse]
-"Cough!... It got stuck in my throat a little... But I tried[r]
-hard and swallowed it, you know? It's really[r]
-delicious...kyahaha!"[pcms]
+[ns]漣[nse]
+「けほんっ！…………ちょっと喉にひっかかっちゃったぁ……。[r]
+　でも、頑張って、飲んだんだよぉ？[r]
+　すっごく美味しい……きゃははははっ！」[pcms]
 
 *374|
 [fc]
-This isn't the usual little sister I know. I'm aware of[r]
-that.[pcms]
+いつもの妹じゃない。[r]
+それは分かっている。[pcms]
 
 *375|
 [fc]
-But without a doubt, she's my sister... Ren.[pcms]
+でも、間違いなくボクの妹……漣なんだ。[pcms]
 
 *376|
 [fc]
-[ns]Wataru[nse]
-"Re, Ren...you..."[pcms]
+[ns]航[nse]
+「れ、漣……お前っ」[pcms]
 
 *377|
 [fc]
-I couldn't say anything more. How did things end up like[r]
-this?[pcms]
+それ以上、何も言えなかった。[r]
+どうしてこんな事になったんだろう。[pcms]
 
 *378|
 [fc]
 [vo_ren s="ren_RK0085"]
-[ns]Ren[nse]
-"Big brother...it was your first time with a girl, right?[r]
-Your first semen... I drank it all up...?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……生まれて初めて、女の子としたんだよねえ？[r]
+　初めてのザーメン……私が飲んじゃったんだよぉ……？」[pcms]
 
 *379|
 [fc]
-She peered into my face, staring with moist eyes. Ren's[r]
-flushed cheeks were dyed the color of cherry blossoms,[r]
-beautiful.[pcms]
+顔を覗き込まれ、潤んだ瞳で見詰められる。[r]
+上気した漣の頬は桜色に染まって、綺麗だった。[pcms]
 
 *380|
 [fc]
-[ns]Wataru[nse]
-"Ah, yeah...that's right. My first time was...with Ren."[pcms]
+[ns]航[nse]
+「あ、ああ……そうだな。[r]
+　ボクの初めての相手は……漣だ」[pcms]
 
 *381|
 [fc]
-I said it as if to match her tone. Then I savored the[r]
-meaning of those words.[pcms]
+調子を合わせるように言う。[r]
+それから、その言葉の意味を噛み締める。[pcms]
 
 *382|
 [fc]
 [vo_ren s="ren_RK0086"]
-[ns]Ren[nse]
-"Your first time...all of it is mine! I'm so happy, kufu,[r]
-kufufu, hyafufufu!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんの、初めては……、ぜーんぶ、私っ！[r]
+　嬉しいなあぁ、くふっ、くふふふっ、ひゃふふふっ！！」[pcms]
 
 *383|
 [fc]
-I've never seen Ren laugh like this before.[pcms]
+こんな風に笑う漣の姿を、ボクは見た事がない。[pcms]
 
 *384|
 [fc]
-If you get infected, does it turn out like this? I never[r]
-imagined a family member could become like this.[pcms]
+感染してしまうと、こうなってしまうのか。[r]
+肉親がこんな風になるなんて、思ってもみなかった。[pcms]
 
 *385|
 [fc]
-Why did it have to be Ren? It's no use regretting now.[pcms]
+どうして漣なんだ。[r]
+悔やんでも始まらない。[pcms]
 
 ;//Ｉ：かりの脇などを、舌で責める漣
 [evcg storage="HEV060g"][trans_c cross time=300]
 
 *386|
 [fc]
-Contrary to my rational mind full of regret, a strange[r]
-impulse was welling up from deep within me.[pcms]
+後悔する理性とは裏腹に、身体の奥から[r]
+妙な衝動が湧き上がってくる。[pcms]
 
 *387|
 [fc]
-An endless, aimless, illogical power surged forth. Every[r]
-cell in my body seemed to be saying...[pcms]
+無尽蔵に、無軌道に、脈絡なく湧き上がってくる力。[r]
+身体中の細胞が、こう言っている。[pcms]
 
 *388|
 [fc]
-Crave it! Crave it!! ...like that.[pcms]
+欲しがれ！　欲しがれ！！　……と。[pcms]
 
 *389|
 [fc]
-[ns]Wataru[nse]
-"Re, Ren...what's happening to me...?"[pcms]
+[ns]航[nse]
+「れ、漣……ぼ、ボクは……どうしちゃった、のかな……？」[pcms]
 
 *390|
 [fc]
-[ns]Wataru[nse]
-"I want to do it...! I really want to do it with Ren...!"[pcms]
+[ns]航[nse]
+「したいんだ……！[r]
+　すごく、漣としたいんだっ……！」[pcms]
 
 *391|
 [fc]
-Ren smiled sweetly and turned her bewitching eyes towards[r]
-me.[pcms]
+漣がニコリと笑って、[r]
+蠱惑的な瞳をボクに向けた。[pcms]
 
 *392|
 [fc]
-[ns]Wataru[nse]
-"I can't stand it anymore...ahh. Re, Ren...!!"[pcms]
+[ns]航[nse]
+「したくて、たまらないよ……あぁっ。[r]
+　れ、漣……ッ！！」[pcms]
 
 *393|
 [fc]
-The more I spoke, the more power surged from within me.[pcms]
+言えば言うほど、身体の中から力が湧き上がってくる。[pcms]
 
 *394|
 [fc]
-My rational mind warned me. Any more power would be beyond[r]
-my control...[pcms]
+理性が自分に警告する。[r]
+これ以上の力は、自分では制御できない……と。[pcms]
 
 *395|
 [fc]
-[ns]Wataru[nse]
-"I want you to do it, Ren...is that okay? You'll lick my[r]
-dick, won't you...?"[pcms]
+[ns]航[nse]
+「して欲しいんだ、漣……いいよね？[r]
+　ボクのチンポ、舐めてくれるんだよね……？」[pcms]
 
 *396|
 [fc]
-My consciousness was getting even fuzzier.[pcms]
+意識が、更にぼんやりとしてきている気がする。[pcms]
 
 *397|
 [fc]
-I thought maybe the infection had started. But I knew it was[r]
-too late by the time I realized it.[pcms]
+もしや感染し始めたのか、と思う。[r]
+でも、気付いた時点で遅いのは分かってしまっている。[pcms]
 
 *398|
 [fc]
-No matter how much I worry about it, there's nothing I can[r]
-do.[pcms]
+気にしても、どうにもならない。[pcms]
 
 *399|
 [fc]
-And above all...there's a part of me that doesn't care[r]
-anymore.[pcms]
+そして、何より……そんな事が[r]
+どうでも良くなってしまっている自分がいる。[pcms]
 
 *400|
 [fc]
-I'm getting aroused. Uncontrollably and endlessly. I can't[r]
-wait to use the female in front of me to relieve this[r]
-swelling lust.[pcms]
+昂ぶってくる。どうしようもなく、とめどなく。[r]
+膨れ上がる性欲を、目の前のメスを使って[r]
+処理したくてたまらない。[pcms]
 
 *401|
 [fc]
-Even if that means Ren. Even if she's my sister, I don't[r]
-care.[pcms]
+それがたとえ、漣だとしても。[r]
+妹だとしても構わない。[pcms]
 
 [evcg storage="HEV060m"][trans_c cross time=300]
 
 *402|
 [fc]
 [vo_ren s="ren_RK0087"]
-[ns]Ren[nse]
-"Nfufufufu...still energetic, huh? You're so cute, big[r]
-brother... I'll give you lots of kisses...chu, chuchu!"[pcms]
+[ns]漣[nse]
+「んふふふふふ……、まだ、元気だね？[r]
+　可愛いなあぁぁ、お兄ちゃあぁぁん……。[r]
+　いっぱいキスしてあげるねぇぇ……、ちゅっ、ちゅちゅっ！」[pcms]
 
 *403|
 [fc]
-The thing between my legs was so hard it felt like it could[r]
-punch through my stomach. I've never felt such power in my[r]
-cock before.[pcms]
+股間のものは、腹打ちしそうなほど硬くなっていた。[r]
+こんなに肉棒に力が入ってるのは、初めてだ。[pcms]
 
 *404|
 [fc]
-Ren grabbed my shaft with both hands and checked its[r]
-hardness.[pcms]
+漣が両手で肉幹を鷲づかみにし、その硬さを確かめる。[pcms]
 
 *405|
 [fc]
-Like when she sees a delicious meal in front of her, she[r]
-licked her lips with her tongue.[pcms]
+美味しそうな料理を目の前にした時のように、[r]
+唇を舌で舐める。[pcms]
 
 *406|
 [fc]
-Then she turned her wet eyes towards me again, opened her[r]
-mouth wide, and licked the head with the belly of her[r]
-tongue.[pcms]
+こちらに再び、濡れた瞳を向けてから[r]
+大きく口を開き、舌の腹で亀頭を舐め上げた。[pcms]
 
 *407|
 [fc]
 [vo_ren s="ren_RK0088"]
-[ns]Ren[nse]
-"What do you want to do next? Big brother. What do you want?[r]
-What do you really want to do...?"[pcms]
+[ns]漣[nse]
+「今度は……どうしたいの？　お兄ちゃあぁぁん。[r]
+　何が、したい？　ホントはどうしたいのぉ……？」[pcms]
 
 *408|
 [fc]
-Just one lick from her tongue was enough to heighten the[r]
-sensation of ejaculation.[pcms]
+ただ一回、舌で刺激されただけなのに、[r]
+射精感は高まってしまっている。[pcms]
 
 *409|
 [fc]
-[ns]Wataru[nse]
-"Ugh...! I can't hold back!! Re, Ren...! I want to release[r]
-more, much more!"[pcms]
+[ns]航[nse]
+「ううっ……！　が、我慢で、きないっ！！[r]
+　れ、漣っ……！　も、もっと、もっと出したいんだっ！」[pcms]
 
 *410|
 [fc]
-[ns]Wataru[nse]
-"Inside you, Ren...! I want to let it out with all my might![r]
-I want to splatter it! That's okay...right!?"[pcms]
+[ns]航[nse]
+「漣の中にっ……！[r]
+　思い切り、出したいんだっ！！[r]
+　ブチ撒けたいんだよ！！　いいだろう……！？」[pcms]
 
 *411|
 [fc]
-I could tell my breathing was getting rougher. But that[r]
-wasn't all.[pcms]
+自分の息遣いが荒くなっているのが分かる。[r]
+それだけではない。[pcms]
 
 *412|
 [fc]
-Like when enraged, something aggressive was infused in every[r]
-breath I exhaled.[pcms]
+激怒した時のように、[r]
+攻撃的な何かが吐く息の中に込められている。[pcms]
 
 *413|
 [fc]
 [vo_ren s="ren_RK0089"]
-[ns]Ren[nse]
-"Kyaha!...then you can use me if you want...? My body, my[r]
-first time...you can take it roughly...any way you like?"[pcms]
+[ns]漣[nse]
+「きゃはっ！……それなら、私を使ってもいいよぉ……？[r]
+　私の身体、私の初めて……、[r]
+　乱暴に……好きなように……奪っていいよぉぉ？」[pcms]
 
 *414|
 [fc]
 [vo_ren s="ren_RK0090"]
-[ns]Ren[nse]
-"Into my clean, untouched pussy...you can spill as much[r]
-sperm as you like, okay?"[pcms]
+[ns]漣[nse]
+「まだ汚れてない、きれーなマンコの中に……、[r]
+　好きなだけ、スペルマ、ぶちまけていいんだよぉ？」[pcms]
 
 ;//〆フェードアウト
 
@@ -607,81 +613,81 @@ sperm as you like, okay?"[pcms]
 
 *415|
 [fc]
-Thud![pcms]
+ドサッ！[pcms]
 
 *416|
 [fc]
-Unable to contain the impulse, I pushed Ren down. Surely, I[r]
-must have been smiling.[pcms]
+押さえ切れない衝動に、漣を押し倒す。[r]
+ボクはきっと、笑っていたのだろう。[pcms]
 
 *417|
 [fc]
-With a face filled with utmost satisfaction, laughing as I[r]
-reached for the edge of her underwear.[pcms]
+これ以上ないくらい、満足感に満ちた顔で、[r]
+笑いながら……下着の端に手をかけた。[pcms]
 
 *418|
 [fc]
-[ns]Wataru[nse]
-"It's in the way!!"[pcms]
+[ns]航[nse]
+「邪魔だ！！」[pcms]
 
 *419|
 [fc]
-When I roughly tore it off, Ren laughed.[pcms]
+乱暴にそれを剥ぎ取ると、漣が笑った。[pcms]
 
 *420|
 [fc]
-[ns]Wataru[nse]
-"Kukuku... Fufufu, Fuhahahaha!! Ah-hahahaha!!"[pcms]
+[ns]航[nse]
+「ククク……フフフ、フハハハッ！！[r]
+　あぁーっはっはっは！！」[pcms]
 
 *421|
 [fc]
-Throwing my head back and laughing with clapping hands. I[r]
-couldn't help but enjoy it.[pcms]
+仰け反り、手を叩いて笑う。[r]
+楽しくてしょうがない。[pcms]
 
 *422|
 [fc]
-It was as if I was enveloped in a sense of fulfillment, like[r]
-achieving a goal I had dreamed of since childhood.[pcms]
+子供の頃から夢に見ていた、[r]
+その目標を達成したかのような充実感が身を包んでいる。[pcms]
 
 *423|
 [fc]
-In front of me, Ren's beautiful, hairless mound and her[r]
-genitals were indecently red and open.[pcms]
+目の前に、漣の、何も生えていない綺麗な恥丘と[r]
+秘部が、淫らに赤く口を開いていた。[pcms]
 
 *424|
 [fc]
-That place was already wet and had begun to emit the scent[r]
-of a female.[pcms]
+既にそこは濡れそぼっており、メスの匂いをさせ始めている。[pcms]
 
 *425|
 [fc]
-[ns]Wataru[nse]
-"I'm going to put it in... I'm going to put it in, Ren! I'll[r]
-be your first man!"[pcms]
+[ns]航[nse]
+「入れる……入れるぞ漣！[r]
+　ボクが、初めての男になる！」[pcms]
 
 *426|
 [fc]
-My overly engorged erection was hard to move just by moving[r]
-my hips.[pcms]
+怒張しすぎた屹立は、[r]
+腰を動かすだけでは思うように動かせない。[pcms]
 
 *427|
 [fc]
-I held the base with my hand and firmly pressed the glans[r]
-against the slit of her labia.[pcms]
+手で根元を持ち、しっかりとラビアの割れ目に[r]
+亀頭を押し当てた。[pcms]
 
 *428|
 [fc]
-[ns]Wataru[nse]
-"Here I go... Now, nowww!!"[pcms]
+[ns]航[nse]
+「いくぞ……さぁ、さぁああっ！！」[pcms]
 
 *429|
 [fc]
-Before Ren could open her mouth, I pulled my hips back like[r]
-a bow and thrust in all the way to the base at once.[pcms]
+漣が口を開く前に、腰を弓なりに引き[r]
+一気に根元まで突き込んだ。[pcms]
 
 ;*430|
 ;[fc]
-Zuchuuuu![pcms]
+;ズチュウウウッ！[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//〆HEV041
@@ -690,52 +696,54 @@ Zuchuuuu![pcms]
 *431|
 [fc]
 [vo_ren s="ren_RK0091"]
-[ns]Ren[nse]
-"Hyaaaaaaah----nn!! Hah, ahfuaaah, it's inside meee!"[pcms]
+[ns]漣[nse]
+「ひゃああああぁぁーーーーんっ！！[r]
+　はっ、あふああぁぁ、入ってるぅぅぅ！」[pcms]
 
 *432|
 [fc]
-As she was thrust into, Ren's body was pulled by her arms[r]
-and floated in the air.[pcms]
+突かれながら腕を引っ張られて、漣の身体が宙に浮いてしまう。[pcms]
 
 *433|
 [fc]
-Jubu! Zupuu! Gujuu! Jyuku...![pcms]
+ジュブッ　ヅプウッ　グジュウッ　ジュクッ…！[pcms]
 
 *434|
 [fc]
-The lewd sounds echoed. With each sound, there were small[r]
-cries like moans. The two mixed together, further numbing my[r]
-reason.[pcms]
+淫らな音が響き渡る。[r]
+音に合わせて、小さな悲鳴のような、喘ぎ声がする。[r]
+２つが混ざり合い、さらに理性を麻痺させていくかのようだ。[pcms]
 
 *435|
 [fc]
-[ns]Wataru[nse]
-"Uuu...! Re, Ren! It's good... so incredibly good...!![r]
-Inside you... it's so hot... I feel like I'm melting...!"[pcms]
+[ns]航[nse]
+「うううっ……！　れ、漣っ！[r]
+　いい……す、すごく、いいっ……！！[r]
+　漣の中……すごく……熱くて、溶けちゃいそうだ……っ！」[pcms]
 
 *436|
 [fc]
 [vo_ren s="ren_RK0092"]
-[ns]Ren[nse]
-"Brother's! Brotherrrrr! Ah, hiah, it's deep, ah, kahaaaah!"[pcms]
+[ns]漣[nse]
+「おっ、お兄ちゃんのっ！　おにいちゃんんんんっ！[r]
+　あっ、ひあっ、深いぃぃ、あっ、かはあぁぁっ！」[pcms]
 
 *437|
 [fc]
 [vo_ren s="ren_RK0093"]
-[ns]Ren[nse]
-"It's pounding, cominggg, brotherrrrr, ahik! Right to the[r]
-back of my head! Your sound is banging and echoing,[r]
-kyahiin!"[pcms]
+[ns]漣[nse]
+「ずんずん、来るぅぅ、おにいちゃあああぁん、あひっ！[r]
+　頭の奥までっ、おにいちゃんの音がぁっ！[r]
+　がんがんして、響いてぇぇ、きゃひぃぃっ！」[pcms]
 
 *438|
 [fc]
-I grabbed Ren's slender arms and lifted her hips as if[r]
-forcing them up. Then I started slamming my hips like crazy.[pcms]
+漣の細い腕を掴み、無理やり引き上げるように腰を浮かせる。[r]
+そのまま、狂ったように腰を叩きつける。[pcms]
 
 *439|
 [fc]
-Jugu! Buchu! Zupuu! Zubuuu![pcms]
+ジュグッ　ブチュッ　ヅプウッ！　ズブウウッ！[pcms]
 
 ;//Ｂ：漣・快感
 ;//〆HEV041
@@ -743,149 +751,151 @@ Jugu! Buchu! Zupuu! Zubuuu![pcms]
 
 *440|
 [fc]
-My sister's face, which must have been her first time, was[r]
-slightly distorted, perhaps from the pain of defloration.[pcms]
+始めてだったに違いない妹の顔は、[r]
+破瓜の痛みなのか、やや歪んでいる。[pcms]
 
 *441|
 [fc]
-However, even that pain seemed to be turning into pleasure[r]
-on her face.[pcms]
+しかし、その痛みすら、[r]
+心地よさになっているかのような顔にも見える。[pcms]
 
 *442|
 [fc]
-It might have been because she was well lubricated or maybe[r]
-because of the arousal...[pcms]
+それは、良く濡れていたためだろうか、[r]
+それとも、感染によるものなのか……。[pcms]
 
 *443|
 [fc]
-[ns]Wataru[nse]
-"Uooo! It's good... the best, Ren!! How about you...? Do you[r]
-feel good too...?"[pcms]
+[ns]航[nse]
+「うおおっ！　いい……さ、最高だよぉっ！　漣っ！！[r]
+　ど、どうだい……？[r]
+　れ、漣も……いいかい……？」[pcms]
 
 *444|
 [fc]
-[ns]Wataru[nse]
-"Do you feel good too, Ren...? How does my... dick[r]
-taste...!?"[pcms]
+[ns]航[nse]
+「漣も、気持ち、いいかい……？[r]
+　ボクの……オチンチンの味は……っ！？」[pcms]
 
 *445|
 [fc]
 [vo_ren s="ren_RK0094"]
-[ns]Ren[nse]
-"Brother... bro... ahiaaaah, moreee! More and more and more[r]
-and moreee! Do it do it do it, as much as you like, do it[r]
-eeeeee!"[pcms]
+[ns]漣[nse]
+「おにいちゃ……おに……、あひあああぁぁ、もっとぉおぉ！[r]
+　もっともっと、もっともっともっともっとぉぉ！[r]
+　してよぉぉぉ、してしてして、好きなだけ、してぇぇぇ！」[pcms]
 
 *446|
 [fc]
-Every thrust made her raise her voice.[pcms]
+突かれるたびに声を上げる。[pcms]
 
 *447|
 [fc]
-Zubuu! Buchuuuu! Zutsu! Zutsu! Pujyuu![pcms]
+ズブウッ！　ブチュウウッ！　ズッ！　ズッ！　プジュウッ！[pcms]
 
 *448|
 [fc]
-With every slam of my hips, Ren let out a scream of ecstasy.[pcms]
+腰が叩きつけられる度、嬌声を上げる漣。[pcms]
 
 *449|
 [fc]
 [vo_ren s="ren_RK0095"]
-[ns]Ren[nse]
-"Do it a lot, do it eee!! Intense ones, amazing ones, super[r]
-daaaii! Brother's little sister ooooh, you can fuck me all[r]
-you wanttt!"[pcms]
+[ns]漣[nse]
+「いっぱい、してしてぇ！！[r]
+　激しいの、すごいの、ちょうだあぁい！[r]
+　おにいちゃんの、いもうとぉぉ、犯していいんだよぉぉっ！」[pcms]
 
 *450|
 [fc]
-[ns]Wataru[nse]
-"Uuu! So, something like that...!? Saying such things...!"[pcms]
+[ns]航[nse]
+「ううっ！　そ、そんな……っ！？[r]
+　そんな事を言ってっ……！」[pcms]
 
 *451|
 [fc]
-[ns]Wataru[nse]
-"You want to feel it, don't you!? Me...! With that... pussy![r]
-Your first time here... uuu! It's turned bright red!"[pcms]
+[ns]航[nse]
+「か、感じたいんだねっ！？　ボクを……！[r]
+　その……オマンコでっ！　始めてのここ……ううっ！[r]
+　ま、真っ赤になっちゃってるよっ！」[pcms]
 
 *452|
 [fc]
-Every time I thrust in, her vagina would react and squeeze[r]
-tightly.[pcms]
+突き入れる度に反応して、[r]
+きゅうきゅうと締め付けてくる妹の膣。[pcms]
 
 *453|
 [fc]
-The defloration blood stained her genitals while love juices[r]
-frothed white on her lewd form...[pcms]
+破瓜の鮮血に秘部を染め、[r]
+愛液を白く泡立たせるその淫らな姿……。[pcms]
 
 *454|
 [fc]
-And with my sister's lewd words egging me on, my excitement[r]
-soared even higher.[pcms]
+そして、淫らな言葉で煽る妹に、さらに高まっていく。[pcms]
 
 *455|
 [fc]
-[ns]Wataru[nse]
-"Haa...! Haa... Haa! Ugh...!"[pcms]
+[ns]航[nse]
+「はぁっ…！　はぁっ…　はぁっ！　うっ……！」[pcms]
 
 *456|
 [fc]
-Zubu! Zubuu! Jyupuu! Guchu![pcms]
+ズブッ！　ズブウッ！　ジュプウッ！　グチュッ！[pcms]
 
 *457|
 [fc]
-My numb head signaled that the limit was near.[pcms]
+痺れた頭が、限界が近いことを伝える。[pcms]
 
 *458|
 [fc]
-Without telling my moaning sister, I accelerated towards the[r]
-climax.[pcms]
+嬌声を上げる妹に、それを伝える事もなく、[r]
+頂点に向けて一気に加速する。[pcms]
 
 *459|
 [fc]
 [vo_ren s="ren_RK0096"]
-[ns]Ren[nse]
-"Nhiin, hihi, are you coming? You're going to come right? In[r]
-your little sister's pussy eeei!? Are you going to let it[r]
-out in meee!?"[pcms]
+[ns]漣[nse]
+「んひぃぃぃっ、ひひっ、来ちゃうのっ？[r]
+　来ちゃうんだねぇ、おにいちゃあぁぁぁん！[r]
+　いもうとのぉ、マンコにぃぃぃ、出しちゃうんだねぇ！？」[pcms]
 
 ;//se013・肩の脱臼する音
 [se buf=0 storage="se013"]
 
 *460|
 [fc]
-Gaguu...[pcms]
+ガグッ……[pcms]
 
 *461|
 [fc]
-That was when it happened. While holding onto her arms, I[r]
-must have moved too violently. I felt a dull sensation.[pcms]
+その時だ。[r]
+腕を掴んだまま、乱暴に動き過ぎたのだろう。[r]
+何か、鈍い感触がした。[pcms]
 
 *462|
 [fc]
-The sound of my frail sister's shoulder dislocating.[pcms]
+病弱な妹の、肩が外れる音がした。[pcms]
 
 *463|
 [fc]
-But what does that matter anyway?[pcms]
+でも、それが何だっていうんだろう。[pcms]
 
 *464|
 [fc]
 [vo_ren s="ren_RK0097"]
-[ns]Ren[nse]
-"Agiiiiii!?"[pcms]
+[ns]漣[nse]
+「あぎぃぃぃっ！？」[pcms]
 
 *465|
 [fc]
-The intense pain doubled the pleasure for Ren. She was about[r]
-to climax.[pcms]
+　その激痛と共に倍する快感を感じる漣。イキそう。[pcms]
 
 *466|
 [fc]
 [vo_ren s="ren_RK0098"]
-[ns]Ren[nse]
-"Brother... brotheeerrr, I'm broken! It hurts, it hurts, it[r]
-hurts so muchhhhhhhh hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh[r]
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhh!"[pcms]
+[ns]漣[nse]
+「お、おにいちゃ……おにいちゃ、壊れちゃったよぅぅ！[r]
+　痛いよう、痛いよう、いたいいたいいいいいいいぃぃぃぃ、[r]
+　いいの、痛い、いいっ、いい、いぎぃぃぃ、イグうぅぅ！！」[pcms]
 
 ;//Ｃ：漣・受精
 ;//〆HEV041
@@ -895,26 +905,26 @@ hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh hhhhhhhhhhhh!"[pcms]
 *467|
 [fc]
 [vo_ren s="ren_RK0099"]
-[ns]Ren[nse]
-"Gihiaaaaaa~~~~~~~~~~~~~~~~~~~h!? Hihh, hiinnnn! Cumming[r]
-cumming cummingggg!? Nnnh, kuh... ahik, hiaaaaaaaaahhhh!!"[pcms]
+[ns]漣[nse]
+「ぎひああぁぁ～～～～～～っ！？[r]
+　ひっ、ひぃぃぃん！　いっ、イグイグイグぅぅぅぅ！？[r]
+　んっ、く……あひっ、ひああぁぁぁああああぁぁｌ！！」[pcms]
 
 
 
 *468|
 [fc]
-Splurt! Throb throb throb wooosh! Spurt![pcms]
+ブチュッ！　ドクドクドクウウウッ！　ピュウッ！[pcms]
 
 *469|
 [fc]
-[ns]Wataru[nse]
-"Uu... uuuooooooohhh-!! Ugh, uguuuu...!!"[pcms]
+[ns]航[nse]
+「う……ぅうおおおおおおっっー！！　う、うぐうううっ…！！」[pcms]
 
 *470|
 [fc]
-With a roar akin to that of a beast, I released everything[r]
-inside my sister's pussy. The immense pleasure caused Ren to[r]
-squirt again.[pcms]
+獣の咆哮にも似た叫び声と共に、妹の膣に、全てを解き放つ。[r]
+あまりの快感に、漣から再び潮が上がる。[pcms]
 
 ;//Ｄ：恍惚・漣
 ;//〆HEV041
@@ -923,170 +933,175 @@ squirt again.[pcms]
 *471|
 [fc]
 [vo_ren s="ren_RK0100"]
-[ns]Ren[nse]
-"Ahyaaaahhh... ahhh... ahhhhhh... ...nn, fu... uguuu...[r]
-nn... nnh..."[pcms]
+[ns]漣[nse]
+「あひゃあああぁぁ…………あああぁぁぁぁぁ……、[r]
+　……ん、ふ……うぐぅぅぅ……んん……んっ…………」[pcms]
 
 *472|
 [fc]
-[ns]Wataru[nse]
-"Haa...! Haa... haa...!"[pcms]
+[ns]航[nse]
+「はぁっ……！　はぁ……はぁっ……！」[pcms]
 
 *473|
 [fc]
-Again and again, I poured my semen into my sister.[pcms]
+何度も何度も、妹の中に精液を注ぎこむ。[pcms]
 
 *474|
 [fc]
-The long ejaculation gradually weakened, and finally ended.[pcms]
+長い射精は次第に弱まり、ようやく終わった。[pcms]
 
 *475|
 [fc]
-My sister below me was also breathing roughly, lying there[r]
-as if she was half unconscious.[pcms]
+眼下の妹も、荒く息をつき、[r]
+半分失神したように横たわっている。[pcms]
 
 *476|
 [fc]
 [vo_ren s="ren_RK0101"]
-[ns]Ren[nse]
-"...nn, haa... haa, haa... ahhhh..."[pcms]
+[ns]漣[nse]
+「……ん、はぁ……はぁ、はぁ……ぁぁぁぁ…………」[pcms]
 
 *477|
 [fc]
-Something felt clear in my head. As if all the things I had[r]
-been worrying about were blown away.[pcms]
+何か、頭の中がスッキリとしたような気がする。[r]
+今まで、思い悩んでいたものが、全て吹き払われたような……。[pcms]
 
 *478|
 [fc]
-In their place, pure, instinctual desires dominated my mind.[pcms]
+それに変わって、純粋な、[r]
+本能のままの欲望が頭を支配している。[pcms]
 
 *479|
 [fc]
-[ns]Wataru[nse]
-"Re... Ren... you said it earlier, right...? That it's[r]
-okay... to do as much as I want..."[pcms]
+[ns]航[nse]
+「れ……漣……さ、さっき……言った、よね……？[r]
+　す、好きなだけ……して……いいって……」[pcms]
 
 *480|
 [fc]
-I swallowed my saliva.[pcms]
+生唾を飲み込む。[pcms]
 
 *481|
 [fc]
-[ns]Wataru[nse]
-"That it's okay... to cum inside Ren as much as I want!?"[pcms]
+[ns]航[nse]
+「好きなだけ……漣のナカに出して、いいってっ！？」[pcms]
 
 ;//Ｂ
 [evcg storage="HEV041u"][trans_c cross time=300]
 
 *482|
 [fc]
-[ns]Wataru[nse]
-"I...! I want more... more! I want to feel even better!!"[pcms]
+[ns]航[nse]
+「ボクは……！[r]
+　も、もっと…もっと！　気持ち良くなりたいっ！！」[pcms]
 
 *483|
 [fc]
-[ns]Wataru[nse]
-"Re, Ren! I want... I want to do it more and more! ...It's[r]
-okay, right? You don't mind, do you!!"[pcms]
+[ns]航[nse]
+「れ、漣っ！　ボクは……ボクはっ！[r]
+　もっともっとしたいんだよ！[r]
+　……いいだろう？　構わないよね！！」[pcms]
 
 *484|
 [fc]
-With a declaration-like scream, I grabbed my sister's arms[r]
-again and forcefully pulled her up.[pcms]
+宣言にも似た叫びと共に、[r]
+再び妹の腕を取り、強引に引き上げる。[pcms]
 
 *485|
 [fc]
-And then, with my dick that had grown big again, I[r]
-penetrated my sister once more.[pcms]
+そして、再び大きくなったそれで妹を貫く。[pcms]
 
 *486|
 [fc]
 [vo_ren s="ren_RK0102"]
-[ns]Ren[nse]
-"Hiun!? O, Onii... cha...!?"[pcms]
+[ns]漣[nse]
+「ひぅんっ！？　お、おにい……ちゃ……っ！？」[pcms]
 
 *487|
 [fc]
 [vo_ren s="ren_RK0103"]
-[ns]Ren[nse]
-"Igyiiiiiiii!!?? Gih, hih, hi, hiiii! My arm's going to come[r]
-off! My arm! It's going to tear off!! Kah, hihiiiiin!?"[pcms]
+[ns]漣[nse]
+「いぎぃぃぃぃぃっ！！？？　ぎっ、ひっ、ひ、ひぃぃぃ！[r]
+　と、とれちゃうぅぅ！　う、腕ぇぇっ！？[r]
+　千切れちゃうよぉぉぉ！！　かっ、はひぃぃぃんっ！？」[pcms]
 
 *488|
 [fc]
-While her shoulder remained dislocated, I pulled her arm and[r]
-violently thrust my hips. Ren let out screams that were a[r]
-mix of pain and something indescribable.[pcms]
+肩が外れたままの腕を引き、乱暴に腰を打ち付ける。[r]
+漣は痛みとも喜びともつかない悲鳴を放つ。[pcms]
 
 *489|
 [fc]
 [vo_ren s="ren_RK0104"]
-[ns]Ren[nse]
-"I'm breakingggg, Onii-cha... fuggyiii!! Wa... I'm being[r]
-broken by Onii-chan!? Uuuuuuaaaaaahhh, agaaaaahhh-----!!!"[pcms]
+[ns]漣[nse]
+「壊れるぅぅぅっ、お、おにいちゃ……っ、ふぎぃぃ！！[r]
+　わ……私ぃぃっ、お兄ちゃんに、壊され、ちゃうぅぅ！？[r]
+　ううううあああああっ、あがああぁぁぁーーーーーっ！！！」[pcms]
 
 *490|
 [fc]
-[ns]Wataru[nse]
-"Aahh...! Uguuh! It's good... it's so good...! Ren... you're[r]
-the best!"[pcms]
+[ns]航[nse]
+「ああっ……！　うぐうっ！[r]
+　いい……いいよっ……！　漣……っ、最高だ！」[pcms]
 
 *491|
 [fc]
-[ns]Wataru[nse]
-"It feels so amazing...! My head feels like it's melting[r]
-away...!"[pcms]
+[ns]航[nse]
+「すごく……気持ち、いいよっ……！[r]
+　頭ん中……溶けちゃいそうだぁ……！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *492|
 [fc]
-I could no longer hear my sister's screams. I was just[r]
-immersed in the pleasure before me...[pcms]
+妹の叫びは、もう耳に届いてはいなかった。[r]
+ただ、目の前の快楽に没頭していく……。[pcms]
 
 *493|
 [fc]
-In my fading consciousness, the words of Jin-san from last[r]
-night flashed through my mind.[pcms]
+霞んで行く意識の中、[r]
+ふと、昨夜の壬さんの言葉が頭を過ぎる。[pcms]
 
 *494|
 [fc]
-Indeed, this might be 'salvation'.[pcms]
+確かに、これは「救済」なのかもしれない。[pcms]
 
 *495|
 [fc]
-The "somewhere else" that I had always been chasing and[r]
-imagining... it was actually "here" all along![pcms]
+自分がずっと追い求め、思い描いていた[r]
+『此処ではない何処か』……それは、[r]
+本当は『ここ』にあったんだ！[pcms]
 
 *496|
 [fc]
 [vo_ren s="ren_RK0105"]
-[ns]Ren[nse]
-"Ugeaaaahhhhhhhhhh------ahhhhh...!!"[pcms]
+[ns]漣[nse]
+「うげあああぁあぁぁああぁぁーーーーーーぁぁぁぁ……！！」[pcms]
 
 [赤フラ]
 
 *497|
 [fc]
-[ns]Wataru[nse]
-"Kukuku, kakaka...!! Haaaah-hahhahhah!! Hahh! This is the[r]
-best, the absolute bestttt!!"[pcms]
+[ns]航[nse]
+「クククッ、カカカ……！！[r]
+　ハァアーッハッハッハ！！　ハハッ！[r]
+　最高だ、最高だぁあああ～っ！！」[pcms]
 
 *498|
 [fc]
-[ns]Wataru[nse]
-"You think so too, right Ren!? Answer me! Let's enjoy this[r]
-more! Come on, together! To the end of the world, come on...[r]
-come on!!"[pcms]
+[ns]航[nse]
+「そう思うだろ、漣も！？　なあ答えろよ！[r]
+　もっと楽しもうぜ！　さあ一緒に！[r]
+　世界の終わりまで、さあ……さぁっ！！」[pcms]
 
 *499|
 [fc]
-[ns]Wataru[nse]
-"...Ren?"[pcms]
+[ns]航[nse]
+「………………漣？」[pcms]
 
 *500|
 [fc]
-Ren no longer responded to anything.[pcms]
+漣はもう何も応えてはくれなかった。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -1100,5 +1115,5 @@ Ren no longer responded to anything.[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

@@ -1,9 +1,9 @@
 ;//block:C001
-;//ブロック４２０００『地下道漣のみ脱出編』
+;//ブロック４２０００『地下道～漣のみ脱出編～』
 ;//@konya 11/18 EV_CGほか
 
 *42000_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//---------------------------------------------------------------
 ;//背景：分校舎地下室
 ;//登場人物:主人公・浩助・マルガリータ・漣・感染者
@@ -33,12 +33,11 @@
 
 *4481|
 [fc]
-Gong gong... gong gong...[pcms]
+ごんごんっ……ごんごん……。[pcms]
 
 *4482|
 [fc]
-The hatch that was supposed to be tightly sealed is being[r]
-knocked on already.[pcms]
+固く閉ざしたはずのハッチが、早速叩かれる音がする。[pcms]
 
 ;//se043・金属の板を叩く音
 [se buf=0 storage="se043"]
@@ -51,36 +50,37 @@ knocked on already.[pcms]
 
 *4483|
 [fc]
-Gong gong... gong gong...[pcms]
+ごんごんっ……ごんごんっ……。[pcms]
 
 *4484|
 [fc]
-Slowly and mechanically, in a regular rhythm.[pcms]
+ゆっくりと機械のように規則正しいリズムで。[pcms]
 
 *4485|
 [fc]
-For a moment, I can't help but think it might be Yuuho, who[r]
-we just gave up on saving.[pcms]
+一瞬、さっき助けるのをあきらめたばかりの[r]
+悠帆なんじゃないかとボクは思ってしまう。[pcms]
 
 *4486|
 [fc]
-With her physical strength, Yuuho could have escaped that[r]
-enclosure by herself, and she must have seen us escaping[r]
-underground and followed us...[pcms]
+体力のある悠帆だから自力であの囲みを抜けてきて、[r]
+きっと、ボクたちが地下へと逃げるのを見て、[r]
+それを追いかけて……。[pcms]
 
 *4487|
 [fc]
-It must be so. Yuuho, the swimmer with a promising future[r]
-and the idol of the town and school...[pcms]
+きっと、そうだ。[r]
+将来を期待された水泳の選手で[r]
+町の、学園のアイドルの悠帆なら……。[pcms]
 
 *4488|
 [fc]
-[ns]Wataru[nse]
-"Yuu...!?"[pcms]
+[ns]航[nse]
+「悠……っ！？」[pcms]
 
 *4489|
 [fc]
-Just as I was about to call out "Yuuho"...[pcms]
+『悠帆』といいかけたところで……。[pcms]
 
 ;//SE・シュオン　といった感じの
 ;//去来をイメージさせる音
@@ -95,12 +95,13 @@ Just as I was about to call out "Yuuho"...[pcms]
 
 *4490|
 [fc]
-A flash of the situation outside the hatch crosses my mind.[pcms]
+ボクの頭にハッチの外の様子がフラッシュのように瞬いた。[pcms]
 
 *4491|
 [fc]
-[ns]Wataru[nse]
-"Yuuho? No, that's not it! That's something else!!"[pcms]
+[ns]航[nse]
+「悠帆？[r]
+　いや、違うっ！　あれは違うっ！！」[pcms]
 
 ;//SE・金属の板を叩く音
 
@@ -122,7 +123,7 @@ A flash of the situation outside the hatch crosses my mind.[pcms]
 
 *4492|
 [fc]
-Gong gong! ...gong... gong gong![pcms]
+ごんごんっ！　……ごんっ……ごんごんっ！[pcms]
 
 ;//se043・金属の板を叩く音
 ;//[se buf=0 storage="se043"]
@@ -141,7 +142,7 @@ Gong gong! ...gong... gong gong![pcms]
 
 *4493|
 [fc]
-Gong gong gong! Gong gong gong![pcms]
+ごんごんごっ！　ごごんごんっ！[pcms]
 
 ;//se043・金属の板を叩く音
 ;//[se buf=0 storage="se043"]
@@ -160,7 +161,7 @@ Gong gong gong! Gong gong gong![pcms]
 
 *4494|
 [fc]
-Gong gong! Gong! Gong gong! Gong gong![pcms]
+ごごん！　ごんっ！　ごごん！　ごんごんっ！[pcms]
 
 ;//通常サイズフォント
 
@@ -177,28 +178,30 @@ Gong gong! Gong! Gong gong! Gong gong![pcms]
 
 *4495|
 [fc]
-Gong!! Gong gong! Gong gong! Gong! Gong! Gong gong! Gong!![r]
-Gong gong! Gong gong!! Gong![pcms]
+ごんっ！！　ごごんっ！　　　　ごんごんっ！[r]
+　　　　ごん！　ごんっ！　　　　ごごんっ！　ごんっ！！[r]
+　ごごん！　　　　ごんっ！　　　　　ごんごんっ！！[pcms]
 
 *4496|
 [fc]
-[ns]Wataru[nse]
-"Uwaa..."[pcms]
+[ns]航[nse]
+「うわぁ……」[pcms]
 
 *4496a|
 [fc]
-Like a sudden downpour, the sounds hitting the hatch from[r]
-all over are not those of a human with a heart.[pcms]
+[ruby text="むらしぐれ"][ch text="叢時雨"]のように激しく、弱く不規則に[r]
+そこかしこと打たれるハッチから響くそれは、[r]
+心のある人間のものではなかった。[pcms]
 
 *4496b|
 [fc]
-It's them![pcms]
+[ruby text="異常な人達"][ch text="あいつら"]だっ！[pcms]
 
 *4497|
 [fc]
-Instinctively moving... If I were to borrow the words of[r]
-Senior Margarita, it's not humans but "beasts in human form"[r]
-that are swarming and continuously pounding on the hatch![pcms]
+本能的に動く……マルガリータ先輩の言葉を借りるなら、[r]
+人間ではなく『人の形をした獣』が殺到し、[r]
+ハッチを叩き続けているんだ！[pcms]
 
 ;//SE・金属の板を叩く音
 ;//ごんごんはフォント大きめで、特殊フォント？
@@ -220,7 +223,7 @@ that are swarming and continuously pounding on the hatch![pcms]
 
 *4498|
 [fc]
-Gong gongo! ...gogon! ...gon![pcms]
+ごんごごんっ！　……ごごんっ！　……ごんっ！[pcms]
 
 ;//se043・金属の板を叩く音
 ;//[se buf=0 storage="se043"]
@@ -239,7 +242,7 @@ Gong gongo! ...gogon! ...gon![pcms]
 
 *4499|
 [fc]
-Gogongo! Gogon gogon![pcms]
+ごごんごっ！　ごごんごごんっ！[pcms]
 
 ;//se043・金属の板を叩く音
 ;//[se buf=0 storage="se043"]
@@ -252,12 +255,12 @@ Gogongo! Gogon gogon![pcms]
 
 *4500|
 [fc]
-Gogon! Gon! Gogon! Gogogon!![pcms]
+ごごっ！　ごんっ！　ごごんっ！　ごごごんっ！！[pcms]
 
 *4501|
 [fc]
-[ns]Infected Student A[nse]
-"Uuu... uuu..."[pcms]
+[ns]感染者・学生Ａ[nse]
+「う～～うう～～っ」[pcms]
 
 ;//@konya EV_CG 感染者たち
 [evcg storage="evs001"][trans_c cross time=300]
@@ -265,14 +268,14 @@ Gogon! Gon! Gogon! Gogogon!![pcms]
 *4502|
 [fc]
 [vo_mob s="onnakansenA0001"]
-[ns]Infected Female Student A[nse]
-"Open up~"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「開けろ～」[pcms]
 
 *4503|
 [fc]
 [vo_mob s="onnakansenB0001"]
-[ns]Infected Female Student B[nse]
-"Let me in~"[pcms]
+[ns]感染者・女学生Ｂ[nse]
+「開けてよ～」[pcms]
 
 ;//　通常サイズフォント
 
@@ -291,19 +294,20 @@ Gogon! Gon! Gogon! Gogogon!![pcms]
 
 *4504|
 [fc]
-Gogon!! Gogon! Gong gong! Gon! Gon! Gong gong! Gon!! Gong[r]
-gong! Gong gong!! Gon![pcms]
+　ごごんっ！！　　ごごんっ！　　　　　ごんごんっ！[r]
+　　　ごんっ！　　ごんっ！　　　ごんごんっ！　　ごんっ！！[r]
+ごんごん！　　ごんごんっ！！　　　　　　ごんっ！[pcms]
 
 *4505|
 [fc]
-[ns]Infected Student B[nse]
-"Let me eat~"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「喰わせろ～」[pcms]
 
 *4506|
 [fc]
 [vo_mob s="onna_kansenC0001"]
-[ns]Infected Female Student C[nse]
-"Give me dick, please~!"[pcms]
+[ns]感染者・女学生Ｃ[nse]
+「おちんぽ、ちょうだぁ～い！」[pcms]
 
 ;//黒背景に戻す
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -314,110 +318,113 @@ gong! Gong gong!! Gon![pcms]
 
 *4507|
 [fc]
-[ns]Wataru[nse]
-"Hiiii!!"[pcms]
+[ns]航[nse]
+「ひいいっ！！」[pcms]
 
 *4508|
 [fc]
-Letting out a pathetic scream, I stagger backward in terror.[pcms]
+自分でも情けないほどの声をあげながら、[r]
+恐ろしくなったボクはまるでよろけるように後ずさる。[pcms]
 
 ;//se004・身体と身体が　軽くぶつかる音
 [se buf=0 storage="se004"]
 
 *4509|
 [fc]
-Don![pcms]
+ドンッ！[pcms]
 
 *4510|
 [fc]
-[ns]Wataru[nse]
-"Uwaaa!!"[pcms]
+[ns]航[nse]
+「うわぁあっ！！」[pcms]
 
 *4511|
 [fc]
-Something hits my back, and I let out another scream.[pcms]
+背中がなにかに当たって、ボクはまた悲鳴をあげる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4512|
 [fc]
 [vo_mar s="maru0547"]
-[ns]Margarita[nse]
-"It's me. Don't be scared, Wataru!"[pcms]
+[ns]マルガリータ[nse]
+「ワタシだ。怯えるなワタル！」[pcms]
 
 *4513|
 [fc]
-[ns]Wataru[nse]
-"Sen... ior..."[pcms]
+[ns]航[nse]
+「先……輩……」[pcms]
 
 *4514|
 [fc]
-What hit my back was Senior Margarita's back.[pcms]
+ボクの背中に当たったのはマルガリータ先輩の背中だった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4515|
 [fc]
 [vo_ren s="ren0581"]
-[ns]Ren[nse]
-"Are you okay? Big brother?"[pcms]
+[ns]漣[nse]
+「だいじょぶ？　お兄ちゃん？」[pcms]
 
 *4516|
 [fc]
-Ren looks at me with concern. At least, I shouldn't worry[r]
-her.[pcms]
+漣もボクを心配そうに見ている。[r]
+とりあえず、漣に心配させちゃいけないな。[pcms]
 
 *4517|
 [fc]
-[ns]Wataru[nse]
-"I'm, I'm fine. Ren"[pcms]
+[ns]航[nse]
+「だ、大丈夫だよ。漣」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4518|
 [fc]
 [vo_mar s="maru0548"]
-[ns]Margarita[nse]
-"Your voice is trembling... That will only make your sister[r]
-worry more."[pcms]
+[ns]マルガリータ[nse]
+「声が震えているぞ……。[r]
+　そんなんじゃ、妹さんはよけいに心配だ」[pcms]
 
 *4519|
 [fc]
 [vo_mar s="maru0549"]
-[ns]Margarita[nse]
-"Indeed, being cowardly can help one survive. Being cowardly[r]
-also means being cautious. Foolhardy bravery without fear[r]
-leads to ruin over trivial matters."[pcms]
+[ns]マルガリータ[nse]
+「たしかに、臆病なほうが生き残れる。[r]
+　臆病ということは同時に注意深いと言うことだ。[r]
+　恐怖を知らない蛮勇は下らないことで簡単に破滅する」[pcms]
 
 *4520|
 [fc]
 [vo_mar s="maru0550"]
-[ns]Margarita[nse]
-"But being too cowardly means sitting still in fear, waiting[r]
-for death. It's meaningless to be defeated by fear."[pcms]
+[ns]マルガリータ[nse]
+「だが、臆病すぎることは怯えたまま、[r]
+　座して死を待つということになりかねない。[r]
+　恐怖に負けては無意味なのだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4521|
 [fc]
 [vo_mar s="maru0551"]
-[ns]Margarita[nse]
-"Control your fear, Ayase!! Otherwise, you won't be able to[r]
-protect your sister, will you?"[pcms]
+[ns]マルガリータ[nse]
+「恐怖をコントロールしろ！　アヤセ！！[r]
+　そうでないと、妹さんを守れなくなるぞ？」[pcms]
 
 *4522|
 [fc]
-That's right. Ren is weak! I have to protect her. I must[r]
-protect her.[pcms]
+そうだ。漣は弱いんだ！[r]
+ボクが守らなくっちゃ。[r]
+ボクが守ってやらなくっちゃいけないんだ。[pcms]
 
 *4523|
 [fc]
-[ns]Wataru[nse]
-"Yes, sir!"[pcms]
+[ns]航[nse]
+「は、はいっ！」[pcms]
 
 *4524|
 [fc]
-For that, I need to become stronger...[pcms]
+そのためにはもっと強くならないと……。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -437,185 +444,187 @@ For that, I need to become stronger...[pcms]
 
 *4525|
 [fc]
-Gong gongo! ...gogon! ...gon![pcms]
+ごんごごんっ！　……ごごんっ！　……ごんっ！[pcms]
 
 *4526|
 [fc]
-Gogongo! Gogon gogon![pcms]
+ごごんごっ！　ごごんごごんっ！[pcms]
 
 *4527|
 [fc]
-Gogon! Gon! Gogon! Gogogon!![pcms]
+ごごっ！　ごんっ！　ごごんっ！　ごごごんっ！！[pcms]
 
 *4528|
 [fc]
-Gogongo! Gong gogon! ...gon![pcms]
+ごごんごっ！　　ごんごごんっ！　　……ごんっ！[pcms]
 
 *4529|
 [fc]
-...gogon! gon gogon! gogongogon![pcms]
+……ごごんっ！　　ごんっ　ごごんっ！　ごごんごごんっ！[pcms]
 
 *4530|
 [fc]
-Gogon!! Gogogon!![pcms]
+ごごっ！！　　ごごごんっ！！[pcms]
 
 ;//se508・複数の感染者のうなり声
 [se buf=0 storage="se508"]
 
 *4531|
 [fc]
-[ns]Infected Student A[nse]
-"...sero~. ...sero~"[pcms]
+[ns]感染者・学生Ａ[nse]
+「……せろ～。……せろ～」[pcms]
 
 *4532|
 [fc]
 [vo_mob s="kan_jo0001"]
-[ns]Infected Female Student A[nse]
-"...sete~. ...dai~"[pcms]
+[ns]感染者・女学生Ａ[nse]
+「……せてぇ～。……だ～い」[pcms]
 
 *4533|
 [fc]
-The sound of banging on the hatch grows louder. It's hard to[r]
-make out what they're saying, but the moans of the crazed[r]
-people seem to seep through as well.[pcms]
+再びハッチを叩く音が大きくなる。[r]
+なにを言ってるのかよく聞こえないけど、[r]
+おかしくなった人たちのうめき声もしみこんでくるみたいに。[pcms]
 
 *4534|
 [fc]
-However, it's clear that it's getting stronger and louder[r]
-than before. Surely, the number of people is increasing.[pcms]
+ただ、わかるのはそれはさっきより強く大きくなっている。[r]
+きっと、ますます人数が増えているんだ。[pcms]
 
 *4535|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4536|
 [fc]
 [vo_mar s="maru0552"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4537|
 [fc]
 [vo_ren s="ren0582"]
-[ns]Ren[nse]
-"No... ...no more, I can't..."[pcms]
+[ns]漣[nse]
+「いゃあ……。[r]
+　……もう、いやぁ……」[pcms]
 
 *4538|
 [fc]
-Ren begins to cry, hugging her violin case and spilling[r]
-tears.[pcms]
+漣はバイオリンケースを抱きしめ、[r]
+涙をこぼして泣き出し始める。[pcms]
 
 *4539|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *4540|
 [fc]
-[ns]Wataru[nse]
-"It's okay, Ren..."[pcms]
+[ns]航[nse]
+「……大丈夫だよ漣……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4541|
 [fc]
 [vo_ren s="ren0583"]
-[ns]Ren[nse]
-"...Onii-chan..."[pcms]
+[ns]漣[nse]
+「……お兄……ちゃん……」[pcms]
 
 *4542|
 [fc]
-I hugged Ren firmly, intending to make up for the panic I[r]
-had succumbed to earlier due to fear.[pcms]
+ボクはさっき恐怖で狼狽えてしまったことを[r]
+返上するつもりで、しっかりと漣を抱きしめた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4543|
 [fc]
-[ns]Kousuke[nse]
-"What the... what in the world is this?!"[pcms]
+[ns]浩助[nse]
+「何なんだ……いったい、何なんだよ？　これは！？」[pcms]
 
 *4544|
 [fc]
-Kousuke is muttering to himself as if talking in his sleep.[pcms]
+コースケはうわごとのようにつぶやいている。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4545|
 [fc]
-Even Kousuke seems to be on the verge of panic due to the[r]
-current situation...[pcms]
+あのコースケだって、今の状況にはパニックを[r]
+起こしそうなほどになってるんだ……。[pcms]
 
 *4546|
 [fc]
-All the more so for Ren.[pcms]
+漣なら、なおさらだ。[pcms]
 
 *4547|
 [fc]
-[ns]Wataru[nse]
-"It's okay, Ren. It's going to be okay..."[pcms]
+[ns]航[nse]
+「……大丈夫だよ漣。[r]
+　大丈夫だから……」[pcms]
 
 *4548|
 [fc]
-I hugged Ren strongly once again.[pcms]
+ボクはもういちど強く、漣を抱きしめた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4549|
 [fc]
 [vo_mar s="maru0553"]
-[ns]Margarita[nse]
-"For now, let's keep moving forward. There's no other path[r]
-anyway..."[pcms]
+[ns]マルガリータ[nse]
+「とりあえず、このまま進むとしよう。[r]
+　他に道はないわけだしな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4550|
 [fc]
 [vo_mar s="maru0554"]
-[ns]Margarita[nse]
-"It's unlikely that hatch will be broken through, but we[r]
-can't predict what will happen. Besides, staying here won't[r]
-solve anything."[pcms]
+[ns]マルガリータ[nse]
+「あのハッチが破られることは考えにくいが、[r]
+　なにがあるかわからない。[r]
+　なによりも、ここにいても埒があかない」[pcms]
 
 *4551|
 [fc]
 [vo_mar s="maru0555"]
-[ns]Margarita[nse]
-"If we stay at a dead end, we won't have any more options to[r]
-escape. They might come from the opposite side as well. To[r]
-confirm the situation, we must move forward first!"[pcms]
+[ns]マルガリータ[nse]
+「行き止まりにいてはこれ以上逃げようがないからな。[r]
+　反対側からやつらが来ないとも限らない。[r]
+　状況をたしかめるためにも、まずは先に進むぞ！」[pcms]
 
 *4552|
 [fc]
-[ns]Wataru[nse]
-"Yes, ma'am!"[pcms]
+[ns]航[nse]
+「はいっ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4553|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4554|
 [fc]
 [vo_ren s="ren0584"]
-[ns]Ren[nse]
-"Okay..."[pcms]
+[ns]漣[nse]
+「はい……」[pcms]
 
 *4555|
 [fc]
-Ren responded weakly but surely to her senior. Kousuke...[r]
-still seemed unconvinced and remained silent.[pcms]
+漣は弱々しくだけど先輩に応えた。[r]
+コースケは……まだ、納得できないのか無言のままだったけど。[pcms]
 
 ;//→ブロック４２０１０へ
 [jump storage="42010.ks" target=*42010_TOP]

@@ -19,22 +19,21 @@
 *1513|
 [fc]
 [vo_mar s="maru1465"]
-[ns]Margarita[nse]
-"...It seems Wataru's prediction was correct after all."[pcms]
+[ns]マルガリータ[nse]
+「……やはり、ワタルの予測が正しかったようだな」[pcms]
 
 *1514|
 [fc]
-[ns]Wataru[nse]
-"...Yes, it seems so..."[pcms]
+[ns]航[nse]
+「……そうですね…………」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1515|
 [fc]
-This incident has proven my hypothesis that it might be a[r]
-recurrence of the Tohoku infection disaster from four years[r]
-ago...[pcms]
+今回の出来事が、４年前の東北感染災害の再現ではないかという[r]
+ボクの仮説が証明されたわけだけど……。[pcms]
 
 ;//・感染災害のイメージ映像がフラッシュバック。
 
@@ -56,330 +55,331 @@ ago...[pcms]
 
 *1516|
 [fc]
-Four years ago... When that virus overflowed, and they[r]
-appeared...[pcms]
+４年前……。[r]
+あのウィルスがあふれ出し、ヤツラが現れた……。[pcms]
 
 *1517|
 [fc]
-My mother and grandparents... And the place I could call[r]
-home and the beautiful starry sky... All were taken away[r]
-from me...[pcms]
+母さんと祖父母……。[r]
+それに故郷と呼べる場所と美しい星空……。[r]
+全てをボクから奪い去った……。[pcms]
 
 *1518|
 [fc]
-And yet, now the same thing is about to happen in Tokyo.[pcms]
+それなのに、今度は東京で同じことが起ころうとしている。[pcms]
 
 *1519|
 [fc]
-The important things left to me are being slowly...[r]
-completely stripped away.[pcms]
+ボクに残された大切なモノを、[r]
+じわじわと……根こそぎ奪い尽くそうとしている。[pcms]
 
 *1520|
 [fc]
-Maybe... we will be cornered by them just like this...[pcms]
+もしかしたら……ボクたちは[r]
+このままヤツラに追いつめられてしまうんだろうか……。[pcms]
 
 *1521|
 [fc]
-We might all become one of them... those with the 'red[r]
-eyes'...[pcms]
+ボクもみんなも、ヤツラの仲間に……、[r]
+あの「赤い目」になってしまうのかもしれない……。[pcms]
 
 *1522|
 [fc]
-[ns]Wataru[nse]
-"Ah...!"[pcms]
+[ns]航[nse]
+「あ…………っ」[pcms]
 
 *1523|
 [fc]
-As I was absentmindedly tracing my thoughts, I remembered[r]
-the girl with red eyes.[pcms]
+ぼんやりと思考を辿っていたボクは、[r]
+赤い目の少女を思い出した。[pcms]
 
 *1524|
 [fc]
-That girl... the girl with red eyes...[pcms]
+あの子……赤い目の少女……。[pcms]
 
 *1525|
 [fc]
-The only common feature among the infected is "red eyes."[pcms]
+感染者との共通項は『赤い目』だけだ。[pcms]
 
 *1526|
 [fc]
-But... I can't help but be concerned about the ominous[r]
-feeling I had when I first met that girl.[pcms]
+だけど……それ以外にもあの子に最初会った時に感じた、[r]
+あの禍々しさがどうしても気になる。[pcms]
 
 *1527|
 [fc]
-[ns]Wataru[nse]
-"Um, earlier I..."[pcms]
+[ns]航[nse]
+「あの、ボク、さっき……」[pcms]
 
 *1528|
 [fc]
-I try to speak to everyone. Before we fled into the 'depot',[r]
-I saw 'the girl with red eyes'.[pcms]
+ボクはみんなに向かって、話してみる。[r]
+さっき「ででっぽう」に逃げ込む前に、[r]
+「赤い目の少女」を見たことを。[pcms]
 
 *1529|
 [fc]
-[ns]Wataru[nse]
-"It's not good to suspect someone just because their eye[r]
-color is different, but didn't this incident start right[r]
-after that girl arrived? Maybe there's some... connection."[pcms]
+[ns]航[nse]
+「目の色が人と違うからって、疑うのはよくないけど[r]
+　今回の事が起きたのは、あの子が来てからすぐでしょう？[r]
+　もしかしたら、何か……つながりがあるんじゃないかって」[pcms]
 
 *1530|
 [fc]
-At my words, Yuuho and Ren looked at each other.[pcms]
+ボクの言葉に、悠帆と漣が顔を見合わせた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1531|
 [fc]
 [vo_yuh s="yuho1525"]
-[ns]Yuuho[nse]
-"I... I've seen that girl too."[pcms]
+[ns]悠帆[nse]
+「わ……わたしも、その子なら、見たよ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1532|
 [fc]
 [vo_ren s="ren1361"]
-[ns]Ren[nse]
-"Yeah, she was wandering around unsteadily, right?"[pcms]
+[ns]漣[nse]
+「う、うん……。ふらふら歩いてたよね？」[pcms]
 
 *1533|
 [fc]
-[ns]Wataru[nse]
-"Mizuki. What was that girl like when you were in that[r]
-building?"[pcms]
+[ns]航[nse]
+「瑞樹。そっちのビルにいた時、[r]
+　あの子……どんな様子だった？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1534|
 [fc]
 [vo_miz s="mizuki0275"]
-[ns]Mizuki[nse]
-"What do you mean...?"[pcms]
+[ns]瑞樹[nse]
+「どうって……」[pcms]
 ;//＠困った。助けをもとめてジンを見る。
 
 *1535|
 [fc]
-Mizuki hesitated with a troubled look and glanced at Jin.[pcms]
+瑞樹は困ったような顔で口ごもり、壬を見る。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1536|
 [fc]
-[ns]Kousuke[nse]
-"By the way, that creepy woman... You guys were walking[r]
-around with her, right?"[pcms]
+[ns]浩助[nse]
+「そういや、あの気味の悪い女……。[r]
+　お前らが連れ歩いてたんだよな？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1537|
 [fc]
-[ns]Kousuke[nse]
-"If that woman is the cause, then it's your fault, isn't[r]
-it!?"[pcms]
+[ns]浩助[nse]
+「もし、あの女が原因だとしたら、[r]
+　お前らのせいってことになるよな！？」[pcms]
 
 *1538|
 [fc]
-As Kousuke glared at Jin's group, Shigeyoshi suddenly stood[r]
-up.[pcms]
+壬たちを睨みつけるコースケに、[r]
+たちまち重吉が立ち上がる。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1539|
 [fc]
-[ns]Shigeyoshi[nse]
-"What did you say!? Are you trying to pick a fight!?"[pcms]
+[ns]重吉[nse]
+「ンだとぉっ！？　因縁つけよーってのか！？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1540|
 [fc]
 [vo_miz s="mizuki0276"]
-[ns]Mizuki[nse]
-"Kousuke! Stop it!"[pcms]
+[ns]瑞樹[nse]
+「コースケっ！　やめて！」[pcms]
 
 *1541|
 [fc]
-Even as Mizuki tried to stop him, Kousuke refused to back[r]
-down.[pcms]
+瑞樹に止められても、コースケは退こうとしなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1542|
 [fc]
-[ns]Kousuke[nse]
-"What about it, answer me! Where did you bring that woman[r]
-from? What's your relationship with her!?"[pcms]
+[ns]浩助[nse]
+「どうなんだっ、答えろよ！[r]
+　あの女、どっから連れてきた！？[r]
+　どういう関係なんだっ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1543|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1544|
 [fc]
-[ns]Kousuke[nse]
-"So you're determined not to answer, huh."[pcms]
+[ns]浩助[nse]
+「あくまでも答えねーつもりかよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1545|
 [fc]
-[ns]Kousuke[nse]
-"Or maybe... you guys. You've been with that woman and got[r]
-infected, haven't you? That's why you can't say anything?"[pcms]
+[ns]浩助[nse]
+「それとも……、[r]
+　お前ら。あの女と一緒にいて、感染しちまったのか？[r]
+　だから何も言えねーってのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1546|
 [fc]
 [vo_yuh s="yuho1526"]
-[ns]Yuuho[nse]
-"No way..."[pcms]
+[ns]悠帆[nse]
+「まさか……」[pcms]
 
 *1547|
 [fc]
-All of us were shocked and our gazes turned towards Jin's[r]
-group.[pcms]
+ギョッとしたボクたちの視線が壬たちに集まる。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1548|
 [fc]
-[ns]Shigeyoshi[nse]
-"You little brat!! Getting all cocky just because we're[r]
-listening quietly, huh!?"[pcms]
+[ns]重吉[nse]
+「てめぇぇぇっ！！[r]
+　黙って聞いてりゃ調子に乗りやがって、このガキっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1549|
 [fc]
-[ns]Jin[nse]
-"You're free to doubt..."[pcms]
+[ns]壬[nse]
+「疑うのは勝手だが……」[pcms]
 
 *1550|
 [fc]
-Apart from the agitated Shigeyoshi, Jin spoke in a tone that[r]
-seemed utterly bothered.[pcms]
+いきりたつ重吉をよそに、[r]
+いかにも面倒くさそうな口調で、壬が言う。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1551|
 [fc]
-[ns]Jin[nse]
-"Does 'you guys' include Mizuki as well?"[pcms]
+[ns]壬[nse]
+「『お前ら』って中には、瑞樹も入ってるのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1552|
 [fc]
-[ns]Kousuke[nse]
-"...!?"[pcms]
+[ns]浩助[nse]
+「……っ！？」[pcms]
 
 *1553|
 [fc]
-Kousuke gasped and turned to look at Mizuki.[pcms]
+コースケはハッと息を呑んで瑞樹を見やった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1554|
 [fc]
-[ns]Kousuke[nse]
-"Mi, Mizuki is..."[pcms]
+[ns]浩助[nse]
+「み、瑞樹は……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1555|
 [fc]
 [vo_miz s="mizuki0277"]
-[ns]Mizuki[nse]
-"It's not like that! Please, just stop it! I'm begging you!"[pcms]
+[ns]瑞樹[nse]
+「違うったら！　もう、やめてっ！　お願いだから！」[pcms]
 
 *1556|
 [fc]
-Clenching her fists tightly, Mizuki raised her voice as much[r]
-as she could.[pcms]
+両手の拳をぎゅっと握って、[r]
+瑞樹は精一杯の大声をあげた。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1557|
 [fc]
 [vo_miz s="mizuki0278"]
-[ns]Mizuki[nse]
-"Indeed, we brought that girl to Shibuya. But... it's not[r]
-like we did it because we wanted to!"[pcms]
+[ns]瑞樹[nse]
+「確かに、あの子を渋谷に連れてきたのはあたしたちだよ。[r]
+　だけど……あたしたちだって、[r]
+　別に好きでそうしたわけじゃない！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1558|
 [fc]
 [vo_miz s="mizuki0279"]
-[ns]Mizuki[nse]
-"We were ordered by a high-ranking yakuza member, we had no[r]
-choice!"[pcms]
+[ns]瑞樹[nse]
+「ヤクザの偉い人に命令されちゃって、仕方なく、だよ！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1559|
 [fc]
 [vo_miz s="mizuki0280"]
-[ns]Mizuki[nse]
-"Besides, we've received vaccinations and we made sure to[r]
-keep our distance from her!"[pcms]
+[ns]瑞樹[nse]
+「それに、あたしたちは予防接種だって受けてるし、[r]
+　あの子には近付かないようにしてた！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1560|
 [fc]
 [vo_miz s="mizuki0281"]
-[ns]Mizuki[nse]
-"So I think... we should be safe from airborne infection."[pcms]
+[ns]瑞樹[nse]
+「だから、空気感染も、大丈夫……だと思う」[pcms]
 ;//＠少し自信が無い
 
 *1561|
 [fc]
-Mizuki's voice gradually became quieter.[pcms]
+瑞樹の声が少しずつ小さくなる。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1562|
 [fc]
 [vo_miz s="mizuki0282"]
-[ns]Mizuki[nse]
-"Even so, Kousuke, are you still going to blame us?"[pcms]
+[ns]瑞樹[nse]
+「それでもコースケ、あたしたちを責めるの？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1563|
 [fc]
-[ns]Kousuke[nse]
-"...It's not really like that..."[pcms]
+[ns]浩助[nse]
+「…………べ、別にそーゆーんじゃ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1564|
 [fc]
 [vo_mar s="maru1466"]
-[ns]Margarita[nse]
-"That's enough."[pcms]
+[ns]マルガリータ[nse]
+「そこまでだ」[pcms]
 
 *1565|
 [fc]
-Suddenly, the senior interrupted.[pcms]
+不意に先輩が割って入った。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1566|
 [fc]
 [vo_mar s="maru1467"]
-[ns]Margarita[nse]
-"There's no point in blaming what has already happened.[r]
-Instead, let's think about what we're going to do from now[r]
-on."[pcms]
+[ns]マルガリータ[nse]
+「起きてしまったことを責めても仕方ない。[r]
+　それよりも、これから我々がどうするかを考えよう」[pcms]
 
 ;//→ブロック５０２８０へ
 [jump storage="50280.ks" target=*50280_TOP]

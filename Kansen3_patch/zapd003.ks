@@ -25,14 +25,14 @@
 *3323|
 [fc]
 [vo_miz s="mizuki0107"]
-[ns]Mizuki[nse]
-"Okay, understood!"[pcms]
+[ns]瑞樹[nse]
+「わ、わかった！」[pcms]
 ;//＠大慌てで
 
 *3324|
 [fc]
-As Jin instructed, I relied on that voice and dashed out of[r]
-the shower room.[pcms]
+ジンに言われるまま、あたしはその声を頼りに、[r]
+シャワールームから飛び出した。[pcms]
 
 [eval exp="f.l_mizuki = 1"]
 

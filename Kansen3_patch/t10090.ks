@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）昼
+;//・時間帯：５日目（８月１９日）昼～
 ;//
 ;//※ライター様へ。
 ;//　このブロックはいわゆる日常シーンですが、
@@ -29,45 +29,46 @@
 
 *5917|
 [fc]
-[ns]Wataru[nse]
-"...Wow..."[pcms]
+[ns]航[nse]
+「……わあ……」[pcms]
 
 *5918|
 [fc]
-Standing atop my favorite signboard, I shielded my eyes from[r]
-the sun and looked around in all directions.[pcms]
+お気に入りの看板の上に出たボクは[r]
+目の上に手をかざして日差しを遮りながら[r]
+ぐるりと四方を見渡した。[pcms]
 
 *5919|
 [fc]
-The air was slightly hazy... Perhaps it's because of the[r]
-black smoke rising from areas like Setagaya, Nakano, and[r]
-Nerima.[pcms]
+一面の空気が少し霞んでいる……。[r]
+世田谷や中野、練馬あたりに黒煙が立ち昇っているから[r]
+そのせいかもしれない……。[pcms]
 
 *5920|
 [fc]
-However, the structures and roads in front of me seemed to[r]
-retain their shape better than I thought.[pcms]
+だけど視界の手前にある構造物や道路なんかは[r]
+思ったよりも以前の形を留めている。[pcms]
 
 *5921|
 [fc]
-Of course, if you look closely, you can see soot on the[r]
-building walls and broken glass on the buildings. But[r]
-overall, the scenery was surprisingly unchanged.[pcms]
+もちろんよく見ればビル壁面がすすけていたり、[r]
+建物のガラスが割れてたりするんだけど。[r]
+風景全体としてみれば、意外に元のままだった。[pcms]
 
 *5922|
 [fc]
-[ns]Wataru[nse]
-"...Uh, the crows are..."[pcms]
+[ns]航[nse]
+「……えーと、カラスは……」[pcms]
 
 *5923|
 [fc]
-I cautiously checked my surroundings, but at this time,[r]
-maybe they're out looking for food, as I can't see any[r]
-flocks of them.[pcms]
+一応、周囲を警戒してみたけど、[r]
+今の時間エサでも探しに行ってるのか、[r]
+それらしき群れは見当たらない。[pcms]
 
 *5924|
 [fc]
-Having confirmed it was safe, I slowly lay down.[pcms]
+安全を確認したボクは、ゆっくりと寝転んだ。[pcms]
 
 ;//〆空　青空
 [bg storage="BGS008a"][trans_c cross time=500]
@@ -75,115 +76,112 @@ Having confirmed it was safe, I slowly lay down.[pcms]
 
 *5925|
 [fc]
-[ns]Wataru[nse]
-"...The weather's nice..."[pcms]
+[ns]航[nse]
+「……天気いいなー……」[pcms]
 
 *5926|
 [fc]
-Just looking up at the sky like this, it feels as if nothing[r]
-has changed since "that day."[pcms]
+こうして空だけ見てると、[r]
+「あの日」以前と何も変わらないようにも思える。[pcms]
 
 *5927|
 [fc]
-The sky is blue, and music is playing in the city...[pcms]
+空は青いし。街には有線が流れてるし……。[pcms]
 
 *5928|
 [fc]
-...What's missing are people's voices. And the wind carries[r]
-a faint stench of death and the smell of burning. But[r]
-somehow, I've gotten used to it...[pcms]
+…………足りないのは人の声。[r]
+それに風には僅かな死臭と、焦げ臭さが混じっている。[r]
+でも、これも何だか慣れてきてしまったな……。[pcms]
 
 *5929|
 [fc]
-Just four days ago, when I was lying here, I thought that[r]
-"normal" times would continue indefinitely. But so much has[r]
-changed dramatically...[pcms]
+つい４日前、ここで寝そべっていたときは、[r]
+なんともない『普通』の時間が続くものだと思っていたのに。[r]
+あまりにも多くのことが激変してしまった……。[pcms]
 
 *5930|
 [fc]
-But when I think about it, it's amazing I've survived this[r]
-long...[pcms]
+だけど。思えばよく生き延びられたな……。[pcms]
 
 *5931|
 [fc]
-In a city center where the population density of infected[r]
-people is highest and there's no military facility nearby...[r]
-Logically, I shouldn't have survived.[pcms]
+こんな街中の感染者の人口密度が一番濃い場所で[r]
+近くに軍の施設があるわけでもなくて……。[r]
+普通に考えたら絶対助からなかったはずだ。[pcms]
 
 *5932|
 [fc]
-Yet here I am, leisurely gazing at the sky...[pcms]
+それが、こうしてのんびり空なんか眺めていられるわけで……。[pcms]
 
 *5933|
 [fc]
-If it weren't for Yuuho, Ren, Kousuke, Maruko-senpai, and[r]
-Tadahiko, I would have surely died at the academy just like[r]
-that.[pcms]
+悠帆や漣、コースケにマル子先輩、それに彦ちん。[r]
+みんながいなかったら、ボクはきっと[r]
+あのまま学園で死んでしまっていただろう。[pcms]
 
 *5934|
 [fc]
-I owe it to everyone that I've made it this far. I'm truly[r]
-blessed with the people around me.[pcms]
+ここまで辿り着けたのはみんなのおかげだ。[r]
+ボクはホントに、周りの人には恵まれてるな。[pcms]
 
 *5935|
 [fc]
-Especially... The girls have not only helped me but also[r]
-given me strength...[pcms]
+特に……。女の子たちには[r]
+助けられるだけじゃなくて、元気ももらってる……。[pcms]
 
 *5936|
 [fc]
-Just last night was the same. The words of gratitude Yuuho[r]
-conveyed to me... The conversation I had with Maruko-[r]
-senpai...[pcms]
+昨夜だってそうだ。[r]
+悠帆がボクに伝えてくれた感謝の言葉……。[r]
+マル子先輩と交わした会話……。[pcms]
 
 *5937|
 [fc]
-Their warm kindness and trust give courage to a wimp like[r]
-me...[pcms]
+二人からの温かな優しさや信頼が[r]
+ヘタレなボクに勇気をくれる……。[pcms]
 
 *5938|
 [fc]
-Ren too. When she looks at me with those straightforward[r]
-eyes full of trust, I feel like I can't give up or get[r]
-discouraged...[pcms]
+漣だって、そうだ。[r]
+ボクを信頼しきった、あのまっすぐな瞳で見つめられると[r]
+頑張らなくちゃ、メゲてなんかいられない……と思ってしまう。[pcms]
 
 *5939|
 [fc]
-It's a bit bad manners to eavesdrop, but when I think it's[r]
-cute jealousy, I can't get angry.[pcms]
+立ち聞きしてたのは少しお行儀が悪いけど、[r]
+可愛いヤキモチだろうって思うと怒る気がしない。[pcms]
 
 *5940|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………………………………………」[pcms]
 
 *5941|
 [fc]
-Why is it that when I'm sincerely trying to be grateful...[r]
-images of Yuuho in her bloomers, Ren as a shrine maiden, and[r]
-Senpai as Bunny-chan (imaginary) come to mind?[pcms]
+なんで、純粋に感謝しようと思ってるのに……、[r]
+悠帆のブルマとか漣の巫女さんとか先輩のバニーちゃん（想像）が[r]
+頭に浮かんできちゃうんだ？[pcms]
 
 *5942|
 [fc]
-[ns]Wataru[nse]
-"Am I pent up...?"[pcms]
+[ns]航[nse]
+「溜まってるのかな、ボク……」[pcms]
 
 *5943|
 [fc]
-Lately, I feel troubled by worldly desires. Even though it's[r]
-a matter of life and death... Or maybe it's precisely[r]
-because of that situation that my instincts are becoming[r]
-more active?[pcms]
+最近、煩悩にばかり悩まされてる気がする。[r]
+生きるか死ぬかっていう時なのに……。[r]
+それとも、そういう時だからこそ本能が活性化してるんだろうか？[pcms]
 
 *5944|
 [fc]
-[ns]Wataru[nse]
-"Men are sad creatures..."[pcms]
+[ns]航[nse]
+「男って哀しいなー」[pcms]
 
 *5945|
 [fc]
-I guess I should find a private room to hide in and jerk off[r]
-secretly...[pcms]
+とりあえず個室にでも隠れて、こっそり抜こうかな……。[pcms]
 
 ;//〆屋上風景
 [bg storage="BG200a"][trans_c cross time=500]
@@ -191,21 +189,21 @@ secretly...[pcms]
 
 *5946|
 [fc]
-Rising up leisurely, I decided to go back inside the[r]
-building and climbed down from the signboard.[pcms]
+おもむろに起き上がったボクは、ビルの中に戻ろうと、[r]
+看板から下りていく。[pcms]
 
 *5947|
 [fc]
-[ns]Wataru[nse]
-"...Huh?"[pcms]
+[ns]航[nse]
+「……あれ？」[pcms]
 
 *5948|
 [fc]
-Something moved at the edge of my field of vision.[pcms]
+視界の端に、何か動くものがある。[pcms]
 
 *5949|
 [fc]
-Is that... an infected person? Or...?[pcms]
+あれは……感染者か？　それとも……？[pcms]
 
 [fadeoutbgm time=500]
 
@@ -214,106 +212,109 @@ Is that... an infected person? Or...?[pcms]
 [fc]
 [vo_mob s="seizon1_T0001"]
 [ns]？？？[nse]
-"...Brother... help meee..."[pcms]
+「…………お、おにぃちゃああぁん！　た、助けてぇぇぇ……」[pcms]
 ;//＠遠くから。あとで？？？に変更。台詞も…………に変更
 
 *5950|
 [fc]
 [vo_mob s="seizon2_T0001"]
 [ns]？？？[nse]
-"Over here! I'm here! Please notice me!"[pcms]
+「こっちよ！　ここにいるの！　お願い、気づいて！」[pcms]
 ;//＠遠くから。あとで？？？に変更。台詞も…………に変更
 
 [bgm storage="BGM03"]
 
 *5951|
 [fc]
-From the balcony of an apartment building across the street,[r]
-two people were waving their hands at me vigorously.[pcms]
+通りを挟んだ向かい側に建つマンションのベランダから[r]
+二人の人物がボクに大きく手を振っていた。[pcms]
 
 *5952|
 [fc]
-They're waving at me!? That means...[pcms]
+こっちに手を振っている！？[r]
+ということは……。[pcms]
 
 *5953|
 [fc]
-[ns]Wataru[nse]
-"Survivors!! Hey------, hey------!"[pcms]
+[ns]航[nse]
+「生存者だ！！[r]
+　おーーーーーーいっ、おーいっ！」[pcms]
 
 *5954|
 [fc]
-I waved my hands back at them and shouted in response.[pcms]
+ボクも大きく両手を振り回して叫び返す。[pcms]
 
 *5955|
 [fc]
-One is a middle-aged woman, and the other is a young girl.[r]
-To think there were other survivors so close to us![pcms]
+一人は中年くらいの女の人で、もう一人は若い女の子だ。[r]
+ボクら以外に生き残ってる人が、こんな近くにいたなんて！[pcms]
 
 *5956|
 [fc]
 [vo_mob s="seizon1_T0002"]
 [ns]？？？[nse]
-"Big brother! Over here, this way!..."[pcms]
+「おにぃちゃんっ！　こっちだよ、こっち！……」[pcms]
 ;//＠遠くから
 
 *5957|
 [fc]
 [vo_mob s="seizon2_T0002"]
 [ns]？？？[nse]
-"We got left behind! Please help us!"[pcms]
+「私たち、逃げ遅れてしまったの！[r]
+　お願い、助けてちょうだい！」[pcms]
 ;//＠遠くから
 
 *5958|
 [fc]
-Their voices echoed off the buildings but still reached me.[pcms]
+二人の声がビルに反響しながらも届いてきた。[pcms]
 
 *5959|
 [fc]
-[ns]Wataru[nse]
-"Got it----! I'll be there soon----!"[pcms]
+[ns]航[nse]
+「わかったーーーー！　すぐ行くよーーーー！」[pcms]
 
 *5960|
 [fc]
-The entrance to that apartment should be behind Toyo Hand.[r]
-Although we have to leave this "valley" between buildings[r]
-first, it's a short distance and shouldn't be too dangerous[r]
-if we move carefully.[pcms]
+あのマンションは東洋ハンドの裏手に入り口があったはずだ。[r]
+ビルの『谷間』からは、いったん出ないといけないけれど、[r]
+近距離だし、注意深く動けば、そんなに危険はないだろう。[pcms]
 
 *5961|
 [fc]
-[ns]Wataru[nse]
-"I'm heading over there with my friends now---! Just wait a[r]
-little longer... ...Eh!"[pcms]
+[ns]航[nse]
+「今から、仲間とそっちに向かうからねーーーっ！[r]
+　もう少しだけ、待ってて……、[r]
+　………………えっ！」[pcms]
 
 *5962|
 [fc]
-Suddenly, the two began to clamber over the balcony railing[r]
-as if entangled with each other.[pcms]
+突然、二人はもつれ合うようにして[r]
+ベランダの手すりを乗り越えはじめた。[pcms]
 
 *5963|
 [fc]
-[ns]Wataru[nse]
-"Wha-, what are you doing!? I said I'm coming right now!!?"[pcms]
+[ns]航[nse]
+「なっ、何やってるんだっ！？[r]
+　い、今すぐ行くって言ってるのにっ！！？」[pcms]
 
 *5964|
 [fc]
-The two landed on a narrow catwalk and held onto the balcony[r]
-railing while looking inside the room.[pcms]
+細いキャットウォークに降り立った二人は、[r]
+ベランダの柵に掴まったまま、室内の方を見ている。[pcms]
 
 *5965|
 [fc]
-Emerging from inside by breaking through the glass was...[pcms]
+部屋の中からガラスを打ち破って現れたのは……。[pcms]
 
 *5966|
 [fc]
-[ns]Wataru[nse]
-"An... infected person!?"[pcms]
+[ns]航[nse]
+「や……[ruby text="や　つ　ら"][ch text="感染者"]だっ！？」[pcms]
 
 *5967|
 [fc]
-Just as a group of people appeared and were about to grab[r]
-them, the two hugged each other tightly and took a desperate[r]
-dive to the ground...[pcms]
+数人の集団が現れ、まさに掴みかかろうとした時……、[r]
+二人は固く抱き合い、地上への絶望的なダイブを敢行した……。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -340,63 +341,66 @@ dive to the ground...[pcms]
 
 *5968|
 [fc]
-I couldn't save them again...[pcms]
+また、助けられなかった……。[pcms]
 
 *5969|
 [fc]
-Even though they were so close. Even though they were alive[r]
-right before my eyes.[pcms]
+あんなに近くにいたのに。[r]
+目の前で生きていたのに。[pcms]
 
 *5970|
 [fc]
-Just like when I lost friends and companions at school, all[r]
-I could do was watch as lives were extinguished.[pcms]
+学園の友達や仲間を亡くした時と同じように、[r]
+ただ命が消えるのを見てることしかできなかった。[pcms]
 
 *5971|
 [fc]
 [vo_miz s="mizuki_T0010"]
 [ns]？？？[nse]
-"...ah...ahhh...haaahhhn!"[pcms]
+「…………ぁ……あぁっ……はあぁぁんっ！」[pcms]
 ;//＠加工で音量、極小。発言者名を「？？？」に変更。文字を全て×××に置換
 
 *5972|
 [fc]
-I'm still powerless. I thought I had courage because[r]
-everyone encouraged me... but in the end, I can't save[r]
-anyone on my own...[pcms]
+やっぱりボクは無力だ。[r]
+さっきまで、みんなに励まされて勇気が……なんて思ったけど、[r]
+結局、ボクだけじゃ誰ひとり救うことができない……。[pcms]
 
 *5973|
 [fc]
 [vo_miz s="mizuki_T0011"]
 [ns]？？？[nse]
-"...hii, Kousuke! ...do it, do it more, do it eeehh!"[pcms]
+「……ひぃっ、コースケぇっ！[r]
+　……してしてっ、もっと、してぇぇっ！」[pcms]
 ;//＠加工で音量、小。発言者名を「？？？」に変更。文字を一部×××に置換
 
 *5974|
 [fc]
-I'm powerless... But right now, just surviving is all I can[r]
-manage... I'm sorry... I'm really sorry...[pcms]
+ボクは無力だ……。[r]
+だけど、今は自分が生き残るだけで、もう精一杯で……。[r]
+ごめん……ホントにごめんね……。[pcms]
 
 *5975|
 [fc]
 [vo_miz s="mizuki_T0012"]
 [ns]？？？[nse]
-"Haaah! Kousuke's! Kousuke's cock ahh! Ah, it's hitting...[r]
-deep inside me! It's piercing my pussy!"[pcms]
+「はあぁっ！　コースケのっ！　コースケのチンコがぁぁ！[r]
+　あっ、あたしの……っ、奥にっ！　マンコに刺さるぅぅ！」[pcms]
 ;//＠音量、やや小さい程度。発言者名を「？？？」に変更。文字を一部×××に置換
 
 *5976|
 [fc]
-[ns]Wataru[nse]
-"Ah, enough already! You've been noisy since a while ago.[r]
-What's all this commotion...???"[pcms]
+[ns]航[nse]
+「あーっ、もう！　さっきからうるさいな。[r]
+　一体、何のさわ……？？？」[pcms]
 
 *5977|
 [fc]
 [vo_miz s="mizuki_T0013"]
 [ns]？？？[nse]
-"...amazing! It feels so good! Kousuke's reaching deep[r]
-inside... it's pounding my womb!"[pcms]
+「……すっ、すごいぃぃっ！　すごい、気持ちいいぃぃぃっ！[r]
+　コースケのっ、奥まで届いて……、[r]
+　子宮にずんずん来るぅぅっ！！」[pcms]
 
 
 ;//bgm08・believe
@@ -404,8 +408,8 @@ inside... it's pounding my womb!"[pcms]
 
 *5977a|
 [fc]
-[ns]Wataru[nse]
-"...what...!!???"[pcms]
+[ns]航[nse]
+「…………なっ…………！！？？？」[pcms]
 
 [ChrSetEx layer=3 chbase="yuho_i3"][ChrSetXY layer=3 x=-95 y=0]
 [ChrSetEx layer=5 chbase="maru_o5"][ChrSetXY layer=5 x=147 y=0]
@@ -414,209 +418,212 @@ inside... it's pounding my womb!"[pcms]
 
 *5978|
 [fc]
-[ns]Yuuho & Ren & Margarita[nse]
-"..."[pcms]
+[ns]悠帆＆漣＆マルガリータ[nse]
+「…………………………」[pcms]
 ;//＠声にならないためいき
 
 *5979|
 [fc]
-Yuuho, Ren, and Senior Maruko, who had been standing stiff[r]
-in front of the counter, glanced at me briefly and then[r]
-looked away again. Everyone was fidgeting.[pcms]
+カウンターの前に棒立ちになっていた悠帆と漣とマル子先輩が[r]
+ボクにちらっと視線を送ってきて、また目を逸らした。[r]
+全員がそわそわとしている。[pcms]
 
 *5980|
 [fc]
-Yuuho is still wearing bloomers, Ren is in a sailor uniform,[r]
-and Senior Maruko is even in a gi...!?[pcms]
+悠帆はブルマを穿いたままだし、漣はセーラー服着てるし、[r]
+マル子先輩に至っては道着姿だし……！？[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5981|
 [fc]
-[ns]Wataru[nse]
-"Wh-what's everyone doing... I mean, no, more importantly,[r]
-that voice is..."[pcms]
+[ns]航[nse]
+「み、みんな何して……っていうか、[r]
+　いや、そんなことより、その、この声って……」[pcms]
 
 *5982|
 [fc]
 [vo_miz s="mizuki_T0015"]
-[ns]Mizuki[nse]
-"Give it to me! Your thick semen, cum inside me! I love you[r]
-Kousuke... I really love you so I want it!"[pcms]
+[ns]瑞樹[nse]
+「ちょうだいぃっ！　濃厚せーし、中出ししてぇぇっ！[r]
+　コースケのこと好きだから……、大好きだから欲しいのぉっ！」[pcms]
 
 *5983|
 [fc]
 [vo_miz s="mizuki_T0016"]
-[ns]Mizuki[nse]
-"I don't mind getting pregnant... no, I want to! I want to[r]
-conceive Kousuke's baby! Kousuke! Impregnate me!!"[pcms]
+[ns]瑞樹[nse]
+「妊娠……してもいい！　ううん、したいっ！[r]
+　コースケの赤ちゃん、受胎したいっ！！[r]
+　コースケぇっ！　あたしを、孕ませてぇぇっ！！」[pcms]
 
 *5984|
 [fc]
-No doubt about it, it was Mizuki's voice. And it definitely[r]
-sounded like she was in the midst of... that with Kousuke.[r]
-And they seemed to be going at it quite vigorously...[pcms]
+どう聞いても、瑞樹の声だった。[r]
+どう考えても、コースケと……その……アレの最中のようだ。[r]
+しかもかなり激しく励んでいるようだ……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5985|
 [fc]
-[ns]Jin[nse]
-"...hm-...?"[pcms]
+[ns]壬[nse]
+「…………んー……？」[pcms]
 
 *5986|
 [fc]
-There Jin appeared, looking sleepy. Seeing him with a box[r]
-set of foreign drama DVDs, he might have just tried out the[r]
-reclining seats.[pcms]
+そこに、眠そうな顔をした壬さんがぶらりと現れた。[r]
+海外ドラマのＤＶＤーＢＯＸを持っているところを見ると[r]
+さっそくリクライニング席を試してみたのかもしれない。[pcms]
 
 *5987|
 [fc]
 [vo_miz s="mizuki_T0017"]
-[ns]Mizuki[nse]
-"Ahh, Kousuke! Cum! Cum! Ah, I'm also... ohh! I'm cumming![r]
-Cumming! Cumcumcumcumcumcumcumcuuum!!!"[pcms]
+[ns]瑞樹[nse]
+「あぁっ、コースケぇっ！　イって！　イって！[r]
+　あ、あたしも……っ、んおぁ！　イ……イグっ！　イグっ！[r]
+　イグイグイグイグイグイグイグイグぅぅぅーーーーーっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5988|
 [fc]
-[ns]Jin[nse]
-"What's all this noise?"[pcms]
+[ns]壬[nse]
+「何だ？　騒々しいな……」[pcms]
 
 *5989|
 [fc]
-Jin frowned slightly at Mizuki's moans and scratched his[r]
-cheek.[pcms]
+瑞樹の嬌声に軽く眉を顰め、頬をぽりぽりと掻く。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5990|
 [fc]
-[ns]Jin[nse]
-"I can't sleep like this... I'm going upstairs."[pcms]
+[ns]壬[nse]
+「これでは眠れん……。上に行く」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *5991|
 [fc]
-Jin left without much fuss.[pcms]
+壬さんはあっさりと立ち去っていった。[pcms]
 
 *5992|
 [fc]
 [vo_miz s="mizuki_T0018"]
-[ns]Mizuki[nse]
-"Nooooh----!! It's coming out! It's coming out!! Inside me,[r]
-in my pussy, in my womb! Loads and loads of semen, pouring[r]
-out~~!!"[pcms]
+[ns]瑞樹[nse]
+「んおぉおああぁーーーーっ！！　出てる！　出てるぅぅ！！[r]
+　あたしの中に、マンコにっ、子宮にっ！[r]
+　いっぱい、いっぱい、せーしっ、出てるぅぅぅ～っ！！」[pcms]
 
 *5993|
 [fc]
-Mizuki's voice became even more urgent and high-pitched.[r]
-Eventually...[pcms]
+瑞樹の声はますます切羽詰った甲高い響きになってきた。[r]
+やがて……。[pcms]
 
 *5994|
 [fc]
 [vo_miz s="mizuki_T0019"]
-[ns]Mizuki[nse]
-"Kuhahaaa~~~nnnn...!!"[pcms]
+[ns]瑞樹[nse]
+「くはああぁぁぁ～～～～～～～～～～んぅっ……！！」[pcms]
 
 *5995|
 [fc]
-After a particularly loud scream echoed for a long time, the[r]
-area suddenly became quiet.[pcms]
+一際高い悲鳴が長々と聞こえてきた後、[r]
+辺りは急にしん、と静かになる。[pcms]
 
 *5996|
 [fc]
-[ns]Wataru[nse]
-"...pheww..."[pcms]
+[ns]航[nse]
+「…………ふぅぅ……」[pcms]
 
 *5997|
 [fc]
-We finally seemed to be released from the petrification[r]
-spell as we all relaxed our shoulders and sighed.[pcms]
+ボクたちはようやく石化の呪縛から解き放たれたように[r]
+それぞれ肩の力を抜いて、溜息をついた。[pcms]
 
 *5998|
 [fc]
-I ended up with a half-smile on my face, not sure whether to[r]
-be amazed or just to let out a laugh.[pcms]
+呆れるのやら脱力やら可笑しいやらで、[r]
+ボクは中途半端な半笑いの顔になってしまう。[pcms]
 
 *5999|
 [fc]
-It was really... kind of funny.[pcms]
+ホントに……、なんだか可笑しかった。[pcms]
 
 *6000|
 [fc]
-The rawness of it all was off-putting, but when you think[r]
-about the people who just took their own lives, and here we[r]
-are in the midst of creating life...[pcms]
+あまりに生々しくて気がそがれたっていうのもあるけど、[r]
+たった今、自ら命を絶った人たちがいるかと思えば、[r]
+こちらでは命を創造する交わりの最中で……。[pcms]
 
 *6001|
 [fc]
-I wonder if this is just how the world is... Maybe there's[r]
-no point in beating myself up over it...[pcms]
+なんか……実際、世の中ってこんなものなのかな……？[r]
+あまり自分ばかり責めて落ち込んでも意味がないのかな……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_i3"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
 *6002|
 [fc]
 [vo_yuh s="yuho_T0020"]
-[ns]Yuuho[nse]
-"Um... what should we do in this kind of situation...?"[pcms]
+[ns]悠帆[nse]
+「あ、あの…………、[r]
+　こ、こーゆー場合、どうすればいい……かなあ？」[pcms]
 
 *6003|
 [fc]
-Yuuho was blushing furiously and fidgeting while trying (and[r]
-failing) to sound calm as she spoke to me.[pcms]
+気付くと、悠帆は真っ赤な顔でもじもじしながら[r]
+平静な口調を装おうとして（それには失敗していたけど）、[r]
+ボクに話しかけてきた。[pcms]
 
 *6004|
 [fc]
-[ns]Wataru[nse]
-"Really... what are Kousuke and the others doing?"[pcms]
+[ns]航[nse]
+「ま、まったく……コースケたち、何してるんだろうね」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6005|
 [fc]
 [vo_ren s="ren_T0018"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 ;//＠何もコメントできない
 
 *6006|
 [fc]
-Ren blushed even more and looked down.[pcms]
+漣は更に顔を赤くしてうつむいてしまう。[pcms]
 
 *6007|
 [fc]
-[ns]Wataru[nse]
-"Ah. By 'what are they doing,' I mean they're definitely[r]
-doing something bad but not like that kind of 'doing' but[r]
-ratheruh..."[pcms]
+[ns]航[nse]
+「あ。その、『何してる』っていうのは[r]
+　いくらなんでもまずいコトして……って意味で[r]
+　その、ナニをしてるとか、ではなくて、えっと……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6008|
 [fc]
-Ren covered her face with her hands. Oh no... did I make it[r]
-worse?[pcms]
+漣は両手で顔を覆ってしまう。[r]
+うわ……追い討ちだった？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_o2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6009|
 [fc]
 [vo_mar s="maru_T0036"]
-[ns]Margarita[nse]
-"So... that's right, yeah... We need to say something, it[r]
-would be bad not to!"[pcms]
+[ns]マルガリータ[nse]
+「そ……そうだな、うん…………[r]
+　ひ、ひとこと……注意しないと、まずいだろうな！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6010|
 [fc]
-Senior Maruko unnecessarily tensed her shoulders and started[r]
-walking towards the kitchen as she rolled up her sleeves.[pcms]
+不必要に肩をいからせたマル子先輩が、[r]
+腕まくりしながらキッチンの方に歩き出そうとした。[pcms]
 
 [ChrSetEx layer=3 chbase="yuho_i9"][ChrSetXY layer=3 x=-95 y=0]
 [ChrSetEx layer=5 chbase="maru_o5"][ChrSetXY layer=5 x=147 y=0]
@@ -625,27 +632,28 @@ walking towards the kitchen as she rolled up her sleeves.[pcms]
 *6011|
 [fc]
 [vo_miz s="mizuki_T0020"]
-[ns]Mizuki[nse]
-"Kuahhh, nooo!!"[pcms]
+[ns]瑞樹[nse]
+「くああぁぁっ、だっ。ダメえぇぇっ！！」[pcms]
 
 *6012|
 [fc]
-We all jumped in unison.[pcms]
+ボクたちは一斉にびくっと飛び上がる。[pcms]
 
 *6013|
 [fc]
 [vo_miz s="mizuki_T0021"]
-[ns]Mizuki[nse]
-"I'm sorry!! I apologize!! Nhaaahh! To become such a lewd[r]
-body... I'm sorry!!"[pcms]
+[ns]瑞樹[nse]
+「ごめんねっ！！　ごめんなさいぃっ！！[r]
+　んはああぁっ！　こ、こんな……、[r]
+　い、いやらしい身体になって……ごめんなさいぃっ！！」[pcms]
 
 *6014|
 [fc]
 [vo_miz s="mizuki_T0022"]
-[ns]Mizuki[nse]
-"I'm apologizing... so please, do it more! More and more![r]
-Ravish me in incredible ways! Pour your semen into my[r]
-pussy!!"[pcms]
+[ns]瑞樹[nse]
+「謝るから……っ、だから、もっとしてぇぇっ！[r]
+　もっともっと！　すごい格好で犯してぇっ！[r]
+　あたしのマンコに、せーし、そそぎこんでぇぇぇぇっ！！」[pcms]
 
 [ChrSetEx layer=3 chbase="yuho_i10"][ChrSetXY layer=3 x=-95 y=0]
 [ChrSetEx layer=5 chbase="maru_o5"][ChrSetXY layer=5 x=147 y=0]
@@ -653,73 +661,73 @@ pussy!!"[pcms]
 
 *6014a|
 [fc]
-...It seems that the second round has started.[pcms]
+…………どうやら、第２ラウンドが始まってしまったみたいだ。[pcms]
 
 *6015|
 [fc]
 [vo_miz s="mizuki_T0023"]
-[ns]Mizuki[nse]
-"Hahi~i, ah, haaah, hagu, ah~ah! Ahi aaaa~ah, nnh, hiuuuun,[r]
-nnnn~!! Nhaaaaah fuuuaaaa~~~n!!"[pcms]
+[ns]瑞樹[nse]
+「はひぃぃぃ、あ、はぁあぁっ、はぐっ、あっぁぁっ！！[r]
+　あひあああぁぁ、んっ、ひぅぅぅんっ、んんん～～っ！！[r]
+　んああああぁふぅぁあ～～～～～んっ！！」[pcms]
 
 *6016|
 [fc]
-Indecipherable moans and screams were coming from the[r]
-kitchen at high volume, showing no signs of ending anytime[r]
-soon...[pcms]
+言葉にならない喘ぎや悲鳴が、キッチンから大音量で響いてきて[r]
+しばらく終わりそうにない……。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6016a|
 [fc]
-[ns]Wataru[nse]
-"...Senpai."[pcms]
+[ns]航[nse]
+「…………先輩」[pcms]
 
 *6017|
 [fc]
-Unable to bear it any longer, I called out to Senior Maruko.[pcms]
+たまりかねてボクはマル子先輩に声をかける。[pcms]
 
 *6018|
 [fc]
-[ns]Wataru[nse]
-"Um... could you teach me how to shoot?"[pcms]
+[ns]航[nse]
+「あの……射撃、教えてくれませんか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_o3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6019|
 [fc]
 [vo_mar s="maru_T0037"]
-[ns]Margarita[nse]
-"Eh? ...Ah, oh yeah, that's right. We had a promise to[r]
-train. Understood, let's go."[pcms]
+[ns]マルガリータ[nse]
+「え？……あ、ああ、そうだったな。[r]
+　訓練する約束だった。分かった、行こうか」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6020|
 [fc]
 [vo_ren s="ren_T0019"]
-[ns]Ren[nse]
-"...I'm going to check if the laundry is dry..."[pcms]
+[ns]漣[nse]
+「…………私、お洗濯乾いたか、見てくる……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_i1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6021|
 [fc]
 [vo_yuh s="yuho_T0021"]
-[ns]Yuuho[nse]
-"I-I'll help you, Ren-chan..."[pcms]
+[ns]悠帆[nse]
+「て、手伝うよ、漣ちゃん……」[pcms]
 
 *6022|
 [fc]
-We left the place as if we were fleeing.[pcms]
+ボクたちは逃げるようにその場を立ち去っていった。[pcms]
 
 *6023|
 [fc]
 [vo_miz s="mizuki_T0024"]
-[ns]Mizuki[nse]
-"Hiuuuunnnnn, ah, ahaaaa~ah!! Ah, me tooo! I also,[r]
-together... Together I'm going to c-c-cum, cumming[r]
-cumming-----!!"[pcms]
+[ns]瑞樹[nse]
+「ひぅぅぅんんんん、あ、あああぁぁっ！！[r]
+　あ、あたしもぉぉっ！　あたしも、一緒ぉ……っ！！[r]
+　一緒に、い、い、イグっ、イグイグぅぅぅーーーーーっ！！」[pcms]
 ;//＠少し音量おとし
 
 ;//〆フェードアウト
@@ -727,14 +735,14 @@ cumming-----!!"[pcms]
 
 *6024|
 [fc]
-After that, I received a little bit of gun training.[pcms]
+それからボクは銃の訓練を少しだけ受けたんだけど。[pcms]
 
 ;//銃声
 
 *6025|
 [fc]
-"You're not putting your heart into it at all!" I was[r]
-thoroughly scolded by Senior Maruko...[pcms]
+『ぜんぜん身が入っていない！』と[r]
+マル子先輩からしこたま叱られてしまった……。[pcms]
 
 
 

@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10150_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 
 ;mm ↓誰かが感染してる場合f.l_unlockが成立させられないので、当ブロックまで到達できず（BE10080.ksからBE30000.ks系エンドに行ってしまう）、このブロックは理論上踏めない
@@ -18,622 +18,618 @@
 
 *1175|
 [fc]
-Maruko-senpai was rolling her eyes back and bleeding from[r]
-her mouth, dead.[pcms]
+マル子先輩は白目をむき、口から血を流して死んでいた。[pcms]
 
 *1176|
 [fc]
-Her body was left with the brutal marks of being violated.[pcms]
+身体中に、陵辱された無惨な跡が残っている。[pcms]
 
 *1177|
 [fc]
-Maruko-senpai, who was so strong... she was never fazed by[r]
-men...[pcms]
+あんなに強かったマル子先輩が……[r]
+男たちなんて、目じゃなかったのに……。[pcms]
 
 ;//♂：この段階では呼び名は先輩かもしれません
 
 *1178|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry, Maruko-senpai..."[pcms]
+[ns]航[nse]
+「ごめん、マル子先輩……」[pcms]
 
 *1179|
 [fc]
-I didn't know what to say to apologize to everyone.[pcms]
+ボクはみんなになんと言って謝ればいいのかわからなかった。[pcms]
 
 *1180|
 [fc]
-Maybe...[pcms]
+もしかしたら……。[pcms]
 
 *1181|
 [fc]
-I thought she might have been roughed up by the men, but I[r]
-never imagined they would kill her...[pcms]
+男たちに乱暴されているかもしれないと思ったけれど、[r]
+まさか殺してしまうなんて……。[pcms]
 
 [bg storage="BG019c"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
 
 *1182|
 [fc]
-A little away from the mattress, Jin-san's corpse was lying[r]
-there.[pcms]
+マットレスから少し離れた位置には[r]
+壬さんの死体が転がっていた。[pcms]
 
 *1183|
 [fc]
-Could it have been infighting?[pcms]
+仲間割れだろうか。[pcms]
 
 *1184|
 [fc]
-If Jin-san had been the boss, maybe this wouldn't have[r]
-happened...[pcms]
+壬さんがボスだったら、こんなことには[r]
+ならなかったのかもしれない……。[pcms]
 
 *1185|
 [fc]
-I don't know the circumstances, but maybe he was protecting[r]
-everyone.[pcms]
+事情はわからないけれど、みんなをかばってくれたのかも。[pcms]
 
 *1186|
 [fc]
-And then, he got shot by someone like Shigeyoshi...[pcms]
+それで、重吉とかに撃たれて……。[pcms]
 
 *1187|
 [fc]
 [vo_ren s="ren_BE0013"]
-[ns]Ren[nse]
-"...Big brother"[pcms]
+[ns]漣[nse]
+「……お兄ちゃん」[pcms]
 
 *1188|
 [fc]
-[ns]Wataru[nse]
-"Ren? Ren! It's me!"[pcms]
+[ns]航[nse]
+「漣？　漣！　ボクだよ！」[pcms]
 
 *1189|
 [fc]
-Ren called out to me.[pcms]
+漣がボクのことを呼んだ。[pcms]
 
 *1190|
 [fc]
-She's alive?! Ren is alive?![pcms]
+生きてる！？　漣が生きてる！？[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1191|
 [fc]
-[ns]Kousuke[nse]
-"What the hell is this..."[pcms]
+[ns]浩助[nse]
+「な、なんだこれ……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1192|
 [fc]
 [vo_miz s="mizuki_BE0076"]
-[ns]Mizuki[nse]
-"Hii... is everyone... dead?"[pcms]
+[ns]瑞樹[nse]
+「ひっ……みんな……死んでる……？」[pcms]
 
 *1193|
 [fc]
-Kousuke and Mizuki, whom I had just said goodbye to,[r]
-appeared from the spiral staircase.[pcms]
+さっきお別れをすませたコースケと瑞樹が[r]
+螺旋階段から姿を現した。[pcms]
 
 *1194|
 [fc]
-Just like me, they were speechless at the sight of this[r]
-tragedy.[pcms]
+ボクと同じように、この惨状を見て絶句している。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1195|
 [fc]
-I don't know why they are here, but that's not what matters[r]
-right now.[pcms]
+どうしてふたりがここにいるのかわからないけれど、[r]
+今はそれどころじゃない。[pcms]
 
 [evcg storage="DEV014b"][trans_c cross time=300]
 
 *1196|
 [fc]
 [vo_ren s="ren_BE0014"]
-[ns]Ren[nse]
-"Big brother... is that you...?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……お兄ちゃんなの……？」[pcms]
 
 *1197|
 [fc]
-[ns]Wataru[nse]
-"Yes, it's me, Ren, hang in there..."[pcms]
+[ns]航[nse]
+「そうだよ、漣、しっかり……」[pcms]
 
 [evcg storage="DEV014d"][trans_c cross time=300]
 
 *1198|
 [fc]
 [vo_ren s="ren_BE0015"]
-[ns]Ren[nse]
-"Thank goodness... I got to see you again, big brother..."[pcms]
+[ns]漣[nse]
+「よかったぁ……また、お兄ちゃんと会えた……」[pcms]
 
 *1199|
 [fc]
-[ns]Wataru[nse]
-"I'm right here, everything's going to be okay now"[pcms]
+[ns]航[nse]
+「ボクはここにいるぞ、もう大丈夫だからな」[pcms]
 
 *1200|
 [fc]
 [vo_ren s="ren_BE0016"]
-[ns]Ren[nse]
-"I tried so hard because I wanted to see you one more time,[r]
-big brother?"[pcms]
+[ns]漣[nse]
+「私、お兄ちゃんにもう一度会いたくて、[r]
+　頑張ったんだよ？」[pcms]
 
 *1201|
 [fc]
-[ns]Wataru[nse]
-"It's okay, you don't have to talk anymore"[pcms]
+[ns]航[nse]
+「もういい、もうしゃべらなくていい」[pcms]
 
 *1202|
 [fc]
-Ren seemed barely able to speak at last.[pcms]
+漣はやっと口を開いているような状態だった。[pcms]
 
 *1203|
 [fc]
-We need to get her to a doctor...[pcms]
+医者に……医者に連れて行かないと。[pcms]
 
 [evcg storage="DEV014b"][trans_c cross time=300]
 
 *1204|
 [fc]
 [vo_ren s="ren_BE0017"]
-[ns]Ren[nse]
-"My violin... my violin..."[pcms]
+[ns]漣[nse]
+「バイオリン……私のバイオリン……」[pcms]
 
 *1205|
 [fc]
-Right beside where Ren lay, there was a broken violin.[pcms]
+漣の横たわるすぐ側に、壊されたバイオリンがあった。[pcms]
 
 *1206|
 [fc]
-[ns]Wataru[nse]
-"It's here, the violin. Look, it's right here"[pcms]
+[ns]航[nse]
+「あるぞ、バイオリン。ほら、ちゃんとあるからな」[pcms]
 
 [evcg storage="DEV014e"][trans_c cross time=300]
 
 *1207|
 [fc]
 [vo_ren s="ren_BE0018"]
-[ns]Ren[nse]
-"You know, big brother..."[pcms]
+[ns]漣[nse]
+「あのね、お兄ちゃん……」[pcms]
 
 *1208|
 [fc]
-[ns]Wataru[nse]
-"Don't strain yourself, we're going to take you to the[r]
-hospital right away..."[pcms]
+[ns]航[nse]
+「無理するな、すぐに病院に連れて行くから……」[pcms]
 
 *1209|
 [fc]
 [vo_ren s="ren_BE0019"]
-[ns]Ren[nse]
-"You know... I might not make it but I think the violin can[r]
-be fixed"[pcms]
+[ns]漣[nse]
+「あのね……私はもう治らないけれど[r]
+　バイオリンは直せると思うの」[pcms]
 
 *1210|
 [fc]
-[ns]Wataru[nse]
-"You'll get better too, let's fix the violin together"[pcms]
+[ns]航[nse]
+「漣も治るよ、バイオリンも一緒に直そう」[pcms]
 
 *1211|
 [fc]
 [vo_ren s="ren_BE0020"]
-[ns]Ren[nse]
-"Take good care of my violin... promise me"[pcms]
+[ns]漣[nse]
+「私のバイオリン……大切にしてね、約束だよ」[pcms]
 
 *1212|
 [fc]
-[ns]Wataru[nse]
-"I promise, I promise so please... don't talk anymore..."[pcms]
+[ns]航[nse]
+「約束する、約束するからもう……しゃべらなくて……」[pcms]
 
 *1213|
 [fc]
-The strength was draining from Ren's body.[pcms]
+漣の身体から力が失われていく。[pcms]
 
 *1214|
 [fc]
-She's fading away, Ren is... Ren is...[pcms]
+いなくなってしまう、漣が……漣が……。[pcms]
 
 *1215|
 [fc]
 [vo_ren s="ren_BE0021"]
-[ns]Ren[nse]
-"Being your sister... I was happy"[pcms]
+[ns]漣[nse]
+「お兄ちゃんの妹で……私、幸せだったよ」[pcms]
 
 *1216|
 [fc]
-[ns]Wataru[nse]
-"I was happy having you as my sister too. I feel the same"[pcms]
+[ns]航[nse]
+「ボクも漣が妹で幸せだった。同じ気持ちだよ」[pcms]
 
 *1217|
 [fc]
 [vo_ren s="ren_BE0022"]
-[ns]Ren[nse]
-"In the end, I got to be your lover... I'm really..."[pcms]
+[ns]漣[nse]
+「最後は、お兄ちゃんの恋人になれて……本当に……」[pcms]
 
 *1218|
 [fc]
-[ns]Wataru[nse]
-"I know, I understand so..."[pcms]
+[ns]航[nse]
+「わかってる、わかってるから……」[pcms]
 
 *1219|
 [fc]
-It seemed like Ren could no longer hear my words.[pcms]
+漣にはもう、ボクの言葉が聞こえていないみたいだった。[pcms]
 
 *1220|
 [fc]
-She was muttering words as if delirious.[pcms]
+うわごとみたいに、言葉を紡いでいる。[pcms]
 
 *1221|
 [fc]
 [vo_ren s="ren_BE0023"]
-[ns]Ren[nse]
-"Big brother..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 *1222|
 [fc]
 [vo_ren s="ren_BE0024"]
-[ns]Ren[nse]
-"Thank you..."[pcms]
+[ns]漣[nse]
+「ありがとう……」[pcms]
 
 [evcg storage="DEV014c"][trans_c cross time=1000]
 
 *1223|
 [fc]
-And with those words, Ren... stopped moving.[pcms]
+そう言ったきり、漣は……動かなくなった。[pcms]
 
 *1224|
 [fc]
-[ns]Wataru[nse]
-"Ren? Ren...?"[pcms]
+[ns]航[nse]
+「漣っ、漣……？」[pcms]
 
 *1225|
 [fc]
-[ns]Wataru[nse]
-"Hang in there, Ren!"[pcms]
+[ns]航[nse]
+「しっかりしろ、漣っ！」[pcms]
 
 *1226|
 [fc]
-[ns]Wataru[nse]
-"Ren, Ren..."[pcms]
+[ns]航[nse]
+「漣っ、漣……」[pcms]
 
 *1227|
 [fc]
-I laid my head on Ren's body and cried as if I was covering[r]
-her.[pcms]
+ボクは漣の身体に頭を付けて、[r]
+覆い被さるように泣いた。[pcms]
 
 *1228|
 [fc]
-What did Ren do to deserve this...[pcms]
+漣がなにをしたって言うんだ……。[pcms]
 
 *1229|
 [fc]
-She was just... just living a normal life...[pcms]
+ただ……ただ、普通に生きていたのに……。[pcms]
 
 [bg storage="BG019a"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
 
 *1230|
 [fc]
-I put Ren's violin back in its case that had rolled away.[pcms]
+ボクは漣のバイオリンを、[r]
+転がっていたケースにしまった。[pcms]
 
 *1231|
 [fc]
-Until I fix this violin, I can't die.[pcms]
+このバイオリンを直すまで、ボクは死ねない。[pcms]
 
 *1232|
 [fc]
-After crying for a while, I stood up without wiping away my[r]
-tears.[pcms]
+ボクはひとしきり泣くと、涙をぬぐわずに[r]
+立ち上がった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1233|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1234|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki, you go too, with Wataru."[pcms]
+[ns]浩助[nse]
+「瑞樹も行け、ワタルと一緒に」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1235|
 [fc]
 [vo_miz s="mizuki_BE0077"]
-[ns]Mizuki[nse]
-"No, I don't want to be apart anymore... besides... I'm sure[r]
-I also..."[pcms]
+[ns]瑞樹[nse]
+「いやっ、もう離れたくない……それに……[r]
+　きっとあたしも……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1236|
 [fc]
-[ns]Kousuke[nse]
-"You'll be fine with that kind of wound."[pcms]
+[ns]浩助[nse]
+「それくらいの傷なら大丈夫だ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1237|
 [fc]
 [vo_miz s="mizuki_BE0078"]
-[ns]Mizuki[nse]
-"What will you do, Kousuke?"[pcms]
+[ns]瑞樹[nse]
+「コースケはどうするの？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1238|
 [fc]
-[ns]Kousuke[nse]
-"I'm... retiring here."[pcms]
+[ns]浩助[nse]
+「オレは……ここでリタイアだ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1239|
 [fc]
 [vo_miz s="mizuki_BE0079"]
-[ns]Mizuki[nse]
-"No... that's not okay... why..."[pcms]
+[ns]瑞樹[nse]
+「そんな……駄目だよ……どうして……」[pcms]
 
 *1240|
 [fc]
-Mizuki was breaking down in tears.[pcms]
+瑞樹が泣き崩れていた。[pcms]
 
 *1241|
 [fc]
-Maybe Kousuke is infected.[pcms]
+もしかしたら、コースケは感染しているのかもしれない。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1242|
 [fc]
-[ns]Kousuke[nse]
-"It's better if you don't touch me much anymore."[pcms]
+[ns]浩助[nse]
+「もう、あんまりオレに触らない方がいい」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1243|
 [fc]
 [vo_miz s="mizuki_BE0080"]
-[ns]Mizuki[nse]
-"I will... die together with Kousuke."[pcms]
+[ns]瑞樹[nse]
+「あたしも……コースケと一緒に死ぬ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1244|
 [fc]
-[ns]Kousuke[nse]
-"No, you can't!"[pcms]
+[ns]浩助[nse]
+「駄目だっ！」[pcms]
 
 *1245|
 [fc]
-Kousuke pushed Mizuki towards me.[pcms]
+コースケが瑞樹をボクの方に押し出した。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1246|
 [fc]
 [vo_miz s="mizuki_BE0081"]
-[ns]Mizuki[nse]
-"Ah..."[pcms]
+[ns]瑞樹[nse]
+「あっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1247|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, I'm counting on you to look after Mizuki."[pcms]
+[ns]浩助[nse]
+「ワタル、瑞樹を頼むな」[pcms]
 
 *1248|
 [fc]
-[ns]Wataru[nse]
-"Understood... I'll protect Mizuki with all my strength."[pcms]
+[ns]航[nse]
+「わかった……ボクの全力で瑞樹を守るよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1249|
 [fc]
-[ns]Kousuke[nse]
-"Sorry, I'm in this state now."[pcms]
+[ns]浩助[nse]
+「悪いな、オレはもうこの様だから」[pcms]
 
 *1250|
 [fc]
-Kousuke showed me his arm that seemed to have been bitten by[r]
-an infected person.[pcms]
+コースケが感染者に噛まれたらしい腕をボクに見せた。[pcms]
 
 *1251|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1252|
 [fc]
-[ns]Kousuke[nse]
-"We've really been through a lot together."[pcms]
+[ns]浩助[nse]
+「お前たちとは本当に長い付き合いだったぜ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1253|
 [fc]
 [vo_miz s="mizuki_BE0082"]
-[ns]Mizuki[nse]
-"No... don't say such things..."[pcms]
+[ns]瑞樹[nse]
+「いやっ……そんなこと言わないで……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1254|
 [fc]
-[ns]Kousuke[nse]
-"This is goodbye, Mizuki. Take care."[pcms]
+[ns]浩助[nse]
+「お別れだ、瑞樹。元気でな」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1255|
 [fc]
 [vo_miz s="mizuki_BE0083"]
-[ns]Mizuki[nse]
-"I don't want this... I don't want to be apart anymore."[pcms]
+[ns]瑞樹[nse]
+「いやなの……もう、離れたくない」[pcms]
 
 *1256|
 [fc]
-Mizuki was crying her eyes out.[pcms]
+瑞樹はボロボロと涙をこぼして泣いていた。[pcms]
 
 *1257|
 [fc]
-But I can't afford to cry.[pcms]
+でも、ボクは泣いているわけにはいかない。[pcms]
 
 *1258|
 [fc]
-I have to escape from here with Mizuki.[pcms]
+瑞樹を連れて、ここから逃げ延びないと。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1259|
 [fc]
-[ns]Kousuke[nse]
-"From now on, live more honestly."[pcms]
+[ns]浩助[nse]
+「これからは、もっと素直に生きるんだぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1260|
 [fc]
 [vo_miz s="mizuki_BE0084"]
-[ns]Mizuki[nse]
-"Please... let me stay with you..."[pcms]
+[ns]瑞樹[nse]
+「お願い……一緒にいさせて……」[pcms]
 
 *1261|
 [fc]
-[ns]Wataru[nse]
-"Mizuki, we have to say goodbye."[pcms]
+[ns]航[nse]
+「瑞樹、お別れをしないと」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1262|
 [fc]
 [vo_miz s="mizuki_BE0085"]
-[ns]Mizuki[nse]
-"But... after all this time... with Kousuke..."[pcms]
+[ns]瑞樹[nse]
+「そんな……せっかく……コースケと……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1263|
 [fc]
-[ns]Kousuke[nse]
-"Promise me, Mizuki. Live for both of us."[pcms]
+[ns]浩助[nse]
+「約束してくれ、瑞樹。オレの分まで生きるって」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1264|
 [fc]
 [vo_miz s="mizuki_BE0086"]
-[ns]Mizuki[nse]
-"I can't, I can't make such a promise..."[pcms]
+[ns]瑞樹[nse]
+「できない、そんな約束できない……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1265|
 [fc]
-[ns]Kousuke[nse]
-"Please... I don't have much time left..."[pcms]
+[ns]浩助[nse]
+「頼むよ……もう、そんなに時間がないんだ……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1266|
 [fc]
 [vo_miz s="mizuki_BE0087"]
-[ns]Mizuki[nse]
-"Aaaaah... uuuuh..."[pcms]
+[ns]瑞樹[nse]
+「あああっ……うううっ……」[pcms]
 
 *1267|
 [fc]
-Kousuke was starting to feel feverish.[pcms]
+コースケは、ちょっと熱っぽい感じになっていた。[pcms]
 
 *1268|
 [fc]
-He was sweating slightly on his forehead.[pcms]
+うっすらと額に汗をかいている。[pcms]
 
 *1269|
 [fc]
-[ns]Wataru[nse]
-"Come on, Mizuki..."[pcms]
+[ns]航[nse]
+「さあ、瑞樹……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f2"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1270|
 [fc]
 [vo_miz s="mizuki_BE0088"]
-[ns]Mizuki[nse]
-"Promise me too... that you'll definitely come to save me,[r]
-that a new vaccine will surely be made, so wait here without[r]
-moving..."[pcms]
+[ns]瑞樹[nse]
+「あたしにも約束して……必ず助けに来るから、[r]
+　きっと新しいワクチンができているから、[r]
+　ここから動かないで待ってて……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1271|
 [fc]
-[ns]Kousuke[nse]
-"...okay, I promise."[pcms]
+[ns]浩助[nse]
+「……わかった、約束する」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1272|
 [fc]
 [vo_miz s="mizuki_BE0089"]
-[ns]Mizuki[nse]
-"Really, you have to keep it, absolutely."[pcms]
+[ns]瑞樹[nse]
+「本当だよ、絶対だからね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1273|
 [fc]
-[ns]Kousuke[nse]
-"Yeah... Wataru, let's go."[pcms]
+[ns]浩助[nse]
+「ああ……ワタル、さあ」[pcms]
 
 *1274|
 [fc]
-[ns]Wataru[nse]
-"Mizuki, we have to go now."[pcms]
+[ns]航[nse]
+「瑞樹、もう行こう」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1275|
 [fc]
 [vo_miz s="mizuki_BE0090"]
-[ns]Mizuki[nse]
-"I'll never say goodbye, I'll chase you to the ends of the[r]
-earth!"[pcms]
+[ns]瑞樹[nse]
+「絶対さよならなんてしないんだから、[r]
+　どこまでも追いかけるんだから！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1276|
 [fc]
-[ns]Kousuke[nse]
-"I'll wait here for Mizuki to come."[pcms]
+[ns]浩助[nse]
+「ここで瑞樹が来るのを待ってるよ」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1277|
 [fc]
-I took Mizuki's hand and went down the emergency stairs.[pcms]
+ボクは瑞樹の手を引いて、非常階段を下りていった。[pcms]
 
 *1278|
 [fc]
-Mizuki covered her face with her hands, holding back sobs.[pcms]
+瑞樹は顔を手で覆って、嗚咽をこらえている。[pcms]
 
 *1279|
 [fc]
-And when I looked back for the last time...[pcms]
+そして、最後にボクが振り返ったとき……。[pcms]
 
 *1280|
 [fc]
-Kousuke had his gun pointed at his head.[pcms]
+コースケは自分の銃を頭にあてていた。[pcms]
 
 ;//★_クロミ
 ;//<ChrInit>
@@ -645,83 +641,81 @@ Kousuke had his gun pointed at his head.[pcms]
 
 *1281|
 [fc]
-There was no longer a gunfight happening on the first floor.[pcms]
+１階ではもう銃撃戦が行われていなかった。[pcms]
 
 *1282|
 [fc]
-Whether Shigeyoshi and the others had escaped or been taken[r]
-down...[pcms]
+重吉たちは、逃げたのかやられてしまったのか……。[pcms]
 
 *1283|
 [fc]
-As a result, the first floor of LASER was overrun with[r]
-infected.[pcms]
+その結果、ＬＡＳＥＲの１階は感染者であふれかえっていた。[pcms]
 
 *1284|
 [fc]
-Just one scratch from them and it's all over.[pcms]
+ひっかき傷ひとつ付けられればそれで終わり。[pcms]
 
 *1285|
 [fc]
-You become one of them, wandering Shibuya from tomorrow.[pcms]
+奴らの仲間になって、明日から渋谷をさまようことになる。[pcms]
 
 *1286|
 [fc]
-But still... I had to live.[pcms]
+でも、それでも……ボクは生きなくちゃいけなかった。[pcms]
 
 *1287|
 [fc]
-There's a promise with Ren.[pcms]
+漣との約束がある。[pcms]
 
 *1288|
 [fc]
-Kousuke has entrusted me with Mizuki.[pcms]
+コースケから瑞樹のことを頼まれている。[pcms]
 
 *1289|
 [fc]
-I can't die in a place like this.[pcms]
+こんなところで死ぬわけにはいかない。[pcms]
 
 *1290|
 [fc]
-[ns]Wataru[nse]
-"When I shoot the gun, run. To that emergency exit, without[r]
-thinking of anything else."[pcms]
+[ns]航[nse]
+「ボクが銃を撃ったら走って。[r]
+　あそこの非常口まで、なにも考えずに」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1291|
 [fc]
 [vo_miz s="mizuki_BE0091"]
-[ns]Mizuki[nse]
-"Understood. We have to save Kousuke. I'll definitely[r]
-survive."[pcms]
+[ns]瑞樹[nse]
+「わかった。コースケを助けなくちゃいけないもの。[r]
+　絶対生き残ってみせるよ」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1292|
 [fc]
-I readied Tadahiko's gun and steadied my breath.[pcms]
+彦ちんの銃を構えて呼吸を整える。[pcms]
 
 *1293|
 [fc]
-It's just a short distance to the emergency exit.[pcms]
+非常口まで、ほんのちょっとの距離だ。[pcms]
 
 *1294|
 [fc]
-If we get through there, it's a straight shot to 'Dedepou'.[pcms]
+そこを抜ければ「ででっぽう」まで一直線。[pcms]
 
 *1295|
 [fc]
-We might be able to escape.[pcms]
+なんとか、逃げることができる。[pcms]
 
 *1296|
 [fc]
-We might be able to survive.[pcms]
+生き延びることができる。[pcms]
 
 *1297|
 [fc]
-I pulled the trigger on an infected that seemed to be in the[r]
-way of our progress.[pcms]
+ボクは進行の邪魔になりそうな[r]
+手近の感染者に向かって引き金を引いた。[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -731,30 +725,29 @@ way of our progress.[pcms]
 
 *1298|
 [fc]
-[ns]Wataru[nse]
-"Mizuki!"[pcms]
+[ns]航[nse]
+「瑞樹っ！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1299|
 [fc]
 [vo_miz s="mizuki_BE0092"]
-[ns]Mizuki[nse]
-"Aaaaaaaah!"[pcms]
+[ns]瑞樹[nse]
+「うああああああああっ！」[pcms]
 
 *1300|
 [fc]
-Mizuki let out a battle cry and sprinted towards the[r]
-emergency exit.[pcms]
+瑞樹が雄叫びをあげて非常口まで突っ走る。[pcms]
 
 *1301|
 [fc]
-I followed suit and started running as well.[pcms]
+ボクもそれにつづいて走り出した。[pcms]
 
 *1302|
 [fc]
-The slowly moving infected couldn't react to us as we dashed[r]
-straight past them.[pcms]
+ゆったりと動いている感染者たちは、[r]
+一直線に駆け抜けるボクたちに反応できない。[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -764,18 +757,18 @@ straight past them.[pcms]
 
 *1303|
 [fc]
-I shot down the infected in our path as we advanced.[pcms]
+進む先にいる感染者を撃ち倒す。[pcms]
 
 *1304|
 [fc]
-And... what we saw as we tumbled out of the emergency[r]
-exit...[pcms]
+そして……非常口から外に転がりでた[r]
+ボクたちが見たものは……。[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 
 *1305|
 [fc]
-Was a swarm of infected writhing throughout the city.[pcms]
+街中に蠢く感染者の群れだった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -798,37 +791,37 @@ Was a swarm of infected writhing throughout the city.[pcms]
 
 *1306|
 [fc]
-I have to live... I have to survive...[pcms]
+生きなくちゃ……ボクは生きなくちゃ……。[pcms]
 
 *1307|
 [fc]
-To fix this violin.[pcms]
+このバイオリンを直すために。[pcms]
 
 *1308|
 [fc]
-To keep my promise with Ren.[pcms]
+漣との約束を守るために。[pcms]
 
 *1309|
 [fc]
-Mizuki is with me too.[pcms]
+瑞樹も一緒だ。[pcms]
 
 *1310|
 [fc]
-I'm not alone.[pcms]
+ボクはひとりじゃない。[pcms]
 
 *1311|
 [fc]
-Let's find it this time.[pcms]
+今度こそ見つけよう。[pcms]
 
 *1312|
 [fc]
-A place that isn't here.[pcms]
+ここではないどこかを。[pcms]
 
 *1313|
 [fc]
-Our true place to belong...[pcms]
+ボクたちの、本当の居場所を……。[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="ending.mpg"]
 
-(returntitle)[pcms]
+[returntitle][s]

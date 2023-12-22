@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *zapBAD_A001_TOP
-;{SceneSet ＢＡＤルート悠帆}
+;{SceneSet ＢＡＤルート～悠帆}
 ;//--------------------------------------------------------------------
 ;//背景：神南学園
 ;//登場人物:悠帆・先生・友人・水泳部部員A・感染者
@@ -28,41 +28,41 @@
 
 *2417|
 [fc]
-As usual, I was diligently practicing for the club[r]
-activities, and just as I finished a time attack, I tried to[r]
-get out of the pool.[pcms]
+いつものように部活の練習に励んでいたわたしは、[r]
+タイムアタックを終えてプールから上がろうとした。[pcms]
 
 *2418|
 [fc]
-Then, the teacher pointed out that my swimming lacked[r]
-spirit, even though it was for timing.[pcms]
+すると先生から、タイム計測なのに気の入ってない[r]
+泳ぎだと指摘されてしまった。[pcms]
 
 *2419|
 [fc]
 [vo_mob s="komon0003"]
-[ns]Advisory Teacher[nse]
-"It's not like you. This is the first time I've seen such a[r]
-lackadaisical swim, isn't it?"[pcms]
+[ns]顧問の先生[nse]
+「あなたらしくないわね。[r]
+　こんなだらだらした泳ぎを見たのは初めてよ？」[pcms]
 
 *2420|
 [fc]
 [vo_yuh s="yuho0348"]
-[ns]Yuuho[nse]
-"I'm sorry... I just can't seem to concentrate today."[pcms]
+[ns]悠帆[nse]
+「すみません……なんか今日は集中できなくて」[pcms]
 
 *2421|
 [fc]
-I understood the teacher's anger all too well. Today, I was[r]
-clearly in a listless state.[pcms]
+先生の怒りもよくわかる。今日のわたしは明らかに[r]
+腑抜け状態だった。[pcms]
 
 *2422|
 [fc]
-I didn't hate practice, nor did I hate swimming... but.[pcms]
+練習が嫌になったわけでもないし、水泳が嫌いに[r]
+なったわけでもないけど……。[pcms]
 
 *2423|
 [fc]
-Anyway, I just couldn't concentrate, and it felt like[r]
-nothing was going right today.[pcms]
+とにかく集中力がなくて、なにをやってもダメな[r]
+日って感じだ。[pcms]
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
@@ -73,181 +73,180 @@ nothing was going right today.[pcms]
 *2424|
 [fc]
 [vo_mob s="buinA0010"]
-[ns]Club Member A[nse]
-"What's wrong with you? You're not acting like yourself."[pcms]
+[ns]部員Ａ[nse]
+「どうしたのよ、らしくないぞ」[pcms]
 
 *2425|
 [fc]
 [vo_yuh s="yuho0349"]
-[ns]Yuuho[nse]
-"Yeah, um..."[pcms]
+[ns]悠帆[nse]
+「う、うん……」[pcms]
 
 *2426|
 [fc]
-My response was somewhat distracted. I was just not myself,[r]
-completely off my game.[pcms]
+返す返事もどこか上の空。冴えない冴えない、[r]
+ダメダメのわたしだった。[pcms]
 
 *2427|
 [fc]
 [vo_mob s="buinA0011"]
-[ns]Club Member A[nse]
-"You even came late to practice, which is unusual... Are you[r]
-feeling unwell by any chance?"[pcms]
+[ns]部員Ａ[nse]
+「珍しく練習にも遅刻してきたし……。[r]
+　もしかしてどこか悪いの？」[pcms]
 
 *2428|
 [fc]
-It's no wonder they would think that, but physically, I was[r]
-feeling quite well. The problem was inside my heart...[pcms]
+そう思われても仕方がないところだけど、[r]
+体調はそれなりに好調だった。悪いのは心の中……。[pcms]
 
 *2429|
 [fc]
 [vo_yuh s="yuho0350"]
-[ns]Yuuho[nse]
-"I'm fine! It's just a little slump!!"[pcms]
+[ns]悠帆[nse]
+「大丈夫！[r]
+　ちょっとしたスランプなだけだよ！！」[pcms]
 
 *2430|
 [fc]
 [vo_mob s="buinA0012"]
-[ns]Club Member A[nse]
-"If that's the case, it's good, but you shouldn't push[r]
-yourself too hard."[pcms]
+[ns]部員Ａ[nse]
+「だったらいいけど、あんまり無理しない方がいいよ」[pcms]
 
 *2431|
 [fc]
 [vo_yuh s="yuho0351"]
-[ns]Yuuho[nse]
-"I know that. Self-management is part of the sport after[r]
-all."[pcms]
+[ns]悠帆[nse]
+「それは分かってるわ。[r]
+　自己管理も競技のうちだしね」[pcms]
 
 *2432|
 [fc]
-If you're an athlete, self-control is inevitable. And yet...[r]
-I'm failing at it.[pcms]
+アスリートならセルフコントロールは必然。[r]
+それなのに……わたしはダメだなぁ。[pcms]
 
 *2433|
 [fc]
-In the end, because of what happened last night with Oshima-[r]
-senpai, I was feeling really down.[pcms]
+結局昨日の夜の……大嶋先輩との一件で、[r]
+わたしはとっても落ち込んでいた。[pcms]
 
 *2434|
 [fc]
-On top of that, because I went home on my own, I even[r]
-received worried emails from Kousuke and Ren-chan.[pcms]
+おまけに勝手に帰ったせいで、コースケや漣ちゃんからも[r]
+心配のメールまでもらった。[pcms]
 
 *2435|
 [fc]
-Wataru went off somewhere too... He probably went looking[r]
-for me, I guess.[pcms]
+航もどこかに行っちゃうし……。[r]
+たぶんわたしを探してくれたんだろうなぁ。[pcms]
 
 *2436|
 [fc]
-The summer festival was ruined, and I caused worry and[r]
-trouble for everyone, ending with getting scolded at club[r]
-activities...[pcms]
+せっかくの夏祭りは台無し、みんなには心配と[r]
+迷惑かけて、最後は部活で怒られて……。[pcms]
 
 *2437|
 [fc]
 [vo_mob s="buinB0004"]
-[ns]Club Member B[nse]
-"Hey, are you sure you're not feeling sick?"[pcms]
+[ns]部員Ｂ[nse]
+「ねぇ、やっぱり具合が悪いんでしょ？」[pcms]
 
 *2438|
 [fc]
 [vo_yuh s="yuho0352"]
-[ns]Yuuho[nse]
-"Eh, ah... no, that's not it."[pcms]
+[ns]悠帆[nse]
+「えっ、あっ……そ、そんなことないよ」[pcms]
 
 *2439|
 [fc]
 [vo_mob s="buinB0005"]
-[ns]Club Member B[nse]
-"Yuuho is definitely acting strange today."[pcms]
+[ns]部員Ｂ[nse]
+「今日の悠帆は絶対変だよ」[pcms]
 
 *2440|
 [fc]
 [vo_yuh s="yuho0353"]
-[ns]Yuuho[nse]
-"I'm okay, I'm okay... probably."[pcms]
+[ns]悠帆[nse]
+「だいじょうぶ、だいじょーぶ……たぶん」[pcms]
 
 *2441|
 [fc]
-From the moment Oshima-senpai called me out, honestly[r]
-speaking, I could have predicted that development. Of[r]
-course, I hadn't thought it would go as far as a forceful[r]
-kiss...[pcms]
+大嶋先輩から呼び出された時点で、正直な話あの展開は[r]
+予想できたことだった。[r]
+もちろん強引なキスまでは考えてなかったけど……。[pcms]
 
 *2442|
 [fc]
-Either way, it was terrible of me to show up there with high[r]
-spirits without even deciding whether to accept or reject[r]
-him.[pcms]
+どちらにしても、受けるか受けないかを決めも[r]
+してないのに、浮かれ気分だけ味わいにノコノコと[r]
+顔を出したのは最低だ。[pcms]
 
 *2443|
 [fc]
 [vo_mob s="komon0004"]
-[ns]Advisory Teacher[nse]
-"Take a little break. Pushing yourself won't do any good."[pcms]
+[ns]顧問の先生[nse]
+「少し休みなさい。[r]
+　無理をしてもいいことなんてないわ」[pcms]
 
 *2444|
 [fc]
 [vo_yuh s="yuho0354"]
-[ns]Yuuho[nse]
-"Ah, teacher..."[pcms]
+[ns]悠帆[nse]
+「あっ、先生……」[pcms]
 
 *2445|
 [fc]
 [vo_mob s="komon0005"]
-[ns]Advisor Teacher[nse]
-"A little rest might change how you feel... Right?"[pcms]
+[ns]顧問の先生[nse]
+「ちょっと休めば調子も変わる……。[r]
+　そうでしょ？」[pcms]
 
 *2446|
 [fc]
 [vo_yuh s="yuho0355"]
-[ns]Yuuho[nse]
-"Yes... I understand."[pcms]
+[ns]悠帆[nse]
+「はい……分かりました」[pcms]
 
 *2447|
 [fc]
-I decided to take a break and then come back, so I took a[r]
-rest as the teacher suggested.[pcms]
+ちょっと休んでまた戻ることにして、わたしは[r]
+先生の言うとおり休憩をとった。[pcms]
 
 *2448|
 [fc]
-I had been feeling awkward and hesitant since last night...[r]
-It was my fault for going there with half-hearted feelings.[pcms]
+昨夜から気まずくて迷っていたけど……。[r]
+半端な気持ちであの場へ行ったのはわたしが悪い。[pcms]
 
 *2449|
 [fc]
-I should properly apologize to Oshima-senpai and firmly[r]
-decline the matter of dating.[pcms]
+やっぱり大嶋先輩にはちゃんと謝って、[r]
+交際の件はしっかりとお断りしよう。[pcms]
 
 *2450|
 [fc]
-It's not good to keep up a half-hearted attitude when I'm[r]
-not even interested...[pcms]
+その気もないのに、半端な態度でいるのは[r]
+良くないことだし……。[pcms]
 
 *2451|
 [fc]
-In fact, with that intention in mind, today I made lunch not[r]
-as an apology but still... And to make matters worse, I even[r]
-ended up biting his lips unintentionally...[pcms]
+実のところそのつもりで、今日はお詫びじゃないけど[r]
+お弁当も作ってきた。[r]
+しかも思わずとはいえ、唇まで噛んでしまったし……。[pcms]
 
 *2452|
 [fc]
-I wrote a letter to convey my sincerity, but that alone[r]
-seemed insipid. Buying something to bring didn't seem[r]
-heartfelt...[pcms]
+誠意を伝える為に手紙も書いたけど、それだけじゃ味気ない。[r]
+何か買って持って行くのは気持ちがこもってないし……。[pcms]
 
 *2453|
 [fc]
-My only girlish skill is my cooking ability, honed in a[r]
-diner after all.[pcms]
+わたしの女の子らしい特技といえば、やっぱり[r]
+定食屋仕込みの料理の腕だけだしね。[pcms]
 
 *2454|
 [fc]
 [vo_yuh s="yuho0356"]
-[ns]Yuuho[nse]
-"Alright, let's go deliver this!"[pcms]
+[ns]悠帆[nse]
+「よし、渡しにいこうっと！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -256,9 +255,9 @@ diner after all.[pcms]
 
 *2455|
 [fc]
-After wiping down my body in the changing room and throwing[r]
-on just a jersey, I packed the lunch into my shoulder bag[r]
-and headed for the gym where the senior was.[pcms]
+更衣室で身体を拭いて、ジャージだけを羽織った[r]
+わたしはショルダーバックにお弁当を詰めて、[r]
+先輩のいる体育館へと向かった。[pcms]
 
 ;//立ちキャラの服装確認
 
@@ -268,105 +267,108 @@ and headed for the gym where the senior was.[pcms]
 
 *2456|
 [fc]
-In the gym where other clubs were practicing. What should I[r]
-say when I see the senior?[pcms]
+他の部活が練習している体育館内。[r]
+先輩と顔を合わせたらなんて切り出したら[r]
+いいんだろう。[pcms]
 
 *2457|
 [fc]
-As I walked thinking about such things...[pcms]
+そんなことを考えながら歩いていると……。[pcms]
 
 *2458|
 [fc]
 [vo_mob s="buinA0013"]
-[ns]Club Member A[nse]
-"Yuuho!"[pcms]
+[ns]部員Ａ[nse]
+「悠帆！」[pcms]
 
 *2459|
 [fc]
 [vo_yuh s="yuho0357"]
-[ns]Yuuho[nse]
-"Ah!"[pcms]
+[ns]悠帆[nse]
+「あっ」[pcms]
 
 *2460|
 [fc]
 [vo_mob s="buinA0014"]
-[ns]Club Member A[nse]
-"Cheer up! If you have any worries, I'm always here to[r]
-listen!!"[pcms]
+[ns]部員Ａ[nse]
+「元気出せよ！　悩みがあるならいつでも[r]
+　相談に乗るからさ！！」[pcms]
 
 *2461|
 [fc]
 [vo_yuh s="yuho0358"]
-[ns]Yuuho[nse]
-"Yeah, thank you."[pcms]
+[ns]悠帆[nse]
+「うん、ありがとう」[pcms]
 
 *2462|
 [fc]
-A casual remark from her seemed to give me courage.[pcms]
+彼女のさりげない一言がわたしに勇気をくれた[r]
+気がした。[pcms]
 
 *2463|
 [fc]
 [vo_mob s="onnanoko0001"]
-[ns]Woman A[nse]
-"Kyaaaahhhhhhhhhhhhhhh!!!"[pcms]
+[ns]女Ａ[nse]
+「きゃぁぁぁぁぁぁぁぁぁぁぁ！！」[pcms]
 
 ;//bgm03 rage
 [bgm storage="BGM03"]
 
 *2464|
 [fc]
-At that moment, a sudden scream echoed throughout the[r]
-school.[pcms]
+その時、突然の悲鳴が校内に響き渡った。[pcms]
 
 *2465|
 [fc]
 [vo_yuh s="yuho0359"]
-[ns]Yuuho[nse]
-"What!?"[pcms]
+[ns]悠帆[nse]
+「えっ！？」[pcms]
 
 *2466|
 [fc]
 [vo_mob s="buinA0015"]
-[ns]Club Member A[nse]
-"What's happening?"[pcms]
+[ns]部員Ａ[nse]
+「なっ、なに？」[pcms]
 
 *2467|
 [fc]
-It was something so out of the ordinary. It was like the[r]
-volume on the TV was turned up too high, theatrical and[r]
-lacking any sense of reality...[pcms]
+それはあまりにも非日常的すぎることだった。[r]
+まるでテレビの音量を間違えたかのように、[r]
+芝居じみてて、現実味がなくて……。[pcms]
 
 *2468|
 [fc]
-As I turned my gaze towards the source of the scream, I saw[r]
-students running desperately into the entrance as if trying[r]
-to escape from something.[pcms]
+悲鳴の声に視線を向けると玄関から、何かから[r]
+逃れようとするかのように、必死の形相で走りこんで[r]
+くる学生達がいた。[pcms]
 
 *2469|
 [fc]
-Some of them seemed to be injured, their uniforms stained[r]
-with crimson.[pcms]
+数人は怪我を負っているらしく、制服が朱に[r]
+染まっていた。[pcms]
 
 *2470|
 [fc]
 [vo_yuh s="yuho0360"]
-[ns]Yuuho[nse]
-"Is this... a drama club practice?"[pcms]
+[ns]悠帆[nse]
+「演劇部の……練習？」[pcms]
 
 *2471|
 [fc]
-Straining my eyes to see, I could make out an eerie figure[r]
-swaying and walking like a sleepwalker beyond them.[pcms]
+目を凝らして見てみると、その向こうには不気味な[r]
+人影がゆらゆらとまるで夢遊病者のように[r]
+歩いてくるのが分かった。[pcms]
 
 *2472|
 [fc]
-The gymnasium quickly descended into panic, everyone[r]
-shuddering at the strange apparition before them.[pcms]
+たちまち体育館は恐慌を来し、目の前の怪異に[r]
+みんな戦慄していた。[pcms]
 
 *2473|
 [fc]
-Inside me, instinct was screaming danger, danger, but I[r]
-couldn't figure out what the best course of action was.[pcms]
+危険だ、危険だと、わたしの中の本能が警告を[r]
+発する。でも、どう対処するのがベストか[r]
+それがわからない。[pcms]
 
 ;//♂：SEとして阿鼻叫喚の叫び声収録
 

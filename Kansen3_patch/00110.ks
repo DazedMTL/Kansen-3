@@ -16,37 +16,37 @@
 
 *2535|
 [fc]
-As soon as I returned to my room and flopped onto the bed, I[r]
-soaked the pillow with tears of frustration.[pcms]
+部屋に戻るなりベッドに突っ伏し、[r]
+ボクは悔し涙がこぼれるままに枕を濡らした。[pcms]
 
 *2536|
 [fc]
-Just like Tadahiko said, Yuuho became a "shooting star."[pcms]
+彦ちんが言ったとおり、悠帆は『流れ星』になってしまった。[pcms]
 
 *2537|
 [fc]
-Should I have confessed earlier? Would that have been[r]
-better?[pcms]
+こんな事ならもっと早く、[r]
+告白してたらよかったんじゃないだろうか？[pcms]
 
 *2538|
 [fc]
-Instead of making excuses about being a good match or not,[r]
-confessing and getting rejected would have been so much more[r]
-positive than having someone else take her away.[pcms]
+釣りあうとか釣りあわないとか、そんな言い訳をする前に、[r]
+人に取られるよりも告白して玉砕したほうがどれだけ[r]
+前向きだろう。[pcms]
 
 *2539|
 [fc]
-Who was it that said regret from inaction is dozens of times[r]
-harder than regret from taking action?[pcms]
+行動してする後悔よりも、行動しないでする後悔のほうが[r]
+何十倍もキツイって言ったのは誰だったろう？[pcms]
 
 *2540|
 [fc]
-It's really true.[pcms]
+本当にその通りだ。[pcms]
 
 *2541|
 [fc]
-I fell into a deep, dark abyss, not even knowing when I had[r]
-fallen asleep.[pcms]
+ボクはそのままいつ眠りに付いたとも自分でもわからないまま、[r]
+暗く深い闇の中にズブズブと落ち込んでいった。[pcms]
 
 ;//〆：黒画面
 ;[fadeoutbgm time=500]

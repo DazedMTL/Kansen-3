@@ -3,7 +3,7 @@
 ;//@konya 11/13 BG貼付
 
 *zapBAD_B001_TOP
-;{SceneSet ＢＡＤルート漣}
+;{SceneSet ＢＡＤルート～漣}
 ;//--------------------------------------------------------------------
 ;//背景：・音楽室・廊下
 ;//登場人物:漣・浩助
@@ -20,104 +20,102 @@
 
 *2897|
 [fc]
-While playing the violin, I felt rejected from the world of[r]
-music that I would normally be able to immerse myself in[r]
-right away.[pcms]
+バイオリンを弾きながら、私はいつもならばすぐに[r]
+入り込める音楽の世界からはじかれているのを感じていた。[pcms]
 
 *2898|
 [fc]
-Normally, just by holding the bow, I could slip into the[r]
-world of music.[pcms]
+いつもならば、弓を構えただけでスリップできる音楽の世界。[pcms]
 
 *2899|
 [fc]
-But today's practice was different.[pcms]
+でも今日の練習は違う。[pcms]
 
 *2900|
 [fc]
-The door to the world of music wouldn't open at all.[pcms]
+一向に音楽の世界の扉は開かれない。[pcms]
 
 *2901|
 [fc]
-It seemed to show in my sound, and during the full[r]
-rehearsal, I even got scolded by our advisor teacher.[pcms]
+それは音にも表れていたらしく、[r]
+全体練習の時も、顧問の先生に怒られてしまった。[pcms]
 
 *2902|
 [fc]
-It's not right.[pcms]
+違う。[pcms]
 
 *2903|
 [fc]
-It's not that the door to the world of music won't open;[r]
-it's that I can't enter it.[pcms]
+本当は音楽の世界の扉が開かれないんじゃない。[r]
+私が音楽の世界に入れないんだ。[pcms]
 
 *2904|
 [fc]
-During the festival... I was preoccupied with thoughts of my[r]
-brother who suddenly disappeared...[pcms]
+お祭りの最中……急にいなくなったお兄ちゃんの事が[r]
+気にかかって……。[pcms]
 
 *2905|
 [fc]
-That's all I could think about.[pcms]
+そのことばかり、思い浮かべてしまう。[pcms]
 
 *2906|
 [fc]
-I wonder if it has something to do with Yuuho-chan[r]
-disappearing at that time?[pcms]
+あの時、悠帆ちゃんもいなくなったけれど、[r]
+その事と関係があるのかな？[pcms]
 
 *2907|
 [fc]
-My brother leaving me behind and going home first has never[r]
-happened before, so it must be related, right?[pcms]
+お兄ちゃんが私を置いて先に帰っちゃうなんて、[r]
+今までなかったことだし、やっぱり関係あるよね。[pcms]
 
 *2908|
 [fc]
-I wanted to ask, but couldn't, and my mind was spinning in[r]
-circles the whole time.[pcms]
+聞きたくて、でも聞けなくて、私はずっと頭の中が[r]
+グルグルと回っていた。[pcms]
 
 *2909|
 [fc]
-That's why the world of music won't open its doors to me.[pcms]
+だから音楽の世界が私に扉を開けてくれる事が[r]
+ないのだけれど。[pcms]
 
 *2910|
 [fc]
 [vo_ren s="ren0467"]
-[ns]Ren[nse]
-"Could it be that my brother likes Yuuho-chan?"[pcms]
+[ns]漣[nse]
+「やっぱり、お兄ちゃん、悠帆ちゃんが好きなのかな？」[pcms]
 
 *2911|
 [fc]
-Just as those words crossed my mind--[pcms]
+ふと心をその言葉が横切ったとき――[pcms]
 
 [stopbgm]
 
 *2911a|
 [fc]
-With a snap! The G string broke.[pcms]
+ピンッ！　と音を立てて、Ｇ線が切れた。[pcms]
 
 *2912|
 [fc]
 [vo_mob s="buin0001"]
-[ns]Club Member C[nse]
-"Oh no, Ren-chan. That's too ominous right before the[r]
-match."[pcms]
+[ns]部員Ｃ[nse]
+「やだ、漣ちゃん。試合の応援前に不吉すぎだよ、それ」[pcms]
 
 *2913|
 [fc]
-A senior who stayed behind like me and was practicing[r]
-individually laughed it off as a joke.[pcms]
+私と同じように居残りをして、[r]
+個人練習をしていた先輩が冗談めかして笑ってくる。[pcms]
 
 *2914|
 [fc]
 [vo_ren s="ren0468"]
-[ns]Ren[nse]
-"That's true, senior."[pcms]
+[ns]漣[nse]
+「本当ですね、先輩」[pcms]
 
 *2915|
 [fc]
-I managed to laugh back somehow, but the strings were just[r]
-replaced yesterday. And the G string is the thickest and[r]
-least likely to break.[pcms]
+私もそれになんとか笑い返したけど、[r]
+弦は昨日張り替えたばかりだ。[r]
+しかもＧ線なんて一番太くて切れにくいのに。[pcms]
 
 [bgm storage="BGM01"]
 ;//BG015：分校舎廊下２で代用
@@ -128,307 +126,310 @@ least likely to break.[pcms]
 
 *2916|
 [fc]
-[ns]Kousuke[nse]
-"Yoo-hoo! Please cheer for us in this afternoon's match.[r]
-Aaaand, I came for a morale-boosting visit."[pcms]
+[ns]浩助[nse]
+「ヤッホーっ！　午後からの試合の応援、[r]
+　よろしく。あ～～んど、陣中見舞いにきたよ」[pcms]
 
 *2917|
 [fc]
-As if to blow away my thoughts, Kousuke-kun energetically[r]
-opened the door to the music room and greeted us cheerfully.[pcms]
+私の物思いを吹き飛ばすかのように、コーちゃんが[r]
+勢いよく音楽室の扉を開けて、元気な挨拶をしてくれた。[pcms]
 
 *2918|
 [fc]
 [vo_mob s="buin0002"]
-[ns]Club Member C[nse]
-"Are you also playing in the basketball match, Sui-kun?"[pcms]
+[ns]部員Ｃ[nse]
+「崔くんもバスケの試合に出るの？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2919|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, yeah. I was called in as a reinforcement. Just[r]
-finished practice now, and I'm killing time before the match[r]
-& checking on everyone's condition."[pcms]
+[ns]浩助[nse]
+「うんうん。助っ人に呼ばれてね。で、今練習が[r]
+　終わったトコで、試合までの暇つぶし＆みんなの状態は[r]
+　どうかな～って」[pcms]
 
 *2920|
 [fc]
 [vo_mob s="buin0003"]
-[ns]Club Member C[nse]
-"Rather than our condition, didn't you come to talk to Ren-[r]
-chan? Ren-chan, Sui- kun."[pcms]
+[ns]部員Ｃ[nse]
+「私たちの状態って言うより、漣ちゃんに話が[r]
+　あってきたんじゃないの？　漣ちゃん、崔くん」[pcms]
 
 *2921|
 [fc]
 [vo_ren s="ren0469"]
-[ns]Ren[nse]
-"Yes?"[pcms]
+[ns]漣[nse]
+「はい」[pcms]
 
 *2922|
 [fc]
-I put down my violin on the desk and approached Kousuke-kun.[pcms]
+私はバイオリンを机に置いて、[r]
+コーちゃんの傍に寄った。[pcms]
 
 *2923|
 [fc]
-Kousuke-kun, in his basketball uniform with a shoulder bag[r]
-slung over, probably looks like someone who would get[r]
-squeals from normal girls.[pcms]
+バスケのユニホーム姿でショルダーバッグを[r]
+引っかけてるコーちゃんは、たぶん、[r]
+普通の女の子が見たらキャーキャー言われそうな感じだ。[pcms]
 
 *2924|
 [fc]
-He's the opposite of my quiet brother. Maybe that's why we[r]
-get along so well.[pcms]
+大人しいお兄ちゃんと対照的。[r]
+だからこそ気が合うのかもしれない。[pcms]
 
 *2925|
 [fc]
 [vo_ren s="ren0470"]
-[ns]Ren[nse]
-"Kousuke-kun, is basketball practice going well?"[pcms]
+[ns]漣[nse]
+「コーちゃん、バスケの練習は上々？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2926|
 [fc]
-[ns]Kousuke[nse]
-"Ah, it's super great. It was just a practice to check our[r]
-coordination, but playing after a long time is really fun.[r]
-Makes me think about joining the basketball club."[pcms]
+[ns]浩助[nse]
+「あぁ、もうチョベリグだよ。連携確認だけの[r]
+　練習だったんだけどさ、久々にやるとスッゲー面白いんだよ、[r]
+　バスケって。このままバスケ部に入ろうかな～って」[pcms]
 
 *2927|
 [fc]
 [vo_ren s="ren0471"]
-[ns]Ren[nse]
-"Super great? Kousuke-kun, that phrase is so outdated."[pcms]
+[ns]漣[nse]
+「チョベリグって……コーちゃん、何年前に流行った[r]
+　言葉よ、それ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2928|
 [fc]
-[ns]Kousuke[nse]
-"Eh? You know, I often talk about DJ stuff with older[r]
-people. Some of them still use it, and I got hooked again."[pcms]
+[ns]浩助[nse]
+「えっ？　ほら、オレってＤＪの話するのに、年上と[r]
+　付き合うことが多いじゃん。なんかまだ使ってる人とか[r]
+　いて、またハマっちゃってさぁ」[pcms]
 
 *2929|
 [fc]
 [vo_ren s="ren0472"]
-[ns]Ren[nse]
-"Kousuke-kun, you're chasing your dream of being a DJ."[pcms]
+[ns]漣[nse]
+「コーちゃん、ＤＪの夢追ってるもんね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2930|
 [fc]
-[ns]Kousuke[nse]
-"Yeah... but if I join the basketball club, I won't have[r]
-time for DJ studies with all the practice. So, joining the[r]
-basketball club is out. Yeah."[pcms]
+[ns]浩助[nse]
+「あぁ。……って、バスケ部に入ったら、練習練習で[r]
+　ＤＪの勉強やってる時間なんてなくなるか。[r]
+　じゃあ、バスケ部入部は却下だな。うん」[pcms]
 
 *2931|
 [fc]
 [vo_ren s="ren0473"]
-[ns]Ren[nse]
-"You really love being a DJ, Kousuke-kun."[pcms]
+[ns]漣[nse]
+「本当にコーちゃん、ＤＪが好きだよね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2932|
 [fc]
-[ns]Kousuke[nse]
-"The idea of transforming music with my own hands? That's[r]
-what feels good. Well, I also like basketball because it has[r]
-a beat that I can feel among sports."[pcms]
+[ns]浩助[nse]
+「オレの手で新しい音楽に変わるって言うの？　そんな[r]
+　感じがいいんだよ。まぁ、バスケもスポーツの中じゃ[r]
+　ビートを感じるから、気に入ってるんだけど」[pcms]
 
 *2933|
 [fc]
 [vo_ren s="ren0474"]
-[ns]Ren[nse]
-"Good luck in this afternoon's match."[pcms]
+[ns]漣[nse]
+「午後からの試合、頑張ってね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2934|
 [fc]
-[ns]Kousuke[nse]
-"Leave it to me. I'm in it. We'll win by double score."[pcms]
+[ns]浩助[nse]
+「おう、任せとけ。オレが入ってるんだ。ダブルスコアで[r]
+　勝ってやるから」[pcms]
 
 *2935|
 [fc]
-Grinning like a child, Kousuke-kun flashed a V-sign.[pcms]
+ニッと子供のように笑って、コーちゃんはＶサインを[r]
+出した。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2936|
 [fc]
-[ns]Kousuke[nse]
-"By the way, you were only fiddling with your violin earlier[r]
-and didn't come over to me. What happened?"[pcms]
+[ns]浩助[nse]
+「ところでさっきバイオリンの方ばっか弄って、[r]
+　オレの方に来てくれなかったけど、どうしたんだ？」[pcms]
 
 *2937|
 [fc]
 [vo_ren s="ren0475"]
-[ns]Ren[nse]
-"Eh? Well... my string just broke. The full rehearsal is[r]
-over, so I was doing individual practice."[pcms]
+[ns]漣[nse]
+「えっ？　うん……さっき弦が切れちゃって。[r]
+　通し稽古はもう終わってるから、[r]
+　個人練習してたところなんだけどね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2938|
 [fc]
-[ns]Kousuke[nse]
-"I see. So you don't have time then?"[pcms]
+[ns]浩助[nse]
+「そうか。じゃあ、時間ないかな？」[pcms]
 
 *2939|
 [fc]
 [vo_ren s="ren0476"]
-[ns]Ren[nse]
-"Once I replace the string, I just need to move on, so it's[r]
-fine. I'll make it in time for the afternoon cheering."[pcms]
+[ns]漣[nse]
+「弦を張り替えたら、もう移動するだけだから[r]
+　大丈夫だよ。午後の応援には間に合わせるから」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2940|
 [fc]
-[ns]Kousuke[nse]
-"Is that so... then... can I talk to you for a sec?"[pcms]
+[ns]浩助[nse]
+「そっか。なら……ちょっと、いい？」[pcms]
 
 *2941|
 [fc]
-Suddenly lowering his voice and looking at me again made me[r]
-feel anxious, and I looked back at Kousuke-kun's face.[pcms]
+急に声を潜めて私の顔を見直すコーちゃんに不安を[r]
+感じて、私もコーちゃんの顔を見つめなおした。[pcms]
 
 *2942|
 [fc]
 [vo_ren s="ren0477"]
-[ns]Ren[nse]
-"What's wrong? Kousuke-kun"[pcms]
+[ns]漣[nse]
+「どうしたの？　コーちゃん」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2943|
 [fc]
-[ns]Kousuke[nse]
-"No, it's about Wataru. He suddenly went home yesterday,[r]
-right? And Yuuho didn't come back either. I'm worried about[r]
-what Wataru is up to since he hasn't replied to any emails."[pcms]
+[ns]浩助[nse]
+「いや、ワタルのことなんだけどさ。昨日急に[r]
+　帰っちゃったろう？　悠帆も結局帰ってこなかったし。[r]
+　漣ちゃんが家に帰ったとき、ワタル、家にいたのかな～って」[pcms]
 
 *2944|
 [fc]
 [vo_ren s="ren0478"]
-[ns]Ren[nse]
-"Yeah... I don't really know either. He was definitely there[r]
-in the morning, but when I got home his room light was[r]
-off..."[pcms]
+[ns]漣[nse]
+「うん……私もよくわからないの。朝にはいたのは[r]
+　確かなんだけど、私が帰った時はお兄ちゃんの部屋の[r]
+　電気は消えてたし……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2945|
 [fc]
-[ns]Kousuke[nse]
-"I see... No response to emails either. Just worried about[r]
-what Wataru is doing."[pcms]
+[ns]浩助[nse]
+「そうか……。いや、メールしても全然返事もないしさ。[r]
+　ワタルがどうしてるのか心配でさ」[pcms]
 
 ;//プロップが上がる？　イミフなのでカット＠ash
 ;//[vo_ren s="ren0479"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「お兄ちゃんが心配で来てくれたんだ。優しいね、
 ;//　コーちゃんは。プロップが上がるよ？」
 
 ;//[ChrSetEx layer=5 chbase="kou_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
-[ns]Kousuke[nse]
-;//「え、そうかぁ？　でも当たり前の話だろ？
+;//[ns]浩助[nse]
+;//「え～、そうかぁ？　でも当たり前の話だろ？
 ;//　オレたち仲間なんだしさ」
 
 *2946|
 [fc]
-"Ko-chan's smiling face felt dazzlingly bright."[pcms]
+ニッコリと笑うコーちゃんの顔がやけに眩しく感じた。[pcms]
 
 *2947|
 [fc]
-"I'm really happy that Ko-chan is concerned about my[r]
-brother."[pcms]
+お兄ちゃんの心配をしてくれるコーちゃんの[r]
+心遣いはとても嬉しいと思う。[pcms]
 
 *2948|
 [fc]
-"But, probably the change in my brother has something to do[r]
-with Yuuho-chan."[pcms]
+でも、たぶんお兄ちゃんの異変は、悠帆ちゃんに[r]
+関係してる。[pcms]
 
 ;//そう思うと、無邪気に『仲間』と言えるコーちゃんが
 ;//急に憎くなった。
 
 *2949|
 [fc]
-"I wonder what kind of face Ko-chan would make if I said I[r]
-hate Yuuho-chan for stealing my brother's heart."[pcms]
+お兄ちゃんの心を奪う悠帆ちゃんが嫌いだ、なんて[r]
+コーちゃんに言ったらどんな顔するんだろう。[pcms]
 
 *2950|
 [fc]
-"But there's also a part of me that can't bring myself to[r]
-hate Yuuho-chan."[pcms]
+でも悠帆ちゃんを嫌いになりきれない自分もいる。[pcms]
 
 *2951|
 [fc]
 [vo_ren s="ren0480"]
-[ns]Ren[nse]
-"That's right. ...Oh, I need to change the string quickly.[r]
-It's the G string that snapped, so it's going to take some[r]
-time."[pcms]
+[ns]漣[nse]
+「そうだね。……って、私、早く弦替えないと。[r]
+　切れちゃったのＧ線だから、手間がかかるの」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2952|
 [fc]
-[ns]Kousuke[nse]
-"Ah, sorry for bothering you."[pcms]
+[ns]浩助[nse]
+「あっ、と。悪いな、邪魔して」[pcms]
 
 *2953|
 [fc]
-"Not wanting to think any more about my brother and Yuuho-[r]
-chan, I suddenly changed the topic. Without suspecting[r]
-anything, Ko-chan sincerely apologized."[pcms]
+これ以上お兄ちゃんと悠帆ちゃんの事を考えたくなくて、[r]
+急に話題を変えた私を訝しく思う事もなく、[r]
+コーちゃんは素直に謝ってくれた。[pcms]
 
 *2954|
 [fc]
 [vo_ren s="ren0481"]
-[ns]Ren[nse]
-"No, it's okay. I'm sorry I couldn't help even though you[r]
-came all the way here because you were worried about my[r]
-brother."[pcms]
+[ns]漣[nse]
+「ううん。お兄ちゃんを心配してわざわざ[r]
+　来てくれたのに、わからなくてごめんね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2955|
 [fc]
-[ns]Kousuke[nse]
-"No, I heard music coming from the music room. I thought[r]
-maybe there are things better to ask Ren-chan before asking[r]
-Wataru."[pcms]
+[ns]浩助[nse]
+「いや、音楽室から音が聞こえてたからさ。ワタルに[r]
+　聞く前に漣ちゃんに聞いておいた方が良いことも[r]
+　あるかな～とか、そう思っただけだから」[pcms]
 
 *2956|
 [fc]
 [vo_ren s="ren0482"]
-[ns]Ren[nse]
-"Even so, I'm sorry, Ko-chan. But what should I do? I need a[r]
-workspace to change the string..."[pcms]
+[ns]漣[nse]
+「それでも、ごめんね、コーちゃん。でもどうしよう。[r]
+　弦替えるのに作業スペースが欲しいんだけど……」[pcms]
 
 *2957|
 [fc]
-"Hoping that Ko-chan would disappear from in front of me[r]
-soon, I deliberately consulted him."[pcms]
+それとなくコーちゃんに早く私の目の前から消えて[r]
+欲しくて、私はわざとコーちゃんに相談した。[pcms]
 
 *2958|
 [fc]
-"Ideally, for changing strings, it would be nice to have a[r]
-table where I can place the violin and such, and I want to[r]
-hear the sound for tuning as well."[pcms]
+もっとも弦を張り替える作業には、バイオリン本体を[r]
+置いたりなんだりとできる台があったら嬉しいし、[r]
+調律するために音も聞きたい。[pcms]
 
 *2959|
 [fc]
-"But maybe the next prep room would be easier."[pcms]
+でも、やっぱり隣の準備室が楽かな。[pcms]
 
 *2960|
 [fc]
-"Well then, let's get started..."[pcms]
+じゃあ、早速……。[pcms]
 
 [jump storage="zapBAD_B002.ks" target=*zapBAD_B002_TOP]
 

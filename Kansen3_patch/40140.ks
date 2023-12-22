@@ -1,10 +1,10 @@
 ;//block:A015
-;//ブロック４０１４０『地下道全員脱出編　下』
+;//ブロック４０１４０『地下道～全員脱出編～　下』
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40130.txtから
 
 *40140_TOP
-;{SceneSet 地下道全員脱出編下}
+;{SceneSet 地下道～全員脱出編～下}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公
@@ -23,60 +23,57 @@
 
 *1121|
 [fc]
-Sleep, meals, keeping watch... and occasionally checking the[r]
-news. That's how we've been slowly passing the time.[pcms]
+睡眠、食事、見張り……時々、ニュースのチェック。[r]
+そんな風にして、ボクたちはゆるゆると時を過ごしていった。[pcms]
 
 ;//@konya ev025 地下道(BG扱い)
 [evcg storage="EV025b"][trans_c cross time=300]
 
 *1122|
 [fc]
-While a storm raged in the outside world, the underground[r]
-realm was eerily peaceful... But that only made the[r]
-oppressive, stifling atmosphere all the more palpable.[pcms]
+外界では嵐が吹き荒れていたけれど、[r]
+地下の世界は不気味なくらいに平穏で……。[r]
+だけどその分、閉塞した重苦しい空気が立ち込めていた。[pcms]
 
 *1123|
 [fc]
-Considering the remaining battery life, we decided to only[r]
-turn on one of our three cell phones at a time.[pcms]
+残り電池のことを考えて、[r]
+３つある携帯は１つずつしか電源を入れないようにした。[pcms]
 
 *1124|
 [fc]
-Thanks to the near recovery of communication, it became[r]
-easier to access news and information... But it's[r]
-frightening to think why the network congestion has eased.[pcms]
+通信がほぼ回復したおかげで、[r]
+ニュースや情報も入手しやすくはなったけど……。[r]
+なんで回線の混雑が緩和されたのか、考えると恐ろしい。[pcms]
 
 *1125|
 [fc]
-If "humans" have restored the lines, we should be happy, and[r]
-if the situation is improving and restrictions are being[r]
-lifted, that's a good sign.[pcms]
+回線を復旧させた『人間』がいるなら喜ぶべきだし、[r]
+状況が改善に向かって、規制が解除されたとしてもいい兆候だ。[pcms]
 
 *1126|
 [fc]
-But... what if the reason is that there are fewer "humans"[r]
-using cell phones...?[pcms]
+だけど……、[r]
+携帯を使ってる『人間』が減ったのが理由だとしたら……？[pcms]
 
 *1127|
 [fc]
-As time passed, internet information sites and bulletin[r]
-boards became inaccessible one after another or stopped[r]
-updating.[pcms]
+時間が経つにつれて、ネットの情報サイトや掲示板も、[r]
+次々にアクセス不能になったり更新が止まったりしていく。[pcms]
 
 *1128|
 [fc]
-As a result, the few sites that continued to update were[r]
-congested and hard to connect to.[pcms]
+その分、かろうじて更新し続けているサイトは[r]
+混雑して繋がりにくい。[pcms]
 
 *1129|
 [fc]
-But... that concentration of access also proves that there[r]
-are still that many "humans" surviving.[pcms]
+だけど……、そのアクセスの集中は、[r]
+それだけの『人間』が生き残っている証明でもある。[pcms]
 
 *1130|
 [fc]
-We continued to seek information with an almost prayerful[r]
-desire.[pcms]
+ボクたちは祈るような気持ちで、情報を求め続けた。[pcms]
 
 ;//素材切り替えお願いします
 ;//@konya 暗転
@@ -84,20 +81,18 @@ desire.[pcms]
 
 *1131|
 [fc]
-Around this time, the government finally began to release[r]
-official statements.[pcms]
+この頃、ようやく政府からの公式見解も発表され始めた。[pcms]
 
 *1132|
 [fc]
-The Japanese government evacuated with an escort fleet from[r]
-Yokosuka, waited at sea for a while, and then set up a[r]
-provisional government on Miyake Island.[pcms]
+日本政府は横須賀から護衛艦隊と共に脱出し、[r]
+しばらく洋上で待機した後、三宅島に臨時政府を置いたらしい。[pcms]
 
 *1133|
 [fc]
-The current turmoil was caused by the same virus as the[r]
-"Tohoku Infection Disaster," according to a government[r]
-statement, which confirmed my fears.[pcms]
+今回の騒動は「東北感染災害」と同じウィルスが原因、と[r]
+政府の談話が発表されたことで、[r]
+ボクの懸念は確実なものとなった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -121,8 +116,8 @@ statement, which confirmed my fears.[pcms]
 
 *1134|
 [fc]
-The severity of the situation had already been confirmed by[r]
-the posts of survivors and eyewitnesses...[pcms]
+生き残った人々や目撃者の書き込みだけでも[r]
+もう充分に事態の深刻さは確定していたけれど……。[pcms]
 
 ;//素材切り替えお願いします
 ;//@konya 燃えてる渋谷
@@ -130,89 +125,82 @@ the posts of survivors and eyewitnesses...[pcms]
 
 *1135|
 [fc]
-"Major riots have broken out centered around Japan's major[r]
-cities and their vicinities, with the impact still expanding[r]
-nationwide..."[pcms]
+『日本の主要都市とその近隣を中心に、[r]
+全国規模の暴動が発生し、現在もなお影響が拡大中……』[pcms]
 
 ;//@konya 燃えてる街＆感染者
 [evcg storage="evs003"][trans_c cross time=300]
 
 *1136|
 [fc]
-"Infections have occurred throughout Japan regardless of[r]
-region. Is Tokyo the source of infection...?"[pcms]
+『地域を問わず、日本各地で感染者が発生。[r]
+感染源は東京か……？』[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1137|
 [fc]
-The implications of each piece of information were clear.[r]
-The infected were about to engulf all of Japan.[pcms]
+それぞれの情報が意味するところは明らかだった。[r]
+感染者が日本中を覆い尽くそうとしていた。[pcms]
 
 *1138|
 [fc]
-Some posts mentioned that the U.S. forces in Japan had[r]
-escaped to sea, but there were also many reports of Self-[r]
-Defense Forces and U.S. troops remaining in the country,[r]
-working hard to rescue people and contain the situation.[pcms]
+一部では、在日合衆国軍が洋上に脱出したと書かれていたけれど、[r]
+国内本土に残って救出や事態収拾に努力している[r]
+自衛隊や合衆国の部隊も多数ある……とも伝えられた。[pcms]
 
 *1139|
 [fc]
-Maruko-senpai, who is fluent in languages, was also checking[r]
-international news.[pcms]
+語学堪能なマル子先輩は、国際ニュースもチェックしていた。[pcms]
 
 *1140|
 [fc]
-"The UN declares an emergency," "The United States announces[r]
-cooperation with its stationed forces," "The World Health[r]
-Organization recommends a travel ban to Japan..."[pcms]
+『国連が緊急事態を宣言』[r]
+『合衆国、駐留軍の協力を表明』[r]
+『世界保健機構が日本への渡航を禁止勧告……』[pcms]
 
 *1141|
 [fc]
-World opinion seems to be leaning towards bashing the United[r]
-States for developing the original virus and the Japanese[r]
-government for declaring control.[pcms]
+世界の世論は大元のウィルスを開発した合衆国や[r]
+制圧宣言を出した日本政府へのバッシングに傾いているようだ。[pcms]
 
 ;//素材切り替えお願いします
 
 *1142|
 [fc]
-Even amidst this, there was some unofficial information that[r]
-caught my attention.[pcms]
+そんな中でも気になった非公式の情報があった。[pcms]
 
 *1143|
 [fc]
-Two days ago at a fireworks festival in Tokyo, there was a[r]
-yakuza-related person who went on a rampage causing serious[r]
-injuries to spectators... or so it goes.[pcms]
+２日前に都内で行われた花火大会会場で、[r]
+見物客に重傷を負わせるほど大暴れした[r]
+暴力団関係者がいた……とか。[pcms]
 
 *1144|
 [fc]
-There were numerous posts about sightings of a half-naked[r]
-woman near the venue...[pcms]
+会場付近で、半裸の女を目撃したという[r]
+多数の書き込みとか……。[pcms]
 
 *1145|
 [fc]
-After the fireworks ended and spectators were returning[r]
-home, there were multiple traffic accidents, and at the[r]
-nearest station, there were successive incidents involving[r]
-people...[pcms]
+花火が終わって見物客が帰る時間帯に交通事故が多発し、[r]
+最寄り駅では人身事故が相次いだ、という情報……。[pcms]
 
 *1146|
 [fc]
-That fireworks festival we didn't go to see...[pcms]
+ボクたちが見物に行かなかった、あの花火大会だ……。[pcms]
 
 *1147|
 [fc]
-Although it was unconfirmed information, the number of[r]
-traffic accidents and personal injuries were said to be a[r]
-terrifying new record for a single day in Tokyo.[pcms]
+未確認情報とはされていたけれど、[r]
+交通事故の件数といい、人身事故といい、[r]
+都内一日の発生件数としては、恐るべき新記録らしい。[pcms]
 
 *1148|
 [fc]
-What on earth happened at that fireworks festival? And what[r]
-about this half- naked woman...?[pcms]
+あの花火大会で、いったい……何があったんだろう？[r]
+それに、半裸の女って……？[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -230,13 +218,13 @@ about this half- naked woman...?[pcms]
 
 *1149|
 [fc]
-Anyway... no matter how you look at it, the situation was[r]
-dire.[pcms]
+とにかく……どう考えても状況は最悪だった。[pcms]
 
 *1150|
 [fc]
-The creatures have overrun all of Japan, and only the[r]
-important people have fled, leaving us survivors behind...[pcms]
+日本中にヤツラがあふれ、[r]
+偉い人たちだけが逃げ出して、[r]
+ボクら生き残りの人間は取り残された、ということだ……。[pcms]
 
 ;//---------------------------------------------------------------
 
@@ -245,144 +233,141 @@ important people have fled, leaving us survivors behind...[pcms]
 
 *1151|
 [fc]
-In the meantime, I've had several email exchanges with Dad.[pcms]
+その間、父さんとも[r]
+何度かメールのやりとりがあった。[pcms]
 
 *1152|
 [fc]
-He tried his best to rescue us by flying a DHK news[r]
-helicopter...[pcms]
+ＤＨＫの取材用ヘリを飛ばして、[r]
+なんとかボクたちを救出しようと[r]
+懸命に頑張ってくれたみたいだったけど……。[pcms]
 
 *1153|
 [fc]
-But with flight restrictions over central Tokyo and the need[r]
-to conserve precious fuel preventing unauthorized helicopter[r]
-flights, Dad seemed helpless due to various constraints.[pcms]
+都心上空に飛行制限が出されていることや、[r]
+貴重な燃料を節約するため、許可なくヘリが飛ばせないこと、[r]
+いろいろな制約で、父さんも手も足も出ないようだった。[pcms]
 
 *1154|
 [fc]
-"I'm sorry I can't come to help," he said... During a brief[r]
-phone call that connected, Dad was crying manly tears. He[r]
-was frustrated that he couldn't move even though we had[r]
-managed to survive.[pcms]
+助けに行けなくてすまない、と……。[r]
+一瞬だけつながった通話で、父さんは男泣きに泣いていた。[r]
+せっかく生き延びてくれたのに、身動きが取れないと……。[pcms]
 
 *1155|
 [fc]
-Ren cried her eyes out at Dad's words, and I... I couldn't[r]
-help but cry too.[pcms]
+そんな父さんの言葉に漣は大泣きしたし[r]
+ボクも……泣けてしまった。[pcms]
 
 *1156|
 [fc]
-Well, in any case, it would have been impossible for all of[r]
-us to board DHK's news helicopter anyway, so maybe this was[r]
-for the best.[pcms]
+まあ、どのみちＤＨＫの取材ヘリでは[r]
+ボクたち全員が乗ることは不可能だったから、[r]
+案外これはこれで良かったのかもしれない。[pcms]
 
 *1157|
 [fc]
-Among the five of us here, having to decide who gets saved[r]
-and who doesn't... that's something I can't bear...[pcms]
+ここにいる５人の中から、また[r]
+助かる者とそうじゃない者が出るなんて[r]
+そんなの……耐えられそうにない……。[pcms]
 
 ;//---------------------------------------------------------------
 
 *1158|
 [fc]
-Speaking of calls, Kousuke also seemed to have gotten[r]
-through directly to some of his music friends.[pcms]
+通話といえば、コースケも、[r]
+何人かの音楽仲間と直接電話が繋がったようだった。[pcms]
 
 *1159|
 [fc]
-They were a group on a regional live tour and apparently[r]
-managed to avoid getting caught up in the turmoil in central[r]
-Tokyo.[pcms]
+彼らは地方のライブ遠征に出ていたグループで、[r]
+都心の騒動に巻き込まれずに済んだらしい。[pcms]
 
 *1160|
 [fc]
-After a brief exchange confirming each other's safety,[r]
-Kousuke had a complex expression mixed with relief and[r]
-anxiety...[pcms]
+短いやりとりで、仲間の安否情報を確認しあったコースケは[r]
+安堵と不安の入り混じったフクザツな顔をしていた……。[pcms]
 
 *1161|
 [fc]
-It seems that calls don't go through to people who were in[r]
-central Tokyo after all.[pcms]
+やっぱり都心にいた人とは電話が通じない、そうだ。[pcms]
 
 *1162|
 [fc]
-It's tough when calls go unanswered even though they're[r]
-connected; on top of that, more and more people aren't[r]
-replying to emails either...[pcms]
+電波が届かないとか電源が切られているならともかく、[r]
+コールはあるのに相手が電話に出ないのはきつい……。[r]
+その上、メールでさえ返信の来ない相手が増えてきて……。[pcms]
 
 *1163|
 [fc]
-What's happening... It's scary to start thinking about it.[pcms]
+何が起こっているのか……。考え始めると怖い。[pcms]
 
 *1164|
 [fc]
-Still, we continued our sparse exchanges with those we could[r]
-still contact by email.[pcms]
+そんな中でも、かろうじてメール連絡の取れる相手とは[r]
+ほそぼそとしたやりとりが続いていた。[pcms]
 
 *1165|
 [fc]
-Maruko-senpai said she was able to get in touch with her[r]
-home country by email.[pcms]
+マル子先輩も、本国とメール連絡がとれたと言っていた。[pcms]
 
 *1166|
 [fc]
-There had been rumors of her death over there, so they were[r]
-very happy to learn she was alive.[pcms]
+向こうでは先輩の死亡説が流れていたようで、[r]
+生存が分かって、とても喜ばれたそうだ。[pcms]
 
 ;//★５０４９０と内容がかぶるので変更しました
 
 *1167|
 [fc]
-After that, Senpai's father apparently left Japan by[r]
-helicopter. He seems to be at sea now, but detailed[r]
-information hasn't come in yet.[pcms]
+それから、先輩のお父さんはヘリで日本を離れたらしい。[r]
+洋上にいるようだということは分かったけれど、[r]
+詳しい情報は、まだ入っていないみたいだった。[pcms]
 
 *1168|
 [fc]
-Most of the embassy staff accompanied her father, but only[r]
-Sesuka-san stayed in Tokyo to look for Senpai.[pcms]
+大使館のスタッフも殆どはお父さんに同行したそうだけど、[r]
+セスカさんだけは、[r]
+先輩を探すために東京に残ったということだった。[pcms]
 
 *1169|
 [fc]
-She intended to rescue Senpai by tracking her cell phone[r]
-location, but since Senpai left her phone charging and[r]
-abandoned it, they couldn't meet up successfully.[pcms]
+携帯電話で位置確認して、先輩を救出するつもりが、[r]
+先輩が携帯を充電しっぱなしで置き去りにしてしまったので、[r]
+うまく合流することができなかったらしい。[pcms]
 
 *1170|
 [fc]
-However, Sesuka-san is still sending regular updates, and[r]
-someone from her home country has promised to inform them of[r]
-Maruko-senpai's safety during their next communication.[pcms]
+ただ、今現在もセスカさんからは定期連絡が入るそうで、[r]
+次の連絡時に、マル子先輩の無事を伝えておく、と[r]
+本国の人間が請け負ってくれたそうだ。[pcms]
 
 *1171|
 [fc]
-Senpai, upon receiving that information, turned her face[r]
-away from us... I think she probably didn't want us to see[r]
-her tears.[pcms]
+その情報を得た先輩は、ボクらに顔を背けていた……。[r]
+多分、涙を見られたくなかったんだろう、と思う。[pcms]
 
 *1172|
 [fc]
-In the midst of all this...[pcms]
+そんな中で……。[pcms]
 
 *1173|
 [fc]
-Yuuho was the only one who couldn't get in touch with[r]
-anyone. Not with her family, nor with her club mates...[pcms]
+悠帆だけは、誰とも連絡が付かなかった。[r]
+家族とも、部活の仲間とも……。[pcms]
 
 *1174|
 [fc]
-She never tries to show her tears, but she looks incredibly[r]
-anxious.[pcms]
+決して涙を見せようとはしないけれど、すごく不安そうだ。[pcms]
 
 *1175|
 [fc]
-All I could do was to offer some words of comfort...[pcms]
+ボクにできるのは、声をかけることくらい……。[pcms]
 
 *1176|
 [fc]
-I thought about asking if she was worried about Oshima-[r]
-senpai's safety, but... I decided not to.[pcms]
+大嶋先輩の安否が気になってるんだろうかと、[r]
+聞いてみようかとも思ったけど……。やめた……。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

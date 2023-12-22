@@ -8,116 +8,119 @@
 ;//時間帯：朝
 ;//合計:1K程度
 ;//---------------------------------------------------------------
-;//▲３１：・・・あきらめよう・・・
+;//▲３－１：・・・あきらめよう・・・
 
 ;[sysbt_meswin]
 
 *240|
 [fc]
-Is this... the end? Do I have no choice but to give up?[pcms]
+ここ……までか。[r]
+あきらめるしかないのか？[pcms]
 
 *241|
 [fc]
-Indeed, the music room door is closed.[pcms]
+確かに音楽室の扉は閉まっている。[pcms]
 
 *242|
 [fc]
-But among the female students, there's one I recognize...[r]
-surely a member of the choir club who's an acquaintance of[r]
-Ren.[pcms]
+でも女子学生の中には見覚えのある……[r]
+確か漣の知り合いの合唱部の子もいる。[pcms]
 
 *243|
 [fc]
-Which means, maybe the music room door is just closed, not[r]
-that it has already fallen, right?[pcms]
+という事は、音楽室の扉は単に閉まっているだけで、[r]
+既に陥落しているんじゃないんだろうか？[pcms]
 
 *244|
 [fc]
-If that's the case... then Ren might already be.[pcms]
+ならば……ならば、漣はもう既に。[pcms]
 
 *245|
 [fc]
-I don't want to think about it.[pcms]
+考えたくない。[pcms]
 
 *246|
 [fc]
-I didn't want to think about it. But I can't help but think.[pcms]
+考えたくなかった。[r]
+でも、どうしても考えざるを得ない。[pcms]
 
 *247|
 [fc]
-[ns]Wataru[nse]
-"Re~~~~n!!"[pcms]
+[ns]航[nse]
+「れ～～～～んっ！！」[pcms]
 
 *248|
 [fc]
-When I realized it, I was shouting Ren's name.[pcms]
+気がついたとき、ボクは漣の名を叫んでいた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *249|
 [fc]
 [vo_mar s="maru0080A"]
-[ns]Margarita[nse]
-"You're crazy! Are you trying to attract more of them?"[pcms]
+[ns]マルガリータ[nse]
+「Ｙｏｕ’ｒｅ　ｃｒａｚｙ！[r]
+　ヤツらをさらに呼び寄せる気か？」[pcms]
 ;//〆ボイスa、b有り
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *250|
 [fc]
-[ns]Wataru[nse]
-"But, but Ren is, Ren is supposed to be there... in that[r]
-music room. And yet... Ren, Ren, are you there? You are[r]
-there, right? Ren!!"[pcms]
+[ns]航[nse]
+「だ、だけど、漣が、漣があそこに……[r]
+　あの音楽室にいるはずなのに。なのに……漣、漣、[r]
+　いるのか？　いるんだろう？　漣っ！！」[pcms]
 
 *251|
 [fc]
-My vision is getting blurry.[pcms]
+視界がぼやけてくる。[pcms]
 
 *252|
 [fc]
-Maybe I'm crying.[pcms]
+たぶん、ボクは涙を流しているのかもしれない。[pcms]
 
 *253|
 [fc]
-Through my blurred vision, I can see a senior re-gripping a[r]
-mop to fend off those attacking us.[pcms]
+にじんだボクの視界で、襲い来るヤツラに対抗しようと、[r]
+先輩がモップを握りなおしているのが見えた。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *254|
 [fc]
-But Ren is... Ren is.[pcms]
+でももう、漣は……漣は。[pcms]
 
 *255|
 [fc]
 [vo_ren s="ren0148"]
-[ns]Ren[nse]
-"Big brother!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ！！」[pcms]
 
 *256|
 [fc]
-Ren's voice reached my ears from somewhere. An auditory[r]
-hallucination?[pcms]
+どこからか漣の呼ぶ声がボクの耳に届いた。[r]
+幻聴？[pcms]
 
 *257|
 [fc]
-No--[pcms]
+いや――[pcms]
 
 *258|
 [fc]
 [vo_ren s="ren0149"]
-[ns]Ren[nse]
-"Big brother, over here. I'm over here."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、こっち。私はこっちだよ」[pcms]
 
 *259|
 [fc]
-[ns]Wataru[nse]
-"Ren? Re~~~~n!"[pcms]
+[ns]航[nse]
+「漣？　れ～～～んっ！」[pcms]
 
 *260|
 [fc]
-Certainly, I can clearly hear Ren's voice. And it's not like[r]
-those infected by the virus, it's the usual voice of Ren.[pcms]
+確かにはっきりと漣の声が聞こえる。[r]
+それに、ヤツラと同じようにウィルスに[r]
+感染した声なんかじゃなく、いつものあの漣の声だ。[pcms]
 
 ;//→block:30080へ
 [jump storage="30080.ks" target=*30080_TOP]

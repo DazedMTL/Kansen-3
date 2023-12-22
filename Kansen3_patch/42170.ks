@@ -1,11 +1,11 @@
 ;//block:C018
 ;//ブロック４２１５０から選択肢でjump
-;//ブロック４２１７０『地下道漣のみ脱出編』
+;//ブロック４２１７０『地下道～漣のみ脱出編～』
 ;//@konya 11/20 EV_CGほか
 ;//@konya 42150.txtから
 
 *42170_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路　開渠部の橋の上
 ;//カットイン？：宇田川暗渠　川底の風景　渋谷川暗渠・開口部
@@ -18,7 +18,7 @@
 ;//　感染者というのは推測でしかないのでどうでしょう？
 ;//イベント絵との不整合を修正：佐藤
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ４　４２：右に！宇田川へ
+;//●選択肢Ｃ－４　４－２：右に！宇田川へ
 
 ;//---------------------------------------------------------------
 
@@ -44,18 +44,19 @@
 
 *6010|
 [fc]
-[ns]Wataru[nse]
-"It might be a little dangerous, but I think we should make[r]
-haste now."[pcms]
+[ns]航[nse]
+「少し危険かもしれないですけど、[r]
+　いまは一刻を惜しむべきだと思います」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6011|
 [fc]
 [vo_mar s="maru0822"]
-[ns]Margarita[nse]
-"Understood. Let's break through towards Udagawa. Surely,[r]
-it'll be easier to get outside from there."[pcms]
+[ns]マルガリータ[nse]
+「わかった。[r]
+　宇田川の方向に抜けよう。[r]
+　きっと、外へも抜けやすいはずだ」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -65,8 +66,8 @@ it'll be easier to get outside from there."[pcms]
 
 *6012|
 [fc]
-Just as we were about to head for the stairs, the sound of a[r]
-door being broken echoed from far away.[pcms]
+ボクたちが階段へと向かおうとした時。[r]
+ボクたちのずっと遠くで扉が壊れた音が、反響して聞こえてきた。[pcms]
 
 ;//立ち絵なし
 ;//se508・複数の感染者のうなり声
@@ -74,23 +75,23 @@ door being broken echoed from far away.[pcms]
 
 *6013|
 [fc]
-The voices of the crazed people, filled with resentment,[r]
-echoed and distorted in the narrow underground passage.[pcms]
+狭い地下道の中を反響して歪み、聞こえてくる[r]
+おかしくなった人たちのの恨みがましい声。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6014|
 [fc]
 [vo_mar s="maru0416"]
-[ns]Margarita[nse]
-"Hurry up!"[pcms]
+[ns]マルガリータ[nse]
+「急ごう！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *6015|
 [fc]
-At the senior's voice, we hurried down the stairs.[pcms]
+先輩の声に、ボクらは急いで階段を駆け下りた。[pcms]
 
 ;//ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -108,7 +109,7 @@ At the senior's voice, we hurried down the stairs.[pcms]
 
 *6016|
 [fc]
-We desperately fled through the sewers.[pcms]
+ボクらは下水の中を必死で逃げた。[pcms]
 
 ;//〆地下通路
 [bg storage="BG027"][trans_c cross time=500]
@@ -116,12 +117,12 @@ We desperately fled through the sewers.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
-;//　ＳＥ的にかすかな姦染悠帆の声　「わたる」　？
+;//　ＳＥ的にかすかな姦染悠帆の声　「わたる～」　？
 
 *6017|
 [fc]
-Along the way, I heard a voice that sounded just like[r]
-Yuuho's, but I didn't look back.[pcms]
+途中、聞こえてくる声の中に悠帆にそっくりなのが聞こえたけど、[r]
+ボクは振り向かなかった。[pcms]
 
 ;//〆宇田川暗渠
 [bg storage="BG025"][trans_c cross time=500]
@@ -131,37 +132,38 @@ Yuuho's, but I didn't look back.[pcms]
 
 *6018|
 [fc]
-It felt like something out of a myth. Orpheus, the master of[r]
-the lyre, who went to the underworld to retrieve his wife[r]
-bitten by a snake and died.[pcms]
+まるで神話みたいだと思った。[r]
+ヘビに噛まれて死んだ奥さんを冥界まで迎えにいった[r]
+琴の名人オルフェウス。[pcms]
 
 *6019|
 [fc]
-Charon, the ferryman of the river Styx, and Cerberus, the[r]
-hound of hell, were both captivated by his lyre, allowing[r]
-him to reunite with his wife safely.[pcms]
+冥府の川の渡し守のカロンも地獄の番犬ケルベロスも[r]
+彼の琴に聞きほれて通してくれたので、[r]
+無事に奥さんと再会することができた。[pcms]
 
 *6020|
 [fc]
-Moreover, even Hades, the king of the underworld, was[r]
-impressed by his lyre playing and gave him permission to[r]
-take his wife back to the surface.[pcms]
+その上、冥界の王ハデスまで彼の琴の腕前に感心して、[r]
+地上へと奥さんを連れて帰る許可をくれた。[pcms]
 
 *6021|
 [fc]
-"You must not look back until you reach the surface."[pcms]
+だけどそれには[r]
+『地上に帰るまで決して振り向いてはいけない』[r]
+って約束事があった。[pcms]
 
 *6022|
 [fc]
-However, because his wife kept calling out to him, he looked[r]
-back before reaching the surface and realized she was a[r]
-hideous corpse.[pcms]
+しかし、あんまりにも奥さんが呼ぶので地上に帰る前に[r]
+ふりむいてしまった。[r]
+そして、奥さんが醜い死体であることがわかってしまう。[pcms]
 
 *6023|
 [fc]
-And so, despite having gone to save her in the underworld,[r]
-hatred grew between them, and it is said that Orpheus could[r]
-never love again.[pcms]
+そして、冥界にまで助けに行ったはずなのに、[r]
+二人の間には憎しみが生まれて、[r]
+オルフェウスは二度と人を愛せなくなったともいう。[pcms]
 
 ;//ボクは琴座の悲しい神話を思い出した。
 
@@ -174,46 +176,47 @@ never love again.[pcms]
 
 *6024|
 [fc]
-Now, I can understand how Orpheus must have felt.[pcms]
+今なら、ボクはオルフェウスの気持ちが良くわかる。[pcms]
 
 *6025|
 [fc]
-I didn't want to see a monster with Yuuho's appearance and[r]
-come to hate her.[pcms]
+ボクはこれ以上、悠帆の姿をした化物を見て、[r]
+悠帆のことを嫌いになりたくなかった。[pcms]
 
 *6026|
 [fc]
-I couldn't bear to hate my beloved Yuuho.[pcms]
+ボクの大好きな悠帆をキライになるなんて、[r]
+ボクには耐えられない。[pcms]
 
 *6027|
 [fc]
-I ran.[pcms]
+ボクは走った。[pcms]
 
 *6028|
 [fc]
-To not lose my feelings for Yuuho.[pcms]
+悠帆への思いを失わないために。[pcms]
 
 *6029|
 [fc]
-As a feeble resistance to an absolute loss.[pcms]
+絶対的な喪失への、せめてもの抵抗に。[pcms]
 
 *6030|
 [fc]
-The sound of sewage splashing in the dark channel kept the[r]
-voices of the monsters shaped like my beloved at bay.[pcms]
+暗渠に響く、跳ね上がる下水の音が、[r]
+愛しい人の形をした化物の声を遠ざける。[pcms]
 
 *6031|
 [fc]
-Even as my feet got tangled in the sludge, I deliberately[r]
-made loud splashing noises as I continued to run.[pcms]
+ヘドロに足をもつれさせながらも、[r]
+ボクはわざと大きく水音をたてて駆け続けた。[pcms]
 
 *6032|
 [fc]
-Goodbye, Yuuho.[pcms]
+さようなら、悠帆。[pcms]
 
 *6033|
 [fc]
-My precious...[pcms]
+ボクの大切な……。[pcms]
 
 ;//〆渋谷川暗渠・開口部付近
 [bg storage="BG026"][trans_c cross time=500]
@@ -227,35 +230,34 @@ My precious...[pcms]
 
 *6034|
 [fc]
-[ns]Wataru[nse]
-"Ah..."[pcms]
+[ns]航[nse]
+「あっ……」[pcms]
 
 *6035|
 [fc]
 [vo_ren s="ren0675"]
-[ns]Ren[nse]
-"Mmm..."[pcms]
+[ns]漣[nse]
+「んんっ……」[pcms]
 
 *6036|
 [fc]
 [vo_mar s="maru0417"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *6037|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「………………」[pcms]
 
 *6038|
 [fc]
-A white light began to pour in.[pcms]
+白い光が射し込んできた。[pcms]
 
 *6039|
 [fc]
-To us who had been wandering underground for so long, it was[r]
-a hot, scorching light that felt like it could burn our[r]
-bodies.[pcms]
+今までずっと地下をさまよっていたボクたちには、[r]
+身体を焼かれるかと思うように熱い、熱い光だ。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -275,59 +277,57 @@ bodies.[pcms]
 
 *6040|
 [fc]
-We somehow managed to follow the dark channel and seemed to[r]
-have reached the open channel of Shibuya River.[pcms]
+夢中で逃げたボクたちは、なんとか暗渠をうまく伝って[r]
+渋谷川の開渠にたどりついたみたいだ。[pcms]
 
 ;//se037・石の転げる乾いた音
 [se buf=0 storage="se037"]
 
 *6041|
 [fc]
-From the dried riverbed, we looked up at the towering[r]
-buildings in the sky.[pcms]
+枯れた川底から、天にそびえるビルを見上げる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6042|
 [fc]
 [vo_ren s="ren0676"]
-[ns]Ren[nse]
-"...The city looks like it's dead... doesn't it?"[pcms]
+[ns]漣[nse]
+「……街が死んじゃったみたい……だね」[pcms]
 
 *6043|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6044|
 [fc]
-[ns]Kousuke[nse]
-"Ah..."[pcms]
+[ns]浩助[nse]
+「ああっ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *6045|
 [fc]
-The music and bustle of the city, the noise of cars[r]
-runningnone of it could be heard.[pcms]
+街から響く音楽も喧騒も、車の走る騒音もない。[pcms]
 
 *6046|
 [fc]
-All that could be heard were small screams and groans[r]
-carried by the wind, which seemed likely to be drowned out[r]
-by its howling.[pcms]
+聞こえるのは風に乗って届く小さな悲鳴とうめき声だけ。[r]
+それすらも、風のうなりに消えてしまいそうだ。[pcms]
 
 *6047|
 [fc]
-The city of Shibuya where we were born and raised might have[r]
-died just as Ren said.[pcms]
+ボクたちが生まれて育った渋谷の街は漣の言うとおり、[r]
+死んでしまったのかもしれない。[pcms]
 
 *6048|
 [fc]
-We might be the only ones left alive in this city...[pcms]
+この街で生き残っているのは、[r]
+もうボクたちだけなのかもしれない……。[pcms]
 
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -335,257 +335,256 @@ We might be the only ones left alive in this city...[pcms]
 *6049|
 [fc]
 [vo_ren s="ren0677"]
-[ns]Ren[nse]
-"It's like a grave..."[pcms]
+[ns]漣[nse]
+「お墓……みたい……」[pcms]
 ;//＠　少し涙ぐみ
 
 *6050|
 [fc]
-Ren, on my back, murmured sadly.[pcms]
+ボクの背中の上の漣が、悲しそうにつぶやいた。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *6051|
 [fc]
-The white, black, and grey smoke rising here and there[r]
-seemed like smoke from cremating corpses. The buildings[r]
-soaring into the high blue summer sky looked like silver[r]
-tombstones.[pcms]
+ところどこに上がっている白や黒や灰色の煙は、[r]
+死体を焼く[ruby text="だ　び"][ch text="荼毘"]の煙のようにも思えてくる。[r]
+夏の高く青い空にそびえるビルは、まるで白銀の墓標のようだった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6052|
 [fc]
 [vo_mar s="maru0825"]
-[ns]Margarita[nse]
-"Fortunately, it seems they haven't entered this area yet.[r]
-Here we have a good view and plenty of space to move around.[r]
-We should reach the port by dusk."[pcms]
+[ns]マルガリータ[nse]
+「幸いこのあたりにはまだ、あいつらは入ってきていないらしい。[r]
+　ここなら、見晴らしもいいし広くて身動きもとりやすい。[r]
+　日が暮れるまでには港に着くだろう」[pcms]
 
 *6053|
 [fc]
-[ns]Wataru[nse]
-"...Yes."[pcms]
+[ns]航[nse]
+「……そうですね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6054|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, senior... look out!"[pcms]
+[ns]浩助[nse]
+「ワタル、先輩……あれっ！」[pcms]
 
 *6055|
 [fc]
-Kousuke pointed ahead...[pcms]
+コースケが指差した先には……。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *6056|
 [fc]
-There were many figures. On the bridge over the open channel[r]
-and along the riverbank, countless crazed people were[r]
-wandering about.[pcms]
+多くの人影があった。[r]
+開渠部の橋の上や、河縁に無数のおかしくなった人たちが[r]
+徘徊していた。[pcms]
 
 ;//se106・風の音とかすかなうめき声
 ;//[se buf=0 storage="se106"]
 
 *6057|
 [fc]
-The faint moans carried by the summer wind reached our ears[r]
-again.[pcms]
+夏の風にのって、かすかなうめきがまた、ボクたちの耳へと届く。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6058|
 [fc]
 [vo_mar s="maru0826"]
-[ns]Margarita[nse]
-"It's okay. They can't get in here. Unless they come in[r]
-through a sewer or something like us, it's impossible."[pcms]
+[ns]マルガリータ[nse]
+「大丈夫だ。ここまでは入ってこれない。[r]
+　ワタシたちのように、[r]
+　下水かなにかで入って来ない限りは無理だ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6059|
 [fc]
-[ns]Kousuke[nse]
-"Indeed..."[pcms]
+[ns]浩助[nse]
+「たしかに……」[pcms]
 
 *6060|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *6061|
 [fc]
-"Surely, as the senior says. If you look around the[r]
-riverbed, you can see several crushed corpses."[pcms]
+きっと、先輩の言うとおりなんだろう。[r]
+川底を見回せば何体かのつぶれた死体が転がっていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6062|
 [fc]
 [vo_mar s="maru0827"]
-[ns]Margarita[nse]
-"Even if they've gone mad, if their bodies are destroyed to[r]
-the point they can't move, it seems they die..."[pcms]
+[ns]マルガリータ[nse]
+「おかしくなっていても、身体が動かなくなるほど破壊されれば[r]
+　死んでしまうようだな……」[pcms]
 
 *6063|
 [fc]
 [vo_mar s="maru0828"]
-[ns]Margarita[nse]
-"They seem less like the walking dead of fiction and more[r]
-like drug addicts, abnormally insensitive to pain..."[pcms]
+[ns]マルガリータ[nse]
+「作り話の動く死体と言うよりは、麻薬中毒の患者のように[r]
+　痛みに異常に鈍くなっているようだ……」[pcms]
 
 *6064|
 [fc]
 [vo_mar s="maru0829"]
-[ns]Margarita[nse]
-"Thanks to that, they don't die from shock. Since that's[r]
-surprisingly common among human causes of death, they even[r]
-seem invincible at a glance."[pcms]
+[ns]マルガリータ[nse]
+「おかげでショック死することがない。[r]
+　人間の死因には意外とそれが多いものだから、[r]
+　あいつらは一見不死身にすら見える」[pcms]
 
 *6065|
 [fc]
 [vo_mar s="maru0830"]
-[ns]Margarita[nse]
-"But if they fall from that height, they'll most likely be[r]
-unable to move. That's why we're safe here."[pcms]
+[ns]マルガリータ[nse]
+「だが、あの高さから落ちれば、まず動けなくなるだろう。[r]
+　だから、ここは安心だ」[pcms]
 
 *6066|
 [fc]
-Senior looked around the riverside with a somewhat helpless[r]
-expression as she spoke to us.[pcms]
+先輩は川辺を見回しながら、[r]
+どこかやるせないような表情でボクたちに話す。[pcms]
 
 *6067|
 [fc]
-[ns]Wataru[nse]
-"Even though you say we're safe... Why do you have such a[r]
-look on your face, senior?"[pcms]
+[ns]航[nse]
+「安心だというのに……。[r]
+　なんで先輩はそんな顔をしてるんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6068|
 [fc]
 [vo_mar s="maru0831"]
-[ns]Margarita[nse]
-"I never thought we'd be saved by a dead river. I find it[r]
-ironic..."[pcms]
+[ns]マルガリータ[nse]
+「まさかワタシたちが死んだ河に助けられるとは思わなかった。[r]
+　それが皮肉だと思ってな……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6069|
 [fc]
 [vo_ren s="ren0678"]
-[ns]Ren[nse]
-"A dead river? What do you mean by... a dead river?"[pcms]
+[ns]漣[nse]
+「死んだ河？[r]
+　死んでる河って……なんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6070|
 [fc]
-[ns]Kousuke[nse]
-"Certainly, the water hasn't dried up but..."[pcms]
+[ns]浩助[nse]
+「たしかに、水は干上がってしまってないけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6071|
 [fc]
 [vo_mar s="maru0832"]
-[ns]Margarita[nse]
-"No, even with water, it's dead. If you coat the riverside[r]
-with concrete like this, most of the creatures living in the[r]
-river will die..."[pcms]
+[ns]マルガリータ[nse]
+「いや、水があっても死んでいる。[r]
+　こんな風に川辺をコンクリートで塗り固めれば[r]
+　川に棲むほとんどの生き物は死んでしまう……」[pcms]
 
 *6072|
 [fc]
 [vo_mar s="maru0833"]
-[ns]Margarita[nse]
-"It looks like a river, but once that happens, it becomes no[r]
-different from a drain... a dead river."[pcms]
+[ns]マルガリータ[nse]
+「見た目は河だが、そうなったら排水溝と変わらなくなくなる。[r]
+　……死んだ河だ」[pcms]
 
 *6073|
 [fc]
 [vo_mar s="maru0834"]
-[ns]Margarita[nse]
-"When I read about it in a book, I was furious at the[r]
-stupidity. But now, we are being saved by that very dead[r]
-river... Life really is unpredictable."[pcms]
+[ns]マルガリータ[nse]
+「それを本で読んだ時、ワタシは愚かしいと激怒した。[r]
+　だが、ワタシたちは今、死んだその河のおかげで助かっている。[r]
+　……人生、本当に何が起こるかわからないな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6074|
 [fc]
-[ns]Kousuke[nse]
-"Is it what you call a surprise?"[pcms]
+[ns]浩助[nse]
+「サプライズってやつですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6075|
 [fc]
 [vo_mar s="maru0835"]
-[ns]Margarita[nse]
-"Who knows..."[pcms]
+[ns]マルガリータ[nse]
+「さあな……」[pcms]
 
 *6076|
 [fc]
-So saying, the senior laughed self-deprecatingly. She values[r]
-tradition and had been researching the history of this town,[r]
-so she must be feeling complicated.[pcms]
+そういって先輩は、自嘲気味に笑う。[r]
+先輩は伝統を大切にする人だし、[r]
+この街の歴史なんかを調べてたから、きっと複雑な気分だろう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6077|
 [fc]
 [vo_mar s="maru0836"]
-[ns]Margarita[nse]
-"I'm not defending the construction that kills rivers, but[r]
-let's take it as a lesson that in life, you never know what[r]
-might come in handy... Let's get going."[pcms]
+[ns]マルガリータ[nse]
+「河を殺すような工事を擁護する気はないが、[r]
+　人生、なにがなんの役に立つかわからないという教訓としよう。[r]
+　……そろそろ出発するぞ」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *6078|
 [fc]
-Senior said that as if to hide her embarrassment and then[r]
-started walking towards the sea along the riverbed.[pcms]
+先輩は照れ隠しのように、最後にそう言うと海に向かって[r]
+川底を歩き始めた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6079|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「………………」[pcms]
 
 *6080|
 [fc]
-Kousuke was still staring at the town that seemed dead.[pcms]
+コースケはまだ、死んだような街を見続けている。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6081|
 [fc]
 [vo_ren s="ren0679"]
-[ns]Ren[nse]
-"Kou-chan...?"[pcms]
+[ns]漣[nse]
+「コーちゃん……？」[pcms]
 
 *6082|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6083|
 [fc]
-[ns]Kousuke[nse]
-"Then, as an additional surprise, I have something to say[r]
-too..."[pcms]
+[ns]浩助[nse]
+「それじゃあ、サプライズついでに、オレからもひとつ……」[pcms]
 
 ;//SE即時停止
 [stopse buf=0]
@@ -595,279 +594,286 @@ too..."[pcms]
 *6084|
 [fc]
 [vo_mar s="maru0837"]
-[ns]Margarita[nse]
-"What is it...?"[pcms]
+[ns]マルガリータ[nse]
+「なんだ……？」[pcms]
 
 *6085|
 [fc]
-Senior turned back at Kousuke's words, who had stopped in[r]
-his tracks for some reason. Come to think of it, he has been[r]
-acting strange since we mentioned escaping to the sea...[pcms]
+先輩はなぜか足を止めたままのコースケの言葉に振り返る。[r]
+そういえば、海に逃げるってボクたちが言ってから[r]
+様子が変な気がするけど……。[pcms]
 
 *6086|
 [fc]
-...What on earth is going on?[pcms]
+……いったいどうしたんだろう？[pcms]
 
 *6087|
 [fc]
-He's not a non-swimmer, and he didn't hate the sea. We've[r]
-been there together many times.[pcms]
+カナヅチじゃないし、海は別に嫌いじゃなかったはずだ。[r]
+何度も、一緒に行ったはずだし。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6088|
 [fc]
-[ns]Kousuke[nse]
-"...I'm going back to Shibuya."[pcms]
+[ns]浩助[nse]
+「……オレ……渋谷に戻るわ……」[pcms]
 
 *6089|
 [fc]
-[ns]Wataru[nse]
-"What!?"[pcms]
+[ns]航[nse]
+「えっ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6090|
 [fc]
 [vo_ren s="ren0680"]
-[ns]Ren[nse]
-"Kou-chan!?"[pcms]
+[ns]漣[nse]
+「コーちゃん！？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6091|
 [fc]
 [vo_mar s="maru0838"]
-[ns]Margarita[nse]
-"Are you out of your mind!?"[pcms]
+[ns]マルガリータ[nse]
+「正気か！？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6092|
 [fc]
-[ns]Kousuke[nse]
-"I'm sane. It's just not time for me to run away yet..."[pcms]
+[ns]浩助[nse]
+「正気です。[r]
+　やっぱり、オレはまだ逃げるべき時じゃない……」[pcms]
 
 *6093|
 [fc]
-[ns]Wataru[nse]
-"Time to run away... There's no other time but now!?"[pcms]
+[ns]航[nse]
+「逃げるべき時って……。[r]
+　今を置いて他にないだろ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6094|
 [fc]
-[ns]Kousuke[nse]
-"That's because it's you, Wataru... I still haven't heard[r]
-anything about my dad or mom... and Mizuki too."[pcms]
+[ns]浩助[nse]
+「それは……お前だからだよワタル……。[r]
+　オレはまだ、おやじもおふくろも消息がつかめないんだぜ。[r]
+　……それから瑞樹も」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6095|
 [fc]
 [vo_mar s="maru0839"]
-[ns]Margarita[nse]
-"It's impossible! With things this far gone, there's no way[r]
-they could be alive..."[pcms]
+[ns]マルガリータ[nse]
+「無理だ！[r]
+　ここまでなったら助かってるわけがない……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6096|
 [fc]
-[ns]Kousuke[nse]
-"I think what the senior says is right... Probably, it's[r]
-useless even if I go. ...But if I think that way, it'll[r]
-definitely become useless."[pcms]
+[ns]浩助[nse]
+「オレも先輩の言うとおりだと思います……。[r]
+　多分、行ってもムダなんです。[r]
+　……でも、そう思ったら本当に無駄になっちまう」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6097|
 [fc]
-[ns]Kousuke[nse]
-"...Thinking like that..."[pcms]
+[ns]浩助[nse]
+「……そんな風に思っちまって……」[pcms]
 
 *6098|
 [fc]
-So saying, Kousuke looked up at the town of Shibuya again.[pcms]
+そう言って、またコースケは渋谷の街を見上げる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6099|
 [fc]
-[ns]Kousuke[nse]
-"I at least want to try searching for Mizuki. With her[r]
-personality, there probably isn't anyone else who would look[r]
-for her. So, I have to be the one..."[pcms]
+[ns]浩助[nse]
+「オレぐらいは瑞樹を探してやりたいって思うんだ。[r]
+　アイツ、あんな感じじゃ、きっと探してくれるヤツなんていない。[r]
+　だから、オレだけでも……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6100|
 [fc]
 [vo_mar s="maru0840"]
-[ns]Margarita[nse]
-"Are you prepared for this?"[pcms]
+[ns]マルガリータ[nse]
+「覚悟の上か？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6101|
 [fc]
-[ns]Kousuke[nse]
-"I am part of the vigilante group after all. It would be[r]
-strange for a vigilante to run away at a time like this,[r]
-right? If I go back now, I might be able to save some people[r]
-who are still safe."[pcms]
+[ns]浩助[nse]
+「オレは仮にも自警団ですからね。[r]
+　自警団がこんな時に逃げるっていうのはおかしな話でしょ？[r]
+　今帰れば、まだ無事な人間を何人か助けられるかもしれない」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6102|
 [fc]
-[ns]Kousuke[nse]
-"So... this is goodbye."[pcms]
+[ns]浩助[nse]
+「だから……ここでお別れです」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6103|
 [fc]
 [vo_ren s="ren0681"]
-[ns]Ren[nse]
-"Kou-chan..."[pcms]
+[ns]漣[nse]
+「コーちゃん……」[pcms]
 
 *6104|
 [fc]
-Ren spilled tears.[pcms]
+漣が涙をこぼす。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6105|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「………………」[pcms]
 
 *6106|
 [fc]
-[ns]Wataru[nse]
-"If Kou-suke is going... then I'm going too..."[pcms]
+[ns]航[nse]
+「コースケが行くんなら……ボクも行く……」[pcms]
 
 *6107|
 [fc]
-I felt like crying too. More than that, if Kou-suke was[r]
-going then I wanted to go too... I'm worried about Mizuki[r]
-and I don't want Kou-suke to leave.[pcms]
+ボクだって、泣きそうだった。[r]
+それより前に、コースケが行くならボクもって……。[r]
+瑞樹も気になるし、コースケがいなくなるなんてイヤだ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6108|
 [fc]
-[ns]Kousuke[nse]
-"It's impossible for you, Wataru..."[pcms]
+[ns]浩助[nse]
+「ワタルにゃ無理だよ……」[pcms]
 
 *6109|
 [fc]
-[ns]Wataru[nse]
-"Wasn't my strength in a crisis amazing? Even Ren managed to[r]
-carry me here..."[pcms]
+[ns]航[nse]
+「ボクの火事場の馬鹿力はすごかったろ？[r]
+　漣だって、ここまで運んできたんだし……」[pcms]
 
 *6110|
 [fc]
-[ns]Kousuke[nse]
-"You know..."[pcms]
+[ns]浩助[nse]
+「お前なぁ……」[pcms]
 
 *6111|
 [fc]
-Kousuke looked at me with a look of exasperation.[pcms]
+コースケは呆れたようにボクを見る。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6112|
 [fc]
-[ns]Kousuke[nse]
-"What about Ren-chan?"[pcms]
+[ns]浩助[nse]
+「その漣ちゃんをどうするんだ？」[pcms]
 
 *6113|
 [fc]
-[ns]Wataru[nse]
-"Ah... That is..."[pcms]
+[ns]航[nse]
+「あっ……。[r]
+　そ、それは……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6114|
 [fc]
 [vo_ren s="ren0682"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 
 ;//漣は無言のままで、ボクにひしっと、しっかりしがみつく。
 
 *6115|
 [fc]
-Ren remained silent, burying her face in my chest as if to[r]
-escape everyone's gaze.[pcms]
+漣は無言のままで、ボクの胸に顔を埋める。みんなの視線から[r]
+逃げるように――[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6116|
 [fc]
-[ns]Kousuke[nse]
-"Aren't you the one who understands Ren-chan the most in[r]
-this world? How sad will she be if you're gone?"[pcms]
+[ns]浩助[nse]
+「漣ちゃんのことをこの世で一番わかってるのはお前だろ？[r]
+　お前がいなくなったら、漣ちゃんがどれだけ悲しむんだ？」[pcms]
 
 *6117|
 [fc]
-[ns]Wataru[nse]
-"That's true, but... I don't want to part with Kou-suke[r]
-either..."[pcms]
+[ns]航[nse]
+「それはそうだけど……。[r]
+　ボクだって、コースケと別れるのは……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6118|
 [fc]
-[ns]Kousuke[nse]
-"Idiot! It's not like it's certain that I'll be done for...[r]
-Don't say such unlucky things!!"[pcms]
+[ns]浩助[nse]
+「バーカ！[r]
+　絶対やられると決まってるわけじゃないだろ……。[r]
+　縁起でもないこと言うなっ！！」[pcms]
 
 *6119|
 [fc]
-[ns]Wataru[nse]
-"Yeah, you're right..."[pcms]
+[ns]航[nse]
+「う、うんっ……そうだよね……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6120|
 [fc]
-That's right... As Kou-suke said earlier, we have to pray[r]
-for Mizuki and the others' safety, or it will surely be the[r]
-end.[pcms]
+そうだ……。[r]
+さっき、コースケも言ったけど、ボクたちだけでも[r]
+瑞樹たちの無事を祈らなきゃきっと本当にダメになる。[pcms]
 
 *6121|
 [fc]
-It's the same for Kou-suke, we have to believe that he will[r]
-return safely...[pcms]
+コースケのことだって同じだ、[r]
+ボクたちだけでも無事に帰ってくることを信じてやらないと……。[pcms]
 
 *6122|
 [fc]
-[ns]Kousuke[nse]
-"But, thank you... You really are my best friend."[pcms]
+[ns]浩助[nse]
+「でも、ありがとうよ……。[r]
+　やっぱり、お前は[ruby text="マブダチ"][ch text="親友"]だ」[pcms]
 
 *6123|
 [fc]
-[ns]Wataru[nse]
-"Kou-suke..."[pcms]
+[ns]航[nse]
+「コースケ……」[pcms]
 
 *6124|
 [fc]
-It felt somewhat embarrassing... While thinking that, I[r]
-entrusted Kou-suke with another request and my feelings.[pcms]
+なんだか照れくさい……。[r]
+ボクはそう思いながらも、[r]
+コースケにもうひとつ頼んでキモチを託す。[pcms]
 
 *6125|
 [fc]
-[ns]Wataru[nse]
-"When you get back, I hope you can see Tadahiko and Inori-[r]
-san. Those two are definitely safe... So please come back[r]
-with them."[pcms]
+[ns]航[nse]
+「戻ったら、彦ちんと緒織さんにも、会えるといいな。[r]
+　あの二人はきっと無事だから……。[r]
+　そしたら、一緒に帰って来てくれよ」[pcms]
 
 *6126|
 [fc]
-I hope they're safe. Tadahiko, and then...[pcms]
+無事でいてほしい。[r]
+彦ちん、それから……。[pcms]
 
 ;//--------------------------------------------------------------------
 ;//条件分岐
@@ -889,7 +895,7 @@ I hope they're safe. Tadahiko, and then...[pcms]
 
 *6127|
 [fc]
-Inori-san... my first love too...[pcms]
+緒織さん……ボクの初めての人も……。[pcms]
 
 ;//以降　合流ポイントに
 [jump storage="42170.ks" target=*42170_03]
@@ -901,7 +907,7 @@ Inori-san... my first love too...[pcms]
 
 *6128|
 [fc]
-Inori-san... too...[pcms]
+緒織さん……も……。[pcms]
 
 [jump storage="42170.ks" target=*42170_03]
 
@@ -911,20 +917,20 @@ Inori-san... too...[pcms]
 
 *6129|
 [fc]
-I entrusted my feelings to Kou-suke.[pcms]
+ボクの気持ちをコースケに託す。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6130|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, I can't promise I'll be back, but I'll come out with[r]
-you. After all, Shibuya is where we belong, right?"[pcms]
+[ns]浩助[nse]
+「ああ、帰ってはこれないが、一緒に出てくるよ。[r]
+　だって、オレたちにとって帰る場所は渋谷だろ？」[pcms]
 
 *6131|
 [fc]
-[ns]Wataru[nse]
-"That's right..."[pcms]
+[ns]航[nse]
+「そうだね……」[pcms]
 
 ;//@konya キャラ消し
 [chara_int_ layer=5][trans_c cross time=150]
@@ -934,16 +940,16 @@ you. After all, Shibuya is where we belong, right?"[pcms]
 
 *6132|
 [fc]
-I matched my hand with Kou-suke's outstretched one.[pcms]
+ボクはコースケの出した手に自分の手を打ち合わせた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6133|
 [fc]
-[ns]Kousuke[nse]
-"Then, I'm off. The sun is getting high, and it'll be tough[r]
-for Ren-chan, plus it's better for me to return sooner[r]
-rather than later..."[pcms]
+[ns]浩助[nse]
+「それじゃ、もう行くぞ。[r]
+　日が高くなったら、漣ちゃんが大変だろうし、[r]
+　オレも戻るなら早い方がいいしな……」[pcms]
 
 ;//時間経過確認　朝ですか？
 ;//地下で明けて　午前中として書いてます　早朝？
@@ -953,79 +959,80 @@ rather than later..."[pcms]
 *6134|
 [fc]
 [vo_mar s="maru0841"]
-[ns]Margarita[nse]
-"I wish you good luck, Kou-suke..."[pcms]
+[ns]マルガリータ[nse]
+「健闘を祈っているぞコースケ……」[pcms]
 
 *6135|
 [fc]
-The senior extended her hand.[pcms]
+先輩が手を差し出した。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6136|
 [fc]
-[ns]Kousuke[nse]
-"Senpai, is this the first time you've called me by my[r]
-name?"[pcms]
+[ns]浩助[nse]
+「先輩、初めて名前で呼んでくれたのかな？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6137|
 [fc]
 [vo_mar s="maru0842"]
-[ns]Margarita[nse]
-"It might be... Sorry about that. I should have called a[r]
-fine warrior like you by your name..."[pcms]
+[ns]マルガリータ[nse]
+「そうかも知れない……。[r]
+　すまなかったな。[r]
+　キミのような立派な戦士を名前で呼ばなくて……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6138|
 [fc]
-[ns]Kousuke[nse]
-"Warrior? That's a bit much..."[pcms]
+[ns]浩助[nse]
+「戦士だなんて……そんな大げさな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6139|
 [fc]
 [vo_mar s="maru0843"]
-[ns]Margarita[nse]
-"No, you are a fine warrior. I've seen many warriors just[r]
-like you. I'm sure you'll achieve your goal and return[r]
-safely."[pcms]
+[ns]マルガリータ[nse]
+「いや、キミは立派な戦士だ。[r]
+　ワタシはキミと同じような立派な戦士を数多く見てきたからな。[r]
+　キミなら、きっと目的を達して、無事に帰ってこれる」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6140|
 [fc]
-[ns]Kousuke[nse]
-"...Thanks a lot!!"[pcms]
+[ns]浩助[nse]
+「……あざ～すっ！！」[pcms]
 
 *6141|
 [fc]
-Saying that, Kou-suke shook hands with the senior. His eyes[r]
-were slightly teary.[pcms]
+そう言って、コースケは先輩の手をとって握手をした。[r]
+その目は、少しだけ涙ぐんでいた。[pcms]
 
 ;//@konya キャラ消し
 [chara_int_ layer=5][trans_c cross time=150]
 
 *6142|
 [fc]
-The senior also said this. Surely, Kou-suke will be able to[r]
-return. With Mizuki, Tadahiko, and Inori-san.[pcms]
+先輩もこう言ってくれているんだ。[r]
+きっと、コースケは戻ってこれる。[r]
+瑞樹や彦ちんや緒織さんと一緒に。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6143|
 [fc]
 [vo_ren s="ren0683"]
-[ns]Ren[nse]
-"Big brother... let me down..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……、降ろして……」[pcms]
 
 *6144|
 [fc]
-[ns]Wataru[nse]
-"Ah...!"[pcms]
+[ns]航[nse]
+「ああっ……」[pcms]
 
 ;//@konya キャラ消し
 [chara_int_ layer=5][trans_c cross time=150]
@@ -1034,161 +1041,164 @@ return. With Mizuki, Tadahiko, and Inori-san.[pcms]
 
 *6145|
 [fc]
-I lowered my arms that were holding Ren and gently set her[r]
-down.[pcms]
+ボクは漣を抱え上げた腕を下げ、ゆっくりと降ろす。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6146|
 [fc]
-[ns]Kousuke[nse]
-"Ren-chan..."[pcms]
+[ns]浩助[nse]
+「漣ちゃん……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6147|
 [fc]
 [vo_ren s="ren0684"]
-[ns]Ren[nse]
-"Today is goodbye... Kou-chan... Let's meet again..."[pcms]
+[ns]漣[nse]
+「今日はさよなら……コーちゃん……。[r]
+　また会おうね……」[pcms]
 
 *6148|
 [fc]
-Saying that, Ren hugged Kou-suke.[pcms]
+そう言って、漣はコースケを抱きしめた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6149|
 [fc]
-[ns]Kousuke[nse]
-"Even though you're not feeling well... Thank you, Ren-[r]
-chan..."[pcms]
+[ns]浩助[nse]
+「調子悪いのに……。[r]
+　ありがとう漣ちゃん……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6150|
 [fc]
 [vo_ren s="ren0685"]
-[ns]Ren[nse]
-"I'll cast a spell so that Kou-chan can come out too..."[pcms]
+[ns]漣[nse]
+「私も、コーちゃんが出てこれるようにおまじない……」[pcms]
 
 *6151|
 [fc]
-Saying that, Ren hugged Kou-suke tightly once more.[pcms]
+そう言って漣は、もういちどしっかりと[r]
+コースケを抱きしめる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6152|
 [fc]
-[ns]Kousuke[nse]
-"Ren-chan... With your spell, I'll definitely be able to[r]
-come out. ...Take care of Wataru for me... Ren-chan"[pcms]
+[ns]浩助[nse]
+「漣ちゃん……。[r]
+　おまじないしてもらったから絶対に出て来れるな。[r]
+　……ワタルを頼むよ……漣ちゃん」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6153|
 [fc]
 [vo_ren s="ren0686"]
-[ns]Ren[nse]
-"Yeah..."[pcms]
+[ns]漣[nse]
+「うんっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6154|
 [fc]
-[ns]Kousuke[nse]
-"Ren-chan... This guy is really a good person but he's super[r]
-dense, so you have to say what you want to say clearly or he[r]
-won't get it..."[pcms]
+[ns]浩助[nse]
+「漣ちゃん……こいつ、ホントにいいやつだけど、[r]
+　超絶にニブいから、言いたいことはハッキリ過ぎるくらい[r]
+　言わないとダメだから……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6155|
 [fc]
 [vo_ren s="ren0687"]
-[ns]Ren[nse]
-"Yeah, I know..."[pcms]
+[ns]漣[nse]
+「う、うん……わかってる……」[pcms]
 
 *6156|
 [fc]
-[ns]Wataru[nse]
-"Super dense?"[pcms]
+[ns]航[nse]
+「超絶、鈍いって……」[pcms]
 
 *6157|
 [fc]
-And Ren says she "knows"...[pcms]
+それに、漣は『わかってる』って……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6158|
 [fc]
 [vo_ren s="ren0688"]
-[ns]Ren[nse]
-"It's true..."[pcms]
+[ns]漣[nse]
+「本当だよ……」[pcms]
 ;//言い方のニュアンス　→　苦笑するような感じで
 
 *6159|
 [fc]
-And on top of that, a confirmation? Ren said that to me[r]
-after separating from Kou-suke.[pcms]
+しかも、ダメ押し？[r]
+コースケから離れて漣はボクにそう言った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6160|
 [fc]
-[ns]Kousuke[nse]
-"Then, Senpai. I'm sorry, but please take care of Wataru's[r]
-luggage."[pcms]
+[ns]浩助[nse]
+「それじゃ先輩。[r]
+　悪いけどワタルの荷物をお願いします」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6161|
 [fc]
 [vo_mar s="maru0844"]
-[ns]Margarita[nse]
-"Do you need any other tools?"[pcms]
+[ns]マルガリータ[nse]
+「他に道具はいいのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6162|
 [fc]
-[ns]Kousuke[nse]
-"It would be harder to find something that isn't in Shibuya.[r]
-There's a lot of stuff we don't need... Oh, I'll take this[r]
-light with me."[pcms]
+[ns]浩助[nse]
+「渋谷にはないモノなんて探す方が大変ですよ。[r]
+　いらないモノもいっぱいありますがね……。[r]
+　そうだ、このライトだけもらってきます」[pcms]
 
 *6163|
 [fc]
-Kousuke said this while showing the light he had been using[r]
-after distributing the luggage.[pcms]
+浩助は荷物を分配してから使っていた先輩のライトを[r]
+みせながら言った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6164|
 [fc]
-[ns]Kousuke[nse]
-"See ya, everyone... Let's meet again!"[pcms]
+[ns]浩助[nse]
+「じゃあな、みんな……。[r]
+　また、会おう！」[pcms]
 
 *6165|
 [fc]
-[ns]Wataru[nse]
-"See ya!"[pcms]
+[ns]航[nse]
+「またな！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6166|
 [fc]
 [vo_ren s="ren0689"]
-[ns]Ren[nse]
-"Kou-chan, see you later!"[pcms]
+[ns]漣[nse]
+「コーちゃん、またねっ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6167|
 [fc]
 [vo_mar s="maru0845"]
-[ns]Margarita[nse]
-"Let's meet again."[pcms]
+[ns]マルガリータ[nse]
+「また、会おう」[pcms]
 
 ;//@konya キャラ消し
 [chara_int_ layer=5][trans_c cross time=150]
@@ -1198,16 +1208,16 @@ after distributing the luggage.[pcms]
 
 *6168|
 [fc]
-With those words, Kousuke turned his back on us and headed[r]
-towards the dead city.[pcms]
+コースケはそれだけ言うとボクたちに背を向けて、[r]
+死んだ街へと向かっていった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6169|
 [fc]
 [vo_mar s="maru0846"]
-[ns]Margarita[nse]
-"We should go too..."[pcms]
+[ns]マルガリータ[nse]
+「ワタシたちも行くぞ……」[pcms]
 
 ;//@konya キャラ消し
 [chara_int_ layer=5][trans_c cross time=150]
@@ -1219,41 +1229,44 @@ towards the dead city.[pcms]
 
 *6170|
 [fc]
-At the senior's voice, we started walking away from Shibuya,[r]
-in the opposite direction of Kousuke.[pcms]
+先輩の声にボクたちはコースケとは逆に[r]
+渋谷に背を向けて歩き出した。[pcms]
 
 *6171|
 [fc]
-Ren and I looked back many times.[pcms]
+ボクと漣は何度も何度も振り返った。[pcms]
 
 *6172|
 [fc]
-It seemed Kousuke did the same; whenever he noticed us[r]
-looking back, he waved back. Ren and I waved in response.[pcms]
+コースケの方も同じらしくて、ボクたちが振り返っているのに[r]
+気がつくと、手をふって応えてくれた。[r]
+それにボクと漣は手をふって応える。[pcms]
 
 *6173|
 [fc]
-Kousuke was getting smaller and smaller, but he kept waving[r]
-until he was out of sight.[pcms]
+どんどんコースケは小さくなっていく、[r]
+それでもコースケは見えなくなるまで手を振り続けてくれた。[pcms]
 
 *6174|
 [fc]
-Eventually, Kousuke became as small as a grain of bean and[r]
-indistinguishable... And finally, he was out of sight.[pcms]
+そのコースケも豆粒のように小さくなって、[r]
+わからないくらいになって……。[r]
+ついには見えなくなった。[pcms]
 
 *6175|
 [fc]
-[ns]Wataru[nse]
-"Kousuke..."[pcms]
+[ns]航[nse]
+「コースケ……」[pcms]
 
 *6176|
 [fc]
-Tears welled up in my eyes.[pcms]
+目元に涙がにじんだ。[pcms]
 
 *6177|
 [fc]
-I will never forget. I had such a brave and kind best[r]
-friend... Definitely...[pcms]
+ボクは忘れないだろう。[r]
+あんなすごい勇気と優しさを持った親友がいたことを。[r]
+……絶対に……。[pcms]
 
 ;BGM即時停止
 [fadeoutbgm time=500]
@@ -1277,78 +1290,80 @@ friend... Definitely...[pcms]
 *6178|
 [fc]
 [vo_ren s="ren0690"]
-[ns]Ren[nse]
-"I'm sorry... big brother..."[pcms]
+[ns]漣[nse]
+「ごめんね……お兄ちゃん……」[pcms]
 
 *6179|
 [fc]
-[ns]Wataru[nse]
-"Don't apologize. It's natural, right? Besides, thanks to[r]
-Ren's cooling sheet, I'm feeling cool too..."[pcms]
+[ns]航[nse]
+「あやまるなよ。[r]
+　あたりまえだろ？[r]
+　それに漣の冷却シートのお陰で、ボクも涼しいんだ……」[pcms]
 
 *6180|
 [fc]
-Ren was once again on my back. As the day grew hotter, just[r]
-as Kousuke had warned, Ren seemed to be having a hard time.[pcms]
+漣はまた、ボクの背中の上にいた。[r]
+日が高くなって暑くなると、コースケの忠告どおり[r]
+漣はかなり辛そうだった。[pcms]
 
 *6181|
 [fc]
-Despite her sensitive skin and lack of sunscreen, she[r]
-covered herself with a cooling sheet and a blanket to block[r]
-out the summer sun.[pcms]
+漣は肌も弱いのに日焼け止めもないから。[r]
+身体を冷やすための冷却シートの上からタオルケットをかけて、[r]
+夏の日差しを遮った。[pcms]
 
 *6182|
 [fc]
-In all that chaos, I really thought it was good that we[r]
-brought these things. Come to think of it, Ren has been[r]
-running away all this time but still firmly holds her[r]
-precious violin.[pcms]
+あの混乱の中でも、この辺を持って来て良かったと本当に思った。[r]
+そういえば、漣もずっと逃げ続けてきたのに[r]
+大事なバイオリンだけは未だにしっかりと握っている。[pcms]
 
 *6183|
 [fc]
-Now it's resting on my shoulder.[pcms]
+今は、ボクの肩にかかっている。[pcms]
 
 *6184|
 [fc]
-Even in a life-threatening situation, she entrusts me with[r]
-something so important...[pcms]
+命懸けの状況でも持ち出すほど大切な物を、[r]
+ボクには預けてくれるんだな……。[pcms]
 
 *6185|
 [fc]
-I'm starting to feel tired too, but now is not the time to[r]
-show fatigue.[pcms]
+ボクもそろそろ疲れてきたけど、[r]
+今はまだ疲れを見せる訳には行かない。[pcms]
 
 *6186|
 [fc]
-I can rest as much as I want later. So for now...[pcms]
+あとでいくらでも休める。[r]
+だから、今は……。[pcms]
 
 *6187|
 [fc]
-The voices of crazed people still reach us on the wind from[r]
-around the river.[pcms]
+相変わらず河の周りからはおかしくなった人たちの声が[r]
+風に乗って聞こえてくる。[pcms]
 
 ;//まるでゾンビ映画のように、死んだ街の中で動いている人間は
 ;//彼らだけのようだ。
 
 *6188|
 [fc]
-It's like in a movie, where the only humans moving in the[r]
-dead city are them.[pcms]
+まるで映画のように、[r]
+死んだ街の中で動いている人間は彼らだけのようだ。[pcms]
 
 *6189|
 [fc]
 [vo_ren s="ren0691"]
-[ns]Ren[nse]
-"...everyone's gone now..."[pcms]
+[ns]漣[nse]
+「……みんないなくなっちゃたね……」[pcms]
 
 *6190|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *6191|
 [fc]
-At Ren's words, I looked around the city again.[pcms]
+漣の言葉にボクはまた街の方を見回す。[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1356,27 +1371,29 @@ At Ren's words, I looked around the city again.[pcms]
 
 *6192|
 [fc]
-[ns]Wataru[nse]
-"...Yuu..."[pcms]
+[ns]航[nse]
+「……ゆっ……」[pcms]
 
 *6193|
 [fc]
-I caught sight of a figure resembling Yuuho among those[r]
-crazed people and almost called out her name instinctively.[pcms]
+ボクはそのおかしくなった人たちの中に悠帆に[r]
+よく似た人影を見つけて、思わず名前を呼びそうになった。[pcms]
 
 *6194|
 [fc]
-...I must not call out! Yuuho is no longer here.[pcms]
+……呼んじゃダメだ！[r]
+悠帆はもういない。[pcms]
 
 *6195|
 [fc]
-The kind, always cheerful, cute, and gluttonous Yuuho... is[r]
-no longer here...[pcms]
+優しくて、いつも元気で、かわいくて、[r]
+食いしん坊だった悠帆は……[r]
+もう、いない……。[pcms]
 
 *6196|
 [fc]
-Even if that is Yuuho, it's something else wearing Yuuho's[r]
-appearance. It's not Yuuho.[pcms]
+あれが悠帆だとしても、悠帆の姿をした違うものだ。[r]
+悠帆じゃない。[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1384,9 +1401,9 @@ appearance. It's not Yuuho.[pcms]
 
 *6197|
 [fc]
-[ns]Wataru[nse]
-"No... they're still here. Senpai is here, Ren's mother is[r]
-here... ...and so am I..."[pcms]
+[ns]航[nse]
+「ううん……まだいるじゃないか。先輩も、漣の[ruby text="バ イ オ リ ン"][ch text="お母さん"]も……[r]
+　……それに、ボクだって……」[pcms]
 
 ;mm ルビが読みにくいから2行にしておく
 
@@ -1398,64 +1415,67 @@ here... ...and so am I..."[pcms]
 *6198|
 [fc]
 [vo_ren s="ren0692"]
-[ns]Ren[nse]
-"...Yeah. I'm really happy that you're safe, big brother..."[pcms]
+[ns]漣[nse]
+「……うん。[r]
+　お兄ちゃんが無事で、私は本当にうれしいよ……」[pcms]
 
 *6199|
 [fc]
-[ns]Wataru[nse]
-"Besides... Kousuke said it, didn't he? Let's keep believing[r]
-until we understand."[pcms]
+[ns]航[nse]
+「それにさ……コースケが言ったじゃないか。[r]
+　ちゃんとわかるまで信じていよう」[pcms]
 
 *6200|
 [fc]
-[ns]Wataru[nse]
-"Kousuke will definitely come out safely. And then Tadahiko,[r]
-Inori-san... Maybe... even dad..."[pcms]
+[ns]航[nse]
+「コースケもきっと無事にでてくる。[r]
+　それから、彦ちんに緒織さん……。[r]
+　もしかして……父さんだって……」[pcms]
 
 *6201|
 [fc]
-I swallowed the words "Yuuho is no longer here..." and[r]
-smiled.[pcms]
+『悠帆は……もう、いないけど……』という言葉を[r]
+飲み込みながらボクは笑う。[pcms]
 
 *6202|
 [fc]
 [vo_ren s="ren0693"]
-[ns]Ren[nse]
-"Yeah... and you have me too, big brother... Even though[r]
-I've only been causing trouble..."[pcms]
+[ns]漣[nse]
+「うん……それにお兄ちゃんには私がいるよ……。[r]
+　こんな風に迷惑かけてばかリだけど……」[pcms]
 
 *6203|
 [fc]
-[ns]Wataru[nse]
-"That's right..."[pcms]
+[ns]航[nse]
+「そうだな……」[pcms]
 
 *6204|
 [fc]
-I might have thought it was heavy and tiring for a moment,[r]
-but I don't want to lose this weight, so I keep carrying it[r]
-like this...[pcms]
+重くて疲れてきたって、少しだけ思ってしまったけど、[r]
+ボクはこの重さを失いたくないから、[r]
+ずっとこうやって背負っているんだ……。[pcms]
 
 *6205|
 [fc]
-So...[pcms]
+だから……。[pcms]
 
 *6206|
 [fc]
-[ns]Wataru[nse]
-"Don't worry about it. I'm carrying Ren because I want[r]
-to..."[pcms]
+[ns]航[nse]
+「気にするなって。[r]
+　ボクは好きで漣を背負ってるんだから……」[pcms]
 
 *6207|
 [fc]
 [vo_ren s="ren0694"]
-[ns]Ren[nse]
-"Big brother..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 *6208|
 [fc]
-Ren hugged me tightly again. It was hot in this blazing sun,[r]
-but it was a warmth I absolutely didn't want to lose.[pcms]
+漣はまた、ボクにひしっと抱きついた。[r]
+この炎天下だとそれは暑苦しかったけど、[r]
+絶対に失いたくないぬくもりだった。[pcms]
 
 ;[wait time=2000]
 
@@ -1470,41 +1490,42 @@ but it was a warmth I absolutely didn't want to lose.[pcms]
 
 *6209|
 [fc]
-Everything has changed. Sometimes I dreamt of a "somewhere[r]
-that isn't here"... Could that be this world now?[pcms]
+全てが変わってしまった。[r]
+時々、ボクが夢想していた『此処ではない何処』[r]
+……それは今のこの世界だったんだろうか？[pcms]
 
 *6210|
 [fc]
-We've become like this, what will happen to us from now on?[r]
-The town where we were born is gone.[pcms]
+こんなになってしまって、ボクたちはこれからどうなるんだろう。[r]
+生まれた街はなくなってしまった。[pcms]
 
 *6211|
 [fc]
-That disease that drives people mad... It spreads easily,[r]
-and we don't know how far the damage will extend. Will the[r]
-new virus settle down like it did in Tohoku?[pcms]
+あの人間をおかしくする病気だって……。[r]
+簡単に伝染するし、どこまで被害は広がっていくかわからない。[r]
+新しいウィルスは東北の時のように沈静化するんだろうか？[pcms]
 
 *6212|
 [fc]
-The future that awaits us is dark and uncertain. I remember[r]
-the unchanging, boring days and almost start to cry. I feel[r]
-like I might just stop walking.[pcms]
+この先待ち受けているのは暗い先の見えない未来だ。[r]
+ボクは変わらない退屈な日々を思い出して、涙を流しそうになる。[r]
+足を止めてしまいそうになる。[pcms]
 
 *6213|
 [fc]
 [vo_ren s="ren0695"]
-[ns]Ren[nse]
-"Big brother...?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……？」[pcms]
 
 *6214|
 [fc]
-[ns]Wataru[nse]
-"Ah, it's nothing..."[pcms]
+[ns]航[nse]
+「ああ、なんでもないよ……」[pcms]
 
 *6215|
 [fc]
-But still, I have to keep moving forward. Through this world[r]
-of despair...[pcms]
+それでも、ボクは進んで行かなくちゃなくちゃいけない。[r]
+この絶望的な世界の中を……。[pcms]
 
 
 ;mm CGで終わらすかどうかあとで再考　切り替え多くてテンポ悪い
@@ -1512,7 +1533,7 @@ of despair...[pcms]
 
 *6216|
 [fc]
-...Because I have Ren.[pcms]
+……だって、ボクには[ruby text="いもうと"][ch text="漣"]がいる。[pcms]
 
 
 ;//ＥＮＤ
@@ -1543,7 +1564,7 @@ of despair...[pcms]
 
 
 
-(returntitle)[pcms]
+[returntitle][s]
 
 
 

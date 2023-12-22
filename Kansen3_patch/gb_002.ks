@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//・登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：
@@ -15,7 +15,7 @@
 ;//※このブロックの名称が間違っていました。
 ;//　正しくは『さよなら漣』
 ;//　になります。
-;//GB_001003まで、全て『さよなら漣』です。
+;//GB_001～003まで、全て『さよなら漣』です。
 ;//---------------------------------------------------------------
 
 ;//bgm12(starless)継続中
@@ -30,42 +30,41 @@
 
 *4884|
 [fc]
-[ns]Wataru[nse]
-"...I'll do it..."[pcms]
+[ns]航[nse]
+「……ボクが……やる、よ……」[pcms]
 
 *4885|
 [fc]
-He gritted his teeth and stood up.[pcms]
+歯を食いしばって立ち上がった。[pcms]
 
 *4886|
 [fc]
-This is my job...[pcms]
+これは、ボクの仕事だ……。[pcms]
 
 *4887|
 [fc]
-I can't bear the thought of Ren being killed by someone[r]
-else... I won't let anyone else take the life of my precious[r]
-sister...![pcms]
+ボク以外に、他の誰かに漣を殺されるなんて耐えられない……。[r]
+ボク以外の誰かに、大事な妹を殺させはしない……！[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4888|
 [fc]
 [vo_ren s="ren_GB0026"]
-[ns]Ren[nse]
-"Yuuho-chan... I'm sorry..."[pcms]
+[ns]漣[nse]
+「ゆ、悠帆ちゃ……、ごめん、ね……ぇ……」[pcms]
 
 *4889|
 [fc]
-With a peaceful tone, Ren smiled at Yuuho.[pcms]
+安らいだ声音で、漣が悠帆に微笑んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4890|
 [fc]
 [vo_yuh s="yuho_GB0016"]
-[ns]Yuuho[nse]
-"Uu...uuu...nn, uunn... Not like this..."[pcms]
+[ns]悠帆[nse]
+「う……うぅぅ……ん、うぅん……。そんな……の…………」[pcms]
 ;//＠「ううん、ううん」と言おうとして、泣きじゃくっている。
 ;//＠セリフ最後、泣き出してしまう。
 
@@ -74,78 +73,77 @@ With a peaceful tone, Ren smiled at Yuuho.[pcms]
 
 *4891|
 [fc]
-Yuuho tried to respond, but her words were lost in tears.[pcms]
+応えようとする悠帆も、涙で言葉にならない。[pcms]
 
 *4892|
 [fc]
-Ren then looked around at everyone's faces in turn, finally[r]
-resting her gaze on me.[pcms]
+漣はそれから全員の顔を順繰りに見渡し、[r]
+最後に、ボクに視線をとどめた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4893|
 [fc]
 [vo_ren s="ren_GB0027"]
-[ns]Ren[nse]
-"...Big brother..."[pcms]
+[ns]漣[nse]
+「……おにい、ちゃ…ん……」[pcms]
 
 *4894|
 [fc]
-A fleeting, somewhat lonely smile. Yet it seemed as if she[r]
-desperately wanted to be spoiled by me, her usual[r]
-expression...[pcms]
+はかなげな、どこか寂しそうな笑み。[r]
+そのくせボクに甘えたくて仕方ないとでも言いたげな、[r]
+いつもの表情……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4895|
 [fc]
 [vo_ren s="ren_GB0028"]
-[ns]Ren[nse]
-"Goodbye... and... thank you..."[pcms]
+[ns]漣[nse]
+「ばいば、い……、それから…………あり、が……と……」[pcms]
 
 *4896|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣…………」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *4897|
 [fc]
-Trying to disengage the safety, I failed multiple times. My[r]
-fingers were trembling amusingly.[pcms]
+安全装置を外そうとして、何度も失敗する。[r]
+指が面白いくらいに震えている。[pcms]
 
 *4898|
 [fc]
-I can't do this, I'll miss the shot. It has to be done in an[r]
-instant... so Ren doesn't suffer... Just wait a little[r]
-longer, Ren. I'll be the one to kill you...[pcms]
+だめだ、こんなことじゃ撃ち損じてしまう。[r]
+一瞬で済ませなくちゃ……漣を苦しませないように……。[r]
+もう少しだけ待ってて、漣。ボクが殺してあげるから……。[pcms]
 
 *4899|
 [fc]
-[ns]Wataru[nse]
-"...It's not goodbye, Ren..."[pcms]
+[ns]航[nse]
+「……バイバイなんかじゃないよ、漣……」[pcms]
 
 *4900|
 [fc]
-My finger hooked on the trigger.[pcms]
+ひきがねに指をかける。[pcms]
 
 *4901|
 [fc]
-Yuuho, Mizuki, and Maruko-senpai looked away.[pcms]
+悠帆や瑞樹、マル子先輩が目を伏せた。[pcms]
 
 *4902|
 [fc]
-I took a deep breath and then aimed the gun at Ren's[r]
-forehead, pressing it against her to make sure I wouldn't[r]
-miss. It was the "point-blank range" that Ren herself had[r]
-taught me.[pcms]
+ボクはゆっくりと深呼吸してから[r]
+絶対に外さないように漣の額に銃を押し当てて構える。[r]
+漣本人が教えてくれた「ゼロ距離」だ。[pcms]
 
 *4903|
 [fc]
-[ns]Wataru[nse]
-"...Let's meet again, someday, somewhere..."[pcms]
+[ns]航[nse]
+「……また会おう、いつか、どこかで………………」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 ;mm追加

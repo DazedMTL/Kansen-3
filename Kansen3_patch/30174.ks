@@ -23,13 +23,12 @@
 
 *1370|
 [fc]
-After Ren jumped, I looked down as if clinging to a[r]
-lingering regret.[pcms]
+漣が飛んだあとで、ボクはまるで未練のように下を覗き込んだ。[pcms]
 
 *1371|
 [fc]
-From this angle, I couldn't see Yuuho anymore... but I could[r]
-see that the number of infected had increased since earlier.[pcms]
+もうこの角度からじゃ悠帆の姿を確認することは[r]
+できなかったけれど…さっきよりも感染者が増えてるのが見えた。[pcms]
 
 ;//BG：神南学園・全景
 [bg storage="BG07a"][trans_c cross time=500]
@@ -39,66 +38,64 @@ see that the number of infected had increased since earlier.[pcms]
 
 *1372|
 [fc]
-[ns]Kousuke[nse]
-"Hey, Wataru"[pcms]
+[ns]浩助[nse]
+「おい、ワタル｣[pcms]
 
 *1373|
 [fc]
-[ns]Wataru[nse]
-"Ah, sorry. I'm jumping now."[pcms]
+[ns]航[nse]
+「あっ、ごめん。今飛ぶよ」[pcms]
 
 *1374|
 [fc]
-Urged by Kousuke, who had already jumped ahead of me, I[r]
-leaped onto the biotope garden on the roof of the branch[r]
-school building, as if shaking off my thoughts of Yuuho.[pcms]
+いつの間にかボクよりも先に飛び越えていたコースケに[r]
+促されて、ボクは悠帆への思いも振り切るように[r]
+分校舎の屋上にあるビオトープ庭園に飛んだ。[pcms]
 
 *1375|
 [fc]
-The senior must have already entered inside, as the door[r]
-leading in was open, but I couldn't see her figure.[pcms]
+すでに先輩は屋内に入っているのか、中へ続く扉が[r]
+開いている代わりに先輩の姿は見えなかった。[pcms]
 
 *1376|
 [fc]
-[ns]Wataru[nse]
-"Is the senior already inside?"[pcms]
+[ns]航[nse]
+「先輩は、もう中か？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1377|
 [fc]
-[ns]Kousuke[nse]
-"Yeah. Seriously, she doesn't pay any attention to us at[r]
-all, that woman."[pcms]
+[ns]浩助[nse]
+「あぁ。まったく、こっちにゃ全然お構いなしだぜ、あの女」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1378|
 [fc]
 [vo_ren s="ren0272"]
-[ns]Ren[nse]
-"But she helped me when I was jumping over just now, right?[r]
-She also helped me when I was harassed by a gang before, I[r]
-think she's a kind senior."[pcms]
+[ns]漣[nse]
+「でも今、私が飛び移るときに手伝ってくれたよ？[r]
+　前に不良グループに絡まれた時にも助けてくれたし、[r]
+　私は優しい先輩だと思う」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1379|
 [fc]
-[ns]Kousuke[nse]
-"Well, that's because Ren-chan is..."[pcms]
+[ns]浩助[nse]
+「そりゃあ、漣ちゃんは……」[pcms]
 
 *1380|
 [fc]
-Ren spoke in a strong tone as if to admonish Kousuke, who[r]
-immediately expressed his dissatisfaction with my question,[r]
-and he scratched his head awkwardly while mumbling his[r]
-words.[pcms]
+ボクの問いにすぐさま不満を漏らしたコースケに対し、[r]
+漣が嗜めるように強い口調で言うと、[r]
+やりにくそうに言葉を濁しながら頭をかいた。[pcms]
 
 *1381|
 [fc]
-[ns]Wataru[nse]
-"Well, it's fine. Anyway, let's follow the senior."[pcms]
+[ns]航[nse]
+「まぁいいよ。とにかく、先輩を追おう」[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -107,110 +104,109 @@ words.[pcms]
 
 *1382|
 [fc]
-[ns]Kousuke[nse]
-"Even if you say 'follow', we haven't been told where we're[r]
-going, us."[pcms]
+[ns]浩助[nse]
+「追うって言ったって、行く先も[r]
+　知らされてないんだぜ？　オレたち」[pcms]
 
 *1383|
 [fc]
-Following the senior who had gone in ahead of us, I entered[r]
-inside and felt as if I was enveloped in darkness due to the[r]
-contrast between the brightness outside and the unlit stairs[r]
-of the branch school building.[pcms]
+先に入っていった先輩のあとを追って中に入ると、[r]
+外の明るさと光がついていない分校舎の階段の[r]
+コントラストに、闇に包まれたような感覚を覚えた。[pcms]
 
 *1384|
 [fc]
-Only Kousuke's voice from behind reminded me that this was[r]
-reality.[pcms]
+後ろから聞こえてくるコースケの声だけが、[r]
+ここが現実だとボクに教えてくれていた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1385|
 [fc]
 [vo_mar s="maru0191"]
-[ns]Margarita[nse]
-"You'll understand if you follow."[pcms]
+[ns]マルガリータ[nse]
+「ついてくればわかる」[pcms]
 
 *1386|
 [fc]
-Perhaps hearing Kousuke's voice, the senior's voice seemed[r]
-to come from the direction of the stairs.[pcms]
+コースケの声が聞こえたのか、たぶん、[r]
+階段のほうから先輩の声が聞こえた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1387|
 [fc]
-[ns]Kousuke[nse]
-"Follow and you'll understand... I get that, but I want to[r]
-know our destination beforehand."[pcms]
+[ns]浩助[nse]
+「ついてくればわかるって……そりゃあわかるだろうけど、[r]
+　その前に行き先を知りたいわけでぇ～」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1388|
 [fc]
 [vo_ren s="ren0273"]
-[ns]Ren[nse]
-"But Kousuke-chan, where are we going now?"[pcms]
+[ns]漣[nse]
+「でもコーちゃん、今からどこに行くの？」[pcms]
 
 *1389|
 [fc]
-[ns]Wataru[nse]
-"That's right. Now that we've come this far, we have no[r]
-choice but to follow the senior, right?"[pcms]
+[ns]航[nse]
+「そうだよ。ここまできた以上、先輩についていくしか[r]
+　ないだろう？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1390|
 [fc]
-[ns]Kousuke[nse]
-"Wherever we're going... well, we can't start anything[r]
-without going down these stairs anyway."[pcms]
+[ns]浩助[nse]
+「どこに行くってまぁ……どこに行くにしても、[r]
+　階段降りなきゃ始まらないけどさぁ」[pcms]
 
 *1391|
 [fc]
-[ns]Wataru[nse]
-"Come on, stop dawdling and let's go down. We can't deal[r]
-with them if they come from the shadows around here."[pcms]
+[ns]航[nse]
+「ほら、グズグズしないで、ともかく降りようぜ。[r]
+　ここじゃその辺の影からヤツラが来たって対処の[r]
+　しようがない」[pcms]
 
 *1392|
 [fc]
-I firmly told Kousuke, who was grumbling, and quickly[r]
-followed the senior down the stairs.[pcms]
+ブツブツ言うコースケにきっぱりと言い捨てて、[r]
+ボクはさっさと先輩を追って階段を降りた。[pcms]
 
 *1393|
 [fc]
-It's not like I'm thinking everything will be fine just by[r]
-following the senior, but it's also true that following her[r]
-is the only option left.[pcms]
+本当は先輩の後についていけばなんとかなるなんて、[r]
+そんなお気楽な事を考えてるわけじゃないけど、[r]
+先輩の後を追うしか術が残ってないのもまた事実だ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1394|
 [fc]
-[ns]Kousuke[nse]
-"Ah, seriously, your luggage is huge!"[pcms]
+[ns]浩助[nse]
+「あ～、もう、おまえ、荷物デカッ！」[pcms]
 
 *1395|
 [fc]
-[ns]Wataru[nse]
-"I've been carrying camping gear on my back all this time.[r]
-But don't start complaining about it now. I've been carrying[r]
-it since morning."[pcms]
+[ns]航[nse]
+「キャンプ用の荷物、ずっと背負ったままだしなぁ。[r]
+　だけど今さらなこと言うなよ。朝からずっと背負ってるんだぜ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1396|
 [fc]
-[ns]Kousuke[nse]
-"I know, but it's really in the way when going down these[r]
-narrow stairs."[pcms]
+[ns]浩助[nse]
+「そうだけど、この狭い階段降りるのに、[r]
+　まぢ、邪魔なんだよ」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1397|
 [fc]
-Ignoring Kousuke's grumbling complaints, I went down the[r]
-stairs.[pcms]
+ブツブツと文句を言うコースケの言葉を右から左に[r]
+流して、ボクは階段を降りた。[pcms]
 
 ;//BG：分校舎廊下
 [bg storage="BG017"][trans_c cross time=500]
@@ -218,120 +214,119 @@ stairs.[pcms]
 
 *1398|
 [fc]
-Compared to the windowless staircase, stepping into the[r]
-corridor of the branch school with windows allowed me to[r]
-finally catch my breath. Thankfully there were no infected[r]
-here yet...[pcms]
+窓のない階段と比べて、窓がある分校舎の廊下に[r]
+出れて、ボクはやっと息をついた。[r]
+流石にここにはまだ感染者が入ってきて……。[pcms]
 
 *1399|
 [fc]
 [vo_mob s="joshigakuB0001"]
-[ns]Female Student B[nse]
-"Aaahhh! Y-yes... It's reaching deep inside, it's reaching!"[pcms]
+[ns]女学生Ｂ[nse]
+「あぁああんっ。い、いぃい……[r]
+　奥、奥までおちんちんが届いてる、[r]
+　届いてるぅうっ！！」[pcms]
 
 *1400|
 [fc]
-Just when I thought there were no infected inside, a girl's[r]
-moans came from a room further in.[pcms]
+入ってきてないみたいだと思ったその瞬間、[r]
+女の子の嬌声が奥の部屋から聞こえてくる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1401|
 [fc]
-[ns]Kousuke[nse]
-"They've even gotten in here?"[pcms]
+[ns]浩助[nse]
+「こんなトコにも入り込んでるのかよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1402|
 [fc]
 [vo_mar s="maru0192"]
-[ns]Margarita[nse]
-"Quiet, do you want to be found?"[pcms]
+[ns]マルガリータ[nse]
+「黙れ、見つかりたいのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1403|
 [fc]
-[ns]Kousuke[nse]
-"What! Why do you always have to act like the leader all the[r]
-time?!"[pcms]
+[ns]浩助[nse]
+「なっ！　だからなんだってアンタが[r]
+　いつもいつもいつもリーダー面するんだよっ！！」[pcms]
 
 *1404|
 [fc]
-[ns]Wataru[nse]
-"You idiot Kousuke!"[pcms]
+[ns]航[nse]
+「ば、馬鹿コースケっ！！」[pcms]
 
 *1405|
 [fc]
-It was too late to cover Kousuke's mouth in panic. A male[r]
-student appeared from the room where we heard the female[r]
-student's voice.[pcms]
+慌ててコースケの口を押さえても後の祭りだった。[r]
+女子学生の声が聞こえてきた部屋から、ぬっと[r]
+男子学生の姿が現れた。[pcms]
 
 *1406|
 [fc]
-But seeing him walking with his pants and boxers awkwardly[r]
-caught around his legs made it clear he wasn't in his right[r]
-mind.[pcms]
+でも、ズボンとトランクスごと中途半端に足に[r]
+引っかけて歩いてる姿を見たら、[r]
+完璧にまともじゃないことがわかる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1407|
 [fc]
 [vo_mar s="maru0193"]
-[ns]Margarita[nse]
-"Downstairs."[pcms]
+[ns]マルガリータ[nse]
+「一階だ」[pcms]
 
 *1408|
 [fc]
-Spitting out her words shortly, I followed the senior[r]
-downstairs while supporting Ren as if fleeing for our lives.[pcms]
+短く吐き捨てるように言う先輩の後を追って、[r]
+ボクは漣を支えながら脱兎の如く階段を駆け下りた。[pcms]
 
 *1409|
 [fc]
-Kousuke seemed to understand that his voice had given us[r]
-away and obediently took up the rear guard position.[pcms]
+コースケは自分の声がバレた結果だとわかってるらしく[r]
+素直に一番しんがりを勤めてる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1410|
 [fc]
 [vo_mar s="maru0194"]
-[ns]Margarita[nse]
-"This way."[pcms]
+[ns]マルガリータ[nse]
+「こっちだ」[pcms]
 
 *1411|
 [fc]
-Upon reaching the first floor, she quickly glanced at the[r]
-door leading outside and the corridor before heading towards[r]
-the teachers' preparation room.[pcms]
+一階につくなり、さっと外へと続くドアと廊下に目を[r]
+向けると、教員準備室のほうへと向かっていった。[pcms]
 
 *1412|
 [fc]
-[ns]Wataru[nse]
-"Senior, that way only leads to the teachers' preparation[r]
-room. And it's always locked."[pcms]
+[ns]航[nse]
+「先輩、そっち、教員準備室しかないですよ。[r]
+　それに鍵がいっつもかかってるし」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1413|
 [fc]
 [vo_mar s="maru0195"]
-[ns]Margarita[nse]
-"It's fine. I borrowed it from the staff room before meeting[r]
-you."[pcms]
+[ns]マルガリータ[nse]
+「大丈夫だ。キミに会う前に職員室から借りてきた」[pcms]
 
 *1414|
 [fc]
-Given this situation, it's not like a teacher could[r]
-leisurely refuse her request. So instead of "borrowed,"[r]
-shouldn't it be called "stolen"?[pcms]
+この状況で先生に呑気に断れるわけがないんだから、[r]
+それは『借りてきた』ではなく、『盗ってきた』って[r]
+言うんじゃないんだろうか？[pcms]
 
 *1415|
 [fc]
-Without any time to ponder such things, the senior grabbed[r]
-onto the sliding door as if leaping at it and took out a key[r]
-from her pocket to pry it open.[pcms]
+そんな事を考えてるヒマもなく、先輩はスライド式の[r]
+扉に飛びつくように掴まると、ポケットから鍵を取り出し[r]
+それをこじ開けるようにしてあけた。[pcms]
 
 ;//BG：準備室（カットイン。シーナリーの準備室）
 ;//@konya 該当CGあるか？
@@ -342,171 +337,169 @@ from her pocket to pry it open.[pcms]
 
 *1416|
 [fc]
-Following the senior into the preparation room while pulling[r]
-Ren along, it was surprisingly tidy.[pcms]
+先輩に続いて漣の腕を引いて飛び込んだ準備室は、[r]
+酷くこざっぱりしていた。[pcms]
 
 *1417|
 [fc]
-I had imagined it would be more cluttered.[pcms]
+もっとゴチャゴチャしてるイメージだったけれど。[pcms]
 
 *1418|
 [fc]
-But then again, considering my year and a bit of school life[r]
-so far and my student life before entering school, I've[r]
-never been in a preparation room before, so maybe this is[r]
-normal.[pcms]
+でも考えてみれば、今までの１年ちょいの学園生活と[r]
+入学前の学生生活を考えても準備室なんて入ったことが[r]
+ないんだから、意外とこんな物なのかもしれない。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1419|
 [fc]
-[ns]Kousuke[nse]
-"They're following us."[pcms]
+[ns]浩助[nse]
+「追ってきてるぞ」[pcms]
 
 *1420|
 [fc]
-Kousuke closed the door with a bang, and locked the flimsy[r]
-excuse of an inner lock.[pcms]
+バタンと最後にコースケが扉を閉めて、申し訳程度の[r]
+ような内鍵を閉めた。[pcms]
 
 *1421|
 [fc]
-But it's just a very ordinary sliding door that looks frail,[r]
-and I feel like even I could kick it down.[pcms]
+でも見るからに貧弱なごく普通の[r]
+スライドドアだし、ボクでも一蹴りで壊せそうだ。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1421a|
 [fc]
-[ns]Wataru[nse]
-"Senior, what are we going to do? ...Huh?"[pcms]
+[ns]航[nse]
+「先輩、どうするんですか？　……って」[pcms]
 
 *1422|
 [fc]
-The senior strode silently towards a mysterious hatch that[r]
-for some reason was in this place, and began to open its[r]
-lid.[pcms]
+スタスタと無言のまま先輩はなぜこんな所にあるかも[r]
+わからない謎のハッチに近づくと、その蓋を開け始めた。[pcms]
 
 *1423|
 [fc]
-[ns]Wataru[nse]
-"Wh-what is that?"[pcms]
+[ns]航[nse]
+「な、なんなんですか？　それ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1424|
 [fc]
 [vo_mar s="maru0196"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 
 *1425|
 [fc]
-As if she didn't hear my question, the senior opened the[r]
-hatch by herself, sliding the lid open.[pcms]
+ボクの問いが聞こえなかったのか、先輩は一人で[r]
+ハッチを開くと、その蓋をスライドさせて開けた。[pcms]
 
 *1426|
 [fc]
-Could it be... was the senior's goal from the beginning[r]
-here? But why does she know about such a thing here? I don't[r]
-understand.[pcms]
+もしかして……先輩の目的は、最初からここだった？[r]
+って、なんでここに、こんなものがあるって先輩が[r]
+知ってるんだ？　わからない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1427|
 [fc]
 [vo_mar s="maru0197"]
-[ns]Margarita[nse]
-"Aren't you coming?"[pcms]
+[ns]マルガリータ[nse]
+「ついてこないのか？」[pcms]
 
 *1428|
 [fc]
-After taking out a flashlight from her backpack she had[r]
-slung off her shoulder, the senior looked back at our faces,[r]
-which had been staring blankly at what she was doing.[pcms]
+肩から下ろしたリュックから懐中電灯を取り出した後で、[r]
+思わず先輩がする事をポカーンと見ていたボクらの顔を[r]
+見なおした。[pcms]
 
 *1429|
 [fc]
-[ns]Wataru[nse]
-"Aren't you coming...?"[pcms]
+[ns]航[nse]
+「ついてこないのかって……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1430|
 [fc]
 [vo_mar s="maru0198"]
-[ns]Margarita[nse]
-"Did you think I came here without any plan, just to run[r]
-away in panic? It's an escape route. We can get outside from[r]
-here."[pcms]
+[ns]マルガリータ[nse]
+「何の当てもなく、ただ逃げ惑うためだけにココへ[r]
+　来ていたとでも思ってたのか？[r]
+　逃げ道だ。ここから外に出られる」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1431|
 [fc]
-[ns]Kousuke[nse]
-"An escape route~~? Why is there such a thing here? And how[r]
-come you know about such a place!?"[pcms]
+[ns]浩助[nse]
+「逃げ道～～？　なんでこんな所にそんなモンが[r]
+　あるんだよ？　ってか、なんでアンタがそんな[r]
+　場所のこと知ってるんだよ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1432|
 [fc]
 [vo_mar s="maru0199"]
-[ns]Margarita[nse]
-"It's basic to hammer into your head escape routes for when[r]
-things get tough, isn't it?"[pcms]
+[ns]マルガリータ[nse]
+「イザという時の逃走経路は頭に叩き込んでおくのが[r]
+　基本だろう？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1433|
 [fc]
-[ns]Kousuke[nse]
-"That's not basic at all..."[pcms]
+[ns]浩助[nse]
+「そんなん、全然基本じゃねぇし……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1434|
 [fc]
 [vo_mar s="maru0200"]
-[ns]Margarita[nse]
-"Then from now on, make sure it's the first thing you hammer[r]
-into your head."[pcms]
+[ns]マルガリータ[nse]
+「ならばこれからは真っ先に頭に叩き込むように[r]
+　するんだな」[pcms]
 
 *1435|
 [fc]
-Responding coldly to Kousuke's grumbling, the senior quickly[r]
-entered the opened hole.[pcms]
+コースケの悪態に冷たく答えると、先輩はさっさと[r]
+開いた穴の中に入っていった。[pcms]
 
 ;//se105・金属音（カツン、カツンと金属製のはしごを降りてる感じのものがあれば。）
 ;//[se buf=0 storage="se105"]
 
 *1436|
 [fc]
-It seems there is a ladder inside, as I could hear the[r]
-echoey clunking sounds.[pcms]
+どうやら中にははしごがあるらしく、妙にエコーがかかっている[r]
+カツンカツンと音が聞こえてきた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1437|
 [fc]
 [vo_mar s="maru0201"]
-[ns]Margarita[nse]
-"So, aren't you coming?"[pcms]
+[ns]マルガリータ[nse]
+「それで、ついてこないのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1438|
 [fc]
-[ns]Kousuke[nse]
-"How can we be sure we can escape through some place that[r]
-leads who knows where... The whole school is swarming with[r]
-them, you know?"[pcms]
+[ns]浩助[nse]
+「そんなドコに繋がってるかもわからないとこ[r]
+　なんて……逃げられる保証はあるのかよ？[r]
+　学園中、どこもかしこもヤツラであふれてるんだぜ？」[pcms]
 
 *1439|
 [fc]
-[ns]Wataru[nse]
-"Kousuke, now's not the time to be saying stuff like[r]
-that..."[pcms]
+[ns]航[nse]
+「コースケ、今そんなこと言ってる場合じゃ……」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -518,101 +511,99 @@ that..."[pcms]
 
 *1440|
 [fc]
-In the moment I tried to calm Kousuke who was reflexively[r]
-complaining, the door was violently struck from the other[r]
-side.[pcms]
+反射的に文句を言うコースケを宥めようとした[r]
+その瞬間、扉が凄まじい勢いで向こう側から叩かれる。[pcms]
 
 *1441|
 [fc]
-No, 'struck' isn't the right word. They are trying to break[r]
-through it.[pcms]
+いや、叩かれるなんて表現は正しくない。[r]
+ぶち破ろうとしている、が正しい。[pcms]
 
 *1442|
 [fc]
-[ns]Wataru[nse]
-"Cut it out already, Kousuke!"[pcms]
+[ns]航[nse]
+「いい加減にしろ、コースケ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1443|
 [fc]
-[ns]Kousuke[nse]
-"...Got it."[pcms]
+[ns]浩助[nse]
+「……わかったよ」[pcms]
 
 *1444|
 [fc]
-It seemed he still had plenty of complaints, but he[r]
-understood that this wasn't the time to be voicing them.[pcms]
+気に入らないことはまだ山積みだったみたいだけれども、[r]
+こうして文句を言ってる場合じゃないと[r]
+いうことは理解してくれたらしい。[pcms]
 
 *1445|
 [fc]
-[ns]Wataru[nse]
-"Sorry for the wait, senpai... Huh, she's already gone[r]
-ahead?"[pcms]
+[ns]航[nse]
+「おまたせしました、せんぱ……[r]
+　って、先に行っちゃったのか？」[pcms]
 
 *1446|
 [fc]
-Turning around to look for the senior who had disappeared at[r]
-some point, I glanced around for a moment in confusion.[pcms]
+いつの間にか姿が見えなくなっている先輩を[r]
+振り返って、ボクは一瞬、キョロキョロと辺りを見回した。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1447|
 [fc]
-[ns]Kousuke[nse]
-"Seriously, she does whatever she wants."[pcms]
+[ns]浩助[nse]
+「ったく、勝手に行動する女だよな」[pcms]
 
 *1448|
 [fc]
-[ns]Wataru[nse]
-"Talking about doing whatever one wants, Kousuke's way[r]
-worse. I don't know what you're dissatisfied with, but[r]
-you're wasting time by picking fights with the senior at[r]
-every opportunity."[pcms]
+[ns]航[nse]
+「勝手に行動してるって、コースケのほうが[r]
+　ヒドイだろ。何を不満に思ってるのか知らないけど、[r]
+　事あるごとに先輩に突っかかって無駄に時間を潰して」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1449|
 [fc]
 [vo_ren s="ren0274"]
-[ns]Ren[nse]
-"That's not like you, Ko-chan. What's wrong?"[pcms]
+[ns]漣[nse]
+「コーちゃんらしくないよ？　どうしたの？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1450|
 [fc]
-[ns]Kousuke[nse]
-"Nothing... More importantly, are you okay, Ren-chan?"[pcms]
+[ns]浩助[nse]
+「別に……。それより漣ちゃんは大丈夫なのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1451|
 [fc]
 [vo_ren s="ren0275"]
-[ns]Ren[nse]
-"Eh? Yeah, I'm fine."[pcms]
+[ns]漣[nse]
+「えっ？　うん、私は大丈夫だよ」[pcms]
 
 *1452|
 [fc]
-[ns]Wataru[nse]
-"Really? But you've been staggering since earlier. You still[r]
-have a fever, don't you?"[pcms]
+[ns]航[nse]
+「そうなのか？　だけどさっきからずっとふらついてるぞ。[r]
+　熱だってまだ下がってないだろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1453|
 [fc]
 [vo_ren s="ren0276"]
-[ns]Ren[nse]
-"Yeah... My body still feels feverish, but we're not under[r]
-the sun anymore, so I'm okay."[pcms]
+[ns]漣[nse]
+「うん……まだ体は熱っぽいけど、でももうお日様の[r]
+　下じゃないし、大丈夫だよ」[pcms]
 
 *1454|
 [fc]
-Ren smiled brightly as she declined the water bottle I[r]
-offered her. Her face looked so fragile and dear that it[r]
-made me feel sad.[pcms]
+ボクが差し出した水筒を断って、漣はニッコリと笑った。[r]
+その顔が儚げでいとおしくて、ボクは悲しい気になる。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -629,34 +620,33 @@ made me feel sad.[pcms]
 
 *1455|
 [fc]
-But as if to hurry us along, the banging on the door grew[r]
-more intense. It doesn't seem like it's just one person. Are[r]
-there more of them now?[pcms]
+でも、そんなボクらをせかすように、[r]
+ドアを叩く音が激しくなってきた。[r]
+一人だけじゃないみたいだ。人が増えてるのか？[pcms]
 
 *1456|
 [fc]
-[ns]Wataru[nse]
-"It looks like we don't have time to dawdle. Anyway, we need[r]
-to go down..."[pcms]
+[ns]航[nse]
+「グズグズしてるヒマなんかないみたいだな。[r]
+　とにかく下に……」[pcms]
 
 *1457|
 [fc]
-Just as I was about to say that to Kousuke, the door seemed[r]
-like it was about to come off its rails from the attacks[r]
-coming from the hallway.[pcms]
+コースケにそう言いかけたとき、廊下からの攻撃に[r]
+耐えかねて、ドアがレールから外れそうになっていた。[pcms]
 
 *1458|
 [fc]
-[ns]Wataru[nse]
-"Let's go. Come on, Ren, you go down first."[pcms]
+[ns]航[nse]
+「行くぞ。ほら、漣、先に降りてろ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1459|
 [fc]
 [vo_ren s="ren0277"]
-[ns]Ren[nse]
-"Okay."[pcms]
+[ns]漣[nse]
+「うん」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 ;mm
@@ -665,127 +655,120 @@ coming from the hallway.[pcms]
 
 *1460|
 [fc]
-In order of Ren, then Kousuke, then me, we hurriedly jumped[r]
-into the hole where the senior had disappeared. The banging[r]
-on the door was getting more intense all the while.[pcms]
+漣に続いてコースケ、ボクの順でボクらは急いで[r]
+先輩が消えた穴の中に飛び込んだ。[r]
+その間にもドアを叩く音が激しくなってきてる。[pcms]
 
 *1461|
 [fc]
-We didn't know when that sliding door would be broken[r]
-through. It was clear as day that once it was broken, they[r]
-would flood into this hole after us.[pcms]
+いつあのスライドドアが壊されるかもわからない。[r]
+壊された途端、ボクらを追ってこの穴にヤツラが[r]
+殺到するだろうということは、火を見るよりも明らかだ。[pcms]
 
 *1462|
 [fc]
-[ns]Wataru[nse]
-"Anyway... we have no choice but to close this hatch from[r]
-inside..."[pcms]
+[ns]航[nse]
+「とにかく……このハッチを中から閉めるしか……」[pcms]
 
 *1463|
 [fc]
-I put my hand on the lid of the hatch that had been moved[r]
-aside and tried to descend into the hole.[pcms]
+脇にどけられたハッチのフタに手をかけて、[r]
+ボクは穴の中に降りようとした。[pcms]
 
 *1464|
 [fc]
-But even though the senior had opened it so easily by[r]
-herself, maybe because of my awkward position or something[r]
-else, it was so heavy that I could barely hold it up.[pcms]
+でも、あんなに軽々と先輩一人で開けてたのに、[r]
+体勢が悪いのか、ボク一人ではなんとか支えることが[r]
+できるけれど……というくらいの重さだ。[pcms]
 
 *1465|
 [fc]
-The inside was bright enough thanks to light coming through[r]
-a ventilation duct, but there was only a passage leading who[r]
-knows where.[pcms]
+中はとりあえず通風孔からの灯りがあって明るいけれど、[r]
+どこに通じてるのかもわからない通路があるだけだ。[pcms]
 
 *1466|
 [fc]
-[ns]Wataru[nse]
-"Ren, ask the senior if there's a switch or something to[r]
-close this hatch."[pcms]
+[ns]航[nse]
+「漣、先輩にハッチを閉めるスイッチか何かないか、聞いてくれ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1467|
 [fc]
 [vo_ren s="ren0278"]
-[ns]Ren[nse]
-"That's impossible. The senior has already gone further[r]
-ahead."[pcms]
+[ns]漣[nse]
+「無理だよ。先輩、もっと先に行っちゃってるもの」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1468|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, need help?"[pcms]
+[ns]浩助[nse]
+「ワタル、手伝うか？」[pcms]
 
 *1469|
 [fc]
-[ns]Wataru[nse]
-"Even if you offer to help, there's no space for you to[r]
-assist in this situation, is there?"[pcms]
+[ns]航[nse]
+「手伝うかって言ったって、この状態じゃ[r]
+　お前が助けられるスペースなんてないだろう？」[pcms]
 
 *1470|
 [fc]
-As I responded to Kousuke's offer of help, I struggled to[r]
-close the lid.[pcms]
+コースケの助けの声にそう答えると、[r]
+ボクは頑張ってフタを締めようとした。[pcms]
 
 *1471|
 [fc]
-But it was so heavy that I couldn't move it quickly no[r]
-matter what.[pcms]
+だけど、どうにもこうにも重くて素早く動かせそうにない。[pcms]
 
 ;//se038・金属のドアがぶち破られたような音
 [se buf=0 storage="se038"]
 
 *1472|
 [fc]
-While I was fumbling around, I heard the sound of the door[r]
-being broken through.[pcms]
+ボクがもたもたしているうちに、ドアが破られる音が聞こえた。[pcms]
 
 *1473|
 [fc]
-We need to escape below quickly. But it's clear that if we[r]
-don't close this, they will be right on our heels.[pcms]
+早く下に逃げなきゃ。でもここを締めないとヤツラが[r]
+すぐにここにやってくるのはわかりきってることだ。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1474|
 [fc]
 [vo_ren s="ren0279"]
-[ns]Ren[nse]
-"Big brother, the senior says this way."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、先輩がこっちだって」[pcms]
 
 *1475|
 [fc]
-[ns]Wataru[nse]
-"Eh?"[pcms]
+[ns]航[nse]
+「えっ？」[pcms]
 
 *1476|
 [fc]
-What should we do? Should we go as we are? Or should we[r]
-close the hatch first?[pcms]
+どうしよう。このまま行くか？[r]
+それともハッチを閉めてから行くか？[pcms]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ａ４
-;//４１：ハッチを閉めるのはあきらめる;//→block:30175
-;//４２：頑張ってハッチを閉める;//→block:30176
-;//４３：時間切れ;//→block:30176
+;//●時限式選択肢Ａ－４
+;//４－１：ハッチを閉めるのはあきらめる;//→block:30175
+;//４－２：頑張ってハッチを閉める;//→block:30176
+;//４－３：時間切れ;//→block:30176
 
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="30175.ks" target=*30175_TOP]ハッチを閉めるのはあきらめる[endlink]
 ;	[link storage="30176.ks" target=*30176_TOP]頑張ってハッチを閉める[endlink]
-; ;(link storage="30176.ks" target=*30176_TOP)Time's[r]
-up(endlink)[pcms]
+;	;[link storage="30176.ks" target=*30176_TOP]時間切れ[endlink][s]
 
 *SEL24|ハッチを閉めるのはあきらめる／頑張ってハッチを閉める
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Give up on closing the hatch'"]
-[eval exp="f.seltext04 = 'Struggle to close the hatch'"]
+[eval exp="f.seltext02 = 'ハッチを閉めるのはあきらめる'"]
+[eval exp="f.seltext04 = '頑張ってハッチを閉める'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

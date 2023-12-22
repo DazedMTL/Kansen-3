@@ -26,34 +26,34 @@
 
 *1399|
 [fc]
-[ns]Boss[nse]
-"Haa... Uuu..."[pcms]
+[ns]親分[nse]
+「はぁっ……うぅ……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1400|
 [fc]
 [vo_yuh s="yuho0854"]
-[ns]Yuuho[nse]
-"I wonder if the medicine worked... He seems to have calmed[r]
-down."[pcms]
+[ns]悠帆[nse]
+「薬、効いたのかな……。[r]
+　落ちついたみたいだね」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1401|
 [fc]
 [vo_ren s="ren0897"]
-[ns]Ren[nse]
-"Yeah..."[pcms]
+[ns]漣[nse]
+「うん……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1402|
 [fc]
-He's still breathing in short bursts, but the terrifying[r]
-growling has subsided, and the boss has finally fallen[r]
-asleep.[pcms]
+まだ小刻みに呼吸をしている状態だけど、[r]
+それまでの恐ろしい程のうなり声は治まったようで、[r]
+親分はやっと眠りについた。[pcms]
 
 ;//@konya テキスト修正
 ;//ワタル達が『ででっぽう』に向かっている間は、
@@ -61,51 +61,51 @@ asleep.[pcms]
 
 *1403|
 [fc]
-Until Wataru and Tadahiko return with their equipment, it's[r]
-up to us... no, it's up to me to protect this place.[pcms]
+ワタルや彦ちん達が装備を持って帰ってくるまでは、[r]
+オレ達が……いや、オレがこの場所を守らなくちゃならない。[pcms]
 
 *1404|
 [fc]
-But we can't stay in a place like this for long. The boss is[r]
-in this condition, after all.[pcms]
+だけど、こんな所にはそんなに長くいられない。[r]
+親分はこんな状態だし。[pcms]
 
 *1405|
 [fc]
-We should prepare to be able to leave at any moment... We[r]
-have to save the boss too. Either way, we'll have to go[r]
-outside.[pcms]
+いつでも外に出られるように、準備したほうがいいな……。[r]
+親分も助けないとならないし。[r]
+いずれにしても、外に出なきゃならなくなる。[pcms]
 
 *1406|
 [fc]
-The two of them are busy taking care of the boss. It's up to[r]
-me to make the suggestion.[pcms]
+二人は親分の看病で手一杯の様子だ。[r]
+オレが提案するしかない。[pcms]
 
 *1407|
 [fc]
-[ns]Kousuke[nse]
-"Everyone, let's get ready to move from here. Of course,[r]
-we'll move after Wataru comes back. Before that, let's[r]
-gather our belongings."[pcms]
+[ns]浩助[nse]
+「みんな、ここを移動する準備しよう。[r]
+　もちろん、ワタルが戻って来てから移動する。[r]
+　その前に、各自の持ち物をまとめておこう」[pcms]
 
 *1408|
 [fc]
-They looked surprised for a moment, but they seemed to[r]
-understand what I meant right away and started moving[r]
-without a word.[pcms]
+二人は一瞬驚いた顔をしたけど、オレの言いたいことがすぐ[r]
+分かったようで、無言でうなずき、行動を開始した。[pcms]
 
 *1409|
 [fc]
-Gathering our things didn't take much time at all.[pcms]
+まとめるなんていっても、[r]
+そんなに時間のかかる作業ではなかった。[pcms]
 
 *1410|
 [fc]
-Everyone quickly finished their tasks and gathered around[r]
-the boss again.[pcms]
+それぞれすぐに作業を終え、[r]
+また親分の周りに集まった。[pcms]
 
 *1411|
 [fc]
-Yuuho and Ren seem a bit relieved now that the boss's[r]
-condition has stabilized.[pcms]
+悠帆も漣ちゃんも、親分の容態が落ち着いた事で、[r]
+看病の手が少し楽になったみたいだ。[pcms]
 
 ;//@konya テキスト修正
 ;//親分の額に滲んだ汗を拭き取ったあと、荷物をまとめた所まで
@@ -114,317 +114,322 @@ condition has stabilized.[pcms]
 
 *1412|
 [fc]
-Suddenly, Ren took out the cell phone she was holding for[r]
-Wataru and let out a small gasp.[pcms]
+ふと、漣ちゃんが、ワタルから預かっていた携帯を[r]
+取り出し、小さな声を上げた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1413|
 [fc]
 [vo_ren s="ren0898"]
-[ns]Ren[nse]
-"Ah... There's an email."[pcms]
+[ns]漣[nse]
+「あ……メールが来てる」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1414|
 [fc]
 [vo_yuh s="yuho0855"]
-[ns]Yuuho[nse]
-"What!? Who is it from?"[pcms]
+[ns]悠帆[nse]
+「え！？　だ、誰から？」[pcms]
 
 *1415|
 [fc]
-[ns]Kousuke[nse]
-"What does it say?"[pcms]
+[ns]浩助[nse]
+「なんて書いてある？」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1416|
 [fc]
-Ren's thumb pressed the email button on Wataru's cell phone,[r]
-and both Yuuho's and my gaze focused on the display.[pcms]
+ワタルの携帯を開き、メールボタンを押す漣ちゃんの親指と、[r]
+携帯のディスプレイにオレと悠帆の視線が集中する。[pcms]
 
 *1417|
 [fc]
-The three of us peered into the brightly lit display.[pcms]
+眩しく光るディスプレイをのぞき込む三人。[pcms]
 
 *1418|
 [fc]
-Re" The sender's name read "Father".[pcms]
+『件名：Ｒｅ』[r]
+送信者名には『父』とある。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1419|
 [fc]
 [vo_ren s="ren0899"]
-[ns]Ren[nse]
-"Dad..."[pcms]
+[ns]漣[nse]
+「お、お父さん……」[pcms]
 ;//〆：整合性確認
 
 *1420|
 [fc]
-The sender was Ren and Wataru's father... from uncle.[pcms]
+送信者は、漣ちゃんとワタルの父親……おじさんからの[r]
+ものだった。[pcms]
 
 *1421|
 [fc]
-Ren, with a relieved expression yet trembling fingers,[r]
-operated the cell phone and opened the newly arrived email.[pcms]
+漣ちゃんは、安堵の表情を浮かべながらも、[r]
+震える指で携帯を操作し、届いたばかりのそのメールを開く。[pcms]
 
 *1422|
 [fc]
-"The evacuation site of Mouse Kingdom has been attacked by a[r]
-swarm of crows and it's a mess."[pcms]
+『ネズミーキングダムの避難所がカラスの大群に襲われて[r]
+　大変なコトになっている』[pcms]
 
 *1423|
 [fc]
-"We are safe inside the building, but we don't know what[r]
-happened to the people who were in the tents outside--"[pcms]
+『俺達は建物の中に避難して無事だが、[r]
+　外のテントにいた人達がどうなったか分からない――』[pcms]
 
 *1424|
 [fc]
-"I have no idea why those crows are flocking and attacking[r]
-people. You too, be careful of 'them'."[pcms]
+『どうしてあのカラス共が群れて人を襲うのか全く判らない。[r]
+　お前も、“ヤツら”には気を付けろ』[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1425|
 [fc]
 [vo_ren s="ren0900"]
-[ns]Ren[nse]
-"Dad..."[pcms]
+[ns]漣[nse]
+「お父さん……」[pcms]
 ;//＠お父さんの状況を案じて、少し涙声になっている
 
 *1426|
 [fc]
-Seeing the email and confirming that her uncle was safe, Ren[r]
-let out a trembling voice. Tears were brimming in her eyes.[pcms]
+おじさんが無事で有ることを確認できたせいか、[r]
+メールを見て、震える声を出す漣ちゃん。[r]
+その目には、光るものがあふれ出していた。[pcms]
 
 *1427|
 [fc]
-Looking at Ren's relieved face and the somewhat calmed[r]
-sleeping face of the boss, the anxiety about our current[r]
-situation eased a little.[pcms]
+安堵する漣ちゃんの顔と、幾分落ち着いた親分の寝顔を[r]
+見ていると、今置かれている現状からの不安が、[r]
+少し和らいでいった。[pcms]
 
 *1428|
 [fc]
 [vo_ren s="ren0901"]
-[ns]Ren[nse]
-"I hope we can safely reunite with dad..."[pcms]
+[ns]漣[nse]
+「お父さんと、無事に再会できますように……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1429|
 [fc]
 [vo_yuh s="yuho0856"]
-[ns]Yuuho[nse]
-"It'll be okay, we'll definitely meet him!"[pcms]
+[ns]悠帆[nse]
+「大丈夫、絶対に会えるよ！」[pcms]
 
 *1430|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, I'll protect you properly, so don't worry!"[pcms]
+[ns]浩助[nse]
+「ああ、オレがしっかり守ってやるから、安心してくれよ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1431|
 [fc]
-Ren smiled back at our voices and then turned her eyes back[r]
-to the cell phone, her expression serious again as she began[r]
-to move her thumb quickly.[pcms]
+オレたちの声に微笑み返した漣ちゃんは、[r]
+再び携帯に目をやると、真剣な顔つきに戻り、[r]
+親指を素早く動かし始めた。[pcms]
 
 *1432|
 [fc]
-She's always been fast at typing emails...[pcms]
+相変わらずメール打つの速いな……。[pcms]
 
 *1433|
 [fc]
-While I was admiring Ren's finger work, I suddenly felt a[r]
-strange sensation on my back.[pcms]
+漣ちゃんの指裁きに関心していると、[r]
+ふと、背中に不思議な感覚を覚えた。[pcms]
 
 *1434|
 [fc]
-What is this unpleasant feeling...[pcms]
+何だ……このイヤな感じ……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1435|
 [fc]
 [vo_yuh s="yuho0857"]
-[ns]Yuuho[nse]
-"I'm going to check if I forgot anything."[pcms]
+[ns]悠帆[nse]
+「わたし、忘れ物ないか見てくるね」[pcms]
 
 *1436|
 [fc]
-[ns]Kousuke[nse]
-"Oh, okay."[pcms]
+[ns]浩助[nse]
+「お、おう」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1437|
 [fc]
-I hadn't been touched by anyone... But I have a bad[r]
-premonition. What could it be...[pcms]
+誰かに触られた訳でもないし……。[r]
+でも、なんか嫌な予感がする。[r]
+なんだろ……。[pcms]
 
 *1438|
 [fc]
-I turned around because of that strange sensation, or rather[r]
-an unpleasant feeling, but only darkness spread out before[r]
-me--[pcms]
+その不思議な感覚、というよりイヤな感覚がする後ろを[r]
+振り向いたけど、暗闇が広がるばかりで――。[pcms]
 
 *1439|
 [fc]
-[ns]Boss[nse]
-"Ugh, ugh... Aguuu..."[pcms]
+[ns]親分[nse]
+「うっ、うっ……。あぐぅう……」[pcms]
 
 *1440|
 [fc]
-[ns]Kousuke[nse]
-"Boss! What's wrong!?"[pcms]
+[ns]浩助[nse]
+「親分！　どうしたんですか！？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1441|
 [fc]
 [vo_ren s="ren0902"]
-[ns]Ren[nse]
-"What's wrong? Ko-chan...? Hik!"[pcms]
+[ns]漣[nse]
+「どうしたの？　コーちゃん……？　ひっ！？」[pcms]
 
 *1442|
 [fc]
-The cause of Ren's scream was the boss who was supposed to[r]
-be asleep until just now.[pcms]
+漣ちゃんの悲鳴の原因は、さっきまで[r]
+眠っていたはずの親分だった。[pcms]
 
 *1443|
 [fc]
-The boss had firmly grabbed Ren's hand and was breathing[r]
-heavily.[pcms]
+親分は漣ちゃんの手をがっちりとつかみ、息を荒くしていた。[pcms]
 
 *1444|
 [fc]
 [vo_ren s="ren0903"]
-[ns]Ren[nse]
-"Is it painful... again? Are you hurting!?"[pcms]
+[ns]漣[nse]
+「く、苦しい……の？　また痛むんですか！？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1445|
 [fc]
 [vo_yuh s="yuho0858"]
-[ns]Yuuho[nse]
-"Ren-chan!? What happened!?"[pcms]
+[ns]悠帆[nse]
+「漣ちゃん！？　どうしたの！？」[pcms]
 
 *1446|
 [fc]
-[ns]Kousuke[nse]
-"!"[pcms]
+[ns]浩助[nse]
+「！？」[pcms]
 
 *1447|
 [fc]
-I thought he was trying to convey his suffering to Ren...[pcms]
+漣ちゃんに苦しさを訴えようとしているのかと[r]
+思っていたけど……。[pcms]
 
 *1448|
 [fc]
-The boss had his eyes filled with a murky red light and was[r]
-growling.[pcms]
+親分は、赤く濁った光を目に蓄え、うなり声を上げている。[pcms]
 
 *1449|
 [fc]
-Red eyes... could it be... Boss![pcms]
+赤い目……もしかして……親分！[pcms]
 
 *1450|
 [fc]
-[ns]Kousuke[nse]
-"Ren-chan! Get away from the boss! It's dangerous!"[pcms]
+[ns]浩助[nse]
+「漣ちゃん！　親分から離れろ！　ヤバイぞ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1451|
 [fc]
 [vo_yuh s="yuho0859"]
-[ns]Yuuho[nse]
-"Ren-chan! Run away! Let go of Ren-chan!"[pcms]
+[ns]悠帆[nse]
+「漣ちゃん！　逃げて！　漣ちゃんを離して！」[pcms]
 
 *1452|
 [fc]
-Before me, Yuuho rushed to Ren-chan, trying to pull her hand[r]
-away from the boss's tight grip.[pcms]
+オレより先に、悠帆が漣ちゃんに駆け寄って、[r]
+親分が握りしめた手を引き離そうとした。[pcms]
 
 *1453|
 [fc]
-It was hard to see in the dark, but the boss's hand did not[r]
-let go of Ren-chan.[pcms]
+暗闇で見えづらかったけど、親分の手は漣ちゃんから[r]
+離れることはなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1454|
 [fc]
 [vo_ren s="ren0904"]
-[ns]Ren[nse]
-"No!! Noooo!! Nooooo!!"[pcms]
+[ns]漣[nse]
+「いやっ！！　いやぁあっ！！　いやぁああっ！！！」[pcms]
 
 [ChrSetEx layer=5 chbase="oyabun"][ChrSetXY layer=5 x=136 y=0][trans_c cross time=150]
 
 *1455|
 [fc]
-[ns]Boss[nse]
-"Gubaaa! You seem soft... hehe!! But your lower part seems[r]
-firm~!! It must feel good... your pussy, young lady!"[pcms]
+[ns]親分[nse]
+「ぐぶあぁっ！　柔らかそうだなぁ……へへぇ！！[r]
+　でも、下は固そうだぁ～！！　気持ち良いだろうなぁ……。[r]
+　お嬢ちゃんのマンコはよぉ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1456|
 [fc]
 [vo_ren s="ren0905"]
-[ns]Ren[nse]
-"No... help, help meee!!"[pcms]
+[ns]漣[nse]
+「やっ……た、たす、助けてぇっ！！！」[pcms]
 
 *1457|
 [fc]
-The boss is infected!! Just like them... If this continues,[r]
-Ren-chan will be attacked!![pcms]
+親分は感染してる！！[r]
+ヤツラと同じに……。[r]
+このままだと、漣ちゃんが襲われちまう！！[pcms]
 
 *1458|
 [fc]
-...But if I carelessly hit his face and my fist hits his[r]
-teeth... I'll join their ranks.[pcms]
+…だけど、下手に顔殴ったりして、[r]
+拳が歯にでも当たった日には……[r]
+オレもヤツラの仲間入りだ。[pcms]
 
 *1459|
 [fc]
-I'm a bit reluctant, but--[pcms]
+ここは、少し気がひけるけど――[pcms]
 
 *1460|
 [fc]
-[ns]Kousuke[nse]
-"Damn it... sorry! Boss!!"[pcms]
+[ns]浩助[nse]
+「くそっ……すまねえ！　親分！！」[pcms]
 
 [ChrSetEx layer=5 chbase="oyabun"][ChrSetXY layer=5 x=136 y=0][trans_c cross time=150]
 
 *1461|
 [fc]
-[ns]Boss[nse]
-"!?"[pcms]
+[ns]親分[nse]
+「！？」[pcms]
 
 *1462|
 [fc]
-[ns]Kousuke[nse]
-"Uoooooooh!!"[pcms]
+[ns]浩助[nse]
+「うぉおおおおおおぁ！！」[pcms]
 
 *1463|
 [fc]
-I accelerated from where I stood, aimed at the boss, and[r]
-leaped with a dropkick stance.[pcms]
+オレはその場から勢いよく加速を付け、親分にマトを付けて、[r]
+ドロップキックの体勢で飛びかかった。[pcms]
 
 ;//〆：レッドフラッシュ
 [赤フラ]
 
 *1464|
 [fc]
-[ns]Boss[nse]
-"Guh... Gah!?"[pcms]
+[ns]親分[nse]
+「ぐっ……。ぐあっ！？」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -434,235 +439,234 @@ leaped with a dropkick stance.[pcms]
 
 *1465|
 [fc]
-The boss, having received a full-body dropkick, was blown[r]
-away from Ren-chan to the wall.[pcms]
+全体重を乗せたドロップキックを受けた親分は、[r]
+漣ちゃんから離れ、壁まで吹っ飛んだ。[pcms]
 
 *1466|
 [fc]
-Yuuho, who had been trying to help by pulling, stumbled[r]
-backward with Ren-chan, who was suddenly released from the[r]
-boss's grip, and fell on her butt.[pcms]
+助けようと引っ張っていた悠帆は、[r]
+ふいに親分の力から解放された漣ちゃんもろとも[r]
+勢い余って後ろによろけて尻もちをついた。[pcms]
 
 *1467|
 [fc]
 [vo_yuh s="yuho0860"]
-[ns]Yuuho[nse]
-"Ah..."[pcms]
+[ns]悠帆[nse]
+「あっ……」[pcms]
 
 *1468|
 [fc]
 [vo_ren s="ren0906"]
-[ns]Ren[nse]
-"Kyaa..."[pcms]
+[ns]漣[nse]
+「きゃっ……」[pcms]
 
 *1469|
 [fc]
-Landing successfully, I slid right to Ren-chan's feet.[pcms]
+上手く着地できたオレは、[r]
+そのまま漣ちゃんの足下へ滑り込んだ。[pcms]
 
 *1470|
 [fc]
-[ns]Kousuke[nse]
-"Ren-chan, are you hurt? Did you get scratched?"[pcms]
+[ns]浩助[nse]
+「漣ちゃん、怪我はないか？　引っ掻かれたりしてない？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1471|
 [fc]
 [vo_yuh s="yuho0861"]
-[ns]Yuuho[nse]
-"Ouch...! That's terrible, Kousuke..."[pcms]
+[ns]悠帆[nse]
+「いたた……！　ひどいよ、コースケ……」[pcms]
 
 *1472|
 [fc]
-Yuuho was safe, but Ren-chan didn't respond as if she was[r]
-shocked.[pcms]
+悠帆は無事だったが、漣ちゃんはショックを受けたのか、[r]
+返事をしなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1473|
 [fc]
 [vo_ren s="ren0907"]
-[ns]Ren[nse]
-"Uh, yeah... I'm okay. I don't have any injuries."[pcms]
+[ns]漣[nse]
+「う、うん……大丈夫、みたい……。どこも怪我してない」[pcms]
 
 *1474|
 [fc]
-[ns]Kousuke[nse]
-"Thank goodness... but we can't relax! The boss might get up[r]
-again...!"[pcms]
+[ns]浩助[nse]
+「よかった……って、安心してられない！[r]
+　親分が起き上がってくるかも……！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1475|
 [fc]
-Although Ren-chan was safe, we couldn't relax yet. I turned[r]
-towards where the boss had been blown away and braced[r]
-myself.[pcms]
+漣ちゃんの無事は確認できたけど、まだ安心はできない。[r]
+オレは親分の飛んでいった方へと向き直り、身構えた。[pcms]
 
 *1476|
 [fc]
-The infected ones are like immortal... We can't be at ease![pcms]
+感染したヤツラは、まるで不死身だからな……。[r]
+安心なんてしてられねえ！[pcms]
 
 *1477|
 [fc]
-Turning around, I saw a single pitch-black line on the wall[r]
-and the boss lying down right below it.[pcms]
+振り返った先には、壁に一本のどす黒いラインと、[r]
+そのすぐ下に親分が倒れているのが見えた。[pcms]
 
 *1478|
 [fc]
-The boss, lying on his back, was twitching slightly but[r]
-gradually started moving his hips and arms, standing up like[r]
-a broken puppet.[pcms]
+仰向けに倒れた親分は、身体を小刻みに痙攣させていたが、[r]
+次第に腰、腕が動き出し、壊れた操り人形の様に立ち上がった。[pcms]
 
 [ChrSetEx layer=5 chbase="oyabun"][ChrSetXY layer=5 x=136 y=0][trans_c cross time=150]
 
 *1479|
 [fc]
-[ns]Boss[nse]
-"Bubaaa... gaha... guh... guhguhguh!! I smell pussy over[r]
-here, maybe this way?"[pcms]
+[ns]親分[nse]
+「ぶばぁっ……がはっ……ぐっ……ぐっぐぐぐっ！！[r]
+　マンコの匂いがするなぁァ～、こっちかぁ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1480|
 [fc]
 [vo_ren s="ren0908"]
-[ns]Ren[nse]
-"Hik..."[pcms]
+[ns]漣[nse]
+「ひっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1481|
 [fc]
 [vo_yuh s="yuho0862"]
-[ns]Yuuho[nse]
-"Ugh... guh..."[pcms]
+[ns]悠帆[nse]
+「うっ……ぐっ……」[pcms]
 ;//＠嘔吐しそうなのを堪えている。
 
 *1482|
 [fc]
-Despite spewing blood from his nose and mouth while trying[r]
-to stand up, I felt disgust at the sight of the boss more[r]
-than fear, like seeing a mass of maggots.[pcms]
+鼻や口から沢山の血を巻き散らかしながらも[r]
+起き上がろうとする親分に、オレは恐怖よりも先に、[r]
+大量にわいた蛆虫を見るような嫌悪感を覚えた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1483|
 [fc]
 [vo_ren s="ren0909"]
-[ns]Ren[nse]
-"Ah... ah..."[pcms]
+[ns]漣[nse]
+「あ……あ……」[pcms]
 
 *1484|
 [fc]
-I wasn't the only one. Ren-chan too seemed paralyzed on the[r]
-spot due to seeing the boss's form, as if all strength had[r]
-left her body.[pcms]
+オレだけじゃない。[r]
+漣ちゃんも、親分の姿を見てしまったせいか、[r]
+身体の力が抜けたようでその場から動けなくなっていた。[pcms]
 
 *1485|
 [fc]
-This is no good... We can't stay like this!![pcms]
+だめだ……。[r]
+こんなんじゃ駄目だ！！[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1486|
 [fc]
 [vo_ren s="ren0910"]
-[ns]Ren[nse]
-"No, nooooooo!!"[pcms]
+[ns]漣[nse]
+「いっ、いやぁあぁぁあああああああぁぁぁあぁああ！！」[pcms]
 ;//＠絶叫
 
 *1487|
 [fc]
-Fear of the approaching boss exceeded its limits, and Ren-[r]
-chan screamed as if mustering all her strength.[pcms]
+にじり寄る親分に対する恐怖が、限界を越えたのか、[r]
+漣ちゃんは全身の力を振り絞るようにして、悲鳴を上げる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1488|
 [fc]
 [vo_yuh s="yuho0863"]
-[ns]Yuuho[nse]
-"No good! Let's run! Ren-chan, come on, stand up! Hurry up!![r]
-Kousuke! Let's escape!!"[pcms]
+[ns]悠帆[nse]
+「駄目よ！　逃げよう！　漣ちゃん、ほら、立って！[r]
+　はや、くっ！！　コースケ！　逃げよう！！」[pcms]
 ;//＠後半、重いモノを持ち上げるように
 
 *1489|
 [fc]
-[ns]Kousuke[nse]
-"Ah, yeah..."[pcms]
+[ns]浩助[nse]
+「あ、ああ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1490|
 [fc]
-I'm the only one who can protect this place... But after[r]
-seeing that thing... my legs won't move properly...[pcms]
+この場所を守れるのはオレしかいないんだ……。[r]
+でも、あんなモン見たら……足がまともに動かない……。[pcms]
 
 *1491|
 [fc]
-The slowly approaching "thing that used to be the boss" and[r]
-my own slow retreat were all I could manage.[pcms]
+じわじわと迫ってくる『親分だったモノ』と、それと同じ位の[r]
+ゆっくりした速度で後ずさりするのが精一杯だった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1492|
 [fc]
 [vo_yuh s="yuho0864"]
-[ns]Yuuho[nse]
-"Kousuke!"[pcms]
+[ns]悠帆[nse]
+「コースケ！」[pcms]
 
 *1493|
 [fc]
-At Yuuho's scream-like voice, I finally broke free from the[r]
-"thing that used to be the boss"'s spell.[pcms]
+悲鳴にも似た悠帆の声に、ようやく『親分だったモノ』の[r]
+呪縛から解き放たれた。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1494|
 [fc]
-[ns]Kousuke[nse]
-"Damn it!! Just die quietly!! We're running away, we can't[r]
-deal with that thing!!"[pcms]
+[ns]浩助[nse]
+「ちくしょぉっ！！　大人しく死んでてくれよっ！！[r]
+　逃げるぞ、あんなの相手にしてらんねぇ！！」[pcms]
 
 *1495|
 [fc]
-Together with Yuuho, I grabbed Ren-chan's hand and started[r]
-running towards the door.[pcms]
+悠帆と共に、漣ちゃんの手を取って、扉の方向へと走り出した。[pcms]
 
 *1496|
 [fc]
-If it's that door, we've moved it once before, so it should[r]
-move easily now.[pcms]
+あの扉なら、一度動かしてるから、今なら簡単に動かせる[r]
+はずだ。[pcms]
 
 *1497|
 [fc]
-[ns]Kousuke[nse]
-"This way! Let's go!!"[pcms]
+[ns]浩助[nse]
+「こっちだ！　いくぞ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1498|
 [fc]
 [vo_yuh s="yuho0865"]
-[ns]Yuuho[nse]
-"Yes, yes!!"[pcms]
+[ns]悠帆[nse]
+「う、うん！！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1499|
 [fc]
-[ns]Kousuke[nse]
-"Ooooooohhhhhhh!!!!!"[pcms]
+[ns]浩助[nse]
+「おおおおおおぉおおおおぉぉぉ！！！！」[pcms]
 
 *1500|
 [fc]
-I charged towards the door with all the momentum I had built[r]
-up.[pcms]
+弾みがついたまま扉目がけて勢いよく体当たりをした。[pcms]
 
 ;//〆：ホワイトフラッシュ
 [白フラ]
@@ -673,13 +677,13 @@ up.[pcms]
 
 *1501|
 [fc]
-The heavy, solid door made a louder noise when it opened[r]
-than when I had rammed into it.[pcms]
+重く固い扉は、体当たりした時よりも、開く時の方が音が[r]
+大きかった。[pcms]
 
 *1502|
 [fc]
-But, although it didn't open smoothly, we managed to open it[r]
-without too much trouble.[pcms]
+だが、すんなりとはいかなかったが、それほど苦労もなく、[r]
+開く事ができた。[pcms]
 
 ;//〆：地下通路
 [bg storage="BG027"][trans_c cross time=500]
@@ -688,52 +692,52 @@ without too much trouble.[pcms]
 *1503|
 [fc]
 [vo_yuh s="yuho0866"]
-[ns]Yuuho[nse]
-"Kyaa!"[pcms]
+[ns]悠帆[nse]
+「きゃあっ！」[pcms]
 
 *1504|
 [fc]
 [vo_ren s="ren0911"]
-[ns]Ren[nse]
-"Ah...!"[pcms]
+[ns]漣[nse]
+「っ……！」[pcms]
 
 *1505|
 [fc]
-We tumbled into the empty space beyond the door, carried by[r]
-the momentum of opening it.[pcms]
+オレたちは扉を開ける時の勢いのまま、[r]
+何もない空間に転がり出した。[pcms]
 
 *1506|
 [fc]
-But we couldn't just stay down; we had to close the door[r]
-that was left open, or "the thing that used to be the boss"[r]
-would come after me again.[pcms]
+だが、このまま転んだままではいられない。[r]
+開いたままの扉を閉めないと『親分だったモノ』が、[r]
+またオレを襲いに来てしまう。[pcms]
 
 *1507|
 [fc]
-[ns]Kousuke[nse]
-"Uoooh!"[pcms]
+[ns]浩助[nse]
+「うぉおっ！」[pcms]
 
 ;//konya SE:ドア閉め
 [se buf=0 storage="se045"]
 
 *1508|
 [fc]
-Leaving the two who had fallen on the floor as they were, I[r]
-rushed to the door and frantically closed it.[pcms]
+床に転んだままの二人をそのままに、[r]
+扉に駆け寄り、大慌てで閉めた。[pcms]
 
 *1509|
 [fc]
-[ns]Kousuke[nse]
-"This should be... safe now... I hope..."[pcms]
+[ns]浩助[nse]
+「これで、大丈夫な……はずだけど……」[pcms]
 
 *1510|
 [fc]
-I think we're safe for now, but...[pcms]
+これで一応安全だとは思う、が……。[pcms]
 
 *1511|
 [fc]
-We watched the closed door in silence, as if holding our[r]
-breath.[pcms]
+オレたちは、息を殺すようにして、無言のまま、[r]
+閉じた扉を見つめていた。[pcms]
 
 ;[zapend_random]
 [zapfade]

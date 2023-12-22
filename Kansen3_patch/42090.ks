@@ -1,17 +1,17 @@
 ;//block:C010
-;//ブロック４２０９０『地下道漣のみ脱出編』
+;//ブロック４２０９０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42080.txtから
 
 *42090_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣
 ;//時間帯：
 ;//・テキスト容量：1K前後
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ１　・１２：出ない
+;//●選択肢Ｃ－１　・１－２：出ない
 
 ;//se022・携帯の操作音
 [se buf=0 storage="se022"]
@@ -21,106 +21,106 @@
 
 *5474|
 [fc]
-I pressed the power button with trembling hands... and ended[r]
-the call.[pcms]
+ボクは震える手で電源ボタンを押して……[r]
+コールを切ってしまった。[pcms]
 
 *5475|
 [fc]
-...Yuuho was safe!?[pcms]
+……悠帆が無事だった！？[pcms]
 
 *5476|
 [fc]
-Even though I should be happy about that, I was sweating an[r]
-unpleasant sweat on my back.[pcms]
+そうだったら、うれしいはずなのに[r]
+ボクは背中にいやな汗をかいていた。[pcms]
 
 *5477|
 [fc]
-The various events that had happened... the realistic[r]
-conversations with Margarita-senpai... might have shattered[r]
-my fantasy that Yuuho was safe.[pcms]
+これまでの出来事の数々が……[r]
+マルガリータ先輩との現実的な話の数々が……[r]
+悠帆が無事だというボクの夢想を打ち砕いたのかもしれない。[pcms]
 
 *5478|
 [fc]
-[ns]Wataru[nse]
-"No way... Why...!?!"[pcms]
+[ns]航[nse]
+「そんな……。[r]
+　なんで……！？！？」[pcms]
 
 *5479|
 [fc]
-Having my fantasy shattered, I felt terror.[pcms]
+夢想を打ち砕かれたボクは恐怖を感じていた。[pcms]
 
 *5480|
 [fc]
-A call from Yuuho, who shouldn't be safe!? My head felt like[r]
-it was going to burst, and my body shook naturally.[pcms]
+無事でいるはずのない悠帆から電話だなんてっ！？[r]
+頭がヘンになってしまいそうで、自然に身体が震えた。[pcms]
 
 *5481|
 [fc]
-[ns]Wataru[nse]
-"Calm down... just calm down..."[pcms]
+[ns]航[nse]
+「おちつけ……落ちつくんだ……」[pcms]
 
 *5482|
 [fc]
-I took a deep breath and tried to calm myself down.[pcms]
+ボクは深呼吸をして、なんとか落ち着こうとする。[pcms]
 
 *5483|
 [fc]
-...Yuuho is no longer here![pcms]
+……悠帆は、もういないんだっ！[pcms]
 
 *5484|
 [fc]
-...But, that doesn't mean she's dead...[pcms]
+……でも、死んだわけじゃない……。[pcms]
 
 *5485|
 [fc]
-Even if she was attacked by those strange people, it's not[r]
-certain that she would die.[pcms]
+あのおかしな人たちに襲われても、絶対に死ぬと[r]
+決まってるわけじゃない。[pcms]
 
 *5486|
 [fc]
-Besides, I've heard rumors that if you administer a vaccine[r]
-even after symptoms appear, you can suppress its[r]
-progression, and there are people who are still living[r]
-healthily today.[pcms]
+それに、たしか発症してもワクチンを投与すれば、[r]
+進行を抑えることができて、[r]
+今でも元気で生活してる人もいるって噂を聞いたことがある。[pcms]
 
 *5487|
 [fc]
-The speed of symptom onset varies, and if Yuuho happens to[r]
-have a slow- developing case, there might be a good chance[r]
-she could be saved.[pcms]
+発症の速度っていうのはまちまちらしいし、[r]
+悠帆がもし発症が遅いタイプの症例なら、[r]
+十分に助かる可能性があるかも知れない。[pcms]
 
 *5488|
 [fc]
-When did Yuuho get infected... No, maybe she hasn't been[r]
-infected at all.[pcms]
+悠帆がいつ感染したか……。[r]
+いや、もしかして感染すらしてないかもしれない。[pcms]
 
 *5489|
 [fc]
-And then... maybe the sudden mutation that senpai mentioned[r]
-could work in a good way.[pcms]
+それから……もしかして先輩の言った突然変異が、[r]
+いい方向に働くことだってあるかもしれない。[pcms]
 
 *5490|
 [fc]
-There might be a miraculous chance of that happening.[pcms]
+奇跡的にそんなことがあるかも知れない。[pcms]
 
 *5491|
 [fc]
-...No, miracles are called miracles because they don't[r]
-happen. If they did happen, it would just become a trite[r]
-story.[pcms]
+……いや、奇跡は起こらないから奇跡なんだ。[r]
+起こってしまったら、それはただの陳腐な作り話になってしまう。[pcms]
 
 *5492|
 [fc]
-No, this isn't a made-up story. This is my reality.[pcms]
+いや、これは作り話じゃない。[r]
+これはボクの現実だ。[pcms]
 
 *5493|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5494|
 [fc]
-Still, my mind is a mess and I can't think of what to do at[r]
-all.[pcms]
+やっぱり、頭の中がぐちゃぐちゃで[r]
+どうしていいのかが、さっぱり思いつかない。[pcms]
 
 ;//se023・携帯のバイブ音
 [se buf=0 storage="se023" loop=true]
@@ -128,33 +128,32 @@ all.[pcms]
 
 *5495|
 [fc]
-[ns]Wataru[nse]
-"Uwaa..."[pcms]
+[ns]航[nse]
+「うわぁ……」[pcms]
 
 *5496|
 [fc]
-As if to hurry me to make a decision, my cellphone vibrates.[pcms]
+まるでボクの決断を促してせかすようにケータイが震える。[pcms]
 
 *5497|
 [fc]
-If I fearfully peek at it, the display indeed says "Yuuho".[pcms]
+恐る恐るのぞきこめば、その表示はやっぱり『悠帆』だった。[pcms]
 
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ２
-;//２１：出る→ブロック４２１３０へ
-;//２２：出ない→ブロック４２１００へ
+;//●選択肢Ｃ－２
+;//２－１：出る→ブロック４２１３０へ
+;//２－２：出ない→ブロック４２１００へ
 
 
 ;	[link storage="42090.ks" target=*01]出る[endlink]
-; (link storage="42100.ks" target=*42100_TOP)Don't[r]
-answer(endlink)[pcms]
+;	[link storage="42100.ks" target=*42100_TOP]出ない[endlink][s]
 
 *SEL36|出る／出ない
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'To leave / To exit'"]
-[eval exp="f.seltext04 = 'I won\'t go out'"]
+[eval exp="f.seltext02 = '出る'"]
+[eval exp="f.seltext04 = '出ない'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

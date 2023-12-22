@@ -18,8 +18,7 @@
 
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]緒織とセックスした[endlink]
-(link target=*scene_selend)I didn't have sex with[r]
-Inori(endlink)[pcms]
+;	[link target=*scene_selend]緒織とセックスしていない[endlink][s]
 
 	[call storage="_scene_sel.ks" target=*scene_sel_iori]
 
@@ -46,32 +45,33 @@ Inori(endlink)[pcms]
 
 *2987|
 [fc]
-I should have run away yesterday. Despite the dazzling and[r]
-refreshing morning sun streaming through the window, my[r]
-heart remained clouded.[pcms]
+やっぱり昨日、逃げなきゃよかった。[r]
+窓からは眩しく、爽やかな朝日が差し込んでいると言うのに、[r]
+ボクの心は曇ったままだった。[pcms]
 
 *2988|
 [fc]
-... ...[pcms]
+…………。[r]
+……。[pcms]
 
 *2989|
 [fc]
-Surely, after that... Yuuho and Senpai...[pcms]
+きっと、悠帆と先輩はあのあと……。[pcms]
 
 *2990|
 [fc]
-No good. My feelings are sinking deeper and deeper...[pcms]
+駄目だ。[r]
+気持ちがどんどん沈んでいく……。[pcms]
 
 *2991|
 [fc]
-I don't want to get out of bed anymore. I just want to sleep[r]
-in my house forever.[pcms]
+もうこのまま、ベッドから起き上がりたくない。[r]
+ずっとこのまま、家の中で寝ていたい。[pcms]
 
 *2992|
 [fc]
-Trying to escape the brightness of the morning sun, I burrow[r]
-into the sheets and close my eyes tightly, and my[r]
-consciousness begins to drift away again.[pcms]
+朝日の眩しさから逃れようと、シーツに潜り込み、[r]
+目をきつく閉じると、ボクの意識は再び遠のいていく。[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -90,11 +90,12 @@ consciousness begins to drift away again.[pcms]
 
 *2993|
 [fc]
-But... I did have sex with Inori-san...[pcms]
+だけど……。[r]
+ボクも、緒織さんとエッチしたんだよな……。[pcms]
 
 *2994|
 [fc]
-Ah, I don't care about anything anymore...[pcms]
+ああ、もう全部、どうでもいいや……。[pcms]
 
 ;//jump；ラベル「sexしていない２」へ
 [jump storage="B_0002.ks" target=*02]
@@ -108,62 +109,63 @@ Ah, I don't care about anything anymore...[pcms]
 
 *2995|
 [fc]
-[ns]Wataru[nse]
-"Ah, as I thought..."[pcms]
+[ns]航[nse]
+「ああ、やっぱりか……」[pcms]
 
 *2996|
 [fc]
-In front of me, Yuuho is with Senpai...[pcms]
+ボクの目の前で悠帆が、先輩と……。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2997|
 [fc]
 [vo_yuh s="yuho0110"]
-[ns]Yuuho[nse]
-"Ahn, Oshima-senpai is... kufuu, entering, he's coming in"[pcms]
+[ns]悠帆[nse]
+「あんっ、大嶋先輩が……くふぅう、入って、[r]
+　入ってきちゃう」[pcms]
 ;//ボイスはブロック20020のものを流用
 
 ;[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *2998|
 [fc]
-[ns]Oshimi[nse]
-"It feels amazing. Inside of Yuuho, it's irresistible"[pcms]
+[ns]大嶋[nse]
+「すごい気持ちいいよ。悠帆の中、たまらない」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2999|
 [fc]
 [vo_yuh s="yuho0111"]
-[ns]Yuuho[nse]
-"Se-Senpai too, it feels good. It feels good... Ah, ahn![r]
-Oshima-senpai"[pcms]
+[ns]悠帆[nse]
+「せ、先輩もき、気持ちいい。気持ちいい……[r]
+　あっ、あんっ！　大嶋先輩」[pcms]
 ;//ボイスはブロック20020のものを流用
 
 ;[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *3000|
 [fc]
-[ns]Oshimi[nse]
-"I'm going to cum. Is it okay if I do it?"[pcms]
+[ns]大嶋[nse]
+「出る。出してもいいか？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3001|
 [fc]
 [vo_yuh s="yuho0112"]
-[ns]Yuuho[nse]
-"Nnfuuu, do it, Senpai. Inside me, fill me up with Oshima-[r]
-senpai's cum~"[pcms]
+[ns]悠帆[nse]
+「んっふぅうう、だ、出して、先輩。[r]
+　わたしの、わたしの中に、大嶋先輩の精子、いっぱい出して～」[pcms]
 ;//ボイスはブロック20020のものを流用
 
 ;[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *3002|
 [fc]
-[ns]Oshimi[nse]
-"Yuuho!"[pcms]
+[ns]大嶋[nse]
+「悠帆っ！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV013b"]
@@ -173,8 +175,9 @@ senpai's cum~"[pcms]
 *3003|
 [fc]
 [vo_yuh s="yuho0113"]
-[ns]Yuuho[nse]
-"Hiuu! Se-Semen, so much semen is coming out uunn"[pcms]
+[ns]悠帆[nse]
+「ひぅうっ！　せ、精子、精子いっぱい[r]
+　いっぱい出てるぅううんっ」[pcms]
 ;//ボイスはブロック20020のものを流用
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
@@ -191,45 +194,44 @@ senpai's cum~"[pcms]
 
 *3004|
 [fc]
-[ns]Wataru[nse]
-"Nn..."[pcms]
+[ns]航[nse]
+「ん……」[pcms]
 
 *3005|
 [fc]
-Was it a dream...?[pcms]
+夢か……。[pcms]
 
 *3006|
 [fc]
-I must have seen a strange dream because I've been worrying[r]
-too much.[pcms]
+色々悩みすぎるから、ヘンな夢を見てしまったんだろう。[pcms]
 
 *3007|
 [fc]
-But that was probably reality too...[pcms]
+だけど、あれは現実でも、きっと……。[pcms]
 
 ;//SE:ガタガタ
 
 *3008|
 [fc]
-[ns]Wataru[nse]
-"What? Is someone there... Wait, what time is it!? Oh no![r]
-I'm just in time for the meeting!"[pcms]
+[ns]航[nse]
+「なんだ？　だれかいるのかな……って、もうこんな時間！？[r]
+　ヤバイ！　集合時間ギリギリだ！」[pcms]
 
 *3009|
 [fc]
-I jumped out of bed, got ready, and tried to head outside.[r]
-But my zipper wouldn't go up easily. Because of that dream,[r]
-my dick was about to burst.[pcms]
+ベッドから跳ね起き、身支度を調え外へ出ようとした。[r]
+だけど、ズボンのチャックがなかなか上がらない。[r]
+さっきの夢のせいで、ボクのがはち切れそうになっていた。[pcms]
 
 *3010|
 [fc]
-[ns]Wataru[nse]
-"Haah... How pathetic..."[pcms]
+[ns]航[nse]
+「はぁ……。情けない……」[pcms]
 
 *3011|
 [fc]
-Overwhelmed by sadness, I ran to the living room to wash my[r]
-face while holding my crotch.[pcms]
+哀しい気持ちに襲われ、股間を押さえながら顔を洗うため、[r]
+リビングへと走った。[pcms]
 
 ;//〆ＢＧ：主人公自宅・ダイニング
 [bg storage="BG012a"][trans_c cross time=500]
@@ -237,37 +239,36 @@ face while holding my crotch.[pcms]
 
 *3012|
 [fc]
-After brushing my teeth and washing my face in a big hurry,[r]
-I ran to the entrance while combing my hair with my hands[r]
-like an old shoujo manga protagonist.[pcms]
+大慌てで歯磨き、洗顔を終えたボクは、古い少女漫画の主人公の[r]
+様に、髪を手でとかしながら玄関へと走る。[pcms]
 
 *3013|
 [fc]
-I shouldn't have gone back to sleep... Stupid me![pcms]
+二度寝なんてするモンじゃない……。[r]
+ボクのバカ！[pcms]
 
 *3014|
 [fc]
-It's too late to admonish myself now. But all I can do now[r]
-is hurry to the meeting place.[pcms]
+今さら自分を戒めても遅い。[r]
+だけど、今ボクができる事は、急いで集合場所へと向かう事だけ。[pcms]
 
 *3015|
 [fc]
-Even so, it's been one hectic morning. It's all my fault[r]
-though...[pcms]
+それにしても、今日は朝からバタバタしてる。[r]
+全部、自分のせいだけど……。[pcms]
 
 *3016|
 [fc]
-The moment I was about to leave the living room, I sensed[r]
-someone's presence. There shouldn't be anyone else here, so[r]
-who could it be...?[pcms]
+リビングを出ようとした瞬間、人の気配を感じた。[r]
+誰もいないはずなのに、一体……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3017|
 [fc]
 [vo_ren s="ren0369"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「…………」[pcms]
 ;//ren0369.wav
 ;//立ちキャラはボロボロになり、バイオリンケースを抱えている漣
 
@@ -276,84 +277,84 @@ who could it be...?[pcms]
 
 *3018|
 [fc]
-[ns]Wataru[nse]
-"Ren...? Wh-What's with that outfit!?"[pcms]
+[ns]航[nse]
+「漣……？　なっ、何だその格好！？」[pcms]
 
 *3019|
 [fc]
-Standing before me with a vacant expression, Ren looked as[r]
-if she had been in an accident, her whole body battered and[r]
-torn.[pcms]
+ぼんやりとした顔で、ボクの前に立つ漣は、[r]
+まるで事故にでも遭ったかのように全身がボロボロになっていた。[pcms]
 
 *3020|
 [fc]
-Moreover, her body was smeared with a white liquid.[pcms]
+それに、身体中に白い液体がこびりついていた。[pcms]
 
 *3021|
 [fc]
-A smell I've encountered somewhere before... It smells like[r]
-semen...[pcms]
+どこかで嗅いだことがある匂い……。[r]
+精液の匂いがする……。[pcms]
 
 *3022|
 [fc]
-But why Ren?[pcms]
+だけど、どうして漣が？[pcms]
 
 *3023|
 [fc]
-Words like "accident" and "rape" raced through my mind.[pcms]
+ボクの頭の中を、『事故』や『レイプ』といった言葉が駆け巡る。[pcms]
 
 *3024|
 [fc]
-[ns]Wataru[nse]
-"Re-Ren!! Are you okay!! Hang in there!! Ren!"[pcms]
+[ns]航[nse]
+「れ、漣！！　大丈夫か！！　しっかりしろ！！　漣！」[pcms]
 
 *3025|
 [fc]
-Shocked by the sight of Ren before me, I had completely[r]
-forgotten about the meeting time.[pcms]
+目の前の漣の姿にショックを受けたボクはもう、[r]
+集合時間の事なんか、すっかり忘れてしまっていた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3026|
 [fc]
 [vo_ren s="ren0230"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「…………」[pcms]
 ;//ren0230.wav
 
 *3027|
 [fc]
-[ns]Wataru[nse]
-"Ren! What happened to you!? Uwah!!"[pcms]
+[ns]航[nse]
+「漣！　どうしたんだよ一体！　う、うわっ！！」[pcms]
 
 [fadeoutbgm time=500]
 
 *3028|
 [fc]
-Ren's slender arms grabbed mine.[pcms]
+漣の細い腕が、ボクの腕を掴む。[pcms]
 
 *3029|
 [fc]
-No, it would be more accurate to say she was gripping them.[pcms]
+いや、握る、と言った方が正しいかも知れない。[pcms]
 
 *3030|
 [fc]
-Despite being so battered. Despite her slender arms.[pcms]
+こんなにボロボロなのに。[r]
+細い腕なのに。[pcms]
 
 *3031|
 [fc]
-The strength in Ren's grip on my arm was unimaginable for a[r]
-girl's.[pcms]
+ボクの腕を握る漣の力は、[r]
+とても女の子のものとは思えない程の力だった。[pcms]
 
 *3032|
 [fc]
-With the strength of a vise grip and Ren's appearance, I was[r]
-rendered immobile.[pcms]
+まるで万力にでも締めつけられるかのようなその力と、[r]
+漣の姿にボクは身動きできなくなってしまっていた。[pcms]
 
 *3033|
 [fc]
-With wide eyes, all I could do was stare straight at Ren as[r]
-I was pushed down to the floor.[pcms]
+目を見開き、ただ真っ直ぐ漣を見つめる事しかできないボクは、[r]
+そのまま床に押し倒されてしまった。[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -366,10 +367,10 @@ I was pushed down to the floor.[pcms]
 
 *3034|
 [fc]
-[ns]Wataru[nse]
-"Ren... hang in there! What on earth happened!? That's[r]
-right... we need to go to the hospital... no, the police!?[r]
-Calm down... Ren!"[pcms]
+[ns]航[nse]
+「漣……しっかりしろ！　いったい何があったんだ！？[r]
+　そ、そうだ……すぐ病院に……いや、警察か！？[r]
+　落ち着け……漣！」[pcms]
 
 *LABEL_MEMORIES_START
 [evcg storage="HEV052a"][trans_c cross time=300]
@@ -380,141 +381,143 @@ Calm down... Ren!"[pcms]
 *3035|
 [fc]
 [vo_ren s="ren0348"]
-[ns]Ren[nse]
-"Brother... It's brother..."[pcms]
+[ns]漣[nse]
+「おにい……ちゃん……。おにいちゃんだ……」[pcms]
 ;//ren0348.wav
 
 *3036|
 [fc]
-[ns]Wataru[nse]
-"Wha... stop, Ren...! What are you thinking? Did you hit[r]
-your head or something?!"[pcms]
+[ns]航[nse]
+「なっ……や、やめろ漣……！　何考えてるんだ？[r]
+　やっぱり頭でも打ったのか！？」[pcms]
 
 *3037|
 [fc]
-Ren, breathing heavily, began to unzip my pants and, like an[r]
-actress from an erotic DVD, started to fondle both her[r]
-crotch and mine with a bewitching expression.[pcms]
+漣は息を荒くして、ボクのズボンのチャックをおろし[r]
+エロＤＶＤで見た女優の様に、妖しい表情をしながら、[r]
+自分の股間と、ボクの股間をまさぐり始めた。[pcms]
 
 *3038|
 [fc]
-Despite the situation, my thing was still swelling up as if[r]
-it was about to burst.[pcms]
+こんな状況だというのに、ボクのモノは大きくはち切れそうに[r]
+なっているままだった。[pcms]
 
 *3039|
 [fc]
-It wasn't because I was aroused by Ren, but because of the[r]
-dream I had earlier. However, in this situation, it clearly[r]
-looked like I was excited by Ren.[pcms]
+漣に欲情した訳じゃなくて、さっきの夢のせいだけど、[r]
+この状況だと、明らかボクが漣に対して興奮している様にしか[r]
+見えない。[pcms]
 
 *3040|
 [fc]
 [vo_ren s="ren_RK0073"]
-[ns]Ren[nse]
-"My cute, cute big brother... I love you so much, big[r]
-brother... I'll do whatever you desire..."[pcms]
+[ns]漣[nse]
+「可愛い可愛いお兄ちゃぁぁん……。だぁぁぁい好きな、[r]
+　お兄ちゃん……。お兄ちゃんの望むままに……して、[r]
+　あげるぅぅ……」[pcms]
 ;//ren_RK0073.wav
 
 *3041|
 [fc]
-Ren...? What on earth happened to you...?[pcms]
+れ、漣……？[r]
+一体どうしたっていうんだ……？[pcms]
 
 *3042|
 [fc]
-[ns]Wataru[nse]
-"No, this is wrong! We need to get to the hospital[r]
-quickly... Uwah...!"[pcms]
+[ns]航[nse]
+「ちっ、ちがう！　これは違うんだ！　それより早く病院に……。[r]
+　うあっ……！」[pcms]
 
 *3043|
 [fc]
 [vo_ren s="ren_RK0029"]
-[ns]Ren[nse]
-"...Big brother... what's wrong?"[pcms]
+[ns]漣[nse]
+「…………お兄ちゃぁぁん……どうしたのぉぉ？」[pcms]
 ;//ren_RK0029.wav
 
 *3044|
 [fc]
-It feels good... No! That's not it...![pcms]
+気持ち良い……。[r]
+いや！　そうじゃなくて……！[pcms]
 
 *3045|
 [fc]
-When I suddenly came to my senses and looked at Ren's body,[r]
-the white liquid was indeed "semen."[pcms]
+ふと冷静になって、漣の身体を見ると、白い液体はやはり[r]
+『精液』そのものだった。[pcms]
 
 *3046|
 [fc]
-The amount of semen on her body was more than one person[r]
-could produce, sticking to her everywhere.[pcms]
+一人が出したとは思えない量の精液が、身体の至る所に、[r]
+精液がべっとりとこびりついている。[pcms]
 
 *3047|
 [fc]
-Which means, Ren was... by multiple men...[pcms]
+と、言う事は、漣は何人もの男に……。[pcms]
 
 *3048|
 [fc]
-[ns]Wataru[nse]
-"Ren... you!! Could it be, ra... ra..."[pcms]
+[ns]航[nse]
+「漣……お前！！　もしかして、レ……レイ……」[pcms]
 
 *3049|
 [fc]
-This situation clearly indicates that Ren has been violated[r]
-by someone.[pcms]
+この状態は、明らかに、漣が誰かに犯されたとしか思えない。[pcms]
 
 *3050|
 [fc]
-A shock ran through my head as if it had been struck hard[r]
-with a hammer, and I felt like I was about to lose[r]
-consciousness.[pcms]
+ボクの頭をハンマーで思いっきり殴りつけた様な衝撃が走り、[r]
+意識が飛びそうになってしまった。[pcms]
 
 *3051|
 [fc]
-Even though I knew it was wrong... my eyes still drifted[r]
-towards Ren's crotch.[pcms]
+悪いと思ったけど……。[r]
+それでもボクの目は、漣の股間へと向いてしまう。[pcms]
 
 *3052|
 [fc]
-Then, as if sensing my gaze, Ren spread open her beautifully[r]
-shaded slit with her fingers and showed it to me.[pcms]
+すると漣は、ボクの視線を感じ取ったのか、[r]
+柔らかな陰りに包まれた優美な割れ目を[r]
+指で押し開いてボクに見せる。[pcms]
 
 [evcg storage="HEV053e"][trans_c cross time=300]
 
 *3053|
 [fc]
 [vo_ren s="ren0406"]
-[ns]Ren[nse]
-"I kept it safe... Look closely, big brother... There's not[r]
-a single scratch on my pussy..."[pcms]
+[ns]漣[nse]
+「ちゃんと守りきったよ……。よく見て、お兄ちゃん……。[r]
+　私のアソコは傷ひとついてないよ……」[pcms]
 ;//ren0406.wav
 
 *3054|
 [fc]
-It's unthinkable for Ren to do something like this. I must[r]
-still be dreaming.[pcms]
+漣がこんなことするなんて。[r]
+ボクはまだ夢を見ているんだ。[pcms]
 
 *3055|
 [fc]
-If I don't think that way, I feel like I'm going to lose my[r]
-mind.[pcms]
+そうでも思わなければ、頭がおかしくなってしまいそうだ。[pcms]
 
 *3056|
 [fc]
-[ns]Wataru[nse]
-"Ren! Re-ren!!!!!!!! Stop doing this already! Ugh... Uwah!!"[pcms]
+[ns]航[nse]
+「漣！　れーん！！！！！！！！！！[r]
+　もう、こんな事やめろっ！　うっ……うぁっ！！」[pcms]
 
 *3057|
 [fc]
-But...[pcms]
+だけど……。[pcms]
 
 *3058|
 [fc]
-Despite not understanding the situation, my thing was not[r]
-wilting; instead, it was getting even harder.[pcms]
+訳が分からない状態だと言うにも関わらず、ボクのモノは[r]
+萎えるどころか、さらに固さを増していく。[pcms]
 
 *3059|
 [fc]
 [vo_ren s="ren0815"]
-[ns]Ren[nse]
-"Ufufufu"[pcms]
+[ns]漣[nse]
+「うふふふ～っ」[pcms]
 ;//ren0815.wav
 
 ;//〆HEV013B
@@ -522,117 +525,116 @@ wilting; instead, it was getting even harder.[pcms]
 
 *3060|
 [fc]
-With a bewitching smile, she began to stroke my thing with[r]
-just the right amount of strength, as opposed to the[r]
-monstrous force from before.[pcms]
+妖しい微笑みを向けながら、それまでの怪力から、[r]
+絶妙な程の力加減で、モノをしごき始めた。[pcms]
 
 *3061|
 [fc]
-[ns]Wataru[nse]
-"Kuh... Uwah!! No, stop it, Ren!"[pcms]
+[ns]航[nse]
+「くっ……うぁっ！！　だっ、駄目だ、漣！」[pcms]
 
 *3062|
 [fc]
 [vo_ren s="ren0399"]
-[ns]Ren[nse]
-"I've always loved you so much, big brother..."[pcms]
+[ns]漣[nse]
+「私はずっと、お兄ちゃんのことが大好きだったんだよ……」[pcms]
 ;//ren0399.wav
 
 *3063|
 [fc]
-While fondling my crotch, Ren was furiously stirring her own[r]
-crotch-- her pussy, dyed crimson and continuously dripping[r]
-with love juices.[pcms]
+ボクの股間をまさぐりながら、漣は自分の股間――[r]
+朱色に染まって、愛液を垂れ流し続けるオマンコを、[r]
+激しく掻き回していた。[pcms]
 
 *3064|
 [fc]
 [vo_ren s="ren0229"]
-[ns]Ren[nse]
-"Ah, haaaah..."[pcms]
+[ns]漣[nse]
+「あっ、はぁああ……」[pcms]
 ;//ren0229.wav
 
 *3065|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Kuaah!! Ren..."[pcms]
+[ns]航[nse]
+「うっ……くあっ！！　漣……」[pcms]
 
 *3066|
 [fc]
-Gazing at me with a dazed expression, Ren, who was[r]
-skillfully stimulating both herself and my thing, was[r]
-clearly different from her usual self.[pcms]
+とろんとした表情でボクを見つめ、自分とボクのモノを[r]
+器用に刺激する漣は、どうみてもいつもの様子とは違っていた。[pcms]
 
 *3067|
 [fc]
-Is this a dream? But it feels good, and I can feel Ren's[r]
-weight too.[pcms]
+これは、夢だろうか？[r]
+でも、気持ち良いし、それに漣の重みも感じる｡[pcms]
 
 *3068|
 [fc]
-This isn't a dream![pcms]
+夢なんかじゃない！[pcms]
 
 *3069|
 [fc]
-I have to stop this right away... I need to take Ren to the[r]
-hospital!![pcms]
+こんな事、すぐにやめさせて……。[r]
+漣を病院に連れて行かなきゃ！！[pcms]
 
 *3070|
 [fc]
-Although I understood that in my head, my body wouldn't[r]
-listen. Maybe it was because somewhere in my heart, I wanted[r]
-to be like this with Ren.[pcms]
+頭の中ではわかっていたけど、でも身体が言う事をきかない。[r]
+心のどこかで、漣とこうなりたい、と思っていた自分が[r]
+いたからだろうか。[pcms]
 
 *3071|
 [fc]
-But there's no time to talk about such things. Ren must be[r]
-confused because of the effects of being raped.[pcms]
+だけど、そんな事を言っている余裕はない。[r]
+漣はきっと、レイプされた影響で混乱してしまっている。[pcms]
 
 *3072|
 [fc]
-We need to get to the hospital quickly; it's dangerous.[pcms]
+一刻も早く、病院に連れて行かないと危ない。[pcms]
 
 *3073|
 [fc]
-[ns]Wataru[nse]
-"Ren! Come back to your senses already! Let go of me!"[pcms]
+[ns]航[nse]
+「漣！　いい加減に正気に戻ってくれ！　手を離せっ！」[pcms]
 
 *3074|
 [fc]
 [vo_ren s="ren_KB0041"]
-[ns]Ren[nse]
-"Ahahahahahahaha, ahaha, ah-hahahahaha...!"[pcms]
+[ns]漣[nse]
+「あははははははははははっ、あははっ、[r]
+　あーっははっははっ…………！」[pcms]
 ;//ren_KB0041.wav
 
 *3075|
 [fc]
-My cries don't seem to reach her; Ren moves her hand even[r]
-faster, intensifying the stimulation.[pcms]
+ボクの叫びが届いていないのか、漣は手の動きをさらに[r]
+加速させ、刺激を強くする。[pcms]
 
 *3076|
 [fc]
-Rather than my excitement increasing, it was the physical[r]
-stimulation that brought my thing to its limit.[pcms]
+興奮が高まるというより、物理的な刺激で、ボクのモノは[r]
+もう限界に達してしまっていた。[pcms]
 
 *3077|
 [fc]
 [vo_ren s="ren0465"]
-[ns]Ren[nse]
-"Hiiiiinnn!!"[pcms]
+[ns]漣[nse]
+「ひぃいいいんっ！！」[pcms]
 ;//ren0465.wav
 
 *3078|
 [fc]
-Suddenly, it seemed Ren had reached her climax.[pcms]
+突然に、漣は絶頂を迎えたようだ。[pcms]
 
 *3079|
 [fc]
-And then, shaken by her cute voice, I couldn't hold back[r]
-what was surging up in my lower half.[pcms]
+そして、ボクもその可愛らしい声に脳が揺さぶられ、[r]
+下半身にこみ上げてきたものをこらえることができなかった。[pcms]
 
 *3080|
 [fc]
-[ns]Wataru[nse]
-"Ugh...kuuahhh!!"[pcms]
+[ns]航[nse]
+「うっ……くあぁっ！！」[pcms]
 
 ;//〆ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -640,42 +642,41 @@ what was surging up in my lower half.[pcms]
 
 *3081|
 [fc]
-My ejaculated semen began to dirty Ren's hand.[pcms]
+ボクの吐きだした精液が、漣の手を汚していく。[pcms]
 
 [evcg storage="HEV052c"][trans_c cross time=300]
 
 *3082|
 [fc]
-But Ren didn't look disgusted; panting heavily, yet she[r]
-smiled at me happily.[pcms]
+だけど漣は嫌な顔もせず、息を荒くして、でも嬉しそうに[r]
+ボクに微笑んでいた。[pcms]
 
 *3083|
 [fc]
 [vo_ren s="ren1000"]
-[ns]Ren[nse]
-"Nnn...hah...haa...haahh..."[pcms]
+[ns]漣[nse]
+「んっ……はっ……はぁ……はぁっ……」[pcms]
 ;//ren1000.wav
 
 *3084|
 [fc]
-The force with which Ren was pinning me down suddenly[r]
-lightened, as if she was basking in the afterglow,[r]
-continuing to gaze at me.[pcms]
+漣がイッてしまったせいか、ボクを押さえつけていた力は[r]
+急に軽くなり、まるで余韻に浸るかのように、[r]
+ボクを見つめ続けていた。[pcms]
 
 *3085|
 [fc]
-This is my only chance... But looking at Ren right in front[r]
-of me, it feels like all my reason is about to be blown[r]
-away.[pcms]
+今しかない……。[r]
+漣を払いのけて、すぐに病院に電話して……。[pcms]
 
 *3086|
 [fc]
-What should I do...[pcms]
+でも、今目の前にいる漣を見ていると、[r]
+理性が全て吹き飛んでしまいそうになる。[pcms]
 
 *3087|
 [fc]
-;       (link storage="B_0004.ks" target=*B_0004_TOP)It[r]
-doesn't matter anymore...(endlink)[pcms]
+ボクはどうしたら……。[pcms]
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
@@ -693,15 +694,14 @@ doesn't matter anymore...(endlink)[pcms]
 
 
 ;	[link storage="B_0003.ks" target=*B_0003_TOP]今だ！　漣を払いのける！[endlink]
-;       (link storage="B_0004.ks" target=*B_0004_TOP)It[r]
-doesn't matter anymore...(endlink)[pcms]
+;	[link storage="B_0004.ks" target=*B_0004_TOP]もう、どうでも良い……[endlink][s]
 
 *SEL59|今だ！　漣を払いのける！／もう、どうでも良い……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Now\'s my chance! I need to push Ren away!'"]
-[eval exp="f.seltext04 = 'Whatever, it doesn\'t matter anymore'"]
+[eval exp="f.seltext02 = '今だ！　漣を払いのける！'"]
+[eval exp="f.seltext04 = 'もう、どうでも良い……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

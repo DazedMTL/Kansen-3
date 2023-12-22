@@ -8,7 +8,7 @@
 ;//・視点：主人公一人称
 ;//登場人物:主人公・悠帆
 ;//時間帯：
-;//・時間：６日目（８月２０日）朝
+;//・時間：６日目（８月２０日）朝～
 ;//テキスト分量：12k
 ;//--------------------------------------------------------------------
 ;//悠帆ルート：
@@ -49,127 +49,130 @@
 *103|
 [fc]
 [vo_yuh s="yuho_TE0054"]
-[ns]Yuuho[nse]
-"Wow... it's amazing. This is the real starry sky. It's[r]
-true, what Wataru said. It's not that they aren't there,[r]
-it's just that we can't see them..."[pcms]
+[ns]悠帆[nse]
+「うわあ……凄い。これが本当の星空なんだ。[r]
+　ほんとだね。航の言ってたこと。ないんじゃなくて[r]
+　見えないだけなんだって……」[pcms]
 
 *104|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 *105|
 [fc]
-Against the backdrop of the star-filled sky, Yuuho's soft[r]
-silhouette emerged. It felt as if Yuuho was in the universe.[pcms]
+満天の星空を背景に、悠帆の柔らかいシルエットが[r]
+浮かび上がる。宇宙の中に悠帆がいるみたいに思えた。[pcms]
 
 *106|
 [fc]
-[ns]Wataru[nse]
-"It's beautiful..."[pcms]
+[ns]航[nse]
+「綺麗だ……」[pcms]
 
 [evcg storage="EV013p"][trans_c cross time=300]
 
 *107|
 [fc]
 [vo_yuh s="yuho_TE0055"]
-[ns]Yuuho[nse]
-"Yeah, really. But it's a little scary, too. When there are[r]
-so many. Looking at them, I feel like I could be sucked into[r]
-the sky, into space..."[pcms]
+[ns]悠帆[nse]
+「うん、本当に。でも、ちょっと恐いぐらいだね。[r]
+　こんなにあると。見てるとなんだか、空に、宇宙に[r]
+　吸い込まれていきそう……」[pcms]
 
 *108|
 [fc]
 [vo_yuh s="yuho_TE0056"]
-[ns]Yuuho[nse]
-"Hey, Wataru. Can you see the star you wanted to see now?"[pcms]
+[ns]悠帆[nse]
+「ねえ、航。今なら航が見たかった星、見える？」[pcms]
 
 *109|
 [fc]
-Yuuho, who had been looking up at the starry sky, turned[r]
-around to look at me. I involuntarily caught my breath.[pcms]
+星空を見上げていた悠帆は振り返ってボクを見た。[r]
+ボクは思わず息を呑んだ。[pcms]
 
 *110|
 [fc]
 [vo_yuh s="yuho_TE0057"]
-[ns]Yuuho[nse]
-"Well? Can you see it?"[pcms]
+[ns]悠帆[nse]
+「どお？　見える？」[pcms]
 
 *111|
 [fc]
-[ns]Wataru[nse]
-"Yeah. I can see it. I'm looking at it right now..."[pcms]
+[ns]航[nse]
+「うん。見える。見えてる。今、見てる……」[pcms]
 
 *112|
 [fc]
 [vo_yuh s="yuho_TE0058"]
-[ns]Yuuho[nse]
-"Eh...?"[pcms]
+[ns]悠帆[nse]
+「え……？」[pcms]
 
 [evcg storage="EV013q"][trans_c cross time=300]
 
 *113|
 [fc]
-I approached Yuuho and gazed at her intently. Yuuho looked[r]
-back at me with a slightly surprised expression.[pcms]
+ボクは悠帆に近付き、じっと見つめた。[r]
+悠帆が少し驚いた顔で、ボクを見つめ返してきた。[pcms]
 
 *113a|
 [fc]
-[ns]Wataru[nse]
-"The star I wanted to see, I'm looking at it now. Right in[r]
-front of me. I've always loved it. I've always loved Yuuho."[pcms]
+[ns]航[nse]
+「ボクの見たかった星、それをボクは今見てるよ。[r]
+　目の前に。ずっと好きだった。ボクは、ずっと[r]
+　悠帆の事が好きだった」[pcms]
 
 *114|
 [fc]
-[ns]Wataru[nse]
-"The star I want to see. The star I want to keep watching[r]
-and never lose sight of. That is... Yuuho."[pcms]
+[ns]航[nse]
+「ボクが見たい星。見続けて、見失いたくない星。[r]
+　それは……悠帆のことなんだ」[pcms]
 
 [evcg storage="EV013s"][trans_c cross time=300]
 
 *115|
 [fc]
 [vo_yuh s="yuho_TE0059"]
-[ns]Yuuho[nse]
-"...Wataru..."[pcms]
+[ns]悠帆[nse]
+「……航……」[pcms]
 
 *116|
 [fc]
-[ns]Wataru[nse]
-"I don't want to lose sight of it. I want to keep looking at[r]
-it forever. I want to make it mine..."[pcms]
+[ns]航[nse]
+「見失いたくない。ずっと、いつまでも見ていたい。[r]
+　ボクのものに……したいんだ……」[pcms]
 
 *117|
 [fc]
-Yuuho didn't say anything... But while looking into my eyes,[r]
-she nodded her head gently in agreement.[pcms]
+悠帆は、何も答なかった。[r]
+……でも、ボクの目を見ながら、こっくりと首を縦に振って[r]
+うなずいてくれた。[pcms]
 
 ;//〆EV013
 [evcg storage="EV013r"][trans_c cross time=300]
 
 *118|
 [fc]
-I gently placed my hand on Yuuho's cheek and softly pressed[r]
-my lips against hers.[pcms]
+ボクは悠帆の頬にそっと手を添えて、悠帆の唇にボクの唇を[r]
+優しく重ねた。[pcms]
 
 [evcg storage="EV013r"][trans_c cross time=300]
 
 *119|
 [fc]
 [vo_yuh s="yuho_TE0060"]
-[ns]Yuuho[nse]
-"Ah... mmm... chu... mmm."[pcms]
+[ns]悠帆[nse]
+「あ……ん……ちゅっ……んんっ」[pcms]
 
 *120|
 [fc]
 [vo_yuh s="yuho_TE0061"]
-[ns]Yuuho[nse]
-"Chu... mmm..."[pcms]
+[ns]悠帆[nse]
+「ちゅ……んっ……」[pcms]
 
 *121|
 [fc]
-Yuuho hesitantly, but firmly, responded to my kiss.[pcms]
+悠帆はおずおずと、でもしっかりとボクのキスに[r]
+応えてくれていた。[pcms]
 
 
 
@@ -188,25 +191,25 @@ Yuuho hesitantly, but firmly, responded to my kiss.[pcms]
 
 *122|
 [fc]
-Even after our lips parted, I held onto Yuuho's hand[r]
-tightly, making sure not to let go.[pcms]
+唇を離してからも、ボクはしっかり悠帆の手を、[r]
+離さないようにしっかりと握っていた。[pcms]
 
 *123|
 [fc]
-Before we knew it, several lights had come on. Looking[r]
-around while holding hands with Yuuho, lights had come back[r]
-on places like Celesta Tower and Mark City.[pcms]
+いつの間にか、いくつかの灯りがともっていた。[r]
+悠帆と手をつなぎながら見回すと、セレスタワーや[r]
+マークシティなんかに灯りがよみがえっていた。[pcms]
 
 *124|
 [fc]
-There might be some backup power sources. While thinking[r]
-about such things, I looked up at the sky again. Yuuho,[r]
-influenced by me, also looked up.[pcms]
+予備電源なんかがあるかもしれない。ふっとそんな事を[r]
+考えながらボクはまた空を仰ぎ見た。[r]
+悠帆もボクにつられて、一緒に空を仰ぎ見る。[pcms]
 
 *125|
 [fc]
-The stars were still shining. But the beauty from before was[r]
-no longer felt.[pcms]
+まだいくつもの星が輝いていた。でも、さっきまでの[r]
+美しさは感じられない。[pcms]
 
 [evcg storage="EV013p"][trans_c cross time=300]
 
@@ -215,18 +218,18 @@ no longer felt.[pcms]
 *126|
 [fc]
 [vo_yuh s="yuho_TE0062"]
-[ns]Yuuho[nse]
-"They've become a little harder to see..."[pcms]
+[ns]悠帆[nse]
+「少し見えなくなっちゃったね……」[pcms]
 
 *127|
 [fc]
-[ns]Wataru[nse]
-"Yeah... but that's okay now."[pcms]
+[ns]航[nse]
+「うん……でも、もういいんだ」[pcms]
 
 *128|
 [fc]
-I have my own star. The star I always wanted to keep[r]
-watching is still shining beside me, unchanged.[pcms]
+ボクはボクだけの星。ずっと見続けていたい星が[r]
+ボクの傍で、変わらず輝いていたから。[pcms]
 
 
 ;システムボタン＆ウィンドウ消去
@@ -249,20 +252,20 @@ watching is still shining beside me, unchanged.[pcms]
 
 *129|
 [fc]
-I laid down the sofa bed and gently laid Yuuho down on it.[r]
-Enjoying the swell of Yuuho's breasts through her clothes, I[r]
-caressed them. Yuuho's body reacted with a sweet sigh.[pcms]
+ボクはソファベッドを倒して、悠帆を優しく横たえた。[r]
+服の上から悠帆のおっぱいの膨らみを楽しみ、撫で回す。[r]
+悠帆の身体はぴくんと反応して甘い吐息をついた。[pcms]
 
 *130|
 [fc]
-The well-trained supple muscles. The beautifully toned legs[r]
-were gently stroked by my palms.[pcms]
+鍛えられたしなやかな筋肉。引き締まった綺麗な足を[r]
+そっと手のひらでなであげた。[pcms]
 
 *131|
 [fc]
-I lifted up her skirt and took off Yuuho's panties. Yuuho[r]
-lifted her hips to help me, and I was looking at Yuuho's[r]
-pussy right in front of me.[pcms]
+スカートをめくりあげて、悠帆の下着を脱がす。[r]
+悠帆も腰を上げて協力してくれて、ボクは目の前に[r]
+悠帆のアソコを見ていた。[pcms]
 
 
 *LABEL_MEMORIES_START
@@ -276,23 +279,22 @@ pussy right in front of me.[pcms]
 
 *132|
 [fc]
-The plump mound of Yuuho's mons pubis was beautifully[r]
-groomed without a single stray hair and was smooth. The[r]
-valley below was slightly moistened.[pcms]
+ふっくらと盛り上がった悠帆の恥丘。[r]
+綺麗にむだ毛一本なく処理されて、つるんとしていた。[r]
+その丘の下の谷間は、うっすらと潤んでいた。[pcms]
 
 *133|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... you're so beautiful..."[pcms]
+[ns]航[nse]
+「悠帆……すごく綺麗だ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *134|
 [fc]
 [vo_yuh s="yuho_TE0063"]
-[ns]Yuuho[nse]
-"No... it's embarrassing, Wataru. Don't look at me like[r]
-that..."[pcms]
+[ns]悠帆[nse]
+「やだ……、恥ずかしいよ、航。そんなに見ないで……」[pcms]
 
 ;//♂_差分があるのなら、ここで股間に顔を埋める航登場。
 
@@ -303,125 +305,126 @@ that..."[pcms]
 *135|
 [fc]
 [vo_yuh s="yuho0945"]
-[ns]Yuuho[nse]
-"Fuaaahhh!!"[pcms]
+[ns]悠帆[nse]
+「ふあああっっ！！」[pcms]
 
 *136|
 [fc]
-I buried my face in that moisture as if invited by it. A[r]
-sweet scent. When I slipped my tongue into the valley, a[r]
-slippery juice flowed out.[pcms]
+ボクはその潤いに誘われるままに、谷間に顔を埋めた。[r]
+甘い香り。舌を谷間に差し込むと、とろんとぬめりの[r]
+ある汁が流れてきた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *137|
 [fc]
 [vo_yuh s="yuho0946"]
-[ns]Yuuho[nse]
-"Nnah... aah... ah, no... uahn!"[pcms]
+[ns]悠帆[nse]
+「んあっ……ああっ……あっ、やっ……うあっんっ！」[pcms]
 
 *138|
 [fc]
-[ns]Wataru[nse]
-"Njuru... nrelo... jujuju..."[pcms]
+[ns]航[nse]
+「んぢゅるっ……んれろっ……ぢゅぢゅぢゅっ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *139|
 [fc]
 [vo_yuh s="yuho0947"]
-[ns]Yuuho[nse]
-"Hiah... aahh... Wataru... aahhkuh! Ahhii... ii...[r]
-fuaahnnaahhaah..."[pcms]
+[ns]悠帆[nse]
+「ひあっ……ああぁっ……わ、航ぅ……ああっくうっ！[r]
+　あっいっ……いっ……ふああんっああっあっ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *140|
 [fc]
 [vo_yuh s="yuho0948"]
-[ns]Yuuho[nse]
-"Ahhii... Wataruuh, so, so much... akuh... sa, if you do[r]
-that... aahhaaiii!"[pcms]
+[ns]悠帆[nse]
+「あっいっ……わ、たるぅっ、そ、そんなにぃ……[r]
+　あくぅ……さ、された……らああっああいいいっ！」[pcms]
 
 *141|
 [fc]
-Yuuho's pussy was being licked and sucked by me, melting[r]
-more and more into a slippery state. It was dyed a deep pink[r]
-color and glistened wetly.[pcms]
+悠帆のアソコ。ボクに舐められて、吸われて、どんどん[r]
+とろとろに溶けてくる。[r]
+濃いピンク色に染まって、てらてらと光っている。[pcms]
 
 *142|
 [fc]
-The elastic mound of her mons pubis quivered slightly and[r]
-urged me on. Right below that mound was a small protrusion[r]
-peeking out. I focused on teasing that clitoris intensely.[pcms]
+弾力のある恥丘。ぷるぷると少し震えてボクを促す肉の丘。[r]
+その丘のすぐ下にあるちょこんと顔を出している突起。[r]
+ボクは集中的にそのクリトリスを責めたてた。[pcms]
 
 *143|
 [fc]
-[ns]Wataru[nse]
-"Jujujjuuu... rerorerorounjurul"[pcms]
+[ns]航[nse]
+「ぢゅぢゅぢゅぅうぅ……れろれろれろぅんぢゅるっ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *144|
 [fc]
 [vo_yuh s="yuho0949"]
-[ns]Yuuho[nse]
-"Hiaahh...! No... stop... ahii! There... it's amazing...[r]
-aahhii... feels good! So... so much... sa, if you do that...[r]
-nhiaaahhh!"[pcms]
+[ns]悠帆[nse]
+「ひああっ……！　やっ……だっ……めっ……あひぃいっ！[r]
+　そこっ……凄いっ……ああっいいっ……気持ち……いっ！[r]
+　そっ……そんな……にぃ……さ、されっんひああぁっっっ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *145|
 [fc]
 [vo_yuh s="yuho_TE0069"]
-[ns]Yuuho[nse]
-"No... ahhaaahh! Noo! Aahhiiii, Wataru! Mo, more... wata...[r]
-shii is going crazyy... aahhaaahh!"[pcms]
+[ns]悠帆[nse]
+「だっ……めぇえ……あっ、あああっっ！　だっ、めぇっ！[r]
+　ああひぃいいっ、航っっ！　も、もっ……わた……しぃっ[r]
+　おかし……く……なっ……っちゃああっっ……ああっ！」[pcms]
 
 *146|
 [fc]
-My dick grew harder with each increase in Yuuho's wetness,[r]
-ready to release a hot mass from deep within. I wanted to[r]
-make Yuuho feel even better, but I couldn't hold back.[pcms]
+ボクのモノは悠帆の湿り気が増す度に、硬さを増し、[r]
+奥のほうから熱い固まりを吹き出そうとしてくる。[r]
+悠帆をもっと気持ちよくさせたいけれど、我慢できない。[pcms]
 
 ;//〆HEV070
 [evcg storage="HEV045h"][trans_c cross time=300]
 
 *147|
 [fc]
-I lifted Yuuho up and turned her around. Her well-shaped,[r]
-toned butt. Yuuho's butt that I always admired was now[r]
-dripping with slick juices.[pcms]
+ボクは、悠帆を抱き起こし、後ろを向かせた。[r]
+形の良い、引き締まったお尻。いつも……眺めていた[r]
+悠帆のお尻。今はぬらぬらとした汁が滴っている。[pcms]
 
 *148|
 [fc]
-If it was from behind, it would be easier to aim... That's[r]
-what I thought.[pcms]
+後ろからだったら、狙いを定めやすいだろうと……[r]
+ボクはそう思っていた。[pcms]
 
 *149|
 [fc]
-I aligned the tip of my dick with Yuuho's pussy. Rubbing it[r]
-slightly and spreading Yuuho's slickness onto my dick for[r]
-better lubrication, I aimed carefully.[pcms]
+悠帆のアソコにボクのモノの先っぽをあてがう。[r]
+少しずりずりと擦り、悠帆のぬめりをボクのモノにまとわり[r]
+つかせ、滑りをよくして狙いを定めた。[pcms]
 
 *150|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... I'm going to insert it..."[pcms]
+[ns]航[nse]
+「悠帆……挿れるよ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *151|
 [fc]
 [vo_yuh s="yuho_TE0070"]
-[ns]Yuuho[nse]
-"...uh... okay..."[pcms]
+[ns]悠帆[nse]
+「……う……うん……」[pcms]
 
 *152|
 [fc]
-I placed my hands on Yuuho's butt and tried to thrust into[r]
-her pussy in one go...[pcms]
+悠帆のお尻に手をかけ、ボクは一気に悠帆のアソコに[r]
+突き進もうとした……。[pcms]
 
 ;//#_ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -429,26 +432,27 @@ her pussy in one go...[pcms]
 
 *153|
 [fc]
-[ns]Wataru[nse]
-"Ugh, uooo!!"[pcms]
+[ns]航[nse]
+「うっうおっ！！」[pcms]
 
 ;//〆HRV070
 ;//〆精液まみれの差分
 
 *154|
 [fc]
-My dick, already at its limit, slipped due to the juices[r]
-clinging to Yuuho and rubbed between her pussy and butt...[pcms]
+既にいっぱいいっぱいだったボクのモノ。[r]
+挿れようと思った瞬間、まとわりつかせた悠帆の汁で滑り[r]
+そのまま悠帆のアソコとお尻で擦り上げられて……。[pcms]
 
 *155|
 [fc]
-The stimulation made me explode, splattering my cum all over[r]
-Yuuho's butt.[pcms]
+その刺激で一気に爆発して悠帆のお尻に、精子をぶっかけて[r]
+しまっていた。[pcms]
 
 *156|
 [fc]
-[ns]Wataru[nse]
-"Uh... sorry, Yuuho."[pcms]
+[ns]航[nse]
+「う……ご……ごめん、悠帆」[pcms]
 
 ;//〆HEV049
 ;//〆Ｂ：
@@ -458,13 +462,14 @@ Yuuho's butt.[pcms]
 *157|
 [fc]
 [vo_yuh s="yuho_TE0071"]
-[ns]Yuuho[nse]
-"Geez... can't be helped. I'll... clean it up... okay?"[pcms]
+[ns]悠帆[nse]
+「もう……しょうがないなぁ。[r]
+　わたしが……綺麗にしてあげる……ね」[pcms]
 
 *158|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 [evcg storage="HEV059m"][trans_c cross time=300]
 
@@ -473,14 +478,14 @@ Yuuho's butt.[pcms]
 *159|
 [fc]
 [vo_yuh s="yuho_TE0072"]
-[ns]Yuuho[nse]
-"But... it's my first time... so... I'm not sure if I can do[r]
-it properly... you know."[pcms]
+[ns]悠帆[nse]
+「でも……初めてだから……その……あんまりちゃんと[r]
+　できるか……自信ないんだけど……ね」[pcms]
 
 *160|
 [fc]
-While saying that, Yuuho looked up at me, opened her mouth[r]
-wide, and took my dick into her mouth.[pcms]
+そう言いながら、悠帆はボクを見上げながら、口を[r]
+あーんと開けて、ボクのモノをくわえ込んだ。[pcms]
 
 [evcg storage="HEV059n"][trans_c cross time=300]
 
@@ -489,34 +494,36 @@ wide, and took my dick into her mouth.[pcms]
 *161|
 [fc]
 [vo_yuh s="yuho_TE0073"]
-[ns]Yuuho[nse]
-"Nnnjum... slurp... jupo... emm. Njuru slurp... juuchuu...[r]
-njuu... chu."[pcms]
+[ns]悠帆[nse]
+「んんっぢゅむっ……ぢゅるるっ……ぢゅぽっ……え゛むっ。[r]
+　んぢゅぢゅるっ……ぢゅっちゅぅ……んぢゅう……ちゅっ」[pcms]
 
 *162|
 [fc]
-[ns]Wataru[nse]
-"Ugh... wow..."[pcms]
+[ns]航[nse]
+「うっ……うわっ……」[pcms]
 
 *163|
 [fc]
-My beloved Yuuho was sucking on my dick. Her mouth was warm,[r]
-and her slippery tongue clung and swirled around intensely[r]
-as she sucked.[pcms]
+ボクの大好きな悠帆が、ボクのモノをくわえてる。[r]
+悠帆の咥内は暖かく、中でぬるりとした舌先が吸い付き、[r]
+ちゅうちゅうと吸いながら激しく舐め回している。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *164|
 [fc]
 [vo_yuh s="yuho_TE0074"]
-[ns]Yuuho[nse]
-"Muchuu... elu... nnnruu... jupo nchuuchuu... jupo...[r]
-juruu... chu. Chubo... hafuun..."[pcms]
+[ns]悠帆[nse]
+「むちゅうっっ……え゛るうっ……んんっるぅ……ぢゅぽっ[r]
+　んちゅちゅっ……ぢゅぽっ……ぢゅぢゅるぅう……ちゅっっ[r]
+　ちゅぼっ……はふうん……」[pcms]
 
 *165|
 [fc]
-Yuuho let my dick slip out with a slurp and then started[r]
-licking the surface like eating soft-serve ice cream.[pcms]
+また硬くなってきたボクのモノを悠帆は一度にゅるんと出し、[r]
+今度はまるでソフトクリームを食べるように、モノの表面を[r]
+ぺろぺろと舐めだした。[pcms]
 
 ;//〆：Ｉ
 
@@ -525,66 +532,65 @@ licking the surface like eating soft-serve ice cream.[pcms]
 *166|
 [fc]
 [vo_yuh s="yuho_TE0075"]
-[ns]Yuuho[nse]
-"...Nn... nchu... chumu... nre... ruu, emm... nrelurelu...[r]
-chu... relu..."[pcms]
+[ns]悠帆[nse]
+「……んっ……んちゅ……ちゅむ……んれっ……るぅ、[r]
+　え゛むっ……んれるっえ゛るっ……ちゅ……れるぅ……ちゅ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *167|
 [fc]
 [vo_yuh s="yuho_TE0076"]
-[ns]Yuuho[nse]
-"...Nchu... nre... e... ruu, emm... nrru... chu... relu...[r]
-chu... njuchuchu..."[pcms]
+[ns]悠帆[nse]
+「……んちゅ……んれっえ゛……るぅ、え゛むっ……んっるっ[r]
+　……ちゅ……れるぅ……ちゅ……んぢゅっちゅっちゅ……」[pcms]
 
 *168|
 [fc]
-Gently holding the glans in her mouth, she licked with the[r]
-tip of her tongue. She stuck out her tongue and licked the[r]
-side of my dick, then lifted it up and licked the underside[r]
-thoroughly.[pcms]
+カリを軽く口に含みながら、舌先でちろちろと舐める。[r]
+モノの横腹をペロッと舌を出したままで横に舐め、更に[r]
+ボクのモノを持ち上げて、裏側をべろーっと舐め上げる。[pcms]
 
 [evcg storage="HEV059m"][trans_c cross time=300]
 
 *169|
 [fc]
-Sometimes she glanced up at me as if checking my reaction.[r]
-But that gaze was so erotic, and the sensation of Yuuho's[r]
-tongue was so intense, my dick was even harder than before.[pcms]
+時々ちらちらとボクを見上げて、まるでボクの反応を[r]
+見ているかのようだ。でも、その視線がエロくて、悠帆の舌の[r]
+感触も凄まじくて、ボクのモノはさっきよりガチガチだった。[pcms]
 
 ;//〆HEV069
 [evcg storage="HEV056e1"][trans_c cross time=300]
 
 *170|
 [fc]
-I urged Yuuho, who seemed eager to keep sucking while[r]
-watching my reactions, and laid her down on the bed.[pcms]
+もっとボクの反応を見ながらしゃぶっていたそうに見えた[r]
+悠帆を、ボクは促して、ベッドに横たわらせた。[pcms]
 
 *171|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... it felt so good. This time I'll insert it[r]
-properly. Can I insert it?"[pcms]
+[ns]航[nse]
+「悠帆……気持ちよかったよ。今度はちゃんと挿れる。[r]
+　挿れて……いい？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *172|
 [fc]
 [vo_yuh s="yuho_TE0077"]
-[ns]Yuuho[nse]
-"Uh-huh. But... it's my first time, so be gentle..."[pcms]
+[ns]悠帆[nse]
+「う……うん。でも……初めてだから、優しく……してね」[pcms]
 
 *173|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 *174|
 [fc]
-I aligned my dick with Yuuho's pussy again. Her pussy was[r]
-even wetter than before. Maybe she got excited and felt good[r]
-while giving a blowjob.[pcms]
+ボクは悠帆のアソコに、再度ボクのモノをあてがった。[r]
+悠帆のアソコは、さっきよりも更にぐっしょりと湿っている。[r]
+フェラをしながら、悠帆も興奮して感じていてくれたのかな。[pcms]
 
 ;mm　ここは白フラしない。音だけ
 [se buf=0 storage="se_sex01"]
@@ -592,22 +598,22 @@ while giving a blowjob.[pcms]
 
 *175|
 [fc]
-I carefully placed my hand on my dick and pressed it against[r]
-Yuuho's entrance. With just a little push of my hips, just a[r]
-bit of my dick sunk into Yuuho's virgin entrance.[pcms]
+ボクは慎重にボクのモノに手を添えて、悠帆の入り口に[r]
+押し付けた。少しだけ腰を押し出すと、ほんの少し、悠帆の[r]
+アソコの、処女の入り口に、めり込んだ。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *176|
 [fc]
 [vo_yuh s="yuho_TE0078"]
-[ns]Yuuho[nse]
-"Nnn... kuu."[pcms]
+[ns]悠帆[nse]
+「んっ……くうっ」[pcms]
 
 *177|
 [fc]
-[ns]Wataru[nse]
-"Does it hurt? Are you okay, Yuuho?"[pcms]
+[ns]航[nse]
+「痛い？　悠帆、大丈夫？」[pcms]
 
 ;mm 3と4って膣内出し差分じゃないのかなぁ。うーんつくっとく
 [evcg storage="HEV056e3_1"][trans_c cross time=300]
@@ -617,15 +623,15 @@ bit of my dick sunk into Yuuho's virgin entrance.[pcms]
 *178|
 [fc]
 [vo_yuh s="yuho_TE0079"]
-[ns]Yuuho[nse]
-"Yeah... I'm okay. Slowly... let your... that, come inside[r]
-me..."[pcms]
+[ns]悠帆[nse]
+「うん……大丈夫。ゆっくり……わたしの中に……[r]
+　航の……ソレ、わたしに……挿れて……入ってきて……」[pcms]
 
 *179|
 [fc]
-Yuuho looked back at me with teary eyes. While looking into[r]
-those eyes, I slowly but surely pushed my dick deeper[r]
-inside.[pcms]
+ボクの目をうるんだ目で見つめ返している悠帆。[r]
+その瞳を見返しながら、ボクは、ゆっくりと、でも確実に、[r]
+更に奥に、ボクのモノを押し込んだ。[pcms]
 
 
 
@@ -640,34 +646,34 @@ inside.[pcms]
 *180|
 [fc]
 [vo_yuh s="yuho_TE0080"]
-[ns]Yuuho[nse]
-"Nnniih...! It... hurts... kkuuh..."[pcms]
+[ns]悠帆[nse]
+「んっんい゛……っ！　い……痛……っうっくぅ……」[pcms]
 
 *181|
 [fc]
-I pushed my hips forward in slow motion, driving my dick[r]
-deeper into Yuuho. It felt like the flesh walls were[r]
-creaking as they parted.[pcms]
+スローモーションで腰を押し出し、悠帆の中にずぶずぶと[r]
+ボクのモノを突き挿れていく。[r]
+ミシミシと音がなりそうな肉の壁を分け入っていった。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *182|
 [fc]
 [vo_yuh s="yuho_TE0081"]
-[ns]Yuuho[nse]
-"Nnaahhihii... it hurts... ahh, aahhuuh, nnaaahh... aahh...[r]
-ah... ah..."[pcms]
+[ns]悠帆[nse]
+「んああっひぃい……い……痛っ……いっ、ああぁううっ、[r]
+　んあああっ……ああっ……あっ……あっ……ぁっ……」[pcms]
 
 *183|
 [fc]
-The flesh walls that were forcibly spread open began to[r]
-clench tightly around my dick. They writhed and started to[r]
-cling to my dick.[pcms]
+無理やり開かれた肉の壁が、ぎちぎちとボクのモノを[r]
+包み込んでくる。ひくひくとうごめきながら、ボクのモノに[r]
+まとわりつき始めた。[pcms]
 
 *184|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... does it hurt? Are you okay?"[pcms]
+[ns]航[nse]
+「悠帆……っ、痛い？　大丈夫？」[pcms]
 
 ;mm 3と4って膣内出し差分じゃないのかなぁ。うーんつくっとく
 [evcg storage="HEV056e4_1"][trans_c cross time=300]
@@ -677,69 +683,68 @@ cling to my dick.[pcms]
 *185|
 [fc]
 [vo_yuh s="yuho_TE0082"]
-[ns]Yuuho[nse]
-"Nnn... yeah. It's okay, it hurts a bit but... I'm happy[r]
-with this pain... aahh!"[pcms]
+[ns]悠帆[nse]
+「んっ……うんっ。大……丈夫、痛いけど……ちょっと痛い[r]
+　けど……、嬉しいの……この、痛み、嬉しいの……ああっ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *186|
 [fc]
 [vo_yuh s="yuho_TE0083"]
-[ns]Yuuho[nse]
-"It's okay because it's you, Wataru. Nnaahh... it's[r]
-tingling... but I'm okay because it's you. I'm happy that my[r]
-first time is with you, Wataru..."[pcms]
+[ns]悠帆[nse]
+「大丈夫だか……ら、航。んっあっ……ジン……ジンして……[r]
+　るけど……大丈……夫だから……。わたしの……初めて、[r]
+　航……で、嬉しい……。嬉しいの……航……」[pcms]
 
 *187|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... all of me is inside you now."[pcms]
+[ns]航[nse]
+「悠帆……ボクの全部、今、悠帆の中に入ってるよ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *188|
 [fc]
 [vo_yuh s="yuho_TE0084"]
-[ns]Yuuho[nse]
-"Really? Really? Ahhii..."[pcms]
+[ns]悠帆[nse]
+「ほんと？　ほんっ……と……あっい゛……」[pcms]
 
 *189|
 [fc]
-I nodded and stayed still, waiting for Yuuho's pain to[r]
-subside a little. Also to hold back the cum that felt like[r]
-it could burst out any moment.[pcms]
+ボクはうなずきながら、じっと動かずにいた。[r]
+悠帆の痛みが少しやわらぐまで。今にもまた飛び出しそうな[r]
+ボクの精子を押さえこむためにも。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *190|
 [fc]
 [vo_yuh s="yuho_TE0085"]
-[ns]Yuuho[nse]
-"Nnn... huaaahh... iihh. Wataru's... Wataru's inside me. I[r]
-can feel it... inside me. Wataru's hot and hard is inside[r]
-me... nnnhh!"[pcms]
+[ns]悠帆[nse]
+「んっ……ふあっ……い゛……あっ。航の……航のが……[r]
+　わたしの中に……いる。わかるよ……入ってる……[r]
+　航の熱くて硬いのが……わたしの中に……あっんっん」[pcms]
 
 *191|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... can I move?"[pcms]
+[ns]航[nse]
+「悠帆……動いても……いい？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *192|
 [fc]
 [vo_yuh s="yuho_TE0086"]
-[ns]Yuuho[nse]
-"Yes, Wataru. Move me... ahh, aahhaaahh. Iihh.. it hurts,[r]
-akkuuhh. Ahh, kunnhh!"[pcms]
+[ns]悠帆[nse]
+「うん……航。動いて……わたしを……あっ、あああっ。[r]
+　い゛っ……痛……っ、あくううっ。ああ、くうんっっ！」[pcms]
 
 *193|
 [fc]
-I began to move my hips slowly. Pushing open the flesh walls[r]
-that had been enveloping me. With each movement I made,[r]
-Yuuho's flesh walls started to move as if they were being[r]
-tugged.[pcms]
+ボクはゆっくりと腰を動かし始めた。[r]
+押し包んでいた肉の壁をまた押し開く。ボクの動きに[r]
+合わせて、悠帆の肉壁がひっつれたように、動き出す。[pcms]
 
 ;mm 3と4って膣内出し差分じゃないのかなぁ。2に戻すと変だから3に
 ;[evcg storage="HEV056e2"][trans_c cross time=300]
@@ -751,32 +756,34 @@ tugged.[pcms]
 *194|
 [fc]
 [vo_yuh s="yuho_TE0087"]
-[ns]Yuuho[nse]
-"Nnaaaahhaaahh, aahhaaahh, iihh.. it hurts, ahh, aiieeiihh,[r]
-it hurts but, ahhhaaahhnnnaaahh!"[pcms]
+[ns]悠帆[nse]
+「んあああっあっ、あああっ、いっ……痛……っ、ああっ、[r]
+　あ、あいいぃいいっ、痛……いっけ……どっ、あいいっ。[r]
+　痛いっんだっ……けどぉ、ああっあっああんっんあああっ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *195|
 [fc]
 [vo_yuh s="yuho_TE0088"]
-[ns]Yuuho[nse]
-"Nkuuhh.. aahh, aahhaaahh, nnaaaahhnnnh. Aiihh.. iihh.. it[r]
-hurts.. ahh. Ahh, aahhnnaahhh!"[pcms]
+[ns]悠帆[nse]
+「んくうぅ……ああっ、ああっああっ、んあああっんんっ。[r]
+　あいっ……い……たっ……ああっ。あ、ああっんあっっ。[r]
+　い……あいいっいいっ、ああっ、ああああんっ、いっあっ」[pcms]
 
 *196|
 [fc]
-[ns]Wataru[nse]
-"Yuuho! I love you! I really love you!"[pcms]
+[ns]航[nse]
+「悠帆っ！　好きだっ！　大好きだよっ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *197|
 [fc]
 [vo_yuh s="yuho_TE0089"]
-[ns]Yuuho[nse]
-"Nnaahh, Wataru! Wataruh! Me too! Aiihh! It feels so good![r]
-Aaahhnnaaahh, ahh, ahhhaaahhaah!"[pcms]
+[ns]悠帆[nse]
+「んぁあっ、航っ！　航ぅっ！　わたし……もっ！　あいっ！[r]
+　いいぁあっ！　ああんっんああっ、ああ、ああっああっぁっ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -785,61 +792,62 @@ Aaahhnnaaahh, ahh, ahhhaaahhaah!"[pcms]
 *198|
 [fc]
 [vo_yuh s="yuho_TE0090"]
-[ns]Yuuho[nse]
-"Aaiihh! Aahhaahh! It hurts but ohh. Aaahhaaahh, uh, I'm[r]
-happy.. iihhnnaaahh, ahh! Ahh, ii.. feels good.. aaahh!"[pcms]
+[ns]悠帆[nse]
+「ああいいっ！　ああっあっ！　いっ痛……いっけどぉっ。[r]
+　あああっ、う、嬉し……ぃい……あひぃんああっ、あっ！[r]
+　あっ、い、いいっいっ……き、も……ち、いっ……ああっ」[pcms]
 
 *199|
 [fc]
-The inside became mushy and heated up stickily. The flesh[r]
-walls writhed and tightened around my dick. Wet sounds[r]
-leaked from the entrance.[pcms]
+アソコの中がどろどろになって、ねっとりと熱を帯びてくる。[r]
+肉壁がざわざわとうごめいて、モノを締めつけてくる。[r]
+くちゅくちゅというエッチな音が、入り口から漏れてくる。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *200|
 [fc]
 [vo_yuh s="yuho_TE0091"]
-[ns]Yuuho[nse]
-"Ahh, it feels good.. getting excited.. aaahhaaahh, it feels[r]
-good, Wataruh, it feels good.. nnaaahhaahh. Ahh, iihh.. it[r]
-hurts.. ah, aiieeiihh!"[pcms]
+[ns]悠帆[nse]
+「あっ、いいっ……き、気持ちよく……なって……[r]
+　あああっ、いいっ、わた……るぅ、いいっ、ああああっ。[r]
+　んんああっ、あっ、いっ、痛……あ、あいいっああっ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *201|
 [fc]
 [vo_yuh s="yuho_TE0092"]
-[ns]Yuuho[nse]
-"Wataruh, Wataruh! It feels good! It's hot! It's hot because[r]
-of you, Wataruh.. aaahhaaaahhh! Nnaaaahhaaahh, ahhhaaahh,[r]
-aaahhaaahh, it's so hot!"[pcms]
+[ns]悠帆[nse]
+「航っ、わた……るっううっ！　いいっ、いいっのおぉっ。[r]
+　あっついぃっ。熱いよぉ、航の、航のぉ……あああああっ！[r]
+　んあああっ、あっああっ、あああっ、熱いよぉぉっおっ！」[pcms]
 
 *202|
 [fc]
-[ns]Wataru[nse]
-"Uuhh... uuhhkk..."[pcms]
+[ns]航[nse]
+「ううっふっ……ううっくっ……」[pcms]
 
 *203|
 [fc]
-My hips moved like an uncontrollable robot, speeding up, and[r]
-at the same time, a hot mass rose up from deep inside at an[r]
-incredible speed.[pcms]
+ボクの腰は制御の利かないロボットみたいにどんどん速度を[r]
+上げていて、同時にまたモノの奥のほうから、熱い固まりが[r]
+凄い速度で上昇してきた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *204|
 [fc]
 [vo_yuh s="yuho_TE0093"]
-[ns]Yuuho[nse]
-"Aaahh! Amazing, aahhaaahh, aahhnn aahh. It's hot, it's so[r]
-hot, it... feels good, aahhaaaahh. Ahh, ahh, aahhihh,[r]
-aahhnnnaaahhaaahh!"[pcms]
+[ns]悠帆[nse]
+「ああっいっ、すごっいっ、あああっ、ああんっああっ。[r]
+　熱いぃ、熱いよぉ、き……気持ちっ、あああああっ。[r]
+　ああっ、あっ、ああひいぃっ、ああっんんああああっ」[pcms]
 
 *205|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuuho... I love you... I really love you... kuuuh..."[pcms]
+[ns]航[nse]
+「ゆ、悠帆……好きだ……好きだよ……くうっ……」[pcms]
 
 [evcg storage="HEV056e4_1"][trans_c cross time=300]
 
@@ -848,13 +856,13 @@ aahhnnnaaahhaaahh!"[pcms]
 *206|
 [fc]
 [vo_yuh s="yuho_TE0094"]
-[ns]Yuuho[nse]
-"Me too, me tooo! Wataru, Wataruuuh!"[pcms]
+[ns]悠帆[nse]
+「わたしもっ、わたしもぉっっ！　航っ、航ぅううっ！」[pcms]
 
 *207|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuuho... I can't hold it anymore... uuhh!"[pcms]
+[ns]航[nse]
+「ゆ、悠帆……も、もう、我慢が……ううっ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
@@ -863,28 +871,29 @@ aahhnnnaaahhaaahh!"[pcms]
 *208|
 [fc]
 [vo_yuh s="yuho_TE0095"]
-[ns]Yuuho[nse]
-"Let it out, let it out Wataru. Inside me... aahh, inside[r]
-me, I want yours... I want it so bad!!"[pcms]
+[ns]悠帆[nse]
+「出してっ、出して航っ。わたしの……ああっ、わたしの[r]
+　中に、中にぃ、航の、欲しいの……欲しいのぉっっ！！」[pcms]
 
 *209|
 [fc]
-Yuuho looked back at me with flushed face. Her eyes... they[r]
-only reflected me. My shining star. My Yuuho.[pcms]
+悠帆はボクを上気した顔で、しっかりと見つめ返していた。[r]
+悠帆の瞳……そこにはボクだけしか映っていない。[r]
+ボクの輝く星。ボクだけの悠帆。[pcms]
 
 *210|
 [fc]
-[ns]Wataru[nse]
-"Uhh... uaaahh... Yuuho, Yuuho!!"[pcms]
+[ns]航[nse]
+「うっ……うああっ……悠帆、悠帆っ！！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *211|
 [fc]
 [vo_yuh s="yuho_TE0096"]
-[ns]Yuuho[nse]
-"Wataru, Wataruuuh! Ah, aahhaaaahhaaahhnn aahhaaahh[r]
-uuhhuuhh, Wata... ruuuh!!"[pcms]
+[ns]悠帆[nse]
+「航っ、航うぅっ！　あ、ああああああっああっんあああっ[r]
+　うううっああっくうぅうっ、わた……るぅううっ！！」[pcms]
 
 ;mm なんで膣内出ししたのに外にも精液出てるんだろ。スルーしとく
 ;//#_ホワイトフラッシュ
@@ -893,23 +902,23 @@ uuhhuuhh, Wata... ruuuh!!"[pcms]
 
 *212|
 [fc]
-[ns]Wataru[nse]
-"U-uooh... uahh..."[pcms]
+[ns]航[nse]
+「う、うおっ……うあっ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *213|
 [fc]
 [vo_yuh s="yuho_TE0097"]
-[ns]Yuuho[nse]
-"Fuaaahh, it's coming out. Yours is inside me... It's hot...[r]
-so incredibly hot... aahnnfuaaahh"[pcms]
+[ns]悠帆[nse]
+「ふあああっ、出てるぅ。航のが……わたしの中に……。[r]
+　熱い……すご……っく、熱い……ああっんっふああっ」[pcms]
 
 *214|
 [fc]
-My ejaculation continued in pulses. Overflowing from deep[r]
-within and pouring into Yuuho. She kept gazing at me[r]
-intently, accepting my sperm.[pcms]
+どくどくとボクの射精は続いていた。奥から奥からあふれて[r]
+どんどん悠帆の中に注ぎ込まれていく。悠帆はじっと[r]
+ボクを見つめたまま、ボクの精子を受け入れていた。[pcms]
 
 ;[evcg storage="HEV056e8"][trans_c cross time=300]
 [evcg storage="HEV056e4"][trans_c cross time=300]
@@ -919,49 +928,49 @@ intently, accepting my sperm.[pcms]
 *215|
 [fc]
 [vo_yuh s="yuho_TE0098"]
-[ns]Yuuho[nse]
-"Ahh... nn. It's amazing... aahh, aahhaaahh... So much... so[r]
-much is coming out... Inside me. Your heat is filling me[r]
-up..."[pcms]
+[ns]悠帆[nse]
+「あっ……ん。すごい……ああっ、ああっあっ……[r]
+　いっぱい……いっぱい出てる……。[r]
+　わたしの……中に。航の、熱いのが……いっぱい……」[pcms]
 
 *216|
 [fc]
-[ns]Wataru[nse]
-"...Huff... uuhh... fuuh..."[pcms]
+[ns]航[nse]
+「……ふっ……ううっ……ふうっ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *217|
 [fc]
 [vo_yuh s="yuho_TE0099"]
-[ns]Yuuho[nse]
-"...Fuaann... ahh... haaah... nnnnn..."[pcms]
+[ns]悠帆[nse]
+「……ふあっん……あっ……はあっ……んっんっ……」[pcms]
 
 *218|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... huff... I love you... fuuh... u"[pcms]
+[ns]航[nse]
+「悠帆……ふっ……好き……だよっ……ふうっ……う」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *219|
 [fc]
 [vo_yuh s="yuho_TE0100"]
-[ns]Yuuho[nse]
-"Nn... yeah... ahnnn... I know. Inside me, right now...[r]
-ah... your feelings are here... nn... there's something...[r]
-fuuh..."[pcms]
+[ns]悠帆[nse]
+「ん……うん……あっんっ……知って……るよぉ。[r]
+　わたしの……中に、今……ぁ……航の気持ち……[r]
+　んっ……ある……もの……っ。んっ……ふうっ……」[pcms]
 
 *220|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuuho..."[pcms]
+[ns]航[nse]
+「ゆ……悠帆……っ」[pcms]
 
 *221|
 [fc]
-I was so happy to hear Yuuho's words... I hugged her[r]
-tightly. Feeling my dick starting to revive again as I[r]
-followed my heart's desires.[pcms]
+ボクは悠帆の言葉が嬉しくて……悠帆を抱きしめた。[r]
+ボクの中の思いのままに。またむくむくと復活しつつ[r]
+あった、ボクのモノを感じながら。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -980,10 +989,10 @@ followed my heart's desires.[pcms]
 *222|
 [fc]
 [vo_yuh s="yuho_TE0101"]
-[ns]Yuuho[nse]
-"Aaahhaaahh!! It feels good, it feels so good... fuaaahh!![r]
-Hiihh, it's good, aahhaaaahhaaahh, it's so nice! It feels[r]
-good, turning into mush..."[pcms]
+[ns]悠帆[nse]
+「ああっあっ！！　いいっ、気持ちいいっ……ふああっ！！[r]
+　ひいっ、いいっ、ああっああああっ、いぃのぉっ！[r]
+　気持ち……いいっ、どろどろにぃ……ああっなるぅっ！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV046e"]
@@ -993,10 +1002,10 @@ good, turning into mush..."[pcms]
 *223|
 [fc]
 [vo_yuh s="yuho_TE0102"]
-[ns]Yuuho[nse]
-"Yours is rubbing against me... aahhaaahh, rubbing...[r]
-ahhhaaann rubbing me... ahh, it's hot! Ahhihhnn ah, it's[r]
-good. I'm melting away, it's so hot, so hot!"[pcms]
+[ns]悠帆[nse]
+「航のが……あああっ、擦れ……てっ……ああっああんっ[r]
+　擦ってぇ……あっ、熱いぃ……のおぉっ！　あひいぃん[r]
+　あ、いいっ。溶け……ちゃうよぉ、熱くて、熱くてええぇ」[pcms]
 
 ;//〆HEV071
 [evcg storage="HEV046f"][trans_c cross time=300]
@@ -1006,21 +1015,21 @@ good. I'm melting away, it's so hot, so hot!"[pcms]
 *224|
 [fc]
 [vo_yuh s="yuho_TE0103"]
-[ns]Yuuho[nse]
-"Fuaaahh, aahhaaahhaaahh, I'm going crazy... going crazy[r]
-because of you... Wata... ruu... aahhaaaahhaaahh! I'm going[r]
-crazy, fuaaaahhhnn!"[pcms]
+[ns]悠帆[nse]
+「ふあああっ、あああっああっあっ、おかしく……おかしく[r]
+　なっちゃうよぉ……わた……航ぅ……ああっあああっ！[r]
+　わた……しぃ、おかし……くぅっ、ふあああああっんっ！」[pcms]
 
 *225|
 [fc]
-I held Yuuho again and again. Pouring my sperm into her over[r]
-and over. Inside my Yuuho.[pcms]
+ボクは何度も何度も悠帆を抱いた。ボクの精子を悠帆の中に[r]
+いっぱい、何回も注ぎ込んだ。ボクの悠帆の中に。[pcms]
 
 
 *225a|
 [fc]
-My continuously shining star. To ensure I wouldn't lose it,[r]
-I poured all my feelings into her again and again...[pcms]
+ボクの輝き続ける星。失わないようにボクの気持ちの[r]
+ありったけをこめて、何度も注ぎ込んだ……。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1055,18 +1064,19 @@ I poured all my feelings into her again and again...[pcms]
 
 *226|
 [fc]
-I suddenly woke up. It still seemed to be the middle of the[r]
-night. When I reached out with my hand, Yuuho wasn't there.[pcms]
+ふっと目が覚めた。まだ夜中……のようだった。[r]
+手で隣を探ると、悠帆がいなかった。[pcms]
 
 *227|
 [fc]
-I was a bit panicked but the scent of Yuuho lingering on my[r]
-body calmed me down. It wasn't just a dream.[pcms]
+ボクはちょっと慌てたけど、ボクの身体に残る悠帆の香りが[r]
+ボクを落ち着かせてくれた。あれは夢じゃないんだって。[pcms]
 
 *228|
 [fc]
-Maybe she went to take a shower or something else... With[r]
-that thought in mind, I was pulled back into sleep.[pcms]
+シャワーでも浴びに行ったのかな……それとも……。[r]
+そんな事を考えながら、ボクはまた眠りの中に[r]
+引き込まれていった。[pcms]
 
 ;mm
 ;システムボタン＆ウィンドウ消去

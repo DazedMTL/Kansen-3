@@ -5,7 +5,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//---------------------------------------------------------------
 ;//〆block:B001
 ;//★ここからＴ４００１０から流用しています
@@ -14,14 +14,13 @@
 
 *6768|
 [fc]
-[ns]Wataru[nse]
-"Shall we go back...?"[pcms]
+[ns]航[nse]
+「戻るか……」[pcms]
 
 *6769|
 [fc]
-I can't think of anything else I want to do, so I guess I'll[r]
-head back to my room. Maybe read some manga or play a[r]
-game...[pcms]
+別にやりたいことも思いつかないし、部屋に戻ろう。[r]
+漫画を読むか、ゲームでもするかな……。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -35,71 +34,71 @@ game...[pcms]
 *6770|
 [fc]
 [vo_ren s="ren_T0023"]
-[ns]Ren[nse]
-"Ah... Onii-chan!"[pcms]
+[ns]漣[nse]
+「あ……、お兄ちゃん！」[pcms]
 
 *6771|
 [fc]
-Just as I got off the elevator, I happened to run into Ren.[pcms]
+エレベーターを降りたところで、[r]
+ちょうど漣とはちあわせする形になった。[pcms]
 
 *6772|
 [fc]
-She's holding a violin case in her arms.[pcms]
+見れば腕にバイオリンケースを抱えている。[pcms]
 
 *6773|
 [fc]
-[ns]Wataru[nse]
-"Ren. Are you going to play the violin?"[pcms]
+[ns]航[nse]
+「漣。バイオリン、弾くの？」[pcms]
 
 *6774|
 [fc]
-At my words, Ren smiles happily.[pcms]
+ボクの言葉に漣は嬉しそうに微笑む。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6775|
 [fc]
 [vo_ren s="ren_T0024"]
-[ns]Ren[nse]
-"Yeah, I played a little bit yesterday, but I haven't been[r]
-practicing properly lately... I was wondering if there's a[r]
-place where I won't be in the way..."[pcms]
+[ns]漣[nse]
+「うん、昨日ちょこっと弾いたけど、[r]
+　最近ちゃんと練習してないから……。[r]
+　どこか、邪魔にならない場所、ないかなーって」[pcms]
 
 *6776|
 [fc]
-[ns]Wataru[nse]
-"Then the stage restaurant would be good. The acoustics are[r]
-nice there, and if it were the dome, everyone would be[r]
-there."[pcms]
+[ns]航[nse]
+「それならステージレストランがいいよ。[r]
+　あそこなら音響もいいし、[r]
+　ドームだと、みんながいるからね」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6777|
 [fc]
 [vo_ren s="ren_T0025"]
-[ns]Ren[nse]
-"I see... Yeah, I'll do that!"[pcms]
+[ns]漣[nse]
+「そっか……。うん、そうするね！」[pcms]
 
 *6778|
 [fc]
-Come to think of it, I haven't really listened to Ren's[r]
-violin performance lately... The last time might have been[r]
-at the recital at the beginning of the year.[pcms]
+そういえば、漣のバイオリン演奏、[r]
+このところちゃんと聴いていなかったな……。[r]
+今年の頭にあった発表会が最後だったような気がする。[pcms]
 
 *6779|
 [fc]
-I could hear her practicing at school from afar, but I[r]
-hadn't seen her play.[pcms]
+もちろん学校で練習してるのは遠くからきこえていたけど[r]
+弾いてる姿は見ていなかったし。[pcms]
 
 *6780|
 [fc]
-[ns]Wataru[nse]
-"I'll join you."[pcms]
+[ns]航[nse]
+「ボクも付き合うよ」[pcms]
 
 *6781|
 [fc]
-I felt like it might be nice to listen to Ren's live[r]
-performance for a change.[pcms]
+たまには漣の生演奏を聴くのもいいかなっていう気がした。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -109,9 +108,9 @@ performance for a change.[pcms]
 
 *6782|
 [fc]
-Gently taking out her instrument from the case, Ren tightens[r]
-the bow and, positioning it above her collarbone, she plays[r]
-a long open A string to start tuning.[pcms]
+ケースからそっと楽器を取り出した漣は、弓を張り、[r]
+鎖骨の上に構えるとＡ線の開放弦を長く弾き鳴らして[r]
+音を合わせ始めた。[pcms]
 
 ;//★ここまでの部分Ｔ４００１０から流用しました
 
@@ -120,106 +119,107 @@ a long open A string to start tuning.[pcms]
 *6783|
 [fc]
 [vo_ren s="ren_T0033"]
-[ns]Ren[nse]
-"...Hey, Onii-chan."[pcms]
+[ns]漣[nse]
+「…………ねぇ、お兄ちゃん」[pcms]
 
 *6784|
 [fc]
-[ns]Wataru[nse]
-"Hmm?"[pcms]
+[ns]航[nse]
+「ん？」[pcms]
 
 *6785|
 [fc]
-While adjusting the pegs to raise the pitch slightly, Ren[r]
-looks over with just her eyes.[pcms]
+ペグを巻いて少し音を上げながら、漣は目だけをこちらに向ける。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f14"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6786|
 [fc]
 [vo_ren s="ren_T0034"]
-[ns]Ren[nse]
-"Did you... confess to Yuuho-chan already?"[pcms]
+[ns]漣[nse]
+「悠帆ちゃんに、もう……告白したの？」[pcms]
 
 *6787|
 [fc]
-[ns]Wataru[nse]
-"Wha...?????"[pcms]
+[ns]航[nse]
+「なっ…………？？？？？？」[pcms]
 
 *6788|
 [fc]
-I was planning to enjoy the music leisurely, but this sudden[r]
-question caught me off guard and made my eyes dart around in[r]
-surprise.[pcms]
+ゆったりと音楽を楽しむつもりだったボクは[r]
+あまりの不意打ちに目を白黒させてしまう。[pcms]
 
 *6789|
 [fc]
-[ns]Wataru[nse]
-"Wh-wh-wh-wh-what are you suddenly talking about"[pcms]
+[ns]航[nse]
+「なななななな、いきなり何を」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6790|
 [fc]
 [vo_ren s="ren_T0035"]
-[ns]Ren[nse]
-"Yesterday, if Koro-chan and I hadn't interrupted, I wonder[r]
-if things would have gone well for you and her..."[pcms]
+[ns]漣[nse]
+「昨日、私とコーちゃんが邪魔しなければ[r]
+　お兄ちゃんたち……うまくいったのかなーって……」[pcms]
 
 *6791|
 [fc]
-Looking down apologetically, Ren mutters. She must be really[r]
-concerned about eavesdropping...[pcms]
+申し訳なさそうに目を伏せて、漣が呟く。[r]
+よっぽど立ち聞きのことを気にしているんだな……。[pcms]
 
 *6792|
 [fc]
-[ns]Wataru[nse]
-"It's not your fault, Ren..."[pcms]
+[ns]航[nse]
+「漣のせいじゃないよ……」[pcms]
 
 *6793|
 [fc]
-To prove I'm not angry, I give her a smile.[pcms]
+怒ってない証拠に、ボクはにっこりしてみせる。[pcms]
 
 *6794|
 [fc]
-[ns]Wataru[nse]
-"...Well, you know, things like this... It's all about[r]
-timing, and... well... it'll work out eventually..."[pcms]
+[ns]航[nse]
+「……ま、まあ、なんていうか、[r]
+　こういうことは……タイミングっていうか、[r]
+　まあ……そのうち何とかなるもんで……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6795|
 [fc]
 [vo_ren s="ren_T0036"]
-[ns]Ren[nse]
-"So, you haven't done it yet."[pcms]
+[ns]漣[nse]
+「じゃ、やっぱりまだなんだ」[pcms]
 
 *6796|
 [fc]
-Ouch. Even while apologizing, she lands a jab. My sister is[r]
-quite something...[pcms]
+うぐっ。[r]
+謝りながらツッコミ入れてくるとは、漣のやつ……。[r]
+わが妹ながら、なかなかやるな……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6797|
 [fc]
 [vo_ren s="ren_T0037"]
-[ns]Ren[nse]
-"I'm rooting for you, so do your best, Onii-chan."[pcms]
+[ns]漣[nse]
+「私、応援するから、お兄ちゃん頑張ってね」[pcms]
 
 *6798|
 [fc]
-While checking the tuning with a relaxed chord, Ren's[r]
-expression clouds over just a bit.[pcms]
+最後にゆったりとした和音を奏でて調律を確かめながら[r]
+漣は少しだけ顔色を曇らせる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6799|
 [fc]
 [vo_ren s="ren_T0038"]
-[ns]Ren[nse]
-"Yuuho-chan must be going through a tough time right now...[r]
-Her family is missing, and her friends have died..."[pcms]
+[ns]漣[nse]
+「悠帆ちゃん、いま、つらいと思うんだ……。[r]
+　家族だって行方がわからないし、[r]
+　お友達も死んじゃったりして……」[pcms]
 ;//＠すこし沈んだ口調
 
 [ChrSetEx layer=5 chbase="ren_f2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -227,70 +227,71 @@ Her family is missing, and her friends have died..."[pcms]
 *6800|
 [fc]
 [vo_ren s="ren_T0039"]
-[ns]Ren[nse]
-"So, Onii-chan... At times like this, you should really[r]
-support Yuuho-chan firmly, okay?"[pcms]
+[ns]漣[nse]
+「だから、お兄ちゃん……。[r]
+　こういう時こそ悠帆ちゃんのこと、[r]
+　しっかり支えてあげて？　ね？」[pcms]
 
 *6801|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 *6802|
 [fc]
-I nod while thinking that Ren's kindness of always[r]
-considering others first is one of her best qualities.[pcms]
+自分よりもまず先に人を思いやる……、[r]
+こういうところが漣の良さだな、と思いながらボクはうなずく。[pcms]
 
 *6803|
 [fc]
-[ns]Wataru[nse]
-"That's right... I want to be there for her too. But[r]
-confessing now seems a bit... It feels like taking advantage[r]
-of her when she's vulnerable..."[pcms]
+[ns]航[nse]
+「そうだね……、ボクも力になってあげたいと思うよ。[r]
+　だけど、告白するのはちょっと……。[r]
+　なんか、弱ってる時につけ込むことになりそうで……」[pcms]
 
 *6804|
 [fc]
-Making an excuse that doesn't really sound like one, Ren[r]
-chuckles with her shoulders shaking.[pcms]
+言いわけにもならない言いわけをすると、[r]
+漣は肩を震わせてくすくすと笑った。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6805|
 [fc]
 [vo_ren s="ren_T0040"]
-[ns]Ren[nse]
-"Onii-chan, you're really clumsy, aren't you? You'll miss[r]
-your chance like that?"[pcms]
+[ns]漣[nse]
+「お兄ちゃんって、ホント不器用だよね？[r]
+　そんなんじゃ、チャンス逃しちゃうよ？」[pcms]
 
 *6806|
 [fc]
-[ns]Wataru[nse]
-"Well, maybe so... But it can't be helped; that's just how I[r]
-am."[pcms]
+[ns]航[nse]
+「まあ、そうかもしれないけど……。[r]
+　しょうがないよ、こういう性格なんだから」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6807|
 [fc]
 [vo_ren s="ren_T0041"]
-[ns]Ren[nse]
-"I see... Yeah, that's right. That's just the kind of person[r]
-Onii-chan is..."[pcms]
+[ns]漣[nse]
+「そっか……。うん、そうだよね。[r]
+　お兄ちゃんって、そういう人だよね……」[pcms]
 ;//＠ちょっと思慕
 
 *6808|
 [fc]
-After tilting her head in thought for a moment, Ren winks at[r]
-me mischievously.[pcms]
+ちょっと首をかしげて考えてから[r]
+漣はボクに悪戯っぽく片目をつぶってみせた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6809|
 [fc]
 [vo_ren s="ren_T0042"]
-[ns]Ren[nse]
-"If... by some bad luck, you can't find a bride, would it be[r]
-okay if I became yours?"[pcms]
+[ns]漣[nse]
+「もし……運が悪くて、お嫁さんもらえなかったら、[r]
+　私がなってあげてもいいかな？」[pcms]
 ;//＠少し照れている
 
 ;//[ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -298,42 +299,41 @@ okay if I became yours?"[pcms]
 *6810|
 [fc]
 [vo_ren s="ren_T0043"]
-[ns]Ren[nse]
-"I'm worried about Onii-chan..."[pcms]
+[ns]漣[nse]
+「お兄ちゃんのこと、心配だし……」[pcms]
 ;//＠少し照れている
 
 *6811|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「え……？」[pcms]
 
 *6812|
 [fc]
-I'm startled.[pcms]
+ドキッとした。[pcms]
 
 *6813|
 [fc]
-Ren becoming my... bride?[pcms]
+漣が、ボクの……お嫁さんに……？[pcms]
 
 [eval exp="f.l_meets_r = 1"]
 [eval exp="f.l_route2_r = 1"]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ｂ１
-;//１１：良いかも・・・。→block:T40030
-;//１２：いや、だめだよ！だって僕たちは……→T40040
+;//●選択肢Ｂ－１
+;//１－１：良いかも・・・。→block:T40030
+;//１－２：いや、だめだよ！だって僕たちは……→T40040
 
 
 ;	[link storage="T40030.ks" target=*T40030_TOP]良いかも……[endlink]
-; (link storage="T40040.ks" target=*T40040_TOP)No, that's[r]
-not right! After all, we are...(endlink)[pcms]
+;	[link storage="T40040.ks" target=*T40040_TOP]いや、だめだよ！　だってボクたちは……[endlink][s]
 
 *SEL74|良いかも……／いや、だめだよ！　だってボクたちは……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Might be good'"]
-[eval exp="f.seltext04 = 'No, that\'s not good! Because we are'"]
+[eval exp="f.seltext02 = '良いかも……'"]
+[eval exp="f.seltext04 = 'いや、だめだよ！　だってボクたちは……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

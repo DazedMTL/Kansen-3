@@ -17,98 +17,98 @@
 
 *2035|
 [fc]
-Peering inside through the skylight, I was met with a[r]
-bizarre scene that made me doubt my eyes.[pcms]
+天窓から内部をのぞいてみると、中では目を疑うような[r]
+異様な光景が広がっていた。[pcms]
 
 *2036|
 [fc]
 [vo_yuh s="yuho0482"]
-[ns]Yuuho[nse]
-"What... what is this! What on earth is happening!!!"[pcms]
+[ns]悠帆[nse]
+「なに……これはなに！[r]
+　いったいなんなのよ！！！」[pcms]
 
 *2037|
 [fc]
-I tried desperately to suppress my voice, but I couldn't[r]
-help muttering.[pcms]
+必死に声を押さえようとしたけど、呟かずにはいられなかった。[pcms]
 
 ;//〆HEV35
 
 *2038|
 [fc]
-How did those strange people get in here? Outsiders weren't[r]
-supposed to be able to enter this place.[pcms]
+いったいどこからあの変な奴らは入ったんだろう。[r]
+部外者はここには、入れないことになっていたはず。[pcms]
 
 *2039|
 [fc]
-And that abnormal, uniform movement... It was like a scene[r]
-out of a horror movie.[pcms]
+それにあの異様な単一の動作……。[r]
+まるでホラー映画のような光景。[pcms]
 
 *2040|
 [fc]
 [vo_yuh s="yuho0483"]
-[ns]Yuuho[nse]
-"Could it be that if they touch us, we'll end up the same[r]
-way?"[pcms]
+[ns]悠帆[nse]
+「もしかして、あいつらに触られたりすると、[r]
+　同じようになってしまうの？」[pcms]
 
 *2041|
 [fc]
-But why... why is this happening? I frantically looked[r]
-around.[pcms]
+でもどうして……どうしてこんなことに。[r]
+わたしは慌てて周囲を見回してみた。[pcms]
 
 ;//〆HEV36
 
 *2042|
 [fc]
-A teacher being violated by boys, a senior being held by her[r]
-lower half and assaulted.[pcms]
+男子に犯されている先生、下半身を抱えられて[r]
+犯されている先輩。[pcms]
 
 *2043|
 [fc]
-A junior clinging to the poolside was being swarmed and[r]
-violated by the people in the pool.[pcms]
+プールサイドにへばりついている後輩は、[r]
+プール内の連中に群がられて犯されている。[pcms]
 
 *2044|
 [fc]
-I couldn't bear to look directly at it and turned my eyes[r]
-away. They're all mad, everyone's gone mad...[pcms]
+わたしは正視に耐えきれず、目をそむけた。[r]
+狂っている、みんな狂っている……。[pcms]
 
 *2045|
 [fc]
-When I turned my gaze towards the corridor, I noticed a[r]
-fallen male student near the entrance.[pcms]
+渡り廊下の方へと視線を向けると、[r]
+入口付近で倒れた男子学生が目にとまった。[pcms]
 
 *2046|
 [fc]
-He lay in a sea of blood, with a gruesome bite mark visible[r]
-on his neck.[pcms]
+血の海に倒れている彼の首には無残な噛み傷の[r]
+ようなものが見て取れた。[pcms]
 
 *2047|
 [fc]
-The clothes and faces of the approaching male students were[r]
-splattered with blood, and they had bite marks on their[r]
-hands. It was the same with the girls.[pcms]
+おそってくる男子学生の服や顔にも血しぶきの[r]
+跡があり、手などには噛み傷。[r]
+男子だけじゃなくて、それは女子も同じだった。[pcms]
 
 ;//〆HEV036
 
 *2048|
 [fc]
-A familiar swim team member was still being gang-raped,[r]
-covered in semen.[pcms]
+顔見知りの水泳部員は、精液まみれとなって[r]
+いまだに輪姦されていた。[pcms]
 
 *2049|
 [fc]
-All of them had unnaturally red eyes and seemed to willingly[r]
-accept men, taking pleasure in receiving semen inside them.[pcms]
+全員異様な赤目となり、逆に男を好んで受け入れ、[r]
+精液を体内に受けて悦んでいた。[pcms]
 
 *2050|
 [fc]
-The senior was begging fervently for more, exclaiming how[r]
-good it felt.[pcms]
+先輩に至っては自ら激しくと懇願し、[r]
+気持ちいいと絶句していた。[pcms]
 
 *2051|
 [fc]
-Trembling with fear, I ran away from the scene I had[r]
-witnessed.[pcms]
+わたしは恐怖に震えながら、目の当たりにした[r]
+光景から逃げだした。[pcms]
 
 ;//〆ＢＧ：屋内プール
 [bg storage="BG300"][trans_c cross time=500]
@@ -116,81 +116,80 @@ witnessed.[pcms]
 
 *2052|
 [fc]
-In my shuddering mind, the image of the red-eyed girl I saw[r]
-the day before yesterday and the infectious disaster flashed[r]
-back.[pcms]
+戦慄する頭の中に、一昨日見た赤目の少女と、[r]
+感染災害のことがフラッシュバックした。[pcms]
 
 *2053|
 [fc]
-Come to think of it, I feel like I've seen it before too.[pcms]
+そういえば、わたしも見たことがあるような[r]
+気がする。[pcms]
 
 *2054|
 [fc]
-The incident where Wataru's mother and relatives died. The[r]
-virus that turns people violent and kills them.[pcms]
+航のお母さんや親戚が亡くなったという[r]
+あの事件。人を凶暴化して殺すウィルスだ。[pcms]
 
 *2055|
 [fc]
-But... I looked down at my own arm. We were supposed to have[r]
-been vaccinated against that virus. Without exception,[r]
-everyone in the school had been vaccinated.[pcms]
+でも……わたしは自分の腕に目を落とした。[r]
+そのウィルスには予防接種がされていたはずだ。[r]
+例外なく、学園内の皆も予防接種を受けていた。[pcms]
 
 *2056|
 [fc]
 [vo_yuh s="yuho0484"]
-[ns]Yuuho[nse]
-"I got the shot... I got the shot, so why..."[pcms]
+[ns]悠帆[nse]
+「注射したのに……注射したのにどうして……」[pcms]
 
 *2057|
 [fc]
-[ns]Infected Man C[nse]
-"Woman... woman!!"[pcms]
+[ns]感染者・男Ｃ[nse]
+「おんなぁぁぁぁ、おんなあぁぁぁぁ！！」[pcms]
 
 *2058|
 [fc]
-At that moment, I heard a creepy growl from behind me and[r]
-the sound of something falling.[pcms]
+その時背後から不気味な唸り声と、転落していく[r]
+音が聞こえてきた。[pcms]
 
 *2059|
 [fc]
-Before I knew it, countless infected had gathered below, all[r]
-staring at me.[pcms]
+いつの間にか下には無数の感染者が集まり、[r]
+みんな自分を見つめていた。[pcms]
 
 *2060|
 [fc]
 [vo_yuh s="yuho0485"]
-[ns]Yuuho[nse]
-"No, don't look... don't look at me..."[pcms]
+[ns]悠帆[nse]
+「いやぁ、見ないで……見ないで……」[pcms]
 
 *2061|
 [fc]
-The thought of being seen as prey was terrifying, and I felt[r]
-like I was going mad.[pcms]
+獲物として自分が視線を受けていることが[r]
+恐ろしくて、わたしは気が狂ってしまいそう。[pcms]
 
 *2062|
 [fc]
-The infected who climbed from the catwalk to the roof were[r]
-falling down one after another.[pcms]
+キャットウォークから屋根へと昇った感染者は[r]
+ことごとく下に転落していた。[pcms]
 
 *2063|
 [fc]
-But perhaps they couldn't give up on me?[pcms]
+しかし、わたしをあきらめる事ができないのか。[pcms]
 
 *2064|
 [fc]
-With a creepy smile on their face, they tried to climb back[r]
-up to the catwalk where they originally were.[pcms]
+気味の悪い笑みを浮かべ、元いたキャットウォークへと[r]
+よじ昇ろうとしている。[pcms]
 
 *2065|
 [fc]
 [vo_yuh s="yuho0486"]
-[ns]Yuuho[nse]
-"I'm scared... I'm so scared... Help me, Wataru."[pcms]
+[ns]悠帆[nse]
+「怖い……怖いよ……助けて航」[pcms]
 
 *2066|
 [fc]
-Trembling with fear, my last pillar of support was only[r]
-Wataru.[pcms]
+恐怖に震えながら、わたしの最後の心の支えは、航だけだった。[pcms]
 
 ;[zapend_random]
 [zapfade]

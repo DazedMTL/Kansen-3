@@ -19,43 +19,43 @@
 
 *1636|
 [fc]
-Wait, calm down, me... Indeed, the height isn't much, but[r]
-whether jumping down is really the best move is another[r]
-question.[pcms]
+待った、落ち着けわたし……。[r]
+確かに高さは大したことないけど、飛び降りるのが[r]
+本当に得策かは別問題だ。[pcms]
 
 *1637|
 [fc]
-Even if it's not a fatal injury, getting hurt in this state[r]
-would be desperate. If I can't manage to escape afterwards,[r]
-it's as good as being caught.[pcms]
+致命傷じゃなくても、この状態で怪我をしたら絶望的。[r]
+その後の逃避がままならなくなったら、[r]
+捕まったのと同じことになる。[pcms]
 
 *1638|
 [fc]
-Especially if I hurt my legs, that would be the end of it...[r]
-Let's calm down and check the surroundings once more.[pcms]
+特に足を痛めたら、その時点でお終いなんだから……。[r]
+もう一度冷静に落ち着いて、周囲を確認しよう。[pcms]
 
 *1639|
 [fc]
-There's no doubt the situation is dire, but I can't afford[r]
-to lose my cool.[pcms]
+余裕のない状況なのは間違いないけど、[r]
+冷静さを失っちゃいけない。[pcms]
 
 *1640|
 [fc]
-I took a few deep breaths and then checked again for a[r]
-proper escape route.[pcms]
+わたしは深呼吸を数回してから、もう一度適切な[r]
+逃走経路がないかを確認した。[pcms]
 
 *1641|
 [fc]
-Then, through the window of the catwalk, a part of the[r]
-triangular roof of the corridor came into view.[pcms]
+すると、キャットウォークの窓から、渡り廊下の[r]
+三角形の屋根の一部が目に入った。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1642|
 [fc]
 [vo_yuh s="yuho0378"]
-[ns]Yuuho[nse]
-"...this is it!!"[pcms]
+[ns]悠帆[nse]
+「……こ、これだ！！」[pcms]
 
 ;//→jump　：ラベルブロックA0008・E011
 [jump storage="zapA008.ks" target=*zapA008_01]

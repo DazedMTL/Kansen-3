@@ -14,50 +14,51 @@
 
 *2180|
 [fc]
-I felt like someone was calling out to stop me.[pcms]
+誰かがボクを呼び止めるような声がした。[pcms]
 
 *2181|
 [fc]
-But I ran straight away from the shrine without looking[r]
-back.[pcms]
+けれどボクはまっすぐに後ろも振り向かずに境内から[r]
+走り去った。[pcms]
 
 *2182|
 [fc]
-"Ouch," or "Be careful!" It feels like I was told various[r]
-things.[pcms]
+『イテェ』だとか、『気をつけろ！』だとか。[r]
+なんだか色々言われたような気がする。[pcms]
 
 *2183|
 [fc]
-But who cares about that.[pcms]
+けれどそんな事、構うもんか。[pcms]
 
 *2184|
 [fc]
-[ns]Wataru[nse]
-Yuuho was with Oshima-senpai...[pcms]
+[ns]航[nse]
+「悠帆が、悠帆が大嶋先輩と……」[pcms]
 
 *2185|
 [fc]
-My vision was blurred with tears, and I couldn't make sense[r]
-of anything.[pcms]
+目の前は流した涙でぼやけて、[r]
+何がなんだかわからないくらいだ。[pcms]
 
 *2186|
 [fc]
-Leaving behind the festival music and everything else, I[r]
-just wanted to run away from that place.[pcms]
+祭囃子も何もかもを置き去りにして、[r]
+ボクはただただその場から逃げ出したかった。[pcms]
 
 *2187|
 [fc]
-But... it wasn't until the crowd thinned and I stopped[r]
-bumping into people that I realized I had left Ren behind.[pcms]
+でも……ふと、漣も置いてきてしまった事に気がついたのは、[r]
+すれ違う人もだいぶ少なくなって、[r]
+逆に人とぶつからなくなってからだった。[pcms]
 
 *2188|
 [fc]
-I might have run away in a rush, but everyone might be[r]
-worried about me.[pcms]
+勢いあまって逃げ出してきたけれども、[r]
+もしかしたらみんな心配してるかもしれない。[pcms]
 
 *2189|
 [fc]
-And to think I left Ren behind...[pcms]
+それに漣も置いてきてしまったなんて……。[pcms]
 
 ;//---------------------------------------------------------------
 ;//◎選択肢
@@ -67,14 +68,14 @@ And to think I left Ren behind...[pcms]
 
 ;	[link storage="00100.ks" target=*00100_01]戻った所で悠帆は……[endlink]
 ;	[link storage="00100.ks" target=*00100_02]一応、みんなの所へ帰ろうかな……[endlink]
-[pcms]
+;	[s]
 
 *SEL03|戻った所で悠帆は……／一応、みんなの所へ帰ろうかな……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'When I returned, Yuuho was'"]
-[eval exp="f.seltext04 = 'I guess I should head back to where everyone is'"]
+[eval exp="f.seltext02 = '戻った所で悠帆は……'"]
+[eval exp="f.seltext04 = '一応、みんなの所へ帰ろうかな……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -117,63 +118,64 @@ And to think I left Ren behind...[pcms]
 
 *2190|
 [fc]
-Maybe it would be better to go back and meet up with[r]
-everyone before going home?[pcms]
+やっぱり戻ってみんなと合流してから帰ったほうが[r]
+いいんじゃないんだろうか？[pcms]
 
 *2191|
 [fc]
-Ren too... She's not a child anymore, so she can probably[r]
-get home on her own, but I'm still worried about her.[pcms]
+漣も……。[r]
+もう子供じゃないんだから一人で帰れるだろうけれど、[r]
+心配と言えば心配だ。[pcms]
 
 *2192|
 [fc]
-Besides, if I go home now, I'm sure I'll only cause everyone[r]
-to worry.[pcms]
+それにこのまま帰ったらきっとみんなに[r]
+心配をかけるだけに違いない。[pcms]
 
 *2193|
 [fc]
-[ns]Wataru[nse]
-Alright![pcms]
+[ns]航[nse]
+「よしっ！」[pcms]
 
 *2194|
 [fc]
-I spoke to myself and turned on my heel to go back the way I[r]
-came.[pcms]
+ボクは自分に声をかけて、元来た道を戻ろうと踵を[r]
+返した。[pcms]
 
 *2195|
 [fc]
-At that moment, Yuuho's face flashed through my mind.[pcms]
+そのとたん、ふと悠帆の顔が脳裏をよぎった。[pcms]
 
 *2196|
 [fc]
-Yuuho smiling at me cheerfully.[pcms]
+にこやかにボクに笑いかけてくれる悠帆。[pcms]
 
 *2197|
 [fc]
-Yuuho racing with me on bicycles.[pcms]
+一緒に自転車レースをしている悠帆。[pcms]
 
 *2198|
 [fc]
-[ns]Wataru[nse]
-Yuuho...[pcms]
+[ns]航[nse]
+「悠帆……」[pcms]
 
 *2199|
 [fc]
-The tears that had stopped once began to overflow from my[r]
-eyes again like a dam had broken.[pcms]
+一度止まったはずの涙が、再び堰を切ったかのように[r]
+ボクの目からあふれだした。[pcms]
 
 *2200|
 [fc]
-After all, I can't go back to that place where Yuuho is now.[pcms]
+やっぱり悠帆がいるあの場所には、今のボクは戻れない。[pcms]
 
 *2201|
 [fc]
-I can't go back.[pcms]
+戻ることなんてできない。[pcms]
 
 *2202|
 [fc]
-With a tight fist, I wiped away my tears and, with heavy[r]
-steps, continued alone on my way home.[pcms]
+グイッと涙を握り拳で拭いあげると、ボクは足取り重く[r]
+そのまま一人家路に着いた。[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -193,76 +195,77 @@ steps, continued alone on my way home.[pcms]
 
 *2203|
 [fc]
-[ns]Wataru[nse]
-I should at least go back to where everyone is...[pcms]
+[ns]航[nse]
+「一応みんなの所へ戻ろう……」[pcms]
 
 *2204|
 [fc]
-She's not a child anymore, so she can probably get home on[r]
-her own, but I'm still worried about Ren.[pcms]
+もう子供じゃないんだから一人で帰れるだろうけれど、[r]
+やっぱり漣のことも心配だし。[pcms]
 
 *2205|
 [fc]
-But... what if Yuuho is with everyone?[pcms]
+でも……みんなと一緒に悠帆がいたら？[pcms]
 
 *2206|
 [fc]
-And what if that senior is right next to Yuuho?[pcms]
+おまけにあの先輩が悠帆の隣にいたら？[pcms]
 
 *2207|
 [fc]
-No, they might be standing there, laughing and arm in arm.[pcms]
+いや、腕を組んで笑いながら立っているかもしれない。[pcms]
 
 *2208|
 [fc]
-They might be telling everyone that they've decided to[r]
-date...[pcms]
+付き合うことにした……なんて、[r]
+みんなに報告しているかもしれない。[pcms]
 
 *2209|
 [fc]
-[ns]Wataru[nse]
-I don't want that!![pcms]
+[ns]航[nse]
+「イヤだっ！！」[pcms]
 
 *2210|
 [fc]
-I shouted loudly as if to shake off the delusions in my[r]
-head.[pcms]
+ボクは自分の頭の中の妄想を振り払うように[r]
+大声で叫んだ。[pcms]
 
 *2211|
 [fc]
-But no matter how much I shout, my voice won't reach Yuuho.[pcms]
+でも叫んだところでボクの声は悠帆には聞こえない。[pcms]
 
 *2212|
 [fc]
-Whether Yuuho dates that senior or not is up to her free[r]
-will.[pcms]
+悠帆があの先輩と付き合うかどうかなんて、[r]
+悠帆の自由意志だ。[pcms]
 
 *2213|
 [fc]
-[ns]Wataru[nse]
-I know that, it's obvious. But still...[pcms]
+[ns]航[nse]
+「そんなのわかってる、わかりきってる。[r]
+　けど、でも……」[pcms]
 
 *2214|
 [fc]
-At that moment, the tears that should have stopped once[r]
-again started overflowing.[pcms]
+その瞬間、ボクの目から一度止まったはずの涙が[r]
+再びあふれだした。[pcms]
 
 *2215|
 [fc]
-And pushed by those tears, scenes of Yuuho and that senior[r]
-getting cozy flashed through my mind as if I had actually[r]
-seen them.[pcms]
+そしてその涙に後押しされるように、加速度的に[r]
+ボクの脳裏には悠帆とあの先輩がイチャイチャしている[r]
+シーンが実際に見たかのように浮かんでは消える。[pcms]
 
 *2216|
 [fc]
-[ns]Wataru[nse]
-I can't stand it...[pcms]
+[ns]航[nse]
+「耐えられない……」[pcms]
 
 *2217|
 [fc]
-If I stay still, those scenes in my mind might become[r]
-reality, so I started running towards home again as if[r]
-fleeing from those delusions.[pcms]
+このまま止まっていたら、その脳裏に浮かんだシーンが[r]
+現実化してしまいそうな気さえして、ボクはその妄想から[r]
+逃げ出すように、再び家に向かって駆け出した。[pcms]
 
 ;//〆：黒画面
 ;//[fadeoutbgm time=500]

@@ -1,10 +1,10 @@
 ;//block:C007
-;//ブロック４２０６０『地下道漣のみ脱出編』
+;//ブロック４２０６０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42050.txtから
 
 *42060_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣
@@ -17,15 +17,14 @@
 
 *5194|
 [fc]
-After Ren woke up, I fed her lunch and then the senior and I[r]
-went out to explore.[pcms]
+起きだした漣にお弁当を食べさせると[r]
+ボクと先輩は探索に出かけた。[pcms]
 
 *5195|
 [fc]
-Ren didn't have much of an appetite, but she was persuaded[r]
-by the senior's words, "It's precisely at times like these[r]
-that you need to eat," and slowly but surely, she finished[r]
-it all.[pcms]
+漣はあまり食欲はなかったけど[r]
+「こういう時にこそ食べておかないと」[r]
+と言う先輩の言葉にうながされて、ゆっくりとだけど全部食べた。[pcms]
 
 ;//回想エフェクト
 ;//@konya ev025 地下道(BG扱い)
@@ -36,41 +35,38 @@ it all.[pcms]
 *5196|
 [fc]
 [vo_mar s="maru0681"]
-[ns]Margarita[nse]
-"I want to check what's beyond this passage..."[pcms]
+[ns]マルガリータ[nse]
+「一応、こっちの通路の先を見ておきたい……」[pcms]
 
 *5197|
 [fc]
-With that said, I followed the senior who was about to[r]
-explore on her own.[pcms]
+そう言って、一人探索に出ようとした先輩にボクはついてきた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5198|
 [fc]
-Ren and Kousuke wanted to come along, but Ren still had a[r]
-bit of a fever, so I didn't want to push her.[pcms]
+漣もコースケもついて来たがったけど、[r]
+漣はまだ少し熱があるから無理をさせたくない。[pcms]
 
 *5199|
 [fc]
-Since I couldn't leave Ren alone, I asked Kousuke to stay[r]
-behind with her.[pcms]
+かといって漣一人にしておくわけにもいかないので[r]
+コースケに頼んで残ってもらった。[pcms]
 
 *5200|
 [fc]
-When Kousuke heard Ren had a fever, he gladly accepted, but[r]
-Ren was reluctant to back down.[pcms]
+コースケは漣に熱があるというと、快く引き受けてくれたが[r]
+漣がなかなか引き下がらない。[pcms]
 
 *5201|
 [fc]
-In the end, I convinced her by saying it would be better if[r]
-someone was there in case the DHK door opened, and Ren[r]
-reluctantly agreed.[pcms]
+結局、ＤＨＫの扉が開いた場合に誰かがいたほうが良い、[r]
+と理由をつけると漣は渋々納得した。[pcms]
 
 *5202|
 [fc]
-After all, it's obvious that it's better to have someone[r]
-there when the door opens.[pcms]
+実際、扉が開いた時に誰かがいたほうがいいに決まっている。[pcms]
 
 ;//回想エフェクト　終
 
@@ -82,14 +78,13 @@ there when the door opens.[pcms]
 
 *5203|
 [fc]
-I used a flashlight, and the senior wore a lamp on her head[r]
-as we proceeded down the passage. It was an oddly shaped[r]
-light, but I was impressed that it could be used in such a[r]
-way.[pcms]
+ボクは懐中電灯で、先輩は頭にランプをつけて、通路を進んで行く。[r]
+変わった形のライトだったけど、こういう使い方もできるように[r]
+なってるんだと、ボクは感心した。[pcms]
 
 *5204|
 [fc]
-And so, we continued down the passage towards Yoyogi.[pcms]
+そうやって、ボクらは代々木方向へと通路を進んでいった。[pcms]
 
 ;//マル子　制服＋ヘッドライト
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -97,167 +92,169 @@ And so, we continued down the passage towards Yoyogi.[pcms]
 *5205|
 [fc]
 [vo_mar s="maru0682"]
-[ns]Margarita[nse]
-"Wataru. Actually, I wanted an opportunity to be alone with[r]
-you. There's something I want to ask... is that okay?"[pcms]
+[ns]マルガリータ[nse]
+「ワタル。[r]
+　実はキミと二人っきりになる機会がほしかった。[r]
+　ちょっと聞きたいことがあるんだが……いいか？」[pcms]
 
 *5206|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「は、はい……」[pcms]
 
 *5207|
 [fc]
-Since we started exploring, the senior, who had been mostly[r]
-silent until now, suddenly spoke to me and I reflexively[r]
-responded in surprise.[pcms]
+探索を始めてから、これまでほとんど無言だった先輩が[r]
+突然話しかけてきたことにボクは驚いて反射的に答えてしまう。[pcms]
 
 *5208|
 [fc]
 [vo_mar s="maru0683"]
-[ns]Margarita[nse]
-"What do you think...?"[pcms]
+[ns]マルガリータ[nse]
+「キミは……どう思う……？」[pcms]
 
 *5209|
 [fc]
-[ns]Wataru[nse]
-"Uh... well..."[pcms]
+[ns]航[nse]
+「えっ……その……」[pcms]
 
 *5210|
 [fc]
-How am I supposed to answer that all of a sudden![pcms]
+そんな、いきなり聞かれても！[pcms]
 
 *5211|
 [fc]
-[ns]Wataru[nse]
-"...I think you're... a wonderful person..."[pcms]
+[ns]航[nse]
+「……先輩は……素敵な人だと思います……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5212|
 [fc]
 [vo_mar s="maru0684"]
-[ns]Margarita[nse]
-"Eh...!?"[pcms]
+[ns]マルガリータ[nse]
+「えっ……！？」[pcms]
 
 *5213|
 [fc]
-The senior looked surprised.[pcms]
+先輩は驚いた顔をする。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5214|
 [fc]
 [vo_mar s="maru0685"]
-[ns]Margarita[nse]
-"No, not like that... I mean about this situation..."[pcms]
+[ns]マルガリータ[nse]
+「そ、そういうことではなくて……。[r]
+　この事態のことなんだが……」[pcms]
 ;//＠　照れまじり
 
 *5215|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「は、はい……」[pcms]
 
 *5216|
 [fc]
-I also thought it was strange. I couldn't imagine the senior[r]
-talking about such things, nor could I imagine someone like[r]
-her being interested in me.[pcms]
+ボクもオカシイと思った。[r]
+先輩がそういう話をするとは思えないし、[r]
+先輩みたいな人がボクに気があるとは思えない。[pcms]
 
 *5217|
 [fc]
-The only thing that might impress the senior is that I'm[r]
-able to take good care of Ren... But that's just expected.[pcms]
+先輩が感心するようなことなんて、[r]
+ちゃんと漣の世話をできてることくらいで……。[r]
+……そんなのは当たり前だし。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5218|
 [fc]
 [vo_mar s="maru0686"]
-[ns]Margarita[nse]
-"This might be like rubbing salt in the wound... but it's[r]
-important... That's why I didn't want to discuss it in front[r]
-of your weakened sister."[pcms]
+[ns]マルガリータ[nse]
+「その……傷口に塩を塗りこめるような話だが……[r]
+　重要なことだ……。[r]
+　だから、衰弱している妹さんの前ではしたくなかった」[pcms]
 
 *5219|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「は、はいっ……。[pcms]
 
 *5220|
 [fc]
-The words "alone together" made me imagine something strange[r]
-for a moment, but the phrase "rubbing salt in the wound"[r]
-made me serious.[pcms]
+二人きりって言葉に、ちょっとだけ変な想像をしてしまったが、[r]
+傷口に塩って言葉がボクを真剣にさせる。[pcms]
 
 *5221|
 [fc]
-So that's it, it was a conversation she didn't want Ren to[r]
-hear...[pcms]
+そうか、漣に聞かせたくない話だったから……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5222|
 [fc]
 [vo_mar s="maru0687"]
-[ns]Margarita[nse]
-"I said it was uncertain information from overseas... but I[r]
-think this incident might be the same as the previous Tohoku[r]
-infection disaster."[pcms]
+[ns]マルガリータ[nse]
+「海外からの不確かな情報だとワタシは言ったが……[r]
+　今回の事件、以前の[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]と[r]
+　同じものではないかとワタシは思っている」[pcms]
 
 *5223|
 [fc]
 [vo_mar s="maru0688"]
-[ns]Margarita[nse]
-"What do you think?"[pcms]
+[ns]マルガリータ[nse]
+「キミは……どうだ？」[pcms]
 
 *5224|
 [fc]
-[ns]Wataru[nse]
-"Yes... I think so too. It was also mentioned in an email[r]
-from my father..."[pcms]
+[ns]航[nse]
+「はっ……はい……。[r]
+　ボクもそう思います。[r]
+　父さんからのメールにもそうありました……」[pcms]
 
 *5225|
 [fc]
 [vo_mar s="maru0689"]
-[ns]Margarita[nse]
-"I see..."[pcms]
+[ns]マルガリータ[nse]
+「そうか……」[pcms]
 
 *5226|
 [fc]
-The senior nodded as if she understood.[pcms]
+先輩は納得したようにうなずく。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5227|
 [fc]
 [vo_mar s="maru0690"]
-[ns]Margarita[nse]
-"...You lost your mother in the Tohoku infection disaster.[r]
-Can you tell me more about what happened then?"[pcms]
+[ns]マルガリータ[nse]
+「……キミは[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]で母上を亡くした。[r]
+　その時のことを詳しく教えてはくれないか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5228|
 [fc]
 [vo_mar s="maru0691"]
-[ns]Margarita[nse]
-"I know it's hard, but it's for our survival..."[pcms]
+[ns]マルガリータ[nse]
+「辛いとは思うが、ワタシたちが生きのびるためだ……」[pcms]
 
 *5229|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5230|
 [fc]
-[ns]Wataru[nse]
-"Yes. If it's something I know..."[pcms]
+[ns]航[nse]
+「はい。[r]
+　ボクの知っていることだったら……」[pcms]
 
 *5231|
 [fc]
-It was painful to recall, but I told the senior everything I[r]
-knew.[pcms]
+思い出すことは辛かったけど、[r]
+ボクは先輩に自分の知っている限りのことを話した。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -280,64 +277,69 @@ knew.[pcms]
 *5232|
 [fc]
 [vo_mar s="maru0692"]
-[ns]Margarita[nse]
-"I see... That's mostly what I had heard..."[pcms]
+[ns]マルガリータ[nse]
+「なるほど……。[r]
+　だいたいは聞いていたとおりだな……」[pcms]
 
 *5233|
 [fc]
-[ns]Wataru[nse]
-"Is that so... Sorry."[pcms]
+[ns]航[nse]
+「そうですか……。[r]
+　すいません」[pcms]
 
 *5234|
 [fc]
-[ns]Wataru[nse]
-"I wasn't taught about how people who get infected turn out[r]
-like that... Just that 'they become violent and you get[r]
-infected if they assault you'."[pcms]
+[ns]航[nse]
+「感染した人があんな風になっちゃうことまでは教えられて[r]
+　なかったくらいですから……。[r]
+　ただ、『凶暴になって、乱暴されるとうつる』としか……」[pcms]
 
 *5235|
 [fc]
 [vo_mar s="maru0693"]
-[ns]Margarita[nse]
-"That makes sense. It must be difficult to talk about... In[r]
-Japan, 'assault' is also a euphemism for rape..."[pcms]
+[ns]マルガリータ[nse]
+「それはそうだろう。[r]
+　いいにくいことだろうしな……。[r]
+　日本では乱暴というのはその……レイプの隠語でもあるし……」[pcms]
 
 *5236|
 [fc]
-[ns]Wataru[nse]
-"Yes... I had heard rumors..."[pcms]
+[ns]航[nse]
+「はい……。[r]
+　……噂では聞いてましたが……」[pcms]
 
 *5237|
 [fc]
-I knew about it... but I didn't want to accept it. I didn't[r]
-want to imagine it.[pcms]
+知っていはいたけど……認めたくなかった。[r]
+想像したくなかった。[pcms]
 
 *5238|
 [fc]
-About my mother... And about Yuuho...[pcms]
+母さんのことも……。[r]
+悠帆のことも……。[pcms]
 
 *5239|
 [fc]
 [vo_mar s="maru0694"]
-[ns]Margarita[nse]
-"I understand how you feel. It's unbelievable to see someone[r]
-you know turn into such a state, and even if you see it, you[r]
-don't want to accept it."[pcms]
+[ns]マルガリータ[nse]
+「気持ちはわかる。[r]
+　自分の知っている人間があんな姿になるのは信じられないし、[r]
+　実際に見ても認めたくはないだろう」[pcms]
 
 *5240|
 [fc]
 [vo_mar s="maru0695"]
-[ns]Margarita[nse]
-"I would probably feel the same..."[pcms]
+[ns]マルガリータ[nse]
+「ワタシだって、きっとそうだ……」[pcms]
 
 *5241|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はい……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b22"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0696"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「母が物言わぬ、焼けただれ、崩れた肉の塊に変わっても
 ;//　信じられなかった。
 ;//　認めたくはなかった……」
@@ -347,255 +349,260 @@ don't want to accept it."[pcms]
 
 *5242|
 [fc]
-Margarita said this with a somewhat sad expression on her[r]
-face.[pcms]
+そう言うと、マルガリータ先輩は、どこか悲しそうな[r]
+表情を浮かべた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5243|
 [fc]
 [vo_mar s="maru0697"]
-[ns]Margarita[nse]
-"That's why I think I understand... your feelings..."[pcms]
+[ns]マルガリータ[nse]
+「だから、わかってはいるつもりだ……。[r]
+　キミの気持ちは……」[pcms]
 
 *5244|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はい……」[pcms]
 
 *5245|
 [fc]
-Senpai laughed a little self-deprecatingly. To me, it seemed[r]
-like she was desperately trying to fight back her sadness.[pcms]
+先輩は少し自嘲気味に笑う。[r]
+それは必死に悲しみに逆らっている姿だと、ボクには思えた。[pcms]
 
 *5246|
 [fc]
-Senpai continued without closing her mouth.[pcms]
+先輩はそのまま口を閉ざすことなく続ける。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5247|
 [fc]
 [vo_mar s="maru0698"]
-[ns]Margarita[nse]
-"Unknown-LV4, a virus that destroys the brain and paralyzes[r]
-human reason. Its lethality is high, over 99%."[pcms]
+[ns]マルガリータ[nse]
+「『Ｕｎｋｎｏｗｎ－ＬＶ４』[r]
+　脳を破壊し、人間の理性を麻痺させるウィルス。[r]
+　その致死性は高く、９９％以上」[pcms]
 
 *5248|
 [fc]
 [vo_mar s="maru0699"]
-[ns]Margarita[nse]
-"Those who show symptoms can die within as early as 7 hours.[r]
-Normally, they die within about 48 hours... Though there are[r]
-extremely rare cases of survival beyond 10 days."[pcms]
+[ns]マルガリータ[nse]
+「発症したものは早ければ７時以内に死に至る。[r]
+　通常は４８時間程度で死亡……か。[r]
+　極稀に１０日を越えて生存するケースも確認されている」[pcms]
 
 *5249|
 [fc]
 [vo_mar s="maru0700"]
-[ns]Margarita[nse]
-"There's no mistake, right? Wataru"[pcms]
+[ns]マルガリータ[nse]
+「間違いはないな？　ワタル」[pcms]
 
 *5250|
 [fc]
-[ns]Wataru[nse]
-"Yes... That's what I've heard."[pcms]
+[ns]航[nse]
+「はい……。[r]
+　ボクはそう聞いています」[pcms]
 
 *5251|
 [fc]
-Senpai nodded silently, as if satisfied with my response.[pcms]
+先輩はボクの返事に無言で納得するように首を振る。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5252|
 [fc]
 [vo_mar s="maru0701"]
-[ns]Margarita[nse]
-"...In the case of Tohoku, a relatively quick response by[r]
-the U.S. military and the Self-Defense Forces should have[r]
-completely subdued the situation with a vaccine developed in[r]
-America... But now..."[pcms]
+[ns]マルガリータ[nse]
+「……東北の場合は、比較的早い対応で米軍と自衛隊による鎮圧が[r]
+　行われ、アメリカで開発されたワクチンで事態は完全に[r]
+　沈静したはずだった……それが、今……」[pcms]
 
 *5253|
 [fc]
-[ns]Wataru[nse]
-"That's what I don't understand. How can people still show[r]
-symptoms even after being vaccinated..."[pcms]
+[ns]航[nse]
+「ボクもそこがわからないんです。[r]
+　ワクチンを打っているのに、発症するだなんて……」[pcms]
 
 *5254|
 [fc]
 [vo_mar s="maru0702"]
-[ns]Margarita[nse]
-"Right... But have you considered the opposite?"[pcms]
+[ns]マルガリータ[nse]
+「そうだな……。[r]
+　だが、逆には考えられないか？」[pcms]
 
 *5255|
 [fc]
 [vo_mar s="maru0703"]
-[ns]Margarita[nse]
-"It's because the virus is resistant to the vaccine that the[r]
-infection has started like this..."[pcms]
+[ns]マルガリータ[nse]
+「ワクチンが効かないウィルスだからこそ、[r]
+　こうやって感染が始まったと……」[pcms]
 
 *5256|
 [fc]
 [vo_mar s="maru0704"]
-[ns]Margarita[nse]
-"The virus has a short lifespan and multiplies in vast[r]
-numbers. In other words, it undergoes adaptive evolution and[r]
-sudden mutations at a rate and scale incomparable to what we[r]
-know of biological evolution."[pcms]
+[ns]マルガリータ[nse]
+「ウィルスはライフスパンも短く、膨大な数に増殖する。[r]
+　つまりは我々が知っている生物の進化とは比べものにならない[r]
+　速度と規模で適応進化と突然変異を行っている」[pcms]
 
 *5257|
 [fc]
-[ns]Wataru[nse]
-"Adaptive evolution and sudden mutations...?"[pcms]
+[ns]航[nse]
+「適応進化と突然変異……ですか……」[pcms]
 
 *5258|
 [fc]
-It sounds like something out of a sci-fi story.[pcms]
+なんだかＳＦっぽい話だ。[pcms]
 
 *5259|
 [fc]
-I also like looking at the stars, so I'm interested in[r]
-space, and I understand a bit about science and sci-fi.[pcms]
+ボクも星を見るのが好きだから、宇宙には興味があるし、[r]
+科学やＳＦも少しくらいならわかる。[pcms]
 
 *5260|
 [fc]
 [vo_mar s="maru0705"]
-[ns]Margarita[nse]
-"In other words, if such a number has increased, then a[r]
-mutant strain that the vaccine doesn't affect could be born,[r]
-and only that strain could survive..."[pcms]
+[ns]マルガリータ[nse]
+「つまり、それだけの数が増えていれば、[r]
+　ワクチンが効かない変異体が生まれて、[r]
+　それだけが生きていけるようになる……」[pcms]
 
 *5261|
 [fc]
 [vo_mar s="maru0706"]
-[ns]Margarita[nse]
-"As a result, only those who adapt will survive and[r]
-multiply. 'Natural selection' and 'survival of the fittest.'[r]
-It's Darwin's theory of evolution."[pcms]
+[ns]マルガリータ[nse]
+「結果、適応できたものだけが生き残り、増える。[r]
+　『自然淘汰』と『適者生存』。[r]
+　ダーウィンの唱えた進化論だ」[pcms]
 
 *5262|
 [fc]
-[ns]Wataru[nse]
-"Is that like... because giraffes wanted to stretch their[r]
-necks, giraffe necks got longer?"[pcms]
+[ns]航[nse]
+「それって……首を伸ばしたいキリンが増えたから、[r]
+　キリンの首がのびったってやつですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5263|
 [fc]
 [vo_mar s="maru0707"]
-[ns]Margarita[nse]
-"You misunderstood that too... Just because they wanted to[r]
-stretch doesn't mean their necks got longer. It's because[r]
-only giraffes with long necks could survive."[pcms]
+[ns]マルガリータ[nse]
+「キミもそう勘違いしていたか……。[r]
+　伸ばしたいと思ったからといって首が伸びる訳がない。[r]
+　あれは首が長いキリンだけが生き残れたからだ」[pcms]
 
 *5264|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5265|
 [fc]
-My knowledge was quickly exposed as superficial.[pcms]
+ボクの知識は早くも馬脚をあらわした。[pcms]
 
 *5266|
 [fc]
 [vo_mar s="maru0708"]
-[ns]Margarita[nse]
-"When long-necked giraffes mate with each other, the[r]
-probability of giving birth to long-necked giraffes[r]
-increases. And again, only those with long necks survive..."[pcms]
+[ns]マルガリータ[nse]
+「生き残れた首の長いキリン同士が子供作ると、[r]
+　首の長いキリンが生まれる確率が高くなる。[r]
+　そして、また首の長いものだけが生き残り……」[pcms]
 
 *5267|
 [fc]
 [vo_mar s="maru0709"]
-[ns]Margarita[nse]
-"Thus, over time, it becomes normal for giraffes to have[r]
-long necks. The birth of a 'long-necked species'."[pcms]
+[ns]マルガリータ[nse]
+「そうして、[r]
+　いつしか首の長いものの方が、当たり前になる。[r]
+　『首の長い種』の誕生だ」[pcms]
 
 *5268|
 [fc]
-[ns]Wataru[nse]
-"The same thing is happening... to that virus!?"[pcms]
+[ns]航[nse]
+「それと同じことが……あのウィルスにも！？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5269|
 [fc]
 [vo_mar s="maru0710"]
-[ns]Margarita[nse]
-"Yes... Other organisms might take hundreds or thousands of[r]
-years to undergo such changes. Well, viruses are things that[r]
-are both living and non-living..."[pcms]
+[ns]マルガリータ[nse]
+「ああ……。[r]
+　他の生物なら何百年、何千年かかかるような変化をしたんだ。[r]
+　まあ、ウィルスは生物であって生物ではないものだがな……」[pcms]
 
 *5270|
 [fc]
 [vo_mar s="maru0711"]
-[ns]Margarita[nse]
-"Viruses can't multiply without taking over the cells of[r]
-other organisms... Well, this is beside the point. I'm not[r]
-an expert, and I might be wrong."[pcms]
+[ns]マルガリータ[nse]
+「ウィルスは他の生物の細胞をのっとらねば増殖できないから[r]
+　……まあ、これはどうでもいい話だな。[r]
+　ワタシは専門家ではないし、間違っているかもしれない」[pcms]
 
 *5271|
 [fc]
-Senpai seemed embarrassed as if she had inadvertently said[r]
-too much.[pcms]
+先輩はつい、よけいなことを言ってしまったと言うように[r]
+照れくさそうにしている。[pcms]
 
 *5272|
 [fc]
 [vo_mar s="maru0712"]
-[ns]Margarita[nse]
-"Anyway, what we do know is that the current vaccines seem[r]
-to be ineffective... There's also a possibility that its[r]
-characteristics have changed."[pcms]
+[ns]マルガリータ[nse]
+「とにかく、わかっていることは今までのワクチンでは[r]
+　効果がないようだということだ……。[r]
+　特性が変わっている可能性もある」[pcms]
 
 *5273|
 [fc]
-[ns]Wataru[nse]
-"I see... So there's also a possibility that you can be[r]
-infected without dying..."[pcms]
+[ns]航[nse]
+「なるほど……。[r]
+　……そうなると、感染しても死なない可能性も[r]
+　あるわけですね……」[pcms]
 
 *5274|
 [fc]
 [vo_mar s="maru0713"]
-[ns]Margarita[nse]
-"...Right. It's easier for it to multiply if it's not[r]
-lethal. But that doesn't necessarily mean it's so."[pcms]
+[ns]マルガリータ[nse]
+「……そうだな。[r]
+　致死性がなくなったほうが増殖しやすい。[r]
+　だからといって、そうとは限らない」[pcms]
 
 *5275|
 [fc]
 [vo_mar s="maru0714"]
-[ns]Margarita[nse]
-"For now, we should believe in the virus's high lethality[r]
-and wait until the spread of infection saturates and the[r]
-lifespan of the infected comes to an end..."[pcms]
+[ns]マルガリータ[nse]
+「とりあえずはウィルスの持つ高い致死性を信じて、[r]
+　感染の拡大が飽和し、感染者の寿命が来るまで[r]
+　待った方が良いということか……」[pcms]
 
 *5276|
 [fc]
-[ns]Wataru[nse]
-"That's an unpleasant thought..."[pcms]
+[ns]航[nse]
+「いやな、話ですね……」[pcms]
 
 *5277|
 [fc]
 [vo_mar s="maru0715"]
-[ns]Margarita[nse]
-"Yes, but it's reality..."[pcms]
+[ns]マルガリータ[nse]
+「ああ、だが現実だ……」[pcms]
 
 *5278|
 [fc]
-Senpai said this calmly. But I felt that despite her words,[r]
-she was grieving.[pcms]
+先輩は冷静にそう言った。[r]
+だけど、ボクは先輩が口ではそう言いながらも、[r]
+嘆いている気がしていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5279|
 [fc]
 [vo_mar s="maru0716"]
-[ns]Margarita[nse]
-"For now, we need to secure a place to barricade ourselves[r]
-and gather food. If there are rumors of bombings by the U.S.[r]
-military for suppression, we also need to consider[r]
-durability..."[pcms]
+[ns]マルガリータ[nse]
+「とりあえず、立てこもれる場所と食料の確保だ。[r]
+　米軍が鎮圧のために爆撃を行ったという噂があるなら、[r]
+　耐久性も考えておかないとな……」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -610,64 +617,65 @@ durability..."[pcms]
 *5280|
 [fc]
 [vo_mar s="maru0717"]
-[ns]Margarita[nse]
-"Hm... The door!"[pcms]
+[ns]マルガリータ[nse]
+「んっ……扉だっ！」[pcms]
 
 *5281|
 [fc]
-In the light of the flashlight, the door in front of us[r]
-didn't seem too rusted or damaged.[pcms]
+ライトの光に、目の前に浮かび上がる扉は[r]
+サビも浮いてないみたいで、さほど傷んではないようだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5282|
 [fc]
 [vo_mar s="maru0718"]
-[ns]Margarita[nse]
-"And... There seems to be a path to the left as well."[pcms]
+[ns]マルガリータ[nse]
+「それに……。[r]
+　やはり、左にも道があったな」[pcms]
 
 *5283|
 [fc]
-[ns]Wataru[nse]
-"Let's check the door first."[pcms]
+[ns]航[nse]
+「先に扉を調べてみましょう」[pcms]
 
 *5284|
 [fc]
 [vo_mar s="maru0719"]
-[ns]Margarita[nse]
-"...Understood..."[pcms]
+[ns]マルガリータ[nse]
+「……わかった……」[pcms]
 
 *5285|
 [fc]
-Senpai and I began examining the door.[pcms]
+ボクと先輩は扉を調べ始めた。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5286|
 [fc]
-This door was quite new compared to the others we've seen.[r]
-Besides a lever-type knob, there was also a rotary handle[r]
-lock. It even had rubber seals for waterproofing.[pcms]
+今までの扉と違ってずいぶんと新しい。[r]
+レバー型のノブの他に、回転ハンドル式のロック。[r]
+隙間にはゴムで防水までしてある。[pcms]
 
 *5287|
 [fc]
-The rubber seemed like an added waterproof seal.[pcms]
+ゴムは後付けの防水シールのようだ。[pcms]
 
 *5288|
 [fc]
-[ns]Wataru[nse]
-"This one seems quite new. It's different from the others[r]
-we've seen."[pcms]
+[ns]航[nse]
+「これはずいぶん新しいみたいですね。[r]
+　今までのとは違う」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5289|
 [fc]
 [vo_mar s="maru0720"]
-[ns]Margarita[nse]
-"It doesn't look like it will be rusted shut. It would be[r]
-good if it opens..."[pcms]
+[ns]マルガリータ[nse]
+「サビていて開かないなんてことはなさそうだな。[r]
+　開けばいいんだが……」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -676,9 +684,9 @@ good if it opens..."[pcms]
 
 *5290|
 [fc]
-When Senpai turned the handle, the door opened easily.[r]
-Beyond it was a narrow, square passage that continued on,[r]
-illuminated by our flashlight.[pcms]
+先輩がハンドルを動かすと、簡単に扉は開いた。[r]
+扉の奥には、四角くてせまい通路がずっと続いているのが[r]
+懐中電灯に照らし出される。[pcms]
 
 ;//@konya 地下通路
 [bg storage="BG027"][trans_c cross time=500]
@@ -688,33 +696,33 @@ illuminated by our flashlight.[pcms]
 *5291|
 [fc]
 [vo_mar s="maru0721"]
-[ns]Margarita[nse]
-"...?"[pcms]
+[ns]マルガリータ[nse]
+「………………？」[pcms]
 
 *5292|
 [fc]
-[ns]Wataru[nse]
-"What's wrong? Senpai"[pcms]
+[ns]航[nse]
+「どうかしたんですか？　先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5293|
 [fc]
 [vo_mar s="maru0722"]
-[ns]Margarita[nse]
-"It's not just that it opened easily. It seems like it has[r]
-been maintained."[pcms]
+[ns]マルガリータ[nse]
+「簡単に開くだけではない。[r]
+　どうやら、手入れがされているようだ」[pcms]
 
 *5294|
 [fc]
-[ns]Wataru[nse]
-"Does that mean this door is still in use?"[pcms]
+[ns]航[nse]
+「まだ使われている扉ということですか？」[pcms]
 
 *5295|
 [fc]
 [vo_mar s="maru0723"]
-[ns]Margarita[nse]
-"Yes, though I'm not sure what for..."[pcms]
+[ns]マルガリータ[nse]
+「ああ、なんのためかはわからないか……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -724,62 +732,63 @@ been maintained."[pcms]
 
 *5296|
 [fc]
-A narrow corridor about two meters in height and width. The[r]
-sound of flowing water can be heard from within.[pcms]
+縦横２メートルほどの狭い通路。[r]
+奥から水の流れる音が聞こえてくる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5297|
 [fc]
 [vo_mar s="maru0724"]
-[ns]Margarita[nse]
-"This way... it's towards Udagawa Street. ...The stench of[r]
-sewage is strong. It must be connected to the Udagawa[r]
-culvert."[pcms]
+[ns]マルガリータ[nse]
+「こっちは……宇田川通り方向だな。[r]
+　……下水の嫌な臭いが強いな。[r]
+　宇田川の暗渠に繋がってるに違いないだろう」[pcms]
 
 *5298|
 [fc]
-[ns]Wataru[nse]
-"Udagawa?"[pcms]
+[ns]航[nse]
+「宇田川ですか？」[pcms]
 
 *5299|
 [fc]
-Indeed, as Senpai said, a distinctive sewage odor wafted[r]
-through the passage.[pcms]
+たしかに先輩の言うとおり、[r]
+この通路からは下水特有の悪臭が漂ってくる。[pcms]
 
 *5300|
 [fc]
 [vo_mar s="maru0725"]
-[ns]Margarita[nse]
-"This would be upstream. The Udagawa culvert narrows[r]
-drastically as you get closer to this side."[pcms]
+[ns]マルガリータ[nse]
+「こっちは上流にあたるな。[r]
+　宇田川の暗渠は、こちら側に来れば来るほど[r]
+　川幅が極端に狭くなる」[pcms]
 
 *5301|
 [fc]
 [vo_mar s="maru0726"]
-[ns]Margarita[nse]
-"The sewers ahead are not suitable for movement. Besides,[r]
-this corridor itself is too narrow."[pcms]
+[ns]マルガリータ[nse]
+「ここの先の下水は移動には向かないな。[r]
+　そもそもこの通路自体が狭過ぎる」[pcms]
 
 *5302|
 [fc]
-[ns]Wataru[nse]
-"...That's true."[pcms]
+[ns]航[nse]
+「……そうですね」[pcms]
 
 *5303|
 [fc]
-With this narrowness, even if someone crazed attacked alone,[r]
-it might be impossible to dodge.[pcms]
+この狭さだと、おかしくなった人が一人で襲ってきたって、[r]
+かわせないかもしれない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5304|
 [fc]
 [vo_mar s="maru0727"]
-[ns]Margarita[nse]
-"If we're going to enter the river, it's better to go back[r]
-to the first fork. It's safer to escape from there. This[r]
-route should be a last resort."[pcms]
+[ns]マルガリータ[nse]
+「川に入るなら、最初の分かれ道まで戻った方がいいな。[r]
+　あそこから逃げた方が安全だな。[r]
+　こっちを使うのは最後の手段だ」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -788,7 +797,7 @@ route should be a last resort."[pcms]
 
 *5305|
 [fc]
-Senpai closed the door.[pcms]
+先輩は扉を閉めた。[pcms]
 
 ;//@konya 地下通路
 [bg storage="BG027"][trans_c cross time=500]
@@ -798,13 +807,13 @@ Senpai closed the door.[pcms]
 *5306|
 [fc]
 [vo_mar s="maru0728"]
-[ns]Margarita[nse]
-"Even so... what could this passage be for...?"[pcms]
+[ns]マルガリータ[nse]
+「それにしても……なんなんだろう？[r]
+　この通路は……」[pcms]
 
 *5307|
 [fc]
-Senpai closed the door firmly and tilted her head in thought[r]
-again.[pcms]
+先輩は扉をしっかりと閉めながら、また首をかしげた。[pcms]
 
 ;//場面転換
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -814,7 +823,7 @@ again.[pcms]
 
 *5308|
 [fc]
-We proceeded down the path beside the door.[pcms]
+ボクたちは扉の脇の道へと進んだ。[pcms]
 
 ;//@konya 地下通路
 [bg storage="BG027"][trans_c cross time=500]
@@ -824,67 +833,68 @@ We proceeded down the path beside the door.[pcms]
 *5309|
 [fc]
 [vo_mar s="maru0729"]
-[ns]Margarita[nse]
-"This area must be within Yoyogi Park's grounds by now..."[pcms]
+[ns]マルガリータ[nse]
+「この辺りはもう、代々木公園の敷地内だろうな……」[pcms]
 
 *5310|
 [fc]
-[ns]Wataru[nse]
-"It would be nice if there's a place to surface above[r]
-ground..."[pcms]
+[ns]航[nse]
+「地上に出れる場所があるといいですね……」[pcms]
 
 *5311|
 [fc]
-From here, it still seems possible to reach Dad's DHK. There[r]
-might not be a connecting passage, though...[pcms]
+ここならまだ、父さんのＤＨＫにはいけそうな距離だ。[r]
+連絡通路はないかもしれないけど……。[pcms]
 
 *5312|
 [fc]
 [vo_mar s="maru0540"]
-[ns]Margarita[nse]
-"Ah... I hope it's still there..."[pcms]
+[ns]マルガリータ[nse]
+「ああ……。[r]
+　残っていればいいんだが……」[pcms]
 
 *5313|
 [fc]
-[ns]Wataru[nse]
-"I'm sure it is... Even the female urinals made for the[r]
-Olympics are still around..."[pcms]
+[ns]航[nse]
+「きっとありますよ……。[r]
+　オリンピックの時に作った女性用の立小便器だって、[r]
+　まだ残ってるくらいですから……」[pcms]
 
 *5314|
 [fc]
 [vo_mar s="maru0731"]
-[ns]Margarita[nse]
-"I've heard about that... Apparently, they were made by[r]
-mistake during the Olympics. Japan was quite ignorant of[r]
-foreign countries back then..."[pcms]
+[ns]マルガリータ[nse]
+「そういえば聞いたことがある……。[r]
+　オリンピックの際に間違って作ったらしいな。[r]
+　そのころの日本は随分と外国を知らない時代だったんだな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5315|
 [fc]
 [vo_mar s="maru0732"]
-[ns]Margarita[nse]
-"...I hope it's still there in the same way..."[pcms]
+[ns]マルガリータ[nse]
+「……同じように残っているといいのだが……」[pcms]
 
 *5316|
 [fc]
-[ns]Wataru[nse]
-"What's wrong... Senpai?"[pcms]
+[ns]航[nse]
+「どうしたんですか……先輩？」[pcms]
 
 *5317|
 [fc]
-Senpai seemed unusually reticent.[pcms]
+なんだか先輩の口が重い。[pcms]
 
 *5318|
 [fc]
 [vo_mar s="maru0733"]
-[ns]Margarita[nse]
-"No, just remembered something unpleasant..."[pcms]
+[ns]マルガリータ[nse]
+「いや、嫌な話を思い出した……」[pcms]
 
 *5319|
 [fc]
-[ns]Wataru[nse]
-"Unpleasant... story?"[pcms]
+[ns]航[nse]
+「いやな……話？」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -894,78 +904,79 @@ Senpai seemed unusually reticent.[pcms]
 
 *5320|
 [fc]
-[ns]Wataru[nse]
-"Senpai!?"[pcms]
+[ns]航[nse]
+「先輩！？」[pcms]
 
 *5321|
 [fc]
-Senpai suddenly stopped walking.[pcms]
+先輩の脚が突然止まった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5322|
 [fc]
 [vo_mar s="maru0734"]
-[ns]Margarita[nse]
-"...I've heard that when they redeveloped the Olympic[r]
-Village in Yoyogi Park, they buried parts of the demolished[r]
-buildings underground..."[pcms]
+[ns]マルガリータ[nse]
+「……選手村を代々木公園に再整備する時に[r]
+　壊した選手村の建物の一部を[r]
+　地下に埋めたという話を聞いたことがある……」[pcms]
 
 *5323|
 [fc]
-[ns]Wataru[nse]
-"You don't mean, Senpai..."[pcms]
+[ns]航[nse]
+「まさか、先輩……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5324|
 [fc]
 [vo_mar s="maru0735"]
-[ns]Margarita[nse]
-"That's exactly it..."[pcms]
+[ns]マルガリータ[nse]
+「その、まさかだ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *5325|
 [fc]
-In front of Senpai, illuminated by her flashlight, was a[r]
-concrete wall blocking the way, a dead end.[pcms]
+先輩が照らし出した先は[r]
+コンクリートの壁が立ちふさがり、行き止まりになっていた。[pcms]
 
 *5326|
 [fc]
-[ns]Wataru[nse]
-"Could it be, they buried the underground passage!?"[pcms]
+[ns]航[nse]
+「まさか、地下通路を埋めたんですか！？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5327|
 [fc]
 [vo_mar s="maru0736"]
-[ns]Margarita[nse]
-"They must have thought it unnecessary. In that case, the[r]
-passage would just be a convenient hole."[pcms]
+[ns]マルガリータ[nse]
+「必要ないと思ったのだろう。[r]
+　そうなると、通路ではなく、ちょうどいい穴だ」[pcms]
 
 *5328|
 [fc]
-[ns]Wataru[nse]
-"That's terrible..."[pcms]
+[ns]航[nse]
+「そんな……」[pcms]
 
 *5329|
 [fc]
-I thought we were finally going to make it out this time.[pcms]
+今度こそ抜け出せると思ったのに。[pcms]
 
 *5330|
 [fc]
 [vo_mar s="maru0737"]
-[ns]Margarita[nse]
-"There's no use getting down about it. Let's head back.[r]
-We've had some gains at least..."[pcms]
+[ns]マルガリータ[nse]
+「落ち込んでいても仕方がない。[r]
+　引き返すとしよう。[r]
+　それなりの収穫はあった……」[pcms]
 
 *5331|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はいっ……」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -974,11 +985,12 @@ We've had some gains at least..."[pcms]
 
 *5332|
 [fc]
-To reach Dad's place, we need that door to open after all...[pcms]
+やっぱり、父さんのところに行くには、[r]
+あの扉が開かないといけないのか……。[pcms]
 
 *5333|
 [fc]
-I returned along the path we came with heavy steps.[pcms]
+ボクは、思い足取りで来た道を引き返した。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

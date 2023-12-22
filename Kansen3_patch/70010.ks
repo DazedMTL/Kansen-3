@@ -6,7 +6,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）朝
+;//・時間：５日目（８月１９日）朝～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：
@@ -22,8 +22,7 @@
 
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]緒織とセックスした[endlink]
-(link target=*scene_selend)I haven't had sex with[r]
-Inori(endlink)[pcms]
+;	[link target=*scene_selend]緒織とセックスしていない[endlink][s]
 
 	[call storage="_scene_sel.ks" target=*scene_sel_iori]
 
@@ -48,12 +47,12 @@ Inori(endlink)[pcms]
 
 *52|
 [fc]
-[ns]Kousuke[nse]
-"Alright, let's go down one floor at a time."[pcms]
+[ns]浩助[nse]
+「んじゃ、１フロアずつ降りてこーぜ」[pcms]
 
 *53|
 [fc]
-Everyone except Shigeyoshi boarded the elevator.[pcms]
+重吉以外の全員がエレベーターに乗り込んだ。[pcms]
 
 ;//〆漫画喫茶アルカディア
 [bg storage="BG020a"][trans_c cross time=500]
@@ -61,29 +60,28 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 
 *54|
 [fc]
-The first to get off the elevator is me, who came to visit[r]
-on the 5th floor.[pcms]
+最初にエレベーターを降りるのは５Ｆにお見舞いにきたボクだ。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *55|
 [fc]
 [vo_miz s="mizuki_RK0004"]
-[ns]Mizuki[nse]
-"Give my regards to Ren. Take care, okay?"[pcms]
+[ns]瑞樹[nse]
+「レンに、よろしく。おだいじにね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *56|
 [fc]
 [vo_yuh s="yuho_RK0004"]
-[ns]Yuuho[nse]
-"Make sure you take good care of her, okay? Big brother."[pcms]
+[ns]悠帆[nse]
+「ちゃんと面倒みてあげるんだよ？　おにーちゃんっ」[pcms]
 
 *57|
 [fc]
-[ns]Wataru[nse]
-"Y-yeah."[pcms]
+[ns]航[nse]
+「う、うん」[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -92,8 +90,8 @@ on the 5th floor.[pcms]
 
 *58|
 [fc]
-In the very short time before the doors closed, everyone[r]
-said their words of visitation and left.[pcms]
+扉が閉まるまでのごく短い間に、[r]
+みんなはそれぞれに見舞いの言葉を口にして去っていった。[pcms]
 
 ;//〆個室前
 [bg storage="BG110"][trans_c cross time=500]
@@ -101,22 +99,22 @@ said their words of visitation and left.[pcms]
 
 *59|
 [fc]
-[ns]Wataru[nse]
-"...Ren? Are you awake?"[pcms]
+[ns]航[nse]
+「……漣？　起きてるか？」[pcms]
 
 *60|
 [fc]
-I called out softly and knocked, but there was no response.[r]
-I knocked several times, but...[pcms]
+そっと声をかけ、ノックをしてみたけれど応答がない。[r]
+何度か叩いてみたけれど……。[pcms]
 
 *61|
 [fc]
-[ns]Wataru[nse]
-"Are you asleep? Or maybe... not here?"[pcms]
+[ns]航[nse]
+「寝ちゃってるのかな。それとも……いないのかな？」[pcms]
 
 *62|
 [fc]
-I quietly pressed my ear against the door.[pcms]
+ボクはそっと扉に耳を当ててみた。[pcms]
 
 ;//bgm13・starless
 [bgm storage="BGM13"]
@@ -124,109 +122,109 @@ I quietly pressed my ear against the door.[pcms]
 *63|
 [fc]
 [vo_ren s="ren_RK0001"]
-[ns]Ren[nse]
-"...big brother..."[pcms]
+[ns]漣[nse]
+「…………おにい、ちゃん……」[pcms]
 ;//＠低い声
 
 *64|
 [fc]
-To my surprise, a low voice came from very close by.[pcms]
+びっくりするくらい近くで、低い声がした。[pcms]
 
 *65|
 [fc]
-That was Ren, right? It seemed like she was standing right[r]
-by the door. So she wasn't asleep.[pcms]
+い、今のって漣……だよな？[r]
+扉のすぐ傍に立っていたみたいだけど。寝てなかったのか。[pcms]
 
 *66|
 [fc]
-[ns]Wataru[nse]
-"Ren? How are you feeling?"[pcms]
+[ns]航[nse]
+「漣？　具合はどう？」[pcms]
 
 *67|
 [fc]
 [vo_ren s="ren_RK0002"]
-[ns]Ren[nse]
-"I'm fine... I'm feeling better... okay?"[pcms]
+[ns]漣[nse]
+「だい、じょうぶ……。気分、よくなった……よ？」[pcms]
 
 *68|
 [fc]
-Ren answered with a somewhat vacant voice. The fact that her[r]
-reply wasn't very clear could mean she just woke up, or[r]
-maybe she has a fever?[pcms]
+どこか虚ろな声音で、漣が答える。[r]
+あまりはっきりした返事じゃないのは、[r]
+まだ起きたばかりなのか、それとも熱があるんだろうか？[pcms]
 
 *69|
 [fc]
-[ns]Wataru[nse]
-"I brought some nutritional supplements and mineral water.[r]
-Are you hungry? Should I make some porridge?"[pcms]
+[ns]航[nse]
+「栄養剤とミネラルウォーター、持ってきたよ？[r]
+　おなか空いてるなら、おかゆ作ろうか？」[pcms]
 
 *70|
 [fc]
 [vo_ren s="ren_RK0003"]
-[ns]Ren[nse]
-"...no, my stomach... isn't very hungry... I want to talk...[r]
-with big brother more..."[pcms]
+[ns]漣[nse]
+「……ううん、おなか……あんまり、空いてないよ……。[r]
+　それより……お兄ちゃんと、お話、したい……」[pcms]
 
 *71|
 [fc]
-The door slid open smoothly.[pcms]
+扉がすっと開いた。[pcms]
 
 *72|
 [fc]
 [vo_ren s="ren_RK0004"]
-[ns]Ren[nse]
-"...come in..."[pcms]
+[ns]漣[nse]
+「…………入ってきて……」[pcms]
 
 *73|
 [fc]
-The room was pitch dark. It seems like the lights weren't[r]
-turned on...[pcms]
+部屋の中は真っ暗だ。[r]
+明かりを点けていないみたいだけど……。[pcms]
 
 *74|
 [fc]
-[ns]Wataru[nse]
-"Ren? Where are you?"[pcms]
+[ns]航[nse]
+「漣？　どこ？」[pcms]
 
 *75|
 [fc]
-There's no sign of Ren who should be just inside the door??[r]
-I squinted to look for her.[pcms]
+扉のすぐ内側にいるはずの漣の気配がない？？[r]
+ボクは目を凝らして姿を探す。[pcms]
 
 *76|
 [fc]
 [vo_ren s="ren_RK0005"]
-[ns]Ren[nse]
-"Big brother..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 *77|
 [fc]
-A reply came from the darkest corner of the room, where the[r]
-hallway light couldn't reach.[pcms]
+廊下の光の届かない、一番奥の暗がりから返事があった。[pcms]
 
 *78|
 [fc]
-[ns]Wataru[nse]
-"You were there. Wait, I'll just..."[pcms]
+[ns]航[nse]
+「そこにいたのか。待ってな、今……」[pcms]
 
 *79|
 [fc]
 [vo_ren s="ren_RK0006"]
-[ns]Ren[nse]
-"...don't turn on... the light..."[pcms]
+[ns]漣[nse]
+「……明かりは……点けないで……」[pcms]
 
 *80|
 [fc]
-As I reached for the light switch, Ren stopped me.[pcms]
+明かりを点けようとスイッチに手を伸ばすと、[r]
+漣に止められた。[pcms]
 
 *81|
 [fc]
-[ns]Wataru[nse]
-"But it's so dark..."[pcms]
+[ns]航[nse]
+「でも、こんなに暗いままじゃ……」[pcms]
 
 *82|
 [fc]
-As I was about to say more, Ren placed her hand over mine on[r]
-the switch.[pcms]
+言いかけると、スイッチに置いた手の上に[r]
+漣が手を重ねてきた。[pcms]
 
 ;//〆ＥＶ０１7
 [evcg storage="EV017a"][trans_c cross time=300]
@@ -234,88 +232,87 @@ the switch.[pcms]
 *83|
 [fc]
 [vo_ren s="ren_RK0007"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「……………………」[pcms]
 ;//＠放心したような感じ
 
 *84|
 [fc]
-In the light spilling from the corridor, her face appeared[r]
-dazed.[pcms]
+通路から洩れ差した明かりに、[r]
+放心したような顔が浮かび上がった。[pcms]
 
 *85|
 [fc]
-[ns]Wataru[nse]
-"Re...n?"[pcms]
+[ns]航[nse]
+「れ……ん？」[pcms]
 
 *86|
 [fc]
-Her eyes, which still had color contacts in from sleeping,[r]
-looked vaguely at me.[pcms]
+カラーコンタクトを入れたまま寝ていたのか、[r]
+黒目勝ちな目がぼんやりと向けられる。[pcms]
 
 *87|
 [fc]
-Her eyes seemed more moist than usual and were brimming with[r]
-a melting warmth.[pcms]
+いつもより潤んだように見える瞳が[r]
+今にもとろりと蕩けだしそうな光をたたえている。[pcms]
 
 *88|
 [fc]
-Her feverishly warm palm gently enveloped my hand.[pcms]
+熱っぽく温かな手のひらが、ボクの手をそっと包んだ。[pcms]
 
 *89|
 [fc]
 [vo_ren s="ren_RK0008"]
-[ns]Ren[nse]
-"...big brother... no..."[pcms]
+[ns]漣[nse]
+「……お兄ちゃん…………、ううん…………」[pcms]
 ;//＠ううん、は否定です
 
 *90|
 [fc]
-Her plump lips parted gently, forming a smile.[pcms]
+ぷっくらとした唇が緩やかに開き、笑みの形を作る。[pcms]
 
 *91|
 [fc]
 [vo_ren s="ren_RK0009"]
-[ns]Ren[nse]
-"Wataru-san... I love you..."[pcms]
+[ns]漣[nse]
+「航さん……好き…………」[pcms]
 
 *92|
 [fc]
-It's not unusual for Ren to say things like this, but it's[r]
-rare for her to call me by my name.[pcms]
+漣がこういうこと言うのは、いつものことだけど[r]
+ボクの名前を呼ぶのは珍しい。[pcms]
 
 *93|
 [fc]
-[ns]Wataru[nse]
-"I love you too?"[pcms]
+[ns]航[nse]
+「ボクも、好きだよ？」[pcms]
 
 *94|
 [fc]
 [vo_ren s="ren_RK0010"]
-[ns]Ren[nse]
-"No! I really do love you!"[pcms]
+[ns]漣[nse]
+「違うっ！　本当に、好きなの！」[pcms]
 ;//＠じれったい
 
 *95|
 [fc]
-Frustratedly shaking her head, Ren spoke as if she was[r]
-struggling.[pcms]
+じれったそうに首を振り、漣はむずかるように言う。[pcms]
 
 *96|
 [fc]
 [vo_ren s="ren_RK0011"]
-[ns]Ren[nse]
-"So... please hold me...?"[pcms]
+[ns]漣[nse]
+「だから…………だから、抱いて……？」[pcms]
 
 *97|
 [fc]
-[ns]Wataru[nse]
-"...eh...??"[pcms]
+[ns]航[nse]
+「……えっ…………？？」[pcms]
 
 *98|
 [fc]
-I started to feel anxious at this side of Ren I had never[r]
-seen before.[pcms]
+今までに見たことのない漣の様子に[r]
+ボクはだんだん不安になり始めた。[pcms]
 
 ;//bgm10 kanse pt3
 [bgm storage="BGM10"]
@@ -326,36 +323,36 @@ seen before.[pcms]
 
 *99|
 [fc]
-In front of me was Ren, staring straight at me like a shadow[r]
-standing before a mirror.[pcms]
+目の前に、漣がいる。[r]
+まるで姿見の前に立つ影のように、[r]
+真っ直ぐにボクを見つめている。[pcms]
 
 *100|
 [fc]
 [vo_ren s="ren_RK0012"]
-[ns]Ren[nse]
-"...please...?"[pcms]
+[ns]漣[nse]
+「…………ね……？」[pcms]
 
 *101|
 [fc]
-It was Ren who broke the silence. Her slender white fingers[r]
-slowly moved, grasping the hem of her T-shirt. Then, she[r]
-slowly lifted it...[pcms]
+静寂を破ったのは漣だった。[r]
+その白く細い指がゆっくりと動き、Ｔシャツの裾を掴む。[r]
+そして、ゆっくりと持ち上げる……。[pcms]
 
 *102|
 [fc]
-The red and white stripes were glaringly vivid, searing into[r]
-my eyes. The triangular panties squirmed as if pleading for[r]
-something.[pcms]
+赤と白のストライプが、やけに眩しく目に焼きつく。[r]
+逆三角形のパンツがもじもじと動き、何かを訴えかけてくる。[pcms]
 
 *103|
 [fc]
-[ns]Wataru[nse]
-"...Ren...?"[pcms]
+[ns]航[nse]
+「……れ、ん…………？」[pcms]
 
 *104|
 [fc]
-Before I knew it, Ren took my hand with her other hand and[r]
-guided it towards the stripes.[pcms]
+気がつくと、漣は反対の手でボクの手を取ると[r]
+そのストライプへと導いていった。[pcms]
 
 ;//〆HEV058
 ;//誘惑する漣／漣／だぼＴ＋赤白ストライプパンツ
@@ -363,46 +360,48 @@ guided it towards the stripes.[pcms]
 
 *105|
 [fc]
-Ren's hot genitals... I could feel the warmth through the[r]
-fabric.[pcms]
+漣の熱い秘部……。[r]
+その温度が、布越しに伝わってくるのを感じる。[pcms]
 
 *106|
 [fc]
-[ns]Wataru[nse]
-"Ren... what are you...?"[pcms]
+[ns]航[nse]
+「漣……、な、何を…………？」[pcms]
 
 *107|
 [fc]
-A water bottle and a medicine bottle slipped from my hand,[r]
-rolling across the tatami floor.[pcms]
+手からペットボトルと薬のビンが滑り落ちて[r]
+畳の上を転がっていく。[pcms]
 
 *108|
 [fc]
-Unable to pick them up, let alone move, I stood frozen in[r]
-place.[pcms]
+それを拾うことも、いや身動きさえもかなわずに[r]
+ボクは凍りついたように立ち尽くす。[pcms]
 
 *109|
 [fc]
 [vo_ren s="ren_RK0013"]
-[ns]Ren[nse]
-"I've been comforting myself... alone... all this time...[r]
-Every day... every single day..."[pcms]
+[ns]漣[nse]
+「ずっと……ずっと一人で、慰めてたんだよ……？[r]
+　毎日……毎日……毎日毎日毎日……。[r]
+　いつも……お兄ちゃんのことだけ、思ってるんだよ……」[pcms]
 
 *110|
 [fc]
-Ren slowly moved my hand.[pcms]
+漣はゆっくりとボクの手を動かした。[pcms]
 
 *111|
 [fc]
-Through the thin fabric, I could feel the soft mound of her[r]
-pubic area and the slit that cut through like a crease.[pcms]
+薄い布を通して、柔らかく盛り上がった恥丘や[r]
+筋のように切れ込んだ裂け目の感触が、わかる。[pcms]
 
 *112|
 [fc]
 [vo_ren s="ren_RK0014"]
-[ns]Ren[nse]
-"Even last night... no, since last night... right before you[r]
-came, I couldn't stop comforting myself here..."[pcms]
+[ns]漣[nse]
+「昨夜だって……ううん、昨夜からずっと……、[r]
+　さっき、お兄ちゃんが来る前も……、[r]
+　ココ……、慰めてたら、止まらなくなっちゃったの……」[pcms]
 ;//＠昨夜＝ゆうべ、です
 
 ;//〆HEV058
@@ -412,14 +411,15 @@ came, I couldn't stop comforting myself here..."[pcms]
 *113|
 [fc]
 [vo_ren s="ren_RK0015"]
-[ns]Ren[nse]
-"I couldn't stop, and I kept touching myself so much that my[r]
-fingers pruned and the smell wouldn't go away..."[pcms]
+[ns]漣[nse]
+「止まらなくて、ずっとずっとずっと……、[r]
+　ココばかり触っちゃって、指がふやけちゃって、[r]
+　匂いがとれなくなるくらい、ずっとずっとずっと……」[pcms]
 
 *114|
 [fc]
-Ren kept making me stroke that moist and warm spot that was[r]
-starting to dampen with heat.[pcms]
+熱を帯びてしっとりと湿りかけているソコを、[r]
+漣は何度もボクに撫でさせる。[pcms]
 
 ;//〆HEV058
 ;//誘惑する漣／漣／だぼＴ＋赤白ストライプパンツ
@@ -427,20 +427,22 @@ starting to dampen with heat.[pcms]
 
 *115|
 [fc]
-[ns]Wataru[nse]
-"...stop..."[pcms]
+[ns]航[nse]
+「……や……」[pcms]
 
 *116|
 [fc]
-I tried to say 'stop it', thinking that we must stop.[pcms]
+やめてくれ、と言いかけた。[r]
+やめなくちゃいけない、と思った。[pcms]
 
 *117|
 [fc]
-Even though I thought so, I left my hand at Ren's mercy...[pcms]
+そう思ってるのに……、[r]
+ボクは漣のなすがままに手を預けていて……。[pcms]
 
 *118|
 [fc]
-Ren's words bound me like a spell.[pcms]
+漣の言葉が呪文のようにボクをがんじがらめに縛っていく。[pcms]
 
 ;//〆HEV058
 ;//誘惑する漣／漣／だぼＴ＋赤白ストライプパンツ
@@ -449,66 +451,71 @@ Ren's words bound me like a spell.[pcms]
 *119|
 [fc]
 [vo_ren s="ren_RK0016"]
-[ns]Ren[nse]
-"Hey, big brother...? Tell me...? To you, am I just a little[r]
-sister? Can I really only ever be... just a sister?"[pcms]
+[ns]漣[nse]
+「ねえ、お兄ちゃん……？　教えて……？[r]
+　お兄ちゃんから見たら、私……ただの妹なの？[r]
+　どうしても……やっぱり……妹でしか、ないの？」[pcms]
 
 *120|
 [fc]
 [vo_ren s="ren_RK0017"]
-[ns]Ren[nse]
-"When dad remarried and you became family, I fell for you at[r]
-first sight... That's why I was so happy we could live[r]
-together..."[pcms]
+[ns]漣[nse]
+「お父さんが再婚して、お兄ちゃんと家族になった時……、[r]
+　私、ひと目でお兄ちゃんのこと……好きになった……。[r]
+　だから、一緒に暮らせるようになって、嬉しかった……」[pcms]
 
 *121|
 [fc]
 [vo_ren s="ren_RK0018"]
-[ns]Ren[nse]
-"But... because you're my big brother... Because we became[r]
-siblings... That's why I couldn't express my feelings..."[pcms]
+[ns]漣[nse]
+「でも……、お兄ちゃんは、お兄ちゃんだから……。[r]
+　兄弟になっちゃったから……。[r]
+　だから、私……自分の気持ち、言えなくなっちゃった……」[pcms]
 
 *122|
 [fc]
 [vo_ren s="ren_RK0019"]
-[ns]Ren[nse]
-"And yet... you were close with Yuuho-chan, having fun with[r]
-the astronomy club members, never noticing me at all..."[pcms]
+[ns]漣[nse]
+「それなのに……、お兄ちゃんは……、[r]
+　悠帆ちゃんと仲良くしたり、天文部の子と楽しそうにしたり、[r]
+　私のことなんか、ちっとも……気付いてもくれなくて……」[pcms]
 
 *123|
 [fc]
 [vo_ren s="ren_RK0020"]
-[ns]Ren[nse]
-"Do you not care about me at all...? Did you really not know[r]
-about my feelings...?"[pcms]
+[ns]漣[nse]
+「お兄ちゃんは、私なんか、どうでもいいの……？[r]
+　……私の気持ち……、ホントに知らなかったの……？」[pcms]
 
 *124|
 [fc]
 [vo_ren s="ren_RK0021"]
-[ns]Ren[nse]
-"Just thinking about you makes it painful... It's agonizing,[r]
-and my chest feels so heavy..."[pcms]
+[ns]漣[nse]
+「お兄ちゃんのこと……、考えるだけで苦しくて……、[r]
+　切なくて、胸がいっぱいに重たくなって……」[pcms]
 
 *125|
 [fc]
 [vo_ren s="ren_RK0022"]
-[ns]Ren[nse]
-"...I'm frail... I've always been a burden to you... That's[r]
-why I couldn't say anything more..."[pcms]
+[ns]漣[nse]
+「……私……、身体弱いから……。[r]
+　お兄ちゃんに迷惑かけてばっかりだったから……。[r]
+　だから、よけいに、何にも言えなくって……」[pcms]
 
 *126|
 [fc]
 [vo_ren s="ren_RK0023"]
-[ns]Ren[nse]
-"...But when I'm sick in bed... you worry about me,[r]
-right...? That's why I felt happier when I was ill..."[pcms]
+[ns]漣[nse]
+「……だけど……、私が寝込んでると……、[r]
+　お兄ちゃん、私のこと、心配してくれたよね……？[r]
+　だから、私……病気の時のほうが、幸せだった……」[pcms]
 
 *127|
 [fc]
 [vo_ren s="ren_RK0024"]
-[ns]Ren[nse]
-"Because you cared for me... Because I could have you all to[r]
-myself... that's why..."[pcms]
+[ns]漣[nse]
+「お兄ちゃんが、私を気にかけてくれたから……。[r]
+　お兄ちゃんを、独り占めできるから…………だから……」[pcms]
 
 ;//（Ｗｉｎｄ「問いつめ」パロディ）
 ;//★このくらいのパロディで、いいっすか？
@@ -525,109 +532,111 @@ myself... that's why..."[pcms]
 
 *128|
 [fc]
-[ns]Wataru[nse]
-"...please stop, Ren..."[pcms]
+[ns]航[nse]
+「……もう……やめてくれ、漣……っ」[pcms]
 
 *129|
 [fc]
 [vo_ren s="ren_RK0025"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「…………」[pcms]
 ;//＠押し黙る
 
 *130|
 [fc]
-Though Ren remained silent, her hand continued to move,[r]
-making me touch her there.[pcms]
+漣は口を閉ざしたけれど、相変わらず手だけは動かして、[r]
+ボクにソコを触らせ続けている。[pcms]
 
 *131|
 [fc]
-[ns]Wataru[nse]
-"What's gotten into you, Ren..."[pcms]
+[ns]航[nse]
+「どうしたんだよ、漣……」[pcms]
 
 *132|
 [fc]
-Ren is... Ren is my stepsister... My precious, only little[r]
-sister...[pcms]
+漣は……漣は義妹だ……。[r]
+大事な、たったひとりの、いもうと……だ。[pcms]
 
 *133|
 [fc]
-But I'm aware we're not blood-related, and to be honest, I[r]
-like Ren too. Not just as family, but as a girl...[pcms]
+だけど血が繋がっていないのは自覚しているし、[r]
+正直に言えばボクだって漣のことが好きだ。[r]
+家族としてだけじゃなくて、一人の女の子として……。[pcms]
 
 *134|
 [fc]
-If I confess more honestly, there were times I masturbated[r]
-thinking about Ren...[pcms]
+もっと正直に告白するなら[r]
+漣をネタにしてオナニーしたことだってある……。[pcms]
 
 *135|
 [fc]
-She's cute and takes such good care of me, making me want to[r]
-protect her...[pcms]
+可愛くて、かいがいしくボクの面倒を見てくれて、[r]
+守ってやりたいって思ってて……。[pcms]
 
 *136|
 [fc]
-But she's my stepsister...[pcms]
+だけど。だけど、義妹なんだ……。[pcms]
 
 *137|
 [fc]
-If we continue like this, I feel like our relationship will[r]
-be utterly destroyed.[pcms]
+こんなことを続けたら[r]
+ボクたちの関係が根こそぎ壊れてしまいそうな気がした。[pcms]
 
 *138|
 [fc]
-[ns]Wataru[nse]
-"Why would you say such things, Ren. Haven't we always[r]
-gotten along? Don't say things that deny everything..."[pcms]
+[ns]航[nse]
+「何でそんなこと言うんだよ、漣。[r]
+　今までだって仲良くやってきたじゃないか？[r]
+　そんな……何もかも否定するようなこと言うなよ……」[pcms]
 
 *139|
 [fc]
-I felt sad and pained, yet so deeply in love with Ren that[r]
-it hurt. Without knowing what to say, I pleaded.[pcms]
+切なくて哀しくて、でも胸が苦しいくらい漣が愛しくて。[r]
+どう言っていいかわからないまま、訴えかけた。[pcms]
 
 *140|
 [fc]
-Ren smiled and said, "If that's the case..."[pcms]
+漣は「それなら……」と、微笑んだ。[pcms]
 
 *141|
 [fc]
 [vo_ren s="ren_RK0026"]
-[ns]Ren[nse]
-"...You don't need words... see? You understand, right? Big[r]
-brother..."[pcms]
+[ns]漣[nse]
+「……言葉にしなくても……ほら……ね？[r]
+　わかるでしょ？　お兄ちゃん……」[pcms]
 
 *142|
 [fc]
-She guided my finger over her slit.[pcms]
+ボクの指を秘裂の上に誘導していく。[pcms]
 
 *143|
 [fc]
 [vo_ren s="ren_RK0027"]
-[ns]Ren[nse]
-"...It's hard, isn't it? It's swollen and erect, right? It's[r]
-starting to get wet from deep inside, isn't it...? It's like[r]
-this because it wants you so badly...?"[pcms]
+[ns]漣[nse]
+「……固いでしょ……？　ツンって勃ってるでしょ？[r]
+　奥からじわぁーって、濡れてきてる、でしょ……？[r]
+　お兄ちゃんのが欲しくて、こんなになってるんだよ……？」[pcms]
 
 *144|
 [fc]
-The clitoris was plump and erect. The secret area began to[r]
-moisten, slowly getting wet...[pcms]
+クリトリスがぷっくらと膨らんで勃起していた。[r]
+潤い始めた秘密の部分は、じわりと濡れ始めている……。[pcms]
 
 *145|
 [fc]
 [vo_ren s="ren_RK0028"]
-[ns]Ren[nse]
-"Do you want more? Heheheh! ...You can do whatever you want[r]
-to do with me... Heheheheh!"[pcms]
+[ns]漣[nse]
+「もっと……したい？　くくくく……っ！[r]
+　……お兄ちゃんがしたいこと、してもいいよ……？[r]
+　くふふふふふふふふふっ……！」[pcms]
 
 *146|
 [fc]
-Ren's voice sent shivers down my spine and robbed me of my[r]
-ability to think.[pcms]
+漣の声が脳髄を痺れさせて、ボクから思考力を奪ってしまう。[pcms]
 
 *147|
 [fc]
-I'm... what should I do...?[pcms]
+ボクは……ボクはどうしたらいいんだ……？[pcms]
 
 ;//---------------------------------------------------------------
 ;//以下は回想用の選択肢自動分岐のための判定式
@@ -635,21 +644,20 @@ I'm... what should I do...?[pcms]
 ;//---------------------------------------------------------------
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１
-;//１１：こんなのダメだ！→ 70020
-;//１２：指を動かす→ 70050
+;//●選択肢Ａ－１
+;//１－１：こんなのダメだ！→ 70020
+;//１－２：指を動かす→ 70050
 
 
 ;	[link storage="70020.ks" target=*70020_TOP]こんなのダメだ！[endlink]
-; (link storage="70050.ks" target=*70050_TOP)Move your[r]
-finger(endlink)[pcms]
+;	[link storage="70050.ks" target=*70050_TOP]指を動かす[endlink][s]
 
 *SEL55|こんなのダメだ！／指を動かす
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'This is no good!'"]
-[eval exp="f.seltext04 = 'Move your finger'"]
+[eval exp="f.seltext02 = 'こんなのダメだ！'"]
+[eval exp="f.seltext04 = '指を動かす'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

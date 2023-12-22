@@ -21,303 +21,298 @@
 
 *2144|
 [fc]
-[ns]Wataru[nse]
-"Phew... I feel so refreshed~"[pcms]
+[ns]航[nse]
+「ふぅ……さっぱりしたぁ～」[pcms]
 
 *2145|
 [fc]
-After returning from MACHIYA-GUARD to LASER, we borrowed a[r]
-shower at the 5F manga cafe "Arcadia".[pcms]
+マチヤーグァーからＬＡＳＥＲに戻ったボクたちは[r]
+５Ｆの漫画喫茶「アルカディア」でシャワーを借りた。[pcms]
 
 *2146|
 [fc]
-We also stopped by the 3F sports store and the clothing[r]
-store along "Valley" to get some new underwear and jerseys[r]
-to change into.[pcms]
+ついでに３Ｆのスポーツ用品店や「谷間」伝いの衣料品店で[r]
+新しい下着とジャージを入手して着替えたりもした。[pcms]
 
 *2147|
 [fc]
-As for the laundry of our removed uniforms, we decided to[r]
-think about it later and gathered them in one place along[r]
-with the luggage we brought from "Dedepou".[pcms]
+脱いだ制服の洗濯については後で考えることにして、[r]
+「ででっぽう」からここに運び込んだ荷物と一緒に一カ所に[r]
+まとめてある。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2148|
 [fc]
-[ns]Kousuke[nse]
-"It's the best, isn't it? A shower after getting all[r]
-sweaty."[pcms]
+[ns]浩助[nse]
+「最高だよな、汗まみれになった後のシャワーって」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2149|
 [fc]
 [vo_mar s="maru1540"]
-[ns]Margarita[nse]
-"Yes. It would be even better if there was a bathtub."[pcms]
+[ns]マルガリータ[nse]
+「ああ。湯船があればもっといいのだがな」[pcms]
 
 *2150|
 [fc]
-Kousuke, the seniors, and Jin also took showers and changed[r]
-into more casual clothes.[pcms]
+コースケや先輩、壬たちも、同じようにシャワーで汗を流し、[r]
+ラフな格好に着替えている。[pcms]
 
 *2151|
 [fc]
-Each of them is either listening to music players or lying[r]
-on chairs, idly passing the time until dinner.[pcms]
+それぞれに音楽プレイヤーを聞いたり、椅子に横たわったりして[r]
+夕食までの時間をだらだらと過ごしている。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2152|
 [fc]
-[ns]Shigeyoshi[nse]
-"Nothing beats potato shochu... And the view is great too."[pcms]
+[ns]重吉[nse]
+「やっぱ焼酎は芋に限るぜぇ……。[r]
+　……眺めも最高だしなぁ」[pcms]
 
 *2153|
 [fc]
-Shigeyoshi seems to have no intention of changing, busy[r]
-chugging shochu and ogling the girls (mainly Senior[r]
-Maruko)...[pcms]
+重吉だけは着替える気もないようで、[r]
+焼酎をラッパ飲みしながら、女子（主にマル子先輩）を[r]
+視姦するのに忙しいようだったけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2154|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *2155|
 [fc]
-Next to him, Jin is sitting on a chair with his eyes closed.[pcms]
+その横では壬が、椅子に腰かけて目を閉じている。[pcms]
 
 *2156|
 [fc]
-Next to him are his neatly folded clothes and two guns... It[r]
-seems Jin is also holding onto Shigeyoshi's gun.[pcms]
+傍らには適当に畳んだ壬の服と銃が２丁……。[r]
+どうやら重吉の銃も壬が預かっているようだ。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2157|
 [fc]
-As for our guns, we entrusted them to Senior Maruko. She put[r]
-them in her sports bag and placed it beside her.[pcms]
+銃といえばボクたちの銃はマル子先輩に預けた。[r]
+先輩が自分のスポーツバッグに入れて、傍らに置いている。[pcms]
 
 *2158|
 [fc]
-Without any particular discussion, it seemed that Jin and[r]
-Senior Maruko had an unspoken understanding, trying to[r]
-maintain a balance with each other.[pcms]
+特に話し合いをしたわけではないけれど、[r]
+壬とマル子先輩が暗黙の了解のうちに、[r]
+お互いにバランスを保とうとしているようだった。[pcms]
 
 *2159|
 [fc]
-Honestly speaking... I still can't bring myself to fully[r]
-trust Jin and the others.[pcms]
+正直に言ってしまえば……[r]
+まだ壬たちを完全に信用する気にはなれない。[pcms]
 
 *2160|
 [fc]
-However, it's also true that we need to come together with[r]
-people we don't trust if we want to get through what lies[r]
-ahead...[pcms]
+とはいえ、信用できない人間とでもお互いに歩み寄らないと、[r]
+この先やっていけないのも事実なわけで……。[pcms]
 
 *2161|
 [fc]
-Both Kousuke and I are not good at gauging the subtle[r]
-distances in human relationships, so it's really helpful[r]
-that Senior Maruko is here.[pcms]
+ボクもコースケも、そういった微妙な人間関係の[r]
+距離感とかを計るのは不得手なので、[r]
+マル子先輩がいてくれて本当に助かった。[pcms]
 
 *2162|
 [fc]
-[ns]Wataru[nse]
-"But seriously, Senior Maruko, you're really calm about[r]
-this..."[pcms]
+[ns]航[nse]
+「しっかし、マル子先輩、よく平気だよな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2163|
 [fc]
-The senior in question is wearing a tank top and boxer[r]
-shorts. She has also let her braided hair down loosely.[pcms]
+その先輩はと言えば、タンクトップに、ボクサーショーツ姿。[r]
+髪型も、編み込みを解いてラフに流している。[pcms]
 
 *2164|
 [fc]
-To us, it looks almost like she's in her underwear, but she[r]
-herself seems completely unfazed. Maybe it's because of the[r]
-South American sensibility...?[pcms]
+ボクらから見ると下着姿も同然なんだけど、[r]
+本人はいたって平気な顔をしている。[r]
+このあたり、やっぱり南米の感覚だからかなあ……？[pcms]
 
 *2165|
 [fc]
-Perhaps because she couldn't find anything that fit, her[r]
-low-rise shorts are quite tight...[pcms]
+しかもサイズが合うものがなかったのか、[r]
+ローライズのショートパンツは、ぴちぴちだし……。[pcms]
 
 *2166|
 [fc]
-Thanks to that, we get a perfect view of her slender legs[r]
-adorned with supple muscles.[pcms]
+おかげでしなやかな筋肉に彩られた、すらりとした脚線美が[r]
+ばっちり鑑賞できるんだけど。[pcms]
 
 *2167|
 [fc]
-Her thighs are firm yet seem free of unnecessary fat, and[r]
-her round butt is nicely lifted. The crotch area looks quite[r]
-snug... and seems soft to the touch.[pcms]
+むちっとしていて、それでいて無駄な贅肉のなさそうな太腿とか[r]
+キュッと格好良く持ち上がった丸いお尻とか。[r]
+かなり食い込みの激しい……ぷにぷにしてそうな股間とか。[pcms]
 
 *2168|
 [fc]
-Her breasts are amazing too. Even through the fabric of the[r]
-tank top, you can clearly see their well-defined shape...[r]
-and they're big...[pcms]
+胸だってすごい。[r]
+タンクトップの布越しにもはっきり輪郭がわかるくらい、[r]
+整った形で……、しかもデカいし……。[pcms]
 
 *2169|
 [fc]
-Looking at her in just her panties, she seems sensual and[r]
-wild, but when you see her as a whole, she doesn't feel[r]
-rough because of her white skin and blonde hair. In fact,[r]
-she even gives off a noble impression.[pcms]
+こうやってパーツだけ見てると肉感的だしワイルドなんだけど、[r]
+全体で見ると、白い肌と金髪のせいか、荒々しくは感じない。[r]
+っていうかむしろ……高貴な印象さえある。[pcms]
 
 *2170|
 [fc]
-Maybe it's because of the contrast in her panties... Being[r]
-from the "melting pot" of South America, she feels very[r]
-mysterious and intriguing.[pcms]
+パーツごとにギャップがあるっていうのかな……。[r]
+「人種のるつぼ」南米出身だけあって、[r]
+すごく不思議で……ミステリアスに感じられてしまう。[pcms]
 
 *2171|
 [fc]
-I've always thought this, but she seems less like she's from[r]
-another country and more like she's from another planet...[pcms]
+前から思ってたけど、[r]
+外国っていうより、違う星から来た人みたい、っていうか……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2172|
 [fc]
 [vo_mar s="maru1541"]
-[ns]Margarita[nse]
-"Wataru, what's wrong? You've been looking this way for a[r]
-while now."[pcms]
+[ns]マルガリータ[nse]
+「ワタル、どうした？[r]
+　さっきから、こちらを見ているようだが」[pcms]
 
 *2173|
 [fc]
-[ns]Wataru[nse]
-"Ah, ah, oh, no, umm, I was just... No! I was interested in[r]
-a poster on the wall..."[pcms]
+[ns]航[nse]
+「あ、あ、ああ、いや、ええと、[r]
+　マル子先輩が……いや！[r]
+　壁にあったポスターが気になって……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f18"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2174|
 [fc]
 [vo_mar s="maru1542"]
-[ns]Margarita[nse]
-"...? You're a strange one."[pcms]
+[ns]マルガリータ[nse]
+「……？　ヘンなヤツだな」[pcms]
 
 *2175|
 [fc]
-That was close. Senior Maruko looked so erotic that I almost[r]
-got an erection.[pcms]
+危なかった。[r]
+あまりにも先輩の見た目がエロくてちょっと勃起しそうだった。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a18"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *2176|
 [fc]
 [vo_miz s="mizuki0297"]
-[ns]Mizuki[nse]
-"Ah, I finally feel liberated... I've been smelling like[r]
-sweat for so long, even I was getting sick of it..."[pcms]
+[ns]瑞樹[nse]
+「あー、やっと開放された気分……。[r]
+　ずーっと汗くさくて、自分でもイヤだったんだよね……」[pcms]
 
 *2177|
 [fc]
-As I was secretly panicking, Mizuki came over after[r]
-finishing her shower.[pcms]
+ひそかに慌てていると、シャワーを終えた瑞樹がやってきた。[pcms]
 
 *2178|
 [fc]
-She too was wearing a short tank top and shorts, exposing[r]
-quite a bit of skin boldly.[pcms]
+こちらも丈の短いタンクトップにショートパンツという[r]
+なかなか豪快に肌を露出した姿だ。[pcms]
 
 *2179|
 [fc]
-You could catch glimpses of sideboob and underboob here and[r]
-thereit was so provocative that I wanted to ask if she was[r]
-trying to tempt us![pcms]
+オヘソはもちろん脇乳やら下乳やらがチラチラ見えて、[r]
+誘ってるのか！？って言いたいくらいに凄い格好だった。[pcms]
 
 *2180|
 [fc]
-And since she just got out of the bath, there were droplets[r]
-of water on various parts of her skin making her look fresh[r]
-or rather... juicy.[pcms]
+しかも風呂上がりなので、肌のあちこちに水滴が浮いていて[r]
+瑞々しいっていうか、ジューシィというか……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2181|
 [fc]
-[ns]Kousuke[nse]
-"Hey! Wataru! Stop staring at Mizuki like that. And you've[r]
-got 'I'm starved for women' written all over your face."[pcms]
+[ns]浩助[nse]
+「コラ！　ワタル！[r]
+　瑞樹ガン見してんじゃねーよ。[r]
+　それにお前、『女に飢えてます』って顔に書いてあるぞ？」[pcms]
 
 *2182|
 [fc]
-Kousuke complains with a slightly red face.[pcms]
+ちょっと顔を赤くしながらコースケが文句を言う。[pcms]
 
 *2183|
 [fc]
-[ns]Wataru[nse]
-"Eh!? No! That's not it! That's not it at all!"[pcms]
+[ns]航[nse]
+「えっ！？　ち、違うっ！　違うよ！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a18"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *2184|
 [fc]
 [vo_miz s="mizuki0298"]
-[ns]Mizuki[nse]
-"...It's fine. It's more comfortable this way and cooler[r]
-too. Besides, it's not like I lose anything by being looked[r]
-at."[pcms]
+[ns]瑞樹[nse]
+「……別にいいじゃん。この方が楽だし、涼しいしさぁ。[r]
+　それに、見られても減るものじゃないし」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2185|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki!"[pcms]
+[ns]浩助[nse]
+「瑞樹ぃ！」[pcms]
 
 *2186|
 [fc]
-Kousuke just can't seem to win against Mizuki.[pcms]
+コースケのやつ、どうしたって瑞樹には勝てないらしい。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a18"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *2187|
 [fc]
 [vo_miz s="mizuki0299"]
-[ns]Mizuki[nse]
-"Well then, I'll go help with preparing dinner."[pcms]
+[ns]瑞樹[nse]
+「じゃあ、ご飯の準備、手伝ってくるね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2188|
 [fc]
-[ns]Kousuke[nse]
-"Oh, yeah, I'm looking forward to it."[pcms]
+[ns]浩助[nse]
+「お、おう、期待してるぜ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a18"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *2189|
 [fc]
 [vo_miz s="mizuki0300"]
-[ns]Mizuki[nse]
-"See you later then."[pcms]
+[ns]瑞樹[nse]
+「また後でね」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2190|
 [fc]
-As Mizuki cheerfully walked away, I sank into the sofa.[pcms]
+機嫌よく瑞樹が立ち去ったのを見送って、[r]
+ボクはソファに身体を沈めた。[pcms]
 
 *2191|
 [fc]
-I'm completely flushed (especially around my crotch)... I[r]
-was already tired and sleepy, but now I'm feeling dizzy from[r]
-too much blood circulation...[pcms]
+すっかり血行（主に股間の）がよくなってしまった……。[r]
+もともと疲れて眠かったところに血が巡りすぎて[r]
+クラクラしてきたぞ……。[pcms]
 
 ;//→ブロック50430へ
 [jump storage="50430.ks" target=*50430_TOP]

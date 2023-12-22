@@ -1,10 +1,10 @@
 ;//block:C026
-;//ブロック４２２５０『地下道漣のみ脱出編』
+;//ブロック４２２５０『地下道～漣のみ脱出編～』
 ;//@konya 11/20 EV_CGほか
 ;//@konya 42200.txtから
 
 *42250_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助（block:C019以降どうなっているか不明）
@@ -14,7 +14,7 @@
 ;//・テキスト容量：8K前後
 ;//--------------------------------------------------------------------
 ;//@konya HEV036a 表示中
-;//●選択肢Ｃ６　６３：仲良く一緒に
+;//●選択肢Ｃ－６　６－３：仲良く一緒に
 
 ;[eval exp="sf.g_scene13_03 = 1"]
 
@@ -22,40 +22,41 @@
 
 *7216|
 [fc]
-[ns]Wataru[nse]
-"Then, Dad, let's get along together~"[pcms]
+[ns]航[nse]
+「じゃあ、父さん、仲良く一緒にしようよ～」[pcms]
 
 *7217|
 [fc]
-[ns]Father[nse]
-"With Wataru~?"[pcms]
+[ns]父[nse]
+「航とか～？」[pcms]
 
 *7218|
 [fc]
-[ns]Wataru[nse]
-"I won't lose when it comes to loving Ren~"[pcms]
+[ns]航[nse]
+「ボクだって、漣を好きな気持ちは負けないからね～」[pcms]
 
 *7219|
 [fc]
-[ns]Father[nse]
-"You've always been all about Ren~ But I too want to take[r]
-Ren's purity~ That's a good idea~."[pcms]
+[ns]父[nse]
+「お前はいっつも漣が一番だったからな～」[r]
+　でも、俺だって、漣の純潔を奪いたいからな～。[r]
+　それはいい考えだ～。」[pcms]
 
 ;//絵がないために削除された項目＠ash（ここから）--------------
 
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「ああっ！」
 
 ;//ボクは父さんの言葉がうれしかった。
 
-[ns]Wataru[nse]
-;//「じゃあ、ボクが父さんの代わりに漣を持つから。
+;//[ns]航[nse]
+;//「じゃあ、ボクが父さんの代わりに漣を持つから～。
 ;//　父さんは楽にしててね」
 
-[ns]Father[nse]
-;//「そうか。
+;//[ns]父[nse]
+;//「そうか～。
 ;//　ありがとう航。
-;//　お前は本当に親孝行だよ」
+;//　お前は本当に親孝行だよ～」
 
 ;//〆ＨＥＶ０４３　漣／制服／サンドイッチ駅弁（横アングル）
 
@@ -67,29 +68,29 @@ Ren's purity~ That's a good idea~."[pcms]
 ;//あれっ？　ボクってこんなに力持ちだったかな？
 
 ;//[vo_ren s="ren_Z0116"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「んんっ……。
 ;//　んっ……んんんっ……」
 
-[ns]Wataru[nse]
-;//「おはよう漣」
+;//[ns]航[nse]
+;//「おはよう～漣～」
 
 ;//[vo_ren s="ren_Z0117"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「んんっ……。
 ;//　んんん……んっ……？」
 
 ;//[vo_ren s="ren_Z0118"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「……んっ……おにい……ちゃん……？」
 
-;//あいかわらず漣は寝起きが悪いなぁ。
+;//あいかわらず漣は寝起きが悪いなぁ～。
 
-[ns]Wataru[nse]
-;//「おはよう漣」
+;//[ns]航[nse]
+;//「おはよう～漣～」
 
 ;//[vo_ren s="ren_Z0119"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「……？
 ;//　お兄ちゃん……えっ？
 ;//　ええっ！？　これは……？　なにっ……？」
@@ -98,65 +99,65 @@ Ren's purity~ That's a good idea~."[pcms]
 ;//それとも、これからボクたちに存分に愛されて
 ;//気持ちよくなることをに期待しての悦びの声かな？
 
-[ns]Wataru[nse]
-;//「これから、お父さんと愛してあげるよ漣……」
+;//[ns]航[nse]
+;//「これから、お父さんと愛してあげるよ～漣……」
 
 ;//[vo_ren s="ren_Z0120"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「えっ……？
 ;//　愛して？　ええっ……これって……」」
 
-[ns]Father[nse]
-;//「そうだぞ漣。
-;//　ずっと、愛してたぞ。
-;//　今日はもっと愛してやるからな」
+;//[ns]父[nse]
+;//「そうだぞ～漣。
+;//　ずっと～、愛してたぞ～。
+;//　今日はもっと愛してやるからな～」
 
 ;//[vo_ren s="ren_Z0121"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「……お父……さん……？」
 
 ;//漣はまだ寝ぼけてるみたいだ。
 ;//ボクたちの言ってることの意味がわかってないらしい。
 ;//しかたないなぁ……。
 
-[ns]Wataru[nse]
-;//「漣。
-;//　だからボクと父さんで決めたんだ」
+;//[ns]航[nse]
+;//「漣～。
+;//　だから～ボクと父さんで決めたんだ～」
 
-[ns]Father[nse]
-;//「ああ、航と一緒に決めたんだ」
+;//[ns]父[nse]
+;//「ああ、航と一緒に決めたんだ～」
 
 ;//[vo_ren s="ren_Z0122"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「えっ……なに……を！？」
 
 ;//……やっぱり、わかってなかった。
-;//それなら、聞いてもっとおどろくにちがいないな。
+;//それなら、聞いてもっとおどろくにちがいないな～。
 
-[ns]Wataru[nse]
-;//「これから父さんと一緒にしてあげるよ。
+;//[ns]航[nse]
+;//「これから父さんと一緒にしてあげるよ～。
 ;//　父さんとボク、漣を大好きな二人が
-;//　一緒に漣の処女をもらってあげるからね」
+;//　一緒に漣の処女をもらってあげるからね～」
 
 ;//[vo_ren s="ren_Z0123"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「ええっ……！？」
 
 ;//やっぱり、漣はおどろいてるみたいだ。
-;//なんか、おもしろいな。
+;//なんか、おもしろいな～。
 
 ;//[vo_ren s="ren_Z0124"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「冗談……だよね……」
 
-[ns]Father[nse]
-;//「じょうだんなもんか！」
+;//[ns]父[nse]
+;//「じょうだんなもんか～！」
 
 ;//[vo_ren s="ren_Z0125"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「いやぁ……。
 ;//　そんなのいやぁ……。
-;//　そんなのってないよぉ……おかしいよっ！！」
+;//　そんなのってないよぉ……おかしいよ～っ！！」
 
 ;//なんだかわからないけど、漣は蚊の鳴くような声で
 ;//つぶやいている。
@@ -167,38 +168,42 @@ Ren's purity~ That's a good idea~."[pcms]
 
 *7220|
 [fc]
-[ns]Wataru[nse]
-"So, Dad~ let's put it in Ren quickly~!"[pcms]
+[ns]航[nse]
+「じゃあ、父さ～ん、[r]
+　はやく漣に入れてやろう～！」[pcms]
 
 *7221|
 [fc]
-[ns]Father[nse]
-"That's right..."[pcms]
+[ns]父[nse]
+「そうだな……」[pcms]
 
 ;//@konya off移植
 
 *7222|
 [fc]
 [vo_ren s="ren_Z0125"]
-[ns]Ren[nse]
-"No... I don't want that... That's not right... It's[r]
-strange~!!"[pcms]
+[ns]漣[nse]
+「いやぁ……。[r]
+　そんなのいやぁ……。[r]
+　そんなのってないよぉ……おかしいよ～っ！！」[pcms]
 
 *7223|
 [fc]
-[ns]Wataru[nse]
-"Then, together~, one, two..."[pcms]
+[ns]航[nse]
+「じゃ～、いっしょに～、[r]
+　いち、にの……」[pcms]
 
 *7224|
 [fc]
 [vo_ren s="ren_Z0126"]
-[ns]Ren[nse]
-"...noo... ...nooo...!"[pcms]
+[ns]漣[nse]
+「……やぁあ……っ。[r]
+　……いやぁあっ……」[pcms]
 
 *7225|
 [fc]
-[ns]Father[nse]
-"Three!!"[pcms]
+[ns]父[nse]
+「さ～んっ！！」[pcms]
 
 
 [se buf=0 storage="se_sex01"]
@@ -210,477 +215,519 @@ strange~!!"[pcms]
 *7226|
 [fc]
 [vo_ren s="ren_Z0127"]
-[ns]Ren[nse]
-"Hyaguuuahhh!!!"[pcms]
+[ns]漣[nse]
+「ひゃぐっああぁあっ！！！」[pcms]
 
 *7227|
 [fc]
-When Dad and I thrust into Ren's pussy at once, it's so[r]
-tight it hurts... no, it's painfully pleasurable~!![pcms]
+ボクが父さんと一緒に漣のオマンコへと一気につっこんでやると、[r]
+痛いくらいのせまさで……[r]
+いや、痛くてキモチいい～っ！！[pcms]
 
 *7228|
 [fc]
-This is inside Ren...[pcms]
+これが漣の中かぁ……。[pcms]
 
 *7229|
 [fc]
 [vo_ren s="ren_Z0128"]
-[ns]Ren[nse]
-"Higu! Higigi! Higuahhh!!"[pcms]
+[ns]漣[nse]
+「ひぐっ！　ひぎぎっ！　ひぐぁあぁあっ！！」[pcms]
 
 *7230|
 [fc]
-[ns]Father[nse]
-"Ahh! What tightness, Ren~. I've never felt such a tight[r]
-pussy before~!!"[pcms]
+[ns]父[nse]
+「ああっ！[r]
+　なんてせまさなんだ漣～。[r]
+　こなにせまいマンコははじめてだぁ～！！」[pcms]
 
 *7231|
 [fc]
-[ns]Wataru[nse]
-"Ahh... Ren~! It feels like it's going to tear~. It's so[r]
-tight it feels like it could tear~!!"[pcms]
+[ns]航[nse]
+「ああっ……漣～っ！[r]
+　ちぎれそうだよ～。[r]
+　ちぎれそうなほどにせまい～～っ！！」[pcms]
 
 *7232|
 [fc]
 [vo_ren s="ren_Z0129"]
-[ns]Ren[nse]
-"Higi! Gi! Higu!! Higigi... gigi! Higuuuu!"[pcms]
+[ns]漣[nse]
+「ひぎっ！　ぎっ！　ひぐっ！！[r]
+　ひぎぎっ……ぎぎっ！　ひぐうううっ！」[pcms]
 
 *7233|
 [fc]
 [vo_ren s="ren_Z0130"]
-[ns]Ren[nse]
-"Higu!! ...Ah..."[pcms]
+[ns]漣[nse]
+「ひぐっ！！[r]
+　……あっ……」[pcms]
 ;//＠痛みとショックで気絶
 
 *7234|
 [fc]
-Ren is making such loud noises. Was it that pleasurable? Or[r]
-was she happy?[pcms]
+漣はすごい声を出している。[r]
+そんなに気持ちよかったのかな？[r]
+それともうれしかったのかな？[pcms]
 
 *7235|
 [fc]
-The pussy of Ren, filled by Dad and me, seems to be making[r]
-tearing sounds... And red blood is dripping down.[pcms]
+父さんのとボクの入っている漣のオマンコは、[r]
+メリメリと音がしてるみたいで……。[r]
+赤い血がだらだらと滴り落ちてる。[pcms]
 
 *7236|
 [fc]
-[ns]Father[nse]
-"Ahh, as expected, Ren was a virgin~. I was a bit worried,[r]
-you know~"[pcms]
+[ns]父[nse]
+「ああっ、やっぱり漣は処女だったんだ～。[r]
+　俺はちょっと心配だったんだぞ～」[pcms]
 
 *7237|
 [fc]
-[ns]Wataru[nse]
-"I thought it was a joke but~ you really meant it when you[r]
-said you wanted to be my bride~"[pcms]
+[ns]航[nse]
+「じょうだんだと思ったけど～ボクのおよめさんになりたいって[r]
+　本気だったんだな～」[pcms]
 
 *7238|
 [fc]
-[ns]Wataru[nse]
-"Ren has properly become my bride now~ She saved her[r]
-virginity just for me~. Ren really is a cute little[r]
-sister!!"[pcms]
+[ns]航[nse]
+「ちゃんと漣はボクのおよめさんになったんだぞ～[r]
+　ボクのためにずっと処女をとっておいてくれたんだ～。[r]
+　やっぱり漣はかわいい妹だなぁ～！！」[pcms]
 
 *7239|
 [fc]
 [vo_ren s="ren_Z0131"]
-[ns]Ren[nse]
-"Hik... ugh... uguh... ...ugh... ughhh..."[pcms]
+[ns]漣[nse]
+「ひきっ……ううっ……うぐっ……。[r]
+　……ううっ……うううっ……」[pcms]
 ;//＠気絶の後の余韻のうめき　泡を吹いてるイメージ
 
 *7240|
 [fc]
-[ns]Wataru[nse]
-"Ahh, Ren is such a good girl, right Dad~"[pcms]
+[ns]航[nse]
+「ああっ、漣はいい子だねぇ、父さん～」[pcms]
 
 *7241|
 [fc]
-[ns]Father[nse]
-"Ahh~, she's my daughter after all~"[pcms]
+[ns]父[nse]
+「ああっ～、俺の娘だからな～」[pcms]
 
 *7242|
 [fc]
-[ns]Wataru[nse]
-"Because she's my sister~"[pcms]
+[ns]航[nse]
+「ボクの妹だからだよぉ～」[pcms]
 
 *7243|
 [fc]
-[ns]Father[nse]
-"Now... which is it, Ren?"[pcms]
+[ns]父[nse]
+「なぁ……どっちだい～漣？」[pcms]
 
 *7244|
 [fc]
 [vo_ren s="ren_Z0132"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 ;//＠完全に気絶
 
 *7245|
 [fc]
-[ns]Wataru[nse]
-"Come on~ answer me, Ren~"[pcms]
+[ns]航[nse]
+「ちゃんと～答えてよ～漣～」[pcms]
 
 *7246|
 [fc]
-[ns]Father[nse]
-"She must be embarrassed~"[pcms]
+[ns]父[nse]
+「きっと、はずかしいのさ～」[pcms]
 
 *7247|
 [fc]
-[ns]Wataru[nse]
-"That's right~. Ren is shy after all~"[pcms]
+[ns]航[nse]
+「そうだね～。[r]
+　漣は恥ずかしがりやだからね～」[pcms]
 
 *7248|
 [fc]
-Dad must be right. That shyness is also what makes her cute[r]
-as a sister...[pcms]
+きっと、父さんの言うとおりだ。[r]
+そんなところが妹として、かわいくもあるのだけど……。[pcms]
 
 *7249|
 [fc]
 [vo_ren s="ren_Z0133"]
-[ns]Ren[nse]
-"Ugh... ughhhhnn... mmm..."[pcms]
+[ns]漣[nse]
+「ううっ……ううううんっ……んんっ……」[pcms]
 ;//＠　気絶しながらも、うなされて
 
 *7250|
 [fc]
-[ns]Father[nse]
-"Ahh, but still, I didn't expect it to be this tight. Ren's[r]
-pussy is very tight~. ...Even tighter than Mom's~"[pcms]
+[ns]父[nse]
+「ああ、それにしても思った以上のすごい狭さだな～。[r]
+　漣のマンコはとってもせまいぞ～。[r]
+　……母さん以上だぞ～」[pcms]
 
 *7251|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Dad~, isn't it because I'm also inside?"[pcms]
+[ns]航[nse]
+「ううっ……父さん～、ボクも入ってるからじゃないの～？」[pcms]
 
 *7252|
 [fc]
-[ns]Father[nse]
-"No no~, that might be so, but Ren is small after all~.[r]
-...Uaahh... Surely, even tighter than Mom's~!!"[pcms]
+[ns]父[nse]
+「いやいや～、そうかもしれないが、漣はちっちゃいからな～。[r]
+　……うああっ……。[r]
+　きっと、母さんよりも～もっと、もっと～、せまいぞ～！！」[pcms]
 
 *7253|
 [fc]
 [vo_ren s="ren_Z0134"]
-[ns]Ren[nse]
-"Ugh... auuhh... ugh... ughnn..."[pcms]
+[ns]漣[nse]
+「ううっ……あううっ……ううっ……ううんっ……」[pcms]
 ;//＠　気絶しながらも、うなされて
 
 *7254|
 [fc]
-[ns]Wataru[nse]
-"Is that so~, I see~. Come to think of it, I wanted to do it[r]
-with Ren's mother too~"[pcms]
+[ns]航[nse]
+「そうか～、そうなんだ～。[r]
+　そういえば、漣の母さんともしてみたかったなぁ～」[pcms]
 
 *7255|
 [fc]
-[ns]Father[nse]
-"That's right~, if she were alive~. She was a beauty just[r]
-like Ren~. I wanted to include Wataru's mother and do it[r]
-with five of us~"[pcms]
+[ns]父[nse]
+「そうだなぁ～、生きてればな～。[r]
+　漣ににて美人だったぞ～。[r]
+　航の母さんも入れて～、５人でしたかったなぁ～」[pcms]
 
 *7256|
 [fc]
-[ns]Wataru[nse]
-"Dad~, because Ren's mother died~, you remarried Mom,[r]
-right?"[pcms]
+[ns]航[nse]
+「父さ～ん、漣のお母さんが死んだから～、[r]
+　母さんと再こんしたんだろ～？」[pcms]
 
 *7257|
 [fc]
-[ns]Father[nse]
-"Ahh~, that's right~. But that's okay too, isn't it? Wataru[r]
-also wants to do it with his mother, right?"[pcms]
+[ns]父[nse]
+「ああっ～そうか～。[r]
+　でも、それはそれでいいじゃないか～。[r]
+　航も～航の母さんとしてみたいだろ～？」[pcms]
 
 *7258|
 [fc]
-[ns]Wataru[nse]
-"Yeah... that's true~"[pcms]
+[ns]航[nse]
+「うんっ……そうだねぇ～」[pcms]
 
 *7259|
 [fc]
-[ns]Father[nse]
-"Right? But thank goodness for you, Ren~. To have your[r]
-virginity taken by your loving family members, Dad and[r]
-Wataru, both at once~"[pcms]
+[ns]父[nse]
+「そうだろ～？[r]
+　でも、よかったな～漣～。[r]
+　愛する家族の俺と航に、二人がかりで処女をうばわれて～」[pcms]
 
 *7260|
 [fc]
 [vo_ren s="ren_Z0135"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 
 *7261|
 [fc]
-[ns]Wataru[nse]
-"What's wrong, Ren? Rolling your eyes back? Don't pretend to[r]
-be dead now~"[pcms]
+[ns]航[nse]
+「どうしたんだい漣？[r]
+　白目なんかむいて～？　死んだふりなんかするなよ～」[pcms]
 
 *7262|
 [fc]
-Ren is rolling her eyes back and twitching. Why would Ren do[r]
-something like that?[pcms]
+漣は白目をむいて、ぴくぴくってしてる。[r]
+なんで、漣はそんなことをするんだろう？[pcms]
 
 *7263|
 [fc]
-...Especially when Dad and I are doing such a nice thing[r]
-together...[pcms]
+……せっかく、ボクと父さんが一緒にこんなにイイことを[r]
+してるっていうのに……。[pcms]
 
 *7264|
 [fc]
-[ns]Father[nse]
-"Hey! Ren~~!!"[pcms]
+[ns]父[nse]
+「お～い！　漣～っ！！」[pcms]
 
 *7265|
 [fc]
-[ns]Wataru[nse]
-"Hey, Dad~. Since we're at it, let's move around a bit~"[pcms]
+[ns]航[nse]
+「ねぇ、父さん～。[r]
+　せっかくだから、動ごこうよ～」[pcms]
 
 *7266|
 [fc]
-[ns]Father[nse]
-"Ahh, that's right~. It's such a waste not to move when it's[r]
-so nicely tight~"[pcms]
+[ns]父[nse]
+「ああっ、そうだな～。[r]
+　こんなによくしまっているのに～[r]
+　ぜんぜん、動かないのはもったいない話だなぁ～～」[pcms]
 
 *7267|
 [fc]
-[ns]Wataru[nse]
-"Exactly~. It feels good when she twitches, but we've got to[r]
-move~! Let's make sure Ren can't pretend to be dead~"[pcms]
+[ns]航[nse]
+「そうそう～、ぴくぴくって震えてキモチいいけどね～。[r]
+　やっぱり～動かなくちゃね～！[r]
+　漣に死んだふりなんかしてられなくしようよ～」[pcms]
 
 *7268|
 [fc]
-[ns]Father[nse]
-"That's right. Shall we start moving then~"[pcms]
+[ns]父[nse]
+「そうだな。[r]
+　じゃあ、動くか～」[pcms]
 
 ;//SE・挿入　二人
 
 *7269|
 [fc]
-Dad and I began to move what we had inside Ren together.[pcms]
+ボクと父さんはいっしょに漣の中にいれたモノを動かしだした。[pcms]
 
 *7270|
 [fc]
 [vo_ren s="ren_Z0136"]
-[ns]Ren[nse]
-"Uguah! Ahh...!!"[pcms]
+[ns]漣[nse]
+「うぐあぁ！　ああっ……！！」[pcms]
 ;//＠悲鳴　半覚醒状態
 
 *7271|
 [fc]
-Ren let out a scream-like voice and jerked.[pcms]
+漣が悲鳴みたいな声を出してびくりと動く。[pcms]
 
 *7272|
 [fc]
-[ns]Wataru[nse]
-"Look, she made a sound~! Ren~. You can't pretend to be[r]
-dead, you know~!"[pcms]
+[ns]航[nse]
+「ほら、声が出た～！[r]
+　漣～。[r]
+　死んだ振りしたってダメだぞ～！」[pcms]
 
 *7273|
 [fc]
 [vo_ren s="ren_Z0137"]
-[ns]Ren[nse]
-"Uguahh! Ah! Ahh!!"[pcms]
+[ns]漣[nse]
+「うぐぁあっ！　あっ！　ああっ！！」[pcms]
 
 *7274|
 [fc]
-[ns]Father[nse]
-"That's right~. You should be more pleased, Ren~! Ah, Ren's[r]
-pussy is so much tighter than your mother's first time~!"[pcms]
+[ns]父[nse]
+「そうだぞ～。[r]
+　もっとよろこんでいいんだぞ～漣～！[r]
+　ああ、母さんの初めてよりもずっときついな漣のマンコは～！」[pcms]
 
 *7275|
 [fc]
 [vo_ren s="ren_Z0138"]
-[ns]Ren[nse]
-"Uguah...aguu...uuuh! Uguuugu...ugah!"[pcms]
+[ns]漣[nse]
+「うぐあっ……あぐうっ……ううっ！　うぐぐぐっ……うがぁ！」[pcms]
 
 *7276|
 [fc]
-[ns]Wataru[nse]
-"Ahh! And she's twitching too~!"[pcms]
+[ns]航[nse]
+「ああっ！　それにぴくぴくって震えてるよ～！」[pcms]
 
 *7277|
 [fc]
-[ns]Father[nse]
-"Now~, Wataru~! Let's move even more~!"[pcms]
+[ns]父[nse]
+「さぁ～、航～！[r]
+　もっと動かしてやるぞ～！」[pcms]
 
 *7278|
 [fc]
-[ns]Wataru[nse]
-"Got it, Dad!"[pcms]
+[ns]航[nse]
+「わかったよ～父さんっ！」[pcms]
 
 ;//SE・挿入激しく
 
 *7279|
 [fc]
 [vo_ren s="ren_Z0139"]
-[ns]Ren[nse]
-"Higii! Higigi! Hyaa! Ahh! Hyahaa!! Aguahh!!"[pcms]
+[ns]漣[nse]
+「ひぎっ！　ひぎぎっ！[r]
+　ひゃあっ！　ああっ！[r]
+　あひゃあっ！！　あぐああっ！！」[pcms]
 ;//＠　ほとんど意識が戻って、苦しむ
 
 *7280|
 [fc]
-Ren is still letting out scream-like voices. So... this is[r]
-what they call screams of pleasure~.[pcms]
+漣はあいかわらず、悲鳴のような声を上げている。[r]
+そうか……これが悦びの悲鳴ってやつか～。[pcms]
 
 *7281|
 [fc]
 [vo_ren s="ren_Z0140"]
-[ns]Ren[nse]
-"Higigii! Iiii! Higigi!"[pcms]
+[ns]漣[nse]
+「ひぎぎぃぃ！　いいいっ！　ひぎぎっ！」[pcms]
 
 *7282|
 [fc]
-[ns]Wataru[nse]
-"Nnn~. What's the matter, Ren~? You're making such strange[r]
-noises~! Let's hear some nicer sounds~"[pcms]
+[ns]航[nse]
+「んんっ～。どうしたんだい？　漣～。[r]
+　変な声ばっかりだして～！[r]
+　もうちょっといい声だそうよ～」[pcms]
 
 *7283|
 [fc]
-[ns]Father[nse]
-"That's right~. Ahh... let us hear a better voice like your[r]
-mother's~"[pcms]
+[ns]父[nse]
+「そうだぞ～。[r]
+　ああっ……母さんみたいにもっといい声を聞かせてくれ～」[pcms]
 
 *7284|
 [fc]
-[ns]Wataru[nse]
-"Uuh...! That's right, Ren~! Say something like 'I'm so[r]
-happy with my pussy full of Dad and big brother's cum!!'~"[pcms]
+[ns]航[nse]
+「ううっ……！　そうだよ～漣～っ！[r]
+　『お父さんと～お兄ちゃんので～オマンコいっぱいで[r]
+　うれしいっ！！』とか言ってごらん～」[pcms]
 
 *7285|
 [fc]
 [vo_ren s="ren_Z0141"]
-[ns]Ren[nse]
-"Higigii! Higuu...ihyaa...hih...hiii...! Iiii! Hugugu!"[pcms]
+[ns]漣[nse]
+「ひぎぎぃぃ！　ひぐううっ[r]
+　いひゃあ……ひっ……ひいいっ……！[r]
+　いいいっ！　ひぐぐぐっ！」[pcms]
 
 *7286|
 [fc]
-[ns]Wataru[nse]
-"Ahh! But it feels so good I can't stand it~! Ahh, it's[r]
-twitching inside~!!"[pcms]
+[ns]航[nse]
+「ああっ！[r]
+　それにしても～キモチよくて～たまらないな～！[r]
+　ああっ、中がぴくぴくふるえてる～！！」[pcms]
 
 *7287|
 [fc]
-Ren is so cute~. Even with Dad inside her, her pussy is[r]
-painfully tight~.[pcms]
+かわいいなぁ～漣は～。[r]
+父さんのが入っているにしても、[r]
+痛いくらいにキツキツのオマンコで～。[pcms]
 
 *7288|
 [fc]
-It's tight, painful, and feels good! And it twitches too![r]
-Yuuho's was good too, but this is a completely different[r]
-kind of pleasure.[pcms]
+せまくて、痛くて、キモチいいっ！[r]
+それでいてぴくぴくって震えて～！[r]
+悠帆のもよかったけど、それとはゼンゼンちがうキモチよさだ～。[pcms]
 
 ;//SE・挿入　激しく
 
 *7289|
 [fc]
 [vo_ren s="ren_Z0142"]
-[ns]Ren[nse]
-"Hiiih! Higii! Higii! Higigigi! Higuu! Higuuu!!"[pcms]
+[ns]漣[nse]
+「ひいいっ！　ひぎっ！　ひぎっ！　ひぎぎぎっ！[r]
+　ひぐっ！　ひぐううっ！！」[pcms]
 
 *7290|
 [fc]
-[ns]Wataru[nse]
-"It's so good! Ren's pussy is amazing~!!"[pcms]
+[ns]航[nse]
+「いいよぉ！[r]
+　漣のオマンコいいよ～！！」[pcms]
 
 *7291|
 [fc]
-[ns]Father[nse]
-"Wataru is amazing to fit in such a tight one~. Back in my[r]
-younger days, I worked hard like this with Ren's mother[r]
-too~"[pcms]
+[ns]父[nse]
+「航はすごいな～こんなにせまいのに～。[r]
+　俺も若いころは漣の母さん相手に、[r]
+　そんな風にがんばったもんだ～」[pcms]
 
 *7292|
 [fc]
 [vo_ren s="ren_Z0143"]
-[ns]Ren[nse]
-"Higigii...! Higii! Higii! Hii! Higigi!"[pcms]
+[ns]漣[nse]
+「ひぎぎいっ……！　ひぎっ！　ひぎっ！　ひっ！　ひぎぎっ！」[pcms]
 
 *7293|
 [fc]
-[ns]Wataru[nse]
-"Uuh... It's because I'm young~. Grandpa~! How about it,[r]
-Ren? Shall we try moving more vigorously?"[pcms]
+[ns]航[nse]
+「ううっ……若いからね～。[r]
+　じっさ～い！[r]
+　どうだい漣？　がんばってもっと動こうか～？」[pcms]
 
 *7294|
 [fc]
 [vo_ren s="ren_Z0144"]
-[ns]Ren[nse]
-"Hiuuu...hick...higuuu!! Higu...! Higii...! Higigigi..."[pcms]
+[ns]漣[nse]
+「ひううっ……ひっく……ひぐうっ！！[r]
+　ひぐっ……！　ひぎっ……！　ひぎぎぎっ……」[pcms]
 
 *7295|
 [fc]
-[ns]Father[nse]
-"Ahh! Wataru... if you move like that~, oh, I can't take it[r]
-anymore... Uuh...!"[pcms]
+[ns]父[nse]
+「ああっ！[r]
+　航……そんなに動かれると～、[r]
+　お、俺もたまらなくなる～。ううっ……！」[pcms]
 
 *7296|
 [fc]
-[ns]Wataru[nse]
-"Ahh! I feel like I'm going to cum too~! Dad! Ren~!!"[pcms]
+[ns]航[nse]
+「ああっ！[r]
+　ボクも出ちゃいそうだよぉ～！[r]
+　父さんっ！　漣～っ！！」[pcms]
 
 *7297|
 [fc]
-I can't hold back anymore. Huh? ...Is there even a need to[r]
-hold back?[pcms]
+ボクはもうガマンできなくなってきた。[r]
+あれっ？[r]
+……ガマンする必要なんてあるのか？[pcms]
 
 *7298|
 [fc]
-...Should I protect Ren?[pcms]
+……漣を守らなきゃ？[pcms]
 
 *7299|
 [fc]
-Huh? Isn't Ren enjoying being done by me and Dad like this?[r]
-Huh? What is this feeling?[pcms]
+あれっ？[r]
+漣はこうやってボクと父さんにされて、悦んでるよなぁ？[r]
+あれっ？　なんだろう？[pcms]
 
 *7300|
 [fc]
-[ns]Father[nse]
-"Auuu!! Ren is too delicate~. Now~! Drink up the nutrient-[r]
-rich semen just like your mother did, Ren!!"[pcms]
+[ns]父[nse]
+「あうう！！　漣はきゃしゃすぎるからな～。[r]
+　さあ～っ！　母さんみたいに栄養たっぷりのザーメンを[r]
+　しっかり飲むんだぞ～漣！！」[pcms]
 
 *7301|
 [fc]
-[ns]Wataru[nse]
-"Uuh! Now, Ren~! Drink up plenty with your pussy~! You're[r]
-undernourished after all~"[pcms]
+[ns]航[nse]
+「ううっ！　さあ、漣～！[r]
+　いっぱいオマンコで飲めよ～！[r]
+　漣は栄養不足だからな～」[pcms]
 
 *7302|
 [fc]
 [vo_ren s="ren_Z0145"]
-[ns]Ren[nse]
-"Hiuuu...uuuh...hiuuu! Uuuuh...! Hiuh...! Uuuuh...ugu..."[pcms]
+[ns]漣[nse]
+「ひううっ……ううっ……ひううっ！[r]
+　うううっ……！　ひうっ……！[r]
+　うううっ……うぐっ……」[pcms]
 
 *7303|
 [fc]
-[ns]Wataru[nse]
-"Auuuh... Girls need to grow bigger breasts and butts too~[r]
-Drink up properly~, and get a nice butt like Yuuho's,[r]
-Ren~!!"[pcms]
+[ns]航[nse]
+「あううっ……女の子はもっと胸もお尻も大きくならなくちゃね～[r]
+　しっかり飲んで～、[r]
+　悠帆みたいに～いいお尻になるんだぞ～漣～！！」[pcms]
 
 *7304|
 [fc]
-Yuuho?[pcms]
+悠帆？[pcms]
 
 *7305|
 [fc]
-Huh...? Yuuho has been gone for a while now, hasn't she?[r]
-...Where did she go?[pcms]
+あれ……？[r]
+悠帆は……ずっと、前にいなくなったよな～。[r]
+……どこに行ったっけ？[pcms]
 
 *7306|
 [fc]
-I felt like she was here until just now? ...Ah, must be my[r]
-imagination. Anyway...[pcms]
+さっきまでいた気もするけど？[r]
+……ああ、気のせいか～。[r]
+そんなことよりも……。[pcms]
 
 *7307|
 [fc]
-[ns]Wataru[nse]
-"Uaahh...!!"[pcms]
+[ns]航[nse]
+「うあぁっ……！！」[pcms]
 
 *7308|
 [fc]
-[ns]Father[nse]
-"Uuh! Ahh!!"[pcms]
+[ns]父[nse]
+「ううっ！　ああっ！！」[pcms]
 
 ;//差分　同時に膣内射精
 ;//射精エフェクト
@@ -690,18 +737,21 @@ imagination. Anyway...[pcms]
 
 *7309|
 [fc]
-Dad and I came together inside Ren in abundance.[pcms]
+ボクは父さんと一緒に漣の中へとたっぷり中出しした。[pcms]
 
 *7310|
 [fc]
-Inside my cute little sister! Ahh!! How pleasurable it is.[pcms]
+かわいい妹の中へ！[r]
+ああっ！！[r]
+なんて気持ちいいんだ。[pcms]
 
 *7311|
 [fc]
 [vo_ren s="ren_Z0146"]
-[ns]Ren[nse]
-"Uuuuh...uuuuuh...that's mean... ...that's so mean... Big[r]
-brother...Dad..."[pcms]
+[ns]漣[nse]
+「うううっ……うううっ……ひど……い……。[r]
+　……ひどいよぉ……。[r]
+　おにい……ちゃん……おとう……さんっ……」[pcms]
 ;//＠　悪夢のような　夢うつつ
 
 ;//暗転
@@ -712,38 +762,41 @@ brother...Dad..."[pcms]
 
 ;//漣は本当に恥ずかしがりやだなぁ……。
 
-;//それにしても本当によかった。
+;//それにしても本当によかった～。
 
 *7312|
 [fc]
-[ns]Father[nse]
-"We released a lot, Wataru~!"[pcms]
+[ns]父[nse]
+「いっぱいだしたな～航～！」[pcms]
 
 *7313|
 [fc]
-[ns]Wataru[nse]
-"Dad too~. Looks like you came a lot inside her too. Next[r]
-time, I want to be the only one inside Ren's pussy."[pcms]
+[ns]航[nse]
+「父さんこそ～。[r]
+　いっぱい中出ししたみたいだね～。[r]
+　次はボク一人で漣のオマンコにいれてみたいな～」[pcms]
 
 *7314|
 [fc]
-It hurts but feels good to be with Dad, but still, I want to[r]
-monopolize Ren's pussy all to myself.[pcms]
+父さんといっしょは痛くていいけど、[r]
+やっぱり、ひとりで漣のオマンコを独占してみたい。[pcms]
 
 *7315|
 [fc]
-[ns]Father[nse]
-"Ahh... But I still haven't released enough yet."[pcms]
+[ns]父[nse]
+「ああっ……。[r]
+　だけど、俺もまだ、出したりないなぁ～」[pcms]
 
 *7316|
 [fc]
-[ns]Wataru[nse]
-"Then, we can just use a different place~"[pcms]
+[ns]航[nse]
+「じゃあ、別のところをつかえばいいじゃないか～」[pcms]
 
 *7317|
 [fc]
-[ns]Father[nse]
-"That's true~. You're so smart, Wataru~"[pcms]
+[ns]父[nse]
+「そうだなぁ～。[r]
+　頭がいいなぁ～航は～」[pcms]
 
 ;[sysbt_meswin clear]
 
@@ -754,9 +807,9 @@ monopolize Ren's pussy all to myself.[pcms]
 [jump storage="42240.ks" target=*42240_TOP]
 
 ;//@konya ルート廃止---------------------------------------------------------
-[ns]Wataru[nse]
-;//「あっ……でも、待ってよ。
-;//　先輩も捨てがたいなぁ。
+;//[ns]航[nse]
+;//「あっ……でも、待ってよ～。
+;//　先輩も捨てがたいなぁ～。
 ;//　どっちにしよう」
 ;//
 ;//漣のオマンコは一応味わったわけだし……。
@@ -764,20 +817,20 @@ monopolize Ren's pussy all to myself.[pcms]
 ;//
 ;//ハーフのオマンコってどんなぐあいなんだろう？
 ;//
-;//どっちにしようかな？
+;//どっちにしようかな～？
 ;//
 ;//　スイッチ　オン　４２２４０　で判定
 ;//[eval exp="f.l_42250 = 1"]
 ;//
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ９
-;//・９１：このまま漣と一緒→ブロック４２２４０へ
-;//・９２：マルガリータの方に→ブロック４２２９０へ
+;//●選択肢Ｃ－９
+;//・９－１：このまま漣と一緒→ブロック４２２４０へ
+;//・９－２：マルガリータの方に→ブロック４２２９０へ
 
 ;//[sysbt_meswin clear]
 ;//
 ;//[link storage="42240.ks" target=*42240_TOP]このまま漣と一緒[endlink]
 ;//[link storage="42290.ks" target=*42290_TOP]マルガリータの方に[endlink]
-;//[pcms]
+;//[s]
 ;//--------------------------------------------------------------------
 

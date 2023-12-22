@@ -17,90 +17,89 @@
 
 *1911|
 [fc]
-[ns]Wataru[nse]
-"Senpai, I'll go with this..."[pcms]
+[ns]航[nse]
+「先輩、これでいきます……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1912|
 [fc]
 [vo_mar s="maru1525"]
-[ns]Margarita[nse]
-"I see."[pcms]
+[ns]マルガリータ[nse]
+「なるほど」[pcms]
 
 *1913|
 [fc]
-When I presented the nail gun, senpai nodded as if to say[r]
-she understood.[pcms]
+釘打ちを差し出してみせると、[r]
+先輩はわかったというようにうなずいた。[pcms]
 
 *1914|
 [fc]
-With determination, I slowly approached the infected.[pcms]
+意を決して、ボクはゆっくりと感染者に近付いていく。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1915|
 [fc]
 [vo_mar s="maru1526"]
-[ns]Margarita[nse]
-"Be careful!"[pcms]
+[ns]マルガリータ[nse]
+「気をつけろ！」[pcms]
 
 *1916|
 [fc]
-[ns]Wataru[nse]
-"Ye...yes!"[pcms]
+[ns]航[nse]
+「は……はいっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1917|
 [fc]
-It's okay... They move slowly.[pcms]
+大丈夫……。ヤツラは動きが鈍いんだ。[pcms]
 
 *1918|
 [fc]
-If I move quickly to the side, I should be able to avoid[r]
-them... They won't be able to keep up with my movements![pcms]
+脇から回り込むように、素早く動けばいい……。[r]
+そうすればこっちの動きにはついて来られないはずだから！[pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
 *1919|
 [fc]
-[ns]Infected Man A[nse]
-"Here they come, here... You look tasty..."[pcms]
+[ns]感染者・男Ａ[nse]
+「来たよ、来た……。うまそうだぁ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1920|
 [fc]
 [vo_mob s="kan2_0005"]
-[ns]Infected Woman B[nse]
-"First, I'll eat your dick... heheheheh"[pcms]
+[ns]感染者・女Ｂ[nse]
+「まずは、チンポから喰ってやるよ……ひひひひひっ」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1921|
 [fc]
-While dodging the eerily stretching arms of the infected, I[r]
-maneuver my body in a circular motion.[pcms]
+不気味に伸びてくる感染者の腕を避けながら、[r]
+円を描くように、身体をさばく。[pcms]
 
 *1922|
 [fc]
-[ns]Wataru[nse]
-"...Take this!"[pcms]
+[ns]航[nse]
+「…………このぉっ！！」[pcms]
 
 *1923|
 [fc]
-I aimed the nail gun at the back of the head and pulled the[r]
-trigger with all my might.[pcms]
+後頭部めがけて釘内をかざし、トリガーを力いっぱい引く。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
 *1924|
 [fc]
-[ns]Infected Man A[nse]
-"Gyowaaaaaaaah-----!"[pcms]
+[ns]感染者・男Ａ[nse]
+「ぎょわあああぁぁぁぁーーーーーっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -109,47 +108,48 @@ trigger with all my might.[pcms]
 
 *1925|
 [fc]
-The infected woman let out a dramatic scream as she fell.[pcms]
+派手な悲鳴をあげて感染者の女が倒れこむ。[pcms]
 
 *1926|
 [fc]
-[ns]Wataru[nse]
-"I...I did it!!"[pcms]
+[ns]航[nse]
+「や……やった！！」[pcms]
 
 *1927|
 [fc]
-It was surprisingly easy.[pcms]
+あっけないくらい簡単だ。[pcms]
 
 *1928|
 [fc]
-[ns]Wataru[nse]
-"Al...alright... If it's like this, I can do it again...!"[pcms]
+[ns]航[nse]
+「よ、よし……。これなら、つ、次も……っ！」[pcms]
 
 *1929|
 [fc]
-Without hesitation, I flipped over and pressed the nail gun[r]
-against the forehead of another infected.[pcms]
+すかさず身を翻して、[r]
+もう一人の感染者の額に釘打ちを押し付けた。[pcms]
 
 *1930|
 [fc]
-[ns]Wataru[nse]
-"Take that!!!"[pcms]
+[ns]航[nse]
+「それっ！！！」[pcms]
 
 ;//se021
 [se buf=0 storage="se021"]
 
 *1931|
 [fc]
-*Click*[pcms]
+カチリ。[pcms]
 
 *1932|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「えっ………………？」[pcms]
 
 *1933|
 [fc]
-Why!? I pulled the trigger as hard as I could!?[pcms]
+何でだ！？[r]
+目一杯トリガーを引いたのに！？[pcms]
 
 ;//se021
 [se buf=0 storage="se021"]
@@ -166,51 +166,50 @@ Why!? I pulled the trigger as hard as I could!?[pcms]
 
 *1934|
 [fc]
-*Click Click, Click Click Click...!*[pcms]
+カチッカチッ、カチカチカチ……！[pcms]
 
 *1935|
 [fc]
-No nails are coming out![pcms]
+やっぱり釘が出ない！[pcms]
 
 *1936|
 [fc]
-[ns]Wataru[nse]
-"Eeeeeeeek!?"[pcms]
+[ns]航[nse]
+「ええええええぇぇぇぇ！？」[pcms]
 
 *1937|
 [fc]
-Could it be that I've run out of nails!?[pcms]
+もしかして、釘が切れちゃったのか！？[pcms]
 
 *1938|
 [fc]
-[ns]Wataru[nse]
-"Wh...why now, at the most crucial moment!?"[pcms]
+[ns]航[nse]
+「なっ、なんで、肝心な時にっ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1939|
 [fc]
-The infected's hand reached out for my chest as I panicked![pcms]
+狼狽するボクの胸めがけ、感染者の手が伸びてきた！[pcms]
 
 *1940|
 [fc]
 [vo_mob s="kan2_0006"]
-[ns]Infected Person - Woman B[nse]
-"I'll eat youuuuu!!"[pcms]
+[ns]感染者・女Ｂ[nse]
+「食わせなぁぁっ！！」[pcms]
 
 *1941|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaaaaaahhhhh-----!!"[pcms]
+[ns]航[nse]
+「う、うわあああああぁぁぁーーーーーっ！！」[pcms]
 
 *1942|
 [fc]
-I'm going to be caught![pcms]
+掴まれる！[pcms]
 
 *1943|
 [fc]
-The moment I thought that, a gust of wind blew in front of[r]
-my face.[pcms]
+そう思った瞬間、顔の前を突風が吹いた。[pcms]
 
 ;//ev008b（マル子キック）
 [evcg storage="EV008b"][trans_c cross time=300]
@@ -218,8 +217,8 @@ my face.[pcms]
 *1944|
 [fc]
 [vo_mar s="maru1527"]
-[ns]Margarita[nse]
-"...Haaaahhh!!"[pcms]
+[ns]マルガリータ[nse]
+「……はぁぁぁっっ！！」[pcms]
 
 ;//se012・どす！
 [se buf=0 storage="se012"]
@@ -227,13 +226,13 @@ my face.[pcms]
 *1945|
 [fc]
 [vo_mob s="kan2_0007"]
-[ns]Infected Person - Woman B[nse]
-"Gubuuuuuh!?"[pcms]
+[ns]感染者・女Ｂ[nse]
+「ぐぶうぅぅぅっ！？」[pcms]
 
 *1946|
 [fc]
-The infected was blown away by a kick from Maruko-senpai[r]
-coming from the side.[pcms]
+横合いからマル子先輩の放った蹴りを喰らって、[r]
+感染者が吹っ飛んでいく。[pcms]
 
 [bg storage="BG08f"][trans_c cross time=500]
 
@@ -242,24 +241,24 @@ coming from the side.[pcms]
 *1947|
 [fc]
 [vo_mar s="maru1528"]
-[ns]Margarita[nse]
-"...Are you hurt?"[pcms]
+[ns]マルガリータ[nse]
+「……怪我はないか？」[pcms]
 
 *1948|
 [fc]
-[ns]Wataru[nse]
-"I'm...I'm fine..."[pcms]
+[ns]航[nse]
+「だ……大丈夫です……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1949|
 [fc]
-I responded with trembling lips to senpai's worried look.[pcms]
+心配そうな先輩に、ボクは震える唇で応える。[pcms]
 
 *1950|
 [fc]
-But... I thought I was going to die...[pcms]
+だけど……死ぬかと思った……。[pcms]
 
 ;//→ブロック５０４００へ
 [jump storage="50400.ks" target=*50400_TOP]

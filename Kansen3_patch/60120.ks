@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：;//〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：2k前後
@@ -17,24 +17,23 @@
 
 *820|
 [fc]
-[ns]Wataru[nse]
-"...Could it be...!?"[pcms]
+[ns]航[nse]
+「……まさか……！？」[pcms]
 
 *821|
 [fc]
-No matter how you think about it, this isn't normal. Could[r]
-it be... could Yuuho be infected!?[pcms]
+どう考えてもこれは普通じゃない。[r]
+まさか……もしかして、悠帆……感染してる！？[pcms]
 
 *822|
 [fc]
-A chill ran down my spine at the thought.[pcms]
+思いつきに背筋が寒くなった。[pcms]
 
 *823|
 [fc]
-I don't want to think about it... I don't want to, but...[r]
-Could this abnormal behavior and the vacant atmosphere from[r]
-earlier be similar to Yoshino-san 'that day', and the other[r]
-infected...???[pcms]
+考えたくない……、考えたくはないけれど……。[r]
+この異常な行動も、さっきの虚ろな雰囲気も、[r]
+「あの日」の吉野さんや、他の感染者たちに似てる……？？[pcms]
 
 
 ;[ChrSetEx layer=5 chbase="yuho_e18"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -42,43 +41,42 @@ infected...???[pcms]
 *824|
 [fc]
 [vo_yuh s="yuho_YK0116"]
-[ns]Yuuho[nse]
-"Wa-...ta...ru...uu? ...Wa, ta, ruuuuuuu? ...What's[r]
-wrong...oooh?"[pcms]
+[ns]悠帆[nse]
+「わー、た……る……ぅぅ？…………わた、るぅぅぅぅぅぅ？[r]
+　……どうした、の……ぉぉ？」[pcms]
 ;//＠少し離れた場所
 
 *825|
 [fc]
-Yuuho called out from the sofa.[pcms]
+ソファから悠帆が呼びかけてきた。[pcms]
 
 *826|
 [fc]
-It was a completely different tone from her usual lively[r]
-one, a drawn-out voice without any intonation... She's[r]
-really infected, isn't she!?[pcms]
+いつもの生き生きした口調とは全く異質な、[r]
+抑揚の感じられない間延びした声……。[r]
+やっぱり、感染してるんだ！？[pcms]
 
 *827|
 [fc]
-[ns]Wataru[nse]
-"What... what should I do...? What's the right thing for me[r]
-to do...?"[pcms]
+[ns]航[nse]
+「ど……どうしよう……？[r]
+　どうしたらいいんだ、ボクは……？」[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ４
-;//４１：僕が撃つしかない・・・！！→60130
-;//４２：・・・みんなに相談しよう→60140
+;//●選択肢Ａ－４
+;//４－１：僕が撃つしかない・・・！！→60130
+;//４－２：・・・みんなに相談しよう→60140
 
 
 ;	[link storage="60130.ks" target=*60130_TOP]ボクが撃つしかない……！！[endlink]
-; (link storage="60140.ks" target=*60140_TOP)...I should[r]
-consult with everyone(endlink)[pcms]
+;	[link storage="60140.ks" target=*60140_TOP]……みんなに相談しよう[endlink][s]
 
 *SEL53|ボクが撃つしかない……！！／……みんなに相談しよう
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'I have no choice but to shoot!!'"]
-[eval exp="f.seltext04 = 'Let\'s consult with everyone'"]
+[eval exp="f.seltext02 = 'ボクが撃つしかない……！！'"]
+[eval exp="f.seltext04 = '……みんなに相談しよう'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

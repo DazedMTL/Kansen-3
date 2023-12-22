@@ -42,204 +42,214 @@
 *2128|
 [fc]
 [vo_ren s="ren0483"]
-[ns]Ren[nse]
-"Maybe I'll switch them in the prep room next door."[pcms]
+[ns]漣[nse]
+「隣の準備室で交換しようかな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2129|
 [fc]
-[ns]Kousuke[nse]
-"I see. Then I'll just wander around until it's time to move[r]
-to the venue."[pcms]
+[ns]浩助[nse]
+「そうか。じゃあオレは会場の移動時間まで、[r]
+　その辺フラフラしてるかな」[pcms]
 
 *2130|
 [fc]
 [vo_ren s="ren0484"]
-[ns]Ren[nse]
-"Then see you later, Ko-chan."[pcms]
+[ns]漣[nse]
+「それじゃあまた後でね、コーちゃん」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2131|
 [fc]
-[ns]Kousuke[nse]
-"Yeah."[pcms]
+[ns]浩助[nse]
+「おう」[pcms]
 
 ;//黒フェード
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2132|
 [fc]
-With a smile, we parted ways, and I put my violin in its[r]
-case and moved to the music prep room next door.[pcms]
+ニッコリと笑顔で別れ、私はバイオリンをケースに[r]
+しまうとそれを持って隣の音楽準備室に移動した。[pcms]
 
 *2133|
 [fc]
-While changing the strings, I suddenly remembered Ko-chan's[r]
-words.[pcms]
+弦を交換しながら、私はふとコーちゃんの言葉を[r]
+思い出した。[pcms]
 
 *2134|
 [fc]
-Why hasn't he replied to Ko-chan's emails? What's going on[r]
-with big brother? Could it be because of Yuuho-chan?[pcms]
+コーちゃんからのメールの返事も書かないなんて、[r]
+本当にどうしたんだろう？　お兄ちゃん。[r]
+やっぱり悠帆ちゃんが原因なのかな？[pcms]
 
 *2135|
 [fc]
-Ever since our mother passed away, big brother has been[r]
-acting strange.[pcms]
+お兄ちゃんのお母さんがいなくなってから、[r]
+ずっとお兄ちゃんおかしいもの。[pcms]
 
 *2136|
 [fc]
-No, it's not just big brother. Dad seems a bit off too...[r]
-like he's forcing himself.[pcms]
+ううん、お兄ちゃんだけじゃない。お父さんも[r]
+少しおかしい。[r]
+無理してるって言うか……。[pcms]
 
 *2137|
 [fc]
-If I think about it, this is the second time Dad has lost a[r]
-wife he loved.[pcms]
+考えてみればお父さんは、自分の愛する奥さんに[r]
+先立たれたのはこれで二回目なんだもの。[pcms]
 
 *2138|
 [fc]
-I was told by my teacher that Dad was forcing himself back[r]
-when my mother died too, when I started playing the violin[r]
-to follow in her footsteps.[pcms]
+やっぱり私のお母さんが死んだ時も、無理してたって、[r]
+私がお母さんの跡を継ぐように、バイオリンを始めた[r]
+ときに、先生から聞かされた。[pcms]
 
 *2139|
 [fc]
-If that's true, what was Dad feeling when I said I wanted to[r]
-learn violin from the same teacher as my mother?[pcms]
+それが本当ならば、私がお母さんと同じ先生の所に[r]
+バイオリンを習いに行くって言ったとき、お父さんは[r]
+いったいどんな気持ちだったんだろう。[pcms]
 
 *2140|
 [fc]
-I don't know... To me, she wasn't the mother who gave birth[r]
-to me, but my brother's mother.[pcms]
+わからない……私にとって、お母さんは、[r]
+私を生んでくれたお母さんじゃなくて、お兄ちゃんの[r]
+お母さんだから。[pcms]
 
 *2141|
 [fc]
-Despite being told it was impossible due to our shared[r]
-condition, she gave birth to me... and then she died. Of[r]
-course, I'm grateful to her.[pcms]
+私と同じ体質で、無理だって止められていたのに、[r]
+私を産んで……そして死んでしまったお母さんには[r]
+もちろん感謝している。[pcms]
 
 *2142|
 [fc]
-Chasing after the image of my musician mother, I took up her[r]
-violin as a memento.[pcms]
+音楽家だったお母さんの面影を追って、私はお母さんの[r]
+形見のバイオリンを手に取ったんだもの。[pcms]
 
 *2143|
 [fc]
-The warmth the violin gives me is my mother's warmth. But I[r]
-have no memories of "mother."[pcms]
+バイオリンが与えてくれるぬくもりはお母さんの[r]
+ぬくもりだ。[r]
+でも私に『お母さん』の記憶はない。[pcms]
 
 *2144|
 [fc]
-I longed for "mother," and the real warmth of a mother was[r]
-given to me by my brother's mother.[pcms]
+『お母さん』に憧れて、そして本当のお母さんの[r]
+ぬくもりを与えてくれたのは、お兄ちゃんの[r]
+お母さんだ。[pcms]
 
 *2145|
 [fc]
-It was very sad for me... but watching big brother, I feel[r]
-like his sadness is different from mine.[pcms]
+私にとってそれはとても悲しいことだったけれど……[r]
+でもお兄ちゃんの様子を見ていると、私の悲しいとは[r]
+違うような気がする。[pcms]
 
 *2146|
 [fc]
-He tries desperately to cheer up and protect me along with[r]
-Dad, but still, I catch big brother's eyes looking off into[r]
-the distance.[pcms]
+お父さんと一緒に私を守ろうと必死になって、明るく[r]
+振舞ってくれているけれど、それでもお兄ちゃんの[r]
+目はふと気がつくと遠くを見てる。[pcms]
 
 *2147|
 [fc]
-That worried me, and even though I was offered the chance to[r]
-study abroad by my teacher, I turned it down.[pcms]
+それが気になって、先生から留学の話を[r]
+聞かされたのに、断ってしまった。[pcms]
 
 *2148|
 [fc]
-If I leave big brother now, he will surely keep that distant[r]
-look in his eyes.[pcms]
+今お兄ちゃんから離れたら、お兄ちゃんはきっと[r]
+遠い目をしたままだ。[pcms]
 
 *2149|
 [fc]
-No. Big brother looks at Yuuho-chan, not me.[pcms]
+ううん。[r]
+お兄ちゃんは私ではなく悠帆ちゃんを見る。[pcms]
 
 *2150|
 [fc]
-That was something I just couldn't accept. I love big[r]
-brother... yet he only sees me as his sister.[pcms]
+それは……それはどうしても許せなかった。[r]
+お兄ちゃんを愛してるのは、私……なのに。[r]
+お兄ちゃんは私を妹としてしか見ようとしない。[pcms]
 
 *2151|
 [fc]
-Even lost in thought, my hands automatically continued the[r]
-familiar task of replacing the broken G string and tuning it[r]
-with the pegs.[pcms]
+考え事をしていても、私の手は慣れた作業を繰り返すように、[r]
+切れたＧ線を張り替えて、あとはペグで[r]
+調律するだけになった。[pcms]
 
 *2152|
 [fc]
-The moment I was about to hold the violin and place the bow,[r]
-a scream-like voice could be heard from somewhere.[pcms]
+バイオリンを構えて弓を当てようとしたその瞬間、[r]
+どこからか悲鳴みたいな声が聞こえてくる。[pcms]
 
 *2153|
 [fc]
 [vo_ren s="ren0485"]
-[ns]Ren[nse]
-"Is it my imagination... or did someone get hurt or[r]
-something?"[pcms]
+[ns]漣[nse]
+「気のせい……それとも誰かが怪我か[r]
+　何かしたのかな？」[pcms]
 
 *2154|
 [fc]
-Even though it's summer vacation, there are quite a few[r]
-students and teachers around for club activities and such.[pcms]
+学園は夏休みだとは言え、部活だったりなんだりで[r]
+結構学生や先生方がいたりする。[pcms]
 
 *2155|
 [fc]
-So at first, I didn't think much of it. It seemed like just[r]
-another normal day.[pcms]
+だから最初はなんともないと思っていた。[r]
+いつもの日常の事だと。[pcms]
 
 *2156|
 [fc]
-But as I continued tuning, playing a note and adjusting the[r]
-pegs little by little, I started to feel strange.[pcms]
+それでも私は調律をしようと、一つ音を出しては少しづつ[r]
+ペグを動かして音の調整をし続けるうちに、[r]
+なんだかおかしな気分になってきた。[pcms]
 
 *2157|
 [fc]
-A feeling of unease... maybe that's the best way to describe[r]
-it. Is it because the screams that occasionally sound like[r]
-dissonance are getting closer?[pcms]
+胸騒ぎ……と言うのが一番似合ってるかもしれない。[r]
+時折不協和音のように響く悲鳴が段々近づいてくるから？[pcms]
 
 *2158|
 [fc]
-What is it? Something's not right...[pcms]
+なんだろう？[r]
+おかしい……。[pcms]
 
 *2159|
 [fc]
-I put the violin back in its case and cautiously approached[r]
-the hallway to peek at what was happening.[pcms]
+バイオリンをケースにしまって、私はそっと廊下の[r]
+様子を窺おうと近づく。[pcms]
 
 *2160|
 [fc]
-And then--[pcms]
+すると――。[pcms]
 
 *2161|
 [fc]
 [vo_mob s="buin0004"]
-[ns]Club Member C[nse]
-"Kyaaaaaaaah!!"[pcms]
+[ns]部員Ｃ[nse]
+「きゃああああああああっ！！」[pcms]
 
 *2162|
 [fc]
-The voice of a senior who should have been practicing in the[r]
-next music room could be heard.[pcms]
+隣の音楽室から、練習をしていたはずの先輩の声が[r]
+聞こえてきた。[pcms]
 
 *2163|
 [fc]
-Eh? What? What happened?[pcms]
+えっ？　なに？　何があったの？[pcms]
 
 *2164|
 [fc]
-The moment I reflexively rushed toward the door--[pcms]
+私が反射的に扉に駆け寄ったそのとき――[pcms]
 
 *2165|
 [fc]
-The door opened slowly.[pcms]
+おもむろにその扉が開いた。[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -254,475 +264,489 @@ The door opened slowly.[pcms]
 
 *2166|
 [fc]
-I was thrown back and pinned down on the floor of the prep[r]
-room.[pcms]
+弾き飛ばされ、私は準備室の床に組み敷かれた。[pcms]
 
 *2167|
 [fc]
 [vo_ren s="ren0486"]
-[ns]Ren[nse]
-"Eh? Wha-what? Ko-chan?"[pcms]
+[ns]漣[nse]
+「えっ？　な、なに？　コーちゃんっ？」[pcms]
 
 *2168|
 [fc]
-I couldn't understand the situation I was in.[pcms]
+自分が置かれてる状況がよくわからない。[pcms]
 
 *2169|
 [fc]
-All I knew was that Ko-chan had bloodshot eyes and was[r]
-pinning me down on the floor.[pcms]
+わかるのはコーちゃんが真っ赤な目をしていて、[r]
+私を床に押し倒していることだった。[pcms]
 
 *2170|
 [fc]
-And similarly bloodshot-eyed men were holding me down as[r]
-well.[pcms]
+そして同じように赤い目をした男の人が、何人も[r]
+私を押さえつけてるということだけだった。[pcms]
 
 *2171|
 [fc]
-[ns]Kousuke[nse]
-"Ahaha... Ren-chan is so soft."[pcms]
+[ns]浩助[nse]
+「あはは……柔らかいなぁ、漣ちゃんは」[pcms]
 
 *2172|
 [fc]
-[ns]Infected Man A[nse]
-"She smells so good. Irresistible. Just like a doll."[pcms]
+[ns]感染者・男Ａ[nse]
+「いい匂いだぜ。たまらねぇな。まるで[r]
+　お人形さんみたいだ」[pcms]
 
 *2173|
 [fc]
 [vo_ren s="ren0487"]
-[ns]Ren[nse]
-"No, stop... please..."[pcms]
+[ns]漣[nse]
+「い、いやっ！　やめて……」[pcms]
 
 *2174|
 [fc]
-[ns]Infected Man B[nse]
-"Stop she says. How cute. Like we're gonna stop."[pcms]
+[ns]感染者・男Ｂ[nse]
+「やめてだってよ。かわいいなぁ。やめるわけない[r]
+　だろうが」[pcms]
 
 *2175|
 [fc]
-[ns]Infected Man A[nse]
-"Ahaha... sweet, young skin."[pcms]
+[ns]感染者・男Ａ[nse]
+「あはは……あまいなぁ、若い子の肌は」[pcms]
 
 *2176|
 [fc]
-[ns]Kousuke[nse]
-"Ah, Ren-chan's legs are irresistible. How many times have I[r]
-thought about caressing them."[pcms]
+[ns]浩助[nse]
+「あぁ、漣ちゃんのこの足、たまらないぜ。[r]
+　この足を何度撫で回したいと思ったことか」[pcms]
 
 *2177|
 [fc]
 [vo_ren s="ren0488"]
-[ns]Ren[nse]
-"Ko-chan? This isn't... this can't be real, right?"[pcms]
+[ns]漣[nse]
+「こ、コーちゃん？　嘘……嘘だよね？」[pcms]
 
 *2178|
 [fc]
-[ns]Kousuke[nse]
-"As if it's a lie. I've been thinking about how fun it would[r]
-be to torment doll- like Ren-chan."[pcms]
+[ns]浩助[nse]
+「嘘なもんか。お人形の漣ちゃんをどんな風に[r]
+　苛めたら楽しいだろうって思ってたんだ」[pcms]
 
 *2179|
 [fc]
-Has Ko-chan lost his mind? That's all I could think. There's[r]
-no way Ko-chan would think such things.[pcms]
+コーちゃんの気がおかしくなった？[r]
+私はそれしか思えなかった。[r]
+コーちゃんがこんな事、思うわけがない。[pcms]
 
 *2180|
 [fc]
-Ko-chan is always kind, the best friend of my brother,[r]
-but...[pcms]
+コーちゃんはいつでも優しい、お兄ちゃんの一番の[r]
+親友で、でも……。[pcms]
 
 *2181|
 [fc]
-A stranger licked my throat with his tongue, and I[r]
-involuntarily grimaced.[pcms]
+知らない男の人に、ベロンと喉元を舐められて、[r]
+私は思わず顔をしかめた。[pcms]
 
 *2182|
 [fc]
-[ns]Infected Man C[nse]
-"Even your grimacing face is arousing. Your undeveloped[r]
-body, pale skin, and long black hair really make you look[r]
-like a doll."[pcms]
+[ns]感染者・男Ｃ[nse]
+「しかめた顔もそそるなぁ。この成長しきってない[r]
+　体に、色白の黒く長い髪。本当に人形みたいだ」[pcms]
 
 *2183|
 [fc]
-[ns]Infected Man B[nse]
-"The glasses are a turn-on too, totally looks like a[r]
-committee chairwoman."[pcms]
+[ns]感染者・男Ｂ[nse]
+「眼鏡がまた萌えるよなぁ、いかにも委員長風で」[pcms]
 
 *2184|
 [fc]
-[ns]Infected Man A[nse]
-"Ah, absolutely."[pcms]
+[ns]感染者・男Ａ[nse]
+「ああ、まったくだ」[pcms]
 
 *2185|
 [fc]
-[ns]Kousuke[nse]
-"Actually... I thought so too."[pcms]
+[ns]浩助[nse]
+「実は……オレもそう思ってたんだよ」[pcms]
 
 *2186|
 [fc]
-[ns]Infected Man B[nse]
-"What's this? So tiny... But the transparency that suits[r]
-this doll-like appearance is truly irresistible."[pcms]
+[ns]感染者・男Ｂ[nse]
+「なんだよ。ちっせーな……。[r]
+　だけどいかにもこのお人形さんみたいな透明さは[r]
+　ホントにたまらないなぁ」[pcms]
 
 *2187|
 [fc]
-[ns]Infected Man A[nse]
-"The fact that her breasts aren't fully developed yet is[r]
-perfect. Such a loli body."[pcms]
+[ns]感染者・男Ａ[nse]
+「乳もふくらみ切ってないのがいいぜ。このロリな[r]
+　体つき」[pcms]
 
 *2188|
 [fc]
-[ns]Infected Man C[nse]
-"Ah... but these legs, they're irresistible..."[pcms]
+[ns]感染者・男Ｃ[nse]
+「あぁ……それにしてもこの足、たまらない……」[pcms]
 
 *2189|
 [fc]
-While saying whatever they pleased, the men and Ko-chan took[r]
-out their dicks and began rubbing them against me as they[r]
-wished.[pcms]
+好き勝手な事を言いながら、男の人たちとコーちゃんは[r]
+自分のおちんちんを取り出して、好き勝手に私に[r]
+擦り始めた。[pcms]
 
 *2190|
 [fc]
-The lukewarm and disgusting dicks. If this were my brother's[r]
-dick... such thoughts crossed my mind, but this wasn't my[r]
-brother's dick.[pcms]
+生温かく、気持ち悪いだけのおちんちん。[r]
+これがお兄ちゃんのおちんちんなら……なんて浮かんだ[r]
+けれど、これはお兄ちゃんのおちんちんじゃない。[pcms]
 
 *2191|
 [fc]
 [vo_ren s="ren0489"]
-[ns]Ren[nse]
-"No, stop... Ko-chan, help me."[pcms]
+[ns]漣[nse]
+「い、いや……コーちゃん、コーちゃん助けて」[pcms]
 
 *2192|
 [fc]
-[ns]Kousuke[nse]
-"Why would I stop when it feels this good?"[pcms]
+[ns]浩助[nse]
+「こんな気持ちいいこと、[r]
+　やめられるわけないだろう？」[pcms]
 
 *2193|
 [fc]
-[ns]Infected Man B[nse]
-"Let's drench this pure and innocent doll in our cum until[r]
-she's dripping."[pcms]
+[ns]感染者・男Ｂ[nse]
+「この純真無垢なお人形さんを俺たちの精液で[r]
+　ドロドロにしてやろうぜ」[pcms]
 
 *2194|
 [fc]
 [vo_ren s="ren0490"]
-[ns]Ren[nse]
-"Nooo ahhhh!"[pcms]
+[ns]漣[nse]
+「いやぁあああんっ！」[pcms]
 
 *2195|
 [fc]
-[ns]Infected Man A[nse]
-"She says nooo ahhh. She's really cute, this doll."[pcms]
+[ns]感染者・男Ａ[nse]
+「いやぁあんだってよ。本当にかわいいな、[r]
+　このお人形さんは」[pcms]
 
 *2196|
 [fc]
-Laughing loudly, Ko-chan and the men quickened the movement[r]
-of their dicks rubbing against my legs.[pcms]
+げらげら笑いながらコーちゃんと男の人たちは私の[r]
+足にこすり付けてくるおちんちんの動きを速くして[r]
+いった。[pcms]
 
 *2197|
 [fc]
-I don't understand. Why did this happen? Ko-chan was sane[r]
-just a moment ago, why has he suddenly gone mad?[pcms]
+わからない。なんでこんなことになったの？[r]
+さっきまでコーちゃんはまともだったのに、[r]
+なんで急におかしくなってるの？[pcms]
 
 *2198|
 [fc]
-Tears overflowed and fell. But that only pleased the men.[pcms]
+ポロポロと涙があふれ、こぼれ落ちる。[r]
+でもそれは男たちを喜ばせるだけだった。[pcms]
 
 *2199|
 [fc]
-[ns]Infected Man B[nse]
-"How cute, she's crying. I'd be happier if she moaned with a[r]
-nice voice."[pcms]
+[ns]感染者・男Ｂ[nse]
+「かわいいねぇ、泣いちゃったよ。どうせならいい[r]
+　声で鳴いてくれたほうが嬉しいなぁ」[pcms]
 
 *2200|
 [fc]
-[ns]Infected Man C[nse]
-"Ah... I can't take it anymore. I'm gonna cum!"[pcms]
+[ns]感染者・男Ｃ[nse]
+「あぁ……たまらない。も、もう俺、出るっ！」[pcms]
 
 *2201|
 [fc]
-Suddenly something splashed onto my legs. A strangely thick[r]
-and foul-smelling substance. And then one after another[r]
-followed.[pcms]
+ビチャっと何かが私の足にかかった。[r]
+妙にどろりとした、そして変な臭いのモノ。[r]
+それを皮切りに、次々にそれがかけられる。[pcms]
 
 *2202|
 [fc]
-I realized it was cum when one of the men fondling my[r]
-breasts and licking me said so while laughing.[pcms]
+それが精液だって気がついたのは、私の胸を揉みながら[r]
+嘗め回す男の人が笑いながら言ったからだった。[pcms]
 
 *2203|
 [fc]
-[ns]Infected Man A[nse]
-"Gyahahaha! The pure white doll has become even whiter with[r]
-our cum."[pcms]
+[ns]感染者・男Ａ[nse]
+「ぎゃははははっ！　真っ白なお人形さんが、俺たちの[r]
+　ザー汁でますます白くなったぜ」[pcms]
 
 *2204|
 [fc]
-[ns]Infected Man B[nse]
-"The white cum stands out on the stockings. Let's not just[r]
-cover her lower half but fill her inside with plenty of[r]
-cum."[pcms]
+[ns]感染者・男Ｂ[nse]
+「ストッキングに白の精液が映えるなぁ。このまま[r]
+　下半身だけじゃなく、中までたっぷりと精液塗れに[r]
+　してやろうぜ」[pcms]
 
 *2205|
 [fc]
-[ns]Infected Man A[nse]
-"I wonder if my thick dick will fit in such a tiny body?[r]
-Well, a woman's hole drools for a dick anyway."[pcms]
+[ns]感染者・男Ａ[nse]
+「こんなちっちゃい体に、俺の極太チンポが[r]
+　入るかなぁ？　まぁ女の穴はチンポを求めて涎を[r]
+　たらすもんだからな」[pcms]
 
 *2206|
 [fc]
-[ns]Kousuke[nse]
-"Alright, as an old friend, I'll be the one to take your[r]
-virginity."[pcms]
+[ns]浩助[nse]
+「よぉし、幼馴染のよしみだ。[r]
+　オレが処女を破ってやるよ」[pcms]
 
 *2207|
 [fc]
 [vo_ren s="ren0491"]
-[ns]Ren[nse]
-"Eh? No... Ko-chan, stop! Please!"[pcms]
+[ns]漣[nse]
+「えっ？　そんな……コーちゃん、やめてっ！[r]
+　許して」[pcms]
 
 *2208|
 [fc]
-[ns]Kousuke[nse]
-"You're reeking of cum and still saying that?"[pcms]
+[ns]浩助[nse]
+「こんなに精液の臭いプンプンにしながら、[r]
+　何言ってるんだよ」[pcms]
 
 *2209|
 [fc]
-Ko-chan's eyes were oddly fixed as he looked down at me.[r]
-This wasn't the joking Ko-chan I knew.[pcms]
+コーちゃんの目が妙に座ったまま、私を[r]
+見下ろしている。[r]
+これはいつもの冗談めかしたコーちゃんじゃない。[pcms]
 
 *2210|
 [fc]
-In naughty girl comics, it says that a man's dick shrinks[r]
-after he ejaculates.[pcms]
+エッチな少女漫画では、男の人は精液を出すと[r]
+おちんちんがしぼむって書いてあった。[pcms]
 
 *2211|
 [fc]
-Yet Ko-chan's dick, despite having just ejaculated, remained[r]
-large and was rubbing against my crotch over my underwear[r]
-and stockings.[pcms]
+それなのにコーちゃんのおちんちんはさっき出した[r]
+ばかりなのに、大きくなったままで下着とストッキング[r]
+の上から私のアソコにおちんちんを擦ってくる。[pcms]
 
 *2212|
 [fc]
 [vo_ren s="ren0492"]
-[ns]Ren[nse]
-"Stop, please Ko-chan. Anything... I'll do anything, just[r]
-not there!!"[pcms]
+[ns]漣[nse]
+「や、やめて、コーちゃん。何でも……[r]
+　何でもするから、ココだけはやめてっ！！」[pcms]
 
 *2213|
 [fc]
-[ns]Kousuke[nse]
-"Where is 'there'? Your pussy?"[pcms]
+[ns]浩助[nse]
+「ココってどこだよ？　マンコか？」[pcms]
 
 *2214|
 [fc]
 [vo_ren s="ren0493"]
-[ns]Ren[nse]
-"Ugh..."[pcms]
+[ns]漣[nse]
+「うっ……」[pcms]
 
 *2215|
 [fc]
-[ns]Kousuke[nse]
-"Come on, tell me who you want to do what to where? Say it[r]
-clearly."[pcms]
+[ns]浩助[nse]
+「ほら、誰のどこに何をどうして欲しいんだ？[r]
+　ちゃんと言ってみろ」[pcms]
 
 *2216|
 [fc]
 [vo_ren s="ren0494"]
-[ns]Ren[nse]
-"I want... I want you not to put your dick in my pussy. I'll[r]
-do anything... anything you say... okay? Ko-chan. Just not[r]
-there."[pcms]
+[ns]漣[nse]
+「わ、私のま、ま、ま…マンコに、おちんちん、[r]
+　入れないで欲しいの。何でも、何でもするから……ねぇ？[r]
+　コーちゃん。ココだけはやめて」[pcms]
 
 *2217|
 [fc]
-I was embarrassed, but to prove that my promise to do[r]
-anything wasn't just a slip of the tongue, I deliberately[r]
-said it as Ko-chan wanted me to.[pcms]
+恥ずかしかったけれど、何でも言う事を聞くと[r]
+言ったことが言葉の綾でもなんでもない事を示すために[r]
+私はあえてコーちゃんが言うように言ってみた。[pcms]
 
 *2218|
 [fc]
-Pussy... such an embarrassing word. But that embarrassment[r]
-was secondary to not wanting a dick inside me.[pcms]
+マンコ……なんて恥ずかしい。[r]
+だけどそんな恥ずかしさよりも、おちんちんを入れられ[r]
+ないほうが優先だ。[pcms]
 
 *2219|
 [fc]
-My crotch... I'm supposed to give my virginity to my[r]
-brother.[pcms]
+私のココには……[r]
+私の処女をあげるのは、お兄ちゃんなんだから。[pcms]
 
 *2220|
 [fc]
 [vo_ren s="ren0495"]
-[ns]Ren[nse]
-"Ko-chan..."[pcms]
+[ns]漣[nse]
+「コーちゃん……」[pcms]
 
 *2221|
 [fc]
-I looked up at Ko-chan's face with tears in my eyes as a[r]
-final plea.[pcms]
+私は最後の駄目押しのように、泣きながらコーちゃんの[r]
+顔を見上げた。[pcms]
 
 *2222|
 [fc]
-[ns]Kousuke[nse]
-"Re... Ren-chan..."[pcms]
+[ns]浩助[nse]
+「れ、漣ちゃん……」[pcms]
 
 *2223|
 [fc]
-[ns]Infected Man A[nse]
-"What are you saying all these sweet things for? If you[r]
-won't do it, I'll be the first to plunge in!"[pcms]
+[ns]感染者・男Ａ[nse]
+「何あまい事言ってるんだよ。お前がぶち込まないんなら、[r]
+　俺が一番乗りしてやるぜっ！」[pcms]
 
 *2224|
 [fc]
 [vo_ren s="ren0496"]
-[ns]Ren[nse]
-"Noooooo!!"[pcms]
+[ns]漣[nse]
+「いやぁああああああっ！！」[pcms]
 
 *2225|
 [fc]
-Pushing Ko-chan aside, another man climbed on top of me.[pcms]
+コーちゃんを突き飛ばして、他の人が私にのしかかってきた。[pcms]
 
 *2226|
 [fc]
-My panties were pulled down along with my stockings,[r]
-exposing my crotch for all to see.[pcms]
+ストッキングごとパンツが引き下ろされ、私のアソコが[r]
+みんなの目の前で露になる。[pcms]
 
 *2227|
 [fc]
-And then the man's slimy dick approached me...[pcms]
+そして男の人のぬらぬらしたおちんちんが、私に[r]
+近づいてきて……。[pcms]
 
 *2228|
 [fc]
-[ns]Kousuke[nse]
-"Stop it!!"[pcms]
+[ns]浩助[nse]
+「やめろっ！！」[pcms]
 
 *2229|
 [fc]
-Just as the tip of his dick was about to touch my pussy, Ko-[r]
-chan suddenly punched the man away.[pcms]
+おちんちんの先端が私のアソコに触れそうになったとき、[r]
+コーちゃんがイキナリ男の人を殴り飛ばしてくれた。[pcms]
 
 *2230|
 [fc]
-[ns]Kousuke[nse]
-"Didn't I tell you I'm the first? Listen to what I say."[pcms]
+[ns]浩助[nse]
+「オレが一番だって言ってるだろ？　オレの言う事を聞け」[pcms]
 
 *2231|
 [fc]
-[ns]Infected Man A[nse]
-"What are you saying? You spineless bastard. Got cold feet[r]
-all of a sudden, did you?"[pcms]
+[ns]感染者・男Ａ[nse]
+「何言ってやがるんだよ。この腰抜け野郎が。[r]
+　急に怖気づいたんだろ？」[pcms]
 
 *2232|
 [fc]
-[ns]Kousuke[nse]
-"Shut up!"[pcms]
+[ns]浩助[nse]
+「うるせぇっ！」[pcms]
 
 [se buf=0 storage="se012"][se buf=1 storage="se013"]
 [赤フラ]
 
 *2233|
 [fc]
-There was a cracking sound of someone being punched.[pcms]
+バキッ！　と、人を殴る音が響く。[pcms]
 
 *2234|
 [fc]
-No, this isn't just the sound of someone being punched.[pcms]
+ううん。これは人を殴る音、なんかじゃない。[pcms]
 
 *2235|
 [fc]
-As proof, the man's neck was bent at a strange angle.[pcms]
+その証拠に殴られた男の人の首は、[r]
+ヘンな風に曲がってる。[pcms]
 
 *2236|
 [fc]
-This is... the sound of someone being killed by a punch.[pcms]
+これは……人が殴り殺される音。[pcms]
 
 *2237|
 [fc]
-But why would Ko-chan's punch do that? He might be stronger[r]
-than my brother, but it's not like he practices martial[r]
-arts.[pcms]
+でもなんでコーちゃんが殴ったぐらいで？[r]
+それはコーちゃんの力はお兄ちゃんよりも強いかも[r]
+しれないけれど、別に格闘技なんかやってない。[pcms]
 
 *2238|
 [fc]
-[ns]Kousuke[nse]
-"Is there anyone else who dares to defy me?"[pcms]
+[ns]浩助[nse]
+「他にオレに逆らう奴はいるか？」[pcms]
 
 *2239|
 [fc]
-With cold eyes, Ko-chan glared sharply at the other two men.[pcms]
+冷たい目をして、コーちゃんは他の二人を[r]
+ジロリとにらみつけた。[pcms]
 
 *2240|
 [fc]
-[ns]Infected Man B[nse]
-"No, no... You can be the first, that's fine."[pcms]
+[ns]感染者・男Ｂ[nse]
+「い、いや……アンタが一番でいいよ」[pcms]
 
 *2241|
 [fc]
-[ns]Infected Man C[nse]
-"Yeah. I can enjoy myself without sticking it in a pussy...[r]
-yeah."[pcms]
+[ns]感染者・男Ｃ[nse]
+「あぁ。俺は別にマンコに突っ込まなくても[r]
+　楽しめるし……うん」[pcms]
 
 ;[ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2242|
 [fc]
-[ns]Kousuke[nse]
-"Is that so? Well then... since Ren-chan is crying and[r]
-begging, I'll spare her from having my dick shoved in her[r]
-pussy."[pcms]
+[ns]浩助[nse]
+「そうか。それじゃあ……漣ちゃんが泣いて頼んでるんだ。[r]
+　マンコにナニをぶち込むのはやめてやるよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2243|
 [fc]
 [vo_ren s="ren0497"]
-[ns]Ren[nse]
-"Ko-chan!"[pcms]
+[ns]漣[nse]
+「コーちゃんっ！」[pcms]
 
 *2244|
 [fc]
-I was about to ask if he had come to his senses.[pcms]
+正気に戻ったの？[r]
+そう言いかけた。[pcms]
 
 *2245|
 [fc]
-His eyes seemed a bit warmer when he looked at me, unlike[r]
-the cold gaze he directed at the men.[pcms]
+そう思えるほど、コーちゃんの目は男の人たちに向けた[r]
+冷たい目とは違って、少し暖かい目をしていたから。[pcms]
 
 *2246|
 [fc]
-But that thought vanished as quickly as it appeared, as if[r]
-it were just a figment of my imagination.[pcms]
+でも、それも気の迷いだったかのように、[r]
+すぐに消える。[pcms]
 
 *2247|
 [fc]
-[ns]Kousuke[nse]
-"In exchange, you'll do anything, right? Then, how about you[r]
-use your mouth to lick my dick?"[pcms]
+[ns]浩助[nse]
+「そのかわり、何でもやるんだよな？　だったら、[r]
+　オレのナニをその口で舐めてもらおうか」[pcms]
 
 *2248|
 [fc]
 [vo_ren s="ren0498"]
-[ns]Ren[nse]
-"Lick Ko-chan's dick?"[pcms]
+[ns]漣[nse]
+「コーちゃんのおちんちんを、舐めるの？」[pcms]
 
 *2249|
 [fc]
-[ns]Kousuke[nse]
-"Don't make me say it again. Are you going to do it or not?"[pcms]
+[ns]浩助[nse]
+「何度も言わせるな。やるのか？　やらないのか？」[pcms]
 
 *2250|
 [fc]
 [vo_ren s="ren0499"]
-[ns]Ren[nse]
-"I'll do it."[pcms]
+[ns]漣[nse]
+「や、やります」[pcms]
 
 *2251|
 [fc]
-With no room to defy, Ko-chan's voice was firm. I still[r]
-couldn't comprehend what was happening to me as I nodded to[r]
-Ko-chan's words, tears spilling down my face.[pcms]
+逆らいようがないコーちゃんの声。[r]
+私は自分の身に起きてる事を未だに理解できずに[r]
+涙をこぼしながらも、コーちゃんの言葉にうなずいた。[pcms]
 
 ;//〆HEV038
 [evcg storage="HEV020a"][trans_c cross time=300]
@@ -730,139 +754,143 @@ Ko-chan's words, tears spilling down my face.[pcms]
 *2252|
 [fc]
 [vo_ren s="ren0500"]
-[ns]Ren[nse]
-"Uuuuuh, nnguuuu...umm, buuuu, mmmnnn!"[pcms]
+[ns]漣[nse]
+「ううぅぅっ、んっぐぅぅぅぅ……うっむぅ、[r]
+　ぶぅぅぅっ、むぅぅんんっ！」[pcms]
 
 *2253|
 [fc]
-Suddenly, Ko-chan's dick was right in front of my nose, and[r]
-then the lukewarm dick entered my mouth.[pcms]
+いきなりコーちゃんのおちんちんが私の鼻先に[r]
+さらされたかと思うと、生ぬるいおちんちんが私の口に[r]
+入ってきた。[pcms]
 
 *2254|
 [fc]
-It felt disgusting. Even though it was Ko-chan's dick... no,[r]
-precisely because it was his, the disgust wouldn't stop.[pcms]
+気持ち悪い。いくらコーちゃんのおちんちんでも……[r]
+ううん。コーちゃんのだからこそ、気持ち悪さは[r]
+止められなかった。[pcms]
 
 *2255|
 [fc]
 [vo_ren s="ren0501"]
-[ns]Ren[nse]
-"Ugguuuh...cough! Nguuuuuh!!"[pcms]
+[ns]漣[nse]
+「うっぐぅうっ……げほっ！　んぐぅううっ！！」[pcms]
 
 *2256|
 [fc]
-[ns]Kousuke[nse]
-"Come on, use your tongue properly to lick it. The semen I[r]
-just released should still be there, making it especially[r]
-delicious, right?"[pcms]
+[ns]浩助[nse]
+「ほら、しっかり舌を使って舐めるんだよ。さっき[r]
+　出したばかりの精液が残って、格別美味いだろう？」[pcms]
 
 *2257|
 [fc]
-[ns]Infected Man B[nse]
-"This silky hair rubbing against my cock...kuuu, even the[r]
-hair feels good."[pcms]
+[ns]感染者・男Ｂ[nse]
+「このさらさらした髪がチンポを擦って……くぅう、[r]
+　髪まで気持ちいいぜ」[pcms]
 
 *2258|
 [fc]
-[ns]Infected Man C[nse]
-"Ahh, this silky sensation is irresistible..."[pcms]
+[ns]感染者・男Ｃ[nse]
+「あぁ。さらさらした感触がたまらない……」[pcms]
 
 *2259|
 [fc]
 [vo_ren s="ren0502"]
-[ns]Ren[nse]
-"Nfuuh...nguuuu, nguuuuu!"[pcms]
+[ns]漣[nse]
+「んふぅう……んっぐぅぅぅ、んぐぅぅぅ！」[pcms]
 
 *2260|
 [fc]
-The men each took turns wrapping my hair around their cocks,[r]
-forcing me to grip and rub them.[pcms]
+男の人たちは各々勝手に私の髪を自分のおちんちんに[r]
+巻きつけて、私にそれを握らせて擦らせる。[pcms]
 
 *2261|
 [fc]
-But Ko-chan's cock was thrusting into the back of my throat,[r]
-making it so hard to breathe that I felt like I was[r]
-suffocating.[pcms]
+でもコーちゃんのおちんちんが私の喉奥を突いてきて、[r]
+息が止まりそうなほどに苦しい。[pcms]
 
 *2262|
 [fc]
-[ns]Kousuke[nse]
-"You're getting better at using your tongue. But it's still[r]
-not enough. Come on, open your mouth wider and swallow it[r]
-deeper."[pcms]
+[ns]浩助[nse]
+「段々舌使いが上手くなってきたな。でもまだ[r]
+　足りないんだよ。ほら、もっと口をあけて、[r]
+　奥まで飲み込め」[pcms]
 
 *2263|
 [fc]
 [vo_ren s="ren0503"]
-[ns]Ren[nse]
-"Nn! Nfuuhuuu, njyu... ngunguuuu. Mo...nn, geho, geho...[r]
-ngu"[pcms]
+[ns]漣[nse]
+「んっ！　んふぅうう、んっぢゅ……[r]
+　んっぐんぐぅううっ。も……んっ、げほっ、げほっ……[r]
+　んっぐ」[pcms]
 
 *2264|
 [fc]
-[ns]Infected Man B[nse]
-"This hand is getting neglected. Hey, you said you'd do[r]
-anything, right? Make sure you use your hair to make me[r]
-cum."[pcms]
+[ns]感染者・男Ｂ[nse]
+「こっちの手がお留守だぜ。ほら、何でもやるんだろ？[r]
+　ちゃんと髪コキで俺をイカせろよ」[pcms]
 
 *2265|
 [fc]
-[ns]Infected Man C[nse]
-"Don't forget about me either. Since we're not putting it in[r]
-a real pussy, you'll entertain us with your whole body as if[r]
-it's a pussy."[pcms]
+[ns]感染者・男Ｃ[nse]
+「こっちも忘れるな。本物のオマンコに入れてやらないかわりに、[r]
+　お前は全身オマンコとして俺たちを楽しませるんだ」[pcms]
 
 *2266|
 [fc]
 [vo_ren s="ren0504"]
-[ns]Ren[nse]
-"Nnn! Nn...ngu, mufuuu, hamuuuu"[pcms]
+[ns]漣[nse]
+「んんっ！　んっ……んぐっ、むぅふぅうっ、[r]
+　はむぅううっ」[pcms]
 
 *2267|
 [fc]
-While crying, I wished for this bizarre situation to end[r]
-quickly.[pcms]
+泣きながらも私は、もうこのおかしな状態が早く[r]
+終わる事を願っていた。[pcms]
 
 *2268|
 [fc]
-The strange taste spread across my tongue. Despite being[r]
-wrapped in my hair, the two warm dicks I was forced to[r]
-grip...[pcms]
+舌に広がるヘンな味。[r]
+髪を巻きつけてるとは言え、握らされてる二本の[r]
+生温かいおちんちん。[pcms]
 
 *2269|
 [fc]
-I hated everything. It was unbearable how much I hated it.[r]
-But no matter if I cried or what I did, Ko-chan wouldn't[r]
-stop, and the other two were the same.[pcms]
+全部がイヤだった。イヤでイヤでたまらなかった。[r]
+でも私が泣こうと何しようと、コーちゃんはやめてく[r]
+れなかったし、他の二人も同様だった。[pcms]
 
 *2270|
 [fc]
-[ns]Kousuke[nse]
-"Damn, it's not enough. This is how you use your mouth!!"[pcms]
+[ns]浩助[nse]
+「ったく、足りねぇな。[r]
+　口はなぁ、こう使うんだよっ！！」[pcms]
 
 *2271|
 [fc]
-Impatient Ko-chan moved his hips, thrusting his dick into[r]
-the back of my throat without any restraint.[pcms]
+焦れたコーちゃんが自分の腰を動かして、[r]
+遠慮会釈なしに私の喉奥をおちんちんで突いてくる。[pcms]
 
 *2272|
 [fc]
 [vo_ren s="ren0505"]
-[ns]Ren[nse]
-"Fuuuuuh! Nnggyu...gefu, nnguuuuu!"[pcms]
+[ns]漣[nse]
+「ふぅうううっ！[r]
+　んっぎゅ……げふっ、んっぐぅううっ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2273|
 [fc]
-[ns]Kousuke[nse]
-"Ah, that's the spot, Ren-chan. Your mouth is warm and[r]
-sticky, just perfect."[pcms]
+[ns]浩助[nse]
+「あぁ、いい感じだぜ、漣ちゃん。漣ちゃんの口は[r]
+　生温かくて、ねっとりしていて、最高だ」[pcms]
 
 *2274|
 [fc]
-Despite the unbearable suffocation, Ko-chan's movements kept[r]
-accelerating. And then...[pcms]
+苦しくて、苦しくてたまらないのに、コーちゃんの[r]
+動きはどんどん加速してくる。[r]
+そして……。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV020b"]
@@ -870,143 +898,148 @@ accelerating. And then...[pcms]
 *2275|
 [fc]
 [vo_ren s="ren0506"]
-[ns]Ren[nse]
-"Ugguuu!"[pcms]
+[ns]漣[nse]
+「うっぐぅっ！」[pcms]
 
 *2276|
 [fc]
-Ko-chan's semen was violently released deep into my throat.[r]
-At the same time, the men's semen splattered on my uniform[r]
-and hair. I wasn't bothered by the semen on my uniform or[r]
-hair.[pcms]
+喉奥深くにコーちゃんの精液がぶちまけられた。[r]
+それと同時に私の制服や髪に、男たちの精液が飛ぶ。[r]
+制服や髪に飛んだ精液は気にならなかった。[pcms]
 
 *2277|
 [fc]
-But the thick, strange taste spreading in my mouth made me[r]
-involuntarily spit it out.[pcms]
+それよりも口に広がる濃厚なヘンな味に、私は思わず[r]
+吐き出した。[pcms]
 
 *2278|
 [fc]
-[ns]Infected Student A[nse]
-"Ah, what a waste. Make sure you swallow every drop of mine[r]
-without spilling."[pcms]
+[ns]感染者・学生Ａ[nse]
+「あぁ、もったいない。俺のは一滴もこぼさずに[r]
+　飲み込めよ」[pcms]
 
 *2279|
 [fc]
-[ns]Infected Man E[nse]
-"It's psycho that such a petite girl is serving us."[pcms]
+[ns]感染者・男Ｅ[nse]
+「こんなミニマム系の子が奉仕してくれるなんて、[r]
+　サイコーだな」[pcms]
 
 ;[ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2280|
 [fc]
-[ns]Kousuke[nse]
-"Tch, don't you guys stick it in her pussy."[pcms]
+[ns]浩助[nse]
+「ったく、お前らマンコには突っ込むなよ」[pcms]
 
 *2281|
 [fc]
-[ns]Infected Student B[nse]
-"Uhaa~, I used to fantasize that Ayase-tan was like a real[r]
-figure, man. Ahh, this is like a dream."[pcms]
+[ns]感染者・学生Ｂ[nse]
+「うはぁ～、綾瀬タンはリアルフィギュアって[r]
+　萌えてたんだよなぁ、僕。あぁ、夢みたいだぁ」[pcms]
 
 [evcg storage="HEV020d"][trans_c cross time=300]
 
 *2282|
 [fc]
-It's painful...![pcms]
+苦しい……！[pcms]
 
 *2283|
 [fc]
-Even though K-chan is spitting out semen, a man who appeared[r]
-out of nowhere and one of our school students immediately[r]
-took turns violating my mouth and hair.[pcms]
+コーちゃんが精液を吐き出してる最中だというのに、[r]
+いつの間にか現れた男の人と、うちの学園生が[r]
+すぐさま入れ替わりで私の口と髪を犯す。[pcms]
 
 [evcg storage="HEV020d"][trans_c cross time=300]
 
 *2284|
 [fc]
 [vo_ren s="ren0507"]
-[ns]Ren[nse]
-"Wha-! Haguuhhh!! Nngguuhhh, nngunguuhh..."[pcms]
+[ns]漣[nse]
+「なっ！[r]
+　はぐぅううっ！！[r]
+　んっぐぅううっ、んぐんぐぅう……」[pcms]
 
 *2285|
 [fc]
-It's painful. It's so painful that I'm gradually losing[r]
-track of my situation.[pcms]
+苦しい。[r]
+苦しくて私は段々自分の状況が[r]
+わからなくなってくる。[pcms]
 
 *2286|
 [fc]
-Whose dick is this? Whose dick am I being forced to hold?[r]
-Whose dick am I being forced to suck?[pcms]
+このおちんちんはいったい誰の？[r]
+誰のおちんちんを私は握らされてるの？[r]
+誰のおちんちんを私はしゃぶらされてるの？[pcms]
 
 *2287|
 [fc]
-And how many has it been?[pcms]
+そしてこれは何本目？[pcms]
 
 *2288|
 [fc]
-The thick, strange smell... Only the smell of semen and[r]
-suffocation dominates me.[pcms]
+濃厚なヘンな臭い……精液の臭いと息苦しさだけが[r]
+私を支配してる。[pcms]
 
 *2289|
 [fc]
-[ns]Infected Man E[nse]
-"Kuuu, I'm about to cum!"[pcms]
+[ns]感染者・男Ｅ[nse]
+「くぅう、イキそうだっ！」[pcms]
 
 *2290|
 [fc]
-The dick in my mouth trembles with a twitch, telling me that[r]
-ejaculation is near. The strange smell, the strange taste.[pcms]
+私の口の中でおちんちんがビクビクと震えて、[r]
+もうすぐ射精が近い事を私に教えてくれた。[r]
+ヘンな臭い、ヘンな味。[pcms]
 
 *2291|
 [fc]
-[ns]Infected Man E[nse]
-"Kuuuh!!"[pcms]
+[ns]感染者・男Ｅ[nse]
+「くぅうっ！！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV020e"]
 
 *2292|
 [fc]
-The movement of the dick in my mouth accelerates... and as[r]
-it shoots out of my mouth with too much force, semen[r]
-splatters all over my glasses.[pcms]
+口の中のおちんちんの動きが加速していって……[r]
+勢い余って私の口から飛び出したところで、[r]
+眼鏡に思いっきり精液がかかった。[pcms]
 
 [evcg storage="HEV020c"][trans_c cross time=300]
 
 *2293|
 [fc]
-[ns]Infected Man E[nse]
-"Damn, I was thinking of letting you drink my delicious[r]
-semen."[pcms]
+[ns]感染者・男Ｅ[nse]
+「せっかく俺のうまいザーメンを飲ませてやろうと[r]
+　思ったのによぉ」[pcms]
 
 *2294|
 [fc]
-As if it could be delicious. There's no way I could find[r]
-this tasty... but still.[pcms]
+美味しいわけないじゃない。[r]
+こんなの、おいしく感じるわけがない……でも。[pcms]
 
 *2295|
 [fc]
-[ns]Infected Student A[nse]
-"Ahh... I'm cumming!"[pcms]
+[ns]感染者・学生Ａ[nse]
+「あぁ……イクぅう！」[pcms]
 
 *2296|
 [fc]
-[ns]Infected Student B[nse]
-"With Ayase-tan's... with Ayase-tan's hair, I'm gonna cum."[pcms]
+[ns]感染者・学生Ｂ[nse]
+「綾瀬タンの……綾瀬タンの髪で、僕イッちゃうよぉ」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV020e"]
 
 *2297|
 [fc]
-One after another, the school students splattered their[r]
-semen on my hair and uniform.[pcms]
+続けざまに学園生たちが、私の髪と制服に[r]
+精液をぶっかけた。[pcms]
 
 *2298|
 [fc]
-It smells... Even though all I can think about is the smell,[r]
-my head starts to spin.[pcms]
+臭い……臭いとしか思わないのに、頭が[r]
+クラクラしてくる。[pcms]
 
 [evcg storage="HEV020d"][trans_c cross time=300]
 
@@ -1014,189 +1047,197 @@ my head starts to spin.[pcms]
 
 *2299|
 [fc]
-[ns]Kousuke[nse]
-"Ren-chan, once you're done with that, maybe you can give me[r]
-a footjob next."[pcms]
+[ns]浩助[nse]
+「漣ちゃん、それが終わったら今度は[r]
+　足コキでもしてもらおうか」[pcms]
 
 *2300|
 [fc]
 [vo_ren s="ren0508"]
-[ns]Ren[nse]
-"Foot... job?"[pcms]
+[ns]漣[nse]
+「足……コキ？」[pcms]
 
 *2301|
 [fc]
-[ns]Kousuke[nse]
-"You rub up against my thing with your feet as if stepping[r]
-on it."[pcms]
+[ns]浩助[nse]
+「漣ちゃんの足でオレのナニを踏むようにして[r]
+　擦りあげるんだよ」[pcms]
 
 *2302|
 [fc]
-I don't understand what K-chan is saying... But rubbing up[r]
-against his thing with my feet... stepping on his dick?[pcms]
+コーちゃんが何を言ってるのかわからない……[r]
+でも、コーちゃんのナニを踏むように擦りあげるって[r]
+……おちんちんを踏む、の？[pcms]
 
 [evcg storage="HEV062a"][trans_c cross time=300]
 
 *2303|
 [fc]
-Without really understanding, I stepped on K-chan's dick[r]
-with my foot. The warm, strange sensation was unchanged.[pcms]
+よくわからないまま、私はコーちゃんのおちんちんを[r]
+足で踏んづけた。[r]
+やっぱり生温かいヘンな感触は変わらない。[pcms]
 
 *2304|
 [fc]
-But--.[pcms]
+でも――。[pcms]
 
 *2305|
 [fc]
-[ns]Kousuke[nse]
-"Rub it faster for me."[pcms]
+[ns]浩助[nse]
+「もっと早く擦ってくれよ」[pcms]
 
 [evcg storage="HEV062b"][trans_c cross time=300]
 
 *2306|
 [fc]
 [vo_ren s="ren0509"]
-[ns]Ren[nse]
-"Faster...? Like this?"[pcms]
+[ns]漣[nse]
+「早く……？　こう？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2307|
 [fc]
-[ns]Kousuke[nse]
-"Ah, that's good..."[pcms]
+[ns]浩助[nse]
+「あぁ、いい……｣[pcms]
 
 [evcg storage="HEV062d"][trans_c cross time=300]
 
 *2308|
 [fc]
 [vo_ren s="ren0510"]
-[ns]Ren[nse]
-"Hee... K-chan, you like this kind of thing?"[pcms]
+[ns]漣[nse]
+「へぇ……コーちゃん、こんなのがいいんだぁ」[pcms]
 
 *2309|
 [fc]
-Gazing down at K-chan moaning under my feet, I started to[r]
-have fun.[pcms]
+私の足の下でうめくコーちゃんを見下ろしながら、[r]
+私はなんだか楽しくなってきた。[pcms]
 
 *2310|
 [fc]
-When I put my weight on it, he shows an expression of agony,[r]
-and when I rub it up, he looks pleased.[pcms]
+私が体重をかけると苦悶の表情を浮かべ、[r]
+擦りあげると気持ちよさそうな顔をする。[pcms]
 
 *2311|
 [fc]
 [vo_ren s="ren0511"]
-[ns]Ren[nse]
-"K-chan, you said earlier that you liked feet, are you a[r]
-foot fetish pervert?"[pcms]
+[ns]漣[nse]
+「コーちゃんってさっきも足がいいって言ってたけど、[r]
+　足フェチの変態さん？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="kou_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2312|
 [fc]
-[ns]Kousuke[nse]
-"Ah, it's not like I'm saying I have a foot fetish..."[pcms]
+[ns]浩助[nse]
+「あ、足フェチって言うわけじゃ……」[pcms]
 
 *2313|
 [fc]
 [vo_ren s="ren0512"]
-[ns]Ren[nse]
-"But you're getting turned on by me doing this to you~. What[r]
-do you call that? Aren't you a pervert? Right, K-chan?"[pcms]
+[ns]漣[nse]
+「でも私にこんな事されて、気持ちよくなっちゃって[r]
+　るんだよねぇ～。これってなんて言うの？[r]
+　変態さんじゃないの？　ねぇ、コーちゃん」[pcms]
 
 *2314|
 [fc]
-Laughing, I intentionally stepped hard on K-chan's dick or[r]
-rubbed it up, and sometimes I didn't move at all to vary it.[pcms]
+あははと笑いながら、私はわざとコーちゃんの[r]
+おちんちんを強く踏みつけたり、擦りあげたり、[r]
+逆に動かさなかったり変化をつけてみた。[pcms]
 
 *2315|
 [fc]
-Each time K-chan groans, delights, and begs me to move. It[r]
-felt good.[pcms]
+その度にコーちゃんは呻き、悦び、そして私に[r]
+動いてくれと願う。[r]
+それが心地よかった。[pcms]
 
 *2316|
 [fc]
 [vo_ren s="ren0513"]
-[ns]Ren[nse]
-"You're embarrassing yourself, K-chan. Getting excited by[r]
-having your dick played with by my feet. You couldn't show[r]
-this side to your brother, Yuuho-chan, or Mizuki-chan."[pcms]
+[ns]漣[nse]
+「恥ずかしいねぇ、コーちゃん。私に足でおちんちん[r]
+　弄られて悦んでるなんて。お兄ちゃんにも悠帆ちゃんにも、[r]
+　瑞樹ちゃんにも見せられない姿だよ」[pcms]
 
 *2317|
 [fc]
-[ns]Kousuke[nse]
-"Auuu..."[pcms]
+[ns]浩助[nse]
+「あぅうう……」[pcms]
 
 *2318|
 [fc]
 [vo_ren s="ren0514"]
-[ns]Ren[nse]
-"No way! K-chan, your dick is getting even bigger. Did[r]
-imagining everyone seeing it make it grow?"[pcms]
+[ns]漣[nse]
+「やだっ！　コーちゃんったら、もっとおちんちん[r]
+　おっきくなってるぅ。みんなに見られる所を想像したら[r]
+　おっきくなっちゃったの？」[pcms]
 
 *2319|
 [fc]
-Giggling, I looked down at K-chan lying helplessly beneath[r]
-me.[pcms]
+ふふふ……と笑いながら、私は私の下に無様に[r]
+横たわるコーちゃんを見下ろした。[pcms]
 
 *2320|
 [fc]
 [vo_ren s="ren0515"]
-[ns]Ren[nse]
-"P-E-R-V-E-R-T. Now be grateful and cum with my feet."[pcms]
+[ns]漣[nse]
+「ヘ・ン・タ・イ。ほら、私の足でありがたく[r]
+　イッちゃって」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV062e"]
 
 *2321|
 [fc]
-The moment I rubbed the tip where pee comes out strongly[r]
-between my toes, white semen gushed out from K-chan's dick.[pcms]
+先端のおしっこが出てくる所を指の間で強く擦りあげて[r]
+あげた途端、コーちゃんのおちんちんから白い[r]
+精液がドクドクとあふれ出した。[pcms]
 
 *2322|
 [fc]
 [vo_ren s="ren0516"]
-[ns]Ren[nse]
-"Ahh~. Dirtying my feet like that, what a terrible childhood[r]
-friend. Ahahaha!"[pcms]
+[ns]漣[nse]
+「あぁ～。私の足を汚すなんて、サイテーな幼馴染ね。[r]
+　あははははっ！」[pcms]
 
 *2323|
 [fc]
-I laughed heartily while casting my gaze at the men around[r]
-me who were staring at me entranced.[pcms]
+私は高笑いをしながら、周りのうっとりと私を見ている[r]
+男たちに視線を投げかけた。[pcms]
 
 [evcg storage="HEV062f"][trans_c cross time=300]
 
 *2324|
 [fc]
 [vo_ren s="ren0517"]
-[ns]Ren[nse]
-"What? Do you all want me to milk your sperm thoroughly[r]
-too?"[pcms]
+[ns]漣[nse]
+「なに？　あなたたちも私にスペルマをたっぷり[r]
+　搾り取ってもらいたいの？」[pcms]
 
 *2325|
 [fc]
-[ns]Infected Student B[nse]
-"The cold-hearted Ayase-tan is also nice~"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「れ、冷酷な綾瀬タンもいいねぇ～」[pcms]
 
 *2326|
 [fc]
 [vo_ren s="ren0518"]
-[ns]Ren[nse]
-"Nice~? Are you stupid? Come on, if you want me to milk your[r]
-semen, line up. I'll milk you dry until there's nothing[r]
-left."[pcms]
+[ns]漣[nse]
+「いいねえ～？　ばっかじゃないの？　ほら、私に精液を[r]
+　搾り取ってもらいたいのなら、並びなさいよ。[r]
+　絞りかすも出ないほど搾り尽くしてあげるから」[pcms]
 
 *2327|
 [fc]
-[ns]Infected Man B[nse]
-"Yes!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「はっ、はいっ！」[pcms]
 
 *2328|
 [fc]
-Proudly looking at the men who lined up eagerly at my words,[r]
-I surveyed the faces of the men lined up in a row.[pcms]
+私の言葉に嬉々として並ぶ男たちに誇らしく思いながら、[r]
+私はずらりと並んだ男たちの顔を見回した。[pcms]
 
 ;//〆HEV038
 
@@ -1204,34 +1245,33 @@ I surveyed the faces of the men lined up in a row.[pcms]
 
 *2329|
 [fc]
-While finding the boys who raised voices of joy cute, I was[r]
-thinking about something else.[pcms]
+歓喜の声をあげる男子をかわいく思いながらも、[r]
+私は別な事を考えていた。[pcms]
 
 *2330|
 [fc]
-"My brother also has the same baby-faced, cute features. I[r]
-wonder if his face would show the same pained expression as[r]
-I saw just now?"[pcms]
+お兄ちゃんもこの子と同じ童顔で可愛い顔立ちをしてる。[r]
+あの顔が今みたいに切ない表情をするんだろうか？[pcms]
 
 *2331|
 [fc]
-"Or will it turn into a face like the one K-chan showed me[r]
-under my feet earlier?"[pcms]
+それともさっきコーちゃんが私の足の下で見せてくれた[r]
+ような顔になる？[pcms]
 
 *2332|
 [fc]
-I don't know. I don't know, but... I found myself wanting to[r]
-see it.[pcms]
+わからない。[r]
+わからないけど……見たいと思った。[pcms]
 
 *2333|
 [fc]
-I'm sure my brother's sperm will taste much more delicious[r]
-than these perverted men... It must be the best flavor.[pcms]
+きっとお兄ちゃんのスペルマの味は、こんな変態男たち[r]
+よりももっと美味しい……最高の味に違いない。[pcms]
 
 *2334|
 [fc]
-Feeling a smirk twisting at the corners of my mouth, I[r]
-licked up the last drop of sperm on my lips.[pcms]
+ニヤリと口元が笑みで歪むのを感じながら、[r]
+私は唇にのったスペルマの最後の一滴を舐め上げた。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -1244,5 +1284,5 @@ licked up the last drop of sperm on my lips.[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

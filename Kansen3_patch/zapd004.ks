@@ -20,75 +20,76 @@
 
 *3325|
 [fc]
-[ns]Jin[nse]
-"What's wrong, Mizuki! You're here, aren't you?"[pcms]
+[ns]壬[nse]
+「どうした瑞樹！　ここにいるんだろ？」[pcms]
 
 *3326|
 [fc]
 [vo_miz s="mizuki0108"]
-[ns]Mizuki[nse]
-"Ji..."[pcms]
+[ns]瑞樹[nse]
+「ジ……」[pcms]
 ;//＠ジン、と言いかけて止める
 
 *3327|
 [fc]
-By the way, I left the medicine out...[pcms]
+そう言えばあたし、クスリ出しっぱなし……。[pcms]
 
 *3328|
 [fc]
-As I stopped my hand reaching for the door and looked back,[r]
-I saw the glasses case with the medicine peeking out from my[r]
-bag, which was left open.[pcms]
+扉に伸ばした手を止め、後ろを振り返ると、口が開いたままの[r]
+バッグの中から、クスリを入れたメガネケースが[r]
+顔を覗かせていた。[pcms]
 
 *3328a|
 [fc]
-"If Jin sees that...[pcms]
+“アレ”をジンに見られたら……。[pcms]
 
 *3329|
 [fc]
-"Only do it in front of me. And keep it to just 'playing[r]
-around.' Got it? Never get addicted to this stuff."[pcms]
+『俺が見てる前でだけにしろ。それに、“遊び”程度にしておけ。[r]
+　いいな、絶対にこんなモンに溺れたりするんじゃないぞ』[pcms]
 
 *3330|
 [fc]
-Jin's words came to mind.[pcms]
+ジンの台詞が脳に浮かび上がる。[pcms]
 
 *3331|
 [fc]
-If Jin finds out about the amount of medicine I have, he'll[r]
-take it all away.[pcms]
+この量のクスリを持っている事が、ジンにバレたら、[r]
+全て取り上げられてしまう。[pcms]
 
 *3332|
 [fc]
 [vo_miz s="mizuki0109"]
-[ns]Mizuki[nse]
-"Wait, wait! I need to fix my clothes!"[pcms]
+[ns]瑞樹[nse]
+「ま、待って！　服直すから！」[pcms]
 
 *3333|
 [fc]
-A childish lie that came to me in a flash. I didn't think it[r]
-would stop Jin, but even a little time to hide the bag would[r]
-be good enough.[pcms]
+咄嗟に思いついた、稚拙な嘘。[r]
+こんな事でジンの足を止める事ができるとは思わなかったけど、[r]
+ほんの少しだけ。バッグを隠す時間があれば、それで良い。[pcms]
 
 *3334|
 [fc]
-[ns]Jin[nse]
-"Don't dawdle. Hurry up."[pcms]
+[ns]壬[nse]
+「ぐずぐずするな。急げ」[pcms]
 
 *3335|
 [fc]
-I wonder if I managed to fool him... I need to hurry...[pcms]
+何とかごまかせたかな……。[r]
+……急ごう。[pcms]
 
 *3336|
 [fc]
-There are three bags of medicine left. I hide two under the[r]
-body soap in the corner of the shower room.[pcms]
+クスリの残りは、あと３袋。[r]
+二つは、シャワールームの隅にあったボディーソープの下に隠す。[pcms]
 
 *3337|
 [fc]
-The last one... it's okay if it's found. I put one shiny[r]
-silver bag into the case and headed towards the door where[r]
-Jin was waiting.[pcms]
+残りは……見つかってもいい。[r]
+銀色に輝く袋を一つ、ケースに入れて、[r]
+ジンの待つ扉の奥へと足を向けた。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

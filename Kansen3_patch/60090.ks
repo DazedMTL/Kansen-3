@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：16k前後
@@ -29,45 +29,49 @@
 *337|
 [fc]
 [vo_yuh s="yuho_YK0055"]
-[ns]Yuuho[nse]
-"...Come on... Wataru, you too... want to feel good, right?"[pcms]
+[ns]悠帆[nse]
+「……さぁ…………、[r]
+　わたる、も……ぉ、気持ち、よく……なろぉ？」[pcms]
 
 *338|
 [fc]
-[ns]Wataru[nse]
-"Wait! No, that's not right... Yuuho! Please, I'm begging[r]
-you! Come back to your senses...!!"[pcms]
+[ns]航[nse]
+「まって！　だ、駄目だよ……悠帆っ！[r]
+　お、お願いだから！[r]
+　しょ、正気に戻ってくれ……！！」[pcms]
 
 *339|
 [fc]
-[ns]Wataru[nse]
-"No, stop it...!"[pcms]
+[ns]航[nse]
+「や、止めてくれよぉぉっ……！」[pcms]
 
 *340|
 [fc]
-However, contrary to his words of denial, the thing between[r]
-his legs had already grown large.[pcms]
+しかし、否定の言葉とは裏腹に、[r]
+股間のものは既に大きくなってしまっていた。[pcms]
 
 *341|
 [fc]
-Grasping the proudly standing erection, Yuuho smiles[r]
-wickedly.[pcms]
+隆々と反り立ったそれを握り、[r]
+悠帆は怪しく微笑みかける。[pcms]
 
 *342|
 [fc]
 [vo_yuh s="yuho_YK0056"]
-[ns]Yuuho[nse]
-"No... you can't just hold back... mmmnnnggg!"[pcms]
+[ns]悠帆[nse]
+「ダメ……だよぉ、遠慮……ばっかりぃぃ……、[r]
+　はむむんんんぐっ！」[pcms]
 
 *343|
 [fc]
-Without a moment to stop her, she takes it into her mouth[r]
-with gusto.[pcms]
+制止する間もなく、[r]
+掴んだそれを思い切り頬張る。[pcms]
 
 *344|
 [fc]
-[ns]Wataru[nse]
-"Stop...! Ugh...!? Aguuu...!!"[pcms]
+[ns]航[nse]
+「やめっ……！　うぅ……！？[r]
+　あぐうぅっ……！！」[pcms]
 
 ;//Ｂ：ペニスを銜える悠帆
 [evcg storage="HEV059f"][trans_c cross time=300]
@@ -75,34 +79,37 @@ with gusto.[pcms]
 *345|
 [fc]
 [vo_yuh s="yuho_YK0057"]
-[ns]Yuuho[nse]
-"...Feel it a lot, okay? Mmm, mmmuuu, slurp...[r]
-mmm...lick...hmm, gulp...mmm..."[pcms]
+[ns]悠帆[nse]
+「……いっぱいぃ、感じて、ねぇ？[r]
+　んっ、んぶぅぅぅ、じゅるる……っ、んんっ……ぅ、[r]
+　れろっ……、はぁむ、んっ……」[pcms]
 
 *346|
 [fc]
-An incredibly intense pleasure is transmitted.[pcms]
+恐ろしい程の快感が伝わってくる。[pcms]
 
 *347|
 [fc]
-The inside of his childhood friend's mouth is being violated[r]
-by his own penis...[pcms]
+幼馴染の咥内を、[r]
+自分のペニスが犯していく……。[pcms]
 
 *348|
 [fc]
-He feels himself quickly reaching the peak from a pleasure[r]
-he's experiencing for the first time in his life.[pcms]
+生まれて始めて体験する快感に、[r]
+あっという間に頂点へと登りつめるのを感じる。[pcms]
 
 *349|
 [fc]
-[ns]Wataru[nse]
-"Uuuuh...! No, it's no good! Yu... Yuuho...!"[pcms]
+[ns]航[nse]
+「うううぅっ……！[r]
+　だ、駄目だっ！[r]
+　ゆ…悠帆ぉっ……！」[pcms]
 
 *350|
 [fc]
-[ns]Wataru[nse]
-"I can't... I can't hold it anymore! It's going to come[r]
-out...!?"[pcms]
+[ns]航[nse]
+「も、もう…もうっ！[r]
+　出ちゃうよぅぅっ……！？」[pcms]
 
 ;//Ｃ：口の中に射精される悠帆（Ｂの液差分）
 ;//白フラ
@@ -112,113 +119,117 @@ out...!?"[pcms]
 
 *351|
 [fc]
-Throb! Spurt! Throb...throb![pcms]
+ドクッ！　ドブウッ！　ドク……ドクンッ！！[pcms]
 
 
 *352|
 [fc]
 [vo_yuh s="yuho_YK0058"]
-[ns]Yuuho[nse]
-"Mmmuuu!?... Mmm, mmguuu!!"[pcms]
+[ns]悠帆[nse]
+「んぶぅぅぅっ！？……ん、んぐぐぅぅぅ！！」[pcms]
 
 *353|
 [fc]
-The semen spurting from his dick is too much for his[r]
-childhood friend's mouth to contain, threatening to[r]
-overflow.[pcms]
+肉棒から噴出した精液が、[r]
+幼馴染の口内では収まり切らず、あふれ出そうになる。[pcms]
 
 *354|
 [fc]
 [vo_yuh s="yuho_YK0059"]
-[ns]Yuuho[nse]
-"...Geho, geh... cough cough, gofuuh!! ...Wa... Wataru?"[pcms]
+[ns]悠帆[nse]
+「……げほぅっ、げっ……、けふけふ、ごふぅっ！！[r]
+　…………わ……わたるぅぅぅ？」[pcms]
 
 *355|
 [fc]
-The sight of Yuuho choking is so lewd that everything seems[r]
-far removed from normality...[pcms]
+むせかえる悠帆の、その様子さえも淫靡で[r]
+何もかも日常とはかけ離れていて……。[pcms]
 
 *356|
 [fc]
-I just stood there, entranced by it.[pcms]
+ボクはただ、それに見入っていた。[pcms]
 
 *357|
 [fc]
 [vo_yuh s="yuho_YK0060"]
-[ns]Yuuho[nse]
-"Amazing, right? ...Were you surprised? That so much came[r]
-out... because it felt good? Did a lot come out?"[pcms]
+[ns]悠帆[nse]
+「すごい、ねえぇ？[r]
+　……ビックリ、したよぉ？　あんなに、いっぱいぃぃ……、[r]
+　気持ち、いいから……？　いっぱい、出た、の……？」[pcms]
 
 *358|
 [fc]
 [vo_yuh s="yuho_YK0061"]
-[ns]Yuuho[nse]
-"...Did you want to do it that badly...?"[pcms]
+[ns]悠帆[nse]
+「……そんなに、したかった、……の？」[pcms]
 
 ;//Ｄ：口内の精液を見せつける悠帆
 [evcg storage="HEV059h"][trans_c cross time=300]
 
 *359|
 [fc]
-When she opens her mouth, it's filled with the cloudy fluid[r]
-he released.[pcms]
+口を開くと、そこに自分の放った白濁液が[r]
+たっぷりと溜まっていた。[pcms]
 
 *360|
 [fc]
-It clings to her tongue, and with every word she speaks, it[r]
-makes a squelching, obscene sound.[pcms]
+舌に絡みつき、悠帆が喋る度に[r]
+くちゃくちゃと淫猥な音をたてる。[pcms]
 
 *361|
 [fc]
 [vo_yuh s="yuho_YK0062"]
-[ns]Yuuho[nse]
-"Look at this... so much... thick and sticky. ...Inside my[r]
-mouth... it's all gooey, isn't it?"[pcms]
+[ns]悠帆[nse]
+「ほぉらぁぁ……、こんな……、いっぱあぃぃ……、[r]
+　ドロドロ、だねぇ……？　濃くって、ねばねば、する……ぅ。[r]
+　……おくちの、なか……、ぐちゅぐちゅ……だよぉ？」[pcms]
 
 *362|
 [fc]
-[ns]Wataru[nse]
-"Yu... Yuuho... That's...?"[pcms]
+[ns]航[nse]
+「ゆ、う……ほ……[r]
+　そ……っ、そんな……？」[pcms]
 
 *363|
 [fc]
-Yuuho shows an ecstatic expression as she feels the thick[r]
-and copious amount of semen she has released.[pcms]
+自分の放った、濃厚で、おびただしい量の精液を[r]
+感じながら恍惚とした表情を見せる悠帆。[pcms]
 
 *364|
 [fc]
-The whole situation makes my head spin.[pcms]
+あまりの事に、頭がクラクラとしてくる。[pcms]
 
 *365|
 [fc]
 [vo_yuh s="yuho_YK0063"]
-[ns]Yuuho[nse]
-"Like this, see...? I'll stir it with my tongue for you...[r]
-frothing up your semen... nchuu. ...Look, the smell fills my[r]
-mouth..."[pcms]
+[ns]悠帆[nse]
+「こうやって、ね……？　舌で、かきまぜて、あげるぅぅ……、[r]
+　わたるの、せーしぃぃ……、泡立てて……、んくちゅっ……。[r]
+　……ほらぁ……っ、匂い、口の中、いっぱあぁぁぃぃ……」[pcms]
 
 ;//Ｅ：飲み干す悠帆
 
 *366|
 [fc]
 [vo_yuh s="yuho_YK0064"]
-[ns]Yuuho[nse]
-"It's delicious... fresh-squeezed... I'm going to drink it[r]
-all up? Gulp, gulp..."[pcms]
+[ns]悠帆[nse]
+「美味しいの……ぉ、新鮮な、絞りたてぇ……、[r]
+　飲んじゃうねぇぇ……？　んっ、く……こく、こくん……」[pcms]
 
 *367|
 [fc]
-She locks eyes with me, drawing my gaze before lifting her[r]
-face to focus on her throat.[pcms]
+こちらを見詰め、視線を引き付けてから[r]
+顔を上げて喉に注目させる。[pcms]
 
 *368|
 [fc]
-Then she swallows what I've released with apparent relish.[pcms]
+それから実に美味しそうに、喉を鳴らし、[r]
+自分の放ったものを飲み込んでいく。[pcms]
 
 *369|
 [fc]
-Gulp, gulp... she slowly lets it slide down her throat as if[r]
-she can't bear to part with it.[pcms]
+ごくり、ごくり……と、ゆっくり喉に落としていく。[r]
+それが惜しくてたまらない、とでも言うかのように。[pcms]
 
 ;//Ｆ：飲み終わったことを見せる悠帆（Ｄの液無し）
 [evcg storage="HEV059e"][trans_c cross time=300]
@@ -226,86 +237,89 @@ she can't bear to part with it.[pcms]
 *370|
 [fc]
 [vo_yuh s="yuho_YK0065"]
-[ns]Yuuho[nse]
-"...Npuahhh... I drank it all...? Wataru's is really[r]
-delicious, isn't it?"[pcms]
+[ns]悠帆[nse]
+「……んぷあぁぁ……ぁ、ぜぇんぶ、飲んだよぉ……？[r]
+　わたるの……、ホントに、美味しいねぇぇ？」[pcms]
 
 *371|
 [fc]
-With a smile on her face, Yuuho opens her mouth wide to show[r]
-off proudly.[pcms]
+笑顔で口を大きく開け、誇らしげに見せる悠帆。[pcms]
 
 *372|
 [fc]
-The semen that had dominated her mouth just moments ago was[r]
-gone.[pcms]
+さっきまで、あんなに口内を支配していた[r]
+精液はなくなっていた。[pcms]
 
 *373|
 [fc]
-Is this really happening? It makes me want to doubt reality.[pcms]
+これは本当に現実なのか？　そう疑いたくなる。[pcms]
 
 *374|
 [fc]
 [vo_yuh s="yuho_YK0066"]
-[ns]Yuuho[nse]
-"Ufufufu... protein? Does it also contain collagen? It's[r]
-full of nutrients... and since it's Wataru's, it tastes even[r]
-better!"[pcms]
+[ns]悠帆[nse]
+「うふふふぅ……っ、たんぱく……質……？[r]
+　コラーゲン、も、入って、る？　栄養、いっぱあぁい……、[r]
+　それに、わたるの、だから……、もっと美味しいぃ……！」[pcms]
 
 *375|
 [fc]
-[ns]Wataru[nse]
-"Ah... Yuuho, why are you so..."[pcms]
+[ns]航[nse]
+「あぁ……悠帆、どうしてそんなに……」[pcms]
 
 *376|
 [fc]
-Happy about this?[pcms]
+嬉しそうなんだ。[pcms]
 
 *377|
 [fc]
 [vo_yuh s="yuho_YK0067"]
-[ns]Yuuho[nse]
-"Next time... it will be somewhere else...?"[pcms]
+[ns]悠帆[nse]
+「今度……は、別のトコ……だよぉ……？」[pcms]
 
 *378|
 [fc]
 [vo_yuh s="yuho_YK0068"]
-[ns]Yuuho[nse]
-"I'll make you feel good... lots and lots..."[pcms]
+[ns]悠帆[nse]
+「いっぱいぃ……、[r]
+　いっぱい、気持ち、よく……、して、あげる……」[pcms]
 
 *379|
 [fc]
-[ns]Wataru[nse]
-"No, that's not right!? I can't take any more of this!"[pcms]
+[ns]航[nse]
+「だ、駄目だよっ！？[r]
+　も、もう……！　これ以上はっ……！」[pcms]
 
 *380|
 [fc]
-[ns]Wataru[nse]
-"This is bad!! We shouldn't be doing this, Yuuho!"[pcms]
+[ns]航[nse]
+「い、いけない！！[r]
+　まずいって、悠帆っ…！」[pcms]
 
 *381|
 [fc]
-Desperately trying to stop his childhood friend who has lost[r]
-her senses, but his body won't listen to him.[pcms]
+必死で、正気を失った幼馴染を止めようとするが、[r]
+身体が言う事を聞かない。[pcms]
 
 *382|
 [fc]
-His head feels hot and fuzzy as if he has a fever, and his[r]
-throat is parched as if he's caught a cold.[pcms]
+頭はぼーっとして熱く、喉はカラカラだ。[r]
+まるで、風邪を引いたような……。[pcms]
 
 *383|
 [fc]
-[ns]Wataru[nse]
-"...This can't be happening. Could this be because of..."[pcms]
+[ns]航[nse]
+「……そ、そんな……。[r]
+　ま、まさか……これは……っ」[pcms]
 
 *384|
 [fc]
-A virus?[pcms]
+ウィルスのせいか？[pcms]
 
 *385|
 [fc]
-As his consciousness becomes less clear, he feels his penis[r]
-throb with heat.[pcms]
+どんどん意識がはっきりしなくなってくる代わりに、[r]
+ペニスが熱く疼くのを感じる。[pcms]
 
 ;//Ｉ：かりの脇などを、舌で責める悠帆
 
@@ -314,104 +328,108 @@ throb with heat.[pcms]
 *386|
 [fc]
 [vo_yuh s="yuho_YK0069"]
-[ns]Yuuho[nse]
-"It's okay... nchuuum! Wataru can do even more, right?[r]
-Chuchu..."[pcms]
+[ns]悠帆[nse]
+「だいじょう、ぶ……ぅぅ……んちゅぅぅぅぅぅ……っ！[r]
+　わたるなら、もっとぉ、できるよぉ……？　ちゅちゅっ……」[pcms]
 
 *387|
 [fc]
-Chiro... Churururu... Pechapecha...[pcms]
+チロッ……チュルルル……ペチャペチャ……。[pcms]
 
 *388|
 [fc]
-[ns]Wataru[nse]
-"Ugh...!? Ku, uaaaah!! I'm telling you it's no good...!"[pcms]
+[ns]航[nse]
+「ううっ……！？　くっ、うぁああっ！！[r]
+　だ、駄目だって……言ってるのにっ！」[pcms]
 
 *389|
 [fc]
-[ns]Wataru[nse]
-"If you do that much... I...!?"[pcms]
+[ns]航[nse]
+「そ、そんなにしたらっ……ボク……っ！？」[pcms]
 
 *390|
 [fc]
-As if to interrupt his words of denial, Yuuho attacks his[r]
-sensitive spots.[pcms]
+否定の言葉を遮るかのように、[r]
+悠帆が敏感なところを攻める。[pcms]
 
 *391|
 [fc]
-Stimulated by the tongue on the side of his glans, he[r]
-becomes fully erect once again.[pcms]
+かりの脇や、亀頭の先を舌で刺激され、[r]
+再び、隆々と勃起してしまう。[pcms]
 
 *392|
 [fc]
 [vo_yuh s="yuho_YK0070"]
-[ns]Yuuho[nse]
-"Here you go, ufufu, ufufufufu? You're energetic, aren't[r]
-you? Let's do even more good things...?"[pcms]
+[ns]悠帆[nse]
+「ほおらぁ、うふっ、うふふふふっ？　元気、だよぉ？[r]
+　もっともっとぉぉ、いいコト、しよ……ぉ？」[pcms]
 
 *393|
 [fc]
-Yuuho chuckles mischievously as she stares over here.[pcms]
+クスクスと悪戯っぽく笑う悠帆が、[r]
+こちらを見詰めてくる。[pcms]
 
 *394|
 [fc]
-[ns]Wataru[nse]
-"Ugh...! Y-Yuuho...!"[pcms]
+[ns]航[nse]
+「ううっ……！[r]
+　ゆ、悠帆ぉ……っ」[pcms]
 
 *395|
 [fc]
-[ns]Wataru[nse]
-"It's no good... I can't take any more of this... haah,[r]
-ahh... It's just not right... ugh, ku...!"[pcms]
+[ns]航[nse]
+「だ、駄目だ……。[r]
+　もう……こ、これ以上は……はぁ、あっ……[r]
+　駄目なんだよぅ……うぅっ、く……！」[pcms]
 
 *396|
 [fc]
-The sight is so overwhelming that tears seem to well up in[r]
-the corners of his eyes.[pcms]
+余りの光景に、目尻に、涙が浮かびそうになる。[pcms]
 
 ;//〆黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *397|
 [fc]
-Biritt...[pcms]
+ビリッ……[pcms]
 
 *398|
 [fc]
-Suddenly, Yuuho tears the crotch of her spats with her own[r]
-hands.[pcms]
+突然、悠帆が自らの手で、[r]
+スパッツの股間部分を引き裂いた。[pcms]
 
 *399|
 [fc]
-[ns]Wataru[nse]
-"...Eh? Y-Yuuho!!"[pcms]
+[ns]航[nse]
+「……え？　ゆ、悠帆っ！！」[pcms]
 
 *400|
 [fc]
-[ns]Wataru[nse]
-"What are you doing...! You have to stop... such, aahh...!?"[pcms]
+[ns]航[nse]
+「何をするんだ……！[r]
+　やめないと……そんな、あぁっ……！？」[pcms]
 
 *401|
 [fc]
-The genitals glisten obscenely as they are exposed.[pcms]
+てらてらと、淫らに怪しく光る秘部が晒し出される。[pcms]
 
 *402|
 [fc]
-Dosaa![pcms]
+ドサッ！[pcms]
 
 *403|
 [fc]
-[ns]Wataru[nse]
-"Whoa!?"[pcms]
+[ns]航[nse]
+「うわっ！？」[pcms]
 
 *404|
 [fc]
-Yuuho lightly pushes Wataru away.[pcms]
+軽くボクを突き飛ばす悠帆。[pcms]
 
 *405|
 [fc]
-In a panic trying to get up, Yuuho straddles him to keep him[r]
-down.[pcms]
+慌てて起き上がろうとするが、[r]
+それを制して悠帆が上にまたがった。[pcms]
 
 ;mm
 [bg storage="BG020a"][trans_c cross time=500]
@@ -421,26 +439,28 @@ down.[pcms]
 *406|
 [fc]
 [vo_yuh s="yuho_YK0071"]
-[ns]Yuuho[nse]
-"Ufufufufu, ufufufufu... You like this sort of thing, don't[r]
-you? Boys do... ehe"[pcms]
+[ns]悠帆[nse]
+「うふふふふ、うふふふふっ……、[r]
+　こうゆうの……、好き、だよね？　男子って……ぇ」[pcms]
 
 *407|
 [fc]
-[ns]Wataru[nse]
-"It's no good...!! I can't take any more of this...!"[pcms]
+[ns]航[nse]
+「だ、駄目だ……！！[r]
+　も、もう……これ以上は……！」[pcms]
 
 *408|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuuho... it's wrong, we shouldn't be doing this[r]
-anymore...! Anyway, it's just no good!!"[pcms]
+[ns]航[nse]
+「ゆ、悠帆……駄目なんだ、[r]
+　これ以上しちゃいけない……！[r]
+　とにかく、もう駄目なんだよ！！」[pcms]
 
 *409|
 [fc]
 [vo_yuh s="yuho_YK0072"]
-[ns]Yuuho[nse]
-"Waa-taa-ruu? Are you coming...?"[pcms]
+[ns]悠帆[nse]
+「わ～たぁぁるぅぅ？　来てぇぇ……？」[pcms]
 
 ;mm
 [se buf=0 storage="se_sex01"]
@@ -448,35 +468,38 @@ anymore...! Anyway, it's just no good!!"[pcms]
 
 *410|
 [fc]
-His desperate voice is in vain as it echoes.[pcms]
+必死の声も空しく、[r]
+その音が響き渡る。[pcms]
 
 *411|
 [fc]
-Zu... Zunyuuuuuu...![pcms]
+ズ……ズニュウウウウゥ……ッ[pcms]
 
 *412|
 [fc]
-With a lewd sound, the penis is swallowed up inside Yuuho.[pcms]
+艶かしい音を立て、[r]
+悠帆の内側にペニスが呑み込まれて行く。[pcms]
 
 *413|
 [fc]
-Pan...![pcms]
+パンッ…。[pcms]
 
 *414|
 [fc]
-Then, a light shock as if something was broken through is[r]
-felt.[pcms]
+そして、何かを突き破ったような、軽い衝撃が走った。[pcms]
 
 *415|
 [fc]
-[ns]Wataru[nse]
-"Ah, aguh...!? Guh... haah... haa. Ah... Yuuho...?"[pcms]
+[ns]航[nse]
+「あ、あぐぁっ……！？[r]
+　ぐぅ……っ、はっ……はぁぁ。[r]
+　あ……悠帆……？」[pcms]
 
 *416|
 [fc]
 [vo_yuh s="yuho_YK0073"]
-[ns]Yuuho[nse]
-"Hannnguuuu... uuuuh!"[pcms]
+[ns]悠帆[nse]
+「はんんぐぅぅぅぅ……ぅぅぅっ！」[pcms]
 
 ;//〆ＨＥＶ０５０：悠帆（感染））／タンクトップ＆スパッツ
 ;//　　　　　　　　　　　　　　　騎乗位で航を責める悠帆
@@ -487,132 +510,141 @@ felt.[pcms]
 *417|
 [fc]
 [vo_yuh s="yuho_YK0074"]
-[ns]Yuuho[nse]
-"Npaaaah, ahi, hiin... nnnh! It feels sooo good!! Even the[r]
-pain... all of it, all of it is sooo good!"[pcms]
+[ns]悠帆[nse]
+「んぱあぁぁぁ、あひっ、ひぃん……んんっ！[r]
+　き、もち……いいいぃぃぃぃぃぃぃ……っ！！[r]
+　痛い、のも……、ぜんぶ、ぜんぶぅ……い、いぃぃぃ！」[pcms]
 
 *418|
 [fc]
-No doubt about it. That was the sound of the hymen being[r]
-broken through.[pcms]
+間違いない。[r]
+今のは、処女膜を突き破った音だ。[pcms]
 
 *419|
 [fc]
-I've taken my childhood friend's virginity. What have I[r]
-done?[pcms]
+幼馴染のヴァージンを、ボクは奪ってしまった。[r]
+なんて事をしてしまったんだ。[pcms]
 
 *420|
 [fc]
-But...[pcms]
+でも……。[pcms]
 
 *421|
 [fc]
-How good it feels...![pcms]
+なんて、気持ちいいんだ……！[pcms]
 
 *422|
 [fc]
 [vo_yuh s="yuho_YK0075"]
-[ns]Yuuho[nse]
-"...Wa-taru...? Is this your first time?"[pcms]
+[ns]悠帆[nse]
+「……わ、たる……ぅ？　わたるは……初めて、なの？」[pcms]
 
 *423|
 [fc]
-[ns]Wataru[nse]
-"Of course it is... Yeah. Ugh... kuaah!?"[pcms]
+[ns]航[nse]
+「も、もちろんだ……よ。[r]
+　うぅっ……くぁっ！？」[pcms]
 
 *424|
 [fc]
-[ns]Wataru[nse]
-"It's obviously my first time... Auh! Such a thing!"[pcms]
+[ns]航[nse]
+「は、初めてに……き、決まってるじゃないか……。[r]
+　あうっ！　こ、こんな……事っ！」[pcms]
 
 *425|
 [fc]
 [vo_yuh s="yuho_YK0076"]
-[ns]Yuuho[nse]
-"It's my first time too... We're both having our first time[r]
-together... I'm so happy... hiuuu, nnnnh!"[pcms]
+[ns]悠帆[nse]
+「わたし、も……ぉ、初めて、だよぉぉ……？[r]
+　ふたり、とも……初めて、だと……嬉しいぃ……っ、[r]
+　ひぃぃぅぅ、んんんっ！」[pcms]
 
 *426|
 [fc]
-Jubuu! Jubu, Jubu..., Zuppu![pcms]
+ジュブウッ！　ジュブッ、ジュブ……ッ、ヅププッ！[pcms]
 
 *427|
 [fc]
-[ns]Wataru[nse]
-"Ugh... aah!! Auhhh..."[pcms]
+[ns]航[nse]
+「ううっ……ああっ！！[r]
+　あううっ……」[pcms]
 
 *428|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuu... Yuuho! Inside you... it's tight...!"[pcms]
+[ns]航[nse]
+「ゆ、ゆう……悠帆ぉっ！[r]
+　悠帆の……な、か……き、きついよっ……！」[pcms]
 
 *429|
 [fc]
-Excited by the sensation of the hot penis she's taking in[r]
-for the first time, Yuuho frantically moves her hips.[pcms]
+初めて迎え入れた熱い肉棒の感触に興奮してか、[r]
+悠帆はがむしゃらに腰を振る。[pcms]
 
 *430|
 [fc]
 [vo_yuh s="yuho_YK0077"]
-[ns]Yuuho[nse]
-"...Your dick is inside my pussy! I'm sooo happy about it!"[pcms]
+[ns]悠帆[nse]
+「……オマンコにぃ……、わたるが……、入って、るぅ！[r]
+　わ、わたしぃ……っ、すっごく……、嬉しいの……ぉっ！」[pcms]
 
 *431|
 [fc]
-She moans loudly, writhing on top of him.[pcms]
+嬌声を上げ、自分の上でよがり狂っている。[pcms]
 
 *432|
 [fc]
-[ns]Wataru[nse]
-"It's no good...! I can't hold on any longer!"[pcms]
+[ns]航[nse]
+「だ、駄目だっ……！[r]
+　ぼ、ボクはっ……も、もうっ！」[pcms]
 
 *433|
 [fc]
-The intense tightness continues to stimulate the penis[r]
-relentlessly.[pcms]
+強烈な締め付けが、[r]
+ペニスをくまなく刺激し続ける。[pcms]
 
 *434|
 [fc]
-However, the sensation at the tip feels completely[r]
-different.[pcms]
+しかし、亀頭に感じる奥の感触は、全く違っている。[pcms]
 
 *435|
 [fc]
-[ns]Wataru[nse]
-"Inside Yuuho it's warm and soft..."[pcms]
+[ns]航[nse]
+「ゆ、悠帆のなか……あ、温かくて……っ。[r]
+　そ、それで……柔らかくて……！」[pcms]
 
 *436|
 [fc]
-He swallows his saliva at that point.[pcms]
+そこまで言って、生唾を飲み込んだ。[pcms]
 
 *437|
 [fc]
-Writhe in agony from the terrifyingly soft and warm[r]
-sensation of Yuuho's vagina.[pcms]
+恐ろしい程、柔らかく、[r]
+そして暖かい悠帆の膣内の感触に身悶える。[pcms]
 
 *438|
 [fc]
-[ns]Wataru[nse]
-"I-I'm...!"[pcms]
+[ns]航[nse]
+「ぼ、ボクはっ…！」[pcms]
 
 *439|
 [fc]
-Moreover, Yuuho moves using the springiness of her well-[r]
-trained body.[pcms]
+その上、悠帆は鍛えられたその全身のバネを使って動く。[pcms]
 
 *440|
 [fc]
-[ns]Wataru[nse]
-"It's coming out...! At this rate, I can't...!"[pcms]
+[ns]航[nse]
+「で、出る……！[r]
+　このままじゃ、もうっ！」[pcms]
 
 *441|
 [fc]
-With dizziness, he was quickly brought to climax.[pcms]
+眩暈と共に、あっという間に絶頂へと連れて行かれてしまった。[pcms]
 
 *442|
 [fc]
-[ns]Wataru[nse]
-"It's coming out...! Yuuho, no... ah ahhh~~!!"[pcms]
+[ns]航[nse]
+「出ちゃうよぅぅっー！！[r]
+　悠帆、だめっ……だ……あぁああ～～っ！！」[pcms]
 
 ;//Ｅ：膣内射精を受ける悠帆１（Ａの液差分）
 ;//白フラ
@@ -622,52 +654,52 @@ With dizziness, he was quickly brought to climax.[pcms]
 
 *443|
 [fc]
-Biku! Mukumuku...[pcms]
+ドクンッ！　ドクドクゥッ……！[pcms]
 
 
 *444|
 [fc]
 [vo_yuh s="yuho_YK0078"]
-[ns]Yuuho[nse]
-"Hyawawauuu...!?"[pcms]
+[ns]悠帆[nse]
+「ひゃわわぅぅぅ……っ！？」[pcms]
 
 *445|
 [fc]
-The penis that had finished inside Yuuho's vagina twitches.[pcms]
+悠帆の膣内で、果てたペニスがびくびくとのたうつ。[pcms]
 
 *446|
 [fc]
-The semen, compressed, overflows from the vaginal opening.[r]
-Yuuho seems to love that sensation.[pcms]
+圧縮され、膣口からあふれ出す精液。[r]
+悠帆は、その感触が溜まらないようだ。[pcms]
 
 *447|
 [fc]
 [vo_yuh s="yuho_YK0079"]
-[ns]Yuuho[nse]
-"Amazing, right? My pussy is twitching...!"[pcms]
+[ns]悠帆[nse]
+「すごいぃぃぃ、ねぇ？　オマンコ、びくびく……するぅ！」[pcms]
 
 *448|
 [fc]
-[ns]Wataru[nse]
-"Haah...haah...? Ahh...! Ahh uuh ahh...!"[pcms]
+[ns]航[nse]
+「はぁ……はぁぁ……？[r]
+　あぁっ、あ……！　あぁうぅあぁっ……！」[pcms]
 
 *449|
 [fc]
-His head feels like it's bursting with whiteness, unable to[r]
-think of anything.[pcms]
+頭が白く弾けたように、何も考えられない。[pcms]
 
 *450|
 [fc]
-In his lower half, the ejaculation seems to finally stop. He[r]
-continues to release inside Yuuho rhythmically.[pcms]
+下半身では、未だに射精が止まらない。[r]
+どくどくと悠帆の中に放ち続けている。[pcms]
 
 *451|
 [fc]
-He desperately tries to maintain consciousness.[pcms]
+必死で意識を繋ぎとめようとする。[pcms]
 
 *452|
 [fc]
-Biku Biku![pcms]
+ドクンッ　ビクビクゥッ！[pcms]
 
 ;//Ｇ：恍惚の悠帆１
 ;//　　射精中、射精後のペニスを挿入したまま膣で絞る。
@@ -675,391 +707,413 @@ Biku Biku![pcms]
 *453|
 [fc]
 [vo_yuh s="yuho_YK0080"]
-[ns]Yuuho[nse]
-"Nnhiaaaa...! Still... it's coming out...! Ah, nfuahhh!?[r]
-Again... ah! It's coming outtt! Nnah, hik, higyauuu!?[r]
-Yessssss!!"[pcms]
+[ns]悠帆[nse]
+「んひああぁぁぁぁ……っ、ま、まだぁ……出てるぅぅ……っ、[r]
+　あっ、んふあぁぁ！？　また……ぁ！　で、出てるぅぅぅ！[r]
+　んあっ、ひっ、ひぎぁぅぅ！？　いいいいいいぃぃぃっ！！」[pcms]
 
 *454|
 [fc]
-Biku, Biku...! Zunyuu...![pcms]
+ドクンッ、ドクッ……！　ズニュウ……ッ！！[pcms]
 
 *455|
 [fc]
-Yuuho arches back and trembles all over.[pcms]
+仰け反って、全身を震わせる悠帆。[pcms]
 
 *456|
 [fc]
-[ns]Wataru[nse]
-"Haah, haah..."[pcms]
+[ns]航[nse]
+「はぁ、はぁ……」[pcms]
 
 *457|
 [fc]
-He swallows his saliva. The thirst is unquenchable.[pcms]
+唾を飲み込む。[r]
+一向に、渇きは治まらない。[pcms]
 
 *458|
 [fc]
-[ns]Wataru[nse]
-"Zee...zee..."[pcms]
+[ns]航[nse]
+「ぜぇ……ぜぇ……」[pcms]
 
 *459|
 [fc]
-He breathes roughly. The long ejaculation seems to have[r]
-finally stopped.[pcms]
+荒く息をつく。[r]
+長い長い射精は、ようやく止まったようだ。[pcms]
 
 *460|
 [fc]
-He wonders to himself where all this could possibly come[r]
-from.[pcms]
+自分でも、一体どこにこれほどの、と思う。[pcms]
 
 [evcg storage="HEV037f"][trans_c cross time=300]
 
 *461|
 [fc]
 [vo_yuh s="yuho_YK0081"]
-[ns]Yuuho[nse]
-"...Fuaaaaah... amazing, right? That was surprising? That[r]
-just now... was really good... Can we do it one more time?"[pcms]
+[ns]悠帆[nse]
+「……ふああぁぁあぁ……、すごいねぇぇ？　びっくりだよぉ？[r]
+　今の……すっごく、良かったぁぁ……、[r]
+　もいっかいぃ、してえぇ……？」[pcms]
 
 *462|
 [fc]
-No sooner said than done, Yuuho begins to move again.[pcms]
+言うや否やすぐに、悠帆は再び振り始めた。[pcms]
 
 *463|
 [fc]
-The sensation of being tightly squeezed makes the penis that[r]
-had gone flaccid begin to wake up again.[pcms]
+強く締め付けられるその感触に、[r]
+しぼんでいたペニスが再び目を覚まし始める。[pcms]
 
 *464|
 [fc]
-Zuryuu, Zup...! Zubuu! Guchu, Guchuu...[pcms]
+ズリュッ、ヅプ……ッ！[r]
+ズブウッ！　グチュッ、グチュウッ……[pcms]
 
 *465|
 [fc]
-[ns]Wataru[nse]
-"...Uh, hmm. Eh, ah...?"[pcms]
+[ns]航[nse]
+「……う、ん。[r]
+　え、あ……？」[pcms]
 
 *466|
 [fc]
-Despite his desperate attempt to stay conscious, he seems to[r]
-have been half- fainting.[pcms]
+必死で意識を保とうとしていたものの、[r]
+半分、失神しかけていたようだ。[pcms]
 
 *467|
 [fc]
-[ns]Wataru[nse]
-"Yuuho...!? Th-that again...! Auhhh!"[pcms]
+[ns]航[nse]
+「悠帆……！？[r]
+　そ、そんな、またっ……！　あううっ！」[pcms]
 
 *468|
 [fc]
-The sharp stimulation from his lower half pulls him back to[r]
-reality in an instant. And once again, he is dominated by[r]
-pleasure.[pcms]
+下半身からの鋭い刺激に、一気に現実へと引き戻される。[r]
+そして、再び悦楽に支配されていく。[pcms]
 
 *469|
 [fc]
 [vo_yuh s="yuho_YK0082"]
-[ns]Yuuho[nse]
-"...Nnh, aha!? It's gotten big again!"[pcms]
+[ns]悠帆[nse]
+「……んっ、あはぁ！？　おっきく、なったぁぁぁ！」[pcms]
 
 *470|
 [fc]
-Pleased that the penis inside her is regaining its strength,[r]
-Yuuho licks her lips and smiles.[pcms]
+自分の中で、ペニスが再び力を取り戻すのが嬉しいのか、[r]
+舌なめずりをして、悠帆が笑った。[pcms]
 
 ;//Ｂ：舌なめずりをして快感をむさぼる悠帆
 
 *471|
 [fc]
 [vo_yuh s="yuho_YK0083"]
-[ns]Yuuho[nse]
-"...We'll go slowly, so... nfuuuu, Wataru too... enjoy it,[r]
-okay?"[pcms]
+[ns]悠帆[nse]
+「……ゆっくり、する、から……ぁ、んふぅぅぅ、[r]
+　わ、たるもぉ……、愉しんで、ねぇ？」[pcms]
 
 *472|
 [fc]
-Zujuuu... Nijuu, Jubuu...[pcms]
+ズジュウゥ……ニジュッ、ジュブウゥ……！　ヅップゥ！！[pcms]
 
 *473|
 [fc]
-[ns]Wataru[nse]
-"Ahh...ahhh! Y-Yuuho... that way...!"[pcms]
+[ns]航[nse]
+「ああ……あああっ！[r]
+　ゆ、悠帆……そ、そんな……っ」[pcms]
 
 *474|
 [fc]
-Completely different from before, she slides her hips in a[r]
-slow rhythm.[pcms]
+さっきまでとはうって変わって、[r]
+ゆっくりとした調子で、腰をスライドさせる。[pcms]
 
 *475|
 [fc]
-[ns]Wataru[nse]
-"If you do it like that...! I can feel it...! Inside[r]
-Yuuho's...! I can feel the heat...!!"[pcms]
+[ns]航[nse]
+「そんな風にしたらっ……！[r]
+　か、感じる……！　ゆ、悠帆の中ぁっ……！[r]
+　熱いのを…感じるよぅっ！！」[pcms]
 
 *476|
 [fc]
-She swings her hips grandly, engulfing from the ridge to the[r]
-base as if savoring Wataru's penis.[pcms]
+大きく腰を振り、カリ首から、根元まで[r]
+まるで、航のペニスを味わうかのように咥え込む。[pcms]
 
 *477|
 [fc]
 [vo_yuh s="yuho_YK0084"]
-[ns]Yuuho[nse]
-"Nfuuu, ffuhiiii, nnnnn... This too... is good isn't it?[r]
-Ahiiin!"[pcms]
+[ns]悠帆[nse]
+「んふぅぅ、っふひぃぃぃっ、んんんっ……、[r]
+　これも……、いいぃぃぃねえぇぇぇ？　あひぃぃん！」[pcms]
 
 *478|
 [fc]
-Jugun! Zupuu! Guchun...![pcms]
+ジュグンッ！　ヅプウッ！　グチュン……ッ！！[pcms]
 
 *479|
 [fc]
-Yuuho repeats the slow piston movements as if savoring the[r]
-penis inside her.[pcms]
+ペニスを味わうかのように、[r]
+ゆっくりとピストンを繰り返す悠帆。[pcms]
 
 *480|
 [fc]
-Licking her lips as if tasting her favorite delicacy.[pcms]
+舌なめずりしながら、[r]
+まるで大好きなご馳走を味わうかのようだ。[pcms]
 
 *481|
 [fc]
-[ns]Wataru[nse]
-"Ahh...! Ahhhh!! This is good...!"[pcms]
+[ns]航[nse]
+「ああっ……！　あああっ！！[r]
+　こ、これ……いいっ……！」[pcms]
 
 *482|
 [fc]
-[ns]Wataru[nse]
-"No good...! I can't think of anything else...!"[pcms]
+[ns]航[nse]
+「だ、駄目……だ！[r]
+　な、何も……考えられ、なく……なる……よっ！」[pcms]
 
 *483|
 [fc]
-[ns]Wataru[nse]
-"Amazing... It feels so good! Yuuho!!"[pcms]
+[ns]航[nse]
+「す、すごい……[r]
+　気持ち……いいっ！　ゆ、悠帆ぉっ！！」[pcms]
 
 ;//Ｃ：何かを要求する悠帆
 
 *484|
 [fc]
-The movements are slow but gradually both are climbing to[r]
-greater heights.[pcms]
+ゆっくりとした動きだが、[r]
+次第に二人とも高みへと登りつめていくのが分かる。[pcms]
 
 *485|
 [fc]
-Yuuho's face, ecstatic and pleasured, flushes even more.[pcms]
+悠帆の、恍惚として気持ち良さそうな顔が、さらに上気する。[pcms]
 
 *486|
 [fc]
 [vo_yuh s="yuho_YK0085"]
-[ns]Yuuho[nse]
-"...Nnuuu~uu? Hey?"[pcms]
+[ns]悠帆[nse]
+「……んぅぅ～ぅぅ？　ねぇぇ？」[pcms]
 
 *487|
 [fc]
 [vo_yuh s="yuho_YK0086"]
-[ns]Yuuho[nse]
-"I'm going to do it a lot, a lot... Wataru... wait for me,[r]
-okay? ...Because I... want to cum too...?"[pcms]
+[ns]悠帆[nse]
+「いっぱい、いっぱいぃぃ、する、からぁぁ……、[r]
+　わたるぅ……、待ってて、ねぇ？[r]
+　……わたし、も……イキたいからあぁ……？」[pcms]
 
 *488|
 [fc]
-[ns]Wataru[nse]
-"Yeah! I'll... I'll try my best... I'll hold on...!"[pcms]
+[ns]航[nse]
+「う、うんっ！[r]
+　が、頑張る……が、我慢するよっ…！」[pcms]
 
 *489|
 [fc]
-Gazing at Yuuho's happy face, a sense of fulfillment fills[r]
-me.[pcms]
+悠帆の嬉しそうな顔を、見詰める。[r]
+充実感が身体を満たしていく。[pcms]
 
 *490|
 [fc]
-[ns]Wataru[nse]
-"Together... I want to cum together! I want to cum with[r]
-Yuuho...!!"[pcms]
+[ns]航[nse]
+「い、一緒に……一緒にイキたいっ！[r]
+　悠帆と、イキたいんだ……！！」[pcms]
 
 *491|
 [fc]
 [vo_yuh s="yuho_YK0087"]
-[ns]Yuuho[nse]
-"Ufufufufufu~? I'm going to move, okay? Really a lot, so[r]
-much, intensely... with Wataru... the two of us..."[pcms]
+[ns]悠帆[nse]
+「うふふふふふ～ぅぅ？　動かす、よぉ？[r]
+　すっごく、いっぱい、いっぱあぁぁい、激しいの……ぉ、[r]
+　わたるとぉ……、ふたりでぇ……っ」[pcms]
 
 *492|
 [fc]
-Zupuuu! Jukuu! Jubo, jubuu![pcms]
+ヅプウウッ！　ジュクウッ！　ジュボッ、ジュブウッ！[pcms]
 
 *493|
 [fc]
-Yuuho begins to move her hips fiercely once again.[pcms]
+再び、激しく腰を振り始める悠帆。[pcms]
 
 *494|
 [fc]
-[ns]Wataru[nse]
-"Uaaaa! Ua! Uaaaa! It's... it's amazing... like this...[r]
-uaaaaaah!"[pcms]
+[ns]航[nse]
+「うあああっ！　うあっ！　うああっ！[r]
+　す、すごい……こんな……うあああぁぁっ！」[pcms]
 
 *495|
 [fc]
-I couldn't help but let out a scream from the overwhelming[r]
-pleasure.[pcms]
+あまりの快感に、叫び声をあげてしまった。[pcms]
 
 *496|
 [fc]
-[ns]Wataru[nse]
-"Yuuho...! This is just like...!"[pcms]
+[ns]航[nse]
+「ゆ、悠帆ぉっ……！[r]
+　こんなの、まるでっ……！」[pcms]
 
 *497|
 [fc]
-[ns]Wataru[nse]
-"It's like I'm being devoured by Yuuho...!"[pcms]
+[ns]航[nse]
+「悠帆に、食べられてるみたいだっ……！」[pcms]
 
 ;//Ａ：挿入して、大喜びする悠帆。
 
 *498|
 [fc]
 [vo_yuh s="yuho_YK0088"]
-[ns]Yuuho[nse]
-"...Nnn, nnnuu, han... nnnn! Hafuuu, it's... it's so[r]
-amazing!? Wataru... you've gotten bigger again... ahhh!"[pcms]
+[ns]悠帆[nse]
+「……んっ、んんぅぅ、はん……っ、んんん！[r]
+　はふぅぅぅ、す、すごぉいいいぃ！？[r]
+　わ、たる……、また、おっきくなったぁぁぁ……ぁぁっ！」[pcms]
 
 *499|
 [fc]
-Gakun, Gakun!! Buchuuuu! Zubuuu![pcms]
+ガクンッ、ガクン！！　ブチュウウウゥッ！　ヅブウゥッ！[pcms]
 
 *500|
 [fc]
-Yuuho shakes her hips even more violently.[pcms]
+さらに激しく、腰を振りたてる悠帆。[pcms]
 
 *501|
 [fc]
-The cute face of my childhood friend has lost its sanity,[r]
-melting into the face of a lustful female.[pcms]
+幼馴染の可愛いその顔は、[r]
+正気を失って、蕩けた牝の顔になっている。[pcms]
 
 *502|
 [fc]
 [vo_yuh s="yuho_YK0089"]
-[ns]Yuuho[nse]
-"My pussy... it's so sloppy...! Guchuguchu, it's wet and[r]
-sticky...! Clinging and sliding...!"[pcms]
+[ns]悠帆[nse]
+「オマンコぉ……、ドロドロぉ……っ！[r]
+　ぐちゅぐちゅ、して、ねちょねちょ……ぉ！[r]
+　くっついてぇ……ずるずる、すべってぇぇぇ……！」[pcms]
 
 *503|
 [fc]
 [vo_yuh s="yuho_YK0090"]
-[ns]Yuuho[nse]
-"Hahihaaaaa, it's, it's so good!? I'm going to cum,[r]
-Wataru...? Hiiiuuu, haa, it's so goodaaaaah!!"[pcms]
+[ns]悠帆[nse]
+「はひあぁぁぁぁ、いっ、いいいいぃっ！？[r]
+　イク……よぉ、わたるぅぅ……ぅ？[r]
+　ひぃぅぅぅ、はぁっ、いいいいぃぃぃあぁぁぁっ！！」[pcms]
 
 *504|
 [fc]
-Yuuho's hips convulse and her movements momentarily stop.[pcms]
+悠帆が腰を痙攣させ、その動きが一瞬止まる。[pcms]
 
 *505|
 [fc]
-It's as if time has stopped in the small climax of pleasure.[pcms]
+小さな絶頂の快感に、時が止まったかのようだ。[pcms]
 
 *506|
 [fc]
 [vo_yuh s="yuho_YK0091"]
-[ns]Yuuho[nse]
-"Hahihaaa!? Hyauuu!? It's so... amazing...! I'm cumming,[r]
-cumming, cummingaaaah!"[pcms]
+[ns]悠帆[nse]
+「はひあぁぁっ！？　ひゃうぅぅ！？[r]
+　すっ、すご……ぉ、ぃぃぃぃ……！[r]
+　いっ、いいいいぎぃぃぃっ、いいっ、くふああぁぁ！」[pcms]
 
 *507|
 [fc]
 [vo_yuh s="yuho_YK0092"]
-[ns]Yuuho[nse]
-"Moreeee! Ngi, hiiiu! Fill me up, fill me up, Wataru...[r]
-uuu...! Come deeper insideee, kihiiiiiaaaaah!!"[pcms]
+[ns]悠帆[nse]
+「も、もっとぉぉぉっ！　んぎっ、ひぃぃぅっ！[r]
+　いっぱい、いっぱい、わた、る……ぅぅぅ……っ！[r]
+　奥に、来てぇぇぇ、きひぃぃぃぁぁあぁぁぅぅ！！」[pcms]
 
 *508|
 [fc]
-Chugun! Buchu! Zupuzupu! Chukuu![pcms]
+チュグンッ！　ブチュッ！　ヅプヅプッ！　チュクウッ！[pcms]
 
 *509|
 [fc]
-Yuuho immediately starts moving fiercely again.[pcms]
+すぐに激しく動き始める悠帆。[pcms]
 
 *510|
 [fc]
-Continuing to shake her hips while reaching small climaxes[r]
-two, three times in a row.[pcms]
+２回、３回と続けて小さな絶頂に達しながらも、[r]
+腰を振り続ける。[pcms]
 
 ;//Ｄ：快感の余りアヘ顔になる悠帆
 
 *511|
 [fc]
 [vo_yuh s="yuho_YK0093"]
-[ns]Yuuho[nse]
-"It's so good, so good...! Hahii! I'm going crazy... am I[r]
-getting weird? Kahahauuu!?"[pcms]
+[ns]悠帆[nse]
+「いいいいいいいいぃぃぃ、いいぃっ、いいっ……！[r]
+　はひぃっ！　も、もぉぉぉ、わ、わたしぃ……っ？[r]
+　ヘンに、なっちゃぅぅぅ？　かはあぁぅぅ！？」[pcms]
 
 *512|
 [fc]
-Apparently, she can't stop cumming from the overwhelming[r]
-pleasure.[pcms]
+どうやら、あまりの快感に、[r]
+イクのが止まらないらしい。[pcms]
 
 *513|
 [fc]
-She continues to shake her hips without caring about trying[r]
-to endure her own climax.[pcms]
+必死でイクのを耐える自分の事など[r]
+お構いなしに腰を振り続ける。[pcms]
 
 *514|
 [fc]
-Bujuu! Chabu! Zubuuu! Guchu![pcms]
+ビュジュウッ！　チャブッ！　ヅブウウッ！　グチュッ！[pcms]
 
 *515|
 [fc]
-[ns]Wataru[nse]
-"Aah!! Aaah!! No good, Yuuho!"[pcms]
+[ns]航[nse]
+「ああっ！！　あああっ！！[r]
+　だ、駄目だよっ！　悠帆ぉっ！」[pcms]
 
 *516|
 [fc]
-[ns]Wataru[nse]
-"If you do it like that... aahhh! I can't hold back[r]
-anymore... kaha! Ha... haaa!!"[pcms]
+[ns]航[nse]
+「そ、そんなに…したらああぁっ！[r]
+　も、もうボク……かはっ！　はっ……はぁぁっ！！」[pcms]
 
 *517|
 [fc]
-[ns]Wataru[nse]
-"I can't... hold back anymore...!!"[pcms]
+[ns]航[nse]
+「我慢……っ！[r]
+　で、できないよお……っ！！」[pcms]
 
 *518|
 [fc]
 [vo_yuh s="yuho_YK0094"]
-[ns]Yuuho[nse]
-"Naaaahiiii!? It's so good...!? Come insideee, come come,[r]
-comeeeeee!!"[pcms]
+[ns]悠帆[nse]
+「んあああひぃぃぃっ！？　いいいぃぃっ……！？[r]
+　き、来てえぇぇぇ、来て来て、来てぇえぇぇぇっ！！」[pcms]
 
 ;//Ｆ：膣内射精を受ける悠帆２（Ｄの液差分）
 
 *519|
 [fc]
 [vo_yuh s="yuho_YK0095"]
-[ns]Yuuho[nse]
-"Hahiiii, hi, hiiii! Agi, aguaiiiaaaaahhhhh!!"[pcms]
+[ns]悠帆[nse]
+「はひぃぃぃ、ひっ、ひぃぃぃっ！[r]
+　あぎっ、あぐあぃぃあぁぁああぁあぁぁぅぅぅ…………！！」[pcms]
 
 *520|
 [fc]
-Jupa! Bu... Bushuuu![pcms]
+ジュパッ！　ブ…ブシュウウッ！[pcms]
 
 *521|
 [fc]
-Reaching a massive climax, Yuuho lets out a beast-like roar[r]
-and relaxes her entire body.[pcms]
+大きな、大きな絶頂へとたどり着き、[r]
+獣のような咆哮を上げて全身を弛緩させる悠帆。[pcms]
 
 *522|
 [fc]
-Her body twitches and then loses all strength, coming to a[r]
-stop.[pcms]
+ピクピクと全身を震わせたかと思うと、[r]
+その力を全て失って動きを止めた。[pcms]
 
 *523|
 [fc]
-[ns]Wataru[nse]
-"Aguaaaah! I'm also... I'm also going to...!"[pcms]
+[ns]航[nse]
+「あぐああぁぁっ！[r]
+　ぼ、ボクも……ボクもっ……！」[pcms]
 
 *524|
 [fc]
-[ns]Wataru[nse]
-"I can't hold back anymore... I'm cummingggg!! Aaahhh,[r]
-aaahhh, agaaaah~~!!"[pcms]
+[ns]航[nse]
+「も、もう……い、イくうううぅぅっ！！[r]
+　あぁああっ、あぁああっ、あがぁあ～～！！」[pcms]
 
 ;//白フラ
 [se buf=0 storage="se_sex01"]
@@ -1067,140 +1121,143 @@ aaahhh, agaaaah~~!!"[pcms]
 
 *525|
 [fc]
-Dok... Dock! Doppuyuuuu![pcms]
+ドク……ドックッ！　ドッピュウウウウゥッ！！[pcms]
 
 *526|
 [fc]
 [vo_yuh s="yuho_YK0096"]
-[ns]Yuuho[nse]
-"...uuu..."[pcms]
+[ns]悠帆[nse]
+「…………ぅぅぅ…………っ」[pcms]
 
 *527|
 [fc]
-[ns]Wataru[nse]
-"Haah, haah... aguu. Au... kuh... Ahh...!"[pcms]
+[ns]航[nse]
+「はぁ、はぁっ……あぐぅ。[r]
+　あぅぅ……っ、く……！　あぁっ……！」[pcms]
 
 *528|
 [fc]
-Ejaculating inside Yuuho for an extended period.[pcms]
+長々と悠帆の中に射精する。[pcms]
 
 *529|
 [fc]
-The contracting vagina of the unconscious Yuuho feels like[r]
-it could bite off my penis.[pcms]
+気絶し、収縮する悠帆の膣に、[r]
+ペニスを食いちぎられそうだ。[pcms]
 
 *530|
 [fc]
-The contractions seem to squeeze out everything inside my[r]
-body.[pcms]
+その収縮で、身体の中の全てを搾り取られるかのようだ。[pcms]
 
 *531|
 [fc]
-Somewhere in my head feels strangely clear.[pcms]
+どこか、妙に頭がすっきりとしている。[pcms]
 
 *532|
 [fc]
-The feverish sensation from before has disappeared.[pcms]
+先程までの、何か熱っぽいような、[r]
+麻痺したような感覚は消えていた。[pcms]
 
 *533|
 [fc]
-[ns]Wataru[nse]
-"How could something like this happen? What is this[r]
-feeling... ah...!!"[pcms]
+[ns]航[nse]
+「こ、こんな……こんな事……？[r]
+　な、なんて……あぁ……！！」[pcms]
 
 *534|
 [fc]
-How incredibly pleasurable it is.[pcms]
+なんて、気持ちいいんだろう。[pcms]
 
 ;//Ｈ：恍惚の悠帆２
 ;//・倒れかけて、覚醒する悠帆。快感の余り定かな言葉が出ない
 
 *535|
 [fc]
-Gakun[pcms]
+ガクンッ[pcms]
 
 *536|
 [fc]
-I can feel Yuuho slowly collapsing onto me as she stops[r]
-moving.[pcms]
+動きを止めていた悠帆が、[r]
+ゆっくりと自分に倒れこんでくるのが分かる。[pcms]
 
 *537|
 [fc]
-In a panic, I reach out to catch her, and manage to do so.[r]
-The impact seems to have woken Yuuho up.[pcms]
+慌てて受け止めようとして、腕を伸ばし、受け止める。[r]
+その衝撃で、どうやら悠帆は目を覚ましたようだ。[pcms]
 
 *538|
 [fc]
 [vo_yuh s="yuho_YK0097"]
-[ns]Yuuho[nse]
-"...hafuaaau...haa, haa...h."[pcms]
+[ns]悠帆[nse]
+「…………はふあぁあぅ……はぁぁ、はぁ……っ」[pcms]
 
 ;//黒
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *539|
 [fc]
-Slowly standing up from on top of me, she pulls out my[r]
-penis.[pcms]
+ゆっくりと自分の上から立ち上がり、[r]
+ペニスを引き抜く。[pcms]
 
 *540|
 [fc]
-A large amount of semen from the two ejaculations overflows[r]
-from Yuuho's vagina.[pcms]
+悠帆の膣から、２度の射精による、大量の精液があふれ出す。[pcms]
 
 *541|
 [fc]
-Gop...! Gobuchuuu...! Byukubyuku...!![pcms]
+ゴプッ…！　ゴブチュゥゥッ…！　ビュクビュク…！！[pcms]
 
 *542|
 [fc]
 [vo_yuh s="yuho_YK0098"]
-[ns]Yuuho[nse]
-"Nn, haaaah, haa, haa...haa..."[pcms]
+[ns]悠帆[nse]
+「ん、はあぁぁ、はぁ、はぁ……はぁ…………」[pcms]
 
 *543|
 [fc]
-In front of me is Yuuho. The face of my childhood friend[r]
-that I know so well. I can see myself reflected in her eyes.[pcms]
+目の前に、悠帆がいる。良く知っている、幼馴染の顔が。[r]
+その瞳に自分が映っている。[pcms]
 
 *544|
 [fc]
-[ns]Wataru[nse]
-"Yu...Yuu..."[pcms]
+[ns]航[nse]
+「ゆ……ゆう……」[pcms]
 
 *545|
 [fc]
-I swallowed my saliva. The thirst had already subsided.[pcms]
+生唾を飲み込んだ。[r]
+もう、渇きは治まっていた。[pcms]
 
 *546|
 [fc]
-[ns]Wataru[nse]
-"Yuuho...! Ah...ahh...ooohhh...!!"[pcms]
+[ns]航[nse]
+「ゆう、ほ……！[r]
+　あっ……ああ……、おぉおおっ……！！」[pcms]
 
 *547|
 [fc]
-Before I knew it, we were naturally embracing each other.[pcms]
+いつしか、自然と抱き合っていた。[pcms]
 
 *548|
 [fc]
-The body heat coming from Yuuho... the scent of sweat... and[r]
-the scent of love juices.[pcms]
+悠帆から伝わる、[r]
+体温……汗の香り……そして、愛液の香り。[pcms]
 
 *549|
 [fc]
-All of it seems so dear to me, and I find myself utterly[r]
-enchanted.[pcms]
+全てが愛おしく思え、[r]
+思わずうっとりとしてしまう。[pcms]
 
 *550|
 [fc]
-[ns]Wataru[nse]
-"Ah...aah. Yuuho...! We are..."[pcms]
+[ns]航[nse]
+「あ……ああっ。悠帆……！[r]
+　ボク達はっ……」[pcms]
 
 *551|
 [fc]
 [vo_yuh s="yuho_YK0099"]
-[ns]Yuuho[nse]
-"...Wa, ta, ruuu...nn..."[pcms]
+[ns]悠帆[nse]
+「…………わ、た、るぅぅ………んっ……」[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る

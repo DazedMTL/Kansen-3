@@ -23,49 +23,49 @@
 
 *1857|
 [fc]
-[ns]Wataru[nse]
-"Kousuke!? Yuuho, and Ren too? Why are you all here?"[pcms]
+[ns]航[nse]
+「コースケ！？　悠帆、それに漣も？[r]
+　どうしてここに？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1858|
 [fc]
 [vo_ren s="ren0950"]
-[ns]Ren[nse]
-"Big brother!! Uwaaaaaaah!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃん！！　うわあああぁああん！！」[pcms]
 ;//＠安堵の涙。
 
 *1859|
 [fc]
-Ren, with her face wet with tears, ran towards me screaming[r]
-and hugged me.[pcms]
+漣は顔中を涙で濡らし、叫びながらボクに駆け寄り、抱きついた。[pcms]
 
 *1860|
 [fc]
-What on earth happened? Kousuke and Yuuho also look[r]
-completely drained.[pcms]
+いったい、何があったんだろう？[r]
+コースケも、悠帆もぐったりした顔をしている。[pcms]
 
 *1861|
 [fc]
-[ns]Wataru[nse]
-"What in the world happened?"[pcms]
+[ns]航[nse]
+「一体……何があった？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1862|
 [fc]
 [vo_yuh s="yuho0899"]
-[ns]Yuuho[nse]
-"All of a sudden, the boss... he started acting strange...[r]
-He attacked Ren- chan... and Kousuke..."[pcms]
+[ns]悠帆[nse]
+「急に親分さんが……おかしくなっちゃって……。[r]
+　漣ちゃんに襲いかかってきて……コースケが……」[pcms]
 ;//〆：親分の表記の整合性を確認
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1863|
 [fc]
-[ns]Tadahiko[nse]
-"Acting strange, you say... could it be the old man...?"[pcms]
+[ns]忠彦[nse]
+「おかしくって、オメェ……もしかしてオヤジ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -75,248 +75,249 @@ He attacked Ren- chan... and Kousuke..."[pcms]
 
 *1864|
 [fc]
-[ns]Boss[nse]
-"Heeekoooooo!! Where is it!! Heekooooo!!! Ahahaha! I feel so[r]
-good, hey!! Bring me women! Bring me women!"[pcms]
+[ns]親分[nse]
+「ひぃこぉおぉおぉぉおお～～！！[r]
+　何処だぁ！！　ひこぉおおぉおお！！！　あひゃひゃひゃ！[r]
+　気分良いなぁ、オイィ！！　女ァ！　女連れてこいやぁ！」[pcms]
 
 *1865|
 [fc]
-The growling voice coming from behind the door was[r]
-definitely the boss's, but it wasn't the voice of the[r]
-injured man from just a moment agoit was the voice we heard[r]
-when we were running around the school.[pcms]
+扉の奥から聞こえてくるうなり声は、確かに親分のもの[r]
+だったけど、ついさっきまでの怪我人の『それ』ではなく、[r]
+学園を逃げ回っていた時に聞いたあの声――。[pcms]
 
 *1866|
 [fc]
-It sounded like the voice of an "infected."[pcms]
+『感染者』の声に似ていた。[pcms]
 
 *1867|
 [fc]
-More than sounding like it, from what Yuuho said, it seems[r]
-the boss has already been infected and gone mad.[pcms]
+似ていた、と言うより悠帆の話を聞く限りだと、[r]
+親分はもう感染して、おかしくなってしまっている。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c5"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1868|
 [fc]
-[ns]Tadahiko[nse]
-"...! The old man!? Damn it..."[pcms]
+[ns]忠彦[nse]
+「……！　お、オヤジ！？　クソッ……」[pcms]
 
 *1869|
 [fc]
-Tadahiko...[pcms]
+彦ちん……。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1870|
 [fc]
-It seemed that Tadahiko, just like me, had accepted that the[r]
-boss had completely lost his mind.[pcms]
+彦ちんも、ボクと同じように親分が完全に[r]
+おかしくなったことを認めているようだった。[pcms]
 
 *1871|
 [fc]
-Tadahiko closed his eyes and looked down, grinding his teeth[r]
-and repeatedly pounding on the door.[pcms]
+彦ちんは目を閉じてうつむいたまま、歯ぎしりしながら、[r]
+何度も、何度も扉を叩いた。[pcms]
 
 *1872|
 [fc]
-In Tadahiko's world, the boss was like a parent. Being[r]
-infected meant the same as death for that person.[pcms]
+彦ちんの世界では、親分は親と同じようなもの、と言う。[r]
+感染者になってしまったと言うことは、[r]
+同時にその人の死をも意味する。[pcms]
 
 *1873|
 [fc]
-In other words, for Tadahiko, this situation was...[pcms]
+すなわち、彦ちんにとって、今のこの状況は……。[pcms]
 
 *1874|
 [fc]
-But in this state, and with the boss having turned out like[r]
-that, there was nothing I could do.[pcms]
+だけど、今この状態で、しかも親分が[r]
+ああなってしまった以上、ボクにはどうすることもできない。[pcms]
 
 *1875|
 [fc]
-I couldn't even offer any comforting words...[pcms]
+気の利いた言葉さえ、かける事もできない……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1876|
 [fc]
 [vo_ren s="ren0951"]
-[ns]Ren[nse]
-"Tch..."[pcms]
+[ns]漣[nse]
+「つっ……」[pcms]
 ;//＠苦しそうに
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1877|
 [fc]
-[ns]Kousuke[nse]
-"Are you okay!?"[pcms]
+[ns]浩助[nse]
+「だ、大丈夫か！？」[pcms]
 
 *1878|
 [fc]
-[ns]Wataru[nse]
-"What's wrong, Ren!? Did you get hurt?"[pcms]
+[ns]航[nse]
+「どうした、漣！？　もしかして怪我したのか？」[pcms]
 
 *1879|
 [fc]
-The boss must have done something to Ren while he was[r]
-infected. She winced in pain while holding her wrist.[pcms]
+親分が感染した状態で、漣に何かしたのだろう。[r]
+手首を押さえながら、小さな呻き声を上げた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1880|
 [fc]
 [vo_ren s="ren0952"]
-[ns]Ren[nse]
-"No... it's just that he gripped it so hard it hurts... But[r]
-I'm okay..."[pcms]
+[ns]漣[nse]
+「ううん……すごい力で握られたから、痛くて……。[r]
+　でも、大丈夫だよ……」[pcms]
 
 *1881|
 [fc]
-With that said, she presented her wrist in front of me.[pcms]
+そういって、ボクの目の前に手首を差し出した。[pcms]
 
 *1882|
 [fc]
-[ns]Wataru[nse]
-"Indeed, there are no cuts or bruises... But if anything[r]
-happens, let me know right away..."[pcms]
+[ns]航[nse]
+「確かに、傷とかないな……。痣にもなってないし……。[r]
+　……でも、何かあったらすぐに言ってくれよ……」[pcms]
 
 *1883|
 [fc]
 [vo_ren s="ren0953"]
-[ns]Ren[nse]
-"Okay..."[pcms]
+[ns]漣[nse]
+「うん……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1884|
 [fc]
-[ns]Kousuke[nse]
-"Ren-chan, was it that hand? Did something happen?"[pcms]
+[ns]浩助[nse]
+「漣ちゃん、そっちの手だっけ？　なんかされたの」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1885|
 [fc]
 [vo_ren s="ren0954"]
-[ns]Ren[nse]
-"Eh? No, this one..."[pcms]
+[ns]漣[nse]
+「え？　こ、こっちだよ……」[pcms]
 
 *1886|
 [fc]
-[ns]Wataru[nse]
-"Just to be sure, show me the other one too. If anything[r]
-happened to Ren, I wouldn't be able to face our father... or[r]
-our mother..."[pcms]
+[ns]航[nse]
+「一応、もう片方も見せてくれよ。漣に何かあったら、[r]
+　父さんにも……母さんにも申し訳が立たないから……」[pcms]
 
 *1887|
 [fc]
-Ren hesitantly extended her white wrist to me to check for[r]
-any injuries.[pcms]
+漣はためらいつつも、ボクに白い手首を差し出し、[r]
+傷がないかどうか、確かめさせた。[pcms]
 
 *1888|
 [fc]
-Her fine and smooth white skin indeed had not a single[r]
-scratch on it.[pcms]
+キメ細かく、滑らかな白い肌には、確かに傷一つなかった。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1889|
 [fc]
-I was worried about Ren alone, but Yuuho was attacked too. I[r]
-wonder if she's okay...[pcms]
+思わず漣だけ心配しちゃってたけど、悠帆も襲われたんだ、[r]
+大丈夫かな……。[pcms]
 
 *1890|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, are you alright?"[pcms]
+[ns]航[nse]
+「悠帆、君は大丈夫？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1891|
 [fc]
 [vo_yuh s="yuho0900"]
-[ns]Yuuho[nse]
-"Eh...? I'm fine, nothing happened to me..."[pcms]
+[ns]悠帆[nse]
+「え……？　わ、わたしは何ともないけど……」[pcms]
 
 *1892|
 [fc]
-For some reason I don't understand, Yuuho, who was wiping[r]
-her hands with her skirt, replied in surprise.[pcms]
+なぜだか判らないけど、スカートで手をぬぐっていた悠帆が、[r]
+驚いたように返事をする[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1893|
 [fc]
 [vo_yuh s="yuho0901"]
-[ns]Yuuho[nse]
-"I'm really okay because the boss didn't really touch me."[pcms]
+[ns]悠帆[nse]
+「わたしは親分さんには特に触られてないから、大丈夫だよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1894|
 [fc]
-[ns]Kousuke[nse]
-"Yuuho, what were you doing with your skirt? Come to think[r]
-of it... weren't you trying to pull away the boss's hand?"[pcms]
+[ns]浩助[nse]
+「悠帆、スカートで何してたんだ？　そう言えば……[r]
+　親分さんの手、引きはがそうとしてなかったか？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1895|
 [fc]
 [vo_yuh s="yuho0902"]
-[ns]Yuuho[nse]
-"No, it's really just a feeling. Don't worry about it..."[pcms]
+[ns]悠帆[nse]
+「ううん、ほんとに気分的なものだから。[r]
+　気にしないで……」[pcms]
 
 *1896|
 [fc]
-Indeed, looking at Yuuho there were no injuries or wounds[r]
-anywhere. She should be fine.[pcms]
+確かに、悠帆の何処を見ても怪我とか、傷はなかった。[r]
+大丈夫だろう。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1897|
 [fc]
-[ns]Wataru[nse]
-"How about Kousuke?"[pcms]
+[ns]航[nse]
+「コースケは？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1898|
 [fc]
-[ns]Kousuke[nse]
-"Don't underestimate me. I wouldn't go down that easily. But[r]
-I might have scraped my ass..."[pcms]
+[ns]浩助[nse]
+「オレをなめるな。そんな簡単にやられたりしないよ。[r]
+　ただ、ケツすりむいたかも……」[pcms]
 
 *1899|
 [fc]
-[ns]Wataru[nse]
-"Your ass?"[pcms]
+[ns]航[nse]
+「ケツ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1900|
 [fc]
-[ns]Kousuke[nse]
-"No, it's nothing..."[pcms]
+[ns]浩助[nse]
+「いや、何でもない……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1901|
 [fc]
-Kousuke started to say something but then stopped himself.[r]
-It doesn't seem like he's hiding anything in particular.[pcms]
+何か言いかけて、そこで言葉を止めたコースケだけど、[r]
+コイツも特に何かを隠している訳ではなさそうだ。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1902|
 [fc]
-[ns]Wataru[nse]
-"For now, it looks like everyone is okay. Thank goodness..."[pcms]
+[ns]航[nse]
+「とりあえず、今のところは全員平気みたいだね。[r]
+　良かった……」[pcms]
 
 ;//se043・扉を強く叩く
 [se buf=0 storage="se043"]
@@ -325,79 +326,84 @@ It doesn't seem like he's hiding anything in particular.[pcms]
 
 *1903|
 [fc]
-[ns]Wataru[nse]
-"Tadahiko..."[pcms]
+[ns]航[nse]
+「彦ちん……」[pcms]
 
 *1904|
 [fc]
-As if reacting to my words of "thank goodness," Tadahiko[r]
-pounded on the door forcefully.[pcms]
+ボクの言った『良かった』に反応したかのように、[r]
+彦ちんが強く扉を叩いた。[pcms]
 
 *1905|
 [fc]
-That's right... With the boss being like this, I shouldn't[r]
-have said "thank goodness." Did I make Tadahiko angry?[pcms]
+そうだった……。親分さんがこんな風になっちゃってるのに、[r]
+良かった、なんて言っちゃった……。[r]
+彦ちんを怒らせちゃったかな。[pcms]
 
 *1906|
 [fc]
-The eyes that had been closed were now sharper than usual as[r]
-he took a deep breath.[pcms]
+それまで閉じていた目は、いつも以上の鋭い目つきに[r]
+代わって、大きく息を吸い込んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1907|
 [fc]
-[ns]Tadahiko[nse]
-"...Dad... I'll make it easy for you..."[pcms]
+[ns]忠彦[nse]
+「……オヤジ……楽にしてやる……」[pcms]
 
 *1908|
 [fc]
-Tadahiko reached for his waist and pulled out a heavy, dull[r]
-shining lump of iron-- a handgun.[pcms]
+彦ちんは腰に手をやると、重く鈍く輝く鉄の塊を――[r]
+一丁の拳銃を取り出した。[pcms]
 
 *1909|
 [fc]
-"Make it easy for you" means... Tadahiko is going to...[pcms]
+『楽にしてやる』って事は……。[r]
+彦ちんは、親分さんを……。[pcms]
 
 *1910|
 [fc]
-[ns]Wataru[nse]
-"Tadahiko..."[pcms]
+[ns]航[nse]
+「彦ち……」[pcms]
 
 *1911|
 [fc]
-[ns]Tadahiko[nse]
-"Shut up, Wataru. I have to do this... only I can do it. No[r]
-matter what anyone says, I have no choice but to do it."[pcms]
+[ns]忠彦[nse]
+「黙ってろ、航。[r]
+　俺が……俺しかできねぇんだよ、コレは。[r]
+　何言われたって、俺はやるしかねえ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c5"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1912|
 [fc]
-[ns]Tadahiko[nse]
-"Dad also... he wouldn't want others to see him in such a[r]
-state...!! Besides, no one else should see Dad like that!"[pcms]
+[ns]忠彦[nse]
+「オヤジだって……あんなザマになってんの、[r]
+　他のヤツラに見られたくないって言ってんだよ……！！[r]
+　それに、俺以外にゃオヤジのあんな所……見せらんねえ！」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c4"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1913|
 [fc]
-We were so overwhelmed by Tadahiko's intensity that we[r]
-couldn't even move a finger.[pcms]
+彦ちんの勢いにボクたちは気圧されてしまい、[r]
+指先一本動かせなくなってしまっていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1914|
 [fc]
-While we all looked down, trying our best not to look at[r]
-Tadahiko, only Maruko- senpai was staring at him intently.[pcms]
+ただうつむき、彦ちんをできるだけ見ない様にしている[r]
+ボクたちだったけど、ただ一人マル子先輩だけは、[r]
+彦ちんをじっと見つめていた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1915|
 [fc]
-[ns]Tadahiko[nse]
-"Dad..."[pcms]
+[ns]忠彦[nse]
+「オヤジ……」[pcms]
 
 ;//se040・扉を開ける
 [se buf=0 storage="se040"]
@@ -407,14 +413,16 @@ Tadahiko, only Maruko- senpai was staring at him intently.[pcms]
 
 *1916|
 [fc]
-[ns]Boss[nse]
-"Hikoooooaaaahhh!!! What the hell is that attitude?!"[pcms]
+[ns]親分[nse]
+「ひこぁああぁあああ！！！[r]
+　テメェ、何だァその態度はよぉ！！」[pcms]
 
 *1917|
 [fc]
-[ns]Boss[nse]
-"Ooohahahahaha!! Hiko~! You've become a full-fledged man,[r]
-oi! Heheh!! Gahahaha! Gah! Do it!!"[pcms]
+[ns]親分[nse]
+「おあぁははははぁあはは！！！[r]
+　ひこぉ～！　お前、一人前になったなぁ、オイィ！！[r]
+　ひひっ！！　がはははっ！　がはっ！　ヤれぇぇぇ！！」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -434,8 +442,8 @@ oi! Heheh!! Gahahaha! Gah! Do it!!"[pcms]
 
 *1918|
 [fc]
-[ns]Tadahiko[nse]
-"I'm sorry... Dad."[pcms]
+[ns]忠彦[nse]
+「すまねえ……。オヤジ」[pcms]
 
 ;//@konya 立ちキャラとの不整合のためコメントオフ
 ;//彦ちんは親分さんに、自分の着ていたジャケット――
@@ -443,114 +451,113 @@ oi! Heheh!! Gahahaha! Gah! Do it!!"[pcms]
 
 *1919|
 [fc]
-Tadahiko closed his eyes and gave a slight bow to the boss.[pcms]
+彦ちんは目を閉じ、親分さんに軽く頭を下げた。[pcms]
 
 *1920|
 [fc]
-As if by agreement, we all offered a silent prayer, just[r]
-like Tadahiko.[pcms]
+ボクたちも、みな申し合わせたかのように、[r]
+彦ちんと同じく黙祷を捧げた。[pcms]
 
 *1921|
 [fc]
-[ns]Tadahiko[nse]
-"Dad, you ended up like this... Covered in blood, I can't[r]
-even touch you... Maybe you were already gone inside the[r]
-office."[pcms]
+[ns]忠彦[nse]
+「オヤジ、こんなんなっちまってよ……。[r]
+　こんなに血まみれじゃ、触る事もできねぇけど……、[r]
+　多分事務所ん中からすでに駄目だったのかもしれねぇな」[pcms]
 
 *1922|
 [fc]
-[ns]Tadahiko[nse]
-"Dad, you were swinging around your sword, cutting down[r]
-several people, maybe you got scratched by them while[r]
-escaping here."[pcms]
+[ns]忠彦[nse]
+「オヤジ、ポン刀ブン回してたしよ、[r]
+　そん時、何人も斬ってたし、ここに逃げてくる途中で[r]
+　アイツらに引っ掻かれたのかもしれねえ」[pcms]
 
 *1923|
 [fc]
-[ns]Tadahiko[nse]
-"And maybe..."[pcms]
+[ns]忠彦[nse]
+「それに、もしかしたら……」[pcms]
 
 *1924|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 *1925|
 [fc]
-Tadahiko fell silent and never finished what he was going to[r]
-say after "And maybe..."[pcms]
+彦ちんは、それっきり黙り込んでしまって[r]
+『もしかしたら……』の後に続くはずの事を[r]
+言うことはなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1926|
 [fc]
 [vo_ren s="ren0955"]
-[ns]Ren[nse]
-"He had a scary face, but he helped with the festival and[r]
-even showed up for the town's trash pick-up, he was a good[r]
-person..."[pcms]
+[ns]漣[nse]
+「怖い顔してたけど、お祭り手伝ってくれたり、[r]
+　街のゴミ拾いにも顔出してくれたり、いい人だったよね……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1927|
 [fc]
 [vo_yuh s="yuho0903"]
-[ns]Yuuho[nse]
-"Yeah..."[pcms]
+[ns]悠帆[nse]
+「うん……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1928|
 [fc]
-Indeed, the boss was kind to us as well.[pcms]
+確かに、親分さんはボクたちにも優しくしてくれた。[pcms]
 
 *1929|
 [fc]
-Not just because we had dealings with Tadahiko, but he was[r]
-gentlemanly without discrimination towards those who were[r]
-not his enemies...[pcms]
+ボクたちが彦ちんと付き合いがあるからとかじゃなく、[r]
+敵でない者に対しては分け隔てなく紳士的で……[pcms]
 
 *1930|
 [fc]
-Aside from his appearance, he didn't seem at all like[r]
-someone from that kind of profession.[pcms]
+見た目以外はとてもそう言った職業の人とは[r]
+思えないくらいだった。[pcms]
 
 *1931|
 [fc]
-If someone with whom you have no acquaintance dies before[r]
-your eyes, you would feel fear, sadness, and various other[r]
-emotions.[pcms]
+なんの面識もない人が目の前で死んでいっても、[r]
+怖いとか、哀しいとか、色々思うだろう。[pcms]
 
 *1932|
 [fc]
-In front of me now, several people I was close to had died.[pcms]
+今のボクの目の前では、[r]
+親しい人が何人も死んでしまっている。[pcms]
 
 *1933|
 [fc]
-And yet...[pcms]
+なのに……。[pcms]
 
 *1934|
 [fc]
-The sadness has exceeded its limits, and I don't feel[r]
-anything in particular. I do feel lonely, but no more than[r]
-that.[pcms]
+哀しさが限界を超えてしまって、特に何も感じない。[r]
+寂しいとは思うけど、それ以上の感情はなかった。[pcms]
 
 *1935|
 [fc]
-But.[pcms]
+でも。[pcms]
 
 *1936|
 [fc]
-If Yuuho or Ren, Kousuke and our childhood friends, Maruko-[r]
-senpai, or Tadahiko were to die, I wonder how I would feel.[pcms]
+もし、悠帆や、漣、コースケ達幼馴染みや、[r]
+マル子先輩、彦ちんが死んでしまったら[r]
+ボクはどう思うんだろう。[pcms]
 
 *1937|
 [fc]
-Would it be just "loneliness" like now?[pcms]
+今と同じ『寂しい』だけで済むのかな。[pcms]
 
 *1938|
 [fc]
-I hope that time never comes...[pcms]
+そのときが来なければ、それに越したことはないけど……。[pcms]
 
 ;//〆：フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -565,54 +572,54 @@ I hope that time never comes...[pcms]
 
 *1939|
 [fc]
-Rubber boots. Raincoat.[pcms]
+長靴。[r]
+レインコート。[pcms]
 
 *1940|
 [fc]
-Clad in waterproof gear, we made preparations to move[r]
-through the underground passage, with Tadahiko leading the[r]
-way.[pcms]
+それら防水グッズに身を固め、[r]
+地下通路を移動する準備を整えたボクたちは、[r]
+彦ちんを先頭にして移動を開始した。[pcms]
 
 *1941|
 [fc]
-Having left the school behind and moved a bit towards the[r]
-station direction, Tadahiko suddenly spoke up.[pcms]
+学園を背にして、駅方向へと少し移動した所で、[r]
+彦ちんがぽつりと口を開いた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1942|
 [fc]
-[ns]Tadahiko[nse]
-"Above here is where Toyo Hand is built. Just past that a[r]
-bit is a T-junction. If you turn left there..., you're[r]
-almost directly under the main street."[pcms]
+[ns]忠彦[nse]
+「この上はよ、東洋ハンドが建ってんだ。[r]
+　そのちょっと先にＴ字路がある。そこを左に曲がると……、[r]
+　大通りのほぼ真下だ」[pcms]
 
 *1943|
 [fc]
-[ns]Tadahiko[nse]
-"Beyond that is under Meiji Street and connects to Shibuya[r]
-River."[pcms]
+[ns]忠彦[nse]
+「その先は明治通りの下で、渋谷川につながっている」[pcms]
 
 *1944|
 [fc]
-[ns]Tadahiko[nse]
-"If you turn right, there's a slope in front of Hand, right?[r]
-Along that slope is a gently descending staircase. We're[r]
-going through there now."[pcms]
+[ns]忠彦[nse]
+「右に曲がると、ハンド前の坂があるだろ？[r]
+　あの坂に沿って、なだらかな下り階段があるんだ。[r]
+　今はそっちを通るぞ」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1945|
 [fc]
-Even after hearing Tadahiko's explanation, we couldn't[r]
-imagine Toyo Hand being above our heads.[pcms]
+彦ちんの説明を聞いても、ボクたちの頭の上に、[r]
+東洋ハンドがあるなんて、想像もできなかった。[pcms]
 
 *1946|
 [fc]
-However, when we came upon the gentle descending staircase[r]
-Tadahiko mentioned, recalling the slope in front of Hand[r]
-made it seem somewhat believable.[pcms]
+ただ、彦ちんが言うなだらかな下り階段にさしかかった時、[r]
+ハンド前の坂を思い出すと、何となく、[r]
+それが本当かと思えた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -624,74 +631,70 @@ made it seem somewhat believable.[pcms]
 *1947|
 [fc]
 [vo_mar s="maru0997"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1948|
 [fc]
 [vo_ren s="ren0956"]
-[ns]Ren[nse]
-"What is this..."[pcms]
+[ns]漣[nse]
+「なに、コレ……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1949|
 [fc]
 [vo_yuh s="yuho0904"]
-[ns]Yuuho[nse]
-"This is the worst. I feel like vomiting from the smell of[r]
-mold..."[pcms]
+[ns]悠帆[nse]
+「最悪。カビの匂いで吐きそう……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1950|
 [fc]
-The girls complained one after another, but I couldn't get[r]
-used to the smell either.[pcms]
+口々に文句を言う女の子たちだが、[r]
+ボクもこの匂いには慣れる事はできなかった。[pcms]
 
 *1951|
 [fc]
-Looking down at our feet, there were remnants of mold and[r]
-sludge clinging everywhere as if water had once flowed[r]
-there.[pcms]
+足下を見ると、水の流れがあったのか、[r]
+カビやヘドロの残がいがそこかしこにこびりついていた。[pcms]
 
 *1952|
 [fc]
-We had walked nearly 100 meters already, but ahead was[r]
-darkness, and it was hard to estimate how much longer this[r]
-condition would continue.[pcms]
+もう１００メートル近く歩いたけど、向かう先は暗闇で、[r]
+あとどのくらいこの状態が続くのか、検討がつかなかった。[pcms]
 
 *1953|
 [fc]
-And as we progressed, the smell of sewage grew stronger.[pcms]
+それに進むに従って下水の匂いがきつくなっていく。[pcms]
 
 *1954|
 [fc]
-[ns]Wataru[nse]
-"Tadahiko... I can't stand this smell anymore..."[pcms]
+[ns]航[nse]
+「彦ちん……ボク、もうこの匂い耐えられない……」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1955|
 [fc]
-[ns]Tadahiko[nse]
-"Stop whining. We're almost there. Look, can you see that[r]
-iron grate? Once we get past there, it'll get better."[pcms]
+[ns]忠彦[nse]
+「ぼやくな。もう着くぞ。ほら、あの鉄格子、見えるか？[r]
+　あそこさえ抜ければ、まだマシになる」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1956|
 [fc]
-Sure enough, there was a lattice-like door where he pointed[r]
-with just his eyes.[pcms]
+目線だけで指し示した先には、確かに格子状の扉があった。[pcms]
 
 *1957|
 [fc]
-At last, we'll be free from this smell...[pcms]
+ようやく、この匂いから開放される……。[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -701,12 +704,11 @@ At last, we'll be free from this smell...[pcms]
 
 *1958|
 [fc]
-The iron grate door had no lock, and it opened easily with a[r]
-push.[pcms]
+鉄格子の扉には鍵はなく、手で押すと簡単に開いた。[pcms]
 
 *1959|
 [fc]
-Continuing on, there was a basement made of concrete.[pcms]
+そのまま進むと、そこにはコンクリートでできた地下室があった。[pcms]
 
 ;//〆：コンクリートの地下室
 ;//@konya 渋谷地下　合流部
@@ -715,39 +717,40 @@ Continuing on, there was a basement made of concrete.[pcms]
 
 *1960|
 [fc]
-There was a pool about 1.5 meters deep on the floor, filled[r]
-with murky sewage water up to about ankle height.[pcms]
+床に深さ１．５メートルほどのプールがあって、[r]
+その中にはくるぶしくらいの高さまで、[r]
+濁った下水が溜まっていた。[pcms]
 
 *1961|
 [fc]
-Looking around the walls, the concrete was chipped away in[r]
-places, exposing bits of rebar.[pcms]
+壁を見回すと、コンクリートが所々はげ落ちていて、[r]
+鉄筋がちらほら見えていた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1962|
 [fc]
-[ns]Kousuke[nse]
-"What's that...? Are there stairs at the back?"[pcms]
+[ns]浩助[nse]
+「なんだあれ……。奥の方に階段がある？」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1963|
 [fc]
-Where Kousuke pointed the light, there were short stairs,[r]
-perhaps for descending into the pool.[pcms]
+コースケが明かりを向けた先には、[r]
+プールに降りる為だろうか、短い階段があった。[pcms]
 
 *1964|
 [fc]
-Beyond that, near the pool's wall, there was something like[r]
-a passage or tunnel that even we could crawl through. There[r]
-were several other tunnel-like structures as well.[pcms]
+そのさらに先、プールの壁には、ボクたちでもかがめば[r]
+通れる程の通路のような、トンネルの様なものがあった。[r]
+他にも何カ所かトンネルの様なものがあった。[pcms]
 
 *1965|
 [fc]
-Without a word, Tadahiko headed towards one of them. We had[r]
-no choice but to follow him.[pcms]
+その中の一つに、無言のままの彦ちんが向かう。[r]
+ボクたちは彼について行くしかなかった。[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -760,55 +763,55 @@ no choice but to follow him.[pcms]
 *1966|
 [fc]
 [vo_mar s="maru0998"]
-[ns]Margarita[nse]
-"This smell again..."[pcms]
+[ns]マルガリータ[nse]
+「またこの匂いか」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1967|
 [fc]
 [vo_yuh s="yuho0905"]
-[ns]Yuuho[nse]
-"I hate that I'm starting to get used to it..."[pcms]
+[ns]悠帆[nse]
+「そろそろ慣れて来た気がする自分がイヤ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1968|
 [fc]
-We continued through the tunnel, which Tadahiko called a[r]
-"distribution pipe."[pcms]
+しばらくはトンネル、彦ちん曰く『配水管』の中を[r]
+進んでいたボクたち。[pcms]
 
 *1969|
 [fc]
-If it were brighter, the distance wouldn't have been so[r]
-bothersome.[pcms]
+もっと明るければ、それほど気にならない距離だったろう。[pcms]
 
 *1970|
 [fc]
-But now, even moving one meter seemed to take a long time.[pcms]
+だけど、今は１メートル進むのにも、[r]
+長い時間が過ぎているように思える。[pcms]
 
 *1971|
 [fc]
-Perhaps due to mental fatigue, we became less talkative when[r]
-we started hearing the sound of flowing water from ahead.[pcms]
+精神的な疲労からか、言葉少なめになってきたころ、[r]
+前方から、水の流れる音が聞こえてきた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1972|
 [fc]
-[ns]Tadahiko[nse]
-"We're close to the outside. Just a bit more and we'll reach[r]
-the Utagawa culvert. It's much better than this crappy[r]
-passage. Hang in there, everyone."[pcms]
+[ns]忠彦[nse]
+「外が近いぞ。もう少しで宇多川の暗渠だ。[r]
+　今のこのクソみたいな通路より全然マシだ。[r]
+　もう少し頑張れ、みんな」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1973|
 [fc]
-Tadahiko really knew these underground passages well. Just[r]
-as he said that, the path widened.[pcms]
+彦ちんは、この地下通路を本当に熟知している。[r]
+今までと同じように、そう言ったすぐ直後に道の幅が広がった。[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -819,85 +822,82 @@ as he said that, the path widened.[pcms]
 
 *1974|
 [fc]
-[ns]Wataru[nse]
-"Indeed, it's a bit better..."[pcms]
+[ns]航[nse]
+「確かに、ちょっとはマシだね……」[pcms]
 
 *1975|
 [fc]
-Until now we had to stoop slightly to pass through, but with[r]
-the change in height, our bodies could relax.[pcms]
+それまでは少しかがみ気味で通ってきたのが、[r]
+高さが変わったことで身体は楽になった。[pcms]
 
 *1976|
 [fc]
-A passage wide enough for two adults to walk side by side[r]
-without any problem welcomed us.[pcms]
+大人二人が並んで歩いても、全く問題のない広さの通路が、[r]
+ボクたちを出迎えた。[pcms]
 
 *1977|
 [fc]
-It was as dark as before, but a little further aheadperhaps[r]
-from above groundthere was a strip of light shining through.[pcms]
+今までと同じくらいの暗さだったけど、[r]
+少し先に――地上からのものだろうか――帯状の光が[r]
+差し込んでいる部分があった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1978|
 [fc]
 [vo_ren s="ren0957"]
-[ns]Ren[nse]
-"I'm glad we wore boots. It's been nothing but puddles."[pcms]
+[ns]漣[nse]
+「長靴はいててよかったね。ずーっと水たまりだもの」[pcms]
 
 *1979|
 [fc]
-[ns]Wataru[nse]
-"Ren, are you tired?"[pcms]
+[ns]航[nse]
+「漣、疲れてないか？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1980|
 [fc]
 [vo_ren s="ren0958"]
-[ns]Ren[nse]
-"No, I'm fine. You'll be left behind if you don't keep up,[r]
-big brother."[pcms]
+[ns]漣[nse]
+「うん、大丈夫だよ。おいてかれるよ、お兄ちゃん」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1981|
 [fc]
-The amount of water at our feet was still about ankle-deep,[r]
-but perhaps because we were near the bottom of a slope, the[r]
-flow had become faster.[pcms]
+足下の水量は相変わらず足首くらいまでだったけど、[r]
+下り坂の底辺に近いからか、水の流れが速くなっていた。[pcms]
 
 *1982|
 [fc]
-Thanks to that, the sewage smell was slightly less intense.[pcms]
+そのおかげで、下水の匂いは少しだけ和らいでいた。[pcms]
 
 *1983|
 [fc]
-...Although it might just be that my nose has become numb to[r]
-it.[pcms]
+……もっとも、ボクの鼻が麻痺しちゃったのかもしれないけど。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1984|
 [fc]
-[ns]Tadahiko[nse]
-"We're almost there. We'll soon be out on Utagawa Street."[pcms]
+[ns]忠彦[nse]
+「そろそろだ。もうじき宇多川通りに出られる」[pcms]
 
 *1985|
 [fc]
-[ns]Tadahiko[nse]
-"Beyond that... to the right is upstream, leading to our[r]
-town and Yoyogi-Uehara, but as you go upstream the passage[r]
-narrows. The limit for people to pass is about under our[r]
-town."[pcms]
+[ns]忠彦[nse]
+「その先は……右手が上流になっていて、[ruby text="四つ葉瀬町"][ch text="俺らの街"]や、[r]
+　代々木上原の方に出るんだが、上流に行くに従って通路が[r]
+　狭くなる。人が通れるのは俺らの街の下くらいが限界だ」[pcms]
 
 *1986|
 [fc]
-[ns]Tadahiko[nse]
-"But we're not heading that way. We're going towards Shibuya[r]
-Station. This side actually widens... Anyway, from here on[r]
-out, watch your step. The current will get faster."[pcms]
+[ns]忠彦[nse]
+「だが、向かうのはそっちじゃねえ。渋谷駅の方に行くんだ。[r]
+　こっち側は逆に通路が広くなる。……それはさておきだ、[r]
+　こっから先、足下に気を付けろ。流れがもっと速くなる」[pcms]
 
 ;//位置は、保育園の横の道から、
 ;//宇田川通りに出る場所。
@@ -907,70 +907,68 @@ out, watch your step. The current will get faster."[pcms]
 *1987|
 [fc]
 [vo_yuh s="yuho0906"]
-[ns]Yuuho[nse]
-"Huh...? It sounds like a waterfall."[pcms]
+[ns]悠帆[nse]
+「あれ……？　滝みたいな音がするね」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1988|
 [fc]
-[ns]Tadahiko[nse]
-"That's a confluence... sort of like a sewage merging point[r]
-with a weir. But we're not going that far. I'll say it[r]
-again. Watch your step."[pcms]
+[ns]忠彦[nse]
+「ありゃ合流ん所……下水の合流点みたいなモンで、[r]
+　堰があるんだ。だが、そこまでは行かねえ。[r]
+　もう一回言うぞ。足下に気を付けろよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1989|
 [fc]
 [vo_mar s="maru0999"]
-[ns]Margarita[nse]
-"Understood."[pcms]
+[ns]マルガリータ[nse]
+「わかった」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1990|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, got it..."[pcms]
+[ns]浩助[nse]
+「お、おう……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1991|
 [fc]
-The path we're currently on is right beneath the streets we[r]
-usually walk on...[pcms]
+今ボクたちが通っているのは、いつも歩いている道の真下……。[pcms]
 
 *1992|
 [fc]
-In other words, it stretches along Utagawa Street where Reco[r]
-Village and LASER face.[pcms]
+つまり、レコ村やＬＡＳＥＲが面している[r]
+宇多川通りに沿って伸びている。[pcms]
 
 *1993|
 [fc]
-[ns]Wataru[nse]
-"It feels somewhat unreal that there's this kind of[r]
-passageor rather, culvertright under the ground we walk on[r]
-without thinking much about it."[pcms]
+[ns]航[nse]
+「何気に歩いていた地面の下に、こんな通路が……いや、[r]
+　暗渠があるなんて、イマイチ現実味がないんだよね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1994|
 [fc]
-[ns]Kousuke[nse]
-"Yeah... I had heard about its existence, but walking[r]
-through it is another strange experience..."[pcms]
+[ns]浩助[nse]
+「そうだな……。ここの存在は聞いていたけど、[r]
+　実際に歩いてみると、また不思議なモンだな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1995|
 [fc]
 [vo_mar s="maru1000"]
-[ns]Margarita[nse]
-"...Domestic wastewater just flows freely. Unable to process[r]
-it properly, Utagawa became a filthy river and was covered[r]
-up for the Olympics... hidden from tourists."[pcms]
+[ns]マルガリータ[nse]
+「……家庭排水はタレ流し。処理する能力もないまま、[r]
+　ドブ川になってしまった宇多川を、オリンピックの為に……[r]
+　観光客の前から覆い隠す為……」[pcms]
 
 ;//後半の「観光客の前から覆い隠す為……」くどくないですか？
 ;//次のセリフでも説明続くので不要な気がします。
@@ -978,175 +976,169 @@ up for the Olympics... hidden from tourists."[pcms]
 *1996|
 [fc]
 [vo_mar s="maru1001"]
-[ns]Margarita[nse]
-"At the same time, to solve the stench problem, with the[r]
-technology of that time, hiding it underground was the only[r]
-option."[pcms]
+[ns]マルガリータ[nse]
+「それと同時に、異臭問題を解決するには、[r]
+　当時の技術力では、地下に隠すしかなかったんだ」[pcms]
 
 *1997|
 [fc]
 [vo_mar s="maru1002"]
-[ns]Margarita[nse]
-"However, now... with advanced technology today, instead of[r]
-hiding it like this, it might be good to make it visible to[r]
-people again."[pcms]
+[ns]マルガリータ[nse]
+「しかし、今なら……技術が進歩した今なら、[r]
+　こんな風に隠すのではなくて、再び人の目に触れるように[r]
+　しても良いのかもしれないな」[pcms]
 
 *1998|
 [fc]
 [vo_mar s="maru1003"]
-[ns]Margarita[nse]
-"The Shibuya River running underground from Shinjuku Gyoen[r]
-to Harajuku... if we make the underground part visible from[r]
-outside, we could revive Shibuya as a 'river town'"[pcms]
+[ns]マルガリータ[nse]
+「新宿御苑から原宿の地下を通っている渋谷川……、[r]
+　地下を通っている部分も外から見えるようにして、[r]
+　川の街『渋谷』を復活させれば――」[pcms]
 
 *1999|
 [fc]
 [vo_mar s="maru1004"]
-[ns]Margarita[nse]
-"It might become a city with a different charm than now.[r]
-Well, this isn't really the time to talk about this..."[pcms]
+[ns]マルガリータ[nse]
+「今とはまた違う魅力を持った街にできるかもしれないな。[r]
+　まあ、今この段で言うべき事ではないが……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2000|
 [fc]
 [vo_yuh s="yuho0907"]
-[ns]Yuuho[nse]
-"Maruko-senpai, you're well-informed..."[pcms]
+[ns]悠帆[nse]
+「マル子先輩、詳しいですね……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2001|
 [fc]
 [vo_ren s="ren0959"]
-[ns]Ren[nse]
-"Yeah, I'm surprised. There was so much I didn't know..."[pcms]
+[ns]漣[nse]
+「うん、驚いちゃった。[r]
+　私も知らないことばっかりだったし……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2002|
 [fc]
-Maruko-senpai's story contained many things Ren said she[r]
-didn't know.[pcms]
+マル子先輩の話した内容は、[r]
+漣の言うとおり知らないことが多かった。[pcms]
 
 *2003|
 [fc]
-But listening to her talk made me think as well.[pcms]
+だけど、話を聞いていて、ボクも思うところがあった。[pcms]
 
 *2004|
 [fc]
-Tall buildings for development and artificial lights that[r]
-illuminate the surroundings like daytime at night are[r]
-convenient but...[pcms]
+いわゆる、開発の為に背の高いビルや、[r]
+便利ではあるけど、夜でも昼の様に辺りを照らす人口の光。[pcms]
 
 *2005|
 [fc]
-Maruko-senpai talked about the river driven underground. I[r]
-thought about the river of sky obscured by artificial light.[pcms]
+マル子先輩は、地下に追いやられた川を。[r]
+ボクは、人口の光にかき消された空の川を。[pcms]
 
 *2006|
 [fc]
-I felt a bit of anger towards this city for erasing[r]
-everything for human ego.[pcms]
+全て人のエゴの為にかき消した[ruby text="渋谷"][ch text="この街"]に対して、[r]
+少し腹立たしさを覚えた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2007|
 [fc]
-[ns]Kousuke[nse]
-"I admit you're knowledgeable, but... how should I put it?[r]
-Maruko-senpai, are you an underground maniac?"[pcms]
+[ns]浩助[nse]
+「詳しいのは認めるけどさ……なんて言うの？[r]
+　マル子先輩って、地下マニア？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2008|
 [fc]
 [vo_mar s="maru1005"]
-[ns]Margarita[nse]
-"Maniac? It's not like that. In my case, it's because my[r]
-mother... my mother's hometown, Jikka, was in Yotsubase[r]
-Town."[pcms]
+[ns]マルガリータ[nse]
+「マニア？　そんなものじゃない。[r]
+　ワタシの場合は、母様が……母様の生まれ故郷の、[ruby text="実家"][ch text="ジッカ"][r]
+　と言ったか。それが四つ葉瀬町にあったからだ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2009|
 [fc]
 [vo_yuh s="yuho0908"]
-[ns]Yuuho[nse]
-"Now that you mention it, your last name? 'Homura', I've[r]
-heard it before..."[pcms]
+[ns]悠帆[nse]
+「そう言えば、先輩の名字？　の『穂村』って、[r]
+　聞いた事が……」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2010|
 [fc]
-[ns]Tadahiko[nse]
-"Homura? Ah! Now that you mention it... it's been over a[r]
-decade, but I definitely remember the name 'Homura'...[r]
-That's it! The general store Homura!"[pcms]
+[ns]忠彦[nse]
+「穂村？　ああ！　そう言えば……もう十ン年前になるが、[r]
+　確かに『穂村』って名前の……アレだ！　雑貨屋の穂村か！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2011|
 [fc]
 [vo_mar s="maru1006"]
-[ns]Margarita[nse]
-"That's right. My mother is the eldest daughter of that[r]
-general store, named 'Hitomi'."[pcms]
+[ns]マルガリータ[nse]
+「そうだ。ワタシの母様はその雑貨屋の長女で、『[ruby text="ヒトミ"][ch text="仁美"]』と言う」[pcms]
 
 *2012|
 [fc]
-I also have memories of running errands there a few times. I[r]
-never thought I'd be connected to Maruko-senpai in a place[r]
-like this.[pcms]
+ボクも何度かお使いにいった記憶がある。[r]
+まさか、こんな所でマル子先輩とつながるなんて[r]
+思ってもいなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2013|
 [fc]
-[ns]Tadahiko[nse]
-"The general store's poster girl, yeah... I used to admire[r]
-her too. ...But then I heard she married and moved overseas.[r]
-That surprised me back then."[pcms]
+[ns]忠彦[nse]
+「雑貨屋の看板娘でよ……俺も憧れたモンだぜ。[r]
+　……つっても、海越えて嫁に行っちまったなんて聞いてよ。[r]
+　あん時ぁ、驚いたもんだぜ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2014|
 [fc]
-[ns]Kousuke[nse]
-"But the Homura general store closed down years ago, right?[r]
-Now there's a different store there, but what about the[r]
-people from that general store... How is Maruko-senpai's[r]
-family doing?"[pcms]
+[ns]浩助[nse]
+「でもさ、穂村雑貨屋って何年も前に潰れただろ？[r]
+　今はそこ、別の店入ってるけど、今あの雑貨屋の人達……。[r]
+　マル子先輩の家の人って、どうしてるんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2015|
 [fc]
 [vo_mar s="maru1007"]
-[ns]Margarita[nse]
-"The shopkeepers, my grandparents. They closed down the[r]
-general store and moved to Kofu to live a leisurely life.[r]
-But both of them passed away five years ago."[pcms]
+[ns]マルガリータ[nse]
+「お店の店主、ワタシの祖父母だな。二人は雑貨屋を畳んで[r]
+　のんびりと暮らすために、甲府の方へと引っ越した。[r]
+　だが五年前に二人とも亡くなった」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2016|
 [fc]
-[ns]Tadahiko[nse]
-"They used to send New Year's cards and summer greetings to[r]
-our office every year without fail... Even five years ago,[r]
-when Hitomi's grandparents passed away, we received a[r]
-postcard in her name."[pcms]
+[ns]忠彦[nse]
+「ウチの事務所にもよ、毎年律儀に年賀状、暑中見舞いって[r]
+　送って来てくれてたなあ……。５年前に、ネェちゃんの[r]
+　祖父母がなくなったときも、仁美名義でハガキ来たな」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2017|
 [fc]
-[ns]Tadahiko[nse]
-"Oops, that's enough reminiscing. We've arrived at our[r]
-destination."[pcms]
+[ns]忠彦[nse]
+「おっと、昔話はここまでだ。目的地に着いたぞ」[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1157,580 +1149,578 @@ destination."[pcms]
 
 *2018|
 [fc]
-The destination we were told about was yet another drainage[r]
-ditch. However, this time there was no water flow, and it[r]
-seemed easy to walk through.[pcms]
+目的地、と言う所は、またしても排水溝だった。[r]
+だが、今回は水の流れはなく、歩きやすそうだった。[pcms]
 
 *2019|
 [fc]
-The path that was said to be our destination and appeared[r]
-easy to walk on seemed like a road of hope to me, if only a[r]
-little.[pcms]
+目的地だと聞かされた事と、歩きやすそうなその道は、[r]
+ボクには少しだけ、希望の道に見えた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2020|
 [fc]
-[ns]Tadahiko[nse]
-"From here on, it's straight ahead. You guys go first. We[r]
-don't need a guide anymore."[pcms]
+[ns]忠彦[nse]
+「こっからは真っ直ぐだ。お前ら先にいけ。[r]
+　もう案内もいらねえからな」[pcms]
 
 *2021|
 [fc]
-Tadahiko watched over us as we proceeded through the[r]
-passageway. Soon after passing through the drainage ditch,[r]
-we came upon a room-like space that was vertically long.[pcms]
+彦ちんはボクたちを見守るようにして、通路へと進ませる。[r]
+その排水溝を通ると、すぐに縦に長い小部屋の様な所に出た。[pcms]
 
 *2022|
 [fc]
-At the end of the small room, U-shaped iron bars were[r]
-embedded, forming a ladder.[pcms]
+小部屋の突き当たりには、Ｕの字の鉄の棒が埋め込まれ、[r]
+ハシゴの様になっていた。[pcms]
 
 *2023|
 [fc]
-The U-shaped bars were precisely aligned on the wall that[r]
-stretched straight up. Above them was a large square hatch.[pcms]
+真っ直ぐ上へと伸びる壁に、正確に並んだＵの字。[r]
+そのさらに上には、四角い大きなハッチが見えた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2024|
 [fc]
-[ns]Tadahiko[nse]
-"There's a lever next to that hatch. If you push it, the[r]
-lock will disengage and the lid will open. It's simple, so[r]
-anyone should be able to do it."[pcms]
+[ns]忠彦[nse]
+「あのハッチの脇にレバーがあるんだが、それを押せば、[r]
+　ロックが外れて、蓋が浮く仕組みになっている。[r]
+　簡単だから、誰でもできるはずだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2025|
 [fc]
 [vo_mar s="maru1008"]
-[ns]Margarita[nse]
-"I'm wearing a skirt. The men should go up first. It's not[r]
-something I want you guys to see under these clear[r]
-circumstances."[pcms]
+[ns]マルガリータ[nse]
+「ワタシはスカートだ。男性陣が先に昇ってくれ。[r]
+　わかりきっている状態で、お前達に[r]
+　見せるものではないからな」[pcms]
 
 *2026|
 [fc]
-Maruko-senpai said this while holding down the hem of her[r]
-skirt.[pcms]
+マル子先輩はスカートの裾を抑えながら、そう言った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2027|
 [fc]
-[ns]Kousuke[nse]
-"We don't have the luxury to worry about that right now...[r]
-really..."[pcms]
+[ns]浩助[nse]
+「今そんなことしてる余裕ないでしょ……まったく……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2028|
 [fc]
 [vo_mar s="maru1009"]
-[ns]Margarita[nse]
-"You seem to have the luxury to complain."[pcms]
+[ns]マルガリータ[nse]
+「悪態をつく余裕はあるんだな」[pcms]
 
 *2029|
 [fc]
-Maruko-senpai handed Kousuke the headlamp and urged him with[r]
-her eyes to go ahead.[pcms]
+コースケにヘッドランプを渡し、先に進むよう[r]
+目で促すマル子先輩。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2030|
 [fc]
-[ns]Kousuke[nse]
-"Understood... Then, let's go..."[pcms]
+[ns]浩助[nse]
+「わかりましたよ……。じゃあ、行くぜ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2031|
 [fc]
-Kousuke carefully climbed the staircase that seemed to be[r]
-about four meters high.[pcms]
+４メートルはあろうかという階段を、[r]
+慎重に登っていくコースケ。[pcms]
 
 *2032|
 [fc]
-Kousuke, who naturally had physical strength and agility,[r]
-quickly reached the hatch and operated the lever as Tadahiko[r]
-had described.[pcms]
+元々体力も、運動神経もあるコースケは、[r]
+あっと言う間にハッチまでたどり着き、[r]
+彦ちんの言う『レバー』を操作した。[pcms]
 
 *2033|
 [fc]
-Then, light from above immediately shone through,[r]
-illuminating the surroundings.[pcms]
+すると、すぐに地上からの光が差し込み、辺りを照らす。[pcms]
 
 *2034|
 [fc]
-Having light is calming... Being in the dark really gets you[r]
-down...[pcms]
+光があると落ち着くなあ……。[r]
+やっぱり、暗い所だと気が滅入っちゃうもんな……。[pcms]
 
 *2035|
 [fc]
-After moving in the dark for a while, I re-realized the[r]
-importance of light.[pcms]
+しばらくの間、暗闇で移動していたボクは、光の大切さを[r]
+再認識した。[pcms]
 
 *2036|
 [fc]
-[ns]Kousuke[nse]
-"It's safe up here."[pcms]
+[ns]浩助[nse]
+「上は大丈夫だ」[pcms]
 
 *2037|
 [fc]
-Hearing Kousuke's voice, the girls went up first. Tadahiko[r]
-and I were sternly told by Maruko-senpai not to look up.[pcms]
+コースケの声を聞き、女の子達が先に登る。[r]
+ボクと彦ちんは、マル子先輩に『上を見るな』と[r]
+クギをさされた。[pcms]
 
 *2038|
 [fc]
-Maruko-senpai and Yuuho went up in that order. Now it was[r]
-just Ren, me, and Tadahiko left.[pcms]
+マル子先輩、悠帆の順で登っていく。[r]
+あとは、漣とボクと彦ちんだ。[pcms]
 
 *2039|
 [fc]
-It wouldn't be good if anything happened to Ren. It would be[r]
-better to let her go up first.[pcms]
+漣に万が一があるといけない。[r]
+先に登らせておいた方がいい。[pcms]
 
 *2040|
 [fc]
-[ns]Wataru[nse]
-"Don't rush, Ren. Take your time climbing up; it'll be[r]
-okay."[pcms]
+[ns]航[nse]
+「慌てなくていいからね、漣。[r]
+　ゆっくり、登っていけば大丈夫だから」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2041|
 [fc]
 [vo_ren s="ren0960"]
-[ns]Ren[nse]
-"Okay."[pcms]
+[ns]漣[nse]
+「うん」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2042|
 [fc]
-Ren climbed up one step at a time, carefully following my[r]
-instructions.[pcms]
+一段、また一段と、ボクの言いつけを守るように、[r]
+確認しながら登る漣。[pcms]
 
 *2043|
 [fc]
-After confirming that Ren had made it up, I put my hand on[r]
-the staircase. Just as I was about to lift my foot, Tadahiko[r]
-stopped me.[pcms]
+漣が登り切った事を確認したボクは、階段に手をかけた。[r]
+足を上げようとした矢先、彦ちんはボクを引き留めた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2044|
 [fc]
-[ns]Tadahiko[nse]
-"Wataru, come here for a sec."[pcms]
+[ns]忠彦[nse]
+「航、ちっと来てくれ」[pcms]
 
 *2045|
 [fc]
-[ns]Wataru[nse]
-"...?"[pcms]
+[ns]航[nse]
+「……？」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2046|
 [fc]
-After telling the four people above to wait a moment,[r]
-Tadahiko and I returned to the waterway we came from.[pcms]
+上にいる４人に、少し待ってと声をかけ、[r]
+彦ちんと二人、元来た用水路へと戻る。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2047|
 [fc]
-[ns]Tadahiko[nse]
-"Wataru... this is as far as I go."[pcms]
+[ns]忠彦[nse]
+「航……俺はここまでだ」[pcms]
 
 *2048|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 *2049|
 [fc]
-[ns]Tadahiko[nse]
-"She... Inori is still waiting at the shop... You go ahead[r]
-with everyone else. I'll come back with Inori."[pcms]
+[ns]忠彦[nse]
+「アイツが……緒織がまだ店で待ってるからな……[r]
+　お前はみんなと一緒に、先に行け。[r]
+　俺ァ緒織を連れて戻ってくるからよ」[pcms]
 
 *2050|
 [fc]
-[ns]Wataru[nse]
-"...Tadahiko! Even for you, going alone is dangerous! We can[r]
-help too..."[pcms]
+[ns]航[nse]
+「……彦ちん！　いくら彦ちんでも、[r]
+　一人で行くのは危ないよ！[r]
+　ボクらだって、力になれるから……」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2051|
 [fc]
-[ns]Tadahiko[nse]
-"Kids like you would just get in the way! I'm better off[r]
-alone! Besides, this is my job. You get that?"[pcms]
+[ns]忠彦[nse]
+「オメェらみたいなガキじゃ、却って足手まといなんだよ！[r]
+　俺一人の方が全然マシだ！[r]
+　それにコレは俺の仕事なんだよ。わかるか？」[pcms]
 
 *2052|
 [fc]
-[ns]Tadahiko[nse]
-"I'm going to fetch the woman I love. Inori is my woman, not[r]
-some kid's plaything. She's the woman I love."[pcms]
+[ns]忠彦[nse]
+「俺は、俺が惚れた女を連れに行くんだ。[r]
+　俺の女だぞ、緒織は。オメェみたいなガキのモンじゃねえ。[r]
+　緒織は、俺の愛した女だ」[pcms]
 
 *2053|
 [fc]
-[ns]Tadahiko[nse]
-"So I have to take responsibility. Wataru... You must have a[r]
-girl you like too. A girl you need to protect! Do your job!"[pcms]
+[ns]忠彦[nse]
+「だから、俺が責任とらなきゃならねぇんだよ。[r]
+　航……オメェだって好きな女いるだろ。守らなきゃならねえ[r]
+　女もいるだろ！　お前は、お前の仕事をしろ！」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2054|
 [fc]
-[ns]Tadahiko[nse]
-"First of all, risking your life for someone important...[r]
-especially for a woman you love is the best job there is! I[r]
-won't have some kid helping me with that; it would ruin my[r]
-manhood."[pcms]
+[ns]忠彦[nse]
+「第一よ、大事な身内……特に惚れた女の為に命張るってな、[r]
+　最高の仕事だぜ！？　それをオメェみたいなガキに[r]
+　手伝って貰うなんて、男が廃るぜ」[pcms]
 
 *2055|
 [fc]
-[ns]Wataru[nse]
-"But..."[pcms]
+[ns]航[nse]
+「でも……」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2056|
 [fc]
-[ns]Tadahiko[nse]
-"No buts or excuses! First of all, Wataru, you... haven't[r]
-even confessed to Yuuho yet, have you?"[pcms]
+[ns]忠彦[nse]
+「でももヘッタクレもねえ！　第一、航、お前……[r]
+　悠帆にまだコクってねぇんだろ？」[pcms]
 
 *2057|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2058|
 [fc]
-[ns]Tadahiko[nse]
-"I'll repeat it, you have to do your own job. If we don't[r]
-finish this soon, we'll end up like shooting stars, you[r]
-know?"[pcms]
+[ns]忠彦[nse]
+「繰り返すけどな、自分の仕事は、自分でやるんだ。[r]
+　さっさと仕事終わらせねぇとな、流れ星になっちまうぜ？」[pcms]
 
 *2059|
 [fc]
-[ns]Wataru[nse]
-"Ah..."[pcms]
+[ns]航[nse]
+「あ……」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2060|
 [fc]
-[ns]Tadahiko[nse]
-"If you're a man and there's something you want to say...[r]
-something you want to convey, do it while you can.[r]
-Especially if it's to someone important."[pcms]
+[ns]忠彦[nse]
+「オメェも男なら、言いたいこと……伝えたい事が[r]
+　あるんなら、伝えたいウチにやっておけ。[r]
+　それが大切な人に対してなら、なおさらだ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2061|
 [fc]
-[ns]Tadahiko[nse]
-"People change, for better or for worse. That goes for you[r]
-and Yuuho too. So if you think your feelings at the moment[r]
-are important, convey them then and there."[pcms]
+[ns]忠彦[nse]
+「人ってな、良い意味でも悪い意味でも、どんどん変わるモンだ。[r]
+　お前にしても、悠帆にしてもな。だから、その時の気持ちが[r]
+　大切だと思ったら、そのときに伝えちまえ」[pcms]
 
 *2062|
 [fc]
-[ns]Tadahiko[nse]
-"Once you've said it, it's out there. Regardless of what the[r]
-other person thinks. Like I said before, feelings change."[pcms]
+[ns]忠彦[nse]
+「伝えちまえばこっちのモンだ。[r]
+　相手がどう思うかはさておきな。さっき言ったように、[r]
+　気持ちってな変わるモンだからな」[pcms]
 
 *2063|
 [fc]
-[ns]Tadahiko[nse]
-"First of all, in this situation, you or Yuuho could die.[r]
-Wouldn't it be regrettable if you died before saying what[r]
-you wanted to say?"[pcms]
+[ns]忠彦[nse]
+「第一こんな有様じゃ、オメェだって悠帆だって[r]
+　死んじまうかもしれねぇ。お前、言いたいこと言う前に[r]
+　死んだら浮かばれねぇぞ？」[pcms]
 
 *2064|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *2065|
 [fc]
-Tadahiko's words are reasonable.[pcms]
+彦ちんの言うことはもっともだ。[pcms]
 
 *2066|
 [fc]
-Without a word to return, and without nodding in agreement,[r]
-I just listened to what Tadahiko had to say.[pcms]
+返す言葉もなく、かといってうなずいて賛同するでもなく。[r]
+ボクはただ、彦ちんの言うことを聞いていた。[pcms]
 
 *2067|
 [fc]
-[ns]Tadahiko[nse]
-"You might be a wimp, but I think you're a man with a core.[r]
-Remember how you protected Ren when she was being bullied as[r]
-a kid? Even when you got hit, you didn't cry but glared[r]
-back."[pcms]
+[ns]忠彦[nse]
+「オメェはヘタレだが、芯のある男だと俺は思ってる。[r]
+　ほれ、子供の頃虐められてた漣を守ってやってたろ。[r]
+　殴られても、泣いたりせずにらみ返したりしてたよな」[pcms]
 
 *2068|
 [fc]
-[ns]Tadahiko[nse]
-"I thought that was pretty impressive."[pcms]
+[ns]忠彦[nse]
+「ありゃたいしたモンだと思ってたんだぜ、俺は」[pcms]
 
 *2069|
 [fc]
-[ns]Wataru[nse]
-"...I'm not that amazing..."[pcms]
+[ns]航[nse]
+「……ボクは、そんなに凄くなんかないよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2070|
 [fc]
-[ns]Tadahiko[nse]
-"Heh..."[pcms]
+[ns]忠彦[nse]
+「へっ……」[pcms]
 
 *2071|
 [fc]
-Tadahiko laughed as he flicked my forehead.[pcms]
+彦ちんは笑いながらボクの額をこづく。[pcms]
 
 *2072|
 [fc]
-Back when I was beaten up by bullies, Tadahiko would comfort[r]
-me like this...[pcms]
+昔……イジメッ子にボコボコにされたあと、[r]
+ボクを慰めようと、こんな風にしてくれてたな……。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2073|
 [fc]
-[ns]Tadahiko[nse]
-"That's why I acknowledge you as a man. No, I already did.[r]
-...I wouldn't mind entrusting her to you."[pcms]
+[ns]忠彦[nse]
+「だからよ、そんなオメェを、俺は一人の男として認める。[r]
+　いや、認めてたんだよ。[r]
+　……オメェになら、コイツを渡してもいい」[pcms]
 
 *2074|
 [fc]
-[ns]Wataru[nse]
-"...?"[pcms]
+[ns]航[nse]
+「……？」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2075|
 [fc]
-As he said that, Tadahiko turned towards me with a smile I[r]
-had never seen before and reached around his waist.[pcms]
+そう言うと、今まで見たこともない笑顔をボクに向け、[r]
+彦ちんは自分の腰に手を回す。[pcms]
 
 *2076|
 [fc]
-After fumbling around his waist, Tadahiko's hand was[r]
-gripping a pistol.[pcms]
+ごそごそと腰をまさぐったあとの彦ちんの手には、[r]
+一丁の拳銃が握りしめられていた。[pcms]
 
 *2077|
 [fc]
-[ns]Wataru[nse]
-"T-Tadahiko..."[pcms]
+[ns]航[nse]
+「ひ、彦ちん……」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2078|
 [fc]
-[ns]Tadahiko[nse]
-"You use this. You have the right to hold it now."[pcms]
+[ns]忠彦[nse]
+「コイツは、お前が使え。[r]
+　今のオメェには、コイツを持つ資格がある」[pcms]
 
 *2079|
 [fc]
-[ns]Wataru[nse]
-"I can't accept that... Besides, Kousuke and Maruko-senpai[r]
-have..."[pcms]
+[ns]航[nse]
+「そんなの……ボクは受け取れないよ……。[r]
+　それに、コースケやマル子先輩が持って……」[pcms]
 
 *2080|
 [fc]
-Interrupting my words, Tadahiko pressed on.[pcms]
+ボクの言葉を遮って、彦ちんがたたみかける。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2081|
 [fc]
-[ns]Tadahiko[nse]
-"No. You hold onto this. I've decided. It's no good with the[r]
-others. It has to be you."[pcms]
+[ns]忠彦[nse]
+「いいや。コイツはお前が持て。俺が決めたんだ。[r]
+　他のヤツラじゃ駄目だ。お前じゃなきゃ、な」[pcms]
 
 *2082|
 [fc]
-What should I do? I've never used a gun before...[pcms]
+どうしよう。[r]
+銃なんて使った事もないし……。[pcms]
 
 *2083|
 [fc]
-And it's scary. A weapon that can take someone's life with[r]
-just a pull of the trigger.[pcms]
+それに、怖い。[r]
+引き金を引くだけで、相手の命を奪う凶器が。[pcms]
 
 *2084|
 [fc]
-I'm scared of holding it myself.[pcms]
+それを持つボク自体も怖い。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2085|
 [fc]
-[ns]Tadahiko[nse]
-"Take it. From now on, you have to protect Yuuho and the[r]
-others from the infected."[pcms]
+[ns]忠彦[nse]
+「受け取れ。お前はこれから、感染者から悠帆たちを[r]
+　守らなきゃならねぇ」[pcms]
 
 *2086|
 [fc]
-[ns]Tadahiko[nse]
-"And not just the infected. Even those who seem sane might[r]
-do anything in this state."[pcms]
+[ns]忠彦[nse]
+「それに、感染者だけじゃない。[r]
+　まともに見えるヤツラだって、[r]
+　こんな状態じゃ何するかわからねえからな」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2087|
 [fc]
-[ns]Tadahiko[nse]
-"You have a strong core but are weak in fights... Keep it[r]
-for when it really matters."[pcms]
+[ns]忠彦[nse]
+「お前は芯は強いが、ケンカは弱いからな……。[r]
+　いざって時の為に取っておけ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2088|
 [fc]
-The smile disappeared from Tadahiko's face as he glared at[r]
-me.[pcms]
+彦ちんの顔からは笑顔が消え、ボクを睨む。[pcms]
 
 *2089|
 [fc]
-I wasn't scared.[pcms]
+怖くはなかった。[pcms]
 
 *2090|
 [fc]
-The reason Tadahiko was glaring at me was because he was[r]
-serious.[pcms]
+彦ちんがボクを睨んでいる理由は、真剣だから。[pcms]
 
 *2091|
 [fc]
-He wasn't trying to intimidate me... He was seriously[r]
-entrusting the gun to me.[pcms]
+威嚇しようとしてるんじゃなくて……。[r]
+本気で、ボクに銃を預けようとしているから。[pcms]
 
 *2092|
 [fc]
-Pressed by Tadahiko's intensity, I made up my mind.[pcms]
+彦ちんの気迫に押され、ボクは決意をした。[pcms]
 
 *2093|
 [fc]
-[ns]Wataru[nse]
-"Tadahiko... I understand. I'll take care of it."[pcms]
+[ns]航[nse]
+「彦ちん……わかったよ。ボクが、預かるよ」[pcms]
 
 *2094|
 [fc]
-As I firmly received the unexpectedly heavy gun with both[r]
-hands, Tadahiko's expression became even more stern.[pcms]
+予想以上に重い銃を両手でしっかり受け取ると、[r]
+彦ちんの表情は、いっそう険しくなった。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2095|
 [fc]
-[ns]Tadahiko[nse]
-"Can you shoot?"[pcms]
+[ns]忠彦[nse]
+「撃てるか？」[pcms]
 
 *2096|
 [fc]
-[ns]Wataru[nse]
-"...I don't know. I've never shot before, and this is the[r]
-first time I've even held one..."[pcms]
+[ns]航[nse]
+「……わかんないよ。[r]
+　撃ったことないし、手に持ったのも今が初めてだし……」[pcms]
 
 *2097|
 [fc]
-Wataru and Tadahiko remained silent for a while, focusing on[r]
-the gun in their hands.[pcms]
+ボクと彦ちんは、手の中の銃に注目したまま、[r]
+しばらく黙り込んだ。[pcms]
 
 *2098|
 [fc]
-Gazing at the gun, Tadahiko muttered softly.[pcms]
+銃を見つめたまま、彦ちんがぽつりとつぶやいた。[pcms]
 
 *2099|
 [fc]
-[ns]Tadahiko[nse]
-"Don't fire recklessly."[pcms]
+[ns]忠彦[nse]
+「むやみに弾くんじゃねえぞ」[pcms]
 
 *2100|
 [fc]
-[ns]Wataru[nse]
-"Yeah... I'll aim carefully and shoot cautiously."[pcms]
+[ns]航[nse]
+「うん……。良く狙って、慎重に撃つよ」[pcms]
 
 *2101|
 [fc]
-[ns]Tadahiko[nse]
-"...That's not what I mean."[pcms]
+[ns]忠彦[nse]
+「……違う。そうじゃねえ」[pcms]
 
 *2102|
 [fc]
-[ns]Wataru[nse]
-"Eh..."[pcms]
+[ns]航[nse]
+「え……」[pcms]
 
 *2103|
 [fc]
-The two of us looked up from the gun at the same time.[pcms]
+じっと銃だけを見つめていた二人は、同時に顔を上げた。[pcms]
 
 *2104|
 [fc]
-[ns]Tadahiko[nse]
-"When you put your finger on the trigger, think carefully[r]
-about what it means to fire that gun. Once you've thought it[r]
-through and decided to put your finger on the trigger...[r]
-don't hesitate after that. Got it?"[pcms]
+[ns]忠彦[nse]
+「引き金に指をかける時はな……そいつを弾くって事の意味を[r]
+　良く考えてからにしろ。考えて、考え抜いた末に引き金に[r]
+　指をかけたなら……あとは、絶対に迷うな。いいな？」[pcms]
 
 *2105|
 [fc]
-The meaning of firing? About the other person...?[pcms]
+弾くって事の意味？[r]
+相手の事を……？[pcms]
 
 *2106|
 [fc]
-What exactly does that mean?[pcms]
+一体、どういう事なんだろう。[pcms]
 
 *2107|
 [fc]
-[ns]Tadahiko[nse]
-"You got that?"[pcms]
+[ns]忠彦[nse]
+「わかったか？」[pcms]
 
 *2108|
 [fc]
-[ns]Wataru[nse]
-"Ah... yeah, yeah..."[pcms]
+[ns]航[nse]
+「あ……う、うん……」[pcms]
 
 *2109|
 [fc]
-Not quite understanding what was said, I stood there[r]
-dumbfounded as Tadahiko gripped my shoulder firmly, brought[r]
-his face close, and looked straight at me.[pcms]
+言われた事がイマイチ理解できなくて、[r]
+少し惚けているボクの肩を彦ちんが力強く握り、[r]
+そのまま顔を近づけ、真っ直ぐに見つめる。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c4"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2110|
 [fc]
-[ns]Tadahiko[nse]
-"Wataru! Put some spirit into it, will ya?!"[pcms]
+[ns]忠彦[nse]
+「航！　オメェ、気合い入れろよォ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *2111|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 *2112|
 [fc]
-We looked at each other in silence once more, with eyes full[r]
-of mutual trust.[pcms]
+ボクたちは、また無言のまま見つめ合う。[r]
+お互いを信頼する目つきで。[pcms]
 
 *2113|
 [fc]
-Suddenly, Tadahiko let go of my shoulder and turned his back[r]
-to me.[pcms]
+不意に彦ちんがボクの肩を離し、くるりと背を向けた。[pcms]
 
 ;BGM即時停止
 [fadeoutbgm time=500]
@@ -1740,118 +1730,119 @@ to me.[pcms]
 
 *2114|
 [fc]
-[ns]Tadahiko[nse]
-"Later... Wataru!"[pcms]
+[ns]忠彦[nse]
+「あばよ……航！」[pcms]
 
 *2115|
 [fc]
-Without looking back, Tadahiko called out loudly as he[r]
-walked away.[pcms]
+そのまま、振り返りもせず大きな声を出す彦ちん。[pcms]
 
 [bgm storage="BGM06"]
 
 *2116|
 [fc]
-Later...?[pcms]
+あばよ……？[pcms]
 
 *2117|
 [fc]
-What...? What exactly is Tadahiko trying to say...?[pcms]
+そんな……。[r]
+彦ちんはいったい、何を……。[pcms]
 
 *2118|
 [fc]
-[ns]Wataru[nse]
-"Later, as in... Tadahiko!"[pcms]
+[ns]航[nse]
+「あばよ、って……彦ちん！」[pcms]
 
 *2119|
 [fc]
-[ns]Tadahiko[nse]
-"I can only say this to you... Sorry, but please pass the[r]
-message to everyone else. And also... ...nah, never mind."[pcms]
+[ns]忠彦[nse]
+「お前にだけしか言えねぇな……ワリィが、お前から[r]
+　みんなに伝えておいてくれ……あとな……[r]
+　……いや、何でもない」[pcms]
 
 *2120|
 [fc]
-Tadahiko... It's almost like a farewell...[pcms]
+彦ちん……。[r]
+まるで、お別れみたいな……。[pcms]
 
 *2121|
 [fc]
-Tadahiko must have made up his mind. To go into the city[r]
-filled with infected, to save Inori-san.[pcms]
+彦ちんはきっと覚悟を決めたんだ。[r]
+緒織さんを助けるため、感染者のいる街へ行く事を。[pcms]
 
 *2122|
 [fc]
-"Don't follow me" "You protect Yuuho and the others"[pcms]
+『付いて来るな』[r]
+『お前は悠帆たちを守れ』[pcms]
 
 *2123|
 [fc]
-[ns]Wataru[nse]
-"Tadahiko..."[pcms]
+[ns]航[nse]
+「彦ちん……」[pcms]
 
 *2124|
 [fc]
-All I could do was stare at Tadahiko's broad back as he[r]
-walked away.[pcms]
+ボクは彦ちんの大きな背中を、ただ見つめる事しか[r]
+できないでいた。[pcms]
 
 *2125|
 [fc]
-As his figure grew distant, there was one thing that[r]
-troubled me.[pcms]
+遠くなる背中に対し、ボクは一つ気がかりな事があった。[pcms]
 
 *2126|
 [fc]
-Tadahiko always says "See ya" or "Catch you later" when we[r]
-part ways.[pcms]
+彦ちんは、ボクと別れるときは必ず『じゃあな』とか、[r]
+『またな』を言う。[pcms]
 
 *2127|
 [fc]
-But this time, he didn't say it. This was the first time he[r]
-left without saying anything.[pcms]
+だけど、今回はそれがなかった。[r]
+何も言わず立ち去るのは、今回が初めてだった。[pcms]
 
 *2128|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「……！」[pcms]
 
 *2129|
 [fc]
-The words Tadahiko started to say must have been "Catch you[r]
-later." He started to say it but stopped himself.[pcms]
+彦ちんが言いかけた言葉は、きっと『またな』だ。[r]
+それを言いかけて、止めたんだ。[pcms]
 
 *2130|
 [fc]
-Does that mean...? Is Tadahiko thinking that he might not[r]
-see us again? That he might die?[pcms]
+と言うことは、もう……？[r]
+彦ちんは、ボクたちと会えないかもしれないって……。[r]
+自分が死んでしまうかもしれないって考えてる？[pcms]
 
 *2131|
 [fc]
-The retreating figure finally disappeared into the darkness.[r]
-The sound of his footsteps also faded into the flow of[r]
-water.[pcms]
+見送る背中は、ついには完全に闇に消えた。[r]
+響いていた足音も、水の流れに消えていく。[pcms]
 
 *2132|
 [fc]
-No, we'll meet again. I'll see Tadahiko again and hear all[r]
-sorts of stories![pcms]
+……いや、また会える。[r]
+また彦ちんに会って、いろんな話を聞くんだ！[pcms]
 
 *2133|
 [fc]
-[ns]Wataru[nse]
-"Big brother!!"[pcms]
+[ns]航[nse]
+「兄さん！！」[pcms]
 
 *2134|
 [fc]
-I shouted as loud as I could, calling him "big brother"[r]
-instead of "Tadahiko," just like I used to.[pcms]
+力の限り声を振り絞って、昔呼んでいた様に、[r]
+『彦ちん』ではなくて『兄さん』と叫んだ。[pcms]
 
 *2135|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 *2136|
 [fc]
-But no matter how long I waited, there was no reply from[r]
-"big brother."[pcms]
+だけど、いくら待っても『兄さん』からの返事はなかった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

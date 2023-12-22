@@ -5,7 +5,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//---------------------------------------------------------------
 ;//block:A001
 ;//★ここからＴ４００２０で流用します
@@ -14,14 +14,13 @@
 
 *6710|
 [fc]
-[ns]Wataru[nse]
-"Should I head back..."[pcms]
+[ns]航[nse]
+「戻るか……」[pcms]
 
 *6711|
 [fc]
-I can't think of anything else I want to do, so I might as[r]
-well go back to my room. Maybe read some manga or play a[r]
-game...[pcms]
+別にやりたいことも思いつかないし、部屋に戻ろう。[r]
+漫画を読むか、ゲームでもするかな……。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -35,70 +34,71 @@ game...[pcms]
 *6712|
 [fc]
 [vo_ren s="ren_T0023"]
-[ns]Ren[nse]
-"Ah... Onii-chan!"[pcms]
+[ns]漣[nse]
+「あ……、お兄ちゃん！」[pcms]
 
 *6713|
 [fc]
-Just as I got off the elevator, I happened to run into Ren.[pcms]
+エレベーターを降りたところで、[r]
+ちょうど漣とはちあわせする形になった。[pcms]
 
 *6714|
 [fc]
-She was holding a violin case in her arms.[pcms]
+見れば腕にバイオリンケースを抱えている。[pcms]
 
 *6715|
 [fc]
-[ns]Wataru[nse]
-"Ren. Are you going to play the violin?"[pcms]
+[ns]航[nse]
+「漣。バイオリン、弾くの？」[pcms]
 
 *6716|
 [fc]
-At my words, Ren smiles happily.[pcms]
+ボクの言葉に漣は嬉しそうに微笑む。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6717|
 [fc]
 [vo_ren s="ren_T0024"]
-[ns]Ren[nse]
-"Yeah, I played a little bit yesterday, but I haven't been[r]
-practicing properly lately... I was wondering if there's a[r]
-place where I won't be in the way..."[pcms]
+[ns]漣[nse]
+「うん、昨日ちょこっと弾いたけど、[r]
+　最近ちゃんと練習してないから……。[r]
+　どこか、邪魔にならない場所、ないかなーって」[pcms]
 
 *6718|
 [fc]
-[ns]Wataru[nse]
-"Then the stage restaurant would be good. The acoustics are[r]
-nice there, and if it's the dome, everyone will be around."[pcms]
+[ns]航[nse]
+「それならステージレストランがいいよ。[r]
+　あそこなら音響もいいし、[r]
+　ドームだと、みんながいるからね」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6719|
 [fc]
 [vo_ren s="ren_T0025"]
-[ns]Ren[nse]
-"I see... Yeah, I'll do that!"[pcms]
+[ns]漣[nse]
+「そっか……。うん、そうするね！」[pcms]
 
 *6720|
 [fc]
-Come to think of it, I haven't really listened to Ren's[r]
-violin performance lately... The last time might have been[r]
-at the recital at the beginning of the year.[pcms]
+そういえば、漣のバイオリン演奏、[r]
+このところちゃんと聴いていなかったな……。[r]
+今年の頭にあった発表会が最後だったような気がする。[pcms]
 
 *6721|
 [fc]
-I could hear her practicing at school from afar, but I[r]
-hadn't seen her play.[pcms]
+もちろん学校で練習してるのは遠くからきこえていたけど[r]
+弾いてる姿は見ていなかったし。[pcms]
 
 *6722|
 [fc]
-[ns]Wataru[nse]
-"I'll join you."[pcms]
+[ns]航[nse]
+「ボクも付き合うよ」[pcms]
 
 *6723|
 [fc]
-It might be nice to listen to Ren's live performance once in[r]
-a while.[pcms]
+たまには漣の生演奏を聴くのもいいかなっていう気がした。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -108,168 +108,162 @@ a while.[pcms]
 
 *6724|
 [fc]
-Ren carefully took out her instrument from the case,[r]
-tightened the bow, and began tuning by playing a long open A[r]
-string on her collarbone.[pcms]
+ケースからそっと楽器を取り出した漣は、弓を張り、[r]
+鎖骨の上に構えるとＡ線の開放弦を長く弾き鳴らして[r]
+音を合わせ始めた。[pcms]
 
 ;//★ここまでの部分Ｔ４００２０で流用します。
 
 *6725|
 [fc]
-[ns]Wataru[nse]
-"...Hey, Ren"[pcms]
+[ns]航[nse]
+「…………なあ、漣」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6726|
 [fc]
 [vo_ren s="ren_T0026"]
-[ns]Ren[nse]
-"...What is it, Onii-chan?"[pcms]
+[ns]漣[nse]
+「……なぁに、お兄ちゃん？」[pcms]
 
 *6727|
 [fc]
-While adjusting the pegs and slightly raising the pitch, Ren[r]
-looks over with just her eyes.[pcms]
+ペグを巻いて少し音を上げながら、漣は目だけをこちらに向ける。[pcms]
 
 *6728|
 [fc]
-[ns]Wataru[nse]
-"Why did you give up on studying abroad?"[pcms]
+[ns]航[nse]
+「どうして、留学やめちゃったんだ？」[pcms]
 
 *6729|
 [fc]
-Ren seems to be quite a promising young violinist in the[r]
-country. She had received many invitations from prestigious[r]
-academies.[pcms]
+漣は若手のバイオリニストとしては国内では相当の注目株らしい。[r]
+いくつもの名門学園から入学の誘いがたくさん来ていた。[pcms]
 
 *6730|
 [fc]
-In a field where young performers often focus heavily on[r]
-technique, Ren's performances have a rich musicality. It[r]
-would be a waste not to develop this talent, and a certain[r]
-music university professor was very eager, repeatedly[r]
-encouraging her to study abroad.[pcms]
+技術志向の強くなりがちな若手演奏家が多い中で、漣の演奏には[r]
+豊かな音楽性があり、この才能を磨かないのはもったいないと、[r]
+ある音大の教授が熱心に何度も海外留学の勧誘にきていた。[pcms]
 
 *6731|
 [fc]
-I'm not knowledgeable about music, but Ren's performances[r]
-are indeed comforting. It's not about showing off[r]
-skillfulness, but rather music that seems to embrace the[r]
-listener's heart with its gentleness.[pcms]
+ボクは音楽には詳しくないけれど、確かに漣の演奏は心地よい。[r]
+これでもかと巧さを見せ付けるようなものでなく、[r]
+聴いている者の心に寄り添ってくるような、優しい音楽だ。[pcms]
 
 *6732|
 [fc]
-Even Dad was ready to send his beloved daughter to a foreign[r]
-land, given the expectations from those around her.[pcms]
+父さんも流石にそこまで周囲から期待されるなら、と、[r]
+可愛い娘を手放して異国の地に送り込む覚悟を決めていた。[pcms]
 
 *6733|
 [fc]
-But... Ren turned down all the offers and chose to enroll in[r]
-our local Kannami Academy instead...[pcms]
+だけど……漣は全ての誘いを断って[r]
+ボクと同じ地元の神南学園への入学を希望したんだ……。[pcms]
 
 *6734|
 [fc]
-[ns]Wataru[nse]
-"Even if you didn't want to go abroad, there are domestic[r]
-options. Wouldn't it have been better to hone your skills at[r]
-an academy specializing in music?"[pcms]
+[ns]航[nse]
+「海外に行くのがいやだったとしても、国内があるし。[r]
+　音楽の専攻できる学園とかで[r]
+　腕を磨いたほうが良かったんじゃないのかな？」[pcms]
 
 *6735|
 [fc]
-I was about to say that she intended to follow in our[r]
-mother's footsteps when I stopped myself.[pcms]
+それにお母さんの遺志を継ぐつもりなら……と言いかけて、[r]
+ボクは口をつぐむ。[pcms]
 
 *6736|
 [fc]
-Ren's real mother, who passed away, was apparently a[r]
-renowned violinist.[pcms]
+亡くなった漣の実のお母さんは、[r]
+著名なバイオリニストだったらしい。[pcms]
 
 *6737|
 [fc]
-Dad married her after producing her show, and that's when[r]
-Ren was born, as far as I know.[pcms]
+父さんが彼女の番組を作ったのをきっかけに結婚し、[r]
+漣が生まれたんだと聞いている。[pcms]
 
 *6738|
 [fc]
-If Ren wanted to become a performer like her mother, it[r]
-seems better for her to attend a school with a high level of[r]
-music education and receive specialized training...[pcms]
+もし漣がお母さんと同じような演奏家になりたいのなら[r]
+音楽のレベルが高い学校に入って、[r]
+専門教育を受けたほうが良かったように思うけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6739|
 [fc]
 [vo_ren s="ren_T0027"]
-[ns]Ren[nse]
-"But you know, Onii-chan... Good music education doesn't[r]
-necessarily mean you'll produce good sound."[pcms]
+[ns]漣[nse]
+「でもね、お兄ちゃん……。[r]
+　いい音楽教育を受ければ、[r]
+　いい音を出せるようになるとは限らないんだよ？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6740|
 [fc]
 [vo_ren s="ren_T0028"]
-[ns]Ren[nse]
-"Good performance technique and good music may seem[r]
-similar... but they're completely different things."[pcms]
+[ns]漣[nse]
+「いい演奏技術と、いい音楽とは、[r]
+　似てるけど……全然違うものだから」[pcms]
 
 *6741|
 [fc]
-Gently strumming a relaxed chord to check the tuning, Ren[r]
-smiles faintly.[pcms]
+最後にゆったりとした和音を奏でて調律を確かめながら[r]
+漣は微かに笑みを浮かべる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6742|
 [fc]
 [vo_ren s="ren_T0029"]
-[ns]Ren[nse]
-"The times when I can produce good sound are not when I[r]
-perform with high-level musicians, but when I'm with dear[r]
-friends and family..."[pcms]
+[ns]漣[nse]
+「私がいい音を奏でられるのは、[r]
+　レベルの高い演奏者と共演する時よりも、[r]
+　大切なお友達や家族と一緒にいる時……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6743|
 [fc]
 [vo_ren s="ren_T0030"]
-[ns]Ren[nse]
-"It's when I'm truly at peace and enveloped in trust that I[r]
-can create the best music..."[pcms]
+[ns]漣[nse]
+「心から安らいで、信頼に包まれて過ごす時が、[r]
+　一番、いい音楽を生み出せるの……」[pcms]
 
 *6744|
 [fc]
-Gently yet firmly, Ren states her point.[pcms]
+物柔らかに。だけどきっぱりと。漣は言い切る。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6745|
 [fc]
 [vo_ren s="ren_T0031"]
-[ns]Ren[nse]
-"Besides, I... didn't want to be separated from Dad and you[r]
-guys..."[pcms]
+[ns]漣[nse]
+「それにね、私……、[r]
+　お父さんや、お兄ちゃんたちと、離れたくなかったんだ……」[pcms]
 ;//＠ここだけ少し照れて
 
 *6746|
 [fc]
-A blush tints Ren's cheeks as she shyly readjusts her[r]
-instrument.[pcms]
+少しはにかんで頬を染めた漣は、楽器を構えなおした。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6747|
 [fc]
 [vo_ren s="ren_T0032"]
-[ns]Ren[nse]
-"Well then, I'm going to start practicing."[pcms]
+[ns]漣[nse]
+「それじゃ、練習、始めるね」[pcms]
 
 *6748|
 [fc]
-[ns]Wataru[nse]
-"Yeah. Let me listen closely for the first time in a[r]
-while..."[pcms]
+[ns]航[nse]
+「うん。久しぶりにゆっくり聞かせてもらうよ……」[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]
@@ -283,82 +277,82 @@ while..."[pcms]
 
 *6749|
 [fc]
-Ren raises her arm and the bow touches the strings. Soon she[r]
-begins to sway lightly and starts playing.[pcms]
+漣の腕が上がり、弓が弦に触れる。[r]
+やがて軽く身体を揺らし、漣は演奏を始めた。[pcms]
 
 *6750|
 [fc]
-This is a piece I've heard many times before. It's one that[r]
-Ren always enjoys practicing.[pcms]
+この曲は何度も聴いたことがある。[r]
+漣が好んでいつも練習している曲だ。[pcms]
 
 *6751|
 [fc]
-As I listen to the lively tones, I reflect on Ren's words.[pcms]
+軽やかな音色に聴き入りながら、ボクは漣の声を反芻する。[pcms]
 
 *6752|
 [fc]
-"I didn't want to be separated from Dad and you guys..."[pcms]
+『お父さんや、お兄ちゃんたちと、離れたくなかったんだ……』[pcms]
 
 *6753|
 [fc]
-The meaning behind these words is clear. The reason Ren[r]
-steadfastly refused study abroad and recommended admissions[r]
-was for us...[pcms]
+この言葉が意味するところは明らかだ。[r]
+漣が頑として留学や推薦入学を断り続けたのは、[r]
+ボクたちの、ためだったんだ……。[pcms]
 
 *6754|
 [fc]
-Back then... When we were uncertain about Ren's future path,[r]
-I still hadn't fully recovered from the pain of losing our[r]
-mother in the Tohoku infection disaster.[pcms]
+あの頃……。漣の進路について決めかねていた頃、[r]
+ボクは東北感染災害で母さんを亡くした辛さから[r]
+まだ完全には立ち直れないでいた。[pcms]
 
 *6755|
 [fc]
-Dad tried not to show it, but losing his first wife and then[r]
-his beloved partner must have been a significant blow.[pcms]
+父さんも顔には出さないようにしてたけど、[r]
+最初の妻を亡くし、ようやく見つけた愛する伴侶を喪い、[r]
+相当な打撃を受けたことには間違いない。[pcms]
 
 *6756|
 [fc]
-Ren couldn't leave us disheveled men of the house behind and[r]
-walk towards her own future alone...[pcms]
+漣には、そんなだらしない我が家の男どもを放って[r]
+自分だけが未来に向けて歩き出すことはできなかったんだ……。[pcms]
 
 *6757|
 [fc]
-She created a warm family atmosphere, took care of household[r]
-chores for us, and quietly stayed by our side, patiently[r]
-waiting for our wounds to heal...[pcms]
+暖かな家族の空気を作り、ボクらのために家事をこなし、[r]
+何も言わないままにボクらの傍に寄り添って[r]
+傷が癒されるのをじっと待っていてくれたんだ……。[pcms]
 
 *6758|
 [fc]
-My chest feels warm. Tears threaten to spill over, and I[r]
-hastily blink them away.[pcms]
+胸が熱くなった。[r]
+涙があふれそうになって、慌ててまばたきで誤魔化す。[pcms]
 
 *6759|
 [fc]
-Thanks to Ren, we were able to start over as a family. And[r]
-now she tells me that family is more important to her than[r]
-anything else...[pcms]
+漣のおかげでボクたちは、再び家族としてやり直せた。[r]
+その漣が、自分には何よりも家族が大事だと言ってくれてる。[pcms]
 
 *6760|
 [fc]
-Ren... Thank you...[pcms]
+漣……。ありがとう……。[pcms]
 
 [evcg storage="EV007n"][trans_c cross time=300]
 
 *6761|
 [fc]
-Before I knew it, Jin-san and Shigeyoshi were standing at[r]
-the entrance of the restaurant. I could also see Mizuki and[r]
-Kousuke near the kitchen.[pcms]
+気がつくと、レストランの入り口に壬さんと重吉が立っていた。[r]
+キッチンのあたりには瑞樹とコースケの姿もある。[pcms]
 
 *6762|
 [fc]
-No one tries to speak. Everyone listens to Ren's performance[r]
-in silence. A peaceful time flows gently...[pcms]
+誰も喋ろうとはしない。[r]
+みんな無言のまま漣の演奏を聴いている。[r]
+穏やかな時間がゆったりと流れている……。[pcms]
 
 *6763|
 [fc]
-I wish this gentle time could continue forever... I quietly[r]
-hope in my heart...[pcms]
+こんな優しい時間がずっと続いてくれたらいいのに……。[r]
+ボクはそっと心の中で願ってしまう……。[pcms]
 
 ;//バイオリンの音、ストップ
 ;//se停止
@@ -368,8 +362,9 @@ hope in my heart...[pcms]
 *6764|
 [fc]
 [vo_yuh s="yuho_T0123"]
-[ns]Yuuho[nse]
-"E-everyone! The, the TV!! It's terrible--!!"[pcms]
+[ns]悠帆[nse]
+「みっ、みんな！　て、テレビテレビ！！[r]
+　大変だよーーっ！！」[pcms]
 
 ;//bgm18・disguest
 [bgm storage="BGM18"]
@@ -380,17 +375,17 @@ hope in my heart...[pcms]
 
 *6765|
 [fc]
-Suddenly, Yuuho burst into the restaurant.[pcms]
+突然、悠帆がレストランに飛び込んできた。[pcms]
 
 *6766|
 [fc]
-[ns]Wataru[nse]
-"Yuuho? What's wrong?"[pcms]
+[ns]航[nse]
+「悠帆？　どうしたの？」[pcms]
 
 *6767|
 [fc]
-Noticing Yuuho's face pale as paper, drained of blood, an[r]
-ominous premonition crossed my mind...[pcms]
+紙のように白く、血の気の引いた悠帆の顔に気付いて[r]
+不吉な予感がよぎった……。[pcms]
 
 ;//→T60030
 [jump storage="T60030.ks" target=*T60030_TOP]

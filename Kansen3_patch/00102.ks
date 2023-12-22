@@ -28,15 +28,15 @@
 *2247|
 [fc]
 [vo_ior s="iori0056"]
-[ns]Inori[nse]
-"In a long life, everyone has times when they want to cry.[r]
-When you're sad, there's no need to force yourself to hold[r]
-it in. Just cry as much as you need to."[pcms]
+[ns]緒織[nse]
+「長い人生を生きていれば、誰だって泣きたい時もある。[r]
+　悲しい時は無理してこらうことはあらへん。[r]
+　力いっぱい泣けばええんよ」[pcms]
 
 *2248|
 [fc]
-Unable to resist such kind words, I found myself hugging[r]
-Inori-san as if jumping into her chest.[pcms]
+そんな優しい言葉に、ボクは耐えられずに[r]
+思わず緒織さんの胸に飛び込むように抱きついてしまった。[pcms]
 
 ;//〆：♪：hangon　フェードイン
 [bgm storage="BGM07"]
@@ -46,162 +46,163 @@ Inori-san as if jumping into her chest.[pcms]
 
 *2249|
 [fc]
-[ns]Wataru[nse]
-"Ugguu, hikkuu hikguuu... I-Inori-saaan... boguu..."[pcms]
+[ns]航[nse]
+「うっぐぅっ、ひっくぅひっぐぅぅ……。[r]
+　い、いおりぃざぁん……ぼ、ぼぐぅ……」[pcms]
 
 *2250|
 [fc]
-It's pathetic, what I'm doing is truly pathetic.[pcms]
+情けない、ボクのしていることは本当に情けない。[pcms]
 
 *2251|
 [fc]
-Unable to bear thinking about Yuuho, crying alone miserably,[r]
-and then seeking comfort from Inori-san who just happened to[r]
-pass by...[pcms]
+悠帆のことが耐えられなくて、一人でめそめそと泣いて、[r]
+そして最後は通りすがりの緒織さんに[r]
+慰めを求めるなんて……。[pcms]
 
 *2252|
 [fc]
-The feelings of self-loathing began to bubble up inside me.[pcms]
+ふつふつと胸の内に湧きおこる自己嫌悪の念。[pcms]
 
 *2253|
 [fc]
-Yet, I couldn't control myself.[pcms]
+それでも自分をコントロールすることができなかった。[pcms]
 
 [evcg storage="EV006a"][trans_c cross time=300]
 
 *2254|
 [fc]
-Gently embracing my head, Inori-san comforted me with a[r]
-gentle stroke of her palm.[pcms]
+そんなボクの頭をそっと優しく抱き込むと、[r]
+緒織さんは優しく手のひらで撫でてくれた。[pcms]
 
 *2255|
 [fc]
-[ns]Wataru[nse]
-"Uh, uuu... I'm so sorry..."[pcms]
+[ns]航[nse]
+「うっ、うぅぅ……すびばぜん……」[pcms]
 
 [evcg storage="EV006b"][trans_c cross time=300]
 
 *2256|
 [fc]
 [vo_ior s="iori0057"]
-[ns]Inori[nse]
-"It's okay, it's okay. There's no need to hold back. If my[r]
-chest can provide any comfort, you can cry as much as you[r]
-need until you feel better."[pcms]
+[ns]緒織[nse]
+「ええよ、ええよ。遠慮なんてせんでええ。[r]
+　私の胸でよければいくらでもかしてあげるさかい、[r]
+　気が済むまで泣きなはれ」[pcms]
 
 *2257|
 [fc]
-The sense of loss that felt like a gaping hole in my chest[r]
-was being filled with Inori-san's kindness...[pcms]
+胸にぽっかりと空いた穴のような喪失感に、[r]
+緒織さんの優しさが染み込んで……。[pcms]
 
 *2258|
 [fc]
-The warmth, the comfort, it accelerated my tears.[pcms]
+その温かさが、温もりがボクの涙を加速させた。[pcms]
 
 *2259|
 [fc]
-Like a child, like a madman, I just kept crying shamelessly[r]
-in Inori-san's chest.[pcms]
+子供のように、狂ったように、ただひたすらに[r]
+恥も外聞もなく緒織さんの胸で泣きじゃくった。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2260|
 [fc]
-How much time had passed? Inori-san's kimono was drenched at[r]
-the chest from my tears.[pcms]
+どれくらいの時間が経ったのだろうか、ボクの涙で[r]
+緒織さんの着物の胸元はぐっしょりと濡れていた。[pcms]
 
 *2261|
 [fc]
-[ns]Wataru[nse]
-"Haa haa..."[pcms]
+[ns]航[nse]
+「はぁはぁ……」[pcms]
 
 *2262|
 [fc]
-Tears are strange things; they seem to flow endlessly, but[r]
-once you've cried enough, you naturally feel fulfilled.[pcms]
+涙とは不思議なもので、とめどなくあふれてくるように[r]
+思えるのに、気が済むまで出し尽すと自然と[r]
+満たされた気持になることができた。[pcms]
 
 *2263|
 [fc]
-The pain in my heart from thinking about Yuuho was still[r]
-there, but the despair I felt walking alone earlier seemed[r]
-to have been washed away by the tears.[pcms]
+悠帆を想うと痛む心の内は相変わらずだったけど、[r]
+さっきまで一人で歩いていた時のような絶望感は[r]
+涙が洗い流してくれたようだ。[pcms]
 
 [evcg storage="EV006b"][trans_c cross time=300]
 
 *2264|
 [fc]
 [vo_ior s="iori0058"]
-[ns]Inori[nse]
-"How are you feeling now, a little calmer?"[pcms]
+[ns]緒織[nse]
+「どないや、すこしは落ち着いた？」[pcms]
 
 *2265|
 [fc]
-[ns]Wataru[nse]
-"Yes... Oh, um... I'm sorry."[pcms]
+[ns]航[nse]
+「はい……あっ、あの……すみません」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="iori_c1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2266|
 [fc]
 [vo_ior s="iori0059"]
-[ns]Inori[nse]
-"You don't have to worry about anything. If you don't want[r]
-to talk, you don't have to say anything."[pcms]
+[ns]緒織[nse]
+「なにも気にせんでええよ。[r]
+　話したくないなら何も話さんでもええ」[pcms]
 
 *2267|
 [fc]
-[ns]Wataru[nse]
-"But..."[pcms]
+[ns]航[nse]
+「でも……」[pcms]
 
 *2268|
 [fc]
-After being so spoiled and even crying on her chest, more[r]
-than anything else, I might have wanted to talk to Inori-[r]
-san.[pcms]
+ここまで甘えて、しかも胸まで借りて泣き尽したわけだし、[r]
+それになによりもボクは緒織さんに、[r]
+聞いてもらいたかったのかもしれない。[pcms]
 
 *2269|
 [fc]
-So I decided to explain the reason for my sadness[r]
-voluntarily.[pcms]
+だから自発的に、[r]
+ボクは悲しみの理由を説明することにした。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="iori_c1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2270|
 [fc]
 [vo_ior s="iori0060"]
-[ns]Inori[nse]
-"Talking can sometimes make you feel better. Well, if Wataru[r]
-wants to talk, I'll listen."[pcms]
+[ns]緒織[nse]
+「話した方が楽になることもあるしなぁ。[r]
+　まぁ、航が話したいなら聞いてあげるよ」[pcms]
 
 *2271|
 [fc]
-[ns]Wataru[nse]
-"Yes... Actually..."[pcms]
+[ns]航[nse]
+「はい……実は……」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2272|
 [fc]
-I tried my best to organize my thoughts and confided the[r]
-sorrow that filled my heart to Inori-san with whatever words[r]
-came to mind.[pcms]
+ボクは精一杯頭を整理しながら、思いつく言葉で[r]
+悲しみにくれた胸の内を緒織さんに打ち明けた。[pcms]
 
 *2273|
 [fc]
-However, once I put it into words, it seemed quite confused;[r]
-even I was appalled at how crude and disjointed my[r]
-explanation was...[pcms]
+しかし、言葉にしてみると相当に混乱していたらしく、[r]
+説明の内容は自分でも呆れるほどにお粗末で、[r]
+支離滅裂で……。[pcms]
 
 *2274|
 [fc]
-I couldn't even satisfactorily convey half of what I was[r]
-feeling or struggling with.[pcms]
+想っていたこと、苦しんでいたことの半分すら[r]
+満足に伝えられなかった。[pcms]
 
 *2275|
 [fc]
-Yet without any sign of annoyance, Inori-san nodded slightly[r]
-at my words and comforted me by gently stroking my head with[r]
-her palm.[pcms]
+それでも呆れることなく、緒織さんはボクの言葉に[r]
+小さくうなずきながら、頭を時折優しく手のひらで撫でて[r]
+慰めてくれた。[pcms]
 
 [bg storage="BG02c"]
 [ChrSetEx layer=5 chbase="iori_c4"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=500]
@@ -210,158 +211,159 @@ her palm.[pcms]
 *2276|
 [fc]
 [vo_ior s="iori0061"]
-[ns]Inori[nse]
-"Your first love and your first heartbreak... that's what it[r]
-is."[pcms]
+[ns]緒織[nse]
+「初めての恋と、初めての失恋……そういうことやな」[pcms]
 
 *2277|
 [fc]
-[ns]Wataru[nse]
-"Will I be able to forget Yuuho...?"[pcms]
+[ns]航[nse]
+「ボクは悠帆を忘れる事ができるんでしょうか……」[pcms]
 
 *2278|
 [fc]
 [vo_ior s="iori0062"]
-[ns]Inori[nse]
-"It's so painful that your chest throbs... Tears flow out in[r]
-abundance. That's what heartbreak is."[pcms]
+[ns]緒織[nse]
+「辛くて辛くて、胸のうちがジンジンして……。[r]
+　目からはぎょうさんと涙が出る。[r]
+　それが失恋というものやからなぁ」[pcms]
 
 *2279|
 [fc]
-Hearing the word "heartbreak" from Inori-san again made me[r]
-feel like tears were about to overflow once more.[pcms]
+改めて緒織さんから『失恋』という単語を聞かされると、[r]
+ボクはそれだけで涙がまた再びあふれそうになった。[pcms]
 
 *2280|
 [fc]
-Like a record with a skipped needle, every time I think of[r]
-Yuuho, will I live refraining this pain and sadness in my[r]
-heart?[pcms]
+針が飛んだレコードのように、ボクは悠帆を想うたびに、[r]
+この心の痛み、悲しみをリフレインさせながら[r]
+生きることになるんだろうか。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c5"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2281|
 [fc]
 [vo_ior s="iori0063"]
-[ns]Inori[nse]
-"But Wataru, no matter how sad you are, you have to draw the[r]
-line somewhere."[pcms]
+[ns]緒織[nse]
+「でもな航。いくら悲しくても、[r]
+　どこかでケジメはつけなあかん」[pcms]
 
 *2282|
 [fc]
-[ns]Wataru[nse]
-"Draw the line?"[pcms]
+[ns]航[nse]
+「ケジメ？」[pcms]
 
 *2283|
 [fc]
 [vo_ior s="iori0064"]
-[ns]Inori[nse]
-"The pain Wataru is feeling is something everyone goes[r]
-through in life. Everyone cries and suffers the same. But[r]
-you can't let it drag you down."[pcms]
+[ns]緒織[nse]
+「航の苦しみは誰でも、うちでも、みんな生きていたら[r]
+　経験する苦しみなんや。泣くのも苦しむのもみんな一緒や。[r]
+　でも、それに引きずられてはあかん」[pcms]
 
 *2284|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c6"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2285|
 [fc]
 [vo_ior s="iori0065"]
-[ns]Inori[nse]
-"Just like walking, if you fall down, the only thing you can[r]
-do is stand up on your own. That's how everyone lives."[pcms]
+[ns]緒織[nse]
+「歩くのと同じで、転んだら自分で[r]
+　立ち上がるしかないんや。[r]
+　みんなそうやって生きていくんやで」[pcms]
 
 *2286|
 [fc]
-Inori-san's words simply touched the core of my being. No[r]
-matter how much I cry or suffer, it's Yuuho's decision and[r]
-Yuuho's life, and there's nothing I can do about it alone.[pcms]
+緒織さんの言葉は、シンプルにボクの核心に触れていた。[r]
+泣いても苦しんでも、悠帆の決断だし、悠帆の人生だし、[r]
+ボクだけではどうすることもできない。[pcms]
 
 *2287|
 [fc]
-It's a wall that can only be overcome by moving forward on[r]
-my own feet. There's no other way around it.[pcms]
+乗り越える以外に方法は何一つ存在しない壁なんだ。[r]
+自分の足で歩きだすしかない。[pcms]
 
 *2288|
 [fc]
 [vo_ior s="iori0066"]
-[ns]Inori[nse]
-"Now that you've cried enough, stand up and look forward. If[r]
-you keep moping around, you won't become a full-fledged man,[r]
-will you?"[pcms]
+[ns]緒織[nse]
+「気が済むまで泣いたんだから、あとは立ち上がって[r]
+　前を向いて進むんや。いつまでもメソメソしとったら[r]
+　一人前の男にはなられへんよ？」[pcms]
 
 *2289|
 [fc]
-[ns]Wataru[nse]
-"A full-fledged man..."[pcms]
+[ns]航[nse]
+「一人前の……」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c5"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2290|
 [fc]
 [vo_ior s="iori0067"]
-[ns]Inori[nse]
-"Unless Wataru becomes a full-fledged man, you might end up[r]
-feeling the same way again."[pcms]
+[ns]緒織[nse]
+「航が一人前の男にならへんかぎり、[r]
+　また同じような想いをする羽目になってしまうんよ」[pcms]
 
 *2291|
 [fc]
-But can I really forget about Yuuho?[pcms]
+でも、ボクは悠帆のことを忘れる事ができるだろうか。[pcms]
 
 *2292|
 [fc]
-Can I really give up on Yuuho?[pcms]
+悠帆をあきらめることができるんだろうか。[pcms]
 
 *2293|
 [fc]
-Even if I can forget for a moment here, when I'm alone or[r]
-when I go to sleep at night, won't I just remember Yuuho[r]
-again and start crying?[pcms]
+例えこの場では一時忘れられても、一人になったとき、[r]
+夜眠りにつくとき、ボクはまた悠帆のことを思い出して[r]
+泣きだしてしまうんじゃないだろうか。[pcms]
 
 *2294|
 [fc]
-I thought about cutting ties, but right now I simply[r]
-couldn't muster the confidence to do so.[pcms]
+ふっ切ろうと思っても、[r]
+今のボクには到底その自信を持つことはできなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2295|
 [fc]
 [vo_ior s="iori0068"]
-[ns]Inori[nse]
-"Even so, it's not easy to forget. There's only one medicine[r]
-that can erase the pain of heartbreak."[pcms]
+[ns]緒織[nse]
+「そうは言っても簡単には忘れられへんよな。[r]
+　失恋の痛みを消す薬はひとつしかないもんなぁ」[pcms]
 
 *2296|
 [fc]
-[ns]Wataru[nse]
-"A medicine that erases it?"[pcms]
+[ns]航[nse]
+「消す薬？」[pcms]
 
 *2297|
 [fc]
-Could such a thing really exist in this world? Should I[r]
-drink alcohol and escape from reality?[pcms]
+そんなものがこの世に存在するんだろうか。[r]
+お酒とか飲んで、現実逃避でもしたらいいんだろうか。[pcms]
 
 *2298|
 [fc]
-In front of a bewildered me, Inori-san smiled sweetly and[r]
-began to walk, pulling my hand.[pcms]
+戸惑うボクの前で、緒織さんはにっこりと笑うと、[r]
+手を引いて歩きはじめた。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_c7"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *2299|
 [fc]
 [vo_ior s="iori0069"]
-[ns]Inori[nse]
-"Tonight, I'll become that medicine for you. Come with[r]
-me..."[pcms]
+[ns]緒織[nse]
+「今夜は私がその薬になってあげる。[r]
+　一緒においで……」[pcms]
 
 *2300|
 [fc]
-Without fully grasping the situation, I began to walk, led[r]
-by the hand.[pcms]
+いま一つ要領を得ないまま、ボクは手を引かれるままに、[r]
+歩きはじめた。[pcms]
 
 ;//〆：・黒画面（;//BG無し）
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -370,99 +372,98 @@ by the hand.[pcms]
 
 *2301|
 [fc]
-[ns]Wataru[nse]
-"Um... Inori-san?"[pcms]
+[ns]航[nse]
+「えっと……い、緒織さん？」[pcms]
 
 *2302|
 [fc]
-I was led to a room on the second floor of the popular[r]
-restaurant "Otowa," where Inori-san usually lived.[pcms]
+連れられて来たのは大衆割烹『音羽』の二階にある、[r]
+緒織さんが普段生活している部屋だった。[pcms]
 
 *2303|
 [fc]
-Without any explanation, Inori-san brought me to her room[r]
-and began to undress in front of me.[pcms]
+何の説明もせず、ボクを自分の部屋へと連れてきた[r]
+緒織さんは、ボクの目の前で着物を脱ぎはじめた。[pcms]
 
 *2304|
 [fc]
-The sound of clothing rustling, the smell of tatami, and[r]
-Inori-san's scent were driving my thoughts wild.[pcms]
+衣擦れの音、畳の匂い、そして緒織さんの匂い。[r]
+それがボクの思考を狂わせていく。[pcms]
 
 *2305|
 [fc]
-Feeling as if I were in a dream or bewitched by a fox, I[r]
-stared blankly at Inori-san's body.[pcms]
+まるで夢でも見ているような、キツネにつままれたような気分で[r]
+ボクは呆然と緒織さんの身体を見つめていた。[pcms]
 
 *2306|
 [fc]
-The body of a woman... the ripe body of an adult woman was[r]
-right before my eyes...[pcms]
+女性の……熟れた大人の女性の身体が目の前にあって……。[pcms]
 
 *2307|
 [fc]
-[ns]Wataru[nse]
-"Um, uh... that is..."[pcms]
+[ns]航[nse]
+「あの、あの……えっと、その……」[pcms]
 
 *2308|
 [fc]
 [vo_ior s="iori0070"]
-[ns]Inori[nse]
-"Don't just stand there, come here."[pcms]
+[ns]緒織[nse]
+「そんなところに突っ立ってないで、[r]
+　こっちへいらっしゃい」[pcms]
 
 *2309|
 [fc]
-As if pulled by an invisible thread, I approached Inori-san[r]
-as she had instructed.[pcms]
+見えない糸を引っぱられたかのように、ボクはその言葉の通りに[r]
+緒織さんへと近づいた。[pcms]
 
 *2310|
 [fc]
 [vo_ior s="iori0071"]
-[ns]Inori[nse]
-"Now, Wataru, take off your clothes and return to your[r]
-natural state."[pcms]
+[ns]緒織[nse]
+「さぁ、航も服を脱いで生まれた姿になるんや」[pcms]
 
 *2311|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「は、はい……」[pcms]
 
 *2312|
 [fc]
-What on earth has happened? Standing before the door to an[r]
-unknown realm I had never experienced before, I had no[r]
-choice but to obey.[pcms]
+一体何がどうなってしまったんだろう。[r]
+今までに体験したことのない、未知の領域の扉を前にした気分で、[r]
+ボクは言われるままに従うしかなかった。[pcms]
 
 ;//〆：HEV005
 
 *2313|
 [fc]
 [vo_ior s="iori0072"]
-[ns]Inori[nse]
-"I'll make you forget all the painful things. I'll turn[r]
-Wataru into a man..."[pcms]
+[ns]緒織[nse]
+「辛いことは私が全部忘れさせてあげる。[r]
+　私が航を男にしてあげる……」[pcms]
 
 *2314|
 [fc]
-[ns]Wataru[nse]
-"Into a man..."[pcms]
+[ns]航[nse]
+「男に……」[pcms]
 
 *2315|
 [fc]
 [vo_ior s="iori0073"]
-[ns]Inori[nse]
-"Yes, by learning about a woman's body like this, a man[r]
-becomes a full-fledged man."[pcms]
+[ns]緒織[nse]
+「そうや、こうやって女の身体を知って、[r]
+　男は一人前の男になるんや」[pcms]
 
 *2316|
 [fc]
-Is this really okay? Although there was a hint of anxiety[r]
-and confusion, I didn't have the willpower to resist Inori-[r]
-san's words right now.[pcms]
+本当にこれでいいんだろうか？[r]
+一抹の不安や戸惑いはあったけど、今のボクに緒織さんの[r]
+言葉に逆らう意思力はない。[pcms]
 
 *2317|
 [fc]
-Driven by male instincts, I realized my crotch was so hard[r]
-it felt like it was about to burst.[pcms]
+雄の本能に後押しされて、気がつけば股間は[r]
+はち切れそうなほど固く勃起していた。[pcms]
 
 
 *LABEL_MEMORIES_START
@@ -476,128 +477,126 @@ it felt like it was about to burst.[pcms]
 *2318|
 [fc]
 [vo_ior s="iori0074"]
-[ns]Inori[nse]
-"Young boys' dicks really are full of energy."[pcms]
+[ns]緒織[nse]
+「若い子のちんちんは、ほんまに元気があるなぁ」[pcms]
 
 *2319|
 [fc]
-[ns]Wataru[nse]
-"Ah!"[pcms]
+[ns]航[nse]
+「あぅっ」[pcms]
 
 *2320|
 [fc]
-Inori-san's hand reached smoothly towards my crotch, grabbed[r]
-my thing, and pressed it against her cleavage.[pcms]
+緒織さんの手がすーっと股間に伸びて、ボクのモノを握ると[r]
+そのまま自分の胸の谷間に押し当てた。[pcms]
 
 *2321|
 [fc]
-Just being touched, I was assaulted by such stimulation and[r]
-excitement that I felt like I could climax immediately.[pcms]
+触られただけで、ボクは思わず達してしまいそうなほどの[r]
+刺激と興奮に襲われていた。[pcms]
 
 *2322|
 [fc]
-If it weren't for the tense atmosphere, I might have[r]
-ejaculated disgracefully.[pcms]
+張りつめた緊張感がなかったら、[r]
+無様に射精してしまったかもしれない。[pcms]
 
 *2323|
 [fc]
 [vo_ior s="iori0075"]
-[ns]Inori[nse]
-"You need to relax and let your shoulders loose."[pcms]
+[ns]緒織[nse]
+「肩の力抜いてリラックスしなきゃあかんよ」[pcms]
 
 *2324|
 [fc]
-Even if you say that, relaxing in this situation is[r]
-absolutely impossible for me.[pcms]
+そんなこと言われても、この状況でリラックスなんて[r]
+ボクには到底無理だ。[pcms]
 
 *2325|
 [fc]
-I had some basic knowledge from books, DVDs, and online[r]
-videos, but that was just at the level of watching with my[r]
-eyes.[pcms]
+本やＤＶＤ、ネットの動画などである程度の予備知識はあるけど、[r]
+それはしょせん、目で見るだけのレベルだった。[pcms]
 
 *2326|
 [fc]
-To suddenly have a woman's naked body in front of me without[r]
-any mental preparation, and moreover to have my thing[r]
-sandwiched between her breasts...[pcms]
+それがいきなり、なんの心の準備もないままに、[r]
+女性の裸体が目の前にあって、しかもその胸に[r]
+モノが挟まれているなんて……。[pcms]
 
 *2327|
 [fc]
-Maybe the shock of heartbreak has made me lose my mind.[pcms]
+ボクは失恋のショックで頭がおかしくなってしまったんだろうか。[pcms]
 
 *2328|
 [fc]
-Even now, am I really in some dark alleyway, and are the[r]
-sights before my eyes and this experience just illusions[r]
-created by my escapist thoughts?[pcms]
+いまも本当はどこかの暗い路地裏にいて、目に映る光景と[r]
+この体験は現実逃避した思考の作りだした[r]
+幻影なんじゃないだろうか。[pcms]
 
 *2329|
 [fc]
-But the sensation of Inori-san's breasts rubbing against my[r]
-thing was too real, and there was no room for doubt in the[r]
-pleasure shooting through my crotch.[pcms]
+でも、モノを擦りあげる緒織さんの胸の感触は[r]
+あまりにもリアルであり、股間から突き抜けてくる快感には[r]
+疑いを差しはさむ余地はなかった。[pcms]
 
 *2330|
 [fc]
 [vo_ior s="iori0076"]
-[ns]Inori[nse]
-"It's your first time after all. It's understandable that[r]
-you're nervous."[pcms]
+[ns]緒織[nse]
+「初めてやもんなぁ。やっぱり緊張してしまうのは[r]
+　仕方ないかもしれへんなぁ」[pcms]
 
 [evcg storage="HEV005b"][trans_c cross time=300]
 
 *2331|
 [fc]
-[ns]Wataru[nse]
-"I-Inori-san, I-I..."[pcms]
+[ns]航[nse]
+「い、緒織さん、ぼ、ボク……」[pcms]
 
 *2332|
 [fc]
 [vo_ior s="iori0077"]
-[ns]Inori[nse]
-"You don't have to worry about anything. I'll gently lead[r]
-you, so Wataru just needs to relax and enjoy the pleasant[r]
-feelings."[pcms]
+[ns]緒織[nse]
+「何も心配しなくてええんよ。[r]
+　私が優しくリードしてあげるから、航はリラックスして[r]
+　楽しい想いだけすればええんよ」[pcms]
 
 *2333|
 [fc]
-[ns]Wataru[nse]
-"Eh, ah, uhh..."[pcms]
+[ns]航[nse]
+「えっ、あぅっ、うぇっぁ……」[pcms]
 
 *2334|
 [fc]
-The sliding up and down became faster, the friction on my[r]
-thing intensified, and I was struck by a numbing sensation.[pcms]
+上下のスライドが早くなり、モノを擦る刺激が強くなって[r]
+ボクは痺れるような感覚に襲われた。[pcms]
 
 *2335|
 [fc]
-I let out an unintelligible cry and shivered as I indulged[r]
-in the sensation of Inori-san's breasts.[pcms]
+言葉にならない声が漏れて、身震いをしながら[r]
+緒織さんの胸の感触に酔いしれた。[pcms]
 
 *2336|
 [fc]
 [vo_ior s="iori0078"]
-[ns]Inori[nse]
-"Trembling like this, Wataru really is a cute kid."[pcms]
+[ns]緒織[nse]
+「こんな震えて、航はほんまに可愛いコやなぁ」[pcms]
 
 *2337|
 [fc]
-[ns]Wataru[nse]
-"Please don't tease me..."[pcms]
+[ns]航[nse]
+「か、からかわないでください……」[pcms]
 
 *2338|
 [fc]
 [vo_ior s="iori0079"]
-[ns]Inori[nse]
-"I'm not teasing you. I just want to turn Wataru into a[r]
-man."[pcms]
+[ns]緒織[nse]
+「からかってへんよ。[r]
+　私は航を男にしてあげたいだけや」[pcms]
 
 *2339|
 [fc]
-Without understanding what was happening, I was at the mercy[r]
-of a woman's physical sensations... and unable to endure any[r]
-longer, my crotch exploded.[pcms]
+わけがわからないまま、ボクは女性の肉体の感触に翻弄され……[r]
+そして耐えきれぬままに、股間が爆発してしまった。[pcms]
 
 ;//〆：ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -608,280 +607,277 @@ longer, my crotch exploded.[pcms]
 *2340|
 [fc]
 [vo_ior s="iori0080"]
-[ns]Inori[nse]
-"Ah, pfft..."[pcms]
+[ns]緒織[nse]
+「あっ、ぷぅぅっ……」[pcms]
 
 [evcg storage="HEV005d"][trans_c cross time=300]
 
 *2341|
 [fc]
-[ns]Wataru[nse]
-"Ah, sorry..."[pcms]
+[ns]航[nse]
+「あっ、す、すみません……」[pcms]
 
 *2342|
 [fc]
-The semen that shot out quickly splattered dramatically,[r]
-wetting Inori-san's upper body.[pcms]
+あっというまに発射してしまった精子は、派手に飛び散って[r]
+緒織さんの上半身を濡らした。[pcms]
 
 [evcg storage="HEV005e"][trans_c cross time=300]
 
 *2343|
 [fc]
 [vo_ior s="iori0081"]
-[ns]Inori[nse]
-"Oh my, you came quite quickly. Did it feel that good?"[pcms]
+[ns]緒織[nse]
+「あらあら、随分はよう出はったねぇ。[r]
+　そんなにええ気持ちやった？」[pcms]
 
 *2344|
 [fc]
-[ns]Wataru[nse]
-"Haa... yes... it felt amazing..."[pcms]
+[ns]航[nse]
+「ふぅぅっ、は、はい……凄く……」[pcms]
 
 *2345|
 [fc]
-Yet without showing any sign of disgust, Inori-san smiled at[r]
-me cheerfully with her face dripping with semen.[pcms]
+それでも嫌な顔一つせず、緒織さんは精子が滴る顔で[r]
+にこやかに笑って見せてくれた。[pcms]
 
 *2346|
 [fc]
-Inori-san's face covered in sticky dripping fluid was[r]
-incredibly erotic, and just looking at it made me feel like[r]
-getting excited all over again.[pcms]
+ドロドロと滴り落ちる粘液まみれの緒織さんの顔は[r]
+とてもエロティックで、ボクは見ているだけで[r]
+またもや興奮してしまいそうだった。[pcms]
 
 *2347|
 [fc]
 [vo_ior s="iori0082"]
-[ns]Inori[nse]
-"To release so much, you must have been really pent up."[pcms]
+[ns]緒織[nse]
+「こんなに沢山出すなんて、相当溜まってたんやね」[pcms]
 
 *2348|
 [fc]
-[ns]Wataru[nse]
-"Th-that's..."[pcms]
+[ns]航[nse]
+「そ、それは……」[pcms]
 
 *2349|
 [fc]
 [vo_ior s="iori0083"]
-[ns]Inori[nse]
-"It's okay, it's okay. Wataru is at the age where he wants[r]
-to do it a lot."[pcms]
+[ns]緒織[nse]
+「ええよ、ええよ。航はやりたい盛りやもんなぁ」[pcms]
 
 *2350|
 [fc]
-Indeed, I might have been spending my days in frustration[r]
-just as Inori-san said.[pcms]
+確かにボクは緒織さんの言うとおり、[r]
+日々を悶々と過ごしていたのかもしれない。[pcms]
 
 *2351|
 [fc]
-Whenever I saw a girl, my gaze would unconsciously drift to[r]
-her breasts or butt, or other sexual parts, and it was the[r]
-same when I was with Yuuho.[pcms]
+女の子を見れば、無意識に視線は胸とかお尻とか、[r]
+セクシャルな部分に行くし、悠帆を相手にしても、[r]
+それは同様だった。[pcms]
 
 *2352|
 [fc]
 [vo_ior s="iori0084"]
-[ns]Inori[nse]
-"Young love and passion can't start without sexual desire,[r]
-can they?"[pcms]
+[ns]緒織[nse]
+「若い子の恋や愛は性欲なしには始まらへんもんなぁ」[pcms]
 
 *2353|
 [fc]
-[ns]Wataru[nse]
-"Is there such a thing as without sexual desire?"[pcms]
+[ns]航[nse]
+「性欲抜きっていうのもあるんですか？」[pcms]
 
 *2354|
 [fc]
 [vo_ior s="iori0085"]
-[ns]Inori[nse]
-"Well, yeah. Like Wataru falling in love for the first time,[r]
-experiencing his first heartbreak... having his first sexual[r]
-experience... You'll go through various experiences."[pcms]
+[ns]緒織[nse]
+「そうやなぁ。航みたいに初恋をして、初失恋をして……。[r]
+　初体験を済ませて……。[r]
+　あれやこれやと色々と体験してくとな」[pcms]
 
 *2355|
 [fc]
-[ns]Wataru[nse]
-"...Experiences, huh."[pcms]
+[ns]航[nse]
+「……体験ですか」[pcms]
 
 *2356|
 [fc]
 [vo_ior s="iori0086"]
-[ns]Inori[nse]
-"Life's experiences change a person. For better or for[r]
-worse."[pcms]
+[ns]緒織[nse]
+「人生の体験が人を変えていくんや。[r]
+　良い意味でも悪い意味でもなぁ」[pcms]
 
 *2357|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *2358|
 [fc]
 [vo_ior s="iori0087"]
-[ns]Inori[nse]
-"It's a bit too early for you to worry about that now.[r]
-Besides, you're not satisfied with just one time, are you?"[pcms]
+[ns]緒織[nse]
+「今の航には早すぎる話やから、気にせんでええ。[r]
+　それより、一回だけじゃ物足りないやろ？」[pcms]
 
 *2359|
 [fc]
-[ns]Wataru[nse]
-"Uh..."[pcms]
+[ns]航[nse]
+「うっ……」[pcms]
 
 *2360|
 [fc]
-As Inori-san said, I had indeed ejaculated during what was[r]
-essentially foreplay...[pcms]
+緒織さんの言う通りだった。ボクはいわゆる前戯段階で[r]
+出してしまったわけで……。[pcms]
 
 *2361|
 [fc]
-Already, my dick was regaining its firmness in anticipation[r]
-of what was to come.[pcms]
+すでに股間のモノは次を期待しているかのように、[r]
+固さを取り戻しつつあった。[pcms]
 
 *2362|
 [fc]
 [vo_ior s="iori0088"]
-[ns]Inori[nse]
-"Don't be shy. When you're young, you want to do it a lot.[r]
-I'll make sure to take care of you until the end today, so[r]
-enjoy yourself as much as you like."[pcms]
+[ns]緒織[nse]
+「遠慮せんでええよ。若いうちはいっぱいしたいものや。[r]
+　今日は最後までしっかり相手してあげるから、[r]
+　好きなだけ楽しむとええ」[pcms]
 
 *2363|
 [fc]
-With that said, Inori-san once again trapped my dick between[r]
-her breasts and resumed the sliding motion. Immediately, an[r]
-intense stimulation assaulted my crotch just like before.[pcms]
+そう言うと、緒織さんは再びボクのモノを胸の谷間に[r]
+挟み込んで上下のスライドを再開した。[r]
+たちまち先ほどと同様に、強烈な刺激が股間を襲う。[pcms]
 
 *2364|
 [fc]
 [vo_ior s="iori0089"]
-[ns]Inori[nse]
-"Youth really is amazing. You're already so full of[r]
-energy..."[pcms]
+[ns]緒織[nse]
+「若いってほんまに凄いなぁ。[r]
+　もうこんなに元気いっぱいで……」[pcms]
 
 *2365|
 [fc]
-[ns]Wataru[nse]
-"I-It's because Inori-san is... doing all that..."[pcms]
+[ns]航[nse]
+「い、緒織さんが……その……[r]
+　いろいろとしてくれてるから」[pcms]
 
 *2366|
 [fc]
 [vo_ior s="iori0090"]
-[ns]Inori[nse]
-"You say such sweet things. Maybe I should give you a little[r]
-more service then."[pcms]
+[ns]緒織[nse]
+「嬉しいこと言ってくれるやないか。[r]
+　それならもう少しサービスしてあげよか」[pcms]
 
 *2367|
 [fc]
-Even though the current stimulation was already overwhelming[r]
-and I was struggling to hold back from cumming, Inori-san[r]
-opened her mouth and took the tip in with a gulp.[pcms]
+今のままでも十分に刺激的で、[r]
+ボクはむしろ暴発を抑えるのに精一杯だったのに、[r]
+緒織さんは口をあけると、パクリと先端を咥えこんだ。[pcms]
 
 *2368|
 [fc]
-[ns]Wataru[nse]
-"Ah! Uuh!"[pcms]
+[ns]航[nse]
+「うぁっううっ」[pcms]
 
 *2369|
 [fc]
 [vo_ior s="iori0091"]
-[ns]Inori[nse]
-"Hamuu, njuruu, churuuu..."[pcms]
+[ns]緒織[nse]
+「はむぅっ、んっじゅるぅっ、ちゅるぅぅぅっ……」[pcms]
 
 *2370|
 [fc]
-[ns]Wataru[nse]
-"Na-naaah..."[pcms]
+[ns]航[nse]
+「な、なぁぁっ……」[pcms]
 
 *2371|
 [fc]
-My first titjob and now my first blowjob.[pcms]
+初めてのパイズリ、そして初めてのフェラチオ。[pcms]
 
 *2372|
 [fc]
-With back-to-back experiences like these, I was completely[r]
-overwhelmed.[pcms]
+連続での体験に、ボクはもう大混乱だった。[pcms]
 
 *2373|
 [fc]
 [vo_ior s="iori0092"]
-[ns]Inori[nse]
-"Churuuu, reroo rerooo..."[pcms]
+[ns]緒織[nse]
+「ちゅるぅぅっ、れろぉれろぉぉっ」[pcms]
 
 *2374|
 [fc]
-Every time the tip of my dick rolled around inside her[r]
-mouth, I let out moans involuntarily, just like the[r]
-actresses I'd seen on DVDs.[pcms]
+咥内でモノの先端が転がされるたびに、ボクは[r]
+まるでＤＶＤで見た女優のように、我知らず[r]
+嬌声を漏らしてしまう。[pcms]
 
 *2375|
 [fc]
-[ns]Wataru[nse]
-"Ah! Fuuuh..."[pcms]
+[ns]航[nse]
+「あっ、ふぅっうぅぅ」[pcms]
 
 *2376|
 [fc]
 [vo_ior s="iori0093"]
-[ns]Inori[nse]
-"Churuuupaa, don't hold back, okay? If you want to cum, feel[r]
-free to release it in my mouth."[pcms]
+[ns]緒織[nse]
+「ちゅるぅぅっぱあっ、我慢せんでええよ？[r]
+　出したくなったら、遠慮なく私の口に出してええんよ」[pcms]
 
 *2377|
 [fc]
-[ns]Wataru[nse]
-"Auuuh, but..."[pcms]
+[ns]航[nse]
+「あぅぅっ、で、でも……」[pcms]
 
 *2378|
 [fc]
 [vo_ior s="iori0094"]
-[ns]Inori[nse]
-"There's no point in being shy about it now, is there?"[pcms]
+[ns]緒織[nse]
+「今さらそんなこと遠慮したって意味ないやろ？」[pcms]
 
 *2379|
 [fc]
-That's right. Having been jerked off with her breasts[r]
-earlier, I had already splattered semen on Inori-san's face.[r]
-There was no point in being shy anymore.[pcms]
+その通りだ。胸でしごかれたボクは、先ほど緒織さんの[r]
+顔に精子を撒き散らしてしまっているんだから[r]
+これ以上遠慮しても何の意味もない。[pcms]
 
 *2380|
 [fc]
-All the initiative was with Inori-san, and following her[r]
-lead, I was in the midst of my first experience.[pcms]
+全ての主導権は緒織さんにあり、そのリードに従って[r]
+ボクは初体験の真っ最中なんだから。[pcms]
 
 *2381|
 [fc]
-Just as Inori-san said, it would be wise to fully enjoy this[r]
-experience.[pcms]
+緒織さんの言葉のとおり、[r]
+この経験を堪能するのが賢い選択だと思う。[pcms]
 
 *2382|
 [fc]
 [vo_ior s="iori0095"]
-[ns]Inori[nse]
-"Churuu, chuppaa reroo rerooo"[pcms]
+[ns]緒織[nse]
+「ちゅるぅっ、ちゅっぱぁっれろぉれろぉっ」[pcms]
 
 *2383|
 [fc]
-[ns]Wataru[nse]
-"Faaah, auuuh, I'm at my limit... my limit."[pcms]
+[ns]航[nse]
+「ふぁぁっ、あぅぅっ、げ、限界……限界です」[pcms]
 
 *2384|
 [fc]
 [vo_ior s="iori0096"]
-[ns]Inori[nse]
-"Churuuuuu, njuruu njuruuu"[pcms]
+[ns]緒織[nse]
+「ちゅるぅぅぅぅっ、じゅるぅっじゅるうぅぅっ」[pcms]
 
 *2385|
 [fc]
-I said that thinking I couldn't hold on any longer, but[r]
-Inori-san didn't care at all and intensified her tongue[r]
-movements even more.[pcms]
+これ以上は耐えきれないと思って言ったが、[r]
+緒織さんは全く気にせず舌使いをより激しくした。[pcms]
 
 *2386|
 [fc]
-I had no way to resist the slippery sensation of Inori-san's[r]
-tongue swirling around my dick and the pleasure it brought.[pcms]
+もはやボクに、モノを舐めまわす緒織さんの[r]
+舌のぬめる感触と快感に抵抗できる術などない。[pcms]
 
 *2387|
 [fc]
-I ended up ejaculating for the second time inside Inori-[r]
-san's mouth.[pcms]
+ボクは緒織さんの咥内に、２回目の射精をしてしまった。[pcms]
 
 ;//〆：ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -891,59 +887,58 @@ san's mouth.[pcms]
 *2388|
 [fc]
 [vo_ior s="iori0097"]
-[ns]Inori[nse]
-"Hamuuuuu, nbbuuuu..."[pcms]
+[ns]緒織[nse]
+「はむっぅぅぅっ、んっぶぅぅぅっ……」[pcms]
 
 *2389|
 [fc]
-Despite the sudden release, Inori-san skillfully caught it[r]
-with the tip of her tongue and swallowed down the viscous[r]
-fluid that had accumulated in her mouth.[pcms]
+突然の放出だったけど、緒織さんはそれを舌先で器用に[r]
+受け止めると、口内にたまった粘液を飲み下していった。[pcms]
 
 *2390|
 [fc]
 [vo_ior s="iori0098"]
-[ns]Inori[nse]
-"Nnguuu, nnguuu, njuruuu"[pcms]
+[ns]緒織[nse]
+「んっぐぅぅっ、んっぐぅっ、じゅるうぅぅ」[pcms]
 
 *2391|
 [fc]
-She then sucked up my dick again, cleaning off any remaining[r]
-semen with her tongue.[pcms]
+さらにボクのモノを吸い上げて、[r]
+内部にのこった精子まで綺麗に舐めとってくれた。[pcms]
 
 *2392|
 [fc]
-[ns]Wataru[nse]
-"Uh, ahhhh..."[pcms]
+[ns]航[nse]
+「うっ、あっぁぁぁっ……」[pcms]
 
 [evcg storage="HEV005g"][trans_c cross time=300]
 
 *2393|
 [fc]
 [vo_ior s="iori0099"]
-[ns]Inori[nse]
-"Nchuppaa"[pcms]
+[ns]緒織[nse]
+「んっちゅっぱぁっ」[pcms]
 
 *2394|
 [fc]
-With a 'suppon' sound, my dick was released from Inori-san's[r]
-mouth with force.[pcms]
+すっぽんという音と共に、緒織さんの咥内から[r]
+勢いよくボクのモノが解放される。[pcms]
 
 *2395|
 [fc]
-After the second release, my saliva-covered dick began to[r]
-wilt and flop around.[pcms]
+２度目の発射を終え、唾液まみれのモノが[r]
+フラフラとしぼんでいった。[pcms]
 
 *2396|
 [fc]
-[ns]Wataru[nse]
-"That was amazing..."[pcms]
+[ns]航[nse]
+「す、すごかったです……」[pcms]
 
 *2397|
 [fc]
 [vo_ior s="iori0100"]
-[ns]Inori[nse]
-"It seems you liked my blowjob, Wataru."[pcms]
+[ns]緒織[nse]
+「私のフェラチオも航は気に入ってくれたみたいやな」[pcms]
 
 ;//〆：フェードアウト
 ;//〆：黒画面
@@ -951,44 +946,44 @@ wilt and flop around.[pcms]
 
 *2398|
 [fc]
-In the end, I couldn't hold back during both the titjob and[r]
-the blowjob, and I ended up ejaculating each time.[pcms]
+結局ボクはパイズリもフェラチオも耐えられず、[r]
+それぞれで発射してしまった。[pcms]
 
 *2399|
 [fc]
-In DVDs and such, both of those are just foreplay, and the[r]
-male actors endure through it to the penetration...[pcms]
+ＤＶＤなどではどちらもそれは前戯であり、[r]
+男優はそれを耐えて挿入までしているのに……。[pcms]
 
 *2400|
 [fc]
-Of course, there's a difference between fiction and reality,[r]
-but I can't help feeling pathetic right now.[pcms]
+もちろんフィクションと現実には差があるだろうけど、[r]
+今のボクはどう考えても情けない気がした。[pcms]
 
 *2401|
 [fc]
 [vo_ior s="iori0101"]
-[ns]Inori[nse]
-"You can still go on, right?"[pcms]
+[ns]緒織[nse]
+「まだいけるやろ？」[pcms]
 
 *2402|
 [fc]
-[ns]Wataru[nse]
-"Ah, um..."[pcms]
+[ns]航[nse]
+「あっ、えっと……」[pcms]
 
 *2403|
 [fc]
-But before I could get too down on myself, Inori-san spoke[r]
-to me again.[pcms]
+だが、落ち込む間もなく緒織さんから[r]
+新たに声をかけられた。[pcms]
 
 *2404|
 [fc]
-When I looked up at her, there she was with her yukata[r]
-undone, revealing her bewitching and exposed skin.[pcms]
+顔をあげてそちらへと目を向けると、[r]
+そこには浴衣をはだけて、肌も露わな、妖艶な姿があった。[pcms]
 
 *2405|
 [fc]
-Immediately inspired by that sight, blood began to flow to[r]
-my crotch. Inori-san slowly straddled the erect object.[pcms]
+たちまちそれに触発されて、ボクの股間に血が通い始める。[r]
+そそり勃ったモノの上に、緒織さんがゆっくりとまたがった。[pcms]
 
 ;//〆：HEV006　緒織と騎乗位で結合
 [se buf=0 storage="se_sex01"]
@@ -996,375 +991,374 @@ my crotch. Inori-san slowly straddled the erect object.[pcms]
 
 *2406|
 [fc]
-My dick advanced into the wet petals, spreading the flesh[r]
-folds slowly as it entered deeper.[pcms]
+肉襞を押し広げてゆっくりと湿った花弁の奥へ、[r]
+ボクのモノが進んで行く。[pcms]
 
 *2407|
 [fc]
-The exquisite sensation of flesh rubbing against flesh made[r]
-me shiver down my spine.[pcms]
+肉と肉の擦れ合う絶妙な感覚に、ボクは背筋を震わせた。[pcms]
 
 *2408|
 [fc]
-[ns]Wataru[nse]
-"Fahh, hahh..."[pcms]
+[ns]航[nse]
+「ふぁっ、はぁっ……」[pcms]
 
 *2409|
 [fc]
 [vo_ior s="iori0102"]
-[ns]Inori[nse]
-"This is a woman's pussy... Feels amazing, doesn't it?"[pcms]
+[ns]緒織[nse]
+「これが女の“おそそ”や……。[r]
+　最高に気持ちええやろ？」[pcms]
 ;//〆：※おそそはおまんこです
 
 *2410|
 [fc]
-[ns]Wataru[nse]
-"Yes... it's incredible, I'm tingling, ah, ahh!"[pcms]
+[ns]航[nse]
+「は、はい……す、すごい、し、[r]
+　しびれてっ、あっ、あっう」[pcms]
 
 *2411|
 [fc]
-The sensation of my wet dick spreading the secret flesh was[r]
-an unimaginable pleasure I had never experienced in my life[r]
-before.[pcms]
+ズブズブと濡れた秘肉を広げて進む感触は、今までの人生で[r]
+一度も経験したことのない、想像を超えた快感だった。[pcms]
 
 *2412|
 [fc]
-Putting a dick inside a pussy... was it always this amazing?[pcms]
+オマンコにモノを入れるって……[r]
+こんなに凄いことだったのか……？[pcms]
 
 *2413|
 [fc]
-The excitement of having sex for the first time made my[r]
-breathing rough.[pcms]
+初めて体験するセックスの興奮に息が荒くなっていく。[pcms]
 
 *2414|
 [fc]
-[ns]Wataru[nse]
-"Hah hahh, it's in... all the way in."[pcms]
+[ns]航[nse]
+「はぁはぁっ、入った……奥まで……入りました」[pcms]
 
 *2415|
 [fc]
 [vo_ior s="iori0103"]
-[ns]Inori[nse]
-"Yeahhh, Wataru's dick is so hard and good. It's hitting[r]
-right against the back of my pussy."[pcms]
+[ns]緒織[nse]
+「ええわぁぁっ、航のちんちんは固くてええわぁ。[r]
+　私の“おそそ”の奥にしっかりと当たってるわ」[pcms]
 
 *2416|
 [fc]
-The sensation of hitting something with the tip, that was[r]
-the feeling of poking the womb, I understood that[r]
-instinctively as a male at that moment.[pcms]
+先端がぶつかる感触、これが子宮を突く感覚だと、[r]
+ボクはその時、雄の本能で理解した。[pcms]
 
 *2417|
 [fc]
 [vo_ior s="iori0104"]
-[ns]Inori[nse]
-"Alright, I'm going to move now, okay?"[pcms]
+[ns]緒織[nse]
+「さあ、動くけどええな？」[pcms]
 
 *2418|
 [fc]
-[ns]Wataru[nse]
-"Huhh huhh... you're going to move?"[pcms]
+[ns]航[nse]
+「ふぅっふぅっ……う、動くんですか」[pcms]
 
 *2419|
 [fc]
-Honestly speaking, at this point I was already at my limit.[pcms]
+正直な話、ボクはこの時点ですでに[r]
+いっぱいいっぱいだった。[pcms]
 
 *2420|
 [fc]
-I had already ejaculated twice from the blowjob and titjob[r]
-earlier, so I had some resistance to stimulation, but still,[r]
-the first penetration was intense...[pcms]
+先ほどフェラチオとパイズリで２回ほど発射していたから、[r]
+大分刺激には耐性がついていたけど、それでも初めての[r]
+挿入は強烈で……。[pcms]
 
 *2421|
 [fc]
-A woman's vagina and the love juices secreted from it were[r]
-enough to arouse my desire to ejaculate just by entangling[r]
-with it.[pcms]
+女性の膣とそこから分泌される愛液は、ボクにとっては[r]
+絡みつくだけで射精欲がそそられる。[pcms]
 
 *2422|
 [fc]
 [vo_ior s="iori0105"]
-[ns]Inori[nse]
-"It's common sense to move during sex. This is also part of[r]
-learning to become a man."[pcms]
+[ns]緒織[nse]
+「セックスは動くのが常識やで。[r]
+　これも男になる勉強の一つや」[pcms]
 
 *2423|
 [fc]
-[ns]Wataru[nse]
-"Wait... ah uguuu"[pcms]
+[ns]航[nse]
+「ま、待って……あっうぐうぅぅ」[pcms]
 
 *2424|
 [fc]
-Without waiting for me to stop her, Inori-san slowly lifted[r]
-her hips and began to move up and down.[pcms]
+ボクの静止も聞かずに緒織さんはゆっくりと腰を浮かせると[r]
+上下に動き始めた。[pcms]
 
 *2425|
 [fc]
-The sensation of being squeezed and rubbed by the wet flesh[r]
-folds immediately clouded my consciousness.[pcms]
+湿った肉襞に締め付けられながら擦られる感覚は、[r]
+ボクの意識をたちまち混濁させる。[pcms]
 
 *2426|
 [fc]
-If I let my guard down, I felt like I might cum right then[r]
-and there.[pcms]
+気を緩めると、その場でイってしまいそうだ。[pcms]
 
 *2427|
 [fc]
 [vo_ior s="iori0106"]
-[ns]Inori[nse]
-"If you don't move, you can't please a girl. Wataru, try[r]
-your best to move your hips and thrust up."[pcms]
+[ns]緒織[nse]
+「うごかへんと、女の子は悦ばせられへんよ。[r]
+　航もきばって腰を動かして、突きあげてみぃ」[pcms]
 
 *2428|
 [fc]
-[ns]Wataru[nse]
-"I-I'm supposed to thrust up?"[pcms]
+[ns]航[nse]
+「ぼ、ボクが突きあげるんですか」[pcms]
 
 *2429|
 [fc]
 [vo_ior s="iori0107"]
-[ns]Inori[nse]
-"That's right. Girls feel love with their womb."[pcms]
+[ns]緒織[nse]
+「そうや。女の子はなぁ、子宮で愛を感じるものなんよ」[pcms]
 
 *2430|
 [fc]
-To please a woman I love seems to be an unavoidable[r]
-challenge.[pcms]
+愛する女性を悦ばせる為には、どうやらこれは避けては[r]
+通れない試練のようだ。[pcms]
 
 *2431|
 [fc]
-A man who can't please a woman is disqualified, I think.[pcms]
+女性を悦ばせられない男なんて、失格だと思う。[pcms]
 
 *2432|
 [fc]
-Since Inori-san is giving me this first experience, I should[r]
-do my best to make an effort as well.[pcms]
+こうして緒織さんが初体験させてくれているのだから、[r]
+ボクもできる限りの努力はしよう。[pcms]
 
 *2433|
 [fc]
-[ns]Wataru[nse]
-"Understood, I'll try..."[pcms]
+[ns]航[nse]
+「分かりました、やってみます……」[pcms]
 
 *2434|
 [fc]
-Trying not to be overwhelmed by pleasure, I tensed my lower[r]
-abdomen and did as she said, lifting my hips and thrusting[r]
-up.[pcms]
+できるだけ快感に飲まれないように、下っ腹に力をこめて[r]
+ボクは言われた通り、腰を浮かせて突きあげた。[pcms]
 
 [evcg storage="HEV006b"][trans_c cross time=300]
 
 *2435|
 [fc]
 [vo_ior s="iori0108"]
-[ns]Inori[nse]
-"Ah, mmmh, that's good, keep it up."[pcms]
+[ns]緒織[nse]
+「あっ、んんっ、ええなぁ、その調子や」[pcms]
 
 *2436|
 [fc]
-[ns]Wataru[nse]
-"Ugh, kuhh... fuuhh, fuuhh"[pcms]
+[ns]航[nse]
+「うっ、くぅっ……ふぅっ、ふぅっ」[pcms]
 
 [evcg storage="HEV006a"][trans_c cross time=300]
 
 *2437|
 [fc]
 [vo_ior s="iori0109"]
-[ns]Inori[nse]
-"Feels good when you move on your own, doesn't it?"[pcms]
+[ns]緒織[nse]
+「自分で動いてみると、気持ちいいものやろ？」[pcms]
 
 *2438|
 [fc]
-Just as Inori-san pointed out, indeed the pussy tightened[r]
-and entwined with my movements in a stimulating way that[r]
-changed with each motion.[pcms]
+緒織さんの指摘通り、確かにオマンコは自分で動くと[r]
+それに連動して締め付けてきたり、肉襞が絡みついてきたりと[r]
+動きに変化があって刺激的だった。[pcms]
 
 *2439|
 [fc]
-With every rub of my dick, more viscous fluid overflowed,[r]
-making the sliding smoother.[pcms]
+モノで擦るたびに粘液があふれ、[r]
+滑りがスムーズになっていく。[pcms]
 
 *2440|
 [fc]
-[ns]Wataru[nse]
-"It's getting more and more sloppy inside..."[pcms]
+[ns]航[nse]
+「どんどん、中がドロドロに……」[pcms]
 
 *2441|
 [fc]
 [vo_ior s="iori0110"]
-[ns]Inori[nse]
-"It's hot, isn't it? Very hot."[pcms]
+[ns]緒織[nse]
+「熱いやろ？　とっても熱いやろ」[pcms]
 
 *2442|
 [fc]
-[ns]Wataru[nse]
-"Yes... I feel like I'm melting."[pcms]
+[ns]航[nse]
+「はい……溶けてしまいそうです」[pcms]
 
 *2443|
 [fc]
 [vo_ior s="iori0111"]
-[ns]Inori[nse]
-"That's the sensation of a man and woman melting together[r]
-into one. It's the feeling of confirming each other's love."[pcms]
+[ns]緒織[nse]
+「それが男と女が一つになって溶け合っていく感覚や。[r]
+　お互いの愛を確信する感覚なんや」[pcms]
 
 *2444|
 [fc]
-Inori-san and I are connected by insertion, becoming one.[pcms]
+ボクと緒織さんは挿入することで繋がり、[r]
+一つになっているのか。[pcms]
 
 *2445|
 [fc]
-That's why we're warmed by each other's body heat...[pcms]
+だから二人の体温で互いが温められて……。[pcms]
 
 *2446|
 [fc]
-[ns]Wataru[nse]
-"Ah uuu, Inori-san's pussy is squeezing... squeezing my dick[r]
-tight."[pcms]
+[ns]航[nse]
+「あっぅぅ、緒織さんのおまんこが、ボクのモノを[r]
+　締め上げて……締め上げてきました」[pcms]
 
 *2447|
 [fc]
 [vo_ior s="iori0112"]
-[ns]Inori[nse]
-"That's how a man thrusts and a woman tightens, feeling each[r]
-other."[pcms]
+[ns]緒織[nse]
+「そうやって男が突いて、女が締め付けて互いに[r]
+　感じていくものなんや」[pcms]
 
 *2448|
 [fc]
-[ns]Wataru[nse]
-"This is... the sex... between a man and a woman..."[pcms]
+[ns]航[nse]
+「こ、これが……男と女の……セックス……」[pcms]
 
 *2449|
 [fc]
-My first experience was akin to exploring and understanding[r]
-an unknown realm.[pcms]
+ボクにとっての初体験、それは未知の領域を理解し、[r]
+探究する行為に等しかった。[pcms]
 
 *2450|
 [fc]
-Every second brought new discoveries and surprises, and each[r]
-movement hid unexperienced pleasures.[pcms]
+一秒一秒の変化に新しい発見と驚きがあり、[r]
+一つ一つの動作に未体験の快感が隠されていた。[pcms]
 
 *2451|
 [fc]
-[ns]Wataru[nse]
-"Ah uuu, fahh, ahh uuuu!"[pcms]
+[ns]航[nse]
+「あぅぅっ、ふぁぁっ、あうぅぅぅっ」[pcms]
 
 *2452|
 [fc]
 [vo_ior s="iori0113"]
-[ns]Inori[nse]
-"How about it, Wataru? Can you see the path to becoming an[r]
-adult man?"[pcms]
+[ns]緒織[nse]
+「どうや航、大人の男への道が見えてきたやろ」[pcms]
 
 *2453|
 [fc]
-As I got carried away using my hips, I felt a sense of[r]
-conquest awakening within me.[pcms]
+夢中になって腰を使い、緒織さんを責めていると、[r]
+心の中に眠っていた征服欲が目覚めていく気がした。[pcms]
 
 *2454|
 [fc]
-I am now one with Inori-san, and I am conquering the female[r]
-that is Inori-san.[pcms]
+ボクはいま緒織さんと一つになり、そして緒織さんという[r]
+雌を征服している。[pcms]
 
 *2455|
 [fc]
-This illusion-like emotion kindled a heat within my chest,[r]
-driving me forward.[pcms]
+そんな錯覚に近い感情が胸の内に熱を宿して灯り、[r]
+ボクを突き動かしていった。[pcms]
 
 [evcg storage="HEV006b"][trans_c cross time=300]
 
 *2456|
 [fc]
 [vo_ior s="iori0114"]
-[ns]Inori[nse]
-"Nn, nnnn ahhh, yes. Your hard cock feels so good."[pcms]
+[ns]緒織[nse]
+「んっ、んんっあぁぁっ、ええよ。[r]
+　航の固いおちんちん、とってもええよ」[pcms]
 
 *2457|
 [fc]
-She's enjoying it; right now, Inori-san is enjoying it with[r]
-my thing.[pcms]
+悦んでいる、いまボクのモノで緒織さんが悦んでいる。[pcms]
 
 *2458|
 [fc]
-Inori-san's hot breaths and sweet cries of joy felt like[r]
-they were praising my manhood.[pcms]
+緒織さんの洩らす熱い吐息と甘い歓喜の声が、[r]
+ボクの男を称えているようにすら感じられた。[pcms]
 
 [evcg storage="HEV006a"][trans_c cross time=300]
 
 *2459|
 [fc]
 [vo_ior s="iori0115"]
-[ns]Inori[nse]
-"Ahh ahh ahh, nnnnnn, fuuu... You're doing well, you're[r]
-really trying hard this time."[pcms]
+[ns]緒織[nse]
+「あっぁぁあっ、んっんんっ、ふぅぅっ……。[r]
+　がんばってるなぁっ、今回はよう頑張ってるなぁ」[pcms]
 
 *2460|
 [fc]
-With her voluptuous body trembling on top of my hips, the[r]
-beautiful Inori-san writhed in pleasure.[pcms]
+ボクの腰の上で豊満な肉体をブルブルと震わせ、[r]
+美しい緒織さんが悶え、快感を堪能している。[pcms]
 
 *2461|
 [fc]
-My thing, my thrusting is leading Inori-san to the garden of[r]
-pleasure.[pcms]
+ボクのモノが、ボクの突き上げが、緒織さんを[r]
+悦楽の園へと誘っている。[pcms]
 
 *2462|
 [fc]
-The more forcefully and intensely I moved my hips, which I[r]
-had been moving timidly at first, the more my thing[r]
-repeatedly traveled from the entrance to the womb.[pcms]
+もっと強く、もっと激しく、気がつけば恐る恐る[r]
+動いていたはずの腰は力強くなり、入口から子宮まで[r]
+モノは何度も往復を繰り返した。[pcms]
 
 [evcg storage="HEV006b"][trans_c cross time=300]
 
 *2463|
 [fc]
 [vo_ior s="iori0116"]
-[ns]Inori[nse]
-"Nnnnnn, fuu ahh, yes, yes!"[pcms]
+[ns]緒織[nse]
+「んっんんっ、ふぅっあぁ、ええわぁええわぁっ」[pcms]
 
 *2464|
 [fc]
-The vaginal walls trembled minutely as they pulled my thing[r]
-deeper, sucking it in while entwining it with thick mucus.[pcms]
+肉襞が小刻みに震えながら、ボクのモノを奥へと[r]
+引き込もうとして、濃厚な粘液を絡めながら[r]
+吸いついてくる。[pcms]
 
 *2465|
 [fc]
-As if intentionally trying to milk it out, my thing was[r]
-stroked by the vaginal walls from the base to the tip over[r]
-and over again.[pcms]
+まるで搾りだそうと意図的に動いているかのように、[r]
+ボクのモノは根元から先端へと向かって[r]
+何度も膣壁にしごかれた。[pcms]
 
 *2466|
 [fc]
-[ns]Wataru[nse]
-"Uhh ahh, if you squeeze it like that..."[pcms]
+[ns]航[nse]
+「うっあぁぁ、そんなに搾られたら……」[pcms]
 
 [evcg storage="HEV006a"][trans_c cross time=300]
 
 *2467|
 [fc]
 [vo_ior s="iori0117"]
-[ns]Inori[nse]
-"Ahhhh, ah fuu, I'm at my limit too. Twitching and[r]
-convulsing... I can't stop."[pcms]
+[ns]緒織[nse]
+「あぁぁっ、あっふぅ、私も限界やぁ。[r]
+　ビクビク痙攣して……とまらんへんのよ」[pcms]
 
 *2468|
 [fc]
-It seems that this action of the vaginal walls is not[r]
-something Inori-san is doing intentionally.[pcms]
+どうやら肉襞のこの動作は、緒織さんが意図的に[r]
+行っているわけではないようだ。[pcms]
 
 *2469|
 [fc]
-Just as seeing me in agony excites her and makes my thing[r]
-harder, this must be a reflex of the female genitalia.[pcms]
+ボクが悶える姿を見て興奮し、モノが固さを増すのと[r]
+同様に、これが女性器の条件反射なんだろう。[pcms]
 
 *2470|
 [fc]
-[ns]Wataru[nse]
-"Uhh ahh, I can't take it anymore..."[pcms]
+[ns]航[nse]
+「うっあぁっ、も、もう無理です……」[pcms]
 
 *2471|
 [fc]
 [vo_ior s="iori0118"]
-[ns]Inori[nse]
-"You can come if you need to... but not inside, okay...?"[pcms]
+[ns]緒織[nse]
+「いっても、いってもええけど……。[r]
+　中は、中だけはあかんよ……？」[pcms]
 
 ;//---------------------------------------------------------------
 ;//〆：・時間制限選択肢（射精先の選択）
@@ -1381,15 +1375,15 @@ harder, this must be a reflex of the female genitalia.[pcms]
 ;	[link storage="00102.ks" target=*00102_02]すぐ抜かなきゃ！[endlink]
 ;	;[link storage="00102.ks" target=*00102_03]時間切れ[endlink]
 ;	[link storage="00102.ks" target=*00102_03]どうしよう……[endlink]
-[pcms]
+;	[s]
 
 *SEL05|もう少しだけ入れていたい……／すぐ抜かなきゃ！／どうしよう……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'I want to stay inside a little longer'"]
-[eval exp="f.seltext04 = 'I have to pull out now!'"]
-[eval exp="f.seltext06 = 'What should I do'"]
+[eval exp="f.seltext02 = 'もう少しだけ入れていたい……'"]
+[eval exp="f.seltext04 = 'すぐ抜かなきゃ！'"]
+[eval exp="f.seltext06 = 'どうしよう……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -1436,13 +1430,13 @@ harder, this must be a reflex of the female genitalia.[pcms]
 
 *2472|
 [fc]
-Clenching my teeth desperately as Inori-san said, I tried[r]
-hard not to release inside her vagina.[pcms]
+懸命に歯を食いしばって緒織さんの言う通り、[r]
+ボクは膣内で出さないようこらえた。[pcms]
 
 *2473|
 [fc]
-And when I felt like I was reaching my limit, Inori-san's[r]
-vaginal walls contracted even more tightly around my thing.[pcms]
+そして限界点に到達しそうな時、緒織さんの膣壁が[r]
+一段と強く収縮してモノを圧迫してきた。[pcms]
 
 ;//〆：ホワイトフラッシュ
 ;メスフラ
@@ -1451,42 +1445,42 @@ vaginal walls contracted even more tightly around my thing.[pcms]
 *2474|
 [fc]
 [vo_ior s="iori0119"]
-[ns]Inori[nse]
-"Ah fuuuu, nnn fuu ahhhnn!"[pcms]
+[ns]緒織[nse]
+「あっふぅぅぅ、んっふぅああぁぁっん！」[pcms]
 
 *2475|
 [fc]
-...Did Inori-san climax?[pcms]
+……緒織さんが絶頂した？[pcms]
 
 *2476|
 [fc]
-With little prior knowledge, I somehow understood that this[r]
-was a woman's climax, and at that moment, I also reached my[r]
-limit.[pcms]
+少ない予備知識からなんとなく、それが女性の絶頂と[r]
+理解した瞬間、ボクも限界を迎えた。[pcms]
 
 *2477|
 [fc]
-The gripping and milking motion of the vaginal walls created[r]
-an incredible wave of pleasure that engulfed me.[pcms]
+グイグイとモノを締め上げて搾る膣壁の動きは[r]
+凄まじい快楽の波を起こして、ボクを飲み込む。[pcms]
 
 *2478|
 [fc]
-[ns]Wataru[nse]
-"Uhh ahh!"[pcms]
+[ns]航[nse]
+「うっぁっ！」[pcms]
 
 *2479|
 [fc]
-I was told not to do it inside, but in this situation, there[r]
-was nothing I could do.[pcms]
+中はダメと言われたけど、この状況ではどうする[r]
+こともできない。[pcms]
 
 *2480|
 [fc]
-Just as I was about to give up, Inori-san quickly lifted her[r]
-hips and pulled my thing out of her vagina.[pcms]
+そうあきらめかけた時、緒織さんは自分から素早く腰をあげて[r]
+モノを自分の膣から引き抜いた。[pcms]
 
 *2481|
 [fc]
-With a wet sound of release, I ejaculated like a fountain.[pcms]
+じゅるぽっん、と湿った音がして解放されると[r]
+ボクは噴水のように精子を発射した。[pcms]
 
 ;//〆：ホワイトフラッシュ
 ;//〆：HEV006_腹部射精差分
@@ -1496,46 +1490,46 @@ With a wet sound of release, I ejaculated like a fountain.[pcms]
 *2482|
 [fc]
 [vo_ior s="iori0120"]
-[ns]Inori[nse]
-"Fuuu ahh! To reach all the way to my face... You really[r]
-have some power."[pcms]
+[ns]緒織[nse]
+「ふっぅっぁぁあっ！　顔まで届くなんて……。[r]
+　ほんまに凄い勢いやなぁ」[pcms]
 
 *2483|
 [fc]
-[ns]Wataru[nse]
-"Ah uhh, fuuu, fuu ahhh..."[pcms]
+[ns]航[nse]
+「あうっ、ふっぅ、ふぅっあぁぁ……」[pcms]
 
 *2484|
 [fc]
-The ejaculation wouldn't stop.[pcms]
+もはや射精は止まらない。[pcms]
 
 *2485|
 [fc]
-I ended up showering every last drop onto Inori-san's face[r]
-like a white shower.[pcms]
+ボクは一滴残らず緒織さんの顔へと白いシャワーを[r]
+降らせてしまった。[pcms]
 
 *2486|
 [fc]
-[ns]Wataru[nse]
-"Haa haa haa haa..."[pcms]
+[ns]航[nse]
+「はぁはぁはぁはぁ……」[pcms]
 
 *2487|
 [fc]
-Even though the ejaculation had finally ended, I was panting[r]
-heavily as if I had just sprinted in a track race.[pcms]
+ようやく射精が終わったものの、まるで陸上競技で[r]
+全力疾走したかのように、ボクは激しく息切れしていた。[pcms]
 
 *2488|
 [fc]
 [vo_ior s="iori0121"]
-[ns]Inori[nse]
-"Being young is great. To reach this far... you're really[r]
-something."[pcms]
+[ns]緒織[nse]
+「若いってええことやねぇ。[r]
+　こんなところまで届くなんて、ほんまたいしたものや」[pcms]
 
 *2489|
 [fc]
-Contrary to me who couldn't even speak properly, Inori-san[r]
-had an enraptured expression as she licked the semen[r]
-dripping down her face.[pcms]
+まともに言葉も発せられないボクとは対照的に、[r]
+緒織さんはうっとりとした表情で、顔面に滴る精液を[r]
+ペロリと舐めた。[pcms]
 
 ;//〆：・ラベルjump　「緒織とセックス　合流」
 [jump storage="00102.ks" target=*00102_04]
@@ -1549,34 +1543,32 @@ dripping down her face.[pcms]
 *2490|
 [fc]
 [vo_ior s="iori0122"]
-[ns]Inori[nse]
-"Ah ahhh, nnn kuu!!"[pcms]
+[ns]緒織[nse]
+「あっあぁぁっ、んっくぅっ！！」[pcms]
 
 *2491|
 [fc]
-With a particularly loud and short gasp, Inori-san's vaginal[r]
-walls contracted violently, squeezing my thing.[pcms]
+一際大きく短めに喘ぎ声をあげると、緒織さんの膣壁が[r]
+激しく収縮して、ボクのモノを搾りあげてきた。[pcms]
 
 *2492|
 [fc]
-...Did Inori-san climax?[pcms]
+……緒織さんが絶頂した？[pcms]
 
 *2493|
 [fc]
-I realized that but at the same time couldn't withstand the[r]
-tightening of the throbbing flesh walls and reached my[r]
-limit.[pcms]
+と認識はできたものの、同時にボクも躍動する肉襞の[r]
+締め付けに耐えられず限界を迎える。[pcms]
 
 *2494|
 [fc]
-In a panic while resisting the tightening flesh walls, I[r]
-pulled back my hips and as soon as I came out of the vagina,[r]
-I ejaculated.[pcms]
+慌てて肉襞の締め付けに逆らいながら腰を引くと、[r]
+そのまま膣から出たとたんボクは発射してしまった。[pcms]
 
 *2495|
 [fc]
-[ns]Wataru[nse]
-"Uo oh oh..."[pcms]
+[ns]航[nse]
+「うおっおおっ……」[pcms]
 
 ;//〆：ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -1584,25 +1576,24 @@ I ejaculated.[pcms]
 
 *2496|
 [fc]
-Inori-san's breasts and abdomen were splattered with a large[r]
-amount of white, sticky fluid.[pcms]
+緒織さんの胸や腹部に[r]
+大量の白い粘液が飛び散っていく。[pcms]
 
 *2497|
 [fc]
-The love juices dripping from our joined parts mixed with[r]
-the semen I had shot out, making her wet thighs look[r]
-incredibly lewd.[pcms]
+結合部から滴り落ちた愛液と、ボクが発射した精子が[r]
+混ざり、いやらしく濡れた太ももがとても印象的だった。[pcms]
 
 *2498|
 [fc]
 [vo_ior s="iori0123"]
-[ns]Inori[nse]
-"Haa haa... you let out so much."[pcms]
+[ns]緒織[nse]
+「はぁはぁ……いっぱいだしたなぁ」[pcms]
 
 *2499|
 [fc]
-While smearing the gooey fluid on her body with her palm,[r]
-Inori-san laughed with a blissful expression.[pcms]
+ドロドロの粘液を緒織さんは自分の身体に掌で[r]
+塗り込みながら、うっとりとした顔で笑った。[pcms]
 
 ;//〆：・ラベルjump　「緒織とセックス　合流」
 [jump storage="00102.ks" target=*00102_04]
@@ -1615,18 +1606,17 @@ Inori-san laughed with a blissful expression.[pcms]
 
 *2500|
 [fc]
-I knew I shouldn't cum inside... but where should I have[r]
-done it?[pcms]
+中で出してはいけない、ということは……、[r]
+どこに出せばいいんだろう？[pcms]
 
 *2501|
 [fc]
-I couldn't just make a mess of the room...[pcms]
+部屋を汚すわけにはいかないし……。[pcms]
 
 *2502|
 [fc]
-Even as I was racing towards the last spurt, my hesitation[r]
-was cut short by Inori-san's vagina clenching even tighter[r]
-as it trembled.[pcms]
+ラストスパートをかけつつも、そんなことで迷っていると[r]
+緒織さんの膣が震えながら一段と強く締め付けてきた。[pcms]
 
 ;//〆：ホワイトフラッシュ
 ;[se buf=0 storage="se_sex01"]
@@ -1635,29 +1625,28 @@ as it trembled.[pcms]
 *2503|
 [fc]
 [vo_ior s="iori0124"]
-[ns]Inori[nse]
-"Nnfuu, nnnnnkuuu!"[pcms]
+[ns]緒織[nse]
+「んっふぅ、っんんんっくぅぅ！」[pcms]
 
 *2504|
 [fc]
-Is this a woman's climax?[pcms]
+これが女性の絶頂？[pcms]
 
 *2505|
 [fc]
-Even with my limited prior knowledge, I could somehow[r]
-recognize it. I felt a sense of pride in being able to bring[r]
-Inori-san to climax.[pcms]
+貧しい予備知識ながらもなんとなく認識することができた。[r]
+ボクは緒織さんを絶頂させることができ、精神的に誇らしかった。[pcms]
 
 *2506|
 [fc]
-But that complacency was the cause of my failure. The[r]
-relaxation of my mind suddenly heightened my pleasure, and[r]
-like a breached dam, I released my sperm.[pcms]
+だが、その油断が失敗の元だった。[r]
+気の緩みが一気にボクの快感を上昇させて、[r]
+決壊したダムのように、精子を放出してしまった。[pcms]
 
 *2507|
 [fc]
-[ns]Wataru[nse]
-"Ah ah ahh!"[pcms]
+[ns]航[nse]
+「あっあぁぁっ！」[pcms]
 
 ;//〆：ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -1666,14 +1655,14 @@ like a breached dam, I released my sperm.[pcms]
 *2508|
 [fc]
 [vo_ior s="iori0125"]
-[ns]Inori[nse]
-"Fah, it's hot... nnn, your semen is inside me..."[pcms]
+[ns]緒織[nse]
+「ふぁっ、熱い……んんっ、ザーメンが私の中に……」[pcms]
 
 *2509|
 [fc]
-The semen that started flowing out didn't stop, and inspired[r]
-by the pulsating flesh walls that squeezed like they were[r]
-milking me, I ended up releasing every last drop.[pcms]
+ドクドクと流れだした精液は止まらず、[r]
+搾りあげるように締め付ける肉襞の躍動に触発され、[r]
+結局最後の一滴まで出し尽くしてしまった。[pcms]
 
 ;//〆：差分＿膣内射精
 [evcg storage="HEV006d"][trans_c cross time=300]
@@ -1681,21 +1670,21 @@ milking me, I ended up releasing every last drop.[pcms]
 *2510|
 [fc]
 [vo_ior s="iori0126"]
-[ns]Inori[nse]
-"You really are a hopeless boy. It's supposed to be only for[r]
-Tadahiko-san... but today is special, okay?"[pcms]
+[ns]緒織[nse]
+「もうしょうがない子やなぁ。[r]
+　中は彦さんだけなのに……今日は特別、やで？」[pcms]
 
 *2511|
 [fc]
-[ns]Wataru[nse]
-"Haa haa, I'm sorry..."[pcms]
+[ns]航[nse]
+「はぁはぁ、す、すみません……」[pcms]
 
 *2512|
 [fc]
 [vo_ior s="iori0127"]
-[ns]Inori[nse]
-"Well, it's your first time after all. I'll let this one[r]
-slide."[pcms]
+[ns]緒織[nse]
+「まぁ初めてのことやもんなぁ。[r]
+　これくらいのことは大目にみてあげるわ」[pcms]
 
 ;//〆：・ラベルjump　「緒織とセックス　合流」
 [jump storage="00102.ks" target=*00102_04]
@@ -1714,53 +1703,53 @@ slide."[pcms]
 
 *2513|
 [fc]
-After an exciting and stimulating first experience, I was[r]
-suddenly overwhelmed by an intense feeling of fatigue.[pcms]
+興奮と刺激に満ちた初体験を終えると、ボクは途端に[r]
+激しい疲労感に襲われた。[pcms]
 
 *2514|
 [fc]
-The continuous ejaculations amidst tension and excitement[r]
-seemed to have been a tremendous physical burden.[pcms]
+緊張と興奮の中の連続しての射精は、やはり肉体的に[r]
+ものすごい負担だったようだ。[pcms]
 
 *2515|
 [fc]
-Without feeling the true sense of becoming a man that Inori-[r]
-san mentioned, I found myself drifting off to sleep.[pcms]
+緒織さんの言う本当の男になった実感もないまま、[r]
+ボクはうとうとと眠りに落ちそうになった。[pcms]
 
 [evcg storage="EV006e"][trans_c cross time=300]
 
 *2516|
 [fc]
 [vo_ior s="iori0128"]
-[ns]Inori[nse]
-"Did this help you feel a bit better?"[pcms]
+[ns]緒織[nse]
+「これで少しは元気になれたか？」[pcms]
 
 *2517|
 [fc]
-[ns]Wataru[nse]
-"Yes... thank you very much."[pcms]
+[ns]航[nse]
+「は、はぃ……ありがとうございました」[pcms]
 
 *2518|
 [fc]
-I hadn't forgotten about Yuuho, but at that moment, the pain[r]
-in my chest wasn't as unbearable.[pcms]
+悠帆の事を忘れたわけではないけれど、[r]
+今のボクには胸が張り裂けるような痛みはなかった。[pcms]
 
 *2519|
 [fc]
-[ns]Wataru[nse]
-"Thanks to you, I feel a little more at ease."[pcms]
+[ns]航[nse]
+「おかげさまで少しだけ、気が楽になりました」[pcms]
 
 [evcg storage="EV006d"][trans_c cross time=300]
 
 *2520|
 [fc]
 [vo_ior s="iori0129"]
-[ns]Inori[nse]
-"...thank goodness."[pcms]
+[ns]緒織[nse]
+「……よかったわぁ」[pcms]
 
 *2521|
 [fc]
-And then my consciousness slipped into the abyss of sleep.[pcms]
+そしてボクの意識は睡眠の深淵へと落ちていった。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -1776,74 +1765,72 @@ And then my consciousness slipped into the abyss of sleep.[pcms]
 
 *2522|
 [fc]
-The faint sound near my ear slowly brought my awareness back[r]
-to reality.[pcms]
+耳元にかすかに聞こえた音が、ボクの意識を[r]
+ゆっくりと現実へと浮上させる。[pcms]
 
 *2523|
 [fc]
-In the hazy state of consciousness, as I barely opened my[r]
-eyes, I saw Inori-san fixing her kimono in my field of[r]
-vision.[pcms]
+ぼんやりと朧げな意識の中で、うっすらと目をあけてみると、[r]
+視界には着物を整える緒織さんの姿が入ってきた。[pcms]
 
 *2524|
 [fc]
-[ns]Wataru[nse]
-"It wasn't a dream..."[pcms]
+[ns]航[nse]
+「夢じゃ、なかったんだ……」[pcms]
 
 *2525|
 [fc]
-Even in my drowsy state of mind, that was something I[r]
-understood clearly.[pcms]
+まどろんだ意識の中でも、なぜかそれだけは冷静に理解していた。[pcms]
 
 *2526|
 [fc]
 [vo_ior s="iori0130"]
-[ns]Inori[nse]
-"Looks like you woke up before I could wake you."[pcms]
+[ns]緒織[nse]
+「起こす前に起きたようやな」[pcms]
 
 *2527|
 [fc]
-[ns]Wataru[nse]
-"How long... did I sleep?"[pcms]
+[ns]航[nse]
+「どれくらい……寝てましたか？」[pcms]
 
 *2528|
 [fc]
-Crawling out of the futon and asking that question, Inori-[r]
-san pointed at the clock and smiled brightly.[pcms]
+布団から這い出して尋ねると、時計を指さして[r]
+緒織さんがにっこりと笑った。[pcms]
 
 *2529|
 [fc]
 [vo_ior s="iori0131"]
-[ns]Inori[nse]
-"Just under two hours. To recover that quickly, young people[r]
-really do have energy."[pcms]
+[ns]緒織[nse]
+「２時間弱やな。それだけで回復するんやから[r]
+　やっはり若い子は元気がええわ」[pcms]
 
 *2530|
 [fc]
-Then I got dressed and prepared to leave.[pcms]
+そしてボクは服を着ると帰り支度をした。[pcms]
 
 *2531|
 [fc]
-In front of the shop, Inori-san hugged me gently one more[r]
-time and whispered in my ear.[pcms]
+お店の前で緒織さんはもう一度優しく抱きしめてくれると、[r]
+耳元で囁きかけてきた。[pcms]
 
 *2532|
 [fc]
 [vo_ior s="iori0132"]
-[ns]Inori[nse]
-"Boys can't be crying all the time, okay? Today was special.[r]
-Don't tell anyone about this."[pcms]
+[ns]緒織[nse]
+「男の子は、泣いてばかりじゃあかんよ？[r]
+　今日は特別やからね。誰らも言ったらあかんよ」[pcms]
 
 *2533|
 [fc]
-[ns]Wataru[nse]
-"Yes... thank you very much."[pcms]
+[ns]航[nse]
+「はい……ありがとうございました」[pcms]
 
 *2534|
 [fc]
-While feeling embarrassed that I could only respond with[r]
-such a silly remark, I bowed my head and started walking[r]
-home, finally feeling a slight sense of becoming a man.[pcms]
+我ながら間の抜けた言葉しか返せないなぁと呆れつつ、[r]
+ボクは頭を下げると家へと向かって歩き出しながら、[r]
+ようやく男になった実感を少しだけ感じていた。[pcms]
 
 
 

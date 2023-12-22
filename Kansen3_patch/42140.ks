@@ -1,10 +1,10 @@
 ;//block:C015
-;//ブロック４２１４０『地下道漣のみ脱出編』
+;//ブロック４２１４０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42130.txtから
 
 *42140_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣
@@ -42,8 +42,8 @@
 
 *5781|
 [fc]
-We stumbled a few times, but somehow we managed to make it[r]
-back to the front of the branch school's basement.[pcms]
+ボクたちは何度か転びながらも、[r]
+なんとか分校舎の地下室の手前にまで戻ってきた。[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -53,77 +53,77 @@ back to the front of the branch school's basement.[pcms]
 *5782|
 [fc]
 [vo_ren s="ren0659"]
-[ns]Ren[nse]
-"Haa... haa... nnh..."[pcms]
+[ns]漣[nse]
+「はあぁ……はあぁ……んんっ……」[pcms]
 
 *5783|
 [fc]
-[ns]Wataru[nse]
-"Ren...!"[pcms]
+[ns]航[nse]
+「漣っ……！」[pcms]
 
 *5784|
 [fc]
-Ren is breathing with difficulty. It can't be helped since[r]
-her fever just went down.[pcms]
+漣が苦しそうな息をしている。[r]
+熱が下がったばかりなんだし、しかたがない。[pcms]
 
 *5785|
 [fc]
-[ns]Wataru[nse]
-"Ren... get on my back..."[pcms]
+[ns]航[nse]
+「漣っ……ボクの背中に……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5786|
 [fc]
 [vo_ren s="ren0660"]
-[ns]Ren[nse]
-"But... Onii-chan..."[pcms]
+[ns]漣[nse]
+「そんな……お兄ちゃん……」[pcms]
 
 *5787|
 [fc]
-[ns]Wataru[nse]
-"It's okay. Kousuke has been carrying the luggage all this[r]
-time..."[pcms]
+[ns]航[nse]
+「大丈夫だよ。[r]
+　荷物はずっとコースケが持ってきてくれたし……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5788|
 [fc]
-[ns]Kousuke[nse]
-"That's right..."[pcms]
+[ns]浩助[nse]
+「そうそう……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5789|
 [fc]
 [vo_ren s="ren0661"]
-[ns]Ren[nse]
-"Then..."[pcms]
+[ns]漣[nse]
+「じゃあ……」[pcms]
 
 *5790|
 [fc]
-Ren climbed onto my back with an apologetic look.[pcms]
+漣は申し訳なさそうにボクへとおぶさる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5791|
 [fc]
 [vo_mar s="maru0774"]
-[ns]Margarita[nse]
-"Let's slow down the pace a bit. It seems impossible to keep[r]
-sprinting at full speed..."[pcms]
+[ns]マルガリータ[nse]
+「少しペースを落とすとしよう。[r]
+　全力疾走を続けるのは無理そうだしな……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5792|
 [fc]
-[ns]Kousuke[nse]
-"Indeed..."[pcms]
+[ns]浩助[nse]
+「そうですね……」[pcms]
 
 *5793|
 [fc]
-The two of them, hardly out of breath, said so. It goes[r]
-without saying that they are being considerate of us.[pcms]
+ほとんど息の乱れてない二人が言った。[r]
+ボクたちに気を使ってくれているのは言うまでもない。[pcms]
 
 ;//@konya キャラ消し
 [chara_int_ layer=5][trans_c cross time=150]
@@ -136,23 +136,23 @@ without saying that they are being considerate of us.[pcms]
 
 *5794|
 [fc]
-I carried Ren on my back and started running. Though it was[r]
-more like a brisk walk...[pcms]
+ボクは漣を背負って、走り始めた。[r]
+走るといっても早足ぐらいで……。[pcms]
 
 *5795|
 [fc]
-I thought we should move faster... but since it's the[r]
-senior's judgment... it must be okay.[pcms]
+もっと早くと思ったけど……先輩の見立てなんだから……、[r]
+きっと大丈夫だ。[pcms]
 
 *5796|
 [fc]
-But as I thought about it, a new question came to mind.[pcms]
+だけど、それを考えているとボクは新たな疑問が浮かんできた。[pcms]
 
 ;//--------------------------------------------------------------------
 ;//　●判定
-;//　選択肢Ｃ１で「１１：出る」を選んだ
+;//　選択肢Ｃ－１で「１－１：出る」を選んだ
 ;//　→ブロック４２１５０へ
-;//　選択肢Ｃ２で「２１：出る」を選んだ
+;//　選択肢Ｃ－２で「２－１：出る」を選んだ
 ;//　→ブロック４２１８０へ
 
 ;//42080で出たら、42150

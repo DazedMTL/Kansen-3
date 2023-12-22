@@ -22,305 +22,308 @@
 
 *2192|
 [fc]
-Gakon![pcms]
+ガコンッ！[pcms]
 
 *2193|
 [fc]
-As I struggled to close the hatch, I witnessed the sliding[r]
-door being kicked open right before my eyes.[pcms]
+ハッチを閉めるのに手間取っていたら、[r]
+ボクの目の前でスライドドアが蹴破られるのを[r]
+見てしまった。[pcms]
 
 *2194|
 [fc]
-[ns]Wataru[nse]
-"This is bad. I need to escape quickly!!"[pcms]
+[ns]航[nse]
+「ヤバイ。早く逃げなきゃ！！」[pcms]
 
 *2195|
 [fc]
-I hurriedly finished closing the hatch and descended the[r]
-ladder in a tumble.[pcms]
+ボクはハッチの蓋を閉めるのもそこそこに、[r]
+転げ落ちるようにハシゴを降りた。[pcms]
 
 *2196|
 [fc]
-The ceiling was so low that I had to stoop to walk, and the[r]
-only light was from the flashlight that the senior was[r]
-holding.[pcms]
+身を少しかがめて歩かないといけないくらいの天井の[r]
+低さで、電気らしいものは先輩が持ってる懐中電灯の[r]
+光だけだった。[pcms]
 
 *2197|
 [fc]
-;The light coming in from the ventilation ducts was[r]
-blinding, but it wasn't enough to fully illuminate the[r]
-passageway, so I ran there relying on the light of the[r]
-flashlight as if I was about to trip.[pcms]
+;一応通風孔から入ってくる外の光が眩しいけれど、[r]
+一応通風孔から入ってくる外の光が、[r]
+通路全体を明るくするほどでもなくて、ボクは転ぶような[r]
+勢いで懐中電灯の明かりを頼りにそこまで走った。[pcms]
 
 *2198|
 [fc]
-[ns]Wataru[nse]
-"Senior, the door has been broken!!"[pcms]
+[ns]航[nse]
+「先輩、ドアが破られました！！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2199|
 [fc]
 [vo_mar s="maru0278"]
-[ns]Margarita[nse]
-"I see. I didn't expect that door to hold anyway, it was[r]
-anticipated. More importantly, let's open this hatch and get[r]
-out."[pcms]
+[ns]マルガリータ[nse]
+「そうか。あのドアがそう支えられるとは思えない[r]
+　からな、想定済みだ。それよりこのハッチを[r]
+　開けて抜けるぞ」[pcms]
 
 *2200|
 [fc]
-While saying that, the senior pointed with her flashlight to[r]
-another hatch attached to the bare concrete foundation.[pcms]
+そう言いながら先輩が懐中電灯で指し示したのは、[r]
+コンクリートむき出しの基礎にくっついている[r]
+もうひとつのハッチだった。[pcms]
 
 *2201|
 [fc]
-[ns]Infected Man A[nse]
-"I smell something good coming from here, huh?"[pcms]
+[ns]感染者・男Ａ[nse]
+「ここからいい匂いがするなぁ？」[pcms]
 
 *2202|
 [fc]
-[ns]Infected Person - Male B[nse]
-"A woman... there's a woman here."[pcms]
+[ns]感染者・男Ｂ[nse]
+「おんなぁ……女がいるぞぉ」[pcms]
 
 *2203|
 [fc]
-Although it's hard to see in the dim light, I could finally[r]
-make out a man's legs extending from the gaping hole.[pcms]
+薄闇の中わからないけれど、男の足が開けっ放しの[r]
+穴から伸びてるのだけはようやく見える。[pcms]
 
 *2204|
 [fc]
-[ns]Wataru[nse]
-"If we're opening this, why aren't you helping, Kousuke?"[pcms]
+[ns]航[nse]
+「ここを開けるのなら、なんで手伝ってないんだよ、[r]
+　コースケ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2205|
 [fc]
-[ns]Kousuke[nse]
-"Why should I trust what a woman says?"[pcms]
+[ns]浩助[nse]
+「こんな女の言うことなんか、信用できるか」[pcms]
 
 *2206|
 [fc]
-[ns]Wataru[nse]
-"What...!?"[pcms]
+[ns]航[nse]
+「なっ……！？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2207|
 [fc]
 [vo_yuh s="yuho0179"]
-[ns]Yuuho[nse]
-"Kousuke has been acting like an idiot ever since earlier.[r]
-Did something happen before you met up with me?"[pcms]
+[ns]悠帆[nse]
+「さっきからこの調子なのよ、馬鹿コースケ。[r]
+　わたしと合流するまでに何かあったの？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2208|
 [fc]
 [vo_ren s="ren0319"]
-[ns]Ren[nse]
-"Nothing in particular, but Ko-chan has his own worries..."[pcms]
+[ns]漣[nse]
+「別にないけど、コーちゃんはコーちゃんで[r]
+　心配することがあるから……」[pcms]
 
 *2209|
 [fc]
-Although Ren defended him, which was contrary to Yuuho's[r]
-rising anger, it's possible she learned something from[r]
-Kousuke when they went to help Yuuho alone.[pcms]
+二人っきりにして悠帆を助けに行ったときに[r]
+コースケから何かを聞き出したのかもしれないけれど、[r]
+いきり立つ悠帆とは逆に漣は彼をかばった。[pcms]
 
 *2210|
 [fc]
-Worries? What is he fussing about at a time like this?[r]
-Kousuke...[pcms]
+心配？[r]
+この期に及んで、何を心配してごねてるんだ？[r]
+コースケは……。[pcms]
 
 *2211|
 [fc]
-Is there something more important to him than his own life?[pcms]
+自分の命を守る以上に大切なことなのか？[pcms]
 
 *2212|
 [fc]
-I wanted to ask that, but for a moment, Yuuho's face flashed[r]
-in my mind, and I wondered if Kousuke had someone in this[r]
-school he would protect even at the cost of his own life.[pcms]
+そう聞きたかったけれど、一瞬、脳裏に浮かんだ悠帆の[r]
+顔に、コースケにも自分の命に代えても守ろうと[r]
+思ってた人が、この学園にいるのかと思った。[pcms]
 
 *2213|
 [fc]
-But Kousuke is friendly, though I've never heard him talk[r]
-about having a crush on anyone at this school...[pcms]
+でも、コースケは人当たりはいいけれど、[r]
+この学園に好きな人がいるなんて話は[r]
+聞いたことがないし……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2214|
 [fc]
 [vo_mar s="maru0279"]
-[ns]Margarita[nse]
-"We don't have time to dawdle. Let's just open it."[pcms]
+[ns]マルガリータ[nse]
+「ボヤボヤしてる時間なんてないぞ。とにかく開けよう」[pcms]
 
 *2215|
 [fc]
-[ns]Wataru[nse]
-"Ah, yes."[pcms]
+[ns]航[nse]
+「あっ、はい」[pcms]
 
 *2216|
 [fc]
-In a rush, I cooperated with the senior and we managed to[r]
-open the hatch together.[pcms]
+大急ぎでボクは先輩と協力して、二人がかりで[r]
+ハッチを開いた。[pcms]
 
 *2217|
 [fc]
-The darkness and my clumsy feet were a blessing; they hadn't[r]
-fully descended yet, but they'll be here soon.[pcms]
+暗闇と足の鈍さが幸いして、まだ降りきっては[r]
+いないみたいだけど、すぐにヤツラはやってくる。[pcms]
 
 *2218|
 [fc]
-[ns]Wataru[nse]
-"Alright... it's open. Yuuho, Ren, hurry down."[pcms]
+[ns]航[nse]
+「よっ…と、開いたぁ。悠帆、漣、早く降りろ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2219|
 [fc]
 [vo_ren s="ren0320"]
-[ns]Ren[nse]
-"Okay."[pcms]
+[ns]漣[nse]
+「う、うん」[pcms]
 
 *2220|
 [fc]
-I pointed at the newly opened hatch and guided Yuuho and Ren[r]
-towards it.[pcms]
+ボクは今開かれたばかりのハッチを指差して、[r]
+悠帆と漣を誘導した。[pcms]
 
 *2221|
 [fc]
-The hole illuminated by the flashlight looked like it led[r]
-straight to hell, gaping open.[pcms]
+懐中電灯に照らし出されたそこはまるで地獄に[r]
+繋がる穴のように、ぽっかりとしている。[pcms]
 
 *2222|
 [fc]
-Since it wasn't a ladder like before but concrete stairs[r]
-leading down, even Ren should be able to descend quickly.[pcms]
+地下へと降りるのがさっきみたいなはしごじゃなく、[r]
+コンクリートの階段だから漣でも急いで降りれるだろう。[pcms]
 
 *2223|
 [fc]
-The hatch seemed to close on its own if let go; the senior[r]
-supported the lid until Yuuho and Ren descended in that[r]
-order.[pcms]
+ハッチは手を放すと勝手に閉まるようになっているのか、[r]
+先輩は悠帆、漣の順番で二人が降りるまでハッチの蓋を[r]
+支えていてくれた。[pcms]
 
 *2224|
 [fc]
-[ns]Wataru[nse]
-"Senior, please go down first. I'll support it now."[pcms]
+[ns]航[nse]
+「先輩も先に降りてください。今度はボクが[r]
+　支えていますから」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2225|
 [fc]
 [vo_mar s="maru0280"]
-[ns]Margarita[nse]
-"Is that so? Then..."[pcms]
+[ns]マルガリータ[nse]
+「そうか？　ならば……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2226|
 [fc]
-[ns]Kousuke[nse]
-"Where does this lead to?"[pcms]
+[ns]浩助[nse]
+「どこに繋がってんだよ、これ」[pcms]
 
 *2227|
 [fc]
-Just as I was about to take over supporting the hatch lid[r]
-from the senior, Kousuke's voice echoed through the[r]
-passageway.[pcms]
+先輩と交代してボクがハッチの蓋を支えようとしたその時、[r]
+コースケの声が通路に響いた。[pcms]
 
 *2228|
 [fc]
-[ns]Wataru[nse]
-"Where does it lead... In our current situation, is that[r]
-really what you're worried about?"[pcms]
+[ns]航[nse]
+「どこにって……今この状態でそんな事を[r]
+　気にしてられる場合か？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2229|
 [fc]
-[ns]Kousuke[nse]
-"Hey hey! It's exactly because of times like this that we[r]
-need to worry about that. Are you seriously going down this[r]
-hole? We might get trapped!"[pcms]
+[ns]浩助[nse]
+「おいおい！　こんなときだからこそ、[r]
+　それを気にするんだろうが。[r]
+　マジにこんな穴に降りるのかよ？　閉じ込められんぞ！？」[pcms]
 
 *2230|
 [fc]
-[ns]Wataru[nse]
-"Do you think we're in a position to complain? Just jump in[r]
-already."[pcms]
+[ns]航[nse]
+「文句なんか言ってられる状態かよ。早く飛び込め」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2231|
 [fc]
-[ns]Kousuke[nse]
-"Wait, Wataru"[pcms]
+[ns]浩助[nse]
+「ちょっ、ワタル」[pcms]
 
 ;//キャラ消し
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2232|
 [fc]
-After making sure Ren had descended far enough, I pushed[r]
-Kousuke into the hole as if shoving him down.[pcms]
+漣が充分下に下りたのを見計らってから、[r]
+ボクはコースケを穴に突き落とすように押した。[pcms]
 
 *2233|
 [fc]
-[ns]Wataru[nse]
-"Senior, quickly."[pcms]
+[ns]航[nse]
+「先輩、早く」[pcms]
 
 *2234|
 [fc]
-After swapping with the senior who was supporting the hatch,[r]
-I urged her to jump down first, and without any hesitation[r]
-or wasted words, she dove into the hole.[pcms]
+ハッチを支える先輩と交代して、先に穴へ[r]
+飛び込むように促すと、先輩は無駄口も言わずに[r]
+すぐに穴の中に飛び込んでくれた。[pcms]
 
 *2235|
 [fc]
-Following her lead, I also jumped into the hole.[pcms]
+それに続くようにボクも穴に飛び込む。[pcms]
 
 *2236|
 [fc]
-[ns]Infected Man A[nse]
-"I'll rape the women and eat the men!!!!!"[pcms]
+[ns]感染者・男Ａ[nse]
+「女は犯す～、男は食う！！！！！」[pcms]
 
 *2237|
 [fc]
-[ns]Infected Man B[nse]
-"I'm starving."[pcms]
+[ns]感染者・男Ｂ[nse]
+「腹減ったぁ」[pcms]
 
 *2238|
 [fc]
-The voices of the infected were getting much closer. Had[r]
-they already descended the ladder?[pcms]
+感染者たちの声がだいぶ近くなってきた。[r]
+もうヤツラはハシゴを降りたんだろうか？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2239|
 [fc]
 [vo_mar s="maru0281"]
-[ns]Margarita[nse]
-"I'm closing it."[pcms]
+[ns]マルガリータ[nse]
+「閉めるぞ」[pcms]
 
 *2240|
 [fc]
-With a short command from the senior and as if cutting off[r]
-the voices of the men chasing us, I heard the heavy sound of[r]
-the hatch closing.[pcms]
+短い先輩の声と、追いかけてきた男たちの声を[r]
+遮断するかのように、重くハッチが閉まる音が聞こえた。[pcms]
 
 *2241|
 [fc]
-Did we make it out safely?[pcms]
+助かったんだろうか？[pcms]
 
 ;//〆：黒画面
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2242|
 [fc]
-The sound of the senior locking the hatch resonated heavily[r]
-in my ears.[pcms]
+先輩が施錠をする音が、ボクの耳に重く響いた。[pcms]
 
 ;//〆フェードアウト
 [fadeoutbgm time=500]

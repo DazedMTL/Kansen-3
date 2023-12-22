@@ -36,66 +36,66 @@
 
 *464|
 [fc]
-I was supposed to be at a meeting for the Astronomy Club...[r]
-but before I knew it, I had fallen asleep.[pcms]
+天文学部の打ち合わせ……のはずが、[r]
+ボクは気が付くと居眠りをしていた。[pcms]
 
 *465|
 [fc]
-I wasn't particularly sleep-deprived or tired. So, it was a[r]
-mystery to me why I had fallen asleep like that.[pcms]
+特に寝不足とか疲れていたわけではない。[r]
+だから、自分でもどうしてこんな風に、[r]
+眠ってしまったのか不思議だった。[pcms]
 
 *466|
 [fc]
-But what was even more puzzling was the content of that[r]
-dream. At first, I was gazing at a beautiful star-filled[r]
-night sky...[pcms]
+でも、それ以上に不可解だったのは、その夢の内容だ。[r]
+最初は綺麗な満天の星空を眺めて……。[pcms]
 
 *467|
 [fc]
-In a way, it was fitting for the Astronomy Club, or you[r]
-could say, a romantic scene.[pcms]
+ある意味で天文学部らしいというか、[r]
+ロマンチックな光景だったけど。[pcms]
 
 *468|
 [fc]
-The problem was the latter half. Compared to the dream[r]
-appropriate for dozing off during an Astronomy Club meeting,[r]
-what was with the eeriness of the latter half?[pcms]
+問題はその後半だ。最初の天文学部の打ち合わせ中の[r]
+居眠りに相応しい夢に対して、後半のこの不気味さは[r]
+一体なんだったんだろう。[pcms]
 
 *469|
 [fc]
-Yuuho's creepy figure. It was like something out of a horror[r]
-movie...[pcms]
+悠帆のあの不気味な姿。それはまるでホラー映画に[r]
+出てくるような……。[pcms]
 
 *470|
 [fc]
-Shivering from the sensation of sweat oozing all over my[r]
-body, I tried to organize the scenes from the dream with my[r]
-confused thoughts.[pcms]
+全身ににじみ出る汗の感触に身震いしながら、混乱した[r]
+思考で夢の光景を振り返りながら整理していく。[pcms]
 
 *471|
 [fc]
-[ns]Wataru[nse]
-"Maybe I'm still groggy from sleep..."[pcms]
+[ns]航[nse]
+「まだ、寝ぼけているのかな……」[pcms]
 
 *472|
 [fc]
-Thinking about random things, or being inexplicably[r]
-concerned about the dream I had while napping.[pcms]
+とりとめのないことを考えたり、意味もなく居眠り中の[r]
+夢が気になったり。[pcms]
 
 *473|
 [fc]
-The content of dreams is often contradictory, incoherent,[r]
-meaningless, such vague and ambiguous things.[pcms]
+夢の内容なんて大抵は矛盾していたり、[r]
+とりとめなかったり、[r]
+無意味だったり、そんな朧げで曖昧なものだ。[pcms]
 
 *474|
 [fc]
-But I just couldn't shake the feeling that the dream I had[r]
-was special, or rather, peculiar, and it bothered me a lot.[pcms]
+だけどボクはどうしても今見た夢が特別というか、[r]
+特殊というか、気になってしょうがなかった。[pcms]
 
 *475|
 [fc]
-So, in the midst of the muggy air, drenched in sweat, I[r]
-still found myself thinking about this and that...[pcms]
+だから蒸し暑い空気の中で、汗まみれになりながら、[r]
+それでもあれこれと考えてしまって……。[pcms]
 
 ;//吉野1
 [ChrSetEx layer=1 chbase="yoshino_b"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
@@ -104,213 +104,211 @@ still found myself thinking about this and that...[pcms]
 [fc]
 [vo_mob s="yoshino0001"]
 [ns]？？？[nse]
-"Hey, Wataru-kun, are you listening to me?"[pcms]
+「ちょっと、航クン話聞いてる？」[pcms]
 
 *477|
 [fc]
-In the end, I was scolded by name like this.[pcms]
+ついにはこうして名指しで怒られてしまう始末だった。[pcms]
 
 *478|
 [fc]
-[ns]Wataru[nse]
-"Ah, huh? Yoshino...? Ah-...yeah...sorry. I wasn't[r]
-listening."[pcms]
+[ns]航[nse]
+「あっ、あれ？　吉野……？[r]
+　ああー……うん……ごめん。聞いてなかった」[pcms]
 
 *479|
 [fc]
-I was so groggy that I couldn't even come up with a clever[r]
-lie to cover it up; my response was almost provocative.[pcms]
+気の利いた嘘で取り繕って誤魔化すこともできないくらい[r]
+ボクの頭は朦朧としていて、まるで相手を挑発するような[r]
+返事しかできなかった。[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_b"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *480|
 [fc]
 [vo_mob s="yoshino0002"]
-[ns]Yoshino[nse]
-"Come on, cut it out already. You're the one who started[r]
-this..."[pcms]
+[ns]吉野[nse]
+「もう、いい加減にしてよね。[r]
+　言い出しっぺの癖に……」[pcms]
 
 *481|
 [fc]
-[ns]Wataru[nse]
-"Yeah, it seems like I fell asleep. Sorry."[pcms]
+[ns]航[nse]
+「うん、居眠りしてたみたいなんだ。ごめんね」[pcms]
 
 *482|
 [fc]
-I honestly told her the truth and apologized. Yoshino sighed[r]
-as if exasperated by my words.[pcms]
+ボクは馬鹿正直にありのままを話して謝罪した。[r]
+そんな言葉に呆れたように、吉野はため息をひとつこぼした。[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_a"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *483|
 [fc]
 [vo_mob s="yoshino0003"]
-[ns]Yoshino[nse]
-"Falling asleep when you're the one who initiated this..."[pcms]
+[ns]吉野[nse]
+「発起人の癖に居眠りって……」[pcms]
 
 *484|
 [fc]
-[ns]Wataru[nse]
-"Really, I'm sorry."[pcms]
+[ns]航[nse]
+「ほんとごめん」[pcms]
 
 *485|
 [fc]
-It's only natural for Yoshino to be exasperated, but there's[r]
-nothing I can do about having fallen asleep, and I just[r]
-can't stop thinking about that dream...[pcms]
+吉野が呆れるのも当然だけど、居眠りしちゃったものは[r]
+どうしようもないし、[r]
+ボクは夢の事が気にかかってしまって……。[pcms]
 
 *486|
 [fc]
-But, of course, I can't just neglect the meeting any further[r]
-and immerse myself in reminiscing about the dream.[pcms]
+でも、流石にこれ以上打ち合わせを放置して、[r]
+夢についての回顧に打ち込むわけにはいかない。[pcms]
 
 *487|
 [fc]
-As a member of the Astronomy Club, I was the one who[r]
-suggested we go camping during this summer vacation as part[r]
-of our club activities.[pcms]
+天文学部に所属しているボクは、今回の夏休みを利用して[r]
+部活動の一環でキャンプに行こうと提案した発起人なんだ。[pcms]
 
 *488|
 [fc]
-Right now, we're in the middle of that meeting, and everyone[r]
-has taken time out of their schedules to gather here.[pcms]
+今はその打ち合わせの真っ最中であり、皆はその為に[r]
+時間を割いて集まっている。[pcms]
 
 *489|
 [fc]
-And yet, to have fallen asleep in the middle of it is[r]
-laughable enough, but to say I'm preoccupied with a dream is[r]
-something I could never utter.[pcms]
+なのに途中で居眠りしていたなんて、それだけでも[r]
+噴飯ものだし、さらに夢が気になるからなんて口が裂けても[r]
+言えるわけもなかった。[pcms]
 
 *490|
 [fc]
-[ns]Wataru[nse]
-"So, um..."[pcms]
+[ns]航[nse]
+「えっと、それで……」[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_b"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *491|
 [fc]
 [vo_mob s="yoshino0004"]
-[ns]Yoshino[nse]
-"Everything's already been decided, you know?"[pcms]
+[ns]吉野[nse]
+「もう全部決まったけど？」[pcms]
 
 *492|
 [fc]
-[ns]Wataru[nse]
-"Eh, seriously?"[pcms]
+[ns]航[nse]
+「えっ、ま、まじで？」[pcms]
 
 *493|
 [fc]
-Just when I thought I'd pull myself together and focus on[r]
-the meeting... I was the one caught off guard this time.[pcms]
+気を取り直して真面目に打ち合わせに……なんて思ったら[r]
+今度はボクが肩透かしを食らった。[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_a"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *494|
 [fc]
 [vo_mob s="yoshino0005"]
-[ns]Yoshino[nse]
-"Yes, here are the details."[pcms]
+[ns]吉野[nse]
+「はい、これが詳細」[pcms]
 
 *495|
 [fc]
-Yoshino thrust a handwritten note in front of my eyes.[pcms]
+吉野は手書きのメモ用紙をボクの目の前に突きつけてきた。[pcms]
 
 [chara_int][trans_c cross time=150]
 ;//〆：メモ
 
 *495a|
 [fc]
-The departure date for the camp is August 19th. We're[r]
-meeting at 8 AM.[pcms]
+キャンプ出発日時が８月の１９日。[r]
+午前８時に集合。[pcms]
 
 *496|
 [fc]
-[ns]Wataru[nse]
-"It's true... everything's been decided."[pcms]
+[ns]航[nse]
+「本当だ……全部決まってる」[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_b"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *497|
 [fc]
 [vo_mob s="yoshino0006"]
-[ns]Yoshino[nse]
-"Have you been asleep from the start?"[pcms]
+[ns]吉野[nse]
+「最初からずっと寝てたの？」[pcms]
 
 *498|
 [fc]
-[ns]Wataru[nse]
-"Yeah, it seems like I was asleep."[pcms]
+[ns]航[nse]
+「う、うん……寝てたみたい」[pcms]
 
 *499|
 [fc]
-I frantically tried to recall any vague memories, but as[r]
-expected, I had no recollection of the meeting at all.[pcms]
+曖昧な記憶を慌ててさかのぼってみたけど、[r]
+やっぱり打ち合わせの記憶は皆無だった。[pcms]
 
 *500|
 [fc]
-It's a pitiful story that I don't even know when I fell[r]
-asleep.[pcms]
+いつの間に眠ったのかすらよく分からないなんて、[r]
+我ながら情けない話だ。[pcms]
 
 *501|
 [fc]
-[ns]Wataru[nse]
-"No good, I can't remember anything."[pcms]
+[ns]航[nse]
+「だめだ、全然覚えてないや」[pcms]
 
 *502|
 [fc]
 [vo_mob s="yoshino0007"]
-[ns]Yoshino[nse]
-"Get it together. At least make sure you don't forget the[r]
-decisions that have been made."[pcms]
+[ns]吉野[nse]
+「しっかりしてよ。とにかく決定内容だけでも[r]
+　忘れないようにしてね」[pcms]
 
 *503|
 [fc]
-[ns]Wataru[nse]
-"Ah, yeah..."[pcms]
+[ns]航[nse]
+「あっ、うん……」[pcms]
 
 *504|
 [fc]
 [vo_mob s="yoshino0008"]
-[ns]Yoshino[nse]
-"Is there any problem?"[pcms]
+[ns]吉野[nse]
+「なんか問題はある？」[pcms]
 
 *505|
 [fc]
-I looked over the memo that was handed to me, but there[r]
-didn't seem to be any problems.[pcms]
+ボクは渡されたメモを眺めてみたけど、[r]
+問題はなさそうだった。[pcms]
 
 *506|
 [fc]
-[ns]Wataru[nse]
-"It looks okay to me."[pcms]
+[ns]航[nse]
+「大丈夫そうだね」[pcms]
 
 [ChrSetEx layer=1 chbase="yoshino_a"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *507|
 [fc]
 [vo_mob s="yoshino0009"]
-[ns]Yoshino[nse]
-"Then it's decided."[pcms]
+[ns]吉野[nse]
+「じゃあこれで決定ね」[pcms]
 
 *508|
 [fc]
-It's regrettable to end without being involved in the[r]
-decision-making despite being the initiator, but it's my own[r]
-fault, so it can't be helped.[pcms]
+発起人の癖にまったく詳細決定に絡むことなく終わって[r]
+しまうのは不本意だけど、自分が悪いわけだし仕方がない。[pcms]
 
 *509|
 [fc]
 [vo_mob s="yoshino0010"]
-[ns]Yoshino[nse]
-"Okay everyone, that's it for today. Wataru-kun, make sure[r]
-you don't oversleep on the day, okay?"[pcms]
+[ns]吉野[nse]
+「じゃあみんな今日はこれで解散ね。[r]
+　航クンは当日、寝坊しないでね？」[pcms]
 
 *510|
 [fc]
-With that one remark, the club members in the classroom[r]
-burst into laughter, and with a good punchline, the meeting[r]
-was adjourned.[pcms]
+その一言に教室内の部員達がどっと笑って、[r]
+良いオチがついて解散となった。[pcms]
 
 ;//〆BG：学園廊下（分校舎）
 [bg storage="bg017"][trans_c cross time=500]
@@ -320,224 +318,216 @@ was adjourned.[pcms]
 
 *511|
 [fc]
-[ns]Wataru[nse]
-"Phew... I wonder if I'm tired or something."[pcms]
+[ns]航[nse]
+「ふぅ……なんだろ、疲れてんのかなぁ」[pcms]
 
 *512|
 [fc]
-After the astronomy club meeting wrapped up, I stepped out[r]
-into the hallway and shook my head while tapping my not-so-[r]
-clear head with my left hand.[pcms]
+天文学部の打ち合わせが一段落して、廊下へ出たボクは[r]
+いま一つ冴えない頭を左手で叩きながら首を振った。[pcms]
 
 *513|
 [fc]
-Rather than a refreshing awakening from a good night's[r]
-sleep, I felt a heavy sensation as if I had just woken up[r]
-from a lazy slumber, and I felt tired.[pcms]
+快眠からのさわやかな目覚めというよりは、[r]
+惰眠明けの重い感覚が身体に染みついていて、[r]
+疲れているような気がした。[pcms]
 
 *514|
 [fc]
-[ns]Wataru[nse]
-"Heat fatigue... maybe?"[pcms]
+[ns]航[nse]
+「夏バテ……かなぁ？」[pcms]
 
 *515|
 [fc]
-It's strange to talk about heat fatigue at the start of[r]
-summer vacation, but there's nothing I can do about feeling[r]
-unwell.[pcms]
+夏休みの序盤でもう夏バテっていうのも変な話だけど、[r]
+不調なものはどうしようもない。[pcms]
 
 *516|
 [fc]
-It's not like the punchline from earlier, but I need to get[r]
-my health back to perfect condition before the day of the[r]
-event.[pcms]
+さっきのオチじゃないけど、当日までには体調を戻して[r]
+万全にしておかないとダメだな。[pcms]
 
 *517|
 [fc]
-As I walked down the hallway, where the sound of the brass[r]
-band practice echoed, someone tapped me on the shoulder from[r]
-behind.[pcms]
+そんなことを考えながら、吹奏楽部の練習の音が響く廊下を[r]
+歩いていると、背後からぽんと肩を叩かれた。[pcms]
 
 *518|
 [fc]
-[ns]Wataru[nse]
-"Hm?"[pcms]
+[ns]航[nse]
+「ん？」[pcms]
 
 ;//コウピン
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *519|
 [fc]
-[ns]Kousuke[nse]
-"Yo, Wataru. Are you done with the meeting?"[pcms]
+[ns]浩助[nse]
+「よー、ワタル。打ち合わせ終わったのか？」[pcms]
 
 *520|
 [fc]
-The one standing behind me was Kousuke, my bad friend and[r]
-best friend.[pcms]
+背後に立っていたのは、悪友で親友の[ruby text="さい"][ch text="崔"] [ruby text="こうすけ"][ch text="浩助"]だった。[pcms]
 
 *521|
 [fc]
-[ns]Wataru[nse]
-"Hey Kousuke, what's up?"[pcms]
+[ns]航[nse]
+「あれコースケ、どうしたんだ？」[pcms]
 
 *522|
 [fc]
-Kousuke is a member of the go-home club, unlike me, so he's[r]
-not part of any club activities. Normally, it wouldn't be[r]
-strange to meet him here, but there are no classes during[r]
-summer vacation.[pcms]
+コースケはボクと違って帰宅部、つまり部活には所属していない。[r]
+普段ならここで会うのは不自然ではないけど、[r]
+今は夏休みで授業はない。[pcms]
 
 *523|
 [fc]
-He's the type to head straight home after classes and[r]
-doesn't come near during breaks. And yet, here he is in the[r]
-school building during summer vacation...[pcms]
+授業が終われば真っ先に帰宅し、[r]
+休みの時は近寄ろうともしないタイプだ。[r]
+それが夏休み中の校舎にいるなんて……。[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *524|
 [fc]
-[ns]Kousuke[nse]
-"What's up with that? Is it so strange for me to be here?"[pcms]
+[ns]浩助[nse]
+「どーしたって、オレがここにいるのがそんなにおかしいか？」[pcms]
 
 *525|
 [fc]
-[ns]Wataru[nse]
-"Yeah, it's very strange. It's summer vacation, and I[r]
-thought you'd never come within a kilometer radius of the[r]
-school."[pcms]
+[ns]航[nse]
+「ああ、すごくおかしいぞ。今は夏休みだし、[r]
+　学園の半径１キロには絶対近寄らないと思ってた」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *526|
 [fc]
-[ns]Kousuke[nse]
-"A kilometer radius... that's an exaggeration. I'm one of[r]
-the students who attends this school, you know?"[pcms]
+[ns]浩助[nse]
+「半径１キロって……言いすぎだ。[r]
+　オレだって学園に通っている一人だぜ？」[pcms]
 
 *527|
 [fc]
-[ns]Wataru[nse]
-"You attend, but reluctantly, right?"[pcms]
+[ns]航[nse]
+「通ってはいるけど、嫌々の仕方なしだろ？」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *528|
 [fc]
-[ns]Kousuke[nse]
-"Well, I can't deny that. So basically, I came here today[r]
-for an unavoidable reason."[pcms]
+[ns]浩助[nse]
+「まあ、そこは否定しないけどな。[r]
+　つまり、今日はその仕方ない理由で来たってわけだ」[pcms]
 
 *529|
 [fc]
-[ns]Wataru[nse]
-"Unavoidable reason? Feels more like a trivial reason to me,[r]
-or is it just my imagination?"[pcms]
+[ns]航[nse]
+「仕方ない理由っていうよりはくだらない理由って[r]
+　感じがするのは気のせいか？」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *530|
 [fc]
-[ns]Kousuke[nse]
-"That prejudice is what creates delinquents."[pcms]
+[ns]浩助[nse]
+「その偏見が不良を生むんだぞ」[pcms]
 
 *531|
 [fc]
-We've known each other since we were kids, and he's not the[r]
-type to get into trouble, so there must be some reason...[pcms]
+子供のころからの付き合いだし、特に悪さをするって[r]
+タイプではないから、[r]
+まあ、なにかしらの理由があるんだろうけど……。[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *532|
 [fc]
-[ns]Kousuke[nse]
-"Actually, I'm looking for a new vocalist to feature on a[r]
-track."[pcms]
+[ns]浩助[nse]
+「実はさ、新しいトラックに乗っけるヴォーカルが欲しくてな」[pcms]
 
 *533|
 [fc]
-[ns]Wataru[nse]
-"Eh, what? A vocalist?"[pcms]
+[ns]航[nse]
+「えっ、なに？　ぼーかる？」[pcms]
 
 *534|
 [fc]
-[ns]Kousuke[nse]
-"Vocalist, man, vocalist!"[pcms]
+[ns]浩助[nse]
+「ヴォーカルだよ、ヴォーカル！」[pcms]
 
 *535|
 [fc]
-It might be dismissive to call it trivial, but it seems he[r]
-came here for a very personal reason.[pcms]
+くだらないで切り捨てるのもアレだけど、[r]
+思いっきり私的な理由で来たらしい。[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *536|
 [fc]
-[ns]Kousuke[nse]
-"So with that said, I was thinking of checking out the choir[r]
-club now."[pcms]
+[ns]浩助[nse]
+「そんなわけで、これから合唱部を覗いてこようかなと[r]
+　思ってたわけだ」[pcms]
 
 *537|
 [fc]
-[ns]Wataru[nse]
-"Do you think there's anyone there who would help you out?"[pcms]
+[ns]航[nse]
+「お前に協力してくれ人なんているかな？」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *538|
 [fc]
-[ns]Kousuke[nse]
-"Hmm, can't say for sure."[pcms]
+[ns]浩助[nse]
+「んー、そこは何とも言えないな」[pcms]
 
 *539|
 [fc]
-[ns]Wataru[nse]
-"So you came here on a whim to scout someone?"[pcms]
+[ns]航[nse]
+「ってことは行き当たりばったりでスカウトしに来たのか？」[pcms]
 
 *540|
 [fc]
-[ns]Kousuke[nse]
-"Of course. It's all about taking a shot and seeing if it[r]
-breaks."[pcms]
+[ns]浩助[nse]
+「当然だろ。あとは当たって砕けろだ」[pcms]
 
 *541|
 [fc]
-As usual, Kousuke seems to act before thinking.[pcms]
+相変わらずコースケは考えるより先に行動らしい。[pcms]
 
 *542|
 [fc]
-[ns]Kousuke[nse]
-"You're free anyway, right?"[pcms]
+[ns]浩助[nse]
+「どうせお前も暇なんだろ？」[pcms]
 
 *543|
 [fc]
-[ns]Wataru[nse]
-"Ah, well... I guess the meeting is over."[pcms]
+[ns]航[nse]
+「あっ、まあ……打ち合わせは終わったかな」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *544|
 [fc]
-[ns]Kousuke[nse]
-"Then come with me. Come on, let's go."[pcms]
+[ns]浩助[nse]
+「じゃあ付き合えよ。ほら、いくぞいくぞ」[pcms]
 
 *545|
 [fc]
-[ns]Wataru[nse]
-"Wait a sec, hey..."[pcms]
+[ns]航[nse]
+「ちょっと、おい……」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *546|
 [fc]
-With his usual initiative in full swing, I ended up being[r]
-dragged along by Kousuke to scout with him.[pcms]
+その行動力は今回も全開で発揮されて、ボクはコースケに[r]
+引きずられるようにしてスカウトに付き合わされることとなった。[pcms]
 
 *547|
 [fc]
-I was actually feeling a bit under the weather due to heat[r]
-fatigue and was thinking of going home to rest...[pcms]
+本当は夏バテ気味だから家に戻ってゆっくり休もうかと[r]
+思ってたけど……。[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -551,88 +541,84 @@ fatigue and was thinking of going home to rest...[pcms]
 
 *548|
 [fc]
-[ns]Kousuke[nse]
-"Alright, is this the place?"[pcms]
+[ns]浩助[nse]
+「おし、ここかな？」[pcms]
 
 *549|
 [fc]
-[ns]Wataru[nse]
-"You're going in just like that?"[pcms]
+[ns]航[nse]
+「いきなり行く気か？」[pcms]
 
 *550|
 [fc]
-I grabbed Kousuke's hand as he boldly tried to enter the[r]
-music room and held him back.[pcms]
+堂々と音楽室へと入ろうとするコースケの手を掴んで[r]
+ボクは引き留めた。[pcms]
 
 *551|
 [fc]
-[ns]Wataru[nse]
-"Wouldn't it be bad if they were in the middle of practice?"[pcms]
+[ns]航[nse]
+「部活の練習中だったら悪いだろ？」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *552|
 [fc]
-[ns]Kousuke[nse]
-"Huh? Oh yeah, I do hear something."[pcms]
+[ns]浩助[nse]
+「ん？　ああ、確かになんか聞こえてくるな」[pcms]
 
 *553|
 [fc]
-Although soundproofed, if you listened closely, you could[r]
-faintly hear the sound of instruments.[pcms]
+防音ではあるが、耳を澄ますと楽器の音が微かに流れていた。[pcms]
 
 *554|
 [fc]
-[ns]Wataru[nse]
-"Isn't it pretty tactless to just barge in here and say we[r]
-came to scout you?"[pcms]
+[ns]航[nse]
+「ここにいきなり入って、スカウトしにきましたーとか[r]
+　かなり空気読めないって感じじゃないか？」[pcms]
 
 *555|
 [fc]
-[ns]Kousuke[nse]
-"Hmm, now that you mention it, I guess it does feel that[r]
-way."[pcms]
+[ns]浩助[nse]
+「んー、確かに言われてみるとそんな気もする」[pcms]
 
 *556|
 [fc]
-Finally, it seemed that even Kousuke with his super laid-[r]
-back attitude had managed to think like an ordinary person.[pcms]
+ようやくここで、超マイペースのコースケにも[r]
+人並な思考ができたらしい。[pcms]
 
 *557|
 [fc]
-If they're practicing at school during summer vacation, it[r]
-means they're serious or rather dedicated; they're[r]
-definitely committed to their club activities.[pcms]
+夏休みに学園で練習しているってことはそれだけ[r]
+真面目というか一生懸命というか、[r]
+まあ部活をしっかりやっているわけで。[pcms]
 
 *558|
 [fc]
-Intruding on them to scout would be an unwelcome guest[r]
-indeed.[pcms]
+そこへ乱入してスカウトに来ましたなんて、[r]
+招かれざる客すぎる行為だろう。[pcms]
 
 *559|
 [fc]
-[ns]Kousuke[nse]
-"But hey, there's no point in hesitating now that we've come[r]
-this far. If we can't secure the necessary talent, we can't[r]
-move forward."[pcms]
+[ns]浩助[nse]
+「でもなぁ、ここまで来て悩んでもしょうがないだろ。[r]
+　必要な人材を確保できないと先に進まないんだし」[pcms]
 
 *560|
 [fc]
-As expected, Kousuke's thoughts seem to revolve around[r]
-himself.[pcms]
+やっぱりコースケの考えは自分中心で進んでいるようだ。[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *561|
 [fc]
-[ns]Kousuke[nse]
-"I get your point, but let's call this a necessary evil and[r]
-ask for forgiveness later. So let's charge in!"[pcms]
+[ns]浩助[nse]
+「お前の言うことも一理あるけど、ここは必要悪ってことで[r]
+　許してもらうとしよう。というわけで突撃だ！」[pcms]
 
 *562|
 [fc]
-[ns]Wataru[nse]
-"Wait, Ko-Kousuke..."[pcms]
+[ns]航[nse]
+「ちょっ、こ、コースケ……」[pcms]
 
 [se buf=0 storage="se040"]
 
@@ -640,27 +626,26 @@ ask for forgiveness later. So let's charge in!"[pcms]
 
 *563|
 [fc]
-Before I could stop him, Kousuke had made up his mind and[r]
-opened the door to the music room, entering inside.[pcms]
+止める間もなく決断したコースケは、[r]
+音楽室のドアを開けて入って行った。[pcms]
 
 *564|
 [fc]
-[ns]Kousuke[nse]
-"Sorry for intru-..."[pcms]
+[ns]浩助[nse]
+「お邪魔しまー……」[pcms]
 
 *565|
 [fc]
-And there, Kousuke's voice trailed off abruptly as he[r]
-charged in.[pcms]
+と、そこで突撃したコースケの声が尻切れトンボに止まった。[pcms]
 
 *566|
 [fc]
-[ns]Wataru[nse]
-"What's wrong?"[pcms]
+[ns]航[nse]
+「どーした？」[pcms]
 
 *567|
 [fc]
-I followed suit and entered the classroom.[pcms]
+ボクも続くようにして教室へと入る。[pcms]
 
 ;//〆：lastsummer　フェードアウト
 [fadeoutbgm time=500]
@@ -675,79 +660,76 @@ I followed suit and entered the classroom.[pcms]
 
 *568|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *569|
 [fc]
-Inside the room, bathed in the white light of the backlight,[r]
-stood Ren, playing the violin alone in the center, causing[r]
-both Kousuke and me to freeze as if time had stopped.[pcms]
+逆光線の白い光に包まれた室内、中央で一人バイオリンを[r]
+奏でる漣の姿に、コースケ同様ボクも時間が止まったように[r]
+固まった。[pcms]
 
 *570|
 [fc]
-A person I always see, someone I thought I knew well.[pcms]
+いつも見ている、よく知ったはずの人物。[pcms]
 
 *571|
 [fc]
-A member of my family.[pcms]
+ボクの家族の一人。[pcms]
 
 *572|
 [fc]
-My sister, Ren.[pcms]
+妹である、[ruby text="あやせ"][ch text="綾瀬"] [ruby text="れん"][ch text="漣"]。[pcms]
 
 *573|
 [fc]
-I understand it in my head. I understand, but...[pcms]
+頭では理解している。理解しているけど……。[pcms]
 
 *574|
 [fc]
-Bathed in the dazzling light, she seemed to be listening[r]
-intently to the melody she was creating, her figure immersed[r]
-in practice appeared somewhat divine, mystical, and[r]
-beautiful.[pcms]
+眩い光を浴びて、自ら奏でる旋律に耳を傾けるかのように[r]
+練習に没頭している姿は、どこか神々しく、神秘的で美しかった。[pcms]
 
 *575|
 [fc]
-The flowing melody and her dazzling figure held Kousuke and[r]
-me in silent awe.[pcms]
+流れる旋律と、まばゆく光る姿に、ボクとコースケは[r]
+無言のまま見入っていた。[pcms]
 
 *576|
 [fc]
-Great works of art shine just by being there...[pcms]
+優れた芸術品は、その場にあるだけで光を放つ……。[pcms]
 
 *577|
 [fc]
-The words I read somewhere crossed my mind.[pcms]
+どこかで読んだ言葉が頭を過る。[pcms]
 
 *578|
 [fc]
-The figure of Ren, enveloped in light in the center of the[r]
-room, seemed not like the Ren I knew, but like some other[r]
-beautiful entity.[pcms]
+部屋の中央で光に包まれた漣の姿は、ボクの知っている[r]
+漣ではなく、なにか別の美しい存在のように思えた。[pcms]
 
 *579|
 [fc]
-Her illuminated skin was wrapped in a white radiance,[r]
-shining like a gemstone, and her closed eyes were like[r]
-delicate sculptures, perfectly formed as they were.[pcms]
+照らされた肌は白い光彩に包まれ、宝石のように輝き、[r]
+閉じた瞳は繊細な彫刻のように、その形のままに[r]
+作り出されたようだった。[pcms]
 
 *580|
 [fc]
-Beautiful... My mind was filled with that single word as I[r]
-was mesmerized.[pcms]
+美しい……魅入られたボクの頭はその言葉だけで[r]
+埋め尽くされていく。[pcms]
 
 *581|
 [fc]
-Forgetting to breathe, I continued to gaze at Ren, or[r]
-rather, the beautiful entity that took the form of Ren.[pcms]
+息をすることも忘れ、ボクは漣を、いや、漣の姿をした[r]
+美しい存在を凝視し続けた。[pcms]
 
 ;//〆：EV004：バイオリンを弾く漣　目を開きこちらを見る
 [evcg storage="EV007b"][trans_c cross time=300]
 
 *582|
 [fc]
-And what moved my frozen time was Ren's eyes.[pcms]
+そしてボクの止まった時間を動かしたのは、漣の瞳だった。[pcms]
 
 ;//SE停止(2秒でF.O.)
 ;[stopse buf=0]
@@ -755,27 +737,27 @@ And what moved my frozen time was Ren's eyes.[pcms]
 
 *583|
 [fc]
-Before I knew it, the violin's melody had ceased, and Ren's[r]
-gaze was directed our way.[pcms]
+気がつけばバイオリンの旋律がやんで、漣の視線が[r]
+こちらに向けられていた。[pcms]
 
 *584|
 [fc]
 [vo_ren s="ren0001"]
-[ns]Ren[nse]
-"Big brother?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん？」[pcms]
 
 *585|
 [fc]
-[ns]Wataru[nse]
-"Ah..."[pcms]
+[ns]航[nse]
+「あっ……」[pcms]
 
 [evcg storage="EV007c"][trans_c cross time=300]
 
 *586|
 [fc]
 [vo_ren s="ren0002"]
-[ns]Ren[nse]
-"And Kousuke too... What's up?"[pcms]
+[ns]漣[nse]
+「それにコーちゃんも……どうしたの？」[pcms]
 
 ;//〆：イベントＣＧ終了
 [bg storage="bg015"][trans_c cross time=500]
@@ -788,8 +770,8 @@ gaze was directed our way.[pcms]
 
 *587|
 [fc]
-The usual words from Ren finally released me and Kousuke[r]
-from our trance.[pcms]
+いつもと変わらない、普段通りの言葉がボクとコースケを[r]
+ようやく解放した。[pcms]
 
 ;//漣1+コウ2
 [ChrSetEx layer=1 chbase="ren_a7"][ChrSetXY layer=1 x=0 y=0]
@@ -797,182 +779,180 @@ from our trance.[pcms]
 
 *588|
 [fc]
-[ns]Kousuke[nse]
-"Ahhh, sorry sorry. Did we interrupt your practice?"[pcms]
+[ns]浩助[nse]
+「あああ、ごめんごめん。練習の邪魔しちゃった？」[pcms]
 
 [ChrSetEx layer=1 chbase="ren_a8"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *589|
 [fc]
 [vo_ren s="ren0003"]
-[ns]Ren[nse]
-"No, it's okay."[pcms]
+[ns]漣[nse]
+「ううん、大丈夫だよ」[pcms]
 
 *590|
 [fc]
-Kousuke seemed unable to admit he had been captivated by her[r]
-performance and gave a non-committal response. I followed[r]
-suit, trying to act natural.[pcms]
+コースケもまさか見とれていましたとは言えなかったらしく、[r]
+当たり障りのない返事をする。[r]
+それに合わせるように、ボクも自然体を装った。[pcms]
 
 *591|
 [fc]
-[ns]Wataru[nse]
-"I was just tagging along with Kousuke."[pcms]
+[ns]航[nse]
+「ちょっとコースケに付き合わされてさ」[pcms]
 
 [ChrSetEx layer=2 chbase="kou_e3"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *592|
 [fc]
-[ns]Kousuke[nse]
-"Yeah yeah, we were looking for the choir club."[pcms]
+[ns]浩助[nse]
+「そそ、合唱部を探してたんだ」[pcms]
 
 [ChrSetEx layer=1 chbase="ren_a4"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *593|
 [fc]
 [vo_ren s="ren0004"]
-[ns]Ren[nse]
-"Oh really? What brought you here, Kousuke from the go-home[r]
-club?"[pcms]
+[ns]漣[nse]
+「へえ、そうなんだ。帰宅部のコーちゃんが[r]
+　どういう風の吹きまわし？」[pcms]
 
 [ChrSetEx layer=2 chbase="kou_e1"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *594|
 [fc]
-[ns]Kousuke[nse]
-"I wanted a vocal line for a new track."[pcms]
+[ns]浩助[nse]
+「新しいトラックに乗せるヴォーカルラインが欲しくてね」[pcms]
 
 [ChrSetEx layer=1 chbase="ren_a7"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *595|
 [fc]
 [vo_ren s="ren0005"]
-[ns]Ren[nse]
-"So you're not looking to join then?"[pcms]
+[ns]漣[nse]
+「入部したいわけじゃないのね」[pcms]
 
 *596|
 [fc]
-[ns]Kousuke[nse]
-"Unfortunately, it's more about scouting than joining."[pcms]
+[ns]浩助[nse]
+「残念ながら入部というよりはスカウトってところだね」[pcms]
 
 *597|
 [fc]
-[ns]Wataru[nse]
-"He's as self-serving as ever, right?"[pcms]
+[ns]航[nse]
+「相変わらず勝手なやつだろ？」[pcms]
 
 [ChrSetEx layer=1 chbase="ren_a8"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *598|
 [fc]
 [vo_ren s="ren0006"]
-[ns]Ren[nse]
-"That's so like Kousuke."[pcms]
+[ns]漣[nse]
+「コーちゃんらしいわ」[pcms]
 ;//＠半ば笑ったように
 
 *599|
 [fc]
-Finally back to our usual rhythm, Kousuke and I were able to[r]
-have a lively conversation with Ren.[pcms]
+ようやく普段の調子に戻って、ボクとコースケは[r]
+漣と会話を弾ませることができた。[pcms]
 
 *600|
 [fc]
-[ns]Kousuke[nse]
-"So... we can't seem to find the choir club."[pcms]
+[ns]浩助[nse]
+「それで……肝心の合唱部が見当たらないんだけど」[pcms]
 
 *601|
 [fc]
-Kousuke looked around the room. Ren was the only one there[r]
-in the spacious classroom.[pcms]
+コースケが室内を見回す素振りをする。[r]
+広い教室にいるのは漣一人だけだった。[pcms]
 
 [ChrSetEx layer=1 chbase="ren_a1"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *602|
 [fc]
 [vo_ren s="ren0007"]
-[ns]Ren[nse]
-"The choir club practice might start a bit later. Ah, it[r]
-might be about time for them to arrive..."[pcms]
+[ns]漣[nse]
+「合唱部の練習はもう少し後かな。[r]
+　あっ、そろそろ来る時間かも……」[pcms]
 
 [ChrSetEx layer=2 chbase="kou_e4"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *603|
 [fc]
-[ns]Kousuke[nse]
-"Did we come too early?"[pcms]
+[ns]浩助[nse]
+「ちょっと早く来すぎたのか」[pcms]
 
 [ChrSetEx layer=1 chbase="ren_a8"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *604|
 [fc]
 [vo_ren s="ren0008"]
-[ns]Ren[nse]
-"Yeah. If you wait, I think they'll come. Oh, big brother,[r]
-what would you like for dinner tonight?"[pcms]
+[ns]漣[nse]
+「うん。待っていれば来ると思うわ。[r]
+　あっ、お兄ちゃん、今日の晩ご飯はなにがいい？」[pcms]
 
 *605|
 [fc]
-Taken aback by the sudden change in topic, I responded as[r]
-naturally as I could.[pcms]
+そこで突然話を振られて、ボクは戸惑ったけど、[r]
+できるだけ自然体で返事をした。[pcms]
 
 *606|
 [fc]
-[ns]Wataru[nse]
-"Eh, what's with the sudden question?"[pcms]
+[ns]航[nse]
+「えっ、なんだよ突然」[pcms]
 
 [ChrSetEx layer=1 chbase="ren_a4"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *607|
 [fc]
 [vo_ren s="ren0009"]
-[ns]Ren[nse]
-"Because practice is almost over, and I'm going shopping[r]
-before heading home."[pcms]
+[ns]漣[nse]
+「だって練習時間も終わりだし、[r]
+　これからお買いものして帰るから」[pcms]
 
 *608|
 [fc]
-[ns]Wataru[nse]
-"Even if you ask me... I don't particularly crave anything[r]
-right now..."[pcms]
+[ns]航[nse]
+「って言われてもなぁ。[r]
+　別に食べたいものとか、今は特にないし……」[pcms]
 
 *609|
 [fc]
 [vo_ren s="ren0010"]
-[ns]Ren[nse]
-"So anything is fine?"[pcms]
+[ns]漣[nse]
+「じゃあなんでもいい？」[pcms]
 
 *610|
 [fc]
-[ns]Wataru[nse]
-"Yeah, just make whatever you feel like."[pcms]
+[ns]航[nse]
+「ああ、適当に作ってくれればいいよ」[pcms]
 
 [ChrSetEx layer=1 chbase="ren_a8"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *611|
 [fc]
 [vo_ren s="ren0011"]
-[ns]Ren[nse]
-"Got it. Then that's what I'll do."[pcms]
+[ns]漣[nse]
+「わかった。じゃあそうするね」[pcms]
 
 [chara_int_ layer=1][chara_int_ layer=2][trans_c cross time=150]
 
 *612|
 [fc]
-With those words, Ren put her violin back in its case and[r]
-began preparing to leave.[pcms]
+漣はそう言いながらバイオリンをケースに戻すと、[r]
+帰り仕度をはじめた。[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *613|
 [fc]
-[ns]Kousuke[nse]
-"You two sound like a newlywed couple when you talk like[r]
-that."[pcms]
+[ns]浩助[nse]
+「なんか聞いているとお前ら新婚夫婦みたいだぞ」[pcms]
 
 *614|
 [fc]
-[ns]Wataru[nse]
-"Nah, don't be ridiculous. It's just normal family[r]
-conversation."[pcms]
+[ns]航[nse]
+「な、馬鹿言うなよ。家族の日常会話ってやつだ」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=0 y=0]
 [ChrSetEx layer=2 chbase="ren_j8"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
@@ -980,21 +960,20 @@ conversation."[pcms]
 *615|
 [fc]
 [vo_ren s="ren0012"]
-[ns]Ren[nse]
-"Ko-chan, don't tease us!"[pcms]
+[ns]漣[nse]
+「コーちゃん、からかわないで！」[pcms]
 ;//＠半笑いでイタズラっぽく怒る
 
 *616|
 [fc]
-[ns]Kousuke[nse]
-"No, seriously, from an outsider's perspective, you look[r]
-like a couple. Normal siblings don't talk about dinner[r]
-plans, right?"[pcms]
+[ns]浩助[nse]
+「いやいや、傍目に見ると夫婦に見えるって。[r]
+　普通兄妹では晩ご飯の会話はないぞ？」[pcms]
 
 *617|
 [fc]
-[ns]Wataru[nse]
-"That's just how our household is, can't be helped."[pcms]
+[ns]航[nse]
+「それは家庭の事情なんだからしょうがないだろ」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=0 y=0]
 [ChrSetEx layer=2 chbase="ren_j1"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
@@ -1002,198 +981,197 @@ plans, right?"[pcms]
 *618|
 [fc]
 [vo_ren s="ren0013"]
-[ns]Ren[nse]
-"Ah, no good, I forgot the cream."[pcms]
+[ns]漣[nse]
+「あっ、いけない、クリームを忘れちゃった」[pcms]
 
 *619|
 [fc]
-At that moment, Ren, who had been looking through her bag,[r]
-let out a flustered cry.[pcms]
+そこでカバンを覗いていた漣が慌てた声をあげた。[pcms]
 
 *620|
 [fc]
-[ns]Wataru[nse]
-"Oi, are you okay?!"[pcms]
+[ns]航[nse]
+「おい、大丈夫なのか！？」[pcms]
 
 *621|
 [fc]
-I also raised my voice in concern. For Ren, the cream was an[r]
-essential part of her life.[pcms]
+ボクもつられて大声を出してしまう。[r]
+漣にとってクリームとは生きていく上で必需品だ。[pcms]
 
 [ChrSetEx layer=2 chbase="ren_j4"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *622|
 [fc]
 [vo_ren s="ren0014"]
-[ns]Ren[nse]
-"I probably left it in my locker. Ah, don't worry. I'll be[r]
-fine as long as I reapply it when I get home."[pcms]
+[ns]漣[nse]
+「多分ロッカーに置き忘れたのね。[r]
+　あっ、心配しないで。帰る時に塗りなおせば平気だから」[pcms]
 
 *623|
 [fc]
-[ns]Wataru[nse]
-"Should I go get it for you?"[pcms]
+[ns]航[nse]
+「ボクが取りに行こうか？」[pcms]
 
 [ChrSetEx layer=2 chbase="ren_j7"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *624|
 [fc]
 [vo_ren s="ren0015"]
-[ns]Ren[nse]
-"I'm still fine. I'll go get it myself, so don't worry."[pcms]
+[ns]漣[nse]
+「まだ平気よ。自分で取りに行くから大丈夫」[pcms]
 
 *625|
 [fc]
-[ns]Wataru[nse]
-"But..."[pcms]
+[ns]航[nse]
+「でも……」[pcms]
 
 [ChrSetEx layer=2 chbase="ren_j8"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *626|
 [fc]
 [vo_ren s="ren0016"]
-[ns]Ren[nse]
-"Geez, I'm not a child anymore. I'll be fine. You just take[r]
-your time with Ko- chan. See you later."[pcms]
+[ns]漣[nse]
+「もう、子供じゃないんだから平気よ。[r]
+　お兄ちゃんはコーちゃんとゆっくりしていって。[r]
+　それじゃあね」[pcms]
 
 *627|
 [fc]
-[ns]Kousuke[nse]
-"Ah, see you!"[pcms]
+[ns]浩助[nse]
+「ああ、またなー！」[pcms]
 
 ;//漣退場
 [chara_int][trans_c cross time=150]
 
 *628|
 [fc]
-Despite my worries, Ren waved with a smile and left the[r]
-music room.[pcms]
+心配するボクをよそに、漣は笑顔で手を振ると[r]
+音楽室から出て行った。[pcms]
 
 *629|
 [fc]
-Ren's cream is a cosmetic for UV protection that can[r]
-completely block UV rays.[pcms]
+漣のクリーム、それはＵＶを完全にカットできる[r]
+紫外線対策の化粧品だ。[pcms]
 
 *630|
 [fc]
-For most women, it's used for sunburn prevention and to[r]
-protect against spots and freckles, but for Ren, it holds a[r]
-much more significant meaning.[pcms]
+普通の女性にとっては日焼け対策、染みとソバカス対策で[r]
+愛用されるわけだが、漣にとってはそれ以上に重要な[r]
+意味を持っている。[pcms]
 
 ;//〆：メモ　アルビノは公表可能か？　ソフ倫対策
 
 *631|
 [fc]
-That's because Ren suffers from a condition known as[r]
-albinism.[pcms]
+それは漣が『アルビノ』という疾患を負っているからだ。[pcms]
 
 *632|
 [fc]
-Albinism, also called congenital hypopigmentation, is a[r]
-genetic disorder where melanin, which protects the body from[r]
-ultraviolet rays, is deficient.[pcms]
+先天性白皮症、先天性色素欠乏症等と呼ばれ、[r]
+遺伝子疾患で紫外線から身を守るためのメラニンが[r]
+欠乏している。[pcms]
 
 *633|
 [fc]
-As a result, direct sunlight in the summer can easily cause[r]
-her skin to burn red and even lead to fever.[pcms]
+そのために夏場などに直射日光を浴びると、[r]
+簡単に皮膚が赤く焼け、発熱を起こしてしまう。[pcms]
 
 *634|
 [fc]
-The radiant beauty of her pale skin is a unique charm of[r]
-Ren's body that lacks resistance to ultraviolet rays and[r]
-signifies her vulnerability at the same time.[pcms]
+光彩を放った美しいあの白い肌は、紫外線に対する[r]
+抵抗力がない漣の身体特有の美しさであり、[r]
+同時に危うさをも意味している。[pcms]
 
 *635|
 [fc]
-Therefore, she always applies UV-cut cream to her skin[r]
-before going out and wears colored contacts to protect her[r]
-eyes from UV rays.[pcms]
+その為、普段から外出するときは欠かさずＵＶカットの[r]
+クリームを皮膚に塗り、眼には紫外線を防ぐための[r]
+カラーコンタクトを入れて対策している。[pcms]
 
 ;//コウ位置調整再表示
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *636|
 [fc]
-[ns]Kousuke[nse]
-"Anyway, Wataru, you're really lucky."[pcms]
+[ns]浩助[nse]
+「それにしてもワタルは幸せだよなあ」[pcms]
 
 *637|
 [fc]
-[ns]Wataru[nse]
-"Eh?"[pcms]
+[ns]航[nse]
+「えっ？」[pcms]
 
 *638|
 [fc]
-As I absentmindedly watched Ren's retreating figure, Kousuke[r]
-spoke to me.[pcms]
+漣の後姿をぼーっと見送るボクに、コースケが[r]
+話しかけてきた。[pcms]
 
 *639|
 [fc]
-[ns]Kousuke[nse]
-"I mean, right? Getting to eat homemade food cooked by such[r]
-a beautiful sister."[pcms]
+[ns]浩助[nse]
+「だってそうだろ？[r]
+　あんな綺麗な妹の手料理なんてさ」[pcms]
 
 *640|
 [fc]
-[ns]Wataru[nse]
-"Kousuke's family cooks for him too, right?"[pcms]
+[ns]航[nse]
+「コースケの家だって料理くらいしてもらえるだろ」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *641|
 [fc]
-[ns]Kousuke[nse]
-"It's about who's making it."[pcms]
+[ns]浩助[nse]
+「作る人間がなぁ」[pcms]
 
 *642|
 [fc]
-[ns]Wataru[nse]
-"...That shouldn't matter when it comes to taste."[pcms]
+[ns]航[nse]
+「……それは味には関係ないだろ」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e5"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *643|
 [fc]
-[ns]Kousuke[nse]
-"No way, it's totally different. The cooking of an[r]
-unattractive older sister and that of a beautiful and cute[r]
-younger sister are like night and day."[pcms]
+[ns]浩助[nse]
+「いやいや、全然違うだろ。[r]
+　冴えないかーちゃんの手料理と綺麗で可愛い妹の手料理じゃ[r]
+　月とすっぽんだよ」[pcms]
 
 *644|
 [fc]
-[ns]Wataru[nse]
-"Is that so?"[pcms]
+[ns]航[nse]
+「そんなもんかなぁ」[pcms]
 
 *645|
 [fc]
-Tasty food is tasty no matter who makes it; I've never[r]
-really thought about it that much.[pcms]
+誰が作ってもおいしい料理はおいしいし、[r]
+あんまり気にしたことはない。[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *646|
 [fc]
-[ns]Kousuke[nse]
-"You've become numb to luxury."[pcms]
+[ns]浩助[nse]
+「お前は贅沢が染みついてマヒしてんだな」[pcms]
 
 *647|
 [fc]
-[ns]Wataru[nse]
-"That's not true at all. Maybe you just have too many[r]
-worldly desires."[pcms]
+[ns]航[nse]
+「んなわけないだろ。[r]
+　コースケの方こそ邪念が多すぎるだけじゃないか」[pcms]
 
 *648|
 [fc]
-As we engaged in such trivial banter, the choir members we[r]
-had been waiting for finally arrived.[pcms]
+そんなくだらない会話に花を咲かせていると、[r]
+ようやくお目当ての合唱部と思われる学生達が入ってきた。[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *649|
 [fc]
-[ns]Kousuke[nse]
-"Oh, they're finally here!"[pcms]
+[ns]浩助[nse]
+「おっ、やっと来たね！」[pcms]
 
 ;//コウ1+和歌2
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=407 y=0]
@@ -1203,61 +1181,58 @@ had been waiting for finally arrived.[pcms]
 [fc]
 [vo_mob s="waka0001"]
 [ns]？？？[nse]
-"Oh, if it isn't Kousuke-kun."[pcms]
+「あら、浩助クンじゃない」[pcms]
 
 *651|
 [fc]
-It seems Kousuke was acquainted with the choir members. As[r]
-soon as he called out to them, a lively conversation[r]
-blossomed.[pcms]
+どうやらコースケは合唱部とは顔見知りらしい。[r]
+声をかけると早速会話に花が咲いた。[pcms]
 
 *652|
 [fc]
-[ns]Kousuke[nse]
-"Oh, Waka-chan! Just the person I wanted to see."[pcms]
+[ns]浩助[nse]
+「お、和歌ちゃん！　ちょうど良い所に」[pcms]
 
 [ChrSetEx layer=2 chbase="waka_a"][ChrSetXY layer=2 x=-70 y=0][trans_c cross time=150]
 
 *653|
 [fc]
 [vo_mob s="waka0002"]
-[ns]Waka[nse]
-"Are you here to scout again?"[pcms]
+[ns]和歌[nse]
+「またスカウトしにきたわけ？」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
 *654|
 [fc]
-[ns]Kousuke[nse]
-"Well, something like that. I had a bit of inspiration."[pcms]
+[ns]浩助[nse]
+「まあそんなところ。ちょっと閃いたんだよね」[pcms]
 
 *655|
 [fc]
 [vo_mob s="waka0003"]
-[ns]Waka[nse]
-"Don't say things like that and disrupt our activities[r]
-again, okay?"[pcms]
+[ns]和歌[nse]
+「またそんなこと言って、うちの活動を妨害しないでよ？」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
 *656|
 [fc]
-[ns]Kousuke[nse]
-"I won't, I won't. I've never done that before."[pcms]
+[ns]浩助[nse]
+「しないしない、したこともない」[pcms]
 
 [ChrSetEx layer=2 chbase="waka_b"][ChrSetXY layer=2 x=-70 y=0][trans_c cross time=150]
 
 *657|
 [fc]
 [vo_mob s="waka0004"]
-[ns]Waka[nse]
-"You have some nerve saying that."[pcms]
+[ns]和歌[nse]
+「よくいうわねぇ」[pcms]
 
 *658|
 [fc]
-The choir member made an exasperated face but seemed not[r]
-entirely opposed as she started listening to Kousuke's[r]
-enthusiastic explanation.[pcms]
+あきれ顔の合唱部員の方も、まんざら嫌でもなさそうに[r]
+コースケの熱心な説明に耳を傾けだした。[pcms]
 
 ;//演出暗転、時間経過っぽく
 [sysbt_meswin clear]
@@ -1270,8 +1245,8 @@ enthusiastic explanation.[pcms]
 
 *659|
 [fc]
-[ns]Kousuke[nse]
-"...and that's pretty much the situation."[pcms]
+[ns]浩助[nse]
+「……とまぁそーいうわけなんだよ」[pcms]
 
 [bg storage="bg015"][trans_c cross time=500]
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=407 y=0]
@@ -1280,237 +1255,231 @@ enthusiastic explanation.[pcms]
 *660|
 [fc]
 [vo_mob s="waka0005"]
-[ns]Waka[nse]
-"If that's the case, we need someone with chorus line[r]
-experience."[pcms]
+[ns]和歌[nse]
+「そーなるとコーラスラインの経験がある子でないとダメね」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
 *661|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, that might be necessary. It'd be problematic if they[r]
-get carried away by the loop's pitch."[pcms]
+[ns]浩助[nse]
+「ああ、そーかもしれないな。[r]
+　ループの音程に釣られちゃうと困るしな」[pcms]
 
 ;//〆：メモ　hip-hopはリフではなくて、ループ？　確認。
 
 *662|
 [fc]
 [vo_mob s="waka0006"]
-[ns]Waka[nse]
-"I have a few people in mind..."[pcms]
+[ns]和歌[nse]
+「何人か心当たりはあるけど……」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
 *663|
 [fc]
-[ns]Kousuke[nse]
-"Oh, really? Introduce me to her!"[pcms]
+[ns]浩助[nse]
+「おっ、マジか？[r]
+　紹介してよその子！」[pcms]
 
 *664|
 [fc]
 [vo_mob s="waka0007"]
-[ns]Waka[nse]
-"But I can't guarantee she'll cooperate, you know?"[pcms]
+[ns]和歌[nse]
+「でも協力してくれるかどうかは分からないわよ？」[pcms]
 
 *665|
 [fc]
-[ns]Kousuke[nse]
-"That's where I'll come in with kindness and sincerity in my[r]
-request. It'll definitely be okay!"[pcms]
+[ns]浩助[nse]
+「そこはほら、親切丁寧、誠心誠意でお願いするから[r]
+　きっと大丈夫！」[pcms]
 
 [ChrSetEx layer=2 chbase="waka_a"][ChrSetXY layer=2 x=-70 y=0][trans_c cross time=150]
 
 *666|
 [fc]
 [vo_mob s="waka0008"]
-[ns]Waka[nse]
-"...That's exactly what disrupts our activities."[pcms]
+[ns]和歌[nse]
+「……それが活動の妨害なんだけどなぁ」[pcms]
 ;//＠ため息混じり
 
 *667|
 [fc]
-[ns]Kousuke[nse]
-"Don't be so stiff. We're close, aren't we?"[pcms]
+[ns]浩助[nse]
+「んな固いこと言うなよぉ。オレとキミの仲だろぉ」[pcms]
 
 [ChrSetEx layer=2 chbase="waka_b"][ChrSetXY layer=2 x=-70 y=0][trans_c cross time=150]
 
 *668|
 [fc]
 [vo_mob s="waka0009"]
-[ns]Waka[nse]
-"Hey, stop with the expressions that could cause weird[r]
-misunderstandings."[pcms]
+[ns]和歌[nse]
+「ちょっと、変な誤解されそうな表現はやめてよね」[pcms]
 
 *669|
 [fc]
-I was completely left out of the conversation, just[r]
-eavesdropping, but it seemed like Kousuke's plan was[r]
-progressing smoothly.[pcms]
+すっかり蚊帳の外で会話を立ち聞きしているだけの状態だったけど[r]
+どうやらコースケの計画は順調に進んでいるようだった。[pcms]
 
 *670|
 [fc]
-Kousuke has always been good at sweet-talking or rather,[r]
-persuading people. He's also well-regarded by the girls at[r]
-school.[pcms]
+まあ、コースケは昔から甘え上手というか、頼み上手というか、[r]
+この手の説得や交渉は得意だったし、[r]
+学園全体の女子たちに対する評判も悪くない。[pcms]
 
 *671|
 [fc]
-At this rate, it's only a matter of time before Kousuke[r]
-finds a girl who can handle the vocal line he needs.[pcms]
+この分だと、コースケが必要としているヴォーカルラインを[r]
+担当できる子が見つかるのも時間の問題だろう。[pcms]
 
 [ChrSetEx layer=2 chbase="waka_a"][ChrSetXY layer=2 x=-70 y=0][trans_c cross time=150]
 
 *672|
 [fc]
 [vo_mob s="waka0010"]
-[ns]Waka[nse]
-"Oh, that reminds me. Kousuke-kun, have you been in touch[r]
-with that Mizuki girl recently?"[pcms]
+[ns]和歌[nse]
+「あっ、そうそう。浩助クンの仲で思い出したけど、[r]
+　あの瑞樹って子と連絡まだ取り合ってる？」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e2"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
 *673|
 [fc]
-[ns]Kousuke[nse]
-"...Mizuki? You mean the one who sang... Mizuki, right?"[pcms]
+[ns]浩助[nse]
+「……ミズキってあの歌ってた……瑞樹、か……？」[pcms]
 
 [ChrSetEx layer=2 chbase="waka_b"][ChrSetXY layer=2 x=-70 y=0][trans_c cross time=150]
 
 *674|
 [fc]
 [vo_mob s="waka0011"]
-[ns]Waka[nse]
-"Yes. She sang your songs, didn't she?"[pcms]
+[ns]和歌[nse]
+「そう。確か浩助クンの曲を歌ってたでしょ」[pcms]
 
 *675|
 [fc]
-[ns]Kousuke[nse]
-"Ah, I haven't heard from her recently."[pcms]
+[ns]浩助[nse]
+「あぁ、最近は音沙汰ないな」[pcms]
 
 *676|
 [fc]
 [vo_mob s="waka0012"]
-[ns]Waka[nse]
-"I saw her in town the other day."[pcms]
+[ns]和歌[nse]
+「なんかさ、この前街で見かけたんだけどね」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
 *677|
 [fc]
-[ns]Kousuke[nse]
-"Is that so... Did she seem well?"[pcms]
+[ns]浩助[nse]
+「そうか……元気そうだった？」[pcms]
 
 [ChrSetEx layer=2 chbase="waka_a"][ChrSetXY layer=2 x=-70 y=0][trans_c cross time=150]
 
 *678|
 [fc]
 [vo_mob s="waka0013"]
-[ns]Waka[nse]
-"Yeah... well, about that..."[pcms]
+[ns]和歌[nse]
+「う、うん……それがね」[pcms]
 
 *679|
 [fc]
-As Kousuke's expression began to cloud over with his[r]
-question, Waka's eyes widened in realization, and her voice[r]
-dropped.[pcms]
+表情が曇り始めたコースケの問いかけに、[r]
+ハッとしたような目をしたあと、彼女の声のトーンが落ちた。[pcms]
 
 *680|
 [fc]
 [vo_mob s="waka0014"]
-[ns]Waka[nse]
-"She seemed completely different. I didn't even recognize[r]
-her at first."[pcms]
+[ns]和歌[nse]
+「なんかさ、すっかり変っちゃってて。[r]
+　最初は私も気付かなかったくらいでさ」[pcms]
 
 *681|
 [fc]
-[ns]Kousuke[nse]
-"Was she in disguise or something?"[pcms]
+[ns]浩助[nse]
+「変装でもしてたのかよ？」[pcms]
 
 *682|
 [fc]
 [vo_mob s="waka0015"]
-[ns]Waka[nse]
-"She was dressed really flashy and walking with some shady-[r]
-looking people."[pcms]
+[ns]和歌[nse]
+「すごい派手な格好してて、なんか悪そうな連中と[r]
+　一緒に歩いてたのよ」[pcms]
 
 *683|
 [fc]
-[ns]Kousuke[nse]
-"Shady-looking people, huh..."[pcms]
+[ns]浩助[nse]
+「悪そうな連中ねぇ……」[pcms]
 
 *684|
 [fc]
-[ns]Wataru[nse]
-"Could it be that you're talking about Mizuki?"[pcms]
+[ns]航[nse]
+「もしかしてそれって[ruby text="くがやま"][ch text="久我山"] [ruby text="みずき"][ch text="瑞樹"]のこと？」[pcms]
 
 *685|
 [fc]
-That's when I decided to join the conversation instead of[r]
-just listening.[pcms]
+そこでボクも聞いているだけの立場から会話に加わった。[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e5"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
 *686|
 [fc]
-[ns]Kousuke[nse]
-"Yeah... Wataru knows Mizuki well too."[pcms]
+[ns]浩助[nse]
+「そうだよ……。ワタルもよーく知ってる瑞樹だ」[pcms]
 
 *687|
 [fc]
-Mizuki was a childhood friend of both Kousuke and me. We[r]
-used to play together often when we were kids, and even[r]
-after entering school, we spent a lot of time together at[r]
-first.[pcms]
+瑞樹はコースケ同様、ボクも知っている幼馴染だった。[r]
+昔は三人でよく遊んだし、学園に入ってからも最初のころは[r]
+行動を共にすることが多かった。[pcms]
 
 *688|
 [fc]
-She sang some of Kousuke's songs... But for the past few[r]
-years, we've completely lost touch, and I've been somewhat[r]
-concerned about it.[pcms]
+コースケの曲をいつくか歌ったりしていたし……。[r]
+ただ、ここ数年はすっかり音信不通になって、[r]
+なんとなくボクも気になっていた。[pcms]
 
 *689|
 [fc]
 [vo_mob s="waka0016"]
-[ns]Waka[nse]
-"She had an air about her like she belonged to a different[r]
-world."[pcms]
+[ns]和歌[nse]
+「住む世界が違うって雰囲気だったなぁ」[pcms]
 
 *690|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=407 y=0][trans_c cross time=150]
 
 *691|
 [fc]
-[ns]Kousuke[nse]
-"Anyway, I want to record vocals next week. So I'm counting[r]
-on you, okay?"[pcms]
+[ns]浩助[nse]
+「まあとにかくさ。来週ヴォーカル録りしたいんだ。[r]
+　というわけで頼んだぜ？」[pcms]
 
 *692|
 [fc]
 [vo_mob s="waka0017"]
-[ns]Waka[nse]
-"Wait, what do you mean 'counting on me'...?"[pcms]
+[ns]和歌[nse]
+「えっ、頼んだって……」[pcms]
 
 [chara_int_ layer=1][trans_c cross time=150]
 
 *693|
 [fc]
-Then Kousuke abruptly ended the light-hearted conversation[r]
-and quickly left the classroom.[pcms]
+するとコースケは先ほどまでの軽いノリでの会話を[r]
+ピタリと切り上げると、早足で教室から出て行ってしまった。[pcms]
 
 *694|
 [fc]
-[ns]Wataru[nse]
-"Hey..."[pcms]
+[ns]航[nse]
+「お、おい……」[pcms]
 
 *695|
 [fc]
-Taken aback by the sudden turn of events, I reluctantly[r]
-decided to follow him.[pcms]
+突然のことにボクも戸惑いつつ、仕方なくその後を[r]
+追うことにした。[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1519,138 +1488,136 @@ decided to follow him.[pcms]
 
 *696|
 [fc]
-Mizuki... A common childhood friend between Kousuke and me.[r]
-We used to play together a lot as kids.[pcms]
+瑞樹……ボクとコースケの共通の幼馴染。[r]
+子供の時はよく一緒に遊んでいた。[pcms]
 
 *697|
 [fc]
-We went to the same school and played in the same park,[r]
-sharing those common memories that everyone experiences[r]
-during childhood.[pcms]
+同じ学園に通学し、同じ公園で遊んだ、[r]
+誰でも子供の時期に経験する共通の思い出をもった存在。[pcms]
 
 *698|
 [fc]
-As we grew up normally and became adultsnot quite adults but[r]
-at an age where we became conscious of being male or[r]
-femalewe still got along well.[pcms]
+やがてボクらは普通に年を重ねて、大人になったって[r]
+程のものでもないけど、男とか女とかって意識する年齢になった。[pcms]
 
 *699|
 [fc]
-Eventually, Mizuki started singing Kousuke's songs, and the[r]
-two of them began working together.[pcms]
+だけど、ボクらはそれでも仲良くやっていた。[r]
+やがて瑞樹はコースケの曲を歌うようになり、[r]
+二人は一緒に活動するようになった。[pcms]
 
 *700|
 [fc]
-Then I was told that Kousuke and Mizuki were dating.[pcms]
+そしてコースケと瑞樹が交際していることを聞かされた。[pcms]
 
 *701|
 [fc]
-In dramas or manga, this is where I would feel left behind,[r]
-but I didn't have any particular feelings about it.[pcms]
+ドラマとか漫画とかだと、ここでボクが取り残されたような[r]
+気分になったりするんだろうけど、[r]
+特にそんな感情はなかった。[pcms]
 
 *702|
 [fc]
-I interacted with them both without any problems, without[r]
-any hidden feelings or discomfort.[pcms]
+何の問題もなく、ボクは二人と接していたし、[r]
+そこに隠れた気持ちも違和感もなかった。[pcms]
 
 *703|
 [fc]
-But ironically, it wasn't me who was engulfed by the stormy[r]
-seas but Kousuke and Mizuki who were dating.[pcms]
+だけど、皮肉なことに荒波はボクではなく、交際していた[r]
+コースケと瑞樹を飲み込んだ。[pcms]
 
 *704|
 [fc]
-At some point, talk of Mizuki performing at live houses[r]
-started, and that became the catalyst for their constant[r]
-arguments.[pcms]
+ある時から瑞樹がライブハウスに出るという話が持ち上がり[r]
+それがきっかけで二人は喧嘩が絶えなくなった。[pcms]
 
 *705|
 [fc]
-I don't know the exact reasons, but their relationship[r]
-deteriorated steadily, becoming so serious that I couldn't[r]
-even mediate between them.[pcms]
+細かい原因は分からないけど、結局二人の仲は悪化の一途を[r]
+辿って、それはボクが仲裁することもできないほど[r]
+深刻化していった。[pcms]
 
 *706|
 [fc]
-And then Mizuki suddenly disappeared. She left school and[r]
-all contact with me, Kousuke, and other friends ceased.[pcms]
+そして瑞樹は突然姿を消した。学園を辞めて、[r]
+ボクやコースケ、その他の友人との連絡の全てが途絶えた。[pcms]
 
 *707|
 [fc]
-What caused their discord?[pcms]
+その不仲は何が原因なのか。[pcms]
 
 *708|
 [fc]
-The reason for losing contact started with her falling out[r]
-with Kousuke or perhaps--[pcms]
+連絡が取れなくなった原因は、[r]
+コースケとの不仲から始まったのか、あるいは――[pcms]
 
 *709|
 [fc]
-Kousuke never talked about it, and I didn't feel like asking[r]
-for details.[pcms]
+コースケはまったく語らないし、[r]
+ボクも詳しく聞く気にはなれなかった。[pcms]
 
 *710|
 [fc]
-All I remember is comforting a disheartened Kousuke after[r]
-Mizuki vanished.[pcms]
+瑞樹が姿を消して落胆するコースケを[r]
+ただ慰めるだけだったのを覚えている。[pcms]
 
 ;//BG:学校全景
 [bg storage="bg015"][trans_c cross time=500]
 
 *711|
 [fc]
-[ns]Wataru[nse]
-"Kousuke!"[pcms]
+[ns]航[nse]
+「コースケ！」[pcms]
 
 ;//コウピン
 [ChrSetEx layer=1 chbase="kou_e4"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *712|
 [fc]
-Catching up at last, I walked alongside Kousuke, who had his[r]
-shoulders slumped.[pcms]
+ようやく追いついたボクは、肩を落としたコースケの隣に並んだ。[pcms]
 
 *713|
 [fc]
-It seems that the wound from that day is still throbbing in[r]
-Kousuke's heart.[pcms]
+どうやらあの日の傷は、まだコースケの胸の中で[r]
+疼いているんだろう。[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e1"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *714|
 [fc]
-[ns]Kousuke[nse]
-"Sorry, sorry, I got a bit down there."[pcms]
+[ns]浩助[nse]
+「わりぃわりぃ、ちょっとシケっちまったな」[pcms]
 
 *715|
 [fc]
-[ns]Wataru[nse]
-"Is it okay, looking for a vocalist?"[pcms]
+[ns]航[nse]
+「いいのか、ヴォーカル探し？」[pcms]
 
 *716|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, I'll start over with that. But more importantly,[r]
-let's go see 'that' to cheer up, huh?"[pcms]
+[ns]浩助[nse]
+「ああ、そっちはまた出直すよ。[r]
+　それよりさ、景気づけにアレ見に行こうぜ？」[pcms]
 
 *717|
 [fc]
-[ns]Wataru[nse]
-"'That'... you mean?"[pcms]
+[ns]航[nse]
+「アレ……ですか？」[pcms]
 
 [ChrSetEx layer=1 chbase="kou_e3"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
 
 *718|
 [fc]
-[ns]Kousuke[nse]
-"Yeah. When it's like this, 'that' is the best thing!"[pcms]
+[ns]浩助[nse]
+「そう。こういう時はアレに限る！！」[pcms]
 
 ;//キャラ消し+グラウンド表示
 [bg storage="bg07a"][trans_c cross time=500]
 
 *719|
 [fc]
-Regaining our spirits, we headed to the grounds.[pcms]
+気を取り直してボク達はグラウンドへとやってきた。[pcms]
 
 ;//---------------------------------------------------------------
 ;//〆：条件分岐
@@ -1754,7 +1721,7 @@ Regaining our spirits, we headed to the grounds.[pcms]
 
 *720|
 [fc]
-And there was...[pcms]
+そこにいたのは……。[pcms]
 
 ;//立ち絵演出？　代用品無し
 ;//若しくはマルガリータのイベント絵？
@@ -1764,129 +1731,126 @@ And there was...[pcms]
 
 *721|
 [fc]
-[ns]Kousuke[nse]
-"Wow, look at those breasts!! I can tell, she's the type[r]
-that looks slim when dressed."[pcms]
+[ns]浩助[nse]
+「すげぇ、見ろよあの胸！！[r]
+　オレには分かるぜ、あれは着やせするタイプだ」[pcms]
 
 *722|
 [fc]
-[ns]Wataru[nse]
-"Is that what you're looking at..."[pcms]
+[ns]航[nse]
+「見てんのそこかよ……」[pcms]
 
 *723|
 [fc]
-She was a half-Japanese female student who transferred from[r]
-South America during the strange period at the end of the[r]
-first semester.[pcms]
+一学期末の変な時期に南米から転校してきた、[r]
+一つ上のハーフの女子学生だった。[pcms]
 
 [chara_int_ layer=1][chara_int_ layer=2][trans_c cross time=150]
 
 *724|
 [fc]
-[ns]Kousuke[nse]
-"Indeed, international power is amazing."[pcms]
+[ns]浩助[nse]
+「やはりインターナショナルなパワーはすごいな」[pcms]
 
 *725|
 [fc]
-[ns]Wataru[nse]
-"Power... what a way to put it."[pcms]
+[ns]航[nse]
+「パワーって……どんな表現だよ」[pcms]
 
 *726|
 [fc]
-[ns]Kousuke[nse]
-"Oops, got distracted by international affairs. Now, let's[r]
-go to our main event."[pcms]
+[ns]浩助[nse]
+「おっと、国際情勢に気をとられちまったぜ。[r]
+　さっ、本命に行こうぜ」[pcms]
 
 *727|
 [fc]
-[ns]Wataru[nse]
-"International affairs..."[pcms]
+[ns]航[nse]
+「国際情勢……」[pcms]
 
 ;//体育館表示
 [bg storage="bg014"][trans_c cross time=500]
 
 *728|
 [fc]
-And then we moved to the gymnasium.[pcms]
+そしてボクらは体育館へと移動した。[pcms]
 
 *729|
 [fc]
-Following Kousuke's beckoning, we peeked through the door[r]
-next to the gymnasium, and there was the swimming club's[r]
-practice scene.[pcms]
+コースケの手招きに続いて体育館横の扉から覗き込むと、[r]
+そこには水泳部の練習風景があった。[pcms]
 
 ;//〆：HEV003：水泳部のエース
 [evcg storage="EV003a"][trans_c cross time=300]
 
 *730|
 [fc]
-[ns]Kousuke[nse]
-"This is really it."[pcms]
+[ns]浩助[nse]
+「やっぱりコレだよなぁ」[pcms]
 
 *731|
 [fc]
-[ns]Wataru[nse]
-"Uh, yeah..."[pcms]
+[ns]航[nse]
+「う、うむ……」[pcms]
 
 *732|
 [fc]
-Despite thinking it was inappropriate, I'm also a healthy[r]
-male. Naturally, I'm curious, or rather, my eyes are drawn[r]
-to it.[pcms]
+不謹慎だとは思いつつも、そこはボクも健全な男子。[r]
+やっぱり気になるというか、目が行ってしまう。[pcms]
 
 *733|
 [fc]
-[ns]Kousuke[nse]
-"Nice... really nice..."[pcms]
+[ns]浩助[nse]
+「いいねぇ……実にいい……」[pcms]
 
 *734|
 [fc]
-[ns]Wataru[nse]
-"Certainly... not bad"[pcms]
+[ns]航[nse]
+「確かに……悪くない」[pcms]
 
 *735|
 [fc]
-What they're doing is serious club activity and sports, but[r]
-for us, their appearance inevitably carries a different[r]
-meaning.[pcms]
+やっている方は真面目な部活動でありスポーツなわけだが、[r]
+ボクらにとってはその姿は、どうしても別の意味が[r]
+強く感じられてしまう。[pcms]
 
 *736|
 [fc]
-[ns]Kousuke[nse]
-"Somehow all the unpleasant things just blow away."[pcms]
+[ns]浩助[nse]
+「なんか嫌な事が全部一気に吹き飛ぶな」[pcms]
 
 *737|
 [fc]
-[ns]Wataru[nse]
-"That's true but... is this okay?"[pcms]
+[ns]航[nse]
+「そ、そうだけど……いいのかなぁ？」[pcms]
 
 *738|
 [fc]
-[ns]Kousuke[nse]
-"What do you mean 'is this okay'?"[pcms]
+[ns]浩助[nse]
+「いいってなにが？」[pcms]
 
 *739|
 [fc]
-[ns]Wataru[nse]
-"I mean, this is peeping, isn't it?"[pcms]
+[ns]航[nse]
+「だってこれ、覗きだろ」[pcms]
 
 *740|
 [fc]
-[ns]Kousuke[nse]
-"Idiot, we're not peeping into the changing room. It's just[r]
-sports viewing."[pcms]
+[ns]浩助[nse]
+「馬鹿、更衣室を覗いてるわけじゃないぞ。[r]
+　単なるスポーツ鑑賞じゃないか」[pcms]
 
 *741|
 [fc]
-If it were images from the Olympics on TV, that would[r]
-certainly be the case, but seeing competitive swimsuits live[r]
-has a very strong sexual appeal.[pcms]
+テレビで見るオリンピックとかの映像なら[r]
+確かにそうなんだけど、生で見る競泳水着姿というのは[r]
+実に性的な魅力が強い。[pcms]
 
 *742|
 [fc]
-The thin fabric below encases a naked body... My gaze was[r]
-fixed on the raised lines of their bodies and how the fabric[r]
-dug in.[pcms]
+あの薄い生地の下には裸体が収まっているわけで……。[r]
+浮き上がった肉体のラインとその食い込みに視線が[r]
+釘付けになった。[pcms]
 
 ;//〆HEV003：水泳部のエース　主人公達に気が付く
 [evcg storage="EV003b"][trans_c cross time=300]
@@ -1894,76 +1858,74 @@ dug in.[pcms]
 *743|
 [fc]
 [vo_yuh s="yuho0001"]
-[ns]Yuuho[nse]
-"Who's there!?"[pcms]
+[ns]悠帆[nse]
+「そこにいるのは誰！？」[pcms]
 
 *744|
 [fc]
-To our surprise, her gaze sharply turned towards Kousuke and[r]
-me who were captivated.[pcms]
+なんと見とれていたボクとコースケの方に[r]
+彼女の目がすっと向いた。[pcms]
 
 *745|
 [fc]
-[ns]Kousuke[nse]
-"Crap, we've been spotted."[pcms]
+[ns]浩助[nse]
+「やべ、見つかった」[pcms]
 
 [se buf=0 storage="se052"]
 
 *746|
 [fc]
-The moment our eyes met, Kousuke quickly flipped around and[r]
-started running.[pcms]
+視線が交錯した瞬間、コースケは素早く身を翻して走り出す。[pcms]
 
 *747|
 [fc]
-[ns]Wataru[nse]
-"Eh... Kousuke!?"[pcms]
+[ns]航[nse]
+「えっ……コースケ！？」[pcms]
 
 [bg storage="bg300"][trans_c cross time=500]
 
 *748|
 [fc]
-In a panic, I turned around only to find he was no longer[r]
-there. I realized too late that I had missed my chance to[r]
-escape.[pcms]
+慌てて振り返ると隣にはもう姿はない。[r]
+ボクはここで自分が逃げ遅れたことを悟ったが[r]
+時すでに遅しだった。[pcms]
 
 *749|
 [fc]
 [vo_mob s="komon0001"]
-[ns]Advisory Teacher[nse]
-"Hey! What are you doing there!!"[pcms]
+[ns]顧問の先生[nse]
+「こらっ！　そこでなにやってる！！」[pcms]
 ;//＠女の先生
 
 *750|
 [fc]
-[ns]Wataru[nse]
-"Uh..."[pcms]
+[ns]航[nse]
+「うっ……」[pcms]
 
 *751|
 [fc]
-I tried to follow Kousuke and escape but was caught by the[r]
-collar by the advisory teacher who rushed over.[pcms]
+コースケの後に続いて逃走しようとしたところを[r]
+駆け付けた顧問の先生に襟首を掴まれてしまった。[pcms]
 
 *752|
 [fc]
 [vo_mob s="komon0002"]
-[ns]Advisory Teacher[nse]
-"What on earth do you think you're doing!!"[pcms]
+[ns]顧問の先生[nse]
+「一体どーいうつもり！！」[pcms]
 
 *753|
 [fc]
-[ns]Wataru[nse]
-"Um, well, uh... sorry."[pcms]
+[ns]航[nse]
+「えっと、その、えっと……すみません」[pcms]
 
 ;//〆：BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *754|
 [fc]
-Once it had come to this, there was nothing to do but[r]
-apologize profusely. Having been caught after Kousuke[r]
-escaped, I was thoroughly squeezed for information and even[r]
-received a physical reprimand.[pcms]
+こうなってしまったら、平謝り以外に手立てはない。[r]
+逃げ遅れたボクはコースケの分までたっぷりと搾られて、[r]
+鉄拳制裁まで受けるハメになった。[pcms]
 
 [se buf=0 storage="se012"]
 

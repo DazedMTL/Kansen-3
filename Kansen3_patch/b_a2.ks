@@ -18,118 +18,118 @@
 
 *4362|
 [fc]
-Anyway, Yuuho is in the direction of the gym.[pcms]
+ともかく、悠帆は体育館のほうにいるんだ。[pcms]
 
 *4363|
 [fc]
-I've decided to cut straight through the gym and head into[r]
-the indoor pool where Yuuho should be.[pcms]
+このまま体育館を突っ切って悠帆がいるはずの[r]
+屋内プールに突っ込もう。[pcms]
 
 *4364|
 [fc]
-Once I made up my mind, I charged straight into the gym.[pcms]
+そう心に決めると、ボクはまっすぐに[r]
+体育館に突っ込んだ。[pcms]
 
 *4365|
 [fc]
-But for some reason, my backpack suddenly feels heavy...[pcms]
+でもなぜか急に背中の荷物が重い……。[pcms]
 
 *4366|
 [fc]
-Eh? ...When I turned around, there was the figure of a woman[r]
-smiling slyly.[pcms]
+えっ？[r]
+……と振り返ったとき、にんまりと笑う女の姿が[r]
+そこにあった。[pcms]
 
 *4367|
 [fc]
-[ns]Wataru[nse]
-Uwah![pcms]
+[ns]航[nse]
+「うわっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4368|
 [fc]
 [vo_mob s="onna_iti0017"]
-[ns]Infected Woman A[nse]
-Where are you going? Let's do something pleasurable[r]
-together.[pcms]
+[ns]感染者・女Ａ[nse]
+「どこに行くのぉ？　私と気持ちいいこと、しましょ」[pcms]
 
 *4369|
 [fc]
-[ns]Wataru[nse]
-I-I must respectfully decline.[pcms]
+[ns]航[nse]
+「ご、ご遠慮申し上げます」[pcms]
 
 *4370|
 [fc]
-I thought about running away, even if it meant dropping my[r]
-baggage right there.[pcms]
+荷物をその場に脱ぎ捨てるように置いてでも[r]
+逃げ出そうと思った。[pcms]
 
 *4371|
 [fc]
-But by the time I realized it, I had lost any place to[r]
-escape.[pcms]
+けれど気がついた時には、ボクは逃げ場を失っていた。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_c"][ChrSetXY layer=5 x=174 y=0][trans_c cross time=150]
 
 *4372|
 [fc]
 [vo_mob s="onna2_0009"]
-[ns]Infected Woman C[nse]
-Then, shall we do it?[pcms]
+[ns]感染者・女Ｃ[nse]
+「それじゃ、私としましょ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
 *4373|
 [fc]
 [vo_mob s="onna_san0005"]
-[ns]Infected - Female D[nse]
-Haaaan, my pussy, my pussy wants your cock to stir it[r]
-upppp.[pcms]
+[ns]感染者・女Ｄ[nse]
+「はぁああんっ、私のおまんこ、[r]
+　私のおまんこぉおちんちんでかき混ぜてぇええん」[pcms]
 
 *4374|
 [fc]
-[ns]Wataru[nse]
-No, no, I don't want to. I DON'T WANT TOOO!![pcms]
+[ns]航[nse]
+「だっ、だから、い、イヤダ。イヤダァアアアッ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4375|
 [fc]
 [vo_mob s="onna_iti0016"]
-[ns]Infected Woman A[nse]
-Aww, you're talking like a virgin.[pcms]
+[ns]感染者・女Ａ[nse]
+「いやん。処女みたいなこと言ってるわ」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_c"][ChrSetXY layer=5 x=174 y=0][trans_c cross time=150]
 
 *4376|
 [fc]
 [vo_mob s="onna2_0010"]
-[ns]Infected Woman C[nse]
-So, a virgin dick? Nfuuu, a virgin dick full of semen.[pcms]
+[ns]感染者・女Ｃ[nse]
+「じゃあ童貞チンポ？　んふぅう、精液たっぷり童貞チンポ」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
 *4377|
 [fc]
 [vo_mob s="onna_san0006"]
-[ns]Infected Woman D[nse]
-I'll squeeze out every last drop for you.[pcms]
+[ns]感染者・女Ｄ[nse]
+「一滴残らず絞りだしてあげるわ」[pcms]
 
 *4378|
 [fc]
-[ns]Wataru[nse]
-Uwaaaaaaaaaaaaaaaaaah!![pcms]
+[ns]航[nse]
+「うわぁああああああああああっ！！」[pcms]
 
 *4379|
 [fc]
-My screams as I was forcefully pushed down in the hallway[r]
-were drowned out by the women's moans...[pcms]
+力任せに廊下に押し倒されたボクの悲鳴は、[r]
+女たちの嬌声の中に消えて……。[pcms]
 
 *4380|
 [fc]
-My consciousness was closed off into darkness by the soft[r]
-female bodies covering my mouth and nose.[pcms]
+ボクの口や鼻をふさぐ柔らかい女の体に、[r]
+ボクの意識は闇に閉ざされた。[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

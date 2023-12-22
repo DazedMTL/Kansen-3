@@ -9,7 +9,7 @@
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
 ;//・時間帯：
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//
 ;//※ライター様へ。
 ;//　このブロックはいわゆる日常シーンですが、
@@ -33,28 +33,28 @@
 
 *5647|
 [fc]
-[ns]Kousuke[nse]
-"So, shall we split up and go our separate ways from here?"[pcms]
+[ns]浩助[nse]
+「んじゃ、こっからは別行動しようぜ？」[pcms]
 
 *5648|
 [fc]
-Kousuke suggested it, and we all decided to check out the[r]
-stores we each wanted to visit.[pcms]
+コースケが言い出して、みんなでそれぞれに[r]
+行ってみたい店を覗くことにした。[pcms]
 
 *5649|
 [fc]
-Knowing Kousuke, he probably can't wait to head to the music[r]
-store on the second floor after "Record Mania".[pcms]
+多分、コースケのことだから『レコマニ』の次は[r]
+２Ｆの楽器店に行きたくて仕方ないんだろう。[pcms]
 
 *5650|
 [fc]
-[ns]Wataru[nse]
-"Then, I'll also stop by the third floor..."[pcms]
+[ns]航[nse]
+「じゃ、ボクは３Ｆも寄ってくから……」[pcms]
 
 *5651|
 [fc]
-Maruko-senpai also wanted to see the third floor, so just[r]
-the two of us got off at the third floor by the elevator.[pcms]
+マル子先輩も３Ｆが見たいというので[r]
+ボクたち二人だけが、３Ｆでエレベーターを降りた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -65,27 +65,27 @@ the two of us got off at the third floor by the elevator.[pcms]
 
 *5652|
 [fc]
-This floor has the long-established sports shop "Takada[r]
-Sports" and a military mania store called "Tokyo Ghost".[pcms]
+このフロアには、老舗のスポーツショップ『タカダスポーツ』と[r]
+ミリタリーマニア向けの店、『東京ゴースト』がある。[pcms]
 
 *5653|
 [fc]
-I visited "Takada Sports" yesterday to borrow a change of[r]
-shirts and jerseys.[pcms]
+『タカダスポーツ』には昨日のうちに来て、[r]
+着替えのシャツとかジャージなんかを拝借した。[pcms]
 
 *5654|
 [fc]
-I've also been here a few times to buy sneakers, so I'm[r]
-pretty familiar with the place.[pcms]
+それにたまにスニーカーなんかを買いに来たことがあるから[r]
+だいたいの様子はわかっている。[pcms]
 
 *5655|
 [fc]
-[ns]Wataru[nse]
-"I've never been in this shop before."[pcms]
+[ns]航[nse]
+「こっちのお店は入ったことないんですよね」[pcms]
 
 *5656|
 [fc]
-I lead Maruko-senpai towards the military shop.[pcms]
+ボクはマル子先輩を案内して、ミリタリーショップに向かう。[pcms]
 
 ;//●３Ｆ　「東京ゴースト」
 [bg storage="BGS001a"][trans_c cross time=500]
@@ -96,261 +96,265 @@ I lead Maruko-senpai towards the military shop.[pcms]
 *5657|
 [fc]
 [vo_mar s="maru_T0011"]
-[ns]Margarita[nse]
-"...Hmm, quite a selection they have here."[pcms]
+[ns]マルガリータ[nse]
+「……ふむ、なかなかの品揃えだな」[pcms]
 
 *5658|
 [fc]
-Senpai looked around the store with satisfaction and[r]
-immediately began peering into the display cases, apparently[r]
-eyeing a gun holster.[pcms]
+店内をぐるりと眺めて満足そうにうなずいた先輩は[r]
+さっそく商品ケースを覗き込み始めた。[r]
+どうやら銃のホルスターを見つけて物色しているようだ。[pcms]
 
 *5659|
 [fc]
-While this store doesn't carry knives or other bladed[r]
-weapons, it does have stun guns, pilot jackets, military[r]
-canteens, and other items that are fun just to look at.[pcms]
+この店はナイフみたいな刃物こそ置いてないけれど、[r]
+スタンガンとかパイロットジャケットとか軍用水筒とか、[r]
+それなりに見てるだけで楽しい商品が揃っている。[pcms]
 
 *5660|
 [fc]
-I'm not as enthusiastic as senpai, but I look around to see[r]
-if there's anything that could be useful for a siege[r]
-lifestyle.[pcms]
+ボクも先輩ほど熱心にっていうわけじゃないけど、[r]
+何か篭城生活に役立つものはないかと探してみる。[pcms]
 
 *5661|
 [fc]
-[ns]Wataru[nse]
-"Wow... an Israeli-made gas mask. They even have stuff like[r]
-this..."[pcms]
+[ns]航[nse]
+「へえ……イスラエル製ガスマスク。[r]
+　こんなものまで置いてあるのか……」[pcms]
 
 *5662|
 [fc]
-It's unlikely that we'd need such equipment to prepare for[r]
-an external attack. Besides, I wouldn't even know how to use[r]
-it...[pcms]
+さすがに外部からの襲撃に備えるといっても、[r]
+ここまでの装備は必要ないだろう。[r]
+だいたい、使い方もよく分からないし……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5663|
 [fc]
 [vo_mar s="maru_T0012"]
-[ns]Margarita[nse]
-"Wataru. Over here."[pcms]
+[ns]マルガリータ[nse]
+「ワタル。こちらへ」[pcms]
 
 *5664|
 [fc]
-Senpai beckoned me over from the next shelf.[pcms]
+隣の陳列棚のあたりから、先輩がボクを手招きしていた。[pcms]
 
 *5665|
 [fc]
-[ns]Wataru[nse]
-"Eh? What is it...?"[pcms]
+[ns]航[nse]
+「え？　何か……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5666|
 [fc]
 [vo_mar s="maru_T0013"]
-[ns]Margarita[nse]
-"Stab-proof clothing. Let's try it on."[pcms]
+[ns]マルガリータ[nse]
+「防刃服だ。試着しておこう」[pcms]
 
 *5667|
 [fc]
-Senpai stood facing me with a sturdy-looking vest she had[r]
-taken off the hanger.[pcms]
+ハンガーにかけてあった頑丈そうなベストを手に[r]
+先輩は、ボクに向かい合って立つ。[pcms]
 
 *5668|
 [fc]
-[ns]Wataru[nse]
-"Um. I just wear it normally, right?"[pcms]
+[ns]航[nse]
+「えっと。普通に着ればいいんですよね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5669|
 [fc]
 [vo_mar s="maru_T0014"]
-[ns]Margarita[nse]
-"It seems to be made with reinforced plastic fibers, so it's[r]
-light. This shouldn't hinder movement."[pcms]
+[ns]マルガリータ[nse]
+「繊維強化プラスチックが使われているようだから軽いな。[r]
+　これなら動きに支障は出ないだろう」[pcms]
 
 *5670|
 [fc]
-Senpai started fastening the clasps and buttons on the sides[r]
-and back of the vest for me.[pcms]
+先輩は、ベストの脇や背中の金具やボタンを[r]
+ボクの代わりに留めようとしてくれている。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5671|
 [fc]
 [vo_mar s="maru_T0015"]
-[ns]Margarita[nse]
-"Ah, hold still."[pcms]
+[ns]マルガリータ[nse]
+「ああ、こら、動くな」[pcms]
 
 *5672|
 [fc]
-Senpai's slender fingers brushed by my body, barely touching[r]
-me several times.[pcms]
+先輩の細い指が身体に触れるか触れないかのあたりを[r]
+何度もかすめる。[pcms]
 
 *5673|
 [fc]
-It was embarrassingly ticklish, and I couldn't help but[r]
-fidget.[pcms]
+それが妙に照れくさくて、こそばゆくて[r]
+ボクはもじもじしてしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5674|
 [fc]
 [vo_mar s="maru_T0016"]
-[ns]Margarita[nse]
-"Bear with it. It'll be over soon."[pcms]
+[ns]マルガリータ[nse]
+「我慢しろ。もうすぐ終わる」[pcms]
 
 *5675|
 [fc]
-[ns]Wataru[nse]
-"Y-Yes..."[pcms]
+[ns]航[nse]
+「は、はい……」[pcms]
 
 *5676|
 [fc]
-As senpai leaned in close, I could smell her pleasant scent.[r]
-It was Maruko- senpai's smell...[pcms]
+先輩が身体を寄せてきたので、ふわっといい匂いがする。[r]
+マル子先輩の匂いだ……。[pcms]
 
 *5677|
 [fc]
-I'm happy to be spending time alone with her like this,[r]
-getting her attention in various ways. It reminds me of the[r]
-intimate atmosphere from last night.[pcms]
+なんだかこうして二人きりで過ごして、[r]
+先輩にあれこれ構ってもらっているのが嬉しい。[r]
+昨夜の親密な雰囲気を思い出してしまう。[pcms]
 
 *5678|
 [fc]
-The more time I spend with her, the less I think of senpai's[r]
-cool demeanor as distant or unapproachable.[pcms]
+二人で過ごす時間が増えたせいか、先輩のクールな態度も、[r]
+よそよそしいとか、近付きがたいとは思わなくなっている。[pcms]
 
 *5679|
 [fc]
-I wonder if I'm getting used to senpai, or if she's starting[r]
-to change a little...[pcms]
+ボクが先輩に慣れてきたのかな。[r]
+それとも、先輩の方が少し変わってきてるのかな……。[pcms]
 
 *5680|
 [fc]
-Considering how hesitant I was to approach her before[r]
-because she was so beautiful, it feels strange now.[pcms]
+以前は、あまりにもキレイな人で[r]
+傍に寄ることもためらってたことを思うと[r]
+不思議なものだな、と思ってしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5681|
 [fc]
 [vo_mar s="maru_T0017"]
-[ns]Margarita[nse]
-"Alright, that should do it..."[pcms]
+[ns]マルガリータ[nse]
+「さて、これでよし……と……」[pcms]
 
 *5682|
 [fc]
-Senpai stepped back and scrutinized my whole body closely...[pcms]
+先輩は、一歩後ろに下がると、[r]
+しげしげとボクの全身を眺めて……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5683|
 [fc]
 [vo_mar s="maru_T0018"]
-[ns]Margarita[nse]
-"...Pfft...hahaha... Ahahaha! Sorry, but... this is...[r]
-Hahahaha!"[pcms]
+[ns]マルガリータ[nse]
+「……ぷっ……くくくくく……っ、[r]
+　あはははっ……、い、いや、すまない、[r]
+　だが……これは……、はははははっ！」[pcms]
 ;//＠悪いと思いながらも爆笑
 
 *5684|
 [fc]
-When I checked in the mirror next to us, the vest was way[r]
-too big and baggy on me, making me look like a child wearing[r]
-adult clothes.[pcms]
+横に置いてあった姿見で確認したら、[r]
+あまりにもサイズが大きくてブカブカになってしまい、[r]
+まるで大人の服を着ている子供みたいだ。[pcms]
 
 *5685|
 [fc]
-[ns]Wataru[nse]
-"...Oops. Maybe it's a foreign L size."[pcms]
+[ns]航[nse]
+「……ありゃ。外国もののＬサイズだったのかな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d20"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5686|
 [fc]
 [vo_mar s="maru_T0019"]
-[ns]Margarita[nse]
-"Well... There's no need to force yourself into something[r]
-that doesn't fit your body. Hahaha..."[pcms]
+[ns]マルガリータ[nse]
+「ま、まあ……。[r]
+　身体に合わないものを無理に着ることもない、か。[r]
+　ふふふふっ……」[pcms]
 
 ;//＠まだ笑いをこらえながら
 
 *5687|
 [fc]
-It's not the first time imported clothes haven't fit me, so[r]
-it's not much of a shock. More than that, I'm happy that[r]
-senpai laughed.[pcms]
+輸入ものの服が合わないのは、今回が初めてじゃないし[r]
+それほどショックっていうこともなく。[r]
+それよりも、先輩が笑ってくれたことが嬉しい。[pcms]
 
 *5688|
 [fc]
-Senpai's smile is rare but radiant, pure, and truly[r]
-untainted beauty...[pcms]
+滅多に見ることがないけれど、先輩の笑顔は[r]
+華やかで、純粋で、本当に穢れのない美しさだから……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d18"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5689|
 [fc]
 [vo_mar s="maru_T0020"]
-[ns]Margarita[nse]
-"...Hm?"[pcms]
+[ns]マルガリータ[nse]
+「…………ん？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5690|
 [fc]
-Senpai blushed slightly and looked away when she noticed my[r]
-gaze.[pcms]
+ボクの視線に気付いた先輩は軽く頬を染めて目を逸らす。[pcms]
 
 *5691|
 [fc]
-[ns]Wataru[nse]
-"Ah... sorry, it's nothing."[pcms]
+[ns]航[nse]
+「あ……すいません、何でもないです」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d22"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5692|
 [fc]
 [vo_mar s="maru_T0021"]
-[ns]Margarita[nse]
-"...I've got a good idea of what's here now. And I've got a[r]
-holster too... Let's head back down soon."[pcms]
+[ns]マルガリータ[nse]
+「……だ、だいたいのところは把握できたな。[r]
+　ホルスターも手に入ったことだし……。[r]
+　そろそろ下に行こう」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5693|
 [fc]
 [vo_mar s="maru_T0022"]
-[ns]Margarita[nse]
-"Besides, I promised you and Kousuke a shooting practice[r]
-session this afternoon."[pcms]
+[ns]マルガリータ[nse]
+「それに、午後はキミとコースケに[r]
+　射撃訓練をする約束だったしな」[pcms]
 
 *5694|
 [fc]
-[ns]Wataru[nse]
-"Yes! Please do."[pcms]
+[ns]航[nse]
+「はい！　お願いします」[pcms]
 
 *5695|
 [fc]
-Senpai nodded at me with a smile and then suddenly tilted[r]
-her head slightly.[pcms]
+ボクににっこりとうなずきかけてから、[r]
+ふとマル子先輩は軽く首をひねった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5696|
 [fc]
 [vo_mar s="maru_T0023"]
-[ns]Margarita[nse]
-"...It's strange though. Kousuke was so eager to shoot guns,[r]
-yet he hasn't said anything..."[pcms]
+[ns]マルガリータ[nse]
+「……それにしても不思議だな。[r]
+　あれだけ銃を撃ちたがっていたコースケが[r]
+　何も言ってこないのは……」[pcms]
 
 *5697|
 [fc]
-[ns]Wataru[nse]
-"Maybe he found something else he likes."[pcms]
+[ns]航[nse]
+「たぶん、他にいいものを見つけたんですよ」[pcms]
 
 ;//暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -366,13 +370,13 @@ yet he hasn't said anything..."[pcms]
 
 *5698|
 [fc]
-After leaving the military shop, I decided to check out the[r]
-second floor as planned.[pcms]
+ミリタリーショップを出たボクは[r]
+順番どおりに２Ｆに行ってみようと思った。[pcms]
 
 *5699|
 [fc]
-Senpai seemed to have another place she wanted to visit, so[r]
-we parted ways at the elevator.[pcms]
+先輩は、他に行きたいところがあるようだったので、[r]
+エレベーターで別れる。[pcms]
 
 ;//●２Ｆ　天狗堂楽器店
 [bg storage="BGS004a"][trans_c cross time=500]
@@ -380,190 +384,192 @@ we parted ways at the elevator.[pcms]
 
 *5700|
 [fc]
-This is "Tengu-do Music Store." A long-established shop[r]
-that's been in business for 50 years, they not only sell[r]
-instruments but also offer repairs.[pcms]
+ここは『天狗堂楽器店』。[r]
+開業５０年を数える老舗で、[r]
+楽器の販売だけじゃなく修理もやっている。[pcms]
 
 *5701|
 [fc]
-A popular guitarist who once visited Japan had his guitar[r]
-repaired here, and his comment on TV before leaving the[r]
-country, "Tengu-do, I love you!" became a trendy phrase that[r]
-year... or so I've heard.[pcms]
+昔、来日した人気ギタリストが、ここでギターを修理し、[r]
+帰国前のＴＶ取材で言った『テングドー、アイシ～テマッス』は[r]
+その年の流行語になった……んだそうだ。[pcms]
 
 *5702|
 [fc]
-Among the store's regular old customers (including my[r]
-father), it seems to be a favored classic joke, but[r]
-honestly, I don't really get the humor...[pcms]
+店の常連オッサン客（ボクの父さんも含まれる）の間では、[r]
+いまだに好まれるクラシック・ジョークらしいが、[r]
+ボクには正直、面白さが判らない……。[pcms]
 
 *5703|
 [fc]
-[ns]Wataru[nse]
-"...Anyway, maybe it's here..."[pcms]
+[ns]航[nse]
+「……それはともかくとして。多分ここに……」[pcms]
 
 *5704|
 [fc]
-The store has a corner for DJs, with turntables and CDJs. I[r]
-guessed Kousuke might be here.[pcms]
+この店にはＤＪ向けに、[r]
+ターンテーブルやＣＤＪを取り扱ってるコーナーがある。[r]
+コースケは、ここじゃないかなと踏んだんだけど。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5705|
 [fc]
-[ns]Kousuke[nse]
-"Hmm, this model, the dial response isn't great. For my[r]
-taste, I'd prefer something more like..."[pcms]
+[ns]浩助[nse]
+「うーん、この機種、[r]
+　ダイヤルの反応がイマイチ悪いんだよな。[r]
+　オレの好みからすっと、もっとこう……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *5706|
 [fc]
 [vo_miz s="mizuki_T0006"]
-[ns]Mizuki[nse]
-"Kousuke, you're pretty particular about that stuff, aren't[r]
-you?"[pcms]
+[ns]瑞樹[nse]
+「コースケ、そうゆうの、けっこう気にするよね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5707|
 [fc]
-[ns]Kousuke[nse]
-"Of course. A DJ has the responsibility to make the floor[r]
-dance with just a flick of their fingers. It's only natural[r]
-to be picky."[pcms]
+[ns]浩助[nse]
+「そらそうよ。[r]
+　ＤＪは指先ひとつでフロアを踊らせる責任があるんだぜ？[r]
+　うるさくもなるってーの」[pcms]
 
 *5708|
 [fc]
-As expected, I found Kousuke and Mizuki at the CDJ corner.[pcms]
+予想どおり、コースケと瑞樹の姿を[r]
+ＣＤＪコーナーで見つけた。[pcms]
 
 *5709|
 [fc]
-Probably Kousuke insisted on coming here, and Mizuki just[r]
-went along with it.[pcms]
+多分、コースケが行きたいって言い張って、[r]
+瑞樹が付き合ったっていうパターンだろうな。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5710|
 [fc]
-[ns]Kousuke[nse]
-"In that regard, this baby is just insane! The high-end[r]
-Frontier model, CDDJ-1000 Mk-V Kai!"[pcms]
+[ns]浩助[nse]
+「その点、こいつなんか、んもうサイコーっ！[r]
+　フロンティアの高級機、[r]
+　ＣＤＤＪ－１０００　Ｍｋ－Ｖ改っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5711|
 [fc]
-[ns]Kousuke[nse]
-"This huge jog wheel carried over from the previous series,[r]
-its ease of use is just unbeatable, you know?"[pcms]
+[ns]浩助[nse]
+「前のシリーズから引き継いでる、このでっかいジョグ、[r]
+　こいつの扱いやすさったら、ぶっちぎりだぜ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5712|
 [fc]
-[ns]Kousuke[nse]
-"And when it comes to tempo and pitch control precision,[r]
-it's beyond enthusiast levelit's almost freakishly[r]
-meticulous..."[pcms]
+[ns]浩助[nse]
+「そんでテンポやピッチコントロールの細かさといったらもう[r]
+　マニア通り越してキチ（ピー）じゃねぇかってくらいで……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *5713|
 [fc]
 [vo_miz s="mizuki_T0007"]
-[ns]Mizuki[nse]
-"You really like it, huh?"[pcms]
+[ns]瑞樹[nse]
+「ホント、気に入ってるんだねー」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5714|
 [fc]
-[ns]Kousuke[nse]
-"Hell yeah!"[pcms]
+[ns]浩助[nse]
+「おうよ！」[pcms]
 
 *5715|
 [fc]
-The way Kousuke's eyes sparkle as he clings to the glass[r]
-case reminds me of a child gazing at a trumpet. It's quite a[r]
-fairy tale scene...[pcms]
+瞳をキラキラ輝かせてガラスケースに張り付くコースケの姿は、[r]
+トランペットを見つめる子供を思い出させる。[r]
+メルヘンだなあ……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5716|
 [fc]
-[ns]Kousuke[nse]
-"So with that said... I'll take this one."[pcms]
+[ns]浩助[nse]
+「ってことで……ここはひとつ」[pcms]
 
 *5717|
 [fc]
-Kousuke clasped his hands together, closed his eyes, and put[r]
-on a serious face.[pcms]
+合掌したコースケは、[r]
+目を閉じてマジメくさった顔つきになる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5718|
 [fc]
-[ns]Kousuke[nse]
-"Tengu-do old man! Forgive me! If you're dead, don't haunt[r]
-me! If you're still alive, I'll pay in installments!"[pcms]
+[ns]浩助[nse]
+「天狗堂のオヤジ！　許せ！[r]
+　もし死んでたら化けて出るな！[r]
+　まだ生きてたら、出世払いで払う！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b9"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *5719|
 [fc]
 [vo_miz s="mizuki_T0008"]
-[ns]Mizuki[nse]
-"Eh? What...?"[pcms]
+[ns]瑞樹[nse]
+「え？　な、何……？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5720|
 [fc]
-[ns]Kousuke[nse]
-"I'm taking it! Come on, help me out here!"[pcms]
+[ns]浩助[nse]
+「持ってくんだよっ！[r]
+　ほら、お前も手伝え！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *5721|
 [fc]
 [vo_miz s="mizuki_T0009"]
-[ns]Mizuki[nse]
-"Eeeeh!? Wait, are you serious?"[pcms]
+[ns]瑞樹[nse]
+「ええええぇっ！？　ちょ、本気なのぉ？」[pcms]
 
 *5722|
 [fc]
-Before I knew it, they were breaking the glass case lock and[r]
-trying to carry out the targeted equipment.[pcms]
+言うやいなや、ガラスケースの鍵を壊して、[r]
+狙いの機材を運び出そうとしている。[pcms]
 
 *5723|
 [fc]
-It kind of reminds me of those young rioters attacking shops[r]
-that I've seen on international news...[pcms]
+なんか……、テレビの海外ニュースで見た、[r]
+商店を襲う暴動を起こした若者みたいだ……。[pcms]
 
 *5724|
 [fc]
-[ns]Wataru[nse]
-"Well... it's fine."[pcms]
+[ns]航[nse]
+「ま……いっか」[pcms]
 
 *5725|
 [fc]
-It's not like taking out the equipment will inconvenience[r]
-anyone. More than that, I'm glad to see Kousuke and Mizuki[r]
-getting along well.[pcms]
+機材を持ち出したって誰に迷惑かけるわけでもないだろうし。[r]
+それより、コースケと瑞樹が仲良くしてるのが嬉しい。[pcms]
 
 *5726|
 [fc]
-They seemed to be in good spirits this morning too, but it[r]
-looks like they really did make up.[pcms]
+午前中もそんな雰囲気ではあったけど、[r]
+どうやらホントに仲直りできたみたいだな。[pcms]
 
 ;//黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5727|
 [fc]
-Not wanting to interrupt their moment, I decided not to call[r]
-out to them and headed towards the first floor instead.[pcms]
+二人の邪魔をするのも悪いので、[r]
+ボクは声をかけないまま、１Ｆに向かった。[pcms]
 
 ;//→block:A010
 
@@ -577,46 +583,46 @@ out to them and headed towards the first floor instead.[pcms]
 
 *5728|
 [fc]
-I've arrived at the spacious first-floor hall.[pcms]
+広々とした１Ｆホールに到着だ。[pcms]
 
 *5729|
 [fc]
-Since there aren't any particular shops to look around here,[r]
-I head towards the entrance of the game center "CONTINUE" on[r]
-the first floor.[pcms]
+ここには特に見て回るようなお店もないので[r]
+ゲームセンター『ＣＯＮＴＩＮＵＥ』の[r]
+１Ｆ入り口に向かおうとした。[pcms]
 
 *5730|
 [fc]
-But then I stop in my tracks when I spot Maruko-senpai at[r]
-"Stay Back Coffee" across the hall.[pcms]
+だけど、ホールの反対側にある『ステイバックコーヒー』に[r]
+マル子先輩の姿を見つけて立ち止まる。[pcms]
 
 *5731|
 [fc]
-[ns]Wataru[nse]
-"...Ah, Maruko-senpai."[pcms]
+[ns]航[nse]
+「……あ、マル子先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5732|
 [fc]
 [vo_mar s="maru_T0024"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 ;//＠まだ遠くにいるので、音声なしでかまいません
 
 *5733|
 [fc]
-Senpai seems to be bustling about inside the counter for[r]
-some reason.[pcms]
+先輩は何だか店のカウンターの中で、[r]
+バタバタ動き回っているようだった。[pcms]
 
 *5734|
 [fc]
-[ns]Wataru[nse]
-"What is she doing...?"[pcms]
+[ns]航[nse]
+「何してるんだろ……？」[pcms]
 
 *5735|
 [fc]
-I quietly approach the front of the shop.[pcms]
+ボクはそっと店の前に近付いていく。[pcms]
 
 [bg storage="BG023"][trans_c cross time=500]
 ;[eval exp="f.l_map = 7"]
@@ -626,18 +632,18 @@ I quietly approach the front of the shop.[pcms]
 *5736|
 [fc]
 [vo_mar s="maru_T0025"]
-[ns]Margarita[nse]
-"...Damn it! Why won't it move! Move, you! I followed the[r]
-instructions exactly!"[pcms]
+[ns]マルガリータ[nse]
+「……くそっ！　なぜ動かない！[r]
+　動け、このっ！　説明書どおりに操作しただろう！？」[pcms]
 
 *5737|
 [fc]
-Suddenly, a shout comes flying out.[pcms]
+いきなり罵声が飛んできた。[pcms]
 
 *5738|
 [fc]
-Peeking in, it seems like she's fiddling with the coffee[r]
-maker...[pcms]
+そっと覗いてみると、どうやら[r]
+コーヒーメーカーをいじっているようだけど……。[pcms]
 
 [se buf=0 storage="se070"]
 [wait time=500]
@@ -645,44 +651,45 @@ maker...[pcms]
 
 *5739|
 [fc]
-From inside the shop, sounds like "whoosh!" and "splash!"[r]
-can be heardnoises that don't seem at all related to brewing[r]
-coffee... Ah, that "thud!" must be senpai's kick.[pcms]
+店の中からは『ぶしゅー！』とか『びしゃっ！』とか、[r]
+とてもコーヒーを煎れてるとは思えない音が聞こえてくる。[r]
+……あ、今の『どかっ！』は先輩の蹴りかな。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d13"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5740|
 [fc]
 [vo_mar s="maru_T0026"]
-[ns]Margarita[nse]
-"Please work for me, I beg you! If I can't even brew coffee[r]
-properly, my reputation will be at stake...!"[pcms]
+[ns]マルガリータ[nse]
+「動いてくれ、頼む！[r]
+　せめて、コーヒーくらい淹れられるようにならないと[r]
+　ワタシのメンツというものが……っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d15"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5741|
 [fc]
 [vo_mar s="maru_T0027"]
-[ns]Margarita[nse]
-"I can't keep hiding forever that I'm completely incapable[r]
-of cooking anything other than field rations!"[pcms]
+[ns]マルガリータ[nse]
+「野戦食以外の料理が全くできないなんて、[r]
+　いつまでも隠し通せることでは、ないからなっ！」[pcms]
 
 *5742|
 [fc]
-...I'm sorry. The door was open so I heard everything.[pcms]
+……ごめんなさい。[r]
+ドアが開いてたから丸聞こえでした。[pcms]
 
 *5743|
 [fc]
-To avoid disturbing her secret training session, I quietly[r]
-return to the hall.[pcms]
+秘密の特訓を邪魔しないように、ボクはそーっとホールに戻る。[pcms]
 
 [bg storage="BG08e"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
 
 *5744|
 [fc]
-[ns]Wataru[nse]
-"Now then..."[pcms]
+[ns]航[nse]
+「さて……と」[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -700,61 +707,59 @@ return to the hall.[pcms]
 
 *5745|
 [fc]
-Since there's also an emergency exit to the outside on the[r]
-first floor, I decided to check it just in case.[pcms]
+１Ｆにも屋外非常階段への出入り口があったので、[r]
+念のために確認してみることにした。[pcms]
 
 *5746|
 [fc]
-...As expected, it's locked.[pcms]
+……やっぱり鍵がかかってる。[pcms]
 
 *5747|
 [fc]
-Because it's an emergency staircase common to all floors, it[r]
-seems like it would be useful in case of an emergency...[pcms]
+全フロア共通の場所にある非常階段だから、[r]
+何かの時には役に立ちそうなんだけどな……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5748|
 [fc]
-When I return to the center of the floor, I see Maruko-[r]
-senpai standing there with a sullen look on her face.[pcms]
+フロア中央に戻ってくると、[r]
+マルコ先輩が憮然とした顔でたっていた。[pcms]
 
 *5749|
 [fc]
-She must have failed at brewing the coffee...[pcms]
+きっとコーヒーが淹れられなかったんだな……。[pcms]
 
 *5750|
 [fc]
-[ns]Wataru[nse]
-"Senpai, I checked just in case, but..."[pcms]
+[ns]航[nse]
+「先輩。一応、調べてみたんですけど……」[pcms]
 
 *5751|
 [fc]
-I reported about the emergency staircase to senpai.[pcms]
+ボクは非常階段の話を先輩に報告した。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5752|
 [fc]
 [vo_mar s="maru_T0028"]
-[ns]Margarita[nse]
-"I see, I'll look for the key later. There should be a spare[r]
-in the office of each floor's store for emergencies."[pcms]
+[ns]マルガリータ[nse]
+「そうか、後で鍵を探しておこう。[r]
+　非常用なら、各階店舗の事務所にスペアが置いてあるはずだ」[pcms]
 
 *5753|
 [fc]
-Having told senpai, I feel as though I've fulfilled some[r]
-kind of duty.[pcms]
+先輩に伝えたことで、なんとなく義務を果たした気分になる。[pcms]
 
 *5754|
 [fc]
-[ns]Wataru[nse]
-"Well then, I'm going to go play for a bit."[pcms]
+[ns]航[nse]
+「じゃ、ボク、ちょっと遊んできます」[pcms]
 
 *5755|
 [fc]
-I parted ways with Maruko-senpai again and headed towards[r]
-the B1 floor.[pcms]
+再びマル子先輩と別れて、ボクはＢ１フロアに向かった。[pcms]
 
 ;//→block:A011
 [jump storage="T10060.ks" target=*T10060_05]
@@ -765,12 +770,12 @@ the B1 floor.[pcms]
 
 *5756|
 [fc]
-[ns]Wataru[nse]
-"...Maybe I'll play some games."[pcms]
+[ns]航[nse]
+「……ゲームでもしようかな」[pcms]
 
 *5757|
 [fc]
-I headed towards the game center in the basement.[pcms]
+ボクは地下のゲームセンターへと向かった。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -781,149 +786,147 @@ I headed towards the game center in the basement.[pcms]
 ;//block:A011
 *T10060_05
 
-;//●Ｂ１：ＣＯＮＴＩＮＵＥ（こんてぃにゅー）＆ＢＣｏｓ（びー・こす）
+;//●Ｂ１：ＣＯＮＴＩＮＵＥ（こんてぃにゅー）＆Ｂ－Ｃｏｓ（びー・こす）
 [bg storage="BGS005a"][trans_c cross time=500]
 ;[eval exp="f.l_map = 17"]
 
 *5758|
 [fc]
-"CONTINUE" on basement 1F is an amusement facility operated[r]
-by the game maker Nameko.[pcms]
+地下１Ｆの『ＣＯＮＴＩＮＵＥ』は、ゲームメーカーの[r]
+ナメコが運営するアミューズメント施設だ。[pcms]
 
 *5759|
 [fc]
-Not only video game cabinets but also cleverly designed[r]
-maniacal analog game cabinets are available.[pcms]
+ビデオゲーム筐体はもとより、[r]
+気の利いたマニアックなアナログゲーム筐体も置いてある。[pcms]
 
 *5760|
 [fc]
-In addition, there's a stage in the hall area where events[r]
-are sometimes held. (During the event for the popular game[r]
-"Idol Breeder," otaku even overflowed into the 1F hall).[pcms]
+それに、ホール部分にはステージもあって、イベントが催される[r]
+こともある。（人気ゲーム『アイドル・ブリーダー』のイベントの[r]
+時には、１Ｆホールにまでヲタがあふれたそうだ）。[pcms]
 
 *5761|
 [fc]
-It's a bit more stylish than your typical game center, and[r]
-it seems it was even used as a filming location for the[r]
-silly French action movie "KARASHI".[pcms]
+いわゆるゲーセンって場所よりも少しオシャレで、[r]
+しょうもないフランス製アクション映画『ＫＡＲＡＳＨＩ』の[r]
+ロケ地になったこともある……らしい。[pcms]
 
 *5762|
 [fc]
-I'm not that much of a maniac, just a casual gamer who plays[r]
-fighting games when I have some free time...[pcms]
+ボクなんかはそれほどマニアってわけじゃなくて[r]
+暇な時に格ゲーなんかをちょこちょこやる程度の[r]
+お気楽ゲーマーだけど……。[pcms]
 
 *5763|
 [fc]
-Well, playing a bit seems like it would be a good[r]
-distraction.[pcms]
+ま、ちょこっと遊ぶのも、いい気晴らしにはなりそうだ。[pcms]
 
 *5764|
 [fc]
-I was thinking that, but...[pcms]
+そう思っていたんだけど……。[pcms]
 
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
 [bg storage="BGS005a"][trans_c cross time=500]
 
 *5765|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *5766|
 [fc]
-Seeing the blood splattered on the walls and floor, my mood[r]
-instantly deflated.[pcms]
+壁や床に飛び散った血の跡を見て、[r]
+一気に気分が萎えてしまった。[pcms]
 
 *5767|
 [fc]
-Among these stains is also the blood from those I killed...[r]
-No matter if they were infected, it was my first time[r]
-killing someone. The unpleasant sensation of crushing bones[r]
-comes back to me.[pcms]
+この染みの中には、ボクが殺した分もある……。[r]
+いくら感染者とはいっても、初めて人を殺したわけで……。[r]
+てのひらに、骨の砕ける嫌な感触が思い出された。[pcms]
 
 *5768|
 [fc]
-[ns]Wataru[nse]
-"...That's why I hated using a bat..."[pcms]
+[ns]航[nse]
+「……だからバットなんかイヤだったのに……」[pcms]
 
 *5769|
 [fc]
-Bludgeoning is too direct and primitive a form of violence.[r]
-You can physically feel that you've killed someone. If only[r]
-I had shot them with a gun, it might have been different.[pcms]
+撲殺なんて、あまりにも直接で原始的な暴力だ。[r]
+自分が殺したんだっていうことが、身体で分かってしまう。[r]
+せめて銃で撃ったなら、もう少し違ったかもしれないのに。[pcms]
 
 *5770|
 [fc]
-Jin-san said that sometimes you have to kill to survive, and[r]
-I understand that, but... still...[pcms]
+自分が生きるためには殺すしかないこともあるって、[r]
+壬さんは言ってたし、それは分かるけど……、でも……。[pcms]
 
 *5771|
 [fc]
-I find myself resenting Jin-san a little.[pcms]
+ボクは少しだけ壬さんを恨んでしまう。[pcms]
 
 *5772|
 [fc]
-Or maybe... it's better not to be so detached. Becoming numb[r]
-to killing people is wrong... right?[pcms]
+それとも……。割り切れない方がいいのかな。[r]
+人を殺すことに無感覚になる方が、おかしい……よな？[pcms]
 
 *5773|
 [fc]
-But in this situation, if I'm too soft, I won't survive...[r]
-It's not just about me; I have to protect Yuuho and Ren as[r]
-well...[pcms]
+だけど、この状況で[r]
+そんな甘いこと言ってたら生き残れなくなるし……。[r]
+ボクだけじゃない、悠帆や漣を守るためにも……。[pcms]
 
 *5774|
 [fc]
-I remind myself of Tadahiko's words.[pcms]
+ボクは彦ちんの言葉を、自分に言い聞かせる。[pcms]
 
 *5775|
 [fc]
-Pull yourself together, Wataru... Yes... I need to stay[r]
-strong...[pcms]
+気合い入れろよ、航……。[r]
+そう……気合い入れなきゃ……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_i1"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
 *5776|
 [fc]
 [vo_yuh s="yuho_T0013"]
-[ns]Yuuho[nse]
-"Aaahhh, Ren-chan, you're so cute~"[pcms]
+[ns]悠帆[nse]
+「やああぁん、漣ちゃん、可愛い～っ」[pcms]
 
 *5777|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「へ？」[pcms]
 
 *5778|
 [fc]
-Suddenly, I hear Yuuho's high-pitched voice, an octave[r]
-higher than usual, pulling my sinking thoughts back to[r]
-reality.[pcms]
+突然、普段より１オクターブ高い[r]
+悠帆の黄色い声が聞こえてきて、[r]
+ずぶずぶ沈みかけていたボクの思考を引き戻す。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5779|
 [fc]
 [vo_ren s="ren_T0010"]
-[ns]Ren[nse]
-"Yuuho-chan, you look amazing too~"[pcms]
+[ns]漣[nse]
+「悠帆ちゃんこそ～、すっごく似合ってるよ？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_i6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
 *5780|
 [fc]
 [vo_yuh s="yuho_T0014"]
-[ns]Yuuho[nse]
-"Hey hey, Ren-chan, why don't you try this on next?"[pcms]
+[ns]悠帆[nse]
+「ねぇねぇ、漣ちゃん、次はこれ、着てみない？」[pcms]
 
 *5781|
 [fc]
-They seem to be having a lot of fun...[pcms]
+なんだかやけに楽しそうだけど……。[pcms]
 
 *5782|
 [fc]
-I head towards the back of the floor where the voices are[r]
-coming from.[pcms]
+ボクは声の聞こえてくる、フロアの奥の方へと向かう。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -932,354 +935,352 @@ coming from.[pcms]
 
 *5783|
 [fc]
-[ns]Wataru[nse]
-"Ah, so you were here."[pcms]
+[ns]航[nse]
+「あ、こっちにいたのか」[pcms]
 
 *5784|
 [fc]
-"B-Cos" in one corner of CONTINUE's floor is a specialty[r]
-store for cosplay items.[pcms]
+『ＣＯＮＴＩＮＵＥ』のフロアの一画にある『Ｂ－Ｃｏｓ』は[r]
+コスプレ用品の専門店だ。[pcms]
 
 *5785|
 [fc]
-Maid outfits and nurse costumes are of course available, but[r]
-due to its location, there's also a wide selection of Nameko[r]
-character costumes.[pcms]
+メイド服とかナース服みたいな、普通（？）の衣装も[r]
+もちろん取り揃えられているけれど、[r]
+場所柄、ナメコキャラの品揃えが豊富だと聞いたことがある。[pcms]
 
 *5786|
 [fc]
-[ns]Wataru[nse]
-"Both of you, what are you doing... Eeehh!?"[pcms]
+[ns]航[nse]
+「二人とも、何して…………えぇぇっ！？」[pcms]
 
 *5787|
 [fc]
-I was left with my mouth agape.[pcms]
+ボクは口をあんぐり開いてしまった。[pcms]
 
 [ChrSetEx layer=4 chbase="yuho_i5"][ChrSetXY layer=4 x=349 y=0]
 [ChrSetEx layer=3 chbase="ren_h1"][ChrSetXY layer=3 x=-53 y=0][trans_c cross time=150]
 
 *5788|
 [fc]
-For some reason, Yuuho was dressed in gym clothes and[r]
-bloomers, and Ren was dressed as a shrine maiden.[pcms]
+なぜか悠帆は体操服にブルマ姿だったし、[r]
+漣は巫女さんになっている。[pcms]
 
 [ChrSetEx layer=4 chbase="yuho_i6"][ChrSetXY layer=4 x=349 y=0][trans_c cross time=150]
 
 *5789|
 [fc]
 [vo_yuh s="yuho_T0015"]
-[ns]Yuuho[nse]
-"Ehehe~, do I look good?"[pcms]
+[ns]悠帆[nse]
+「えへへ～、似合う？？」[pcms]
 
 [ChrSetEx layer=3 chbase="ren_h8"][ChrSetXY layer=3 x=-53 y=0][trans_c cross time=150]
 
 *5790|
 [fc]
 [vo_ren s="ren_T0011"]
-[ns]Ren[nse]
-"With all due respect~"[pcms]
+[ns]漣[nse]
+「かしこみかしこみ～」[pcms]
 
 *5791|
 [fc]
-[ns]Wataru[nse]
-"Uh, yeah... You look good?"[pcms]
+[ns]航[nse]
+「う、うん……似合うよ？」[pcms]
 
 *5792|
 [fc]
-It's not just about looking good; Yuuho was kind of erotic.[r]
-The bloomers fit perfectly, emphasizing her plump big[r]
-butt... and there's a panty peek...[pcms]
+似合うっていうか、悠帆はちょっとエロかった。[r]
+ブルマのサイズがぴったりで、むちむちの大きいお尻が[r]
+ばっちり強調されてるし……はみパンしてるし……。[pcms]
 
 *5793|
 [fc]
-Ren looked like a doll and was adorably cute. It made me[r]
-want to hug her a little.[pcms]
+漣は何だか、お人形さんみたいで可愛らしい。[r]
+ちょっと抱っこなんかしてみたくなる。[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="yuho_i6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
 *5794|
 [fc]
 [vo_yuh s="yuho_T0016"]
-[ns]Yuuho[nse]
-"This is my first time wearing bloomers, but they're easier[r]
-to move in than shorts and seem like they'd help improve[r]
-records~"[pcms]
+[ns]悠帆[nse]
+「ブルマって初めて着てみたけど[r]
+　ショートパンツより動きやすいし、記録とか出やすそう～」[pcms]
 
 *5795|
 [fc]
-While saying that, Yuuho twisted her body and lifted her[r]
-legs to check how easy it was to move.[pcms]
+とか言いながら悠帆は身体をひねったり足を上げたりして[r]
+動きやすさを確認している。[pcms]
 
 *5796|
 [fc]
-You know... doing that just makes the bloomers dig in more[r]
-and doubles the eroticism...[pcms]
+あの……、そんなことすると、[r]
+よけいにブルマが食い込んでエロさが倍増なんですけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_h2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5797|
 [fc]
 [vo_ren s="ren_T0012"]
-[ns]Ren[nse]
-"By the way, girls in track and field wear uniforms that[r]
-look like bloomers, right? They must be able to run faster[r]
-in them."[pcms]
+[ns]漣[nse]
+「そういえば、女子の陸上とかのユニフォームも[r]
+　ブルマっぽい格好だよね？[r]
+　きっと速く走れるんだろうね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_i6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
 *5798|
 [fc]
 [vo_yuh s="yuho_T0017"]
-[ns]Yuuho[nse]
-"My mom used to wear this kind of outfit in her old albums[r]
-too. I wonder why they disappeared?"[pcms]
+[ns]悠帆[nse]
+「うちのお母さんも、昔のアルバムだとこの格好だよ？[r]
+　なんでなくなっちゃったんだろうね？」[pcms]
 
 *5799|
 [fc]
-Because they're erotic...[pcms]
+エロいからです……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_h8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5800|
 [fc]
 [vo_ren s="ren_T0013"]
-[ns]Ren[nse]
-"Big brother, is it okay if I keep wearing this for a[r]
-while?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん、これ、しばらく着ててもいいかなあ？」[pcms]
 
 *5801|
 [fc]
-Ren is flapping the sleeves and smiling happily.[pcms]
+漣は袖を持ってぱたぱた振りながら、嬉しそうに笑ってる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_h8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5802|
 [fc]
 [vo_ren s="ren_T0014"]
-[ns]Ren[nse]
-"It's actually quite cool, you know? During summer, this[r]
-might be better than a uniform~"[pcms]
+[ns]漣[nse]
+「けっこう涼しいんだよ？[r]
+　夏の間は、制服よりこっちのほうがいいかも～？」[pcms]
 
 *5803|
 [fc]
-[ns]Wataru[nse]
-"No, I think you should avoid it... It's dangerous if you[r]
-step on the hem or something."[pcms]
+[ns]航[nse]
+「い、いや、スソとか踏んだら危ないから[r]
+　やめといたほうがいい……と思うよ？」[pcms]
 
 *5804|
 [fc]
-I'm sorry. I just lied. The truth is, it's too cute and it's[r]
-dangerous to show it to other men...[pcms]
+ごめん。今、嘘をつきました。[r]
+ほんとは可愛すぎて、他の男に見せると危ないからです……。[pcms]
 
 *5805|
 [fc]
-The two of them were having fun, which made me forget about[r]
-my gloomy mood until just now. I really am simple-minded...[pcms]
+楽しそうに盛り上がる二人とは別の意味で[r]
+ボクもさっきまでの憂鬱な気分が失せてしまった。[r]
+つくづく単純だな、ボクって……。[pcms]
 
 *5806|
 [fc]
-And then, Maruko-senpai showed her face from the side[r]
-entrance.[pcms]
+と、そこに脇の出入り口からマル子先輩が顔を見せた。[pcms]
 
 *5807|
 [fc]
-[ns]Wataru[nse]
-"Ah, Senpai"[pcms]
+[ns]航[nse]
+「あ、先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5808|
 [fc]
 [vo_mar s="maru_T0029"]
-[ns]Margarita[nse]
-"...I've been around 'Manga Darake' on the second basement[r]
-floor. There were stairs that lead directly to the ground[r]
-floor on both the first and second basements."[pcms]
+[ns]マルガリータ[nse]
+「……地下２階の『マンガダラケ』を回ってきた。[r]
+　地下１階と地下２階には[r]
+　地上に直接出られる階段があったんだな」[pcms]
 
 *5809|
 [fc]
-[ns]Wataru[nse]
-"...Ah!"[pcms]
+[ns]航[nse]
+「…………あっ！」[pcms]
 
 *5810|
 [fc]
-Speaking of which, there is a direct entrance to 'Manga[r]
-Darake' on the Inokashira street side.[pcms]
+そういえば、井の頭通り側には[r]
+『マンガダラケ』直通の出入り口があるんだ。[pcms]
 
 *5811|
 [fc]
-This is bad, I had forgotten about it until now...! What if[r]
-the door was open...!?[pcms]
+まずい、今まで忘れてた……っ！！[r]
+もし、ドアが開いてたりしたら……！？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5812|
 [fc]
 [vo_mar s="maru_T0030"]
-[ns]Margarita[nse]
-"I panicked when I realized the oversight, but the ground[r]
-exit door was behind a shutter and it was properly closed,[r]
-so it's fine..."[pcms]
+[ns]マルガリータ[nse]
+「見落としに気づいた時は焦ったが、[r]
+　地上出口のドアはシャッターの内側だったし、[r]
+　ちゃんと閉まっていたから大丈夫だ……」[pcms]
 
 *5813|
 [fc]
-Senpai nodded as if to say "it's okay" to me, who was[r]
-turning pale, and then finally turned her eyes to the inside[r]
-of the store.[pcms]
+青くなるボクに、先輩は『大丈夫』というようにうなずいてみせ、[r]
+それからようやく、店の中に目を転じた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5814|
 [fc]
 [vo_mar s="maru_T0031"]
-[ns]Margarita[nse]
-"...!?"[pcms]
+[ns]マルガリータ[nse]
+「……っ！？」[pcms]
 ;//＠漣に気づく
 
 *5815|
 [fc]
-Suddenly, Senpai's eyes went round as she staggered towards[r]
-Ren.[pcms]
+突然、目を丸くした先輩が、漣に向かってよろよろと近付く。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5816|
 [fc]
 [vo_mar s="maru_T0032"]
-[ns]Margarita[nse]
-"Th-this is... Japanese Traditional Shaman Suit! So... so[r]
-cute...!"[pcms]
+[ns]マルガリータ[nse]
+「こっ、これは……、[r]
+　ジャパニーズ・トラディショナル・シャーマンスーツ！[r]
+　かっ、か……可愛い…………！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_h8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5817|
 [fc]
 [vo_ren s="ren_T0015"]
-[ns]Ren[nse]
-"Ehehehe~ Thank you very much-"[pcms]
+[ns]漣[nse]
+「えへへへ～、ありがとうございますー」[pcms]
 
 *5818|
 [fc]
-For Senpai, who is interested in Japanese history, the[r]
-shrine maiden outfit must have been a dream. Although it's[r]
-just for cosplay and not the real thing...[pcms]
+日本の歴史とかに興味のある先輩にしてみたら[r]
+巫女さん姿は、憧れだったみたいだ。[r]
+もっともコスプレ用だからホンモノじゃないけれど……。[pcms]
 
 *5819|
 [fc]
-Ren also blushed happily from being praised.[pcms]
+漣も褒められて、嬉しそうにはにかんでいる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5820|
 [fc]
 [vo_mar s="maru_T0033"]
-[ns]Margarita[nse]
-"But, why are both of you dressed like that?"[pcms]
+[ns]マルガリータ[nse]
+「し、しかし、一体どういうわけで二人とも[r]
+　そのような格好を？」[pcms]
 
 *5821|
 [fc]
-[ns]Wataru[nse]
-"Well, that's because"[pcms]
+[ns]航[nse]
+「それはですね」[pcms]
 
 *5822|
 [fc]
-I explained to Senpai about costume play, which is part of[r]
-Japan's proud otaku culture.[pcms]
+ボクは先輩のために、日本の誇るヲタ文化の一環であるところの[r]
+コスチュームプレイについて解説する。[pcms]
 
 *5823|
 [fc]
-[ns]Wataru[nse]
-"...and that's why, in this store, you can enjoy a little[r]
-bit of transformation fun."[pcms]
+[ns]航[nse]
+「……というわけで、この店では[r]
+　ちょっとした変身ごっこを楽しめるんですよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5824|
 [fc]
 [vo_mar s="maru_T0034"]
-[ns]Margarita[nse]
-"I see... enjoying disguises. Japan has some interesting[r]
-shops..."[pcms]
+[ns]マルガリータ[nse]
+「な……なるほど、変装を楽しむわけか。[r]
+　日本には興味深いショップがあるのだな……」[pcms]
 
 *5825|
 [fc]
-Yuuho eagerly pulled on Senpai's arm, impressed by the idea.[pcms]
+妙に感心する先輩の腕を、悠帆がぐいぐい引っ張った。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_i6"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
 *5826|
 [fc]
 [vo_yuh s="yuho_T0018"]
-[ns]Yuuho[nse]
-"Senpai, you should try it too! With your style, a lot of[r]
-things would suit you~!"[pcms]
+[ns]悠帆[nse]
+「先輩も試しましょうよ！[r]
+　スタイルいいから、いろいろ似合いそう～っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_h8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5827|
 [fc]
 [vo_ren s="ren_T0016"]
-[ns]Ren[nse]
-"I'd like to see you in a Bunny-san outfit-"[pcms]
+[ns]漣[nse]
+「バニーさんとか、着てみてほしいですー」[pcms]
 
 *5828|
 [fc]
-Bunny-san, huh? That would probably look incredibly good on[r]
-Senpai...[pcms]
+バニーさんですか、そーですか。[r]
+先輩ならきっとメチャクチャ似あいそうですね……。[pcms]
 
 *5829|
 [fc]
-As I waited with a smile, Yuuho suddenly turned around.[pcms]
+ニコニコしながら待っていると、不意に悠帆が振り返った。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_i4"][ChrSetXY layer=5 x=143 y=0][trans_c cross time=150]
 
 *5830|
 [fc]
 [vo_yuh s="yuho_T0019"]
-[ns]Yuuho[nse]
-"...How long do you plan to stay? And don't look, okay?"[pcms]
+[ns]悠帆[nse]
+「…………いつまでいるつもり？[r]
+　っていうか、見るなよ？」[pcms]
 
 *5831|
 [fc]
-[ns]Wataru[nse]
-"...I'm very sorry."[pcms]
+[ns]航[nse]
+「…………スミマセンデシタ」[pcms]
 
 *5832|
 [fc]
-Tsk tsk, no viewing allowed, huh...[pcms]
+とほほ、見学禁止かぁ……。[pcms]
 
 *5833|
 [fc]
-...Can't be helped. Let's go somewhere else...[pcms]
+…………仕方ない。[r]
+どっか他のところに行こう……。[pcms]
 
 ;//黒画面または１Ｆ
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5834|
 [fc]
-I was chased out by the girls and started thinking about[r]
-where to go next. I've already seen most of the floors[r]
-though...[pcms]
+女の子たちに追い出されてしまったボクは、[r]
+どこに行こうかと考える。[r]
+もうだいたいのフロアは見物してしまったけど……。[pcms]
 
 *5835|
 [fc]
-[ns]Wataru[nse]
-"...Ah, that's right"[pcms]
+[ns]航[nse]
+「……あ、そうだ」[pcms]
 
 *5836|
 [fc]
-I decided to visit the rooftop that I missed out on last[r]
-night. It should be quiet on the main street in the morning,[r]
-so there's no worry about getting my mood ruined by the[r]
-voices of the infected.[pcms]
+昨夜、行きそびれた屋上に行ってみよう。[r]
+午前中の様子なら、表の通りも静かだろうから[r]
+感染者の声で気分が壊れる心配もない。[pcms]
 
 [bg storage="BG120"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
 
 *5837|
 [fc]
-I got into the elevator and pressed the button for the 7th[r]
-floor.[pcms]
+ボクはエレベーターに乗り込むと７Ｆのボタンを押した。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1296,45 +1297,44 @@ floor.[pcms]
 
 *5838|
 [fc]
-[ns]Wataru[nse]
-"...Arrived..."[pcms]
+[ns]航[nse]
+「……到着……っと」[pcms]
 
 *5839|
 [fc]
-To get to my favorite signboard, I need to go around through[r]
-the DJ Bar's backyard.[pcms]
+お気に入りの看板に行くには、[r]
+ＤＪバーのバックヤードから回ればいい。[pcms]
 
 *5840|
 [fc]
-As I was about to cross the main dome, I suddenly heard[r]
-someone's voice.[pcms]
+メインドームを横切ろうとしたボクは[r]
+ふと誰かの声に気がついた。[pcms]
 
 *5841|
 [fc]
-It was a low male voice... It sounded like Shigeyoshi,[r]
-but...[pcms]
+低い男の声だ……。[r]
+よく聞くと、重吉みたいだけど……。[pcms]
 
 *5842|
 [fc]
-The voice seemed to be coming from the kitchen area. But who[r]
-could he be talking to...?[pcms]
+声はキッチンの方から聞こえてくるようだ。[r]
+でも、誰と話してるんだろう……？[pcms]
 
 ;//---------------------------------------------------------------
-;//選択肢Ａ３
-;//３１：聞きに行く→block:T10070
-;//３２：放っておく→block:T10080
+;//選択肢Ａ－３
+;//３－１：聞きに行く→block:T10070
+;//３－２：放っておく→block:T10080
 
 
 ;	[link storage="T10070.ks" target=*T10070_TOP]聞きに行く[endlink]
-(link storage="T10080.ks" target=*T10080_TOP)Ignore[r]
-it(endlink)[pcms]
+;	[link storage="T10080.ks" target=*T10080_TOP]放っておく[endlink][s]
 
 *SEL67|聞きに行く／放っておく
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Go ask'"]
-[eval exp="f.seltext04 = 'Leave it be'"]
+[eval exp="f.seltext02 = '聞きに行く'"]
+[eval exp="f.seltext04 = '放っておく'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

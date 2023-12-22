@@ -18,60 +18,61 @@
 
 *1638|
 [fc]
-[ns]Wataru[nse]
-"But if there's someone who really wants to move, we could[r]
-split into two groups..."[pcms]
+[ns]航[nse]
+「だけどもし、どうしても移動したい人がいるなら[r]
+　二手に分かれることも、できるけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1639|
 [fc]
-[ns]Kousuke[nse]
-"...might be okay..."[pcms]
+[ns]浩助[nse]
+「……ってもよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1640|
 [fc]
-[ns]Kousuke[nse]
-"If we split up, I'd be worried about that side too, and[r]
-maybe... their parents might be there as well. And..."[pcms]
+[ns]浩助[nse]
+「分かれたら分かれたで、そっちも心配だし、[r]
+　もしかすっと……親もいるかもしんねーし。[r]
+　それに……」[pcms]
 
 *1641|
 [fc]
-Kousuke's gaze flickered for a moment.[pcms]
+コースケの視線がチラッと動いた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1642|
 [fc]
-[ns]Kousuke[nse]
-"...Mizuki, you're staying, right?"[pcms]
+[ns]浩助[nse]
+「……瑞樹、お前、残んだろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1643|
 [fc]
 [vo_miz s="mizuki0283"]
-[ns]Mizuki[nse]
-"Eh?"[pcms]
+[ns]瑞樹[nse]
+「えっ？」[pcms]
 ;//＠急にふられて反応できない
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1644|
 [fc]
-[ns]Kousuke[nse]
-"I'm the one who will protect Mizuki. So... I'm staying[r]
-too!"[pcms]
+[ns]浩助[nse]
+「瑞樹を守るのは、オレだ。[r]
+　だから…………オレも残る！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1645|
 [fc]
 [vo_miz s="mizuki0284"]
-[ns]Mizuki[nse]
-"Wha..."[pcms]
+[ns]瑞樹[nse]
+「なっ…………」[pcms]
 ;//＠リアクションの言葉が出ない瑞樹
 
 ;//キャラ消し
@@ -79,90 +80,89 @@ too!"[pcms]
 
 *1646|
 [fc]
-Caught off guard by his sudden declaration, Mizuki was at a[r]
-loss for words and her cheeks turned red.[pcms]
+急な言葉に、瑞樹は何も言えなくなって[r]
+ただ頬を赤くした。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1647|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hmph..."[pcms]
+[ns]重吉[nse]
+「ふんっ……」[pcms]
 
 *1648|
 [fc]
-Shigeyoshi snorted, seemingly unamused.[pcms]
+面白くもなさそうに重吉は鼻を鳴らす。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1649|
 [fc]
 [vo_mar s="maru1483"]
-[ns]Margarita[nse]
-"...I can't agree with splitting our forces either."[pcms]
+[ns]マルガリータ[nse]
+「……人員を分けることには、ワタシも賛成できない」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1650|
 [fc]
 [vo_yuh s="yuho1533"]
-[ns]Yuuho[nse]
-"So that means?"[pcms]
+[ns]悠帆[nse]
+「ってゆーことは？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1651|
 [fc]
-[ns]Jin[nse]
-"...it's decided then."[pcms]
+[ns]壬[nse]
+「……決まりだな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1652|
 [fc]
 [vo_mar s="maru1484"]
-[ns]Margarita[nse]
-"Yes. Let's all barricade ourselves in this building."[pcms]
+[ns]マルガリータ[nse]
+「ああ。全員で、このビルに立てこもろう」[pcms]
 
 *1653|
 [fc]
-And so, the decision to 'barricade with everyone' was[r]
-finally made.[pcms]
+こうしてようやく「全員で篭城する」という方針が決定した。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1654|
 [fc]
 [vo_mar s="maru1485"]
-[ns]Margarita[nse]
-"If that's the case, first... I have a suggestion."[pcms]
+[ns]マルガリータ[nse]
+「そうとなれば、まず……提案したいことがある」[pcms]
 
 *1655|
 [fc]
 [vo_mar s="maru1486"]
-[ns]Margarita[nse]
-"We have no idea how long we'll need to wait for rescue. If[r]
-we consider a long- term siege, the first thing we should[r]
-think about is securing the safety of this place."[pcms]
+[ns]マルガリータ[nse]
+「救助までの期間がどのくらいになるか予想もつかない。[r]
+　長期間の篭城まで視野にいれれば、[r]
+　真っ先に考えるべきは、ここの安全を確保することだ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1656|
 [fc]
-[ns]Kousuke[nse]
-"Indeed."[pcms]
+[ns]浩助[nse]
+「確かにな」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1657|
 [fc]
 [vo_yuh s="yuho1534"]
-[ns]Yuuho[nse]
-"I agree."[pcms]
+[ns]悠帆[nse]
+「さんせーい」[pcms]
 
 *1658|
 [fc]
-Of course, no one was going to object.[pcms]
+もちろん誰も反対するはずなどなかった。[pcms]
 
 ;//・航、マスターとママも、あのままだと可哀相と発言。
 ;//そこから悠帆と漣、二人の死を知ってショックのリアクション。
@@ -173,38 +173,37 @@ Of course, no one was going to object.[pcms]
 *1659|
 [fc]
 [vo_mar s="maru1487"]
-[ns]Margarita[nse]
-"If possible, I want to drive out the infected from beyond[r]
-the 1st-floor fire doors... that is, from the entrance hall[r]
-and completely seal off the premises."[pcms]
+[ns]マルガリータ[nse]
+「できることなら１Ｆ防火扉の向こう側……、[r]
+　つまり、エントランスホールから感染者を追い出して、[r]
+　敷地内を完全に封鎖したい」[pcms]
 ;//＠１Ｆは１階（かい）と読んで下さい。
 
 *1660|
 [fc]
 [vo_mar s="maru1488"]
-[ns]Margarita[nse]
-"Does anyone have any good ideas?"[pcms]
+[ns]マルガリータ[nse]
+「何かいい考えはないか？」[pcms]
 
 *1661|
 [fc]
-The senior looked around at everyone's faces.[pcms]
+先輩はぐるりとみんなの顔を見回した。[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ２
-;//２１：無理っぽくない？→ブロック５０３２０へ
-;//２２：出来るかも？→ブロック５０３３０へ
+;//●選択肢Ａ－２
+;//２－１：無理っぽくない？→ブロック５０３２０へ
+;//２－２：出来るかも？→ブロック５０３３０へ
 
 
 ;	[link storage="50320.ks" target=*50320_TOP]無理っぽくない？[endlink]
-; (link storage="50330.ks" target=*50330_TOP)Could it be[r]
-possible?(endlink)[pcms]
+;	[link storage="50330.ks" target=*50330_TOP]できるかも？[endlink][s]
 
 *SEL44|無理っぽくない？／できるかも？
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Doesn\'t it seem impossible?'"]
-[eval exp="f.seltext04 = 'Maybe I can?'"]
+[eval exp="f.seltext02 = '無理っぽくない？'"]
+[eval exp="f.seltext04 = 'できるかも？'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

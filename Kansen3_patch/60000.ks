@@ -8,7 +8,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：3k前後
@@ -22,8 +22,8 @@
 *1|
 [fc]
 [vo_ren s="ren_YK0001"]
-[ns]Ren[nse]
-"Sorry to keep you waiting~, it's lunchtime, okay?"[pcms]
+[ns]漣[nse]
+「お、お待たせしました～、お昼ですよーぉ？」[pcms]
 
 ;//bgm08・hangon
 [bgm storage="BGM08"]
@@ -35,69 +35,70 @@
 
 *2|
 [fc]
-The lunch menu consists of rice, miso soup, stir-fried meat[r]
-and vegetables, salad, and tamagoyaki.[pcms]
+昼食のメニューは、ご飯に味噌汁をはじめとして[r]
+肉野菜炒めとサラダ、卵焼きという内容だ。[pcms]
 
 *3|
 [fc]
-It seems Ren and Mizuki were eager to cook since they got[r]
-their hands on fresh vegetables and eggs.[pcms]
+鮮度のいい野菜や卵が手に入ったので、[r]
+漣と瑞樹が張り切って作ってくれたらしい。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4|
 [fc]
 [vo_miz s="mizuki_YK0001"]
-[ns]Mizuki[nse]
-"Alright, alright, gentlemen, please clear the table~!"[pcms]
+[ns]瑞樹[nse]
+「はいはいはい、男性諸君は、テーブル空けて～！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5|
 [fc]
 [vo_ren s="ren_YK0002"]
-[ns]Ren[nse]
-"Um, everyone over here... Jin-san, this is for you."[pcms]
+[ns]漣[nse]
+「えっと、みんなはこっちで……壬さんは、これ」[pcms]
 
 *6|
 [fc]
-Looking over, there's a plate of stir-fried vegetables[r]
-without meat prepared especially for Jin-san.[pcms]
+見ると壬さんの前には、[r]
+ちゃんと肉抜きの野菜炒めの皿が用意されている。[pcms]
 
 *7|
 [fc]
-Of course... a portion for Yuuho is also prepared at the[r]
-table, but she's nowhere to be seen, probably still asleep[r]
-as usual.[pcms]
+もちろん……テーブルには[r]
+悠帆の分も用意されているんだけど、[r]
+相変わらず寝ているのか、姿がない。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *8|
 [fc]
 [vo_miz s="mizuki_YK0002"]
-[ns]Mizuki[nse]
-"...But really, is Yuuho okay? She still hasn't woken up..."[pcms]
+[ns]瑞樹[nse]
+「……それにしても、ユウホ、大丈夫かなあ？[r]
+　まだ起きてこないけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *9|
 [fc]
 [vo_mar s="maru_YK0001"]
-[ns]Margarita[nse]
-"She must be feeling quite ill?"[pcms]
+[ns]マルガリータ[nse]
+「よほど具合が悪いのだろうか？」[pcms]
 
 *10|
 [fc]
-[ns]Wataru[nse]
-"Yeah. I'll bring her some medicine later."[pcms]
+[ns]航[nse]
+「うん。後で薬を持っていってみるよ」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *11|
 [fc]
-Despite our worries, the meal is delicious... We finish[r]
-lunch in a pleasant atmosphere.[pcms]
+心配しながらも食事は美味しくて……。[r]
+ボクたちは和やかに昼食を済ませた。[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -109,113 +110,111 @@ lunch in a pleasant atmosphere.[pcms]
 
 *12|
 [fc]
-[ns]Kousuke[nse]
-"...Haah, I'm stuffed."[pcms]
+[ns]浩助[nse]
+「……はー、食った食った」[pcms]
 
 *13|
 [fc]
-Kousuke, with his belly visibly more swollen than before the[r]
-meal, sprawls out long on the chair and lies down.[pcms]
+明らかに使用前・使用後というくらいに腹の膨らんだコースケが[r]
+べたーっと身体を長くして、椅子に寝そべっている。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *14|
 [fc]
-[ns]Kousuke[nse]
-"So, what are we doing after this? Oh, Wataru will go visit[r]
-her first, right?"[pcms]
+[ns]浩助[nse]
+「んでさ。この後、どうする？[r]
+　あ、ワタルは見舞いに行ってから、だろうけど」[pcms]
 
 *15|
 [fc]
-[ns]Wataru[nse]
-"Yeah... since we've finished moving stuff and there's no[r]
-news."[pcms]
+[ns]航[nse]
+「そうだねぇ……、[r]
+　荷物運びも終わっちゃったし、ニュースもやってないし」[pcms]
 
 *16|
 [fc]
-The updates on the mobile site aren't that frequent either,[r]
-so there doesn't seem to be any need to check in a hurry.[pcms]
+携帯のサイトも更新がそれほど頻繁ではないから、[r]
+特に慌てて見る必要もなさそうだ。[pcms]
 
 *17|
 [fc]
-We discuss various things and decide to spend the afternoon[r]
-looking around the shops inside LASER.[pcms]
+ボクたちはあれこれと相談し、[r]
+午後はＬＡＳＥＲ内の店舗をいろいろ見て回ることにした。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *18|
 [fc]
-[ns]Kousuke[nse]
-"Then, I guess I'll check out the second floor. Gotta scope[r]
-out any good equipment while I'm at it..."[pcms]
+[ns]浩助[nse]
+「んじゃ、オレは２Ｆの様子、見てくっかな。[r]
+　この際、目ぼしい機材はチェックしとかねーと……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *19|
 [fc]
 [vo_miz s="mizuki_RK0002"]
-[ns]Mizuki[nse]
-"I'll join you, Kousuke."[pcms]
+[ns]瑞樹[nse]
+「あたしも付き合うよ、コースケ」[pcms]
 
 *20|
 [fc]
-Considering how much he insisted on going to 'Tengu-do' from[r]
-day one, he probably won't come back for a while once he[r]
-goes...[pcms]
+初日からさんざん「天狗堂！」ってダダをこねていただけに[r]
+きっと行ったらしばらく帰って来ないだろうな……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *21|
 [fc]
-[ns]Jin[nse]
-"...I'll take a look around the fourth floor."[pcms]
+[ns]壬[nse]
+「……俺は４Ｆを回ってくる」[pcms]
 
 *22|
 [fc]
-The fourth floor is home to the large analog record shop[r]
-'Recomani'.[pcms]
+４Ｆといえば大型アナログ・レコードショップ「レコマニ」だ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *23|
 [fc]
-[ns]Kousuke[nse]
-"Huh? You interested in music too?"[pcms]
+[ns]浩助[nse]
+「あれ？　アンタも音楽、興味あんの？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *24|
 [fc]
-[ns]Jin[nse]
-"That's not my main purpose."[pcms]
+[ns]壬[nse]
+「それ目当てではないが」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *25|
 [fc]
 [vo_miz s="mizuki_RK0003"]
-[ns]Mizuki[nse]
-"Jin likes movies and dramas quite a bit, right?"[pcms]
+[ns]瑞樹[nse]
+「ジンはねー、けっこう映画とかドラマ、好きなんだよね？」[pcms]
 
 *26|
 [fc]
-Indeed 'Recomani' mainly sells analog records but they also[r]
-have CDs and DVDs.[pcms]
+確かに「レコマニ」はアナログレコードがメインだけど[r]
+ＣＤやＤＶＤの販売もしてたっけ。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *27|
 [fc]
-[ns]Shigeyoshi[nse]
-"...I'll pass. I'm completely worn out from being bossed[r]
-around all day. I've had my meal, so let me sleep now."[pcms]
+[ns]重吉[nse]
+「……俺様はパスだ。[r]
+　さんざんコキ使われて、ヘトヘトだァ。[r]
+　メシも喰ったことだし、とりあえず、寝かせろ」[pcms]
 
 *28|
 [fc]
-Despite claiming he wants to sleep, Shigeyoshi disappears[r]
-into the VIP room laden with bottles of liquor, snacks,[r]
-magazines, and more. Even after such a big lunch, his[r]
-stomach still has room...[pcms]
+寝るという割には洋酒のボトルだのつまみだの雑誌だのと、[r]
+しこたま物を抱えて、重吉はＶＩＰルームへ消えていく。[r]
+あれだけ昼ご飯を食べたのに、まだ胃袋空いてるのか……。[pcms]
 
 ;//★ここまで
 
@@ -224,78 +223,79 @@ stomach still has room...[pcms]
 *29|
 [fc]
 [vo_ren s="ren_YK0003"]
-[ns]Ren[nse]
-"Then, I guess I'll go to 'Manga Darake'."[pcms]
+[ns]漣[nse]
+「じゃあ、私は……『マンガダラケ』に行こうかな」[pcms]
 
 *30|
 [fc]
-Ren seems to be planning to browse manga on B2F.[pcms]
+漣はＢ２Ｆで漫画を物色するらしい。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *31|
 [fc]
 [vo_mar s="maru_YK0002"]
-[ns]Margarita[nse]
-"I would like to gather some information for a while..."[pcms]
+[ns]マルガリータ[nse]
+「ワタシはしばらく、情報収集をしたいのだが……」[pcms]
 
 *32|
 [fc]
-That means... Senpai might be surfing the net on the fifth[r]
-floor.[pcms]
+ということは……先輩は５Ｆでネットサーフィンかな。[pcms]
 
 *33|
 [fc]
-Just as I thought that, I caught Maruko-senpai's eye. She[r]
-seems to have something she wants to say...?[pcms]
+そう思いかけたところで、マル子先輩と目が合った。[r]
+何か言いたげな目をしてる……？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *34|
 [fc]
 [vo_mar s="maru_YK0003"]
-[ns]Margarita[nse]
-"A mobile phone will suffice for that. I've decided to[r]
-accompany Ren. It makes me uneasy to have her wandering[r]
-around alone."[pcms]
+[ns]マルガリータ[nse]
+「ケータイでもコトは足りるからな。[r]
+　漣に付き合うことにしよう。[r]
+　どうも一人で動かれるのは、不安だ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *35|
 [fc]
 [vo_ren s="ren_YK0004"]
-[ns]Ren[nse]
-"Eh? Really? Well, if Maruko-senpai is coming with me, I'll[r]
-show you some interesting manga~?"[pcms]
+[ns]漣[nse]
+「えー？　そうかなー？[r]
+　でも、マル子先輩、一緒に来てくれるなら、[r]
+　面白い漫画、教えてあげるね～？」[pcms]
 
 *36|
 [fc]
-Ren might not have noticed, but maybe Maruko-senpai is[r]
-trying to give Yuuho and me some time alone...[pcms]
+漣は気付かなかったみたいだけど、[r]
+多分、マル子先輩は、ボクと悠帆を二人きりにしようって[r]
+気遣ってくれたんじゃないかな……。[pcms]
 
 *37|
 [fc]
-I thank Senpai in my heart.[pcms]
+ボクは心の中で先輩に感謝する。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *38|
 [fc]
-[ns]Wataru[nse]
-"So we're all splitting up then."[pcms]
+[ns]航[nse]
+「それじゃ、みんなバラバラだね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *39|
 [fc]
-[ns]Kousuke[nse]
-"Let's just meet up somewhere later on."[pcms]
+[ns]浩助[nse]
+「後でテキトーに合流しよーぜ」[pcms]
 
 *40|
 [fc]
-I decide to bring some nutritional supplements and mineral[r]
-water for Yuuho.[pcms]
+ボクは悠帆のために栄養剤とミネラルウォーターを[r]
+持っていくことにした。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

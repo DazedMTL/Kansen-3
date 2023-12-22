@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）未明早朝
+;//・時間：５日目（８月１９日）未明～早朝
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹
 ;//時間帯：
@@ -25,272 +25,276 @@
 
 *3011|
 [fc]
-I remembered something unpleasant. But now, all I can do is[r]
-pray for the souls of Master and Mama...[pcms]
+イヤな事、思い出しちゃった。[r]
+だけど、ボクにはもう、マスターにも、ママに対しても、[r]
+冥福を祈ることしかできないんだ……。[pcms]
 
 *3012|
 [fc]
-...No, I should forget it. I can't keep dwelling on it[r]
-forever.[pcms]
+……いや、もう忘れよう。[r]
+いつまでも引きずっている訳にはいかないんだ。[pcms]
 
 *3013|
 [fc]
-I'll cool my head at my favorite spot. That way, surely... I[r]
-can forget, even if just for a while.[pcms]
+お気に入りの場所で、頭を冷やそう。[r]
+そうすれば、きっと……。[r]
+一時的にでも、忘れられる。[pcms]
 
 *3014|
 [fc]
-Dragging my feet as if they were wrapped in lead, I head to[r]
-my favorite place.[pcms]
+鉛を巻き付けた様な重さを感じる足を引きずり、[r]
+ボクのお気に入りの場所へと向かう。[pcms]
 
 *3015|
 [fc]
-To get to the rooftop, I have to go through the backyard.[r]
-That's where Mama used to pass through.[pcms]
+屋上に出るためには、バックヤードを通らなくちゃならない。[r]
+あの場所は、ママが通っていた。[pcms]
 
 *3016|
 [fc]
-Once again, memories of Master and the others flit through[r]
-my mind.[pcms]
+再び、マスター達の記憶が頭をかすめる。[pcms]
 
 *3017|
 [fc]
-[ns]Wataru[nse]
-I mustn't think about it... I need to forget. Lock it away[r]
-deep inside my heart...[pcms]
+[ns]航[nse]
+「考えちゃダメだ……忘れよう。[r]
+　心の奥底にしまっておくんだ……」[pcms]
 
 *3018|
 [fc]
-I tell myself this, shaking my head to dispel the unpleasant[r]
-memories.[pcms]
+自分で自分に言い聞かせ、首を振ってイヤな記憶を振り払う。[pcms]
 
 *3019|
 [fc]
-[ns]Wataru[nse]
-Huh... Jin...?[pcms]
+[ns]航[nse]
+「あれ……壬……？」[pcms]
 
 *3020|
 [fc]
-Jin was sitting in the same seat as before, leaning against[r]
-the wall and sleeping.[pcms]
+壬は、さっき見た時と同じ席に座り、[r]
+壁に身体を預けて眠っていた。[pcms]
 
 *3021|
 [fc]
-The only difference was that a blanket was now draped over[r]
-his body. Mizuki probably thoughtfully covered him.[pcms]
+ただ一つ違う所は、身体には毛布がかけられていたこと。[r]
+おそらく瑞樹が気を利かせたのだろう。[pcms]
 
 *3022|
 [fc]
-Around Jin's seat were ice pails and bottles of alcohol[r]
-carelessly placed, suggesting he had drunk quite a bit.[pcms]
+壬の座る席には、アイスペールや酒のボトルが無造作に置かれ、[r]
+その数からすると、かなりの量を飲んでいたんだろうと思う。[pcms]
 
 *3023|
 [fc]
-Huh? There are two glasses... Someone was drinking with him.[pcms]
+あれ？[r]
+グラスが二つある……。[r]
+誰かと飲んでたんだ。[pcms]
 
 *3024|
 [fc]
-But who could it have been? Curious, I look around and see[r]
-Maruko-senpai sitting near the entrance to the terrace,[r]
-gazing outside.[pcms]
+でも、一体誰と飲んでたんだろう。[r]
+それが気になり、周りを見渡すとマル子先輩がテラスの[r]
+入り口近くに腰かけ、外を眺めていた。[pcms]
 
 *3025|
 [fc]
-[ns]Wataru[nse]
-Have you been awake all this time...?[pcms]
+[ns]航[nse]
+「あの後、ずっと起きてたのかな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3026|
 [fc]
 [vo_mar s="maru1608"]
-[ns]Margarita[nse]
-Hmm...? Wataru, is that you?[pcms]
+[ns]マルガリータ[nse]
+「ん……？　ワタル、か？」[pcms]
 
 *3027|
 [fc]
-Perhaps she heard my muttering, as Maruko-senpai slowly[r]
-turned around.[pcms]
+ボクのつぶやきが聞こえたのか、[r]
+マル子先輩がゆっくりと振り返った。[pcms]
 
 *3028|
 [fc]
-As she turned back, Maruko-senpai's blonde hair was[r]
-illuminated by the moonlight, shimmering like silk threads[r]
-and captivating my gaze.[pcms]
+振り返りざま、マル子先輩の金髪は月の光に照らされて、[r]
+絹の糸の様な煌めきが、ボクの目を釘付けにした。[pcms]
 
 *3029|
 [fc]
-[ns]Wataru[nse]
-Ma... no...[pcms]
+[ns]航[nse]
+「マ……、いや……」[pcms]
 
 *3030|
 [fc]
-That's right... Jin is sleeping nearby. If I raise my voice[r]
-here, I'll wake him up...[pcms]
+そうだった……。[r]
+すぐ近くで、壬が眠っているんだった。[r]
+こんな所で声を出したら、起こしちゃうな……。[pcms]
 
 *3031|
 [fc]
-He seems scary when angry, and more than that, I feel guilty[r]
-for potentially waking someone who is finally resting, so I[r]
-quietly approach Maruko-senpai and sit down next to her.[pcms]
+怒らせると怖そうだし、何よりせっかく寝ている人を[r]
+起こしてしまう事に引け目を感じ、ボクはマル子先輩の側へと[r]
+足音を立てないように向かい、すぐ隣に腰を下ろした。[pcms]
 
 *3032|
 [fc]
-Turning her gaze away from me and back to the night view,[r]
-Maruko-senpai's profile and reflection in the glass are as[r]
-beautiful as a doll's, mesmerizing to behold.[pcms]
+ボクから目をそらし、再び夜景を見つめるマル子先輩は、[r]
+横顔も、ガラスに映る姿も、まるで人形の様に美しく、[r]
+思わず見とれてしまうほどだった。[pcms]
 
 *3033|
 [fc]
 [vo_mar s="maru1609"]
-[ns]Margarita[nse]
-Did you need something from me?[pcms]
+[ns]マルガリータ[nse]
+「何か、ワタシに用があったのか？」[pcms]
 
 *3034|
 [fc]
-[ns]Wataru[nse]
-Ah... no... It's not like that. Have you been awake this[r]
-whole time, senpai?[pcms]
+[ns]航[nse]
+「あ……いえ……。[r]
+　そういうわけじゃないんですけど。[r]
+　先輩は、ずっと起きてたんですか？」[pcms]
 
 *3035|
 [fc]
-Both Maruko-senpai and I continue our conversation in a[r]
-strange state, staring at our reflections in the glass and[r]
-at each other.[pcms]
+ボクもマル子先輩も、ガラスに映った自分と、お互いの姿を[r]
+見つめたままの、不思議な状態で会話を続ける。[pcms]
 
 *3036|
 [fc]
 [vo_mar s="maru1610"]
-[ns]Margarita[nse]
-I did fall asleep once, but woke up soon after and couldn't[r]
-get back to sleep. I've always been a light sleeper...[pcms]
+[ns]マルガリータ[nse]
+「一度寝たんだが、すぐに目が覚めて、[r]
+　そのまま寝付けなくなってしまったんだ。[r]
+　元々眠りは浅い方だからな……」[pcms]
 
 *3037|
 [fc]
 [vo_mar s="maru1611"]
-[ns]Margarita[nse]
-What about you, Wataru?[pcms]
+[ns]マルガリータ[nse]
+「ワタルは？」[pcms]
 
 *3038|
 [fc]
-[ns]Wataru[nse]
-I was heading to my favorite spot...[pcms]
+[ns]航[nse]
+「ボクは、お気に入りの場所に……」[pcms]
 
 *3039|
 [fc]
-I lift up the blanket I was carrying to show her.[pcms]
+脇に抱えていた毛布を持ち上げてみせる。[pcms]
 
 *3040|
 [fc]
-[ns]Wataru[nse]
-I was thinking of going to the place with the sign on this[r]
-building. No one will scold me now, and the view is nice, so[r]
-I thought it might clear my head.[pcms]
+[ns]航[nse]
+「このビルの、看板の所へ行こうと思って……。[r]
+　今なら誰もとがめる人もいないし、[r]
+　それに、眺めがいいから、気持ちも晴れるかなと思って」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3041|
 [fc]
 [vo_mar s="maru1612"]
-[ns]Margarita[nse]
-Hmm, there's such a place? I'm curious... But it seems[r]
-better to refrain tonight.[pcms]
+[ns]マルガリータ[nse]
+「ふむ、そんな場所があるのか。[r]
+　興味はあるが……。[r]
+　……しかし今夜はやめた方が良さそうだ」[pcms]
 
 *3042|
 [fc]
-[ns]Wataru[nse]
-Why? It's not raining, and there isn't much wind...[pcms]
+[ns]航[nse]
+「どうしてですか？　雨が降ったりしてる訳でもないし、[r]
+　風もそんなにないし……」[pcms]
 
 *3043|
 [fc]
-Before I could finish speaking, Maruko-senpai stood up and[r]
-opened the glass door to the terrace.[pcms]
+マル子先輩は、ボクの言葉を最後まで聞く前に立ち上がり、[r]
+テラスのガラスドアを開いた。[pcms]
 
 *3044|
 [fc]
-Then, along with a warm and gentle breeze, an indescribable[r]
-smell wafted ina sour smell like rotting garbageand that[r]
-eerie, hair-raising voice came through.[pcms]
+すると、生暖かく緩やかな風と共に何とも言いようのない、[r]
+酸っぱい様な、生ゴミが腐った様な匂いが漂って来ると共に、[r]
+あの気味の悪い身の毛のよだつような声が飛び込んできた。[pcms]
 
 *3045|
 [fc]
-It seemed like a considerable number of people were[r]
-wandering around, their groans swirling and echoing[r]
-throughout the city.[pcms]
+かなりの人数がうろついているらしく、うなり声は渦を巻き、[r]
+街中に響き渡っていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3046|
 [fc]
 [vo_mar s="maru1613"]
-[ns]Margarita[nse]
-They might be nocturnal creatures. Or perhaps they can't[r]
-give up on us...[pcms]
+[ns]マルガリータ[nse]
+「奴らは、夜行性なのかもしれない。[r]
+　それともワタシたちのことをあきらめられないのか……」[pcms]
 
 *3047|
 [fc]
 [vo_mar s="maru1614"]
-[ns]Margarita[nse]
-I also tried to go out on the terrace but... In any case,[r]
-this won't do.[pcms]
+[ns]マルガリータ[nse]
+「ワタシもテラスに出ようとしたが……。[r]
+　いずれにしても、これではな」[pcms]
 
 *3048|
 [fc]
-Indeed, in such a state, I couldn't feel like gazing at the[r]
-stars. Instead of clearing my mood as intended, I only felt[r]
-enveloped by discomfort.[pcms]
+確かにこんな状態で星を眺める気になんて、なれない。[r]
+星を見て気分を晴らすハズだったのに、むしろ不快感だけに[r]
+まとわりつかれてしまう。[pcms]
 
 *3049|
 [fc]
-And what a terrifying voice it is. Being inside LASERa safe[r]
-boxI had forgotten that just one step outside lies hell.[pcms]
+それにしても、恐ろしい声だ。[r]
+ＬＡＳＥＲという、安全な箱の中で『普通』に過ごしていたから[r]
+忘れていたが、一歩外にでると、そこは地獄なんだ。[pcms]
 
 *3050|
 [fc]
-[ns]Wataru[nse]
-...This is disappointing...[pcms]
+[ns]航[nse]
+「……なんか、がっかりだな……」[pcms]
 
 *3051|
 [fc]
-My mood deflated. Being barred from going outside and[r]
-hearing that voice made my spirits plummet further.[pcms]
+気分が萎えた。[r]
+外に出ることを封じられ、あの声を聞いたせいで、ボクの気持ちは[r]
+どんどん落ちていく。[pcms]
 
 *3052|
 [fc]
-Driven by a desire to abandon everything, I collapsed[r]
-powerlessly on the spot.[pcms]
+何もかも放り出したい気持ちに駆られ、[r]
+その場に力なくへたり込んでしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f27"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3053|
 [fc]
 [vo_mar s="maru1615"]
-[ns]Margarita[nse]
-Hmph... Wretches... I wish I could ease their suffering a[r]
-bit...[pcms]
+[ns]マルガリータ[nse]
+「ふん……亡者、か……。少しでも楽にしてやりたいが……」[pcms]
 
 *3054|
 [fc]
-In stark contrast to me, Maruko-senpai stood in front of the[r]
-door with a stern expression, made the sign of the cross[r]
-over her chest, and began murmuring in a low voice.[pcms]
+そんなボクと正反対に、ドアの前に立ったマル子先輩は、[r]
+険しい表情をして、胸の前で十字を切ったあと、小さな声で[r]
+つぶやき始めた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f24"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3055|
 [fc]
 [vo_mar s="maru1616"]
-[ns]Margarita[nse]
-The wrath of the Lord of Hosts scorches the earth; its[r]
-inhabitants wither like tinder; none spare their brothers or[r]
-sisters. They snatch on the right but remain hungry; they[r]
-devour on the left but are not satisfied.[pcms]
+[ns]マルガリータ[nse]
+「万軍の主の怒り、地を焼き焦がし、住まう民、もぐさの如く[r]
+　火に燃え萎れ、何人もその兄弟姉妹を憐れまず。[r]
+　彼ら、右手に掴んで、なお飢え、左手で食して飽くることなし」[pcms]
 
 *3056|
 [fc]
 [vo_mar s="maru1617"]
-[ns]Margarita[nse]
-...Each devours the flesh of their neighbor.[pcms]
+[ns]マルガリータ[nse]
+「……おのおの、その隣り人の肉を食らう」[pcms]
 
 ;//感染１＆２を含んだ既存のイベント絵や
 ;//カットインで表示。
@@ -310,26 +314,27 @@ devour on the left but are not satisfied.[pcms]
 
 *3057|
 [fc]
-Humans eating humans. It's truly hell.[pcms]
+人が、人を食う。[r]
+まさに、地獄だ。[pcms]
 
 *3058|
 [fc]
-Perhaps this city has become like what Maruko-senpai[r]
-recited.[pcms]
+今のこの街も、マル子先輩の読み上げた様な状態に[r]
+なっているのかも知れない。[pcms]
 
 *3059|
 [fc]
-Hell... huh...[pcms]
+地獄……か……。[pcms]
 
 *3060|
 [fc]
-The rest was too difficult for me to understand. But I got[r]
-the last part; it sounded familiar. I must have heard it[r]
-somewhere before.[pcms]
+他は難しくて、ボクには理解できなかった。[r]
+だけど、最後の一節だけは、ボクにもわかる。[r]
+それに、どこかで聞いた事がある。[pcms]
 
 *3061|
 [fc]
-So, this is...[pcms]
+そうか。これは……。[pcms]
 
 
 [bg storage="BG019c"]
@@ -340,126 +345,125 @@ So, this is...[pcms]
 
 *3062|
 [fc]
-[ns]Wataru[nse]
-"The Bible...?"[pcms]
+[ns]航[nse]
+「聖書……ですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3063|
 [fc]
 [vo_mar s="maru1618"]
-[ns]Margarita[nse]
-"I've stopped reading it. But I was reminded of it given the[r]
-current situation."[pcms]
+[ns]マルガリータ[nse]
+「もう、読むのはやめてしまったがな。[r]
+　だが、この状況になって思い出したよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3064|
 [fc]
 [vo_mar s="maru1619"]
-[ns]Margarita[nse]
-"It's not that I can't sleep because of my constitution.[r]
-It's because I'm so anxious..."[pcms]
+[ns]マルガリータ[nse]
+「眠れないのは体質なんかじゃない。[r]
+　不安で仕方ないからだ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3065|
 [fc]
 [vo_mar s="maru1620"]
-[ns]Margarita[nse]
-"I'm scared of the virus and those infected..."[pcms]
+[ns]マルガリータ[nse]
+「ウィルスや、あの感染者達が……怖い」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f27"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3066|
 [fc]
 [vo_mar s="maru1621"]
-[ns]Margarita[nse]
-"I prayed to God to escape that anxiety, and then I[r]
-remembered... Along with that, the unpleasant words 'the[r]
-time of the final judgment' also came to mind..."[pcms]
+[ns]マルガリータ[nse]
+「その不安から逃れたくて神に祈っていたら、思い出したんだ。[r]
+　……それと共に、[r]
+　最後の審判の時なんていう嫌な言葉もな……」[pcms]
 
 *3067|
 [fc]
-[ns]Wataru[nse]
-"The time of the final judgment?"[pcms]
+[ns]航[nse]
+「最後の審判の時？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f26"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3068|
 [fc]
 [vo_mar s="maru1622"]
-[ns]Margarita[nse]
-"When the world's chaos reaches its limit, and iniquity and[r]
-immorality are rampant, many angels and the Lord Himself[r]
-will descend from heaven to punish all sinners."[pcms]
+[ns]マルガリータ[nse]
+「世界の乱れが限界に達し、不義と不道徳が充ち満ちた時、天から[r]
+　多くの御使いと主自らが降りてこられて、[r]
+　全ての罪人を罰せられる」[pcms]
 
 *3069|
 [fc]
 [vo_mar s="maru1623"]
-[ns]Margarita[nse]
-"It is said that at that time, so many sinners will be cast[r]
-into hell that the dead will overflow from hell and begin to[r]
-walk the earth... To me, the infected look just like that."[pcms]
+[ns]マルガリータ[nse]
+「その時あまりに多くの罪人が投げ入れられたため、地獄から[r]
+　あふれ出した死者が地上を歩き始めると言う。[r]
+　……ワタシには、[ruby text="ヤ　ツ　ラ"][ch text="感染者"]がそんな風に見えるんだ」[pcms]
 
 *3070|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *3071|
 [fc]
-Indeed, the infected who wriggle only for their desires[r]
-without feeling pain or joy from their wounds do seem like[r]
-the undead from hell.[pcms]
+確かに、痛みを感じる事もなく、傷ついても喜んで己の欲望のみに[r]
+ただ蠢く感染者達は、地獄の亡者の様にも見える。[pcms]
 
 *3071a|
 [fc]
-"I know that it's the work of the virus. That's why, among[r]
-other reasons, I can't shake off the fear of them."[pcms]
+“あれ”がウィルスの仕業だというのは、知っている。[r]
+だからこそ、と言うのもあるけど、彼らに対する恐怖心は[r]
+ぬぐい去る事ができない。[pcms]
 
 *3072|
 [fc]
-[ns]Wataru[nse]
-"Was the outbreak of that virus already a punishment being[r]
-meted out?"[pcms]
+[ns]航[nse]
+「あのウィルスが発生した時が、もう罰が下された時だったのかな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3073|
 [fc]
 [vo_mar s="maru1624"]
-[ns]Margarita[nse]
-"Perhaps... The time of judgment has already passed... Now,[r]
-it might truly be hell..."[pcms]
+[ns]マルガリータ[nse]
+「かもしれん……。既に審判の時は過ぎて……。[r]
+　今は、まさに地獄なのか……」[pcms]
 
 *3074|
 [fc]
-[ns]Wataru[nse]
-"Is it a curse, or divine punishment... I don't know..."[pcms]
+[ns]航[nse]
+「呪いなのか、それとも天罰なのか……わかんないや……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3075|
 [fc]
-A curse...? Could it be a punishment for the arrogant[r]
-actions of humans...?[pcms]
+呪いか……。[r]
+傲慢な人間の行いに対する、罰が与えられたんだろうか……。[pcms]
 
 *3076|
 [fc]
-The moans heard throughout the city bring my spirits down.[r]
-And it's suffocating.[pcms]
+街中から聞こえてくる呻き声を聞いていると、気分が落ちていく。[r]
+それに、息苦しい。[pcms]
 
 *3077|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *3078|
 [fc]
-I tried to escape the suffocation by gulping down the water[r]
-in the cup I was holding.[pcms]
+ボクは息苦しさから逃れようと、[r]
+手に持っていたコップの水を一気に飲み干した。[pcms]
 
 ;//→ジャンプ：ブロック50520
 [jump storage="50520.ks" target=*50520_TOP]

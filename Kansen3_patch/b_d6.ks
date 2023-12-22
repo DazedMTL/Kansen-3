@@ -18,72 +18,74 @@
 
 *4574|
 [fc]
-"What should I do..."[pcms]
+どうしよう……。[pcms]
 
 *4575|
 [fc]
-"The hallway is narrow, and I've used up my energy sprinting[r]
-up to the third floor. I don't have the confidence to shake[r]
-them off and escape."[pcms]
+廊下は狭いし、無駄に３階まで階段ダッシュで[r]
+体力を使ったボクに、ヤツラを振り切って逃げれる自信はない。[pcms]
 
 *4576|
 [fc]
-"And outside, there must be swarms of infected people who've[r]
-come from outside the school."[pcms]
+かと言って、外はきっと学園外からやってきた[r]
+感染者がうじゃうじゃいるはずだ。[pcms]
 
 *4577|
 [fc]
-[ns]Wataru[nse]
-"...What should I do?"[pcms]
+[ns]航[nse]
+「……どうしたらいい？」[pcms]
 
 *4578|
 [fc]
-Gasping for breath, I quickly glanced back and forth between[r]
-the emergency exit and the hallway.[pcms]
+荒い息を吐きながら、ボクは素早く非常口と[r]
+廊下をキョロキョロと見回した。[pcms]
 
 *4579|
 [fc]
-That's right... I was so preoccupied with figuring out which[r]
-way would get me to Ren faster that I completely forgot.[pcms]
+そう……ボクはすっかりどちらに行ったら早く[r]
+漣の元へ行けるかという事だけを気にしすぎて[r]
+すっかり忘れてしまっていた。[pcms]
 
 *4580|
 [fc]
-Behind me was not a dead end or a wall, but a staircase.[pcms]
+ボクの後ろは決して行き止まりや壁などではなく、[r]
+階段があることを。[pcms]
 
 [se buf=0 storage="se012"]
 
 *4581|
 [fc]
-I only remembered that when I was struck hard from behind.[pcms]
+それを思い出したのは、背後から[r]
+思いっきり殴りつけられた後だった。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4582|
 [fc]
-[ns]Infected Man A[nse]
-"Food... I'm so hungry..."[pcms]
+[ns]感染者・男Ａ[nse]
+「エサ……はらぁ、へったぁ……」[pcms]
 
 *4583|
 [fc]
-[ns]Wataru[nse]
-"I-I'm not food..."[pcms]
+[ns]航[nse]
+「ぼ、ボクはエサなんかじゃ……」[pcms]
 
 *4584|
 [fc]
-My protest fell on deaf ears; the man wasn't listening.[pcms]
+ボクの反論なんか、男は聞いちゃいない。[pcms]
 
 *4585|
 [fc]
-In a panic, I tried to run away when I saw the man's hand[r]
-forming a fist again.[pcms]
+慌てて逃げ出そうとしたとき、[r]
+ボクは男の手がもう一度拳を作るのを見た。[pcms]
 
 *4586|
 [fc]
-Trying to dodge it, I leaned back slightly.[pcms]
+それを避けようとして、ボクは少し後ろにのけぞる。[pcms]
 
 *4587|
 [fc]
-But--[pcms]
+でも――[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 [se buf=0 storage="se012"]
@@ -92,31 +94,32 @@ But--[pcms]
 
 *4588|
 [fc]
-My vision suddenly went dark.[pcms]
+視界が一気に暗くなった。[pcms]
 
 [se buf=0 storage="se004"]
 
 *4589|
 [fc]
-I realized it was because the man's fist had grazed my chin,[r]
-only after my legs gave way and I collapsed onto the floor.[pcms]
+男の拳が顎を掠めたせいだと気がついたのは、[r]
+勝手に足が崩れ落ちて床に転倒してからだ。[pcms]
 
 *4590|
 [fc]
-I have to get up! But my body wouldn't respond to my will,[r]
-not even a single finger would move.[pcms]
+立ち上がらなきゃ！[r]
+だけどもボクの体はボクの意思に反して[r]
+指一本動かすこともできない。[pcms]
 
 *4591|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *4592|
 [fc]
-The last thing that came to mind was the most important...[pcms]
+最後に思い浮かべたのは、もっとも大切な……。[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

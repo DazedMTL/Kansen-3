@@ -5,7 +5,7 @@
 *30020_TOP
 ;{SceneSet 急がば回れ}
 ;//---------------------------------------------------------------
-;//▲１２：急がば回れ！奥の方の階段へ！
+;//▲１－２：急がば回れ！奥の方の階段へ！
 
 ;//〆♪：感染（revenge
 ;//[bgm storage="BGM10"]
@@ -18,8 +18,8 @@
 
 *42|
 [fc]
-"There's no time to hesitate. I sprinted down the hallway[r]
-with all my might."[pcms]
+悩んでるヒマはない。[r]
+ボクはまっすぐに廊下を全力疾走した。[pcms]
 
 ;//〆BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -27,21 +27,20 @@ with all my might."[pcms]
 
 *43|
 [fc]
-"I almost got tangled up with a few infected, but somehow I[r]
-managed to slip through and reach the stairs at the end."[pcms]
+数人の感染者に絡まれそうになったけれど、[r]
+なんとかすり抜けて奥の階段前に到着できた。[pcms]
 
 *44|
 [fc]
-"All that's left is to run up these stairs right in front of[r]
-me."[pcms]
+あとはもうこの目の前の階段を駆け上がるだけだ。[pcms]
 
 ;//〆BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *45|
 [fc]
-"Without thinking about what comes next, I ran straight up[r]
-the stairs, aiming for the third floor."[pcms]
+ボクはもう後先も考えずにまっすぐ、[r]
+３階を目指して階段を駆け上がった。[pcms]
 
 ;//→block:30050へ
 [jump storage="30050.ks" target=*30050_TOP]

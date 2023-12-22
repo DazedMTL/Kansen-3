@@ -1,12 +1,12 @@
 ;//block:A011
 ;//ブロック４１０６０から選択肢でjump  ←@konya　嘘^^；
 ;//ブロック４１１７０からjump  ←@konya　本当^^
-;//ブロック４１１００『地下道悠帆のみ脱出』pt8
+;//ブロック４１１００『地下道～悠帆のみ脱出～』pt8
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41090 41170.txtから
 
 *41100_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・悠帆・マルガリータ・姦染・漣
@@ -14,7 +14,7 @@
 ;//時間帯：
 ;//・テキスト容量：２０K前後
 ;//---------------------------------------------------------------
-;//●選択肢Ａ３　３１：調べる
+;//●選択肢Ａ－３　３－１：調べる
 
 ;//---------------------------------------------------------------
 
@@ -40,91 +40,92 @@
 
 *3173|
 [fc]
-[ns]Wataru[nse]
-"Let's check the door."[pcms]
+[ns]航[nse]
+「扉を調べてみましょう」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3174|
 [fc]
 [vo_mar s="maru0447"]
-[ns]Margarita[nse]
-"...Understood..."[pcms]
+[ns]マルガリータ[nse]
+「……わかった……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3175|
 [fc]
-Senpai and I began to examine the door.[pcms]
+ボクと先輩は扉を調べ始めた。[pcms]
 
 *3176|
 [fc]
-This door is quite new compared to the others. Besides the[r]
-lever-type knob, there's a rotating handle lock. It even has[r]
-rubber sealing in the gaps for waterproofing.[pcms]
+今までの扉と違ってずいぶんと新しい。[r]
+レバー型のノブの他に、回転ハンドル式のロック。[r]
+隙間にはゴムで防水までしてある。[pcms]
 
 *3177|
 [fc]
-[ns]Wataru[nse]
-"This one is quite new. It seems different from the ones[r]
-we've seen before."[pcms]
+[ns]航[nse]
+「これはずいぶん新しいですね。[r]
+　今までにあったのとは違うみたいだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3178|
 [fc]
 [vo_mar s="maru0448"]
-[ns]Margarita[nse]
-"It doesn't seem like it will be rusted shut. If only we[r]
-could open it..."[pcms]
+[ns]マルガリータ[nse]
+「サビていて開かないなんてことはなさそうだな。[r]
+　開けばいいんだが……」[pcms]
 
 *3179|
 [fc]
-While saying that, Senpai Maruko reached out for the door.[pcms]
+そう言いながらマル子先輩が扉に手を伸ばす。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3180|
 [fc]
-That moment...[pcms]
+その瞬間……。[pcms]
 
 ;//se041・扉のノブをガチャガチャ
 [se buf=0 storage="se041"]
 
 *3181|
 [fc]
-The door handle rattled violently.[pcms]
+ガチャガチャと激しく、扉のハンドルが動いた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3182|
 [fc]
 [vo_mar s="maru0449"]
-[ns]Margarita[nse]
-"...!!"[pcms]
+[ns]マルガリータ[nse]
+「………………っ！！」[pcms]
 
 *3183|
 [fc]
-[ns]Wataru[nse]
-"...!!"[pcms]
+[ns]航[nse]
+「………………っ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3184|
 [fc]
 [vo_yuh s="yuho0269"]
-[ns]Yuuho[nse]
-"------!!"[pcms]
+[ns]悠帆[nse]
+「――――――っ！！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3185|
 [fc]
-Everyone held their breath. All three of us stepped back.[r]
-One step, two steps, and then the third...[pcms]
+全員が息を呑んだ。[r]
+三人ともその場から後ずさりする。[r]
+一歩、二歩、そして三歩目……。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -134,7 +135,7 @@ One step, two steps, and then the third...[pcms]
 
 *3186|
 [fc]
-The door opened with a noise![pcms]
+扉が音を立てて開いたっ！[pcms]
 
 [evcg storage="evs001"][trans_c cross time=300]
 
@@ -142,79 +143,79 @@ The door opened with a noise![pcms]
 
 *3187|
 [fc]
-[ns]Infected Man K[nse]
-"...women..."[pcms]
+[ns]感染者・男Ｋ[nse]
+「……おんなぁ……」[pcms]
 
 *3188|
 [fc]
-[ns]Infected Man L[nse]
-"It's a woman..."[pcms]
+[ns]感染者・男Ｌ[nse]
+「女だぁ……」[pcms]
 
 *3189|
 [fc]
-[ns]Infected - Male M[nse]
-"Let us have a turn~"[pcms]
+[ns]感染者・男Ｍ[nse]
+「やらせろっ～」[pcms]
 
 *3190|
 [fc]
-From the not-so-large door, one after another, deranged[r]
-people began to tumble out.[pcms]
+あまり大きいとは言えない扉から、[r]
+次々とおかしくなった人たちがまろび出てくる。[pcms]
 
 *3191|
 [fc]
-I never thought I'd use a word like "tumble out" in everyday[r]
-life, but it fits perfectly in this situation...[pcms]
+日常では使ったこともない『まろび出る』なんて言葉が[r]
+こんな時にぴったりだなんて……。[pcms]
 
 *3192|
 [fc]
-As I continued to step back in surprise, I couldn't help but[r]
-think of such things.[pcms]
+ボクは後ずさりを続けながらも驚きのあまりにふと[r]
+そんなことを考えてしまう。[pcms]
 
 *3193|
 [fc]
 [vo_mar s="maru0450"]
-[ns]Margarita[nse]
-"From this side too..."[pcms]
+[ns]マルガリータ[nse]
+「こっちからもか……」[pcms]
 
 *3194|
 [fc]
-Senpai's voice echoed.[pcms]
+先輩の声が響く。[pcms]
 
 *3195|
 [fc]
-As we were stepping back in shock, the group that came out[r]
-of the door was now blocking even the side paths, crowding[r]
-the corridor.[pcms]
+ボクたちが驚きに後ずさりをしているうちに[r]
+扉から出てきた連中は、横道までもふさぐほど[r]
+通路内にひしめいていた。[pcms]
 
 *3196|
 [fc]
-And from the opposite side as well...[pcms]
+そして、反対側からも……。[pcms]
 
 *3197|
 [fc]
-[ns]Infected Student F[nse]
-"Ahh... there's a woman close by..."[pcms]
+[ns]感染者・学生Ｆ[nse]
+「ああっ……女がちかいぞ……」[pcms]
 
 *3198|
 [fc]
-[ns]Infected Student G[nse]
-"It's Margarita and Kannagi..."[pcms]
+[ns]感染者・学生Ｇ[nse]
+「マルガリータと神凪だぁ……」[pcms]
 
 *3199|
 [fc]
-We can't see them yet, but the group that was chasing us is[r]
-also closing in fast.[pcms]
+姿こそまだ見えないが、ボク達を追いかけてきた連中も[r]
+もうすぐ近くまで迫っている。[pcms]
 
 *3200|
 [fc]
 [vo_mar s="maru0451"]
-[ns]Margarita[nse]
-"Damn it! We're cornered!!"[pcms]
+[ns]マルガリータ[nse]
+「しまった！　追いつめられた！！」[pcms]
 
 *3201|
 [fc]
-Senpai's voice sounded frustrated. Even as I was about to[r]
-lose my composure, I tried to think of a way out.[pcms]
+先輩の悔しそうな声。[r]
+ボクも平常心を失いそうになりながらも、逃げ場を考える。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -222,31 +223,31 @@ lose my composure, I tried to think of a way out.[pcms]
 
 *3202|
 [fc]
-[ns]Wataru[nse]
-"...Can't we just go into that door?"[pcms]
+[ns]航[nse]
+「……このまま、あの扉の中に入れませんか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3203|
 [fc]
 [vo_mar s="maru0452"]
-[ns]Margarita[nse]
-"Considering the narrow space and their numbers. And more[r]
-are still coming out. With that situation... even inside the[r]
-building..."[pcms]
+[ns]マルガリータ[nse]
+「あの狭さに対してあの人数だ。[r]
+　しかも、まだ出てくる。[r]
+　あの様子では……建物の中も……」[pcms]
 
 *3204|
 [fc]
-[ns]Wataru[nse]
-"If that happens..."[pcms]
+[ns]航[nse]
+「そうなったら……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3205|
 [fc]
 [vo_mar s="maru0453"]
-[ns]Margarita[nse]
-"We'll turn back before we're completely surrounded!"[pcms]
+[ns]マルガリータ[nse]
+「完全にはさまれる前に引き返すぞ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -256,16 +257,16 @@ building..."[pcms]
 
 *3206|
 [fc]
-Senpai took off her backpack and readied a mop. Her gallant[r]
-figure was like a scene from a kung fu movie.[pcms]
+先輩は背負っていた荷物を降ろし、モップを構える。[r]
+その凛々しい姿は、まるでカンフー映画の１シーンのようだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3207|
 [fc]
 [vo_mar s="maru0454"]
-[ns]Margarita[nse]
-"Haa! Taa!! Yaa!!"[pcms]
+[ns]マルガリータ[nse]
+「はあっ！　たあっ！！　やあっ！！」[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
@@ -287,9 +288,8 @@ figure was like a scene from a kung fu movie.[pcms]
 
 *3208|
 [fc]
-The mop swung by Senpai swept the legs of the three leading[r]
-infected coming out of the door, struck their chests, and[r]
-made them fall over.[pcms]
+先輩の振るったモップが、扉から出てくる感染者たちの[r]
+先頭の三人の足を払い、胸を突き、転倒させる。[pcms]
 
 ;//se004・人が倒れる音
 [se buf=0 storage="se004"]
@@ -302,43 +302,41 @@ made them fall over.[pcms]
 
 *3209|
 [fc]
-They fell like dominoes, one after another, becoming unable[r]
-to move.[pcms]
+連中は将棋倒しのように次々と倒れて、[r]
+身動きが取れなくなってしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3210|
 [fc]
 [vo_mar s="maru0455"]
-[ns]Margarita[nse]
-"Let's go!"[pcms]
+[ns]マルガリータ[nse]
+「行くぞっ！」[pcms]
 
 *3211|
 [fc]
-Senpai then headed back through the underground passage[r]
-towards the general office building.[pcms]
+先輩はそのまま、総合庁舎側に地下道を戻って行く。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3212|
 [fc]
 [vo_yuh s="yuho0270"]
-[ns]Yuuho[nse]
-"Senpai, your luggage!"[pcms]
+[ns]悠帆[nse]
+「先輩、荷物を！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3213|
 [fc]
 [vo_mar s="maru0456"]
-[ns]Margarita[nse]
-"With that number of people, we won't be able to move if we[r]
-have luggage!"[pcms]
+[ns]マルガリータ[nse]
+「あの人数だと、荷物があったら身動きが取れない！」[pcms]
 
 *3214|
 [fc]
-Saying that, Senpai took off her light and gripped the mop[r]
-tightly, then ran away from me and Yuuho.[pcms]
+そう言いながら先輩はライトを身体から下げて、[r]
+モップを握りしめると、ボクと悠帆から走り去って行く。[pcms]
 
 ;//se052・コンクリートの上を走る（一人）
 [se buf=0 storage="se052"]
@@ -348,16 +346,16 @@ tightly, then ran away from me and Yuuho.[pcms]
 
 *3215|
 [fc]
-[ns]Wataru[nse]
-"Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3216|
 [fc]
 [vo_yuh s="yuho0271"]
-[ns]Yuuho[nse]
-"Yeah...!"[pcms]
+[ns]悠帆[nse]
+「うんっ……」[pcms]
 
 ;//se089・重たい荷物をどさっと置く
 ;//[se buf=0 storage="se089"]
@@ -367,7 +365,7 @@ tightly, then ran away from me and Yuuho.[pcms]
 
 *3217|
 [fc]
-We both dropped our luggage on the spot and followed Senpai.[pcms]
+ボクも悠帆も荷物をその場に下ろして、先輩に続いた。[pcms]
 
 ;//場面転換
 ;//@konya 悠帆 制服
@@ -380,8 +378,8 @@ We both dropped our luggage on the spot and followed Senpai.[pcms]
 
 *3218|
 [fc]
-[ns]Infected Student H[nse]
-"The blonde exchange student..."[pcms]
+[ns]感染者・学生Ｈ[nse]
+「金髪の留学……」[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
@@ -389,13 +387,13 @@ We both dropped our luggage on the spot and followed Senpai.[pcms]
 
 *3219|
 [fc]
-[ns]Infected Student H[nse]
-"...gubaa!"[pcms]
+[ns]感染者・学生Ｈ[nse]
+「……ぐばぁ！」[pcms]
 
 *3220|
 [fc]
-[ns]Infected Student G[nse]
-"...Margarita..."[pcms]
+[ns]感染者・学生Ｇ[nse]
+「……マルガリータ……」[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
@@ -403,39 +401,39 @@ We both dropped our luggage on the spot and followed Senpai.[pcms]
 
 *3221|
 [fc]
-[ns]Infected Student G[nse]
-"...gubooh!"[pcms]
+[ns]感染者・学生Ｇ[nse]
+「……ぐぼぉ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3222|
 [fc]
 [vo_mar s="maru0457"]
-[ns]Margarita[nse]
-"Hah! Taa! Tooooh!!"[pcms]
+[ns]マルガリータ[nse]
+「はっ！　たあっ！　とぉおっ！！」[pcms]
 
 *3223|
 [fc]
-Maruko-senpai swung the mop around like a staff technique[r]
-seen in kung fu movies, beautifully knocking down the[r]
-attacking crowd.[pcms]
+マル子先輩はカンフー映画で見る棒術のように見事に[r]
+モップを振り回して、襲ってくる連中をなぎ倒している。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3224|
 [fc]
-[ns]Infected Student F[nse]
-"...Kannagi and the exchange student... two holes... no,[r]
-four...? No, six..."[pcms]
+[ns]感染者・学生Ｆ[nse]
+「……神凪と留学生……穴が二つ～……[r]
+　いや、四つ……？[r]
+　いや、六……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3225|
 [fc]
 [vo_mar s="maru_X0001"]
-[ns]Margarita[nse]
-"Hah!"[pcms]
+[ns]マルガリータ[nse]
+「はっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -446,23 +444,23 @@ four...? No, six..."[pcms]
 
 *3226|
 [fc]
-[ns]Infected Student F[nse]
-"...gubaa!"[pcms]
+[ns]感染者・学生Ｆ[nse]
+「……ぐぶぁ！」[pcms]
 
 *3227|
 [fc]
-It wasn't just the mop. Just like in kung fu movies, in[r]
-between attacks with the mop, she seamlessly let out kicks,[r]
-mowing them down.[pcms]
+いや、モップだけじゃない。[r]
+これまたカンフー映画のように、モップでの攻撃の合間には[r]
+隙なくキックが飛び出し、あいつらをなぎ倒していた。[pcms]
 
 *3228|
 [fc]
-But...[pcms]
+だけど……。[pcms]
 
 *3229|
 [fc]
-[ns]Infected Student H[nse]
-"...the blonde exchange..."[pcms]
+[ns]感染者・学生Ｈ[nse]
+「……き、金髪の留学……」[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
@@ -473,21 +471,21 @@ But...[pcms]
 *3230|
 [fc]
 [vo_mar s="maru0458"]
-[ns]Margarita[nse]
-"Haa!"[pcms]
+[ns]マルガリータ[nse]
+「はあっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3231|
 [fc]
-[ns]Infected Student H[nse]
-"...gubaa!"[pcms]
+[ns]感染者・学生Ｈ[nse]
+「……ぐばぁ！」[pcms]
 
 *3232|
 [fc]
-[ns]Infected Student G[nse]
-"...Mar... Margarita..."[pcms]
+[ns]感染者・学生Ｇ[nse]
+「……マ、マルガリータ……」[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
@@ -498,29 +496,29 @@ But...[pcms]
 *3233|
 [fc]
 [vo_mar s="maru0459"]
-[ns]Margarita[nse]
-"Toh!"[pcms]
+[ns]マルガリータ[nse]
+「とあっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3234|
 [fc]
-[ns]Infected Student G[nse]
-"...guboh!"[pcms]
+[ns]感染者・学生Ｇ[nse]
+「……ぐぼぉ！」[pcms]
 
 *3235|
 [fc]
-[ns]Infected Student F[nse]
-"...Kannagi and the exchange student... six holes..."[pcms]
+[ns]感染者・学生Ｆ[nse]
+「……神凪と留学生……六つの穴ぁ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3236|
 [fc]
 [vo_mar s="maru_X0002"]
-[ns]Margarita[nse]
-"Daa!"[pcms]
+[ns]マルガリータ[nse]
+「だあっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -531,24 +529,24 @@ But...[pcms]
 
 *3237|
 [fc]
-[ns]Infected Student F[nse]
-"...gubaa!"[pcms]
+[ns]感染者・学生Ｆ[nse]
+「……ぐぶぁ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3238|
 [fc]
 [vo_mar s="maru0460"]
-[ns]Margarita[nse]
-"Haa... haa..."[pcms]
+[ns]マルガリータ[nse]
+「はぁ……はぁ…………」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3239|
 [fc]
-[ns]Infected Student H[nse]
-"...the blonde exchange..."[pcms]
+[ns]感染者・学生Ｈ[nse]
+「……き、金髪の留学……」[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
@@ -559,53 +557,52 @@ But...[pcms]
 *3240|
 [fc]
 [vo_mar s="maru0461"]
-[ns]Margarita[nse]
-"Taa!"[pcms]
+[ns]マルガリータ[nse]
+「たあっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3241|
 [fc]
-[ns]Infected Student H[nse]
-"...gubaa!"[pcms]
+[ns]感染者・学生Ｈ[nse]
+「……ぐばぁ！」[pcms]
 
 *3242|
 [fc]
-They keep getting up no matter how many times they're[r]
-knocked down.[pcms]
+倒れても、倒れても、起き上がってくるヤツばかりだ。[pcms]
 
 *3243|
 [fc]
-More precisely, while some do fall properly, the ones coming[r]
-from behind push towards us, causing those who were about to[r]
-fall to get back up again.[pcms]
+正確には、うまく倒れてくれるヤツもいるけど、[r]
+後から来るやつがこっちへと押してくるせいで、[r]
+後に倒れかけたところで起き上がってくる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3244|
 [fc]
 [vo_mar s="maru0462"]
-[ns]Margarita[nse]
-"Really... what a density..."[pcms]
+[ns]マルガリータ[nse]
+「まったく……なんて密度だ……」[pcms]
 
 *3245|
 [fc]
-Senpai, while panting, continues to attack trying to knock[r]
-them sideways as much as possible, but it's not going as[r]
-smoothly as it did in front of the door earlier.[pcms]
+先輩も息を乱れさせながら、[r]
+なるべく横凪に倒そうと攻撃しているものの、[r]
+なかなかさっきの扉の前のようには行かない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3246|
 [fc]
 [vo_mar s="maru0463"]
-[ns]Margarita[nse]
-"...Hah! Taa! ...Tooooh!"[pcms]
+[ns]マルガリータ[nse]
+「……はっ！　たあっ！　……とぉおっ！」[pcms]
 
 *3247|
 [fc]
-Still, Senpai continues to fight them without giving up.[pcms]
+それでも先輩は、いまだあきらめずにあいつらと戦い続けている。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -615,18 +612,18 @@ Still, Senpai continues to fight them without giving up.[pcms]
 
 *3248|
 [fc]
-[ns]Wataru[nse]
-"I'll help you!"[pcms]
+[ns]航[nse]
+「手伝いますっ！」[pcms]
 
 *3249|
 [fc]
-I put the lantern on the floor and, holding the mop, moved[r]
-to support Senpai.[pcms]
+ボクは床にランタンを置くと、[r]
+モップを構えて、先輩のフォローに回る。[pcms]
 
 *3250|
 [fc]
-[ns]Wataru[nse]
-"Taa!"[pcms]
+[ns]航[nse]
+「たあっ！」[pcms]
 
 ;//se012・打撃音
 [se buf=0 storage="se012"]
@@ -637,158 +634,159 @@ to support Senpai.[pcms]
 
 *3251|
 [fc]
-Imitating Senpai and swinging the mop with a feeble battle[r]
-cry, it hit its mark and knocked down one of the crazed[r]
-ones.[pcms]
+先輩の真似をして、ヘタれた気合を出しながら振り回した[r]
+モップはうまくあたって、おかしくなった奴を転倒させた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3252|
 [fc]
 [vo_mar s="maru0464"]
-[ns]Margarita[nse]
-"Not bad at all, Wataru."[pcms]
+[ns]マルガリータ[nse]
+「うまいじゃないかワタル」[pcms]
 
 *3253|
 [fc]
-[ns]Wataru[nse]
-"I just imitated you, Senpai."[pcms]
+[ns]航[nse]
+「先輩の真似をしただけです」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3254|
 [fc]
 [vo_yuh s="yuho0272"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3255|
 [fc]
 [vo_yuh s="yuho0273"]
-[ns]Yuuho[nse]
-"I-I also want to do something..."[pcms]
+[ns]悠帆[nse]
+「わっ、わたしも……なにか……」[pcms]
 
 *3256|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, you need to run!"[pcms]
+[ns]航[nse]
+「悠帆は逃げるんだっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3257|
 [fc]
 [vo_yuh s="yuho0274"]
-[ns]Yuuho[nse]
-"But, that's so..."[pcms]
+[ns]悠帆[nse]
+「えっ、だってそんな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3258|
 [fc]
 [vo_mar s="maru0465"]
-[ns]Margarita[nse]
-"Kannagi doesn't have a weapon, does she... haa!"[pcms]
+[ns]マルガリータ[nse]
+「カンナギは武器を持っていないだろ……はぁ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3259|
 [fc]
 [vo_yuh s="yuho0275"]
-[ns]Yuuho[nse]
-"That's true but..."[pcms]
+[ns]悠帆[nse]
+「それはそうですけど……」[pcms]
 
 *3260|
 [fc]
-Feeling guilty about running away without doing anything by[r]
-herself, Yuuho said such things and Senpai advised her.[pcms]
+自分ひとり何もせずに逃げるということに[r]
+引け目を感じたのか、そんなことを言う悠帆を先輩が諭す。[pcms]
 
 *3261|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho, you need to run! Leave this to us!"[pcms]
+[ns]航[nse]
+「……悠帆は逃げるんだっ！　ここはボクたちに任せてっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3262|
 [fc]
 [vo_yuh s="yuho0276"]
-[ns]Yuuho[nse]
-"But..."[pcms]
+[ns]悠帆[nse]
+「で、でも……」[pcms]
 
 *3263|
 [fc]
-[ns]Wataru[nse]
-"It's okay... If Yuuho doesn't run away, we can't..."[pcms]
+[ns]航[nse]
+「大丈夫だから……。[r]
+　悠帆が逃げてくれないと、ボクたちは……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3264|
 [fc]
 [vo_yuh s="yuho0277"]
-[ns]Yuuho[nse]
-"Ah..."[pcms]
+[ns]悠帆[nse]
+「あっ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3265|
 [fc]
-I turned around and gestured behind us with my chin.[pcms]
+ボクが振り向いて、後を顎で指すように示す。[pcms]
 
 *3266|
 [fc]
-[ns]Infected Person - Male K[nse]
-"...a woman... she's close..."[pcms]
+[ns]感染者・男Ｋ[nse]
+「……おんなぁ……近いぞぉ……」[pcms]
 
 *3267|
 [fc]
-[ns]Infected Man L[nse]
-"A woman... a woman..."[pcms]
+[ns]感染者・男Ｌ[nse]
+「女……女だぁ……」[pcms]
 
 *3268|
 [fc]
-[ns]Infected - Male M[nse]
-"Let me have her~. Let me eat~"[pcms]
+[ns]感染者・男Ｍ[nse]
+「やらせろっ～。食わせろぉ～～」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3269|
 [fc]
 [vo_mar s="maru0466"]
-[ns]Margarita[nse]
-"At this rate, we'll be caught in a pincer attack. Kannagi![r]
-You run first!"[pcms]
+[ns]マルガリータ[nse]
+「このままでは、挟み撃ちになる。[r]
+　カンナギ！[r]
+　まずはキミから逃げるんだ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3270|
 [fc]
 [vo_yuh s="yuho0278"]
-[ns]Yuuho[nse]
-"Yes...!"[pcms]
+[ns]悠帆[nse]
+「は、はいっ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3271|
 [fc]
-Realizing the crazed people who had gotten up and caught up[r]
-from behind, Yuuho agreed with what we said.[pcms]
+起き上がり、追いついて来た背後のおかしくなった人たちに[r]
+気がついた悠帆はボクたちの言うことに納得する。[pcms]
 
 *3272|
 [fc]
-[ns]Infected Student F[nse]
-"...Kannagi~ let me..."[pcms]
+[ns]感染者・学生Ｆ[nse]
+「……神凪～やら……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3273|
 [fc]
 [vo_mar s="maru0467"]
-[ns]Margarita[nse]
-"Haa!"[pcms]
+[ns]マルガリータ[nse]
+「はあっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -802,87 +800,88 @@ from behind, Yuuho agreed with what we said.[pcms]
 
 *3274|
 [fc]
-[ns]Infected Student F[nse]
-"...Gubaa!"[pcms]
+[ns]感染者・学生Ｆ[nse]
+「……ぐぶぁ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3275|
 [fc]
 [vo_mar s="maru0468"]
-[ns]Margarita[nse]
-"Wataru! We need to make a path for Kannagi to escape! Then[r]
-we'll follow!"[pcms]
+[ns]マルガリータ[nse]
+「ワタル！[r]
+　カンナギの逃げる道を作るぞっ！[r]
+　そこからワタシたちも！」[pcms]
 
 *3276|
 [fc]
-[ns]Wataru[nse]
-"Y-Yes!"[pcms]
+[ns]航[nse]
+「は、はいっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3277|
 [fc]
-I hurriedly looked around at the crazed students approaching[r]
-us, following Senpai's words.[pcms]
+ボクは先輩の言葉にあわてて、[r]
+迫ってくるおかしくなった学生たちを見回す。[pcms]
 
 *3278|
 [fc]
-While Senpai and I were pushing them back, a gap formed in[r]
-the crowd, like a valley with less density.[pcms]
+先輩とボクとが押し返しているうちに人ごみがひずんで、[r]
+ちょうど谷間のように密度の薄いところができている。[pcms]
 
 *3279|
 [fc]
-There were more of them approaching Senpai, and because she[r]
-kept knocking them down one after another, that's why.[pcms]
+先輩に迫ってくる奴の方が多くて、[r]
+それが次々と先輩に倒されているせいだ。[pcms]
 
 *3280|
 [fc]
-Alright, that spot there...[pcms]
+よしっ、あそこなら……。[pcms]
 
 *3281|
 [fc]
-I braced myself with the mop held sideways in both hands,[r]
-like in a kung-fu movie, and pushed the approaching students[r]
-to the side to block their way.[pcms]
+ボクはやっぱりカンフー映画のように両手を思いっきり前に[r]
+伸ばしてモップを横に持って構えると、そのまま迫ってくる[r]
+学生たちを通せんぼするように外側へと押しのける。[pcms]
 
 *3282|
 [fc]
-[ns]Wataru[nse]
-"Waaaaahhh!!"[pcms]
+[ns]航[nse]
+「わあああぁ～～っ！！」[pcms]
 
 *3283|
 [fc]
-Just like in a movie where the sea splits open, the crowd[r]
-was cleaved apart.[pcms]
+まるで映画で海面が割れるようにパックリと人ごみが裂けた。[pcms]
 
 *3284|
 [fc]
-[ns]Wataru[nse]
-"Now's the chance! Yuuho!!"[pcms]
+[ns]航[nse]
+「いまだ！　悠帆っ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3285|
 [fc]
 [vo_yuh s="yuho0279"]
-[ns]Yuuho[nse]
-"O-Okay. You have to escape too, Wataru!"[pcms]
+[ns]悠帆[nse]
+「う、うん。[r]
+　絶対、航も逃げてね！」[pcms]
 
 *3286|
 [fc]
-[ns]Wataru[nse]
-"Yeah, I'll definitely catch up!"[pcms]
+[ns]航[nse]
+「ああ、絶対に追いつくよ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3287|
 [fc]
 [vo_yuh s="yuho0280"]
-[ns]Yuuho[nse]
-"You better! I have something I want to confess to you,[r]
-Wataru!"[pcms]
+[ns]悠帆[nse]
+「絶対だからね！[r]
+　わたしっ、航に告白したいことがあるんだからっ！」[pcms]
 
 [chara_int][trans_c cross time=150]
 ;//se052・コンクリートの上を走る（一人）
@@ -890,175 +889,178 @@ Wataru!"[pcms]
 
 *3288|
 [fc]
-Shouting that, Yuuho ran past me.[pcms]
+そう叫びながら、悠帆はボクの後を駆け抜けていった。[pcms]
 
 ;//@konya char_clear
 ;//<ImageInit 5><UpDate Cross,100>
 
 *3289|
 [fc]
-Dodging grasping hands and leaping over fallen people, Yuuho[r]
-made her way through. With this, she should be safe for now.[r]
-Next, it's our turn to escape...[pcms]
+迫る手をくぐりぬけ、倒れた人を飛び越えて行く悠帆。[r]
+これで、ひとまずは安心だ。[r]
+次はボクたちが逃げる番だ……。[pcms]
 
 *3290|
 [fc]
-[ns]Wataru[nse]
-"Senpai! We should also..."[pcms]
+[ns]航[nse]
+「先輩っ！　ボクたちも……」[pcms]
 
 *3291|
 [fc]
 [vo_ren s="ren0381"]
 [ns]？？？[nse]
-"Big brother is so cool~"[pcms]
+「お兄ちゃんかっこいい～」[pcms]
 
 *3292|
 [fc]
-A familiar voice could be heard from within the crowd.[pcms]
+聞き覚えのある声が人ごみの中から聞こえてくる。[pcms]
 
 *3293|
 [fc]
-[ns]Wataru[nse]
-"Ren...!?"[pcms]
+[ns]航[nse]
+「漣……っ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3294|
 [fc]
 [vo_ren s="ren0382"]
-[ns]Ren[nse]
-"Big brother..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 *3295|
 [fc]
-Expressionlessly pushing through the crazed people, Ren[r]
-appeared before me.[pcms]
+おかしくなった人たちを無表情でかき分けて、[r]
+漣がボクの前に姿を現した。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3296|
 [fc]
 [vo_ren s="ren0383"]
-[ns]Ren[nse]
-"Big brother can become so cool for Yuuho-chan's sake... It[r]
-makes me want to pout~"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……悠帆ちゃんのためには[r]
+　あんなにカッコよくなれるんだ……。[r]
+　シットしちゃうな～」[pcms]
 
 *3297|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3298|
 [fc]
 [vo_ren s="ren0384"]
-[ns]Ren[nse]
-"But soon... you'll be one of us, right big brother?"[pcms]
+[ns]漣[nse]
+「だけど、もうすぐ……お兄ちゃんは私たちの仲間だよ？」[pcms]
 
 *3299|
 [fc]
-[ns]Wataru[nse]
-"No, I don't want to... I have to..."[pcms]
+[ns]航[nse]
+「い、いやだ……。[r]
+　ボクは……」[pcms]
 
 *3300|
 [fc]
-I have to catch up to Yuuho... that's what I promised.[pcms]
+ボクは悠帆に追いつかなきゃ……そう約束したんだ。[pcms]
 
 *3301|
 [fc]
 [vo_ren s="ren0385"]
-[ns]Ren[nse]
-"It's okay, it won't hurt... So it's Yuuho-chan, huh..."[pcms]
+[ns]漣[nse]
+「大丈夫だよ、いたくしないし……。[r]
+　そっか悠帆ちゃんかぁ……」[pcms]
 
 *3302|
 [fc]
-Ren chuckled softly.[pcms]
+漣はくすくすと笑う。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3303|
 [fc]
 [vo_ren s="ren0386"]
-[ns]Ren[nse]
-"Don't worry... I won't say 'kill' anymore. Because soon[r]
-Yuuho-chan will join us too..."[pcms]
+[ns]漣[nse]
+「大丈夫だから……もうコロすなんて言わない。[r]
+　だって、すぐに悠帆ちゃんも仲間になるんだから……」[pcms]
 
 *3304|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *3305|
 [fc]
 [vo_ren s="ren0387"]
-[ns]Ren[nse]
-"Because look... Even Senpai is already..."[pcms]
+[ns]漣[nse]
+「だってほら……。[r]
+　先輩だって……もうっ……」[pcms]
 
 *3306|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「えっ……？」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3307|
 [fc]
-Frightened by Ren's ominous words, I hesitantly looked[r]
-back...[pcms]
+漣の不気味な言葉にボクが恐る恐る振り向くと……。[pcms]
 
 *3308|
 [fc]
 [vo_mar s="maru0469"]
-[ns]Margarita[nse]
-"Uuuuh... Aaah..."[pcms]
+[ns]マルガリータ[nse]
+「うううっ……ああっ……」[pcms]
 
 *3309|
 [fc]
-There was Senpai... with her legs spread wide open and[r]
-flipped over...[pcms]
+そこには……。[r]
+大きく足を開かれて……[r]
+そのままひっくり返されたマル子先輩の姿が……。[pcms]
 
 ;//@konya 追加テキスト　ここから------------------------------
 
 *3310|
 [fc]
-Senpai was swarmed by several men and dragged into the[r]
-darkness without even a chance to scream.[pcms]
+先輩は何人もの男達に群がられ、叫び声すらあげる間もなく、[r]
+暗闇の中へと引きずられていった。[pcms]
 
 *3311|
 [fc]
-Shocked by the sudden event, as I tried to follow, I was[r]
-suddenly pushed from behind and fell to the ground.[pcms]
+突然の事に驚き、追いかけようとしたボクは、[r]
+急に背中を突き飛ばされ、その場に倒れ込んでしまった。[pcms]
 
 *3312|
 [fc]
-[ns]Wataru[nse]
-"Guh... Ah!"[pcms]
+[ns]航[nse]
+「ぐっ……あっ！」[pcms]
 
 *3313|
 [fc]
-I hit my head hard on the ground and writhed in pain.[pcms]
+ボクは地面に頭をしたたかに打ち付け、その場でもんどり打った。[pcms]
 
 *3314|
 [fc]
-Looking around, some of the crazed people were walking[r]
-towards where Senpai was dragged off.[pcms]
+周りを見渡すと、何人かのおかしな人達が、[r]
+先輩が引きずられて行った方へと歩いていく。[pcms]
 
 *3315|
 [fc]
-I was pushed by these guys...[pcms]
+ボクは、コイツらに突き飛ばされたんだ……。[pcms]
 
 *3316|
 [fc]
-Determined to save Senpai and filled with anger at those who[r]
-had done this to me, I tried to stand up and chase after[r]
-them.[pcms]
+先輩を助けなきゃ、という一心と、[r]
+ボクをこんな目に遭わせたヤツらに怒りを覚え、[r]
+立ち上がり、追いかけようとした。[pcms]
 
 *3317|
 [fc]
-But maybe because I hit my head, my body wouldn't listen to[r]
-me.[pcms]
+だけど、頭を打ったせいか、ボクの身体は言う事を聞かなかった。[pcms]
 
 ;//@konya 追加テキスト　ここまで------------------------------
 
@@ -1072,31 +1074,31 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0470"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「や、やめろ……」
 ;//
-[ns]Infected Student G[nse]
-;//「マルガリータァ　よくも俺を……」
+;//[ns]感染者・学生Ｇ[nse]
+;//「マルガリータァ～　よくも俺を……」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0471"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ううっ……あっ……お、お前は……」
 ;//
-[ns]Infected Student G[nse]
-;//「そうだぁ。俺はお前にフラれたんだ。
-;//　よくも俺を袖にしやがったな」
+;//[ns]感染者・学生Ｇ[nse]
+;//「そうだぁ～。俺はお前にフラれたんだ～。
+;//　よくも俺を袖にしやがったな～」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0472"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「な、なにを勝手なことをっ！」
 ;//
 ;//先輩は上にのしかかっている男を押しのけようともがく。
 ;//だけど、そこらじゅうから伸びた手が先輩を
 ;//身動きできなくさせていて……。
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「ははははっ……。
 ;//　で、でも、こうやってお前とヤレるチャンスがキター」
 ;//
@@ -1107,7 +1109,7 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0473"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「きゃああっ！　ああっ！」
 ;//
 ;//先輩の悲鳴があたりに響き渡った。
@@ -1121,16 +1123,16 @@ me.[pcms]
 ;//
 ;//先輩の足のあいだの柔らかそうな金色の蔭りが姿を現す。
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「し、下の毛も金髪だぁ……。
 ;//　なんだ……濡れてるじゃないか……」」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0474"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「あ、ああっ……そ、それは……」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「ごまかすなよ……。
 ;//　い、いま、俺のものを入れてやるからなっ！」
 ;//
@@ -1145,12 +1147,12 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0475"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「や、やめろ……そんなおぞましいものっ！
 ;//　いやだっ！
 ;//　ワタシはイヤだ！」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「そんなに濡らして……。
 ;//　ウソつくんじゃねぇ！！」
 ;//
@@ -1158,26 +1160,26 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0476"]
-[ns]Margarita[nse]
-;//「いやぁああっ！　ややぁああっ！！」
+;//[ns]マルガリータ[nse]
+;//「いやぁああっ！　ややぁああ～～～～～～～っ！！」
 ;//
 ;//マル子先輩の口から悲痛極まりない絶叫が放たれた。
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「おおっ……マルガリータの中……キツくて熱いぜぇ……！」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0477"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「いやぁあ！　や、やめろっ！！　ああっ！！」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「なんだかヌルヌルとして熱いと思ったら……
 ;//　処女だったのかぁ」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0478"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ううっ……いたいぃっ！　いたいいっ！
 ;//　あうっ！　やめぇ！　いやだぁ！
 ;//　いやああっ！！」
@@ -1196,7 +1198,7 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0479"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ううっ……いやぁっ！　いたいいっ！！
 ;//　や、やめっ！！　いやああっ！！」
 ;//　やめろっ！！　あ゛ああっ！！」
@@ -1205,21 +1207,21 @@ me.[pcms]
 ;//
 ;//このままじゃ……先輩はっ！
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「先輩っ！！」
 ;//
 ;//そこまでなって、ボクはやっと正気を取り戻して、
 ;//先輩を助けようと身体を動かす。
 ;//だけど……。
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「うっ……！
 ;//　ああっ……モップがっ！！」
 ;//
 ;//よそ見をしている間にボクは唯一の武器であるモップを、
 ;//押しのけたヤツラにしっかりと握られてしまっていた。
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「は、離せっ……！
 ;//　やめろっ！　離せっ！！」
 ;//
@@ -1227,7 +1229,7 @@ me.[pcms]
 ;//もがいているうちに、ボクの身体のあちこちが
 ;//おかしくなった奴らにつかまれていた。
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「離せっ！　離せぇ！！」
 ;//
 ;//ボクはなんとかして、振りほどこうと必死なって、
@@ -1235,7 +1237,7 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0480"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「いっ……いやだぁ！　やめろぉっ！
 ;//　いっ、いたいっ！　いたいいっ！！
 ;//　いやああっ！　いやあああっ！！」
@@ -1243,17 +1245,17 @@ me.[pcms]
 ;//先輩の悲痛な叫びがこんなに聞こえて来てるというのに、
 ;//ボクは助けるどころか身動きすらできないでいる。
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「いいっ！
-;//　マルガリータのしょじょまんこぉおっ！」
+;//　マルガリータのしょじょまんこぉ～～おっ！」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0481"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ううっ……あうっ……！　いたあっ！　やめろっ！！
 ;//　駄目！　いやあぁ！！」
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「ちくしょう！
 ;//　どけろっ！　どけろっ！　どけろぉ！！」
 ;//
@@ -1263,11 +1265,11 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0482"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「う゛う゛っ……いひゃああっ！
 ;//　いっ！　いたいっ！　いやあっ！　いやああっ！！」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「同じような悲鳴ばかりで……。
 ;//　いいかげん……うるさいなっ……」
 ;//
@@ -1275,7 +1277,7 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0483"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「うぶっっ！！」
 ;//
 ;//先輩を犯してる奴は、引きちぎった下着を丸めると
@@ -1283,54 +1285,54 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0484"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「う゛ぶぶっ……。
 ;//　んんっ！　んんっ！！」
 ;//
-[ns]Infected Student G[nse]
-;//「やっと、しずかになった」
+;//[ns]感染者・学生Ｇ[nse]
+;//「やっと、しずかになった～」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0485"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「うう゛っ……。
-;//　んんっ……。んんっ！！」
+;//　んんっ……。んんっ～～～～！！」
 ;//
 ;//口を塞がれ、ほとんど嗚咽だけになりつつあった
 ;//先輩の口からはくぐもったうめきが漏れるだけになる。
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「こここ、こうやって……おまえをれいぷしたいって……
 ;//　ずっと、おおお、おもってたんだぁ……」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0486"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「んう゛っ……。
-;//　んんっ！！
-;//　んんっ！！」
+;//　んんっ～～～！！
+;//　んんっ～～～～！！」
 ;//
-[ns]Infected Student G[nse]
-;//「や、やっぱり、いいもんだな。
-;//　こうやって、きぐらいのたかいおんなを
-;//　めめめ、めすぶたみたいにしちまうのは」
+;//[ns]感染者・学生Ｇ[nse]
+;//「や、やっぱり、いいもんだな～。
+;//　こうやって、きぐらいのたかいおんなを～
+;//　めめめ、めすぶたみたいにしちまうのは～」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0487"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「んんっ！！
-;//　んっ！！」
+;//　んっ～～～～！！」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「おおお、おれはずっと、こうやっておまえを
-;//　むちゃくちゃにおかしてやりたかったんだぁ！！」
+;//　むちゃくちゃにおかしてやりたかったんだぁ～！！」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0488"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「あうう゛っ！！
 ;//　ううんっ……。
-;//　んんっ！！」
+;//　んんっ～～～！！」
 ;//
 ;//そいつは喋れない先輩を楽しそうにむちゃくちゃに
 ;//犯し続ける。激しく出し入れされる膨れ上がったモノ。
@@ -1339,7 +1341,7 @@ me.[pcms]
 ;//先輩のアソコからは薄まって、
 ;//とろりとした透明感のある血が零れ落ちた。
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「やめろっ！　やめろぉ！！」
 ;//
 ;//無駄だと思いながらも叫ばずにはいられない。
@@ -1350,17 +1352,17 @@ me.[pcms]
 ;//それできっと呆然と看過してしまった……。
 ;//ボクはそんな自分が許せなくて……。
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「いいっ！　しまるぞぉ……！！
 ;//　ううっ！　でそうだぁ！！」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0489"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「うう゛っ！！
-;//　んんっ！！　んんっ！！」
+;//　んんっ！！　んんっ～～！！」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「で、でるっ！！
 ;//　でたぁあぁ！！」
 ;//
@@ -1370,21 +1372,21 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0490"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「あうう゛っ……。
 ;//　あんんっ……。んんっ！！
-;//　んんっ！！」
+;//　んん～～～～っ！！」
 ;//
 ;//先輩が身体を震わせて、身をよじる。
 ;//先輩のアソコからは血の滲んだ白濁がこぼれだしていた。
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「ああっ、いいっ……。
-;//　がいじんおんなのまんこさいこっだぁ！！」
+;//　がいじんおんなのまんこさいこ～っだぁ！！」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0491"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「うう゛っ……！！
 ;//　んん……すっ……。
 ;//　んんすっ……！！」
@@ -1395,13 +1397,13 @@ me.[pcms]
 ;//先輩はすっかり泣きはらした涙目になっても
 ;//「殺す」と言いたげな怒りの視線で男を睨んでいる。
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「ううっ……。
 ;//　いいしまりだぁ……まだほしいのか？」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0492"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「いうう゛っ！！
 ;//　んんすっ！　んんすぅ！！」
 ;//
@@ -1410,22 +1412,22 @@ me.[pcms]
 ;//
 ;//;//　差分表示？
 ;//
-[ns]Infected Student H[nse]
+;//[ns]感染者・学生Ｈ[nse]
 ;//「お、おれもぉ……」
 ;//
 ;//さらにもう一人、先輩へとおかしくなった奴がたかっていく。
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0493"]
-[ns]Margarita[nse]
-;//「んんっ！　んんっ！！」
+;//[ns]マルガリータ[nse]
+;//「んんっ！　んん～っ！！」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「これは……おれのあなだぁ……」
 ;//
-[ns]Infected Student H[nse]
-;//「ひとりじめするなよ。
-;//　まあ、いいか……あなはもうひとつある」
+;//[ns]感染者・学生Ｈ[nse]
+;//「ひとりじめするなよ～。
+;//　まあ、いいか……あなはもうひとつある～」
 ;//
 ;//そう言うと、そいつは先輩の白いお尻の割れ目を押し開く。
 ;//そして、その間に見える鮮やかなピンクのすぼまりに
@@ -1435,21 +1437,21 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0494"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ひぐううっ！！
 ;//　ひぎいい゛っ！！　ひぎいっ！！」
 ;//
 ;//先輩の顔が苦痛にゆがみ、声になっていれば、
 ;//いかに悲痛な叫びなのかが分かるような気がした。
 ;//
-[ns]Infected Student H[nse]
+;//[ns]感染者・学生Ｈ[nse]
 ;//「いいっ！
 ;//　りゅうがくせいのしりのあな……。
-;//　しまりがいいっ！」
+;//　しまりがいいっ～！」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0495"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ひぎいっ！！
 ;//　ひぎっ！！
 ;//　ひぎいいぃいっ！！」
@@ -1457,7 +1459,7 @@ me.[pcms]
 ;//先輩のピンクのすぼまりは男のモノで乱暴に
 ;//おしひろげられて、おおきくめくれかえってしまう。
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「………………っ！」
 ;//
 ;//前後に乱暴に男の肉の棒をねじ込まれて、
@@ -1469,17 +1471,17 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0496"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ひぐうっ！！
 ;//　ひぎい゛っ！！　ひぎいいいっ！！
 ;//　いひゃあ！　いひゃあああっ！！」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「うううっ！
 ;//　しまるぅ……。
-;//　ますますしまって……いいっ！！」
+;//　ますますしまって……いい～っ！！」
 ;//
-[ns]Infected Student H[nse]
+;//[ns]感染者・学生Ｈ[nse]
 ;//「しりもいいぞぉ……。
 ;//　きつくてぇ……くいちぎられそうだぁ……」
 ;//
@@ -1488,15 +1490,15 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0497"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ひぐううっ！！
 ;//　ひぎい゛いいっ！！
 ;//　ひぎっ！！　ひぎいいっ！！」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「だめだぁ……このまま、でるぅ！！」
 ;//
-[ns]Infected Student H[nse]
+;//[ns]感染者・学生Ｈ[nse]
 ;//「ううっ……おれもだぁ！！」
 ;//
 ;//;//　射精エフェクト
@@ -1505,7 +1507,7 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0498"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ひぎいいいいいっ！！
 ;//　ひぎゃああ゛っ！！　んああっ……！！」
 ;//
@@ -1515,7 +1517,7 @@ me.[pcms]
 ;//それを見たボクはやっぱり先輩を助けなきゃと思った。
 ;//こんなこと……こんなこと許されちゃいけないっ！
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「やめろっ！
 ;//　やめるんだっ！！
 ;//　先輩を放せっ！！」
@@ -1524,7 +1526,7 @@ me.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0499"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「んんっ……んんんっ……。
 ;//　ひううっ……。　んんっ……」
 ;//
@@ -1537,20 +1539,21 @@ me.[pcms]
 
 *3318|
 [fc]
-My body could only watch as Senpai disappeared into the[r]
-distance.[pcms]
+ボクの身体は先輩が消えていくのを、ただ見ている事しかできずにいた。[pcms]
 
 ;//@konya　テキスト追加　ここまで-------------------------------
 
 *3319|
 [fc]
-[ns]Wataru[nse]
-"You bastards! I won't forgive you! I won't forgive you!!"[pcms]
+[ns]航[nse]
+「お前らっ！[r]
+　許さないっ！[r]
+　許さないぞっ！！」[pcms]
 
 *3320|
 [fc]
-I struggled with rage once more. But still, my body wouldn't[r]
-move.[pcms]
+ボクは怒りに任せてもう一度もがく。[r]
+でも、やっぱり身体は動かない。[pcms]
 
 ;//@konya　テキスト削除　ここから-------------------------------
 ;//
@@ -1559,7 +1562,7 @@ move.[pcms]
 ;//
 ;//;//　シェイク
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「うわっ……ううっ！！」
 ;//
 ;//しかし、逆にボクはそのまま、押しのけられ
@@ -1574,144 +1577,151 @@ move.[pcms]
 
 *3321|
 [fc]
-The pain in my head was so intense that I could barely make[r]
-a sound. But still, I strained my voice.[pcms]
+頭の痛みで、声すら満足に出せなかった。[r]
+だけど、ボクは声を絞り出す。[pcms]
 
 ;//@konya　テキスト追加　ここまで-------------------------------
 
 *3322|
 [fc]
-[ns]Wataru[nse]
-"...damn it... Damn it...nngh!!"[pcms]
+[ns]航[nse]
+「……ちく……しょう……。[r]
+　……ちくしょ……んんっ！！」[pcms]
 
 *3323|
 [fc]
-A cool sensation pressed against my cheek made me[r]
-inadvertently swallow my words of anger.[pcms]
+ボクの頬にひんやりとしたものが当てられて、[r]
+思わず怒りの言葉を飲み込んでしまう。[pcms]
 
 *3324|
 [fc]
-It was cold and smooth... something familiar.[pcms]
+それは冷たくて、すべすべしてて……[r]
+どこか覚えのあって……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3325|
 [fc]
 [vo_ren s="ren0388"]
-[ns]Ren[nse]
-"Big brother..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 *3326|
 [fc]
-...It was Ren's hand. Ren's hand was gently, tenderly[r]
-touching my cheek.[pcms]
+……漣の手だった。[r]
+漣の手がボクの頬にそっと、そっとやさしく触れていた。[pcms]
 
 *3327|
 [fc]
 [vo_ren s="ren0389"]
-[ns]Ren[nse]
-"I told you it would be okay... Big brother, you're such a[r]
-worrywart~"[pcms]
+[ns]漣[nse]
+「大丈夫だっていったのに……。[r]
+　お兄ちゃんったら～」[pcms]
 
 *3328|
 [fc]
-[ns]Wataru[nse]
-"...Okay? How is any of this okay!?"[pcms]
+[ns]航[nse]
+「……大丈夫って……どこが！？」[pcms]
 
 *3329|
 [fc]
 [vo_ren s="ren0390"]
-[ns]Ren[nse]
-"It's okay... Everyone starts off like that... But soon,[r]
-it'll feel good..."[pcms]
+[ns]漣[nse]
+「大丈夫だよ……。[r]
+　みんな最初はあんな風だったの……。[r]
+　でも、すぐに気持ちよくなるから……」[pcms]
 
 *3330|
 [fc]
-Her voice was a bit drawn out, but it was the usual Ren,[r]
-trying to reason with me.[pcms]
+少し間延びした感じだけど、[r]
+いつものボクを諭すような漣の声。[pcms]
 
 *3331|
 [fc]
 [vo_ren s="ren0391"]
-[ns]Ren[nse]
-"Before you know it, you'll want it yourself..."[pcms]
+[ns]漣[nse]
+「そのうち自分から……欲しくなっちゃうの……」[pcms]
 
 *3332|
 [fc]
-While saying something so frightening, Ren smiled sweetly[r]
-and stroked my cheek with her hand... her cold hand.[pcms]
+恐ろしいことをいいながら、にっこりと笑って[r]
+ボクの頬をなでる漣の手。[r]
+……冷たい手。[pcms]
 
 *3333|
 [fc]
-As I held my breath, I looked at Ren again and only now[r]
-realized how tattered her clothes had become.[pcms]
+ボクは息をのみながら、改めて漣を見つめて、[r]
+その服がいかにボロボロになっているか、[r]
+いまさら気がついた。[pcms]
 
 *3334|
 [fc]
-[ns]Wataru[nse]
-"Then... Then, did those guys do to Ren what they did to[r]
-Senpai...?"[pcms]
+[ns]航[nse]
+「じゃあ……。[r]
+　じゃあ、漣も先輩みたいに……あいつらに……」[pcms]
 
 *3335|
 [fc]
 [vo_ren s="ren0392"]
-[ns]Ren[nse]
-"No..."[pcms]
+[ns]漣[nse]
+「ううん……」[pcms]
 
 *3336|
 [fc]
-Ren slowly shook her head in response to the question I[r]
-asked hesitantly.[pcms]
+おそるおそるボクが訊いた言葉に[r]
+漣はゆっくりと首を横に振る。[pcms]
 
 *3337|
 [fc]
 [vo_ren s="ren0393"]
-[ns]Ren[nse]
-"I'm different, big brother. I managed to protect myself..."[pcms]
+[ns]漣[nse]
+「私は違うのお兄ちゃん。[r]
+　ちゃんと守りきったの……」[pcms]
 
 *3338|
 [fc]
-Ren whispered to me as she brought her face close to my[r]
-cheek.[pcms]
+漣はボクの頬に顔を寄せながらささやく。[pcms]
 
 *3339|
 [fc]
 [vo_ren s="ren0394"]
-[ns]Ren[nse]
-"I begged the people who came at me to do everything with[r]
-just hands and mouth... Because..."[pcms]
+[ns]漣[nse]
+「襲ってくる人たちに頼んで、[r]
+　全部、手とお口でしたの……。[r]
+　だって……」[pcms]
 
 *3340|
 [fc]
 [vo_ren s="ren0395"]
-[ns]Ren[nse]
-"Because... I wanted to give my pussy and my butt to big[r]
-brother..."[pcms]
+[ns]漣[nse]
+「だって……漣のアソコもおしりも……[r]
+　お兄ちゃんにあげたいんだもの……」[pcms]
 
 *3341|
 [fc]
-[ns]Wataru[nse]
-"Eh... Ren..."[pcms]
+[ns]航[nse]
+「えっ……漣……」[pcms]
 
 *3342|
 [fc]
-I opened and closed my mouth like a goldfish, unable to[r]
-comprehend Ren's words. What is she talking about!?[pcms]
+ボクは漣の言葉に口をパクパクと金魚のように開いてしまう。[r]
+何を言ってるんだ漣は！？[pcms]
 
 *3343|
 [fc]
-[ns]Wataru[nse]
-"Ren... You've gone crazy too..."[pcms]
+[ns]航[nse]
+「漣……。[r]
+　やっぱり、漣もおかしく……」[pcms]
 
 *3344|
 [fc]
 [vo_ren s="ren0396"]
-[ns]Ren[nse]
-"I'm not crazy..."[pcms]
+[ns]漣[nse]
+「おかしくなんて……なってないわ……」[pcms]
 
 *3345|
 [fc]
-Saying that, Ren pressed her lips against mine.[pcms]
+そういって漣は、ボクの唇へと自分の唇を重ねた。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1721,74 +1731,74 @@ Saying that, Ren pressed her lips against mine.[pcms]
 *3346|
 [fc]
 [vo_ren s="ren0397"]
-[ns]Ren[nse]
-"...Mmm... Mmm... Ahh..."[pcms]
+[ns]漣[nse]
+「……んんっ……んっ……あふっ……」[pcms]
 
 *3347|
 [fc]
-Ren's... my sister's tongue entered my mouth as if barging[r]
-in, entangling with my own.[pcms]
+漣の……妹の舌はボクの口の中へと割り込むように[r]
+入ってきて、ボクの舌と絡み合う。[pcms]
 
 *3348|
 [fc]
-A sensation I had never felt before, truly sensual and hot,[r]
-raced up my spine.[pcms]
+これまで感じたことのない、まさに官能的な熱い感覚が[r]
+背筋を駆け上がって行く。[pcms]
 
 *3349|
 [fc]
-[ns]Wataru[nse]
-"Mmm... Mmm... Mmm..."[pcms]
+[ns]航[nse]
+「んんっ……んっ……んっ……」[pcms]
 
 *3350|
 [fc]
 [vo_ren s="ren0398"]
-[ns]Ren[nse]
-"Mmm... Ahh... Mmm... Big brother~"[pcms]
+[ns]漣[nse]
+「んっ……あふうっ……んんっ……お兄ちゃ～ん……」[pcms]
 
 *3351|
 [fc]
-After intertwining our tongues several times, sipping my[r]
-saliva, and generously pouring her own into me, Ren pulled[r]
-her lips away from mine.[pcms]
+何度も舌を絡めて、ボクの唾液をすすり、[r]
+自分の唾液を存分に流し込むと、[r]
+漣はボクの唇から自分の唇を離した。[pcms]
 
 ;//@konya 地下通路
 [bg storage="BG027"][trans_c cross time=500]
 
 *3352|
 [fc]
-A silver thread was spun between our lips, bridging the gap[r]
-like a delicate thread.[pcms]
+銀の糸が……ボクと漣の唇の間に[r]
+橋をかけるようにつむがれた。[pcms]
 
 *3353|
 [fc]
-[ns]Wataru[nse]
-"Re... Ren..."[pcms]
+[ns]航[nse]
+「れ……漣……っ……」[pcms]
 
 *3354|
 [fc]
-I was stunned, feeling the warmth and sweetness of my[r]
-sister's lips and saliva heating up my brain.[pcms]
+ボクは呆然として、[r]
+なんともいえない妹の唇と唾液の温かさと甘さに[r]
+脳が熱くなってくるような気がした。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3355|
 [fc]
 [vo_ren s="ren0399"]
-[ns]Ren[nse]
-"I've always loved you so much, big brother..."[pcms]
+[ns]漣[nse]
+「私はずっと、お兄ちゃんのことが大好きだったんだよ……」[pcms]
 
 *3356|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣……」[pcms]
 
 *3357|
 [fc]
 [vo_ren s="ren0400"]
-[ns]Ren[nse]
-"I always thought that I absolutely didn't want anyone but[r]
-my beloved big brother for my first time... I've always felt[r]
-that way..."[pcms]
+[ns]漣[nse]
+「初めては絶対に大好きなお兄ちゃんじゃなきゃ[r]
+　イヤだって……。……ずっと思ってたの……」[pcms]
 
 ;//〆背景：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1797,166 +1807,169 @@ that way..."[pcms]
 
 *3358|
 [fc]
-As she whispered this confession to me, Ren reached for her[r]
-skirt.[pcms]
+漣はボクにそうささやいて、告白しながら……[r]
+スカートに手をかける。[pcms]
 
 ;//se066・衣服が落ちる
 [se buf=0 storage="se066"]
 
 *3359|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *3360|
 [fc]
-And then, Ren pulled down her panties.[pcms]
+そして、漣はショーツをおろす。[pcms]
 
 *3361|
 [fc]
-Ren's panties were soaked through, peeling away from her[r]
-crotch with a sticky sound like half-dried glue being[r]
-removed.[pcms]
+漣のショーツはぐっしょりと濡れていて、[r]
+まるで生乾きの接着剤をはがした時みたいに、[r]
+ねっとりとアソコから糸を引いて、脱げた。[pcms]
 
 *3362|
 [fc]
 [vo_ren s="ren0401"]
-[ns]Ren[nse]
-"Look... I'm this wet because of you, big brother."[pcms]
+[ns]漣[nse]
+「見て……こんなに濡れてるのよ……お兄ちゃん」[pcms]
 
 *3363|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *3364|
 [fc]
 [vo_ren s="ren0402"]
-[ns]Ren[nse]
-"I've been wet all this time wanting you to do it, big[r]
-brother... I've been soaking wet... Thinking that you would[r]
-be the one..."[pcms]
+[ns]漣[nse]
+「ずっ～と、お兄ちゃんにして欲しくて濡れてたのよ……。[r]
+　濡れっぱなしだったの……。[r]
+　お兄ちゃんにしてもらうんだって……」[pcms]
 
 *3365|
 [fc]
 [vo_ren s="ren0403"]
-[ns]Ren[nse]
-"While dealing with those men who I didn't even like, I kept[r]
-thinking. I wanted my beloved big brother to clean me up..."[pcms]
+[ns]漣[nse]
+「好きでもない人たちの処理をしながら、ずっと思ってた。[r]
+　大好きなお兄ちゃんにキレイにしてもらおうって……」[pcms]
 
 *3366|
 [fc]
 [vo_ren s="ren0404"]
-[ns]Ren[nse]
-"I wanted your dick and your semen to wash away all my[r]
-dirtiness. That's what I endured for..."[pcms]
+[ns]漣[nse]
+「お兄ちゃんのおちんちんで、精液で、[r]
+　私の汚れを洗い流してもらおうって。[r]
+　そう思って耐え抜いたの……」[pcms]
 
 *3367|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣……」[pcms]
 
 *3368|
 [fc]
 [vo_ren s="ren0405"]
-[ns]Ren[nse]
-"That's why I protected my pussy and butt for you, big[r]
-brother... For my first time to be with you..."[pcms]
+[ns]漣[nse]
+「だから、お兄ちゃんのために、[r]
+　ココもおしりも守りきったの……。[r]
+　初めてはお兄ちゃんにって……」[pcms]
 
 *3369|
 [fc]
-While saying this, Ren spread open the graceful slit[r]
-enveloped in soft shadows with her fingers to show me.[pcms]
+そう言いながら漣は、柔らかな陰りに包まれた[r]
+優美な割れ目を指で押し開いてボクに見せる。[pcms]
 
 *3370|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「………………っ！」[pcms]
 
 *3371|
 [fc]
 [vo_ren s="ren0406"]
-[ns]Ren[nse]
-"I protected it well... Look closely, big brother... My[r]
-pussy doesn't have a single scratch on it..."[pcms]
+[ns]漣[nse]
+「ちゃんと守りきったよ……。[r]
+　よく見て、お兄ちゃん……。[r]
+　私のアソコは傷ひとつ、ついてないよ……」[pcms]
 
 *3372|
 [fc]
-The pink soft flesh nestled between the valleys of white[r]
-skin.[pcms]
+白い肌の谷間にあるピンクの柔らかな肉の峰。[pcms]
 
 *3373|
 [fc]
-Even in the dim darkness, the parting she had pushed open[r]
-was wet and shining beautifully, so pure that it seemed[r]
-untouched by any filth.[pcms]
+押し開かれたそれは、薄暗い闇の中でも濡れて、[r]
+美しく輝いていた。一片の穢れすら感じさせないほどに……。[pcms]
 
 *3374|
 [fc]
 [vo_ren s="ren0407"]
-[ns]Ren[nse]
-"It's always been my dream... to give my first time to you,[r]
-big brother..."[pcms]
+[ns]漣[nse]
+「ずっと夢だった。[r]
+　お兄ちゃんにはじめてをあげるのが……」[pcms]
 
 *3375|
 [fc]
 [vo_ren s="ren0408"]
-[ns]Ren[nse]
-"To have you do it with my pussy and butt... I'll become[r]
-clean. I'll be all yours, big brother..."[pcms]
+[ns]漣[nse]
+「アソコもおしりもお兄ちゃんにしてもらって……。[r]
+　私はきれいな身体になるの。[r]
+　お兄ちゃんだけのものに……」[pcms]
 
 *3376|
 [fc]
-[ns]Wataru[nse]
-"Re, Ren..."[pcms]
+[ns]航[nse]
+「れ、漣……」[pcms]
 
 *3377|
 [fc]
-As Ren said this, she leaned over me, still lying on her[r]
-back.[pcms]
+漣はそういいながら、[r]
+仰向けに転ばされたままのボクにのしかかる。[pcms]
 
 *3378|
 [fc]
 [vo_ren s="ren0409"]
-[ns]Ren[nse]
-"And yet... you kept running away from me..."[pcms]
+[ns]漣[nse]
+「それなのに……あんなに私から逃げて……」[pcms]
 
 *3379|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry..."[pcms]
+[ns]航[nse]
+「ご、ごめん……」[pcms]
 
 *3380|
 [fc]
-After Ren's words just now, I no longer felt the fear that[r]
-she was one of those guys' accomplices.[pcms]
+漣のさっきからの言葉にボクはもう、[r]
+漣があいつらの仲間だという恐怖はなかった。[pcms]
 
 *3381|
 [fc]
-Ren might indeed be one of their group. But Ren is... my[r]
-sister.[pcms]
+漣はたしかにあいつらの仲間かもしれない。[r]
+だけど、漣は……ボクの妹だ。[pcms]
 
 *3382|
 [fc]
-...She loves me this much...[pcms]
+……ボクのことをこんなに愛してくれている……。[pcms]
 
 *3383|
 [fc]
 [vo_ren s="ren0410"]
-[ns]Ren[nse]
-"...I forgive you."[pcms]
+[ns]漣[nse]
+「……許してあげる」[pcms]
 
 *3384|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *3385|
 [fc]
 [vo_ren s="ren0411"]
-[ns]Ren[nse]
-"Because... I love my big brother so much... And besides,[r]
-from now on... I'll be all yours..."[pcms]
+[ns]漣[nse]
+「だって……大好きなお兄ちゃんだもん……。[r]
+　それにもう……私はこのまま……[r]
+　お兄ちゃんのものになるんだから……」[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -1970,62 +1983,65 @@ from now on... I'll be all yours..."[pcms]
 
 *3386|
 [fc]
-With that said, Ren straddled me and firmly grasped my[r]
-thing.[pcms]
+そういうと、漣はボクの上にまたがって、[r]
+ボクのモノをしっかりと握りしめる。[pcms]
 
 *3387|
 [fc]
-[ns]Wataru[nse]
-"Ugh... stop it, Ren..."[pcms]
+[ns]航[nse]
+「ううっ……、や、やめるんだ……漣……」[pcms]
 
 *3388|
 [fc]
 [vo_ren s="ren0412"]
-[ns]Ren[nse]
-"Big brother... you've been hard the whole time... While[r]
-looking at your senior... saying 'stop it'... but you were[r]
-hard. I know it..."[pcms]
+[ns]漣[nse]
+「お兄ちゃんったら……ずっと、かたくなってた……。[r]
+　先輩の姿を見ながら……『やめろって』いいながら……[r]
+　かたくしてたのを知ってるよ……」[pcms]
 
 *3389|
 [fc]
-[ns]Wataru[nse]
-"That's not... that was..."[pcms]
+[ns]航[nse]
+「そんな……あれは……」[pcms]
 
 *3390|
 [fc]
 [vo_ren s="ren0413"]
-[ns]Ren[nse]
-"Big brother is such a pervert... But when you peeked at me[r]
-changing before... I was happy..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……エッチだもんね……。[r]
+　でも、前に着替えをのぞいてくれた時は……[r]
+　うれしかったな……」[pcms]
 
 *3391|
 [fc]
 [vo_ren s="ren0414"]
-[ns]Ren[nse]
-"It made me feel like... you were really seeing me as a[r]
-girl..."[pcms]
+[ns]漣[nse]
+「私のことを……ちゃんと女の子として[r]
+　見てくれてるんだって……」[pcms]
 
 *3392|
 [fc]
-[ns]Wataru[nse]
-"That was... That was..."[pcms]
+[ns]航[nse]
+「あ、あれは……。[r]
+　あれは……」[pcms]
 
 *3393|
 [fc]
 [vo_ren s="ren0415"]
-[ns]Ren[nse]
-"It's okay, big brother... Because I've comforted myself[r]
-many times thinking about doing it with you..."[pcms]
+[ns]漣[nse]
+「いいのよ……お兄ちゃん……。[r]
+　私だって……なんどもお兄ちゃんとしてることを思って[r]
+　自分を慰めたんだから……」[pcms]
 
 *3394|
 [fc]
-[ns]Wataru[nse]
-"...Re, Ren..."[pcms]
+[ns]航[nse]
+「……れ、漣……」[pcms]
 
 *3395|
 [fc]
-Ren has been... thinking of me...!? She masturbated thinking[r]
-of me?[pcms]
+漣が……ボクを……！？[r]
+……ボクを思って、オナニーしてた？[pcms]
 
 ;//@konya テキスト修正
 ;//襲われて、悠帆が意味ありげなことを言って、
@@ -2034,18 +2050,18 @@ of me?[pcms]
 
 *3396|
 [fc]
-I was attacked, Yuuho said something meaningful, and Ren[r]
-confessed one shocking thing after another to me... And[r]
-now...[pcms]
+襲われて、悠帆が意味ありげなことを言って、[r]
+漣がボクに次々と衝撃的な告白をして……。[r]
+こうして今は……。[pcms]
 
 *3397|
 [fc]
-My brain was about to turn to mush from the unbelievable[r]
-series of events that had happened since then.[pcms]
+さっきからの信じられない数々の出来事の数々に[r]
+ボクの脳ミソはぐちゃぐちゃになりそうだった。[pcms]
 
 ;//@konya シーンカットによる台詞削除＆順序変更
 ;//[vo_ren s="ren0416"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「先輩でおちんちんを大きくしちゃうなんて、
 ;//　私……シットしちゃうな。
 ;//　だけど……」
@@ -2055,14 +2071,15 @@ series of events that had happened since then.[pcms]
 *3398|
 [fc]
 [vo_ren s="ren0417"]
-[ns]Ren[nse]
-"Now... you're all mine, big brother... Look only at me...[r]
-Feel only me..."[pcms]
+[ns]漣[nse]
+「もう……お兄ちゃんは私だけのもの……。[r]
+　私だけを見て……私だけを感じて……」[pcms]
 
 *3399|
 [fc]
-As she said this, Ren lifted her hips and pressed my erect[r]
-thing against her pussy's slit.[pcms]
+そういって漣は腰を浮かしながら、[r]
+ボクのそそり立っているモノをアソコの割れ目へと[r]
+押し当てる。[pcms]
 
 ;//　差分　挿入
 
@@ -2072,139 +2089,142 @@ thing against her pussy's slit.[pcms]
 *3400|
 [fc]
 [vo_ren s="ren0418"]
-[ns]Ren[nse]
-"Nnnh... Ah, aahhh!!"[pcms]
+[ns]漣[nse]
+「んんっ……あ、ああっ！！」[pcms]
 
 *3401|
 [fc]
-Ren swallowed my thing in one gulp.[pcms]
+漣はボクのものを一気に飲み込んだ。[pcms]
 
 *3402|
 [fc]
-Ren and I... became one... I am one with my sister.[pcms]
+ボクと漣は……ひとつに……。[r]
+……ボクは妹とひとつになっている。[pcms]
 
 *3403|
 [fc]
-[ns]Wataru[nse]
-"Ugh... aahhh..."[pcms]
+[ns]航[nse]
+「ううっ……ああっ……」[pcms]
 
 *3404|
 [fc]
-The hot and strong grip on my thing sent a spine-tingling[r]
-pleasure through me.[pcms]
+ボクのモノを一気にわしづかみするような、熱く強い[r]
+しめつけにボクは脊髄がしびれるような快感がはしる。[pcms]
 
 *3405|
 [fc]
 [vo_ren s="ren0419"]
-[ns]Ren[nse]
-"Aahh... big brother is inside me... aahhh!! It hurts...[r]
-aahhh!"[pcms]
+[ns]漣[nse]
+「ああっ……お兄ちゃんが……ああっ！！[r]
+　い、いたっ……ああっ！」[pcms]
 
 *3406|
 [fc]
-A transparent red fluid leaked from where Ren and I were[r]
-connected. It was the same as what had flowed out of the[r]
-senior who had been violated earlier, along with her[r]
-screams...[pcms]
+漣とボクのつなぎ目からは透明感のある赤い液体が[r]
+漏れている。それはさっき、犯された先輩のアソコから[r]
+悲鳴とともに流れ出したものと同じ……。[pcms]
 
 *3407|
 [fc]
-The blood from her broken hymen was diluted with other[r]
-fluids like love juices.[pcms]
+愛液などの液体で薄まった破瓜の血だった。[pcms]
 
 *3408|
 [fc]
 [vo_ren s="ren0420"]
-[ns]Ren[nse]
-"Ahyaah! It hurts!! Big brother is so big... aahhh!!"[pcms]
+[ns]漣[nse]
+「あひゃあ！[r]
+　い、いたいいっ！！[r]
+　お兄ちゃんが大きくて……ああっ！！」[pcms]
 
 *3409|
 [fc]
-[ns]Wataru[nse]
-"Are you okay, Ren?"[pcms]
+[ns]航[nse]
+「大丈夫か漣っ？」[pcms]
 
 *3410|
 [fc]
 [vo_ren s="ren0421"]
-[ns]Ren[nse]
-"Ahoo! Aahh! 'Am I okay?' Why would you ask that, big[r]
-brother...?"[pcms]
+[ns]漣[nse]
+「あふうっ！　ああっ！[r]
+　だいじょうぶって？[r]
+　どうして……お兄ちゃん……？」[pcms]
 
 *3411|
 [fc]
-While slowly moving her hips, Ren answered me.[pcms]
+漣は腰をゆっくりと振りながらボクに答える。[pcms]
 
 *3412|
 [fc]
-[ns]Wataru[nse]
-"Because... aahh... it's your first time, isn't it?"[pcms]
+[ns]航[nse]
+「だって……ああっ……は、初めて……だろっ？」[pcms]
 
 *3413|
 [fc]
 [vo_ren s="ren0422"]
-[ns]Ren[nse]
-"Yeah, it's okay... The pain feels good... aahhh!!"[pcms]
+[ns]漣[nse]
+「う、うん……いいのっ……。[r]
+　痛いのが……き、きもちよくって……ああっ！！」[pcms]
 
 *3414|
 [fc]
-[ns]Wataru[nse]
-"Re, Ren... aahhh!!"[pcms]
+[ns]航[nse]
+「れ、漣っ……ああっ！！」[pcms]
 
 *3415|
 [fc]
-Ren began to move her hips more violently, and I moaned even[r]
-more from the intense pleasure.[pcms]
+漣は腰を激しく振り出して、ボクはいっそう快感にうめく。[pcms]
 
 *3416|
 [fc]
 [vo_ren s="ren0423"]
-[ns]Ren[nse]
-"Aahh! Big brother is inside me... nnnh...! I'm so happy! So[r]
-happy!!"[pcms]
+[ns]漣[nse]
+「ああっ！[r]
+　お兄ちゃんが……わ、私の中に……んんっ……！[r]
+　うれしいっ！　うれしいよぉ！！」[pcms]
 
 *3417|
 [fc]
 [vo_ren s="ren0424"]
-[ns]Ren[nse]
-"It's been my dream for so long... To have big brother do[r]
-this to me..."[pcms]
+[ns]漣[nse]
+「ずっと夢だったんだよ……。[r]
+　お兄ちゃんにこうしてもらうのが……」[pcms]
 
 *3418|
 [fc]
 [vo_ren s="ren0425"]
-[ns]Ren[nse]
-"To have my virginity taken by big brother's cock... It[r]
-hurts so good... The pain is so pleasurable... The pleasure[r]
-is so painful eeehh!! Aahh! It's good!!"[pcms]
+[ns]漣[nse]
+「処女を……お兄ちゃんのおちんちんで破ってもらうのが……。[r]
+　痛くて……うれしくて……痛いのがうれしくて……[r]
+　うれしいのが痛くてぇええっ！！　ああっ！　いいっ！！」[pcms]
 
 *3419|
 [fc]
-[ns]Wataru[nse]
-"Ugh! Aahh! Re, Ren...! Aahh!!"[pcms]
+[ns]航[nse]
+「ううっ！　ああっ！[r]
+　れ、漣っ……！[r]
+　ああっ！！」[pcms]
 
 *3420|
 [fc]
-In ecstasy, Ren continued to wildly thrust her hips. I[r]
-groaned even louder with each wave of intense pleasure, and[r]
-the red fluid splattered violently, staining our bodies with[r]
-red spots.[pcms]
+恍惚とした表情で、狂ったように腰を振り続ける漣。[r]
+ボクは次々と駆け上がって来る激しい快感にいっそううめき、[r]
+赤い粘液は激しく飛び散って、二人の身体を赤く斑に染める。[pcms]
 
 *3421|
 [fc]
-We both changed our white clothes into a pattern of red[r]
-polka dots. There were red circles everywhere like Ren's[r]
-eyes.[pcms]
+ボクも漣も、白い服を赤い水玉模様に変えてしまった。[r]
+漣の目のように赤い丸がそこらじゅうにできていた。[pcms]
 
 *3422|
 [fc]
-Not just our clothes. There were red eyes all over the dimly[r]
-lit underground passage.[pcms]
+ボクたちの服だけじゃない。[r]
+薄暗い地下道の中に真っ赤な目はそこらじゅうにあった。[pcms]
 
 ;//@konya　テキスト削除　ここから-------------------------------
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0500"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse];//[ns]？？？[nse]
 ;//「ああっ……！　ああっ！！　あはぁあ……」
 ;//;//＠マルガリータ
 ;//
@@ -2223,53 +2243,53 @@ lit underground passage.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0501"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ああっ！　んんっ！
 ;//　んあっ！　ああっ！！
 ;//　あああっ！！」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「ううっ……マルガリータのまんこいいっ……！」
 ;//
-[ns]Infected Student H[nse]
+;//[ns]感染者・学生Ｈ[nse]
 ;//「がいじんおんなのあなるぅ！！
 ;//　いいぞぉ！　あううっ！」
 ;//
-[ns]Infected Student F[nse]
+;//[ns]感染者・学生Ｆ[nse]
 ;//「オレも入れさせろおぉ……！」
 ;//
 ;//;//　差分　三穴同時
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0502"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「あぶっああっ……！
 ;//　んぐぐぐっ……！！」
 ;//
 ;//アソコもおしりもいっぱいになっているのに、
 ;//さらにもう一人が先輩の口へとモノを突っ込む。
 ;//
-[ns]Infected Student F[nse]
+;//[ns]感染者・学生Ｆ[nse]
 ;//「口も具合がいいぞ……。
 ;//　もっとしてくれよぉ……」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0503"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「んぶぶっ……んんっ……！！
 ;//　んんっ！　んんあっ……！！」
 ;//
 ;//先輩は……苦しそうな顔をしながらも、
 ;//やっぱりそれに逆らわず、言うがままになっている。
 ;//
-[ns]Infected Student F[nse]
+;//[ns]感染者・学生Ｆ[nse]
 ;//「く、口が良過ぎて……もう、でるぞっ！」
 ;//
-[ns]Infected Student G[nse]
-;//「おれもでるううぅ！」
+;//[ns]感染者・学生Ｇ[nse]
+;//「おれもでるううぅ～！」
 ;//
-[ns]Infected Student H[nse]
-;//「またしりにだすぞぉ！！」
+;//[ns]感染者・学生Ｈ[nse]
+;//「またしりにだすぞぉ～！！」
 ;//
 ;//;//　射精エフェクト
 ;//
@@ -2277,7 +2297,7 @@ lit underground passage.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0504"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「うぶぁぁあっ……！！」
 ;//
 ;//口に入れていた奴は先輩の顔面に、
@@ -2288,7 +2308,7 @@ lit underground passage.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0505"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「……んんっ……。
 ;//　はぁあぁ……ふふっ……」
 ;//
@@ -2297,7 +2317,7 @@ lit underground passage.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0506"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「……あはははっ……」
 ;//
 ;//……いや、違う……。
@@ -2306,34 +2326,34 @@ lit underground passage.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0507"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ふふっ……あははっ……。
 ;//　あはははっ……」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0508"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「もっとちょうだい……ペニスを……ザーメンを……！」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「よおし……また、まえだぁ……」
 ;//
 ;//;//　差分　前挿入
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0509"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ああっ、ヴァギナいっぱいに……。
 ;//　ああっ！　もっと……もっとちょうだいぃいっ！」
 ;//
-[ns]Infected Student H[nse]
-;//「じゃあ、あ、あなるにいれるぞ」
+;//[ns]感染者・学生Ｈ[nse]
+;//「じゃあ、あ、あなるにいれるぞ～」
 ;//
 ;//;//　差分　アナル挿入
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0510"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ああっ！
 ;//　う、うしろが……アナルが……ああっ！！
 ;//　お、お腹の中……イ、イッパイいいっ！！」
@@ -2343,35 +2363,35 @@ lit underground passage.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0511"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「口にぃ……ペニスをちょうだい……。
-;//　あっついザーメンたくさん飲ませて」
+;//　あっついザーメンたくさん飲ませて～」
 ;//
-[ns]Infected Student F[nse]
+;//[ns]感染者・学生Ｆ[nse]
 ;//「あ、ああっ……」
 ;//
 ;//先輩は口に挿入される前に、自ら男のモノをほおばった。
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0512"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「んんっ……んぁ……んんんっ……。
 ;//　じゅぶ……んんっ……んんっ……んふぅ……」
 ;//
-[ns]Infected Student F[nse]
+;//[ns]感染者・学生Ｆ[nse]
 ;//「だ、だめだ。
-;//　いれたばかりなのにでそうだぁ」
+;//　いれたばかりなのにでそうだぁ～」
 ;//
-[ns]Infected Student G[nse]
-;//「こいつ、じぶんからこしを」
+;//[ns]感染者・学生Ｇ[nse]
+;//「こいつ、じぶんからこしを～」
 ;//
-[ns]Infected Student H[nse]
+;//[ns]感染者・学生Ｈ[nse]
 ;//「し、しりのあながぁ……くいちぎられる……。
 ;//　くいちぎられるうっ！！」
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0513"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「んんっ……んんんっ……。
 ;//　んふふふふっ……」
 ;//
@@ -2380,23 +2400,23 @@ lit underground passage.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0514"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「んんっ……んぁ……ちゅぶ……んんっ！！。
 ;//　じゅぶ……んんっ……ちゅぶ……！
 ;//　んんっ……んふぅ……んふふふっ……」
 ;//
-[ns]Infected Student G[nse]
+;//[ns]感染者・学生Ｇ[nse]
 ;//「まんこがしまるぅ……。
 ;//　せまくてきついいのにぃ……。
 ;//　……ああっ！！」
 ;//
-[ns]Infected Student H[nse]
+;//[ns]感染者・学生Ｈ[nse]
 ;//「しりのあなぁ……くいちぎられるうっ！！
 ;//　うううっ！！」
 ;//
-[ns]Infected Student F[nse]
-;//「だ、だめだ。
-;//　もうでるっ！　ああっ！！」
+;//[ns]感染者・学生Ｆ[nse]
+;//「だ、だめだ～。
+;//　もうでるっ！　ああっ～！！」
 ;//
 ;//;//　Ｆ・Ｅの使い回し：再び３穴同時。今度は悦んで犯される。
 ;//
@@ -2406,7 +2426,7 @@ lit underground passage.[pcms]
 ;//
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0515"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「うふふふっ……あはははっ！！
 ;//　いっぱいぁいぃ……。
 ;//　ザーメンいっぱぁい……あははははっ！」
@@ -2414,7 +2434,7 @@ lit underground passage.[pcms]
 ;//先輩はおかしくなった奴らが果てても満足しないのか、
 ;//それでも激しい腰の動きを続けていた。
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「………………」
 ;//
 ;//@konya　テキスト削除　ここまで-------------------------------
@@ -2424,39 +2444,41 @@ lit underground passage.[pcms]
 *3423|
 [fc]
 [vo_ren s="ren0426"]
-[ns]Ren[nse]
-"Geez, big brother..."[pcms]
+[ns]漣[nse]
+「もう、お兄ちゃんったら……」[pcms]
 
 *3424|
 [fc]
-Ren placed her cold hand on my cheek and forcefully turned[r]
-my face towards her.[pcms]
+漣は冷たい手を……ボクの頬に当てて、[r]
+ぐいっと自分のほうを向かせる。[pcms]
 
 *3425|
 [fc]
-She straddled my hips, flaunting her lewd form to me.[pcms]
+ボクの腰の上にまたがった、自分のいやらしい姿を……[r]
+ボクに見せつける。[pcms]
 
 *3426|
 [fc]
-I used to think it was so strange... That being violated by[r]
-my sister was "weird"...[pcms]
+最初はずいぶんとおかしいと思っていたのに……。[r]
+妹に犯されるなんて『オカシイ』って……。[pcms]
 
 *3427|
 [fc]
-But now, that feeling had changed to "it feels good".[r]
-Because it feels good, it's okay...[pcms]
+でも、今のボクはそれが『キモチイイ』に変わっていた。[r]
+キモチイイから、いいんだって……。[pcms]
 
 *3428|
 [fc]
-Something inside me had changed, as if it had broken.[pcms]
+ボクの中でなにかが変わって、[r]
+壊れてしまっているような気がしてしまう。[pcms]
 
 *3429|
 [fc]
-Maybe I really am going crazy.[pcms]
+やっぱり、ボクはおかしくなっているのかもしれない。[pcms]
 
 ;//@konya　テキスト削除　ここから-------------------------------
 ;//
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「そういう漣だって……先輩の事を見てただろ？」
 ;//
 ;//@konya　テキスト削除　ここまで-------------------------------
@@ -2465,82 +2487,86 @@ Maybe I really am going crazy.[pcms]
 
 *3430|
 [fc]
-[ns]Wataru[nse]
-"What's the matter... Ren, you're feeling good too, right?"[pcms]
+[ns]航[nse]
+「なんだよ……漣だって、気持ちいいんだろ？」[pcms]
 
 ;//@konya　テキスト追加　ここまで-------------------------------
 
 *3431|
 [fc]
 [vo_ren s="ren0427"]
-[ns]Ren[nse]
-"Ehh~~"[pcms]
+[ns]漣[nse]
+「えっ～～っ」[pcms]
 
 *3432|
 [fc]
-[ns]Wataru[nse]
-"Otherwise, I would have cum by now... Because Ren's pussy[r]
-feels amazing..."[pcms]
+[ns]航[nse]
+「じゃないと、とっくにボクはイッてるよ……。[r]
+　だって、漣のオマンコの具合は最高だもの……」[pcms]
 
 *3433|
 [fc]
-Deep down, I was aware of how abnormal the things I was[r]
-saying were...[pcms]
+頭の奥では、自分の言っていることがいかに異常かを[r]
+認識しているのに……。[pcms]
 
 *3434|
 [fc]
-But...[pcms]
+だけど……。[pcms]
 
 *3435|
 [fc]
-But I was saying these obscene words to Ren without any[r]
-resistance.[pcms]
+だけどボクは、[ruby text="いもうと"][ch text="漣"]に卑猥な言葉を[r]
+なんの抵抗もなしに言っていた。[pcms]
 
 *3436|
 [fc]
 [vo_ren s="ren0428"]
-[ns]Ren[nse]
-"I'm so happy... Big brother praised my pussy... I'm so[r]
-happy..."[pcms]
+[ns]漣[nse]
+「うれしいっ……。[r]
+　お兄ちゃんが私のマンコをほめてくれたよぉ……。[r]
+　うれしいよぉ……」[pcms]
 
 *3437|
 [fc]
-Ren smiled sweetly while tightly clamping down on my thing[r]
-with her comfortable pussy.[pcms]
+漣はにっこりと笑いながら、[r]
+ボクのモノを具合のいいオマンコで強くしめあげる。[pcms]
 
 *3438|
 [fc]
-[ns]Wataru[nse]
-"Ren... Ugh..."[pcms]
+[ns]航[nse]
+「漣……。[r]
+　ううっ……」[pcms]
 
 ;//[vo_ren s="ren0429"]
-[ns]Ren[nse]
+;//[ns]漣[nse]
 ;//「先輩みたいに激しくして、お兄ちゃんのせーえき、
-;//　一滴残らず飲んじゃうんだから」
+;//　一滴残らず飲んじゃうんだから～」
 
 *3439|
 [fc]
-Ren began to move even more violently on top of me. My fully[r]
-erect member was mercilessly stroked, and I felt like I was[r]
-about to explode from the rising sensation of ejaculation.[pcms]
+漣はボクの上でいっそう激しく動きだす。[r]
+ボクの勃起しきったモノは容赦なくしごかれ、[r]
+こみ上げる射精感に爆発しそうになってくる。[pcms]
 
 *3440|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Ren... it's amazing. I'm going to cum... I'm going[r]
-to release inside Ren..."[pcms]
+[ns]航[nse]
+「ううっ……漣っ……すごいよぉ。[r]
+　出ちゃいそうだよぉ……。[r]
+　漣の中に出しちゃうよ～」[pcms]
 
 *3441|
 [fc]
 [vo_ren s="ren0430"]
-[ns]Ren[nse]
-"Aahh! Y-yes~, give it to me~. Give me lots of big brother's[r]
-semen~!! Nnh! Aahh~!!"[pcms]
+[ns]漣[nse]
+「ああっ！　う、うん～、ちょうだ～い。[r]
+　お兄ちゃんのせ～し、いっぱいちょうだい～！！[r]
+　んんっ！　ああっ～！！」[pcms]
 
 *3442|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Ah...!"[pcms]
+[ns]航[nse]
+「ううっ……あっ……！」[pcms]
 
 ;//　射精　差分
 ;//　射精エフェクト
@@ -2550,20 +2576,21 @@ semen~!! Nnh! Aahh~!!"[pcms]
 
 *3443|
 [fc]
-I surrendered to the pleasure and released my desire fully[r]
-inside Ren. It felt unbearably good.[pcms]
+ボクは快楽の赴くがままに、漣の中に存分に欲望を吐き出した。[r]
+それがまた、こらえられないほどにキモチいい。[pcms]
 
 *3444|
 [fc]
 [vo_ren s="ren0431"]
-[ns]Ren[nse]
-"Big brother's hot stuff is... so much... I can feel big[r]
-brother's hot semen inside my belly..."[pcms]
+[ns]漣[nse]
+「お兄ちゃんの熱いのが……い、いっぱい……。[r]
+　お腹の中にお兄ちゃんの……熱いせーし、感じるよぉ……」[pcms]
 
 *3445|
 [fc]
-As Ren said, she seemed to be trying to swallow every last[r]
-drop of what I had released, tightening inside there.[pcms]
+漣は言ったとおりに、まるでボクの吐き出したものを、[r]
+一滴残らず飲み込もうとするかように[r]
+アソコの中をしめあげる。[pcms]
 
 [evcg storage="HEV053d"][trans_c cross time=300]
 
@@ -2571,75 +2598,77 @@ drop of what I had released, tightening inside there.[pcms]
 *3446|
 [fc]
 [vo_ren s="ren0432"]
-[ns]Ren[nse]
-"It's good... I've always wanted this... To be creampied by[r]
-big brother..."[pcms]
+[ns]漣[nse]
+「いいよぉ……ずっとして欲しかった……。[r]
+　お兄ちゃんになかだしい……」[pcms]
 
 *3447|
 [fc]
-Feeling the heat of my released desire, Ren looked at me[r]
-with an ecstatic expression, utterly entranced.[pcms]
+ボクの吐き出した欲望の熱さを感じとって、[r]
+漣は恍惚と表情で、うっとりとボクを見ている。[pcms]
 
 *3448|
 [fc]
 [vo_ren s="ren0433"]
-[ns]Ren[nse]
-"I'm so happy... To be done like this by big brother... I'm[r]
-so happy"[pcms]
+[ns]漣[nse]
+「うれしいよぉ……。[r]
+　お兄ちゃんにこんなにしてもらって……うれしいよぉ」[pcms]
 
 *3449|
 [fc]
-A sister delighted by being creampied by her brother.[r]
-Something that should only exist in manga or games had[r]
-become my reality.[pcms]
+膣内射精する兄に悦んでいる妹。[r]
+まるで、マンガかゲームでしかないことが[r]
+ボクの現実になっていた。[pcms]
 
 *3450|
 [fc]
-I was willingly accepting it.[pcms]
+それをボクは甘んじて受け入れていた。[pcms]
 
 *3451|
 [fc]
-I felt as if I was breaking, being taken over by something[r]
-that wasn't me.[pcms]
+ボクは自分が壊れて、自分じゃない何者かに[r]
+のっとられるのを感じていた。[pcms]
 
 *3452|
 [fc]
-...Surely, that was the beast that senior had talked about.[pcms]
+……きっと、それは先輩の言っていた獣だ。[pcms]
 
 *3453|
 [fc]
 [vo_mar s="maru0516"]
-[ns]Margarita[nse]
-"Ufufu... I'm so happy with so much penis and semen...[r]
-Ahaha... Ahahahaha..."[pcms]
+[ns]マルガリータ[nse]
+「うふふっ……ペニスもザーメンもいっぱいで[r]
+　うれしいっ……。……あははっ……あははははっ……」[pcms]
 
 *3454|
 [fc]
-That senior had ended up like that too.[pcms]
+その先輩もああなってしまった。[pcms]
 
 *3455|
 [fc]
-I couldn't resist this feeling of pleasure. What's so wrong[r]
-with feeling this good, I began to think.[pcms]
+ボクも今のこのキモチよさがなんともこたえられない。[r]
+こんなに気持ち良くてなにが悪いんだと、[r]
+ボクは思い始めていた。[pcms]
 
 *3456|
 [fc]
-That's right... I really don't understand what's wrong.[pcms]
+そうだ……。[r]
+やっぱり、なにが悪いんだかわからないや。[pcms]
 
 *3457|
 [fc]
-What was I even worrying about? It feels good, so it's fine,[r]
-isn't it?[pcms]
+ボクはいったい何を悩んでたんだろう？[r]
+キモチいいんだし、いいじゃないか。[pcms]
 
 *3458|
 [fc]
-[ns]Wataru[nse]
-"Yuuho should have stayed instead of running away..."[pcms]
+[ns]航[nse]
+「悠帆も逃げないほうが良かったのに……」[pcms]
 
 *3459|
 [fc]
-I thought that I needed to teach this pleasure to Yuuho[r]
-soon. To Yuuho, whom I love so much.[pcms]
+……ボクはこの悦びを悠帆に。[r]
+大好きな悠帆にも早く教えてやらなくちゃと思っていた。[pcms]
 
 
 ;//---------------------------------------------------------------

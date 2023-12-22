@@ -23,7 +23,7 @@
 
 ;[link target=*scene_selend]悠帆　生存[endlink]
 ;[link target=*scene_selend exp="f.l_dead_y = 1"]悠帆　死亡[endlink]
-;[pcms]
+;[s]
 
 *scene_selend
 
@@ -50,94 +50,97 @@
 
 *2481|
 [fc]
-A row of many men standing in line...[pcms]
+ズラリと立ち並ぶ、沢山の男の人達……。[pcms]
 
 *2482|
 [fc]
-Not just people like Shige-san, but also ordinary office[r]
-workers, and even boys in school uniforms...[pcms]
+シゲさんみたいな人達だけじゃなく、普通の会社員みたいな人も、[r]
+学園の制服を着た男子達までいて……。[pcms]
 
 *2483|
 [fc]
-There must be about 30 to 40 people in total...[pcms]
+全部で３０～４０人くらいいるのかな……。[pcms]
 
 *2484|
 [fc]
-What's going to happen to us now... What kind of fate awaits[r]
-us... No, I'm scared... Onii-chan...[pcms]
+私達、これから……どうなるの？[r]
+一体、どんな目に……嫌っ、恐いよぉ……お兄ちゃん……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2485|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hehe... Now, the last one makes her appearance... With[r]
-this, everyone's here."[pcms]
+[ns]重吉[nse]
+「へへ……さぁ、最後の一人のお出ましだな……。[r]
+　これで全員、勢ぞろいだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2486|
 [fc]
 [vo_mar s="maru1246"]
-[ns]Margarita[nse]
-"Ugh... Let go of me!"[pcms]
+[ns]マルガリータ[nse]
+「くっ……離しなさいっ！」[pcms]
 
 *2487|
 [fc]
-Senpai was brought over to where we were. Even someone as[r]
-strong as Senpai couldn't do anything against so many...[pcms]
+先輩が、私達の所へと連れてこられた。[r]
+流石に先輩ほど強い人でも、こんなに相手が大勢では[r]
+どうにもならなかったのね……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2488|
 [fc]
-[ns]Shigeyoshi[nse]
-"Huh? What about the rest? There was a brat, right!?"[pcms]
+[ns]重吉[nse]
+「ん？　残りはどうしたんだ？[r]
+　ガキがいただろ！？」[pcms]
 
 *2489|
 [fc]
-[ns]Thug A[nse]
-"Well, about that... he got away."[pcms]
+[ns]チンピラＡ[nse]
+「いや、それが……逃げられちまいまして」[pcms]
 
 *2490|
 [fc]
-The brat... is he talking about Onii-chan? I see... Onii-[r]
-chan got away... Thank goodness, at least Onii-chan[r]
-escaped...[pcms]
+ガキ……って、お兄ちゃんのこと？[r]
+そうか……お兄ちゃん、逃げられたんだ……。[r]
+良かった、お兄ちゃんだけでも逃げられて……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2491|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hmph, the stupid brat and Mizuki aren't here either...[r]
-Well, it's fine. Having three girls is more than enough."[pcms]
+[ns]重吉[nse]
+「ふん、バカガキと瑞樹もいねぇじゃねぇか……まぁいい。[r]
+　女が３人も手に入りゃ上等だ」[pcms]
 
 *2492|
 [fc]
-Senpai came tumbling down next to us. Her beautiful face was[r]
-twisted with humiliation and disgust, her gaze fiercely[r]
-fixed on Shige-san.[pcms]
+先輩が私達の傍に、突き飛ばされるようにしてやってきた。[r]
+その綺麗な顔は、屈辱と嫌悪に歪んでいて、視線はシゲさんを[r]
+きつく睨み付けている。[pcms]
 
 *2493|
 [fc]
-Even in such a situation--Senpai is strong after all. As for[r]
-me... I can only tremble in fear...[pcms]
+こんな状況なのに――強いな、先輩はやっぱり。[r]
+私なんて……こうして怯えて、ただ震えていることしか[r]
+できないのに……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2494|
 [fc]
 [vo_mar s="maru1247"]
-[ns]Margarita[nse]
-"I'm sorry... I wanted to help everyone escape... It's my[r]
-fault for not being strong enough."[pcms]
+[ns]マルガリータ[nse]
+「済まない……ミンナを逃がしてあげたかったのだが……。[r]
+　ワタシの力不足のせいで」[pcms]
 
 *2495|
 [fc]
 [vo_ren s="ren1174"]
-[ns]Ren[nse]
-"It's not... It's not your fault, Senpai...!"[pcms]
+[ns]漣[nse]
+「そんな……先輩のせいなんかじゃ……！」[pcms]
 
 ;//条件分岐
 ;mm これ条件あってんのかな？なんでaliveも0なんだろ
@@ -154,59 +157,60 @@ fault for not being strong enough."[pcms]
 *2496|
 [fc]
 [vo_yuh s="yuho1410"]
-[ns]Yuuho[nse]
-"That's right, so please don't say such things...!"[pcms]
+[ns]悠帆[nse]
+「そうですよ、だからそんなこと言わないでください……！」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_02
 
 *2497|
 [fc]
-Senpai muttered in frustration, her teeth clenched. It's not[r]
-her responsibility that things turned out this way.[pcms]
+悔しそうな呟きを、噛み締めた歯の間から漏らす先輩。[r]
+こうなったのは先輩の責任なんかじゃないのに。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2498|
 [fc]
-[ns]Shigeyoshi[nse]
-"Well then... now that everyone's here, shall we begin?[r]
-...But first, we need to put the finishing touches on. The[r]
-grand finale of my rise to power."[pcms]
+[ns]重吉[nse]
+「さぁて……みんな揃ったところで始めるか？[r]
+　……っとぉ、その前に、最後の仕上げをしなくちゃなぁ。[r]
+　俺様の天下取りの総仕上げをよぉ」[pcms]
 
 *2499|
 [fc]
-As he said that, Shige-san's bloodshot eyes turned towards[r]
-Jin-san, and naturally, our gazes followed.[pcms]
+そう言いながら、シゲさんの血走った目が壬さんへと向けられ、[r]
+自然と私達の視線もそちらへと集中した。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2500|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey, Aniki... I've climbed up, haven't I? Not by using my[r]
-head like you, but with a much simpler and clearer method."[pcms]
+[ns]重吉[nse]
+「なぁ、アニキよぉ……俺、のし上がったぜ？[r]
+　アンタみてぇに頭使ってってのじゃなくてよぉ、[r]
+　もっとシンプルで分かりやすい方法でなぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2501|
 [fc]
-[ns]Jin[nse]
-"Ah, seems so... It's quite like you."[pcms]
+[ns]壬[nse]
+「ああ、そうらしいな……お前らしいと言えばらしいな」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2502|
 [fc]
-[ns]Shigeyoshi[nse]
-"Right? So you see... I have to stay true to my style until[r]
-the end, Aniki... no, Jin Mitsuki!"[pcms]
+[ns]重吉[nse]
+「だろう？　だからよぉ……その俺様らしさを最後までしなきゃ[r]
+　いけねぇよなぁ、アニキ……いや、眞月　壬よぉ！」[pcms]
 
 *2503|
 [fc]
 [vo_ren s="ren1175"]
-[ns]Ren[nse]
-"Kyaa!?"[pcms]
+[ns]漣[nse]
+「きゃっ！？」[pcms]
 
 ;//条件分岐
 [if exp="f.l_dead_y == 0 && f.l_alive_y == 0"][jump storage="BEH_10020.ks" target=*BEH_10020_03][endif]
@@ -223,81 +227,83 @@ the end, Aniki... no, Jin Mitsuki!"[pcms]
 *2504|
 [fc]
 [vo_yuh s="yuho1411"]
-[ns]Yuuho[nse]
-"Hik...!"[pcms]
+[ns]悠帆[nse]
+「ひっ……！」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_04
 
 *2505|
 [fc]
-The thing Shige-san pulled out while shouting was a handgun.[r]
-And its barrel, slightly trembling, was pointed at Jin-san.[pcms]
+叫びながらシゲさんが取り出したのは、一丁の拳銃。[r]
+そしてその銃口は、僅かに震えながらも、[r]
+壬さんに突き付けられている。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2506|
 [fc]
-[ns]Shigeyoshi[nse]
-"We're in the business of violence. That's why we eliminate[r]
-nuisances like this... Right, Jin?"[pcms]
+[ns]重吉[nse]
+「俺達は暴力が商売だ。だから、邪魔モンはこうやって消す……[r]
+　そうだよなぁ、壬よぉ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2507|
 [fc]
-[ns]Jin[nse]
-"Yeah, that's right."[pcms]
+[ns]壬[nse]
+「ああ、そうだな」[pcms]
 
 *2508|
 [fc]
-A calm voice, or rather one of resignation, spun from Jin-[r]
-san's lips.[pcms]
+穏やか……というよりも、諦観したような声が、壬さんの口から[r]
+紡ぎ出される。[pcms]
 
 *2509|
 [fc]
-In contrast, Shige-san, who should be the one pointing the[r]
-gun, was shaking his voice and contorting his face.[pcms]
+反対に、銃を突きつけているはずのシゲさんの方が、[r]
+声を震わせ、顔を歪ませている。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2510|
 [fc]
-[ns]Shigeyoshi[nse]
-"I really was grateful to you, you know? For picking up a[r]
-useless idiot like me and giving me a chance. But that's all[r]
-over now... I'm the top dog!"[pcms]
+[ns]重吉[nse]
+「アンタにゃホントに感謝してたんだぜ？[r]
+　バカで使い物にもなりゃしねぇ俺を拾って使ってくれてよぉ。[r]
+　だが、それももう終わりだ……俺様がトップだ！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2511|
 [fc]
-[ns]Jin[nse]
-"That's right... Do as you like. Whoever wants to be king[r]
-should just go ahead and be it."[pcms]
+[ns]壬[nse]
+「そうだな……好きにしろ。[r]
+　王様なんてもんはやりたいヤツがやればいい」[pcms]
 
 *2512|
 [fc]
-Even with a gun pointed at him, Jin-san replied[r]
-indifferently with a short answer. Not a single plea for his[r]
-life... Why?[pcms]
+銃口を突きつけられながらも、淡々とした口調で[r]
+短い返事をするだけの壬さん。[r]
+命乞いの一言もなく……どうして？[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2513|
 [fc]
-[ns]Jin[nse]
-"What's wrong? Can't do it when it comes down to it? Are you[r]
-such a fool that you can't do anything without me telling[r]
-you? Go on, try it."[pcms]
+[ns]壬[nse]
+「どうした？　いざとなったらできないか？[r]
+　最後まで俺に言われなきゃ何もできない愚図か、お前は。[r]
+　早くやってみろよ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2514|
 [fc]
-[ns]Shigeyoshi[nse]
-"You bastard! Stop acting like you're still Aniki! I'm the[r]
-top... I'm the best! I can do whatever I want!!"[pcms]
+[ns]重吉[nse]
+「てめぇ！　いつまでもアニキヅラしてんじゃねぇ！[r]
+　俺がトップだ……俺が一番なんだよ！[r]
+　俺様は好き勝手していいんだよぉ！！」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -310,14 +316,14 @@ top... I'm the best! I can do whatever I want!!"[pcms]
 *2515|
 [fc]
 [vo_mar s="maru1248"]
-[ns]Margarita[nse]
-"Grr...!!"[pcms]
+[ns]マルガリータ[nse]
+「くっ……！！」[pcms]
 
 *2516|
 [fc]
 [vo_ren s="ren1176"]
-[ns]Ren[nse]
-"Eh?"[pcms]
+[ns]漣[nse]
+「え？」[pcms]
 
 
 ;//条件分岐
@@ -333,35 +339,38 @@ top... I'm the best! I can do whatever I want!!"[pcms]
 *2517|
 [fc]
 [vo_yuh s="yuho1412"]
-[ns]Yuuho[nse]
-"Wha...!?"[pcms]
+[ns]悠帆[nse]
+「な……！？」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_06
 
 *2518|
 [fc]
-A loud bang. Red liquid splattered. And Jin-san's body[r]
-slowly crumbled.[pcms]
+響いた大きな音。[r]
+飛び散った赤い液体。[r]
+そしてゆっくりと崩れていく壬さんの身体。[pcms]
 
 *2519|
 [fc]
-The surreal scene paralyzed my mind. Suddenly Jin-san's head[r]
-was half gone, and his body lay motionless.[pcms]
+現実感の薄い光景に、どう反応していいのか頭が麻痺している。[r]
+突然、壬さんの頭が半分なくなり、ピクリとも動かない身体が[r]
+横たわっている。[pcms]
 
 *2520|
 [fc]
-He's dead. He was killed.[pcms]
+死んだ。[r]
+殺された。[pcms]
 
 *2521|
 [fc]
-The realization finally dawned on me--[pcms]
+その認識がようやく湧いてきた瞬間――[pcms]
 
 *2522|
 [fc]
 [vo_ren s="ren1177"]
-[ns]Ren[nse]
-"Noooooo!!!"[pcms]
+[ns]漣[nse]
+「いやぁぁああああぁぁぁぁぁぁぁっっ！！！」[pcms]
 
 ;//条件分岐
 [if exp="f.l_dead_y == 0 && f.l_alive_y == 0"][jump storage="BEH_10020.ks" target=*BEH_10020_07][endif]
@@ -376,33 +385,34 @@ The realization finally dawned on me--[pcms]
 *2523|
 [fc]
 [vo_yuh s="yuho1413"]
-[ns]Yuuho[nse]
-"Kyaaaaaaa!!!"[pcms]
+[ns]悠帆[nse]
+「きゃぁぁぁぁぁぁぁぁぁぁぁぁぁっっ！！！」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_08
 
 *2524|
 [fc]
-Screams echoed throughout the main dome.[pcms]
+絶叫が、メインドームいっぱいに響き渡った。[pcms]
 
 *2525|
 [fc]
-Tears streamed down my face. Is it because I'm sad that Jin-[r]
-san is dead?[pcms]
+ボロボロと、涙がこぼれ出してくる。[r]
+壬さんが死んでしまって悲しいから？[pcms]
 
 *2526|
 [fc]
-No. Pure terror is what keeps producing these tears. Help[r]
-me, help me... please help![pcms]
+違う。[r]
+純粋な恐怖が、涙を生み出し続けているんだ。[r]
+助けて、助けて……助けて！[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2527|
 [fc]
-[ns]Shigeyoshi[nse]
-"Haah, haah... I killed him... I did it! Now I'm the top[r]
-dog... I'm the king!!"[pcms]
+[ns]重吉[nse]
+「はぁ、はぁ……殺った……殺ってやったぜ……！[r]
+　これで俺様がトップだ……俺が王様なんだよぉぉぉぉっ！！」[pcms]
 
 ;//se073・歓声
 [se buf=0 storage="se073"]
@@ -410,9 +420,9 @@ dog... I'm the king!!"[pcms]
 *2528|
 [fc]
 [vo_ren s="ren1178"]
-[ns]Ren[nse]
-"No, nooo... Why is this happening!? Onii-chan... Onii-[r]
-chan...!"[pcms]
+[ns]漣[nse]
+「嫌っ、嫌ぁっ……こんなの、何で！？[r]
+　お兄ちゃん……お兄ちゃん……！」[pcms]
 
 
 ;//条件分岐
@@ -429,9 +439,9 @@ chan...!"[pcms]
 *2529|
 [fc]
 [vo_yuh s="yuho1414"]
-[ns]Yuuho[nse]
-"Why are humans doing this to each other... They're not[r]
-infected so why...!?"[pcms]
+[ns]悠帆[nse]
+「人間同士なのにっ……何でこんなこと……感染してないのに[r]
+　どうして……！？」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_10
@@ -441,27 +451,28 @@ infected so why...!?"[pcms]
 *2530|
 [fc]
 [vo_mar s="maru1249"]
-[ns]Margarita[nse]
-"This is what humans do..."[pcms]
+[ns]マルガリータ[nse]
+「こういうことをするのよ……人間は」[pcms]
 
 *2531|
 [fc]
-In stark contrast to my sobbing, my senior continued to[r]
-glare at the hulking murderer with eyes filled with hatred.[r]
-But... this is just...![pcms]
+泣きじゃくる私と対照的に、憎悪を燃やした瞳で[r]
+巨漢の人殺しを睨み続ける先輩。[r]
+でも……そんなの、そんなのって……！[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2532|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey! Clean this up quickly! You're ruining our fun time."[pcms]
+[ns]重吉[nse]
+「おい！　さっさとコレを片付けろ！[r]
+　折角のお楽しみの時間が台なしになっちまうだろう」[pcms]
 
 *2533|
 [fc]
-While nudging Jin-san's motionless body with his toe, Shige-[r]
-san gave orders to his underlings with a vulgar laugh. He's[r]
-not sane, this man is...![pcms]
+爪先で動かなくなった壬さんを小突きながら、[r]
+下卑た笑い声を上げながら手下の人達に命令をするシゲさん。[r]
+まともじゃないよ、この人、もう……！[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -472,16 +483,16 @@ not sane, this man is...![pcms]
 
 *2534|
 [fc]
-[ns]Shigeyoshi[nse]
-"Alright, just throw him over there. That's fine... Now,[r]
-it's just these three left... How shall we enjoy[r]
-ourselves...?"[pcms]
+[ns]重吉[nse]
+「よし、そうだ、その辺に放り投げておけ。[r]
+　それでいい……さて、あとはこの３人だな……。[r]
+　どうして楽しもうか……」[pcms]
 
 *2535|
 [fc]
 [vo_ren s="ren1179"]
-[ns]Ren[nse]
-"No... I don't want this..."[pcms]
+[ns]漣[nse]
+「やっ……やだっ……」[pcms]
 
 
 ;//条件分岐
@@ -499,8 +510,8 @@ ourselves...?"[pcms]
 *2536|
 [fc]
 [vo_yuh s="yuho1415"]
-[ns]Yuuho[nse]
-"Don't... come any closer...!"[pcms]
+[ns]悠帆[nse]
+「こ、来ないで……！」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_12
@@ -510,40 +521,41 @@ ourselves...?"[pcms]
 *2537|
 [fc]
 [vo_mar s="maru1250"]
-[ns]Margarita[nse]
-"Don't touch me! You scum!"[pcms]
+[ns]マルガリータ[nse]
+「触るんじゃない！　このクズども！」[pcms]
 
 *2538|
 [fc]
-The men, along with Shige-san, ignored my senior's angry[r]
-shouts and reached out eagerly to our bodies.[pcms]
+先輩の怒号を意にも介さず、シゲさんと一緒になって[r]
+私達の身体へと我先にと手を伸ばしてくる男の人達。[pcms]
 
 *2539|
 [fc]
-No, I can't stand this... being touched by men other than my[r]
-brother... No! Absolutely not...![pcms]
+やだっ、こんなの……お兄ちゃん以外の男の人に[r]
+触られるなんて……！[r]
+嫌っ！　絶対に嫌……っ！[pcms]
 
 *2540|
 [fc]
-[ns]Student A[nse]
-"Oh, these girls had some interesting stuff with them?"[pcms]
+[ns]学生Ａ[nse]
+「おっ、コイツら面白いモン持ってましたよ？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2541|
 [fc]
-[ns]Shigeyoshi[nse]
-"Huh? What's that? Heh, heh... indeed, this is some[r]
-interesting stuff."[pcms]
+[ns]重吉[nse]
+「ん？　なんだぁ？[r]
+　へっ、へへ……確かにこりゃぁ、オモシれぇモンだなぁ」[pcms]
 
 *2542|
 [fc]
-A man wearing our school's uniform brought our belongings.[r]
-The bag was opened, and the contents were spilling out...[r]
-even the violin was treated so roughly...![pcms]
+ウチの学園の制服を着た男の人が、私達の荷物を持ってきた。[r]
+バッグは開けられ、荷物がはみ出していて……バイオリンも[r]
+あんな乱雑に……！[pcms]
 
 ;//[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
-[ns]Shigeyoshi[nse]
+;//[ns]重吉[nse]
 ;//「スクール水着か。しかもご丁寧に、白と紺の二種類ありやがる。
 ;//　こいつぁコスプレみたいでいいじゃねぇか。
 ;//　なかなか“そそる”ぜぇ？」
@@ -556,22 +568,24 @@ even the violin was treated so roughly...![pcms]
 
 *2543|
 [fc]
-[ns]Shigeyoshi[nse]
-"What's this...? School swimsuits and... sailor uniforms,[r]
-huh... Heh, this is really interesting."[pcms]
+[ns]重吉[nse]
+「なんだこりゃあ……？[r]
+　スクール水着に……セーラー服か……。[r]
+　へぇえ～、こいつは面白れぇじゃねぇか」[pcms]
 
 *2544|
 [fc]
-Shige-san stared at the swimsuits and sailor uniforms pulled[r]
-from the bag with eyes brimming with lust, then turned that[r]
-gaze towards me--[pcms]
+バッグの中から引っ張り出した水着とセーラー服を、[r]
+欲望を滾らせた瞳で、舐めるようにして見つめるシゲさん。[r]
+そしてその瞳は私へと向けられ――[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2545|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey, doll. Why don't you try on this little number for me?"[pcms]
+[ns]重吉[nse]
+「なぁ、お人形ちゃん。[r]
+　ちょっとコイツを着てみちゃぁくれねぇかい」[pcms]
 
 ;//わざと、嬲り者にするために猫撫で声を上げ、私に向かって
 ;//水着を突き出してきた。
@@ -579,19 +593,19 @@ gaze towards me--[pcms]
 
 *2546|
 [fc]
-While speaking in a cajoling tone, he thrust the swimsuit[r]
-towards me.[pcms]
+まとわりつくような猫撫で声で言いながら、私に向けて、[r]
+水着を突き出してきた。[pcms]
 
 *2547|
 [fc]
 [vo_ren s="ren1187"]
-[ns]Ren[nse]
-"Eek...!"[pcms]
+[ns]漣[nse]
+「ひぃっ……」[pcms]
 
 *2548|
 [fc]
-I turned my face away and let out a scream as the dark blue[r]
-school swimsuit was pressed against me.[pcms]
+紺色のスクール水着を押し付けられ、思わず顔を逸らしながら[r]
+悲鳴を上げてしまう。[pcms]
 
 ;//条件分岐
 [if exp="f.l_dead_y == 0 && f.l_alive_y == 0"][jump storage="BEH_10020.ks" target=*BEH_10020_21][endif]
@@ -607,16 +621,16 @@ school swimsuit was pressed against me.[pcms]
 
 *2549|
 [fc]
-[ns]Shigeyoshi[nse]
-"Yuuho-chan, this one suits you better."[pcms]
+[ns]重吉[nse]
+「悠帆ちゃん、アンタにゃこっちの方がお似合だなぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2550|
 [fc]
 [vo_yuh s="yuho1419"]
-[ns]Yuuho[nse]
-"No... this isn't meant for such purposes...!"[pcms]
+[ns]悠帆[nse]
+「やっ……こ、これは、そんな目的のものじゃ……！」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_22
@@ -625,9 +639,9 @@ school swimsuit was pressed against me.[pcms]
 
 *2551|
 [fc]
-[ns]Shigeyoshi[nse]
-"This one's for you. It'll be perfect for a blonde like you,[r]
-right?"[pcms]
+[ns]重吉[nse]
+「おまえにゃコイツだ。[r]
+　金髪にゃピッタリだろうぜぇ？」[pcms]
 ;//一部不適切な文章のため調整
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -635,22 +649,22 @@ right?"[pcms]
 *2552|
 [fc]
 [vo_mar s="maru1254"]
-[ns]Margarita[nse]
-"...You're a man rotten to the core..."[pcms]
+[ns]マルガリータ[nse]
+「……心の底までゲレツな男だな、キサマは……！」[pcms]
 
 *2553|
 [fc]
-Shige-san continued to press the swimsuits on us with a[r]
-lecherous smile plastered on his face that was devoid of[r]
-anything but lust.[pcms]
+欲望が浮かび上がった――違う、欲望以外に何も混じっていない[r]
+いやらしい笑みを顔に張り付かせたまま、それぞれに水着を[r]
+押し付けてくるシゲさん。[pcms]
 
 *2554|
 [fc]
-The swimsuits handed to us were stared at with eyes full of[r]
-despair as he threw decisive words at us.[pcms]
+渡された水着を、絶望の眼差しで見つめ続ける私に、決定的な[r]
+言葉を投げかけてきた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
-[ns]Shigeyoshi[nse]
+;//[ns]重吉[nse]
 ;//「さぁ、着替えろや。
 ;//　俺達の目の前で、生着替えってヤツだぁ」
 
@@ -658,87 +672,88 @@ despair as he threw decisive words at us.[pcms]
 
 *2555|
 [fc]
-[ns]Shigeyoshi[nse]
-"Come on, change. Right here in front of us! It's a live[r]
-changing show!!"[pcms]
+[ns]重吉[nse]
+「さぁ、着替えろや。俺様達の目の前で！[r]
+　生着替えショーってヤツだぁ！！」[pcms]
 
 ;//se073・歓声
 [se buf=0 storage="se073"]
 
 *2556|
 [fc]
-As Shige-san's greasy voice echoed, a chorus of approval[r]
-rose from the surrounding men, and their lustful gazes[r]
-pierced our bodies all at once.[pcms]
+シゲさんの品のない粘りつくような声と同時に、[r]
+周囲の男の人達からドッと完成が上がり、欲望の視線が[r]
+一気に私達の身体に突き刺さってきた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2557|
 [fc]
-[ns]Shigeyoshi[nse]
-"What's wrong? If you change so slowly, dawn will break.[r]
-Let's make it snappy and lively."[pcms]
+[ns]重吉[nse]
+「ほらほら、どうした。[r]
+　そんなにノソノソと着替えてたんじゃ夜が明けちまうぜ。[r]
+　もっと景気良くパーッといこうぜ」[pcms]
 
 *2558|
 [fc]
 [vo_ren s="ren1188"]
-[ns]Ren[nse]
-"Such a thing..."[pcms]
+[ns]漣[nse]
+「そ、そんな……」[pcms]
 
 *2559|
 [fc]
-The voices that jeered in unison at Shige-san's words made[r]
-my hands even more sluggish.[pcms]
+シゲさんの言葉に、一斉に囃し立てる声が上がり、[r]
+その声が一層私の手を鈍らせていく。[pcms]
 
 *2560|
 [fc]
-Because... being seen naked by anyone other than my[r]
-brother... That's something I hate! I hate it... yet...[pcms]
+だって……お兄ちゃん以外の人に、裸を見られるなんて……[r]
+そんなの嫌っ！　嫌……なのに……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2561|
 [fc]
-[ns]Shigeyoshi[nse]
-"Can't be helped... This is why pure dolls are so[r]
-troublesome."[pcms]
+[ns]重吉[nse]
+「仕方ねぇなぁ……これだから清純なお人形ちゃんは[r]
+　踏ん切りが悪くて困らぁ」[pcms]
 
 *2562|
 [fc]
-Sighing as if annoyed, he tapped my shoulder with the butt[r]
-of his gun. That gesture--the intimidation of that gun--[r]
-washed away my disgust with fear.[pcms]
+呆れたようなため息を吐きながら、銃座でトントンと肩を叩く。[r]
+その仕草が――その銃の威圧感が、嫌悪を恐怖で押し流していく。[pcms]
 
 *2563|
 [fc]
-Still, my hands were slow to change clothes, and I could see[r]
-impatience growing on the ugly faces filled with desire.[pcms]
+それでも、着替える手はノロノロと進まず、欲望まみれの[r]
+醜悪な顔に次第に苛立ちが浮かんでくるのが見えた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2564|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey, looks like this doll is actually a dress-up doll.[r]
-Someone dress her up."[pcms]
+[ns]重吉[nse]
+「おぅ、そのお人形ちゃんはどうやら着せ替え人形だった[r]
+　みてぇだぞ。[r]
+　誰か着せ替えてやんな」[pcms]
 
 *2565|
 [fc]
-[ns]Thug B[nse]
-"Yes sir, understood... hehehe."[pcms]
+[ns]チンピラＢ[nse]
+「へいっ、リョーカイリョーカイ……へへへっ」[pcms]
 
 *2566|
 [fc]
-[ns]Student B[nse]
-"I'll help too... I've always wanted to do it with her...[r]
-She's so slender and fragile... the epitome of purity...[r]
-hehehe."[pcms]
+[ns]学生Ｂ[nse]
+「お、俺も手伝うよ……。[r]
+　前からヤリたいと思ってたんだよ、コイツと……。[r]
+　細くて儚くて……超・清純派の子でよぉ……くくくっ」[pcms]
 
 *2567|
 [fc]
 [vo_ren s="ren1189"]
-[ns]Ren[nse]
-"No... Don't! Don't touch me in such a way!"[pcms]
+[ns]漣[nse]
+「やっ……嫌っ！　こんないで……触らないでぇっ！」[pcms]
 
 ;//条件分岐
 [if exp="f.l_dead_y == 0 && f.l_alive_y == 0"][jump storage="BEH_10020.ks" target=*BEH_10020_23][endif]
@@ -755,8 +770,8 @@ hehehe."[pcms]
 *2568|
 [fc]
 [vo_yuh s="yuho1420"]
-[ns]Yuuho[nse]
-"Stop it! Don't be cruel to Ren-chan!"[pcms]
+[ns]悠帆[nse]
+「やめてっ！　漣ちゃんに酷いことしないでっ！」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_24
@@ -766,37 +781,38 @@ hehehe."[pcms]
 *2569|
 [fc]
 [vo_mar s="maru1255"]
-[ns]Margarita[nse]
-"Don't touch her! You lust-filled scum!!"[pcms]
+[ns]マルガリータ[nse]
+「その子に触るな！　欲望まみれのゲスどもが！！」[pcms]
 
 *2570|
 [fc]
-Ignoring our pleas, the men's hands reached out all at once[r]
-to me and began to tear off my clothes roughly.[pcms]
+そんな声にも構わず、男の人達の手が一斉に私に伸びてきて、[r]
+乱暴に服を引き千切っていく。[pcms]
 
 *2571|
 [fc]
 [vo_ren s="ren1190"]
-[ns]Ren[nse]
-"No! Please stop! Forgive me... Noooo!"[pcms]
+[ns]漣[nse]
+「やだっ！　お願い、やめてっ！　許して……いやぁぁっ！」[pcms]
 
 *2572|
 [fc]
-Pain surged through my body, and even as I screamed, the[r]
-men's hands did not stop; they became more violent, tearing[r]
-apart not just my clothes but also my dignity.[pcms]
+身体中に痛みが走り、悲鳴が上がっても男の人達の手は止まらず、[r]
+むしろ加速度を増して凶暴化していき、私の尊厳までも[r]
+一緒に引き裂いていく。[pcms]
 
 *2573|
 [fc]
-And then--[pcms]
+そして――[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2574|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ahahaha! Nice, very nice! It suits you well! Summer is all[r]
-about swimsuits! It's a swimsuit festival!"[pcms]
+[ns]重吉[nse]
+「あっはっはっ！　いいねぇいいねぇ！[r]
+　良く似合ってるじゃねぇか！[r]
+　やっぱり夏は水着！　水着祭りじゃあっ！」[pcms]
 
 ;//se073・歓声
 [se buf=0 storage="se073"]
@@ -806,8 +822,8 @@ about swimsuits! It's a swimsuit festival!"[pcms]
 *2575|
 [fc]
 [vo_mar s="maru1256"]
-[ns]Margarita[nse]
-"Damn it... filthy bunch..."[pcms]
+[ns]マルガリータ[nse]
+「くっ……ゲレツな連中……！」[pcms]
 
 
 ;//条件分岐
@@ -823,8 +839,8 @@ about swimsuits! It's a swimsuit festival!"[pcms]
 *2576|
 [fc]
 [vo_yuh s="yuho1421"]
-[ns]Yuuho[nse]
-"No, don't look... ugh..."[pcms]
+[ns]悠帆[nse]
+「やだっ、見ちゃ……ううっ……」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_26
@@ -832,85 +848,84 @@ about swimsuits! It's a swimsuit festival!"[pcms]
 *2577|
 [fc]
 [vo_ren s="ren1191"]
-[ns]Ren[nse]
-"No... not like this..."[pcms]
+[ns]漣[nse]
+「嫌ぁ……こんな……こんなのぉ……」[pcms]
 
 *2578|
 [fc]
-The cheers and lust-filled gazes showered upon us in our[r]
-swimsuit attire.[pcms]
+水着姿にされた私達に浴びせられる、欲望に満ちた[r]
+視線と歓声。[pcms]
 
 *2579|
 [fc]
-Overwhelmed by shame and fear, I tried to crouch down and[r]
-cover myself with my hands--[pcms]
+あまりの恥ずかしさと恐怖に、身体を手で隠して[r]
+しゃがみ込もうとすると――[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2580|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey! Don't hide it! It's a show, after all, so make sure to[r]
-display it properly!"[pcms]
+[ns]重吉[nse]
+「おらっ！　隠すんじゃねぇよ！[r]
+　折角のショーなんだ、しっかりとお披露目しやがれ！」[pcms]
 
 *2581|
 [fc]
 [vo_ren s="ren1192"]
-[ns]Ren[nse]
-"Hii...!"[pcms]
+[ns]漣[nse]
+「ひぃ……っ！」[pcms]
 
 *2582|
 [fc]
-The muzzle is pointed this way.[pcms]
+銃口が、こちらを向いてくる。[pcms]
 
 *2583|
 [fc]
-Brother, help me...! I'm embarrassed... I'm scared... Help[r]
-me... Brother...![pcms]
+お兄ちゃん、助けて……！[r]
+恥ずかしいよ……恐いよ……助けて……お兄ちゃん……！[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2584|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gufufu... What eroticism, school swimsuits have. They have[r]
-a unique eroticism that's different from regular swimsuits[r]
-and underwear, I kinda get why maniacs feel the way they[r]
-do..."[pcms]
+[ns]重吉[nse]
+「ぐふふ……なんつーエロさだ、スクール水着ってぇのは。[r]
+　普通の水着とも、下着とも違う独特のエロさがあるっつーか、[r]
+　マニアの気持ちがちったぁ分かった気がするぜぇ……」[pcms]
 
 *2585|
 [fc]
-The men leered at us, their gazes crawling over our bodies[r]
-as if savoring every detail. Please... stop it already... I[r]
-can't take it anymore...[pcms]
+ジロジロと、嘗め回すように交互に私達の身体に視線を這わせる[r]
+男の人達。[r]
+お願い……もうやめて……もう嫌ぁ……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2586|
 [fc]
-[ns]Shigeyoshi[nse]
-"Well then... Have you all enjoyed yourselves enough...?[r]
-Now, let's move on to the main event!"[pcms]
+[ns]重吉[nse]
+「さぁて……おめぇら、しっかりと堪能したか……？[r]
+　それじゃあ、そろそろメインイベントといくかぁ！」[pcms]
 
 ;//se073・歓声
 [se buf=0 storage="se073"]
 
 *2587|
 [fc]
-A roar of cheers rose, and within the lustful gazes of the[r]
-men, a more ferocious light began to mix in.[pcms]
+ドッと歓声が上がり、男の人達の好色な視線の中に、[r]
+さらに凶暴な光が入り混じってくる。[pcms]
 
 *2588|
 [fc]
-The circle of encirclement tightened, and the hands reaching[r]
-out from it seemed as grotesque as limbs of a different[r]
-creature--[pcms]
+ジリジリと狭まってくる包囲の輪。[r]
+そこから伸びてくる手はまるで別種の生き物のような[r]
+おぞましさをまとって見えて――[pcms]
 
 *2589|
 [fc]
 [vo_ren s="ren1193"]
-[ns]Ren[nse]
-"No... Nooo! Stop it eeeeeeeeee!!!"[pcms]
+[ns]漣[nse]
+「やっ……嫌っ！　やめてぇぇぇぇぇぇぇぇぇっっ！！！」[pcms]
 
 ;//jump:BEH_10020_C
 [jump storage="BEH_10020.ks" target=*BEH_10020_27]
@@ -938,35 +953,36 @@ creature--[pcms]
 *2590|
 [fc]
 [vo_yuh s="yuho1422"]
-[ns]Yuuho[nse]
-"Higyiii!! Aguh... it... uguuuu!! It hurts... stop, pull it[r]
-out... gihiiii!!"[pcms]
+[ns]悠帆[nse]
+「ひぎぃっ！！　あぐっ……いっ……うぐぅぅぅっ！！[r]
+　い、痛っ……だめっ、抜いて……ぎひぃぃっ！！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2591|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ohoo... So Yuuho-chan was a virgin. I thought that brat had[r]
-been all over her but this is good."[pcms]
+[ns]重吉[nse]
+「おほぉぉ……処女だったのかぁ、悠帆ちゃんはよぉ。[r]
+　あのガキにヤラレまくりかと思ってたけど[r]
+　コイツぁいいや」[pcms]
 
 *2592|
 [fc]
-With vulgar laughter, they forced their huge and hideous[r]
-dicks into Yuuho-chan.[pcms]
+ゲラゲラと下品な笑い声を上げながら、悠帆ちゃんの中に[r]
+巨大で醜悪なおちんちんを無理やり突き挿れていく。[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10020_29
 
 *2593|
 [fc]
-The moment they did, agonized screams filled the dome, and[r]
-it almost seemed like one could hear the sound of pain[r]
-snapping, making one instinctively want to cover their ears.[pcms]
+その途端、悲痛な叫び声がドームの中いっぱいに響き、[r]
+まるでブチブチという痛みの音までも聞こえてきたような[r]
+錯覚に、思わず耳を覆いたくなってしまう。[pcms]
 
 *2594|
 [fc]
-Meanwhile--[pcms]
+その一方で――[pcms]
 
 ;//〆ＤＥＶー００７（Ｍ７）
 [evcg storage="DEV007b"][trans_c cross time=300]
@@ -976,26 +992,28 @@ Meanwhile--[pcms]
 *2595|
 [fc]
 [vo_mar s="maru1257"]
-[ns]Margarita[nse]
-"No... Stop it! You filthy bastards! Don't touch me...[r]
-uguu!"[pcms]
+[ns]マルガリータ[nse]
+「やっ……やめろぉっ！[r]
+　このっ……ゲスどもっ！　ワタシに触れっ……うぐぅっ！」[pcms]
 
 *2596|
 [fc]
-[ns]Thug A[nse]
-"Uhehe... What's wrong? For a woman who was kicking us down[r]
-left and right. Now you can't do anything about it."[pcms]
+[ns]チンピラＡ[nse]
+「うへへぇ……おらおらどうしたぁ？[r]
+　散々俺達を蹴り倒してた女のクセによぉ。[r]
+　こうなるとどうしようもねぇなぁ」[pcms]
 
 *2597|
 [fc]
 [vo_mar s="maru1258"]
-[ns]Margarita[nse]
-"Kuh... You cowards... auh! No... don't touch there! Nnnh!"[pcms]
+[ns]マルガリータ[nse]
+「くっ……この卑怯者どもが……あうっ！[r]
+　やっ……さ、触るなっ！　そんなトコ……んんっ！」[pcms]
 
 *2598|
 [fc]
-[ns]Thug B[nse]
-"Shut up! Keep your mouth shut with this!"[pcms]
+[ns]チンピラＢ[nse]
+「うるせぇな！　コイツでも咥えてろ！」[pcms]
 
 ;//〆ＤＥＶー００７（Ｍ７）
 [evcg storage="DEV007c"][trans_c cross time=300]
@@ -1003,19 +1021,18 @@ left and right. Now you can't do anything about it."[pcms]
 *2599|
 [fc]
 [vo_mar s="maru1259"]
-[ns]Margarita[nse]
-"Nmbu! Gumu, fu, fugu... nnnnnh!"[pcms]
+[ns]マルガリータ[nse]
+「んぶっ！　ぐむっ、ふっ、ふぐっ……んんんっ！」[pcms]
 
 *2600|
 [fc]
-[ns]Thug A[nse]
-"What's this, already starting to enjoy it? Then I'll join[r]
-in too...!"[pcms]
+[ns]チンピラＡ[nse]
+「なんでぇ、もう御賞味開始か？　それならこっちも……！」[pcms]
 
 *2601|
 [fc]
-[ns]Thug C[nse]
-"Don't feel lonely, we'll fill you up completely...!"[pcms]
+[ns]チンピラＣ[nse]
+「寂しくねぇように、全部埋めてやるぜ……！」[pcms]
 
 ;//〆ＤＥＶー００７（Ｍ７）
 [evcg storage="DEV007d"][trans_c cross time=300]
@@ -1025,58 +1042,58 @@ in too...!"[pcms]
 *2602|
 [fc]
 [vo_mar s="maru1260"]
-[ns]Margarita[nse]
-"Uguu!! Nmbu, bufu!! Guhi... it...! Gubo, bofu...[r]
-fuguuuuuuuu!!?"[pcms]
+[ns]マルガリータ[nse]
+「うぐっ！！　んぶっ、ぶふっ！！　ぐひっ……いっ……！[r]
+　ぐぼっ、ぼふっ……ふぐぅぅぅぅぅぅっっっ！？」[pcms]
 
 *2603|
 [fc]
 [vo_ren s="ren1194"]
-[ns]Ren[nse]
-"Senpai!"[pcms]
+[ns]漣[nse]
+「せ、先輩！」[pcms]
 
 *2604|
 [fc]
-Senpai's mouth, pussy, and ass were being forced upon by the[r]
-men's dicks, and muffled screams arose.[pcms]
+先輩の口に、アソコに、おしりに、男の人達のおちんちんが[r]
+捩じ込まれ、くぐもった悲鳴が上がる。[pcms]
 
 *2605|
 [fc]
-In pain and suffering, Senpai's face twisted as she was[r]
-continuously tormented. Without any concern for her state,[r]
-the men just kept thrusting their hips, ravaging her[r]
-beautiful body.[pcms]
+痛みと苦しみに顔を歪め、責め立てられ続ける先輩。[r]
+そんな先輩の様子を気に止めようともせず、ただひたすらに[r]
+腰を振り、美しい身体を男の人達が蹂躙していく。[pcms]
 
 *2606|
 [fc]
 [vo_mar s="maru1261"]
-[ns]Margarita[nse]
-"Gubu, uku, nmbuu! Abu, gu... buguu!!"[pcms]
+[ns]マルガリータ[nse]
+「ぐぶっ、うくっ、んぶぅっ！[r]
+　あぶっ、ぐっ……ぶぐぅっ！！」[pcms]
 
 ;//〆ＤＥＶー００７（Ｍ７）
 [evcg storage="DEV007e"][trans_c cross time=300]
 
 *2607|
 [fc]
-The moment a particularly loud cry of agony escaped from[r]
-Senpai's mouth, her body went limp like a puppet with its[r]
-strings cut, her eyes rolling back.[pcms]
+先輩の口からひときわ大きな苦悶の声が上がった途端、[r]
+その身体からガクリと糸が切れた操り人形のように脱力し、[r]
+グルリと瞳が回り白目を向いた。[pcms]
 
 *2608|
 [fc]
-[ns]Thug B[nse]
-"What's this? Already going to sleep? Come on, keep going!"[pcms]
+[ns]チンピラＢ[nse]
+「なんだぁ？[r]
+　もうオネンネかぁ？　おらおら、もっとガンバレや！」[pcms]
 
 *2609|
 [fc]
-[ns]Thug A[nse]
-"Hey! Wake up!"[pcms]
+[ns]チンピラＡ[nse]
+「おらっ！　目ぇ醒ましやがれ！」[pcms]
 
 *2610|
 [fc]
-[ns]Thug C[nse]
-"Gyahahaha! Let's give her a kick in the ass to wake her[r]
-up!"[pcms]
+[ns]チンピラＣ[nse]
+「ギャハハハッ！　尻から喝を入れてやんぜ！」[pcms]
 
 ;//〆ＤＥＶー００７（Ｍ７）
 [evcg storage="DEV007d"][trans_c cross time=300]
@@ -1084,79 +1101,84 @@ up!"[pcms]
 *2611|
 [fc]
 [vo_mar s="maru1262"]
-[ns]Margarita[nse]
-"Nnnh... ugu, kuh, fuuu! Nguh, ubu... gufu, uu... nnuuh!"[pcms]
+[ns]マルガリータ[nse]
+「んんっ……うぐっ、くっ、ふぅぅっ！[r]
+　んぐっ、うぶっ……ぐふっ、ぅぅ……んぅぅっ！」[pcms]
 
 *2612|
 [fc]
-Even though she had lost consciousness, the men mercilessly[r]
-continued to violate Senpai.[pcms]
+気を失ったのにもかかわらず、[r]
+無慈悲に先輩を犯し続ける男の人達。[pcms]
 
 *2612a|
 [fc]
-The torment awakened Senpai once again, afflicting her body[r]
-and soul.[pcms]
+その苦痛が再び先輩を覚醒させ、身体を、心を苛んでいく。[pcms]
 
 *2613|
 [fc]
 [vo_mar s="maru1263"]
-[ns]Margarita[nse]
-"Nmmu, gubu... guh, nmpah! No... stop it...! Higi! It...[r]
-aguuu!!"[pcms]
+[ns]マルガリータ[nse]
+「んむっ、ぐぶっ……ぐっ、んぷぁっ！[r]
+　やっ……も、もう止め……っ！　ひぎっ！[r]
+　いっ……あぐぅぅっ！！」[pcms]
 
 *2614|
 [fc]
-[ns]Thug C[nse]
-"Don't hold back, pretty lady! I'll stir up your insides and[r]
-drive you crazy!"[pcms]
+[ns]チンピラＣ[nse]
+「遠慮すんなよ美人さんよぉ！[r]
+　もっと尻の中かき回して狂わせてやるからよぉ！」[pcms]
 
 *2615|
 [fc]
-[ns]Thug A[nse]
-"That's right! We'll take good care of your pussy too!?"[pcms]
+[ns]チンピラＡ[nse]
+「そうそう！[r]
+　マンコもたっぷりと可愛がってやるぜ！？」[pcms]
 
 *2616|
 [fc]
 [vo_mar s="maru1264"]
-[ns]Margarita[nse]
-"NOOO... Ahhh! Please stop... uguu! Hih... guhii! Igi...[r]
-kahh, hauuu! Ngi, gahah, hah... kihii!"[pcms]
+[ns]マルガリータ[nse]
+「イヤッ……あぁぁっ！　もう止めてくれ……うぐぅっ！[r]
+　ひっ……ぐひぃっ！　いぎっ……かっ、はぅぅっ！[r]
+　んぎっ、がはっ、はっ……きひぃっ！」[pcms]
 
 *2617|
 [fc]
-The men laughed vulgarly at Senpai's screams as they dirtied[r]
-her even more fiercely and strongly.[pcms]
+悲鳴を上げる先輩を、下品な声で笑い嘲りながら[r]
+さらに強く激しく汚していく男の人達。[pcms]
 
 [bg storage="BG019c"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
 
 *2618|
 [fc]
-I too might be subjected to such an ordeal...?[pcms]
+私も、あんな目に……？[pcms]
 
 *2619|
 [fc]
 [vo_ren s="ren1195"]
-[ns]Ren[nse]
-"No... Nooooo..."[pcms]
+[ns]漣[nse]
+「嫌……嫌ぁぁ……」[pcms]
 
 *2620|
 [fc]
-[ns]Student B[nse]
-"Heh... heheh...! Don't be so cold; let's have some fun?"[pcms]
+[ns]学生Ｂ[nse]
+「へっ……へへっ……！[r]
+　そんなつれないこと言わないで楽しもうよぉ？」[pcms]
 
 *2621|
 [fc]
 [vo_ren s="ren1196"]
-[ns]Ren[nse]
-"Hii...! No, nooo! Don't touch me... don't come any[r]
-closer...! Agu!"[pcms]
+[ns]漣[nse]
+「ひぃ……っ！[r]
+　やっ、嫌ぁっ！　触らないで……来ないで……っ！[r]
+　あぐっ！」[pcms]
 
 *2622|
 [fc]
-Suddenly someone's hand was placed on my shoulder and I was[r]
-violently pulled back. Unable to resist the strong force, my[r]
-body fell to the floor as if slammed down.[pcms]
+突然、肩に誰かの手が置かれ、グイッと乱暴に引っ張られた。[r]
+その強い力に抗うことすらできず、私の身体は床に[r]
+叩きつけられるようにして倒れ込んでしまった。[pcms]
 
 ;//〆DEV024a（Ｌ１）ノーマル男差分
 [evcg storage="DEV024a"][trans_c cross time=300]
@@ -1164,85 +1186,87 @@ body fell to the floor as if slammed down.[pcms]
 *2623|
 [fc]
 [vo_ren s="ren1197"]
-[ns]Ren[nse]
-"No, don't! Stop it! Don't look there... don't touch me!"[pcms]
+[ns]漣[nse]
+「やだっ、駄目ぇっ！[r]
+　嫌っ！　そんなとこ……見ないで！　触らないでぇっ！」[pcms]
 
 *2624|
 [fc]
-[ns]Student B[nse]
-"Woah... this is Ayase's pussy...! It's small and pink just[r]
-like I imagined...! I've always wanted to do this to you...[r]
-to rape you."[pcms]
+[ns]学生Ｂ[nse]
+「うぉぉ……こ、これが綾瀬のマンコかよ……！[r]
+　小さくてピンク色で……想像してた通りだ……！[r]
+　ずっと、ずっとこうしてやりたかった……犯したかったんだよ」[pcms]
 
-[ns]Student A[nse]
+;//[ns]学生Ａ[nse]
 ;//「お、おい！　俺にも見せろよ！
 ;//　可憐な美少女のオマンコ……！」
 
 *2625|
 [fc]
-[ns]Student A[nse]
-"Hey, let me see too!"[pcms]
+[ns]学生Ａ[nse]
+「お、おい！　俺にも見せろよ！」[pcms]
 
 *2626|
 [fc]
 [vo_ren s="ren1198"]
-[ns]Ren[nse]
-"No, nooo! That place is only for one person to see and[r]
-touch! Ukuh! Hih... nooo!"[pcms]
+[ns]漣[nse]
+「駄目っ、だめぇっ！[r]
+　そこは……そこを見ていいのは……たった一人だけなのに！[r]
+　うくっ！　ひっ……いやぁっ！」[pcms]
 
 *2627|
 [fc]
-My legs were spread wide open and faces were brought close[r]
-to my crotch... My pussy is being seen by someone other than[r]
-brother  a place that should never be shown or seen![pcms]
+両脚を大きく開かされ、股間に顔を近づけられてる……！[r]
+アソコ、見られちゃってる……お兄ちゃん以外の誰にも見せない、[r]
+見せちゃいけない場所なのに……！[pcms]
 
-[ns]Student B[nse]
+;//[ns]学生Ｂ[nse]
 ;//「憧れのこの場所……お、俺が……中も見てやる……！
 ;//　奥の奥まで、全部……あ、あれ……？」
 
-[ns]Student A[nse]
+;//[ns]学生Ａ[nse]
 ;//「おい、なんか垂れてきてるぞ？
 ;//　愛液じゃねぇよな……白くて粘ってて……？」
 
 *2628|
 [fc]
-[ns]Student B[nse]
-"Also look at this thin and beautiful pink fold. Even though[r]
-her legs are spread wide open, it's almost closed..."[pcms]
+[ns]学生Ｂ[nse]
+「それに、見てよ。この薄くって綺麗なピンク色のヒダ。[r]
+　こんなに股を開かせてるのに、ほとんど閉じてる……」[pcms]
 
 *2629|
 [fc]
-[ns]Student A[nse]
-"Aah...! I can't stand it! I can't stand it!"[pcms]
+[ns]学生Ａ[nse]
+「ああ……！　たまらねぇ！　たまらねぇよっ！」[pcms]
 
 *2630|
 [fc]
-The boy roughly grabbed my mound and began to knead it.[pcms]
+男子が乱暴に私の恥丘を掴んで、揉みしだきはじめた。[pcms]
 
 *2631|
 [fc]
-He moved his hand as if kneading the whole area, enjoying[r]
-the sensation with his rough fingers clenching and[r]
-unclenching.[pcms]
+力を込めて、全体をこねるように動かしながら、[r]
+ゴツゴツした指を握ったり開いたりして、感触を楽しんでいる。[pcms]
 
 *2632|
 [fc]
-[ns]Student A[nse]
-"Kuu~! It's so squishy, feels so good to touch, and on top[r]
-of that... heheh! It's incredibly warm!"[pcms]
+[ns]学生Ａ[nse]
+「くぅ～！　プニプニしてて、肌触りが良くって、おまけに[r]
+　……へへっ！　スゲェ、あたたけェ！」[pcms]
 
 *2633|
 [fc]
-[ns]Student B[nse]
-"This longed-for place... I, I will... look inside...! All[r]
-the way to the deepest part...!!"[pcms]
+[ns]学生Ｂ[nse]
+「憧れのこの場所……ぼ、僕が……中も見てやる……！[r]
+　奥の奥まで、全部……！！」[pcms]
 
 *2634|
 [fc]
 [vo_ren s="ren1199"]
-[ns]Ren[nse]
-"You can't do that! If you open it... spread it... hii![r]
-Yuck... it feels disgusting...!"[pcms]
+[ns]漣[nse]
+「そんなのだめぇっ！[r]
+　開いちゃ……広げたら……ひぅっ！[r]
+　やっ……気持ち悪い……！」[pcms]
 
 ;//アソコに男子の指先が触れ、無理矢理広げられてしまった。
 ;//その途端、トロリと粘着質の液体が溢れ出してきた。
@@ -1250,100 +1274,100 @@ Yuck... it feels disgusting...!"[pcms]
 
 *2635|
 [fc]
-Tears overflowed, and my voice choked up.[pcms]
+涙があふれ、声が詰まる。[pcms]
 
 *2636|
 [fc]
-That place is only for brother...![pcms]
+そこは、お兄ちゃんだけの場所なのに……！[pcms]
 
 *2637|
 [fc]
-The boys' gazes were unabashedly fixed on my precious part[r]
-that was forcibly opened.[pcms]
+男子達の視線が、遠慮なく開かれた私の大切な部分に注がれる。[pcms]
 
-[ns]Student B[nse]
+;//[ns]学生Ｂ[nse]
 ;//「な、なんだよこれ……！
 ;//　ザーメンじゃねぇか！　畜生、清純派だと思ってたのに、
 ;//　男のザーメンをマンコの中に溜め込んでる淫乱だったのかよ！」
 
 *2638|
 [fc]
-[ns]Student B[nse]
-"Aah...! This, this is Ayase's inside...! The clit, the[r]
-urethra, and the vaginal opening are all a beautiful light[r]
-pink!"[pcms]
+[ns]学生Ｂ[nse]
+「ああ……っ！　こ、これが綾瀬の中……！[r]
+　クリも尿道も膣口も、薄ピンクで凄く綺麗だ！」[pcms]
 
 *2639|
 [fc]
-[ns]Student A[nse]
-"This tiny entrance...! If I thrust inside, it seems like it[r]
-would feel amazing, right?!"[pcms]
+[ns]学生Ａ[nse]
+「この小さな入り口……！　中にぶち込んだら、スゲェ、[r]
+　具合が良さそうだな？！」[pcms]
 
 *2640|
 [fc]
-[ns]Student B[nse]
-"Aah! Aah!"[pcms]
+[ns]学生Ｂ[nse]
+「ああっ！　ああっ！」[pcms]
 
 *2641|
 [fc]
-The bloodshot eyes glaring at me, the lewd voices of[r]
-admiration, the fingers growing more forceful, and the[r]
-breath blowing on my genitals.[pcms]
+睨め付ける血走った目、いやらしい感嘆の声、[r]
+さらに力がこもる指と、アソコに吹きかけられる吐息。[pcms]
 
 *2642|
 [fc]
-To me, all of it felt like trampling over the precious[r]
-memories between brother and me.[pcms]
+私にはその全てが、お兄ちゃんと私の大切な思い出を[r]
+踏み荒らして行くように感じられた。[pcms]
 
 *2643|
 [fc]
-My chest hurts. The tears won't stop.[pcms]
+胸が苦しい。涙が止まらない。[pcms]
 
 *2644|
 [fc]
-Why are they doing this...?[pcms]
+なんで、こんなことするの……？[pcms]
 
 *2645|
 [fc]
-[ns]Student B[nse]
-"More! I'll look even deeper inside Ayase's body! I'll see[r]
-inside Ayase's womb, all the way to the uterus... Oh, what's[r]
-this...?"[pcms]
+[ns]学生Ｂ[nse]
+「もっとだ！　綾瀬の体の中をもっと見てやる！[r]
+　綾瀬の胎内を、ずっと奥、子宮の中まで見て……。[r]
+　あ、あれ……？」[pcms]
 
 ;//〆DEV024a（Ｌ１）ノーマル男差分
 [evcg storage="DEV024c"][trans_c cross time=300]
 
 *2646|
 [fc]
-[ns]Student A[nse]
-"Hey, something's dripping out? It's not love juice... it's[r]
-white and sticky...?"[pcms]
+[ns]学生Ａ[nse]
+「おい、なんか垂れてきてるぞ？[r]
+　愛液じゃねぇよな……白くて粘ってて……？」[pcms]
 
 *2647|
 [fc]
-From my forcibly opened entrance, a sticky liquid began to[r]
-overflow. The thick and warm substance brother gave me...[pcms]
+開かれた私の入り口から、[r]
+トロリと粘着質の液体があふれ出してきた。[r]
+お兄ちゃんがいっぱいくれた、濃くって温かい……。[pcms]
 
 *2648|
 [fc]
-[ns]Student B[nse]
-"What is this...! It's semen, isn't it!"[pcms]
+[ns]学生Ｂ[nse]
+「な、なんだよこれ……！[r]
+　ザーメンじゃないか！」[pcms]
 
 *2649|
 [fc]
 [vo_ren s="ren1200"]
-[ns]Ren[nse]
-"That's...!"[pcms]
+[ns]漣[nse]
+「そ、そんな……！」[pcms]
 
-[ns]Student A[nse]
+;//[ns]学生Ａ[nse]
 ;//「誰の……誰のだよ！
 ;//　まさか、あの兄貴のか！？
 ;//　兄貴にザーメン中出しさせてたのかよ！？」
 
 *2650|
 [fc]
-[ns]Student A[nse]
-"Seriously!? Whose... whose is it!"[pcms]
+[ns]学生Ａ[nse]
+「マジかよっ！！[r]
+　誰の……誰のだよ！」[pcms]
 
 ;mm
 [se buf=0 storage="se_sex01"]
@@ -1352,146 +1376,146 @@ overflow. The thick and warm substance brother gave me...[pcms]
 
 *2651|
 [fc]
-The boy's fingers twisted inside my pussy, stirring around[r]
-as if trying to force out brother's sperm from my vagina,[r]
-insistently spreading and scraping it out.[pcms]
+男子の指が私のアソコに捩じ込まれ、グリグリとかき回してくる。[r]
+お兄ちゃんの精子を私の膣内から追い出そうとするように、[r]
+執拗にアソコを広げ、掻き出そうとする。[pcms]
 
 *2652|
 [fc]
-No...! Having someone else's fingers inside me other than[r]
-brother's is disgusting! I hate this... I absolutely hate[r]
-it! Help me brother... brother![pcms]
+嫌っ……！　私の中に、お兄ちゃん以外の指が入るなんて……！[r]
+気持ち悪いっ……こんなの嫌っ！　絶対に嫌っ！[r]
+助けてお兄ちゃん……お兄ちゃん！[pcms]
 
 *2653|
 [fc]
 [vo_ren s="ren1201"]
-[ns]Ren[nse]
-"No... stop it! Don't put your fingers in there...! You're[r]
-scraping out brother's sperm...! Ukuh, hii... yaaah![r]
-Aaaaah!"[pcms]
+[ns]漣[nse]
+「やだっ……やめてっ！[r]
+　指入れちゃ……！　お兄ちゃんの精子掻き出しちゃ……！[r]
+　うくっ、ひっ……やぁっ！　あああっ！」[pcms]
 
-[ns]Student B[nse]
+;//[ns]学生Ｂ[nse]
 ;//「畜生……畜生！
 ;//　指じゃ足りねぇ！　コイツで……俺のチンポで
 ;//　全部追い出してやる！」
 
 *2654|
 [fc]
-[ns]Student A[nse]
-"Huh!? 'Brother's sperm'?"[pcms]
+[ns]学生Ａ[nse]
+「はぁ！？　『お兄ちゃんの精子！？』」[pcms]
 
 *2655|
 [fc]
-[ns]Student B[nse]
-"What did you say?!"[pcms]
+[ns]学生Ｂ[nse]
+「な、なんだって！？」[pcms]
 
 *2656|
 [fc]
-[ns]Student A[nse]
-"Brother? You don't mean, that brother? Seriously! You've[r]
-been having SEX with him?"[pcms]
+[ns]学生Ａ[nse]
+「お兄ちゃんって、まさか、あの兄貴のか！？[r]
+　マジかよ！　お前、兄貴とＳＥＸしてんのかよ！」[pcms]
 
 ;//〆DEV024a（Ｌ１）ノーマル男差分
 [evcg storage="DEV024c"][trans_c cross time=300]
 
 *2657|
 [fc]
-The boy stopped moving his fingers inside me. Then slowly[r]
-pulled them out to look at the tips.[pcms]
+男子が私の中で指を動かすのを止めた。[r]
+そのまま、おもむろに抜き出して、その指先を見る。[pcms]
 
 *2658|
 [fc]
-The beautiful milky liquid clung to them. The jelly-like[r]
-fragments of life that brother gave me.[pcms]
+綺麗な乳白色の粘液がまとわりついている。[r]
+ゼリーみたいな、お兄ちゃんがくれた生命の欠片。[pcms]
 
 *2659|
 [fc]
-[ns]Student A[nse]
-"I can't believe it... You've been sleeping with your own[r]
-brother and letting him cum inside you with such thick[r]
-semen?!"[pcms]
+[ns]学生Ａ[nse]
+「信じられねぇ……。[r]
+　自分の兄貴と寝て、こんな濃いザーメンを[r]
+　中出しさせてんのかよ！？」[pcms]
 
 *2660|
 [fc]
-[ns]Student B[nse]
-"That's...! Oh, Ayase...!"[pcms]
+[ns]学生Ｂ[nse]
+「そ、そんな……！　あ、綾瀬……！」[pcms]
 
 *2661|
 [fc]
-The other boy's voice trembled as he loomed over me.[pcms]
+もう一人の男子が、声を震わせて、覆い被さってくる。[pcms]
 
 *2662|
 [fc]
-[ns]Student B[nse]
-"...I thought Ayase was still untainted! ...I thought you[r]
-were still pure!"[pcms]
+[ns]学生Ｂ[nse]
+「……あ、綾瀬は、まだ汚れてないって思ってたのに！[r]
+　……清らかなままだと思ってたのに！」[pcms]
 
 *2663|
 [fc]
-A single tear fell from the boy's eyes and landed on his[r]
-glasses.[pcms]
+男子の目から、一粒の涙がこぼれて、メガネの上に落ちた。[pcms]
 
 *2664|
 [fc]
-[ns]Student B[nse]
-"And yet...! You've been a slut all along, hoarding a man's[r]
-semen inside your pussy!!"[pcms]
+[ns]学生Ｂ[nse]
+「それなのに……！[r]
+　男のザーメンをマンコの中に溜め込んでる[r]
+　淫乱だったのかよっ！！」[pcms]
 
 *2665|
 [fc]
-That's not true...![pcms]
+そ、そんな……！[pcms]
 
 ;//〆DEV009（Ｌ１）ノーマル男差分
 [evcg storage="DEV009a"][trans_c cross time=300]
 
 *2666|
 [fc]
-Raising his voice roughly, the boy took off his pants and[r]
-exposed his large swollen mass of flesh.[pcms]
+荒々しく声を上げると、男子はズボンを脱いで、[r]
+大きく膨らんだ肉の塊を露わにした。[pcms]
 
 *2667|
 [fc]
-It was a dirty and grotesque genitalia, nothing like[r]
-brother's.[pcms]
+お兄ちゃんのとは全然違う、汚くてグロテスクな性器。[pcms]
 
 *2668|
 [fc]
-I instinctively turned my face away, but the boy shouted[r]
-angrily at me.[pcms]
+思わず顔を背ける私に、男子が怒鳴り声をあびせた。[pcms]
 
 *2669|
 [fc]
-[ns]Student B[nse]
-"What are you looking away for! Damn beast!!"[pcms]
+[ns]学生Ｂ[nse]
+「なに、目をそらしてるんだ！　畜生！！」[pcms]
 
 *2670|
 [fc]
-Ouch! The boy roughly opened my pussy and pressed his body[r]
-against me.[pcms]
+痛いっ！[r]
+男子が乱暴に私のアソコを開いて、体を押し当ててくる。[pcms]
 
 *2671|
 [fc]
-[ns]Student B[nse]
-"Don't act so high and mighty! A pervert who fucks her own[r]
-brother!! Pretending to be pure and deceiving everyone!"[pcms]
+[ns]学生Ｂ[nse]
+「気取ってるんじゃない！　兄貴とヤってる変態がっ！！[r]
+　清純派のふりして騙しやがって！」[pcms]
 
 *2672|
 [fc]
-The hot and hard sensation touched the entrance of my pussy.[r]
-No way...! Am I going to be penetrated? By a dick that isn't[r]
-brother's...?![pcms]
+アソコの入り口に触れる、熱く固い感触。[r]
+そんなっ……！　まさか、挿れられちゃうの？[r]
+お兄ちゃんのじゃないおちんちんを……！？[pcms]
 
 *2673|
 [fc]
-[ns]Student B[nse]
-"...I'll rape you! I'll thrust into you!!"[pcms]
+[ns]学生Ｂ[nse]
+「……犯してやる！[r]
+　ブチこんでやる！！」[pcms]
 
 *2674|
 [fc]
 [vo_ren s="ren1202"]
-[ns]Ren[nse]
-"!? No! That's not allowed!! Don't penetrate me... don't put[r]
-your dick in me!!"[pcms]
+[ns]漣[nse]
+「！？[r]
+　駄目っ！　それは駄目ぇっ！！[r]
+　挿れちゃ……おちんちん挿れちゃだめぇっ！！」[pcms]
 
 ;//アソコの入り口に触れる、熱く固い感触。
 ;//そんなっ……挿れられちゃうの？
@@ -1499,28 +1523,31 @@ your dick in me!!"[pcms]
 
 *2675|
 [fc]
-[ns]Student B[nse]
-"No way! I'll thrust all the way in!! I'll gouge into your[r]
-womb and scrape out all of brother's semen with my dick!!"[pcms]
+[ns]学生Ｂ[nse]
+「だめだ！　奥まで挿れてやる！！[r]
+　子宮の中までえぐりこんで、兄貴のザーメンを[r]
+　僕のチンポで残らず掻き出してやる！！」[pcms]
 
 *2676|
 [fc]
 [vo_ren s="ren1203"]
-[ns]Ren[nse]
-"No! Nooo!! Brother! Help me brother!! No! Not by anyone[r]
-other than brother!!"[pcms]
+[ns]漣[nse]
+「いやっ！　いやぁ！！[r]
+　お兄ちゃん！　助けてお兄ちゃん！！[r]
+　いやっ！　お兄ちゃん以外の人なんて！！」[pcms]
 
 *2677|
 [fc]
-[ns]Student B[nse]
-"Brother, brother, shut up!! I'll thrust in! My dick into[r]
-Ayase!"[pcms]
+[ns]学生Ｂ[nse]
+「おにいちゃん、おにいちゃん、うるさい！！[r]
+　ブチ込んでやる！　俺のチンポを、綾瀬の中に！」[pcms]
 
 *2678|
 [fc]
 [vo_ren s="ren1204"]
-[ns]Ren[nse]
-"No! Stop it... hii!? Ukuh... fuu... nnnnn~!!"[pcms]
+[ns]漣[nse]
+「だめっ！　やめてっ……ひっ！？[r]
+　うくっ……ふっ……んんん～～～～っ！！」[pcms]
 
 ;//〆DEV009b（Ｌ１）ノーマル男差分
 ;mm
@@ -1529,97 +1556,100 @@ Ayase!"[pcms]
 
 *2679|
 [fc]
-Ah... Aah!? It's going in... pushing apart the hole of my[r]
-pussy... Inside my vagina... where only my brother is[r]
-supposed to enter...![pcms]
+やっ……ああっ！？[r]
+は、入ってきた……アソコの穴を押し分けて……。[r]
+私の膣内に……お兄ちゃんしか入ってきちゃ駄目な所に……！[pcms]
 
 *2680|
 [fc]
-[ns]Student B[nse]
-"Ha... Haha!! Serves you right! I raped you... I fucked you![r]
-I shoved my cock into the pretty face of a nympho girl!!"[pcms]
+[ns]学生Ｂ[nse]
+「は……ははっ！！[r]
+　ザマァみろ！　犯してやった……犯してやったぞ！[r]
+　美少女面した淫乱女に、俺のチンポをブチ込んでやった！！」[pcms]
 
 *2681|
 [fc]
 [vo_ren s="ren1205"]
-[ns]Ren[nse]
-"No... Nooo! Pull it out, quickly...! I don't want this...![r]
-I don't want any cock other than my brother's!!"[pcms]
+[ns]漣[nse]
+「やっ……いやぁっ！[r]
+　抜いてっ、早く……！　こんなの嫌っ……！[r]
+　お兄ちゃん以外のおちんちんなんていやぁっ！！」[pcms]
 
 *2682|
 [fc]
-[ns]Student B[nse]
-"Shut up!! Even though your tight pussy is clamping down on[r]
-my dick!"[pcms]
+[ns]学生Ｂ[nse]
+「う、ウルセェ！！[r]
+　こんなにキツキツのマンコでチンポ締め付けてるくせに！」[pcms]
 
 *2683|
 [fc]
 [vo_ren s="ren1206"]
-[ns]Ren[nse]
-"Ugh! Hii, ahh! It hurts...! Stop it, no... hiii!!"[pcms]
+[ns]漣[nse]
+「うぐっ！　ひっ、あぅぅっ！[r]
+　い、痛っ……！　だめっ、いっ……ひぃぃっ！」[pcms]
 
 *2684|
 [fc]
-He swung his hips roughly, stirring inside my vagina with[r]
-his dick as if slamming into me.[pcms]
+バンバンと乱暴に腰を振り、叩きつけるようにして私の膣内を[r]
+おちんちんでかき回してくる。[pcms]
 
 *2685|
 [fc]
-I'm sorry, brother... I've been defiled... By a man other[r]
-than you... My precious place, inside my belly, has been[r]
-dirtied...[pcms]
+お兄ちゃん、ごめんなさい……私、汚されちゃった……。[r]
+お兄ちゃん以外の男の人に……大事な所を、おなかの中を[r]
+汚されちゃってる……。[pcms]
 
 *2686|
 [fc]
-[ns]Student B[nse]
-"Haah! Haah!! Ah, I'm raping Ayase, me...! To think I could[r]
-lose my virginity with Ayase..."[pcms]
+[ns]学生Ｂ[nse]
+「はぁっ！　はぁっ！！[r]
+　あ、綾瀬を犯してるんだ、俺……！　綾瀬で童貞卒業できる[r]
+　なんて……！」[pcms]
 
 *2687|
 [fc]
-[ns]Student A[nse]
-"Gyahahaha! What, you were a virgin? That's great, isn't it?[r]
-You got to lose your virginity by raping your beloved Ayase![r]
-That's a rare opportunity!"[pcms]
+[ns]学生Ａ[nse]
+「ギャハハッ！　なんだおめぇ童貞だったのかよ！[r]
+　良かったじゃねぇか、大好きな相手レイプして[r]
+　童貞卒業なんてよぉ！　滅多にできねぇぜ！」[pcms]
 
 *2688|
 [fc]
 [vo_ren s="ren1207"]
-[ns]Ren[nse]
-"Higuu, nn, uwaah...! No, it's too rough... hii, iii!!"[pcms]
+[ns]漣[nse]
+「ひぐっ、んっ、うぁ……っ！[r]
+　やっ、苦し……っ！　乱暴すぎっ……ひっ、ぃぃっ！」[pcms]
 
 *2689|
 [fc]
-The boy's hips moved as if drilling right through the middle[r]
-of my widely spread legs.[pcms]
+大きく広げられた両足の真ん中を打ち抜くように動く男子の腰。[pcms]
 
 *2690|
 [fc]
-With each of those pounding movements, my body was violently[r]
-shaken up and down.[pcms]
+その叩きつけるような動きに、[r]
+私の体も激しく上下に揺さぶられる。[pcms]
 
 *2691|
 [fc]
-Each time, the semen I received from my brother and the[r]
-mucous membrane inside my womb made a splashing sound as[r]
-they scattered from the connected part.[pcms]
+そのたびに、お兄ちゃんから貰った精液と私の胎内の粘膜が、[r]
+繋がった部分からビチビチと音を立てて、飛び散る。[pcms]
 
 *2692|
 [fc]
-[ns]Student B[nse]
-"You're still so tight...! Damn beast! Even though I'm a[r]
-virgin, Ayase has been fucked many times by her brother and[r]
-let him cum inside her over and over again!!"[pcms]
+[ns]学生Ｂ[nse]
+「ま、まだこんなに……！　畜生！[r]
+　僕は童貞なのに、あ、綾瀬は、何発も何発も兄貴なんかと[r]
+　ヤって、何度も何度も中だしさせてたのかよ！！」[pcms]
 
 *2693|
 [fc]
-With the boy's anger, the force of his thrusts intensified.[pcms]
+男子の怒気と一緒に、突き入れてくる力が強くなる。[pcms]
 
 *2694|
 [fc]
-There was no gentleness at all, just a barbaric movement[r]
-that skewered me, and with each thrust of his dick's tip[r]
-inside me, pain echoed to the top of my head.[pcms]
+優しさなんか少しもない、私をただ串刺しにするだけの[r]
+野蛮な動きが、ガツガツと膣内のあちこちをおちんちんの先が[r]
+突き上げ、そのたびに痛みが頭の先まで響いてくる。[pcms]
 
 ;//こ、こんなの……！
 ;//こんなことされ続けられたら……ホントに壊れちゃう……！
@@ -1627,61 +1657,65 @@ inside me, pain echoed to the top of my head.[pcms]
 *2695|
 [fc]
 [vo_ren s="ren1208"]
-[ns]Ren[nse]
-"No! I don't want this! Please stop... igi! Agu, fuhii,[r]
-uwaah! It hurts! It hurts so much!"[pcms]
+[ns]漣[nse]
+「いやっ！　やだぁっ！[r]
+　お願い、もうやめっ……いぎっ！　あぐっ、ふひっ、うあっ！[r]
+　痛いっ！　痛いのぉっ！」[pcms]
 
 *2696|
 [fc]
-[ns]Student A[nse]
-"Kuhuhu! They say you're worse than that brother of hers![r]
-Virgin-kun is so clumsy it doesn't feel good at all!"[pcms]
+[ns]学生Ａ[nse]
+「くひひっ！　おめぇ、あの兄貴よりヘタだってよ！[r]
+　童貞クンはヘタクソで全然気持ち良くねぇとさ！」[pcms]
 
 *2697|
 [fc]
-[ns]Student B[nse]
-"Shut up! Damn beast! Damn beast!!"[pcms]
+[ns]学生Ｂ[nse]
+「う、うるさい！[r]
+　畜生っ！　畜生ぉっ！」[pcms]
 
 *2698|
 [fc]
 [vo_ren s="ren1209"]
-[ns]Ren[nse]
-"Kii... hiii!! Uguu, no, agi... iii!! I'm breaking...![r]
-Really, no more...! My pussy is going to tear... uguu!"[pcms]
+[ns]漣[nse]
+「きっ……ひぃぃっ！　うぐっ、やっ、あぎっ……ぃぃっ！[r]
+　壊れるっ……！　本当にもうっ……！[r]
+　アソコ破れちゃ……うぐぅっ！」[pcms]
 
 ;//ゴリゴリとおちんちんが膣内のお肉を引っ掻き回し、
 ;//グイグイとおちんちんの先が押し付けられてくる。
 
 *2699|
 [fc]
-The mass scraping inside my vagina began to move even more[r]
-violently.[pcms]
+私の膣内を引っ掻き回す塊の動きが、[r]
+いよいよ激しさを増してきた。[pcms]
 
 *2700|
 [fc]
-[ns]Student B[nse]
-"Ayase! I loved you! I've always loved you so much! But with[r]
-her brother... Damn beast! Damn beast!!"[pcms]
+[ns]学生Ｂ[nse]
+「あ、綾瀬！　す、好きだったのにっ！[r]
+　ずっとずっと好きだったのに！[r]
+　兄貴なんかと……！　畜生！　畜生！！」[pcms]
 
 *2701|
 [fc]
-The boy's flesh that penetrated me in the middle became even[r]
-hotter and started to scorch inside me.[pcms]
+私の真ん中を貫く男子の肉は、さらに熱くなって私の中を[r]
+焦がしだす。[pcms]
 
 *2702|
 [fc]
-The folds were stretched and felt like they were about to be[r]
-torn apart, and screams incessantly leaked from my mouth.[pcms]
+ヒダヒダが伸ばされ、突き破られそうになり、悲鳴が絶え間なく[r]
+口から漏れ出してしまう。[pcms]
 
 *2703|
 [fc]
-Help me... Help me!![pcms]
+助けて……助けて！！[pcms]
 
 *2704|
 [fc]
-[ns]Student B[nse]
-"Damn beast! Damn beast! Damn beast! Damn beast!! Damn[r]
-beast!! Damn beast!! Damn beast oooohhh!!!"[pcms]
+[ns]学生Ｂ[nse]
+「畜生！　畜生！　畜生！　畜生！！　畜生！！　畜生！！[r]
+　畜生ぉおぉおおっ！！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;システムボタン＆ウィンドウ消去
@@ -1695,30 +1729,30 @@ beast!! Damn beast!! Damn beast oooohhh!!!"[pcms]
 
 *2705|
 [fc]
-Suddenly, while his dick was still thrust inside me, the[r]
-boy's hip movements stopped, and his body began to tremble[r]
-in small spasms.[pcms]
+突然、私の中におちんちんを突き挿れたまま腰の動きが止まり、[r]
+ヒクヒクと小刻みに男子の身体が震え出した。[pcms]
 
 *2706|
 [fc]
 [vo_ren s="ren1210"]
-[ns]Ren[nse]
-"Eh...? No, don't! Aah, nooo!! Don't release your sperm... I[r]
-don't want it! Don't let it out!!"[pcms]
+[ns]漣[nse]
+「え……？[r]
+　やっ、だめぇっ！　ああっ、いやぁぁっ！！[r]
+　精子だしちゃ……やだぁっ！　精子ださないでぇ！！」[pcms]
 
 *2707|
 [fc]
-By the time I realized it was too late, the dick inside me[r]
-twitched and hot fluid struck deep within me.[pcms]
+気付いた時にはもう遅く、おちんちんが膣内でビクビクと跳ね、[r]
+熱い粘液が身体の奥へぶつかってきた。[pcms]
 
 *2708|
 [fc]
-No! No! Nooo!![pcms]
+いや！　いや！　いやあ！！[pcms]
 
 *2709|
 [fc]
-[ns]Student B[nse]
-"Uuu...! Ayase...! Ayaseee...!!"[pcms]
+[ns]学生Ｂ[nse]
+「うぅっ……！　あ、綾瀬っ……！　あやせぇっ……！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -1729,67 +1763,68 @@ No! No! Nooo!![pcms]
 *2710|
 [fc]
 [vo_ren s="ren1211"]
-[ns]Ren[nse]
-"Hiii... no! Uwah, ahhh! Don't release it! Don't release[r]
-anymore!"[pcms]
+[ns]漣[nse]
+「ひぃっ……やだっ！　うあっ、あああっ！[r]
+　出しちゃだめっ！　もう出さないでぇ！」[pcms]
 
 *2711|
 [fc]
-I couldn't do anything but despairingly accept the sperm[r]
-that was being poured into me in pulses.[pcms]
+どうすることもできず、ドクドクと流し込まれてくる精子を[r]
+絶望と共に受け止めてしまう。[pcms]
 
 ;//お兄ちゃん以外の精子を、おなかの奥にいっぱい……。
 ;//身体の奥の奥まで、汚されて……。
 
 *2712|
 [fc]
-[ns]Student B[nse]
-"Haah, haah... I did it... I splattered my semen into[r]
-Ayase's slutty pussy..."[pcms]
+[ns]学生Ｂ[nse]
+「はぁ、はぁ……だ、出した……。[r]
+　綾瀬の淫乱マンコに……ザーメンぶちまけてやった……」[pcms]
 
 ;//〆DEV009（Ｌ１）ノーマル男射精
 [evcg storage="DEV009f"][trans_c cross time=300]
 
 *2713|
 [fc]
-The boy's meat stick was pulled out from inside me with a[r]
-slurp.[pcms]
+男子の肉棒が、ズルリと私の中から外に出された。[pcms]
 
 *2714|
 [fc]
-From the sore insides of my womb, a warm viscous mass slowly[r]
-began to flow out.[pcms]
+ひりひりと痛む胎内から、なま暖かい粘性の塊が、[r]
+ゆっくりと流れ出てくる。[pcms]
 
 *2715|
 [fc]
-I've been defiled... My very core has been dirtied...[pcms]
+汚された……。[r]
+私、身体の奥の奥まで、汚された……。[pcms]
 
 *2716|
 [fc]
-[ns]Student A[nse]
-"All of her brother's stuff got spilled outside, but instead[r]
-you got a huge load of thick stuff pumped into you! That's[r]
-great for you, Ayase!"[pcms]
+[ns]学生Ａ[nse]
+「兄貴のは全部、外にでちまったけど、代わりにスゲェ濃いの[r]
+　タップリ注いでもらえたじゃねぇか！[r]
+　良かったな！　綾瀬！」[pcms]
 
 *2717|
 [fc]
-That can't be... All of my brother's precious seed is[r]
-gone...[pcms]
+そんな……。[r]
+お兄ちゃんの大事な種が全部なくなって……。[pcms]
 
 *2718|
 [fc]
-This disgusting fluid from a boy who does such terrible[r]
-things is inside me...![pcms]
+こんな酷いことする男子の、気持ち悪い汚液が、[r]
+私の体の中に……！[pcms]
 
 *2719|
 [fc]
-I can't take it anymore...[pcms]
+もう、いや……。[pcms]
 
 *2720|
 [fc]
-[ns]Student B[nse]
-"Haah, haah... not yet! I'll rape you more! More than that[r]
-brother of yours, much more...!"[pcms]
+[ns]学生Ｂ[nse]
+「はぁ、はぁ……ま、まだだ！[r]
+　もっと犯してやる！　あんな兄貴なんかよりも、[r]
+　もっともっと……！」[pcms]
 
 ;//〆ＤＥＶー０１０（Ｌ２）
 [evcg storage="DEV010a"][trans_c cross time=300]
@@ -1797,33 +1832,35 @@ brother of yours, much more...!"[pcms]
 *2721|
 [fc]
 [vo_ren s="ren1212"]
-[ns]Ren[nse]
-"No... please stop... please, no more... I can't take anyone[r]
-else but my brother anymore..."[pcms]
+[ns]漣[nse]
+「いやぁ……もうやめて……お願い、もう……もうだめぇ……。[r]
+　これ以上、お兄ちゃん以外の人になんて……」[pcms]
 
 *2722|
 [fc]
-[ns]Student B[nse]
-"Shut up! I'll defile you even more...! I'll make you[r]
-dripping with my semen!"[pcms]
+[ns]学生Ｂ[nse]
+「ウルセェ！[r]
+　もっともっと汚してやる……！[r]
+　俺のザーメンでドロドロにしてやるんだ！」[pcms]
 
 *2723|
 [fc]
 [vo_ren s="ren1213"]
-[ns]Ren[nse]
-"Igi...! Hiuu, kuh, fuhah...! Auhh, kuh, kufuuu! It[r]
-hurts...! Don't grab so hard...! Don't pull on me!"[pcms]
+[ns]漣[nse]
+「いぎっ……！　ひぅっ、くっ、ふはっ……！[r]
+　あうっ、くっ、くふぅっ！　痛っ……！[r]
+　そんなに強く掴んじゃ……！　引っ張らないでぇっ！」[pcms]
 
 *2724|
 [fc]
-Grabbing my arms and pulling them roughly, the boy now[r]
-thrusts his dick into me from behind. Immediately after[r]
-that, I could feel the semen from earlier overflowing out.[pcms]
+腕を掴み、乱暴に引っ張りながら今度は後ろからおちんちんを[r]
+突き挿れてくる男子。[r]
+その途端、ドロリとさっきの精子があふれ出すのが分かった。[pcms]
 
 *2725|
 [fc]
-No... am I going to be filled again? Am I going to have[r]
-another man's sperm poured into my vagina?[pcms]
+いやっ……また出されちゃうの？[r]
+また、お兄ちゃん以外の精子を、膣内に流し込まれちゃうの？[pcms]
 
 ;//〆ＤＥＶー０１０（Ｌ２）
 [evcg storage="DEV010b"][trans_c cross time=300]
@@ -1831,59 +1868,59 @@ another man's sperm poured into my vagina?[pcms]
 *2726|
 [fc]
 [vo_ren s="ren1214"]
-[ns]Ren[nse]
-"No! Noooo! Please stop it! I hate this so much! Uguu,[r]
-hihah! Kahah, aguuu... guuun!"[pcms]
+[ns]漣[nse]
+「いやっ！　いやぁぁっ！[r]
+　もうやめてっ！　もう嫌なのぉっ！[r]
+　うぐっ、ひはっ！　かはっ、あぐっ……ぐぅぅんっ！」[pcms]
 
 *2727|
 [fc]
-[ns]Student B[nse]
-"What do you hate?! You were happily collecting your[r]
-brother's semen in your womb all this time!"[pcms]
+[ns]学生Ｂ[nse]
+「何が嫌だ！　さんざん兄貴の精液を子宮に溜めてたくせに！」[pcms]
 
 *2728|
 [fc]
-The boy twisted my wrists further and dug his fingers into[r]
-the flesh of my butt.[pcms]
+男子がさらに手首をねじ上げ、お尻の肉に指を食い込ませる。[pcms]
 
 *2729|
 [fc]
-The bones in my arms creak, and with each thrust that[r]
-follows, it feels like my shoulders are going to be[r]
-dislocated.[pcms]
+腕の骨がきしみ、それに合わせた突き上げで、[r]
+肩が抜けそうになる。[pcms]
 
 *2730|
 [fc]
-[ns]Student B[nse]
-"I thought Ayase was a kind and pure girl...! I've always[r]
-admired her...! And yet! And yet!!"[pcms]
+[ns]学生Ｂ[nse]
+「綾瀬は、優しくて清楚な子だと思ってたのに……！[r]
+　ずっと憧れてたのに……！[r]
+　それを！　それをっ！！」[pcms]
 
 *2731|
 [fc]
-[ns]Student A[nse]
-"Bwahaha! So the cuter they are, the more you hate them when[r]
-they betray you, huh? Well, I'm shocked too. To think such a[r]
-pretty girl has been screwing her own brother all this[r]
-time!"[pcms]
+[ns]学生Ａ[nse]
+「ブハハハッ！　可愛さ余って憎さ百倍ってか？[r]
+　まぁ俺だってショックだけどよぉ。[r]
+　こんな美少女がテメェの兄貴とヤリまくりだったなんてなぁ！」[pcms]
 
 *2732|
 [fc]
 [vo_ren s="ren1215"]
-[ns]Ren[nse]
-"Don't talk about it in such a vulgar way! My brother and I[r]
-truly love each other! We're in love!"[pcms]
+[ns]漣[nse]
+「そんな下品な言い方しないで！[r]
+　私とお兄ちゃんは、本当に愛し合ってるんだもの！[r]
+　大好き同士なんだから！」[pcms]
 
 *2733|
 [fc]
-[ns]Student B[nse]
-"Shut up, shut up!! Just keep that dick in your mouth![r]
-You're nothing but our flesh doll now!"[pcms]
+[ns]学生Ｂ[nse]
+「ウルセェウルセェ！！[r]
+　黙ってチンポ咥えてろ！[r]
+　おめぇはもう俺達の肉人形なんだよ！」[pcms]
 
 *2734|
 [fc]
-[ns]Student A[nse]
-"Heh, right...! Might as well plug up that noisy mouth of[r]
-hers too!"[pcms]
+[ns]学生Ａ[nse]
+「へへっ、そうだな……！[r]
+　ギャアギャアわめく上の口も塞いでおくかぁ！」[pcms]
 
 ;//〆ＤＥＶー０１０（Ｌ２）
 ;mm
@@ -1893,8 +1930,9 @@ hers too!"[pcms]
 *2735|
 [fc]
 [vo_ren s="ren1216"]
-[ns]Ren[nse]
-"Ubuu! Guh, buuu! Nmm, gubu, fuhah... agu, pubah!"[pcms]
+[ns]漣[nse]
+「うぶっ！　ぐっ、ぶぅぅっ！[r]
+　んむっ、ぐぶっ、ふはっ……あぐっ、ぷぶぁっ！」[pcms]
 
 ;//口の中に別の男子のおちんちんが捩じ込まれ、
 ;//吐き気を催す味と臭いが喉の奥まで広がり、
@@ -1902,72 +1940,76 @@ hers too!"[pcms]
 
 *2736|
 [fc]
-A dirty and smelly dick is thrust deep into my throat, and[r]
-in rhythm with that, another dick stirs inside me, pushing[r]
-up against the flesh deep inside.[pcms]
+喉の奥まで臭くて汚いおちんちんが突き挿れられるのと[r]
+リズムを合わせるようにして、アソコをかき回すおちんちんが[r]
+ズンズンと中のお肉を押し上げてくる。[pcms]
 
 *2737|
 [fc]
-[ns]Student A[nse]
-"Hey hey, use your tongue more! Like you're licking your[r]
-brother's dick!"[pcms]
+[ns]学生Ａ[nse]
+「オラオラ、もっと舌使えよ！[r]
+　兄貴のチンポ舐めてるみたいによぉ！」[pcms]
 
 *2738|
 [fc]
 [vo_ren s="ren1217"]
-[ns]Ren[nse]
-"Bufu! Mugu, uku... gupu, hau, gu...! Mubu, guu... nguuu!!"[pcms]
+[ns]漣[nse]
+「ぶふっ！　むぐっ、うくっ……ぐぷっ、はうっ、ぐっ……！[r]
+　むぶっ、ぐぅっ……んぐぅぅっ！！」[pcms]
 
 *2739|
 [fc]
-A dirty and smelly dick is thrust deep into my throat, and[r]
-in rhythm with that, another dick stirs inside me, pushing[r]
-up against the flesh deep inside.[pcms]
+喉の奥まで臭くて汚いおちんちんが突き挿れられるのと[r]
+リズムを合わせるようにして、アソコをかき回すおちんちんが[r]
+ズンズンと中のお肉を押し上げてくる。[pcms]
 
 *2740|
 [fc]
-The agony and disgust mix together, tearing apart my heart.[pcms]
+苦しさと嫌悪感とがゴチャ混ぜになって心を引き裂いていく。[pcms]
 
 *2741|
 [fc]
-No! No...! I absolutely hate this!![pcms]
+嫌っ！　嫌……っ！　こんなの絶対に嫌ぁっ！！[pcms]
 
 *2742|
 [fc]
-[ns]Student B[nse]
-"Guh... I'm gonna cum again! Inside Ayase... I'm gonna pump[r]
-my semen into you! I'll fill you up until you're pregnant[r]
-with my seed!"[pcms]
+[ns]学生Ｂ[nse]
+「くっ……また出すぞっ！[r]
+　綾瀬の中にっ……俺のザーメン流し込むっ！[r]
+　孕むくらいドクドクって……腹いっぱいにしてやる！」[pcms]
 
 *2743|
 [fc]
-[ns]Student A[nse]
-"Hahaha! Then I'll pour plenty from this side too and fill[r]
-her up!"[pcms]
+[ns]学生Ａ[nse]
+「はははっ！　だったら俺はこっちからたっぷり注いで[r]
+　腹いっぱいにしてやるぜ！」[pcms]
 
 *2744|
 [fc]
 [vo_ren s="ren1218"]
-[ns]Ren[nse]
-"Uguu!? Fuuu! Nhi, gubu...! Gobu, muguu!"[pcms]
+[ns]漣[nse]
+「うぐっ！？　ふぅぅっ！　んひっ、ぐぶっ……！[r]
+　ごぶっ、むぐぅっ！」[pcms]
 
 *2745|
 [fc]
-No! I can't stand it anymore! If I get any more sperm poured[r]
-into me... I'll really get pregnant...! I absolutely don't[r]
-want anyone's baby but my brother's![pcms]
+嫌っ！　もう嫌ぁっ！[r]
+これ以上精子流し込まれたら……本当に妊娠しちゃう……！[r]
+お兄ちゃん以外の人の赤ちゃんなんて……絶対に嫌なのにっ！[pcms]
 
 *2746|
 [fc]
-[ns]Student B[nse]
-"I'm cumming... now! Get pregnant! Get knocked up with my[r]
-kid...!!"[pcms]
+[ns]学生Ｂ[nse]
+「出す……ぞ！[r]
+　孕めっ！　孕んじまえよ！[r]
+　俺のガキを孕むんだ……っっ！！」[pcms]
 
 *2747|
 [fc]
-[ns]Student A[nse]
-"Uku...! I'm gonna cum too... I'm cumming! Swallow every[r]
-last drop!"[pcms]
+[ns]学生Ａ[nse]
+「うくっ……！[r]
+　こっちも出るっ……出すからな！[r]
+　一滴残らず飲み込めっ！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１０（Ｌ２）
@@ -1978,31 +2020,31 @@ last drop!"[pcms]
 *2748|
 [fc]
 [vo_ren s="ren1219"]
-[ns]Ren[nse]
-"Gubu!? Ngu, bofu, gobu, geho! Abu, gu... fuu, nbo...[r]
-bufuu!!"[pcms]
+[ns]漣[nse]
+「ぐぶっ！？　んぐっ、ぼふっ、ごぼっ、げほっ！[r]
+　あぶっ、ぐっ……ふぅっ、んぼっ……ぶふぅっ！！」[pcms]
 
 *2749|
 [fc]
-Ah, ahh... a dick is rampaging against the back of my[r]
-navel... In my mouth too, a dick is throbbing... Hot and[r]
-smelly liquid is filling me up inside...[pcms]
+あ、ぁぁ……おへその裏側でおちんちんが暴れてる……。[r]
+口の中でもおちんちんが跳ねてる……。[r]
+熱くて臭い液がいっぱい……身体の中に入ってきてるぅ……。[pcms]
 
 *2750|
 [fc]
-[ns]Student A[nse]
-"So, so yeah! Swallow it...!!"[pcms]
+[ns]学生Ａ[nse]
+「そ、そうだ！　の、飲み込めぇ……！！」[pcms]
 
 *2751|
 [fc]
-[ns]Student B[nse]
-"Ayase's butt... while grabbing her white and small butt,[r]
-I'm ejaculating... inside Ayase, spewing out semen..."[pcms]
+[ns]学生Ｂ[nse]
+「綾瀬のお尻……白くて小さなお尻を掴みながら、[r]
+　射精してる……綾瀬の中に、ビュービュー、精液出してる……」[pcms]
 
 *2752|
 [fc]
-Again, a dick twitches in the deepest part of me. Once more,[r]
-filth is being poured into my defenseless womb...[pcms]
+また、私の一番深いところで、おちんちんが跳ねている。[r]
+私の無防備な子宮に、再び汚濁が注ぎ込まれている……。[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１０（Ｌ２）
@@ -2012,57 +2054,56 @@ filth is being poured into my defenseless womb...[pcms]
 
 *2753|
 [fc]
-I want to spit it out. But with my breath caught in my[r]
-throat, all I can do is swallow the liquid that has[r]
-accumulated in my mouth.[pcms]
+吐き出してしまいたい。[r]
+けれど、息がつまった私には、口の中に溜まったそれを[r]
+飲み下すことしかできない。[pcms]
 
 *2754|
 [fc]
 [vo_ren s="ren1220"]
-[ns]Ren[nse]
-"Guh, fuhah... haa, haaa..."[pcms]
+[ns]漣[nse]
+「ぐっ、ふは……はぁ、はぁぁ……」[pcms]
 
 *2755|
 [fc]
-While feeling my stomach convulse from the fishy smell and[r]
-strange taste, I still gulp down the liquid that's like[r]
-rotten juice.[pcms]
+生臭い臭いと異様な味に胃が痙攣するのを感じながら、[r]
+しかし、そのまま喉を鳴らして、腐汁のような液体を飲み干す。[pcms]
 
 [evcg storage="DEV014a"][trans_c cross time=300]
 
 *2756|
 [fc]
-The dicks are pulled out from both my pussy and mouth with a[r]
-slurping sound, and at the same time, my body covered in[r]
-semen is thrown limply onto the floor.[pcms]
+ズルズルとおちんちんがアソコから、口から引き抜かれ、[r]
+それと同時に精子にまみれた身体を、グッタリと床の上に[r]
+投げ出してしまう私。[pcms]
 
 *2757|
 [fc]
-My whole body hurts... It's screaming from being treated so[r]
-roughly... I can't take it anymore... I'm really going to be[r]
-broken... Help me... Help me...![pcms]
+身体中が痛い……乱暴にされて、身体中が悲鳴を上げてる……。[r]
+もう、駄目……本当に壊されちゃう、私……。[r]
+助けて……助けて……！[pcms]
 
 *2758|
 [fc]
-[ns]Thug A[nse]
-"Hehehe... what's this? Looks like you've been having quite[r]
-the fun with the kids."[pcms]
+[ns]チンピラＡ[nse]
+「へへへ……なんだぁ？[r]
+　ガキどもと随分とお楽しみだったみてぇだなぁ」[pcms]
 
 *2759|
 [fc]
 [vo_ren s="ren1221"]
-[ns]Ren[nse]
-"No... please no more... My whole body hurts... Please let[r]
-me rest..."[pcms]
+[ns]漣[nse]
+「やぁ……だめっ、もう……身体中、痛いの……。[r]
+　お願いだから、休ませて……」[pcms]
 
 *2760|
 [fc]
-Ignoring my pleading words, rough hands drag and pull me up.[pcms]
+懇願する私の言葉など無視して、ズルズルと引き摺り、[r]
+引っ張り起こす乱暴な手。[pcms]
 
 *2761|
 [fc]
-Pain and suffering leave my body powerless as it's lifted[r]
-up--[pcms]
+痛みと苦しみで力の入らない身体を抱え上げられ――[pcms]
 
 ;//〆ＤＥＶー０１０（Ｌ２）反転
 [evcg storage="DEV010h"][trans_c cross time=300]
@@ -2070,60 +2111,63 @@ up--[pcms]
 *2762|
 [fc]
 [vo_ren s="ren1222"]
-[ns]Ren[nse]
-"Uwa... ahhh... uh, kuhah... hi, iii...!"[pcms]
+[ns]漣[nse]
+「うぁ……ぁぁぁ……うっ、くはっ……ひっ、ぃぃ……！」[pcms]
 
 *2763|
 [fc]
-Once again, a man's dick invades inside me.[pcms]
+再び、私の中に男の人のおちんちんが侵入してきた。[pcms]
 
 *2764|
 [fc]
-While pushing out the sperm that was poured into my vagina[r]
-full, a hot and hard thing enters without resistance...[pcms]
+膣内いっぱいに流し込まれた精子を圧し出しながら、[r]
+熱く固くなったものが膣内に入ってくるのを、抵抗もできずに[r]
+受け入れてしまう……。[pcms]
 
 *2765|
 [fc]
 [vo_ren s="ren1223"]
-[ns]Ren[nse]
-"Hiha... auu... please... no more, I don't want this... This[r]
-is so dirty... don't dirty me anymore... My body is getting[r]
-soiled..."[pcms]
+[ns]漣[nse]
+「ひは……ぁぅぅ……お、願い……もう、いやなのぉ……。[r]
+　こんなの、いやぁ……もう汚さないで……。[r]
+　私……私の身体、汚しちゃ……」[pcms]
 
 *2766|
 [fc]
-[ns]Thug A[nse]
-"Hyahaha! What are you saying, missy?! You're making your[r]
-pussy all sloppy wet! It's all melty from being stirred by[r]
-those kids!"[pcms]
+[ns]チンピラＡ[nse]
+「ひゃははっ！　なぁに言ってんだお嬢ちゃん！[r]
+　こんなにマンコグチュグチュにしてるくせによぉ！[r]
+　ガキに掻き回されてトロトロになってるじゃねぇか！」[pcms]
 
 *2767|
 [fc]
 [vo_ren s="ren1224"]
-[ns]Ren[nse]
-"That's not true...! I didn't want this... It hurts so much,[r]
-it's agonizing... ukuh, higi, yah... aguu!"[pcms]
+[ns]漣[nse]
+「ち、違う……っ！　私、そんなこと……！[r]
+　痛くて、苦しくてっ……うくっ、ひぎっ、やっ……あぐぅっ！」[pcms]
 
 *2768|
 [fc]
-I flail my aching body trying to escape from the thrusts[r]
-that push deeper and deeper inside me. Despite screaming out[r]
-in pain, I try to crawl forward to escape.[pcms]
+グイグイと膣内を押し広げ、奥へ奥へと突き挿れられるのから、[r]
+何とか逃げようと痛む身体をばたつかせ、悲鳴を上げながらも[r]
+這いずるようにして前へと進もうとする。[pcms]
 
 *2769|
 [fc]
-But I can't get away from the man's hands that grip my hips[r]
-tightly with painful strength; I'm quickly pulled back.[pcms]
+けれど、ガッチリと腰を掴む男の人の痛いくらいに[r]
+力のこもった手からは逃げられず、すぐに引っ張り寄せられて[r]
+しまう。[pcms]
 
 *2770|
 [fc]
-Furthermore--[pcms]
+さらに――[pcms]
 
 *2771|
 [fc]
-[ns]Working Adult A[nse]
-"What's wrong? All that struggling is useless, useless! Hey,[r]
-take care of mine too, missy."[pcms]
+[ns]社会人Ａ[nse]
+「なんだ？[r]
+　そんなにジタバタしたって無駄だよ、無駄！[r]
+　ほら、俺のも頼むよ、お嬢ちゃん」[pcms]
 
 ;//〆ＤＥＶー０１０（Ｌ２）反転
 ;mm
@@ -2133,90 +2177,91 @@ take care of mine too, missy."[pcms]
 *2772|
 [fc]
 [vo_ren s="ren1225"]
-[ns]Ren[nse]
-"No please... I don't want this... nmmuu! Guh, gubuu! Apu,[r]
-bufu, obu... nguu!"[pcms]
+[ns]漣[nse]
+「やだ……いやなの、お願い……んむぅっ！[r]
+　ぐっ、ぐぶぅっ！　あぷっ、ぶふっ、おぶっ……んぐぅっ！」[pcms]
 
 *2773|
 [fc]
-A man grabs my hair as if to catch me trying to escape and[r]
-forces his hard dick into my gasping mouth.[pcms]
+逃げ出そうとする私を捕まえるようにして髪を掴んだ男の人が、[r]
+苦しみに喘ぐ私の口の中に、固くそそり立ったおちんちんを[r]
+捩じ込んできた。[pcms]
 
 *2774|
 [fc]
-Suddenly thrust deep into my throat, cutting off my breath[r]
-for a moment and making my consciousness fade. But then I'm[r]
-violently awakened by the rough movements of the men[r]
-assaulting me.[pcms]
+一気に喉奥まで突き挿れられ、呼吸を遮られて一瞬、意識が[r]
+遠くなってしまったけれど、すぐに荒々しく動き出した[r]
+男の人達の責めによって無理やり覚醒させられてしまう。[pcms]
 
 *2775|
 [fc]
 [vo_ren s="ren1226"]
-[ns]Ren[nse]
-"Pufu, nkuh, fuhah, abu... ndjuh, gupu! Gebu, mugo, obu,[r]
-gumu... uh, gupuu!"[pcms]
+[ns]漣[nse]
+「ぷふっ、んくっ、ふはっ、あぶっ……んぢゅっ、ぐぷっ！[r]
+　げぶっ、むごっ、おぶっ、ぐむっ……うっ、ぐぷぅっ！」[pcms]
 
 *2776|
 [fc]
-[ns]Thug A[nse]
-"Ohh... oouh! Heheh, every time she moans she tightens up.[r]
-The folds all slippery with semen and love juice are[r]
-wrapping around me?"[pcms]
+[ns]チンピラＡ[nse]
+「おっ……おぉぅっ！[r]
+　へへっ、呻くたびに締め付けてくるじゃねぇか。[r]
+　ザーメンと愛液でヌルヌルの襞が絡んでくるぜぇ？」[pcms]
 
 *2777|
 [fc]
-[ns]Working Adult A[nse]
-"This side too...! Her throat muscles and tongue tremble[r]
-with her pained voice... amazing!"[pcms]
+[ns]社会人Ａ[nse]
+「こ、こっちも……！[r]
+　苦しそうな声と一緒に喉肉と舌が震えて……凄いっ！」[pcms]
 
 *2778|
 [fc]
-The men seem to get even more excited by my trembling agony[r]
-and assault me even more violently.[pcms]
+苦悶に震える私にさらに興奮したらしく、より一層乱暴に[r]
+犯してくる男の人達。[pcms]
 
 *2779|
 [fc]
-It feels like my arms are going to be pulled out...! My back[r]
-is going to break...! My stomach, my throat... they're going[r]
-to be pierced through...![pcms]
+腕が引き抜かれちゃいそう……！[r]
+背中が折られちゃいそう……！[r]
+おなかが、喉が……突き破られちゃいそう……！[pcms]
 
 *2780|
 [fc]
-My whole body... it's going to be torn apart...! No, help[r]
-me... someone, help... Onii-chan... Onii-chan![pcms]
+身体中が……バラバラにされちゃう……！[r]
+いやっ、助けて……誰か、助け……お兄ちゃん……お兄ちゃん！[pcms]
 
 *2781|
 [fc]
 [vo_ren s="ren1227"]
-[ns]Ren[nse]
-"Fugu, nmp, kuu, ubo...! Obu, gujyu, jyubu, gobo, gopo...!"[pcms]
+[ns]漣[nse]
+「ふぐっ、んぷっ、くぅっ、うぼっ……！[r]
+　おぶっ、ぐぢゅっ、ぢゅぶっ、ぐぼっ、ぐぽっ……！」[pcms]
 
 *2782|
 [fc]
-[ns]Thug A[nse]
-"Ou...! Heheh, this one's in good shape! The girl's pussy is[r]
-great!"[pcms]
+[ns]チンピラＡ[nse]
+「おぅっ……！　へへっ、こいつは良い具合だぜぇ！[r]
+　お嬢ちゃんのマンコはよ！」[pcms]
 
 *2783|
 [fc]
-[ns]Working Adult A[nse]
-"To have a black-haired, bespectacled girl with such a neat[r]
-face... giving a blowjob...! Uah! I'm getting too excited,[r]
-I'm gonna...!"[pcms]
+[ns]社会人Ａ[nse]
+「黒髪でメガネの、こんな清楚な顔した女の子に……[r]
+　フェラさせてるなんて……！[r]
+　うぁっ！　興奮しすぎて、もう……っ！」[pcms]
 
 *2784|
 [fc]
-[ns]Thug A[nse]
-"What's the matter, you're quick, aren't you? You're getting[r]
-to do it with such a fine piece. Enjoy it more slowly,[r]
-right?"[pcms]
+[ns]チンピラＡ[nse]
+「なんだ早いなぁアンタ。折角こんな上玉とやれてんだぜ？[r]
+　もっとゆっくり楽しめや。なぁ？」[pcms]
 
 *2785|
 [fc]
 [vo_ren s="ren1228"]
-[ns]Ren[nse]
-"Ubu, hapu, gu... fubaaa!! Obu, guu, nmpu, abuu! Hihapu,[r]
-pau! No! Inside is already... no, I don't want it!!"[pcms]
+[ns]漣[nse]
+「うぶっ、はぷっ、ぐっ……ふぶぁぁっ！！[r]
+　おぶっ、ぐぅっ、んぷっ、あぶぅっ！　ひはっ、ぷぁっ！[r]
+　だめっ！　中はもう……いやっ、やだぁぁっ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１０（Ｌ２）反転
@@ -2227,70 +2272,74 @@ pau! No! Inside is already... no, I don't want it!!"[pcms]
 *2786|
 [fc]
 [vo_ren s="ren1229"]
-[ns]Ren[nse]
-"Hiiii!! It's... coming out...! Again, inside... in my[r]
-vagina...! No, please... stop it..."[pcms]
+[ns]漣[nse]
+「ひぃぃっ！！　で……出てる……っ！[r]
+　またっ、中にっ……膣内にぃぃ……っ！[r]
+　いやっ、もう……やめてぇぇ……」[pcms]
 
 *2787|
 [fc]
-[ns]Thug A[nse]
-"Oo... ohh...! Being squeezed out... The pussy flesh is[r]
-gripping the dick and milking the semen out of me..."[pcms]
+[ns]チンピラＡ[nse]
+「おっ……おぉう……っ！[r]
+　搾り取られるぜぇ……マンコの肉がチンポをギューギューして[r]
+　ザーメンを搾り取ってくるじゃねぇか……」[pcms]
 
 *2788|
 [fc]
-[ns]Working Adult A[nse]
-"Fa... ha, haha... To be defiling such a beautiful girl's...[r]
-mystically pretty face with my semen... it's like a[r]
-dream..."[pcms]
+[ns]社会人Ａ[nse]
+「ふぁ……は、はは……。[r]
+　こんな美少女の……神秘的なくらいキレイな顔を……[r]
+　俺の精液が汚してる……ゆ、夢みたいだ……」[pcms]
 
 *2789|
 [fc]
 [vo_ren s="ren1230"]
-[ns]Ren[nse]
-"Higu, fu, gufuu... Ugi, hi, hih... au... uu..."[pcms]
+[ns]漣[nse]
+「ひぐっ、ふっ、ぐふぅ……。[r]
+　うぎっ、ひ、ひは……あぅ……ぅぅ……」[pcms]
 
 *2790|
 [fc]
-The filthy liquid with an ugly smell is sprayed inside and[r]
-outside of my body, and they raise satisfied voices.[pcms]
+醜悪な臭いの汚らしい液を私の身体の中に、外に浴びせかけ、[r]
+満足そうな声を上げる。[pcms]
 
 *2791|
 [fc]
-I can tell that countless men are approaching me as I[r]
-collapse from exhaustion both mentally and physically...[pcms]
+心も身体も消耗しきって倒れ込む私に向かって、[r]
+さらに無数の男の人達が近付いてくるのが分かる……。[pcms]
 
 *2792|
 [fc]
-In the midst of that, a rough laughter pierces my eardrums.[pcms]
+そんな中、荒々しい高笑いが鼓膜を貫いた。[pcms]
 
 ;//〆ＤＥＶー０１０（Ｌ２）反転
 [evcg storage="DEV010h"][trans_c cross time=300]
 
 *2793|
 [fc]
-[ns]Student B[nse]
-"Ha, haha... serves you right! You lewd woman! Get even[r]
-dirtier! Despair!"[pcms]
+[ns]学生Ｂ[nse]
+「は、はは……ざまぁみろ！[r]
+　この淫乱女が！　もっともっと汚されろよ！[r]
+　絶望しろよ！[pcms]
 
 *2794|
 [fc]
 [vo_ren s="ren1231"]
-[ns]Ren[nse]
-"Ah... uwaah..."[pcms]
+[ns]漣[nse]
+「あ……うぁぁ……」[pcms]
 
 *2795|
 [fc]
-As I slowly move my aching body and lift my face, I see the[r]
-boy who violated me holding up a violin case with a twisted[r]
-expression. What is he doing...?[pcms]
+痛む身体をゆっくりと動かし、顔を上げると、私を犯していた[r]
+男子が歪んだ表情でバイオリンケースを高々と掲げていた。[r]
+な、何を……？[pcms]
 
 *2796|
 [fc]
-[ns]Student B[nse]
-"A slut like you doesn't need something like this anymore![r]
-Damn it... pretending to be pure playing this thing... Take[r]
-this!!"[pcms]
+[ns]学生Ｂ[nse]
+「淫乱女になんか、こんなモンはもう必要ねぇ！[r]
+　畜生……こんなモン弾いて清純派なんか気取りやがって……！[r]
+　オラァッ！！」[pcms]
 
 ;//♯_レッドフラッシュ
 [赤フラ]
@@ -2298,46 +2347,48 @@ this!!"[pcms]
 *2797|
 [fc]
 [vo_ren s="ren1232"]
-[ns]Ren[nse]
-"Such a thing... my violin..."[pcms]
+[ns]漣[nse]
+「そ、そんな……私の、バイオリン……」[pcms]
 
 *2798|
 [fc]
-The violin is smashed on the floor, cruelly broken. Crushed,[r]
-the strings snapped, scattered...[pcms]
+床に叩きつけられ、無残にも割れてしまったバイオリン……。[r]
+ひしゃげ、弦も千切れ、バラバラに……。[pcms]
 
 *2799|
 [fc]
 [vo_ren s="ren1233"]
-[ns]Ren[nse]
-"No, I can't take this anymore... Please stop... it's too[r]
-cruel..."[pcms]
+[ns]漣[nse]
+「い、いやぁ……こんなの、もう……。[r]
+　もうやめて……酷い……酷すぎるよ……」[pcms]
 
 *2800|
 [fc]
-Why is this happening... we're humans... not infected[r]
-ones... How can they do such cruel things...?[pcms]
+どうしてこんな……人間なのに……感染者じゃないのに……。[r]
+こんなに酷いことが……どうしてできるの……？[pcms]
 
 *2801|
 [fc]
-[ns]Shigeyoshi[nse]
-"Oh, there there. Such cruel guys, don't cry little doll."[pcms]
+[ns]重吉[nse]
+「おお、よしよし。[r]
+　ヒドイ連中だなぁ、泣くなよお人形ちゃんよぉ」[pcms]
 
 *2802|
 [fc]
 [vo_ren s="ren1234"]
-[ns]Ren[nse]
-"Hi... ah... aaah..."[pcms]
+[ns]漣[nse]
+「ひ……あ……ぁぁ……」[pcms]
 
 *2803|
 [fc]
-The last voice I want to hear--Shige-san's voice comes[r]
-through. Mocking me with a cajoling tone...[pcms]
+一番聞きたくない声――シゲさんの声が、聞こえてきた……。[r]
+猫撫で声で……嘲り、嬲り者にするように……。[pcms]
 
 *2804|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ah, it's okay little doll. I'll be gentle with you."[pcms]
+[ns]重吉[nse]
+「ああ、大丈夫だぁ、お人形ちゃん。[r]
+　俺様ぁちゃんと優しくしてやるからよぉ」[pcms]
 
 ;//〆ＤＥＶー０１１（Ｌ３）
 [evcg storage="DEV011a"][trans_c cross time=300]
@@ -2345,79 +2396,83 @@ through. Mocking me with a cajoling tone...[pcms]
 *2805|
 [fc]
 [vo_ren s="ren1235"]
-[ns]Ren[nse]
-"No, stop... no more..."[pcms]
+[ns]漣[nse]
+「い、いや……やめ……も、もう……」[pcms]
 
 *2806|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uhoohoo! You're light as a feather little doll! Just like a[r]
-real doll! Now let everyone see! The doll's pussy!"[pcms]
+[ns]重吉[nse]
+「うほほぅ！　軽いなぁお人形ちゃん！[r]
+　マジでお人形みてぇだぁ！[r]
+　さぁ、見てもらえよ！　お人形ちゃんのオメコをよぉ！」[pcms]
 
 *2807|
 [fc]
 [vo_ren s="ren1236"]
-[ns]Ren[nse]
-"No... I don't want this..."[pcms]
+[ns]漣[nse]
+「やだっ……いやぁぁ……」[pcms]
 
 *2808|
 [fc]
-I can't resist Shige-san's strength; he spreads my legs wide[r]
-open and exposes my pussy to the gaze of the men.[pcms]
+シゲさんの力に逆らえるはずもなく、大きく脚を開かされ、[r]
+男の人達の視線に晒されてしまう私のアソコ。[pcms]
 
 *2809|
 [fc]
-The entrance to my vagina has become slack from being[r]
-treated so roughly; I can feel the semen dripping down...[pcms]
+散々乱暴に扱われ、弛緩しきってしまった膣口から、[r]
+トロトロと精子が垂れ落ちていくのが分かる……。[pcms]
 
 *2810|
 [fc]
 [vo_ren s="ren1237"]
-[ns]Ren[nse]
-"Hiu... ku, ah... please stop... don't look at me... don't[r]
-look..."[pcms]
+[ns]漣[nse]
+「ひぅっ……くっ、ぁぁ……お願い、やめて……[r]
+　見ないで……見ないで……」[pcms]
 
 *2811|
 [fc]
-My plea is like the buzz of a mosquito and doesn't reach[r]
-anyone; Shige-san shakes my body happily and prepares to[r]
-humiliate me further.[pcms]
+蚊の鳴くような声での懇願は届くはずもなく、[r]
+シゲさんはユサユサと愉快そうに私の身体を揺さぶり、[r]
+さらなる辱めを与えようとしてくる。[pcms]
 
 *2812|
 [fc]
-[ns]Shigeyoshi[nse]
-"If you don't want to be seen, you gotta hide it little[r]
-doll. Hey someone cover her up! Stick your thing in and make[r]
-sure it reaches deep inside!"[pcms]
+[ns]重吉[nse]
+「見られたくねぇんなら、隠すしかねぇよなぁ、お人形ちゃん。[r]
+　おい、誰か隠してやれや！　イチモツ突っ込んで[r]
+　奥の奥までしっかりとよぉ！」[pcms]
 
 *2813|
 [fc]
-[ns]Thug B[nse]
-"Eh? Isn't Shigeyoshi-san going to insert it?"[pcms]
+[ns]チンピラＢ[nse]
+「へ？[r]
+　重吉サンが挿れるんじゃねぇんで？」[pcms]
 
 *2814|
 [fc]
-[ns]Shigeyoshi[nse]
-"It's not fresh anymore... after that brat inserted it there[r]
-I just can't get into it."[pcms]
+[ns]重吉[nse]
+「初物じゃねぇからなぁ……あのガキが挿れた所じゃ[r]
+　もうひとつヤル気になれねぇやぁ」[pcms]
 
 *2815|
 [fc]
-[ns]Thug B[nse]
-"Heheh, is that so? Then I won't hold back... I'll gladly[r]
-take it."[pcms]
+[ns]チンピラＢ[nse]
+「へへっ、そうですかい。[r]
+　だったら遠慮なく……いただかせてもらいやすぜ」[pcms]
 
 *2816|
 [fc]
 [vo_ren s="ren1238"]
-[ns]Ren[nse]
-"Ah... stop it... no more, I can't take it... It's breaking[r]
-me... I'll break..."[pcms]
+[ns]漣[nse]
+「あ……や、やめて……もう、いやぁ……。[r]
+　壊れる……壊れちゃうからぁ……」[pcms]
 
 *2817|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hyahaha! That's great! Show us how the doll breaks!"[pcms]
+[ns]重吉[nse]
+「ひゃははっ！[r]
+　いいじゃねぇか！　お人形ちゃんの壊れるところを[r]
+　見せてくれやぁ！」[pcms]
 
 ;//〆ＤＥＶー０１１（Ｌ３）ノーマル男差分
 ;mm
@@ -2427,32 +2482,34 @@ me... I'll break..."[pcms]
 *2818|
 [fc]
 [vo_ren s="ren1239"]
-[ns]Ren[nse]
-"Ha... auh, guh... higi... iiiiihh!!"[pcms]
+[ns]漣[nse]
+「はっ……あうっ、ぐっ……ひぎっ……ぃぃぃぃっ！！」[pcms]
 
 *2819|
 [fc]
-[ns]Thug B[nse]
-"Kuuu~...! Even though it's drenched in semen, it still[r]
-tightens nicely around me... irresistible~..."[pcms]
+[ns]チンピラＢ[nse]
+「くぅぅ～～……っ！[r]
+　ザーメンでドロドロになってるクセに、いい感じに[r]
+　締め付けてくるぜぇ……たまらねぇ～～……」[pcms]
 
 *2820|
 [fc]
-[ns]Shigeyoshi[nse]
-"What? Is the doll's that much of a treasure? Damn it, that[r]
-brat got to taste such a virgin treasure?"[pcms]
+[ns]重吉[nse]
+「なんだぁ？[r]
+　そんなに名器なのかお人形ちゃんのはよぉ。[r]
+　クソッ、あのガキゃぁ……そんなのの初物味わったのかよ」[pcms]
 
 *2821|
 [fc]
 [vo_ren s="ren1240"]
-[ns]Ren[nse]
-"Don't move please... eahh! It hurts... my insides are[r]
-stinging! It hurts when you rub against it... iiii!"[pcms]
+[ns]漣[nse]
+「う、動かないで……ぇぁぁっ！　い、痛いの……っ！[r]
+　おなかの中ヒリヒリして……！　擦っちゃ痛っ……ぃぃっ！」[pcms]
 
 *2822|
 [fc]
-Pulling his hips back largely and thrusting in violently all[r]
-at once, a sharp pain resonates from inside my vagina.[pcms]
+大きく腰を引き、一気に奥まで突き挿れるその乱暴な責めに、[r]
+ビリビリとした痛みが膣内から響いてくる。[pcms]
 
 ;//〆ＤＥＶー０１１（Ｌ３）ノーマル男差分
 [evcg storage="DEV011d"][trans_c cross time=300]
@@ -2460,40 +2517,45 @@ at once, a sharp pain resonates from inside my vagina.[pcms]
 *2823|
 [fc]
 [vo_ren s="ren1241"]
-[ns]Ren[nse]
-"Higu, uah, ha, hauh... ngi, hi, aah! No, it hurts... I'm[r]
-breaking! I'm really going to break apart!"[pcms]
+[ns]漣[nse]
+「ひぐっ、うぁっ、は、はぅっ……んぎっ、ひっ、ああっ！[r]
+　だめっ、痛いっ……壊れるっ！　ホントに壊れちゃう……[r]
+　からぁぁっ！！」[pcms]
 
 *2824|
 [fc]
-[ns]Thug B[nse]
-"Uh, qua! The lewd flesh smeared with semen is entangling[r]
-me... squeezing me..."[pcms]
+[ns]チンピラＢ[nse]
+「うっ、くぁっ！[r]
+　ザーメンまみれのスケベ肉が絡んで……っ！[r]
+　搾ってくる……！」[pcms]
 
 *2825|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hurry up and finish inside her! Make sure to give her a[r]
-present deep in her womb. She's made you feel so good; you[r]
-gotta show some gratitude."[pcms]
+[ns]重吉[nse]
+「とっとと出してやんな！　ちゃんと子宮の奥まで[r]
+　プレゼントしてやらねぇとなぁ。そんなに気持ち良くして[r]
+　くれてんだから、礼をしねぇといけねぇだろ」[pcms]
 
 *2826|
 [fc]
 [vo_ren s="ren1242"]
-[ns]Ren[nse]
-"No please don't...! Not inside anymore... I don't want[r]
-semen. Semen from anyone but Onii-chan is bad for me..."[pcms]
+[ns]漣[nse]
+「いやっ、だめぇ……！[r]
+　もう中いやぁ……精子いやぁぁ……。[r]
+　お兄ちゃん以外の精子……だめなの……いやなの……」[pcms]
 
 *2827|
 [fc]
-I shake my head from side to side with a body that can[r]
-barely muster any strength left to show my refusal of being[r]
-cummed inside. But as expected, my wishes are ignored--[pcms]
+もはや力の入らない身体で、それでも首を左右に振って[r]
+中出しを拒否する意思を示す。[r]
+でも、当然のように私の願いは無視されて――[pcms]
 
 *2828|
 [fc]
-[ns]Thug B[nse]
-"Alright! Here, I come...! Ukuh, kuuu~~~!!"[pcms]
+[ns]チンピラＢ[nse]
+「よしっ！[r]
+　出、す、ぞ……っ！[r]
+　うくっ、くぅぅ～～～っっ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１１（Ｌ３）ノーマル男差分
@@ -2504,101 +2566,105 @@ cummed inside. But as expected, my wishes are ignored--[pcms]
 *2829|
 [fc]
 [vo_ren s="ren1243"]
-[ns]Ren[nse]
-"Hic... it's coming out... Again, inside my stomach... deep[r]
-inside, so much... no... This could really make a baby..."[pcms]
+[ns]漣[nse]
+「ひっ……ぃぃ……出……て、るぅ……。[r]
+　また……おなかの中に……奥にいっぱい……いやぁ……。[r]
+　こんなの……ホントに赤ちゃん……できちゃうぅ……」[pcms]
 
 *2830|
 [fc]
-The sensation of hot, sticky fluid forcefully shot into the[r]
-depths of my belly, and the feeling of an enormous amount of[r]
-semen swirling inside my womb.[pcms]
+勢いよくおなかの奥に撃ち込まれる熱い粘液の感触と、[r]
+子宮の中で渦巻く、おびただしい量の精液の感覚。[pcms]
 
 *2831|
 [fc]
-Limp and powerless in Shigeyoshi's arms, I feel the two[r]
-sensations mixing inside me.[pcms]
+ふたつが混じり合って行くのを、体の内側で感じながら、[r]
+シゲさんの腕の中でグッタリと脱力してしまう。[pcms]
 
 *2832|
 [fc]
-If only these arms were Onii-chan's... Onii-chan... Onii-[r]
-chan...[pcms]
+この腕が……お兄ちゃんの腕だったら……。[r]
+お兄ちゃん……お兄ちゃん……。[pcms]
 
 ;//〆ＤＥＶー０１１（Ｌ３）ノーマル男差分
 [evcg storage="DEV011a"][trans_c cross time=300]
 
 *2833|
 [fc]
-[ns]Thug B[nse]
-"Heheh... Shigeyoshi-san should have a go too? It feels[r]
-amazing."[pcms]
+[ns]チンピラＢ[nse]
+「へへっ……重吉サンもヤるべきですぜ？[r]
+　最高に具合がイイっスから」[pcms]
 
 *2834|
 [fc]
-[ns]Shigeyoshi[nse]
-"Tch, you idiots. Like I'd stick it in a hole smeared with[r]
-your cum! Damn, I wanted to taste a virgin too... huh?"[pcms]
+[ns]重吉[nse]
+「ちっ、バカヤロー。てめぇらの精子まみれの穴になんか[r]
+　挿れられるかよ！[r]
+　くそっ、それにしても初物が喰いたかったぜ……ん？」[pcms]
 
 *2835|
 [fc]
-Shigeyoshi shakes my body, trying to sieve out the cum[r]
-overflowing from my gaping pussy. Each time, his hard,[r]
-monstrous dick touches my butt...[pcms]
+私の身体をゆすり、開きっぱなしの膣口からあふれる精子を[r]
+篩い落とそうとするシゲさん。[r]
+そのたびに、固く凶悪な大きさのおちんちんがお尻に触れて……。[pcms]
 
 *2836|
 [fc]
-[ns]Shigeyoshi[nse]
-"Right, there's still another virgin here."[pcms]
+[ns]重吉[nse]
+「そうだな、初物はまだあるかぁ」[pcms]
 
 *2837|
 [fc]
-Shigeyoshi approaches my ear with a voice filled with[r]
-sinister pleasure, his foul breath wafting over me... no,[r]
-please no more...[pcms]
+禍々しい悦びに満ちた声を上げながら、私の耳元に[r]
+口を寄せてくるシゲさん。[r]
+ムワッとした口臭が漂い……いやっ、もう……。[pcms]
 
 *2838|
 [fc]
-[ns]Shigeyoshi[nse]
-"The doll might have been fucked by that brat of a brother,[r]
-but this here is still untouched, right?"[pcms]
+[ns]重吉[nse]
+「お人形ちゃんは、兄貴のあのガキとヤリまくりだったかも[r]
+　知れねぇけど、コッチはまだ初めてだろぉ？」[pcms]
 
 *2839|
 [fc]
 [vo_ren s="ren1244"]
-[ns]Ren[nse]
-"Hii...! Th-that's the wrong spot...!"[pcms]
+[ns]漣[nse]
+「ひぃ……っ！　そ、そこ……違っ……！」[pcms]
 
 *2840|
 [fc]
-The tip of a dick as thick as an arm is perfectly aligned[r]
-with my asshole. No way... no way...![pcms]
+腕ほどもありそうな太さのおちんちんの先が、おしりの穴に[r]
+ピッタリと添えられる。[r]
+まさか……まさか……！[pcms]
 
 *2841|
 [fc]
 [vo_ren s="ren1245"]
-[ns]Ren[nse]
-"That's impossible... there! Because that place is... It's[r]
-the wrong spot...! That kind of thing...!"[pcms]
+[ns]漣[nse]
+「そ、そんなの無理……です……！[r]
+　そこは、だって……！　違う所だから……！[r]
+　そんな……そんなの……！」[pcms]
 
 *2842|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gwehehe... Looks like that ass is still untouched. I'll be[r]
-the one to break it in? Cry and enjoy it!"[pcms]
+[ns]重吉[nse]
+「ぐぇへへぇ……どうやらその様子だとケツ穴は初物らしいなぁ。[r]
+　俺様が貫通式してやるぜぇ？[r]
+　泣きわめいて悦べよぉ！？」[pcms]
 
 *2843|
 [fc]
 [vo_ren s="ren1246"]
-[ns]Ren[nse]
-"No no no no noooo!! Please! I'm really going to break! I[r]
-can't take it anymore!"[pcms]
+[ns]漣[nse]
+「だめだめだめだめだめぇっっ！！[r]
+　お願いします！　ホントに……ホントに壊れちゃうぅっ！[r]
+　もう無理っ……なのぉっ！」[pcms]
 
 *2844|
 [fc]
-With the last of my strength, I flail my arms and legs[r]
-desperately trying to escape. But my resistance seems almost[r]
-non-existent to Shigeyoshi. The next moment, something hot[r]
-presses hard against my butt--[pcms]
+最後の力を振り絞り、必死に逃げ出そうと手足を振って暴れる。[r]
+けれどその抵抗も、シゲさんにとってはないも同然だったようで。[r]
+次の瞬間、熱いものがおしりに強く押し付けられ――[pcms]
 
 ;//〆ＤＥＶー０１１（Ｌ３）重吉チンポ挿入差分
 ;mm
@@ -2608,20 +2674,24 @@ presses hard against my butt--[pcms]
 *2845|
 [fc]
 [vo_ren s="ren1247"]
-[ns]Ren[nse]
-"Igih! Ugh, kah...! Agih, hic... igyiiiiiiiiiiiiiiii!!"[pcms]
+[ns]漣[nse]
+「いっ……ぎひっ！　うぐっ、かはっ……！[r]
+　あぎっ、ひっ……いぎぃぃぃぃぃぃぃぃぃぃぃっっ！！！」[pcms]
 
 ;//♯_レッドフラッシュ
 
 *2846|
 [fc]
-It's going in...! Into my butt... tearing and ripping...!![pcms]
+は、入って……！[r]
+おしりにっ……メリメリと裂きながら……っ！！[pcms]
 
 *2847|
 [fc]
 [vo_ren s="ren1248"]
-[ns]Ren[nse]
-"Aguuuuu!! Hic, gebuh, guhii! ~~~~~~~~~~~~~~~~~~~~!!"[pcms]
+[ns]漣[nse]
+「あ、あぐぅぅぅっっ！！[r]
+　ひっ、げぼっ、ぐひぃっ！[r]
+　～～～～～～～～～～～～～～～～～っっっ！！！」[pcms]
 
 ;//♯_レッドフラッシュ
 [赤フラ]
@@ -2639,63 +2709,63 @@ It's going in...! Into my butt... tearing and ripping...!![pcms]
 *2848|
 [fc]
 [vo_ren s="ren1249"]
-[ns]Ren[nse]
-"...Uguh! Fugih, igi... agaaaa..."[pcms]
+[ns]漣[nse]
+「……うぐっ！　ふぎっ、いっ……あがぁぁぁぁ……」[pcms]
 
 *2849|
 [fc]
-[ns]Shigeyoshi[nse]
-"Oh, you're waking up? Thought you broke just from the[r]
-insertion."[pcms]
+[ns]重吉[nse]
+「おっ、お目覚めかぁ？[r]
+　挿れただけで壊れちまったかと思ったぜぇ」[pcms]
 
 *2850|
 [fc]
-I lost consciousness due to the terror of being torn in two[r]
-and the sharp pain.[pcms]
+私は、体がふたつに引き裂かれる恐怖と[r]
+鋭い激痛に意識が飛んでしまった。[pcms]
 
 *2851|
 [fc]
-However, I was forcibly awakened by the dull, hot pain and[r]
-pressure coming from my ass and the bottom of my stomach.[pcms]
+しかし、それに続く、おしりとおなかの底から伝わってくる[r]
+鈍く熱い痛みと圧迫感に無理やり覚醒させられてしまった。[pcms]
 
 *2852|
 [fc]
-[ns]Shigeyoshi[nse]
-"How is it? My dick is the best, right...! Your ass is[r]
-tearing and stretching? You've probably never taken such a[r]
-big shit before!"[pcms]
+[ns]重吉[nse]
+「どうだぁ？　俺様のイチモツは最高だろう……！[r]
+　ケツ穴がメリメリいって広がってるぜぇ？[r]
+　流石にこんな太いウンコなんかしたことねぇだろうからなぁ！」[pcms]
 
 *2853|
 [fc]
-Laughter erupts from those around at Shigeyoshi's words.[pcms]
+シゲさんの言葉に、ドッと周囲から笑い声が上がった。[pcms]
 
 *2854|
 [fc]
-The sensation of a huge foreign object in my ass and stomach[r]
-makes cold sweat break out all over my body.[pcms]
+おしりとおなかに感じる巨大な異物感に[r]
+冷たい汗が、体中から吹き出すのがわかる。[pcms]
 
 *2855|
 [fc]
-That unbelievable thickness and size are tearing through my[r]
-asshole and thrusting deep inside.[pcms]
+あの、信じられない太さと大きさの肉の塊が、[r]
+私のおしりの穴を引き裂いて、深く打ち込まれている。[pcms]
 
 *2856|
 [fc]
-I feel dizzy with pain and discomfort... If only I could[r]
-have stayed unconscious...[pcms]
+苦しくて痛くて頭がクラクラする……。[r]
+あのまま気絶していられたら……。[pcms]
 
 *2857|
 [fc]
-[ns]Shigeyoshi[nse]
-"Now then... time to get serious? Brace yourself as I pound[r]
-your rectum."[pcms]
+[ns]重吉[nse]
+「さぁて……そろそろ本気でいくぜぇ？[r]
+　直腸をゴンゴン突き上げてやらぁ。覚悟しろやぁ」[pcms]
 
 *2858|
 [fc]
 [vo_ren s="ren1250"]
-[ns]Ren[nse]
-"Hic... I'm going to die! Such a thing... my ass... my[r]
-stomach will tear... aguuu!!"[pcms]
+[ns]漣[nse]
+「ひっ……し、死んじゃうっ！[r]
+　そんなの……おしりっ……おなか破れちゃ……あぐぅっ！！」[pcms]
 
 ;//♯_レッドフラッシュ
 ;mm
@@ -2704,19 +2774,20 @@ stomach will tear... aguuu!!"[pcms]
 
 *2859|
 [fc]
-The large mass inside my stomach is being pulled out as if[r]
-everything is going to come out.[pcms]
+おなかの中に突き刺さった大きな塊が、[r]
+外に全部出るほど引き抜かれてゆく。[pcms]
 
 *2860|
 [fc]
-I convulse as if my stomach and intestines are being wound[r]
-up and dragged out.[pcms]
+胃や腸が巻き取られて、そのまま外に引きずり出されるような[r]
+感覚に私は全身を痙攣させた。[pcms]
 
 *2861|
 [fc]
 [vo_ren s="ren1251"]
-[ns]Ren[nse]
-"Agih! Uguh! Gubuh! Agah... haguuuuuuuu!!"[pcms]
+[ns]漣[nse]
+「あぎっ！　うぐっ！　ぐぶっ！[r]
+　あがっ……はぐぅぅぅぅぅぅぅっっ！！！」[pcms]
 
 ;//♯_レッドフラッシュ
 ;mm
@@ -2726,8 +2797,9 @@ up and dragged out.[pcms]
 *2862|
 [fc]
 [vo_ren s="ren1252"]
-[ns]Ren[nse]
-"Hiah, gahah, hah, oguuu!! Iaaaaaaaah!!"[pcms]
+[ns]漣[nse]
+「ひあっ、がはっ、はっ、おぐぅっ！！[r]
+　いﾞあﾞあﾞあﾞあﾞあﾞっっ！！」[pcms]
 
 ;//♯_レッドフラッシュ
 ;mm
@@ -2736,96 +2808,100 @@ up and dragged out.[pcms]
 
 *2863|
 [fc]
-I listen to myself screaming like a beast from within my[r]
-fading consciousness.[pcms]
+意思と関係なく、獣の様な声を上げる自分を、[r]
+消え入りそうな意識の中で聞く私。[pcms]
 
 *2864|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uoh, hofuu! Nice ass! The pussy was a masterpiece; is the[r]
-asshole too? The flesh of your rectum is clinging and won't[r]
-let go!!"[pcms]
+[ns]重吉[nse]
+「うおっ、ほふぅっ！　いいケツ穴だぁ！[r]
+　オメコが名器だとケツ穴も名器だってかぁ！？[r]
+　直腸の肉が張り付いて離れねぇぜ！！」[pcms]
 
 *2865|
 [fc]
 [vo_ren s="ren1253"]
-[ns]Ren[nse]
-"Igih... higuuuu! Yaaaah! Don't moveeeehhh!! It hurts it[r]
-hurts it hurts it hurtttttttt!!"[pcms]
+[ns]漣[nse]
+「いぎっ……ひぐぅぅっ！[r]
+　やﾞあﾞあﾞっ！　動がなﾞいﾞでぇへぇぇぇぇぇっっ！！[r]
+　いﾞだいﾞいﾞだいﾞいﾞだいﾞいﾞだぃぃぃぃぃぃっっ！！！」[pcms]
 
 *2866|
 [fc]
-Pain echoes throughout my butt, the bottom of my stomach,[r]
-and inside my head... every part of my body.[pcms]
+おしりも、おなかの底も、頭の中も……身体中全部に痛みが響く。[pcms]
 
 *2867|
 [fc]
-The impact that feels like it could tear me apart makes my[r]
-consciousness flicker in and out.[pcms]
+全身がバラバラになりそうなほどの衝撃に[r]
+意識が飛び飛びに途切れ続ける。[pcms]
 
 *2868|
 [fc]
-My body convulses violently as I roll my eyes back; it feels[r]
-like someone else.[pcms]
+目を裏返らせ、体をガクガクと痙攣させる自分が、[r]
+他人のように思えてくる。[pcms]
 
 *2869|
 [fc]
-...This can't be me.[pcms]
+……これが私なはずがない。[pcms]
 
 *2870|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uoh, houu! Kuah, fooh! I feel like I'm going to be squeezed[r]
-out any second now! Hahhaa!"[pcms]
+[ns]重吉[nse]
+「うほっ、ほぅぅっ！　くあっ、ふぉぉっ！[r]
+　すぐにも搾り出されちまいそうだぜぇ！　はっはぁっ！」[pcms]
 
 *2871|
 [fc]
-My insides and outsides are so defiled, even my asshole has[r]
-been violated; vomiting like this can't be me.[pcms]
+体の中も外もこんなに汚され、おしりの穴まで犯され、[r]
+反吐を吹いているのが、私なはずがない。[pcms]
 
 *2872|
 [fc]
 [vo_ren s="ren1254"]
-[ns]Ren[nse]
-"Ngiuh, gubuh... gebuh, gohoh, ugeeh! Gurujih... ugah,[r]
-agih... gihiiii!!"[pcms]
+[ns]漣[nse]
+「んぎっ、ぐぶっ……げぼっ、ごほっ、うげぇっ！[r]
+　ぐるじっ……うがっ、あぎっ……ぎひぃぃっ！！」[pcms]
 
 *2873|
 [fc]
-I feel like all my organs are being pushed up from below and[r]
-about to burst out of my mouth.[pcms]
+内臓全部が下から押し上げられ、口から飛び出してしまいそうな[r]
+感覚に襲われる。[pcms]
 
 *2874|
 [fc]
-The pressure from inside pushes up again, causing semen and[r]
-stomach acid to overflow from my stomach.[pcms]
+内側から突き上げられて、再び圧迫された胃から、[r]
+精液と胃液をあふれさせる。[pcms]
 
 *2875|
 [fc]
-No good... it's still "me"... No more... I'm going to die...[r]
-To die like this... Onii-chan...[pcms]
+だめだ……やっぱり、『私』だ……。[r]
+だめっ、もう……、死んじゃう……。[r]
+こんなので、死んじゃうなんて……お、兄ちゃ……ん。[pcms]
 
 *2876|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ugh... guuuh! I'm going to release! I'll pour it all into[r]
-your ass! So much that it'll overflow from your mouth!!"[pcms]
+[ns]重吉[nse]
+「うっ……ぐぅぅっ！[r]
+　出すぞ！　ケツの中に全部流し込んでやらぁ！[r]
+　口からあふれ出すくらいたっぷりとなぁ！！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_c3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2877|
 [fc]
 [vo_ren s="ren1255"]
-[ns]Ren[nse]
-"No wayyyyy!! Stop... I can't take it! It's too muchhh!!! My[r]
-stomach will burstttt!!!"[pcms]
+[ns]漣[nse]
+「だめえええっっ！！　やめっ……無理っ！[r]
+　無理だがらﾞぁぁ！！！[r]
+　おﾞなﾞかﾞ破れるうﾞうﾞうﾞっっ！！！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2878|
 [fc]
-[ns]Shigeyoshi[nse]
-"Take this... nowww!!"[pcms]
+[ns]重吉[nse]
+「おらっ！！[r]
+　受け取れ……よぉっ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;システムボタン＆ウィンドウ消去
@@ -2840,45 +2916,47 @@ stomach will burstttt!!!"[pcms]
 *2879|
 [fc]
 [vo_ren s="ren1256"]
-[ns]Ren[nse]
-"Ugh!!? Agah, geh! Gehah! Gafuu! Guhih...ugh,[r]
-kah...hiiiiiiiiii!!"[pcms]
+[ns]漣[nse]
+「おぐぇっ！！？　あがっ、げぇっ！　げはっ！　がふぅっ！[r]
+　ぐひっ……うぐっ、かっ……はひぃぃぃぃぃぃっっ！！！」[pcms]
 
 *2880|
 [fc]
-The hot liquid travels back up from my butt to my stomach,[r]
-coursing through my body.[pcms]
+おしりをからおなかへと遡り、大量の熱い液体が身体の中を[r]
+駆け上ってくる。[pcms]
 
 *2881|
 [fc]
-The discomfort and disgust make my body and mind reject[r]
-everything, almost tearing my consciousness apart.[pcms]
+その違和感と嫌悪感に、身体も頭も全てを拒否し、意識が[r]
+引き千切られそうになる。[pcms]
 
 *2882|
 [fc]
-Ah... why... why is this happening...?[pcms]
+あ……ど、どうして……なんで、こんな……？[pcms]
 
 *2883|
 [fc]
-Why am I... going through this...? Onii-chan... where are[r]
-you...? Help me... I'm going to die...[pcms]
+なんで、わたし……こんな……ことに……？[r]
+お兄……ちゃん……どこ……？[r]
+助けて……わ、たし……もう、死……。[pcms]
 
 *2884|
 [fc]
-[ns]Shigeyoshi[nse]
-"Fuhah, haaa~... What a nice ass you have, doll. Once is not[r]
-enough to enjoy this. Hey! Someone fill her up front too!"[pcms]
+[ns]重吉[nse]
+「ふはっ、はぁ～～～……いいケツ穴だなぁ、お人形ちゃんよぉ。[r]
+　こりゃ一回程度じゃ堪能しきれねぇぜ。[r]
+　おい！　誰か前も埋めてやれや！」[pcms]
 
 *2885|
 [fc]
-[ns]Thug C[nse]
-"Fufufu, I've been waiting for this."[pcms]
+[ns]チンピラＣ[nse]
+「ふへへっ、待ってました」[pcms]
 
 *2886|
 [fc]
 [vo_ren s="ren1257"]
-[ns]Ren[nse]
-"Ah...ah..."[pcms]
+[ns]漣[nse]
+「あ……あﾞあﾞ……」[pcms]
 
 ;//〆ＤＥＶー０１１（Ｌ３）ノーマル男差分
 [evcg storage="DEV011f"][trans_c cross time=300]
@@ -2886,110 +2964,113 @@ enough to enjoy this. Hey! Someone fill her up front too!"[pcms]
 *2887|
 [fc]
 [vo_ren s="ren1258"]
-[ns]Ren[nse]
-"Ah, agu...uhah...ha, aaah..."[pcms]
+[ns]漣[nse]
+「あ、あぐ……うは……は、ぁぁ……」[pcms]
 
 *2888|
 [fc]
-[ns]Thug C[nse]
-"Ahh... Isn't this a bit too much? She's all loose now.[r]
-Didn't she break?"[pcms]
+[ns]チンピラＣ[nse]
+「あ～……流石にヤリ過ぎじゃないっスかねぇ。[r]
+　もうユルユルっスよ？　壊れちまったんじゃないスか？」[pcms]
 
 *2889|
 [fc]
-[ns]Shigeyoshi[nse]
-"What? Is it because your little stick is like a toothpick?[r]
-Come on! Pull yourself together, doll!"[pcms]
+[ns]重吉[nse]
+「なにぃ？[r]
+　てめぇのイチモツが爪楊枝だからなんじゃねぇのか？[r]
+　おらっ！　しっかりしろやお人形ちゃん！」[pcms]
 
 *2890|
 [fc]
 [vo_ren s="ren1259"]
-[ns]Ren[nse]
-"Hih...ugh, gih...iiii!!"[pcms]
+[ns]漣[nse]
+「ひっ……うぐっ、ぎっ……ぃぃぃっ！！」[pcms]
 
 *2891|
 [fc]
-A heavy thud hits the bottom of my stomach, and my relaxed[r]
-body jerks up involuntarily.[pcms]
+ズシンと重たい衝撃がおなかの底を叩き、弛緩していた身体が[r]
+ビクリと強制的に跳ね上がらせられる。[pcms]
 
 *2892|
 [fc]
-The moment that happens, the dick inside me swells-- no,[r]
-it's my vagina that painfully contracts.[pcms]
+その途端、膣内に挿れられていたおちんちんがグッと膨らみ――[r]
+違う、私の膣内がギュッと痛みで収縮したんだ。[pcms]
 
 *2893|
 [fc]
-[ns]Thug C[nse]
-"Ohh! It tightened up all at once! There's something big and[r]
-bumpy in there... what's this?"[pcms]
+[ns]チンピラＣ[nse]
+「おおっ！　一気に締まったっスよ！[r]
+　なんかデカくてゴツゴツしたのがあるし……なんだこれ？」[pcms]
 
 *2894|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gyahahaha!! That's my manhood! It's bumping against your[r]
-toothpick through the wall between her pussy and her ass!"[pcms]
+[ns]重吉[nse]
+「ぎゃははっ！！[r]
+　そりゃ俺様のイチモツよぉ！　オメコとケツ穴の壁越しに[r]
+　おめぇの爪楊枝と当たってんだろ！？」[pcms]
 
 *2895|
 [fc]
-[ns]Thug C[nse]
-"Eeww... that's kinda iffy..."[pcms]
+[ns]チンピラＣ[nse]
+「うぇぇ～……なんかビミョーっスわぁ～……」[pcms]
 
 *2896|
 [fc]
 [vo_ren s="ren1260"]
-[ns]Ren[nse]
-"Hih...igih, ah, gahah...fuh, fuguu...!"[pcms]
+[ns]漣[nse]
+「ひっ……いぎっ、あ、がはっ……ふっ、ふぐぅ……っ！」[pcms]
 
 *2897|
 [fc]
-As they speak carelessly, the two of them begin to ravage my[r]
-insides. With every rub of their dicks inside my vagina and[r]
-butt, my consciousness gets stirred into a muddled mess.[pcms]
+勝手なことを言いながら、私の身体の中を蹂躙し始める二人。[r]
+膣内とおしりの中をおちんちんが擦り上げるたびに、意識が[r]
+グチャグチャにかき回れ、混濁していく。[pcms]
 
 *2898|
 [fc]
 [vo_ren s="ren1261"]
-[ns]Ren[nse]
-"Gubuh, gih...ah, ubuu! Uboh, ha, hag...uuu! Ugi,[r]
-hih...hihaa!"[pcms]
+[ns]漣[nse]
+「ぐぶっ、ぎひっ……あっ、うぶぅっ！[r]
+　うぼっ、は、はぐ……ぅぅっ！　うぎっ、ひっ……ひはぁっ！」[pcms]
 
 *2899|
 [fc]
-[ns]Thug C[nse]
-"Kuuu...! It's seriously tight! Despite being all slippery[r]
-and squishy, it clings so much...! This is seriously an[r]
-erotic pussy!"[pcms]
+[ns]チンピラＣ[nse]
+「くぅぅ……っ！　マジ締まるっ！[r]
+　ヌルヌルネチョネチョなのにスゲー絡み付いて……！[r]
+　マジエロマンコっスわぁ！」[pcms]
 
 *2900|
 [fc]
 [vo_ren s="ren1262"]
-[ns]Ren[nse]
-"Kuh, ah, gafu...! Ih...giii! Agu, fuh, uwa...! Kahah,[r]
-hah...aaah!"[pcms]
+[ns]漣[nse]
+「くひっ、あっ、がふっ……！　いっ……ぎぃぃっ！[r]
+　あぐっ、ふっ、うぁ……っ！　かはっ、はっ……ぁぁっ！」[pcms]
 
 *2901|
 [fc]
-Groaning as if being squeezed from the depths of my throat,[r]
-I'm at the mercy of Shige-san and the others. It's no use...[r]
-no matter what I do... this is hopeless...[pcms]
+喉の奥から搾り出されるような呻き声を上げ、シゲさん達に[r]
+されるがままになってしまっている私。[r]
+もう……何をどうしたって駄目なんだ……こんな……。[pcms]
 
 *2902|
 [fc]
-[ns]Thug C[nse]
-"Kuuu...! I can't hold it anymore! It's coming out... I'm[r]
-going to release inside... inside your pussy!"[pcms]
+[ns]チンピラＣ[nse]
+「くぅっ……！　もうもたねぇっス！[r]
+　出るっ……出すぞ！　中に……マンコの中にザーメンっ！」[pcms]
 
 *2903|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ooh! Give her plenty! Keep pouring it in until she breaks![r]
-She's nothing but a real fleshlight now!"[pcms]
+[ns]重吉[nse]
+「おおっ！　たっぷり出してやれ！[r]
+　ドンドン流し込んで壊してやれよ！[r]
+　もうコイツは本物の肉ダッチだぁ！」[pcms]
 
 *2904|
 [fc]
 [vo_ren s="ren1263"]
-[ns]Ren[nse]
-"Kuh...uwa! Gufu...ngu, fuguuu!!"[pcms]
+[ns]漣[nse]
+「くっ……うぁっ！　ぐふっ……んぐっ、ぐふぅぅっ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１１（Ｌ３）ノーマル男差分
@@ -3001,14 +3082,14 @@ She's nothing but a real fleshlight now!"[pcms]
 *2905|
 [fc]
 [vo_ren s="ren1264"]
-[ns]Ren[nse]
-"Uboh...gobuh, guh, gueeh...ah, ga...aaah..."[pcms]
+[ns]漣[nse]
+「うぼっ……ごぶっ、ぐっ、ぐげぇ……あ、が……ぁぁ……」[pcms]
 
 *2906|
 [fc]
-The pulsing semen being poured into my vagina and butt in[r]
-such force and quantity clouds not only my insides but also[r]
-my consciousness.[pcms]
+ドクドクと脈打ち、膣内に、おしりの中に注ぎ込まれる[r]
+精子の勢いと量に、身体の中だけではなく意識まで[r]
+白濁させられていく。[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;システムボタン＆ウィンドウ消去
@@ -3022,140 +3103,144 @@ my consciousness.[pcms]
 
 *2907|
 [fc]
-They thrust into me two or three more times as if trying to[r]
-pour in every last drop, stirring the insides of my stomach[r]
-and butt into a mushy mess.[pcms]
+そんな私の身体の中をさらに二、三度と突き上げ、[r]
+最後の一滴までも注ぎ込もうとするかのように、おなかの中、[r]
+おしりの中をグチュグチュとかき混ぜていく。[pcms]
 
 *2908|
 [fc]
 [vo_ren s="ren1265"]
-[ns]Ren[nse]
-"Uguh, gepoh...guhoh, gehoh...kahah, ha... aguuu, hih,[r]
-noo...fuguuuu..."[pcms]
+[ns]漣[nse]
+「うぐっ、げぽっ……ぐほっ、げほっ……かはっ、は……[r]
+　あぐぅっ、ひっ、やっ……ふぐぅぅぅ……」[pcms]
 
 *2909|
 [fc]
-[ns]Thug C[nse]
-"Kufuu~... I've been completely drained~..."[pcms]
+[ns]チンピラＣ[nse]
+「くふぅ～～……搾り取られたっスわぁ～～……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2910|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gufuh, gehaha... Her belly's swollen like a pregnant woman.[r]
-How about we do a birth show next?"[pcms]
+[ns]重吉[nse]
+「ぐふっ、げはは……。[r]
+　腹が孕み女みてぇにパンパンになってるじゃねぇか。[r]
+　どれ、今度は出産ショーかぁ？」[pcms]
 
 *2911|
 [fc]
 [vo_ren s="ren1266"]
-[ns]Ren[nse]
-"Hahih, uh...aaaaaaaah..."[pcms]
+[ns]漣[nse]
+「はひっ、うっ……あﾞあﾞあﾞあﾞあﾞあﾞあﾞ……」[pcms]
 
 *2912|
 [fc]
-The sensation of Shige-san's hard and brutal dick being[r]
-pulled out of my butt makes me moan.[pcms]
+ズルズルとおしりからシゲさんの固く凶悪な、鉄の棒のような[r]
+おちんちんが引き抜かれていく感触に、呻き声をもらしてしまう。[pcms]
 
 *2913|
 [fc]
-The dick scrapes against the intestinal walls as if dragging[r]
-the organs out with it; I can feel my asshole turning inside[r]
-out and my rectum bulging out.[pcms]
+腸壁を引っ掻きながら、内臓まで一緒に引きずり出されそうな[r]
+勢いに、おしりの穴がめくれ、直腸がボコリと飛び出すのが[r]
+感じて取れた。[pcms]
 
 *2914|
 [fc]
-Ah... I'm being destroyed... I am... I..."[pcms]
+あぁ……壊されちゃってる……私……わたし……ぃぃ……。[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2915|
 [fc]
-[ns]Shigeyoshi[nse]
-"Yo...tohh!"[pcms]
+[ns]重吉[nse]
+「よっ……とぉっ！」[pcms]
 
 *2916|
 [fc]
-At the same time as the shout, the moment Shige-san's dick[r]
-pops out from the most swollen part--[pcms]
+かけ声と同時に、シゲさんのおちんちんの一番張り出した場所が[r]
+抜けた瞬間――[pcms]
 
 ;//〆ＤＥＶー０１１（Ｌ３）膣溢れ、腸内溢れ差分
 [evcg storage="DEV011h"][trans_c cross time=300]
 
 *2917|
 [fc]
-Splash! Whooshhhhh!![pcms]
+　ブシャッ！　ブシュウウゥゥゥゥッ！！[pcms]
 
 *2918|
 [fc]
-The semen that had been swelling my stomach bursts out[r]
-forcefully, along with all the filth that was left inside.[pcms]
+おなかを膨らませていた精子が勢い良く噴き出し、一緒に[r]
+おなかの中に残っていた汚物までもが撒き散らされていく。[pcms]
 
 *2919|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gyahahahaha!! I've cleaned your insides with my semen!![r]
-It's like an intestinal cleansing at an esthetic salon!!"[pcms]
+[ns]重吉[nse]
+「ぎゃははははっ！！[r]
+　俺様の精液で腹ん中掃除してやったぜぇ！！[r]
+　エステの腸内洗浄なみじゃねぇか！！」[pcms]
 
 *2920|
 [fc]
-Guffawing loudly, Shige-san continues to watch me scatter[r]
-filth.[pcms]
+ゲラゲラと笑いながら、私が汚物を撒き散らすのを眺め続ける[r]
+シゲさん。[pcms]
 
 *2921|
 [fc]
-I just stare blankly at it. The scene before me is too[r]
-surreal to believe it's my own doing.[pcms]
+それを、私はただ茫然と見続けていた。[r]
+自分自身の仕業とは思えない、あまりにも現実離れした光景。[pcms]
 
 *2922|
 [fc]
-This can't be real... I must be broken... this can't be[r]
-true...[pcms]
+こんなの……ホントじゃない……。[r]
+私……きっと、壊れちゃった……こんなの、ホントなわけ……。[pcms]
 
 *2923|
 [fc]
-[ns]Office Worker B[nse]
-"Uh, we can have a go at her too, right?"[pcms]
+[ns]社会人Ｂ[nse]
+「あ、あの……俺達も、ヤってもいいんですよね……？」[pcms]
 
 *2924|
 [fc]
-[ns]Student C[nse]
-"Yeah, that's right...! We want to use her as a toy too!"[pcms]
+[ns]学生Ｃ[nse]
+「そ、そうだ……！[r]
+　俺達だってそいつをオモチャにしてぇよ！」[pcms]
 
 *2925|
 [fc]
-[ns]Shigeyoshi[nse]
-"Huh? Oh yeah, do whatever you want. I've had my fill of[r]
-fresh meat. She's just a fleshlight now!"[pcms]
+[ns]重吉[nse]
+「ん？　ああ、好きにしろや。[r]
+　初物もいただいたしなぁ。もう肉ダッチに用はねぇや！」[pcms]
 
 *2926|
 [fc]
-No way... I'm already...[pcms]
+そ、そんな……わ、わたし……も、もう……[pcms]
 
 ;//♯_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2927|
 [fc]
-[ns]Working Adult B[nse]
-"Wow! She's so light!"[pcms]
+[ns]社会人Ｂ[nse]
+「おおっ！　軽い……！」[pcms]
 
 *2928|
 [fc]
-[ns]Student C[nse]
-"Really, she's so thin and soft. Just like a doll."[pcms]
+[ns]学生Ｃ[nse]
+「ほんと、細くって、柔らかくって[r]
+　人形みたいだ」[pcms]
 
 *2929|
 [fc]
-[ns]Office Worker B[nse]
-"Ah, the inside of her thighs are sticky with semen. It[r]
-keeps overflowing from inside."[pcms]
+[ns]社会人Ｂ[nse]
+「あぁ、内ももが精液でベトベトだ。[r]
+　どんどん中からあふれ出てくる」[pcms]
 
 *2930|
 [fc]
-[ns]Student C[nse]
-"Damn, that's thick... We gotta try her out too and see how[r]
-good she feels!"[pcms]
+[ns]学生Ｃ[nse]
+「すげぇ濃い……。[r]
+　どんだけ具合が良いのか、俺らも試させてもらおうぜ！」[pcms]
 
 ;//〆ＤＥＶー０１２（Ｌ４）
 [evcg storage="DEV012a"][trans_c cross time=300]
@@ -3163,170 +3248,172 @@ good she feels!"[pcms]
 *2931|
 [fc]
 [vo_ren s="ren1267"]
-[ns]Ren[nse]
-"Fu...ah...ah, open...nn, guu...uh."[pcms]
+[ns]漣[nse]
+「ふ……うぁ……あ、あくっ……んっ、ぐぅぅ……っ」[pcms]
 
 *2932|
 [fc]
-[ns]Office Worker B[nse]
-"Hey, is she okay...? Her eyes are looking pretty vacant."[pcms]
+[ns]社会人Ｂ[nse]
+「お、おい……大丈夫かコイツ……なんかもう目が虚ろだぜ？」[pcms]
 
 *2933|
 [fc]
-[ns]Student C[nse]
-"Who cares! Her ass feels great. It's probably loosened up[r]
-from that thick one before, it's the perfect tightness now!"[pcms]
+[ns]学生Ｃ[nse]
+「しらねぇよ！　ケツはいい具合だぜ？[r]
+　さっきまであんなぶっといの　挿れられて緩んだからか、[r]
+　丁度いい締め具合だ！」[pcms]
 
 *2934|
 [fc]
 [vo_ren s="ren1268"]
-[ns]Ren[nse]
-"Ku, hi...ugh, ha...haa, aah..."[pcms]
+[ns]漣[nse]
+「くっ、ひ……うぐっ、はっ……はぁ、ぁぁ……」[pcms]
 
 *2935|
 [fc]
-Her toes dangle helplessly in the air.[pcms]
+爪先がプラプラ宙を掻く。[pcms]
 
 *2936|
 [fc]
-Standing upright, my body is lifted solely by the dicks[r]
-thrust into my pussy and ass.[pcms]
+立った姿勢のまま、オマンコとお尻に突っ込まれた[r]
+おちんちんだけで、私の体は持ち上げられていた。[pcms]
 
 *2937|
 [fc]
-[ns]Working Adult B[nse]
-"Ku...the semen-covered folds of flesh are stroking my[r]
-dick...!"[pcms]
+[ns]社会人Ｂ[nse]
+「くっ……こっちも精液まみれの肉襞が[r]
+　チンポをズルズル撫でてっ……！」[pcms]
 
 *2938|
 [fc]
-As the men thrust upward, my body momentarily floats in the[r]
-air, then falls back down until it stops at the base of[r]
-their two shafts.[pcms]
+男の人たちが突き上げると、私の体は一瞬、本当に宙に浮き、[r]
+そして、重力に引かれて、２本の根元で止まるまで落下する。[pcms]
 
 *2939|
 [fc]
-The motion repeats in quick succession, shaking my body[r]
-violently up and down between the men.[pcms]
+その動きが、小刻みに繰り返され、私の体は男の人たちの間で[r]
+ガクガクと上下にゆさぶられた。[pcms]
 
 *2940|
 [fc]
-With each movement, drool drips from my agape mouth, and my[r]
-glasses begin to slide off.[pcms]
+動きにあわせて、開きっぱなしになった口から、涎がしたたり、[r]
+メガネもずり落ちていく。[pcms]
 
 *2941|
 [fc]
-[ns]Office Worker B[nse]
-"Haha! Look at that face she's making! Her tongue's hanging[r]
-out sloppily, and there's even snot coming out!"[pcms]
+[ns]社会人Ｂ[nse]
+「ははっ！　この子、なんて顔してるんだ！[r]
+　だらしなく舌だして、涎どころか、鼻水まで出てるぞ！」[pcms]
 
 *2942|
 [fc]
-[ns]Student C[nse]
-"Has she really broken?"[pcms]
+[ns]学生Ｃ[nse]
+「ホントにぶっ壊れちゃったか？」[pcms]
 
 *2943|
 [fc]
-[ns]Office Worker B[nse]
-"Anyway, this is a great face... Such a cute girl being[r]
-fucked senseless and showing such a wrecked expression...[r]
-It's getting me excited...!"[pcms]
+[ns]社会人Ｂ[nse]
+「なんにせよ、こりゃ、いい顔だな……。こんな可愛い子が、[r]
+　さんざん犯されて、ボロボロになって見せる表情……。[r]
+　なんだか興奮してきた……！」[pcms]
 
 *2944|
 [fc]
-[ns]Student C[nse]
-"You were worried just a moment ago. Is this what they call[r]
-an awakening?"[pcms]
+[ns]学生Ｃ[nse]
+「さっきは心配なんかしてたのに。[r]
+　目覚めたってやつ？」[pcms]
 
 *2945|
 [fc]
-[ns]Office Worker B[nse]
-"Fufufu..."[pcms]
+[ns]社会人Ｂ[nse]
+「ふふふ……」[pcms]
 
 *2946|
 [fc]
-The man fucking me from the front peers into my face.[pcms]
+前を犯している男の人が、私の顔をのぞき込む。[pcms]
 
 *2947|
 [fc]
-[ns]Office Worker B[nse]
-"It's your fault, you know? Making such a lewd face and[r]
-having such a pleasurable body!"[pcms]
+[ns]社会人Ｂ[nse]
+「君が悪いんだよ？[r]
+　そんないやらしい顔をして、こんなに気持ちの良い体を[r]
+　してるから！」[pcms]
 
 *2948|
 [fc]
-The guy behind me touches my hair while sweetly nibbling on[r]
-my ear.[pcms]
+後ろの男子が、私の髪を触りながら耳を甘く噛む。[pcms]
 
 *2949|
 [fc]
-[ns]Student C[nse]
-"That's right. It's not our fault. It's because you have[r]
-such a beautiful and erotic body!"[pcms]
+[ns]学生Ｃ[nse]
+「そうだ。俺たちが悪いんじゃない。[r]
+　こんなに綺麗でエロい体してるから悪いんだ！」[pcms]
 
 *2950|
 [fc]
-The men's hip movements speed up.[pcms]
+男の人たちの腰の動きが早まっていく。[pcms]
 
 *2951|
 [fc]
-I immediately understand what the change means. But I no[r]
-longer have the energy to resist.[pcms]
+その変化の意味はすぐにわかった。[r]
+でも、私にはもう抵抗する気力も残っていない。[pcms]
 
 *2952|
 [fc]
-My toes, weakly suspended in the air, just wait for the[r]
-moment to come as they flail about...[pcms]
+力無く宙に浮いた爪先が、跳ねまわるに任せているように、[r]
+ただその瞬間を待つだけ……[pcms]
 
 *2953|
 [fc]
-[ns]Office Worker B[nse]
-"Well, every time I see a girl like you on a crowded train,[r]
-I wanted to do thisfuck her while standing. In the midst of[r]
-people, silently cumming inside her vagina!"[pcms]
+[ns]社会人Ｂ[nse]
+「ま、満員電車で、君みたいな女の子を見るたびに、[r]
+　こうして立ったまま、お、犯したかったんだ。[r]
+　人波の中で、声を殺して、膣内出ししたかったんだ！」[pcms]
 
 *2954|
 [fc]
-Indeed, it's no use... I'm done for...[pcms]
+やっぱり、なか……。もう、だめ……。[pcms]
 
 *2955|
 [fc]
-[ns]Student C[nse]
-"Oh, I also wanted to silently thrust into a cute, delicate[r]
-girl like this from behind on a crowded bus...! With my bare[r]
-dick, thrusting over and over...!"[pcms]
+[ns]学生Ｃ[nse]
+「お、俺も満員のバスの中で、こんな、可愛い、華奢な女子を、[r]
+　こうやって後ろから黙って突きまくりたかったんだ……！[r]
+　生チンポで、ズコズコ、ズコズコ……！」[pcms]
 
 *2956|
 [fc]
-The men's breathing quickens, and they let out pained[r]
-voices. The two dicks inside me begin to swell harder.[pcms]
+男の人たちの息づかいが早くなり、切なげな声をだす。[r]
+二本のおちんちんが、固く膨らみはじめた。[pcms]
 
 *2957|
 [fc]
-Ah... It's coming. Inside my vagina again.[pcms]
+あぁ……。来るんだ。[r]
+また、膣内に。[pcms]
 
 *2958|
 [fc]
-I'm done for... Help me... Onii-chan...[pcms]
+もう、だめ……。たすけて……おにい……。[pcms]
 
 *2959|
 [fc]
-[ns]Office Worker B[nse]
-"Ku... I'm cumming! I'm gonna cum!! Inside a girl! Bareback[r]
-in her vagina! ...Right into her womb!"[pcms]
+[ns]社会人Ｂ[nse]
+「くっ……出すっ！　出すぞっ！！[r]
+　女の子の中にっ！　生で膣内に！[r]
+　……子宮に流し込むぅっ！」[pcms]
 
 *2960|
 [fc]
-[ns]Student C[nse]
-"Quaah! I'm gonna cum inside this girl's ass...! Into this[r]
-broken doll!"[pcms]
+[ns]学生Ｃ[nse]
+「くぁぁっ！[r]
+　女子のケツに……！壊れ人形の中に出すぞっ！」[pcms]
 
 *2961|
 [fc]
 [vo_ren s="ren1270"]
-[ns]Ren[nse]
-"Ha, hauu...kuh, hiha...haa, haa... Nuu, hi...hifuu,[r]
-qua...onii-chan..."[pcms]
+[ns]漣[nse]
+「は、はぅぅ……くっ、ひは……はぁっ、はぁ……[r]
+　んぅっ、ひ……ひふっ、くぁ……お、にい……ちゃ……」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１２（Ｌ４）
@@ -3346,45 +3433,47 @@ qua...onii-chan..."[pcms]
 *2962|
 [fc]
 [vo_ren s="ren1271"]
-[ns]Ren[nse]
-"Uu, aah...hih, kufu, uhh...nnn...hia... Open up, fihu...hi,[r]
-ii..."[pcms]
+[ns]漣[nse]
+「う、ぁぁ……はひっ、くふっ、うっ……んんっ……ひぁ……[r]
+　あくっ、ふひっ……ひ、ぃぃ……」[pcms]
 
 *2963|
 [fc]
-[ns]Thug D[nse]
-"What's this? She's not reacting much anymore. Hey, make[r]
-sure you hold her up properly!"[pcms]
+[ns]チンピラＤ[nse]
+「なんだぁ？　もう反応なくなってきてんなぁ。[r]
+　おい、しっかり支えてろよ！」[pcms]
 
 *2964|
 [fc]
-[ns]Working Adult C[nse]
-"Ah, yeah, uh... But she's gone so limp, she really does[r]
-feel like a doll."[pcms]
+[ns]社会人Ｃ[nse]
+「あ、う、うん……しかし、こんなに力抜けちゃってると、[r]
+　本当にお人形さんみたいだなぁ」[pcms]
 
 *2965|
 [fc]
-[ns]Thug D[nse]
-"Yeah, like those real dolls, right? There are those high-[r]
-end Dutch wives. She's just like one of those now."[pcms]
+[ns]チンピラＤ[nse]
+「ああ、リアルドールってヤツだったっけかな。[r]
+　高級ダッチワイフみてぇなヤツがあったな。[r]
+　アレみてぇなモンだなこうなるとよぉ」[pcms]
 
 *2966|
 [fc]
 [vo_ren s="ren1272"]
-[ns]Ren[nse]
-"Ha, hi...fuku, nn, aah...igii, au... Nuku, it...hihaa..."[pcms]
+[ns]漣[nse]
+「は、ひ……ふくっ、んっ、ぁぁ……いぎっ、あぅ……[r]
+　んくっ、いっ……ひはぁ……」[pcms]
 
 *2967|
 [fc]
-[ns]Working Adult C[nse]
-"She's so slender and pale, almost translucent white skin...[r]
-If there was a doll this cute, I might have wanted one."[pcms]
+[ns]社会人Ｃ[nse]
+「細くて薄くて、透き通るような白い肌で……こんなにカワイイ[r]
+　人形だったら、一体くらい欲しかったかもな」[pcms]
 
 *2968|
 [fc]
-[ns]Thug D[nse]
-"Then fuck her with more spirit! Come on, you tooshoot your[r]
-semen into her asshole... Go!"[pcms]
+[ns]チンピラＤ[nse]
+「だったらもっと気合いれて犯しとけよ！[r]
+　ほらっ、テメェも尻穴にザーメンぶちまけろ……よっ！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 [白フラ]
@@ -3394,13 +3483,13 @@ semen into her asshole... Go!"[pcms]
 *2969|
 [fc]
 [vo_ren s="ren1273"]
-[ns]Ren[nse]
-"Nuu...uh, hi...haa, ah, open up...nnnn..."[pcms]
+[ns]漣[nse]
+「んぅっ……う、ひ……はぁっ、あ、あくっ……んんっ……」[pcms]
 
 *2970|
 [fc]
-[ns]Working Adult C[nse]
-"Yeah, uhh...kuu!!"[pcms]
+[ns]社会人Ｃ[nse]
+「う、うんっ……くぅっ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 [白フラ]
@@ -3412,14 +3501,14 @@ semen into her asshole... Go!"[pcms]
 *2971|
 [fc]
 [vo_ren s="ren1274"]
-[ns]Ren[nse]
-"Ua...it, hiu...kufu, uu...oh, fuu..."[pcms]
+[ns]漣[nse]
+「うあ……いっ、ひぅ……くふっ、ぅぅ……お、ふぅ……」[pcms]
 
 *2972|
 [fc]
-[ns]Student D[nse]
+[ns]学生Ｄ[nse]
 ;//♂:手コキ男
-"Quaah...! I'm gonna shoot it...!"[pcms]
+「くぁっ……！　かけるぞ……っ！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１３（Ｌ５）
@@ -3431,27 +3520,28 @@ semen into her asshole... Go!"[pcms]
 *2973|
 [fc]
 [vo_ren s="ren1275"]
-[ns]Ren[nse]
-"Npuh...pufu, fu, ah...hafu, ku...ua... Ha, aah...nnnn,[r]
-kuu..."[pcms]
+[ns]漣[nse]
+「んぷっ……ぷふっ、ふ、ぁ……はふ、く……ぅぁ……[r]
+　は、ぁぁ……んんっ、くぅ……」[pcms]
 
 *2974|
 [fc]
-[ns]Student D[nse]
-"Haha... Even her glasses are covered in semen milk from my[r]
-dicka perfect cum- covered doll!"[pcms]
+[ns]学生Ｄ[nse]
+「はは……メガネまで精液まみれのチンポミルク人形の[r]
+　でき上がりだぜ！」[pcms]
 
 *2975|
 [fc]
-[ns]Thug D[nse]
-"Nope, not yet! We gotta cover her more in semen!"[pcms]
+[ns]チンピラＤ[nse]
+「いや、まだまだだな！[r]
+　もっとザーメンまみれにしてやれよ！」[pcms]
 
 *2976|
 [fc]
 [vo_ren s="ren1276"]
-[ns]Ren[nse]
-"Kufu...fuu, fuu...hiha...ah, uu... Ahi...gupu...kahaa,[r]
-ha...aah..."[pcms]
+[ns]漣[nse]
+「くふっ……ふぅ、ふぅ……ひは……あ、ぅぅ……[r]
+　あひ……ぐぷっ……かはっ、は……ぁぁ……」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -3468,56 +3558,58 @@ ha...aah..."[pcms]
 *2977|
 [fc]
 [vo_ren s="ren1277"]
-[ns]Ren[nse]
-"Haa...haa...hi, nnn...fu, ha..."[pcms]
+[ns]漣[nse]
+「はぁ……はぁ……ひ、んん……ふ、は……」[pcms]
 
 *2978|
 [fc]
-...[pcms]
+………………[pcms]
 
 *2979|
 [fc]
-My body sprawled on the floor... I'm so powerless, just like[r]
-a doll, unable to move or do anything...[pcms]
+床に転がる、私の身体……。[r]
+本当に、人形になってしまったかのように、力も入らず、[r]
+何もできない……。[pcms]
 
 *2980|
 [fc]
-Am I... broken? Onii-chan...[pcms]
+私……壊れちゃったの……？　お兄ちゃん……。[pcms]
 
 *2981|
 [fc]
-From all over my body--from my pussy, from my intestines,[r]
-from my mouth... semen is dripping, and I'm sinking into a[r]
-puddle of semen...[pcms]
+身体中から――膣内から、腸内から、口から……[r]
+精液を垂れ流して、精液の水溜りの中に沈んでいる……。[pcms]
 
 *2982|
 [fc]
-Continuing to be ravaged like this... am I going to die? By[r]
-people who aren't infected, as if they were infected...[pcms]
+このまま、乱暴され続けて……私、死んじゃうの……？[r]
+感染してるわけでもない人達に、[r]
+感染した人達からされるようなことをされて……。[pcms]
 
 *2983|
 [fc]
-Why...? Why are they doing such things...? People who are[r]
-supposed to still have hearts...[pcms]
+どうして……？[r]
+どうしてこんなことするの……？[r]
+心が残ってるはずの人達が……。[pcms]
 
 *2984|
 [fc]
-[ns]Student A[nse]
-"Hey! How long are you going to sleep?! We're just getting[r]
-started!!"[pcms]
+[ns]学生Ａ[nse]
+「おらっ！　いつまで寝てんだよ！[r]
+　まだまだこれからだろうが！！」[pcms]
 
 *2985|
 [fc]
-The school uniforms... Until just recently, we were at the[r]
-same school... Attending the same classes, laughing[r]
-together... Why did it turn out like this...[pcms]
+学園の制服……ついこの間まで、同じ学園にいて……[r]
+同じように授業を受けて、同じように笑ってた人達……。[r]
+どうして、こんなことになっちゃったんだろ……。[pcms]
 
 ;//〆ＤＥＶー０１４（Ｌ６）
 [evcg storage="DEV014c"][trans_c cross time=300]
 
 *2986|
 [fc]
-Tell me, Onii-chan... Help me...[pcms]
+教えて、お兄ちゃん……助けて……。[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -3530,6 +3622,6 @@ Tell me, Onii-chan... Help me...[pcms]
 ;//---------------------------------------------------------------
 
 ;//●ゲームオーバー
-(gameover movie="gameover.mpg")(returntitle)[pcms]
+[gameover movie="gameover.mpg"][returntitle][s]
 
 

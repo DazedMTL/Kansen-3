@@ -16,123 +16,118 @@
 
 *306|
 [fc]
-I decided to take a detour around the gymnasium and escape[r]
-into the indoor pool.[pcms]
+ボクは体育館を迂回して屋内プールへと逃げ込むことに決めた。[pcms]
 
 *307|
 [fc]
-There's no time to consider whether it's the right choice or[r]
-not. It's all left to chance, a decision made on instinct.[pcms]
+それが正しい選択かどうすかを検討する余裕はない。[r]
+全ては運任せ、直感に頼った決断だ。[pcms]
 
 *308|
 [fc]
-In any case, staying here is too dangerous, and if those[r]
-approaching catch me, it's game over. I aimed for the[r]
-emergency exit of the indoor pool and kept running with all[r]
-my might.[pcms]
+とにかくこの場に留まることは危険すぎるし、[r]
+迫りくる彼らに捕まったら一巻の終わりだ。[r]
+ボクは屋内プールの非常口を目指して、全力で走り続けた。[pcms]
 
 *309|
 [fc]
-Then, on the roof of the corridor connecting the indoor pool[r]
-and the gymnasium, I saw a familiar figure.[pcms]
+すると屋内プールと体育館を結ぶ渡り廊下の屋根の上に、[r]
+見知った人物の姿が見えた。[pcms]
 
 *310|
 [fc]
-[ns]Wataru[nse]
-Yuuho!?[pcms]
+[ns]航[nse]
+「悠帆！？」[pcms]
 
 *311|
 [fc]
-As I called out reflexively with a breathless, raspy voice,[r]
-Yuuho seemed to notice me and looked my way.[pcms]
+息切れした擦れた声で反射的に叫ぶと、悠帆もボクに[r]
+気付いたらしくこちらに目線を合わせてきた。[pcms]
 
 *312|
 [fc]
-The surroundings of the corridor were already surrounded by[r]
-abnormal people, and it was a situation where she was being[r]
-cornered.[pcms]
+渡り廊下の周りはすでに、異常な人達によって囲まれていて、[r]
+追い詰められている状態だった。[pcms]
 
 *313|
 [fc]
-But even so, I couldn't just abandon Yuuho and escape alone.[pcms]
+だけど、それでも悠帆を見捨ててボク一人だけで[r]
+逃げるなんてできない。[pcms]
 
 *314|
 [fc]
-My legs naturally turned towards the corridor where Yuuho[r]
-was being cornered.[pcms]
+ボクの足は自然と悠帆が追い詰められている、[r]
+渡り廊下の方へと向いていた。[pcms]
 
 *315|
 [fc]
-[ns]Wataru[nse]
-Yuuho!! Are you okay?![pcms]
+[ns]航[nse]
+「悠帆！！　大丈夫かぁ！！」[pcms]
 
 *316|
 [fc]
-I shouted at the top of my lungs, and Yuuho tried to come[r]
-towards me while desperately maintaining her balance.[pcms]
+精一杯の大声で叫ぶと、悠帆は懸命にバランスをとりながらも[r]
+ボクの方へに向かおうとした。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_d3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *317|
 [fc]
 [vo_yuh s="yuho0114"]
-[ns]Yuuho[nse]
-Wa, Wataru... ki, kyaaah![pcms]
+[ns]悠帆[nse]
+「わ、航っ……き、きゃっあっ」[pcms]
 
 *318|
 [fc]
-However, without taking many steps, Yuuho slipped and fell[r]
-on the roof. She's in danger if things stay like this. I[r]
-want to help her somehow...[pcms]
+しかし、数歩と進まず悠帆は足を滑らせて[r]
+屋根の上で転んでしまった。[r]
+このままでは悠帆が危ない。なんとか助けに行きたいが……。[pcms]
 
 *319|
 [fc]
-How can I get there, how can I save Yuuho? I tried to think[r]
-with my confused mind working at full speed.[pcms]
+あそこへ行くには、悠帆を助けるにはどうしたらいい？[r]
+混乱した頭をフル回転させて考えてみる。[pcms]
 
 *320|
 [fc]
-The height of the corridor's roof is the same as the window[r]
-of the catwalk inside the gymnasium.[pcms]
+渡り廊下の屋根の高さは体育館の中にある、[r]
+キャットウォークの窓と同じ高さにある。[pcms]
 
 *321|
 [fc]
-That catwalk should be connected to the physical education[r]
-staff room, and accessible from the nearby emergency[r]
-staircase.[pcms]
+あのキャットウォークは確か……体育教官室に繋がっていて、[r]
+近くにある非常階段から入れるはずだ。[pcms]
 
 *322|
 [fc]
-On one side, near the indoor pool, there should be a[r]
-foldable ladder for rooftop maintenance.[pcms]
+一方の、屋内プールの脇には屋上メンテナンス用の[r]
+折りたたみ梯子があったはずだ。[pcms]
 
 *323|
 [fc]
-Of course, there's no guarantee that there won't be any[r]
-strange people there. It's a pathetic story, but what I can[r]
-do is limited, and if I'm not careful, I might end up just[r]
-like them.[pcms]
+もちろんそこにおかしな人がいないという保証はない。[r]
+情けない話だけど、ボクができることは知れているし、[r]
+下手をすればミイラ取りがミイラになるだろう。[pcms]
 
 *324|
 [fc]
-The problem presented before me was an extremely simple[r]
-choice between two options.[pcms]
+目の前に突きつけられた問題は[r]
+極めてシンプルな二者択一だった。[pcms]
 
 *325|
 [fc]
-Whether to risk my own safety and throw myself into the[r]
-tiger's den in an effort to do everything possible for[r]
-Yuuho's sake or not.[pcms]
+身の危険を顧みず、悠帆の為にできる最大の[r]
+努力をするべく虎穴に身を投じるか否か。[pcms]
 
 *326|
 [fc]
-What should I do!?[pcms]
+どうする！？[pcms]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ａ２
-;//　２１：非常階段を上がる→正解。block:21030へ
-;//　２２：ハシゴの方まで走っている→屋内プールの脇へ入ったところで感染者と鉢合わせ。B_B1
-;//　２３：時間切れ;//→体育館の非常口から感染者！　B_D4
+;//●時限式選択肢Ａ－２
+;//　２－１：非常階段を上がる→正解。block:21030へ
+;//　２－２：ハシゴの方まで走っている→屋内プールの脇へ入ったところで感染者と鉢合わせ。B_B1
+;//　２－３：時間切れ;//→体育館の非常口から感染者！　B_D4
 
 ;	[sysbt_meswin clear]
 ;
@@ -140,15 +135,15 @@ What should I do!?[pcms]
 ;	[link storage="B_B1.ks" target=*B_B1_TOP]ハシゴの方まで走っていく[endlink]
 ;	;[link storage="B_D4.ks" target=*B_D4_TOP]時間切れ[endlink]
 ;	[link storage="B_D4.ks" target=*B_D4_TOP]どっちが……[endlink]
-[pcms]
+;	[s]
 
 *SEL11|非常階段を上がる／ハシゴの方まで走っていく／どっちが……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Go up the emergency stairs'"]
-[eval exp="f.seltext04 = 'Run towards the ladder'"]
-[eval exp="f.seltext06 = 'Which one is'"]
+[eval exp="f.seltext02 = '非常階段を上がる'"]
+[eval exp="f.seltext04 = 'ハシゴの方まで走っていく'"]
+[eval exp="f.seltext06 = 'どっちが……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

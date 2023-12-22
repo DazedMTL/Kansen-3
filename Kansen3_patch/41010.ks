@@ -1,10 +1,10 @@
 ;//block:B002
-;//ブロック４１０１０『地下道悠帆のみ脱出』
+;//ブロック４１０１０『地下道～悠帆のみ脱出～』
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41000.txtから
 
 *41010_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：分校舎地下室
 ;//登場人物:主人公・悠帆（ジャージ＋バッグ）・マルガリータ（制服）
@@ -26,288 +26,290 @@
 *2291|
 [fc]
 [vo_yuh s="yuho0186"]
-[ns]Yuuho[nse]
-"It's bright..."[pcms]
+[ns]悠帆[nse]
+「明るい……」[pcms]
 
 *2292|
 [fc]
-A voice of admiration leaks from Yuuho's mouth. The dim[r]
-basement is enveloped in the warm light of the lantern,[r]
-making it feel a bit more humane.[pcms]
+悠帆の口から感嘆といった感じで声が漏れる。[r]
+薄暗い地下室がランタンの温かい光で包まれて、[r]
+少しだけ人心地がついてくる。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2293|
 [fc]
-This too, embarrassingly enough, is under the direction of[r]
-Margarita-senpai. Additionally, to prevent our bodies from[r]
-cooling down, sheets are spread on the floor, and we sit in[r]
-a circle around the light.[pcms]
+これも、情けないことにマルガリータ先輩の指示だ。[r]
+加えて、身体を冷やさないようにとのことで床には[r]
+シートを敷いて、明かりを囲んで車座に座っている。[pcms]
 
 *2294|
 [fc]
-Senpai really knows what to do in times like this. Still, I[r]
-feel somewhat reluctant to praise her for it.[pcms]
+本当に先輩はこういうときにどうすればいいかを[r]
+良く知っている。[r]
+とはいえ、それをほめるのもなんだか気が引けた。[pcms]
 
 *2295|
 [fc]
-Senpai must have learned these things in extreme situations[r]
-like war, memories she probably doesn't want to recall.[pcms]
+先輩はきっと戦争という思い出したくもないような[r]
+極限状態でこういったことを身につけたに違いないからだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2296|
 [fc]
 [vo_mar s="maru0297"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *2297|
 [fc]
-Senpai sits in front of the rusty door, occasionally seeming[r]
-to listen intently. She must be keeping watch for our safety[r]
-even while resting.[pcms]
+先輩はさびた扉の前に座り、時折[r]
+耳を澄ませているように見える。きっと、こうやって[r]
+休みながらも安全に気を配っているんだろう。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2298|
 [fc]
 [vo_yuh s="yuho0187"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 
 *2299|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *2300|
 [fc]
-Both Yuuho and I are silent, as if following senpai's[r]
-example.[pcms]
+ボクも悠帆も先輩を見習うみたいに言葉がない。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2301|
 [fc]
-Probably because we've just come through a situation so[r]
-surreal that it deviates from reality. Once the imminent[r]
-fear is gone, we feel a sudden exhaustion.[pcms]
+実際のところは、あまりに現実を逸脱した光景と状況を[r]
+くぐり抜けてきたせいだろう。迫る恐怖がなくなると、[r]
+気が抜けて、どっと疲れを感じていた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2302|
 [fc]
 [vo_yuh s="yuho0188"]
-[ns]Yuuho[nse]
-"Ah..."[pcms]
+[ns]悠帆[nse]
+「あっ……」[pcms]
 
 *2303|
 [fc]
-The silence that had continued for a while is broken by[r]
-Yuuho's voice, as if she remembered something suddenly.[pcms]
+しばらく続いていた無言は、[r]
+ふと何かを思い出したような悠帆の声で打ち破られた。[pcms]
 
 *2304|
 [fc]
-[ns]Wataru[nse]
-"What's wrong, Yuuho?"[pcms]
+[ns]航[nse]
+「どうしたの悠帆？」[pcms]
 
 *2305|
 [fc]
 [vo_yuh s="yuho0189"]
-[ns]Yuuho[nse]
-"Hey... Kousuke is...?"[pcms]
+[ns]悠帆[nse]
+「ねぇ……コ－スケは……？」[pcms]
 
 *2306|
 [fc]
-[ns]Wataru[nse]
-"Kousuke?"[pcms]
+[ns]航[nse]
+「コースケ？」[pcms]
 
 *2307|
 [fc]
-I was overwhelmed and surprised by Yuuho's words,[r]
-inadvertently asking her to repeat.[pcms]
+いっぱいいっぱいだったボクは悠帆の言葉に驚いて、[r]
+思わず聞き返すように言ってしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2308|
 [fc]
 [vo_yuh s="yuho0190"]
-[ns]Yuuho[nse]
-"Kousuke was helping out with a basketball game this[r]
-morning... I saw him practicing in the morning..."[pcms]
+[ns]悠帆[nse]
+「コ－スケ、今朝はバスケの試合の助っ人だって……。[r]
+　朝、練習してるの見かけたよ……」[pcms]
 
 *2309|
 [fc]
-Our eyes naturally turn upwards. Towards the hatch far above[r]
-us, which is now out of sight.[pcms]
+ボクたちの目は自然と上に向けられる。[r]
+今はもう見えない、はるか上のハッチの方へと。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2310|
 [fc]
-When closing the hatch, when I heard the sound of knocking[r]
-on it, I thought of Kousuke. But...[pcms]
+ハッチを閉める時、ハッチを叩く音が聞こえた時、[r]
+コ－スケのことは考えた。[r]
+だけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2311|
 [fc]
 [vo_mar s="maru0298"]
-[ns]Margarita[nse]
-"Is this Kousuke a friend of yours?"[pcms]
+[ns]マルガリータ[nse]
+「コースケというのは、友達か？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2312|
 [fc]
 [vo_yuh s="yuho0191"]
-[ns]Yuuho[nse]
-"A childhood friend... my best friend."[pcms]
+[ns]悠帆[nse]
+「幼馴染みの……親友です」[pcms]
 
 *2313|
 [fc]
-[ns]Wataru[nse]
-"Our..."[pcms]
+[ns]航[nse]
+「ボクたちの……」[pcms]
 
 *2314|
 [fc]
-We respond to senpai's words, which she utters after a long[r]
-silence.[pcms]
+久しぶりに口を開いた先輩の言葉に、ボクらは答えた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2315|
 [fc]
 [vo_mar s="maru0299"]
-[ns]Margarita[nse]
-"I see..."[pcms]
+[ns]マルガリータ[nse]
+「そうか……」[pcms]
 
 *2316|
 [fc]
-Senpai looks down as if to say "I shouldn't have asked"[r]
-before turning her gaze upwards again.[pcms]
+先輩は『悪いことを聞いたな』とでも言いた気に[r]
+うつむいてから、上の方へと目をやった。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2317|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣……」[pcms]
 
 *2318|
 [fc]
-It's not just Kousuke. If I had been more reliable like[r]
-senpai...[pcms]
+……コースケだけじゃない。[r]
+ボクがもっと、先輩みたいにしっかりしていたら……。[pcms]
 
 *2319|
 [fc]
-I couldn't even save my one and only sister.[pcms]
+ボクはたった一人の妹すら助けることができなかった。[pcms]
 
 *2320|
 [fc]
-I left my precious family, my one and only sister, behind in[r]
-that hell.[pcms]
+大事な家族、たった一人の妹を、[r]
+あの地獄に置いてきてしまったんだ。[pcms]
 
 *2321|
 [fc]
-Ren must have been waiting for me to come save her. No,[r]
-maybe she's still waiting![pcms]
+きっと、漣はボクが助けに来るのを待っていたに違いない。[r]
+いや、もしかしたら、まだ待っているかもしれない！[pcms]
 
 *2322|
 [fc]
-Why didn't I agree with Yuuho's earlier suggestion that we[r]
-might be able to go back now! I am...[pcms]
+さっきの悠帆の「今なら帰れるかも」に[r]
+なんで賛成しなかったんだ！[r]
+ボクは……。[pcms]
 
 *2323|
 [fc]
-I must have been scared.[pcms]
+きっと、怖かったんだ。[pcms]
 
 *2324|
 [fc]
-[ns]Wataru[nse]
-"I'm... no good..."[pcms]
+[ns]航[nse]
+「ボクは……ダメだな……」[pcms]
 
 *2325|
 [fc]
-Self-loathing slips out. No matter how much I regret it,[r]
-there's nothing I can do now.[pcms]
+自己嫌悪がポロリと漏れてしまう。[r]
+いくら後悔しても、もうどうにもできない。[pcms]
 
 *2326|
 [fc]
-We could certainly turn back. But my reason tells me that[r]
-what senpai is saying is right.[pcms]
+たしかに引き返すことはできる。[r]
+だけど、ボクの理性は先輩の言っていることが[r]
+正しいと判断している。[pcms]
 
 *2327|
 [fc]
-It might be self-justification for my cowardice, but I[r]
-trusted the words of senpai who had led us this far.[pcms]
+臆病な自分への自己弁護かもしれないけど、[r]
+ここまで導いてくれた先輩の言葉を、ボクは信用していた。[pcms]
 
 *2328|
 [fc]
-[ns]Wataru[nse]
-"It's too late..."[pcms]
+[ns]航[nse]
+「遅すぎたんだ……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2329|
 [fc]
 [vo_yuh s="yuho0192"]
-[ns]Yuuho[nse]
-"Wataru...?"[pcms]
+[ns]悠帆[nse]
+「航……？」[pcms]
 
 *2330|
 [fc]
-[ns]Wataru[nse]
-"If only I had woken up a little earlier. If only I had[r]
-pedaled my bike a bit faster... If only I had more[r]
-strength..."[pcms]
+[ns]航[nse]
+「あと、もう少し早く起きていれば。[r]
+　もう少し自転車をこぐのが早かったら……。[r]
+　ボクにもっと体力があったら……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2331|
 [fc]
 [vo_mar s="maru0300"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *2332|
 [fc]
-[ns]Wataru[nse]
-"If I had known it would come to this, I would have... I[r]
-would have..."[pcms]
+[ns]航[nse]
+「こんなことになるなら、ボクは……。[r]
+　ボクは……」[pcms]
 
 *2333|
 [fc]
-Lukewarm drops wet my hand. Tears spill from my eyes along[r]
-with words of regret.[pcms]
+生暖かい雫がボクの手をぬらした。[r]
+ボクの目からは悔恨の言葉と共に涙がこぼれ落ちていた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2334|
 [fc]
 [vo_yuh s="yuho0193"]
-[ns]Yuuho[nse]
-"It can't be helped. Wataru did his best, right? You did[r]
-everything you could!"[pcms]
+[ns]悠帆[nse]
+「しかたないよ。[r]
+　航は一生懸命やったよ？[r]
+　自分のできることをっ！」[pcms]
 
 *2335|
 [fc]
-[ns]Wataru[nse]
-"But if I could have done more... If there was something[r]
-more I could do..."[pcms]
+[ns]航[nse]
+「でも、ボクがもっと……。[r]
+　ボクにもっとできることがあったなら……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2336|
 [fc]
 [vo_yuh s="yuho0194"]
-[ns]Yuuho[nse]
-"Wataru..."[pcms]
+[ns]悠帆[nse]
+「航……」[pcms]
 
 [fadeoutbgm time=500]
 
@@ -322,155 +324,157 @@ more I could do..."[pcms]
 
 *2337|
 [fc]
-I don't know who embraced whom first.[pcms]
+どっちが先に抱きしめたかはわからなかった。[pcms]
 
 *2338|
 [fc]
-But I was holding Yuuho tightly. Soft and warm... with a[r]
-faint scent of shampoo and soap mingling with Yuuho's[r]
-smell...[pcms]
+だけど、ボクはしっかりと悠帆の身体を抱きしめていた。[r]
+やわらかで、あたたかで……シャンプーやセッケンの[r]
+いい香りがほんのりと悠帆の匂いに混じってて……。[pcms]
 
 *2339|
 [fc]
-Yuuho also hugs me back firmly without saying anything.[r]
-Tears were shining in her eyes too.[pcms]
+悠帆もなにも言わずボクの身体をしっかりと抱き返してくる。[r]
+悠帆の目にも、涙が光っていた。[pcms]
 
 *2340|
 [fc]
-All the things we had been holding back must have come[r]
-flowing out at once.[pcms]
+いままで、ガマンしていたものが、[r]
+きっと一気に流れ出してしまったんだろう。[pcms]
 
 *2341|
 [fc]
 [vo_yuh s="yuho0195"]
-[ns]Yuuho[nse]
-"Wataru... It's not your fault. It's just wrong that[r]
-something like this is happening..."[pcms]
+[ns]悠帆[nse]
+「航……。[r]
+　……航は悪くないよ。[r]
+　こんなことが起こってるのが、おかしいんだもの……」[pcms]
 
 *2342|
 [fc]
-[ns]Wataru[nse]
-"Yeah... I'm sorry..."[pcms]
+[ns]航[nse]
+「う、うん……。ごめん……」[pcms]
 
 *2343|
 [fc]
-Yuuho didn't say anything else, but she must be thinking[r]
-about the people we couldn't save, just like me.[pcms]
+悠帆はそうとしか言わなかったけど、[r]
+きっとボクと同じで、助けられなかった人たちのことを[r]
+考えてるに違いない。[pcms]
 
 *2344|
 [fc]
-We cried while holding each other.[pcms]
+ボクたちは抱きしめあったままで泣いた。[pcms]
 
 *2345|
 [fc]
-While crying, I was reminded of my mother by Yuuho's warmth.[pcms]
+泣きながらボクは悠帆の温かさに、[r]
+ふと母さんを思い出していた。[pcms]
 
 *2346|
 [fc]
-Yuuho is nothing like my energetic mother, but she always[r]
-comforted me in the same way, saying "Wataru, it's not your[r]
-fault."[pcms]
+元気な悠帆にはぜんぜん似てないけど、[r]
+こんな風にいつも「航は悪くない」って、[r]
+慰めてくれた母さんを。[pcms]
 
 ;//　ウェイト
 ;[wait time=1000]
 
 *2347|
 [fc]
-...That mother was lost in the Tohoku infection disaster...[pcms]
+……その母さんはあの[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]で……。[pcms]
 
 *2348|
 [fc]
-[ns]Wataru[nse]
-"...!!"[pcms]
+[ns]航[nse]
+「………………っ！！」[pcms]
 
 *2349|
 [fc]
-The thought of having lost my mother made me feel like I was[r]
-going to explode with unbearable feelings.[pcms]
+母さんを失ったことを思い出したせいで、[r]
+やりきれない気持ちにボクは爆発しそうになってしまう。[pcms]
 
 *2350|
 [fc]
-The terrifying thought of "even Ren" made my body tremble[r]
-uncontrollably.[pcms]
+『漣までも』と怖い考えになってしまい[r]
+身体の震えが止まらない。[pcms]
 
 *2351|
 [fc]
 [vo_yuh s="yuho0196"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 
 *2352|
 [fc]
-Yuuho hugged me tightly without a word. Her painfully strong[r]
-embrace brought me back to my senses.[pcms]
+悠帆は無言でボクを強く抱きしめてくれた。[r]
+その痛いくらいの抱擁がボクを正気づけてくれる。[pcms]
 
 *2353|
 [fc]
-[ns]Wataru[nse]
-"Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆……」[pcms]
 
 *2354|
 [fc]
 [vo_yuh s="yuho0197"]
-[ns]Yuuho[nse]
-"It's okay..."[pcms]
+[ns]悠帆[nse]
+「大丈夫だよ……」[pcms]
 ;//＠　泣いたあとです
 
 *2355|
 [fc]
-Wiping away tears with her finger, Yuuho said to me with a[r]
-tearful voice.[pcms]
+涙を指で払いながら、少し涙声まじりで悠帆はボクに言う。[pcms]
 
 *2356|
 [fc]
 [vo_yuh s="yuho0198"]
-[ns]Yuuho[nse]
-"Look, Kousuke is part of the self-defense group. He's been[r]
-training for times like this. So, it will definitely be[r]
-okay."[pcms]
+[ns]悠帆[nse]
+「ほら、コースケは自警団でしょ。[r]
+　こういう時のために普段から訓練してたわけじゃない。[r]
+　だから、きっと大丈夫」[pcms]
 
 *2357|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 *2358|
 [fc]
 [vo_yuh s="yuho0199"]
-[ns]Yuuho[nse]
-"Besides, Kousuke is surprisingly attentive, and he's[r]
-probably found Ren-chan and they're escaping together."[pcms]
+[ns]悠帆[nse]
+「それにコ－スケって、案外良く気がつくし、[r]
+　きっと、漣ちゃんを見つけて一緒に逃げてるよ」[pcms]
 
 *2359|
 [fc]
 [vo_yuh s="yuho0200"]
-[ns]Yuuho[nse]
-"...Surprisingly, right now he might be giving orders to[r]
-everyone who was saved, showing off. If things go well, he[r]
-might become a hero of the academy..."[pcms]
+[ns]悠帆[nse]
+「……案外、今頃助かったみんなに指示を出して、[r]
+　えばってるかも知れないよ。[r]
+　それで上手くいって、学園のヒーローになってるかも……」[pcms]
 
 *2360|
 [fc]
-[ns]Wataru[nse]
-"If that happens, when we meet next time, I'll be like 'A[r]
-hero of the academy just for coffee?' and he'll probably[r]
-start mooching food too."[pcms]
+[ns]航[nse]
+「そうなると次に会った時は[r]
+　『学園のヒーローにコーヒーだけか？』[r]
+　なんて、今度は食物までたかられそうだ」[pcms]
 
 *2361|
 [fc]
 [vo_yuh s="yuho0201"]
-[ns]Yuuho[nse]
-"That'll put even more strain on your wallet..."[pcms]
+[ns]悠帆[nse]
+「ますます、財布がピンチになるね……」[pcms]
 
 *2362|
 [fc]
-[ns]Wataru[nse]
-"Give me a break..."[pcms]
+[ns]航[nse]
+「勘弁してよ……」[pcms]
 
 *2363|
 [fc]
-While saying that, I truly wished from the bottom of my[r]
-heart that it would be reality.[pcms]
+ボクはそう言いながらも、[r]
+『それが現実であれば良いな』と心から思った。[pcms]
 
 
 ;mm 背景こっからじゃねえのか？バカか
@@ -481,84 +485,85 @@ heart that it would be reality.[pcms]
 *2364|
 [fc]
 [vo_mar s="maru0301"]
-[ns]Margarita[nse]
-"You seem to have calmed down..."[pcms]
+[ns]マルガリータ[nse]
+「落ちついたようだな……」[pcms]
 
 *2365|
 [fc]
-I was a little surprised by the sudden words of Margarita-[r]
-senpai, who had been silent until now.[pcms]
+今まで、ずっとだまっていたマルガリータ先輩の[r]
+突然の言葉にボクはちょっとだけ驚いた。[pcms]
 
 *2366|
 [fc]
-Yuuho and I had forgotten that we were in front of our[r]
-senior, hugging and crying all this time... Thinking about[r]
-it made me feel a bit embarrassed.[pcms]
+ボクと悠帆は先輩の目の前って言うのも忘れて、[r]
+ずっと抱きしめあって、泣いてたんだ……。[r]
+そう考えるとちょっと恥ずかしい。[pcms]
 
 *2367|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry..."[pcms]
+[ns]航[nse]
+「すいません……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2368|
 [fc]
 [vo_mar s="maru0302"]
-[ns]Margarita[nse]
-"Why apologize to me?"[pcms]
+[ns]マルガリータ[nse]
+「なぜ、ワタシに謝る？」[pcms]
 
 *2369|
 [fc]
-[ns]Wataru[nse]
-"Well, because... As a man, crying at a time like this..."[pcms]
+[ns]航[nse]
+「えっ、その……。[r]
+　男なのに、こんな時に泣いて……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2370|
 [fc]
 [vo_mar s="maru0303"]
-[ns]Margarita[nse]
-"There's no problem with that."[pcms]
+[ns]マルガリータ[nse]
+「別に、問題はない」[pcms]
 
 *2371|
 [fc]
-The answer from my senior was unexpected. I thought for sure[r]
-she would scold me for being pathetic.[pcms]
+先輩の答えは意外だった。[r]
+てっきり情けないと怒られるとばかり思ったのに。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2372|
 [fc]
 [vo_mar s="maru0304"]
-[ns]Margarita[nse]
-"It's better to cry when you can. Crying releases[r]
-neurochemicals that help heal sadness. Sadness can also[r]
-cloud your judgment..."[pcms]
+[ns]マルガリータ[nse]
+「泣ける時は泣いておいた方がいい。[r]
+　泣けば、脳内物質が分泌されて、悲しみを癒してくれる。[r]
+　悲しみも正常な判断を狂わせるからな……」[pcms]
 
 *2373|
 [fc]
-[ns]Wataru[nse]
-"Is that so...?"[pcms]
+[ns]航[nse]
+「そ、そうですか……」[pcms]
 
 *2374|
 [fc]
-This time I was surprised by my senior's calm words.[pcms]
+今度は先輩の冷静な言葉にボクは驚いてしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2375|
 [fc]
 [vo_mar s="maru0305"]
-[ns]Margarita[nse]
-"That's fine but... Could you two separate now? It's getting[r]
-embarrassing to watch."[pcms]
+[ns]マルガリータ[nse]
+「それはいいが……。[r]
+　その……そろそろ二人とも、離れてくれないか……。[r]
+　いいかげん、見ている方も恥ずかしい」[pcms]
 ;//＠テレ
 
 *2376|
 [fc]
-My senior said this with her cheeks slightly blushing, truly[r]
-looking embarrassed.[pcms]
+先輩は少し頬を染めながら、本当に恥ずかしそうに言った。[pcms]
 
 ;//〆フェードアウト
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -571,12 +576,12 @@ looking embarrassed.[pcms]
 
 *2377|
 [fc]
-When she pointed it out, it became quite embarrassing. Yuuho[r]
-and I hurriedly let go of each other.[pcms]
+改めて言われると、かなり恥ずかしい。[r]
+ボクと悠帆は、あわてて抱きしめあっていた身体を離した。[pcms]
 
 *2378|
 [fc]
-Now it was our turn to blush.[pcms]
+今度はボクたちが、頬を染める番だった。[pcms]
 
 [fadeoutbgm time=500]
 

@@ -36,58 +36,57 @@
 *82|
 [fc]
 [vo_mob s="yoshino0016"]
-[ns]Yoshino[nse]
-"You can cum loads inside me. I wonder what Ayase-kun's[r]
-semen tastes like? Ufufu, it must have a lewd male flavor.[r]
-Sounds delicious..."[pcms]
+[ns]吉野[nse]
+「私の中に精液、いっぱいぶちまけていいのよ。綾瀬くんの[r]
+　精液の味ってどんな味？　うふふ、きっといやらしい[r]
+　オスの味よね。美味しそう……」[pcms]
 
 *83|
 [fc]
-Drooling as if she couldn't help it, Yoshino-san reached out[r]
-to me. Upon closer inspection, her hand was also covered in[r]
-a sticky liquid.[pcms]
+涎をたらさんばかりに、吉野さんがボクに手を伸ばしてくる。[r]
+よく見ればその手もどろんとした液体にまみれてた。[pcms]
 
 *84|
 [fc]
-[ns]Wataru[nse]
-"Ah, ugh..."[pcms]
+[ns]航[nse]
+「あっ、うぅう……」[pcms]
 
 *85|
 [fc]
-In AVs, gravure, erotic manga, and eroge, it's a situation[r]
-that would make you swell up inside your pants when a girl[r]
-lifts her skirt to show her genitals.[pcms]
+ＡＶやグラビア、エロ漫画、エロゲの中でなら、女の子自身が[r]
+スカートをまくり上げて秘部を見せてくれるなんて、[r]
+思わずズボンの中で膨らみそうなシチュエーションだ。[pcms]
 
 *86|
 [fc]
-But witnessing it in reality is just too abnormal.[pcms]
+でも現実に目の当たりにすると異常すぎる。[pcms]
 
 *87|
 [fc]
-No, the atmosphere she exuded definitely sent me a danger[r]
-signal telling me to run away.[pcms]
+いや、そのかもし出す雰囲気が確実にボクに逃げろと[r]
+危険信号を発していた。[pcms]
 
 *88|
 [fc]
-Yoshino-san's hand reached out, about to grab my arm.[pcms]
+吉野さんの手が伸びて、ボクの腕をつかみそうになる。[pcms]
 
 *89|
 [fc]
-I instinctively backed away with my bicycle, escaping from[r]
-her grasp.[pcms]
+思わずボクは自転車ごと後ずさりをして、その腕から[r]
+逃れた。[pcms]
 
 ;//se029・人が自動車にはねられる音
 [se buf=0 storage="se029"]
 
 *90|
 [fc]
-That moment.[pcms]
+その瞬間。[pcms]
 
 *91|
 [fc]
 [vo_mob s="yoshino0017"]
-[ns]Yoshino[nse]
-"Ah"[pcms]
+[ns]吉野[nse]
+「あ」[pcms]
 
 [赤フラ]
 
@@ -96,55 +95,55 @@ That moment.[pcms]
 
 *92|
 [fc]
-Even though it happened right before my eyes just now, I[r]
-couldn't comprehend it.[pcms]
+ボクの目の前でたった今起きた出来事なのに、ボクは[r]
+理解できなかった。[pcms]
 
 *93|
 [fc]
-A white mass flew past the tip of my nose.[pcms]
+白い塊がボクの鼻先を通り過ぎていった。[pcms]
 
 *94|
 [fc]
-And then Yoshino-san disappeared.[pcms]
+そして吉野さんの姿が消えた。[pcms]
 
 *95|
 [fc]
-All I understood was that.[pcms]
+わかったのはそれだけ。[pcms]
 
 *96|
 [fc]
-Yes... like a doll, Yoshino-san's body twisted strangely as[r]
-she danced in the air.[pcms]
+そう……まるで人形のように体をヘンな風によじって宙を[r]
+舞う吉野さんの姿。[pcms]
 
 *97|
 [fc]
-Without even understanding why it happened...[pcms]
+何故そうなったのかさえ、理解できずに……。[pcms]
 
 ;//se028・自動車のクラッシュ音
 [se buf=1 storage="se028"]
 
 *98|
 [fc]
-It was thanks to the sound of the impact when the white[r]
-mass... a car speeding fiercely crashed into a traffic[r]
-light.[pcms]
+それが何かと気がついたのは、白い塊……猛スピードで[r]
+突っ込んできた自動車が信号機に衝突した衝撃音のおかげだった。[pcms]
 
 ;//se036・人間が地面に叩きつけられる音
 [se buf=0 storage="se036"]
 
 *99|
 [fc]
-Then came the heavy, indescribable sound of Yoshino-san[r]
-being slammed to the ground as she was still in mid-air.[pcms]
+続けて宙に舞っていた吉野さんが地面に叩きつけられる、[r]
+グシャリともグチャリともつかない重々しい音。[pcms]
 
 *100|
 [fc]
-[ns]Wataru[nse]
-"Yo... Yoshino-san?"[pcms]
+[ns]航[nse]
+「よ……吉野……さん？」[pcms]
 
 *101|
 [fc]
-Yoshino-san lying on the road... I need to help...[pcms]
+道路に横たわる吉野さん……。[r]
+た、助けな……。[pcms]
 
 [白フラ]
 ;//se030・車の爆発音
@@ -155,31 +154,31 @@ Yoshino-san lying on the road... I need to help...[pcms]
 
 *102|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaah!?"[pcms]
+[ns]航[nse]
+「うわあぁっ！？」[pcms]
 
 *103|
 [fc]
-The blast and heat wave struck me at the same time, and I[r]
-was blown away to the ground.[pcms]
+爆風と熱風が同時にボクに襲いかかってきて、ボクは[r]
+地面に吹き飛ばされた。[pcms]
 
 ;//se004・人が倒れる音
 [se buf=1 storage="se004"]
 
 *104|
 [fc]
-[ns]Driver[nse]
-"Gyaaaaaaaah!!"[pcms]
+[ns]運転手[nse]
+「ぎゃああああああっ！！」[pcms]
 
 *105|
 [fc]
-The driver, turned into a fireball, jumped out of the car[r]
-and rolled on the ground.[pcms]
+火ダルマになった運転手が自動車から飛び出してきて、[r]
+地面へ転がる。[pcms]
 
 *106|
 [fc]
-Yoshino-san is twitching, but around her fallen body, a red[r]
-liquid is spreading on the asphalt...[pcms]
+吉野さんはビクビクと震えているけれど、倒れたその体を中心に[r]
+赤い液体がアスファルトの上に広がっていく……。[pcms]
 
 ;//SE・飛び交うヘリのローター音（ループ）
 [se buf=0 storage="SE502" loop=true]
@@ -188,86 +187,87 @@ liquid is spreading on the asphalt...[pcms]
 
 *107|
 [fc]
-[ns]Wataru[nse]
-"What is this? What the hell is this?!"[pcms]
+[ns]航[nse]
+「なんなんだ？　なんなんだよ、これはっ！」[pcms]
 
 *108|
 [fc]
-Is this a dream?[pcms]
+夢？[pcms]
 
 *109|
 [fc]
-But for a dream, the pain from hitting the ground when the[r]
-car exploded and the heat I feel on my skin are too real.[pcms]
+でも夢にしては自動車が爆発した際に叩きつけられた[r]
+地面の痛さも、肌に感じる熱さもリアルだ。[pcms]
 
 *110|
 [fc]
-And...[pcms]
+それに……。[pcms]
 
 *111|
 [fc]
-Ah, what is it?[pcms]
+あぁ、なんだろう？[pcms]
 
 *112|
 [fc]
-I can't get my thoughts together![pcms]
+考えがうまくまとまらない！[pcms]
 
 *113|
 [fc]
-This sound that keeps repeating over and over![pcms]
+ずっと繰り返し繰り返し鳴っているこの音はっ！[pcms]
 
 *114|
 [fc]
-[ns]Wataru[nse]
-"Sirens...? And the sound of helicopters?"[pcms]
+[ns]航[nse]
+「サイレン……？　それにヘリの音か？」[pcms]
 
 *115|
 [fc]
-Realizing what the disruptive sounds were, I was stunned.[pcms]
+ボクの考えを邪魔する音の正体に気がついて、[r]
+ボクは愕然とした。[pcms]
 
 *116|
 [fc]
-The city, the entire city is wrong.[pcms]
+街が、街全体がおかしい。[pcms]
 
 *117|
 [fc]
-[ns]Wataru[nse]
-"Could it be... that what I just saw happening before my[r]
-eyes is occurring all over town at the same time?"[pcms]
+[ns]航[nse]
+「まさか……ボクが今目の前で見たような事が、[r]
+　街のあちこちで同時に起きてるのか？」[pcms]
 
 *118|
 [fc]
-The unending sound of rotors from who knows how many[r]
-helicopters flying overhead.[pcms]
+いったい何機のヘリコプターが飛んでいるのかも[r]
+わからないほど、途切れないローターの音。[pcms]
 
 *119|
 [fc]
-And sirens.[pcms]
+それにサイレン。[pcms]
 
 *120|
 [fc]
-No one is coming close despite such an accident happening.[pcms]
+こんな事故が起きたというのに、誰も何も寄ってこない。[pcms]
 
 *121|
 [fc]
-No, I myself don't know how to deal with this, so maybe[r]
-everyone else feels the same way.[pcms]
+いや、ボク自身、何をどう対処していいのか[r]
+わからないから、みんなもそうなのかもしれない。[pcms]
 
 *122|
 [fc]
 [vo_mob s="onnanoko0001"]
 [ns]？？？[nse]
-"Kyaaaaaaaah!"[pcms]
+「きゃぁあああああっ！」[pcms]
 ;//＠女の子
 
 *123|
 [fc]
-The sudden scream made me turn in that direction.[pcms]
+不意に響いた悲鳴に、ボクはそちらのほうに目をやった。[pcms]
 
 *124|
 [fc]
-That's natural. Anyone who witnesses such a tragedy would[r]
-scream. Especially if they're a girl.[pcms]
+それはそうだろう。こんな惨劇を目の前にしたら、[r]
+誰だって悲鳴をあげる。女の子ならなおさらだ。[pcms]
 
 ;//このあたりでループ止めておく
 [stopse buf=0]
@@ -275,7 +275,7 @@ scream. Especially if they're a girl.[pcms]
 
 *125|
 [fc]
-But what I saw when I looked...[pcms]
+そう思って見たのに……。[pcms]
 
 ;//♪：cage　フェードアウト
 [fadeoutbgm time=500]
@@ -294,209 +294,210 @@ But what I saw when I looked...[pcms]
 
 *126|
 [fc]
-What jumped into my sight was a girl being raped by several[r]
-men.[pcms]
+ボクの目に飛び込んできたのは、女の子が数人の男たちに[r]
+レイプされている姿だった。[pcms]
 
 *127|
 [fc]
 [vo_mob s="onnanoko0002"]
-[ns]Girl[nse]
-"No... mmmphh... Stop... mmmphh..."[pcms]
+[ns]女の子[nse]
+「い、いや……んっふぐぅううっ。や、ヤメ……[r]
+　んくぅううっ」[pcms]
 
 *128|
 [fc]
-[ns]Man A[nse]
-"Hey, suck it more. You love dick, don't you?"[pcms]
+[ns]男Ａ[nse]
+「ホラ、もっとしゃぶれ。チンポが好きなんだろ？」[pcms]
 
 *129|
 [fc]
-[ns]Male B[nse]
-"Don't forget about this cock either. Hey, if you have time[r]
-to talk, you should be sucking."[pcms]
+[ns]男Ｂ[nse]
+「こっちのチンポも忘れるなよ。ほら、喋ってる[r]
+　ヒマがあったら咥えるんだよ」[pcms]
 
 *130|
 [fc]
 [vo_mob s="onnanoko0003"]
-[ns]Girl[nse]
-"Higufuu... no, akufuuu, grandpa, stop..."[pcms]
+[ns]女の子[nse]
+「ひぐふぅう……や、あくふぅう、お、おじいちゃん、[r]
+　や、やめて……」[pcms]
 
 *131|
 [fc]
-[ns]Elder[nse]
-"Kuuu, young pussy is irresistible. It has a different[r]
-flavor. Slurrrrp..."[pcms]
+[ns]老人[nse]
+「くぅう、若い娘のマンコはたまらんわい。[r]
+　味わいが違うのぉ。じゅるるるるぅうっ」[pcms]
 
 *132|
 [fc]
 [vo_mob s="onnanoko0004"]
-[ns]Girl[nse]
-"Higguuuu... ng, no, ahh. Nnju... it's so... nng, ng,[r]
-ngfuuu."[pcms]
+[ns]女の子[nse]
+「ひっぐぅううっ。んっぐ、や、あぅ。んっぢゅ……[r]
+　はいんな……んっく、んぐ、んぐふぅうっ」[pcms]
 
 *133|
 [fc]
-I don't understand. Is this a dream?[pcms]
+わからない。これは夢なのか？[pcms]
 
 *134|
 [fc]
-Am I inside a futon?[pcms]
+ボクは布団の中にいるのか？[pcms]
 
 *135|
 [fc]
-But I'm not so sleep-deprived that I'd see such a dream.[pcms]
+でもこんな夢を見るほど、寝ぼけてなんかいない。[pcms]
 
 *136|
 [fc]
-I don't recognize those men, but if I'm not mistaken, the[r]
-old man and the girl are actually... actually grandfather[r]
-and granddaughter.[pcms]
+あの男たちには見覚えがないけれど、おじいさんと[r]
+女の子は、見間違えじゃなければ、確か実の……[r]
+実の祖父と孫だったはず。[pcms]
 
 *137|
 [fc]
-[ns]Elder[nse]
-"I can't hold back any longer. Here, Miyuki, I'll feed you[r]
-grandpa's dick."[pcms]
+[ns]老人[nse]
+「もう我慢できん。ほら、みゆき、じいちゃんのチンポを[r]
+　食わせてやるからなぁ」[pcms]
 
 *138|
 [fc]
 [vo_mob s="onnanoko0005"]
-[ns]Girl[nse]
-"No, I don't want to. I don't want to, I don't want to![r]
-Grandpa, come back to your senses!!"[pcms]
+[ns]女の子[nse]
+「や、ヤダ。ヤダ、ヤダ、ヤダッ！　お、おじいちゃん、[r]
+　しょ、正気に、正気に戻ってっ！！」[pcms]
 
 [evcg storage="HEV014b"][trans_c cross time=300]
 
 *139|
 [fc]
-The girl pleads with a face about to cry.[pcms]
+泣き出しそうな顔で女の子が哀願する。[pcms]
 
 *140|
 [fc]
-But--[pcms]
+けれど――[pcms]
 
 *141|
 [fc]
 [vo_mob s="onnanoko0006"]
-[ns]Girl[nse]
-"Hyaaaaaaaah!!"[pcms]
+[ns]女の子[nse]
+「ひゃぁあああああっ！！」[pcms]
 
 *142|
 [fc]
-Despite her pleas, the old man's erect member was thrust[r]
-deeply into the girl's pussy in one swift motion.[pcms]
+その哀願もむなしく、女の子のアソコにはいきり立った[r]
+おじいさんのモノが深々と一気に挿入された。[pcms]
 
 *143|
 [fc]
-[ns]Elder[nse]
-"Fuguuuu. Miyuki's pussy feels so good, it feels so good.[r]
-I'm still in the game!!"[pcms]
+[ns]老人[nse]
+「ふぐぅうう。みゆきのマンコは具合がえぇ、具合が[r]
+　えぇぞ。わしもまだまだ現役じゃぁああっ！！」[pcms]
 
 *144|
 [fc]
 [vo_mob s="onnanoko0007"]
-[ns]Girl[nse]
-"Higufuuu, no more, nnp, fwaaa... I don't want this..."[pcms]
+[ns]女の子[nse]
+「ひぐふぅう、も、んっぷ、ふわぁあ……ヤダ……」[pcms]
 
 *145|
 [fc]
-[ns]Man A[nse]
-"She's enjoying the old man's hip movements, don't leave her[r]
-alone."[pcms]
+[ns]男Ａ[nse]
+「じいさんの腰使いに喜んで、お留守にするなよ」[pcms]
 
 *146|
 [fc]
 [vo_mob s="onnanoko0008"]
-[ns]Girl[nse]
-"Nngguuu... it's hard... nngguuu."[pcms]
+[ns]女の子[nse]
+「んっぐぅう……く、苦し……んっぐぅう」[pcms]
 
 [evcg storage="HEV014c"][trans_c cross time=300]
 
 *147|
 [fc]
-[ns]Male B[nse]
-"You're happy, aren't you? Getting your pussy fucked by[r]
-grandpa while sucking on two dicks. Look, you're tasting[r]
-three of your favorite dickshow does it feel?"[pcms]
+[ns]男Ｂ[nse]
+「嬉しいだろ？　じいさんにおまんこにぶち込んでもらいながら、[r]
+　チンポ２本も舐められてよ。ほら、大好きなチンポ[r]
+　３本味わってる気分はどうだ？」[pcms]
 
 *148|
 [fc]
 [vo_mob s="onnanoko0009"]
-[ns]Girl[nse]
-"I don't... like it... nng. I can't take it anymore. Don't[r]
-move. Don't move... njyuuuu."[pcms]
+[ns]女の子[nse]
+「す、好きじゃ……好きなわけ……んっぐ。も、もうイヤ。[r]
+　う、動かないで。動かな……んぢゅううっ」[pcms]
 
 *149|
 [fc]
-[ns]Elder[nse]
-"Does it feel good? It feels good, doesn't it? Grandpa's[r]
-dick won't lose to any young man."[pcms]
+[ns]老人[nse]
+「気持ちいいか？　気持ちいいじゃろ？　じいちゃんの[r]
+　チンポは、まだまだ若い者には負けんぞ」[pcms]
 
 *150|
 [fc]
-It's disgusting. Despite thinking this, my eyes and neck[r]
-seemed fixed in place as if drawn to the scene, unable to[r]
-look away.[pcms]
+おぞましい。そう思うのに、ボクの目は、首は何かに[r]
+固定されたかのように惹きつけられ、目をそらす[r]
+ことなんてできなかった。[pcms]
 
 *151|
 [fc]
 [vo_mob s="onnanoko0010"]
-[ns]Girl[nse]
-"No... no... ah!"[pcms]
+[ns]女の子[nse]
+「い、いや……や、や……あっ」[pcms]
 
 *152|
 [fc]
-[ns]Elder[nse]
-"I'm going to cum. Here, I'll spill plenty of grandpa's[r]
-semen inside you."[pcms]
+[ns]老人[nse]
+「イクぞ。ほら、たっぷりじいちゃんの精子を[r]
+　ぶちまけてやるからな」[pcms]
 
 *153|
 [fc]
 [vo_mob s="onnanoko0011"]
-[ns]Girl[nse]
-"Not inside... not inside... nngguuuu!"[pcms]
+[ns]女の子[nse]
+「な、中は……中はダメ……んっぐぅううっ」[pcms]
 
 *154|
 [fc]
-[ns]Man A[nse]
-"You're going to be covered in your favorite semen, you must[r]
-be happy?"[pcms]
+[ns]男Ａ[nse]
+「大好きなザーメンまみれになれるんだ、嬉しいだろ？」[pcms]
 
 *155|
 [fc]
-[ns]Man B[nse]
-"Gyahahaha! The old man's fuck is full of spirit. We can't[r]
-lose either!"[pcms]
+[ns]男Ｂ[nse]
+「ぎゃはははっ！　ジジイのファックは気合が入ってんな。[r]
+　こっちも負けられないぜ！」[pcms]
 
 *156|
 [fc]
-[ns]Elderly person[nse]
-"I'm cumming. Here, here, hereee!"[pcms]
+[ns]老人[nse]
+「出すぞ。ほら、ほら、ほらぁああっ！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV014d"]
 
 *157|
 [fc]
-With a throb that seemed audible even to me, the old man's[r]
-white semen overflowed from the girl's pussy.[pcms]
+ドクンッと、ボクにまで音が聞こえてくるような勢いで、[r]
+女の子のアソコから真っ白なおじいさんの精子があふれてくる。[pcms]
 
 *158|
 [fc]
-[ns]Elderly person[nse]
-"Good... Good... Heeheeheehee... Uguawaaaah!!"[pcms]
+[ns]老人[nse]
+「イイ……イイ……イヒイヒヒヒイ……。[r]
+　うぐぁわああっ！！」[pcms]
 
 [evcg storage="HEV014e"][trans_c cross time=300]
 
 *159|
 [fc]
-[ns]Man A[nse]
-"The old man died. Was her slutty pussy so good that he went[r]
-to heaven?"[pcms]
+[ns]男Ａ[nse]
+「じいさん、死んじまったぜ。天国に逝くほど具合が[r]
+　いいスケベマンコか？」[pcms]
 
 *160|
 [fc]
-[ns]Man B[nse]
-"I'll let you bathe in my semen too."[pcms]
+[ns]男Ｂ[nse]
+「俺の精液も浴びさせてやるぜ」[pcms]
 
 ;//[vo_mob s="onnanoko0012"]
 [se buf=0 storage="se_sex01"]
@@ -505,97 +506,97 @@ to heaven?"[pcms]
 *161|
 [fc]
 [vo_mob s="onnanoko0012"]
-[ns]Girl[nse]
-"Aha, ahaha... ahahahahaha!"[pcms]
+[ns]女の子[nse]
+「あは、あはは……あはははははっ」[pcms]
 ;//＠（ここから徐々に気が狂っていくような感じの笑い声で
 ;//お願いします。この辺りから発症し始めているような感じ）
 
 *162|
 [fc]
-[ns]Man A[nse]
-"Here, swallow my semen too."[pcms]
+[ns]男Ａ[nse]
+「ほら、俺のザーメンもたっぷり呑め」[pcms]
 
 [evcg storage="HEV014g"][trans_c cross time=300]
 
 *163|
 [fc]
 [vo_mob s="onnanoko0013"]
-[ns]Girl[nse]
-"Nnggu, ngungu... gefu, gefu, gehooo!"[pcms]
+[ns]女の子[nse]
+「んっぐ、んぐんぐ……げふっ、げふっ、げほぉおっ」[pcms]
 
 *164|
 [fc]
-The girl repeatedly vomited as she received the men's semen[r]
-on her face and in her mouth.[pcms]
+男たちの精子を顔や腔内に受けて、女の子は[r]
+嘔吐を繰り返した。[pcms]
 
 *165|
 [fc]
-But without any hesitation or apology, the men kicked aside[r]
-the old man who had just ejaculated and become motionless[r]
-and inserted themselves into the girl's pussy.[pcms]
+けれど男たちは遠慮会釈もなしに、つい先ほど[r]
+射精したばかりだというのに、ピクリとも動かなくなった[r]
+おじいさんを足蹴にして、女の子のアソコに挿入する。[pcms]
 
 [evcg storage="HEV014i"][trans_c cross time=300]
 
 *166|
 [fc]
 [vo_mob s="onnanoko0014"]
-[ns]Girl[nse]
-"Hifuuuu, it's rough... it's rough. It's rough inside my[r]
-pussy."[pcms]
+[ns]女の子[nse]
+「ひふぅうっ、ご、ゴリゴリ……ゴリゴリする。[r]
+　おまんこの中、ゴリゴリするよぉお」[pcms]
 
 *167|
 [fc]
-[ns]Man B[nse]
-"Our dicks feel better than the old man's limp one, right?"[pcms]
+[ns]男Ｂ[nse]
+「じいさんのフニャチンより、俺たちの[r]
+　チンポのほうがいいだろ？」[pcms]
 
 *168|
 [fc]
 [vo_mob s="onnanoko0015"]
-[ns]Girl[nse]
-"Ihihiiii, that's good. Nngfuuu, stirring up my pussy with[r]
-your dicks."[pcms]
+[ns]女の子[nse]
+「い、いひぃいい、いいの。んっぐふぅう、[r]
+　おちんちん、ぐちゅぐちゅ掻き混ぜてるぅ」[pcms]
 
 *169|
 [fc]
-Is it the shock of the old man dying?[pcms]
+おじいさんが死んだショックなのか？[pcms]
 
 *170|
 [fc]
-The girl's attitude changed drastically, and she began to[r]
-accept the men.[pcms]
+女の子の態度は急変して、男たちを受け入れ始めてる。[pcms]
 
 *171|
 [fc]
-Suddenly someone appeared from the alleyway.[pcms]
+と……路地からふらりと誰かが顔を出した。[pcms]
 
 *172|
 [fc]
-[ns]Male C[nse]
-"Uhaa, pussy... pussy!"[pcms]
+[ns]男Ｃ[nse]
+「うはっ、マンコ……マンコッ！」[pcms]
 
 *173|
 [fc]
-[ns]Male D[nse]
-"Let me in too, let me fuck her too."[pcms]
+[ns]男Ｄ[nse]
+「俺にも、俺にも突っ込ませろ」[pcms]
 
 *174|
 [fc]
 [vo_mob s="onnanoko0016"]
-[ns]Girl[nse]
-"Give it to me, more, fill me up more. Ahahahahaha! Dicks,[r]
-so many dicks!"[pcms]
+[ns]女の子[nse]
+「ちょうだい、もっと、もっといっぱい突っ込んで。[r]
+　あはははははっ。おちんちん、おちんちんいっぱぁああい」[pcms]
 
 *175|
 [fc]
-Without any hesitation, they approached her and crowded[r]
-around the girl, pushing aside the man who was inserting[r]
-himself to get their own dicks in.[pcms]
+迷いもせずに彼らに近づいていくのを見て、凶行を[r]
+とめるのかと思いきや、わらわらと女の子に群がり、[r]
+挿入してる男を押しのけてまで自分のモノを挿入する。[pcms]
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
 *176|
 [fc]
-This is abnormal...[pcms]
+異常だ……。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -608,22 +609,23 @@ This is abnormal...[pcms]
 
 *177|
 [fc]
-I can't believe what I'm seeing before me; I can't run away[r]
-either; all I can do is continue watching the girl being[r]
-violated.[pcms]
+ボクは自分が見ている光景を信じることができなくて、[r]
+かといって逃げ出すこともできなくて、ずっと女の子が[r]
+陵辱されていく様を見続けているだけだ。[pcms]
 
 *178|
 [fc]
-Why is this allowed to happen? What caused this to happen?[pcms]
+なんでこんなことがまかり通ってるんだ？[r]
+何が原因でこんなことが起きてるんだ？[pcms]
 
 *179|
 [fc]
-I don't understand. I don't understand anything.[pcms]
+わからない。[r]
+何もわからない。[pcms]
 
 *180|
 [fc]
-At least until yesterday, it was supposed to be an ordinary[r]
-day like any other.[pcms]
+少なくても昨日までは普段と変わらない一日だったはずだ。[pcms]
 
 ;//〆BG：通学路・放送センター前
 [bg storage="BG01a"][trans_c cross time=500]
@@ -631,219 +633,215 @@ day like any other.[pcms]
 
 *181|
 [fc]
-But before my eyes now is a girl being gang-raped, traffic[r]
-lights broken, and cars burning.[pcms]
+でもボクの目の前では女の子が輪姦され、信号機は壊れて、[r]
+自動車は炎上したままだ。[pcms]
 
 *182|
 [fc]
-Suddenly, I felt a chilling presence and instinctively[r]
-looked back towards the station.[pcms]
+ふと、急になぜかゾクリとした気配を感じて、[r]
+ボクは駅の方向を振り返った。[pcms]
 
 *183|
 [fc]
-Perhaps because it was nearing the time for the morning rush[r]
-hour, I could see people coming from the station in droves.[pcms]
+早朝とは言え、そろそろ出勤ラッシュに差しかかる時間だからか、[r]
+駅のほうから人がぞろぞろと[r]
+やってくるのが見えた。[pcms]
 
 *184|
 [fc]
-The scene was a familiar one, and strangely, I found myself[r]
-breathing a sigh of relief.[pcms]
+その光景は見慣れたいつもと同じ光景で、[r]
+ボクは奇妙なことにホッと息を吐いた。[pcms]
 
 *185|
 [fc]
-Now everything will be okay.[pcms]
+もうこれで大丈夫。[pcms]
 
 *186|
 [fc]
-Someone among them will surely call for help or intervene.[pcms]
+きっとあの中の誰かが通報してくれるなり、[r]
+止めてくれるなりするだろう。[pcms]
 
 *187|
 [fc]
-I can even see some police officers among the crowd...[pcms]
+中には警官の姿も見えるし……。[pcms]
 
 *188|
 [fc]
-[ns]Wataru[nse]
-"...?"[pcms]
+[ns]航[nse]
+「……？」[pcms]
 
 *189|
 [fc]
-That's when I noticed something was terribly wrong.[pcms]
+そこでボクはその異様さに気づいた。[pcms]
 
 *190|
 [fc]
-If the police officers were acting normally, they would be[r]
-rushing over here after seeing this horrific scene.[pcms]
+もしも警官がまともならば、この惨状を見て[r]
+ダッシュでこちらに駆け寄ってくるはずだ。[pcms]
 
 *191|
 [fc]
-Even if they couldn't see the girl being gang-raped, the[r]
-crashed car into the traffic light should be clearly[r]
-visible.[pcms]
+たとえ女の子を輪姦している姿は見えなかったとしても、[r]
+信号機に突っ込んだ自動車ははっきりと見えるはずだ。[pcms]
 
 *192|
 [fc]
-Yet, they approach with the same speed as everyone else.[pcms]
+それなのに、周りの人々と同じスピードでやってくる。[pcms]
 
 *193|
 [fc]
-Yes... a speed that perfectly fits "wandering aimlessly."[pcms]
+そう……『うろついている』というのがピッタリなスピードで。[pcms]
 
 *194|
 [fc]
-[ns]Wataru[nse]
-"Even the police officers aren't acting normal?!!"[pcms]
+[ns]航[nse]
+「け、警官までまともじゃないのかっ！！」[pcms]
 
 *195|
 [fc]
-As if they heard my shout, they all turned to look at me at[r]
-once.[pcms]
+叫んだボクの声に気がついたように、一斉に彼らが[r]
+ボクを見た。[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 
 *196|
 [fc]
-Their eyes were all uniformly red, bloodshot eyes.[pcms]
+その瞳はみんな一様に、赤い目、[ruby text="め"]眼、[ruby text="め"]眼。[pcms]
 
 *197|
 [fc]
-A shiver of ominous foreboding ran up my spine.[pcms]
+ゾクリと不吉な予感が背筋を這い登る。[pcms]
 
 *198|
 [fc]
-This sensation is definitely something I've experienced[r]
-recently.[pcms]
+この感覚は確かに最近味わった。[pcms]
 
 *199|
 [fc]
-Yes... two days ago, when I locked eyes with that girl who[r]
-was with the delinquent group, I felt this same sense of[r]
-doom.[pcms]
+そう……一昨日、あの不良グループが連れていた[r]
+女の子と目があったときに感じた、あの不吉さだ。[pcms]
 
 *200|
 [fc]
-At the same time, images from the news two days ago flashed[r]
-through my mind.[pcms]
+それと同時に一昨日のニュースの映像が脳裏を横切った。[pcms]
 
 *201|
 [fc]
-The footage of the "Tohoku Infection Disaster."[pcms]
+あの『[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]』の映像。[pcms]
 
 *202|
 [fc]
-The smiling face of my mother just before I left home.[pcms]
+出かける間際の母さんの笑顔。[pcms]
 
 *203|
 [fc]
-The funeral for my mother with only an empty coffin, a[r]
-portrait, and a mortuary tablet.[pcms]
+空っぽの棺おけと遺影と位牌だけの母さんの葬式。[pcms]
 
 *204|
 [fc]
-One by one, these scenes crossed my mind as if happening[r]
-right before my eyes.[pcms]
+次々に今目の前にしているかのように、[r]
+それらの光景が脳裏を横切っていく。[pcms]
 
 *205|
 [fc]
-And finally, once again, the face of that girl with the red[r]
-eyes.[pcms]
+そして最後にまた、あの赤い目をした少女の顔。[pcms]
 
 *206|
 [fc]
-[ns]Wataru[nse]
-"Could it be... could this possibly be..."[pcms]
+[ns]航[nse]
+「まさか……まさかこれって……」[pcms]
 
 *207|
 [fc]
-The "Tohoku Infection Disaster" that started in Akita?[pcms]
+明田を中心に起きた『[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]』？[pcms]
 
 *208|
 [fc]
-But since then, vaccinations have been made mandatory, and[r]
-besides, this is the heart of Tokyo, far away from Tohoku.[pcms]
+でもあれから予防注射を義務付けられてるし、[r]
+第一ここは東北から遠く離れた大都会東京のど真ん中だ。[pcms]
 
 *209|
 [fc]
-I can't believe it, I just can't believe it.[pcms]
+信じられない、信じられない。[pcms]
 
 *210|
 [fc]
-But...[pcms]
+でも……。[pcms]
 
 *211|
 [fc]
-No matter how much my mind wants to deny it, the scene[r]
-before my eyes is forcing me to confront the truth.[pcms]
+どんなにボクの頭が否定したくても、[r]
+目の前の光景がボクに事実を突きつけてくる。[pcms]
 
 *212|
 [fc]
-This is undeniably reality.[pcms]
+これは紛れもない現実だと。[pcms]
 
 [bg storage="BG01a"][trans_c cross time=500]
 
 *213|
 [fc]
-[ns]Wataru[nse]
-"By the way... what happened to everyone else?"[pcms]
+[ns]航[nse]
+「そう言えば……みんなはどうしたんだ？」[pcms]
 
 *214|
 [fc]
-Ren left for school earlier than me.[pcms]
+漣はボクよりも早く学園に向かった。[pcms]
 
 *215|
 [fc]
-Kousuke said he had to help out with the basketball club[r]
-early this morning too.[pcms]
+コースケも今日は朝早くからバスケ部の[r]
+助っ人だって言ってた。[pcms]
 
 *216|
 [fc]
-And Yuuho...[pcms]
+そして悠帆。[pcms]
 
 *217|
 [fc]
-Yuuho should also be at school practicing for her upcoming[r]
-tournament.[pcms]
+悠帆も大会を間近にして、練習をしに学園に[r]
+行っているはずだ。[pcms]
 
 *218|
 [fc]
-I haven't met anyone today, nor have I been in contact. I[r]
-wonder if everyone is okay?[pcms]
+今日はまだ誰とも会ってないし、連絡さえ取ってない。[r]
+みんなは大丈夫なんだろうか？[pcms]
 
 *219|
 [fc]
-When I picked up my bicycle, I caught Yoshino-san's gaze as[r]
-if she was looking up at me resentfully.[pcms]
+自転車を引き起こしたとき、恨めしくボクを[r]
+見上げてくるような吉野さんと目があった。[pcms]
 
 *220|
 [fc]
-Her eyes were vacant, showing no emotion at all.[pcms]
+もう何の感情さえ映していない、うつろな目。[pcms]
 
 *221|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry!"[pcms]
+[ns]航[nse]
+「ごめんっ！」[pcms]
 
 *222|
 [fc]
-Hurriedly apologizing to Yoshino-san, who was no longer[r]
-moving, I mounted my bicycle again.[pcms]
+ボクは口早に、もう動かない吉野さんに謝ると、[r]
+自転車にまたがった。[pcms]
 
 ;//〆BG:黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *223|
 [fc]
-Then I headed straight for school.[pcms]
+そして後はまっすぐに学園を目指した。[pcms]
 
 *224|
 [fc]
-Dodging oncoming cars and ignoring traffic signals, I just[r]
-kept going straight ahead.[pcms]
+走ってくる自動車を避けながら、信号も[r]
+無視してただただまっすぐに。[pcms]
 
 *225|
 [fc]
-Believing that they are all safe, I continued to pedal[r]
-frantically.[pcms]
+彼らが無事でいてくれることを信じて、[r]
+ボクは一心不乱にペダルを踏み続けた。[pcms]
 
 ;//〆・jump：20050
 [jump storage="20050.ks" target=*20050_TOP]

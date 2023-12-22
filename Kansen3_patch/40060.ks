@@ -1,10 +1,10 @@
 ;//Block:A007
-;//ブロック４００６０『地下道全員脱出編　中』
+;//ブロック４００６０『地下道～全員脱出編～　中』
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40050.txtから
 
 *40060_TOP
-;{SceneSet 地下道全員脱出編中}
+;{SceneSet 地下道～全員脱出編～中}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公・マルガリータ（制服）・漣（制服）
@@ -21,12 +21,12 @@
 
 *504|
 [fc]
-[ns]Wataru[nse]
-"Hmm..."[pcms]
+[ns]航[nse]
+「ん……」[pcms]
 
 *505|
 [fc]
-Shaken by someone, I slowly opened my eyes.[pcms]
+誰かに肩を揺すられて、ボクはゆっくりと目を開いた。[pcms]
 
 ;//地下室。あればマル子の顔アップ
 ;//@konya ev025 地下道(BG扱い)
@@ -37,30 +37,30 @@ Shaken by someone, I slowly opened my eyes.[pcms]
 *506|
 [fc]
 [vo_mar s="maru0957"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 ;//「しーっ」と静かに、の合図
 
 *507|
 [fc]
-Senior... no, Maruko-senpai, illuminated by the dim light of[r]
-the lantern, was peering into my face.[pcms]
+ランタンのぼんやりした灯りに照らされた先輩……、改め、[r]
+マル子先輩がボクの顔を覗き込んでいる。[pcms]
 
 *508|
 [fc]
-...After that, we decided to take turns standing guard and[r]
-each of us took a break.[pcms]
+……あれからボクたちは交代で見張りに立つことにして、[r]
+それぞれ休憩をとることにした。[pcms]
 
 *509|
 [fc]
-I didn't think I could sleep under such tension, but as I[r]
-lay beside Ren thinking about various things, it seems I[r]
-fell asleep after all.[pcms]
+こんな緊張下で眠れるとは思わなかったけれど、[r]
+漣の傍らでいろいろ考え事をしているうちに[r]
+やっぱり寝てしまったみたいだ。[pcms]
 
 *510|
 [fc]
-Looking at the clock, about three hours had passed since[r]
-Maruko-senpai first stood guard.[pcms]
+時計を見ると、マル子先輩が最初に見張りに立ってから[r]
+三時間くらい経っていた。[pcms]
 
 ;//●以下小声で会話
 
@@ -69,82 +69,84 @@ Maruko-senpai first stood guard.[pcms]
 *511|
 [fc]
 [vo_mar s="maru0958"]
-[ns]Margarita[nse]
-"While I was on watch, I borrowed Kannagi's cell phone and[r]
-tried it out."[pcms]
+[ns]マルガリータ[nse]
+「見張りをしている間に、[r]
+　カンナギのケータイを借りて試してみた」[pcms]
 
 *512|
 [fc]
 [vo_mar s="maru0959"]
-[ns]Margarita[nse]
-"Calls are still difficult, but it seems that emails and the[r]
-internet are now connected."[pcms]
+[ns]マルガリータ[nse]
+「通話は相変わらず難しいが、[r]
+　メールやネットは繋がるようになったようだ」[pcms]
 
 *513|
 [fc]
-[ns]Wataru[nse]
-"Really? Thank goodness! Did you get any information?"[pcms]
+[ns]航[nse]
+「ほんとですか？　良かった！[r]
+　何か情報は入りましたか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *514|
 [fc]
 [vo_mar s="maru0960"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 
 *515|
 [fc]
-I asked eagerly, but Maruko-senpai's expression remained[r]
-clouded.[pcms]
+急き込んで尋ねたけれど、マル子先輩の表情は曇ったままだ。[pcms]
 
 *516|
 [fc]
 [vo_mar s="maru0961"]
-[ns]Margarita[nse]
-"Well, a little. The situation is such that the information[r]
-itself seems to be confused..."[pcms]
+[ns]マルガリータ[nse]
+「まあ、少しは、な。[r]
+　こんな状態だから情報そのものが[r]
+　錯綜してはいるようだが……」[pcms]
 
 *517|
 [fc]
-Senpai explained briefly.[pcms]
+先輩はかいつまんで説明してくれた。[pcms]
 
 *518|
 [fc]
-The bulletin boards were full of pleas for rescue, and the[r]
-news content was just short, hearsay-style reports of their[r]
-attacks.[pcms]
+掲示板は救助を求めるものばかり、[r]
+ニュースの内容も、ヤツラの襲撃情報が[r]
+短く、しかも伝聞形式で記されているだけのようだ。[pcms]
 
 *519|
 [fc]
 [vo_mar s="maru0962"]
-[ns]Margarita[nse]
-"However, it seems certain that the upper levels are full of[r]
-'them'."[pcms]
+[ns]マルガリータ[nse]
+「ただ、上は『ヤツラ』でいっぱい、ということだけは[r]
+　どうやら確実なようだ」[pcms]
 
 *520|
 [fc]
-[ns]Wataru[nse]
-"So we'll be holed up for a while."[pcms]
+[ns]航[nse]
+「じゃあ、しばらくは篭城ですね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *521|
 [fc]
 [vo_mar s="maru0963"]
-[ns]Margarita[nse]
-"That's right. I'll take a rest in preparation for what's to[r]
-come. I'm counting on you for the watch."[pcms]
+[ns]マルガリータ[nse]
+「そういうことだな。[r]
+　今後に備えて休ませてもらう。[r]
+　見張りは頼んだ」[pcms]
 
 *522|
 [fc]
-[ns]Wataru[nse]
-"Thank you for your hard work."[pcms]
+[ns]航[nse]
+「お疲れ様でした」[pcms]
 
 *523|
 [fc]
-Senpai responded with a light raise of her hand to my words,[r]
-then started to walk away but suddenly stopped again.[pcms]
+ボクの言葉に軽く手を上げて応えた先輩は、[r]
+歩きかけて、ふとまた立ち止まる。[pcms]
 
 [bgm storage="BGM14"]
 
@@ -153,189 +155,189 @@ then started to walk away but suddenly stopped again.[pcms]
 *524|
 [fc]
 [vo_mar s="maru0964"]
-[ns]Margarita[nse]
-"Hey, Wataru."[pcms]
+[ns]マルガリータ[nse]
+「なあ、ワタル」[pcms]
 
 *525|
 [fc]
-[ns]Wataru[nse]
-"Yes?!"[pcms]
+[ns]航[nse]
+「はいっ！？」[pcms]
 
 *526|
 [fc]
-...I was surprised. Senpai suddenly brought her face close[r]
-to mine.[pcms]
+……びっくりした。[r]
+先輩、急に顔を近づけてくるんだもんな。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *527|
 [fc]
 [vo_mar s="maru0965"]
-[ns]Margarita[nse]
-"...I've reevaluated you."[pcms]
+[ns]マルガリータ[nse]
+「……キミのことを見直した」[pcms]
 
 *528|
 [fc]
-[ns]Wataru[nse]
-"Eh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 *529|
 [fc]
-With an unusually soft smile, senpai continued in a low[r]
-voice.[pcms]
+いつもと違う、柔らかい微笑みを湛えて[r]
+先輩は低い声で続ける。[pcms]
 
 *530|
 [fc]
 [vo_mar s="maru0966"]
-[ns]Margarita[nse]
-"Let me be honest. I thought you were a more fragile man.[r]
-But..."[pcms]
+[ns]マルガリータ[nse]
+「正直に言おう。[r]
+　ワタシはキミをもっと、ヤワな男だと思っていた。[r]
+　だが……」[pcms]
 
 *531|
 [fc]
 [vo_mar s="maru0967"]
-[ns]Margarita[nse]
-"You went to help Ren and Kannagi without regard for your[r]
-own life in that situation where even your life was in[r]
-danger..."[pcms]
+[ns]マルガリータ[nse]
+「キミは、ヤツラに襲われ、生命さえ危ういあの状況で、[r]
+　己の身を省みず、レンやカンナギを助けに行った……」[pcms]
 
 *532|
 [fc]
-[ns]Wataru[nse]
-"That's..."[pcms]
+[ns]航[nse]
+「それは……」[pcms]
 
 *533|
 [fc]
-I think it's an overestimation.[pcms]
+違う、買いかぶりだ、と思う。[pcms]
 
 *534|
 [fc]
-I think I couldn't have done anything by myself...[pcms]
+だってボクだけじゃ何もできなかったと思うし……。[pcms]
 
 *535|
 [fc]
-[ns]Wataru[nse]
-"It's because you were there, senpai."[pcms]
+[ns]航[nse]
+「先輩がいてくれたから、ですよ」[pcms]
 
 *536|
 [fc]
-Senpai continued without breaking her smile at my words.[pcms]
+ボクの言葉にも先輩は笑みを崩さずに続ける。[pcms]
 
 *537|
 [fc]
 [vo_mar s="maru0968"]
-[ns]Margarita[nse]
-"Moreover, since coming here, you've been taking care of Ren[r]
-and encouraging everyone... You've been a really good[r]
-brother and friend."[pcms]
+[ns]マルガリータ[nse]
+「それに、ここに来てからも、レンの面倒を見て、[r]
+　みんなに声をかけて励まして……。[r]
+　実に良い兄ぶり、良い友人ぶりだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *538|
 [fc]
 [vo_mar s="maru0969"]
-[ns]Margarita[nse]
-"Even though you must be overwhelmed yourself, the way you[r]
-care for others is..."[pcms]
+[ns]マルガリータ[nse]
+「自分だって、いっぱいいっぱいだろうに、[r]
+　他人を気遣える、その姿は……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *539|
 [fc]
-Gazing off into the distance for a moment as if searching[r]
-for words... Senpai suddenly smiled again.[pcms]
+一瞬、何処か遠くを見詰め、言葉を捜して……。[r]
+先輩は、ふっとまた笑顔になる。[pcms]
 
 *540|
 [fc]
 [vo_mar s="maru0970"]
-[ns]Margarita[nse]
-"You were quite impressive, you know?"[pcms]
+[ns]マルガリータ[nse]
+「なかなか、格好良かったぞ？」[pcms]
 
 *541|
 [fc]
-Eh...? Impressive...? Me?[pcms]
+え……？[r]
+かっこいい……？　ボクが？[pcms]
 
 *542|
 [fc]
-[ns]Wataru[nse]
-"...Th-thank you."[pcms]
+[ns]航[nse]
+「…………ど……どうも」[pcms]
 
 *543|
 [fc]
-I'm glad this room is dimly lit... If the lighting had been[r]
-stronger, my ears would have surely given away how red[r]
-they've become...[pcms]
+この部屋が薄暗くて良かった……。[r]
+もし照明が強かったら、[r]
+耳まで赤くなってるのがバレただろうな……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *544|
 [fc]
 [vo_mar s="maru0971"]
-[ns]Margarita[nse]
-"I'll be relying on you from now on. Let's work well[r]
-together again."[pcms]
+[ns]マルガリータ[nse]
+「これからは頼りにさせてもらう。[r]
+　改めてヨロシクな」[pcms]
 
 *545|
 [fc]
-Senpai gracefully extended her slender hand towards me.[pcms]
+先輩はすっと、ほっそりした手を差し出してきた。[pcms]
 
 *546|
 [fc]
-[ns]Wataru[nse]
-"That's... I should be the one saying that."[pcms]
+[ns]航[nse]
+「そんな……、ぼ、ボクのほうこそ」[pcms]
 
 *547|
 [fc]
-I instinctively grasped senpai's hand.[pcms]
+ボクは思わず先輩の手を握る。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *548|
 [fc]
-Senpai squeezed back lightly in the handshake and then said[r]
-'see ya' as she returned to her own bed.[pcms]
+先輩は軽く力をこめて、握手したあと、[r]
+じゃあな、と自分の寝床に戻っていった。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *549|
 [fc]
-[ns]Wataru[nse]
-"...I've been relied upon..."[pcms]
+[ns]航[nse]
+「…………た、頼りにされちゃった……」[pcms]
 
 *550|
 [fc]
-Maruko-senpai is relying on me...? The reliable senpai who[r]
-seems like she can do anything by herself...?[pcms]
+あの、マル子先輩がボクを頼るなんて……？[r]
+何でも自分ひとりでできちゃいそうな、頼もしい先輩が……？[pcms]
 
 *551|
 [fc]
-I tighten my cheeks that are about to relax with a 'no[r]
-no...'.[pcms]
+思わず緩みそうになる頬を、「いやいや……」と引き締める。[pcms]
 
 *552|
 [fc]
-This is no time to be happy. It just means that the[r]
-situation is serious. That even my strength is being counted[r]
-on...[pcms]
+喜んでる場合じゃない。それだけ状況が大変だってことだ。[r]
+ボクの力までアテにされるくらい……。[pcms]
 
 *553|
 [fc]
-[ns]Wataru[nse]
-"I have to at least keep watch properly."[pcms]
+[ns]航[nse]
+「ちゃんと、見張りくらいしないとな」[pcms]
 
 *554|
 [fc]
-Once again, I psyched myself up and was about to get up to[r]
-go on watch.[pcms]
+改めて気合をいれて、[r]
+ボクは見張りに向かうため、起き上がろうとした。[pcms]
 
 *555|
 [fc]
-But... Suddenly, my sleeve was pulled.[pcms]
+と……。[r]
+不意に袖が引っ張られた。[pcms]
 
 *556|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「え……？」[pcms]
 
 [fadeoutbgm time=500]
 ;//@konya 暗転
@@ -350,119 +352,121 @@ But... Suddenly, my sleeve was pulled.[pcms]
 *557|
 [fc]
 [vo_ren s="ren0867"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「…………」[pcms]
 
 *558|
 [fc]
-Ren, who I thought was asleep, was looking at me with a[r]
-smile, having woken up at some point.[pcms]
+いつの間に起きていたのか、[r]
+眠っているとばかり思っていた漣が笑顔でボクを見ていた。[pcms]
 
 *559|
 [fc]
-[ns]Wataru[nse]
-"You were awake?"[pcms]
+[ns]航[nse]
+「起きてたのか」[pcms]
 
 *560|
 [fc]
 [vo_ren s="ren0868"]
-[ns]Ren[nse]
-"Fufu... Big brother, you looked so cool."[pcms]
+[ns]漣[nse]
+「ふふっ……。[r]
+　お兄ちゃん、格好いい、だって」[pcms]
 
 *561|
 [fc]
-She giggled softly, perhaps being considerate of the[r]
-surroundings.[pcms]
+周囲に気を遣ってか、くすくすと小声で笑っている。[pcms]
 
 *562|
 [fc]
-[ns]Wataru[nse]
-"Stop it..."[pcms]
+[ns]航[nse]
+「よせよ……」[pcms]
 
 *563|
 [fc]
 [vo_ren s="ren0869"]
-[ns]Ren[nse]
-"But really, you were very cool, big brother?"[pcms]
+[ns]漣[nse]
+「でも、本当に格好良かったよ、お兄ちゃん？」[pcms]
 
 *564|
 [fc]
-Ren gently took my hand as I turned away in embarrassment.[pcms]
+照れてそっぽを向くボクの手を、[r]
+漣はそうっと握ってくる。[pcms]
 
 [evcg storage="EV010c"][trans_c cross time=300]
 
 *565|
 [fc]
 [vo_ren s="ren0870"]
-[ns]Ren[nse]
-"You know... when I barricaded myself in the audio-visual[r]
-room, I believed that big brother would definitely come to[r]
-save me. And then... you really did come..."[pcms]
+[ns]漣[nse]
+「私ね……、視聴覚室に立てこもったとき、[r]
+　お兄ちゃんが絶対に助けに来てくれるって信じてた。[r]
+　そしたら……本当に来てくれた……」[pcms]
 
 [evcg storage="EV010d"][trans_c cross time=300]
 
 *566|
 [fc]
 [vo_ren s="ren0871"]
-[ns]Ren[nse]
-"Thank you... big brother..."[pcms]
+[ns]漣[nse]
+「ありがと……お兄ちゃん……」[pcms]
 
 *567|
 [fc]
-[ns]Wataru[nse]
-"...Mm."[pcms]
+[ns]航[nse]
+「……ん」[pcms]
 
 *568|
 [fc]
-Of course, I would. After all, we are the only two siblings[r]
-we have.[pcms]
+当たり前じゃないか。[r]
+だってボクたちは、たった二人きりの兄妹なんだから。[pcms]
 
 *569|
 [fc]
-I thought about saying that, but it felt too embarrassing to[r]
-say out loud, so I stopped myself.[pcms]
+そんなことを言おうかと思ったけれど、[r]
+なんだか口に出すのも恥ずかしいから止めてしまった。[pcms]
 
 *570|
 [fc]
-[ns]Wataru[nse]
-"...More importantly, you need to rest properly. You still[r]
-have a fever..."[pcms]
+[ns]航[nse]
+「……それより、ちゃんと休まないと。[r]
+　熱だって……」[pcms]
 
 [evcg storage="EV010c"][trans_c cross time=300]
 
 *571|
 [fc]
-When I brought my face close and touched foreheads with her,[r]
-I could feel her faint warmth.[pcms]
+顔を寄せておでこをくっつけてみると[r]
+ぼんやりした熱が伝わってきた。[pcms]
 
 *572|
 [fc]
-[ns]Wataru[nse]
-"...See, you're still a bit warm. We're going to face even[r]
-tougher times ahead, so you need to recover your strength,[r]
-okay?"[pcms]
+[ns]航[nse]
+「……ほら、まだ少し熱い。[r]
+　これから先はもっと大変なんだから[r]
+　体力回復しておかないと、な？」[pcms]
 
 [evcg storage="EV010d"][trans_c cross time=300]
 
 *573|
 [fc]
 [vo_ren s="ren0872"]
-[ns]Ren[nse]
-"Yes. Goodnight, big brother."[pcms]
+[ns]漣[nse]
+「はぁい。おやすみ、お兄ちゃん」[pcms]
 
 *574|
 [fc]
-Ren obediently replied and lay down with a shy smile on her[r]
-face.[pcms]
+素直に返事をした漣は、[r]
+はにかんだような微笑を浮かべて横になる。[pcms]
 
 *575|
 [fc]
-[ns]Wataru[nse]
-"Yeah. Goodnight."[pcms]
+[ns]航[nse]
+「うん。おやすみ」[pcms]
 
 *576|
 [fc]
-Gently stroking her feverish forehead, I slowly got up.[pcms]
+熱っぽい額をそっと撫でて、[r]
+ボクはゆっくりと起き上がった。[pcms]
 
 [fadeoutbgm time=500]
 
@@ -478,50 +482,49 @@ Gently stroking her feverish forehead, I slowly got up.[pcms]
 
 *577|
 [fc]
-The spot I decided on for keeping watch was near the stairs[r]
-against the wall. From here, I could oversee the entire room[r]
-and keep an eye on the door.[pcms]
+見張りポジションと決めた場所は、階段近くの壁際だ。[r]
+ここからなら部屋全体が見渡せるし、扉にも目が届く。[pcms]
 
 *578|
 [fc]
-I sat down leaning against the wall.[pcms]
+ボクは壁にもたれかかるようにして座り込んだ。[pcms]
 
 *579|
 [fc]
-At my feet were mine and Kousuke's cell phones, along with[r]
-Yuuho's, all laid out.[pcms]
+足元にはボクのとコースケの、それに悠帆の携帯電話が[r]
+並べて置いてある。[pcms]
 
 *580|
 [fc]
-All of them barely had signal and seemed to be receiving[r]
-emails.[pcms]
+どれもかろうじて圏内のサインが出ていて、[r]
+それぞれメールが着信しているようだ。[pcms]
 
 *581|
 [fc]
-I hope there's some good news...[pcms]
+何か、いい知らせが来てるといいんだけど……。[pcms]
 
 *582|
 [fc]
-While cautioning myself not to get my hopes up too much, I[r]
-picked up my cell phone and opened the email screen. And[r]
-then...[pcms]
+期待しすぎないようにと自分を戒めながら[r]
+自分の携帯を手にして、メール画面を開いた。[r]
+すると……。[pcms]
 
 *583|
 [fc]
-[ns]Wataru[nse]
-"...It's from dad."[pcms]
+[ns]航[nse]
+「……父さんだ」[pcms]
 
 *584|
 [fc]
-I hurried back to the sleeping area.[pcms]
+ボクは慌てて寝床に駆け戻る。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *585|
 [fc]
-[ns]Wataru[nse]
-"...Ren... Ren?"[pcms]
+[ns]航[nse]
+「……漣……漣？」[pcms]
 
 ;//@konya ev010
 [evcg storage="EV010c"][trans_c cross time=300]
@@ -529,203 +532,206 @@ I hurried back to the sleeping area.[pcms]
 *586|
 [fc]
 [vo_ren s="ren0873"]
-[ns]Ren[nse]
-"...Mm... What is it, big brother?"[pcms]
+[ns]漣[nse]
+「……ん……なぁに、お兄ちゃん？」[pcms]
 
 *587|
 [fc]
-Ren had just fallen asleep and opened her eyes slightly,[r]
-looking at me with a dazed expression...[pcms]
+寝付いたばかりなんだろう、薄目を開いた漣は[r]
+ぼんやりとした視線を向けていたが……。[pcms]
 
 *588|
 [fc]
-[ns]Wataru[nse]
-"An email. From dad."[pcms]
+[ns]航[nse]
+「メール。父さんから」[pcms]
 
 *589|
 [fc]
 [vo_ren s="ren0874"]
-[ns]Ren[nse]
-"Dad...!"[pcms]
+[ns]漣[nse]
+「お、お父さん……！」[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *590|
 [fc]
-With that one word, she sprang up and clung to my cell[r]
-phone.[pcms]
+そのひとことでパッと起き上がり、[r]
+ボクの携帯にかじりついてきた。[pcms]
 
 ;//@konya ev025 地下道(BG扱い)
 [evcg storage="EV025b"][trans_c cross time=300]
 
 *591|
 [fc]
-Trembling fingers operated the buttons to open the message.[pcms]
+震える指でボタンを操作し、本文を開く。[pcms]
 
 ;//以下ケータイメール　何らかの演出を
 
 *592|
 [fc]
-Wataru, are you safe?[pcms]
+航、無事か？[pcms]
 
 *593|
 [fc]
-We're currently near the heliport by Chiba Mouse Kingdom.[pcms]
+こっちは現在、千葉ネズミーキングダム近くのヘリポートだ。[pcms]
 
 *594|
 [fc]
-The creatures are multiplying rapidly.[pcms]
+奴らはあっというまに増殖している。[pcms]
 
 *595|
 [fc]
-The government has evacuated the city center. The military[r]
-and police are at their limits.[pcms]
+政府は都心を脱出した。[r]
+軍も警察も限界だ。[pcms]
 
 *596|
 [fc]
-Please take care of Ren.[pcms]
+漣を頼む。[pcms]
 
 *597|
 [fc]
-I'll be waiting for your contact.[pcms]
+連絡まつ。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *598|
 [fc]
 [vo_ren s="ren0875"]
-[ns]Ren[nse]
-"Emails... he's always so curt..."[pcms]
+[ns]漣[nse]
+「メール……そっけないんだから、いつも……」[pcms]
 
 *599|
 [fc]
-Tears began to well up in Ren's eyes as she read.[pcms]
+漣の目に、見る間に涙が溜まっていく。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *600|
 [fc]
 [vo_ren s="ren0876"]
-[ns]Ren[nse]
-"Fueee...sniff... thank goodness... sniff... thank[r]
-goodness... Dad's still..."[pcms]
+[ns]漣[nse]
+「ふぇぇ……ん……ひっく……。[r]
+　よかった……、ひっく……よかった……。[r]
+　お父さんが……まだ……」[pcms]
 
 *601|
 [fc]
-[ns]Wataru[nse]
-"Yeah, he's alive..."[pcms]
+[ns]航[nse]
+「ああ、生きて……」[pcms]
 
 *602|
 [fc]
-I was about to say 'alive', but hesitated because of the[r]
-ominousness of those words.[pcms]
+生きていた、と言いかけて、[r]
+その言葉の不吉さに、口ごもってしまう。[pcms]
 
 *603|
 [fc]
-[ns]Wataru[nse]
-"...Let's write a reply together. Okay?"[pcms]
+[ns]航[nse]
+「……返事、一緒に書こう。な？」[pcms]
 
 *604|
 [fc]
-Gently stroking Ren's back as she cries silently.[pcms]
+声を殺して泣きじゃくる漣の背中をそっと撫でる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *605|
 [fc]
 [vo_ren s="ren0877"]
-[ns]Ren[nse]
-"Mmm..."[pcms]
+[ns]漣[nse]
+「ん……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *606|
 [fc]
-[ns]Wataru[nse]
-"To Dad... um... We've taken refuge in the school's basement[r]
-for now..."[pcms]
+[ns]航[nse]
+「父さんへ……えっと……[r]
+　ボクらはひとまず、学園の地下に避難しています……」[pcms]
 
 *607|
 [fc]
-that we're safe for now and that Ren is with me.[pcms]
+少なくとも今は安全だということや、[r]
+漣も一緒にいるということ……。[r]
+伝えたいことだけを手短にまとめて打ち込んだ。[pcms]
 
 *608|
 [fc]
-[ns]Wataru[nse]
-"...Right, let's take a photo."[pcms]
+[ns]航[nse]
+「……そうだ、写真、とろう」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *609|
 [fc]
 [vo_ren s="ren0878"]
-[ns]Ren[nse]
-"Huh?"[pcms]
+[ns]漣[nse]
+「え？」[pcms]
 
 *610|
 [fc]
-I smile at Ren, who looks puzzled for a moment.[pcms]
+一瞬、不思議そうな顔をする漣にボクは笑いかける。[pcms]
 
 *611|
 [fc]
-[ns]Wataru[nse]
-"Let's show Dad our healthy faces. It'll surely reassure[r]
-him, right?"[pcms]
+[ns]航[nse]
+「父さんに、ボクたちの元気な顔、見せてあげようよ。[r]
+　きっと安心してくれるよ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *612|
 [fc]
 [vo_ren s="ren0879"]
-[ns]Ren[nse]
-"Yeah...! That's right... surely it will, right?"[pcms]
+[ns]漣[nse]
+「うん……！[r]
+　そうだね……、きっとそうだよね？」[pcms]
 
 *613|
 [fc]
-[ns]Wataru[nse]
-"Then, here we go... ready?"[pcms]
+[ns]航[nse]
+「それじゃ、ほら……いくぞ？」[pcms]
 
 *614|
 [fc]
 [vo_ren s="ren0880"]
-[ns]Ren[nse]
-"Yeah."[pcms]
+[ns]漣[nse]
+「うん」[pcms]
 
 *615|
 [fc]
-Finally smiling, Ren shyly wipes away the traces of her[r]
-tears.[pcms]
+ようやく笑顔になった漣は、恥ずかしそうに涙の跡をぬぐう。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *616|
 [fc]
-Ren and I huddle close together to fit in the frame and take[r]
-the shot.[pcms]
+ボクと漣は、フレームに収まるように肩を寄せ合って、[r]
+シャッターを切った。[pcms]
 
 *617|
 [fc]
-The attachment made the email quite heavy, but it looks like[r]
-it can still be sent.[pcms]
+添付ファイルが随分重くなってしまったけれど、[r]
+なんとかメールは送れそうだ。[pcms]
 
 *618|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *619|
 [fc]
 [vo_ren s="ren0881"]
-[ns]Ren[nse]
-"Ehe..."[pcms]
+[ns]漣[nse]
+「えへっ……」[pcms]
 
 *620|
 [fc]
-Without saying anything, our feelings are understood. We[r]
-look at each other and quietly share our joy.[pcms]
+何も言わなくても、お互いの気持ちは通じあう。[r]
+ボクたちは顔を見合わせて、静かに歓びを分かち合った。[pcms]
 
 ;//メール着信音
 [se buf=0 storage="se002"]
@@ -734,38 +740,38 @@ look at each other and quietly share our joy.[pcms]
 
 *621|
 [fc]
-[ns]Wataru[nse]
-"Huh? A reply already?"[pcms]
+[ns]航[nse]
+「あれ？　もう返信？」[pcms]
 
 *622|
 [fc]
 [vo_ren s="ren0882"]
-[ns]Ren[nse]
-"That was quick this time."[pcms]
+[ns]漣[nse]
+「今度は早かったね」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *623|
 [fc]
-We both eagerly peer at the screen.[pcms]
+二人して、いそいそと画面を覗き込む。[pcms]
 
 ;//以下ケータイメール　何らかの演出を
 
 *624|
 [fc]
-Wataru, Ren, I'm glad you're both safe. Dad is safe too. The[r]
-phones are still restricted, but I want to hear your voices[r]
-soon.[pcms]
+航、漣、二人とも無事で良かった。[r]
+父さんも無事です。[r]
+まだ電話は規制中ですが、早く声が聞きたいです。[pcms]
 
 *625|
 [fc]
-At the heliport, I'm exchanging information with colleagues.[r]
-A large shelter has been set up in Kingdom.[pcms]
+ヘリポートで、同業の仲間達と情報を交換しています。[r]
+キングダムには大きな避難所が設けられています。[pcms]
 
 *626|
 [fc]
-As soon as the helicopters can fly, I'll come to rescue you,[r]
-so until then, please work together and stay strong.[pcms]
+ヘリが飛ばせるようになったら、すぐに助けに行くから、[r]
+それまではみんなで力を合わせて頑張って下さい。[pcms]
 
 ;//ケータイメール　ここまで
 
@@ -774,66 +780,67 @@ so until then, please work together and stay strong.[pcms]
 *627|
 [fc]
 [vo_ren s="ren0883"]
-[ns]Ren[nse]
-"...Dad..."[pcms]
+[ns]漣[nse]
+「……お父さん……」[pcms]
 
 *628|
 [fc]
-Holding the phone tenderly in her hands, Ren's eyes begin to[r]
-moisten again.[pcms]
+手の中にそうっと携帯を捧げ持つようにして[r]
+漣は再び目を潤ませる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *629|
 [fc]
 [vo_ren s="ren0884"]
-[ns]Ren[nse]
-"Let's do our best together, big brother. Dad will come to[r]
-rescue us."[pcms]
+[ns]漣[nse]
+「一緒にがんばろうね、お兄ちゃん。[r]
+　お父さんが助けに来てくれるって」[pcms]
 
 *630|
 [fc]
-[ns]Wataru[nse]
-"That's right. For that reason, we need to rest now."[pcms]
+[ns]航[nse]
+「そうだな。[r]
+　そのためにも、もう休まないと」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *631|
 [fc]
 [vo_ren s="ren0885"]
-[ns]Ren[nse]
-"Yeah..."[pcms]
+[ns]漣[nse]
+「うん……」[pcms]
 
 *632|
 [fc]
-I had woken her up because I wanted to tell her about Dad's[r]
-safety, but Ren still needs her rest.[pcms]
+父さんの無事を教えたくて、つい起こしてしまったけれど[r]
+漣に休息が必要なことには変わりない。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *633|
 [fc]
 [vo_ren s="ren0886"]
-[ns]Ren[nse]
-"Good night, big brother."[pcms]
+[ns]漣[nse]
+「おやすみなさい、お兄ちゃん」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *634|
 [fc]
-But looking at Ren's face, now fully at peace, I feel it was[r]
-right to wake her up and tell her.[pcms]
+だけど、安らぎきった今の漣の顔を見ていると、[r]
+無理にでも知らせて良かった、と思う。[pcms]
 
 *635|
 [fc]
 [vo_ren s="ren0887"]
-[ns]Ren[nse]
-"Zzz... zzz..."[pcms]
+[ns]漣[nse]
+「すぅ……すぅ……」[pcms]
 
 *636|
 [fc]
-Perhaps feeling reassured, Ren quickly starts to breathe[r]
-softly in her sleep while I watch over her.[pcms]
+安心したのか、ボクの見守る前で[r]
+漣はすぐに小さな寝息をたてはじめた。[pcms]
 
 ;//●小声トーク終了
 

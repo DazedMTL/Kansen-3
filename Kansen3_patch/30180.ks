@@ -39,221 +39,218 @@
 
 *1581|
 [fc]
-[ns]Wataru[nse]
-"That's right. Vinyl rope."[pcms]
+[ns]航[nse]
+「そうだ。ビニールロープ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1582|
 [fc]
-[ns]Kousuke[nse]
-"Huh?"[pcms]
+[ns]浩助[nse]
+「えっ？」[pcms]
 
 *1583|
 [fc]
-[ns]Wataru[nse]
-"The one we used to tie Ren's violin case earlier, maybe we[r]
-can use it to pull Yuuho up?"[pcms]
+[ns]航[nse]
+「さっき漣のバイオリンケースを縛ったときに使った[r]
+　アレなら悠帆を引っ張りあげられないかな？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1584|
 [fc]
 [vo_ren s="ren0289"]
-[ns]Ren[nse]
-"Vinyl rope?"[pcms]
+[ns]漣[nse]
+「ビニールロープ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1585|
 [fc]
-[ns]Kousuke[nse]
-"Well, considering the remaining length of that rope, it[r]
-might work... but making a human ladder like we did to get[r]
-up here seems impossible."[pcms]
+[ns]浩助[nse]
+「まぁ、確かにあのロープの残りを考えたら、[r]
+　イケそうだけど……ここに登ってきたみたいに[r]
+　人間梯子……は、無理そうだな」[pcms]
 
 *1586|
 [fc]
-[ns]Wataru[nse]
-"Yeah. From here it's like a two-story height, and besides,[r]
-that roof is triangular."[pcms]
+[ns]航[nse]
+「うん。ここからだと二階分の高さがあるからなぁ。[r]
+　おまけにあの屋根、三角だし」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1587|
 [fc]
 [vo_mar s="maru0212"]
-[ns]Margarita[nse]
-"If that's the only option, we should act quickly. We never[r]
-know when they might come."[pcms]
+[ns]マルガリータ[nse]
+「それしかなさそうならば、早く実行に移したほうが[r]
+　よさそうだな。いつアイツラが来るとも限らない」[pcms]
 
 *1588|
 [fc]
-[ns]Wataru[nse]
-"Right. ...Yuuho, I'm going to throw the rope over to you[r]
-now."[pcms]
+[ns]航[nse]
+「そうですね。……悠帆、今ロープをそっちに投げるからな」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1589|
 [fc]
 [vo_yuh s="yuho0139"]
-[ns]Yuuho[nse]
-"O-okay..."[pcms]
+[ns]悠帆[nse]
+「う、うん……」[pcms]
 
 *1590|
 [fc]
-Smiling reassuringly at Yuuho, who looked anxious, we took[r]
-out the rope from our backpack.[pcms]
+不安そうにこちらを見る悠帆ににっこりと微笑んで安心させて、[r]
+ボクらはリュックサックの中からロープを取り出した。[pcms]
 
 *1591|
 [fc]
-Tying something heavy enough to serve as a weight to one[r]
-end, I firmly tied the other end around my body and then[r]
-threw it towards Yuuho.[pcms]
+ついでに取り出した重石になりそうなモノに先端を[r]
+くくりつけ、僕の体にしっかりと逆側を縛り付けてから、[r]
+悠帆に向かってそれを投げた。[pcms]
 
 *1592|
 [fc]
-It didn't go well on the first try, and after several[r]
-attempts of pulling it back and throwing again, we finally[r]
-managed to get the rope down to Yuuho.[pcms]
+一度ではうまく行かず、２・３回手繰り寄せては投げると[r]
+いう繰り返しになったけれども、どうにか悠帆の下へと[r]
+ロープを投げることに成功した。[pcms]
 
 *1593|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, tie yourself up with that rope."[pcms]
+[ns]航[nse]
+「悠帆、それで自分を縛り付けてくれ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1594|
 [fc]
 [vo_yuh s="yuho0140"]
-[ns]Yuuho[nse]
-"Okay, got it."[pcms]
+[ns]悠帆[nse]
+「うん、わかった」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1595|
 [fc]
-Responding to my words, Yuuho quickly and securely tied[r]
-herself up with the rope in a cross-body fashion while we[r]
-made the final preparations for pulling her up.[pcms]
+ボクの言葉に答えて、悠帆が素早くたすきがけに[r]
+しっかりと自分をロープに縛り付けてる間に、[r]
+ボクらは引き上げる最終準備をする。[pcms]
 
 *1596|
 [fc]
-Kousuke wrapped the rope firmly around me, and Ren supported[r]
-us from behind Kousuke.[pcms]
+コースケがボクごとロープをしっかりと巻きつけ、[r]
+漣がコースケの後ろからさらにボクらを支えた。[pcms]
 
 *1597|
 [fc]
-In the meantime, Senpai took out a vinyl sheet from my[r]
-backpack to use as an edge guard on the roof so that the[r]
-rope wouldn't fray.[pcms]
+その間に先輩がボクのリュックからビニールシートを[r]
+取り出して、屋根の端でロープが擦り切れないようにと、[r]
+エッジガードにしてくれる。[pcms]
 
 *1598|
 [fc]
-[ns]Wataru[nse]
-"Let's go!"[pcms]
+[ns]航[nse]
+「行くぞ！」[pcms]
 
 *1599|
 [fc]
-With everyone's preparations complete, we began to pull[r]
-Yuuho's body up with all our strength.[pcms]
+それぞれの準備ができたところで、[r]
+ボクらは力をあわせて悠帆の体を引き上げ始めた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1600|
 [fc]
-[ns]Kousuke[nse]
-"Ouchouchouch!"[pcms]
+[ns]浩助[nse]
+「イテテテテテッ！」[pcms]
 
 *1601|
 [fc]
-The vinyl rope bit into our bodies because of its material.[pcms]
+モノがビニールロープであるために、[r]
+やたらと体に食い込む。[pcms]
 
 *1602|
 [fc]
-Kousuke was the only one voicing out, but probably it was[r]
-biting into Yuuho's body as well.[pcms]
+コースケのように声をあげてないけれど、[r]
+たぶん悠帆の体にも食い込んでるだろう。[pcms]
 
 *1603|
 [fc]
-But somehow, we managed to start lifting Yuuho into the air[r]
-smoothly.[pcms]
+でもなんとか順調に悠帆の体は宙に浮き始めた。[pcms]
 
 *1604|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, can you put your feet on the window and distribute[r]
-some of your weight?"[pcms]
+[ns]航[nse]
+「悠帆、窓に足をかけて少し体重を分散できないか？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1605|
 [fc]
 [vo_yuh s="yuho0141"]
-[ns]Yuuho[nse]
-"I'll try... kyaaah!"[pcms]
+[ns]悠帆[nse]
+「やってみ……きゃあっ！」[pcms]
 
 *1606|
 [fc]
-Crash![pcms]
+ガシャンッ！[pcms]
 
 *1607|
 [fc]
-The sound of Yuuho's scream turning into a shriek and the[r]
-breaking of window glass. I wonder which was faster.[pcms]
+悠帆の言葉が悲鳴に変わったのと、窓ガラスが割れた音。[r]
+いったいどちらのほうが早かっただろう。[pcms]
 
 *1608|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!?"[pcms]
+[ns]航[nse]
+「悠帆！？」[pcms]
 
 *1609|
 [fc]
-In a panic, I called out just as my body was yanked forward[r]
-violently.[pcms]
+慌てて声をかけたとき、ボクの体が思いっきり前に引っ張られた。[pcms]
 
 *1610|
 [fc]
-[ns]Wataru[nse]
-"Whoa!"[pcms]
+[ns]航[nse]
+「うわっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1611|
 [fc]
-[ns]Kousuke[nse]
-"Hey! Wait, Wataru!!"[pcms]
+[ns]浩助[nse]
+「ちょっ！　待て、ワタルっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1612|
 [fc]
 [vo_ren s="ren0290"]
-[ns]Ren[nse]
-"Big brother!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ！！」[pcms]
 
 
 [chara_int][trans_c cross time=150]
 
 *1613|
 [fc]
-I'm going to fall from the gym roof to the corridor roof![pcms]
+体育館の屋根から渡り廊下の屋根に落ちるっ！[pcms]
 
 *1614|
 [fc]
-The moment I thought that, I realized I was suspended in[r]
-mid-air.[pcms]
+そう思った瞬間、ボクは自分が[r]
+宙吊りになってることに気がついた。[pcms]
 
 *1615|
 [fc]
-It seems Kousuke and Ren, and even Senpai who were spared[r]
-from falling off the roof, hurriedly grabbed onto the rope.[pcms]
+どうやら屋根の上からの落下を免れたコースケと漣、[r]
+それに先輩までもがロープを慌てて押さえてくれたらしい。[pcms]
 
 *1616|
 [fc]
-But in front of me, Yuuho... Yuuho was...[pcms]
+でもボクの目の前では、悠帆が……悠帆が。[pcms]
 
 
 ;BGM即時停止
@@ -278,56 +275,56 @@ But in front of me, Yuuho... Yuuho was...[pcms]
 *1617|
 [fc]
 [vo_yuh s="yuho0142"]
-[ns]Yuuho[nse]
-"Noooooo!!"[pcms]
+[ns]悠帆[nse]
+「いやぁあああああっ！！」[pcms]
 
 *1618|
 [fc]
-While being jostled by them, Yuuho was already being[r]
-violated.[pcms]
+ヤツラにもみくちゃにされながら、早くも悠帆が[r]
+犯されかかっていた。[pcms]
 
 *1619|
 [fc]
-Struggling to escape as she might, the very rope meant to[r]
-save her now deprived her of freedom, making it impossible[r]
-for her to escape from the men's grasp.[pcms]
+逃げ出そうともがいてはいるものの、救うはずだった[r]
+ロープが逆に悠帆の自由を奪って、男たちの手から[r]
+逃げ出すことが敵わない。[pcms]
 
 *1620|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuuho!"[pcms]
+[ns]航[nse]
+「ゆ、悠帆っ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1621|
 [fc]
 [vo_yuh s="yuho0143"]
-[ns]Yuuho[nse]
-"Help... help me, Wata... hyaaaah!!"[pcms]
+[ns]悠帆[nse]
+「た、助けて……助けて、わた……ひゃあああっ！！」[pcms]
 
 [evcg storage="HEV026c"][trans_c cross time=300]
 
 *1622|
 [fc]
-As they ripped off Yuuho's underwear as if tearing it apart,[r]
-a man climbed on top of her.[pcms]
+悠帆の下着を引き裂くように脱がすと同時に、[r]
+男が悠帆にのしかかった。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1623|
 [fc]
 [vo_yuh s="yuho0144"]
-[ns]Yuuho[nse]
-"It hurts... it hurts, IT HURTS, it hurts!!"[pcms]
+[ns]悠帆[nse]
+「い、痛い……痛い、イタイ、いたいぃいいいいっ！！」[pcms]
 
 *1624|
 [fc]
-Incessant screams came from Yuuho's mouth.[pcms]
+絶え間ない悲鳴が悠帆の口から発せられる。[pcms]
 
 *1625|
 [fc]
-But regardless of that, the man began thrusting his hips as[r]
-if pushing up against Yuuho's entire body.[pcms]
+だがそれにお構いなしに、男は悠帆の体ごと[r]
+突き上げるように腰を動かし始めた。[pcms]
 
 [evcg storage="HEV026d"][trans_c cross time=300]
 
@@ -336,125 +333,126 @@ if pushing up against Yuuho's entire body.[pcms]
 *1626|
 [fc]
 [vo_yuh s="yuho0145"]
-[ns]Yuuho[nse]
-"No, don't! Move... don't move... ughhh"[pcms]
+[ns]悠帆[nse]
+「い、いやっ！　うご……うごかな……うぅうっ」[pcms]
 
 *1627|
 [fc]
-Moving her restricted body, Yuuho still struggled to escape[r]
-from the man.[pcms]
+不自由な体を動かして、それでも男から[r]
+逃げ出そうともがく悠帆。[pcms]
 
 *1628|
 [fc]
-But that brought disaster upon Yuuho.[pcms]
+でもそれが悠帆に災いした。[pcms]
 
 [evcg storage="HEV026e"][trans_c cross time=300]
 
 *1629|
 [fc]
-The rope tangled around her neck, and Yuuho's eyes quickly[r]
-lost focus.[pcms]
+ロープが首に絡まって、悠帆の目がたちまちに[r]
+焦点を失っていく。[pcms]
 
 *1630|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!?"[pcms]
+[ns]航[nse]
+「悠帆っ！？」[pcms]
 
 *1631|
 [fc]
-Despite calling out in a panic, Yuuho's eyes remained[r]
-unfocused.[pcms]
+慌てて声をかけるものの、[r]
+悠帆の目は焦点を失ったままだ。[pcms]
 
 *1632|
 [fc]
-However, the occasional groan was proof that Yuuho was still[r]
-breathing.[pcms]
+だが、ときたまうめき声をあげるのが[r]
+悠帆に息がある証拠だった。[pcms]
 
 *1633|
 [fc]
-What karma is this?[pcms]
+何の因果だ？[pcms]
 
 *1634|
 [fc]
-Why does Yuuho have to go through something like this?[pcms]
+なんで悠帆がこんな目にあわなきゃいけない？[pcms]
 
 *1635|
 [fc]
-Where did I go wrong?[pcms]
+どこで間違ったんだ、ボクは。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1636|
 [fc]
 [vo_yuh s="yuho0146"]
-[ns]Yuuho[nse]
-"Ughh...ugh..."[pcms]
+[ns]悠帆[nse]
+「うっくぅ……うっ……」[pcms]
 
 *1637|
 [fc]
-The voice that leaked from Yuuho, as if air was being pushed[r]
-out of her lungs in sync with the man's movements, pierced[r]
-my heart.[pcms]
+男の動きにあわせて、肺から押し出された空気が[r]
+声帯を揺らしているかのように、[r]
+漏らされる悠帆の声が、ボクの心を刺す。[pcms]
 
 *1638|
 [fc]
-It's because I screwed up.[pcms]
+ボクがヘマをしたから。[pcms]
 
 *1639|
 [fc]
-That's why Yuuho is being violated right before my eyes...[r]
-And yet, I'm right here and can't do anything to save her.[pcms]
+だから悠帆はボクの目の前で犯されて……[r]
+そして、ボクは目の前にいるのに悠帆を[r]
+救うこともできない。[pcms]
 
 *1640|
 [fc]
-Just watching Yuuho being violated while suspended[r]
-helplessly in the air.[pcms]
+無様に宙に浮いたまま、悠帆が犯される様を[r]
+見ているだけだ。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1641|
 [fc]
 [vo_yuh s="yuho0147"]
-[ns]Yuuho[nse]
-"Ahah...ahahaha!"[pcms]
+[ns]悠帆[nse]
+「あはっ……あはははっ」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV026d"]
 
 *1642|
 [fc]
-After being violated with a creampie by the first and second[r]
-men, something changed in Yuuho when the third man did the[r]
-same.[pcms]
+一人目、二人目と立て続けに中だしで犯され、[r]
+三人目の男に中だしをされたとき、[r]
+悠帆に異変が起こった。[pcms]
 
 *1643|
 [fc]
-Until now, her voice had been one of pain or just leaking[r]
-out, but now it was mixed with the moans I had heard from[r]
-other female students.[pcms]
+今まで苦痛、もしくは単に漏れていた声だったのに、[r]
+何回も他の女子学生の口から聞いた嬌声が[r]
+入り混じってきていた。[pcms]
 
 [evcg storage="HEV026e"][trans_c cross time=300]
 
 *1644|
 [fc]
 [vo_yuh s="yuho0148"]
-[ns]Yuuho[nse]
-"It's...it's good. More...more"[pcms]
+[ns]悠帆[nse]
+「いっ……いいぃいんっ。もっと……もっと」[pcms]
 
 *1645|
 [fc]
-[ns]Wataru[nse]
-"Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆……」[pcms]
 
 *1646|
 [fc]
-That voice was proof that Yuuho had also become one of them.[r]
-Her wide-open eyes were also dyed red.[pcms]
+その声は、悠帆もまたヤツラの仲間になった証だった。[r]
+見開いたその瞳も赤く染まってる。[pcms]
 
 *1647|
 [fc]
-[ns]Infected Man A[nse]
-"You want more? Eat up my big dick then."[pcms]
+[ns]感染者・男Ａ[nse]
+「もっとか。俺のデッカイチンコを食らいな」[pcms]
 
 [evcg storage="HEV026f"][trans_c cross time=300]
 
@@ -463,27 +461,27 @@ Her wide-open eyes were also dyed red.[pcms]
 *1648|
 [fc]
 [vo_yuh s="yuho0149"]
-[ns]Yuuho[nse]
-"Hyaaan! I'm so happy...ahh!"[pcms]
+[ns]悠帆[nse]
+「ひゃああんっ！　うれし……ぃっ！」[pcms]
 
 *1649|
 [fc]
-When the fourth man climbed on top of Yuuho, a strange sound[r]
-echoed around.[pcms]
+四人目の男が悠帆の体にのしかかったとき、[r]
+ヘンな音が辺りに鳴り響いた。[pcms]
 
 *1650|
 [fc]
-An indescribable sound, like a crack.[pcms]
+ゴキンとも、なんとも言えない音。[pcms]
 
 *1651|
 [fc]
-And with that, Yuuho's hands, which had been happily[r]
-welcoming the man, dangled down powerlessly.[pcms]
+それと共に、男を喜んで迎え入れていた悠帆の手が、[r]
+ぶらんと力なく垂れ下がる。[pcms]
 
 *1652|
 [fc]
-The rope that had been tangled around Yuuho's neck had[r]
-delivered the final blow.[pcms]
+悠帆の首に絡まっていたロープが、[r]
+最期のトドメを悠帆に与えたのだ。[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -508,22 +506,23 @@ delivered the final blow.[pcms]
 
 *1653|
 [fc]
-Did she find peace? Did Yuuho find relief at last?[pcms]
+楽に……楽になれたのか？　悠帆は。[r]
+これで楽に――[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_i2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1654|
 [fc]
 [vo_ren s="ren0291"]
-[ns]Ren[nse]
-"Big brother, it's dangerous!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃん、危ないっ！！」[pcms]
 
 
 
 
 *1655|
 [fc]
-Ren's voice poured down on me, my vision blurred by tears.[pcms]
+涙に前が歪むボクに、漣の声が降り注いできた。[pcms]
 
 
 
@@ -539,78 +538,80 @@ Ren's voice poured down on me, my vision blurred by tears.[pcms]
 
 *1656|
 [fc]
-When I came back to my senses, I was surrounded by the men[r]
-who had been violating Yuuho.[pcms]
+その声に我に返ったとき、ボクはさっきまで悠帆を[r]
+犯していた男に囲まれていた。[pcms]
 
 *1657|
 [fc]
-[ns]Wataru[nse]
-"Ugh, ugh! Hurry, pull me up quickly."[pcms]
+[ns]航[nse]
+「うっ、うわっ！　は、早く、早く引き上げてくれ」[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1658|
 [fc]
 [vo_mar s="maru0213"]
-[ns]Margarita[nse]
-"No good. Can't pull you up."[pcms]
+[ns]マルガリータ[nse]
+「ダメだ。引き上げられない」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1659|
 [fc]
-[ns]Kousuke[nse]
-"Wataru! Can't you climb up yourself!?"[pcms]
+[ns]浩助[nse]
+「ワタルっ！　自分で上がれないか！？」[pcms]
 
 *1660|
 [fc]
-The merciless voice rejected my request.[pcms]
+ボクの要請を無情な声が拒絶した。[pcms]
 
 *1661|
 [fc]
-No, all three of them were trying to help me.[pcms]
+いや、三人は三人ともボクを助けようとしてくれている。[pcms]
 
 *1662|
 [fc]
-But the fact that they had firmly wrapped the rope around[r]
-their bodies to support Yuuho's weight was now also to my[r]
-detriment.[pcms]
+でも、悠帆の体重を支えようとしっかりと自分の体に[r]
+ロープを巻きつけていたのが、[r]
+ボクにとっても災いだった。[pcms]
 
 *1663|
 [fc]
-The rope that had been meant to save Yuuho now bared its[r]
-fangs at me.[pcms]
+悠帆を助けようとしていたロープは、[r]
+今度はボクに牙を剥いた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1664|
 [fc]
 [vo_ren s="ren0292"]
-[ns]Ren[nse]
-"Big brother! Big brother! Big brother!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ！　お兄ちゃんっ！　お兄ちゃんっ！！」[pcms]
 
 *1665|
 [fc]
-The crying voice of Ren.[pcms]
+漣の泣き叫ぶ声。[pcms]
 
 *1666|
 [fc]
-I'm sorry... I never wanted to make you cry like that...[pcms]
+ごめん……お前にそんな風に泣かれたいとは[r]
+思っていなかったのに……。[pcms]
 
 *1667|
 [fc]
-Suspended in mid-air, powerless, I was grabbed by the men's[r]
-hands, and then--[pcms]
+宙吊りのまま、なす術もないまま、[r]
+ボクは男たちの手に掴まり、[r]
+そして――[pcms]
 
 *1668|
 [fc]
-The rope slipped from the hands of the three people.[pcms]
+三人の手からロープが離れ落ちた。[pcms]
 
 
 ;//ＥＮＤ
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 
 

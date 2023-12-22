@@ -1,10 +1,10 @@
 ;//block:A006
-;//ブロック４１０５０『地下道悠帆のみ脱出』pt6
+;//ブロック４１０５０『地下道～悠帆のみ脱出～』pt6
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41040.txtから
 
 *41050_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：分校舎地下室
 ;//登場人物:主人公・悠帆（制服）・マルガリータ（制服）
@@ -37,22 +37,22 @@
 
 *2771|
 [fc]
-Finally, the hatch must have warped and the concrete that[r]
-was holding it in place shattered. A loud noise as the iron[r]
-door opens, and I can hear voices and footsteps coming.[pcms]
+ついにはハッチはゆがみ、固定していたコンクリートが[r]
+砕けたんだろう。鉄の扉が開く大きな音がして、[r]
+声が足音が聞こえてくる。[pcms]
 
 *2772|
 [fc]
-[ns]Wataru[nse]
-"Senpai! The door is..."[pcms]
+[ns]航[nse]
+「先輩！　扉が……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2773|
 [fc]
 [vo_mar s="maru0369"]
-[ns]Margarita[nse]
-"I know..."[pcms]
+[ns]マルガリータ[nse]
+「わかっている……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -62,25 +62,26 @@ door opens, and I can hear voices and footsteps coming.[pcms]
 
 *2774|
 [fc]
-Senpai tries to open the rusted door, but it seems stiff and[r]
-barely opens, so slowly that it's hard to tell if it's[r]
-opening at all.[pcms]
+先輩は錆びた扉を開こうとするが、扉は硬いらしく[r]
+ゆっくりと、開いているのかわからないくらいに[r]
+少しずつしか開かない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2775|
 [fc]
 [vo_mar s="maru0370"]
-[ns]Margarita[nse]
-"It's rusted shut, it won't open easily. In that case!"[pcms]
+[ns]マルガリータ[nse]
+「錆びついていて、すぐには開きそうにないな。[r]
+　こうなったら！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2776|
 [fc]
 [vo_mar s="maru0371"]
-[ns]Margarita[nse]
-"Haa!!"[pcms]
+[ns]マルガリータ[nse]
+「はぁ！！」[pcms]
 
 ;//　シェイク
 ;//se043・金属のガーン
@@ -98,91 +99,90 @@ opening at all.[pcms]
 
 *2777|
 [fc]
-Senpai's brilliant roundhouse kick forces the door that[r]
-wouldn't budge due to rust to swing open. But it's still not[r]
-enough to pass through.[pcms]
+先輩の鮮やかな回し蹴りが、錆びて開かなかった扉を[r]
+一気に開く。だけど、まだまだ通り抜けるには十分じゃない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2778|
 [fc]
 [vo_mar s="maru0372"]
-[ns]Margarita[nse]
-"This is the limit... I'm going to push it like this."[pcms]
+[ns]マルガリータ[nse]
+「これが限界か……このまま、押すぞ」[pcms]
 
 *2779|
 [fc]
-[ns]Wataru[nse]
-"I'll help!"[pcms]
+[ns]航[nse]
+「手伝います！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2780|
 [fc]
-I leave Yuuho, who I was close to, and go to help Senpai.[r]
-Even with my lack of strength, it's better than nothing.[pcms]
+ボクは寄りそっていた悠帆から離れて先輩を手伝う。[r]
+体力のないボクでも、いないよりはマシだ。[pcms]
 
 *2781|
 [fc]
-And if my life is in danger--[pcms]
+それにボクでも命の危険があれば――[pcms]
 
 *2782|
 [fc]
-It seems I can exert more strength than usual.[pcms]
+いつも以上の力を発揮するようだ。[pcms]
 
 *2783|
 [fc]
-That can be seen from the fact that I could carry an[r]
-unbelievable amount of luggage on a normal day, and just now[r]
-I managed to carry both Yuuho and the luggage at the same[r]
-time.[pcms]
+それは、普段からだと信じられない量の荷物が運べたり、[r]
+さっき悠帆と荷物を同時に抱えてきたことでもわかる。[pcms]
 
 ;//se085・錆びた金属ドアのきしむ音
 ;//[se buf=0 storage="se085"]
 
 *2784|
 [fc]
-The door opens little by little.[pcms]
+扉は少しずつ開いていく。[pcms]
 
 ;//se508・複数の感染者のうなり声
 [se buf=0 storage="se508"]
 
 *2785|
 [fc]
-The footsteps and voices of the infected become clearer.[pcms]
+感染者たちの足音や声がはっきりと聞こえてきた。[pcms]
 
 *2786|
 [fc]
-[ns]Wataru[nse]
-"...!!"[pcms]
+[ns]航[nse]
+「………………っ！！」[pcms]
 
 *2787|
 [fc]
 [vo_ren s="ren0369"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 
 *2788|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣……」[pcms]
 
 *2789|
 [fc]
-I see Ren coming down the stairs. That's definitely Ren![pcms]
+階段を降りてくる漣の姿が見えた。[r]
+あれは間違いなく漣だ！[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2790|
 [fc]
 [vo_ren s="ren0370"]
-[ns]Ren[nse]
-"Onii-chan~..."[pcms]
+[ns]漣[nse]
+「おにいちゃ～ん……」[pcms]
 
 *2791|
 [fc]
-Ren calls my name with a vacant voice. And behind her...[pcms]
+うつろな声でボクの名を呼ぶ漣。[r]
+その後ろには……。[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
@@ -191,30 +191,30 @@ Ren calls my name with a vacant voice. And behind her...[pcms]
 
 *2792|
 [fc]
-[ns]Infected Student A[nse]
-"Oh, the smell of a woman~"[pcms]
+[ns]感染者・学生Ａ[nse]
+「お、女のにおい～」[pcms]
 
 *2793|
 [fc]
-[ns]Infected Student B[nse]
-"I'm so hungry~"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「はらへったぁ～」[pcms]
 
 *2794|
 [fc]
 [vo_mob s="onna_iti0006"]
-[ns]Infected Female Student C[nse]
-"Ahahaha... a man. There's a man here. A young man..."[pcms]
+[ns]感染者・女学生Ｃ[nse]
+「あははは……男。男がいるわぁ。若い男よぉ……」[pcms]
 
 *2795|
 [fc]
-Laughing out their desires, the students who once attended[r]
-the same school as us descend the stairs with unsteady[r]
-steps.[pcms]
+口々に欲望を口にしながら、少し危なっかしい足取りで[r]
+階段を降りてくるのは、かつてはボクたちと[r]
+同じ学園の生徒たちだ。[pcms]
 
 *2796|
 [fc]
-All of them have disheveled clothes, and some are even half-[r]
-naked. Even in the dim light, that much is clear.[pcms]
+みんな服を乱れさせて、中には半裸になっているのもいる。[r]
+薄暗い中でもそれはわかった。[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
@@ -223,48 +223,46 @@ naked. Even in the dim light, that much is clear.[pcms]
 
 *2797|
 [fc]
-[ns]Infected Student C[nse]
-"...Ugh..."[pcms]
+[ns]感染者・学生Ｃ[nse]
+「……うあっ……」[pcms]
 
 *2798|
 [fc]
-One of the students with dangerous footing slips and falls[r]
-down the stairs.[pcms]
+危ない足取りだった生徒の一人が足を滑らせて、[r]
+階段から転落する。[pcms]
 
 ;//se036・人間が地面に叩きつけられる音
 [se buf=0 storage="se036"]
 
 *2799|
 [fc]
-A disgusting sound and vibration reach us as the fallen[r]
-student hits the floor at the bottom of the stairs[r]
-headfirst, turning into a pool of bright red blood.[pcms]
+ぐゅじゅりという不愉快な音と振動が伝わってくる。[r]
+おっこちた生徒は、ボクたちのいる最下段の床に[r]
+頭から叩きつけられて真っ赤な血だまりに変わっていた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2800|
 [fc]
 [vo_yuh s="yuho0230"]
-[ns]Yuuho[nse]
-"Nooooooo!!!!!"[pcms]
+[ns]悠帆[nse]
+「いやあああああ！！！！」[pcms]
 
 *2801|
 [fc]
-Yuuho must have seen it reflexively, even though she was in[r]
-a daze.[pcms]
+放心していた悠帆も反射的にそれを見てしまったんだろう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2802|
 [fc]
 [vo_mar s="maru0373"]
-[ns]Margarita[nse]
-"Don't look!"[pcms]
+[ns]マルガリータ[nse]
+「見るな！」[pcms]
 
 *2803|
 [fc]
-At Senpai's shout, I turn my eyes away and focus solely on[r]
-pushing the door.[pcms]
+先輩の一喝にボクはそこから目をそらして、一心に扉を押す。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -277,30 +275,30 @@ pushing the door.[pcms]
 *2804|
 [fc]
 [vo_ren s="ren0371"]
-[ns]Ren[nse]
-"Someone fell down... Fell... Ahahahaha..."[pcms]
+[ns]漣[nse]
+「おっこおちゃった……。おっこ……あははははっ……」[pcms]
 
 *2805|
 [fc]
-[ns]Infected Student A[nse]
-"Ahahahaha..."[pcms]
+[ns]感染者・学生Ａ[nse]
+「あっはっはっはっ……」[pcms]
 
 *2806|
 [fc]
-[ns]Infected Student B[nse]
-"Eeheeheehee..."[pcms]
+[ns]感染者・学生Ｂ[nse]
+「い～ひっひっひっ……」[pcms]
 
 *2807|
 [fc]
 [vo_mob s="onna_iti0014"]
-[ns]Infected Female Student C[nse]
-"Ufufufu..."[pcms]
+[ns]感染者・女学生Ｃ[nse]
+「うふふふ………」[pcms]
 
 *2808|
 [fc]
-For some reason, the infected people start laughing. That's[r]
-definitely not Ren. Ren would never laugh at something like[r]
-that...[pcms]
+なにがおかしいのか、感染した人たちは笑い出す。[r]
+あれはやっぱり漣じゃない。[r]
+漣があんなものを楽しそうに笑うなんて……。[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
@@ -312,92 +310,95 @@ that...[pcms]
 *2809|
 [fc]
 [vo_ren s="ren0372"]
-[ns]Ren[nse]
-"Ah~, there's Onii-chan~"[pcms]
+[ns]漣[nse]
+「あ～、お兄ちゃんだ～」[pcms]
 
 *2810|
 [fc]
-[ns]Infected Student A[nse]
-"It's Kanagi~"[pcms]
+[ns]感染者・学生Ａ[nse]
+「神凪だぁ～」[pcms]
 
 *2811|
 [fc]
-[ns]Infected Student B[nse]
-"I wanna do it with Kanagi~"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「神凪としてぇよぉ！」[pcms]
 
 *2812|
 [fc]
-[ns]Infected Student D[nse]
-"She swims, so her pussy must be tight~"[pcms]
+[ns]感染者・学生Ｄ[nse]
+「水泳やってるから、まんこのしまりがいいぞ～」[pcms]
 
 *2813|
 [fc]
-[ns]Infected Student E[nse]
-"I wanna do it with the blonde exchange student~"[pcms]
+[ns]感染者・学生Ｅ[nse]
+「留学生のパツキンとやりてぇ～」[pcms]
 
 *2814|
 [fc]
-Just like watching a game from the second-floor spectator[r]
-seats in the gymnasium, they find us from the landing and[r]
-start saying whatever they want.[pcms]
+まるで体育館の２階にある観戦席から試合を[r]
+観戦するように、踊り場からボクたちを見つけて[r]
+口々に勝手なことを言っている。[pcms]
 
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *2815|
 [fc]
-They are gradually getting closer.[pcms]
+彼らは段々と迫ってくる。[pcms]
 
 ;//@konya EV25 地下道（BG扱い）
 [evcg storage="EV025a"][trans_c cross time=300]
 
 *2816|
 [fc]
-The one in front, Ren... no, what used to be Ren, is about[r]
-to reach the stairs leading right in front of this door.[pcms]
+先頭の漣は……いや、漣だったモノは、[r]
+踊り場の中ほどにある、この扉の前へと続く階段に[r]
+到達しそうだ。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2817|
 [fc]
 [vo_ren s="ren0373"]
-[ns]Ren[nse]
-"Onii-chan~..."[pcms]
+[ns]漣[nse]
+「お兄ちゃ～ん……」[pcms]
 
 *2818|
 [fc]
-Having reached the stairs, Ren faces us directly while[r]
-descending.[pcms]
+階段に到達した漣は階段を降りながら、[r]
+ボクたちと一直線に向きあう。[pcms]
 
 *2819|
 [fc]
 [vo_ren s="ren0374"]
-[ns]Ren[nse]
-"...Finally, we meet. Onii-chan..."[pcms]
+[ns]漣[nse]
+「……やっと、会えたね。[r]
+　お兄ちゃん……」[pcms]
 
 *2820|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣……」[pcms]
 
 *2821|
 [fc]
 [vo_ren s="ren0375"]
-[ns]Ren[nse]
-"...Those women... they've deceived you, Onii-chan. They[r]
-made sure I couldn't come inside..."[pcms]
+[ns]漣[nse]
+「……その女たちが……お兄ちゃんをだましてるんだね。[r]
+　私を中に入れないようにしたんだ……」[pcms]
 
 *2822|
 [fc]
-[ns]Wataru[nse]
-"Ren... that's not it."[pcms]
+[ns]航[nse]
+「漣……それは違う」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a17"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2823|
 [fc]
 [vo_ren s="ren0376"]
-[ns]Ren[nse]
-"But it's okay... These people will punish them for me..."[pcms]
+[ns]漣[nse]
+「でも、大丈夫だよ……。[r]
+　この人たちがお仕置きしてくれるから……」[pcms]
 
 ;//　モブ感染者　立ち絵　一気に
 ;//@konya 演出怪しいです-_-;
@@ -408,32 +409,32 @@ made sure I couldn't come inside..."[pcms]
 
 *2824|
 [fc]
-[ns]Infected Student A[nse]
-"Kanagi~"[pcms]
+[ns]感染者・学生Ａ[nse]
+「神凪ぃ～」[pcms]
 
 *2825|
 [fc]
-[ns]Infected Student B[nse]
-"Let me do it with Kanagi!"[pcms]
+[ns]感染者・学生Ｂ[nse]
+「神凪させろぉ！」[pcms]
 
 [ChrSetEx layer=3 chbase="etc_a"][ChrSetXY layer=3 x=-9 y=0][trans_c cross time=150]
 
 *2826|
 [fc]
-[ns]Infected Student D[nse]
-"Foreign woman!"[pcms]
+[ns]感染者・学生Ｄ[nse]
+「外人の女ぁ！」[pcms]
 
 [ChrSetEx layer=4 chbase="etc_b"][ChrSetXY layer=4 x=365 y=0][trans_c cross time=150]
 
 *2827|
 [fc]
-[ns]Infected Student E[nse]
-"Blonde exchange student~"[pcms]
+[ns]感染者・学生Ｅ[nse]
+「留学生のパツキン～」[pcms]
 
 *2828|
 [fc]
-Following Ren, the infected students begin to descend the[r]
-concrete stairs one after another.[pcms]
+漣に続き、感染人たちが次々と[r]
+コンクリートの階段を降りてくる。[pcms]
 
 ;//------------------------------------------------------
 
@@ -447,21 +448,22 @@ concrete stairs one after another.[pcms]
 *2829|
 [fc]
 [vo_mar s="maru0374"]
-[ns]Margarita[nse]
-"And we were so close...!!"[pcms]
+[ns]マルガリータ[nse]
+「あと少しだというのに……！！」[pcms]
 
 *2830|
 [fc]
-The senior, unlike me, who kept pushing the door without[r]
-faltering, said with frustration.[pcms]
+ボクとは違い動揺せずに扉を押し続けていた先輩が[r]
+悔しそうに言う。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2831|
 [fc]
-The crazed students are closing in fast. Just as I was[r]
-preparing myself to join them -- that's when.[pcms]
+おかしくなった生徒がどんどん迫ってくる。[r]
+ボクがあいつらの仲間になってしまう覚悟をしようとした[r]
+――その時。[pcms]
 
 ;//se085・錆びた金属ドアのきしむ音
 ;//[se buf=0 storage="se085"]
@@ -471,24 +473,25 @@ preparing myself to join them -- that's when.[pcms]
 *2832|
 [fc]
 [vo_yuh s="yuho0231"]
-[ns]Yuuho[nse]
-"Wataru! Help me!"[pcms]
+[ns]悠帆[nse]
+「航！　手伝って！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2833|
 [fc]
-It's Yuuho! Yuuho, who had been in a daze until now, was[r]
-helping to push open the door, her eyes swollen from crying.[pcms]
+悠帆だ！[r]
+さっきまで放心していた悠帆が扉を押し開けるのを[r]
+手伝っていた。泣き腫らした目のままで。[pcms]
 
 *2834|
 [fc]
-[ns]Wataru[nse]
-"Yeah!"[pcms]
+[ns]航[nse]
+「うんっ！」[pcms]
 
 *2835|
 [fc]
-I also hurriedly joined in to push the door.[pcms]
+ボクもあわてて、一緒になって扉を押した。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -501,38 +504,37 @@ I also hurriedly joined in to push the door.[pcms]
 *2836|
 [fc]
 [vo_mar s="maru0375"]
-[ns]Margarita[nse]
-"Let's go! Don't forget your bags."[pcms]
+[ns]マルガリータ[nse]
+「いくぞっ！　荷物を忘れるな」[pcms]
 
 *2837|
 [fc]
-[ns]Wataru[nse]
-"Yes!"[pcms]
+[ns]航[nse]
+「はいっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2838|
 [fc]
-We both, Yuuho who nodded silently and I, grabbed our bags[r]
-full of belongings and the mop that served as a weapon, and[r]
-jumped through the opened door.[pcms]
+ボクも、無言でうなずいた悠帆も荷物の詰まったバックと[r]
+武器代わりのモップを手に取り、開いた扉へと飛び込んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2839|
 [fc]
 [vo_mar s="maru0376"]
-[ns]Margarita[nse]
-"I'm closing it!"[pcms]
+[ns]マルガリータ[nse]
+「閉めるぞ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2840|
 [fc]
-As we passed through, the senior began to close the door.[r]
-Yuuho and I also helped.[pcms]
+ボクたちがくぐると先輩は扉を閉め始めた。[r]
+ボクと悠帆もそれに手を貸す。[pcms]
 
 ;//se045・金属ドアを閉じる
 [se buf=0 storage="se045"]
@@ -542,8 +544,7 @@ Yuuho and I also helped.[pcms]
 
 *2841|
 [fc]
-Unlike before, the iron door closed smoothly and[r]
-satisfyingly.[pcms]
+さっきとは違って、気持ちいいほど一気に鉄の扉は閉まった。[pcms]
 
 ;//se046・金属で閂（金属のガキッ）
 [wait time=300]
@@ -551,8 +552,7 @@ satisfyingly.[pcms]
 
 *2842|
 [fc]
-The senior quickly secured it with an iron pipe she had[r]
-brought along.[pcms]
+先輩は抜け目なく持ち出していた鉄パイプで閂をした。[pcms]
 
 ;//se043・金属の板を叩く音
 [se buf=0 storage="se043"]
@@ -571,8 +571,7 @@ brought along.[pcms]
 
 *2843|
 [fc]
-The moment she did, the sound of banging on the door became[r]
-incessant and numerous.[pcms]
+その瞬間から、扉を叩く音が数多く絶え間なく響く。[pcms]
 
 [bg storage="BG027"][trans_c cross time=500]
 
@@ -581,25 +580,25 @@ incessant and numerous.[pcms]
 *2844|
 [fc]
 [vo_mar s="maru0377"]
-[ns]Margarita[nse]
-"Let's go!"[pcms]
+[ns]マルガリータ[nse]
+「いくぞっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2845|
 [fc]
-We don't know when this door will be broken through. As the[r]
-senior said, we must escape from here immediately.[pcms]
+いつこの扉も破られるかわからない。[r]
+先輩の言うとおり、すぐにここから逃げないと。[pcms]
 
 *2846|
 [fc]
-"...Goodbye, Ren"[pcms]
+『……さよなら漣』[pcms]
 
 *2847|
 [fc]
-I whispered in my heart, took Yuuho's hand, and left behind[r]
-the rusty iron door that continued to be pounded on.[pcms]
+ボクは心の中でつぶやき、悠帆の手をとって、[r]
+叩き続けられている錆びた鉄扉を後にした。[pcms]
 
 ;//場面転換
 ;//BG　黒
@@ -614,53 +613,53 @@ the rusty iron door that continued to be pounded on.[pcms]
 
 *2848|
 [fc]
-After a while, the path split into two.[pcms]
+しばらく進むと、道は二つに別れていた。[pcms]
 
 *2849|
 [fc]
-[ns]Wataru[nse]
-"Senior, which way should we go?"[pcms]
+[ns]航[nse]
+「先輩、どっちに行くんですか？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2850|
 [fc]
 [vo_mar s="maru0378"]
-[ns]Margarita[nse]
-"Left leads towards Shibuya Station. We might be able to get[r]
-out near the river."[pcms]
+[ns]マルガリータ[nse]
+「左は渋谷駅方向だ。[r]
+　川から外に出られるかもしれない」[pcms]
 
 *2851|
 [fc]
 [vo_mar s="maru0379"]
-[ns]Margarita[nse]
-"Right goes towards Yoyogi Park. If the passage is still[r]
-intact as it used to be... it should connect to the sports[r]
-center on the other side of Yoyogi Park."[pcms]
+[ns]マルガリータ[nse]
+「右は代々木公園方向。[r]
+　通路が昔どおりに通っているなら……代々木公園の[r]
+　向こうにある体育センターに繋がっているはずだ」[pcms]
 
 *2852|
 [fc]
 [vo_mar s="maru0380"]
-[ns]Margarita[nse]
-"We might even be able to reach the DNH Broadcasting Center[r]
-where your father is, if what I've heard is true..."[pcms]
+[ns]マルガリータ[nse]
+「もしかしたら、途中でキミの父上がいる[r]
+　ＤＮＨ放送センターにも出られるかもしれない。[r]
+　聞いた話が本当ならだが……」[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１
-;//１１：左に！川から外へ！;//→;//ブロック４１０６０へ
-;//１２：右に！どこかの施設へ！;//→;//ブロック４１０９０へ
+;//●選択肢Ａ－１
+;//１－１：左に！川から外へ！;//→;//ブロック４１０６０へ
+;//１－２：右に！どこかの施設へ！;//→;//ブロック４１０９０へ
 
 
 ;	[link storage="41060.ks" target=*41060_TOP]左に！　川から外へ！[endlink]
-;       (link storage="41090.ks" target=*41090_TOP)To the[r]
-right! To some facility!(endlink)[pcms]
+;	[link storage="41090.ks" target=*41090_TOP]右に！　どこかの施設へ！[endlink][s]
 
 *SEL31|左に！　川から外へ！／右に！　どこかの施設へ！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'To the left! Out from the river!'"]
-[eval exp="f.seltext04 = 'To the right! To some facility!'"]
+[eval exp="f.seltext02 = '左に！　川から外へ！'"]
+[eval exp="f.seltext04 = '右に！　どこかの施設へ！'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

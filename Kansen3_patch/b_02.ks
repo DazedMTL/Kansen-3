@@ -19,25 +19,26 @@
 
 *3486|
 [fc]
-"The reason Yoshino-san is acting strange must be the shock[r]
-from being raped."[pcms]
+吉野さんがおかしいのは、[r]
+やっぱりレイプされたショックだろう。[pcms]
 
 *3487|
 [fc]
-"With my barely functioning brain, I finally came to that[r]
-conclusion."[pcms]
+何とか機能しだした頭で、[r]
+ボクはやっとその事を思いついた。[pcms]
 
 *3488|
 [fc]
-"I've never been raped, nor do I want to be. But I can[r]
-easily imagine that just the thought of it would be enough[r]
-to send someone into mental disarray."[pcms]
+レイプされたことなんてないし、されたいとも思わない。[r]
+けれど、想像しただけで精神が錯乱するくらいのショックを[r]
+受けるだろうことは容易に想像できる。[pcms]
 
 *3489|
 [fc]
-[ns]Wataru[nse]
-"Wait a minute, Yoshino-san. Calm down... I understand the[r]
-shock you've been through, but..."[pcms]
+[ns]航[nse]
+「ちょっ、ちょっと待ってよ、吉野さん。[r]
+　落ち着いて……落ち着いて[r]
+　君が受けたショックは分かるけど……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yoshino_c"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 ;mm 座標とレイヤがおかしくて分身しとる
@@ -46,81 +47,80 @@ shock you've been through, but..."[pcms]
 *3490|
 [fc]
 [vo_mob s="yoshino0022"]
-[ns]Yoshino[nse]
-"Calm down? What are you talking about? I'm so psyched right[r]
-now. I never knew that having a dick inside my pussy or my[r]
-ass could feel this good."[pcms]
+[ns]吉野[nse]
+「落ち着く？　何言ってるの？　私は今サイコーに[r]
+　ハッピーなの。チンポがおまんこの中とかお尻の中に[r]
+　するだけでこんなに気持ちいいなんて知らなかったわぁ」[pcms]
 
 *3491|
 [fc]
-[ns]Wataru[nse]
-"No, that's not what being calm means..."[pcms]
+[ns]航[nse]
+「い、いや……それが落ち着いてる状態じゃないから……」[pcms]
 
 *3492|
 [fc]
-While continuing a conversation that made no sense, I took[r]
-out my cell phone and kept pressing 110 and 119.[pcms]
+成り立っていない会話を続けながら、ボクは携帯を[r]
+取り出して１１０番や１１９番を押し続けた。[pcms]
 
 *3493|
 [fc]
-I've never called 110 or 119 before in my life.[pcms]
+１１０番や１１９番にかけた事なんて、今まで一度もない。[pcms]
 
 *3494|
 [fc]
-But since it's an emergency line, they should answer[r]
-quickly.[pcms]
+でも緊急回線なんだから、すぐに出てくれるだろう。[pcms]
 
 *3495|
 [fc]
-Despite thinking this, the calls I alternated between making[r]
-had no responsemaybe due to poor signal or something else.[pcms]
+そう思ってるのに、交互にかける電話は電波状態が[r]
+悪いのかなんなのか、一向に応答らしい応答もなかった。[pcms]
 
 *3496|
 [fc]
-No, the ringing tone continues.[pcms]
+いや、呼び出し音は鳴り続けている。[pcms]
 
 *3497|
 [fc]
-But the ringing never breaks for someone to answer.[pcms]
+でもその呼び出し音が途切れて誰かが[r]
+出てくれることがない。[pcms]
 
 *3498|
 [fc]
-Why on earth...?[pcms]
+一体……なぜ？[pcms]
 
 *3499|
 [fc]
-Maybe the sirens are blaring continuously because there are[r]
-so many emergency calls that they don't have enough[r]
-operators.[pcms]
+こんなにサイレンが鳴り続けてるから、オペレーターの数が[r]
+足りないほど、ひっきりなしに緊急電話が鳴り続けているのかも[r]
+しれない。[pcms]
 
 *3500|
 [fc]
-I gave up on the unresponsive phone and decided to take[r]
-Yoshino-san to a nearby police box or hospital.[pcms]
+応答のない電話をあきらめて、ともかく吉野さんを近くの[r]
+交番か病院まで送っていこう。[pcms]
 
 *3501|
 [fc]
-[ns]Wataru[nse]
-"Damn... the phone's no good... Yoshino-san, let's head to a[r]
-nearby police box orwoah!!"[pcms]
+[ns]航[nse]
+「くそっ……電話は駄目か……。[r]
+　吉野さん、ともかく近くの交番か……うわっ！！」[pcms]
 
 *3502|
 [fc]
-Just as I thought that and turned around, Yoshino-san[r]
-pounced on me and pushed me to the ground.[pcms]
+そう思って再び向きなおった途端、[r]
+当の吉野さんに飛びかかるように地面に押し倒された。[pcms]
 
 ;//♯_ホワイトフラッシュ
 [白フラ]
 
 *3503|
 [fc]
-In an instant, my vision flashed white as my head was[r]
-slammed hard against the road.[pcms]
+一瞬、目の前が真っ白にチカチカするほど、道路に[r]
+思いっきり頭を叩きつけられた。[pcms]
 
 *3504|
 [fc]
-But before I could suffer from the pain, surprise took over[r]
-me.[pcms]
+でも痛みに苦しむより先に、驚きがボクを支配する。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yoshino_c"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 ;mm 座標とレイヤがおかしくて分身しとる てか消してないからいらない
@@ -129,18 +129,18 @@ me.[pcms]
 *3505|
 [fc]
 [vo_mob s="yoshino0023"]
-[ns]Yoshino[nse]
-"Ehehe~"[pcms]
+[ns]吉野[nse]
+「えへへぇ～」[pcms]
 
 *3506|
 [fc]
-Yoshino-san, who had mounted me with the momentum of pushing[r]
-me down, began to pull down the zipper of my pants.[pcms]
+ボクを押し倒した勢いのまま馬乗りになった吉野さんが、[r]
+ボクのズボンのチャックを引き降ろし始めたからだ。[pcms]
 
 *3507|
 [fc]
-[ns]Wataru[nse]
-"Wha! What are you doing!?"[pcms]
+[ns]航[nse]
+「なっ！　なななななっ、何してるのっ！？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yoshino_c"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 ;mm 座標とレイヤがおかしくて分身しとる てか消してないからいらない
@@ -148,27 +148,28 @@ me down, began to pull down the zipper of my pants.[pcms]
 *3508|
 [fc]
 [vo_mob s="yoshino0024"]
-[ns]Yoshino[nse]
-"Why aren't you hard?"[pcms]
+[ns]吉野[nse]
+「なんで勃ってないの？」[pcms]
 
 *3509|
 [fc]
-Yoshino-san pulled out my limp dick from inside my pants and[r]
-swung it back and forth.[pcms]
+むんずとふにゃふにゃのままのボクのモノを[r]
+ズボンの中から引きずり出して、吉野さんは[r]
+ぶらんぶらんとそれをゆすった。[pcms]
 
 *3510|
 [fc]
-If it weren't for this situation... I wouldn't be able to[r]
-control my sexual desire.[pcms]
+い、いや……こんな状況じゃなかったら……。[r]
+ボクの性欲は抑える事なんてできないだろう。[pcms]
 
 *3511|
 [fc]
-But...[pcms]
+でも……。[pcms]
 
 *3512|
 [fc]
-[ns]Wataru[nse]
-"Even if you say it's not hard..."[pcms]
+[ns]航[nse]
+「たっ、勃ってないって言われても……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yoshino_c"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 ;mm 座標とレイヤがおかしくて分身しとる てか消してないからいらない
@@ -176,50 +177,49 @@ But...[pcms]
 *3513|
 [fc]
 [vo_mob s="yoshino0025"]
-[ns]Yoshino[nse]
-"A limp dick is nothing but useless. If it's not useful... I[r]
-might as well eat it up♪"[pcms]
+[ns]吉野[nse]
+「勃ってないチンポなんて、役立たず以外の何者でもないわよね。[r]
+　役に立たないのなら……食べちゃおう♪」[pcms]
 
 *3514|
 [fc]
-[ns]Wataru[nse]
-"Eat...? You mean eat it...?"[pcms]
+[ns]航[nse]
+「え……？　食べちゃうって……」[pcms]
 
 ;//♯_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *3515|
 [fc]
-The moment I tried to get up in a panic, Yoshino-san's face[r]
-twisted strangely with a creepy smile, and then the ground[r]
-started shaking.[pcms]
+慌てて起き上がろうとしたその瞬間、不気味な笑みを浮かべる[r]
+吉野さんの顔が奇妙にゆがみ、次に地面が揺れ出した。[pcms]
 
 *3516|
 [fc]
-Suddenly, darkness enveloped everything around me.[r]
-Immediately after, a dull pain shot through the back of my[r]
-head.[pcms]
+そして、ボクの周りは突然、暗闇に包まれる。[r]
+直後、後頭部に鈍痛が走る。[pcms]
 
 *3517|
 [fc]
-Come to think of it, I hit my head really hard earlier...[pcms]
+そういや、さっきスゴイ勢いで[r]
+頭打ち付けたんだった……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yoshino_c"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 
 *3518|
 [fc]
 [vo_mob s="yoshino0026"]
-[ns]Yoshino[nse]
-"Ahaha! Ahahahaha, ahahahahaha!!"[pcms]
+[ns]吉野[nse]
+「あはっ！　あはははは、あはははははははっ！！」[pcms]
 
 *3519|
 [fc]
-The sound of Yoshino-san laughing crazily grew fainter and[r]
-fainter...[pcms]
+狂ったように笑う吉野さんの声さえも[r]
+段々遠のいていって……。[pcms]
 
 *3520|
 [fc]
-That was the last voice I heard.[pcms]
+それがボクが聞いた最期の声だった。[pcms]
 
 ;//・ゲームオーバー
 ;//〆：ゲームオーバー画面へ
@@ -228,6 +228,6 @@ That was the last voice I heard.[pcms]
 ;//●●●●●仕様の確定を。
 
 ;//●ゲームオーバー
-(gameover time=0 movie="gameover.mpg")(returntitle)[pcms]
+[gameover time=0 movie="gameover.mpg"][returntitle][s]
 
 

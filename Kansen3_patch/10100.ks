@@ -42,181 +42,174 @@
 
 *699|
 [fc]
-I rushed into the bathroom as if fleeing, and then I found[r]
-myself unable to move.[pcms]
+逃げ込むようにトイレへと駆け込んだあたしは、[r]
+そのまま動けなくなってしまった。[pcms]
 
 *700|
 [fc]
-Ever since returning from that rave, I've been forced to[r]
-deal with that Dazai almost without any rest, and my fatigue[r]
-had reached its peak.[pcms]
+あのレイヴから戻って以降、ほとんど休みなしで[r]
+あの太宰の相手をさせられ、疲労はピークに達していた。[pcms]
 
 *701|
 [fc]
-My physical condition is bad, I feel sick, it's the worst[r]
-state to be in.[pcms]
+体調は悪いし、気分も悪いし、最悪な状態。[pcms]
 
 *702|
 [fc]
-If it were a person of the opposite sex I liked, an[r]
-attractive person, I might not mind the fatigue so much, but[r]
-after all, the other party is that Dazai.[pcms]
+これが好きな異性、魅力的な異性なら、多少の疲れも[r]
+気にならないところだけど、なんといっても相手はあの太宰だ。[pcms]
 
 *703|
 [fc]
-He's like the embodiment of all the ugly parts of a man.[r]
-Just sharing the same air with him makes me feel sick.[pcms]
+男の醜い部分だけが形をなしたような最低の存在。[r]
+同じ空気を吸うだけでも、気分が悪くなるほどだ。[pcms]
 
 *704|
 [fc]
-I'm sure all the other girls in Jin's group would agree with[r]
-this view.[pcms]
+あたし以外にもジンのグループの女はみんな、[r]
+一致する見解だろう。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *705|
 [fc]
 [vo_miz s="mizuki0089"]
-[ns]Mizuki[nse]
-"And yet that girl..."[pcms]
+[ns]瑞樹[nse]
+「それなのにあの子は……」[pcms]
 
 *706|
 [fc]
-She seemed almost happy to expose her body to Dazai's[r]
-desires, to men's lust. Is madness really such a terrible[r]
-thing?[pcms]
+まるで太宰に、男たちの欲望に肉体を晒すことを[r]
+喜んでいるかのようだった。[r]
+狂うとはそれほど凄いことなんだろうか。[pcms]
 
 *707|
 [fc]
-Is madness something so fierce that it can transform a[r]
-woman's nature into something else...?[pcms]
+狂気とは女の性質を別なものに作り替えるほど[r]
+すさまじいものなんだろうか……。[pcms]
 
 *708|
 [fc]
-I left the aftermath of the feast with those red eyes[r]
-untouched. I didn't even want to breathe the same air from[r]
-that place.[pcms]
+あの赤目との饗宴の跡は、そのまま放置してきた。[r]
+その場の空気さえ、あたしは吸いたくなかった。[pcms]
 
 *709|
 [fc]
-If I had forced myself to stay there, I might have thrown[r]
-up.[pcms]
+あのまま無理をしていたら、嘔吐してたかもしれない。[pcms]
 
 *710|
 [fc]
-In the end, all the girls who were still energetic were[r]
-taken away by Dazai to watch fireworks.[pcms]
+結局元気で残っていた女の子たちは全員、[r]
+太宰の花火見物に連れられて行った。[pcms]
 
 *711|
 [fc]
-I was the only one who managed to hide in the office and[r]
-escape after somehow contacting Jin.[pcms]
+あたしだけはなんとかジンに連絡してから[r]
+事務所に隠れて逃れることができたのだ。[pcms]
 
 *712|
 [fc]
-That girl with the creepy red eyes was truly unsettling.[r]
-Those who had sex with her ended up making the same awkward[r]
-movements and left half-naked...[pcms]
+本当に不気味な赤い眼の少女だった。[r]
+あれとＳＥＸした連中は最後は同じようなぎこちない動作をして、[r]
+半裸状態で出て行ったし……。[pcms]
 
 *713|
 [fc]
-Even if those idiots get caught by the police, as far as I'm[r]
-concerned, it's none of my business. Jin might get angry if[r]
-he finds out though.[pcms]
+馬鹿が警察に捕まってもあたしとしては、[r]
+知ったことじゃない。[r]
+ジンが知ったら怒るかもしれないけど。[pcms]
 
 *714|
 [fc]
-Still, I didn't want to get involved with those guys.[pcms]
+それでも、あたしはあの連中に関わりたくなかった。[pcms]
 
 *715|
 [fc]
-More importantly for me was the fact that I had accidentally[r]
-met Kousuke and the others.[pcms]
+それよりも、あたしにとって重要なことは、[r]
+コースケたちと会ってしまったことだ。[pcms]
 
 *716|
 [fc]
-That encounter acted like a trigger, and since then a fog[r]
-has settled over my heart, and my irritation has been[r]
-growing.[pcms]
+それが引き金のように、あれからあたしの心には靄がかかり、[r]
+イライラが募っていく。[pcms]
 
 *717|
 [fc]
-The joy of reunion on one hand, and on the other, the[r]
-sadness of having my current undesirable self known.[pcms]
+再会のうれしさの反面、見られたくない今の自分を[r]
+知られたことの悲しさ。[pcms]
 
 *718|
 [fc]
-Their eyes that seemed to understand, that pitied me, and[r]
-their shallow words made me incredibly angry.[pcms]
+わかったような、憐れむような眼と、[r]
+薄っぺらい言葉が無性に腹立たしい。[pcms]
 
 *719|
 [fc]
-I opened my shoulder bag and took out my broken choker, my[r]
-favorite snacks, and my glasses case.[pcms]
+あたしはショルダーバックを開くと、[r]
+さっき壊れたチョーカーと好きなお菓子、[r]
+そしてメガネケースを取り出した。[pcms]
 
 *720|
 [fc]
-Inside the glasses case were drugs packed tightly. They're[r]
-like magic pills that save me when I'm irritated.[pcms]
+メガネケースの中身は、ドラックが詰めてある。[r]
+イライラした時、あたしを救ってくれる魔法の薬。[pcms]
 
 *721|
 [fc]
-...Kousuke. No matter how much I try to forget him, I can't[r]
-get him out of my mind.[pcms]
+……コースケ。[r]
+忘れようとしても、忘れようとしても忘れられないあの人。[pcms]
 
 *722|
 [fc]
-I want to be with him again... But as I am now, I'm not[r]
-worthy of him. We live in different worlds now.[pcms]
+私は再び、あの人と……。[r]
+でも、今のこんな自分では釣り合わない。[r]
+もう住む世界が違うんだ。[pcms]
 
 *723|
 [fc]
-There's no way someone as tainted as me could walk alongside[r]
-him.[pcms]
+こんなに汚れたあたしが、あの人と歩くなんてできるわけがない。[pcms]
 
 *724|
 [fc]
-Living is really full of unpleasant things. Why is it only[r]
-me who has to go through something like this?[pcms]
+生きるって本当にイヤなことばかり。[r]
+どうしてあたしだけ、こんな目に遭うんだろう。[pcms]
 
 *725|
 [fc]
-After a deep sigh, I took out a small glass bottle from the[r]
-case.[pcms]
+深いため息のあと、ケースから取り出す、小さなガラス瓶。[pcms]
 
 *726|
 [fc]
-Inside the glass bottle were sparkling, very fine,[r]
-transparent crystals.[pcms]
+ガラス瓶の中には、キラキラと輝く、すごく細かくて[r]
+透明な結晶が詰まっていた。[pcms]
 
 *727|
 [fc]
-The powder was so fine it seemed it could scatter with a[r]
-breath, and as I carefully brought it close to my nose, it[r]
-emitted a dull light.[pcms]
+吐息ですら飛び散りそうなほど細かく、[r]
+鈍い光を放つその粉末を、慎重に鼻へと近づける。[pcms]
 
 *728|
 [fc]
-This powder will set me free. It will release me from[r]
-everything. I just want to forget everything and fall asleep[r]
-like this.[pcms]
+この粉末が、あたしを自由にしてくれる。[r]
+全てから解放してくれる。[r]
+このまま全てを忘れて、眠ってしまいたい。[pcms]
 
 *729|
 [fc]
-So I took a deep breath and inhaled the powder.[pcms]
+だからあたしは大きく息を、そして粉末を吸い込んだ。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *730|
 [fc]
-After closing my eyes and waiting for a while, the drug[r]
-began to lead my heart towards freedom.[pcms]
+目を閉じてしばらく待つと、[r]
+クスリがあたしの心を自由へと導いていく。[pcms]
 
 *731|
 [fc]
-I felt weightless, the fatigue disappeared... Only a sense[r]
-of ecstasy began to well up. Although I should feel light,[r]
-my body sinks into the ground.[pcms]
+体重がなくなり、疲れが消えて……。[r]
+恍惚感だけが湧き出してくる。[r]
+軽いはずなのに、身体が地面へと沈み込んでいく。[pcms]
 
 
 [bg storage="BG110"][trans_c cross time=500]
@@ -224,141 +217,138 @@ my body sinks into the ground.[pcms]
 
 *732|
 [fc]
-Everything in my field of vision glowed dully yellow... My[r]
-consciousness became increasingly blurred.[pcms]
+視界にあるもの全てが、鈍く黄色く輝いて……。[r]
+意識がどんどんぼやけていく。[pcms]
 
 *733|
 [fc]
-Yet only my brain was clearly awake, feeling like I was in a[r]
-high fever in bed or soaking in a hot bath, a relaxed[r]
-sensation.[pcms]
+それなのに脳だけがはっきりと覚醒して、[r]
+高熱で寝込んでいるような、熱いお風呂に浸かっているような、[r]
+リラックスした感覚になる。[pcms]
 
 *734|
 [fc]
-And then on the screen behind my eyelids, a familiar scene[r]
-was projected.[pcms]
+そしてあたしのまぶたの裏のスクリーンに、[r]
+見覚えのある光景が映し出された。[pcms]
 
 *735|
 [fc]
-My dream... it was to become a singer. That has been[r]
-consistent since I was a child.[pcms]
+あたしの夢……それは歌手になることだった。[r]
+子供のころからそれは一貫して変わらない。[pcms]
 
 *736|
 [fc]
-If I were to become one, I'd prefer to be a talented singer[r]
-rather than just an idol for show. An R&B singer was ideal.[pcms]
+なるなら、格好だけのアイドルより、実力派のシンガーだった。[r]
+Ｒ＆Ｂのカコイイ歌手が理想的。[pcms]
 
 *737|
 [fc]
-So I actively went to karaoke and practiced a lot so that I[r]
-could sing better than anyone else.[pcms]
+だからカラオケにも積極的に通って、[r]
+誰よりもうまく歌えるように、たくさん練習した。[pcms]
 
 *738|
 [fc]
-Kousuke, Wataru, Yuuho, Ren, Hiko-chin. All of us childhood[r]
-friends had some sort of talent.[pcms]
+コースケ、ワタル、ユウホ、レン、彦ちん。[r]
+幼馴染の仲良しだったみんなには、[r]
+何かしらの取り柄があった。[pcms]
 
 *739|
 [fc]
-I wasn't particularly cute, and smart bodies like Yuuho's or[r]
-Ren's were ideal for me; these big breasts were nothing but[r]
-a complex for me.[pcms]
+たいして可愛くないあたしは、[r]
+ユウホやレンみたいなスマートなボディが理想で、[r]
+この巨乳はコンプレックスでしかなかった。[pcms]
 
 *740|
 [fc]
-I thought singing was my forte, singing was everything to[r]
-me.[pcms]
+歌があたしの取り柄だと思ってたし、[r]
+歌があたしのすべてだった。[pcms]
 
 *741|
 [fc]
-Eventually Kousuke began to support my dream.[pcms]
+そのうちコースケがあたしの夢を応援してくれるようになった。[pcms]
 
 *742|
 [fc]
-He wrote songs for me, and I was truly happy.[pcms]
+あたしの為に曲を作ってくれて、本当にうれしかった。[pcms]
 
 *743|
 [fc]
-Kousuke has always been an all-around sports guy, good at[r]
-studying, strong in fights, straightforward and very kind...[pcms]
+コースケのことは昔から好きだった。[r]
+スポーツが万能で、勉強もできて、ケンカが強くて、[r]
+さっぱりしていてすごく優しくて……。[pcms]
 
 *744|
 [fc]
-He was an existence that encapsulated all the charms of a[r]
-man. Before I knew it, I had no interest in any other men[r]
-but Kousuke.[pcms]
+男性の魅力のすべてが詰まっている存在だった。[r]
+気がつけばあたしはコースケ以外の異性には[r]
+何の興味も感じなくなっていた。[pcms]
 
 *745|
 [fc]
-But because I thought Yuuho was the one Kousuke liked, I[r]
-always harbored painful feelings inside me.[pcms]
+でも、そんなコースケが好きなのは、[r]
+ユウホなんだと思っていたから、[r]
+あたしはいつも苦しい想いばかり溜め込んでいた。[pcms]
 
 *746|
 [fc]
-So when Kousuke told me he liked me, it felt like one of my[r]
-dreams had come true; I was so happy.[pcms]
+だから自分が好きだとコースケに言われた時は、[r]
+あたしの夢が一つ叶ったような気がするほど嬉しかった。[pcms]
 
 *747|
 [fc]
-But Kousuke is always a shining boy. A girl like me without[r]
-any talent other than singing would just be a burden by his[r]
-side.[pcms]
+でも、コースケはいつでも輝いている男の子。[r]
+歌以外には何のとりえもないあたしが傍にいても重荷になるだけ。[pcms]
 
 *748|
 [fc]
-I wasn't even fat; someone like me just didn't match up with[r]
-Kousuke.[pcms]
+デブでさえないあたしでは、コースケとは釣り合わなかった。[pcms]
 
 *749|
 [fc]
-In music too, Kousuke was quickly recognized for his talent,[r]
-even attracting attention from industry insiders.[pcms]
+音楽でもコースケはすぐに才能を認められて、[r]
+業界人にさえ声をかけられるほど。[pcms]
 
 *750|
 [fc]
-In a daily life filled with envy and jealousy, I desperately[r]
-wanted to achieve some kind of result to live up to such[r]
-people's expectations.[pcms]
+羨望と嫉妬ばかりの毎日の中で、[r]
+あたしもそんな人の応援に応えたくて、[r]
+何らかの結果が欲しくて必死になっていた。[pcms]
 
 *751|
 [fc]
-But reality is different from dreams. No matter how much I[r]
-sang, the results didn't come. No matter how hard I tried, I[r]
-lacked talent.[pcms]
+でも現実は夢とは違う。いくら歌っても結果は出ない。[r]
+いくら一生懸命でも才能がない。[pcms]
 
 *752|
 [fc]
-Even though it was my only skill, my only reliance, there[r]
-was no future for someone without talent.[pcms]
+たった一つの取り柄なのに、たった一つの拠り所なのに。[r]
+才能がないものには未来はなかった。[pcms]
 
 *753|
 [fc]
-The fear of having my emotional support exposed as just a[r]
-boring dream.[pcms]
+心の支えが、ただのつまらない夢だったと暴かれていく恐怖。[pcms]
 
 *754|
 [fc]
-In the end, I became so desperate that I couldn't see what[r]
-was around me and fell for the invitation of a dubious self-[r]
-proclaimed industry person.[pcms]
+結局必死になっていたあたしは、周りが見えなく[r]
+なって怪しい自称業界人の誘いに乗ってしまった。[pcms]
 
 *755|
 [fc]
-I didn't listen to Kousuke's attempts to stop me and oppose[r]
-it; I couldn't stand being pitied by Kousuke, being helped[r]
-and saved...[pcms]
+反対して止めてくれたコースケの制止も聞かず、[r]
+コースケのお情けにすがっている、[r]
+助けられている自分が許せなくて……。[pcms]
 
 *756|
 [fc]
-I saw an attitude of condescension from him, as if he was[r]
-saving me from above, and it made me angry to feel[r]
-belittled... The same went for what everyone else said.[pcms]
+上から救ってやるという態度が見えて、[r]
+バカにされてると腹が立ったって……。[r]
+他のみんなの言葉も、同様に思えた。[pcms]
 
 *757|
 [fc]
-I was taken to an office in a room of a mansion, given a[r]
-drink, and when I came to, I was on a bed surrounded by many[r]
-men.[pcms]
+マンションの一室の事務所に連れられて、飲み物を飲まされて、[r]
+気がついたらベッドの上で沢山の男に囲まれていた。[pcms]
 
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -373,8 +363,7 @@ men.[pcms]
 
 *758|
 [fc]
-Under Shige's direction, I was gang-raped in front of the[r]
-camera.[pcms]
+シゲが仕切るまま、あたしはカメラの前で輪姦された。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -394,8 +383,8 @@ camera.[pcms]
 
 *759|
 [fc]
-My virginity, which had only gone as far as kissing with[r]
-Kousuke, was taken by them that day.[pcms]
+コースケとはキスどまりだったあたしの純潔は[r]
+その日、彼らに奪われた。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -411,8 +400,7 @@ Kousuke, was taken by them that day.[pcms]
 
 *760|
 [fc]
-My first time in every hole was defiled by Shige's huge[r]
-dick.[pcms]
+穴という穴の初めてを、あたしはあのシゲの巨根で汚された。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -432,107 +420,105 @@ dick.[pcms]
 
 *761|
 [fc]
-One after another, unknown men's cocks filled my holes.[pcms]
+次々と知らない男たちのチンコがあたしの穴を埋め尽くしていく。[pcms]
 
 *762|
 [fc]
-My womb, intestines, and mouth were filled with the men's[r]
-semen.[pcms]
+子宮、腸、口内は男たちの精液で満たされていった。[pcms]
 
 ;//HEV???
 [evcg白フラ storage="HEV012a" time=300]
 
 *763|
 [fc]
-After being confined in that mansion for several days, I[r]
-began to feel the joy of being a woman in being violated,[r]
-just like that girl with the red eyes.[pcms]
+何日かそのマンションに監禁されたあたしは、[r]
+気がつけばあの赤い眼の少女のように、[r]
+犯されることに女の喜びを感じ始めた。[pcms]
 
 [evcg白フラ storage="HEV012b" time=300]
 
 *764|
 [fc]
-Once I got to know drugs, I willingly accepted their abuse[r]
-and reveled in ecstasy.[pcms]
+クスリを覚えてからは、自分で進んで彼らの[r]
+凌辱を受けて、歓喜に酔いしれていた。[pcms]
 
 [evcg白フラ storage="HEV012c" time=300]
 
 *765|
 [fc]
-I lost track of even my own name, indulging in carnal[r]
-desires day after day...[pcms]
+自分の名前も分からなくなるほど、[r]
+ただ肉欲をむさぼり続けた日々……。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *766|
 [fc]
-When my ego was about to collapse, Jin freed me.[pcms]
+自我も崩壊しかけた頃、ジンがあたしを解放してくれた。[pcms]
 
 [bg storage="BG110"][trans_c cross time=500]
 ;[eval exp="f.l_map = 22"]
 
 *767|
 [fc]
-After that, I shut myself away at home for a while, not[r]
-going to school or seeing Kousuke and the others, continuing[r]
-to escape.[pcms]
+それからあたしはしばらく家に引きこもって、[r]
+学園にも行かず、コースケたちと顔を合わせることもないまま、[r]
+逃避し続けた。[pcms]
 
 *768|
 [fc]
-Then everything seemed so unimportant, craving drugs and[r]
-SEX, I followed the throbbing of my body and joined Jin's[r]
-group.[pcms]
+そしてすべてが、全部がどうでもよく思えて、[r]
+クスリとＳＥＸが欲しくて、あたしは肉体の疼きに従って、[r]
+ジンのグループに加わった。[pcms]
 
 [evcg白フラ storage="HEV032a" time=300]
 
 *769|
 [fc]
-In hindsight, everything was unnatural. There's no way[r]
-someone like Kousuke and a piece of trash like me with no[r]
-talent or redeeming qualities should be together.[pcms]
+今思えば何もかもが不自然だった。[r]
+コースケのような人と、自分みたいな何の才能も[r]
+取り柄もないクズが付き合っていていいわけがない。[pcms]
 
 [evcg白フラ storage="HEV032b" time=300]
 
 *770|
 [fc]
-It was a mistake to be with those people who had dreams and[r]
-talent just because we were childhood friends.[pcms]
+ただの幼馴染というだけで、夢も才能もある[r]
+あの人達と一緒にいることが間違いなんだ。[pcms]
 
 *771|
 [fc]
-I'm nothing but a clown who has nothing, who doesn't possess[r]
-anything but mistakenly believes he does.[pcms]
+なにもないくせに、何ももってないのに、[r]
+あると勘違いしているだけの道化。それがあたしなんだ。[pcms]
 
 *772|
 [fc]
-This is the right appearance now. This is the right shape[r]
-now. This is the appropriate life now.[pcms]
+今のこれが正しい姿。今のこれが正しい形。[r]
+今のこれが相応しい生活。[pcms]
 
 [evcg白フラ storage="HEV003" time=300]
 
 *773|
 [fc]
-Drowning in alcohol, drowning in drugs, having SEX,[r]
-complaining while occasionally reveling in Jin's kindness.[pcms]
+酒におぼれて、クスリにおぼれて、ＳＥＸして、[r]
+愚痴を言いながら、たまに見れるジンの優しさに歓喜する。[pcms]
 
 *774|
 [fc]
-This way of life that just drifts along is just right for[r]
-me. That's enough for me.[pcms]
+ただ垂れ流していく生き方が、あたしには丁度いい。[r]
+自分にはそれで十分なんだ。[pcms]
 
 *775|
 [fc]
-All those words from Kousuke and the others who know[r]
-nothing, all that thin sympathy can just be washed away with[r]
-drugs.[pcms]
+なにもしらないあの人たち、コースケたちの言葉なんて[r]
+うすっぺらい同情なんて、クスリで全部、流してしまえばいい。[pcms]
 
 *776|
 [fc]
-That's fine...[pcms]
+それでいいんだ……。[pcms]
 
 *777|
 [fc]
-My consciousness sank into darkness just like that.[pcms]
+あたしの意識はそのまま闇の中に沈んだ。[pcms]
 
 
 ;//---------------------------------------------------------------

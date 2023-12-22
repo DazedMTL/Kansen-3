@@ -1,10 +1,10 @@
 ;//☆瑞樹ＺＡＰ４からは、ここに接続
 ;//block:A007
-;//ブロック５０１６０『地上ＬＡＳＥＲへ』
+;//ブロック５０１６０『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50160_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：ＬＡＳＥＲ階段・ＤＪバー・エレベーターエントランス
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣・航・感染者
@@ -22,12 +22,12 @@
 
 *970|
 [fc]
-The 6th floor fire door wasn't closed. We'll explore here[r]
-later and head to the 7th floor.[pcms]
+６Ｆは防火扉自体が閉まっていなかった。[r]
+ここの探検は後回しにして、７Ｆに向かう。[pcms]
 
 *971|
 [fc]
-And then, we...[pcms]
+そして、ボクたちは……。[pcms]
 
 ;//〆ＬＡＳＥＲバックヤード通路（各フロア共通）
 ;//@konya LESAR エレベータ
@@ -36,28 +36,27 @@ And then, we...[pcms]
 
 *972|
 [fc]
-Finally reached the 7th floor backyard.[pcms]
+ようやく７Ｆのバックヤードに辿りついた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *973|
 [fc]
-[ns]Kousuke[nse]
-"...It's eerily quiet."[pcms]
+[ns]浩助[nse]
+「…………すげえ静かだな」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *974|
 [fc]
 [vo_yuh s="yuho1506"]
-[ns]Yuuho[nse]
-"There's no one around..."[pcms]
+[ns]悠帆[nse]
+「誰も、いないんだね……」[pcms]
 
 *975|
 [fc]
-While catching our breath, we cautiously survey the[r]
-surroundings and slowly head towards the interior of the DJ[r]
-bar.[pcms]
+軽く息を切らせながら、周囲の様子を窺い、[r]
+ゆっくりとＤＪバーの店内に向かっていく。[pcms]
 
 ;//〆ＤＪバー（メインドーム）
 [bg storage="BG019a"][trans_c cross time=500]
@@ -65,257 +64,258 @@ bar.[pcms]
 
 *976|
 [fc]
-The main dome was, as expected, deathly silent.[pcms]
+メインドームの中は、やはりしんと静まり返っていた。[pcms]
 
 *977|
 [fc]
-The cooler seems to be on for opening preparations, but it's[r]
-not set to a comfortable temperature for customers, so it's[r]
-a bit hot.[pcms]
+開店準備のためか、クーラーは入っているようだけど[r]
+客用に設定された温度じゃないから、少し暑い。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *978|
 [fc]
 [vo_mar s="maru1430"]
-[ns]Margarita[nse]
-"...Now that we've arrived at our destination, we need to[r]
-decide on our next course of action."[pcms]
+[ns]マルガリータ[nse]
+「……さて、目的地には到着したが、[r]
+　これからの方針を決めないといけない」[pcms]
 
 *979|
 [fc]
-We look around the floor and form a circle.[pcms]
+ボクたちはフロアを見回しながら、円陣になる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *980|
 [fc]
 [vo_mar s="maru1431"]
-[ns]Margarita[nse]
-"It seems that the building itself is reasonably secure,[r]
-but..."[pcms]
+[ns]マルガリータ[nse]
+「どうやらビル自体の安全は[r]
+　それなりに確保されているようだが……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *981|
 [fc]
 [vo_mar s="maru1432"]
-[ns]Margarita[nse]
-"Since none of your acquaintances are here, shouldn't we[r]
-prioritize finding an escape route and return to 'Dedepou'?"[pcms]
+[ns]マルガリータ[nse]
+「キミたちの知人もいないことだ、[r]
+　やはり、脱出ルートを優先し[r]
+　『ででっぽう』に戻った方が良くはないか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *982|
 [fc]
-[ns]Kousuke[nse]
-"Wait, wait, we don't know that yet! The master might be on[r]
-some other floor..."[pcms]
+[ns]浩助[nse]
+「ま、まだ、分かんねーよ！[r]
+　マスター、どっか他のフロアに[r]
+　いるのかもしんねーじゃん……」[pcms]
 
 *983|
 [fc]
-Kousuke argued back, clearly not wanting to turn back just[r]
-after arriving.[pcms]
+着いたばかりで引き返すのはイヤだとばかりに[r]
+コースケが反論した。[pcms]
 
 *984|
 [fc]
-Maybe it's not about checking on acquaintances but rather[r]
-the Tengudo musical instrument store on the 2nd floor that's[r]
-keeping him here...[pcms]
+もしかしたら知人の安否とかじゃなくて[r]
+２Ｆの天狗堂楽器が彼を引き留めてるのかもしれない……。[pcms]
 
 *985|
 [fc]
-[ns]Wataru[nse]
-"...Yeah, I also want to check on the 5th floor we saw[r]
-earlier."[pcms]
+[ns]航[nse]
+「……そ、そうだね、[r]
+　さっきの５Ｆも確認しておきたいし」[pcms]
 
 *986|
 [fc]
-I feel a bit guilty, but I back up Kousuke.[pcms]
+少し気がとがめるけれど、ボクもコースケを援護する。[pcms]
 
 *987|
 [fc]
-If the seniors knew our aim was to go to the rooftop, they'd[r]
-probably get mad...[pcms]
+屋上に行くのが狙いだなんて、[r]
+先輩にバレたら怒られそうだ……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *988|
 [fc]
 [vo_mar s="maru1433"]
-[ns]Margarita[nse]
-"...I am also concerned about that 5th floor, which is[r]
-another reason I suggest we retreat..."[pcms]
+[ns]マルガリータ[nse]
+「……ワタシとしては、その５Ｆが気になるのも[r]
+　撤退を勧める理由ではあるのだが……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *989|
 [fc]
 [vo_ren s="ren1346"]
-[ns]Ren[nse]
-"There were lots of things on the lower floors that could be[r]
-useful, right...?"[pcms]
+[ns]漣[nse]
+「下のフロアには、いろいろ役に立ちそうなものも[r]
+　いっぱいあったよね……？」[pcms]
 ;//＠おさえていますが、おねだり口調
 
 *990|
 [fc]
-Even Ren started to chime in with Kousuke.[pcms]
+なんと漣までがコースケに口ぞえを始めた。[pcms]
 
 *991|
 [fc]
-She's probably interested in the manga cafe. As expected of[r]
-siblings. They really get along...[pcms]
+たぶん、漫画喫茶が気になってるんだろう。[r]
+さすが兄妹。気が合うなあ……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *992|
 [fc]
 [vo_yuh s="yuho1507"]
-[ns]Yuuho[nse]
-"That's right, we brought various things from[r]
-'Kimesugitakashi' earlier, but it would be a problem if[r]
-we're missing something."[pcms]
+[ns]悠帆[nse]
+「そうだよね、さっき『キメスギタカシ』から[r]
+　いろいろ持って来たけど、[r]
+　足りないものがあったら困るもんね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *993|
 [fc]
 [vo_yuh s="yuho1508"]
-[ns]Yuuho[nse]
-"At least, let's just check out each store... Please,[r]
-Maruko-senpai~"[pcms]
+[ns]悠帆[nse]
+「せめて、ひととおり、お店を回るだけでも……。[r]
+　ね、お願い、マル子せんぱぁ～い」[pcms]
 ;//＠おねだり口調で
 
 *994|
 [fc]
-In the end, Yuuho shamelessly pleads in a cajoling tone,[r]
-peeking into Maruko- senpai's face.[pcms]
+最後には悠帆が、恥ずかしげもなくおねだり口調で、[r]
+マル子先輩の顔を覗きこむ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *995|
 [fc]
 [vo_mar s="maru1434"]
-[ns]Margarita[nse]
-"...Understood. Replenishing supplies is an important[r]
-strategy. Let's adopt everyone's opinion."[pcms]
+[ns]マルガリータ[nse]
+「……分かった。[r]
+　物資の補給も重要な戦略だからな。[r]
+　みんなの意見を採用しよう」[pcms]
 
 *996|
 [fc]
-Senpai shrugged her shoulders with a somewhat resigned mood.[pcms]
+半ばあきらめムードを漂わせて、先輩が肩をすくめた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *997|
 [fc]
-[ns]Kousuke[nse]
-"Alright! Then let's quickly start exploring inside the[r]
-building..."[pcms]
+[ns]浩助[nse]
+「よっしゃ～！　そんじゃ早速、ビルん中を……」[pcms]
 
 *998|
 [fc]
-As Kousuke was about to run off, Ren suddenly looked up.[pcms]
+走り出そうとしたコースケの脇で[r]
+漣がふっと顔を上げた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *999|
 [fc]
 [vo_ren s="ren1347"]
-[ns]Ren[nse]
-"Huh...?"[pcms]
+[ns]漣[nse]
+「あれ……？」[pcms]
 ;//＠疑問。おびえてはいません
 
 *1000|
 [fc]
-Ren's gaze was directed towards the entrance where the[r]
-elevator was located.[pcms]
+漣の視線はエレベーターのある、[r]
+エントランスの方角に向けられている。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1001|
 [fc]
 [vo_ren s="ren1348"]
-[ns]Ren[nse]
-"Just now... Did you hear something?"[pcms]
+[ns]漣[nse]
+「今……。何か、音がしたよ？」[pcms]
 ;//＠不思議そうに
 
 *1002|
 [fc]
-[ns]Wataru[nse]
-"Eh? Really?"[pcms]
+[ns]航[nse]
+「え？　そう？」[pcms]
 
 *1003|
 [fc]
-I didn't hear anything, but Ren has especially good ears[r]
-because she's involved in music; she can catch much fainter[r]
-sounds than I can.[pcms]
+ボクには何も聞こえなかったけれど……。[r]
+漣の耳は音楽をやってるだけあって特別製で、[r]
+ボクなんかよりもずっと小さな音を捉えてしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1004|
 [fc]
 [vo_mar s="maru1435"]
-[ns]Margarita[nse]
-"I also heard it. It came from over there."[pcms]
+[ns]マルガリータ[nse]
+「ワタシも確認した。あちらから聞こえた」[pcms]
 ;//＠警戒しながら
 
 *1005|
 [fc]
-Maruko-senpai quickly tensed up and sharply pointed her chin[r]
-towards the entrance.[pcms]
+マル子先輩は顔にサッと緊張の色を浮かべながら[r]
+くいっと、顎をエントランスに向けた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1006|
 [fc]
-[ns]Kousuke[nse]
-"Could it be... the master!?"[pcms]
+[ns]浩助[nse]
+「ま……マスターか！？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1007|
 [fc]
 [vo_mar s="maru1436"]
-[ns]Margarita[nse]
-"Wait. It's dangerous for everyone to move together. It's[r]
-better if a small group checks out the situation first."[pcms]
+[ns]マルガリータ[nse]
+「待て。全員で動くのは危険だ。[r]
+　先に少人数で様子と状況を確認した方がいい」[pcms]
 
 *1008|
 [fc]
-[ns]Wataru[nse]
-"Then Kousuke and I will go."[pcms]
+[ns]航[nse]
+「それじゃ、ボクとコースケで行きます」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1009|
 [fc]
-[ns]Kousuke[nse]
-"Yeah... alright."[pcms]
+[ns]浩助[nse]
+「よ……よっしゃ」[pcms]
 
 *1010|
 [fc]
-Kousuke and I nod at each other in agreement.[pcms]
+ボクとコースケは、顔を見合わせてうなずく。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1011|
 [fc]
 [vo_mar s="maru1437"]
-[ns]Margarita[nse]
-"I'll stay here on standby. I'll ensure the safety of the[r]
-scene."[pcms]
+[ns]マルガリータ[nse]
+「ワタシは、ここに待機だな。現場の安全維持に務める」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1012|
 [fc]
 [vo_ren s="ren1349"]
-[ns]Ren[nse]
-"Be careful, big brother..."[pcms]
+[ns]漣[nse]
+「気をつけてね、お兄ちゃん……」[pcms]
 
 *1013|
 [fc]
-Leaving the girls in the dome, we head towards the entrance.[pcms]
+女の子たちをドームに残して、[r]
+ボクたちはエントランスへと向かっていった。[pcms]
 
 ;//〆エレベーターエントランス（各フロア共通？専用？カットイン）
 ;//@konya LESAR エレベータ
@@ -324,91 +324,93 @@ Leaving the girls in the dome, we head towards the entrance.[pcms]
 
 *1014|
 [fc]
-We had entered the shop through the emergency staircase, but[r]
-this entrance is actually the official way into the DJ bar.[pcms]
+ボクたちは非常階段から店に入り込んでしまったけど、[r]
+ＤＪバーに来るには、もともとこっちが正式な入り口だ。[pcms]
 
 *1015|
 [fc]
-As we approach the entrance area, we can see the cash[r]
-register and reception counter of the shop.[pcms]
+エントランス付近に近付くと、[r]
+店のレジや受付カウンターが見えてくる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1016|
 [fc]
-[ns]Kousuke[nse]
-"...Tch."[pcms]
+[ns]浩助[nse]
+「……ちっ」[pcms]
 
 *1017|
 [fc]
-Kousuke frowned as he caught a faint bad smell.[pcms]
+かすかな異臭を捉えて、コースケが顔をしかめた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1018|
 [fc]
-[ns]Kousuke[nse]
-"I've got a bad feeling about this."[pcms]
+[ns]浩助[nse]
+「なーんか悪い予感がするな」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1018a|
 [fc]
-[ns]Wataru[nse]
-"Yeah... It's over there. Let's slowly make our way[r]
-around..."[pcms]
+[ns]航[nse]
+「うん……。あっちだ。[r]
+　ゆっくり回り込んで行こう……」[pcms]
 
 *1019|
 [fc]
-From the other side of the counter, a blind spot from our[r]
-view, it seemed that the smell was emanating.[pcms]
+カウンターの向こう側、ボクたちから見ると死角になる場所から[r]
+その臭いは発生しているようだった。[pcms]
 
 [se buf=0 storage="se058"]
 
 *1020|
 [fc]
-As we slowly advanced, faint sounds became audible...[pcms]
+ゆっくりと歩みを進めていくうちに、[r]
+微かな音も、聞こえてくる……。[pcms]
 
 *1021|
 [fc]
-Bori, bori... crunch... crunch crunch...[pcms]
+ぼり、ぼりっ……、くちゃっ……くちゃくちゃ……。[pcms]
 
 *1022|
 [fc]
-The sound, which left an unpleasant echo in our brains, was[r]
-very similar to that of an animal chewing on food...[pcms]
+脳髄にイヤな残響を与える、その音は……、[r]
+動物がエサを咀嚼する音によく似ている……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1023|
 [fc]
-[ns]Kousuke[nse]
-"...Let's go."[pcms]
+[ns]浩助[nse]
+「…………行くぞ」[pcms]
 
 *1024|
 [fc]
-[ns]Wataru[nse]
-"Be careful."[pcms]
+[ns]航[nse]
+「注意して」[pcms]
 
 *1025|
 [fc]
-Peeking out from the side of the counter, we...[pcms]
+カウンターの脇から、そろそろと顔を出したボクたちは……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1026|
 [fc]
-[ns]Wataru & Kousuke[nse]
-"...!!!"[pcms]
+[ns]航＆浩介[nse]
+「………………っ！！！」[pcms]
 
 *1027|
 [fc]
-We both gasped and were left speechless.[pcms]
+二人して息を呑んだまま絶句した。[pcms]
 
 *1028|
 [fc]
-A darkened sea of blood... The DJ bar's master lying there[r]
-with eyes wide open. And then...[pcms]
+黒ずんだ、一面の血の海……。[r]
+目を見開いたまま倒れている、ＤＪバーのマスター。[r]
+そして……。[pcms]
 
 ;//BGM03:rage
 [bgm storage="BGM03"]
@@ -418,174 +420,178 @@ with eyes wide open. And then...[pcms]
 *1029|
 [fc]
 [vo_mob s="okusan0006"]
-[ns]Infected - Female[nse]
-"Grrrrr...ruu...h!"[pcms]
+[ns]感染者・女[nse]
+「ぐるるる……るぅ……っ！」[pcms]
 ;//★表記を「女感染者」→「ＤＪバーのママ」と途中で変更したいのですが
 
 *1030|
 [fc]
-Straddling the master, there was a woman's back as she bit[r]
-into the flesh of his neck.[pcms]
+そのマスターに馬乗りになって、[r]
+首の肉にかぶりついている、女の後ろ姿があった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1031|
 [fc]
-[ns]Kousuke[nse]
-"Ugh..."[pcms]
+[ns]浩助[nse]
+「うっ……」[pcms]
 
 *1032|
 [fc]
-[ns]Wataru[nse]
-"Ma... Master...!"[pcms]
+[ns]航[nse]
+「ま……マスター……っ」[pcms]
 
 *1033|
 [fc]
-The woman turned around with a jerky motion upon sensing us.[pcms]
+ボクたちの気配に、ぎこちない動きで女が振り返る。[pcms]
 
 [ChrSetEx layer=5 chbase="mama_b"][ChrSetXY layer=5 x=196 y=0][trans_c cross time=150]
 
 *1034|
 [fc]
 [vo_mob s="okusan0007"]
-[ns]Infected - Female[nse]
-"Ugaaauuu! Don't... interfereee!"[pcms]
+[ns]感染者・女[nse]
+「うがあぅぅぅっ！　じゃ、じゃま……するなあぁっ！」[pcms]
 
 *1035|
 [fc]
-Those glaring red eyes... Her skin crumbling away...[pcms]
+ボクたちを睨みつける真っ赤な目……。[r]
+ボロボロに崩れかけた肌……。[pcms]
 
 *1036|
 [fc]
-She was clearly an infected person.[pcms]
+明らかに感染者だ。[pcms]
 
 [ChrSetEx layer=5 chbase="mama_b"][ChrSetXY layer=5 x=196 y=0][trans_c cross time=150]
 
 *1037|
 [fc]
 [vo_mob s="okusan0008"]
-[ns]Infected - Female[nse]
-"...uuuh...?"[pcms]
+[ns]感染者・女[nse]
+「……ううぅ……？」[pcms]
 
 *1038|
 [fc]
-But her face was that of someone we knew well...[pcms]
+だけど、その顔立ちは、ボクらのよく知る人のもので……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1039|
 [fc]
-[ns]Kousuke[nse]
-"Oh... Ma'am... You got infected...?"[pcms]
+[ns]浩助[nse]
+「お……奥さん……。[r]
+　感染しちまったのかよ……」[pcms]
 
 *1040|
 [fc]
-Shivering with horror, Kousuke muttered.[pcms]
+戦慄に身を震わせて、コースケが呟く。[pcms]
 
 [ChrSetEx layer=5 chbase="mama_b"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 
 *1041|
 [fc]
 [vo_mob s="okusan0009"]
-[ns]Infected Wife[nse]
-"...ni, ku...?"[pcms]
+[ns]感染した奥さん[nse]
+「……に、く……？」[pcms]
 
 *1042|
 [fc]
-The DJ bar's mama slowly stood up and started approaching[r]
-us.[pcms]
+ＤＪバーのママはゆっくりと立ち上がり、[r]
+ボクらの方に近づいて来た。[pcms]
 
 *1043|
 [fc]
-[ns]Wataru[nse]
-"...What should we do!?"[pcms]
+[ns]航[nse]
+「……ど、どうしよう！？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1044|
 [fc]
-[ns]Kousuke[nse]
-"Wha-what do you mean what should we do, there's nothing[r]
-to...!"[pcms]
+[ns]浩助[nse]
+「どどどど、どうするって、[r]
+　どうもこうも……っ！」[pcms]
 
 *1045|
 [fc]
-Mama was inching closer to us as we panicked.[pcms]
+焦るボクたちにママがじりじりと迫ってくる。[pcms]
 
 *1046|
 [fc]
-Right, in case of emergency... the gun...![pcms]
+そ、そうだ。いざっていう時は……銃を……！[pcms]
 
 *1047|
 [fc]
-Fumbling with trembling hands under my shirt.[pcms]
+震える手でシャツの裾を手探りする。[pcms]
 
 *1048|
 [fc]
-The lump of metal hooked onto my pants... Grip it, pull the[r]
-trigger...[pcms]
+ズボンに引っかけた、鉄の塊……。[r]
+これを、握って、引き金を……。[pcms]
 
 *1049|
 [fc]
-What? It won't move!? Safety mechanism? How do I disengage[r]
-it... Oh right, first of all, the bullets...!?[pcms]
+あ、あれ？　う、動かない！？[r]
+安全装置？　ど、どうやって外せば……？[r]
+あ、そういや、そもそも弾が……！？[pcms]
 
 [ChrSetEx layer=5 chbase="mama_b"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 
 *1050|
 [fc]
 [vo_mob s="okusan0010"]
-[ns]Infected Wife[nse]
-"New... delicacy! Young man! The flesh of a young, mannnnn!"[pcms]
+[ns]感染した奥さん[nse]
+「新しい……ごちそう！　若い男！[r]
+　若い、男の、肉うううぅぅぅぅっ！！」[pcms]
 
 *1051|
 [fc]
-Mama, now close enough to breathe on us, reached out with[r]
-her arms wide to grab us.[pcms]
+息がかかりそうなくらいに肉迫したママが[r]
+大きく手を広げて掴みかかってきた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1052|
 [fc]
-[ns]Kousuke[nse]
-"Damn it, stay backkk!!"[pcms]
+[ns]浩助[nse]
+「くっ、来るなああっ！！！」[pcms]
 
 *1053|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaahhh!!!"[pcms]
+[ns]航[nse]
+「うわああぁっ！！！！」[pcms]
 
 *1054|
 [fc]
-About to reflexively shield my head, I spotted Maruko-senpai[r]
-in the corner of my vision and looked up.[pcms]
+反射的に頭を抱え込もうとしたボクは[r]
+視界の隅に、マル子先輩を見つけて顔を上げる。[pcms]
 
 *1055|
 [fc]
-[ns]Wataru[nse]
-"Senpai!"[pcms]
+[ns]航[nse]
+「先輩っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1056|
 [fc]
 [vo_mar s="maru1438"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 ;//＠覚悟をきめている
 
 *1057|
 [fc]
-Senpai stood silently behind Mama, slowly raising her arm[r]
-horizontally.[pcms]
+ママの背後に、無言で立つ先輩は、[r]
+ゆっくりと腕を水平に持ち上げた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1058|
 [fc]
 [vo_mar s="maru1439"]
-[ns]Margarita[nse]
-"Vaya Con Dios..."[pcms]
+[ns]マルガリータ[nse]
+「Vaya Con Dios……」[pcms]
 ;//＠「ヴァイア・コン・ディオス」。神と共に。良い旅を。というような意味。
 ;//★表記はカタカナのほうがよろしければ、調整お願いします
 
@@ -596,20 +602,20 @@ horizontally.[pcms]
 
 *1059|
 [fc]
-A sharp sound echoed as she whispered softly.[pcms]
+小声の呟きと同時に鋭い音が響く。[pcms]
 
 [ChrSetEx layer=5 chbase="mama_b"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 
 *1060|
 [fc]
 [vo_mob s="okusan0011"]
-[ns]Infected Wife[nse]
-"Guu...h!!"[pcms]
+[ns]感染した奥さん[nse]
+「ぐぅ……っ！！」[pcms]
 
 *1061|
 [fc]
-A small hole appeared between Mama's eyebrows and the next[r]
-moment, she collapsed at our feet with a thud.[pcms]
+ママの眉間に小さな穴がポツンと開き、[r]
+次の瞬間、ボクたちの足元にどうっと倒れこんでくる。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -618,153 +624,155 @@ moment, she collapsed at our feet with a thud.[pcms]
 
 *1062|
 [fc]
-[ns]Wataru[nse]
-"Wha..."[pcms]
+[ns]航[nse]
+「な……」[pcms]
 
 ;//bgm06・insomnia
 [bgm storage="BGM06"]
 
 *1063|
 [fc]
-Was that... Did Senpai just...? Did she shoot Mama...?[pcms]
+今のは……、今のは、先輩が……？[r]
+ママを撃った……、のか……？[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1064|
 [fc]
-[ns]Kousuke[nse]
-"Wha-what... did you do...? Mama is..."[pcms]
+[ns]浩助[nse]
+「な、なに……すんだよ……？　ママが……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a27"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1065|
 [fc]
 [vo_mar s="maru1441"]
-[ns]Margarita[nse]
-"I simply took over your role."[pcms]
+[ns]マルガリータ[nse]
+「キミらの役目を代行したまでだ」[pcms]
 
 *1066|
 [fc]
-After stating it firmly, Senpai's face clouded over just a[r]
-bit.[pcms]
+きっぱりと言い切った後、[r]
+先輩はほんの少しだけ顔を曇らせる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a24"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1067|
 [fc]
 [vo_mar s="maru1442"]
-[ns]Margarita[nse]
-"Besides... That person is no longer the human you knew..."[pcms]
+[ns]マルガリータ[nse]
+「それに……[r]
+　その人はもう、キミらの知っていた人間ではない……」[pcms]
 
 *1068|
 [fc]
-[ns]Wataru[nse]
-"But still...!"[pcms]
+[ns]航[nse]
+「だ、だけど……っ！」[pcms]
 
 *1069|
 [fc]
 [vo_yuh s="yuho1509"]
-[ns]Yuuho[nse]
-"Hey? Was that a gunshot just now? Is everything okay!?"[pcms]
+[ns]悠帆[nse]
+「ねぇー？　今のって、銃声？　大丈夫なの！？」[pcms]
 ;//＠遠くから大声
 
 *1070|
 [fc]
-From the direction of the dome, Yuuho's worried voice could[r]
-be heard.[pcms]
+ドームの方から、悠帆の心配そうな声が響いてきた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1071|
 [fc]
 [vo_mar s="maru1443"]
-[ns]Margarita[nse]
-"It's been dealt with! No need to worry!"[pcms]
+[ns]マルガリータ[nse]
+「解決した！　心配無用だ！」[pcms]
 ;//＠遠くへ声を張る
 
 *1072|
 [fc]
-After replying, Senpai turned back to us and lowered her[r]
-voice.[pcms]
+返事をした先輩は、[r]
+ボクたちに向き直って声を落とす。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1073|
 [fc]
 [vo_mar s="maru1444"]
-[ns]Margarita[nse]
-"Be careful not to touch the blood. We'll carry the body[r]
-ourselves."[pcms]
+[ns]マルガリータ[nse]
+「血液に触れないよう、注意しろ。[r]
+　死体はワタシたちだけで運ぼう」[pcms]
 ;//＠声を通常に落として
 
 *1074|
 [fc]
-[ns]Wataru[nse]
-"...The... body..."[pcms]
+[ns]航[nse]
+「……し……死体……って」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1075|
 [fc]
-[ns]Kousuke[nse]
-"...Ugh..."[pcms]
+[ns]浩助[nse]
+「……うぅ……」[pcms]
 
 *1076|
 [fc]
-Indeed, as Senpai said, it's a body... But this is Master[r]
-and Mama. They're not just any bodies...[pcms]
+確かに先輩の言うとおり、死体、なんだけど……。[r]
+だけどこれは、マスターとママだ。[r]
+決してただの死体じゃない……。[pcms]
 
 *1077|
 [fc]
-But still...[pcms]
+だけど……。[pcms]
 
 *1078|
 [fc]
-Kousuke and I were at a loss for words, only able to stare[r]
-at the remains of who were once the well-known Master and[r]
-Mama.[pcms]
+ボクとコースケは言葉を失って、[r]
+かつてはよく知っていたマスターとママだった亡骸を[r]
+じっと凝視するしかできなかった。[pcms]
 
 *1079|
 [fc]
 [vo_yuh s="yuho1510"]
-[ns]Yuuho[nse]
-"Ah...!!?"[pcms]
+[ns]悠帆[nse]
+「あっ……！！？」[pcms]
 ;//＠遠くから
 
 *1080|
 [fc]
 [vo_ren s="ren1350"]
-[ns]Ren[nse]
-"No... don't come hereee!!"[pcms]
+[ns]漣[nse]
+「いっ……いやっ、来ないでぇぇっ！！」[pcms]
 ;//＠遠くから
 
 *1081|
 [fc]
-The silence was broken by a scream from the dome.[pcms]
+ボクたちの沈黙を破ったのは、ドームからの悲鳴だった。[pcms]
 
 *1082|
 [fc]
-[ns]Wataru[nse]
-"What was that just now!?"[pcms]
+[ns]航[nse]
+「今のは！？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1083|
 [fc]
 [vo_mar s="maru1445"]
-[ns]Margarita[nse]
-"I can't believe this! Retreat!"[pcms]
+[ns]マルガリータ[nse]
+「ワタシとしたことが！　戻れ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1084|
 [fc]
-[ns]Kousuke[nse]
-"Ren-chan! Yuuho!"[pcms]
+[ns]浩助[nse]
+「漣ちゃん！　悠帆っ！」[pcms]
 
 *1085|
 [fc]
-We started running as if we were shot out of a cannon.[pcms]
+ボクらは弾かれたように駆け出していく。[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]

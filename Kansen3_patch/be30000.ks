@@ -19,296 +19,300 @@
 
 *1605|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hehe... Now, the last one makes her appearance... With[r]
-this, everyone's here."[pcms]
+[ns]重吉[nse]
+「へへ……さぁ、最後の一人のお出ましだな……。[r]
+　これで全員、勢ぞろいだ」[pcms]
 
 *1606|
 [fc]
-[ns]Wataru[nse]
-"Damn it... let go of me!"[pcms]
+[ns]航[nse]
+「くそっ……離せよ！」[pcms]
 
 *1607|
 [fc]
-Pushed in the back by a male student, I'm dragged towards[r]
-the bar's dome.[pcms]
+男子生徒に背中を小突かれ、バーのドームへと引き出される。[pcms]
 
 *1608|
 [fc]
-Waiting there were... did everyone fail to escape? Yuuho,[r]
-Ren... Marie... I wanted them all to escape...[pcms]
+そこで待っていたのは……みんな、逃げそびれたのか。[r]
+悠帆、漣……マリー……。[r]
+みんな、逃げて欲しかったけど……。[pcms]
 
 *1609|
 [fc]
-[ns]Wataru[nse]
-"With this many opponents..."[pcms]
+[ns]航[nse]
+「この人数相手じゃ……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1610|
 [fc]
-[ns]Shigeyoshi[nse]
-"Huh? What are you muttering about?"[pcms]
+[ns]重吉[nse]
+「あぁん？　なにブツブツ言ってやがんだぁ？」[pcms]
 
 *1611|
 [fc]
-Shigeyoshi looks at me with a smug grin, clearly pleased[r]
-with himself.[pcms]
+ニヤニヤと勝ち誇った笑みを浮かべながら、[r]
+ボクを見据えてくる重吉。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1612|
 [fc]
-Beyond him, a group of about 30 to 40 men, filled with[r]
-curiosity and desire, stare at us.[pcms]
+それ以外にも、好奇の視線に欲望を交えながら見つめてくる、[r]
+３０～４０人ほどの男達の集団が、ヤツの背後に控えている。[pcms]
 
 *1613|
 [fc]
-There are guys like Shigeyoshi, some dressed like salarymen,[r]
-and even male students in school uniforms.[pcms]
+重吉と同類のような連中もいれば、サラリーマン風のヤツも、[r]
+そして、学園の制服を着た男子生徒もいる。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1614|
 [fc]
-[ns]Shigeyoshi[nse]
-"Huh? What happened to the rest!? Where are the brat and[r]
-Mizuki!?"[pcms]
+[ns]重吉[nse]
+「ん？　残りはどうしたんだ！？[r]
+　バカガキと瑞樹は！？」[pcms]
 
 *1615|
 [fc]
-That's right! Where are Kousuke and Mizuki!? They don't seem[r]
-to be here...[pcms]
+そうだ！　コースケと瑞樹は！？[r]
+いないみたいだけど……。[pcms]
 
 *1616|
 [fc]
-[ns]Thug A[nse]
-"Well, the thing is... they got away."[pcms]
+[ns]チンピラＡ[nse]
+「いや、それが……逃げられちまいまして」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1617|
 [fc]
-[ns]Shigeyoshi[nse]
-"They got away? You useless fools! (ChrSetEx layer=5[r]
-chbase="shige_b3")(ChrSetXY layer=5 x=161 y=0)(trans_c cross[r]
-time=150)...well, whatever. Having three girls is more than[r]
-enough."[pcms]
+[ns]重吉[nse]
+「逃げられたぁ？　この役立たずどもがっ！[r]
+　[ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]……いや、まぁいいか。[r] p=
+　女が３人も手に入りゃ上等だ」[pcms]
 
 *1618|
 [fc]
-Shigeyoshi leers at Marie and the others. As usual, he[r]
-thinks with nothing but his lower half.[pcms]
+好色な視線を、マリー達へと向ける重吉。[r]
+相変わらず、下半身でしか物を考えていないのか、コイツは。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1619|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey, line up that brat quickly!"[pcms]
+[ns]重吉[nse]
+「おらっ、さっさとそのガキを並べろ！」[pcms]
 
 *1620|
 [fc]
-[ns]Wataru[nse]
-"Ouch! You don't have to push; I can walk there myself!"[pcms]
+[ns]航[nse]
+「痛っ！[r]
+　そんなに押さなくても自分で行くよ！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1621|
 [fc]
-I shake off the hand of the male student grabbing my arm and[r]
-walk on my own towards where Marie and the others are.[pcms]
+腕を掴む男子生徒の手を振り払い、[r]
+自らの足でマリー達の元へと向かう。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1622|
 [fc]
 [vo_yuh s="yuho1203"]
-[ns]Yuuho[nse]
-"Wataru..."[pcms]
+[ns]悠帆[nse]
+「航……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1623|
 [fc]
 [vo_ren s="ren1114"]
-[ns]Ren[nse]
-"Big brother...!"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1624|
 [fc]
-[ns]Wataru[nse]
-"Are you all okay?"[pcms]
+[ns]航[nse]
+「大丈夫か？　みんな……」[pcms]
 
 *1625|
 [fc]
-At least, they don't seem to be injured...[pcms]
+取り敢えず、怪我をしているような様子はないけれど……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a15"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1626|
 [fc]
 [vo_mar s="maru1039"]
-[ns]Margarita[nse]
-"I'm sorry... I wanted to help everyone escape... It's my[r]
-fault for not being strong enough."[pcms]
+[ns]マルガリータ[nse]
+「済まない……ミンナを逃がしてあげたかったのだが……。[r]
+　ワタシの力不足のせいで」[pcms]
 
 *1627|
 [fc]
-[ns]Wataru[nse]
-"Marie... It's my fault too, for being powerless and weak...[r]
-I'm sorry..."[pcms]
+[ns]航[nse]
+「マリー……ボクの方こそ、非力で、無力で……。[r]
+　ごめん……」[pcms]
 
 *1628|
 [fc]
-I tightly grasp Marie's outstretched hand, feeling its[r]
-warmth and softness.[pcms]
+差し出されるマリーの手をギュッと握り、[r]
+その熱と柔らかさを確認する。[pcms]
 
 *1629|
 [fc]
-Marie is here... That fact made me both happy and sad. I[r]
-wished she had escaped...[pcms]
+マリーがいる……。[r]
+その事実は、嬉しくもあり、そして……悲しくもあった。[r]
+逃げていてほしかったんだけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1630|
 [fc]
-[ns]Shigeyoshi[nse]
-"Well then... now that everyone's here, shall we begin?[r]
-...But first, we need to finish the final preparations. The[r]
-grand finale of my rise to power."[pcms]
+[ns]重吉[nse]
+「さぁて……みんな揃ったところで始めるか？[r]
+　……っとぉ、その前に、最後の仕上げをしなくちゃなぁ。[r]
+　俺様の天下取りの総仕上げをよぉ」[pcms]
 
 *1631|
 [fc]
-Shigeyoshi's voice, laden with an ominous tone, echoes lowly[r]
-around the dome.[pcms]
+イヤな響きをまとった重吉の声が、低くドーム内を巡っていく。[pcms]
 
 *1632|
 [fc]
-Bloodshot eyes with dubious focus. Those eyes slowly caress[r]
-us before stopping abruptly on Jin's face.[pcms]
+血走った、焦点すら怪しいような目。[r]
+その目は、ボク達をゆっくりと撫でていき、[r]
+壬さんの顔の上でピタリと止まった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1633|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey, big bro... I've climbed up, see? Not by using my head[r]
-like you, but by a much simpler and clearer method."[pcms]
+[ns]重吉[nse]
+「なぁ、アニキよぉ……俺、のし上がったぜ？[r]
+　アンタみてぇに頭使ってってのじゃなくてよぉ、[r]
+　もっとシンプルで分かりやすい方法でなぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1634|
 [fc]
-[ns]Jin[nse]
-"Ah, so it seems... It's quite like you to say that."[pcms]
+[ns]壬[nse]
+「ああ、そうらしいな……お前らしいと言えばらしいな」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1635|
 [fc]
-[ns]Shigeyoshi[nse]
-"Right? That's why I have to stay true to myself until the[r]
-end, big bro... no, Jin Mitsuki!"[pcms]
+[ns]重吉[nse]
+「だろう？　だからよぉ……その俺様らしさを最後までしなきゃ[r]
+　いけねぇよなぁ、アニキ……いや、眞月　壬よぉ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1636|
 [fc]
 [vo_ren s="ren1115"]
-[ns]Ren[nse]
-"Kyaa!?"[pcms]
+[ns]漣[nse]
+「きゃっ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1637|
 [fc]
 [vo_yuh s="yuho1204"]
-[ns]Yuuho[nse]
-"Hik...!"[pcms]
+[ns]悠帆[nse]
+「ひっ……！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1638|
 [fc]
-Ren and Yuuho scream and tense up at Shigeyoshi's mad shout.[pcms]
+重吉の狂気に満ちた叫びに、[r]
+漣も悠帆も悲鳴を上げて身体を竦める。[pcms]
 
 *1639|
 [fc]
-It might be better to just close our eyes and cover our[r]
-ears. Surely something terrible is about to happen.[pcms]
+そのまま、目を閉じて耳を塞いでいた方がいいだろう。[r]
+きっと、酷いことになるだろうから。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1640|
 [fc]
-[ns]Shigeyoshi[nse]
-"We're in the business of violence. That's why we eliminate[r]
-nuisances like this... Right, Jin?"[pcms]
+[ns]重吉[nse]
+「俺達は暴力が商売だ。だから、邪魔モンはこうやって消す……[r]
+　そうだよなぁ、壬よぉ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1641|
 [fc]
-[ns]Jin[nse]
-"And this is what you do on top of that? Seems like[r]
-something even a 'human' wouldn't need to do. Even infected[r]
-fools with broken brains could do it."[pcms]
+[ns]壬[nse]
+「その上で、やることがこれか？[r]
+　『人間』様じゃなくてもできそうなもんだがなぁ。[r]
+　脳味噌のぶっ壊れた、感染者共でもよ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1642|
 [fc]
-[ns]Shigeyoshi[nse]
-"Shut up! A loser who can't even do that should just keep[r]
-his mouth shut!!"[pcms]
+[ns]重吉[nse]
+「うるせぇ！[r]
+　そんなこともできねぇヘタレは黙ってな！！」[pcms]
 
 *1643|
 [fc]
-Jin's voice is calm and collected in contrast to[r]
-Shigeyoshi's trembling voice. Jin, why do you keep provoking[r]
-him like this...?[pcms]
+細かく震える重吉の声と、対照的に落ち着き払った壬さんの声。[r]
+壬さん、どうしてそんな挑発するようなことばかり……？[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1644|
 [fc]
-[ns]Shigeyoshi[nse]
-"I was really grateful to you, you know? For picking up a[r]
-useless idiot like me and giving me a chance. But that's all[r]
-over now... I'm the top dog!"[pcms]
+[ns]重吉[nse]
+「アンタにゃホントに感謝してたんだぜ？[r]
+　バカで使い物にもなりゃしねぇ俺を拾って使ってくれてよぉ。[r]
+　だが、それももう終わりだ……俺様がトップだ！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1645|
 [fc]
-[ns]Jin[nse]
-"Yeah, do as you like. Whoever wants to be king should just[r]
-go ahead and be it."[pcms]
+[ns]壬[nse]
+「そうだな……好きにしろ。[r]
+　王様なんてもんはやりたいヤツがやればいい」[pcms]
 
 *1646|
 [fc]
-The man seems resigned, accepting everything as if he has[r]
-made up his mind about the outcome he knows is coming--[pcms]
+投げやり……と言うよりも、淡々と、全てを受け入れて[r]
+腹を決めた男の姿……というところだろうか。[r]
+その結末がどうなるのか、分かっている上で――[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1647|
 [fc]
-[ns]Jin[nse]
-"What's wrong? Can't do it when it comes down to it? Are you[r]
-a wimp who can't do anything unless told by me until the[r]
-very end? Go on, try it."[pcms]
+[ns]壬[nse]
+「どうした？　いざとなったらできないか？[r]
+　最後まで俺に言われなきゃ何もできない愚図か、お前は。[r]
+　早くやってみろよ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1648|
 [fc]
-[ns]Shigeyoshi[nse]
-"You bastard! Stop acting like my big brother! I'm the[r]
-top... I'm number one! I can do whatever I want!!"[pcms]
+[ns]重吉[nse]
+「てめぇ！　いつまでもアニキヅラしてんじゃねぇ！[r]
+　俺がトップだ……俺が一番なんだよ！[r]
+　俺様は好き勝手していいんだよぉ！！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -323,143 +327,143 @@ top... I'm number one! I can do whatever I want!!"[pcms]
 *1649|
 [fc]
 [vo_mar s="maru1040"]
-[ns]Margarita[nse]
-"Guh...!!"[pcms]
+[ns]マルガリータ[nse]
+「くっ……！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1650|
 [fc]
 [vo_ren s="ren1116"]
-[ns]Ren[nse]
-"Eh?"[pcms]
+[ns]漣[nse]
+「え？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1651|
 [fc]
 [vo_yuh s="yuho1205"]
-[ns]Yuuho[nse]
-"Wha...!?"[pcms]
+[ns]悠帆[nse]
+「な……！？」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1652|
 [fc]
-A loud noise rings out. Red liquid splatters. And Jin's body[r]
-slowly collapses.[pcms]
+響いた大きな音。[r]
+飛び散った赤い液体。[r]
+そして、ゆっくりと崩れていく壬さんの身体。[pcms]
 
 *1653|
 [fc]
-Ren and Yuuho seem unable to comprehend what just happened[r]
-before their eyes, standing there dazed. Naturally, I am[r]
-too...[pcms]
+漣も悠帆も、目の前で起きたことが理解できていないようで、[r]
+茫然としてしまっている。[r]
+当然、ボクも……。[pcms]
 
 *1654|
 [fc]
-To think he would go this far... Even though we're all[r]
-human... unlike those infected...![pcms]
+まさか……ここまでするのか……？[r]
+同じ人間なのに……感染者達とは違うのに……！[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1655|
 [fc]
 [vo_ren s="ren1117"]
-[ns]Ren[nse]
-"Noooooo!!!"[pcms]
+[ns]漣[nse]
+「いやぁぁああああぁぁぁぁぁぁぁっっ！！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1656|
 [fc]
 [vo_yuh s="yuho1206"]
-[ns]Yuuho[nse]
-"Kyaaaaaaa!!!"[pcms]
+[ns]悠帆[nse]
+「きゃぁぁぁぁぁぁぁぁぁぁぁぁぁっっ！！！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1657|
 [fc]
 [vo_mar s="maru1041"]
-[ns]Margarita[nse]
-"What a guy...!!"[pcms]
+[ns]マルガリータ[nse]
+「なんてヤツだ……っ！！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1658|
 [fc]
-The screams echoed throughout the main dome.[pcms]
+絶叫が、メインドームいっぱいに響き渡った。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1659|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hah, hah... I killed him... I did it...! Now I'm the top...[r]
-I'm the king!!!"[pcms]
+[ns]重吉[nse]
+「はぁ、はぁ……殺った……殺ってやったぜ……！[r]
+　これで俺様がトップだ……俺が王様なんだよぉぉぉぉっ！！」[pcms]
 
 ;//se073・歓声
 [se buf=0 storage="se073"]
 
 *1660|
 [fc]
-Shigeyoshi's declaration was met with cheers from his[r]
-underlings as they surged forward, their eyes glinting with[r]
-lust, almost like the infected--[pcms]
+重吉の宣言に、歓声を上げて押し寄せてくる手下達。[r]
+劣情にギラギラと瞳を光らせ、まるで感染者達のように――[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1661|
 [fc]
 [vo_yuh s="yuho1207"]
-[ns]Yuuho[nse]
-"No! Don't come any closer!!"[pcms]
+[ns]悠帆[nse]
+「いやっ！　来ないでぇっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1662|
 [fc]
 [vo_ren s="ren1118"]
-[ns]Ren[nse]
-"No... Noooo!!"[pcms]
+[ns]漣[nse]
+「やだっ……いやぁぁっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1663|
 [fc]
 [vo_mar s="maru1042"]
-[ns]Margarita[nse]
-"Ugh... Stay back!!"[pcms]
+[ns]マルガリータ[nse]
+「くっ……寄るなっ！！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1664|
 [fc]
-Standing in front of Marie and the others to shield them,[r]
-glaring at the underlings as they pressed in.[pcms]
+押し寄せてくる手下達から庇うように、[r]
+マリー達の前に立って手下達を睨み付ける。[pcms]
 
 *1665|
 [fc]
-[ns]Wataru[nse]
-"Stop it! Don't touch anyone!!"[pcms]
+[ns]航[nse]
+「止めろっ！　みんなに触るな！！」[pcms]
 
 *1666|
 [fc]
-Yuuho, Ren... Marie...! I'll protect them... I'll protect[r]
-everyone...![pcms]
+悠帆、漣……マリー……！[r]
+ボクが守る……ボクが、みんなを……！[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1667|
 [fc]
-[ns]Shigeyoshi[nse]
-"Oops, there's another one. We don't need men, they're just[r]
-in the way."[pcms]
+[ns]重吉[nse]
+「おっと、もう一人いたか。[r]
+　男はいらねぇ、邪魔なだけだ」[pcms]
 
 *1668|
 [fc]
-[ns]Wataru[nse]
-"Eh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -475,53 +479,57 @@ in the way."[pcms]
 *1669|
 [fc]
 [vo_yuh s="yuho1208"]
-[ns]Yuuho[nse]
-"No... Nooooo!! Wataru!? Wataruuuuu!!!"[pcms]
+[ns]悠帆[nse]
+「いや……いやぁぁぁぁぁぁっ！！[r]
+　航！？　わたるぅぅぅぅぅっっ！！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1670|
 [fc]
 [vo_ren s="ren1119"]
-[ns]Ren[nse]
-"Big brother!? No... Big brother! Big brother!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃん！？[r]
+　やだっ……お兄ちゃん！　お兄ちゃん！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1671|
 [fc]
 [vo_mar s="maru1043"]
-[ns]Margarita[nse]
-"Wataru!! Hold on Wataru!! Open your eyes! Wataru----!!!"[pcms]
+[ns]マルガリータ[nse]
+「ワタルっ！！　しっかりしろワタル！！[r]
+　目を開けろっ！　ワタルーーーーっっ！！！」[pcms]
 
 *1672|
 [fc]
-The screams grow distant... As the heat in my chest burns,[r]
-strength flows out along with the pain...[pcms]
+悲鳴が遠くなっていく……。[r]
+熱く焼けた胸から、痛みと共に力が流れ出ていく……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1673|
 [fc]
 [vo_mar s="maru1044"]
-[ns]Margarita[nse]
-"Wataru! No, Wataru...! Your eyes... Wata..."[pcms]
+[ns]マルガリータ[nse]
+「ワタルっ！　ダメだワタル……っ！[r]
+　目をっ……ワタ……」[pcms]
 
 *1674|
 [fc]
-I have to stand up... I have to get up and protect[r]
-everyone... Marie...[pcms]
+立ち上がらなくちゃ……立ち上がって、みんなを……[r]
+マリーを……。[pcms]
 
 ;//se073・歓声
 [se buf=0 storage="se073"]
 
 *1675|
 [fc]
-Yuuho... Ren... Ma...rie...[pcms]
+悠帆……漣……マ……リ……[pcms]
 
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

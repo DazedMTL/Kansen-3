@@ -18,166 +18,164 @@
 
 *3521|
 [fc]
-"What should I do... What's the right thing to do?"[pcms]
+ど、どうしよう……どうしたらいいんだ？[pcms]
 
 *3522|
 [fc]
-"At least until the day before yesterday, Yoshino-san was[r]
-sane. So why? Why did things suddenly come to this?"[pcms]
+少なくても一昨日までは吉野さんはマトモだったはずだ。[r]
+それなのになんで？　なんで急にこんなことに？[pcms]
 
 [se buf=0 storage="se018"]
 
 *3523|
 [fc]
-"A reality I don't want to admit."[pcms]
+認めたくない現実。[pcms]
 
 *3524|
 [fc]
-"But faced with a situation I can't deny, even my body can't[r]
-keep up."[pcms]
+だけども、認めざるをえない状態を目の前にして、[r]
+体の機能まで追いつかない。[pcms]
 
 ;//SE・エンジン音
 
 *3525|
 [fc]
-"By the time I noticed that sound, it was already too late."[pcms]
+その音に気がついたときは、もう手遅れだった。[pcms]
 
 [赤フラ]
 ;mm 空にして揺らしたいけどやめておくか
 
 *3526|
 [fc]
-"I can't feel pain or anything at all."[pcms]
+痛いともなんともわからない。[pcms]
 
 *3527|
 [fc]
-"Only the impact sent my body flying through the air."[pcms]
+ただ衝撃だけがボクの体を宙に飛ばした。[pcms]
 
 *3528|
 [fc]
-"I realized it was a car that had plowed into us when I saw[r]
-Yoshino-san, contorted like a doll, twisting strangely in[r]
-the air."[pcms]
+それがボクらに突っ込んできた自動車だと気が付いたのは、[r]
+人形のように体をヘンな風によじって、空を飛んでいる[r]
+吉野さんを見てからだった。[pcms]
 
 *3529|
 [fc]
-"Probably, from Yoshino-san's perspective, I must be flying[r]
-in a similar way."[pcms]
+たぶん、吉野さんから見たらボクもきっとあんな風に[r]
+飛んでるんだろう。[pcms]
 
 ;//SE・地面に叩きつけられる音
 [se buf=0 storage="se036"]
 
 *3530|
 [fc]
-"I heard a crushing sound, as if something was being[r]
-smashed."[pcms]
+グシャリと、どこかが潰れる音が聞こえた。[pcms]
 
 *3531|
 [fc]
-"It seems like part of me was slammed and crushed against[r]
-the ground."[pcms]
+ボクのどこかが地面に叩きつけられて潰れたらしい。[pcms]
 
 *3532|
 [fc]
-"But strangely, I didn't feel any pain at all."[pcms]
+でも不思議なことに痛みも何も感じなかった。[pcms]
 
 *3533|
 [fc]
-"Am I... going to die...?"[pcms]
+ボクは、死ぬ……のかな……。[pcms]
 
 *3534|
 [fc]
-"That thought crossed my mind vaguely."[pcms]
+ぼんやりとそんな事が頭を横切った。[pcms]
 
 *3535|
 [fc]
-"I couldn't feel pain or anything, but I could see the black[r]
-asphalt at the edge of my vision gradually staining a dark[r]
-red."[pcms]
+痛みも何も感じなかったけれど、視界の隅に黒かった[r]
+アスファルトがどんどん赤黒く染まっていくのが見える。[pcms]
 
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
 
 *3536|
 [fc]
-"Probably, that's my blood."[pcms]
+たぶん、あればボクの血。[pcms]
 
 *3537|
 [fc]
-"If I'm losing this much blood, probably, I'm going to die[r]
-like this."[pcms]
+こんなに血を流してたら、たぶん、[r]
+ボクはこのまま死んじゃうだろう。[pcms]
 
 *3538|
 [fc]
-"Ah... I should have confessed to Yuuho after all."[pcms]
+あぁ……やっぱり悠帆に告白しておけばよかったな。[pcms]
 
 *3539|
 [fc]
-"Without worrying about whether we were a good match or not,[r]
-I should have just confessed."[pcms]
+釣りあうとか釣りあわないとか、[r]
+そんな事を考えずに告白しておけばよかった。[pcms]
 
 *3540|
 [fc]
-"No, if by some chance she had said 'OK', maybe I would have[r]
-been satisfied, but then again, Yuuho might have been even[r]
-sadder, so maybe it's better that I didn't confess?"[pcms]
+いや、万が一ＯＫなんて貰ってたら、ボクは[r]
+満足したかもしれないけれど、悠帆が余計に悲しむような[r]
+気がするから告白しなくてよかったのかな？[pcms]
 
 *3541|
 [fc]
-"And then there's Ren."[pcms]
+それに漣。[pcms]
 
 *3542|
 [fc]
-"After mom passed away, if I'm gone too, she'll definitely[r]
-cry."[pcms]
+母さんに続いてボクまでいなくなったら、[r]
+アイツ泣くだろうなぁ。[pcms]
 
 *3543|
 [fc]
-"When dad and they got married and our family grew, she was[r]
-so happy. But now it'll be just dad and her alone again... I[r]
-thought I'd protect her, but now I can't anymore."[pcms]
+父さん達が結婚したとき、家族が増えたって喜んでたのに、[r]
+また父さんと二人っきりの家族にしちゃって……[r]
+守るって思ってたのに、もう守れない。[pcms]
 
 *3544|
 [fc]
-[ns]Wataru[nse]
-'I'm... sorry...'"[pcms]
+[ns]航[nse]
+「ご……めん……な……」[pcms]
 
 *3545|
 [fc]
-"With each word, there's a sound of air leaking out. I can[r]
-only exhale, unable to inhale."[pcms]
+一言一言の間に、空気の漏れる音がする。[r]
+息は吐き出される一方で、吸い込むことができない。[pcms]
 
 *3546|
 [fc]
-"Still, there are things I need to say."[pcms]
+それでも、言わなくちゃならない。[pcms]
 
 *3547|
 [fc]
-"But who are these words for? I don't know anymore."[pcms]
+でも、誰に向けた言葉なんだろう。[r]
+もうわからない。[pcms]
 
 *3548|
 [fc]
-"All that comes to mind is Yuuho and Ren and Kousuke and[r]
-Mizuki, and the times we laughed and did silly things[r]
-together--"[pcms]
+ただただ悠帆と漣とコースケと瑞樹と、[r]
+笑い合ってバカやってた頃の事ばかりが[r]
+思い出されるばかりで――[pcms]
 
 ;//♯_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *3549|
 [fc]
-"My consciousness was swallowed by darkness."[pcms]
+ボクの意識は暗闇に飲み込まれていった。[pcms]
 
 *3550|
 [fc]
-"'The death of a person comes so easily, unexpectedly...'"[pcms]
+『人の死なんて、意外と簡単に訪れるもんなんだな』[pcms]
 
 *3551|
 [fc]
-"That was my last..."[pcms]
+それが最期にボクの……。[pcms]
 
 *3552|
 [fc]
-"The last thought that seemed like a thought."[pcms]
+最後の、思考らしい思考だった。[pcms]
 
 ;//・ゲームオーバー
 ;//〆：ゲームオーバー画面へ
@@ -186,7 +184,6 @@ together--"[pcms]
 ;//●●●●●仕様の確定を
 
 ;//ゲームオーバー
-[gameover time=0 movie="gameover.mpg"]
-[returntitle]"[pcms]
+[gameover time=0 movie="gameover.mpg"][returntitle][s]
 
 

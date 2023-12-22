@@ -22,88 +22,81 @@
 
 *906|
 [fc]
-After browsing through books of interest at Shibuya Palace,[r]
-I borrowed "The Breeze of Washington Heights" and headed out[r]
-into the city with the book in hand.[pcms]
+渋谷パレスで一通り興味がある書籍に目を通して、[r]
+『ワシントンハイツのそよ風』を借りてきたワタシは[r]
+本を片手に街へと出た。[pcms]
 
 *907|
 [fc]
-The book depicts people working diligently and falling in[r]
-love, and a homeland that has overcome civil war through[r]
-revolution, which somehow matches the image of Japan that I[r]
-received from my mother...[pcms]
+本書の中で描かれている、ひたむきに働いて恋をする人々と、[r]
+革命による内戦を超えた母国、[r]
+自分が母から受けたイメージの日本が……。[pcms]
 
 *908|
 [fc]
-I felt a strange sense of congruence, and it filled me with[r]
-longing and respect.[pcms]
+妙に合致している気がして、憧憬と敬意を抱いた。[pcms]
 
 *909|
 [fc]
-However, I seriously doubt how many people today know that[r]
-up until 50 years ago, the center of Tokyo was considered[r]
-"foreign" in Shibuya.[pcms]
+しかし、今の渋谷に５０年前までは、東京の真ん中が[r]
+『外国』だった事を知っている人がはたして[r]
+どれくらいいるのかは、はなはだ疑問だ。[pcms]
 
 *910|
 [fc]
-Moreover, it seems unlikely that the people of today would[r]
-be interested in knowing about it, whether they are aware or[r]
-not.[pcms]
+もっとも、今の彼らは知っていようと、[r]
+知っていなかろうと、興味を持つようにも思えない。[pcms]
 
-;//〆駅前センターストリート
+;//〆駅前～センターストリート
 [bg storage="BG05a"][trans_c cross time=500]
 ;[eval exp="f.l_map = 8"]
 
 *911|
 [fc]
-Despite Japan being full of such disappointments, there are[r]
-many respectable individuals among the local researchers and[r]
-elders, aside from the youth and students.[pcms]
+そんな失望だらけな日本だけど、若者や学生はともかく、[r]
+地元の研究家や年長者は敬意を払うに値する人物が多い。[pcms]
 
 *912|
 [fc]
-People of my mother's generation seem to be hardworking and[r]
-ambitious, reflecting the societal atmosphere of their time.[pcms]
+母と同じ世代は、やはり勤勉で向上心に富んだ人物が多く、[r]
+そういう世相だったような気がする。[pcms]
 
 *913|
 [fc]
-If embracing various cultural exchanges and developing is[r]
-what shapes Shibuya, then that is admirable, and I've come[r]
-to feel an attachment to the city itself.[pcms]
+様々な異文化交流を受け止め、発展することが[r]
+渋谷の形だというのなら、それは見事なことだし、[r]
+街自体には愛着も抱けた。[pcms]
 
 *914|
 [fc]
-The green edge of the Musashino Plateau. A valley where two[r]
-rivers converge.[pcms]
+武蔵野台地の緑端部。[r]
+２本の川が注ぎ込む谷。[pcms]
 
 *915|
 [fc]
-The central area from the station front to Yoyogi Park[r]
-overlooks Yoyogi Hill to the north, flanked by Shibuya River[r]
-to the east and Udagawa River to the west, with the south[r]
-side being the confluence of the two rivers.[pcms]
+駅前から代々木公園に至る中心部は北に代々木丘陵をのぞみ、[r]
+東側を渋谷川、西側を宇田川に挟まれていて[r]
+南側が２つの川の合流点になっている。[pcms]
 
 *916|
 [fc]
-Walking through this bustling crowd while thinking of the[r]
-rivers still flowing underground evokes a mysterious sense[r]
-of melancholy.[pcms]
+地下に封じられて、なおも流れる川を思ってこの雑踏を[r]
+歩いていると不思議な気分で切なさを感じてしまう。[pcms]
 
 *917|
 [fc]
-The Japan I had imagined from my mother's descriptions might[r]
-be buried underground along with those rivers.[pcms]
+ワタシが母からイメージしていた日本が、[r]
+川と一緒に地下に埋められているのかもしれない。[pcms]
 
 *918|
 [fc]
-Following the river, passing by the western department store[r]
-on Center Street, and turning left at the Udagawa police box[r]
-junction leads to LASER.[pcms]
+川に沿って、センターストリートの西洋デパート横を通り、[r]
+宇田川交番前の分かれ道を左にすすんでいくと[r]
+ＬＡＳＥＲ前へと辿り着く。[pcms]
 
 *919|
 [fc]
-I'd like to walk along the flow of the two rivers during[r]
-summer vacation.[pcms]
+夏休みのウチに、２本の川の流れも歩いて見たいところだ。[pcms]
 
 [stopse buf=1]
 ;//〆ＬＡＳＥＲ
@@ -112,96 +105,93 @@ summer vacation.[pcms]
 
 *920|
 [fc]
-Upon arriving at LASER, I heard a girl's voice protesting,[r]
-which caught my attention.[pcms]
+ＬＡＳＥＲへ到着すると、ワタシの耳に女の子の[r]
+抗議の声が飛び込んできた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *921|
 [fc]
-Looking over, I saw Yuuho Kanagi, a well-known figure from[r]
-school, surrounded by a familiar large man and several of[r]
-his followers.[pcms]
+目を向けてみると、学園の有名人である、神凪悠帆が、[r]
+見覚えのある大男と、数人の取り巻き達に囲まれていた。[pcms]
 
 [chara_int][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_j9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *922|
 [fc]
-There was also a girl with glasses known to be a violin[r]
-virtuoso. Her name was... Ayase, if I recall correctly.[pcms]
+他にも、ヴァイオリンの名手と聞かされている眼鏡の子もいる。[r]
+確か……アヤセとかいった子だ。[pcms]
 
 [chara_int][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *923|
 [fc]
-The ones surrounding them are thugs from this town. The[r]
-large man approaching Yuuho, who looks like a smokeless[r]
-wrestler, is someone I've had run-ins with several times[r]
-before.[pcms]
+囲んでいるのはこの街のチンピラ連中。[r]
+悠帆に迫っている、スモーレスラーのような大男には、[r]
+自分も何度か絡まれた記憶がある。[pcms]
 
 *924|
 [fc]
-Of course, each time I've made sure he regretted it... He[r]
-never learns his lesson or knows when to quit.[pcms]
+もちろんそのたびに痛い目に合わせているが……。[r]
+まったく進歩がないというか、懲りない奴だ。[pcms]
 
 *925|
 [fc]
-True to being a thug, he doesn't choose his means for his[r]
-ends. Without shame or consideration for others, he even[r]
-resorts to pulling out weapons, but although he has[r]
-strength, he doesn't know how to use things properly.[pcms]
+チンピラに相応しく、目的の為には手段を選ばない。[r]
+恥も外聞もなく、武器まで取り出してくるが、[r]
+力はあっても物の使い方を知らない。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *926|
 [fc]
-In my homeland, I learned karate, jujutsu, and swordsmanship[r]
-from a Japanese instructor.[pcms]
+母国で、日系の師範代に習った、空手や柔術、剣術。[pcms]
 
 *927|
 [fc]
-And also "Naginata," which my mother taught me.[pcms]
+それに、母が教えてくれた『薙刀』。[pcms]
 
 *928|
 [fc]
-With my skills and knowledge, I can easily handle such low-[r]
-level opponents without any trouble.[pcms]
+ワタシの技術と知識があれば、雑作もなくあしらえる[r]
+そんなレベルの相手だ。[pcms]
 
 *929|
 [fc]
-It's a strange feeling for me as a foreigner to deal with[r]
-Japanese thugs using Japanese martial arts, but that's been[r]
-the norm since coming to this country.[pcms]
+日本人のチンピラ相手に異国人のワタシが、[r]
+日本の武道で相手をするのはなんとも妙な気分だが、[r]
+それはこの国に来てからはいつものこと。[pcms]
 
 *930|
 [fc]
-Nevertheless, seeing men gang up on a woman and intimidate[r]
-her is unpleasant to witness in any country.[pcms]
+それにしても、女相手に男が大人数で群がり、[r]
+脅しつけている様は、どこの国であっても[r]
+見ていて気持ちのいいものではない。[pcms]
 
 *931|
 [fc]
-Why is it that trash like this seems to breed stubbornly[r]
-like cockroaches in every part of the world?[pcms]
+どうして、どこの世界でもこの手のゴミは、[r]
+まるでコキブリのようにしぶとく繁殖しているのだろうか。[pcms]
 
 *932|
 [fc]
-Filled with disgust and rising anger, I approached the[r]
-thugs.[pcms]
+ワタシは嫌悪感と共にこみ上げてくる怒りの感情に任せて、[r]
+チンピラどもに近づいた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *933|
 [fc]
 [vo_mar s="maru0530"]
-[ns]Margarita[nse]
-"Hey!"[pcms]
+[ns]マルガリータ[nse]
+「おいっ！」[pcms]
 
 *934|
 [fc]
-[ns]Thug A[nse]
-"Huh? What thearghhhh!"[pcms]
+[ns]チンピラＡ[nse]
+「んっ、なんだっ、うあぁぁぁっ！！」[pcms]
 
 ;//se012
 [se buf=0 storage="se012"]
@@ -210,18 +200,18 @@ thugs.[pcms]
 
 *935|
 [fc]
-I twisted his wrist mercilessly and slammed his body onto[r]
-the floor so hard that he convulsed with his eyes rolled[r]
-back. He looked just like a cockroach hit by insecticide.[pcms]
+手加減なしで手首をねじって、これでもかと床に身体を[r]
+叩きつけてやると、白目を剥いて痙攣した。[r]
+その様は殺虫剤にやられたゴキブリそのものだ。[pcms]
 
 [chara_int][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *936|
 [fc]
-The groaning fat man tried to grapple with me using brute[r]
-strength alone. As usual, he had more power than skill.[r]
-Using his own force against him, I delivered a counter.[pcms]
+うめくデブは、怪力で勝負とばかりに組みついてきた。[r]
+相変わらず、力は余っているが技をしらない。[r]
+ワタシは相手の力を利用して、カウンターを見舞った。[pcms]
 
 ;//SE010:重吉が吹っ飛ぶ
 [se buf=1 storage="se010"]
@@ -236,25 +226,25 @@ Using his own force against him, I delivered a counter.[pcms]
 
 *937|
 [fc]
-Honestly, it felt exhilarating. It's quite enjoyable to[r]
-instill these thugs with traditional Japanese techniques[r]
-they've forgotten.[pcms]
+正直な話、気分は爽快だ。[r]
+チンピラに彼らの忘れている、日本の伝統技を[r]
+叩きこむのは実に楽しい。[pcms]
 
 *938|
 [fc]
-In a life where war is routine and death is always near,[r]
-their boastful threats of "I'll kill you" sound like comedic[r]
-lines to me.[pcms]
+戦争が日常化し、死が常に近しい日々を送った[r]
+ワタシには、彼らが得意げに発する『ぶっ殺す』の[r]
+言葉が喜劇のセリフに思えて仕方がない。[pcms]
 
 *939|
 [fc]
-To these soft weaklings who are all talk, I physically[r]
-taught them what real fighting is about.[pcms]
+口ばかりの軟弱者に、ワタシは身体で本当の[r]
+戦いがどんなものかを叩きこんでやった。[pcms]
 
 *940|
 [fc]
-The pure thrill of combat and being able to act as an[r]
-absolute strong person brought me joy.[pcms]
+純粋な格闘の快感と、絶対的な強者として振る舞えることに、[r]
+ワタシは歓喜した。[pcms]
 
 ;//〆フェードアウト
 ;[zapend_random]

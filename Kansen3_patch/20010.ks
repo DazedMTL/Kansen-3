@@ -18,14 +18,14 @@
 
 ;	[link storage="20020.ks" target=*20020_TOP]さっさと起きて学校へ行く[endlink]
 ;	[link storage="B_0001.ks" target=*B_0001_TOP]だるいので２度寝する[endlink]
-;[pcms]
+;	[s]
 
 *SEL06|さっさと起きて学校へ行く／だるいので二度寝する
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Hurry up and get up to go to school'"]
-[eval exp="f.seltext04 = 'I\'m tired, so I\'m going to sleep in'"]
+[eval exp="f.seltext02 = 'さっさと起きて学校へ行く'"]
+[eval exp="f.seltext04 = 'だるいので二度寝する'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

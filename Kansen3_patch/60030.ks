@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：1k前後
@@ -21,8 +21,8 @@
 
 *201|
 [fc]
-[ns]Wataru[nse]
-"...I'm sorry, Yuuho!"[pcms]
+[ns]航[nse]
+「……ごめんっ！！　悠帆！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -30,123 +30,122 @@
 *202|
 [fc]
 [vo_yuh s="yuho_YK0033"]
-[ns]Yuuho[nse]
-"Ahh...!"[pcms]
+[ns]悠帆[nse]
+「あぅぅっ……！」[pcms]
 
 *203|
 [fc]
-I pushed Yuuho's body away with all my might.[pcms]
+ボクは力いっぱいに悠帆の身体を突き飛ばした。[pcms]
 
 *204|
 [fc]
-Although I wanted to help her, I didn't know how long[r]
-Yuuho's current state would last.[pcms]
+助けたい気持ちもあったけれど、[r]
+今の悠帆の状態がどれだけ続くか分からない。[pcms]
 
 *205|
 [fc]
-If that's the case, as Yuuho said, I should escape once and[r]
-regroup, or consult with everyone else.[pcms]
+それなら悠帆の言うとおり、一度逃げて体勢を立て直すとか、[r]
+みんなに相談するとかしよう。[pcms]
 
 *206|
 [fc]
-After sprinting a few steps, I turned around near the[r]
-counter.[pcms]
+素早く駆け出して数歩進んだボクは、[r]
+カウンターのあたりで後ろを振り返った。[pcms]
 
 *207|
 [fc]
-Yuuho was groaning on the floor, still in the position she[r]
-fell from on top of me.[pcms]
+ボクの上から転がり落ちた状態のまま、[r]
+悠帆が、床にはいつくばって呻いている。[pcms]
 
 *208|
 [fc]
 [vo_yuh s="yuho_YK0034"]
-[ns]Yuuho[nse]
-"...Wataru... wait, ehh... no... run... away...!"[pcms]
+[ns]悠帆[nse]
+「……わた、る……、待って、ぇ……、[r]
+　ううん……に、逃げ……て……っ！！」[pcms]
 
 *209|
 [fc]
-Yuuho was clawing at her head and writhing in agony. It[r]
-seems her moment of sanity didn't last long after all...[pcms]
+悠帆は頭を掻き毟り、苦しげに身悶えている。[r]
+やっぱり、さっきの正気は長くもたないものだったんだ……。[pcms]
 
 *210|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho... I'm sorry..."[pcms]
+[ns]航[nse]
+「…………悠帆……ごめん……」[pcms]
 
 *211|
 [fc]
-It's painful to watch her suffer. I want to go and help her[r]
-up.[pcms]
+苦しむ姿を見るのは辛い。[r]
+助け起こしに行きたくなる。[pcms]
 
 *212|
 [fc]
-But Yuuho managed to let me escape... Even though she was in[r]
-so much pain, she tried to save me... Considering her[r]
-feelings, I can't go back...[pcms]
+だけど、せっかく悠帆が逃がしてくれたんだ……。[r]
+あんなに苦しそうなのに、ボクを助けようとしてくれた……。[r]
+その気持ちを考えたら、戻るわけにはいかない……。[pcms]
 
 *213|
 [fc]
-As I backed away, my hips hit the counter, making a loud[r]
-thud.[pcms]
+後ずさるボクの腰がカウンターにぶつかり、[r]
+ゴトンと硬い音を響かせた。[pcms]
 
 *214|
 [fc]
-[ns]Wataru[nse]
-"...Eh??..."[pcms]
+[ns]航[nse]
+「……えっ？？…………」[pcms]
 
 *215|
 [fc]
-The source of the solid sound was Tadahiko's gun hanging at[r]
-my waist.[pcms]
+硬質な音の正体は、腰に下げてあった彦ちんの銃だった。[pcms]
 
 *216|
 [fc]
-I had forgotten I was carrying it until now, but as soon as[r]
-I remembered, conflict arose within me.[pcms]
+今の瞬間まで持っているのを忘れていたけれど[r]
+思い出した途端に、ボクの中に葛藤が生まれる。[pcms]
 
 *217|
 [fc]
-[ns]Wataru[nse]
-"...If I use this..."[pcms]
+[ns]航[nse]
+「……これを、使えば……」[pcms]
 
 *218|
 [fc]
-Can I save Yuuho...? But that action would mean Yuuho's...[r]
-death...!![pcms]
+悠帆を救うことが、できる……？[r]
+だけど、その行動が意味するのは悠帆の……死……！！[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e31"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *219|
 [fc]
 [vo_yuh s="yuho_YK0035"]
-[ns]Yuuho[nse]
-"Wa-ta-ru...!"[pcms]
+[ns]悠帆[nse]
+「わ、た……るぅ…………っ！」[pcms]
 
 *220|
 [fc]
-From beneath her labored breaths, Yuuho calls out to me. The[r]
-light of sanity is fading from her eyes.[pcms]
+苦しそうな息の下から、悠帆がボクを呼ぶ。[r]
+瞳から正気の光が消えかけている。[pcms]
 
 *221|
 [fc]
-What should I do... What can I do!?[pcms]
+ボクは……ボクはどうすればいいんだ！？[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ３
-;//３１：僕が撃つしかない・・・！！→60040
-;//３２：・・・だめだ撃てそうにない。→60050
+;//●選択肢Ａ－３
+;//３－１：僕が撃つしかない・・・！！→60040
+;//３－２：・・・だめだ撃てそうにない。→60050
 
 
 ;	[link storage="60040.ks" target=*60040_TOP]ボクが撃つしかない……！！[endlink]
-; (link storage="60050.ks" target=*60050_TOP)...I can't do[r]
-it, I can't shoot(endlink)[pcms]
+;	[link storage="60050.ks" target=*60050_TOP]……だめだ撃てそうにない[endlink][s]
 
 *SEL51|ボクが撃つしかない……！！／……だめだ撃てそうにない
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'I have no choice but to shoot!!'"]
-[eval exp="f.seltext04 = 'No good, I don\'t think I can shoot'"]
+[eval exp="f.seltext02 = 'ボクが撃つしかない……！！'"]
+[eval exp="f.seltext04 = '……だめだ撃てそうにない'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

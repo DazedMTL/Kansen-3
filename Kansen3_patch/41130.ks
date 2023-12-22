@@ -1,11 +1,11 @@
 ;//block:A014
 ;//ブロック４１１２０から選択肢でjump
-;//ブロック４１１３０『地下道悠帆のみ脱出』pt11
+;//ブロック４１１３０『地下道～悠帆のみ脱出～』pt11
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41120.txtから
 
 *41130_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:悠帆/感染・主人公/感染・漣/感染・マル
@@ -16,7 +16,7 @@
 ;//☆４１１３０．４１１４０．４１１５０の３つのブロックは、
 ;//行為の内容が異なるだけで、絵は同じものを使用します。
 ;//---------------------------------------------------------------
-;//●選択肢Ａ４　４１：二人で一緒に・・・
+;//●選択肢Ａ－４　４－１：二人で一緒に・・・
 ;//　☆このシーンは主人公視点です
 
 ;[eval exp="sf.g_scene08_01 = 1"]
@@ -28,46 +28,46 @@
 
 *3665|
 [fc]
-[ns]Wataru[nse]
-"Uncle, let's do it together!"[pcms]
+[ns]航[nse]
+「おじさん、一緒にしましょう！」[pcms]
 
 *3666|
 [fc]
-[ns]Yuuho's father[nse]
-"With Wataru-kun?"[pcms]
+[ns]悠帆の父親[nse]
+「航くんとか？」[pcms]
 
 *3667|
 [fc]
-[ns]Wataru[nse]
-"Even I won't lose to you, Uncle, when it comes to loving[r]
-Yuuho~"[pcms]
+[ns]航[nse]
+「ボクだって、悠帆を好きな気持ちは[r]
+　おじさんに負けませんよ～」[pcms]
 
 *3668|
 [fc]
-[ns]Yuuho's father[nse]
-"That's impossible~. There's no way you can beat my love for[r]
-her~"[pcms]
+[ns]悠帆の父親[nse]
+「それはないな～。[r]
+　私の愛情に君が勝てるわけがない～」[pcms]
 
 *3669|
 [fc]
-[ns]Yuuho's father[nse]
-"But~, that's a good idea~. Since you're her childhood[r]
-friend, you'd want to take Yuuho's purity too~"[pcms]
+[ns]悠帆の父親[nse]
+「でも～、それはいい考えだ～。[r]
+　幼馴染の君だって、悠帆の純潔を奪いたいだろうからな～」[pcms]
 
 *3670|
 [fc]
-[ns]Wataru[nse]
-"Yes!"[pcms]
+[ns]航[nse]
+「はいっ！」[pcms]
 
 *3671|
 [fc]
-I was happy to hear Uncle's words.[pcms]
+ボクはおじさんの言葉がうれしかった。[pcms]
 
 *3672|
 [fc]
-[ns]Wataru[nse]
-"Then, I'll take Yuuho off your hands, Uncle. Please take it[r]
-easy."[pcms]
+[ns]航[nse]
+「じゃあ、ボクがおじさんの代わりに悠帆を持ちますから。[r]
+　おじさんは楽にしてください」[pcms]
 
 
 ;BGM即時停止
@@ -76,8 +76,9 @@ easy."[pcms]
 
 *3673|
 [fc]
-[ns]Yuuho's father[nse]
-"Is that so. Thank you, Wataru-kun."[pcms]
+[ns]悠帆の父親[nse]
+「そうか。[r]
+　ありがとう航くん」[pcms]
 
 [bgm storage="BGM03"]
 
@@ -87,138 +88,145 @@ easy."[pcms]
 
 *3674|
 [fc]
-When I received Yuuho from Uncle, I lifted her up with her[r]
-legs spread wide behind her.[pcms]
+ボクはおじさんから悠帆を受けとると、[r]
+後から足を大きく広げて持ち上げた。[pcms]
 
 *3675|
 [fc]
-It's embarrassing... it might be a little like some kind of[r]
-submission hold.[pcms]
+はずかし……なんとかっていう関節技に[r]
+ちょっと似てるかもしれない。[pcms]
 
 *3676|
 [fc]
 [vo_yuh s="yuho0534"]
-[ns]Yuuho[nse]
-"Mmm... Mm...mm..."[pcms]
+[ns]悠帆[nse]
+「んんっ……。[r]
+　んっ……んっ……」[pcms]
 
 *3677|
 [fc]
-[ns]Wataru[nse]
-"Good morning, Yuuho"[pcms]
+[ns]航[nse]
+「おはよう悠帆」[pcms]
 
 *3678|
 [fc]
 [vo_yuh s="yuho0535"]
-[ns]Yuuho[nse]
-"Mm..."[pcms]
+[ns]悠帆[nse]
+「んっ……」[pcms]
 
 *3679|
 [fc]
 [vo_yuh s="yuho0536"]
-[ns]Yuuho[nse]
-"Wataru...? What is this...? Eeh!?"[pcms]
+[ns]悠帆[nse]
+「航……？[r]
+　これは……？　ええっ！？」[pcms]
 
 *3680|
 [fc]
-Yuuho seems surprised by her own appearance. Or perhaps it's[r]
-a voice of joy in anticipation of being fully loved by us[r]
-and feeling good?[pcms]
+悠帆は自分の格好に驚いているようだ。[r]
+それとも、これからボクたちに存分に愛されて[r]
+気持ちよくなることをに期待しての悦びの声かな？[pcms]
 
 *3681|
 [fc]
-[ns]Wataru[nse]
-"I've always loved you, Yuuho..."[pcms]
+[ns]航[nse]
+「ずっと、大好きだったよ悠帆……」[pcms]
 
 *3682|
 [fc]
 [vo_yuh s="yuho0537"]
-[ns]Yuuho[nse]
-"Wa, Wataru..."[pcms]
+[ns]悠帆[nse]
+「わ、航……」[pcms]
 
 *3683|
 [fc]
-[ns]Yuuho's father[nse]
-"I've always loved her too. My cute and beloved daughter~"[pcms]
+[ns]悠帆の父親[nse]
+「私だって、ずっと愛していた。[r]
+　かわいくて愛しい大好きな娘だ～」[pcms]
 
 *3684|
 [fc]
 [vo_yuh s="yuho0538"]
-[ns]Yuuho[nse]
-"Dad..."[pcms]
+[ns]悠帆[nse]
+「お父さん……」[pcms]
 
 *3685|
 [fc]
-[ns]Wataru[nse]
-"That's why... I decided with Uncle."[pcms]
+[ns]航[nse]
+「だから……おじさんと決めたんだ」[pcms]
 
 *3686|
 [fc]
-[ns]Yuuho's father[nse]
-"Ah, to do it together with Wataru-kun..."[pcms]
+[ns]悠帆の父親[nse]
+「ああ、航くんと一緒にしようって……」[pcms]
 
 *3687|
 [fc]
 [vo_yuh s="yuho0539"]
-[ns]Yuuho[nse]
-"Eh... what are you talking about?"[pcms]
+[ns]悠帆[nse]
+「えっ……なにを？」[pcms]
 
 *3688|
 [fc]
-Yuuho looks surprised. If she knew, she would surely be even[r]
-more shocked.[pcms]
+悠帆が驚いた顔をしている。[r]
+聞いたら、きっと、もっとおどろくに違いない。[pcms]
 
 *3689|
 [fc]
-[ns]Wataru[nse]
-"So, from now on, Uncle and I will do it together. The two[r]
-of us who love Yuuho will take her virginity together~"[pcms]
+[ns]航[nse]
+「だから、これからおじさんと一緒にしてあげる。[r]
+　おじさんとボク、悠帆を大好きな二人が[r]
+　一緒に悠帆の処女をもらってあげるからね～」[pcms]
 
 *3690|
 [fc]
 [vo_yuh s="yuho0540"]
-[ns]Yuuho[nse]
-"No... That's not... You can't do that..."[pcms]
+[ns]悠帆[nse]
+「いやぁ……。[r]
+　そんなのいやぁ……。[r]
+　そんなのってないよぉ……」[pcms]
 
 *3691|
 [fc]
-For some reason, Yuuho is murmuring in a mosquito-like[r]
-voice.[pcms]
+なんだかわからないけど、悠帆は蚊の鳴くような声で[r]
+つぶやいている。[pcms]
 
 *3692|
 [fc]
-She must be embarrassed.[pcms]
+きっと、照れてるんだな。[pcms]
 
 *3693|
 [fc]
-[ns]Wataru[nse]
-"Then, Uncle, let's enter Yuuho quickly."[pcms]
+[ns]航[nse]
+「じゃあ、おじさんはやく悠帆に入れてやりましょう」[pcms]
 
 *3694|
 [fc]
-[ns]Yuuho's father[nse]
-"That's right..."[pcms]
+[ns]悠帆の父親[nse]
+「そうだな……」[pcms]
 
 *3695|
 [fc]
-[ns]Wataru[nse]
-"Yes. Then together...one, two..."[pcms]
+[ns]航[nse]
+「はいっ。[r]
+　では一緒に……いち、にの……」[pcms]
 
 *3696|
 [fc]
 [vo_yuh s="yuho0541"]
-[ns]Yuuho[nse]
-"No...ahh..."[pcms]
+[ns]悠帆[nse]
+「いやぁあ……」[pcms]
 
 *3697|
 [fc]
-[ns]Wataru[nse]
-"Three!"[pcms]
+[ns]航[nse]
+「さ～ん！」[pcms]
 
 *3698|
 [fc]
 [vo_yuh s="yuho0542"]
-[ns]Yuuho[nse]
-"Hyagyaahhh!!"[pcms]
+[ns]悠帆[nse]
+「ひゃぎゃあああっ！！」[pcms]
 
 
 
@@ -229,432 +237,468 @@ She must be embarrassed.[pcms]
 
 *3699|
 [fc]
-When Uncle and I entered Yuuho's pussy together, it was[r]
-painfully tight... no, it was tight and painful but felt[r]
-good.[pcms]
+ボクがおじさんと一緒に悠帆のオマンコへと入れてやると、[r]
+痛いくらいの狭さで……いや、狭くて痛くて気持ちがいい。[pcms]
 
 *3700|
 [fc]
-This is inside Yuuho...[pcms]
+これが悠帆の中なんだ……。[pcms]
 
 *3701|
 [fc]
-[ns]Wataru[nse]
-"I love you, Yuuho. I've always wanted to do this~"[pcms]
+[ns]航[nse]
+「大好きだよ悠帆。[r]
+　ボクはずっとこうしたかったんだ～」[pcms]
 
 *3702|
 [fc]
 [vo_yuh s="yuho0543"]
-[ns]Yuuho[nse]
-"Higyuh...higuuhh!"[pcms]
+[ns]悠帆[nse]
+「ひぎっ……ひぐううっ！」[pcms]
 ;//＠痛みとショックで気絶
 
 *3703|
 [fc]
-Yuuho is making loud noises. Was it that good for her? Was[r]
-she happy?[pcms]
+悠帆はすごい声を出している。[r]
+そんなに気持ちよかったのかな？[r]
+うれしかったのかな？[pcms]
 
 *3704|
 [fc]
-From Yuuho's pussy where Uncle and I are inside, red blood[r]
-drips down like when Ren did.[pcms]
+おじさんのとボクの入っている悠帆のオマンコからは、[r]
+漣とした時みたいに赤い血が滴り落ちた。[pcms]
 
 *3705|
 [fc]
-[ns]Wataru[nse]
-"I'm so happy~. Yuuho really was a virgin~. I was worried~"[pcms]
+[ns]航[nse]
+「うれしいよぉ～。[r]
+　やっぱり、悠帆は処女だったんだ～。[r]
+　心配だったんだよ～」[pcms]
 
 *3706|
 [fc]
-[ns]Wataru[nse]
-"That she might have given it to Oshima-senpai~. I was[r]
-really worried~"[pcms]
+[ns]航[nse]
+「大嶋先輩にあげちゃったんじゃないかって～。[r]
+　ずっと心配だったんだよ～」[pcms]
 
 *3707|
 [fc]
-[ns]Yuuho's father[nse]
-"As expected of Yuuho~. Keeping the promise from when she[r]
-was a child~. She told me many times~ 'I'll become Papa's[r]
-bride'~"[pcms]
+[ns]悠帆の父親[nse]
+「さすがは悠帆だよ～。子供のころの約束を[r]
+　ちゃんと守ってるなんて～。なんども言ってくれたな～[r]
+　『パパのお嫁さんになる』って～」[pcms]
 
 *3708|
 [fc]
-[ns]Yuuho's father[nse]
-"You really became my bride~ You kept your virginity just[r]
-for me~. You are a filial and proud daughter~"[pcms]
+[ns]悠帆の父親[nse]
+「ちゃんとお前は私のお嫁さんになってくれたよ～[r]
+　私のためにずっと処女をとっておいてくれたんだな～。[r]
+　お前は親孝行の自慢の娘だよ～」[pcms]
 
 *3709|
 [fc]
 [vo_yuh s="yuho0544"]
-[ns]Yuuho[nse]
-"Higyih...guuhh...uhh... ...uhhh..."[pcms]
+[ns]悠帆[nse]
+「ひぎいっ……ぐううっ……ううっ……。[r]
+　……うううっ……」[pcms]
 ;//＠気絶の後の余韻のうめき　泡を吹いてるイメージ
 
 *3710|
 [fc]
-[ns]Wataru[nse]
-"It's for me, Uncle!!"[pcms]
+[ns]航[nse]
+「ボクのためにですよ～おじさんっ！！」[pcms]
 
 *3711|
 [fc]
-[ns]Yuuho's father[nse]
-"No, it's different~. It's for me."[pcms]
+[ns]悠帆の父親[nse]
+「いや、違う～。[r]
+　私のためだ」[pcms]
 
 *3712|
 [fc]
-[ns]Wataru[nse]
-"It's mine, you know~. Hey... which is it, Yuuho?"[pcms]
+[ns]航[nse]
+「ボクのですよ～。[r]
+　ねぇ……どっちだい悠帆？」[pcms]
 
 *3713|
 [fc]
 [vo_yuh s="yuho0545"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 ;//＠完全に気絶
 
 *3714|
 [fc]
-[ns]Wataru[nse]
-"Answer me, Yuuho~"[pcms]
+[ns]航[nse]
+「答えてよ悠帆～」[pcms]
 
 *3715|
 [fc]
-[ns]Yuuho's father[nse]
-"She must be shy. Yuuho is such a kind girl. She probably[r]
-wants to say it's for both me and Wataru-kun~"[pcms]
+[ns]悠帆の父親[nse]
+「きっと、照れてるんだよ。[r]
+　悠帆は優しい子だから、[r]
+　きっと私と航くんの両方だと言いたいんだよ～」[pcms]
 
 *3716|
 [fc]
-[ns]Wataru[nse]
-"That's right~"[pcms]
+[ns]航[nse]
+「そうですよね～」[pcms]
 
 *3717|
 [fc]
-It must be as Uncle says. I love that kind side of Yuuho.[pcms]
+きっと、おじさんの言うとおりだ。[r]
+ボクは悠帆のそんな優しいところが大好きなんだし。[pcms]
 
 *3718|
 [fc]
-[ns]Yuuho's father[nse]
-"Ah, but it's tighter than I thought... Yuuho. It's even[r]
-better than your mother~. Ahh... maybe it's because Wataru-[r]
-kun is also inside~"[pcms]
+[ns]悠帆の父親[nse]
+「ああ、それにしても思った以上のすごい狭さだよ……悠帆。[r]
+　いいなぁ……母さん以上だ～。[r]
+　ああっ……航くんも入ってるからか～」[pcms]
 
 *3719|
 [fc]
-[ns]Wataru[nse]
-"That's right, Uncle... I'm also inside~"[pcms]
+[ns]航[nse]
+「そうですよ、おじさん……。[r]
+　ボクも入ってるんです～」[pcms]
 
 *3720|
 [fc]
-[ns]Yuuho's father[nse]
-"Is that so, is that so~. Thank goodness, Yuuho~. To be[r]
-given so much pleasure by both me and Wataru-kun..."[pcms]
+[ns]悠帆の父親[nse]
+「そうかそうか～。[r]
+　よかったな悠帆～。[r]
+　私と航くんにこんなにしてもらって……」[pcms]
 
 *3721|
 [fc]
 [vo_yuh s="yuho0546"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 
 *3722|
 [fc]
-[ns]Yuuho's father[nse]
-"What's the matter, Yuuho? Rolling your eyes back~. I see~,[r]
-you're playing dead~"[pcms]
+[ns]悠帆の父親[nse]
+「どうしたんだい悠帆？[r]
+　白目なんかむいて～。[r]
+　そうか～、死んだふりだな～」[pcms]
 
 *3723|
 [fc]
-I wonder why Yuuho would do such a thing. Uncle and I are[r]
-trying to make her feel good together...[pcms]
+なんで悠帆はそんなことをするんだろう。[r]
+せっかくボクとおじさんが一緒に気持ちよくなることを[r]
+してあげているのに……。[pcms]
 
 *3724|
 [fc]
-[ns]Wataru[nse]
-"Uncle~. Since we're at it, let's move~"[pcms]
+[ns]航[nse]
+「おじさん～。[r]
+　せっかくですから、動きましょうよ～」[pcms]
 
 *3725|
 [fc]
-[ns]Yuuho's father[nse]
-"That's right~. It would be a waste not to move when it's[r]
-gripping so tightly~"[pcms]
+[ns]悠帆の父親[nse]
+「そうだな～。[r]
+　こんなによくしまっているのに～[r]
+　動かないのはもったいないな～～」[pcms]
 
 *3726|
 [fc]
-[ns]Wataru[nse]
-"Exactly~. Let's make Yuuho unable to play dead~"[pcms]
+[ns]航[nse]
+「そうですよ～。[r]
+　悠帆に死んだふりなんかしてられなくしましょうよ～」[pcms]
 
 *3727|
 [fc]
-[ns]Yuuho's father[nse]
-"That's right. Then, let's move~"[pcms]
+[ns]悠帆の父親[nse]
+「そうだな。[r]
+　じゃあ、動こうか～」[pcms]
 
 ;//SE・挿入　二人
 
 *3728|
 [fc]
-Uncle and I started moving what we had inside Yuuho.[pcms]
+ボクとおじさんは一緒に悠帆の中にいれたモノを動かしだした。[pcms]
 
 *3729|
 [fc]
 [vo_yuh s="yuho0547"]
-[ns]Yuuho[nse]
-"Uguah!!"[pcms]
+[ns]悠帆[nse]
+「うぐあぁ！！」[pcms]
 ;//＠悲鳴　半覚醒状態
 
 *3730|
 [fc]
-Yuuho made a scream-like noise and jerked.[pcms]
+悠帆が悲鳴みたいな声を出してびくりと動く。[pcms]
 
 *3731|
 [fc]
-[ns]Wataru[nse]
-"Yuuho~. Playing dead won't work~"[pcms]
+[ns]航[nse]
+「悠帆～。[r]
+　死んだ振りしたってダメだぞ～」[pcms]
 
 *3732|
 [fc]
 [vo_yuh s="yuho0548"]
-[ns]Yuuho[nse]
-"Uguahhh!"[pcms]
+[ns]悠帆[nse]
+「うぐぁああっ！」[pcms]
 
 *3733|
 [fc]
-[ns]Yuuho's father[nse]
-"That's right~. But still, Yuuho's pussy is much tighter[r]
-than your mother's first time..."[pcms]
+[ns]悠帆の父親[nse]
+「そうだぞ～。[r]
+　それにしても、母さんの初めての時よりも、[r]
+　ずっときついな悠帆のオマンコは……」[pcms]
 
 *3734|
 [fc]
 [vo_yuh s="yuho0549"]
-[ns]Yuuho[nse]
-"Uguh... aguh... ugugug..."[pcms]
+[ns]悠帆[nse]
+「うぐっ……あぐっ……うぐぐぐっ……」[pcms]
 
 *3735|
 [fc]
-[ns]Wataru[nse]
-"Uncle~. It's because mine is inside~"[pcms]
+[ns]航[nse]
+「おじさん～。[r]
+　ボクのが入ってるからですよ～」[pcms]
 
 *3736|
 [fc]
-[ns]Yuuho's father[nse]
-"Is that so, is that so, is that so~. Because Wataru-kun is[r]
-inside~"[pcms]
+[ns]悠帆の父親[nse]
+「そうかそうかそうか～。[r]
+　航くんが入ってるからか～」[pcms]
 
 *3737|
 [fc]
-[ns]Wataru[nse]
-"Uncle, you're so forgetful~"[pcms]
+[ns]航[nse]
+「おじさんったら、忘れっぽいなぁ～」[pcms]
 
 *3738|
 [fc]
-[ns]Yuuho's father[nse]
-"Maybe it's my age~. Well, it doesn't matter. Let's give[r]
-Yuuho more pleasure, Wataru-kun"[pcms]
+[ns]悠帆の父親[nse]
+「私も年かな～。[r]
+　まあ、いい。[r]
+　もっと悠帆にしてやろう航くん」[pcms]
 
 ;//SE・挿入激しく
 
 *3739|
 [fc]
 [vo_yuh s="yuho0550"]
-[ns]Yuuho[nse]
-"Higih! Gih! Hyah! Ahh! Ahyahah!!"[pcms]
+[ns]悠帆[nse]
+「ひぎっ！　ぎっ！[r]
+　ひゃあっ！　ああっ！[r]
+　あひゃああっ！！」[pcms]
 
 *3740|
 [fc]
-Yuuho kept raising a scream-like voice. So this is what they[r]
-call a cry of joy~.[pcms]
+悠帆はあいかわらず、悲鳴のような声を上げている。[r]
+そうか……これが悦びの悲鳴ってやつか～。[pcms]
 
 *3741|
 [fc]
 [vo_ren s="ren0550"]
-[ns]Ren[nse]
-"Geez... Yuuho-chan is so sloppy~. ...It hurts so much, yet[r]
-it feels so good~"[pcms]
+[ns]漣[nse]
+「もうっ……だらしないなぁ、悠帆ちゃんは～。[r]
+　……と～っても痛くて、それがキモチいいのに～」[pcms]
 
 *3742|
 [fc]
 [vo_ren s="ren0551"]
-[ns]Ren[nse]
-"Yuuho-chan~. You really need to show more love for Onii-[r]
-chan~"[pcms]
+[ns]漣[nse]
+「悠帆ちゃんったら～。[r]
+　や～っぱり、お兄ちゃんへの愛情が足りないんだ～」[pcms]
 
 *3743|
 [fc]
 [vo_ren s="ren0552"]
-[ns]Ren[nse]
-"...If I were given such amazing treatment by Onii-chan and[r]
-Papa~. Just the thought makes me unbearably happy~"[pcms]
+[ns]漣[nse]
+「……私～あんなにすごいことを～[r]
+　お兄ちゃんとパパからされたら～。[r]
+　考えただけでもうれしくてたまらないのに～」[pcms]
 
 *3744|
 [fc]
 [vo_ren s="ren0553"]
-[ns]Ren[nse]
-"And you took Onii-chan away from me~!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんを私からとっておきながら～！」[pcms]
 
 *3745|
 [fc]
 [vo_mar s="maru0534"]
-[ns]Margarita[nse]
-"Don't say that. We should all get along well together~"[pcms]
+[ns]マルガリータ[nse]
+「そう言うな。[r]
+　みんなで仲良くすればいいだろ～」[pcms]
 
 *3746|
 [fc]
 [vo_ren s="ren0554"]
-[ns]Ren[nse]
-"That's true~. ...But I prefer Onii-chan~"[pcms]
+[ns]漣[nse]
+「そうですね～。[r]
+　……でも、私はお兄ちゃんがいいなぁ～」[pcms]
 
 *3747|
 [fc]
 [vo_yuh s="yuho0551"]
-[ns]Yuuho[nse]
-"Higigiiii! Higig!"[pcms]
+[ns]悠帆[nse]
+「ひぎぎぃいいっ！　ひぎぎっ！」[pcms]
 
 *3748|
 [fc]
-[ns]Wataru[nse]
-"What's the matter? Yuuho~. You're making such strange[r]
-noises because it feels good~"[pcms]
+[ns]航[nse]
+「どうしたんだい？　悠帆～。[r]
+　気持ちいいからって、変な声ばかりだして～」[pcms]
 
 *3749|
 [fc]
-[ns]Yuuho's father[nse]
-"That's right~. Now say 'I'm happy because Papa's filling up[r]
-my pussy'~, go on Yuuho~"[pcms]
+[ns]悠帆の父親[nse]
+「そうだぞ～。[r]
+　ちゃんと『パパのがオマンコいっぱいでうれしい』って～、[r]
+　言ってごらん悠帆～」[pcms]
 
 *3750|
 [fc]
-[ns]Wataru[nse]
-"The one filling her up is mine, Uncle~"[pcms]
+[ns]航[nse]
+「いっぱいなのは、ボクのが入ってるからですよ～[r]
+　おじさんったら～」[pcms]
 
 *3751|
 [fc]
-This forgetful old man... Well, it doesn't matter. It feels[r]
-too good to bear.[pcms]
+まったく、この物忘れの激しいオヤジときたら……。[r]
+まあ、いいか～。[r]
+気持ちよくてたまらない。[pcms]
 
 *3752|
 [fc]
-After all, it's my beloved Yuuho... So tight, hot, and[r]
-pleasurable. Ren was good too, but Yuuho's pussy is[r]
-exceptional.[pcms]
+やっぱり、さすがはボクの好きな悠帆だ……。[r]
+すごくキツくて、熱くて、気持ちよくて。[r]
+漣のもよかったけど、さすがは悠帆のオマンコだ。[pcms]
 
 ;//SE・挿入　激しく
 
 *3753|
 [fc]
 [vo_yuh s="yuho0552"]
-[ns]Yuuho[nse]
-"Higuh! Higih! Higuh!"[pcms]
+[ns]悠帆[nse]
+「ひぐっ！　ひぎっ！　ひぐっ！」[pcms]
 
 *3754|
 [fc]
-[ns]Wataru[nse]
-"It feels so good! Yuuho's pussy is amazing~!!"[pcms]
+[ns]航[nse]
+「いいよぉ！[r]
+　悠帆のオマンコいいよ～！！」[pcms]
 
 *3755|
 [fc]
-[ns]Yuuho's father[nse]
-"Wataru-kun is amazing~. When I was young, I used to be this[r]
-intense with Yuuko too~"[pcms]
+[ns]悠帆の父親[nse]
+「航くんはすごいな～。私も若いころはそんな風に激しく[r]
+　悠子にしたもんだ～」[pcms]
 
 *3756|
 [fc]
 [vo_yuh s="yuho0553"]
-[ns]Yuuho[nse]
-"Higi...! Higih! Higyah!"[pcms]
+[ns]悠帆[nse]
+「ひぎいっ……！　ひぎっ！　ひぎゃ！」[pcms]
 
 *3757|
 [fc]
-[ns]Wataru[nse]
-"I'm young after all~. How about it, Yuuho? It feels good to[r]
-be moved like this, right?~"[pcms]
+[ns]航[nse]
+「若いですからね～。[r]
+　どうだい悠帆？[r]
+　悠帆もこんな風に動かれたら気持ちいいよね～？」[pcms]
 
 *3758|
 [fc]
 [vo_yuh s="yuho0554"]
-[ns]Yuuho[nse]
-"Hikuh... hikk... hiuuh!"[pcms]
+[ns]悠帆[nse]
+「ひくっ……ひっく……ひううっ！」[pcms]
 
 *3759|
 [fc]
-[ns]Wataru[nse]
-"Ren~, when I did this to her butt, she was overjoyed saying[r]
-'more please~ more please~'"[pcms]
+[ns]航[nse]
+「漣なんて～、おしりにこうしたら、[r]
+　『もっとちょうだい～もっとちょうだい～』[r]
+　って～、大悦びだったんだよ～」[pcms]
 
 *3760|
 [fc]
 [vo_ren s="ren0555"]
-[ns]Ren[nse]
-"Geez, Onii-chan~"[pcms]
+[ns]漣[nse]
+「もう～お兄ちゃんたら～」[pcms]
 
 *3761|
 [fc]
 [vo_yuh s="yuho0555"]
-[ns]Yuuho[nse]
-"Higuh...! Higih...! Igi!"[pcms]
+[ns]悠帆[nse]
+「ひぐっ……！　ひぎっ……！　いぎいっ！」[pcms]
 
 *3762|
 [fc]
-[ns]Yuuho's father[nse]
-"If you move like that, I can't hold back either~. Uuh..."[pcms]
+[ns]悠帆の父親[nse]
+「そんなに動くと私もたまらなくなるよ～。[r]
+　ううっ……」[pcms]
 
 *3763|
 [fc]
-[ns]Wataru[nse]
-"I'm starting to feel really good too~"[pcms]
+[ns]航[nse]
+「ボクもよくなってきましたよ～」[pcms]
 
 *3764|
 [fc]
-The inside of Yuuho feels so good that I can't hold back[r]
-anymore. No... is there even a need to hold back?[pcms]
+悠帆の中はやっぱり気持ちよくて、[r]
+もうガマンできなくなってきた。[r]
+いや……ガマンする必要なんてあるのだろうか？[pcms]
 
 *3765|
 [fc]
-I'm with Yuuho right now... Is there anything else to do[r]
-besides having sex...?[pcms]
+いまは悠帆としてるんだし……。[r]
+セックスする以外になにかあったっけ……。[pcms]
 
 *3766|
 [fc]
-...Camping?[pcms]
+……キャンプ？[pcms]
 
 *3767|
 [fc]
-...What's that about? Why camping?[pcms]
+……なんだそれ。[r]
+なんでキャンプなんだろう？[pcms]
 
 *3768|
 [fc]
-...Do I need to save Ren?[pcms]
+……漣を助けなきゃ？[pcms]
 
 *3769|
 [fc]
 [vo_ren s="ren0556"]
-[ns]Ren[nse]
-"Onii-chan~ you're amazing!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃん～すご～いっ！！」[pcms]
 
 *3770|
 [fc]
-Even though she's so lively over there?[pcms]
+あそこであんなに元気にしてるのに？[pcms]
 
 *3771|
 [fc]
-After all, I want to cum a lot inside Yuuho. I have to make[r]
-her happy by cumming a lot, just like I did with Ren.[pcms]
+……やっぱり、ボクは悠帆にいっぱい出したいな。[r]
+いっぱい出して、漣にしてあげたみたいに[r]
+悠帆も悦ばせてやらなくちゃ。[pcms]
 
 *3772|
 [fc]
-[ns]Yuuho's father[nse]
-"Ugh!"[pcms]
+[ns]悠帆の父親[nse]
+「ううっ！」[pcms]
 
 *3773|
 [fc]
-[ns]Wataru[nse]
-"Ugh...!"[pcms]
+[ns]航[nse]
+「うあぁっ……！」[pcms]
 
 *3774|
 [fc]
-I came inside Yuuho along with her dad.[pcms]
+ボクはおじさんと一緒に悠帆の中へと中出しした。[pcms]
 
 *3775|
 [fc]
-Inside my beloved Yuuho.[pcms]
+大好きな悠帆の中へ。[pcms]
 
 ;//　差分　同時に膣内射精。
 ;//@konya HEV033 1穴2本　白目　射精
@@ -665,23 +709,23 @@ Inside my beloved Yuuho.[pcms]
 
 *3776|
 [fc]
-How good it feels.[pcms]
+なんて気持ちいいんだ。[pcms]
 
 *3777|
 [fc]
 [vo_yuh s="yuho0556"]
-[ns]Yuuho[nse]
-"Uuuu...uuuu..."[pcms]
+[ns]悠帆[nse]
+「うううっ……うううっ……」[pcms]
 ;//＠　悪夢のような　夢うつつ
 
 *3778|
 [fc]
-Yuuho, filled with our cum, cries tears of joy without[r]
-answering.[pcms]
+悠帆はボクたちにたっぷりと中出しされて、[r]
+うれし泣きをしたまま答えない。[pcms]
 
 *3779|
 [fc]
-Yuuho really is a shy girl...[pcms]
+悠帆は本当に照れ屋さんなんだな……。[pcms]
 
 ;//→ブロック４１１６０へ
 [jump storage="41160.ks" target=*41160_TOP]

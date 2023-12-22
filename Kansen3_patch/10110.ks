@@ -22,496 +22,501 @@
 
 *778|
 [fc]
-Having received an email from my senior, I had some idea of[r]
-what was about to happen.[pcms]
+先輩からメールを受け取ったわたしは、[r]
+この後起こる事を、ある程度予想していた。[pcms]
 
 *779|
 [fc]
-My senior called me out to the legendary tree that's a hot[r]
-topic among the girls.[pcms]
+女の子達の間で噂になっている伝説の木の下に、[r]
+先輩がわたしを呼び出す。[pcms]
 
 *780|
 [fc]
-The rumor goes--[pcms]
+その噂は――[pcms]
 
 *781|
 [fc]
-"Those who confess under that tree, and those who are[r]
-confessed to, both will find happiness."[pcms]
+『あの木の下で告白した者も、受けた者も、[r]
+　どちらも幸せになる』[pcms]
 
 *782|
 [fc]
-That's what it said.[pcms]
+というものだった。[pcms]
 
 *783|
 [fc]
-The senior is good-looking and smart. It's not like I'm not[r]
-interested.[pcms]
+先輩は見た目も、頭もいい。[r]
+わたしだって、気にならない訳じゃない。[pcms]
 
 *784|
 [fc]
-But, I...[pcms]
+だけど、わたしは……。[pcms]
 
 *785|
 [fc]
-I am more interested in someone other than my senior.[r]
-Rather...[pcms]
+わたしは、先輩よりも。[r]
+むしろ……。[pcms]
 
 *786|
 [fc]
-With those thoughts in mind, I head towards the tree where[r]
-my senior is waiting.[pcms]
+そんな事を考えながら、先輩の待つ木の下へと向かう。[pcms]
 
 *787|
 [fc]
-Yes. Most likely, my senior will confess to me today.[pcms]
+そう。[r]
+おそらく、先輩は今日、わたしに告白する。[pcms]
 
 *788|
 [fc]
-But even so, I can't accept that confession.[pcms]
+だけども、その告白自体は、わたしは受け入れる事ができない。[pcms]
 
 *789|
 [fc]
-I'll turn him down firmly.[pcms]
+きっぱり断ろう。[pcms]
 
 *790|
 [fc]
-But can I really do that? Can I reject a confession from him[r]
-under these circumstances?[pcms]
+だけど、わたしにそれができるだろうか。[r]
+この雰囲気で、あの先輩からの告白を断ることができるだろうか？[pcms]
 
 *791|
 [fc]
-But...this is all just my imagination.[pcms]
+でも……これはわたしの妄想に過ぎない。[pcms]
 
 *792|
 [fc]
-He might want to introduce me to another girl, or it could[r]
-be some kind of consultation.[pcms]
+他の女の子を紹介して欲しい、とか、何かの相談事かもしれない。[pcms]
 
 *793|
 [fc]
-Yeah, that's right. There's no way he would suddenly confess[r]
-to me.[pcms]
+うん、そうだよ。[r]
+いくらなんでも、いきなり告白されたりなんて、ないよね。[pcms]
 
 *794|
 [fc]
-As I think about this, I see a figure under the tree.[pcms]
+そんな事を考えていると、木の下に一つの人影が見えた。[pcms]
 
 *795|
 [fc]
-I speak in a small voice, audible only to the figure.[pcms]
+わたしは、その人影にだけ聞こえるように[r]
+小さな声で話しかけた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *796|
 [fc]
 [vo_yuh s="yuho0305"]
-[ns]Yuuho[nse]
-"Good evening, sorry to keep you waiting."[pcms]
+[ns]悠帆[nse]
+「こんばんは、お待たせしました」[pcms]
 
 *797|
 [fc]
-Without any sign of weariness from waiting, my senior[r]
-replies in a calm tone.[pcms]
+特に待ちくたびれた様子もなく、[r]
+先輩は落ち着いた口調で返事をする。[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b3"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *798|
 [fc]
-[ns]Oshimi[nse]
-"Hey, sorry for calling you out like this."[pcms]
+[ns]大嶋[nse]
+「やあ、わざわざ呼び出してすまないね」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *799|
 [fc]
 [vo_yuh s="yuho0306"]
-[ns]Yuuho[nse]
-"No, no, it's fine... Did I keep you waiting?"[pcms]
+[ns]悠帆[nse]
+「いえいえ、わたしこそ……。[r]
+　お待たせしませんでした？」[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b2"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *800|
 [fc]
-[ns]Oshimi[nse]
-"No, not at all. The timing is perfect, and I just got here[r]
-too."[pcms]
+[ns]大嶋[nse]
+「いやそんなことないよ。時間丁度だし、[r]
+　僕も今来たところだからさ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *801|
 [fc]
 [vo_yuh s="yuho0307"]
-[ns]Yuuho[nse]
-"Is that so? So..."[pcms]
+[ns]悠帆[nse]
+「そうですか。それで……」[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b3"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *802|
 [fc]
-[ns]Oshimi[nse]
-"Ah, yeah... I mean, it's quite warm tonight, isn't it?"[pcms]
+[ns]大嶋[nse]
+「ああ、うん……なんていうか、今夜も熱いね」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *803|
 [fc]
 [vo_yuh s="yuho0308"]
-[ns]Yuuho[nse]
-"Yes, it feels like a summer night."[pcms]
+[ns]悠帆[nse]
+「そうですねぇ。夏の夜って感じですね」[pcms]
 
 *804|
 [fc]
-My senior looks away from me and stares into space, lost in[r]
-thought.[pcms]
+わたしから目をそらし、宙を見つめながら、[r]
+何か考え込んでいる先輩。[pcms]
 
 *805|
 [fc]
-Looking at him like this, he really is handsome. Like an[r]
-idol you'd see on TV.[pcms]
+こうしてみると、本当にカッコイイ。[r]
+ＴＶとかで見るアイドルのように、カッコイイ。[pcms]
 
 *806|
 [fc]
-As I'm captivated by his face, he suddenly says something[r]
-unexpected.[pcms]
+その顔に見とれていると、先輩の口からは、[r]
+意外な言葉が飛び出した。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_b1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *807|
 [fc]
-[ns]Oshimi[nse]
-"Your yukata suits you very well."[pcms]
+[ns]大嶋[nse]
+「浴衣、とっても良く似合っているね」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *808|
 [fc]
 [vo_yuh s="yuho0309"]
-[ns]Yuuho[nse]
-"Eh, do you think so?"[pcms]
+[ns]悠帆[nse]
+「えっ、そうですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b2"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *809|
 [fc]
-[ns]Oshimi[nse]
-"Yeah. You look cool in a swimsuit too, but today Ms. Kanagi[r]
-looks even more beautiful."[pcms]
+[ns]大嶋[nse]
+「うん。水着姿もかっこいいけど、[r]
+　今日の神凪さんは一段ときれいだよ」[pcms]
 
 *810|
 [fc]
-Being praised by my senior was something I hadn't considered[r]
-at all, and I was slightly, just slightly flustered.[pcms]
+先輩に褒められるなんて、これっぽっちも[r]
+考えていなかったわたしは、ちょっとだけ、[r]
+ほんのちょっとだけ、動揺してしまった。[pcms]
 
 *811|
 [fc]
-Because of that, my voice came out with a strange[r]
-intonation.[pcms]
+そのせいで、わたしの声はヘンな発音になってしまった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *812|
 [fc]
 [vo_yuh s="yuho0310"]
-[ns]Yuuho[nse]
-"Ah, thank you very much."[pcms]
+[ns]悠帆[nse]
+「あ、ありがとうございます」[pcms]
 
 *813|
 [fc]
-Surprised at myself, I instinctively cover my mouth with my[r]
-hand.[pcms]
+自分でもびっくりしてしまい、[r]
+思わず手を口元にかざす。[pcms]
 
 *814|
 [fc]
-Seeing my reaction, my senior momentarily stops moving.[pcms]
+わたしのその様子を見た先輩は、一瞬動きを止めた。[pcms]
 
 *815|
 [fc]
-...That was embarrassing...[pcms]
+……今の、恥ずかしいなあ……。[pcms]
 
 *816|
 [fc]
-But my senior doesn't laugh at me; instead, he opens his[r]
-mouth with a serious look in his eyes.[pcms]
+だけど、先輩は、わたしを笑うでもなく、[r]
+真剣なまなざしのまま、口を開いた。[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *817|
 [fc]
-[ns]Oshimi[nse]
-"So... there's something important I want to talk about."[pcms]
+[ns]大嶋[nse]
+「それでさ……大事な話なんだけど」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *818|
 [fc]
 [vo_yuh s="yuho0311"]
-[ns]Yuuho[nse]
-"Yes..."[pcms]
+[ns]悠帆[nse]
+「はい……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_b1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *819|
 [fc]
-[ns]Oshimi[nse]
-"I'm not very good with words, so I can't come up with[r]
-anything clever to say..."[pcms]
+[ns]大嶋[nse]
+「僕って不器用だから、あんまり気の利いた[r]
+　セリフとか思いつかないんだけど……」[pcms]
 
 *820|
 [fc]
-His words make me think of what I had imagined.[pcms]
+先輩の言葉は、わたしの想像していた事を連想させる。[pcms]
 
 *821|
 [fc]
-A confession to me. An introduction to another girl.[pcms]
+わたしへの告白。[r]
+他の女の子の紹介。[pcms]
 
 *822|
 [fc]
-And now, my senior is looking straight at me.[pcms]
+そして、今の先輩は、[r]
+わたしを真っ直ぐに見つめている。[pcms]
 
 *823|
 [fc]
-Which means...[pcms]
+と、言うことは……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_b1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *824|
 [fc]
-[ns]Oshimi[nse]
-"I've always liked you, Ms. Kanagi."[pcms]
+[ns]大嶋[nse]
+「僕、神凪さんのことがずっと好きだったんだ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *825|
 [fc]
 [vo_yuh s="yuho0312"]
-[ns]Yuuho[nse]
-"Eh..."[pcms]
+[ns]悠帆[nse]
+「えっ……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_b2"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *826|
 [fc]
-[ns]Oshimi[nse]
-"Sorry for saying something so sudden and troubling you."[pcms]
+[ns]大嶋[nse]
+「ごめんな、突然困らせるようなこと言って」[pcms]
 
 *827|
 [fc]
-I had anticipated this to some extent.[pcms]
+ある程度予想はしていた。[pcms]
 
 *828|
 [fc]
-But when faced with such a straightforward confession, I'm[r]
-inevitably taken aback.[pcms]
+だけど、面と向かって、こうもストレートに言われると、[r]
+さすがに驚いてしまう。[pcms]
 
 *829|
 [fc]
-As I thought, I'm overwhelmed by the atmosphere of the[r]
-moment. My voice betrays my confusion as I struggle to[r]
-respond.[pcms]
+思った通り、この場の雰囲気に飲まれてしまったわたし。[r]
+返事に困ったわたしの声は、やはり調子を外していた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *830|
 [fc]
 [vo_yuh s="yuho0313"]
-[ns]Yuuho[nse]
-"No...that is..."[pcms]
+[ns]悠帆[nse]
+「いぇ……その……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_b1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *831|
 [fc]
-[ns]Oshimi[nse]
-"I'd like you to go out with me if possible. But that's[r]
-secondary. I just wanted to convey my feelings..."[pcms]
+[ns]大嶋[nse]
+「できれば僕と付き合ってほしい。[r]
+　でもそれは二の次だ。とにかくこの気持ちを[r]
+　伝えたかった……」[pcms]
 
 *832|
 [fc]
-But...[pcms]
+だけど……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *833|
 [fc]
 [vo_yuh s="yuho0314"]
-[ns]Yuuho[nse]
-"It's not a bother...rather, I'm happy..."[pcms]
+[ns]悠帆[nse]
+「迷惑ではありません……むしろ嬉しい[r]
+　です……」[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b3"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *834|
 [fc]
-[ns]Oshimi[nse]
-"Really? You're really happy about my confession?"[pcms]
+[ns]大嶋[nse]
+「本当に？[r]
+　本当に僕の告白で喜んでもらえる？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *835|
 [fc]
 [vo_yuh s="yuho0315"]
-[ns]Yuuho[nse]
-"Yes...I truly am happy."[pcms]
+[ns]悠帆[nse]
+「はい……うれしいのは本心です」[pcms]
 
 *836|
 [fc]
-I am...[pcms]
+わたしは……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *837|
 [fc]
 [vo_yuh s="yuho0316"]
-[ns]Yuuho[nse]
-"But..."[pcms]
+[ns]悠帆[nse]
+「でも……」[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b2"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *838|
 [fc]
-[ns]Oshimi[nse]
-"Will you go out with me?"[pcms]
+[ns]大嶋[nse]
+「僕と付き合ってくれる？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *839|
 [fc]
 [vo_yuh s="yuho0317"]
-[ns]Yuuho[nse]
-"But...that might be...impossible."[pcms]
+[ns]悠帆[nse]
+「でも……それは……できないかも」[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b4"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *840|
 [fc]
-[ns]Oshimi[nse]
-"Eh?"[pcms]
+[ns]大嶋[nse]
+「えっ？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *841|
 [fc]
 [vo_yuh s="yuho0318"]
-[ns]Yuuho[nse]
-"Um, that is...I..."[pcms]
+[ns]悠帆[nse]
+「あの、その……わたし……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_b1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *842|
 [fc]
-[ns]Oshimi[nse]
-"You were happy, right? Is there someone else you like?"[pcms]
+[ns]大嶋[nse]
+「喜んでくれたんだよね？[r]
+　他に好きな人がいるのかな？」[pcms]
 
 *843|
 [fc]
-In front of me, I see my senior and another man.[pcms]
+わたしの目の前には、先輩と、もう一人の男が写し出される。[pcms]
 
 *844|
 [fc]
-That man--[pcms]
+あの男が――[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *845|
 [fc]
 [vo_yuh s="yuho0319"]
-[ns]Yuuho[nse]
-"Someone I like...I don't think it's like that but..."[pcms]
+[ns]悠帆[nse]
+「好きな人とか……そんなのとは違う気が[r]
+　するんですけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b3"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *846|
 [fc]
-[ns]Oshimi[nse]
-"I have friends too. I just want to be lovers with Ms.[r]
-Kanagi."[pcms]
+[ns]大嶋[nse]
+「友だちは僕だっているさ。[r]
+　僕は神凪さんと恋人になりたいだけだよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *847|
 [fc]
 [vo_yuh s="yuho0320"]
-[ns]Yuuho[nse]
-"Is it okay...for me and my senior to be lovers..."[pcms]
+[ns]悠帆[nse]
+「いいのかな……わたしと先輩が恋人なんて……」[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b2"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *848|
 [fc]
-[ns]Oshimi[nse]
-"Love is a matter of free will, right? It's not like it's[r]
-going to ruin anyone's life."[pcms]
+[ns]大嶋[nse]
+「恋愛は自由意志だろ？[r]
+　別にそれで人生が狂ったりはしないさ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *849|
 [fc]
 [vo_yuh s="yuho0321"]
-[ns]Yuuho[nse]
-"But...still..."[pcms]
+[ns]悠帆[nse]
+「でも……でもやっぱり……」[pcms]
 
 *850|
 [fc]
-We're always together.[pcms]
+いつも一緒で。[pcms]
 
 *851|
 [fc]
-We always laugh together.[pcms]
+いつも笑い合って。[pcms]
 
 *852|
 [fc]
-The face of that guy who pedals his bicycle so slowly...[pcms]
+自転車を漕ぐのが遅い、アイツの顔が……。[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_b1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *853|
 [fc]
-[ns]Oshimi[nse]
-"I really, really like you!!"[pcms]
+[ns]大嶋[nse]
+「僕は本当に本当に好きなんだよ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *854|
 [fc]
 [vo_yuh s="yuho0322"]
-[ns]Yuuho[nse]
-"Ah!"[pcms]
+[ns]悠帆[nse]
+「あっ！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *855|
 [fc]
-The moment I looked up to refuse my senior...[pcms]
+先輩へ『お断り』をする為に、顔を上げた瞬間だった。[pcms]
 
 *856|
 [fc]
-My senior took a forceful approach.[pcms]
+先輩が強硬策に打って出た。[pcms]
 
 *857|
 [fc]
-He put his hand on my shoulder and brought his face close.[pcms]
+わたしの肩に手を回し、顔を近づける。[pcms]
 
 *858|
 [fc]
-His well-structured face and nicely shaped lips were closing[r]
-in on mine.[pcms]
+整った顔立ちと、形のいい唇が、わたしの口に迫る。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *859|
 [fc]
 [vo_yuh s="yuho0323"]
-[ns]Yuuho[nse]
-"No, let go of me, eek!!"[pcms]
+[ns]悠帆[nse]
+「いやっ、はなしてえっ！！」[pcms]
 
 *860|
 [fc]
-No matter how much I admire my senior...this is[r]
-unforgivable![pcms]
+いくら憧れの先輩だからって……許せない！[pcms]
 
 *861|
 [fc]
-The moment I thought that, I--[pcms]
+そう思った瞬間、わたしは――[pcms]
 
 ;//赤フラ１発
 [赤フラ]
@@ -524,91 +529,95 @@ The moment I thought that, I--[pcms]
 
 *862|
 [fc]
-[ns]Oshimi[nse]
-"Ugh ahhhh!"[pcms]
+[ns]大嶋[nse]
+「うっあぁぁぁっ！」[pcms]
 
 *863|
 [fc]
-The moment before our lips could touch, I bit down hard on[r]
-my senior's lips.[pcms]
+唇が触れるかどうかの瞬間、[r]
+わたしは先輩の唇に思いきり噛みついた。[pcms]
 
 *864|
 [fc]
-My senior released the arm he had around my shoulder and[r]
-pushed me away as he jumped back.[pcms]
+先輩は肩に回した腕を離し、わたしを突き飛ばすようにして、[r]
+その場から飛び退いた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *865|
 [fc]
 [vo_yuh s="yuho0324"]
-[ns]Yuuho[nse]
-"How could you do such a thing?!!"[pcms]
+[ns]悠帆[nse]
+「なんてことするんですかぁっ！！！」[pcms]
 
 *866|
 [fc]
-Excited by my senior's attitude and my own impulsive action,[r]
-my voice was strong and loud.[pcms]
+先輩の態度と、咄嗟とはいえ、自分で取った行動に興奮し、[r]
+わたしの声は強く、大きなものになっていた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_b1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *867|
 [fc]
-[ns]Oshimi[nse]
-"No, I just..."[pcms]
+[ns]大嶋[nse]
+「いや、僕はその……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *868|
 [fc]
 [vo_yuh s="yuho0325"]
-[ns]Yuuho[nse]
-"I can't believe you'd do something so forceful!"[pcms]
+[ns]悠帆[nse]
+「強引にこんなことするなんて、信じられない！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_b1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *869|
 [fc]
-[ns]Oshimi[nse]
-"It's just that...I like you, Ms. Kanagi..."[pcms]
+[ns]大嶋[nse]
+「その……神凪さんのことが好きで……」[pcms]
 
 *870|
 [fc]
-No matter how much you like someone...to do this without[r]
-considering my feelings...[pcms]
+いくら好きだからって……。[r]
+わたしの気持ちも考えないで、こんな事……。[pcms]
 
 *871|
 [fc]
-This senior... No matter how cool he is... No matter how[r]
-much I admired him...![pcms]
+こんな先輩……。[r]
+いくら格好良くても……。[r]
+いくら、憧れの人でも……！[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *872|
 [fc]
 [vo_yuh s="yuho0326"]
-[ns]Yuuho[nse]
-"I won't go out with you! I hate you, senior!! Waaahhhhh!!"[pcms]
+[ns]悠帆[nse]
+「先輩とは付き合いません！[r]
+　先輩なんて、だ、だいっきらいです！！[r]
+　うあぁぁぁぁぁん！！！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *873|
 [fc]
-After shouting that, my feet carried me towards the festival[r]
-music and the orange lights.[pcms]
+そう叫んだあと、わたしの足は、[r]
+祭り囃子と橙色の明かりの方へと向かった。[pcms]
 
 ;mm 暗転してるから声だけじゃね？
 ;[ChrSetEx layer=5 chbase="oshima_b1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *874|
 [fc]
-[ns]Oshimi[nse]
-"...No, no way. I won't accept this outcome..."[pcms]
+[ns]大嶋[nse]
+「……そ、そんな。[r]
+　こんな予定、絶対に認めないぞ……」[pcms]
 
 *875|
 [fc]
-As tears overflowed from my eyes while running away, a[r]
-pitiful voice struck my back.[pcms]
+目からあふれる涙を感じつつ走るわたしの背中に、[r]
+情けない声がぶつけられた。[pcms]
 
 ;//〆フェードアウト
 ;[zapend_random]

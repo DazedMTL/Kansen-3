@@ -6,7 +6,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）朝
+;//・時間：５日目（８月１９日）朝～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：
@@ -19,121 +19,123 @@
 
 *190|
 [fc]
-[ns]Wataru[nse]
-"Re...n..."[pcms]
+[ns]航[nse]
+「れ…………ん…………」[pcms]
 
 ;//〆HEV058 赤白ストライプパンツ
 [evcg storage="HEV058b"][trans_c cross time=300]
 
 *191|
 [fc]
-Trembling with tension, I make an involuntary movement. My[r]
-fingertips twitch.[pcms]
+緊張のあまり身じろぎする。[r]
+ぴくり、と指先が動いてしまった。[pcms]
 
 *192|
 [fc]
 [vo_ren s="ren_RK0031"]
-[ns]Ren[nse]
-"Nnn...uh...! Onii-chan... I'm so happy...!"[pcms]
+[ns]漣[nse]
+「んんっ……ぅ……！[r]
+　お兄ちゃん……っ、嬉しいぃぃぃ……っ！」[pcms]
 
 *193|
 [fc]
-Ren clings to me.[pcms]
+漣がしがみついてくる。[pcms]
 
 *194|
 [fc]
-[ns]Wataru[nse]
-"No, this is bad...! We shouldn't..."[pcms]
+[ns]航[nse]
+「だ、だめだ……！　い、いけない………」[pcms]
 
 *195|
 [fc]
-I know we shouldn't be doing this. I try desperately to pull[r]
-my hand away, but my instincts ignore it.[pcms]
+こんな事をしてはいけないと思う。[r]
+必死に手を引こうとするが、本能がそれを無視する。[pcms]
 
 *196|
 [fc]
-My finger, which has slipped into the gap of her panties,[r]
-begins to move on its own.[pcms]
+パンツの隙間に入り込んだ自分の指が、[r]
+自然と動き出すのが分かる。[pcms]
 
 *197|
 [fc]
-[ns]Wataru[nse]
-"Uh...amazing...it's so hot...!"[pcms]
+[ns]航[nse]
+「う………す、すごい……あ、熱い……！」[pcms]
 
 *198|
 [fc]
-Gently stroking along the slit, I can feel something wet and[r]
-sticky.[pcms]
+割れ目に沿って、そっと撫でるように、[r]
+ねっとりと濡れたものを感じる。[pcms]
 
 *199|
 [fc]
 [vo_ren s="ren_RK0032"]
-[ns]Ren[nse]
-"Onii-chan is touching me...! My body is going numb, melting[r]
-away, and my clit is getting harder and harder...!"[pcms]
+[ns]漣[nse]
+「お……お兄ちゃんに……触られてるぅぅぅ……っ！[r]
+　私……、痺れちゃう、とろけちゃうぅぅ、[r]
+　どんどんクリトリス、固くなっちゃうぅ……っ！」[pcms]
 
 *200|
 [fc]
-With each movement of my finger, she twitches and more heat[r]
-flows out.[pcms]
+指の動きに合わせてびくびくと反応し[r]
+さらに熱いものをあふれされてくる。[pcms]
 
 *201|
 [fc]
 [vo_ren s="ren_RK0033"]
-[ns]Ren[nse]
-"You can tell how wet I am, right Onii-chan? Do you want to[r]
-make it even messier? Biku! You can stir it up as much as[r]
-you want...!"[pcms]
+[ns]漣[nse]
+「いっぱい、濡れてるの……わかるよね、お兄ちゃん？[r]
+　もっと……ドロドロにしたい？　くひっ！[r]
+　めちゃくちゃに、掻き回しても、いいよぉぉぉ……っ？」[pcms]
 
 *202|
 [fc]
 [vo_ren s="ren_RK0034"]
-[ns]Ren[nse]
-"Nhaa, that spot! Onii-chan's fingers feel so good! It's[r]
-many times better than when I do it myself...hundreds of[r]
-times better!"[pcms]
+[ns]漣[nse]
+「んはぁっ、そっ、そこぉっ！[r]
+　お、お兄ちゃんの指……、気持ち、いいぃぃぃぃっ！[r]
+　自分でするのより、何倍も……何百倍もっ！」[pcms]
 
 *203|
 [fc]
-My fingers continue to move as if they have a will of their[r]
-own.[pcms]
+まるで自分の意思を持ったかのように動き続ける指。[pcms]
 
 *204|
 [fc]
 [vo_ren s="ren_RK0035"]
-[ns]Ren[nse]
-"More, do it more, please? Hihhi! Grind it, push it deep[r]
-inside, it's okay...? Use your fingers to violate me[r]
-thoroughly...?"[pcms]
+[ns]漣[nse]
+「もっと、してしてしてえぇぇ？　ひひひっ！[r]
+　グリグリして、奥まで、突っ込んでもいいんだよぉ……？[r]
+　指で、いっぱいいっぱい、犯して、いいよぉ……？」[pcms]
 
 *205|
 [fc]
 [vo_ren s="ren_RK0036"]
-[ns]Ren[nse]
-"Nn, nn, ah, aahh, nhyaaah! Grind more, touch, play with[r]
-it... Onii-chan, do as much as you like, do it do it do[r]
-it...!"[pcms]
+[ns]漣[nse]
+「んっ、んっ、あっ、ああぁぁぁ、んひゃああぁんっ！[r]
+　もっとグリグリして、触って、いじって……、[r]
+　お兄ちゃんが好きなだけ、して、してしてしてして……っ！」[pcms]
 
 *206|
 [fc]
-Stimulating the walls and playing with the clit. Unable to[r]
-hold back, Ren lets out a moan.[pcms]
+肉壁を刺激し、クリトリスを弄りつづける。[r]
+溜まらず、漣は嬌声を上げている。[pcms]
 
 *207|
 [fc]
-[ns]Wataru[nse]
-"It's amazing, Ren...! This place is already...like[r]
-this...!"[pcms]
+[ns]航[nse]
+「す、すごいよ……漣……！[r]
+　ここ……もう……こんなになってるよ……！」[pcms]
 
 *208|
 [fc]
-She looks at me with heated eyes, and from her cute lips,[r]
-she continuously spins lewd words.[pcms]
+熱い瞳で、自分を見つめ、[r]
+可愛いその唇から、淫らな言葉をしきりに紡ぎだす。[pcms]
 
 *209|
 [fc]
-Seeing my sister Ren writhing like that, I realize that my[r]
-own crotch has swollen without me noticing.[pcms]
+そんな妹の……漣の身悶える姿を見て、[r]
+自分でも気がつかないうちに[r]
+股間のものが大きくなっていたようだ。[pcms]
 
 ;//〆HEV058 赤白ストライプパンツ
 [evcg storage="HEV058o"][trans_c cross time=300]
@@ -141,31 +143,31 @@ own crotch has swollen without me noticing.[pcms]
 *210|
 [fc]
 [vo_ren s="ren_RK0037"]
-[ns]Ren[nse]
-"Ahaan... Hyaha, fufufu... Onii-chan is getting hard[r]
-too...?"[pcms]
+[ns]漣[nse]
+「あはぁん……、ひゃはっ、ふふふふ……っ[r]
+　お兄ちゃんも……おっきくしてるぅ……？」[pcms]
 
 *211|
 [fc]
 [vo_ren s="ren_RK0038"]
-[ns]Ren[nse]
-"Hey...? Is it enough for Onii-chan just with fingers? Are[r]
-you satisfied...? If it's not enough... I can lick it too?[r]
-Hyaha?"[pcms]
+[ns]漣[nse]
+「ねぇ……？　お兄ちゃんは、指だけで、いいの？[r]
+　満足しちゃってるの……？[r]
+　もし、足りないなら……、舐めてもいいよ？　ひゃはっ？」[pcms]
 
 *212|
 [fc]
-The words draw me in irresistibly.[pcms]
+その言葉に、ふらふらと吸い寄せられる。[pcms]
 
 *213|
 [fc]
-I embrace her slender shoulders and lay her down on the[r]
-floor. Then I bury my face in the red and white stripes.[pcms]
+妹の細い肩を抱き、床に寝かしつける。[r]
+そして、赤と白のストライプに、顔を埋めた。[pcms]
 
 *214|
 [fc]
-[ns]Wataru[nse]
-"I'm going to start... Ren..."[pcms]
+[ns]航[nse]
+「い、いくよ……漣……」[pcms]
 
 ;//Ｃ：クンニする航。
 
@@ -173,101 +175,108 @@ floor. Then I bury my face in the red and white stripes.[pcms]
 
 *214a|
 [fc]
-Licking up the bulge of her mound over her panties. Gently[r]
-teasing the slightly protruding tip.[pcms]
+パンツの上から、妹の恥丘の膨らみを舐め上げる。[r]
+ほんの少し突起したその先をちろちろと刺激する。[pcms]
 
 *215|
 [fc]
-[ns]Wataru[nse]
-"Chuu... jururu... chup! Haa haa... Amazing... Ren...! This[r]
-place of yours is so hot! It's really delicious... Ren...![r]
-Chup!"[pcms]
+[ns]航[nse]
+「ちゅうっ……じゅるるっ…　ちゅぷっ…！　はぁはぁ…[r]
+　す、すごい…れ、漣……！　漣のここ…すっごい熱いっ……！[r]
+　すっごく、おいしいよ……？　漣……！　ちゅぷっ！」[pcms]
 
 *216|
 [fc]
 [vo_ren s="ren_RK0039"]
-[ns]Ren[nse]
-"Nhyuaaahh... Onii-chaaan! ...Kukukuku... Not just with[r]
-fingers, your tongue is naughty too, isn't it...?"[pcms]
+[ns]漣[nse]
+「んひゅああぁぁ……っ、おっ、お兄ちゃぁぁん！[r]
+　……くくくくっ……お兄ちゃんって……[r]
+　指だけじゃなくて、舌もエッチなんだね……？」[pcms]
 
 *217|
 [fc]
 [vo_ren s="ren_RK0040"]
-[ns]Ren[nse]
-"You can use your mouth too...? Lick a lot, suck, roll it[r]
-around, it's okay... Nnnnn, yes, that's amazing...[r]
-hahiyyii!"[pcms]
+[ns]漣[nse]
+「おくちも、使っていいよ……？[r]
+　いっぱい、舐めて吸って、転がして……いい、よ？[r]
+　……んんんっ、そ、そう……すごく……はひぃぃ……っ！」[pcms]
 
 *218|
 [fc]
-The love juice overflowing from her genitals grows more[r]
-intense, conveying Ren's taste. The faint scent of urine[r]
-mixed in numbs my mind further.[pcms]
+秘部からあふれ出す愛液はますます勢いを増し、[r]
+漣の味を伝えてくる。[r]
+僅かに混じる尿の香りに、頭が麻痺させられて行くのを感じる。[pcms]
 
 *218a|
 [fc]
-[ns]Wataru[nse]
-"Ah... so this is the spot you like...? Look here! Jubu[r]
-churububu! How about this place?"[pcms]
+[ns]航[nse]
+「ああ……そう…ここが、いいんだね…？　ほら…！[r]
+　じゅぶっ　ちゅるぶぶっ！　ほら、ここはどう……？」[pcms]
 
 *219|
 [fc]
-As Ren tells me, I continue to stimulate her genitals.[r]
-Pulling up the panties and exposing that area directly.[pcms]
+漣に言われるがまま、その秘部を刺激し続ける。[r]
+パンツを刷り上げ、直にその部分を露出させる。[pcms]
 
 *220|
 [fc]
-The red-hot genitals open wide to welcome me in.[pcms]
+赤く熱を持った秘部が大きくその口を開け、[r]
+自分を迎え入れているのが分かる。[pcms]
 
 *221|
 [fc]
 [vo_ren s="ren_RK0041"]
-[ns]Ren[nse]
-"Haaan, ahann! Do more, it's okay? Do it fiercely! Push your[r]
-tongue deep inside! Guchogucho gucho gucho... Kihiiii!"[pcms]
+[ns]漣[nse]
+「はあぁぁん、あはんっ！　もっと、して、いいよ？[r]
+　激しくっ、しても……！　舌も奥までっ、突っ込んで！[r]
+　ぐちょぐちょ、ぐちょぐちょ……っ！　きひひぃぃ！」[pcms]
 
 *222|
 [fc]
-I lick and roll the sensitive bud without restraint. Ren's[r]
-body jerks violently. I insert my tongue into her vagina and[r]
-stimulate the inner walls further.[pcms]
+遠慮なく、その敏感な突起を舐め転がす。[r]
+漣の身体が一際大きく跳ねる。[r]
+舌を膣に入れ、さらに奥の肉壁を刺激する。[pcms]
 
 *223|
 [fc]
 [vo_ren s="ren_RK0042"]
-[ns]Ren[nse]
-"Bite down on it, suck and lick it! Onii-chan's mouth on my[r]
-pussy, you can suck it dry until it's a mess!"[pcms]
+[ns]漣[nse]
+「むしゃぶりついてっ、吸って吸って舐めてぇぇ！[r]
+　お兄ちゃんの、おくちでぇ、わ、私のマンコっ、[r]
+　メチャメチャになるまで、吸い尽くしていいんだよぅぅ！」[pcms]
 
 *224|
 [fc]
-[ns]Wataru[nse]
-"It's amazing, Ren... really wonderful! It keeps flowing out[r]
-more and more from here... I'll do even more for you...!"[pcms]
+[ns]航[nse]
+「す、すごいね……漣…すごく……素敵だよ……！[r]
+　どんどん、あふれてくる……漣のここ……！[r]
+　もっと、もっとしてあげるよ…！」[pcms]
 
 *225|
 [fc]
-Lining up lewd words and writhing in ecstasy, Ren continues[r]
-to escalate.[pcms]
+淫靡な言葉を並べ、身悶えながら、[r]
+どんどんと高まって行く漣……。[pcms]
 
 *226|
 [fc]
-The sight spurs me on even more. Biting down on the clit and[r]
-licking it as if rolling it around.[pcms]
+その様子が、さらに自分にも拍車をかける。[r]
+むしゃぶりつき、クリトリスに歯を立て、転がすように舐める。[pcms]
 
 *227|
 [fc]
 [vo_ren s="ren_RK0043"]
-[ns]Ren[nse]
-"Nn, hii, kyahaaah!? I'm melting away, melting! Onii-chan's[r]
-mouthhh!"[pcms]
+[ns]漣[nse]
+「んっ、ひぃっ、きゃはぁぁっ！？[r]
+　と……とろけちゃうぅぅ、とけちゃうよぅぅっ！？[r]
+　お兄ちゃんの……お兄ちゃんの、おくちぃぃっ！」[pcms]
 
 *228|
 [fc]
 [vo_ren s="ren_RK0044"]
-[ns]Ren[nse]
-"Nnn, yessssssssssssssssss!! I'm coming, coming, hiiiiiiihh,[r]
-kihiiiiiaaaaahhhhh~~~!!"[pcms]
+[ns]漣[nse]
+「んっ、い、いいいいいいいいいいいいいいいいっ！！[r]
+　いっ、イグイグ、ひぃぃぃっ、[r]
+　きひぃぃぃいいいああああぁぁぁ～～～～～っ！！」[pcms]
 
 
 ;//Ｄ：クンニで絶頂。
@@ -276,26 +285,26 @@ kihiiiiiaaaaahhhhh~~~!!"[pcms]
 
 *229|
 [fc]
-Pshuuu![pcms]
+プシュウッ！[pcms]
 
 *230|
 [fc]
-Suddenly she squirts and reaches climax.[pcms]
+突然、潮を吹いて絶頂へと達する。[pcms]
 
 *231|
 [fc]
-The lovely liquid from my adorable sister dirties my face[r]
-completely, filling me with bliss.[pcms]
+愛らしい妹の、あまりに淫らな液が顔という顔を汚し、[r]
+幸福な気持ちになる。[pcms]
 
 *232|
 [fc]
-Covered in stickiness, I appeal to Ren.[pcms]
+ベトベトになりながら、漣に訴えかける。[pcms]
 
 *233|
 [fc]
-[ns]Wataru[nse]
-"Ugh...! Looks like you came, Ren... Fufufu... amazing...[r]
-such a lovely face..."[pcms]
+[ns]航[nse]
+「うっ………！　い、イッちゃったみたいだね……漣……[r]
+　ふふふ…すごい…すごく、良い顔だよ……？」[pcms]
 
 ;//Ｅ：恍惚（Ｄの液なし）
 [evcg storage="HEV058o"][trans_c cross time=300]
@@ -303,58 +312,57 @@ such a lovely face..."[pcms]
 *234|
 [fc]
 [vo_ren s="ren_RK0045"]
-[ns]Ren[nse]
-"Hic, hi... ahfuaaahh, aguuu...!! Still coming!! I'm[r]
-coming!! Uguu! Ahiaaaaahhhaaah..."[pcms]
+[ns]漣[nse]
+「ひっ、ひ……あ、あふああぁぁ、あぐぅぅ……っ！！[r]
+　ま、まだ、来るぅぅぅ！！　いっ、イグぅぅ！！　うぐぅ！[r]
+　あひあああぁぁぁ、はああぁぁあぁぁ………………」[pcms]
 
 *235|
 [fc]
-With each climax that hits her again and again, Ren shakes[r]
-her entire body.[pcms]
+何度も何度もやってくる絶頂に、全身を振るわせる漣。[pcms]
 
 *236|
 [fc]
-With each one, small squirts come out and continue to defile[r]
-my face.[pcms]
+その度に、小さな潮が拭き出し、自分の顔を犯し続ける。[pcms]
 
 *237|
 [fc]
-[ns]Wataru[nse]
-"It's amazing how it keeps coming out like this... Ah...[r]
-what's this?"[pcms]
+[ns]航[nse]
+「すごいね……どんどん…出て…来ちゃうんだね……[r]
+　あ……ああ…な、何だ…？」[pcms]
 
 *238|
 [fc]
-I continue to be showered in Ren's squirt, swallowing it.[pcms]
+漣の潮を浴び続け、それを飲み込む。[pcms]
 
 *239|
 [fc]
-Then, a strange sensation like a numbness in my head comes[r]
-over me.[pcms]
+すると、頭のどこかが痺れたような、[r]
+不思議な感覚がやってくる。[pcms]
 
 *240|
 [fc]
 [vo_ren s="ren_RK0046"]
-[ns]Ren[nse]
-"...Nn, gu...uuu...nn... I felt so much... so very much..."[pcms]
+[ns]漣[nse]
+「……ん、ぐ……ぅぅ……ん……っ……、[r]
+　いっぱい……いっぱいいっぱい、感じちゃったぁぁ」[pcms]
 
 [evcg storage="HEV058n"][trans_c cross time=300]
 
 *241|
 [fc]
 [vo_ren s="ren_RK0047"]
-[ns]Ren[nse]
-"...Now, do you want to be satisfied too, Onii-chan...?"[pcms]
+[ns]漣[nse]
+「…………今度は、お兄ちゃんも、満足したい……？」[pcms]
 
 *242|
 [fc]
-[ns]Wataru[nse]
-"Yeah... I do want to... Will you make me feel good...?"[pcms]
+[ns]航[nse]
+「うん…したいな…気持ち良く…させてくれるかい…？」[pcms]
 
 *243|
 [fc]
-I responded with passionate words to my sister who looked at[r]
-me with earnest eyes.[pcms]
+熱心な瞳で見つめてくる妹に、熱い言葉で応じた。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

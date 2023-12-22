@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・漣・悠帆
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//・テキスト分量：3K
 ;//---------------------------------------------------------------
 
@@ -21,195 +21,202 @@
 
 *7759|
 [fc]
-[ns]Wataru[nse]
-"...Hmm..."[pcms]
+[ns]航[nse]
+「……ん……」[pcms]
 
 ;//se005・木製ドアのノック音（一般住宅）
 [se buf=0 storage="se005"]
 
 *7760|
 [fc]
-[ns]Wataru[nse]
-"...Hmm... Who...?"[pcms]
+[ns]航[nse]
+「……ん……誰……？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7761|
 [fc]
 [vo_yuh s="yuho0921"]
-[ns]Yuuho[nse]
-"Ah... It's me... Wataru? Are you awake?"[pcms]
+[ns]悠帆[nse]
+「あ……わたし……。航？　起きてる？」[pcms]
 
 *7762|
 [fc]
-[ns]Wataru[nse]
-"...Hmm. Yeah..."[pcms]
+[ns]航[nse]
+「……ん。うん……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7763|
 [fc]
 [vo_yuh s="yuho0922"]
-[ns]Yuuho[nse]
-"Wataru? Hey, are you okay?"[pcms]
+[ns]悠帆[nse]
+「航？　ねえ、大丈夫？」[pcms]
 
 *7764|
 [fc]
-[ns]Wataru[nse]
-"...Yeah... I'm fine. Why do you ask?"[pcms]
+[ns]航[nse]
+「……うん……大丈夫だよ。どうして？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7765|
 [fc]
 [vo_yuh s="yuho0923"]
-[ns]Yuuho[nse]
-"Ah... I was just... worried."[pcms]
+[ns]悠帆[nse]
+「あ……その、心配……だったから」[pcms]
 
 *7766|
 [fc]
-[ns]Wataru[nse]
-"Yeah, I'm fine. Thank you, Yuuho. ...Can I sleep a little[r]
-longer?"[pcms]
+[ns]航[nse]
+「うん、大丈夫だよ。ありがとう、悠帆。[r]
+　……もうちょっと寝かしてくれる？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7767|
 [fc]
 [vo_yuh s="yuho0924"]
-[ns]Yuuho[nse]
-"Ah, I'm sorry. Yes, if you're okay then that's good. Then,[r]
-sleep well, Wataru..."[pcms]
+[ns]悠帆[nse]
+「あ、ごめんなさい。うん、大丈夫ならいいの。[r]
+　じゃあ、眠ってね、航……」[pcms]
 
 *7768|
 [fc]
-[ns]Wataru[nse]
-"Yeah... Goodnight..."[pcms]
+[ns]航[nse]
+「うん……おやすみ……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7769|
 [fc]
 [vo_yuh s="yuho0925"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「……」[pcms]
 
 ;//se093・遠ざかる足音
 ;//[se buf=0 storage="se093"]
 
 *7770|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *7771|
 [fc]
-I'm sorry, Yuuho. Thank you for worrying about me. But I'm[r]
-no longer someone who deserves your concern.[pcms]
+ごめん。悠帆。ありがとう、心配してくれて。[r]
+でも、もうボクは、悠帆に心配して貰える人間じゃ[r]
+なくなっちゃったんだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7772|
 [fc]
 [vo_ren s="ren1052"]
-[ns]Ren[nse]
-"...Mmm...ah..."[pcms]
+[ns]漣[nse]
+「……んん……っ…………」[pcms]
 ;//○寝言です
 
 *7773|
 [fc]
-Next to me, Ren sleeps in her birth suit. Ren, my important[r]
-sister by marriage. I always intended to cherish her as a[r]
-sister.[pcms]
+ボクの横で、産まれたままの姿で眠っている漣。[r]
+義理とはいえ、大事な妹だった漣。[r]
+ずっと、妹として大切にするつもりだったんだよ。[pcms]
 
 *7774|
 [fc]
-Yet, I did such a thing with Ren, to Ren...[pcms]
+なのに、ボクは、漣と、漣にあんなことを……。[pcms]
 
 *7775|
 [fc]
-Father... I'm sorry. I took Ren's virginity. I stole the[r]
-first time of your precious daughter. Sorry, Father.[pcms]
+父さん……ごめん。漣の処女を貰っちゃったよ。[r]
+あなたの大事な娘の初めてを奪ったんだ。[r]
+ごめん、父さん。[pcms]
 
 *7776|
 [fc]
-Father... Why couldn't you have been alive? If only you were[r]
-alive, I could have remained siblings with Ren.[pcms]
+父さん……どうして生きていてくれなかったんだ。[r]
+父さんさえ生きていてくれれば、ボクは漣と兄妹で[r]
+いられたはずなんだよ。[pcms]
 
 *7777|
 [fc]
-Indeed, I've fantasized about the sight of Ren I saw just[r]
-now. But not just Ren. I fantasized about Yuuho too. I[r]
-masturbated using them as my inspiration.[pcms]
+確かにかいま見た漣の姿で妄想した事もあった。[r]
+でも、漣だけじゃない。悠帆でも……妄想した。[r]
+おかずにして、オナニーした。[pcms]
 
 *7778|
 [fc]
-But while I was conscious of Yuuho, I wasn't consciously[r]
-thinking of Ren as a woman...[pcms]
+でも、悠帆は意識していたけれど、漣を女として[r]
+意識していたわけじゃなかった……。[pcms]
 
 *7779|
 [fc]
-No, that's not right. I was aware of it. Because we weren't[r]
-real siblings, somewhere in my heart I knew it.[pcms]
+…………いや、違う。[r]
+意識していたんだ。本当の兄妹じゃないからって、[r]
+ボクは心のどこかで思っていたんだ。[pcms]
 
 *7780|
 [fc]
-[ns]Wataru[nse]
-"...Ugh..."[pcms]
+[ns]航[nse]
+「……っく……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7781|
 [fc]
 [vo_ren s="ren1053"]
-[ns]Ren[nse]
-"...Mmm... Brother..."[pcms]
+[ns]漣[nse]
+「……ん……おにぃ……」[pcms]
 ;//○寝言です
 
 *7782|
 [fc]
-Ren's temptation. Looking back now, maybe I wasn't quite[r]
-sane.[pcms]
+漣の誘惑。[r]
+今思えば、ちょっと正気じゃなかったかもしれない。[pcms]
 
 *7783|
 [fc]
-But following my desires, I pretended not to see and took up[r]
-Ren's temptation. By my own will.[pcms]
+でも、ボクは自分の欲望に従って、見ないふりをして[r]
+漣の誘惑に乗ったんだ。[r]
+自分の意志で。[pcms]
 
 *7784|
 [fc]
-Ren was always there for me. Even when our mother died and I[r]
-was so sad and broken, she supported me.[pcms]
+いつだって、漣はそばにいてくれた。[r]
+母さんが死んだあのときも、つらくて悲しくて[r]
+壊れそうだったボクを支えてくれた。[pcms]
 
 *7785|
 [fc]
-Instead of our mother, it was Ren who took care of me all[r]
-this time and enveloped me warmly.[pcms]
+母さんの代わりに、いままでボクの世話を焼いてくれて[r]
+暖かく包んでくれていたのは、漣だった。[pcms]
 
 *7786|
 [fc]
-That Ren desired me as a "man." I intended to respond to Ren[r]
-as a "man" because even within me, I desired Ren as a[r]
-"woman."[pcms]
+その漣が、ボクを『オトコ』として、求めた。[r]
+ボクは、『オトコ』として漣に答えたつもりだ。[r]
+ボクの中でも、漣を『オンナ』として求めていたから。[pcms]
 
 *7787|
 [fc]
-That's right, Father. Even if you were alive, I think Ren[r]
-and I would have ended up like this eventually.[pcms]
+そうだね……父さん。[r]
+父さんが生きていてくれても、きっとボクと漣は[r]
+いつかこうなっていたんだろうと、今は思うよ。[pcms]
 
 *7788|
 [fc]
-Now that Father is gone, Ren and I have no one else. We have[r]
-to live together from now on.[pcms]
+父さんがいない今、ボクにも漣にも身寄りがない。[r]
+この先はふたりで生きていくしかないんだよね。[pcms]
 
 *7789|
 [fc]
-I will definitely protect Ren. I will protect her for a[r]
-lifetime. We will live together.[pcms]
+絶対に漣はボクが守るから。[r]
+一生をかけて、漣を守るから。一緒に生きて行くから。[pcms]
 
 *7790|
 [fc]
-So please, Father. Forgive us for what we've done...[pcms]
+だから、父さん。ボクと漣の事、許してください……。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

@@ -16,121 +16,117 @@
 
 *1929|
 [fc]
-I followed my senior's advice and thrust the mop towards the[r]
-man's side without thinking.[pcms]
+ボクは先輩のアドバイスどおりに、何も考えずに[r]
+横っ腹めがけてモップを突き出した。[pcms]
 
 *1930|
 [fc]
-I will never forget the sensation I felt at that moment.[pcms]
+ボクはこのときの感触を一生忘れないだろう。[pcms]
 
 *1931|
 [fc]
-Just as I thought the handle I thrust had dug into the man's[r]
-stomach, he lost his balance and fell over splendidly.[pcms]
+ボクが突き出した柄の先が男の腹に食い込んだかと思うと、[r]
+男は見事にバランスを崩して倒れこんだ。[pcms]
 
 *1932|
 [fc]
-However, the man had been sticking out more than half of his[r]
-body through a hole made by broken glass.[pcms]
+だけど、相手は割ったガラスにできた穴から体を半分以上[r]
+突き出していた。[pcms]
 
 *1933|
 [fc]
-The remaining shards of glass stabbed into the man, and the[r]
-smell of blood thickly wafted through the air.[pcms]
+割れ残ったガラスが男に突き刺さり、[r]
+辺りには血臭が濃く漂う。[pcms]
 
 *1934|
 [fc]
-I had taken down several infected in front of the music room[r]
-as well.[pcms]
+音楽室の前でも何人も感染者を倒した。[pcms]
 
 *1935|
 [fc]
-I had seen tragedies multiple times, and even at this[r]
-moment, if I looked down from the catwalk, I couldn't help[r]
-but see them.[pcms]
+惨劇は、何度も目にしていたし、今この瞬間にも、[r]
+キャットウォークから下を覗けば、イヤでも目に入る。[pcms]
 
 *1936|
 [fc]
-But the ones I took down in front of the music room weren't[r]
-injured like this, and the tragedies were caused by someone[r]
-else's hand.[pcms]
+でも音楽室前で倒したヤツラはこんな風に怪我を[r]
+していなかったし、惨劇は他人の手によるものだった。[pcms]
 
 *1937|
 [fc]
-The bloody state of the man before me was something I had[r]
-created.[pcms]
+今目の前で血まみれになっている男の惨状は、[r]
+このボクが作り出したんだ。[pcms]
 
 *1938|
 [fc]
-He seems not to feel pain because he's struggling, and it[r]
-seems like he's still alive, but that makes it all the more[r]
-terrifying.[pcms]
+もがいているから痛みを感じていないみたいだし、[r]
+生きていてくれているみたいだけれども、それが[r]
+逆に恐ろしいものに感じる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1939|
 [fc]
 [vo_yuh s="yuho0156"]
-[ns]Yuuho[nse]
-"Wataru!"[pcms]
+[ns]悠帆[nse]
+「航っ！」[pcms]
 
 *1940|
 [fc]
-The one who saved me from the nausea that suddenly hit was[r]
-Yuuho's voice.[pcms]
+思わず吐き気が起こったボクを救い出してくれたのは、[r]
+悠帆の声だった。[pcms]
 
 *1941|
 [fc]
-That's right. There's no time to be shocked by something[r]
-like this.[pcms]
+そうだ。こんなことにショックを感じてる暇なんかない。[pcms]
 
 *1942|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, are you okay?!"[pcms]
+[ns]航[nse]
+「悠帆、大丈夫かっ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1943|
 [fc]
 [vo_yuh s="yuho0157"]
-[ns]Yuuho[nse]
-"I'm okay... I'm okay. Wataru... thank you for coming to[r]
-save me."[pcms]
+[ns]悠帆[nse]
+「大丈夫……大丈夫よ。[r]
+　航……助けに来てくれてありがとう」[pcms]
 
 *1944|
 [fc]
-[ns]Wataru[nse]
-"Of course? I'm going to open the window now."[pcms]
+[ns]航[nse]
+「当たり前だろう？　今、窓を開けてやるからな」[pcms]
 
 *1945|
 [fc]
-I leaped to the window next to where the man had fallen and[r]
-opened it.[pcms]
+男が倒れこんでいるままの窓の横にある窓に飛びついて、[r]
+ボクはそれを開けた。[pcms]
 
 *1946|
 [fc]
-[ns]Wataru[nse]
-"Can you come this way?"[pcms]
+[ns]航[nse]
+「こっちにこれるか？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1947|
 [fc]
 [vo_yuh s="yuho0158"]
-[ns]Yuuho[nse]
-"Y-yeah... somehow."[pcms]
+[ns]悠帆[nse]
+「う、うん……なんとか」[pcms]
 
 *1948|
 [fc]
-While we were taking a detour, she had managed to move a bit[r]
-from where she slipped, so it seems I won't have to climb[r]
-onto the roof after all.[pcms]
+ボクらが回り道をしている間に、足を滑らした場所から[r]
+少し移動していておいてくれたおかげで、[r]
+どうやらボクが屋根に上らなくても大丈夫なようだ。[pcms]
 
 *1949|
 [fc]
-Yuuho stood up unsteadily, maintaining a precarious balance[r]
-as she slowly but surely approached me.[pcms]
+よろよろと立ち上がって、危ういバランスを[r]
+取りながら悠帆はゆっくりと確実にボクに近づいてくる。[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢
@@ -144,15 +140,14 @@ as she slowly but surely approached me.[pcms]
 
 
 ;	[link storage="B_F2.ks" target=*B_F2_TOP]悠帆に手をさしのべる[endlink]
-; (link storage="30240.ks" target=*30240_TOP)Be wary of the[r]
-infected(endlink)[pcms]
+;	[link storage="30240.ks" target=*30240_TOP]感染者を警戒[endlink][s]
 
 *SEL27|悠帆に手をさしのべる／感染者を警戒
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Extend a hand to Yuuho'"]
-[eval exp="f.seltext04 = 'Be cautious of the infected'"]
+[eval exp="f.seltext02 = '悠帆に手をさしのべる'"]
+[eval exp="f.seltext04 = '感染者を警戒'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

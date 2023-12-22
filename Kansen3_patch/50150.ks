@@ -1,9 +1,9 @@
 ;//block:A006
-;//ブロック５０１５０『地上ＬＡＳＥＲへ』
+;//ブロック５０１５０『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50150_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：ＬＡＳＥＲ階段
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣・航
@@ -19,27 +19,25 @@
 
 *922|
 [fc]
-While keeping a lookout, we carefully ascend the stairs.[r]
-Leading the way is Kousuke, followed by Yuuho, Ren, me, and[r]
-then Senior Maruko.[pcms]
+辺りを警戒しながら、慎重に階段を上がる。[r]
+先頭はコースケ、続けて悠帆、漣、ボク、マル子先輩の順だ。[pcms]
 
 *923|
 [fc]
 [vo_yuh s="yuho1498"]
-[ns]Yuuho[nse]
-"...Huh?"[pcms]
+[ns]悠帆[nse]
+「……あれ？」[pcms]
 ;//＠扉に気付く
 
 *924|
 [fc]
-When we reached the landing on the second floor, Yuuho[r]
-suddenly stopped.[pcms]
+２Ｆの踊り場まで来た時、悠帆が急に立ち止まった。[pcms]
 
 *925|
 [fc]
 [vo_yuh s="yuho1499"]
-[ns]Yuuho[nse]
-"Wait a moment."[pcms]
+[ns]悠帆[nse]
+「ちょっと待ってて」[pcms]
 ;//＠扉に近付く
 
 ;//se040・ドアノブ回す
@@ -47,36 +45,37 @@ suddenly stopped.[pcms]
 
 *926|
 [fc]
-Yuuho approached the fire door that separates the landing[r]
-from the shops, gently turned the knob, and looked back at[r]
-us.[pcms]
+踊り場と店舗とを遮断している防火扉に近付いた悠帆は、[r]
+そっとノブを回して、ボクたちを振り返る。[pcms]
 
 *927|
 [fc]
 [vo_yuh s="yuho1500"]
-[ns]Yuuho[nse]
-"Ah, just as I thought! The second floor isn't locked!"[pcms]
+[ns]悠帆[nse]
+「ああ、やっぱり！[r]
+　２Ｆは鍵かかってないよ！」[pcms]
 ;//＠２階（かい）と読んでください
 
 *928|
 [fc]
-The fire door on the first floor was locked, but the one on[r]
-the second floor was only secured with a stopper and wasn't[r]
-locked.[pcms]
+１Ｆの防火扉は施錠されていたけれど、[r]
+２Ｆの扉はストッパーが降ろされただけで、[r]
+鍵はかかっていなかった。[pcms]
 
 *929|
 [fc]
-[ns]Kousuke[nse]
-"Then, let's take a quick look inside."[pcms]
+[ns]浩助[nse]
+「んじゃ、ちょっと中を見てみるか」[pcms]
 
 *930|
 [fc]
-Kousuke eagerly opened the door.[pcms]
+妙にいそいそとコースケが扉を開いた。[pcms]
 
 *931|
 [fc]
-...I know the reason. This is Tengudo Music Store. Kousuke[r]
-would definitely want to check it out.[pcms]
+……理由はわかってる。[r]
+ここにあるのは天狗堂楽器店。[r]
+コースケなら絶対に確認したくなるだろう。[pcms]
 
 ;//@konya 天狗堂楽器店
 [bg storage="BGS004a"][trans_c cross time=500]
@@ -86,143 +85,144 @@ would definitely want to check it out.[pcms]
 
 *932|
 [fc]
-[ns]Kousuke[nse]
-"...Nobody's here."[pcms]
+[ns]浩助[nse]
+「……誰もいねーな」[pcms]
 
 *933|
 [fc]
-[ns]Wataru[nse]
-"...Seems like it."[pcms]
+[ns]航[nse]
+「……みたいだね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *934|
 [fc]
 [vo_yuh s="yuho1501"]
-[ns]Yuuho[nse]
-"The commotion happened before the store opened."[pcms]
+[ns]悠帆[nse]
+「騒ぎが起きたの、開店前だったからね」[pcms]
 
 *935|
 [fc]
-We peek into the store floor by just sticking our heads out.[pcms]
+顔だけ突き出すようにして店内フロアを覗いてみる。[pcms]
 
 *936|
 [fc]
-There's no sign of people, but the lights are on...[pcms]
+人の気配はないけれど、明かりは点いている……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *937|
 [fc]
-[ns]Kousuke[nse]
-"Well then, let me just check if my precious CDJs are[r]
-safe..."[pcms]
+[ns]浩助[nse]
+「んじゃ、ちょっくら、[r]
+　オレ様のＣＤＪが無事かどうか、確認をば……」[pcms]
 
 *938|
 [fc]
-Kousuke is about to enter the floor with a spring in his[r]
-step.[pcms]
+コースケは浮き足立ってフロアに入ろうとする。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *939|
 [fc]
 [vo_yuh s="yuho1502"]
-[ns]Yuuho[nse]
-"We can come back later! Come on!"[pcms]
+[ns]悠帆[nse]
+「後で来ればいいでしょっ！　ほらっ！」[pcms]
 ;//＠ほらっ、のところでコースケの耳をひっぱる
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *940|
 [fc]
-[ns]Kousuke[nse]
-"Ow ow ow! That hurts!"[pcms]
+[ns]浩助[nse]
+「ててっ！？　いってぇぇっ！？」[pcms]
 
 *941|
 [fc]
-Yuuho quickly grabs his ear and drags him back to continue[r]
-up the stairs.[pcms]
+すかさず悠帆が耳を引っ張って、[r]
+引き摺るようにして、再び階段を上り始めた。[pcms]
 
 ;//@konya 暗転、黒背景
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *942|
 [fc]
-Third floor... Fourth floor...[pcms]
+３Ｆ……４Ｆ……。[pcms]
 
 *943|
 [fc]
-Just like on the second floor, the fire doors on both floors[r]
-were not locked. The situation was also similar in that[r]
-there was no one around.[pcms]
+どちらも２Ｆと同じように、防火扉は施錠されていない。[r]
+無人だという点でも、２Ｆと同様の状況だった。[pcms]
 
 *944|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「あれ？」[pcms]
 
 *945|
 [fc]
-At the fifth-floor landing, I tried to open the fire door[r]
-and felt something different, tilting my head in confusion.[pcms]
+５Ｆの踊り場で、同じように防火扉を開けようとしたボクは[r]
+手ごたえの違いに首をかしげた。[pcms]
 
 ;//se041・ドアノブがちゃがちゃ
 [se buf=0 storage="se041"]
 
 *946|
 [fc]
-[ns]Wataru[nse]
-"This one won't open..."[pcms]
+[ns]航[nse]
+「ここだけ開かない……」[pcms]
 
 *947|
 [fc]
-The knob only rattles without opening... it's locked.[pcms]
+ノブを回してもガチャガチャと音がするだけで開かない。[r]
+……鍵がかかっている。[pcms]
 
 *948|
 [fc]
 [vo_ren s="ren1345"]
-[ns]Ren[nse]
-"Sniff... Even though it's a manga cafe."[pcms]
+[ns]漣[nse]
+「くすん……。漫画喫茶なのに」[pcms]
 
 *949|
 [fc]
-[ns]Kousuke[nse]
-"But hey, if it's locked, that means"[pcms]
+[ns]浩助[nse]
+「でもよ、鍵がかかってるってことは」[pcms]
 
 *950|
 [fc]
 [vo_mar s="maru1383"]
-[ns]Margarita[nse]
-"Ah. There's a high chance someone is inside."[pcms]
+[ns]マルガリータ[nse]
+「ああ。内側に誰かがいる可能性が高い」[pcms]
 
 *951|
 [fc]
-The act of locking oneself in doesn't seem like their doing.[r]
-In other words, there might be people inside...[pcms]
+わざわざ閉じ篭って鍵をかけるなんていう行動は[r]
+ヤツラの仕業とは思えない。[r]
+つまり、人間がいる……っていうことだ。[pcms]
 
 *952|
 [fc]
 [vo_yuh s="yuho1503"]
-[ns]Yuuho[nse]
-"Let's call out to them!"[pcms]
+[ns]悠帆[nse]
+「呼んでみようよ！」[pcms]
 
 *953|
 [fc]
 [vo_mar s="maru1384"]
-[ns]Margarita[nse]
-"Understood. I'll call out, so stay back. Don't move until I[r]
-give a signal."[pcms]
+[ns]マルガリータ[nse]
+「分かった。[r]
+　ワタシが声をかけるから、下がっていてくれ。[r]
+　合図をするまでは動くな」[pcms]
 
 *954|
 [fc]
-We step back to the rear of the landing, leaving Senior[r]
-Margarita with her gun ready.[pcms]
+ボクたちは、銃を構えた先輩を残して[r]
+踊り場の後方に下がった。[pcms]
 
 *955|
 [fc]
-Senior Margarita presses herself against the wall and knocks[r]
-on the door deliberately.[pcms]
+壁際にぴたりと身を寄せた先輩は[r]
+おもむろに扉をノックする。[pcms]
 
 ;//se005・ドアノック
 [se buf=0 storage="se005"]
@@ -230,83 +230,83 @@ on the door deliberately.[pcms]
 *956|
 [fc]
 [vo_mar s="maru1385"]
-[ns]Margarita[nse]
-"Is anyone there... Is there no one?"[pcms]
+[ns]マルガリータ[nse]
+「誰か……誰かいないのか？」[pcms]
 ;//★瑞樹ＺＡＰ４との整合性お願いします。
 
 *957|
 [fc]
-After calling out, we wait silently as Senior Margarita[r]
-listens intently at the door.[pcms]
+呼びかけたあと、扉に張り付いて耳を澄ませる先輩を、[r]
+ボクたちはじっと待ち続ける。[pcms]
 
 *958|
 [fc]
-[ns]Wataru[nse]
-"How is it? Any response?"[pcms]
+[ns]航[nse]
+「どうですか？　返事は？」[pcms]
 
 *959|
 [fc]
 [vo_mar s="maru1386"]
-[ns]Margarita[nse]
-"...No, I can't hear anything."[pcms]
+[ns]マルガリータ[nse]
+「……いや、何も聞こえない」[pcms]
 
 *960|
 [fc]
-After a while, Senior Margarita steps away from the door,[r]
-tilting her head suspiciously.[pcms]
+しばらくして先輩は扉から離れたが[r]
+不審そうに首を傾げている。[pcms]
 
 *961|
 [fc]
 [vo_mar s="maru1387"]
-[ns]Margarita[nse]
-"However... I sense a strange atmosphere. It's likely not[r]
-them but rather a human presence. Something about it...[r]
-doesn't sit right with me."[pcms]
+[ns]マルガリータ[nse]
+「ただ……妙な空気を感じる。[r]
+　おそらくはヤツラではなく、人間の発する気配だと思うが。[r]
+　どうも……気に入らない匂いだ」[pcms]
 
 *962|
 [fc]
 [vo_yuh s="yuho1504"]
-[ns]Yuuho[nse]
-"Hmm. If Senior Maruko with her danger sensor says so, then[r]
-we should probably leave this be."[pcms]
+[ns]悠帆[nse]
+「うーん。[r]
+　危険センサーのマル子先輩がそう言うなら[r]
+　ここは、やめておこうよ」[pcms]
 
 *963|
 [fc]
-[ns]Kousuke[nse]
-"What's that supposed to mean, 'sensor'?"[pcms]
+[ns]浩助[nse]
+「何だよ、その、センサーってのは」[pcms]
 
 *964|
 [fc]
 [vo_mar s="maru1388"]
-[ns]Margarita[nse]
-"...Staying here won't get us anywhere. Let's head for our[r]
-original objective first."[pcms]
+[ns]マルガリータ[nse]
+「……こうしていてもラチが開かない。[r]
+　まず、当初の目的を目指そう」[pcms]
 
 *965|
 [fc]
 [vo_yuh s="yuho1505"]
-[ns]Yuuho[nse]
-"So, to the seventh floor then."[pcms]
+[ns]悠帆[nse]
+「じゃ、７Ｆだね」[pcms]
 
 *966|
 [fc]
-After a quiet discussion, we once again aim for higher[r]
-floors.[pcms]
+小声での相談がまとまって、再びボクたちは上を目指す。[pcms]
 
 *967|
 [fc]
-I wonder why only the fifth floor was locked. It's[r]
-concerning, but...[pcms]
+それにしても、どうして５Ｆだけ鍵がかかってたんだろう。[r]
+気にはなるけれど……。[pcms]
 
 *968|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *969|
 [fc]
-I redirect my gaze from the fire door and follow after[r]
-everyone else.[pcms]
+防火扉に向きそうになる視線を前に戻して[r]
+ボクもみんなの後を追った。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

@@ -23,227 +23,226 @@
 *160|
 [fc]
 [vo_mar s="maru0065"]
-[ns]Margarita[nse]
-"Wait."[pcms]
+[ns]マルガリータ[nse]
+「待て」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *161|
 [fc]
-Just as I was about to dash towards the music room, I was[r]
-held back and looked at my senior with dissatisfaction.[pcms]
+すぐにでもと、音楽室に向かって飛び出そうとしたのに[r]
+押し留められ、ボクは不満げに先輩を見た。[pcms]
 
 *162|
 [fc]
-But the senior silently directed her gaze down the corridor[r]
-leading to the music room.[pcms]
+けれど、先輩は無言で音楽室へと続く廊下へと[r]
+視線を向けた。[pcms]
 
 *163|
 [fc]
-The third floor, which I peeked at quietly, was more crowded[r]
-with people than ever before.[pcms]
+そっと覗いた３階は今まで以上に人が[r]
+あふれかえっていた。[pcms]
 
 *164|
 [fc]
-Or rather, should I say it was overflowing with infected[r]
-people?[pcms]
+いや、感染者であふれかえっていたと[r]
+言い換えたほうがいいだろうか？[pcms]
 
 *165|
 [fc]
-Fortunately, the other infected were preoccupied with[r]
-devouring each other and hadn't noticed us.[pcms]
+幸いなことに他の感染者同士で互いを貪りあうように、[r]
+していて、ボクらには気づいていない。[pcms]
 
 *166|
 [fc]
-For a moment, I looked for an escape route down the stairs,[r]
-but I could hear groaning coming from below.[pcms]
+一瞬、逃げ道を探るように階段を見ると、下から[r]
+うめき声が聞こえてくる。[pcms]
 
 *167|
 [fc]
-Perhaps the infected person who was only kicked by my senior[r]
-had come back to life.[pcms]
+先輩に蹴られただけの感染者が息を[r]
+吹き返したのかもしれない。[pcms]
 
 *168|
 [fc]
-The top floor has a handball court and a basketball court on[r]
-the rooftop.[pcms]
+上はハンドボールや、[r]
+バスケットのコートがある屋上。[pcms]
 
 *169|
 [fc]
-Of course, it's covered with fences, but it's not impossible[r]
-to escape to another building by climbing along the roof.[pcms]
+当然フェンスで覆われてはいるけれど、[r]
+屋根伝いに別校舎へ逃げられなくもない。[pcms]
 
 *170|
 [fc]
-But whether Ren and I could escape through such a place...[r]
-no, that's a worry for after we rescue Ren from the music[r]
-room![pcms]
+でも、ボクや先輩だけならともかく、[r]
+漣とそんな所を逃げられるかどうか……いや、[r]
+そんな心配は漣を音楽室から救い出してからだっ！[pcms]
 
 *171|
 [fc]
-[ns]Wataru[nse]
-"We have to hurry and save Ren!"[pcms]
+[ns]航[nse]
+「早く、漣を助けないとっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *172|
 [fc]
 [vo_mar s="maru0066"]
-[ns]Margarita[nse]
-"Wait, can't you see those guys right in front of us?"[pcms]
+[ns]マルガリータ[nse]
+「待て、目の前のヤツラが目に見えないのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *173|
 [fc]
-[ns]Wataru[nse]
-"I can see them. That's exactly why I'm worried about Ren!"[pcms]
+[ns]航[nse]
+「見えてるさ。見えてるからこそ、漣が[r]
+　心配なんだっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *174|
 [fc]
 [vo_mar s="maru0067"]
-[ns]Margarita[nse]
-"Look at the situation!"[pcms]
+[ns]マルガリータ[nse]
+「状況を見ろっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *175|
 [fc]
-[ns]Wataru[nse]
-"I know. In front of us is a horde of them! The music room[r]
-where Ren is... is beyond them. But that's exactly why we[r]
-have to go!"[pcms]
+[ns]航[nse]
+「わかってるさ。目の前にはヤツラの群れ！[r]
+　漣がいる音楽室はヤツラの向こう……。[r]
+　でもだからこそ行かなきゃ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *176|
 [fc]
 [vo_mar s="maru0068"]
-[ns]Margarita[nse]
-"Recklessness and bravery are not the same."[pcms]
+[ns]マルガリータ[nse]
+「無謀と勇敢は違うぞ」[pcms]
 
 *177|
 [fc]
-[ns]Wataru[nse]
-"The bottom is no good, the only escape route is to flee[r]
-along the rooftop. But we have to go. Because Ren is there."[pcms]
+[ns]航[nse]
+「下はダメ、逃げ道は屋上を伝って逃げるしかない。[r]
+　でも行くしかない。漣があそこにいるんだから」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *178|
 [fc]
 [vo_mar s="maru0069"]
-[ns]Margarita[nse]
-"Hmph. I thought you were too peace-loving, but you're[r]
-sensible. It's basic to check the escape routes first."[pcms]
+[ns]マルガリータ[nse]
+「ふん。平和ボケしてるかと思えば、まともだな。[r]
+　真っ先に逃走経路を確認しておくのは、基本だ」[pcms]
 
 *179|
 [fc]
-With a slight smile, my senior looked in the opposite[r]
-direction of the music room and skillfully took out a mop[r]
-from the janitor's closet in the hallway while watching for[r]
-an opening.[pcms]
+口角を少し上げて笑った先輩は、音楽室とは逆の方向を見ると、[r]
+ヤツらのスキを窺って、廊下にあった掃除用具入れの[r]
+ロッカーからモップを取り出した。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *180|
 [fc]
 [vo_mar s="maru0070"]
-[ns]Margarita[nse]
-"Is it made of plastic? Isn't there a mop with a wooden[r]
-handle?"[pcms]
+[ns]マルガリータ[nse]
+「プラスチック製か。木の柄のモップはないのか？」[pcms]
 
 *181|
 [fc]
-[ns]Wataru[nse]
-"I've never seen a wooden mop."[pcms]
+[ns]航[nse]
+「木のモップなんて、見たことないよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *182|
 [fc]
 [vo_mar s="maru0071"]
-[ns]Margarita[nse]
-"Really... Plastic is too soft to be useful as a weapon."[pcms]
+[ns]マルガリータ[nse]
+「まったく……プラスチック製じゃ柔すぎて[r]
+　武器として役に立たないじゃないか」[pcms]
 
 *183|
 [fc]
-[ns]Wataru[nse]
-"That's why... isn't it? Our school isn't like that, but[r]
-I've heard stories about delinquents causing trouble in[r]
-other places in the past."[pcms]
+[ns]航[nse]
+「だから……じゃないかな？　うちの学園は[r]
+　そうでもないけど、他の所では昔は結構不良が[r]
+　暴れたって話聞いたことあるし」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *184|
 [fc]
 [vo_mar s="maru0072"]
-[ns]Margarita[nse]
-"Now instead of delinquents, we have these unknown creatures[r]
-causing havoc."[pcms]
+[ns]マルガリータ[nse]
+「今は不良のかわりに、[r]
+　得体の知れないヤツラが暴れてるがな」[pcms]
 
 *185|
 [fc]
-While smiling thinly, she took a mop in one hand, fixed the[r]
-wiping part with her foot, and deftly unscrewed the handle[r]
-with a twirl.[pcms]
+薄く笑いながらモップを一本手に取ると、[r]
+その拭く部分を足で固定して、器用に柄の部分を[r]
+クルクルと外した。[pcms]
 
 *186|
 [fc]
-[ns]Infected Man A[nse]
-"A woman... a woman."[pcms]
+[ns]感染者・男Ａ[nse]
+「女……女だ」[pcms]
 
 *187|
 [fc]
 [vo_mob s="joshigaku10003"]
-[ns]Infected Female Student E[nse]
-"A man... there's also a man."[pcms]
+[ns]感染者・女学生Ｅ[nse]
+「男……男もいるわぁ」[pcms]
 
 *188|
 [fc]
-One of the men who had been vigorously moving his hips stood[r]
-up unsteadily as if he had caught the scent of my senior.[pcms]
+盛んに腰を動かしていた男の一人が、先輩の匂いを[r]
+嗅ぎつけたようにゆらりと立ち上がった。[pcms]
 
 *189|
 [fc]
-The female student who had been with the man followed[r]
-suit...[pcms]
+それに続いて男の相手をしていた女子学生も……。[pcms]
 
 *190|
 [fc]
-In a panic, I also grabbed a mop and held it firmly.[pcms]
+ボクも慌ててモップを取ると、しっかりと構える。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *191|
 [fc]
 [vo_mar s="maru0073"]
-[ns]Margarita[nse]
-"It would be better to use just the handle... but it can't[r]
-be helped. You can't use staff or spear techniques, can[r]
-you?"[pcms]
+[ns]マルガリータ[nse]
+「柄だけにしたほうがいいんだが……[r]
+　しかたがないな。お前は杖術も槍術も[r]
+　使えないだろう？」[pcms]
 
 *192|
 [fc]
-[ns]Wataru[nse]
-"Staff techniques? Spear techniques?"[pcms]
+[ns]航[nse]
+「じょ、じょうじゅつ？　そうじゅつ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *193|
 [fc]
 [vo_mar s="maru0074"]
-[ns]Margarita[nse]
-"Combat techniques using a staff or spear. Anyway, you just[r]
-need to aim straight for the belly and chest with the end of[r]
-the handle. Even you can do that much, right?"[pcms]
+[ns]マルガリータ[nse]
+「杖や槍を使った格闘術だ。とにかくお前は[r]
+　柄の先で腹と胸をできるだけまっすぐにつけ。[r]
+　それくらいなら、お前でもできるだろ？」[pcms]
 
 *194|
 [fc]
-[ns]Wataru[nse]
-"Yes!"[pcms]
+[ns]航[nse]
+「は、はいっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=178 y=0][trans_c cross time=150]
 
@@ -253,16 +252,16 @@ the handle. Even you can do that much, right?"[pcms]
 
 *195|
 [fc]
-[ns]Infected Man A[nse]
-"Ughh!"[pcms]
+[ns]感染者・男Ａ[nse]
+「うぐぅっ！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 ;mm こっちにテキスト移動
 *197|
 [fc]
-While giving me pointers, she quickly took down the[r]
-attacking man by thrusting him with the end of the mop.[pcms]
+ボクに注意点を与えながら、即座に襲ってくる男を[r]
+モップの先で突いて倒していく。[pcms]
 
 
 [ChrSetEx layer=5 chbase="kansen_a"][ChrSetXY layer=5 x=148 y=0][trans_c cross time=150]
@@ -274,64 +273,64 @@ attacking man by thrusting him with the end of the mop.[pcms]
 *196|
 [fc]
 [vo_mob s="onna_iti0003"]
-[ns]Infected Woman A[nse]
-"Gyah!"[pcms]
+[ns]感染者・女Ａ[nse]
+「ぎゃんっ！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 ;	*197|
-; While giving me pointers, she quickly took down the[r]
-attacking man by ; thrusting him with the end of the mop.[pcms]
+;	ボクに注意点を与えながら、即座に襲ってくる男を[r]
+;	モップの先で突いて倒していく。[pcms]
 
 *198|
 [fc]
-Of course, she showed no mercy even to the girls.[pcms]
+もちろん、女の子にも容赦はしない。[pcms]
 
 *199|
 [fc]
-I followed behind my senior, aiming mostly at men and taking[r]
-them down, but her efficiency was amazing.[pcms]
+ボクも先輩の後ろについて、できるだけ男を[r]
+狙って倒してるけど、先輩の手際のよさは凄かった。[pcms]
 
 *200|
 [fc]
-I felt there was more than just the difference between[r]
-someone who knew combat techniques and someone who didn't.[pcms]
+格闘の術を知ってる者と知らない者の差だけじゃ[r]
+ないものを感じる。[pcms]
 
 *201|
 [fc]
-Compared to my senior who almost single-handedly took them[r]
-down without even letting them scream, I had to thrust two[r]
-or three times before they would even fall over.[pcms]
+先輩がほぼ一突きで悲鳴らしい悲鳴さえ上げさせずに[r]
+打ち倒していくのに比べて、ボクは２回も３回も[r]
+突かなきゃ転がりもしない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *202|
 [fc]
 [vo_mar s="maru0075"]
-[ns]Margarita[nse]
-"You focus on finishing off those I've knocked down."[pcms]
+[ns]マルガリータ[nse]
+「お前はワタシが転がしたヤツにトドメをさす事に集中しろ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *203|
 [fc]
-[ns]Wataru[nse]
-"Finish them off?"[pcms]
+[ns]航[nse]
+「と、トドメ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *204|
 [fc]
 [vo_mar s="maru0076"]
-[ns]Margarita[nse]
-"Come on, let's go."[pcms]
+[ns]マルガリータ[nse]
+「ほら、行くぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *205|
 [fc]
-[ns]Wataru[nse]
-"Whoa, yes!"[pcms]
+[ns]航[nse]
+「うわぁああ、はいっ！」[pcms]
 
 ;//BG：学園内廊下
 [bg storage="BG017"][trans_c cross time=500]
@@ -340,8 +339,8 @@ or three times before they would even fall over.[pcms]
 
 *206|
 [fc]
-[ns]Infected Man B[nse]
-"Forget that stuff, let's do something nice."[pcms]
+[ns]感染者・男Ｂ[nse]
+「そんなの捨てて、いいコトしようぜ」[pcms]
 
 [se buf=0 storage="se012"]
 
@@ -352,9 +351,9 @@ or three times before they would even fall over.[pcms]
 *207|
 [fc]
 [vo_mob s="jogaku2_0003"]
-[ns]Infected Female Student F[nse]
-"It feels good. Hey, you want to be thrust into like this,[r]
-don't you?"[pcms]
+[ns]感染者・女学生Ｆ[nse]
+「気持ちいいわよぉ。ねぇ、こんな風に[r]
+　ズボズボされたいでしょう？」[pcms]
 
 [se buf=0 storage="se012"]
 
@@ -365,178 +364,178 @@ don't you?"[pcms]
 
 *208|
 [fc]
-As if paving a road to death, my senior took down one after[r]
-another of those attacking us.[pcms]
+まるで死路を築くように、先輩は次々に[r]
+襲いかかってくるヤツラを倒して行った。[pcms]
 
 *209|
 [fc]
-The distance that would normally take just a dozen seconds[r]
-to walk felt absurdly long.[pcms]
+普段は歩いてたって十数秒で着くはずの距離が[r]
+やたらと長く感じる。[pcms]
 
 *210|
 [fc]
-Fortunately, even if I just knocked them down, it took them[r]
-some time to get back up.[pcms]
+幸い、転ばせただけでも起き上がってくるのに[r]
+時間はかかる。[pcms]
 
 *211|
 [fc]
-By skillfully knocking down those of the opposite sex[r]
-nearby, they would stop chasing us and start having sex[r]
-right there on the spot.[pcms]
+その近くに異性をうまく転ばせるようにすると、[r]
+ボクらを追いかけるのもやめて、その場で[ruby text="・"]シ始める。[pcms]
 
 *212|
 [fc]
-There were some male students among them, but essentially,[r]
-the outsiders here were mostly old men.[pcms]
+中には男子学生もいたけれど、基本的にここに[r]
+いたのは部外者のおっさんたちだった。[pcms]
 
 *213|
 [fc]
-And... most of the girls were students from our academy.[pcms]
+そして……[r]
+女の子のほうは殆どがうちの学園の学生だ。[pcms]
 
 *214|
 [fc]
-It felt like a guilty burden, as if we were offering the[r]
-girls up as sacrifices to these old men, but they were[r]
-already infected and it's what they desired.[pcms]
+まるで、女の子をイケニエのようにおっさん達に[r]
+差し出してるような気がして心苦しかったけれど、[r]
+もう彼女らは感染してしまっているし、本人が望んでる。[pcms]
 
 *215|
 [fc]
-No, I don't really know if that's true.[pcms]
+いや、本当の所はどうだかわからない。[pcms]
 
 *216|
 [fc]
-But, using that as an excuse to convince myself, we[r]
-continued towards the music room.[pcms]
+けど、それを自分が納得するための言い訳にして[r]
+ボクたちは音楽室へと進んでいった。[pcms]
 
 *217|
 [fc]
-However, the closer we got to the music room, the more it[r]
-seemed like a scene from hell or paradise, I couldn't tell[r]
-which, but it was a massive orgy.[pcms]
+けれど音楽室の近くへ行こうとすればするほど、[r]
+そこは地獄絵図なのか、極楽絵図なのかわからない[r]
+けれど、大乱交状態だった。[pcms]
 
 *218|
 [fc]
-Everywhere there were girls taking on several men by[r]
-themselves, or men taking on several women...[pcms]
+あちこちで一人で何人もの男を相手にしてる女の子や、[r]
+逆に何人もの女を相手にしている男……。[pcms]
 
 *219|
 [fc]
-And they were quickly switching partners one after another.[pcms]
+そして、すぐに相手を変えて次々に交わっていく。[pcms]
 
 *220|
 [fc]
-It was like a mass of dumplings or a wall of flesh; I[r]
-couldn't quite understand it, but it didn't seem easy to get[r]
-into the music room.[pcms]
+それはまるで団子というか、肉壁というか[r]
+よくわからなかったけれど、ちょっとやそっとじゃ[r]
+音楽室の中へは入れそうになかった。[pcms]
 
 *221|
 [fc]
-However, the fact that the door was closed meant there was a[r]
-possibility that no infected had gotten inside yet.[pcms]
+ただ、扉が閉まっているということは、中にはまだ[r]
+感染者が入っていない可能性がある。[pcms]
 
 *222|
 [fc]
-Seeing this glimmer of hope, I spoke to my senior.[pcms]
+僅かな希望が見えた事で、先輩に話しかけた。[pcms]
 
 *223|
 [fc]
-But...[pcms]
+だけど……。[pcms]
 
 *224|
 [fc]
-[ns]Wataru[nse]
-"Senior, we're almost there."[pcms]
+[ns]航[nse]
+「先輩、もう少しです」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *225|
 [fc]
 [vo_mar s="maru0077"]
-[ns]Margarita[nse]
-"No, it's impossible to go any further."[pcms]
+[ns]マルガリータ[nse]
+「いや、これ以上は無理だ」[pcms]
 
 *226|
 [fc]
-While taking down new enemies, my senior said in a calm and[r]
-cold voice.[pcms]
+新手を打ち倒しながら、先輩は冷静な冷たい声で[r]
+言い放った。[pcms]
 
 *227|
 [fc]
-[ns]Wataru[nse]
-"But the door to the music room is right there... If I[r]
-stretch out the mop, I could almost touch it."[pcms]
+[ns]航[nse]
+「だって、音楽室の扉はもうあそこで……モップを[r]
+　伸ばせば触れそうなくらいなのに」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *228|
 [fc]
 [vo_mar s="maru0078"]
-[ns]Margarita[nse]
-"Think about the situation!"[pcms]
+[ns]マルガリータ[nse]
+「状況を考えろっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *229|
 [fc]
-[ns]Wataru[nse]
-"The situation...?"[pcms]
+[ns]航[nse]
+「状況って……」[pcms]
 
 *230|
 [fc]
-In front of us was a mass of infected people copulating in a[r]
-dumpling-like state.[pcms]
+目の前には団子状態になってまぐわう[r]
+感染者の群れ。[pcms]
 
 *231|
 [fc]
-The ones behind us have been lying on the floor since[r]
-earlier... No, they're getting up and starting to come[r]
-towards us.[pcms]
+後ろのヤツラはさっきから床に転んだままで……[r]
+いや、起き上がってこちらに向かって来ようとしてる。[pcms]
 
 *232|
 [fc]
-Their movements are slow, but unlike us, they don't need to[r]
-fight off other infected or take them down, so their speed[r]
-is similar to ours.[pcms]
+動きは鈍いけれども、ボクらみたいに別の感染者に[r]
+襲われることも、ヤツらを打ち倒す必要もないから、[r]
+進む速度としては似たようなものだ。[pcms]
 
 *233|
 [fc]
-No, considering the number of people we have to take down[r]
-from here on out, they will definitely catch up to us.[pcms]
+いや、これから倒す人数を考えれば、確実に[r]
+アイツらに追いつかれる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *234|
 [fc]
 [vo_mar s="maru0079"]
-[ns]Margarita[nse]
-"Let's give up!"[pcms]
+[ns]マルガリータ[nse]
+「あきらめよう！」[pcms]
 
 *235|
 [fc]
-The cold voice of my senior echoed down the hallway like an[r]
-officer announcing retreat to his troops.[pcms]
+冷たい先輩の声が、まるで部隊に撤退を告げる[r]
+仕官のように、廊下に響き渡った。[pcms]
 
 *236|
 [fc]
-But... we're so close. Ren is right there.[pcms]
+そんな……あと少しなのに。[r]
+そこに漣がいるのに。[pcms]
 
 *237|
 [fc]
-But if we miss this moment, we might not even have a chance[r]
-to escape anymore.[pcms]
+でも今を逃したら、もう逃げる隙さえ[r]
+なくなるかもしれない。[pcms]
 
 *238|
 [fc]
-What should I do?[pcms]
+どうする？[pcms]
 
 *239|
 [fc]
-What am I going to do?[pcms]
+どうするんだ、ボク。[pcms]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ｃ３
-;//　　３１：・・・あきらめよう・・・;//→block:30070へ
-;//　　３２：強行突破して音楽室へ！！;//→block:30090へ
+;//●時限式選択肢Ｃ－３
+;//　　３－１：・・・あきらめよう・・・;//→block:30070へ
+;//　　３－２：強行突破して音楽室へ！！;//→block:30090へ
 ;//　　３ー３：時間切れ;//→block:30100へ
 
 ;	[sysbt_meswin clear]
@@ -544,16 +543,15 @@ What am I going to do?[pcms]
 ;	[link storage="30070.ks" target=*30070_TOP]……あきらめよう……[endlink]
 ;	[link storage="30090.ks" target=*30090_TOP]強行突破して音楽室へ！！[endlink]
 ;	;[link storage="30100.ks" target=*30100_TOP]時間切れ[endlink]
-;       (link storage="30100.ks" target=*30100_TOP)Damn[r]
-it...(endlink)[pcms]
+;	[link storage="30100.ks" target=*30100_TOP]くそ……[endlink][s]
 
 *SEL20|……あきらめよう……／強行突破して音楽室へ！！／くそ……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Let\'s give up'"]
-[eval exp="f.seltext04 = 'Break through and head to the music room!!'"]
-[eval exp="f.seltext06 = 'Damn it'"]
+[eval exp="f.seltext02 = '……あきらめよう……'"]
+[eval exp="f.seltext04 = '強行突破して音楽室へ！！'"]
+[eval exp="f.seltext06 = 'くそ……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

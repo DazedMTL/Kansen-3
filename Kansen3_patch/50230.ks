@@ -21,69 +21,69 @@
 
 *1361|
 [fc]
-[ns]Kousuke[nse]
-"Found it!"[pcms]
+[ns]浩助[nse]
+「……あったぜ！」[pcms]
 
 *1362|
 [fc]
-We each took a seat and settled down in the main room of the[r]
-DJ bar.[pcms]
+ボクたちはＤＪバーのメインドームに[r]
+それぞれ座って落ち着いた。[pcms]
 
 *1363|
 [fc]
-It was when we were talking about wanting more information[r]
-that Kousuke remembered we could watch TV on the bar's large[r]
-screen.[pcms]
+さっき、もっと情報が欲しいという話題になった時[r]
+コースケが、バーの大型ビジョンでテレビを見られることを[r]
+思い出したからだ。[pcms]
 
 *1364|
 [fc]
-After searching around the room, Kousuke found the remote[r]
-control and triumphantly raised his hand high.[pcms]
+部屋のあちこちを探してリモコンを見つけたコースケは[r]
+得意げに高々と手を上げる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1365|
 [fc]
 [vo_mar s="maru1460"]
-[ns]Margarita[nse]
-"That's a relief. Now we can get information from outside."[pcms]
+[ns]マルガリータ[nse]
+「ありがたいな。これで外部の情報が手に入る」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1366|
 [fc]
-[ns]Kousuke[nse]
-"Heh heh heh. Make sure you work, okay? TV-chaaan."[pcms]
+[ns]浩助[nse]
+「へっへっへ。[r]
+　ちゃんと動いてくれよ？　テレビちゃ～ん」[pcms]
 
 *1367|
 [fc]
-When we turned on the monitor, it was filled with static[r]
-noise like a sandstorm.[pcms]
+モニターを点灯してみると、砂嵐のようなノイズが走った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1368|
 [fc]
-[ns]Kousuke[nse]
-"Whoops. This channel's gone."[pcms]
+[ns]浩助[nse]
+「ありゃ。この局は終わってるな」[pcms]
 
 *1369|
 [fc]
-Kousuke kept changing the channels one after another.[pcms]
+コースケは次々にチャンネルを変えていく。[pcms]
 
 *1370|
 [fc]
-But all that appeared on the screen was static, color bars,[r]
-or the message "Please wait a moment."[pcms]
+けれど画面には、砂嵐かカラーバー、[r]
+または「しばらくお待ちください」の文字が映るばかりだ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1371|
 [fc]
 [vo_yuh s="yuho1519"]
-[ns]Yuuho[nse]
-"Hey! Isn't this like all terrestrial broadcasts are wiped[r]
-out? What about BS or cable?"[pcms]
+[ns]悠帆[nse]
+「ちょっと～っ！？　地上波全滅じゃん！[r]
+　ＢＳとかケーブルとかもダメ？」[pcms]
 
 ;//☆佐藤さんへ
 ;//ケーブルチャンネル、ＢＳチャンネルは何かしらの放送あった方が良い？
@@ -95,36 +95,37 @@ out? What about BS or cable?"[pcms]
 
 *1372|
 [fc]
-[ns]Kousuke[nse]
-"Hold on. Satellite, huh... Let's see, to switch the input[r]
-line... Here it is, if I press this button..."[pcms]
+[ns]浩助[nse]
+「ちょっと待て。衛星ね……。[r]
+　えーっと、入力ラインの切り替えは……っと。[r]
+　これだこれ、このボタンを押せば……」[pcms]
 
 *1373|
 [fc]
-Suddenly, a proper image popped up on the screen.[pcms]
+急に画面にまともな映像が飛び込んできた。[pcms]
 
 *1374|
 [fc]
-[ns]Wataru[nse]
-"...It's on! DHK!"[pcms]
+[ns]航[nse]
+「……映った！　ＤＨＫ！」[pcms]
 
 *1375|
 [fc]
-Just as a news broadcast was about to start.[pcms]
+ちょうどニュース放送が始まろうとしていた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1376|
 [fc]
 [vo_ren s="ren1355"]
-[ns]Ren[nse]
-"It's Dad's station..."[pcms]
+[ns]漣[nse]
+「お父さんのとこだ……」[pcms]
 ;//＠嬉しそうに
 
 *1377|
 [fc]
-DHK, the station where our father works, had come on, which[r]
-seemed to be a pleasant surprise for Ren as well.[pcms]
+ＤＨＫ、ボクらの父さんの勤める局が映ったのは[r]
+漣にとっても嬉しいことだったらしい。[pcms]
 
 ;//★父親の勤める局の名前が、プロットごとに異なっています。
 ;//ＤＨＫとかＢＪＨとか色々ですが、よろしいでしょうか？

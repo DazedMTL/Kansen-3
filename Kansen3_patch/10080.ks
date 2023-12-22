@@ -44,13 +44,13 @@
 
 *513|
 [fc]
-After a while, when I returned to the VIP room, what jumped[r]
-into my sight was like a cage of beasts.[pcms]
+しばらくして、ＶＩＰルームに戻った[r]
+あたしの目に飛び込んできたのは、まるで獣の檻だった。[pcms]
 
 *514|
 [fc]
-Yes-- The men's actions closely resembled that of starving[r]
-wolves swarming their prey.[pcms]
+そう――[r]
+男たちの行為は、飢えた狼が獲物に群がる姿に酷似していた。[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -62,161 +62,166 @@ wolves swarming their prey.[pcms]
 
 *515|
 [fc]
-[ns]Dazai[nse]
-"Hahaha, this one's got a nice tightness."[pcms]
+[ns]太宰[nse]
+「うはははっ、こいつはいい締りだぜ」[pcms]
 
 *516|
 [fc]
 [vo_mob s="tomomi0013"]
-[ns]Girl with Red Eyes[nse]
-"Nnnaaahh, hiiuuu, abuu... Abuuuu, nngmuuuu."[pcms]
+[ns]赤い眼の少女[nse]
+「んっあぁぁぁ、ひぃぅぅぅ、あぶぅっ……。[r]
+　あぶぅぅぅっ、んっむぅぅぅぅ」[pcms]
 ;//＠赤い眼の少女＝以降　朋美
 
 *517|
 [fc]
-I wonder what was the point of going through the trouble of[r]
-making her change clothes?[pcms]
+わさわざ手間をかけて着換えさせたのは何の意味が[r]
+あったんだろうか？[pcms]
 
 *518|
 [fc]
-To them, as long as it's a woman, or rather a female that[r]
-can stir up their lust, nothing else matters.[pcms]
+彼らにしてみれば、肉欲を駆り立ててくれるような[r]
+女であれば、いやメスであればあとはどうでもいい[r]
+問題だったんじゃないのだろうか。[pcms]
 
 *519|
 [fc]
-Even for me, a woman, there are things like mood and the[r]
-atmosphere of the partner that can trigger sexual[r]
-excitement, and I understand that without those, it's hard[r]
-to get aroused.[pcms]
+女のあたしにも、ムードだとか相手の雰囲気だとか[r]
+性的な興奮を呼び起こすきっかけはあるし、[r]
+そういうのがないと盛り上がらないのは理解できる。[pcms]
 
 *520|
 [fc]
-[ns]Dazai[nse]
-"You must be happy filled with so much sperm!! Enjoy it to[r]
-your heart's content!!"[pcms]
+[ns]太宰[nse]
+「精子がいっぱいで幸せやろ！！[r]
+　腹一杯味わってぇえぞ！！」[pcms]
 
 [evcg storage="HEV019a"][trans_c cross time=300]
 
 *521|
 [fc]
 [vo_mob s="tomomi0014"]
-[ns]Girl with Red Eyes[nse]
-"Fuguuuu, nnpuuu... sperm, sperm... sticky spermnnnn!"[pcms]
+[ns]赤い眼の少女[nse]
+「ふぐうぅぅぅ、んっぷぅぅぅ……精子、精子……[r]
+　べたべたの精子ぃぃぃんんっ！」[pcms]
 
 *522|
 [fc]
-[ns]Man A[nse]
-"Hehehe, this pussy, I never get tired of cumming in it!!"[pcms]
+[ns]男Ａ[nse]
+「うへへへ、このマンコ、何発出してもあきねぇぜ！！」[pcms]
 
 *523|
 [fc]
 [vo_mob s="tomomi0015"]
-[ns]Girl with Red Eyes[nse]
-"Fuguuuuu, nnpupupupuuu... nngmuuuu, njururururuuuu!"[pcms]
+[ns]赤い眼の少女[nse]
+「ふぐぅぅぅぅ、んっぷぅぷぅぷぅぅ……[r]
+　んっむぅぅぅ、んっじゅるぅるぅるぅぅぅ！」[pcms]
 
 *524|
 [fc]
-[ns]Dazai[nse]
-"This asshole is the best. It clings and wraps around my[r]
-dick."[pcms]
+[ns]太宰[nse]
+「この肛門も最高やで。ギュウギュウとチンポに[r]
+　絡みついて来よるわ」[pcms]
 
 *525|
 [fc]
 [vo_mob s="tomomi0016"]
-[ns]The Girl with Red Eyes[nse]
-"Ubuuuu, nnbuuuuuu, abuuuuu, nnguuu..."[pcms]
+[ns]赤い眼の少女[nse]
+「うぶぅぅぅ、んっぶぅぅぅぅぅっ、[r]
+　あっぶぅぅぅぅ、んっぐぅぅぅ……」[pcms]
 
 *526|
 [fc]
-[ns]Male B[nse]
-"You really know how to use your tongue, don't you?"[pcms]
+[ns]男Ｂ[nse]
+「舌の使い方もなかなか分かってるじゃないか」[pcms]
 
 *527|
 [fc]
 [vo_mob s="tomomi0017"]
-[ns]The Girl with Red Eyes[nse]
-"Nngu, juruuujuruuu... ngggguuuuu!!"[pcms]
+[ns]赤い眼の少女[nse]
+「んっぐ、じゅるぅぅじゅるぅぅぅ……[r]
+　んっぐぐぐぐぅぅぅぅぅ！！」[pcms]
 
 *528|
 [fc]
-However, their current state clearly deviated from any logic[r]
-of sexual excitement.[pcms]
+しかし、今の彼らは明らかにそういった、[r]
+性的な興奮をどうこうする理屈から逸脱していた。[pcms]
 
 *529|
 [fc]
-There wasn't a trace of reason. No feeling of caring for the[r]
-partner. Sex is supposed to be an act of love...[pcms]
+理性なんて欠片もない。相手を労わる気持ちも存在しない。[r]
+セックスは愛の行為のはずなのに……。[pcms]
 
 *530|
 [fc]
-Their actions seemed clearly driven by the need to satisfy[r]
-hunger.[pcms]
+彼らの行動は明らかに餓えを満たす為の[r]
+行為にしか見えなかった。[pcms]
 
 *531|
 [fc]
-I wonder why I am in a world where such beasts run rampant.[pcms]
+あたしはどうしてこんな獣が跋扈する世界にいるんだろう。[pcms]
 
 *532|
 [fc]
-I've been in love, had life goals and dreams, and though[r]
-there were times of poverty and boredom... I was supposed to[r]
-have lived every day as humanly as possible.[pcms]
+恋をして、人生の目標や夢があって、[r]
+貧しくて退屈な時もあったけど……。[r]
+でも精一杯人間らしく、毎日を過ごしていたはずだ。[pcms]
 
 *533|
 [fc]
-It's as if I'm recalling a distant dream, the original[r]
-scenery of spending time with Kousuke and the others comes[r]
-back to me.[pcms]
+遠い昔の夢を思い出しているかのように、[r]
+あの頃の……コースケたちと過ごしていた原風景が蘇る。[pcms]
 
 *534|
 [fc]
-Lately, like a cheap drug flashback, I often remember those[r]
-times. Do I... want to go back?[pcms]
+まるで安い薬のフラッシュバックのように、[r]
+最近はよくあの頃のことを思い出す。[r]
+あたしは……戻りたいんだろうか？[pcms]
 
 *535|
 [fc]
-Even though I chose this way of life myself, am I regretting[r]
-it now?[pcms]
+自分で選んで、こんな生き方をしてきた癖に、[r]
+今になって後悔しているんだろうか。[pcms]
 
 *536|
 [fc]
-But the path I could return on has long been severed.[pcms]
+でも、あたしの戻れる道なんて、とっくの昔に途切れている。[pcms]
 
 *537|
 [fc]
-I'm beyond saving. No matter how much I wish for it, Kousuke[r]
-would never accept me as I am now.[pcms]
+あたしはとっくの昔に手遅れなんだ。[r]
+いくら望んでも、こんなあたしをコースケは[r]
+受け入れてなんてくれない。[pcms]
 
 *538|
 [fc]
-The only ones who would accept me as I am now are Jin and[r]
-these guys here.[pcms]
+いまのあたしを受け入れてくれるのは、[r]
+ジンやここにいる連中だけなんだ。[pcms]
 
 *539|
 [fc]
-Time passed cannot be reclaimed. I can't go back to who I[r]
-was. I have no choice but to walk this beastly path on my[r]
-own feet.[pcms]
+過ぎた時間は戻らない。昔のあたしには戻れない。[r]
+あたしは自分の足で、このけもの道を進むしかないんだ。[pcms]
 
 *540|
 [fc]
-[ns]Man A[nse]
-"Uoooohh, it's coming out, it's coming outttt!"[pcms]
+[ns]男Ａ[nse]
+「うぉぉぉっ、でるぞでるぞぉぉぉ」[pcms]
 
 *541|
 [fc]
-[ns]Male B[nse]
-"Grip it, grip it tighter..."[pcms]
+[ns]男Ｂ[nse]
+「握れ、もっと強く握れ……」[pcms]
 
 *542|
 [fc]
-[ns]Man A[nse]
-"Uhhhyoooohh, this is so damn good!!!!"[pcms]
+[ns]男Ａ[nse]
+「うっひょぉぉぉ、たまんねぇぇぇぇ！！」[pcms]
 
 *543|
 [fc]
-A man's roar echoed loudly as if bellowing, bringing me back[r]
-to the harsh reality before me.[pcms]
+一際大きな声で吠えるように声を上げた男の[r]
+雄叫びが、あたしを目の前の現実へと連れ戻した。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV019c"]
@@ -225,65 +230,66 @@ to the harsh reality before me.[pcms]
 *544|
 [fc]
 [vo_mob s="tomomi0018"]
-[ns]Girl with Red Eyes[nse]
-"Ahhahhh, nngguuuhh, uhiiaahh, ahhhhbuuuu, nhfuuhhh...[r]
-Nnnnnahhhh!"[pcms]
+[ns]赤い眼の少女[nse]
+「あっあぁぁっ、んんっぐぅぅ、うひぃぃぁっ、[r]
+　あぁぁぁぁっぶぅぅぅ、んっふぅぅぅ……。[r]
+　んっんっんんあぁぁぁっん！」[pcms]
 
 *545|
 [fc]
-The cloudy fluid was scattered about, drenching the large[r]
-breasts of the girl with red eyes.[pcms]
+白濁の汚液がまき散らされ、赤い眼の少女の大きな胸を濡らした。[pcms]
 
 *546|
 [fc]
-[ns]Dazai[nse]
-"Afuuuuhh, bufuuuuuh!!"[pcms]
+[ns]太宰[nse]
+「あふぅぅっ、ぶふぅぅぅぅっ！！」[pcms]
 
 [evcg storage="HEV019d"][trans_c cross time=300]
 
 *547|
 [fc]
 [vo_mob s="tomomi0019"]
-[ns]The Girl with Red Eyes[nse]
-"Ahiiee, my ass is explodingggg, nngguuuhh!!"[pcms]
+[ns]赤い眼の少女[nse]
+「あひぃぃ、お尻が爆発ぅぅぅうっっっ、[r]
+　んっぐうぅぅぅっ！！！」[pcms]
 
 *548|
 [fc]
-With a voice like an ugly pig, Dazai was screwing his dick[r]
-into the girl with red eyes' asshole.[pcms]
+醜い豚のような声をあげて、太宰は赤い眼の少女の[r]
+肛門にチンコをねじ込んでいた。[pcms]
 
 *549|
 [fc]
-Taking pleasure in inserting it into an orifice meant for[r]
-excretion is truly the height of bad taste, I think.[pcms]
+排泄用の穴に入れて喜ぶなんて、[r]
+本当に悪趣味の極みだとあたしは思う。[pcms]
 
 *550|
 [fc]
 [vo_mob s="tomomi0020"]
-[ns]Girl with Red Eyes[nse]
-"Abuuuuu, uppooooo... Nnaaaahh, ahhaaahiiinn!"[pcms]
+[ns]赤い眼の少女[nse]
+「あぶうぅぅぅ、うっぷぅぅぅぅっ……。[r]
+　んっあああ、あっあぁぁひぃぃっん！」[pcms]
 
 *551|
 [fc]
-No matter how much you reject it, in the end there's no[r]
-choice. My asshole has been ravaged by men countless times[r]
-as well.[pcms]
+もっとも、いくら拒絶しても、結局選択肢なんて存在しない。[r]
+あたしも何度となく肛門を男たちに蹂躙された。[pcms]
 
 *552|
 [fc]
-The more you deny pleasure and harbor disgust, the more your[r]
-body rejoices as a female. Enough to make you curse being[r]
-born a woman...[pcms]
+快感を否定して、嫌悪感を持てば持つほど、[r]
+肉体はメスとしての歓喜あげてしまう。[r]
+女として生まれたことを呪いたくなるほどに……。[pcms]
 
 *553|
 [fc]
-[ns]Dazai[nse]
-"Gehaaaahh, can't stopppppp!"[pcms]
+[ns]太宰[nse]
+「げはぁぁぁっ、とまんねぇぇぇぇぇっ！」[pcms]
 
 *554|
 [fc]
-The girl with red eyes' asshole was already filled with the[r]
-semen Dazai had released.[pcms]
+すでに赤い眼の少女の肛門は太宰が放出した[r]
+精液によって一杯になっていた。[pcms]
 
 ;//白フラ１発
 [evcg白フラ storage="HEV019e"]
@@ -291,83 +297,85 @@ semen Dazai had released.[pcms]
 *555|
 [fc]
 [vo_mob s="tomomi0021"]
-[ns]The Girl with Red Eyes[nse]
-"Hiigguuuhh, nnggihiiihh, ahhhhbuufubuuu!"[pcms]
+[ns]赤い眼の少女[nse]
+「ひぃっぐうぅぅぅ、んっぐひぃぃっ、[r]
+　あっぁぁぁぶぅふぅぶぅぅぅっ！」[pcms]
 
 *556|
 [fc]
-How many times does he need to ejaculate before he's[r]
-satisfied? Even if drugs enhance libido and sensitivity,[r]
-this amount of release is abnormal.[pcms]
+いったい何発発射すれば気が済むんだろう。[r]
+薬によって精力も感度も高まっているとはいえ、[r]
+この放出量は異常もいいところだ。[pcms]
 
 *557|
 [fc]
-Thrusting his hips repeatedly, Dazai was exposing an[r]
-unsightly face as he reached climax several times over.[pcms]
+腰を何度も打ちつけて、太宰は無様な顔を晒しながら[r]
+数回目の絶頂に達していた。[pcms]
 
 *558|
 [fc]
-[ns]Dazai[nse]
-"Fubuuuuuhh, bufufuuuuh"[pcms]
+[ns]太宰[nse]
+「ふぶぅぅぅぅっ、ぶふふぅぅぅぅっ」[pcms]
 
 *559|
 [fc]
 [vo_mob s="tomomi0022"]
-[ns]The Girl with Red Eyes[nse]
-"Nnnnnh, nngguuuhh"[pcms]
+[ns]赤い眼の少女[nse]
+「んんんっ、んっぐぅぅぅっ」[pcms]
 
 *560|
 [fc]
-[ns]Dazai[nse]
-"Fooohhh, it feels like it's squeezing me!"[pcms]
+[ns]太宰[nse]
+「ふぉぉぉぉっ、絞りとられるようだぜ！」[pcms]
 
 *561|
 [fc]
 [vo_mob s="tomomi0023"]
-[ns]The Girl with Red Eyes[nse]
-"Nnnnhguh, nhfuuuhh, ahiieennnhh, hahiieeenn!"[pcms]
+[ns]赤い眼の少女[nse]
+「んんんっぐ、んっふぅぅぅ、あひぃぃんんっ、[r]
+　はひぃぃぃっん！」[pcms]
 
 *562|
 [fc]
-Gushes of semen flowed into her intestines and the girl[r]
-trembled slightly.[pcms]
+ドクドクと大量の精液が腸内へと流しこまれて、[r]
+少女は小刻みに身体を震わせた。[pcms]
 
 *563|
 [fc]
-The Girl with Red Eyes seemed not entirely displeased, her[r]
-expression one of joy as every hole in her body was filled[r]
-with cock and showered with cum.[pcms]
+赤い眼の少女もまんざらでもないらしく、[r]
+全身の穴を埋め尽くすチンコと、[r]
+降りかかる精液にうれしそうな表情を浮かべた。[pcms]
 
 *564|
 [fc]
 [vo_mob s="tomomi0024"]
-[ns]The Girl with Red Eyes[nse]
-"Haa haa... it feels so good, it feels so gooodnnn,[r]
-ahhhhnnn!!"[pcms]
+[ns]赤い眼の少女[nse]
+「はぁはぁぁ……気持ちぃぃぃ、気持ちぃぃぃっんんっ[r]
+　あひぃぁぁぁっんん！！」[pcms]
 
 *565|
 [fc]
-Having completely lost her sanity, she might be honestly[r]
-accepting the pleasure.[pcms]
+正気を完全に失っているから、快楽を素直に[r]
+受け入れているのかもしれない。[pcms]
 
 *566|
 [fc]
-"Maybe it's better to end up like that, happier."[pcms]
+『ああなってしまった方が幸せなのかな』[pcms]
 
 *567|
 [fc]
-Maybe I should just lose my sanity with drugs like that[r]
-girl.[pcms]
+あたしもいっそのこと、あの少女のように[r]
+薬で正気を消してしまう方がいいのかも知れない。[pcms]
 
 *568|
 [fc]
-The path of the beast is too harsh for a human to walk.[r]
-Perhaps it's happier to become a beast.[pcms]
+獣道は人として歩むには過酷すぎる。[r]
+獣になりきる方が幸せななのかも知れない。[pcms]
 
 *569|
 [fc]
-[ns]Man B[nse]
-"Drink it, drink it, drink all of it!"[pcms]
+[ns]男Ｂ[nse]
+「飲めぇ、飲めぇぇぇ、全部飲めぇぇぇ」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV019f"]
@@ -375,47 +383,49 @@ Perhaps it's happier to become a beast.[pcms]
 *570|
 [fc]
 [vo_mob s="tomomi0025"]
-[ns]The Girl with Red Eyes[nse]
-"Abuuuuu, nngmuuuuuu, nnguuu, ngmuunngmuuuu, nngbuuuuu,[r]
-mumumuguuuuu"[pcms]
+[ns]赤い眼の少女[nse]
+「あぶうぅぅぅ、んっむぅぅぅぅぅぅ、んっぐう、[r]
+　んっむぅんっむうぅぅ、んっぶぅぅぅぅ、[r]
+　むむむぅぐうぅぅぅ」[pcms]
 
 *571|
 [fc]
-[ns]Man B[nse]
-"Hey hey, don't spill it, all of it, every last drop!"[pcms]
+[ns]男Ｂ[nse]
+「ほらほら、こぼすなやっ、全部や全部！」[pcms]
 
 *572|
 [fc]
 [vo_mob s="tomomi0026"]
-[ns]The Girl with Red Eyes[nse]
-"Muguuuuu, nngbuuuuuu, muu...muguu, nnguuu, nnguuuuu...[r]
-goguuuuu"[pcms]
+[ns]赤い眼の少女[nse]
+「むぐぅぅぅぅ、んっぶぅぅぅぅぅぅぅぅ、[r]
+　むう……むぐぅ、んっぐぅ、んっぐぅぅぅ……[r]
+　ごぐぅぅぅぅ」[pcms]
 
 *573|
 [fc]
-The man who shoved his cock into her mouth made the Girl[r]
-with Red Eyes swallow a large amount of semen.[pcms]
+口にチンコを押し込んだ男が、赤い眼の少女に[r]
+大量の精液を嚥下させた。[pcms]
 
 *574|
 [fc]
-With her mouth full of white fluid, the girl licked and[r]
-swallowed it down happily with her tongue.[pcms]
+口いっぱいに放出された白液を、少女はうれしそうに[r]
+舌で舐めとりながら飲み干していく。[pcms]
 
 *575|
 [fc]
 [vo_mob s="tomomi0027"]
-[ns]The Girl with Red Eyes[nse]
-"Nnguuu, nnguuuu"[pcms]
+[ns]赤い眼の少女[nse]
+「んっぐぅぅ、んっぐぅぅぅ」[pcms]
 
 *576|
 [fc]
-[ns]Man B[nse]
-"That's good, suck it all up for me."[pcms]
+[ns]男Ｂ[nse]
+「ええぞ、全部吸いつくしてくれやぁ」[pcms]
 
 *577|
 [fc]
-[ns]Dazai[nse]
-"I'm gonna shoot another load!"[pcms]
+[ns]太宰[nse]
+「おれぇぇぇ、もう一発じゃぁぁぁ」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV019g"]
@@ -423,169 +433,168 @@ swallowed it down happily with her tongue.[pcms]
 *578|
 [fc]
 [vo_mob s="tomomi0028"]
-[ns]Girl with Red Eyes[nse]
-"Buhiiiiii, apuuuu... fuahhhfuuhh, fuuhhhaaauu... nhiiii...[r]
-higuuuuu"[pcms]
+[ns]赤い眼の少女[nse]
+「ぶひぃぁぁぁぁ、あぷぅぅぅぅ……[r]
+　ふあぁぁっふぅ、ふうっはぁぁぅぅ……[r]
+　んっひぃぃぃ……ひぐうぅぅぅぅ」[pcms]
 
 *579|
 [fc]
-At the same time, Dazai released new semen into her anus.[r]
-The semen that backflowed into her rectum bloomed like[r]
-fireworks, creating white flowers.[pcms]
+同時に肛門で太宰が新たに精液を発射した。[r]
+直腸に逆流した精液が花火のように、白い花を咲かせる。[pcms]
 
 [evcg storage="HEV019h"][trans_c cross time=300]
 
 *580|
 [fc]
 [vo_mob s="tomomi0029"]
-[ns]Girl with Red Eyes[nse]
-"Fugiiiiiih, abuuuuuu"[pcms]
+[ns]赤い眼の少女[nse]
+「ふぎぃぁぁぁぁっ、あぶぅぅぅぅぅ」[pcms]
 
 *581|
 [fc]
-The sight was such that one might think the girl's body was[r]
-filled with nothing but semen both inside and out.[pcms]
+少女の肉体は内も外も精液だけで[r]
+埋め尽くされているのではないかと思えるような光景だった。[pcms]
 
 *582|
 [fc]
-[ns]Male C[nse]
-"Come on, jerk it with your tits, jerk it with your tits!"[pcms]
+[ns]男Ｃ[nse]
+「おらぁっ、チチでしごくんだよチチで！」[pcms]
 
 [evcg storage="HEV019i"][trans_c cross time=300]
 
 *583|
 [fc]
 [vo_mob s="tomomi0030"]
-[ns]The Girl with Red Eyes[nse]
-"Hafuuuu, my tits, my tiiits, ahhh, my tits with your cock![r]
-Abuuuuu"[pcms]
+[ns]赤い眼の少女[nse]
+「はふぅぅぅ、おっぱいぃぃ、おっぱぁぁぁぁ、[r]
+　ああぁ、チンコでおっぱあぁぁぁい！[r]
+　あぶうぅぅぅぅ」[pcms]
 
 *584|
 [fc]
-Despite ejaculating so much, the men's desires were far from[r]
-being satisfied.[pcms]
+これでもかと射精しているのに、男たちの欲望は[r]
+一向に尽きない。[pcms]
 
 *585|
 [fc]
-They sandwiched their cocks between her ample breasts and[r]
-jerked them up and down repeatedly.[pcms]
+豊満な胸の谷間にチンコをはさみ込んで、[r]
+何度も上下にしごかせた。[pcms]
 
 *586|
 [fc]
 [vo_mob s="tomomi0031"]
-[ns]The Girl with Red Eyes[nse]
-"Faaauuuhh, nngmuuuu, leroo leroo, ammuuuu, juruuu juruuu...[r]
-nngmuuuu"[pcms]
+[ns]赤い眼の少女[nse]
+「ふぁぁぅぅぅっ、んっむぅぅぅ、れろぉれろぉ、[r]
+　あっむぅぅ、じゅるぅぅじゅるぅぅ……んっむぅぅ」[pcms]
 
 *587|
 [fc]
-As told, the girl jerked them off between her breasts while[r]
-taking the tip into her mouth and wrapping her tongue around[r]
-it.[pcms]
+少女は言われたままに、胸ではさんでしごきながら[r]
+先端を口に咥えて舌を巻きつけた。[pcms]
 
 *588|
 [fc]
 [vo_mob s="tomomi0032"]
-[ns]Girl with Red Eyes[nse]
-"Habuuuuu, nngjuruluuuu... appuuu... nngpuuuu"[pcms]
+[ns]赤い眼の少女[nse]
+「はぶぅぅぅぅ、んっじゅるぅぅぅぅ……。[r]
+　あっぷぅぅぅ……んっぷぅぅぅぅ……」[pcms]
 
 *589|
 [fc]
-At the same time, she shook her ass on her own accord,[r]
-beckoning Dazai to thrust harder.[pcms]
+それと同時に自分から尻を振って、太宰の突き上げを[r]
+催促してみせる。[pcms]
 
 *590|
 [fc]
-Inspired by her actions, Dazai became even more intense and[r]
-drilled into her anus with his cock.[pcms]
+太宰はその仕草に触発されて、一段と激しく、[r]
+彼女の肛門をチンコで穿った。[pcms]
 
 *591|
 [fc]
 [vo_mob s="tomomi0033"]
-[ns]The Girl with Red Eyes[nse]
-"Ubbuuuuhh, abuuuuu, nnnngguuuu, hiiiuuuuhh, abuuuuu,[r]
-moreeeeee, moreeeeeee!"[pcms]
+[ns]赤い眼の少女[nse]
+「うっぶぅぅぅっ、あぶうぅぅぅ、んんっぐうぅ、[r]
+　ひぃぅぅぅぅっ、あぶぅぅぅ、もっどぉぉぉ、[r]
+　もっどぉぉぉぉぉっ！」[pcms]
 
 *592|
 [fc]
-I was stunned to hear that voice. The Girl with Red Eyes was[r]
-seeking even stronger pleasure.[pcms]
+あたしはその声を聞いて唖然となった。[r]
+赤い眼の少女はさらに強い快感を求めていた。[pcms]
 
 *593|
 [fc]
 [vo_mob s="tomomi0034"]
-[ns]Red-eyed Girl[nse]
-"Abuuuuu, thrust it... my pussy, harder... appuuu..."[pcms]
+[ns]赤い眼の少女[nse]
+「あぶうぅぅぅ、突いてぇぇぇ……、[r]
+　オマンコを、つよく……あぷぅぅぅ……」[pcms]
 
 *594|
 [fc]
-What kind of experiences must one have had, what kind of[r]
-life must one have walked to be so dyed in the instincts of[r]
-a female both physically and mentally?[pcms]
+いったいどんな経験をしたら、どんな人生を歩んだら[r]
+あそこまで肉体と精神をメスの本能で[r]
+染められるんだろう。[pcms]
 
 *595|
 [fc]
 [vo_mob s="tomomi0035"]
-[ns]The Girl with Red Eyes[nse]
-"Habuuuuu, nngguuuu, nngguuuu... abbuuuu, habuuuaaaaahh,[r]
-apufuuuuu, ahhahhaaahh!"[pcms]
+[ns]赤い眼の少女[nse]
+「はぶぅぅぅ、んっぐうぅぅ、んっぐぅぅぅ……[r]
+　あっぶぅぅぅ、はぶぅぅっあああ、あぷふぅぅぅ、[r]
+　あっああぁぁひぃぁぁぁ！」[pcms]
 
 *596|
 [fc]
-Her mouth, pussy, and asshole must be beyond their limits.[r]
-At least I would definitely be broken.[pcms]
+口もマンコもおしりの穴も限界以上の状態のはずだ。[r]
+少なくともあたしなら間違いなく壊れている。[pcms]
 
 *597|
 [fc]
-Yet in such a state, she was seeking it out from the beast[r]
-herself.[pcms]
+そんな状態なのに、彼女は獣相手に自分から求めている。[pcms]
 
 *598|
 [fc]
 [vo_mob s="tomomi0036"]
-[ns]The Girl with Red Eyes[nse]
-"Thrust itttt, thrust itttt, cum on meeeeeee,[r]
-seeeeemennnnnnnnnnnnnnnnnnnnnnnnnn nnnnnnnnnnnnnnnnnnnnnnnnn[r]
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn[r]
-nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn!"[pcms]
+[ns]赤い眼の少女[nse]
+「ついてぇぇぇ、ついてぇぇぇ、ぶっかけぇぇぇぇ、[r]
+　せぇぇぇしぃぃぃぃ、あひぃぃぃぃん！」[pcms]
 
 *599|
 [fc]
-They're all mad, men and women alike; everything I'm seeing[r]
-is madness...[pcms]
+狂っている、男も女も、[r]
+あたしの見ているものは全部狂っている……。[pcms]
 
 *600|
 [fc]
-I couldn't face the scene any longer and before I knew it I[r]
-started to back away. I want to escape; I want to flee from[r]
-all this madness.[pcms]
+あたしはその光景を正視できず、気がつくと後ずさり始めていた。[r]
+逃げたい、狂ったこのすべてから逃げ出したい。[pcms]
 
 *601|
 [fc]
-I want to escape back to those days that were ordinary and[r]
-boring but happy.[pcms]
+平凡で退屈で、でも幸せだったあの頃に逃げ出したい。[pcms]
 
 *602|
 [fc]
-[ns]Male D[nse]
-"Mr. Dazai, Mr. Dazai. It's time for fireworks. The[r]
-fireworks car is ready."[pcms]
+[ns]男Ｄ[nse]
+「太宰さん、太宰さん。花火の時間です。[r]
+　花火の車の用意ができました」[pcms]
 
 *603|
 [fc]
 [vo_mob s="tomomi0037"]
-[ns]Girl with Red Eyes[nse]
-"Abbaaaaahh, fireworks... I want to see fireworks."[pcms]
+[ns]赤い眼の少女[nse]
+「あばぁぁぁ、花火……花火、見たいよぉ花火」[pcms]
 
 *604|
 [fc]
-[ns]Dazai[nse]
-"Alright alright, I'll take you there after you let me shoot[r]
-one more load!"[pcms]
+[ns]太宰[nse]
+「わかったわかった、連れて行ってやるから、[r]
+　もう一発だけ出させろや！」[pcms]
 
 *605|
 [fc]
-I couldn't stand it any longer and fled from the spot.[pcms]
+あたしはついに耐えきれず、その場から逃げだした。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -602,32 +611,30 @@ I couldn't stand it any longer and fled from the spot.[pcms]
 *606|
 [fc]
 [vo_miz s="mizuki0073"]
-[ns]Mizuki[nse]
-"Haa... haa..."[pcms]
+[ns]瑞樹[nse]
+「はぁ……はぁ……」[pcms]
 
 *607|
 [fc]
-Having fled from the VIP room, I finally managed to regain[r]
-my composure in a corner of the shop a little distance away.[pcms]
+ＶＩＰルームから逃げだしたあたしは、少し離れた[r]
+店の片隅でやっと落ち着きを取り戻せた。[pcms]
 
 *608|
 [fc]
 [vo_miz s="mizuki0074"]
-[ns]Mizuki[nse]
-"Um..."[pcms]
+[ns]瑞樹[nse]
+「えっと……」[pcms]
 
 *609|
 [fc]
-If Dazai has been informed about the arrangement of the[r]
-fireworks car then they will probably leave in a few[r]
-minutes. If that's the case then what I need to do is...[r]
-report to Jin.[pcms]
+花火の車の手配は太宰に伝えられていたということは[r]
+数分もすれば連中は出かけて行くことだろう。[r]
+だとすればあたしのすべき事は……ジンへの報告だ。[pcms]
 
 *610|
 [fc]
-Anxious as well as determined to report the current[r]
-situation I took out my mobile phone and pressed Jin's[r]
-memory.[pcms]
+あたしは不安も手伝って、現状の報告をするべく[r]
+携帯を取り出すとジンのメモリーを押した。[pcms]
 
 ;[zapend_random]
 ;mm このあとじん視点だからザップfadeはくどいので省略しておくか
@@ -660,497 +667,489 @@ memory.[pcms]
 
 *611|
 [fc]
-In preparation for the meeting at Celesta Tower Hotel, I was[r]
-in the hotel lounge discussing with the underlings lent out[r]
-by the organization.[pcms]
+セレスタワーホテルでの会合の準備に向けて、[r]
+俺はホテルのラウンジで組から貸し出された手下達と[r]
+打ち合わせをしていた。[pcms]
 
 ;//壬視点なので立ち不要
 
 *612|
 [fc]
-[ns]Jin[nse]
-"Is the food arrangement done?"[pcms]
+[ns]壬[nse]
+「料理の手配は終わってるな？」[pcms]
 
 *613|
 [fc]
-[ns]Henchman A[nse]
-"Yeah, there's no problem with that. We've prepared the top[r]
-course menu listed in this pamphlet."[pcms]
+[ns]手下Ａ[nse]
+「ああ、そっちは問題ない。[r]
+　このパンフレットにある最高のコースメニューだ」[pcms]
 
 *614|
 [fc]
-[ns]Jin[nse]
-"What about the drinks? We need a wide selection to cater to[r]
-everyone's tastes, or it won't do."[pcms]
+[ns]壬[nse]
+「酒の方はどうだ？[r]
+　それぞれの好みもあるから幅広くそろえないとまずいだろ」[pcms]
 
 *615|
 [fc]
-[ns]Henchman B[nse]
-"We've arranged a range of high-end brands for now, all[r]
-listed here."[pcms]
+[ns]手下Ｂ[nse]
+「一応高級なブランドで一通りそろえてはおいたが[r]
+　このリストにまとめてある」[pcms]
 
 *616|
 [fc]
-I quickly scanned the list of alcohol handed to me. These[r]
-guys dispatched from the organization are indeed different[r]
-from my subordinates in every sense.[pcms]
+俺は手渡された酒類のリストに素早く目を通した。[r]
+流石は組から派遣された連中だ。[r]
+俺の部下達とはなにごとにもセンスが違う。[pcms]
 
 *617|
 [fc]
-The brands of alcohol listed were all exceptional items that[r]
-consistently received high praise from all quarters.[pcms]
+記載されていた酒のブランドはどの方面でも[r]
+常に高い評価を得ている逸品ばかりだった。[pcms]
 
 *618|
 [fc]
-[ns]Jin[nse]
-"It's well-assorted between Japanese and Western... but..."[pcms]
+[ns]壬[nse]
+「和洋とうまく揃っているが……」[pcms]
 
 *619|
 [fc]
-[ns]Henchman B[nse]
-"Is there something unsatisfactory?"[pcms]
+[ns]手下Ｂ[nse]
+「なにか不満が？」[pcms]
 
 *620|
 [fc]
-[ns]Jin[nse]
-"There's no wine paired with the course meal."[pcms]
+[ns]壬[nse]
+「食事のコースにあわせたワインがないな」[pcms]
 
 *621|
 [fc]
-[ns]Henchman B[nse]
-"Is the wine on that list not suitable?"[pcms]
+[ns]手下Ｂ[nse]
+「そのリストにあるワインではまずいのか？」[pcms]
 
 *622|
 [fc]
-[ns]Jin[nse]
-"This white is a fine choice, but it's a bit too light to[r]
-pair with the main course. Perhaps red would be better in[r]
-this case."[pcms]
+[ns]壬[nse]
+「この白は上物だが、メインに合わせるには[r]
+　ちょっと味が淡白すぎる。[r]
+　この場合は赤でもいいんじゃないか」[pcms]
 
 *623|
 [fc]
-[ns]Henchman B[nse]
-"I see. That's an option I hadn't considered. Alright, I'll[r]
-arrange for some red as well."[pcms]
+[ns]手下Ｂ[nse]
+「なるほどな。そんな選択肢もあったか。[r]
+　よし、赤の方も手配しておく」[pcms]
 
 *624|
 [fc]
-[ns]Jin[nse]
-"Ah, I'm counting on you."[pcms]
+[ns]壬[nse]
+「あぁ、頼んだぞ」[pcms]
 
 *625|
 [fc]
-The success of this meeting will greatly influence my[r]
-future.[pcms]
+今回の会合での評価、手際が俺の将来を大きく左右する。[pcms]
 
 *626|
 [fc]
-Not only can I not afford any mishaps, but even the[r]
-slightest fault is unacceptable.[pcms]
+不手際はおろか、些細な落ち度も許されない。[pcms]
 
 *627|
 [fc]
-If things go well, this could be the start of outsmarting[r]
-that Dazai. It's not just a dream.[pcms]
+うまくすれば今回を皮切りに、あの太宰を出し抜くことだって[r]
+夢じゃないんだ。[pcms]
 
 *628|
 [fc]
-Working under that ugly pig is easy enough, but it's become[r]
-somewhat tiresome. I'm not a man who stands still in such[r]
-places.[pcms]
+あの醜い豚の下で働くのは、[r]
+扱いやすいのはいいが、いささか飽きてきた。[r]
+俺はこんなところで立ち止まる男じゃない。[pcms]
 
 *629|
 [fc]
-I will definitely achieve great success and move on to the[r]
-next stage.[pcms]
+必ず大成功を収めて、次のステージへと進んでみせる。[pcms]
 
 [se buf=0 storage="se023"]
 
 *630|
 [fc]
-As I was fueling the flames of my secret ambition within, my[r]
-mobile phone in my pocket started ringing.[pcms]
+内に秘めた秘かな野望の炎を滾らせていると、[r]
+ポケットの携帯が着信を告げてきた。[pcms]
 
 *631|
 [fc]
-[ns]Jin[nse]
-"Hmm... excuse me for a moment."[pcms]
+[ns]壬[nse]
+「ん……すまん、ちょっと失礼する」[pcms]
 
 [se buf=0 storage="se022"]
 
 *632|
 [fc]
-I moved to a corner of the lobby and pressed the answer[r]
-button on my mobile phone.[pcms]
+俺はロビーの片隅へと移動し、携帯の着信ボタンを押した。[pcms]
 
 *633|
 [fc]
 [vo_miz s="mizuki0075"]
-[ns]Mizuki[nse]
-"Jin, can't you come back yet?"[pcms]
+[ns]瑞樹[nse]
+「ジン、まだ戻れないの？」[pcms]
 
 *634|
 [fc]
-[ns]Jin[nse]
-"What's happened?"[pcms]
+[ns]壬[nse]
+「なにかあったのか？」[pcms]
 
 *635|
 [fc]
 [vo_miz s="mizuki0076"]
-[ns]Mizuki[nse]
-"There's something strange about Mr. Dazai and his group."[pcms]
+[ns]瑞樹[nse]
+「太宰さんたちの様子が変なんだよ」[pcms]
 
 *636|
 [fc]
-Did that pig do something again? I clicked my tongue without[r]
-letting Mizuki notice.[pcms]
+またあの豚がなにかしでかしたのか。[r]
+俺は瑞樹に悟られないように舌打ちをした。[pcms]
 
 *637|
 [fc]
-[ns]Jin[nse]
-"That man is always strange, isn't he?"[pcms]
+[ns]壬[nse]
+「あの人が変なのはいつものことだろ」[pcms]
 
 *638|
 [fc]
 [vo_miz s="mizuki0077"]
-[ns]Mizuki[nse]
-"It's not that..."[pcms]
+[ns]瑞樹[nse]
+「そうじゃなくてさ……」[pcms]
 
 *639|
 [fc]
-[ns]Jin[nse]
-"Calm down and explain it to me clearly."[pcms]
+[ns]壬[nse]
+「とにかく落ち着いて冷静に話せ」[pcms]
 
 *640|
 [fc]
-Really, none of them are reliable. It's only a matter of[r]
-time before I cut ties with this woman.[pcms]
+まったく、どいつもこいつも使えない。[r]
+この女との縁切りも時間の問題だな。[pcms]
 
 *641|
 [fc]
 [vo_miz s="mizuki0078"]
-[ns]Mizuki[nse]
-"Uh, yeah... So, when he started doing it with that girl[r]
-with red eyes..."[pcms]
+[ns]瑞樹[nse]
+「う、うん……それがさ。[r]
+　あの赤い眼の少女とやり始めたらさ……」[pcms]
 
 *642|
 [fc]
-[ns]Jin[nse]
-"The girl he picked up?"[pcms]
+[ns]壬[nse]
+「拾って来た女か」[pcms]
 
 *643|
 [fc]
 [vo_miz s="mizuki0079"]
-[ns]Mizuki[nse]
-"Yes. He had her cosplay 'that' and was going at it, but[r]
-then things started getting weird..."[pcms]
+[ns]瑞樹[nse]
+「そう。“あれ”にコスプレさせて[r]
+　やらせてたんだけど、そしたら様子が[r]
+　ヘンになっちゃって……」[pcms]
 
 *644|
 [fc]
-Dazai's womanizing isn't something new. Just hearing that[r]
-didn't seem particularly abnormal.[pcms]
+太宰の女狂いは昨日今日始まったことじゃない。[r]
+それだけ聞く分には特に異常とも思えなかった。[pcms]
 
 *645|
 [fc]
-[ns]Jin[nse]
-"So he just found his type, that's all."[pcms]
+[ns]壬[nse]
+「それだけ好みのタイプだったということだろ」[pcms]
 
 *646|
 [fc]
-If the pig is satisfied with a girl he picked up, it's a[r]
-cheap deal for me.[pcms]
+拾った女で豚が満足してくれるなら、[r]
+俺としては安い話なんだが。[pcms]
 
 *647|
 [fc]
 [vo_miz s="mizuki0080"]
-[ns]Mizuki[nse]
-"But it's too different from usual."[pcms]
+[ns]瑞樹[nse]
+「それでもいつもと違いすぎるんだよ」[pcms]
 
 *648|
 [fc]
-[ns]Jin[nse]
-"Different how?"[pcms]
+[ns]壬[nse]
+「違うってどう違うんだ？」[pcms]
 
 *649|
 [fc]
 [vo_miz s="mizuki0081"]
-[ns]Mizuki[nse]
-"I don't know how to say it. He kept releasing again and[r]
-again, and was raping her like crazy..."[pcms]
+[ns]瑞樹[nse]
+「なんていったらいいんだろう。[r]
+　何回も何回も出したり、狂ったように犯したり……」[pcms]
 ;//〆ボイスa、b有り
 
 *650|
 [fc]
-[ns]Jin[nse]
-"Sounds the same as usual to me."[pcms]
+[ns]壬[nse]
+「いつもと同じとしか聞こえないぞ」[pcms]
 
 *651|
 [fc]
 [vo_miz s="mizuki0082"]
-[ns]Mizuki[nse]
-"I know he's not normal, but..."[pcms]
+[ns]瑞樹[nse]
+「あの人が普通じゃないのはあたしも分かってるけどさ」[pcms]
 
 *652|
 [fc]
-[ns]Jin[nse]
-"So he's still enjoying himself now?"[pcms]
+[ns]壬[nse]
+「それでいまもお楽しみの最中なのか？」[pcms]
 
 *653|
 [fc]
 [vo_miz s="mizuki0083"]
-[ns]Mizuki[nse]
-"No, now he said he's going to watch fireworks and took that[r]
-girl with red eyes out with him."[pcms]
+[ns]瑞樹[nse]
+「ううん、今は花火見物に行くって言って、[r]
+　あの赤い眼を連れて出ていったよ」[pcms]
 
 *654|
 [fc]
-[ns]Jin[nse]
-"Fireworks viewing, huh..."[pcms]
+[ns]壬[nse]
+「花火見物か……」[pcms]
 
 *655|
 [fc]
-That flow is as planned if you could call it that. The idea[r]
-was to keep the noisy pig quiet with women and fireworks[r]
-while we prepare for the meeting.[pcms]
+そこまでは予定通りと言えば予定通りな流れだ。[r]
+女と花火で小うるさい豚を黙らせて、[r]
+その間に会合の段取りをと思っていた。[pcms]
 
 *656|
 [fc]
 [vo_miz s="mizuki0084"]
-[ns]Mizuki[nse]
-"I'm scared. The guys who got bitten by those red eyes are[r]
-all saying they feel sick and have gone home..."[pcms]
+[ns]瑞樹[nse]
+「あたし何だか怖いよ。あの赤い眼に噛まれた連中も[r]
+　気分が悪いとか言ってみんな帰ったし……」[pcms]
 
 *657|
 [fc]
 [vo_miz s="mizuki0085"]
-[ns]Mizuki[nse]
-"Is it really okay to let them go watch fireworks with[r]
-her...?"[pcms]
+[ns]瑞樹[nse]
+「あんなの連れて花火見物なんて行かせて[r]
+　本当によかったの……？」[pcms]
 
 *658|
 [fc]
 [vo_miz s="mizuki0086"]
-[ns]Mizuki[nse]
-"That's definitely not normal. It's not ordinary..."[pcms]
+[ns]瑞樹[nse]
+「あれは絶対おかしいよ。普通じゃないよ……」[pcms]
 
 *659|
 [fc]
-What Mizuki says makes sense. Dazai is one thing, but those[r]
-red eyes are conspicuous, and taking her to a crowded place[r]
-might be problematic.[pcms]
+瑞樹の言うことも一理ある。[r]
+太宰はともかくあの赤い眼は目立つし、[r]
+人目の多い場所に出すのは問題があるかもしれない。[pcms]
 
 *660|
 [fc]
-It would be inconvenient to have problems arise before an[r]
-important meeting.[pcms]
+大事な会合を前にして問題を起こされるのはいささか都合が悪い。[pcms]
 
 *661|
 [fc]
-However, Dazai isn't someone who would listen if I said[r]
-something now. If I carelessly upset his mood, it will only[r]
-lead to trouble.[pcms]
+しかし、いまさら俺が言ったところで話を聞く太宰ではない。[r]
+無下に機嫌を損ねれば、面倒なことになるだけだ。[pcms]
 
 *662|
 [fc]
-After all, Dazai just needs to be brought to Celesta Tower[r]
-for tomorrow's meeting.[pcms]
+太宰は結局、明日会合に出席させるために、[r]
+セレスタワーへ来させればいいだけなのだから。[pcms]
 
 *663|
 [fc]
-[ns]Jin[nse]
-"Understood, I'll take your report into consideration for[r]
-now. But let Dazai-san do as he pleases for the time being."[pcms]
+[ns]壬[nse]
+「わかった、お前の報告は一応考慮はしとく。[r]
+　だが、今は太宰さんの好きにさせておけ」[pcms]
 
 *664|
 [fc]
-[ns]Jin[nse]
-"Even if I said something, I doubt that person would change[r]
-his mind. It would only cause more trouble... you[r]
-understand?"[pcms]
+[ns]壬[nse]
+「俺が言ったところで、あの人の気が変わるとも思えない。[r]
+　面倒が増えても困る……わかるな？」[pcms]
 
 *665|
 [fc]
 [vo_miz s="mizuki0087"]
-[ns]Mizuki[nse]
-"Y-Yes..."[pcms]
+[ns]瑞樹[nse]
+「う、うん……」[pcms]
 
 *666|
 [fc]
-[ns]Jin[nse]
-"If anything happens, contact me again. Got it?"[pcms]
+[ns]壬[nse]
+「なにかあったらまた連絡しろ。いいな？」[pcms]
 
 *667|
 [fc]
 [vo_miz s="mizuki0088"]
-[ns]Mizuki[nse]
-"O-Okay..."[pcms]
+[ns]瑞樹[nse]
+「わ、分かった……」[pcms]
 
 *668|
 [fc]
-While somehow soothing the frightened Mizuki, I hung up the[r]
-phone.[pcms]
+怯えた声を上げる瑞樹をなんとかなだめつつ、俺は電話を切った。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *669|
 [fc]
-[ns]Shigeyoshi[nse]
-"Big bro, big bro!"[pcms]
+[ns]重吉[nse]
+「アニキー、アニキー」[pcms]
 
 *670|
 [fc]
-This time, Shige came rushing over to me, shaking his[r]
-massive body.[pcms]
+今度はシゲが俺の方へと巨体をゆすって駆け寄ってきた。[pcms]
 
 *671|
 [fc]
-[ns]Jin[nse]
-"You're a noisy one, what do you want?"[pcms]
+[ns]壬[nse]
+「騒がしいやつだな、いったい何の用だ」[pcms]
 
 *672|
 [fc]
-[ns]Shigeyoshi[nse]
-"Big bro, the main organizer, a high-ranking officer, has[r]
-inquired about the preparations and says that the people who[r]
-are supposed to stay at the hotel tonight have arrived."[pcms]
+[ns]重吉[nse]
+「アニキ、今回の主催者である大幹部の人から[r]
+　準備状況の問い合わせと、今夜ホテルに泊まる予定の[r]
+　人が到着したそうです」[pcms]
 
 *673|
 [fc]
-[ns]Jin[nse]
-"Tch, they're already here? Understood, I'll go right away."[pcms]
+[ns]壬[nse]
+「チッ、もう来たのか。分かったすぐ行く」[pcms]
 
 *674|
 [fc]
-It seems that someone who planned to arrive early like Dazai[r]
-has arrived. Neither can be neglected.[pcms]
+どうやら太宰のように前のり予定の人が到着したらしい。[r]
+どっちも放置はできない相手だ。[pcms]
 
 *675|
 [fc]
-[ns]Jin[nse]
-"Damn, it's busy as hell."[pcms]
+[ns]壬[nse]
+「まったく、クソみていに忙しいぜ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *676|
 [fc]
-[ns]Shigeyoshi[nse]
-"You have it tough too, big bro..."[pcms]
+[ns]重吉[nse]
+「アニキも大変ですよね……」[pcms]
 
 *677|
 [fc]
-[ns]Jin[nse]
-"Well yeah... that's what climbing to the top is all about."[pcms]
+[ns]壬[nse]
+「まあな……のし上がるってのはそういうもんだ」[pcms]
 
 *678|
 [fc]
-The path I aimed for. The path I chose.[pcms]
+自分が目指した道。自分で選んだ道。[pcms]
 
 *679|
 [fc]
-Though I understand that... sometimes I feel like the place[r]
-I stand is actually covered in shit.[pcms]
+それは分かってるが……俺は時々そんな自分の立っている場所が、[r]
+実はクソまみれな気がすることがある。[pcms]
 
 *680|
 [fc]
-It's as if I'm just enjoying being the king of a mountain[r]
-made of shit...[pcms]
+クソでできたクソの山に乗って、俺はお山の大将気分を[r]
+味わってるだけなんじゃないのかと……。[pcms]
 
 *681|
 [fc]
-[ns]Jin[nse]
-"Alright, let's go greet the officer. Gather the available[r]
-guys."[pcms]
+[ns]壬[nse]
+「よし、幹部への挨拶をするぞ。[r]
+　手すきの連中集めて来い」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *682|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ah, yes... understood."[pcms]
+[ns]重吉[nse]
+「あっ、はい……わかりましたぁ」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *683|
 [fc]
-Following my command, Shige thudded away with heavy[r]
-footsteps, disappearing into the hotel.[pcms]
+俺の号令に従って、シゲはドスンドスンと足音を[r]
+響かせてホテル内へと消えていった。[pcms]
 
 *684|
 [fc]
-If a high-ranking officer has arrived, we need to be mindful[r]
-of security.[pcms]
+幹部のご到着となれば警備にも気を回さなければならない。[pcms]
 
 *685|
 [fc]
-Of course, entertainment to prevent boredom is essential,[r]
-just like with Dazai.[pcms]
+もちろん太宰同様に退屈させないための[r]
+おもてなしだって不可欠だ。[pcms]
 
 *686|
 [fc]
-[ns]Jin[nse]
-"Hey, make sure the women are ready. And have alcohol[r]
-prepared in the room."[pcms]
+[ns]壬[nse]
+「おい、女の用意はできているな。[r]
+　それから部屋に酒の用意をさせておけよ」[pcms]
 
 *687|
 [fc]
-[ns]Henchman A[nse]
-"Yeah, I'll bring the women over quick."[pcms]
+[ns]手下Ａ[nse]
+「おう、女、速攻連れてくるぜ」[pcms]
 
 *688|
 [fc]
-[ns]Henchman B[nse]
-"The order's for booze and hors d'oeuvres, right?"[pcms]
+[ns]手下Ｂ[nse]
+「酒とオードブルの注文でいいんだよな」[pcms]
 
 *689|
 [fc]
-[ns]Jin[nse]
-"You, go ahead and check the room. It'll be a problem if[r]
-there are issues after we move."[pcms]
+[ns]壬[nse]
+「お前、先行って部屋の確認してこい。[r]
+　移動してから問題があったらことだからな」[pcms]
 
 *690|
 [fc]
-[ns]Henchman C[nse]
-"Understood."[pcms]
+[ns]手下Ｃ[nse]
+「わかりました」[pcms]
 
 *691|
 [fc]
-[ns]Jin[nse]
-"You keep an eye on the elevator hall."[pcms]
+[ns]壬[nse]
+「お前はエレベーターホールを見まわっとけ」[pcms]
 
 *692|
 [fc]
-[ns]Henchman D[nse]
-"Roger that."[pcms]
+[ns]手下Ｄ[nse]
+「了解しました」[pcms]
 
 *693|
 [fc]
-In the suddenly bustling hotel, I started barking orders at[r]
-my underlings. To climb the mountain of shit, to become the[r]
-king of shit...[pcms]
+途端にあわただしくなったホテル内で[r]
+俺は手下たちにあれこれと指示を飛ばしていく。[r]
+クソの山を登るため、クソの大将になる為に……。[pcms]
 
 *694|
 [fc]
-To curry favor with the lord of shit. I run around to[r]
-capture the interest of the lord of shit...[pcms]
+クソの主に媚を売る。[r]
+クソの主の関心を買うために俺は奔走する……。[pcms]
 
 *695|
 [fc]
-Knowing it's all shit, why can't I stop?[pcms]
+クソだと分かっているのに、どうして俺は止まれない？[pcms]
 
 *696|
 [fc]
-If this world is full of nothing but shit, maybe it would be[r]
-better to turn it upside down and make it decent for once.[pcms]
+こんなクソばかりの世の中なら、[r]
+いっそひっくり返ってしまった方が[r]
+まだまともになっていいのかもしれないのに。[pcms]
 
 *697|
 [fc]
-[ns]Jin[nse]
-"Shit should just flow away as it should..."[pcms]
+[ns]壬[nse]
+「クソはクソらしく流れちまえばいいのにな……」[pcms]
 
 *698|
 [fc]
-Muttering self-deprecatingly, I headed towards the hotel[r]
-entrance to welcome the officer.[pcms]
+俺は自嘲気味にそう呟きながら、幹部を出迎えるために[r]
+ホテルの玄関口へと向かった。[pcms]
 
 ;//〆フェードアウト
 ;[zapend_random]

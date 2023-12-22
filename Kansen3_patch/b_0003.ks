@@ -41,80 +41,80 @@
 *3088|
 [fc]
 [vo_ren s="ren_GB0018"]
-[ns]Ren[nse]
-"...hah, hah...hah...hah..."[pcms]
+[ns]漣[nse]
+「…………はぁ、はぁ……はぁ……はぁ……」[pcms]
 ;//ren_GB0018.wav
 
 *3089|
 [fc]
-What am I even thinking!? My sister is in such a state right[r]
-in front of me!![pcms]
+ボクは一体何を考えているんだ！？[r]
+目の前の妹がこんな状態だというのに！！[pcms]
 
 *3090|
 [fc]
-[ns]Wataru[nse]
-"Ren! I'm sorry!!"[pcms]
+[ns]航[nse]
+「漣！　ゴメン！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3091|
 [fc]
 [vo_ren s="ren0598"]
-[ns]Ren[nse]
-"Ah..."[pcms]
+[ns]漣[nse]
+「あっ……」[pcms]
 ;//ren0598.wav
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *3092|
 [fc]
-I pushed Ren away and jumped back from the spot. In doing[r]
-so, Ren fell to the floor.[pcms]
+ボクは漣を突き飛ばして、その場から飛び退いた。[r]
+その拍子に、漣は床に倒れ込んでしまった。[pcms]
 
 *3093|
 [fc]
-[ns]Wataru[nse]
-"Ren, I'm sorry! Are you okay!?"[pcms]
+[ns]航[nse]
+「漣、ゴメン！　大丈夫か！？」[pcms]
 
 *3094|
 [fc]
-Ren fell hard because I pushed her with all my might, but[r]
-she slowly got up and smiled at me again.[pcms]
+思いっきり突き飛ばしたせいで、勢いよく倒れ込んだ漣だけど、[r]
+すぐにゆっくりと起き上がり、またボクに微笑みかけた。[pcms]
 
 *3095|
 [fc]
-[ns]Wataru[nse]
-"...Ah!!"[pcms]
+[ns]航[nse]
+「……あっ！！」[pcms]
 
 *3096|
 [fc]
-Perhaps her color contacts had come off when she fell,[r]
-because Ren's eye color was different than usual.[pcms]
+転んだ拍子に、カラーコンタクトが外れてしまったのか、[r]
+漣の目の色はいつもと違っていた。[pcms]
 
 *3097|
 [fc]
-It was the same red color as that eerie girl I saw with the[r]
-LASER two days ago.[pcms]
+一昨日ＬＡＳＥＲで見たあの不気味な少女と同じ、[r]
+赤い色をしていた。[pcms]
 
 *3098|
 [fc]
-[ns]Wataru[nse]
-"Uwah...uwaaaaahhh!! Ren!? Uwaaaaaaaaahhh!!"[pcms]
+[ns]航[nse]
+「うわっ……うわああああっ！！　漣！？[r]
+　うわあああああああっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3099|
 [fc]
 [vo_ren s="ren_RK0001"]
-[ns]Ren[nse]
-"...Onii-chan..."[pcms]
+[ns]漣[nse]
+「…………おにい、ちゃん……」[pcms]
 ;//ren_RK0001.wav
 
 *3100|
 [fc]
-Remembering Ren's behavior and the girl I saw two days ago,[r]
-I felt a sense of eeriness and involuntarily ran out of the[r]
-house.[pcms]
+今までの漣の様子と、一昨日見たあの少女を思い出し、[r]
+不気味さを感じたボクは思わず家の外へと飛び出してしまった。[pcms]
 
 ;//〆ＢＧ：青空
 [bg storage="BGS008a"][trans_c cross time=500]
@@ -128,62 +128,61 @@ house.[pcms]
 
 *3101|
 [fc]
-[ns]Wataru[nse]
-"What the...what is this all about!!"[pcms]
+[ns]航[nse]
+「何だ……なんだっていうんだ、これは！！」[pcms]
 
 *3102|
 [fc]
-As I ran outside, I could hear police sirens, screams, and[r]
-shouts from all over town.[pcms]
+外へと飛び出すと、街中至る所からパトカーのサイレンの音や、[r]
+悲鳴、怒号が聞こえてきていた。[pcms]
 
 *3103|
 [fc]
-Something terrible must have happened while I was asleep.[pcms]
+ボクが寝ている間に、何かとんでもない事が起こったんだろうか。[pcms]
 
 *3104|
 [fc]
-Could it be that Ren got caught up in it too?[pcms]
+だとすると、漣もそれに巻き込まれてしまった？[pcms]
 
 *3105|
 [fc]
-In a town that had become like a scene from a panic movie, I[r]
-ran without any destination in mind.[pcms]
+まるでパニック映画の様になっている街の中を、[r]
+ボクは行く当てもなく走り続けた。[pcms]
 
 *3106|
 [fc]
-While running, I felt something strange with my body.[r]
-Perhaps because of what happened with Ren earlier, my dick,[r]
-which should have been satisfied, was getting even hotter,[r]
-and my body was flushed with heat.[pcms]
+走り続けているあいだ、ボクは身体に異変を感じていた。[r]
+さっきの漣との行為のせいか、イッたはずのモノは益々熱く、[r]
+身体も火照っている。[pcms]
 
 *3107|
 [fc]
-I also felt a heat different from the summer warmth, like[r]
-after a bath or when having a fever, and my vision started[r]
-to spin.[pcms]
+それに、夏の暑さとはまた別の、風呂上がりや風邪を引いた時の[r]
+様な火照りを感じ、目の前がクラクラしてきていた。[pcms]
 
 *3108|
 [fc]
-This is strange... What's happening to my body...? It's not[r]
-like I have a cold...[pcms]
+おかしい……。[r]
+ボクの身体、どうしちゃったんだろう……？[r]
+風邪引いた訳でもないのに……。[pcms]
 
 *3109|
 [fc]
 [vo_mob s="onnanoko0001"]
 [ns]？？？[nse]
-"Kyaaaahhhhh!"[pcms]
+「きゃぁあああああっ！」[pcms]
 ;//＠女の子
 ;//ブロック20040の女の子の声を流用
 
 *3110|
 [fc]
-As the dizziness and heat became stronger and running became[r]
-difficult, a girl's scream pierced my ears.[pcms]
+目眩と火照りが強くなり、走るのが辛くなってきた頃、[r]
+ボクの耳に、女の子の悲鳴が突き刺さった。[pcms]
 
 *3111|
 [fc]
-Staggering towards where the scream came from, I saw an[r]
-abnormal act taking place.[pcms]
+悲鳴がした方へ、フラフラと歩いていくと、[r]
+そこでは、異常な行為が行われていた。[pcms]
 
 ;//ここから下、ブロック20040を流用。一部地の文変更。
 ;//使い回しが効くのは、ボイスとイベント差分の変更順。
@@ -195,219 +194,225 @@ abnormal act taking place.[pcms]
 
 *3112|
 [fc]
-What jumped into my sight was a girl being raped by several[r]
-men.[pcms]
+ボクの目に飛び込んできたのは、女の子が数人の男たちに[r]
+レイプされている姿だった。[pcms]
 
 *3113|
 [fc]
 [vo_mob s="onnanoko0002"]
-[ns]Girl[nse]
-"No...mmphhguuuu. Stop... nghuuuu"[pcms]
+[ns]女の子[nse]
+「い、いや……んっふぐぅううっ。や、ヤメ……[r]
+　んくぅううっ」[pcms]
 
 *3114|
 [fc]
-[ns]Man A[nse]
-"Hey, suck it more. You love dick, don't you?"[pcms]
+[ns]男Ａ[nse]
+「ホラ、もっとしゃぶれ。チンポが好きなんだろ？」[pcms]
 
 *3115|
 [fc]
-[ns]Male B[nse]
-"Don't forget about this dick too. Hey, if you've got time[r]
-to talk, you've got time to suck."[pcms]
+[ns]男Ｂ[nse]
+「こっちのチンポも忘れるなよ。ほら、喋ってる[r]
+　ヒマがあったら咥えるんだよ」[pcms]
 
 *3116|
 [fc]
 [vo_mob s="onnanoko0003"]
-[ns]Girl[nse]
-"Higufuuu...no, akufuuu, oh, grandpa, stop..."[pcms]
+[ns]女の子[nse]
+「ひぐふぅう……や、あくふぅう、お、おじいちゃん、[r]
+　や、やめて……」[pcms]
 
 *3117|
 [fc]
-[ns]Elder[nse]
-"Kuuu, young pussy is irresistible. It has a different[r]
-taste. slurrrrrp"[pcms]
+[ns]老人[nse]
+「くぅう、若い娘のマンコはたまらんわい。[r]
+　味わいが違うのぉ。じゅるるるるぅうっ」[pcms]
 
 *3118|
 [fc]
 [vo_mob s="onnanoko0004"]
-[ns]Girl[nse]
-"Higguuuuu. Ngh, no, ah. nghju... it's wrong... nghk,[r]
-nghfuuuu"[pcms]
+[ns]女の子[nse]
+「ひっぐぅううっ。んっぐ、や、あぅ。んっぢゅ……[r]
+　はいんな……んっく、んぐ、んぐふぅうっ」[pcms]
 
 *3119|
 [fc]
-I'm envious... I want to join that group...[pcms]
+うらやましい……。[r]
+ボクも、あの集団に混ざりたい……。[pcms]
 
 *3120|
 [fc]
-...?? What am I thinking...?[pcms]
+……？？[r]
+何を考えているんだ、ボクは……。[pcms]
 
 *3121|
 [fc]
-But this is... Is this a dream? Am I still in bed?[pcms]
+でも、こんなの……。[r]
+これは夢？[r]
+ボクはまだ、布団の中なんじゃないか？[pcms]
 
 *3122|
 [fc]
-But this is... reality...?[pcms]
+でも、これは……現実……か？[pcms]
 
 *3123|
 [fc]
-I don't know...[pcms]
+わからない……。[pcms]
 
 *3124|
 [fc]
-I don't recognize those men, but if I'm not mistaken, the[r]
-old man and the girl are definitely...[pcms]
+あの男たちには見覚えがないけれど、おじいさんと[r]
+女の子は、見間違えじゃなければ、確か……。[pcms]
 ;//20040のテキストを修正。
 
 *3125|
 [fc]
-[ns]Elderly person[nse]
-"I can't hold back anymore. Here, Miyuki, let grandpa feed[r]
-you his dick."[pcms]
+[ns]老人[nse]
+「もう我慢できん。ほら、みゆき、じいちゃんのチンポを[r]
+　食わせてやるからなぁ」[pcms]
 
 *3126|
 [fc]
 [vo_mob s="onnanoko0005"]
-[ns]Girl[nse]
-"No, I don't want to. Grandpa, come back to your senses!!"[pcms]
+[ns]女の子[nse]
+「や、ヤダ。ヤダ、ヤダ、ヤダッ！　お、おじいちゃん、[r]
+　しょ、正気に、正気に戻ってっ！！」[pcms]
 
 [evcg storage="HEV014b"][trans_c cross time=300]
 
 *3127|
 [fc]
-The girl pleaded with a face about to cry.[pcms]
+泣き出しそうな顔で女の子が哀願する。[pcms]
 
 *3128|
 [fc]
-But--[pcms]
+けれど――[pcms]
 
 *3129|
 [fc]
 [vo_mob s="onnanoko0006"]
-[ns]Girl[nse]
-"Hyaaaaaaaah!!"[pcms]
+[ns]女の子[nse]
+「ひゃぁあああああっ！！」[pcms]
 
 *3130|
 [fc]
-In vain, the girl's plea was ignored as the old man's erect[r]
-member was thrust deeply into her pussy in one go.[pcms]
+その哀願もむなしく、女の子のアソコにはいきり立った[r]
+おじいさんのモノが深々と一気に挿入された。[pcms]
 
 *3131|
 [fc]
-[ns]Elderly person[nse]
-"Fuguuuu. Miyuki's pussy feels good, it feels so good. I'm[r]
-still in the game jaaaaah!!"[pcms]
+[ns]老人[nse]
+「ふぐぅうう。みゆきのマンコは具合がえぇ、[r]
+　具合がえぇぞ。わしもまだまだ現役じゃぁああっ！！」[pcms]
 
 *3132|
 [fc]
 [vo_mob s="onnanoko0007"]
-[ns]Girl[nse]
-"Higufuuu, it's too much... fwaaaah... No..."[pcms]
+[ns]女の子[nse]
+「ひぐふぅう、も、んっぷ、ふわぁあ……ヤダ……」[pcms]
 
 *3133|
 [fc]
-[ns]Man A[nse]
-"She's enjoying your hip movements, old man. Don't leave us[r]
-out."[pcms]
+[ns]男Ａ[nse]
+「じいさんの腰使いに喜んで、お留守にするなよ」[pcms]
 
 [evcg storage="HEV014c"][trans_c cross time=300]
 
 *3134|
 [fc]
 [vo_mob s="onnanoko0008"]
-[ns]Girl[nse]
-"Nghguuu... it's painful... nghguuu"[pcms]
+[ns]女の子[nse]
+「んっぐぅう……く、苦し……んっぐぅう」[pcms]
 
 *3135|
 [fc]
-[ns]Male B[nse]
-"You're happy, aren't you? Getting your pussy fucked by[r]
-grandpa while sucking on two dicks. Hey, how does it feel to[r]
-taste three dicks at once?"[pcms]
+[ns]男Ｂ[nse]
+「嬉しいだろ？　じいさんにおまんこにぶち込んでもらいながら、[r]
+　チンポ２本も舐められてよ。ほら、大好きなチンポ[r]
+　３本味わってる気分はどうだ？」[pcms]
 
 *3136|
 [fc]
 [vo_mob s="onnanoko0009"]
-[ns]Girl[nse]
-"I don't... like it... nghgu. No more. Don't move. Don't[r]
-move... nghjuuu"[pcms]
+[ns]女の子[nse]
+「す、好きじゃ……好きなわけ……んっぐ。も、もうイヤ。[r]
+　う、動かないで。動かな……んぢゅううっ」[pcms]
 
 *3137|
 [fc]
-[ns]Elderly person[nse]
-"Does it feel good? It feels good doesn't it? Grandpa's dick[r]
-won't lose to any young man."[pcms]
+[ns]老人[nse]
+「気持ちいいか？　気持ちいいじゃろ？　じいちゃんの[r]
+　チンポは、まだまだ若い者には負けんぞ」[pcms]
 
 *3138|
 [fc]
-My eyes and neck seemed to be fixed in place, unable to look[r]
-away.[pcms]
+ボクの目は、首は何かに固定されたかのように惹きつけられ、[r]
+目をそらすことなんてできなかった。[pcms]
 
 *3139|
 [fc]
-I was torn between the desire to join in and the urge to[r]
-flee from this place as soon as possible, leaving me unable[r]
-to move my feet.[pcms]
+ボクも混ざりたい、という気持ちと、一刻も早くこの場から[r]
+逃げ出したいという気持ちがせめぎ合い、足が動かなくなって[r]
+しまっていた。[pcms]
 
 *3140|
 [fc]
 [vo_mob s="onnanoko0010"]
-[ns]Girl[nse]
-"No... stop... ah."[pcms]
+[ns]女の子[nse]
+「い、いや……や、や……あっ」[pcms]
 
 *3141|
 [fc]
-[ns]Elderly person[nse]
-"I'm going to cum. Here, take a good load of grandpa's[r]
-semen."[pcms]
+[ns]老人[nse]
+「イクぞ。ほら、たっぷりじいちゃんの精子を[r]
+　ぶちまけてやるからな」[pcms]
 
 *3142|
 [fc]
 [vo_mob s="onnanoko0011"]
-[ns]Girl[nse]
-"Not inside... you can't... nghuuuu."[pcms]
+[ns]女の子[nse]
+「な、中は……中はダメ……んっぐぅううっ」[pcms]
 
 *3143|
 [fc]
-[ns]Man A[nse]
-"You must be happy, getting covered in your favorite semen,[r]
-right?"[pcms]
+[ns]男Ａ[nse]
+「大好きなザーメンまみれになれるんだ、嬉しいだろ？」[pcms]
 
 *3144|
 [fc]
-[ns]Man B[nse]
-"Gyahahaha! The old man's fuck has some spirit in it. We[r]
-can't lose either!"[pcms]
+[ns]男Ｂ[nse]
+「ぎゃはははっ！　ジジイのファックは気合が入ってんな。[r]
+　こっちも負けられないぜ！」[pcms]
 
 *3145|
 [fc]
-[ns]Elderly person[nse]
-"I'm cumming. Here, here, hereee!"[pcms]
+[ns]老人[nse]
+「出すぞ。ほら、ほら、ほらぁああっ！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV014d"]
 
 *3146|
 [fc]
-With a force that seemed audible even to me, the girl's[r]
-pussy overflowed with the old man's white semen.[pcms]
+ドクンッと、ボクにまで音が聞こえてくるような勢いで、[r]
+女の子のアソコから真っ白なおじいさんの精子があふれてくる。[pcms]
 
 *3147|
 [fc]
-[ns]Elderly person[nse]
-"Good... good... heeheehee... ughawaaaah!!"[pcms]
+[ns]老人[nse]
+「イイ……イイ……イヒイヒヒヒイ……。[r]
+　うぐぁわああっ！！」[pcms]
 
 *3148|
 [fc]
-[ns]Man A[nse]
-"The old man's dead. Was it a pussy so good that it sent him[r]
-to heaven?"[pcms]
+[ns]男Ａ[nse]
+「じいさん、死んじまったぜ。天国に逝くほど具合が[r]
+　いいスケベマンコか？」[pcms]
 
 *3149|
 [fc]
-[ns]Male B[nse]
-"I'll give you a shower of my semen too."[pcms]
+[ns]男Ｂ[nse]
+「俺の精液も浴びさせてやるぜ」[pcms]
 
 ;//[vo_mob s="onnanoko0012"]
 [se buf=0 storage="se_sex01"]
@@ -416,136 +421,138 @@ to heaven?"[pcms]
 *3150|
 [fc]
 [vo_mob s="onnanoko0012"]
-[ns]Girl[nse]
-"Ahaha, ahahaha... ahahahahaha!"[pcms]
+[ns]女の子[nse]
+「あは、あはは……あはははははっ」[pcms]
 
 ;//＠（ここから徐々に気が狂っていくような感じの笑い声で
 ;//お願いします。この辺りから発症し始めているような感じ）
 
 *3151|
 [fc]
-[ns]Man A[nse]
-"Here, swallow my semen too."[pcms]
+[ns]男Ａ[nse]
+「ほら、俺のザーメンもたっぷり呑め」[pcms]
 
 [evcg storage="HEV014g"][trans_c cross time=300]
 
 *3152|
 [fc]
 [vo_mob s="onnanoko0013"]
-[ns]Girl[nse]
-"Nghuu, nghu nghu... gehu, gehu, gehooo!"[pcms]
+[ns]女の子[nse]
+「んっぐ、んぐんぐ……げふっ、げふっ、げほぉおっ」[pcms]
 
 *3153|
 [fc]
-The girl repeatedly vomited as she received the men's semen[r]
-on her face and in her mouth.[pcms]
+男たちの精子を顔や腔内に受けて、女の子は[r]
+嘔吐を繰り返した。[pcms]
 
 *3154|
 [fc]
-But without any hesitation or apology, the men kicked aside[r]
-the old man who had just ejaculated and had become[r]
-motionless, and inserted themselves into the girl's pussy.[pcms]
+けれど男たちは遠慮会釈もなしに、つい先ほど[r]
+射精したばかりだというのに、ピクリとも動かなくなった[r]
+おじいさんを足蹴にして、女の子のアソコに挿入する。[pcms]
 
 [evcg storage="HEV014i"][trans_c cross time=300]
 
 *3155|
 [fc]
 [vo_mob s="onnanoko0014"]
-[ns]Girl[nse]
-"Hifuuuu, it's rough... rough. It's grinding inside my[r]
-pussy."[pcms]
+[ns]女の子[nse]
+「ひふぅうっ、ご、ゴリゴリ……ゴリゴリする。[r]
+　おまんこの中、ゴリゴリするよぉお」[pcms]
 
 *3156|
 [fc]
-[ns]Male B[nse]
-"Our dicks feel better than the old man's limp one, right?"[pcms]
+[ns]男Ｂ[nse]
+「じいさんのフニャチンより、俺たちの[r]
+　チンポのほうがいいだろ？」[pcms]
 
 *3157|
 [fc]
 [vo_mob s="onnanoko0015"]
-[ns]Girl[nse]
-"Y-yes, it's good. Nghufuuu, your cocks are stirring me up[r]
-inside."[pcms]
+[ns]女の子[nse]
+「い、いひぃいい、いいの。んっぐふぅう、[r]
+　おちんちん、ぐちゅぐちゅ掻き混ぜてるぅ」[pcms]
 
 *3158|
 [fc]
-Was it the shock of the old man's death?[pcms]
+おじいさんが死んだショックなのか？[pcms]
 
 *3159|
 [fc]
-The girl's attitude changed drastically, and she began to[r]
-accept the men.[pcms]
+女の子の態度は急変して、男たちを受け入れ始めてる。[pcms]
 
 *3160|
 [fc]
-And then... someone casually appeared from the alley.[pcms]
+と……路地からふらりと誰かが顔を出した。[pcms]
 
 *3161|
 [fc]
-[ns]Male C[nse]
-"Uhaa, pussy... pussy!"[pcms]
+[ns]男Ｃ[nse]
+「うはっ、マンコ……マンコッ！」[pcms]
 
 *3162|
 [fc]
-[ns]Male D[nse]
-"Let me in too, let me thrust in."[pcms]
+[ns]男Ｄ[nse]
+「俺にも、俺にも突っ込ませろ」[pcms]
 
 *3163|
 [fc]
 [vo_mob s="onnanoko0016"]
-[ns]Girl[nse]
-"Give it to me, more, thrust in more. Ahahahahaha! Cocks, so[r]
-many cocks!"[pcms]
+[ns]女の子[nse]
+「ちょうだい、もっと、もっといっぱい突っ込んで。[r]
+　あはははははっ。おちんちん、おちんちんいっぱぁああい」[pcms]
 
 *3164|
 [fc]
-Without any hesitation, they approached her, and instead of[r]
-stopping the atrocity, they swarmed the girl and pushed[r]
-aside the man who was inserting himself to get their own[r]
-turn.[pcms]
+迷いもせずに彼らに近づいていくのを見て、凶行を[r]
+とめるのかと思いきや、わらわらと女の子に群がり、[r]
+挿入してる男を押しのけてまで自分のモノを挿入する。[pcms]
 
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
 *3165|
 [fc]
-I couldn't believe what I was seeing, and although I[r]
-couldn't run away, I just kept watching the girl being[r]
-violated.[pcms]
+ボクは自分が見ている光景を信じることができなくて、[r]
+かといって逃げ出すこともできなくて、ずっと女の子が[r]
+陵辱されていく様を見続けているだけだ。[pcms]
 
 *3166|
 [fc]
-What caused all this to happen?[pcms]
+何が原因でこんなことが起きてるんだ？[pcms]
 
 *3167|
 [fc]
-I don't know. I don't understand anything.[pcms]
+わからない。[r]
+何もわからない。[pcms]
 
 *3168|
 [fc]
-The confusion in my head was changing something. What was[r]
-happening before my eyes shouldn't be happening.[pcms]
+混乱したボクの頭の中で、何かが変わっているのも感じる。[r]
+今目の前で行われている事は、あってはならない事のはず。[pcms]
 
 *3169|
 [fc]
-But I even felt envious of the situation unfolding before[r]
-me.[pcms]
+だけど、ボクは目の前のこの状況を……。[r]
+うらやましいとすら、感じている。[pcms]
 
 *3170|
 [fc]
-Why... No... this is wrong!![pcms]
+一体、何故……。[r]
+駄目だ……駄目だ！！[pcms]
 
 *3171|
 [fc]
-If I stay here, I might go crazy too!![pcms]
+ここにいたら、ボクもおかしくなりそうだ！！[pcms]
 
 *3172|
 [fc]
-I want to help the girl. But if I go near there, I don't[r]
-know what I might do.[pcms]
+女の子を助けたい。[r]
+でも、あの近くにいったら、ボクは何をするか分からない。[pcms]
 
 *3173|
 [fc]
-Driven by a vague anxiety, I fled from the scene.[pcms]
+漠然とした不安に駆られたボクは、その場から逃げる様に[r]
+立ち去った。[pcms]
 
 ;//ここまで、ブロック20040を流用
 
@@ -557,38 +564,39 @@ Driven by a vague anxiety, I fled from the scene.[pcms]
 
 *3174|
 [fc]
-I could clearly feel my head spinning, but my legs didn't[r]
-stop moving, and before I knew it, I had reached near Inori-[r]
-san's shop amidst screams and siren sounds.[pcms]
+自分でもはっきり分かるくらい、頭がクラクラしていたけど、[r]
+ボクの足は留まる事もなく、悲鳴や、サイレンの音を全身に[r]
+受けながら、いつのまにか緒織さんのお店の近くまで来ていた。[pcms]
 
 *3175|
 [fc]
-[ns]Wataru[nse]
-"Near Otowa... ah... I wonder if Inori-san is okay..."[pcms]
+[ns]航[nse]
+「音羽の近く……あっ……緒織さんは、大丈夫かな……」[pcms]
 
 *3176|
 [fc]
-Inori-san. When I try to think about her, her voluptuous[r]
-body inevitably comes to mind.[pcms]
+緒織さん。[r]
+あの人のことを思い出そうとすると、どうしても[r]
+豊満な肉体が頭に浮かぶ。[pcms]
 
 *3177|
 [fc]
-I'm worried about her safety, yet I'm thinking such things.[r]
-Has my mind been affected because Ren was treated like that?[pcms]
+大丈夫か、と心配しながらもこんな事考えるなんて。[r]
+漣があんなになってしまったせいで、ボクの頭も……？[pcms]
 
 *3178|
 [fc]
-[ns]Wataru[nse]
-"Huh? The shop's door is..."[pcms]
+[ns]航[nse]
+「あれ？　お店の扉が……」[pcms]
 
 *3179|
 [fc]
-The door to Inori-san's shop was clearly broken. Was it a[r]
-burglary or is there another reason?[pcms]
+緒織さんのお店の扉は、明らかに壊されていた。[r]
+泥棒でも入ったのか、それともまた別の理由があるのか。[pcms]
 
 *3180|
 [fc]
-Worried about Inori-san, I peeked inside the shop.[pcms]
+緒織さんが心配になったボクは、お店の中をのぞき込んだ。[pcms]
 
 ;//このあたりでループ止めておく
 [stopse buf=0]
@@ -596,8 +604,7 @@ Worried about Inori-san, I peeked inside the shop.[pcms]
 
 *3181|
 [fc]
-Then, there was the third abnormal scene of the day[r]
-unfolding before me.[pcms]
+すると、そこには今日三度目になる、異常な光景が広がっていた。[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -612,53 +619,53 @@ unfolding before me.[pcms]
 *3182|
 [fc]
 [vo_ior s="iori_BB0001"]
-[ns]Inori[nse]
-"Ugh..."[pcms]
+[ns]緒織[nse]
+「うぁ……」[pcms]
 
 *3183|
 [fc]
-The inside of Otowa was a mess as if after a robbery, and in[r]
-the middle of the table lay Inori-san, sprawled out[r]
-listlessly.[pcms]
+音羽の中は、強盗が押し入ったあとの様に滅茶苦茶になっていて、[r]
+その真ん中のテーブルには、[r]
+緒織さんがぐったりと横たわっていた。[pcms]
 
 *3184|
 [fc]
-It seemed like the act was over; around Inori-san stood[r]
-several men with their lower halves exposed.[pcms]
+行為が終わったあとだろうか、緒織さんの周りには、[r]
+下半身をむき出しにした男達が何人も立っていた。[pcms]
 
 *3185|
 [fc]
-[ns]Wataru[nse]
-"Ah... ahhh..."[pcms]
+[ns]航[nse]
+「あ……ああぁ……」[pcms]
 
 *3186|
 [fc]
-I was so shocked by the sight that I became speechless.[pcms]
+あまりの光景に驚き、[r]
+ボクは声も出せない状態になってしまっていた。[pcms]
 
 *3187|
 [fc]
-[ns]Man A[nse]
-"As expected, when she looks good on the outside, her pussy[r]
-feels amazing too, eh!"[pcms]
+[ns]男Ａ[nse]
+「やっぱ、見た目もいいとアソコの具合も最高だなぁ、オイ！」[pcms]
 
 *3188|
 [fc]
-[ns]Male B[nse]
-"Ah, it would have been bad if Tadahiko had been here!"[pcms]
+[ns]男Ｂ[nse]
+「ああ、忠彦がいたらヤバかったがな！」[pcms]
 
 *3189|
 [fc]
-[ns]Male C[nse]
-"Oh, what's this? Wataru, you want to screw Inori too? You[r]
-don't even need foreplay now! Hyahaha!!"[pcms]
+[ns]男Ｃ[nse]
+「お、なんだ？　航も緒織とヤリてーのか？[r]
+　今なら前戯もいらねぇぞ！？　ひゃはははっ！！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3190|
 [fc]
 [vo_ior s="iori_BB0002"]
-[ns]Inori[nse]
-"Ni, ge... Wata...ru"[pcms]
+[ns]緒織[nse]
+「に、げ……わた……る」[pcms]
 ;//＠にげて、航　と言おうとしている。
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
@@ -666,380 +673,380 @@ don't even need foreplay now! Hyahaha!!"[pcms]
 *3191|
 [fc]
 [vo_ior s="iori_BB0003"]
-[ns]Inori[nse]
-"Just hi...ko, han ni... no more..."[pcms]
+[ns]緒織[nse]
+「ただひ……こ、はんに……もう……」[pcms]
 ;//＠忠彦はんにもう会えない、と言おうとしている
 
 *3192|
 [fc]
-[ns]Wataru[nse]
-"Inori-san..."[pcms]
+[ns]航[nse]
+「緒織さん……」[pcms]
 
 ;//SE:心臓の鼓動
 
 *3193|
 [fc]
-Why has it come to this? Why has the town turned out like[r]
-this? But why!?[pcms]
+どうしてこんな事に？[r]
+街中がこんな風になってる？[r]
+でも、どうして！？[pcms]
 
 *3194|
 [fc]
-I desperately tried to make sense of the situation with my[r]
-head starting to feel hazy.[pcms]
+ボクは、意識が朦朧とし始めた頭を必死に回転させ、[r]
+今の状況を整理しようとした。[pcms]
 
 *3195|
 [fc]
-But no matter how much I think, I can't understand anything.[pcms]
+だけど、いくら考えても何もわからない。[pcms]
 
 *3196|
 [fc]
-Ren's condition. The state of the townspeople. And the[r]
-situation inside Otowa.[pcms]
+漣のあの様子。[r]
+町の人達の様子。[r]
+それに、この音羽の中の状況。[pcms]
 
 *3197|
 [fc]
-Everything seems like it's straight out of a game or a[r]
-movie.[pcms]
+全部が、まるでゲームや映画の世界の中のような状態。[pcms]
 
 *3198|
 [fc]
-In front of me was Inori-san, undoubtedly after being raped.[r]
-And the familiar townspeople were surrounding her.[pcms]
+目の前には、間違いなくレイプされた後の緒織さんが。[r]
+そして、見慣れた町の人達が、周りを取り囲んでいる。[pcms]
 
 *3199|
 [fc]
-Because I overslept, have I been sent to a completely[r]
-different world?[pcms]
+二度寝なんかしたばっかりに、ボクは全然違う世界に[r]
+送られてしまったんじゃないか？[pcms]
 
 *3200|
 [fc]
-Unless I think that way, I can't comprehend the situation at[r]
-all. But such SF- like things can't possibly happen.[pcms]
+そうでも思わないと、この状況は全く理解できない。[r]
+だけど、そんなＳＦみたいな事なんか起きるわけもない。[pcms]
 
 *3201|
 [fc]
-So, this situation is all reality...[pcms]
+じゃあ、今のこの状況は、全部現実……。[pcms]
 
 *3202|
 [fc]
-[ns]Man A[nse]
-"What's up, Wataru, if you're going to screw her, just do it[r]
-quickly. I'm waiting here... hehe."[pcms]
+[ns]男Ａ[nse]
+「なんだよ、航、お前もヤリてーんなら、さっさとやれよ。[r]
+　俺ァ立ち待ちしてっからよ……へへっ」[pcms]
 
 *3203|
 [fc]
-[ns]Man B[nse]
-"That's right, that's right. We'll watch for you!"[pcms]
+[ns]男Ｂ[nse]
+「そうだそうだ。俺らが見ててやるからよ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3204|
 [fc]
 [vo_ior s="iori_BB0004"]
-[ns]Inori[nse]
-"No... no more... please, enough..."[pcms]
+[ns]緒織[nse]
+「いや……いやぁ……これ以上は……。もう堪忍や……」[pcms]
 
 *3205|
 [fc]
-[ns]Male C[nse]
-"Enough, huh... I rarely hear that dialect, it's nice."[pcms]
+[ns]男Ｃ[nse]
+「堪忍やぁ、か……方言、あまり聞かないからいいよな」[pcms]
 
 *3206|
 [fc]
-[ns]Wataru[nse]
-"Grr..."[pcms]
+[ns]航[nse]
+「くっ……」[pcms]
 
 *3207|
 [fc]
-Amidst this bizarre situation and being told strange things,[r]
-my confusion only accelerated.[pcms]
+おかしな状況で、おかしな事を言われて、[r]
+ボクの混乱は加速していく。[pcms]
 
 *3208|
 [fc]
-Lying there, exposing her genitals, looking at Inori-san[r]
-made blood rush even more to my thing. Despite the[r]
-situation.[pcms]
+横たわり、恥部をさらけ出している緒織さんの姿を見ていると、[r]
+ボクのモノに更に血が集まり出す。[r]
+こんな状況だというのに。[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3209|
 [fc]
 [vo_ior s="iori_BB0005"]
-[ns]Inori[nse]
-"Na... Wata...ru... Tell him..."[pcms]
+[ns]緒織[nse]
+「な……わた……る……。つたえて……」[pcms]
 
 *3210|
 [fc]
-[ns]Wataru[nse]
-"...Wha, what?"[pcms]
+[ns]航[nse]
+「……な、なに？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3211|
 [fc]
 [vo_ior s="iori_BB0006"]
-[ns]Inori[nse]
-"Just... Tadahiko... I can't anymore... It's impossible[r]
-now..."[pcms]
+[ns]緒織[nse]
+「ただ……ひこはん……に、な……わたしは、もう……、[r]
+　アカンから……」[pcms]
 
 *3212|
 [fc]
-[ns]Man A[nse]
-"Again with Tadahiko... Weren't we enough for you? Damn, I'm[r]
-jealous!"[pcms]
+[ns]男Ａ[nse]
+「まぁた忠彦かよ……俺らじゃ満足できなかったのか？[r]
+　ッタク、妬けるぜ！」[pcms]
 
 *3213|
 [fc]
-[ns]Man B[nse]
-"She kept saying Tadahiko-san, Tadahiko-san even while being[r]
-screwed. Make my wife drink nail dirt tea or something."[pcms]
+[ns]男Ｂ[nse]
+「ヤラれてる最中も、ずーっと忠彦はん忠彦はん言ってたからな。[r]
+　ウチのヨメに、爪のアカ煎じて飲ませてやりてーぜ」[pcms]
 
 *3214|
 [fc]
-[ns]Wataru[nse]
-"Grr...! You guys...!!"[pcms]
+[ns]航[nse]
+「くっ……！　アンタ達……！！」[pcms]
 
 *3215|
 [fc]
-Even in my confused state, I could tell how absurd the men's[r]
-words were.[pcms]
+いくら混乱した今のボクでも、おじさん達が言っている事が、[r]
+どれだけおかしいかくらいは分かる。[pcms]
 
 *3216|
 [fc]
-Filled with anger at their vulgar words, I instinctively[r]
-prepared to throw a punch.[pcms]
+下卑た事ばかり言う彼らに怒りを覚えたボクは、[r]
+思わず殴りかかろうと身構えた。[pcms]
 
 *3217|
 [fc]
-But Inori-san stopped me.[pcms]
+だけど、緒織さんがボクを止める。[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3218|
 [fc]
 [vo_ior s="iori_BB0007"]
-[ns]Inori[nse]
-"Wataru... calm down... You can't win... Just listen to[r]
-me... it'll be over soon..."[pcms]
+[ns]緒織[nse]
+「わたる……おちつ……いて……。かてない……から……。[r]
+　私の話……すぐ、終わるから……聞いて……」[pcms]
 
 *3219|
 [fc]
-[ns]Wataru[nse]
-"Inori-san..."[pcms]
+[ns]航[nse]
+「緒織さん……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3220|
 [fc]
 [vo_ior s="iori_BB0008"]
-[ns]Inori[nse]
-"Gusu... I can't meet Tadahiko-san anymore... So there's[r]
-something I want you to tell him..."[pcms]
+[ns]緒織[nse]
+「ぐすっ……もうな……私は……忠彦はんとあえないから……。[r]
+　だから、アンタに伝えて欲しい事があるんよ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3221|
 [fc]
 [vo_ior s="iori_BB0009"]
-[ns]Inori[nse]
-"...I was truly happy to have met Tadahiko-san... Without[r]
-him, my days would surely have been dull."[pcms]
+[ns]緒織[nse]
+「……忠彦はんに会えて、本当に幸せだった……って……。[r]
+　あの人がいなかったら、私はきっと……毎日つまらなかった」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3222|
 [fc]
 [vo_ior s="iori_BB0010"]
-[ns]Inori[nse]
-"Thank you for bringing me to Tokyo... I wish I could say it[r]
-directly..."[pcms]
+[ns]緒織[nse]
+「東京に連れてきて貰って、ありがとな……って。[r]
+　私が直接……言えればいいんやけど……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3223|
 [fc]
 [vo_ior s="iori_BB0011"]
-[ns]Inori[nse]
-"But now... like this, I can no longer meet him..."[pcms]
+[ns]緒織[nse]
+「こんな……こんなんなって、もうあの人には会えないから……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3224|
 [fc]
 [vo_ior s="iori_BB0012"]
-[ns]Inori[nse]
-"Also... there's something wrong with my body... Even though[r]
-this is happening... I don't hate it now..."[pcms]
+[ns]緒織[nse]
+「それにな……私の身体、なんかおかしいんよ……。[r]
+　こんなんされても……今はイヤやない……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3225|
 [fc]
 [vo_ior s="iori_BB0013"]
-[ns]Inori[nse]
-"Rather, I'm almost glad... I've heard of this before... It[r]
-must be UNKNOWN- LV4..."[pcms]
+[ns]緒織[nse]
+「むしろ、嬉しいくらいなんよ……。これ、聞いた事あるわ……。[r]
+　ＵＮＫＮＯＷＮ－ＬＶ４やろ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3226|
 [fc]
 [vo_ior s="iori_BB0014"]
-[ns]Inori[nse]
-"I'm going to become just like these old men here soon...[r]
-Just a little longer..."[pcms]
+[ns]緒織[nse]
+「私も、そこにいるおっちゃんらと同じになってまうんや……。[r]
+　もう少ししたら……な」[pcms]
 
 *3227|
 [fc]
-[ns]Wataru[nse]
-"That can't be! UNKNOWN-LV4...! Even the vaccinations..."[pcms]
+[ns]航[nse]
+「そんな！　ＵＮＫＮＯＷＮ－ＬＶ４って……！[r]
+　予防接種も……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3228|
 [fc]
 [vo_ior s="iori_BB0015"]
-[ns]Inori[nse]
-"I don't know for sure... But it must be so... Viruses[r]
-evolve, right? Then UNKNOWN-LV4 would be the same..."[pcms]
+[ns]緒織[nse]
+「私にはわからないけど……。きっと、そうや……。[r]
+　だってな、ウィルスって進化するんやろ？[r]
+　そしたら……ＵＮＫＮＯＷＮ－ＬＶ４かて同じで……」[pcms]
 
 *3229|
 [fc]
-[ns]Wataru[nse]
-"Inori-san... hang in there... laugh with Hiko-chin again...[r]
-teach us various things again..."[pcms]
+[ns]航[nse]
+「緒織さん……頑張ってよ……また……彦ちんと笑いながら……、[r]
+　ボク達に色々教えてよ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3230|
 [fc]
 [vo_ior s="iori_BB0016"]
-[ns]Inori[nse]
-"...I'd love to do that but it's impossible now. Wataru, if[r]
-you're a man... you have to keep your promises to a girl..."[pcms]
+[ns]緒織[nse]
+「……そうしたいんは山々やけどな……だけど、もうアカン。[r]
+　航、男なら……女の子との約束、守らなアカンよ……」[pcms]
 
 *3231|
 [fc]
-[ns]Male C[nse]
-"Aww! That's tear-jerking! Wataru! Become a man! Hyahaha!![r]
-So come on, why don't you stick it into Inori already?"[pcms]
+[ns]男Ｃ[nse]
+「かぁー！　泣けるねぇ！　航！　お前も男になれよ！？[r]
+　ひゃははっ！！　だからよ、そろそろお前も、緒織のに[r]
+　ぶち込んでやったらどうだ？」[pcms]
 
 *3232|
 [fc]
-[ns]Male B[nse]
-"We're about ready for a refill here... Hurry up and embrace[r]
-her! After all, she's the town's number one woman!!"[pcms]
+[ns]男Ｂ[nse]
+「俺らそろそろ充填完了すっからよ……早く抱きてぇよ！[r]
+　なんたって、町ナンバーワンの女だからな！！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3233|
 [fc]
 [vo_ior s="iori_BB0017"]
-[ns]Inori[nse]
-"I might become just like these people soon too... It's[r]
-really not right to do this but... goodbye, Wataru"[pcms]
+[ns]緒織[nse]
+「私も、もうこの人らと同じになりそうや……。[r]
+　ホントはこんな事したらアカンのやけど……さよならや、航」[pcms]
 
 *3234|
 [fc]
-[ns]Wataru[nse]
-"...? Wha, what?"[pcms]
+[ns]航[nse]
+「……？　な、何？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3235|
 [fc]
 [vo_ior s="iori_BB0018"]
-[ns]Inori[nse]
-"Hurry and run away... You shouldn't see this place...[r]
-Promise me, you'll tell Tadahiko-san... Now run away[r]
-quickly. Wataru..."[pcms]
+[ns]緒織[nse]
+「はよ逃げや……。こんな所みられたないから……。[r]
+　な。絶対、忠彦さんに……伝えてな……。[r]
+　ここから、はよ逃げえ。航……」[pcms]
 
 *3236|
 [fc]
-Until now, Inori-san had been talking without looking at me.[r]
-She slowly turned back to me and said that with a smile.[pcms]
+それまでボクから目を逸らして話していた緒織さんは、[r]
+ゆっくりとボクに振り返り、微笑みながらそう言った。[pcms]
 
 *3237|
 [fc]
-But her eyes were starting to turn red just like Ren's and[r]
-that girl's we saw with LASER.[pcms]
+だけど、その目は漣やＬＡＳＥＲで見たあの子と同じで、[r]
+赤く染まり始めていた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3238|
 [fc]
 [vo_ior s="iori_BB0019"]
-[ns]Inori[nse]
-"Wataru! Get out of here! Before I go crazy too!!"[pcms]
+[ns]緒織[nse]
+「航！　もう出て行って！　私もおかしくなる前に！！」[pcms]
 
 *3239|
 [fc]
-[ns]Man A[nse]
-"What's the matter, Wataru, get a grip, or I'll... eat you[r]
-up! I'm getting hungrier by the minute... After we have our[r]
-fun with Inori, you're..."[pcms]
+[ns]男Ａ[nse]
+「なんだよ航、いい加減にしねーと、オメェ……食っちまうぞ！[r]
+　だんだんハラも減ってきたしよ……緒織はこの後楽しむから、[r]
+　お前は……」[pcms]
 
 *3240|
 [fc]
-[ns]Wataru[nse]
-"Wha...!!"[pcms]
+[ns]航[nse]
+「なっ……！！」[pcms]
 
 *3241|
 [fc]
-The men, all complaining of hunger, started to creep towards[r]
-me.[pcms]
+おじさん達は、口々に空腹を訴えながら、[r]
+ボクににじり寄ってくる。[pcms]
 
 *3242|
 [fc]
-Their eyes were blood red, and they clearly harbored[r]
-murderous intent towards me.[pcms]
+その目は真っ赤で、ボクに対して明らかに殺意を持っていた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3243|
 [fc]
 [vo_ior s="iori_BB0020"]
-[ns]Inori[nse]
-"So... hurry up and get out! Wataru!"[pcms]
+[ns]緒織[nse]
+「だから……はよ出て行き！　航！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *3244|
 [fc]
 [vo_ior s="iori_BB0021"]
-[ns]Inori[nse]
-"Tadahiko-san! Let's meet again!"[pcms]
+[ns]緒織[nse]
+「忠彦はん！　また逢おうな！」[pcms]
 
 *3245|
 [fc]
-After shouting Hiko-chin's name with her mouth wide open,[r]
-Inori-san stuck out her tongue and then quickly closed her[r]
-mouth.[pcms]
+大きく口を開けて彦ちんの名前を叫んだあと、[r]
+緒織さんは口から舌を突き出し、そのまま一気に口を閉じた。[pcms]
 
 ;//〆：レッドフラッシュ
 [赤フラ]
 
 *3246|
 [fc]
-From Inori-san's mouth, a small red lump flew out.[r]
-Immediately after, a bright red liquid spread around her[r]
-mouth.[pcms]
+緒織さんの口から、小さな赤い塊が飛んでいく。[r]
+直後、口の周りには真っ赤な液体が広がっていった。[pcms]
 
 *3247|
 [fc]
-Inori-san had bitten her tongue...[pcms]
+緒織さんは、舌を噛んで……。[pcms]
 
 *3248|
 [fc]
-[ns]Wataru[nse]
-"Damn it all!!! Inori-san, I'll keep my promise! I will[r]
-definitely tell Hiko- chin!! Goodbye!!"[pcms]
+[ns]航[nse]
+「くそおぉおぉおおおおおお！！！　緒織さん、約束は守るから！[r]
+　絶対、彦ちんに伝えるから！！　さよなら！！」[pcms]
 
 *3249|
 [fc]
-Having witnessed Inori-san's final moment, I felt as if a[r]
-curse had been lifted and my legs started moving, allowing[r]
-me to flee Otowa.[pcms]
+緒織さんの最期を見たボクは、呪縛から解放されたように、[r]
+足が動くようになって、音羽を飛び出す事ができた。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -1058,37 +1065,38 @@ me to flee Otowa.[pcms]
 
 *3250|
 [fc]
-As I left Otowa, I could hear the men's voices behind me[r]
-saying "what a waste" and "why did she have to die."[pcms]
+音羽から出たボクの背中に、おじさん達の『もったいない』や[r]
+『何で死んじまうんだよ』という声が聞こえてきた。[pcms]
 
 *3251|
 [fc]
-This is madness!! This is absolutely wrong!![pcms]
+異常だ！！[r]
+こんなの、絶対におかしい！！[pcms]
 
 *3252|
 [fc]
-My head, having experienced so much at once, didn't want to[r]
-think about anything anymore.[pcms]
+一度に色んなことを体験してしまったボクの頭は、[r]
+もう何も考えたくなかった。[pcms]
 
 *3253|
 [fc]
-Inori-san had died. Ren had gone mad.[pcms]
+緒織さんは死んでしまった。[r]
+漣もおかしくなった。[pcms]
 
 *3254|
 [fc]
-I too will go mad if this continues. But what should I[r]
-do...!![pcms]
+ボクも、このままだとおかしくなる。[r]
+だけど、どうしたら……！！[pcms]
 
 *3255|
 [fc]
-All sorts of thoughts flashed through my mind but none of[r]
-them took hold.[pcms]
+色んな事が頭に浮かんでは、消える。[r]
+だけど、何一つまとまらない。[pcms]
 
 *3256|
 [fc]
-Having become utterly helpless, I headed back towards[r]
-Shibuya station and quickly left Otowa, filled with memories[r]
-of Inori-san.[pcms]
+どうしようもなくなったボクは、再び渋谷駅側へと向かい、[r]
+緒織さんの想い出の詰まった音羽から、足早に離れた。[pcms]
 
 ;//jump：B_0005
 [jump storage="B_0005.ks" target=*B_0005_TOP]

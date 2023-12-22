@@ -1,10 +1,10 @@
 ;//block:A014
-;//ブロック４０１３０『地下道全員脱出編　中』
+;//ブロック４０１３０『地下道～全員脱出編～　中』
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40120.txtから
 
 *40130_TOP
-;{SceneSet 地下道全員脱出編中}
+;{SceneSet 地下道～全員脱出編～中}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公・悠帆・漣
@@ -21,38 +21,39 @@
 
 *1094|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *1095|
 [fc]
-Before I knew it, the video had started playing on repeat. I[r]
-disconnected from the site and closed my phone.[pcms]
+いつの間にか動画はリピート再生を始めていた。[r]
+ボクはサイトの接続を切って携帯を閉じる。[pcms]
 
 [bgm storage="BGM05"]
 
 *1096|
 [fc]
-[ns]Wataru[nse]
-"Above is... hell..."[pcms]
+[ns]航[nse]
+「上は……地獄だ……」[pcms]
 
 *1097|
 [fc]
-In such a tragic situation that goes beyond misery, what[r]
-should we do from now on...?[pcms]
+こんな……、悲惨を通り越した最悪の状況で、[r]
+ボクたちはこの先、どうすればいいんだろう……？[pcms]
 
 *1098|
 [fc]
-Can I protect Yuuho, Ren... everyone? Even when cornered or[r]
-in dire straits, can we continue to help each other...?[pcms]
+悠帆や漣……、みんなを守れるんだろうか？[r]
+追い詰められても切迫しても、[r]
+ボクたちは助け合っていけるんだろうか……？[pcms]
 
 *1099|
 [fc]
-First of all... whether we can even survive...[pcms]
+第一……、生き残れるかどうか、さえ…………。[pcms]
 
 *1100|
 [fc]
-But...[pcms]
+でも……。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -63,15 +64,15 @@ But...[pcms]
 *1101|
 [fc]
 [vo_yuh s="yuho0846"]
-[ns]Yuuho[nse]
-"...thanks to Wataru, we were saved."[pcms]
+[ns]悠帆[nse]
+「……航のおかけで助かったよ」[pcms]
 
 ;//★上記セリフ、30210.txt　と　30240にあるのですが
 ;//若干、内容が異なっているため、念のため収録したほうがよいです
 
 *1102|
 [fc]
-Yuuho...[pcms]
+悠帆……。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -82,15 +83,15 @@ Yuuho...[pcms]
 *1103|
 [fc]
 [vo_ren s="ren0888"]
-[ns]Ren[nse]
-"Big brother is really my hero."[pcms]
+[ns]漣[nse]
+「お兄ちゃんはやっぱりわたしのヒーローだね」[pcms]
 
 ;//★上記ＣＧがこちらに届いたテキストにありませんでした。
 ;//暫定で30140のセリフいれておきます。違っていたら調整をお願いします。
 
 *1104|
 [fc]
-Ren...[pcms]
+漣……。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -101,8 +102,8 @@ Ren...[pcms]
 *1105|
 [fc]
 [vo_mar s="maru0972"]
-[ns]Margarita[nse]
-"That was quite cool, wasn't it?"[pcms]
+[ns]マルガリータ[nse]
+「なかなか、格好良かったぞ？」[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -113,21 +114,20 @@ Ren...[pcms]
 *1106|
 [fc]
 [vo_ren s="ren0889"]
-[ns]Ren[nse]
-"I believed that big brother would definitely come to save[r]
-us."[pcms]
+[ns]漣[nse]
+「お兄ちゃんが絶対に助けに来てくれるって信じてた」[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1107|
 [fc]
-If everyone believes in me...[pcms]
+みんながボクを信じてくれるなら……。[pcms]
 
 *1108|
 [fc]
-[ns]Wataru[nse]
-"...I want to live up to their expectations..."[pcms]
+[ns]航[nse]
+「…………期待には応えたい、よな……」[pcms]
 
 ;//@konya ev025 地下道(BG扱い)
 [evcg storage="EV025b"][trans_c cross time=300]
@@ -136,22 +136,24 @@ If everyone believes in me...[pcms]
 
 *1109|
 [fc]
-Wanting to start something for now, I opened my phone again[r]
-and began typing an email.[pcms]
+とりあえず何か始めたい……、そう思ったボクは[r]
+携帯を再び開いて、メールを打ち始めた。[pcms]
 
 *1110|
 [fc]
-[ns]Wataru[nse]
-"Let's see..."[pcms]
+[ns]航[nse]
+「えっと……」[pcms]
 
 *1111|
 [fc]
-I'm safe. Is everyone okay? Unfortunately, Yoshino-san is...[pcms]
+ボクは無事です。[r]
+みんなは大丈夫？[r]
+残念だけど吉野さんは……。[pcms]
 
 *1112|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -162,8 +164,8 @@ I'm safe. Is everyone okay? Unfortunately, Yoshino-san is...[pcms]
 
 *1113|
 [fc]
-While sending a broadcast email to everyone in the astronomy[r]
-club, I remembered Yoshino-san.[pcms]
+天文部のみんなに同報メールを送りながら[r]
+吉野さんのことを思い出す。[pcms]
 
 ;//@konya レッドフラッシュ
 [赤フラ]
@@ -172,7 +174,7 @@ club, I remembered Yoshino-san.[pcms]
 
 *1114|
 [fc]
-I couldn't save Yoshino-san...[pcms]
+吉野さんを助けることはできなかった……。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -182,28 +184,30 @@ I couldn't save Yoshino-san...[pcms]
 
 *1115|
 [fc]
-This email... probably won't get any replies.[pcms]
+このメールだって返事なんか……来ないだろう。[pcms]
 
 *1116|
 [fc]
-I am... so powerless. But...[pcms]
+ボクは……あまりにも無力だ。[r]
+だけど……。[pcms]
 
 *1117|
 [fc]
-At least, the five of us here are alive.[pcms]
+少なくとも、ここにいる５人は生きている。[pcms]
 
 *1118|
 [fc]
-[ns]Wataru[nse]
-"Yeah... that's right..."[pcms]
+[ns]航[nse]
+「うん……そう、だよな……」[pcms]
 
 *1119|
 [fc]
-I'll do whatever I can for everyone...[pcms]
+みんなのために、できる限りのことはしよう……。[pcms]
 
 *1120|
 [fc]
-Right now, here, the only one who can do something is me...[pcms]
+今、ここにいて、何かできるのは、[r]
+他でもないボクだけしかいないんだから……。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

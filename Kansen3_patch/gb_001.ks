@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//・登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：
@@ -46,40 +46,38 @@
 
 *4717|
 [fc]
-[ns]Kousuke[nse]
-"...What the hell is that!?"[pcms]
+[ns]浩助[nse]
+「……何だ、そりゃ！？」[pcms]
 
 *4718|
 [fc]
-As soon as I finish speaking, Kousuke starts yelling[r]
-furiously.[pcms]
+ボクの話が終わった途端にコースケが怒鳴り散らす。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4719|
 [fc]
-[ns]Kousuke[nse]
-"It must be some mistake, right!? There's no way Ren-chan is[r]
-infected!?"[pcms]
+[ns]浩助[nse]
+「何かの間違いだろ！？　漣ちゃんが感染なんてっ！？」[pcms]
 
 *4720|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *4721|
 [fc]
-I wish it were a mistake... I'm hoping for that too. But...[r]
-Ren from earlier was definitely acting strange...[pcms]
+間違いであってほしい……、ボクだってそう願ってる。[r]
+だけど……、さっきの漣はどう考えてもおかしかった……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4722|
 [fc]
 [vo_yuh s="yuho_GB0001"]
-[ns]Yuuho[nse]
-"No... It can't be true...!? It's a lie... it's a lie,[r]
-sob...sob...sob..."[pcms]
+[ns]悠帆[nse]
+「う……嘘だよ、そんな……っ！？[r]
+　嘘…………嘘だよぉ……、うっうっ……ううっ……」[pcms]
 ;//＠前半悲鳴。後半、涙声
 
 [ChrSetEx layer=5 chbase="mizu_b6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -87,599 +85,593 @@ sob...sob...sob..."[pcms]
 *4723|
 [fc]
 [vo_miz s="mizuki_GB0001"]
-[ns]Mizuki[nse]
-"This is... this is just too cruel... sob..."[pcms]
+[ns]瑞樹[nse]
+「こんな……こんなの、酷すぎるよぉ……。ううぅっ」[pcms]
 ;//＠涙声
 
 *4724|
 [fc]
-Yuuho, who had let out a scream, finally covers her mouth[r]
-and starts crying. Mizuki also places her hand on Yuuho's[r]
-shoulder, shedding tears.[pcms]
+悲鳴をあげた悠帆が、とうとう口元を覆って泣き出した。[r]
+瑞樹も悠帆の肩に手をかけ、涙をこぼす。[pcms]
 
 *4725|
 [fc]
-[ns]Wataru[nse]
-"We have to check it out..."[pcms]
+[ns]航[nse]
+「確かめて、みないと……」[pcms]
 
 *4726|
 [fc]
-Muttering to myself, I look away from Mizuki and Yuuho. This[r]
-isn't the time for me to be crying...[pcms]
+呟きながら瑞樹や悠帆から目を逸らす。[r]
+ボクまでが泣いている場合じゃ、ない……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *4727|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *4728|
 [fc]
-Next to the silently fuming Jin, Shigeyoshi shifts[r]
-uncomfortably.[pcms]
+怒ったように黙る壬さんの脇で、[r]
+重吉が居心地悪そうにもぞもぞと身体を揺する。[pcms]
 
 *4729|
 [fc]
-Everyone loses their words and looks down, avoiding each[r]
-other's eyes.[pcms]
+みんな、一様に言葉を失い、互いに目を伏せる。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4730|
 [fc]
 [vo_miz s="mizuki_GB0002"]
-[ns]Mizuki[nse]
-"Hey...! Can't we do something!? Is there really nothing we[r]
-can do!?"[pcms]
+[ns]瑞樹[nse]
+「ねぇ……！　何か……どうにかできないの！？[r]
+　どうすることも、できないの！？」[pcms]
 
 *4731|
 [fc]
-Unable to hold back any longer, Mizuki raises her voice and[r]
-catches Maruko- senpai's eye.[pcms]
+たまりかねて声を上げた瑞樹が、その目にマル子先輩を捉えた。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4732|
 [fc]
 [vo_miz s="mizuki_GB0003"]
-[ns]Mizuki[nse]
-"That's right... you're the ambassador's daughter, aren't[r]
-you!? Use your parents' connections or anything, please do[r]
-something!"[pcms]
+[ns]瑞樹[nse]
+「そう……そうだよ！　アンタ、大使の娘なんでしょ！？[r]
+　親のコネでも何でも使って、どうにかしてよぉぉ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4733|
 [fc]
 [vo_mar s="maru_GB0001"]
-[ns]Margarita[nse]
-"...ugh..."[pcms]
+[ns]マルガリータ[nse]
+「……くっ…………」[pcms]
 
 *4734|
 [fc]
-Stumped for an answer, Maruko-senpai bites her lip in[r]
-frustration.[pcms]
+答えに詰まり、マル子先輩は悔しそうに唇を噛み締める。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4735|
 [fc]
 [vo_mar s="maru_GB0002"]
-[ns]Margarita[nse]
-"...Assuming the information we've obtained so far is[r]
-correct..., the vaccine won't work anymore. In other[r]
-words... there's nothing we can do..."[pcms]
+[ns]マルガリータ[nse]
+「……今までに入手した情報が正しいと仮定するなら……、[r]
+　もうワクチンも効果はない。[r]
+　つまり……打つ手はない、ということだ……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *4736|
 [fc]
-[ns]Jin[nse]
-"If she had been vaccinated, the likelihood of airborne[r]
-transmission is low. Did you guys... have any contact with[r]
-them on your way here?"[pcms]
+[ns]壬[nse]
+「予防接種を受けていたのなら、空気感染の可能性は低い。[r]
+　お前ら……、ここに来るまでの間に、[r]
+　ヤツラとの接触はあったのか？」[pcms]
 
 *4737|
 [fc]
-[ns]Wataru[nse]
-"...I don't think there was any contact after we met up...[r]
-but maybe something happened when we were escaping the[r]
-academy, if not then..."[pcms]
+[ns]航[nse]
+「……ボクと合流してからは、ないと思うけど……、[r]
+　もしかして、学園を脱出する時、何かあったのか、[r]
+　そうでなかったら……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4738|
 [fc]
-[ns]Kousuke[nse]
-"...That time..."[pcms]
+[ns]浩助[nse]
+「…………あの時だ……」[pcms]
 
 *4739|
 [fc]
-With a pale face drained of blood, Kousuke mutters.[pcms]
+真っ青に血の気の引いた顔で、コースケが呟いた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4740|
 [fc]
-[ns]Kousuke[nse]
-"Down in the basement, we were attacked by the boss, right?[r]
-And probably... Ren- chan..."[pcms]
+[ns]浩助[nse]
+「地下で、親分さんに襲われたろ？[r]
+　それで、たぶん……漣ちゃんは……」[pcms]
 
 *4741|
 [fc]
-[ns]Wataru[nse]
-"Ah...!"[pcms]
+[ns]航[nse]
+「あ…………！」[pcms]
 
 *4742|
 [fc]
-That time when Tadahiko, Maruko-senpai, and I went to get[r]
-rubber boots, and we were separated from Ren and the others[r]
-for just a moment![pcms]
+彦ちんやマル子先輩と、長靴を取りにいって、[r]
+ほんの一瞬だけ漣たちと離れていた、あの時のことか！[pcms]
 
 *4743|
 [fc]
-I thought everyone was safe after the commotion, but what[r]
-if... she had a small injury? What if even a little bit of[r]
-blood or bodily fluid had entered her body...?[pcms]
+騒ぎの後で無事を確認したつもりだったけど、[r]
+もし……小さな怪我をしていたら？[r]
+少しでも血液や体液が身体に入ってしまっていたら……？[pcms]
 
 *4744|
 [fc]
-Certainly, if the infection came from an amount of blood or[r]
-bodily fluid that went unnoticed, it would make sense for[r]
-the onset time to be about this long...[pcms]
+確かに、それと気付かない量の血液や体液からの感染なら、[r]
+発症までの時間が、このくらいというのも分かる……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4745|
 [fc]
-[ns]Kousuke[nse]
-"Damn it all! I was there with her at that time!! Wataru![r]
-I'm so sorry!!"[pcms]
+[ns]浩助[nse]
+「くっそぉぉぉぉ！[r]
+　あの時、オレが一緒にいたってのに！！[r]
+　ワタルっ！　すまねぇっ！！」[pcms]
 
 *4746|
 [fc]
-Kousuke hangs his head as he punches his own hand in[r]
-frustration.[pcms]
+自分の手に拳を打ち付けて、コースケが項垂れる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4747|
 [fc]
 [vo_yuh s="yuho_GB0002"]
-[ns]Yuuho[nse]
-"Me too, right? I was there with her... and couldn't do[r]
-anything..."[pcms]
+[ns]悠帆[nse]
+「わ、わたしだって、そうだよ？[r]
+　一緒にいたのに……何もできなくて……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4748|
 [fc]
 [vo_yuh s="yuho_GB0003"]
-[ns]Yuuho[nse]
-"What should I do... I'm sorry, Wataru... I'm really[r]
-sorry...!"[pcms]
+[ns]悠帆[nse]
+「わたし……どうしよう……。[r]
+　ごめん、航……。ホントにごめんなさい……っ！」[pcms]
 
 *4749|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *4750|
 [fc]
-It's not their fault. I know that. But still...[pcms]
+二人が悪いわけじゃない。それは分かってる。[r]
+だけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4751|
 [fc]
 [vo_mar s="maru_GB0003"]
-[ns]Margarita[nse]
-"...There's no point in speculating. Let's check again.[r]
-Hopefully, she'll just take off her color contacts[r]
-willingly..."[pcms]
+[ns]マルガリータ[nse]
+「……仮定の話を進めていても仕方ない。[r]
+　とにかく、もう一度、確認をしよう。[r]
+　素直にカラーコンタクトを外してくれればいいが……」[pcms]
 
 *4752|
 [fc]
-At that moment, Yuuho gasps sharply.[pcms]
+その時、悠帆が、はっと息を呑んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4753|
 [fc]
 [vo_yuh s="yuho_GB0004"]
-[ns]Yuuho[nse]
-"Ren-chan...!?"[pcms]
+[ns]悠帆[nse]
+「漣ちゃん…………！？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4754|
 [fc]
 [vo_ren s="ren_GB0001"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「……………………」[pcms]
 ;//＠不気味なかんじの沈黙
 
 *4755|
 [fc]
-Before we knew it, Ren was standing at the entrance of the[r]
-dome.[pcms]
+いつの間にかドームの入り口に漣が立っていた。[pcms]
 
 *4756|
 [fc]
-We all remain silent without saying anything to each other.[pcms]
+ボクらも漣も、双方何も言わないままに沈黙が流れる。[pcms]
 
 *4757|
 [fc]
-Eventually, Ren takes a step forward awkwardly. Stumbling,[r]
-she approaches us with bare feet making pat-pat sounds.[pcms]
+やがて漣はぎこちなく一歩を踏み出した。[r]
+よろめきながら、裸足でぺたぺたと足音を立てて[r]
+ボクたちに近付いてくる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4758|
 [fc]
 [vo_ren s="ren_GB0002"]
-[ns]Ren[nse]
-"...Hey... were you talking about me just now? What is[r]
-it...?"[pcms]
+[ns]漣[nse]
+「…………ね……今、私のこと……話してた……？[r]
+　なぁに……ぃ？」[pcms]
 ;//＠穏やかな調子だが、怒気を孕んでいる
 
 *4759|
 [fc]
-Her voice is hollow. Yet beneath it lurks anger,[r]
-uncharacteristic of the always gentle Ren.[pcms]
+虚ろな声。けれどその声の奥には怒りが潜んでいる。[r]
+いつも穏やかな漣のものとは思えない。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e14"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4760|
 [fc]
 [vo_ren s="ren_GB0003"]
-[ns]Ren[nse]
-"I'm fine... okay? ...What are you planning to do with[r]
-me...?"[pcms]
+[ns]漣[nse]
+「私…………何ともないよ……ぉ？[r]
+　……私を……どうするつもり……なのぉ……？」[pcms]
 ;//＠穏やかな調子だが、怒気を孕んでいる
 
 *4761|
 [fc]
-Ren's glaring eyes were black. But that was because of the[r]
-color contacts... The true color of her eyes underneath...[pcms]
+ボクらを睨みつける漣の瞳は黒かった。[r]
+だけど、それはカラーコンタクトのせいで……。[r]
+その下のホンモノの瞳の色は……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4762|
 [fc]
 [vo_yuh s="yuho_GB0005"]
-[ns]Yuuho[nse]
-"...Re... Ren-chan? Calm down?"[pcms]
+[ns]悠帆[nse]
+「……れ……漣、ちゃん？　落ち着いて？」[pcms]
 
 *4763|
 [fc]
-Yuuho opens her arms as if to welcome Ren and speaks to her[r]
-gently.[pcms]
+悠帆が漣を迎えるように腕を広げ、優しく話しかけた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4764|
 [fc]
-[ns]Kousuke[nse]
-"This is bad, don't get close...!"[pcms]
+[ns]浩助[nse]
+「やべーよ、近付いたら……！」[pcms]
 
 *4765|
 [fc]
-In a low voice, Kousuke issues a sharp warning. But Yuuho[r]
-seems unconcerned about the risk of infection as she steps[r]
-closer to Ren.[pcms]
+小さな声でコースケが鋭い警告を発する。[r]
+だけど悠帆は感染の危険など気にしていないように[r]
+漣の間近へと歩み寄っていく。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4766|
 [fc]
 [vo_yuh s="yuho_GB0006"]
-[ns]Yuuho[nse]
-"You see... we didn't mean anything like that..."[pcms]
+[ns]悠帆[nse]
+「あのね……、わたしたち、何もそんな……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e17"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4767|
 [fc]
 [vo_ren s="ren_GB0004"]
-[ns]Ren[nse]
-"...Annoying..."[pcms]
+[ns]漣[nse]
+「…………ウザイ……」[pcms]
 ;//＠低く呟くような声
 
 *4768|
 [fc]
-We shuddered at Ren's words, which seemed to resonate from[r]
-the depths of the earth.[pcms]
+地の底から響くような漣の言葉に、ボクらは戦慄した。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4769|
 [fc]
 [vo_ren s="ren_GB0005"]
-[ns]Ren[nse]
-"Yuuho-chan, you're annoying...? That fake smile, pretending[r]
-to be worried, acting all kind... ...Anyway, it's just[r]
-sooooo annoying..."[pcms]
+[ns]漣[nse]
+「悠帆ちゃん、ウザイよ……？[r]
+　作り笑いとか、心配するふりとか、優しい演技とか……。[r]
+　……とにかく、すっっっっっごくウザイ……」[pcms]
 
 *4770|
 [fc]
-The Ren who was always kind and considerate was now lashing[r]
-out with such venomous words. The fact that it was her[r]
-saying them was crushing me.[pcms]
+あの漣が。優しくて思いやりのある漣が。[r]
+こんなに毒のある言葉で人を切りつけるなんて。[r]
+そのことがボクを打ちのめす。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4771|
 [fc]
 [vo_yuh s="yuho_GB0007"]
-[ns]Yuuho[nse]
-"Re... Ren-chan? That's... um... are you okay?"[pcms]
+[ns]悠帆[nse]
+「れ、ん……ちゃん？[r]
+　そ、そんな……、あの……、大丈夫？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e17"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4772|
 [fc]
 [vo_ren s="ren_GB0006"]
-[ns]Ren[nse]
-"I said I'm fine already! You're not really worried at all![r]
-Liar!"[pcms]
+[ns]漣[nse]
+「も、もう……いいって言ってるでしょ！[r]
+　ホントは心配なんかしてないくせに！　嘘つきぃっ！」[pcms]
 
 *4773|
 [fc]
-Spewing curses, Ren approached Yuuho on her own.[pcms]
+呪詛の言葉を吐き散らしながら、漣は自ら悠帆に近づいて行く。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4774|
 [fc]
 [vo_ren s="ren_GB0007"]
-[ns]Ren[nse]
-"You just pretend to be nice because you want to be fawned[r]
-over by all sorts of men, right!? No, that's not it! It's[r]
-Onii-chan you're after, isn't it!?"[pcms]
+[ns]漣[nse]
+「そうやって優しいフリしてるのは、[r]
+　いろんな男の人にチヤホヤされたいだけでしょぉ！？[r]
+　ううん、違うっ！　お兄ちゃんが、目当てだよねぇっ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4775|
 [fc]
 [vo_yuh s="yuho_GB0008"]
-[ns]Yuuho[nse]
-"That's not it! Ren-cha..."[pcms]
+[ns]悠帆[nse]
+「そんなっ！　漣ちゃ……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e17"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4776|
 [fc]
 [vo_ren s="ren_GB0008"]
-[ns]Ren[nse]
-"Shut up! Shut up shut up shut up shut uuuup!"[pcms]
+[ns]漣[nse]
+「うるさいっ！　うるさいうるさいうるさいうるさぁぁいっ！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4777|
 [fc]
-Screaming, Ren lunged at Yuuho. She mounted Yuuho, who she[r]
-had pushed down onto the floor, and began to strangle her.[pcms]
+絶叫した漣は悠帆に掴みかかった。[r]
+そのまま床に押し倒した悠帆の上に馬乗りになり、首を絞める。[pcms]
 
 *4778|
 [fc]
 [vo_yuh s="yuho_GB0009"]
-[ns]Yuuho[nse]
-"Ngh!? Gah...!???"[pcms]
+[ns]悠帆[nse]
+「んぎっ！？　ぐっ……！？？？」[pcms]
 
 *4779|
 [fc]
-[ns]Wataru[nse]
-"Ren!!"[pcms]
+[ns]航[nse]
+「漣っ！！」[pcms]
 
 *4780|
 [fc]
-[ns]Kousuke[nse]
-"Ren-chan!!"[pcms]
+[ns]浩助[nse]
+「漣ちゃんっ！！」[pcms]
 
 *4781|
 [fc]
-This was no time to worry about infection. Kousuke and I[r]
-hurriedly tried to pull the two apart, throwing ourselves at[r]
-Ren's body.[pcms]
+感染の心配なんかしてる場合じゃない。[r]
+ボクとコースケは、慌てて二人を引きはがそうと、[r]
+漣の身体に飛びついた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e17"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4782|
 [fc]
 [vo_ren s="ren_GB0009"]
-[ns]Ren[nse]
-"You know how Onii-chan feels, yet you toy with him!![r]
-Pretending to be worried about me just to catch Onii-chan's[r]
-attention! And yet, you always, always steal Onii-chan away[r]
-from me!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんの気持ち、わかってるくせに弄んで！！[r]
+　お兄ちゃんの気を引くために、私を心配するフリして！[r]
+　そのくせ、いっつもいっつも私からお兄ちゃんを盗って！！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4783|
 [fc]
-Where did such a frail body find this strength? Even with[r]
-Kousuke and me pulling together, we couldn't separate Ren.[pcms]
+細い身体のどこにそんな力があるのか、[r]
+ボクとコースケの二人がかりで引っ張っても[r]
+漣を離すことができない。[pcms]
 
 *4784|
 [fc]
 [vo_yuh s="yuho_GB0010"]
-[ns]Yuuho[nse]
-"Gah... ack... ka, hii...!!"[pcms]
+[ns]悠帆[nse]
+「ぎっ……い…………か、ひぃ……っ！！」[pcms]
 
 *4785|
 [fc]
-As Yuuho struggled and flailed, the strength gradually left[r]
-her hands, foam mixed with saliva spilled from her mouth,[r]
-and her eyes rolled back.[pcms]
+じたばたと抵抗する悠帆の手から、徐々に力が抜けて、[r]
+口元から泡混じりの唾液がこぼれだし、[r]
+くるりと黒目が反転してしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e17"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4786|
 [fc]
 [vo_ren s="ren_GB0010"]
-[ns]Ren[nse]
-"I have no one but Onii-chan! And yet!! I won't forgive[r]
-anyone who tries to take Onii-chan away from me!! I'll[r]
-kill... I'll kill youuuu!!"[pcms]
+[ns]漣[nse]
+「私にはっ！　お兄ちゃんしかいないのっ！　いないのに！！[r]
+　お兄ちゃんを奪うヤツは、許さないぃぃぃっ！！[r]
+　コロす……っ！！　コロしてやるぅぅぅぅっ！！」[pcms]
 
 *4787|
 [fc]
-[ns]Wataru[nse]
-"Re------n!!"[pcms]
+[ns]航[nse]
+「れーーーーーーんっ！！」[pcms]
 
 *4788|
 [fc]
-I charged with all my might, body-slamming Ren and sending[r]
-her flying.[pcms]
+ボクは思いっきり身体ごと体当たりして、漣を跳ね飛ばす。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4789|
 [fc]
 [vo_ren s="ren_GB0011"]
-[ns]Ren[nse]
-"Ngyah!?"[pcms]
+[ns]漣[nse]
+「んぎゃっ！？」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4790|
 [fc]
-The small body of Ren was sent flying sideways and tumbled[r]
-across the floor.[pcms]
+小さな漣の身体は横っ飛びに吹っ飛んで[r]
+ごろごろと床を転がった。[pcms]
 
 *4791|
 [fc]
 [vo_yuh s="yuho_GB0011"]
-[ns]Yuuho[nse]
-"Hyuaaaaahhhhh!! Kah----h, kah---h, zeeehhhhhhh!!"[pcms]
+[ns]悠帆[nse]
+「ひゅああぁぁぁあぅぅぅっ！！[r]
+　かはーーーーっ、かはーーーっ、ぜぇぇぇぇぇーーーーっ！」[pcms]
 
 *4792|
 [fc]
-[ns]Wataru[nse]
-"Are you okay, Yuuho!?"[pcms]
+[ns]航[nse]
+「大丈夫か、悠帆！？」[pcms]
 
 *4793|
 [fc]
-Gasping for oxygen, I rushed over to Yuuho in a panic.[pcms]
+酸素を求めて喘ぐ悠帆に、ボクは慌てて駆け寄った。[pcms]
 
 *4794|
 [fc]
 [vo_yuh s="yuho_GB0012"]
-[ns]Yuuho[nse]
-"Gefuh, cough cough, cough... I'm okay... bu..."[pcms]
+[ns]悠帆[nse]
+「げふっ、ごほほっ、ごほっ……、だ、だいじょう、ぶ……」[pcms]
 
 *4795|
 [fc]
-Choking and coughing with tearful eyes, Yuuho shook her head[r]
-at me and gestured towards Ren with her arm as if to say[r]
-"but more importantly."[pcms]
+むせて咳き込み、涙目になりながらも悠帆は[r]
+ボクに首をふり「それよりも」と漣の方を腕で示す。[pcms]
 
 *4796|
 [fc]
-[ns]Wataru[nse]
-"That's right... Ren!?"[pcms]
+[ns]航[nse]
+「そ、そうだ……漣！？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4797|
 [fc]
 [vo_ren s="ren_GB0012"]
-[ns]Ren[nse]
-"...Uuuuuuuh, uuuuh...h"[pcms]
+[ns]漣[nse]
+「……うううぅぅぅ、うぅぅ……っ」[pcms]
 
 *4798|
 [fc]
-Crouched down, Ren let out a beast-like growl from her[r]
-throat. Gradually, her face began to lift...[pcms]
+はいつくばった漣の喉からケモノじみた唸り声が上がる。[r]
+やがて、その顔がゆっくりと上がっていく……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e17"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4799|
 [fc]
 [vo_ren s="ren_GB0013"]
-[ns]Ren[nse]
-"O-Onii-cha... n... why? Why only Yuuho-chan!? Onii-chan is[r]
-being deceived by youuu!"[pcms]
+[ns]漣[nse]
+「お、お兄ちゃ……ん……、なんで？[r]
+　なんで悠帆ちゃんばっかり！？[r]
+　お兄ちゃんは、だまされてるんだよぉぉっ！？」[pcms]
 
 *4800|
 [fc]
-She hurled a soul-crushing scream at me. Those eyes of Ren[r]
-were...[pcms]
+ボクに向かって魂ぎるような叫びを投げつける。[r]
+その漣の目は……。[pcms]
 
 *4801|
 [fc]
-[ns]Wataru[nse]
-"...It can't be? That's impossible!"[pcms]
+[ns]航[nse]
+「……嘘だろ？……そんなっ！……」[pcms]
 
 *4802|
 [fc]
-The color contacts had come off when she tumbled, revealing[r]
-Ren's true eye color.[pcms]
+転がった拍子にカラーコンタクトが外れて[r]
+漣の瞳が見えていた。[pcms]
 
 *4803|
 [fc]
-Blood-red crimson eyes...[pcms]
+血のように真っ赤な紅色の瞳が……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e17"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4804|
 [fc]
 [vo_ren s="ren_GB0014"]
-[ns]Ren[nse]
-"...It's your fault after all!! A woman who bewitches Onii-[r]
-chan... I'll kill youuuu!!"[pcms]
+[ns]漣[nse]
+「……やっぱり、お前が悪いんだっ！！[r]
+　お兄ちゃんを、惑わすオンナは……コロすぅぅぅっ！！」[pcms]
 
 *4805|
 [fc]
-Suddenly, Ren's body convulsed as if struck by lightning.[pcms]
+突然、漣は稲妻に打たれたようにビクンと身体を震わせた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4806|
 [fc]
 [vo_ren s="ren_GB0015"]
-[ns]Ren[nse]
-"Agguuuuu! Uh, I'm going to kill... ah... ah... no, that's[r]
-wrong, Yuuho-chan, I'm sorry, I didn't mean to... ah,[r]
-guaaauu!!"[pcms]
+[ns]漣[nse]
+「あぐぅぅぅぅ！？　うっ、こ、コロ……す……、[r]
+　あ……っ、あ…………違うの、悠帆ちゃん、ごめんなさい、[r]
+　私、そんなこと……、あ、ぐああぅぅ！！」[pcms]
 ;//＠「違うの、悠帆ちゃん、ごめんなさい、私、そんなこと」が、マトモ
 
 *4807|
 [fc]
-Tearing at her head and groaning in agony, she writhed on[r]
-the ground.[pcms]
+頭を掻き毟り、苦悶の唸りをあげながら、のた打ち回る。[pcms]
 
 *4808|
 [fc]
-[ns]Wataru[nse]
-"Ren!!? Are you in pain!? Ren!!"[pcms]
+[ns]航[nse]
+「漣っ！！？　苦しいのか！？　漣！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4809|
 [fc]
 [vo_ren s="ren_GB0016"]
-[ns]Ren[nse]
-"Uguuaaauuu! Onii-chan is mine!! I'll kill you, higiuuuu!?[r]
-Nooo, Yuuho-chan, run away!"[pcms]
+[ns]漣[nse]
+「うぐあああうぅぅ！　お兄ちゃんはっ、私のモノっ！！[r]
+　お前を、コロして、ひぎぅぅぅっ！？[r]
+　だ、ダメぇぇぇ、悠帆ちゃん、逃げてぇっ！」[pcms]
 ;//＠「ダメぇぇぇ、悠帆ちゃん、逃げてぇっ！」が、マトモ
 
 *4810|
 [fc]
-She alternated between reaching out to grab us and holding[r]
-herself back as if fighting against her own body. It looked[r]
-as though two personalities were battling within Ren.[pcms]
+ボクらの方に掴みかかろうとしたり、[r]
+自分の身体を抱きとめようとして踏みとどまったり、[r]
+漣の中で、まるで二人の人格が戦っているように見えた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4811|
 [fc]
 [vo_ren s="ren_GB0017"]
-[ns]Ren[nse]
-"Ah, my head... my head is all messed up... it hurts so[r]
-muchhh!! Uwaaaahhh----!!"[pcms]
+[ns]漣[nse]
+「あ、頭が……頭がぐちゃぐちゃ……、[r]
+　いっ、痛いぃぃぃっ！！　うああぁぁーーーーっ……！！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -688,222 +680,222 @@ muchhh!! Uwaaaahhh----!!"[pcms]
 
 *4812|
 [fc]
-With a fierce scream, Ren collapsed forward onto the ground.[pcms]
+壮絶な絶叫を放ち、漣はドサリと前のめりに倒れた。[pcms]
 
 *4813|
 [fc]
-[ns]Wataru[nse]
-"...Re... n? Are you alrigh... bu...?"[pcms]
+[ns]航[nse]
+「……れ……ん？　大丈……ぶ……？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4814|
 [fc]
 [vo_ren s="ren_GB0018"]
-[ns]Ren[nse]
-"...Haah, haah...haah...haah..."[pcms]
+[ns]漣[nse]
+「…………はぁ、はぁ……はぁ……はぁ……」[pcms]
 
 *4815|
 [fc]
-For a while, only the sound of ragged breathing filled the[r]
-room. Then slowly, Ren began to lift her face.[pcms]
+しばらく荒い呼吸の音だけが室内に響いて、[r]
+それからややあって、ゆっくりと漣が顔を上げた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4816|
 [fc]
 [vo_ren s="ren_GB0019"]
-[ns]Ren[nse]
-"I can't do such a thing. Because... I like Yuuho-chan... I[r]
-love her...!"[pcms]
+[ns]漣[nse]
+「できないよ……そんなこと。[r]
+　だって……私……悠帆ちゃんが好き……。大好き……！」[pcms]
 
 *4817|
 [fc]
-Large tears rolled down from Ren's eyes. The color of her[r]
-pupils was the usual Ren... a deep amethyst.[pcms]
+漣の目から大粒の涙がぽろぽろとこぼれ落ちていく。[r]
+その瞳の色は、いつもの漣……深いアメジストの色だった。[pcms]
 
 *4818|
 [fc]
-[ns]Wataru[nse]
-"Ren!? Have you come to your senses? You recognize us,[r]
-right!?"[pcms]
+[ns]航[nse]
+「漣！？　正気に戻ったのか？　ボクらが分かるんだね！？」[pcms]
 
 *4819|
 [fc]
-Yuuho shouted as Ren gave a small nod.[pcms]
+小さく、コクンとうなずいた漣に、悠帆が叫んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4820|
 [fc]
 [vo_yuh s="yuho_GB0013"]
-[ns]Yuuho[nse]
-"Ren-chan! I-I love you too, Ren-chan!?"[pcms]
+[ns]悠帆[nse]
+「漣ちゃん！[r]
+　わ、わたしだって、漣ちゃんのこと、大好きだよっ！？」[pcms]
 
 *4821|
 [fc]
-Ren returned a fleeting smile to Yuuho, who was appealing[r]
-with tears in her eyes.[pcms]
+涙を流して訴えかける悠帆に、漣がはかなげな微笑を返した。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4822|
 [fc]
 [vo_ren s="ren_GB0020"]
-[ns]Ren[nse]
-"I'm sorry... I'm so sorry, Yuuho-chan...! Please, run[r]
-awa...aaaahhh! Aaaaahhh, guaaaaah!!"[pcms]
+[ns]漣[nse]
+「ごめんね……、ごめんねお、悠帆ちゃん……！[r]
+　お願い、にげ……てぇぇぇぇぇっ！[r]
+　あああぁぁぁ、ぐあああぅぅぅぅ！！！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *4823|
 [fc]
-The smile was replaced by an expression of agony, and Ren[r]
-once again crouched down, clutching her head and writhing in[r]
-pain.[pcms]
+その微笑は苦悶の表情に取って代わられ、[r]
+漣は再びうずくまると、頭を抱えてもがき始めた。[pcms]
 
 *4824|
 [fc]
-[ns]Wataru[nse]
-"Ren!!"[pcms]
+[ns]航[nse]
+「漣っ！！！」[pcms]
 
 [se buf=0 storage="se076"]
 
 *4825|
 [fc]
-As I tried to rush over, getting up on my knees, a heavy and[r]
-cold sound "clashed" in my ears.[pcms]
+駆け寄ろうと、膝をついて立ち上がりかけたボクの耳に[r]
+「ガシャリ」と重く冷たい音が響いた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *4826|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *4827|
 [fc]
-Jin had a gun in his hand and was pulling back the slide.[pcms]
+壬さんが銃を手にして、スライドを引いていた。[pcms]
 
 *4828|
 [fc]
-With an expression resembling anger, he took a step towards[r]
-Ren.[pcms]
+怒りに似た表情を浮かべ、漣に向かって一歩踏み出していく。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4829|
 [fc]
 [vo_miz s="mizuki_GB0004"]
-[ns]Mizuki[nse]
-"Jin! You can't possibly mean to!?"[pcms]
+[ns]瑞樹[nse]
+「ジン！　アナタ、まさか！？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4830|
 [fc]
-[ns]Kousuke[nse]
-"What the hell are you planning to do, you bastard!!!"[pcms]
+[ns]浩助[nse]
+「何する気だっ、てめぇっ！！！」[pcms]
 
 *4831|
 [fc]
-Realizing his intent, Kousuke and the others tried to stop[r]
-him, but Jin quietly spoke.[pcms]
+意図を察して止めようとするコースケたちに、[r]
+壬さんはぼそりと告げる。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *4832|
 [fc]
-[ns]Jin[nse]
-"...She's beyond saving. Do you want her to suffer any more[r]
-than this?"[pcms]
+[ns]壬[nse]
+「……その子はもう助からない。[r]
+　これ以上、苦しい思いをさせたいのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4833|
 [fc]
 [vo_yuh s="yuho_GB0014"]
-[ns]Yuuho[nse]
-"Wait, please! There's still... there must be another[r]
-way...!?"[pcms]
+[ns]悠帆[nse]
+「ま、待って！　まだ……まだ、何か方法が……！？」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *4834|
 [fc]
-Maruko-senpai held back Yuuho.[pcms]
+悠帆を、マル子先輩が押し留める。[pcms]
 
 *4835|
 [fc]
-[ns]Wataru[nse]
-"This can't be..."[pcms]
+[ns]航[nse]
+「そんな…………」[pcms]
 
 *4836|
 [fc]
-Is there really nothing we can do, as Jin says?[pcms]
+壬さんの言うとおり、もうどうしようもないのか！？[pcms]
 
 *4837|
 [fc]
-I looked at Maruko-senpai with pleading eyes. But the senior[r]
-shook her head slowly and sadly from side to side.[pcms]
+すがるような目でマル子先輩を見る。[r]
+だけど先輩は、哀しげにゆるゆると首を横に振った。[pcms]
 
 *4838|
 [fc]
-Is there really no other way? Is it truly hopeless?[pcms]
+何も手は、ないのか？[r]
+もう……どうしようもないのか！？[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4839|
 [fc]
 [vo_ren s="ren_GB0021"]
-[ns]Ren[nse]
-"Onii-cha...! Please... kill me... uuuuh!"[pcms]
+[ns]漣[nse]
+「お……にぃちゃ…………！[r]
+　お願い……、わ、私を……殺して…………っ、うぅぅっ！」[pcms]
 
 *4840|
 [fc]
-Crouching down, Ren lifted her face and called out to me.[pcms]
+うずくまったまま、顔だけを上げた漣が[r]
+ボクに呼びかけた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4841|
 [fc]
 [vo_ren s="ren_GB0022"]
-[ns]Ren[nse]
-"...I love you, Onii-chan, and Yuuho-chan too... I don't[r]
-want to trouble everyone any more... Before I become[r]
-something that's not me...!"[pcms]
+[ns]漣[nse]
+「……お兄ちゃんも、悠帆ちゃんも大好きだから……。[r]
+　これ以上……みんなを……困らせたく、ないから……っ。[r]
+　わ、私が……私じゃなくなっちゃう前に……っ！」[pcms]
 
 *4842|
 [fc]
-Ren grimaced in pain and breathed heavily as she fought[r]
-against her own transformation into a monster.[pcms]
+苦しそうに顔を歪め、息を荒くしながらも[r]
+漣は怪物に変わろうとしている自分自身と戦っている。[pcms]
 
 *4843|
 [fc]
-Ren intuitively understood better than anyone that there was[r]
-no chance of winning this battle... That's why she was[r]
-seeking salvation from me...[pcms]
+その戦に勝ち目がないことを[r]
+漣は誰よりもよく直感的に理解し……。[r]
+だから、ボクに救いを求めている……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4844|
 [fc]
 [vo_ren s="ren_GB0023"]
-[ns]Ren[nse]
-"Kill meeeeee!! Onii-chaaaaan!!"[pcms]
+[ns]漣[nse]
+「殺してえぇぇぇっ！！　お兄ちゃあぁぁん！！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *4845|
 [fc]
-I want to save Ren. I want to rescue her.[pcms]
+漣を助けてやりたい。救ってやりたい。[pcms]
 
 *4846|
 [fc]
-But... but to do that, I have to kill Ren... my one and only[r]
-precious little sister!?[pcms]
+だけど……だけど、そのためには漣を……、[r]
+たったひとりの大切な妹を、殺さなくちゃいけないなんて！？[pcms]
 
 [bg storage="effect_black"]
 [ChrSetEx layer=5 chbase="mama_b"][ChrSetXY layer=5 x=196 y=0]
@@ -914,51 +906,50 @@ precious little sister!?[pcms]
 
 *4847|
 [fc]
-The face of DJ Bar's Mama came to mind.[pcms]
+ＤＪバーのママの顔が心に浮かんだ。[pcms]
 
 *4848|
 [fc]
-Mama didn't want to expose herself like that either. She[r]
-never wanted to devour the master she loved.[pcms]
+ママだって、あんな姿を晒したくなかったはずだ。[r]
+愛し合っていたマスターを食い殺したくなんてなかったはず。[pcms]
 
 *4849|
 [fc]
-The Mama who had become a despicable creature... In the end,[r]
-it was a gun that saved her...[pcms]
+浅ましい生き物に成り果てた、ママ……。[r]
+そのママを救ったのはやはり銃だった……。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c4_1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=300]
 
 *4850|
 [fc]
-[ns]Tadahiko[nse]
-"Get your spirit together, yeah?"[pcms]
+[ns]忠彦[nse]
+「気合いれろよ？」[pcms]
 
 *4851|
 [fc]
-Tadahiko's words came back to me.[pcms]
+彦ちんの言葉が蘇る。[pcms]
 
 
 [chara_int][trans_c cross time=300]
 
 *4852|
 [fc]
-I swore to protect everyone...[pcms]
+みんなを守るとボクは誓った……。[pcms]
 
 *4853|
 [fc]
-If there really is nothing else that can be done now, then[r]
-to protect Ren... this is the only way left...![pcms]
+今、本当にもう為すすべがないのなら[r]
+漣を守るためには……、もうこれしか…………！[pcms]
 
 *4854|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「…………漣……」[pcms]
 
 *4855|
 [fc]
-I reached for my waist and tried to draw the gun hooked onto[r]
-my belt. My hands were shaking, and I couldn't unhook it[r]
-properly...[pcms]
+腰に手を回し、ベルトに引っかけてあった銃を抜こうとする。[r]
+手が震えて、うまく外せない……。[pcms]
 
 
 ;//〆ＤＪバー　メインドーム　朝・昼
@@ -969,154 +960,155 @@ properly...[pcms]
 *4856|
 [fc]
 [vo_yuh s="yuho_GB0015"]
-[ns]Yuuho[nse]
-"Wataru!!?"[pcms]
+[ns]悠帆[nse]
+「航っ！！？」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *4857|
 [fc]
-I slowly took the gun in my hand and approached Ren.[pcms]
+ゆっくりと銃を手にして、漣に近付いていく。[pcms]
 
 *4858|
 [fc]
-My legs wouldn't move properly, and I couldn't walk forward.[r]
-The gun in my hand felt many times heavier.[pcms]
+足がうまく動かなくて前に進めない。[r]
+手の中の銃が、何倍もの重さに感じられる。[pcms]
 
 *4859|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣…………」[pcms]
 
 *4860|
 [fc]
-I crouched beside her and peered into Ren's face.[pcms]
+傍らにしゃがみこんで、漣の顔を覗きこむ。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4861|
 [fc]
 [vo_ren s="ren_GB0024"]
-[ns]Ren[nse]
-"...haah, haah... Onii-cha..."[pcms]
+[ns]漣[nse]
+「……はぁ、はぁ…………、おにぃ……ちゃ…………」[pcms]
 
 *4862|
 [fc]
-With labored breaths, Ren smiled weakly at me.[pcms]
+苦しげな息の下、漣はボクに微笑みかけてくる。[pcms]
 
 *4863|
 [fc]
-I have to ease my cute little sister's suffering. It has to[r]
-be me, no one else... Because I am her brother...[pcms]
+この可愛い妹を……楽にしてやらなくてはいけない。[r]
+他の誰でもない、ボクがやらなくちゃいけない……。[r]
+だって……、だってボクは、兄だから……。[pcms]
 
 *4864|
 [fc]
-So...[pcms]
+だから…………。[pcms]
 
 *4865|
 [fc]
-[ns]Wataru[nse]
-"I'll kill you, Ren..."[pcms]
+[ns]航[nse]
+「殺してあげるよ、漣……」[pcms]
 
 *4866|
 [fc]
-At my words, Ren let out a relieved sigh. I was reflected in[r]
-her eyes, and then they gently closed.[pcms]
+ボクの言葉に、漣は安心したように吐息を洩らした。[r]
+瞳にボクが映りこみ、それからふっと目が閉じられる。[pcms]
 
 *4867|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「………………漣……」[pcms]
 
 *4868|
 [fc]
-The moment I saw her innocent face, resembling one of[r]
-someone asleep, a torrent of emotions flooded over me.[pcms]
+寝顔にも似た、あどけない顔を見た瞬間、[r]
+さまざまな思いが奔流のようにあふれ出す。[pcms]
 
 *4869|
 [fc]
-The shy Ren I met for the first time... The small figure[r]
-hiding behind our father...[pcms]
+初めて会った時の、恥ずかしがってばかりだった漣……。[r]
+父さんの後ろに隠れていた、小さな姿……。[pcms]
 
 *4870|
 [fc]
-The confused expressions I saw countless times until we got[r]
-used to living together and found our rhythm...[pcms]
+一緒に暮らすようになって、お互いのテンポがつかめるまで[r]
+何度も見かけた戸惑いの表情……。[pcms]
 
 *4871|
 [fc]
-When she was bullied at kindergarten and came home crying...[r]
-When she was sick and felt sorry for missing the sports[r]
-festival... When our mother died and she comforted me...[pcms]
+幼稚園でいじめられて、泣きながら帰ってきたこと……。[r]
+熱を出して運動会に出られなくて可哀想だったこと……。[r]
+母さんが死んだときに、ボクを慰めてくれたこと……。[pcms]
 
 *4872|
 [fc]
-Her slender fingers playing the violin... The lunchboxes[r]
-made with all her heart... Her voice calling me[r]
-cheerfully... Her bashful smile...[pcms]
+バイオリンを奏でる細い指……心づくしのお弁当……、[r]
+軽やかにボクを呼ぶ声……、はにかんだ微笑み……。[pcms]
 
 *4873|
 [fc]
-[ns]Wataru[nse]
-"...Re, n... Ren...!!"[pcms]
+[ns]航[nse]
+「…………れ、ん…………漣っ……！！」[pcms]
 
 *4874|
 [fc]
-Tears overflowed and wouldn't stop. My vision blurred, and I[r]
-couldn't see anything. I can't shoot... I can't shoot you,[r]
-Ren!![pcms]
+涙があふれて止まらない。視界がかすんで何も見えやしない。[r]
+これじゃ撃てない……撃てないよ、漣！！[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4875|
 [fc]
-[ns]Kousuke[nse]
-"...Move aside, Wataru!! I'll do it!!"[pcms]
+[ns]浩助[nse]
+「……そこどけっ、ワタルっ！！　俺が撃つ！！」[pcms]
 
 *4876|
 [fc]
-Pushing me aside, Kousuke tries to aim the gun.[pcms]
+ボクを押し退けて、コースケが銃を構えようとする。[pcms]
 
 *4877|
 [fc]
-[ns]Wataru[nse]
-"St...stop it, Ko...suke. I have to... I have to do it..."[pcms]
+[ns]航[nse]
+「や……やめてくれ、コー……スケ。[r]
+　ボクが……ボクがやらなくちゃ……」[pcms]
 
 *4878|
 [fc]
-As I tried to push his hand away, Kousuke, while shedding[r]
-tears just like me, muttered in a choked voice.[pcms]
+手を払おうとすると、[r]
+ボクと同様、涙をぼろぼろこぼしながら、[r]
+コースケが、絞り出すような声で呟く。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4879|
 [fc]
-[ns]Kousuke[nse]
-"...I can't stand to watch this anymore either... Ren-chan[r]
-has been with us since she was little. To me too... she's[r]
-like a sister..."[pcms]
+[ns]浩助[nse]
+「……オレだって、これ以上は見てられねーよ……。[r]
+　小さい頃から一緒だったんだ、漣ちゃんは。[r]
+　オレにとっても……妹みてーなもんだ……」[pcms]
 
 *4880|
 [fc]
-In front of us locked in a glare, Ren let out a pained cry.[pcms]
+睨み合うボクたちの前で、漣が悲痛な叫びをあげた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4881|
 [fc]
 [vo_ren s="ren_GB0025"]
-[ns]Ren[nse]
-"...Onii...cha... please..."[pcms]
+[ns]漣[nse]
+「……お、にぃ……ちゃ…………お願……い……っ」[pcms]
 
 *4882|
 [fc]
-The pained look on her face and the returning redness in her[r]
-eyes told me that Ren's sanity wouldn't last much longer.[pcms]
+苦しそうな顔、再び赤みの差してきた瞳の色から、[r]
+漣の正気がもう長くはもたないことが分かった。[pcms]
 
 *4883|
 [fc]
-Ren... what should I do...?[pcms]
+漣……、ボクはどうしたら、いい……？[pcms]
 
 ;mm いちいち片方みてチェックするのめんどうから条件分岐廃止。回想では片方しかみてなくても選択肢で分岐させる。
 
@@ -1139,21 +1131,20 @@ Ren... what should I do...?[pcms]
 *g_gb_001_sel
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１
-;//１１：・・・僕がやる・・・！→block:GB_002
-;//１２：・・・僕にはできない→block:GB_003
+;//●選択肢Ａ－１
+;//１－１：・・・僕がやる・・・！→block:GB_002
+;//１－２：・・・僕にはできない→block:GB_003
 
 
 ;	[link storage="GB_002.ks" target=*GB_002_TOP]……ボクがやる……！[endlink]
-;       (link storage="GB_003.ks" target=*GB_003_TOP)...I[r]
-can't do it(endlink)[pcms]
+;	[link storage="GB_003.ks" target=*GB_003_TOP]……ボクにはできない[endlink][s]
 
 *SEL64|……ボクがやる……！／……ボクにはできない
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'I\'ll do it!'"]
-[eval exp="f.seltext04 = 'I can\'t do it'"]
+[eval exp="f.seltext02 = '……ボクがやる……！'"]
+[eval exp="f.seltext04 = '……ボクにはできない'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

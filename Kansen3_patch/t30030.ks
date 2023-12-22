@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//---------------------------------------------------------------
 ;//→block:B002
 ;//●キスする
@@ -16,23 +16,22 @@
 
 *6178|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆…………」[pcms]
 
 *6179|
 [fc]
-Reflected in the brown of Yuuho's eyes, tinted by the[r]
-afterglow, I see myself.[pcms]
+残照を受けて茶色になった悠帆の瞳にボクが映る。[pcms]
 
 *6180|
 [fc]
-As I take a step forward, the me inside her eyes grows[r]
-slightly larger.[pcms]
+ボクが一歩前に進み出ると、瞳の中のボクが少し大きくなる。[pcms]
 
 *6181|
 [fc]
-One step. And another. I draw closer to Yuuho. The me in her[r]
-eyes also grows bit by bit.[pcms]
+一歩。また一歩。[r]
+ボクは悠帆へと近付いていく。[r]
+瞳の中のボクも、少しずつ大きくなっていく。[pcms]
 
 [eval exp="sf.EV013c = 1"][evcg storage="EV013c_L" x=-52 z=112][trans_c cross time=300]
 
@@ -41,23 +40,23 @@ eyes also grows bit by bit.[pcms]
 *6182|
 [fc]
 [vo_yuh s="yuho_T0027"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 ;//＠まっすぐな視線を向けて、無言
 
 *6183|
 [fc]
-There was nothing left to come between us anymore...[pcms]
+もう、ボクたちの間を遮るものは、何もなかった……。[pcms]
 
 *6184|
 [fc]
-Our gazes locked, as if guided by invisible hands, we both[r]
-lean in without a word.[pcms]
+視線を交わしたまま、見えない手に導かれているように[r]
+ボクたちは、どちらからともなく顔を寄せる。[pcms]
 
 *6185|
 [fc]
-I feel Yuuho's breath on my lips, and just as they are about[r]
-to touch, her long eyelashes gently close.[pcms]
+悠帆の息を口元に感じ、唇が触れそうになった瞬間、[r]
+長い悠帆のまつげがそっと伏せられた。[pcms]
 
 [eval exp="sf.EV013d = 1"][evcg storage="EV013d_L" x=-52 z=112][trans_c cross time=300]
 
@@ -66,43 +65,43 @@ to touch, her long eyelashes gently close.[pcms]
 *6186|
 [fc]
 [vo_yuh s="yuho_T0028"]
-[ns]Yuuho[nse]
-"...Mmm...huh..."[pcms]
+[ns]悠帆[nse]
+「……んっ……ふ…………」[pcms]
 ;//＠キス
 
 *6187|
 [fc]
-Our lips, they touch.[pcms]
+唇が、触れた。[pcms]
 
 *6188|
 [fc]
-Surprisingly soft and warm, Yuuho's lips are like melting[r]
-honey...[pcms]
+驚くほど柔らかくて熱くて、とろける蜜のような悠帆の唇……。[pcms]
 
 *6189|
 [fc]
-Gently pressing my lips against hers, they push back with a[r]
-marshmallow-like resilience.[pcms]
+そっとボクの唇を押しつけると、マシュマロみたいな弾力で[r]
+やわやわと押し返してくる。[pcms]
 
 *6190|
 [fc]
-As I pull Yuuho's arms closer, I press my lips harder[r]
-against hers. A slight opening between the lips allows her[r]
-pearl-like front teeth to lightly tap against mine.[pcms]
+ボクは悠帆の腕を引き寄せながら、更に唇を押し付ける。[r]
+軽く開いた唇の隙間から、[r]
+真珠みたいな前歯が、こつんと軽くぶつかった。[pcms]
 
 *6191|
 [fc]
-[ns]Wataru[nse]
-"...Sorry, Yuuho..."[pcms]
+[ns]航[nse]
+「……ご、ごめん、悠帆…………」[pcms]
 
 *6192|
 [fc]
-I hastily pull away from Yuuho.[pcms]
+ボクは慌てて悠帆から離れる。[pcms]
 
 *6193|
 [fc]
-I...I did it... Our first kiss, and with the Yuuho I adore,[r]
-yet I managed to bump teeth, ruining everything...[pcms]
+や……やっちゃったよ……。[r]
+ファーストキス、それも大好きな悠帆とのキスなのに、[r]
+歯を当ててしまうなんて、台なしだ……。[pcms]
 
 [bg storage="BG200b"][trans_c cross time=500]
 ;[eval exp="f.l_map = 5"]
@@ -112,45 +111,44 @@ yet I managed to bump teeth, ruining everything...[pcms]
 *6194|
 [fc]
 [vo_yuh s="yuho_T0029"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「…………………………」[pcms]
 ;//＠やや恥じらいを含んだ、無言
 
 *6195|
 [fc]
-Fearfully looking at Yuuho's face, a single tear drop falls[r]
-from her eyes.[pcms]
+恐る恐る悠帆の顔を見ると、[r]
+その目から涙がひとしずく、こぼれ落ちた。[pcms]
 
 *6196|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho...?"[pcms]
+[ns]航[nse]
+「……悠帆……？」[pcms]
 
 *6197|
 [fc]
-Why are you crying, Yuuho...?[pcms]
+どうして泣いてるんだ、悠帆……？[pcms]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ｂ２
-;//２１：ごめん・・・→block:T30040
-;//２２：僕がついてる！→T30080
-;//２３：時間切れ→block:T30050
+;//●時限式選択肢Ｂ－２
+;//２－１：ごめん・・・→block:T30040
+;//２－２：僕がついてる！→T30080
+;//２－３：時間切れ→block:T30050
 
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="T30040.ks" target=*T30040_TOP]ごめん……[endlink]
 ;	[link storage="T30080.ks" target=*T30080_TOP]ボクがついてる！[endlink]
 ;	;[link storage="T30050.ks" target=*T30050_TOP]時間切れ[endlink]
-;       (link storage="T30050.ks" target=*T30050_TOP)Why is[r]
-Yuuho...(endlink)[pcms]
+;	[link storage="T30050.ks" target=*T30050_TOP]どうして悠帆は……[endlink][s]
 
 *SEL71|ごめん……／ボクがついてる！／どうして悠帆は……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Sorry'"]
-[eval exp="f.seltext04 = 'I\'m with you!'"]
-[eval exp="f.seltext06 = 'Why is Yuuho'"]
+[eval exp="f.seltext02 = 'ごめん……'"]
+[eval exp="f.seltext04 = 'ボクがついてる！'"]
+[eval exp="f.seltext06 = 'どうして悠帆は……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

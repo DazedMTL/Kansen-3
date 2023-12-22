@@ -23,127 +23,129 @@
 
 *1275|
 [fc]
-As I rushed towards the corridor connecting the gym and the[r]
-indoor pool, I spotted Yuuho already up there.[pcms]
+体育館と屋内プールをつなぐ渡り廊下へと降りようと[r]
+駆け寄ったその時、ボクは既にその上にいる[r]
+悠帆の姿を見つけた。[pcms]
 
 *1276|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!"[pcms]
+[ns]航[nse]
+「悠帆っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1277|
 [fc]
 [vo_yuh s="yuho0124"]
-[ns]Yuuho[nse]
-"Wata-! Aaaaah!!"[pcms]
+[ns]悠帆[nse]
+「わたっ！　あぁああっ！！」[pcms]
 
 [bgm storage="BGM05"]
 
 *1278|
 [fc]
-The moment I called out, Yuuho looked up at my face as if[r]
-she was jolted.[pcms]
+ボクが声をかけた瞬間、はじかれたように[r]
+悠帆がボクの顔を見上げた。[pcms]
 
 *1279|
 [fc]
-But it must have been bad that she got distracted by me.[pcms]
+だが、こちらに気を取られたのがまずかったんだろう。[pcms]
 
 *1280|
 [fc]
-Yuuho slipped and collapsed on top of the triangular roof.[pcms]
+悠帆は足を滑らせて、三角の屋根の上に[r]
+へたり込んでしまった。[pcms]
 
 *1281|
 [fc]
-[ns]Wataru[nse]
-"Yuuho! Yuuho, are you okay?"[pcms]
+[ns]航[nse]
+「悠帆っ！　悠帆、大丈夫かっ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1282|
 [fc]
 [vo_yuh s="yuho0125"]
-[ns]Yuuho[nse]
-"Somehow..."[pcms]
+[ns]悠帆[nse]
+「な、なんとか……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1283|
 [fc]
-[ns]Kousuke[nse]
-"Yuuho was here?"[pcms]
+[ns]浩助[nse]
+「悠帆がいたのか？」[pcms]
 
 *1284|
 [fc]
-Hearing our voices, Kousuke rushed over.[pcms]
+ボクらの声を聞いて、コースケが駆けつけた。[pcms]
 
 *1285|
 [fc]
-But his expression froze as soon as he peered into the[r]
-corridor.[pcms]
+だが、渡り廊下を覗き込んですぐにその表情が固まる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1286|
 [fc]
-[ns]Kousuke[nse]
-"...Yuuho! Are you okay?"[pcms]
+[ns]浩助[nse]
+「……って、悠帆っ！　大丈夫か？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1287|
 [fc]
 [vo_ren s="ren0266"]
-[ns]Ren[nse]
-"Yuuho-chan!"[pcms]
+[ns]漣[nse]
+「悠帆ちゃんっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1288|
 [fc]
 [vo_mar s="maru0182"]
-[ns]Margarita[nse]
-"At this rate... there's a risk she might fall."[pcms]
+[ns]マルガリータ[nse]
+「あのままでは……落下する危険性があるな」[pcms]
 
 *1289|
 [fc]
-It seems the senior came along too.[pcms]
+先輩も一緒にやってきてくれたらしい。[pcms]
 
 *1290|
 [fc]
-[ns]Wataru[nse]
-"I'll save you now! Just wait."[pcms]
+[ns]航[nse]
+「今、助けるからなっ！　待ってろ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1291|
 [fc]
 [vo_yuh s="yuho0126"]
-[ns]Yuuho[nse]
-"Okay..."[pcms]
+[ns]悠帆[nse]
+「う、うん……」[pcms]
 
 *1292|
 [fc]
-When I called out to her, she seemed relieved, but she[r]
-didn't have her usual energy.[pcms]
+声をかけると、ホッとしてるようではあるけれども、[r]
+いつもの元気の良さはない。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1293|
 [fc]
-[ns]Kousuke[nse]
-"But how are you going to save her? Unlike the corridor roof[r]
-we were walking on before, that place has a slope."[pcms]
+[ns]浩助[nse]
+「でも助けるって、どうするんだよ？　さっきまで[r]
+　歩いていた渡り廊下の屋根と違って、[r]
+　あそこは傾斜があるぞ」[pcms]
 
 *1294|
 [fc]
-[ns]Wataru[nse]
-"I know that, but..."[pcms]
+[ns]航[nse]
+「それはわかってるけれど……」[pcms]
 
 *1295|
 [fc]
-What should I do?[pcms]
+どうしよう？[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢
@@ -152,15 +154,14 @@ What should I do?[pcms]
 
 
 ;	[link storage="30190.ks" target=*30190_TOP]体育館の中から救出[endlink]
-;       (link storage="30180.ks" target=*30180_TOP)Use a[r]
-vinyl rope to pull up and rescue Yuuho(endlink)[pcms]
+;	[link storage="30180.ks" target=*30180_TOP]ビニールロープで悠帆を引き上げ救出[endlink][s]
 
 *SEL23|体育館の中から救出／ビニールロープで悠帆を引き上げ救出
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Rescue from inside the gymnasium'"]
-[eval exp="f.seltext04 = 'Rescue Yuuho by pulling her up with a vinyl rope'"]
+[eval exp="f.seltext02 = '体育館の中から救出'"]
+[eval exp="f.seltext04 = 'ビニールロープで悠帆を引き上げ救出'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

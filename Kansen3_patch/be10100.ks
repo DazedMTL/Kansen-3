@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10100_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 
 ;//★_LASER正面（夕）
@@ -17,86 +17,84 @@
 
 *393|
 [fc]
-[ns]Wataru[nse]
-"What is that...?"[pcms]
+[ns]航[nse]
+「あれは……なんだ？」[pcms]
 
 *394|
 [fc]
-"I wonder what floor that is."[pcms]
+あそこは何階だろうか。[pcms]
 
 *395|
 [fc]
-"Through the building's windows, I can see figures[r]
-scuffling."[pcms]
+ビルの窓越しに、もみ合っている人影が見える。[pcms]
 
 *396|
 [fc]
-"It's too far to tell, but that is...!"[pcms]
+遠くてわからないけれど、あれは……！[pcms]
 
 *397|
 [fc]
-"The delicate figure that looks like a small girl is being[r]
-carried away by several larger people..."[pcms]
+小柄な女の子のような華奢な人影は、複数の大柄な人間に[r]
+抱きかかえられ、連れ去られてしまった……。[pcms]
 
 *398|
 [fc]
-"Those must be the men who broke in."[pcms]
+あれは、多分侵入した男たち。[pcms]
 
 *399|
 [fc]
-"Everyone is getting captured one by one..."[pcms]
+みんながどんどん捕まっている……。[pcms]
 
 *400|
 [fc]
-[ns]Wataru[nse]
-"Damn it!"[pcms]
+[ns]航[nse]
+「くそっ！」[pcms]
 
 *401|
 [fc]
-"I instinctively aim my gun at that window."[pcms]
+ボクは思わずその窓に銃を向ける。[pcms]
 
 *402|
 [fc]
-"There's no way I'll hit them, and it would only worsen my[r]
-situation."[pcms]
+当たるわけもないし、ボクの状況を悪くするだけだ。[pcms]
 
 *403|
 [fc]
-"If I get caught now, there will be no one left to save[r]
-everyone."[pcms]
+今ボクが捕まってしまったら、みんなを助ける人間が[r]
+いなくなってしまう。[pcms]
 
 *404|
 [fc]
-"At all costs, that's something I must avoid."[pcms]
+それだけは、なんとしても避けなければいけないことだった。[pcms]
 
 *405|
 [fc]
-"I take a deep breath to calm myself down and lower my gun."[pcms]
+自分を落ち着かせるように深呼吸をして、銃をおろす。[pcms]
 
 *406|
 [fc]
-"I will definitely save you, so please be safe..."[pcms]
+絶対助けるから、無事でいてくれ……。[pcms]
 
 *407|
 [fc]
-"My chest tightens with pain."[pcms]
+胸が締め付けられるように痛んだ。[pcms]
 
 *408|
 [fc]
-"My precious person being captured by those thugs..."[pcms]
+ボクの大切な人が、あんな連中に捕まってしまうなんて……。[pcms]
 
 *409|
 [fc]
-"Frustration and misery mix together, giving rise to a deep[r]
-hatred for those men."[pcms]
+悔しさと惨めさとが混ざり合い、[r]
+男たちに対する深い憎悪が生まれてくる。[pcms]
 
 *410|
 [fc]
-"...I have to save them quickly."[pcms]
+……すぐに助けなくちゃ。[pcms]
 
 *411|
 [fc]
-"There's no time to waste."[pcms]
+時間をかけることはできない。[pcms]
 
 
 ;//★_クロミ

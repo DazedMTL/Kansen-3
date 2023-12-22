@@ -19,121 +19,121 @@
 
 *1|
 [fc]
-I dodged the approaching woman and ran down the hallway like[r]
-a fleeing rabbit.[pcms]
+ボクは迫ってくる女をかわすと、脱兎の如く廊下を走った。[pcms]
 
 *2|
 [fc]
 [vo_mob s="hogakuseiC0001"]
-[ns]Female Student C[nse]
-"Noooooo!!"[pcms]
+[ns]女学生Ｃ[nse]
+「いやぁあああっ！！」[pcms]
 
 *3|
 [fc]
-When I turned around at the sudden scream, I saw a female[r]
-student being forced to sit on a chair by one man while[r]
-another man held her down.[pcms]
+不意に響いた悲鳴に振り向けば、椅子に座った男に[r]
+もう一人の男に押さえつけるようにされて[r]
+座らされてる女子学生の姿が見えた。[pcms]
 
 *4|
 [fc]
 [vo_mob s="hogakuseiC0002"]
-[ns]Female Student C[nse]
-"No! Stop, stop"[pcms]
+[ns]女学生Ｃ[nse]
+「いやっ！　やっ、やっ」[pcms]
 
 *5|
 [fc]
-[ns]Infected Man A[nse]
-"Gyahahaha, young pussy is the best. It's clamping down on[r]
-my dick."[pcms]
+[ns]感染者・男Ａ[nse]
+「ぎゃはははっ、若い女のマンコはサイコーだぜ。[r]
+　俺のチンポを締め付けてきてやがる」[pcms]
 
 *6|
 [fc]
 [vo_mob s="hogakuseiC0003"]
-[ns]Female Student C[nse]
-"Don't... don't put it there, it won't fit... ahhh!"[pcms]
+[ns]女学生Ｃ[nse]
+「そ、そんなトコ、は、はいんない。はいんな……[r]
+　ひぃいいいっ」[pcms]
 
 *7|
 [fc]
-[ns]Infected Man B[nse]
-"Her ass swallowed my dick too. She really loves cock, huh!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「ケツ穴に俺のチンポも咥え込みやがったぜ。[r]
+　チンポ大好きだなっ！」[pcms]
 
 *8|
 [fc]
-Her short skirt was flipped up, and I could see both her[r]
-holes engulfing the man's raging member.[pcms]
+短いスカートがまくれあがって、彼女の二つの穴が[r]
+男の怒張したモノを飲み込んでるのがわかった。[pcms]
 
 *9|
 [fc]
-But from her reaction, it was clear that she wasn't infected[r]
-yet.[pcms]
+けれどその反応を見れば、まだ彼女は感染して[r]
+いないのがわかる。[pcms]
 
 *10|
 [fc]
-Even so, I knew better than anyone that I wasn't the hero[r]
-who could jump into the classroom and save her.[pcms]
+でも、だからといって教室に飛び込んで彼女を[r]
+救い出せるヒーローなんかじゃないってことは、[r]
+このボクが一番よく知っていた。[pcms]
 
 *11|
 [fc]
-I apologized in my heart, but I couldn't help being drawn to[r]
-the sight of her parts swallowing the men's members,[r]
-chastising myself as I quickened my pace.[pcms]
+ゴメンと心の中で謝りながらも、思わず男たちの[r]
+モノを飲み込んだ彼女の部分に目を奪われそうになる[r]
+自分を叱咤して、さらに足を速める。[pcms]
 
 *12|
 [fc]
-In another classroom, I saw a male student with several[r]
-women. Pinned to the floor and with one woman facesitting[r]
-him, while two others competed to give him blowjobs.[pcms]
+と、別の教室では数人の女性を相手にしてる男子学生の[r]
+姿が見えた。床に押さえつけられ、一人に顔面騎乗されながら、[r]
+二人に競い合うようにフェラをされている。[pcms]
 
 *13|
 [fc]
-He didn't seem infected yet, but he was more aggressive than[r]
-the female student I saw earlier. Is that the sad nature of[r]
-men?[pcms]
+まだ感染してるようには見えないのに、[r]
+さっき見た女子学生よりも積極的なのは、[r]
+男の悲しい性か？[pcms]
 
 *14|
 [fc]
-If it weren't for this situation, I might have wanted to[r]
-trade places with him, but this was no time to be a[r]
-spectator.[pcms]
+こんな状況下じゃなかったら、思わず替わりたいと[r]
+思うだろうけれど、見物してる場合じゃない。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_g"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *15|
 [fc]
 [vo_mob s="onna0001"]
-[ns]Infected Woman A[nse]
-"Fwaaaah, men... young and hard cocks..."[pcms]
+[ns]感染者・女Ａ[nse]
+「ふわぁあ、男……男よ。若くて硬いちんちんよ」[pcms]
 
 *16|
 [fc]
-The shocking scene made me slow down for a moment, which was[r]
-a bad move as a new infected person burst out of the[r]
-classroom.[pcms]
+ショッキングな光景に一瞬足を緩めてしまったのが[r]
+マズかったのか、教室の中から新手の感染者が[r]
+飛び出してきた。[pcms]
 
 *17|
 [fc]
-In a panic, I put more strength into my legs and dashed down[r]
-the hallway.[pcms]
+慌ててボクは床を蹴る足に力を込めて、廊下を駆け出す。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_g"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *18|
 [fc]
 [vo_mob s="onna0002"]
-[ns]Infected Woman A[nse]
-"Thrust it deep into my pussy!"[pcms]
+[ns]感染者・女Ａ[nse]
+「私のおまんこにズボズボ突っ込んでぇ！」[pcms]
 
 *19|
 [fc]
-[ns]Wataru[nse]
-"You've got to be kidding me!!"[pcms]
+[ns]航[nse]
+「じ、冗談じゃない！！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *20|
 [fc]
-I shouted quickly and sped up to dodge the woman lunging at[r]
-me with the force of a tackle.[pcms]
+ボクは口早にそう叫ぶとタックルするような勢いで[r]
+襲いかかってくる女性を避けて、スピードアップした。[pcms]
 
 ;//BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -141,86 +141,84 @@ me with the force of a tackle.[pcms]
 
 *21|
 [fc]
-When I reached the area near the stairs through the[r]
-emergency exit, I saw infected people wandering aimlessly[r]
-near the main entrance due to its proximity.[pcms]
+非常口から廊下を突っ切って階段付近までやってくると、[r]
+正面玄関に近いせいか、既に感染したヤツラがうろうろと[r]
+目的もなく彷徨っていた。[pcms]
 
 *22|
 [fc]
-It seems that some of the school students were already[r]
-infected.[pcms]
+既に学園生の中にも感染者が出てるようだ。[pcms]
 
 *23|
 [fc]
-Luckily I didn't have any friends, but it pained my heart to[r]
-see familiar faces.[pcms]
+幸い友達は一人もいなかったけれど、見覚えのある顔を[r]
+見ると心がうずく。[pcms]
 
 *24|
 [fc]
-Hiding in the shadows so as not to be seen by them, I peeked[r]
-out and saw more infected people who weren't students[r]
-entering from outside.[pcms]
+ボクは彼らに見つからないように陰に隠れてそっと[r]
+覗き込んでみると、外からぞろぞろと学園生以外の[r]
+感染者が入ってくるのが見えた。[pcms]
 
 *25|
 [fc]
-If I stayed hidden, it would only be a matter of time.[pcms]
+このまま隠れていてもきっと時間の問題だ。[pcms]
 
 *26|
 [fc]
-I swallowed hard and determined which path I should take.[pcms]
+ボクはゴクリと喉を鳴らして、[r]
+自分が行くべき道を見定めた。[pcms]
 
 *27|
 [fc]
-To the left was the gymnasium, and beyond that was the pool.[r]
-In other words, where Yuuho was likely to be. Normally, you[r]
-can only get there from the first floor of the regular[r]
-classroom building.[pcms]
+左に行けば、体育館。その向こう側にはプールがある。[r]
+つまり、悠帆がいると思われる場所だ。[r]
+通常教室棟からそこへ行くには１階からしか行けない。[pcms]
 
 *28|
 [fc]
-To the right was the special classroom building with the[r]
-music room on the third floor. Where Ren should be. However,[r]
-the connecting corridor to the special classroom building[r]
-only goes up to the second floor.[pcms]
+右に行けば音楽室が３階にある特殊教室棟。[r]
+漣がいるはずの場所だ。[r]
+ただし特殊教室棟への渡り廊下は、２階までしかない。[pcms]
 
 *29|
 [fc]
-Right beside me was a staircase.[pcms]
+ボクのすぐ横には階段がある。[pcms]
 
 *30|
 [fc]
-There were two paths to choose from.[pcms]
+とるべき道は２つ。[pcms]
 
 *31|
 [fc]
-Whether to continue to Yuuho's place or go to Ren's.[pcms]
+このまま悠帆の所へ向かうか、漣の所へ行くか。[pcms]
 
 *32|
 [fc]
-No, since there's also the option to avoid this crowd and go[r]
-through the second floor, there are actually three paths I[r]
-can choose from right now.[pcms]
+いや、この人だかりを避けて２階を通っていくって[r]
+選択があるから、今のボクが選択できる道は正確には[r]
+３つあるのか。[pcms]
 
 *33|
 [fc]
-[ns]Wataru[nse]
-"What should I do..."[pcms]
+[ns]航[nse]
+「どうしようか……」[pcms]
 
 *34|
 [fc]
-If I stay hidden here, they will soon chase after me and[r]
-come from behind.[pcms]
+このまま隠れていても、すぐにボクを追いかけて[r]
+後ろからヤツラがやってくるだろう。[pcms]
 
 *35|
 [fc]
-What should I do?[pcms]
+どうする？[pcms]
 
 ;//--------------------------------------------------------------------
-;//●時限式選択肢Ｂ２
-;//２１：体育館側へ！;//→block:B6_002
-;//２２：音楽室側へ！;//→block:B6_003
-;//２３：階段で２Ｆへ・Ｂ！;//→block:B6_004
-;//２４：時間切れ;//→B_D2
+;//●時限式選択肢Ｂ－２
+;//２－１：体育館側へ！;//→block:B6_002
+;//２－２：音楽室側へ！;//→block:B6_003
+;//２－３：階段で２Ｆへ・Ｂ！;//→block:B6_004
+;//２－４：時間切れ;//→B_D2
 
 ;	[sysbt_meswin clear]
 ;
@@ -228,17 +226,16 @@ What should I do?[pcms]
 ;	[link storage="B6_003.ks" target=*B6_003_TOP]音楽室側へ！[endlink]
 ;	[link storage="B6_004.ks" target=*B6_004_TOP]階段で２Ｆへ！[endlink]
 ;	;[link storage="B_D2.ks" target=*B_D2_TOP]時間切れ[endlink]
-;       (link storage="B_D2.ks" target=*B_D2_TOP)Yuuho...[r]
-Ren...(endlink)[pcms]
+;	[link storage="B_D2.ks" target=*B_D2_TOP]悠帆……漣……[endlink][s]
 
 *SEL56|体育館側へ！／音楽室側へ！／階段で２Ｆへ！／悠帆……漣……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext01 = 'To the gym side!'"]
-[eval exp="f.seltext03 = 'To the music room side!'"]
-[eval exp="f.seltext05 = 'To the second floor via the stairs!'"]
-[eval exp="f.seltext07 = 'Yuuho Ren'"]
+[eval exp="f.seltext01 = '体育館側へ！'"]
+[eval exp="f.seltext03 = '音楽室側へ！'"]
+[eval exp="f.seltext05 = '階段で２Ｆへ！'"]
+[eval exp="f.seltext07 = '悠帆……漣……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

@@ -34,132 +34,134 @@
 
 *2137|
 [fc]
-[ns]Tadahiko[nse]
-"Tch..."[pcms]
+[ns]忠彦[nse]
+「チッ……」[pcms]
 
 *2138|
 [fc]
-I passed through the underground passage and emerged inside[r]
-the shrine near my old man's mansion.[pcms]
+俺は地下通路を抜け、[r]
+オヤジの屋敷の近くの神社の社の中に出た。[pcms]
 
 *2139|
 [fc]
-Without even looking outside, I could easily grasp their[r]
-presence from the shitty groaning noises those infected[r]
-bastards were making.[pcms]
+外を見るまでもなく、感染者共があげるクソみたいなうなり声で、[r]
+ヤツラの存在は容易く掴むことができた。[pcms]
 
 *2140|
 [fc]
-Even though it's a shrine... those damn monsters have gotten[r]
-in.[pcms]
+神社だっつーのに……。[r]
+化け物共が入って来ちまってるじゃねえか……。[pcms]
 
 *2141|
 [fc]
-In this day and age, everyone's lost their faith. Have we[r]
-been abandoned by gods and Buddhas alike...?[pcms]
+今のご時世、どいつもこいつも信仰心なくしちまってっからな。[r]
+俺らァ、神様にも仏様にも見捨てられっちまったのか……。[pcms]
 
 *2142|
 [fc]
-It's a real shitty situation, truly...[pcms]
+クソな状況だぜ、ホントによ……。[pcms]
 
 *2143|
 [fc]
-Shitty, but... Wataru called me "big brother" for the first[r]
-time in a while.[pcms]
+クソだけどよ……。[r]
+航が、俺の事、久々に『兄さん』って呼んでくれた。[pcms]
 
 *2144|
 [fc]
-It feels good, after all.[pcms]
+嬉しいモンだな、やっぱり。[pcms]
 
 ;//se023・携帯のバイブ音
 [se buf=0 storage="se023" loop=true]
 
 *2145|
 [fc]
-[ns]Tadahiko[nse]
-"..."[pcms]
+[ns]忠彦[nse]
+「…………」[pcms]
 
 *2146|
 [fc]
-I took out my cell phone, which was trembling slightly in my[r]
-pocket, and saw "Missed Call" displayed on the screen.[pcms]
+ポケットの中で小刻みに震える携帯を取り出し、[r]
+ディスプレイを見ると『不在着信あり』と表示されていた。[pcms]
 
 *2147|
 [fc]
-[ns]Tadahiko[nse]
-"Yuuho?"[pcms]
+[ns]忠彦[nse]
+「悠帆か」[pcms]
 
 *2148|
 [fc]
-That's right, there was a call. I hadn't listened to it yet.[pcms]
+そういや、電話来てたな。[r]
+まだ聞いてなかった。[pcms]
 
 *2149|
 [fc]
-To be precise... I couldn't listen to it.[pcms]
+正確には……聞けなかった。[pcms]
 
 *2150|
 [fc]
-It wasn't a message from Yuuho, but the one before that. The[r]
-voicemail left by Inori.[pcms]
+悠帆からの伝言じゃなくて、その一つ前。[r]
+緒織の残した留守電が。[pcms]
 
 *2151|
 [fc]
-[ns]Tadahiko[nse]
-"Inori..."[pcms]
+[ns]忠彦[nse]
+「緒織……」[pcms]
 
 *2152|
 [fc]
-I thought I was prepared.[pcms]
+覚悟はできてるつもりだった。[pcms]
 
 *2153|
 [fc]
-But I couldn't listen to it. I was scared. Scared of hearing[r]
-the words Inori left behind.[pcms]
+だが、俺は聞くことができなかった。[r]
+怖かったからだ。[r]
+緒織の残した言葉を聞くことが。[pcms]
 
 *2154|
 [fc]
-In a situation like this all over town, Inori is...[pcms]
+街中こんな状況じゃ、緒織は……。[pcms]
 
 *2155|
 [fc]
-But maybe, just maybe. Inori might have escaped somewhere[r]
-and survived, and that might be what the call is about.[pcms]
+だが、もしかしたら。[r]
+緒織もどっかに逃げて助かって、それの連絡かもしれねえ。[pcms]
 
 *2156|
 [fc]
-Wataru.[pcms]
+航。[pcms]
 
 *2157|
 [fc]
-You called me "big brother"... It gave me courage.[pcms]
+オメェに『兄さん』って言われて……。[r]
+俺ァ勇気づけられたぜ。[pcms]
 
 *2158|
 [fc]
-I can't just keep not listening to it forever.[pcms]
+ずっと聞かないでいる訳にゃいかねぇからな。[pcms]
 
 *2159|
 [fc]
-[ns]Tadahiko[nse]
-"..."[pcms]
+[ns]忠彦[nse]
+「……」[pcms]
 
 *2160|
 [fc]
-Heh... Look at me. My hands are shaking just from trying to[r]
-listen to a voicemail.[pcms]
+ヘッ……。[r]
+俺とした事が。たかが留守電聞くくらいで[r]
+手ェ震えるなんてな。[pcms]
 
 *2161|
 [fc]
-That's not like me...[pcms]
+俺らしくもねえ……。[pcms]
 
 *2162|
 [fc]
-No matter how much I try to act tough, my hands won't stop[r]
-shaking.[pcms]
+とはいえ、いくら強がってみても手の震えは止まらない。[pcms]
 
 *2163|
 [fc]
-[ns]Tadahiko[nse]
-"It's fine..."[pcms]
+[ns]忠彦[nse]
+「ままよ……」[pcms]
 
 
 ;//se022・携帯の操作音
@@ -167,41 +169,42 @@ shaking.[pcms]
 
 *2164|
 [fc]
-I told myself and put strength into my trembling fingers.[pcms]
+自分に言い聞かせ、震える指に力を込める。[pcms]
 
 *2165|
 [fc]
 [vo_mob s="keitai0001"]
-[ns]Mobile Announcement[nse]
-"You have two messages. First message. Yesterday..."[pcms]
+[ns]携帯のアナウンス[nse]
+「二件のメッセージがあります。[r]
+　一件目。昨日」[pcms]
 
 *2166|
 [fc]
 [vo_ior s="iori0133"]
-[ns]Inori[nse]
-"Tadahiko-san... I was waiting, but it's no good anymore...[r]
-I don't want you to see me becoming like those weird ones...[r]
-I don't want Tadahiko-san to see me like that..."[pcms]
+[ns]緒織[nse]
+「忠彦はん……待ってたんだけど、もう駄目やわ……。[r]
+　私が……あのヘンなヤツラみたくなった所なんて、[r]
+　見られたくないから……彦はんには見られたくないから……」[pcms]
 
 *2167|
 [fc]
-The voice left on the cell phone was overlaid with sounds of[r]
-doors banging and something breaking. Surely, it was the[r]
-sound of those monsters rampaging.[pcms]
+携帯に残されたに声は、扉を叩く音や[r]
+何かが割れる様な音が被さっていた。[r]
+きっと、あの化け物が暴れている音だ。[pcms]
 
 *2168|
 [fc]
-Inori's voice was trembling, as if she were crying.[pcms]
+緒織の声は、泣いているのか少し震えている。[pcms]
 
 *2169|
 [fc]
-[ns]Tadahiko[nse]
-"Damn it..."[pcms]
+[ns]忠彦[nse]
+「クソッ……」[pcms]
 
 *2170|
 [fc]
-If only I had been there... But it's probably too late[r]
-now...[pcms]
+俺がその場に居さえすれば……。[r]
+だが、もう遅いか……。[pcms]
 
 
 
@@ -209,178 +212,190 @@ now...[pcms]
 *2171|
 [fc]
 [vo_ior s="iori0134"]
-[ns]Inori[nse]
-"Na... Tadahiko-san. Please forgive me. Forgive me for this.[r]
-Even though it was short, thank you for taking me out of[r]
-Kyoto..."[pcms]
+[ns]緒織[nse]
+「な……忠彦はん。堪忍や。堪忍してな、私のこと。[r]
+　短い間だったけど、[ruby text="あそこ"][ch text="京都"]……から連れ出してくれて、[r]
+　ホンマありがとな」[pcms]
 
 *2172|
 [fc]
 [vo_ior s="iori0135"]
-[ns]Inori[nse]
-"I wanted to be held by you one last time... My beloved[r]
-Tadahiko-san. Thank you. Thank you for everything until[r]
-now."[pcms]
+[ns]緒織[nse]
+「最後にな……忠彦はんに抱かれたかったわ……。[r]
+　大好きな彦はん。[r]
+　ありがとな。今までホンマ、ありがとう」[pcms]
 
 *2173|
 [fc]
-[ns]Tadahiko[nse]
-"Inori!"[pcms]
+[ns]忠彦[nse]
+「緒織！」[pcms]
 
 *2174|
 [fc]
-As if there could be a reply. I know it's futile, but[r]
-still...[pcms]
+返事などあるわけがないのに。[r]
+無駄だとわかっているのに。[pcms]
 
 *2175|
 [fc]
 [vo_ior s="iori0136"]
-[ns]Inori[nse]
-"...Thank you... Take me out again, okay? It's a promise."[pcms]
+[ns]緒織[nse]
+「……ありがと、な……。[r]
+　またウチのこと、連れ出して、な？[r]
+　約束やで」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
 
 *2176|
 [fc]
-[ns]Infected - Male L[nse]
-"Ah, what a waste. There goes our fun--"[pcms]
+[ns]感染者・男Ｌ[nse]
+「あ、もったいねえことしやがって。[r]
+　お楽しみが減っ――」[pcms]
 
 *2177|
 [fc]
-Inori...[pcms]
+緒織……。[pcms]
 
 *2178|
 [fc]
 [vo_mob s="keitai0002"]
-[ns]Mobile Announcement[nse]
-"End of the first message. Next message."[pcms]
+[ns]携帯のアナウンス[nse]
+「一件目は以上です。次のメッセージ」[pcms]
 
 *2179|
 [fc]
 [vo_yuh s="yuho0909"]
-[ns]Yuuho[nse]
-"Hiko-chin!? Are you safe? If you're safe, let me know by[r]
-phone or email! We're in the school basement. Everyone's[r]
-together. But we're worried about Hiko-chin and Inori-[r]
-san..."[pcms]
+[ns]悠帆[nse]
+「彦ちん！？　彦ちんは無事なの？　無事だったら、電話か、[r]
+　メールで教えて！　わたし達は学園の地下にいる。みんな一緒。[r]
+　だけど彦ちんと緒織さんが心配で……」[pcms]
 
 *2180|
 [fc]
-As expected, you are...[pcms]
+やっぱり、お前は……。[pcms]
 
 *2181|
 [fc]
 [vo_yuh s="yuho0910"]
-[ns]Yuuho[nse]
-"We want to join up with both of you... And I haven't[r]
-apologized for leaving without saying anything on the[r]
-festival day... No... So let's meet again? Let me[r]
-apologize!"[pcms]
+[ns]悠帆[nse]
+「二人とも合流したいし……それに、お祭りの日に[r]
+　何も言わないで帰っちゃったお詫び言ってないから……。[r]
+　ううん……だから、また会おう？　お詫び言わせてね！」[pcms]
 
 *2182|
 [fc]
-The best... She's my best girl...[pcms]
+最高の……。[r]
+俺の、最高の女だ……。[pcms]
 
 *2183|
 [fc]
 [vo_mob s="keitai0003"]
-[ns]Mobile Announcement[nse]
-"End of messages. To delete--"[pcms]
+[ns]携帯のアナウンス[nse]
+「メッセージは以上です。消去する場合は――」[pcms]
 
 ;BGM即時停止
 [fadeoutbgm time=500]
 
 *2184|
 [fc]
-...[pcms]
+…………。[r]
+……。[pcms]
 
 [bgm storage="BGM06"]
 
 *2185|
 [fc]
-Let's meet again. Everyone together, huh?[pcms]
+また会おう。[r]
+みんな一緒、か。[pcms]
 
 *2186|
 [fc]
-Sorry. That's impossible now.[pcms]
+わりぃな。[r]
+そりゃ、もう無理だ。[pcms]
 
 *2187|
 [fc]
-But you know... Yuuho...[pcms]
+しかしよぉ……悠帆……。[pcms]
 
 *2188|
 [fc]
-[ns]Tadahiko[nse]
-"Everyone together, huh... You're as thoughtful as ever. Is[r]
-Wataru, the blockhead and wimp, really worth it?"[pcms]
+[ns]忠彦[nse]
+「みんな一緒か……気の利くヤツだな、相変わらず。[r]
+　朴念仁でヘタレの航にゃ、もったいねぇか？」[pcms]
 
 *2189|
 [fc]
-Not worth it, huh? That's not true. Not the Wataru of now.[pcms]
+……もったいねえ、か。[r]
+そんな事ねえな。[r]
+今の航なら、な。[pcms]
 
 *2190|
 [fc]
-...[pcms]
+……………………。[r]
+…………。[pcms]
 
 *2191|
 [fc]
-The annoying groans of the infected echo throughout the[r]
-city. By now, I feel nothing towards those voices.[pcms]
+感染者共が上げるうっとうしいうなり声が街中に響き渡る。[r]
+もはや、その声に対しては、何も感じない。[pcms]
 
 *2192|
 [fc]
-Not annoyance. Not anger. Not fear.[pcms]
+うっとおしさも。[r]
+怒りも。[r]
+恐怖も。[pcms]
 
 *2193|
 [fc]
-I take out the dagger hidden at my waist and throw away the[r]
-sheath.[pcms]
+腰に隠していた匕首を取り出し、鞘を捨てる。[pcms]
 
 *2194|
 [fc]
-Inori... Wait for me. I'm coming now.[pcms]
+緒織……。[r]
+待ってろ。[r]
+今、行くぞ。[pcms]
 
 *2195|
 [fc]
-[ns]Tadahiko[nse]
-"...Let's meet again, huh..."[pcms]
+[ns]忠彦[nse]
+「…………また会おう、か……」[pcms]
 
 *2196|
 [fc]
-[ns]Tadahiko[nse]
-"Let's meet again. Definitely."[pcms]
+[ns]忠彦[nse]
+「また会おうぜ。絶対にな」[pcms]
 
 *2197|
 [fc]
-Clutching the dull silver light of the dagger, I head[r]
-towards the shrine grounds--[pcms]
+鈍い銀の光を放つ匕首を握りしめ、[r]
+俺は[ruby text="ク　ソ　共"][ch text="感染者"]のいる境内へ――[pcms]
 
 *2198|
 [fc]
-Outside, where Inori is waiting.[pcms]
+緒織の待つ、外へ。[pcms]
 
 *2199|
 [fc]
-[ns]Tadahiko[nse]
-"Inoriiii!!! Wait for me!! I'm coming right nowwwwwww!!!!!"[pcms]
+[ns]忠彦[nse]
+「緒織ィィ！！！　待ってろよォ！！[r]
+　すぐ行くぜぇェェ！！！！！！！！」[pcms]
 
 ;//se087・木製ドアを蹴破る音
 ;//[se buf=0 storage="se087"]
 
 *2200|
 [fc]
-I'm going with all my might. I told Wataru to get psyched[r]
-up, but it'd be a mess if I were the wimp.[pcms]
+気合い入れて行くぜ。[r]
+航にだけ気合い入れろとか言って、[r]
+俺がヘタレてたら世話ねぇからな。[pcms]
 
 *2201|
 [fc]
-With all my strength, I kick open the shrine's door and head[r]
-outside.[pcms]
+全身に力を込め、社のドアを蹴破り、外へ。[pcms]
 
 *2202|
 [fc]
-My body was enveloped in a blinding light.[pcms]
+俺の身体は、眩しい光に包まれていった。[pcms]
 
 ;//〆ホワイトアウト
 [fadeoutbgm time=500]

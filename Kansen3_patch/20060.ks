@@ -19,15 +19,15 @@
 ;	[link storage="B_04.ks" target=*B_04_TOP]渋谷駅側に突っ込む[endlink]
 ;	[link storage="20070.ks" target=*20070_TOP]落ち着け、ボク！[endlink]
 ;	;link storage="20070.ks" target=*20070_TOP]時間切れ[endlink]
-;[pcms]
+;	[s]
 
 
 *SEL08|渋谷駅側に突っ込む／落ち着け、ボク！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Plunge into the Shibuya Station side'"]
-[eval exp="f.seltext04 = 'Calm down, me!'"]
+[eval exp="f.seltext02 = '渋谷駅側に突っ込む'"]
+[eval exp="f.seltext04 = '落ち着け、ボク！'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

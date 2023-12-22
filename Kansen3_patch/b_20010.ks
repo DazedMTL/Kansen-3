@@ -23,33 +23,33 @@
 *4007|
 [fc]
 [vo_ren s="ren_KB0030"]
-[ns]Ren[nse]
-"Hey, big brother, hey... more, more...!"[pcms]
+[ns]漣[nse]
+「ねぇ、お兄ちゃあぁぁん[r]
+　ねぇってばぁぁ……、もっとぉぉ、もっとぉぉ……っ！」[pcms]
 ;//＠感染しきっています
 
 *4008|
 [fc]
-Ren, who has become one of us, refuses to leave my side. She[r]
-says she's "making up for all the times she held back[r]
-because we were siblings."[pcms]
+すっかりボクらの仲間になった漣はボクから離れようとしない。[r]
+『今まで兄弟だからって我慢してた分をとりかえす』らしい。[pcms]
 
 *4009|
 [fc]
-[ns]Wataru[nse]
-"I understand how you feel, but being selfish isn't good,[r]
-okay? If you want more, you have to cooperate with us."[pcms]
+[ns]航[nse]
+「気持ちはわかるけど、ワガママはダメだよ？[r]
+　もっとして欲しかったら、お兄ちゃんたちに協力するんだ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_k3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4010|
 [fc]
 [vo_ren s="ren_KB0031"]
-[ns]Ren[nse]
-"Cooperate...?"[pcms]
+[ns]漣[nse]
+「協力ぅ……？」[pcms]
 
 *4011|
 [fc]
-I began to explain the plan to Ren.[pcms]
+ボクは漣にこれからの計画を説明し始めた。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -62,153 +62,152 @@ I began to explain the plan to Ren.[pcms]
 
 *4012|
 [fc]
-[ns]Wataru[nse]
-"...that's the plan. See, it's simple, right?"[pcms]
+[ns]航[nse]
+「……という風にするつもりなんだ。ね、簡単だろ？」[pcms]
 
 *4013|
 [fc]
-As soon as she heard it, Ren puffed up her cheeks in[r]
-displeasure.[pcms]
+聞き終えるなり漣はぷぅっと頬を膨らませた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4014|
 [fc]
 [vo_ren s="ren_KB0032"]
-[ns]Ren[nse]
-"Eeeeh...? I don't wanna... I don't wanna do lewd things[r]
-with anyone other than big brother...?"[pcms]
+[ns]漣[nse]
+「えええぇぇ……？　やだなぁぁ？[r]
+　……お兄ちゃん以外の人と、[r]
+　エッチなんか、したくないよぉぉ……？」[pcms]
 
 *4015|
 [fc]
-[ns]Wataru[nse]
-"Can't be helped, right? I have to make others our allies[r]
-too."[pcms]
+[ns]航[nse]
+「仕方ないだろ？[r]
+　ボクだって他の人も仲間にしなくちゃいけないし」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4016|
 [fc]
 [vo_ren s="ren_KB0033"]
-[ns]Ren[nse]
-"I hate it even more when big brother does it with other[r]
-people!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんが、他の人とするのは、[r]
+　もっと、いやぁぁ！」[pcms]
 
 *4017|
 [fc]
-She clenched her small fists and started tapping my chest[r]
-lightly.[pcms]
+両手で小さな拳を握ってボクの胸をぽかぽか叩いてくる。[pcms]
 
 *4018|
 [fc]
-Really. She's cute but troublesome. Even after becoming an[r]
-ally, her jealousy doesn't go away...[pcms]
+まったく。可愛いけど困ったもんだ。[r]
+仲間に変化してもヤキモチ焼きは治らないんだなあ……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e32"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4019|
 [fc]
 [vo_yuh s="yuho_KB0011"]
-[ns]Yuuho[nse]
-"Hey... Ren-chan, please cooperate..."[pcms]
+[ns]悠帆[nse]
+「ねぇぇ……、れんちゃぁん、協力してよぉ……」[pcms]
 
 *4020|
 [fc]
-Ren harshly brushed off Yuuho's attempt to mediate.[pcms]
+取り持とうとする悠帆を漣は手厳しくはねつける。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4021|
 [fc]
 [vo_ren s="ren_KB0034"]
-[ns]Ren[nse]
-"...No, I hate you, Yuuho-chan! I really, really hate anyone[r]
-who slept with big brother before me!"[pcms]
+[ns]漣[nse]
+「……いやぁっ、悠帆ちゃん、きらいぃぃ！[r]
+　私より先に、お兄ちゃんと寝た人なんかぁ、[r]
+　だあぁぁぁぁいっきらいぃぃぃーーーーっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e18"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4022|
 [fc]
 [vo_yuh s="yuho_KB0012"]
-[ns]Yuuho[nse]
-"Whaaat...? That's mean, Ren-chan? Don't say it like that...[r]
-whaa..."[pcms]
+[ns]悠帆[nse]
+「ふえぇぇぇ……？　ひどいよぉぉ、れんちゃぁん？[r]
+　そんな言い方……しないでよぉ……ふえぇぇ……」[pcms]
 
 *4023|
 [fc]
-Yuuho covered her face and began to sob quietly.[pcms]
+悠帆は顔を覆ってしくしくと泣き出してしまう。[pcms]
 
 *4024|
 [fc]
-[ns]Wataru[nse]
-"Hey, Ren. Apologize to Yuuho. And if you don't help out,[r]
-I'll be upset with you, okay?"[pcms]
+[ns]航[nse]
+「こら、漣。悠帆に謝りなさい。[r]
+　それに手伝わないと、嫌いになっちゃうぞ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4025|
 [fc]
 [vo_ren s="ren_KB0035"]
-[ns]Ren[nse]
-"...Uuuu, o-okay..."[pcms]
+[ns]漣[nse]
+「……うぅぅぅぅ、わ、わかったよぉ……」[pcms]
 
 *4026|
 [fc]
-Reluctantly nodding, Ren approached Yuuho with her gaze[r]
-downcast.[pcms]
+不承不承、うなずいた漣は、伏目がちに悠帆に近付いた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4027|
 [fc]
 [vo_ren s="ren_KB0036"]
-[ns]Ren[nse]
-"I'm sorry, Yuuho-chan... I'll help out... so please don't[r]
-cry...?"[pcms]
+[ns]漣[nse]
+「ごめんね、悠帆ちゃぁん……、[r]
+　私、お手伝い、するからぁ……泣かないでぇ……？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4028|
 [fc]
 [vo_yuh s="yuho_KB0013"]
-[ns]Yuuho[nse]
-"He... hehe... hahaha... no way, I'm not crying? We... we[r]
-don't shed tears...!"[pcms]
+[ns]悠帆[nse]
+「ふ……ふぇ……ふふふふふふ……、[r]
+　うそ、だよぉぉぉ？　泣いてないよぉ？[r]
+　わたしたち……涙なんか、出ないもぉぉん……！」[pcms]
 
 *4029|
 [fc]
-Yuuho lifted her face and burst into a loud laugh.[pcms]
+悠帆は顔を上げてケタケタと大口を開いて笑い出す。[pcms]
 
 *4030|
 [fc]
-[ns]Wataru[nse]
-"What the- you tricked me, didn't you?"[pcms]
+[ns]航[nse]
+「なんだー、騙したんだな、こいつ～」[pcms]
 
 *4031|
 [fc]
-Funny. Everyone is. It really is more fun when the group[r]
-grows.[pcms]
+面白いな。みんな。やっぱり仲間が増えると楽しいぞ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4032|
 [fc]
 [vo_yuh s="yuho_KB0014"]
-[ns]Yuuho[nse]
-"Hyahaha, ahahaaha, ahaha...!"[pcms]
+[ns]悠帆[nse]
+「ひゃはははは、あははあは、あはは……っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_k15"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4033|
 [fc]
 [vo_ren s="ren_KB0037"]
-[ns]Ren[nse]
-"Kyahaha, kyahahahaha...!"[pcms]
+[ns]漣[nse]
+「きゃははっ、きゃはははははっ……！」[pcms]
 
 *4034|
 [fc]
-Alright, let's go get our next ally to make things even more[r]
-fun...![pcms]
+よーし、もっと楽しくなるように、[r]
+早く次の仲間を迎えに行こう……！[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

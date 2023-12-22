@@ -24,16 +24,16 @@
 ;	[link storage="B_02.ks" target=*B_02_TOP]警察か病院に電話しよう[endlink]
 ;	;[link storage="B_03.ks" target=*B_03_TOP]時間切れ[endlink]
 ;	[link storage="B_03.ks" target=*B_03_TOP]これは……[endlink]
-;[pcms]
+;	[s]
 
 
 *SEL07|吉野から離れる／警察か病院に電話しよう／これは……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Move away from Yoshino'"]
-[eval exp="f.seltext04 = 'Let\'s call the police or the hospital'"]
-[eval exp="f.seltext06 = 'This is'"]
+[eval exp="f.seltext02 = '吉野から離れる'"]
+[eval exp="f.seltext04 = '警察か病院に電話しよう'"]
+[eval exp="f.seltext06 = 'これは……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

@@ -25,8 +25,8 @@
 
 *1|
 [fc]
-It was an event on a night in August, still filled with heat[r]
-even after the sun had set.[pcms]
+それは陽が落ちてもなお熱気に満ちた、[r]
+８月の夜の出来事だった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -49,24 +49,24 @@ even after the sun had set.[pcms]
 
 *2|
 [fc]
-The memories of that tragedy had already been taken away to[r]
-the far side of the mist called the past.[pcms]
+あの惨劇の記憶はすでに過去という名の霧の彼方に[r]
+連れ去られていた。[pcms]
 
 *3|
 [fc]
-Even the incident that shook people and drove them to fear,[r]
-is now just one of the old tales.[pcms]
+人々を震撼させ、恐怖へと駆り立てた事件でさえ、[r]
+今はもう昔話のひとつ。[pcms]
 
 *4|
 [fc]
-All the alarms and warnings are nothing more than companions[r]
-to old books, fitting into the same shelf as fairy tales...[pcms]
+警鐘も警告も、すべてはお伽噺と同じ本棚に収まる、[r]
+古びた書籍の仲間にすぎない……。[pcms]
 
 *5|
 [fc]
-The more bizarre the incident, the faster our information[r]
-society turns it into mere data, and humans, devoid of[r]
-imagination, mistake facts for fiction.[pcms]
+奇異な事件であればあるほど、加速していく情報社会は[r]
+それを単なるデータへと変え、想像力をなくした人間は[r]
+事実を虚構と錯覚する。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -83,167 +83,161 @@ imagination, mistake facts for fiction.[pcms]
 
 *6|
 [fc]
-Now that the king of the great sky, the summer sun, has[r]
-disappeared over the horizon, the only thing filling the sky[r]
-is the gentle light of the stars.[pcms]
+夏の太陽という大空の王者が地平線へと消えた今、[r]
+空を埋め尽くすのは優しい光を放つ星たちだけ。[pcms]
 
 *7|
 [fc]
-The usual quiet night was tenderly watched over by the small[r]
-jewels decorating the canopy of heaven.[pcms]
+いつもと変わらぬ静かな夜を、天蓋を飾る小さな宝石達が[r]
+やさしく見つめていた。[pcms]
 
 *8|
 [fc]
-Under such a vast starry sky, wrapped in the veil of night,[r]
-where only the lullabies of summer insects should flow[r]
-through the gaps in the vegetation, an out-of-place noise[r]
-began--[pcms]
+そんな広大な満天の星空の下、夜の帳に包まれて[r]
+夏虫の奏でる子守唄だけが流れるはずの草木の合間から、[r]
+似つかわしくない騒音が――[pcms]
 
 *9|
 [fc]
-It was loud like a destroyer, beginning to ravage the[r]
-night's silence.[pcms]
+まるで破壊者のようにけたたましく、夜の静寂を[r]
+荒しはじめた。[pcms]
 
 *10|
 [fc]
-Dance music with a heavy beat spilled out from the speakers,[r]
-and cheers from young men and women rose up.[pcms]
+ビートの効いた大音量のダンスミュージックが[r]
+スピーカーからあふれ出し、若い男女の歓声が湧き上がる。[pcms]
 
 *11|
 [fc]
-The sound of glass containers clashing in jubilation and[r]
-flames crackling and burning brightly.[pcms]
+ガラス容器をぶつけて歓喜に沸き立つ声と、[r]
+バチバチと派手な音をあげて燃え盛る炎。[pcms]
 
 *12|
 [fc]
-The shadows cast by the flames that lit up the darkness[r]
-danced madly, pouring an unusual heat into the night forest.[pcms]
+闇を照らす炎に映し出された影はどれも狂ったように[r]
+舞い踊り、夜の森に異様な熱気を注いでいった。[pcms]
 
 ;//BG：山間部レイヴ会場BG表示
 [bg storage="bg010"][trans_c cross time=500]
 
 *13|
 [fc]
-As if trying to release their pent-up heat into the night[r]
-sky, they threw off their clothes one after another and[r]
-continued to dance frantically while chugging beer.[pcms]
+内にこもる熱気を夜空へと逃がそうと試みているかのように[r]
+彼らは我さきにと衣服を脱ぎ棄て、ビールをあおりながら[r]
+夢中で踊り続けた。[pcms]
 
 *14|
 [fc]
-[ns]Man A[nse]
-"Hiiiiyah, I am the king of the world!"[pcms]
+[ns]男Ａ[nse]
+「ひぃぁぁぁあっ、俺は世界の王だぁぁぁ！」[pcms]
 
 *15|
 [fc]
 [vo_mob s="onnaA0001"]
-[ns]Woman A[nse]
-"Hold me, hold meee!"[pcms]
+[ns]女Ａ[nse]
+「抱いて、私を抱いてぇぇぇ」[pcms]
 
 *16|
 [fc]
-Men and women in their early twenties, still with a touch of[r]
-youthfulness. All of them were intoxicated by the summer[r]
-night.[pcms]
+まだ幼さが残る２０代前半の男女。[r]
+その誰もが夏の夜に酔っていた。[pcms]
 
 *17|
 [fc]
-They drained their beers and surrendered themselves to the[r]
-noise flowing from the speakers.[pcms]
+彼らはビールを飲み干し、[r]
+スピーカーから流れる騒音に身を任せていく。[pcms]
 
 *18|
 [fc]
-Without hesitation or shame, they willingly exposed their[r]
-naked bodies and lewd behavior.[pcms]
+誰もが臆することなく、誰もが恥じらうこともなく、[r]
+自ら進んで裸体を晒し、痴態を晒していった。[pcms]
 
 *19|
 [fc]
 [vo_mob s="onnaB0001"]
-[ns]Woman B[nse]
-"Isn't it amazing, my body... isn't it incredible?"[pcms]
+[ns]女Ｂ[nse]
+「すごいでしょお、私の身体……凄いでしょぉぉぉ」[pcms]
 
 *20|
 [fc]
-[ns]Man B[nse]
-"Blurrrgh!"[pcms]
+[ns]男Ｂ[nse]
+「ぶるぅぁぁぁぁっ！」[pcms]
 
 *21|
 [fc]
-The words that freely burst forth from their mouths did not[r]
-mesh together, becoming like the untamed howling of beasts[r]
-suitable for their appearance.[pcms]
+口々に好き勝手に飛び出す言葉は、噛み合わず[r]
+彼らの姿にふさわしい、野放図に吠えたてる[r]
+獣の声と化していた。[pcms]
 
 *22|
 [fc]
-People who cannot fit into society or life. Rules and morals[r]
-cannot chain these beasts.[pcms]
+社会にも、人生にも、適合できない人達。[r]
+ルールもモラルも獣をつなぐ鎖には成りえない。[pcms]
 
 *23|
 [fc]
-So perhaps they came here to embrace nature and awaken their[r]
-inherent bestiality, indulging in a frenzy of ecstasy.[pcms]
+だから彼らは大自然に抱かれて、本来あるべき獣性を[r]
+目覚めさせて狂喜の宴を満喫しているのだろう。[pcms]
 
 *24|
 [fc]
-[ns]Male C[nse]
-"Hiiiiyah, fuoooh!"[pcms]
+[ns]男Ｃ[nse]
+「ひぃぁぁぁっ、ふおぉぉぉっ！」[pcms]
 
 *25|
 [fc]
 [vo_mob s="onnaC0001"]
-[ns]Female C[nse]
-"Moeuuuuh, ahhnn, moheeeuuuh"[pcms]
+[ns]女Ｃ[nse]
+「もえぅぅぅぅ、あぁぅっん、もへぇっぅぅぅっ」[pcms]
 
 *26|
 [fc]
-The DJ on stage bathed in colorful lights, his sweat[r]
-glistening in seven colors as he increased the volume to[r]
-further accelerate the dance of the wild beasts.[pcms]
+ステージに立つＤＪが、色とりどりのライトを浴び、[r]
+汗を七色に輝かせながら、野獣達の踊りを、さらに[r]
+加速させるべく、音量を上げていく。[pcms]
 
 *27|
 [fc]
-When the BPM of the music leaping from the speakers reached[r]
-its climax, their words completely deviated from human[r]
-language.[pcms]
+スピーカーから飛び出す音のＢＰＭが最高潮に達した頃、[r]
+ついに彼らの言葉は完全に人の言語から逸脱した。[pcms]
 
 *28|
 [fc]
-To awaken their dormant bestiality, they had sought another[r]
-power besides alcohol. In short, literal drugs.[pcms]
+彼らは内に眠る獣性を覚醒させるために、[r]
+アルコール以外にもう一つの力を借りていた。[r]
+つまるところ、文字通りの麻薬である。[pcms]
 
 *29|
 [fc]
-If it were just a common delinquent's night festival with[r]
-beer brought together, they would not choose such a disaster[r]
-area.[pcms]
+よくある不良の、ビールを持ち寄った夜祭りであれば[r]
+なにもこんな被災地は選ばない。[pcms]
 
 *30|
 [fc]
-Of course, they laugh off past incidents as fairy tales, but[r]
-considering the distance from urban areas, there are plenty[r]
-of more convenient places available.[pcms]
+無論、過去の事件などお伽噺と笑い飛ばす人種だが、[r]
+市街地からの距離を考えれば、[r]
+他にいくらでも手頃な土地はある。[pcms]
 
 *31|
 [fc]
-However, simple toys like alcohol or L.S.D. were not enough[r]
-to fill their boredom.[pcms]
+しかし、アルコールやＬ．Ｓ．Ｄ程度の簡素な玩具では、[r]
+彼らの退屈は埋められなかった。[pcms]
 
 *32|
 [fc]
-Seeking stronger stimulation, greater pleasure, and more[r]
-intense ecstasy, they believed this place to be their[r]
-promised land and came here.[pcms]
+もっと強い刺激、もっと強い快楽、もっと強い狂喜を求めて、[r]
+彼らはここを約束の地と信じてやって来たのだ。[pcms]
 
 *33|
 [fc]
-Desiring a power that could blow away all their pent-up[r]
-frustrations and to be thoroughly intoxicated by its magic,[r]
-they aimed for a land abandoned by society and law.[pcms]
+溜まった鬱憤をすべて吹き飛ばせる力が欲しくて、[r]
+その魔力に心底まで酔いしれるために、彼らは世間が、[r]
+社会が、法律が見捨てた土地を目指したのである。[pcms]
 
 *34|
 [fc]
-There are no eyes of law enforcement or attention from those[r]
-around here. All that exists are memories of the past and[r]
-abandoned land...[pcms]
+取り締まりの目も、周囲の耳目もここには存在しない。[r]
+あるのは過去の記憶と、捨てられた土地だけ……。[pcms]
 
 ;//ジン表示
 [chara_int_ layer=1][chara_int_ layer=2]
@@ -251,24 +245,24 @@ abandoned land...[pcms]
 
 *35|
 [fc]
-[ns]Jin[nse]
-"Hmph... They're completely high."[pcms]
+[ns]壬[nse]
+「フン……。完全にキマッてんな」[pcms]
 
 *36|
 [fc]
-A man stood at a distance from this mad feast with a calm[r]
-gaze, holding a beer bottle in his hand.[pcms]
+そんな狂気の宴を、一人の男が冷静な目で遠巻きにして[r]
+ビールボトル片手に眺めていた。[pcms]
 
 *37|
 [fc]
-He appeared to be about the same age as those dancing wildly[r]
-but exuded a different air with his calmness and cold gaze[r]
-that belied his youth.[pcms]
+年格好は踊り狂っている連中と大差ないが、若さに反した[r]
+落ち着きと、酷薄な目つきが格の違う雰囲気を[r]
+醸し出していた。[pcms]
 
 *37a|
 [fc]
-Jin is tonight's instigator and leader of a delinquent[r]
-group.[pcms]
+[ruby text="まがつ"][ch text="眞月"] [ruby text="じん"][ch text="壬"]、今宵の発起人であり、不良グループを束ねる[r]
+リーダーである。[pcms]
 
 ;//シゲ追加表示
 [ChrSetEx layer=1 chbase="jin_c2"][ChrSetXY layer=1 x=0 y=0]
@@ -276,163 +270,158 @@ group.[pcms]
 
 *38|
 [fc]
-[ns]Shigeyoshi[nse]
-"That woman has some seriously huge tits."[pcms]
+[ns]重吉[nse]
+「あの女、すげぇおっぱいでけぇなぁ」[pcms]
 
 *39|
 [fc]
-Next to Jin stood a fat man who muttered under his breath[r]
-with a lecherous gaze at the women dancing naked.[pcms]
+その壬の隣に立ち、[r]
+裸体を晒して踊り狂う女達に好色な眼差しを向けていた[r]
+肥満男がぼそりと呟いた。[pcms]
 
 *40|
 [fc]
-[ns]Shigeyoshi[nse]
-"Wow, that woman's ass is incredible too. It's jiggling..."[pcms]
+[ns]重吉[nse]
+「うわぁ、こっちの女のケツも凄ぇ。[r]
+　ぶるぶると揺れてるぜ……」[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c1"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *41|
 [fc]
-[ns]Jin[nse]
-"What are you mumbling about with such a slack face?"[pcms]
+[ns]壬[nse]
+「なにを締まりのない顔でブツブツ言ってやがる」[pcms]
 
 [ChrSetEx layer=2 chbase="shige_b2"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *42|
 [fc]
-[ns]Shigeyoshi[nse]
-"I just wanna join in."[pcms]
+[ns]重吉[nse]
+「いやぁ、混ざりてぇなぁって」[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c3"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *43|
 [fc]
-[ns]Jin[nse]
-"Who's stupid enough to carry onions along with ducks? Or do[r]
-you want to become part of the stew?"[pcms]
+[ns]壬[nse]
+「カモと一緒にネギ背負う馬鹿がどこにいる。[r]
+　それともお前、鍋の具になるか？」[pcms]
 
 *44|
 [fc]
-On the surface, they are comrades in the same group. But Jin[r]
-and this fat man Shigeyoshi stand clearly apart from those[r]
-dancing wildly.[pcms]
+表面的には同じグループの仲間。だが、壬やこの肥満、[ruby text="しげよし"][ch text="重吉"]と[r]
+踊り狂う連中とは明らかに立場が違った。[pcms]
 
 *45|
 [fc]
-To Jin, those who run on pure desire and live to satisfy[r]
-their cravings are nothing more than customers, prey, cash[r]
-cows, and ultimately just livestock.[pcms]
+欲望のままに走り、欲求を満たすために生きる彼らは、[r]
+壬にとっては客であり、カモであり、金蔓であり、[r]
+そして家畜に過ぎない。[pcms]
 
 *46|
 [fc]
-In exchange for money, he provides them with drugs as they[r]
-desire, and they become intoxicated with an addiction that[r]
-is an unending dream.[pcms]
+求めるままにドラックを金と引き替えに提供し、[r]
+彼らは中毒という醒めることのない夢に酔うのだ。[pcms]
 
 *47|
 [fc]
-And so they wish for it themselves, and Jin responds to[r]
-their wishes. In a sense, it might be an ideal relationship.[pcms]
+そして彼らは自ら望み、壬は望みに応じていく。[r]
+ある意味で理想の関係なのかもしれない。[pcms]
 
 [ChrSetEx layer=2 chbase="shige_b3"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *48|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ughh, they've finally started."[pcms]
+[ns]重吉[nse]
+「うへぇ、とうとうあいつらおっぱじめましたよ」[pcms]
 
 *49|
 [fc]
-The awakened beasts begin to run towards simple instincts.[r]
-Transformed into males and females, they start to indulge in[r]
-sensuality.[pcms]
+覚醒した獣は、シンプルな本能へと走り出す。[r]
+雄と雌と化し、官能を貪り始めたのだ。[pcms]
 
 *50|
 [fc]
-[ns]Shigeyoshi[nse]
-"Both her mouth and pussy are full of dick."[pcms]
+[ns]重吉[nse]
+「上の口も下の口も、ちんぽでいっぱいだぁ」[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c1"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *51|
 [fc]
-[ns]Jin[nse]
-"You're free to look, but don't narrate everything."[pcms]
+[ns]壬[nse]
+「眺めるのはお前の勝手だけどな、いちいち説明するな」[pcms]
 
 [ChrSetEx layer=2 chbase="shige_b2"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *52|
 [fc]
-[ns]Shigeyoshi[nse]
-"I-I didn't mean to..."[pcms]
+[ns]重吉[nse]
+「そ、そんなつもりはないんですけど……」[pcms]
 
 *53|
 [fc]
-Shigeyoshi, wrapped in fat as if it were his desires, was a[r]
-typical man whose wisdom did not extend beyond his[r]
-appearance.[pcms]
+欲望を脂肪で包んだような重吉は、見た目同様に[r]
+総身に知恵が廻らない典型の男だった。[pcms]
 
 *54|
 [fc]
-Just as his lack of self-control over his appetite had[r]
-shaped his body, the words that came to mind spilled out[r]
-without restraint.[pcms]
+食欲に対する自制力の低さがその身体を構築したように、[r]
+浮かんだ言葉も自制力なしに口から飛び出す。[pcms]
 
 *55|
 [fc]
-But it was precisely because of this that Shigeyoshi was a[r]
-convenient servant for Jin.[pcms]
+だが、そんな重吉だからこそ壬にとっては[r]
+都合のいい侍従だった。[pcms]
 
 *56|
 [fc]
-The pieces he moved by his side were simple and easy to[r]
-understand. They held no unnecessary thoughts, no opaque[r]
-reasoning, and were solely devoted to the commands spoken to[r]
-them.[pcms]
+傍らで動かすコマはシンプルで分かりやすいものに限る。[r]
+余計な思念は持たず、不透明な思考もなく、[r]
+言葉に出した命令にだけ隷属していく。[pcms]
 
 *57|
 [fc]
-There was no expectation of them performing beyond[r]
-expectations, but as long as one didn't expect too much,[r]
-they were convenient to have around.[pcms]
+期待以上の働きはないが、期待さえしなければ、[r]
+便利な存在だった。[pcms]
 
 [ChrSetEx layer=2 chbase="shige_b3"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *58|
 [fc]
-[ns]Shigeyoshi[nse]
-"Fahh, that woman's got it in her ass."[pcms]
+[ns]重吉[nse]
+「ふぁっ、あの女、ケツにいれてますよぉ」[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c2"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *59|
 [fc]
-[ns]Jin[nse]
-"Really, your head and mouth are directly connected. Does[r]
-that extend straight to your pathetic crotch as well?"[pcms]
+[ns]壬[nse]
+「まったく、お前は頭と口が直結だな。[r]
+　ついでに粗末な股間まで一直線か？」[pcms]
 
 *60|
 [fc]
-[ns]Shigeyoshi[nse]
-"Nah, it's not quite like that..."[pcms]
+[ns]重吉[nse]
+「いやぁ、それほどでも……」[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c1"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *61|
 [fc]
-[ns]Jin[nse]
-"Sigh... More importantly, the beer's gotten warm. Go get a[r]
-replacement."[pcms]
+[ns]壬[nse]
+「ふぅ……それよりビールが温くなった。[r]
+　代わりとってこい」[pcms]
 
 *62|
 [fc]
-Perhaps considering the conversation a waste of time, Jin[r]
-thrust a beer bottle at Shigeyoshi.[pcms]
+会話するだけ時間の浪費と思ったのか、壬は重吉に[r]
+ビールボトルを突き出した。[pcms]
 
 *63|
 [fc]
-Scratching his head, Shigeyoshi took the bottle and finished[r]
-off the lukewarm remains himself.[pcms]
+頭をぼりぼりと掻きながら、ボトルを受け取った[r]
+重吉は、生暖かくなった残りを自分で飲み干した。[pcms]
 
 ;//シゲ消し、瑞2
 [chara_int_ layer=2][trans_c cross time=150]
@@ -441,62 +430,60 @@ off the lukewarm remains himself.[pcms]
 *64|
 [fc]
 [vo_miz s="mizuki0001"]
-[ns]Mizuki[nse]
-"Wow... things are really heating up here."[pcms]
+[ns]瑞樹[nse]
+「うわぁ……盛り上がってきましたねぇ」[pcms]
 
 *65|
 [fc]
-As Shigeyoshi made to walk towards the cooler box, a woman[r]
-dressed to flaunt her voluptuous body slipped past him and[r]
-approached Jin.[pcms]
+と、クーラーボックスの方へと歩き出そうとした[r]
+重吉の隣をすり抜けて、豊満な肉体を誇示するかのような[r]
+格好の女が、壬へと歩み寄った。[pcms]
 
 *66|
 [fc]
-Mizuki, like Shigeyoshi, was a newcomer acting as Jin's[r]
-hands and feet.[pcms]
+重吉同様に壬の手足として動いている、新人の瑞樹である。[pcms]
 
 *67|
 [fc]
 [vo_miz s="mizuki0002"]
-[ns]Mizuki[nse]
-"Wow..."[pcms]
+[ns]瑞樹[nse]
+「うわあ……」[pcms]
 
 *68|
 [fc]
-Mizuki couldn't help but exclaim in admiration at the[r]
-frenzied feast unfolding before her eyes.[pcms]
+瑞樹は、目の前に広がる狂乱の宴に、思わず感嘆の声を上げた。[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c2"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *69|
 [fc]
-[ns]Jin[nse]
-"What's the matter, you shouldn't be surprised by now."[pcms]
+[ns]壬[nse]
+「なんだ、今さら驚く事もないだろ」[pcms]
 
 [ChrSetEx layer=2 chbase="mizu_f14"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *70|
 [fc]
 [vo_miz s="mizuki0003"]
-[ns]Mizuki[nse]
-"...It's surprising... seeing something like this..."[pcms]
+[ns]瑞樹[nse]
+「……驚きますよ……こんなの見たら……」[pcms]
 
 *71|
 [fc]
-[ns]Shigeyoshi[nse]
-"It's more exciting than a Bon dance, huh?"[pcms]
+[ns]重吉[nse]
+「盆踊りより刺激的だよなぁ」[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c4"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *72|
 [fc]
-[ns]Jin[nse]
-"Stop talking nonsense and bring me the beer quickly."[pcms]
+[ns]壬[nse]
+「くだらないこと言ってないで、ビールを早く持ってこい」[pcms]
 
 *73|
 [fc]
-Sweating from the heat of the orgy and bonfire, Jin snapped[r]
-irritably at Shigeyoshi.[pcms]
+乱交と焚火の熱気に汗ばんだ壬は、苛立つように[r]
+重吉を怒鳴りつけた。[pcms]
 
 ;//シゲ1＋瑞樹2
 [ChrSetEx layer=1 chbase="shige_b4"][ChrSetXY layer=1 x=0 y=0]
@@ -504,65 +491,65 @@ irritably at Shigeyoshi.[pcms]
 
 *74|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey! Mizuki, go get the beer!"[pcms]
+[ns]重吉[nse]
+「オラ！　瑞樹、ビールとってこい！」[pcms]
 
 *75|
 [fc]
-However, Shigeyoshi, not wanting to leave the scene of the[r]
-disordered night festival of sex, quickly passed Jin's[r]
-instruction on to Mizuki.[pcms]
+しかし、この場を離れず乱れた性の夜祭を観覧したい重吉は、[r]
+壬の指示をすかさず瑞樹へと押しつける。[pcms]
 
 [ChrSetEx layer=2 chbase="mizu_f11"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *76|
 [fc]
 [vo_miz s="mizuki0004"]
-[ns]Mizuki[nse]
-"Hey, why me?"[pcms]
+[ns]瑞樹[nse]
+「ちょっと、なんで私なのよ」[pcms]
 
 [ChrSetEx layer=1 chbase="shige_b3"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *77|
 [fc]
-[ns]Shigeyoshi[nse]
-"This is about all you're good for. You just keep screwing[r]
-up everything else. Beer delivery is just right for you."[pcms]
+[ns]重吉[nse]
+「お前にできるのはこれぐらいだろ。[r]
+　何をやっても他は失敗ばっかりじゃねぇか。[r]
+　ビールの配達くらいが丁度いいんだよ」[pcms]
 
 [ChrSetEx layer=2 chbase="mizu_f16"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *78|
 [fc]
 [vo_miz s="mizuki0005"]
-[ns]Mizuki[nse]
-"No way. Go get it yourself."[pcms]
+[ns]瑞樹[nse]
+「嫌よ。自分で取りに行きなさいよ」[pcms]
 
 [ChrSetEx layer=1 chbase="shige_b4"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *79|
 [fc]
-[ns]Shigeyoshi[nse]
-"Since when did you get to be in a position to talk so big,[r]
-huh?"[pcms]
+[ns]重吉[nse]
+「いつからそんな偉そうなことを言える立場に[r]
+　なったんだぁ、あぁ？」[pcms]
 
 *80|
 [fc]
-Shigeyoshi's disposition was indeed simple. Fitting his ugly[r]
-appearance, he was sycophantic to the strong and domineering[r]
-to the weak, a character devoid of pride.[pcms]
+重吉の性情は実にシンプルだ。醜い容姿に相応しく、[r]
+強きには媚び、弱きには高圧的という、[r]
+誇りとは無縁な性格である。[pcms]
 
 *81|
 [fc]
-[ns]Shigeyoshi[nse]
-"Just hurry up and go."[pcms]
+[ns]重吉[nse]
+「いいからさっさと行ってこい」[pcms]
 
 [ChrSetEx layer=2 chbase="mizu_f3"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *82|
 [fc]
 [vo_miz s="mizuki0006"]
-[ns]Mizuki[nse]
-"Hey, that hurts! Don't pull my hair."[pcms]
+[ns]瑞樹[nse]
+「ちょっと、痛いっ、髪を引っ張らないで」[pcms]
 
 ;//ジン1+シゲ2
 [ChrSetEx layer=1 chbase="jin_c4"][ChrSetXY layer=1 x=0 y=0]
@@ -570,382 +557,377 @@ to the weak, a character devoid of pride.[pcms]
 
 *83|
 [fc]
-[ns]Jin[nse]
-"Hey, what are you dawdling for? Shigeyoshi, I told you to[r]
-go get it."[pcms]
+[ns]壬[nse]
+「おい、なにをグスグスしてんだ。[r]
+　重吉、俺はお前にとってこいと言ったんだぞ？」[pcms]
 
 *84|
 [fc]
-Shigeyoshi's harassment and teasing of Mizuki were swiftly[r]
-reprimanded by a voice from above.[pcms]
+重吉の瑞樹へのパワハラとちょっかいは、あっさりと[r]
+天の声で一喝された。[pcms]
 
 *85|
 [fc]
-[ns]Shigeyoshi[nse]
-"Yes, yes..."[pcms]
+[ns]重吉[nse]
+「は、はい……」[pcms]
 
 ;//シゲ退場
 [chara_int_ layer=2][trans_c cross time=150]
 
 *86|
 [fc]
-Indeed simple. The fat-encased brain reached the conclusion[r]
-that it must execute Jin's orders.[pcms]
+まさにシンプル。[r]
+脂肪に包まれた頭は壬の命令実行という結論となった。[pcms]
 
 *87|
 [fc]
-As Shigeyoshi walked towards the cooler box, a portly[r]
-middle-aged man approached Jin in his place.[pcms]
+クーラーボックスへと歩き出した重吉と[r]
+入れ替えで壬の元に今度は小太りの中年男が[r]
+近づいてきた。[pcms]
 
 ;//太宰2
 [ChrSetEx layer=2 chbase="dazai_a2"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *88|
 [fc]
-A man with an air of distinction clearly set apart from[r]
-everyone present, including Jin and Mizuki.[pcms]
+この場にいる連中、壬や瑞樹らを含むすべてと[r]
+明らかに一線を画す貫禄の男。[pcms]
 
 *89|
 [fc]
-[ns]Dazai[nse]
-"Hey!"[pcms]
+[ns]太宰[nse]
+「おい！」[pcms]
 
 *90|
 [fc]
-Upon being addressed with a booming voice, Jin immediately[r]
-changed his demeanor and straightened up to turn around.[pcms]
+野太い声をぶつけられると、壬は今までの態度を一変させて[r]
+背筋を伸ばして振り返った。[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c2"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *91|
 [fc]
-[ns]Jin[nse]
-"Ah, Mr. Dazai. Have you just arrived?"[pcms]
+[ns]壬[nse]
+「これは太宰さん。今ご到着ですか？」[pcms]
 
 [ChrSetEx layer=2 chbase="dazai_a1"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *92|
 [fc]
-[ns]Dazai[nse]
-"Just arrived? That's not it. What were you thinking[r]
-choosing such a remote place?"[pcms]
+[ns]太宰[nse]
+「ご到着ですかァ？　じゃないやろ？[r]
+　何を血迷ってこんな辺鄙なところにしたんや」[pcms]
 
 *93|
 [fc]
-The words shouted by Dazai at Jin carried a distinctive[r]
-Kansai dialect.[pcms]
+壬を相手に大声で怒鳴り散らした太宰の言葉には[r]
+関西人と思われる独特の訛りがあった。[pcms]
 
 *94|
 [fc]
-[ns]Jin[nse]
-"Well, I tried various places but couldn't find a good[r]
-one... I apologize for making you come all this way."[pcms]
+[ns]壬[nse]
+「いえ、色々と当たってみたんですが、[r]
+　なかなかいい場所がなくて……。[r]
+　ご足労させてしまってすみません」[pcms]
 
 *95|
 [fc]
-[ns]Dazai[nse]
-"Do you have any idea how many hours it took me driving like[r]
-mad to get here?"[pcms]
+[ns]太宰[nse]
+「ここまで来るのに、車すっとばして何時間かかったと[r]
+　思ってんのや」[pcms]
 
 *96|
 [fc]
-Jin spoke carefully and cautiously, watching Dazai's[r]
-expression, but Dazai continued to berate him relentlessly.[pcms]
+丁寧に慎重に、相手の顔色を伺いながら話す壬だが、[r]
+太宰は容赦なくまくし立てる。[pcms]
 
 *97|
 [fc]
-[ns]Dazai[nse]
-"My time is worth more than you young punks can imagine."[pcms]
+[ns]太宰[nse]
+「わしの時間はおのれら小僧とは価値が違うんやぞ」[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c1"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *98|
 [fc]
-[ns]Jin[nse]
-"Yes... I am well aware of that."[pcms]
+[ns]壬[nse]
+「はい……それは重々承知しています」[pcms]
 
 *99|
 [fc]
-Still, Jin could only bow his head and wait for Dazai's[r]
-anger to subside.[pcms]
+それでも壬は頭を下げて、太宰の溜飲が下がるのを[r]
+待つしかなかった。[pcms]
 
 *100|
 [fc]
-Because this connection with Dazai is what elevates the[r]
-relationship between the reveling youths and me, Jin, to[r]
-that of a master and livestock.[pcms]
+なぜなら、この太宰とのコネクションこそが、[r]
+宴に酔いしれる若者連中とこの壬を、主と家畜の[r]
+関係へと昇華させてくれているのだ。[pcms]
 
 *101|
 [fc]
-This middle-aged man with a rough appearance, Dazai, is an[r]
-executive of the Kansai-based syndicate's Kanto expansion[r]
-division.[pcms]
+人相の悪いこの中年男、太宰は関西系広域暴力団の[r]
+関東進出部門の幹部なのである。[pcms]
 
 *102|
 [fc]
-Without the high-quality and abundant drugs supplied by[r]
-Dazai, tonight's festival would have been impossible to[r]
-hold.[pcms]
+太宰から卸される良質で豊富な麻薬がなければ、[r]
+今夜の祭りも開催することは不可能だった。[pcms]
 
 *103|
 [fc]
-[ns]Dazai[nse]
-"If it's just kids making a racket, there are plenty of[r]
-closer places for that."[pcms]
+[ns]太宰[nse]
+「ガキがバカ騒ぎするだけやったら、[r]
+　もっと近場でいくらでもあるやろが」[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c2"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *104|
 [fc]
-[ns]Jin[nse]
-"No, that's just it. Recently, the crackdowns have been[r]
-quite strict."[pcms]
+[ns]壬[nse]
+「いえ、それが最近は取り締まりも結構厳しいんですよ」[pcms]
 
 [ChrSetEx layer=2 chbase="dazai_a2"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *105|
 [fc]
-[ns]Dazai[nse]
-"What, the authorities are on high alert?"[pcms]
+[ns]太宰[nse]
+「なんや、官憲が目ぇ光らせとるのか」[pcms]
 
 *106|
 [fc]
-[ns]Jin[nse]
-"Yes. Even for something as minor as marijuana, clubs around[r]
-Tokyo are getting raided left and right..."[pcms]
+[ns]壬[nse]
+「はい。東京近辺のクラブじゃ、大麻程度でも[r]
+　ガンガン挙げられてるみたいで……」[pcms]
 
 *107|
 [fc]
-[ns]Dazai[nse]
-"They're pulling people in for leaves now..."[pcms]
+[ns]太宰[nse]
+「葉っぱでもやつら引っ張るんか……」[pcms]
 
 *108|
 [fc]
-With the Kansai syndicate's incursion, the drug situation in[r]
-Tokyo had been on a steady decline.[pcms]
+関西暴力団の侵攻に伴い、都内のドラッグ事情は[r]
+悪化の一途を辿っていた。[pcms]
 
 *109|
 [fc]
-The Kanto powers also fortified their distribution networks[r]
-in response, and now it was like a black market battle for[r]
-underground routes.[pcms]
+関東勢力も対抗して販売網を強化し、いまや[r]
+地下ルートの密売合戦の様相を呈していた。[pcms]
 
 *110|
 [fc]
-[ns]Jin[nse]
-"If we took more time, we could secure a place, but[r]
-considering the 'what ifs'..."[pcms]
+[ns]壬[nse]
+「時間をかければ場所の確保も可能ですけど、[r]
+　万が一ってことも考えまして……」[pcms]
 
 [ChrSetEx layer=2 chbase="dazai_a1"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *111|
 [fc]
-[ns]Dazai[nse]
-"...Hmph, well, that's true. We can't afford to stumble over[r]
-trivial matters."[pcms]
+[ns]太宰[nse]
+「……ふん、まぁ、そうやな。[r]
+　つまらんことで躓くわけにもいかんからなぁ」[pcms]
 
 *112|
 [fc]
-[ns]Jin[nse]
-"Especially since we're inviting you, Mr. Dazai..."[pcms]
+[ns]壬[nse]
+「ましてや自分らだけならともかく、[r]
+　太宰さんまでお招きするわけですから……」[pcms]
 
 [ChrSetEx layer=2 chbase="dazai_a3"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *113|
 [fc]
-[ns]Dazai[nse]
-"Huh. For a kid, you seem to be quite considerate."[pcms]
+[ns]太宰[nse]
+「ほう。ガキの癖に色々と気ぃまわしとるようやな」[pcms]
 
 *114|
 [fc]
-For Jin, this was merely a calculation for self-defense and[r]
-securing resources.[pcms]
+これは壬にしてみれば、自己防衛と利用物確保の[r]
+算段でしかなかった。[pcms]
 
 *115|
 [fc]
-He didn't have a shred of reverence for Dazai. The sheep[r]
-were offered up only because there was a guarantee of the[r]
-visible miracle of money.[pcms]
+太宰に対する信奉の気持ちなど欠片もない。[r]
+羊を捧げているのは、あくまで目に見える金という[r]
+分かりやすい奇跡が示される保障がある故のことだ。[pcms]
 
 [ChrSetEx layer=2 chbase="dazai_a1"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *116|
 [fc]
-[ns]Dazai[nse]
-"However, before coming here, that shot you told me to[r]
-get... what was it, the UNKO 4 vaccine?"[pcms]
+[ns]太宰[nse]
+「しかしやなぁ、ここへ来る前にお前が打っとけいうた、[r]
+　……ウンコ４ワクチンか？」[pcms]
 
 *117|
 [fc]
-[ns]Jin[nse]
-"The UNKNOWN-LV4?"[pcms]
+[ns]壬[nse]
+「ＵＮＫＮＯＷＮ－ＬＶ４ですか？」[pcms]
 
 *118|
 [fc]
-[ns]Dazai[nse]
-"Yeah, that one. Damn, it hurt like hell."[pcms]
+[ns]太宰[nse]
+「そうそれや。あらオメェ、えらい痛かったぞ」[pcms]
 
 *119|
 [fc]
-Upon hearing that, Jin couldn't help but lower his face and[r]
-burst out laughing. Although Dazai didn't catch on, it was[r]
-amusing to hear a gangster complain about the pain of an[r]
-injection.[pcms]
+その一言を聞いて、壬は思わず顔を伏せて噴き出した。[r]
+太宰に悟られるようなことはなかったが、[r]
+極道が注射で痛いとは聞いて呆れる。[pcms]
 
 *120|
 [fc]
-Jin thought to himself how even the business of impressing[r]
-men had changed significantly with the times.[pcms]
+男を魅せる稼業も、時代とともに[r]
+大きく変わったものだなと柄にもなく壬は思った。[pcms]
 
 *121|
 [fc]
-[ns]Jin[nse]
-"I'm sorry. I don't think there's anything to worry about,[r]
-but given the place..."[pcms]
+[ns]壬[nse]
+「すみません。特に心配はいらないと思いますけど、[r]
+　なんせ場所が場所ですからね」[pcms]
 
 *122|
 [fc]
-[ns]Dazai[nse]
-"Well yeah. No one's watching here, but it's a place with a[r]
-bad rep. It doesn't hurt to be cautious."[pcms]
+[ns]太宰[nse]
+「まあなぁ。人目はないがいわくつきの土地やしな。[r]
+　用心しといて損はないゆうことか」[pcms]
 
 *123|
 [fc]
-[ns]Jin[nse]
-"That injection really was painful; it got me too."[pcms]
+[ns]壬[nse]
+「あの注射は本当に痛くて、俺も参りましたよ」[pcms]
 
 *124|
 [fc]
-Seeing that he had finally gotten his point across to Dazai,[r]
-Jin agreed with him.[pcms]
+ようやく太宰に自分の意見を通せたのを見て、[r]
+壬は話を合わせた。[pcms]
 
 [ChrSetEx layer=2 chbase="dazai_a3"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *125|
 [fc]
-[ns]Dazai[nse]
-"Well good, I didn't come all this way through such pain[r]
-just to watch kids make fools of themselves. You get that,[r]
-right?"[pcms]
+[ns]太宰[nse]
+「まあええ、痛い思いしてこんな遠いところへきたんは[r]
+　ガキどものばか騒ぎ見るためやない。[r]
+　わかっとるやろ？」[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c1"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *126|
 [fc]
-[ns]Jin[nse]
-"Yes... I fully understand that."[pcms]
+[ns]壬[nse]
+「はい……それは重々理解しています」[pcms]
 
 *127|
 [fc]
-[ns]Dazai[nse]
-"Then hurry up and get me some women and drugs."[pcms]
+[ns]太宰[nse]
+「ならさっさと、俺にも女と薬を用意せいや」[pcms]
 
 [ChrSetEx layer=1 chbase="jin_c2"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *128|
 [fc]
-Jin nodded silently at Dazai's words and handed over a small[r]
-bag filled with white powder from his pocket.[pcms]
+壬は太宰の言葉に無言でうなずいて、ポケットから[r]
+白い粉が入った小袋を手渡した。[pcms]
 
 *129|
 [fc]
-Of course, the contents were not the cheap synthetics that[r]
-the others were enjoying.[pcms]
+無論中身は他の連中が楽しんでいる安物の合成品ではない。[pcms]
 
 *130|
 [fc]
-It was a high-grade product prepared for their own enjoyment[r]
-on the selling side, with high purity and low addiction[r]
-potential.[pcms]
+高純度で中毒性の低い、いわゆる自分たちを含む[r]
+売る側で楽しむために用意した高級品だ。[pcms]
 
 *131|
 [fc]
-Dazai snatched it from Jin's hand with a lecherous gaze then[r]
-turned it towards Mizuki who stood beside him.[pcms]
+太宰はそれを壬の手からひったくるように受け取ると[r]
+好色な眼差しを傍らに立つ瑞樹に向けた。[pcms]
 
 ;//瑞樹1
 [ChrSetEx layer=1 chbase="mizu_f15"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *132|
 [fc]
-Like a frog being stared down by a snake, Mizuki shuddered[r]
-visibly showing her disgust.[pcms]
+蛇に睨まれた蛙のように、瑞樹はビクッと身体を震わせ[r]
+顕著に嫌悪感を示した。[pcms]
 
 *133|
 [fc]
-However, Dazai was merciless towards men's insolence but[r]
-quite tolerant towards young women's attitudes.[pcms]
+だが、太宰は男の不遜な態度には容赦はないが、[r]
+若い女の態度に対しては大いに寛容であった。[pcms]
 
 *134|
 [fc]
-While he didn't dislike making women submit and fawn over[r]
-him using his position in the syndicate, Dazai preferred to[r]
-trample on frightened women even more.[pcms]
+暴力団幹部の立場を背景に、女たちを従わせ媚びさせるのも[r]
+嫌いではないが、それ以上に太宰は怯えた女を蹂躙するのが[r]
+好きだった。[pcms]
 
 *135|
 [fc]
-In essence, he enjoyed satisfying his sexual desires by[r]
-tormenting strong-willed women who were slightly outcast[r]
-from society with power and drugs.[pcms]
+つまるところ、素人のちょっと社会からあぶれた[r]
+向こう気が強い女を、権力と薬で嬲りながら[r]
+性欲を満たすことを楽しみとしているのである。[pcms]
 
 *136|
 [fc]
-That's why he directly supplied Jin, who was nothing more[r]
-than a lowly thug, with drugsa precious commodity of the[r]
-organizationbecause he had the power to do so freely.[pcms]
+だからこそ、組織の大切な商品である薬を自由にできる[r]
+権力をもつ立場にありながらも、しがないチンピラでしかない[r]
+壬を相手に直接卸しているのである。[pcms]
 
 *137|
 [fc]
-The relationship between the two men, devoid of respect or[r]
-honor, was based on mutual interests and was at least[r]
-currently solid and favorable.[pcms]
+尊敬も敬意もない二人の関係は、そういった利害の元に[r]
+少なくとも現在は良好で、固いものだった。[pcms]
 
 ;//ジン2
 [ChrSetEx layer=2 chbase="jin_c3"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *138|
 [fc]
-[ns]Jin[nse]
-"Hey, Mizuki..."[pcms]
+[ns]壬[nse]
+「おい、瑞樹……」[pcms]
 
 *139|
 [fc]
-Mizuki had been clearly instructed beforehand to entertain[r]
-Dazai. Despite this, her unresponsive attitude irritated[r]
-Jin.[pcms]
+太宰の相手をすることは、当然事前に言い含めてある。[r]
+にもかかわらず微動だにしない瑞樹の態度に、[r]
+壬は苛立ちを見せた。[pcms]
 
 [ChrSetEx layer=1 chbase="mizu_f16"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *140|
 [fc]
 [vo_miz s="mizuki0007"]
-[ns]Mizuki[nse]
-"...Jin"[pcms]
+[ns]瑞樹[nse]
+「……ジン」[pcms]
 
 *141|
 [fc]
-[ns]Jin[nse]
-"It's Mr. Dazai's request. You understand that, right?"[pcms]
+[ns]壬[nse]
+「太宰さんのご要望だぞ。分かってんだろ？」[pcms]
 
 [ChrSetEx layer=1 chbase="mizu_f15"][ChrSetXY layer=1 x=0 y=0][trans_c cross time=150]
 
 *142|
 [fc]
 [vo_miz s="mizuki0008"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 *143|
 [fc]
-This was akin to the law of the jungle rather than human[r]
-society's ordera hierarchy based on raw power similar to[r]
-that awakened in the youths by drugs.[pcms]
+それは薬で目覚めた若者たちの獣性と同様、[r]
+人間社会の秩序というよりは野生の世界に似た[r]
+力関係の縮図だった。[pcms]
 
 *144|
 [fc]
-Dazai commanded Jin, who in turn commanded Shigeyoshi and[r]
-Mizuki. There was no room for personal feelings or dissent[r]
-in this perfectly vertical relationship.[pcms]
+太宰は壬に命じ、壬は重吉や瑞樹に命じる。[r]
+そこに私情や不服は一切許されない。完成された[r]
+縦一本の関係だ。[pcms]
 
 ;//太宰ピン
 [chara_int]
@@ -953,23 +935,24 @@ in this perfectly vertical relationship.[pcms]
 
 *145|
 [fc]
-[ns]Dazai[nse]
-"What are you scared of? I'll be gentle, so relax."[pcms]
+[ns]太宰[nse]
+「なにを怖がってるんだ。[r]
+　優しくしてやるから安心しとけ」[pcms]
 
 *146|
 [fc]
-Mizuki looked at Jin with pleading eyes for help, but there[r]
-are no miracles for sheep on the altar.[pcms]
+すがるような眼差しで壬に助けを請う瑞樹だったが、[r]
+祭壇の羊に奇跡は起きない。[pcms]
 
 *147|
 [fc]
-Without even meeting Mizuki's gaze, Jin turned his back on[r]
-her.[pcms]
+壬は瑞樹と目線を合わすことすらないまま、[r]
+くるりと背を向けた。[pcms]
 
 *148|
 [fc]
-[ns]Dazai[nse]
-"Come here."[pcms]
+[ns]太宰[nse]
+「さあ、こっちにこい」[pcms]
 
 ;//瑞樹ピン
 [ChrSetEx layer=1 chbase="mizu_f14"][ChrSetXY layer=1 x=160 y=0][trans_c cross time=150]
@@ -977,17 +960,18 @@ her.[pcms]
 *149|
 [fc]
 [vo_miz s="mizuki0009"]
-[ns]Mizuki[nse]
-"Y-Yes... Please take care of me."[pcms]
+[ns]瑞樹[nse]
+「は、はい……。よろしくおねがいします」[pcms]
 
 *150|
 [fc]
-Mizuki had no choice but to obey Jin's true intentions.[pcms]
+壬の真意を受け取った瑞樹には、もはや従うより他に[r]
+選択肢はなかった。[pcms]
 
 *151|
 [fc]
-It was the only way she could hope to catch his attention[r]
-again...[pcms]
+それがもう一度壬に振り向いてもらえる唯一の[r]
+方法なのだから……。[pcms]
 
 ;//♪：fakestar　フェードアウト
 [fadeoutbgm time=500]
@@ -997,34 +981,32 @@ again...[pcms]
 
 *152|
 [fc]
-For Mizuki, who had made up her mind, the only thing to[r]
-cling to was the drug, like a terminal cancer patient.[pcms]
+覚悟を決めた瑞樹にとって、すがるべきものは[r]
+末期の癌患者と同様、薬しかなかった。[pcms]
 
 *153|
 [fc]
-To serve this ugly middle-aged man sexually, being sober was[r]
-far too cruel.[pcms]
+この醜い中年を性の相手として奉仕するには、[r]
+シラフはあまりにも過酷すぎる。[pcms]
 
 *154|
 [fc]
-Initially with Dazai and then more actively, Mizuki inhaled[r]
-the powder that could help her escape the harsh reality and[r]
-soothe the pain in her heart.[pcms]
+最初は太宰と交互に、やがてより積極的に、[r]
+瑞樹は辛い現実から逃避できる、心の痛みを[r]
+和らげてくれる粉を吸い込んだ。[pcms]
 
 *155|
 [fc]
-The sound of the lighter heating the white powder became the[r]
-sound of hooves leading Mizuki's heart into a world of[r]
-illusion.[pcms]
+白い粉末を炙るライターの音が、瑞樹の心を[r]
+幻惑の世界へと誘う馬車の蹄の音となった。[pcms]
 
 ;//♪：rage フェードイン
 [bgm storage="BGM03"]
 
 *156|
 [fc]
-As the drug melted her consciousness and reason into[r]
-confusion, what remained in Mizuki's body was her female[r]
-instinct.[pcms]
+薬が意識と理性を溶かして混濁へと流すと、[r]
+瑞樹の身体に残ったのは雌の本能だった。[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -1040,313 +1022,316 @@ instinct.[pcms]
 
 *157|
 [fc]
-Dazai was already naked, sitting on a wooden chair set up[r]
-outside.[pcms]
+太宰はすでに全裸となり、屋外に設置した[r]
+木製の椅子に腰を下ろしていた。[pcms]
 
 *158|
 [fc]
-Anticipating a moment filled with desire and pleasure, his[r]
-cock was already standing erect towards the sky.[pcms]
+これから起こる欲望と快楽に満ちた一時に[r]
+期待を膨らませ、すでに股間の男性器は[r]
+天に向かって直立している。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_j2"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *159|
 [fc]
-Wearing a ten-gallon hat and swaying her voluptuous body[r]
-proudly, Mizuki slowly approached Dazai.[pcms]
+そんな太宰に、テンガロンハットを被って[r]
+豊満な肉体を誇示するようにくねらせながら、[r]
+瑞樹はゆっくりと近づいた。[pcms]
 
 *160|
 [fc]
-[ns]Dazai[nse]
-"Just as I thought... you've got a great figure."[pcms]
+[ns]太宰[nse]
+「思ったとおり……スタイルええなぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_j5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *161|
 [fc]
 [vo_miz s="mizuki0010"]
-[ns]Mizuki[nse]
-"Ufufufu, thank you."[pcms]
+[ns]瑞樹[nse]
+「ウフフフ、ありがとぉ」[pcms]
 
 *162|
 [fc]
-Like a prostitute, like a showgirl, Mizuki made an all-out[r]
-effort to heighten Dazai's excitement.[pcms]
+娼婦のように、ショウガールのように、[r]
+瑞樹は精一杯奮発して、太宰の興奮を[r]
+高めようと努めた。[pcms]
 
 *163|
 [fc]
-However, it wasn't because she had awakened a sense of[r]
-service towards Dazai.[pcms]
+しかし、それは太宰に対してのサービス心に[r]
+目覚めたためではない。[pcms]
 
 *164|
 [fc]
-It was a means to completely dissolve the last drops of[r]
-reason remaining in her body with drugs.[pcms]
+自分の身体に残っている理性を、薬で一滴残らず[r]
+溶かしてしまう為の手段だった。[pcms]
 
 *165|
 [fc]
-For Mizuki, Dazai was not a man she would want as an object[r]
-of carnal desire unless she did so.[pcms]
+少なくとも瑞樹にとって、太宰はそうでもしなければ[r]
+到底肉欲の対象にしたいと思うような男ではない。[pcms]
 
 *166|
 [fc]
-Eager to melt her heart away without leaving any trace,[r]
-Mizuki desperately used her body to break the chains of[r]
-hesitation.[pcms]
+少しでも早く、欠片も残さず心を溶かしたい。[r]
+だから瑞樹は必死になって、ためらいの鎖を断ち切ろうと[r]
+その身を駆使した。[pcms]
 
 [evcg storage="HEV001f"][trans_c cross time=300]
 
 *167|
 [fc]
-Squatting down in front of him, she sandwiched Dazai's erect[r]
-dick between her breasts.[pcms]
+目の前にしゃがみ込み、太宰の勃起した男根を[r]
+自らの胸の谷間に挟み込む。[pcms]
 
 *168|
 [fc]
-[ns]Dazai[nse]
-"Ohh!"[pcms]
+[ns]太宰[nse]
+「おおっ」[pcms]
 
 *169|
 [fc]
 [vo_miz s="mizuki0011"]
-[ns]Mizuki[nse]
-"I'll make you feel good with my tits."[pcms]
+[ns]瑞樹[nse]
+「あたしのおっぱいで、気持ちよくしてあげる」[pcms]
 
 *170|
 [fc]
-The cock trapped between her ample breasts soon began to[r]
-spurt clear fluid from its tip and started twitching.[pcms]
+豊満な肉山に挟まれた太宰の肉棒は、たちまち先端から[r]
+透明な汁をあふれさせ、痙攣しはじめた。[pcms]
 
 *171|
 [fc]
-[ns]Dazai[nse]
-"What amazing tits. My cock feels like it's gonna get[r]
-crushed..."[pcms]
+[ns]太宰[nse]
+「なんちゅうパイオツやぁ。[r]
+　チンポがつぶれそうや……」[pcms]
 
 *172|
 [fc]
 [vo_miz s="mizuki0012"]
-[ns]Mizuki[nse]
-"Are you pleased with them?"[pcms]
+[ns]瑞樹[nse]
+「気にいってもらえました？」[pcms]
 
 *173|
 [fc]
-[ns]Dazai[nse]
-"I can't stand it. My pre-cum is overflowing."[pcms]
+[ns]太宰[nse]
+「た、たまらんのぅ。我慢汁があふれっぱなしやで」[pcms]
 
 *174|
 [fc]
-While sandwiching his cock with her breasts and stroking it[r]
-up and down, Mizuki brought the glans to her mouth and[r]
-showed off a mischievous smile with her red tongue out.[pcms]
+肉棒をはさみ込んで、胸で上下にしごきながら[r]
+瑞樹は亀頭を自分の口元に運ぶと、赤い舌を[r]
+出して悪戯っぽく笑って見せた。[pcms]
 
 *175|
 [fc]
-[ns]Dazai[nse]
-"Come on, suck it, suck it. Lick my cock all over."[pcms]
+[ns]太宰[nse]
+「ほらほら、しゃぶれ、しゃぶれ。[r]
+　ワシのチンポをべろべろしろやぁ」[pcms]
 
 [evcg storage="HEV001g"][trans_c cross time=300]
 
 *176|
 [fc]
 [vo_miz s="mizuki0013"]
-[ns]Mizuki[nse]
-"...Do you want me to lick it?"[pcms]
+[ns]瑞樹[nse]
+「……なめなめして欲しいの？」[pcms]
 
 *177|
 [fc]
-[ns]Dazai[nse]
-"Of course. Take it in your mouth and lick it all over!"[pcms]
+[ns]太宰[nse]
+「あたりまえや。ぱくっと咥えて、[r]
+　べろべろと舐めまわすんや！」[pcms]
 
 *178|
 [fc]
-Completely excited by the drugs, Dazai couldn't endure[r]
-Mizuki's teasing any longer and pushed his cock into her[r]
-mouth somewhat forcefully.[pcms]
+麻薬で完全に興奮状態にあった太宰は、[r]
+瑞樹のじらしに耐えきれず、頭を押さえると[r]
+半ば強引に肉棒を口内へと押し込んだ。[pcms]
 
 [evcg storage="HEV001h"][trans_c cross time=300]
 
 *179|
 [fc]
 [vo_miz s="mizuki0014"]
-[ns]Mizuki[nse]
-"Ubuu... mmmu, mmbubufu"[pcms]
+[ns]瑞樹[nse]
+「うぶぅぅ……んっむぅ、んっぶぶふ」[pcms]
 
 *180|
 [fc]
-[ns]Dazai[nse]
-"Come on, use your tongue! Move it more!"[pcms]
+[ns]太宰[nse]
+「ほらほら、舌や舌！　もっと動かせ！」[pcms]
 
 *181|
 [fc]
 [vo_miz s="mizuki0015"]
-[ns]Mizuki[nse]
-"Mmm, mmmu..."[pcms]
+[ns]瑞樹[nse]
+「んんっ、んっむぅ……」[pcms]
 
 *182|
 [fc]
-Mizuki was confused and couldn't cope with the sudden deep-[r]
-throating.[pcms]
+突然のイラマチオに瑞樹は対応できず混乱した。[pcms]
 
 *183|
 [fc]
-The smell and taste of the filthy fluid overflowing from[r]
-Dazai's cock filled her mouth, making her dizzy.[pcms]
+口内一杯に太宰の男根からあふれだした汚液の[r]
+匂いと味が充満し、眩暈に襲われる。[pcms]
 
 *184|
 [fc]
-Mizuki's teasing was actually a sign of confusion. But for[r]
-the excited Dazai, there was no such consideration.[pcms]
+今の瑞樹のじらしはとまどいの裏返しだった。[r]
+だが、興奮した太宰に、そんな配慮があるはずもない。[pcms]
 
 *185|
 [fc]
-Without any mental preparation or resolve, Mizuki was[r]
-violated in her mouth and had no choice but to serve.[pcms]
+心の準備も覚悟もないままに、瑞樹は口内を犯され、[r]
+奉仕するしかなくなってしまった。[pcms]
 
 *186|
 [fc]
-[ns]Dazai[nse]
-"Woah, fwoah, come on, lick it! Lick it more!"[pcms]
+[ns]太宰[nse]
+「うぉっ、ふぉぉっ、おらっ、舐めろよぉ舐めろぉぉ」[pcms]
 
 *187|
 [fc]
-As if muttering to himself, Dazai urged Mizuki to serve him,[r]
-and she reluctantly wrapped her tongue around the filthy[r]
-tip.[pcms]
+まるでうわ言のように、太宰に奉仕を促されて[r]
+瑞樹はやむなく汚液まみれの先端に、[r]
+舌を巻きつけた。[pcms]
 
 *188|
 [fc]
-Despite feeling nauseous from the taste and smell, Mizuki[r]
-continued to move her tongue desperately.[pcms]
+味と匂いに思わず吐き気すら覚えたが、[r]
+瑞樹は懸命に舌を動かし続けた。[pcms]
 
 *189|
 [fc]
 [vo_miz s="mizuki0016"]
-[ns]Mizuki[nse]
-"Mmm, mmmubuu, slurrrp..."[pcms]
+[ns]瑞樹[nse]
+「んっ、んんっぶぅ、じゅるぅぅぅっ……」[pcms]
 
 *190|
 [fc]
-[ns]Dazai[nse]
-"Hah hah, that's good, suck my cock. Suck it harder."[pcms]
+[ns]太宰[nse]
+「はぁはぁっ、いいぞ、チンポをしゃぶれっ。[r]
+　もっともっと強くしゃぶれぇ」[pcms]
 
 *191|
 [fc]
-As commanded by Dazai, Mizuki stroked his shaft with her[r]
-breasts while twining her tongue around the glans, licking[r]
-off all the fluid oozing from his urethra.[pcms]
+命じられるままに、瑞樹は胸で竿をしごきながら、[r]
+亀頭部分に舌を絡めて、尿道からあふれる汁を[r]
+根こそぎ舐めとっていった。[pcms]
 
 *192|
 [fc]
-[ns]Dazai[nse]
-"That's good, you're quite skilled!"[pcms]
+[ns]太宰[nse]
+「いいぞいいぞ、お前はなかなか上手だぞっ！」[pcms]
 
 *193|
 [fc]
 [vo_miz s="mizuki0017"]
-[ns]Mizuki[nse]
-"Mmmguu, fuu, mmmuu, slurp slurp, hamuuu, chupa, leroo[r]
-lerooo"[pcms]
+[ns]瑞樹[nse]
+「んっぐぅ、ふぅっ、んむっぅ、じゅるぅじゅるうっ、[r]
+　はむぅっ、ちゅぱぁ、れろぉれろぉぉっ」[pcms]
 
 *194|
 [fc]
-While licking off the pre-cum that overflowed from Dazai's[r]
-urethra and trying to dilute the smell, Mizuki actively[r]
-rubbed her own saliva onto it.[pcms]
+太宰の尿道からあふれてくる我慢汁を舐めとりながら、[r]
+匂いを薄めたくて、瑞樹は自分の唾液を積極的に[r]
+擦りつけた。[pcms]
 
 *195|
 [fc]
-As she repeated such acts over and over again, Mizuki felt a[r]
-sensation as if her body was becoming hot and moist.[pcms]
+何度となくそんな行為を繰り返していると、[r]
+瑞樹は身体が熱く潤むような感覚を覚えた。[pcms]
 
 *196|
 [fc]
-The drugs finally awakened her instincts as a female[r]
-completely and shattered Mizuki's reason.[pcms]
+それはついに麻薬が雌としての本能を完全に目覚めさせ、[r]
+瑞樹の理性を崩壊させた印だった。[pcms]
 
 *197|
 [fc]
 [vo_miz s="mizuki0018"]
-[ns]Mizuki[nse]
-"Hamuuu, slurrrp slurrrp, mmm slurrrp"[pcms]
+[ns]瑞樹[nse]
+「はむぅぅっ、んっじゅるうぅぅ、んっじゅるぅぅ」[pcms]
 
 *198|
 [fc]
-The taste of the filthy fluid she licked off turned into a[r]
-sweet scent of happiness, and the cock buried between her[r]
-breasts began to seem like a sacred statue of love.[pcms]
+舐めとる汚液の味は甘美な幸福の香りへと変わり、[r]
+谷間に埋もれた男根は、愛の聖像とさえ[r]
+思えはじめた。[pcms]
 
 *199|
 [fc]
-The excited Dazai had no room to notice this change, but the[r]
-pleasure of stimulating his genitals became significantly[r]
-deeper.[pcms]
+興奮状態の太宰にその変化を感じ取る余裕はなかったが、[r]
+性器を刺激する快楽の度合いは顕著に深くなった。[pcms]
 
 *200|
 [fc]
 [vo_miz s="mizuki0019"]
-[ns]Mizuki[nse]
-"Nnn, hamuu, nnn juruun juruun"[pcms]
+[ns]瑞樹[nse]
+「んっんっ、はむぅ、んっじゅるぅんっじゅるぅぅ」[pcms]
 
 *201|
 [fc]
-[ns]Dazai[nse]
-"Your tongue clings to my cock like a leech. This is[r]
-irresistible!"[pcms]
+[ns]太宰[nse]
+「チンポに吸いつくような舌使いやなぁ。[r]
+　こらぁたまらんぞぉぉぉっ！」[pcms]
 
 *202|
 [fc]
 [vo_miz s="mizuki0020"]
-[ns]Mizuki[nse]
-"Nnn juruun, reroo reroo rerooon"[pcms]
+[ns]瑞樹[nse]
+「んっじゅるぅ、れろぉれろぉれろぉぉっ」[pcms]
 
 *203|
 [fc]
-What should have been a desire to finish quickly, Mizuki[r]
-began to feel pleasure and joy in serving.[pcms]
+早く終わらせたい、そんな気持ちばかりだったはずが、[r]
+瑞樹は奉仕することに快感と歓喜さえ感じ始めていた。[pcms]
 
 *204|
 [fc]
-Every time her tongue rubbed against it, the twitching of[r]
-the meat stick became like the strings of a harp that[r]
-plucked at her pleasure.[pcms]
+自分の舌が擦るたびに痙攣する肉棒の動きが、[r]
+瑞樹にとっては快楽を爪弾く琴糸と化していた。[pcms]
 
 *205|
 [fc]
-The sound that was played was sweet, hot, and passionately[r]
-stimulated Mizuki's senses.[pcms]
+奏でられる音色は甘美で熱く、そして情熱的に[r]
+瑞樹の官能を刺激した。[pcms]
 
 *206|
 [fc]
 [vo_miz s="mizuki0021"]
-[ns]Mizuki[nse]
-"Uunn, nnnnguu, nnn juruun"[pcms]
+[ns]瑞樹[nse]
+「うっん、んんっぐぅ、んっじゅるぅぅぅぅ」[pcms]
 
 *207|
 [fc]
-She sucked the meat stick into her throat to the hilt and[r]
-licked it all over.[pcms]
+喉元まで肉棒を目いっぱいに吸い込み、[r]
+全体をくまなく舐めまわした。[pcms]
 
 *208|
 [fc]
-The dripping saliva wet her breasts, mixing with sweat and[r]
-casting a bewitching light of desire.[pcms]
+滴る唾液は自分の胸まで濡らし、汗と混じって[r]
+欲望の光を妖しく放つ。[pcms]
 
 *209|
 [fc]
 [vo_miz s="mizuki0022"]
-[ns]Mizuki[nse]
-"Juruun, juruun..."[pcms]
+[ns]瑞樹[nse]
+「じゅるぅぅぅ、じゅるぅぅぅっ……」[pcms]
 
 *210|
 [fc]
-[ns]Dazai[nse]
-"Uooo, I'm gonna cum!!"[pcms]
+[ns]太宰[nse]
+「うぉぉぉっ、出るぞぉぉぉ！！」[pcms]
 
 *211|
 [fc]
-Unable to endure Mizuki's service any longer, Dazai reached[r]
-his limit.[pcms]
+ついに瑞樹の奉仕に耐えきれず、太宰は限界点へと[r]
+到達した。[pcms]
 
 ;//〆ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -1354,81 +1339,77 @@ his limit.[pcms]
 
 *212|
 [fc]
-Driven by a desire to conquer, to defile the woman before[r]
-him, and by his sadistic nature...[pcms]
+征服欲を満たしたくて、眼の前の女を汚したくて、[r]
+そしてサディスティックな性情に駆り立てられて……。[pcms]
 
 *213|
 [fc]
-Dazai pulled his hips back and released his boiling desire[r]
-towards Mizuki.[pcms]
+腰を引いた太宰は瑞樹に向って欲望の滾りを解放した。[pcms]
 
 [evcg storage="HEV001j"][trans_c cross time=300]
 
 *214|
 [fc]
 [vo_miz s="mizuki0023"]
-[ns]Mizuki[nse]
-"Puhahh, abuuuu"[pcms]
+[ns]瑞樹[nse]
+「ぷはっぁぁぁっ、あぶぅぅぅぅぅ」[pcms]
 
 *215|
 [fc]
-A large amount of white viscous fluid splattered onto her[r]
-face, around her mouth, and onto her breasts. Dazai stroked[r]
-his manhood with his own hand, trying to shower every last[r]
-drop on Mizuki.[pcms]
+顔、口周り、胸へと大量の白い粘液が飛び散っていく。[r]
+太宰は自らの手で男根をしごいて、一滴残らず瑞樹に[r]
+浴びせようと努めた。[pcms]
 
 *216|
 [fc]
 [vo_miz s="mizuki0024"]
-[ns]Mizuki[nse]
-"Auuu, it's hot... faaahhh"[pcms]
+[ns]瑞樹[nse]
+「あううっ、熱い……ふぁっあぁぁぁん」[pcms]
 
 *217|
 [fc]
-The heat of the semen hitting her body felt like a[r]
-pyroclastic flow of passion melting into her.[pcms]
+身体に当たる精液の熱が、瑞樹には身体に溶け込んでいく[r]
+熱情の火砕流に思えた。[pcms]
 
 *218|
 [fc]
-The more she was defiled, the more the pleasure of self-[r]
-abasement amplified, and the more she was bathed in it, the[r]
-more her female instincts awakened.[pcms]
+穢れれば穢れるほどに自虐の快楽が増幅し、[r]
+浴びれば浴びるほどに雌の本能が目覚めていく。[pcms]
 
 *219|
 [fc]
 [vo_miz s="mizuki0025"]
-[ns]Mizuki[nse]
-"Faaah, faaah, appuuuu"[pcms]
+[ns]瑞樹[nse]
+「ふぁぁっ、ふぁぁあっ、あっぷぅぅぅぅぅ」[pcms]
 
 *220|
 [fc]
-Before she knew it, Mizuki was actively rubbing the foul-[r]
-smelling fluid all over her body with her own hands and[r]
-eagerly licking it off with her tongue.[pcms]
+気がつけば悪臭を放つ汚液を、瑞樹は自らの手で[r]
+全身に擦り込み、積極的に舌で舐めとった。[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *221|
 [fc]
-The fire of sensuality lit within Mizuki's body began to[r]
-seek further pleasure and started to run rampant.[pcms]
+官能の火が点った瑞樹の肉体は、さらなる快感を求めて[r]
+奔走を開始した。[pcms]
 
 *222|
 [fc]
-Urged by Dazai, who was still proudly displaying his erect[r]
-manhood, she straddled him again despite feeling humiliated.[pcms]
+怒張したまま収まらない男性器を誇示する太宰に[r]
+促され、恥辱を感じながらも自らそこへまたがった。[pcms]
 
 *223|
 [fc]
-She shifted her T-back panties still on and exposed her[r]
-pussy, then while kneading her breasts with her own hands,[r]
-she lowered herself down.[pcms]
+穿いたままのＴバックのショーツをずらして女性器を[r]
+露わにすると、自らの手で胸を揉みながら腰を[r]
+下ろしていく。[pcms]
 
 *224|
 [fc]
-The secret slit spread open and dripping honey, Dazai's cock[r]
-slowly penetrated into the petals.[pcms]
+秘裂を押し広げ、蜜を滴らせた花弁に太宰の男根は[r]
+ゆっくりと侵入していった。[pcms]
 
 ;//BG：HEV002 瑞樹＆太宰、そしてモブキャラ達の乱交
 [evcg storage="HEV002a"][trans_c cross time=300]
@@ -1436,228 +1417,223 @@ slowly penetrated into the petals.[pcms]
 *225|
 [fc]
 [vo_miz s="mizuki0026"]
-[ns]Mizuki[nse]
-"Fuuu, haaaahhhhh"[pcms]
+[ns]瑞樹[nse]
+「ふぅっ、はぁっあぁぁぁっあっぁっん」[pcms]
 
 *226|
 [fc]
-After Mizuki and Dazai, the party of young people also[r]
-reached its climax.[pcms]
+そして瑞樹と太宰の後、若者たちの宴も同様に[r]
+最高潮の盛り上がりをみせていた。[pcms]
 
 *227|
 [fc]
-Those who had been immersed in the rave had also begun to[r]
-indulge in an orgy, raising cries of pleasure as they[r]
-followed their instincts.[pcms]
+レイヴに没頭していた彼らも、いつしか本能の求めるままに[r]
+嬌声をあげて乱交に興じていた。[pcms]
 
 *228|
 [fc]
-Some received cocks in their mouths and pussies in doggy[r]
-style, others raised voices of joy in face-to-face sitting[r]
-or standing positions; each indulged in pleasure in their[r]
-own way.[pcms]
+後背位で口と性器で肉棒を受けるもの、[r]
+対面座位や駅弁スタイルで歓喜の声をあげるもの、[r]
+それぞれにそれぞれが思うままの形で快感を享受していた。[pcms]
 
 *229|
 [fc]
-The sounds of moaning and the undulation of flesh swirled[r]
-under the star-filled sky.[pcms]
+響き渡る喘ぎ声と肉のうねりが、満点の星空の下に[r]
+渦巻いていた。[pcms]
 
 ;//<ImageLoad 4,HEV002a.bmp><UpDate Cross,1000>
 
 *230|
 [fc]
 [vo_miz s="mizuki0027"]
-[ns]Mizuki[nse]
-"Ahh ahh, your cock is hitting deep inside me!"[pcms]
+[ns]瑞樹[nse]
+「あっあぁぁっ、おチンチンがぁぁぁ[r]
+　奥に当たるぅぅぅ」[pcms]
 
 *231|
 [fc]
-[ns]Dazai[nse]
-"Your pussy is skewered!!"[pcms]
+[ns]太宰[nse]
+「おめこ串刺しやぁぁぁ！！」[pcms]
 
 *232|
 [fc]
 [vo_miz s="mizuki0028"]
-[ns]Mizuki[nse]
-"Ahh ahh, ah fuuu, kuuuahhhhn!"[pcms]
+[ns]瑞樹[nse]
+「あっあぁぁっ、あっふぅぅ、くっぅぅぁぁぁっん！」[pcms]
 
 *233|
 [fc]
-Perhaps due to the surrounding heat, the excitement of Dazai[r]
-and Mizuki showed an abnormal increase.[pcms]
+周囲の熱気に当てられてか、太宰と瑞樹の興奮も[r]
+異様な高まりをみせていた。[pcms]
 
 *234|
 [fc]
-The rubbing genitals sought each other fiercely, throbbing[r]
-for stronger stimulation.[pcms]
+擦れ合う男性器と女性器は互いに激しく求めあい、[r]
+より強い刺激を求めて躍動した。[pcms]
 
 *235|
 [fc]
 [vo_miz s="mizuki0029"]
-[ns]Mizuki[nse]
-"Ahhh fuuu, nnguu... Nnnnnh, haaahhn, my pussy is[r]
-throbbing."[pcms]
+[ns]瑞樹[nse]
+「あっぁぁっふぅぅ、んっぐぅぅ……。[r]
+　んんんっ、はぁぁぁっん、おまんこがジンジン疼くっ」[pcms]
 
 *236|
 [fc]
-From Mizuki's secret slit flowed an endless stream of thick[r]
-honey, and Dazai's lower half was stained with sweat and[r]
-love juice.[pcms]
+瑞樹の秘裂からはとめどなく濃厚な蜜があふれ、[r]
+太宰の下半身は汗と愛液に染まった。[pcms]
 
 *237|
 [fc]
-[ns]Dazai[nse]
-"Move it, move it, shake that ass more, tighten your pussy!"[pcms]
+[ns]太宰[nse]
+「動け、動け、もっともっとケツを振って、[r]
+　おめこを締め付けるんやっ！」[pcms]
 
 *238|
 [fc]
 [vo_miz s="mizuki0030"]
-[ns]Mizuki[nse]
-"Faaah aah aah, I can't anymore... hii ahhh aahh, my body is[r]
-tingling... hiiuunn, I can't put any strength into it."[pcms]
+[ns]瑞樹[nse]
+「ふぁっあっあっあ、もう無理……ひぃあっっああぁ、[r]
+　身体がしびれて……ひぃぅっん、力がはいらなぁい」[pcms]
 
 *239|
 [fc]
-[ns]Dazai[nse]
-"Can't be helped. Oraa, I'll help you out."[pcms]
+[ns]太宰[nse]
+「しょうのないやっちゃなぁ。[r]
+　おらっ、ワシが手伝ってやるわぁ」[pcms]
 
 *240|
 [fc]
-While kneading Mizuki's breasts from below as if grabbing[r]
-them, Dazai thrust up fiercely.[pcms]
+瑞樹の胸を下から掴むように揉みあげながら、[r]
+太宰は激しく突きあげた。[pcms]
 
 *241|
 [fc]
 [vo_miz s="mizuki0031"]
-[ns]Mizuki[nse]
-"Hiiiahh, it's hitting me deep inside, your cock is pounding[r]
-my insides!"[pcms]
+[ns]瑞樹[nse]
+「ひぃぁぁっ、あたる、奥にあたるぅぅぅ、[r]
+　チンコがあたしの奥にガンガンあたるぅぅぅ！」[pcms]
 
 *242|
 [fc]
-The tip of the cock struck directly at Mizuki's cervix,[r]
-sending waves of intense pleasure shooting through to her[r]
-brain.[pcms]
+肉棒の先端が瑞樹の子宮口を直撃し、激しい快楽の波が[r]
+脳天まで突き抜けていく。[pcms]
 
 *243|
 [fc]
-Each time Dazai thrust from below, white flashes ran through[r]
-Mizuki's mind.[pcms]
+太宰が下から突き上げるたびに、瑞樹の脳裏には[r]
+白い閃光が走った。[pcms]
 
 *244|
 [fc]
 [vo_miz s="mizuki0032"]
-[ns]Mizuki[nse]
-"Kuhahhh, stop it, be gentler!"[pcms]
+[ns]瑞樹[nse]
+「くっはぁぁぁっ、らめぇぇぇ、もっとやさしくぅぅっ」[pcms]
 
 *245|
 [fc]
-Dazai loved nothing more than watching a woman go mad with[r]
-ecstasy from his manhood.[pcms]
+自らの男根で狂い悶え、よがる女の姿を眺めるのが[r]
+太宰はなによりも好きだった。[pcms]
 
 *246|
 [fc]
-The gasping woman's cries were hymns praising Dazai's[r]
-manhood, and the trembling of the vaginal walls was applause[r]
-for adoration.[pcms]
+喘ぐ女の嬌声は太宰の男を讃える賛歌であり、[r]
+快楽に震える膣壁の躍動は賞賛の拍手であった。[pcms]
 
 *247|
 [fc]
-The more Mizuki trembled with joy and went crazy with[r]
-pleasure, the more excited Dazai became and intensified his[r]
-assault.[pcms]
+瑞樹が歓喜に震えるほどに、快楽に狂うほどに、[r]
+太宰はより興奮し、責めの激しさは増した。[pcms]
 
 *248|
 [fc]
 [vo_miz s="mizuki0033"]
-[ns]Mizuki[nse]
-"Hiiiih, fuuguuu... nnguuu my pussy is going to break!"[pcms]
+[ns]瑞樹[nse]
+「ひぃぃぃっ、ふぅぐうぅぅぅ……んっぐうぅぅっ[r]
+　おまんこが壊れるぅぅぅぅ」[pcms]
 
 [evcg storage="HEV002b"][trans_c cross time=300]
 
 *249|
 [fc]
-[ns]Dazai[nse]
-"Break then, break for me!!"[pcms]
+[ns]太宰[nse]
+「壊れろ、壊れちまぇぇやぁぁぁ！！」[pcms]
 
 *250|
 [fc]
-Roughly rubbing her vagina and pounding against her cervix,[r]
-Mizuki completely lost her sanity.[pcms]
+膣を乱暴に擦りあげ、子宮口をガンガンと突きあげられ、[r]
+瑞樹は正気を完全に失った。[pcms]
 
 *251|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ughhh, I can't hold back anymore!"[pcms]
+[ns]重吉[nse]
+「ううぅぅっ、もう俺様も我慢できねぇぇぇ」[pcms]
 
 *252|
 [fc]
-The sensual heat of the surroundings, and the sight of[r]
-Mizuki's seductive form in front of him. This obese man's[r]
-desires were not so weak that merely watching would satisfy[r]
-him.[pcms]
+周囲の官能の熱気、そして目の前の瑞樹の嬌態。[r]
+それを見ているだけで満足できるほど、[r]
+この肥満男の欲望は弱くない。[pcms]
 
 *253|
 [fc]
-It was only a slight sense of reason that had kept[r]
-Shigeyoshi restrained in front of Jin, but now the situation[r]
-was what it was.[pcms]
+わずかな理性で、壬の手前自重していたわけだが、[r]
+今は状況が状況である。[pcms]
 
 *254|
 [fc]
-The loss of Shigeyoshi's reason was, rather, a natural[r]
-course of events.[pcms]
+重吉の理性が消し飛ぶのは、むしろ自然な[r]
+成り行きといえただろう。[pcms]
 
 *255|
 [fc]
-Shaking his massive body, he approached Dazai and Mizuki,[r]
-who were intoxicated with pleasure in the cowgirl position,[r]
-and hastily stripped off his clothes on the spot.[pcms]
+巨体をゆすりながら、騎乗位で快感に酔いしれている[r]
+太宰と瑞樹に近寄ると、そそくさとその場で着衣を[r]
+脱ぎ捨てた。[pcms]
 
 *256|
 [fc]
-[ns]Shigeyoshi[nse]
-"Do you mind if I join in...?"[pcms]
+[ns]重吉[nse]
+「俺も混ぜてもらってもいいですかね……」[pcms]
 
 ;//<ImageLoad 4,HEV002a.bmp><UpDate Cross,1000>
 
 *257|
 [fc]
-Respect for Jin and consideration for Dazai, who was even[r]
-higher in rank, were the most rational actions Shigeyoshi[r]
-could muster at the moment.[pcms]
+壬への敬意と、さらにその上の立場である太宰への[r]
+配慮が今の重吉には精一杯の理性的行動だった。[pcms]
 
 *258|
 [fc]
-To Dazai, a lowly underling like Shigeyoshi was an existence[r]
-less than disposable.[pcms]
+太宰から見れば下っ端の下っ端、重吉などは[r]
+取るに足らない使い捨て以下の存在。[pcms]
 
 *259|
 [fc]
-It was audacious to even think of partaking in the[r]
-leftovers, but Dazai's response turned out to be[r]
-surprisingly welcome for Shigeyoshi.[pcms]
+おこぼれにあずかろうなど、身の程知らずも甚だしいわけだが、[r]
+太宰の回答は意外にも重吉にとっては[r]
+ありがたいものとなった。[pcms]
 
 *260|
 [fc]
-[ns]Dazai[nse]
-"Yeah, I don't mind. Stick it in whatever hole you like."[pcms]
+[ns]太宰[nse]
+「おう、かまわねぇぞ。好きな穴にぶち込んだれや」[pcms]
 
 *261|
 [fc]
-Dazai's sadistic nature, aided by the effects of the drug,[r]
-led to this response.[pcms]
+太宰のサディスティックな性情が、薬の効果も手伝って[r]
+この答えとなって帰ってきたのだ。[pcms]
 
 *262|
 [fc]
-[ns]Shigeyoshi[nse]
-"Thank you very much!"[pcms]
+[ns]重吉[nse]
+「ありがとうございますっ」[pcms]
 
 *263|
 [fc]
-Elated as if about to jump for joy at Dazai's words,[r]
-Shigeyoshi aimed for Mizuki's anus and twisted his[r]
-grotesquely large penis into it.[pcms]
+重吉は太宰の言葉に飛び上りそうなほど舞い上がり、[r]
+瑞樹の肛門に狙いを定めると、体格に見合った異様な[r]
+大きさの男性器をねじ込んだ。[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//BG：HEV002 瑞樹＆太宰、差分
@@ -1666,258 +1642,252 @@ grotesquely large penis into it.[pcms]
 *264|
 [fc]
 [vo_miz s="mizuki0034"]
-[ns]Mizuki[nse]
-"Fugguuuu!! Nnguhiiiiiaaaaahh, my butt, my butt is tearing!"[pcms]
+[ns]瑞樹[nse]
+「ふっぐうぅぅぅっ！！[r]
+　んっぐひぃぃぃあぁぁぁぁ、お尻、お尻が裂けるぅぅ」[pcms]
 
 *265|
 [fc]
-Mizuki let out a scream-like voice at the sudden event. She[r]
-was already at her limit just enduring Dazai's thrusts.[pcms]
+突然の事態に瑞樹は悲鳴に近い声を上げた。[r]
+ただでさえ太宰の突き上げに耐えるのに精一杯なところ。[pcms]
 
 *266|
 [fc]
-And then, unexpectedly, an oversized dick invaded her anus,[r]
-which was meant for excretion.[pcms]
+そこへ不意に規格外の巨根が、あろうことか排泄目的の[r]
+穴へと侵入したのだ。[pcms]
 
 *267|
 [fc]
 [vo_miz s="mizuki0035"]
-[ns]Mizuki[nse]
-"No wayyyy, ahiiiiii! It's tearing, such a big one is[r]
-impossibleee!"[pcms]
+[ns]瑞樹[nse]
+「だめぇぇぇ、あひぃぃぃっ、裂けちゃぅぅぅ、[r]
+　こんなおおきいの無理ぃぃぃぃ！」[pcms]
 
 *268|
 [fc]
-The shock and impact on Mizuki's body were tremendous.[r]
-Shigeyoshi had not a shred of thought for consideration or[r]
-care for the female body.[pcms]
+瑞樹の驚きと肉体が受けた衝撃はすさまじいものだった。[r]
+女体への配慮や労りなどという思考は[r]
+欠片もない重吉である。[pcms]
 
 *269|
 [fc]
-Driven by desire, he dug around Mizuki's anus with his huge[r]
-weapon.[pcms]
+欲望のままに巨大な凶器で、瑞樹の肛門をほじくり返した。[pcms]
 
 *270|
 [fc]
 [vo_miz s="mizuki0036"]
-[ns]Mizuki[nse]
-"Uguuuuunnnnn!"[pcms]
+[ns]瑞樹[nse]
+「うっぅっぅっ、うぐうぅぅっんん！」[pcms]
 
 *271|
 [fc]
-[ns]Dazai[nse]
-"Ohh, this one's got a tight squeeze, doesn't it?"[pcms]
+[ns]太宰[nse]
+「おおっ、こいつはすごい締め付けやないかぁ」[pcms]
 
 *272|
 [fc]
-[ns]Shigeyoshi[nse]
-"Eheheheh, she's moaning because she's getting her ass[r]
-drilled."[pcms]
+[ns]重吉[nse]
+「えへへへっ、ケツを掘られてよがってるんですよ」[pcms]
 
 *273|
 [fc]
 [vo_miz s="mizuki0037"]
-[ns]Mizuki[nse]
-"Agguuuu... Nnguuuaaahnn!"[pcms]
+[ns]瑞樹[nse]
+「あっぐうぅぅっ、んっぐぅぁぁぁっん！」[pcms]
 
 *274|
 [fc]
-The Mizuki of old would have found Shigeyoshi's actions and[r]
-the size of his penis both mentally and physically[r]
-unbearable pain.[pcms]
+本来の瑞樹であれば、重吉の行為も男根のサイズも[r]
+精神的にも肉体的にも受け入れがたい苦痛のはずだった。[pcms]
 
 *275|
 [fc]
-It would have been unbearable to have such a huge penis[r]
-twisted into her anus, an organ meant for excretion, let[r]
-alone insertion into her vagina.[pcms]
+女性器への挿入であればまだしも排泄用の器官である肛門に[r]
+巨大な肉棒をねじ込まれるのだから[r]
+たまったものではない。[pcms]
 
 *276|
 [fc]
 [vo_miz s="mizuki0038"]
-[ns]Mizuki[nse]
-"Uguuuu... Nnguuu..."[pcms]
+[ns]瑞樹[nse]
+「うっううぅっ、んっぐぅぅ……」[pcms]
 
 *277|
 [fc]
-But tonight, Mizuki's body had been transformed into[r]
-something from another dimension by the drug, just like her[r]
-mind.[pcms]
+だが、今夜の瑞樹の肉体は、精神と同様に薬によって[r]
+別次元の物へと変えられていた。[pcms]
 
 *278|
 [fc]
-Initially, there was considerable pain upon insertion, but[r]
-as Shigeyoshi's huge dick penetrated her and brought her to[r]
-the brink of tearing, Mizuki's anus demonstrated a flexible[r]
-elasticity.[pcms]
+挿入当初は相応の激痛がともなったものの、重吉の[r]
+巨根で貫かれ、裂ける寸前であるにもかかわらず、[r]
+瑞樹の肛門は柔軟な伸縮性を発揮した。[pcms]
 
 *279|
 [fc]
-And with the friction from the huge dick that easily reached[r]
-her rectum, Mizuki began to feel pleasure.[pcms]
+そして直腸まで簡単に達してしまった巨根による摩擦に、[r]
+瑞樹は快感を得始めた。[pcms]
 
 *280|
 [fc]
 [vo_miz s="mizuki0039"]
-[ns]Mizuki[nse]
-"Uguuuu, it's tearing, my asshole is tearing!"[pcms]
+[ns]瑞樹[nse]
+「うっうぅぅ、裂ける、お尻の穴、裂けるぅぅぅっ！」[pcms]
 
 *281|
 [fc]
-[ns]Shigeyoshi[nse]
-"It's fine. Your anus is beautifully expanding to swallow my[r]
-thing."[pcms]
+[ns]重吉[nse]
+「平気だよ。お前の肛門はきれいに広がって[r]
+　俺様のモノをしっかりと飲み込んでるよ」[pcms]
 
 *282|
 [fc]
 [vo_miz s="mizuki0040"]
-[ns]Mizuki[nse]
-"Nnguuu... Uguuhaaaah... Fuuuaaahh... Haaahauuuh."[pcms]
+[ns]瑞樹[nse]
+「んっぐぅぅ、うっぅはぁぁぁぁっふぅぅ……。[r]
+　ふぅっあっあぁぁ、はぁっはぅっ」[pcms]
 
 *283|
 [fc]
-Before long, her sobbing voice began to be tinged with[r]
-sensual color, and with each movement of Shigeyoshi's hips,[r]
-it turned into cries of joy.[pcms]
+やがて嗚咽混じりな声が官能の色に染まりはじめ、[r]
+重吉が腰を動かすたびに、それは歓喜の声へと[r]
+変わっていった。[pcms]
 
 *284|
 [fc]
 [vo_miz s="mizuki0041"]
-[ns]Mizuki[nse]
-"Ahh! Hiiiguuuu... Nnguuuuu!"[pcms]
+[ns]瑞樹[nse]
+「あっあっ、ひぃっぐうぅ、んっぐうぅぅっ」[pcms]
 
 *285|
 [fc]
-[ns]Shigeyoshi[nse]
-"Look look, she's starting to feel it in her ass."[pcms]
+[ns]重吉[nse]
+「ほらほら、お尻の穴で感じ始めたぁ」[pcms]
 
 *286|
 [fc]
-[ns]Dazai[nse]
-"Every time she gets her ass drilled, her pussy quivers."[pcms]
+[ns]太宰[nse]
+「ケツを掘られるたびに、マンコがブルブル震えてるぜ」[pcms]
 
 *287|
 [fc]
 [vo_miz s="mizuki0042"]
-[ns]Mizuki[nse]
-"Agguuuu... Nnhiiinn..."[pcms]
+[ns]瑞樹[nse]
+「あっぐうぅぅ、んっひぃぃっん……」[pcms]
 
 *288|
 [fc]
-The giant dick rampaged through her intestinal walls with[r]
-such force that it seemed to tear them apart, causing Mizuki[r]
-to convulse all over.[pcms]
+腸壁を引き裂かんばかりの勢いで巨根が暴れ回り、[r]
+瑞樹は全身を痙攣させた。[pcms]
 
 *289|
 [fc]
-The simultaneous violation by two men and the humiliation of[r]
-being penetrated even in her anus induced Mizuki's[r]
-masochistic excitement.[pcms]
+二人の男による同時の凌辱、肛門まで貫かれる屈辱、[r]
+それが瑞樹の被虐的な興奮を誘発した。[pcms]
 
 *290|
 [fc]
-Being devoured by flesh in such an immoral way was the[r]
-ultimate pleasure for Mizuki now.[pcms]
+インモラルな方法で肉体を貪られることが[r]
+今の瑞樹にはこの上ない快感だった。[pcms]
 
 *291|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehgehgeheh, her asshole is starting to spasm too."[pcms]
+[ns]重吉[nse]
+「げへげへ、尻の穴も痙攣してきたぁ」[pcms]
 
 *292|
 [fc]
 [vo_miz s="mizuki0043"]
-[ns]Mizuki[nse]
-"Afuuu... Fuguuuu... Nnnnnbuuuu."[pcms]
+[ns]瑞樹[nse]
+「あふぅっ、ふぅぐぅぅぅ……んんんっぶぅぅぅ」[pcms]
 
 *293|
 [fc]
-[ns]Dazai[nse]
-"The pussy is also in good shape."[pcms]
+[ns]太宰[nse]
+「まんこの方もいい調子だやぞぉ」[pcms]
 
 *294|
 [fc]
 [vo_miz s="mizuki0044"]
-[ns]Mizuki[nse]
-"Hiiiaaaahh! Ahhaaaahhhuuunn!"[pcms]
+[ns]瑞樹[nse]
+「ひぃぁぁあっ、あっぁぁぁっぅぅっんん」[pcms]
 
 *295|
 [fc]
-Before she knew it, Mizuki was shaking her own ass, seeking[r]
-stronger stimulation.[pcms]
+気がつけば瑞樹は自ら尻を振り、より強い刺激を[r]
+求めていた。[pcms]
 
 *296|
 [fc]
 [vo_miz s="mizuki0045"]
-[ns]Mizuki[nse]
-"Nnnbuuuu... Fuuuuu... Haaahaaahh... Abuuuu!"[pcms]
+[ns]瑞樹[nse]
+「んっんっぶぅぅっ、ふっぅぅぅっ……。[r]
+　はぁっあぁっ、あっぶぅぅぅ！」[pcms]
 
 *297|
 [fc]
-Arching her back and getting drunk on the burning pleasure.[pcms]
+上体をのけぞらし、身を焼くような快感に[r]
+酔いしれていく。[pcms]
 
 *298|
 [fc]
-With every friction from the penises in both her vagina and[r]
-anus, they pulsed with life, continually seeking stronger[r]
-stimulation and pleasure.[pcms]
+膣も肛門も男根による摩擦を受けるたびに、[r]
+躍動を繰り返し、より強い刺激と快感を求め続けた。[pcms]
 
 *299|
 [fc]
 [vo_miz s="mizuki0046"]
-[ns]Mizuki[nse]
-"Ahiiaaaahh! I'm breaking... My asshole and pussy are going[r]
-to break!"[pcms]
+[ns]瑞樹[nse]
+「あひぃっあぁぁぁ、壊れるぅぅぅ、お尻の穴と[r]
+　おまんこが壊れちゃうのぉぉぉ」[pcms]
 
 *300|
 [fc]
-[ns]Dazai[nse]
-"Oraa, this is the finish!"[pcms]
+[ns]太宰[nse]
+「おらぁ、これでフィニッシュや！」[pcms]
 
 *301|
 [fc]
 [vo_miz s="mizuki0047"]
-[ns]Mizuki[nse]
-"Higiiaaaahnnnn!!"[pcms]
+[ns]瑞樹[nse]
+「ひぎいぁぁぁぁっんんん！！」[pcms]
 
 *302|
 [fc]
-With a particularly loud moan, Mizuki's anus and vagina[r]
-contracted. The male organs inside were roughly rubbing[r]
-against the tightening holes.[pcms]
+ひと際大きな声で喘ぎ悶絶しながら、瑞樹は肛門と[r]
+膣を収縮させた。[r]
+内部に収めた男性器が締まる穴を乱暴に擦りあげる。[pcms]
 
 *303|
 [fc]
-The thick love juices, which had increased in viscosity,[r]
-entwined around Dazai's dick, and the folds clung to it as[r]
-if seeking semen.[pcms]
+粘度を増した濃厚な愛液が太宰の肉棒に絡みつき、[r]
+襞が精液を求めるように吸いついた。[pcms]
 
 *304|
 [fc]
-[ns]Dazai[nse]
-"Nnnn, the pussy is clinging onto me..."[pcms]
+[ns]太宰[nse]
+「んんっ、まんこが吸いついて来よった……」[pcms]
 
 *305|
 [fc]
 [vo_miz s="mizuki0048"]
-[ns]Mizuki[nse]
-"Nnguuu, kuhiiiaahh..."[pcms]
+[ns]瑞樹[nse]
+「んっぐぅぅぅ、くっひぃぁぁっ……」[pcms]
 
 *306|
 [fc]
-Her entire body flared up, and as if her consciousness was[r]
-being scorched by a flash of light, Mizuki reached climax[r]
-just like that.[pcms]
+全身が燃え上がり、意識が閃光に焼き尽くされるような[r]
+感覚に、瑞樹はそのまま絶頂した。[pcms]
 
 *307|
 [fc]
-[ns]Dazai[nse]
-"Guoooh, I'm gonna cum"[pcms]
+[ns]太宰[nse]
+「ぐぅぉぉぉっ、出すぞぉ」[pcms]
 
 *308|
 [fc]
-[ns]Shigeyoshi[nse]
-"Boohboohh"[pcms]
+[ns]重吉[nse]
+「ぶぉっぶぉぉっ」[pcms]
 
 ;//〆：ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -1925,47 +1895,44 @@ just like that.[pcms]
 
 *309|
 [fc]
-Dazai and Shigeyoshi also let out beast-like cries,[r]
-ejaculating their semen into the climaxing vagina and anus[r]
-at the same time. The convulsing mucous membranes were being[r]
-filled with hot white fluid.[pcms]
+太宰と重吉も獣のような声をあげ、絶頂した膣と肛門へ[r]
+同時に精液を放つ。[r]
+痙攣を繰り返す粘膜に、熱い白液が注ぎ込まれていく。[pcms]
 
 *310|
 [fc]
 [vo_miz s="mizuki0049"]
-[ns]Mizuki[nse]
-"Fuuuaaahh, my ass and pussy... They're burning, burning!"[pcms]
+[ns]瑞樹[nse]
+「ふっぅっあぁぁぁ、お尻とおまんこが……。[r]
+　焼けるぅ、焼けるぅぅぅぅ」[pcms]
 
 [evcg storage="HEV002e"][trans_c cross time=300]
 
 *311|
 [fc]
-While experiencing a sensation as if her vagina and anus[r]
-were being prodded with a red-hot iron bar, Mizuki collapsed[r]
-limply.[pcms]
+焼けた鉄棒で膣と肛門をほじくられたような感覚を[r]
+味わいながら、瑞樹はぐったりと崩れ落ちた。[pcms]
 
 *312|
 [fc]
 [vo_miz s="mizuki0050"]
-[ns]Mizuki[nse]
-"Ahfuuu, uggguuu...uuuu..."[pcms]
+[ns]瑞樹[nse]
+「あっふぅぅ、うっぐぅぅ……うぅぅ……」[pcms]
 
 *313|
 [fc]
-Just like Mizuki and the others, the young people around who[r]
-had been indulging in pleasure also began to reach their[r]
-climax.[pcms]
+瑞樹たちと同様に、周囲で快楽を貪っていた[r]
+若者たちも、クライマックスを迎え始める。[pcms]
 
 *314|
 [fc]
-Those who had reached their peak were collapsing one after[r]
-another while still joined together.[pcms]
+絶頂を迎えた者たちが、次々と結合したまま[r]
+果てていく。[pcms]
 
 *315|
 [fc]
-Semen and love juices, sweat and saliva turned into heat[r]
-that dyed the surrounding air, and an unusual odor lingered[r]
-in the area.[pcms]
+精液と愛液、汗と唾液が熱気となって周囲の空気を[r]
+染め上げ、あたりには異様な臭気が立ち込めた。[pcms]
 
 ;//♪：rage フェードアウト
 [fadeoutbgm time=500]
@@ -1981,174 +1948,169 @@ in the area.[pcms]
 
 *316|
 [fc]
-The arrangement of stars decorating the sky also changed[r]
-significantly, signaling the end of the night was near, and[r]
-the feast of pleasure came to an end.[pcms]
+大空を飾る星達の配置も大きく変化し、夜の終りが[r]
+近いことを告げ始めた頃、快楽の宴は終焉を迎えた。[pcms]
 
 *317|
 [fc]
-[ns]Dazai[nse]
-"It was quite an enjoyable night."[pcms]
+[ns]太宰[nse]
+「なかなか楽しい夜やったなぁ」[pcms]
 
 *318|
 [fc]
-[ns]Shigeyoshi[nse]
-"Everyone is completely exhausted."[pcms]
+[ns]重吉[nse]
+「みんな疲れきってますね」[pcms]
 
 *319|
 [fc]
-The scene spread out before them was reminiscent of a[r]
-massacre site, with exhausted bodies laid bare on the[r]
-ground.[pcms]
+疲労しきった肉体を大地にさらけ出し、大量虐殺の[r]
+跡地を彷彿させるかのような光景が広がっていた。[pcms]
 
 *320|
 [fc]
-However, Mizuki still felt the flame of sensuality[r]
-smoldering in her body; it had not been completely[r]
-extinguished.[pcms]
+だが、瑞樹はまだ肉体に宿る官能の炎が[r]
+完全には鎮火していなかった。[pcms]
 
 [evcg storage="HEV001k"][trans_c cross time=300]
 
 *321|
 [fc]
 [vo_miz s="mizuki0051"]
-[ns]Mizuki[nse]
-"Haa haa... I want more, more."[pcms]
+[ns]瑞樹[nse]
+「はぁはぁ……もっと、もっと欲しいの」[pcms]
 
 *322|
 [fc]
-Having tasted unimaginable excitement and pleasure, Mizuki[r]
-turned into a lewd female and began to suck on Dazai's dick[r]
-on her own.[pcms]
+想像を絶する興奮と快感を味わった瑞樹は淫乱な[r]
+雌と化し、自ら太宰の肉棒にしゃぶりついた。[pcms]
 
 *323|
 [fc]
-[ns]Dazai[nse]
-"Oi oi, give me a break. No matter what, back-to-back is too[r]
-much."[pcms]
+[ns]太宰[nse]
+「おいおい、かんべんしてくれや。[r]
+　いくらなんでも連荘は無理があるぞ」[pcms]
 
 *324|
 [fc]
 [vo_miz s="mizuki0052"]
-[ns]Mizuki[nse]
-"But eeeh, hamuuu, churruuu, chuppaaaahh, I want more and[r]
-more cock."[pcms]
+[ns]瑞樹[nse]
+「だってぇぇ、はむぅぅぅ、ちゅるぅぅっ、[r]
+　ちゅっぱあぁっ、もっともっとチンコが欲しいんだもん」[pcms]
 
 *325|
 [fc]
-[ns]Dazai[nse]
-"You've already enjoyed plenty with both holes."[pcms]
+[ns]太宰[nse]
+「二つの穴でたっぷりと楽しんだやろ」[pcms]
 
 *326|
 [fc]
-After enjoying a wild play heightened by drugs, even Dazai[r]
-didn't have the energy to get an erection again. He couldn't[r]
-possibly feel like going another round consecutively.[pcms]
+薬で興奮を高めた豪快なプレイで楽しんだ後だけに、[r]
+流石の太宰も勃起する元気がない。[r]
+連続でもう一回という気分には到底なれなかった。[pcms]
 
 *327|
 [fc]
 [vo_miz s="mizuki0053"]
-[ns]Mizuki[nse]
-"No way, give me dick!"[pcms]
+[ns]瑞樹[nse]
+「やだぁ、チンコ頂戴っ」[pcms]
 
 *328|
 [fc]
-Ignoring Dazai's refusal, the insatiable Mizuki began to[r]
-wrap her mouth around his dick and twine her tongue around[r]
-it.[pcms]
+しかし、拒む太宰を無視して、収まらない瑞樹は[r]
+肉棒を口に含んで舌を絡め始めた。[pcms]
 
 *329|
 [fc]
-[ns]Dazai[nse]
-"Can't be helped then. If you insist that much, clean it up[r]
-with your body."[pcms]
+[ns]太宰[nse]
+「しょうのないやっちゃなぁ。[r]
+　どうしてもというんやったら、お前の身体で[r]
+　お掃除しろや」[pcms]
 
 ;//BG：HEV001 瑞樹のフェラ
 [evcg storage="HEV001h"][trans_c cross time=300]
 
 *330|
 [fc]
-The cleanup blowjob was still a welcome command for Mizuki[r]
-at this point.[pcms]
+後始末のお掃除フェラ、それでも今の瑞樹にとっては[r]
+喜ばしい命令だった。[pcms]
 
 *331|
 [fc]
-Just by becoming a sexual tool with her body, Mizuki was[r]
-sufficiently excited and eager to proceed.[pcms]
+自分の肉体が性の道具になるだけで、瑞樹は十分に興奮し、[r]
+張り切ることができた。[pcms]
 
 *332|
 [fc]
 [vo_miz s="mizuki0054"]
-[ns]Mizuki[nse]
-"Hamuuu, nntchurruuuuchurruuuu"[pcms]
+[ns]瑞樹[nse]
+「はむうぅ、んっちゅるぅぅちゅるぅぅぅ」[pcms]
 
 *333|
 [fc]
-Licking up and swallowing down the dick smeared with her own[r]
-love juices and ejaculated semen with her tongue.[pcms]
+自分の愛液と発射した精液がこびりついた肉棒を[r]
+舌で舐めあげ、飲み干していく。[pcms]
 
 *334|
 [fc]
-She ran her tongue tip along the urethra, diligently sucking[r]
-out any remaining semen inside.[pcms]
+尿道に舌先を這わせて、中に残った精液まで[r]
+丹念に吸い出していった。[pcms]
 
 *335|
 [fc]
 [vo_miz s="mizuki0055"]
-[ns]Mizuki[nse]
-"Churruuuu, churruuuuu"[pcms]
+[ns]瑞樹[nse]
+「ちゅるうぅぅっ、ちゅるぅぅぅぅ」[pcms]
 
 *336|
 [fc]
-[ns]Dazai[nse]
-"Oi oi, no matter how much you suck now, nothing else will[r]
-come out."[pcms]
+[ns]太宰[nse]
+「おいおい、そんなに吸われても、もう何も出んぞ」[pcms]
 
 *337|
 [fc]
-Furthermore, she pressed her breasts against the base and[r]
-smeared the dripping love juices all over her body. For[r]
-Mizuki now, being defiled was the ultimate joy.[pcms]
+さらに付け根に自分の胸を押し当て、滴りおちた愛液を[r]
+体中に擦りつける。[r]
+今の瑞樹は汚されることが至上の喜びだった。[pcms]
 
 *338|
 [fc]
 [vo_miz s="mizuki0056"]
-[ns]Mizuki[nse]
-"Aaahh! My breasts and body... even my face has become so[r]
-filthy and smelly."[pcms]
+[ns]瑞樹[nse]
+「あぁぁっ、おっぱいも身体も……顔もこんなに……。[r]
+　ドロドロで臭くなっちゃったぁ」[pcms]
 
 *339|
 [fc]
-As she verbalized the dirty reality, her excitement and[r]
-pleasure kept increasing.[pcms]
+汚れた事実を言葉に出してみると、興奮と快感がどんどん[r]
+増していく。[pcms]
 
 *340|
 [fc]
-Semen poured into her slit and anus was oozing out thickly;[r]
-her appearance was truly that of a sex slave.[pcms]
+秘裂と肛門からは注ぎ込まれた精液がドロドロと[r]
+あふれ出し、その姿はまさに性奴隷といった趣だった。[pcms]
 
 [evcg storage="HEV001k"][trans_c cross time=300]
 
 *341|
 [fc]
 [vo_miz s="mizuki0057"]
-[ns]Mizuki[nse]
-"So dirty, so filthy... But the cock is clean now."[pcms]
+[ns]瑞樹[nse]
+「こんなに、こんなに汚れたけど……。[r]
+　チンコは綺麗になりましたぁ」[pcms]
 
 *342|
 [fc]
-[ns]Dazai[nse]
-"This woman has completely lost it."[pcms]
+[ns]太宰[nse]
+「この女、完全にイッちまっとるなぁ」[pcms]
 
 *343|
 [fc]
-[ns]Shigeyoshi[nse]
-"The completion of a female slave..."[pcms]
+[ns]重吉[nse]
+「雌奴隷の完成ですね……」[pcms]
 
 *344|
 [fc]
-Watching Mizuki's lewd behavior, Dazai and Shigeyoshi[r]
-laughed loudly.[pcms]
+瑞樹の痴態を見ながら、太宰と重吉は大声で笑った。[pcms]
 
 ; 回想モード中なら、回想モード画面に戻る
 [if exp="tf.scene_mode==1"]
@@ -2177,45 +2139,44 @@ laughed loudly.[pcms]
 
 *345|
 [fc]
-[ns]Jin[nse]
-"Tch... Never getting tired of it. They're like monkeys."[pcms]
+[ns]壬[nse]
+「チッ……よく飽きもせずに。猿だな」[pcms]
 
 *346|
 [fc]
-Jin, who had been watching from a distance with an unchanged[r]
-expression from the beginning, spat out in disgust and[r]
-walked away while gulping down his beer.[pcms]
+その様子をはじめから変わらぬ様子で遠巻きに[r]
+見守っていた壬は呆れたような口調で吐き捨てると[r]
+手にしたビールを呷りながらその場を離れた。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *347|
 [fc]
-The feast was coming to an end, and it was time to start[r]
-preparing to leave.[pcms]
+宴も終焉を迎え、帰りの準備に取りかかるつもりだった。[pcms]
 
 *348|
 [fc]
-Suddenly, from the buffet-style food corner set up at the[r]
-rave venue, shouts from his subordinates could be heard.[pcms]
+ふと背を向けた所へ、レイヴ会場に設置した[r]
+バイキング形式のフードコーナーから、[r]
+手下達の怒号が聞こえてきた。[pcms]
 
 *349|
 [fc]
-Jin thought that those who hadn't fully recovered from the[r]
-drugs were probably starting to act violently and headed[r]
-towards the source of the voices with a look of annoyance.[pcms]
+薬の抜けきらない連中が大方暴れ出したのであろうと[r]
+考えた壬は面倒くさそうに声のした方へと向かった。[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *350|
 [fc]
-[ns]Jin[nse]
-"Hey, what's going on?"[pcms]
+[ns]壬[nse]
+「おい、どうした？」[pcms]
 
 *351|
 [fc]
-Several half-naked men and women were standing around the[r]
-food corner as if surrounding it.[pcms]
+その場には半裸の男女が数名、フードコーナーを[r]
+囲むようにして立っていた。[pcms]
 
 [fadeoutbgm time=500]
 
@@ -2229,149 +2190,139 @@ food corner as if surrounding it.[pcms]
 
 *352|
 [fc]
-[ns]Man A[nse]
-"Ah, Jin-san! This girl was rummaging through our food."[pcms]
+[ns]男Ａ[nse]
+「あっ、壬さん！　こいつが俺たちの食い物を[r]
+　漁ってたんですよ」[pcms]
 
 *353|
 [fc]
-As directed, Jin looked where they were pointing and indeed[r]
-saw an unfamiliar girl, who he didn't recall being part of[r]
-the participants, stuffing leftovers into her mouth with her[r]
-bare hands.[pcms]
+言われるままに指さす先を見ると、確かに参加者の中に[r]
+いた記憶のない、見知らぬ少女が素手で残飯を頬張っていた。[pcms]
 
 [evcg storage="EV001a"][trans_c cross time=300]
 
 *354|
 [fc]
-Her clothes were filthy to an abnormal degree, her hair[r]
-dirty...[pcms]
+異様なまでに薄汚れた服、汚い髪……。[pcms]
 
 *355|
 [fc]
-At first glance, she might have seemed like just another[r]
-participant who had gone too far with drugs, but the[r]
-dirtiness of her attire suggested it had accumulated over a[r]
-long period.[pcms]
+一見すると薬でハメを外し過ぎた参加者達と大差ないようにも[r]
+思えたが、その汚れ具合は長い時間を経たものだった。[pcms]
 
 ;//<ImageInit 1><ImageInit 2>
 ;//[ChrSetEx layer=1 chbase="jin_c4"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,1000>
 
 *356|
 [fc]
-[ns]Jin[nse]
-"What's with this girl?"[pcms]
+[ns]壬[nse]
+「なんだこいつ？」[pcms]
 
 *357|
 [fc]
-[ns]Man A[nse]
-"That's what I don't understand either..."[pcms]
+[ns]男Ａ[nse]
+「それが俺にもわからないんですけど……」[pcms]
 
 *358|
 [fc]
 [vo_mob s="onnaA0002"]
-[ns]Woman A[nse]
-"Isn't she a bit too creepy?"[pcms]
+[ns]女Ａ[nse]
+「ちょっとキモすぎじゃない？」[pcms]
 
 *359|
 [fc]
-While thinking to himself that their own appearances were[r]
-quite something too, Jin didn't voice it out and instead[r]
-felt an unusual presence about her.[pcms]
+お前の姿だって相当なものだぞとは思いつつも壬は口に出さず[r]
+普通ではない気配を感じた。[pcms]
 
 *360|
 [fc]
-The girl continued to devour the muddy food with her bare[r]
-hands, seemingly unfazed by being surrounded.[pcms]
+少女は囲まれているのも気にせず、ただ夢中で素手のまま[r]
+泥まみれの料理を拾っては口に含み、咀嚼している。[pcms]
 
 *361|
 [fc]
 [vo_mob s="onnaB0002"]
-[ns]Woman B[nse]
-"Ew, she's even eating the mud."[pcms]
+[ns]女Ｂ[nse]
+「うぇ、泥まで食べてるよ」[pcms]
 
 *362|
 [fc]
-[ns]Man B[nse]
-"She must be really hungry."[pcms]
+[ns]男Ｂ[nse]
+「相当腹がへってるのかな」[pcms]
 
 ;//[ChrSetEx layer=1 chbase="jin_c3"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,300>
 
 *363|
 [fc]
-[ns]Jin[nse]
-"Don't be stupid. Who eats like that just because they're[r]
-hungry?"[pcms]
+[ns]壬[nse]
+「馬鹿言え。腹が減ってるくらいでこんな食い方するかよ」[pcms]
 
 *364|
 [fc]
-Just like them, who had indulged in pleasure like beasts[r]
-under the influence of drugs, the girl was voraciously[r]
-devouring her hunger like a beast.[pcms]
+薬に狂って獣のように快楽を貪った彼らと同様、[r]
+少女は獣のように食欲を貪っていた。[pcms]
 
 *365|
 [fc]
-[ns]Man A[nse]
-"Maybe she got lost on a camping trip or something?"[pcms]
+[ns]男Ａ[nse]
+「キャンプかなんかで遭難したとか？」[pcms]
 
 *366|
 [fc]
-[ns]Jin[nse]
-"It's not an impossible story, but do you think someone[r]
-would camp in a place like this?"[pcms]
+[ns]壬[nse]
+「ありえない話じゃないが、こんな土地でキャンプする[r]
+　奴がいると思うか？」[pcms]
 
 *367|
 [fc]
-This was not a peaceful nature park. It was a disaster-[r]
-stricken area marked by past tragedies. That's precisely why[r]
-Jin had chosen this place...[pcms]
+ここは平和な自然公園ではない。[r]
+過去の惨劇の記憶が刻まれた被災地だ。[r]
+だからこそ壬もこの地を選んだ……。[pcms]
 
 ;//[ChrSetEx layer=1 chbase="jin_c4"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,300>
 
 *368|
 [fc]
-[ns]Jin[nse]
-"...What to do now?"[pcms]
+[ns]壬[nse]
+「……どうするかな」[pcms]
 
 *369|
 [fc]
-She didn't seem like a normal human, but since she had seen[r]
-their rave, they couldn't just leave her be.[pcms]
+普通の人間ではないようだが、自分らのレイヴを見られた以上[r]
+放置するわけにもいかない。[pcms]
 
 *370|
 [fc]
-"Should we just get rid of her?"[pcms]
+『始末してしまうか？』[pcms]
 
 *371|
 [fc]
-Such words came to mind. If they buried her somewhere in[r]
-this land, they could bury everything in darkness.[pcms]
+そんな言葉が頭に浮かぶ。[r]
+この地のどこかへ埋めてしまえば、すべてを闇に葬れる。[pcms]
 
 *372|
 [fc]
-But regardless of whether it became public or not, even Jin[r]
-would be lying if he said he had no hesitation about[r]
-committing murder.[pcms]
+だが、表ざたになるならないは別にして、流石の壬も殺人を[r]
+犯すのはためらいがないと言えば嘘になる。[pcms]
 
 *373|
 [fc]
-Even without moral scruples, the risks involved with drug[r]
-crimes were of a different magnitude. If word got out from[r]
-one of the participants, it would be his ruin.[pcms]
+良心の呵責はなくとも、薬物犯罪とは背負うリスクの桁が違う。[r]
+もし参加者の口から洩れでもしたら身の破滅だ。[pcms]
 
 *374|
 [fc]
-And the conclusion Jin reached after a few seconds of[r]
-conflict was--[pcms]
+そしてほんの数秒の葛藤で出した壬の結論は――[pcms]
 
 *375|
 [fc]
-[ns]Jin[nse]
-"Hey, can you understand my words?"[pcms]
+[ns]壬[nse]
+「おい、俺の言葉……わかるか？」[pcms]
 
 *376|
 [fc]
-It was further information gathering. Without rushing, he[r]
-decided to first find out who or what she was.[pcms]
+さらなる情報の収集だった。[r]
+焦らず、まずは相手が何者かを知ることにした。[pcms]
 
 ;//<ImageInit 1><ImageInit 2>
 ;//[ChrSetEx layer=1 chbase="tomomi_d5"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,1000>
@@ -2381,35 +2332,34 @@ decided to first find out who or what she was.[pcms]
 [fc]
 [vo_mob s="tomomi0001"]
 [ns]？？？[nse]
-"Ah?"[pcms]
+「あぅっ？」[pcms]
 
 [evcg storage="EV001b"][trans_c cross time=300]
 
 *378|
 [fc]
-When Jin stepped closer and spoke to her, the girl finally[r]
-raised her face in response to his words.[pcms]
+一歩近づいて声をかけた壬の言葉にようやく反応した[r]
+少女が顔をあげた。[pcms]
 
 *379|
 [fc]
-[ns]Jin[nse]
-"What!? This girl..."[pcms]
+[ns]壬[nse]
+「っ！？　こ、こいつ……」[pcms]
 
 *380|
 [fc]
-[ns]Man A[nse]
-"Her eyes... they're bright red."[pcms]
+[ns]男Ａ[nse]
+「目……真っ赤だ」[pcms]
 
 *381|
 [fc]
-They hadn't noticed while she was looking down and[r]
-scavenging for leftovers, but upon closer inspection, the[r]
-girl's eyes were clearly suffused with an abnormal red glow,[r]
-different from simple bloodshot eyes.[pcms]
+うつむいて残飯を漁る姿では気付かなかったが、改めて[r]
+直視した少女の目は明らかに充血とは異なる[r]
+異様な赤い光を帯びていた。[pcms]
 
 *382|
 [fc]
-Her pupils were dyed a deep crimson as if oozing blood.[pcms]
+血をにじませたように、瞳孔が真紅に染まっていたのだ。[pcms]
 
 ;//[ChrSetEx layer=1 chbase="tomomi_d2"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,300>
 
@@ -2417,23 +2367,21 @@ Her pupils were dyed a deep crimson as if oozing blood.[pcms]
 [fc]
 [vo_mob s="tomomi0002"]
 [ns]？？？[nse]
-"Abuuh, uguh, ubaah, ubaaah?"[pcms]
+「あっぶぅっ、うぐっ、うばぁ、うばあぁ？」[pcms]
 
 *384|
 [fc]
-As the girl began to walk unsteadily towards them while[r]
-making unintelligible sounds, Jin and the others stood[r]
-dumbfounded.[pcms]
+唖然とする壬達の方へと、言葉にならない声を出しながら[r]
+少女はフラフラと歩きはじめた。[pcms]
 
 *385|
 [fc]
-"She's completely gone..."[pcms]
+『完全にイッちまってんな……』[pcms]
 
 *386|
 [fc]
-While retreating and keeping their distance, it was[r]
-impressive that Jin could still come up with such a calm[r]
-answer amidst the situation.[pcms]
+周囲の連中と共に後ずさりながらも、そんな答えを[r]
+冷静に出せたのは見事だと言えるだろう。[pcms]
 
 ;//[ChrSetEx layer=1 chbase="tomomi_d4"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,300>
 
@@ -2441,226 +2389,216 @@ answer amidst the situation.[pcms]
 [fc]
 [vo_mob s="tomomi0003"]
 [ns]？？？[nse]
-"Ubaaahh, ubuuu..."[pcms]
+「うばぁぁっ、うぶぅぅ……」[pcms]
 
 *388|
 [fc]
-As they backed away to keep their distance, the girl didn't[r]
-try to follow any further and instead began to greedily pick[r]
-up and eat the leftover food mixed with insect carcasses.[pcms]
+後ろに下がって距離をとると、少女は特にそれ以上[r]
+近寄ろうとはせず、再び虫の死骸がまじった[r]
+残飯を手に取ると貪り始めた。[pcms]
 
 *389|
 [fc]
-[ns]Man A[nse]
-"What the hell is this..."[pcms]
+[ns]男Ａ[nse]
+「な、なんだよこれ……」[pcms]
 
 *390|
 [fc]
-The girl was no longer even recognized as human by them.[pcms]
+すでに少女は彼らにとって人とさえ認識されなくなった。[pcms]
 
 *391|
 [fc]
-Mixed with the booming music spun by the DJ, was the sound[r]
-of the red-eyed girl voraciously consuming her "food."[pcms]
+ＤＪが廻し続ける爆音に混ざり、赤い目の少女が『食料』を[r]
+貪り喰う音。[pcms]
 
 *392|
 [fc]
-The men and women could only continue to watch.[pcms]
+それをただ見続けている男女達。[pcms]
 
 *393|
 [fc]
-A woman looked at the red-eyed girl with fear in her eyes[r]
-and opened her trembling mouth.[pcms]
+一人の女が、赤い目の少女を怯えたような目で見つめ、[r]
+震える口を開く。[pcms]
 
 *394|
 [fc]
 [vo_mob s="onnaA0003"]
-[ns]Woman A[nse]
-"I've heard about this..."[pcms]
+[ns]女Ａ[nse]
+「わたし、聞いたことある……」[pcms]
 
 *395|
 [fc]
-[ns]Jin[nse]
-"Heard about what?"[pcms]
+[ns]壬[nse]
+「なにをだ？」[pcms]
 
 *396|
 [fc]
 [vo_mob s="onnaA0004"]
-[ns]Woman A[nse]
-"The urban legend of the red eyes!"[pcms]
+[ns]女Ａ[nse]
+「赤眼の都市伝説だよ！」[pcms]
 
 *397|
 [fc]
-"The urban legend related to red eyes" was associated with[r]
-an incident that occurred during the reconstruction efforts[r]
-in this disaster-stricken region.[pcms]
+『赤い目にまつわる都市伝説』[r]
+それは被災地となったこの地域の復興事業の際に起きた[r]
+事件にまつわるものだった。[pcms]
 
 *398|
 [fc]
-A truck carrying materials for road restoration work to the[r]
-affected area found a girl wandering aimlessly by the[r]
-roadside and took her in for protection.[pcms]
+感染被害地へ向かう道路復旧作業の資材運搬のトラックが[r]
+道端をフラフラと歩く少女を発見して保護し、車に乗せた。[pcms]
 
 *399|
 [fc]
-And a week later... everyone from the truck driver to the[r]
-material storage manager and workers all mysteriously[r]
-disappeared.[pcms]
+そして１週間後……トラックの運転手から資材置き場の[r]
+管理者、作業員に至るまで、全員が謎の失踪を遂げる。[pcms]
 
 *400|
 [fc]
-The investigation team only found the operation log that[r]
-mentioned the girl had been on board...[pcms]
+調査隊が発見したのは、少女を乗せたという[r]
+運行記録だけだった……。[pcms]
 
 *401|
 [fc]
-Additionally, as part of the reconstruction efforts, a[r]
-regular bus service was being operated as a means of[r]
-transportation to the infected area.[pcms]
+また、感染地域への交通手段として、復興事業の一環として[r]
+バスの定期路線が運行されていた。[pcms]
 
 *402|
 [fc]
-One day, a bus carrying several passengers was en route to[r]
-the disaster area when it came across a girl sitting in the[r]
-middle of the road.[pcms]
+ある日、数名の乗客を乗せたバスは被災地へと走行中、[r]
+道路の真ん中に座りこんだ少女を発見する。[pcms]
 
 *403|
 [fc]
-The bus driver stopped the bus with an emergency brake to[r]
-protect the girl, contacted via radio, and decided to take[r]
-her to the disaster area.[pcms]
+急ブレーキでバスを止めた運転手は少女を保護、[r]
+無線で連絡して被災地へと連れて行くことになった。[pcms]
 
 *404|
 [fc]
-However, the bus never arrived at the disaster area at the[r]
-scheduled time and eventually disappeared along with all its[r]
-passengers.[pcms]
+しかし、定刻になってもバスは被災地には到着せず、[r]
+結局そのまま乗客もろとも忽然と消えてしまう。[pcms]
 
 *405|
 [fc]
-All possibilities such as an accident during operation were[r]
-verified and investigated, but the only thing found was the[r]
-brake marks on the road reported via radio...[pcms]
+運行中の事故など、あらゆる面から検証、[r]
+調査が行われたが、発見されたのは無線報告のあった[r]
+道路上のブレーキ跡だけだった……。[pcms]
 
 *406|
 [fc]
-And it seems that there are whispers that the girl had "red[r]
-eyes."[pcms]
+そして、その少女は「赤い目」をしていたという話が、[r]
+まことしやかに囁かれているらしいのだ。[pcms]
 
 *407|
 [fc]
-[ns]Man A[nse]
-"So... this is that red-eyed..."[pcms]
+[ns]男Ａ[nse]
+「じゃあ……こ、これがその赤い目の」[pcms]
 
 *408|
 [fc]
-[ns]Man B[nse]
-"Jin-san, isn't this kind of bad?"[pcms]
+[ns]男Ｂ[nse]
+「壬さん、なんかこれ、ヤバくないっすか？」[pcms]
 
 *409|
 [fc]
-[ns]Jin[nse]
-"It might be..."[pcms]
+[ns]壬[nse]
+「かもしれないな……」[pcms]
 
 *410|
 [fc]
-Jin's words were sincere. He had smartly and swiftly dealt[r]
-with most troubles and problems and had confidence in his[r]
-ability to do so.[pcms]
+壬の素直な言葉だった。大抵のトラブルも問題も[r]
+スマートに迅速に処理してきたし、できる自信がある。[pcms]
 
 *411|
 [fc]
-Even Jin was perplexed by an urban legend that wasn't in any[r]
-official records or announcements.[pcms]
+そんな壬でさえ、公式記録にもなければ[r]
+公式発表もされていない都市伝説相手に、困惑していた。[pcms]
 
 *412|
 [fc]
-He wasn't trembling with occult excitement like the others.[r]
-It was about how to judge and deal with the match between[r]
-the urban legend and the girl who existed in reality before[r]
-him.[pcms]
+他の連中のようにオカルト気分で震えているわけではない。[r]
+都市伝説と、目の前に現実として存在する少女。[r]
+その符号の合致をどのように判断し、処理するか。[pcms]
 
 *413|
 [fc]
-If one were to take the urban legend at face value, she was[r]
-a demonic girl who caused mass disappearances. Kill her,[r]
-bury her--and everything would be resolved with a demon[r]
-extermination.[pcms]
+都市伝説を額面通りに受け取るなら、集団失踪を招く魔性の少女。[r]
+殺して、埋めてしまえば――[r]
+悪魔退治で万事解決だ。[pcms]
 
 *414|
 [fc]
-But what if she was just a person with an identity who[r]
-coincidentally resembled the urban legend?[pcms]
+だが、都市伝説に偶然酷似しているだけの、[r]
+実は身元がある人間だったら？[pcms]
 
 *415|
 [fc]
-Creepy or not, insane or not, red eyes or not, murder is[r]
-murder. The risk involved would be significant.[pcms]
+不気味でも、イカれていても、目が赤くても、殺人は殺人。[r]
+背負うリスクは大きなものとなる。[pcms]
 
 *416|
 [fc]
-Besides, this girl's behavior was clearly not normal.[pcms]
+それに、この少女の様子は、明らかに普通のものではない。[pcms]
 
 *417|
 [fc]
-She didn't seem to have her wits about her at all. Since[r]
-there's no risk of her reporting or testifying about the[r]
-rave, it would be safest to leave her be.[pcms]
+そもそも、まともに頭が回っていないようだ。[r]
+レイヴについて通報や証言をされる危険がないのだから、[r]
+このまま放置が無難だろう。[pcms]
 
 ;//<ImageInit 1><ImageInit 2>
 ;//[ChrSetEx layer=1 chbase="jin_c1"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,1000>
 
 *418|
 [fc]
-[ns]Jin[nse]
-"...Give all the leftovers to her. Once she's full, she'll[r]
-probably disappear on her own."[pcms]
+[ns]壬[nse]
+「……食いものはこいつに全部くれてやれ。[r]
+　腹が膨れたら、勝手にどこかへ消えるだろ」[pcms]
 
 *419|
 [fc]
 [vo_mob s="onnaA0005"]
-[ns]Woman A[nse]
-"But..."[pcms]
+[ns]女Ａ[nse]
+「で、でも……」[pcms]
 
 ;//[ChrSetEx layer=1 chbase="jin_c3"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,300>
 
 *420|
 [fc]
-[ns]Jin[nse]
-"Do you think it'll fly if you say you killed her because[r]
-she had a split mouth, or because she was weak to pomade,[r]
-just like in the urban legend?"[pcms]
+[ns]壬[nse]
+「お前は都市伝説通り、口が裂けてたから、[r]
+　ポマードに弱かったから殺しましたって[r]
+　言い分が通ると思ってるのか？」[pcms]
 
 *421|
 [fc]
 [vo_mob s="onnaA0006"]
-[ns]Woman A[nse]
-"Eh?"[pcms]
+[ns]女Ａ[nse]
+「えっ？」[pcms]
 
 ;//[ChrSetEx layer=1 chbase="jin_c2"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,300>
 
 *422|
 [fc]
-[ns]Jin[nse]
-"She's just scavenging leftovers. There's nothing we can do[r]
-if words don't reach her, right?"[pcms]
+[ns]壬[nse]
+「むこうは残飯漁ってるだけ。[r]
+　言葉が通じない以上どうすることもできないだろ？」[pcms]
 
 *423|
 [fc]
 [vo_mob s="onnaA0007"]
-[ns]Woman A[nse]
-"...Right."[pcms]
+[ns]女Ａ[nse]
+「……そ、そうね」[pcms]
 
 *424|
 [fc]
-[ns]Man B[nse]
-"It does feel dangerous, but maybe Jin-san is right."[pcms]
+[ns]男Ｂ[nse]
+「ヤバい感じはするけど、壬さんの言う通りかも」[pcms]
 
 *425|
 [fc]
-[ns]Jin[nse]
-"Now that we've reached a conclusion, it's time to wrap[r]
-things up..."[pcms]
+[ns]壬[nse]
+「さあ結論がでたんだ。そろそろ引き上げの……」[pcms]
 
 
 [bg storage="bg010"][trans_c cross time=500]
@@ -2670,85 +2608,85 @@ things up..."[pcms]
 
 *426|
 [fc]
-[ns]Dazai[nse]
-"Hey, Jin! How many times do I have to call you before[r]
-you're satisfied!!"[pcms]
+[ns]太宰[nse]
+「おい、壬！[r]
+　ワレ何回呼ばせれば気が済むんじゃ！！」[pcms]
 
 *427|
 [fc]
-Just as one problem was resolved, another one flew in[r]
-towards Jin.[pcms]
+一つの問題が解決した矢先に、もう一つの問題が[r]
+壬のもとに舞い込んできた。[pcms]
 
 *428|
 [fc]
-[ns]Jin[nse]
-"Sorry, Dazai-san. We had a little trouble..."[pcms]
+[ns]壬[nse]
+「すんません太宰さん。ちょっとしたトラブルでして……」[pcms]
 
 [ChrSetEx layer=2 chbase="dazai_a1"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *429|
 [fc]
-[ns]Dazai[nse]
-"What excuses are you spouting? It's your job not to bore[r]
-me."[pcms]
+[ns]太宰[nse]
+「何言い訳こいとるんや。[r]
+　ワシを退屈させないのがお前の仕事やろ」[pcms]
 
 *430|
 [fc]
-[ns]Jin[nse]
-"Ah, yes... my apologies."[pcms]
+[ns]壬[nse]
+「あ、はい……すんませんでした」[pcms]
 
 *431|
 [fc]
-[ns]Dazai[nse]
-"You can't even manage a kids' gathering like this. You're[r]
-useless."[pcms]
+[ns]太宰[nse]
+「こんなガキの集会ひとつ仕切れんとは[r]
+　使えんやっちゃのぅ」[pcms]
 
 *432|
 [fc]
-[ns]Jin[nse]
-"...So, what can I do for you?"[pcms]
+[ns]壬[nse]
+「……あの、それでご用件はなんでしょう」[pcms]
 
 [ChrSetEx layer=2 chbase="dazai_a3"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *433|
 [fc]
-[ns]Dazai[nse]
-"Oi, prepare the next drugs and women."[pcms]
+[ns]太宰[nse]
+「おう、次の薬と女用意しろや」[pcms]
 
 *434|
 [fc]
-Jin was inwardly exasperated by Dazai's bottomless desires,[r]
-as he had been enjoying himself so flamboyantly just before[r]
-and still wasn't satisfied...[pcms]
+先ほどまであれだけ派手に楽しんでおいて、[r]
+まだ足りないとは……。[r]
+太宰の底なしの欲望に、壬は内心あきれ果てた。[pcms]
 
 *435|
 [fc]
-[ns]Jin[nse]
-"Dawn is approaching soon. It might be difficult given the[r]
-time..."[pcms]
+[ns]壬[nse]
+「そろそろ夜が明けます。[r]
+　時間的に厳しいのではないでしょうか？」[pcms]
 
 *436|
 [fc]
-Jin's opinion was perfectly reasonable. They didn't need to[r]
-worry about being seen day or night, but during the day it[r]
-gets warmer and it's unreasonable to enjoy outdoors.[pcms]
+壬の意見は至極当然なものだった。昼夜を問わず人目は[r]
+気にしないでいいが、日中は気温も上がるし[r]
+屋外で楽しむのは無理がある。[pcms]
 
 [ChrSetEx layer=2 chbase="dazai_a1"][ChrSetXY layer=2 x=320 y=0][trans_c cross time=150]
 
 *437|
 [fc]
-[ns]Dazai[nse]
-"What? Is it that time already?"[pcms]
+[ns]太宰[nse]
+「なんや、もうそんな時間か」[pcms]
 
 *438|
 [fc]
-[ns]Jin[nse]
-"Yes. I'll make it up to you next time, so for today..."[pcms]
+[ns]壬[nse]
+「はい。埋め合わせはまたしますんで今日のところは……」[pcms]
 
 *439|
 [fc]
-And as Jin bowed his head, the girl who had been devouring[r]
-leftovers behind him suddenly stood up.[pcms]
+と、壬が頭を下げた時、後ろで残飯を貪っている[r]
+少女がむくりと立ち上がった。[pcms]
 
 
 ;//[ChrSetEx layer=1 chbase="tomomi_d6"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,1000>
@@ -2758,42 +2696,42 @@ leftovers behind him suddenly stood up.[pcms]
 [fc]
 [vo_mob s="tomomi0004"]
 [ns]？？？[nse]
-"Ubaa?"[pcms]
+「うばぁ？」[pcms]
 
 *441|
 [fc]
-[ns]Dazai[nse]
-"Hmm? What's this now..."[pcms]
+[ns]太宰[nse]
+「んっ？　なんやこいつは……」[pcms]
 
 *442|
 [fc]
-While inwardly thinking it was a hassle, Jin knew there was[r]
-no hiding it since Dazai had taken notice.[pcms]
+面倒なことになったなと内心思いつつも、[r]
+太宰の目にとまった以上隠しようがない。[pcms]
 
 *443|
 [fc]
-[ns]Jin[nse]
-"This is that... trouble I mentioned earlier."[pcms]
+[ns]壬[nse]
+「これがその……先ほどいいましたトラブルでして」[pcms]
 
 *444|
 [fc]
-[ns]Dazai[nse]
-"Isn't she one of your members?"[pcms]
+[ns]太宰[nse]
+「お前のところのメンバーじゃないんか？」[pcms]
 
 *445|
 [fc]
-[ns]Jin[nse]
-"No, she is what you might call... a stray."[pcms]
+[ns]壬[nse]
+「いえ、こいつは何と言うか……野良です」[pcms]
 
 *446|
 [fc]
-[ns]Dazai[nse]
-"What? A stray human?!"[pcms]
+[ns]太宰[nse]
+「なんや、野良人間かっ！」[pcms]
 
 *447|
 [fc]
-Dazai laughed at Jin's joke-like words and fearlessly stared[r]
-at the strange girl with red eyes.[pcms]
+壬の冗談めいた言葉に笑う太宰は、特に怖気づくこともなく[r]
+異様な赤い眼の少女を見詰めた。[pcms]
 
 ;//[ChrSetEx layer=1 chbase="tomomi_d2"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,300>
 [evcg storage="EV001b"][trans_c cross time=300]
@@ -2802,91 +2740,91 @@ at the strange girl with red eyes.[pcms]
 [fc]
 [vo_mob s="tomomi0005"]
 [ns]？？？[nse]
-"Uhh, ubuuu... baubau!"[pcms]
+「うっ、うぶぅぅ……ばぅばぅっ」[pcms]
 
 *449|
 [fc]
-[ns]Dazai[nse]
-"Whoa, what's with her... Her eyes are completely red!"[pcms]
+[ns]太宰[nse]
+「うおっ、なんじゃこいつ……。目が真っ赤やないか！」[pcms]
 
 *450|
 [fc]
-[ns]Jin[nse]
-"I don't fully understand it myself... But as you can see,[r]
-she's a weird one."[pcms]
+[ns]壬[nse]
+「自分にもよく分からないんですが……。[r]
+　まあ見ての通り、変なやつでして」[pcms]
 
 *451|
 [fc]
-[ns]Dazai[nse]
-"Bloodshot from staying up all night? And she's quite filthy[r]
-too..."[pcms]
+[ns]太宰[nse]
+「徹夜のしすぎで充血したんか？[r]
+　しかも派手に汚れくさっとるのぅ……」[pcms]
 
 *452|
 [fc]
-[ns]Jin[nse]
-"Well, she's always like this... It seems fine to just leave[r]
-her be."[pcms]
+[ns]壬[nse]
+「まぁ、コイツはずっとこんな状態なので……。[r]
+　放置で問題なさそうです」[pcms]
 
 *453|
 [fc]
-[ns]Dazai[nse]
-"However... upon closer inspection, she's quite the beauty."[pcms]
+[ns]太宰[nse]
+「しかし……よく見るとなかなかの上玉やぞ」[pcms]
 
 *454|
 [fc]
-Jin's eyes widened at Dazai's tasteless remark. He could[r]
-understand the words, but with her eerie eye color and[r]
-behavior that didn't seem sane...[pcms]
+太宰の悪趣味極まりない発言に壬は目を剥いた。[r]
+言葉の意味は理解できるが、不気味な眼の色、[r]
+正気とは思えない行動と言動。[pcms]
 
 *455|
 [fc]
-For Jin, she was by no means an object of sexual interest.[pcms]
+壬には到底性の対象として見る気にはなれない存在だ。[pcms]
 
 *456|
 [fc]
-[ns]Dazai[nse]
-"She's dirty now, but we can just wash her off."[pcms]
+[ns]太宰[nse]
+「今は汚れとるが、洗えばええやろ」[pcms]
 
 *457|
 [fc]
-[ns]Jin[nse]
-"That... we don't have the facilities to wash her here."[pcms]
+[ns]壬[nse]
+「その……ここには洗う設備はありません」[pcms]
 
 *458|
 [fc]
-This was a mountainous area untouched by human hands. Apart[r]
-from a campsite, there was no way there would be shower[r]
-facilities.[pcms]
+人の手が全く入っていない山間部である。[r]
+キャンプ地ならいざ知らず、[r]
+シャワー設備などあるはずもなかった。[pcms]
 
 *459|
 [fc]
-[ns]Dazai[nse]
-"Then we'll take her back to Tokyo and wash her there.[r]
-Alright, I'll take this one as a souvenir."[pcms]
+[ns]太宰[nse]
+「なら東京へ持ちかえって洗えばええ。[r]
+　よし、ワシはこいつを土産に持ち帰るぞ」[pcms]
 
 *460|
 [fc]
-[ns]Jin[nse]
-"Are you serious... I mean, understood."[pcms]
+[ns]壬[nse]
+「ほ、本気……いえ、わかりました」[pcms]
 
 *461|
 [fc]
-If he was told to display rotten meat on an altar, he had no[r]
-reason to refuse.[pcms]
+腐った死肉でも祭壇に掲げよというのなら、[r]
+拒む理由はない。[pcms]
 
 *462|
 [fc]
-With a cold gaze, Jin decided to follow Dazai's[r]
-instructions.[pcms]
+壬は冷ややかな目で太宰を見つめながら、[r]
+指示に従うことにした。[pcms]
 
 ;//[ChrSetEx layer=1 chbase="tomomi_d8"][ChrSetXY layer=1 x=160 y=0]<UpDate Cross,300>
 [evcg storage="EV001c"][trans_c cross time=300]
 
 *463|
 [fc]
-Whether she understood their exchange or not... The girl[r]
-with red eyes slightly curled her lips, smeared with[r]
-leftover food.[pcms]
+そんなやり取りを理解しているのかいないのか……。[r]
+赤い眼の少女は残飯のこびりついた口元を[r]
+微かにほころばせた。[pcms]
 
 ;//〆：insomnia　フェードアウト
 ;[fadeoutbgm time=500]

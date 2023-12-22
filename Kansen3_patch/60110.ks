@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：;//〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：6k前後
@@ -21,158 +21,157 @@
 
 *766|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……ゆ、うほ…………」[pcms]
 
 *767|
 [fc]
-Rubbing skin while calling out her name.[pcms]
+名前を呼びながら肌をこすりつける。[pcms]
 
 *768|
 [fc]
-I wonder... I feel so... fulfilled.[pcms]
+なんだろう……。ボク……すごく……満たされている。[pcms]
 
 *769|
 [fc]
-All the anxiety and fear have disappeared somewhere.[pcms]
+不安や恐怖は何処かへ消えてしまった。[pcms]
 
 *770|
 [fc]
-The joy of being united with Yuuho and the sense of[r]
-liberation from all worries fill my heart.[pcms]
+その代わりに悠帆と結ばれた喜びや、[r]
+全ての悩みから解放された開放感で、心が一杯になっている。[pcms]
 
 *771|
 [fc]
-[ns]Wataru[nse]
-"Hehehe...hehehehe, haha. Hahahahaha!"[pcms]
+[ns]航[nse]
+「ふふふ……ふふふふ、あは。あはははっ」[pcms]
 
 *772|
 [fc]
-Overwhelmed by an unprecedented sense of bliss, I can't help[r]
-but burst into laughter.[pcms]
+かつてない多幸感に、ボクは思わず笑い出してしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *773|
 [fc]
 [vo_yuh s="yuho_YK0103"]
-[ns]Yuuho[nse]
-"...Mmmm...? Hehe, he... uhuhuhu... kuhahahahaha...!"[pcms]
+[ns]悠帆[nse]
+「……んんん……？　ふふ、ふ……っ、[r]
+　うふふふふ……、くあーっはははは…………っ……」[pcms]
 
 *774|
 [fc]
-[ns]Wataru[nse]
-"Ahahahaha, ahahahah, hahahahahaha!!"[pcms]
+[ns]航[nse]
+「あはははは、あはははっ、ははっははははは！！」[pcms]
 
 *775|
 [fc]
-Influenced by me, Yuuho also starts laughing out loud.[pcms]
+つられたのか、悠帆も大きく口を開けて笑う。[pcms]
 
 *776|
 [fc]
-We laughed together for a while.[pcms]
+ボクたちはひとしきり、笑いあった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e34"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *777|
 [fc]
 [vo_yuh s="yuho_YK0104"]
-[ns]Yuuho[nse]
-"...Hey...? Do you get it?"[pcms]
+[ns]悠帆[nse]
+「……ねぇ……？　わかったぁ？」[pcms]
 
 *778|
 [fc]
-While rubbing her teary red eyes from laughing too much,[r]
-Yuuho asks in a spoiled tone.[pcms]
+笑いすぎて涙のにじんだ赤い目をこすりながら、[r]
+悠帆が甘えるように聞いてくる。[pcms]
 
 *779|
 [fc]
 [vo_yuh s="yuho_YK0105"]
-[ns]Yuuho[nse]
-"There was nothing... to be scared of, right?"[pcms]
+[ns]悠帆[nse]
+「ちっとも……怖がる、コト……、なかった、ね？」[pcms]
 
 *780|
 [fc]
-[ns]Wataru[nse]
-"Yeah, I get it. It's true, there's nothing to be afraid[r]
-of..."[pcms]
+[ns]航[nse]
+「うん、分かった。ホントだね、何も怖くない……」[pcms]
 
 *781|
 [fc]
-I didn't know... that being infected could make me feel this[r]
-happy.[pcms]
+知らなかった……。[r]
+感染すると、こんなに幸せな気持ちになれるなんて。[pcms]
 
 *782|
 [fc]
-All the things I've been worrying about seem so foolish now.[pcms]
+今まで色々悩んでいたのが、馬鹿みたいだ。[pcms]
 
 *783|
 [fc]
-[ns]Wataru[nse]
-"Everyone should just get infected quickly, they'd be happy.[r]
-No need to be scared or run away."[pcms]
+[ns]航[nse]
+「みんな、さっさと感染しちゃえば、幸せなのにな。[r]
+　怖い思いもしなくてすむし、逃げ回る必要もないし」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *784|
 [fc]
 [vo_yuh s="yuho_YK0106"]
-[ns]Yuuho[nse]
-"We want to... tell everyone... too, right...?"[pcms]
+[ns]悠帆[nse]
+「みんな、にも……教えて、あげ、たい、ねえぇ……？」[pcms]
 
 *785|
 [fc]
-We, with our generous hearts, felt that it wouldn't be right[r]
-for only us to be happy.[pcms]
+心の広いボクたちは、[r]
+自分たちだけが幸せになってはいけないように思った。[pcms]
 
 *786|
 [fc]
-Yes... we want to share this wonderful feeling.[pcms]
+そう……、この素晴らしい気持ちを分けてあげたい。[pcms]
 
 *787|
 [fc]
-[ns]Wataru[nse]
-"But how should we tell everyone...? This is something you[r]
-have to experience to understand, right?"[pcms]
+[ns]航[nse]
+「でも、どうやってみんなに伝えたらいいかな……。[r]
+　こればかりは体験してみないと、分からないよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e34"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *788|
 [fc]
 [vo_yuh s="yuho_YK0107"]
-[ns]Yuuho[nse]
-"Hehehe... then, let's give them... the experience...? Let[r]
-everyone... have a taste...?"[pcms]
+[ns]悠帆[nse]
+「ふふふっ……じゃ、して、もらおーよぉぉ……？[r]
+　みんなに……タイケン、させて、あげ、よ……ぉ？」[pcms]
 
 *789|
 [fc]
-Yuuho smiles mischievously with upturned eyes.[pcms]
+いたずらっ子みたいに悠帆が上目遣いに微笑む。[pcms]
 
 *790|
 [fc]
-Just by looking at her face, I immediately understood what[r]
-method she was suggesting to let everyone experience it.[pcms]
+その顔を見るだけで、どんな方法でみんなに[r]
+体験させてあげようとしているか、すぐに分かった。[pcms]
 
 *791|
 [fc]
-[ns]Wataru[nse]
-"...I see. That's a good idea, hehehehe..."[pcms]
+[ns]航[nse]
+「……そっか。それはいいね、へへへへへ……」[pcms]
 
 *792|
 [fc]
-Just the thought of it makes my dick surge with power.[pcms]
+想像するだけで、ペニスに力が漲ってくる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e33"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *793|
 [fc]
 [vo_yuh s="yuho_YK0108"]
-[ns]Yuuho[nse]
-"Ufufufufu... Wataru... you're so naughty, aren't you?"[pcms]
+[ns]悠帆[nse]
+「うふふふふっ………、わたる……、エッチ、だね？」[pcms]
 
 *794|
 [fc]
-Yuuho laughs happily and leans her face towards me.[pcms]
+嬉しそうに笑った悠帆は、ボクに顔を寄せてきた。[pcms]
 
 ;//〆ＨＥＶ０４９
 ;//Ｉ：かりの脇などを、舌で責める悠帆
@@ -181,17 +180,16 @@ Yuuho laughs happily and leans her face towards me.[pcms]
 *795|
 [fc]
 [vo_yuh s="yuho_YK0109"]
-[ns]Yuuho[nse]
-"If you're this energetic... let's do more...?"[pcms]
+[ns]悠帆[nse]
+「こんな、元気なら……、もっと、しよ……ぉ？」[pcms]
 
 *796|
 [fc]
-She teases the sensitive side of my glans with her tongue[r]
-flickering.[pcms]
+敏感な亀頭の脇を、ちろちろと舌で刺激してくる。[pcms]
 
 *797|
 [fc]
-The temptation was a bit enticing but...[pcms]
+その誘惑はちょっと魅力的だったけれど……。[pcms]
 
 ;//〆アルカディア
 [bg storage="BG020a"][trans_c cross time=500]
@@ -199,110 +197,113 @@ The temptation was a bit enticing but...[pcms]
 
 *798|
 [fc]
-[ns]Wataru[nse]
-"No way. If we keep playing around, we'll be found and shot,[r]
-right?"[pcms]
+[ns]航[nse]
+「ダメだよー。[r]
+　いつまでも遊んでると見つかって撃たれちゃうよ？」[pcms]
 
 *799|
 [fc]
-[ns]Wataru[nse]
-"Besides, I want to have SEX with Ren, Maruko-senpai, and[r]
-Mizuki soon. Hehehe..."[pcms]
+[ns]航[nse]
+「それに、早く漣やマル子先輩や瑞樹とも[r]
+　ＳＥＸしたいしね。へへへ……」[pcms]
 
 *800|
 [fc]
-Just imagining their bodies makes my penis twitch and[r]
-quiver.[pcms]
+その肢体を想像するだけで、[r]
+ペニスがびくびくと震えるのが分かった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *801|
 [fc]
 [vo_yuh s="yuho_YK0110"]
-[ns]Yuuho[nse]
-"...Wataru... you pervert... you want to do it with Ren-[r]
-chan...? Even though she's your little sister, huhuhu...?"[pcms]
+[ns]悠帆[nse]
+「……わたる……変態、さん……だぁぁ、[r]
+　漣ちゃん……と、したいんだぁ……？[r]
+　いもぉと、なのにぃ、ふふふっ……？」[pcms]
 
 *802|
 [fc]
-[ns]Wataru[nse]
-"But we're not related by blood, so it doesn't matter."[pcms]
+[ns]航[nse]
+「でも、血は繋がってないし、関係ないよ」[pcms]
 
 *803|
 [fc]
 [vo_yuh s="yuho_YK0111"]
-[ns]Yuuho[nse]
-"Ren-chan... would be happy... she loves you so much..."[pcms]
+[ns]悠帆[nse]
+「漣ちゃん……、喜ぶ、だろうなぁぁ……、[r]
+　わたるの、コト……大好き、だから……ぁぁ」[pcms]
 
 *804|
 [fc]
-[ns]Wataru[nse]
-"Is that so? Hehehehe..."[pcms]
+[ns]航[nse]
+「そっかな。へへへへへ……」[pcms]
 
 *805|
 [fc]
-I'm really looking forward to Ren joining us and being happy[r]
-about it. It's becoming quite exciting.[pcms]
+漣が仲間になって、そして喜んでくれたら……いいな。[r]
+なんだか凄く楽しみになってきたぞ。[pcms]
 
 *806|
 [fc]
-[ns]Wataru[nse]
-"Ah, but... what about the guys?"[pcms]
+[ns]航[nse]
+「あ、でも……男はどうしようか？」[pcms]
 
 *807|
 [fc]
-To make them join us, we need to inject blood or bodily[r]
-fluids into their bodies...[pcms]
+仲間にするには血液とか体液を[r]
+相手の体内に注がないといけないけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e32"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *808|
 [fc]
 [vo_yuh s="yuho_YK0112"]
-[ns]Yuuho[nse]
-"...Ah-... I'll teach them, okay?"[pcms]
+[ns]悠帆[nse]
+「……あー……、わ、わたし……、教えて、あげる、よ？」[pcms]
 
 *809|
 [fc]
-[ns]Wataru[nse]
-"No way!!! Yuuho is mine!!"[pcms]
+[ns]航[nse]
+「ダメだよっ！！！　悠帆はボクのだ！！」[pcms]
 
 *810|
 [fc]
-I shake my head vigorously.[pcms]
+ボクはぶんぶんと頭を振った。[pcms]
 
 *811|
 [fc]
-Why should I let other men have her when I've finally been[r]
-united with my beloved Yuuho!?[pcms]
+大好きな悠帆とせっかく結ばれたっていうのに[r]
+なんで他の男に抱かせなきゃいけないんだ！？[pcms]
 
 *812|
 [fc]
-[ns]Wataru[nse]
-"If it comes to that, I'd rather kill all the men!!!"[pcms]
+[ns]航[nse]
+「そんなことするくらいなら、男は全員殺す！！！」[pcms]
 
 *813|
 [fc]
-Yuuho tilts her head in thought at my vehement protest but[r]
-eventually smiles brightly.[pcms]
+ボクの剣幕に悠帆は首を傾げて考えていたけど、[r]
+やがてニッコリと笑った。[pcms]
 
 *814|
 [fc]
 [vo_yuh s="yuho_YK0113"]
-[ns]Yuuho[nse]
-"...Then... just Kousuke... okay? Not everyone else... but[r]
-Kousuke is okay? Because he's a childhood friend... right?"[pcms]
+[ns]悠帆[nse]
+「……じゃあぁ……、コースケ、だけ……ぇぇ。[r]
+　みんな、は、ダメ……でも、コースケ……は？[r]
+　……幼なじみ、だか、ら……？　いいよ、ねぇ……？」[pcms]
 
 *815|
 [fc]
-[ns]Wataru[nse]
-"I see... That's right. If I can do it with Mizuki in[r]
-return. That would be fair."[pcms]
+[ns]航[nse]
+「そっか……。そうだね。[r]
+　ボクも瑞樹とさせてもらえば。おあいこでいいか」[pcms]
 
 *816|
 [fc]
-"Alright, the plan is pretty much perfect! This is getting[r]
-interesting!"[pcms]
+よーし、だいたいこんな感じで計画はばっちりだ！[r]
+面白いことになってきたぞ！[pcms]
 
 ;//〆黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -310,19 +311,18 @@ interesting!"[pcms]
 *817|
 [fc]
 [vo_yuh s="yuho_YK0114"]
-[ns]Yuuho[nse]
-"...Hehehehe..."[pcms]
+[ns]悠帆[nse]
+「……ふふふふ……っ……」[pcms]
 
 *818|
 [fc]
 [vo_yuh s="yuho_YK0115"]
-[ns]Yuuho[nse]
-"Hyahahaha, hahaha... Fuhahahahaaa!"[pcms]
+[ns]悠帆[nse]
+「ひゃはははっ、ははは……、ふあはははぁぁぁっ！」[pcms]
 
 *819|
 [fc]
-We continued to laugh, thinking about the fun that lay[r]
-ahead.[pcms]
+ボクたちは先々のお楽しみを思って、笑い続けていた。[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]

@@ -21,13 +21,14 @@
 
 *2694|
 [fc]
-Kousuke and Ren were being given a "serious talk" by Yuuho,[r]
-while I finished up the dishes.[pcms]
+コースケと漣が、悠帆から「大切なお話」をされてる間に、[r]
+ボクは洗い物を終わらせた。[pcms]
 
 *2695|
 [fc]
-Then the four of us... that is, a shocked Kousuke and Ren,[r]
-an angrily silent Yuuho, and myself got on the elevator...[pcms]
+そして４人で……、つまり、しょげきったコースケと漣、[r]
+ぷんぷんに怒って黙りこくる悠帆とボクの４人は[r]
+エレベーターに乗り込んだわけだけど……。[pcms]
 
 ;//@konya LESAR エレベータ
 [bg storage="BG120"][trans_c cross time=500]
@@ -35,15 +36,15 @@ an angrily silent Yuuho, and myself got on the elevator...[pcms]
 
 *2696|
 [fc]
-The awkwardness is explosive...[pcms]
+き……気まずさ炸裂だ……。[pcms]
 
 ;//〆背景：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2697|
 [fc]
-Finally released from the torture-like silence, I staggered[r]
-out to the entrance of the manga cafe.[pcms]
+やっと拷問のような無言空間から解放されて、[r]
+ボクはよろよろと漫画喫茶のエントランスに出る。[pcms]
 
 ;//〆背景：漫画喫茶アルカディア（部分照明）
 [bg storage="BG020b"][trans_c cross time=500]
@@ -51,56 +52,56 @@ out to the entrance of the manga cafe.[pcms]
 
 *2698|
 [fc]
-For bedtime, I suppose, the lights on the floor were mostly[r]
-turned off, leaving only the area around the counter, the[r]
-open space, and the library corner lit.[pcms]
+就寝のためだろう、フロアの電気はカウンター付近と[r]
+オープンスペース、ライブラリコーナーだけを残して[r]
+ほとんどが落とされていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2699|
 [fc]
 [vo_mar s="maru1557"]
-[ns]Margarita[nse]
-"...What's wrong?"[pcms]
+[ns]マルガリータ[nse]
+「……どうした？」[pcms]
 
 *2700|
 [fc]
-Maruko-senpai, who was sitting at the counter, looked a bit[r]
-surprised when she saw the four of us.[pcms]
+カウンターに座っていたマル子先輩が、[r]
+ボクたち４人の姿を見て、少しだけ驚いたような顔をした。[pcms]
 
 *2701|
 [fc]
 [vo_mar s="maru1558"]
-[ns]Margarita[nse]
-"Wataru and Kousuke are supposed to be washing dishes... why[r]
-are Kannagi and Ren here too?"[pcms]
+[ns]マルガリータ[nse]
+「ワタルとコースケは皿洗いだろうが……、[r]
+　なぜ、カンナギとレンまで？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2702|
 [fc]
 [vo_yuh s="yuho1621"]
-[ns]Yuuho[nse]
-"It's nothing! Goodnight!"[pcms]
+[ns]悠帆[nse]
+「なんでもありません！　おやすみなさいっ！」[pcms]
 ;//＠ぷりぷりしている
 
 *2703|
 [fc]
-With her anger still not subsided, Yuuho quickly walked away[r]
-to the back.[pcms]
+怒りのおさまらない勢いそのままに、[r]
+悠帆はさっさと奥に立ち去ってしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2704|
 [fc]
 [vo_ren s="ren1395"]
-[ns]Ren[nse]
-"Um, that is, well..."[pcms]
+[ns]漣[nse]
+「あのっ、そ、それは、えっとぉ……」[pcms]
 
 *2705|
 [fc]
-Ren, who was inevitably given a curious look by the senior,[r]
-flustered and waved her hands meaninglessly.[pcms]
+必然的に、先輩から不思議そうな目を向けられた漣が[r]
+あわあわと意味もなく手を振り回しながらうろたえる。[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -122,137 +123,140 @@ flustered and waved her hands meaninglessly.[pcms]
 *2706|
 [fc]
 [vo_yuh s="yuho1622"]
-[ns]Yuuho[nse]
-"...Mmm..."[pcms]
+[ns]悠帆[nse]
+「……んっ……」[pcms]
 
 *2707|
 [fc]
-And suddenly, Yuuho staggered and leaned against the wall.[pcms]
+と、急に悠帆がよろめいて壁にもたれかかった。[pcms]
 
 *2708|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!?"[pcms]
+[ns]航[nse]
+「悠帆っ！？」[pcms]
 
 ;//〆ＥＶ０１３　悠帆のＵＰ
 
 *2709|
 [fc]
-[ns]Wataru[nse]
-"What's wrong, Yuuho? Are you okay?"[pcms]
+[ns]航[nse]
+「どうした、悠帆。大丈夫か？」[pcms]
 
 *2710|
 [fc]
-In a panic, I rushed over and peered into Yuuho's face.[pcms]
+慌てて駆け寄ったボクは、悠帆の顔を覗きこむ。[pcms]
 
 *2711|
 [fc]
-Somehow... her face is red. Could it be that she's not angry[r]
-but has a fever?[pcms]
+なんだか……顔が赤くなってる。[r]
+これ、もしかして怒ってるとかじゃなくて熱があるのか？[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2712|
 [fc]
 [vo_ren s="ren1396"]
-[ns]Ren[nse]
-"Now that you mention it... she looked unwell even when she[r]
-was cooking earlier..."[pcms]
+[ns]漣[nse]
+「そういえば……[r]
+　さっき、お料理してた時も、[r]
+　具合悪そうだったよね……？」[pcms]
 ;//＠心配
 
 *2713|
 [fc]
-[ns]Wataru[nse]
-"Eh?? If you had told me, I wouldn't have made you prepare[r]
-the meal."[pcms]
+[ns]航[nse]
+「え？？[r]
+　そんなの、言ってくれれば[r]
+　無理に食事の用意なんかさせなかったのに」[pcms]
 
 *2714|
 [fc]
-Yuuho shook her head weakly at our arguing.[pcms]
+言い合うボクたちに、悠帆はゆるゆると首を振った。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2715|
 [fc]
 [vo_yuh s="yuho1623"]
-[ns]Yuuho[nse]
-"...I'm fine. Probably just... tension loosening up or...[r]
-just tiredness coming out... don't worry."[pcms]
+[ns]悠帆[nse]
+「……だ、大丈夫だよ。[r]
+　たぶん……緊張がゆるんだせい、とか……、[r]
+　疲れが出ただけだから……心配ないよ」[pcms]
 
 *2716|
 [fc]
-[ns]Wataru[nse]
-"...If you say so..."[pcms]
+[ns]航[nse]
+「……それなら、いいけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2717|
 [fc]
 [vo_yuh s="yuho1624"]
-[ns]Yuuho[nse]
-"Mmm..."[pcms]
+[ns]悠帆[nse]
+「ん…………」[pcms]
 
 *2718|
 [fc]
-Yuuho's gaze caught mine.[pcms]
+悠帆の視線がボクを捉えた。[pcms]
 
 *2719|
 [fc]
-We ended up staring at each other again like before... but,[r]
-what is it, the atmosphere feels a bit different...?[pcms]
+またさっきみたいに見つめあう形になったけど……、[r]
+あれ、何だろう、雰囲気が少し違う……？[pcms]
 
 *2720|
 [fc]
-I can't pinpoint what it is but it feels kind of...[r]
-erotic...?[pcms]
+どこがっていうわけじゃないけど、こう……、[r]
+なんだか……エッチっぽいような……？[pcms]
 
 *2721|
 [fc]
-...No way. It's impossible for Yuuho to have that kind of[r]
-erotic look...[pcms]
+……まさか。[r]
+悠帆がエッチな目なんかするわけない……。[pcms]
 
 *2722|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho?"[pcms]
+[ns]航[nse]
+「……悠帆？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2723|
 [fc]
 [vo_yuh s="yuho1625"]
-[ns]Yuuho[nse]
-"...Ah"[pcms]
+[ns]悠帆[nse]
+「………………っ」[pcms]
 
 *2724|
 [fc]
-Distracted, Yuuho suddenly seemed to realize something and[r]
-looked down.[pcms]
+ぼーっとしていた悠帆は、[r]
+はっと何かに思い当たったようにして、目を伏せる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2725|
 [fc]
 [vo_yuh s="yuho1626"]
-[ns]Yuuho[nse]
-"Anyway... don't worry, really. ...Goodnight."[pcms]
+[ns]悠帆[nse]
+「と、とにかく……心配ないから、ホント。[r]
+　…………おやすみ」[pcms]
 
 *2726|
 [fc]
-Yuuho then moved away from me.[pcms]
+悠帆はそのままボクから離れていく。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2727|
 [fc]
 [vo_mar s="maru1559"]
-[ns]Margarita[nse]
-"Kannagi. Take your time to rest."[pcms]
+[ns]マルガリータ[nse]
+「カンナギ。ゆっくり休んでくれ」[pcms]
 
 *2728|
 [fc]
-Without looking back, Yuuho didn't respond to the senior's[r]
-concerned words.[pcms]
+心配そうな先輩の言葉にも、悠帆は振り返らなかった。[pcms]
 
 ;//ラベル：合流へ
 [jump storage="50490.ks" target=*50490_03]
@@ -266,13 +270,13 @@ concerned words.[pcms]
 *2729|
 [fc]
 [vo_mar s="maru1560"]
-[ns]Margarita[nse]
-"...Seems like there are some complicated circumstances..."[pcms]
+[ns]マルガリータ[nse]
+「………………複雑な事情がありそうだな……」[pcms]
 
 *2730|
 [fc]
-I don't know what she inferred, but the senior decided not[r]
-to pry any further.[pcms]
+何をどう察したのか知らないけれど、[r]
+先輩はそれ以上、突っ込まないでくれることにしたようだ。[pcms]
 
 ;//ラベル：合流へ
 [jump storage="50490.ks" target=*50490_03]
@@ -286,470 +290,474 @@ to pry any further.[pcms]
 *2731|
 [fc]
 [vo_mar s="maru1561"]
-[ns]Margarita[nse]
-"By the way..."[pcms]
+[ns]マルガリータ[nse]
+「ところで……」[pcms]
 
 *2732|
 [fc]
-The senior cleared her throat and looked over at us.[pcms]
+咳払いをひとつした先輩は、ボクらを見渡した。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2733|
 [fc]
 [vo_mar s="maru1562"]
-[ns]Margarita[nse]
-"I found this for you."[pcms]
+[ns]マルガリータ[nse]
+「こんなものを見つけておいた」[pcms]
 
 *2734|
 [fc]
-On top of the counter was a mobile phone charger with[r]
-Yuuho's phone charging.[pcms]
+カウンターの上には携帯電話の充電器が置いてあった。[r]
+悠帆の携帯が充電中になっている。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2735|
 [fc]
 [vo_mar s="maru1563"]
-[ns]Margarita[nse]
-"Once this one is done charging, you guys can use it too."[pcms]
+[ns]マルガリータ[nse]
+「こちらの充電が完了したら、キミたちも使うといい」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2736|
 [fc]
-[ns]Kousuke[nse]
-"Lucky! My battery was about to die."[pcms]
+[ns]浩助[nse]
+「ラッキー！[r]
+　ぼちぼちバッテリー、ヤバかったんだよなー」[pcms]
 
 *2737|
 [fc]
-[ns]Wataru[nse]
-"That's right..."[pcms]
+[ns]航[nse]
+「そうだ……」[pcms]
 
 *2738|
 [fc]
-I took out my own phone thinking of mobiles...[pcms]
+携帯といえば……と、ボクは自分の電話を取り出した。[pcms]
 
 *2739|
 [fc]
-I opened the mail screen but there was still no reply from[r]
-Dad.[pcms]
+メール画面を開いてみたけど、[r]
+父さんからの返信は、まだ届いていない。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2740|
 [fc]
 [vo_ren s="ren1397"]
-[ns]Ren[nse]
-"...It hasn't come..."[pcms]
+[ns]漣[nse]
+「……来てないね……」[pcms]
 ;//＠小声で
 
 *2741|
 [fc]
-Ren, who was looking at the screen with me, let out a[r]
-slightly disappointed voice.[pcms]
+一緒に画面を覗き込んでいた漣が、[r]
+少しだけ残念そうな声を出した。[pcms]
 
 *2742|
 [fc]
-We knew he was safe from the daytime TV broadcast, but[r]
-still, we wanted him to let us know his situation.[pcms]
+昼間のテレビ中継で、無事なことはわかってるけど、[r]
+それでもやっぱり様子を知らせてほしい。[pcms]
 
 *2743|
 [fc]
-It's hard to believe that he's too busy to even send a mail,[r]
-even for my dad who types with one finger.[pcms]
+メールすら打てないくらい忙しいっていう状況も、[r]
+いくら一本指打法の父さんだって、ちょっと考えにくい。[pcms]
 
 *2744|
 [fc]
-[ns]Wataru[nse]
-"...Maybe the battery died."[pcms]
+[ns]航[nse]
+「……もしかしたら電池切れかもしれないね」[pcms]
 
 *2745|
 [fc]
-Ren nodded honestly to my attempt at consolation.[pcms]
+ボクの慰めに漣は素直にうなずいた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2746|
 [fc]
 [vo_mar s="maru1564"]
-[ns]Margarita[nse]
-"Also, I found this."[pcms]
+[ns]マルガリータ[nse]
+「それから、こんなものも見つけた」[pcms]
 
 *2747|
 [fc]
-The senior showed us the mobile phone in her hand.[pcms]
+先輩は手の中の携帯電話を僕らに見せた。[pcms]
 
 *2748|
 [fc]
 [vo_mar s="maru1565"]
-[ns]Margarita[nse]
-"It's probably a mobile phone for the store. We've decided[r]
-to use it for now."[pcms]
+[ns]マルガリータ[nse]
+「おそらく、この店舗用の携帯電話だろう。[r]
+　この際なので、使わせてもらうことにした」[pcms]
 
 *2749|
 [fc]
-The mobile's screen seemed to be in One-Seg mode. But there[r]
-was no broadcast, just a message saying "Please wait a[r]
-while."[pcms]
+携帯の画面はワンセグモードになってるようだ。[r]
+だけど何も映像は流れてなくて[r]
+「しばらくお待ち下さい」の文字が見えているだけだった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2750|
 [fc]
 [vo_mar s="maru1566"]
-[ns]Margarita[nse]
-"...There hasn't been any TV news for about an hour."[pcms]
+[ns]マルガリータ[nse]
+「……ここ１時間ばかり、[r]
+　テレビニュースは流れていない」[pcms]
 
 *2751|
 [fc]
-Understanding the meaning of my gaze, the senior spoke.[pcms]
+ボクの視線の意味を察して、先輩が言う。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2752|
 [fc]
 [vo_ren s="ren1398"]
-[ns]Ren[nse]
-"...Is that so..."[pcms]
+[ns]漣[nse]
+「……そうですか……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2753|
 [fc]
 [vo_mar s="maru1567"]
-[ns]Margarita[nse]
-"However, some news sites on the net are still being[r]
-updated. The information that was confusing at first seems[r]
-to be settling down."[pcms]
+[ns]マルガリータ[nse]
+「ただ、ネットのニュースサイトのいくつかは[r]
+　まだ更新されているところがある。[r]
+　錯綜していた情報も、少し落ち着いてきているようだ」[pcms]
 
 *2754|
 [fc]
-[ns]Wataru[nse]
-"...Ah, really."[pcms]
+[ns]航[nse]
+「……あ、ホントですね」[pcms]
 
 *2755|
 [fc]
-I also displayed the bulletin board I had bookmarked on my[r]
-mobile phone.[pcms]
+ボクも手元の携帯で、ブックマークしておいた掲示板を[r]
+表示してみた。[pcms]
 
 *2756|
 [fc]
-In the short time I hadn't looked, the number of new posts[r]
-had increased significantly.[pcms]
+少し見ていない間に、新規の書き込みが随分と増えている。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2757|
 [fc]
 [vo_ren s="ren1399"]
-[ns]Ren[nse]
-"I wonder where everyone is?"[pcms]
+[ns]漣[nse]
+「みんな、どこにいるのかな？」[pcms]
 
 *2758|
 [fc]
-[ns]Wataru[nse]
-"Who knows... Many people haven't written their location."[pcms]
+[ns]航[nse]
+「どうかな……場所を書いてない人も多いけど」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2759|
 [fc]
 [vo_mar s="maru1568"]
-[ns]Margarita[nse]
-"Most are from shelters or similar facilities, but there are[r]
-some posts that seem to be made while on the move."[pcms]
+[ns]マルガリータ[nse]
+「ほとんどは避難所か、[r]
+　それに類似した施設からの送信だったが、[r]
+　一部に、移動中の書き込みと思われるものもあった」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2760|
 [fc]
-[ns]Kousuke[nse]
-"Maybe they're updating with mobile devices or something."[pcms]
+[ns]浩助[nse]
+「モバイルとかで更新してんのかもしんないっすね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2761|
 [fc]
 [vo_mar s="maru1569"]
-[ns]Margarita[nse]
-"Eventually, reading in detail might be informative."[pcms]
+[ns]マルガリータ[nse]
+「いずれ、詳しく読めば参考になるだろう」[pcms]
 
 *2762|
 [fc]
-The senior softened her expression a bit and smiled shyly.[pcms]
+先輩はそこで少し表情を和らげ、はにかんだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2763|
 [fc]
 [vo_mar s="maru1570"]
-[ns]Margarita[nse]
-"...Also, I've managed to contact my home country. I was[r]
-able to speak with my father and connect with Sesuka."[pcms]
+[ns]マルガリータ[nse]
+「……それと、ワタシも本国との連絡がついた。[r]
+　父とも話すことができたし、セスカとも繋がった」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2764|
 [fc]
 [vo_mar s="maru1571"]
-[ns]Margarita[nse]
-"My father seems to have joined the United States fleet. The[r]
-fleet is anchored near Miyake Island, waiting for[r]
-instructions from the homeland."[pcms]
+[ns]マルガリータ[nse]
+「父は合衆国艦隊に合流したようだ。[r]
+　艦隊は、三宅島近海に停泊して、[r]
+　本国の指示を待っているらしい」[pcms]
 
 *2765|
 [fc]
-According to information from the senior's father, it seems[r]
-that the Third Fleet has been dispatched from the United[r]
-States.[pcms]
+先輩のお父さんからの情報によると、[r]
+合衆国本国から第三艦隊が派遣されてきたらしい。[pcms]
 
 *2766|
 [fc]
-To me, it didn't make much sense, but according to Kousuke,[r]
-there's a big difference in whether helicopters can fly or[r]
-not.[pcms]
+ボクにはあまり意味が分からなかったけど、[r]
+コースケによると「ヘリが飛べるかどうか」という[r]
+大きな差があるらしい。[pcms]
 
 *2767|
 [fc]
-[ns]Wataru[nse]
-"...How about Sesuka-san?"[pcms]
+[ns]航[nse]
+「……セスカさんは？」[pcms]
 
 *2768|
 [fc]
 [vo_mar s="maru1572"]
-[ns]Margarita[nse]
-"She seems to be staying at the garrison in Mishuku."[pcms]
+[ns]マルガリータ[nse]
+「三宿の駐屯地に身を寄せているそうだ」[pcms]
 
 *2769|
 [fc]
 [vo_mar s="maru1573"]
-[ns]Margarita[nse]
-"She sounded more cheerful than I expected, but the[r]
-garrison's facilities are packed with evacuees, and it seems[r]
-like a harsh environment for civilians..."[pcms]
+[ns]マルガリータ[nse]
+「本人は思ったより元気そうな声だったが、[r]
+　駐屯地の施設は、避難してきた人間ですし詰め状態で、[r]
+　民間人には厳しい環境のようだ……」[pcms]
 
 *2770|
 [fc]
-If there's a risk of infected people or creatures, it should[r]
-be impossible to set up tents outside... The evacuation[r]
-camps must be in considerable chaos.[pcms]
+感染者や感染生物の危険があるとなれば、[r]
+屋外にテントを張ることもできないはず……。[r]
+きっと避難キャンプは相当な混乱だろう。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2771|
 [fc]
-[ns]Kousuke[nse]
-"So, us being able to evacuate to LASER might have been[r]
-pretty lucky."[pcms]
+[ns]浩助[nse]
+「そうすっと、ＬＡＳＥＲに避難できたオレらって、[r]
+　かなりラッキーだったのかもなー」[pcms]
 
 *2772|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「そうだね……」[pcms]
 
 *2773|
 [fc]
-It might sound bad for others, but indeed we might be in a[r]
-very fortunate environment.[pcms]
+他の人たちには悪いけど、確かにボクたちは[r]
+すごく恵まれた環境にいるのかもしれない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2774|
 [fc]
 [vo_mar s="maru1574"]
-[ns]Margarita[nse]
-"Then, let's rest here for today."[pcms]
+[ns]マルガリータ[nse]
+「では、今日のところは[r]
+　このへんで休むことにしよう」[pcms]
 
 *2775|
 [fc]
-The senior pointed towards the back of the bookshelf corner.[pcms]
+先輩は本棚コーナーの奥を指差した。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2776|
 [fc]
 [vo_mar s="maru1575"]
-[ns]Margarita[nse]
-"Let's prioritize resting our bodies and use the 'tatami[r]
-private rooms' behind the counter."[pcms]
+[ns]マルガリータ[nse]
+「身体を休めることを優先して、[r]
+　カウンター奥の『お座敷個室』を使うことにしよう」[pcms]
 
 *2777|
 [fc]
-The tatami private rooms are located behind the bookshelf[r]
-corner, with three rooms on each side of the corridor,[r]
-totaling six rooms.[pcms]
+お座敷個室は、本棚コーナーの奥、[r]
+通路を挟んで左右３部屋づつ、合計６部屋ある。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2778|
 [fc]
 [vo_mar s="maru1576"]
-[ns]Margarita[nse]
-"Mizuki and Yuuho are sleeping in the right side of the back[r]
-row. I'll take the next row on the right, and Ren will be on[r]
-the left."[pcms]
+[ns]マルガリータ[nse]
+「奥の列の右側に、瑞樹と悠帆が眠っている。[r]
+　次の列の右はワタシ、漣は左だ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2779|
 [fc]
 [vo_ren s="ren1400"]
-[ns]Ren[nse]
-"Second from the back, on the left... Yes, I understand."[pcms]
+[ns]漣[nse]
+「奥から２番目、左……。[r]
+　はい、わかりました」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2780|
 [fc]
 [vo_mar s="maru1577"]
-[ns]Margarita[nse]
-"I would like you guys to take the rooms at the front..."[pcms]
+[ns]マルガリータ[nse]
+「キミたちには[r]
+　一番手前の部屋に入ってほしいのだが……」[pcms]
 
 *2781|
 [fc]
-The senior turned to face me and Kousuke.[pcms]
+ボクとコースケに、先輩は向き直る。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2782|
 [fc]
-[ns]Kousuke[nse]
-"Hmm. I'd prefer the theater room. I'm quite used to[r]
-sleeping on sofas, so I think I can sleep better there than[r]
-in a tatami room."[pcms]
+[ns]浩助[nse]
+「んー。オレ、シアタールームがいいんすけど。[r]
+　ソファで寝るのは、けっこう慣れてっから[r]
+　お座敷より、よく眠れそうだし」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2783|
 [fc]
 [vo_mar s="maru1578"]
-[ns]Margarita[nse]
-"...It's for caution."[pcms]
+[ns]マルガリータ[nse]
+「……用心のためだ」[pcms]
 
 *2784|
 [fc]
 [vo_mar s="maru1579"]
-[ns]Margarita[nse]
-"We've secured the safety of this building for now, and I[r]
-think we can trust that man Jin... But the other man is[r]
-dangerous."[pcms]
+[ns]マルガリータ[nse]
+「一応、この建物の安全は確保したし、[r]
+　あのジンという男は信用できると思う……。[r]
+　だが、もう一人の男は危険だ」[pcms]
 
 *2785|
 [fc]
 [vo_mar s="maru1580"]
-[ns]Margarita[nse]
-"We don't know what else might happen..."[pcms]
+[ns]マルガリータ[nse]
+「他にも何があるか判らないしな……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2786|
 [fc]
-[ns]Kousuke[nse]
-"So we're sticking together to sleep, then."[pcms]
+[ns]浩助[nse]
+「だから、固まって寝る、と」[pcms]
 
 *2787|
 [fc]
-[ns]Wataru[nse]
-"Are we at the entrance for emergencies?"[pcms]
+[ns]航[nse]
+「ボクたちが入り口っていうのも[r]
+　いざっていう時のためですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2788|
 [fc]
 [vo_mar s="maru1581"]
-[ns]Margarita[nse]
-"That's right."[pcms]
+[ns]マルガリータ[nse]
+「そういうことだ」[pcms]
 
 *2789|
 [fc]
-Maruko-senpai nodded.[pcms]
+マル子先輩はうなずいた。[pcms]
 
 *2790|
 [fc]
-Somehow... this feels a little nice. It's like being relied[r]
-upon as a full- fledged man.[pcms]
+なんだか……こういうのって、ちょっと嬉しい。[r]
+一人前の男として頼られているような気がする。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2791|
 [fc]
 [vo_mar s="maru1582"]
-[ns]Margarita[nse]
-"And..."[pcms]
+[ns]マルガリータ[nse]
+「そして……」[pcms]
 
 *2792|
 [fc]
-The senior reached down at her feet and was searching for[r]
-something behind the counter.[pcms]
+足元に手を伸ばした先輩は、[r]
+カウンターの向こう側で、何かを探っていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2793|
 [fc]
 [vo_mar s="maru1583"]
-[ns]Margarita[nse]
-"I'll also hand this over to you."[pcms]
+[ns]マルガリータ[nse]
+「これも渡しておく」[pcms]
 
 *2794|
 [fc]
-The heavy sound that was made was from the very same pistol[r]
-being set down.[pcms]
+ゴトリと重たい音を立てて置かれたのは、例の拳銃だ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2795|
 [fc]
-[ns]Kousuke[nse]
-"Yay! My Magnum!"[pcms]
+[ns]浩助[nse]
+「やりーっ！　オレのマグナムっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2796|
 [fc]
 [vo_mar s="maru1584"]
-[ns]Margarita[nse]
-"Both of you, take it to your room. It's loaded. Don't mess[r]
-with the safety."[pcms]
+[ns]マルガリータ[nse]
+「二人とも、部屋に持っていけ。[r]
+　弾は入ったままだ。安全装置を外したりしないようにな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2797|
 [fc]
 [vo_mar s="maru1585"]
-[ns]Margarita[nse]
-"If by any chance you have to use it, remember the lecture[r]
-from this afternoon. Got it?"[pcms]
+[ns]マルガリータ[nse]
+「万が一、これを使うような事態になったら、[r]
+　昼のレクチャーを思い出すように。いいな？」[pcms]
 
 *2798|
 [fc]
-[ns]Wataru[nse]
-"...Yes..."[pcms]
+[ns]航[nse]
+「……はい……」[pcms]
 
 *2799|
 [fc]
-I picked up the Bob Chau Special (Tadahiko version)... It's[r]
-very cold and heavy.[pcms]
+ボクはボブ・チャウ・スペシャル（彦ちんバージョン）を[r]
+手に取った。[r]
+……すごく冷たくて重たい。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2800|
 [fc]
 [vo_mar s="maru1586"]
-[ns]Margarita[nse]
-"Tomorrow we'll do proper shooting training. Until then,[r]
-don't fiddle with it carelessly, okay?"[pcms]
+[ns]マルガリータ[nse]
+「明日はきちんとした射撃訓練をほどこす。[r]
+　それまでは、むやみにいじるんじゃないぞ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2801|
 [fc]
-[ns]Kousuke[nse]
-"For real!? That's gonna be fun!"[pcms]
+[ns]浩助[nse]
+「ま、マジ！？[r]
+　そりゃ楽しみだぜっ！」[pcms]
 
 *2802|
 [fc]
-Kousuke must really want to shoot; he's all smiles.[pcms]
+よっぽど銃を撃ちたいんだろう、コースケはニコニコ顔だ。[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -772,495 +780,500 @@ Kousuke must really want to shoot; he's all smiles.[pcms]
 *2803|
 [fc]
 [vo_ren s="ren1401"]
-[ns]Ren[nse]
-"Hehe... Kousuke, you're such a child..."[pcms]
+[ns]漣[nse]
+「ふふっ……。もう、コーちゃんったら……」[pcms]
 
 *2804|
 [fc]
-Ren chuckled and then staggered.[pcms]
+くすくすっと笑った漣がよろめいた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2805|
 [fc]
 [vo_ren s="ren1402"]
-[ns]Ren[nse]
-"...Mmm..."[pcms]
+[ns]漣[nse]
+「……んっ……」[pcms]
 
 *2806|
 [fc]
-[ns]Wataru[nse]
-"Re... Ren!?"[pcms]
+[ns]航[nse]
+「れ……漣っ！？」[pcms]
 
 ;//〆ＥＶ０１４　連の顔ＵＰ
 
 *2807|
 [fc]
-I hurried over to her and peered into Ren's face.[pcms]
+慌てて駆け寄ったボクは、漣の顔を覗きこむ。[pcms]
 
 *2808|
 [fc]
-Somehow... her face is red. Could she have a fever?[pcms]
+なんだか……顔が赤くなってる。[r]
+もしかして熱があるのか？[pcms]
 
 *2809|
 [fc]
-[ns]Wataru[nse]
-"What's wrong? Do you feel bad?"[pcms]
+[ns]航[nse]
+「どうした？　調子わるいのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2810|
 [fc]
 [vo_ren s="ren1403"]
-[ns]Ren[nse]
-"...Mmm, haa..."[pcms]
+[ns]漣[nse]
+「……ん、ふぅ……」[pcms]
 
 *2811|
 [fc]
-When I touched my forehead to hers, it felt a bit hot.[pcms]
+おでこをくっつけてみると、少し熱い。[pcms]
 
 *2812|
 [fc]
-[ns]Wataru[nse]
-"...Was it from that time? The terrace at 'De Deppou' was in[r]
-direct sunlight..."[pcms]
+[ns]航[nse]
+「……あの時かな？[r]
+　『ででっぽう』のテラス、日光直撃だったから……」[pcms]
 
 *2813|
 [fc]
-Having her act as bait for the infected in the daytime might[r]
-have been a bad idea...[pcms]
+昼間、感染者をおびき寄せる役をさせたのは[r]
+まずかったかもしれないな……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2814|
 [fc]
 [vo_ren s="ren1404"]
-[ns]Ren[nse]
-"Is that so? That's strange...? Mizuki-chan even put UV[r]
-cream on me..."[pcms]
+[ns]漣[nse]
+「そ、そうかなぁ？　おかしいなぁ……？[r]
+　瑞樹ちゃんに、[r]
+　ＵＶクリーム塗ってもらったのに……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2815|
 [fc]
 [vo_ren s="ren1405"]
-[ns]Ren[nse]
-"...Ah...!"[pcms]
+[ns]漣[nse]
+「…………ぁ……っ」[pcms]
 
 *2816|
 [fc]
-As if realizing something, Ren gasped.[pcms]
+何かに気がついたのか、漣はハッと息を呑む。[pcms]
 
 *2817|
 [fc]
-[ns]Wataru[nse]
-"...Ren?"[pcms]
+[ns]航[nse]
+「……漣？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2818|
 [fc]
 [vo_ren s="ren1406"]
-[ns]Ren[nse]
-"...Mmm, well..."[pcms]
+[ns]漣[nse]
+「…………ん、と……」[pcms]
 
 *2819|
 [fc]
-Ren released herself from my embrace.[pcms]
+漣はボクの抱擁を解いた。[pcms]
 
 *2820|
 [fc]
-It's rare for her to let go first; she usually clings until[r]
-I let go. Did something happen...?[pcms]
+いつもはボクが離すまでしがみついてるのに、[r]
+自分から先に離れるなんて珍しい……。[r]
+何かあったんだろうか……？[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2821|
 [fc]
 [vo_ren s="ren1407"]
-[ns]Ren[nse]
-"Sorry, big brother. I just... might be really sleepy...[r]
-I'll go rest first, okay?"[pcms]
+[ns]漣[nse]
+「ご、ごめんね、お兄ちゃん。[r]
+　私……すごく眠かっただけ、かも……。[r]
+　先に休むね？」[pcms]
 
 *2822|
 [fc]
-Turning away from me and speaking in a low voice, Ren[r]
-muttered.[pcms]
+ボクから離れ、うつむいたまま、[r]
+漣は小声で呟いた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2823|
 [fc]
 [vo_ren s="ren1408"]
-[ns]Ren[nse]
-"...I'm sorry about earlier..."[pcms]
+[ns]漣[nse]
+「……さっきのこと、ごめんなさい……」[pcms]
 
 *2824|
 [fc]
-[ns]Wataru[nse]
-"That's already fine. More importantly, are you really[r]
-okay?"[pcms]
+[ns]航[nse]
+「そんなの、もういいよ。[r]
+　それより、ホントに大丈夫なのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2825|
 [fc]
 [vo_ren s="ren1409"]
-[ns]Ren[nse]
-"I'm fine... Goodnight, Kousuke, Maruko-senpai."[pcms]
+[ns]漣[nse]
+「だ、大丈夫……。[r]
+　それじゃ、コーちゃん、マル子先輩、おやすみなさい」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2826|
 [fc]
-Hurrying away, Ren stopped after a few steps.[pcms]
+そそくさと立ち去りかけた漣は、[r]
+数歩進んだところで足を止めた。[pcms]
 
 *2827|
 [fc]
 [vo_ren s="ren1410"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 
 *2828|
 [fc]
-[ns]Wataru[nse]
-"...Ren?"[pcms]
+[ns]航[nse]
+「……漣？」[pcms]
 
 *2829|
 [fc]
-As soon as I called out, Ren turned around abruptly.[pcms]
+声をかけるなり、漣はバッと振り返る。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2830|
 [fc]
 [vo_ren s="ren1411"]
-[ns]Ren[nse]
-"Big brother...! I..."[pcms]
+[ns]漣[nse]
+「お……お兄ちゃん……！　わ……私…………」[pcms]
 
 *2831|
 [fc]
-Trembling lips trying to say something, then she looked down[r]
-again.[pcms]
+唇を震わせて何か言いかけ、またうつむいてしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2832|
 [fc]
 [vo_ren s="ren1412"]
-[ns]Ren[nse]
-"...I'm really sorry..."[pcms]
+[ns]漣[nse]
+「……本当に、ごめんね……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2833|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣…………」[pcms]
 
 *2834|
 [fc]
-I watched Ren's retreating figure as she ran off, wondering[r]
-if I should follow her.[pcms]
+小走りに行ってしまった漣の後姿を見送りながら、[r]
+後を追おうか、と迷ってしまう。[pcms]
 
 *2835|
 [fc]
-I wasn't angry about the eavesdropping at all. She seems to[r]
-be reflecting more than necessary.[pcms]
+立ち聞きのことなんか、全然、怒っていないのに。[r]
+なんだか必要以上に反省しているみたいだ。[pcms]
 
 *2836|
 [fc]
-I wonder if I should have made it clear that I wasn't mad...[pcms]
+怒ってないって、ちゃんと伝えておけばよかったかな……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2837|
 [fc]
-[ns]Kousuke[nse]
-"...Something was off about Ren-chan."[pcms]
+[ns]浩助[nse]
+「……なーんか、変だったな。漣ちゃん」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2838|
 [fc]
 [vo_mar s="maru1587"]
-[ns]Margarita[nse]
-"Hmm. I noticed it too. Let's watch over her for the[r]
-night..."[pcms]
+[ns]マルガリータ[nse]
+「うむ。ワタシも気になった。[r]
+　一晩、様子を見てみるか……」[pcms]
 
 *2839|
 [fc]
-[ns]Wataru[nse]
-"...We've been through a lot today."[pcms]
+[ns]航[nse]
+「……今日はいろいろあったからね」[pcms]
 
 *2840|
 [fc]
-We faced danger and said goodbye to someone close. It must[r]
-have been a tough day for the sensitive Ren.[pcms]
+危険な目にも遭ったし、親しい人との別れもあった。[r]
+繊細な漣にとっては、キツイ一日だっただろう。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2841|
 [fc]
-[ns]Kousuke[nse]
-"Maybe so."[pcms]
+[ns]浩助[nse]
+「そうかもな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2842|
 [fc]
 [vo_mar s="maru1588"]
-[ns]Margarita[nse]
-"Well then, you guys should also rest soon, right? ...But[r]
-before that..."[pcms]
+[ns]マルガリータ[nse]
+「さて、キミらも、もう休むだろう？[r]
+　……と、その前に…………」[pcms]
 
 *2843|
 [fc]
-The senior went back into the office behind the counter and[r]
-returned shortly with some sort of rod-shaped object.[pcms]
+先輩は、カウンター奥の事務所に引っ込んで、[r]
+少ししてから、何やら棒状の物体を持って戻ってきた。[pcms]
 
 *2844|
 [fc]
-Upon looking, there were two mop handles.[pcms]
+見ればモップの柄が２本、だった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2845|
 [fc]
 [vo_mar s="maru1589"]
-[ns]Margarita[nse]
-"I'll hand these over to you. In case of emergency, these[r]
-might be easier to handle than an unfamiliar gun."[pcms]
+[ns]マルガリータ[nse]
+「渡しておこう。[r]
+　いざという時、使い慣れない銃よりは[r]
+　こちらの方が扱いやすいかもしれない」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2846|
 [fc]
-[ns]Kousuke[nse]
-"Well, that's true."[pcms]
+[ns]浩助[nse]
+「ま、そりゃそうだ」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2847|
 [fc]
-Kousuke, having received the mop handle, suddenly started[r]
-swinging it around with both hands.[pcms]
+モップの柄を受け取ったコースケは、[r]
+いきなり両手を使ってクルクルと振り回してみせる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2848|
 [fc]
-[ns]Kousuke[nse]
-"Hmm. This isn't bad at all, huh?"[pcms]
+[ns]浩助[nse]
+「んー。これも悪くないっすね？」[pcms]
 
 *2849|
 [fc]
-[ns]Wataru[nse]
-"...You're surprisingly skillful, you know."[pcms]
+[ns]航[nse]
+「……案外、器用だな、お前」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2850|
 [fc]
 [vo_mar s="maru1590"]
-[ns]Margarita[nse]
-"Since it's cramped indoors, use it by thrusting. You should[r]
-ask Wataru for the knack of it."[pcms]
+[ns]マルガリータ[nse]
+「屋内は狭いから、突くように使ってくれ。[r]
+　コツはワタルに聞くといい」[pcms]
 ;//＠ほほえむ。
 
 *2851|
 [fc]
-[ns]Wataru[nse]
-"I'm not that... I still have a lot to learn..."[pcms]
+[ns]航[nse]
+「そんな、ボクなんか、まだまだ……」[pcms]
 
 *2852|
 [fc]
-I mumbled shyly, blushing at the senior's smile.[pcms]
+微笑んでくれる先輩に、ボクは照れて口ごもる。[pcms]
 
 *2853|
 [fc]
-[ns]Wataru[nse]
-"...Right, what about you, senpai?"[pcms]
+[ns]航[nse]
+「……そうだ、先輩は何を？」[pcms]
 
 *2854|
 [fc]
 [vo_mar s="maru1591"]
-[ns]Margarita[nse]
-"I thought a wooden sword would be best for me. I brought it[r]
-from 'Dedepou'."[pcms]
+[ns]マルガリータ[nse]
+「ワタシには木刀が良いかと思ってな。[r]
+　『ででっぽう』から持ってきた」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2855|
 [fc]
-[ns]Kousuke[nse]
-"By the way, there were also grenades."[pcms]
+[ns]浩助[nse]
+「そういや、手榴弾もありましたけど」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2856|
 [fc]
 [vo_mar s="maru1592"]
-[ns]Margarita[nse]
-"Ah, yes. I brought just one. I'll leave it in my room."[pcms]
+[ns]マルガリータ[nse]
+「ああ。ひとつだけ持ってきた。[r]
+　ワタシの部屋に置いておく」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2857|
 [fc]
-[ns]Kousuke[nse]
-"You... brought it with you?"[pcms]
+[ns]浩助[nse]
+「も……持ってきちゃったんすか」[pcms]
 
 *2858|
 [fc]
-Kousuke swallowed hard.[pcms]
+コースケがごくりとつばを飲む。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2859|
 [fc]
 [vo_mar s="maru1593"]
-[ns]Margarita[nse]
-"Don't worry. It looks like a genuine product from the west.[r]
-It shouldn't detonate unexpectedly."[pcms]
+[ns]マルガリータ[nse]
+「心配するな。[r]
+　見たところ西側の純正品だ。暴発することはないだろう」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2860|
 [fc]
-[ns]Kousuke[nse]
-"No... It's not that I'm worried about. It's just that,[r]
-senpai, you seem like the type who might accidentally blow[r]
-themselves up..."[pcms]
+[ns]浩助[nse]
+「いや……。そっちの心配じゃなくて。[r]
+　なんか、先輩って、あーゆーの持ってると[r]
+　自爆しちゃいそうなキャラだから……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f14"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2861|
 [fc]
 [vo_mar s="maru1594"]
-[ns]Margarita[nse]
-"What do you mean by that...?"[pcms]
+[ns]マルガリータ[nse]
+「ど、どういう意味だ、それは……？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f19"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2862|
 [fc]
 [vo_mar s="maru1595"]
-[ns]Margarita[nse]
-"Do I really look like someone who would clumsily blow[r]
-themselves up and drag others into it?"[pcms]
+[ns]マルガリータ[nse]
+「だいたい、ワタシが他人を巻き込むような[r]
+　下手な自爆をするように見えるか？」[pcms]
 
 *2863|
 [fc]
-No... that's not the issue here.[pcms]
+いえ……、問題はソコではないのですが。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2864|
 [fc]
 [vo_mar s="maru1596"]
-[ns]Margarita[nse]
-"Just go to sleep already! I'll rest after I gather a bit[r]
-more information."[pcms]
+[ns]マルガリータ[nse]
+「いいから、とっとと寝ろ！[r]
+　ワタシも、もう少し情報を集めたら休む」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2865|
 [fc]
-[ns]Kousuke[nse]
-"Yes ma'am. Then, I'll be off to bed first."[pcms]
+[ns]浩助[nse]
+「へーい。んじゃ、お先ーっす」[pcms]
 
 *2866|
 [fc]
-[ns]Wataru[nse]
-"Good night, senpai."[pcms]
+[ns]航[nse]
+「おやすみなさい、先輩」[pcms]
 
 *2867|
 [fc]
-We headed towards the private tatami rooms.[pcms]
+ボクたちはお座敷個室へと向かう。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2868|
 [fc]
-[ns]Kousuke[nse]
-"Well then, Wataru."[pcms]
+[ns]浩助[nse]
+「んじゃな、ワタル」[pcms]
 
 *2869|
 [fc]
-[ns]Wataru[nse]
-"Good work today."[pcms]
+[ns]航[nse]
+「おつかれー」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2870|
 [fc]
-Following the senior's instructions, we decided to enter the[r]
-room at the very front, each of us going to the left and[r]
-right.[pcms]
+先輩の指示通り、ボクたちは一番手前側の部屋に、[r]
+それぞれ左右に分かれて入ることにした。[pcms]
 
 *2871|
 [fc]
-After seeing Kousuke quickly enter his room, I also headed[r]
-towards mine...[pcms]
+コースケがさっさと部屋に入るのを見届けて、[r]
+ボクも自分の部屋に入ろうとしたんだけど……。[pcms]
 
 *2872|
 [fc]
-[ns]Wataru[nse]
-"That's right..."[pcms]
+[ns]航[nse]
+「そうだ……」[pcms]
 
 *2873|
 [fc]
-I'm still worried about Ren from earlier. Maybe I should go[r]
-check on her.[pcms]
+さっきの漣、やっぱり気になるよな。[r]
+ちょっと様子を見に行こう。[pcms]
 
 *2874|
 [fc]
-I headed towards Ren's room door.[pcms]
+ボクは漣の部屋のドアの前に向かった。[pcms]
 
 *2875|
 [fc]
-[ns]Wataru[nse]
-"...Huh...?"[pcms]
+[ns]航[nse]
+「……あ、あれ……？」[pcms]
 
 *2876|
 [fc]
-Just as I was about to knock, I heard a voice from inside[r]
-and stopped my hand.[pcms]
+ノックしかけたとき、[r]
+中から何か、声が聞こえてきて手が止まった。[pcms]
 
 *2877|
 [fc]
 [vo_ren s="ren1413"]
-[ns]Ren[nse]
-"...Mmm... hii... biku..."[pcms]
+[ns]漣[nse]
+「……んっ…………ひぅ……っく……」[pcms]
 
 *2878|
 [fc]
-[ns]Wataru[nse]
-"...Ren... is she crying...?"[pcms]
+[ns]航[nse]
+「…………漣……泣いてる……？」[pcms]
 
 *2879|
 [fc]
-She must be really reflecting on it... or rather, she's[r]
-taking it hard.[pcms]
+よっぽど反省してる……っていうか気にしてるんだな。[pcms]
 
 *2880|
 [fc]
-If I call out now, it might backfire. Better to leave her[r]
-alone for tonight...[pcms]
+今、声をかけると逆効果かもしれない。[r]
+今日はそうっとしておこう……。[pcms]
 
 *2881|
 [fc]
-[ns]Wataru[nse]
-"...Good night, Ren..."[pcms]
+[ns]航[nse]
+「…………おやすみ、漣……」[pcms]
 
 *2882|
 [fc]
-I muttered through the door and headed to my own room.[pcms]
+扉越しに呟いて、ボクは自分の部屋に向かった。[pcms]
 
 ;//漫喫個室
 [bg storage="BG110"][trans_c cross time=500]
@@ -1268,81 +1281,79 @@ I muttered through the door and headed to my own room.[pcms]
 
 *2883|
 [fc]
-[ns]Wataru[nse]
-"...Ah, found it."[pcms]
+[ns]航[nse]
+「……あ、あった」[pcms]
 
 *2884|
 [fc]
-There was a switch by the door that turned on the light[r]
-inside the room only.[pcms]
+扉の脇にはスイッチがあって、室内だけの明かりが点けられた。[pcms]
 
 *2885|
 [fc]
-The room was small, about three tatami mats in size, but it[r]
-had a computer and game console with a memory foam floor[r]
-chair, and personal items brought from 'Dedepou' were also[r]
-placed there.[pcms]
+室内は３畳くらいの狭い部屋だったけど、[r]
+パソコンやゲーム機に低反発素材の座椅子もあるし、[r]
+ででっぽうから持ってきた私物も置いてある。[pcms]
 
 *2886|
 [fc]
-[ns]Wataru[nse]
-"...Alright then..."[pcms]
+[ns]航[nse]
+「……よいしょっと……」[pcms]
 
 *2887|
 [fc]
-I laid out the provided blanket as a futon and adjusted the[r]
-position of the floor chair to use as a pillow.[pcms]
+備え付けの毛布を敷布団にして、[r]
+座椅子を枕代わりに、位置を整える。[pcms]
 
 *2888|
 [fc]
-[ns]Wataru[nse]
-"...But really, today was..."[pcms]
+[ns]航[nse]
+「……でも、今日はほんとに……」[pcms]
 
 *2889|
 [fc]
-Really... a lot happened. More like too much happened... It[r]
-must have been quite a burden for the sensitive Ren...[pcms]
+本当に……いろいろなコトがあった。[r]
+あったというよりも、ありすぎた……。[r]
+繊細な漣には相当な負担だっただろうな……。[pcms]
 
 *2890|
 [fc]
-Even so... It was a close call earlier... Yuuho and I were[r]
-almost...[pcms]
+それにしても……。さっきは惜しかったな……。[r]
+もう少しで悠帆とボクは……。[pcms]
 
 *2891|
 [fc]
-[ns]Wataru[nse]
-"...Could it be...?"[pcms]
+[ns]航[nse]
+「……もしかして……」[pcms]
 
 *2892|
 [fc]
-If I go to Yuuho's room tonight... could we continue where[r]
-we left off...? Maybe Yuuho is also waiting for me...?[pcms]
+今夜、悠帆の部屋に行ったら……あの続きができる……？[r]
+もしかすると悠帆も、ボクのこと、待っていたり……？[pcms]
 
 *2893|
 [fc]
-[ns]Wataru[nse]
-"...That's unlikely."[pcms]
+[ns]航[nse]
+「…………そんなわけないよな」[pcms]
 
 *2894|
 [fc]
-She was angry just a while ago. If I push my luck and go[r]
-over there, I might end up getting scolded too.[pcms]
+さっきあれだけ怒ってたんだし。[r]
+ヘタに押しかけたら、ボクまで怒られそうだ。[pcms]
 
 *2895|
 [fc]
-First of all, this room, even though it's a private room,[r]
-has no soundproofing at all... Whatever we do, the voices[r]
-will leak out.[pcms]
+第一、この部屋は、個室っていっても[r]
+防音なんてまるで考えられてないわけで……。[r]
+何をしても声がダダ漏れになってしまう。[pcms]
 
 *2896|
 [fc]
-[ns]Wataru[nse]
-"...I should sleep..."[pcms]
+[ns]航[nse]
+「…………寝よ……」[pcms]
 
 *2897|
 [fc]
-I turned off the light and quietly wrapped myself in the[r]
-blanket.[pcms]
+電気を消したボクは、おとなしく毛布にくるまった。[pcms]
 
 ;//ジャンプ：ブロック50500 へ
 [jump storage="50500.ks" target=*50500_TOP]
@@ -1357,326 +1368,329 @@ blanket.[pcms]
 *2898|
 [fc]
 [vo_ren s="ren1414"]
-[ns]Ren[nse]
-"Um, excuse me..."[pcms]
+[ns]漣[nse]
+「あ、あのーぉ……」[pcms]
 
 *2899|
 [fc]
-Ren, who had been comparing our faces, hesitantly spoke up.[pcms]
+ボクたちの顔を見比べていた漣が、おずおずと声をかけてきた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2900|
 [fc]
 [vo_ren s="ren1415"]
-[ns]Ren[nse]
-"Is there something like a weapon that I can use too?"[pcms]
+[ns]漣[nse]
+「私にも使える武器みたいなもの、[r]
+　何かありませんか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2901|
 [fc]
 [vo_mar s="maru1597"]
-[ns]Margarita[nse]
-"Ren?"[pcms]
+[ns]マルガリータ[nse]
+「レン？」[pcms]
 
 *2902|
 [fc]
-The senior looked surprised, as if she found it unexpected.[pcms]
+意外だというように、先輩は目を丸くする。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2903|
 [fc]
 [vo_ren s="ren1416"]
-[ns]Ren[nse]
-"I know I might not be very helpful, but it's not good to[r]
-always be protected by everyone, right?"[pcms]
+[ns]漣[nse]
+「わ、私じゃあまり役に立たないだろうけど、[r]
+　いつも、みんなに守られてばかりじゃダメでしょ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2904|
 [fc]
 [vo_ren s="ren1417"]
-[ns]Ren[nse]
-"Besides... I want to help Onii-chan too..."[pcms]
+[ns]漣[nse]
+「それに……、[r]
+　私もお兄ちゃんを手伝いたいから……」[pcms]
 
 *2905|
 [fc]
-I patted Ren's head as she blushed. It's not so much about[r]
-whether it's actually useful or not, but her feelings made[r]
-me happy.[pcms]
+はにかむ漣の頭を、ボクはぽんと撫でた。[r]
+実際に役に立つかどうかってことよりも、その気持ちが嬉しい。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2906|
 [fc]
 [vo_mar s="maru1598"]
-[ns]Margarita[nse]
-"...Indeed, a blunt weapon might be better."[pcms]
+[ns]マルガリータ[nse]
+「……確かに、打突武器の方が良いかもしれないな」[pcms]
 
 *2907|
 [fc]
-The senior smiled at Ren and went into the office behind the[r]
-counter. After a while, she came back holding something rod-[r]
-shaped.[pcms]
+漣に微笑んだ先輩は、カウンター奥の事務所に引っ込んで、[r]
+少ししてから、何やら棒状の物体を持って戻ってきた。[pcms]
 
 *2908|
 [fc]
-It turned out to be three mop handles.[pcms]
+見ればモップの柄が３本、だった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2909|
 [fc]
 [vo_mar s="maru1599"]
-[ns]Margarita[nse]
-"I'll give these to Wataru and Kousuke too. In an emergency,[r]
-these might be easier to handle than an unfamiliar gun."[pcms]
+[ns]マルガリータ[nse]
+「ワタルとコースケにも渡しておこう。[r]
+　いざという時、使い慣れない銃よりは[r]
+　こちらの方が扱いやすいかもしれない」[pcms]
 
 *2910|
 [fc]
-Indeed, I also feel more at ease with a mop.[pcms]
+確かにボクも、モップの方が気が楽だ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2911|
 [fc]
 [vo_mar s="maru1600"]
-[ns]Margarita[nse]
-"The space inside is narrow, so use it by thrusting. Wataru[r]
-can teach you the trick."[pcms]
+[ns]マルガリータ[nse]
+「屋内は狭いから、突くように使ってくれ。[r]
+　コツはワタルに聞くといい」[pcms]
 ;//＠ほほえむ。
 
 *2912|
 [fc]
-[ns]Wataru[nse]
-"But I'm still not that experienced..."[pcms]
+[ns]航[nse]
+「そんな、ボクなんか、まだまだ……」[pcms]
 
 *2913|
 [fc]
-I mumbled shyly with a blush as the senior smiled at me.[pcms]
+微笑んでくれる先輩に、ボクは照れて口ごもる。[pcms]
 
 *2914|
 [fc]
-[ns]Wataru[nse]
-"...By the way, what will you use, senior?"[pcms]
+[ns]航[nse]
+「……そうだ、先輩は何を？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2915|
 [fc]
-[ns]Kousuke[nse]
-"I'd prefer that too... Oh, by the way, wasn't there also a[r]
-katana?"[pcms]
+[ns]浩助[nse]
+「オレもそっちがいいなー……。[r]
+　ってか、そういや、日本刀もあったよなあ？」[pcms]
 
 *2916|
 [fc]
-Maruko-senpai looked at the excited Kousuke with a cold[r]
-gaze.[pcms]
+はしゃぐコースケを、マル子先輩は冷たい目で眺める。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2917|
 [fc]
 [vo_mar s="maru1601"]
-[ns]Margarita[nse]
-"Didn't I say that blades are not allowed because of blood[r]
-splatter? If you really hate mops that much, how about using[r]
-a hanger? They're hard enough to be somewhat useful."[pcms]
+[ns]マルガリータ[nse]
+「血しぶき対策で刃物はダメだと言ったろう？[r]
+　どうしてもモップがイヤなら、ハンガーにでもするか？[r]
+　あれも硬いから、そこそこ使えるぞ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2918|
 [fc]
-[ns]Kousuke[nse]
-"...I'll take the mop."[pcms]
+[ns]浩助[nse]
+「……モップをいただきます」[pcms]
 
 *2919|
 [fc]
-You should have said that from the start.[pcms]
+最初からそう言えばいいのに。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2920|
 [fc]
 [vo_mar s="maru1602"]
-[ns]Margarita[nse]
-"When I went to 'Dedepou' to get our stuff, I found these.[r]
-It was a good decision to bring them here."[pcms]
+[ns]マルガリータ[nse]
+「『ででっぽう』に[r]
+　荷物を取りにいった時に見つけたのだが、[r]
+　こちらに持ってきて正解だったな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2921|
 [fc]
-[ns]Kousuke[nse]
-"Oh yeah, there were also grenades."[pcms]
+[ns]浩助[nse]
+「そういや、手榴弾もありましたけど」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2922|
 [fc]
 [vo_mar s="maru1603"]
-[ns]Margarita[nse]
-"Yes. I brought one. I'll keep it in my room."[pcms]
+[ns]マルガリータ[nse]
+「ああ。ひとつだけ持ってきた。[r]
+　ワタシの部屋に置いておく」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2923|
 [fc]
-[ns]Kousuke[nse]
-"You... brought it with you?"[pcms]
+[ns]浩助[nse]
+「も……持ってきちゃったんすか」[pcms]
 
 *2924|
 [fc]
-Kousuke swallowed nervously.[pcms]
+コースケがごくりとつばを飲む。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2925|
 [fc]
 [vo_mar s="maru1604"]
-[ns]Margarita[nse]
-"Don't worry. From what I can see, it's a genuine product[r]
-from the west. It shouldn't explode accidentally."[pcms]
+[ns]マルガリータ[nse]
+「心配するな。[r]
+　見たところ西側の純正品だ。暴発することはないだろう」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2926|
 [fc]
-[ns]Kousuke[nse]
-"No... It's not that I'm worried about. It's just that,[r]
-senior, you seem like the type who might accidentally blow[r]
-themselves up..."[pcms]
+[ns]浩助[nse]
+「いや……。そっちの心配じゃなくて。[r]
+　なんか、先輩って、あーゆーの持ってると[r]
+　自爆しちゃいそうなキャラだから……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f14"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2927|
 [fc]
 [vo_mar s="maru1605"]
-[ns]Margarita[nse]
-"What do you mean by that...?"[pcms]
+[ns]マルガリータ[nse]
+「ど、どういう意味だ、それは……？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f19"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2928|
 [fc]
 [vo_mar s="maru1606"]
-[ns]Margarita[nse]
-"Do I look like someone who would clumsily blow themselves[r]
-up and involve others?"[pcms]
+[ns]マルガリータ[nse]
+「だいたい、ワタシが他人を巻き込むような[r]
+　下手な自爆をするように見えるか？」[pcms]
 
 *2929|
 [fc]
-No... That's not the issue here.[pcms]
+いえ……、問題はソコではないのですが。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2930|
 [fc]
 [vo_mar s="maru1607"]
-[ns]Margarita[nse]
-"Just go to sleep already! I'll rest after I gather a bit[r]
-more information."[pcms]
+[ns]マルガリータ[nse]
+「いいから、とっとと寝ろ！[r]
+　ワタシも、もう少し情報を集めたら休む」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2931|
 [fc]
-[ns]Kousuke[nse]
-"Yes ma'am. Then, I'll be off to bed first."[pcms]
+[ns]浩助[nse]
+「へーい。んじゃ、お先ーっす」[pcms]
 
 *2932|
 [fc]
-[ns]Wataru[nse]
-"Good night, senior."[pcms]
+[ns]航[nse]
+「おやすみなさい、先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2933|
 [fc]
 [vo_ren s="ren1418"]
-[ns]Ren[nse]
-"Good night."[pcms]
+[ns]漣[nse]
+「おやすみなさーい」[pcms]
 
 *2934|
 [fc]
-We headed towards the tatami room.[pcms]
+ボクたちはお座敷個室へと向かう。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2935|
 [fc]
-[ns]Kousuke[nse]
-"Well then, Wataru. Good night, Ren-chan."[pcms]
+[ns]浩助[nse]
+「んじゃな、ワタル。おやすみ、漣ちゃん」[pcms]
 
 *2936|
 [fc]
-[ns]Wataru[nse]
-"Good work today."[pcms]
+[ns]航[nse]
+「おつかれー」[pcms]
 
 *2937|
 [fc]
-Following the senior's instructions, we decided to enter the[r]
-room at the very front, each of us going to the left and[r]
-right side respectively.[pcms]
+先輩の指示通り、ボクたちは一番手前側の部屋に、[r]
+それぞれ左右に分かれて入ることにした。[pcms]
 
 *2938|
 [fc]
-After watching Kousuke quickly enter his room, I was about[r]
-to enter mine when...[pcms]
+コースケがさっさと部屋に入るのを見届けて、[r]
+ボクも自分の部屋に入ろうとしたんだけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2939|
 [fc]
 [vo_ren s="ren1419"]
-[ns]Ren[nse]
-"...Um... Onii-chan..."[pcms]
+[ns]漣[nse]
+「……あの……ね、お兄ちゃん……」[pcms]
 
 *2940|
 [fc]
-[ns]Wataru[nse]
-"Hmm?"[pcms]
+[ns]航[nse]
+「ん？」[pcms]
 
 *2941|
 [fc]
-Ren called out to stop me, hesitating before she spoke.[pcms]
+ボクを呼び止めた漣は、もじもじしながら言い出した。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m12"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2942|
 [fc]
 [vo_ren s="ren1420"]
-[ns]Ren[nse]
-"About earlier... I'm sorry, okay?"[pcms]
+[ns]漣[nse]
+「さっきのこと……ごめんね？」[pcms]
 
 *2943|
 [fc]
-[ns]Wataru[nse]
-"Earlier...? Oh."[pcms]
+[ns]航[nse]
+「さっきの……って……。ああ」[pcms]
 
 *2944|
 [fc]
-It seems she's worried about having eavesdropped earlier.[pcms]
+どうやら立ち聞きのことを気にしているらしい。[pcms]
 
 *2945|
 [fc]
-[ns]Wataru[nse]
-"I'm not mad or anything. But Yuuho might be a little upset.[r]
-You should apologize to her again later."[pcms]
+[ns]航[nse]
+「怒ってなんかいないよ？[r]
+　だけど、悠帆はちょっとだけ怒ってるかもしれないね。[r]
+　後でもう一回、謝っておくといいよ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2946|
 [fc]
 [vo_ren s="ren1421"]
-[ns]Ren[nse]
-"Yeah..."[pcms]
+[ns]漣[nse]
+「うん……」[pcms]
 
 *2947|
 [fc]
-Ren, with a relieved expression, suddenly hugged me.[pcms]
+ホッとしたような顔になった漣は、[r]
+急にボクに抱きついてきた。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -1684,40 +1698,40 @@ Ren, with a relieved expression, suddenly hugged me.[pcms]
 *2948|
 [fc]
 [vo_ren s="ren1422"]
-[ns]Ren[nse]
-"Onii-chan...! I'm sorry...!"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……っ！　ご、ごめんなさい……っ！」[pcms]
 ;//＠抱きつく
 
 *2949|
 [fc]
-[ns]Wataru[nse]
-"It's okay, Ren. Don't worry about it and get some sleep...[r]
-okay?"[pcms]
+[ns]航[nse]
+「もう、いいんだよ、漣。[r]
+　そんなこと気にしないで、ゆっくり寝るんだ。[r]
+　……いいね？」[pcms]
 
 *2950|
 [fc]
-I hugged Ren, who was seeking comfort, and whispered[r]
-soothingly.[pcms]
+甘えてくる漣を抱きしめて、あやすように呟く。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2951|
 [fc]
 [vo_ren s="ren1423"]
-[ns]Ren[nse]
-"...Yeah. Good night... Onii-chan."[pcms]
+[ns]漣[nse]
+「……うん。おやすみなさい……お兄ちゃん」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2952|
 [fc]
-Leaning the mop handle at the entrance of the room, Ren went[r]
-to her own place.[pcms]
+モップの柄を部屋の入り口に立てかけて、[r]
+漣は自分の場所に入っていった。[pcms]
 
 *2953|
 [fc]
-After watching her go, I also entered my room.[pcms]
+その姿を見送ってから、ボクも自分の部屋に入る。[pcms]
 
 ;//漫喫個室
 [bg storage="BG110"][trans_c cross time=500]
@@ -1725,74 +1739,73 @@ After watching her go, I also entered my room.[pcms]
 
 *2954|
 [fc]
-[ns]Wataru[nse]
-"...Ah, there it is."[pcms]
+[ns]航[nse]
+「……あ、あった」[pcms]
 
 *2955|
 [fc]
-There was a switch by the door, and I could turn on the[r]
-light just for the room.[pcms]
+扉の脇にはスイッチがあって、室内だけの明かりが点けられた。[pcms]
 
 *2956|
 [fc]
-The room was small, about three tatami mats in size, but it[r]
-had a computer, a gaming console, and a low-resilience foam[r]
-chair, as well as personal belongings I brought from home.[pcms]
+室内は３畳くらいの狭い部屋だったけど、[r]
+パソコンやゲーム機に低反発素材の座椅子もあるし、[r]
+ででっぽうから持ってきた私物も置いてある。[pcms]
 
 *2957|
 [fc]
-[ns]Wataru[nse]
-"...Yoisho..."[pcms]
+[ns]航[nse]
+「……よいしょっと……」[pcms]
 
 *2958|
 [fc]
-I laid out the provided blanket as a futon and adjusted the[r]
-position of the chair to use as a pillow.[pcms]
+備え付けの毛布を敷布団にして、[r]
+座椅子を枕代わりに、位置を整える。[pcms]
 
 *2959|
 [fc]
-[ns]Wataru[nse]
-"...Even so..."[pcms]
+[ns]航[nse]
+「…………それにしても……」[pcms]
 
 *2960|
 [fc]
-That was close earlier... Yuuho and I were almost...[pcms]
+さっきは惜しかったな……。[r]
+もう少しで悠帆とボクは……。[pcms]
 
 *2961|
 [fc]
-[ns]Wataru[nse]
-"...Maybe..."[pcms]
+[ns]航[nse]
+「……もしかして……」[pcms]
 
 *2962|
 [fc]
-If I go to Yuuho's room tonight... could we continue where[r]
-we left off...? Maybe Yuuho is also waiting for me...?[pcms]
+今夜、悠帆の部屋に行ったら……あの続きができる……？[r]
+もしかすると悠帆も、ボクのこと、待っていたり……？[pcms]
 
 *2963|
 [fc]
-[ns]Wataru[nse]
-"...That's not possible."[pcms]
+[ns]航[nse]
+「…………そんなわけないよな」[pcms]
 
 *2964|
 [fc]
-She was so angry earlier. If I push my luck and show up[r]
-uninvited, I might get scolded too.[pcms]
+さっきあれだけ怒ってたんだし。[r]
+ヘタに押しかけたら、ボクまで怒られそうだ。[pcms]
 
 *2965|
 [fc]
-Besides, even though this room is called private, it's not[r]
-soundproof at all... Any sound would leak out no matter what[r]
-we do.[pcms]
+第一、この部屋は、個室っていっても[r]
+防音なんてまるで考えられてないわけで……。[r]
+何をしても声がダダ漏れになってしまう。[pcms]
 
 *2966|
 [fc]
-[ns]Wataru[nse]
-"...Let's sleep..."[pcms]
+[ns]航[nse]
+「…………寝よ……」[pcms]
 
 *2967|
 [fc]
-I turned off the light and quietly wrapped myself in the[r]
-blanket.[pcms]
+電気を消したボクは、おとなしく毛布にくるまった。[pcms]
 
 ;//ジャンプ：ブロック50500 へ
 ;//→ＬＡＳＥＲ死者の夜へ

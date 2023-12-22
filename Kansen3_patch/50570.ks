@@ -8,10 +8,10 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）朝
+;//・時間：５日目（８月１９日）朝～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
-;//・テキスト容量：2530k前後
+;//・テキスト容量：25～30k前後
 ;//---------------------------------------------------------------
 ;//block:A002
 
@@ -39,22 +39,22 @@
 
 *3297|
 [fc]
-[ns]Wataru[nse]
-"...Hmm...?"[pcms]
+[ns]航[nse]
+「…………うーん……？」[pcms]
 
 *3298|
 [fc]
-Trying to get up, I'm momentarily confused.[pcms]
+起き上がろうとして、一瞬だけ混乱する。[pcms]
 
 *3299|
 [fc]
-Let's see, this isn't home, nor is it underground... Right,[r]
-it's the "My Room" at the manga cafe.[pcms]
+えっと、ここは家じゃなくて、地下でもなく……。[r]
+そう、漫喫の『ボクの部屋』だ……。[pcms]
 
 *3300|
 [fc]
-[ns]Wataru[nse]
-"...I wonder if everyone's already awake."[pcms]
+[ns]航[nse]
+「……みんな、もう起きてるのかな」[pcms]
 
 ;//bgm01・last summer
 [bgm storage="BGM01"]
@@ -65,18 +65,18 @@ it's the "My Room" at the manga cafe.[pcms]
 
 *3301|
 [fc]
-The lights around are still off, but bright light from the[r]
-window is shining through the partitions.[pcms]
+周囲はまだ電気が消えていたけれど、[r]
+窓からの明るい光がパーティション越しに差し込んでいる。[pcms]
 
 *3302|
 [fc]
-Looks like I slept quite a bit... There's no sign of anyone[r]
-else from the other rooms either. Seems like everyone else[r]
-woke up before me.[pcms]
+けっこう寝ちゃったみたいだな……。[r]
+他の部屋からも人の気配はしてこないし。[r]
+みんな先に起きちゃったみたいだ。[pcms]
 
 *3303|
 [fc]
-I guess I should head to the 7th floor for now.[pcms]
+とりあえず７Ｆに行けば、いいのかな。[pcms]
 
 ;//〆暗転。またはエレベーターエントランス前を挟む
 [bg storage="BG120"][trans_c cross time=500]
@@ -90,52 +90,51 @@ I guess I should head to the 7th floor for now.[pcms]
 
 *3304|
 [fc]
-[ns]Wataru[nse]
-"...Good morning."[pcms]
+[ns]航[nse]
+「……おはよー」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3305|
 [fc]
-[ns]Kousuke[nse]
-"Hey there."[pcms]
+[ns]浩助[nse]
+「おいーっす」[pcms]
 
 *3306|
 [fc]
-When I peek into the main dome of the DJ Bar, Kousuke waves[r]
-at me from his seat in front of the TV.[pcms]
+ＤＪバーのメインドームに顔を出すと、[r]
+コースケがテレビの前の席から手を振ってきた。[pcms]
 
 *3307|
 [fc]
-[ns]Wataru[nse]
-"Is there some news on?"[pcms]
+[ns]航[nse]
+「なんかニュースやってた？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3308|
 [fc]
-[ns]Kousuke[nse]
-"Nah, it's about to start. They just said 'broadcasting[r]
-soon', so I'm sticking around waiting for the show to[r]
-begin."[pcms]
+[ns]浩助[nse]
+「いや、ちょうどこれから。[r]
+　さっき『間もなく放送です』とか言ってたから[r]
+　番組始まんの、張り付いて待ってっとこ」[pcms]
 
 *3309|
 [fc]
-[ns]Wataru[nse]
-"I see. Then I'll watch too."[pcms]
+[ns]航[nse]
+「そっか。じゃ、ボクも見ようっと」[pcms]
 
 *3310|
 [fc]
-I try to sit down next to Kousuke in a spot where the TV is[r]
-easy to see.[pcms]
+コースケと並んで[r]
+テレビの見やすそうな場所に腰を下ろそうとした。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3311|
 [fc]
-From the kitchen, there's the sound of dishes clinking and a[r]
-nice aroma...[pcms]
+キッチンからは食器の触れ合う音といい香りがしてくる……。[pcms]
 
 ;//---------------------------------------------------------------
 ;//１
@@ -165,8 +164,8 @@ nice aroma...[pcms]
 
 *3312|
 [fc]
-I'm drawn to the smell and approach the kitchen, peeking in[r]
-from the entrance.[pcms]
+ふらふらと臭いに吸い寄せられるようにキッチンに近付き、[r]
+入り口から顔だけ覗きこんでみた。[pcms]
 
 ;//キッチンを表示
 ;//ででっぽうキッチンで代用＠ash
@@ -178,46 +177,46 @@ from the entrance.[pcms]
 *3313|
 [fc]
 [vo_yuh s="yuho1627"]
-[ns]Yuuho[nse]
-"...That's right, give that pot a good shake! Use your wrist[r]
-and do it dynamically!"[pcms]
+[ns]悠帆[nse]
+「……そうそう、そこで思いっきり鍋を振る！[r]
+　手首使って、ダイナミックにね！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3314|
 [fc]
 [vo_ren s="ren1424"]
-[ns]Ren[nse]
-"Yes, ma'am! ...Here goes!!"[pcms]
+[ns]漣[nse]
+「は、はいっ！　……んしょっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3315|
 [fc]
 [vo_yuh s="yuho1628"]
-[ns]Yuuho[nse]
-"Put more hip into it! The path of a chef is a steep one!"[pcms]
+[ns]悠帆[nse]
+「もっと腰をいれてー！　料理人の道は険しいぞー！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3316|
 [fc]
 [vo_ren s="ren1425"]
-[ns]Ren[nse]
-"Yes, master! I'll do my beeeest!"[pcms]
+[ns]漣[nse]
+「はい、師匠！　がんばりまああぁす！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3317|
 [fc]
-It seems Yuuho and Ren are preparing breakfast. Their[r]
-cheerful conversation sounds just like that of real sisters.[pcms]
+どうやら悠帆と漣が朝食の準備をしているようだ。[r]
+楽しそうな二人の会話は、まるで本当の姉妹のようだった。[pcms]
 
 *3318|
 [fc]
-I don't want to be in the way, so without saying anything, I[r]
-head back to the dome.[pcms]
+邪魔になるのも悪いので、[r]
+ボクは声をかけないままに、ドームに戻る。[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -225,18 +224,18 @@ head back to the dome.[pcms]
 
 *3319|
 [fc]
-[ns]Wataru[nse]
-"Now that I think about it, I'm hungry."[pcms]
+[ns]航[nse]
+「そういえば、お腹すいたな」[pcms]
 
 *3320|
 [fc]
-I'm sure another delicious (though hearty-looking) breakfast[r]
-will be served like last night.[pcms]
+きっとまた昨夜みたいに[r]
+美味しい（見た目は豪快な）朝食が出てくるんだろう。[pcms]
 
 *3321|
 [fc]
-While looking forward to it, I absentmindedly watch the TV[r]
-screen.[pcms]
+楽しみに待ちながら、[r]
+ボクはぼんやりとテレビ画面に目をやっていた。[pcms]
 
 ;//ジャンプ：ラベル：A007
 [jump storage="50570.ks" target=*50570_05]
@@ -250,13 +249,14 @@ screen.[pcms]
 *3322|
 [fc]
 [vo_ren s="ren1426"]
-[ns]Ren[nse]
-"Eggs... and, um, salt... Ah, is the water boiling yet?"[pcms]
+[ns]漣[nse]
+「たまご……と、えっと、お塩と……、[r]
+　あっ、お湯、わいたかな？」[pcms]
 
 *3323|
 [fc]
-Ren's voice can be heard, but she seems busy... Maybe I[r]
-should go check on her first.[pcms]
+漣の声がしてるけど、なんか忙しそうだな……。[r]
+先に様子を見てこよう。[pcms]
 
 ;//キッチンを表示
 ;//ででっぽうキッチンで代用＠ash
@@ -265,44 +265,44 @@ should go check on her first.[pcms]
 
 *3324|
 [fc]
-[ns]Wataru[nse]
-"Good morning, Ren."[pcms]
+[ns]航[nse]
+「おはよ、漣」[pcms]
 
 *3325|
 [fc]
-In the kitchen, Ren is struggling with a large frying pan.[pcms]
+キッチンの中では漣が大きなフライパンと格闘中だった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3326|
 [fc]
 [vo_ren s="ren1427"]
-[ns]Ren[nse]
-"Ah, big brother. Good morning~"[pcms]
+[ns]漣[nse]
+「あ、お兄ちゃん。おはよー」[pcms]
 
 *3327|
 [fc]
-She tries to smile at me but in doing so, the frying pan[r]
-she's holding tilts dangerously.[pcms]
+ボクに気付いて微笑もうとするが、[r]
+その拍子に手元のフライパンがぐらっと傾く。[pcms]
 
 *3328|
 [fc]
-[ns]Wataru[nse]
-"Whoa. Isn't it tough doing it alone? Need help?"[pcms]
+[ns]航[nse]
+「おっと。ひとりじゃ大変だろ？　手伝おうか？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3329|
 [fc]
 [vo_ren s="ren1428"]
-[ns]Ren[nse]
-"No, it's okay. It'll be ready soon so just wait over there,[r]
-okay!"[pcms]
+[ns]漣[nse]
+「ううん、大丈夫。もう少しでできるから[r]
+　あっちで待っててねっ！」[pcms]
 
 *3330|
 [fc]
-[ns]Wataru[nse]
-"Alright, I'll leave it to you then."[pcms]
+[ns]航[nse]
+「わかった、じゃ、頼むよ」[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -310,45 +310,46 @@ okay!"[pcms]
 
 *3331|
 [fc]
-Kicked out again, I sit back down in front of the TV.[pcms]
+追い出されたボクは、またテレビの前に座り込んだ。[pcms]
 
 *3332|
 [fc]
-[ns]Wataru[nse]
-"...Where's Yuuho?"[pcms]
+[ns]航[nse]
+「……悠帆は？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3333|
 [fc]
-[ns]Kousuke[nse]
-"She's still sleeping. I did call out to her though..."[pcms]
+[ns]浩助[nse]
+「まだ寝てるみてーだよ。[r]
+　一応、声はかけたんだけど……」[pcms]
 
 *3334|
 [fc]
-It's unusual for Yuuho who's an early riser and full of[r]
-energy from the morning. Or could it be... maybe she's not[r]
-feeling well. She did seem unsteady last night too.[pcms]
+早起きで、朝からパワー全開の悠帆にしては珍しい。[r]
+それとも……もしかすると具合が悪いのかな。[r]
+昨夜だって、よろけていたし。[pcms]
 
 *3335|
 [fc]
-Maybe she's mentally strained from not having any contact[r]
-with her family or Oshima-senpai.[pcms]
+もしかすると家族や大嶋先輩から連絡がないことの[r]
+精神的なダメージがたまってるのかもしれないし。[pcms]
 
 *3336|
 [fc]
-[ns]Wataru[nse]
-"...Is she okay?"[pcms]
+[ns]航[nse]
+「……大丈夫かな」[pcms]
 
 *3337|
 [fc]
-Until now we were tense, but now that we've settled into a[r]
-comfortable environment, it wouldn't be strange if we're[r]
-physically and mentally exhausted all at once.[pcms]
+今までは緊張していたから、それどころじゃなかったけど、[r]
+快適な環境に落ち着いた今、肉体的にも精神的にも[r]
+どっと疲れが出たっておかしくはない。[pcms]
 
 *3338|
 [fc]
-I'm really worried about her.[pcms]
+なんだかとても心配だった。[pcms]
 
 ;//ジャンプ：ラベル：A007
 [jump storage="50570.ks" target=*50570_05]
@@ -361,8 +362,8 @@ I'm really worried about her.[pcms]
 
 *3339|
 [fc]
-I'm drawn by the smell again and approach the kitchen,[r]
-peeking in from the entrance.[pcms]
+ふらふらと臭いに吸い寄せられるようにキッチンに近付き、[r]
+入り口から顔だけ覗きこんでみた。[pcms]
 
 ;//キッチンを表示
 ;//ででっぽうキッチンで代用＠ash
@@ -374,31 +375,31 @@ peeking in from the entrance.[pcms]
 *3340|
 [fc]
 [vo_yuh s="yuho1629"]
-[ns]Yuuho[nse]
-"Hum hum hum~♪ La-lu-lala, la~♪"[pcms]
+[ns]悠帆[nse]
+「ふんふんふ～ん♪　らるーららん、らーん♪」[pcms]
 
 *3341|
 [fc]
-With her cheerful humming as background music, Yuuho is[r]
-bustling about in the kitchen. She doesn't seem rushed yet[r]
-she's very efficient.[pcms]
+楽しそうな鼻歌をＢＧＭに、[r]
+悠帆がキッチンでくるくると立ち働いていた。[r]
+急いでいるようには見えないのに、すごく手際がいい。[pcms]
 
 *3342|
 [fc]
-Noticing me, Yuuho looks up and smiles brightly.[pcms]
+ボクに気付いた悠帆は、顔を上げるとにっこり笑う。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3343|
 [fc]
 [vo_yuh s="yuho1630"]
-[ns]Yuuho[nse]
-"Just wait a bit longer~ It'll be ready soon."[pcms]
+[ns]悠帆[nse]
+「待っててね～っ、もうすぐできるから」[pcms]
 
 *3344|
 [fc]
-[ns]Wataru[nse]
-"Yeah. Sorry to trouble you but I'll leave it to you."[pcms]
+[ns]航[nse]
+「うん。じゃ、悪いけど任せたよ」[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -406,52 +407,52 @@ Noticing me, Yuuho looks up and smiles brightly.[pcms]
 
 *3345|
 [fc]
-Sitting back down in front of the TV again, something[r]
-strikes me.[pcms]
+再びテレビの前に座り込みながら、ふと気付く。[pcms]
 
 *3346|
 [fc]
-I didn't see Ren... If she were awake, she'd definitely be[r]
-helping Yuuho...[pcms]
+漣が見当たらなかったな……。[r]
+起きていれば絶対に悠帆の手伝いをしてるだろうけど……。[pcms]
 
 *3347|
 [fc]
-[ns]Wataru[nse]
-"...Where's Ren?"[pcms]
+[ns]航[nse]
+「……漣は？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3348|
 [fc]
-[ns]Kousuke[nse]
-"She's still sleeping. I did call out to her, but..."[pcms]
+[ns]浩助[nse]
+「まだ寝てるみてーだよ。[r]
+　一応、声はかけたんだけど……」[pcms]
 
 *3349|
 [fc]
-[ns]Wataru[nse]
-"I see..."[pcms]
+[ns]航[nse]
+「そっか……」[pcms]
 
 *3350|
 [fc]
-If she's just sleepy, that's fine, but maybe she's really[r]
-not feeling well. She was staggering last night, too.[pcms]
+眠いだけならいいけれど、[r]
+もしかすると相当、具合が悪いのかもしれない。[r]
+昨夜だって、よろけていたし。[pcms]
 
 *3351|
 [fc]
-[ns]Wataru[nse]
-"...Is she okay?"[pcms]
+[ns]航[nse]
+「……大丈夫かな」[pcms]
 
 *3352|
 [fc]
-Ren, who is usually frail, often comes down with a fever,[r]
-but it's been a while since she hasn't recovered after a[r]
-night's sleep.[pcms]
+もともと身体の弱い漣は、熱なんかもしょっちゅう出してるけど[r]
+一晩眠っても回復しないのは、久しぶりだ。[pcms]
 
 *3353|
 [fc]
-The recent lifestyle must have been tough on Ren... Maybe[r]
-I've been pushing her too hard. I'm really worried about[r]
-her.[pcms]
+このところの生活は漣には酷だったろうし……。[r]
+だいぶ無理をさせすぎたかもしれない。[r]
+なんだかとても心配だった。[pcms]
 
 ;//ジャンプ：ラベル：A007
 [jump storage="50570.ks" target=*50570_05]
@@ -464,8 +465,8 @@ her.[pcms]
 
 *3354|
 [fc]
-I'm drawn by the smell again and approach the kitchen,[r]
-peeking in from the entrance.[pcms]
+ふらふらと臭いに吸い寄せられるようにキッチンに近付き、[r]
+入り口から顔だけ覗きこんでみた。[pcms]
 
 ;//キッチンを表示
 ;//ででっぽうキッチンで代用＠ash
@@ -477,46 +478,46 @@ peeking in from the entrance.[pcms]
 *3355|
 [fc]
 [vo_yuh s="yuho1631"]
-[ns]Yuuho[nse]
-"...That's right, give the pot a big shake! Use your wrist[r]
-and do it dynamically!"[pcms]
+[ns]悠帆[nse]
+「……そうそう、そこで思いっきり鍋を振る！[r]
+　手首使って、ダイナミックにね！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3356|
 [fc]
 [vo_ren s="ren1429"]
-[ns]Ren[nse]
-"Yes, ma'am! ...Here goes!!"[pcms]
+[ns]漣[nse]
+「は、はいっ！　……んしょっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3357|
 [fc]
 [vo_yuh s="yuho1632"]
-[ns]Yuuho[nse]
-"Put more hip into it! The path of a chef is steep!"[pcms]
+[ns]悠帆[nse]
+「もっと腰をいれてー！　料理人の道は険しいぞー！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3358|
 [fc]
 [vo_ren s="ren1430"]
-[ns]Ren[nse]
-"Yes, Master! I'll do my beeeest!"[pcms]
+[ns]漣[nse]
+「はい、師匠！　がんばりまああぁす！」[pcms]
 
 *3359|
 [fc]
-It seems Yuuho and Ren are preparing breakfast. Their[r]
-cheerful conversation sounds just like that of real sisters.[pcms]
+どうやら悠帆と漣が朝食の準備をしているようだ。[r]
+楽しそうな二人の会話は、まるで本当の姉妹のようだった。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3360|
 [fc]
-I don't want to get in the way, so I head back to the dorm[r]
-without saying anything.[pcms]
+邪魔になるのも悪いので、[r]
+ボクは声をかけないままに、ドームに戻る。[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -524,140 +525,137 @@ without saying anything.[pcms]
 
 *3361|
 [fc]
-Sitting back down in front of the TV again, something[r]
-strikes me.[pcms]
+再びテレビの前に座り込みながら、ふと気がつく。[pcms]
 
 *3362|
 [fc]
-[ns]Wataru[nse]
-"...By the way, where's Maruko-senpai?"[pcms]
+[ns]航[nse]
+「……そういえば、マル子先輩は？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3363|
 [fc]
-[ns]Kousuke[nse]
-"She's still sleeping. I did call out to her, but... she[r]
-seemed lethargic?"[pcms]
+[ns]浩助[nse]
+「まだ寝てるみてーだよ。[r]
+　一応、声はかけたんだけど……だるそうだったぜ？」[pcms]
 
 *3364|
 [fc]
-[ns]Wataru[nse]
-"Hmm..."[pcms]
+[ns]航[nse]
+「ふうん……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3365|
 [fc]
-It's unusual for the always full-of-vitality senpai. Or[r]
-maybe... she's not feeling well? She was staggering last[r]
-night, too.[pcms]
+バイタリティ全開の先輩にしては珍しい。[r]
+それとも……もしかすると具合が悪いのかな。[r]
+昨夜だって、よろけていたし。[pcms]
 
 *3366|
 [fc]
-[ns]Wataru[nse]
-"...Is she okay?"[pcms]
+[ns]航[nse]
+「……大丈夫かな」[pcms]
 
 *3367|
 [fc]
-When we talked last night, I realized that senpai tends to[r]
-worry a lot once she starts thinking about something. She[r]
-also has a sensitive side, almost devout.[pcms]
+夜中に会話した時、気付いたんだけど、[r]
+先輩って意外と、考え出すと悩んでしまうタイプみたいだし。[r]
+それに、信心深いというか、繊細なところもあった。[pcms]
 
 *3368|
 [fc]
-Even though she grew up in a country torn by civil war,[r]
-fighting against the infected must have been a different[r]
-kind of hell...[pcms]
+内戦続きの国で育ったとはいえ、感染者との戦いは、[r]
+また違った修羅場だったはず……。[pcms]
 
 *3369|
 [fc]
-She never complained to us, but it must have been tough on[r]
-senpai too... I'm really worried about her.[pcms]
+ボクらには決して弱音を吐かなかったけれど[r]
+先輩だってきつかったんだろうな……。[r]
+なんだかとても心配だった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3370|
 [fc]
-[ns]Kousuke[nse]
-"...Oh. It's starting."[pcms]
+[ns]浩助[nse]
+「……お。始まったぜ」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3371|
 [fc]
-The music signaling the start of the news program begins to[r]
-play from the TV monitor. We stare intently at the screen.[pcms]
+テレビモニターからはニュース番組の開始をしらせる音楽が[r]
+流れ出していた。[r]
+ボクたちは食い入るように画面を見つめる。[pcms]
 
 *3372|
 [fc]
-[ns]Announcer[nse]
-"We bring you a special news update."[pcms]
+[ns]アナウンサー[nse]
+「臨時ニュースをお伝えします」[pcms]
 
 *3373|
 [fc]
-The same announcer as yesterday appears on the screen,[r]
-wearing the same clothes as before, now looking more tired.[pcms]
+昨日と同じアナウンサーが、[r]
+昨日と同じ服装のまま、やや疲れの色を濃くして画面に現れた。[pcms]
 
 *3374|
 [fc]
-[ns]Announcer[nse]
-"First off, we would like to inform you about the emergency[r]
-assistance measures for disaster situations announced by the[r]
-provisional government..."[pcms]
+[ns]アナウンサー[nse]
+「まず初めに、臨時政府から発表された[r]
+　災害時緊急援助策についてお知らせいたします……」[pcms]
 
 *3375|
 [fc]
-The announcer talks about the start of transportation for[r]
-disaster relief food and clothing supplies that had been[r]
-stockpiled.[pcms]
+備蓄されていた災害用の食料や衣料品の輸送が開始されたと、[r]
+アナウンサーが喋っている。[pcms]
 
 *3376|
 [fc]
-We were lucky to be able to procure food on our own, but for[r]
-people in shelters or those holed up individually, it must[r]
-be a matter of life and death...[pcms]
+自力で食料を調達できたボクたちは幸運だったけど、[r]
+避難所にいる人や、個人で立てこもっている人なんかにとっては[r]
+きっと死活問題だろうな……。[pcms]
 
 *3377|
 [fc]
-[ns]Wataru[nse]
-"Even if they say transportation, aren't the roads cut off?[r]
-Are they using transport planes or something?"[pcms]
+[ns]航[nse]
+「輸送っていっても、道路は寸断されてるんだよね？[r]
+　輸送機でも使ってるのかな？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3378|
 [fc]
-[ns]Kousuke[nse]
-"Landing a transport plane in the middle of the city seems[r]
-impossible, right? It's gotta be helicopters, don't you[r]
-think?"[pcms]
+[ns]浩助[nse]
+「都会のど真ん中に輸送機が着陸っつーのは無理あんだろ？[r]
+　やっぱヘリじゃね？」[pcms]
 
 *3379|
 [fc]
-[ns]Wataru[nse]
-"But helicopters can't carry a lot of cargo at once, and[r]
-there are limits to their flight distance, right?"[pcms]
+[ns]航[nse]
+「でもヘリじゃ、一度にたくさんの荷物は運べないだろうし、[r]
+　飛行距離にも限界があるんじゃない？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3380|
 [fc]
-[ns]Kousuke[nse]
-"Then maybe it's that? Dropping supplies with parachutes[r]
-from the back of a cargo plane or something. They do that in[r]
-movies a lot, right?"[pcms]
+[ns]浩助[nse]
+「んじゃ、あれかな？[r]
+　カーゴの後ろから物資に落下傘つけて落としたり、とか。[r]
+　よく映画とかでやってんじゃん？」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3381|
 [fc]
-While Kousuke and I talk about such things, the news has[r]
-started with the usual exchange between the announcer and[r]
-commentators.[pcms]
+ボクとコースケが、そんなことを話しているうちに、[r]
+ニュースでは昨日と同じように[r]
+アナウンサーとコメンテーターのやりとりが始まっていた。[pcms]
 
 ;//ジャンプ　ラベルA008
 [jump storage="50570.ks" target=*50570_06]
@@ -671,95 +669,92 @@ commentators.[pcms]
 
 *3382|
 [fc]
-[ns]Kousuke[nse]
-"...Oh. It's starting."[pcms]
+[ns]浩助[nse]
+「……お。始まったぜ」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3383|
 [fc]
-The music signaling the start of the news program begins to[r]
-play from the TV monitor. We stare intently at the screen.[pcms]
+テレビモニターからはニュース番組の開始をしらせる音楽が[r]
+流れ出していた。[r]
+ボクたちは食い入るように画面を見つめる。[pcms]
 
 *3384|
 [fc]
-[ns]Announcer[nse]
-"We bring you a special news update."[pcms]
+[ns]アナウンサー[nse]
+「臨時ニュースをお伝えします」[pcms]
 
 *3385|
 [fc]
-The same announcer as yesterday appears on the screen,[r]
-wearing the same clothes as before, now looking more tired.[pcms]
+昨日と同じアナウンサーが、[r]
+昨日と同じ服装のまま、やや疲れの色を濃くして画面に現れた。[pcms]
 
 *3386|
 [fc]
-[ns]Announcer[nse]
-"First off, we would like to inform you about the emergency[r]
-assistance measures for disaster situations announced by the[r]
-provisional government..."[pcms]
+[ns]アナウンサー[nse]
+「まず初めに、臨時政府から発表された[r]
+　災害時緊急援助策についてお知らせいたします……」[pcms]
 
 *3387|
 [fc]
-The announcer talks about the start of transportation for[r]
-disaster relief food and clothing supplies that had been[r]
-stockpiled.[pcms]
+備蓄されていた災害用の食料や衣料品の輸送が開始されたと、[r]
+アナウンサーが喋っている。[pcms]
 
 *3388|
 [fc]
-We were lucky to be able to procure food on our own, but for[r]
-people in shelters or those holed up individually, it must[r]
-be a matter of life and death...[pcms]
+自力で食料を調達できたボクたちは幸運だったけど、[r]
+避難所にいる人や、個人で立てこもっている人なんかにとっては[r]
+きっと死活問題だろうな……。[pcms]
 
 *3389|
 [fc]
-[ns]Wataru[nse]
-"Even if they say transportation, aren't the roads cut off?[r]
-Are they using transport planes or something?"[pcms]
+[ns]航[nse]
+「輸送っていっても、道路は寸断されてるんだよね？[r]
+　輸送機でも使ってるのかな？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3390|
 [fc]
 [vo_mar s="maru1671"]
-[ns]Margarita[nse]
-"It's hard to imagine transport planes being able to land[r]
-near urban shelters. It would be more reasonable to consider[r]
-helicopters."[pcms]
+[ns]マルガリータ[nse]
+「都市部の避難所近くに輸送機が着陸できるとは思えない。[r]
+　やはりヘリだと考える方が妥当だろう」[pcms]
 
 *3391|
 [fc]
-[ns]Wataru[nse]
-"But helicopters can't carry a lot of cargo at once, and[r]
-there are limits to their flight distance, right?"[pcms]
+[ns]航[nse]
+「でもヘリじゃ、一度にたくさんの荷物は運べないだろうし、[r]
+　飛行距離にも限界があるんじゃない？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3392|
 [fc]
-[ns]Kousuke[nse]
-"Then maybe it's that? Dropping supplies with parachutes[r]
-from the back of a cargo plane or something. They do that in[r]
-movies a lot, right?"[pcms]
+[ns]浩助[nse]
+「んじゃ、あれかな？[r]
+　カーゴの後ろから物資に落下傘つけて落としたり、とか。[r]
+　よく映画とかでやってんじゃん？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3393|
 [fc]
 [vo_mar s="maru1672"]
-[ns]Margarita[nse]
-"If it's the US Navy's Third Fleet stationed near Miyake[r]
-Island, they could manage helicopter takeoffs and landings.[r]
-If we have cooperation from the United States, using both[r]
-transport planes and helicopters is possible."[pcms]
+[ns]マルガリータ[nse]
+「三宅島近海に出張ってきている、米軍第三艦隊なら[r]
+　ヘリの離着陸も可能だ。[r]
+　合衆国の協力が得られれば、輸送機との併用もありえるな」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3394|
 [fc]
-While we talk about such things, the news has started with[r]
-the usual exchange between the announcer and commentators.[pcms]
+そんなことを話しているうちに、ニュースでは昨日と同じように[r]
+アナウンサーとコメンテーターのやりとりが始まっていた。[pcms]
 
 [jump storage="50570.ks" target=*50570_06]
 
@@ -772,40 +767,40 @@ the usual exchange between the announcer and commentators.[pcms]
 *3395|
 [fc]
 [vo_miz s="mizuki0319"]
-[ns]Mizuki[nse]
-"...Good morning."[pcms]
+[ns]瑞樹[nse]
+「……おはよー」[pcms]
 
 *3396|
 [fc]
-Rubbing her sleepy eyes, Mizuki enters the dorm.[pcms]
+眠そうな目をこすりながら、瑞樹がドームに入ってきた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3397|
 [fc]
-[ns]Kousuke[nse]
-"Oh, Mizuki. Did you sleep well?"[pcms]
+[ns]浩助[nse]
+「お、瑞樹。よく眠れたか？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3398|
 [fc]
 [vo_miz s="mizuki0320"]
-[ns]Mizuki[nse]
-"Yeah. Thanks."[pcms]
+[ns]瑞樹[nse]
+「うん。ありがと」[pcms]
 
 *3399|
 [fc]
-Although she looks a bit pale, Mizuki seems calmer than[r]
-yesterday, perhaps due to getting enough sleep.[pcms]
+顔色は少し悪かったけど、睡眠が足りているせいか[r]
+瑞樹は昨日よりも穏やかな顔をしているようだ。[pcms]
 
 ;//---------------------------------------------------------------
 ;//★以下、１セリフ、条件分岐をお願いします
 ;//
 ;//管理ラベル
-;//悠50570_y1
-;//漣50570_r1
-;//マル50570_m1
+;//悠50570_y1～
+;//漣50570_r1～
+;//マル50570_m1～
 ;//---------------------------------------------------------------
 
 ;//---------------------------------------------------------------
@@ -820,8 +815,8 @@ yesterday, perhaps due to getting enough sleep.[pcms]
 
 *3400|
 [fc]
-[ns]Kousuke[nse]
-"...What about those guys?"[pcms]
+[ns]浩助[nse]
+「……あいつらは？」[pcms]
 
 [jump storage="50570.ks" target=*50570_m3]
 
@@ -833,8 +828,8 @@ yesterday, perhaps due to getting enough sleep.[pcms]
 *3401|
 [fc]
 [vo_mar s="maru1673"]
-[ns]Margarita[nse]
-"...How are they doing?"[pcms]
+[ns]マルガリータ[nse]
+「……彼らの様子は？」[pcms]
 
 [jump storage="50570.ks" target=*50570_m3]
 
@@ -848,59 +843,59 @@ yesterday, perhaps due to getting enough sleep.[pcms]
 *3402|
 [fc]
 [vo_miz s="mizuki0321"]
-[ns]Mizuki[nse]
-"Jin and Shige? They don't seem to have woken up yet."[pcms]
+[ns]瑞樹[nse]
+「ジンとシゲ？[r]
+　まだ起きて来ないみたい」[pcms]
 
 *3403|
 [fc]
-It's not surprising that Jin is still asleep at this time[r]
-after drinking so much.[pcms]
+壬さんはあれだけ呑んでいたんだから[r]
+この時間、まだ寝ていても不思議ではない。[pcms]
 
 *3404|
 [fc]
-But Shigeyoshi should have gone to bed earlier... Maybe he[r]
-ended up drinking with Jin afterwards?[pcms]
+でも重吉は先に寝てたはずなんだけど……。[r]
+もしかすると、あの後、壬さんと呑んだのかな？[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3405|
 [fc]
-[ns]Kousuke[nse]
-"Seriously. They're really bad at sticking together as a[r]
-group."[pcms]
+[ns]浩助[nse]
+「ったく。つくづく団体行動のとれねーヤツラだな」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3406|
 [fc]
 [vo_miz s="mizuki0322"]
-[ns]Mizuki[nse]
-"So-sorry..."[pcms]
+[ns]瑞樹[nse]
+「ご、ごめん……」[pcms]
 
 *3407|
 [fc]
-Mizuki apologizes flusteredly to Kousuke, who had just[r]
-grumbled.[pcms]
+悪態をついたコースケに、瑞樹がおろおろと謝る。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3408|
 [fc]
-[ns]Kousuke[nse]
-"Hey, you don't need to apologize for them."[pcms]
+[ns]浩助[nse]
+「お、お前が謝るこたねーだろ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3409|
 [fc]
 [vo_miz s="mizuki0323"]
-[ns]Mizuki[nse]
-"Yeah... I just, kind of..."[pcms]
+[ns]瑞樹[nse]
+「うん……なんか、つい」[pcms]
 
 *3410|
 [fc]
-I can't help but chuckle at Kousuke's unamused expression[r]
-and Mizuki's puzzled look.[pcms]
+いちいち面白くなさそうなコースケや[r]
+なんでだろうね？っていう顔をする瑞樹に、[r]
+ボクはクスクスと笑ってしまう。[pcms]
 
 ;//---------------------------------------------------------------
 ;//条件分岐
@@ -920,29 +915,30 @@ and Mizuki's puzzled look.[pcms]
 *3411|
 [fc]
 [vo_ren s="ren1431"]
-[ns]Ren[nse]
-"...Sorry for the wait, breakfast is ready! Can I start[r]
-setting the table?"[pcms]
+[ns]漣[nse]
+「……おまたせー、ご飯、できたよー？[r]
+　テーブルの準備、いいかなあ？」[pcms]
 
 *3412|
 [fc]
-Ren's voice comes from the kitchen.[pcms]
+キッチンから漣の声がした。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3413|
 [fc]
 [vo_miz s="mizuki0324"]
-[ns]Mizuki[nse]
-"Yes! Then I'll help carry the plates, everyone else please[r]
-prepare the table."[pcms]
+[ns]瑞樹[nse]
+「はーい！[r]
+　じゃ、あたし、お皿運ぶから、[r]
+　みんなはテーブルの上、お願いね？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3414|
 [fc]
-[ns]Kousuke[nse]
-"Alright, leave it to me!"[pcms]
+[ns]浩助[nse]
+「おしっ、任せとけ！」[pcms]
 
 ;//ジャンプ　ラベルA011
 [jump storage="50570.ks" target=*50570_09]
@@ -956,37 +952,39 @@ prepare the table."[pcms]
 *3415|
 [fc]
 [vo_yuh s="yuho1633"]
-[ns]Yuuho[nse]
-"...Okay, sorry for the wait! I'll help with the plates, so[r]
-please get the table ready!"[pcms]
+[ns]悠帆[nse]
+「……はーい、おまたせー！[r]
+　お皿運ぶから、テーブルの準備してー！」[pcms]
 
 *3416|
 [fc]
-Yuuho's voice comes from the kitchen.[pcms]
+キッチンから悠帆の声がした。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3417|
 [fc]
 [vo_miz s="mizuki0325"]
-[ns]Mizuki[nse]
-"I'm coming now! Then I'll go help with the plates. Everyone[r]
-else, please sit down."[pcms]
+[ns]瑞樹[nse]
+「今、いくわ！[r]
+　じゃ、あたし、お皿運ぶの手伝ってくる。[r]
+　みんなは座ってて」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3418|
 [fc]
-[ns]Kousuke[nse]
-"Okay. Then let's clear the table."[pcms]
+[ns]浩助[nse]
+「おっけー。[r]
+　んじゃ、テーブル、片付けようぜー」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3419|
 [fc]
 [vo_mar s="maru1674"]
-[ns]Margarita[nse]
-"That's right."[pcms]
+[ns]マルガリータ[nse]
+「そうだな」[pcms]
 
 ;//ジャンプ　ラベルA011
 [jump storage="50570.ks" target=*50570_09]
@@ -1000,167 +998,165 @@ else, please sit down."[pcms]
 
 *3420|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *3421|
 [fc]
-Somehow, Kousuke and Mizuki seem to have a different vibe[r]
-this morning. It's like they're back to how they used to[r]
-be... more cheerful.[pcms]
+それにしてもなんか、コースケと瑞樹の二人、[r]
+今朝はちょっと雰囲気が違うな。[pcms]
 
 *3422|
 [fc]
-Kousuke said 'maybe tomorrow,' but maybe they talked last[r]
-night...[pcms]
+楽しそうっていうか……昔みたいな感じに戻ってる。[pcms]
 
 *3423|
 [fc]
-I suddenly remember the elevator indicator I saw in the[r]
-middle of the night.[pcms]
+コースケは「明日にでも」とか言ってたけど、[r]
+もしかして昨夜のうちに二人で話とかしたのかな……。[pcms]
 
 *3424|
 [fc]
-So that's it... Kousuke and the others were the ones who[r]
-went to Gyuu-Gyuu Heaven...[pcms]
+ふと夜中に見たエレベーターの表示を思い出した。[pcms]
 
 *3425|
 [fc]
-...To Gyuu-Gyuu Heaven? Just the two of them??? In the[r]
-middle of the night??? ...Does that mean... they only[r]
-talked...???[pcms]
+そっか……あの時、ギュウギュウ天国に行ってたのは[r]
+コースケたちだったのかあ……。[pcms]
 
 *3426|
 [fc]
-...[pcms]
+………………。[pcms]
 
 *3427|
 [fc]
-"...What's up?"[pcms]
+わざわざ、ギュウギュウ天国で？[r]
+二人っきりで？？？　夜中に？？？[r]
+…………それって……話をしただけ……か？？？[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3428|
 [fc]
-[ns]Kousuke[nse]
-Noticing my gaze, Kousuke squints at me suspiciously.[pcms]
+[ns]浩助[nse]
+「……んだよ？」[pcms]
 
 *3429|
 [fc]
-I whisper with a grin.[pcms]
+ボクの視線に気がついたコースケが、[r]
+いぶかしそうに目を眇める。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3430|
 [fc]
-"You had fun last night, didn't you?"[pcms]
+ボクはにやにやしながら、囁いた。[pcms]
 
 *3431|
 [fc]
-[ns]Wataru[nse]
-Kousuke turns bright red all the way to his ears.[pcms]
+[ns]航[nse]
+「ユウベハ、オタノシミデシタネ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3432|
 [fc]
-"...I'll punch you... right in the philtrum..."[pcms]
+コースケは見事に耳まで真っ赤になる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3433|
 [fc]
-[ns]Kousuke[nse]
-"That would kill me!"[pcms]
+[ns]浩助[nse]
+「……殴るぞ…………[ruby text="じんちゅう"][ch text="人中"]とか……」[pcms]
 
 *3434|
 [fc]
-[ns]Wataru[nse]
-While we're all making noise, the TV has started[r]
-broadcasting relay connections with various local stations.[pcms]
+[ns]航[nse]
+「それ、死ぬから！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3435|
 [fc]
-The faces at the urban broadcast center seem to be the same[r]
-as yesterday.[pcms]
+そんなこんなでボクたちが賑やかにしている間に[r]
+テレビでは各地放送局とのリレー中継が始まっていた。[pcms]
 
 *3436|
 [fc]
-I pay casual attention to the screen, occasionally noticing[r]
-broadcasts from shelters.[pcms]
+都市部の放送センターは昨日と同じ顔ぶれのようだ。[pcms]
 
 *3437|
 [fc]
-"...Can you hear us, Mr. Tamiya at Yokohama Sports Park[r]
-shelter? Mr. Tamiya?"[pcms]
+時折、避難所からの中継も挟まるので[r]
+ボクもそれとなく画面に注意する。[pcms]
 
 *3438|
 [fc]
-[ns]Announcer[nse]
-"..."[pcms]
+[ns]アナウンサー[nse]
+「……横浜運動公園避難所の、田宮さーん？[r]
+　田宮さん？　聞こえていますか？」[pcms]
 
 *3439|
 [fc]
-[ns]Wataru[nse]
-It seems that suddenly some places can't connect for the[r]
-broadcast. I don't even want to think about why...[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *3440|
 [fc]
-I wonder if my father's place is okay...[pcms]
+見ていると、[r]
+急に中継が繋がらなくなった場所もあるみたいだった。[r]
+どうしてなのかは……考えたくもない……。[pcms]
 
 *3441|
 [fc]
-While feeling a twinge of anxiety, I hear a long-awaited[r]
-voice from the screen.[pcms]
+父さんのところは、大丈夫かな……。[pcms]
 
 *3442|
 [fc]
-"Reporting from the Nezumi-Kingdom shelter."[pcms]
+一抹の不安を覚えながら、画面を見ていると、[r]
+待ちわびた声が聞こえてきた。[pcms]
 
 *3443|
 [fc]
-[ns]Father[nse]
-Thank goodness... My father's place is still safe.[pcms]
+[ns]父[nse]
+「ネズミーキングダムの避難所からお伝えします」[pcms]
 
 *3444|
 [fc]
-"After a night has passed since the crow attack, the shelter[r]
-has regained some calm."[pcms]
+良かった……。父さんのところは、まだ無事だ。[pcms]
 
 *3445|
 [fc]
-[ns]Father[nse]
-"However, shortages of food and medicine are serious, and[r]
-you can see anxiety on the faces of people gathered at the[r]
-shelter."[pcms]
+[ns]父[nse]
+「カラスの襲撃から一夜明け、[r]
+　避難所はだいぶ落ち着きを取り戻しています」[pcms]
 
 *3446|
 [fc]
-[ns]Father[nse]
-"..."[pcms]
+[ns]父[nse]
+「しかし食料や医薬品などの不足は深刻で[r]
+　避難所に集まった人々の顔には不安の色が窺えます」[pcms]
 
 *3447|
 [fc]
-[ns]Father[nse]
-"Furthermore, we've begun to see creatures like rats, and[r]
-including the issue of sanitation, the site continues to[r]
-maintain a sufficient level of vigilance..."[pcms]
+[ns]父[nse]
+「さらに、ネズミなどの生物も見かけられるようになり[r]
+　衛生環境の問題なども含めて、[r]
+　現場では引き続き充分な警戒体勢を……」[pcms]
 
 *3448|
 [fc]
-My father reports the situation briskly with a professional[r]
-attitude.[pcms]
+父さんはプロフェッショナルな態度で[r]
+状況をテキパキとレポートしていく。[pcms]
 
 *3449|
 [fc]
-Although it was still an audio-only broadcast without any[r]
-video, I felt a huge relief seeing him working safely. The[r]
-lack of emails must be due to mobile phone troubles...[pcms]
+相変わらず映像なしで音声だけの中継だったけど[r]
+無事に頑張ってる様子に、すごくホッとしてしまう。[r]
+メールが来なくなったのも、きっと携帯のトラブルだろう……。[pcms]
 
 ;//---------------------------------------------------------------
 ;//★以下、１セリフ、条件分岐をお願いします
@@ -1183,10 +1179,10 @@ lack of emails must be due to mobile phone troubles...[pcms]
 *3450|
 [fc]
 [vo_mar s="maru1675"]
-[ns]Margarita[nse]
-"According to information from Sesuka, the garrison in[r]
-Mishuku was also attacked by a swarm of crows. Now they are[r]
-on alert not only for crows but also for rats."[pcms]
+[ns]マルガリータ[nse]
+「セスカからの情報では、三宿の駐屯地も[r]
+　カラスの大群に襲われたらしい。[r]
+　今ではカラスだけでなくネズミにも警戒中とのことだったが」[pcms]
 
 [jump storage="50570.ks" target=*50570_m6]
 
@@ -1198,38 +1194,37 @@ on alert not only for crows but also for rats."[pcms]
 
 *3451|
 [fc]
-[ns]Kousuke[nse]
-"...Come to think of it, we didn't see any rats underground,[r]
-did we?"[pcms]
+[ns]浩助[nse]
+「……そういや、地下ではネズミ見なかったな？」[pcms]
 
 *3452|
 [fc]
-[ns]Wataru[nse]
-"There were dead ones, though."[pcms]
+[ns]航[nse]
+「死体はあったけどね」[pcms]
 
 *3453|
 [fc]
-Rats are creatures that die if they don't keep eating. And[r]
-maybe the virus's toxicity affects them differently than[r]
-humans...[pcms]
+ネズミは、食べ続けないと死んでしまう生き物だ。[r]
+それにもしかしたらウィルスの毒性の効果が[r]
+ヒトとは違うかもしれない……。[pcms]
 
 *3454|
 [fc]
-[ns]Wataru[nse]
-"With that in mind, there might not be any infected rats[r]
-left."[pcms]
+[ns]航[nse]
+「そう考えると[r]
+　感染したネズミはもういないかもしれないね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3455|
 [fc]
-[ns]Kousuke[nse]
-"...I hope that's the case."[pcms]
+[ns]浩助[nse]
+「……だといいけどな」[pcms]
 
 *3456|
 [fc]
-While we were discussing this, the news ended, and the[r]
-screen switched back to a standby image of a scenic photo.[pcms]
+そんなことを話しているうちに、ニュースが終わり、[r]
+画面はまた、放送休止の風景写真に切り替わった。[pcms]
 
 ;//〆フェードアウト
 
@@ -1259,99 +1254,99 @@ screen switched back to a standby image of a scenic photo.[pcms]
 
 *3457|
 [fc]
-The breakfast menu was toast with fried eggs, salad, and[r]
-commercial soup.[pcms]
+朝食のメニューは、トーストに目玉焼き、[r]
+それにサラダと業務用のスープだった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3458|
 [fc]
 [vo_ren s="ren1432"]
-[ns]Ren[nse]
-"I've set aside portions for Jin-san and the others, so make[r]
-sure to eat everything? It would be a waste to leave any."[pcms]
+[ns]漣[nse]
+「壬さんたちの分は取ってあるから、[r]
+　全部食べてね？[r]
+　残しちゃったら、もったいないから」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3459|
 [fc]
 [vo_mar s="maru1676"]
-[ns]Margarita[nse]
-"Understood."[pcms]
+[ns]マルガリータ[nse]
+「了解した」[pcms]
 
 *3460|
 [fc]
-Maruko-senpai quickly topped her toast with a fried egg and[r]
-added a few drops of soy sauce. Then she placed another[r]
-slice of toast on top to make it like a sandwich.[pcms]
+マル子先輩は、すかさずトーストに目玉焼きをのせると、[r]
+醤油を数滴たらした。[r]
+更にトーストをもう一枚乗せてサンドイッチみたいにする。[pcms]
 
 *3461|
 [fc]
-[ns]Wataru[nse]
-"...That's an unusual way to eat. Is it a foreign[r]
-custom...?"[pcms]
+[ns]航[nse]
+「……珍しい食べ方ですね。外国の作法……ですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3462|
 [fc]
 [vo_mar s="maru1677"]
-[ns]Margarita[nse]
-"Ah... n-no... that's... just my preference. But at home,[r]
-I'd get scolded for eating like this. I thought I might as[r]
-well do it now..."[pcms]
+[ns]マルガリータ[nse]
+「あ……、い、いや……その……ワタシの趣味だ。[r]
+　だが、家ではこうして食べると叱られるのでな。[r]
+　こんな時くらいは……と思ったのだが」[pcms]
 
 *3463|
 [fc]
-Senpai's face turned red as she covered her half-eaten toast[r]
-with her hand.[pcms]
+先輩は顔を赤くして、齧りかけのトーストを手で隠す。[pcms]
 
 *3464|
 [fc]
-Well indeed, it might not be appropriate for a young lady[r]
-from a prestigious family to eat in such a way.[pcms]
+まあ確かに、ステイタスのある家のお嬢様が[r]
+食事を召し上がる方法としては、適切ではないだろうけれど。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3465|
 [fc]
-[ns]Kousuke[nse]
-"Even Maruko-senpai gets scolded, huh."[pcms]
+[ns]浩助[nse]
+「マル子先輩も、叱られたりするんすねー」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3466|
 [fc]
 [vo_miz s="mizuki0326"]
-[ns]Mizuki[nse]
-"It's kind of bold, haha."[pcms]
+[ns]瑞樹[nse]
+「ちょっと豪快だよね、あははっ」[pcms]
 
 *3467|
 [fc]
-If anyone were to scold her, it would probably be Sesuka-[r]
-san. But then again... where did she learn to eat like that?[pcms]
+叱るといえば、多分セスカさんあたりなんだろうな。[r]
+あれ、でもそうすると……？[r]
+そんな食べ方、どこで伝授されたんだろう？[pcms]
 
 *3468|
 [fc]
-[ns]Wataru[nse]
-"Who taught you that?"[pcms]
+[ns]航[nse]
+「それ、誰に教わったんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3469|
 [fc]
 [vo_mar s="maru1678"]
-[ns]Margarita[nse]
-"Comrades from my guerrilla days."[pcms]
+[ns]マルガリータ[nse]
+「ゲリラ時代の仲間だが」[pcms]
 
 *3470|
 [fc]
-...Just casually mentioning "guerrilla" like that...[pcms]
+……そんな、あっさり「ゲリラ」って…………。[pcms]
 
 *3471|
 [fc]
-Senpai's homeland must be an incredible place... Truly a[r]
-different world...[pcms]
+やっぱり先輩の故郷は、すごいところだ……。[r]
+ホントに違う世界、なんだな……。[pcms]
 
 ;//ラベルA016 へジャンプ
 [jump storage="50570.ks" target=*50570_14]
@@ -1365,42 +1360,40 @@ different world...[pcms]
 
 *3472|
 [fc]
-The breakfast menu was rice with fried eggs, miso soup, and[r]
-salad.[pcms]
+朝食のメニューは、ご飯と目玉焼き、みそ汁、サラダだ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3473|
 [fc]
 [vo_yuh s="yuho1634"]
-[ns]Yuuho[nse]
-"I've set aside portions for Jin-san and the others, so you[r]
-can eat everything here, okay?"[pcms]
+[ns]悠帆[nse]
+「壬さんたちの分は、ちゃんと別に取ってあるから、[r]
+　ここにあるのは、全部食べちゃっていいよ？」[pcms]
 
 *3474|
 [fc]
-This time the menu seemed to have no room for variation; it[r]
-looked very ordinary and really delicious.[pcms]
+今回のメニューはアレンジの余地がなかったのか、[r]
+見た目もごく普通だし、本当においしそうだ。[pcms]
 
 *3475|
 [fc]
-Without needing to be told by Yuuho, everyone grabbed their[r]
-chopsticks intending to finish everything.[pcms]
+悠帆に言われるまでもなく食べ尽くすつもりで、[r]
+みんな一斉に箸をとる。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3476|
 [fc]
 [vo_miz s="mizuki0327"]
-[ns]Mizuki[nse]
-"This miso soup... it's delicious but a bit unusual, isn't[r]
-it?"[pcms]
+[ns]瑞樹[nse]
+「なんか、このお味噌汁……、[r]
+　美味しいけど、ちょっと変わってるね？」[pcms]
 
 *3477|
 [fc]
-Mizuki tilted her head after taking a sip. Yuuho's miso soup[r]
-was made with koji miso and had chopped eggplant as an[r]
-ingredient.[pcms]
+ひとくち飲んだ瑞樹が首を傾げる。[r]
+悠帆の味噌汁は麹味噌仕立てで、刻んだ茄子を具にしていた。[pcms]
 
 ;//漣がいない場合の除外処理
 [if exp="f.l_kansen_r==1"][jump storage="50570.ks" target=*x2][endif]
@@ -1413,42 +1406,44 @@ ingredient.[pcms]
 *3478|
 [fc]
 [vo_ren s="ren1433"]
-[ns]Ren[nse]
-"Wow... It's a nostalgic taste, isn't it?"[pcms]
+[ns]漣[nse]
+「わあぁ……。懐かしい味だね？」[pcms]
 
 *3479|
 [fc]
-[ns]Wataru[nse]
-"Yeah."[pcms]
+[ns]航[nse]
+「そうだね」[pcms]
 
 *3480|
 [fc]
-Ren and I whispered to each other.[pcms]
+ボクと漣は囁きあった。[pcms]
 
 *x2
 
 *3481|
 [fc]
-We used the same koji miso at Kannagi-ken, but also at our[r]
-grandparents' house in Akitait was their miso too.[pcms]
+かんなぎ軒で同じ麹味噌を[r]
+使っていたからっていうのもあるけれど、[r]
+明田の、ボクらの祖父母の家でも麹味噌だったからだ。[pcms]
 
 *3482|
 [fc]
-Some people might not like it, but for us, it's a precious[r]
-taste of memory...[pcms]
+人によっては好き嫌いがあるかもしれないけど[r]
+ボクたちにとっては、大切な思い出の味……だ。[pcms]
 
 *3483|
 [fc]
-[ns]Wataru[nse]
-"But it's surprising you had koji miso on hand, isn't it?"[pcms]
+[ns]航[nse]
+「でも麹味噌なんて、よく置いてあったね？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3484|
 [fc]
 [vo_yuh s="yuho1635"]
-[ns]Yuuho[nse]
-"Yeah, because Mama also taught me recipes using miso."[pcms]
+[ns]悠帆[nse]
+「うん、お味噌を使った料理のレシピも[r]
+　ママに教えてたからね～」[pcms]
 
 ;//マルガリータがいない場合の除外処理
 [if exp="f.l_kansen_m==1"][jump storage="50570.ks" target=*y1][endif]
@@ -1458,9 +1453,9 @@ taste of memory...[pcms]
 
 *3485|
 [fc]
-Yuuho said with a smile. That smile might be the best[r]
-seasoning of all. With that thought in mind, I finished my[r]
-bowl of soup.[pcms]
+そう言って笑顔を浮かべる悠帆。[r]
+それが最高の調味料なのかもしれない、[r]
+そんなことを考えながらボクは汁椀を飲み干した。[pcms]
 
 [jump storage="50570.ks" target=*y3]
 
@@ -1468,28 +1463,29 @@ bowl of soup.[pcms]
 
 *3486|
 [fc]
-I wonder if Maruko-senpai, who is foreign, is okay with koji[r]
-miso? She struggled with octopus last night too...[pcms]
+そういえば……、外国人のマル子先輩は[r]
+麹味噌、大丈夫かな？[r]
+昨夜もタコ相手に苦戦してたけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a19"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3487|
 [fc]
 [vo_mar s="maru1679"]
-[ns]Margarita[nse]
-"Nguh, hmm... nguh..."[pcms]
+[ns]マルガリータ[nse]
+「んぐっ、んっ……んぐっ……」[pcms]
 
 *3488|
 [fc]
-I saw senpai easily finishing her bowl of soup.[pcms]
+見れば先輩は、あっさりと汁椀を飲み干すところだった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a20"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3489|
 [fc]
 [vo_mar s="maru1680"]
-[ns]Margarita[nse]
-"...Seconds!!"[pcms]
+[ns]マルガリータ[nse]
+「…………おかわりっ！！」[pcms]
 
 *y3
 ;//ラベルA016 へジャンプ
@@ -1503,34 +1499,33 @@ I saw senpai easily finishing her bowl of soup.[pcms]
 
 *3490|
 [fc]
-In this way, breakfast was finished pleasantly (and[r]
-quickly).[pcms]
+こうして和やかに（そして速やかに）朝食が済んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3491|
 [fc]
 [vo_miz s="mizuki0328"]
-[ns]Mizuki[nse]
-"...So what are we doing today?"[pcms]
+[ns]瑞樹[nse]
+「……それで、今日は何するの？」[pcms]
 
 *3492|
 [fc]
-[ns]Wataru[nse]
-"Hmm. We need to make a plan..."[pcms]
+[ns]航[nse]
+「うーん。計画とか立てないとね……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3493|
 [fc]
-[ns]Kousuke[nse]
-"Before that, there are dishes to wash! Come on Wataru,[r]
-let's rock-paper- scissors."[pcms]
+[ns]浩助[nse]
+「その前に、皿洗いがあるけどな！[r]
+　おーしっ、ワタル、ジャンケンしよーぜー」[pcms]
 
 *3494|
 [fc]
-...As a result, while Kousuke and Mizuki did the dishes, we[r]
-decided on the schedule.[pcms]
+……結果、コースケと瑞樹が洗い物をしている間に、[r]
+ボクたちで予定を決めることになった。[pcms]
 
 ;//---------------------------------------------------------------
 ;//条件分岐
@@ -1553,35 +1548,36 @@ decided on the schedule.[pcms]
 *3495|
 [fc]
 [vo_mar s="maru1681"]
-[ns]Margarita[nse]
-"Today's plan is... We'll go through that 'valley' to head[r]
-towards other buildings and gather long-lasting food[r]
-supplies and medicine."[pcms]
+[ns]マルガリータ[nse]
+「今日の予定だが……[r]
+　例の『谷間』を伝って他のビルに向かい、[r]
+　保存のきく食料や、クスリを集めてこよう」[pcms]
 
 *3496|
 [fc]
 [vo_mar s="maru1682"]
-[ns]Margarita[nse]
-"After all, we can't predict how long we'll be under siege.[r]
-It's better to have too much stock than not enough."[pcms]
+[ns]マルガリータ[nse]
+「何しろ篭城期間が読めないからな。[r]
+　備蓄は多いにこしたことはない」[pcms]
 
 *3497|
 [fc]
-[ns]Wataru[nse]
-"Then, we should probably gather as many men as possible,[r]
-right? Like me, Kousuke, and Jin-san, and..."[pcms]
+[ns]航[nse]
+「じゃあ、なるべく男手をそろえた方がいいですよね？[r]
+　ボクやコースケ、それに壬さんや……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3498|
 [fc]
 [vo_mar s="maru1683"]
-[ns]Margarita[nse]
-"...Counting on unreliable personnel is a waste of time."[pcms]
+[ns]マルガリータ[nse]
+「……アテにならない人員を数えるのはムダだ」[pcms]
 
 *3499|
 [fc]
-Senpai is harsh... But what she's saying is probably right.[pcms]
+先輩、シビアだなあ……。[r]
+言ってることは正しいんだろうけど。[pcms]
 
 ;//ジャンプ　A019
 [jump storage="50570.ks" target=*50570_17]
@@ -1594,44 +1590,45 @@ Senpai is harsh... But what she's saying is probably right.[pcms]
 
 *3500|
 [fc]
-[ns]Wataru[nse]
-"So, about today's plan... Let's try going to the other[r]
-buildings through that 'valley'."[pcms]
+[ns]航[nse]
+「それで、今日の予定なんだけど……[r]
+　例の『谷間』を伝って他のビルに行ってみようか」[pcms]
 
 *3501|
 [fc]
-[ns]Wataru[nse]
-"Since we don't know how long we'll be holed up here, let's[r]
-gather as much non- perishable food and medicine as we can."[pcms]
+[ns]航[nse]
+「どれだけの期間、ここに篭るかわからないから[r]
+　保存のきく食料や、クスリを[r]
+　なるべくたくさん集めてこよう」[pcms]
 
 *3502|
 [fc]
-I wonder what Maruko-senpai would say at a time like this...[r]
-As I made the suggestion while thinking that, everyone[r]
-seemed to agree without any objections.[pcms]
+こういう時、マル子先輩だったら何て言うかな……。[r]
+そんな風に考えながら提案したボクに、[r]
+みんなは特に異論はなさそうに、うなずいてくれた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3503|
 [fc]
 [vo_yuh s="yuho1636"]
-[ns]Yuuho[nse]
-"Then, it's better to have as many people as possible,[r]
-right? I wonder if Jin- san and the others will help..."[pcms]
+[ns]悠帆[nse]
+「じゃ、なるべく人数がいたほうがいいね？[r]
+　壬さんたち、手伝ってくれるかな……」[pcms]
 
 *3504|
 [fc]
-[ns]Wataru[nse]
-"...I'm not sure about that. But let's have everyone who can[r]
-move help out."[pcms]
+[ns]航[nse]
+「……それは分からないけど。[r]
+　まあ、動ける人は全員でやることにしよう」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3505|
 [fc]
 [vo_yuh s="yuho1637"]
-[ns]Yuuho[nse]
-"That sounds good~"[pcms]
+[ns]悠帆[nse]
+「そうだね～」[pcms]
 
 ;//ジャンプ　A019
 [jump storage="50570.ks" target=*50570_17]
@@ -1658,32 +1655,32 @@ move help out."[pcms]
 *3506|
 [fc]
 [vo_ren s="ren1434"]
-[ns]Ren[nse]
-"Then I'll do the laundry, okay? We've been walking through[r]
-sewers, so it might be a bit... smelly?"[pcms]
+[ns]漣[nse]
+「それなら私は、お洗濯、するね？[r]
+　下水とか歩いてきたから、ちょっと……臭いがするかも？」[pcms]
 
 *3507|
 [fc]
-[ns]Wataru[nse]
-"That would be a big help."[pcms]
+[ns]航[nse]
+「それは助かるなあ」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3508|
 [fc]
-I was indeed concerned about the laundry piling up.[pcms]
+確かに洗濯物が溜まってしまうことは気になっていた。[pcms]
 
 *3509|
 [fc]
-Fortunately, in the backyard of the DJ Bar, there are[r]
-washing machines and detergents prepared for washing things[r]
-like towels in-house to cut costs.[pcms]
+幸いなことに、ＤＪバーのバックヤードには、[r]
+経費節減のため自前でおしぼりなんかを洗う洗濯機や[r]
+洗剤とかが用意されている。[pcms]
 
 *3510|
 [fc]
-I remember seeing drying wires and poles that could be used[r]
-on the rooftop, as well as buckets for soaking.[pcms]
+確か、屋上で使える物干しワイヤーとポールもあったし[r]
+つけ置き用の桶も見かけた気がする。[pcms]
 
 ;//ジャンプ　A022
 [jump storage="50570.ks" target=*50570_20]
@@ -1697,43 +1694,44 @@ on the rooftop, as well as buckets for soaking.[pcms]
 *3511|
 [fc]
 [vo_yuh s="yuho1638"]
-[ns]Yuuho[nse]
-"Then, I'll get started on the laundry! Walking through[r]
-sewers, honestly, it might be a bit smelly~"[pcms]
+[ns]悠帆[nse]
+「じゃ、わたし洗濯しちゃうよ！[r]
+　下水とか歩いてきたから、[r]
+　正直、ちょーっと臭ってるかな～なんて」[pcms]
 
 *3512|
 [fc]
-[ns]Wataru[nse]
-"That would be a big help."[pcms]
+[ns]航[nse]
+「それは助かるなあ」[pcms]
 
 *3513|
 [fc]
-I was indeed concerned about the laundry piling up.[pcms]
+確かに洗濯物が溜まってしまうことは気になっていた。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3514|
 [fc]
-Fortunately, in the backyard of the DJ Bar, there are[r]
-washing machines and detergents prepared for washing things[r]
-like towels in-house to cut costs.[pcms]
+幸いなことに、ＤＪバーのバックヤードには、[r]
+経費節減のため自前でおしぼりなんかを洗う洗濯機や[r]
+洗剤とかが用意されている。[pcms]
 
 *3515|
 [fc]
-I remember seeing drying wires and poles that could be used[r]
-on the rooftop, as well as buckets for soaking.[pcms]
+確か、屋上で使える物干しワイヤーとポールもあったし[r]
+つけ置き用の桶も見かけた気がする。[pcms]
 
 *3516|
 [fc]
-[ns]Wataru[nse]
-"...Then, I'm counting on you, Yuuho."[pcms]
+[ns]航[nse]
+「……じゃ、頼むね、悠帆」[pcms]
 
 *3517|
 [fc]
-I felt bad leaving it all to Yuuho alone, but we really[r]
-needed as many people as possible for carrying supplies.[r]
-Let's leave the laundry to Yuuho.[pcms]
+悠帆ひとりに押し付けるのも悪いかなと思ったけど、[r]
+荷物の運搬にはできるだけ人数が欲しいところだ。[r]
+洗濯は悠帆に任せることにしよう。[pcms]
 
 ;//フェードアウト
 
@@ -1763,24 +1761,23 @@ Let's leave the laundry to Yuuho.[pcms]
 *3518|
 [fc]
 [vo_yuh s="yuho1639"]
-[ns]Yuuho[nse]
-"Ah, then should I help too? Hanging them up can be tough,[r]
-right?"[pcms]
+[ns]悠帆[nse]
+「あ、それならわたしも手伝う？[r]
+　干すのとか、大変でしょ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3519|
 [fc]
 [vo_ren s="ren1435"]
-[ns]Ren[nse]
-"It's okay, it's not like there's a huge amount. And when I[r]
-hang them up, I'll make sure to apply UV cream so it'll be[r]
-fine."[pcms]
+[ns]漣[nse]
+「大丈夫、そんなに量が多いわけじゃないから。[r]
+　干すときも、ちゃんとＵＶクリーム塗るから平気だよ？」[pcms]
 
 *3520|
 [fc]
-[ns]Wataru[nse]
-"Don't push yourself too hard, okay?"[pcms]
+[ns]航[nse]
+「あんまり無理するなよ？」[pcms]
 
 ;//★以下の１セリフ、Ａ０２４からコピーしてください
 
@@ -1789,14 +1786,14 @@ fine."[pcms]
 *3521|
 [fc]
 [vo_ren s="ren1438"]
-[ns]Ren[nse]
-"Yeah!"[pcms]
+[ns]漣[nse]
+「うん！」[pcms]
 
 *3522|
 [fc]
-I felt bad leaving it all to Ren alone, but since we really[r]
-needed as many people as possible for carrying supplies and[r]
-she said she's okay with it, I decided to leave it to her.[pcms]
+漣ひとりに押し付けるのも悪いかなと思ったけど、[r]
+荷物の運搬にはできるだけ人数が欲しいから[r]
+本人が大丈夫だって言うなら任せることにしよう。[pcms]
 
 ;//フェードアウト
 
@@ -1810,53 +1807,54 @@ she said she's okay with it, I decided to leave it to her.[pcms]
 
 *3523|
 [fc]
-[ns]Wataru[nse]
-"Should I help you, Ren?"[pcms]
+[ns]航[nse]
+「手伝おうか、漣？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3524|
 [fc]
 [vo_ren s="ren1436"]
-[ns]Ren[nse]
-"It's okay, there isn't that much. I can do it alone."[pcms]
+[ns]漣[nse]
+「大丈夫、そんなに量が多いわけじゃないから。[r]
+　ひとりでできるよ？」[pcms]
 
 *3525|
 [fc]
-[ns]Wataru[nse]
-"Then, at least let me help when you hang them..."[pcms]
+[ns]航[nse]
+「じゃ、干す時だけでも……」[pcms]
 
 *3526|
 [fc]
-The sunlight on the rooftop was a bit concerning...[pcms]
+屋上の日差しが、少し気になったけれど……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3527|
 [fc]
 [vo_ren s="ren1437"]
-[ns]Ren[nse]
-"I'll make sure to apply UV cream so it'll be fine. You[r]
-focus on carrying the supplies, big brother!"[pcms]
+[ns]漣[nse]
+「ちゃんとＵＶクリーム塗るから平気だよ？[r]
+　お兄ちゃんは、荷物運ぶほう、頑張って！」[pcms]
 
 *3528|
 [fc]
-[ns]Wataru[nse]
-"Understood. But don't push yourself too hard, okay?"[pcms]
+[ns]航[nse]
+「わかった。でも、あんまり無理するなよ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3529|
 [fc]
 [vo_ren s="ren1438"]
-[ns]Ren[nse]
-"Yeah!"[pcms]
+[ns]漣[nse]
+「うん！」[pcms]
 
 *3530|
 [fc]
-I felt bad leaving it all to Ren alone, but since we really[r]
-needed as many people as possible for carrying supplies and[r]
-she said she's okay with it, I decided to leave it to her.[pcms]
+漣ひとりに押し付けるのも悪いかなと思ったけど、[r]
+荷物の運搬にはできるだけ人数が欲しいから[r]
+本人が大丈夫だって言うなら任せることにしよう。[pcms]
 
 ;//フェードアウト
 

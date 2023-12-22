@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・悠帆・瑞樹
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//・テキスト分量：6K （エロシーン込み）
 ;//---------------------------------------------------------------
 ;//block:A001
@@ -25,107 +25,108 @@
 
 *7429|
 [fc]
-I carried Ren, who continued to cry, into the room, holding[r]
-her close. Without turning on the light, I sat her on the[r]
-bed in the dark and hugged her.[pcms]
+泣き続ける漣を抱きかかえるようにして、部屋に連れてきた。[r]
+電気は点けず暗いままで、ベッドに漣を座らせ抱きしめる。[pcms]
 
 *7430|
 [fc]
 [vo_ren s="ren0961"]
-[ns]Ren[nse]
-"D...Dad... *sob*... *sniffle*..."[pcms]
+[ns]漣[nse]
+「お……父さん……っ。うっ……ううっ……」[pcms]
 
 *7431|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 *7432|
 [fc]
 [vo_ren s="ren0962"]
-[ns]Ren[nse]
-"*sob*... I don't want this... Dad... *sob*"[pcms]
+[ns]漣[nse]
+「うっ……いやだよぉ……お父……さん……」[pcms]
 
 *7433|
 [fc]
 [vo_ren s="ren0963"]
-[ns]Ren[nse]
-"No... *sob*... I don't... *sob*... *choke*..."[pcms]
+[ns]漣[nse]
+「うそ……ぉ……いや……ぁ……うっ……っく……」[pcms]
 
 *7434|
 [fc]
-In my arms, Ren shook her entire body as she cried.[pcms]
+ボクの腕の中で、漣は身体全体を震わせながら、泣いている。[pcms]
 
 *7435|
 [fc]
-It's no wonder. I'm shocked too. I want to cry... But Ren[r]
-must be much more shocked than me... After all, it's her[r]
-real father...[pcms]
+無理もない。ボクだって、ショックだ。泣きたい……。[r]
+でも、漣の方がボクよりも……うんと、ショックなはずだ。[r]
+だって、実の父親なんだから……。[pcms]
 
 *7436|
 [fc]
 [vo_ren s="ren0964"]
-[ns]Ren[nse]
-"Dad... *sob*... *choke*... *sniffle*..."[pcms]
+[ns]漣[nse]
+「おと……う……さっ……っく……うっ……うっうっ……」[pcms]
 
 *7437|
 [fc]
-[ns]Wataru[nse]
-"Ren... Ren...? It's okay. I'll stay like this with you."[pcms]
+[ns]航[nse]
+「漣……漣……？　大丈夫だよ。ずっとこうしてるから」[pcms]
 
 *7438|
 [fc]
 [vo_ren s="ren0965"]
-[ns]Ren[nse]
-"*sob*... Big bro... Dad... *choke*"[pcms]
+[ns]漣[nse]
+「う……っ。お兄……ちゃ……お、お……父さんがぁ……っく」[pcms]
 
 *7439|
 [fc]
-Ren clung to my chest and cried, her slender fingers clawing[r]
-at my chest as if struggling.[pcms]
+ボクの胸にすがりつくように顔を寄せて泣いている漣。[r]
+細い指がボクの胸をかきむしるようにあがいている。[pcms]
 
 *7440|
 [fc]
-[ns]Wataru[nse]
-"Yeah... Ren. I'm here for you. You can cry as much as you[r]
-need. It's just the two of us... You don't have to hold[r]
-back, cry more if you need to, Ren."[pcms]
+[ns]航[nse]
+「うん……漣。ボクはこうしてるから。[r]
+　いっぱい泣いていいんだよ。ふたりきりだから……[r]
+　我慢しないでもっと泣いていいんだよ、漣」[pcms]
 
 *7441|
 [fc]
 [vo_ren s="ren0966"]
-[ns]Ren[nse]
-"*sob*... *sniffle*... *wail*!!!"[pcms]
+[ns]漣[nse]
+「う……うっ……うああっああっあああっ！！」[pcms]
 
 *7442|
 [fc]
-Like a dam breaking, intense sobs came from Ren's mouth, and[r]
-tears flowed from her eyes like a flood.[pcms]
+堰を切ったように、漣の口から激しい嗚咽と、漣の瞳から[r]
+涙があふれるように流れ出した。[pcms]
 
 *7443|
 [fc]
 [vo_ren s="ren0967"]
-[ns]Ren[nse]
-"Ahhh!! Dad! Dad!! Big brother, big brother, ahhhhhh!!!"[pcms]
+[ns]漣[nse]
+「あああっ！！　お父さんがっ！　お父さんがあっ！！[r]
+　お兄ちゃん、お兄ちゃんんっ、あああっうああああぁぁぁ」[pcms]
 
 *7444|
 [fc]
 [vo_ren s="ren0968"]
-[ns]Ren[nse]
-"Dad... *sob*... ahhhhhh!!!"[pcms]
+[ns]漣[nse]
+「お父っさっっあああっうううっあああああっっ」[pcms]
 
 *7445|
 [fc]
-In the dimly lit room, only Ren's crying echoed. I hugged[r]
-Ren, stroked her back, and continued to pat her head.[pcms]
+薄暗い部屋に漣の泣き声だけが木霊する。[r]
+ボクは漣を抱きしめ、背中をさすり、頭をなで続けた。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *7446|
 [fc]
-I wonder how much time has passed. Eventually, Ren's crying[r]
-stopped, and the trembling of her body in my arms ceased.[pcms]
+どのくらい時間が経ったんだろう。[r]
+いつしか、漣の泣き声は止まり、ボクの腕の中の[r]
+身体の震えも止まった。[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020b"][trans_c cross time=500]
@@ -133,20 +134,20 @@ stopped, and the trembling of her body in my arms ceased.[pcms]
 
 *7447|
 [fc]
-[ns]Wataru[nse]
-"...Ren?"[pcms]
+[ns]航[nse]
+「……れ……ん？」[pcms]
 
 *7448|
 [fc]
 [vo_ren s="ren0969"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「…………」[pcms]
 
 *7449|
 [fc]
-Ren had fallen asleep from exhaustion. I gently laid her[r]
-body on the bed and in the still dark room, I wiped away the[r]
-sparkling trails of her tears before leaving the room.[pcms]
+泣き疲れて眠ってしまった、漣。[r]
+そっと身体をベッドに横たえ、まだ暗い中、キラキラと[r]
+光っている涙のあとを優しくぬぐって、ボクは部屋を出た。[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -160,190 +161,191 @@ sparkling trails of her tears before leaving the room.[pcms]
 *7450|
 [fc]
 [vo_yuh s="yuho0911"]
-[ns]Yuuho[nse]
-"...Ah. ...Wataru"[pcms]
+[ns]悠帆[nse]
+「……あっ。……航」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *7451|
 [fc]
-[ns]Kousuke[nse]
-"Wataru... are you okay...?"[pcms]
+[ns]浩助[nse]
+「ワタルっ……その、大丈夫……か？[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *7452|
 [fc]
 [vo_miz s="mizuki0090"]
-[ns]Mizuki[nse]
-"...Wataru..."[pcms]
+[ns]瑞樹[nse]
+「……ワタル……」[pcms]
 
 *7453|
 [fc]
-Everyone was still gathered in the dome. When they saw me,[r]
-they rushed over.[pcms]
+ドームにまだ集まっていたみんな。[r]
+ボクの姿を見つけると、駆け寄ってきてくれた。[pcms]
 
 *7454|
 [fc]
-[ns]Wataru[nse]
-"...Yeah. I'm okay. Thank you, Yuuho, Kousuke, Mizuki."[pcms]
+[ns]航[nse]
+「……うん。大丈夫だよ。[r]
+　ありがとう、悠帆、コースケ、瑞樹」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7455|
 [fc]
 [vo_yuh s="yuho0912"]
-[ns]Yuuho[nse]
-"...How is Ren-chan?"[pcms]
+[ns]悠帆[nse]
+「……漣ちゃん……は？」[pcms]
 
 *7456|
 [fc]
-[ns]Wataru[nse]
-"Yeah... She cried herself to sleep."[pcms]
+[ns]航[nse]
+「うん……泣き疲れて、眠っちゃった」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7457|
 [fc]
 [vo_yuh s="yuho0913"]
-[ns]Yuuho[nse]
-"...I see..."[pcms]
+[ns]悠帆[nse]
+「……そう……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *7458|
 [fc]
-[ns]Kousuke[nse]
-"That, umm... Wataru! For Ren-chan's sake too, as a brother,[r]
-you know..."[pcms]
+[ns]浩助[nse]
+「その、なんだ……ワタルっ！[r]
+　漣ちゃんのためにも、アニとして、その、なんだ……」[pcms]
 
 *7459|
 [fc]
-[ns]Wataru[nse]
-"Yeah. Kousuke, thank you. I'm okay."[pcms]
+[ns]航[nse]
+「うん。コースケ、ありがとう。ボクは大丈夫だから」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7460|
 [fc]
 [vo_yuh s="yuho0914"]
-[ns]Yuuho[nse]
-"Wataru... don't push yourself. You must be hurting too.[r]
-Look, we're all friends here, so... it's okay to cry."[pcms]
+[ns]悠帆[nse]
+「航……無理しないで。航だってつらいはずよ。[r]
+　ほら、みんな友達なんだから、その……泣いていいのよ」[pcms]
 
 *7461|
 [fc]
-[ns]Wataru[nse]
-"...! Yuuho... I..."[pcms]
+[ns]航[nse]
+「……っ！　悠帆……ボクは……っ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7462|
 [fc]
 [vo_yuh s="yuho0915"]
-[ns]Yuuho[nse]
-"Hey, they say crying can make you feel better for the time[r]
-being, right? So, Wataru. Don't hold back."[pcms]
+[ns]悠帆[nse]
+「ね、泣いちゃうと取り敢えずスッキリするって言うでしょ？[r]
+　だから、ね、航。我慢しないでよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *7463|
 [fc]
-[ns]Kousuke[nse]
-"That's right, Wataru. I'll lend you my shoulder, so go[r]
-ahead and cry. Just let it all out, okay?"[pcms]
+[ns]浩助[nse]
+「そうだ、ワタル。ここはオレが胸を貸してやるから、[r]
+　ドーーーンと、泣け。泣いちまえ、な？」[pcms]
 
 *7464|
 [fc]
-[ns]Wataru[nse]
-"...Thank you, everyone..."[pcms]
+[ns]航[nse]
+「……くっ……ありがとう、みんな……」[pcms]
 
 *7465|
 [fc]
-I probably had a tearful smile on my face. I was so happy[r]
-with everyone's feelings that I wanted to start crying...[pcms]
+たぶん、ボクは泣き笑いの顔になっていたと思う。[r]
+みんなの気持ちが嬉しくて泣き出したくて……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7466|
 [fc]
 [vo_mar s="maru1010"]
-[ns]Margarita[nse]
-"Ayase!"[pcms]
+[ns]マルガリータ[nse]
+「アヤセっ！」[pcms]
 
 *7467|
 [fc]
-From behind me came Maruko-senpai's sharp voice. Suddenly,[r]
-all my emotions were put on pause.[pcms]
+背後から、マル子先輩の声が鋭くひびいた。[r]
+途端、それまでのボクの気持ちが一時停止した。[pcms]
 
 *7468|
 [fc]
-[ns]Wataru[nse]
-"...Yes? Maruko-senpai...?"[pcms]
+[ns]航[nse]
+「……はい？　マル子先輩……？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7469|
 [fc]
 [vo_mar s="maru1011"]
-[ns]Margarita[nse]
-"Could you come with me for a moment? I'll make you some[r]
-coffee, so follow me."[pcms]
+[ns]マルガリータ[nse]
+「ちょっと、付き合わないか。[r]
+　その、コーヒーを淹れてやるから、付いてこい」[pcms]
 
 *7470|
 [fc]
-[ns]Wataru[nse]
-"Eh? You're going to make it for me, Maruko-senpai?"[pcms]
+[ns]航[nse]
+「え？　マル子先輩が淹れてくれるんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7471|
 [fc]
 [vo_mar s="maru1012"]
-[ns]Margarita[nse]
-"Yes, yes. I'll use you as practice, so come on."[pcms]
+[ns]マルガリータ[nse]
+「そ、そうだ。練習台にしてやるから、付いてこいっ」[pcms]
 
 *7472|
 [fc]
-[ns]Wataru[nse]
-"Y-Yes..."[pcms]
+[ns]航[nse]
+「は……はい……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7473|
 [fc]
 [vo_yuh s="yuho0916"]
-[ns]Yuuho[nse]
-"...Senpai... umm..."[pcms]
+[ns]悠帆[nse]
+「……先輩……あの……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7474|
 [fc]
 [vo_mar s="maru1013"]
-[ns]Margarita[nse]
-"What is it?"[pcms]
+[ns]マルガリータ[nse]
+「なんだ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7475|
 [fc]
 [vo_yuh s="yuho0917"]
-[ns]Yuuho[nse]
-"No, just... please make it taste good."[pcms]
+[ns]悠帆[nse]
+「いえ、その……美味しいの淹れてあげてくださいね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7476|
 [fc]
 [vo_mar s="maru1014"]
-[ns]Margarita[nse]
-"...Got it... Let's go, Ayase."[pcms]
+[ns]マルガリータ[nse]
+「……わかった……行くぞ、アヤセ」[pcms]
 
 *7477|
 [fc]
-Maruko-senpai forcibly pulled me away from my near-tears[r]
-state and took me with her.[pcms]
+泣きそうだったボクの気持ちを、マル子先輩は無理やり[r]
+引きはがして、ボクを連れ出した。[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -359,24 +361,24 @@ state and took me with her.[pcms]
 *7478|
 [fc]
 [vo_mar s="maru1015"]
-[ns]Margarita[nse]
-"Hmm. Is this how it's done? Well, it seems drinkable at[r]
-least."[pcms]
+[ns]マルガリータ[nse]
+「むー。こんな感じか？[r]
+　まあ、なんとか飲めそうだ」[pcms]
 
 *7479|
 [fc]
-Maruko-senpai placed the cup with a thud in front of me. The[r]
-coffee looked warm with steam rising from it, and the aroma[r]
-wasn't bad. I took a sip.[pcms]
+マル子先輩は、トンとカップをボクの目の前に置いた。[r]
+湯気が立っている温かそうなコーヒー。[r]
+香りも悪くない。ひと口すする。[pcms]
 
 *7480|
 [fc]
-[ns]Wataru[nse]
-"...Nngh..."[pcms]
+[ns]航[nse]
+「……ん゛っ……」[pcms]
 
 *7481|
 [fc]
-It was a bit strong and bitter...[pcms]
+ちょっと濃くて苦かった……[pcms]
 
 ;//♂_前のSEXで、ふたりきりの時は、呼称が「ワタル」「マリー」に変わったという前提
 
@@ -385,201 +387,206 @@ It was a bit strong and bitter...[pcms]
 *7482|
 [fc]
 [vo_mar s="maru1016"]
-[ns]Margarita[nse]
-"Wataru..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……」[pcms]
 
 *7483|
 [fc]
-While holding her own cup of coffee with both hands, Marie[r]
-came around the counter and stood in front of me.[pcms]
+自分の分のコーヒーカップを両手で抱えながら、カウンターを[r]
+回り込んで、マリーがボクの目の前に立った。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7484|
 [fc]
 [vo_mar s="maru1017"]
-[ns]Margarita[nse]
-"...Wataru. Don't hold back in times like these..."[pcms]
+[ns]マルガリータ[nse]
+「……ワタル。こういう時は、我慢するな……」[pcms]
 
 *7485|
 [fc]
-[ns]Wataru[nse]
-"...Marie..."[pcms]
+[ns]航[nse]
+「……マリー……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7486|
 [fc]
 [vo_mar s="maru1018"]
-[ns]Margarita[nse]
-"Wataru... I also lost my mother in an unreasonable[r]
-situation. It was very sad and painful..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……ワタシも母様を理不尽な状況で亡くした。[r]
+　とても悲しくて、つらかった……」[pcms]
 
 *7487|
 [fc]
-Before she finished speaking, Marie put her cup on the table[r]
-and gently embraced my head.[pcms]
+言い終わらないうちに、カップをテーブルに置いたマリーは、[r]
+ふわっとボクの頭を抱きしめてくれた。[pcms]
 
 *7488|
 [fc]
-My head was cradled in her gentle arms, and Marie's soft and[r]
-resilient breasts were pressed against my face.[pcms]
+優しい腕に抱きかかえられたボクの頭。[r]
+顔にはマリーの柔らかくて弾力のある胸が押し付けられる。[pcms]
 
 *7489|
 [fc]
-Marie's warm voice poured into my ears, which were blocked[r]
-by her arms, sounding slightly muffled.[pcms]
+両腕に塞がれたボクの耳に、少しくぐもった[r]
+マリーの暖かい声が降り注いでくる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7490|
 [fc]
 [vo_mar s="maru1019"]
-[ns]Margarita[nse]
-"...I still have my father. But Wataru, you've lost both of[r]
-yours... You must be suffering much more than I am..."[pcms]
+[ns]マルガリータ[nse]
+「……まだワタシには、父様がいる。[r]
+　でも、ワタルには、もうふたりとも……[r]
+　ワタシよりも、ずっとワタルはつらいはずだ……」[pcms]
 
 *7491|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「……っ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7492|
 [fc]
 [vo_mar s="maru1020"]
-[ns]Margarita[nse]
-"...If there's anything I can do for you, I'll do it."[pcms]
+[ns]マルガリータ[nse]
+「……ワタシにできる事があるんだったら、[r]
+　何でもしてやる」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7493|
 [fc]
 [vo_mar s="maru1021"]
-[ns]Margarita[nse]
-"Don't bear everything about Ren alone. Ren is your sister.[r]
-Because she's important to you, she's also important to me."[pcms]
+[ns]マルガリータ[nse]
+「レンのことも、ひとりで抱え込むな。[r]
+　レンは、ワタルの妹だ。ワタルが大事だから、[r]
+　レンは、ワタシにとっても大事なんだ」[pcms]
 
 *7494|
 [fc]
-[ns]Wataru[nse]
-"...Marie...!"[pcms]
+[ns]航[nse]
+「……マリーっ……っ」[pcms]
 
 *7495|
 [fc]
-The tears I had been holding back started to overflow. I[r]
-wasn't alone. Marie, who understood me, was there.[pcms]
+我慢していた涙がこぼれてきた。[r]
+ボクはひとりじゃない。理解してくれるマリーがいる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7496|
 [fc]
 [vo_mar s="maru1022"]
-[ns]Margarita[nse]
-"Wataru..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……」[pcms]
 
 *7497|
 [fc]
-[ns]Wataru[nse]
-"Marie...! Ugh... Thank you..."[pcms]
+[ns]航[nse]
+「マリー……っくぅ。うっ……ありが……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7498|
 [fc]
 [vo_mar s="maru1023"]
-[ns]Margarita[nse]
-"Wataru... It's okay. I'm here for you."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……大丈夫だから。ワタシがいるから」[pcms]
 
 *7499|
 [fc]
-[ns]Wataru[nse]
-"Marie! Ugh, uwaahh...!"[pcms]
+[ns]航[nse]
+「マリーっ！　うっうああっううっ」[pcms]
 
 *7500|
 [fc]
-Clinging to Marie's soft breasts, I buried my face in them[r]
-and let out all the tears I had been holding back.[pcms]
+マリーの柔らかい胸にすがりつくように、ボクは顔を[r]
+埋めて、こらえていた涙を吐き出した。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d26"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7501|
 [fc]
 [vo_mar s="maru1024"]
-[ns]Margarita[nse]
-"Wataru..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……」[pcms]
 
 *7502|
 [fc]
-While gently stroking my head, Marie kissed my hair.[pcms]
+優しくボクの頭を撫でながら、マリーが髪の毛に[r]
+キスをしてくれた。[pcms]
 
 *7503|
 [fc]
-[ns]Wataru[nse]
-"Ughh... Ugh... Uwaaahh...!"[pcms]
+[ns]航[nse]
+「くうぅっ……うっ……うっわああっ……」[pcms]
 
 *7504|
 [fc]
-Hugging Marie tightly, I let out all the tears I could.[r]
-Without saying a word, she continued to hold me.[pcms]
+ボクはマリーに抱き付きながら、ありったけの涙を[r]
+出し切った。[r]
+マリーは、何も言わず、ボクを抱きしめ続けてくれている。[pcms]
 
 *7505|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Huh..."[pcms]
+[ns]航[nse]
+「うっ……くっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d27"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7506|
 [fc]
 [vo_mar s="maru1025"]
-[ns]Margarita[nse]
-"Wataru..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……」[pcms]
 
 *7507|
 [fc]
-While stroking my head in silence, comforting me, Marie[r]
-spoke up.[pcms]
+ボクの頭を撫でながら、無言で[r]
+慰めてくれていたマリーが口を開く。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7508|
 [fc]
 [vo_mar s="maru1026"]
-[ns]Margarita[nse]
-"...I'm also a woman. I think I know how to comfort a[r]
-man..."[pcms]
+[ns]マルガリータ[nse]
+「……ワタシも女だ。[r]
+　男の慰め方ぐらい知っているつもりだ……」[pcms]
 
 *7509|
 [fc]
-[ns]Wataru[nse]
-"Marie...?"[pcms]
+[ns]航[nse]
+「マリー……？」[pcms]
 
 *7510|
 [fc]
-In front of me, as I lifted my face, was Marie with a smile[r]
-filled with self- love yet tinged with sadness.[pcms]
+顔を上げたボクの前に、どこか哀しみを宿しながらも[r]
+自愛に満ちた笑顔のマリーが覗き込んでいた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7511|
 [fc]
 [vo_mar s="maru1027"]
-[ns]Margarita[nse]
-"Wataru... Let's go over there. I want to comfort you a[r]
-lot."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……あっちに、行こう。[r]
+　ワタシが、ワタルをいっぱい慰めたいんだ」[pcms]
 
 *7512|
 [fc]
-Taking my hand, Marie led me toward the direction she[r]
-pointed atthe "depot."[pcms]
+ボクの手を取って、マリーがいざなう。[r]
+マリーが指差した『ででっぽう』の方に。[pcms]
 
 *7513|
 [fc]
-I followed Marie, being led by the hand like a child sobbing[r]
-while being pulled along by his mother, to the "depot" where[r]
-Marie and I first became intimate.[pcms]
+ボクは、泣きじゃくりながら母に手を引かれて歩く[r]
+子供のように、マリーに手を引かれたまま向かった。[r]
+初めてマリーと身体を重ねた『ででっぽう』に。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -590,26 +597,26 @@ Marie and I first became intimate.[pcms]
 
 *7514|
 [fc]
-[ns]Wataru[nse]
-"Marie... that... thank you."[pcms]
+[ns]航[nse]
+「マリー……その……ありがとう」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7515|
 [fc]
 [vo_mar s="maru1028"]
-[ns]Margarita[nse]
-"Wataru... It's okay. I wanted to comfort you... I wanted to[r]
-embrace you with all of me..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……いいんだ。ワタシが慰めたかった……[r]
+　ワタルを全身で受けとめたかったんだ……」[pcms]
 
 *7516|
 [fc]
-[ns]Wataru[nse]
-"Marie..."[pcms]
+[ns]航[nse]
+「マリー……」[pcms]
 
 *7517|
 [fc]
-Wrapped in a sense of happiness, I embraced Marie...[pcms]
+幸福感に包まれて、ボクはマリーを抱きしめた……。[pcms]
 
 ;//#_フェイドアウト
 ;//★_黒背景
@@ -617,29 +624,30 @@ Wrapped in a sense of happiness, I embraced Marie...[pcms]
 
 *7518|
 [fc]
-With all her heart and soul, Marie comforted me.[pcms]
+全身全霊をかけて、マリーはボクを慰めてくれた。[pcms]
 
 *7519|
 [fc]
-Every time a cry of joy escaped from Marie's lips, the lump[r]
-inside my heart melted away bit by bit. With every spray of[r]
-Marie's sweat, my tears also scattered.[pcms]
+マリーの唇から歓喜の声が漏れるたびに、ボクの心の中に[r]
+あった固まりが少しずつ溶けていった。[r]
+マリーの汗が飛び散るたびに、ボクの涙も飛び散っていった。[pcms]
 
 *7520|
 [fc]
-Thank you, Marie. It's okay now. From tomorrow on, I'll[r]
-surely be fine, even more than before.[pcms]
+ありがとう、マリー。[r]
+もう大丈夫。[r]
+明日からは、今までのボク以上に、きっと大丈夫。[pcms]
 
 *7521|
 [fc]
-I'll properly support both Marie and Ren. Even if I feel[r]
-like breaking down, Marie will be there for me. Feeling this[r]
-clearly now, I know I'll be okay.[pcms]
+マリーのことも、漣のことも、ボクがちゃんと支える。[r]
+くじけそうになっても、マリーがいてくれる。[r]
+それが、はっきりと感じられた今、ボクは大丈夫だ。[pcms]
 
 *7522|
 [fc]
-I have to be strong. For Marie's sake too. To protect this[r]
-beautiful sleeping face.[pcms]
+しっかりしなきゃ。マリーの為にも。[r]
+この綺麗な寝顔を守るためにも。[pcms]
 
 [eval exp="f.l_route_m = 1"]
 

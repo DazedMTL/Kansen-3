@@ -19,8 +19,8 @@
 
 *112|
 [fc]
-As I was about to head to the third floor, I thought I heard[r]
-a familiar voice and turned towards it.[pcms]
+３階に向かおうとしたところで、ボクは覚えのある声を[r]
+聞いた気がして、そちらのほうを振り向いた。[pcms]
 
 ;//BG：EV005
 
@@ -31,56 +31,56 @@ a familiar voice and turned towards it.[pcms]
 *113|
 [fc]
 [vo_mar s="maru0051"]
-[ns]Margarita[nse]
-"Haaaah!!"[pcms]
+[ns]マルガリータ[nse]
+「はぁああっ！！」[pcms]
 
 [se buf=0 storage="se012"]
 [赤フラ]
 
 *114|
 [fc]
-[ns]Infected Man A[nse]
-"Ugyaaaah!!"[pcms]
+[ns]感染者・男Ａ[nse]
+「うぎゃああっ！！」[pcms]
 
 [se buf=0 storage="se012"]
 [赤フラ]
 
 *115|
 [fc]
-It was the sight of Senior Margarita kicking down the[r]
-swarming infected one after another.[pcms]
+それは群がる感染者を次々に蹴り倒している[r]
+マルガリータ先輩の姿だった。[pcms]
 
 *116|
 [fc]
-Even at a time like this, her kicks are so beautiful that[r]
-even a complete amateur like me can tell...[pcms]
+こんなときだけど、先輩の蹴りって完全な素人の[r]
+ボクが見ても凄く綺麗で……。[pcms]
 
 *117|
 [fc]
-[ns]Infected Man B[nse]
-"You bitch~!!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「このアマ～ッ！！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *118|
 [fc]
 [vo_mar s="maru0052"]
-[ns]Margarita[nse]
-"Hmph!"[pcms]
+[ns]マルガリータ[nse]
+「ふんっ！」[pcms]
 
 [se buf=0 storage="se012"]
 [赤フラ]
 
 *119|
 [fc]
-[ns]Infected Man B[nse]
-"Gufaah!!"[pcms]
+[ns]感染者・男Ｂ[nse]
+「ぐふぁああっ！」[pcms]
 
 *120|
 [fc]
-She quickly knocked down another one attacking from behind[r]
-and, as if she had finished a job, she dusted off her hands[r]
-with a pat-pat.[pcms]
+後ろから襲いかかってきたのも瞬時に蹴り倒して、[r]
+先輩はひと仕事終えたとでも言うかのように、[r]
+パンパンと手をはたいた。[pcms]
 
 ;//BG：学園内廊下
 [bg storage="BG017"][trans_c cross time=500]
@@ -91,248 +91,249 @@ with a pat-pat.[pcms]
 *121|
 [fc]
 [vo_mar s="maru0053"]
-[ns]Margarita[nse]
-"Not even worth mentioning."[pcms]
+[ns]マルガリータ[nse]
+「口ほどにもない」[pcms]
 
 *122|
 [fc]
-Senior Margarita looked down at the infected with cold eyes.[pcms]
+冷たい目で感染者たちを見下ろす先輩。[pcms]
 
 *123|
 [fc]
-As I was captivated by her chilling gaze, she glared at my[r]
-face.[pcms]
+そのゾクリとする視線に思わず見とれていると、[r]
+先輩がボクの顔を睨みつけた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *124|
 [fc]
 [vo_mar s="maru0054"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 
 *125|
 [fc]
-While staring at me, Senior Margarita quietly took her[r]
-stance.[pcms]
+ボクを見据えながら、先輩は静かに構える。[pcms]
 
 *126|
 [fc]
-Eh?[pcms]
+えっ？[pcms]
 
 *127|
 [fc]
-[ns]Wataru[nse]
-"Wait, wait, wait! Please wait, Senior!"[pcms]
+[ns]航[nse]
+「ちょ、ちょっ、ちょっ！　ま、待って！[r]
+　待ってください、先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *128|
 [fc]
 [vo_mar s="maru0055"]
-[ns]Margarita[nse]
-"Begging for your life?"[pcms]
+[ns]マルガリータ[nse]
+「命乞いか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *129|
 [fc]
-[ns]Wataru[nse]
-"No, that's not it. I'm different from those guys! I'm not[r]
-infected."[pcms]
+[ns]航[nse]
+「違います。ボクはヤツラとは違うっ！[r]
+　感染してない」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *130|
 [fc]
 [vo_mar s="maru0056"]
-[ns]Margarita[nse]
-"Infected?"[pcms]
+[ns]マルガリータ[nse]
+「感染？」[pcms]
 
 *131|
 [fc]
-[ns]Wataru[nse]
-"They're probably infected! With 'UNKNOWN-LV4'!!"[pcms]
+[ns]航[nse]
+「ヤツらはたぶん、感染してるんだ！[r]
+　『ＵＮＫＮＯＷＮ－ＬＶ４』に！！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *132|
 [fc]
 [vo_mar s="maru0057B"]
-[ns]Margarita[nse]
-"The Tohoku infection disaster? Impossible. But indeed, you[r]
-seem different from them. Escape quickly before the school[r]
-is completely overrun by them."[pcms]
+[ns]マルガリータ[nse]
+「[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]の？　まさか。[r]
+　だが、確かにお前はヤツラとは違うようだな。[r]
+　学園中がヤツラに占領されないうちに早く逃げろ」[pcms]
 ;//〆ボイスa、b有り
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *133|
 [fc]
-[ns]Wataru[nse]
-"I can't escape!"[pcms]
+[ns]航[nse]
+「逃げられないっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *134|
 [fc]
 [vo_mar s="maru0058"]
-[ns]Margarita[nse]
-"Why? You value your life, don't you?"[pcms]
+[ns]マルガリータ[nse]
+「なぜ？　命は惜しかろう？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *135|
 [fc]
-[ns]Wataru[nse]
-"I have a sister. She's in the music room upstairs. And my[r]
-best friend is in another place... I can't just abandon them[r]
-and run away."[pcms]
+[ns]航[nse]
+「妹がいるんだ。この上の音楽室に。それに親友も[r]
+　他の場所にいる……。見捨ててなんて逃げられないよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *136|
 [fc]
 [vo_mar s="maru0059"]
-[ns]Margarita[nse]
-"Their movements are slow. If you're determined, escaping[r]
-should be no problem."[pcms]
+[ns]マルガリータ[nse]
+「ヤツらの足は鈍い。その気になれば[r]
+　逃げ出すことなんてわけがないはずだ」[pcms]
 
 *137|
 [fc]
-[ns]Wataru[nse]
-"Maybe for my best friend. But my sister... Ren has always[r]
-been physically weak. She's slow and doesn't have much[r]
-stamina. I have to protect her. She's family."[pcms]
+[ns]航[nse]
+「親友は、ね。でも妹は……漣は先天的に体が[r]
+　弱いんだ。足だって遅いし、持久力もない。ボクが、[r]
+　ボクが守らないと。家族なんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *138|
 [fc]
 [vo_mar s="maru0060"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 
 *139|
 [fc]
-Senior Margarita looked at me with an indescribable emotion[r]
-on her face, different from her usual expressionless one.[pcms]
+先輩は普段の無表情に近い顔と違った、[r]
+何とも言いようのない感情を浮かべてボクの顔を見つめた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *140|
 [fc]
 [vo_mar s="maru0061"]
-[ns]Margarita[nse]
-"Family, huh... Then do as you wish."[pcms]
+[ns]マルガリータ[nse]
+「家族か……。ならば好きにするがいい」[pcms]
 
 *141|
 [fc]
-[ns]Wataru[nse]
-"Senior... Could you please help me? It's embarrassing to[r]
-say, but I can only manage to run away on my own... It would[r]
-be reassuring if you could come with us..."[pcms]
+[ns]航[nse]
+「先輩……できれば、助けてくれませんか？[r]
+　悔しいけどボク一人では、逃げ回るのが精一杯だから[r]
+　……先輩が来てくれたら心強いんですが……」[pcms]
 
 *142|
 [fc]
-I hastily called out to Senior Margarita as she tried to[r]
-slip past me while readjusting the backpack filled with her[r]
-belongings.[pcms]
+荷物を入れたリュックを背負い直し、ボクの脇を[r]
+すり抜けようとした先輩に、慌てて声をかけた。[pcms]
 
 *143|
 [fc]
-I think it's pathetic of me.[pcms]
+我ながら情けないと思う。[pcms]
 
 *144|
 [fc]
-But as I said, I can only manage to run away on my own.[pcms]
+でも言った通り、ボク一人では逃げ回るので精一杯だ。[pcms]
 
 *145|
 [fc]
-I'm not confident that I can escape with Ren.[pcms]
+とてもじゃないが、漣と一緒に逃げられる自信がない。[pcms]
 
 *146|
 [fc]
-No, I'm quite certain that we won't be able to make it...[pcms]
+いや、逃げ切れないという逆の自信なら[r]
+満々なんだけれども……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *147|
 [fc]
 [vo_mar s="maru0062"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 
 *148|
 [fc]
-Senior Margarita's face, staring straight at me, showed no[r]
-expression at all, as if the emotion she had shown earlier[r]
-was just an illusion.[pcms]
+じっとボクの顔を真正面から見据える先輩の顔には、[r]
+さっき浮かべた何かしらの感情でさえも幻で[r]
+あったかのように、何の表情を浮かんでいない。[pcms]
 
 *149|
 [fc]
-She just looked at me coldly.[pcms]
+ただ冷たくボクを見据えるだけだ。[pcms]
 
 *150|
 [fc]
-[ns]Wataru[nse]
-"...I'm sorry. I relied on you too much, Senior. I'll manage[r]
-to rescue my sister by myself."[pcms]
+[ns]航[nse]
+「……すみません。先輩に甘えました。妹は[r]
+　ボク一人でなんとか助け出します」[pcms]
 
 *151|
 [fc]
-Just as I bowed my head and was about to head to the third[r]
-floor, Senior Margarita overtook me and ran up the stairs.[pcms]
+ペコリと頭を下げて３階へ向かおうとしたその時、[r]
+先輩がボクを追い抜いて階段を駆け上がった。[pcms]
 
 *152|
 [fc]
-[ns]Wataru[nse]
-"Senior!"[pcms]
+[ns]航[nse]
+「先輩っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *153|
 [fc]
 [vo_mar s="maru0063"]
-[ns]Margarita[nse]
-"It can't be helped. Even a brief encounter is a connection[r]
-from a past life. But if you dawdle, I'll leave you behind."[pcms]
+[ns]マルガリータ[nse]
+「仕方あるまい。袖触れ合うのも他生の縁だ。だが、[r]
+　グズグズしてると置いていくぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *154|
 [fc]
-[ns]Wataru[nse]
-"Yes! Thank you very much."[pcms]
+[ns]航[nse]
+「はいっ！　ありがとうございます」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *155|
 [fc]
 [vo_mar s="maru0064"]
-[ns]Margarita[nse]
-"Save your thanks until we're out of here. If your sister[r]
-has become one of them, I won't show any mercy."[pcms]
+[ns]マルガリータ[nse]
+「礼ならここを出てからにしろ。お前の妹がヤツラと[r]
+　同じ仲間になっていれば、容赦はせんぞ」[pcms]
 
 *156|
 [fc]
-With a quiet intensity, Senior Margarita declared that and I[r]
-followed her resolutely.[pcms]
+静かな迫力を持って、そう言い放つ先輩。[r]
+ボクは意を決して後を追った。[pcms]
 
 *157|
 [fc]
-That's right. Ren might already have fallen prey to them.[pcms]
+そうだ。既に漣はヤツらの餌食になってるかも[r]
+しれない。[pcms]
 
 *158|
 [fc]
-Even so...[pcms]
+それでも……。[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *159|
 [fc]
-I prayed for Ren's safety as I chased after Senior Margarita[r]
-up the stairs.[pcms]
+ボクは漣が無事である事を祈りながら、[r]
+先輩の後を追って階段を駆け上がった。[pcms]
 
 ;//→block:30060
 [jump storage="30060.ks" target=*30060_TOP]

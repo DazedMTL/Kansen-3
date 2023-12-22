@@ -18,38 +18,39 @@
 
 *4568|
 [fc]
-What to do... For now, I decided to be cautious and once[r]
-again peeked at the situation above.[pcms]
+どうするか……とりあえず慎重を期して、[r]
+ボクは再び上の様子を窺った。[pcms]
 
 *4569|
 [fc]
-Then--[pcms]
+すると――[pcms]
 
 *4570|
 [fc]
-I felt someone's presence behind me. The moment I realized[r]
-that.[pcms]
+後ろに誰かの気配を感じた。[r]
+そう思った瞬間。[pcms]
 
 ;//☆レッドフラッシュ
 [赤フラ]
 
 *4571|
 [fc]
-My throat was being bitten through. Blood gushed out in[r]
-spurts.[pcms]
+ボクは喉笛を噛み千切られていた。[r]
+ドクドクとあふれる血潮。[pcms]
 
 *4572|
 [fc]
-[ns]Wataru[nse]
-"Wh...who...?"[pcms]
+[ns]航[nse]
+「だ……だ、れ……？」[pcms]
 
 *4573|
 [fc]
-Without knowing who had bitten me, or who had approached, my[r]
-consciousness was sealed by darkness.[pcms]
+誰が噛み付いてきたのかも、誰が[r]
+近づいてきたのかもわからず、[r]
+ボクの意識は闇に閉ざされた。[pcms]
 
 ;//バッドエンド
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

@@ -7,7 +7,7 @@
 ;{SceneSet 穏やかな晩餐}
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
-;//・場所：南国レストラン「マチヤーグァー」ＬＡＳＥＲ７Ｆ
+;//・場所：南国レストラン「マチヤーグァー」～ＬＡＳＥＲ７Ｆ
 ;//・時間：４日目（８月１８日）夕方
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹
@@ -26,44 +26,46 @@
 
 *2042|
 [fc]
-The lockdown of LASER's first floor and the elimination of[r]
-the infected roaming inside the mansion were successful.[pcms]
+ＬＡＳＥＲ一階の封鎖と、[r]
+そして館内をうろついていた感染者達の一掃。[pcms]
 
 *2043|
 [fc]
-...Our strategy was a success.[pcms]
+……ボク達の作戦は成功した。[pcms]
 
 *2044|
 [fc]
-But I feel heavy-hearted.[pcms]
+だけど、気が重い。[pcms]
 
 *2045|
 [fc]
-The sensation of flesh and bone shattering under my blows,[r]
-lingering in my hands, continued to assault me, draining all[r]
-strength from my body.[pcms]
+さっきボクがブン殴った感染者の肉と骨が砕ける感覚が、[r]
+手に残り、全身の力が抜けるような、イヤな感じがボクを[r]
+襲い続けていたせいで。[pcms]
 
 *2046|
 [fc]
-[ns]Wataru[nse]
-...[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *2047|
 [fc]
-For the first time, I struck someone like that, and then...[pcms]
+初めてあんな風に人を殴って、そして……。[pcms]
 
 *2048|
 [fc]
-...I don't want to think about it. That I might have taken a[r]
-life.[pcms]
+……考えたくない。[r]
+人の命を奪ってしまったなんて。[pcms]
 
 *2049|
 [fc]
-My legs are shaking. I can't muster any strength in my arms.[pcms]
+足が震える。[r]
+腕に力が入らない。[pcms]
 
 *2050|
 [fc]
-But I... We have things we must do.[pcms]
+だけど、ボクは……。[r]
+ボク達には、やらなきゃいけない事がある。[pcms]
 
 ;//@konya ビルの谷間
 [bg storage="BG130"][trans_c cross time=500]
@@ -71,85 +73,86 @@ But I... We have things we must do.[pcms]
 
 *2051|
 [fc]
-We were headed to "Machiyar-Guard" on Inokashira Street,[r]
-behind LASER, to secure food supplies and hide the remains[r]
-of the bar's master.[pcms]
+ボク達は食料品の確保と、バーのマスターの亡骸を隠すため、[r]
+ＬＡＳＥＲの裏手、井の頭通りにある『マチヤーグァー』へと[r]
+向かっていた。[pcms]
 
 *2052|
 [fc]
-Even though I say that, LASER is just around the corner.[r]
-Walking through the alley between buildings, we arrived in[r]
-no time.[pcms]
+とは言っても、ＬＡＳＥＲとは目と鼻の先。[r]
+ビルとビルの間の小道を歩いていると、すぐに到着した。[pcms]
 
 *2053|
 [fc]
-As expected, the back door was locked, and turning the knob[r]
-did nothing to open it.[pcms]
+想像通り、裏口の扉には鍵がかけられ、ノブを回しても[r]
+開く事はなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2054|
 [fc]
-[ns]Kousuke[nse]
-No choice then... We'll have to break in.[pcms]
+[ns]浩助[nse]
+「しかたねえ……。ブッ壊して入るしかねぇな」[pcms]
 
 *2055|
 [fc]
-Saying that, Kousuke swung the barrel he was carrying with[r]
-all his might at the doorknob.[pcms]
+そう言ってコースケは持っていたバールを、ドアノブ目がけて[r]
+力一杯振り下ろした。[pcms]
 
 ;//se046・ガン
 [se buf=0 storage="se046"]
 
 *2056|
 [fc]
-With a heavy thud, the door slowly opened. No matter how[r]
-well it was locked, it's useless once destroyed.[pcms]
+ゴン……という重い音と共に、扉がゆっくりと開く。[r]
+いくら鍵がかかっているとはいえ、破壊されてしまうと、[r]
+全く用をなさない。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2057|
 [fc]
-[ns]Kousuke[nse]
-Barrels really do come in handy...[pcms]
+[ns]浩助[nse]
+「バールって、やっぱ役に立つな……」[pcms]
 
 *2058|
 [fc]
-The sound brought back that unpleasant sensation to my[r]
-hands, and I replied to Kousuke absentmindedly.[pcms]
+その音のせいで、また手にあのイヤな感覚が戻って来たボクは、[r]
+上の空でコースケに返事をした。[pcms]
 
 *2059|
 [fc]
-[ns]Wataru[nse]
-Yeah...[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2060|
 [fc]
 [vo_yuh s="yuho1555"]
-[ns]Yuuho[nse]
-Don't admire such strange things.[pcms]
+[ns]悠帆[nse]
+「ヘンな事に感心しないでよ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2061|
 [fc]
 [vo_ren s="ren1369"]
-[ns]Ren[nse]
-Hey... shall we hurry? There might be infected hiding...[pcms]
+[ns]漣[nse]
+「ね……急ごう？[r]
+　感染者が隠れているかもしれないよ……」[pcms]
 
 *2062|
 [fc]
-[ns]Wataru[nse]
-Ah... right.[pcms]
+[ns]航[nse]
+「ああ……そうだね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2063|
 [fc]
-[ns]Kousuke[nse]
-But man, I'm really done with this kind of thing.[pcms]
+[ns]浩助[nse]
+「しっかし、もうこんな事、こりごりだぜ」[pcms]
 
 ;//@konya マチヤーグァー
 [bg storage="BG022"][trans_c cross time=500]
@@ -157,117 +160,119 @@ But man, I'm really done with this kind of thing.[pcms]
 
 *2064|
 [fc]
-Silently dragging our feet, we made several trips to bring[r]
-in the corpses, which we then wrapped in blankets and stored[r]
-inside a large commercial refrigerator.[pcms]
+黙々と引き摺るようにして[r]
+何往復もしながら運び込んだ死骸は、[r]
+業務用の大型冷蔵庫の中に、毛布の包みごとしまいこんだ。[pcms]
 
 *2065|
 [fc]
-Among them were those we had just killed, those Jin and[r]
-others had shot while rescuing Mizuki, and... the bodies of[r]
-the DJ bar's master and mama.[pcms]
+さっきボクたちが手にかけた相手もいれば、[r]
+壬たちが瑞樹を救出する際に撃ち殺したもの、[r]
+そして……ＤＪバーのマスターと、ママの遺体もある。[pcms]
 
 *2066|
 [fc]
-[ns]Wataru[nse]
-...I'm sorry. But there was no other way...[pcms]
+[ns]航[nse]
+「……ごめんなさい。でも、こうするしかなかったんだ……」[pcms]
 
 *2067|
 [fc]
-I offered a prayer to those who were once human and to those[r]
-I had killed myself, even though they were infected.[pcms]
+感染者とはいえ、元は人間だった相手……、[r]
+そしてボクが殺してしまった相手に、合掌する。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2068|
 [fc]
-[ns]Kousuke[nse]
-Master... and mama-san... May you be a couple again in your[r]
-next life... And teach me about good music again...[pcms]
+[ns]浩助[nse]
+「マスター……それに、ママさん……。[r]
+　次に生まれてくるときもまた夫婦で……。[r]
+　また、オレにいい音楽教えてくれよ……」[pcms]
 
 *2069|
 [fc]
-I wanted to bury the master and mama more respectfully. But[r]
-in this situation, I couldn't think of any other way to bury[r]
-them.[pcms]
+マスターとママのことは、もっと丁寧に葬ってあげたかった。[r]
+だけど、こんな状況では他の埋葬方法も思いつかない。[pcms]
 
 *2070|
 [fc]
-Because it was dangerous to touch blood, we couldn't even[r]
-close their eyes for them.[pcms]
+血に触れると危険だということで、[r]
+二人の目を閉ざしてあげる事すらできなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2071|
 [fc]
 [vo_yuh s="yuho1556"]
-[ns]Yuuho[nse]
-Master and mama always treated us kindly. They let us into[r]
-their shop even when we weren't customers...[pcms]
+[ns]悠帆[nse]
+「マスターたち、いつも優しくしてくれたよね。[r]
+　わたしたちみたいに、お客じゃなくたって[r]
+　お店に入れてくれたし……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2072|
 [fc]
 [vo_ren s="ren1370"]
-[ns]Ren[nse]
-Yeah... Thanks to them, I came to like music other than[r]
-classical...[pcms]
+[ns]漣[nse]
+「うん……。[r]
+　私も、二人のおかげで、[r]
+　クラッシック以外の音楽、好きになれた……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2073|
 [fc]
-[ns]Kousuke[nse]
-...Master really loved music. He used to play all sorts of[r]
-tracks for us, right?[pcms]
+[ns]浩助[nse]
+「……マスター、ほんと、音楽好きだったもんな。[r]
+　色んな曲流してくれたり、さ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *2074|
 [fc]
 [vo_miz s="mizuki0296"]
-[ns]Mizuki[nse]
-...I also had quite a bit of respect for the master, you[r]
-know.[pcms]
+[ns]瑞樹[nse]
+「……あたしもさ、[r]
+　けっこう尊敬してたんだよね、マスターのこと」[pcms]
 
 *2075|
 [fc]
-We each hesitantly offered our final words to the remains of[r]
-the master and mama, which were placed on top of the pile of[r]
-bodies.[pcms]
+山積みになった死体の、一番上に積んだマスターとママの亡骸に[r]
+ボクたちはそれぞれ、ためらいがちに別れの言葉をかけた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a26"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2076|
 [fc]
 [vo_mar s="maru1536"]
-[ns]Margarita[nse]
-...[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 ;//＠静かに合唱
 
 *2077|
 [fc]
-Maruko-senpai, who had no acquaintance with the master and[r]
-mama, also quietly joined her hands in prayer.[pcms]
+マスターたちとは面識のなかったマル子先輩も[r]
+静かに両手を合わせている。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2078|
 [fc]
-[ns]Wataru[nse]
-Rest in peace...ugh...[pcms]
+[ns]航[nse]
+「安らかに…………くっ……」[pcms]
 
 *2079|
 [fc]
-I tried to say my last goodbye as well. But I couldn't[r]
-continue speaking.[pcms]
+ボクも最後の挨拶をしようとした。[r]
+だけど言葉が続かない。[pcms]
 
 *2080|
 [fc]
-I couldn't save the master... Especially mama, I couldn't do[r]
-anything for her... I am... powerless...[pcms]
+マスターも助けられず……、[r]
+特にママには何もできなかった……。[r]
+ボクは……無力だ…………。[pcms]
 
 ;//se040・ドアノブを回す
 [se buf=0 storage="se040"]
@@ -279,418 +284,418 @@ anything for her... I am... powerless...[pcms]
 
 *2081|
 [fc]
-[ns]Shigeyoshi[nse]
-There's quite a lot here... oh! Doesn't this look like[r]
-something Aniki would like? Let's gorge on it later[r]
-together...[pcms]
+[ns]重吉[nse]
+「結構ありますねぇ……お！[r]
+　コレ、アニキ好きそうじゃないっすか？[r]
+　あとで二人でたらふく食いましょー……」[pcms]
 
 *2082|
 [fc]
-Jin and Shigeyoshi, who had been searching for food a little[r]
-distance away, came into the backyard and started rummaging[r]
-through the refrigerator for ingredients.[pcms]
+少し離れた場所で食料を探していた壬と重吉が、[r]
+バックヤードに入ってきて、[r]
+食材用の冷蔵庫をごそごそと漁っている。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2083|
 [fc]
-[ns]Shigeyoshi[nse]
-There's some good liquor here... ...but why do I have to be[r]
-with these guys... Tch[pcms]
+[ns]重吉[nse]
+「いい酒揃ってますねぇ……。[r]
+　……けど、何でコイツらと一緒に……チッ」[pcms]
 
 *2084|
 [fc]
-While happily collecting bottles of alcohol, Shigeyoshi[r]
-clicked his tongue bitterly upon noticing us in his field of[r]
-view.[pcms]
+喜んで酒瓶を集めながら、視界にボクたちを認めた重吉は[r]
+苦々しげに舌打ちをした。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2085|
 [fc]
-[ns]Jin[nse]
-Don't get distracted by unnecessary things. Take all of[r]
-that with you. And if there are snacks... that would be[r]
-perfect.[pcms]
+[ns]壬[nse]
+「余計な事に気を取られるな。それ全部持って行くぞ。[r]
+　あとは……ツマミが有れば最高だ」[pcms]
 
 *2086|
 [fc]
-Shigeyoshi's glare was mainly directed at Maruko-senpai.[pcms]
+重吉が睨んでいるのは、主にマル子先輩だ。[pcms]
 
 *2087|
 [fc]
-Earlier at the game center, amidst the chaos of fighting[r]
-infected, he tried to take advantage of the situation to hug[r]
-her and ended up eating a fierce kick instead.[pcms]
+さっき、ゲームセンターで感染者と戦っていた時、[r]
+どさくさに紛れて抱きつこうとして、[r]
+強烈な蹴りを喰らったからだ。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2088|
 [fc]
-[ns]Jin[nse]
-Let's go, Shige.[pcms]
+[ns]壬[nse]
+「行くぞ。シゲ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2089|
 [fc]
-[ns]Shigeyoshi[nse]
-...Understood.[pcms]
+[ns]重吉[nse]
+「…………わかりました」[pcms]
 
 *2090|
 [fc]
-Still with a foolish expression from stuffing tissues up his[r]
-nose, Shigeyoshi continued glaring at Maruko-senpai with[r]
-dissatisfaction until Jin urged him on and he finally looked[r]
-away.[pcms]
+鼻にティッシュを詰めた間抜けな顔のまま、[r]
+不満を露わにして、マル子先輩を睨み続けていた重吉は、[r]
+壬に促されてようやく視線を逸らした。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a27"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2091|
 [fc]
 [vo_mar s="maru1537"]
-[ns]Margarita[nse]
-To die in such a place must be so regrettable.[pcms]
+[ns]マルガリータ[nse]
+「こんなところで亡くなるなんて。さぞ無念だろうな」[pcms]
 
 *2092|
 [fc]
-Maruko-senpai completely ignored Shigeyoshi, turning to the[r]
-Master and Mama, crossing herself in front of her chest.[pcms]
+マル子先輩は、重吉を完全に無視して、[r]
+マスターとママに向かい、胸の前で十字をきっていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2093|
 [fc]
-[ns]Jin[nse]
-"However, death is such a fleeting thing."[pcms]
+[ns]壬[nse]
+「しかし、人が死ぬというのはあっけないものだな」[pcms]
 
 *2094|
 [fc]
-As Maruko-senpai quietly recited a passage from the Bible,[r]
-Jin coldly mocked her with his words as if to ridicule her.[pcms]
+小さな声で聖書の一節を読み上げているマル子先輩に対し、[r]
+それをあざ笑うかのように、壬が冷たく言い放った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2095|
 [fc]
-[ns]Kousuke[nse]
-"Tch... What a thing to say..."[pcms]
+[ns]浩助[nse]
+「チッ……なんて言いぐさだよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2096|
 [fc]
 [vo_mar s="maru1538"]
-[ns]Margarita[nse]
-"Really... How about showing some respect for the dead?[r]
-Given the state of this city, it wouldn't be surprising if[r]
-you ended up in the same situation, right?"[pcms]
+[ns]マルガリータ[nse]
+「全くだ……。少しは死者を悼んだらどうなんだ？[r]
+　今のこの街の状況を考えれば[r]
+　お前がこうなってしまっていても不思議はないのだぞ？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2097|
 [fc]
-[ns]Jin[nse]
-"If it were me, I'd be annoyed to be mourned by someone I[r]
-hardly know."[pcms]
+[ns]壬[nse]
+「俺ならよく知らないヤツに悼まれたところで、[r]
+　迷惑だがな」[pcms]
 
 *2098|
 [fc]
-Without showing any sign of being intimidated by the harsh[r]
-words, Jin spoke smoothly.[pcms]
+厳しい言葉に怯む様子もなく、壬はさらりと言い放った。[pcms]
 
 *2099|
 [fc]
-[ns]Jin[nse]
-"First of all, there are plenty of corpses lying around.[r]
-There are fewer people alive and well now."[pcms]
+[ns]壬[nse]
+「第一、死体ならそこらに山ほど転がってる。[r]
+　今まともに生きてるヤツの方が、少ないだろ」[pcms]
 
 *2100|
 [fc]
-[ns]Jin[nse]
-"...Before becoming one to be mourned, before dying... there[r]
-are things that need to be done. That's what's important,[r]
-right?"[pcms]
+[ns]壬[nse]
+「……悼まれる側になっちまう前に、やるべきことをやる。[r]
+　その方が重要だろう？」[pcms]
 
 *2101|
 [fc]
-What Jin was saying wasn't wrong. But... in this situation,[r]
-there was no need to say such things...[pcms]
+壬の言っている事は間違ってはいない。[r]
+だけど……こういう状況で、そんな事言わなくていいのに……。[pcms]
 
 *2102|
 [fc]
-[ns]Jin[nse]
-"Once you're done mourning, carry the food from this place."[pcms]
+[ns]壬[nse]
+「弔いが済んだら、この店の食い物運べよ」[pcms]
 
 *2103|
 [fc]
-[ns]Jin[nse]
-"I don't feel good about visiting graves repeatedly or[r]
-eating stuff left in such places."[pcms]
+[ns]壬[nse]
+「墓場に何度も足を運ぶのも、[r]
+　そんなところに置いてあったモン食うのも[r]
+　いい気しねぇからな」[pcms]
 
 *2104|
 [fc]
-Still with his back turned to us, Shigeyoshi continued[r]
-packing alcohol and food into boxes while saying terrible[r]
-things.[pcms]
+相変わらずボク達に背を向けたまま、[r]
+お酒や食べ物をダンボールに詰める作業をしながら、[r]
+壬はヒドイ事を言ってのける。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2105|
 [fc]
-[ns]Jin[nse]
-"That should be enough. Let's go, Shige."[pcms]
+[ns]壬[nse]
+「こんなもんだろ。行くぞ、シゲ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2106|
 [fc]
-[ns]Shigeyoshi[nse]
-"Understood."[pcms]
+[ns]重吉[nse]
+「わかりました」[pcms]
 
 *2107|
 [fc]
-The two of them, having packed various items, shouldered the[r]
-boxes and returned to LASER.[pcms]
+色々な物を詰めるだけ詰めた二人は、段ボールを肩に乗せ、[r]
+ＬＡＳＥＲへ戻っていった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2108|
 [fc]
 [vo_ren s="ren1371"]
-[ns]Ren[nse]
-"That's awful... to speak like that..."[pcms]
+[ns]漣[nse]
+「ひどいよ……あんな言い方……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2109|
 [fc]
 [vo_yuh s="yuho1557"]
-[ns]Yuuho[nse]
-"Yeah. It's the worst..."[pcms]
+[ns]悠帆[nse]
+「うん。サイテーだよね……」[pcms]
 
 *2110|
 [fc]
-Yuuho bit her lip and hesitantly continued her words.[pcms]
+唇を噛んだ悠帆は、ためらうように言葉を続けた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2111|
 [fc]
 [vo_yuh s="yuho1558"]
-[ns]Yuuho[nse]
-"But... what he said is, if you think about it, correct..."[pcms]
+[ns]悠帆[nse]
+「けど……。[r]
+　あの人の言ってることも、[r]
+　正しいと言えば正しいんだよね……」[pcms]
 
 *2112|
 [fc]
-Maybe... that might be true. Jin might be right. But being[r]
-right doesn't necessarily mean it's good...[pcms]
+そう……かもしれない。[r]
+壬は正しいのかもしれない。[r]
+正しいから良いことだとは限らないけれど……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2113|
 [fc]
 [vo_yuh s="yuho1559"]
-[ns]Yuuho[nse]
-"Wataru?"[pcms]
+[ns]悠帆[nse]
+「航？」[pcms]
 
 *2114|
 [fc]
-Before becoming one to be mourned... Before dying... there[r]
-are things that need to be done. Does that include killing[r]
-people...?[pcms]
+悼まれる側になる前に……。死んでしまう前に……。[r]
+やるべきことを……やる。[r]
+その中には、人を殺すことも含まれるんだろうか……。[pcms]
 
 *2115|
 [fc]
 [vo_yuh s="yuho1560"]
-[ns]Yuuho[nse]
-"Wataru? What's wrong, you're spacing out... ...It's a[r]
-shock, isn't it?"[pcms]
+[ns]悠帆[nse]
+「わーたーる？　どうしたの、ボーッとして……。[r]
+　……やっぱり、ショックだよね」[pcms]
 
 *2116|
 [fc]
-[ns]Wataru[nse]
-"Ah, yeah... I just feel a bit drained..."[pcms]
+[ns]航[nse]
+「あ、ああ……。なんだか気が抜けちゃって……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2117|
 [fc]
-Before I knew it, I was lost in thought and Yuuho was[r]
-peering into my face.[pcms]
+いつの間にか、ぼんやりしていたみたいで[r]
+悠帆がボクの顔を覗きこんでいた。[pcms]
 
 *2118|
 [fc]
-Ren also seemed concerned and gently held my hand.[pcms]
+漣も心配してくれたのか、そっと手を握ってくれる。[pcms]
 
 *2119|
 [fc]
-I thought to myself that if I looked in a mirror now, I[r]
-would probably see a terrible complexion.[pcms]
+きっと今鏡を見たら、ひどい顔色なんだろうなって[r]
+自分でも思った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2120|
 [fc]
-[ns]Kousuke[nse]
-"Ah, so that's it. Well, for the usual Wataru, you've been[r]
-moving around a lot and doing great! Today's Wataru was[r]
-cool, huh?"[pcms]
+[ns]浩助[nse]
+「あぁ、そういう事か。まあ、いつものワタルからしたら、[r]
+　スゲー動き回って頑張ったからな！[r]
+　今日のワタル、イケてたぜ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2121|
 [fc]
 [vo_yuh s="yuho1561"]
-[ns]Yuuho[nse]
-"Yeah yeah!"[pcms]
+[ns]悠帆[nse]
+「うんうん！」[pcms]
 
 *2122|
 [fc]
-Yuuho nodded and looked at me as if she remembered[r]
-something.[pcms]
+うなずいた悠帆は、何かを思い出したようにボクを見た。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2123|
 [fc]
 [vo_yuh s="yuho1562"]
-[ns]Yuuho[nse]
-"That's right, Wataru... Oh... never mind, it's nothing..."[pcms]
+[ns]悠帆[nse]
+「そうだ、航……。[r]
+　あの……ううん、なんでもない……」[pcms]
 
 *2124|
 [fc]
-She was unusually hesitant and faltering in her speech.[pcms]
+珍しくもじもじとして歯切れが悪い。[pcms]
 
 *2125|
 [fc]
-[ns]Wataru[nse]
-"Hm? What's wrong?"[pcms]
+[ns]航[nse]
+「ん？　どうしたの？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2126|
 [fc]
 [vo_yuh s="yuho1563"]
-[ns]Yuuho[nse]
-"It's nothing? Anyway, it's getting dark, so let's head back[r]
-to LASER for dinner?"[pcms]
+[ns]悠帆[nse]
+「な、なんでもないよ？　それより、もう暗くなってきたから、[r]
+　ＬＡＳＥＲに戻って晩ご飯にしよう？」[pcms]
 ;//＠少し照れて答える。
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2127|
 [fc]
-[ns]Kousuke[nse]
-"Oh! Food, huh! I'm starting to get hungry too. I'm looking[r]
-forward to Yuuho's special menu!"[pcms]
+[ns]浩助[nse]
+「お！　メシか！[r]
+　確かにそろそろハラも減ってきたしな。[r]
+　悠帆のスペシャルmenu、楽しみなんだよな～」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2128|
 [fc]
 [vo_yuh s="yuho1564"]
-[ns]Yuuho[nse]
-"Yeah! I'll put my heart into making it? It'll definitely be[r]
-delicious!"[pcms]
+[ns]悠帆[nse]
+「うん！　気合い入れて作るよ？[r]
+　絶対美味しいんだからね」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2129|
 [fc]
 [vo_ren s="ren1372"]
-[ns]Ren[nse]
-"I'll help too."[pcms]
+[ns]漣[nse]
+「私も、手伝うよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2130|
 [fc]
 [vo_mar s="maru1539"]
-[ns]Margarita[nse]
-"I'm looking forward to it."[pcms]
+[ns]マルガリータ[nse]
+「楽しみだな」[pcms]
 
 *2131|
 [fc]
-It seemed like everyone had already switched to dinner mode.[pcms]
+既にみんなの頭は夕食モードに切り替わったみたいだ。[pcms]
 
 *2132|
 [fc]
-Each person was chatting amiably about what they wanted to[r]
-cook or eat.[pcms]
+各々、何を作るとか、何が食べたいだとか、[r]
+和気藹々と会話している。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2133|
 [fc]
 [vo_yuh s="yuho1565"]
-[ns]Yuuho[nse]
-"...Phew"[pcms]
+[ns]悠帆[nse]
+「……ふぅ」[pcms]
 
 *2134|
 [fc]
-In the midst of this, Yuuho glanced at me once more.[pcms]
+そんな中で悠帆が、もう一度だけちらっとボクを見た。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2135|
 [fc]
-I was preoccupied with the words Yuuho had started to say[r]
-earlier and couldn't join in everyone's conversation.[pcms]
+ボクはさっき悠帆が言いかけた言葉が気になって、[r]
+みんなの会話の輪に入る事ができない。[pcms]
 
 *2136|
 [fc]
-...Hmm. I wonder what Yuuho was trying to say. But I'm so[r]
-hungry... my head isn't working well...[pcms]
+……うーん。[r]
+悠帆は一体、何を言おうとしたんだろう。[r]
+でも、お腹ぺこぺこで……頭が上手く回らないよ……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2137|
 [fc]
-[ns]Kousuke[nse]
-"Then let's head back!"[pcms]
+[ns]浩助[nse]
+「じゃあ、戻るか！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2138|
 [fc]
 [vo_ren s="ren1373"]
-[ns]Ren[nse]
-"Yes!"[pcms]
+[ns]漣[nse]
+「はーい」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2139|
 [fc]
 [vo_yuh s="yuho1566"]
-[ns]Yuuho[nse]
-"Yes!"[pcms]
+[ns]悠帆[nse]
+「はーい」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2140|
 [fc]
-At Kousuke's signal, everyone started walking back towards[r]
-LASER together.[pcms]
+コースケのかけ声に、みんな一斉にＬＡＳＥＲへと[r]
+向かい歩いていく。[pcms]
 
 *2141|
 [fc]
-Left behind alone, I turned back to the Master's remains[r]
-once more, remembering their kind smile and the music they[r]
-taught me.[pcms]
+一人残されたボクは、マスター達の亡骸へと振り返り、[r]
+もう一度、優しかった笑顔や、[r]
+教えてくれた音楽の事を想いだしていた。[pcms]
 
 *2142|
 [fc]
-[ns]Wataru[nse]
-"Goodbye, Master..."[pcms]
+[ns]航[nse]
+「さようなら、マスター……」[pcms]
 
 *2143|
 [fc]
-I bowed to the remains and then followed after everyone[r]
-else.[pcms]
+ボクは、亡骸に向かい一礼をしてから、みんなの後を追った。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

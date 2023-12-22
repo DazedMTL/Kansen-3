@@ -44,47 +44,44 @@
 
 *148|
 [fc]
-I returned home and was soothing my body in the bath, heated[r]
-from the summer night's warmth.[pcms]
+帰宅したわたしは、夏の夜の熱気に[r]
+当てられた身体をお風呂で癒していた。[pcms]
 
 *149|
 [fc]
-As I washed my sweat-drenched body, I absentmindedly[r]
-recalled the events that had just transpired.[pcms]
+汗にまみれた身体を洗いながら、ぼんやりと[r]
+先ほどの出来事を思い出した。[pcms]
 
 *150|
 [fc]
-Things got a bit hectic towards the end, but it was a fun[r]
-day.[pcms]
+なんか最後はばたばたしたちゃったけど、[r]
+楽しい一日だった。[pcms]
 
 *151|
 [fc]
-I'll have to thank Margarita-san eventually.[pcms]
+マルガリータさんにはいずれ、お礼をしないといけない。[pcms]
 
 *152|
 [fc]
-Even so, I feel like it's been a while since I've seen[r]
-Wataru's manly figure. He's always lacked physical strength[r]
-and been bad at fighting...[pcms]
+それにしても、久しぶりに航の雄姿を見た気がする。[r]
+昔から体力もないし、ケンカも弱いけど……。[pcms]
 
 *153|
 [fc]
-But still, the way he doesn't flinch and faces things head-[r]
-on when it really matters has a different kind of coolness[r]
-than the strong Kousuke.[pcms]
+それでもいざという時に、怯まないで向かっていくところは[r]
+ケンカが強いコースケとは違う格好よさがあると思う。[pcms]
 
 *154|
 [fc]
-But lately, I feel like the time I spend with Wataru has[r]
-significantly decreased. We used to act together as if it[r]
-were natural, but even the bike race was the first since[r]
-summer vacation started.[pcms]
+でも、最近は航と過ごす時間がかなり減った気がする。[r]
+まるで当たり前のように、いつも一緒に行動していたけど、[r]
+自転車レースだって夏休みに入ってから初めてだったはず。[pcms]
 
 *155|
 [fc]
-I'm busy with club activities, and it's hard to match[r]
-schedules with Wataru. No, even before that, I feel like the[r]
-time we spend together has decreased compared to before.[pcms]
+わたしは部活が忙しくて、航とは時間の都合があわない。[r]
+いや、それ以前に、最近は前ほど一緒にいる時間が[r]
+減っている気がする。[pcms]
 
 ;//〆：HEV●●●
 [evcg storage="HEV007a"][trans_c cross time=300]
@@ -92,597 +89,585 @@ time we spend together has decreased compared to before.[pcms]
 *156|
 [fc]
 [vo_yuh s="yuho0281"]
-[ns]Yuuho[nse]
-"Are we gradually drifting apart...?"[pcms]
+[ns]悠帆[nse]
+「だんだん離れていくのかな……」[pcms]
 
 *157|
 [fc]
-Growing up, walking my own path in life... does that mean[r]
-drifting away from Wataru and the others?[pcms]
+大人になること、自分の人生を歩くこと……それが[r]
+航達と離れていくことなんだろうか。[pcms]
 
 *158|
 [fc]
-I'm genuinely happy that my swimming performance has[r]
-improved and I'm now considered at a level where I can aim[r]
-for the world stage.[pcms]
+水泳界で成績が伸びて、今後は世界を目指せるレベルと[r]
+評価されたことは素直に嬉しい。[pcms]
 
 *159|
 [fc]
-I want to meet the expectations of the school and the people[r]
-in town, and I'm devoted to practicing for my own potential.[pcms]
+学園や街の人々から寄せられている期待に応えたいし、[r]
+自分の可能性の為に練習に打ち込んでいる。[pcms]
 
 *160|
 [fc]
-But it's sad that this comes at the expense of creating[r]
-distance between me and Wataru and the others.[pcms]
+だけど、それと引き換えに航達との距離が[r]
+できてしまうのは寂しい。[pcms]
 
 *161|
 [fc]
-It can't be helped that we can't always be together like[r]
-when we were kids... like before, but I don't want us to[r]
-grow any further apart.[pcms]
+子供のころのように……以前のようにいつも一緒に[r]
+いられないのは仕方ないけど、これ以上遠くなるのだけは嫌。[pcms]
 
 *162|
 [fc]
-Besides, I'm... very worried about Wataru.[pcms]
+それにわたしは……航の事がとても心配。[pcms]
 
 *163|
 [fc]
-Ever since he lost his mother four years ago, Wataru has[r]
-been somewhat different.[pcms]
+４年前にお母さんを亡くしてから、航はどこか様子が変だ。[pcms]
 
 *164|
 [fc]
-Lately, every time I see him, he seems to have something on[r]
-his mind.[pcms]
+最近は会うたびに何かを思いつめているような顔をしている。[pcms]
 
 *165|
 [fc]
-He acts bright and normal when we talk, but when he's alone,[r]
-his expression carries a dark shadow.[pcms]
+言葉を交わせば明るくいつものように振る舞っているけど、[r]
+一人の時の表情はどこか暗い影がある。[pcms]
 
 *166|
 [fc]
-The smile that used to be filled with innocent longing now[r]
-seems to have a shadow over it, and I can't tell where he's[r]
-looking or what he's thinking.[pcms]
+素直な憧憬に満ちていた笑顔も、今は陰りがあるような[r]
+気がするし、どこを見てなにを考えているのかが分からない。[pcms]
 
 *167|
 [fc]
-I'd feel more at ease if he stayed the naughty boy who peeks[r]
-into club activities with Kousuke...[pcms]
+コースケと部活を覗きにくるエッチな男の子でいてくれたほうが[r]
+まだ安心……。[pcms]
 
 ;//〆：HEV●●●　差分A
 [evcg storage="HEV007b"][trans_c cross time=300]
 
 *168|
 [fc]
-As I thought about such things, my fingers naturally[r]
-extended towards the center of my crotch.[pcms]
+そんなことを考えているうちに、わたしの指は自然と[r]
+股間の中心に伸びていた。[pcms]
 
 *169|
 [fc]
-Slipping a finger into my exposed petals, a different kind[r]
-of mucus than the bathwater began to cling to it.[pcms]
+剥き出しの花弁に指を滑り込ませると、お湯とは違った[r]
+粘液が絡みついてきた。[pcms]
 
 *170|
 [fc]
 [vo_yuh s="yuho0282"]
-[ns]Yuuho[nse]
-"Ah..."[pcms]
+[ns]悠帆[nse]
+「あっ……」[pcms]
 
 *171|
 [fc]
-A sigh escaped my lips involuntarily. A shivering sensation[r]
-ran up my spine, and strength entered my fingers.[pcms]
+尻すぼみな声が口から思わずこぼれ出す。[r]
+背筋に震えるような感覚が走り、指に力が入る。[pcms]
 
 *172|
 [fc]
 [vo_yuh s="yuho0283"]
-[ns]Yuuho[nse]
-"Ah, mmm, fuu..."[pcms]
+[ns]悠帆[nse]
+「あっぁっ、んっふぅ……」[pcms]
 
 *173|
 [fc]
-I know I shouldn't be doing this, but once the fire is lit,[r]
-I just can't help myself.[pcms]
+こんなことしてはいけないと、頭では分かっているんだけど[r]
+一度火が付くとどうしても抑えられなかった。[pcms]
 
 *174|
 [fc]
-Before I knew it, I had aimed the showerhead at my crotch,[r]
-targeting my sensitive spot as I washed my body.[pcms]
+気がつけば身体を流していたシャワーを股間に当てて、[r]
+わたしは自分の敏感な場所に狙いを定めた。[pcms]
 
 *175|
 [fc]
-When the forceful stream of water hit my clit directly, I[r]
-couldn't help but arch my back greatly.[pcms]
+勢いよく飛び出すお湯が、股間の肉芽を直撃すると、[r]
+溜まらず大きく身体をのけぞらせてしまう。[pcms]
 
 *176|
 [fc]
 [vo_yuh s="yuho0284"]
-[ns]Yuuho[nse]
-"Haa, fuu... nnnhah..."[pcms]
+[ns]悠帆[nse]
+「はあっ、ふぅっぅぅぅっ……んっはぁっはぁ」[pcms]
 
 *177|
 [fc]
-My breathing became ragged quickly, and the tone of my voice[r]
-spilling out grew higher.[pcms]
+息使いはたちまち荒くなり、口からこぼれる声のトーンは[r]
+高さを増していく。[pcms]
 
 *178|
 [fc]
-As my fingers played with the entrance to my petals and[r]
-moved deeper inside, a wetness began to overflow.[pcms]
+花弁の入り口を弄っていた指がアソコの奥へと進むと、[r]
+粘液がじわっとあふれてきた。[pcms]
 
 *179|
 [fc]
 [vo_yuh s="yuho0285"]
-[ns]Yuuho[nse]
-"Nnnnn, fuu, kuu..."[pcms]
+[ns]悠帆[nse]
+「んっんんっ、ふっぅ、くっぅ……」[pcms]
 
 *180|
 [fc]
-In the bathroom echoed my shameless voice, and from down[r]
-there began the lewd sound of stickiness.[pcms]
+浴室にはだらしのないわたしの声が響き、アソコからは[r]
+ねっとりした卑猥な音がしはじめる。[pcms]
 
 *181|
 [fc]
-The throbbing of my flesh seeking pleasure intensified, and[r]
-I was no longer in a state where self-control could handle[r]
-it.[pcms]
+快感を求める肉体の疼きは激しさを増し、[r]
+もはや自制心で対処できる状態ではなくなっていた。[pcms]
 
 ;//〆：HEV●●●　差分B
 [evcg storage="HEV007c"][trans_c cross time=300]
 
 *182|
 [fc]
-Ever since appearing on TV and being filmed by cameras, I've[r]
-felt an increase in the intensity of gazes upon me.[pcms]
+ＴＶの取材を受けてカメラに映ってから、わたしは以前より[r]
+集まる視線の強さが増したことを感じていた。[pcms]
 
 *183|
 [fc]
-Many people are staring at my body. They're ogling my[r]
-physique through my swimsuit.[pcms]
+多くの人がわたしの身体を見つめている。[r]
+水着越しにわたしの肉体を凝視している。[pcms]
 
 *184|
 [fc]
-In fact, the number of spectators has significantly[r]
-increased, and there are many secretly taken photos of me on[r]
-the internet.[pcms]
+事実観客の人数も大幅に増えたし、ネットには自分の写真を[r]
+隠し撮りした画像なんかも多くある。[pcms]
 
 *185|
 [fc]
-All sorts of men, all sorts of people are looking at me with[r]
-various emotions.[pcms]
+いろんな男性、いろんな人が、いろんな感情でわたしを[r]
+見つめている。[pcms]
 
 *186|
 [fc]
-Imagining what lies beneath my swimsuit, I am being[r]
-subjected to lewd gazes from many men.[pcms]
+水着の下にあるわたしの肉体を想像しながら、[r]
+わたしは多くの男性から、卑猥な視線を浴びている。[pcms]
 
 *187|
 [fc]
-The pleasure of being in the spotlight simultaneously[r]
-instills in me a feeling as if I'm being defiled.[pcms]
+注目される快感と同時に、汚されていくような[r]
+感覚をわたしに植えつける。[pcms]
 
 *188|
 [fc]
-And... when I become aware of it, my body heats up intensely[r]
-and naughty juices start flowing from down there.[pcms]
+そして……わたしはそれを意識すると、身体が激しく火照り[r]
+アソコからエッチな汁が出てしまう。[pcms]
 
 *189|
 [fc]
-Lately after competitions or practice, the heat in my body[r]
-becomes uncontrollable.[pcms]
+最近では競技会や練習の後、身体の火照りが[r]
+抑えられないほどになってきた。[pcms]
 
 *190|
 [fc]
-Thus, I find myself caressing down there with my own hands[r]
-to achieve satisfying pleasure or else I'll end up staining[r]
-even my underwear.[pcms]
+こうして自らの手でアソコを愛撫して、[r]
+満足のいく快感を得ないと下着まで汚してしまう。[pcms]
 
 *191|
 [fc]
-After practice when changing clothes, walking around[r]
-nonchalantly, talking, or even riding a bike, sometimes my[r]
-underwear is wet with juices beneath my clothes.[pcms]
+練習を終えて着替え、何気ない顔で歩いたり、[r]
+会話をしたり、自転車に乗ったりしている時でさえ、[r]
+衣服の下の下着は汁で濡れていることさえある。[pcms]
 
 *192|
 [fc]
-It's filthy and yet I want to be defiled... Even though I[r]
-know it's wrong and shouldn't be done, I can't suppress the[r]
-throbbing of my flesh.[pcms]
+汚らわしくて、でも汚されたくて……。[r]
+ダメだと分かっているのに、いけないことだと[r]
+分かってるのに、肉体の疼きが抑えられない。[pcms]
 
 *193|
 [fc]
 [vo_yuh s="yuho0286"]
-[ns]Yuuho[nse]
-"Aaahh, nnn, fuuck..."[pcms]
+[ns]悠帆[nse]
+「ああぁぁっ、んっ、ふぅっくぅっ……」[pcms]
 
 *194|
 [fc]
-I know that when boys get excited or think about naughty[r]
-things, they get erections.[pcms]
+男の子が興奮したり、エッチなことを考えたりすると[r]
+勃起することは知っている。[pcms]
 
 *195|
 [fc]
-I also know that boys masturbate while looking at naughty[r]
-books or thinking about such things.[pcms]
+男の子がエッチなことを考えたり、エッチな本なんかをみて[r]
+オナニーしていることも知っている。[pcms]
 
 *196|
 [fc]
-But I am a girl.[pcms]
+でも、わたしは女だ。[pcms]
 
 *197|
 [fc]
-I wonder if normal girls experience their bodies heating up[r]
-and their underwear getting wet like this.[pcms]
+普通の女の子は身体が火照って[r]
+下着を濡らすなんてことがあるんだろうか。[pcms]
 
 *198|
 [fc]
-Do girls touch themselves down there or feel pleasure from[r]
-the shower like this?[pcms]
+こうして自分のアソコを触ったり、シャワーを当てて[r]
+感じたりするんだろうか。[pcms]
 
 *199|
 [fc]
-I worry that indulging in masturbation for pleasure makes me[r]
-a particularly lewd and strange person.[pcms]
+快楽を求めて自慰にふけってしまう自分が、[r]
+特別卑猥で変な人間ではないかと心配になる。[pcms]
 
 *200|
 [fc]
-When I was a child, I never even thought about such things.[pcms]
+子供のころはこんなこと考えもしなかったのに。[pcms]
 
 *201|
 [fc]
-To think that I would become someone who does such things...[r]
-I never even dreamed of it.[pcms]
+こんなことをする自分になるなんて……[r]
+夢にも思わなかったのに。[pcms]
 
 *202|
 [fc]
-I can clearly feel my fingers being squeezed by the flesh[r]
-inside as they move deeper into my pussy.[pcms]
+アソコの奥へと進んだ指を、自分の秘肉が締め付けているのが[r]
+はっきりと感じ取れた。[pcms]
 
 *203|
 [fc]
-I'm clearly craving... the invasion of something thicker and[r]
-harder.[pcms]
+わたしは明らかに求めている……もっと太くて[r]
+固い存在の侵入を。[pcms]
 
 *204|
 [fc]
-I desire to be defiled. I want to accept the gazes and[r]
-desires of many upon this body.[pcms]
+わたしは汚されたいと望んでいる。[r]
+沢山の視線、沢山の欲望をこの肉体で受け入れたいと。[pcms]
 
 *205|
 [fc]
 [vo_yuh s="yuho0287"]
-[ns]Yuuho[nse]
-"Aaahh, ahh, mmm, fuuck..."[pcms]
+[ns]悠帆[nse]
+「はぁぁぁっ、あっぁあっんんっ……」[pcms]
 
 *206|
 [fc]
-Such thoughts are absolutely forbidden. I understand that[r]
-it's a wrong idea for a woman.[pcms]
+そんなことは絶対にダメ。女として間違った考えだと[r]
+いうことは理解している。[pcms]
 
 *207|
 [fc]
-But the hot throbbing my body craves won't stop.[pcms]
+でも、肉体が求める熱い疼きは止まらない。[pcms]
 
 *208|
 [fc]
 [vo_yuh s="yuho0288"]
-[ns]Yuuho[nse]
-"Mmm, mmm, ooh... ohh!"[pcms]
+[ns]悠帆[nse]
+「んっんん、んっふぅぅ……ふぅっあぁぁっ」[pcms]
 
 *209|
 [fc]
-If it's wrong with many people, then who would be right?[pcms]
+沢山の人がダメなら、誰ならいいんだろう。[pcms]
 
 *210|
 [fc]
-When I comfort myself, I always bring to mind the things I[r]
-usually think about.[pcms]
+わたしは自分で慰めるとき、いつも考えることを[r]
+頭に思い浮かべていた。[pcms]
 
 *211|
 [fc]
-I wonder what Wataru thinks of me?[pcms]
+航はわたしをどう思っているんだろうか？[pcms]
 
 *212|
 [fc]
-Would Wataru accept me even like this?[pcms]
+こんなわたしでも航なら受け入れてくれるのかな。[pcms]
 
 *213|
 [fc]
-Would it be permissible to accept Wataru's desires?[pcms]
+航の欲望なら、わたしは受け入れても許されるのかな。[pcms]
 
 *214|
 [fc]
-When I think of a man whose desires I could permit, Wataru[r]
-always comes to mind first.[pcms]
+許してもいい男の人を思い浮かべると、[r]
+真っ先に出てくるのは[r]
+いつもきまって航だった。[pcms]
 
 *215|
 [fc]
-As I indulge in masturbation, all I can think about is[r]
-Wataru.[pcms]
+こうして自慰にふけりながら、考えるのは航の事ばかり。[pcms]
 
 *216|
 [fc]
-Do I like Wataru?[pcms]
+わたしは航の事が好きなんだろうか？[pcms]
 
 *217|
 [fc]
-I can immediately say Kousuke is "just a friend," but Wataru[r]
-is different. He doesn't fit into categories like childhood[r]
-friend or friend; there's definitely another emotion there.[pcms]
+身近な男で浩助は『友達』と即答できるけど航は違う。[r]
+幼馴染とか友人とか、そういう括りとは違う、[r]
+もうひとつの感情が確かにある。[pcms]
 
 *218|
 [fc]
-But it's not the heart-pounding sensation I felt for[r]
-handsome seniors or celebrities I've met on TV.[pcms]
+でも、イケメンの先輩や、ＴＶで一緒になったタレントに[r]
+感じたようなドキドキする感覚はない。[pcms]
 
 *219|
 [fc]
-He's not someone who evokes what is commonly referred to as[r]
-admiration or excitement.[pcms]
+俗に言う憧れとかトキメキとか、そんな何かを感じる[r]
+ような相手ではない。[pcms]
 
 *220|
 [fc]
-He's not just a friend, not a sibling, not a best friend...[pcms]
+ただの友達でもなくて、兄弟でもなくて、[r]
+親友でもなくて……。[pcms]
 
 *221|
 [fc]
 [vo_yuh s="yuho0289"]
-[ns]Yuuho[nse]
-"Aaahh, mmm, ooh..."[pcms]
+[ns]悠帆[nse]
+「あぁぁっんっ、んっふぅっ……」[pcms]
 
 *222|
 [fc]
-I wonder how I feel about Wataru. I wonder how Wataru feels[r]
-about me.[pcms]
+わたしは航をどう想っているんだろう。[r]
+航はわたしをどう想っているんだろう。[pcms]
 
 *223|
 [fc]
-As I check the slipperiness of my throbbing pussy, all that[r]
-concerns me are such thoughts.[pcms]
+疼くアソコの滑りを確かめながら、気になるのは[r]
+そんなことばかり。[pcms]
 
 *224|
 [fc]
-Every time I imagine Wataru's face, my pussy clenches and[r]
-spasms around my finger. A hot fluid overflows from deep[r]
-inside without end.[pcms]
+航の顔を想像するたびに、わたしのアソコは[r]
+ヒクヒクと痙攣して指を締め付ける。[r]
+奥からとめどなく熱い汁があふれだす。[pcms]
 
 *225|
 [fc]
-I might want Wataru. Maybe I want him to insert his dick[r]
-into me here.[pcms]
+わたしは航が欲しいのかもしれない。[r]
+航のあれをわたしのここへ入れて欲しいのかもしれない。[pcms]
 
 *226|
 [fc]
 [vo_yuh s="yuho0290"]
-[ns]Yuuho[nse]
-"Aaahh, ohh, mmm..."[pcms]
+[ns]悠帆[nse]
+「はぁぁぁぁっ、あっふぅうっん」[pcms]
 
 *227|
 [fc]
-A tingling pleasure like waves repeatedly surges through my[r]
-entire body.[pcms]
+波のように痺れるような快感が、幾重にも重なって[r]
+全身を駆け抜けていく。[pcms]
 
 *228|
 [fc]
-The waves of pleasure rising from my wet pussy collide[r]
-within me, growing in intensity.[pcms]
+潤んだ肉壷から湧き上がった快感の波が、わたしの体内で[r]
+ぶつかり合い大きさを増していく。[pcms]
 
 *229|
 [fc]
 [vo_yuh s="yuho0291"]
-[ns]Yuuho[nse]
-"Mmm, ooh... ohh, aahh!"[pcms]
+[ns]悠帆[nse]
+「んっふぅぅっ、ふぅっぐぅぅ……んんっ、んっはぁぁぁ」[pcms]
 
 *230|
 [fc]
-The growing wave of pleasure eventually seeks an exit,[r]
-wandering until at last it escapes from my mouth as a moan.[pcms]
+大きくなった快楽の波はやがて出口を求めてさまよい、[r]
+最後はわたしの口から嬌声となって飛び出した。[pcms]
 
 *231|
 [fc]
 [vo_yuh s="yuho0292"]
-[ns]Yuuho[nse]
-"Aaahh, ohh... aahh!"[pcms]
+[ns]悠帆[nse]
+「はぁぁっふぅっ、ふぅっああぁぁぁ」[pcms]
 
 *232|
 [fc]
-I want it... I want a hard and thick stimulation thrust into[r]
-my pussy. No matter how much I move or rub, my own fingers[r]
-are just not enough.[pcms]
+欲しい……固くて太い刺激を、アソコに突きいれて欲しい。[r]
+いくら動かしても、いくら擦っても、自分の指では[r]
+どうしても物足りない。[pcms]
 
 *233|
 [fc]
-I want to show off my writhing form. I want to show all of[r]
-my body. My hard nipples, my pussy that won't stop leaking[r]
-juice, even my twitching ass holeI want them all to be seen.[pcms]
+わたしの悶える姿を見せたい。わたしの身体を全部見せたい。[r]
+固くなった乳首も、汁が止まらないあそこも、[r]
+ヒクヒク痙攣するお尻の穴も全部見られたい。[pcms]
 
 *234|
 [fc]
-The feelings of embarrassment and filthiness only heighten[r]
-my pleasure more and more.[pcms]
+恥ずかしい気持ちが、汚らわしいという気持ちが、[r]
+わたしの快感をどんどん高くしていく。[pcms]
 
 *235|
 [fc]
-The movement of my fingers gets faster, and before I know[r]
-it, they're pushed in up to the base when initially I was[r]
-only timidly playing with them.[pcms]
+指の動きが速くなり、最初は恐る恐る弄っていただけなのに[r]
+いつのまにか指の根元まで押し込んでいた。[pcms]
 
 *236|
 [fc]
-The flesh spasms repeatedly, trying to pull me deeper[r]
-inside.[pcms]
+秘肉が痙攣を繰り返し、もっと奥へ引き込もうと[r]
+張り付いてくる。[pcms]
 
 *237|
 [fc]
 [vo_yuh s="yuho0293"]
-[ns]Yuuho[nse]
-"Mmm, aahh... mmm!"[pcms]
+[ns]悠帆[nse]
+「んっんんっ、はぁぁぁっぅっ……んっんふぅっ」[pcms]
 
 *238|
 [fc]
-I wonder what Wataru thought when he came peeping at my[r]
-body.[pcms]
+覗きに来ていた航はわたしの身体を見て、[r]
+どう思ったんだろう。[pcms]
 
 *239|
 [fc]
-Was he imagining me naked? Was he imagining me like this?[pcms]
+わたしの裸を想像していたんだろうか。[r]
+わたしのこんな姿を想像していたんだろうか。[pcms]
 
 *240|
 [fc]
 [vo_yuh s="yuho0294"]
-[ns]Yuuho[nse]
-"Aaahh... ohh!"[pcms]
+[ns]悠帆[nse]
+「はぁぁぁあっ、あっああっはぅっ」[pcms]
 
 *241|
 [fc]
-I wonder if Wataru had lewd fantasies about me as a woman.[pcms]
+航はわたしを女として、[r]
+イヤらしい妄想をしていたんだろうか。[pcms]
 
 *242|
 [fc]
 [vo_yuh s="yuho0295"]
-[ns]Yuuho[nse]
-"Ahh... mmm!"[pcms]
+[ns]悠帆[nse]
+「あっあぁぁっくぅっ、んっふぅぅっ……」[pcms]
 
 *243|
 [fc]
-The more I think about Wataru, the stronger the throbbing in[r]
-my body becomes. Juice overflows endlessly from my pussy,[r]
-making wet lewd sounds with every movement of my fingers.[pcms]
+航のことを考えると、身体の疼きがどんどん強くなっていく。[r]
+アソコから汁がとめどなくあふれて、指が動くたびに[r]
+びちゃびちゃと湿った卑猥な音をあげた。[pcms]
 
 *244|
 [fc]
 [vo_yuh s="yuho0296"]
-[ns]Yuuho[nse]
-"Aaahh... ah!"[pcms]
+[ns]悠帆[nse]
+「あぁぁっ、あうっあぁっ、あひぃっん」[pcms]
 
 *245|
 [fc]
-I was so lost in the pleasure from masturbation that I[r]
-couldn't even suppress my voice.[pcms]
+声を押し殺すこともままならないほど、わたしは自慰による[r]
+快感に狂っていた。[pcms]
 
 *246|
 [fc]
-As the sticky fluid drips from my pussy down to my butt[r]
-hole, sliding a finger there sends an electric shock through[r]
-me.[pcms]
+ドロドロの粘液が滴るアソコから下のほうにある、[r]
+お尻の穴に指を滑らせると、感電したような感覚が走った。[pcms]
 
 *247|
 [fc]
-It seems I don't just want it in my pussy; I also crave a[r]
-thick and hard stimulation in my ass.[pcms]
+アソコだけじゃない、わたしはお尻にも太くて固い[r]
+刺激が欲しいらしい。[pcms]
 
 *248|
 [fc]
-I want to be penetrated, thoroughly penetrated by Wataru's[r]
-hard dick.[pcms]
+貫かれたい、航の固いあそこでおもっいきり貫かれたい。[pcms]
 
 *249|
 [fc]
 [vo_yuh s="yuho0297"]
-[ns]Yuuho[nse]
-"Aaahh... ahhh... ughh..."[pcms]
+[ns]悠帆[nse]
+「あぁぁぁっあああっぅぅぅ、んっぐうぅぅっ」[pcms]
 
 *250|
 [fc]
-After teasing my anus with my finger, I pushed my fingers[r]
-back into my pussy. I moved them a bit more forcefully, as[r]
-if to stretch the hole open.[pcms]
+肛門を指でほじるように弄ってから、わたしは再び[r]
+アソコへ指を押し込んだ。[r]
+穴全体を広げるように、少し強めに動かしてみる。[pcms]
 
 *251|
 [fc]
-The intense stimulation was so overwhelming that it felt[r]
-like my consciousness was fading. Like I had wet myself, the[r]
-viscous fluid from my pussy sprayed out forcefully.[pcms]
+意識が朦朧としそうなほど、強い刺激が全身を突き抜ける。[r]
+まるでお漏らししたかのように、アソコから粘液が[r]
+ビュッビュッと勢いよく飛び散った。[pcms]
 
 *252|
 [fc]
 [vo_yuh s="yuho0298"]
-[ns]Yuuho[nse]
-"Hiiiahh... ahh... I'm cumming... I can't take it[r]
-anymore..."[pcms]
+[ns]悠帆[nse]
+「ひぃぁあっあぁぁぁ、イクぅぅぅ、もうだめぇぇぇぇ」[pcms]
 
 *253|
 [fc]
-Furiously moving my fingers, I stirred my own pussy. My[r]
-whole body shook violently, and I tensed up.[pcms]
+夢中で指を動かして、わたしは自分のアソコをかき混ぜた。[r]
+全身がガクガクと揺れて、身体が強張る。[pcms]
 
 *254|
 [fc]
 [vo_yuh s="yuho0299"]
-[ns]Yuuho[nse]
-"Fuuahh... umm... ughh..."[pcms]
+[ns]悠帆[nse]
+「ふぅっぁぁっ、うむっぅぅぅぅっぐぅぅぅ」[pcms]
 
 *255|
 [fc]
-Biting on my finger to desperately suppress my voice, I[r]
-continued moving my fingers and reached climax.[pcms]
+指を噛んで必死に声を押し殺しながら、わたしは指を動かし[r]
+続けて絶頂を迎えた。[pcms]
 
 *256|
 [fc]
-The secret flesh, drenched in fluid, clenched around my[r]
-fingers painfully, over and over again.[pcms]
+粘液まみれの秘肉が指を痛いくらいに、何度も何度も[r]
+締め付けた。[pcms]
 
 *257|
 [fc]
 [vo_yuh s="yuho0300"]
-[ns]Yuuho[nse]
-"Nnnn... nffuahh... nmm... nffuahh, fuuahh... mmm..."[pcms]
+[ns]悠帆[nse]
+「んんんっ、んっふぅぅぅ……んっむぅぅぅ、んっふぅ、[r]
+　ふぅぅぅむぅぅ……」[pcms]
 
 
 *258|
 [fc]
-My consciousness was enveloped in a pure white light, and[r]
-the trembling of my body wouldn't stop.[pcms]
+真っ白な光に意識が包まれて、身体の震えが止まらない。[pcms]
 
 [evcg射精フラ storage="HEV007c"]
 
 *259|
 [fc]
 [vo_yuh s="yuho0301"]
-[ns]Yuuho[nse]
-"Fuuahh... nnn... nffuah..."[pcms]
+[ns]悠帆[nse]
+「ふぅぅっ、んんっ、んっふぅ……」[pcms]
 
 *260|
 [fc]
-Intoxicated with the intense pleasure and in a state of[r]
-ecstasy, I couldn't move for a while.[pcms]
+激しい快感に酔いしれ恍惚となったまま、[r]
+わたしはしばらく動くこともできなかった。[pcms]
 
 *261|
 [fc]
 [vo_yuh s="yuho0302"]
-[ns]Yuuho[nse]
-"Haa haa... fuuahh... fuuahh..."[pcms]
+[ns]悠帆[nse]
+「はぁはぁ……ふぅぅ……ふぅぅぅぅ……」[pcms]
 
 *262|
 [fc]
-Finally, as my breathing settled and I began to come down[r]
-from the afterglow of climax, I started to think about my[r]
-feelings for Wataru.[pcms]
+ようやく呼吸が落ち着いて、絶頂の余韻から冷め始めると[r]
+わたしは航に対する自分の気持ちを考えてみた。[pcms]
 
 *263|
 [fc]
-Do I like Wataru? Do I have feelings of what people commonly[r]
-call love or affection?[pcms]
+わたしは航の事が好きなんだろうか？[r]
+俗に言う恋とか愛とか、そんな感情があるんだろうか。[pcms]
 
 *264|
 [fc]
-No matter how much I think about it, there isn't a burning,[r]
-intense feeling.[pcms]
+いくら考えても焦がれるような、強い気持ちがあるわけではない。[pcms]
 
 *265|
 [fc]
-However, what I do know is that masturbating while thinking[r]
-of Wataru feels the best compared to when imagining anyone[r]
-else, and there's no particular feeling of disgust[r]
-afterwards.[pcms]
+しかし、分かるのは他の誰を想像していた時より、[r]
+航のことを考えながらの自慰が一番気持ちいいし、[r]
+終わった後の嫌悪感も特にないという事。[pcms]
 
 *266|
 [fc]
-Whether that's being spoiled by Wataru or feelings of liking[r]
-him... even I'm not sure.[pcms]
+それが航に対する甘えなのか、それとも好きという[r]
+感情なのか……それは自分でもよく分からない。[pcms]
 
 ;mm この差分使われて無かったな
 [evcg storage="HEV007d"][trans_c cross time=300]
@@ -690,25 +675,23 @@ him... even I'm not sure.[pcms]
 *267|
 [fc]
 [vo_yuh s="yuho0303"]
-[ns]Yuuho[nse]
-"Haa... I did it again."[pcms]
+[ns]悠帆[nse]
+「はぁ……またしちゃった」[pcms]
 
 *268|
 [fc]
-And after it's over, I invariably feel lonely. I long for[r]
-the warmth of another person, the comfort of someone's[r]
-presence.[pcms]
+そして終わった後は決まって寂しさを感じる。[r]
+人肌が恋しい、誰かの温もりが欲しい。そんな気分になる。[pcms]
 
 *269|
 [fc]
-I don't know what will become of my relationship with Wataru[r]
-from here on out, but the throbbing in my body, the desire,[r]
-will probably never be satisfied.[pcms]
+わたしと航の関係がこれからどうなるのかは分からないけど、[r]
+身体の疼き、欲求はいつまでも満たされないだろう。[pcms]
 
 *270|
 [fc]
-At least as long as I'm comforting myself alone like this,[r]
-I'll always remain lonely.[pcms]
+少なくとも一人でこうやって慰めているうちは[r]
+いつまでも寂しいままのはず。[pcms]
 
 [stopse buf=0]
 ;//黒フェード
@@ -717,19 +700,19 @@ I'll always remain lonely.[pcms]
 *271|
 [fc]
 [vo_yuh s="yuho0304"]
-[ns]Yuuho[nse]
-"This isn't good... I'll catch a chill."[pcms]
+[ns]悠帆[nse]
+「いけない……湯冷めしちゃう」[pcms]
 
 *272|
 [fc]
-I decided to stop pondering over things and soak in the[r]
-bathtub instead. Even if I think about it all night, it's[r]
-not like an answer will come.[pcms]
+わたしはあれこれ考えるのをやめると、[r]
+浴槽に浸かることにした。[r]
+一晩考えても答えなんてでるわけじゃないし。[pcms]
 
 *273|
 [fc]
-While warming up my chilled body, I kept splashing water on[r]
-my face as if to scold myself.[pcms]
+冷えた身体を温めながら、わたしは自分を[r]
+叱咤するかのように何度もお湯を顔にかけ続けた。[pcms]
 
 
 ;//---------------------------------------------------------------

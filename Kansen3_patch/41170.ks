@@ -1,41 +1,41 @@
 ;//block:A018
 ;//ブロック４１０９０から選択肢でjump
-;//ブロック４１１７０『地下道悠帆のみ脱出』pt14
+;//ブロック４１１７０『地下道～悠帆のみ脱出～』pt14
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41090.txtから
 
 *41170_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・悠帆・マルガリータ
 ;//時間帯：
 ;//・テキスト容量：2K前後
 ;//---------------------------------------------------------------
-;//●選択肢Ａ３　３２：調べない→！
+;//●選択肢Ａ－３　３－２：調べない→！
 
 ;[sysbt_meswin]
 
 *4450|
 [fc]
-[ns]Wataru[nse]
-"It's probably not open anyway. It's surely a waste of time[r]
-to check."[pcms]
+[ns]航[nse]
+「どうせ開いてないですよ。[r]
+　調べるだけ、きっと無駄です」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4451|
 [fc]
 [vo_mar s="maru0538"]
-[ns]Margarita[nse]
-"That might be true..."[pcms]
+[ns]マルガリータ[nse]
+「そうかも知れないな……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4452|
 [fc]
-We passed through the door and hurried down the side path.[pcms]
+ボクたちは扉をスルーして、脇の道から先を急いだ。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -49,84 +49,85 @@ We passed through the door and hurried down the side path.[pcms]
 *4453|
 [fc]
 [vo_mar s="maru0539"]
-[ns]Margarita[nse]
-"This area must be within Yoyogi Park's grounds by now..."[pcms]
+[ns]マルガリータ[nse]
+「ここらへんはもう、代々木公園の敷地内だろうな……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4454|
 [fc]
 [vo_yuh s="yuho0695"]
-[ns]Yuuho[nse]
-"There might be a place where we can get above ground..."[pcms]
+[ns]悠帆[nse]
+「地上に出れる場所があるかもしれないですね……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4455|
 [fc]
 [vo_mar s="maru0540"]
-[ns]Margarita[nse]
-"Yeah... I hope it's still there..."[pcms]
+[ns]マルガリータ[nse]
+「ああ……。[r]
+　残っていればいいんだが……」[pcms]
 
 *4456|
 [fc]
-[ns]Wataru[nse]
-"I'm sure it is... Even the female urinals they made for the[r]
-Olympics are still around..."[pcms]
+[ns]航[nse]
+「きっとありますよ……。[r]
+　オリンピックの時に作った女性用の立小便器だって、[r]
+　まだ残ってるくらいですから……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4457|
 [fc]
 [vo_yuh s="yuho0696"]
-[ns]Yuuho[nse]
-"Are you talking about that thing at the National Stadium?"[pcms]
+[ns]悠帆[nse]
+「それって、国立競技場のアレ？」[pcms]
 
 *4458|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うんっ……」[pcms]
 
 *4459|
 [fc]
-It was a story that had been featured on a TV trivia show[r]
-and had become quite a topic of conversation.[pcms]
+テレビのムダ知識番組でとりあげられて、[r]
+けっこう話題になった話だ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4460|
 [fc]
 [vo_mar s="maru0541"]
-[ns]Margarita[nse]
-"It seems they were made by mistake during the Olympics.[r]
-I've heard about it too. ...I hope the same is true for[r]
-this..."[pcms]
+[ns]マルガリータ[nse]
+「オリンピックの際に間違って作ったらしいな。[r]
+　ワタシも聞いたことがある。[r]
+　……同じように残っているといいのだが……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4461|
 [fc]
 [vo_yuh s="yuho0697"]
-[ns]Yuuho[nse]
-"What's wrong, senpai?"[pcms]
+[ns]悠帆[nse]
+「どうしたんですか……先輩？」[pcms]
 
 *4462|
 [fc]
-Yuuho looked worriedly at her senior, who seemed unusually[r]
-reticent.[pcms]
+なんだか口が重い先輩を、悠帆が心配する。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4463|
 [fc]
 [vo_mar s="maru0542"]
-[ns]Margarita[nse]
-"I just remembered an unpleasant story..."[pcms]
+[ns]マルガリータ[nse]
+「嫌な話を思い出しただけだ……」[pcms]
 
 *4464|
 [fc]
-[ns]Wataru[nse]
-"An unpleasant... story?"[pcms]
+[ns]航[nse]
+「いやな……話？」[pcms]
 
 ;//SE即時停止
 [stopse buf=0]
@@ -136,83 +137,82 @@ reticent.[pcms]
 *4465|
 [fc]
 [vo_yuh s="yuho0698"]
-[ns]Yuuho[nse]
-"Senpai, what's wrong?"[pcms]
+[ns]悠帆[nse]
+「先輩、どうしたんですか？」[pcms]
 
 *4466|
 [fc]
-The senior who was leading suddenly stopped in her tracks.[pcms]
+先頭を行っていた先輩の脚が突然止まった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4467|
 [fc]
 [vo_mar s="maru0543"]
-[ns]Margarita[nse]
-"...It's about when they redeveloped the Olympic Village in[r]
-Yoyogi Park and buried parts of the demolished buildings[r]
-underground..."[pcms]
+[ns]マルガリータ[nse]
+「……選手村を代々木公園に再整備する時に[r]
+　壊した選手村の建物の一部を地下に埋めたという話だ……」[pcms]
 
 *4468|
 [fc]
-[ns]Wataru[nse]
-"Don't tell me, senpai..."[pcms]
+[ns]航[nse]
+「まさか、先輩……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4469|
 [fc]
 [vo_mar s="maru0544"]
-[ns]Margarita[nse]
-"Yes, that's exactly it..."[pcms]
+[ns]マルガリータ[nse]
+「その、まさかだ……」[pcms]
 
 *4470|
 [fc]
-In front of us, illuminated by the LED light, was a concrete[r]
-wall blocking our path, a dead end.[pcms]
+先輩がＬＥＤライトで照らし出した先は[r]
+コンクリート壁が立ちふさがり、行き止まりになっていた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4471|
 [fc]
 [vo_yuh s="yuho0699"]
-[ns]Yuuho[nse]
-"Did they bury the underground passage?!"[pcms]
+[ns]悠帆[nse]
+「地下通路を埋めたんですか！？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4472|
 [fc]
 [vo_mar s="maru0545"]
-[ns]Margarita[nse]
-"They must have thought it was unnecessary, and it was just[r]
-the right hole to fill..."[pcms]
+[ns]マルガリータ[nse]
+「必要ないと思ったから、[r]
+　ちょうどいい穴だったんだろう……」[pcms]
 
 *4473|
 [fc]
-[ns]Wataru[nse]
-"You've got to be kidding..."[pcms]
+[ns]航[nse]
+「そんなぁ……」[pcms]
 
 *4474|
 [fc]
-Just when we thought we could finally escape.[pcms]
+今度こそ抜け出せると思ったのに。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4475|
 [fc]
 [vo_mar s="maru0546"]
-[ns]Margarita[nse]
-"There's no point in getting down about it! Now that it's[r]
-come to this, we need to turn back as quickly as possible!!"[pcms]
+[ns]マルガリータ[nse]
+「落ち込んでいても仕方がないっ！[r]
+　こうなったら、一刻も早く引き返すんだ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4476|
 [fc]
 [vo_yuh s="yuho0700"]
-[ns]Yuuho[nse]
-"Yes!"[pcms]
+[ns]悠帆[nse]
+「はいっ！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -221,29 +221,28 @@ come to this, we need to turn back as quickly as possible!!"[pcms]
 
 *4477|
 [fc]
-We hurried back the way we came.[pcms]
+ボクたちは、急いで来た道を引き返した。[pcms]
 
 [bg storage="BG027"][trans_c cross time=500]
 
 ;//@konya テキスト追加
 *4477a|
 [fc]
-We returned to the place where that door was.[pcms]
+ボク達はあの扉のあった場所に戻ってきた。[pcms]
 
 *4478|
 [fc]
-Nobody said it out loud, but it was clear we were all[r]
-thinking the same thing.[pcms]
+誰も口には出さなかったけど、[r]
+同じことを思っているのは明らかだった。[pcms]
 
 *4479|
 [fc]
-If this door doesn't open, we'll have to go back even[r]
-further than we've come.[pcms]
+……この扉が開かなければ、今まで来た道を[r]
+もっと戻らなければいけなくなる。[pcms]
 
 *4480|
 [fc]
-But at this point, we had no choice but to leave our fate to[r]
-luck.[pcms]
+だが、こうとなっては運を天に任せるしかなかった。[pcms]
 
 ;//→ブロック４１１００へ
 [jump storage="41100.ks" target=*41100_TOP]

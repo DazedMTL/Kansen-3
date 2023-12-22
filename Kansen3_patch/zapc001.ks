@@ -21,42 +21,42 @@
 
 *3173|
 [fc]
-"I apologize, my lady. I'm not feeling well today--"[pcms]
+『申し訳ございません、お嬢様。[r]
+　本日は体調が優れず――』[pcms]
 
 ;//[ChrSetEx layer=5 chbase="sesuka_d1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
-[ns]Sesuka[nse]
+;//[ns]セスカ[nse]
 ;//「申し訳ございません、お嬢様。
 ;//　本日は体調が優れず――」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3174|
 [fc]
-"I will be taking the day off today. Exploring the academy's[r]
-underground and such... One never knows where danger may[r]
-lurk. Please be careful..."[pcms]
+『今日一日、お休みを頂戴致します。学園の地下探索など……。[r]
+　どこに危険が潜んでいるかわかりません。くれぐれも……』[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「気にするな。ワタシのことよりも、自分を気遣え。
 ;//　それに、本調子で無ければワタシを守る事など出来ないだろう。
 ;//　今日はゆっくり休め、セスカ」
 ;//ボイスカットのためコメントアウト：佐藤
 
 ;//[ChrSetEx layer=5 chbase="sesuka_d1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
-[ns]Sesuka[nse]
+;//[ns]セスカ[nse]
 ;//「本当に申し訳御座いません。お嬢様……。
 ;//　今日一日、お休みを頂戴致します。学園の地下探索など……。
 ;//　どこに危険が潜んでいるかわかりません。くれぐれも……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「ああ、わかった。わかった……。
 ;//　とにかく、今はゆっくり休め……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「はぁ……」
 ;//＠ため息
 ;//ボイスカットのためコメントアウト：佐藤
@@ -70,176 +70,173 @@ lurk. Please be careful..."[pcms]
 
 *3175|
 [fc]
-Sesuka of all people...[pcms]
+あのセスカが……。[pcms]
 
 *3176|
 [fc]
-Due to the steamy heat of this country and irregular[r]
-menstruation, Sesuka, who is my bodyguard, really seemed to[r]
-be in poor health.[pcms]
+体調不良――[r]
+この国の蒸し暑さと、生理不順のせいか。[r]
+ワタシの護衛をするセスカは、本当に具合が悪そうだった。[pcms]
 
 *3177|
 [fc]
-It's nice to be cared for, but the talk is too long.[r]
-Besides, I feel bad for Sesuka, but having her follow me[r]
-around every time is a bit bothersome.[pcms]
+身を案じてくれるのは嬉しいが、話が長すぎる。[r]
+それに、セスカには申し訳ないが、いちいちついてこられるのも[r]
+少しうっとうしい。[pcms]
 
 *3178|
 [fc]
-After all, I'm not the only one exploring the underground[r]
-today.[pcms]
+そもそも、今日の地下探索はワタシ一人ではない。[pcms]
 
 *3179|
 [fc]
-Teachers from the academy will also be accompanying us, and[r]
-getting into the underground isn't such an easy task.[pcms]
+学園の先生も同行する事になっている上に、地下に入り込むのは、[r]
+そんなに容易なことではない。[pcms]
 
 *3180|
 [fc]
-Besides... In this country, there are hardly any men who can[r]
-beat me.[pcms]
+それに……。[r]
+この国の男共で、ワタシに勝てる者など、そうそういないだろう。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「しかし、本当に暑いな、この国は……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3181|
 [fc]
-However, it really is hot in this country...[pcms]
+しかし、本当に暑いな、この国は……。[pcms]
 
 *3182|
 [fc]
-In Matinia, if you stepped into the shade of the trees, you[r]
-wouldn't feel the heat at all.[pcms]
+マティニアなら、木陰に入ってしまえば、暑さなどまるで[r]
+感じなかった。[pcms]
 
 *3183|
 [fc]
-But the summer in this country--[pcms]
+だが、この国の夏は――。[pcms]
 
 *3184|
 [fc]
-The sunlight streaming in from the window scorches the skin,[r]
-and the humidity like a steam bath clings to the body.[pcms]
+窓の外から差し込む日の光は、じりじりと肌を焼き、[r]
+蒸し風呂のような湿気が身体にまとわりつく。[pcms]
 
 *3185|
 [fc]
-When I glanced at my cell phone clock, it displayed "07:30."[pcms]
+携帯の時計に目をやると、『０７：３０』と表示されていた。[pcms]
 
 *3186|
 [fc]
-It's only 7:30 in the morning, and at this rate, I wonder[r]
-how high the temperature and humidity will go today.[pcms]
+まだ朝７時半だというのに、この調子では。[r]
+今日は一体何度まで気温と湿度が上がるのだろうか。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「早すぎたか……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3187|
 [fc]
-...Perhaps I arrived a bit too early.[pcms]
+……到着するのが、いささか早すぎたか。[pcms]
 
 *3188|
 [fc]
-My father had to go out early this morning. As for me, I[r]
-woke up at 5 AM for our routine breakfast together.[pcms]
+今朝は父様が早い時間から外出することになっていた。[r]
+ワタシはというと、日課でもある父様と一緒の朝食のため、[r]
+朝５時に目覚めた。[pcms]
 
 *3189|
 [fc]
-Father left at 6 o'clock, and with nothing to do and Sesuka[r]
-trying to follow me around despite being unsteady on her[r]
-feet, I fled to the academy.[pcms]
+父様は６時に出かけてしまい、手持ちぶたさになった事と、[r]
+セスカがフラフラしながらもワタシに付きまとおうとするので、[r]
+逃げるように学園へと足を運んだ。[pcms]
 
 *3190|
 [fc]
-The meeting time I promised with the teachers is at 10 AM.[pcms]
+先生達と約束した集合時間は、朝１０時だというのに。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「仕方ない」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3191|
 [fc]
-Can't be helped, I guess.[pcms]
+仕方ない、か。[pcms]
 
 *3192|
 [fc]
-To kill nearly two more hours, I decided to finish reading[r]
-the books I brought... "The Breeze of Washington Heights"[r]
-and "The History of Shibuya's Development."[pcms]
+あと２時間近くの時間をつぶすため、持参した本……、[r]
+『ワシントンハイツのそよ風』『渋谷開拓史』を[r]
+読破することにしよう。[pcms]
 
 *3193|
 [fc]
-For reading books, a suitable place is best. I can't just[r]
-sit down in the hallway and get engrossed in reading. The[r]
-library might be a bit cooler if I open a window.[pcms]
+本を読むには、やはりそれ相応の場所がいい。[r]
+廊下で腰を下ろし、読みふける訳にもいかない。[r]
+図書館でも窓を開ければ少しは涼しいだろう。[pcms]
 
 *3194|
 [fc]
-As I was about to put away my cell phone to move to the[r]
-library, I noticed that the battery indicator was down to[r]
-one bar.[pcms]
+図書館へ移動しようと、携帯電話をしまおうとしたとき、[r]
+バッテリーの残量を示す電池マークが、[r]
+残り一本になっていた事に気が付いた。[pcms]
 
 *3195|
 [fc]
-Honestly, since coming to this country, I haven't been[r]
-making calls or emails with anyone other than my father and[r]
-Sesuka and the other bodyguards. And I'm not constantly[r]
-looking at the web either.[pcms]
+正直、この国に来てからというもの、父様とセスカ達[r]
+ボディーガード以外とは電話もメールもやりとりしていない。[r]
+それに、ウェブを四六時中見ているわけでもない。[pcms]
 
 *3196|
 [fc]
-Basically, my cell phone is just being "carried" around, and[r]
-it's fair to say that it's hardly being used.[pcms]
+基本的に、携帯電話は、『携帯』しているだけであって、[r]
+殆ど活用していないと言える状態だった。[pcms]
 
 *3197|
 [fc]
-Because of that, I haven't been concerned about remaining[r]
-battery life recently.[pcms]
+そのため、残りバッテリーなど、[r]
+ここ最近は気にしたことがなかった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「まあ、大丈夫だろう……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3198|
 [fc]
-Well, it should be fine. But you never know when you might[r]
-need it.[pcms]
+まあ、大丈夫だろう。[r]
+だが、いざと言う事がないとも限らない。[pcms]
 
 *3199|
 [fc]
-Fortunately, my cell phone can be charged by solar power.[r]
-It's awkward to use the academy's power without permission,[r]
-and solar charging doesn't consume power from the power[r]
-plant, so it's eco-friendly.[pcms]
+幸いにして、ワタシの携帯は太陽充電が可能だ。[r]
+学園の電源を無断借用するのも気がひけるし、太陽充電なら[r]
+発電所の電力を消費する訳でもないからエコロジーだ。[pcms]
 
 *3200|
 [fc]
-While heading to the library, I took out the solar charger[r]
-from my bag and set it up with my cell phone.[pcms]
+図書館に向かいつつ、ソーラー充電器をバッグから取り出し、[r]
+携帯にセットした。[pcms]
 
 *3201|
 [fc]
-Now all that's left is to place it by the window and wait[r]
-for it to charge. With "The Breeze of Washington Heights"[r]
-and my cell phone in hand, I headed to the library.[pcms]
+あとは、窓際に置いて、充電されるのを待つだけ。[r]
+『ワシントンハイツのそよ風』と、携帯電話を手に、[r]
+図書館へと向かった。[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *3202|
 [fc]
-Upon arriving at the library, I immediately placed my cell[r]
-phone on a desk by the window, and sat down on a chair a[r]
-little away from where the sunlight reached.[pcms]
+図書館に着くと、早速携帯電話を窓際の机に置き、[r]
+ワタシ自身は日差しの届かない、少し離れた所の椅子に腰かけた。[pcms]
 
 *3203|
 [fc]
-As I turned the pages, I became so engrossed in the world of[r]
-the book that I no longer felt the muggy heat.[pcms]
+ページをめくるにつれ、蒸し暑さなど感じないほど、[r]
+本の世界にのめり込んでいった。[pcms]
 
 ;[zapend_random]
 [zapfade]

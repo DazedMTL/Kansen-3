@@ -1,10 +1,10 @@
 ;//block:A012
-;//ブロック４０１１０『地下道全員脱出編　中』pt.4
+;//ブロック４０１１０『地下道～全員脱出編～　中』pt.4
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40080 40090 40100.txtから
 
 *40110_TOP
-;{SceneSet 地下道全員脱出編中}
+;{SceneSet 地下道～全員脱出編～中}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公
@@ -16,187 +16,184 @@
 
 *766|
 [fc]
-[ns]Wataru[nse]
-"Well... then..."[pcms]
+[ns]航[nse]
+「さて……と……」[pcms]
 
 *767|
 [fc]
-I've set up my earphones, now I need to refocus and[r]
-accomplish what I originally intended to do. It seems the[r]
-video has finished loading.[pcms]
+イヤホンもセットしたし、[r]
+気を取り直して当初の目的を果たさなくては。[r]
+ちょうど動画の読み込みも終わったようだった。[pcms]
 
 *768|
 [fc]
-When I press the play button, the familiar logo of DHK News[r]
-appears.[pcms]
+動画の再生ボタンを押すと、[r]
+なじみのあるＤＨＫニュースのロゴが表示される。[pcms]
 
 *769|
 [fc]
-[ns]Wataru[nse]
-"...wow..."[pcms]
+[ns]航[nse]
+「……うわ……」[pcms]
 
 *770|
 [fc]
-The news starts off tense, relaying the situation in various[r]
-parts of the metropolitan area through live broadcasts.[pcms]
+ニュースは冒頭から緊迫した様子で、[r]
+都内各所の状況をリレー中継で伝えている。[pcms]
 
 *771|
 [fc]
-People rampaging, people fleeing, shops and facilities being[r]
-destroyed...[pcms]
+暴れる人、逃げ惑う人、壊されていく商店や施設……。[pcms]
 
 *772|
 [fc]
-It feels like I'm watching a panic movie; I can't believe[r]
-this is really happening right now. Or rather, I don't want[r]
-to believe it...[pcms]
+まるでパニック映画を観てるみたいな感じがして[r]
+本当に、これが今起きていることなんだとは思えない……。[r]
+というか、思いたくない……。[pcms]
 
 *773|
 [fc]
-The announcer, desperately trying to remain calm, reports[r]
-that the turmoil began in the early morning.[pcms]
+懸命に冷静さを保とうとするアナウンサーの声が[r]
+騒動が起き始めたのは朝方だと伝えている。[pcms]
 
 *774|
 [fc]
-Based on the news timing, it seems that an emergency[r]
-situation had already been reported to the public early in[r]
-the morning.[pcms]
+ニュースの時間から推測すると、午前中の早い段階で[r]
+既に世間では緊急事態が報じられていたようだ。[pcms]
 
 *775|
 [fc]
-Right around the time we were heading to school. Come to[r]
-think of it, I was so rushed because of the camping trip[r]
-that I left without watching the news...[pcms]
+ちょうど……ボクたちが学校に向かっていた頃だ。[r]
+そういえばキャンプのことで慌てていたから[r]
+ニュースも見ないで出かけたんだっけ……。[pcms]
 
 *776|
 [fc]
-[ns]Wataru[nse]
-"We were lucky to be safe, all of us."[pcms]
+[ns]航[nse]
+「……良く無事だったな、ボクたち」[pcms]
 
 *777|
 [fc]
-The video eventually became a repetition of the same[r]
-information.[pcms]
+動画はそのうち同じ情報の繰り返しになった。[pcms]
 
 *778|
 [fc]
-Isn't there any other news...?[pcms]
+他にも何かニュースはないだろうか……。[pcms]
 
 *779|
 [fc]
-But considering battery consumption, I can't just keep[r]
-watching videos blindly.[pcms]
+だけど電池の消費を考えると、[r]
+あまり闇雲に動画を見続けるわけにもいかない。[pcms]
 
 *780|
 [fc]
-I check the list of related videos.[pcms]
+ボクは関連動画の一覧をチェックする。[pcms]
 
 *781|
 [fc]
-[ns]Wataru[nse]
-"...huh? This one... has a lot of access."[pcms]
+[ns]航[nse]
+「……ん？[r]
+　これだけ……なんかアクセス多いな」[pcms]
 
 *782|
 [fc]
-I found a video with an unusually high number of accesses.[r]
-It seems to be a self-recorded video... but what is it?[pcms]
+異常にアクセスの多い動画が見つかった。[r]
+自画撮りの動画らしいけど……何だろう。[pcms]
 
 *783|
 [fc]
-I select the video and stare blankly at the screen as it[r]
-loads again.[pcms]
+動画を選んだボクは、[r]
+再び読み込み待ちになった画面をぼんやりと眺める。[pcms]
 
 *784|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *785|
 [fc]
-My mood sinks.[pcms]
+気分が滅入る。[pcms]
 
 *786|
 [fc]
-Not just because of the tragic news I saw.[pcms]
+悲惨なニュースを見たから、だけじゃない。[pcms]
 
 *787|
 [fc]
-About that phone call earlier... and even now, during such[r]
-times, I'm worried about Yuuho and Oshima-senpai's[r]
-relationship...[pcms]
+さっきの携帯のこと……とか。[r]
+こんな時にまで、[r]
+悠帆と大嶋先輩の関係を気にしてること……とか……。[pcms]
 
 *788|
 [fc]
-[ns]Wataru[nse]
-"Am I really that strange...?"[pcms]
+[ns]航[nse]
+「ボク、やっぱりおかしいのかな……」[pcms]
 
 *789|
 [fc]
-Maruko-senpai and Ren tried to cheer me up, but even that[r]
-was... just because I was so focused on Yuuho and Ren's[r]
-sake.[pcms]
+マル子先輩や漣は、ボクを持ち上げてくれたけど[r]
+それだって……ただ、悠帆や漣のためだけに[r]
+夢中になっていただけで……。[pcms]
 
 *790|
 [fc]
-Honestly, I don't even remember if I tried to help Kousuke.[r]
-Probably... I wasn't thinking about it. Even though he's a[r]
-childhood friend and best buddy.[pcms]
+正直、コースケを助けようとしたかどうかも覚えていない。[r]
+多分……考えてなかったと思う。[r]
+幼馴染みの親友なのに。[pcms]
 
 *791|
 [fc]
-In the end, it seems like I was only acting for myself, for[r]
-those who are important to me.[pcms]
+結局ボクは自分のため、自分が大事な人のためだけに[r]
+動いていたようなものなんだ。[pcms]
 
 *792|
 [fc]
-[ns]Wataru[nse]
-"Sigh..."[pcms]
+[ns]航[nse]
+「はあ……」[pcms]
 
 *793|
 [fc]
-It's not just Kousuke. The Astronomy Club members should[r]
-have been gathering at school too, yet I didn't even bother[r]
-to check on their safety.[pcms]
+コースケだけじゃない。[r]
+天文学部のみんなだって、学園に集合していたはずなのに[r]
+安否を気にかけることさえ、しなかった。[pcms]
 
 *794|
 [fc]
-They were supposed to be companions who could get excited[r]
-about stars with me, but still, they weren't on my mind...[pcms]
+数少ない、星の話で夢中になれるはずの仲間だったのに、[r]
+やはり彼らのことは頭になかったんだ……。[pcms]
 
 *795|
 [fc]
-The teachers, my classmates... the people in town...,[r]
-Tadahiko and Inori-san...[pcms]
+先生やクラスメイト……、街の人たち……、[r]
+彦ちんや緒織さん……。[pcms]
 
 *796|
 [fc]
-[ns]Wataru[nse]
-"I hope everyone is safe..."[pcms]
+[ns]航[nse]
+「みんな……無事だといいんだけど……」[pcms]
 
 *797|
 [fc]
-It's too late now, but I strongly hope that they are[r]
-surviving somewhere.[pcms]
+今さらだけど彼らがどこかで生きのびてくれていることを強く願う。[pcms]
 
 *798|
 [fc]
-Really, it's too late, and I feel sorry...[pcms]
+本当に、今さら、で申し訳ないけど……。[pcms]
 
 ;//★佐藤さま
 ;//いまどきの若者、発言をカットしようと思うのですが
 
 *799|
 [fc]
-[ns]Wataru[nse]
-"...oh, it's started..."[pcms]
+[ns]航[nse]
+「……あ、始まった……」[pcms]
 
 *800|
 [fc]
-It looks like the loading is finished.[pcms]
+どうやら読み込みが終わったみたいだ。[pcms]
 
 *801|
 [fc]
-I drop my gaze to the moving images on the screen.[pcms]
+ボクは動き始めた画像に目を落とした。[pcms]
 
 ;//→４０１２０へ
 [jump storage="40120.ks" target=*40120_TOP]

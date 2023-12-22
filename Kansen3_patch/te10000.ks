@@ -8,7 +8,7 @@
 ;//・視点：主人公一人称
 ;//登場人物:主人公
 ;//時間帯：
-;//・時間：６日目（８月２０日）朝
+;//・時間：６日目（８月２０日）朝～
 ;//テキスト分量：1k
 ;//--------------------------------------------------------------------
 
@@ -26,32 +26,29 @@
 
 *1|
 [fc]
-I had finished dinner with just some white rice, miso soup,[r]
-and a little bit of leftover pickles. Now, I found myself on[r]
-the rooftop.[pcms]
+白いご飯にお味噌汁。少し残っていた浅漬け。[r]
+そんなもので夕食を済ませたボクは、屋上に来ていた。[pcms]
 
 *2|
 [fc]
-A gas-based sweep operation is scheduled for tomorrow.[r]
-Thinking it might be my last chance to see the night sky for[r]
-a while, I went up to the rooftop alone and gazed at the sky[r]
-from my usual spot.[pcms]
+明日はガスを使った掃討作戦が展開される。[r]
+しばらくは夜空も見納めだろうと、ひとり屋上に上がって、[r]
+いつもの場所から空を眺めていた。[pcms]
 
 *3|
 [fc]
-The neon lights of the city still shone brightly,[r]
-illuminating the night sky. The slightly bright sky over[r]
-Shibuya. Stars were supposed to be out even amidst that.[pcms]
+街中のネオンは、未だ煌々と輝いていて、夜空を[r]
+明るく照らしている。薄明るい渋谷の空。[r]
+そんな中にも星は出ているはずだった。[pcms]
 
 *4|
 [fc]
 [ns]？？？[nse]
-"..."[pcms]
+「……」[pcms]
 
 *5|
 [fc]
-I sensed someone's presence behind me. It seemed like[r]
-someone had come up.[pcms]
+後ろから人の気配。誰か上がってきたようだ。[pcms]
 
 ;//--------------------------------------------------------------------
 ;//条件分岐

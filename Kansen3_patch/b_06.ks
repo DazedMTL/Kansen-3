@@ -12,7 +12,7 @@
 ;//
 ;//※注釈
 ;//☆このルートは、最終的に必ず主人公は死にます
-;//jump先の指定に、ADまでの死亡パターンが
+;//jump先の指定に、A～Dまでの死亡パターンが
 ;//記載されている場合があります
 ;//その場合は、下記の流れになります
 ;//
@@ -40,13 +40,13 @@
 
 *3593|
 [fc]
-I'm concerned about Ren and Yuuho's situation, but for now,[r]
-escaping from these guys is the top priority.[pcms]
+漣や悠帆の様子も気にかかるけれど、[r]
+ともかく今はコイツラから逃げ出すのが先決だ。[pcms]
 
 *3594|
 [fc]
-I quickly made up my mind and dashed straight into the[r]
-nearest emergency exit of the regular classroom building.[pcms]
+ボクは素早く心に決めると、まっすぐに[r]
+一番近い通常教室棟の非常口へと飛び込んだ。[pcms]
 
 ;//BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -54,107 +54,111 @@ nearest emergency exit of the regular classroom building.[pcms]
 
 *3595|
 [fc]
-Inside, it seemed that the red-eyed ones had already[r]
-infiltrated, as I could hear girls' screams and boys' shouts[r]
-of joy coming from the special classroom building and the[r]
-gymnasium.[pcms]
+中は既に赤い目をしたヤツラの仲間が[r]
+入り込んでいるせいか、特別教室棟や体育館のほうから[r]
+女子の悲鳴や男子の歓喜の声が聞こえた。[pcms]
 
 *3596|
 [fc]
-But the regular classroom building, which is usually used[r]
-during summer vacation by clubs without their own rooms or[r]
-students coming to pick up something, seemed to be[r]
-unpopular.[pcms]
+でも元々夏休み中の通常教室棟はまだ部室の持てない[r]
+同好会や、何かを取りに来た学生が利用するくらいなので[r]
+人気がないように思える。[pcms]
 
 *3597|
 [fc]
-I quickly checked to make sure they weren't around, then[r]
-locked the emergency exit door to prevent them from[r]
-following and finally caught my breath.[pcms]
+ボクは素早く辺りにヤツラがいないかと確認すると、[r]
+後から追いかけてこないように非常口のドアの鍵を[r]
+閉めて、やっと息をついた。[pcms]
 
 *3598|
 [fc]
-Why has it come to this?[pcms]
+なんでこんな事になってしまったんだろう？[pcms]
 
 *3599|
 [fc]
-Could it be the same virus that caused the "Tohoku Infection[r]
-Disaster"?[pcms]
+やっぱりあれって『[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]』と[r]
+同じウィルスが原因なんだろうか？[pcms]
 
 *3600|
 [fc]
-But since then, vaccinations have been almost mandatory, and[r]
-of course, Yoshino- san should have received it too.[pcms]
+でもあれから予防接種を受けるのは[r]
+ほぼ義務化されていることだし、[r]
+当然吉野さんだって受けてたはずだ。[pcms]
 
 *3601|
 [fc]
-To think that she could get infected... I can't believe it.[pcms]
+それなのに感染するなんて……[r]
+信じられない。[pcms]
 
 *3602|
 [fc]
-I don't want to believe it.[pcms]
+信じたくない。[pcms]
 
 *3603|
 [fc]
-Even as I think this, the screams I still hear immediately[r]
-negate my thoughts.[pcms]
+そう思っていても、今も聞こえる悲鳴が[r]
+ボクの考えを即座に否定してくる。[pcms]
 
 *3604|
 [fc]
-This isn't a dream or anything; it's happening in reality.[pcms]
+これは夢の中でも何でもない、[r]
+現実に起こってることなんだと。[pcms]
 
 *3605|
 [fc]
-[ns]Wataru[nse]
-"What should I do..."[pcms]
+[ns]航[nse]
+「どうしたらいいんだよ……」[pcms]
 
 *3606|
 [fc]
-What if those screams were from Ren or Yuuho?[pcms]
+あの悲鳴が漣や悠帆だったら？[pcms]
 
 *3607|
 [fc]
-Such an ominous thought crosses my mind.[pcms]
+そんな不吉な考えが頭を横切る。[pcms]
 
 *3608|
 [fc]
-But even so, unlike Kousuke, what can I, with my poor[r]
-athletic abilities, possibly do?[pcms]
+けれどだからといってコースケと違い、[r]
+運動神経もよくないこのボクにいったい何が[r]
+できるというんだろう？[pcms]
 
 *3609|
 [fc]
-Even though I'm worried about everyone... about the two of[r]
-them, I couldn't move and just stood there.[pcms]
+みんなの……二人の安否が気にかかっても、[r]
+ボクは動けずにそこにいた。[pcms]
 
 *3610|
 [fc]
-Then... I sense something moving in the corner of my vision.[pcms]
+と……視界の隅で何かが動く気配を感じる。[pcms]
 
 *3611|
 [fc]
-I flinch and turn towards it, only to see a woman with red[r]
-eyes who seemed to have wandered from somewhere.[pcms]
+ビクッとしてそちらを振り向くと、[r]
+どこから彷徨い出てきたのか、[r]
+赤い目をした女の姿がそこにあった。[pcms]
 
 *3612|
 [fc]
-[ns]Wataru[nse]
-"Eek!"[pcms]
+[ns]航[nse]
+「ひぃっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3613|
 [fc]
 [vo_mob s="onna_iti0012"]
-[ns]Woman A[nse]
-"Ufufufu... Let's do something pleasurable."[pcms]
+[ns]女Ａ[nse]
+「うふふふ……気持ちいいこと、しましょ」[pcms]
 
 *3614|
 [fc]
-Her right hand reaches out towards me.[pcms]
+ボクに向かって延ばされる彼女の右手。[pcms]
 
 *3615|
 [fc]
-dash through the corridor in one go or run up the stairs.[pcms]
+ボクに残された選択肢は２つ。[r]
+一気に廊下をつっきるか、階段を駆け上がるかだ。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -169,16 +173,15 @@ dash through the corridor in one go or run up the stairs.[pcms]
 ;	[link storage="B6_001.ks" target=*B6_001_TOP]一気に廊下をつっきって、渡り廊下まで！[endlink]
 ;	[link storage="B6_005.ks" target=*B6_005_TOP]階段を上って２Ｆへ[endlink]
 ;	;[link storage="B_D1.ks" target=*B_D1_TOP]時間切れ[endlink]
-;       (link storage="B_D1.ks" target=*B_D1_TOP)What to[r]
-do...(endlink)[pcms]
+;	[link storage="B_D1.ks" target=*B_D1_TOP]どうする……[endlink][s]
 
 *SEL61|一気に廊下をつっきって、渡り廊下まで！／階段を上って２Ｆへ／どうする……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Dash down the hallway, all the way to the cross corridor!'"]
-[eval exp="f.seltext04 = 'Go up the stairs to the 2nd floor'"]
-[eval exp="f.seltext06 = 'What should I do'"]
+[eval exp="f.seltext02 = '一気に廊下をつっきって、渡り廊下まで！'"]
+[eval exp="f.seltext04 = '階段を上って２Ｆへ'"]
+[eval exp="f.seltext06 = 'どうする……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

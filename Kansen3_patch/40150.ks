@@ -1,10 +1,10 @@
 ;//block:A016
-;//ブロック４０１５０『地下道全員脱出編　下』
+;//ブロック４０１５０『地下道～全員脱出編～　下』
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40140.txtから
 
 *40150_TOP
-;{SceneSet 地下道全員脱出編下}
+;{SceneSet 地下道～全員脱出編～下}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公・悠帆（制服）・浩助（制服）・マルガリータ（制服）
@@ -21,175 +21,177 @@
 
 *1177|
 [fc]
-[ns]Wataru[nse]
-"...here."[pcms]
+[ns]航[nse]
+「……ほら」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1178|
 [fc]
 [vo_ren s="ren0890"]
-[ns]Ren[nse]
-"...mm..."[pcms]
+[ns]漣[nse]
+「……ん……」[pcms]
 
 *1179|
 [fc]
-I slowly help Ren drink from the nearly empty canteen,[r]
-careful not to spill any.[pcms]
+残り少なくなった水筒のお茶を、[r]
+こぼさないようにゆっくりと漣に飲ませる。[pcms]
 
 *1180|
 [fc]
-This marks the end of the drinks I had with me.[pcms]
+これでボクが持っていた飲み物はおしまいだ。[pcms]
 
 *1181|
 [fc]
-We've managed to get by on snacks and canned food, so we're[r]
-not too hungry... But going forward without any water will[r]
-be tough.[pcms]
+お菓子や缶詰でうまく繋いできたから、[r]
+空腹はそうでもないけれど……。[r]
+この先、水分が全くないというのは厳しい。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1182|
 [fc]
 [vo_mar s="maru0973"]
-[ns]Margarita[nse]
-"...Is that the last of it?"[pcms]
+[ns]マルガリータ[nse]
+「……それで最後か？」[pcms]
 
 *1183|
 [fc]
-From beyond where Yuuho and Kousuke are sleeping, Senior[r]
-Maruko calls out.[pcms]
+眠っている悠帆とコースケの向こうから、[r]
+マル子先輩が声をかけてきた。[pcms]
 
 *1184|
 [fc]
-[ns]Wataru[nse]
-"Yes. We've been drinking it sparingly, but..."[pcms]
+[ns]航[nse]
+「はい。少しずつ節約して飲んでましたけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1185|
 [fc]
 [vo_mar s="maru0974"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 ;//うむ、みたいな溜息
 
 *1186|
 [fc]
-Senior slowly shifts her gaze towards where the luggage is[r]
-kept.[pcms]
+先輩はゆっくりと視線を荷物置き場に動かした。[pcms]
 
 *1187|
 [fc]
-It's easy to tell what she's looking at. It was a bottle of[r]
-water.[pcms]
+何を見ているのかはすぐ判る。[r]
+水の入ったペットボトルだった。[pcms]
 
 *1188|
 [fc]
-What's left now is about half of the 500 milliliter mineral[r]
-water bottle that Senior brought, and half of the 1 liter[r]
-bottle that Kousuke had.[pcms]
+今、残っているのは先輩が持参してきた[r]
+５００ミリリットルのミネラルウォーターが半分くらい、[r]
+それにコースケが持っていた１リットルのボトルが同じく半分。[pcms]
 
 *1189|
 [fc]
-In total, less than 1 liter of water for five people...[pcms]
+両方合わせても１リットルに満たない水分。[r]
+そして、ここには５名の人間……。[pcms]
 
 *1190|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *1191|
 [fc]
-Senior and I exchange glances without a word.[pcms]
+ボクと先輩は無言のまま、顔を見合わせた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1192|
 [fc]
 [vo_mar s="maru0975"]
-[ns]Margarita[nse]
-"...It's quiet."[pcms]
+[ns]マルガリータ[nse]
+「……静かだな」[pcms]
 
 *1193|
 [fc]
-[ns]Wataru[nse]
-"Eh? Yes..."[pcms]
+[ns]航[nse]
+「え？　ええ……」[pcms]
 
 *1194|
 [fc]
-I'm a bit puzzled by the sudden change in topic.[pcms]
+急に話題が変わって、ボクは少し戸惑う。[pcms]
 
 *1195|
 [fc]
-Indeed, if you listen closely, the surroundings are deathly[r]
-silent.[pcms]
+確かに耳を済ませてみると、辺りはしーんと静まり返っている。[pcms]
 
 *1196|
 [fc]
-The signs of commotion from above ground that we could hear[r]
-through the hatch seem to have stopped...[pcms]
+ハッチ越しにずっと聞こえていた[r]
+地上の騒乱の気配も止んでいるようだ……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1197|
 [fc]
 [vo_mar s="maru0976"]
-[ns]Margarita[nse]
-"...It's been like this since this morning. Wataru, have you[r]
-noticed any sounds?"[pcms]
+[ns]マルガリータ[nse]
+「……今朝になってから、ずっとだ。[r]
+　ワタルは何か、物音に気付いたか？」[pcms]
 
 *1198|
 [fc]
-[ns]Wataru[nse]
-"No..."[pcms]
+[ns]航[nse]
+「いえ……」[pcms]
 
 *1199|
 [fc]
-The scarce remaining water and the silence above ground... I[r]
-understood what Senior was implying.[pcms]
+残り僅かな水分。そして地上の静けさ……。[r]
+ボクには先輩の意図するところが、分かった。[pcms]
 
 *1200|
 [fc]
-[ns]Wataru[nse]
-"Shall we... go up to the surface?"[pcms]
+[ns]航[nse]
+「上に……地上に出ますか？」[pcms]
 
 *1201|
 [fc]
 [vo_mar s="maru0977"]
-[ns]Margarita[nse]
-"Yes. I didn't want to move around much without accurate[r]
-information... But we can't help it without water."[pcms]
+[ns]マルガリータ[nse]
+「ああ。正確な情報が入って来ないうちは[r]
+　あまり動きたくはなかったが……。[r]
+　水がないのでは、やむを得ない」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1202|
 [fc]
 [vo_ren s="ren0891"]
-[ns]Ren[nse]
-"...Are we going back up again?"[pcms]
+[ns]漣[nse]
+「……また、上に戻るの？」[pcms]
 
 *1203|
 [fc]
-Ren, who had been listening intently to our conversation,[r]
-asks with a tremble in her voice.[pcms]
+じっとボクたちの会話に耳を傾けていた漣が[r]
+不安げに声を震わせる。[pcms]
 
 *1204|
 [fc]
-[ns]Wataru[nse]
-"It's okay..."[pcms]
+[ns]航[nse]
+「大丈夫だよ……」[pcms]
 
 *1205|
 [fc]
-I hug Ren to reassure her and gently pat her back.[pcms]
+勇気付けるように漣を抱き寄せて、[r]
+背中をぽんぽんと優しく叩いた。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1206|
 [fc]
-But honestly, the thought of returning to the surface...[r]
-where they might be, fills me with fear...[pcms]
+だけど……正直なところ、あの地上に……、[r]
+ヤツラのいるかもしれない、上に戻るのかと思うと[r]
+ボク自身が怖くて仕方なかった……。[pcms]
 
 ;BGM即時停止
 [fadeoutbgm time=500]
@@ -205,31 +207,31 @@ where they might be, fills me with fear...[pcms]
 
 *1207|
 [fc]
-Gong gong... gong gong...[pcms]
+ごんごんっ……ごんごん……。[pcms]
 
 *1208|
 [fc]
-[ns]Wataru[nse]
-"!"[pcms]
+[ns]航[nse]
+「っ！？」[pcms]
 
 [bgm storage="BGM05"]
 
 *1209|
 [fc]
-Suddenly, a loud noise echoes, and Ren and I jump up while[r]
-still in each other's arms.[pcms]
+突然、大きな音が響き渡り、[r]
+ボクと漣は抱き合ったまま飛び上がる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1210|
 [fc]
 [vo_ren s="ren0892"]
-[ns]Ren[nse]
-"Big brother!"[pcms]
+[ns]漣[nse]
+「お兄ちゃん！」[pcms]
 
 *1211|
 [fc]
-The rusted iron door is being violently banged on.[pcms]
+固く閉ざされた錆びた鉄扉が、激しく叩かれている。[pcms]
 
 ;//se043・金属の板を叩く音
 [se buf=0 storage="se043"]
@@ -242,26 +244,26 @@ The rusted iron door is being violently banged on.[pcms]
 
 *1212|
 [fc]
-Gong gong... gong gong...[pcms]
+ごんごんっ……ごんごんっ……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1213|
 [fc]
 [vo_yuh s="yuho0847"]
-[ns]Yuuho[nse]
-"Wha-what!?"[pcms]
+[ns]悠帆[nse]
+「なっ、な、ななな……何っ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1214|
 [fc]
-[ns]Kousuke[nse]
-"Is it them!?"[pcms]
+[ns]浩助[nse]
+「ヤツラか！？」[pcms]
 
 *1215|
 [fc]
-Kousuke and Yuuho also leap to their feet.[pcms]
+コースケと悠帆も飛び起きる。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -293,26 +295,27 @@ Kousuke and Yuuho also leap to their feet.[pcms]
 
 *1216|
 [fc]
-Gong gong gong gong gong gong gong gong gong gong![pcms]
+ごんごんごんごんごんごんごんごんごんごんっ！[pcms]
 
 *1217|
 [fc]
-Could it be... they're attacking us!?[pcms]
+まさか……ヤツラが襲ってきたのか！？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1218|
 [fc]
 [vo_mar s="maru0978"]
-[ns]Margarita[nse]
-"...Quiet! They're saying something!"[pcms]
+[ns]マルガリータ[nse]
+「……静かに！[r]
+　何か言っている！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1219|
 [fc]
-At Senior's command, we all strain our ears to listen. And[r]
-then...[pcms]
+先輩の声に、ボクたちは一斉に耳を澄ませる。[r]
+と……。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -320,16 +323,16 @@ then...[pcms]
 *1220|
 [fc]
 [ns]？？？[nse]
-"Hey! Someone's there, right!? Open up!"[pcms]
+「おいっ！　誰かいるんだろ！？　開けろっ！」[pcms]
 ;//＠忠彦
 
 *1221|
 [fc]
-A man is shouting angrily.[pcms]
+男が何か怒鳴っていた。[pcms]
 
 *1222|
 [fc]
-I recognize this voice...!![pcms]
+聞き覚えがある、この声は……！！[pcms]
 
 ;BGM即時停止
 [fadeoutbgm time=500]
@@ -338,90 +341,90 @@ I recognize this voice...!![pcms]
 
 *1223|
 [fc]
-[ns]Kousuke[nse]
-"...It's Tadahiko!"[pcms]
+[ns]浩助[nse]
+「……彦ちんだっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1224|
 [fc]
 [vo_yuh s="yuho0848"]
-[ns]Yuuho[nse]
-"No way!? Is it really Tadahiko!?"[pcms]
+[ns]悠帆[nse]
+「うそっ！？　彦ちんなの！？」[pcms]
 
 
 
 *1225|
 [fc]
-Our faces light up instantly. We rush to the door in a[r]
-panic.[pcms]
+みんなの顔がパッと明るくなる。慌てて扉の前に駆け寄った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1226|
 [fc]
-[ns]Kousuke[nse]
-"Tadahiko, it's me, me! Kousuke! Wataru, Yuuho, and Ren-chan[r]
-are here too!"[pcms]
+[ns]浩助[nse]
+「彦ちんっ、オレ、オレだよ！　浩助っ！[r]
+　ワタルも悠帆も漣ちゃんも一緒だ！」[pcms]
 
 *1227|
 [fc]
-When I shout back, after a brief pause, a voice comes from[r]
-the other side of the door.[pcms]
+怒鳴り返すと、ほんの一瞬の間を置いて、[r]
+扉の向こうから声が返ってくる。[pcms]
 
 *1228|
 [fc]
-[ns]Tadahiko[nse]
-"...You guys... is that you!?"[pcms]
+[ns]忠彦[nse]
+「……お、お前ら……なのか！？」[pcms]
 
 *1229|
 [fc]
-Tadahiko seems surprised to know it's us.[pcms]
+彦ちんも、相手がボクらだと知って驚いているんだろう。[pcms]
 
 *1230|
 [fc]
-[ns]Tadahiko[nse]
-"Good... you're safe!"[pcms]
+[ns]忠彦[nse]
+「よく……無事だったな！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1231|
 [fc]
-[ns]Kousuke[nse]
-"Of course! I believed it! Tadahiko wouldn't die even if you[r]
-killed him!"[pcms]
+[ns]浩助[nse]
+「やっぱな！　オレ、信じてた！[r]
+　彦ちんは殺したって死なねーんだよ！」[pcms]
 ;//＠涙目
 
 *1232|
 [fc]
-[ns]Tadahiko[nse]
-"Yeah, I'm fine. But... let me in quickly! There's someone[r]
-injured!"[pcms]
+[ns]忠彦[nse]
+「ああ、バッチリだ。[r]
+　それより……早く中に入れてくれ！[r]
+　怪我人がいるんだ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1233|
 [fc]
-[ns]Kousuke[nse]
-"Got it! Wataru, help out."[pcms]
+[ns]浩助[nse]
+「わかった！　ワタル、手伝え」[pcms]
 
 *1234|
 [fc]
-[ns]Wataru[nse]
-"Yeah!"[pcms]
+[ns]航[nse]
+「ああ！」[pcms]
 
 *1235|
 [fc]
-We rush to remove the chains and pipes fortifying the iron[r]
-door.[pcms]
+ボクたちは飛びつくようにして[r]
+鉄扉を固めているチェーンやパイプに手をかけた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1236|
 [fc]
 [vo_mar s="maru0979"]
-[ns]Margarita[nse]
-"Wait!"[pcms]
+[ns]マルガリータ[nse]
+「待て！」[pcms]
 
 [bgm storage="BGM13"]
 
@@ -429,13 +432,12 @@ door.[pcms]
 
 *1237|
 [fc]
-Maruko-senpai sharply calls out to Kousuke and me as we[r]
-start moving.[pcms]
+動き出したボクとコースケに、マル子先輩が鋭い声を放つ。[pcms]
 
 *1238|
 [fc]
-Ignoring our surprised looks, the senior approaches the door[r]
-and states clearly.[pcms]
+何事だと見返すボクらをよそに、[r]
+先輩は扉に近付くと、はっきりと告げた。[pcms]
 
 
 
@@ -443,102 +445,104 @@ and states clearly.[pcms]
 *1239|
 [fc]
 [vo_mar s="maru0980"]
-[ns]Margarita[nse]
-"...Sorry to rush you, but answer this one thing. You said[r]
-there's an injured person, who is it? What caused the[r]
-injury?"[pcms]
+[ns]マルガリータ[nse]
+「……急ぎのところ済まないが、これだけは答えてくれ。[r]
+　怪我人がいるそうだが、誰だ？[r]
+　何が原因で怪我をした？」[pcms]
 
 *1240|
 [fc]
-[ns]Wataru[nse]
-"...Ah, right..."[pcms]
+[ns]航[nse]
+「……あっ、そうか……」[pcms]
 
 *1241|
 [fc]
-I hadn't thought of that. But if Tadahiko's companion was[r]
-bitten by them...[pcms]
+考えてなかった。[r]
+だけど、もし彦ちんの連れが[r]
+ヤツラに噛まれていたりしたら……。[pcms]
 
 *1242|
 [fc]
-[ns]Tadahiko[nse]
-"Who are you? I don't recognize the voice."[pcms]
+[ns]忠彦[nse]
+「誰だ、お前？　知らねぇ声だが」[pcms]
 
 *1243|
 [fc]
-Tadahiko's voice takes on a wary tone.[pcms]
+彦ちんの声が剣呑な響きを帯びる。[pcms]
 
 *1244|
 [fc]
-In a panic, Yuuho shouts through the door.[pcms]
+慌てて悠帆が扉に叫んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1245|
 [fc]
 [vo_yuh s="yuho0849"]
-[ns]Yuuho[nse]
-"Ah, um, Tadahiko. This person is Mar... uh, Margarita-san,[r]
-and she's a senior from our school."[pcms]
+[ns]悠帆[nse]
+「あ、あのね、彦ちん。[r]
+　この人、マル……ええと、マルガリータさんっていって[r]
+　わたしたちと同じ学園の先輩なの」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1246|
 [fc]
 [vo_yuh s="yuho0850"]
-[ns]Yuuho[nse]
-"She might seem a bit unfriendly at times, but she's really[r]
-dependable, you know? We were able to escape here thanks to[r]
-her."[pcms]
+[ns]悠帆[nse]
+「ちょっと無愛想なところ、あるけど、すごく頼りになるんだよ？[r]
+　ここまで逃げてこられたのは、先輩のおかげなんだ」[pcms]
 
 *1247|
 [fc]
-[ns]Tadahiko[nse]
-"...I see."[pcms]
+[ns]忠彦[nse]
+「……そうか」[pcms]
 
 *1248|
 [fc]
-Perhaps convinced by Yuuho's explanation, Tadahiko seems to[r]
-readily accept it.[pcms]
+悠帆の説得が効いたのか、[r]
+彦ちんはあっさりと納得してくれたようだ。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1249|
 [fc]
-[ns]Tadahiko[nse]
-"The injured person here is my old man. He's got a couple of[r]
-broken ribs."[pcms]
+[ns]忠彦[nse]
+「こっちの怪我人は、[ruby text="組長"][ch text="オヤジ"]だ。[r]
+　アバラを二三本、もってかれてる」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1250|
 [fc]
 [vo_mar s="maru0981"]
-[ns]Margarita[nse]
-"...A fracture, huh. Then it's OK."[pcms]
+[ns]マルガリータ[nse]
+「……骨折か。ならＯＫだな」[pcms]
 
 *1251|
 [fc]
-Maruko-senpai nods and signals us.[pcms]
+マル子先輩がうなずいて合図する。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1252|
 [fc]
-[ns]Kousuke[nse]
-"Alright! Hang on, Tadahiko! We'll open it right away!"[pcms]
+[ns]浩助[nse]
+「おーしっ！　待ってろよ、彦ちん！[r]
+　すぐ開けるから！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1253|
 [fc]
-Kousuke and I compete to remove the chains and iron pipes[r]
-from the iron door.[pcms]
+ボクとコースケは、争うようにして[r]
+鉄扉のチェーンや鉄パイプを外していった。[pcms]
 
 *1254|
 [fc]
-And then...[pcms]
+そして……。[pcms]
 
 ;//扉が開く音
 [se buf=0 storage="se044"]
@@ -548,14 +552,15 @@ And then...[pcms]
 
 *1255|
 [fc]
-[ns]Tadahiko[nse]
-"...Hey. You guys look surprisingly well."[pcms]
+[ns]忠彦[nse]
+「……よお。お前ら、意外に元気そうじゃねぇか」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_c3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1256|
 [fc]
-We all cheer at once at Tadahiko's sly and daring smile.[pcms]
+ニヤリと不敵に笑う彦ちんに、[r]
+ボクたちは一斉に歓声を上げた。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

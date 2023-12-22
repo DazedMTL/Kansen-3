@@ -14,38 +14,37 @@
 
 *2542|
 [fc]
-Gazing at the stars through the window, I reflected on[r]
-everything that happened today.[pcms]
+窓から星を眺めながら、[r]
+ボクは今日一日に起きた事を振り返ってみた。[pcms]
 
 *2543|
 [fc]
-Like the "shooting star" Tadahiko likened it to, Yuuho[r]
-disappeared from before my eyes.[pcms]
+彦ちんが例えた『流れ星』みたいに、悠帆はボクの前から[r]
+消えてしまった。[pcms]
 
 *2544|
 [fc]
-She's no longer someone else's, but now Oshima-senpai's[r]
-girlfriend.[pcms]
+もう誰かのではなく、大嶋先輩の彼女だ。[pcms]
 
 *2545|
 [fc]
-In the shock of it all, I found myself being comforted by[r]
-Inori-san and ended up having my first experience.[pcms]
+そのショックのまま緒織さんに慰められるようにして[r]
+初体験をしてしまった自分。[pcms]
 
 *2546|
 [fc]
-I even feel like I've started walking a completely different[r]
-path from Yuuho.[pcms]
+悠帆とは完全に違う道を歩き始めたような気さえする。[pcms]
 
 *2547|
 [fc]
-Although I feel a bit bad for Tadahiko, having SEX with[r]
-Inori-san, the person I admired, is like a dream come true.[pcms]
+もっとも彦ちんにはちょっと悪いなって気がしないでもないけど、[r]
+憧れの人だった緒織さんとＳＥＸできるなんて、[r]
+夢のような話だ。[pcms]
 
 *2548|
 [fc]
-But somewhere in my heart, I can't help but think... if it[r]
-had been Yuuho...[pcms]
+でも相手が悠帆だったら……と、[r]
+心のどこかで思わなくもない。[pcms]
 
 ;//BG：星空
 [bg storage="BGS008c"][trans_c cross time=500]
@@ -53,23 +52,21 @@ had been Yuuho...[pcms]
 
 *2549|
 [fc]
-As I absentmindedly looked up at the stars, various thoughts[r]
-swirled around in my head until I couldn't make sense of[r]
-anything.[pcms]
+ぼんやりと星を見上げていると、色んな思いがグルグルと[r]
+頭の中を駆けめぐってわけがわからなくなる。[pcms]
 
 *2550|
 [fc]
-One thing is for sure though, it felt good.[pcms]
+気持ちよかったのだけは確かだけれども。[pcms]
 
 *2551|
 [fc]
-But with feelings of regret and a sense of happiness[r]
-somewhere-- it's as if everything that happened today was[r]
-all just a dream or something.[pcms]
+でも、後悔とか、どこか幸せな気分だとか――[r]
+今日あった総てのことが全部夢か何かなんじゃないか。[pcms]
 
 *2552|
 [fc]
-With that thought, I let go of consciousness.[pcms]
+そんな気さえしながら、意識を手放した。[pcms]
 
 ;//〆：フェードアウト
 ;[fadeoutbgm time=500]

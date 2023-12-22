@@ -1,9 +1,9 @@
 ;//block:A008
-;//ブロック５０１７０『地上ＬＡＳＥＲへ』
+;//ブロック５０１７０『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50170_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：ＤＪバー
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣・航
@@ -25,113 +25,114 @@
 
 *1086|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *1087|
 [fc]
-When we returned to the dome, I saw the gang we had met[r]
-before surrounding Yuuho and Ren.[pcms]
+ドームに戻ると、以前会ったことのあるギャングたちが、[r]
+悠帆と漣を取り囲んでいた。[pcms]
 
 *1088|
 [fc]
-It was Jin and Shigeyoshi... those two.[pcms]
+確か、壬と重吉……っていう二人だ。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1089|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hehehehe... guhuhu."[pcms]
+[ns]重吉[nse]
+「うぇへへへぇ……ぐひひっ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1090|
 [fc]
 [vo_ren s="ren1351"]
-[ns]Ren[nse]
-"Y-Yuuho-chan...!"[pcms]
+[ns]漣[nse]
+「ゆ、悠帆ちゃぁん……っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1091|
 [fc]
 [vo_yuh s="yuho1511"]
-[ns]Yuuho[nse]
-"It's okay... it's going to be okay..."[pcms]
+[ns]悠帆[nse]
+「大丈夫だよ……大丈夫だから……」[pcms]
 
 *1092|
 [fc]
-The rough-looking man among them was smirking at the[r]
-frightened pair.[pcms]
+怯える二人に、荒っぽそうな方の男が、[r]
+ニヤニヤと笑いかけている。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1093|
 [fc]
-[ns]Kousuke[nse]
-"Nnnghhh!"[pcms]
+[ns]浩助[nse]
+「んなろぉぉ！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1094|
 [fc]
-[ns]Shigeyoshi[nse]
-"You came, you bastard!"[pcms]
+[ns]重吉[nse]
+「来やがったな、このォ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1095|
 [fc]
-[ns]Kousuke[nse]
-"What are you doing there! Get away from them!"[pcms]
+[ns]浩助[nse]
+「そこで何してるっ！　二人から離れろ！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1096|
 [fc]
-[ns]Shigeyoshi[nse]
-"Like hell I will! If you want to move me, you'll have to do[r]
-it by force!"[pcms]
+[ns]重吉[nse]
+「イヤなこったァ！[r]
+　俺様をどかしてぇなら、力ずくで来なっ！」[pcms]
 
 *1097|
 [fc]
-Kousuke, infuriated, is met with nothing but a sneering[r]
-laugh from Shigeyoshi, who doesn't drop his grin.[pcms]
+いきどおるコースケに、重吉ってヤツは[r]
+ニヤニヤとした笑いを崩さないまま、あざ笑う。[pcms]
 
 *1098|
 [fc]
-Their gazes locked in a glare, Kousuke and Shigeyoshi faced[r]
-off.[pcms]
+そのままコースケと重吉は視線を絡めて睨み合った。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1099|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *1100|
 [fc]
-Jin, the man, didn't react to Kousuke, just watched us, but[r]
-I could feel a tense atmosphere emanating from his entire[r]
-body.[pcms]
+壬という男の方は、コースケには反応しようとせず、[r]
+ボクたちを眺めているだけだったが[r]
+全身から警戒している空気が伝わってくる。[pcms]
 
 *1101|
 [fc]
-Where did these guys come from!? What are they after...!?[pcms]
+こいつら、一体どこから来た！？[r]
+何が目的で……！？[pcms]
 
 *1102|
 [fc]
 [vo_miz s="mizuki0257"]
 [ns]？？？[nse]
-"Jin~! What are you doing? If you don't come back soon..."[pcms]
+「ジン～！　何してるの？[r]
+　早くこっちに戻ってきてくれないと……」[pcms]
 ;//＠瑞樹
 
 *1103|
 [fc]
-Just as the situation was about to explode, a familiar[r]
-female voice echoed.[pcms]
+まさに、一触即発のその時、[r]
+聞き覚えのある女の声が響いた。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
@@ -139,618 +140,628 @@ female voice echoed.[pcms]
 [fc]
 [vo_miz s="mizuki0258"]
 [ns]？？？[nse]
-"...You guys...!?"[pcms]
+「……あ、アンタたち……っ！？」[pcms]
 ;//＠瑞樹
 ;//＠一瞬、驚き
 
 *1105|
 [fc]
-The woman froze in place as she noticed us.[pcms]
+女はボクらに気付くと凍りついたように動きを止める。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1106|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki! It's Mizuki, isn't it!"[pcms]
+[ns]浩助[nse]
+「瑞樹っ！　瑞樹じゃねぇかっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1107|
 [fc]
 [vo_miz s="mizuki0259"]
-[ns]Mizuki[nse]
-"Ko... Kousuke...!"[pcms]
+[ns]瑞樹[nse]
+「こ……コースケ……！」[pcms]
 ;//＠浩助が生きていて嬉しい
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1108|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki...! You're okay, right!? Are you hurt? Did anything[r]
-scary happen to you?"[pcms]
+[ns]浩助[nse]
+「瑞樹ぃ……っ、お前、よく無事だったな！？[r]
+　怪我とかしてないか？[r]
+　怖い目に遭ったりしなかったか？」[pcms]
 
 *1109|
 [fc]
-Kousuke's voice was filled with excitement as he called out.[pcms]
+呼びかけるコースケの声が弾んでいる。[pcms]
 
 *1110|
 [fc]
-While escaping through the underground passages, Kousuke had[r]
-been constantly worried about Mizuki's safety; he couldn't[r]
-be anything but relieved.[pcms]
+地下道を逃げている間も、[r]
+何かにつけて瑞樹の安否を気にしていたコースケだ、[r]
+嬉しくないわけがない。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1111|
 [fc]
 [vo_miz s="mizuki0260"]
-[ns]Mizuki[nse]
-"Ah... I..."[pcms]
+[ns]瑞樹[nse]
+「あっ……あたし……」[pcms]
 ;//＠少しだけ嬉しくて、戸惑うけれど……
 
 *1112|
 [fc]
-Mizuki, who had momentarily shown a stiff smile at the call,[r]
-turned her face away sharply the next moment.[pcms]
+一瞬、呼びかけの声に強張った笑みを浮かべた瑞樹は、[r]
+次の瞬間には、ツンと顔を横に背けてしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1113|
 [fc]
 [vo_miz s="mizuki0261"]
-[ns]Mizuki[nse]
-"That's none of your business! Whatever happens to me...! I[r]
-don't need you anymore...!"[pcms]
+[ns]瑞樹[nse]
+「そんなの、アンタにカンケーないでしょ！[r]
+　あたしが、どうなったって……！　もう、アンタには……！」[pcms]
 ;//＠やはり意地を張ってしまう
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1114|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki...!"[pcms]
+[ns]浩助[nse]
+「瑞樹ぃ……っ」[pcms]
 
 *1115|
 [fc]
-At that moment, Jin, who had been silent until now, pointed[r]
-at us smoothly.[pcms]
+その時、今まで沈黙を守ってきた壬が、[r]
+すっとボクたちを指差した。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1116|
 [fc]
-[ns]Jin[nse]
-"That gunshot just now... was it you guys?"[pcms]
+[ns]壬[nse]
+「今の銃声……お前らか？」[pcms]
 
 *1117|
 [fc]
-[ns]Wataru[nse]
-"Um..."[pcms]
+[ns]航[nse]
+「えっと……」[pcms]
 
 *1118|
 [fc]
-What should I say in this situation?[pcms]
+こういう場合、何て答えればいいんだろう？[pcms]
 
 *1119|
 [fc]
-I glanced at my senior for guidance.[pcms]
+ちらっと先輩の方に視線を送る。[pcms]
 
 *1120|
 [fc]
-Maruko-senpai was tensed up just like Jin, ready to spring[r]
-into action at any moment.[pcms]
+マル子先輩は、壬と同じように全身を緊張させて[r]
+いつでも飛びかかれるような構えだ。[pcms]
 
 *1121|
 [fc]
-[ns]Wataru[nse]
-"Yes, but..."[pcms]
+[ns]航[nse]
+「そ、そうだけど……」[pcms]
 
 *1122|
 [fc]
-I thought I had to be honest, so I answered while also[r]
-asking a question in return.[pcms]
+正直に言うしかないと思ったボクは、[r]
+答えながらも逆に質問する。[pcms]
 
 *1123|
 [fc]
-[ns]Wataru[nse]
-"Why are you guys here?"[pcms]
+[ns]航[nse]
+「お、お前らは、なんでここに？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1124|
 [fc]
-[ns]Jin[nse]
-"Any other comrades?"[pcms]
+[ns]壬[nse]
+「他に仲間は？」[pcms]
 
 *1125|
 [fc]
-Jin ignored my question and pressed on with his own.[pcms]
+壬は、ボクの質問を無視して、更に問いを重ねてきた。[pcms]
 
 *1126|
 [fc]
-[ns]Wataru[nse]
-"No one else. Now answer my question?"[pcms]
+[ns]航[nse]
+「いないよ。[r]
+　それよりボクの質問の答えは？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1127|
 [fc]
-[ns]Jin[nse]
-"...Who knows."[pcms]
+[ns]壬[nse]
+「…………さあな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1128|
 [fc]
-[ns]Kousuke[nse]
-"Come on, that's not fair! We answered honestly without[r]
-hiding anything! It's only polite for you to answer too!"[pcms]
+[ns]浩助[nse]
+「そりゃ、ねぇだろがっ！[r]
+　こっちは隠し立てしないで、正直に言ったんだ！[r]
+　お前だって答えるのが礼儀ってモンだろ！？」[pcms]
 
 *1129|
 [fc]
-Possibly due to the tension or being treated coldly by[r]
-Mizuki, Kousuke's tone was rougher than usual as he barked[r]
-out.[pcms]
+さっきからの緊張のせいか、瑞樹につれなくされたからか、[r]
+いつもより荒っぽい口調で、コースケが吼えた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1130|
 [fc]
-[ns]Jin[nse]
-"Politeness? Huh..."[pcms]
+[ns]壬[nse]
+「礼儀？　ふっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1131|
 [fc]
-[ns]Kousuke[nse]
-"...You bastard, laughing at me through your nose!"[pcms]
+[ns]浩助[nse]
+「……のやろー、鼻で笑いやがった！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1132|
 [fc]
-[ns]Kousuke[nse]
-"I've never liked you from the start!"[pcms]
+[ns]浩助[nse]
+「だいたい、てめぇのことは[r]
+　ハナっから気に入らねーんだよっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1133|
 [fc]
-[ns]Kousuke[nse]
-"We're settling this today, so be ready!"[pcms]
+[ns]浩助[nse]
+「今日は白黒つけてやっから、覚悟しなっ！」[pcms]
 
 *1134|
 [fc]
-Fueled by anger, Kousuke pointed sharply at Jin and moved to[r]
-confront him.[pcms]
+頭に血が昇ったコースケは、[r]
+びしっと壬を指差して詰め寄ろうとする。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1135|
 [fc]
-[ns]Shigeyoshi[nse]
-"You little shit! You wanna go!?"[pcms]
+[ns]重吉[nse]
+「くそガキがァっ！　やる気かっ！？」[pcms]
 
 *1136|
 [fc]
-Shigeyoshi, seemingly quick to anger, easily took Kousuke's[r]
-bait.[pcms]
+重吉は、これまた怒りっぽいと見えて[r]
+コースケの挑発に簡単に乗ってしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1137|
 [fc]
-[ns]Jin[nse]
-"...Scram."[pcms]
+[ns]壬[nse]
+「……失せろ」[pcms]
 
 *1138|
 [fc]
-Without paying any mind to the surrounding commotion, Jin[r]
-reached out straight towards me.[pcms]
+周囲の喧騒など気にも留めず、[r]
+壬は真っ直ぐにボクに向けて腕を伸ばす。[pcms]
 
 *1139|
 [fc]
-What shone in his hand was...[pcms]
+その手に光るものは……。[pcms]
 
 *1140|
 [fc]
-[ns]Wataru[nse]
-"...!?"[pcms]
+[ns]航[nse]
+「……っ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1141|
 [fc]
 [vo_mar s="maru1446"]
-[ns]Margarita[nse]
-"...So there's a gun over there too."[pcms]
+[ns]マルガリータ[nse]
+「……あちらにも、銃があるのか」[pcms]
 ;//＠小声で
 
 *1142|
 [fc]
-The air around Maruko-senpai, standing next to me, became[r]
-even more tense.[pcms]
+隣に立つマル子先輩の身体から、[r]
+一層緊張した気配が噴き出してきた。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1143|
 [fc]
 [vo_miz s="mizuki0262"]
-[ns]Mizuki[nse]
-"Stop it, Jin! And Kousuke, don't get so worked up!"[pcms]
+[ns]瑞樹[nse]
+「や、やめてよ、ジン！[r]
+　コースケも、熱くなんないでっ！」[pcms]
 
 *1144|
 [fc]
-Suddenly, Mizuki stepped into the situation.[pcms]
+突然、その場に割って入ったのは瑞樹だ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1145|
 [fc]
 [vo_miz s="mizuki0263"]
-[ns]Mizuki[nse]
-"I was the one who called him!"[pcms]
+[ns]瑞樹[nse]
+「あたしが呼んだのっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1146|
 [fc]
-[ns]Kousuke[nse]
-"What!?"[pcms]
+[ns]浩助[nse]
+「何っ！？」[pcms]
 
 *1147|
 [fc]
-Kousuke's body jolted as if he was about to start a brawl.[pcms]
+今にも掴み合いを始めそうだったコースケが[r]
+びくっと身体を震わせる。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1148|
 [fc]
 [vo_miz s="mizuki0264"]
-[ns]Mizuki[nse]
-"It was me... I called Jin!"[pcms]
+[ns]瑞樹[nse]
+「ジンのこと……、あたしが呼んだの！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1149|
 [fc]
 [vo_miz s="mizuki0265"]
-[ns]Mizuki[nse]
-"When I was on the 5th floor, surrounded and unable to move,[r]
-I didn't know what to do and was scared. So I sent Jin an[r]
-email..."[pcms]
+[ns]瑞樹[nse]
+「５Ｆにいた時、“アイツら”に囲まれて身動きとれなくて[r]
+　どうしていいか分からなくって、怖くって。[r]
+　だから、ジンにメールした……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1150|
 [fc]
-[ns]Kousuke[nse]
-"Why him... Mizuki...? Even I... If you had called me..."[pcms]
+[ns]浩助[nse]
+「何でアイツを……瑞樹……？[r]
+　オレだって……オレを呼んでくれりゃ……」[pcms]
 
 *1151|
 [fc]
-The anger seemed to drain from Kousuke's entire body.[pcms]
+コースケの全身から怒気が抜けていく。[pcms]
 
 *1152|
 [fc]
-He appeared to be quite shocked to hear that Mizuki had[r]
-relied on Jin instead of himself.[pcms]
+自分ではなく壬を頼ったのだと聞かされて[r]
+相当にショックを受けたらしい。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1153|
 [fc]
 [vo_mar s="maru1447"]
-[ns]Margarita[nse]
-"I understand the situation now. So let's get an answer. How[r]
-long have you been here? Do you have any companions?"[pcms]
+[ns]マルガリータ[nse]
+「経緯は理解した。[r]
+　では、改めて答えてもらおう。[r]
+　いつからここに？　仲間はいるのか？」[pcms]
 
 *1154|
 [fc]
-Without taking her eyes off the gun, the senior asked.[pcms]
+銃から視線を外さないまま、先輩が問いかける。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1155|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1156|
 [fc]
 [vo_mar s="maru1448"]
-[ns]Margarita[nse]
-"...Is there a reason you can't answer?"[pcms]
+[ns]マルガリータ[nse]
+「……答えられない理由でもあるのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1157|
 [fc]
-[ns]Jin[nse]
-"Didn't you hear? ...Just like Mizuki said."[pcms]
+[ns]壬[nse]
+「今、聞いたろう？[r]
+　……瑞樹が話したとおりだ」[pcms]
 
 *1158|
 [fc]
-Danger flickered in Maruko-senpai's eyes as Jin refused to[r]
-reveal any information.[pcms]
+情報を明かそうとしない壬に、[r]
+マル子先輩の瞳が危険な光を帯びる。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1159|
 [fc]
 [vo_miz s="mizuki0266"]
-[ns]Mizuki[nse]
-"Enough, Jin! There's no need to speak like that...!"[pcms]
+[ns]瑞樹[nse]
+「もうっ、ジン！[r]
+　そんな言い方しなくても……っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1160|
 [fc]
-[ns]Kousuke[nse]
-"For now...!"[pcms]
+[ns]浩助[nse]
+「とりあえずっ！」[pcms]
 
 *1161|
 [fc]
-Suddenly, Kousuke shouted out.[pcms]
+不意にコースケが叫んだ。[pcms]
 
 *1162|
 [fc]
-Everyone's movements came to an abrupt halt.[pcms]
+全員の動きがピタリと止まる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1163|
 [fc]
-[ns]Kousuke[nse]
-"For now... even if you guys don't play it straight, I will.[r]
-So I'll say thanks for helping Mizuki."[pcms]
+[ns]浩助[nse]
+「とりあえず……お前らがスジ通さなくても、[r]
+　オレはちゃんとしてぇから[r]
+　瑞樹を助けてくれた礼を言っとく」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1164|
 [fc]
-[ns]Kousuke[nse]
-"It pisses me off but... thanks."[pcms]
+[ns]浩助[nse]
+「ムカつくけど……ありがとよ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1165|
 [fc]
 [vo_miz s="mizuki0267"]
-[ns]Mizuki[nse]
-"Kousuke..."[pcms]
+[ns]瑞樹[nse]
+「コースケ……」[pcms]
 ;//＠少し意外に思う
 
 *1166|
 [fc]
-Mizuki looked surprised, as if she hadn't expected such[r]
-words from him.[pcms]
+意外そうだというように、瑞樹が目を丸くした。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1167|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1168|
 [fc]
-[ns]Kousuke[nse]
-"But now that we're here, you're no longer needed, right?[r]
-Leave Mizuki and get out!"[pcms]
+[ns]浩助[nse]
+「けど！　もう、オレらが来たんだから用はねぇだろ？[r]
+　瑞樹を置いて、出てけ！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1169|
 [fc]
 [vo_miz s="mizuki0268"]
-[ns]Mizuki[nse]
-"Wait...! What are you saying!?"[pcms]
+[ns]瑞樹[nse]
+「ちょっ……！　何、無茶言ってんのよ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1170|
 [fc]
-[ns]Kousuke[nse]
-"LASER is our home! You guys should go back to your own[r]
-hideout!!"[pcms]
+[ns]浩助[nse]
+「ＬＡＳＥＲはオレらのホームだ！[r]
+　あんたらは、自分のアジトにでも帰れ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1171|
 [fc]
-[ns]Shigeyoshi[nse]
-"What did you say!?"[pcms]
+[ns]重吉[nse]
+「ンだとぉっ！？」[pcms]
 
 *1172|
 [fc]
-Shigeyoshi immediately reacted to Kousuke's declaration of[r]
-war.[pcms]
+コースケの宣戦布告に、重吉がすぐさま反応した。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1173|
 [fc]
-[ns]Shigeyoshi[nse]
-"What home! You brat getting all cocky!! Can't you see[r]
-this!?"[pcms]
+[ns]重吉[nse]
+「何がホームだっ！[r]
+　ガキがいきがりやがってぇ！！[r]
+　こいつが見えねぇのかっ！？」[pcms]
 
 *1174|
 [fc]
-In his hand, pulled from his bosom, was also a gun![pcms]
+ふところから抜き出した手には……、こちらも銃だ！[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1175|
 [fc]
-[ns]Shigeyoshi[nse]
-"I don't care! Aniki! Let's do this! Let's shoot and kill[r]
-this brat!"[pcms]
+[ns]重吉[nse]
+「構うこたねぇ！[r]
+　アニキぃ！　やっちまえっ！[r]
+　このガキ、撃ち殺しちまおうぜっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1176|
 [fc]
-[ns]Jin[nse]
-"Quiet down, Shige."[pcms]
+[ns]壬[nse]
+「吼えるな、シゲ」[pcms]
 
 *1177|
 [fc]
-Jin calmly admonished Shigeyoshi, who was waving his gun[r]
-around and threatening us.[pcms]
+銃を振り回してボクらを威嚇する重吉を、[r]
+壬は短くいさめた。[pcms]
 
 *1178|
 [fc]
-Perhaps this person named Jin isn't interested in fighting[r]
-needlessly...[pcms]
+もしかして、この壬っていう人は[r]
+ムダに戦うつもりはない……んだろうか。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1179|
 [fc]
-[ns]Kousuke[nse]
-"What about the gun! Such a thing...! It doesn't scare me at[r]
-all...!"[pcms]
+[ns]浩助[nse]
+「銃がどうかしたかよっ！[r]
+　そんなモンっ……！　ちっとも怖かねぇ……っ！」[pcms]
 
 *1180|
 [fc]
-But Kousuke, heated up, seemed oblivious to the situation[r]
-around him.[pcms]
+だけど、熱くなってしまったコースケには[r]
+周りの状況なんか見えていないみたいだ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1181|
 [fc]
-[ns]Kousuke[nse]
-"I can handle it too!"[pcms]
+[ns]浩助[nse]
+「オレだって、やってやるっ！」[pcms]
 
 *1182|
 [fc]
-Kousuke's hand reached behind his waist. There lay the gun[r]
-he had obtained from dedepou.[pcms]
+コースケの手が、腰の後ろに伸びていく。[r]
+そこにあるのは、ででっぽうで手に入れた、あの銃だ。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1183|
 [fc]
-[ns]Jin[nse]
-"...!"[pcms]
+[ns]壬[nse]
+「……っ！」[pcms]
 
 *1184|
 [fc]
-Jin started to react to his movement.[pcms]
+その動きに壬が反応しかける。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1185|
 [fc]
 [vo_mar s="maru1449"]
-[ns]Margarita[nse]
-"You fool!!!"[pcms]
+[ns]マルガリータ[nse]
+「ばかものっ！！！」[pcms]
 
 *1186|
 [fc]
-Maruko-senpai quickly took aim and pointed her gun at Jin[r]
-and Shigeyoshi.[pcms]
+素早く構えをとったマル子先輩が、[r]
+壬と重吉に向かって銃口を突きつける。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1187|
 [fc]
 [vo_mar s="maru1450"]
-[ns]Margarita[nse]
-"Kousuke, stop it. You two as well."[pcms]
+[ns]マルガリータ[nse]
+「コースケ、よせ。そっちの二人も」[pcms]
 
 *1188|
 [fc]
-Her tone was calm.[pcms]
+静かな口調だった。[pcms]
 
 *1189|
 [fc]
-But perhaps there was a different scent to the intimidation[r]
-of Maruko-senpai, who had experienced real combat. Jin,[r]
-Shigeyoshi, and Kousuke all stopped moving at once.[pcms]
+けれど、実戦を経験してきたマル子先輩の威嚇には、[r]
+何か他とは違う匂いが感じられたのかもしれない。[r]
+壬も重吉もコースケも、一斉に動きを止めた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1190|
 [fc]
 [vo_yuh s="yuho1512"]
-[ns]Yuuho[nse]
-"K... Kousuke, calm down, okay? We'll be fine."[pcms]
+[ns]悠帆[nse]
+「こ……コースケ、落ち着いて。ね？[r]
+　わたしたちなら、大丈夫だから」[pcms]
 
 *1191|
 [fc]
-Seizing the moment when she could finally move, Yuuho spoke[r]
-soothingly to Kousuke.[pcms]
+ようやく動けるようになったのを見計らって、[r]
+悠帆がなだめるようにコースケに声をかける。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1192|
 [fc]
 [vo_mar s="maru1451"]
-[ns]Margarita[nse]
-"Kousuke, slowly lower the gun."[pcms]
+[ns]マルガリータ[nse]
+「コースケ、ゆっくりと銃を下ろせ」[pcms]
 
 *1193|
 [fc]
-But Kousuke didn't seem willing to let go of the gun he[r]
-held. Of course, neither did Jin or Shigeyoshi...[pcms]
+だけどコースケは手にした銃を放そうとしない。[r]
+もちろん壬も重吉も……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1194|
 [fc]
 [vo_ren s="ren1352"]
-[ns]Ren[nse]
-"B... Brother...!"[pcms]
+[ns]漣[nse]
+「お、お兄ちゃぁん……！」[pcms]
 ;//＠不安
 
 *1195|
 [fc]
-Ren's faint voice snapped me back to reality.[pcms]
+漣のか細い声が、ボクを我に返らせた。[pcms]
 
 *1196|
 [fc]
-[ns]Wataru[nse]
-"...Huh...!?"[pcms]
+[ns]航[nse]
+「……はっ……！？」[pcms]
 
 *1197|
 [fc]
-What... what should I do!?[pcms]
+ど……、どうしよう！？[pcms]
 
 *1198|
 [fc]
-How can I resolve this situation!?[pcms]
+一体どうしたら、この事態を収めることができるんだ！？[pcms]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ａ２
+;//●時限式選択肢Ａ－２
 ;//１ー１：はったりでも銃を抜いて牽制→ブロック５０１８０へ
-;//１２：落ち着いて話しかける→ブロック５０１９０へ
-;//１３：タイムアウト→ブロック５０２００へ
+;//１－２：落ち着いて話しかける→ブロック５０１９０へ
+;//１－３：タイムアウト→ブロック５０２００へ
 
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="50180.ks" target=*50180_TOP]はったりでも銃を抜いて牽制[endlink]
 ;	[link storage="50190.ks" target=*50190_TOP]落ち着いて話しかける[endlink]
 ;	;[link storage="50200.ks" target=*50200_TOP]時間切れ[endlink]
-;       (link storage="50200.ks" target=*50200_TOP)What[r]
-should I do in this situation...(endlink)[pcms]
+;	[link storage="50200.ks" target=*50200_TOP]こんな状況どうすれば……[endlink][s]
 
 *SEL42|はったりでも銃を抜いて牽制／落ち着いて話しかける／こんな状況どうすれば……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Bluff and draw your gun to intimidate'"]
-[eval exp="f.seltext04 = 'Speak calmly'"]
-[eval exp="f.seltext06 = 'What should I do in this situation'"]
+[eval exp="f.seltext02 = 'はったりでも銃を抜いて牽制'"]
+[eval exp="f.seltext04 = '落ち着いて話しかける'"]
+[eval exp="f.seltext06 = 'こんな状況どうすれば……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

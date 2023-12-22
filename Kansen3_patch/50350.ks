@@ -21,35 +21,34 @@
 
 *1742|
 [fc]
-And so, the discussion was settled.[pcms]
+こうして話はまとまった。[pcms]
 
 *1743|
 [fc]
-Kousuke was constantly worried that Jin and Shigeyoshi,[r]
-still armed, might do something strange while we were[r]
-focused on the operation...[pcms]
+コースケは、銃を持ったままの壬と重吉が[r]
+ボクらが作戦に専念してる間に妙な行動をしないかと[r]
+しきりに心配していたけど……。[pcms]
 
 *1744|
 [fc]
-Since Mizuki was also cooperating and moving with us, we[r]
-figured she wouldn't do anything too reckless, and[r]
-ultimately Kousuke was persuaded.[pcms]
+瑞樹も協力してボクたちと動くんだから、[r]
+あまり無茶はしないだろうっていうことで[r]
+最終的には納得させた。[pcms]
 
 *1745|
 [fc]
-Jin didn't seem to have any intention of helping as he[r]
-declared, but he entrusted us with the master key he said he[r]
-obtained from the security room.[pcms]
+壬は宣言どおり手伝うつもりはないみたいだったけど、[r]
+警備室で手に入れたというマスターキーを預けてくれた。[pcms]
 
 *1746|
 [fc]
-After a thorough meeting and deciding on each person's role,[r]
-we made our preparations...[pcms]
+入念な打ち合わせをして、[r]
+それぞれの役割を決めて準備を整えて……。[pcms]
 
 *1747|
 [fc]
-Finally, "Operation Sanctuary," also known as "Infected Lure[r]
-and Lockdown Strategy," began.[pcms]
+とうとう「オペレーション・サンクチュアリ」、[r]
+別名「感染者ホイホイ締め出し大作戦」が始まった。[pcms]
 
 ;//→ブロック５０３６０へ
 [jump storage="50360.ks" target=*50360_TOP]

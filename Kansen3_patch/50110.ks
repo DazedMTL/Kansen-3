@@ -1,10 +1,10 @@
 ;//block:A002
 ;//ブロック５０１００から選択肢でjump
-;//ブロック５０１１０『地上ＬＡＳＥＲへ』
+;//ブロック５０１１０『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50110_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：ででっぽう
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣・航
@@ -16,73 +16,72 @@
 
 *830|
 [fc]
-[ns]Wataru[nse]
-"Can't we just shoot the lock off?"[pcms]
+[ns]航[nse]
+「銃で鍵を壊せませんか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *831|
 [fc]
 [vo_mar s="maru1371"]
-[ns]Margarita[nse]
-"No. There's a risk of ricochet. Let's not do that."[pcms]
+[ns]マルガリータ[nse]
+「いや。跳弾の危険がある。やめておこう」[pcms]
 
 *832|
 [fc]
-Maruko-senpai firmly shook her head.[pcms]
+マル子先輩はきっぱりと首を振る。[pcms]
 
 *833|
 [fc]
-[ns]Wataru[nse]
-"I see... What a predicament..."[pcms]
+[ns]航[nse]
+「そうか……困ったな……」[pcms]
 
 *834|
 [fc]
-We fell silent, at a loss for what to do.[pcms]
+ボクたちは途方に暮れて黙り込む。[pcms]
 
 *835|
 [fc]
-Then, Ren approached me with quick, light steps and[r]
-whispered in my ear.[pcms]
+と、漣がちょこちょこと近付いてきて耳打ちした。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *836|
 [fc]
 [vo_ren s="ren1337"]
-[ns]Ren[nse]
-"Hey, big brother?"[pcms]
+[ns]漣[nse]
+「ねぇ、お兄ちゃん？」[pcms]
 
 *837|
 [fc]
-[ns]Wataru[nse]
-"Hmm?"[pcms]
+[ns]航[nse]
+「ん？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *838|
 [fc]
 [vo_ren s="ren1338"]
-[ns]Ren[nse]
-"You know, there's a more fitting way to handle this[r]
-situation?"[pcms]
+[ns]漣[nse]
+「こういう時、[r]
+　もっとぴったりの方法があるよ？」[pcms]
 
 *839|
 [fc]
-The perfect method...?[pcms]
+ぴったりの方法……？[pcms]
 
 *840|
 [fc]
-As I turned to look at her, wondering what she would say[r]
-next, Ren smiled sweetly.[pcms]
+何を言い出すのかと見返すボクに、[r]
+漣はニッコリと微笑む。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *841|
 [fc]
 [vo_ren s="ren1339"]
-[ns]Ren[nse]
-"Big brother... Bring the bar."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……。バール持ってきて」[pcms]
 
 ;//★プロットでは「お兄ちゃん……。バール持ってこいや」
 ;//とありました。

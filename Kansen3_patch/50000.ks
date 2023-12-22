@@ -1,9 +1,9 @@
 ;//block:A001
-;//ブロック５００００『地上ＬＡＳＥＲへ』
+;//ブロック５００００『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50000_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：ででっぽうバックヤード
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣・航
@@ -22,251 +22,245 @@
 
 *1|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *2|
 [fc]
-We arrived at the hideout Hiko-chin mentioned... the[r]
-backyard of the izakaya "Dedepou".[pcms]
+ボクたちは、彦ちんの言うアジト……、[r]
+居酒屋『ででっぽう』のバックヤードに辿りついた。[pcms]
 
 *3|
 [fc]
-The hatch leading underground was between the electrical[r]
-panel and a large refrigerator. Beer cases were stacked[r]
-tightly around, and shelves were lined with stocks of[r]
-Japanese sake and Western liquor.[pcms]
+地下へと繋がるハッチは配電盤と大型冷蔵庫の間にあった。[r]
+周囲にはところ狭しとビールケースが積まれ、[r]
+棚には日本酒や洋酒のストックが並んでいる。[pcms]
 
 *4|
 [fc]
-It seemed someone had turned on the lights, and as we[r]
-blinked in the sudden brightness... we silently stared at[r]
-what was in my hands.[pcms]
+誰かが電気をつけたみたいで、[r]
+久しぶりの明るさに、ボクたちは目をしばたきながら……。[r]
+無言で、ボクの手元に見入っている。[pcms]
 
 *5|
 [fc]
-The gun entrusted to me by Hiko-chin...[pcms]
+彦ちんから託された銃……だ。[pcms]
 
 *6|
 [fc]
-I spoke briefly, telling everyone that Hiko-chin had[r]
-returned to Yotsubase.[pcms]
+ボクは言葉少なに、彦ちんが四つ葉瀬に戻ったことを[r]
+みんなに話した。[pcms]
 
 *7|
 [fc]
-For a moment, everyone was at a loss for words...[pcms]
+一瞬、全員が言葉を失った…………。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *8|
 [fc]
 [vo_ren s="ren1302"]
-[ns]Ren[nse]
-"No way...! That means...! Ugh...ugh, uuu..."[pcms]
+[ns]漣[nse]
+「そんな……っ！　それじゃ……！[r]
+　うっ……うっ、うぅっ……」[pcms]
 
 *9|
 [fc]
-Ren clung to my arm, sobbing.[pcms]
+漣は泣きじゃくりながらボクの腕にすがりついてきた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *10|
 [fc]
 [vo_yuh s="yuho1445"]
-[ns]Yuuho[nse]
-"Hiko-chin...!"[pcms]
+[ns]悠帆[nse]
+「彦ちん……っ」[pcms]
 
 *11|
 [fc]
-Yuuho bit her lip tightly, trying to hold back her tears.[pcms]
+悠帆は唇をきつく噛んで、泣くのを我慢している。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *12|
 [fc]
-[ns]Kousuke[nse]
-"...Damn it, Hiko-chin always has to act so cool...!"[pcms]
+[ns]浩助[nse]
+「……ったく、格好つけすぎなんだよ、彦ちんは……っ！」[pcms]
 
 *13|
 [fc]
-Kousuke said gruffly, his eyes also shimmering with[r]
-something.[pcms]
+ぶっきらぼうに言い放つコースケの目にも光るものがあった。[pcms]
 
 *14|
 [fc]
-I understand Hiko-chin's logic and feelings. But thinking[r]
-about Hiko-chin's fate... tears start to well up in my eyes[r]
-too.[pcms]
+彦ちんの理屈も、気持ちも分かる。[r]
+だけど……彦ちんの運命を思うと……。[r]
+ボクも涙がにじんでくる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a22"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *15|
 [fc]
 [vo_mar s="maru1278"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 ;//＠大丈夫か、しっかりしろ、というようなブレス
 
 *16|
 [fc]
-Without a word, Maruko-senpai placed her hand on my[r]
-shoulder.[pcms]
+無言のまま、マル子先輩がボクの肩に手を置いた。[pcms]
 
 *17|
 [fc]
-Her gaze was stern and strong... as if encouraging me to[r]
-stay firm and keep going.[pcms]
+その視線は厳しくて強くて……、[r]
+しっかりしろ、頑張れと励まされているようだった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *18|
 [fc]
 [vo_mar s="maru1279"]
-[ns]Margarita[nse]
-"Let's go..."[pcms]
+[ns]マルガリータ[nse]
+「行こう……」[pcms]
 
 *19|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *20|
 [fc]
-As I started to walk, I hesitated at the unfamiliar[r]
-sensation of the gun I was carrying.[pcms]
+歩き出そうとしたボクは、[r]
+ふと持ちなれない銃の感触に戸惑ってしまう。[pcms]
 
 *21|
 [fc]
-The gun gleamed dully.[pcms]
+鈍く光る銃。[pcms]
 
 *22|
 [fc]
-Upon closer inspection, there was something like a hook[r]
-attached to it.[pcms]
+よく見るとフックみたいなものが付いている。[pcms]
 
 *23|
 [fc]
-[ns]Wataru[nse]
-"I guess it's supposed to be used like this..."[pcms]
+[ns]航[nse]
+「これって、こういうこと……かな」[pcms]
 
 *24|
 [fc]
-I hooked the gun onto my pants and pushed it into the gap in[r]
-my clothes.[pcms]
+ボクはズボンにフックを引っかけるようにして[r]
+服の隙間に銃を押し込む。[pcms]
 
 *25|
 [fc]
-Then, I followed after everyone else.[pcms]
+それから、みんなの後を追って歩き出した。[pcms]
 
 ;//黒
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *26|
 [fc]
-The backyard led to the kitchen, which connected to the[r]
-interior of "Dedepou".[pcms]
+バックヤードの先はキッチンで、[r]
+そこから「ででっぽう」の店内に繋がっていた。[pcms]
 
 [bg storage="BG022"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
 
 *27|
 [fc]
-The shutter was slightly open, letting in light from[r]
-outside.[pcms]
+シャッターがほんの少し開いていて、[r]
+表の光が差し込んでいる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *28|
 [fc]
-[ns]Kousuke[nse]
-"The shutter isn't locked? Did someone try to leave, or did[r]
-they come early to prepare?"[pcms]
+[ns]浩助[nse]
+「シャッター、鍵かかってねーぞ？[r]
+　誰か帰ろうとしたのか、[r]
+　それとも早くから仕込みに来たのか……？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *29|
 [fc]
 [vo_mar s="maru1280"]
-[ns]Margarita[nse]
-"But, I don't feel anyone's presence."[pcms]
+[ns]マルガリータ[nse]
+「だが、人の気配は感じられないな」[pcms]
 
 *30|
 [fc]
-We cautiously moved through the deserted interior of the[r]
-store.[pcms]
+ボクたちは無人の店内をおそるおそる進んでいく。[pcms]
 
 *31|
 [fc]
-As we approached the door, sounds from outside began to[r]
-reach us.[pcms]
+ドアに近付くにつれて、外からの音が聞こえてきた。[pcms]
 
 *32|
 [fc]
-The music from the public address system and the calls of[r]
-the shops... as if nothing had happened in the world[r]
-outside, and the usual streets of Shibuya were right[r]
-there...[pcms]
+有線放送の音楽や、店の呼び込み……。[r]
+まるで表の世界では実は何事もなく、[r]
+普段どおりの渋谷の街がそこにあるのだと言わんばかりに……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *33|
 [fc]
 [vo_ren s="ren1303"]
-[ns]Ren[nse]
-"This feels... strange."[pcms]
+[ns]漣[nse]
+「なんか……変な感じだね」[pcms]
 
 *34|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 *35|
 [fc]
-But what was decisively different was the absence of[r]
-people's presence.[pcms]
+だけど決定的に違うのは、人の気配がないことだった。[pcms]
 
 *36|
 [fc]
-No voices of people. No sound of cars. There was no sense of[r]
-bustle at all.[pcms]
+人の声も。車の音も。[r]
+ざわつく感じが一切伝わってこない。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *37|
 [fc]
 [vo_yuh s="yuho1446"]
-[ns]Yuuho[nse]
-"...Hey, let's go outside and see!"[pcms]
+[ns]悠帆[nse]
+「……ね、表に行ってみよう！」[pcms]
 
 *38|
 [fc]
-Yuuho looked around at everyone as if she had made up her[r]
-mind.[pcms]
+思い切ったように悠帆がみんなを見渡した。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *39|
 [fc]
 [vo_ren s="ren1304"]
-[ns]Ren[nse]
-"Is it, is it safe...?"[pcms]
+[ns]漣[nse]
+「だ、大丈夫かな……？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *40|
 [fc]
 [vo_mar s="maru1281"]
-[ns]Margarita[nse]
-"Indeed there are concerns, but we want to know what's[r]
-happening in town. If we sense any danger, we'll make sure[r]
-to be careful so we can return at any time."[pcms]
+[ns]マルガリータ[nse]
+「確かに不安はあるが、街の様子も知りたい。[r]
+　少しでも危険を感じたら[r]
+　いつでも戻れるよう、充分に注意しながら行こう」[pcms]
 
 *41|
 [fc]
-We nodded in agreement and cautiously made our way to the[r]
-door... and pushed up the half-open shutter...[pcms]
+その意見にうなずいたボクたちは、[r]
+慎重な足取りでドアへと進み……。[r]
+半開きになったシャッターを押し上げた……。[pcms]
 
 ;//〆ホワイトアウト
 [white_toplayer][trans_c cross time=1000][hide_chara_int_w]

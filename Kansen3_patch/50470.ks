@@ -23,207 +23,207 @@
 
 *2449|
 [fc]
-[ns]Wataru[nse]
-"Wow, there's quite a lot here."[pcms]
+[ns]航[nse]
+「わー、けっこうあるね」[pcms]
 
 *2450|
 [fc]
-Not only the dishes and cooking utensils used for dinner,[r]
-but also the lunch boxes and water bottles eaten in the[r]
-basement were piled up in the sink.[pcms]
+夕食で使った食器や調理器具だけじゃなくて、[r]
+地下で食べた弁当箱や水筒までが、流し一杯に積まれていた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2451|
 [fc]
-[ns]Kousuke[nse]
-"Let's start cleaning up from this end."[pcms]
+[ns]浩助[nse]
+「端から片付けちまおーぜー」[pcms]
 
 *2452|
 [fc]
-[ns]Wataru[nse]
-"Okay."[pcms]
+[ns]航[nse]
+「おっけー」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2453|
 [fc]
-While enjoying the luxury of using plenty of water, we[r]
-started washing up.[pcms]
+水がふんだんに使える贅沢を味わいながら、[r]
+ボクたちは洗いものを始めた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2454|
 [fc]
-[ns]Kousuke[nse]
-"...But man, thank goodness, Dad."[pcms]
+[ns]浩助[nse]
+「……にしてもさ、良かったな、親父さん」[pcms]
 
 *2455|
 [fc]
-[ns]Wataru[nse]
-"Yeah... When I saw the email about being attacked by crows,[r]
-I thought about the worst-case scenario..."[pcms]
+[ns]航[nse]
+「うん……。カラスに襲われたってメールを見たときは、[r]
+　最悪の事態も考えちゃったけどね……」[pcms]
 
 *2456|
 [fc]
-We haven't been able to contact him directly, but it was a[r]
-relief to confirm he was safe. Ren will be able to sleep[r]
-peacefully tonight too.[pcms]
+直接の連絡が取れたわけじゃないけど、[r]
+無事が確認できたのは嬉しい。[r]
+漣も今夜は安心して眠れるだろうな。[pcms]
 
 *2457|
 [fc]
-[ns]Wataru[nse]
-"I hope Kousuke and Yuuho's parents are safe too."[pcms]
+[ns]航[nse]
+「コースケや悠帆の両親も無事だといいね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2458|
 [fc]
-[ns]Kousuke[nse]
-"Hmm..."[pcms]
+[ns]浩助[nse]
+「うーん……」[pcms]
 
 *2459|
 [fc]
-Without turning his face to me, Kousuke groaned.[pcms]
+顔をこちらに向けないまま、コースケは唸った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2460|
 [fc]
-[ns]Kousuke[nse]
-"My family... probably no good. No contact for this long[r]
-probably means... well, considering the situation, I think[r]
-they're dead."[pcms]
+[ns]浩助[nse]
+「ウチは……多分、ダメだろーな。[r]
+　こんだけ長い間、何の連絡もないってのは、[r]
+　まあ……、状況から考えて、死んでると思うよ」[pcms]
 
 *2461|
 [fc]
-I couldn't find any words to respond to Kousuke's matter-of-[r]
-fact statement.[pcms]
+淡々と言うコースケに、ボクは返す言葉が見つからない。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2462|
 [fc]
-[ns]Kousuke[nse]
-"Don't look like that. I was prepared for it. ...I still[r]
-can't really feel it, like it hasn't hit me yet, so I don't[r]
-feel sad or anything."[pcms]
+[ns]浩助[nse]
+「んな顔すんなよ。覚悟はしてっからさ。[r]
+　……まだ実感わかねーから、[r]
+　ピンと来ねーっつーか、悲しいとか思わねーんだけどさ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2463|
 [fc]
-[ns]Kousuke[nse]
-"Just... a bit of regret, you know? That morning was the[r]
-last time we ate together."[pcms]
+[ns]浩助[nse]
+「ただ……、ちょっとだけ後悔っての？[r]
+　あの日の朝、一緒にメシ食ったのが[r]
+　最後になっちまったんだなーって」[pcms]
 
 *2464|
 [fc]
-[ns]Kousuke[nse]
-"I was in a hurry because of basketball practice in the[r]
-morning and left in a rush. I wish I had talked a little[r]
-more... stuff like that..."[pcms]
+[ns]浩助[nse]
+「オレさ、バスケの朝練あったから急いでて[r]
+　けっこうバタバターって出かけちまったからさー。[r]
+　もう少し話しておけば良かったなー。とかさ……」[pcms]
 
 *2465|
 [fc]
-While skillfully spinning the plates and rinsing off the[r]
-foam, Kousuke muttered.[pcms]
+くるくると器用に皿を回して泡を流しながら[r]
+コースケが呟く。[pcms]
 
 *2466|
 [fc]
-[ns]Wataru[nse]
-"...But you did talk a little, right?"[pcms]
+[ns]航[nse]
+「……でも、少しは、話、できたんだろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2467|
 [fc]
-[ns]Kousuke[nse]
-"Well yeah. Dad was his usual self, nagging about[r]
-everything. Telling me to study instead of just doing music[r]
-and sports while grumbling and reading the newspaper..."[pcms]
+[ns]浩助[nse]
+「まあな。オヤジはいつもの調子で小言ばっかりでさ。[r]
+　音楽とかスポーツばっかしてねーで勉強しろーって[r]
+　ぶつぶつ言いながら新聞読んでたし……」[pcms]
 
 *2468|
 [fc]
-[ns]Kousuke[nse]
-"Mom was carefree as always. Saying things like 'do your[r]
-best in the game'... Oh, right..."[pcms]
+[ns]浩助[nse]
+「オフクロは呑気なもんでさ。[r]
+　試合がんばってー、とか何とか言ってたな……。[r]
+　あ、そうか……」[pcms]
 
 *2469|
 [fc]
-Staring at his own lunch box that he was washing, Kousuke[r]
-muttered softly.[pcms]
+ちょうど洗っていた自分の弁当箱を見つめて[r]
+コースケはポツリと呟いた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2470|
 [fc]
-[ns]Kousuke[nse]
-"I forgot to thank Mom for the lunch..."[pcms]
+[ns]浩助[nse]
+「オフクロに、弁当のこと、礼言うの忘れてたな……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2471|
 [fc]
-After that, we fell silent for a while, just moving our[r]
-hands in silence.[pcms]
+それっきりボクたちはしばらく無言になり、[r]
+黙々と手だけを動かした。[pcms]
 
 *2472|
 [fc]
-The longer we stayed silent, the harder it became to break[r]
-it. The sound of water hitting the dishes eased the[r]
-awkwardness of the silence.[pcms]
+不思議なもので、黙っている時間が長くなればなるほど[r]
+次の言葉を言い出しにくくなる。[r]
+食器に当たる水音が、沈黙の気まずさを和らげてくれた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2473|
 [fc]
-[ns]Kousuke[nse]
-"...By the way, what did Hiko say last?"[pcms]
+[ns]浩助[nse]
+「……そういやさ。彦ちん、最後に何て言ってた？」[pcms]
 
 *2474|
 [fc]
-The one who broke the silence was Kousuke, who couldn't[r]
-stand being quiet.[pcms]
+沈黙を破ったのは、やはり[r]
+黙っているのが苦手なコースケの方だった。[pcms]
 
 *2475|
 [fc]
-[ns]Wataru[nse]
-"'Get psyched up'..."[pcms]
+[ns]航[nse]
+「『気合い入れろ』って……」[pcms]
 
 *2476|
 [fc]
-As I answered, I thought about how Hiko had always been[r]
-encouraging.[pcms]
+答えながら、彦ちんには励まされどおしだったなと思った。[pcms]
 
 *2477|
 [fc]
-Unlike Maruko-senpai and Kousuke who are always so sharp, he[r]
-must have been worried about me... That's why he gave me a[r]
-gun too.[pcms]
+マル子先輩やコースケみたいに、ぴしっとしてないから、[r]
+きっと心配だったんだろうな……。[r]
+だから、銃も渡してくれたんだろう。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2478|
 [fc]
-[ns]Kousuke[nse]
-"That's so like Hiko."[pcms]
+[ns]浩助[nse]
+「彦ちんらしいな」[pcms]
 
 *2479|
 [fc]
-It feels like it's been a long time since we parted with[r]
-Hiko around noon today, even though it wasn't that long ago.[pcms]
+彦ちんと別れたのは今日の昼くらいだったはずなのに、[r]
+もうずいぶん前の事みたいに思える。[pcms]
 
 *2480|
 [fc]
-We haven't heard from him in a while, so maybe... Hiko is[r]
-already...[pcms]
+あれからずいぶん経つけど何の連絡もないし、[r]
+やっぱり……彦ちんは、もう……。[pcms]
 
 *2481|
 [fc]
-No... that can't be... He must be with Inori-san by now...[pcms]
+いや……そんなことは……ない、はず。[r]
+きっと今頃、緒織さんのところで一緒に……。[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -239,12 +239,14 @@ No... that can't be... He must be with Inori-san by now...[pcms]
 
 *2482|
 [fc]
-Inori-san... The first woman who taught me kindness...[pcms]
+…………緒織さん……。[r]
+ボクに初めて女の人の優しさを教えてくれたひと。[pcms]
 
 *2483|
 [fc]
-I hope she's safe... If not, at least I hope she got to see[r]
-Hiko in the end...[pcms]
+どうか無事でいて欲しい……。[r]
+それが無理ならせめて……最後は[r]
+彦ちんに会えたのだと願いたい……。[pcms]
 
 ;//以降継続　ラベル　sexしていない　へ
 [jump storage="50470.ks" target=*50470_02]
@@ -255,98 +257,97 @@ Hiko in the end...[pcms]
 
 *2484|
 [fc]
-[ns]Wataru[nse]
-"Hiko said he'd 'bring back Inori-san'."[pcms]
+[ns]航[nse]
+「彦ちん……『緒織さん連れて戻る』って言ってた」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2485|
 [fc]
-[ns]Kousuke[nse]
-"I see... Hiko is a man of his word. He must be with Inori-[r]
-san right now."[pcms]
+[ns]浩助[nse]
+「そっか……。[r]
+　彦ちん、有言実行の男だもんな。[r]
+　きっと今頃、緒織さんと一緒にいるさ」[pcms]
 
 *2486|
 [fc]
-[ns]Wataru[nse]
-"Yeah... I think so."[pcms]
+[ns]航[nse]
+「うん……そうだね」[pcms]
 
 *2487|
 [fc]
-Feeling that Kousuke felt the same way, we once again fell[r]
-into a lonely silence.[pcms]
+コースケも同じように感じているんだなと思いながら、[r]
+再び、ボクたちは寂しい沈黙に陥ってしまう。[pcms]
 
 *2488|
 [fc]
-Hiko... Master... Mama... everyone at school... For every[r]
-survivor, someone is lost... How many times will we have to[r]
-experience this loneliness?[pcms]
+彦ちん……、マスターにママ……学園のみんな……。[r]
+自分が生き残った分だけ、誰かを失ってしまう……。[r]
+ボクらはこれから何度、こういう寂しさを味わうんだろう。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2489|
 [fc]
-[ns]Kousuke[nse]
-"But still, it's great that Mizuki is safe."[pcms]
+[ns]浩助[nse]
+「それにしてもさ、瑞樹が無事でよかったぜ」[pcms]
 
 *2490|
 [fc]
-With a brighter tone as if trying to cheer up, Kousuke[r]
-started talking again.[pcms]
+気を取り直した明るい口調で、コースケが話しかけてきた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2491|
 [fc]
-[ns]Kousuke[nse]
-"Until now, even though she was somewhere in Shibuya just[r]
-like us, we hardly ever met..."[pcms]
+[ns]浩助[nse]
+「今まではさ、同じ渋谷のどっかにはいたはずなのに[r]
+　ほとんど会うこともなかったけど……」[pcms]
 
 *2492|
 [fc]
-Mizuki disappeared once before, and Kousuke searched[r]
-desperately for her. But he couldn't find her at all.[pcms]
+瑞樹が姿を消した時、コースケは必死で探してた。[r]
+だけど全然見つからなかったんだ。[pcms]
 
 *2493|
 [fc]
-[ns]Wataru[nse]
-"Yeah. We didn't notice she was going in and out of the[r]
-nearby building."[pcms]
+[ns]航[nse]
+「うん。つい近所のビルに出入りしてたなんて[r]
+　気がつかなかったよね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2494|
 [fc]
-[ns]Kousuke[nse]
-"And now we've met again like this. Just earlier, we ate[r]
-together again like old times... It feels really strange."[pcms]
+[ns]浩助[nse]
+「それがこうやって、また会えてさ。[r]
+　さっきなんか、昔みたいにまた一緒にメシ食ったりして……。[r]
+　なんか、すごく不思議だよな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2495|
 [fc]
-[ns]Kousuke[nse]
-"At first, I was worried because she looked and felt so[r]
-different. But watching her talk with Yuuho and Ren-chan[r]
-made me realize she hasn't changed at all inside. I was[r]
-happy about that."[pcms]
+[ns]浩助[nse]
+「最初はさ、ずいぶん、格好とか雰囲気が変わってたんで[r]
+　心配したけど、悠帆や漣ちゃんなんかと喋ってんの見てっと[r]
+　中身はちっとも変わんねーなーって。嬉しかったぜ」[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ２
-;//２１：僕も、安心したよ→ラベル　A011　へ
-;//２２：胸も変わってなかったなー・・・→ラベル　A012　へ
+;//●選択肢Ａ－２
+;//２－１：僕も、安心したよ→ラベル　A011　へ
+;//２－２：胸も変わってなかったなー・・・→ラベル　A012　へ
 
 
 ;	[link storage="50470.ks" target=*50470_03]僕も、安心したよ[endlink]
-; (link storage="50470.ks" target=*50470_04)Her breasts[r]
-haven't changed either...(endlink)[pcms]
+;	[link storage="50470.ks" target=*50470_04]胸も変わってなかったなー……[endlink][s]
 
 *SEL47|僕も、安心したよ／胸も変わってなかったなー……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'I\'m also relieved'"]
-[eval exp="f.seltext04 = 'My chest hasn\'t changed either'"]
+[eval exp="f.seltext02 = '僕も、安心したよ'"]
+[eval exp="f.seltext04 = '胸も変わってなかったなー……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -384,53 +385,51 @@ haven't changed either...(endlink)[pcms]
 
 *2496|
 [fc]
-[ns]Wataru[nse]
-"Yeah, I was relieved too."[pcms]
+[ns]航[nse]
+「そうだね、ボクも安心したよ」[pcms]
 
 *2497|
 [fc]
-Nodding along with me, Kousuke suddenly put on a serious[r]
-face.[pcms]
+うなずくボクに、コースケは不意に真剣な顔をした。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2498|
 [fc]
-[ns]Kousuke[nse]
-"I'll try talking to her too. Maybe tomorrow..."[pcms]
+[ns]浩助[nse]
+「オレも二人で話してみる。明日にでも……」[pcms]
 
 *2499|
 [fc]
-Kousuke and Mizuki used to date, after all...[pcms]
+コースケと瑞樹、付き合ってたんだもんな……。[pcms]
 
 *2500|
 [fc]
-I don't know what Mizuki is thinking now, but at least[r]
-Kousuke still has feelings for her.[pcms]
+今、瑞樹がどう思ってるのかは分からないけど、[r]
+少なくともコースケは未だに瑞樹のこと、思ってる。[pcms]
 
 *2501|
 [fc]
-Whatever the answer may be, I thought it would definitely be[r]
-good for them to have a proper talk.[pcms]
+どういう答えが出るにせよ、二人でよく話し合うのは[r]
+きっといいことだと、ボクも思った。[pcms]
 
 *2502|
 [fc]
-[ns]Wataru[nse]
-"Take your time and talk. I'm sure... you'll be able to get[r]
-along just like before."[pcms]
+[ns]航[nse]
+「ゆっくり話してみなよ。[r]
+　きっと……前みたいに、仲良くやれるようになるよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2503|
 [fc]
-[ns]Kousuke[nse]
-"...I hope so."[pcms]
+[ns]浩助[nse]
+「……だといいな」[pcms]
 
 *2504|
 [fc]
-Kousuke scratched the tip of his nose with an embarrassed[r]
-look. A bubble of soap stuck right in the middle of his[r]
-smile.[pcms]
+コースケは照れくさそうに鼻の頭を掻いた。[r]
+シャボンの泡が、笑顔の真ん中にポツンとくっ付いた。[pcms]
 
 ;//→ブロック50480 へジャンプ
 [jump storage="50480.ks" target=*50480_TOP]
@@ -443,140 +442,141 @@ smile.[pcms]
 
 *2505|
 [fc]
-[ns]Wataru[nse]
-"Yeah, she hasn't changed on the inside, and her breasts..."[pcms]
+[ns]航[nse]
+「そうだね、中身も変わってないし、胸も……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2506|
 [fc]
-[ns]Kousuke[nse]
-"Breasts!? That's what you're talking about!?"[pcms]
+[ns]浩助[nse]
+「胸ぇっ！？　そこかよ！？」[pcms]
 
 *2507|
 [fc]
-[ns]Wataru[nse]
-"Eh? Oh, uh..."[pcms]
+[ns]航[nse]
+「え？　あ、ああ、えっと……」[pcms]
 
 *2508|
 [fc]
-Damn it! The impression of the tank top and side boob and[r]
-underboob I saw in the evening was too strong, and I[r]
-accidentally let something slip![pcms]
+しまった！[r]
+夕方見たタンクトップやら脇乳やら下乳の印象が強すぎて、[r]
+うっかり口を滑らせてしまった！[pcms]
 
 *2509|
 [fc]
-[ns]Wataru[nse]
-"No, don't worry about it, that... I didn't mean anything by[r]
-it..."[pcms]
+[ns]航[nse]
+「い、いや、気にしないで、その……深い意味は……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2510|
 [fc]
-[ns]Kousuke[nse]
-"Wataru... Don't look too much, okay? I'll kill you?"[pcms]
+[ns]浩助[nse]
+「ワタル…………。[r]
+　あんま見るんじゃねーぞ？　コロスよ？」[pcms]
 
 *2511|
 [fc]
-[ns]Wataru[nse]
-"...I'm truly sorry."[pcms]
+[ns]航[nse]
+「……モウシワケゴザイマセン」[pcms]
 
 *2512|
 [fc]
-Yeah, Kousuke and Mizuki used to date, after all...[pcms]
+そうだよな、[r]
+コースケと瑞樹、付き合ってたんだもんな……。[pcms]
 
 *2513|
 [fc]
-I don't know what Mizuki thinks, but at least Kousuke still[r]
-has feelings for her... Rather, his possessiveness is[r]
-totally on full display.[pcms]
+瑞樹がどう思ってるのかは分からないけど、[r]
+少なくともコースケは未だに瑞樹のこと、思ってる。[r]
+……というよりも、独占欲バリバリ全開だ。[pcms]
 
 *2514|
 [fc]
-Even now, he's glaring at me seriously.[pcms]
+今だってボクのこと、本気で睨んでるし。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2515|
 [fc]
-Mizuki said it too, but it's not like they get smaller just[r]
-by looking...[pcms]
+瑞樹も言ってたけど[r]
+見たくらいで減るもんじゃないのにな……。[pcms]
 
 *2516|
 [fc]
-After all, it's not like I saw them without clothes on. I[r]
-wasn't looking with a lecherous gaze like Shigeyoshi,[r]
-licking his lips or anything (I hope).[pcms]
+だいたい見たっていっても服の上からなんだし。[r]
+重吉みたいに舐めるようなイヤらし～い目つきで[r]
+見てたわけじゃない（ハズ）だし。[pcms]
 
 *2517|
 [fc]
-...Come to think of it, what about Kousuke...?[pcms]
+……そういえば、コースケは……どうなんだろ？[pcms]
 
 *2518|
 [fc]
-I wonder if he's ever seen Mizuki's breasts. You know,[r]
-that... sex thing...? Does he have that kind of experience?[pcms]
+瑞樹の胸、見たことあるのかな。[r]
+いわゆる、その……セックスとやら……？[r]
+そーゆーケーケン、あるんだろうか？[pcms]
 
 *2519|
 [fc]
-If he did that kind of thing with those breasts...[r]
-...Honestly, I'd be super jealous.[pcms]
+あの胸で、あんなこととかしてたら……。[r]
+………………正直、スゲェうらやましい。[pcms]
 
 *2520|
 [fc]
-But Kousuke is surprisingly innocent... Maybe they[r]
-haven't... yet...??[pcms]
+けど、コースケ、意外と純情だしな……。[r]
+もしかすると、まだ……してないのかも……？？[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2521|
 [fc]
-[ns]Kousuke[nse]
-"Wataru!"[pcms]
+[ns]浩助[nse]
+「ワタル！」[pcms]
 
 *2522|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「へ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2523|
 [fc]
-[ns]Kousuke[nse]
-"You, just now, were you thinking something perverted... or[r]
-rather, about Mizuki's tits?"[pcms]
+[ns]浩助[nse]
+「お前、今、エロイこと……[r]
+　ってか、瑞樹のオパイのこと考えてる？」[pcms]
 
 *2524|
 [fc]
-[ns]Wataru[nse]
-"...I sincerely apologize."[pcms]
+[ns]航[nse]
+「…………マコトニモウシワケゴザイマセン」[pcms]
 
 *2525|
 [fc]
-Mumbling an apology and then thinking for a while, I gently[r]
-started talking.[pcms]
+もごもごと謝ってから、しばらく考えて、[r]
+ボクはそっと話しかける。[pcms]
 
 *2526|
 [fc]
-[ns]Wataru[nse]
-"You should have a good talk with Mizuki next time. I'm[r]
-sure... you'll be able to get along just like before."[pcms]
+[ns]航[nse]
+「今度、瑞樹とゆっくり話してみなよ。[r]
+　きっと……前みたいに、仲良くやれるようになるよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2527|
 [fc]
-[ns]Kousuke[nse]
-"...I hope so. I'll try talking to her tomorrow."[pcms]
+[ns]浩助[nse]
+「……だといいな。明日にでも話してみるよ」[pcms]
 
 *2528|
 [fc]
-Kousuke scratched the tip of his nose with an embarrassed[r]
-look. A bubble of soap stuck right in the middle of his[r]
-smile.[pcms]
+コースケは照れくさそうに鼻の頭を掻いた。[r]
+シャボンの泡が、笑顔の真ん中にポツンとくっ付いた。[pcms]
 
 ;//→ブロック 50480 へジャンプ
 [jump storage="50480.ks" target=*50480_TOP]

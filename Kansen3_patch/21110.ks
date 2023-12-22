@@ -24,71 +24,68 @@
 
 *586|
 [fc]
-While hesitating, the infected swarmed in, and we ended up[r]
-rolling under the floor without being able to close the[r]
-hatch.[pcms]
+もたついている間に感染者が殺到してきて、[r]
+結局ハッチを閉じられないまま床下へと転がり込んだ。[pcms]
 
 *587|
 [fc]
-Crouching down, we proceeded through the dark, low-ceilinged[r]
-space under the floor. The light from outside shining[r]
-through the vents was dazzling.[pcms]
+暗く低い天井の床下を、身を屈めて進んでいく。[pcms]
+;通風口から差し込む外の光がまぶしい。[pcms]
 
 *588|
 [fc]
-After a while, my senior, who had a flashlight in hand,[r]
-pointed to another hatch attached to the concrete foundation[r]
-under the floor.[pcms]
+しばらく進むと、懐中電灯を手にしていた先輩が[r]
+床下のコンクリート基礎に取り付けられている[r]
+もう一つのハッチを指差した。[pcms]
 
 *589|
 [fc]
-Then, the infected began to enter through the space under[r]
-the floor.[pcms]
+すると、そこで床下へと感染者が入り込みはじめた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a7"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *590|
 [fc]
 [vo_mar s="maru0050"]
-[ns]Margarita[nse]
-"Hurry... they're coming!"[pcms]
+[ns]マルガリータ[nse]
+「急げ……奴らが来るぞ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *591|
 [fc]
-In a rush, my senior and I grabbed the hatch and opened it[r]
-with all our might.[pcms]
+大急ぎでボクと先輩はハッチに手をかけると、[r]
+渾身の力で込めて開けた。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *592|
 [fc]
-The opened hatch led to a concrete staircase that continued[r]
-down.[pcms]
+開いたハッチの先は、コンクリートの階段が[r]
+続いていた。[pcms]
 
 *593|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, go ahead..."[pcms]
+[ns]航[nse]
+「悠帆、先に行って……」[pcms]
 
 *594|
 [fc]
-At my urging, Yuuho nodded silently and went down the stairs[r]
-below the hatch.[pcms]
+ボクが促すと、悠帆は無言のままコクリとうなずき、[r]
+ハッチの下の階段を降りて行った。[pcms]
 
 *595|
 [fc]
-Then, taking turns supporting the hatch with my senior, we[r]
-proceeded down the stairs.[pcms]
+続いて先輩と二人で交互にハッチを支えつつ、[r]
+階段を下へと進んでいく。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *596|
 [fc]
-The infected were closing in on us, but this time we managed[r]
-to close the hatch beautifully. We immediately locked it[r]
-from the inside.[pcms]
+すんでのところまで感染者が迫って来たけど[r]
+今度は見事にハッチを閉じることに成功。[r]
+すかさず中から施錠した。[pcms]
 
 [se buf=0 storage="se034"]
 ;//→本編・中編・エンディングへ

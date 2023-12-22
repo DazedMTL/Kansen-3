@@ -19,43 +19,43 @@
 
 *512|
 [fc]
-"I can't just abandon them. If I were to save myself alone[r]
-here, I'd live the rest of my life in regret."[pcms]
+見捨てるなんてボクにはできない。[r]
+ここで自分だけ助かったら、一生後悔して生きる[r]
+ことになるだろう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *513|
 [fc]
 [vo_mar s="maru0041"]
-[ns]Margarita[nse]
-"Are you really going?"[pcms]
+[ns]マルガリータ[nse]
+「本当に行く気か？」[pcms]
 
 *514|
 [fc]
-[ns]Wataru[nse]
-"Yes... Senpai, please take care of Yuuho."[pcms]
+[ns]航[nse]
+「はい……先輩、悠帆をお願いします」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *515|
 [fc]
 [vo_mar s="maru0042"]
-[ns]Margarita[nse]
-"Understood... I'll be waiting in the staff preparation room[r]
-on the first floor."[pcms]
+[ns]マルガリータ[nse]
+「分かった……一階の教員準備室で待ってるぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *516|
 [fc]
 [vo_yuh s="yuho0122"]
-[ns]Yuuho[nse]
-"...Be careful, okay?"[pcms]
+[ns]悠帆[nse]
+「……気をつけてね」[pcms]
 
 *517|
 [fc]
-[ns]Wataru[nse]
-"Don't worry. I'll definitely bring them both back!"[pcms]
+[ns]航[nse]
+「大丈夫だよ。必ず二人を連れて戻るから！」[pcms]
 
 ;//〆EV012・悠帆とチュー（以後使い回し予定）
 ;//服が違うので差し替えました＠ash
@@ -63,22 +63,22 @@ on the first floor."[pcms]
 
 *518|
 [fc]
-As I said that, Yuuho hugged me without a word and pressed[r]
-her lips to mine.[pcms]
+ボクがそう告げると、悠帆は無言のまま抱きついて[r]
+唇を重ねてきた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *519|
 [fc]
-The kiss with Yuuho that I had dreamed of... I never thought[r]
-it would come so easily. But now is not the time to indulge[r]
-in happiness.[pcms]
+夢にまでみていた悠帆とのキス……それがこんな[r]
+簡単に叶うなんて。[r]
+でも今はそんな幸せに浸っている場合じゃない。[pcms]
 
 [evcg storage="EV013b"][trans_c cross time=300]
 
 *520|
 [fc]
-I must hurry to rescue them...[pcms]
+一刻も早く二人の救出に行かないと……。[pcms]
 
 ;//〆ＢＧ：神南学園・全景
 [bg storage="BG07a"][trans_c cross time=500]
@@ -86,21 +86,21 @@ I must hurry to rescue them...[pcms]
 
 *521|
 [fc]
-[ns]Wataru[nse]
-"Let's meet up later then!"[pcms]
+[ns]航[nse]
+「じゃあ後で合流しよう！」[pcms]
 
 *522|
 [fc]
-I entrusted the camping gear to Yuuho and, gripping only the[r]
-handle of a mop, began to move.[pcms]
+ボクはキャンプ用の荷物を悠帆に預けると、[r]
+モップの柄だけを手に握りしめて、移動を開始した。[pcms]
 
 ;//〆ＢＧ黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *523|
 [fc]
-Following the advice of my senior, I was able to easily[r]
-enter inside.[pcms]
+先輩のアトバイスを参考にして進むと、[r]
+簡単に中へ入ることができた。[pcms]
 
 ;//〆ＢＧ：学園内廊下
 ;//@konya 分校舎廊下２
@@ -109,20 +109,18 @@ enter inside.[pcms]
 
 *524|
 [fc]
-Moving quickly to the third floor, I killed the sound of my[r]
-footsteps to avoid drawing attention.[pcms]
+目立たないように足音を殺しつつ、足早に三階へと向かう。[pcms]
 
 *525|
 [fc]
-There were quite a few infected wandering around, and even[r]
-turning down a corridor required the utmost caution.[pcms]
+かなりの感染者が徘徊していて、廊下ひとつ[r]
+曲がるにしても細心の注意が必要だった。[pcms]
 
 *526|
 [fc]
-Honestly, I might be a rabbit who has jumped into a tiger's[r]
-den. But now that I've come this far, there's no turning[r]
-back. When I return, it will be with Kousuke and Ren, all[r]
-three of us together.[pcms]
+正直、ボクは虎穴へと飛び込んだウサギかもしれない。[r]
+でも、ここまで来たら戻る道はない。[r]
+戻るときはコースケと漣を連れて三人で戻るんだ。[pcms]
 
 ;//@konya 廊下２分校舎
 [bg storage="BG015"][trans_c cross time=500]
@@ -130,14 +128,13 @@ three of us together.[pcms]
 
 *527|
 [fc]
-With renewed determination, I tried to proceed when I saw[r]
-infected swarming at the entrance of the audio-visual room[r]
-just down the stairs.[pcms]
+決意も新たに進もうとすると、階段を降りてすぐの[r]
+視聴覚室の出入り口に感染者が殺到しているのが見えた。[pcms]
 
 *528|
 [fc]
-[ns]Wataru[nse]
-"Ugh... there are so many already..."[pcms]
+[ns]航[nse]
+「うっ……もうこんなに……」[pcms]
 
 [se buf=0 storage="se043"]
 [wait time=300]
@@ -147,54 +144,53 @@ just down the stairs.[pcms]
 
 *529|
 [fc]
-Whether they sensed someone inside or knew someone was[r]
-there, they were trying to break down the door.[pcms]
+室内に誰かの気配を感じたのか。[r]
+もしくは、誰かが中にいるのを知っているのか。[r]
+彼らはドアを叩いて破ろうと試みていた。[pcms]
 
 *530|
 [fc]
-The way things were going, it was uncertain how long the[r]
-door would hold. But it was absolutely impossible for me[r]
-alone to fend off that number of infected.[pcms]
+この調子だと、扉がいつまでもつかも分からない。[r]
+しかし、ボク独りであの数の感染者を撃退するなんて[r]
+到底不可能だ。[pcms]
 
 *531|
 [fc]
-[ns]Wataru[nse]
-"Damn it... what should I do, what can I do"[pcms]
+[ns]航[nse]
+「クソ……どうしたら、どうしたらいいんだ」[pcms]
 
 [se buf=0 storage="se038"]
 
 *532|
 [fc]
-And as I hesitated, the door to the audio-visual room was[r]
-broken down with a dull sound, and the infected poured[r]
-inside.[pcms]
+と、迷っている間にも、視聴覚室のドアが鈍い音と共に[r]
+壊されて感染者が室内へと傾れ込んでいった。[pcms]
 
 *533|
 [fc]
-[ns]Wataru[nse]
-"Ah... Ren, Kousuke!"[pcms]
+[ns]航[nse]
+「あっ……漣、コースケ！」[pcms]
 
 *534|
 [fc]
-The two were quickly surrounded by the rushing infected. I[r]
-had no choice but to jump in with a resolve to die if[r]
-necessary.[pcms]
+たちまち殺到した感染者に取り囲まれてしまう二人。[r]
+ボクは決死の覚悟でそこへ飛び込むしかなかった。[pcms]
 
 *535|
 [fc]
-[ns]Wataru[nse]
-"Uoooohhh, let go of them!!!"[pcms]
+[ns]航[nse]
+「うおおぉぉぉっ、二人を離せぇぇぇ！！」[pcms]
 
 *536|
 [fc]
-However, now outnumbered, it was hopeless. Unlike my senior[r]
-who had knowledge of martial arts, there was nothing an[r]
-amateur like me could do.[pcms]
+しかし、こうなっては多勢に無勢。[r]
+武術の心得がある先輩ならいざ知らず、素人の[r]
+ボクではどうにもならなかった。[pcms]
 
 *537|
 [fc]
-In no time at all, I was captured by the swarm of infected[r]
-and pushed down on the spot.[pcms]
+たちまちボクは感染者の群れに捕らえられて、[r]
+その場に押し倒された。[pcms]
 
 ;//→block:21120へ
 [jump storage="21120.ks" target=*21120_TOP]

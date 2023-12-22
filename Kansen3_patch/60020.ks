@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：10k前後
@@ -17,51 +17,49 @@
 
 *96|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆……」[pcms]
 
 *97|
 [fc]
-No matter how you look at it, this isn't normal. But...[pcms]
+どう考えてもこれは普通じゃない。だけど……。[pcms]
 
 *98|
 [fc]
-I've decided to pretend I didn't see it.[pcms]
+見なかったことにしよう、とボクは決めた。[pcms]
 
 *99|
 [fc]
-At school, my friends were raped and killed right before my[r]
-eyes by them. I haven't been able to contact my parents or[r]
-my lover, Oshima-senpai, and it's likely they're not[r]
-alive...[pcms]
+学園では友達が目の前でヤツラに犯されて殺された。[r]
+両親や……恋人である大嶋先輩とも連絡がとれないままで、[r]
+多分、生きている可能性は低い……。[pcms]
 
 *100|
 [fc]
-It's not strange that Yuuho, who has been suffering from[r]
-such mental anguish, is finally breaking down. Rather, I[r]
-think she's done well to act so cheerful and energetic until[r]
-now.[pcms]
+そんな精神的な苦痛をずっと受け続けてきた悠帆が[r]
+参ってしまったって、おかしくはない。[r]
+むしろ今までよく明るく元気に振舞っていたと思う。[pcms]
 
 *101|
 [fc]
-[ns]Wataru[nse]
-"...I have to support her"[pcms]
+[ns]航[nse]
+「……ボクが支えてあげなくちゃ」[pcms]
 
 *102|
 [fc]
-If Yuuho is feeling down, I'll be as kind as I can. I'll[r]
-watch over her until she feels better...[pcms]
+悠帆が参ってるなら、ボクができるだけ優しくしてあげよう。[r]
+気持ちが落ち着くまで、見守ってあげよう……。[pcms]
 
 *103|
 [fc]
-While thinking such things, I cleaned up the scattered[r]
-ingredients and chose shrimp pilaf for Yuuho. I heated it in[r]
-the microwave as instructed and plated it.[pcms]
+そんなことを考えながら散らかった食材を片付けて、[r]
+悠帆のためにエビピラフを選ぶ。[r]
+説明書どおりにレンジで温めて、器に盛り付けた。[pcms]
 
 *104|
 [fc]
-[ns]Wataru[nse]
-"Sorry to keep you waiting~"[pcms]
+[ns]航[nse]
+「お待たせ～」[pcms]
 
 ;//〆漫画喫茶アルカディア
 [bg storage="BG020a"][trans_c cross time=500]
@@ -69,31 +67,30 @@ the microwave as instructed and plated it.[pcms]
 
 *105|
 [fc]
-When I returned to the cafe corner with the steaming shrimp[r]
-pilaf, Yuuho was still curled up quietly on the sofa.[pcms]
+ほかほかのエビピラフを持ってカフェコーナーに戻ると[r]
+悠帆はまだソファの上で、大人しく身体を丸めていた。[pcms]
 
 *106|
 [fc]
-[ns]Wataru[nse]
-"Here, eat up. While it's still warm, okay?"[pcms]
+[ns]航[nse]
+「ほら、食べて食べて。あったかいうちに、ね？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e31"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *107|
 [fc]
 [vo_yuh s="yuho_YK0009"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「……………………」[pcms]
 ;//＠ぼーっとしている
 
 *108|
 [fc]
-I moved the table closer to the sofa and placed a spoon in[r]
-Yuuho's hand.[pcms]
+テーブルをソファに近づけて、悠帆の手にスプーンを握らせる。[pcms]
 
 *109|
 [fc]
-Then...[pcms]
+すると……。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -101,69 +98,69 @@ Then...[pcms]
 *110|
 [fc]
 [vo_yuh s="yuho_YK0010"]
-[ns]Yuuho[nse]
-"Hagu, hagu, nnh, nngu, nngu! Nngu, mogumogumogu,[r]
-mushamusha...!"[pcms]
+[ns]悠帆[nse]
+「はぐ、はぐっ、んっ、んぐ、んぐ！[r]
+　んぐっ、もぐもぐもぐっ、むしゃむしゃ……！」[pcms]
 ;//＠ものすごくガッついて食事
 
 *111|
 [fc]
-Suddenly, Yuuho started shoveling the pilaf into her mouth[r]
-as if burying her face in front of the plate. It was as if[r]
-she might even eat the plate with such vigor.[pcms]
+悠帆は突然、目の前に顔を突っ込むようにして、[r]
+口の中いっぱいにピラフを掻っ込み始めた。[r]
+なんだか、お皿まで食べてしまいそうな勢いだ。[pcms]
 
 *112|
 [fc]
-[ns]Wataru[nse]
-"Hey, can you eat a little slower? You'll get a stomachache,[r]
-you know?"[pcms]
+[ns]航[nse]
+「ねぇ、もう少しゆっくり食べなよ？　お腹いたくなるよ？」[pcms]
 
 *113|
 [fc]
-She must have been really hungry... But the return of her[r]
-appetite might be a sign that she's feeling a bit better.[pcms]
+よっぽどお腹すいてたのかな……。[r]
+だけど食欲が戻ってきたっていうことは、[r]
+少しは具合が良くなった証拠かもしれない。[pcms]
 
 *114|
 [fc]
-Thinking this, I opened a bottle of mineral water and placed[r]
-it next to the plate.[pcms]
+そんなことを思いながら[r]
+ミネラルウォーターのペットボトルを開けて、[r]
+お皿の隣に並べておく。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e17"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *115|
 [fc]
 [vo_yuh s="yuho_YK0011"]
-[ns]Yuuho[nse]
-"...ni, ge...te..."[pcms]
+[ns]悠帆[nse]
+「…………に、げ……て…………」[pcms]
 ;//＠小さな声で
 
 *116|
 [fc]
-[ns]Wataru[nse]
-"...Eh?"[pcms]
+[ns]航[nse]
+「……え？」[pcms]
 
 *117|
 [fc]
-Yuuho murmured something in a low voice while looking down.[pcms]
+うつむいたまま、何か悠帆が小声で言った。[pcms]
 
 *118|
 [fc]
-[ns]Wataru[nse]
-"What did you say?"[pcms]
+[ns]航[nse]
+「なんて言ったの？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e18"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *119|
 [fc]
 [vo_yuh s="yuho_YK0012"]
-[ns]Yuuho[nse]
-"...de, licious..."[pcms]
+[ns]悠帆[nse]
+「……お、いし……ぃ……」[pcms]
 
 *120|
 [fc]
-[ns]Wataru[nse]
-"I see. If you'd like, maybe we can get something else[r]
-too..."[pcms]
+[ns]航[nse]
+「そっか。よかったら他のものも何か……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -171,116 +168,115 @@ too..."[pcms]
 *121|
 [fc]
 [vo_yuh s="yuho_YK0013"]
-[ns]Yuuho[nse]
-"Mogumogumogu, haguhagu, nngu! Nngunngunngunngunngunngu...![r]
-Phewaaaahhh-----!"[pcms]
+[ns]悠帆[nse]
+「もぐもぐもぐもぐっ、はぐはぐっ、[r]
+　んぐっ！　んぐんぐんぐんぐんぐんぐ……っ！[r]
+　ぷはあぁぁぁぁーーーーーっ………………」[pcms]
 ;//＠１行目は食事、２行目は水の一気飲み、３行目はためいき
 
 *122|
 [fc]
-Yuuho quickly finished off the pilaf and then chugged down[r]
-the water in one go.[pcms]
+あっという間にピラフを平らげてしまった悠帆は[r]
+最後に水を一気飲みにする。[pcms]
 
 *123|
 [fc]
-[ns]Wataru[nse]
-"...Amazing, huh? Does your stomach feel a bit better now?"[pcms]
+[ns]航[nse]
+「……すごいね、少しはお腹、落ち着いた？」[pcms]
 
 *124|
 [fc]
-As I asked in amazement at her appetite, Yuuho muttered[r]
-softly.[pcms]
+あまりの食欲に目を見張りながら、尋ねるボクに、[r]
+悠帆はぽつりと呟いた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e17"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *125|
 [fc]
 [vo_yuh s="yuho_YK0014"]
-[ns]Yuuho[nse]
-"...Pool..."[pcms]
+[ns]悠帆[nse]
+「…………プール……」[pcms]
 
 *126|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「え……？」[pcms]
 
 *127|
 [fc]
 [vo_yuh s="yuho_YK0015"]
-[ns]Yuuho[nse]
-"I want to swim. Go into the pool..."[pcms]
+[ns]悠帆[nse]
+「泳ぎ……たい。プール入って……」[pcms]
 
 *128|
 [fc]
-I silently embraced Yuuho's shoulder.[pcms]
+ボクは無言で悠帆の肩を抱き寄せた。[pcms]
 
 *129|
 [fc]
-[ns]Wataru[nse]
-"A pool, huh..."[pcms]
+[ns]航[nse]
+「プールかぁ……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *130|
 [fc]
-I felt that what Yuuho was saying wasn't just about wanting[r]
-to swim in a pool.[pcms]
+悠帆が言っているのは、[r]
+プールで泳ぎたいっていうだけじゃない気がした。[pcms]
 
 *131|
 [fc]
-Surely for Yuuho, that place is a symbol of the happy days[r]
-she once had. It seemed to me that Yuuho's heart was[r]
-screaming out to go back, to return.[pcms]
+きっとそこは悠帆にとって、幸せだった日々の象徴なんだろう。[r]
+帰りたい、戻りたいと悠帆の心が悲鳴を上げているように[r]
+ボクには思えた。[pcms]
 
 *132|
 [fc]
-[ns]Wataru[nse]
-"Yeah, that's right. It might be impossible for a while, but[r]
-once we get out of here, there might be a place where you[r]
-can swim."[pcms]
+[ns]航[nse]
+「そう、だね。しばらくは無理かもしれないけど、[r]
+　ここを出られたら、泳げる場所もあるかもしれないね」[pcms]
 
 *133|
 [fc]
-In response to my words of comfort, Yuuho didn't try to lift[r]
-her face. But...[pcms]
+慰めの言葉にも悠帆は顔を上げようとはしなかった。[r]
+だけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e18"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *134|
 [fc]
 [vo_yuh s="yuho_YK0016"]
-[ns]Yuuho[nse]
-"...Wataru..."[pcms]
+[ns]悠帆[nse]
+「……わた、る……」[pcms]
 
 *135|
 [fc]
-Suddenly, Yuuho reached out her arms and pulled me towards[r]
-her.[pcms]
+不意に腕を伸ばしてきた悠帆が、ボクを引き寄せた。[pcms]
 
 *136|
 [fc]
-[ns]Wataru[nse]
-"Eh??"[pcms]
+[ns]航[nse]
+「えっ？？」[pcms]
 
 *137|
 [fc]
-Pulled by an unexpectedly strong force, I lost my balance[r]
-and fell over.[pcms]
+予想もしない強い力で引っ張られて、[r]
+ボクはいきなりバランスを崩し、倒れこんでしまった。[pcms]
 
 *138|
 [fc]
-Yuuho then wrapped her legs around me.[pcms]
+悠帆はそのままボクに足を絡めてくる。[pcms]
 
 *139|
 [fc]
-[ns]Wataru[nse]
-"Wha... Yuuho... what??"[pcms]
+[ns]航[nse]
+「なっ……、悠帆……な、何？？」[pcms]
 
 *140|
 [fc]
-Struggling to sit up while looking up, I met eyes with Yuuho[r]
-who was straddling me.[pcms]
+身体を起こそうともがきながら見上げると[r]
+ボクの上にまたがった悠帆と目が合った。[pcms]
 
 ;//bgm10・姦染pt3
 [bgm storage="BGM10"]
@@ -290,61 +286,64 @@ who was straddling me.[pcms]
 
 *141|
 [fc]
-Red eyes... Blood-like deep crimson eyes as Yuuho gazed at[r]
-me vacantly...[pcms]
+赤い目……。[r]
+血のように真っ赤な紅色の瞳で[r]
+悠帆がボクをぼんやりと見つめている……。[pcms]
 
 *142|
 [fc]
-[ns]Wataru[nse]
-"...Yu... Yuuho...?? ...Could it be...!!!???"[pcms]
+[ns]航[nse]
+「……ゆ……悠帆…………？？[r]
+　………………まさか……っ！！！？？？…………」[pcms]
 
 *143|
 [fc]
-This color, this ominous red... Could it be... has Yuuho...[r]
-been infected!?[pcms]
+この色、狂ったような禍々しい赤い色は……！？[r]
+まさか……、まさか、悠帆……、感染しちゃった……のか！？[pcms]
 
 [evcg storage="EV013g"][trans_c cross time=300]
 
 *144|
 [fc]
 [vo_yuh s="yuho_YK0017"]
-[ns]Yuuho[nse]
-"...fu, fufu..."[pcms]
+[ns]悠帆[nse]
+「……ふ、ふふ……っ……」[pcms]
 ;//＠微笑んでいる
 
 *145|
 [fc]
-While sitting on top of me, Yuuho slowly moved her hands[r]
-towards her chest.[pcms]
+悠帆はボクの上に乗ったまま[r]
+ゆっくりと手を胸元へ持っていこうとした。[pcms]
 
 *146|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuuho... what... are you..."[pcms]
+[ns]航[nse]
+「ゆ、悠帆……、な、何……を……」[pcms]
 
 *147|
 [fc]
 [vo_yuh s="yuho_YK0018"]
-[ns]Yuuho[nse]
-"...because I can't swim... I want to do other things...[r]
-Things that move my body..."[pcms]
+[ns]悠帆[nse]
+「……だって、およげ、ない……から……、[r]
+　他のコト……したい、な……？[r]
+　身体、動かせる、コト…………」[pcms]
 
 *148|
 [fc]
-She smiled a little while tilting her head, looking at me.[pcms]
+微笑みながら少しだけ首を傾げて、ボクを見る。[pcms]
 
 *149|
 [fc]
-That gesture was just like the usual Yuuho when she's[r]
-pleading for something, but the eerie smile plastered on her[r]
-face made it feel alien.[pcms]
+その仕草はまるで、[r]
+普段の悠帆がおねだりをする時と変わらなかったけれど、[r]
+顔に貼り付いた妖しい微笑みが、異質なものを感じさせた。[pcms]
 
 *150|
 [fc]
 [vo_yuh s="yuho_YK0019"]
-[ns]Yuuho[nse]
-"Fufufu... It feels good... right? Wataru... help me...[r]
-okay?"[pcms]
+[ns]悠帆[nse]
+「ふふふっ……、気持ちいい、コト……だよ？[r]
+　わたる……手伝って、よ…………ねぇ？」[pcms]
 
 ;//〆ＨＥＶ０４８：悠帆（感染）／タンクトップ＆スパッツ
 ;//Ａ：倒れた除隊から半身を起こす航
@@ -356,310 +355,309 @@ okay?"[pcms]
 
 *151|
 [fc]
-Yuuho pulled my hand to sit me up, then brought the hand she[r]
-was holding towards her crotch.[pcms]
+悠帆はボクの手を引いて上半身を起こさせると、[r]
+握ったままの手を股間の方へと近づけていく。[pcms]
 
 *152|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuuho!?"[pcms]
+[ns]航[nse]
+「ゆ…………悠帆っ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e34"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *153|
 [fc]
 [vo_yuh s="yuho_YK0020"]
-[ns]Yuuho[nse]
-"...hey? Look... see? You understand, right...? Touch[r]
-here... come on..."[pcms]
+[ns]悠帆[nse]
+「……ねぇ？　見て、て……？　わかる、でしょ……？[r]
+　ココ……、さわって、ほらぁ……？」[pcms]
 
 *154|
 [fc]
-True to her words, Yuuho's place was hot and damp.[pcms]
+その言葉どおり悠帆のソコは熱くじっとりと濡れていた。[pcms]
 
 *155|
 [fc]
-[ns]Wataru[nse]
-"Wha... what are you doing... No, Yuuho, stop!!"[pcms]
+[ns]航[nse]
+「なっ……な、何して……、だ、ダメだよ、悠帆っ！！」[pcms]
 
 *156|
 [fc]
-I tried to pull my hand back in a panic, but she pressed[r]
-down with her body weight and gripped my wrist so tightly I[r]
-couldn't escape.[pcms]
+慌てて手を引っ込めようとしたけれど[r]
+体重をかけて押さえつけられ、[r]
+手首が軋むくらいに強く握られて、逃げられない。[pcms]
 
 *157|
 [fc]
-All I could do was gasp for breath while trembling at the[r]
-change in Yuuho.[pcms]
+ボクはただ、悠帆の変わりように怯えながら[r]
+息を呑むことしかできなかった。[pcms]
 
 *158|
 [fc]
 [vo_yuh s="yuho_YK0021"]
-[ns]Yuuho[nse]
-"I'm already wet... see? Do you know why? Fufufufu...[r]
-Because I was masturbating... that's why."[pcms]
+[ns]悠帆[nse]
+「もう、濡れ、て……る、でしょ……？[r]
+　なんでだか……、わかる？　ふっ、ふふふふっ……。[r]
+　おなにー……してた、から……だ、よ？」[pcms]
 
 *159|
 [fc]
-[ns]Wataru[nse]
-"Y-Yuuho did... such a thing?"[pcms]
+[ns]航[nse]
+「ゆ、悠帆が……、そんなコト？」[pcms]
 
 *160|
 [fc]
-I couldn't believe it...[pcms]
+信じられなかった……。[pcms]
 
 *161|
 [fc]
-The fact that Yuuho was doing something lewd. That I was[r]
-touching her there right now. And the lascivious expression[r]
-on Yuuho's face...[pcms]
+悠帆がイヤらしいことをしてるってことも。[r]
+今、ボクが悠帆のソコに触れていることも。[r]
+そして悠帆の顔に浮かぶ淫蕩な表情も……。[pcms]
 
 *162|
 [fc]
 [vo_yuh s="yuho_YK0022"]
-[ns]Yuuho[nse]
-"You didn't know...? Fufufu... After club activities...[r]
-after swimming, I always... in the shower... I[r]
-masturbate..."[pcms]
+[ns]悠帆[nse]
+「しら、なかった、の……？　ふふふっ……。[r]
+　……部活……、泳いだ、あと、いつも……、[r]
+　シャワー……あびながら……おなにー、して、た……」[pcms]
 
 *163|
 [fc]
-Yuuho muttered happily as she pressed my hand against her[r]
-crotch more firmly.[pcms]
+ボクの手を股間にぐりぐりと押し付けるようにして[r]
+悠帆は嬉しそうに呟いている。[pcms]
 
 *164|
 [fc]
-But Yuuho's eyes weren't really looking at me. It was as if[r]
-she was using my fingers to masturbate, as if my fingers[r]
-mattered more than my presence...[pcms]
+だけど悠帆の目はボクを見ているようでも、見てはいない。[r]
+まるでボクの指を使って、オナニーしているような、[r]
+ボクの存在よりもボクの指が大事だとでも言うような……。[pcms]
 
 *165|
 [fc]
 [vo_yuh s="yuho_YK0023"]
-[ns]Yuuho[nse]
-"Because the boys... look at me with such lewd eyes... my[r]
-body tingles and throbs... When I remember those eyes... I[r]
-masturbate... fufufu"[pcms]
+[ns]悠帆[nse]
+「オトコの子、たちが……エッチな目で、見る、から……、[r]
+　身体……じんじん、疼いちゃって……。[r]
+　その目……思い出し、て……おなにー……ふふふっ」[pcms]
 
 *166|
 [fc]
 [vo_yuh s="yuho_YK0024"]
-[ns]Yuuho[nse]
-"After swimming... I masturbate... if seen, I masturbate...[r]
-I've imagined various boys..."[pcms]
+[ns]悠帆[nse]
+「泳いだら……おなにー……、見られ、たら、おなにー……。[r]
+　いろんな、オトコの子……、想像、したよ……？」[pcms]
 
 *167|
 [fc]
-Whispering as if reciting a poem, Yuuho pressed my fingers[r]
-against her crotch and began to rhythmically move them up[r]
-and down.[pcms]
+詠うように囁きながら、悠帆はボクの指を股間に押し付けて、[r]
+ゆっくりとリズミカルに上下させ始める。[pcms]
 
 *168|
 [fc]
-The damp spats caught on my fingers, biting into the slit. I[r]
-could feel the soft pubic hair rubbing against the fabric,[r]
-making a rustling sound.[pcms]
+湿ったスパッツに指が引っかかって秘裂に食い込んでいく。[r]
+布越しに柔らかそうな陰毛が[r]
+しょりしょりと擦れて音を立てるのが分かった。[pcms]
 
 *169|
 [fc]
 [vo_yuh s="yuho_YK0025"]
-[ns]Yuuho[nse]
-"...but Wataru is the most important... you know?"[pcms]
+[ns]悠帆[nse]
+「……でも……わたる、が、一番……だよ？」[pcms]
 ;//＠壊れながらも、はにかんで
 
 *170|
 [fc]
-Gazing off into the distance with flushed cheeks, Yuuho[r]
-said.[pcms]
+どこか遠くを見つめながら頬を染めて悠帆が言う。[pcms]
 
 *171|
 [fc]
 [vo_yuh s="yuho_YK0026"]
-[ns]Yuuho[nse]
-"I think of Wataru when I do it... Showering... thinking of[r]
-Wataru while I masturbate is the best feeling..."[pcms]
+[ns]悠帆[nse]
+「わたるのこと、考えて、する、の……。[r]
+　シャワー、あびて……わたるで……おなにー、するのが……、[r]
+　一番、気持ち、いい……」[pcms]
 
 *172|
 [fc]
-[ns]Wataru[nse]
-"Yu... uho..."[pcms]
+[ns]航[nse]
+「ゆ……うほ…………」[pcms]
 
 *173|
 [fc]
-Is this... a confession? A kind of love confession...?[pcms]
+これは……告白、なんだろうか。[r]
+一種の、愛の、告白……？[pcms]
 
 *174|
 [fc]
-The girl I adore is thinking of me, telling me she comforts[r]
-herself with thoughts of me...[pcms]
+ボクの大好きな女の子が、ボクを想ってくれてるって、[r]
+ボクのことを想って、自分を慰めてるって、言ってる……。[pcms]
 
 *175|
 [fc]
-In a situation where I should be overjoyed, I was frozen,[r]
-simply letting Yuuho guide my hand.[pcms]
+本来なら有頂天になるべきこの状況で[r]
+ボクは凍りついたように、ただ悠帆に手を預けていた。[pcms]
 
 *176|
 [fc]
 [vo_yuh s="yuho_YK0027"]
-[ns]Yuuho[nse]
-"I did it yesterday too... I thought a lot about Wataru..."[pcms]
+[ns]悠帆[nse]
+「昨日も……、した、よ……？[r]
+　わたる、の、こと……いっぱい、考えた、よ……」[pcms]
 
 *177|
 [fc]
-Yuuho rubbed that place over and over again, writhing in[r]
-agony. Her breathing became more ragged, her cheeks reddened[r]
-further, and the moisture on her outlined slit seemed to[r]
-increase.[pcms]
+悠帆は何度もソコを擦らせながら、切なそうに身をくねらせた。[r]
+だんだん息が弾んできて、頬の赤みが濃くなっている。[r]
+布にくっきり刻まれた割れ目の湿り気も、増しているようだ。[pcms]
 
 *178|
 [fc]
 [vo_yuh s="yuho_YK0028"]
-[ns]Yuuho[nse]
-"Talking in the kitchen made me so nervous... this place got[r]
-so hot and throbbing... in my room all the time... at night[r]
-too... just before..."[pcms]
+[ns]悠帆[nse]
+「キッチンで……話して、ドキドキ、して……、[r]
+　ココが……じゅんっ、って……熱っつくなって……、[r]
+　お部屋で……ずっと……、夜も……、さっきも……」[pcms]
 
 *179|
 [fc]
 [vo_yuh s="yuho_YK0029"]
-[ns]Yuuho[nse]
-"...when I think of Wataru... I can't stop myself...[r]
-because..."[pcms]
+[ns]悠帆[nse]
+「……わたるの、こと……考える、と……、[r]
+　止まらなく、なる、よ……？[r]
+　…………だって…………」[pcms]
 
 *180|
 [fc]
-Suddenly, Yuuho cut off her words.[pcms]
+不意に悠帆が言葉を切った。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *181|
 [fc]
 [vo_yuh s="yuho_YK0030"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「……………………………………」[pcms]
 ;//＠葛藤。正気と狂気
 
 *182|
 [fc]
-She looked down silently for a while.[pcms]
+しばらくの間、目を伏せて黙り込んでいる。[pcms]
 
 *183|
 [fc]
-The outline of her nipples showed through her T-shirt, and[r]
-with my fingers still embedded in her crotch, Yuuho became[r]
-as still as a statue.[pcms]
+Ｔシャツに乳首の輪郭を浮かせ、股間にボクの指を食い込ませて[r]
+そのまま悠帆は彫像のように動かなくなってしまった。[pcms]
 
 *184|
 [fc]
-[ns]Wataru[nse]
-"...Y-Yuuho...?"[pcms]
+[ns]航[nse]
+「……ゆ、悠帆…………？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e32"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *185|
 [fc]
-Slowly, Yuuho raised her eyes.[pcms]
+ゆっくりと悠帆が目を上げる。[pcms]
 
 *186|
 [fc]
-Her pupils were red, but unlike before, they were completely[r]
-focused on me.[pcms]
+その瞳は赤かったけれど、さっきまでとは違って[r]
+完全にボクに焦点が合っていた。[pcms]
 
 *187|
 [fc]
-[ns]Wataru[nse]
-"Yu-uh-ho...?"[pcms]
+[ns]航[nse]
+「ゆう、ほ……？」[pcms]
 
 *188|
 [fc]
-The expression was that of the usual Yuuho. Except for the[r]
-red eyes, she seemed almost normal.[pcms]
+表情も、いつもの悠帆のものだった。[r]
+目が赤いことを除けば、正常といっていいくらいに。[pcms]
 
 *189|
 [fc]
-[ns]Wataru[nse]
-"...You understand, right? That it's me..."[pcms]
+[ns]航[nse]
+「……分かるんだね？　ボクが……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e33"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *190|
 [fc]
 [vo_yuh s="yuho_YK0031"]
-[ns]Yuuho[nse]
-"...Wataru... I like you..."[pcms]
+[ns]悠帆[nse]
+「……わたる……、好き、だよ……？」[pcms]
 ;//＠声が少し、正気です
 
 *191|
 [fc]
-With a pained expression, Yuuho whispered haltingly.[pcms]
+苦しげに顔を歪めて、悠帆が切れ切れに囁いた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e17"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *192|
 [fc]
 [vo_yuh s="yuho_YK0032"]
-[ns]Yuuho[nse]
-"That's why... that's why run away...!"[pcms]
+[ns]悠帆[nse]
+「だか、ら…………だから、逃げ、て…………っ！」[pcms]
 ;//＠声が少し、正気です
 
 *193|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「えっ……？」[pcms]
 
 *194|
 [fc]
-The strength in Yuuho's hand holding mine eased slightly.[pcms]
+ボクの手を取る悠帆の力が、少しだけ緩む。[pcms]
 
 *195|
 [fc]
-Run away? Did she just say that now? Is she trying to let me[r]
-escape?[pcms]
+逃げろって……、今、そう言ったのか？[r]
+ボクを逃がしてくれようとしてるのか？[pcms]
 
 *196|
 [fc]
-But Yuuho's current state seems different from the infected[r]
-I've seen so far.[pcms]
+だけど今の悠帆の様子は、今まで見てきた感染者たちとは違う。[pcms]
 
 *197|
 [fc]
-Maybe Yuuho is coming back to her senses. Even though she's[r]
-infected, maybe the disease hasn't progressed that much?[pcms]
+悠帆は正気に戻りかけているのかもしれない。[r]
+感染したといっても、それほど病気は進行していないのかも？[pcms]
 
 *198|
 [fc]
-Then... can I still save Yuuho...?[pcms]
+だったら……まだ、悠帆を助けられる……？[pcms]
 
 *199|
 [fc]
-[ns]Wataru[nse]
-"Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆…………」[pcms]
 
 *200|
 [fc]
-What should I do...?[pcms]
+ボクは、どうすればいい……？[pcms]
 
 ;//---------------------------------------------------------------
-;//●時限選択肢Ａ２
-;//２１：今だ！逃げよう！→60030
-;//２２：まだ助けられるかも？・・・→60060
-;//２３：時間切れ→60070
+;//●時限選択肢Ａ－２
+;//２－１：今だ！逃げよう！→60030
+;//２－２：まだ助けられるかも？・・・→60060
+;//２－３：時間切れ→60070
 
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="60030.ks" target=*60030_TOP]今だ！　逃げよう！[endlink]
 ;	[link storage="60060.ks" target=*60060_TOP]まだ助けられるかも……？[endlink]
-;       (link storage="60070.ks" target=*60070_TOP)What to[r]
-do...(endlink)[pcms]
+;	[link storage="60070.ks" target=*60070_TOP]どうすれば……[endlink][s]
 
 *SEL50|今だ！　逃げよう！／まだ助けられるかも……？／どうすれば……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Now\'s the chance! Let\'s escape!'"]
-[eval exp="f.seltext04 = 'Maybe I can still be saved?'"]
-[eval exp="f.seltext06 = 'What should I do'"]
+[eval exp="f.seltext02 = '今だ！　逃げよう！'"]
+[eval exp="f.seltext04 = 'まだ助けられるかも……？'"]
+[eval exp="f.seltext06 = 'どうすれば……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

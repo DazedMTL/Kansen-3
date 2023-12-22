@@ -8,7 +8,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）未明早朝
+;//・時間：５日目（８月１９日）未明～早朝
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹
 ;//時間帯：
@@ -25,94 +25,92 @@
 
 *2968|
 [fc]
-[ns]Wataru[nse]
-"...!!"[pcms]
+[ns]航[nse]
+「………………っ！！」[pcms]
 
 *2969|
 [fc]
-The moment I thought I was falling, I woke up.[pcms]
+墜落する、と思った次の瞬間、目が覚めた。[pcms]
 
 *2970|
 [fc]
-...What was that... I feel like I had a bad dream...[pcms]
+……何だろう……嫌な夢を見ていたような気がする……。[pcms]
 
 *2971|
 [fc]
-The room is pitch dark, and without any windows, I can't[r]
-tell the time at all.[pcms]
+部屋の中は真っ暗で、窓もないので時間が全くつかめない。[pcms]
 
 *2972|
 [fc]
-I fumbled around for my cellphone.[pcms]
+ボクは手探りで携帯を取り出した。[pcms]
 
 *2973|
 [fc]
-[ns]Wataru[nse]
-"...2 AM, huh."[pcms]
+[ns]航[nse]
+「…………午前……２時か」[pcms]
 
 *2974|
 [fc]
-I squinted at the brightness of the display while reading[r]
-the time.[pcms]
+ディスプレイの眩しさに目を細めながら時間表示を読んだ。[pcms]
 
 *2975|
 [fc]
-It should have been about six hours since I lay down, but[r]
-somehow, I don't feel like I've slept much.[pcms]
+横になってからかれこれ６時間は経っているはずだけど、[r]
+なんだかあまり眠った気がしない。[pcms]
 
 *2976|
 [fc]
-My body is aching all over with muscle pain... Is it because[r]
-I'm tense, or due to lack of sleep...? Maybe it's because[r]
-I'm not used to sleeping on tatami mats...[pcms]
+身体のあちこちが筋肉痛を訴えてるし……。[r]
+緊張してるせいか、寝不足のせいか……、[r]
+もしかしたら、慣れないお座敷で寝たからかも……。[pcms]
 
 *2977|
 [fc]
-[ns]Wataru[nse]
-"I need to sleep a bit more..."[pcms]
+[ns]航[nse]
+「もうちょっと寝とかないとな……」[pcms]
 
 *2978|
 [fc]
-Harsh days will continue from tomorrow. I need to sleep a[r]
-little to recover my strength...[pcms]
+明日からも厳しい日々が続くんだ。[r]
+少しでも眠って、体力を回復しないと……。[pcms]
 
 *2979|
 [fc]
-Thinking so, I lay down again, but somehow, I can't fall[r]
-asleep. It's not just the muscle pain; my body feels[r]
-feverish, and yet my mind is strangely clear...[pcms]
+そう思って横になったけれど、なんだか寝付けない。[r]
+筋肉痛だけじゃなくて、少し身体が熱っぽいみたいだし、[r]
+そのくせ妙に頭だけは冴えてしまってるし……。[pcms]
 
 *2980|
 [fc]
-[ns]Wataru[nse]
-"...Ah, that's right."[pcms]
+[ns]航[nse]
+「…………あ、そうだ」[pcms]
 
 *2981|
 [fc]
-I suddenly remember. One of the reasons I wanted to come[r]
-here... about my favorite sign on the rooftop.[pcms]
+ボクはふと思い出す。[r]
+ここに来たかった理由のひとつ……、[r]
+屋上の、お気に入りの看板のことを。[pcms]
 
 *2982|
 [fc]
-When I think about it, I've never been at LASER in the[r]
-middle of the night, so the view at this time is still[r]
-unexperienced...[pcms]
+考えてみれば、こんな夜中にＬＡＳＥＲにいたことはないから、[r]
+この時間帯の眺めは、まだ未体験なんだよな……。[pcms]
 
 *2983|
 [fc]
-The city has almost stopped its activities, so even if there[r]
-are buildings with lights left on, the stars might be more[r]
-visible than usual...[pcms]
+街はほとんど活動を止めてる状態だから、[r]
+明かりが点きっ放しのビルがあったとしても、[r]
+いつもよりも、よく星が見えるかもしれない……。[pcms]
 
 *2984|
 [fc]
-[ns]Wataru[nse]
-"Let's go check it out."[pcms]
+[ns]航[nse]
+「行ってみよう」[pcms]
 
 *2985|
 [fc]
-Quietly getting up, I fumbled around to roll up the blanket[r]
-and tucked it under my arm as I left the room.[pcms]
+そっと起き上がったボクは[r]
+手探りで毛布を丸めて小脇に抱え、部屋を出る。[pcms]
 
 ;//@konya アルカディア 夜
 [bg storage="BG020b"][trans_c cross time=500]
@@ -120,63 +118,62 @@ and tucked it under my arm as I left the room.[pcms]
 
 *2986|
 [fc]
-Once outside the door, the faint light in front of the[r]
-counter became visible and my vision slightly recovered.[pcms]
+扉の外に出ると、カウンター前の明かりがほんのり見えて[r]
+少しだけ視界が回復した。[pcms]
 
 ;//あれば薄暗い漫画喫茶背景
 ;//@konya　BG表示済み
 
 *2987|
 [fc]
-I pass through the library corner lined with bookshelves and[r]
-head towards the counter.[pcms]
+本棚の並ぶライブラリーコーナーを抜けて[r]
+カウンターの方に向かう。[pcms]
 
 *2988|
 [fc]
-[ns]Wataru[nse]
-"Ouch..."[pcms]
+[ns]航[nse]
+「いてて……」[pcms]
 
 *2989|
 [fc]
-The pain in my muscles becomes more apparent as I start[r]
-walking. Especially around my neck, it hurts quite a bit...[pcms]
+歩き出すと余計に筋肉の痛みが感じられた。[r]
+特に首周りがだいぶ痛む……。[pcms]
 
 *2990|
 [fc]
-As I walk rubbing my neck while looking down, I find[r]
-something shiny in the recessed part of the base of a[r]
-bookshelf.[pcms]
+うつむき気味になって首を撫でさすりながら歩いていると[r]
+本棚の基部の凹んだ部分に、何か光る物体を見つけた。[pcms]
 
 *2991|
 [fc]
-[ns]Wataru[nse]
-"What's this...?"[pcms]
+[ns]航[nse]
+「なんだろ、これ……？」[pcms]
 
 *2992|
 [fc]
-Picking it up, it turned out to be a blue glass bead.[pcms]
+拾ってみると、青いガラス玉だった。[pcms]
 
 *2993|
 [fc]
-It looks like a marble, but unlike ordinary ones, it doesn't[r]
-have white streaks and is entirely blue. At first glance, it[r]
-looks like a bead from a dark-colored Ramune bottle.[pcms]
+ビー玉みたいに見えるけれど、[r]
+普通のものと違って白い筋が入っておらず、全体が青い。[r]
+一見、色の濃いラムネ瓶の玉のようでもある。[pcms]
 
 *2994|
 [fc]
-[ns]Wataru[nse]
-"Why is something like this here...?"[pcms]
+[ns]航[nse]
+「なんで、こんなものが……？」[pcms]
 
 *2995|
 [fc]
-It doesn't seem like an item from a manga cafe, and none of[r]
-us carry marbles around. So it must be a customer's lost[r]
-item... but it's a bit mysterious.[pcms]
+漫画喫茶の備品とも思えないし、[r]
+ボクらの中にはビー玉を持ち歩くような人間もいない。[r]
+だとすると客の落し物なんだろうけど……ちょっと不思議だ。[pcms]
 
 *2996|
 [fc]
-I decide not to just throw it away and put the marble in my[r]
-pocket.[pcms]
+とりあえず捨てておくのもなんだし……と、[r]
+ボクはビー玉をポケットにしまいこんだ。[pcms]
 
 ;//〆；エレベーターエントランス
 [bg storage="BG120"][trans_c cross time=500]
@@ -184,48 +181,47 @@ pocket.[pcms]
 
 *2997|
 [fc]
-[ns]Wataru[nse]
-"...Huh?"[pcms]
+[ns]航[nse]
+「…………あれ？」[pcms]
 
 *2998|
 [fc]
-Arriving in front of the elevator, I casually look at the[r]
-floor indicator and tilt my head.[pcms]
+エレベーターの前に来たボクは、[r]
+何気なく階数表示を見て首を傾げる。[pcms]
 
 *2999|
 [fc]
-There are three elevators in this building, and since we[r]
-were all using them, they should all be stopped on either[r]
-the 5th or 7th floor now.[pcms]
+このビルのエレベーターは３基あるんだけれど、[r]
+ボクらがみんなで使っていたから、[r]
+今は全てが５Ｆか７Ｆに止まっているはずだ。[pcms]
 
 *3000|
 [fc]
-But... one is stopped at the 6th floor.[pcms]
+だけど……、１基だけ６Ｆに止まっている。[pcms]
 
 *3001|
 [fc]
-[ns]Wataru[nse]
-"Speaking of 6F..."[pcms]
+[ns]航[nse]
+「６Ｆっていえば……」[pcms]
 
 *3002|
 [fc]
-The floor where "Gyu-Gyu Paradise," an ally of big eaters[r]
-with all-you-can-eat sukiyaki and shabu-shabu, is located.[pcms]
+スキヤキ・シャブシャブ食べ放題の大食漢の味方、[r]
+「ギュウギュウ天国」があるフロアだ。[pcms]
 
 *3003|
 [fc]
-[ns]Wataru[nse]
-"...Is someone sneaking in for a bite to eat...??"[pcms]
+[ns]航[nse]
+「……誰か、盗み食いにいってるのかなあ……？？」[pcms]
 
 *3004|
 [fc]
-I'm a bit curious, but decide not to think too deeply about[r]
-it. It would be troublesome if I ran into Shigeyoshi while[r]
-checking it out.[pcms]
+少し気にはなったけれど、あまり深く考えないことにした。[r]
+様子を見に行って重吉と鉢合わせなんかしたら困るし。[pcms]
 
 *3005|
 [fc]
-I get on the elevator that came to 5F as it was.[pcms]
+ボクはそのまま５Ｆに来ていたエレベーターに乗り込む。[pcms]
 
 ;//〆フェードアウト
 
@@ -234,26 +230,26 @@ I get on the elevator that came to 5F as it was.[pcms]
 
 *3006|
 [fc]
-...7F it is.[pcms]
+……７Ｆだ。[pcms]
 
 *3007|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「…………っ…………」[pcms]
 
 *3008|
 [fc]
-Stepping out into the elevator entrance on 7F, I[r]
-inadvertently step forward and notice a stain on the floor.[pcms]
+エレベーターエントランスに出たボクは、[r]
+何気なく足を踏み出して、床の染みに気がついた。[pcms]
 
 *3009|
 [fc]
-It's the bloodstain of Master and Mama...[pcms]
+マスターとママの血痕だ……。[pcms]
 
 *3010|
 [fc]
-[ns]Wataru[nse]
-"...Phew..."[pcms]
+[ns]航[nse]
+「…………ふう……」[pcms]
 
 
 
@@ -261,7 +257,7 @@ It's the bloodstain of Master and Mama...[pcms]
 ;//---------------------------------------------------------------
 ;//---------------------------------------------------------------
 ;//---------------------------------------------------------------
-;//5050050510に入るzapを入れておくす ＾＾
+;//50500～50510に入るzapを入れておくす ＾＾
 
 ;//クリアしないと開かないzapみたい
 [if exp="sf.g_clear==1"][jump storage="50500.ks" target=*50500_z1][endif]

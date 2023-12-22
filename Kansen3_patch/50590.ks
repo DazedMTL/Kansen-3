@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）朝
+;//・時間：５日目（８月１９日）朝～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：5k前後
@@ -29,8 +29,8 @@
 
 *3625|
 [fc]
-After working for a while, I got pretty tired, so I decided[r]
-to take a break.[pcms]
+しばらく働いているうちに、だいぶ疲れてしまったので[r]
+いったん休憩をとることになった。[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -38,31 +38,31 @@ to take a break.[pcms]
 
 *3626|
 [fc]
-[ns]Wataru[nse]
-"I'm tired..."[pcms]
+[ns]航[nse]
+「疲れたー」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3627|
 [fc]
-[ns]Kousuke[nse]
-"Man... my arms are totally swollen."[pcms]
+[ns]浩助[nse]
+「だりー……、腕とかパンパンだぜ」[pcms]
 
 *3628|
 [fc]
-When I went back to the DJ bar, there was no one there.[pcms]
+ＤＪバーに戻ってみたが、誰もいなかった。[pcms]
 
 *3629|
 [fc]
-But I could see empty plates and cups on the table, which[r]
-seemed to have been used for a meal.[pcms]
+だけどテーブルの上には[r]
+食事を終えたらしい空いた皿やコップが見える。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3630|
 [fc]
-[ns]Kousuke[nse]
-"Huh? Looks like Jin and the others have woken up."[pcms]
+[ns]浩助[nse]
+「あれ？　ジンたち、起きたみてーだな」[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -89,61 +89,60 @@ seemed to have been used for a meal.[pcms]
 
 *3631|
 [fc]
-Ren should still be in the building doing laundry...[pcms]
+ビルには洗濯をしてる漣も残ってるはずだけど……。[pcms]
 
 *3632|
 [fc]
-[ns]Wataru[nse]
-"...Ren?"[pcms]
+[ns]航[nse]
+「……漣？」[pcms]
 
 *3633|
 [fc]
-I called out, but there was no answer.[pcms]
+呼んでみたけれど返事はない。[pcms]
 
 *3634|
 [fc]
-A moment of anxiety crossed my mind.[pcms]
+一瞬、不安が心をよぎる。[pcms]
 
 *3635|
 [fc]
-If Shigeyoshi is awake... I hope Ren isn't getting tangled[r]
-up with him. If Jin- san is with her, she should be okay,[r]
-but...[pcms]
+重吉が起きているんだとしたら……、[r]
+まさか漣が絡まれてたりしないだろうか。[r]
+壬さんが一緒なら、大丈夫だろうとは思うけど……。[pcms]
 
 *3636|
 [fc]
-[ns]Wataru[nse]
-"...Ren!"[pcms]
+[ns]航[nse]
+「……漣ー！」[pcms]
 
 *3637|
 [fc]
-Leaving Ren alone in the building might have been[r]
-careless...[pcms]
+漣ひとりだけビルに残すなんて、うかつだったかな……。[pcms]
 
 *3638|
 [fc]
-Just as I was starting to worry...[pcms]
+心配になりかけた時だった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3639|
 [fc]
 [vo_ren s="ren1439"]
-[ns]Ren[nse]
-"Ah, it's big brother and the others. Welcome back!"[pcms]
+[ns]漣[nse]
+「あ、お兄ちゃんたちだ。お帰りなさーい」[pcms]
 
 *3640|
 [fc]
-Ren came out from the backyard, accompanied by Jin-san and[r]
-Shigeyoshi on both sides.[pcms]
+バックヤードから、漣が出てきた。[r]
+しかも両側に壬さんと重吉を引き連れての登場だ。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3641|
 [fc]
 [vo_ren s="ren1440"]
-[ns]Ren[nse]
-"We just finished hanging up the laundry over here too."[pcms]
+[ns]漣[nse]
+「こっちもちょうど、洗濯干し終わったところだよ」[pcms]
 
 ;//ジャンプ C003
 [jump storage="50590.ks" target=*50590_03]
@@ -157,63 +156,61 @@ Shigeyoshi on both sides.[pcms]
 
 *3642|
 [fc]
-Yuuho should also still be in the building doing laundry...[pcms]
+ビルには洗濯をしてる悠帆も残ってるはずだけど……。[pcms]
 
 *3643|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho?"[pcms]
+[ns]航[nse]
+「……悠帆？」[pcms]
 
 *3644|
 [fc]
-I called out, but there was no answer.[pcms]
+呼んでみたけれど返事はない。[pcms]
 
 *3645|
 [fc]
-A moment of anxiety crossed my mind.[pcms]
+一瞬、不安が心をよぎる。[pcms]
 
 *3646|
 [fc]
-If Shigeyoshi is awake... I hope Yuuho isn't getting tangled[r]
-up with him. If Jin-san is with her, she should be okay,[r]
-but...[pcms]
+重吉が起きているんだとしたら……、[r]
+まさか悠帆が絡まれてたりしないだろうか。[r]
+壬さんが一緒なら、大丈夫だろうとは思うけど……。[pcms]
 
 *3647|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho!?"[pcms]
+[ns]航[nse]
+「……悠帆ー！？」[pcms]
 
 *3648|
 [fc]
-Leaving Yuuho alone in the building might have been[r]
-careless...[pcms]
+悠帆ひとりだけビルに残すなんて、うかつだったかな……。[pcms]
 
 *3649|
 [fc]
-Just as I was starting to worry...[pcms]
+心配になりかけた時だった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3650|
 [fc]
 [vo_yuh s="yuho1643"]
-[ns]Yuuho[nse]
-"Ah, welcome back~! That's a lot of stuff you've got there,[r]
-must've been tough, right?"[pcms]
+[ns]悠帆[nse]
+「あ、おっ帰り～！[r]
+　すごい荷物だねー、大変だったでしょ？」[pcms]
 
 *3651|
 [fc]
-Yuuho came out from the backyard, accompanied by Jin-san and[r]
-Shigeyoshi on both sides.[pcms]
+バックヤードから、悠帆が出てきた。[r]
+しかも両側に壬さんと重吉を引き連れての登場だ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3652|
 [fc]
 [vo_yuh s="yuho1644"]
-[ns]Yuuho[nse]
-"We just finished the laundry too. I hung everything up[r]
-neatly!"[pcms]
+[ns]悠帆[nse]
+「こっちも洗濯終わったよ。きれーに干してきたとこ！」[pcms]
 
 ;//ジャンプ C003
 [jump storage="50590.ks" target=*50590_03]
@@ -224,25 +221,25 @@ neatly!"[pcms]
 
 *3653|
 [fc]
-[ns]Wataru[nse]
-"So... that's good."[pcms]
+[ns]航[nse]
+「そ……そっか」[pcms]
 
 *3654|
 [fc]
-Well, as long as nothing happened, it's fine...[pcms]
+まあ、何もなかったのなら、いいんだけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3655|
 [fc]
 [vo_miz s="mizuki0333"]
-[ns]Mizuki[nse]
-"...Speaking of which, why are Jin and the others together[r]
-with you?"[pcms]
+[ns]瑞樹[nse]
+「……それはそうとして、[r]
+　どうしてジンたちも一緒に？」[pcms]
 
 *3656|
 [fc]
-Mizuki asked exactly what I was wondering too.[pcms]
+ちょうどボクも気になっていたことを瑞樹が聞いてくれた。[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -268,93 +265,91 @@ Mizuki asked exactly what I was wondering too.[pcms]
 *3657|
 [fc]
 [vo_ren s="ren1441"]
-[ns]Ren[nse]
-"Oh, that's because Jin-san and the others helped us out.[r]
-They helped us stretch out the clothesline wires and stuff.[r]
-Right?"[pcms]
+[ns]漣[nse]
+「あ、それは、壬さんたちも手伝ってくれたの。[r]
+　物干しワイヤー張ってくれたりとか。ね？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3658|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uh... well... yeah."[pcms]
+[ns]重吉[nse]
+「う……ま、まあ……な」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3659|
 [fc]
-Faced with Ren's smile, Shigeyoshi hurriedly switched from a[r]
-look of discontent to a forced, creepy grin.[pcms]
+漣に笑顔を向けられた重吉は、[r]
+不服そうな顔から慌てて不気味な作り笑いをする。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3660|
 [fc]
-More terrifying than that smile was...[pcms]
+恐ろしいその笑顔よりも、もっと怖かったのは……。[pcms]
 
 *3661|
 [fc]
-[ns]Wataru[nse]
-"...Huh?"[pcms]
+[ns]航[nse]
+「……えっ？」[pcms]
 
 *3662|
 [fc]
-Jin-san and the others. Helped with the laundry... is that[r]
-what you're saying?[pcms]
+壬さんたちが。洗濯を。手伝った……っていうのか？[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3663|
 [fc]
-[ns]Jin[nse]
-"...I was threatened that if I didn't help, I'd never get[r]
-salad made for me again..."[pcms]
+[ns]壬[nse]
+「……手伝わないと、[r]
+　二度とサラダを作ってやらないと脅された……」[pcms]
 
 *3664|
 [fc]
-[ns]Wataru[nse]
-"...What...!?"[pcms]
+[ns]航[nse]
+「……え゛っ……！？」[pcms]
 
 *3665|
 [fc]
-You... threatened them!? What have you been doing, Ren???[pcms]
+お……脅した！？[r]
+な、何やってたんだ、漣？？？[pcms]
 
 *3666|
 [fc]
-Somehow since coming to this building, Jin-san and the[r]
-others have been quiet, and it's easy to forget but... these[r]
-people are yakuza!?[pcms]
+何故かこのビルに来てからの壬さんたちは、大人しくしてるから[r]
+なんとなく忘れそうになるけど……この人たち、極道だよ！？[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3667|
 [fc]
 [vo_ren s="ren1442"]
-[ns]Ren[nse]
-"I didn't threaten anyone. This was a fair trade done in[r]
-good faith!"[pcms]
+[ns]漣[nse]
+「脅してなんか、ないですよー。[r]
+　これは正々堂々としたフェアトレードです！」[pcms]
 
 *3668|
 [fc]
-Ren puffed out her chest proudly as if to say 'eheh'. But...[r]
-dealing with yakuza, there's no such thing as fair,[r]
-right...?[pcms]
+漣は胸を張って「えっへん」とか威張ってる。[r]
+だけど……。[r]
+ヤクザ屋さん相手にフェアも何もないだろう……？[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3669|
 [fc]
-If anything, it's like seeing a lion napping and thinking[r]
-'how cute' and petting it. These people are carnivores by[r]
-nature!?[pcms]
+言うなれば、たまたま昼寝してるライオンを見て[r]
+「かわいー」って撫でちゃうようなもんで、[r]
+もともと肉食獣なんですよ、この人たちは！？[pcms]
 
 *3670|
 [fc]
-In the future, I'll definitely avoid leaving Ren alone with[r]
-Jin-san and the others... I firmly vowed to myself.[pcms]
+今度からは漣だけを壬さんたちのところに残すのは[r]
+絶対に避けよう……と、ボクは固く心に誓った。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -371,98 +366,98 @@ Jin-san and the others... I firmly vowed to myself.[pcms]
 *3671|
 [fc]
 [vo_yuh s="yuho1645"]
-[ns]Yuuho[nse]
-"Ah, Jin-san and the others helped out too. They helped us[r]
-stretch out the clothesline wires and stuff. Right?"[pcms]
+[ns]悠帆[nse]
+「あ、壬さんたちも手伝ってくれたんだー。[r]
+　物干しワイヤー張ってくれたりとか。ね？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3672|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uh... well..."[pcms]
+[ns]重吉[nse]
+「う……ま、まあ……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3673|
 [fc]
-Faced with Yuuho's smile, Shigeyoshi hurriedly switched from[r]
-a look of discontent to a forced, creepy grin.[pcms]
+悠帆に笑顔を向けられた重吉は、[r]
+不服そうな顔から慌てて不気味な作り笑いをする。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3674|
 [fc]
-More terrifying than that smile was...[pcms]
+恐ろしいその笑顔よりも、もっと怖かったのは……。[pcms]
 
 *3675|
 [fc]
-[ns]Wataru[nse]
-"...Eh?"[pcms]
+[ns]航[nse]
+「……えっ？」[pcms]
 
 *3676|
 [fc]
-Jin-san and the others. Helped with the laundry... is that[r]
-what you're saying?[pcms]
+壬さんたちが。洗濯を。手伝った……っていうのか？[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3677|
 [fc]
-[ns]Jin[nse]
-"...If we didn't help, we were threatened that we wouldn't[r]
-be able to eat our meals in peace..."[pcms]
+[ns]壬[nse]
+「……手伝わないと、[r]
+　もう安心してメシが食えなくなると脅された……」[pcms]
 
 *3678|
 [fc]
-[ns]Wataru[nse]
-"...Eh...!?"[pcms]
+[ns]航[nse]
+「……え゛っ……！？」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3679|
 [fc]
-You... threatened them!? What have you been doing, Yuuho???[pcms]
+お……脅した！？[r]
+な、何やってたんだ、悠帆？？？[pcms]
 
 *3680|
 [fc]
-Somehow since coming to this building, Jin-san and the[r]
-others have been quiet, and it's easy to forget but... these[r]
-people are yakuza!?[pcms]
+何故かこのビルに来てからの壬さんたちは、大人しくしてるから[r]
+なんとなく忘れそうになるけど……この人たち、ヤクザだよ！？[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3681|
 [fc]
 [vo_yuh s="yuho1646"]
-[ns]Yuuho[nse]
-"Of course! Those who do not work shall not eat!"[pcms]
+[ns]悠帆[nse]
+「あったりまえでしょー？[r]
+　働かざる者、食うべからず！」[pcms]
 
 *3682|
 [fc]
-Yuuho puffed out her chest proudly as if to say 'eheh'.[pcms]
+悠帆は胸を張って「えっへん」とか威張ってる。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3683|
 [fc]
-What she's saying is certainly correct, but... threatening[r]
-yakuza, how is that!? And how did you even threaten them and[r]
-come out unscathed???[pcms]
+確かに言ってることは正しいけど……[r]
+極道モンを脅迫って、どうなのっ！？[r]
+っていうか、よくそんな脅しをかけて、無事だったな？？？[pcms]
 
 *3684|
 [fc]
-If anything, it's like seeing a lion napping and thinking[r]
-'how cute' and petting it. These people are carnivores by[r]
-nature!?[pcms]
+言うなれば、たまたま昼寝してるライオンを見て[r]
+「かわいー」って撫でちゃうようなもんで、[r]
+もともと肉食獣なんですよ、この人たちは！？[pcms]
 
 *3685|
 [fc]
-In the future, I'll definitely avoid leaving Yuuho alone[r]
-with Jin-san and the others... I firmly vowed to myself.[pcms]
+今度からは悠帆だけを壬さんたちのところに残すのは[r]
+絶対に避けよう……と、ボクは固く心に誓った。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

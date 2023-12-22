@@ -21,152 +21,150 @@
 *3433|
 [fc]
 [vo_miz s="mizuki0135"]
-[ns]Mizuki[nse]
-"I understand..."[pcms]
+[ns]瑞樹[nse]
+「わかったわよ……」[pcms]
 
 *3434|
 [fc]
-She took out the glasses case from her bag and handed it to[r]
-Jin.[pcms]
+バッグに入れたメガネケースを取り出し、ジンに渡す。[pcms]
 
 *3435|
 [fc]
-Jin, while glaring at me, opened the case to check its[r]
-contents, then twisted it into his pants pocket.[pcms]
+ジンはあたしを睨みながら、ケースを開いて中を確認すると、[r]
+ズボンのポケットにねじ込んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3436|
 [fc]
-[ns]Jin[nse]
-"Take everything out."[pcms]
+[ns]壬[nse]
+「全部出せよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3437|
 [fc]
 [vo_miz s="mizuki0136"]
-[ns]Mizuki[nse]
-"There's nothing left..."[pcms]
+[ns]瑞樹[nse]
+「もう、ないよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3438|
 [fc]
-[ns]Jin[nse]
-"Come here. Don't move."[pcms]
+[ns]壬[nse]
+「こっちに来い。そのまま動くな」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3439|
 [fc]
 [vo_miz s="mizuki0137"]
-[ns]Mizuki[nse]
-"Eh...?"[pcms]
+[ns]瑞樹[nse]
+「え……」[pcms]
 
 *3440|
 [fc]
-Jin pulled me close and slid his hand inside my skirt... no,[r]
-into my panties.[pcms]
+ジンはあたしを抱き寄せ、スカートの中……いや、[r]
+パンツの中に手を滑り込ませた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3441|
 [fc]
 [vo_miz s="mizuki0138"]
-[ns]Mizuki[nse]
-"Wha... What are you doing all of a sudden!? Nnh..."[pcms]
+[ns]瑞樹[nse]
+「なっ……急に何！？　んぅっ……」[pcms]
 ;//＠股間をまさぐられている
 
 *3442|
 [fc]
-Jin's fingers, as if they were a separate creature, invaded[r]
-my "down there" and moved around inside.[pcms]
+ジンの指は、まるで別の生き物みたいに、あたしの“アソコ”へと[r]
+進入し、中を動き回る。[pcms]
 
 *3443|
 [fc]
-Suddenly embraced and penetrated by his fingers, my pussy[r]
-became surprisingly quickly moist, independent of my will.[pcms]
+急に抱きつかれ、指まで入れられたあたしのオマンコは[r]
+自分の意志に関係なく、驚くほど早く、少しの湿り気を帯びた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3444|
 [fc]
 [vo_miz s="mizuki0139"]
-[ns]Mizuki[nse]
-"Nnn... it hurts... it hurts! What are you doing..."[pcms]
+[ns]瑞樹[nse]
+「んんっ……痛いっ……痛いよ！[r]
+　何するのよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3445|
 [fc]
-[ns]Jin[nse]
-"You're not hiding anything inside."[pcms]
+[ns]壬[nse]
+「中には隠してないな」[pcms]
 
 *3446|
 [fc]
-Having confirmed that there was nothing inside my vagina,[r]
-Jin roughly pulled out his fingers, now wet with my fluids,[r]
-and brought them in front of my face.[pcms]
+膣内に何もない事を確認したジンは、乱暴に指を引き抜くと、[r]
+あたしの体液で湿った指を顔の前に持ってくる。[pcms]
 
 *3447|
 [fc]
-Reflexively, my tongue reached out towards the dampness.[pcms]
+条件反射的に、その湿り目がけ舌が伸びる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3448|
 [fc]
 [vo_miz s="mizuki0140"]
-[ns]Mizuki[nse]
-"Nnh... nmbh..."[pcms]
+[ns]瑞樹[nse]
+「んぅっ……んぶっ……」[pcms]
 
 *3449|
 [fc]
-What am I doing...?[pcms]
+何してるんだろう、あたし……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3450|
 [fc]
-[ns]Jin[nse]
-"I did this because I'm worried about you. For now, you're[r]
-not carrying anything else."[pcms]
+[ns]壬[nse]
+「お前を心配してのことだ。とりあえず、もう持ってないな」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3451|
 [fc]
 [vo_miz s="mizuki0141"]
-[ns]Mizuki[nse]
-"...Yeah."[pcms]
+[ns]瑞樹[nse]
+「…………うん」[pcms]
 
 *3452|
 [fc]
-Caught off guard by the sudden event, I felt a flush on my[r]
-cheeks and couldn't look Jin in the eye, replying with my[r]
-head down.[pcms]
+突然の事に、頬に火照りを覚えたあたしは、[r]
+ジンをまともに見ることができず、うつむいたまま返事をした。[pcms]
 
 *3453|
 [fc]
-Me, staring down at the floor and Jin's feet.[pcms]
+床とジンの足先をみつめたままのあたし。[pcms]
 
 *3454|
 [fc]
-But...[pcms]
+だけど……。[pcms]
 
 *3455|
 [fc]
-I still have it hidden in the shower room. That's something[r]
-I absolutely can't tell Jin.[pcms]
+まだシャワールームに隠してある。[r]
+あれは、ジンには絶対に言えない。[pcms]
 
 *3456|
 [fc]
-I apologize to Jin in my heart.[pcms]
+あたしは心の中で、ジンに謝る。[pcms]
 
 *3457|
 [fc]
-I'm sorry, Jin. I can't do without that...[pcms]
+ごめんなさい、ジン。[r]
+あたしは、アレがないと駄目……。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

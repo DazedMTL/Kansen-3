@@ -23,63 +23,60 @@
 
 *1533|
 [fc]
-"If we stay inside the school, we'll eventually run out of[r]
-places to escape and just get cornered."[pcms]
+学園内にいたらいずれ逃げ場がなくなって[r]
+追いつめられるだけ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1534|
 [fc]
 [vo_yuh s="yuho0363"]
-[ns]Yuuho[nse]
-"Let's escape outside the school. It's dangerous to stay[r]
-here."[pcms]
+[ns]悠帆[nse]
+「学園の外へ逃げようよ。[r]
+　ここにいたら危ないよ」[pcms]
 
 *1535|
 [fc]
 [vo_mob s="buinA0017"]
-[ns]Club Member A[nse]
-"Yeah... let's go outside and find a safe place to take[r]
-refuge."[pcms]
+[ns]部員Ａ[nse]
+「うん……外へ行って安全な所に避難しよう」[pcms]
 
 *1536|
 [fc]
-Deciding that, my friend and I started running towards the[r]
-emergency exit by the gymnasium, which led to the school[r]
-grounds.[pcms]
+わたしと友達はそう決断すると、体育館の横にある[r]
+グラウンド側の非常口を目指して走り出した。[pcms]
 
 *1537|
 [fc]
-But with screams, I saw many students running from that[r]
-direction into the school.[pcms]
+でも、悲鳴とともにそっちから、多くの学生達が[r]
+学園内へと走りこんでくるのが見えた。[pcms]
 
 *1538|
 [fc]
 [vo_mob s="buinA0018"]
-[ns]Club Member A[nse]
-"It's no good. They're coming from this way too."[pcms]
+[ns]部員Ａ[nse]
+「ダメだわ。こっちからも来てるみたい」[pcms]
 
 *1539|
 [fc]
-In no time, we were swallowed up by the people trying to[r]
-escape into the school, and we were pushed back.[pcms]
+あっというまに学園内へと逃げようとする人たちに[r]
+飲み込まれて、わたしたちは押し戻されてしまった。[pcms]
 
 *1540|
 [fc]
-Moreover, behind the students who had fled, there were[r]
-indeed many of those strange figures.[pcms]
+しかも逃げて来た学生達の後ろには、[r]
+やっぱりあの異様な人影が沢山いた。[pcms]
 
 [evcg storage="evs001"][trans_c cross time=300]
 
 *1541|
 [fc]
-It would only be dangerous to force our way through the[r]
-crowd.[pcms]
+無理に人混みをかき分けて進んでも、危険なだけだろう。[pcms]
 
 *1542|
 [fc]
-In the end, our plan to escape outside quickly fell through,[r]
-and we were simply swept away by the crowd.[pcms]
+結局外へと逃げるという計画はたちまち頓挫して、[r]
+わたしたちはなすがままに押し流されるだけとなった。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

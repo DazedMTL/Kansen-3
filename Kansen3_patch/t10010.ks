@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：時間：５日目（８月１９日）昼
+;//・時間帯：時間：５日目（８月１９日）昼～
 ;//
 ;//※ライター様へ。
 ;//　このブロックはいわゆる日常シーンですが、
@@ -31,27 +31,26 @@
 
 *5536|
 [fc]
-[ns]Wataru[nse]
-"...Well, it's fine."[pcms]
+[ns]航[nse]
+「……ま、いっか」[pcms]
 
 ;mm もしくはここか
 [bg storage="BG020a"][trans_c cross time=500]
 
 *5537|
 [fc]
-The 5th floor is the manga cafe 'Arcadia' where we've been[r]
-staying.[pcms]
+５Ｆはボクらが寝泊まりしている漫画喫茶「アルカアディア」。[pcms]
 
 *5538|
 [fc]
-We're pretty familiar with the inside and since we'll be[r]
-spending a lot of time here from now on, there's probably no[r]
-need to check it out again.[pcms]
+だいたい中の様子は分かっているし[r]
+これから先、ずっと過ごすことになる場所だから[r]
+特に確認する必要もないだろう。[pcms]
 
 *5539|
 [fc]
-Everyone else seemed to agree, so we decided to skip the 5th[r]
-floor and head to the 4th floor.[pcms]
+みんなも同じような意見だったので、[r]
+ボクらは５Ｆをパスして４Ｆに向かうことにした。[pcms]
 
 ;//→block:T10031
 [jump storage="T10031.ks" target=*T10031_TOP]

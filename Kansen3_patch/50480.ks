@@ -20,506 +20,519 @@
 
 *2529|
 [fc]
-[ns]Kousuke[nse]
-"Well, I have to thank that guy Jin for Mizuki being safe...[r]
-Annoying as it is."[pcms]
+[ns]浩助[nse]
+「ま、瑞樹が無事でいてくれたことについては[r]
+　あのジンてヤツに感謝しないとな。[r]
+　……むかつくけど」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2530|
 [fc]
-He added the last part in a mutter, as if spitting it out.[pcms]
+最後のひとことだけはボソッと吐き出すように付け足した。[pcms]
 
 *2531|
 [fc]
-He really doesn't like Jin... But I think it's about time he[r]
-stopped.[pcms]
+よっぽど壬のこと、気に入らないんだな……。[r]
+でも、そろそろ止めたほうがいいのに、とボクは思う。[pcms]
 
 *2532|
 [fc]
-Kousuke himself is seriously picking fights, but from an[r]
-outsider's perspective, it just looks like Jin, the adult,[r]
-is easily brushing him off.[pcms]
+コースケ自身は本気でケンカを売りまくってるけど、[r]
+はたから見てると大人の壬に、[r]
+軽くあしらわれてるようにしか見えないんだよね。[pcms]
 
 *2533|
 [fc]
-But... for Kousuke, who loves Mizuki, he has to compete even[r]
-with an opponent he can't beat. Men are pitiful...[pcms]
+ただ……、瑞樹を好きなコースケにしてみれば[r]
+敵わない相手にだって、張り合わなきゃいけないわけで。[r]
+男って哀しい……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2534|
 [fc]
-[ns]Kousuke[nse]
-"But well, now that I can see Mizuki again..."[pcms]
+[ns]浩助[nse]
+「んでもまあ、こうやってまた瑞樹に会えたわけだし」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2535|
 [fc]
-[ns]Kousuke[nse]
-"Ever since we ran away from school, we've been totally[r]
-relying on Maruko- senpai, but Mizuki... from now on, I'll[r]
-protect her!"[pcms]
+[ns]浩助[nse]
+「ガッコー逃げ出してからこっち、[r]
+　オレら、ずーっとマル子先輩に頼りっぱなしだったけどさ、[r]
+　瑞樹だけは……これからはオレが守ってみせる！」[pcms]
 
 *2536|
 [fc]
-"Mizuki alone"... Behind those words, there must be feelings[r]
-for the many people he couldn't save. I feel the same...[pcms]
+瑞樹『だけ』は……。その言葉の裏には、きっと[r]
+救えなかった沢山の人への想いが隠れてる。[r]
+それはボクも同じだ……。[pcms]
 
 *2537|
 [fc]
-[ns]Wataru[nse]
-"Let's do our best, both of us. I have to protect Ren until[r]
-I can safely reunite her with dad. I promised Tadahiko too,[r]
-right?"[pcms]
+[ns]航[nse]
+「がんばろーよ、お互い。[r]
+　ボクも無事に父さんに会わせるまで漣のこと守らないと。[r]
+　彦ちんにも約束したし、ね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2538|
 [fc]
-[ns]Kousuke[nse]
-"Yeah!"[pcms]
+[ns]浩助[nse]
+「おう！」[pcms]
 
 *2539|
 [fc]
-Kousuke cheerfully hums a tune while vigorously lathering up[r]
-the detergent.[pcms]
+コースケは機嫌よく鼻歌なんかを口ずさみながら[r]
+勢いよく洗剤を泡立てる。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2540|
 [fc]
-I can't just relax either, I need to finish cleaning up[r]
-quickly...[pcms]
+ボクも、のんびりしてないで、早く片付けないと……。[pcms]
 
 *2541|
 [fc]
-[ns]Wataru[nse]
-"Ah..."[pcms]
+[ns]航[nse]
+「あ……」[pcms]
 
 *2542|
 [fc]
-The dish I happened to pick up... It was Yuuho's lunch box.[pcms]
+偶然手に取った洗い物……。[r]
+それは悠帆の弁当箱だった。[pcms]
 
 *2543|
 [fc]
-Yuuho...[pcms]
+悠帆……。[pcms]
 
 *2544|
 [fc]
-That's right... I want to protect not just Ren, but also[r]
-Yuuho.[pcms]
+そうだ……、漣のこともだけど、悠帆のことも守りたい。[pcms]
 
 *2545|
 [fc]
-Yuuho acts cheerfully, but she must be suffering not knowing[r]
-the safety of her loved ones.[pcms]
+悠帆は明るくふるまってるけど、[r]
+親しい人たちの安否が分からないんだから[r]
+辛い思いをしてないはずが、ない。[pcms]
 
 *2546|
 [fc]
-I can't do much, but I want to support Yuuho by her side...[r]
-To ease her anxiety and sadness even a little...[pcms]
+何もできないボクだけど、[r]
+悠帆を、そばで支えてあげたい……。[r]
+不安や悲しみを、少しでも和らげてあげたい……。[pcms]
 
 *2547|
 [fc]
-Yuuho's parents... The cheerful and kind owners of Kannagi-[r]
-ken are probably... no longer alive.[pcms]
+悠帆の両親……、[r]
+あの明るくて優しかった、かんなぎ軒のおじさんとおばさんも、[r]
+多分、もう……亡くなってる。[pcms]
 
 *2548|
 [fc]
-And Oshima-senpai too...[pcms]
+それに大嶋先輩も……。[pcms]
 
 *2549|
 [fc]
-I wonder if Oshima-senpai and Yuuho were dating... From the[r]
-atmosphere on the night of the festival... probably... Or[r]
-maybe not...?[pcms]
+大嶋先輩と悠帆、付き合ってたのかな……。[r]
+祭りの夜の感じからすると……やっぱり……。[r]
+それとも……？[pcms]
 
 *2550|
 [fc]
-Ahhh, I remembered it again... I feel so pathetic...[pcms]
+うわあああ、また思い出してしまった……。[r]
+自分が情けない……。[pcms]
 
 *2551|
 [fc]
-I just thought about supporting Yuuho. I'm the only one who[r]
-can encourage and protect her. Why am I still hung up on[r]
-Oshima-senpai...[pcms]
+たった今、悠帆を支えてあげたいって思ったばかりなのに。[r]
+悠帆を励まして、守ってあげられるのはボクだけなのに。[r]
+いつまで大嶋先輩とのことに、こだわってるんだよ……。[pcms]
 
 *2552|
 [fc]
-Maybe it's because I'm so effeminate that Tadahiko saw right[r]
-through me and told me to "get psyched up"...[pcms]
+こういう女々しいボクだから、彦ちんにも見抜かれて、[r]
+「気合いれろ」って言われちゃったのかもしれないな……。[pcms]
 
 *2553|
 [fc]
-Right... I need to get psyched up. What matters isn't about[r]
-me. It's whether or not I can protect the girl I like.[pcms]
+そう……気合いれなくちゃ。[r]
+大事なのは、ボクがどうっていうことじゃない。[r]
+好きな子を守れるかどうか、だ。[pcms]
 
 *2554|
 [fc]
-Even if she doesn't look back at me... A man who is psyched[r]
-up protects the girl he loves with his life. Tadahiko would[r]
-definitely say that...[pcms]
+たとえ振り向いてもらえなくたって……、[r]
+惚れた女の子を命がけで守るのが「気合いの入った男」だ。[r]
+彦ちんだって、きっとそう言うに決まってる……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2555|
 [fc]
 [vo_yuh s="yuho1599"]
-[ns]Yuuho[nse]
-"Good work everyone~"[pcms]
+[ns]悠帆[nse]
+「おっつかれさーん」[pcms]
 
 *2556|
 [fc]
-[ns]Wataru[nse]
-"Yu-Yuuho!?..."[pcms]
+[ns]航[nse]
+「ゆ、悠帆っ！？……」[pcms]
 
 *2557|
 [fc]
-I was so surprised. The very person I was thinking about[r]
-suddenly appeared.[pcms]
+びびびびび、びっくりしたー。[r]
+いきなり考え事の相手そのものが登場するなんて。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2558|
 [fc]
-[ns]Kousuke[nse]
-"You weren't sleeping?"[pcms]
+[ns]浩助[nse]
+「寝てなかったのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2559|
 [fc]
 [vo_yuh s="yuho1600"]
-[ns]Yuuho[nse]
-"Nope, I was going to sleep, but then I thought it'd be bad[r]
-to leave everything to you guys..."[pcms]
+[ns]悠帆[nse]
+「いやー、寝ようと思ったんだけどねー、[r]
+　やっぱ任せっぱなしじゃ悪いかなー、[r]
+　なーんて思っちゃって……」[pcms]
 
 *2560|
 [fc]
-While saying this with a shy look, Yuuho glances at my face.[pcms]
+照れくさそうに言いながら、悠帆はちらっとボクの顔を見る。[pcms]
 
 *2561|
 [fc]
-[ns]Wataru[nse]
-"Eh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2562|
 [fc]
-[ns]Kousuke[nse]
-"...I see..."[pcms]
+[ns]浩助[nse]
+「…………なる……」[pcms]
 
 *2563|
 [fc]
-Suddenly, Kousuke threw the sponge into the sink.[pcms]
+突然コースケは、スポンジを流しに放り出した。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2564|
 [fc]
-[ns]Kousuke[nse]
-"Nope, Yuuho, that's a good attitude. Since I've clearly[r]
-finished my part, why don't you help Wataru out?"[pcms]
+[ns]浩助[nse]
+「いやー、悠帆、いい心がけだなー。[r]
+　オレの担当分は、きっぱり終了してっから、[r]
+　ワタルの手伝い、してやってくれや」[pcms]
 
 *2565|
 [fc]
-[ns]Wataru[nse]
-"Wait... Kousuke!? When did we decide on parts?!"[pcms]
+[ns]航[nse]
+「ちょっ……コースケ！？[r]
+　担当なんて、いつ決めたんだよっ！」[pcms]
 
 *2566|
 [fc]
-[ns]Kousuke[nse]
-"Nope, you worked hard, hahaha"[pcms]
+[ns]浩助[nse]
+「いやー、よく働いたなー、はっはっは」[pcms]
 
 *2567|
 [fc]
-My protest was ignored as Kousuke walked away waving his[r]
-hand flippantly and then stopped for a moment with a sly[r]
-smile.[pcms]
+ボクの抗議もどこ吹く風。[r]
+ひらひらと手を振りながら歩き出したコースケは、[r]
+一瞬立ち止まるなり、ニヤリと笑った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2568|
 [fc]
-[ns]Kousuke[nse]
-"Wataru... get psyched up, okay?"[pcms]
+[ns]浩助[nse]
+「ワタル……気合い入れろよ？」[pcms]
 
 *2569|
 [fc]
-[ns]Wataru[nse]
-"Eh!?"[pcms]
+[ns]航[nse]
+「えっ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2570|
 [fc]
-[ns]Kousuke[nse]
-"See ya."[pcms]
+[ns]浩助[nse]
+「じゃあなー」[pcms]
 
 *2571|
 [fc]
-Without waiting for a reply, he quickly left the kitchen.[pcms]
+返事をする間もなく、そのままさっさと[r]
+キッチンを出ていってしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2572|
 [fc]
 [vo_yuh s="yuho1601"]
-[ns]Yuuho[nse]
-"...Um..."[pcms]
+[ns]悠帆[nse]
+「…………えっと……」[pcms]
 
 *2573|
 [fc]
-Left behind were just Yuuho and me, alone together...[pcms]
+残されたのは悠帆とボク、二人きり……。[pcms]
 
 *2574|
 [fc]
-[ns]Wataru[nse]
-"...Ah, yeah..."[pcms]
+[ns]航[nse]
+「……あ、うん…………」[pcms]
 
 *2575|
 [fc]
-Unable to find a way to start a conversation, once again[r]
-only the sound of water filled the silent kitchen.[pcms]
+なんとなく話のきっかけが見つからないまま、[r]
+またしてもキッチンに水音だけが響く沈黙状態になってしまう。[pcms]
 
 *2576|
 [fc]
-Yuuho usually starts a conversation somehow but seems[r]
-unusually tongue-tied...[pcms]
+いつもなら何だかんだで話しかけてくれる悠帆も[r]
+妙に口ごもってるみたいだし……。[pcms]
 
 *2577|
 [fc]
-I glanced at Yuuho for a moment.[pcms]
+ボクはちらっと悠帆に視線を向ける。[pcms]
 
 *2578|
 [fc]
-Seeing Yuuho up close in her tank top and hot pants...[pcms]
+間近で見る悠帆のタンクトップにホットパンツ……。[pcms]
 
 *2579|
 [fc]
-When I look at it like this, hot pants are...erotic. They[r]
-cling tightly to the body, highlighting the roundness of the[r]
-lower belly and the flesh of the thighs...[pcms]
+こうして改めて見ると、ホットパンツって……エロい。[r]
+ギュッと身体に密着してる分、下腹の丸みとか太腿の肉とか、[r]
+ばっちり浮き上がってしまって……。[pcms]
 
 *2580|
 [fc]
-It's strange, I've seen Yuuho in a swimsuit occasionally,[r]
-and I think that shows more skin. I don't remember feeling[r]
-this excited...?[pcms]
+ヘンだな、悠帆の水着姿なら、たまに見かけるし、[r]
+あっちの方が露出が多いと思うんだけど。[r]
+ここまでドキドキすることはなかったような……？[pcms]
 
 *2581|
 [fc]
-Ah, but... I've never been alone indoors with Yuuho in a[r]
-swimsuit before... so when I think about it, both situations[r]
-are erotic?[pcms]
+ああ、でも……[r]
+水着の悠帆と室内で二人きり、なんていうシチュエーションは[r]
+今までなかったわけで……、そう考えるとどっちもエロい？[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2582|
 [fc]
 [vo_yuh s="yuho1602"]
-[ns]Yuuho[nse]
-"What's with Kousuke, I wonder?"[pcms]
+[ns]悠帆[nse]
+「こ、コースケのやつ、何だろね？」[pcms]
 
 *2583|
 [fc]
-Yuuho suddenly spoke up, causing me to hurriedly look away.[pcms]
+急に悠帆が口を開いたので、ボクは慌てて目を逸らす。[pcms]
 
 *2584|
 [fc]
-No, no, no, if I keep thinking about erotic things... I'll[r]
-get caught again. I need to have a normal conversation. Just[r]
-normally... normally...[pcms]
+い、いかんいかん、エロいこと考えてたら……、またバレる。[r]
+普通に会話しないと。普通に……普通に……。[pcms]
 
 *2585|
 [fc]
-[ns]Wataru[nse]
-"Yeah, maybe Kousuke is..."[pcms]
+[ns]航[nse]
+「そ、そうだね。多分、コースケは……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2586|
 [fc]
 [vo_yuh s="yuho1603"]
-[ns]Yuuho[nse]
-"Wait!"[pcms]
+[ns]悠帆[nse]
+「待った！」[pcms]
 
 *2587|
 [fc]
-The moment I tried to answer, Yuuho quickly turned back[r]
-towards the entrance.[pcms]
+答えようとした瞬間、悠帆はサッと出入り口の方を振り返る。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h14"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2588|
 [fc]
 [vo_yuh s="yuho1604"]
-[ns]Yuuho[nse]
-"...Don't eavesdrop, okay?"[pcms]
+[ns]悠帆[nse]
+「……立ち聞きすんなよ？」[pcms]
 
 *2589|
 [fc]
-What? What was that just now? It doesn't seem like she's[r]
-talking to me...?[pcms]
+え？　今の、何？[r]
+ボクに言ってるんじゃなさそうだけど……？[pcms]
 
 *2590|
 [fc]
-After a brief pause...[pcms]
+しばしの間があった後。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2591|
 [fc]
-[ns]Kousuke[nse]
-"S-sorry..."[pcms]
+[ns]浩助[nse]
+「す、すんません……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2592|
 [fc]
-I could hear Kousuke's faint voice.[pcms]
+コースケの小さな声が聞こえた。[pcms]
 
 *2593|
 [fc]
-[ns]Wataru[nse]
-"...You were there, huh."[pcms]
+[ns]航[nse]
+「…………いたんだ、そこに」[pcms]
 
 *2594|
 [fc]
-Really, what is he thinking!?[pcms]
+まったく、どういうつもりだろう！？[pcms]
 
 *2595|
 [fc]
-After searching for a presence for a while, Yuuho turned[r]
-back to me and started to speak, "You know..."[pcms]
+しばらく耳を済ませて気配を探っていた悠帆は、[r]
+ボクに向き直ると「あのね……」と口を開いた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2596|
 [fc]
 [vo_yuh s="yuho1605"]
-[ns]Yuuho[nse]
-"...The reason I came back is... not just because I couldn't[r]
-sleep..."[pcms]
+[ns]悠帆[nse]
+「……戻ってきちゃったのは、[r]
+　眠れなかったっていうのも、あるんだけど……」[pcms]
 
 *2597|
 [fc]
-She cut off her words there and hesitated with her gaze[r]
-lowered.[pcms]
+そこで言葉を切り、視線を落としてためらっている。[pcms]
 
 *2598|
 [fc]
-...Come to think of it, I feel like I've seen Yuuho like[r]
-this before... Like she has something she wants to say but[r]
-can't quite get it out.[pcms]
+……そういえば、さっきも悠帆のこんな姿を[r]
+見たような気がする……。[r]
+言いたいことがあるけれど、言い出せないというような。[pcms]
 
 *2599|
 [fc]
-It's unusual for the straightforward Yuuho... Could it be[r]
-that she finds it very difficult to say? Did I... do[r]
-something wrong...!?[pcms]
+さっぱりした性格の悠帆にしては珍しいけど……、[r]
+もしかして、それってかなり言いにくいこと？[r]
+な……何か、ボク、まずいことしたっけ…………！？[pcms]
 
 *2600|
 [fc]
-As time passed, I began to sweat nervously until finally[r]
-Yuuho looked at me.[pcms]
+時間が経つにつれて冷や汗を流し始めたボクに、[r]
+ようやく悠帆は視線を向けた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2601|
 [fc]
 [vo_yuh s="yuho1606"]
-[ns]Yuuho[nse]
-"I haven't properly thanked you yet. ...Thank you for coming[r]
-to help."[pcms]
+[ns]悠帆[nse]
+「航に、まだちゃんとお礼言ってなかったから。[r]
+　……助けに来てくれて、ありがとう」[pcms]
 
 *2602|
 [fc]
-[ns]Wataru[nse]
-"Eh...?"[pcms]
+[ns]航[nse]
+「え……？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2603|
 [fc]
-Yuuho's eyes were steady, looking straight at me.[pcms]
+悠帆の目は揺らぐことなく、まっすぐにボクを見つめている。[pcms]
 
 *2604|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆…………」[pcms]
 
 *2605|
 [fc]
-Yuuho is thanking me... She recognizes and appreciates me...[pcms]
+悠帆がボクに、ありがとうって……。[r]
+ボクのこと、認めてくれて、感謝してくれてる……。[pcms]
 
 *2606|
 [fc]
-The realization slowly filled my chest and made me ecstatic.[pcms]
+そのことがじわじわと胸一杯に広がって[r]
+ボクをすっかり有頂天にする。[pcms]
 
 *2607|
 [fc]
-[ns]Wataru[nse]
-"Ah, of course! After all, you're my childhood friend. It's[r]
-kind of formal and awkward to say thanks now, isn't it?"[pcms]
+[ns]航[nse]
+「あ、当たり前だろ？[r]
+　なんたって、ボクの幼なじみなんだし、[r]
+　今さらそんな……他人行儀っていうか、水くさいよ？」[pcms]
 
 *2608|
 [fc]
-[ns]Wataru[nse]
-"Besides, it wasn't just my effort. If it weren't for[r]
-Maruko-senpai, we wouldn't have made it this far."[pcms]
+[ns]航[nse]
+「それに、ボクの力だけじゃないよ。[r]
+　マル子先輩がいなかったら[r]
+　ここまで来られなかったしね」[pcms]
 
 *2609|
 [fc]
-I felt embarrassed and flustered, so I started making up[r]
-various reasons and humbly muttered.[pcms]
+なんだか照れて、ドギマギしてしまって、[r]
+ボクはいろいろ理由をあげて、もごもごと謙遜する。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2610|
 [fc]
 [vo_yuh s="yuho1607"]
-[ns]Yuuho[nse]
-"Even so... I was happy. That's why, thank..."[pcms]
+[ns]悠帆[nse]
+「それでも……だよ。[r]
+　嬉しかったんだ、わたし。だから、あり……」[pcms]
 ;//＠ありがとうと言いかける
 
 *2611|
 [fc]
-[ns]Wataru[nse]
-"It's okay, you've already thanked me. You said it back then[r]
-too..."[pcms]
+[ns]航[nse]
+「いいよいいよ、お礼ならもう。[r]
+　あの時だって、言ってくれたし……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2612|
 [fc]
 [vo_yuh s="yuho1608"]
-[ns]Yuuho[nse]
-"Back then... ah..."[pcms]
+[ns]悠帆[nse]
+「あの時って…………あっ……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2613|
 [fc]
-Yuuho's cheeks turned a sudden shade of red.[pcms]
+悠帆の頬がさぁっと赤くなった。[pcms]
 
 [evcg storage="EV011g"][trans_c cross time=300]
 
 *2614|
 [fc]
-Yes, that time...[pcms]
+そう、あの時……。[pcms]
 
 *2615|
 [fc]
-After rescuing Yuuho, we ended up hugging each other... Her[r]
-soft body, her racing heartbeat, and Yuuho's scent...[pcms]
+悠帆を助けたあと、思わず抱き合って……。[r]
+柔らかな身体、どきどきしてた心臓、そして悠帆の香り……。[pcms]
 
 [bg storage="BG022"][trans_c cross time=500]
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -527,16 +540,17 @@ soft body, her racing heartbeat, and Yuuho's scent...[pcms]
 *2616|
 [fc]
 [vo_yuh s="yuho1609"]
-[ns]Yuuho[nse]
-"I... Back then... On the roof, surrounded by those guys...[r]
-I thought it was over for me, but I was thinking of[r]
-Wataru..."[pcms]
+[ns]悠帆[nse]
+「わたし……。あの時……。[r]
+　屋根の上で、あいつらに囲まれて……。[r]
+　もうダメかもって思いながら、航のこと、考えてた……」[pcms]
 
 *2617|
 [fc]
 [vo_yuh s="yuho1610"]
-[ns]Yuuho[nse]
-"And then you really came for me... I was so... happy..."[pcms]
+[ns]悠帆[nse]
+「そしたら、本当に来てくれて……。[r]
+　すごく……嬉しかった……」[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -554,23 +568,25 @@ Wataru..."[pcms]
 *2618|
 [fc]
 [vo_yuh s="yuho1611"]
-[ns]Yuuho[nse]
-"You looked so manly at that time... no, that's not right.[r]
-You were very cool?"[pcms]
+[ns]悠帆[nse]
+「あの時の航……、[r]
+　いつもより男っぽいっていうか……ううん。[r]
+　とっても格好良かったよ？」[pcms]
 
 *2619|
 [fc]
-Despite her flushed face, Yuuho smiled at me.[pcms]
+真っ赤になりながらも悠帆は微笑みかけてくれた。[pcms]
 
 *2620|
 [fc]
-[ns]Wataru[nse]
-"...Is that so..."[pcms]
+[ns]航[nse]
+「…………そ……そっか…………」[pcms]
 
 *2621|
 [fc]
-I felt so proud and happy that I thought I might die... I[r]
-was left speechless by her words.[pcms]
+そんな風に言われると……、[r]
+もう誇らしくて嬉しくて。死にそうだ……。[r]
+ボクは何も言えなくなってしまう。[pcms]
 
 ;//→ラベル　合流へ
 [jump storage="50480.ks" target=*50480_03]
@@ -584,22 +600,23 @@ was left speechless by her words.[pcms]
 *2622|
 [fc]
 [vo_yuh s="yuho1612"]
-[ns]Yuuho[nse]
-"...So thank you."[pcms]
+[ns]悠帆[nse]
+「……だから、ありがとう」[pcms]
 
 *2623|
 [fc]
-Once again she expressed her gratitude with a smile.[pcms]
+もう一度感謝の言葉を口にして、悠帆は微笑みかけてくれた。[pcms]
 
 *2624|
 [fc]
-[ns]Wataru[nse]
-"...Yeah..."[pcms]
+[ns]航[nse]
+「……うん……」[pcms]
 
 *2625|
 [fc]
-I wasn't really the one who saved her. But being told that[r]
-made me feel proud and happy. I was left speechless again.[pcms]
+本当はボクが助けたわけじゃないけれど。[r]
+そんな風に言われると、やっぱり誇らしくて嬉しくて。[r]
+ボクは何も言えなくなってしまう。[pcms]
 
 ;//→ラベル　合流へ
 [jump storage="50480.ks" target=*50480_03]
@@ -611,28 +628,28 @@ made me feel proud and happy. I was left speechless again.[pcms]
 *2626|
 [fc]
 [vo_yuh s="yuho1613"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 ;//＠弾みそうな息をおさえる感じ
 
 *2627|
 [fc]
-Yuuho continued to smile as she gazed at me intently. Her[r]
-moist eyes held a soft light as they focused on me.[pcms]
+悠帆は微笑んだまま、じっとボクを見つめている。[r]
+潤んだ瞳が、柔らかい光をたたえて、ボクに向けられている。[pcms]
 
 *2628|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *2629|
 [fc]
-I also gaze back at Yuuho.[pcms]
+ボクも悠帆を見つめ返す。[pcms]
 
 *2630|
 [fc]
-Drawn in by her clear eyes as if being pulled closer, I[r]
-eventually start walking towards her slowly.[pcms]
+吸い込まれそうな澄んだ瞳に、引き寄せられるように……、[r]
+やがてゆっくりと歩み寄っていく。[pcms]
 
 ;mm 逆移植時のメモ　拡大属性は使えないので画像のほうを拡大した。ｚ属性はそのまま残しておく
 ;mm 一応元差分のフラグを手動でオンに
@@ -641,91 +658,93 @@ eventually start walking towards her slowly.[pcms]
 *2631|
 [fc]
 [vo_yuh s="yuho1614"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「…………………………」[pcms]
 ;//＠期待が高まる
 
 *2632|
 [fc]
-I place my hand on Yuuho's shoulder. While maintaining eye[r]
-contact, I lean in to get a closer look. My reflection is[r]
-visible in Yuuho's eyes, which are intently fixed on me.[pcms]
+悠帆の肩に手をかける。[r]
+視線を合わせたまま、顔を覗きこむようにする。[r]
+じっと見つめる悠帆の目の中に、ボクの姿が映ってる。[pcms]
 
 *2633|
 [fc]
-Right now, in Yuuho's eyes, it's me... Yuuho is looking at[r]
-me. Only at me...[pcms]
+今、悠帆の目の中にいるのは、ボク……。[r]
+悠帆がボクを。ボクだけを見てくれている……。[pcms]
 
 *2634|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………………………」[pcms]
 
 *2635|
 [fc]
-I take another step forward, unsteadily. The distance[r]
-between us closes. And then... another step.[pcms]
+ふらふらとまた一歩、前に進む。[r]
+ふたりの距離が縮まっていく。[r]
+そして……また一歩。[pcms]
 
 *2636|
 [fc]
-I thought she might reject me, but Yuuho doesn't stiffen up[r]
-or show any signs of wanting to back away.[pcms]
+拒絶されるかと思ったけど、[r]
+悠帆は身体を固くしたり、退こうとする気配はない。[pcms]
 
 *2637|
 [fc]
-With the final step, my body finally touches Yuuho's...[pcms]
+最後の一歩を踏み出して、[r]
+とうとうボクの身体が悠帆に触れた……。[pcms]
 
 *2638|
 [fc]
 [vo_yuh s="yuho1615"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「……………………………………」[pcms]
 ;//＠もうすぐキス、と、ドキドキ。
 
 *2639|
 [fc]
-Even if she doesn't look back at me... protecting the girl I[r]
-love with all my life is what a passionate man does. That's[r]
-a man's joy...[pcms]
+たとえ振り向いてもらえなくたって……、[r]
+惚れた女の子を命がけで守るのが、気合いの入った男……。[r]
+それが、男の喜び……。[pcms]
 
 *2640|
 [fc]
-But what if... she does look back?[pcms]
+でも、もし……振り向いてもらえたら？[pcms]
 
 *2641|
 [fc]
-What if it's about protecting a girl who gazes back at you?[pcms]
+自分を見つめてくれる女の子を守るんだとしたら？[pcms]
 
 *2642|
 [fc]
-Isn't that... the highest level of a man's joy?[pcms]
+それって……男の喜びとしては最上級……？[pcms]
 
 *2643|
 [fc]
-[ns]Wataru[nse]
-"...Yu, Yuuho..."[pcms]
+[ns]航[nse]
+「……ゆ、悠帆……」[pcms]
 
 *2644|
 [fc]
-With trembling hands, I pull Yuuho's shoulder closer.[r]
-Without resisting, her body leans against mine. It's supple,[r]
-warm, and the dear weight is conveyed to me.[pcms]
+震える手で悠帆の肩を引き寄せる。[r]
+抵抗することもなく、悠帆の身体がボクにもたれかかる。[r]
+しなやかで温かくて、愛しい重みが伝わる。[pcms]
 
 [eval exp="sf.EV013d = 1"][evcg storage="EV013d_L" x=-52 z=112][trans_c cross time=300]
 
 *2645|
 [fc]
-Yuuho's cute face comes closer in front of me. The eyes that[r]
-were fixed on me suddenly look down.[pcms]
+目の前に、悠帆の可愛い顔が近付く。[r]
+ボクに向けられていた目が、ふっと伏せられる。[pcms]
 
 *2646|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆……………………」[pcms]
 
 *2647|
 [fc]
-I tilt my face while drawing closer to Yuuho...[pcms]
+ボクは顔を傾けながら、悠帆の方に近付いて…………。[pcms]
 
 ;//〆背景：？？
 ;//@konya ＤＪバー・キッチン　ででっぽうキッチンで代用
@@ -736,92 +755,90 @@ I tilt my face while drawing closer to Yuuho...[pcms]
 
 *2648|
 [fc]
-[ns]Jin[nse]
-"...What are you guys doing?"[pcms]
+[ns]壬[nse]
+「……何してんだ。お前ら」[pcms]
 
 *2649|
 [fc]
-Jin's voice comes from the entrance! At the same time, there[r]
-are surprised voices of both men and women!?[pcms]
+入り口から壬の声が聞こえた！[r]
+同時に何か驚いたような男女の声も！？[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2650|
 [fc]
 [vo_yuh s="yuho1616"]
-[ns]Yuuho[nse]
-"Eh!?"[pcms]
+[ns]悠帆[nse]
+「えっ！？」[pcms]
 
 *2651|
 [fc]
-[ns]Wataru[nse]
-"Wha...!?"[pcms]
+[ns]航[nse]
+「なっ……！？」[pcms]
 
 *2652|
 [fc]
-Yuuho and I instinctively jump apart as if we've been set on[r]
-fire.[pcms]
+思わず悠帆とボクは火がついたような勢いで離れた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2653|
 [fc]
 [vo_yuh s="yuho1617"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「……………………」[pcms]
 
 *2654|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……………………」[pcms]
 
 *2655|
 [fc]
-When I glance over, Yuuho is looking at me too, but as soon[r]
-as our eyes meet, she turns away blushing.[pcms]
+ちらっと視線を向けると、悠帆もボクを見ていたけれど、[r]
+目が合った途端に赤くなってそっぽを向いてしまった。[pcms]
 
 *2656|
 [fc]
-[ns]Wataru[nse]
-"...Uh, well..."[pcms]
+[ns]航[nse]
+「…………あ、あの……」[pcms]
 
 *2657|
 [fc]
-I feel like I need to say something, but the words won't[r]
-come out.[pcms]
+何か言わなくちゃと思うけど、言葉が出ない。[pcms]
 
 *2658|
 [fc]
-This is... awkward...[pcms]
+き…………気まずい……。[pcms]
 
 *2659|
 [fc]
-Where did that magical feeling from before disappear to?[pcms]
+さっきまでの魔法にかかったような感覚は[r]
+どこに消えてしまったんだろう。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2660|
 [fc]
 [vo_yuh s="yuho1618"]
-[ns]Yuuho[nse]
-"...I-I'm going to go."[pcms]
+[ns]悠帆[nse]
+「…………わ、わたし……行くね」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2661|
 [fc]
-With her face still bright red, Yuuho quickly leaves the[r]
-kitchen.[pcms]
+真っ赤な顔のまま、悠帆はつかつかとキッチンを出て行った。[pcms]
 
 *2662|
 [fc]
-[ns]Wataru[nse]
-"Ah... w-wait"[pcms]
+[ns]航[nse]
+「あ……、ま、待って」[pcms]
 
 *2663|
 [fc]
-I immediately follow after her.[pcms]
+ボクもすかさず後を追う。[pcms]
 
 ;//〆メインドーム　夜（間接照明）
 [bg storage="BG019c"][trans_c cross time=500]
@@ -829,187 +846,186 @@ I immediately follow after her.[pcms]
 
 *2664|
 [fc]
-And there at the entrance was indeed Jin.[pcms]
+入り口にいたのは、やっぱり壬だった。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2665|
 [fc]
-[ns]Jin[nse]
-"Hey, have you seen the chocolate? Not the bar kind, but the[r]
-triangular ones that are good for snacking. I thought they'd[r]
-be around here somewhere..."[pcms]
+[ns]壬[nse]
+「なあ、チョコレート、見なかったか？[r]
+　板のヤツじゃなくてさ、ツマミになる三角っぽいヤツ。[r]
+　どっかにあると思うんだがなぁ……」[pcms]
 
 *2666|
 [fc]
-He gestures in the air with his fingertips as if drawing[r]
-something.[pcms]
+こーゆーやつだよ、と指先で宙に描いてみせる。[pcms]
 
 *2667|
 [fc]
-His expression hardly changes, but he seems slightly tipsy[r]
-and his body sways a little.[pcms]
+ほとんど表情は変わらないけれど、ほろ酔いらしくて、[r]
+少しだけ身体が揺れている。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2668|
 [fc]
 [vo_yuh s="yuho1619"]
-[ns]Yuuho[nse]
-"...If it's that, I think it was in the kitchen? In the[r]
-cupboard next to the sink..."[pcms]
+[ns]悠帆[nse]
+「……そ、それなら、キッチンにあったよ？[r]
+　シンクの脇の、戸棚の中……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2669|
 [fc]
-[ns]Jin[nse]
-"Thanks..."[pcms]
+[ns]壬[nse]
+「さんきゅー……」[pcms]
 
 *2670|
 [fc]
-Jin waves at Yuuho and staggers towards the kitchen...[pcms]
+悠帆に手を振った壬はふらふらとキッチンに行きかけて……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2671|
 [fc]
-[ns]Jin[nse]
-"...Next time, call me too, okay?"[pcms]
+[ns]壬[nse]
+「…………今度は、俺にも声かけろよ？」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2672|
 [fc]
-He leaves after saying that.[pcms]
+言い残して去っていった。[pcms]
 
 *2673|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *2674|
 [fc]
-So... Jin is fine but...[pcms]
+で……。壬はいいとして……。[pcms]
 
 [ChrSetEx layer=4 chbase="ren_m12"][ChrSetXY layer=4 x=380 y=0]
 [ChrSetEx layer=3 chbase="kou_d5"][ChrSetXY layer=3 x=-53 y=0][trans_c cross time=150]
 
 *2675|
 [fc]
-[ns]Wataru[nse]
-"Kousuke... Ren...!?"[pcms]
+[ns]航[nse]
+「コースケ……、漣……！？」[pcms]
 
 *2676|
 [fc]
-Why are both of them here? Kousuke was supposed to have left[r]
-after being scolded by Yuuho!?[pcms]
+なんで二人がいるわけ？[r]
+コースケは悠帆に叱られて立ち去ったはずでは！？[pcms]
 
 *2677|
 [fc]
-I'm amazed at Kousuke for staying hidden (and that's quite[r]
-something to tease Yuuho), but why is Ren here too...? What[r]
-are these two doing...?[pcms]
+気配を消して（悠帆をたばかるとは、それも凄い）居続けた[r]
+コースケにも呆れるけど、なんで漣までここに……？[r]
+何やってんだ、この二人……？[pcms]
 
 [ChrSetEx layer=4 chbase="ren_m6"][ChrSetXY layer=4 x=380 y=0][trans_c cross time=150]
 
 *2678|
 [fc]
 [vo_ren s="ren1392"]
-[ns]Ren[nse]
-"Ah, um... I was wondering how big brother was doing and[r]
-just when I came to check, um... Kousuke was..."[pcms]
+[ns]漣[nse]
+「あ、あのね……、お兄ちゃんどうしてるかなって[r]
+　気になって来てみたら、あの……コーちゃんが……」[pcms]
 
 [ChrSetEx layer=3 chbase="kou_d8"][ChrSetXY layer=3 x=-53 y=0][trans_c cross time=150]
 
 *2679|
 [fc]
-[ns]Kousuke[nse]
-"Eh, that's not fair! I was about to go home after being[r]
-scolded, you know? But then Ren-chan glared at me with such[r]
-intense eyes and stopped me..."[pcms]
+[ns]浩助[nse]
+「えーっ、そりゃないよ！？[r]
+　オレ、怒られて帰ろうとしたんだよ？[r]
+　だけど、漣ちゃん、凄い目で睨んで止めるんだもん……」[pcms]
 
 [ChrSetEx layer=4 chbase="ren_m9"][ChrSetXY layer=4 x=380 y=0][trans_c cross time=150]
 
 *2680|
 [fc]
 [vo_ren s="ren1393"]
-[ns]Ren[nse]
-"I-I didn't glare at you!"[pcms]
+[ns]漣[nse]
+「に、睨んだりしてないもん！」[pcms]
 
 *2681|
 [fc]
-Kousuke and Ren are bickering and poking at each other.[r]
-That's not the point, though, the problem is...[pcms]
+コースケと漣は互いに突っつきあいながら揉めている。[r]
+そこじゃないだろう、問題は……。[pcms]
 
 *2682|
 [fc]
-Breaking the awkward silence, Yuuho slowly began to speak.[pcms]
+気まずい沈黙を破って、ゆっくりと悠帆が口を開いた。[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="yuho_h14"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2683|
 [fc]
 [vo_yuh s="yuho1620"]
-[ns]Yuuho[nse]
-"...You two, later on, I have something very! Important! To[r]
-talk about..."[pcms]
+[ns]悠帆[nse]
+「………………ふたりには、あとで、[r]
+　とっても！　大事な！　おはなしがあります……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2684|
 [fc]
-[ns]Kousuke[nse]
-"...Yes. Sorry."[pcms]
+[ns]浩助[nse]
+「…………はい。サーセン」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2685|
 [fc]
 [vo_ren s="ren1394"]
-[ns]Ren[nse]
-"I'm sorry..."[pcms]
+[ns]漣[nse]
+「ごめんなさい……」[pcms]
 
 *2686|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *2687|
 [fc]
-Kousuke and Ren are looking down with embarrassed faces.[pcms]
+コースケと漣は、ばつの悪そうな顔でうつむいている。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2688|
 [fc]
-Somehow... I feel more deflated than angry, like all the[r]
-tension has just fizzled out.[pcms]
+なんかこう……、[r]
+怒りよりも、ヘニャヘニャの脱力感に見舞われた。[pcms]
 
 *2689|
 [fc]
-I feel like something important in life has been damaged...[pcms]
+人生の大事な何かが損なわれた気がする……。[pcms]
 
 *2690|
 [fc]
-[ns]Wataru[nse]
-"But..."[pcms]
+[ns]航[nse]
+「でも……」[pcms]
 
 *2691|
 [fc]
-Maybe this is enough for now...[pcms]
+今は、これで充分かもしれない……。[pcms]
 
 *2692|
 [fc]
-Being recognized and thanked by Yuuho... Yeah, that's enough[r]
-for me...[pcms]
+悠帆に認められて感謝されて……。[r]
+うん、充分だよ、これで……。[pcms]
 
 *2693|
 [fc]
-Remembering the excitement from earlier, I secretly smiled[r]
-to myself.[pcms]
+さっきまでの高揚感を思い出して、[r]
+ボクはひそかに笑顔になった。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

@@ -10,7 +10,7 @@
 ;//時間帯：朝
 ;//合計1K程度
 ;//---------------------------------------------------------------
-;//▲４２：「マル子について行こう！」
+;//▲４－２：「マル子について行こう！」
 
 ;[sysbt_meswin]
 [chara_int][trans_c cross time=150]
@@ -18,117 +18,118 @@
 
 *914a|
 [fc]
-[ns]Wataru[nse]
-"I'll follow after my senior!"[pcms]
+[ns]航[nse]
+「先輩の後を追うんだっ！」[pcms]
 
 *914|
 [fc]
-I shouted to Kousuke and then took Ren's hand, chasing[r]
-straight after my senior.[pcms]
+ボクはコースケにそう叫ぶと、漣の手を[r]
+引いてまっすぐに先輩の後を追った。[pcms]
 
 *915|
 [fc]
-Indeed, as Kousuke said, going to the rooftop would lead to[r]
-a dead end.[pcms]
+確かにコースケの言う通り、屋上に行っても行き止まりだ。[pcms]
 
 *916|
 [fc]
-But I know better than anyone that there's no escape route[r]
-if we go down.[pcms]
+けれど下に行っても逃げ道がないことは、[r]
+このボクが一番よく知っている。[pcms]
 
 *917|
 [fc]
-And to hole up, the audio-visual room's door is far too[r]
-fragile.[pcms]
+だからと言って篭城するには[r]
+視聴覚室の扉はあまりにももろい。[pcms]
 
 *918|
 [fc]
-If we can't expect someone to come to our rescue, holing up[r]
-won't solve anything.[pcms]
+そして助けに来てくれる誰かが期待できなければ、[r]
+篭城したって何の解決策にもならない。[pcms]
 
 *919|
 [fc]
-It's dozens of times safer to chase after my senior instead.[pcms]
+それよりは先輩の後を追いかけたほうが[r]
+何十倍も安全なはずだ。[pcms]
 
 *920|
 [fc]
-After all, I don't know why my senior was in the school[r]
-during summer vacation.[pcms]
+そもそも先輩が夏休み中の学園にいた理由は[r]
+わからない。[pcms]
 
 *921|
 [fc]
-But if she was just running away, she wouldn't hide in such[r]
-a special classroom building without a particular reason.[pcms]
+けれど、でもただ逃げ出すのならば[r]
+特に用がないこんな特殊教室棟に[r]
+逃げ込んでくるはずがない。[pcms]
 
 *922|
 [fc]
-It's my senior we're talking about; she must have some kind[r]
-of plan.[pcms]
+先輩のことだ、[r]
+きっと何か手立てがあるに違いない。[pcms]
 
 *923|
 [fc]
-And that senior is heading straight for the rooftop.[pcms]
+そしてその先輩がまっすぐ、[r]
+屋上へと向かっている。[pcms]
 
 *924|
 [fc]
-Betting on my senior is the best chance we have.[pcms]
+ここは先輩に賭けるのが一番確率が高いはずだ。[pcms]
 
 *925|
 [fc]
-Honestly, when it comes to fighting ability, she's far more[r]
-reliable than Kousuke and me.[pcms]
+それに正直、戦闘力に関しては、[r]
+ボクとコースケよりも遥かに信頼できる。[pcms]
 
 *926|
 [fc]
-Kousuke and I stand no chance of protecting Ren and[r]
-escaping.[pcms]
+ボクとコースケでは漣を守って逃げる事なんて不可能だ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *927|
 [fc]
-[ns]Kousuke[nse]
-"Are you out of your mind?"[pcms]
+[ns]浩助[nse]
+「正気かよ？」[pcms]
 
 *928|
 [fc]
-[ns]Wataru[nse]
-"Do you think we can protect Ren and escape from those guys[r]
-on our own?"[pcms]
+[ns]航[nse]
+「ボクらで漣を守って、あのヤツらから[r]
+　逃げられるとでも思ってるのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *929|
 [fc]
-[ns]Kousuke[nse]
-"But still..."[pcms]
+[ns]浩助[nse]
+「だからって……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *930|
 [fc]
 [vo_ren s="ren0232"]
-[ns]Ren[nse]
-"Senior, go ahead... Kyaa!"[pcms]
+[ns]漣[nse]
+「先輩、先に行っちゃ……きゃあっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *930a|
 [fc]
-While we were arguing, one of the pursuers caught up and[r]
-clung to Ren.[pcms]
+ボクらが言い争ってる間に、[r]
+追いついてきたヤツが漣にしがみついた。[pcms]
 
 *931|
 [fc]
-[ns]Wataru[nse]
-"Ren!"[pcms]
+[ns]航[nse]
+「漣っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *932|
 [fc]
-[ns]Kousuke[nse]
-"Damn it!"[pcms]
+[ns]浩助[nse]
+「チクショウ！」[pcms]
 
 [se buf=0 storage="se012"]
 
@@ -136,33 +137,33 @@ clung to Ren.[pcms]
 
 *933|
 [fc]
-Almost simultaneously, I tried to protect Ren, and Kousuke[r]
-swung the hook he had in his hand with all his might.[pcms]
+ボクが漣を守ろうとしたのと、コースケが手にしたフックで[r]
+思いっきり殴り飛ばしたのは、ほぼ同時だった。[pcms]
 
 *934|
 [fc]
-[ns]Wataru[nse]
-"Thank you! Kousuke. Let's go!"[pcms]
+[ns]航[nse]
+「サンキュー！　コースケ。行くぞっ！」[pcms]
 
 *935|
 [fc]
-I embraced Ren's body protectively from their hands and once[r]
-again started running after my senior.[pcms]
+ヤツらの手からかばうように漣の体を抱きしめると、[r]
+ボクは再び先輩の後を追って走り出した。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *936|
 [fc]
-[ns]Kousuke[nse]
-"Aaaah! Damn it all!!"[pcms]
+[ns]浩助[nse]
+「あぁあああっ！　もうっ！！」[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *937|
 [fc]
-Feeling Kousuke chasing behind us, I raced up the stairs to[r]
-the rooftop with Ren.[pcms]
+追いかけてくるコースケを背中に感じながら、[r]
+ボクは屋上への階段を漣と共に駆け上がった。[pcms]
 
 ;mm
 ;BGM即時停止

@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・漣・悠帆
-;//・時間：５日目（８月１９日）夕方
+;//・時間：５日目（８月１９日）夕方～
 ;//テキスト分量：3K
 ;//---------------------------------------------------------------
 ;//blockG003
@@ -36,8 +36,8 @@
 [vo_ren s="ren1113"]
 ;mm これ↑だな↓は無い。アンドロでも↓になってた
 ;[vo_ren s="ren0977B"]
-[ns]Ren[nse]
-"Big brother... I've become all alone..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……私、ひとりぼっちになっちゃった……」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -50,8 +50,8 @@
 
 *8685|
 [fc]
-[ns]Wataru[nse]
-"...! Ren..."[pcms]
+[ns]航[nse]
+「……！　漣……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -59,18 +59,17 @@
 *8686|
 [fc]
 [vo_yuh s="yuho1192"]
-[ns]Yuuho[nse]
-"Eh...?"[pcms]
+[ns]悠帆[nse]
+「え……？」[pcms]
 
 *8687|
 [fc]
-[ns]Wataru[nse]
-"Ah, no... Yuuho... thank you."[pcms]
+[ns]航[nse]
+「あ、いや……悠帆……ありがとう」[pcms]
 
 *8688|
 [fc]
-I wiped away my tears and gently pulled away from Yuuho's[r]
-body.[pcms]
+ボクは涙を拭きながら、そっと悠帆の身体を引き離した。[pcms]
 
 ;[evcg storage="EV013c"][trans_c cross time=300]
 
@@ -79,24 +78,25 @@ body.[pcms]
 *8689|
 [fc]
 [vo_yuh s="yuho1193"]
-[ns]Yuuho[nse]
-"Wataru...?"[pcms]
+[ns]悠帆[nse]
+「航……？」[pcms]
 
 *8690|
 [fc]
-Yuuho's concern is appreciated. I'm truly happy. But I can't[r]
-leave Ren all alone.[pcms]
+悠帆の気遣いはありがたい。本当に嬉しい。[r]
+でも、漣をひとりぼっちにはさせられない。[pcms]
 
 *8691|
 [fc]
-Ren, utterly weakened to the point of losing her sanity. She[r]
-might wake up suddenly and start crying again.[pcms]
+正気をなくすほど弱り切った漣。[r]
+ふと目を覚ましてまた泣いてしまうかもしれない。[pcms]
 
 *8692|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, thank you so much. After crying my heart out, I feel[r]
-somehow refreshed. I'm okay now. I'm really okay."[pcms]
+[ns]航[nse]
+「悠帆、本当にありがとう。[r]
+　思いっ切り泣いたら、なんだかスッキリしたよ。[r]
+　もう大丈夫。ボクは本当に大丈夫だよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -104,14 +104,15 @@ somehow refreshed. I'm okay now. I'm really okay."[pcms]
 *8693|
 [fc]
 [vo_yuh s="yuho1194"]
-[ns]Yuuho[nse]
-"Wataru... really? Are you really okay?"[pcms]
+[ns]悠帆[nse]
+「航……本当に？　本当に大丈夫？」[pcms]
 
 *8694|
 [fc]
-[ns]Wataru[nse]
-"Yeah, I'm okay. Look, Yuuho. Thanks to you, I feel better.[r]
-Thank you so much, Yuuho."[pcms]
+[ns]航[nse]
+「うん、大丈夫だって。ほら、見て、悠帆。[r]
+　悠帆のおかげで元気になったよ。[r]
+　本当にありがとう、悠帆」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -119,14 +120,14 @@ Thank you so much, Yuuho."[pcms]
 *8695|
 [fc]
 [vo_yuh s="yuho1195"]
-[ns]Yuuho[nse]
-"...Yeah. I see... yeah, thank goodness."[pcms]
+[ns]悠帆[nse]
+「……うん。そっか……うん、良かった」[pcms]
 
 *8696|
 [fc]
-[ns]Wataru[nse]
-"Yeah. Thank you. It's getting late at night, let's go back[r]
-to our rooms and rest."[pcms]
+[ns]航[nse]
+「うん。ありがとう。[r]
+　もう夜も更けてきたし、部屋に帰って休もうよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -134,8 +135,8 @@ to our rooms and rest."[pcms]
 *8697|
 [fc]
 [vo_yuh s="yuho1196"]
-[ns]Yuuho[nse]
-"Yeah. That's right..."[pcms]
+[ns]悠帆[nse]
+「うん。そうだね……」[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -151,85 +152,86 @@ to our rooms and rest."[pcms]
 *8698|
 [fc]
 [vo_yuh s="yuho1197"]
-[ns]Yuuho[nse]
-"I was really worried, you know. I thought something might[r]
-happen to you, Wataru."[pcms]
+[ns]悠帆[nse]
+「もう、本当に心配したんだからね。[r]
+　航がどうにかなっちゃうんじゃないかって」[pcms]
 
 *8699|
 [fc]
-[ns]Wataru[nse]
-"Yeah. I'm sorry, Yuuho. Thank you for worrying about me."[pcms]
+[ns]航[nse]
+「うん。ごめんね、悠帆。心配してくれてありがとう」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8700|
 [fc]
 [vo_yuh s="yuho1198"]
-[ns]Yuuho[nse]
-"Hey, Wataru..."[pcms]
+[ns]悠帆[nse]
+「ねえ、航……」[pcms]
 
 *8701|
 [fc]
-[ns]Wataru[nse]
-"...Hmm?"[pcms]
+[ns]航[nse]
+「……ん？」[pcms]
 
 *8702|
 [fc]
-Yuuho suddenly stopped walking. She looked straight at me.[pcms]
+悠帆が、突然足を止めた。[r]
+真っ直ぐボクを見つめてくる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8703|
 [fc]
 [vo_yuh s="yuho1199"]
-[ns]Yuuho[nse]
-"It's going to be tough... but do your best, big brother![r]
-Ren-chan... she really loves you, Wataru, and I think she[r]
-relies on you a lot."[pcms]
+[ns]悠帆[nse]
+「大変だろうけど……頑張ってね、おにいちゃん！[r]
+　漣ちゃん……本当に航のこと大好きだし、うんと頼りに[r]
+　してると思うの」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8704|
 [fc]
 [vo_yuh s="yuho1200"]
-[ns]Yuuho[nse]
-"I know it's hard for you too, Wataru, but for Ren's sake as[r]
-well, I want you to do your best. Please protect Ren for our[r]
-father's sake too."[pcms]
+[ns]悠帆[nse]
+「航だってつらいの、わかるんだけど、漣ちゃんのためにも[r]
+　頑張って欲しいの。[r]
+　お父さんの分も、漣ちゃんを守ってあげて」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8705|
 [fc]
 [vo_yuh s="yuho1201"]
-[ns]Yuuho[nse]
-"Hey, Wataru. That's my request to you."[pcms]
+[ns]悠帆[nse]
+「ね、航。わたしからの、お願い」[pcms]
 
 *8706|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... thank you for caring about Ren. I'll do my best.[r]
-I've received plenty of energy from Yuuho, and I have your[r]
-support."[pcms]
+[ns]航[nse]
+「悠帆……ありがとう、漣の事を気遣ってくれて。[r]
+　頑張るよ。悠帆に元気たっぷりもらったし、[r]
+　応援してもらってるんだから」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8707|
 [fc]
 [vo_yuh s="yuho1202"]
-[ns]Yuuho[nse]
-"Yeah. That's the spirit! Do your best, big brother! Well[r]
-then, good night. Sleep well."[pcms]
+[ns]悠帆[nse]
+「うん。その意気！　頑張って、おにいちゃん！[r]
+　じゃ、おやすみ。ゆっくり寝てね」[pcms]
 
 *8708|
 [fc]
-[ns]Wataru[nse]
-"Yeah, good night. Yuuho, thank you so much."[pcms]
+[ns]航[nse]
+「うん、おやすみ。悠帆、本当にありがとう」[pcms]
 
 *8709|
 [fc]
-As if to answer, Yuuho waved her hand flutteringly and left[r]
-for her own room.[pcms]
+答えるようにひらひらと手を振りながら、悠帆は[r]
+自分の部屋へと去っていった。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -241,28 +243,27 @@ for her own room.[pcms]
 
 *8710|
 [fc]
-Ren was sleeping soundly, breathing softly in her sleep.[pcms]
+漣はすやすやと寝息を立てて、眠っていた。[pcms]
 
 *8711|
 [fc]
-A peaceful and adorable sleeping face. It seems she was[r]
-sleeping soundly after all.[pcms]
+安心しきった可愛らしい寝顔。[r]
+どうやらぐっすりと眠っていてくれてたみたいだ。[pcms]
 
 *8712|
 [fc]
-To always be able to see this peaceful sleeping face, I will[r]
-do my best, Ren. For dad's sake as well, I will definitely[r]
-protect you.[pcms]
+この安らかな寝顔をいつまでも見られるように、[r]
+ボクは頑張るよ、漣。[r]
+父さんの分も、必ず漣を守るからね。[pcms]
 
 *8713|
 [fc]
-[ns]Wataru[nse]
-"Good night..."[pcms]
+[ns]航[nse]
+「おやすみ……」[pcms]
 
 *8714|
 [fc]
-I softly spoke to Ren and fell asleep while holding her in[r]
-my arms.[pcms]
+ボクはそっと漣に声をかけ、抱きしめながら眠りについた。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

@@ -36,11 +36,11 @@
 
 *914|
 [fc]
-The terrace was about to be illuminated by the morning sun.[pcms]
+テラスを朝日が照らし出そうとしていた。[pcms]
 
 *915|
 [fc]
-It's almost... dawn.[pcms]
+もうすぐ……夜明けだ。[pcms]
 
 
 ;mm追加
@@ -49,13 +49,13 @@ It's almost... dawn.[pcms]
 *916|
 [fc]
 [vo_miz s="mizuki_BE0056"]
-[ns]Mizuki[nse]
-"Are you leaving already...?"[pcms]
+[ns]瑞樹[nse]
+「もう行くの……？」[pcms]
 
 *917|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, will you come with me?"[pcms]
+[ns]浩助[nse]
+「ああ、一緒に来てくれるか？」[pcms]
 
 
 ;mm追加
@@ -64,31 +64,30 @@ It's almost... dawn.[pcms]
 *918|
 [fc]
 [vo_miz s="mizuki_BE0057"]
-[ns]Mizuki[nse]
-"Dying... is scary, isn't it?"[pcms]
+[ns]瑞樹[nse]
+「死ぬの……恐いね」[pcms]
 
 *919|
 [fc]
-Looking down at the ground from the 7th floor of the LASER[r]
-building.[pcms]
+ＬＡＳＥＲの７階から地上を見下ろす。[pcms]
 
 *920|
 [fc]
-Although Mizuki says it's scary, I strangely didn't feel any[r]
-fear.[pcms]
+瑞樹は恐いっていうけど、オレは不思議と恐怖を覚えなかった。[pcms]
 
 *921|
 [fc]
-Instead, I was captivated by the beauty of the dawn.[pcms]
+それよりも、夜明けの美しさに心を奪われる。[pcms]
 
 *922|
 [fc]
-The quiet streets, and beyond the tombstone-like buildings,[r]
-the sun slowly rises.[pcms]
+静まり返った町並み、墓標のようなビルの向うに[r]
+ゆっくりと太陽が昇っていく。[pcms]
 
 *923|
 [fc]
-It was so beautiful... Mizuki and I silently gazed at it.[pcms]
+それがあまりにも美しくて……[r]
+オレと瑞樹は無言のまま見つめていた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -101,13 +100,13 @@ It was so beautiful... Mizuki and I silently gazed at it.[pcms]
 
 *924|
 [fc]
-[ns]Kousuke[nse]
-"I'm not scared because I'm with Mizuki."[pcms]
+[ns]浩助[nse]
+「オレは、瑞樹と一緒だから恐くないぜ」[pcms]
 
 *925|
 [fc]
-While searing the piercing blue sky into my eyelids, I tell[r]
-Mizuki, the person most important to me, beside me.[pcms]
+目に染みるような青空を瞼に焼きつけながら、[r]
+オレは傍らの瑞樹……なによりも大事な人に告げる。[pcms]
 
 ;mm追加
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -115,22 +114,22 @@ Mizuki, the person most important to me, beside me.[pcms]
 *926|
 [fc]
 [vo_miz s="mizuki_BE0058"]
-[ns]Mizuki[nse]
-"I'm still scared even with Kousuke."[pcms]
+[ns]瑞樹[nse]
+「あたしはコースケと一緒でも恐いよ」[pcms]
 
 *927|
 [fc]
-[ns]Kousuke[nse]
-"Haha, maybe I'm going crazy."[pcms]
+[ns]浩助[nse]
+「ははっ、オレもうおかしくなってるのかな」[pcms]
 
 *928|
 [fc]
-I couldn't help but laugh at those words.[pcms]
+その言葉に、オレは思わず笑ってしまう。[pcms]
 
 *929|
 [fc]
-...But that's right. It's not like we can be unafraid. We[r]
-are still... "human" after all.[pcms]
+……でも、そうだよな。恐くないわけない。[r]
+オレたちはまだ……「人間」なんだから。[pcms]
 
 ;//★_DJ-BAR
 ;//<ChrInit>
@@ -143,105 +142,101 @@ are still... "human" after all.[pcms]
 
 *930|
 [fc]
-Gently embracing the trembling Mizuki.[pcms]
+震えている瑞樹をそっと抱きしめる。[pcms]
 
 *931|
 [fc]
-Warm... It was hard to believe that we were humans infected[r]
-with a virus and nearing our end.[pcms]
+温かい……ウイルスに感染して、[r]
+もう終わりの人間だなんてとても思えなかった。[pcms]
 
 *932|
 [fc]
-[ns]Kousuke[nse]
-"Close your eyes..."[pcms]
+[ns]浩助[nse]
+「目を閉じて……」[pcms]
 
 *933|
 [fc]
 [vo_miz s="mizuki_BE0059"]
-[ns]Mizuki[nse]
-"Okay..."[pcms]
+[ns]瑞樹[nse]
+「うん……」[pcms]
 
 *934|
 [fc]
-[ns]Kousuke[nse]
-"The next time we open our eyes, it will be when we are[r]
-reborn."[pcms]
+[ns]浩助[nse]
+「次に目を開けるときは、オレたちが生まれ変わったときだ」[pcms]
 
 *935|
 [fc]
 [vo_miz s="mizuki_BE0060"]
-[ns]Mizuki[nse]
-"Okay..."[pcms]
+[ns]瑞樹[nse]
+「うん……」[pcms]
 
 *936|
 [fc]
-[ns]Kousuke[nse]
-"I'm sorry I couldn't protect you..."[pcms]
+[ns]浩助[nse]
+「守ってやれなくて……ごめん……」[pcms]
 
 *937|
 [fc]
 [vo_miz s="mizuki_BE0061"]
-[ns]Mizuki[nse]
-"Okay..."[pcms]
+[ns]瑞樹[nse]
+「うん……」[pcms]
 
 *938|
 [fc]
-Mizuki buried her cheek in my chest, with a peaceful[r]
-expression.[pcms]
+瑞樹はオレの胸に頬を埋めて、安らかな顔をしていた。[pcms]
 
 *939|
 [fc]
-She had a face completely at ease, entrusting everything to[r]
-me.[pcms]
+オレに全てを任せて、安心しきった顔だ。[pcms]
 
 *940|
 [fc]
-I'm really sorry... Mizuki.[pcms]
+本当にゴメンな……瑞樹。[pcms]
 
 *941|
 [fc]
 [vo_miz s="mizuki_BE0062"]
-[ns]Mizuki[nse]
-"I've always loved you since we were little... Kousuke."[pcms]
+[ns]瑞樹[nse]
+「小さい頃からずっと好きだった……コースケ」[pcms]
 
 *942|
 [fc]
-[ns]Kousuke[nse]
-"I love you too..."[pcms]
+[ns]浩助[nse]
+「オレも……愛してる」[pcms]
 
 *943|
 [fc]
 [vo_miz s="mizuki_BE0063"]
-[ns]Mizuki[nse]
-"Thank you."[pcms]
+[ns]瑞樹[nse]
+「ありがとう」[pcms]
 
 *944|
 [fc]
-[ns]Kousuke[nse]
-"Do you have any regrets?"[pcms]
+[ns]浩助[nse]
+「思い残すことはあるか？」[pcms]
 
 *945|
 [fc]
 [vo_miz s="mizuki_BE0064"]
-[ns]Mizuki[nse]
-"None at all, as long as I'm with Kousuke."[pcms]
+[ns]瑞樹[nse]
+「ないよ、コースケと一緒ならそれでいい」[pcms]
 
 ;mm なんで浩助視点で貼ってあんのさ
 ;[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *946|
 [fc]
-[ns]Kousuke[nse]
-"Me too."[pcms]
+[ns]浩助[nse]
+「オレもだ」[pcms]
 
 *947|
 [fc]
-While holding Mizuki in my arms, I casually move our footing[r]
-to the side.[pcms]
+瑞樹の身体を抱いたまま、ふっと足場を横に移動する。[pcms]
 
 *948|
 [fc]
-Into the empty air.[pcms]
+なにもない空中へ。[pcms]
 
 ;mm追加
 [fadeoutbgm time=500]
@@ -252,16 +247,15 @@ Into the empty air.[pcms]
 
 *949|
 [fc]
-I could tell that Mizuki was holding back a scream.[pcms]
+瑞樹が悲鳴をこらえるのがわかった。[pcms]
 
 *950|
 [fc]
-I hug her body tightly.[pcms]
+オレはその身体を強く抱きしめる。[pcms]
 
 *951|
 [fc]
-Believing that when we open our eyes next time... that[r]
-moment will come.[pcms]
+次に目を開けるとき……そのときがやってくることを信じて。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

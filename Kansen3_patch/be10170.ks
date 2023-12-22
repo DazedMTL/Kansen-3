@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10170_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 
 ;//---------------------------------------------------------------
 
@@ -39,250 +39,244 @@
 
 *1471|
 [fc]
-Yuuho's body was lying on the mattress.[pcms]
+悠帆の身体がマットレスに横たわっていた。[pcms]
 
 *1472|
 [fc]
-Her eyes were vacantly wide open, reflecting nothing. She[r]
-used to be so expressive...[pcms]
+虚ろに見開かれた瞳にはなにも映っていない。[r]
+あんなに表情豊かだったのに……。[pcms]
 
 *1473|
 [fc]
-What on earth happened to her...[pcms]
+いったい、どんなことをされたのか……。[pcms]
 
 *1474|
 [fc]
-Sadness and anger coursed through my body, almost driving me[r]
-insane.[pcms]
+悲しみと怒りが全身を伝わって、[r]
+頭がおかしくなりそうだった。[pcms]
 
 *1475|
 [fc]
-How cruel... why...[pcms]
+酷い……どうして……。[pcms]
 
 *1476|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry... I'm sorry..."[pcms]
+[ns]航[nse]
+「ごめん……ごめん……」[pcms]
 
 [evcg storage="DEV014c"][trans_c cross time=300]
 
 *1477|
 [fc]
-Next to her, Ren too... lay dead, bearing the remnants of[r]
-violation.[pcms]
+隣にいる漣は、悠帆と同じく……陵辱の名残を残し死んでいた。[pcms]
 
 *1478|
 [fc]
-Her expression was as if she was sleeping... but what had[r]
-she been subjected to?[pcms]
+その表情は眠るようだったけど……どんな目に遭わされたんだ。[pcms]
 
 *1479|
 [fc]
-It must have been terrifying... painful...[pcms]
+恐かっただろう……苦しかっただろう……。[pcms]
 
 [bg storage="BG019c"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
 
 *1480|
 [fc]
-I didn't know what to say to apologize to everyone.[pcms]
+ボクはみんなになんと言って謝ればいいのかわからなかった。[pcms]
 
 *1481|
 [fc]
-Maybe...[pcms]
+もしかしたら……。[pcms]
 
 *1482|
 [fc]
-I thought they might have been raped by the men, but I never[r]
-imagined they would be killed...[pcms]
+男たちに乱暴されているかもしれないと思ったけれど、[r]
+まさか殺してしまうなんて……。[pcms]
 
 *1483|
 [fc]
-A little away from the mattress, Jin-san's body was lying[r]
-there.[pcms]
+マットレスから少し離れた位置には[r]
+壬さんの死体が転がっていた。[pcms]
 
 *1484|
 [fc]
-Could it have been infighting?[pcms]
+仲間割れだろうか。[pcms]
 
 *1485|
 [fc]
-If Jin-san had been the boss, maybe this wouldn't have[r]
-happened...[pcms]
+壬さんがボスだったら、こんなことには[r]
+ならなかったのかもしれない……。[pcms]
 
 *1486|
 [fc]
-I don't know the circumstances, but maybe he was protecting[r]
-everyone.[pcms]
+事情はわからないけれど、みんなをかばってくれたのかも。[pcms]
 
 *1487|
 [fc]
-And then, he was shot by someone like Shigeyoshi...[pcms]
+それで、重吉とかに撃たれて……。[pcms]
 
 *1488|
 [fc]
 [vo_mar s="maru_BE0014"]
-[ns]Margarita[nse]
-"Wataru..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……」[pcms]
 
 *1489|
 [fc]
-[ns]Wataru[nse]
-"Marie!"[pcms]
+[ns]航[nse]
+「マリー！」[pcms]
 
 *1490|
 [fc]
-A little further away, Marie had collapsed.[pcms]
+少し離れたところにマリーが倒れていた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1491|
 [fc]
-[ns]Kousuke[nse]
-"What the hell is this..."[pcms]
+[ns]浩助[nse]
+「な、なんだこれ……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1492|
 [fc]
 [vo_miz s="mizuki_BE0105"]
-[ns]Mizuki[nse]
-"Hii... is everyone... dead?"[pcms]
+[ns]瑞樹[nse]
+「ひっ……みんな……死んでる……？」[pcms]
 
 *1493|
 [fc]
-Kousuke and Mizuki, whom we had just said goodbye to,[r]
-appeared from the spiral staircase.[pcms]
+そこに、さっきお別れをすませたコースケと瑞樹が[r]
+螺旋階段から姿を現した。[pcms]
 
 *1494|
 [fc]
-Just like me, they were speechless at the sight of this[r]
-tragedy.[pcms]
+ボクと同じように、この惨状を見て絶句している。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1495|
 [fc]
-I don't know why they are here, but that's not what matters[r]
-right now.[pcms]
+どうしてふたりがここにいるのかわからないけれど、[r]
+今はそれどころじゃない。[pcms]
 
 [evcg storage="DEV008b"][trans_c cross time=300]
 
 *1496|
 [fc]
-[ns]Wataru[nse]
-"Marie..."[pcms]
+[ns]航[nse]
+「マリー……」[pcms]
 
 [evcg storage="DEV008c"][trans_c cross time=300]
 
 *1497|
 [fc]
 [vo_mar s="maru_BE0015"]
-[ns]Margarita[nse]
-"Wataru... I'm sorry... I couldn't protect Yuuho and Ren..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……すまない……ユウホとレンを守れなかった……」[pcms]
 
 *1498|
 [fc]
-[ns]Wataru[nse]
-"Ahh... Ahhhh..."[pcms]
+[ns]航[nse]
+「ああっ……あああっ……」[pcms]
 
 *1499|
 [fc]
-I couldn't look away from Marie's tragic state, overwhelmed[r]
-by what had happened.[pcms]
+ボクはあまりのことに、マリーの惨状から目を背けられなかった。[pcms]
 
 *1500|
 [fc]
-Her whole body was defiled with semen from who knows who,[r]
-and her knees were swollen. She might even have broken[r]
-bones...[pcms]
+全身を誰のものともわからない精液で汚された上に、[r]
+いったいなにをされたのか、両ひざが腫れ上がっている。[r]
+もしかしたら骨折しているのかもしれない……。[pcms]
 
 *1501|
 [fc]
-[ns]Wataru[nse]
-"Marie..."[pcms]
+[ns]航[nse]
+「マリー……」[pcms]
 
 [evcg storage="DEV008d"][trans_c cross time=300]
 
 *1502|
 [fc]
-Trying to pull her away from the remnants of unspeakable[r]
-torment, I gently tried to lift Marie's body.[pcms]
+筆舌に尽くしがたい責め苦の残滓から引き離そうと、[r]
+マリーの身体を優しく抱き起そうとした。[pcms]
 
 *1503|
 [fc]
 [vo_mar s="maru_BE0016"]
-[ns]Margarita[nse]
-"Auhh..."[pcms]
+[ns]マルガリータ[nse]
+「あうっ……」[pcms]
 
 *1504|
 [fc]
-[ns]Wataru[nse]
-"Are you okay? Marie..."[pcms]
+[ns]航[nse]
+「大丈夫？　マリー……」[pcms]
 
 *1505|
 [fc]
-Not only her legs, but her hips and... even her hip joints[r]
-seemed to be injured, as she gasped in pain with just a bend[r]
-of her body.[pcms]
+両足だけでなく、腰や……股関節まで痛めているらしく、[r]
+身体を曲げただけで痛みに喘いでしまう。[pcms]
 
 [evcg storage="DEV008e"][trans_c cross time=300]
 
 *1506|
 [fc]
 [vo_mar s="maru_BE0017"]
-[ns]Margarita[nse]
-"I'm... probably beyond saving... Wataru, you should escape[r]
-alone..."[pcms]
+[ns]マルガリータ[nse]
+「ワタシは……もう助かりそうもない……[r]
+　ワタルだけでも……逃げてくれ……」[pcms]
 
 *1507|
 [fc]
-[ns]Wataru[nse]
-"What are you saying? Hang in there, Marie"[pcms]
+[ns]航[nse]
+「なにを言ってるんだよ、しっかりしろ、マリー」[pcms]
 
 *1508|
 [fc]
-I couldn't hold back my tears and, with a crumpled face, I[r]
-stroked Marie's hair.[pcms]
+ボクはあふれ出る涙をこらえることができずに、[r]
+顔をくしゃくしゃにしながらマリーの髪をくすけずる。[pcms]
 
 *1509|
 [fc]
 [vo_mar s="maru_BE0018"]
-[ns]Margarita[nse]
-"Wataru..."[pcms]
+[ns]マルガリータ[nse]
+「ワタル……」[pcms]
 
 *1510|
 [fc]
-[ns]Wataru[nse]
-"If we're going to escape, we'll do it together. If Marie[r]
-doesn't escape, neither will I"[pcms]
+[ns]航[nse]
+「逃げるならマリーも一緒だ。マリーが逃げないなら[r]
+　ボクも逃げないからな」[pcms]
 
 *1511|
 [fc]
 [vo_mar s="maru_BE0019"]
-[ns]Margarita[nse]
-"No good... I'll just be a burden..."[pcms]
+[ns]マルガリータ[nse]
+「駄目だ……足手まといになる……」[pcms]
 
 *1512|
 [fc]
-[ns]Wataru[nse]
-"You won't be a burden, Marie will never be a burden!"[pcms]
+[ns]航[nse]
+「ならない、マリーは足手まといになんかならないから！」[pcms]
 
 *1513|
 [fc]
-Marie tried to hold back her tears and nodded while making a[r]
-face as if she was about to cry.[pcms]
+マリーは泣きそうな顔になりながら、[r]
+それをこらえて首を縦に振ってくれた。[pcms]
 
 *1514|
 [fc]
 [vo_mar s="maru_BE0020"]
-[ns]Margarita[nse]
-"Okay... let's escape together"[pcms]
+[ns]マルガリータ[nse]
+「わかった……一緒に逃げよう」[pcms]
 
 *1515|
 [fc]
-[ns]Wataru[nse]
-"Marie..."[pcms]
+[ns]航[nse]
+「マリー……」[pcms]
 
 ;mm 差分aだったけど間違いだよな？
 [bg storage="BG019c"][trans_c cross time=500]
@@ -290,80 +284,80 @@ face as if she was about to cry.[pcms]
 
 *1516|
 [fc]
-I carried Marie on my back and slowly stood up so as not to[r]
-put any strain on her.[pcms]
+ボクはマリーを背負うと、負担をかけないように[r]
+ゆっくりと立ち上がった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1517|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1518|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki, go too. Go with Wataru."[pcms]
+[ns]浩助[nse]
+「瑞樹も行け、ワタルと一緒に」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1519|
 [fc]
 [vo_miz s="mizuki_BE0106"]
-[ns]Mizuki[nse]
-"No, I don't want to be separated anymore... besides... I'm[r]
-probably..."[pcms]
+[ns]瑞樹[nse]
+「いやっ、もう離れたくない……それに……[r]
+　きっとあたしも……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1520|
 [fc]
-[ns]Kousuke[nse]
-"I see..."[pcms]
+[ns]浩助[nse]
+「そうか……」[pcms]
 
 *1521|
 [fc]
-[ns]Wataru[nse]
-"Kousuke, Mizuki..."[pcms]
+[ns]航[nse]
+「コースケ、瑞樹……」[pcms]
 
 *1522|
 [fc]
-It seemed like the two of them had already given up.[pcms]
+ふたりはもう、あきらめているみたいだった。[pcms]
 
 *1523|
 [fc]
-I knew without asking.[pcms]
+聞かなくてもわかる。[pcms]
 
 *1524|
 [fc]
-Kousuke and Mizuki...[pcms]
+コースケと瑞樹は……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1525|
 [fc]
-[ns]Kousuke[nse]
-"This is really goodbye. Don't worry about us and make sure[r]
-to protect Maruko- senpai."[pcms]
+[ns]浩助[nse]
+「これで本当のお別れだ。オレたちのことはかまわないで[r]
+　マル子先輩をしっかりと守れよ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1526|
 [fc]
 [vo_miz s="mizuki_BE0107"]
-[ns]Mizuki[nse]
-"Goodbye... Wataru. Live on for our sake too..."[pcms]
+[ns]瑞樹[nse]
+「さよなら……ワタル。あたしたちの分まで生きてね……」[pcms]
 
 *1527|
 [fc]
-[ns]Wataru[nse]
-"Understood... both of you... be happy."[pcms]
+[ns]航[nse]
+「わかった……ふたりとも……幸せに」[pcms]
 
 *1528|
 [fc]
-With my words, they both responded with a smile.[pcms]
+ボクの言葉に、ふたりは笑顔で応えていた。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -404,11 +398,11 @@ With my words, they both responded with a smile.[pcms]
 ;
 ;	*1529|
 ;	[fc]
-The terrace was about to be illuminated by the morning sun.[pcms]
+;	テラスを朝日が照らし出そうとしていた。[pcms]
 ;
 ;	*1530|
 ;	[fc]
-It's almost... dawn.[pcms]
+;	もうすぐ……夜明けだ。[pcms]
 ;
 ;
 ;	;mm追加
@@ -418,13 +412,13 @@ It's almost... dawn.[pcms]
 ;	*1531|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0056"]
-[ns]Mizuki[nse]
-"Are you leaving now...?"[pcms]
+;	[ns]瑞樹[nse]
+;	「もう行くの……？」[pcms]
 ;
 ;	*1532|
 ;	[fc]
-[ns]Kousuke[nse]
-"Yeah, will you come with me?"[pcms]
+;	[ns]浩助[nse]
+;	「ああ、一緒に来てくれるか？」[pcms]
 ;
 ;	;mm追加
 ;	[ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -433,8 +427,8 @@ It's almost... dawn.[pcms]
 ;	*1533|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0057"]
-[ns]Mizuki[nse]
-"Dying... is scary, isn't it?"[pcms]
+;	[ns]瑞樹[nse]
+;	「死ぬの……恐いね」[pcms]
 ;
 ;
 ;
@@ -452,26 +446,25 @@ It's almost... dawn.[pcms]
 ;
 ;	*1534|
 ;	[fc]
-Looking down at the ground from the 7th floor of LASER.[pcms]
+;	ＬＡＳＥＲの７階から地上を見下ろす。[pcms]
 ;
 ;	*1535|
 ;	[fc]
-Mizuki says she's scared, but strangely, I didn't feel any[r]
-fear.[pcms]
+;	瑞樹は恐いっていうけど、オレは不思議と恐怖を覚えなかった。[pcms]
 ;
 ;	*1536|
 ;	[fc]
-Instead, I was captivated by the beauty of the dawn.[pcms]
+;	それよりも、夜明けの美しさに心を奪われる。[pcms]
 ;
 ;	*1537|
 ;	[fc]
-The quiet town, beyond the tombstone-like buildings, the sun[r]
-was slowly rising.[pcms]
+;	静まり返った町並み、墓標のようなビルの向うに[r]
+;	ゆっくりと太陽が昇っていく。[pcms]
 ;
 ;	*1538|
 ;	[fc]
-It was so beautiful that... Mizuki and I just watched in[r]
-silence.[pcms]
+;	それがあまりにも美しくて……[r]
+;	オレと瑞樹は無言のまま見つめていた。[pcms]
 ;
 ;	;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 ;
@@ -481,13 +474,13 @@ silence.[pcms]
 ;
 ;	*1539|
 ;	[fc]
-[ns]Kousuke[nse]
-"I'm not scared because I'm with Mizuki."[pcms]
+;	[ns]浩助[nse]
+;	「オレは、瑞樹と一緒だから恐くないぜ」[pcms]
 ;
 ;	*1540|
 ;	[fc]
-While imprinting the piercing blue sky onto my eyelids, I[r]
-tell Mizuki, the person most important to me.[pcms]
+;	目に染みるような青空を瞼に焼きつけながら、[r]
+;	オレは傍らの瑞樹……なによりも大事な人に告げる。[pcms]
 ;
 ;
 ;	;mm追加
@@ -496,22 +489,22 @@ tell Mizuki, the person most important to me.[pcms]
 ;	*1541|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0058"]
-[ns]Mizuki[nse]
-"I'm still scared even with Kousuke."[pcms]
+;	[ns]瑞樹[nse]
+;	「あたしはコースケと一緒でも恐いよ」[pcms]
 ;
 ;	*1542|
 ;	[fc]
-[ns]Kousuke[nse]
-"Haha, maybe I'm going crazy."[pcms]
+;	[ns]浩助[nse]
+;	「ははっ、オレもうおかしくなってるのかな」[pcms]
 ;
 ;	*1543|
 ;	[fc]
-At those words, I couldn't help but laugh.[pcms]
+;	その言葉に、オレは思わず笑ってしまう。[pcms]
 ;
 ;	*1544|
 ;	[fc]
-...But that's right, isn't it? It's not like we're not[r]
-scared. We are still... "human" after all.[pcms]
+;	……でも、そうだよな。恐くないわけない。[r]
+;	オレたちはまだ……「人間」なんだから。[pcms]
 ;
 ;	;//★_DJ-BAR
 ;	;//<ChrInit>
@@ -525,17 +518,17 @@ scared. We are still... "human" after all.[pcms]
 ;
 ;	*1545|
 ;	[fc]
-I gently embraced Mizuki, who was trembling.[pcms]
+;	震えている瑞樹をそっと抱きしめる。[pcms]
 ;
 ;	*1546|
 ;	[fc]
-Warm... It was hard to believe that we were infected with[r]
-the virus and that it was all over for us.[pcms]
+;	温かい……ウイルスに感染して、[r]
+;	もう終わりの人間だなんてとても思えなかった。[pcms]
 ;
 ;	*1547|
 ;	[fc]
-[ns]Kousuke[nse]
-"Close your eyes..."[pcms]
+;	[ns]浩助[nse]
+;	「目を閉じて……」[pcms]
 ;
 ;	;mm追加
 ;	[ChrSetEx layer=5 chbase="mizu_f2"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -543,88 +536,86 @@ the virus and that it was all over for us.[pcms]
 ;	*1548|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0059"]
-[ns]Mizuki[nse]
-"Okay..."[pcms]
+;	[ns]瑞樹[nse]
+;	「うん……」[pcms]
 ;
 ;	*1549|
 ;	[fc]
-[ns]Kousuke[nse]
-"The next time we open our eyes will be when we're reborn."[pcms]
+;	[ns]浩助[nse]
+;	「次に目を開けるときは、オレたちが生まれ変わったときだ」[pcms]
 ;
 ;	*1550|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0060"]
-[ns]Mizuki[nse]
-"Okay..."[pcms]
+;	[ns]瑞樹[nse]
+;	「うん……」[pcms]
 ;
 ;	*1551|
 ;	[fc]
-[ns]Kousuke[nse]
-"I'm sorry I couldn't protect you..."[pcms]
+;	[ns]浩助[nse]
+;	「守ってやれなくて……ごめん……」[pcms]
 ;
 ;	*1552|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0061"]
-[ns]Mizuki[nse]
-"Okay..."[pcms]
+;	[ns]瑞樹[nse]
+;	「うん……」[pcms]
 ;
 ;	*1553|
 ;	[fc]
-Mizuki buried her face in my chest and had a peaceful[r]
-expression.[pcms]
+;	瑞樹はオレの胸に頬を埋めて、安らかな顔をしていた。[pcms]
 ;
 ;	*1554|
 ;	[fc]
-She had a face of complete trust, leaving everything to me.[pcms]
+;	オレに全てを任せて、安心しきった顔だ。[pcms]
 ;
 ;	*1555|
 ;	[fc]
-I'm really sorry... Mizuki.[pcms]
+;	本当にゴメンな……瑞樹。[pcms]
 ;
 ;	*1556|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0062"]
-[ns]Mizuki[nse]
-"I've always loved you since we were little... Kousuke"[pcms]
+;	[ns]瑞樹[nse]
+;	「小さい頃からずっと好きだった……コースケ」[pcms]
 ;
 ;	*1557|
 ;	[fc]
-[ns]Kousuke[nse]
-"I love you too..."[pcms]
+;	[ns]浩助[nse]
+;	「オレも……愛してる」[pcms]
 ;
 ;	*1558|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0063"]
-[ns]Mizuki[nse]
-"Thank you."[pcms]
+;	[ns]瑞樹[nse]
+;	「ありがとう」[pcms]
 ;
 ;	*1559|
 ;	[fc]
-[ns]Kousuke[nse]
-"Do you have any regrets?"[pcms]
+;	[ns]浩助[nse]
+;	「思い残すことはあるか？」[pcms]
 ;
 ;	*1560|
 ;	[fc]
 ;	[vo_miz s="mizuki_BE0064"]
-[ns]Mizuki[nse]
-"No, as long as I'm with Kousuke, that's enough for me."[pcms]
+;	[ns]瑞樹[nse]
+;	「ないよ、コースケと一緒ならそれでいい」[pcms]
 ;
 ;	;mm なんで浩助視点で貼ってあんのさ
 ;	;[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 ;
 ;	*1561|
 ;	[fc]
-[ns]Kousuke[nse]
-"Me too."[pcms]
+;	[ns]浩助[nse]
+;	「オレもだ」[pcms]
 ;
 ;	*1562|
 ;	[fc]
-Holding Mizuki in my arms, I casually moved my footing to[r]
-the side.[pcms]
+;	瑞樹の身体を抱いたまま、ふっと足場を横に移動する。[pcms]
 ;
 ;	*1563|
 ;	[fc]
-Into the empty air.[pcms]
+;	なにもない空中へ。[pcms]
 ;
 ;	;mm追加
 ;	[fadeoutbgm time=500]
@@ -636,16 +627,15 @@ Into the empty air.[pcms]
 ;
 ;	*1564|
 ;	[fc]
-I could tell that Mizuki was holding back a scream.[pcms]
+;	瑞樹が悲鳴をこらえるのがわかった。[pcms]
 ;
 ;	*1565|
 ;	[fc]
-I hugged her body tightly.[pcms]
+;	オレはその身体を強く抱きしめる。[pcms]
 ;
 ;	*1566|
 ;	[fc]
-Believing that when we open our eyes next time... that[r]
-moment will come.[pcms]
+;	次に目を開けるとき……そのときがやってくることを信じて。[pcms]
 ;
 ;
 ;	;システムボタン＆ウィンドウ消去
@@ -676,33 +666,30 @@ moment will come.[pcms]
 
 *1567|
 [fc]
-On the first floor, the gunfire had already ceased.[pcms]
+１階ではもう銃撃戦が行われていなかった。[pcms]
 
 *1568|
 [fc]
-Whether Shigeyoshi and the others had escaped or had been[r]
-taken down...[pcms]
+重吉たちは、逃げたのかやられてしまったのか……。[pcms]
 
 ;mm追加
 [evcg storage="evs001"][trans_c cross time=300]
 
 *1569|
 [fc]
-As a result, the first floor of LASER was overflowing with[r]
-infected people.[pcms]
+その結果、ＬＡＳＥＲの１階は感染者であふれかえっていた。[pcms]
 
 *1570|
 [fc]
-Just one scratch and it would be over.[pcms]
+ひっかき傷ひとつ付けられればそれで終わり。[pcms]
 
 *1571|
 [fc]
-Becoming one of them, I'd be wandering around Shibuya from[r]
-tomorrow.[pcms]
+奴らの仲間になって、明日から渋谷をさまようことになる。[pcms]
 
 *1572|
 [fc]
-But even so... I had to live.[pcms]
+でも、それでも……ボクは生きなくちゃいけなかった。[pcms]
 
 
 ;mm追加
@@ -711,40 +698,41 @@ But even so... I had to live.[pcms]
 
 *1573|
 [fc]
-The warmth of Marie's body against my back gives me courage.[pcms]
+背中から伝わってくるマリーの温もりが[r]
+ボクに勇気を与えてくれる。[pcms]
 
 
 
 *1574|
 [fc]
-[ns]Wataru[nse]
-"Marie, let's go."[pcms]
+[ns]航[nse]
+「マリー、行くよ」[pcms]
 
 *1575|
 [fc]
 [vo_mar s="maru_BE0021"]
-[ns]Margarita[nse]
-"Ah, I leave it to you, Wataru."[pcms]
+[ns]マルガリータ[nse]
+「ああ、ワタルに任せる」[pcms]
 
 *1576|
 [fc]
-I aim Tadahiko's gun and steady my breathing.[pcms]
+彦ちんの銃を構えて呼吸を整える。[pcms]
 
 *1577|
 [fc]
-It's just a short distance to the emergency exit.[pcms]
+非常口まで、ほんのちょっとの距離だ。[pcms]
 
 *1578|
 [fc]
-If we get through there, it's a straight shot to 'Dedepou'.[pcms]
+そこを抜ければ「ででっぽう」まで一直線。[pcms]
 
 *1579|
 [fc]
-We might be able to escape.[pcms]
+なんとか、逃げることができる。[pcms]
 
 *1580|
 [fc]
-We might be able to survive.[pcms]
+生き延びることができる。[pcms]
 
 
 ;mm追加
@@ -752,8 +740,8 @@ We might be able to survive.[pcms]
 
 *1581|
 [fc]
-I pulled the trigger on the infected nearby that seemed[r]
-likely to obstruct our path.[pcms]
+ボクは進行の邪魔になりそうな[r]
+手近の感染者に向かって引き金を引いた。[pcms]
 
 
 
@@ -773,12 +761,12 @@ likely to obstruct our path.[pcms]
 
 *1582|
 [fc]
-[ns]Wataru[nse]
-"Aaaaaaaaaah!"[pcms]
+[ns]航[nse]
+「あああああああああああっ！」[pcms]
 
 *1583|
 [fc]
-I let out a roar and sprint towards the emergency exit.[pcms]
+雄叫びをあげて非常口まで突っ走る。[pcms]
 
 ;mm追加
 [ChrSetEx layer=3 chbase="etc_a"][ChrSetXY layer=3 x=0 y=0]
@@ -787,20 +775,20 @@ I let out a roar and sprint towards the emergency exit.[pcms]
 
 *1584|
 [fc]
-The slowly moving infected can't react to us as we dash[r]
-straight past them.[pcms]
+ゆったりと動いている感染者たちは、[r]
+一直線に駆け抜けるボクたちに反応できない。[pcms]
 
 
 *1585|
 [fc]
 [vo_mar s="maru_BE0022"]
-[ns]Margarita[nse]
-"Wataru!"[pcms]
+[ns]マルガリータ[nse]
+「ワタルっ！」[pcms]
 
 *1586|
 [fc]
-[ns]Wataru[nse]
-"Leave it to me!"[pcms]
+[ns]航[nse]
+「任せろっ！」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -823,16 +811,15 @@ straight past them.[pcms]
 
 *1587|
 [fc]
-Following Marie's instructions, I shoot down the infected in[r]
-our path.[pcms]
+マリーの指示で、進む先にいる感染者を撃ち倒す。[pcms]
 
 ;BGM即時停止
 [fadeoutbgm time=500]
 
 *1588|
 [fc]
-And then... what we saw as we burst out the emergency[r]
-exit...[pcms]
+そして……非常口から外に踊りでた[r]
+ボクたちが見たものは……。[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 
@@ -842,86 +829,87 @@ exit...[pcms]
 
 *1589|
 [fc]
-Was a swarm of infected writhing throughout the city.[pcms]
+街中に蠢く感染者の群れだった。[pcms]
 
 *1590|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *1591|
 [fc]
 [vo_mar s="maru_BE0023"]
-[ns]Margarita[nse]
-"Wataru... put me down! You go back alone to the 7th floor!"[pcms]
+[ns]マルガリータ[nse]
+「ワタル……ワタシをおろせ！　ワタルひとりで、[r]
+　７階に引き返すんだ！」[pcms]
 
 *1592|
 [fc]
-Marie says that, but... the infected had already gathered[r]
-behind us too much for us to turn back.[pcms]
+マリーはそう言うけれど……[r]
+もう後ろにも引き返せないほど、感染者がボクたちに[r]
+集まってきていた。[pcms]
 
 *1593|
 [fc]
-[ns]Wataru[nse]
-"Marie... I'm sorry."[pcms]
+[ns]航[nse]
+「マリー……ごめん」[pcms]
 
 *1594|
 [fc]
 [vo_mar s="maru_BE0024"]
-[ns]Margarita[nse]
-"Wataru...?"[pcms]
+[ns]マルガリータ[nse]
+「ワタル……？」[pcms]
 
 *1595|
 [fc]
-I take out the grenade I brought from 'Dedepou' from my[r]
-pocket.[pcms]
+ボクは「ででっぽう」から持ってきた手榴弾を、懐から取り出す。[pcms]
 
 *1596|
 [fc]
-I felt like Marie laughed behind me.[pcms]
+マリーが後ろで笑った気がした。[pcms]
 
 *1597|
 [fc]
-[ns]Wataru[nse]
-"I'm glad I met you, Marie."[pcms]
+[ns]航[nse]
+「マリーに会えて良かった」[pcms]
 
 *1598|
 [fc]
 [vo_mar s="maru_BE0025"]
-[ns]Margarita[nse]
-"Me too, Wataru."[pcms]
+[ns]マルガリータ[nse]
+「ワタシもだ、ワタル」[pcms]
 
 *1599|
 [fc]
-[ns]Wataru[nse]
-"I wanted to see your country, Marie."[pcms]
+[ns]航[nse]
+「マリーの国に行ってみたかったな」[pcms]
 
 *1600|
 [fc]
 [vo_mar s="maru_BE0026"]
-[ns]Margarita[nse]
-"You'd better give up on that dream."[pcms]
+[ns]マルガリータ[nse]
+「その夢はやめておいた方がいいぞ」[pcms]
 
 *1601|
 [fc]
-[ns]Wataru[nse]
-"Is that so."[pcms]
+[ns]航[nse]
+「そうなんだ」[pcms]
 
 *1602|
 [fc]
 [vo_mar s="maru_BE0027"]
-[ns]Margarita[nse]
-"Hahaha."[pcms]
+[ns]マルガリータ[nse]
+「はははっ」[pcms]
 
 *1603|
 [fc]
-[ns]Wataru[nse]
-"Ahahaha."[pcms]
+[ns]航[nse]
+「あははははっ」[pcms]
 
 *1604|
 [fc]
-I pull the pin of the grenade and raise it high above my[r]
-head so Marie can see it too.[pcms]
+ボクは手榴弾の安全ピンを抜くと、[r]
+マリーにも見えるように頭上高くかざした。[pcms]
 
 ;//♂：爆発の効果、シャイクやフラッシュなどお任せします
 ;mm追加
@@ -967,5 +955,5 @@ head so Marie can see it too.[pcms]
 
 [eval exp="sf.g_clear = 1"]
 
-(returntitle)[pcms]
+[returntitle][s]
 

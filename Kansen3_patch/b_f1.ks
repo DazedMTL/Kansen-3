@@ -16,133 +16,136 @@
 
 *4593|
 [fc]
-"Anyway, the best defense is a good offense!"[pcms]
+ともかく攻撃は最大の防御だっ！！[pcms]
 
 *4594|
 [fc]
-I decided to go for it and thrust the mop handle towards the[r]
-infected person's temple.[pcms]
+ボクは思い切って、感染者の側頭部めがけ、[r]
+モップの柄を突き込んだ。[pcms]
 
 *4595|
 [fc]
-There was a sensation of cutting through the air with a[r]
-'whoosh'.[pcms]
+ブンッと、風を切る感触がする。[pcms]
 
 *4596|
 [fc]
-My aim is... the forehead![pcms]
+狙いは……額だ！[pcms]
 
 *4597|
 [fc]
-That has to be one of the human body's vital points.[pcms]
+そこは間違いなく、人間の急所のはず。[pcms]
 
 *4598|
 [fc]
-For someone as physically weak as me, who isn't nearly as[r]
-good at sports or fighting as Kousuke, aiming there was the[r]
-only chance I had to take him down in one hit.[pcms]
+格闘技やケンカどころか、ろくにスポーツも[r]
+コースケほどに上手くはない非力なボクが一撃で[r]
+倒すには、そこを狙うしかないだろう。[pcms]
 
 *4599|
 [fc]
-However--[pcms]
+しかし――[pcms]
 
 *4600|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「ほえっ？」[pcms]
 
 *4601|
 [fc]
-Indeed, the mop handle hit his head. But the spot it hit[r]
-wasn't the forehead I aimed for; it was his right cheek.[pcms]
+確かに、モップの柄は彼の頭に命中した。[r]
+でも、その箇所は狙った額ではなく、[r]
+右頬だった。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4602|
 [fc]
-[ns]Infected Man A[nse]
-"That hurts, damn it."[pcms]
+[ns]感染者・男Ａ[nse]
+「イテェじゃねぇか」[pcms]
 
 *4603|
 [fc]
-While still in a thrusting stance, I heard the man's[r]
-sluggish voice and almost lost my balance, about to fall[r]
-over.[pcms]
+のっそりとした男の声を、ボクは突き込んだ体勢のまま、[r]
+バランスを崩して、倒れそうになったままで聞いた。[pcms]
 
 *4604|
 [fc]
-This is bad! I need to regain my posture at any cost...![pcms]
+このままじゃヤバイ！[r]
+ともかく体勢を整えないと……！[pcms]
 
 *4605|
 [fc]
-In an instant, my mind was racing with thoughts and[r]
-strategies, but my body couldn't keep up.[pcms]
+一瞬のうちに頭の中はグルグルと思考が[r]
+巡って対策が練られる。[r]
+だけど体のほうがついていかなかった。[pcms]
 
 *4606|
 [fc]
-The only reason I didn't end up face-planting on the floor[r]
-was that the man grabbed my arm.[pcms]
+ボクが床に顔から突っ込まずに済んだのは、[r]
+ひとえに男がボクの腕を掴んだからだ。[pcms]
 
 *4607|
 [fc]
-That's right... it wasn't because he was trying to help me.[pcms]
+そう……別にこれはボクを助けようとしたんじゃない。[pcms]
 
 *4608|
 [fc]
-Rather, it was the opposite--[pcms]
+むしろ逆の――。[pcms]
 
 ;//赤フラ１発
 [赤フラ]
 
 *4609|
 [fc]
-[ns]Wataru[nse]
-"Ughaaaaaaaahhhhhhh!"[pcms]
+[ns]航[nse]
+「うがあぁああああぁああぁぁあッ！」[pcms]
 
 *4610|
 [fc]
-The grip tightened mercilessly, and I couldn't help but[r]
-scream out in pain.[pcms]
+ギリギリと締め上げられ、ボクは思わず悲鳴をあげた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4611|
 [fc]
 [vo_yuh s="yuho0488"]
-[ns]Yuuho[nse]
-"Wataru! Run... quickly!"[pcms]
+[ns]悠帆[nse]
+「航っ！　逃げて……早く」[pcms]
 
 *4612|
 [fc]
-Spurred by Yuuho's voice, I turned towards her. She was[r]
-looking at me with a face about to cry.[pcms]
+悠帆の声にはじかれるように、[r]
+ボクは悠帆のほうを振り向いた。[r]
+泣きそうな顔でボクを見ている。[pcms]
 
 *4613|
 [fc]
-What's with that... Yuuho doesn't suit such a tearful[r]
-face...[pcms]
+なんだよ……悠帆にはそんな泣き顔なんて[r]
+似合わないのに……。[pcms]
 
 *4614|
 [fc]
-The man's grip tightened further, and my vision began to[r]
-blur red with suffocation. Could it be that this is the end?[pcms]
+ギリギリと男の腕が締め上げてきて、[r]
+ボクの視界は息苦しさに赤く染まり始める。[r]
+もしかして、もう終わりなのかな？[pcms]
 
 *4615|
 [fc]
-Without being able to save Yuuho? Right in front of her?[pcms]
+悠帆を助けられずに？[r]
+悠帆を目の前にして？[pcms]
 
 *4616|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry... ughh..."[pcms]
+[ns]航[nse]
+「ごめ……うっぐぅうっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4617|
 [fc]
 [vo_yuh s="yuho0489"]
-[ns]Yuuho[nse]
-"Wataru, Wataru, Wataruuuuuuuuuu!"[pcms]
+[ns]悠帆[nse]
+「航、航、わたるぅうううううううっ！！」[pcms]
 
 [赤フラ]
 
@@ -150,11 +153,10 @@ Without being able to save Yuuho? Right in front of her?[pcms]
 
 *4618|
 [fc]
-The last thing I felt before my consciousness was swallowed[r]
-by darkness was Yuuho's crying voice and a warm sensation on[r]
-my neck.[pcms]
+泣き叫ぶ悠帆の声と、首筋に熱いものを感じたのが、[r]
+ボクの意識が暗闇に飲み込まれる前に感じた最期のことだった。[pcms]
 
 ;//ゲームオーバー
 [gameover time=0 movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

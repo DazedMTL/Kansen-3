@@ -19,87 +19,91 @@
 
 *3616|
 [fc]
-What should I do? Where should I go?[pcms]
+どうする？[r]
+どこに行ったらいい？[pcms]
 
 *3617|
 [fc]
-I'm worried about Ren and Yuuho. But I only have one body.[pcms]
+漣も悠帆も心配だ。[r]
+でもボクの体はたった一つしかない。[pcms]
 
 *3618|
 [fc]
-Unable to choose either, nor able to choose to just run[r]
-away, I found myself frozen in place.[pcms]
+どちらを選ぶことも、だからといってボクだけ[r]
+逃げることも選べずに、[r]
+ボクはその場に立ち竦んでしまった。[pcms]
 
 *3619|
 [fc]
-At that moment...[pcms]
+その時……。[pcms]
 
 *3620|
 [fc]
-Someone grabbed my shoulder firmly.[pcms]
+ガシリと、誰かがボクの肩を掴んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
 *3621|
 [fc]
 [vo_mob s="onna_iti0013"]
-[ns]Woman A[nse]
-"Gotcha~♪"[pcms]
+[ns]女Ａ[nse]
+「つ～かま～えたっ♪」[pcms]
 
 *3622|
 [fc]
-A happy voice sounded close to my ear. I knew who it was[r]
-without turning around. I didn't want to turn around.[pcms]
+嬉しそうな声が耳元で聞こえる。[r]
+振り向かなくてもわかっていた。[r]
+振り向きたくもないと思った。[pcms]
 
 *3623|
 [fc]
-But my neck turned on its own, like a broken doll looking[r]
-back.[pcms]
+けれど首はもうボクの意思を離れて、[r]
+壊れた人形のように後ろを振り返る。[pcms]
 
 *3624|
 [fc]
-[ns]Wataru[nse]
-"! !? !!!"[pcms]
+[ns]航[nse]
+「！　！？　！！」[pcms]
 
 *3625|
 [fc]
-No voice came out. Just a pair of ominously glowing red eyes[r]
-approaching me.[pcms]
+声なんか出なかった。[r]
+ただただ赤く不吉に光る目がボクに迫り来る。[pcms]
 
 *3626|
 [fc]
-And then--[pcms]
+そして――[pcms]
 
 ;//♯_レッドフラッシュ
 [赤フラ]
 
 *3627|
 [fc]
-[ns]Wataru[nse]
-"Agggghhhhhhhhh!!!"[pcms]
+[ns]航[nse]
+「あぐぅううううううううっ！！」[pcms]
 
 *3628|
 [fc]
-A pain struck my throat, and my vision was dyed red.[pcms]
+喉元を襲う痛みに、ボクの目の前は真っ赤に染まった。[pcms]
 
 *3629|
 [fc]
-I realized it was because something had bitten me when I[r]
-felt a slimy sensation as I touched the painful area.[pcms]
+それが噛み付かれたせいだと気がついたのは、痛みが[r]
+走った箇所に手をやったときに感じたぬるりとした感触。[pcms]
 
 *3630|
 [fc]
-"Run away"[pcms]
+『逃げろ』[pcms]
 
 *3631|
 [fc]
-My mind was in overdrive, ordering me to evacuate. But my[r]
-body, powerless from the pain, collapsed on its own...[pcms]
+頭の中はフル回転でボクに退避命令を出してる。[r]
+けれど体は痛みに力なく勝手に崩れ落ちて……。[pcms]
 
 *3632|
 [fc]
-Numerous hands reached out towards me. That was the last[r]
-scene I saw.[pcms]
+幾本もの手がボクに向かって延ばされる。[r]
+それがボクが見た最期の光景だった。[pcms]
 
 
 ;//・ゲームオーバー
@@ -110,6 +114,6 @@ scene I saw.[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

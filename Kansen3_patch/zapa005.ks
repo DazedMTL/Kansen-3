@@ -21,55 +21,54 @@
 
 *1543|
 [fc]
-Faced with a supernatural phenomenon so far removed from[r]
-reality, my thoughts came to a complete halt.[pcms]
+あまりにも現実離れした怪異を前にして、[r]
+わたしの思考は完全に停止してしまった。[pcms]
 
 *1544|
 [fc]
-I was confident in my decision-making skills, but they were[r]
-utterly useless in an emergency.[pcms]
+決断力には自信があったけど、非常時には[r]
+何に役にも立たなかった。[pcms]
 
 *1545|
 [fc]
-As I stood there dazed, the opportunity completely slipped[r]
-by, and the two of us could only fret on the spot.[pcms]
+ぼうっとしているうちにタイミングは完全に失われ、[r]
+わたし達は二人でその場でおろおろとするだけ。[pcms]
 
 *1546|
 [fc]
-Then, with screams, some of the students who had fled to the[r]
-grounds came running back into the gymnasium.[pcms]
+そこへ悲鳴と共にグラウンド側から逃げた学生達の[r]
+一部が体育館へと戻ってきた。[pcms]
 
 [赤フラ]
 
 *1547|
 [fc]
-In no time, students rushed onto the connecting corridor,[r]
-and one of the girls who tripped over a step was trampled.[pcms]
+たちまち渡り廊下へと学生達が殺到して、段差で転んだ[r]
+女子の一人が踏みつけられた。[pcms]
 
 *1548|
 [fc]
-The eerie death cries and the unpleasant sound of breaking[r]
-bones echoed; I couldn't bear it and crouched down, covering[r]
-my ears.[pcms]
+奇怪な断末魔の悲鳴と骨の砕ける不快な音が鳴り響く。[r]
+わたしは耐えきれず、耳をふさいでその場にうずくまった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1549|
 [fc]
 [vo_yuh s="yuho0364"]
-[ns]Yuuho[nse]
-"What is this... what's happening..."[pcms]
+[ns]悠帆[nse]
+「なによこれ……なんなのよ……」[pcms]
 
 *1550|
 [fc]
 [vo_mob s="buinA0019"]
-[ns]Club Member A[nse]
-"It's a dream... this has to be a dream..."[pcms]
+[ns]部員Ａ[nse]
+「夢よ……きっとこれは夢なんだよ……」[pcms]
 
 *1551|
 [fc]
-We could only escape into denial, faced with a horror that[r]
-seemed nothing short of a nightmare.[pcms]
+悪夢としか考えられない怪異に、わたし達は[r]
+現実逃避するしかなかった。[pcms]
 
 ;//jump：zapA0006
 [jump storage="zapA006.ks" target=*zapA006_TOP]

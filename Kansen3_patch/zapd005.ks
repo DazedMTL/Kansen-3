@@ -24,28 +24,28 @@
 *3338|
 [fc]
 [vo_miz s="mizuki0110"]
-[ns]Mizuki[nse]
-"What's wrong!?"[pcms]
+[ns]瑞樹[nse]
+「……どうしたの！？」[pcms]
 
 *3339|
 [fc]
-Jin's voice sounded a bit panicked. Why would he, who is[r]
-always calm, be in such a state?[pcms]
+ジンの声は少し慌て気味。[r]
+いつも冷静な彼が、何故？[pcms]
 
 *3340|
 [fc]
-I don't understand. My head, still not functioning properly[r]
-due to the effects of the medicine and just waking up, can't[r]
-comprehend why Jin is so flustered.[pcms]
+わからない。[r]
+クスリの影響と、寝起きのせいでまだまともに回転しないあたしの[r]
+頭では、ジンが慌てている理由なんて全然わからない。[pcms]
 
 *3341|
 [fc]
-It's concerning... But I should go to Jin.[pcms]
+気になるけど……。[r]
+でも、ジンの所へ行った方がいい。[pcms]
 
 *3342|
 [fc]
-With a heavy head, I staggered to my feet and made my way[r]
-outside the door.[pcms]
+重い頭を上げ、フラフラと扉の外へと足を運んだ。[pcms]
 
 [eval exp="f.l_mizuki = 1"]
 

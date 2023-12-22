@@ -18,91 +18,90 @@
 
 *4512|
 [fc]
-Should I go to Yuuho or to Ren?[pcms]
+悠帆の元へ行くか、漣の元へ行くか。[pcms]
 
 *4513|
 [fc]
-First of all, since they're at opposite ends of the school,[r]
-it's not like I can pick one up on the way to the other.[pcms]
+だいいち、ご丁寧に学園の端と端にあるから、[r]
+途中でどっちかをピックアップしてなんて真似はできない。[pcms]
 
 *4514|
 [fc]
-Both are important to me, and I want to check on their[r]
-safety as soon as possible.[pcms]
+ボクにとってはどちらも大事で、[r]
+どちらも同じくらい安否を今すぐにも確かめたいのに。[pcms]
 
 *4515|
 [fc]
-I only have one body.[pcms]
+体は一つしかない。[pcms]
 
 *4516|
 [fc]
-I was caught in a dilemma, completely forgetting my own[r]
-situation. That's right... I myself am in the midst of[r]
-danger.[pcms]
+ボクはジレンマに陥って、すっかり自分の立場を忘れていた。[r]
+そう……ボク自身が危険地帯真っ只中にいることを。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4517|
 [fc]
 [vo_mob s="onna_iti0022"]
-[ns]Infected Woman A[nse]
-"Hey, boy!"[pcms]
+[ns]感染者・女Ａ[nse]
+「男よぉおおっ！」[pcms]
 
 *4518|
 [fc]
-[ns]Wataru[nse]
-"Aaahhh!!"[pcms]
+[ns]航[nse]
+「うわぁあああっ！！」[pcms]
 
 *4519|
 [fc]
-Startled by the voice from behind, I blindly ran away from[r]
-the spot.[pcms]
+後ろからの声に驚いて、[r]
+ボクは闇雲にその場から逃げ出した。[pcms]
 
 *4520|
 [fc]
-Forgetting that I was running towards the direction where[r]
-they were densely gathered.[pcms]
+それがヤツラの密集している方向だということも忘れて。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_f"][ChrSetXY layer=5 x=191 y=0][trans_c cross time=150]
 
 *4521|
 [fc]
 [vo_mob s="onna2_0014"]
-[ns]Infected Woman C[nse]
-"A young dick. It's rock hard."[pcms]
+[ns]感染者・女Ｃ[nse]
+「若いチンポだわ。ビンビンだわ」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
 *4522|
 [fc]
-[ns]Infected Man A[nse]
-"I'm starving."[pcms]
+[ns]感染者・男Ａ[nse]
+「腹減ったぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
 *4523|
 [fc]
 [vo_mob s="onna_san0009"]
-[ns]Infected Woman D[nse]
-"We need to squeeze out lots of semen."[pcms]
+[ns]感染者・女Ｄ[nse]
+「たっぷり精子を搾り出さなきゃ」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4524|
 [fc]
 [vo_mob s="onna_iti0023"]
-[ns]Infected Woman A[nse]
-"Ahaha, ahahahaha! Let's have SEX. Sex, sex, sex!!"[pcms]
+[ns]感染者・女Ａ[nse]
+「あは、あはははははっ！　ＳＥＸしよ。[r]
+　セックス、セックス、セックスゥウウッ！！」[pcms]
 
 *4525|
 [fc]
-Without a moment to regret having carelessly jumped into the[r]
-jaws of starving beasts...[pcms]
+不用意に、餓えたケダモノの顎に我が身を[r]
+飛び込ませた事を後悔するヒマもなく……。[pcms]
 
 *4526|
 [fc]
-I was overwhelmed by the surging crowd and swallowed up[r]
-without being able to resist.[pcms]
+ボクは殺到する人々に抵抗すらできずに、[r]
+飲み込まれていった。[pcms]
 
 ;//〆：ゲームオーバー画面へ
 ;//jump：ブロック●●●●●
@@ -110,5 +109,5 @@ without being able to resist.[pcms]
 ;//●●●●●仕様の確定を
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

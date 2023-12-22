@@ -1,10 +1,10 @@
 ;//Block:C002
-;//ブロック４２０１０『地下道漣のみ脱出編』
+;//ブロック４２０１０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42000.txtから
 
 *42010_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//---------------------------------------------------------------
 ;//背景：分校舎地下室
 ;//登場人物:主人公・浩助・マルガリータ・漣
@@ -23,10 +23,9 @@
 
 *4556|
 [fc]
-Repelled by the senior's words, we turned our eyes from the[r]
-hatch that was being continuously pelted like early summer[r]
-rain, towards the basement illuminated by the flashlight and[r]
-proceeded.[pcms]
+先輩の言葉にはじかれ、ボクたちはまるで五月雨のように[r]
+だらだらと叩き続けられているハッチから、懐中電灯の光に[r]
+照らし出されている地下室へと目を向けて進んだ。[pcms]
 
 ;//場面転換
 
@@ -43,121 +42,123 @@ proceeded.[pcms]
 *4557|
 [fc]
 [vo_mar s="maru0556"]
-[ns]Margarita[nse]
-"...The voices have quieted down..."[pcms]
+[ns]マルガリータ[nse]
+「……声がやんだな……」[pcms]
 
 *4558|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はいっ……」[pcms]
 
 *4559|
 [fc]
-Just as we reached the basement, a voice like a curse was[r]
-heard, and the noise of the hatch being struck, which had[r]
-been loud until now, stopped completely.[pcms]
+ボクたちが地下室へとたどりついたと同時ぐらいに、[r]
+悪態のような声が聞こえたかと思うと、さっきまで[r]
+うるさいほどだったハッチを叩く音もまったくしなくなった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4560|
 [fc]
-[ns]Kousuke[nse]
-"Maybe they've given up? If it's now, we might be able to go[r]
-back... Then, we can help those who were left behind."[pcms]
+[ns]浩助[nse]
+「もしかして、あいつらあきらめたのか？[r]
+　今なら帰れるんじゃ……。[r]
+　そしたら、逃げ遅れたやつらを助けられるし」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4561|
 [fc]
 [vo_mar s="maru0557"]
-[ns]Margarita[nse]
-"It's impossible. There's also the possibility of an ambush.[r]
-Even beasts would have that much wit."[pcms]
+[ns]マルガリータ[nse]
+「無理だな。待ち伏せの可能性もある。[r]
+　獣でもそれくらいの知恵はあるだろう」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4562|
 [fc]
-[ns]Kousuke[nse]
-"Senior! The way you say it, it's like my wit is less than[r]
-that of a beast~"[pcms]
+[ns]浩助[nse]
+「先輩っ！[r]
+　その言い方だと、[r]
+　まるでオレの知恵は獣以下みたいじゃないですか～」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4563|
 [fc]
 [vo_mar s="maru0558"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *4564|
 [fc]
 [vo_mar s="maru0559"]
-[ns]Margarita[nse]
-"...That might be true..."[pcms]
+[ns]マルガリータ[nse]
+「……そうかもな……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f6"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4565|
 [fc]
-[ns]Kousuke[nse]
-"Senpai~!!"[pcms]
+[ns]浩助[nse]
+「せんぱ～いっ！！[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4566|
 [fc]
 [vo_ren s="ren0585"]
-[ns]Ren[nse]
-"...Ufufu... Ko-chan is so..."[pcms]
+[ns]漣[nse]
+「……うふふっ……コーちゃんったら……」[pcms]
 
 *4567|
 [fc]
-Ren laughed. Even though she had been crying a little while[r]
-ago. Somehow, the atmosphere that had been filled with[r]
-despair seemed to lighten up a bit.[pcms]
+漣が笑った。[r]
+さっきまで、少しだけど泣いていたのに。なんとなく、[r]
+今までの絶望したような雰囲気が少し明るくなった。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4568|
 [fc]
-She really is a mood maker. I was worried about her[r]
-before... but she's calmed down. It's good that Kousuke is[r]
-here at a time like this.[pcms]
+本当にムードメーカーってやつだな。[r]
+さっきは大丈夫かなと思ったけど……落ち着いたんだな。[r]
+こんな時にコースケがいてくれて、よかった。[pcms]
 
 *4569|
 [fc]
-...If only Yuuho were here too...[pcms]
+……これであとは悠帆がいてくれれば……。[pcms]
 
 *4570|
 [fc]
-When Kousuke said "we might be able to go back," I wanted to[r]
-say that I would go back to save Yuuho.[pcms]
+さっき、コースケが「帰れるんじゃ」って言った時、[r]
+ボクは悠帆を助けに戻るって言いたかった。[pcms]
 
 *4571|
 [fc]
-But now is not the time for that. What Margarita-senpai says[r]
-is correct.[pcms]
+でも、今はそんな場合じゃない。[r]
+マルガリータ先輩の言うことが正しいのだから。[pcms]
 
 *4572|
 [fc]
-I can't leave Ren behind. Just as the senior said, I have to[r]
-protect her. Yuuho... Yuuho will surely manage to escape[r]
-with her physical strength.[pcms]
+漣を置いてはいけない。[r]
+先輩の言うとおり、ボクが守らなくっちゃ。[r]
+悠帆は……悠帆はきっと、あの体力で逃げ切ってくれる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4573|
 [fc]
 [vo_mar s="maru0560"]
-[ns]Margarita[nse]
-"Let's move on..."[pcms]
+[ns]マルガリータ[nse]
+「先に進むぞ……」[pcms]
 
 *4574|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はいっ……」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -175,221 +176,215 @@ with her physical strength.[pcms]
 *4575|
 [fc]
 [vo_ren s="ren0586"]
-[ns]Ren[nse]
-"...It smells musty..."[pcms]
+[ns]漣[nse]
+「……カビ臭い……」[pcms]
 
 *4576|
 [fc]
-[ns]Wataru[nse]
-"That's true... Ren, you should cover your mouth with a[r]
-handkerchief."[pcms]
+[ns]航[nse]
+「本当だ……。[r]
+　漣はハンカチを口に当てたほうがいいよ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4577|
 [fc]
 [vo_ren s="ren0587"]
-[ns]Ren[nse]
-"Okay..."[pcms]
+[ns]漣[nse]
+「うんっ……」[pcms]
 ;//＠オフ　ハンカチを口に当る。ここからマイクオフで
 
 *4578|
 [fc]
-Ren took out a folded handkerchief from her skirt and[r]
-covered her mouth with it.[pcms]
+漣はスカートからたたんだハンカチを取り出して口に当てる。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4579|
 [fc]
-The cool basement emitted a unique smell of mold, rotten[r]
-water, and concrete mixed together.[pcms]
+ひんやりとした地下室からはカビと腐った水と[r]
+コンクリートの入り混じった特有の臭いがしてくる。[pcms]
 
 *4580|
 [fc]
-The walls and ceiling were bare concrete as expected. That[r]
-might be what made it feel even colder. The ceiling was[r]
-quite high, about three stories... around 9 meters.[pcms]
+当たりまえだけど壁も天井もコンクリートの打ちっぱなしだ。[r]
+それがよけいに寒々しく感じさせるのかもしれない。[r]
+天井はかなり高くて、三階分……９メートルくらいはある。[pcms]
 
 *4581|
 [fc]
-We are now near that high ceiling.[pcms]
+ボクたちは今、その天井に近い場所にいる。[pcms]
 
 *4582|
 [fc]
-From the hatch, there is a wide concrete staircase with low[r]
-steps that gently slopes down along the wall, continuing on.[pcms]
+ハッチからは、幅広で段が低く、[r]
+いくらかなだらかなコンクリートの下り階段が壁に沿って、[r]
+ずっと続いている。[pcms]
 
 *4583|
 [fc]
-Strangely enough for an emergency exit, there are no[r]
-handrails. From here to the basement floor is about 6[r]
-meters.[pcms]
+いかにも非常用だというのになぜか手すりはない。[r]
+ここから地下室の床までは６メートルくらいはある。[pcms]
 
 *4584|
 [fc]
-If one were to fall down to the bottom by mistake, it could[r]
-be a height fatal enough to kill instantly if unlucky.[pcms]
+間違って下まで落ちてしまったら、[r]
+悪ければ即死できる高さだ。[pcms]
 
 *4585|
 [fc]
-There was once a game about an explorer who died just from[r]
-tripping over a small step, but humans can die from just[r]
-slipping if they land badly.[pcms]
+昔――ちょっとの段差で転んだだけで死ぬ[r]
+探検家のゲームがあったけど、人間打ち所が悪ければ、[r]
+足を滑らせただけでも死んでしまう。[pcms]
 
 *4586|
 [fc]
-Yoshino-san would have surely died if it had been a normal[r]
-situation.[pcms]
+吉野さんだって、普通ならきっとあのまま死んでいた。[pcms]
 
 *4587|
 [fc]
-Suddenly remembering that scene, I shook my head to push[r]
-away the unpleasant memory.[pcms]
+ふと、あの光景を思い出しかけてボクは頭を振って、[r]
+嫌な記憶を押しやる。[pcms]
 
 *4588|
 [fc]
-While doing so, we reached a wide landing that felt like the[r]
-midpoint of the basement. It was right at the corner of the[r]
-basement.[pcms]
+そんなことをしているうちに[r]
+地下室の中間地点といった感じの広い踊り場にたどり着く。[r]
+ちょうど地下室の角に当たる場所だ。[pcms]
 
 *4589|
 [fc]
-If it were a three-story building, it would be like[r]
-descending from the third floor to the second floor.[pcms]
+三階建ての建物だとしたら、ちょうど三階から二階へと[r]
+降りてきたような形だ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4590|
 [fc]
-[ns]Kousuke[nse]
-"Why is there such a basement? What on earth is it for...?"[pcms]
+[ns]浩助[nse]
+「なんで、こんな地下が？[r]
+　いったいなんのために……」[pcms]
 
 *4591|
 [fc]
-Kousuke looked around and let out his question as if asking[r]
-no one in particular.[pcms]
+コースケは辺りを見回しながら、[r]
+誰に問うというでもなく疑問をもらす。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4592|
 [fc]
-Certainly, this basement was a mystery to me too. Looking[r]
-up, there were ceilings cracked and stained. Parts of the[r]
-wall had fallen off, revealing red brick underneath.[pcms]
+たしかに、ボクにもこの地下室は不可解だった。[r]
+見上げればひび割れ、シミの浮き出た天井。[r]
+壁の一部ははがれ落ち、赤い煉瓦の壁が見えている。[pcms]
 
 *4593|
 [fc]
-It looked very old. It might be an evacuation route or[r]
-something, but what is this for, and why here...?[pcms]
+ひどく古いものに見える。[r]
+避難通路か、なにかかもしれないが、[r]
+いったいこれは何で、何のためにここに……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4594|
 [fc]
 [vo_mar s="maru0561"]
-[ns]Margarita[nse]
-"This used to be a terminal connecting an evacuation route[r]
-from the former Olympic Village to the surface."[pcms]
+[ns]マルガリータ[nse]
+「ここはかつての『オリンピック選手村』からの避難経路と[r]
+　地上を結ぶターミナルだ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4595|
 [fc]
 [vo_ren s="ren0588"]
-[ns]Ren[nse]
-"The Olympic Village?"[pcms]
+[ns]漣[nse]
+「オリンピックの……選手村？」[pcms]
 ;//＠オフ　ハンカチを口に当てている　オフここまで
 
 *4596|
 [fc]
-[ns]Wataru[nse]
-"Now that you mention it, I've heard about it too!"[pcms]
+[ns]航[nse]
+「そういえば、ボクも聞いたことがあるよ！」[pcms]
 
 ;//@konya 暗転
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4597|
 [fc]
-About half a century ago during the Tokyo Olympics. The[r]
-Olympic Village was said to have been built in what is now[r]
-Yoyogi Park.[pcms]
+半世紀ほども前に開催された東京オリンピック。[r]
+その選手村は、現在の代々木公園に建てられていたそうだ。[pcms]
 
 *4598|
 [fc]
-But at that time in Japan, there were active protests and[r]
-terrorist activities by radicals.[pcms]
+だけど、その頃の日本は抗議活動や[r]
+過激派によるテロが盛んだった。[pcms]
 
 *4599|
 [fc]
-Therefore, as one of the measures to protect athletes from[r]
-various anticipated situations including large-scale[r]
-demonstrations and radical activities, an evacuation route[r]
-was constructed beneath the Olympic Village, so goes the[r]
-story.[pcms]
+だから、大規模なデモ隊や過激派の活動を初めとした[r]
+予想されうる様々な事態から選手を守るための手段の一つとして、[r]
+選手村の地下には避難通路が造られたという話だ。[pcms]
 
 *4600|
 [fc]
-This is--[pcms]
+これは――[pcms]
 
 *4601|
 [fc]
-"There are secret escape routes underground for government[r]
-officials" "There are underground shelters for high-ranking[r]
-government officials"[pcms]
+『首都の地下には政府関係者のための秘密の脱出通路がある』[r]
+『政府高官のための地下シェルターがある』[pcms]
 
 *4602|
 [fc]
-I heard from my father that this is the origin of the famous[r]
-urban legend.[pcms]
+という有名な都市伝説の元だと父さんから聞いたことがある。[pcms]
 
 *4603|
 [fc]
-The underground passage was said to be connected to DHK's[r]
-broadcasting center and the government complex as well.[pcms]
+その地下通路はＤＨＫの放送センターや[r]
+総合庁舎とも繋がっていたらしい。[pcms]
 
 ;//@konya ev025a 地下道（BG扱い）
 ;[evcg storage="EV025a"][trans_c cross time=300]
 
 *4604|
 [fc]
-An unused passage forgotten and only mentioned in urban[r]
-legends... And it's right here. Moreover, it's connected to[r]
-our school as well.[pcms]
+使われなくなって、忘れ去られ、都市伝説の中にしか[r]
+でてこない通路が、ここにあるなんて……。[r]
+しかも、ボクたちの通う学園からも通じていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4605|
 [fc]
 [vo_mar s="maru0562"]
-[ns]Margarita[nse]
-"If what I've heard is true, from here we can follow the[r]
-passage and river and should be able to emerge above[r]
-ground."[pcms]
+[ns]マルガリータ[nse]
+「聞いた話が本当なら、ここから通路と川を伝っていけば、[r]
+　地上へと出られるはずだ」[pcms]
 
 *4606|
 [fc]
-[ns]Wataru[nse]
-"Is that true, Senpai?"[pcms]
+[ns]航[nse]
+「本当ですか？　先輩」[pcms]
 
 *4607|
 [fc]
 [vo_mar s="maru0563"]
-[ns]Margarita[nse]
-"Yes... However, since the passage hasn't been used for many[r]
-years, there might be places that have become impassable,[r]
-and I don't have an accurate map."[pcms]
+[ns]マルガリータ[nse]
+「ああ……。ただし、何年も使われていない通路だから、[r]
+　本当だとしても通れなくなっている場所があるかもしれないし、[r]
+　ワタシもちゃんとした地図を持っているわけじゃない」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4608|
 [fc]
 [vo_mar s="maru0564"]
-[ns]Margarita[nse]
-"Besides, there's also a non-zero chance that those beast-[r]
-like people have gotten in..."[pcms]
+[ns]マルガリータ[nse]
+「それにあの獣のような人間たちが入り込んでいる可能性も[r]
+　ゼロではないしな……」[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -409,33 +404,32 @@ like people have gotten in..."[pcms]
 
 *4609|
 [fc]
-As we descended the stairs to the floor below, Senpai[r]
-Margarita said. The light from the flashlight shone on a[r]
-red, rusted iron door.[pcms]
+床へと続く階段を下りながら、マルガリータ先輩は言った。[r]
+懐中電灯の照らす光が赤く錆びた鉄の扉を映し出す。[pcms]
 
 *4610|
 [fc]
-The double doors had a rusty chain wrapped around the handle[r]
-in the center, with an iron pipe passed through it like a[r]
-bolt. There doesn't seem to be anything resembling a lock.[pcms]
+両開きの扉の中央の取っ手部分には、錆びたチェーンが[r]
+巻き付けられ、鉄パイプが閂のように通されている。[r]
+鍵のような物は、見あたらない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4611|
 [fc]
 [vo_mar s="maru0565"]
-[ns]Margarita[nse]
-"This door is terribly rusted. It doesn't seem impossible to[r]
-open, but we might have to break it if necessary. Well,[r]
-given its condition... if we're determined, we could[r]
-probably break it..."[pcms]
+[ns]マルガリータ[nse]
+「この扉はひどくサビついている。開けられなくは[r]
+　なさそうだが、場合によっては壊すしかないな。まあ、[r]
+　この様子なら……その気になれば、壊せるだろうが……」[pcms]
 
 *4612|
 [fc]
 [vo_mar s="maru0566"]
-[ns]Margarita[nse]
-"It seems safe here for now. You must be tired from all the[r]
-running. Let's rest here for a bit..."[pcms]
+[ns]マルガリータ[nse]
+「ここは今のところ安全なようだ。[r]
+　逃げ続けで疲れているだろう。[r]
+　とりあえず、ここで少し休む……」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -449,26 +443,26 @@ running. Let's rest here for a bit..."[pcms]
 *4613|
 [fc]
 [vo_mar s="maru0567"]
-[ns]Margarita[nse]
-"...It seems that's not an option..."[pcms]
+[ns]マルガリータ[nse]
+「……と、いう訳にはいかないようだな……」[pcms]
 
 *4614|
 [fc]
-The banging on the hatch increased, and it felt as if the[r]
-hatch, the walls, were creaking.[pcms]
+ハッチを叩く音が増え、[r]
+ハッチが、壁が軋みをあげているような気さえする。[pcms]
 
 *4615|
 [fc]
-At Senpai Margarita's words, I hurriedly pulled Ren up as I[r]
-was about to let her sit down.[pcms]
+マルガリータ先輩の言葉に、[r]
+漣を座らせようとしていたボクはあわてて、引き上げる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4616|
 [fc]
 [vo_ren s="ren0589"]
-[ns]Ren[nse]
-"Ah... Onii-chan..."[pcms]
+[ns]漣[nse]
+「あっ……お兄ちゃん……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -482,17 +476,16 @@ was about to let her sit down.[pcms]
 
 *4617|
 [fc]
-Perhaps because of the sudden way I lifted her, Ren's face[r]
-turned red.[pcms]
+ふと抱き上げるような形になったせいか、漣は顔を赤らめる。[pcms]
 
 *4618|
 [fc]
-It was unexpected, unlike what happened earlier.[pcms]
+さっきみたいな場合ならまだしも、急なことだったんだろう。[pcms]
 
 *4619|
 [fc]
-Even if I am her brother, being hugged so frequently would[r]
-surely make Ren embarrassed.[pcms]
+いくら兄でもこんなに頻繁に抱きつかれてたら、[r]
+漣だって恥ずかしいに違いない。[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -503,16 +496,16 @@ surely make Ren embarrassed.[pcms]
 
 *4620|
 [fc]
-[ns]Wataru[nse]
-"It's okay, Ren."[pcms]
+[ns]航[nse]
+「大丈夫だよ、漣」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4621|
 [fc]
 [vo_ren s="ren0590"]
-[ns]Ren[nse]
-"Y-yeah..."[pcms]
+[ns]漣[nse]
+「う、うん……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -522,103 +515,106 @@ surely make Ren embarrassed.[pcms]
 
 *4622|
 [fc]
-Ren's body was trembling. The sound of someone hitting the[r]
-hatch grew louder and echoed throughout the basement.[pcms]
+漣の身体は震えていた。[r]
+ハッチを殴る音はますます大きくなって、[r]
+地下室の中で反響している。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4623|
 [fc]
 [vo_mar s="maru0568"]
-[ns]Margarita[nse]
-"They seem to be losing patience..."[pcms]
+[ns]マルガリータ[nse]
+「痺れを切らしたようだな……」[pcms]
 
 *4624|
 [fc]
-Senpai murmured while looking at the hatch.[pcms]
+先輩はハッチを見ながらつぶやく。[pcms]
 
 *4625|
 [fc]
 [vo_mar s="maru0569"]
-[ns]Margarita[nse]
-"That's an unpleasant sound. The door should hold, but it[r]
-seems like the surrounding concrete has deteriorated."[pcms]
+[ns]マルガリータ[nse]
+「嫌な音がしているな。[r]
+　扉は大丈夫だろうが、[r]
+　周囲のコンクリートが老朽化しているようだ」[pcms]
 
 *4626|
 [fc]
-[ns]Wataru[nse]
-"Deteriorated...?"[pcms]
+[ns]航[nse]
+「老朽化って……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4627|
 [fc]
 [vo_mar s="maru0570"]
-[ns]Margarita[nse]
-"I had heard that buildings constructed during the[r]
-construction boom era often used poor quality concrete with[r]
-things like sea sand mixed in... This place might be one of[r]
-those."[pcms]
+[ns]マルガリータ[nse]
+「建設ラッシュ時代の建物は海の砂などをそのまま使った[r]
+　粗悪なコンクリートが少なくなかったと[r]
+　聞いてはいたが……。ここもそうだったのかもしれない」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4628|
 [fc]
-[ns]Kousuke[nse]
-"Damn it! Isn't there anything we can do...?"[pcms]
+[ns]浩助[nse]
+「クソッ！[r]
+　何とかならねーのかよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4629|
 [fc]
 [vo_mar s="maru0571"]
-[ns]Margarita[nse]
-"There isn't. All we can do is run."[pcms]
+[ns]マルガリータ[nse]
+「ならないな。[r]
+　ワタシ達にできることは、逃げるだけだろう」[pcms]
 
 *4630|
 [fc]
-In contrast to Kousuke, Senpai remained completely calm.[pcms]
+コースケとは対照的に先輩はどこまでも冷静だ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4631|
 [fc]
-[ns]Kousuke[nse]
-"Damn it all!!"[pcms]
+[ns]浩助[nse]
+「コンチクショー！！」[pcms]
 
 *4632|
 [fc]
-Kousuke clenched his fist in frustration. But there was[r]
-nowhere to direct his anger.[pcms]
+コースケは悔しそうに拳を握りしめている。[r]
+だけど、それを振り下ろす場所はない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4633|
 [fc]
 [vo_mar s="maru0572"]
-[ns]Margarita[nse]
-"Anyway, we can't afford to rest easy here. You might be[r]
-tired, but we need to keep moving. Use that energy of yours[r]
-to overcome the obstacles ahead."[pcms]
+[ns]マルガリータ[nse]
+「ともかく、ここにいてはおちおち休むこともできない。[r]
+　疲れてるだろうが、このまま移動するぞ。[r]
+　キミのその元気は、この先の障害を排除するのに使え」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4634|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4635|
 [fc]
 [vo_mar s="maru0573"]
-[ns]Margarita[nse]
-"If you understand, then let's hurry on!"[pcms]
+[ns]マルガリータ[nse]
+「わかったら、先を急ぐぞっ！」[pcms]
 
 *4636|
 [fc]
-Kousuke and I nodded silently to Senpai.[pcms]
+ボクとコースケは先輩に無言でうなずいた。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

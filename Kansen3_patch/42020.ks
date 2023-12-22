@@ -1,10 +1,10 @@
 ;//block:C003
-;//ブロック４２０２０『地下道漣のみ脱出編』
+;//ブロック４２０２０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42010.txtから
 
 *42020_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//---------------------------------------------------------------
 ;//背景：分校舎地下室・地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣
@@ -32,114 +32,113 @@
 *4637|
 [fc]
 [vo_mar s="maru0574"]
-[ns]Margarita[nse]
-"Here we go... Mmm..."[pcms]
+[ns]マルガリータ[nse]
+「いくぞ……。[r]
+　んんっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4638|
 [fc]
-[ns]Kousuke[nse]
-"Heave-ho!"[pcms]
+[ns]浩助[nse]
+「どっせーいっ！！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4639|
 [fc]
-[ns]Wataru[nse]
-"...Ugh..."[pcms]
+[ns]航[nse]
+「……う～ん」[pcms]
 
 ;//se085・錆びた金属ドアのきしむ音
 ;//[se buf=0 storage="se085"]
 
 *4640|
 [fc]
-Wataru, Kousuke, and the senior were all pushing against the[r]
-rusty iron door in the basement.[pcms]
+ボクとコースケと先輩は地下室の錆びた鉄の扉を[r]
+三人がかりで押していた。[pcms]
 
 *4641|
 [fc]
-As expected, Ren was waiting behind us.[pcms]
+さすがに漣はうしろでまっている。[pcms]
 
 *4642|
 [fc]
-The door, completely rusted over, wouldn't open easily no[r]
-matter how quickly we tried to push it. It opened only very[r]
-slowly, little by little.[pcms]
+すっかり錆びている扉は早く開こうとしても、[r]
+なかなか開いてはくれない。[r]
+ゆっくりと、本当に少しずつしか開かない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4643|
 [fc]
 [vo_mar s="maru0575"]
-[ns]Margarita[nse]
-"It's rusted shut; it doesn't look like it will open[r]
-easily."[pcms]
+[ns]マルガリータ[nse]
+「錆びついていて、すぐには開きそうにないな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4644|
 [fc]
-[ns]Kousuke[nse]
-"Should I try one of the senior's famous kicks?"[pcms]
+[ns]浩助[nse]
+「先輩の得意のキックでもかましてみます？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4645|
 [fc]
 [vo_mar s="maru0576"]
-[ns]Margarita[nse]
-"Let's not..."[pcms]
+[ns]マルガリータ[nse]
+「やめておこう……」[pcms]
 
 *4646|
 [fc]
-[ns]Wataru[nse]
-"So it's impossible even for the senior, huh?"[pcms]
+[ns]航[nse]
+「やっぱり先輩でも無理ですか」[pcms]
 
 *4647|
 [fc]
 [vo_mar s="maru0577"]
-[ns]Margarita[nse]
-"It might open, but... I don't want to kick a door like this[r]
-unless it's an emergency. You never know what kind of injury[r]
-you might get."[pcms]
+[ns]マルガリータ[nse]
+「開くかも知れないが……[r]
+　こんな扉、非常時以外には蹴りたくはないな。[r]
+　どんな怪我をするかわからない」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4648|
 [fc]
-[ns]Kousuke[nse]
-"So you're confident it would open..."[pcms]
+[ns]浩助[nse]
+「開く自信はあるってことですね……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4649|
 [fc]
-Kousuke chuckled wryly.[pcms]
+コースケは苦笑する。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4650|
 [fc]
 [vo_mar s="maru0578"]
-[ns]Margarita[nse]
-"That's right. But if I twist my ankle, it'll be hard to[r]
-walk, and if I get cut by the rust, there's a risk of[r]
-getting tetanus."[pcms]
+[ns]マルガリータ[nse]
+「そういうことだ。[r]
+　だが、足をひねれば歩きにくくなるし、[r]
+　錆で切れば破傷風になってしまうリスクもある」[pcms]
 
 *4651|
 [fc]
 [vo_mar s="maru0579"]
-[ns]Margarita[nse]
-"There's no need to go to such lengths. If you understand,[r]
-then let's push hard! The more time passes, the less leeway[r]
-we have."[pcms]
+[ns]マルガリータ[nse]
+「わざわざ、そんなことをする必要はあるまい。[r]
+　わかったなら、がんばって押すぞ！[r]
+　時間が経てばそれだけ余裕がなくなるからな」[pcms]
 
 *4652|
 [fc]
-Wataru and Kousuke continued to push the door following the[r]
-senior's lead.[pcms]
+ボクとコースケは先輩に従って扉を押し続けた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -157,94 +156,93 @@ senior's lead.[pcms]
 
 *4653|
 [fc]
-[ns]Kousuke[nse]
-"Finally, it's open..."[pcms]
+[ns]浩助[nse]
+「やっと、開いたな……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4654|
 [fc]
-How many minutes had we been pushing that door? I have no[r]
-idea since I wasn't looking at a clock. It feels like a lot[r]
-of time has passed, but then again, maybe not.[pcms]
+アレから何分くらいボクたちは扉を押していただろう？[r]
+時計を見ていないから全然わからない。すごく時間が[r]
+経ったようにも思えるし、そうじゃない気もする。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4655|
 [fc]
 [vo_mar s="maru0580"]
-[ns]Margarita[nse]
-"Let's go, quickly... Don't forget anything."[pcms]
+[ns]マルガリータ[nse]
+「いくぞ、早く……。[r]
+　忘れ物をするなよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4656|
 [fc]
-[ns]Kousuke[nse]
-"Senior..."[pcms]
+[ns]浩助[nse]
+「先輩……」[pcms]
 
 *4657|
 [fc]
-As soon as the door opened, the senior gestured for us to[r]
-follow through.[pcms]
+開いたとたんに、扉をくぐりボク達を手招きする先輩。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4658|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4659|
 [fc]
 [vo_ren s="ren0591"]
-[ns]Ren[nse]
-"Yes... Onii-chan..."[pcms]
+[ns]漣[nse]
+「うんっ……お兄ちゃん……」[pcms]
 
 *4660|
 [fc]
-Ren nodded slightly and approached me. I took her hand and[r]
-led her through the door.[pcms]
+漣はコクリとうなずいて、ボクの方へと近寄ってくる。[r]
+ボクは漣の手を引いて導きながら、扉をくぐった。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4661|
 [fc]
-Following Wataru and Ren, Kousuke also passed through the[r]
-door.[pcms]
+ボクと漣のあとに続いてコースケが扉をくぐる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4662|
 [fc]
 [vo_mar s="maru0581"]
-[ns]Margarita[nse]
-"You didn't forget anything, did you?"[pcms]
+[ns]マルガリータ[nse]
+「忘れ物はないな？」[pcms]
 
 *4663|
 [fc]
-[ns]Wataru[nse]
-"No, I haven't..."[pcms]
+[ns]航[nse]
+「は、はい……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4664|
 [fc]
-[ns]Kousuke[nse]
-"I don't think so..."[pcms]
+[ns]浩助[nse]
+「ないと思うけど……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4665|
 [fc]
 [vo_mar s="maru0582"]
-[ns]Margarita[nse]
-"Then good. I'm closing it..."[pcms]
+[ns]マルガリータ[nse]
+「では、いいなっ。閉めるぞ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -254,45 +252,45 @@ door.[pcms]
 
 *4666|
 [fc]
-After hearing our responses, the senior began to close the[r]
-door we had just opened.[pcms]
+先輩はボクたちの返事を聞くと、[r]
+開けたばかりの扉を閉め始めた。[pcms]
 
 *4667|
 [fc]
-Unlike before, the iron door closed easily and satisfyingly[r]
-all at once.[pcms]
+さっきとは違って気持ちいいほど、[r]
+一気に易々と鉄の扉は閉まっていく。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4668|
 [fc]
-[ns]Kousuke[nse]
-"Somehow, it feels like a waste to close it right after we[r]
-worked so hard to open it..."[pcms]
+[ns]浩助[nse]
+「なんか、苦労して開けたのを[r]
+　すぐに閉めるのはもったいない気がするな～」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4669|
 [fc]
 [vo_mar s="maru0583"]
-[ns]Margarita[nse]
-"Stop chattering and keep watch over there. I'll make sure[r]
-they can't get in by securing this door properly..."[pcms]
+[ns]マルガリータ[nse]
+「ムダ口を叩いてないで、キミはそっちを見張ってろ。[r]
+　ワタシはあいつらが入ってこれないように、[r]
+　この扉をしっかりとふさいでおく……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4670|
 [fc]
-[ns]Kousuke[nse]
-"Yes, ma'am..."[pcms]
+[ns]浩助[nse]
+「は、はい……」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4671|
 [fc]
-Taking the senior's serious words to heart, Kousuke stopped[r]
-his light banter and began looking around with his[r]
-flashlight down the dark corridor.[pcms]
+先輩の真剣な言葉にコースケも軽口をやめて、[r]
+暗い通路の先を懐中電灯で照らして、見回している。[pcms]
 
 ;//@konya EV25 地下道（BG扱い）
 ;[evcg storage="EV025a"][trans_c cross time=300]
@@ -304,13 +302,13 @@ flashlight down the dark corridor.[pcms]
 *4672|
 [fc]
 [vo_mar s="maru0584"]
-[ns]Margarita[nse]
-"It's still too dark to see properly..."[pcms]
+[ns]マルガリータ[nse]
+「それにしても手元が暗いな……」[pcms]
 
 *4673|
 [fc]
-[ns]Wataru[nse]
-"That's right... I have something good!"[pcms]
+[ns]航[nse]
+「そうだ……いいものがありますっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -319,9 +317,8 @@ flashlight down the dark corridor.[pcms]
 
 *4674|
 [fc]
-Remembering that I had brought something useful in response[r]
-to the senior's comment, I searched through my bag and found[r]
-it easily.[pcms]
+ボクは先輩の言葉にいい物を持ってきていることを[r]
+思い出した。それは荷物の中を探すと、簡単にでてくる。[pcms]
 
 ;//se021・ランタン、スイッチオン
 [se buf=0 storage="se021"]
@@ -336,19 +333,22 @@ it easily.[pcms]
 *4675|
 [fc]
 [vo_mar s="maru0585"]
-[ns]Margarita[nse]
-"An electric lantern... That's helpful."[pcms]
+[ns]マルガリータ[nse]
+「電気式のランタンか……。[r]
+　ありがたい」[pcms]
 
 *4676|
 [fc]
-[ns]Wataru[nse]
-"Yes. I'll help too."[pcms]
+[ns]航[nse]
+「はい。[r]
+　ボクも手伝います」[pcms]
 
 *4677|
 [fc]
 [vo_mar s="maru0586"]
-[ns]Margarita[nse]
-"I appreciate it. I was just about to ask for your help."[pcms]
+[ns]マルガリータ[nse]
+「助かる。[r]
+　ちょうど今、手伝ってくれと頼むところだったからな」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -358,7 +358,7 @@ it easily.[pcms]
 
 *4678|
 [fc]
-I began to help the senior.[pcms]
+ボクは先輩を手伝い始める。[pcms]
 
 ;//se046・金属のガキッ
 [wait time=500]
@@ -366,8 +366,8 @@ I began to help the senior.[pcms]
 
 *4679|
 [fc]
-The senior skillfully used an iron pipe she had brought[r]
-along to secure a bolt on the rusty iron door.[pcms]
+先輩は抜け目なく持ち出していた鉄パイプで[r]
+錆びた鉄の扉にしっかりと閂をした。[pcms]
 
 ;//se049・チェーンがじゃらじゃら
 [wait time=500]
@@ -375,67 +375,67 @@ along to secure a bolt on the rusty iron door.[pcms]
 
 *4680|
 [fc]
-On top of that, she firmly fixed it with a rusty chain she[r]
-had also conveniently brought along.[pcms]
+その上に、これまたちゃっかり持ち出していた錆びた鎖で[r]
+しっかりと固定していく。[pcms]
 
 *4681|
 [fc]
-But both the chain and pipe were terribly corroded with[r]
-rust.[pcms]
+それにしても、チェーンもパイプも[r]
+錆ですっかりボロボロになってる。[pcms]
 
 *4682|
 [fc]
-If pushed by a group of crazed people... would it hold? I[r]
-couldn't help feeling anxious about the state of decay of[r]
-the chain and pipe.[pcms]
+おかしくなった人たちの集団に押されたら……[r]
+……もつだろうか？[r]
+ボクは鎖とパイプの腐食具合に不安を覚えて仕方がない。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4683|
 [fc]
-[ns]Kousuke[nse]
-"Senior! It looks like there's a fork in the road ahead?"[pcms]
+[ns]浩助[nse]
+「せんぱーい！[r]
+　この先、道が分かれてるみたいですよ？」[pcms]
 
 *4684|
 [fc]
-Kousuke turned back to report to the senior.[pcms]
+コースケはこっちを振り返って先輩に言う。[pcms]
 
 *4685|
 [fc]
-[ns]Kousuke[nse]
-"A little further on, it seems to split into a right and[r]
-left path."[pcms]
+[ns]浩助[nse]
+「ちょっと先で、右と左に分かれてるみたいですよ～」[pcms]
 
 *4686|
 [fc]
-[ns]Wataru[nse]
-"Right and left? Senior, do you know which way we should[r]
-go?"[pcms]
+[ns]航[nse]
+「右と左？[r]
+　どっちに行けばいいか、先輩はわかりますか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4687|
 [fc]
 [vo_mar s="maru0587"]
-[ns]Margarita[nse]
-"The left leads towards Shibuya Station. We might be able to[r]
-get out near the river."[pcms]
+[ns]マルガリータ[nse]
+「左は渋谷駅方向だ。[r]
+　川から外に出られるかもしれない」[pcms]
 
 *4688|
 [fc]
 [vo_mar s="maru0588"]
-[ns]Margarita[nse]
-"The right goes towards Yoyogi Park. If the passage is as it[r]
-was in the past, it should connect to the sports center[r]
-beyond Yoyogi Park."[pcms]
+[ns]マルガリータ[nse]
+「右は代々木公園方向。通路が昔どおりに通っているなら[r]
+　代々木公園の向こうにある体育センターに[r]
+　繋がっているはずだ」[pcms]
 
 *4689|
 [fc]
 [vo_mar s="maru0589"]
-[ns]Margarita[nse]
-"There's also the DHK Broadcasting Center along the way, so[r]
-if the rumors are true, we might be able to get out from[r]
-there... that is, if what I heard is correct..."[pcms]
+[ns]マルガリータ[nse]
+「途中にはＤＨＫの放送センターもあるから、[r]
+　噂どおりなら、そこから出られるかもしれないな。[r]
+　……あくまで、聞いた話が本当ならだが……」[pcms]
 
 ;//噂どおりなら 聞いた話が本当ならだが
 ;//内容が被ってますが？　→　念押しですから
@@ -445,194 +445,194 @@ there... that is, if what I heard is correct..."[pcms]
 *4690|
 [fc]
 [vo_ren s="ren0592"]
-[ns]Ren[nse]
-"The DHK Broadcasting Center? If it's the DHK Broadcasting[r]
-Center, my father might be there! I might be able to see my[r]
-father."[pcms]
+[ns]漣[nse]
+「ＤＨＫの放送センター？[r]
+　ＤＨＫの放送センターなら、お父さんがいるかもっ！[r]
+　お父さんに会えるかもしれないね」[pcms]
 
 *4691|
 [fc]
-[ns]Wataru[nse]
-"That's right..."[pcms]
+[ns]航[nse]
+「そうだなっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4692|
 [fc]
 [vo_mar s="maru0590"]
-[ns]Margarita[nse]
-"Your father? Are you kids' father an employee of DHK?"[pcms]
+[ns]マルガリータ[nse]
+「お父さん？[r]
+　キミ達のお父上はＤＨＫの職員なのか？」[pcms]
 
 *4693|
 [fc]
-[ns]Wataru[nse]
-"Yes, our dad is a program director at DHK."[pcms]
+[ns]航[nse]
+「ええ、ボク達の父さんは[r]
+　ＤＨＫの番組ディレクターなんです」[pcms]
 
 *4694|
 [fc]
-[ns]Wataru[nse]
-"Due to his job, he often has location shoots and recordings[r]
-at incident sites, so he might be at the broadcasting[r]
-center."[pcms]
+[ns]航[nse]
+「仕事柄、事件現場からのロケ中継や収録が多いんですが、[r]
+　もしかしたら、放送センターにいるかもしれません」[pcms]
 
 *4695|
 [fc]
-[ns]Wataru[nse]
-"...Ah..."[pcms]
+[ns]航[nse]
+「……あっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4696|
 [fc]
 [vo_ren s="ren0593"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 
 *4697|
 [fc]
-I regretted my words a little after saying them, worrying[r]
-that I might have made Ren anxious.[pcms]
+ボクは言ってしまってから、漣を[r]
+不安にさせたんじゃないかと、少し後悔した。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4698|
 [fc]
-[ns]Kousuke[nse]
-"With things being so unclear, he probably can't be out at[r]
-any site. I'm sure he's still inside DHK."[pcms]
+[ns]浩助[nse]
+「こんなわけのわからん状態だし、[r]
+　きっと現場になんか出てられないだろうな。[r]
+　おじさんはきっとまだＤＨＫのなかだ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4699|
 [fc]
-[ns]Kousuke[nse]
-"Let's find your uncle quickly and escape together."[pcms]
+[ns]浩助[nse]
+「早く、おじさんを見つけて、一緒に逃げようぜ」[pcms]
 
 *4700|
 [fc]
-[ns]Wataru[nse]
-"Kousuke..."[pcms]
+[ns]航[nse]
+「コースケ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4701|
 [fc]
-[ns]Kousuke[nse]
-"Maybe they'll lend us a car... or possibly even a[r]
-helicopter!"[pcms]
+[ns]浩助[nse]
+「車とか……もしかしたら、ヘリを貸してもらえるかもな！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4702|
 [fc]
-[ns]Kousuke[nse]
-"Escaping by helicopter is a common story in movies... I've[r]
-always wanted to try it!"[pcms]
+[ns]浩助[nse]
+「最後にヘリで逃げるっていうのも、映画じゃ[r]
+　よくある話だろ……いっぺんやってみたかったんだっ！」[pcms]
 
 *4703|
 [fc]
-[ns]Wataru[nse]
-"No, that does happen in movies, but... I really don't think[r]
-that's possible."[pcms]
+[ns]航[nse]
+「いや、たしかに映画じゃよくあるけど……。[r]
+　さすがにそれはないと思う」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4704|
 [fc]
-[ns]Kousuke[nse]
-"You think so...?"[pcms]
+[ns]浩助[nse]
+「そうかな……」[pcms]
 
 *4705|
 [fc]
-[ns]Wataru[nse]
-"Yeah... And even if we borrowed one, who would drive or[r]
-pilot it?"[pcms]
+[ns]航[nse]
+「うん……。[r]
+　それに借りても誰が運転や操縦をするの？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4706|
 [fc]
-[ns]Kousuke[nse]
-"Maybe the senior..."[pcms]
+[ns]浩助[nse]
+「先輩とか……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4707|
 [fc]
 [vo_mar s="maru0591"]
-[ns]Margarita[nse]
-"Don't irresponsibly push it onto me. I know how to do it,[r]
-so it's not impossible... but there's no guarantee of[r]
-survival, you know?"[pcms]
+[ns]マルガリータ[nse]
+「無責任にワタシにふるな。やり方は知っているから、[r]
+　やってできなくはないかもしれないが[r]
+　……命の保障はできんぞ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4708|
 [fc]
-[ns]Kousuke[nse]
-"That's..."[pcms]
+[ns]浩助[nse]
+「そんな……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4709|
 [fc]
 [vo_ren s="ren0594"]
-[ns]Ren[nse]
-"Geez... Kousuke, you're such a..."[pcms]
+[ns]漣[nse]
+「もうっ……コーちゃんッたら……」[pcms]
 
 *4710|
 [fc]
-Ren chuckled softly.[pcms]
+漣がくすくすと笑う。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4711|
 [fc]
-Kousuke... Ah... but maybe he said that on purpose to change[r]
-the mood.[pcms]
+コースケったら……。[r]
+あっ……でも案外、今のもわざと雰囲気を変えるために[r]
+言ってくれたことかもなの知れない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4712|
 [fc]
 [vo_mar s="maru0592"]
-[ns]Margarita[nse]
-"Jokes aside, if it's a large media center, information will[r]
-gather there, and even if we wait for rescue, it will[r]
-certainly be advantageous..."[pcms]
+[ns]マルガリータ[nse]
+「その冗談はおいておいても、大規模なメディアセンターなら[r]
+　情報も集まるし、救出を待つにしても[r]
+　何かと有利なのはまちがいないしな……」[pcms]
 
 *4713|
 [fc]
 [vo_mar s="maru0593"]
-[ns]Margarita[nse]
-"Since it's close to the surface from the river, if we're[r]
-lucky we could escape quickly... but considering the state[r]
-of the academy, going above ground might actually be more[r]
-dangerous. Therefore, it's worth looking for an entrance to[r]
-the broadcasting center."[pcms]
+[ns]マルガリータ[nse]
+「川から地上へは近いから、うまく行けばすぐに逃げ出せるが……[r]
+　学園のあの有様を見ると、地上に出るのは逆に危険かもしれない。[r]
+　そうなると、放送センターの出入り口を探す価値は十分にある」[pcms]
 
 *4714|
 [fc]
-[ns]Wataru[nse]
-"The academy's..."[pcms]
+[ns]航[nse]
+「学園の……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4715|
 [fc]
-The senior's words brought back memories of the hellish[r]
-scene at the academy.[pcms]
+先輩の言葉にボクは学園のあの地獄のような光景が[r]
+思い出される。[pcms]
 
 *4716|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆……」[pcms]
 
 *4717|
 [fc]
-I was reminded of Yuuho.[pcms]
+悠帆のことが思い出された。[pcms]
 
 ;//　ここの描写　該当テキスト待ち
 ;//　あとで回想シーンとして挿入？
@@ -661,139 +661,139 @@ I was reminded of Yuuho.[pcms]
 
 *4718|
 [fc]
-[ns]Wataru[nse]
-"Kousuke..."[pcms]
+[ns]航[nse]
+「コースケ……」[pcms]
 
 *4719|
 [fc]
-Kousuke was patting my shoulder.[pcms]
+コースケがボクの肩を叩いていた。[pcms]
 
 *4720|
 [fc]
-[ns]Kousuke[nse]
-"Forget about the academy for now. You did everything you[r]
-could, right?"[pcms]
+[ns]浩助[nse]
+「学園のことは今は忘れろよ。[r]
+　お前は自分のやれることを精一杯やったんだろ？」[pcms]
 
 *4721|
 [fc]
-[ns]Wataru[nse]
-"That's true but... I couldn't save Yuuho..."[pcms]
+[ns]航[nse]
+「それはそうだけど……。[r]
+　でも、悠帆を助けられなかった……」[pcms]
 
 *4722|
 [fc]
-I was frustrated with my own powerlessness. The more I[r]
-thought about it...[pcms]
+ボクは自分の無力さが悔しくてしかたない。[r]
+思い返せば思い返すほどに……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4723|
 [fc]
 [vo_mar s="maru0594"]
-[ns]Margarita[nse]
-"You must have done everything within your power. You should[r]
-be proud of that."[pcms]
+[ns]マルガリータ[nse]
+「キミはできる限りのことをしたはずだ。[r]
+　それは誇っていいはずだ」[pcms]
 
 *4724|
 [fc]
-[ns]Wataru[nse]
-"But... even so..."[pcms]
+[ns]航[nse]
+「で、でも……そうですけど……」[pcms]
 
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「人生には努力に結果がついてこないことがままある。
 ;//　どんなにがんばっていても人からは評価されない。
 ;//　だが、正当に評価されなくてもそれに耐えねばならない」
 ;//　次の台詞収録漏れのため、この台詞と次の台詞、その次の航の台詞をカット。
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「そして、だれからも賞賛されないとしても、
 ;//　全力をつくしたなら自分を誇れ、称えてやれ。
 ;//　そうでないと、人は誇り高くは生きれない」
 ;//　セリフ変更
 
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「先輩……」
 
 *4725|
 [fc]
 [vo_mar s="maru0596"]
-[ns]Margarita[nse]
-"Moreover, at least I acknowledge your effort and struggle.[r]
-No..."[pcms]
+[ns]マルガリータ[nse]
+「それに、少なくともワタシはキミの努力と健闘を[r]
+　認めている。いや……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4726|
 [fc]
-[ns]Kousuke[nse]
-"I've been telling you all along that you gave it your all,[r]
-haven't I?"[pcms]
+[ns]浩助[nse]
+「オレもお前は全力をつくしたって、ずっと言ってるだろ？」[pcms]
 
 *4727|
 [fc]
-[ns]Wataru[nse]
-"Kousuke..."[pcms]
+[ns]航[nse]
+「コースケ……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4728|
 [fc]
 [vo_ren s="ren0595"]
-[ns]Ren[nse]
-"And me too!"[pcms]
+[ns]漣[nse]
+「私だってっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4729|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *4730|
 [fc]
-Ren spoke firmly with both hands clasped over her chest.[pcms]
+漣が力強く胸元で両方の手を握ってボクに言う。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4731|
 [fc]
 [vo_ren s="ren0596"]
-[ns]Ren[nse]
-"I definitely wouldn't have been saved if my brother hadn't[r]
-come for me. The fact that I'm here now is proof of my[r]
-brother's efforts."[pcms]
+[ns]漣[nse]
+「私も、お兄ちゃんが来てくれなかったら[r]
+　絶対に助からなかった。私が今、ここにいるのは、[r]
+　お兄ちゃんががんばってくれた証拠じゃない」[pcms]
 
 *4732|
 [fc]
-With those words, Ren moved closer to me.[pcms]
+そう言って漣はボクに身を寄せてくる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4733|
 [fc]
 [vo_mar s="maru0597"]
-[ns]Margarita[nse]
-"Not just me, everyone here acknowledges your valiant[r]
-efforts. You did everything you could. I also think you did[r]
-admirably."[pcms]
+[ns]マルガリータ[nse]
+「ワタシどころかここにいる全員がキミの健闘を認めている。[r]
+　キミはできることをすべてやった。[r]
+　ワタシもキミは立派だったと思っている」[pcms]
 
 *4734|
 [fc]
-The senior continued sealing the door while encouraging me[r]
-over her shoulder.[pcms]
+先輩も扉を封印する作業を続けながら、[r]
+背中越しに励ましてくれる。[pcms]
 
 *4735|
 [fc]
-[ns]Wataru[nse]
-"Senior... Kousuke... Ren..."[pcms]
+[ns]航[nse]
+「先輩……コースケ……漣……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4736|
 [fc]
-I was truly happy about everyone's feelings. Tears of joy[r]
-made it hard to see the rusty chain in my hand.[pcms]
+みんなの気持ちが本当うれしかった。[r]
+うれし涙で錆びた鎖を持った手がよく見えなくなりそうだ。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -814,79 +814,79 @@ made it hard to see the rusty chain in my hand.[pcms]
 *4737|
 [fc]
 [vo_mar s="maru0598"]
-[ns]Margarita[nse]
-"Alright, the door is secured. This should hold for a[r]
-while."[pcms]
+[ns]マルガリータ[nse]
+「よし、扉を固定したぞ。[r]
+　これでいくらかはもつはずだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4738|
 [fc]
 [vo_mar s="maru0599"]
-[ns]Margarita[nse]
-"We need to hurry on ahead now..."[pcms]
+[ns]マルガリータ[nse]
+「早速だが、先を急ぐぞ……」[pcms]
 
 *4739|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はいっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4740|
 [fc]
 [vo_ren s="ren0597"]
-[ns]Ren[nse]
-"Yes..."[pcms]
+[ns]漣[nse]
+「はい……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4741|
 [fc]
-[ns]Kousuke[nse]
-"Roger that!"[pcms]
+[ns]浩助[nse]
+「りょーかい！」[pcms]
 
 *4742|
 [fc]
-We all stood up and proceeded down the corridor.[pcms]
+ボク達は立ち上がって、通路へと進む。[pcms]
 
 *4743|
 [fc]
 [vo_ren s="ren0598"]
-[ns]Ren[nse]
-"Ah..."[pcms]
+[ns]漣[nse]
+「あっ……」[pcms]
 
 *4744|
 [fc]
-Turning at Ren's voice, I saw her sitting down even though[r]
-she had just stood up.[pcms]
+漣の声に振り向くと、立ち上がったはずの漣が[r]
+座り込んでいる。[pcms]
 
 *4745|
 [fc]
-[ns]Wataru[nse]
-"Are you okay, Ren?"[pcms]
+[ns]航[nse]
+「大丈夫？　漣？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4746|
 [fc]
 [vo_ren s="ren0599"]
-[ns]Ren[nse]
-"I'm fine, Onii-chan. I just got a little dizzy from[r]
-standing up too quickly..."[pcms]
+[ns]漣[nse]
+「だいじょうぶ、お兄ちゃん。[r]
+　急に立ち上がったから、ちょっと立ちくらみしただけ……」[pcms]
 
 *4747|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4748|
 [fc]
 [vo_ren s="ren0600"]
-[ns]Ren[nse]
-"Ah, Onii-chan..."[pcms]
+[ns]漣[nse]
+「あっ、お兄ちゃん……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -895,156 +895,158 @@ standing up too quickly..."[pcms]
 
 *4749|
 [fc]
-I put down my luggage and carried Ren on my back. Even with[r]
-my lack of strength, Ren felt so light that I thought she[r]
-was light.[pcms]
+ボクは荷物を置いて、漣を背負った。[r]
+体力のないボクでも、軽いと思ってしまうくらいに漣は軽い。[pcms]
 
 *4750|
 [fc]
-[ns]Wataru[nse]
-"Don't push yourself, Ren. I'll carry you until you feel[r]
-better..."[pcms]
+[ns]航[nse]
+「無理するなよ漣。[r]
+　気分が良くなるまで、ボクがおぶってくよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4751|
 [fc]
 [vo_ren s="ren0601"]
-[ns]Ren[nse]
-"Onii-chan..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 *4752|
 [fc]
-[ns]Wataru[nse]
-"Thank you for earlier, Ren..."[pcms]
+[ns]航[nse]
+「さっきはありがとう。漣……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4753|
 [fc]
 [vo_ren s="ren0602"]
-[ns]Ren[nse]
-"You don't need to thank me... I was just saying what I was[r]
-thinking..."[pcms]
+[ns]漣[nse]
+「お礼なんていいよ……。[r]
+　私はただ思っていることを言っただけだし……」[pcms]
 ;//＠　漣テレ
 
 *4754|
 [fc]
-Ren answered me shyly.[pcms]
+漣は恥ずかしそうにボクに答える。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4755|
 [fc]
 [vo_ren s="ren0603"]
-[ns]Ren[nse]
-"Onii-chan did his best. Just like Senpai and Kousuke said.[r]
-So don't blame yourself for what happened with Yuuho-[r]
-chan..."[pcms]
+[ns]漣[nse]
+「お兄ちゃんは頑張った。[r]
+　先輩やコーちゃんが言うみたいに。[r]
+　だから、悠帆ちゃんのことで自分を責めないで……」[pcms]
 
 *4756|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4757|
 [fc]
 [vo_ren s="ren0604"]
-[ns]Ren[nse]
-"Onii-chan... you're still supporting me like this now..."[pcms]
+[ns]漣[nse]
+「お兄ちゃんは……今もこうして、[r]
+　私を支えてくれているんだから……」[pcms]
 
 *4758|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4759|
 [fc]
-While feeling overwhelmed with emotion, I tried to pick up[r]
-my luggage as if to hide my embarrassment...[pcms]
+ボクは胸がいっぱいになりながら、[r]
+照れ隠しするように自分の荷物を手にとろうとするけど……。[pcms]
 
 *4760|
 [fc]
-[ns]Wataru[nse]
-"Huh...?"[pcms]
+[ns]航[nse]
+「あれ……っ？」[pcms]
 
 *4761|
 [fc]
-The luggage that I thought I had put down was nowhere to be[r]
-found.[pcms]
+置いといたはずの場所に荷物はない。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4762|
 [fc]
-[ns]Kousuke[nse]
-"It must be tough carrying both Ren-chan and the luggage,[r]
-right? I'll carry it for you."[pcms]
+[ns]浩助[nse]
+「漣ちゃんを背負ってちゃ、荷物も大変だろ？[r]
+　オレがもってやるよ」[pcms]
 
 *4763|
 [fc]
-[ns]Wataru[nse]
-"Kousuke..."[pcms]
+[ns]航[nse]
+「コースケ……」[pcms]
 
 *4764|
 [fc]
-Kousuke was carrying my luggage on his back.[pcms]
+ボクの荷物はコースケが背負っていた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4765|
 [fc]
-[ns]Kousuke[nse]
-"I've got more strength! You just focus on Ren-chan..."[pcms]
+[ns]浩助[nse]
+「体力はオレの方があるぜっ！[r]
+　お前は漣ちゃんをな……」[pcms]
 
 *4766|
 [fc]
-[ns]Wataru[nse]
-"Yeah... Thank you..."[pcms]
+[ns]航[nse]
+「うん……。[r]
+　ありがとう……」[pcms]
 
 *4767|
 [fc]
-I felt so happy that I was almost about to cry.[pcms]
+ボクはますますこみ上げるうれしさに[r]
+泣き出してしまいそうだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4768|
 [fc]
 [vo_mar s="maru0600"]
-[ns]Margarita[nse]
-"Wataru, there's something I need to say."[pcms]
+[ns]マルガリータ[nse]
+「ワタル、ひとつ言っておくことがある」[pcms]
 
 *4769|
 [fc]
-[ns]Wataru[nse]
-"What is it, Senpai?"[pcms]
+[ns]航[nse]
+「なんですか先輩？」[pcms]
 
 *4770|
 [fc]
-The senior leading the way turned back to speak to me.[pcms]
+先頭に立っている先輩が振り返ってボクに言う。[pcms]
 
 *4771|
 [fc]
 [vo_mar s="maru0601"]
-[ns]Margarita[nse]
-"I want to retract a careless remark I made. I'm sorry for[r]
-saying 'you might fail to protect your sister.' You are[r]
-doing admirably as a brother."[pcms]
+[ns]マルガリータ[nse]
+「ひとつ失言を取り消させてほしい。[r]
+　『妹さんを守れなくなる』などといってすまなかった。[r]
+　キミは兄として十分、立派にしている」[pcms]
 
 *4772|
 [fc]
-[ns]Wataru[nse]
-"Senpai..."[pcms]
+[ns]航[nse]
+「先輩……」[pcms]
 
 *4773|
 [fc]
-The senior's words were like a final blow, and I felt like I[r]
-was truly about to cry.[pcms]
+とどめとばかりの先輩の言葉に、[r]
+ボクは本当に泣き出してしまいそうだった。[pcms]
 
 ;//→ブロック４２０３０へ
 [jump storage="42030.ks" target=*42030_TOP]

@@ -1,10 +1,10 @@
 ;//block:A005
-;//ブロック４００４０『地下道全員脱出編　上』pt.4
+;//ブロック４００４０『地下道～全員脱出編～　上』pt.4
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40030.txtから
 
 *40040_TOP
-;{SceneSet 地下道全員脱出編上}
+;{SceneSet 地下道～全員脱出編～上}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公・悠帆（ジャージ＋バッグ）・浩助（制服）
@@ -31,14 +31,13 @@
 
 *167|
 [fc]
-[ns]Wataru[nse]
-"...How about this?"[pcms]
+[ns]航[nse]
+「……これで、どうかな？」[pcms]
 
 *168|
 [fc]
-Wanting to make things a bit more comfortable, I took out an[r]
-electric lantern from the luggage prepared for the training[r]
-camp.[pcms]
+少しでも快適に過ごそうと思ったボクは[r]
+合宿用の荷物の中から電気ランタンを取り出した。[pcms]
 
 ;//@konya EV25 地下道（BG扱い）
 [evcg storage="EV025b"][trans_c cross time=300]
@@ -48,644 +47,647 @@ camp.[pcms]
 *169|
 [fc]
 [vo_ren s="ren0842"]
-[ns]Ren[nse]
-"Wow, it's bright!"[pcms]
+[ns]漣[nse]
+「わぁ、明るいっ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *170|
 [fc]
 [vo_yuh s="yuho0805"]
-[ns]Yuuho[nse]
-"Just having a light makes all the difference. It's so[r]
-relieving~"[pcms]
+[ns]悠帆[nse]
+「灯りがあるだけで、全然違う。[r]
+　ホッとするね～」[pcms]
 
 *171|
 [fc]
-Indeed, just having a single soft light reduced the[r]
-oppressive feeling of being surrounded by concrete[r]
-underground.[pcms]
+確かに、ほんのりとした灯りがひとつあるだけで、[r]
+コンクリートに囲まれた地下の圧迫感がマシになった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *172|
 [fc]
 [vo_mar s="maru0908"]
-[ns]Margarita[nse]
-"You're well-prepared with your equipment."[pcms]
+[ns]マルガリータ[nse]
+「よく、そこまで装備を整えていたな」[pcms]
 
 *173|
 [fc]
-I blushed at being praised like that.[pcms]
+感心したように言われて、ボクは照れる。[pcms]
 
 *174|
 [fc]
-[ns]Wataru[nse]
-"No, it's not really equipment, I just had it ready for the[r]
-Astronomy Club's camping..."[pcms]
+[ns]航[nse]
+「いやー。装備っていうわけじゃなくて、[r]
+　天文学同好会のキャンプ用に準備してただけで……」[pcms]
 
 *175|
 [fc]
-Various chemicals, trash bags, dishes, knives, towels, a[r]
-radio... There were even things like "cool sheets" that you[r]
-don't know if they'll be useful but supposedly make you feel[r]
-cooler when you lay them out.[pcms]
+各種薬品にゴミ袋、食器に刃物、タオル、ラジオ……。[r]
+役に立つかわからないけど、かけると涼しくなる[r]
+『ひんやりシーツ』なんてものもある。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *176|
 [fc]
-[ns]Kousuke[nse]
-"Well, anything is fine at this point. Let's gratefully make[r]
-use of it."[pcms]
+[ns]浩助[nse]
+「ま、何でもいいや、この際だ。[r]
+　ありがたく使わせてもらおう」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *177|
 [fc]
-And so, we formed a circle around the lantern and finally[r]
-settled down...[pcms]
+こうしてランタンを中心にボクたちは車座になり、[r]
+ようやく腰を落ち着けた……。[pcms]
 
 *178|
 [fc]
-The shock of the surreal situation and the relief of having[r]
-survived the harsh conditions led to everyone falling silent[r]
-as if in a daze.[pcms]
+あまりに現実を逸脱した光景へのショックと、[r]
+その過酷な状況を切り抜けて気が抜けたことで、[r]
+全員が惚けたように沈黙してしまう。[pcms]
 
 *179|
 [fc]
-[ns]Wataru[nse]
-"...Ah, right. Ren, come here for a sec."[pcms]
+[ns]航[nse]
+「……あ、そうだ。漣、ちょっと」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *180|
 [fc]
 [vo_ren s="ren0843"]
-[ns]Ren[nse]
-"Eh...? Kyah!?"[pcms]
+[ns]漣[nse]
+「え……？　きゃっ！？」[pcms]
 
 *181|
 [fc]
-Suddenly realizing something, I pressed my forehead against[r]
-Ren's.[pcms]
+ふと気付いて、漣の額に自分の額をくっつけた。[pcms]
 
 *182|
 [fc]
-[ns]Wataru[nse]
-"Hey, don't move."[pcms]
+[ns]航[nse]
+「こら、動くなって」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *183|
 [fc]
 [vo_ren s="ren0844"]
-[ns]Ren[nse]
-"But, Onii-chan, suddenly getting so close..."[pcms]
+[ns]漣[nse]
+「で、でも、お兄ちゃん、急にそんな近く……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *184|
 [fc]
-It wasn't noticeably high, but Ren's forehead had a faint[r]
-warmth to it.[pcms]
+はっきりそれと感じられるような高いものではなかったけれど[r]
+漣の額はぼんやりとした熱さがある。[pcms]
 
 *185|
 [fc]
-[ns]Wataru[nse]
-"I thought so. You've got a fever, don't you?"[pcms]
+[ns]航[nse]
+「やっぱり。お前、熱出てるぞ？」[pcms]
 
 *186|
 [fc]
-I hadn't noticed in the rush of everything, but we had been[r]
-on the move non-stop since escaping the school.[pcms]
+夢中で気付かなかったけれど、[r]
+学園を脱出してから今まで動きっぱなしだった。[pcms]
 
 *187|
 [fc]
-It was tough even for us healthy people, so it must have[r]
-been quite harsh for Ren.[pcms]
+ボクたち健康な人間でもきつかったんだから[r]
+漣にとっては、相当酷だったろう。[pcms]
 
 *188|
 [fc]
-[ns]Wataru[nse]
-"You haven't had any water, have you? You need to drink[r]
-something..."[pcms]
+[ns]航[nse]
+「水分、ぜんぜん摂ってないだろ？[r]
+　何か飲まないと……」[pcms]
 
 *189|
 [fc]
-In a panic, I took out a sports drink but it was lukewarm.[r]
-Well, it can't be helped in this situation...[pcms]
+慌ててスポーツ飲料を取り出したけれど生温い。[r]
+まあ、この状況じゃ仕方ないんだけれど……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *190|
 [fc]
 [vo_mar s="maru0909"]
-[ns]Margarita[nse]
-"...Here."[pcms]
+[ns]マルガリータ[nse]
+「……これを」[pcms]
 
 *191|
 [fc]
-The senior offered a water bottle. When I took it, it was[r]
-surprisingly heavy. It was a thermos.[pcms]
+先輩が水筒を差し出している。[r]
+受け取ってみるとずしりと重かった。[r]
+魔法瓶だ。[pcms]
 
 *192|
 [fc]
-[ns]Wataru[nse]
-"Thank you, senior."[pcms]
+[ns]航[nse]
+「すみません、先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *193|
 [fc]
 [vo_ren s="ren0845"]
-[ns]Ren[nse]
-"Thank you very much..."[pcms]
+[ns]漣[nse]
+「ありがとうございます……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *194|
 [fc]
 [vo_mar s="maru0910"]
-[ns]Margarita[nse]
-"No, there's no need for thanks. We still have a long way to[r]
-go. You should recover your strength now while you can."[pcms]
+[ns]マルガリータ[nse]
+「い、いや、礼など不要だ。[r]
+　これから先も長い距離を移動することになる。[r]
+　今のうちに体力を回復しておくことだ」[pcms]
 
 *195|
 [fc]
-The senior returned our words with a gruff tone as if[r]
-annoyed. But upon closer inspection, her cheeks were[r]
-slightly red.[pcms]
+ボクたちの言葉に、[r]
+先輩は怒ったようにぶっきらぼうな言葉を返す。[r]
+だけど、良く見ると頬が少し赤くなっていた。[pcms]
 
 *196|
 [fc]
-Her seemingly cold commands could be overlooked as just[r]
-being foreigner speech.[pcms]
+冷たい命令口調に聞こえがちな発言も、[r]
+外国人なんだからと思えば、そう気にもならないし。[pcms]
 
 *197|
 [fc]
-Could it be that this person... is shy?[pcms]
+もしかして、この人……。照れ屋さんなんだろうか？[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *198|
 [fc]
-While I was thinking about that, Ren, with a cup of chilled[r]
-tea in hand, gulped it down and emptied the cup.[pcms]
+そんなことを考えている間に、[r]
+冷えたお茶を手にした漣は、[r]
+コクコクと喉を鳴らしてカップを空にした。[pcms]
 
 *199|
 [fc]
-[ns]Wataru[nse]
-"Here, Ren. Lie down for a bit."[pcms]
+[ns]航[nse]
+「ほら、漣。[r]
+　少し横になりな」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *200|
 [fc]
 [vo_ren s="ren0846"]
-[ns]Ren[nse]
-"Mm..."[pcms]
+[ns]漣[nse]
+「ん……」[pcms]
 
 *201|
 [fc]
-I piled up backpacks and towels to make a makeshift pillow.[pcms]
+ボクは手持ちのリュックやタオルを積み重ねて枕を作った。[pcms]
 
 *202|
 [fc]
-[ns]Wataru[nse]
-"Are you okay?"[pcms]
+[ns]航[nse]
+「大丈夫か？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *203|
 [fc]
 [vo_ren s="ren0847"]
-[ns]Ren[nse]
-"Yeah... It's cool and feels nice..."[pcms]
+[ns]漣[nse]
+「うん……。[r]
+　ひんやりしてて、気持ちいい……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *204|
 [fc]
-Lying down and squinting in comfort, Ren's expression[r]
-suddenly clouded over.[pcms]
+身体を横たえ、気持ち良さそうに目を細めた漣は、[r]
+ふっと顔を曇らせる。[pcms]
 
 *205|
 [fc]
 [vo_ren s="ren0848"]
-[ns]Ren[nse]
-"...I wonder how Dad is doing..."[pcms]
+[ns]漣[nse]
+「……お父さん、どうしてるかな……」[pcms]
 
 *206|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *207|
 [fc]
-Until just now we were desperate to escape ourselves, but[r]
-once we settled down, thoughts of family started to worry[r]
-us.[pcms]
+つい今までは自分たちが逃げることで必死だったけれど、[r]
+人心地つけば、家族が思い出されて心配になる。[pcms]
 
 *208|
 [fc]
-[ns]Wataru[nse]
-"Dad will be fine. He's used to dealing with incidents[r]
-because of his job."[pcms]
+[ns]航[nse]
+「父さんなら平気だよ。[r]
+　なんたって職業柄、事件には慣れてるしね」[pcms]
 
 *209|
 [fc]
-I tried to speak cheerfully.[pcms]
+ボクは努めて明るく話しかけた。[pcms]
 
 *210|
 [fc]
-[ns]Wataru[nse]
-"With all this commotion, he must be really busy right now.[r]
-Once things settle down, he'll surely get in touch..."[pcms]
+[ns]航[nse]
+「これだけの騒ぎだから、今頃、大忙しなんだよ。[r]
+　一段落したら、きっと連絡くれるから……」[pcms]
 
 *211|
 [fc]
 [vo_ren s="ren0849"]
-[ns]Ren[nse]
-"Yeah..."[pcms]
+[ns]漣[nse]
+「うん……」[pcms]
 
 *212|
 [fc]
-Ren's cheeks relaxed slightly.[pcms]
+漣の頬がほんのりと緩む。[pcms]
 
 *213|
 [fc]
-I couldn't tell if she believed my words or just wanted to[r]
-believe them.[pcms]
+ボクの言葉を信じているのか、[r]
+それとも信じたいと願っているのかは分からない。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *214|
 [fc]
-But in times like these, it's best to avoid thinking[r]
-negatively...[pcms]
+だけど、こんな時だからこそ、[r]
+悪いほうへ悪いほうへと考えるのだけは避けたい……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *215|
 [fc]
 [vo_mar s="maru0911"]
-[ns]Margarita[nse]
-"Well then..."[pcms]
+[ns]マルガリータ[nse]
+「さて……」[pcms]
 
 *216|
 [fc]
-Seeing that we had calmed down, the senior opened her mouth[r]
-to speak.[pcms]
+ボクたちが落ち着いたのを見計らって先輩が口を開く。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *217|
 [fc]
 [vo_mar s="maru0912"]
-[ns]Margarita[nse]
-"Then, let's check everyone's equipment here. Each of you,[r]
-report the items and quantities of your gear."[pcms]
+[ns]マルガリータ[nse]
+「では、ここで全員の装備を確認する。[r]
+　各員、装備品の項目と数量を報告するように」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *218|
 [fc]
-[ns]Kousuke[nse]
-"Hey, hey, taking charge again...?"[pcms]
+[ns]浩助[nse]
+「おいおい、また仕切るのかよ……」[pcms]
 
 *219|
 [fc]
-Once again, Kousuke is pushing back. It was a lighter tone[r]
-than before, but he really doesn't seem to like being[r]
-ordered around...[pcms]
+またもコースケが突っかかっている。[r]
+さっきまでよりは軽い調子だったけれど。[r]
+よほどあれこれ命令されるのが気に入らないんだな……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *220|
 [fc]
 [vo_yuh s="yuho0806"]
-[ns]Yuuho[nse]
-"Kousuke, you're at it again!"[pcms]
+[ns]悠帆[nse]
+「コースケ、あんたはまた！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *221|
 [fc]
-[ns]Kousuke[nse]
-"But, you know... I get that this Onee-san is amazing and[r]
-all... but she just transferred here, and I don't really[r]
-know her..."[pcms]
+[ns]浩助[nse]
+「だってよぉ……、[r]
+　このオネーサンがすげえのは分かったけど……[r]
+　転校してきたばっかで、よく知らねーし……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *222|
 [fc]
-[ns]Kousuke[nse]
-"I mean... in situations like this, it's all about trust,[r]
-right? How much you can entrust your life to someone. I just[r]
-don't wanna be ordered around by someone I don't know..."[pcms]
+[ns]浩助[nse]
+「なんつーか……こういう局面での仕切りってさ、[r]
+　どんだけ命あずけられるかっていう信頼じゃん？[r]
+　知らないヤツには仕切られたくねーっていうかさ……」[pcms]
 
 *223|
 [fc]
-I'd be fine with whatever a trusted comrade says. But I have[r]
-no intention of following the words of someone I don't know.[pcms]
+信じてる仲間になら何を言われてもいい。[r]
+だけど知らない人間の言うことに従うつもりはない。[pcms]
 
 *224|
 [fc]
-It was a very simple and typical reaction from Kousuke.[pcms]
+実にシンプルなコースケらしい反応だった。[pcms]
 
 *225|
 [fc]
-[ns]Wataru[nse]
-"But just like we don't know the senior, she doesn't know us[r]
-either, right?"[pcms]
+[ns]航[nse]
+「でも、ボクたちが先輩を知らないように、[r]
+　先輩だってボクたちを知らないんだよ？」[pcms]
 
 *226|
 [fc]
-[ns]Wataru[nse]
-"Despite that, the senior risked her own safety to help us[r]
-escape. Isn't that enough to trust her?"[pcms]
+[ns]航[nse]
+「それなのに、先輩は、ボクらのために[r]
+　身体を張って、脱出を手助けしてくれた。[r]
+　それだけでも信頼していいんじゃないかな？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *227|
 [fc]
-[ns]Kousuke[nse]
-"I get that, but... it's like... a matter of feelings..."[pcms]
+[ns]浩助[nse]
+「そ、それは分かってっけど……。[r]
+　なんつーか……気持ちの問題で……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *228|
 [fc]
-Sensing that his position was weak, Kousuke mumbled the end[r]
-of his sentence, but he still didn't stop arguing.[pcms]
+旗色が悪いのを感じてか、最後をごにょごにょと濁しながら、[r]
+それでもコースケは反論を止めない。[pcms]
 
 *229|
 [fc]
-Kousuke can be stubborn and single-minded once he gets an[r]
-idea in his head...[pcms]
+コースケ、思い込むと一途っていうか、[r]
+意外と頑固だからなあ……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *230|
 [fc]
 [vo_mar s="maru0913"]
-[ns]Margarita[nse]
-"I understand what you want to say and I get your feelings.[r]
-But if we're talking about the situation, isn't this exactly[r]
-the time when we should be cooperating unanimously?"[pcms]
+[ns]マルガリータ[nse]
+「言いたいことは理解した。心情も分かる。[r]
+　だが局面というなら、[r]
+　ここはまさに一致協力すべきところではないか？」[pcms]
 
 *231|
 [fc]
 [vo_mar s="maru0914"]
-[ns]Margarita[nse]
-"If it's a matter of feelings, then please be satisfied with[r]
-the fact that I'm the oldest here."[pcms]
+[ns]マルガリータ[nse]
+「気持ちの問題だと言うならば[r]
+　私が最年長だから、という理由で納得してくれ」[pcms]
 
 *232|
 [fc]
-I inwardly marveled at how skillful she was.[pcms]
+うまい、とボクは内心舌を巻く。[pcms]
 
 *233|
 [fc]
-Kousuke is the type who won't be convinced by logic alone.[pcms]
+コースケは理屈であれこれ攻めても納得しないタイプだ。[pcms]
 
 *234|
 [fc]
-But even he must understand that we need a leader in this[r]
-situation and that the senior is the most suitable for the[r]
-role...[pcms]
+だけど彼だって、こういう状況でリーダーが必要だってことや、[r]
+その役目に一番ふさわしいのが先輩だってことくらい[r]
+理解はしているはず……。[pcms]
 
 *235|
 [fc]
-In other words, as he himself said, it's a "matter of[r]
-feelings," and he just needs a reason to convince himself...[pcms]
+つまり、本人が言うように、あとは『気持ちの問題』で、[r]
+自分を納得させる理由が必要だってわけで……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *236|
 [fc]
-[ns]Kousuke[nse]
-"Alright, I understand..."[pcms]
+[ns]浩助[nse]
+「わかったよ……」[pcms]
 
 *237|
 [fc]
-As expected, Kousuke quickly nodded in agreement.[pcms]
+案の定、コースケはあっさりとうなずいた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *238|
 [fc]
-[ns]Kousuke[nse]
-"For now, you can just call me Kousuke."[pcms]
+[ns]浩助[nse]
+「とりあえず、オレのことは浩助でいいっすよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *239|
 [fc]
 [vo_mar s="maru0915"]
-[ns]Margarita[nse]
-"...Kousuke. I appreciate it."[pcms]
+[ns]マルガリータ[nse]
+「……コースケ。感謝する」[pcms]
 
 *240|
 [fc]
-The senior bowed politely and then crossed her arms as if[r]
-deep in thought.[pcms]
+律儀にお辞儀をした先輩は、[r]
+ふと考え込むように腕組みをした。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *241|
 [fc]
 [vo_mar s="maru0916"]
-[ns]Margarita[nse]
-"That's right... Kousuke, that's a good suggestion. Having[r]
-nicknames will likely increase our unity. You can call me[r]
-Marie."[pcms]
+[ns]マルガリータ[nse]
+「そうだな……コースケ、いい提案だ。[r]
+　呼び名があるのは結束力を高めるだろう。[r]
+　ワタシのことはマリーと呼んでくれればいい」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *242|
 [fc]
-[ns]Kousuke[nse]
-"Marie-san, is it?"[pcms]
+[ns]浩助[nse]
+「マリー……さん、っすか？」[pcms]
 
 *243|
 [fc]
-A hand timidly raised from beside Kousuke as he repeated the[r]
-name.[pcms]
+復唱するコースケの脇から、そろそろっと手が挙がった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *244|
 [fc]
 [vo_yuh s="yuho0807"]
-[ns]Yuuho[nse]
-"Um..."[pcms]
+[ns]悠帆[nse]
+「あ、あの～……」[pcms]
 
 *245|
 [fc]
-Yuuho spoke up to the senior with a shy tilt of her head.[pcms]
+悠帆が首をすくめながら先輩に話しかけた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *246|
 [fc]
 [vo_mar s="maru0917"]
-[ns]Margarita[nse]
-"Hmm?"[pcms]
+[ns]マルガリータ[nse]
+「ん？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *247|
 [fc]
 [vo_yuh s="yuho0808"]
-[ns]Yuuho[nse]
-"...Is it okay if I call you Maruko-senpai?"[pcms]
+[ns]悠帆[nse]
+「……ま、マル子先輩……じゃ、ダメですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *248|
 [fc]
 [vo_ren s="ren0850"]
-[ns]Ren[nse]
-"Maruko-senpai?"[pcms]
+[ns]漣[nse]
+「マル子先輩？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a28"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *249|
 [fc]
 [vo_mar s="maru0918"]
-[ns]Margarita[nse]
-"What...!?"[pcms]
+[ns]マルガリータ[nse]
+「なっ…………！？」[pcms]
 
 *250|
 [fc]
-Taken aback by the unexpected suggestion, we all murmured[r]
-among ourselves as Yuuho continued while scratching her[r]
-head.[pcms]
+意表をつかれてザワつくボクたちに、[r]
+悠帆は頭を掻きながら続けた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *251|
 [fc]
 [vo_yuh s="yuho0809"]
-[ns]Yuuho[nse]
-"Well, 'Marie-san' sounds like a foreign name, and it feels[r]
-a bit hard to call out, like there's a distance... I was[r]
-thinking."[pcms]
+[ns]悠帆[nse]
+「な、なんかマリーさんって、外国名前だし、[r]
+　ちょっと呼びにくいっていうか[r]
+　距離が遠い感じがしちゃうかな～、なんて……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *252|
 [fc]
 [vo_yuh s="yuho0810"]
-[ns]Yuuho[nse]
-"If we go with Maruko-senpai, it sounds a bit cuter and more[r]
-familiar, plus it's a Japanese-style nickname. How about[r]
-it?"[pcms]
+[ns]悠帆[nse]
+「マル子先輩なら、[r]
+　少し可愛らしく、親しみがあって[r]
+　かつ、和風の愛称だし。どうですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *253|
 [fc]
 [vo_mar s="maru0919"]
-[ns]Margarita[nse]
-"...Maru...ko..."[pcms]
+[ns]マルガリータ[nse]
+「…………マル……子……」[pcms]
 ;//絶句
 
 *254|
 [fc]
-The senior was clearly at a loss for words.[pcms]
+先輩は明らかに絶句してる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *255|
 [fc]
 [vo_yuh s="yuho0811"]
-[ns]Yuuho[nse]
-"Ah! But I wasn't the first one to think of it! It was the[r]
-girls from the swim club, not me!"[pcms]
+[ns]悠帆[nse]
+「あっ！[r]
+　でも、最初に考えたのは水泳部の女の子たちで[r]
+　わたしじゃないですよっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *256|
 [fc]
 [vo_mar s="maru0920"]
-[ns]Margarita[nse]
-"Ugh..."[pcms]
+[ns]マルガリータ[nse]
+「う、ううう……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *257|
 [fc]
 [vo_mar s="maru0921"]
-[ns]Margarita[nse]
-"I had heard whispers of underclassmen calling me that, but[r]
-I didn't realize it originated from the swim club..."[pcms]
+[ns]マルガリータ[nse]
+「下級生にそう呼ばれているのは小耳に挟んでいたが、[r]
+　水泳部が発祥だったのか……」[pcms]
 
 *258|
 [fc]
-With a complicated look on her face, the senior muttered to[r]
-herself.[pcms]
+いかにもフクザツそうな顔で、[r]
+先輩はぶつぶつと呟いた。[pcms]
 
 *259|
 [fc]
-[ns]Wataru[nse]
-"If we're going for something Japanese-style, wouldn't[r]
-Homura-senpai be fine too? Just using her last name."[pcms]
+[ns]航[nse]
+「和風なら、穂村先輩でもいいんじゃないの？[r]
+　普通に苗字で」[pcms]
 
 *260|
 [fc]
-I thought there was no need to force it if she herself[r]
-disliked it...[pcms]
+何も本人が嫌がるなら、無理しなくても……、[r]
+と思ったけど。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *261|
 [fc]
-[ns]Kousuke[nse]
-"No, no, no. 'Maruko-senpai' is easier to call out and feels[r]
-more like she's one of us, right?"[pcms]
+[ns]浩助[nse]
+「いやいやいや。[r]
+　マル子先輩の方が、呼びやすいっていうか、[r]
+　なんか仲間っぽいじゃん？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *262|
 [fc]
 [vo_ren s="ren0851"]
-[ns]Ren[nse]
-"Yeah, I also think so..."[pcms]
+[ns]漣[nse]
+「うん、私も……そう思う」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a22"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *263|
 [fc]
 [vo_mar s="maru0922"]
-[ns]Margarita[nse]
-"So, is that so... Well... If it makes me more approachable,[r]
-then I suppose there's no helping it."[pcms]
+[ns]マルガリータ[nse]
+「そ、そうか……。[r]
+　うん……。[r]
+　な、馴染みやすいというなら、まぁ、仕方ない」[pcms]
 
 *264|
 [fc]
-Somehow pushed into agreement by everyone else, the senior[r]
-herself gave her consent.[pcms]
+なんとなく、みんなに押し切られたのか、[r]
+先輩本人から了承が出てしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *265|
 [fc]
 [vo_mar s="maru0923"]
-[ns]Margarita[nse]
-"Anyway, let's finish checking our equipment."[pcms]
+[ns]マルガリータ[nse]
+「ともかく、装備品の確認を済ませてしまおう」[pcms]
 
 *266|
 [fc]
-And so, having been officially recognized by everyone as the[r]
-"Leader and Maruko- senpai," the senior solemnly announced[r]
-her first command.[pcms]
+こうしてみんなから晴れて[r]
+『リーダーおよびマル子先輩』と認識された先輩は[r]
+重々しく、第一声を告げた。[pcms]
 
 ;//暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

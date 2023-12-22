@@ -16,450 +16,437 @@
 
 *1172|
 [fc]
-[ns]Wataru[nse]
-"Then... Kousuke, you get on the bottom."[pcms]
+[ns]航[nse]
+「それじゃあ……コースケ、お前下になれ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1173|
 [fc]
-[ns]Kousuke[nse]
-"Why? Shouldn't we decide this fairly with rock-paper-[r]
-scissors?"[pcms]
+[ns]浩助[nse]
+「なんでだよ？　公平にここはジャンケンだろ？」[pcms]
 
 *1174|
 [fc]
-[ns]Wataru[nse]
-"Because you're bigger and stronger than me, right? I can[r]
-handle your weight alone, but if we consider Ren and the[r]
-senior's weight, I'd definitely get crushed."[pcms]
+[ns]航[nse]
+「だって、お前のほうがボクよりガタイあるし、力があるだろ？[r]
+　お前の体重だけならなんとかなるけど、[r]
+　漣や先輩の体重を考えると確実に潰れる」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1175|
 [fc]
-[ns]Kousuke[nse]
-"What do you mean 'definitely'? I'd get crushed too."[pcms]
+[ns]浩助[nse]
+「確実ってなんだよ。オレだって潰れる」[pcms]
 
 *1176|
 [fc]
-[ns]Wataru[nse]
-"But you're heavier than me, aren't you?"[pcms]
+[ns]航[nse]
+「だけどお前のほうがボクより重いじゃないか」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1177|
 [fc]
 [vo_mar s="maru0172"]
-[ns]Margarita[nse]
-"You guys realize we don't have time to be arguing here,[r]
-right?"[pcms]
+[ns]マルガリータ[nse]
+「お前たち、今ここで言い争ってる時間がないって事を[r]
+　理解してるよな？」[pcms]
 
 *1178|
 [fc]
-At the slightly irritated words of the senior, Kousuke's[r]
-face suddenly frowned.[pcms]
+先輩の少しいらついた言葉に、[r]
+コ－スケの顔が途端に[ruby text="しか"]顰められる。[pcms]
 
 *1179|
 [fc]
-It seems he's still not completely convinced by the senior.[pcms]
+まだ先輩に対して納得してないところがあるみたいだ。[pcms]
 
 *1180|
 [fc]
-[ns]Wataru[nse]
-"Being on the bottom means having to climb up last... Can[r]
-Kousuke really climb to the rooftop on his own strength?"[pcms]
+[ns]航[nse]
+「下になるってことは、最後に一人で登らなきゃいけないから……[r]
+　コースケじゃ自力で屋上に登れないか」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1181|
 [fc]
-[ns]Kousuke[nse]
-"What?! Don't be ridiculous. Even if it's just one floor,[r]
-there's no way you can climb up alone. That's something for[r]
-me, who's good at sports..."[pcms]
+[ns]浩助[nse]
+「なっ！　馬鹿言うなよ。[r]
+　一階分とはいえ、一人でお前が登れるわけないだろ？[r]
+　そういうのは、スポーツ万能なオレが……」[pcms]
 
 *1182|
 [fc]
-[ns]Wataru[nse]
-"Then you be on the bottom."[pcms]
+[ns]航[nse]
+「じゃあ、お前が下な」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1183|
 [fc]
-[ns]Kousuke[nse]
-"...You've set me up."[pcms]
+[ns]浩助[nse]
+「……はめやがったな」[pcms]
 
 *1184|
 [fc]
-After clicking his tongue, Kousuke still looked back at me[r]
-with a face like he was making excuses for losing.[pcms]
+チッと舌打ちした後で、コースケはそれでも[r]
+負け惜しみのようにボクの顔を見直してきた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1185|
 [fc]
-[ns]Kousuke[nse]
-"...Well, it's true that I'm stronger. How many times have I[r]
-lost in the physical fitness tests?"[pcms]
+[ns]浩助[nse]
+「……まぁ、オレのほうが力あるのは事実だしなぁ。[r]
+　体力測定、何連敗中だっけ？」[pcms]
 
 *1186|
 [fc]
-[ns]Wataru[nse]
-"Shut up! Just kneel down there quickly."[pcms]
+[ns]航[nse]
+「うるさいっ！　いいから、早くそこに跪けよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1187|
 [fc]
-[ns]Kousuke[nse]
-"...Those aren't exactly words I'm happy to hear from a[r]
-guy."[pcms]
+[ns]浩助[nse]
+「……男に言われてもあんまり嬉しくない言葉だな、それ」[pcms]
 
 *1188|
 [fc]
-[ns]Wataru[nse]
-"Would it be better if it were a girl?"[pcms]
+[ns]航[nse]
+「女にならいいのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1189|
 [fc]
-[ns]Kousuke[nse]
-"...Should I get on all fours then?"[pcms]
+[ns]浩助[nse]
+「……。四つん這いになればいいか？」[pcms]
 
 *1190|
 [fc]
-[ns]Wataru[nse]
-"Yeah."[pcms]
+[ns]航[nse]
+「うん」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1191|
 [fc]
 [vo_mar s="maru0173"]
-[ns]Margarita[nse]
-"So? Have you guys settled it?"[pcms]
+[ns]マルガリータ[nse]
+「それで？　決着はついたのか？」[pcms]
 
 *1192|
 [fc]
-[ns]Wataru[nse]
-"Yes. How about Kousuke gets on all fours and I stand on[r]
-him, then we lift Ren and the senior to the rooftop?"[pcms]
+[ns]航[nse]
+「そうですね。コースケが四つん這いになって[r]
+　その上にボクが立って、先輩と漣を屋上に[r]
+　上げるって言うのはどうでしょう？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1193|
 [fc]
 [vo_mar s="maru0174"]
-[ns]Margarita[nse]
-"Hmm... then I'll go up first. With just one of your[r]
-sisters, even if you two become a foothold, it would be[r]
-impossible."[pcms]
+[ns]マルガリータ[nse]
+「ふむ……それではワタシが先に上がるか。お前の妹一人では[r]
+　いくらお前たちが足場になったとしても、無理だろう」[pcms]
 
 *1194|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry, senior."[pcms]
+[ns]航[nse]
+「すみません、先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1195|
 [fc]
 [vo_ren s="ren0254"]
-[ns]Ren[nse]
-"Thank you very much."[pcms]
+[ns]漣[nse]
+「ありがとうございます」[pcms]
 
 *1196|
 [fc]
-After a brief discussion, Kousuke got on the bottom, I got[r]
-on top, and finally we reached high enough to touch the[r]
-rooftop.[pcms]
+短い打ち合わせをして、コースケが下になり、ボクが上になって、[r]
+ようやく屋上の屋根に手が届くくらいになった。[pcms]
 
 *1197|
 [fc]
-[ns]Wataru[nse]
-"This looks doable. So... I'll shoulder the senior up first,[r]
-and then pull Ren up after that. Does that sound good?"[pcms]
+[ns]航[nse]
+「これならいけそうですね。[r]
+　じゃあ……先輩を肩車して押し上げて、それから漣を上に[r]
+　引っ張ってもらうって感じでいいですかね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1198|
 [fc]
 [vo_mar s="maru0175"]
-[ns]Margarita[nse]
-"I have no objections to that."[pcms]
+[ns]マルガリータ[nse]
+「ワタシはそれで構わん」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i20"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1199|
 [fc]
 [vo_ren s="ren0255"]
-[ns]Ren[nse]
-"Eh? Big brother, you're going to give the senior a shoulder[r]
-ride... That's lewd!"[pcms]
+[ns]漣[nse]
+「えっ？　お兄ちゃん、先輩を肩車って……エッチっ！」[pcms]
 
 *1200|
 [fc]
-[ns]Wataru[nse]
-"Lewd...?"[pcms]
+[ns]航[nse]
+「エッチって……」[pcms]
 
 *1201|
 [fc]
-Ren said it with a look of disdain, and I inadvertently[r]
-imagined it.[pcms]
+漣に軽蔑するように言われてふと想像した。[pcms]
 
 *1202|
 [fc]
-Giving the senior a shoulder ride means her thighs would be[r]
-right next to my face...[pcms]
+先輩を肩車するってことは、先輩の太ももが[r]
+ボクの顔の横に来るってわけで……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1203|
 [fc]
 [vo_mar s="maru0176"]
-[ns]Margarita[nse]
-"There's no point in being shy if you're going to die from[r]
-it, right?"[pcms]
+[ns]マルガリータ[nse]
+「恥ずかしがっていて死んでは元も子もあるまい？」[pcms]
 
 *1204|
 [fc]
-Snapped back to reality by the senior's assertive words, I[r]
-hurriedly got off Kousuke's back.[pcms]
+先輩の断言に我に返って、ボクは慌ててコースケの上から降りた。[pcms]
 
 *1205|
 [fc]
-[ns]Wataru[nse]
-"Wait a second, please. It would be safer to give a shoulder[r]
-ride on flat ground first..."[pcms]
+[ns]航[nse]
+「あっ、ちょっと待ってください。ここで肩車するより、[r]
+　平らなトコで一度肩車したほうが安全だと思うんで……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1206|
 [fc]
-[ns]Kousuke[nse]
-"Gah! You mean both of their weights are going to come down[r]
-on me at once?"[pcms]
+[ns]浩助[nse]
+「げっ！　一気に二人分の体重が来るのかよ」[pcms]
 
 *1207|
 [fc]
-[ns]Wataru[nse]
-"Hang in there."[pcms]
+[ns]航[nse]
+「がんばれよ」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1208|
 [fc]
-I casually encouraged him and then went behind the senior to[r]
-give her a shoulder ride.[pcms]
+ぞんざいに励ますと、ボクは先輩の後ろに回って肩車をした。[pcms]
 
 ;//BG：EV016
 
 *1209|
 [fc]
-The senior's thighs squeezed against my head.[pcms]
+先輩の太ももがボクの頭を挟み込んでくる。[pcms]
 
 *1210|
 [fc]
-The sensation was incredibly nice. Of course, it's a shame[r]
-that the skirt fabric is in the way.[pcms]
+その感覚が凄くいい。当たり前の話、[r]
+スカートの生地が邪魔してるのが残念だけど。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1211|
 [fc]
 [vo_ren s="ren0256"]
-[ns]Ren[nse]
-"Big brother, are you okay? You're looking wobbly."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、大丈夫？　ふらふらしてるけど」[pcms]
 
 *1212|
 [fc]
-[ns]Wataru[nse]
-"Huh? Oh... let's go."[pcms]
+[ns]航[nse]
+「あっ？　あぁ……行くぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1213|
 [fc]
-[ns]Kousuke[nse]
-"Alright, come on!"[pcms]
+[ns]浩助[nse]
+「よし、こいっ！」[pcms]
 
 *1214|
 [fc]
-I was entranced by the sensation of the senior's thighs but[r]
-snapped out of it at Ren's words. I called out to Kousuke[r]
-and climbed onto his back while still giving the senior a[r]
-shoulder ride.[pcms]
+先輩の太ももの感覚にうっとりしていたボクは、[r]
+漣の言葉に我に返った。[r]
+コースケに声をかけ、先輩を肩車をしたまま背中に乗る。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1215|
 [fc]
-[ns]Kousuke[nse]
-"Guhh!"[pcms]
+[ns]浩助[nse]
+「ぐほぉっ！」[pcms]
 
 *1216|
 [fc]
-[ns]Wataru[nse]
-"Come on, try a little harder."[pcms]
+[ns]航[nse]
+「ちょっとガンバレよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1217|
 [fc]
-[ns]Kousuke[nse]
-"Easy for you to say... damn it!!"[pcms]
+[ns]浩助[nse]
+「そうは言うけど……くっそぉおおっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1218|
 [fc]
 [vo_ren s="ren0257"]
-[ns]Ren[nse]
-"Big brother, be careful."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、危ないよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1219|
 [fc]
 [vo_mar s="maru0177"]
-[ns]Margarita[nse]
-"It's okay, my hand has reached the gutter... just lift a[r]
-little more."[pcms]
+[ns]マルガリータ[nse]
+「大丈夫だ、今雨どいに手がかかって……[r]
+　もう少し持ち上げてくれ」[pcms]
 
 *1220|
 [fc]
-[ns]Wataru[nse]
-"Yes, sir!"[pcms]
+[ns]航[nse]
+「は、はいっ」[pcms]
 
 *1221|
 [fc]
-As I lifted her up, the senior tried to put her weight on[r]
-the rooftop gutter by lifting her hips. Then her weight[r]
-shifted forward, and her pussy pressed against my head.[pcms]
+よっと持ち上げると、先輩も屋上の雨どいに体重をかけようと[r]
+腰を浮かせる。と、体重が前にかかって、先輩のアソコが[r]
+ボクの頭に押し付けられた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1222|
 [fc]
 [vo_mar s="maru0178"]
-[ns]Margarita[nse]
-"Just a little more... Ahh!"[pcms]
+[ns]マルガリータ[nse]
+「もうちょっとで……あぅっ！」[pcms]
 
 *1223|
 [fc]
-The sensation of the senior's pussy made my heart race so[r]
-much that my hands slipped unintentionally.[pcms]
+先輩のアソコの感触に、ドキドキしたあまりに、[r]
+思わず手が滑ってしまう。[pcms]
 
 *1224|
 [fc]
-At that moment, the senior's lifted hips fell.[pcms]
+途端、先輩の浮かせた腰が落ちてきた。[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1225|
 [fc]
-[ns]Wataru[nse]
-"Eh? Ehh?"[pcms]
+[ns]航[nse]
+「えっ？　えぇっ？」[pcms]
 
 *1226|
 [fc]
-In an instant, I didn't understand what had happened to me.[pcms]
+一瞬、ボクは自分の身に起きたことがわからなかった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1227|
 [fc]
 [vo_ren s="ren0258"]
-[ns]Ren[nse]
-"Geez, big brother, you're such a pervert!!"[pcms]
+[ns]漣[nse]
+「もう、お兄ちゃんのエッチッ！！」[pcms]
 
 *1228|
 [fc]
-[ns]Wataru[nse]
-"Pervert... whoa!"[pcms]
+[ns]航[nse]
+「エッチって……うわぁあっ！」[pcms]
 
 ;//BG：EV016
 
 *1229|
 [fc]
-With the senior's hips falling, my head ended up buried deep[r]
-inside her skirt.[pcms]
+先輩の腰が落ちてきた調子で、先輩のスカートの中に、[r]
+思いっきり頭が入り込んでいた。[pcms]
 
 *1230|
 [fc]
-The direct sensation of the senior's smooth thighs and the[r]
-feel of her pussy through her panties were now tightly[r]
-squeezing my head.[pcms]
+ダイレクトな先輩の太もものスベスベした肌や、[r]
+パンツごしに当たる先輩のアソコの感触が、[r]
+より密着してボクの頭を挟み込んでいる。[pcms]
 
 *1231|
 [fc]
-There's only a single layer of fabric from the skirt[r]
-separating us, but what is this difference in warmth?[pcms]
+スカートという一枚の布がないだけなのに、[r]
+なんだろう……このぬくもりの違いは。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1232|
 [fc]
 [vo_mar s="maru0179"]
-[ns]Margarita[nse]
-"We're going for another round."[pcms]
+[ns]マルガリータ[nse]
+「もう一度行くぞ」[pcms]
 
 *1233|
 [fc]
-[ns]Wataru[nse]
-"Y-Yes!"[pcms]
+[ns]航[nse]
+「は、はいっ！」[pcms]
 
 *1234|
 [fc]
-Even as I quickly responded to the senior, I couldn't[r]
-suppress the excitement in my heart, and my face broke into[r]
-a grin.[pcms]
+速攻で先輩に答えながらも、ドキドキする気持ちは[r]
+抑えきれず、顔がニヤニヤしてしまう。[pcms]
 
 *1235|
 [fc]
-It's a relief that my face is hidden in the shadow of the[r]
-senior's skirt.[pcms]
+先輩のスカートの陰に隠されてるのが救いだろう。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1236|
 [fc]
 [vo_ren s="ren0259"]
-[ns]Ren[nse]
-"Mmm..."[pcms]
+[ns]漣[nse]
+「むぅ……」[pcms]
 
 *1237|
 [fc]
-I was concerned about the strange moan that came from Ren[r]
-behind me...[pcms]
+後ろで漣が、妙な声でうなったのが気にかかったけど……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1238|
 [fc]
 [vo_mar s="maru0180"]
-[ns]Margarita[nse]
-"Alright, I've got a grip. Let's go."[pcms]
+[ns]マルガリータ[nse]
+「よし、手がかかった。行くぞ」[pcms]
 
 *1239|
 [fc]
-Suddenly, the weight of the senior on my shoulders[r]
-lightened, and the sensation of being pressed together faded[r]
-away in an instant.[pcms]
+ふいにボクの肩にかかっていた先輩の体重が[r]
+軽くなって、密着した感覚があっという間に薄れてしまう。[pcms]
 
 *1240|
 [fc]
-[ns]Wataru[nse]
-"Is it over already...?"[pcms]
+[ns]航[nse]
+「もう終わりか……」[pcms]
 
 *1241|
 [fc]
-I sighed as I pushed the senior up towards the rooftop.[pcms]
+ボクはため息をつきながら、先輩を屋上へと押し上げた。[pcms]
 
 ;//♯_フェードアウト
 [sysbt_meswin clear]
@@ -477,209 +464,203 @@ I sighed as I pushed the senior up towards the rooftop.[pcms]
 
 *1242|
 [fc]
-Following that, Ren was pulled up to the rooftop from my[r]
-shoulders by the senior.[pcms]
+続いて漣が、先輩に引っ張りあげられるようにして[r]
+ボクの肩車から屋上へ上がる。[pcms]
 
 *1243|
 [fc]
-Then, using Kousuke as a foothold, I somehow managed to[r]
-climb up by myself, and finally pulled up Kousuke, who was[r]
-left behind.[pcms]
+そして次にボクがコースケを足場にしながらも[r]
+何とか自力で上がり、一人残ったコースケを引っ張りあげた。[pcms]
 
 *1244|
 [fc]
-Once everyone was finally on the roof of the gymnasium, I[r]
-was suddenly overwhelmed with a feeling of exhaustion that[r]
-made me want to lie down right there.[pcms]
+ようやく体育館の屋根に全員上がったところで、[r]
+ボクは思わず、その場で寝転びたくなるような脱力感に襲われた。[pcms]
 
 *1245|
 [fc]
-Especially Ren, who was so unsteady that she seemed like she[r]
-might slide off the roof if not supported.[pcms]
+特に漣はフラフラで、支えてやらないと今にも屋根から[r]
+滑り落ちてしまいそうだ。[pcms]
 
 *1246|
 [fc]
-[ns]Wataru[nse]
-"Are you okay, Ren?"[pcms]
+[ns]航[nse]
+「大丈夫か？　漣」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1247|
 [fc]
 [vo_ren s="ren0260"]
-[ns]Ren[nse]
-"Y-Yeah... I'm fine... I think?"[pcms]
+[ns]漣[nse]
+「う、うん……だいじょう…ぶ、だよ？」[pcms]
 
 *1248|
 [fc]
-[ns]Wataru[nse]
-"Don't say you're fine in such an unconvincing voice. Have a[r]
-drink."[pcms]
+[ns]航[nse]
+「全然大丈夫じゃなさそうな声で言うな。[r]
+　ちょっと飲んでおけ」[pcms]
 
 *1249|
 [fc]
-When I brought the water bottle out of the backpack pocket[r]
-to Ren's lips, she shook her head from side to side.[pcms]
+リュックサックのポケットから取り出した水筒を[r]
+漣の口元へ持っていくと、漣はフルフルと首を横に振った。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1250|
 [fc]
 [vo_ren s="ren0261"]
-[ns]Ren[nse]
-"I... already had some earlier. There won't be enough left[r]
-for you guys."[pcms]
+[ns]漣[nse]
+「私は……さっき飲んだから。お兄ちゃんたちの分が、[r]
+　なくなっちゃう」[pcms]
 
 *1251|
 [fc]
-[ns]Wataru[nse]
-"But you need it more than we do, right?"[pcms]
+[ns]航[nse]
+「だけどお前のほうが先だろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1252|
 [fc]
 [vo_ren s="ren0262"]
-[ns]Ren[nse]
-"I already had some earlier."[pcms]
+[ns]漣[nse]
+「もう私はさっき、飲んだもん」[pcms]
 
 *1253|
 [fc]
-[ns]Wataru[nse]
-"Can't be helped. Senpai is..."[pcms]
+[ns]航[nse]
+「しょうがないな。先輩は……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1254|
 [fc]
 [vo_mar s="maru0181"]
-[ns]Margarita[nse]
-"I have my share."[pcms]
+[ns]マルガリータ[nse]
+「ワタシの分はある」[pcms]
 
 *1255|
 [fc]
-[ns]Wataru[nse]
-"Then, Kousuke."[pcms]
+[ns]航[nse]
+「それじゃあ、コースケ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1256|
 [fc]
-[ns]Kousuke[nse]
-"Thanks."[pcms]
+[ns]浩助[nse]
+「サンキュー」[pcms]
 
 *1257|
 [fc]
-In perfect harmony, Kousuke barely touched his lips to the[r]
-water bottle I handed him before giving it back. I also just[r]
-moistened my lips with it, and then passed it back to Ren.[pcms]
+阿吽の呼吸で、コースケはボクが渡した水筒に[r]
+形だけ口をつけて返してくれる。ボクも唇をぬらす程度に[r]
+水筒に口をつけ、そしてまた、漣に回す。[pcms]
 
 *1258|
 [fc]
-[ns]Wataru[nse]
-"See, both Kousuke and I have drunk, so now it's your turn,[r]
-Ren."[pcms]
+[ns]航[nse]
+「ほら、ボクもコースケも飲んだから、今度は漣の番だ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1259|
 [fc]
 [vo_ren s="ren0263"]
-[ns]Ren[nse]
-"Onii-chan... I'm sorry. And you too, Ko-chan."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……ゴメンね。コーちゃんも」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1260|
 [fc]
-[ns]Kousuke[nse]
-"What for? Come on, drink up quickly."[pcms]
+[ns]浩助[nse]
+「何が？　ほら、早く飲んじゃえよ」[pcms]
 
 *1261|
 [fc]
-Nodding at Kousuke's urging, Ren took the sports drink that[r]
-had thawed out and gulped it down with audible swallows.[pcms]
+コースケに促されてうなずくと、漣はゴクゴクと音を立てて、[r]
+解けた分のスポーツドリンクを口にした。[pcms]
 
 *1262|
 [fc]
-But still, my skin is starting to feel quite hot.[pcms]
+それでも、もう肌がだいぶ熱を持ち始めてる。[pcms]
 
 *1263|
 [fc]
-[ns]Wataru[nse]
-"Ren, should I carry you from here? We're almost at the[r]
-goal."[pcms]
+[ns]航[nse]
+「漣、ここからはおぶっていくか？[r]
+　もう少しでゴールだし」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1264|
 [fc]
 [vo_ren s="ren0264"]
-[ns]Ren[nse]
-"No... it's okay. It's dangerous on the roof. Instead, shall[r]
-we go help Yuuho- chan? Right?"[pcms]
+[ns]漣[nse]
+「ううん……い、いいよ。屋根の上で危ないし。[r]
+　それより悠帆ちゃんを助けに行こう？　ねっ？」[pcms]
 
 *1265|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *1266|
 [fc]
-Even though her own condition is getting worse, she's[r]
-worried about Yuuho...[pcms]
+自分の体調だって悪くなるばかりだというのに、[r]
+悠帆の心配をしてくれるなんて……。[pcms]
 
 *1267|
 [fc]
-It's natural, I guess, since Yuuho is not only my childhood[r]
-friend but also Ren's. Still, it made me really happy.[pcms]
+ボクの幼馴染であると同時に、漣自身の幼馴染でも[r]
+あるんだから当たり前なのかもしれないけれど、[r]
+なんだかとても嬉しかった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_i2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1268|
 [fc]
 [vo_ren s="ren0265"]
-[ns]Ren[nse]
-"Yuuho-chan is... surely waiting for her big brother,[r]
-right?"[pcms]
+[ns]漣[nse]
+「悠帆ちゃんは……きっとお兄ちゃんを待ってるよ？」[pcms]
 
 *1269|
 [fc]
-[ns]Wataru[nse]
-"But..."[pcms]
+[ns]航[nse]
+「でも……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1270|
 [fc]
-[ns]Kousuke[nse]
-"Really, can't be helped."[pcms]
+[ns]浩助[nse]
+「まったく、しょうがないな」[pcms]
 
 *1271|
 [fc]
-Effortlessly taking the water bottle from Ren and passing it[r]
-to me, he said, "See, this should be fine, right? Wataru.[r]
-You go check on Yuuho at the pool side."[pcms]
+ヒョイと漣から水筒を受け取り、ボクに渡すと、[r]
+コースケは漣の体をおんぶして抱え込んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1272|
 [fc]
-[ns]Kousuke[nse]
-"Thanks, Kousuke. You really are my best friend!"[pcms]
+[ns]浩助[nse]
+「ほら、これなら大丈夫だろ？　ワタル。[r]
+　お前は悠帆の様子を見にプールのほうへ行けよ」[pcms]
 
 *1273|
 [fc]
-[ns]Wataru[nse]
-Feeling happy about Ren and Kousuke's kindness, I quickly[r]
-crossed the gymnasium rooftop and headed towards the pool[r]
-side.[pcms]
+[ns]航[nse]
+「ありがとう。コースケ。やっぱり親友だっ！」[pcms]
 
 *1274|
 [fc]
-Feeling happy about Ren and Kousuke's kindness, I quickly[r]
-crossed the gymnasium rooftop and headed towards the pool[r]
-side.[pcms]
+漣とコースケの気持ちが嬉しくて、ボクは[r]
+早速体育館の屋上を横切って、プール側へと向かった。[pcms]
 
 
 ;システムボタン＆ウィンドウ消去

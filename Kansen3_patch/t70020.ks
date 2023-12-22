@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・悠帆・瑞樹
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//・テキスト分量：3K
 ;//---------------------------------------------------------------
 ;//block:B001
@@ -32,10 +32,8 @@
 
 *7523|
 [fc]
-To give Ren, who continued to cry, a rest and to change her[r]
-clothes, I brought her to the room. Without turning on the[r]
-lights, it remained dark, and I sat Ren on the bed and[r]
-embraced her.[pcms]
+泣き続ける漣を休ませるため、着替えも兼ねて部屋に連れてきた。[r]
+電気は点けず暗いままで、ベッドに漣を座らせ抱きしめる。[pcms]
 ;//★_薄暗い部屋の中、あるいは黒バック
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -43,80 +41,80 @@ embraced her.[pcms]
 *7524|
 [fc]
 [vo_ren s="ren0970"]
-[ns]Ren[nse]
-"D...Dad... Hic... sob..."[pcms]
+[ns]漣[nse]
+「お……父さん……っ。うっ……ううっ……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7525|
 [fc]
 [vo_ren s="ren0971"]
-[ns]Ren[nse]
-"Hic... I don't want this... Dad..."[pcms]
+[ns]漣[nse]
+「うっ……いやだよぉ……お父……さん……」[pcms]
 
 *7526|
 [fc]
-In my arms, Ren is shaking her entire body as she cries.[pcms]
+ボクの腕の中で、漣は身体全体を震わせながら、泣いている。[pcms]
 
 *7527|
 [fc]
-It's not surprising. I'm shocked too. I want to cry... But[r]
-Ren must be... much more shocked than me. After all, he was[r]
-her real father...[pcms]
+無理もない。ボクだって、ショックだ。泣きたい……。[r]
+でも、漣の方がボクよりも……うんと、ショックなはずだ。[r]
+だって、実の父親なんだから……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7528|
 [fc]
 [vo_ren s="ren0972"]
-[ns]Ren[nse]
-"Dad...dy... sob... sob sob..."[pcms]
+[ns]漣[nse]
+「おと……う……さっ……っく……うっ……うっうっ……」[pcms]
 
 *7529|
 [fc]
-[ns]Wataru[nse]
-"Ren... Ren...? It's okay. I'll stay like this forever."[pcms]
+[ns]航[nse]
+「漣……漣……？　大丈夫だよ。ずっとこうしてるから」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7530|
 [fc]
 [vo_ren s="ren0973"]
-[ns]Ren[nse]
-"Hic... Big bro...ther... Dad..."[pcms]
+[ns]漣[nse]
+「う……っ。お兄……ちゃ……お、お……父さんがぁ……っく」[pcms]
 
 *7531|
 [fc]
-Ren is crying with her face buried in my chest as if[r]
-clinging to me. Her slender fingers are desperately clawing[r]
-at my chest.[pcms]
+ボクの胸にすがりつくように顔を寄せて泣いている漣。[r]
+細い指がボクの胸をかきむしるようにあがいている。[pcms]
 
 *7532|
 [fc]
-[ns]Wataru[nse]
-"Yeah... Ren. I'm here for you. Until you feel better, I'll[r]
-stay with you."[pcms]
+[ns]航[nse]
+「うん……漣。ボクはこうしてるから。[r]
+　漣の気が済むまで、一緒にいるよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7533|
 [fc]
 [vo_ren s="ren0974"]
-[ns]Ren[nse]
-"Big bro...ther. Hic... sob sob"[pcms]
+[ns]漣[nse]
+「う……うっ……お兄ちゃ……ん。うっく……ううっ」[pcms]
 
 *7534|
 [fc]
-In the dimly lit room, only Ren's sniffling echoes secretly.[r]
-I continue to hug Ren, stroke her back, and pat her head.[pcms]
+薄暗い部屋に漣のすすり泣く声だけが密やかに木霊する。[r]
+ボクは漣を抱きしめ、背中をさすり、頭をなで続けた。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *7535|
 [fc]
-How much time has passed? Eventually, Ren's crying stopped,[r]
-and the trembling of her body in my arms ceased.[pcms]
+どのくらい時間が経ったんだろう。[r]
+いつしか、漣の泣き声は止まり、ボクの腕の中の[r]
+身体の震えも止まった。[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020b"][trans_c cross time=500]
@@ -124,21 +122,21 @@ and the trembling of her body in my arms ceased.[pcms]
 
 *7536|
 [fc]
-[ns]Wataru[nse]
-"...Ren?"[pcms]
+[ns]航[nse]
+「……れ……ん？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7537|
 [fc]
 [vo_ren s="ren0975"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「…………」[pcms]
 
 *7538|
 [fc]
-Ren, exhausted from crying, had fallen asleep. I gently laid[r]
-her body on the bed and quietly left the room.[pcms]
+泣き疲れて眠ってしまった、漣。[r]
+そっと身体をベッドに横たえ、ボクは静かに部屋を出た。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -156,142 +154,145 @@ her body on the bed and quietly left the room.[pcms]
 
 *7539|
 [fc]
-Leaving the room, feeling thirsty, I headed towards the[r]
-drink bar.[pcms]
+部屋を出て、喉の渇きを覚えたボクは、ドリンクバーの方へ[r]
+向かった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7540|
 [fc]
 [vo_yuh s="yuho0918"]
-[ns]Yuuho[nse]
-"...Ah. Wataru!"[pcms]
+[ns]悠帆[nse]
+「……あ。航っ！」[pcms]
 
 *7541|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「……！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *7542|
 [fc]
-[ns]Kousuke[nse]
-"Hey, Wataru. Are you... okay?"[pcms]
+[ns]浩助[nse]
+「おい、ワタル。その……大丈夫か？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7543|
 [fc]
 [vo_mar s="maru1029"]
-[ns]Margarita[nse]
-"Are you okay? Ayase"[pcms]
+[ns]マルガリータ[nse]
+「大丈夫か？　アヤセ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *7544|
 [fc]
 [vo_miz s="mizuki0091"]
-[ns]Mizuki[nse]
-"...Wataru..."[pcms]
+[ns]瑞樹[nse]
+「……ワタル……」[pcms]
 
 *7545|
 [fc]
-Everyone had gathered together. Surely, they were worried[r]
-about Ren and me and had followed us here.[pcms]
+みんなが、集まってくれていた。[r]
+きっと、ボクと漣を心配して、[r]
+後を追ってきてくれたんだろう。[pcms]
 
 *7546|
 [fc]
-[ns]Wataru[nse]
-"Everyone, thank you. For worrying about us."[pcms]
+[ns]航[nse]
+「みんな、ありがとう。心配してくれて」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7547|
 [fc]
 [vo_yuh s="yuho0919"]
-[ns]Yuuho[nse]
-"Wataru, how is Ren-chan?"[pcms]
+[ns]悠帆[nse]
+「航、漣ちゃんは？」[pcms]
 
 *7548|
 [fc]
-[ns]Wataru[nse]
-"Yeah... She fell asleep from all the crying."[pcms]
+[ns]航[nse]
+「うん……泣き疲れて眠っちゃった」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *7549|
 [fc]
 [vo_yuh s="yuho0920"]
-[ns]Yuuho[nse]
-"I see... How about you, Wataru? Are you okay?"[pcms]
+[ns]悠帆[nse]
+「そう……航は？　大丈夫？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *7550|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, don't push yourself. You should rest too."[pcms]
+[ns]浩助[nse]
+「ワタル、無理すんな。お前も休めよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *7551|
 [fc]
 [vo_mar s="maru1030"]
-[ns]Margarita[nse]
-"Ayase... Don't hold back. It feels better to let it out."[pcms]
+[ns]マルガリータ[nse]
+「アヤセ……我慢をするな。吐き出すと[r]
+　気持ちが楽になるぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b12"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *7552|
 [fc]
 [vo_miz s="mizuki0092"]
-[ns]Mizuki[nse]
-"Wataru... Is there anything I can do for you?"[pcms]
+[ns]瑞樹[nse]
+「ワタル……あたしに何かできる事、ない？」[pcms]
 
 *7553|
 [fc]
-Everyone is trying to comfort me in their own way. I felt[r]
-like crying...[pcms]
+みんなが口々にボクを慰めようとしてくれる。[r]
+涙が出そうになった……[pcms]
 
 *7554|
 [fc]
-[ns]Wataru[nse]
-"Thank you, everyone. But I'm okay. Really, don't worry. I'm[r]
-truly fine."[pcms]
+[ns]航[nse]
+「ありがとう、みんな。でも、ボクは大丈夫。[r]
+　心配しないで。本当に大丈夫だから」[pcms]
 
 *7555|
 [fc]
-I witnessed my father's last moments, but the same anxiety,[r]
-the same fear, everyone here is carrying it too. It's not[r]
-just me who is sad.[pcms]
+父さんの最後を目の当たりにしたけど、同じ不安、同じ恐怖、[r]
+それはここにいるみんなが抱えている事だ。[r]
+ボクだけが悲しいわけじゃない。[pcms]
 
 *7556|
 [fc]
-So...[pcms]
+だから……[pcms]
 
 *7557|
 [fc]
-[ns]Wataru[nse]
-"Really, I'm fine. But I'm going to sleep now. I came out[r]
-because I was thirsty."[pcms]
+[ns]航[nse]
+「本当に、ボクは大丈夫だから。でも、今日はもう眠るよ。[r]
+　喉が渇いたんで、部屋を出てきたんだ」[pcms]
 
 *7558|
 [fc]
-I headed to the drink bar and poured water into a glass. I[r]
-almost let it overflow, so I took a small sip.[pcms]
+ボクはドリンクバーに向かい水をコップに注いだ。[r]
+うっかりあふれそうになったので、ちょっとだけ口をつける。[pcms]
 
 *7559|
 [fc]
-[ns]Wataru[nse]
-"...Gulp. Yeah... Thank you for worrying about me. I'm going[r]
-to sleep now, so everyone should rest too. Don't worry about[r]
-Ren either. I'll make sure to follow up properly."[pcms]
+[ns]航[nse]
+「……ゴクッ。うん……心配してくれてありがとう。[r]
+　ボクはもう寝るから、みんなも休んでよ。[r]
+　漣の事も心配しないで。ボクがちゃんとフォローするから」[pcms]
 
 *7560|
 [fc]
-I tried to sound decisive. After making sure everyone was[r]
-silent, I firmly held the glass and headed back to my room.[pcms]
+有無を言わさない口調にしたつもりだった。[r]
+みんなが黙っているのを見届けてから、コップをしっかり持って[r]
+ボクは部屋へと向かった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -308,35 +309,35 @@ silent, I firmly held the glass and headed back to my room.[pcms]
 
 *7561|
 [fc]
-The voices of everyone in the hallway gradually faded away.[r]
-They must have gone to a different floor out of[r]
-consideration for us.[pcms]
+廊下の方からぼそぼそと聞こえていたみんなの声が、次第に[r]
+遠くなっていった。[r]
+きっと、ボクらに気を遣って別のフロアに行ったんだろう。[pcms]
 
 *7562|
 [fc]
-...It became quiet. Ren must be sleeping soundly just as she[r]
-was before.[pcms]
+……静かになった。[r]
+漣はきっとあのままぐっすり眠ってくれているに違いない。[pcms]
 
 *7563|
 [fc]
-[ns]Wataru[nse]
-"...Hic..."[pcms]
+[ns]航[nse]
+「……っく……」[pcms]
 
 *7564|
 [fc]
-As soon as I thought I was alone, tears started overflowing.[r]
-It seems like I can't stop crying anymore.[pcms]
+独りになったと思った途端、涙があふれ出てきた。[r]
+もう涙を止められそうにない。[pcms]
 
 *7565|
 [fc]
-[ns]Wataru[nse]
-"...Hic... Dad..."[pcms]
+[ns]航[nse]
+「……っ、くぅ……父さん……っ」[pcms]
 
 *7566|
 [fc]
-I must not wake Ren up. My precious sister is sleeping in[r]
-the next room. Trying not to be noticed, I suppressed my[r]
-voice and cried.[pcms]
+漣を起こしちゃいけない。すぐ隣の部屋で眠っている漣。[r]
+大事な妹。[r]
+気付かれないように、ボクは声を押し殺して、泣いていた。[pcms]
 
 [fadeoutbgm time=500]
 
@@ -345,10 +346,10 @@ voice and cried.[pcms]
 
 *7567|
 [fc]
-[ns]Wataru[nse]
-"!"[pcms]
+[ns]航[nse]
+「……！」[pcms]
 
-;mm 以降、イベントHEV047eHEV047p合わせで白ワンピに修正する。HEV058は使用しない　2016/03/28
+;mm 以降、イベントHEV047e～HEV047p合わせで白ワンピに修正する。HEV058は使用しない　2016/03/28
 
 ;[ChrSetEx layer=5 chbase="ren_m1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -356,19 +357,19 @@ voice and cried.[pcms]
 *7568|
 [fc]
 [vo_ren s="ren0976"]
-[ns]Ren[nse]
-"Big brother...?"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……？」[pcms]
 
 *7569|
 [fc]
-[ns]Wataru[nse]
-"Re, Ren? What's wrong? Did I wake you up?"[pcms]
+[ns]航[nse]
+「れ、漣？　どうした？　起こしちゃったか？」[pcms]
 
 *7570|
 [fc]
-As I stood up wiping my tears, Ren staggered into the room.[r]
-Her steps were unsteady. It seemed like she couldn't focus[r]
-her eyes properly.[pcms]
+涙を擦りながら立ち上がると、漣がふら～っと入ってきた。[r]
+足取りがおぼつかない。[r]
+なんだか、視点も定まってないように見える。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -376,13 +377,13 @@ her eyes properly.[pcms]
 *7571|
 [fc]
 [vo_ren s="ren0977"]
-[ns]Ren[nse]
-"Big brother... I've become all alone..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……私、ひとりぼっちになっちゃった……」[pcms]
 
 *7572|
 [fc]
-[ns]Wataru[nse]
-"Ah, sorry. Ren, you were sleeping so soundly."[pcms]
+[ns]航[nse]
+「あ、ごめん。漣、ぐっすり眠ってたから」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -390,15 +391,16 @@ her eyes properly.[pcms]
 *7573|
 [fc]
 [vo_ren s="ren0978"]
-[ns]Ren[nse]
-"It's not that... Big brother, dad has passed away... I've[r]
-become all alone."[pcms]
+[ns]漣[nse]
+「そうじゃないの……お兄ちゃん、[r]
+　お父さん死んじゃって……っ。[r]
+　私、ひとりぼっちになっちゃったの」[pcms]
 
 *7574|
 [fc]
-[ns]Wataru[nse]
-"Ren. That's not true, I'm here, aren't I? You're not alone,[r]
-I'm by your side."[pcms]
+[ns]航[nse]
+「漣っ。そんなことないよ、ボクがいるだろ？[r]
+　ひとりぼっちじゃないよ、ボクがそばにいるよ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -406,9 +408,9 @@ I'm by your side."[pcms]
 *7575|
 [fc]
 [vo_ren s="ren0979"]
-[ns]Ren[nse]
-"It's different. You are my big brother, but... you're not[r]
-my real brother."[pcms]
+[ns]漣[nse]
+「違うのぉ。お兄ちゃんは、お兄ちゃんだけど……[r]
+　お兄ちゃんじゃないもの」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -416,13 +418,13 @@ my real brother."[pcms]
 *7576|
 [fc]
 [vo_ren s="ren0980"]
-[ns]Ren[nse]
-"You're not my brother by blood."[pcms]
+[ns]漣[nse]
+「血がつながったお兄ちゃんじゃないものっ」[pcms]
 
 *7577|
 [fc]
-[ns]Wataru[nse]
-"Re, Ren?!"[pcms]
+[ns]航[nse]
+「れ、漣っ？！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -430,14 +432,14 @@ my real brother."[pcms]
 *7578|
 [fc]
 [vo_ren s="ren0981"]
-[ns]Ren[nse]
-"Hey, big brother, hold me... Please. Big brother, hold me[r]
-and make me a woman."[pcms]
+[ns]漣[nse]
+「ねえ、お兄ちゃん、私を、抱いて……。[r]
+　お願い。お兄ちゃん、私を抱いてオンナにして」[pcms]
 
 *7579|
 [fc]
-[ns]Wataru[nse]
-"Re, Ren. Wha, what are you saying..."[pcms]
+[ns]航[nse]
+「れ、漣っ。な、何を言って……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -445,9 +447,9 @@ and make me a woman."[pcms]
 *7580|
 [fc]
 [vo_ren s="ren0982"]
-[ns]Ren[nse]
-"Because, big brother, you might leave me someday. You might[r]
-go to Yuuho-chan, whom you love."[pcms]
+[ns]漣[nse]
+「だって、お兄ちゃん、きっとそのうち私から離れちゃうもの。[r]
+　大好きな悠帆ちゃんのところに行っちゃうかもしれない」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -455,20 +457,20 @@ go to Yuuho-chan, whom you love."[pcms]
 *7581|
 [fc]
 [vo_ren s="ren0983"]
-[ns]Ren[nse]
-"That's right... I've been frail since I was little and[r]
-always causing trouble for you... So, eventually, you[r]
-might..."[pcms]
+[ns]漣[nse]
+「そうよ……私、小さい頃から身体が弱いし、いつでも[r]
+　お兄ちゃんに迷惑かけてばかり……。[r]
+　だから、きっとお兄ちゃんはそのうち……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7582|
 [fc]
 [vo_ren s="ren0984"]
-[ns]Ren[nse]
-"I don't want that, I hate that. I want to have you all to[r]
-myself. I don't want to give you to anyone, not even to[r]
-Yuuho-chan."[pcms]
+[ns]漣[nse]
+「いやなの、そんなのいやなの。[r]
+　お兄ちゃんを私だけのものにしたいの。[r]
+　誰にも、悠帆ちゃんにも渡したくないの」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_m9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -476,8 +478,8 @@ Yuuho-chan."[pcms]
 *7583|
 [fc]
 [vo_ren s="ren0985"]
-[ns]Ren[nse]
-"So please, big brother, hold me!"[pcms]
+[ns]漣[nse]
+「だから、お兄ちゃん、お願い、私を抱いて！」[pcms]
 
 ;*LABEL_MEMORIES_START
 
@@ -496,16 +498,17 @@ Yuuho-chan."[pcms]
 
 *7584|
 [fc]
-Ren lifted the hem of her skirt.[pcms]
+漣が自分のスカートの裾をめくりあげた。[pcms]
 
 *7585|
 [fc]
-[ns]Wataru[nse]
-"...! Re, Ren, what are you doing!"[pcms]
+[ns]航[nse]
+「……っ！　れ、漣、何を！」[pcms]
 
 *7586|
 [fc]
-Silently taking my hand, Ren guided it towards her crotch.[pcms]
+無言のままボクの手を取った漣。[r]
+その手を自分のアソコに持っていく。[pcms]
 
 ;	[evcg storage="HEV058b"][trans_c cross time=300]
 ;
@@ -516,13 +519,14 @@ Silently taking my hand, Ren guided it towards her crotch.[pcms]
 *7587|
 [fc]
 [vo_ren s="ren0986"]
-[ns]Ren[nse]
-"Big brother... touch it. Touch my pussy."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……触って。私のアソコ、触って」[pcms]
 
 *7588|
 [fc]
-My whole body felt paralyzed, unable to move. Led by Ren's[r]
-guidance, my hand was gently pressed against her crotch.[pcms]
+全身が麻痺したみたいに、動かない。[r]
+漣が導くままに、ボクの手のひらは[r]
+アソコにそっと押し当てられた。[pcms]
 
 ;	[evcg storage="HEV058e"][trans_c cross time=300]
 ;
@@ -533,53 +537,54 @@ guidance, my hand was gently pressed against her crotch.[pcms]
 *7589|
 [fc]
 [vo_ren s="ren0987"]
-[ns]Ren[nse]
-"Big brother, hold me. Hold me. You can do whatever you like[r]
-with me. I want to be yours."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、抱いて。私を抱いて。[r]
+　お兄ちゃんの好きにしていいの。[r]
+　お兄ちゃんのものにして欲しいの」[pcms]
 
 *7590|
 [fc]
 [vo_ren s="ren0988"]
-[ns]Ren[nse]
-"I don't want to be alone. I don't want to give you to[r]
-anyone else. I want us to be lovers and always be together."[pcms]
+[ns]漣[nse]
+「ひとりぼっちはいやなの。[r]
+　お兄ちゃんを誰にも渡したくないの。[r]
+　恋人同士になって、ずっとずっと一緒にいたいの」[pcms]
 
 ;	[evcg storage="HEV058b"][trans_c cross time=300]
 
 *7591|
 [fc]
 [vo_ren s="ren0989"]
-[ns]Ren[nse]
-"Big brother, hold me. Please, big brother."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、私を抱いて。お兄ちゃん、お願い」[pcms]
 
 *7592|
 [fc]
-With force in her hand, Ren pressed my palm firmly against[r]
-her pussy without any resistance.[pcms]
+漣の手に力が入り、否応なく、ボクの手のひらは[r]
+漣のアソコにぴったりと押し付けられていく。[pcms]
 
 *7593|
 [fc]
-What should I do... What should I do?[pcms]
+どうしたらいいんだ……ボクは。[pcms]
 
 [eval exp="f.l_attack_r = 1"]
 
 ;mm回想次ブロックからにしたからこの分岐は不要
 ;	;//以下は回想用の選択肢自動分岐のための判定式
 ;	[if exp="tf.scene_mode == 1"][jump storage="T70030.ks" target=*T70030_TOP][endif]
-;//●選択肢Ｂ１
-;//１１：抱く→T70030
-;//１２：抱かない→T70050
+;//●選択肢Ｂ－１
+;//１－１：抱く→T70030
+;//１－２：抱かない→T70050
 
 ;	[link storage="T70030.ks" target=*T70030_TOP]抱く[endlink]
-;       (link storage="T70050.ks" target=*T70050_TOP)Do not[r]
-hold(endlink)[pcms]
+;	[link storage="T70050.ks" target=*T70050_TOP]抱かない[endlink][s]
 
 *SEL76|抱く／抱かない
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Embrace'"]
-[eval exp="f.seltext04 = 'I won\'t hold you'"]
+[eval exp="f.seltext02 = '抱く'"]
+[eval exp="f.seltext04 = '抱かない'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

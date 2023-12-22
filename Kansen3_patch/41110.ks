@@ -1,10 +1,10 @@
 ;//block:A012
-;//ブロック４１１１０『地下道悠帆のみ脱出』pt9
+;//ブロック４１１１０『地下道～悠帆のみ脱出～』pt9
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41100.txtから
 
 *41110_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:悠帆視点　悠帆・感染悠帆の父親・感染者（複数？）
@@ -37,61 +37,62 @@
 *3460|
 [fc]
 [vo_yuh s="yuho0494"]
-[ns]Yuuho[nse]
-"Ah..."[pcms]
+[ns]悠帆[nse]
+「あっ……」[pcms]
 
 ;//SE・転倒する　ドサッ
 
 *3461|
 [fc]
 [vo_yuh s="yuho0495"]
-[ns]Yuuho[nse]
-"Ugh... Ahh..."[pcms]
+[ns]悠帆[nse]
+「ううっ……。[r]
+　ああっ……」[pcms]
 
 *3462|
 [fc]
-I stood up, enduring the pain from the scraped knee I got[r]
-from falling.[pcms]
+わたしは、転んですりむいた足の痛みを[r]
+こらえながら立ち上がった。[pcms]
 
 *3463|
 [fc]
-I had been running in the darkness all this time.[pcms]
+ずっと、わたしは暗闇の中を走っていた。[pcms]
 
 *3464|
 [fc]
-The flashlight I was holding was grabbed and dropped while I[r]
-was fleeing from those crazed people.[pcms]
+手に持っていたライトは、[r]
+あのおかしくなった人たちから逃げる時に[r]
+つかまれて落としてしまっていた。[pcms]
 
 *3465|
 [fc]
-The dark underground passage was hard to see, and I fell[r]
-several times because my feet got caught.[pcms]
+暗い地下道は良く見えなくて、何度も足をとられて転んだ。[pcms]
 
 *3466|
 [fc]
-Still, I immediately got up and ran desperately to escape.[pcms]
+それでもわたしはすぐに立ちあがって必死に逃げる。[pcms]
 
 *3467|
 [fc]
-I don't want to become one of those people![pcms]
+あんな人たちの仲間にはなりたくない！[pcms]
 
 *3468|
 [fc]
-Continuing to move solely based on desire, that's not human.[r]
-I may be dumb and not understand well, but I think humans[r]
-need things like love and reason.[pcms]
+あんな風に欲求のおもむくままに、動き続けるのは[r]
+人間じゃない。わたしはバカだからよくわからないけど、[r]
+人間って、愛とか理性とかそんなものがなくちゃって思う。[pcms]
 
 *3469|
 [fc]
-Without that, you're not human...[pcms]
+それがないのは人間じゃないって……。[pcms]
 
 *3470|
 [fc]
-...Besides, I promised Wataru...[pcms]
+……それに、航と約束した……。[pcms]
 
 *3471|
 [fc]
-I have something I want to confess to Wataru.[pcms]
+わたしは航に告白したいことがあるんだ。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -102,7 +103,7 @@ I have something I want to confess to Wataru.[pcms]
 
 *3472|
 [fc]
-So, I kept running down the dark, unclear path.[pcms]
+だから、わたしは暗くてよくわからない道を走り続けた。[pcms]
 
 ;//@konya 地下通路
 [bg storage="BG027"][trans_c cross time=500]
@@ -110,13 +111,13 @@ So, I kept running down the dark, unclear path.[pcms]
 *3473|
 [fc]
 [vo_yuh s="yuho0496"]
-[ns]Yuuho[nse]
-"Haah... Haah... Wataru..."[pcms]
+[ns]悠帆[nse]
+「はぁ……はぁ……航……」[pcms]
 
 *3474|
 [fc]
-Between my panting breaths, I continued to run while[r]
-muttering Wataru's name like a spell.[pcms]
+弾む息の合間に、[r]
+わたしは航の名前を呪文のようにつぶやきながら走り続けた。[pcms]
 
 ;//se052・コンクリートの上を走る（一人）
 [se buf=0 storage="se052"]
@@ -142,25 +143,26 @@ muttering Wataru's name like a spell.[pcms]
 *3475|
 [fc]
 [vo_yuh s="yuho0497"]
-[ns]Yuuho[nse]
-"Kyaa!"[pcms]
+[ns]悠帆[nse]
+「きゃあっ！」[pcms]
 
 ;//se004・人が倒れる音
 [se buf=0 storage="se004"]
 
 *3476|
 [fc]
-I bumped into something and fell over again.[pcms]
+なにかぶつかって、わたしはまたこけた。[pcms]
 
 *3477|
 [fc]
-It wasn't because my feet got caught on the shards of stone[r]
-or sand like before, but because I bumped into something...[pcms]
+さっきまでの石の欠片や砂に足をとられてじゃなくて、[r]
+なにかにぶつかって……。[pcms]
 
 *3478|
 [fc]
-It was hard, but incomparably softer than stone... and it[r]
-was warm...[pcms]
+それは固かったけど……[r]
+石とは比べものにならないくらいに柔らかくて……。[r]
+……なまあたたかった……。[pcms]
 
 ;//@konya 地下通路
 [bg storage="BG027"][trans_c cross time=500]
@@ -168,13 +170,13 @@ was warm...[pcms]
 *3479|
 [fc]
 [vo_yuh s="yuho0498"]
-[ns]Yuuho[nse]
-"Uuuuh..."[pcms]
+[ns]悠帆[nse]
+「うううっ……」[pcms]
 
 *3480|
 [fc]
 [ns]？？？[nse]
-"...Uuh..."[pcms]
+「……ううっ……」[pcms]
 ;//＠感染者
 
 ;mm 追加
@@ -182,16 +184,17 @@ was warm...[pcms]
 
 *3481|
 [fc]
-A human voice? Who is it?[pcms]
+人の声？[r]
+誰っ？[pcms]
 
 *3482|
 [fc]
-As I tried to get up and placed my hands down, they touched[r]
-something squishy and lukewarm.[pcms]
+わたしは起き上がろうと手をつくと、[r]
+やっぱりぐにゃりとして、生温かいモノに手が触れる。[pcms]
 
 *3483|
 [fc]
-...This is, after all...[pcms]
+……これって、やっぱり……。[pcms]
 
 ;mm 追加
 [bgm storage="BGM03"]
@@ -200,475 +203,492 @@ something squishy and lukewarm.[pcms]
 *3484|
 [fc]
 [ns]？？？[nse]
-"...the smell of a woman..."[pcms]
+「……女の匂いだぁ……」[pcms]
 ;//＠感染者　悠帆の父
 
 *3485|
 [fc]
 [vo_yuh s="yuho0499"]
-[ns]Yuuho[nse]
-"Kyaaaaa!!"[pcms]
+[ns]悠帆[nse]
+「きゃあああっ！！」[pcms]
 
 *3486|
 [fc]
-Just as I thought! It's one of those crazed people! I fell[r]
-over after bumping into one of them.[pcms]
+やっぱり！[r]
+おかしくなった人たちだっ！[r]
+おかしくなった人にぶつかって、わたしはこけたんだ。[pcms]
 
 *3487|
 [fc]
 [ns]？？？[nse]
-"A girl's voice!!"[pcms]
+「おんなのこえだぁ！！」[pcms]
 ;//＠感染者
 
 *3488|
 [fc]
 [vo_yuh s="yuho0500"]
-[ns]Yuuho[nse]
-"Noooo!!"[pcms]
+[ns]悠帆[nse]
+「いやぁああっ！！」[pcms]
 
 *3489|
 [fc]
-A different voice from before. It's not just one person!![pcms]
+さっきとは違う声。[r]
+一人だけじゃない！！[pcms]
 
 *3490|
 [fc]
-No matter how much I try to stifle my voice, the warm breath[r]
-and voices blowing close by involuntarily make me scream.[pcms]
+声を殺そうとしても、間近に吹きつけられる生温かい息と声に[r]
+勝手に悲鳴があがってしまう。[pcms]
 
 *3491|
 [fc]
-"I need to muster my courage, hold my breath, and sneak away[r]
-from here..."[pcms]
+『勇気を出して、息を殺して、[r]
+　ここからそっと逃げ出さなくちゃ……』[pcms]
 
 *3492|
 [fc]
-Even though my mind understands what to do, my body won't[r]
-listen.[pcms]
+頭の中ではわかっていても、[r]
+身体が言うことをきいてくれない。[pcms]
 
 *3493|
 [fc]
-Kousuke once said during a movie we watched together about[r]
-the "Horror Movie Death Flags."[pcms]
+前にみんなで映画を見てたときにコースケが言っていた[r]
+『ホラー映画の死亡フラグ』って、話が頭をよぎる。[pcms]
 
 *3494|
 [fc]
-The clich scenario where the heroine could have escaped[r]
-quietly but somehow makes a blunder and gets found out, then[r]
-killed.[pcms]
+こっそり逃げ出せばいいのに、[r]
+なぜかやたらとドジを踏んで見つかって、[r]
+殺されちゃうヒロインっていうお約束の展開のこと。[pcms]
 
 *3495|
 [fc]
-I laughed at that time... but now, I see myself overlapping[r]
-with that kind of heroine.[pcms]
+その時は笑ったけど……[r]
+今はそんなヒロインとわたしが重なって見えた。[pcms]
 
 *3496|
 [fc]
-No way! I'd be fine as the heroine of a romance movie, but[r]
-definitely not a horror movie... I absolutely hate that!![pcms]
+イヤだよっ！[r]
+恋愛映画のヒロインならいいけど、[r]
+ホラー映画のだなんて……絶対にイヤなんだからっ！！[pcms]
 
 *3497|
 [fc]
 [vo_yuh s="yuho0501"]
-[ns]Yuuho[nse]
-"...!!"[pcms]
+[ns]悠帆[nse]
+「………………っ！！」[pcms]
 
 *3498|
 [fc]
-I bit my lip to suppress my fear and began to sneak away[r]
-quietly from there.[pcms]
+わたしは、唇を噛んで怖さをこらえて、[r]
+そこからそっと抜け出し始めた。[pcms]
 
 *3499|
 [fc]
-[ns]Infected - Male L[nse]
-"Woman~ where are you~"[pcms]
+[ns]感染者・男Ｌ[nse]
+「おんな～どこだぁ～」[pcms]
 
 *3500|
 [fc]
 [vo_yuh s="yuho0502"]
-[ns]Yuuho[nse]
-"...!!"[pcms]
+[ns]悠帆[nse]
+「………………っ！！」[pcms]
 
 *3501|
 [fc]
-[ns]Infected P[nse]
-"I can smell her... search thoroughly~"[pcms]
+[ns]感染者Ｐ[nse]
+「においはするぞ……よく探せ～」[pcms]
 ;//＠悠帆の父
 
 *3502|
 [fc]
 [vo_yuh s="yuho0503"]
-[ns]Yuuho[nse]
-"...!!"[pcms]
+[ns]悠帆[nse]
+「……っ！！」[pcms]
 
 *3503|
 [fc]
-Holding my breath, I crawled over the squishy, warm flesh[r]
-that was moving around.[pcms]
+息を殺して、動き回るぐにょぐにょとした[r]
+なまあたたかい肉の上をわたしははい回る。[pcms]
 
 *3504|
 [fc]
-Killing my emotions, I crawled slowly and calmly. I didn't[r]
-know where the exit was, but if I went in the opposite[r]
-direction from where I came, surely...[pcms]
+心を殺して、ゆっくりと、おちついてはいまわる。[r]
+出口はわからないけど、来た方向と反対に行けば、[r]
+きっと……。[pcms]
 
 *3505|
 [fc]
-I was moving based on quite an optimistic prediction.[pcms]
+わたしはかなり希望的な予測で動いていた。[pcms]
 
 *3506|
 [fc]
 [vo_yuh s="yuho0504"]
-[ns]Yuuho[nse]
-"...!!"[pcms]
+[ns]悠帆[nse]
+「…………っ！！」[pcms]
 
 *3507|
 [fc]
-The warm breath tickled my ear.[pcms]
+なまあたたかい息が耳元をくすぐる。[pcms]
 
 *3508|
 [fc]
-What touched my hands and feet... were they hands or feet or[r]
-maybe... I didn't want to think about it.[pcms]
+私の手や足に触れるのは……手なのか、[r]
+足なのかそれとも……。……考えたくなかった。[pcms]
 
 *3509|
 [fc]
-[ns]Infected - Male M[nse]
-"There she is!"[pcms]
+[ns]感染者・男Ｍ[nse]
+「いたいぃいっ！」[pcms]
 
 *3510|
 [fc]
 [vo_yuh s="yuho0505"]
-[ns]Yuuho[nse]
-"...gah...!!"[pcms]
+[ns]悠帆[nse]
+「……ごっ……！！」[pcms]
 
 *3511|
 [fc]
-I almost said "I'm sorry" and hurriedly swallowed my words.[pcms]
+つい『ごめんなさい』って言いかけて、[r]
+あわてて言葉を呑み込む。[pcms]
 
 *3512|
 [fc]
-Even though they were infected people, I still felt guilty[r]
-for stepping on them... but this was just too much.[pcms]
+おかしくなった人たちとはいえ、人の上を[r]
+踏みつけていることにはやっぱり罪悪感があったけど……[r]
+われながら、これはない。[pcms]
 
 *3513|
 [fc]
-[ns]Infected - Male M[nse]
-"That hurts so good!! More!! Give me more!!"[pcms]
+[ns]感染者・男Ｍ[nse]
+「いたいのいいっ！！　もっとぉ！！[r]
+　もっとしてくれっ！！」[pcms]
 
 *3514|
 [fc]
 [vo_yuh s="yuho0506"]
-[ns]Yuuho[nse]
-"------!!"[pcms]
+[ns]悠帆[nse]
+「――――――っ！！」[pcms]
 
 *3515|
 [fc]
-The creepy voice snapped me back to reality. It reminded me[r]
-that these people were human, but not human anymore.[pcms]
+気味の悪い声がわたしを正気づかせる。[r]
+あの人たちは人間だけど人間じゃないって、[r]
+わたしに再認識させる。[pcms]
 
 *3516|
 [fc]
-I should have known how crazy it could get from watching[r]
-Ren-chan and the others...[pcms]
+どんなにおかしくなるかは漣ちゃんたちを見て[r]
+わかっていたはずなのに……。[pcms]
 
 *3517|
 [fc]
-The kind and cute Ren-chan... saying she would "kill" me...[pcms]
+あのやさしくて、かわいかった漣ちゃんが……[r]
+わたしのことを「殺す」って……。[pcms]
 
 *3518|
 [fc]
-Surely, Ren-chan must feel the same about Wataru...[pcms]
+きっと、漣ちゃんも航のことを……。[pcms]
 
 *3519|
 [fc]
 [vo_yuh s="yuho0507"]
-[ns]Yuuho[nse]
-"...Wataru..."[pcms]
+[ns]悠帆[nse]
+「……航……」[pcms]
 
 *3520|
 [fc]
-"It's okay! I'm still okay!" I told myself as I started[r]
-crawling again.[pcms]
+『大丈夫！　まだ大丈夫っ！』[r]
+自分に言い聞かせながら、わたしはまたはいまわりだした。[pcms]
 
 *3521|
 [fc]
-I have to meet Wataru! To confess these feelings to him...[pcms]
+航に会うんだ！[r]
+あって、このキモチを告白するんだって……。[pcms]
 
 *3522|
 [fc]
-[ns]Infected Man L[nse]
-"I heard a girl's voice just now~"[pcms]
+[ns]感染者・男Ｌ[nse]
+「さっき、おんなのこえがした～」[pcms]
 
 *3523|
 [fc]
-[ns]Infected P[nse]
-"I can still smell a woman's scent~. Search thoroughly~"[pcms]
+[ns]感染者Ｐ[nse]
+「まだ、女の匂いがするぞ～。[r]
+　しっかりさがせ～」[pcms]
 
 *3524|
 [fc]
-I couldn't see them, but I could sense that they were[r]
-searching for me.[pcms]
+見えないけど、あの人たちがわたしを探してるのが[r]
+気配でわかる。[pcms]
 
 *3525|
 [fc]
-But even though I knew they were moving around searching, I[r]
-had no idea how they were moving, so I just headed in what I[r]
-thought was the right direction.[pcms]
+だけど、探して動いていることはわかっても、[r]
+どんな風に動いているかはさっぱりわからないから、[r]
+正しいと思う方向へと進むだけ。[pcms]
 
 *3526|
 [fc]
-Still, I felt like the presence of the searchers was fading[r]
-away from around me.[pcms]
+それでも、わたしの周りから[r]
+捜索の気配が遠のいていく気がしていた。[pcms]
 
 *3527|
 [fc]
 [vo_yuh s="yuho0508"]
-[ns]Yuuho[nse]
-"...huh"[pcms]
+[ns]悠帆[nse]
+「………………っ」[pcms]
 
 *3528|
 [fc]
-I let out a breath of relief.[pcms]
+わたしは安心して息をついた。[pcms]
 
 ;//　軽くシェイク
 
 *3529|
 [fc]
-[ns]Infected P[nse]
-"I've caught you~"[pcms]
+[ns]感染者Ｐ[nse]
+「つかまえたぞ～」[pcms]
 ;//＠悠帆の父
 
 *3530|
 [fc]
 [vo_yuh s="yuho0509"]
-[ns]Yuuho[nse]
-"Noooooo!!"[pcms]
+[ns]悠帆[nse]
+「いやぁああああっ！！」[pcms]
 
 *3531|
 [fc]
-The moment I relaxed, my leg was firmly grasped.[pcms]
+安心した瞬間、わたしはしっかりと足をつかまれてしまった。[pcms]
 
 *3532|
 [fc]
-[ns]Infected Man L[nse]
-"Is it here...?"[pcms]
+[ns]感染者・男Ｌ[nse]
+「そこかぁ……」[pcms]
 
 *3533|
 [fc]
-[ns]Infected - Male M[nse]
-"What is this...?"[pcms]
+[ns]感染者・男Ｍ[nse]
+「これは……なんだぁ……」[pcms]
 
 *3534|
 [fc]
-The hands of the infected people reached out one after[r]
-another to my body, which had been grabbed by the leg.[pcms]
+足をつかまれたわたしの身体に、[r]
+つぎつぎにおかしくなった人の手がのびてくる。[pcms]
 
 *3535|
 [fc]
 [vo_yuh s="yuho0510"]
-[ns]Yuuho[nse]
-"No, nooo...ahhh..."[pcms]
+[ns]悠帆[nse]
+「いやああぁ……ああっ……」[pcms]
 
 *3536|
 [fc]
-[ns]Infected - Male M[nse]
-"Is this an ass...?"[pcms]
+[ns]感染者・男Ｍ[nse]
+「これはしりかなぁ……」[pcms]
 
 *3537|
 [fc]
-[ns]Infected - Male L[nse]
-"It's soft... Looks tasty..."[pcms]
+[ns]感染者・男Ｌ[nse]
+「やわらかいなぁ……。[r]
+　うまそうだぁ……」[pcms]
 
 *3538|
 [fc]
 [vo_yuh s="yuho0511"]
-[ns]Yuuho[nse]
-"Stop it!!"[pcms]
+[ns]悠帆[nse]
+「やぁあああっ！！」[pcms]
 
 *3539|
 [fc]
-The infected people ran their hands all over my body,[r]
-kneading my butt and licking my thighs.[pcms]
+おかしくなった人たちはわたしの身体に手をはいまわらせて、[r]
+わたしのお尻をもんだり、太ももをなめたりする。[pcms]
 
 *3540|
 [fc]
-One of them... probably the one who had grabbed my leg,[r]
-boldly pressed his body against mine.[pcms]
+そのうちの一人……多分、わたしの足をつかんでた人は、[r]
+大胆にも身体をすりよせてくる。[pcms]
 
 *3541|
 [fc]
-And then he started to stroke my hips and belly.[pcms]
+そして、わたしの腰やお腹を撫で回す。[pcms]
 
 ;//悠帆の母の名前　あれば　→@konya　悠子
 ;//完全な近親相姦になるが許容か？　以降♂メモ
 
 *3542|
 [fc]
-[ns]Infected P[nse]
-"Ah, this body... it feels like Yuko when she was young..."[pcms]
+[ns]感染者Ｐ[nse]
+「ああ、この身体の感じ……[r]
+　悠子の若いころのようだ……」[pcms]
 ;//＠悠帆の父
 
 *3543|
 [fc]
 [vo_yuh s="yuho0512"]
-[ns]Yuuho[nse]
-"Eh... that name is..."[pcms]
+[ns]悠帆[nse]
+「え……その名前は……」[pcms]
 ;//♂メモ
 
 *3544|
 [fc]
-The man who was rubbing his body against me like a molester[r]
-mentioned my mother's name...[pcms]
+わたしの身体にまるで痴漢みたいに身体をすりよせてくる[r]
+男の人の口からお母さんの名前が……。[pcms]
 
 *3545|
 [fc]
-It wasn't just the name... that voice was...[pcms]
+名前だけじゃない……その声は……。[pcms]
 
 *3546|
 [fc]
 [vo_yuh s="yuho0513"]
-[ns]Yuuho[nse]
-"Father...?"[pcms]
+[ns]悠帆[nse]
+「お父……さん……？」[pcms]
 ;//♂メモ
 
 *3547|
 [fc]
-[ns]Infected P[nse]
-"That voice... it's definitely Yuuho..."[pcms]
+[ns]感染者Ｐ[nse]
+「その声は……やっぱり悠帆か……」[pcms]
 
 *3548|
 [fc]
 [vo_yuh s="yuho0514"]
-[ns]Yuuho[nse]
-"...!!"[pcms]
+[ns]悠帆[nse]
+「………………っ！！」[pcms]
 
 *3549|
 [fc]
-Even though he sounded drunk, that person was definitely my[r]
-father.[pcms]
+酔っ払ったみたいな声だけど、[r]
+やっぱり、その人はお父さんだった。[pcms]
 ;//♂メモ
 
 *3550|
 [fc]
-[ns]Yuuho's father[nse]
-"So it's Yuuho... no wonder..."[pcms]
+[ns]悠帆の父親[nse]
+「そうか悠帆か……どおりでなぁ……」[pcms]
 
 *3551|
 [fc]
 [vo_yuh s="yuho0515"]
-[ns]Yuuho[nse]
-"Stop it!!"[pcms]
+[ns]悠帆[nse]
+「やあぁああっ！！」[pcms]
 
 *3552|
 [fc]
-My father's hands caressed my body.[pcms]
+お父さんの手が私の身体を撫で回す。[pcms]
 
 *3553|
 [fc]
-[ns]Yuuho's father[nse]
-"This body... it really does feel just like Yuko when she[r]
-was young. The firm belly with a bit of muscle, yet the soft[r]
-texture of the butt... it's the same."[pcms]
+[ns]悠帆の父親[nse]
+「この体の感じ……やっぱり、悠子の若い頃[r]
+　そっくりだな。お腹もひきしまって、ちょっと筋肉質な[r]
+　ところや、それでいてやわらかなお尻の質感……同じだ」[pcms]
 
 *3554|
 [fc]
-[ns]Yuuho's father[nse]
-"You really are Yuko's daughter... You're just like her.[r]
-There's no mistake, it's Yuuho~!"[pcms]
+[ns]悠帆の父親[nse]
+「やっぱり、悠子の娘だな……。[r]
+　そっくりだよ。[r]
+　悠帆にまちがいない～っ！」[pcms]
 
 *3555|
 [fc]
 [vo_yuh s="yuho0516"]
-[ns]Yuuho[nse]
-"Stop it... please stop! Father!"[pcms]
+[ns]悠帆[nse]
+「やめて……やめてよ！[r]
+　お父さんっ！」[pcms]
 ;//♂メモ
 
 *3556|
 [fc]
-My father's hands groped my body more and touched my chest.[pcms]
+お父さんの手がわたしの身体をもっとまさぐって、[r]
+胸にまで触れる。[pcms]
 
 *3557|
 [fc]
-[ns]Yuuho's father[nse]
-"What are you talking about? That can't be right, Yuuho.[r]
-I've been searching for you all this time. Now that we've[r]
-finally reunited as a family..."[pcms]
+[ns]悠帆の父親[nse]
+「なにを言ってるんだ？　それはないだろ悠帆。[r]
+　ずっと、悠帆を探してたんだぞ？[r]
+　これでせっかく、家族がそろったのに……」[pcms]
 
 *3558|
 [fc]
 [vo_yuh s="yuho0517"]
-[ns]Yuuho[nse]
-"Reunited...?"[pcms]
+[ns]悠帆[nse]
+「そろったって……」[pcms]
 
 *3559|
 [fc]
-[ns]Yuuho's father[nse]
-"Your mother is with us too~? She's inside here..."[pcms]
+[ns]悠帆の父親[nse]
+「母さんも一緒だよ～？[r]
+　ここの中にいるんだよ……」[pcms]
 
 *3560|
 [fc]
 [vo_yuh s="yuho0518"]
-[ns]Yuuho[nse]
-"This place..."[pcms]
+[ns]悠帆[nse]
+「ここ……」[pcms]
 
 *3561|
 [fc]
-Despite the pitch darkness, I found myself looking around.[pcms]
+真っ暗闇なのにもかかわらず、[r]
+わたしは辺りを見回してしまう。[pcms]
 
 *3562|
 [fc]
-But, needless to say, I couldn't find anything resembling my[r]
-mother.[pcms]
+だけど、言うまでもなく、[r]
+お母さんらしきものは見つけられない。[pcms]
 
 *3563|
 [fc]
-If I did find something, surely...[pcms]
+もし、見つけたとしても、きっと……。[pcms]
 
 ;//通路　一瞬だけ　表示
 
 *3564|
 [fc]
 [vo_yuh s="yuho0519"]
-[ns]Yuuho[nse]
-"...!?"[pcms]
+[ns]悠帆[nse]
+「………………っ！？」[pcms]
 
 *3565|
 [fc]
-For just a moment, the pitch-black corridor lit up.[pcms]
+一瞬だけど、真っ暗な通路が明るくなった[pcms]
 
 ;//通路　一瞬だけ　表示
 
 *3566|
 [fc]
-The flickering light slowly approached from the depths,[r]
-swaying towards me.[pcms]
+ゆらゆらとゆれる明かりが、奥からゆっくりと[r]
+こっちへと近づいてきた。[pcms]
 
 *3567|
 [fc]
-What on earth could it be?[pcms]
+いったいなんだろう？[pcms]
 
 *3568|
 [fc]
-Because of the swaying light, the surroundings were[r]
-intermittently illuminated as if by a flash.[pcms]
+明かりがゆれているせいで、時折まるでフラッシュのように[r]
+あたりの様子が照らし出される。[pcms]
 
 ;//背景とともに映し出される悠帆の父
 
 *3569|
 [fc]
 [vo_yuh s="yuho0520"]
-[ns]Yuuho[nse]
-"Noooooo!!"[pcms]
+[ns]悠帆[nse]
+「いやあぁ～～っ！！」[pcms]
 
 *3570|
 [fc]
-Reflected in that light was a face with blood-red eyes and a[r]
-mouth stained just as redmy father's face.[pcms]
+その明かりに映し出されたのは真っ赤な目と、[r]
+それと同じように口元を赤く染めたお父さんの顔だった。[pcms]
 
 *3571|
 [fc]
-I had to believe what I didn't want to believe... The shock[r]
-was enough to make me feel like I was going to pass out.[pcms]
+わたしは信じたくなかったものを信じなければいけなかった。[r]
+……そのショックで、気を失ってしまいそうだ。[pcms]
 
 ;//→ブロック４１１２０へ
 [jump storage="41120.ks" target=*41120_TOP]

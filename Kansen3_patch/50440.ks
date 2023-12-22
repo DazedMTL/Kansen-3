@@ -26,326 +26,327 @@
 *2215|
 [fc]
 [vo_yuh s="yuho1576"]
-[ns]Yuuho[nse]
-"Dodon! Kannagi-ken's special Takokimchi Fried Rice[r]
-Revolution! ...No, that's not right! This is... Deep-fried[r]
-rice!!"[pcms]
+[ns]悠帆[nse]
+「どど～ん！[r]
+　かんなぎ軒特製・タコキムチャーハン改！[r]
+　……いや違う！　コレは……ディープ[ruby text="はん"]飯！！」[pcms]
 
 *2216|
 [fc]
 [vo_ren s="ren1380"]
-[ns]Ren[nse]
-"Ando! A salt-massaged salad of eggplant, cucumber, and[r]
-tomato~!"[pcms]
+[ns]漣[nse]
+「あ～んど！　茄子とキュウリとトマトの塩もみサラダ～！」[pcms]
 
 *2217|
 [fc]
-[ns]Wataru[nse]
-"Wow..."[pcms]
+[ns]航[nse]
+「うわ……」[pcms]
 
 *2218|
 [fc]
-On the plate, the takokimchi fried rice is beautifully[r]
-arranged in a dome shape.[pcms]
+お皿の上に、綺麗なドーム状に整えられた[r]
+タコキムチ・チャーハンが盛られている。[pcms]
 
 *2219|
 [fc]
-But... Octopus legs are sprouting from here and there...[r]
-What is this...?[pcms]
+けど……。[r]
+そこかしこからタコの足がニョキニョキ生えてて……。[r]
+な……なんだろう、これ……。[pcms]
 
 [chara_int][ChrSetEx layer=5 chbase="ren_m2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2220|
 [fc]
 [vo_ren s="ren1381"]
-[ns]Ren[nse]
-"Don't make that face... Sure, it looks a bit, well... But[r]
-it looks delicious, right?"[pcms]
+[ns]漣[nse]
+「そんな顔しないでよ……。[r]
+　確かに見た目が、ちょっと、ね……。[r]
+　でも、美味しそう……だよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2221|
 [fc]
 [vo_mar s="maru1543"]
-[ns]Margarita[nse]
-"Th-this is... octopus... uuu..."[pcms]
+[ns]マルガリータ[nse]
+「こっ、これは……オクトパス……うぅぅ……」[pcms]
 
 *2222|
 [fc]
-Maruko-senpai's face is turning pale. She's probably scared[r]
-of the state of the dish in more ways than one.[pcms]
+マル子先輩の顔が青褪めている。[r]
+おそらく料理の有様に、色々な意味で怯えてるんだろう。[pcms]
 
 *2223|
 [fc]
-That's odd... But I heard that while Westerners dislike[r]
-octopus, calling it 'the devil's fish', people in Spanish-[r]
-speaking countries eat it just like the Japanese do...[pcms]
+あれ……？　でも、おかしいな。[r]
+西洋ではタコを「悪魔の魚」と嫌うけれど、スペイン語圏の人は[r]
+日本人と同じように、タコを食べるって聞いたけどな……。[pcms]
 
 [chara_int][ChrSetEx layer=3 chbase="jin_b4"][ChrSetXY layer=3 x=-71 y=0]
 [ChrSetEx layer=4 chbase="shige_b2"][ChrSetXY layer=4 x=321 y=0][trans_c cross time=150]
 
 *2224|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *2225|
 [fc]
-[ns]Shigeyoshi[nse]
-"What the heck is this..."[pcms]
+[ns]重吉[nse]
+「何だこりゃ……」[pcms]
 
 *2226|
 [fc]
-Jin is silent, and Shigeyoshi is looking at the plate with a[r]
-suspicious look...[pcms]
+壬は無言で、重吉はいかにも不審そうに皿を眺めてるし……。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *2227|
 [fc]
-But the takokimchi fried rice is one of the variations of[r]
-Kannagi-ken's kimchi fried rice, and I really liked it too.[pcms]
+だけどタコキムチ・チャーハンは、かんなぎ軒の[r]
+キムチ・チャーハンのバリエーションの一つで、[r]
+ボクも凄く気に入っていた料理だ。[pcms]
 
 *2228|
 [fc]
-But... it didn't look like this.[pcms]
+だけど……見た目はこうじゃなかったハズ。[pcms]
 
 *2229|
 [fc]
-Indeed, I acknowledge Yuuho's cooking skills. But her sense[r]
-of arrangement is just too unique.[pcms]
+確かに、悠帆の料理の腕は認める。[r]
+だけど、アレンジの感覚が特殊過ぎる。[pcms]
 
 *2230|
 [fc]
-Or rather... Yuuho, you might be misunderstanding the[r]
-meaning of 'arrangement' in cooking. Visual arrangement and[r]
-flavoring arrangement are different, you know...?[pcms]
+と言うより……。[r]
+悠帆、料理におけるアレンジの意味、間違えてるんじゃ……。[r]
+見た目のアレンジと、味付けのアレンジは違うぞ……？[pcms]
 
 *2231|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *2232|
 [fc]
-But still, Yuuho put a lot of effort into making it... It's[r]
-not like she did it to be mean...[pcms]
+でもまあ、悠帆は一生懸命作ってくれたんだよな……。[r]
+何も、嫌がらせとかじゃなくて……。[pcms]
 
 *2233|
 [fc]
-And when I see Yuuho waiting for our reactions with a smile[r]
-as if to say, "How is it? Looks delicious, right?" I can't[r]
-bring myself to say anything.[pcms]
+それに『どう？　美味しそうでしょ？』という感じの笑顔で、[r]
+ボク達の反応を待っている悠帆を見ると、[r]
+何も言えなくなってしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2234|
 [fc]
 [vo_yuh s="yuho1577"]
-[ns]Yuuho[nse]
-"What's wrong, Wataru? Don't you like octopus? You shouldn't[r]
-be picky!"[pcms]
+[ns]悠帆[nse]
+「どうしたの？　航？　タコ嫌いだっけ？[r]
+　好き嫌いしちゃ駄目だよーっ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2235|
 [fc]
 [vo_yuh s="yuho1578"]
-[ns]Yuuho[nse]
-"Octopus is rich in protein and taurine, and above all, it's[r]
-healthy!"[pcms]
+[ns]悠帆[nse]
+「タコにはね、タンパク質とかタウリンが豊富だったりね、[r]
+　それに、なんと言ってもヘルシー！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a13"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *2236|
 [fc]
 [vo_miz s="mizuki0302"]
-[ns]Mizuki[nse]
-"I have a seafood allergy..."[pcms]
+[ns]瑞樹[nse]
+「あたし、海鮮アレルギーなんだよね……」[pcms]
 
 *2237|
 [fc]
-Mizuki has a complex expression mixed with regret for not[r]
-being able to eat what was made for her and reluctance as if[r]
-to say "I'd rather not" as she tries to decline Yuuho's[r]
-dish.[pcms]
+瑞樹は、せっかく作ってくれたのに、という申し訳なさと、[r]
+『これはちょっと』という敬遠の混ざった複雑な表情で、[r]
+悠帆の作った料理を断ろうとしていた。[pcms]
 
 *2238|
 [fc]
-But as soon as Yuuho sees Mizuki's face, her eyes light up[r]
-and she presents another plate.[pcms]
+だが、悠帆は瑞樹の顔をみるなり、目を輝かせながら[r]
+別の皿を差し出した。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2239|
 [fc]
 [vo_yuh s="yuho1579"]
-[ns]Yuuho[nse]
-"I've known about that for years! Here! For Mizuki-chan,[r]
-I've prepared a version without octopus!"[pcms]
+[ns]悠帆[nse]
+「そんなの、何年も前から知ってるよ！　はい！[r]
+　瑞樹ちゃんには、タコ抜きのキムチチャーハンを[r]
+　用意してあります！」[pcms]
 
 *2240|
 [fc]
-Mizuki looks down and starts to tremble slightly as Yuuho[r]
-places the plate in front of her with a proud look on her[r]
-face.[pcms]
+得意げな顔で瑞樹の前に皿を置くと、[r]
+瑞樹はうつむいて少し震えだした。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a14"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *2241|
 [fc]
 [vo_miz s="mizuki0303"]
-[ns]Mizuki[nse]
-"Yuuho... I have a favor to ask... Will you listen?"[pcms]
+[ns]瑞樹[nse]
+「ユウホ……。お願いがあるの……。[r]
+　聞いてくれる？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2242|
 [fc]
 [vo_yuh s="yuho1580"]
-[ns]Yuuho[nse]
-"Hm? What is it? Can't you eat kimchi either?"[pcms]
+[ns]悠帆[nse]
+「ん？　なに？　キムチも駄目なんだっけ……？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a18"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *2243|
 [fc]
 [vo_miz s="mizuki0304"]
-[ns]Mizuki[nse]
-"Yuuho, you're the best~! Will you marry me?!"[pcms]
+[ns]瑞樹[nse]
+「ユウホ、最高～っ！　あたしと結婚して！？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h30"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2244|
 [fc]
 [vo_yuh s="yuho1581"]
-[ns]Yuuho[nse]
-"What are you saying, Mizuki-chan..."[pcms]
+[ns]悠帆[nse]
+「な、何言ってるの、瑞樹ちゃん……」[pcms]
 
 *2245|
 [fc]
-Yuuho blushes and hands Mizuki a spoon, then turns to[r]
-Maruko-senpai who is waiting her turn and offers the dish[r]
-with a loud voice as if to hide her embarrassment.[pcms]
+悠帆は顔を赤らめながら、瑞樹にスプーンを手渡すと、[r]
+順番を待つマル子先輩の前へと向きを変え、照れ隠しの様に、[r]
+大きな声を出しながら、料理を差し出した。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2246|
 [fc]
 [vo_yuh s="yuho1582"]
-[ns]Yuuho[nse]
-"Then, Maruko-senpai's dish is this one!"[pcms]
+[ns]悠帆[nse]
+「じ、じゃあ、マル子先輩のはコレね！」[pcms]
 
 *2247|
 [fc]
-As the takokimchi fried rice is placed on the table in front[r]
-of her, Maruko- senpai also looks down and opens her mouth[r]
-in a small, embarrassed voice.[pcms]
+目の前にテーブルにタコキムチ・チャーハンが置かれると、[r]
+マル子先輩も、瑞樹と全く同じようにうつむき、[r]
+小さな声で恥ずかしそうに口を開いた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2248|
 [fc]
 [vo_mar s="maru1544"]
-[ns]Margarita[nse]
-"...If possible, I would be grateful to receive one without[r]
-octopus..."[pcms]
+[ns]マルガリータ[nse]
+「……その……できればワタシにも、[r]
+　タコ抜きをもらえると有難いのだが……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2249|
 [fc]
 [vo_yuh s="yuho1583"]
-[ns]Yuuho[nse]
-"Maruko-senpai... I won't make any more for picky eaters!"[pcms]
+[ns]悠帆[nse]
+「マル子先輩……。[r]
+　好き嫌いする子には、もう作ってあげませんよ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f22"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2250|
 [fc]
 [vo_mar s="maru1545"]
-[ns]Margarita[nse]
-"...I'm sorry. I'll have some..."[pcms]
+[ns]マルガリータ[nse]
+「……ゴメンなさい。頂きます……」[pcms]
 
 *2251|
 [fc]
-Maruko-senpai is being pushed around by Yuuho...[pcms]
+あのマル子先輩が、悠帆に押されている……。[pcms]
 
 *2252|
 [fc]
-I feel something strange about their conversation and can[r]
-only watch silently.[pcms]
+ボクは、二人の会話に少し妙な感じを覚え、ただ見つめる事しか[r]
+できないでいた。[pcms]
 
 *2253|
 [fc]
-Apart from Yuuho and Maruko-senpai, everyone else has the[r]
-same look as me, watching the two of them.[pcms]
+悠帆とマル子先輩以外、ボクと同じ様な顔をして、[r]
+二人の様子を見守っていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2254|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2255|
 [fc]
-[ns]Shigeyoshi[nse]
-"..."[pcms]
+[ns]重吉[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2256|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「……」[pcms]
 
 *2257|
 [fc]
-Just when an odd atmosphere and a heavy silence began to[r]
-spread around us, Ren offered a lifeline.[pcms]
+ボク達の周りに、奇妙な空気と少し重い沈黙が広がり出した時、[r]
+漣が助け船を渡してくれた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_m2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2258|
 [fc]
 [vo_ren s="ren1382"]
-[ns]Ren[nse]
-"Um... The food's going to get cold... Let's eat? Uh...[r]
-Who's going to say 'Let's eat'?"[pcms]
+[ns]漣[nse]
+「あ、あの……ご飯、冷めちゃうから……食べようよ？[r]
+　ええと……頂きます、って誰が言うの？」[pcms]
 
 *2259|
 [fc]
-[ns]Wataru[nse]
-"Ah, yeah, that's right. In this case, it should be..."[pcms]
+[ns]航[nse]
+「あ、ああ、そうだな。ここは、やっぱり……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 ;//---------------------------------------------------------------
-;//●時限選択肢Ａ１
-;//１１:マル子先輩お願いします→ラベル A005へジャンプ
-;//１２:じゃ、僕が・・・→ラベル　A006 へジャンプ
-;//１３：時間切れ→ラベル A007 へジャンプ
+;//●時限選択肢Ａ－１
+;//１－１:マル子先輩お願いします→ラベル A005へジャンプ
+;//１－２:じゃ、僕が・・・→ラベル　A006 へジャンプ
+;//１－３：時間切れ→ラベル A007 へジャンプ
 
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="50440.ks" target=*50440_01]マル子先輩お願いします[endlink]
 ;	[link storage="50440.ks" target=*50440_02]じゃ、僕が……[endlink]
 ;	;[link storage="50440.ks" target=*50440_03]時間切れ[endlink]
-; (link storage="50440.ks"[r]
-target=*50440_03)Someone...(endlink)[pcms]
+;	[link storage="50440.ks" target=*50440_03]誰か……[endlink][s]
 
 *SEL46|マル子先輩お願いします／じゃ、僕が……／誰か……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Senior Maruko, please'"]
-[eval exp="f.seltext04 = 'Well then, I\'ll'"]
-[eval exp="f.seltext06 = 'Someone'"]
+[eval exp="f.seltext02 = 'マル子先輩お願いします'"]
+[eval exp="f.seltext04 = 'じゃ、僕が……'"]
+[eval exp="f.seltext06 = '誰か……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -392,66 +393,66 @@ target=*50440_03)Someone...(endlink)[pcms]
 
 *2260|
 [fc]
-[ns]Wataru[nse]
-"Maruko-senpai, please do us the honor!"[pcms]
+[ns]航[nse]
+「マル子先輩、お願いします！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2261|
 [fc]
 [vo_mar s="maru1546"]
-[ns]Margarita[nse]
-"Eh...!? Me, really?"[pcms]
+[ns]マルガリータ[nse]
+「え……！？　わ、ワタシが？」[pcms]
 
 *2262|
 [fc]
-[ns]Wataru[nse]
-"You've been leading everyone up until today, senpai. It[r]
-seems more fitting than if someone like me were to say it."[pcms]
+[ns]航[nse]
+「今日までみんなのお尻を叩いてきたのは先輩ですからね。[r]
+　ボクとかが言うより、まとまりそうじゃないですか」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2263|
 [fc]
 [vo_mar s="maru1547"]
-[ns]Margarita[nse]
-"Ah, I see... Okay. Then, let's eat."[pcms]
+[ns]マルガリータ[nse]
+「あ、ああ……そうか……。わかった。[r]
+　じゃあ、い、いただきます」[pcms]
 
 *2264|
 [fc]
 [vo_mob s="itidou0001"]
-[ns]Everyone[nse]
-"Let's eat!"[pcms]
+[ns]一同[nse]
+「いただきまーす」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2265|
 [fc]
-[ns]Jin[nse]
-"Let's eat."[pcms]
+[ns]壬[nse]
+「頂きます」[pcms]
 
 *2266|
 [fc]
-[ns]Wataru[nse]
-"Eh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 *2267|
 [fc]
-All eyes suddenly focused on Jin. Everyone had the same look[r]
-of surprise, as if to say "Jin is the one saying 'Let's[r]
-eat'?"[pcms]
+壬に、一斉に視線が集中する。[r]
+みんな一様に『壬が頂きますなんて言うんだ』という[r]
+顔をしていた。[pcms]
 
 *2268|
 [fc]
-Even Shigeyoshi, who is always with him, looked at Jin with[r]
-eyes full of astonishment.[pcms]
+いつも一緒にいるハズの重吉すら、驚きの目で壬を見ていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2269|
 [fc]
-[ns]Jin[nse]
-"...What? What are you looking at?"[pcms]
+[ns]壬[nse]
+「……何だよ。何見てんだよ」[pcms]
 
 ;//→ブロック 50450へ ジャンプ
 [jump storage="50450.ks" target=*50450_TOP]
@@ -464,49 +465,49 @@ eyes full of astonishment.[pcms]
 
 *2270|
 [fc]
-[ns]Wataru[nse]
-"Th-then, I'll..."[pcms]
+[ns]航[nse]
+「じ、じゃあ、ボクが」[pcms]
 
 *2271|
 [fc]
-[ns]Wataru[nse]
-"Ah-... *cough*! Well then, let's eat!"[pcms]
+[ns]航[nse]
+「あー……ゲホン！[r]
+　では、頂きます！」[pcms]
 
 *2272|
 [fc]
 [vo_mob s="itidou0002"]
-[ns]Everyone[nse]
-"L-let's eat..."[pcms]
+[ns]一同[nse]
+「い、いただき、ます……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2273|
 [fc]
-[ns]Jin[nse]
-"Let's eat."[pcms]
+[ns]壬[nse]
+「頂きます」[pcms]
 
 *2274|
 [fc]
-[ns]Wataru[nse]
-"Eh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 *2275|
 [fc]
-All eyes suddenly focused on Jin. Everyone had the same look[r]
-of surprise, as if to say "Jin is the one saying 'Let's[r]
-eat'?"[pcms]
+壬に、一斉に視線が集中する。[r]
+みんな一様に『壬が頂きますなんて言うんだ』という[r]
+顔をしていた。[pcms]
 
 *2276|
 [fc]
-Even Shigeyoshi, who is always with him, looked at Jin with[r]
-eyes full of astonishment.[pcms]
+いつも一緒にいるハズの重吉すら、驚きの目で壬を見ていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2277|
 [fc]
-[ns]Jin[nse]
-"...What? What are you looking at?"[pcms]
+[ns]壬[nse]
+「……何だよ。何見てんだよ」[pcms]
 
 ;//→ブロック 50450へ ジャンプ
 [jump storage="50450.ks" target=*50450_TOP]
@@ -519,61 +520,61 @@ eyes full of astonishment.[pcms]
 
 *2278|
 [fc]
-Ugh... Who should I turn to? I feel pathetic for not being[r]
-quick-witted in times like this...[pcms]
+うぅ……。[r]
+誰に振ればいいんだ？[r]
+こんな時に機転が利かない自分が情けない……。[pcms]
 
 *2279|
 [fc]
-The silence fell once again, and everyone's expressions[r]
-began to cloud over.[pcms]
+再び訪れた沈黙に、みんなの表情が曇り始める。[pcms]
 
 *2280|
 [fc]
-...[pcms]
+…………。[r]
+……。[pcms]
 
 *2281|
 [fc]
-Ah, what should I do... I guess I have to say it... Hm?[pcms]
+ああ、どうしよう……ボクが言うしか……。[r]
+ん？[pcms]
 
 *2282|
 [fc]
-The one who broke the awkward silence was an unexpected[r]
-voice.[pcms]
+そんな空気を引き裂いたのは、意外な声だった。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2283|
 [fc]
-[ns]Jin[nse]
-"Let's eat."[pcms]
+[ns]壬[nse]
+「頂きます」[pcms]
 
 *2284|
 [fc]
-Jin put his hands together in front of his chest as if[r]
-praying and clearly took the lead with a "Let's eat."[pcms]
+壬はお祈りするかの様に胸の前で合掌し、[r]
+はっきり聞こえる声で『頂きます』の音頭を取った。[pcms]
 
 *2285|
 [fc]
-[ns]Wataru[nse]
-"Eh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 *2286|
 [fc]
-All eyes suddenly focused on Jin. Everyone had the same look[r]
-of surprise, as if to say "Jin is the one saying 'Let's[r]
-eat'?"[pcms]
+壬に、一斉に視線が集中する。[r]
+みんな一様に『壬が頂きますなんて言うんだ』という[r]
+顔をしていた。[pcms]
 
 *2287|
 [fc]
-Even Shigeyoshi, who is always with him, looked at Jin with[r]
-eyes full of astonishment.[pcms]
+いつも一緒にいるハズの重吉すら、驚きの目で壬を見ていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_b4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2288|
 [fc]
-[ns]Jin[nse]
-"...What? What are you looking at?"[pcms]
+[ns]壬[nse]
+「……何だよ。何見てんだよ」[pcms]
 
 ;//→ブロック 50450へ ジャンプ
 [jump storage="50450.ks" target=*50450_TOP]

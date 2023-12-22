@@ -17,8 +17,7 @@
 ;[winset][scene_exp_init]
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]緒織とセックスした[endlink]
-(link target=*scene_selend)I haven't had sex with[r]
-Inori(endlink)[pcms]
+;	[link target=*scene_selend]緒織とセックスしていない[endlink][s]
 
 	[call storage="_scene_sel.ks" target=*scene_sel_iori]
 
@@ -43,49 +42,47 @@ Inori(endlink)[pcms]
 
 *3308|
 [fc]
-Leaving Otowa behind, I shook my foggy head, somehow[r]
-maintaining consciousness as I walked towards Shibuya[r]
-Station along the usual route to school.[pcms]
+音羽を後にしたボクは、霞がかかったような頭を振り、[r]
+なんとか意識を保ちながらも、いつも通る通学路を[r]
+渋谷駅側へと向かい、歩いていた。[pcms]
 
 *3309|
 [fc]
-As my vision began to blur, I rubbed my eyes and continued[r]
-through the shopping district, realizing I was near Yuuho's[r]
-house.[pcms]
+次第に視点が定まらなくなってきた目を擦りながら、[r]
+商店街を進むと、悠帆の家の近くまで来ている事に気が付いた。[pcms]
 
 *3310|
 [fc]
-But everything was completely different than usual. I had[r]
-seen many strange things today, but the scene in front of[r]
-Yuuho's house was even more bizarre.[pcms]
+だが、いつもとは完全に様子が違っていた。[r]
+今日はおかしな事ばかり見ていたけど、悠帆の家の前は、[r]
+それまで以上におかしな状態になっていた。[pcms]
 
 *3311|
 [fc]
-Even through my hazy eyes, it was clear that there was a[r]
-huge crowd of people around Yuuho's house.[pcms]
+霞む目でもはっきりと分かるくらい、悠帆の家の周りには[r]
+黒山の人だかりができていた。[pcms]
 
 *3312|
 [fc]
-[ns]Wataru[nse]
-"Could it be...!!"[pcms]
+[ns]航[nse]
+「ま、まさか……！！」[pcms]
 
 *3313|
 [fc]
-The incident I had just witnessed in Otowa flashed through[r]
-my mind. Could it be Yuuho this time?[pcms]
+ついさっきみた音羽での出来事が、頭をよぎる。[r]
+今度は、悠帆が？[pcms]
 
 *3314|
 [fc]
-Dragging my staggering feet, I hurried towards Yuuho's[r]
-house.[pcms]
+ふらつく足を引きずる様にして、ボクは悠帆の家へと急いだ。[pcms]
 
 *3315|
 [fc]
-And my worst fears were confirmed.[pcms]
+そして、悪い予感は的中した。[pcms]
 
 *3316|
 [fc]
-As I pushed through the crowd, there was--[pcms]
+人混みをかき分けながら進むと、そこには――[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -97,113 +94,115 @@ As I pushed through the crowd, there was--[pcms]
 
 *3317|
 [fc]
-[ns]Infected Man A[nse]
-"Yeah! Keep going!!"[pcms]
+[ns]感染者・男Ａ[nse]
+「いいぞー！　もっとヤレよぉ～！！」[pcms]
 
 *3318|
 [fc]
-[ns]Infected Man B[nse]
-"Damn! To think Yuuho-chan would do something like this in[r]
-the middle of the street..."[pcms]
+[ns]感染者・男Ｂ[nse]
+「すげぇな！　あの悠帆ちゃんがこんな街ん中でなんてな……」[pcms]
 
 *3319|
 [fc]
-[ns]Infected Man C[nse]
-"This is so freaking exciting..."[pcms]
+[ns]感染者・男Ｃ[nse]
+「すっげー興奮するぜ……」[pcms]
 
 *3320|
 [fc]
-[ns]Infected Man D[nse]
-"Alright, it's my turn to cum!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「じゃあ、そろそろ俺がイクぜ！」[pcms]
 
 ;//〆：HEV019b
 [evcg storage="HEV017b"][trans_c cross time=300]
 
 *3321|
 [fc]
-The crowd was shouting things like "Yuuho-chan is the best!"[r]
-and "I'm next!"[pcms]
+人の群れは、口々に『悠帆ちゃん最高！』だとか、[r]
+『次は俺だ！』などと叫んでいた。[pcms]
 
 *3322|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!?"[pcms]
+[ns]航[nse]
+「悠帆！？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3323|
 [fc]
 [vo_yuh s="yuho1051"]
-[ns]Yuuho[nse]
-"Nnn...chup...slurp...nnn...nhh...munch...nnnn...slurp"[pcms]
+[ns]悠帆[nse]
+「んっんぢゅっ……ちゅぱっ……ぢゅっ……んっっ。[r]
+　んふっ……むちゅっ……んっんっんっ……ぢゅっっ」[pcms]
 ;//yuho1051.wav
 
 *3324|
 [fc]
-[ns]Infected Man D[nse]
-"You look so happy, Yuuho-chan..."[pcms]
+[ns]感染者・男Ｄ[nse]
+「嬉しそうだなあ、悠帆ちゃん……」[pcms]
 
 *3325|
 [fc]
-[ns]Infected Man E[nse]
-"Ah... I wanna thrust into her soon..."[pcms]
+[ns]感染者・男Ｅ[nse]
+「ああ……俺も早くツッこみてえよ……」[pcms]
 
 *3326|
 [fc]
-Yuuho was surrounded and violated by a hundred men. Her eyes[r]
-were already dyed bright red, enjoying the act.[pcms]
+悠帆は、１００人からの男達に囲まれ、犯されていた。[r]
+目は既に真っ赤に染まり、行為を楽しんでいる。[pcms]
 
 *3327|
 [fc]
-Which means, Yuuho is already...[pcms]
+と、言う事は、悠帆はもう……。[pcms]
 
 *3328|
 [fc]
-[ns]Wataru[nse]
-"Ah... Yuuho..."[pcms]
+[ns]航[nse]
+「あぁ……悠帆……」[pcms]
 
 *3329|
 [fc]
-[ns]Yuuho's father[nse]
-"How about it! My daughter is the best, isn't she!? She's[r]
-too good for the likes of you... but today is special!"[pcms]
+[ns]悠帆の父親[nse]
+「どうよ！　俺の娘は最高だろ！？[r]
+　お前らなんかにゃもったいねぇが……今日だけ特別だ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3330|
 [fc]
 [vo_yuh s="yuho_B0001"]
-[ns]Yuuho[nse]
-"...nh, nhahaha... delicious...nhahaha"[pcms]
+[ns]悠帆[nse]
+「……ん、んふふふぅぅぅ……、[r]
+　んふっ、おいし～ぃぃ……んふふふっ」[pcms]
 ;//yuho_B0001.wav
 
 *3331|
 [fc]
-Even her uncle... It's hopeless...[pcms]
+おじさんまで……。[r]
+もう、駄目だ……。[pcms]
 
 *3332|
 [fc]
-The entire town has become like this. Everyone has lost[r]
-their self-control.[pcms]
+この街全体が、こんな風になってしまっている。[r]
+誰も彼もが、もう自制心を失っている。[pcms]
 
 *3333|
 [fc]
-Even Yuuho...[pcms]
+悠帆すら……。[pcms]
 
 *3334|
 [fc]
-[ns]Infected Man D[nse]
-"Ugh!! I can't hold it anymore!! I'm gonna cum like this!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「うぅっ！！　俺もう限界だぁっ！！　このまま出すぞぉっ！」[pcms]
 
 *3335|
 [fc]
-[ns]Infected Man N[nse]
-"Me too!!"[pcms]
+[ns]感染者・男Ｎ[nse]
+「俺もっ！！」[pcms]
 
 *3336|
 [fc]
-[ns]Infected Man Q[nse]
-"Ugh!!"[pcms]
+[ns]感染者・男Ｑ[nse]
+「うあっ！！」[pcms]
 
 ;//ホワイトフラッシュ
 ;//HEV019c
@@ -215,71 +214,71 @@ Even Yuuho...[pcms]
 *3337|
 [fc]
 [vo_yuh s="yuho_KB0032"]
-[ns]Yuuho[nse]
-"I'm cumminggggg!! It's splashing on me! Even on my[r]
-face...!"[pcms]
+[ns]悠帆[nse]
+「イグぅぅぅぅぅぅぅぅぅぅぅっ！！[r]
+　せーしっ、かかってるっ！　顔にまでぇ……っ！」[pcms]
 ;//yuho_KB0032.wav
 
 *3338|
 [fc]
-One after another, the men ejaculated, and Yuuho joyfully[r]
-received it all over her body.[pcms]
+次々と射精していく男達と、[r]
+それを嬉しそうに全身で受け止める悠帆。[pcms]
 
 *3339|
 [fc]
-The figure before me was no longer Yuuho. What stood there[r]
-was a beast completely drowned in lust.[pcms]
+その姿はもう悠帆ではなくなっていた。[r]
+そこにいるのはもう、性欲に溺れきったただの獣だ。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3340|
 [fc]
 [vo_yuh s="yuho_MK0013"]
-[ns]Yuuho[nse]
-"Nnaaahhnn, is it coming out!? Inside...ahhhaaann! It's[r]
-hot...the semen, it's so thick...!?"[pcms]
+[ns]悠帆[nse]
+「んあああぅぅん、で、出てるぅぅっ！？[r]
+　中に……っ、はひあぁぁぁん！　あっつい……せーしっ、[r]
+　ドロドロの……ちょうだぁぃぃっ……！？」[pcms]
 ;//yuho_MK0013.wav
 
 [evcg storage="HEV017d"][trans_c cross time=300]
 
 *3341|
 [fc]
-Yuuho, being violated front and back in turns and still[r]
-rejoicing, must have been completely overtaken by UNKNOWN-[r]
-LV4. The people surrounding her were no different.[pcms]
+前も後ろも、代わる代わる犯され、それでもなお喜ぶ悠帆は、[r]
+完全にＵＮＫＮＯＷＮ－ＬＶ４に冒されてしまったんだろう。[r]
+周りを取り囲む人達も、同様に。[pcms]
 
 *3342|
 [fc]
-The shock was so great that the haze before my eyes spread[r]
-even further.[pcms]
+あまりのショックに、ボクの目の前の霞がどんどん広がっていく。[pcms]
 
 *3343|
 [fc]
-[ns]Infected Man F[nse]
-"Whoa... this tightness is amazing! Girls who do sports[r]
-really are different!"[pcms]
+[ns]感染者・男Ｆ[nse]
+「うぉお……締まり最高だ！　やっぱりスポーツしてる子は[r]
+　違うねぇ！」[pcms]
 
 *3344|
 [fc]
-[ns]Infected Man G[nse]
-"Move it! It's my turn next!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「どけよ！　次は俺の番だ！」[pcms]
 
 ;//HEV019d
 [evcg storage="HEV017b"][trans_c cross time=300]
 
 *3345|
 [fc]
-[ns]Infected Man H[nse]
-"I'll take her ass..."[pcms]
+[ns]感染者・男Ｈ[nse]
+「俺はケツで……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3346|
 [fc]
 [vo_yuh s="yuho_MK0010"]
-[ns]Yuuho[nse]
-"Hiiin...nnnn! It feels so good!!! My butt and my breasts[r]
-too... everything feels so good!"[pcms]
+[ns]悠帆[nse]
+「ひぃん……んんっ！　き、もち……いいいぃぃぃぃぃっ！！[r]
+　お尻もおっぱいもぉぉ……、ぜんぶ……い、いぃぃぃ！」[pcms]
 ;//yuho_MK0010.wav
 
 [se buf=0 storage="se_sex01"]
@@ -287,20 +286,20 @@ too... everything feels so good!"[pcms]
 
 *3347|
 [fc]
-Again and again, milky white fluid rained down on her entire[r]
-body, and each time Yuuho let out cries of ecstasy.[pcms]
+何度も何度も、全身に白濁液が降り注がれ、そのたびに[r]
+悠帆は歓喜の声を上げていた。[pcms]
 
 [evcg storage="HEV017b"][trans_c cross time=300]
 
 *3348|
 [fc]
-[ns]Infected Man R[nse]
-"It's my turn now!!"[pcms]
+[ns]感染者・男Ｒ[nse]
+「今度は俺だぁっ！！」[pcms]
 
 *3349|
 [fc]
-[ns]Infected Man Q[nse]
-"This is so exciting... I can't stop scratching!"[pcms]
+[ns]感染者・男Ｑ[nse]
+「こ、興奮するっ……マス掻くのやめられねぇ！」[pcms]
 ;//HEV019b
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -308,15 +307,16 @@ body, and each time Yuuho let out cries of ecstasy.[pcms]
 *3350|
 [fc]
 [vo_yuh s="yuho_MK0014"]
-[ns]Yuuho[nse]
-"Nhiiaaaahhh... it's so hot! My skin feels like it's[r]
-burning! Nhfahhh! Ahh, ahfuhh, ahihhh!"[pcms]
+[ns]悠帆[nse]
+「んひああぁぁぁぁ……っ、あっつぅぅぅい……っ！[r]
+　肌がぁ……っ、ヤケドしそうぅぅっ！[r]
+　んふあぁぁ！　んあっ、あふっ、あひぃぃっ！」[pcms]
 ;//yuho_MK0014.wav
 
 *3351|
 [fc]
-[ns]Infected Man I[nse]
-"Yuuho-chan! Have my baby!!"[pcms]
+[ns]感染者・男Ｉ[nse]
+「悠帆ちゃん！　俺の子供、妊娠してくれっ！！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV017c"]
@@ -326,79 +326,81 @@ burning! Nhfahhh! Ahh, ahfuhh, ahihhh!"[pcms]
 *3352|
 [fc]
 [vo_yuh s="yuho0674"]
-[ns]Yuuho[nse]
-"Aaahn, amazing. To be filled up with so much cum. I'm going[r]
-to get pregnant with everyone's semen~"[pcms]
+[ns]悠帆[nse]
+「ああ～んっ、すごい～。こんなにいっぱい中だしされて～。[r]
+　せ～しがいっぱい、みんなのせ～しで妊娠するぅ～」[pcms]
 ;//yuho0674.wav
 
 [evcg storage="HEV017d"][trans_c cross time=300]
 
 *3353|
 [fc]
-Hearing those words from Yuuho, something inside me snapped[r]
-with a sound.[pcms]
+悠帆のその台詞を聞いたボクは、心の中の何かが[r]
+音を立てて切れた。[pcms]
 
 *3354|
 [fc]
-[ns]Wataru[nse]
-"Ah...ahh... Yuuho... move aside, she's my Yuuho..."[pcms]
+[ns]航[nse]
+「あ……ああ……悠帆……ど、どけ、ボクの悠帆……」[pcms]
 
 *3355|
 [fc]
-As my vision began to flicker, I felt drawn to Yuuho and[r]
-pushed through the crowd towards her.[pcms]
+目の前がチカチカとし始めた頃、ボクは悠帆に[r]
+引き寄せられるようにして、人だかりをかき分け進む。[pcms]
 
 *3356|
 [fc]
-I could no longer hold back. I had assimilated with the[r]
-beasts present here.[pcms]
+もう、ボクは我慢ができなくなっていた。[r]
+この場にいる獣たちと同化してしまっていた。[pcms]
 
 *3357|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆……悠帆……」[pcms]
 
 *3358|
 [fc]
-Unable to think of anything else, I just kept muttering[r]
-Yuuho's name like a mantra.[pcms]
+他のことなんて全然考えられなくなったボクは、[r]
+悠帆の名前だけをうわごとの様に繰り返すだけ。[pcms]
 
 *3359|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... my Yuuho... move aside..."[pcms]
+[ns]航[nse]
+「悠帆……ボクの悠帆……おまえ、どけよ……」[pcms]
 
 *3360|
 [fc]
-[ns]Infected Person - Male J[nse]
-"What are you doing?! Wait your turn!"[pcms]
+[ns]感染者・男Ｊ[nse]
+「な、なにすんだよ！　順番守れよっ！」[pcms]
 
 *3361|
 [fc]
-[ns]Wataru[nse]
-"Shut up... move it!"[pcms]
+[ns]航[nse]
+「うるさいな……どけっ！」[pcms]
 
 *3362|
 [fc]
-[ns]Infected Man K[nse]
-"You bastard! I'm still holding back here!"[pcms]
+[ns]感染者・男Ｋ[nse]
+「この野郎！　俺だってまだ我慢してんだからな！」[pcms]
 
 ;//〆：レッドフラッシュ
 [赤フラ]
 
 *3363|
 [fc]
-[ns]Wataru[nse]
-"Guah..."[pcms]
+[ns]航[nse]
+「ぐあ……」[pcms]
 
 *3364|
 [fc]
-Why...? All I want is to have sex with Yuuho...[pcms]
+何でだよ……。[r]
+ボクは、ただ悠帆とセックスしたいだけなのに……。[pcms]
 
 *3365|
 [fc]
-Finally reaching Yuuho, I was beaten up by the men[r]
-surrounding her, and my consciousness began to fade away.[pcms]
+やっとの事で悠帆の近くまでたどり着いたボクは、[r]
+周りを取り囲んでいた男達に散々に殴られ、どんどん意識が[r]
+遠くなっていった。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -407,8 +409,8 @@ surrounding her, and my consciousness began to fade away.[pcms]
 
 *3366|
 [fc]
-[ns]Infected Man L[nse]
-"I said I'm next! Don't you get it?!"[pcms]
+[ns]感染者・男Ｌ[nse]
+「次は俺だっつってんだろ！？　わかんねーやつだな！」[pcms]
 
 ;//〆HEV019b
 [evcg storage="HEV017a"][trans_c cross time=300]
@@ -418,14 +420,14 @@ surrounding her, and my consciousness began to fade away.[pcms]
 *3367|
 [fc]
 [vo_yuh s="yuho0147"]
-[ns]Yuuho[nse]
-"Ahah... ahahaha!"[pcms]
+[ns]悠帆[nse]
+「あはっ……あはははっ」[pcms]
 ;//yuho0147.wav
 
 *3368|
 [fc]
-[ns]Infected - Male M[nse]
-"Ohhh, she looks so happy, doesn't she?!"[pcms]
+[ns]感染者・男Ｍ[nse]
+「おおおー、嬉しそうなツラしてんなあ！？」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -438,59 +440,57 @@ surrounding her, and my consciousness began to fade away.[pcms]
 *3369|
 [fc]
 [vo_yuh s="yuho0761"]
-[ns]Yuuho[nse]
-"Look closely, Wataru~. At my pussy~"[pcms]
+[ns]悠帆[nse]
+「よお～く、みてぇ～わたる～。わたしのココを～」[pcms]
 
 ;//yuho0761.wav
 
 *3370|
 [fc]
-As I came to from the noise around me, Yuuho was stirring[r]
-inside her pussy with her fingers, blowing out the cum that[r]
-had accumulated inside.[pcms]
+周りの騒がしさに目を覚ますと、悠帆がオマンコの中を[r]
+指で掻き回しながら、中に貯まった精液を吹き出させていた。[pcms]
 
 *3371|
 [fc]
-Yuuho looked only at me, approaching with a smile as if to[r]
-say, "I'm all clean now."[pcms]
+悠帆はボクだけを見て、まるで『もう綺麗になったから』と[r]
+言わんばかりの笑顔を見せて、近寄ってきていた。[pcms]
 
 *3372|
 [fc]
-Even though Yuuho was about to have sex with me, my[r]
-consciousness was fading again.[pcms]
+せっかく悠帆がボクとセックスしてくれるというのに、[r]
+ボクの意識は再び遠のきそうになっていた。[pcms]
 
 ;//〆HEV020a
 [evcg storage="HEV018a"][trans_c cross time=300]
 
 *3373|
 [fc]
-When I finally opened my eyes, Yuuho was sticking out her[r]
-butt and moaning.[pcms]
+やっとの事で目を開くと、目の前では悠帆がお尻を突き出し、[r]
+嬌声を上げていた。[pcms]
 
 *3374|
 [fc]
-The butt I always watched during bicycle races was now so[r]
-close...[pcms]
+いつも自転車競争の時見ていたお尻が、こんなに近くで……。[pcms]
 
 *3375|
 [fc]
-[ns]Infected Man P[nse]
-"Damn it! I'm so jealous of that guy! He skipped the line[r]
-and all..."[pcms]
+[ns]感染者・男Ｐ[nse]
+「くっそー！　うらやましいぜアイツ！[r]
+　順番飛ばした上によ……」[pcms]
 
 *3376|
 [fc]
-[ns]Infected Person - Male O[nse]
-"Exactly... but man, Yuuho-chan has a nice ass..."[pcms]
+[ns]感染者・男Ｏ[nse]
+「全くだぜ……でもよ……いいケツしてるよな、悠帆ちゃん……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3377|
 [fc]
 [vo_yuh s="yuho0773"]
-[ns]Yuuho[nse]
-"Is the service not enough? Oh right~. Wataru loves my[r]
-butt~"[pcms]
+[ns]悠帆[nse]
+「サ～ビスがたりないのかなぁ～。そうだぁ～。[r]
+　わたるはわたしのおしりがだいすきだもんね～」[pcms]
 ;//yuho0773.wav
 
 ;//〆HEV020b
@@ -498,8 +498,8 @@ butt~"[pcms]
 
 *3378|
 [fc]
-In my intermittent consciousness, I remember Yuuho guiding[r]
-my dick with her hand, urging me to insert it from behind.[pcms]
+途切れ途切れの意識の中、悠帆はボクのチンコに手をあてがい、[r]
+後ろから挿入するようにとせかしていた事だけは、覚えていた。[pcms]
 
 ;//---------------------------------------------------------------
 ;//〆・フラグ判定：緒織とsex
@@ -518,15 +518,15 @@ my dick with her hand, urging me to insert it from behind.[pcms]
 *3379|
 [fc]
 [vo_yuh s="yuho0763"]
-[ns]Yuuho[nse]
-"Wataru's this~. It's gotten so hard~ twitching and[r]
-pulsing~. It feels so good~~!"[pcms]
+[ns]悠帆[nse]
+「わたるのコレ～。こ～んなにかたくなって～びくんびくん[r]
+　みゃくうっててぇ～。とってもいいっ～～！」[pcms]
 ;//yuho0763.wav
 
 *3380|
 [fc]
-[ns]Wataru[nse]
-"Ugh... uwaah!!"[pcms]
+[ns]航[nse]
+「うっ……うぁあっ！！」[pcms]
 
 ;//〆：ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -534,9 +534,9 @@ pulsing~. It feels so good~~!"[pcms]
 
 *3381|
 [fc]
-Although my consciousness was slipping away, the excitement[r]
-of being able to have sex with Yuuho made me ejaculate[r]
-easily.[pcms]
+意識が飛びかけていたボクだけど、[r]
+悠帆とセックスできる、という興奮から、あっさりと[r]
+射精してしまった。[pcms]
 
 ;//HEV020c
 
@@ -545,33 +545,34 @@ easily.[pcms]
 *3382|
 [fc]
 [vo_yuh s="yuho1242"]
-[ns]Yuuho[nse]
-"Hih, open up! Wa, Wataru... Wataru... uuuuuuuuh!!"[pcms]
+[ns]悠帆[nse]
+「ひっ、あくっ！わ、わたっ……わたるっ！[r]
+　わたるっ……ぅぅううううううぅぅっっ！！！」[pcms]
 ;//yuho1242.wav
 
 *3383|
 [fc]
-[ns]Wataru[nse]
-"It's already out... but... one more time..."[pcms]
+[ns]航[nse]
+「もう……出ちゃった……で、でも……もう一回……」[pcms]
 
 ;//HEV020d
 [evcg storage="HEV018d"][trans_c cross time=300]
 
 *3384|
 [fc]
-Perhaps due to the excitement, my dick didn't wilt at all,[r]
-and even after pulling out of Yuuho, it kept throbbing and[r]
-spewing white fluid.[pcms]
+興奮しきっているせいか、ボクのモノは萎える事なく、[r]
+悠帆の中から引き抜いた後でも、大きく跳ね、[r]
+白濁を吹き出させていた。[pcms]
 
 *3385|
 [fc]
-This isn't enough at all. I want to feel more of Yuuho's[r]
-insides.[pcms]
+こんなのじゃ、全然物足りない。[r]
+もっと悠帆の中を感じたい。[pcms]
 
 *3386|
 [fc]
-Thinking that, I grabbed her butt and thrust my thing into[r]
-her with all my might as if to say, this time for sure.[pcms]
+そう思ったボクは、お尻をわしづかみにすると、[r]
+今度こそ、とばかりに勢いよくモノを突き込んだ。[pcms]
 
 ;//〆：ラベル：合流へ
 [jump storage="B_0005.ks" target=*03]
@@ -583,8 +584,8 @@ her with all my might as if to say, this time for sure.[pcms]
 
 *3387|
 [fc]
-Even in this situation, having sex with Yuuho felt so good[r]
-that I thought I could die happy right then and there.[pcms]
+こんな形だけど、悠帆とセックスができて[r]
+このまま死んでもいいとすら思える程、最高な気分だった。[pcms]
 
 ;//〆：ラベル：合流へ
 [jump storage="B_0005.ks" target=*03]
@@ -598,115 +599,119 @@ that I thought I could die happy right then and there.[pcms]
 
 *3388|
 [fc]
-I almost blacked out several times, but I desperately held[r]
-on, enjoying the sensation inside Yuuho.[pcms]
+何度も目の前が真っ暗になりかけたけど、[r]
+ボクは必死にこらえ、ひたすら悠帆の中の感覚を楽しんだ。[pcms]
 
 *3389|
 [fc]
-To those watching, it might have seemed like I was having[r]
-sex in my sleep.[pcms]
+周りから見たら、もしかしたらボクは眠りながら[r]
+セックスしている様に見えたかもしれない。[pcms]
 
 *3390|
 [fc]
-But I couldn't afford to sleep. I was too busy enjoying the[r]
-sensation inside Yuuho, fighting the urge to ejaculate, and[r]
-struggling not to lose consciousness.[pcms]
+けど、ボクは眠ってなんかいられなかった。[r]
+悠帆の中の感覚を楽しむ事と、こみ上げてくる射精感、[r]
+そして意識が飛びそうになることをこらえるので必死だった。[pcms]
 
 *3391|
 [fc]
-However, all my efforts were in vain against the stimulation[r]
-from Yuuho's pussy, and I was reaching my limit.[pcms]
+しかし、そんな努力も虚しく、[r]
+悠帆のオマンコからの刺激に負け、[r]
+ボクはもう限界に達していた。[pcms]
 
 *3392|
 [fc]
 [vo_yuh s="yuho0662"]
-[ns]Yuuho[nse]
-"Wataru~, I want more~. I want to drink lots of cum~. I want[r]
-my pussy to drink lots of cum~"[pcms]
+[ns]悠帆[nse]
+「わたる～、わたし～もっとほしいの～。[r]
+　もっといっぱいせ～し飲みたいの～。[r]
+　オマンコで～せ～し、いっぱい飲みたい～」[pcms]
 ;//yuho0662.wav
 
 *3393|
 [fc]
-[ns]Wataru[nse]
-"I understand... Inside Yuuho, I'll let out so much... it'll[r]
-overflow!!"[pcms]
+[ns]航[nse]
+「わ、わかった……悠帆の中に、いっぱい……あふれるくらい、[r]
+　出してやる！！」[pcms]
 
 *3394|
 [fc]
-I am having sex with Yuuho.[pcms]
+ボクは、悠帆とセックスしている。[pcms]
 
 *3395|
 [fc]
-The sex with Yuuho that I've dreamed of!![pcms]
+夢にまで見た、悠帆とのセックスを！！[pcms]
 
 *3396|
 [fc]
-Surrounded by many people and despite what they said, all I[r]
-could do was seek Yuuho's body; I wasn't embarrassed at all.[pcms]
+沢山の人に取り囲まれ、色んなことを言われながらも、[r]
+ボクは悠帆の身体を求める事で精一杯で、[r]
+恥ずかしいなんてちっとも思わなかった。[pcms]
 
 [evcg storage="HEV018b"][trans_c cross time=300]
 
 *3397|
 [fc]
 [vo_yuh s="yuho_roop005"]
-[ns]Yuuho[nse]
-"Fufu... kuh... haa..."[pcms]
+[ns]悠帆[nse]
+「ふふっ……くっ……はあっ……」[pcms]
 ;//yuuho_roop005.wav
 
 *3398|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!! I love you!! I really love you, Yuuho!! Kuh...[r]
-uwaah! Inside Yuuho's pussy, it's warm and soft... it's the[r]
-best!!"[pcms]
+[ns]航[nse]
+「悠帆っ！！　好きだっ！！　大好きだ悠帆っ！！[r]
+　くっ……うぁぁあっ！　悠帆のオマンコの中、[r]
+　あったかくて、柔らかくて……最高だよ！！」[pcms]
 
 *3399|
 [fc]
 [vo_yuh s="yuho0766"]
-[ns]Yuuho[nse]
-"Aaahn... Wataru said he loves me. I'm so happy~. Then, I'll[r]
-give you proper service!"[pcms]
+[ns]悠帆[nse]
+「ああんっ……わたるがわたしのことすきだっていってくれた。[r]
+　うれしいっ～。じゃあ、しっかりさーびすしてあげるぅ！」[pcms]
 ;//yuho0766.wav
 
 *3400|
 [fc]
-[ns]Wataru[nse]
-"Service?"[pcms]
+[ns]航[nse]
+「さーびす？」[pcms]
 
 *3401|
 [fc]
-Yuuho turned to me with a smile and then suddenly tightened[r]
-around my dick intensely.[pcms]
+悠帆はボクに笑顔を向け、一瞬顔口元を妖しく歪めたかと思うと、[r]
+ボクのモノを強烈に締め上げた。[pcms]
 
 *3402|
 [fc]
 [vo_yuh s="yuho_roop007"]
-[ns]Yuuho[nse]
-"Hah... hahah... nnn... ahah..."[pcms]
+[ns]悠帆[nse]
+「はっ……ははっ……んぅっ……あはっ……」[pcms]
 ;//yuuho_roop007.wav
 
 *3403|
 [fc]
-[ns]Wataru[nse]
-"Ugh... uwaah!? Yuuho!! If you do that, I'm going to...!!"[pcms]
+[ns]航[nse]
+「うっ……うあぁっ！？　悠帆っ！！　そんなにされたら、[r]
+　ぼ、ボク、もう……！！」[pcms]
 
 *3404|
 [fc]
 [vo_yuh s="yuho0767"]
-[ns]Yuuho[nse]
-"Nnn... haa... aaahn~. That's good... Wataru's this~"[pcms]
+[ns]悠帆[nse]
+「んんっ……はぁ……ああん～。いいよぉ……わたるのコレ～」[pcms]
 ;//yuho0767.wav
 
 *3405|
 [fc]
-The sweet sound of Yuuho's voice caused the dam in my heart[r]
-to collapse effortlessly, and I couldn't contain the[r]
-sensation that felt like an eruption of magma.[pcms]
+悠帆の甘い声に、ボクの心のダムはあっけなく崩壊し、[r]
+まるでマグマが噴き上がるような感覚を抑える事ができなかった。[pcms]
 
 *3406|
 [fc]
-[ns]Wataru[nse]
-"Ah... aahh!! Right inside Yuuho's pussy!! Uwaahh!!"[pcms]
+[ns]航[nse]
+「あっ……ああっ！！　このまま悠帆の中にっ！！[r]
+　うぁあぁっ！！」[pcms]
 
 ;//〆：ホワイトフラッシュ
 ;//HEV020c
@@ -716,9 +721,10 @@ sensation that felt like an eruption of magma.[pcms]
 *3407|
 [fc]
 [vo_yuh s="yuho0138"]
-[ns]Yuuho[nse]
-"Hafuuu... Amazing semen, so much semen... Aaahhhn. It's[r]
-overflowing inside my pussy. It's overflowing."[pcms]
+[ns]悠帆[nse]
+「はふぅうう……スゴイせーし、せーしいっぱい……[r]
+　あぁああんっ。わたしのオマンコにいっぱいあふれてる。[r]
+　あふれちゃってるぅう」[pcms]
 
 ;//yuho0138.wav
 
@@ -726,47 +732,48 @@ overflowing inside my pussy. It's overflowing."[pcms]
 
 *3408|
 [fc]
-[ns]Wataru[nse]
-"Aaaaah..."[pcms]
+[ns]航[nse]
+「あぁああぁ……」[pcms]
 
 *3409|
 [fc]
-The desire expelled from me spread vigorously inside Yuuho's[r]
-vagina, overflowing from where we were joined.[pcms]
+ボクのモノから吐きだされた欲望は、[r]
+悠帆の膣内で勢いよく広がり、[r]
+ボクと悠帆の結合部からあふれ出した。[pcms]
 
 *3410|
 [fc]
-The semen from me and others, mixed with Yuuho's love[r]
-juices, made her swollen red pussy glisten wetly.[pcms]
+ボクや他の人が出した精液、それに悠帆の愛液が混ざり、[r]
+真っ赤に腫れ上がったオマンコがヌラヌラと妖しく光る。[pcms]
 
 *3411|
 [fc]
-Seeing the various bodily fluids dripping down, the desire[r]
-within me rose up again.[pcms]
+垂れ落ちる色々な体液を見ていると、ボクの中の欲望が、[r]
+首をもたげた。[pcms]
 
 *3412|
 [fc]
-And strangely, my dick didn't seem to be calming down at[r]
-all.[pcms]
+それに、不思議な事にボクのモノは[r]
+まだまだ治まる事がなさそうだった。[pcms]
 
 *3413|
 [fc]
-As I gazed at Yuuho's semen-covered butt, she seemed to[r]
-notice and begged me with a voice that sounded like[r]
-pleading.[pcms]
+精液にまみれた悠帆のお尻を眺めていると、[r]
+悠帆はそれに気が付いたのか、まるでおねだりするような声で、[r]
+ボクにおねだりする。[pcms]
 
 *3414|
 [fc]
 [vo_yuh s="yuho0776"]
-[ns]Yuuho[nse]
-"Aahh~~. As I thought, Wataru loves butts~. Looking at my[r]
-butt~ it's getting bigger~"[pcms]
+[ns]悠帆[nse]
+「ああっ～～。やっぱり、わたるはおしりずきなんだぁ～。[r]
+　おしりをみて～、あれがおおきくなってる～」[pcms]
 ;//yuho0776.wav
 
 *3415|
 [fc]
-Again, I found myself unable to think of anything else.[r]
-Nothing but having sex with Yuuho.[pcms]
+また、ボクは何も考えられなくなっていた。[r]
+悠帆と、セックスすること以外。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -775,185 +782,188 @@ Nothing but having sex with Yuuho.[pcms]
 *3416|
 [fc]
 [vo_yuh s="yuho0778"]
-[ns]Yuuho[nse]
-"My butt hole is yours too~"[pcms]
+[ns]悠帆[nse]
+「おしりのあなも～わたるのものだからね～」[pcms]
 ;//yuho0778.wav
 
 *3417|
 [fc]
-Spurred on by Yuuho's words, I felt an urge to try[r]
-everything with my whole body.[pcms]
+それに、全身試してみたくなっていたボクは、[r]
+悠帆の言葉に火を付けられたようになってしまう。[pcms]
 
 *3418|
 [fc]
-[ns]Wataru[nse]
-"Then, this time over here...!"[pcms]
+[ns]航[nse]
+「じゃあ、今度はこっち……！」[pcms]
 
 ;//HEV043a
 [evcg storage="HEV034a"][trans_c cross time=300]
 
 *3419|
 [fc]
-I pressed my dick against the twitching little bud in the[r]
-center of Yuuho's butt and thrust deeply into it.[pcms]
+ボクは悠帆のお尻の真ん中でヒクヒクと動く、[r]
+小さな蕾にチンコを押しつけると、[r]
+そのまま深く突き込んだ。[pcms]
 
 *3420|
 [fc]
 [vo_yuh s="yuho0779"]
-[ns]Yuuho[nse]
-"Aahh~~! Wataru~~~!!"[pcms]
+[ns]悠帆[nse]
+「ああっ～～！　わたるぅ～～～！！」[pcms]
 ;//yuho0779.wav
 
 *3421|
 [fc]
-Then, without any sign of pain, Yuuho smoothly swallowed up[r]
-my dick.[pcms]
+すると、悠帆は痛がるそぶりもなくボクのチンコを[r]
+すんなりと飲み込んだ。[pcms]
 
 *3422|
 [fc]
-It's completely different from a pussy... The entrance is[r]
-tight...[pcms]
+オマンコと全然違う……。[r]
+入り口が締まって……。[pcms]
 
 *3423|
 [fc]
-At this rate, I'm going to cum easily again.[pcms]
+このままだと、また簡単にイッてしまいそうだ。[pcms]
 
 *3424|
 [fc]
-But do I really need to worry about that...? Yuuho seems to[r]
-be enjoying it too...[pcms]
+でも、そんな事気にする必要あるのかな……。[r]
+悠帆も悦んでるし……。[pcms]
 
 *3425|
 [fc]
-That's right! There's no need to worry! Besides, it feels[r]
-like I could ejaculate over and over right now...[pcms]
+そうだ！[r]
+悩む必要なんてないんだ！[r]
+それに、今のボクはいくらでも射精できそうだし……。[pcms]
 
 *3426|
 [fc]
-[ns]Wataru[nse]
-"Yuuho's butt is the best! More than just her butt, her[r]
-whole body... Her entire body is amazing!"[pcms]
+[ns]航[nse]
+「悠帆のお尻、最高だ！　お尻というより、全身……。[r]
+　全身、最高だよ！」[pcms]
 
 *3427|
 [fc]
-Without my excitement fading or my dick wilting, I[r]
-desperately sought Yuuho's body, thrusting my hips.[pcms]
+興奮が覚める事もなく、それにモノが萎える事もなく、[r]
+ボクはただがむしゃらに悠帆の身体を求め、腰を打ち付ける。[pcms]
 
 *3428|
 [fc]
-Yuuho responded by slamming her butt back against me.[pcms]
+悠帆も、それに答えるように、お尻をボクにぶつけてくる。[pcms]
 
 *3429|
 [fc]
 [vo_yuh s="yuho0780"]
-[ns]Yuuho[nse]
-"Aahh~! Wataru's~! It feels good! It feels so good~~!!"[pcms]
+[ns]悠帆[nse]
+「ああっ～！わたるのぉ～！いいっ！　いいよぉ～！！」[pcms]
 ;//yuho0780.wav
 
 *3430|
 [fc]
-Every time my dick entered and exited Yuuho's butt, the cute[r]
-bud also popped in and out.[pcms]
+ボクのモノが悠帆のお尻を出入りするたびに、[r]
+可愛らしい蕾も出たり入ったりしている。[pcms]
 
 *3431|
 [fc]
-I was violating Yuuho as she squirted love juices from her[r]
-pussy and writhed as if something had burst inside her.[pcms]
+オマンコから愛液を噴き出させ、何かが弾けたようによがる[r]
+悠帆を犯しているボク。[pcms]
 
 *3432|
 [fc]
-I never imagined doing such things with the girl I've always[r]
-liked. But now, for certain, I am violating Yuuho here.[pcms]
+ずっと好きだった子と、こんな事するなんて思ってもいなかった。[r]
+だけど、今確かに、ボクはここで悠帆を犯している。[pcms]
 
 *3433|
 [fc]
-Fiercely like a beast... As if we were the only two people[r]
-in this world.[pcms]
+獣の様に、激しく……。[r]
+まるでこの世界には、ボク達二人しかいないみたいに。[pcms]
 
 *3434|
 [fc]
 [vo_yuh s="yuho0781"]
-[ns]Yuuho[nse]
-"It's hard~ hot~ big~! Aaahh!! It feels good!! It feels so[r]
-good!!"[pcms]
+[ns]悠帆[nse]
+「かたくてぇ～あつくてぇ～おおきくてぇ～！　ああっ！！[r]
+　いいっ！！　いいよぉ！！」[pcms]
 ;//yuho0781.wav
 
 *3435|
 [fc]
-Yuuho let out a truly happy voice and squeezed my dick very[r]
-tightly.[pcms]
+本当に嬉しそうな声を上げ、悦ぶ悠帆は、ボクのモノを[r]
+強く強く締め付けた。[pcms]
 
 *3436|
 [fc]
-With each thrust, my dick was intensely squeezed, and I[r]
-reached my limit once again.[pcms]
+出し入れする度に強烈に締め付けられたボクのモノは、[r]
+またしても限界を迎えてしまった。[pcms]
 
 *3437|
 [fc]
-[ns]Wataru[nse]
-"Ah... Aahh! Yuuho!! I can't... hold it anymore!"[pcms]
+[ns]航[nse]
+「あ……あぁっ！　悠帆っ！！　ボク、もう……だ、駄目っ！」[pcms]
 
 *3438|
 [fc]
 [vo_yuh s="yuho0782"]
-[ns]Yuuho[nse]
-"What can't you hold? It feels so good~! Wataru's~~!!"[pcms]
+[ns]悠帆[nse]
+「なにがだめなの～？　とってもいいよぉ～！[r]
+　わたるのぉ～～！！」[pcms]
 ;//yuho0782.wav
 
 *3439|
 [fc]
-[ns]Wataru[nse]
-"That's not it... I'm about to cum again! Inside Yuuho's[r]
-butt... I'm going to cum!"[pcms]
+[ns]航[nse]
+「そうじゃないんだ……ま、また出そうなんだよ！[r]
+　悠帆のお尻の中に……出しそうなんだ！」[pcms]
 
 *3440|
 [fc]
-In a voice filled with desperation that even I found[r]
-pitiful, I cried out. That's how much stimulation Yuuho's[r]
-butt was giving me.[pcms]
+自分でも情けなく思えるほど、切羽詰まった声をあげてしまう。[r]
+そのくらい、悠帆のお尻はボクに過剰なまでの刺激を[r]
+与えていた。[pcms]
 
 *3441|
 [fc]
-Yuuho looked at me without disdain and after a light smile,[r]
-she shouted.[pcms]
+そんなボクを、さげすむ事もなく見つめた悠帆は、[r]
+軽く微笑んだあと、叫んだ。[pcms]
 
 *3442|
 [fc]
 [vo_yuh s="yuho0783"]
-[ns]Yuuho[nse]
-"Cum~ with your hot semen!! Spurt it out~~!!"[pcms]
+[ns]悠帆[nse]
+「だしてぇ～、わたるのあっついせ～しぃ！！[r]
+　どぴゅどぴゅってぇ～～！！」[pcms]
 ;//yuho0783.wav
 
 *3443|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Uwaaah!! I'm going to cum!! I'll fill up Yuuho's[r]
-butt with my semen!"[pcms]
+[ns]航[nse]
+「うっ……うぁぁっ！！　だっ、出すぞ！！[r]
+　悠帆のお尻の中、ボクの精液で一杯にしてやる！」[pcms]
 
 *3444|
 [fc]
 [vo_yuh s="yuho_YK0094"]
-[ns]Yuuho[nse]
-"Naaahiiii!? It feels so good...!? Come on, come on, come[r]
-onnnnn!!"[pcms]
+[ns]悠帆[nse]
+「んあああひぃぃぃっ！？　いいいぃぃっ……！？[r]
+　き、来てえぇぇぇ、来て来て、来てぇえぇぇぇっ！！」[pcms]
 ;//yuho_YK0094.wav
 
 *3445|
 [fc]
-As Yuuho screamed, the tightness in her butt became even[r]
-more intense, squeezing my dick dry.[pcms]
+悠帆の叫び声とほぼ同時に、お尻の締まりが一段と強烈になり、[r]
+ボクのモノが搾り上げられた。[pcms]
 
 *3446|
 [fc]
-Different from a pussy and feeling like being compressed by[r]
-a rubber mass, my dick received such intense stimulation[r]
-that it couldn't hold back and released a large amount of[r]
-semen inside Yuuho.[pcms]
+オマンコと全然違い、ゴムの塊に圧迫される様な感覚に、[r]
+ボクのモノが押しつぶされたような刺激を受け、こらえる事なく、[r]
+大量の精液を悠帆の中にブチまけた。[pcms]
 
 *3447|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaaaaaah!!"[pcms]
+[ns]航[nse]
+「うあぁあああああっ！！」[pcms]
 
 ;//HEV043b
 
@@ -964,9 +974,9 @@ semen inside Yuuho.[pcms]
 *3448|
 [fc]
 [vo_yuh s="yuho0784"]
-[ns]Yuuho[nse]
-"Aaahhh~~~! Wataru's hot stuff is spreading inside me~![r]
-Aaahh!!"[pcms]
+[ns]悠帆[nse]
+「ああっ～～～！　わたるのあっついのが、わたしのなかに[r]
+　ひろがってくるぅ～！　ああっ！！」[pcms]
 
 ;//yuho0784.wav
 
@@ -975,31 +985,32 @@ Aaahh!!"[pcms]
 
 *3449|
 [fc]
-[ns]Wataru[nse]
-"Haa... Haa... Amazing... Yuuho... I still feel like[r]
-cumming... It won't subside at all! Yuuho's body is the[r]
-best! Not just for me, let everyone enjoy it!"[pcms]
+[ns]航[nse]
+「はぁっ……はあっ……すごい……悠帆……ボク、[r]
+　まだ出そうだよ……全然治まらないよ！　悠帆の身体って、[r]
+　最高だよ！　ボクだけじゃなくて、みんなを楽しませてよ！」[pcms]
 
 *3450|
 [fc]
 [vo_yuh s="yuho_YK0107"]
-[ns]Yuuho[nse]
-"Fufufu... Then, shall we let them have a go...? Let[r]
-everyone... experience it...?"[pcms]
+[ns]悠帆[nse]
+「ふふふっ……じゃ、して、もらおーよぉぉ……？[r]
+　みんなに……タイケン、させて、あげ、よ……ぉ？」[pcms]
 
 *3451|
 [fc]
-[ns]Wataru[nse]
-"Yeah... Wait? But then..."[pcms]
+[ns]航[nse]
+「うん……あれ？　でもまてよ……」[pcms]
 
 *3452|
 [fc]
-If everyone gets involved... That means they'll interrupt me[r]
-having sex with Yuuho.[pcms]
+みんなで、って事は……。[r]
+ボクが悠帆とセックスするのに邪魔が入ってしまう。[pcms]
 
 *3453|
 [fc]
-No way... Yuuho is... Yuuho is mine!![pcms]
+やっぱり……悠帆は……。[r]
+悠帆は、ボクのものだ！！[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1007,147 +1018,151 @@ No way... Yuuho is... Yuuho is mine!![pcms]
 
 *3454|
 [fc]
-[ns]Wataru[nse]
-"Yuuho! After all, I'm going to have sex with you again! I[r]
-can't hand you over to any other men!!"[pcms]
+[ns]航[nse]
+「悠帆っ！　やっぱり、またボクが悠帆とセックスするんだ！[r]
+　他の男になんか、渡せないよ！！」[pcms]
 
 *3455|
 [fc]
-[ns]Infected Man Q[nse]
-"What are you saying?! We're at our limit too!! We're sick[r]
-of just watching you two!!"[pcms]
+[ns]感染者・男Ｑ[nse]
+「なっ……なんて事いいやがる！[r]
+　もう俺らも限界なんだよ！！　もうお前らだけのショーは[r]
+　見飽きた！！」[pcms]
 
 *3456|
 [fc]
-[ns]Infected Man R[nse]
-"Exactly!! We're going to do it too!!"[pcms]
+[ns]感染者・男Ｒ[nse]
+「全くだ！！　俺らも……ヤルぞ！！」[pcms]
 
 *3457|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaaaaaah!!"[pcms]
+[ns]航[nse]
+「うわっ……うわあああああああ！！」[pcms]
 
 *3458|
 [fc]
-It seems I can't have her all to myself after all. But[r]
-Yuuho's pussy is mine!![pcms]
+やっぱり、独り占めはできないみたいだ。[r]
+でも、悠帆のオマンコだけは、ボクのモノだ！！[pcms]
 
 *3459|
 [fc]
-[ns]Wataru[nse]
-"Yuuho's pussy is off-limits to anyone but me!! Only I am[r]
-allowed to enter!!"[pcms]
+[ns]航[nse]
+「悠帆のオマンコは、ボク以外は駄目だ！！[r]
+　ボクだけが入れていいんだ！！！」[pcms]
 
 *3460|
 [fc]
 [vo_yuh s="yuho0243"]
-[ns]Yuuho[nse]
-"Kyaa...!!"[pcms]
+[ns]悠帆[nse]
+「きゃあ……っ！！」[pcms]
 ;//yuho0243.wav
 
 *3461|
 [fc]
-Drenched in sweat from the summer sun and sex with Yuuho,[r]
-and stained with my own release, I stripped off all my dirty[r]
-clothes and leaped at Yuuho again, seeking "that sensation."[pcms]
+夏の日差しの暑さと、悠帆とのセックスで汗にまみれ、[r]
+それに自分で吐き出したモノで汚れきった服を全て脱ぎ捨て、[r]
+ボクは再び、『あの感覚』を求め、悠帆に飛びかかった。[pcms]
 
 ;//〆HEV017B
 [evcg storage="HEV018b"][trans_c cross time=300]
 
 *3462|
 [fc]
-Pushing aside the crowding men, I was able to monopolize[r]
-Yuuho's pussy once again.[pcms]
+群がる男達を押しのけて、ボクは再び、悠帆のオマンコを[r]
+独占することができた。[pcms]
 
 *3463|
 [fc]
-If I hesitate, other men will take her! Yuuho's pussy is[r]
-mine alone...[pcms]
+躊躇してたら、他の男達に取られてしまう！[r]
+悠帆のオマンコは、ボクだけのもの……。[pcms]
 
 *3464|
 [fc]
-In my haste, I mounted Yuuho and thrust into her pussy in[r]
-one go.[pcms]
+焦りから、ボクは悠帆に覆い被さるようにして、[r]
+オマンコに一気に突き込んだ。[pcms]
 
 *3465|
 [fc]
 [vo_yuh s="yuho0779"]
-[ns]Yuuho[nse]
-"Aaahhh~~! Wataru~~~!!"[pcms]
+[ns]悠帆[nse]
+「ああっ～～！　わたるぅ～～～！！」[pcms]
 ;//yuho0779.wav
 
 *3466|
 [fc]
-Indeed, Yuuho only has eyes for me! That's why she only[r]
-calls out my name!![pcms]
+やっぱり、悠帆はボクの事だけを見てくれているんだ！[r]
+だから、ボクの名前だけ呼ぶんだ！！[pcms]
 
 *3467|
 [fc]
-I feel sorry for the other men crowding around, but Yuuho is[r]
-mine.[pcms]
+群がっている他の男達には申し訳ないけど、[r]
+悠帆は、ボクのモノなんだ。[pcms]
 
 *3468|
 [fc]
-So, I'll stay with Yuuho forever...![pcms]
+だから、このまま悠帆とずっと一緒に……！[pcms]
 
 *3469|
 [fc]
 [vo_yuh s="yuho_YK0077"]
-[ns]Yuuho[nse]
-"...My pussy... Wataru is... inside, ahh! I'm... so...[r]
-incredibly happy...ahh!"[pcms]
+[ns]悠帆[nse]
+「……オマンコにぃ……、わたるが……、入って、るぅ！[r]
+　わ、わたしぃ……っ、すっごく……、嬉しいの……ぉっ！」[pcms]
 ;//yuho_YK0077.wav
 
 *3470|
 [fc]
-I feel absolutely amazing!! As much as I want, with the girl[r]
-I love...[pcms]
+最高に気分がいい！！[r]
+好きなだけ、好きな女の子と……。[pcms]
 
 *3471|
 [fc]
-This place where I can have sex with Yuuho is heaven![pcms]
+悠帆とセックスできる、ここは天国なんだ！[pcms]
 
 *3472|
 [fc]
-Yes! This is the "somewhere else" I've always longed for![pcms]
+そうだ！[r]
+ここが、ボクが望んできた……『ここではない、どこか』なんだ！[pcms]
 
 *3473|
 [fc]
-I'm going to live here forever, just having sex with Yuuho.[pcms]
+ボクは、もう、このままずっと、ここで悠帆とセックスして[r]
+暮らすんだ。[pcms]
 
 *3474|
 [fc]
-Without any other ties... Without caring who else is[r]
-around...[pcms]
+他になんのしがらみもなく……。[r]
+周りに誰かがいても、気にすることなく……。[pcms]
 
 *3475|
 [fc]
-I'll be having sex with Yuuho here forever! That's all I[r]
-need!![pcms]
+ずっと、ずっとボクはココで悠帆とセックスしているんだ！[r]
+それだけでいいんだ！！[pcms]
 
 *3476|
 [fc]
-[ns]Infected Man S[nse]
-"It's about time you switch! We want to put it in Yuuho-[r]
-chan's pussy too! Move it already...!"[pcms]
+[ns]感染者・男Ｓ[nse]
+「そろそろ代わってくれよ！[r]
+　俺らだって、悠帆ちゃんのオマンコに入れたいんだよ！[r]
+　いい加減……そこをどけっ！！」[pcms]
 
 *3477|
 [fc]
-Just as I was rejoicing at having reached the ideal place, I[r]
-was startled by a man's angry shout and turned around--[pcms]
+せっかく、理想の場所にたどり着いたと、喜んでいたボクだけど、[r]
+男の怒鳴り声に驚き、振り返ると――[pcms]
 
 ;//〆：レッドフラッシュ
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
 
 *3478|
 [fc]
-[ns]Wataru[nse]
-"Wha..."[pcms]
+[ns]航[nse]
+「なっ……」[pcms]
 
 *3479|
 [fc]
-Right after feeling something pierce my neck, my vision[r]
-turned completely red.[pcms]
+首筋に何かが刺さる感覚を覚えた直後、[r]
+ボクの目の前は真っ赤になっていった。[pcms]
 
 ;//SE:どさっ
 
@@ -1156,12 +1171,14 @@ turned completely red.[pcms]
 
 *3480|
 [fc]
-There was no pain. But I couldn't breathe in or out anymore.[pcms]
+痛みはなかった。[r]
+だけど、息を吸い込むことも、[r]
+吐きだすこともできなくなっていった。[pcms]
 
 *3481|
 [fc]
-As my entire field of view turned red, I could hear Yuuho's[r]
-moans from afar.[pcms]
+視界全体が真っ赤に染まったころ、遠くから悠帆の嬌声が[r]
+聞こえてきた。[pcms]
 
 ;//HEV019b
 [evcg storage="HEV017d"][trans_c cross time=300]
@@ -1169,25 +1186,26 @@ moans from afar.[pcms]
 *3482|
 [fc]
 [vo_yuh s="yuho_KB0031"]
-[ns]Yuuho[nse]
-"Nnnnnn, nmuuu, nmp...haaunn! Th-that's... no good,[r]
-ahhhhhhhhhhhhh...!"[pcms]
+[ns]悠帆[nse]
+「んんんんっ、んむぅぅ、んぷ……はあぅぅんっ！[r]
+　そ、それ……だめぇぇぇ、[r]
+　いいいぃっいいぃぃぃぃいぃぃぃぃぃぃ……っ！」[pcms]
 ;//yuho_KB0031.wav
 
 *3483|
 [fc]
-I was pushed away by many people, getting further and[r]
-further away from Yuuho.[pcms]
+ボクは沢山の人に突き飛ばされ、[r]
+どんどん悠帆から引き離されていく。[pcms]
 
 *3484|
 [fc]
-As my vision increasingly reddened, I saw other men covering[r]
-her, but Yuuho seemed to be enjoying it.[pcms]
+次第に赤く染まってくる視界には、ボク以外の男が覆い被さり、[r]
+でも、それに喜んでいる悠帆の姿があった。[pcms]
 
 *3485|
 [fc]
-This was supposed to be a world just for me and Yuuho... But[r]
-it wasn't...[pcms]
+ボクと、悠帆だけの世界のはず……。[r]
+だったのに……。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -1204,6 +1222,6 @@ it wasn't...[pcms]
 ;//　　●●●●●仕様の確定を。
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

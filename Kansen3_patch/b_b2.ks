@@ -18,85 +18,86 @@
 
 *4398|
 [fc]
-I don't have time to worry. It's certain that they are up[r]
-there.[pcms]
+悩んでるヒマはない。[r]
+この上にヤツらがいるのは確実なんだ。[pcms]
 
 *4399|
 [fc]
-I feel bad for the girl being attacked, but without[r]
-hesitation, I dashed straight down the corridor.[pcms]
+襲われている女の子には悪いけれど、[r]
+ボクは迷う事なく、まっすぐに廊下を駆け出した。[pcms]
 
 *4400|
 [fc]
-Then--[pcms]
+すると――[pcms]
 
 *4401|
 [fc]
-[ns]Wataru[nse]
-"Whoa!"[pcms]
+[ns]航[nse]
+「うわっ！」[pcms]
 
 *4402|
 [fc]
-Someone appeared unsteadily from the science lab.[pcms]
+科学室からゆらりと誰かが現れる。[pcms]
 
 *4403|
 [fc]
-I collided head-on with them and ended up rolling on the[r]
-floor of the hallway.[pcms]
+そいつに真っ向からぶつかって、[r]
+ボクは廊下に転がってしまった。[pcms]
 
 *4404|
 [fc]
-[ns]Wataru[nse]
-"Ouch ouch ouch..."[pcms]
+[ns]航[nse]
+「イテテテテ……」[pcms]
 
 *4405|
 [fc]
-While worrying about my bruised hip, I looked at the person[r]
-I bumped into.[pcms]
+打ち付けた腰を気にしながら、[r]
+ボクはぶつかった相手を見た。[pcms]
 
 *4406|
 [fc]
-They're wearing a uniform... so they must be a student.[pcms]
+制服を着ている……という事は、学園生か。[pcms]
 
 *4407|
 [fc]
-[ns]Wataru[nse]
-"Are you also running away?"[pcms]
+[ns]航[nse]
+「君も逃げてるのか？」[pcms]
 
 *4408|
 [fc]
-While letting out a relieved sigh, I looked up at him,[r]
-forgetting even to get up.[pcms]
+どこかホッと息を吐きながら、ボクは[r]
+起き上がるのも忘れて彼を見上げた。[pcms]
 
 *4409|
 [fc]
-The eyes looking down at me were--[pcms]
+ボクを見下ろしてきた瞳は――[pcms]
 
 ;//<ChrInit><ImageLoad 7,EVS001.bmp><UpDate Cross,1000>
 
 *4410|
 [fc]
-Red!![pcms]
+赤いっ！！[pcms]
 
 *4411|
 [fc]
-[ns]Wataru[nse]
-"Eek!!"[pcms]
+[ns]航[nse]
+「ひっ！！」[pcms]
 
 *4412|
 [fc]
-I wonder which was faster, me trying to hastily get up or[r]
-him pouncing on me.[pcms]
+ボクが慌てて起き上がろうとするのと、[r]
+彼がボクにのしかかってくるのは、[r]
+いったいどちらのほうが早かったんだろうか。[pcms]
 
 *4413|
 [fc]
-[ns]Student D[nse]
-"Ugaaaaaaaahhhhhhh!!!!!"[pcms]
+[ns]学生Ｄ[nse]
+「うがぁぁぁぁあぁぁぁ！！！！！」[pcms]
 
 *4414|
 [fc]
-[ns]Wataru[nse]
-"Huh!?"[pcms]
+[ns]航[nse]
+「え！？」[pcms]
 
 ;//☆レッドフラッシュ
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
@@ -104,14 +105,14 @@ him pouncing on me.[pcms]
 
 *4415|
 [fc]
-And then, was it him biting at my throat?[pcms]
+そして、彼がボクの喉元に噛み付いてくるのは？[pcms]
 
 *4416|
 [fc]
-The answer will remain unknown forever, as my consciousness[r]
-was swallowed by darkness.[pcms]
+答えは一生わからないまま、[r]
+ボクの意識は暗闇へと飲み込まれた。[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

@@ -21,139 +21,137 @@
 *3411|
 [fc]
 [vo_miz s="mizuki0128"]
-[ns]Mizuki[nse]
-"Understood..."[pcms]
+[ns]瑞樹[nse]
+「わかったわよ……」[pcms]
 
 *3412|
 [fc]
-She took out the glasses case from her bag and handed it to[r]
-Jin.[pcms]
+バッグに入れたメガネケースを取り出し、ジンに渡す。[pcms]
 
 *3413|
 [fc]
-Jin, while glaring at me, opened the case to check its[r]
-contents, then twisted it into his pants pocket.[pcms]
+ジンはあたしを睨みながら、ケースを開いて中を確認すると、[r]
+ズボンのポケットにねじ込んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3414|
 [fc]
-[ns]Jin[nse]
-"Take everything out."[pcms]
+[ns]壬[nse]
+「全部出せよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3415|
 [fc]
 [vo_miz s="mizuki0129"]
-[ns]Mizuki[nse]
-"There's nothing left..."[pcms]
+[ns]瑞樹[nse]
+「もう、ないよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3416|
 [fc]
-[ns]Jin[nse]
-"Come here. Don't move."[pcms]
+[ns]壬[nse]
+「こっちに来い。そのまま動くな」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3417|
 [fc]
 [vo_miz s="mizuki0130"]
-[ns]Mizuki[nse]
-"Eh...?"[pcms]
+[ns]瑞樹[nse]
+「え……」[pcms]
 
 *3418|
 [fc]
-Jin pulled me close and slid his hand inside my skirt... no,[r]
-inside my panties.[pcms]
+ジンはあたしを抱き寄せ、スカートの中……いや、[r]
+パンツの中に手を滑り込ませた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3419|
 [fc]
 [vo_miz s="mizuki0131"]
-[ns]Mizuki[nse]
-"Wha... What are you doing all of a sudden!? Nnh..."[pcms]
+[ns]瑞樹[nse]
+「なっ……急に何！？　んぅっ……」[pcms]
 ;//＠股間をまさぐられている
 
 *3420|
 [fc]
-Jin's fingers, as if they were a separate creature, invaded[r]
-my "down there" and moved around inside.[pcms]
+ジンの指は、まるで別の生き物みたいに、あたしの“アソコ”へと[r]
+進入し、中を動き回る。[pcms]
 
 *3421|
 [fc]
-Caught off guard and with fingers inside me, my pussy became[r]
-surprisingly quickly moistened, independent of my will.[pcms]
+急に抱きつかれ、指まで入れられたあたしのオマンコは[r]
+自分の意志に関係なく、驚くほど早く、少しの湿り気を帯びた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3422|
 [fc]
 [vo_miz s="mizuki0132"]
-[ns]Mizuki[nse]
-"Nnn... It hurts... It hurts! What are you doing..."[pcms]
+[ns]瑞樹[nse]
+「んんっ……痛いっ……痛いよ！[r]
+　何するのよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3423|
 [fc]
-[ns]Jin[nse]
-"You're not hiding anything inside."[pcms]
+[ns]壬[nse]
+「中には隠してないな」[pcms]
 
 *3424|
 [fc]
-Having confirmed that there was nothing inside my vagina,[r]
-Jin roughly pulled his fingers out, bringing them in front[r]
-of my face, wet with my bodily fluids.[pcms]
+膣内に何もない事を確認したジンは、乱暴に指を引き抜くと、[r]
+あたしの体液で湿った指を顔の前に持ってくる。[pcms]
 
 *3425|
 [fc]
-Reflexively, my tongue reached out towards the dampness.[pcms]
+条件反射的に、その湿り目がけ舌が伸びる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3426|
 [fc]
 [vo_miz s="mizuki0133"]
-[ns]Mizuki[nse]
-"Nnh... Nmbh..."[pcms]
+[ns]瑞樹[nse]
+「んぅっ……んぶっ……」[pcms]
 
 *3427|
 [fc]
-What am I doing...?[pcms]
+何してるんだろう、あたし……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3428|
 [fc]
-[ns]Jin[nse]
-"I'm doing this because I'm worried about you. At least[r]
-you're not carrying anything else now."[pcms]
+[ns]壬[nse]
+「お前を心配してのことだ。とりあえず、もう持ってないな」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3429|
 [fc]
 [vo_miz s="mizuki0134"]
-[ns]Mizuki[nse]
-"...Yeah."[pcms]
+[ns]瑞樹[nse]
+「…………うん」[pcms]
 
 *3430|
 [fc]
-Caught off guard, I felt a flush on my cheeks and couldn't[r]
-look directly at Jin, replying with my head down.[pcms]
+突然の事に、頬に火照りを覚えたあたしは、[r]
+ジンをまともに見ることができず、うつむいたまま返事をした。[pcms]
 
 *3431|
 [fc]
-Me, staring at the floor and Jin's feet.[pcms]
+床とジンの足先をみつめたままのあたし。[pcms]
 
 *3432|
 [fc]
-Jin is concerned about me. In my heart, I apologize to Jin.[r]
-I'm sorry, Jin.[pcms]
+ジンはあたしの事を気遣ってくれている。[r]
+あたしは心の中で、ジンに謝る。ごめんなさい、ジン。[pcms]
 
 ;//シャワールームに隠してある包み。
 ;//あれは、ジンには絶対に言えない。

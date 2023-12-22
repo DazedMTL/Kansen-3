@@ -18,129 +18,129 @@
 
 *1446|
 [fc]
-[ns]Kousuke[nse]
-"But hey, you said they were 'moving to the suburbs'... Yet[r]
-there were swarms of them on the streets, weren't there?"[pcms]
+[ns]浩助[nse]
+「でもよ、『郊外に移動してる』って言ってたけど……[r]
+　その割には表のヤツラ、うじゃうじゃしてやがったぞ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1447|
 [fc]
 [vo_mar s="maru1463"]
-[ns]Margarita[nse]
-"Compared to the usual streets of Shibuya, it was a modest[r]
-number. Considering Tokyo's population, that is."[pcms]
+[ns]マルガリータ[nse]
+「いつもの渋谷の街に比べたら、ささやかな数だ。[r]
+　東京の人口を考えてもな」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1448|
 [fc]
-[ns]Jin[nse]
-"...The streets?"[pcms]
+[ns]壬[nse]
+「……表？」[pcms]
 
 *1449|
 [fc]
-Having not participated in the conversation until now, Jin,[r]
-who had been blankly staring at the monitor, opened his[r]
-mouth with curiosity.[pcms]
+今まで会話に参加せず、[r]
+ぼんやりとモニターを眺めているだけだった壬が[r]
+不思議そうに口を開いた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1450|
 [fc]
-[ns]Jin[nse]
-"When we arrived here, it seemed like there was no one on[r]
-the main street."[pcms]
+[ns]壬[nse]
+「俺たちがここに来たときは、[r]
+　表の通りには誰もいなかったようだが」[pcms]
 
 *1451|
 [fc]
-[ns]Wataru[nse]
-"The streets... Which area are you talking about?"[pcms]
+[ns]航[nse]
+「表って……どのあたりですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1452|
 [fc]
-[ns]Jin[nse]
-"It's the Q Building across from here."[pcms]
+[ns]壬[nse]
+「ここの向かいのＱビルだ」[pcms]
 
 *1453|
 [fc]
-He didn't go into much detail (probably corporate secrets),[r]
-but Jin said that they used an underground passage on their[r]
-way from Celesta Tower to LASER.[pcms]
+あまり詳しく語ろうとはしない（きっと企業秘密だ）けれど、[r]
+セレスタワーからＬＡＳＥＲに来る途中まで、[r]
+地下の通路を使ったのだと、壬は言った。[pcms]
 
 *1454|
 [fc]
-Just like Hiko-chin's gang's hideout 'Dedepou', Jin's gang's[r]
-hideout 'Q Building' might also have an entrance connected[r]
-to Udagawa's underground drainage... perhaps.[pcms]
+彦ちんの組のアジトである「ででっぽう」がそうであるように、[r]
+壬の組のアジトである「Ｑビル」にも、もしかしたら[r]
+同じように宇田川の暗渠に通じる出入り口があるんだろう……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1455|
 [fc]
-[ns]Kousuke[nse]
-"No one was there? That's a lie, right? They were crawling[r]
-all over the place!"[pcms]
+[ns]浩助[nse]
+「誰もいなかったなんて、嘘だろ？[r]
+　あんだけうじゃうじゃ出てきたんだぜ？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1456|
 [fc]
-[ns]Jin[nse]
-"No. It was definitely deserted."[pcms]
+[ns]壬[nse]
+「いや。間違いなく、無人だった」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1457|
 [fc]
-Kousuke looked unconvinced, but indeed, when we left[r]
-'Dedepou', there was no one in the streets.[pcms]
+コースケは納得してない顔つきだったけれど、[r]
+確かに、ボクたちが「ででっぽう」から出た時も、[r]
+街には誰もいなかった。[pcms]
 
 *1458|
 [fc]
-The infected started pouring out after we started moving[r]
-around...?[pcms]
+感染者たちがあふれ出してきたのは、[r]
+ボクたちが動き回ったから……？[pcms]
 
 *1459|
 [fc]
-But we didn't walk a long distance, and if it's just about[r]
-moving, Jin and his group did the same.[pcms]
+だけど、そんなに長い距離を歩いたわけじゃないし、[r]
+移動したっていうだけなら、壬たちだって同じだ。[pcms]
 
 *1460|
 [fc]
-The only difference between our actions and Jin's group's[r]
-could be...[pcms]
+ボクたちと壬たちの行動の違いといえば……。[pcms]
 
 *1461|
 [fc]
-[ns]Wataru[nse]
-"Could it be... that thing?"[pcms]
+[ns]航[nse]
+「とすると……あれかなあ？」[pcms]
 
 *1462|
 [fc]
-I remember calling out to see if there were any survivors.[pcms]
+生存者がいないかと呼びかけて回ったことを、ボクは思い出す。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1463|
 [fc]
-[ns]Jin[nse]
-"...It must be the cause. They chased us because we called[r]
-out loudly."[pcms]
+[ns]壬[nse]
+「……間違いなくそれが原因だろうな。[r]
+　大声で呼んだから追われたんだろう」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1464|
 [fc]
-[ns]Shigeyoshi[nse]
-"Are you guys idiots or what?"[pcms]
+[ns]重吉[nse]
+「ぶぁーっかじゃねぇの？　お前ら？」[pcms]
 
 *1465|
 [fc]
-We were utterly laughed at through his nose...[pcms]
+思いっきり鼻で笑われてしまった……。[pcms]
 
 ;//→ブロック５０２６０へ
 [jump storage="50260.ks" target=*50260_TOP]

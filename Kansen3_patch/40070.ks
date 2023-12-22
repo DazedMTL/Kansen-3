@@ -1,10 +1,10 @@
 ;//block:A008
-;//ブロック４００７０『地下道全員脱出編　中』pt.2
+;//ブロック４００７０『地下道～全員脱出編～　中』pt.2
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40060.txtから
 
 *40070_TOP
-;{SceneSet 地下道全員脱出編中}
+;{SceneSet 地下道～全員脱出編～中}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公
@@ -17,379 +17,372 @@
 
 *637|
 [fc]
-[ns]Wataru[nse]
-"Well, then..."[pcms]
+[ns]航[nse]
+「さて、と……」[pcms]
 
 *638|
 [fc]
-Having returned to my lookout spot, I composed a brief reply[r]
-email to Dad.[pcms]
+再び見張り場に立ったボクは、[r]
+父さんに短い返信メールを作成した。[pcms]
 
 *639|
 [fc]
-We're doing our best too. Please take care as well, Dad...[pcms]
+ボクたちも頑張るよ。[r]
+父さんも気をつけて……。[pcms]
 
 *640|
 [fc]
-While pressing the send button, I stretched out my arm[r]
-trying to find a spot with better reception.[pcms]
+送信ボタンを押しながら、[r]
+少しでも電波の良い位置を探そうとして腕を伸ばす。[pcms]
 
 *641|
 [fc]
-The antenna signal was switching unstably, but I was indeed[r]
-able to send the email this time.[pcms]
+アンテナ表示は不安定に切り替わっていたけれど、[r]
+確かに今回のメールも送信することができた。[pcms]
 
 *642|
 [fc]
-According to what Maruko-senpai said, it seems we can also[r]
-access the internet now. I should try gathering some[r]
-information too...[pcms]
+マル子先輩の話によると、[r]
+ネットにもアクセスできるようになったみたいだし。[r]
+ボクも少しは情報を集めてみよう……。[pcms]
 
 *643|
 [fc]
-[ns]Wataru[nse]
-"...It seems like it's connecting, but it's so slow..."[pcms]
+[ns]航[nse]
+「……確かに繋がりそうだけど、重いな……」[pcms]
 
 *644|
 [fc]
-I tried opening a news site for starters, but the access was[r]
-incredibly sluggish.[pcms]
+とりあえずニュースサイトを開いてみたけれど[r]
+アクセスがめちゃくちゃ重たい。[pcms]
 
 *645|
 [fc]
-Either the line is congested, or it's just unstable...[pcms]
+回線が混雑しているのか、それとも不安定なのか……。[pcms]
 
 *646|
 [fc]
-After browsing through various sites as they came to mind, I[r]
-finally managed to connect to one of the news sites.[pcms]
+いくつか思いつくままにサイトを回って、[r]
+ようやくニュースサイトのひとつに繋がった。[pcms]
 
 *647|
 [fc]
-[ns]Wataru[nse]
-"...Ah, here it comes."[pcms]
+[ns]航[nse]
+「……あ、来た来た」[pcms]
 
 *648|
 [fc]
-The menu for the latest news was filled with articles[r]
-related to the "incident" that's currently happening.[pcms]
+最新ニュースのメニューは、全て[r]
+今起きている『事件』に関する記事だった。[pcms]
 
 *649|
 [fc]
-"Riots Break Out in the Capital Region" The first piece of[r]
-news had a nuance that a group riot had suddenly occurred.[pcms]
+『首都圏で暴動発生』[r]
+最初のニュースでは、突如として集団暴動が発生した、[r]
+というようなニュアンスだったけれど。[pcms]
 
 *650|
 [fc]
-"Northeast Infection Disaster Again?" After scrolling[r]
-through several items, my own speculation was also announced[r]
-on the news site.[pcms]
+『東北感染災害再び？』[r]
+いくつかの項目を経て、ボクと同じ推測が[r]
+ニュースサイトにも発表されている。[pcms]
 
 *651|
 [fc]
-From there on, the news was being updated with the force of[r]
-a raging torrent.[pcms]
+そこから先は、もう怒涛の勢いでニュースが更新されている。[pcms]
 
 *652|
 [fc]
-"Infections Emerge in Sapporo, Following New Sendai and[r]
-Fukuoka" "Chaos Continues in Major Cities such as Osaka,[r]
-Nagoya, Hiroshima" "Government Struggles to Keep Up with[r]
-Simultaneous Disasters"[pcms]
+『札幌、新仙台に続いて福岡でも感染者発生』[r]
+『大阪、名古屋、広島、各主要都市で混乱続く』[r]
+『同時多発災害に、政府の対策追いつかず』[pcms]
 
 *653|
 [fc]
-With each confirmation, I could feel something cold[r]
-trickling down my back.[pcms]
+ひとつひとつ、確認するうちに[r]
+すぅっと背中を冷たいものが流れ落ちていく。[pcms]
 
 *654|
 [fc]
-[ns]Wataru[nse]
-"...It's really... all over Japan... It's become something[r]
-terrible..."[pcms]
+[ns]航[nse]
+「……ホントに、日本中が……[r]
+　すごいことになってるんだ……」[pcms]
 
 *655|
 [fc]
-I wonder what's going to happen to us from now on...[pcms]
+ボクたち、これからどうなるんだろう……。[pcms]
 
 *656|
 [fc]
-I had somehow convinced myself that outside our town,[r]
-everything was functioning normally and that someone would[r]
-come to our rescue...[pcms]
+ボクたちの街以外は、正常に機能してて、[r]
+誰かが助けに来てくれるんじゃないかって……[r]
+なんとなく思い込んでいたけど……。[pcms]
 
 *657|
 [fc]
-With a disaster of this scale, maybe no one will come to[r]
-rescue us...?[pcms]
+こんな規模の災害じゃ[r]
+もしかしたら誰も救助になんて……？[pcms]
 
 *658|
 [fc]
-[ns]Wataru[nse]
-"...Huh?"[pcms]
+[ns]航[nse]
+「……あれ？」[pcms]
 
 *659|
 [fc]
-The news hadn't been updated since the afternoon, with no[r]
-new posts since then.[pcms]
+ニュースは昼過ぎの更新を最後に、[r]
+新しいものが投稿されていなかった。[pcms]
 
 *660|
 [fc]
-Has the site stopped updating...? Why? Could it be...no[r]
-way...[pcms]
+サイトの更新ができなくなった……？[r]
+それは、なぜ？　もしかして……まさか……。[pcms]
 
 *661|
 [fc]
-Shaking off the unpleasant thoughts that threatened to take[r]
-hold, I tried browsing other sites.[pcms]
+嫌な考えに陥りそうになるのを振り払って、[r]
+ボクは別なサイトを回ってみる。[pcms]
 
 *662|
 [fc]
-[ns]Wataru[nse]
-"What about... other sites..."[pcms]
+[ns]航[nse]
+「他には……と……」[pcms]
 
 *663|
 [fc]
-Emergency evacuation information, guidance to shelters,[r]
-disaster message boards, links to government emergency[r]
-websites...[pcms]
+緊急避難情報、避難所へのアクセス案内、災害用伝言掲示板、[r]
+政府の緊急Ｗｅｂサイトへのリンク……。[pcms]
 
 *664|
 [fc]
-The government links connected surprisingly quickly. But[r]
-there was hardly any information that seemed useful. They[r]
-were just calling for people not to panic and to wait for[r]
-accurate information.[pcms]
+政府系リンクは意外にあっさり繋がった。[r]
+だけどまだ情報らしきものは、ほとんどない。[r]
+パニックを起こさず正確な情報を待てと呼びかけているだけだ。[pcms]
 
 *665|
 [fc]
-I also checked the information on shelters. In the city[r]
-center, several shelters had an '×' mark on them. It means[r]
-they're either full or unusable.[pcms]
+避難所の情報も確認してみる。[r]
+都心部だと、いくつかの避難所に×印がついていた。[r]
+満員っていうことか、もしくは使用不能ってことみたいだ。[pcms]
 
 *666|
 [fc]
-The ones nearby with a '○' mark are...[pcms]
+この近所で○印がついてるのは……。[pcms]
 
 *667|
 [fc]
-[ns]Wataru[nse]
-"Mishuku stationing ground, huh? If we're going overland,[r]
-this might be the place."[pcms]
+[ns]航[nse]
+「三宿駐屯地か。もし、地上で行くならここかな」[pcms]
 
 *668|
 [fc]
-I made a mental note of it and then jumped to the disaster[r]
-message board.[pcms]
+一応、覚えておくことにして、災害用伝言掲示板に飛んだ。[pcms]
 
 *669|
 [fc]
-The board was packed with messages.[pcms]
+掲示板にはメッセージがぎっしりと書き込まれている。[pcms]
 
 *670|
 [fc]
-Each message was filled with desperate concern for the[r]
-safety of family and acquaintances, or attempts to inform[r]
-others of their own safety.[pcms]
+どのメッセージにも家族や知人の安否を心配したり、[r]
+自分の無事を知らせようと必死な思いがこめられている。[pcms]
 
 *671|
 [fc]
-[ns]Wataru[nse]
-"I wonder if anyone's seen it..."[pcms]
+[ns]航[nse]
+「誰か、見てないかな」[pcms]
 
 *672|
 [fc]
-I tried searching for my own and my friends' names.[pcms]
+ボクは自分や仲間の名前で検索をかけてみた。[pcms]
 
 *673|
 [fc]
-But the search turned up nothing.[pcms]
+だけど、検索には何も引っかからない。[pcms]
 
 *674|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *675|
 [fc]
-No one is looking for us... We've been left behind here[r]
-without anyone knowing...[pcms]
+誰もボクたちを探していない……、[r]
+ボクたちは人知れず、ここに取り残された……、[r]
+なんていう考えが浮かびそうになる。[pcms]
 
 *676|
 [fc]
-[ns]Wataru[nse]
-"...That's not true... Yeah."[pcms]
+[ns]航[nse]
+「……そんなこと、ないよ……うん」[pcms]
 
 *677|
 [fc]
-That's right, I was able to connect with Dad via email. It[r]
-seems like the internet has been restored in the past few[r]
-hours.[pcms]
+そう、父さんとはメールが繋がったわけだし。[r]
+ネットが回復したんだって、ここ数時間みたいだし。[pcms]
 
 *678|
 [fc]
-Real rescue efforts and communication will probably start[r]
-from now on...[pcms]
+本格的な救助とか連絡が取れるようになるとかは、[r]
+きっとこれからだ……。[pcms]
 
 *679|
 [fc]
-[ns]Wataru[nse]
-"...For that reason, we need to be prepared for when the[r]
-time comes. We need to gather more information..."[pcms]
+[ns]航[nse]
+「……そのためにも、いざっていう時に備えないとな。[r]
+　もっと、他の情報も集めないと……」[pcms]
 
 *680|
 [fc]
-The links to news footage seemed to be broken.[pcms]
+ニュース映像系のリンクは切れてしまっているみたいだった。[pcms]
 
 *681|
 [fc]
-Yet, there were diet product ads cheerfully blinking away.[pcms]
+そのくせ、ダイエット食品の広告バナーなんかが[r]
+呑気にピコピコと動いている。[pcms]
 
 *682|
 [fc]
-Even in such an emergency, they aren't deleted...[pcms]
+こんな緊急事態でも削除されないんだな……。[pcms]
 
 *683|
 [fc]
-[ns]Wataru[nse]
-"Somehow, this kind of thing..."[pcms]
+[ns]航[nse]
+「なんか、こういうのって……」[pcms]
 
 *684|
 [fc]
-I couldn't help but give a wry smile at the strange sense of[r]
-deflation.[pcms]
+妙な脱力感に、思わず苦笑してしまう。[pcms]
 
 *685|
 [fc]
-[ns]Wataru[nse]
-"...That's right, maybe over there..."[pcms]
+[ns]航[nse]
+「……そうだ、あそこなら……」[pcms]
 
 *686|
 [fc]
-I had an idea and immediately tried to access it.[pcms]
+ニュース映像がダメなら、動画投稿サイトはどうだろう？[pcms]
 
 *687|
 [fc]
-The time gauge for the display to appear gradually filled[r]
-up, and the top page showed up.[pcms]
+思いついたボクは早速アクセスしてみる。[pcms]
 
 *688|
 [fc]
-"...Thank goodness. I'm glad I became a premium member."[pcms]
+じわじわと表示待ちのタイムゲージが上がっていって、[r]
+トップページが表れた。[pcms]
 
 *689|
 [fc]
-[ns]Wataru[nse]
-It's slow, but somehow connected.[pcms]
+[ns]航[nse]
+「……良かった。プレミア会員になっておいて」[pcms]
 
 *690|
 [fc]
-The latest posts were checked, and there was a massive[r]
-upload of TV news videos. Some of them seemed to be self-[r]
-recorded.[pcms]
+重いけれど何とか繋がっている。[pcms]
 
 *691|
 [fc]
-"Let's see... this one first, I guess."[pcms]
+最新の投稿を確認すると、[r]
+テレビニュース動画が大量にアップされていた。[r]
+中には自画撮りらしきものもある。[pcms]
 
 *692|
 [fc]
-[ns]Wataru[nse]
-I selected DHK News for now. The loading was unusually slow.[pcms]
+[ns]航[nse]
+「えーと……まずは、これかな」[pcms]
 
 *693|
 [fc]
-"This is going to take quite some time..."[pcms]
+とりあえず、ＤＨＫニュースを選んだ。[r]
+読み込みが異様に重い。[pcms]
 
 *694|
 [fc]
-[ns]Wataru[nse]
-I was about to put down my phone when I suddenly noticed[r]
-Yuuho's cell phone next to me.[pcms]
+[ns]航[nse]
+「こいつは相当かかりそうだなあ……」[pcms]
 
 *695|
 [fc]
-"Ah..."[pcms]
+ボクは携帯を置こうとして、[r]
+ふと、隣にあった悠帆の携帯電話に目をやった。[pcms]
 
 *696|
 [fc]
-[ns]Wataru[nse]
-Yuuho's cell phone had earphones connected to it.[pcms]
+[ns]航[nse]
+「あ……」[pcms]
 
 *697|
 [fc]
-"Right. It does make sound, after all."[pcms]
+悠帆の携帯にはイヤホンが繋がっている。[pcms]
 
 *698|
 [fc]
-[ns]Wataru[nse]
-It would be bad to startle everyone. Before playing the[r]
-news, I should connect the earphones.[pcms]
+[ns]航[nse]
+「そうか。確かに音がするもんな」[pcms]
 
 *699|
 [fc]
-But... my earphones are in my bag. If I go to get them and[r]
-rustle around, Ren might wake up...[pcms]
+みんなを驚かせてはまずい。[r]
+ニュースの再生が始まる前に、イヤホンを繋いでおこう。[pcms]
 
 *700|
 [fc]
-"I'll just borrow these for a bit."[pcms]
+だけど……ボクのイヤホンは荷物の中。[r]
+取りに行って、ゴソゴソしていたら漣が起きてしまうかも……。[pcms]
 
 *701|
 [fc]
-[ns]Wataru[nse]
-Deciding to borrow Yuuho's earphones, I picked up the cell[r]
-phone.[pcms]
+[ns]航[nse]
+「ちょっと借りるよー」[pcms]
 
 *702|
 [fc]
-"..."[pcms]
+悠帆のイヤホン借りることにして、携帯を手に取る。[pcms]
 
 *703|
 [fc]
-[ns]Wataru[nse]
-Suddenly, I thought of Oshima-senpai and Yuuho again.[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *704|
 [fc]
-What kind of relationship does Yuuho have... with Senpai?[pcms]
+ふと、またも大嶋先輩と悠帆のことが頭をよぎった。[pcms]
 
 *705|
 [fc]
-Is she dating Oshima-senpai... or maybe, actually, she has[r]
-someone else she's dating...?[pcms]
+悠帆は……先輩とどういう関係、なんだろう。[pcms]
 
 *706|
 [fc]
-"...Should I... take a peek inside...?"[pcms]
+大嶋先輩と付き合って……、いや、もしかしたら[r]
+実は他に付き合ってる人がいたり……とか……？[pcms]
 
 *707|
 [fc]
-[ns]Wataru[nse]
-;       (link storage="40100.ks"[r]
-target=*40100_TOP)Hmm...(endlink)[pcms]
+[ns]航[nse]
+「……な……、中、見ちゃおうかな……？」[pcms]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ａ１
+;//●時限式選択肢Ａ－１
 ;//１ー１：ケータイを見る→ブロック４００８０へ
 ;//１ー２：そんな真似は出来ない→ブロック４００９０へ
-;//１３：時間切れ→ブロック４０１００へ
+;//１－３：時間切れ→ブロック４０１００へ
 
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="40080.ks" target=*40080_TOP]ケータイを見る[endlink]
 ;	[link storage="40090.ks" target=*40090_TOP]そんな真似はできない[endlink]
 ;	;[link storage="40100.ks" target=*40100_TOP]時間切れ[endlink]
-;       (link storage="40100.ks"[r]
-target=*40100_TOP)Hmm...(endlink)[pcms]
+;	[link storage="40100.ks" target=*40100_TOP]うーん……[endlink][s]
 
 *SEL30|ケータイを見る／そんな真似はできない／うーん……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Look at the cell phone'"]
-[eval exp="f.seltext04 = 'I can\'t do such a thing'"]
-[eval exp="f.seltext06 = 'Hmm'"]
+[eval exp="f.seltext02 = 'ケータイを見る'"]
+[eval exp="f.seltext04 = 'そんな真似はできない'"]
+[eval exp="f.seltext06 = 'うーん……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

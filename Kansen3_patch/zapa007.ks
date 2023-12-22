@@ -20,33 +20,34 @@
 
 *1599|
 [fc]
-The height of the catwalk is about the same as the second[r]
-floor of a building. It's not that high.[pcms]
+キャットウォークの高さは建物の二階程度。[r]
+たいした高さではない。[pcms]
 
 *1600|
 [fc]
-If I can manage to jump down properly, I feel like there's[r]
-no need to worry about getting injured.[pcms]
+うまく飛び降りることができれば、怪我の心配は[r]
+ないような気がする。[pcms]
 
 *1601|
 [fc]
-There's no time to hesitate, and danger is imminent. I have[r]
-no choice but to jump... that's the only option right now.[pcms]
+迷っている時間はないし、危険は目の前に迫っていた。[r]
+飛ぶしかない……いまはそれしかない。[pcms]
 
 *1602|
 [fc]
-Having made that decision, I jumped down without any[r]
-hesitation.[pcms]
+わたしはそう決断すると、躊躇することなく[r]
+飛び降りた。[pcms]
 
 *1603|
 [fc]
-But... the shoulder bag I was carrying caused trouble. I[r]
-should have just thrown it away.[pcms]
+だけど……、肩にかけていたショルダーバックが[r]
+禍いした。こんなもの捨ててしまえばよかったのに。[pcms]
 
 *1604|
 [fc]
-In my panic, I couldn't think straight. In the end, the bag[r]
-got caught, and I lost my balance, crashing onto the floor.[pcms]
+動転していたわたしは、まともな機転が利かなかった。[r]
+結局バックが引っかかり、わたしはバランスを崩して、[r]
+床に叩きつけられてしまった。[pcms]
 
 [赤フラ]
 
@@ -55,23 +56,23 @@ got caught, and I lost my balance, crashing onto the floor.[pcms]
 *1605|
 [fc]
 [vo_yuh s="yuho0372"]
-[ns]Yuuho[nse]
-"Ahh, ughhh, ghh... it hurts..."[pcms]
+[ns]悠帆[nse]
+「あっうぅぅぅ、ぐぅぅ……い、痛い……」[pcms]
 
 *1606|
 [fc]
-The shock and pain made it so I couldn't even breathe[r]
-properly, and I couldn't move.[pcms]
+ショックと痛みで呼吸すら満足にできなくなって、[r]
+わたしは動けなかった。[pcms]
 
 *1607|
 [fc]
-In front of me was a corridor, and beyond that a pool... but[r]
-the door was mercilessly closed.[pcms]
+目の前には渡り廊下、その先はプールだけど……。[r]
+扉は無情にも閉じられていた。[pcms]
 
 *1608|
 [fc]
-An eerie shadow approached, and those mad, empty eyes stared[r]
-intently at me.[pcms]
+迫りくる不気味な人影、狂ったような不気味な虚ろな[r]
+目がわたしを凝視していた。[pcms]
 
 ;//jump：zapA0010
 ;[jump storage="zapA010.ks" target=*zapA010_01]

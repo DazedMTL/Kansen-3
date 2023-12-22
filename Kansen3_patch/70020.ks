@@ -6,7 +6,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：;//〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）朝
+;//・時間：５日目（８月１９日）朝～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：
@@ -21,20 +21,19 @@
 
 *148|
 [fc]
-[ns]Wataru[nse]
-"No... it's not right, Ren! We can't...!"[pcms]
+[ns]航[nse]
+「だ……、ダメだよ、漣！　こんなのっ……！」[pcms]
 
 [evcg storage="HEV058a"][trans_c cross time=300]
 
 *149|
 [fc]
-With a feeling like peeling off my own skin, I shook off[r]
-Ren's hand.[pcms]
+生皮を剥ぐ思いで、漣の手を振りほどく。[pcms]
 
 *150|
 [fc]
-[ns]Wataru[nse]
-"Because we... we...!"[pcms]
+[ns]航[nse]
+「だって、ボクたちは……、ボクたちは……！」[pcms]
 
 
 [bg storage="BG020a"][trans_c cross time=500]
@@ -42,63 +41,63 @@ Ren's hand.[pcms]
 
 *151|
 [fc]
-I ran out into the hallway and looked back into the room.[pcms]
+通路に逃げ出して、部屋の中を振り返った。[pcms]
 
 *152|
 [fc]
-Ren didn't follow. In the darkness, I could only see her[r]
-faint outline.[pcms]
+漣は追ってはこなかった。[r]
+暗闇の中、ぼんやりした漣の輪郭だけが見えている。[pcms]
 
 *153|
 [fc]
-The door was about to close from the recoil. Through the[r]
-gap, Ren's voice echoed.[pcms]
+反動で扉が閉まっていこうとする。[r]
+その隙間から、漣の声が響いた。[pcms]
 
 *154|
 [fc]
 [vo_ren s="ren_RK0029"]
-[ns]Ren[nse]
-"...Big brother... what's wrong?"[pcms]
+[ns]漣[nse]
+「…………お兄ちゃぁぁん……どうしたのぉぉ？」[pcms]
 
 *155|
 [fc]
-[ns]Wataru[nse]
-"...Re...n..."[pcms]
+[ns]航[nse]
+「…………れ……ん……」[pcms]
 
 *156|
 [fc]
-Even as I said her name, I couldn't believe it.[pcms]
+名前を口にしながらも、信じられない。[pcms]
 
 *157|
 [fc]
-I tried to rationalize it as a fever, or the recent mental[r]
-shocks being too much, but deep down I knew.[pcms]
+熱のせいとか、このところ精神的な衝撃が大きかったからとか、[r]
+いろいろと理由をつけながらも、心のどこかで分かっている。[pcms]
 
 *158|
 [fc]
-This isn't Ren. This girl isn't the real Ren! My Ren would[r]
-never do such lewd things...![pcms]
+漣……じゃない。この子は本当の漣ではない！[r]
+ボクの漣が、こんなイヤらしいことをするわけがない……！[pcms]
 
 *159|
 [fc]
-[ns]Wataru[nse]
-"...You should rest a bit. I'll come back later..."[pcms]
+[ns]航[nse]
+「……少し、休んだほうがいいよ。また、後で来るから……」[pcms]
 
 *160|
 [fc]
 [vo_ren s="ren_RK0030"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 ;//＠本当に無言
 
 *161|
 [fc]
-I managed to convey that with great difficulty, but there[r]
-was no reply from Ren.[pcms]
+やっとの思いで絞り出すように伝えたけれど[r]
+漣からの返事はなかった。[pcms]
 
 *162|
 [fc]
-I left as if running away.[pcms]
+ボクは逃げるように立ち去っていく。[pcms]
 
 ;//〆エレベーターエントランス。
 
@@ -107,46 +106,46 @@ I left as if running away.[pcms]
 
 *163|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *164|
 [fc]
-Without any destination in mind, I went to call the elevator[r]
-and noticed something odd at my fingertips.[pcms]
+どこへ行くあてもなくエレベーターを呼ぼうとして[r]
+指先の違和感に気付いた。[pcms]
 
 *165|
 [fc]
-They were vividly wet with Ren's love juices...[pcms]
+漣の愛液で生々しく濡れている……。[pcms]
 
 *166|
 [fc]
-Suddenly, I remembered Ren's lewd behavior from before.[pcms]
+ふと先ほどの漣の痴態を思い出した。[pcms]
 
 *167|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *168|
 [fc]
-Something is definitely off... Her actions and words don't[r]
-seem like Ren's at all.[pcms]
+やっぱりどこかがヘンだ……。[r]
+行動も言葉も、漣のものとは思えない。[pcms]
 
 *169|
 [fc]
-And... have I also started to become strange for getting an[r]
-erection from Ren's behavior?[pcms]
+そして……漣の言動に勃起してしまったボクも[r]
+どこかおかしくなりかけている……？[pcms]
 
 *170|
 [fc]
-[ns]Wataru[nse]
-"What does this mean... what's happening...?"[pcms]
+[ns]航[nse]
+「これって……どういうこと、なんだろ……」[pcms]
 
 *171|
 [fc]
-While feeling anxious and heavy-hearted, my mind was trying[r]
-to reach a conclusion.[pcms]
+不安に胸苦しくなりながらも、[r]
+ボクの心はひとつの結論を出そうとしていた。[pcms]
 
 ;//スクリプト様へ
 ;//★この選択肢は後日処理です。そのまま70030に接続してください
@@ -154,15 +153,15 @@ to reach a conclusion.[pcms]
 [jump storage="70030.ks" target=*70030_TOP]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ２
-;//２１：まさか、感染？→ 70030
-;//２２：精神的に参っている？→ 70040
+;//●選択肢Ａ－２
+;//２－１：まさか、感染？→ 70030
+;//２－２：精神的に参っている？→ 70040
 ;//
 ;//[sysbt_meswin clear]
 ;//
 ;//[link storage="70030.ks" target=*70030_TOP]まさか、感染？[endlink]
 ;//[link storage="70040.ks" target=*70040_TOP]精神的に参っている？[endlink]
-;//[pcms]
+;//[s]
 ;//
 ;//---------------------------------------------------------------
 

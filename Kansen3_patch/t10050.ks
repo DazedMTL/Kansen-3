@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）昼
+;//・時間帯：５日目（８月１９日）昼～
 ;//
 ;//※ライター様へ。
 ;//　このブロックはいわゆる日常シーンですが、
@@ -31,29 +31,29 @@
 
 *5642|
 [fc]
-[ns]Wataru[nse]
-"...Well, I can deal with it later."[pcms]
+[ns]航[nse]
+「……ま、後でもいっか」[pcms]
 
 *5643|
 [fc]
-Considering the location of the descending escalator exit,[r]
-the position on the 5th floor of the ascending exit is[r]
-probably near the wall of the manga cafe's office.[pcms]
+下りエスカレーター出口の位置から考えると[r]
+昇り出口の５Ｆでの位置は、[r]
+おそらく漫画喫茶の事務所の壁あたりだ。[pcms]
 
 *5644|
 [fc]
-It's not like it's really blocked by a wall, but if it were,[r]
-there's always the brute force method of shooting a hole and[r]
-barging through when necessary.[pcms]
+まさかホント壁に塞がれてるわけじゃないだろうけど、[r]
+もしそうだとしても、いざっていう時は[r]
+銃で穴を開けて体当たり、っていう荒業がある。[pcms]
 
 *5645|
 [fc]
-I peeked, but it's too dark to see anything up there without[r]
-lighting. Maybe I'll check again when it's brighter.[pcms]
+覗いてみたけど上の方は照明がなくて真っ暗だし、[r]
+明るくなってから、また調べればいいかな。[pcms]
 
 *5646|
 [fc]
-I decided to head back towards the elevator entrance.[pcms]
+ボクはエレベーターエントランスの方に戻ることにした。[pcms]
 
 ;//→block:T10060
 [jump storage="T10060.ks" target=*T10060_TOP]

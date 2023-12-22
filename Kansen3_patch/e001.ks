@@ -24,25 +24,23 @@
 
 *4642|
 [fc]
-A passageway just wide enough for a person to pass through[r]
-between buildings.[pcms]
+ビルとビルの間に、人が通れるくらいの広さの通路。[pcms]
 
 *4643|
 [fc]
-In preparation for the success of our plan, we went outside[r]
-to check the safety of the small door that connects the[r]
-passageway and Utagawa Street.[pcms]
+わたしたちは作戦を成功させる準備として、通路と宇多川通りを[r]
+繋ぐ小さな扉の安全を確認するため、外に出た。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4644|
 [fc]
 [vo_ren s="ren1294"]
-[ns]Ren[nse]
-"Wow... I've never been in a place like this before."[pcms]
+[ns]漣[nse]
+「わあ……こんな所入ったの初めて」[pcms]
 
 ;//[vo_mar s="maru1277"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「こうなっていたのか……。
 ;//　外から見たことはあったが、実際に通ってみると、
 ;//　意外と広いな」
@@ -55,18 +53,19 @@ passageway and Utagawa Street.[pcms]
 
 *4645|
 [fc]
-As if to drown out our voices, fighter jets flew leisurely[r]
-through the sky. They're probably searching for survivors.[pcms]
+まるでわたしたちの声をかき消すように、[r]
+戦闘機が悠々と空を飛んでいく。[r]
+おそらく、生存者を捜しているのだろう。[pcms]
 
 *4646|
 [fc]
-I wonder if they'll spot us from the sky...[pcms]
+空から、わたしたちの事見つけてくれないかな……。[pcms]
 
 *4647|
 [fc]
 [vo_yuh s="yuho1429"]
-[ns]Yuuho[nse]
-"Nngh... Hurry up and come rescue us~!"[pcms]
+[ns]悠帆[nse]
+「んもー……早く助けに来てよ～！」[pcms]
 ;//＠戦闘機に向かって、無駄とはしりつつも悪態
 
 [ChrSetEx layer=5 chbase="ren_j2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -74,14 +73,15 @@ I wonder if they'll spot us from the sky...[pcms]
 *4648|
 [fc]
 [vo_ren s="ren1295"]
-[ns]Ren[nse]
-"You can't be loud... it's not good."[pcms]
+[ns]漣[nse]
+「大きな声出しちゃ駄目だよ……」[pcms]
 
 *4649|
 [fc]
 [vo_yuh s="yuho1430"]
-[ns]Yuuho[nse]
-"Ah-... Sorry, sorry! I just let it slip... ahaha..."[pcms]
+[ns]悠帆[nse]
+「あー……ゴメンゴメン！　つい、うっかりね……、[r]
+　あははっ……」[pcms]
 ;//＠バツが悪そうに
 
 [ChrSetEx layer=5 chbase="ren_j5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -89,140 +89,143 @@ I wonder if they'll spot us from the sky...[pcms]
 *4650|
 [fc]
 [vo_ren s="ren1296"]
-[ns]Ren[nse]
-"It's not funny... But I hope they find us..."[pcms]
+[ns]漣[nse]
+「あははじゃないよ～……でも、見つけてくれるといいね……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4651|
 [fc]
 [vo_miz s="mizuki0146"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「……」[pcms]
 
 *4652|
 [fc]
-While we were nervously frolicking, Mizuki remained[r]
-awkwardly looking down. I felt a bit uncomfortable seeing[r]
-her downcast expression.[pcms]
+緊張しつつも、はしゃぐわたしたちを横目に、[r]
+瑞樹は気まずそうにうつむいたままだった。[r]
+その落ち込んだ表情に、少しだけ気まずさを覚えた。[pcms]
 
 *4653|
 [fc]
-Perhaps sensing my feelings, or maybe Ren felt the same way.[r]
-Ren chose just the right moment to speak to Mizuki.[pcms]
+わたしの気持ちを察したのか、[r]
+それとも漣ちゃんもそうだったのか。[r]
+漣ちゃんはちょうど良いタイミングで瑞樹に声をかけた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4654|
 [fc]
 [vo_ren s="ren1297"]
-[ns]Ren[nse]
-"Mizuki-chan... I'm so glad you're safe!"[pcms]
+[ns]漣[nse]
+「瑞樹ちゃん……無事で良かった！」[pcms]
 
 *4655|
 [fc]
-Ren seemed to release all her pent-up emotions as she jumped[r]
-into Mizuki's arms with genuine joy.[pcms]
+漣ちゃんはそれまで溜め込んでいた感情をぶつけるかのように、[r]
+本当に嬉しそうに、瑞樹の胸に飛び込んでいった。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4656|
 [fc]
 [vo_miz s="mizuki0147"]
-[ns]Mizuki[nse]
-"...Ah, thank you... I'm happy too... You're still so[r]
-slender and doll-like... hehe..."[pcms]
+[ns]瑞樹[nse]
+「……あ、ありがとう……あたしも嬉しいよ……。[r]
+　相変わらず細くてお人形さんみたい……。ふふっ……」[pcms]
 
 *4657|
 [fc]
-Whether out of embarrassment or confusion, Mizuki stumbled[r]
-over her words a bit as she hugged Ren back.[pcms]
+照れているのか、それとも戸惑っているのか、[r]
+瑞樹は少し言葉を噛みながら、[r]
+漣ちゃんの事を抱きしめ返していた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4658|
 [fc]
 [vo_ren s="ren1298"]
-[ns]Ren[nse]
-"Mizuki-chan, you're so soft... like a mother."[pcms]
+[ns]漣[nse]
+「瑞樹ちゃん、やわらかくて……お母さんみたい」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「ふふっ……漣ちゃん、甘えんぼさんなの治ってないの？」
 
 *4659|
 [fc]
-It's really like old times. It's as if the Mizuki from back[r]
-then has come back. But, Mizuki...[pcms]
+本当に、昔みたい。[r]
+あの頃の瑞樹が、戻って来たみたい。[r]
+でも、瑞樹……。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4660|
 [fc]
 [vo_miz s="mizuki0148"]
-[ns]Mizuki[nse]
-"Yuuho-chan, what's wrong? You look so serious?"[pcms]
+[ns]瑞樹[nse]
+「悠帆ちゃん、どうしたの？　真剣な顔して？」[pcms]
 
 *4661|
 [fc]
 [vo_yuh s="yuho1431"]
-[ns]Yuuho[nse]
-"...Because... Mizuki-chan, you suddenly disappeared. We[r]
-were all worried about you? Not just me... Wataru, Ren-[r]
-chan... and Kousuke too..."[pcms]
+[ns]悠帆[nse]
+「……だって……瑞樹ちゃん、いきなりいなくなるんだもん。[r]
+　ずっと心配してたんだよ？　わたしだけじゃなくて……。[r]
+　航も漣ちゃんも……コースケもね……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4662|
 [fc]
 [vo_miz s="mizuki0149"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 *4663|
 [fc]
-Mizuki averted her face and looked down.[pcms]
+目を伏せ、私から顔を背ける瑞穂。[pcms]
 
 *4664|
 [fc]
-But I want to make it clear. The reason why Mizuki[r]
-disappeared from our lives.[pcms]
+だけど、はっきりしておきたい。[r]
+瑞樹がわたしたちの前から消えた理由を。[pcms]
 
 *4665|
 [fc]
 [vo_yuh s="yuho1432"]
-[ns]Yuuho[nse]
-"You quit school, left home, changed your phone number and[r]
-email address... We couldn't contact you at all. But we've[r]
-been searching for you all this time, you know?"[pcms]
+[ns]悠帆[nse]
+「学園も辞めて、家も出て、携帯の番号もアドレスも[r]
+　全部変えちゃって……。連絡、全然取れなくて。[r]
+　でも、みんなでずっと探してたんだよ？」[pcms]
 
 *4666|
 [fc]
 [vo_yuh s="yuho1433"]
-[ns]Yuuho[nse]
-"But to think that you were right next to where we always[r]
-hung out... I was so surprised... That means, Mizuki-chan,[r]
-you were avoiding us, weren't you?"[pcms]
+[ns]悠帆[nse]
+「だけど、まさかわたしたちがいつも遊んでたすぐ隣にいたなんて[r]
+　すっごく驚いたよ……それって、瑞樹ちゃん、わたしたちの事、[r]
+　避けてたからでしょ？」[pcms]
 
 *4667|
 [fc]
 [vo_miz s="mizuki0150"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「……」[pcms]
 
 *4668|
 [fc]
 [vo_yuh s="yuho1434"]
-[ns]Yuuho[nse]
-"That's terrible! We've been together since we were little[r]
-and never kept secrets from each other! What happened? Hey,[r]
-Mizuki-chan!?"[pcms]
+[ns]悠帆[nse]
+「酷いよ！　ちっちゃい頃からずっと一緒で……隠し事なんて[r]
+　したことなかったのに！　何があったの？[r]
+　ねえ、瑞樹ちゃん！？」[pcms]
 
 *4669|
 [fc]
 [vo_miz s="mizuki0151"]
-[ns]Mizuki[nse]
-"...I'm sorry."[pcms]
+[ns]瑞樹[nse]
+「……ごめん」[pcms]
 ;//＠絞り出すように
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -230,52 +233,53 @@ Mizuki-chan!?"[pcms]
 *4670|
 [fc]
 [vo_ren s="ren1299"]
-[ns]Ren[nse]
-"Ko-chan was really down too... To make it easier to find[r]
-Mizuki-chan, he cut back on his part-time jobs and even[r]
-started volunteering for the neighborhood watch..."[pcms]
+[ns]漣[nse]
+「コーちゃんもね……すっごく落ち込んでたんだよ……。[r]
+　瑞樹ちゃんを見つけやすいように、って、アルバイト減らして、[r]
+　自警団のボランティアなんか始めたりして……」[pcms]
 
 *4671|
 [fc]
-Mizuki listened with tears in her eyes, her face still[r]
-turned down as Ren and I pressed on.[pcms]
+わたしと漣ちゃんに畳みかけるように言われた瑞樹は、[r]
+顔を伏せたまま、目に涙を溜めて、聞いていた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4672|
 [fc]
 [vo_ren s="ren1300"]
-[ns]Ren[nse]
-"I don't know what kind of relationship you have with that[r]
-person named Jin... But talk to Ko-chan later. He'll be[r]
-happy for sure..."[pcms]
+[ns]漣[nse]
+「あの壬っていう人と……どんな関係か判らないけど……。[r]
+　あとでコーちゃんともお話してあげて。[r]
+　コーちゃん、喜ぶよ、きっと……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k2"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4673|
 [fc]
 [vo_miz s="mizuki0152"]
-[ns]Mizuki[nse]
-"...sniff..."[pcms]
+[ns]瑞樹[nse]
+「…………ぐすっ……」[pcms]
 ;//＠涙をすする
 
 *4674|
 [fc]
 [vo_yuh s="yuho1435"]
-[ns]Yuuho[nse]
-"It's hard to forgive you for worrying everyone... and for[r]
-not considering Kousuke's feelings. But I'm... really happy[r]
-to see you again! Mizuki-chan! Thank goodness!"[pcms]
+[ns]悠帆[nse]
+「みんなに心配かけて……コースケの気持ちを考えると、[r]
+　正直許せない……。でも、わたし……また会えて、[r]
+　すっごく嬉しい！　瑞樹ちゃん！　良かった！」[pcms]
 
 *4675|
 [fc]
-I hugged Mizuki just like Ren did and cried out loud.[pcms]
+わたしも、漣ちゃんと同じように、瑞樹に抱きつき、[r]
+声を上げて泣いた。[pcms]
 
 *4676|
 [fc]
 [vo_yuh s="yuho1436"]
-[ns]Yuuho[nse]
-"I'm so glad we could meet again..."[pcms]
+[ns]悠帆[nse]
+「また会えて……本当に良かった……」[pcms]
 ;//＠涙声
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -283,18 +287,17 @@ I hugged Mizuki just like Ren did and cried out loud.[pcms]
 *4677|
 [fc]
 [vo_miz s="mizuki0153"]
-[ns]Mizuki[nse]
-"Thank you... Thank you, Yuuho... Ren-chan. I'm really sorry[r]
-for worrying you... sniff... I can't quite explain the[r]
-reason yet but when the time comes, I'll definitely tell[r]
-you... sniff"[pcms]
+[ns]瑞樹[nse]
+「ありがとう……ありがとうユウホ……漣ちゃん。心配かけて、[r]
+　本当にゴメンね……ぐすっ……まだ理由は上手く話せないけど[r]
+　いつか言える時が来たら、必ず話すから……ぐすっ」[pcms]
 ;//＠涙声
 
 *4678|
 [fc]
 [vo_yuh s="yuho1437"]
-[ns]Yuuho[nse]
-"...Welcome back, Mizuki-chan... sob..."[pcms]
+[ns]悠帆[nse]
+「……おかえり、瑞樹ちゃん……ううっ……」[pcms]
 ;//＠涙声
 
 ;//キャラ消し
@@ -302,77 +305,79 @@ you... sniff"[pcms]
 
 *4679|
 [fc]
-We hugged each other and cried for a while.[pcms]
+わたしたちは、抱き合ったまま声をあげ、[r]
+しばらく泣いていた。[pcms]
 
 *4680|
 [fc]
-Then, without anyone starting it, we let go of our embrace[r]
-and looked at each other's faces.[pcms]
+そして、誰からともなく抱きしめた腕の力を解いて、[r]
+顔を見合わせた。[pcms]
 
 *4681|
 [fc]
-In front of us were Ren-chan and Mizuki's tear-streaked[r]
-smiling faces.[pcms]
+目の前には、漣ちゃんと、そして瑞樹の[r]
+涙混じりの笑顔がある。[pcms]
 
 *4682|
 [fc]
-The same smiles as before, unchanged.[pcms]
+昔と変わらない、笑顔が。[pcms]
 
 *4683|
 [fc]
 [vo_yuh s="yuho1438"]
-[ns]Yuuho[nse]
-"Sniff... It's okay about everything up until now... From[r]
-now on, let's do our best with what we can do... okay?[r]
-Mizuki-chan..."[pcms]
+[ns]悠帆[nse]
+「ぐすっ……あのね、今までのことはもういいから……。[r]
+　これからは、わたしたちができる事を頑張ろう……、ね？[r]
+　瑞樹ちゃん……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4684|
 [fc]
 [vo_miz s="mizuki0154"]
-[ns]Mizuki[nse]
-"Yeah... Oh, that reminds me... Ren-chan, did you apply the[r]
-UV cream?"[pcms]
+[ns]瑞樹[nse]
+「うん……。[r]
+　あ、そうだ……。漣ちゃん、ＵＶクリームちゃんと塗ったの？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4685|
 [fc]
 [vo_ren s="ren1301"]
-[ns]Ren[nse]
-"It's okay. I just got it from the drugstore. But I haven't[r]
-applied it yet. Can you do it later? Mizuki-chan. It's at[r]
-the depot we're heading to now..."[pcms]
+[ns]漣[nse]
+「大丈夫だよ。さっきドラッグストアで『貰って』来たから。[r]
+　でも、まだ塗ってないの。後で塗ってくれる？　瑞樹ちゃん。[r]
+　今から行く『ででっぽう』においてあるから……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *4686|
 [fc]
 [vo_miz s="mizuki0155"]
-[ns]Mizuki[nse]
-"Yeah, sure! Shall we go then!?"[pcms]
+[ns]瑞樹[nse]
+「うん、いいよ！　じゃあ、行こう！？」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *4687|
 [fc]
-Thank goodness... It's Mizuki. The same Mizuki as before has[r]
-returned to us.[pcms]
+よかった……。[r]
+瑞樹だ。[r]
+前と変わらない、瑞樹が、わたしたちの前に帰ってきた。[pcms]
 
 *4688|
 [fc]
-She remembered Ren-chan. The only thing that changed was her[r]
-appearance...[pcms]
+漣ちゃんの事覚えてくれてたし。[r]
+変わったのは、見た目だけ……。[pcms]
 
 *4689|
 [fc]
-The inside is still the same old Mizuki.[pcms]
+中身は、昔のままの瑞樹だ。[pcms]
 
 *4690|
 [fc]
-Really, thank goodness...[pcms]
+本当に、良かった……。[pcms]
 
 ;[zapend_random]
 [zapfade]

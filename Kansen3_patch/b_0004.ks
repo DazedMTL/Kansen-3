@@ -16,94 +16,92 @@
 
 *3257|
 [fc]
-Somehow, it doesn't even matter anymore. That thought began[r]
-to spread through my mind.[pcms]
+なんだか、もうどうでもいい。[r]
+そんな考えが、ボクの頭の中に広がり始めた。[pcms]
 
 *3258|
 [fc]
-In front of me, my cute little sister is smiling. Looking at[r]
-me, she smiles with bewitching eyes.[pcms]
+ボクの目の前では、可愛らしい妹が微笑んでいる。[r]
+ボクを見て、妖艶な目をして微笑んでいる。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3259|
 [fc]
 [vo_ren s="ren0417"]
-[ns]Ren[nse]
-"Now... big brother is all mine... Only look at me... Feel[r]
-only me..."[pcms]
+[ns]漣[nse]
+「もう……お兄ちゃんは私だけのもの……。[r]
+　私だけを見て……私だけを感じて……」[pcms]
 ;//ren0417.wav
 
 *3260|
 [fc]
-Ren's ragged breathing and expression, along with the[r]
-sensation of insects crawling inside my head, something[r]
-burst inside of me.[pcms]
+漣の荒い息使いと表情、それに頭の中を虫が這いずり回るような[r]
+感覚に襲われ、ボクの中で、何かがはじけ飛んだ。[pcms]
 
 *3261|
 [fc]
-I just want to surrender myself to what Ren is doing.[pcms]
+このまま、漣のすることに身を任せたい。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3262|
 [fc]
 [vo_ren s="ren_RK0081"]
-[ns]Ren[nse]
-"Big brother's cum... It's so thick and gooey, isn't it?"[pcms]
+[ns]漣[nse]
+「お兄ちゃんの、ザーメンだよぉぉ？　……すっごく濃くって、[r]
+　ドロドロだよぉ？」[pcms]
 ;//ren_RK0081.wav
 
 *3263|
 [fc]
-Ren, looking pleased, moved away from me and sat down on the[r]
-floor, placing her feet on my thing.[pcms]
+嬉しそうに言う漣は、ボクから身体を離すと、床に腰を下ろして、[r]
+ボクのモノに足を添えた。[pcms]
 
 [evcg storage="HEV062g"][trans_c cross time=300]
 
 *3264|
 [fc]
-As Ren began rubbing my thing with her feet, she wore a[r]
-sadistic smile.[pcms]
+漣はボクのモノを足で擦り始めると、[r]
+サディスティックな笑みを浮かべた。[pcms]
 
 *3265|
 [fc]
-[ns]Wataru[nse]
-"This... a footjob... where did she..."[pcms]
+[ns]航[nse]
+「こんなの……足コキなんて……どこで……」[pcms]
 
 *3266|
 [fc]
-Indeed, Ren's legs were famous at school. I myself have[r]
-fantasized about these legs before, that's for sure.[pcms]
+確かに、学園でも漣の足は評判が高かった。[r]
+ボク自身も、この足を見て色々な妄想をしたことも確かだ。[pcms]
 
 *3267|
 [fc]
-And now, I'm being tormented by those very legs...[pcms]
+そして今、ボクはその足で責められて……。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3268|
 [fc]
 [vo_ren s="ren_RK0038"]
-[ns]Ren[nse]
-"Hey...? Is just using fingers enough for you? Are you[r]
-satisfied with that...? If it's not enough... I can lick it[r]
-too? Hyaha?"[pcms]
+[ns]漣[nse]
+「ねぇ……？　お兄ちゃんは、指だけで、いいの？[r]
+　満足しちゃってるの……？　もし、足りないなら……、[r]
+　舐めてもいいよ？　ひゃはっ？」[pcms]
 ;//ren_RK0038.wav
 
 *3269|
 [fc]
-Ren's words had somehow become completely vulgar and[r]
-different from usual.[pcms]
+漣の言葉はいつしか、いつもと全く違う下品なものになっていた。[pcms]
 
 *3270|
 [fc]
-Why has Ren become like this...? Is it because of the shock[r]
-from being raped...?[pcms]
+何故、漣がこんな風に……。[r]
+やっぱり、レイプされたショックで……？[pcms]
 
 *3271|
 [fc]
-As I ponder various things, my consciousness gradually fades[r]
-away.[pcms]
+色々な事を考えていると、ボクの意識は次第に遠のいていった。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -118,59 +116,58 @@ away.[pcms]
 *3272|
 [fc]
 [vo_ren s="ren0515"]
-[ns]Ren[nse]
-"P-E-R-V-E-R-T. Come on, be grateful and cum with my feet."[pcms]
+[ns]漣[nse]
+「ヘ・ン・タ・イ。ほら、私の足でありがたくイッちゃって」[pcms]
 ;//ren0515.wav
 
 *3273|
 [fc]
-My eyelids grow heavy as if being attacked by sleepiness.[r]
-But the queen-like tone and the rising sensation force my[r]
-eyes open, and Ren's face, filled with madness, jumps into[r]
-view.[pcms]
+睡魔に襲われるように瞼が重くなっていく。[r]
+だけど、女王様の様な口調と、こみ上げてくる感覚に目を[r]
+開くと、狂気をはらんだ目で笑う漣の顔が飛び込んできた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3274|
 [fc]
 [vo_ren s="ren0555"]
-[ns]Ren[nse]
-"Oh my~ big brother~"[pcms]
+[ns]漣[nse]
+「もう～お兄ちゃんたら～」[pcms]
 ;//ren0555.wav
 
 *3275|
 [fc]
-Assaulted by a sensation like sleepiness and the softness of[r]
-Ren's feet, the confusion in my head accelerates.[pcms]
+睡魔に襲われるような感覚と、漣の足の柔らかさに襲われながら、[r]
+ボクの頭の混乱は加速していく。[pcms]
 
 *3276|
 [fc]
-[ns]Wataru[nse]
-"Ren... stop... please..."[pcms]
+[ns]航[nse]
+「漣……もう……やめ……てくれ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3277|
 [fc]
 [vo_ren s="ren_KB0041"]
-[ns]Ren[nse]
-"Ahahahahahahaha, ahaha, ah-hahahahaha...!"[pcms]
+[ns]漣[nse]
+「あははははははははははっ、あははっ、[r]
+　あーっははっははっ…………！」[pcms]
 ;//ren_KB0041.wav
 
 *3278|
 [fc]
-Ren let out a sadistic laugh and stomped hard on my thing[r]
-with her feet.[pcms]
+漣はサディスティックな笑い声を上げ、[r]
+ボクのモノを足で思いっきり踏みつけた。[pcms]
 
 *3279|
 [fc]
-Then, embarrassingly enough, my thing burst forth[r]
-vigorously.[pcms]
+すると、情けない事に、ボクのモノは勢いよく爆ぜた。[pcms]
 
 *3280|
 [fc]
-[ns]Wataru[nse]
-"Ugh... ughhh!!"[pcms]
+[ns]航[nse]
+「うっ……うあぁっ！！」[pcms]
 
 ;//〆：ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -178,13 +175,12 @@ vigorously.[pcms]
 
 *3281|
 [fc]
-Looking at my face, Ren smiles blissfully.[pcms]
+ボクの顔を見て、うっとりとした微笑みを浮かべる漣。[pcms]
 
 *3282|
 [fc]
-I was almost captivated by that face, but the exhaustion[r]
-from ejaculating and the dizziness that attacked again made[r]
-my eyelids close once more.[pcms]
+その顔に見とれそうになっていたボクだけど、射精した疲れと、[r]
+再び襲ってきた目眩に、またしても瞼は閉じていった。[pcms]
 
 
 ;//〆：黒画面
@@ -198,30 +194,31 @@ my eyelids close once more.[pcms]
 *3283|
 [fc]
 [vo_ren s="ren0828"]
-[ns]Ren[nse]
-"Ahh! Big brother is so intense! So intense and good!![r]
-Ahh!!"[pcms]
+[ns]漣[nse]
+「ああっ！　お兄ちゃんはげしいっ！　はげしくて、[r]
+　いいよぉ！！　ああっ！！」[pcms]
 ;//ren0828.wav
 
 *3284|
 [fc]
-Ah... Ren is... On top of me...[pcms]
+ああ……漣が……。[r]
+ボクの上で……。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3285|
 [fc]
 [vo_ren s="ren1171"]
-[ns]Ren[nse]
-"Let it out...! I want your hot cum to throb inside! I want[r]
-it so hot it feels like it'll burn my pussy...! I want it[r]
-overflowing!"[pcms]
+[ns]漣[nse]
+「出して……っ！　熱いスペルマいっぱいドクドクしてぇっ！[r]
+　アソコ焼けちゃうくらい……！[r]
+　あふれるくらい熱いの欲しいのぉっ！！」[pcms]
 ;//ren1171.wav
 
 *3286|
 [fc]
-Ren danced wildly on top of my hips like an actress from a[r]
-naughty DVD.[pcms]
+漣はまるでエッチなＤＶＤの女優みたいに、[r]
+ボクの腰の上で激しく踊る。[pcms]
 
 [evcg storage="HEV053f"][trans_c cross time=300]
 
@@ -230,31 +227,33 @@ naughty DVD.[pcms]
 *3287|
 [fc]
 [vo_ren s="ren_RK0091"]
-[ns]Ren[nse]
-"Hyaaaaaaaah----nnh!! Hah, ahfuaaah, it's going in!"[pcms]
+[ns]漣[nse]
+「ひゃああああぁぁーーーーんっ！！　はっ、あふああぁぁ、[r]
+　入ってるぅぅぅ！」[pcms]
 ;//ren_RK0091.wav
 
 *3288|
 [fc]
-Who is responsible for turning my cute sister into this...?[pcms]
+ボクの、可愛い妹をこんなにしたのは、一体誰だ……。[pcms]
 
 *3289|
 [fc]
-Damn it... Damn it, damn it!! Damn it!!!!!!![pcms]
+ちくしょう……。[r]
+ちくしょう、ちくしょう！！　ちくしょう！！！！！！[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3290|
 [fc]
 [vo_ren s="ren_RK0029"]
-[ns]Ren[nse]
-"...big brother... what's wrong?"[pcms]
+[ns]漣[nse]
+「…………お兄ちゃぁぁん……どうしたのぉぉ？」[pcms]
 ;//ren_RK0029.wav
 
 *3291|
 [fc]
-In my intermittent consciousness, I just watched Ren[r]
-bouncing on top of me.[pcms]
+途切れ途切れの意識の中、漣がボクの上で跳ねるのを、[r]
+ただ眺めていた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -263,9 +262,8 @@ bouncing on top of me.[pcms]
 
 *3292|
 [fc]
-While being assaulted by sensations that kept welling up,[r]
-even in my dazed state, I desperately held back seeking even[r]
-stronger pleasure.[pcms]
+朦朧としたまま、何度もこみ上げてくる感覚に襲われながらも、[r]
+ボクは更に強い快楽を求め、必死に我慢していた。[pcms]
 
 ;//HEV015c
 [evcg storage="HEV053g"][trans_c cross time=300]
@@ -275,38 +273,40 @@ stronger pleasure.[pcms]
 *3293|
 [fc]
 [vo_ren s="ren_RK0094"]
-[ns]Ren[nse]
-"Big brother... big... ahiaaaah, more! More and more, more[r]
-and more! Do it, do it, do as much as you like!"[pcms]
+[ns]漣[nse]
+「おにいちゃ……おに……、あひあああぁぁ、もっとぉおぉ！[r]
+　もっともっと、もっともっともっともっとぉぉ！[r]
+　してよぉぉぉ、してしてして、好きなだけ、してぇぇぇ！」[pcms]
 ;//ren_RK0094.wav
 
 *3294|
 [fc]
-But there's no need to hold back anymore. I can let Ren do[r]
-as she pleases.[pcms]
+だけどもう、こらえる事なんかない。[r]
+ボクは、漣を自由にすることができる。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3295|
 [fc]
 [vo_ren s="ren_RK0095"]
-[ns]Ren[nse]
-"Do lots of it!! Intense ones, amazing ones, super amazing![r]
-Big brother can fuck his little sister as much as he wants!"[pcms]
+[ns]漣[nse]
+「いっぱい、してしてぇ！！　激しいの、すごいの、[r]
+　ちょうだあぁい！　おにいちゃんの、いもうとぉぉ、[r]
+　犯していいんだよぉぉっ！」[pcms]
 ;//ren_RK0095.wav
 
 *3296|
 [fc]
-After all, Ren and I are in a relationship where we have[r]
-sex...[pcms]
+だって、ボクと漣はセックスするような仲……。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a19"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3297|
 [fc]
 [vo_ren s="ren_KB0041"]
-[ns]Ren[nse]
-"Ahahahahahahaha, ahaha, ah-hahahahaha...!"[pcms]
+[ns]漣[nse]
+「あははははははははははっ、あははっ、[r]
+　あーっははっははっ…………！」[pcms]
 ;//ren_KB0041.wav
 
 [se buf=0 storage="se_sex01"]
@@ -314,7 +314,8 @@ sex...[pcms]
 
 *3298|
 [fc]
-Ren... My sister...[pcms]
+漣……。[r]
+ボクの妹……。[pcms]
 
 
 ;//〆ＢＧ：黒画面
@@ -322,47 +323,47 @@ Ren... My sister...[pcms]
 
 *3299|
 [fc]
-My consciousness is dragged down by a leaden weight, feeling[r]
-like I'm sinking to the bottom of a deep sea.[pcms]
+ボクの意識は鉛の様な重さに引きずられ、[r]
+深い海の底に沈んでいくような感覚を覚えた。[pcms]
 
 *3300|
 [fc]
-A pleasant sense of fatigue and a strange sensation numb my[r]
-mind.[pcms]
+心地よい疲労感と、不思議な感覚が頭を麻痺させている。[pcms]
 
 *3301|
 [fc]
-Just before my consciousness completely breaks off. A[r]
-thought I've had for a long time surfaced in my mind.[pcms]
+意識が完全に途切れる直前。[r]
+以前から思っていた事が頭の中に浮かんできた。[pcms]
 
 *3302|
 [fc]
-The "somewhere else" I've always dreamed ofa place that[r]
-would free the petty me.[pcms]
+ずっと夢に見ていた『此処ではない何処か』[r]
+ちっぽけな自分を解放してくれる場所。[pcms]
 
 *3303|
 [fc]
-But I knew such a place didn't exist. At least until just a[r]
-moment ago.[pcms]
+でも、そんな所は存在しないことは判っていた。[r]
+ついさっきまでは。[pcms]
 
 *3304|
 [fc]
-I must always be in "this place called myself."[pcms]
+自分は、ずっと「自分という、この場所」に[r]
+いなけらばならない。[pcms]
 
 *3305|
 [fc]
-If so, I'd rather be with someone than alone. I want to[r]
-indulge in pleasure with someone.[pcms]
+それなら、一人でいるよりも、誰かと一緒にいたい。[r]
+誰かと快楽をむさぼっていたい。[pcms]
 
 *3306|
 [fc]
-That is... If that someone is my dearest sister... maybe[r]
-that would be happiness. Better than the pathetic[r]
-yesterday...[pcms]
+それが……。[r]
+それが、最愛の妹なら……それはそれで幸せかもしれない。[r]
+情けないだけの昨日よりは……。[pcms]
 
 *3307|
 [fc]
-I've always been happy.[pcms]
+ずっと幸せだ。[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -380,6 +381,6 @@ I've always been happy.[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

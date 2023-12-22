@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：;//〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）未明早朝
+;//・時間：５日目（８月１９日）未明～早朝
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹
 ;//時間帯：
@@ -36,96 +36,93 @@
 *3218|
 [fc]
 [vo_mar s="maru1652"]
-[ns]Margarita[nse]
-"Ah..."[pcms]
+[ns]マルガリータ[nse]
+「あ……」[pcms]
 
 *3219|
 [fc]
-As the senior stood up, she seemed to trip over her own[r]
-feet, stumbled, and was about to fall.[pcms]
+先輩は立ち上がった拍子に、足がもつれたのか、[r]
+よろめき、倒れそうになった。[pcms]
 
 *3220|
 [fc]
-[ns]Wataru[nse]
-"Maruko-senpai?"[pcms]
+[ns]航[nse]
+「マル子先輩？」[pcms]
 
 *3221|
 [fc]
-In a panic, I caught Maruko-senpai in my arms, averting a[r]
-fall, but I wonder what suddenly came over her.[pcms]
+慌ててマル子先輩を抱きかかえ事なきを得たけど、[r]
+急にどうしたんだろうか。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3222|
 [fc]
 [vo_mar s="maru1653"]
-[ns]Margarita[nse]
-"I'm sorry... I just felt a little dizzy... No need to[r]
-worry. Thank you, Wataru."[pcms]
+[ns]マルガリータ[nse]
+「す、すまない……。[r]
+　ほんの少し、目眩がしただけだ……。[r]
+　もう心配ない。ありがとう、ワタル」[pcms]
 
 *3223|
 [fc]
-She says not to worry, but Maruko-senpai's cheeks are[r]
-flushed red. It doesn't seem like she's embarrassed, more[r]
-like she has a fever.[pcms]
+心配ないとは言うけど、マル子先輩の頬が赤く染まっている。[r]
+照れてるんじゃなくて、熱があるみたいに。[pcms]
 
 *3224|
 [fc]
-[ns]Wataru[nse]
-"Senpai, could it be that you're feeling unwell?"[pcms]
+[ns]航[nse]
+「先輩、もしかして具合が悪いんじゃないですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3225|
 [fc]
 [vo_mar s="maru1654"]
-[ns]Margarita[nse]
-"No, I'm fine."[pcms]
+[ns]マルガリータ[nse]
+「いや、大丈夫だ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3226|
 [fc]
 [vo_mar s="maru1655"]
-[ns]Margarita[nse]
-"Since coming to this country, I've been leading a rather[r]
-lax life, but being thrust into such a situation all of a[r]
-sudden, it's probably just fatigue. I'm really okay..."[pcms]
+[ns]マルガリータ[nse]
+「この国に来てからしばらく、なまった生活をしていたが、[r]
+　急にこんな状況に突き落とされて、疲れが出たのだろう。[r]
+　本当に何ともな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3227|
 [fc]
 [vo_mar s="maru1656"]
-[ns]Margarita[nse]
-"Hm? You look a bit feverish yourself..."[pcms]
+[ns]マルガリータ[nse]
+「ん？　そう言うキミも熱っぽいが……」[pcms]
 
 *3228|
 [fc]
-[ns]Wataru[nse]
-"Now that you mention it, my body feels sore all over like[r]
-muscle pain... Maybe I'm out of shape..."[pcms]
+[ns]航[nse]
+「そう言えば、身体のあちこちが筋肉痛みたいで……。[r]
+　なまってるのかなあ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3229|
 [fc]
 [vo_mar s="maru1657"]
-[ns]Margarita[nse]
-"That's a lack of exercise."[pcms]
+[ns]マルガリータ[nse]
+「運動不足だな、それは」[pcms]
 ;//＠微笑みながら優しく
 
 *3230|
 [fc]
-While looking at the smiling senior, I suddenly become[r]
-worried.[pcms]
+微笑む先輩を見ながら、ふと心配になる。[pcms]
 
 *3231|
 [fc]
-If it's really just fatigue like the senior says, that would[r]
-be fine. But if she were to develop a fever at a time like[r]
-this when we can't even go to the hospital, that would be[r]
-serious...[pcms]
+本当に、先輩が言うようにただの疲れならいいんだけど。[r]
+病院にも行けないこんな時に熱でも出たら、大変だもんな……。[pcms]
 
 ;//→ジャンプ　ブロック 50550　へ
 [jump storage="50550.ks" target=*50550_TOP]

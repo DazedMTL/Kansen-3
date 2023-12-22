@@ -1,10 +1,10 @@
 ;//block:C005
-;//ブロック４２０４０『地下道漣のみ脱出編』
+;//ブロック４２０４０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42030.txtから
 
 *42040_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣
@@ -31,351 +31,354 @@
 
 *4907|
 [fc]
-We sat down in a circle in front of the DHK door.[pcms]
+ボク達はＤＨＫの扉の前で車座になって座った。[pcms]
 
 *4908|
 [fc]
-"Finally, we can rest," we were dazed for a while from the[r]
-nightmarish events we had just gone through, but the senior[r]
-reminded us, "Make sure to keep watch in either direction."[pcms]
+「やっと休める」と、今までの悪夢のような出来事を潜り抜けた[r]
+疲れにボクらはしばらく放心してたけたけど、先輩は[r]
+「ちゃんと、どちらかを見張っておくように」とクギを刺した。[pcms]
 
 *4909|
 [fc]
-Kousuke sat facing the direction we came from, while[r]
-Margarita-senpai sat facing forward, keeping watch as[r]
-everyone checked their belongings. Ren was right next to me.[pcms]
+コースケは来た方向に、マルガリータ先輩は先の方へと座って、[r]
+見張りをしながら、全員で荷物を確認している。[r]
+漣はボクのすぐ隣だ。[pcms]
 
 *4910|
 [fc]
-Everyone except Ren had not only their bags but also a[r]
-change of clothes, which was fortunate.[pcms]
+漣以外のみんなはバックはもちろんのこと、[r]
+用意のいいことに着替えまで持っていた。[pcms]
 
 *4911|
 [fc]
-Everyone had sporty clothes and uniforms for their own[r]
-reasons, but Ren didn't have those, so she was still in her[r]
-uniform.[pcms]
+みんな、それぞれの理由で、運動向きの服と制服があったけど、[r]
+漣にはそれがなかったから、制服のままだ。[pcms]
 
 *4912|
 [fc]
-Moreover, since she was in the middle of club activities,[r]
-she didn't have any luggage. All she had was her cherished[r]
-violin and its case, and a few accessories.[pcms]
+しかも、部活中だったから荷物は何も持っていない。[r]
+あるのは漣が大切にしているバイオリンとそのケースと小物だけだ。[pcms]
 
 *4913|
 [fc]
-In the midst of that chaos, she had managed to bring only[r]
-her violin, a keepsake from her mother, which she cherishes[r]
-like her mother herself.[pcms]
+あの混乱の中でも、漣のお母さんの形見で、[r]
+お母さんのように思っているバイオリンだけは[r]
+ちゃんと持ってきていた。[pcms]
 
 *4914|
 [fc]
-Kousuke had two basketball uniforms... one for the team and[r]
-a replica of a famous private team. He had plenty of changes[r]
-of clothes including jerseys, spare underwear, and his[r]
-uniform.[pcms]
+コースケはバスケのユニフォームが２着……チームのと[r]
+私服の有名チームのレプリカ。[r]
+ジャージに換えの下着に制服と、特に着替えが豊富だ。[pcms]
 
 *4915|
 [fc]
-On the other hand, he also had a comb for grooming, a[r]
-hairdryer, deodorant spray for sweat odor, towels, a music[r]
-player, sports drinks, and packed lunches.[pcms]
+逆にそれ以外は、身だしなみ用のクシやドライヤー、[r]
+汗の臭い消しスプレー。それから、タオルに音楽プレイヤー、[r]
+スポーツ飲料にお弁当くらい。[pcms]
 
 *4916|
 [fc]
-But Kousuke's clothes were too big and definitely wouldn't[r]
-fit Ren.[pcms]
+だけど、コースケの服は大きすぎて、[r]
+漣にはとてもじゃないけど着れない。[pcms]
 
 *4917|
 [fc]
-Margarita-senpai, for some reason, had a safari jacket and[r]
-safari pants as a change of clothes. Why on earth does[r]
-senpai have such clothes?[pcms]
+マルガリータ先輩は、なぜか着替えにサファリジャケットと[r]
+サファリパンツ。[r]
+いったい、どうして先輩はこんな着替えを持ってるんだろう？[pcms]
 
 *4918|
 [fc]
-She also seemed to have a book written about old Tokyo. The[r]
-map on the book's frontispiece and senpai's knowledge will[r]
-become our navigator.[pcms]
+あとは昔の東京のことが書かれた本も持ってるみたいだ。[r]
+この本の口絵の地図と先輩の知識がボクたちのナビゲータになる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4919|
 [fc]
 [vo_mar s="maru0633"]
-[ns]Margarita[nse]
-"We also have just enough lights for one each... Let's each[r]
-keep one. We might have to move underground again."[pcms]
+[ns]マルガリータ[nse]
+「明かりも、なんとか一人ひとつずつあるな……。[r]
+　各自持っておくことにしよう。[r]
+　これからも地下を移動することになるかもしれないからな」[pcms]
 
 *4920|
 [fc]
-In addition to my LED lantern, senpai had three small[r]
-lights.[pcms]
+ボクのＬＥＤの電気ランタンの他に、[r]
+先輩は小さなライトを三つも持っていた。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4921|
 [fc]
-Seeing that all the lights are different shapes, they must[r]
-all be for different purposes.[pcms]
+同じようなライトでも、形が全然違うところを見ると、[r]
+全部用途が違うものなんだろう。[pcms]
 
 *4922|
 [fc]
-Besides the lights, both senpai's digital camera and my[r]
-cellphone can also serve as lights for a short time.[pcms]
+それから、ライトじゃないけど、ボクと先輩のデジカメと[r]
+ボクのケータイも短時間なら明かりにもなる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4923|
 [fc]
 [vo_mar s="maru0634"]
-[ns]Margarita[nse]
-"We're short on water as well as food. We have enough[r]
-drinking water for one day, but after that... It's[r]
-worrying."[pcms]
+[ns]マルガリータ[nse]
+「食料もだが水分が全然足りないな。[r]
+　飲料水としてなら１日はなんとかあるが、それ以降は……。[r]
+　そうなると不安だな……」[pcms]
 
 *4924|
 [fc]
 [vo_mar s="maru0635"]
-[ns]Margarita[nse]
-"Indeed, with four people, we need quite a lot of water. It[r]
-means we can't stay underground for long..."[pcms]
+[ns]マルガリータ[nse]
+「やはり４人だと、必要な水分もかなりの量になる。[r]
+　地下に長居はできないということになるな……」[pcms]
 
 *4925|
 [fc]
-Water, the most important thing for survival, was something[r]
-everyone except Ren had in the form of sports drinks. Senpai[r]
-also had a little bit of regular water.[pcms]
+生きるうえで一番大切な水分は[r]
+漣以外の全員がスポーツ飲料を持っていた。[r]
+先輩は少しだけだけど普通の水も持っている。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4926|
 [fc]
-Still, it seems it's not nearly enough for four people.[pcms]
+それでも４人だと全然足りないらしい。[pcms]
 
 *4927|
 [fc]
-Food is even more scarce. I brought canned food and snacks[r]
-for camping. Ren made us packed lunches.[pcms]
+食料はもっと足りない。[r]
+ボクの持ってきたキャンプ用のカンヅメとお菓子。[r]
+漣の作ってくれたお弁当。[pcms]
 
 *4928|
 [fc]
-Apart from that, there were Kousuke's packed lunches. We[r]
-have to eat the packed lunches first. We never know when[r]
-they might spoil.[pcms]
+それをのぞけばコースケの持ってきてたお弁当。[r]
+お弁当は一番最初に食べないといけないな。[r]
+いつ傷むかわからないし。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4929|
 [fc]
 [vo_ren s="ren0618"]
-[ns]Ren[nse]
-"I'm sorry, Onii-chan..."[pcms]
+[ns]漣[nse]
+「ごめんね、お兄ちゃん……」[pcms]
 
 *4930|
 [fc]
-[ns]Wataru[nse]
-"Why are you apologizing, Ren?"[pcms]
+[ns]航[nse]
+「どうして謝るんだ漣？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4931|
 [fc]
 [vo_ren s="ren0619"]
-[ns]Ren[nse]
-"Because I... didn't bring anything that seems useful.[r]
-And... that..."[pcms]
+[ns]漣[nse]
+「だって、私……なにも役に立ちそうなものを持ってこなかったし。[r]
+　それに……その……」[pcms]
 
 *4932|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *4933|
 [fc]
 [vo_ren s="ren0620"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 
 *4934|
 [fc]
-Ren remained silent with her head down. She probably wanted[r]
-to say "I'm just a burden" but got scared and couldn't say[r]
-it.[pcms]
+漣はうつむいたままでだまってしまった。[r]
+きっと『足手まとい』と言おうとしたけど……[r]
+怖くなって、そうは言えなかったんだろう。[pcms]
 
 *4935|
 [fc]
-[ns]Wataru[nse]
-"...Thank you, Ren"[pcms]
+[ns]航[nse]
+「……ありがとう漣」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4936|
 [fc]
 [vo_ren s="ren0621"]
-[ns]Ren[nse]
-"Eh...?"[pcms]
+[ns]漣[nse]
+「えっ……？」[pcms]
 
 *4937|
 [fc]
-Ren is surprised by my words.[pcms]
+ボクの言葉に漣は驚く。[pcms]
 
 *4938|
 [fc]
-[ns]Wataru[nse]
-"Thank you for the packed lunch... Because you made it, we[r]
-can all share and eat together, right?"[pcms]
+[ns]航[nse]
+「お弁当ありがとう……。[r]
+　だって、漣がお弁当を作ってくれたから、[r]
+　みんなで分けて食べられるんじゃないか……」[pcms]
 
 *4939|
 [fc]
-[ns]Wataru[nse]
-"If it was only Kousuke's packed lunch, even if we shared[r]
-it, there wouldn't be enough... This is all thanks to you[r]
-always making packed lunches for us."[pcms]
+[ns]航[nse]
+「コースケのお弁当だけだったら、[r]
+　分けるにしても量が少なすぎるし……。[r]
+　これも普段から、漣がお弁当を作ってくれてるおかげだよ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4940|
 [fc]
 [vo_ren s="ren0622"]
-[ns]Ren[nse]
-"Onii-chan..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4941|
 [fc]
-[ns]Kousuke[nse]
-"Wataru is lucky... to have such a well-behaved and cute[r]
-sister like Ren-chan... who makes lunch every day..."[pcms]
+[ns]浩助[nse]
+「ワタルはいいよな～。[r]
+　漣ちゃんみたいな、よくできたかわいい妹がいて……。[r]
+　毎日、弁当を作ってもらえて……」[pcms]
 
 *4942|
 [fc]
-[ns]Wataru[nse]
-"Are you jealous? Kousuke?"[pcms]
+[ns]航[nse]
+「うらやましい？　コースケ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4943|
 [fc]
-[ns]Kousuke[nse]
-"Of course I am!!"[pcms]
+[ns]浩助[nse]
+「あたりまえだろっ！！」[pcms]
 
 *4944|
 [fc]
-Kousuke messes up my hair with his hand. He's back to his[r]
-usual self.[pcms]
+コースケはボクの頭をぐりぐりとやる。[r]
+いつもの調子だ。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4945|
 [fc]
 [vo_ren s="ren0623"]
-[ns]Ren[nse]
-"...Ufufufu..."[pcms]
+[ns]漣[nse]
+「……うふふふっ……」[pcms]
 
 *4946|
 [fc]
-A smile has returned to Ren's face before I knew it.[pcms]
+漣の顔にもいつの間にか笑顔が戻った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4947|
 [fc]
-[ns]Kousuke[nse]
-"That's right... Ren-chan looks best when she's smiling like[r]
-that..."[pcms]
+[ns]浩助[nse]
+「そうそう……。[r]
+　漣ちゃんはそうやって、笑ってるのが一番いいんだから……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4948|
 [fc]
 [vo_ren s="ren0624"]
-[ns]Ren[nse]
-"...Kou-chan..."[pcms]
+[ns]漣[nse]
+「……コーちゃんったら……」[pcms]
 
 *4949|
 [fc]
-Ren's face turns red as if she's embarrassed.[pcms]
+漣は照れているのか顔を赤くしている。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4950|
 [fc]
 [vo_ren s="ren0625"]
-[ns]Ren[nse]
-"...Ah...!"[pcms]
+[ns]漣[nse]
+「……あ……っ……」[pcms]
 ;//＠少し苦しそうに
 
 *4951|
 [fc]
-...No! This is...[pcms]
+……ちがうっ！[r]
+これは……。[pcms]
 
 *4952|
 [fc]
-[ns]Wataru[nse]
-"Ren...?"[pcms]
+[ns]航[nse]
+「漣……？」[pcms]
 
 *4953|
 [fc]
-I press my forehead against Ren's forehead.[pcms]
+ボクは漣の額に自分の額を合わせる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4954|
 [fc]
 [vo_ren s="ren0626"]
-[ns]Ren[nse]
-"Onii...chan..."[pcms]
+[ns]漣[nse]
+「お兄……ちゃん……」[pcms]
 
 *4955|
 [fc]
-[ns]Wataru[nse]
-"You're hot... You have a fever... don't you, Ren"[pcms]
+[ns]航[nse]
+「熱い……。[r]
+　熱があるじゃないか……漣」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4956|
 [fc]
 [vo_ren s="ren0627"]
-[ns]Ren[nse]
-"I'm okay... It's just a little bit..."[pcms]
+[ns]漣[nse]
+「大丈夫だよ……。[r]
+　ちょっとだけ、だから……」[pcms]
 
 *4957|
 [fc]
-[ns]Wataru[nse]
-"Just a little... why..."[pcms]
+[ns]航[nse]
+「ちょっとだけって……なんで……」[pcms]
 
 *4958|
 [fc]
-"Why didn't you tell me?" I start to say, but then I close[r]
-my mouth. It's not that she didn't tell me... she couldn't[r]
-say it.[pcms]
+「言わなかったんだ？」と言いかけて、[r]
+ボクは口をつぐんでしまう。言わなかったんじゃない。[r]
+……言えなかったんだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4959|
 [fc]
 [vo_mar s="maru0636"]
-[ns]Margarita[nse]
-"For now, make sure your sister gets some fluids..."[pcms]
+[ns]マルガリータ[nse]
+「とりあえず、妹さんに水分を……」[pcms]
 
 *4960|
 [fc]
-[ns]Wataru[nse]
-"Yes, I understand..."[pcms]
+[ns]航[nse]
+「はいっ、わかってます……」[pcms]
 
 *4961|
 [fc]
-I take out my half-finished sports drink.[pcms]
+ボクは自分の飲みかけのスポーツドリンクをとりだす。[pcms]
 
 *4962|
 [fc]
 [vo_mar s="maru0637"]
-[ns]Margarita[nse]
-"Wait a moment..."[pcms]
+[ns]マルガリータ[nse]
+「ちょっと待ってくれ……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -388,39 +391,40 @@ I take out my half-finished sports drink.[pcms]
 *4963|
 [fc]
 [vo_mar s="maru0638"]
-[ns]Margarita[nse]
-"It would be better if it were chilled... This should still[r]
-be somewhat cold."[pcms]
+[ns]マルガリータ[nse]
+「冷えていたほうがいいだろう……。[r]
+　これならまだ、いくらか冷たい」[pcms]
 
 *4964|
 [fc]
-[ns]Wataru[nse]
-"Y-Yes..."[pcms]
+[ns]航[nse]
+「は、はい……」[pcms]
 
 ;//se060・液体を注ぐ
 [se buf=0 storage="se060"]
 
 *4965|
 [fc]
-[ns]Wataru[nse]
-"Thank you very much."[pcms]
+[ns]航[nse]
+「ありがとうございます」[pcms]
 
 *4966|
 [fc]
-Senpai pours from her thermos and hands it to me. I take the[r]
-sports drink and bring it to Ren's lips.[pcms]
+先輩が魔法瓶の水筒から注いで、さしだしてくれた。[r]
+スポーツドリンクを受けとって、漣の口元に運ぶ。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4967|
 [fc]
 [vo_ren s="ren0628"]
-[ns]Ren[nse]
-"Thank you. Margarita-senpai..."[pcms]
+[ns]漣[nse]
+「ありがとうございます。[r]
+　マルガリータ先輩……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru0639"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「気にするな。
 ;//　たまたま持っていただけだ。
 ;//　それに時間が経てば、ぬるくなるだけだしな」
@@ -428,118 +432,121 @@ sports drink and bring it to Ren's lips.[pcms]
 *4968|
 [fc]
 [vo_mar s="maru0640"]
-[ns]Margarita[nse]
-"It shouldn't be too cold. Too much chill isn't good for the[r]
-body either. This should be just the right temperature..."[pcms]
+[ns]マルガリータ[nse]
+「そんなには冷えてないはずだ。[r]
+　まあ、冷えすぎては身体に悪いしな。[r]
+　これなら、ちょうどいい頃合のはずだ……」[pcms]
 
 ;//セリフ変更
 
 *4969|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はい……」[pcms]
 
 *4970|
 [fc]
-I nod at Senpai's words while letting Ren drink.[pcms]
+ボクは先輩の言葉にうなずきながら、漣に飲ませる。[pcms]
 
 *4971|
 [fc]
-[ns]Wataru[nse]
-"Here you go, Ren..."[pcms]
+[ns]航[nse]
+「さあ、漣……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a14"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4972|
 [fc]
 [vo_ren s="ren0629"]
-[ns]Ren[nse]
-"Mhm..."[pcms]
+[ns]漣[nse]
+「うん……」[pcms]
 
 ;//se061・コクコクと飲む
 [se buf=0 storage="se061"]
 
 *4973|
 [fc]
-Ren swallows quietly, drinking the sports drink.[pcms]
+漣は小さく喉を鳴らして、スポーツドリンクを飲んでいる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4974|
 [fc]
 [vo_mar s="maru0641"]
-[ns]Margarita[nse]
-"It's good that we took a break... You seemed a bit off[r]
-earlier too. Maybe your sister caught a cold?"[pcms]
+[ns]マルガリータ[nse]
+「休憩していて良かったな……。[r]
+　さっきも調子が悪かったようだし、[r]
+　妹さんは風邪でも引いていたのかな？」[pcms]
 
 *4975|
 [fc]
-[ns]Wataru[nse]
-"No, she often gets fevers..."[pcms]
+[ns]航[nse]
+「いえ、よく熱を出す方なので……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4976|
 [fc]
 [vo_ren s="ren0630"]
-[ns]Ren[nse]
-"I'm fine. ...I'll get better after resting a bit..."[pcms]
+[ns]漣[nse]
+「大丈夫です。[r]
+　……少し休めば、すぐに良くなりますから……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4977|
 [fc]
 [vo_mar s="maru0642"]
-[ns]Margarita[nse]
-"I see..."[pcms]
+[ns]マルガリータ[nse]
+「そうか……」[pcms]
 
 *4978|
 [fc]
-Senpai says just that before looking around.[pcms]
+先輩は、それだけ言ってから、辺りを見回した。[pcms]
 
 *4979|
 [fc]
 [vo_mar s="maru0643"]
-[ns]Margarita[nse]
-"...Anyway, Wataru, you were carrying quite a lot of[r]
-stuff..."[pcms]
+[ns]マルガリータ[nse]
+「……それにしても、[r]
+　随分とワタルは荷物を持っていたんだな……」[pcms]
 
 *4980|
 [fc]
-[ns]Wataru[nse]
-"Today was the Astronomy Club's camp..."[pcms]
+[ns]航[nse]
+「今日は、天文学同好会のキャンプだったんです……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4981|
 [fc]
-[ns]Kousuke[nse]
-"You must have been desperate. Normally, Wataru would have[r]
-given up immediately with that amount of luggage..."[pcms]
+[ns]浩助[nse]
+「よっぽど、必死だったんだな。[r]
+　普段のワタルなら、すぐに音をあげること[r]
+　間違いなしの量の荷物だし……」[pcms]
 
 *4982|
 [fc]
-[ns]Wataru[nse]
-"I'm surprised at myself too."[pcms]
+[ns]航[nse]
+「自分でもびっくりしているよ」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4983|
 [fc]
-While saying that, I rummage through the luggage with one[r]
-hand while holding Ren with the other.[pcms]
+そう言いながらボクは、漣を片手で抱きながら荷物をあさる。[pcms]
 
 *4984|
 [fc]
-Various medicines, trash bags, dishes, knives, towels,[r]
-radios... Even a "cooling sheet" that feels cool when you[r]
-put it on.[pcms]
+各種薬品にゴミ袋、食器に刃物、タオル、ラジオ……。[r]
+かけると涼しくなる『ひんやりシーツ』なんてものもある。[pcms]
 
 *4985|
 [fc]
-[ns]Wataru[nse]
-"That's right! I had this..."[pcms]
+[ns]航[nse]
+「そうだ！[r]
+　これがあった……」[pcms]
 
 ;//se062・ナイロン袋を破る
 [se buf=0 storage="se062"]
@@ -550,110 +557,113 @@ put it on.[pcms]
 
 *4986|
 [fc]
-I unwrap the package and drape the cooling sheet over Ren.[pcms]
+ボクは包装をあけると、ひんやりシーツを漣にかけてやる。[pcms]
 
 *4987|
 [fc]
-[ns]Wataru[nse]
-"How is it? Ren?"[pcms]
+[ns]航[nse]
+「どう？　漣？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4988|
 [fc]
 [vo_ren s="ren0631"]
-[ns]Ren[nse]
-"Ah... it's cold and feels nice... Onii-chan..."[pcms]
+[ns]漣[nse]
+「あっ……冷たくてキモチいいよ……。[r]
+　お兄ちゃん……」[pcms]
 
 *4989|
 [fc]
-[ns]Wataru[nse]
-"That's good... thank goodness..."[pcms]
+[ns]航[nse]
+「そうか……。[r]
+　よかった……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4990|
 [fc]
 [vo_mar s="maru0644"]
-[ns]Margarita[nse]
-"I see... a cooling sheet. Japan really is a country of[r]
-technology... There are such unexpectedly convenient[r]
-things."[pcms]
+[ns]マルガリータ[nse]
+「なるほど……冷えるシーツか。[r]
+　さすが、日本は技術立国だな……。[r]
+　思いも寄らない便利なものがある」[pcms]
 
 *4991|
 [fc]
-Senpai seems impressed.[pcms]
+先輩はなんだか感心している。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4992|
 [fc]
-I roll up some towels to make a makeshift pillow for Ren's[r]
-head. Then I wrap a towel blanket around her like a belly[r]
-band to keep her stomach warm.[pcms]
+ボクはタオルなんかを丸めて、適当に枕を作ると漣の頭の下に。[r]
+それから、お腹を冷やさないように腹巻のように[r]
+タオルケットを巻いてやる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4993|
 [fc]
 [vo_ren s="ren0632"]
-[ns]Ren[nse]
-"...Thank you, Onii-chan..."[pcms]
+[ns]漣[nse]
+「……ありがとう、お兄ちゃん……」[pcms]
 
 *4994|
 [fc]
-[ns]Wataru[nse]
-"Don't mention it..."[pcms]
+[ns]航[nse]
+「気にするなよ……」[pcms]
 
 *4995|
 [fc]
-I say this while touching Ren's forehead. It seems her fever[r]
-has gone down a bit.[pcms]
+ボクは漣の額に手を当てながら言った。[r]
+熱は少し下がったみたいだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *4996|
 [fc]
 [vo_mar s="maru0645"]
-[ns]Margarita[nse]
-"You should rest easy. In the meantime, we will try various[r]
-things... Surely, there will be good news by the time you[r]
-wake up."[pcms]
+[ns]マルガリータ[nse]
+「キミはゆっくりと休むといい。[r]
+　その間にワタシたちは色々と試してみる。[r]
+　……きっと、起きた時にはいい知らせができるだろう」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4997|
 [fc]
 [vo_ren s="ren0633"]
-[ns]Ren[nse]
-"Yes..."[pcms]
+[ns]漣[nse]
+「はい……」[pcms]
 
 *4998|
 [fc]
-Ren closes her eyes at Senpai's words.[pcms]
+漣は先輩の言葉に目を閉じた。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *4999|
 [fc]
-[ns]Wataru[nse]
-"Thank you very much. Margarita-senpai..."[pcms]
+[ns]航[nse]
+「本当にありがとうございます。[r]
+　マルガリータ先輩……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5000|
 [fc]
 [vo_mar s="maru0646"]
-[ns]Margarita[nse]
-"I keep telling you not to worry about it... And besides,[r]
-you really do seem like a good brother."[pcms]
+[ns]マルガリータ[nse]
+「気にするなと言っているのに……。[r]
+　……それにしても、キミは本当にいい兄のようだな」[pcms]
 
 *5001|
 [fc]
-Gripping the mop that I've been using as a weapon since we[r]
-escaped the school, I blush at Senpai's words.[pcms]
+学園を脱出した時からずっと武器にしているモップを握りながら[r]
+そう言った先輩の言葉に、ボクはまた、照れくさかった。[pcms]
 
 ;//→ブロック４２０５０へ
 [jump storage="42050.ks" target=*42050_TOP]

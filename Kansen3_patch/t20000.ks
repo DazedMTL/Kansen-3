@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）昼
+;//・時間帯：５日目（８月１９日）昼～
 ;//---------------------------------------------------------------
 ;//block:A001
 
@@ -19,18 +19,17 @@
 
 *6078|
 [fc]
-And so, dinner came to an end.[pcms]
+こうして夕食も終わり。[pcms]
 
 *6079|
 [fc]
-There was a lot going on, but the shabu-shabu was[r]
-delicious...[pcms]
+いろいろあったけど、しゃぶしゃぶは美味しかった……。[pcms]
 
 *6080|
 [fc]
-Today, Kousuke and I took on the task of cleaning up again,[r]
-and throughout washing the dishes, I was endlessly subjected[r]
-to apologies, excuses, and lovey- dovey stories...[pcms]
+今日も後片付けを引き受けたのは、ボクとコースケで、[r]
+洗い物をしている間中、[r]
+謝罪と言いわけとノロケ話を延々聞かされてしまった……。[pcms]
 
 ;//〆ＤＪバー　メインドーム（夕方）
 [bg storage="BG019b"][trans_c cross time=500]
@@ -38,240 +37,228 @@ to apologies, excuses, and lovey- dovey stories...[pcms]
 
 *6081|
 [fc]
-When the cleanup was finished and I returned to the DJ Bar,[r]
-no one was there. Everyone must be in their own favorite[r]
-spots by now.[pcms]
+片づけが終わってＤＪバーに戻ると、誰もいなかった。[r]
+みんなそれぞれ、思い思いの場所にいるんだろう。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6082|
 [fc]
-[ns]Kousuke[nse]
-"...Well then, I'm gonna go see Mizuki. She must be feeling[r]
-out of placeor rather, embarrassedso I gotta be by her[r]
-side."[pcms]
+[ns]浩助[nse]
+「……んじゃ、オレ、瑞樹んとこ行くわ。[r]
+　あいつもいたたまれないってーか、恥ずかしいだろうから[r]
+　傍にいてやらないとな」[pcms]
 
 *6083|
 [fc]
-[ns]Wataru[nse]
-"Make sure you get along in moderation this time."[pcms]
+[ns]航[nse]
+「今度は、ほどほどに仲良くね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6084|
 [fc]
-[ns]Kousuke[nse]
-"Hahaha... I know, I know."[pcms]
+[ns]浩助[nse]
+「はははは……、分かってるって」[pcms]
 
 *6085|
 [fc]
-Kousuke quickly left while making a call on his cell phone.[pcms]
+コースケはさっそく携帯をかけながら行ってしまった。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *6086|
 [fc]
-[ns]Wataru[nse]
-"...Oh, is it starting?"[pcms]
+[ns]航[nse]
+「……あ、始まるのかな」[pcms]
 
 *6087|
 [fc]
-The TV, which was left on so that we could always catch the[r]
-broadcast, had just started playing the music that signals[r]
-the news.[pcms]
+いつでも放送に気がつくよう、点けっぱなしにしてあるテレビでは[r]
+ちょうどニュースを知らせる音楽が鳴り始めていた。[pcms]
 
 *6088|
 [fc]
-I sat down in the front row, the best seat, and waited for[r]
-the screen to come alive.[pcms]
+ボクは正面の特等席に座り込んで画面が映るのを待つ。[pcms]
 
 *6089|
 [fc]
-[ns]Announcer[nse]
-"...Good evening, we will now provide information related to[r]
-the disaster."[pcms]
+[ns]アナウンサー[nse]
+「……こんばんは、災害関連の情報についてお伝えいたします」[pcms]
 
 *6090|
 [fc]
-Facing the camera were the usual male announcer and a male[r]
-commentator with a beard and an eyepatch.[pcms]
+カメラに向かっているのは、[r]
+相変わらず同じ男性アナウンサーと[r]
+髭に眼帯のコメンテーター男性のコンビだった。[pcms]
 
 *6091|
 [fc]
-[ns]Announcer[nse]
-"First, the main topics we will cover today are as follows:[r]
-Information on the movement of infected individuals, effects[r]
-of the virus, aid-related information, and news from various[r]
-countries in that order."[pcms]
+[ns]アナウンサー[nse]
+「まず、本日お伝えする主な項目は、こちらです。[r]
+　感染者の移動情報、ウィルスの効果について、[r]
+　援助物資関連の情報、そして各国からのニュースの順番です」[pcms]
 
 *6092|
 [fc]
-[ns]Announcer[nse]
-"Now, first up is the latest information regarding the[r]
-movement of infected individuals."[pcms]
+[ns]アナウンサー[nse]
+「さて、まず最初は[r]
+　感染者の移動に関する最新情報をお伝えします」[pcms]
 
 *6093|
 [fc]
-[ns]Announcer[nse]
-"Initially, there was a tendency for infected individuals to[r]
-move from urban to suburban areas, but now groups have been[r]
-confirmed moving back from the suburbs to urban areas. What[r]
-does this mean?"[pcms]
+[ns]アナウンサー[nse]
+「当初、都市部から郊外へと移動する傾向のあった感染者ですが[r]
+　郊外より都市部に逆流するグループがいくつか確認されました。[r]
+　これは一体、どういったことを意味しているのでしょう？」[pcms]
 
 *6094|
 [fc]
-[ns]Commentator[nse]
-"It is believed that this is likely due to a shortage of[r]
-food. Food... meaning... it's becoming difficult for them to[r]
-attack humans. That's what it comes down to."[pcms]
+[ns]コメンテーター[nse]
+「恐らくは食料不足が原因ではないかと考えられています。[r]
+　食料……つまり……人間を襲うのが困難になってきた、と。[r]
+　そういうことになるんですが」[pcms]
 
 *6095|
 [fc]
-The commentator fidgeted and struggled to say something[r]
-shocking.[pcms]
+コメンテーターはもぞもぞと身体を揺すりながら、[r]
+言いにくそうに衝撃的なことを発言している。[pcms]
 
 *6096|
 [fc]
-The announcer flinched for a moment but, being a[r]
-professional, quickly pulled out a flip chart and began to[r]
-methodically report on the confirmed routes taken by groups[r]
-of infected individuals.[pcms]
+アナウンサーは一瞬たじろいだものの、そこはプロ、[r]
+すかさずフリップを出して、確認された感染者集団の移動経路を[r]
+事務的に伝え始めた。[pcms]
 
 *6097|
 [fc]
-[ns]Wataru[nse]
-"Food, huh..."[pcms]
+[ns]航[nse]
+「食料、か……」[pcms]
 
 *6098|
 [fc]
-For those of us who have survived, securing food is[r]
-literally a matter of life and death. It's somewhat ironic[r]
-that the infected are facing the same food issues...[pcms]
+生き残った人間にとって食料の確保は文字通り死活問題だ。[r]
+感染者たちに同じ食料問題が発生しているなんて[r]
+なんだか皮肉な話だな……。[pcms]
 
 *6099|
 [fc]
-The program continued to report one after another on topics[r]
-such as experiments verifying the virus that had no effect[r]
-at all and information about aid supplies.[pcms]
+番組では、従来ウィルスの検証実験で全く効果が出なかったことや[r]
+援助物資の話やなんかを次々に伝えている。[pcms]
 
 *6100|
 [fc]
-Countries overseas are also rushing to take measures to[r]
-prevent a global spread of infection like bird flu, as[r]
-infections have been confirmed in migratory birds, rather[r]
-than focusing on aid.[pcms]
+海外の国々も、渡り鳥への感染が確認されたことから、[r]
+援助よりもむしろ、鳥インフルエンザのような世界規模の[r]
+感染拡大を防ぐ対策のほうを急いでいるようだ。[pcms]
 
 *6101|
 [fc]
-[ns]Wataru[nse]
-"I wonder if any help will come in a situation like this..."[pcms]
+[ns]航[nse]
+「こんな状況で救援なんか来るのかな……」[pcms]
 
 *6102|
 [fc]
-Every country would prioritize their own safety if they were[r]
-honest. International aid works because there is peace... If[r]
-infection spreads worldwide, that won't be the case[r]
-anymore...?[pcms]
+どの国だって本音を言えば自国の安全が最優先だ。[r]
+国際援助は、平和だから成り立つわけで……、[r]
+世界中に感染が広がったら、それどころじゃなくなる……？[pcms]
 
 *6103|
 [fc]
-[ns]Announcer[nse]
-"...Now we will go live to various locations. First up,[r]
-please hear from reporter Morimoto on Miyake Island."[pcms]
+[ns]アナウンサー[nse]
+「……それでは各地からの中継です。[r]
+　まずは三宅島の森本記者からお願いします」[pcms]
 
 *6104|
 [fc]
-As I was deep in thought, the relay broadcast began on TV.[r]
-Several broadcasting stations were called upon, but there[r]
-seemed to be fewer than when I last saw the news.[pcms]
+考え込んでいるうちに、テレビでリレー中継が始まった。[r]
+いくつもの放送局が呼び出されていくけれど、[r]
+前にニュースで見た時よりも数が少ない。[pcms]
 
 *6105|
 [fc]
-It would be fine if they're just skipping some due to time[r]
-constraints, but what if they're already in a state where[r]
-they can't even broadcast...?[pcms]
+時間の都合で飛ばしてるだけならいいけど、[r]
+もし、もう中継さえできない状態なんだとしたら……？[pcms]
 
 *6106|
 [fc]
-[ns]Wataru[nse]
-"...I wonder if Dad is okay..."[pcms]
+[ns]航[nse]
+「……父さんは大丈夫かな……」[pcms]
 
 *6107|
 [fc]
-As I worried, the name "Nezumi Kingdom" was called out.[pcms]
+心配していると、ネズミーキングダムの名前が呼ばれた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="otousan1"][ChrSetXY layer=5 x=141 y=0][trans_c cross time=150]
 
 *6108|
 [fc]
-[ns]Father[nse]
-"This is a shelter in Nezumi Kingdom. Today's weather was[r]
-good and the air currents were stable, so supply drops were[r]
-carried out from the afternoon..."[pcms]
+[ns]父[nse]
+「こちら、ネズミーキングダムの避難所です。[r]
+　今日は天候が良く、気流の状態も安定していたため[r]
+　午後から補給物資の投下が行われました……」[pcms]
 
 *6109|
 [fc]
-Dad... he's doing his best... It was still just an audio[r]
-broadcast, but it's relieving to confirm he's safe.[pcms]
+父さん……、頑張ってるんだ……。[r]
+相変わらず音声だけの中継だったけど、[r]
+無事が確認できるとホッとする。[pcms]
 
 *6110|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *6111|
 [fc]
-Since then, I haven't received any reply to my emails from[r]
-Dad. There must have been some trouble like breaking or[r]
-losing his cell phone.[pcms]
+あれからずっと父さんからはメールの返事がない。[r]
+やっぱり携帯を壊すとか紛失するとか、[r]
+何かのトラブルがあったんだろうな。[pcms]
 
 *6112|
 [fc]
-I really want to exchange personal information via email...[r]
-But with people not knowing their family's safety, maybe[r]
-that's too much to ask for...[pcms]
+ホントはメールで連絡を取り合って[r]
+個人的な情報交換もしたいけど……。[r]
+家族の安否が分からない人もいるのに、贅沢な望みかな……。[pcms]
 
 *6113|
 [fc]
-After reporting several pieces of information, the broadcast[r]
-returned to the studio and then switched to the usual scenic[r]
-photos.[pcms]
+中継がスタジオに戻り、いくつかの情報が伝えられたあとで[r]
+画面はいつもの風景写真に切り替わった。[pcms]
 
 *6114|
 [fc]
-[ns]Wataru[nse]
-"...Well then..."[pcms]
+[ns]航[nse]
+「……さて、と……」[pcms]
 
 *6115|
 [fc]
-Dinner was a bit early today, so there's still some twilight[r]
-left in the sky. It seems there's still plenty of time until[r]
-nightfall...[pcms]
+今日は少し早めの夕食だったから、空には夕焼けが残っている。[r]
+夜までは、まだまだ時間があるみたいだけど……。[pcms]
 
 *6116|
 [fc]
-What should I do now?[pcms]
+どうしようかな？[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１
-;//１１：屋上に行こう→T30000
-;//１２：部屋にいこう→T40000
-;//１３：「ででっぽう」に行こう→T50000
+;//●選択肢Ａ－１
+;//１－１：屋上に行こう→T30000
+;//１－２：部屋にいこう→T40000
+;//１－３：「ででっぽう」に行こう→T50000
 
 
 ;	[link storage="T30000.ks" target=*T30000_TOP]屋上に行こう[endlink]
 ;	[link storage="T40000.ks" target=*T40000_TOP]部屋に行こう[endlink]
-;       (link storage="T50000.ks" target=*T50000_TOP)Let's[r]
-go to "Dedepou."(endlink)[pcms]
+;	[link storage="T50000.ks" target=*T50000_TOP]「ででっぽう」に行こう[endlink][s]
 
 *SEL68|屋上に行こう／部屋に行こう／「ででっぽう」に行こう
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Let\'s go to the rooftop'"]
-[eval exp="f.seltext04 = 'Let\'s go to the room'"]
-[eval exp="f.seltext06 = 'Let\'s go to the Depot'"]
+[eval exp="f.seltext02 = '屋上に行こう'"]
+[eval exp="f.seltext04 = '部屋に行こう'"]
+[eval exp="f.seltext06 = '「ででっぽう」に行こう'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

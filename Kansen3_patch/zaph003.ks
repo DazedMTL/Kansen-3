@@ -25,70 +25,71 @@
 
 *4090|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ugyaaaahhhhhhhhh!?! It hurts so muchhhhh!!!![r]
-Guahhhhhhhhhhhh!!!"[pcms]
+[ns]重吉[nse]
+「うぎゃぁああぁあぁあぁあぁあぁぁあ！！！？？[r]
+　いでぇよぉおおぁあぁあぁ！！！！[r]
+　ぐあぁああああああああぁぁぁあ！！！」[pcms]
 
 *4091|
 [fc]
-Blood spurts from where Shigeyoshi's right hand fingers used[r]
-to be, as he lets out a beast-like roar.[pcms]
+右手の指があった部分から血を噴き出させ、[r]
+重吉が獣のような雄叫びを上げている。[pcms]
 
 *4092|
 [fc]
-Writhing in agony, Shigeyoshi rolls on the floor,[r]
-splattering blood everywhere.[pcms]
+悶絶する重吉は、血を巻き散らしながら、[r]
+床を転がっている。[pcms]
 
 *4093|
 [fc]
 [vo_yuh s="yuho1439"]
-[ns]Yuuho[nse]
-"Haa... Haa..."[pcms]
+[ns]悠帆[nse]
+「はあっ……はあっ……」[pcms]
 ;//＠重吉の血と雄叫びに恐怖し、興奮で息が上がっている。
 
 *4094|
 [fc]
-I was captured by Shigeyoshi and brought to this place... a[r]
-luxury hotel room near the top floor of the Celesta Tower.[pcms]
+わたしは重吉に捕まり、この場所……セレスタワー最上階に近い、[r]
+高級ホテルの一室に連れてこられた。[pcms]
 
 *4095|
 [fc]
-Shigeyoshi's hand had suddenly burst while he was fighting[r]
-with Wataru and his men, so they returned to this place for[r]
-treatment.[pcms]
+航達と争っていた重吉の手が突然ハジけとんだので[r]
+その手当のために、部下を引き連れてこの場所へと[r]
+戻ってきていた。[pcms]
 
 *4096|
 [fc]
-Shigeyoshi screams, surrounded by his henchmen. I was[r]
-sitting a little distance away, slumped over.[pcms]
+叫ぶ重吉と、周りを取り囲む手下達。[r]
+わたしは、少し離れた場所にへたり込んでいた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4097|
 [fc]
-[ns]Shigeyoshi[nse]
-"Drugs... Drugs and alcohol! Bring them quickly![r]
-Ughhhhhhhhhh!!!"[pcms]
+[ns]重吉[nse]
+「クスリ……クスリと酒だ！[r]
+　早く持ってこい！　うがぁあぁぁぁぁぁ！！」[pcms]
 
 *4098|
 [fc]
-[ns]Henchman A[nse]
-"Y-Yes! Hurry up!"[pcms]
+[ns]手下Ａ[nse]
+「は、はいっ！　早くしろ！」[pcms]
 
 *4099|
 [fc]
 [vo_mob s="mini0001"]
-[ns]Woman A[nse]
-"Please bear with it, Shigeyoshi-san... I'm going to insert[r]
-the needle..."[pcms]
+[ns]女Ａ[nse]
+「が、我慢して下さいね、重吉さん……針刺しますから……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4100|
 [fc]
-[ns]Shigeyoshi[nse]
-"Guahhhhhh! You! Who do you think I am! Be more gentle, you[r]
-damn bitchhh!!! Gyiiiiii!!! Cut the crap, damn it!"[pcms]
+[ns]重吉[nse]
+「ぐあぁあぁあぁあっ！　テメェ！　俺様を誰だと思ってるんだ！[r]
+　もっと優しくしやがれこのクソアマがぁっ！！[r]
+　ぎぃいいいっ！！！　いい加減にしろクソが！」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -98,145 +99,145 @@ damn bitchhh!!! Gyiiiiii!!! Cut the crap, damn it!"[pcms]
 
 *4101|
 [fc]
-[ns]Woman A[nse]
-"Gyah! Ah... gafu..."[pcms]
+[ns]女Ａ[nse]
+「ぎゃっ！　あ……がふっ……」[pcms]
 ;//＠銃弾を受け、死亡
 
 *4102|
 [fc]
-The gun Shigeyoshi was holding spews flames of irrational[r]
-anger at the girl treating him. The flames that pierced[r]
-through the girl's chest easily snatched away her life.[pcms]
+重吉が持っていた銃が、治療に当たっていた女の子に対し理不尽な[r]
+怒りの炎を吐き出す。[r]
+女の子の胸を貫いた炎は、いとも容易くその命を奪った。[pcms]
 
 *4103|
 [fc]
 [vo_yuh s="yuho1440"]
-[ns]Yuuho[nse]
-"Kyaaaahhhhhh!"[pcms]
+[ns]悠帆[nse]
+「きゃああぁあああぁっ！」[pcms]
 ;//＠目の前で人が射殺され、驚愕の悲鳴
 
 *4104|
 [fc]
 [vo_mob s="pank0001"]
-[ns]Woman B[nse]
-"Noooaaaahhhhhhhh!!!"[pcms]
+[ns]女Ｂ[nse]
+「いやぁああぁああぁぁああああぁぁ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4105|
 [fc]
-[ns]Shigeyoshi[nse]
-"Don't scream!! It echoes, damn it!! Hurry up and do[r]
-something about this blood!! Ugh..."[pcms]
+[ns]重吉[nse]
+「叫ぶんじゃねぇ！！　響くだろうがッ！！[r]
+　早くこの血ィ、何とかしてくれぇぇぇ！！[r]
+　ウゥ……」[pcms]
 
 *4106|
 [fc]
 [vo_mob s="pank0002"]
-[ns]Woman B[nse]
-"Please stay still, Shigeyoshi-san! If you thrash too[r]
-much... the blood..."[pcms]
+[ns]女Ｂ[nse]
+「重吉さん、じっとしてて下さい！[r]
+　あまり暴れると……血が……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4107|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ah, ahh... guh... kuhahh... It seems to be taking effect at[r]
-last... aguh..."[pcms]
+[ns]重吉[nse]
+「あ、ああ……ぐぅっ……くっぁあっ……。[r]
+　やっと効いてきたみてぇだ……あぐっ……」[pcms]
 
 *4108|
 [fc]
-Shigeyoshi, who had been rampaging until now, suddenly[r]
-calmed down like an animal hit by a tranquilizer dart on TV.[pcms]
+それまで大暴れしていた重吉は、テレビで見た、麻酔銃を受けた[r]
+動物の様に、急に大人しくなっていった。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *4109|
 [fc]
-[ns]Henchman A[nse]
-"What should we do..."[pcms]
+[ns]手下Ａ[nse]
+「どうするよ……」[pcms]
 
 *4110|
 [fc]
-[ns]Henchman B[nse]
-"Ah, ahh... for now, we've got no choice but to let him lie[r]
-down..."[pcms]
+[ns]手下Ｂ[nse]
+「あ、ああ……とりあえず、寝かせて置くしかねぇだろ……」[pcms]
 
 *4111|
 [fc]
-[ns]Henchman A[nse]
-"Right... You, keep an eye on Shigeyoshi-san! If anything[r]
-happens, call us... Got it?"[pcms]
+[ns]手下Ａ[nse]
+「そうだな……。お前、重吉さん見てろよ！？[r]
+　何かあったら、俺らを呼べ……判ったな？」[pcms]
 
 *4112|
 [fc]
 [vo_yuh s="yuho1441"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「…………」[pcms]
 ;//＠無言で頷く
 
 *4113|
 [fc]
-Finally falling asleep after continuous groaning, Shigeyoshi[r]
-and I, who was ordered to watch over him.[pcms]
+うなり続けてはいるものの、ようやく眠りに落ちた重吉と、[r]
+見張っているように命じられたわたし。[pcms]
 
 *4114|
 [fc]
-At least I can feel a bit relieved...[pcms]
+とりあえず、安心できるかな……。[pcms]
 
 *4115|
 [fc]
-I'm not tied up or anything, so I can move freely. But[r]
-still, alone with the ferocious Shigeyoshi who is just[r]
-sleeping. It's unpredictable when he might start rampaging[r]
-again.[pcms]
+縛られたりしてる訳でもないから、身体の自由は効く。[r]
+だけど、いくら寝ているとは言え、凶暴な重吉と二人きり。[r]
+いつまた暴れ出すか判らない。[pcms]
 
 *4116|
 [fc]
-I'm scared... Wataru... help me...[pcms]
+怖い……。[r]
+航……助けて……。[pcms]
 
 *4117|
 [fc]
-Even if I wanted to contact Wataru, I didn't bring my cell[r]
-phone. Is there any way to communicate...[pcms]
+航と連絡を取ろうにも、携帯を持ってきていなかった。[r]
+何か、連絡手段は……。[pcms]
 
 *4118|
 [fc]
 [vo_yuh s="yuho1442"]
-[ns]Yuuho[nse]
-"Nothing, huh..."[pcms]
+[ns]悠帆[nse]
+「何もない、か……」[pcms]
 
 *4119|
 [fc]
-Looking around the room, there was nothing. Except for[r]
-Shigeyoshi's blood scattered on the floor.[pcms]
+部屋を見回しても何もなかった。[r]
+床に点々と落ちている、重吉の血以外は。[pcms]
 
 *4120|
 [fc]
-If Wataru and the others come chasing after this place,[r]
-maybe they'll notice this blood... Maybe it's better if I[r]
-don't move from here...[pcms]
+もし、航達がこの場所まで追いかけて来てくれるのなら、[r]
+この血に気が付くかな……。[r]
+わたしは、ここから動かない方がいいかも……。[pcms]
 
 *4121|
 [fc]
-Wataru... Wataru... help me, Wataru...[pcms]
+航……。[r]
+航……助けて、航……。[pcms]
 
 *4122|
 [fc]
-I stared out the window while calling Wataru's name over and[r]
-over in my heart.[pcms]
+わたしは窓の外を見つめながら、航の名を心の中で何度も呼んだ。[pcms]
 
 *4123|
 [fc]
-The sky outside the window was brightening. Dawn is coming,[r]
-and with it, the United States' gas attack will begin.[pcms]
+窓の外は明るく白んで来ていた。[r]
+明け方、合衆国のガス攻撃が始まる。[pcms]
 
 *4124|
 [fc]
 [vo_yuh s="yuho1443"]
-[ns]Yuuho[nse]
-"I wonder if everyone is okay..."[pcms]
+[ns]悠帆[nse]
+「みんな……大丈夫かな……」[pcms]
 
 ;//--------------------------------------------------------------------
 ;//〆：条件分岐
@@ -256,25 +257,25 @@ and with it, the United States' gas attack will begin.[pcms]
 *4125|
 [fc]
 [vo_yuh s="yuho1444"]
-[ns]Yuuho[nse]
-"If it's Wataru... I feel like he can do something about[r]
-this..."[pcms]
+[ns]悠帆[nse]
+「航なら……何とかしてくれそうな気がする……」[pcms]
 
 *4126|
 [fc]
-A vague sense of hope.[pcms]
+漠然とした期待感。[pcms]
 
 *4127|
 [fc]
-I believe...[pcms]
+……わたしは信じている。[pcms]
 
 *4128|
 [fc]
-That Wataru will definitely come to save me.[pcms]
+航が、必ず助けに来てくれる、って。[pcms]
 
 *4129|
 [fc]
-So I won't give up either. If there's any chance...[pcms]
+だからわたしもあきらめない。[r]
+何かチャンスがあれば……。[pcms]
 
 ;//→合流
 [jump storage="zapH003.ks" target=*zapH003_02]
@@ -285,12 +286,13 @@ So I won't give up either. If there's any chance...[pcms]
 
 *4130|
 [fc]
-Yeah, he'll surely come to save me. But Shigeyoshi's men[r]
-have guns... I wonder if it's safe.[pcms]
+ううん、きっと助けに来てくれる。[r]
+でも、重吉の部下達、銃とか持ってるから……。[r]
+大丈夫かな。[pcms]
 
 *4131|
 [fc]
-But for now, all I can do is believe...[pcms]
+でも、今は信じるしかない……。[pcms]
 
 ;[zapend_random]
 [zapfade]

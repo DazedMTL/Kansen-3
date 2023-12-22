@@ -19,22 +19,21 @@
 
 *119|
 [fc]
-"Alright, let's play it safe and detour to the second[r]
-floor."[pcms]
+よし、ここは安全策をとって２階に迂回しよう。[pcms]
 
 *120|
 [fc]
-"The upper floor isn't guaranteed to be completely safe, but[r]
-it should be safer than pushing through the hordes that keep[r]
-flooding in."[pcms]
+上が完全に安全だとは限らないけど、[r]
+それでもぞくぞくと入ってくるヤツラを掻き分けて[r]
+いくよりは安全のはず。[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *121|
 [fc]
-"I made sure not to be noticed by them and quietly dashed up[r]
-the stairs."[pcms]
+ボクはヤツラに気づかれないように、[r]
+そのままこっそりと階段を駆け上がった。[pcms]
 
 ;//BG：学園内廊下
 [bg storage="BG017"][trans_c cross time=500]
@@ -44,26 +43,24 @@ the stairs."[pcms]
 *122|
 [fc]
 [vo_mob s="onna0003"]
-[ns]Infected Woman A[nse]
-"Hyahahaha! Hey, boy~~"[pcms]
+[ns]感染者・女Ａ[nse]
+「ひゃははははっ！　男よ～～」[pcms]
 
 *123|
 [fc]
-[ns]Wataru[nse]
-"Whoa!!"[pcms]
+[ns]航[nse]
+「うわっ！！」[pcms]
 
 *124|
 [fc]
-The moment I reached the second floor, I was attacked by an[r]
-infected person.[pcms]
+２階にあがった途端、感染者から襲撃を受けた。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *125|
 [fc]
-However, thanks to their sluggish movements, I barely[r]
-managed to escape their grasp and ran through to the[r]
-junction leading to the corridor.[pcms]
+しかし、彼らの動きが鈍いおかげでボクは辛くも[r]
+その手から逃げて渡り廊下へとの分岐点まで走り抜けた。[pcms]
 
 ;//jump：ブロックB6_004
 [jump storage="B6_004.ks" target=*B6_004_TOP]

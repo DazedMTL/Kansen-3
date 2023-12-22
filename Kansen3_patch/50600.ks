@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）朝
+;//・時間：５日目（８月１９日）朝～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹
 ;//状況により登場人物が変化する
@@ -21,7 +21,7 @@
 
 *3686|
 [fc]
-...and so, even during the break, a lot of things happened.[pcms]
+……とまあ、休憩中もいろいろあったわけなんだけど。[pcms]
 
 ;//〆：ビルの谷間
 [bg storage="BG130"][trans_c cross time=500]
@@ -31,74 +31,74 @@
 
 *3687|
 [fc]
-[ns]Kousuke[nse]
-"Alright, let's get on with the second half of the[r]
-transport!"[pcms]
+[ns]浩助[nse]
+「んじゃ、運搬の後半戦、やっちまおーぜ！」[pcms]
 
 *3688|
 [fc]
-We resumed the task of transporting supplies.[pcms]
+ボクたちは再び、物資の運搬作業を開始した。[pcms]
 
 *3689|
 [fc]
-Since we had mostly finished exploring in the first half,[r]
-the main task now was to carry in the goods.[pcms]
+前半のうちに探索はあらかた終わっていたので、[r]
+あとは物を運び込む作業がメインになる。[pcms]
 
 *3690|
 [fc]
-It was a bit surprising that Jin-san and the others ended up[r]
-helping us out of momentum... but actually, having more[r]
-hands is helpful.[pcms]
+成り行きというか勢いで、[r]
+壬さんたちまでが手伝ってくれることになったのには[r]
+少し驚いたけど……、実際、人手が多いのは助かる。[pcms]
 
 *3691|
 [fc]
-[ns]Wataru[nse]
-"But... the DJ Bar's fridge is almost full, right? The large[r]
-refrigerator at "Gyuu Gyuu Tengoku" is almost completely[r]
-filled with vegetables too."[pcms]
+[ns]航[nse]
+「だけど……、そろそろＤＪバーの冷蔵庫も満杯だよね？[r]
+　『ギュウギュウ天国』の大型冷蔵庫も[r]
+　野菜室はほとんど、埋まっちゃってるし」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3692|
 [fc]
 [vo_miz s="mizuki0334"]
-[ns]Mizuki[nse]
-"Isn't there another fridge we could use?"[pcms]
+[ns]瑞樹[nse]
+「他に使えそうな冷蔵庫は、ない？」[pcms]
 
 *3693|
 [fc]
-[ns]Wataru[nse]
-"Uh... oh, there was a fridge at "Dedepou" too. It's safe[r]
-and good because you can go there through the valley, so[r]
-it'll be safe when we go to fetch it later."[pcms]
+[ns]航[nse]
+「えーっと……。あ、『ででっぽう』にも冷蔵庫あったな。[r]
+　あそこなら谷間伝いに行けるから、[r]
+　後で取りに行く時も、安全でいいね」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3694|
 [fc]
 [vo_miz s="mizuki0335"]
-[ns]Mizuki[nse]
-"Let's carry mainly frozen stuff so we don't have to go back[r]
-and forth too much."[pcms]
+[ns]瑞樹[nse]
+「あまり往復しなくてすむように[r]
+　冷凍モノを中心に、運んじゃおうよ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3695|
 [fc]
-[ns]Jin[nse]
-"Of all things, the heavy ones... Let's go, Shige."[pcms]
+[ns]壬[nse]
+「よりによって、重いものを……。[r]
+　行くぞ、シゲ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3696|
 [fc]
-[ns]Shigeyoshi[nse]
-"Yeah."[pcms]
+[ns]重吉[nse]
+「うーい」[pcms]
 
 *3697|
 [fc]
-Grumbling at Mizuki's words, Jin-san and Shigeyoshi started[r]
-carrying the luggage with us, surprisingly obediently.[pcms]
+瑞樹の言葉にぶつくさ言いながらも、壬さんと重吉は[r]
+気持ち悪いくらい素直に、ボクらに混ざって荷物を運び始めた。[pcms]
 
 ;//---------------------------------------------------------------
 ;//★以下３行は、感染したチェック。
@@ -114,9 +114,8 @@ carrying the luggage with us, surprisingly obediently.[pcms]
 *3698|
 [fc]
 [vo_mar s="maru1687"]
-[ns]Margarita[nse]
-"Frozen seafood... Could there possibly be octopus in this[r]
-too?"[pcms]
+[ns]マルガリータ[nse]
+「冷凍シーフード……。まさかこれにもオクトパス……？」[pcms]
 
 *50600_01_02
 [if exp="f.l_kansen_y==0"][jump storage="50600.ks" target=*50600_02_01][endif]
@@ -129,9 +128,8 @@ too?"[pcms]
 *3699|
 [fc]
 [vo_yuh s="yuho1647"]
-[ns]Yuuho[nse]
-"Come on, hurry up! If we don't carry it quickly, it'll[r]
-melt!"[pcms]
+[ns]悠帆[nse]
+「ほら、急ごう！　早く運ばないと溶けちゃうよーっ」[pcms]
 
 *50600_02_02
 [if exp="f.l_kansen_r==0"][jump storage="50600.ks" target=*50600_03][endif]
@@ -144,8 +142,8 @@ melt!"[pcms]
 *3700|
 [fc]
 [vo_ren s="ren1443"]
-[ns]Ren[nse]
-"Hehe, the box is cold."[pcms]
+[ns]漣[nse]
+「ふふっ、箱、つめたいねー」[pcms]
 
 ;//★ここまで。
 
@@ -154,34 +152,34 @@ melt!"[pcms]
 
 *3701|
 [fc]
-While making a racket, everyone started moving towards[r]
-"Dedepou," each carrying as many boxes as they could.[pcms]
+わいわいと騒ぎながら、それぞれに持てる分だけの箱を抱えて、[r]
+「ででっぽう」に向けて移動を開始した。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3702|
 [fc]
 [vo_miz s="mizuki0336"]
-[ns]Mizuki[nse]
-"Speaking of which... we saw a lot of planes yesterday, but[r]
-none today, huh?"[pcms]
+[ns]瑞樹[nse]
+「そういえば……昨日は飛行機いっぱい見たけど、[r]
+　今日はいないね？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3703|
 [fc]
-[ns]Kousuke[nse]
-"Fuel isn't free, after all. Maybe they're saving it to come[r]
-help us?"[pcms]
+[ns]浩助[nse]
+「燃料もタダじゃないからなー。[r]
+　オレたちを助けに来る分、残しといてくれるんじゃね？」[pcms]
 
 *3704|
 [fc]
-Kousuke and Mizuki were walking side by side, looking up at[r]
-the sky as usual.[pcms]
+コースケと瑞樹はやっぱり仲良く並んで[r]
+空なんか見上げながら歩いている。[pcms]
 
 *3705|
 [fc]
-As everyone was walking in a line through the corridor...[pcms]
+みんなが一列になって通路を進んでいた時……。[pcms]
 
 ;//---------------------------------------------------------------
 ;//☆重吉、セクハラ。
@@ -209,52 +207,55 @@ As everyone was walking in a line through the corridor...[pcms]
 *3706|
 [fc]
 [vo_yuh s="yuho1648"]
-[ns]Yuuho[nse]
-"...Nn-kyaaaahhh!"[pcms]
+[ns]悠帆[nse]
+「……んっきゃああぁぁぁっ！？」[pcms]
 
 *3707|
 [fc]
-Suddenly, Yuuho let out an extraordinary scream.[pcms]
+突然、悠帆がすっとんきょうな悲鳴を上げた。[pcms]
 
 *3708|
 [fc]
 [vo_yuh s="yuho1649"]
-[ns]Yuuho[nse]
-"Th-that... You touched my butt just now, didn't you!?"[pcms]
+[ns]悠帆[nse]
+「さ、さ、触った！[r]
+　あんた、今、お尻、触ったでしょっ！？」[pcms]
 
 *3709|
 [fc]
-Yuuho's face turned bright red as she glared at Shigeyoshi.[pcms]
+顔を真っ赤にした悠帆が、重吉を睨みつけている。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3710|
 [fc]
-[ns]Shigeyoshi[nse]
-"I didn't do anything like that! You're not walking fast[r]
-enough, so my hand just happened to touch it, that's all!"[pcms]
+[ns]重吉[nse]
+「ンなことしてねぇよっ！[r]
+　おめぇがさっさと歩かねぇから、[r]
+　たまたま手が当たっちまっただけだろーがよっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3711|
 [fc]
 [vo_yuh s="yuho1650"]
-[ns]Yuuho[nse]
-"It couldn't have been just a touch! You clearly touched it[r]
-in a lewd way!"[pcms]
+[ns]悠帆[nse]
+「当たっただけなはずないでしょー？[r]
+　明らかに、やらしーく触ったじゃない！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3712|
 [fc]
-[ns]Shigeyoshi[nse]
-"What did you say!? You're accusing me of something I didn't[r]
-do...!"[pcms]
+[ns]重吉[nse]
+「ンだとぉっ！？[r]
+　てめっ、俺様にいいがかりつけるってんじゃ……！」[pcms]
 
 *3713|
 [fc]
-Neither Yuuho nor Shigeyoshi would give in, and it almost[r]
-turned into a pointless argument... when.[pcms]
+悠帆も譲らず、重吉も罪を認めず。[r]
+水掛け論っぽい言い合いになりかけてしまう。[r]
+と……。[pcms]
 
 ;//EV008・マル子キック
 [evcg storage="EV008a"][trans_c cross time=300]
@@ -262,8 +263,8 @@ turned into a pointless argument... when.[pcms]
 *3714|
 [fc]
 [vo_mar s="maru1688"]
-[ns]Margarita[nse]
-"...Hah!!!"[pcms]
+[ns]マルガリータ[nse]
+「……はっ！！！」[pcms]
 ;//＠蹴り。顔面に。
 
 ;//se012
@@ -274,18 +275,17 @@ turned into a pointless argument... when.[pcms]
 
 *3715|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gubooohhh!??"[pcms]
+[ns]重吉[nse]
+「ぐぶおぉぉっ！？？」[pcms]
 
 *3716|
 [fc]
-While still holding a box of frozen goods, Maruko-senpai[r]
-delivered a splendid high kick.[pcms]
+冷凍物の箱を抱えたまま、[r]
+マル子先輩が鮮やかなハイキックを繰り出した。[pcms]
 
 *3717|
 [fc]
-The kick caught Shigeyoshi squarely in the face and hit its[r]
-mark![pcms]
+蹴りは見事に重吉の顔面を捉え、ヒットする！[pcms]
 
 ;//〆：ビルの谷間
 [bg storage="BG130"][trans_c cross time=500]
@@ -295,32 +295,31 @@ mark![pcms]
 
 *3718|
 [fc]
-[ns]Shigeyoshi[nse]
-"You wench!? Hah, nosebleed!? I've got a nosebleed!?"[pcms]
+[ns]重吉[nse]
+「こっ、このアマァっ！？[r]
+　はっ、鼻血っ！？　鼻血がぁっ！？」[pcms]
 
 *3719|
 [fc]
-Jin-san muttered to himself as he watched Shigeyoshi writhe[r]
-while holding his nose.[pcms]
+鼻を押さえて悶える重吉に、ぼそっと壬さんが呟いた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3720|
 [fc]
-[ns]Jin[nse]
-"...I have no sympathy. It's your own fault for doing[r]
-unnecessary things."[pcms]
+[ns]壬[nse]
+「……同情はしない。余計なことをするからだ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3721|
 [fc]
-[ns]Shigeyoshi[nse]
-"Brother, don't say that..."[pcms]
+[ns]重吉[nse]
+「あ、アニキ、そんなぁ……」[pcms]
 
 *3722|
 [fc]
-Meanwhile, the girls had already walked ahead.[pcms]
+その間に、女の子たちはさっさと先に歩いていってしまう。[pcms]
 
 [jump storage="50600.ks" target=*50600_08]
 
@@ -333,54 +332,55 @@ Meanwhile, the girls had already walked ahead.[pcms]
 *3723|
 [fc]
 [vo_mar s="maru1689"]
-[ns]Margarita[nse]
-"...Hm!?"[pcms]
+[ns]マルガリータ[nse]
+「……んっ！？」[pcms]
 
 *3724|
 [fc]
-Suddenly, Maruko-senpai stopped in her tracks.[pcms]
+突然、マル子先輩が立ち止まった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3725|
 [fc]
 [vo_mar s="maru1690"]
-[ns]Margarita[nse]
-"You! Why did you touch my butt!?"[pcms]
+[ns]マルガリータ[nse]
+「キサマ、なぜ私の尻に触るっ！？」[pcms]
 
 *3726|
 [fc]
-The person she was glaring at was, predictably or[r]
-inevitably, Shigeyoshi.[pcms]
+キッと睨みつけている相手はといえば……[r]
+やっぱりというか案の定というか、重吉だ。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3727|
 [fc]
-[ns]Shigeyoshi[nse]
-"I didn't do anything like that! You're not walking fast[r]
-enough, so my hand just happened to touch it, that's all!"[pcms]
+[ns]重吉[nse]
+「ンなことしてねぇよっ！[r]
+　おめぇがさっさと歩かねぇから、[r]
+　たまたま手が当たっちまっただけだろーがよっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3728|
 [fc]
 [vo_mar s="maru1691"]
-[ns]Margarita[nse]
-"No. You clearly touched it with intent!"[pcms]
+[ns]マルガリータ[nse]
+「いや。明らかな意図を持って触ったろう！？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3729|
 [fc]
-[ns]Shigeyoshi[nse]
-"What did you say!? You're accusing me of something I didn't[r]
-do...!"[pcms]
+[ns]重吉[nse]
+「ンだとぉっ！？[r]
+　てめっ、俺様にいいがかりつけるってんじゃ……！」[pcms]
 
 *3730|
 [fc]
-Just when it seemed like Maruko-senpai and Shigeyoshi were[r]
-about to get into a pointless argument...[pcms]
+先輩も譲らず、重吉も罪を認めず。[r]
+水掛け論っぽい言い合いになりかけてしまうかと思った時。[pcms]
 
 ;//EV008・マル子キック
 [evcg storage="EV008a"][trans_c cross time=300]
@@ -388,8 +388,8 @@ about to get into a pointless argument...[pcms]
 *3731|
 [fc]
 [vo_mar s="maru1692"]
-[ns]Margarita[nse]
-"...No questions asked!!!"[pcms]
+[ns]マルガリータ[nse]
+「……問答無用っ！！！」[pcms]
 ;//＠蹴り。顔面に。
 
 ;//se012
@@ -400,18 +400,17 @@ about to get into a pointless argument...[pcms]
 
 *3732|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gubooohhh!??"[pcms]
+[ns]重吉[nse]
+「ぐぶおぉぉっ！？？」[pcms]
 
 *3733|
 [fc]
-While still holding a box of frozen goods, Maruko-senpai[r]
-delivered another splendid high kick.[pcms]
+冷凍物の箱を抱えたまま、[r]
+マル子先輩が鮮やかなハイキックを繰り出した。[pcms]
 
 *3734|
 [fc]
-The kick caught Shigeyoshi squarely in the face and hit its[r]
-mark![pcms]
+蹴りは見事に重吉の顔面を捉え、ヒットする！[pcms]
 
 ;//〆：ビルの谷間
 [bg storage="BG130"][trans_c cross time=500]
@@ -421,32 +420,31 @@ mark![pcms]
 
 *3735|
 [fc]
-[ns]Shigeyoshi[nse]
-"You wench!? Hah, nosebleed!? I've got a nosebleed!?"[pcms]
+[ns]重吉[nse]
+「こっ、このアマァっ！？[r]
+　はっ、鼻血っ！？　鼻血がぁっ！？」[pcms]
 
 *3736|
 [fc]
-Shigeyoshi, clutching his nose in agony, Jin-san muttered[r]
-under his breath.[pcms]
+鼻を押さえて悶える重吉に、ぼそっと壬さんが呟いた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3737|
 [fc]
-[ns]Jin[nse]
-"...I have no sympathy. It's because you do unnecessary[r]
-things."[pcms]
+[ns]壬[nse]
+「……同情はしない。余計なことをするからだ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3738|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ah, Aniki, don't be like that..."[pcms]
+[ns]重吉[nse]
+「あ、アニキ、そんなぁ……」[pcms]
 
 *3739|
 [fc]
-In the meantime, the girls had quickly walked on ahead.[pcms]
+その間に、女の子たちはさっさと先に歩いていってしまう。[pcms]
 
 [jump storage="50600.ks" target=*50600_08]
 
@@ -459,62 +457,63 @@ In the meantime, the girls had quickly walked on ahead.[pcms]
 *3740|
 [fc]
 [vo_yuh s="yuho1651"]
-[ns]Yuuho[nse]
-"...Nnkyaaaahhhhh!?"[pcms]
+[ns]悠帆[nse]
+「……んっきゃああぁぁぁっ！？」[pcms]
 
 *3741|
 [fc]
-Suddenly, Yuuho let out an extraordinary scream.[pcms]
+突然、悠帆がすっとんきょうな悲鳴を上げた。[pcms]
 
 *3742|
 [fc]
 [vo_yuh s="yuho1652"]
-[ns]Yuuho[nse]
-"Sa, sa, you touched it! You just touched my butt, didn't[r]
-you!?"[pcms]
+[ns]悠帆[nse]
+「さ、さ、触った！[r]
+　あんた、今、お尻、触ったでしょっ！？」[pcms]
 
 *3743|
 [fc]
-Yuuho, her face turning bright red, was glaring at[r]
-Shigeyoshi.[pcms]
+顔を真っ赤にした悠帆が、重吉を睨みつけている。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3744|
 [fc]
-[ns]Shigeyoshi[nse]
-"I didn't do anything like that! You're not walking fast[r]
-enough, so my hand just happened to touch it, that's all!"[pcms]
+[ns]重吉[nse]
+「ンなことしてねぇよっ！[r]
+　おめぇがさっさと歩かねぇから、[r]
+　たまたま手が当たっちまっただけだろーがよっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3745|
 [fc]
 [vo_yuh s="yuho1653"]
-[ns]Yuuho[nse]
-"It couldn't have been just a touch! You clearly touched it[r]
-in a lewd way!"[pcms]
+[ns]悠帆[nse]
+「当たっただけなはずないでしょー？[r]
+　明らかに、やらしーく触ったじゃない！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3746|
 [fc]
-[ns]Shigeyoshi[nse]
-"What did you say!? You're accusing me of something I didn't[r]
-do...!"[pcms]
+[ns]重吉[nse]
+「ンだとぉっ！？[r]
+　てめっ、俺様にいいがかりつけるってんじゃ……！」[pcms]
 
 *3747|
 [fc]
-Neither Yuuho nor Shigeyoshi would give in, and they were on[r]
-the verge of getting into a pointless argument...[pcms]
+悠帆も譲らず、重吉も罪を認めず。[r]
+水掛け論っぽい言い合いになりかけてしまう。[r]
+と……。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3748|
 [fc]
 [vo_miz s="mizuki0337"]
-[ns]Mizuki[nse]
-"...Shige! Enough is enough!!!"[pcms]
+[ns]瑞樹[nse]
+「……シゲっ！　いー加減にしなさいよっ！！！」[pcms]
 ;//＠蹴り。顔面に。
 
 ;//キャラ消し
@@ -525,73 +524,71 @@ the verge of getting into a pointless argument...[pcms]
 
 *3749|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gubooohhh!??"[pcms]
+[ns]重吉[nse]
+「ぐぶおぉぉっ！？？」[pcms]
 
 *3750|
 [fc]
-While still holding a box of frozen goods, Mizuki delivered[r]
-another splendid high kick.[pcms]
+冷凍物の箱を抱えたまま、[r]
+瑞樹が鮮やかなハイキックを繰り出した。[pcms]
 
 *3751|
 [fc]
-The kick caught Shigeyoshi squarely in the face and hit its[r]
-mark![pcms]
+蹴りは見事に重吉の顔面を捉えて小気味の良い音を立てる。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3752|
 [fc]
 [vo_miz s="mizuki0338"]
-[ns]Mizuki[nse]
-"Ah, no way. I really hit him."[pcms]
+[ns]瑞樹[nse]
+「あ、やだ。ホントにヒットしちゃった」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3753|
 [fc]
-[ns]Kousuke[nse]
-"Mi, Mizuki?"[pcms]
+[ns]浩助[nse]
+「み、瑞樹ぃ？」[pcms]
 
 *3754|
 [fc]
-She looked surprised herself, but we were just as shocked.[pcms]
+本人も驚いた顔をしてるけど、こっちだってビックリだ。[pcms]
 
 *3755|
 [fc]
-It was always Maruko-senpai who played this role; has[r]
-Mizuki's personality changed a bit?[pcms]
+こういう役目はマル子先輩と相場が決まってたのに、[r]
+瑞樹……ちょっと性格変わってきてないか？[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3756|
 [fc]
-[ns]Shigeyoshi[nse]
-"You wench!? Hah, nosebleed!? I've got a nosebleed!?"[pcms]
+[ns]重吉[nse]
+「こっ、このアマァっ！？[r]
+　はっ、鼻血っ！？　鼻血がぁっ！？」[pcms]
 
 *3757|
 [fc]
-Shigeyoshi, clutching his nose in agony, Jin-san muttered[r]
-under his breath.[pcms]
+鼻を押さえて悶える重吉に、ぼそっと壬さんが呟いた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3758|
 [fc]
-[ns]Jin[nse]
-"...I have no sympathy. It's because you do unnecessary[r]
-things."[pcms]
+[ns]壬[nse]
+「……同情はしない。余計なことをするからだ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3759|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ah, Aniki, don't be like that..."[pcms]
+[ns]重吉[nse]
+「あ、アニキ、そんなぁ……」[pcms]
 
 *3760|
 [fc]
-In the meantime, the girls had quickly walked on ahead.[pcms]
+その間に、女の子たちはさっさと先に歩いていってしまう。[pcms]
 
 [jump storage="50600.ks" target=*50600_08]
 
@@ -603,23 +600,21 @@ In the meantime, the girls had quickly walked on ahead.[pcms]
 
 *3761|
 [fc]
-And so, the lively moving operation was almost over.[pcms]
+こうして賑やかな運搬作業もほとんど終わった。[pcms]
 
 *3762|
 [fc]
-Last of all, we went around the clothing store and got some[r]
-new clothes.[pcms]
+最後にボクたちは衣料品店を回って、新しい服をゲットする。[pcms]
 
 *3763|
 [fc]
-The girls insisted on going to the lingerie shop by[r]
-themselves.[pcms]
+女の子たちはどうしてもと言い張って[r]
+別行動でランジェリーショップに向かったようだ。[pcms]
 
 *3764|
 [fc]
-Kousuke, who had offered to be their escort, was scolded[r]
-severely for trying to follow them, which was rather[r]
-amusing.[pcms]
+警護役を申し出たコースケが、[r]
+ついてくるなと、こっぴどく叱られたのは、まあご愛嬌だろう。[pcms]
 
 ;//〆アルカディア
 [bg storage="BG020a"][trans_c cross time=500]
@@ -629,106 +624,103 @@ amusing.[pcms]
 
 *3765|
 [fc]
-[ns]Kousuke[nse]
-"Oh. Wearing jeans really does make you feel sharp."[pcms]
+[ns]浩助[nse]
+「おー。やっぱジーンズ穿くと、気分がビッとするぜー」[pcms]
 
 *3766|
 [fc]
-[ns]Wataru[nse]
-"It looks a bit silly because we can't hem them."[pcms]
+[ns]航[nse]
+「裾あげできないから、ちょっと格好悪いけどね」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3767|
 [fc]
-Kousuke and I returned to the manga cafe first and changed[r]
-into our newly acquired clothes.[pcms]
+ボクとコースケは先に漫画喫茶に戻って、[r]
+手に入れた新しい服に着替えていた。[pcms]
 
 *3768|
 [fc]
-Changing into a new shirt and putting on a belt with jeans.[r]
-Just like Kousuke said, it felt a bit more tightening.[pcms]
+新しいシャツに着替えて、ジーンズにベルトを着ける。[r]
+コースケの言うとおり、ちょっと気分が引き締まる気がした。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3769|
 [fc]
-[ns]Kousuke[nse]
-"...No holster, so I guess I'll just tuck it in."[pcms]
+[ns]浩助[nse]
+「……ホルスターは流石にねぇから、挟んどくか」[pcms]
 
 *3770|
 [fc]
-During the change, Kousuke tucked the Beretta he had placed[r]
-aside into his belt.[pcms]
+着替えの間、傍に置いてあったベレッタを[r]
+コースケはベルトの間に挟みこむ。[pcms]
 
 *3771|
 [fc]
-I also took Tadahiko's Bob. Chow. Special and was about to[r]
-tuck it into my belt...[pcms]
+ボクも彦ちんのボブ・チャウ・スペシャルを手にして[r]
+ベルトに挟もうとしたんだけど……。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3772|
 [fc]
-[ns]Wataru[nse]
-"Ah, right. This can be lowered."[pcms]
+[ns]航[nse]
+「あ、そっか。これ、下げられるんだ」[pcms]
 
 *3773|
 [fc]
-I had always been curious about the hook attached to the[r]
-gun... When I hooked it onto my belt, the gun smartly hung[r]
-down.[pcms]
+前から気になってた銃に付いてるフック……。[r]
+ベルトに引っかけてみると、銃がスマートに吊り下げられた。[pcms]
 
 *3774|
 [fc]
-I never knew what the hook was for, but now I finally[r]
-understood its use.[pcms]
+何のためのフックか分からなかったけど、[r]
+やっと使い道が分かったぞ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3775|
 [fc]
-[ns]Kousuke[nse]
-"Alright. Ready to go! Now we're prepared for anything that[r]
-might happen!"[pcms]
+[ns]浩助[nse]
+「よーし。準備完了！[r]
+　これで万が一なんかあってもＯＫだぜっ！」[pcms]
 
 *3776|
 [fc]
-[ns]Wataru[nse]
-"Cut it out, Kousuke. It would be trouble if anything were[r]
-to happen."[pcms]
+[ns]航[nse]
+「よせよ、コースケ。何かなんてあったら困るよ」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3777|
 [fc]
-While laughing, I couldn't help but think. The "something"[r]
-in "if something happens" means...[pcms]
+笑いながら、ふと考えてしまう。[r]
+「何かあったら」の「何か」っていうのは、つまり……。[pcms]
 
 *3778|
 [fc]
-I remembered DJ Bar's Mama for a moment.[pcms]
+一瞬、ＤＪバーのママのことを思い出してしまう。[pcms]
 
 *3779|
 [fc]
-It means... that sort of thing...[pcms]
+つまり……そういうことじゃないか……。[pcms]
 
 *3780|
 [fc]
-If it were an unknown infected person, maybe I could shoot[r]
-without hesitation.[pcms]
+見ず知らずの感染者なら、ためらいなく撃てるかもしれない。[pcms]
 
 *3781|
 [fc]
-But if it were someone I knew... If by any chance one of us[r]
-got infected...?[pcms]
+だけど知っている人が相手だったら……、[r]
+万が一、ボクらの中の誰かが感染したら……？[pcms]
 
 *3782|
 [fc]
-Could I really use this...?[pcms]
+僕は、これを使えるのかな…………？[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]

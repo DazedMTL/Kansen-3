@@ -2,11 +2,11 @@
 ;//ブロック５０１１０からjump
 ;//ブロック５０１２０からjump
 ;//ブロック５０１３０からjump
-;//ブロック５０１４０『地上ＬＡＳＥＲへ』
+;//ブロック５０１４０『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50140_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：ＬＡＳＥＲバックヤード通路
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣・航・感染者
@@ -23,28 +23,29 @@
 
 *860|
 [fc]
-[ns]Wataru[nse]
-"...I've put it in."[pcms]
+[ns]航[nse]
+「……入れちゃったね」[pcms]
 
 *861|
 [fc]
-A few minutes later. We were standing in the 1F backyard[r]
-passage of the LASER building.[pcms]
+数分後。[r]
+ボクたちはＬＡＳＥＲビルの１Ｆ、[r]
+バックヤード通路に立っていた。[pcms]
 
 *862|
 [fc]
-Green lights indicating emergency exits were lined up, with[r]
-red lights silently blinking alongside them.[pcms]
+非常口を示す緑の表示灯に並んで、[r]
+赤色灯が音もなく瞬いている。[pcms]
 
 *863|
 [fc]
-It seems our intrusion was detected, and the remaining[r]
-security system activated, but thank goodness, the emergency[r]
-bell didn't ring.[pcms]
+どうやらボクたちの侵入を感知して、[r]
+生き残っていた警備装置が動いてしまったみたいだけど[r]
+幸いなことに、非常ベルが鳴ったりはしなかった。[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲判定
-;//ブロック５０１１０５０１３０のどこを
+;//ブロック５０１１０～５０１３０のどこを
 ;//通って入ってきたのかで判定
 
 [if exp="f.l_bar_r==1"][jump storage="50140.ks" target=*50140_01][endif]
@@ -60,46 +61,46 @@ bell didn't ring.[pcms]
 
 *864|
 [fc]
-[ns]Kousuke[nse]
-"Man, crowbars are so handy. I should try using one next[r]
-time."[pcms]
+[ns]浩助[nse]
+「それにしても便利なもんだなー、バールって。[r]
+　今度オレも使ってみよーっと」[pcms]
 
 *865|
 [fc]
-Ren, with sparkling eyes and hands clasped in front of her[r]
-chest, admiringly responded to Kousuke's carefree[r]
-impression.[pcms]
+呑気に感心しているコースケに、[r]
+漣が目を輝かせて、胸の前で手を組んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *866|
 [fc]
 [vo_ren s="ren1341"]
-[ns]Ren[nse]
-"Yeah! It's amazing! The principle of the lever is simply[r]
-utilized..."[pcms]
+[ns]漣[nse]
+「うん！　すごいよね！[r]
+　テコの原理がシンプルに活かされてて……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *867|
 [fc]
 [vo_ren s="ren1342"]
-[ns]Ren[nse]
-"This is like, a devilish invention on par with nuclear[r]
-weapons, or rather... the crystallization of human[r]
-wisdom..."[pcms]
+[ns]漣[nse]
+「これはもう、[r]
+　核兵器に並ぶ悪魔の発明っていうか、[r]
+　人類の叡智の結晶っていうか……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f6"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *868|
 [fc]
-[ns]Kousuke[nse]
-"Re, Ren-chan, isn't that a bit... exaggerated...?"[pcms]
+[ns]浩助[nse]
+「れ、漣ちゃぁん、[r]
+　それはちょっと大げさ……じゃないかな……？」[pcms]
 
 *869|
 [fc]
-I couldn't help but smile a little at Ren's ongoing[r]
-enthusiastic speech.[pcms]
+まだまだ続きそうな漣の弁舌に[r]
+ボクは少しだけ笑ってしまった。[pcms]
 
 [jump storage="50140.ks" target=*50140_04]
 
@@ -111,58 +112,58 @@ enthusiastic speech.[pcms]
 
 *870|
 [fc]
-[ns]Kousuke[nse]
-"But really, crowbars are so handy. The principle of the[r]
-lever, right?"[pcms]
+[ns]浩助[nse]
+「それにしても便利なもんだなー、バールって。[r]
+　テコの原理ってやつ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *871|
 [fc]
-[ns]Kousuke[nse]
-"If it's this convenient, they should report about it more[r]
-in the news."[pcms]
+[ns]浩助[nse]
+「こんなに便利なら、[r]
+　もっとニュースとかで報道してくれりゃいいのに」[pcms]
 
 *872|
 [fc]
-Perhaps reassured by having entered the building, Kousuke[r]
-excitedly started talking.[pcms]
+建物に入れた安心からか、コースケがはしゃいで言い出した。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *873|
 [fc]
-[ns]Kousuke[nse]
-"Why don't they explain it in detail on the news? Instead of[r]
-saying 'opened with a crowbar', they say 'opened with[r]
-something like a crowbar'."[pcms]
+[ns]浩助[nse]
+「なんでニュースだと、詳しく言わねーんだろな？[r]
+　『バールでこじあけた』じゃなくて、[r]
+　『バールのような物でこじあけた』って言うしさ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *874|
 [fc]
 [vo_mar s="maru1376"]
-[ns]Margarita[nse]
-"I was curious about that too and looked it up. It's a set[r]
-phrase when the tool can't be specified. Like 'something[r]
-like a gun', 'something like a knife', and so on."[pcms]
+[ns]マルガリータ[nse]
+「それならワタシも気になって調べたことがある。[r]
+　道具が特定できない場合の、決まり文句らしい。[r]
+　拳銃のようなもの、ナイフのようなもの、と同様にな」[pcms]
 
 *875|
 [fc]
-[ns]Wataru[nse]
-"...Maruko-senpai... What exactly are you researching...?"[pcms]
+[ns]航[nse]
+「……マル子先輩……。[r]
+　いったい何、調べてるんですか……」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *876|
 [fc]
-I wonder how much knowledge is packed into this person's[r]
-head. I'm half amazed.[pcms]
+この人の頭の中にはどれだけの知識が詰まってるんだろう。[r]
+ボクは半分あきれてしまう。[pcms]
 
 *877|
 [fc]
-But it seems not all of it is necessarily useful[r]
-knowledge...[pcms]
+でも、どうやら役に立つ知識ばかり、[r]
+っていうわけでもなさそうだけど……。[pcms]
 
 [jump storage="50140.ks" target=*50140_04]
 
@@ -174,45 +175,44 @@ knowledge...[pcms]
 
 *878|
 [fc]
-[ns]Kousuke[nse]
-"Man, crowbars are so handy. I should try using one next[r]
-time."[pcms]
+[ns]浩助[nse]
+「それにしても便利なもんだなー、バールって。[r]
+　今度オレも使ってみよーっと」[pcms]
 
 *879|
 [fc]
-Perhaps reassured by having entered the building, Kousuke[r]
-excitedly started talking.[pcms]
+建物に入れた安心からか、コースケがはしゃいで言い出した。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *880|
 [fc]
 [vo_yuh s="yuho1494"]
-[ns]Yuuho[nse]
-"Kousuke, you should probably stay away from crowbars. Maybe[r]
-'something like a crowbar' would be better for you?"[pcms]
+[ns]悠帆[nse]
+「コースケは、バールは止めといたほうがいいよ。[r]
+　バールのようなもの、の方がいいんじゃない？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *881|
 [fc]
-[ns]Kousuke[nse]
-"Eh!? What's that supposed to mean!? Is there a difference!?[r]
-Is this about which suits me better or something!?"[pcms]
+[ns]浩助[nse]
+「えっ！？　何それ！　なんか違うわけ！？[r]
+　オレに似合うのはどっちだとか、そうゆう問題！？」[pcms]
 
 *882|
 [fc]
-Kousuke, easily caught by the bait, started to panic and[r]
-make a fuss.[pcms]
+あっさり引っかかったコースケが[r]
+軽くパニクって騒ぎ出す。[pcms]
 
 *883|
 [fc]
-[ns]Wataru[nse]
-"...I think both suit you."[pcms]
+[ns]航[nse]
+「……どっちも似合うと思うよ」[pcms]
 
 *884|
 [fc]
-I responded with a wry smile, just going along with it.[pcms]
+ボクは苦笑しながら適当に応えておいた。[pcms]
 
 [jump storage="50140.ks" target=*50140_04]
 
@@ -225,181 +225,178 @@ I responded with a wry smile, just going along with it.[pcms]
 *885|
 [fc]
 [vo_yuh s="yuho1495"]
-[ns]Yuuho[nse]
-"...But still, no one's coming, huh?"[pcms]
+[ns]悠帆[nse]
+「……それにしても、誰も来ないね？」[pcms]
 
 *886|
 [fc]
-Yuuho tilted her head towards the blinking red light.[pcms]
+瞬き続ける赤色灯に目をやって悠帆が首を傾げる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *887|
 [fc]
 [vo_mar s="maru1377"]
-[ns]Margarita[nse]
-"It means there are no security guards."[pcms]
+[ns]マルガリータ[nse]
+「警備員がいない、ということだろう」[pcms]
 
 *888|
 [fc]
-This place was originally a commercial facility, so it makes[r]
-sense that the alarm isn't sounding, but if any security-[r]
-related person had survived, it would be about time for them[r]
-to show up.[pcms]
+元々ここは商業施設だから、警報が鳴らないのは分かるけど、[r]
+もし誰か警備関係の人間が生き残っていれば[r]
+そろそろ姿を見せてもいい頃だった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *889|
 [fc]
 [vo_mar s="maru1378"]
-[ns]Margarita[nse]
-"Now the question is which way we should go..."[pcms]
+[ns]マルガリータ[nse]
+「では、どちらに進むかという問題だが……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *890|
 [fc]
-[ns]Kousuke[nse]
-"Oh! Leave it to me when it comes to this building."[pcms]
+[ns]浩助[nse]
+「おぉっと！[r]
+　このビルのことならオレに任せてくれ」[pcms]
 
 *891|
 [fc]
-In front of the corridors stretching left and right, as[r]
-Senpai was about to speak, Kousuke quickly recovered and[r]
-stepped forward with a smile.[pcms]
+左右に延びる通路を前に、先輩が言いかけた途端、[r]
+立ち直りの早いコースケがニコニコしながら進み出た。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *892|
 [fc]
-[ns]Kousuke[nse]
-"Let's go right. There's a booth where security guards[r]
-usually station themselves, so we might get some idea of[r]
-what's going on. Plus, there's an emergency staircase that[r]
-way too."[pcms]
+[ns]浩助[nse]
+「右に行こうぜ。普段、警備員が詰めてるブースがあるから、[r]
+　なんか様子が分かるかもしれない。[r]
+　それに、そっちには非常階段もあるしな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *893|
 [fc]
 [vo_mar s="maru1379"]
-[ns]Margarita[nse]
-"More escape routes are better. It's decided then."[pcms]
+[ns]マルガリータ[nse]
+「退路は多いほうがいい。決まりだな」[pcms]
 
 *894|
 [fc]
-Following Kousuke's suggestion, we headed right down the[r]
-corridor.[pcms]
+コースケの提案どおり、ボクたちは通路を右へと向かった。[pcms]
 
 *895|
 [fc]
-At the end, we could see the iron door of the emergency exit[r]
-that we couldn't enter earlier.[pcms]
+突き当たりには、[r]
+さっきボクたちが入れなかった方の非常口の鉄扉が見えている。[pcms]
 
 *896|
 [fc]
-There's also an entrance to the security booth ahead, and[r]
-another corridor before that...[pcms]
+あとは警備ブースへの入り口、[r]
+その手前にも通路があるけれど……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *897|
 [fc]
-[ns]Kousuke[nse]
-"That way leads to the Udagawa street entrance. The other[r]
-side has the main entrance... but the door is closed."[pcms]
+[ns]浩助[nse]
+「そっちの先は宇田川通り側の入り口だ。[r]
+　向こう側はエントランスになってるんだが……、[r]
+　扉、閉まってるな」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *898|
 [fc]
 [vo_yuh s="yuho1496"]
-[ns]Yuuho[nse]
-"Does that mean someone is inside?"[pcms]
+[ns]悠帆[nse]
+「っていうことは、中に誰かいる？」[pcms]
 
 *899|
 [fc]
-[ns]Wataru[nse]
-"Let's check it out."[pcms]
+[ns]航[nse]
+「確かめてみよう」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *900|
 [fc]
-We pressed our ears against the fire door to try and catch[r]
-any sounds from the other side.[pcms]
+ボクたちは防火扉に耳をくっつけて、[r]
+反対側の様子を探ろうとした。[pcms]
 
 *901|
 [fc]
-...There were sounds. Dragging footsteps. And groaning... It[r]
-seemed like infected were wandering around.[pcms]
+……音がする。[r]
+引き摺るような足音。そして唸り声……。[r]
+感染者が徘徊しているようだった。[pcms]
 
 *902|
 [fc]
-[ns]Wataru[nse]
-"...No good. They're there."[pcms]
+[ns]航[nse]
+「……ダメだ。ヤツラがいる」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *903|
 [fc]
 [vo_mar s="maru1380"]
-[ns]Margarita[nse]
-"Then it would be wise not to approach the entrance. Let's[r]
-leave the door as it is."[pcms]
+[ns]マルガリータ[nse]
+「では、エントランスには近付かないほうが賢明だな。[r]
+　扉はそのままにしておこう」[pcms]
 
 ;//〆背景：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *904|
 [fc]
-[ns]Kousuke[nse]
-"And here's the security guard booth."[pcms]
+[ns]浩助[nse]
+「で、ここが警備員のブース」[pcms]
 
 *905|
 [fc]
-The small booth that could barely fit one adult was empty.[r]
-However, it seemed like the monitors and machinery inside[r]
-were still operating.[pcms]
+大人なら１人しか入れない、狭いブースの中は無人だった。[r]
+だけど、館内モニターや機械類は動いているようだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *906|
 [fc]
 [vo_mar s="maru1381"]
-[ns]Margarita[nse]
-"The monitors might come in handy at some point. Let's[r]
-remember this."[pcms]
+[ns]マルガリータ[nse]
+「モニターは何かの時に役立ちそうだ。[r]
+　覚えておくことにしよう」[pcms]
 
 *907|
 [fc]
-The booth protruded partially outside of the building. The[r]
-exposed part was covered with reinforced glass so while we[r]
-could see out, we were also fully visible from outside.[pcms]
+ブースの一部は建物の外にせり出している。[r]
+露出した部分は全面強化ガラスで覆われているけれど[r]
+こちらからも外が見える代わりに、外からも丸見えだ。[pcms]
 
 *908|
 [fc]
-We decided to leave the door slightly open and watch from[r]
-the corridor.[pcms]
+ボクたちは、ドアを少し開いておいて、[r]
+通路から様子を見ることにする。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *909|
 [fc]
 [vo_ren s="ren1343"]
-[ns]Ren[nse]
-"You can see outside..."[pcms]
+[ns]漣[nse]
+「外、見える……」[pcms]
 
 *910|
 [fc]
-Ren, intrigued, was about to stick her face out the door[r]
-but...[pcms]
+興味を惹かれた漣が、ドアから顔を出そうとしたが……。[pcms]
 
 *911|
 [fc]
 [vo_ren s="ren1344"]
-[ns]Ren[nse]
-"Hii!"[pcms]
+[ns]漣[nse]
+「ひぅっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -407,13 +404,13 @@ but...[pcms]
 
 *912|
 [fc]
-She spotted an infected walking at a distance close enough[r]
-to reach out to and hastily pulled her face back in.[pcms]
+手を伸ばせば届くくらいの距離に感染者の歩く姿を見つけて、[r]
+慌てて顔を引っ込めた。[pcms]
 
 *913|
 [fc]
-[ns]Wataru[nse]
-"It's okay, let's move back slowly..."[pcms]
+[ns]航[nse]
+「大丈夫、そっと戻ろう……」[pcms]
 
 ;//〆背景　ＬＡＳＥＲバックヤード通路
 ;//@konya LASER内部
@@ -424,53 +421,53 @@ to reach out to and hastily pulled her face back in.[pcms]
 
 *914|
 [fc]
-[ns]Kousuke[nse]
-"So, what do we do from here?"[pcms]
+[ns]浩助[nse]
+「で、ここから先は、どうする？」[pcms]
 
 *915|
 [fc]
-After a full round of scouting, we returned to the backyard[r]
-corridor once again.[pcms]
+ひととおりの偵察が終わり、ボクたちは再び[r]
+バックヤード通路に戻ってきた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *916|
 [fc]
-[ns]Kousuke[nse]
-"For now, if we're going to the DJ Bar, there's a delivery[r]
-elevator on the opposite side that we can use without going[r]
-out to the entrance, right?"[pcms]
+[ns]浩助[nse]
+「とりあえず、ＤＪバーに行くなら、[r]
+　エントランスに出なくても、[r]
+　反対側に搬入用のエレベーターがあるぜ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *917|
 [fc]
 [vo_mar s="maru1382"]
-[ns]Margarita[nse]
-"Elevators don't offer an escape route if something happens.[r]
-If there's an emergency staircase, let's use that."[pcms]
+[ns]マルガリータ[nse]
+「エレベーターは、何かあった時の逃げ場がない。[r]
+　非常階段があるなら、そちらを使おう」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *918|
 [fc]
 [vo_yuh s="yuho1497"]
-[ns]Yuuho[nse]
-"The DJ Bar is on the top floor though..."[pcms]
+[ns]悠帆[nse]
+「ＤＪバー、最上階なんですけど……」[pcms]
 ;//＠ちょっと嫌がってる
 
 *919|
 [fc]
-Yuuho sighed lightly and muttered under her breath.[pcms]
+軽く溜息をついた悠帆が、小声でぶつぶつと言う。[pcms]
 
 *920|
 [fc]
-[ns]Wataru[nse]
-"Can't be helped, let's walk."[pcms]
+[ns]航[nse]
+「仕方ないよ、歩こう」[pcms]
 
 *921|
 [fc]
-We lined up and headed towards the staircase.[pcms]
+ボクたちは一列になって、階段に向かった。[pcms]
 
 ;//暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

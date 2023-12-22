@@ -10,113 +10,113 @@
 ;//時間帯：朝
 ;//合計:1K程度
 ;//---------------------------------------------------------------
-;//▲３３：時間切れ
+;//▲３－３：時間切れ
 
 ;[sysbt_meswin]
 
 *574|
 [fc]
-What should I do?[pcms]
+どうする？[pcms]
 
 *575|
 [fc]
-I really can't imagine making it to the music room without[r]
-any trouble.[pcms]
+このまま無事に音楽室まで行けるとはとても思えない。[pcms]
 
 *576|
 [fc]
-But then again, even though the music room is right there,[r]
-should we turn back?[pcms]
+だからと言って音楽室はそこなのに、引き返すのか？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *577|
 [fc]
 [vo_mar s="maru0148A"]
-[ns]Margarita[nse]
-"Goddamn!"[pcms]
+[ns]マルガリータ[nse]
+「Ｇｏｄｄａｍ！」[pcms]
 
 ;//＠ガッデム
 ;//〆ボイスa、b有り
 
 *578|
 [fc]
-When I snapped back to reality at the sound of my senior's[r]
-voice, we were already surrounded by a horde of infected,[r]
-both in front and behind.[pcms]
+先輩の声にハッと我に返った時、ボクらは既に[r]
+後ろも前も感染者たちの群れにふさがれていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *579|
 [fc]
-Damn it![pcms]
+しまった！[pcms]
 
 *580|
 [fc]
-Is this the end?[pcms]
+これで終わりなのか？[pcms]
 
 *581|
 [fc]
-Can't I go to save Ren... and Yuuho too?[pcms]
+漣も……そして悠帆も助けには行けないのか？[pcms]
 
 *582|
 [fc]
-Are we going to be turned into one of them?[pcms]
+このままヤツラの仲間にされちまうのか？[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *583|
 [fc]
-[ns]Wataru[nse]
-"Damn it! I won't let them turn me into one of them!"[pcms]
+[ns]航[nse]
+「チクショウッ！　仲間になんか、[r]
+　させられてたまるかよっ！」[pcms]
 
 *584|
 [fc]
-While shouting in frustration, I gripped the mop tighter.[pcms]
+悔し紛れに叫びながら、[r]
+ボクはモップを抱えなおした。[pcms]
 
 *585|
 [fc]
-It's do or die now. I can't afford to care whether they're[r]
-male or female.[pcms]
+こうなりゃ自棄だ。[r]
+相手が男だとか女だとか、[r]
+構ってなんかいられない。[pcms]
 
 *586|
 [fc]
 [vo_ren s="ren0153"]
-[ns]Ren[nse]
-"Big brother!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ！！」[pcms]
 
 *587|
 [fc]
-Just as I made up my mind, Ren's voice reached my ears from[r]
-somewhere.[pcms]
+ボクが覚悟を決めた時、どこからか[r]
+漣の呼ぶ声がボクの耳に届いた。[pcms]
 
 *588|
 [fc]
-A hallucination?[pcms]
+幻聴？[pcms]
 
 *589|
 [fc]
-No--[pcms]
+いや――[pcms]
 
 *590|
 [fc]
 [vo_ren s="ren0154"]
-[ns]Ren[nse]
-"Big brother, over here. I'm over here."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、こっち。私はこっちだよ」[pcms]
 
 *591|
 [fc]
-[ns]Wataru[nse]
-"Ren? Re~~n!"[pcms]
+[ns]航[nse]
+「漣？　れ～～んっ！」[pcms]
 
 *592|
 [fc]
-I could clearly hear Ren's voice.[pcms]
+確かにはっきりと漣の声が聞こえる。[pcms]
 
 *593|
 [fc]
-And it wasn't the voice of someone infected with the virus;[r]
-it was Ren's usual voice.[pcms]
+それに、ヤツラと同じようにウィルスに[r]
+感染した声なんかじゃなく、いつものあの漣の声だ。[pcms]
 
 ;//→block30080へ
 [jump storage="30080.ks" target=*30080_TOP]

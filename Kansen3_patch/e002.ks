@@ -22,153 +22,155 @@
 
 *4691|
 [fc]
-The kids are all out to prevent intruders from outside. In[r]
-the DJ bar, there's no one but me. All that's here is good[r]
-liquor and good music.[pcms]
+ガキ共は外からの侵入者を防ぐ為、皆出払った。[r]
+ＤＪバーには、俺以外誰もいねえ。[r]
+あるのは、いい酒と、いい音楽。[pcms]
 
 *4692|
 [fc]
-How many days, no, how many months has it been since I've[r]
-had such a relaxing time?[pcms]
+こんな安らげる時間は、何日ぶり、いや、何ヶ月ぶりだろうか。[pcms]
 
 *4693|
 [fc]
-[ns]Jin[nse]
-They even have Kagami Beer here. Not bad at all...[pcms]
+[ns]壬[nse]
+「カガミビールも置いてあんのか。[r]
+　いいじゃねぇか……」[pcms]
 
 *4694|
 [fc]
-The taste in liquor of this place's owner is really good.[r]
-All of my favorite brands are stocked here.[pcms]
+ここの店主の酒の趣味は本当にいい。[r]
+俺の好きな銘柄が、全部置いてある。[pcms]
 
 *4695|
 [fc]
-[ns]Jin[nse]
-It's the best...[pcms]
+[ns]壬[nse]
+「最高だな……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4696|
 [fc]
-[ns]Shigeyoshi[nse]
-Hey, Aniki! When are we gonna do those brats? It's about[r]
-time we do whatever we want with women and food, right?[pcms]
+[ns]重吉[nse]
+「なぁ、アニキよぉ！　いつになったらあのガキ共、ヤるんだよ。[r]
+　いい加減女と食いモン、俺達の好きな様にしようぜ！」[pcms]
 
 *4697|
 [fc]
-...Just when I was starting to feel good, this guy...[pcms]
+…………。[r]
+せっかくいい気分になりかけてたのに、コイツは……。[pcms]
 
 *4698|
 [fc]
-[ns]Jin[nse]
-Shige...we finally don't have to kiss up to those bastards[r]
-anymore. Don't start with the annoying talk. First off, if[r]
-Mizuki starts yapping, that'll be a real pain.[pcms]
+[ns]壬[nse]
+「シゲ……ようやくあのクソ共の顔色を伺う必要がなくなったんだ[r]
+　めんどくせぇ事言うな。第一、瑞樹にギャーギャーわめかれたら、[r]
+　それこそめんどくせぇ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4699|
 [fc]
-[ns]Shigeyoshi[nse]
-That's true, but... But Aniki! If the whole town, no, the[r]
-whole world has gone to shit like this, why don't we go wild[r]
-and take over the streets for ourselves!?[pcms]
+[ns]重吉[nse]
+「そ、そうだけどよ……。でもよアニキ！　街中、いや、世の中[r]
+　全部こんなザマになってんなら、好きなように暴れてよ、[r]
+　シャバを俺達で牛耳っちまおうぜ！？」[pcms]
 
 *4700|
 [fc]
-[ns]Jin[nse]
-...Don't be so greedy. Shige, calm down a bit. You've got a[r]
-thing for that girl Yuuho, right? If you act like a[r]
-rampaging bull, she won't give you the time of day.[pcms]
+[ns]壬[nse]
+「……がっつくな。シゲ、もう少し落ち着け。[r]
+　お前あの悠帆とか言う子に熱上げてんだろ？[r]
+　そんな暴れ牛みたくしてたら、相手にされねぇぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4701|
 [fc]
-[ns]Shigeyoshi[nse]
-Aniki...stop teasing me...[pcms]
+[ns]重吉[nse]
+「アニキぃ……茶化すのはやめてくれよ……」[pcms]
 
 *4702|
 [fc]
-Shige puffs up his cheeks and sulks like a child. His[r]
-expression lacks any charm or age-appropriateness.[pcms]
+シゲは頬を膨らませ、ガキの様にふてくされている。[r]
+その表情には、年甲斐も可愛げもない。[pcms]
 
 *4703|
 [fc]
-But... I can understand why he's bottling things up. His way[r]
-of life has always been about brawling every day.[pcms]
+しかし……。[r]
+コイツが色々溜め込むのも判らなくはない。[r]
+今までの生き方が暴れる毎日だったからな。[pcms]
 
 *4704|
 [fc]
-Leaving Shige as he is might be fine, but if "something"[r]
-happens, it'll be a real hassle.[pcms]
+シゲをこのまま放っとくのもいいが、もし『何か』あると[r]
+めんどくせぇ事になる。[pcms]
 
 *4705|
 [fc]
-[ns]Jin[nse]
-Hey Shige, you're pent up, aren't you?[pcms]
+[ns]壬[nse]
+「なぁシゲ、お前、タマってんだろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4706|
 [fc]
-[ns]Shigeyoshi[nse]
-Eh!? What's up Aniki, you got a girl or something?[pcms]
+[ns]重吉[nse]
+「え！？　なんだアニキ、誰か女いるのか？」[pcms]
 
 *4707|
 [fc]
-Shige's sulky face softens in an instant, turning into a[r]
-lecherous grin.[pcms]
+膨れっツラをしていたシゲの表情はとたんに和らぎ、[r]
+ただのスケベ面に変わった。[pcms]
 
 *4708|
 [fc]
-[ns]Jin[nse]
-Idiot. That's not what I'm talking about. Sports. It's[r]
-better to move your body. It's refreshing above all else.[r]
-...There's a sports store downstairs. Let's go.[pcms]
+[ns]壬[nse]
+「馬鹿野郎。そんなんじゃねえ。スポーツだ。[r]
+　身体動かした方がいいぞ。なによりスカッとする。[r]
+　……下にスポーツ用品店があんだろ。行くぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4709|
 [fc]
-[ns]Shigeyoshi[nse]
-...Huh?[pcms]
+[ns]重吉[nse]
+「……は？」[pcms]
 
 *4710|
 [fc]
-Shige stares at me with a face like a pigeon that's been[r]
-shot by a bean shooter.[pcms]
+ハトが豆鉄砲を喰らった様な顔で俺を見つめるシゲ。[pcms]
 
 *4711|
 [fc]
-His ever-changing expression slightly soothes my irritation.[pcms]
+コロコロ変わるその表情に、俺の苛立ちは少し和らいでいった。[pcms]
 
 *4712|
 [fc]
-[ns]Jin[nse]
-Heh...I don't hate that part of you. Come on, let's go.[pcms]
+[ns]壬[nse]
+「へっ……お前のそういう所、嫌いじゃねえ。[r]
+　ほら、行くぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4713|
 [fc]
-[ns]Shigeyoshi[nse]
-What are you saying Aniki...heheh, you saying you don't[r]
-hate me means you acknowledge me, right!? Heheh![pcms]
+[ns]重吉[nse]
+「な、何すかアニキ……へへっ、嫌いじゃねぇって事は、[r]
+　俺の事認めてくれてるんすよね！？　へへっ！」[pcms]
 
 *4714|
 [fc]
-[ns]Jin[nse]
-...[pcms]
+[ns]壬[nse]
+「……」[pcms]
 
 *4715|
 [fc]
-...I shouldn't have said anything extra.[pcms]
+……余計な事言うもんじゃねぇな。[pcms]
 
 *4716|
 [fc]
-Taking the elated Shige with me, I use the stairs to head[r]
-down to the lower floor.[pcms]
+舞い上がっているシゲを引き連れ、俺は階段を使って[r]
+下の階へと降りた。[pcms]
 
 ;[zapend_random]
 [zapfade]

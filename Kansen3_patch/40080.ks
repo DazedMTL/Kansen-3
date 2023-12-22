@@ -1,10 +1,10 @@
 ;//block:A009
-;//ブロック４００８０『地下道全員脱出編　中』pt.3A
+;//ブロック４００８０『地下道～全員脱出編～　中』pt.3A
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40070.txtから
 
 *40080_TOP
-;{SceneSet 地下道全員脱出編中}
+;{SceneSet 地下道～全員脱出編～中}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公
@@ -16,85 +16,88 @@
 
 *708|
 [fc]
-I slowly opened Yuuho's cell phone.[pcms]
+ボクはゆっくりと悠帆の携帯を開いた。[pcms]
 
 *709|
 [fc]
-[ns]Wataru[nse]
-"...Just a little... Just a quick look, that's all..."[pcms]
+[ns]航[nse]
+「……少し、だけ……。[r]
+　ちょっと見るだけ、なら……」[pcms]
 
 *710|
 [fc]
-My trembling fingers tried to open the mail inbox...[pcms]
+震える指でメールボックスを開こうとして……。[pcms]
 
 *711|
 [fc]
-"Enter authentication key"[pcms]
+『認証キー入力』[pcms]
 
 *712|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「……っ！」[pcms]
 
 *713|
 [fc]
-I suddenly came to my senses at that message. I closed the[r]
-cell phone as if it had been flung from my hands.[pcms]
+そのメッセージにいきなり我に返った。[r]
+弾かれたように携帯を閉じる。[pcms]
 
 *714|
 [fc]
-[ns]Wataru[nse]
-"I... what am I... doing right now?"[pcms]
+[ns]航[nse]
+「ぼ、ボク……は……今、何を……？」[pcms]
 
 *715|
 [fc]
-Even though I'm curious, to try and sneak a look at[r]
-someone's cell phone!? What am I doing, what kind of thing[r]
-am I...!?[pcms]
+いくら気になるからって、[r]
+ひとの携帯を盗み見ようとするなんて！？[r]
+なんてコトを、ボクは、なんてコトを……！？[pcms]
 
 *716|
 [fc]
-[ns]Wataru[nse]
-"...That's just not right..."[pcms]
+[ns]航[nse]
+「……ありえないだろ、そんなの……」[pcms]
 
 *717|
 [fc]
-If it hadn't asked for a passcode, would I have continued to[r]
-invade Yuuho's privacy!?[pcms]
+暗証キーさえ求められなければ、ボクはそのまま[r]
+悠帆のプライベートを覗き見るつもりだったのか！？[pcms]
 
 *718|
 [fc]
-[ns]Wataru[nse]
-"What am I doing...?"[pcms]
+[ns]航[nse]
+「なに、してんだよ……ボクは……」[pcms]
 
 *719|
 [fc]
-Maruko-senpai and Ren praised me earlier... but there's[r]
-nothing cool about this! I am... I am...![pcms]
+さっきマル子先輩や漣は褒めてくれたけど……[r]
+格好良くもなんともない！[r]
+ボクは……ボクは……！[pcms]
 
 *720|
 [fc]
-[ns]Wataru[nse]
-"I'm the worst..."[pcms]
+[ns]航[nse]
+「サイテーだ……」[pcms]
 
 *721|
 [fc]
-Feeling both pain and sadness, tears welled up in my eyes.[pcms]
+苦しくて悲しくて涙が浮かんでくる。[pcms]
 
 *722|
 [fc]
-When I turned my gaze, I could vaguely see Yuuho lying down[r]
-with her back turned towards me.[pcms]
+その目をふと向けると、[r]
+こちらに背中を向けて寝ている悠帆の姿が[r]
+ぼんやりとにじんで見えた。[pcms]
 
 *723|
 [fc]
-[ns]Wataru[nse]
-"...I'm sorry, Yuuho..."[pcms]
+[ns]航[nse]
+「…………ごめん、悠帆……」[pcms]
 
 *724|
 [fc]
-Muttering an apology, I only borrowed the earphones and put[r]
-the cell phone back where it was originally.[pcms]
+呟くように謝罪したボクは、イヤホンだけを借りて[r]
+携帯を元置いてあったところに戻した。[pcms]
 
 ;//→ブロック４０１１０へ
 [jump storage="40110.ks" target=*40110_TOP]

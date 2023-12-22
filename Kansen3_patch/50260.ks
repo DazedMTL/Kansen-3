@@ -19,110 +19,109 @@
 
 *1466|
 [fc]
-[ns]Announcer[nse]
-"...And now, let's connect to the live broadcasts from[r]
-various locations."[pcms]
+[ns]アナウンサー[nse]
+「……ではここで、[r]
+　各地からの中継を繋いでみましょう」[pcms]
 
 *1467|
 [fc]
-While we were making noise, the news had finished a general[r]
-explanation about the virus and moved on to the next[r]
-segment.[pcms]
+ボクたちが騒いでいる間に、[r]
+ニュースはウィルスについてひととおりの解説を終えて[r]
+次のコーナーに移っていた。[pcms]
 
 *1468|
 [fc]
-The first live broadcast is in front of the provisional[r]
-government on Miyake Island.[pcms]
+最初の中継は三宅島の臨時政府前。[pcms]
 
 *1469|
 [fc]
-A serious-looking male announcer in a neatly tailored suit[r]
-with a side-parted hairstyle is emphasizing the government's[r]
-slow response, even at a time like this.[pcms]
+こんな時だっていうのにキッチリと背広に七三分けの髪型をした[r]
+生真面目そうな男性アナウンサーが[r]
+しきりに政府の対応の遅さを強調している。[pcms]
 
 *1470|
 [fc]
-Then, relay broadcasts from major cities around the country[r]
-began.[pcms]
+それから各地の主要都市の局とのリレー中継が始まった。[pcms]
 
 [bg storage="bg900d"][trans_c cross time=500]
 
 *1471|
 [fc]
-[ns]Relay Announcer A[nse]
-"The movement of infected groups seen in Tokyo has also been[r]
-confirmed here in Osaka."[pcms]
+[ns]中継アナウンサーＡ[nse]
+「東京で見られる感染者集団の、郊外への移動は[r]
+　こちら、大阪でも確認されています」[pcms]
 
 
 *1472|
 [fc]
-[ns]Relay Announcer B[nse]
-"With the movement of infected groups, there are reports of[r]
-flocks of birds moving simultaneously. That's all from the[r]
-Nagoya station."[pcms]
+[ns]中継アナウンサーＢ[nse]
+「感染者の集団が移動するのに伴って、[r]
+　鳥の群れが同時に移動しているとの情報です。[r]
+　以上、名古屋局前からお送りしました」[pcms]
 
 *1473|
 [fc]
-[ns]Relay Announcer C[nse]
-"...Here at Shizuoka Prefectural Hospital, people are[r]
-forming long lines seeking vaccines..."[pcms]
+[ns]中継アナウンサーＣ[nse]
+「……ここ、静岡県立病院には、[r]
+　ワクチンを求める人々が長蛇の列をつくっています……」[pcms]
 
 [bg storage="BG019a"][trans_c cross time=500]
 
 *1474|
 [fc]
-Some broadcast centers not responding to studio calls only[r]
-heightened our anxiety.[pcms]
+中にはスタジオの呼び出しに応答しない放送センターもあって[r]
+ボクたちの不安を掻き立てる。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1475|
 [fc]
-[ns]Kousuke[nse]
-"Is everything okay in Fukuoka? No one's answering, huh?"[pcms]
+[ns]浩助[nse]
+「大丈夫かよ、福岡。誰も返事しねーぞ？」[pcms]
 
 *1476|
 [fc]
-[ns]Wataru[nse]
-"I hope it's just a mistake in the relay..."[pcms]
+[ns]航[nse]
+「単なる中継ミスならいいんだけど……」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1477|
 [fc]
-Other segments switched one after another, including live[r]
-broadcasts from Self- Defense Force roadblocks and shelters.[pcms]
+他にも、自衛隊による幹線道路の封鎖線からの中継や、[r]
+避難所からの中継などが次々に切り替わっていく。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 ;//[vo_mar s="maru1464"]
-[ns]Margarita[nse]
+;//[ns]マルガリータ[nse]
 ;//「避難所は主に、郊外か県外、か……」
 
 *1478|
 [fc]
-"Probably just in case, Maruko-senpai is seriously taking[r]
-notes on a list of shelters."[pcms]
+おそらく万が一のためだろう、[r]
+マル子先輩は真剣な顔で避難所のリストをメモしている。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1479|
 [fc]
-[ns]Announcer[nse]
-"The next live location... will be audio-only. We'll report[r]
-from a shelter in Nezumi Kingdom."[pcms]
+[ns]アナウンサー[nse]
+「次の中継地ですが……、[r]
+　こちらは音声のみの中継となります。[r]
+　ネズミーキングダムの避難所から、お伝えします」[pcms]
 
 *1480|
 [fc]
 [ns]？？？[nse]
-"Yes, this is a shelter in Nezumi Kingdom."[pcms]
+「はい、ネズミーキングダムの避難所です」[pcms]
 ;//＠父親
 
 *1481|
 [fc]
 [ns]？？？[nse]
-"Until just moments ago, we were under attack by a large[r]
-flock of infected crows."[pcms]
+「こちらはつい先ほどまで、[r]
+　感染したカラスの大群の襲撃を受けていました」[pcms]
 ;//＠父親
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -130,70 +129,71 @@ flock of infected crows."[pcms]
 *1482|
 [fc]
 [vo_ren s="ren1357"]
-[ns]Ren[nse]
-"Big brother! This voice!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ！　この声！」[pcms]
 
 *1483|
 [fc]
-[ns]Wataru[nse]
-"Yeah! It's Dad!"[pcms]
+[ns]航[nse]
+「うん！　父さんだっ！」[pcms]
 
 *1484|
 [fc]
-Suddenly hearing the voice, Ren and I cheered.[pcms]
+突如として流れてきた音声に、ボクと漣は歓声をあげた。[pcms]
 
 *1485|
 [fc]
-The screen showed a still photo of Nezumi Kingdom along with[r]
-Dad's name in the caption.[pcms]
+画面はネズミーキングダムの静止画写真と共に、[r]
+父さんの名前がテロップで出されている。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1486|
 [fc]
 [vo_yuh s="yuho1523"]
-[ns]Yuuho[nse]
-"Thank goodness, Ren-chan!"[pcms]
+[ns]悠帆[nse]
+「よかったね、漣ちゃん！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1487|
 [fc]
 [vo_ren s="ren1358"]
-[ns]Ren[nse]
-"Yeah!"[pcms]
+[ns]漣[nse]
+「うん！」[pcms]
 ;//＠一瞬喜んでしまうが
 
 *1488|
 [fc]
-Ren, who had been worried about not receiving an email[r]
-reply, showed a full smile at Yuuho's words...[pcms]
+メールの返信がないことをずっと気に病んでいた漣は[r]
+悠帆の言葉に満面の笑顔を浮かべ……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1489|
 [fc]
 [vo_ren s="ren1359"]
-[ns]Ren[nse]
-"...Ah..."[pcms]
+[ns]漣[nse]
+「…………あ…………」[pcms]
 ;//＠悠帆の親が行方不明ということに気付く
 
 *1490|
 [fc]
-The smile on her face stiffened in an instant.[pcms]
+一瞬でその笑顔を強張らせた。[pcms]
 
 *1491|
 [fc]
-Yuuho's parents were missing... Ren seemed ashamed for being[r]
-the only one rejoicing in front of her.[pcms]
+悠帆の両親は行方不明……。[r]
+それなのに目の前で自分だけが喜んでしまったことを[r]
+恥じているようだった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1492|
 [fc]
 [vo_ren s="ren1360"]
-[ns]Ren[nse]
-"I'm sorry, Yuuho-chan..."[pcms]
+[ns]漣[nse]
+「ごめんね、悠帆ちゃん……」[pcms]
 ;//＠すまなそうに
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -201,122 +201,122 @@ the only one rejoicing in front of her.[pcms]
 *1493|
 [fc]
 [vo_yuh s="yuho1524"]
-[ns]Yuuho[nse]
-"It's okay. Don't worry about it. Knowing that someone I[r]
-know is safe gives me hope too."[pcms]
+[ns]悠帆[nse]
+「いいの。気にしないで。[r]
+　知ってる人が無事だって分かると[r]
+　わたしも希望が持てる気がするから」[pcms]
 
 *1494|
 [fc]
-Yuuho cheerfully responded to cheer up a disheartened Ren.[pcms]
+しょげ返った漣を元気付けようと、悠帆が明るく応えている。[pcms]
 
 *1495|
 [fc]
-It was hard to tell who was comforting whom... As I thought[r]
-this, I caught sight of Mizuki.[pcms]
+これではどちらが慰められているのか分からないな……。[r]
+そんなことを考えていると、瑞樹の姿が目に入った。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1496|
 [fc]
 [vo_miz s="mizuki0274"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 ;//＠自分の親はどうだろう、という不安と期待
 
 *1497|
 [fc]
-Mizuki looked intently at the TV with a face mixed with[r]
-anxiety and hope.[pcms]
+不安と期待が入り混じったような顔をして[r]
+瑞樹はじっとテレビに目を向けている。[pcms]
 
 *1498|
 [fc]
-She must be thinking about her parents too...[pcms]
+きっと瑞樹も両親のことを考えてるんだろうな……。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1499|
 [fc]
-[ns]Father[nse]
-"Those inside the shelter building are safe, but there[r]
-appears to be a large number of casualties among those who[r]
-were in tents outside."[pcms]
+[ns]父[nse]
+「避難所の建物内にいた人たちは無事ですが、[r]
+　屋外のテントにいた人々の間に[r]
+　犠牲者が多数、出ている模様です」[pcms]
 
 *1500|
 [fc]
-In the meantime, Dad continued to read the news script[r]
-impassively.[pcms]
+そんな間にも、父さんは淡々とニュース原稿を読み上げている。[pcms]
 
 *1501|
 [fc]
-Dad might be anxious too, and he even cried when he spoke to[r]
-us on the phone, but his professional voice didn't let any[r]
-of that show.[pcms]
+自分だって不安だろうし、[r]
+ボクたちと電話した時は泣いてさえいた父さんだけど、[r]
+仕事用の声は、そんなことをひとかけらも感じさせない。[pcms]
 
 *1502|
 [fc]
-[ns]Father[nse]
-"To prevent the spread of infection inside the shelter and[r]
-throughout the prefecture, U.S. forces stationed in Japan[r]
-and the Self-Defense Force have been deployed."[pcms]
+[ns]父[nse]
+「避難所内部や県内での感染拡大を防ぐために、[r]
+　在日米軍や自衛隊も出動しました」[pcms]
 
 *1503|
 [fc]
-[ns]Father[nse]
-"The chaos is gradually subsiding, but this attack has[r]
-rapidly spread anxiety among the evacuees."[pcms]
+[ns]父[nse]
+「徐々に混乱は収まりつつありますが、[r]
+　今回の襲撃をきっかけに、[r]
+　避難民の間には急速に不安が広がっています」[pcms]
 
 *1504|
 [fc]
-[ns]Father[nse]
-"That's all from the Nezumi Kingdom shelter."[pcms]
+[ns]父[nse]
+「以上、ネズミーキングダム、避難所よりお伝えしました」[pcms]
 
 *1505|
 [fc]
-The broadcast returned to the studio, and Dad's voice was no[r]
-longer heard, but a warm light of hope had been lit in my[r]
-heart...[pcms]
+中継はスタジオに戻され、[r]
+父さんの声はもう聞こえなくなったけれど[r]
+ボクの心には、暖かな希望の灯が点った……。[pcms]
 
 *1506|
 [fc]
-[ns]Announcer[nse]
-"...With this situation, we await urgent announcements from[r]
-the provisional government on Miyake Island and from various[r]
-countries including the United States..."[pcms]
+[ns]アナウンサー[nse]
+「……こうなりますと、[r]
+　三宅島の臨時政府や、合衆国はじめ各国からの[r]
+　一刻も早いアナウンスが待たれます……」[pcms]
 
 *1507|
 [fc]
-The announcer concluded with that statement and then bowed[r]
-after relaying information about emergency websites and[r]
-message boards for disasters.[pcms]
+そう締めくくったアナウンサーは、[r]
+最後に緊急災害時用のＨＰや伝言板の情報を伝えて一礼をした。[pcms]
 
 *1508|
 [fc]
-Suddenly, the screen switched to an out-of-place scenic[r]
-photo and healing music began to play.[pcms]
+途端に画面はいかにも場違いな風景写真に切り替わり、[r]
+ヒーリングミュージックが奏でられ始めた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1509|
 [fc]
-[ns]Kousuke[nse]
-"What..."[pcms]
+[ns]浩助[nse]
+「なっ……」[pcms]
 
 *1510|
 [fc]
-Kousuke leaned toward the monitor.[pcms]
+コースケがモニターに詰め寄った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1511|
 [fc]
-[ns]Kousuke[nse]
-"Is it over!? Isn't there more news or something!?"[pcms]
+[ns]浩助[nse]
+「終わりかよ！？[r]
+　なんかこう、もっと他のネタ、ねーのかよっ！？」[pcms]
 
 *1512|
 [fc]
-But all that was on the screen was a slowly scrolling[r]
-caption that read "Please wait for the next broadcast."[pcms]
+だけど画面には「次の放送をお待ち下さい」のテロップが[r]
+ゆっくりと流れているだけだった。[pcms]
 
 ;//→ブロック５０２７０へ
 [jump storage="50270.ks" target=*50270_TOP]

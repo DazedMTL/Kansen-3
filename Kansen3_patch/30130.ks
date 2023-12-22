@@ -10,7 +10,7 @@
 ;//時間帯：朝
 ;//合計1K程度
 ;//---------------------------------------------------------------
-;//▲４３：時間切れ
+;//▲４－３：時間切れ
 
 ;//BG：学園廊下
 [bg storage="BG017"][trans_c cross time=500]
@@ -20,47 +20,49 @@
 
 *938|
 [fc]
-A moment of hesitation.[pcms]
+一瞬の迷い。[pcms]
 
 *939|
 [fc]
-Despite the situation not allowing for it, I hesitated.[pcms]
+それが許されない状況であるのにも拘らず、[r]
+ボクはしてしまった。[pcms]
 
 *940|
 [fc]
-And that would prove to be a fatal mistake.[pcms]
+そしてそれは大きな致命傷になる。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *941|
 [fc]
-[ns]Infected Man A[nse]
-"Womaaaan!"[pcms]
+[ns]感染者・男Ａ[nse]
+「女ぁああっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *942|
 [fc]
 [vo_ren s="ren0233"]
-[ns]Ren[nse]
-"Kyaaah!!"[pcms]
+[ns]漣[nse]
+「きゃああっ！！」[pcms]
 
 *943|
 [fc]
-[ns]Wataru[nse]
-"Le... Let go of Ren!!"[pcms]
+[ns]航[nse]
+「れ、漣を放せっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *944|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, this way!"[pcms]
+[ns]浩助[nse]
+「ワタル、こっちだっ！」[pcms]
 
 *945|
 [fc]
-Guided by Kousuke's voice, I carried Ren and dove into the[r]
-audio-visual room.[pcms]
+コースケの声に導かれるままに、[r]
+ボクは漣を抱えるようにして、[r]
+視聴覚室に飛び込んだ。[pcms]
 
 ;//BG：教室（もしくは黒画面？）
 [bg storage="BG018"][trans_c cross time=500]
@@ -68,26 +70,26 @@ audio-visual room.[pcms]
 
 *946|
 [fc]
-[ns]Wataru[nse]
-"Close it quickly!"[pcms]
+[ns]航[nse]
+「早く閉めろっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *947|
 [fc]
-[ns]Kousuke[nse]
-"I know!"[pcms]
+[ns]浩助[nse]
+「わかってるっ！」[pcms]
 
 *948|
 [fc]
-Kousuke, who had jumped into the audio-visual room first,[r]
-leaped at the sliding door, trying to close it as soon as we[r]
-jumped in.[pcms]
+いち早く視聴覚室へと飛び込んだコースケは、[r]
+スライドドアの扉に飛びつくと、ボクらが[r]
+飛び込むと同時に閉めようとした。[pcms]
 
 *949|
 [fc]
-But before it could fully close, they started pouring into[r]
-the audio-visual room like an avalanche.[pcms]
+でも、完全に閉まりきる前にヤツらが[r]
+なだれ込むように視聴覚室へと入り込んできた。[pcms]
 
 ;//♂：黒画面の場合、（HEV019A）に未挿入の差分があれば瞬間的に差し入れて下さい。
 
@@ -96,179 +98,183 @@ the audio-visual room like an avalanche.[pcms]
 *950|
 [fc]
 [vo_ren s="ren0234"]
-[ns]Ren[nse]
-"Nooo!!"[pcms]
+[ns]漣[nse]
+「いやぁあああっ！！」[pcms]
 
 ;//se065
 [se buf=0 storage="se065"]
 
 *951|
 [fc]
-With the sound of fabric being torn, Ren's scream could be[r]
-heard.[pcms]
+布が引き裂かれる音と共に、漣の悲鳴が聞こえる。[pcms]
 
 *952|
 [fc]
-In the momentum of their rush, Ren was captured by them in[r]
-the moment my hand slipped away.[pcms]
+なだれ込まれた勢いで一瞬、[r]
+手が離れた隙に、漣がヤツラに囚われた。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *953|
 [fc]
-[ns]Infected Man A[nse]
-"Hyahahaha! Soft woman's skin!"[pcms]
+[ns]感染者・男Ａ[nse]
+「ひゃははははっ！　やわらかい女の肌だぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_a"][ChrSetXY layer=5 x=178 y=0][trans_c cross time=150]
 
 *954|
 [fc]
-[ns]Infected Man B[nse]
-"Smells good. The filthy scent of a bitch."[pcms]
+[ns]感染者・男Ｂ[nse]
+「いい匂いだぜ。いやらしいメスの匂いだ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *955|
 [fc]
 [vo_ren s="ren0235"]
-[ns]Ren[nse]
-"No, stop! Let me go!!"[pcms]
+[ns]漣[nse]
+「い、いやっ！　やめて。放してっ！！」[pcms]
 
 *956|
 [fc]
-[ns]Wataru[nse]
-"Ren!!"[pcms]
+[ns]航[nse]
+「漣っ！！」[pcms]
 
 *957|
 [fc]
-In my haste to rush over, a woman cut between me and Ren.[pcms]
+慌てて駆け寄ろうとしたボクと[r]
+漣の間を裂くように、女が割り込んでくる。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
 *958|
 [fc]
 [vo_mob s="onna_iti0004"]
-[ns]Infected Woman A[nse]
-"Let's enjoy this too."[pcms]
+[ns]感染者・女Ａ[nse]
+「こっちも楽しみましょう」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_d"][ChrSetXY layer=5 x=166 y=0][trans_c cross time=150]
 
 *959|
 [fc]
 [vo_mob s="onna2_0001"]
-[ns]Infected Woman C[nse]
-"Ahaha, dick, dick. A young and smegma-smelling dick."[pcms]
+[ns]感染者・女Ｃ[nse]
+「あはは、チンコ、チンコよぉ。[r]
+　若くてチンカス臭いチンコよぉ」[pcms]
 
 *960|
 [fc]
-[ns]Wataru[nse]
-"Wait..."[pcms]
+[ns]航[nse]
+「ちょっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_f12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *961|
 [fc]
-[ns]Kousuke[nse]
-"Sto... stop it. Ugh, uwaahhh!!"[pcms]
+[ns]浩助[nse]
+「や、やめ……やめろって。う、うわぁあああっ！」[pcms]
 
 *962|
 [fc]
-Kousuke's voice could also be heard in the distance.[pcms]
+遠くでコースケの声も聞こえてきた。[pcms]
 
 *963|
 [fc]
-But my view was blocked by a woman's ample breasts, and I[r]
-couldn't understand the situation at all.[pcms]
+だけどボクの目の前は女の豊かな胸で塞がれていて、[r]
+状況がまったくわからない。[pcms]
 
 *964|
 [fc]
-Maybe Kousuke is being attacked just like me?[pcms]
+たぶん、コースケもボクと同じように、[r]
+襲われているんだろうか？[pcms]
 
 [ChrSetEx layer=5 chbase="ren_j9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *965|
 [fc]
 [vo_ren s="ren0236"]
-[ns]Ren[nse]
-"Big brother, he... help me... he... Nooo!!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんっ、た、助けて……[r]
+　たすけ……いやぁああああああっ！！」[pcms]
 
 *966|
 [fc]
-Ren's scream could be heard.[pcms]
+漣の悲鳴が聞こえる。[pcms]
 
 *967|
 [fc]
-But my limbs were pinned down by the women, and I couldn't[r]
-move at all.[pcms]
+けれどボクの四肢は女たちに押さえつけられ、[r]
+動かすこともできない。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_e"][ChrSetXY layer=5 x=171 y=0][trans_c cross time=150]
 
 *968|
 [fc]
 [vo_mob s="onna_iti0005"]
-[ns]Infected Woman A[nse]
-"Nnnch... lero lero... nchuuhhh"[pcms]
+[ns]感染者・女Ａ[nse]
+「んっちゅ……れろれろ……んちゅぅううっ」[pcms]
 
 *969|
 [fc]
-The woman's tongue began to entwine around my thing. Am I[r]
-going to be raped like this?[pcms]
+女の舌が、ボクのモノに絡みついてくる。[r]
+このまま犯されるのか？[pcms]
 
 *970|
 [fc]
-Ren, Kousuke, and I...[pcms]
+漣も、コースケも、ボクも……。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_d"][ChrSetXY layer=5 x=166 y=0][trans_c cross time=150]
 
 *971|
 [fc]
 [vo_mob s="onna2_0002"]
-[ns]Infected Woman C[nse]
-"Come on, suck on these tits, knead them! Make them all[r]
-messy!"[pcms]
+[ns]感染者・女Ｃ[nse]
+「ほらぁ、おっぱい吸ってぇえ、[r]
+　揉んでぇ！　ぐちゃぐちゃにしてぇえ」[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *972|
 [fc]
-The woman's breasts pressed against my mouth and nose as if[r]
-to smother me.[pcms]
+口と鼻を押さえつけるように迫る女の胸。[pcms]
 
 *973|
 [fc]
-With a strength unimaginable from her slender body, she[r]
-pressed her soft breasts against me.[pcms]
+その華奢な身体からは想像も付かないような怪力で、[r]
+柔らかなその胸に押しつける。[pcms]
 
 *974|
 [fc]
-[ns]Wataru[nse]
-"Nnnh!! Ghh...!!"[pcms]
+[ns]航[nse]
+「んんっ！！　ぐっ……！！」[pcms]
 
 *975|
 [fc]
-I can't breathe...! It's suffocating!![pcms]
+い、息が……！[r]
+苦しいっ！！[pcms]
 
 *976|
 [fc]
 [vo_mob s="onna2_0003"]
-[ns]Infected Woman C[nse]
-"What's wrong~! You like it, don't you? Tits... Lick them[r]
-properly!"[pcms]
+[ns]感染者・女Ｃ[nse]
+「なによぉ～！　好きなんでしょ？　おっぱい……。[r]
+　ちゃんとナメなさいよ！」[pcms]
 
 *977|
 [fc]
-[ns]Wataru[nse]
-"Ca... gahh..."[pcms]
+[ns]航[nse]
+「かっ……がはっ……」[pcms]
 
 *978|
 [fc]
-My consciousness drifted away, sucked into the darkness.[pcms]
+ボクの意識はそのまま遠ざかり、[r]
+暗闇の中に吸い込まれていった。[pcms]
 
 
 ;//ＥＮＤ
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

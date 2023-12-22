@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）昼
+;//・時間帯：５日目（８月１９日）昼～
 ;//
 ;//※ライター様へ。
 ;//　このブロックはいわゆる日常シーンですが、
@@ -28,18 +28,18 @@
 
 *5843|
 [fc]
-[ns]Wataru[nse]
-"...I'm curious."[pcms]
+[ns]航[nse]
+「……気になるなあ」[pcms]
 
 *5844|
 [fc]
-Just last night, I saw Ren and Kousuke getting scolded for[r]
-eavesdropping, and I thought it wouldn't be right to do the[r]
-same. But what can I do? Curiosity can't be helped.[pcms]
+昨夜、立ち聞きした漣とコースケが怒られてるのを見たばかりで[r]
+同じことするのも、どうかと思うけど。[r]
+気になるものは気になるんだから、しょうがない。[pcms]
 
 *5845|
 [fc]
-I tiptoed quietly towards the kitchen.[pcms]
+ボクは足音を忍ばせて、そろそろとキッチンに近付いていった。[pcms]
 
 ;//〆キッチン
 [bg storage="BG022"][trans_c cross time=500]
@@ -47,307 +47,305 @@ I tiptoed quietly towards the kitchen.[pcms]
 
 *5846|
 [fc]
-Peeking in with just half of my face showing from the[r]
-entrance.[pcms]
+入り口から顔半分だけ出して、そっと覗き込む。[pcms]
 
 *5847|
 [fc]
-Shigeyoshi's voice could be heard from behind the counter.[pcms]
+重吉の声は調理台の陰から聞こえてきた。[pcms]
 
 *5848|
 [fc]
-Crouching with his back to me, holding something... Ah, a[r]
-cellphone. Seems like he's talking to someone...[pcms]
+ボクに背を向けてしゃがみ込んで、何かを持って……。[r]
+あ、携帯か。[r]
+誰かと話してるみたいだな……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5849|
 [fc]
-[ns]Shigeyoshi[nse]
-"...Big bro... he's not coming back... Yeah... soon... Damn[r]
-it, just hold on until I return..."[pcms]
+[ns]重吉[nse]
+「……アニキは……もう戻らねぇよ……。[r]
+　…………そうだ……、もうすぐ……、[r]
+　馬鹿野郎っ、俺様が帰るまで……、辛抱しろって……」[pcms]
 
 *5850|
 [fc]
-His voice was hushed, so I couldn't hear clearly, but it[r]
-sounded like he was calming someone down, maybe a[r]
-subordinate or a younger brother in the family.[pcms]
+声をひそめているので、はっきりとは聞こえないけど、[r]
+誰か身内の……部下とか弟分みたいな人をなだめてるようだ。[pcms]
 
 *5851|
 [fc]
-Speaking of which, Jin-san and Shigeyoshi left their[r]
-underlings... those rough- looking guys at Celesta Tower and[r]
-came here.[pcms]
+そういえば壬さんと重吉は、セレスタワーに手下を……[r]
+あのガラの悪い人たちを残して、こっちに来てるんだっけ。[pcms]
 
 *5852|
 [fc]
-Without the boss, even yakuza would be in trouble...[r]
-Hierarchical relationships are complicated...[pcms]
+ボスがいないんじゃ、いくら極道だって困るよな……。[r]
+縦社会の人間関係って難しい……。[pcms]
 
 *5853|
 [fc]
-Well, it seems like a family matter that doesn't concern us,[r]
-so maybe it's time to head back...[pcms]
+まあ、ボクたちには関係なさそうな彼らの身内話らしいから、[r]
+そろそろ引き返したほうがいいかな……。[pcms]
 
 *5854|
 [fc]
-Just as I was about to step back, my shoe made a high-[r]
-pitched squeak![pcms]
+後ずさりしようとした時。[r]
+靴底がキュッと、甲高い音を立ててしまった！[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5855|
 [fc]
-[ns]Shigeyoshi[nse]
-"Who's there?!!!"[pcms]
+[ns]重吉[nse]
+「誰だっ！！！」[pcms]
 
 *5856|
 [fc]
-[ns]Wataru[nse]
-"Ah, umm, well..."[pcms]
+[ns]航[nse]
+「あ、あ、あの……えっと……」[pcms]
 
 *5857|
 [fc]
-Should I run away!?[pcms]
+に、逃げるか！？[pcms]
 
 *5858|
 [fc]
-But he's already seen my face clearly, there's nowhere to[r]
-hide if I go back to the dome, and Shigeyoshi is already[r]
-closing in on me!![pcms]
+だけどもう顔はバッチリ見られてるし、[r]
+ドームに戻っても隠れる場所がないし、[r]
+だいたい重吉はもう目の前まで迫ってるし！！[pcms]
 
 *5859|
 [fc]
-No use...!! I gave up and decided to confront Shigeyoshi.[pcms]
+無理……っ！！[r]
+ボクはあきらめて、重吉と対峙することにした。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5860|
 [fc]
-[ns]Shigeyoshi[nse]
-"You little...!!"[pcms]
+[ns]重吉[nse]
+「てんめぇ……ッ！！」[pcms]
 
 *5861|
 [fc]
-Grunting in a low voice filled with menace, Shigeyoshi[r]
-glared at me. His eyes were ablaze with anger, as if he was[r]
-about to pounce on me any moment.[pcms]
+ドスの効いた低い声で唸りながら、重吉はボクを睨む。[r]
+その目は怒りに燃えていて、[r]
+今にもボクに掴みかかってきそうだった。[pcms]
 
 *5862|
 [fc]
-[ns]Wataru[nse]
-"Um... that... sorry. When I came to the dome, I heard[r]
-voices and... just..."[pcms]
+[ns]航[nse]
+「えっと……その……すいません。[r]
+　ドームに来たら声が聞こえたんで……つい……」[pcms]
 
 *5863|
 [fc]
-No matter who the person is, eavesdropping is still wrong. I[r]
-apologized sincerely.[pcms]
+相手がどういう人種であれ、立ち聞きはやっぱりまずかった。[r]
+ボクは素直に謝った。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5864|
 [fc]
-[ns]Shigeyoshi[nse]
-"..."[pcms]
+[ns]重吉[nse]
+「………………」[pcms]
 
 *5865|
 [fc]
-Shigeyoshi stared at me intently, falling silent for a[r]
-while.[pcms]
+重吉はじっとボクを睨みつけながら、しばし黙り込む。[pcms]
 
 *5866|
 [fc]
-The silence was as heavy as a rock...[pcms]
+沈黙が岩のように重い……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5867|
 [fc]
-[ns]Shigeyoshi[nse]
-"Are you alone?"[pcms]
+[ns]重吉[nse]
+「一人か？」[pcms]
 
 *5868|
 [fc]
-[ns]Wataru[nse]
-"Huh? Yes... it's just me, but..."[pcms]
+[ns]航[nse]
+「え？　ええ……ボクひとりです、けど……」[pcms]
 
 *5869|
 [fc]
-Why would he ask that? Could it be...?[pcms]
+なんでそんなこと聞くんだろう？　まさか……？[pcms]
 
 *5870|
 [fc]
-A cold sweat broke out on my back.[pcms]
+背中にドッといやな汗が噴き出してくる。[pcms]
 
 *5871|
 [fc]
-Could it be something like being 'erased'...!?[pcms]
+け、消されるとか、そうゆうことじゃ……！？[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5872|
 [fc]
-[ns]Shigeyoshi[nse]
-"How much did you hear?"[pcms]
+[ns]重吉[nse]
+「話はどこまで聞いた？」[pcms]
 
 *5873|
 [fc]
-[ns]Wataru[nse]
-"Ah, well... that is, your voice was low and... I didn't[r]
-really hear much..."[pcms]
+[ns]航[nse]
+「あ、えっと……その、声が低かったっていうか、[r]
+　あんまり聞こえてなくて……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5874|
 [fc]
-[ns]Shigeyoshi[nse]
-"Just say it!! How much did you hear!?"[pcms]
+[ns]重吉[nse]
+「いいから言えっ！！　どこまで聞いた！？」[pcms]
 
 *5875|
 [fc]
-[ns]Wataru[nse]
-"Yes! I heard something about 'holding on' and[r]
-'returning'... It was kind of choppy."[pcms]
+[ns]航[nse]
+「ははははいっ！　し、辛抱しろとか、帰るとか……。[r]
+　なんか途切れ途切れでしたけど」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5876|
 [fc]
-[ns]Shigeyoshi[nse]
-"That's all, right!?"[pcms]
+[ns]重吉[nse]
+「それだけ、だな！？」[pcms]
 
 *5877|
 [fc]
-[ns]Wataru[nse]
-"That's all, yes!!"[pcms]
+[ns]航[nse]
+「それだけ、ですっ！！」[pcms]
 
 *5878|
 [fc]
-Hiding my inner fear, I tried to put on a brave face. But my[r]
-heart was already racing as if it was about to explode...[pcms]
+内心の恐怖を隠して、強気の顔をつくってみせる。[r]
+だけどもう心臓は爆発寸前に駆け足になっていて……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5879|
 [fc]
-[ns]Shigeyoshi[nse]
-"...Well, fine. Don't talk about this to anyone, got it?"[pcms]
+[ns]重吉[nse]
+「……まあいいだろ。[r]
+　今のこと……誰にも話すなよ？　いいな？」[pcms]
 
 *5880|
 [fc]
-[ns]Wataru[nse]
-"Ah... yes"[pcms]
+[ns]航[nse]
+「あ……はい」[pcms]
 
 *5881|
 [fc]
-I seemed to have been forgiven... Just as I was about to[r]
-feel relieved, Shigeyoshi's words hit me like a follow-up[r]
-blow.[pcms]
+どうやら許してもらえそうだ……。[r]
+ホッとしかけたボクの耳に、重吉の追い討ちが飛ぶ。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5882|
 [fc]
-[ns]Shigeyoshi[nse]
-"If you tell anyone, your sister and Yuuho-chan will suffer,[r]
-you get me?"[pcms]
+[ns]重吉[nse]
+「誰かに話したら、お前の妹や悠帆ちゃんが痛い目見るぜ？」[pcms]
 
 *5883|
 [fc]
-What?! Why are Ren and Yuuho being brought into this!?[pcms]
+な、何ぃっ！？[r]
+なんでそこで漣や悠帆が出てくるんだよっ！？[pcms]
 
 *5884|
 [fc]
-Annoyed, I glared back at Shigeyoshi.[pcms]
+カチンときたボクは重吉を睨み返してしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5885|
 [fc]
-[ns]Shigeyoshi[nse]
-"...What's with that look, huh?!!"[pcms]
+[ns]重吉[nse]
+「……ンだよっ、その目はよぉッ！！？」[pcms]
 
 *5886|
 [fc]
-He really is a yakuza. He threatens people by exploiting[r]
-their weaknesses to control them.[pcms]
+やっぱり、こいつはヤクザなんだ。[r]
+人の弱みにつけ込んで脅して、言いなりにするヤツなんだ。[pcms]
 
 *5887|
 [fc]
-I might let it slide if it were just me, but using Ren and[r]
-Yuuho as leverage is absolutely unforgivable![pcms]
+ボクだけならまだしも、[r]
+漣や悠帆を盾に取るなんて絶対に許せない！[pcms]
 
 *5888|
 [fc]
-[ns]Wataru[nse]
-"I apologize for eavesdropping! But why do I have to be[r]
-threatened?! Were you discussing something that would cause[r]
-trouble if overheard?!"[pcms]
+[ns]航[nse]
+「た、立ち聞きしたのは謝りますけどね！[r]
+　なんで脅されなくちゃいけないんですかっ！！[r]
+　聞かれて困るような話してたんですかっ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5889|
 [fc]
-[ns]Shigeyoshi[nse]
-"What...!"[pcms]
+[ns]重吉[nse]
+「なっ……！」[pcms]
 
 *5890|
 [fc]
-[ns]Wataru[nse]
-"Don't tell me you're planning something shady! If anything[r]
-happens, I won't forgive you either!!"[pcms]
+[ns]航[nse]
+「まさか、変なこと企んでるんじゃないでしょうね！[r]
+　何かあったら、ボクこそ許さないですよ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5891|
 [fc]
-[ns]Shigeyoshi[nse]
-"You little brat...!!!"[pcms]
+[ns]重吉[nse]
+「てんめぇッ、このぉッ……！！！」[pcms]
 
 *5892|
 [fc]
-Gripping my chest tightly and twisting it, Shigeyoshi's[r]
-seasoned movements left me unable to breathe or move an[r]
-inch.[pcms]
+ぐいっと胸元を掴まれ、ねじりざまに締め上げられる。[r]
+百戦錬磨の重吉だけあって、その動きだけでもう[r]
+ボクは息も身動きもできなくなってしまった。[pcms]
 
 *5893|
 [fc]
-[ns]Wataru[nse]
-"Guh..."[pcms]
+[ns]航[nse]
+「くっ…………」[pcms]
 
 *5894|
 [fc]
-I thought it was over...[pcms]
+終わった……、と思った。[pcms]
 
 *5895|
 [fc]
-But...[pcms]
+だけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5896|
 [fc]
-[ns]Shigeyoshi[nse]
-"...Tch."[pcms]
+[ns]重吉[nse]
+「…………ちッ」[pcms]
 
 *5897|
 [fc]
-Suddenly, as if throwing me away, Shigeyoshi released me[r]
-onto the floor, spat on the ground, and glared at me[r]
-fiercely.[pcms]
+不意に。投げ捨てるようにボクを放り出した重吉は[r]
+床に唾を吐き、ボクを凄い目で睨む。[pcms]
 
 *5898|
 [fc]
-If looks could kill, I would have been combo KO'd at that[r]
-moment.[pcms]
+視線だけで人が殺せるものなら、[r]
+ボクはこの瞬間、コンボ技ＫＯをくらったも同然だった。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5899|
 [fc]
-[ns]Shigeyoshi[nse]
-"Don't you dare underestimate me!!"[pcms]
+[ns]重吉[nse]
+「舐めてんじゃねぇぞ！！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -356,56 +354,56 @@ moment.[pcms]
 
 *5900|
 [fc]
-As he left, he slammed the door with all his might, and[r]
-Shigeyoshi disappeared.[pcms]
+出ていきざまに、[r]
+思いっきりドアを叩きつけて重吉は姿を消した。[pcms]
 
 *5901|
 [fc]
-[ns]Wataru[nse]
-"...huh, huff...ah..."[pcms]
+[ns]航[nse]
+「…………ふ、ふわ……ぁ……」[pcms]
 
 *5902|
 [fc]
-I slumped down onto the floor.[pcms]
+ボクはずるずると床にへたり込む。[pcms]
 
 *5903|
 [fc]
-That was... terrifying... I thought I was going to be[r]
-killed...[pcms]
+こ……怖かった……。殺されるかと思った……。[pcms]
 
 *5904|
 [fc]
-Slipping a finger inside my collar to loosen my clothes, I[r]
-let out a deep sigh of relief and relaxation.[pcms]
+襟元に指を入れて、服を緩めながら[r]
+ボクは安堵と脱力の深いためいきをつく。[pcms]
 
 *5905|
 [fc]
-[ns]Wataru[nse]
-"That was seriously dangerous just now..."[pcms]
+[ns]航[nse]
+「い、今のはマジでやばかった……」[pcms]
 
 *5906|
 [fc]
-Maybe I got a little too carried away... Carrying Tadahiko's[r]
-gun on my hip might have made me too bold...[pcms]
+ちょっとボク、調子に乗りすぎかな……。[r]
+腰に彦ちんの銃なんか持ってるから、[r]
+気が大きくなりすぎてるのかも……。[pcms]
 
 *5907|
 [fc]
-Characters who are all bluster like this usually raise death[r]
-flags as soon as they appear in movies...[pcms]
+こんな威勢がいいだけのキャラなんて、[r]
+映画とかだったら登場してすぐ死亡フラグ立っちゃうよ……。[pcms]
 
 *5908|
 [fc]
-[ns]Wataru[nse]
-"I should think things through a bit more from now on..."[pcms]
+[ns]航[nse]
+「こ、今後はもう少し、考えよう……」[pcms]
 
 *5909|
 [fc]
-Reminding myself that I won't live long if I'm not careful,[r]
-I finally managed to stand up.[pcms]
+長生きできなくなるぞ、と自分を戒めながら、[r]
+ボクはようやく立ち上がった。[pcms]
 
 *5910|
 [fc]
-Anyway... let's head to the rooftop...[pcms]
+とにかく……屋上に行こう……。[pcms]
 
 ;//黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

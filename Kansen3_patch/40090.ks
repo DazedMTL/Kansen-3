@@ -1,10 +1,10 @@
 ;//block:A010
-;//ブロック４００９０『地下道全員脱出編　中』pt.3B
+;//ブロック４００９０『地下道～全員脱出編～　中』pt.3B
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40070.txtから
 
 *40090_TOP
-;{SceneSet 地下道全員脱出編中}
+;{SceneSet 地下道～全員脱出編～中}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公
@@ -18,69 +18,70 @@
 
 *725|
 [fc]
-[ns]Wataru[nse]
-"...No, no, no, no. That's definitely not okay, that's the[r]
-one thing I can't do."[pcms]
+[ns]航[nse]
+「………………いやいやいやいや。[r]
+　やっぱ、まずいでしょ、それだけは」[pcms]
 
 *726|
 [fc]
-Having resisted the dark temptation, I only borrowed the[r]
-earphones and put the cellphone back where it originally[r]
-was.[pcms]
+黒い誘惑を押し退けたボクは、イヤホンだけを借りて[r]
+携帯を元置いてあったところに戻した。[pcms]
 
 *727|
 [fc]
-[ns]Wataru[nse]
-"...Uuuuu..."[pcms]
+[ns]航[nse]
+「…………うううう……」[pcms]
 
 *728|
 [fc]
-Even though I stopped myself at the last moment... just the[r]
-thought of snooping through someone else's cellphone is[r]
-embarrassing.[pcms]
+危ういところで思いとどまったものの……、[r]
+ひとの携帯を盗み見するなんてコト、[r]
+思いついただけで、恥ずかしい。[pcms]
 
 *729|
 [fc]
-I wonder if I'm... really such a jealous person to even[r]
-think of doing that.[pcms]
+そこまでしようと思うなんて、[r]
+ボク……、相当、嫉妬深い性格なのかな……。[pcms]
 
 *730|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *731|
 [fc]
-I casually glance over at everyone who is asleep.[pcms]
+ふと眠っているみんなの方に視線をやる。[pcms]
 
 *732|
 [fc]
-Senpai Maruko and Ren are sleeping...[pcms]
+マル子先輩や漣が眠ってる……。[pcms]
 
 *733|
 [fc]
-They both complimented me earlier... They said I was cool...[r]
-They don't know that I'm such a dark-hearted guy...[pcms]
+さっき二人は褒めてくれた……。[r]
+ボクを格好いいって言ってくれた……。[r]
+ボクがこんな黒いオトコだなんて知らないで……。[pcms]
 
 *734|
 [fc]
-But... even though I'm such a flawed person, if someone has[r]
-expectations of me, I'll try a little harder...[pcms]
+でも……、こんなダメなボクだけど[r]
+誰かが期待してくれるなら、[r]
+もう少し、頑張ってみるよ……。[pcms]
 
 *735|
 [fc]
-Next to them, Yuuho is sleeping with her back turned to me,[r]
-faintly illuminated by the lantern.[pcms]
+その隣には、こちらに背中を向けて寝ている悠帆の姿が[r]
+ランタンにぼんやりと照らされている。[pcms]
 
 *736|
 [fc]
-[ns]Wataru[nse]
-"...I'm sorry, Yuuho."[pcms]
+[ns]航[nse]
+「……ごめんな、悠帆」[pcms]
 
 *737|
 [fc]
-Though it was only an attempt, I can't escape the feeling of[r]
-guilt. I muttered a small apology.[pcms]
+未遂ではあったけれど、罪の意識からは逃げられない。[r]
+ボクは小さく謝罪の言葉を呟いた。[pcms]
 
 ;//→ブロック４０１１０へ
 [jump storage="40110.ks" target=*40110_TOP]

@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・漣
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//・テキスト分量：エロシーン２カットで１０Ｋ前後
 ;//---------------------------------------------------------------
 ;//block:B002
@@ -21,8 +21,7 @@
 ;[winset][scene_exp_init]
 
 ;	[link target=*scene_selend exp="f.l_iori_sex = 1"]緒織とセックスした[endlink]
-(link target=*scene_selend)I haven't had sex with[r]
-Inori(endlink)[pcms]
+;	[link target=*scene_selend]緒織とセックスしていない[endlink][s]
 
 	[call storage="_scene_sel.ks" target=*scene_sel_iori]
 
@@ -46,7 +45,7 @@ Inori(endlink)[pcms]
 
 
 
-;mm イベントHEV047eHEV047p合わせで白ワンピに修正する。HEV058は使用しない　2016/03/28
+;mm イベントHEV047e～HEV047p合わせで白ワンピに修正する。HEV058は使用しない　2016/03/28
 
 
 ;	;//〆HEV056
@@ -55,9 +54,9 @@ Inori(endlink)[pcms]
 
 *7594|
 [fc]
-The palm of my hand pressed against Ren's crotch. It's not[r]
-my imagination. My palm is getting wet. Is it... getting[r]
-wet...?[pcms]
+漣のアソコに押し付けられたボクの手のひら。[r]
+気のせいじゃない。手のひらが湿ってきている。[r]
+濡れて……きているのか……？[pcms]
 
 	;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -66,25 +65,26 @@ wet...?[pcms]
 *7595|
 [fc]
 [vo_ren s="ren0990"]
-[ns]Ren[nse]
-"Onii-chan, hold me. You can do whatever you like. Right?[r]
-Onii-chan, you feel it, don't you? I... I'm already getting[r]
-wet because I want Onii-chan to hold me..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、私を抱いて。好きにしていいのよ。[r]
+　ね？　お兄ちゃん、感じてるでしょ。私……[r]
+　お兄ちゃんに抱いて欲しくて、もう濡れてきてるの……」[pcms]
 
 *7596|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「……っ！」[pcms]
 
 *7597|
 [fc]
-Wet? She wants to be held by me? Ren does? Small and[r]
-delicate, my little sister Ren? That Ren?[pcms]
+濡れている？　ボクに抱かれたくて？[r]
+あの漣が？　小さくて、か細くて、ボクのイモウトの漣が？[r]
+あ・の・漣・が？[pcms]
 
 ;	*7598|
 ;	[fc]
-My fingertips twitched slightly. A slimy wetness clung to[r]
-both my fingertips and palm.[pcms]
+;	ぴくりとボクの指先が動いた。[r]
+;	ぬめっとした湿り気が指先にも手のひらにもまとわりついてくる。[pcms]
 ;
 ;	[evcg storage="HEV058e"][trans_c cross time=300]
 ;	;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -95,26 +95,27 @@ both my fingertips and palm.[pcms]
 *7599|
 [fc]
 [vo_ren s="ren0991"]
-[ns]Ren[nse]
-"Haaann... O-Onii-chan... please, hold me"[pcms]
+[ns]漣[nse]
+「はあんんっ……お、兄ちゃん……お願い、抱いてぇ」[pcms]
 
 
 *7600|
 [fc]
-[ns]Wataru[nse]
-"Ren!!"[pcms]
+[ns]航[nse]
+「漣っ！！」[pcms]
 
 
 [black_toplayer][trans_c cross time=501][hide_chara_int]
 
 ;	*7601|
 ;	[fc]
-Something snapped in my head. Shaking off Ren's hand, I[r]
-knelt down and buried my face in her crotch.[pcms]
+;	何かが頭の中でぶち切れた。[r]
+;	漣の手をふりほどき、ひざまずき、ボクは漣の股間に[r]
+;	顔を埋める。[pcms]
 
 *7601|
 [fc]
-Something snapped in my head.[pcms]
+何かが頭の中でぶち切れた。[pcms]
 
 
 ;	[evcg storage="HEV058c"][trans_c cross time=300]
@@ -126,34 +127,33 @@ Something snapped in my head.[pcms]
 ;	*7602|
 ;	[fc]
 ;	[vo_ren s="ren0992"]
-[ns]Ren[nse]
-"Nnnaahh. Ahh, ahh! Uu, I'm happy... Onii-chan, I'm so[r]
-happy"[pcms]
+;	[ns]漣[nse]
+;	「んっああっ。あっ、ああっ！[r]
+;	　う、嬉しい……お兄ちゃん、私、嬉しいぃ」[pcms]
 ;
 ;	*7603|
 ;	[fc]
-[ns]Wataru[nse]
-"Njjuu. Jyujyu. Mujjujyujyujyu"[pcms]
+;	[ns]航[nse]
+;	「んぢゅっ。ぢゅぢゅっ。むぢゅっぢゅっぢゅっ」[pcms]
 ;
 ;	*7604|
 ;	[fc]
-Ren's small mound of Venus. I opened my mouth wide and[r]
-devoured it.[pcms]
+;	漣の小さな恥丘。ボクは口を大きくあけて、むしゃぶりついた。[pcms]
 ;
 ;	;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 ;
 ;	*7605|
 ;	[fc]
 ;	[vo_ren s="ren0993"]
-[ns]Ren[nse]
-"Nnaaahh. Nnn. Onii-chan, it feels good... Your mouth on my[r]
-pussy... ahh!"[pcms]
+;	[ns]漣[nse]
+;	「んあああっ。んんっ。お兄ちゃん、気持ちいい……よぉ。[r]
+;	　お兄ちゃんのお口が、私のアソコを……ああっ！」[pcms]
 ;
 ;	*7606|
 ;	[fc]
-Incredible. Even though she's still wearing stockings and[r]
-panties, more and more sweet juice is flowing from deep[r]
-inside.[pcms]
+;	すごい。[r]
+;	ストッキングもパンツも履いたまんまなのに、[r]
+;	どんどん奥からぬるっとして甘い汁があふれてくる。[pcms]
 ;
 ;	[evcg storage="HEV058d"][trans_c cross time=300]
 ;
@@ -162,33 +162,35 @@ inside.[pcms]
 ;	*7607|
 ;	[fc]
 ;	[vo_ren s="ren0994"]
-[ns]Ren[nse]
-"Aahh. It feels good. It feels so good, Onii-chan. More,[r]
-more, fill my pussy up... Nnn. Ahh. Lick me. Please"[pcms]
+;	[ns]漣[nse]
+;	「ああっ。いいっ。気持ちいいよぉ、お兄ちゃん。[r]
+;	　もっと、もっとぉ、私のアソコ、いっぱいいっぱい……[r]
+;	　んんっ。ああっ。舐めてぇ。お願いぃ」[pcms]
 ;
 ;	*7608|
 ;	[fc]
-[ns]Wataru[nse]
-"Njuruu. Nbuubuu. Jyujyujyu"[pcms]
+;	[ns]航[nse]
+;	「んぢゅるっ。んぶっぶっ。ぢゅぢゅぢゅっ」[pcms]
 ;
 ;	*7609|
 ;	[fc]
-The tip of my tongue hit a hard little bump. Even through[r]
-the fabric, Ren's clit was clearly discernible.[pcms]
+;	舌の先に堅い小さな突起物が当たった。[r]
+;	布越しでも、くっきりとわかる、漣のクリトリス。[pcms]
 ;
 ;	*7610|
 ;	[fc]
-Gripping Ren's mound with my lips, I gently chewed while[r]
-puckering my tongue to tease the little bump.[pcms]
+;	唇で漣の恥丘をくわえ、もぐもぐと優しく噛みながら、[r]
+;	ボクは舌先をすぼめて小さな突起物を責めにかかる。[pcms]
 ;
 ;	;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 ;
 ;	*7611|
 ;	[fc]
 ;	[vo_ren s="ren0995"]
-[ns]Ren[nse]
-"Hih. Nkyuaa. That spot... Onii-chan, that spot feels so, so[r]
-good... Ahhh, nkuuu"[pcms]
+;	[ns]漣[nse]
+;	「っひっ。んきゅあっ。そ、そこ……っ。[r]
+;	　お、お兄ちゃん、そこ、すごく、すごく気持ちい……[r]
+;	　ああっっ、んくぅっ」[pcms]
 ;
 ;	[evcg storage="HEV058e"][trans_c cross time=300]
 ;
@@ -197,62 +199,64 @@ good... Ahhh, nkuuu"[pcms]
 ;	*7612|
 ;	[fc]
 ;	[vo_ren s="ren0996"]
-[ns]Ren[nse]
-"Ahh, ahh, it's hot. My pussy is hot. Fuaahh. Ahh. It's[r]
-good, Onii-chan, it feels good"[pcms]
+;	[ns]漣[nse]
+;	「あっ、あっ、ああ、熱いっ。私のアソコ、熱いよぉ。[r]
+;	　ふああっ。ああっ。いい、お兄ちゃん、気持ちいいよぉ」[pcms]
 ;
 ;	*7613|
 ;	[fc]
-So she feels good. Then I have to make her feel even better.[pcms]
+;	そうか。気持ちいいんだ。じゃあ、もっと気持ちよくさせて[r]
+;	あげないと。[pcms]
 ;
 ;	*7614|
 ;	[fc]
-She's my precious little sister, after all.[pcms]
+;	ボクの大事なイモウトなんだから。[pcms]
 ;
 ;	[evcg storage="HEV058d"][trans_c cross time=300]
 ;
 ;	*7615|
 ;	[fc]
-[ns]Wataru[nse]
-"Jyuuuuu. Njyujyu. Nnnnjyujyu"[pcms]
+;	[ns]航[nse]
+;	「ぢゅううううっ。んぢゅぢゅっ。んんんぢゅぢゅっ」[pcms]
 ;
 ;	;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 ;
 ;	*7616|
 ;	[fc]
 ;	[vo_ren s="ren0997"]
-[ns]Ren[nse]
-"Hiaaaaahh. Kuuuuhh. O-Onii-cha... Ahhh! It feels... feels[r]
-so good... nkuuuu!!"[pcms]
+;	[ns]漣[nse]
+;	「ひああああっ。くうぅうっ。お、にいちゃ……[r]
+;	　あああっ。気……気持っちっ……ぃ、んくううっ！！」[pcms]
 ;
 ;	*7617|
 ;	[fc]
-[ns]Wataru[nse]
-"Jyujyujyujyu. Nnnnjururu"[pcms]
+;	[ns]航[nse]
+;	「ぢゅっぢゅっぢゅっぢゅっ。んんんじゅうるう」[pcms]
 ;
 ;	;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 ;
 ;	*7618|
 ;	[fc]
 ;	[vo_ren s="ren0998"]
-[ns]Ren[nse]
-"Nhihii. Nkuuuu. Ahh, ahh. I can't... Oni-i-cha...[r]
-Nnhahhahh! I'm going to... I'm going to come..."[pcms]
+;	[ns]漣[nse]
+;	「んひいっ。んくううう。ああ、あっ。も、もう……[r]
+;	　おに、ぃちゃ……んっ。んはあっああっ。[r]
+;	　私、わた……しぃぃ……イっちゃ……イっちゃ」[pcms]
 ;
 ;	[evcg storage="HEV058e"][trans_c cross time=300]
 ;
 ;	*7619|
 ;	[fc]
-Ren's body started to tremble in small spasms all over. A[r]
-rush of sweet juice spilled into my mouth.[pcms]
+;	漣の身体が、全身が、小刻みに震えだした。[r]
+;	ボクの口には、どっと甘い汁がこぼれだしてくる。[pcms]
 ;
 ;	;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 ;
 ;	*7620|
 ;	[fc]
 ;	[vo_ren s="ren0999"]
-[ns]Ren[nse]
-"I'm coming... Aaaaaaaaaaauuuuuuuuuuhhh!!"[pcms]
+;	[ns]漣[nse]
+;	「イっちゃ……ああああああああうううぅううぅっっ！！」[pcms]
 ;
 ;	[メスフラ]
 ;	;//#_ホワイトフラッシュ
@@ -264,21 +268,20 @@ rush of sweet juice spilled into my mouth.[pcms]
 ;
 ;	*7621|
 ;	[fc]
-Unable to support herself anymore, Ren collapsed with a[r]
-tremble. I caught her body and gently laid her face down.[pcms]
+;	自分の身体を支えきれずに、震えながらどっと崩れ落ちた漣。[r]
+;	ボクは漣の身体を受けとめて、静かにうつ伏せに寝かせた。[pcms]
 ;
 ;	;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 ;
 ;	*7622|
 ;	[fc]
 ;	[vo_ren s="ren1000"]
-[ns]Ren[nse]
-"Nnn... Hah... Haa... Haaah..."[pcms]
+;	[ns]漣[nse]
+;	「んっ……はっ……はぁ……はぁっ……」[pcms]
 ;
 ;	*7623|
 ;	[fc]
-Ren's breathing, which had been heavy, started to calm down[r]
-a bit.[pcms]
+;	肩で息をしていた漣の呼吸が、少し落ち着いてきた。[pcms]
 
 ;mm いちいち片方みてチェックするのめんどうから条件分岐廃止。回想では片方しかみてなくても選択肢で分岐させる。
 ;	;//▲フラグ判定
@@ -299,7 +302,7 @@ a bit.[pcms]
 ;	[link target=*sce30_1]緒織とセックスしていない[endlink]
 ;	;//▼選択肢2
 ;	[link target=*sce30_2]緒織とセックスしている[endlink]
-[pcms]
+;	[s]
 
 ;//---------------------------------------------------------------
 *sce30_sel02
@@ -322,7 +325,7 @@ a bit.[pcms]
 ;//[jump storage="interflow]
 
 ;mm こっから下の47　差分全部間違ってねえか？
-;mm ぶっかけ有りとパンツくわえは白っぽい方HEV047eHEV047pだぞ？
+;mm ぶっかけ有りとパンツくわえは白っぽい方HEV047e～HEV047pだぞ？
 ;mm 58と服が違うからか　くそ差分だな
 
 ;mm 以下、差分すべて差し替える　2016/03/28
@@ -337,21 +340,22 @@ a bit.[pcms]
 *7602|
 [fc]
 [vo_ren s="ren0992"]
-[ns]Ren[nse]
-"Nnaahh. Ahh, ahh! Uu, I'm happy... Onii-chan, I'm so happy"[pcms]
+[ns]漣[nse]
+「んっああっ。あっ、ああっ！[r]
+　う、嬉しい……お兄ちゃん、私、嬉しいぃ」[pcms]
 ;;;;;;;;mm 
 
 
 ;;;;;;;;mm 前戯シーン抜いたからカット
 ;	*7624|
 ;	[fc]
-I slid my hand around Ren's slender waist and lifted her[r]
-body up. She got on all fours with her butt facing me.[pcms]
+;	漣の細いウエストに手を差し込み、身体を抱き起こす。[r]
+;	お尻をボクに向けさせた四つん這い。[pcms]
 ;
 ;	*7625|
 ;	[fc]
-Still breathing heavily, Ren offered no resistance and[r]
-maintained the position I put her in.[pcms]
+;	まだまだ息の荒い漣は、なんの抵抗もなく、ボクが作った[r]
+;	形のまんまを保ってる。[pcms]
 ;;;;;;;;mm 
 
 ;//めくれ上がったスカート。隙間から覗く白い肌。
@@ -359,19 +363,18 @@ maintained the position I put her in.[pcms]
 
 *7626|
 [fc]
-Ren's legs are slender and beautiful. Between those legs[r]
-drips Ren's sweet juice.[pcms]
+細くて綺麗なラインの漣の足。[r]
+その両脚のあいだから、滴ってる漣の甘い汁。[pcms]
 
 *7627|
 [fc]
-That's right. Sometimes, I would masturbate alone using this[r]
-image of Ren as my fantasy material. Even though she's my[r]
-little sister. But she is my little sister.[pcms]
+そうだよ。時々だけど、漣のこんな姿をおかずに、[r]
+ボクはひとりでオナニーをしていた。[r]
+イモウトなのに。イモウトだけど。[pcms]
 
 *7628|
 [fc]
-I need to cherish her more. Because she's my precious little[r]
-sister.[pcms]
+もっと可愛がってあげないと。大事なイモウトだから。[pcms]
 
 ;//ボクのモノが熱くなっている。
 ;//開放してやらないと、ズボンを突き破りそうだ。
@@ -381,126 +384,129 @@ sister.[pcms]
 
 *7629|
 [fc]
-In sync with Ren's breathing, her small butt moved up and[r]
-down. The sweet juice formed droplets, tempting me![pcms]
+漣の息遣いに呼応して、漣の小さいお尻が上下してる。[r]
+甘い汁がしずくを作って、ボクを誘ってる！[pcms]
 
 *7630|
 [fc]
-[ns]Wataru[nse]
-"Jyuruuu. Nhaahh. Your juice is sweet, Ren. You're cute,[r]
-Ren. I'll cherish you even more"[pcms]
+[ns]航[nse]
+「ぢゅるうっ。んはあっ。甘いね、漣のお汁は。[r]
+　可愛いよ、漣。もっと可愛がってあげるからね」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7631|
 [fc]
 [vo_ren s="ren1001"]
-[ns]Ren[nse]
-"Onii-chan...! Yeah. Cherish me more and more... Nnaaahh!"[pcms]
+[ns]漣[nse]
+「お兄ちゃん……！[r]
+　うん。私をもっともっと……っ、んああっ！」[pcms]
 
 *7632|
 [fc]
-Once again, I buried my face in Ren's pussy. Sweet, slimy,[r]
-tempting meRen's pussy. This time I aimed straight for the[r]
-little bump from the start.[pcms]
+もう一度、漣のアソコにかぶりつく。[r]
+甘い、ぬめった、ボクを誘ってる、漣のアソコに。[r]
+今度は最初から、小さな突起に狙いをつけて。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7633|
 [fc]
 [vo_ren s="ren1002"]
-[ns]Ren[nse]
-"Nhihii. Aaaannhh! It feels... good, O-Onii... Ahhh! Nkuuu"[pcms]
+[ns]漣[nse]
+「んひぃっ。あああっんっっ。気持……ち……いい、[r]
+　お……にぃ、ああっ。んくぅう」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7634|
 [fc]
 [vo_ren s="ren1003"]
-[ns]Ren[nse]
-"Aaahh, kuuuhh! It feels good... Onii-cha... Amazing, it[r]
-feels so good..."[pcms]
+[ns]漣[nse]
+「ああっ、くうっうっ。いいぃっ、気持ちいいぃ……のぉ。[r]
+　お兄ちゃ……凄い、す、ご……き、気持ちいぃ……っ」[pcms]
 
 *7635|
 [fc]
-[ns]Wataru[nse]
-"Njyuuuuuuuuuuuuh. Nrerororororou"[pcms]
+[ns]航[nse]
+「んぢゅうううううううっ。んれろっぢゅうう」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7636|
 [fc]
 [vo_ren s="ren1004"]
-[ns]Ren[nse]
-"Akkkuuhh... Ahhahhh! It's amazing Onii-cha... More, more...[r]
-Nnnh. There, that spot. Lick it. Suck it..."[pcms]
+[ns]漣[nse]
+「あっくうぅっ……あっああっっ。す、すごいよぉ[r]
+　お兄ちゃ……もっと、もっと……んんっ。[r]
+　そこっ、そ……こぉ。舐めてえ。吸……ってぇ……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7637|
 [fc]
 [vo_ren s="ren1005"]
-[ns]Ren[nse]
-"My pussy... more, fill it up more, suck it... Aaahh! More,[r]
-lick it... Aaaahhhh!!"[pcms]
+[ns]漣[nse]
+「私のアソコぉ……もっと、いっぱいぃ、吸っ……ああっ。[r]
+　もっ……とぉ、な、舐め……てぇぇぇ、んああっぁあぁっ！！」[pcms]
 
 *7638|
 [fc]
-[ns]Wataru[nse]
-"Rerureru, jyururururouuuh. Jyujyururu, nguuuh"[pcms]
+[ns]航[nse]
+「れるれる、ぢゅるるるううう。ぢゅぢゅるる、んぐうう」[pcms]
 
 *7639|
 [fc]
-While licking and sucking on Ren's clit with the tip of my[r]
-tongue, I pressed my nose against the slit of Ren's pussy[r]
-outlined by her underwear and stirred it around.[pcms]
+クリトリスを舌先で舐めて吸いながら、下着に浮かび上がった[r]
+漣のアソコのスリットに、ボクの鼻を押し付けてかき回した。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7640|
 [fc]
 [vo_ren s="ren1006"]
-[ns]Ren[nse]
-"Hnn, ah, yes, it feels good... Aaahhh!!"[pcms]
+[ns]漣[nse]
+「ひんっ、あ、いっ、いいっ……あああっっっ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7641|
 [fc]
 [vo_ren s="ren1007"]
-[ns]Ren[nse]
-"Kuuuuh, aah, Onii-chan... Ahh, aah!"[pcms]
+[ns]漣[nse]
+「くううっううっ、あああっ、お兄ちゃ……あっああっ！」[pcms]
 
 *7642|
 [fc]
-The sweet smell and sliminess enter my nose. My dick starts[r]
-to throb with heat. A hot mass is climbing up from within.[pcms]
+甘い匂いとぬめりが、ボクの鼻に入ってくる。[r]
+ボクのモノがぐいんと熱さを増してきた。[r]
+熱い固まりが、奥から登ってくる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7643|
 [fc]
 [vo_ren s="ren1008"]
-[ns]Ren[nse]
-"Aaahn. It feels... good... Ahh, hiiin. O-Onii-chan... Ahn.[r]
-I-I feel so good!"[pcms]
+[ns]漣[nse]
+「ああんっ。気持ち……いっ……ああっ、ひぃん。[r]
+　お、にい、ちゃ……あんっ。わ、私ぃ、気持ちいっっ！」[pcms]
 
 *7644|
 [fc]
-Ren's sweet, sweet juice overflows in my mouth. Her sweet,[r]
-sweet scent stimulates my nose. I feel her hot, hot pussy[r]
-with my tongue.[pcms]
+口の中にあふれてくる、漣の甘い甘い汁。[r]
+鼻を刺激する、漣の甘い甘い香り。[r]
+舌に感じる、漣の熱い熱いアソコ。[pcms]
 
 *7645|
 [fc]
-[ns]Wataru[nse]
-"Jyu... jyujyu... nkuuuuh!!"[pcms]
+[ns]航[nse]
+「ぢゅ……ぢゅぢゅ……んく゛ぅぅうっ！！」[pcms]
 
 *7646|
 [fc]
-The stimulation Ren gives me races up to my brain. Suddenly,[r]
-with incredible force, heat climbs up from within my dick,[r]
-and I couldn't hold back.[pcms]
+漣がくれる刺激がボクの脳髄を駆け上っていく。[r]
+途端、凄い勢いで、モノの奥から熱が這い登ってきて、[r]
+ボクは我慢ができなかった。[pcms]
 
 ;//#_ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -508,8 +514,8 @@ and I couldn't hold back.[pcms]
 
 *7647|
 [fc]
-[ns]Wataru[nse]
-"Kuuuuh aaaaahhh!!"[pcms]
+[ns]航[nse]
+「くううっあぁあぁっっっ！！」[pcms]
 
 ;//制御の利かないモノは、暴れまくって精子を撒き散らす。
 ;//漣の白くて小さいお尻に。バンツの上に。スカートに。
@@ -517,19 +523,18 @@ and I couldn't hold back.[pcms]
 
 *7648|
 [fc]
-My uncontrollable dick flails about, scattering sperm[r]
-everywhere. On Ren's small, white butt. On Ren's slender and[r]
-beautiful legs.[pcms]
+制御の利かないモノは、暴れまくって精子を撒き散らす。[r]
+漣の白くて小さいお尻に。漣の細くて綺麗な足に。[pcms]
 
 *7649|
 [fc]
-As if to say 'take this,' my sperm showers down on Ren with[r]
-tremendous force.[pcms]
+これでもかと言うぐらい、精子はもの凄い勢いで[r]
+漣の上に降り注いでいった。[pcms]
 
 *7650|
 [fc]
-[ns]Wataru[nse]
-"...Huuuuh, uhh..."[pcms]
+[ns]航[nse]
+「……っふうっううっ、うっ……」[pcms]
 
 ;	[white_toplayer][trans_c cross time=1000][hide_chara_int_w]
 
@@ -538,18 +543,19 @@ tremendous force.[pcms]
 *7651|
 [fc]
 [vo_ren s="ren1009"]
-[ns]Ren[nse]
-"...O-Onii-chan... I'm happy. Aaah... your sperm... I'm so[r]
-glad to be covered in so much of it... yeah."[pcms]
+[ns]漣[nse]
+「……お……兄ちゃん……私、嬉しい。[r]
+　ああっ……お兄ちゃんの精子……いっぱい、[r]
+　いっぱい、かけてもらって嬉しいぃ……よぉ」[pcms]
 
 *7652|
 [fc]
-With eyes feverish, Ren murmurs.[pcms]
+熱に冒されたような目つきで、漣がつぶやく。[pcms]
 
 ;//でも、汚しちゃったよな。べとべとだ。
 ;//早く、脱がさないと。
 
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「っふう……漣……そのまんまで、いて」
 
 ;//そう言って、ボクは漣の服を脱がしにかかる。
@@ -560,33 +566,33 @@ With eyes feverish, Ren murmurs.[pcms]
 *7653|
 [fc]
 [vo_ren s="ren1010"]
-[ns]Ren[nse]
-"Nnh... nnh..."[pcms]
+[ns]漣[nse]
+「んっ……んっ……」[pcms]
 
 ;//もぞもぞと小さいお尻や綺麗な足を動かして、
 ;//漣が協力してくれたので、なんなく脱がす事が出来た。
 
 *7654|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……っ！」[pcms]
 
 ;//あらわになった漣のアソコ。
 
 *7655|
 [fc]
-Her white skin is dyed cherry blossom pink. In the midst of[r]
-that, her pussy stands out in a vivid pink before my eyes.[pcms]
+白い肌が桜色に染まってる。その中にひときわ鮮やかな[r]
+ピンクに染まったアソコがボクの目の前にある。[pcms]
 
 *7656|
 [fc]
-A faint light bush. It's drenched there, and from the tip of[r]
-the bush, a slimy juice is about to drip down.[pcms]
+うっすらとした淡い茂み。そこが濡れそぼって、茂みの先から[r]
+ぬらっとした汁がしたたり落ちようとしていた。[pcms]
 
 *7657|
 [fc]
-Just when I thought it had settled down, my dick begins to[r]
-swell and regain its firmness.[pcms]
+いったんおさまったと思ったモノが、またむくむくと元気と[r]
+硬さを取り戻してくる。[pcms]
 
 ;	[evcg storage="HEV047a"][trans_c cross time=300]
 
@@ -595,65 +601,68 @@ swell and regain its firmness.[pcms]
 *7658|
 [fc]
 [vo_ren s="ren1011"]
-[ns]Ren[nse]
-"Onii-chan... hey, put it in... your dick... I want it[r]
-inside me... I want to be yours. Do whatever you like."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……ね、挿れて……お兄ちゃんの……[r]
+　おちんちん……私に……挿れて……欲しいの……[r]
+　お兄ちゃんのものにして欲しいの。好きにしていいの」[pcms]
 
 *7659|
 [fc]
-[ns]Wataru[nse]
-"Yeah. I'll make you mine, Ren."[pcms]
+[ns]航[nse]
+「うん。ボクのものにするよ、漣」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7660|
 [fc]
 [vo_ren s="ren1012"]
-[ns]Ren[nse]
-"I'm happy. I'm so happy, Onii-chan. Hey, quickly... put[r]
-your dick inside me quickly."[pcms]
+[ns]漣[nse]
+「嬉しい。嬉しいよ、お兄ちゃん。[r]
+　ね、早く……早くお兄ちゃんのおちんちん……挿れて」[pcms]
 
 *7661|
 [fc]
-The pussy stained a deep pink. The slit in the middle. Ren's[r]
-virginity hidden inside that slit.[pcms]
+濃いピンクに染まったアソコ。その真ん中にある裂け目。[r]
+その裂け目の中に隠れてる漣の処女。[pcms]
 
 *7662|
 [fc]
-I place my hand on my dick and rub it against Ren's slippery[r]
-pussy.[pcms]
+ボクはモノに手を添えて、漣のぬらぬらとしたアソコに[r]
+こすり付けた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7663|
 [fc]
 [vo_ren s="ren1013"]
-[ns]Ren[nse]
-"Fuuunnh. Ahh... Onii-chan's dick... it's hot... nnaahh,[r]
-it's hard."[pcms]
+[ns]漣[nse]
+「ふうんんっ。あぁ……お兄ちゃんの、おちんちん……[r]
+　熱いよぉ……んっああっ、硬いよぉ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7664|
 [fc]
 [vo_ren s="ren1014"]
-[ns]Ren[nse]
-"Onii-chan's dick is rubbing against my pussy... Aaahh, it's[r]
-rubbing... it feels so good... nnaahh ahh ahh!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんのぉ……おちんちんに、私のアソコ……[r]
+　ああっ、擦られて……こ、擦られてえ……[r]
+　き、気持ちがいいのぉ……んああっあっああっ」[pcms]
 
 *7665|
 [fc]
-While rubbing it, I search for the slit. The tip of my dick[r]
-sinks slightly into the indentation.[pcms]
+こすり付けながら、裂け目の中を探る。[r]
+モノの先っぽが、ちょっとだけへこみに沈んだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7666|
 [fc]
 [vo_ren s="ren1015"]
-[ns]Ren[nse]
-"Nnah!! There, there. Onii-chan, put your dick there. All[r]
-the way in. Your dick...!"[pcms]
+[ns]漣[nse]
+「んあっ！！　そ、そこ。お兄ちゃん、そこに。[r]
+　そこに、お兄ちゃんのおちんちん……挿れて。[r]
+　うんと、奥まで。お兄ちゃんのおちんち……っっ！！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="HEV047l"]
@@ -664,96 +673,101 @@ the way in. Your dick...!"[pcms]
 *7667|
 [fc]
 [vo_ren s="ren1016"]
-[ns]Ren[nse]
-"Kuuuuhhh!! Yikes! Aaahhh!!"[pcms]
+[ns]漣[nse]
+「くうぅうっっ！！　い゛っ！　ああ゛っっ！！」[pcms]
 
 *7668|
 [fc]
-Just as Ren says, I thrust my dick towards that indentation.[r]
-But not all of it has fit inside yet.[pcms]
+漣が言うままに、ボクはそのへこみ目がけてぐいっとモノを[r]
+突き刺した。[r]
+でも、まだ全部はおさまっていない。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7669|
 [fc]
 [vo_ren s="ren1017"]
-[ns]Ren[nse]
-"Kuuuhhuff. Nnnh. O-Onii-chan, deeper, go deeper..."[pcms]
+[ns]漣[nse]
+「くっうっふっ。んんっ。[r]
+　お、お兄ちゃ……もっと、もっと奥……までぇ」[pcms]
 
 *7670|
 [fc]
-Ren's face looks a bit pained. Her pussy is also pushing[r]
-back against my dick from the inside.[pcms]
+ちょっと痛そうな顔の漣。漣のアソコも中からボクのモノを[r]
+押し返してくる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7671|
 [fc]
 [vo_ren s="ren1018"]
-[ns]Ren[nse]
-"Fuuuuhh. O-Onii-chan, hey, deeper, I want your dick deeper[r]
-inside me..."[pcms]
+[ns]漣[nse]
+「ふっううっ。お、お兄ちゃん、ねえ、もっと、もっと奥まで。[r]
+　奥まで、おちんちん、挿れて欲しいのぉ……」[pcms]
 
 *7672|
 [fc]
-My cute little sister Ren wants it. So, embracing her hips,[r]
-I push my dick deep inside her in one go.[pcms]
+ボクの可愛いイモウトの漣が望んでるんだ。[r]
+だから、漣の腰を抱きかかえ、ボクは一気にボクのモノを[r]
+漣の中に押し込んだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7673|
 [fc]
 [vo_ren s="ren1019"]
-[ns]Ren[nse]
-"Uvuaaah kuuuuh!! Yikes ahhh!!"[pcms]
+[ns]漣[nse]
+「う゛ぅああっくううぅっ！！　い゛っあああっっっ！」[pcms]
 
 *7674|
 [fc]
-Ren arches back. Her cherry blossom-colored face covered in[r]
-sweat. My little sister. My cute little sister.[pcms]
+のけぞる漣。紅潮して汗をまとった桜色の顔。[r]
+ボクのイモウト。可愛いイモウト。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7675|
 [fc]
 [vo_ren s="ren1020"]
-[ns]Ren[nse]
-"Fuaah... aahh. Uuh kuuuh. I'm so happy. Onii-chan's dick is[r]
-inside my pussy..."[pcms]
+[ns]漣[nse]
+「ふあっ……ああっ。ううっくうっ。う、嬉しいよぉ。[r]
+　お兄ちゃんが、お兄ちゃんのおちんちんが、私の、[r]
+　私のアソコにぃ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7676|
 [fc]
 [vo_ren s="ren1021"]
-[ns]Ren[nse]
-"My first time... Onii-chan has taken it..."[pcms]
+[ns]漣[nse]
+「私の初めて、お兄ちゃんが……もらってくれたのぉ」[pcms]
 
 *7677|
 [fc]
-The walls of Ren's flesh that were trying to push me out are[r]
-now enveloping my dick.[pcms]
+ついさっきまで押し返そうとしていた漣の肉壁が、[r]
+ボクのモノを押し包んでくる。[pcms]
 
 *7678|
 [fc]
-The hot slimy juice keeps flowing out from inside her. The[r]
-sensation almost drives me crazy.[pcms]
+ぬるぬるとした熱い汁も中からどんどんあふれてくる。[r]
+その感触に、ボクの頭はおかしくなりそうだった。[pcms]
 
 *7679|
 [fc]
-I might already be going crazy. My cute little sister Ren.[r]
-I'm connected to her physically. Ren is shouting with joy.[r]
-And I'm feeling happy too.[pcms]
+いや、もうおかしくなってるのかもしれない。[r]
+可愛いイモウトの漣。その漣と身体でつながっている。[r]
+漣が嬉しいと叫んでいる。ボクも嬉しいと思っている。[pcms]
 
 *7680|
 [fc]
-My cute little sister Ren has offered her virginity to me,[r]
-and I, her brother, am pouring my virginity into her.[pcms]
+可愛いイモウトの漣が、その処女をボクに捧げ、[r]
+アニのボクが、その童貞を漣に注入している。[pcms]
 
 *7681|
 [fc]
-No matter if it's crazy because Ren wanted it. I wanted it[r]
-too.[pcms]
+いや、おかしくてもいいんだ。[r]
+だって、漣が望んだ事だ。[r]
+ボクも望んでいたことだったんだ。[pcms]
 
 ;//〆ジャンプ　ラベル　合流　へ
 [jump storage="T70030.ks" target=*T70030_03]
@@ -779,20 +793,21 @@ too.[pcms]
 *7602a|
 [fc]
 [vo_ren s="ren0992"]
-[ns]Ren[nse]
-"Nnaahh! Ahh, aah! I'm so happy... Onii-chan, I'm so happy!"[pcms]
+[ns]漣[nse]
+「んっああっ。あっ、ああっ！[r]
+　う、嬉しい……お兄ちゃん、私、嬉しいぃ」[pcms]
 ;;;;;;;;mm 
 
 ;;;;;;;;mm 前戯シーン抜いたからカット
 ;	*7682|
 ;	[fc]
-Ren's slender waist fits in my hands as I lift her body up.[r]
-She gets on all fours with her butt facing me.[pcms]
+;	漣の細いウエストに手を差し込み、身体を抱き起こす。[r]
+;	お尻をボクに向けさせた四つん這い。[pcms]
 ;
 ;	*7683|
 ;	[fc]
-Still breathless, Ren offers no resistance and maintains the[r]
-position I've made for her.[pcms]
+;	まだまだ息の荒い漣は、なんの抵抗もなく、ボクが作った[r]
+;	形のまんまを保ってる。[pcms]
 ;;;;;;;;mm 
 
 
@@ -802,110 +817,112 @@ position I've made for her.[pcms]
 ;;;;;;;;mm ↓の方のパンツ脱がす描写をこっちに移動。なんでパンツ履いてることになってるんだ
 *7701|
 [fc]
-Tiny cute panties... When pulled down from her butt, a slimy[r]
-thread trails behind them. At the same time, a sweet musky[r]
-scent tickles my nose.[pcms]
+小さい可愛いパンツ……お尻から下ろすと、[r]
+つーーっと、ぬめりのある糸が引いていた。[r]
+同時に、甘いむわっとした香りがボクの鼻をくすぐった。[pcms]
 ;;;;;;;;mm 
 
 *7684|
 [fc]
-Ren's slender and beautiful legs.[pcms]
+細くて綺麗なラインの漣の足。[pcms]
 
 *7685|
 [fc]
-To be honest, I've masturbated to the sight of Ren like this[r]
-several times... many times...[pcms]
+正直に言おう。[r]
+漣のこんな姿をおかずにして、ボクはオナニーをした。[r]
+何回か……何回も……[pcms]
 
 *7686|
 [fc]
-Ren's translucent white skin. Different from Yuuho's, her[r]
-small and delicate cute butt. Her legs are slender but not[r]
-just slender; they have a beautiful line.[pcms]
+漣の透き通るように白い肌。悠帆とは違う、小さくて[r]
+華奢な可愛いお尻。[r]
+細いけど、細いだけじゃないラインの綺麗な漣の足。[pcms]
 
 *7687|
 [fc]
-Even though she's my sister, in my mind I've embraced Ren[r]
-countless times.[pcms]
+妹なんだからって思いながら、ボクは漣を頭の中で[r]
+幾度となく、抱いていたんだ。[pcms]
 
 *7688|
 [fc]
-I wanted to touch Ren's small butt... I gently reached out[r]
-my hand to the butt in front of me.[pcms]
+触ってみたかった、漣の小さなお尻……[r]
+ボクはそっと目の前にある、お尻に手を伸ばした。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7689|
 [fc]
 [vo_ren s="ren1022"]
-[ns]Ren[nse]
-"Nn-fuu..."[pcms]
+[ns]漣[nse]
+「んっふうっ……」[pcms]
 
 *7690|
 [fc]
-I stroke the surface of her butt. Following its soft[r]
-roundness, I let my palm glide over it.[pcms]
+さわさわとお尻の表面を撫でる。[r]
+柔らかい丸みに添って、手のひらを走らせる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7691|
 [fc]
 [vo_ren s="ren1023"]
-[ns]Ren[nse]
-"Nn...nn... It feels good. Onii-chan..."[pcms]
+[ns]漣[nse]
+「ん……ん……気持ちいい。お兄ちゃん……」[pcms]
 
 *7692|
 [fc]
-As if confirming the softness of Ren's butt flesh, I quietly[r]
-knead it.[pcms]
+漣のお尻の肉の柔らかさを確かめるように、静かに[r]
+お尻の肉を揉んでみる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7693|
 [fc]
 [vo_ren s="ren1024"]
-[ns]Ren[nse]
-"Nn-uuu-nn. That feels good too, Onii-chan. Touch my butt[r]
-more, lots and lots."[pcms]
+[ns]漣[nse]
+「んっううっん。それも、気持ちいいよ。お兄ちゃん[r]
+　もっと、私のお尻、いっぱいいっぱい触って」[pcms]
 
 *7694|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 *7695|
 [fc]
-I bring my lips closer. Kissing her soft butt. I'm delighted[r]
-when Ren's body twitches in response. So I stroke her cute[r]
-butt even more.[pcms]
+唇を近づける。柔らかいお尻にキスをする。[r]
+ぴくんと漣の身体が反応するのが嬉しい。[r]
+だから、もっと漣の可愛いお尻を撫で回す。[pcms]
 
 *7696|
 [fc]
-With my palm, and even rubbing my cheek against it, I enjoy[r]
-the softness of Ren's butt while looking at it right before[r]
-my eyes. I shower her butt with lots of kisses.[pcms]
+手のひらで。ほっぺたもすり寄せて、目の真ん前に[r]
+漣のお尻を見ながらその柔らかさを堪能する。[r]
+キスもいっぱいお尻に浴びせる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7697|
 [fc]
 [vo_ren s="ren1025"]
-[ns]Ren[nse]
-"Nnn-nn-haa... Ahh... It feels good, Onii-chan. Being[r]
-stroked a lot, being kissed a lot..."[pcms]
+[ns]漣[nse]
+「んっんっはあっ……。[r]
+　あぁ……気持ちいいよ、お兄ちゃん。[r]
+　いっぱい撫でられて、いっぱいキスされて……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7698|
 [fc]
 [vo_ren s="ren1026"]
-[ns]Ren[nse]
-"Ahh...nnn-nn. I'm happy...nn-nn"[pcms]
+[ns]漣[nse]
+　「ああっ……んんっ。私、嬉し……んっんっ」[pcms]
 
 *7699|
 [fc]
-I've always wanted to touch Ren's butt. Her small and cute[r]
-butt. Ah, the sweet scent of a woman is getting stronger[r]
-from Ren's place.[pcms]
+ずっと、触ってみたかった漣のお尻。[r]
+小さくて可愛いお尻。[r]
+ああ、漣のアソコから甘いオンナの匂いが強くなってきた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -913,11 +930,11 @@ from Ren's place.[pcms]
 ;	*7700|
 ;	[fc]
 ;	[vo_ren s="ren1027"]
-[ns]Ren[nse]
-"Nn... Onii-chan... hey, take them off... I want to feel[r]
-Onii-chan directly. Please."[pcms]
+;	[ns]漣[nse]
+;	「んっ……お兄ちゃん……ね、脱がして……[r]
+;	　お兄ちゃんを直接感じたいの。ね、お願い」[pcms]
 
-[ns]Wataru[nse]
+;//[ns]航[nse]
 ;//「ん。そうだね。わかったよ、漣。
 ;//　でも、そのまんまで漣はいて。ボクが脱がせるから」
 
@@ -934,98 +951,100 @@ Onii-chan directly. Please."[pcms]
 ;mm もう脱いでる差分しかない
 ;	*7701|
 ;	[fc]
-Tiny cute panties... When pulled down from her butt, a slimy[r]
-thread trails behind them. At the same time, a sweet musky[r]
-scent tickles my nose.[pcms]
+;	小さい可愛いパンツ……お尻から下ろすと、[r]
+;	つーーっと、ぬめりのある糸が引いていた。[r]
+;	同時に、甘いむわっとした香りがボクの鼻をくすぐった。[pcms]
 ;
 ;	*7702|
 ;	[fc]
-Ren's exposed butt and crotch. Her white skin is blushing[r]
-pink. In the midst of that, her crotch, dyed a vivid pink,[r]
-is right before my eyes.[pcms]
+;	あらわになった漣のお尻とアソコ。[r]
+;	白い肌が桜色に染まってる。その中にひときわ鮮やかな[r]
+;	ピンクに染まったアソコがボクの目の前にある。[pcms]
 
 *7703|
 [fc]
-A faint light bush. It's wet and soaked, and from the tip of[r]
-the bush, a slippery juice seems about to drip down.[pcms]
+うっすらとした淡い茂み。そこが濡れそぼって、茂みの先から[r]
+ぬらっとした汁がしたたり落ちようとしていた。[pcms]
 
 ;mm もう脱いでる差分しかない
 ;	*7704|
 ;	[fc]
-My thing is getting harder. It feels like it's about to[r]
-burst through my pants. In a bit of a hurry, I stripped it[r]
-off all at once.[pcms]
+;	ボクのモノが硬度を増している。[r]
+;	今にもズボンを突き破りそうだ。[r]
+;	ボクはちょっと焦りながら、一気に脱ぎ捨てた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7705|
 [fc]
 [vo_ren s="ren1028"]
-[ns]Ren[nse]
-"Onii-chan... hey, put it in... Your dick, in my crotch...[r]
-put it in."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……ねえ、もう挿れて……[r]
+　お兄ちゃんのおちんちん、私のアソコに……挿れて」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7706|
 [fc]
 [vo_ren s="ren1029"]
-[ns]Ren[nse]
-"I want you to have my first time. I want Onii-chan to have[r]
-it..."[pcms]
+[ns]漣[nse]
+「私の初めて……貰って欲しいの。[r]
+　お兄ちゃんに貰って欲しいの……」[pcms]
 
 *7707|
 [fc]
-I grip my thing and align it with Ren's crotch. Rubbing my[r]
-thing against Ren's crotch.[pcms]
+ボクはモノを握りしめて、漣のアソコにあてがった。[r]
+ズリズリと漣のアソコをボクのモノでこすり上げる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7708|
 [fc]
 [vo_ren s="ren1030"]
-[ns]Ren[nse]
-"Fuaaaa! Onii-chan, it feels good! Your dick rubbing against[r]
-my crotch feels so good...ahh-kkuu, it feels...good."[pcms]
+[ns]漣[nse]
+「ふあああっ！　お兄ちゃん、気持ちいいっ！[r]
+　お兄ちゃんのおちんちんに、私のアソコ、擦られて[r]
+　気持ちいいの……ああっくうっ、気持ち……いいのぉ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7709|
 [fc]
 [vo_ren s="ren1031"]
-[ns]Ren[nse]
-"Aaaaah! Nnhii. O-Onii-chan, put it in. My crotch wants[r]
-Onii-chan's, Onii- chan's, o-oh...dick, put it in."[pcms]
+[ns]漣[nse]
+「あああっ。んひぃ。お、お兄ちゃん、挿れてぇ。[r]
+　私のアソコに、お兄ちゃんの、お兄ちゃんの、[r]
+　お……おちん……ああっ、おちんちん、挿れてええ」[pcms]
 
 *7710|
 [fc]
-While rubbing my thing against Ren's crotch, I was searching[r]
-for the entrance to her virginity.[pcms]
+ズリズリと漣のアソコをボクのモノで擦りながら、ボクは[r]
+漣の処女の入り口を探していた。[pcms]
 
 *7711|
 [fc]
-A slippery juice gushed out suddenly, and at that moment,[r]
-the tip of my thing sank into a depression.[pcms]
+ぬるっとした汁がどふっと出てきて、その瞬間、[r]
+モノの先っぽがへこみに沈んだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7712|
 [fc]
 [vo_ren s="ren1032"]
-[ns]Ren[nse]
-"Aaah! There, there, Onii-chan. There, deeper inside, put[r]
-your dick in... please."[pcms]
+[ns]漣[nse]
+「ああっ！　そこ、そこ、お兄ちゃん。そこに、その奥に、[r]
+　お兄ちゃんのおちんちん、挿れて……、お願いぃ」[pcms]
 
 *7713|
 [fc]
-The slippery juice with a sweet scent of a woman clings to[r]
-my thing as it overflows from inside. This is the entrance[r]
-to Ren's virginity.[pcms]
+ボクのモノにまとわりつくように、オンナの甘い匂いの[r]
+ぬめりが中からあふれ出てくる。[r]
+ここが、漣の処女の入り口。[pcms]
 
 *7714|
 [fc]
-I hold Ren's waist still and push my thing into that[r]
-entrance forcefully.[pcms]
+漣の腰を動かないように固定して、ボクはモノをその入り口に[r]
+ぐいっと押し込んだ。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="HEV047f"]
@@ -1035,48 +1054,50 @@ entrance forcefully.[pcms]
 *7715|
 [fc]
 [vo_ren s="ren1033"]
-[ns]Ren[nse]
-"Nnni! Aaah!"[pcms]
+[ns]漣[nse]
+「んっい゛っ！　ああ゛っ！」[pcms]
 
 *7716|
 [fc]
-It's not even halfway in yet. Inside Ren is hot and tight.[r]
-The walls of flesh are trying to push back. The resistance[r]
-of virginity. I push further into the depths forcefully.[pcms]
+まだ、半分も入ってない。漣の中は、熱くて狭かった。[r]
+肉の壁が押し戻そうとする。処女の抵抗。[r]
+更にボクはぐぐっと、奥に押し込んだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7717|
 [fc]
 [vo_ren s="ren1034"]
-[ns]Ren[nse]
-"Nnaaaaahh, ku, kuuu!! Yi-yi-ahh!"[pcms]
+[ns]漣[nse]
+「んあああっっ、く、くうぅぅっ！！　いっい゛っあっ！」[pcms]
 
 *7718|
 [fc]
-Ren's small and cute white butt. While stroking her butt, I[r]
-keep pushing my thing inside without moving.[pcms]
+漣の白くて小さな可愛いお尻。[r]
+ボクはそのお尻を撫でながら、ぐいっとモノを押し込んだまま[r]
+動かずにいた。[pcms]
 
 *7719|
 [fc]
-The walls of flesh inside Ren cling to me. Although they[r]
-were trying to push me out just before, now they seem to be[r]
-wriggling and pulling me inside.[pcms]
+漣の肉壁がまとわりついてくる。[r]
+さっきまで押し返そうとしてたのに、今度は中に引き込もうと[r]
+ずりずりとざわざわとうごめいている。[pcms]
 
 *7720|
 [fc]
-The hot and soft inside of Ren's crotch. The sensation of[r]
-flesh clinging around me. Overflowing with juice from deep[r]
-inside while heating up my thing even more.[pcms]
+熱くて柔らかい漣のアソコ。まとわりつく肉の感触。[r]
+どんどん奥から汁をあふれさせながら、その熱でボクのモノも[r]
+どんどん熱くしていってる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7721|
 [fc]
 [vo_ren s="ren1035"]
-[ns]Ren[nse]
-"Nnfuuuuh. O-Onii-chan's dick is inside me, inside my[r]
-crotch. It's hot and hard, Onii-chan's dick...ahh"[pcms]
+[ns]漣[nse]
+「んふうぅっう。お、お兄ちゃんのおちんちんが、私の、[r]
+　私のアソコに、入ってるぅ。熱くて硬いお兄ちゃんの[r]
+　おちんちんが……ぁぁ」[pcms]
 
 ;//〆ジャンプ　ラベル　合流　へ
 [jump storage="T70030.ks" target=*T70030_03]
@@ -1101,122 +1122,131 @@ crotch. It's hot and hard, Onii-chan's dick...ahh"[pcms]
 *7722|
 [fc]
 [vo_ren s="ren1036"]
-[ns]Ren[nse]
-"Nn... Onii-chan... hey, you can move now... yes. With Onii-[r]
-chan's dick, stir up my crotch a lot... please, Onii-chan."[pcms]
+[ns]漣[nse]
+「ん……お兄ちゃん……ね、動いていいの……よ。[r]
+　お兄ちゃんのおちんちんで、私のアソコ、いっぱいいっぱい[r]
+　かき回して。お願い……お兄ちゃん」[pcms]
 
 *7723|
 [fc]
-Zuryu... nuchu... zuryu... I start moving my hips slowly.[r]
-Lewd sounds come from where Ren and I are connected.[pcms]
+ずりゅっ……ぬちゅっ……ずりゅっ……[r]
+ボクはゆっくりと、腰を動かし始めた。[r]
+漣とつながったところから、ひわいな音が聞こえてくる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7724|
 [fc]
 [vo_ren s="ren1037"]
-[ns]Ren[nse]
-"Nnhii, yi-yi...ahh! Just a little bit hurts... but ahh,[r]
-kuuuu"[pcms]
+[ns]漣[nse]
+「んひぃ、いっい゛っ……ああっ！　ちょっと、ちょっとだけえ[r]
+　痛……いけ……ど、ああっ、くうぅぅ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7725|
 [fc]
 [vo_ren s="ren1038"]
-[ns]Ren[nse]
-"Ah, ah-ahaaaahh, it hurts... but I'm happy. Onii-chan's[r]
-dick is inside me... ah-ahhh, nnaaah!"[pcms]
+[ns]漣[nse]
+「あっ、あっあああっ、痛……いいけど、嬉しぃい。[r]
+　お兄ちゃんの、お兄ちゃんのおちんちんが、私の、私のぉ。[r]
+　アソコの中で……あ、ああっ、んああっ！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7726|
 [fc]
 [vo_ren s="ren1039"]
-[ns]Ren[nse]
-"Moree, moree, Onii-cha...!! Rub it a lot. Make my crotch[r]
-all messy... please...ahhhii!!"[pcms]
+[ns]漣[nse]
+「もっとぉ、もっとぉ、お兄ちゃ……っ！！[r]
+　いっぱい、こっ擦ってぇ。私のアソコ、ぐちゃぐちゃにっ[r]
+　……してえ、お、お願いっ…………っあああっひぃっ！！」[pcms]
 
 *7727|
 [fc]
-Zucho, juboo, zuju... Inside Ren stirs. As if conscious, it[r]
-tightens around my thing the faster I go.[pcms]
+ずちょ、じゅぼっ、ずじゅっ……[r]
+漣の中がざわめく。意識を持ってるみたいに、ボクのモノを[r]
+締めあげてくる。速度を上げれば上げるほど。[pcms]
 
 *7728|
 [fc]
-It's hot inside Ren's crotch. It gets slippery and slimy;[r]
-the sliding becomes smoother and smoother, and my hips feel[r]
-like they're going to break.[pcms]
+熱い。漣のアソコの中が凄く熱い。[r]
+ぬるぬる、ぬめぬめ、ずるずる、どんどん滑りがよくなって、[r]
+ボクの腰は壊されそうだ。[pcms]
 
 *7729|
 [fc]
-My thing is also hot. A lump climbs up from deep inside[r]
-every time Ren tightens around me; the lump in the depth of[r]
-my thing grows bigger and bigger.[pcms]
+ボクのモノも熱い。奥から固まりが這い登ってくる。[r]
+漣に締めつけられるたびに、モノの奥の固まりがどんどん[r]
+大きくなってくる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7730|
 [fc]
 [vo_ren s="ren1040"]
-[ns]Ren[nse]
-"Aaaaah! Ahiii!! Good!! It feels good! Amazing, amazing![r]
-Onii-chan's dick is amazingggg! Aaaaahhhhh!!"[pcms]
+[ns]漣[nse]
+「あああっ！　あひぃぃっ！！　いいっ！！　気持ちいいっ！[r]
+　凄いよ、凄いよぉっ！　お兄ちゃんの、お兄ちゃんの[r]
+　おちんちん、凄いよぉぉぉ、ああああっああぅぅっああっ！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7731|
 [fc]
 [vo_ren s="ren1041"]
-[ns]Ren[nse]
-"Nnaaah! Akiii!! Nnaaaah! Haaaah! Amazing, amazingg! It's[r]
-hot! It's hot!! Onii- chan's... feels so goooood!!"[pcms]
+[ns]漣[nse]
+「んぁあっ！　あきぃぃっ！！　んあああっ！　はああっ！[r]
+　凄いの、凄いのぉ、熱いの、熱いのぉ！！[r]
+　お兄ちゃんの、お兄ちゃんのぉ……気持ちいいいいぃぃ！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7732|
 [fc]
 [vo_ren s="ren1042"]
-[ns]Ren[nse]
-"My crotch is all messyyyyy!! Your dick is rubbing meee...[r]
-ahiii, it feels so gooood!!"[pcms]
+[ns]漣[nse]
+「私の、私のアソコぉ……ぐちゃぐちゃああああっ！！[r]
+　お……兄ちゃんのぉ、おちんちんに、こ、擦られてえ……[r]
+　あひぃいい、ぐ……ぐちゃぐ……あああっ、いいいぃ！！」[pcms]
 
 *7733|
 [fc]
-Ren's intense moans could echo throughout the floor. No way.[r]
-I don't want anyone else to hear this. She's all mine.[pcms]
+漣の激しいよがり声。フロア中に響いてそうだ。[r]
+いやだ。他の誰にも、聞かせたくない。[r]
+全部、ボクだけのものだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7734|
 [fc]
 [vo_ren s="ren1043"]
-[ns]Ren[nse]
-"Hiaaaah!! Aaah-kkuuu!! Aaannnaaaahhh! Rubbing meee,[r]
-rubbing... eeeh, it feels so goood!! Your dick... feels so[r]
-goooood... nnguu?!"[pcms]
+[ns]漣[nse]
+「ひあああっ！！　ああっくうぅ！！　ああんあああっっ！[r]
+　擦れてえ、擦れて……えぇ、気持ちぃいいのぉぉ！！[r]
+　おちんちんっ……気持ちいいぃぃぃぃ……んぐぅう？！」[pcms]
 ;//○最後のひとことでハンカチなどで覆ってくぐもらせてください
 
 *7735|
 [fc]
-While slamming my hips against Ren's small butt, I picked up[r]
-her tiny panties that had been torn off and tossed aside and[r]
-stuffed them into Ren's mouth.[pcms]
+漣の小さなお尻にボクの腰を打ちつけながら、ボクは傍らに[r]
+はぎ取って転がしてあった漣の小さいパンツを拾って、[r]
+漣の口に詰め込んだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7736|
 [fc]
 [vo_ren s="ren1044"]
-[ns]Ren[nse]
-"Nnguuu. Uvuvuvu. Aa-a-a-nnaau!"[pcms]
+[ns]漣[nse]
+「んぐぅう。う゛う゛う゛。あ゛あ゛あ゛っんあ゛ぅ！」[pcms]
 
 *7737|
 [fc]
-[ns]Wataru[nse]
-"Ren, you can't do that... Everyone will hear you. Ren is...[r]
-Ren is all mine, right? You can't let everyone hear such[r]
-cute sounds."[pcms]
+[ns]航[nse]
+「漣、ダメだよ……。みんなに聞こえちゃうよ。漣は……[r]
+　漣は、全部ボクのものなんだろ？　ダメだよ、[r]
+　そんな可愛い声をみんなに聞かせちゃ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1233,25 +1263,25 @@ cute sounds."[pcms]
 *7738|
 [fc]
 [vo_ren s="ren1045"]
-[ns]Ren[nse]
-"...!! Guuu! Aaaaah!!"[pcms]
+[ns]漣[nse]
+「……っ！！　ぐぅうっ！　あ゛あ゛ああ゛う゛っ！！」[pcms]
 
 *7739|
 [fc]
-Ren is biting down on her panties. It seems like she[r]
-understands my feelings.[pcms]
+漣が自分のパンツを噛みしめている。[r]
+ボクの気持ちをわかってくれたようだ。[pcms]
 
 *7740|
 [fc]
-That's right. I don't want anyone to hear. I don't want them[r]
-to know how much Ren is enjoying this, how much I'm[r]
-enjoying... "violating" her![pcms]
+そうだよ。誰にも聞かせたくない。[r]
+漣がこんなに悦んでくれて、ボクが漣を……[r]
+『犯して』悦んでるなんて、知られたくないんだ！[pcms]
 
 *7741|
 [fc]
-The precious Ren, my little sister. In my mind, I've[r]
-"violated" her countless times. There were times when I did[r]
-it by force. Gagging her and holding down her slender limbs.[pcms]
+大事なイモウトの漣。頭の中では何度も『犯した』よ。[r]
+無理やり犯したこともあったよ。[r]
+さるぐつわを噛ませて、細い手脚を押さえつけて。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1267,35 +1297,36 @@ it by force. Gagging her and holding down her slender limbs.[pcms]
 *7742|
 [fc]
 [vo_ren s="ren1046"]
-[ns]Ren[nse]
-"Fuguuuuu! Guuu! Nnaaaah!! Nnaah! Iiiii! Ngaaaaahhhhh!!"[pcms]
+[ns]漣[nse]
+「ふぐぅぅううっ！　ぐぅう！！　んんあ゛あ゛あ゛！！[r]
+　んあ゛っ　んあ゛あっ！　い゛っい゛い゛っ！[r]
+　んぐあ゛あ゛あ゛っっっ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7743|
 [fc]
 [vo_ren s="ren1047"]
-[ns]Ren[nse]
-"Nguuuhhh... Aaaguuu... Nnaaah! Aiiii... Kimochiii...[r]
-Iiiii!"[pcms]
+[ns]漣[nse]
+「んぐうっうっっ……あ゛っぐうぅ……んあ゛あ゛っ！[r]
+　あ゛っい゛っい゛っ……き゛も゛い゛……い゛っい゛っ！」[pcms]
 
 *7744|
 [fc]
-With a lewd sound, the woman's juices overflow from where[r]
-Ren and I are connected. At the same time, Ren's flesh walls[r]
-tightly squeeze me.[pcms]
+ぢゅぼっと、豪快な音をさせて、漣とつながった部分から[r]
+オンナの汁があふれ出てきた。[r]
+同時に漣の肉壁がぎゅぎゅぎゅっとモノを締めつける。[pcms]
 
 *7745|
 [fc]
-Ren's flesh walls are secreting mucus, wrapping around and[r]
-squeezing out the lump that had been accumulating at the[r]
-base of my thing.[pcms]
+ボクのモノの根元に溜まってきていた固まりを搾り出そうと[r]
+漣の肉壁が粘液を吐き出して、まとわりついて搾り上げる。[pcms]
 
 *7746|
 [fc]
-[ns]Wataru[nse]
-"Nn...ku... Re, Ren. I'm going to cum. I can't hold it[r]
-back... Ren!!"[pcms]
+[ns]航[nse]
+「ん……く……れ、漣。も、もう出すよ。[r]
+　我慢できないよ……漣っ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1310,21 +1341,22 @@ back... Ren!!"[pcms]
 *7747|
 [fc]
 [vo_ren s="ren1048"]
-[ns]Ren[nse]
-"Fuguguguuuu!! Nnnh!! Naguaniii! Onii-chan... Aaaaah!!"[pcms]
+[ns]漣[nse]
+「ふぐぐぐううぅっ！！　ん゛んっ！！　な゛ぐあに゛ぃ！[r]
+　お゛に゛ぢゃ……あ゛あ゛っ！！」[pcms]
 
 *7748|
 [fc]
-[ns]Wataru[nse]
-"Uhh... Uooooh!!"[pcms]
+[ns]航[nse]
+「うっ……うぉおっ！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7749|
 [fc]
 [vo_ren s="ren1049"]
-[ns]Ren[nse]
-"Nguuuuuuuu!! Aaguuiiiiiii!!"[pcms]
+[ns]漣[nse]
+「んぐうぅぅぅぅっ！！！　あ゛ぐぅい゛い゛い゛い゛ぃぃっ！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 
@@ -1343,9 +1375,9 @@ back... Ren!!"[pcms]
 
 *7750|
 [fc]
-I released my sperm inside Ren. As if waiting for it, Ren's[r]
-flesh walls pulsate and tighten even more, trying to milk me[r]
-further.[pcms]
+漣の中に、ボクの精子をぶちまけた。[r]
+ボクの精子を待っていたかのように、漣の肉壁がひくひくと[r]
+波打って、更に搾り取ろうと締めつけてくる。[pcms]
 
 
 
@@ -1360,15 +1392,16 @@ further.[pcms]
 
 *7751|
 [fc]
-[ns]Wataru[nse]
-"Uh... Uuhkuuh..."[pcms]
+[ns]航[nse]
+「うっ……ううっくうっ……」[pcms]
 
 
 
 *7752|
 [fc]
-Ren's small butt also pulses. With a soft sound, my sperm[r]
-and Ren's sweet juices mix and drip down.[pcms]
+漣の小さいお尻も波打っている。[r]
+くぷっと小さい音がして、ボクの精子と漣の甘い汁が[r]
+混ざって滴り落ちた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
@@ -1385,45 +1418,46 @@ and Ren's sweet juices mix and drip down.[pcms]
 *7753|
 [fc]
 [vo_ren s="ren1050"]
-[ns]Ren[nse]
-"Nppuuuu... Nhaa... Haa... Haa... Ahh... Onii-chan, you came[r]
-inside... Hnnnhaa... Haa... I'm so happyyy..."[pcms]
+[ns]漣[nse]
+「んっぷうっうっ……んはあっ……はあっ……はあっ……[r]
+　ああっ……お兄ちゃん、中に出してくれた……[r]
+　はっんっはあっ……はぁっ……私……嬉し……い……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *7754|
 [fc]
 [vo_ren s="ren1051"]
-[ns]Ren[nse]
-"My, my crotch... filled with Onii-chan's sperm... So[r]
-much... Ahh... So much... Ah..."[pcms]
+[ns]漣[nse]
+「私の、私のアソ……コ……お兄ちゃんの精子で……[r]
+　いっぱあ……ぁいぃ……いっぱ……ぁ……いっ……」[pcms]
 
 *7755|
 [fc]
-Breathing heavily, Ren murmurs. I intended to violate her,[r]
-but Ren wanted it. She wanted to be filled with my sperm[r]
-inside her crotch.[pcms]
+肩で息をしながら、漣がつぶやく。[r]
+漣を犯したつもりだったけれど、漣は望んでいたんだ。[r]
+ボクの精子をアソコの中でいっぱい受けとめたいって。[pcms]
 
 *7756|
 [fc]
-Ren's small butt, dyed the color of double cherry blossoms,[r]
-is overflowing with nectar. Ren, my little sister... who was[r]
-my sister.[pcms]
+八重桜の色に染まった漣の小さいお尻。[r]
+蜜をいっぱいあふれさせている。[r]
+イモウトの漣。妹……だった漣。[pcms]
 
 ;//〆フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *7757|
 [fc]
-As Ren wished, as I desired, I poured my sperm into her over[r]
-and over again. Stripping everything away, skin against[r]
-skin, indulging in each other.[pcms]
+漣が望むままに、ボクが求めるままに、何度も何度も[r]
+漣の中にボクの精子を注ぎ込んだ。[r]
+何もかもはぎ取って、肌と肌を重ねて、むさぼって。[pcms]
 
 *7758|
 [fc]
-Just as Ren wished, I savored all of her. Her lips, her[r]
-breasts, her crotch, and her beloved small butt. Ren became[r]
-mine. And I became Ren's.[pcms]
+漣が望むように、漣の全てをボクは味わった。[r]
+唇も、おっぱいも、アソコも、大好きな小さいお尻も。[r]
+漣は、ボクのものになった。ボクは漣のものになったんだ。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る

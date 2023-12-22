@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//---------------------------------------------------------------
 ;//block:B006
 ;//●時間切れ
@@ -20,69 +20,70 @@
 *6399|
 [fc]
 [vo_yuh s="yuho_T0055"]
-[ns]Yuuho[nse]
-"...?"[pcms]
+[ns]悠帆[nse]
+「…………？」[pcms]
 ;//＠主人公に気づいた
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6400|
 [fc]
-Without saying anything, Yuuho tilted her head quizzically[r]
-and removed her earphones.[pcms]
+何も言わないままのボクに、小首を傾げながら[r]
+悠帆が耳からイヤホンを外した。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6401|
 [fc]
 [vo_yuh s="yuho_T0056"]
-[ns]Yuuho[nse]
-"...What's wrong? Wataru...?"[pcms]
+[ns]悠帆[nse]
+「……どうしたの？　航……？」[pcms]
 
 *6402|
 [fc]
-Damn it...!!! Could it be that just now was the moment for a[r]
-kiss...???[pcms]
+しまったぁぁぁぁぁ……！！！[r]
+もしかして今の瞬間って、キスとかできたんじゃ……？？？[pcms]
 
 *6403|
 [fc]
-I realized it, but it was too late. The magical moment of[r]
-our gazes meeting had already passed, and Yuuho was just[r]
-smiling brightly as usual...[pcms]
+気付いたけれど、もう遅い。[r]
+魔法みたいに見つめ合った刻は既に過ぎ去り、[r]
+悠帆はいつもの明るい笑顔で、ニコニコしてるだけだ……。[pcms]
 
 *6404|
 [fc]
-I let slip the greatest chance God had given me... I am the[r]
-biggest fool in Japan...[pcms]
+神様がくれた最大のチャンスをみすみす逃してしまった……。[r]
+ボクは日本一の愚か者です……。[pcms]
 
 *6405|
 [fc]
-Feeling quite downhearted, I thought to comfort Yuuho, which[r]
-was my original intention.[pcms]
+内心かなりヘコみながらも、当初の目的を果たすため、[r]
+ボクは悠帆を慰めようと思った。[pcms]
 
 *6406|
 [fc]
-[ns]Wataru[nse]
-"N-no, it's nothing... Are you okay, Yuuho?"[pcms]
+[ns]航[nse]
+「い、いや、何でもないけど……。[r]
+　悠帆……大丈夫？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6407|
 [fc]
 [vo_yuh s="yuho_T0057"]
-[ns]Yuuho[nse]
-"I'm fine? But... why do you ask?"[pcms]
+[ns]悠帆[nse]
+「大丈夫だよ？　でも……なんで？」[pcms]
 ;//＠キョトンとしている
 
 *6408|
 [fc]
-[ns]Wataru[nse]
-"About your family, and stuff... You've been having a tough[r]
-time lately..."[pcms]
+[ns]航[nse]
+「家族のこと、とか……さ。[r]
+　悠帆、このところ、大変だったから……」[pcms]
 
 *6409|
 [fc]
-When I asked hesitantly, Yuuho looked up at the sky.[pcms]
+恐る恐る問いかけると、悠帆は空を見上げる。[pcms]
 
 ;//★ここから下はＴ３００６０の「流用部分」をコピーしました
 
@@ -91,44 +92,44 @@ When I asked hesitantly, Yuuho looked up at the sky.[pcms]
 *6410|
 [fc]
 [vo_yuh s="yuho_T0050"]
-[ns]Yuuho[nse]
-"...Well, yeah. But... there's no point in worrying about[r]
-it."[pcms]
+[ns]悠帆[nse]
+「……まあね～。[r]
+　だけど……考えてても仕方ないし」[pcms]
 
 *6411|
 [fc]
-Her carefree response didn't seem to carry any sense of[r]
-tragedy.[pcms]
+あっけらかんと応える様子からは、悲壮な感じはしない。[pcms]
 
 *6412|
 [fc]
-[ns]Wataru[nse]
-"Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆…………」[pcms]
 
 *6413|
 [fc]
-The sight of Yuuho acting strong in front of others but[r]
-succumbing to loneliness when alone was painful to see.[pcms]
+ひとりぼっちでいる間だけ寂しさにふけり、[r]
+人前では気丈にふるまう悠帆が痛々しかった。[pcms]
 
 *6414|
 [fc]
-I wish she would be honest with me... It's okay to cry in[r]
-front of me... Or maybe... am I just not good enough...?[pcms]
+ボクの前では素直になってほしいのに……。[r]
+ボクの前でだけは泣いてもいいのに……。[r]
+それとも……やっぱりボクじゃ、ダメなのかな……？[pcms]
 
 *6415|
 [fc]
-Not knowing what to make of the silence, Yuuho gave a bright[r]
-smile.[pcms]
+沈黙をどういう意味にとったのか、[r]
+悠帆はにっこり笑ってみせた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6416|
 [fc]
 [vo_yuh s="yuho_T0051"]
-[ns]Yuuho[nse]
-"...I'm sure it'll be okay, they must be doing well[r]
-somewhere. Humans are pretty tough creatures, you know. Look[r]
-at Kousuke and Mizuki... heheheh"[pcms]
+[ns]悠帆[nse]
+「……きっと大丈夫だよ、どっかで元気にしてるよ。[r]
+　人間なんて、けっこうたくましいモンだしさ。[r]
+　ほら、コースケと瑞樹だって……ふふふふっ」[pcms]
 ;//＠最後、くすくすわらう
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -136,9 +137,9 @@ at Kousuke and Mizuki... heheheh"[pcms]
 *6417|
 [fc]
 [vo_yuh s="yuho_T0052"]
-[ns]Yuuho[nse]
-"Even in a situation like this, those two... hehe, really,[r]
-they're so positive..."[pcms]
+[ns]悠帆[nse]
+「こんな状況だっていうのに、あの二人ったら……、[r]
+　ふふっ、ホント、ポジティブっていうか……」[pcms]
 ;//＠おかしそうに
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -146,37 +147,37 @@ they're so positive..."[pcms]
 *6418|
 [fc]
 [vo_yuh s="yuho_T0053"]
-[ns]Yuuho[nse]
-"I bet... while they're holding each other, they probably[r]
-forget that the world might be on the brink of[r]
-destruction..."[pcms]
+[ns]悠帆[nse]
+「きっと……二人で抱き合ってる間は、[r]
+　世界が滅びかけてるのかもー、なんてことも、[r]
+　忘れちゃってたんじゃないかな……」[pcms]
 ;//＠ちょっとやさしく
 
 *6419|
 [fc]
-Yuuho's eyes were gentle as she chuckled. It was as if she[r]
-was blessing Kousuke and Mizuki, yet also as if she was[r]
-watching the end of the world...[pcms]
+くすくすと笑っている悠帆の目が優しい色を帯びる。[r]
+それはコースケたちを祝福しているようでもあったし、[r]
+世界の終わりを見つめているようでもあった……。[pcms]
 
 ;//se003・携帯の着信音
 [se buf=0 storage="se003" loop=true]
 
 *6420|
 [fc]
-[ns]Wataru[nse]
-"Huh!?"[pcms]
+[ns]航[nse]
+「あれっ！？」[pcms]
 
 *6421|
 [fc]
-Suddenly, my phone rang and I jumped in surprise. When I[r]
-checked, it was a call from Kousuke's number.[pcms]
+急に電話が鳴って、ボクは飛び上がるほど驚いた。[r]
+手に取ってみるとコースケの番号からのコールだ。[pcms]
 
 ;//se095・悠帆の携帯着信音
 ;//[se buf=1 storage="se095" loop=true]
 
 *6422|
 [fc]
-Without delay, Yuuho's phone also started ringing.[pcms]
+間をおかず、悠帆の電話も鳴りだした。[pcms]
 
 ;//SE即時停止
 [stopse buf=1]
@@ -186,13 +187,13 @@ Without delay, Yuuho's phone also started ringing.[pcms]
 *6423|
 [fc]
 [vo_yuh s="yuho_T0054"]
-[ns]Yuuho[nse]
-"It's from Mizuki. What could it be... hello?"[pcms]
+[ns]悠帆[nse]
+「瑞樹からだ。何だろ……、もしもし？」[pcms]
 ;//＠最後、電話に向かって
 
 *6424|
 [fc]
-I also pressed my phone to my ear.[pcms]
+ボクも自分の電話を耳にくっつけた。[pcms]
 
 ;//SE即時停止
 [stopse buf=0]
@@ -201,29 +202,29 @@ I also pressed my phone to my ear.[pcms]
 
 *6425|
 [fc]
-[ns]Kousuke[nse]
-"Hey Wataru! Where are you?? It's serious!!"[pcms]
+[ns]浩助[nse]
+「おいワタル！　どこにいる？？　大変だぞ！！」[pcms]
 
 *6426|
 [fc]
-Kousuke's scream flowed from the phone, striking my ears.[pcms]
+電話機から流れ出たコースケの悲鳴が耳を打つ。[pcms]
 
 *6427|
 [fc]
-[ns]Wataru[nse]
-"...Kousuke? What's up?"[pcms]
+[ns]航[nse]
+「……コースケ？　何？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6428|
 [fc]
-[ns]Kousuke[nse]
-"The TV! The TV! It's serious right now... come over here[r]
-quick!!"[pcms]
+[ns]浩助[nse]
+「て、テレビっ！　テレビっ！[r]
+　今、大変で……、と、とにかくこっち来いっ！！」[pcms]
 
 *6429|
 [fc]
-He's so panicked; what on earth could have happened...?[pcms]
+こんなに慌てるなんて、いったい、何が起きたんだ……？[pcms]
 
 ;//★ここまでは、Ｔ３００６０の「流用部分」をコピーしました
 

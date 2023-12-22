@@ -1,10 +1,10 @@
 ;//block:A002
-;//ブロック：４００１０『地下道全員脱出編　上』 pt.2A
+;//ブロック：４００１０『地下道～全員脱出編～　上』 pt.2A
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40000.txtから
 
 *40010_TOP
-;{SceneSet 地下道全員脱出編上}
+;{SceneSet 地下道～全員脱出編～上}
 ;//---------------------------------------------------------------
 ;//背景：分校舎地下室
 ;//登場人物:主人公・悠帆（ジャージ＋バッグ）
@@ -22,88 +22,87 @@
 *56|
 [fc]
 [vo_yuh s="yuho0794"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「…………」[pcms]
 
 *57|
 [fc]
-Yuuho remained motionless, staring at the door.[pcms]
+悠帆は扉を見詰めたまま動こうとしない。[pcms]
 
 *58|
 [fc]
-Her profile was so tense it seemed as if she was holding[r]
-back a scream.[pcms]
+その横顔は、叫び出しそうになるのをこらえてでもいるように[r]
+怖いくらいに張り詰めている。[pcms]
 
 *59|
 [fc]
-I walked up to Yuuho, dragging Ren who was clinging to me[r]
-with all her might.[pcms]
+ボクは、全身でしがみついてくる漣を引き摺るようにして[r]
+悠帆の近くに歩み寄った。[pcms]
 
 *60|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho?"[pcms]
+[ns]航[nse]
+「……悠帆？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *61|
 [fc]
 [vo_yuh s="yuho0795"]
-[ns]Yuuho[nse]
-"Eek!?"[pcms]
+[ns]悠帆[nse]
+「ひっ！？」[pcms]
 
 *62|
 [fc]
-Although I tried not to startle her, Yuuho let out a[r]
-strained voice as if it was torn from the back of her[r]
-throat.[pcms]
+驚かせないようにしたつもりだったけど[r]
+悠帆は喉の奥から引き攣れたような声を絞り出す。[pcms]
 
 *63|
 [fc]
-[ns]Wataru[nse]
-"Ah... sorry."[pcms]
+[ns]航[nse]
+「あ……ご、ごめん」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *64|
 [fc]
 [vo_yuh s="yuho0796"]
-[ns]Yuuho[nse]
-"No, it's okay. I'm sorry for making such a weird noise."[pcms]
+[ns]悠帆[nse]
+「う、ううん。[r]
+　わたしも。変な声出しちゃって、ごめん」[pcms]
 
 *65|
 [fc]
-Yuuho turned around and gave an awkward smile.[pcms]
+悠帆はボクを振り返って、気まずそうに苦笑する。[pcms]
 
 *66|
 [fc]
-[ns]Wataru[nse]
-"...Are you okay?"[pcms]
+[ns]航[nse]
+「……大丈夫？」[pcms]
 
 *67|
 [fc]
-I gently placed my hand on her shoulder while making eye[r]
-contact.[pcms]
+目と目を合わせながら、そっと肩に手を置く。[pcms]
 
 *68|
 [fc]
-Then, Yuuho's small hand was placed on top of mine.[pcms]
+と、悠帆の小さな手がボクのそれに重ねられた。[pcms]
 
 *69|
 [fc]
 [vo_yuh s="yuho0797"]
-[ns]Yuuho[nse]
-"Yeah... I'm okay... I'm fine."[pcms]
+[ns]悠帆[nse]
+「うん……。大丈夫……。大丈夫だよ」[pcms]
 
 *70|
 [fc]
-Although she was tense, Yuuho managed to muster something[r]
-like a smile and gazed back at me.[pcms]
+強張ってはいたけれど何とか笑みらしきものを浮かべて[r]
+悠帆はボクを見詰め返してくる。[pcms]
 
 *71|
 [fc]
-But her words seemed more like she was reassuring herself[r]
-than answering me.[pcms]
+でもその言葉はボクに答えているというよりも[r]
+自分に言い聞かせているように思えた。[pcms]
 
 
 ;mm ユウホポイント入って無いけどいいのかな

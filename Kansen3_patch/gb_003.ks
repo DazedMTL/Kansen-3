@@ -6,7 +6,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//・登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//
@@ -14,7 +14,7 @@
 ;//※このブロックの名称が間違っていました。
 ;//　正しくは『さよなら漣』
 ;//　になります。
-;//GB_001003まで、全て『さよなら漣』です。
+;//GB_001～003まで、全て『さよなら漣』です。
 ;//---------------------------------------------------------------
 
 ;//bgm12(starless)継続中
@@ -29,61 +29,60 @@
 
 *4904|
 [fc]
-[ns]Wataru[nse]
-"...No... I can't do it..."[pcms]
+[ns]航[nse]
+「……だ……めだ、できない、よ……」[pcms]
 
 *4905|
 [fc]
-I covered my face and broke down crying.[pcms]
+ボクは顔を覆って泣き崩れた。[pcms]
 
 *4906|
 [fc]
-The precious... Ren. My sister whom I've always cherished[r]
-and protected above all else... To take her life with my own[r]
-hands... I just can't...!![pcms]
+大切な……漣。何よりも大事に守ってきたボクの妹……。[r]
+この手で、その漣の命を奪うなんて……、ボクには……！！[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *4907|
 [fc]
-[ns]Jin[nse]
-"...Stop it..."[pcms]
+[ns]壬[nse]
+「……止めとけ……」[pcms]
 
 *4908|
 [fc]
-A hand was gently placed on my shoulder.[pcms]
+ボクの肩にポンと手がおかれた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *4909|
 [fc]
-[ns]Jin[nse]
-"...You don't have to force yourself in situations like[r]
-this."[pcms]
+[ns]壬[nse]
+「……こういうのはな、無理しなくてもいいんだ」[pcms]
 
 *4910|
 [fc]
-Jin aimed his gun at Ren's face, steadying his aim.[pcms]
+壬さんが銃を構えて漣の顔に狙いをつけた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4911|
 [fc]
 [vo_ren s="ren_GB0029"]
-[ns]Ren[nse]
-"Fuaaah... Ji... Jin-san... Tha...nk... you"[pcms]
+[ns]漣[nse]
+「ふあぁぁ……、じ、壬さ、ん……、あり、が……と」[pcms]
 
 *4912|
 [fc]
-As if relieved, Ren relaxed her shoulders.[pcms]
+安心したというように、漣は肩の力を抜く。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e16"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4913|
 [fc]
 [vo_ren s="ren_GB0030"]
-[ns]Ren[nse]
-"So, after that... Yu... Yuuho-chan... I'm sorry, ne...e..."[pcms]
+[ns]漣[nse]
+「そ、それ、から……、ゆ、悠帆ちゃ……、[r]
+　ごめん、ね……ぇ……」[pcms]
 
 ;//★以下、３つ。ＧＢ＿００２からのコピー
 
@@ -92,40 +91,39 @@ As if relieved, Ren relaxed her shoulders.[pcms]
 *4914|
 [fc]
 [vo_yuh s="yuho_GB0016"]
-[ns]Yuuho[nse]
-"Uh...uhhh...n, uhhn... Not like... this..."[pcms]
+[ns]悠帆[nse]
+「う……うぅぅ……ん、うぅん……。そんな……の…………」[pcms]
 
 *4915|
 [fc]
-Yuuho tried to respond but couldn't form words through her[r]
-tears.[pcms]
+応えようとする悠帆も、涙で言葉にならない。[pcms]
 
 *4916|
 [fc]
-Ren then looked around at everyone's faces in turn, finally[r]
-resting her gaze on me.[pcms]
+漣はそれから全員の顔を順繰りに見渡し、[r]
+最後に、ボクに視線をとどめた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4917|
 [fc]
 [vo_ren s="ren_GB0027"]
-[ns]Ren[nse]
-"...Onii...chan..."[pcms]
+[ns]漣[nse]
+「……おにい、ちゃ…ん……」[pcms]
 
 *4918|
 [fc]
-A fleeting, somewhat lonely smile. Yet it seemed to say she[r]
-couldn't help but want to be spoiled by me, her usual[r]
-expression...[pcms]
+はかなげな、どこか寂しそうな笑み。[r]
+そのくせボクに甘えたくて仕方ないとでも言いたげな、[r]
+いつもの表情……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_e18"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *4919|
 [fc]
 [vo_ren s="ren_GB0028"]
-[ns]Ren[nse]
-"Bye-bye... And... tha...nk... you..."[pcms]
+[ns]漣[nse]
+「ばいば、い……、それから…………あり、が……と……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -144,8 +142,9 @@ expression...[pcms]
 
 *4920|
 [fc]
-[ns]Wataru[nse]
-"...Ren... ...Ren! REN--------N!!"[pcms]
+[ns]航[nse]
+「…………漣……。[r]
+　……漣っ、レンっ！　レーーーーーーーーンっ！！」[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る

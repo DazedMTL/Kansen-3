@@ -1,10 +1,10 @@
 ;//block:B003
-;//ブロック４１０２０『地下道悠帆のみ脱出』pt.3
+;//ブロック４１０２０『地下道～悠帆のみ脱出～』pt.3
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41010.txtから
 
 *41020_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：分校舎地下室
 ;//登場人物:主人公・悠帆（ジャージ＋バッグ）・マルガリータ（制服）
@@ -24,49 +24,49 @@
 *2379|
 [fc]
 [vo_mar s="maru0306"]
-[ns]Margarita[nse]
-"Know yourself, know your enemy, and you need not fear the[r]
-result of a hundred battles. However, we hardly know each[r]
-other."[pcms]
+[ns]マルガリータ[nse]
+「己を知り、敵を知れば百戦危うからず。[r]
+　しかし、ワタシたちはお互いのこともよくわかっていない」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2380|
 [fc]
 [vo_yuh s="yuho0202"]
-[ns]Yuuho[nse]
-"That's true. Shall we introduce ourselves?"[pcms]
+[ns]悠帆[nse]
+「そうですね。[r]
+　自己紹介しましょうか」[pcms]
 
 *2381|
 [fc]
-Despite having cried just moments ago, Yuuho is already[r]
-speaking with a cheerful voice. Perhaps she feels refreshed[r]
-from crying, just as the senior said? Her brightness is[r]
-supporting me.[pcms]
+さっきまで泣いていたのに悠帆はもう明るい声を出している。[r]
+先輩の言うとおり、泣いたからこそスッキリしたんだろうか？[r]
+その明るさはボクを支えてくれている。[pcms]
 
 *2382|
 [fc]
 [vo_yuh s="yuho0203"]
-[ns]Yuuho[nse]
-"Then, let's start with Wataru."[pcms]
+[ns]悠帆[nse]
+「じゃあ、航からね」[pcms]
 
 *2383|
 [fc]
-[ns]Wataru[nse]
-"Eh, me first...? Isn't it ladies first?"[pcms]
+[ns]航[nse]
+「えっ、ボクから……？[r]
+　レディーファーストじゃないの？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2384|
 [fc]
 [vo_yuh s="yuho0204"]
-[ns]Yuuho[nse]
-"There's no need to be shy at a time like this..."[pcms]
+[ns]悠帆[nse]
+「こんな時に恥ずかしがらなくても……」[pcms]
 
 *2385|
 [fc]
-[ns]Wataru[nse]
-"No, but you already know my name, senior..."[pcms]
+[ns]航[nse]
+「いや、ボクの名前、先輩は知ってるし……」[pcms]
 
 ;//　読み返してみましたが、
 ;//　なぜマルガリータは主人公の名前を知っているかが
@@ -77,115 +77,118 @@ supporting me.[pcms]
 *2386|
 [fc]
 [vo_mar s="maru0307"]
-[ns]Margarita[nse]
-"I know the name 'Ayase Wataru', and that you have a younger[r]
-sister. But I don't know much else."[pcms]
+[ns]マルガリータ[nse]
+「知っているのは『アヤセ　ワタル』という名前で、[r]
+　妹が一人いる。[r]
+　それ以外のことはよく知らない」[pcms]
 
 *2387|
 [fc]
-[ns]Wataru[nse]
-"Eh, but... other than that... I'm a second-year... and a[r]
-boy..."[pcms]
+[ns]航[nse]
+「えっ、でも……他には……。[r]
+　２年生で……男で……」[pcms]
 
 *2388|
 [fc]
 [vo_mar s="maru0308"]
-[ns]Margarita[nse]
-"That much is obvious just by looking..."[pcms]
+[ns]マルガリータ[nse]
+「それくらいは見ればわかる……」[pcms]
 
 *2389|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry..."[pcms]
+[ns]航[nse]
+「すいません……」[pcms]
 
 *2390|
 [fc]
-I apologize again to the senior who looks at me with an[r]
-exasperated expression.[pcms]
+呆れ顔の先輩にボクはついまた謝ってしまう。[pcms]
 
 *2391|
 [fc]
 [vo_mar s="maru0309"]
-[ns]Margarita[nse]
-"One of the mistakes of modern Japanese education is not[r]
-teaching the importance of self-introductions."[pcms]
+[ns]マルガリータ[nse]
+「現代日本の教育の誤まりのひとつは[r]
+　自己紹介の大切さを教えないことだ」[pcms]
 
 *2392|
 [fc]
 [vo_mar s="maru0310"]
-[ns]Margarita[nse]
-"In the past, not only samurai but also kyokaku were able to[r]
-introduce themselves properly."[pcms]
+[ns]マルガリータ[nse]
+「昔はサムライだけでなくキョウカクであっても、[r]
+　キッチリと自己紹介ができたものなのだぞ」[pcms]
 
 *2393|
 [fc]
-[ns]Wataru[nse]
-"Kyokaku?"[pcms]
+[ns]航[nse]
+「きょうかく？」[pcms]
 
 *2394|
 [fc]
 [vo_mar s="maru0311"]
-[ns]Margarita[nse]
-"Old-time yakuza."[pcms]
+[ns]マルガリータ[nse]
+「昔のヤクザのことだ」[pcms]
 
 *2395|
 [fc]
-[ns]Wataru[nse]
-"Ah!"[pcms]
+[ns]航[nse]
+「ああっ！」[pcms]
 
 *2396|
 [fc]
-The image of Hiko-chin pops into my head.[pcms]
+ボクの頭に彦ちんの姿が浮かんだ。[pcms]
 
 *2397|
 [fc]
-...I wonder if Hiko-chin and Inori-san are okay?[pcms]
+……彦ちんも、緒織さんも大丈夫だろうか？[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2398|
 [fc]
 [vo_yuh s="yuho0205"]
-[ns]Yuuho[nse]
-"Are you talking about the 'ohikeenasutte' guys?"[pcms]
+[ns]悠帆[nse]
+「おひけぇなすって……ってやつのことかな？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2399|
 [fc]
 [vo_mar s="maru0312"]
-[ns]Margarita[nse]
-"It's just an example. Be brief, clear, easy to understand,[r]
-easy to remember. And add humor."[pcms]
+[ns]マルガリータ[nse]
+「あくまで例えだ。[r]
+　短く簡潔に分かり易く、覚え易く。[r]
+　そして、ユーモアだ」[pcms]
 
 *2400|
 [fc]
-[ns]Wataru[nse]
-"Humor? You mean to include a joke?"[pcms]
+[ns]航[nse]
+「ユーモア？[r]
+　冗談を入れろってことですか？」[pcms]
 
 *2401|
 [fc]
 [vo_mar s="maru0313B"]
-[ns]Margarita[nse]
-"That's one way, but self-introductions are about asserting[r]
-who you are and what makes you different from others. In[r]
-other words, individuality."[pcms]
+[ns]マルガリータ[nse]
+「それも方法のひとつだが、自己紹介というのは自分がなにものか、[r]
+　人とはなにが違うかを主張するものだ。[r]
+　つまりは[ruby text="パーソナリティー"][ch text="個性"]だな」[pcms]
 ;//〆ボイスa、b有り
 
 *2402|
 [fc]
 [vo_mar s="maru0314"]
-[ns]Margarita[nse]
-"It seems better if I go first. 'Margarita Vasquez Homura'.[r]
-I'm an exchange student from Matinia in South America."[pcms]
+[ns]マルガリータ[nse]
+「ワタシからした方がよさそうだな。[r]
+　『マルガリータ・バスクェス・穂村』だ。[r]
+　南米のマティニアから留学している」[pcms]
 
 *2403|
 [fc]
 [vo_mar s="maru0315"]
-[ns]Margarita[nse]
-"My mother is Japanese. My specialties are martial arts,[r]
-shooting, and survival. If 'Margarita' is hard to call me[r]
-by, feel free to call me 'Maruko'."[pcms]
+[ns]マルガリータ[nse]
+「母は日本人だ。特技は武道と射撃、サバイバル。[r]
+　マルガリータ……呼びにくければ[r]
+　『マル子』とでも呼んでくれればいい」[pcms]
 
 ;//　他に紹介で加えたいことがあればあとで加筆
 
@@ -194,98 +197,99 @@ by, feel free to call me 'Maruko'."[pcms]
 *2404|
 [fc]
 [vo_yuh s="yuho0206"]
-[ns]Yuuho[nse]
-"Maruko...?"[pcms]
+[ns]悠帆[nse]
+「マル子……ですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2405|
 [fc]
 [vo_mar s="maru0316"]
-[ns]Margarita[nse]
-"...Is that strange?"[pcms]
+[ns]マルガリータ[nse]
+「……おかしいか？」[pcms]
 
 *2406|
 [fc]
-[ns]Wataru[nse]
-"No, not at all..."[pcms]
+[ns]航[nse]
+「い、いいえ……」[pcms]
 
 *2407|
 [fc]
-Yuuho and I struggle to suppress our laughter that's[r]
-threatening to burst out.[pcms]
+ボクと悠帆は思わず、こみ上げる笑いをこらえる。[pcms]
 
 *2408|
 [fc]
-The dignified senior suddenly seems cute. Maybe this is the[r]
-"humor" she was talking about?[pcms]
+凛とした先輩が急にかわいく感じてしまった。[r]
+もしかして、これが先輩の言う『ユーモア』なんだろうか？[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2409|
 [fc]
 [vo_yuh s="yuho0207"]
-[ns]Yuuho[nse]
-"Then it's my turn! I'm Yuuho Kanagi. I'm in the swimming[r]
-club. My specialties are swimming and cycling."[pcms]
+[ns]悠帆[nse]
+「じゃあ、次はわたし！[r]
+　神凪悠帆。水泳部です[r]
+　特技は水泳に自転車」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2410|
 [fc]
 [vo_yuh s="yuho0208"]
-[ns]Yuuho[nse]
-"I'm confident in my physical strength. Please call me[r]
-Yuuho."[pcms]
+[ns]悠帆[nse]
+「体力には自信があります。[r]
+　悠帆って呼んでください」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2411|
 [fc]
 [vo_mar s="maru0317"]
-[ns]Margarita[nse]
-"Yuuho... right?"[pcms]
+[ns]マルガリータ[nse]
+「ユウホ……だな？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2412|
 [fc]
 [vo_yuh s="yuho0209"]
-[ns]Yuuho[nse]
-"Yes. Next is Wataru."[pcms]
+[ns]悠帆[nse]
+「はい。[r]
+　次は航だね」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2413|
 [fc]
-[ns]Wataru[nse]
-"Um... as you know, I'm Ayase Wataru. I don't have any[r]
-particular talents, but I'm in the astronomy club. ...Please[r]
-call me Wataru."[pcms]
+[ns]航[nse]
+「えっと……ご存知、綾瀬航です。[r]
+　特にとりえはないですが、天文学同好会です。[r]
+　……ワタルって呼んでください」[pcms]
 
 *2414|
 [fc]
-As expected, my introduction ends in a single sentence.[pcms]
+案の定、僕の紹介は一言で終わってしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2415|
 [fc]
 [vo_mar s="maru0318"]
-[ns]Margarita[nse]
-"Astronomy club, huh? If we get lost at night, you'll know[r]
-which way to go..."[pcms]
+[ns]マルガリータ[nse]
+「天文学同好会か。[r]
+　道に迷っても夜なら方角がわかるな……」[pcms]
 
 *2416|
 [fc]
-[ns]Wataru[nse]
-"Yes! Leave it to me!"[pcms]
+[ns]航[nse]
+「はい！　まかせてください！」[pcms]
 
 *2417|
 [fc]
-I respond loudly to the senior who mentioned a talent I had[r]
-even forgotten about myself.[pcms]
+ボクはボクでさえ忘れていたとりえを言ってくれた先輩に[r]
+大きな声で返事をした。[pcms]
 
 ;//　場面転換
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -298,142 +302,135 @@ even forgotten about myself.[pcms]
 *2418|
 [fc]
 [vo_mar s="maru0319"]
-[ns]Margarita[nse]
-"We're more blessed than I thought..."[pcms]
+[ns]マルガリータ[nse]
+「思った以上に恵まれているな……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2419|
 [fc]
-Having finished our introductions anew, we were checking our[r]
-belongings at the suggestion of Maruko-senpai... Margarita.[pcms]
+改めて自己紹介を終えたボクたちはマルガリータ……[r]
+マル子先輩の提案で持ち物のチェックをしていた。[pcms]
 
 *2420|
 [fc]
-Of course, everyone had their bags ready, and they all had a[r]
-change of clothes.[pcms]
+バックはもちろんのこと、みんな用意のいいことに[r]
+着替えを持っていた。[pcms]
 
 *2421|
 [fc]
-Everyone has athletic clothes and uniforms for their own[r]
-reasons.[pcms]
+全員、それぞれの理由で、運動向きの服と制服がある。[pcms]
 
 *2422|
 [fc]
-Yuuho is wearing a jersey over her swimsuit, which is a bit[r]
-inadequate, so during this short break, she's changing into[r]
-her uniform behind some cover. It's quite an effort not to[r]
-look that way...[pcms]
+悠帆は水着の上にジャージという、少々心もとない格好なので、[r]
+この小休止の間に、少し離れた物陰で制服に着替えている。[r]
+そっちを見ないようにするのがひと苦労だ……。[pcms]
 
 *2423|
 [fc]
-Maruko-senpai, for some reason, has a safari jacket and[r]
-safari pants as her change of clothes.[pcms]
+マル子先輩は、なぜか着替えにサファリジャケットと、[r]
+サファリパンツ。[pcms]
 
 *2424|
 [fc]
-I wonder why senpai has such clothes for changing?[pcms]
+いったい、どうして先輩はこんな着替えを持ってるんだろう？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2425|
 [fc]
 [vo_mar s="maru0320"]
-[ns]Margarita[nse]
-"We also have plenty of light... It's reassuring since we'll[r]
-be moving underground for a while."[pcms]
+[ns]マルガリータ[nse]
+「明かりもこんなにあるな……。[r]
+　しばらく地下を移動する以上、心強い」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2426|
 [fc]
-In addition to my LED electric lantern, senpai has three[r]
-small lights.[pcms]
+ボクのＬＥＤの電気ランタンの他に、[r]
+先輩は小さなライトを三つも持っていた。[pcms]
 
 *2427|
 [fc]
-Seeing that they're all different shapes suggests they're[r]
-for different purposes.[pcms]
+同じようなライトでも、形がゼンゼン違うところを見ると、[r]
+用途が違うものなんだろう。[pcms]
 
 *2428|
 [fc]
-Besides the lights, there are senpai's and my digital[r]
-cameras. Yuuho's and my cell phones can also serve as lights[r]
-for a short time.[pcms]
+それから、ライトじゃないけど、ボクと先輩のデジカメ。[r]
+ボクと悠帆のケータイも短時間なら明かりにもなる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2429|
 [fc]
 [vo_mar s="maru0321"]
-[ns]Margarita[nse]
-"It looks like we have enough water to last us for about two[r]
-days..."[pcms]
+[ns]マルガリータ[nse]
+「水分も２日間くらいなら、なんとか問題なさそうだな……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2430|
 [fc]
-The most important thing for survival, water, was something[r]
-all of us had in the form of sports drinks. Senpai also had[r]
-a little bit of regular water.[pcms]
+生きるうえで一番大切な水分は全員が[r]
+スポーツ飲料を持っていた。先輩は少しだけど[r]
+普通の水も持っている。[pcms]
 
 *2431|
 [fc]
-As for food, Yuuho and I had brought snacks. In addition to[r]
-that, I have canned food and a lunch box given to me by Ren.[r]
-I need to eat this lunch box first.[pcms]
+食料だって、ボクと悠帆の持っていたお菓子。[r]
+ボクはそれに加えてカンヅメに漣のくれたお弁当がある。[r]
+このお弁当は一番最初に食べないといけない。[pcms]
 
 *2432|
 [fc]
-[ns]Wataru[nse]
-"...Thank you, Ren."[pcms]
+[ns]航[nse]
+「……ありがとう漣」[pcms]
 
 *2433|
 [fc]
-Naturally, words of gratitude slipped out.[pcms]
+自然とお礼の言葉が漏れた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2434|
 [fc]
 [vo_mar s="maru0322"]
-[ns]Margarita[nse]
-"Even so, Wataru, you brought quite a lot of stuff with[r]
-you..."[pcms]
+[ns]マルガリータ[nse]
+「それにしても、随分とワタルは荷物を持っていたんだな……」[pcms]
 
 *2435|
 [fc]
-[ns]Wataru[nse]
-"It was for the Astronomy Club camp..."[pcms]
+[ns]航[nse]
+「天文学同好会のキャンプだったんです……」[pcms]
 
 *2436|
 [fc]
-Various chemicals, trash bags, dishes, knives, towels, a[r]
-radio... There's even something called a "cool sheet" that[r]
-I'm not sure will be useful, but it's supposed to keep you[r]
-cool when you lay it over you.[pcms]
+各種薬品にゴミ袋、食器に刃物、タオル、ラジオ……。[r]
+役に立つかわからないけど、かけると涼しくなる[r]
+『ひんやりシーツ』なんてものもある。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2437|
 [fc]
 [vo_mar s="maru0323"]
-[ns]Margarita[nse]
-"Once again, Wataru's Astronomy Club has proven to be[r]
-useful."[pcms]
+[ns]マルガリータ[nse]
+「またワタルの天文学同好会が役に立ったな」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2438|
 [fc]
-While gripping the mop that has been our weapon since we[r]
-escaped the academy, senpai said this, and I couldn't help[r]
-feeling happy again.[pcms]
+学園を脱出した時からずっと武器にしているモップを[r]
+握りながらそう言った先輩の言葉に、[r]
+ボクはまたうれしくなってしまった。[pcms]
 
 ;//→ブロック４１０３０へ
 [jump storage="41030.ks" target=*41030_TOP]

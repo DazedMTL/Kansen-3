@@ -2,146 +2,145 @@
 ;//@konya 11/13 BG貼付
 
 *BE10090_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 
 [sysbt_meswin]
 
 *354|
 [fc]
-No good, I can't think of anywhere to escape to.[pcms]
+駄目だ、どこに逃げればいいのか思いつかない。[pcms]
 
 *355|
 [fc]
-If I go back to the freight elevator as I am, I'll just be[r]
-cornered.[pcms]
+このまま搬入用のエレベーターまで戻っても、[r]
+追いつめられてしまうだけだ。[pcms]
 
 *356|
 [fc]
-Maybe I could luckily get on the elevator before the men[r]
-catch up...[pcms]
+運良く、男たちが追いかけて来る前に[r]
+エレベーターに乗り込めるかも知れないけれど……。[pcms]
 
 *357|
 [fc]
-I wonder if Marie will be okay by herself.[pcms]
+マリーはひとりで大丈夫だろうか。[pcms]
 
 *358|
 [fc]
-If I run away, Marie can fight freely.[pcms]
+ボクが逃げれば、マリーは自由に戦える。[pcms]
 
 *359|
 [fc]
-She can escape or even fight if she wants to.[pcms]
+逃げることもできるし、戦うことだって。[pcms]
 
 *360|
 [fc]
-So, I mustn't go back to where Marie is.[pcms]
+だから、マリーのところに戻っちゃ駄目だ。[pcms]
 
 *361|
 [fc]
-I'd just be a burden.[pcms]
+足を引っ張ってしまう。[pcms]
 
 [bg storage="BG120"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
 
 *362|
 [fc]
-I went to the front of the freight elevator I had come up in[r]
-and hurriedly pressed the open/close switch.[pcms]
+ボクはのぼってきた搬入用エレベーターの前まで行くと、[r]
+急いで開閉スイッチを押した。[pcms]
 
 *363|
 [fc]
-[ns]Wataru[nse]
-"Why?!"[pcms]
+[ns]航[nse]
+「どうしてっ！」[pcms]
 
 *364|
 [fc]
-I press the elevator switch over and over again.[pcms]
+エレベーターのスイッチを何度も何度も押してみる。[pcms]
 
 *365|
 [fc]
-But all it does is click-clack, making plastic sounds[r]
-without trying to open the door.[pcms]
+でも、それはカチャカチャとプラスチックの音を[r]
+奏でるだけで、その扉を開こうとはしなかった。[pcms]
 
 *366|
 [fc]
-Feeling all strength leave my body, I involuntarily slumped[r]
-down on the spot.[pcms]
+全身の力が抜けてしまったボクは、[r]
+思わずその場にへたり込む。[pcms]
 
 *367|
 [fc]
-The elevator I had just come up in wasn't stopped on this[r]
-floor.[pcms]
+今のぼってきたばかりのエレベーターが、[r]
+この階に止まっていない。[pcms]
 
 *368|
 [fc]
-It had been operated from a different floor and had gone[r]
-there.[pcms]
+どこか違う階から操作されて、[r]
+そこに行ってしまっている。[pcms]
 
 *369|
 [fc]
-It's no longer possible to escape to another floor from[r]
-here.[pcms]
+ここから他の階に逃げることは、もうできない。[pcms]
 
 *370|
 [fc]
-Should I take a chance and fight, or...[pcms]
+一か八か戦ってみるか、それとも……。[pcms]
 
 *371|
 [fc]
-While listening to the approaching footsteps of the men, I[r]
-pray that Marie breaks through the encirclement.[pcms]
+近づいてくる男たちの足音を聞きながら、[r]
+マリーが包囲網を突破してくれることを祈る。[pcms]
 
 *372|
 [fc]
-Without me, Marie will surely manage somehow.[pcms]
+ボクがいなければ、きっとマリーがなんとかしてくれる。[pcms]
 
 *373|
 [fc]
-For that to happen, I can't afford to be a drag...[pcms]
+そのためには、ボクが足を引っ張るわけには……。[pcms]
 
 *374|
 [fc]
-[ns]Henchman A[nse]
-"Oh! Found the brat!!"[pcms]
+[ns]手下Ａ[nse]
+「おっ！　ガキ発見！！」[pcms]
 
 *375|
 [fc]
-[ns]Henchman B[nse]
-"Ohh! Good job, us!"[pcms]
+[ns]手下Ｂ[nse]
+「おお～！　お手柄だな、俺ら！」[pcms]
 
 *376|
 [fc]
-[ns]Wataru[nse]
-"Damn..."[pcms]
+[ns]航[nse]
+「くっ……」[pcms]
 
 *377|
 [fc]
-But I can't give up here. I have to break through on my own[r]
-by any means necessary and meet up with Marie somewhere[r]
-else![pcms]
+でもここであきらめるわけにはいかない。[r]
+ここはなんとしてでも自力で突破して、[r]
+マリーと別の場所で合流するんだ！[pcms]
 
 *378|
 [fc]
-[ns]Henchman A[nse]
-"Heheh! With this, maybe I'll get a reward from Shigeyoshi-[r]
-san... Yeah, that blonde chick! Maybe he'll let me have a go[r]
-with her!!"[pcms]
+[ns]手下Ａ[nse]
+「ひひっ！　これで俺も重吉サンに何か[r]
+　褒美もらえるかもしれねぇ……そうだな、あの金髪女！[r]
+　アイツと一発ヤらせてもらえねぇかなぁ！！」[pcms]
 
 *379|
 [fc]
-[ns]Henchman B[nse]
-"That's a good one!! I've been wanting to screw her too!"[pcms]
+[ns]手下Ｂ[nse]
+「それいいな！！　俺もアイツとヤりてぇと思ってたんだよ！」[pcms]
 
 *380|
 [fc]
-[ns]Wataru[nse]
-"What!! You guys... if you lay even one finger on Marie..."[pcms]
+[ns]航[nse]
+「なっ！！　お前ら……マリーに指一本でも触れ……」[pcms]
 
 *381|
 [fc]
-[ns]Henchman B[nse]
-"Shut up, you damn brat!! Just keep quiet!!"[pcms]
+[ns]手下Ｂ[nse]
+「うっせーんだよ！　クソガキ！！　ちっと黙ってろ！！」[pcms]
 
 ;//〆：ＳＥ　人を殴る　（あれば）
 [se buf=0 storage="se012"]
@@ -153,62 +152,60 @@ with her!!"[pcms]
 
 *382|
 [fc]
-[ns]Wataru[nse]
-"Ugh!? Cough! Cough cough!!"[pcms]
+[ns]航[nse]
+「ぐっ！？　げほっ！　げほげほっ！！」[pcms]
 
 *383|
 [fc]
-Shigeyoshi's henchman punched me hard in the solar plexus.[pcms]
+重吉の手下は、ボクのみぞおちを力一杯殴りつけた。[pcms]
 
 *384|
 [fc]
-Because of that, I could barely breathe and was left[r]
-writhing in agony while the two of them looked down at me[r]
-with smirks and laughed.[pcms]
+そのせいで、息を吸い込むことすらままならず悶絶するだけの[r]
+ボクを、二人はニヤニヤと笑いながら見下ろし、嗤う。[pcms]
 
 *385|
 [fc]
-[ns]Henchman A[nse]
-"So, shall we go? But man, this kid is light... You should[r]
-work out more, you won't be popular with the ladies like[r]
-this!?"[pcms]
+[ns]手下Ａ[nse]
+「じゃ、いくべか！　それにしてもコイツ、軽いな……。[r]
+　ちったぁ鍛えろよ、そんなんじゃ女にモテねぇぞ！？」[pcms]
 
 *386|
 [fc]
-[ns]Henchman B[nse]
-"Heheh! Exactly! ...But more importantly, Shigeyoshi-san[r]
-might have already started. We better hurry or it'll be over[r]
-before our turn comes and she won't be of any use!"[pcms]
+[ns]手下Ｂ[nse]
+「ひひひっ！　全くだ！　……それより重吉サンの方、[r]
+　もう始めてんじゃね？　早くいかねぇと、俺らの順序が来る前に[r]
+　使いモンにならなくなっちまってるかもしれねぇ！」[pcms]
 
 *387|
 [fc]
-[ns]Henchman A[nse]
-"That would be bad... Alright, let's take this brat and get[r]
-going."[pcms]
+[ns]手下Ａ[nse]
+「そりゃヤベェな……じゃあ、このガキ連れて、さっさと行くか」[pcms]
 
 *388|
 [fc]
-Not of any use...? What are these guys... talking about!?[pcms]
+使い物にならなくなる……？[r]
+コイツら……一体、何を！？[pcms]
 
 *389|
 [fc]
-[ns]Henchman B[nse]
-"I'm so pent up... Ahh, I wanna go wild soon!"[pcms]
+[ns]手下Ｂ[nse]
+「俺タマってんだよ……あー、早くヤリまくりてぇよ！」[pcms]
 
 *390|
 [fc]
-[ns]Henchman A[nse]
-"Hyahyahya! Me too!!"[pcms]
+[ns]手下Ａ[nse]
+「ひゃひゃひゃ！　俺もだぁ！！」[pcms]
 
 *391|
 [fc]
-[ns]Wataru[nse]
-"Uh... Ma-Marie..."[pcms]
+[ns]航[nse]
+「う……ま、マリー……」[pcms]
 
 *392|
 [fc]
-With vile grins on their faces, the two men lifted me by my[r]
-sides and started walking towards the elevator hall.[pcms]
+見るも耐えない下卑た笑みを浮かべた二人は、[r]
+ボクの脇を抱え、エレベーターホールへと歩き出した。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

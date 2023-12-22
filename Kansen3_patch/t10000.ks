@@ -10,7 +10,7 @@
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣
 ;//　　　　　ジン・重吉
-;//・時間帯：時間：５日目（８月１９日）昼
+;//・時間帯：時間：５日目（８月１９日）昼～
 ;//
 ;//※ライター様へ。
 ;//　このブロックはいわゆる日常シーンですが、
@@ -42,169 +42,167 @@
 *5471|
 [fc]
 [vo_yuh s="yuho_T0001"]
-[ns]Yuuho[nse]
-"Alright everyone, good work! Lunch today is a special[r]
-vegetable stir-fry!"[pcms]
+[ns]悠帆[nse]
+「は～い、みんな、おつかれさーん！[r]
+　お昼は特製野菜炒めだよ～！」[pcms]
 
 ;//〆昼食カットイン
 
 
 *5472|
 [fc]
-The lunch menu consisted of rice, miso soup, meat and[r]
-vegetable stir-fry, salad, and tamagoyaki.[pcms]
+昼食のメニューは、ご飯に味噌汁をはじめとして[r]
+肉野菜炒めとサラダ、卵焼きという内容だ。[pcms]
 
 *5473|
 [fc]
-It seems that Yuuho and Ren went all out cooking because[r]
-they got their hands on some fresh vegetables and eggs.[pcms]
+鮮度のいい野菜や卵が手に入ったので、[r]
+悠帆と漣が張り切って作ってくれたらしい。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5474|
 [fc]
-[ns]Kousuke[nse]
-"Whoa, the special meat and vegetable stir-fry from Kannagi-[r]
-ken! I really love this stuff!"[pcms]
+[ns]浩助[nse]
+「うぉぉっ、かんなぎ軒の特製肉野菜炒め！[r]
+　オレ、好きなんだよなぁっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5475|
 [fc]
 [vo_mar s="maru_T0001"]
-[ns]Margarita[nse]
-"Hmph, it's just ordinary cooking... thank goodness..."[pcms]
+[ns]マルガリータ[nse]
+「ふ、普通の料理だな……良かった…………」[pcms]
 ;//＠小声
 
 *5476|
 [fc]
-I didn't say it out loud like my senior, but I also felt[r]
-relieved inside.[pcms]
+先輩みたいに口には出さなかったけど、ボクも内心ホッとする。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5477|
 [fc]
 [vo_ren s="ren_T0001"]
-[ns]Ren[nse]
-"So, is everyone ready? Then... let's eat!"[pcms]
+[ns]漣[nse]
+「じゃあ、みなさんいいですかー？[r]
+　それでは……いただきます！」[pcms]
 
 *5478|
 [fc]
-Everyone joined in the greeting and then started eating[r]
-their meals.[pcms]
+全員が揃って挨拶して、それぞれ料理に箸をつけた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5479|
 [fc]
 [vo_mar s="maru_T0002"]
-[ns]Margarita[nse]
-"...Delicious!"[pcms]
+[ns]マルガリータ[nse]
+「……美味しいっ！」[pcms]
 
 *5480|
 [fc]
-Upon tasting the meat and vegetable stir-fry, the senior[r]
-immediately grabbed Yuuho's hand.[pcms]
+肉野菜炒めを口にした先輩は、箸を置くなり、[r]
+悠帆の手を握り締めた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5481|
 [fc]
 [vo_mar s="maru_T0003"]
-[ns]Margarita[nse]
-"Yuuho! You should hone your skills in this direction!"[pcms]
+[ns]マルガリータ[nse]
+「ユウホ！　アナタはこの方向で腕を磨くべきだ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5482|
 [fc]
 [vo_yuh s="yuho_T0002"]
-[ns]Yuuho[nse]
-"Huh? Direction?"[pcms]
+[ns]悠帆[nse]
+「へ？　方向？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5483|
 [fc]
 [vo_mar s="maru_T0004"]
-[ns]Margarita[nse]
-"Focus on the taste rather than the appearance! That way,[r]
-you can become a first-class chef, right?"[pcms]
+[ns]マルガリータ[nse]
+「見た目に凝らず、味で勝負すべきだ！[r]
+　そうすれば一流のシェフになれるぞ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5484|
 [fc]
 [vo_yuh s="yuho_T0003"]
-[ns]Yuuho[nse]
-"Ah... is that so..."[pcms]
+[ns]悠帆[nse]
+「はぁ……そ、そうっすか……」[pcms]
 
 *5485|
 [fc]
-With a complicated expression on her face, Yuuho gave a wry[r]
-smile.[pcms]
+見るからにフクザツそうな表情で、悠帆は苦笑している。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5485a|
 [fc]
-Kousuke is wolfing down his rice at an incredible pace, and[r]
-it seems like Mizuki won't have any trouble with this menu[r]
-either.[pcms]
+コースケは凄い勢いでご飯をかきこんでるし、[r]
+瑞樹もこのメニューなら食べられないものはなさそうだ。[pcms]
 
 *5486|
 [fc]
-I wonder what the vegetarians will do...?[pcms]
+そういえばベジタリアンはどうするんだろ……？[pcms]
 
 *5487|
 [fc]
-Looking over, I saw that Jin-san had a plate of meatless[r]
-vegetable stir-fry in front of him.[pcms]
+見ると壬さんの前には、[r]
+ちゃんと肉抜きの野菜炒めの皿が置いてあった。[pcms]
 
 *5488|
 [fc]
-The special meat and vegetable stir-fry from Kannagi-ken has[r]
-a great crunchy texture from the vegetables soaked in meat[r]
-juices; it's one of my favorite menus too...[pcms]
+かんなぎ軒の特製肉野菜炒めは、[r]
+肉汁の絡んだ野菜のシャキシャキ感がサイコーで、[r]
+ボクも好きなメニューのひとつだけど……。[pcms]
 
 *5489|
 [fc]
-I wonder if it's still delicious without the meat...?[pcms]
+肉抜きでも美味しいのかな……？[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5490|
 [fc]
-[ns]Jin[nse]
-"...Delicious? The balance of spicy miso and oil is perfect.[r]
-And the salad is good too. It was worth the work."[pcms]
+[ns]壬[nse]
+「……旨いぞ？　辛味噌と油の具合が絶妙だ。[r]
+　それに、サラダの方もいける。[r]
+　働いたかいがあったというものだ」[pcms]
 
 *5491|
 [fc]
-Jin-san noticed my gaze and nodded towards Ren while[r]
-explaining.[pcms]
+じっと見ていたボクの視線に気付いた壬さんは[r]
+おもむろに解説しながら漣にうなずきかける。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5492|
 [fc]
 [vo_ren s="ren_T0002"]
-[ns]Ren[nse]
-"Ehehe... We brought a lot of leafy vegetables since they[r]
-don't last long, so please eat a lot while you can."[pcms]
+[ns]漣[nse]
+「えへへ……。[r]
+　葉物のお野菜、たくさん持ってきちゃったけど、[r]
+　日持ちしないから今のウチにたくさん食べてくださいね」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5493|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ngn ngn ngn... seconds!!!"[pcms]
+[ns]重吉[nse]
+「んぐんぐんぐ……おかわり！！！」[pcms]
 
 *5494|
 [fc]
-Not that anyone needed to be told, as there were already[r]
-people eating plenty.[pcms]
+言われるまでもなく、たくさん食べている人もいるけどね。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -221,83 +219,84 @@ people eating plenty.[pcms]
 
 *5495|
 [fc]
-[ns]Kousuke[nse]
-"...Phew, I'm stuffed."[pcms]
+[ns]浩助[nse]
+「……はー、食った食った」[pcms]
 
 *5496|
 [fc]
-Kousuke, with his belly visibly more swollen before and[r]
-after eating, stretched out and sprawled over the chair.[pcms]
+明らかに使用前・使用後というくらいに腹の膨らんだコースケが[r]
+べたーっと身体を長くして、椅子に寝そべっている。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5497|
 [fc]
-[ns]Kousuke[nse]
-"So, what are we doing after this?"[pcms]
+[ns]浩助[nse]
+「んでさ。この後、どうする？」[pcms]
 
 *5498|
 [fc]
-[ns]Wataru[nse]
-"Well... we've finished moving stuff, and there's no news."[pcms]
+[ns]航[nse]
+「そうだねぇ……、[r]
+　荷物運びも終わっちゃったし、ニュースもやってないし」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5499|
 [fc]
-Since mobile sites aren't updated that frequently, there[r]
-doesn't seem to be any need to check them in a hurry.[pcms]
+携帯のサイトも更新がそれほど頻繁ではないから、[r]
+特に慌てて見る必要もなさそうだ。[pcms]
 
 *5500|
 [fc]
-We discussed various things and decided to spend the[r]
-afternoon looking around the shops inside LASER.[pcms]
+ボクたちはあれこれと相談し、[r]
+午後はＬＡＳＥＲ内の店舗をいろいろ見て回ることにした。[pcms]
 
 *5501|
 [fc]
-[ns]Wataru[nse]
-"So... shall we go together?"[pcms]
+[ns]航[nse]
+「えっと……、一緒に行きますか？」[pcms]
 
 *5502|
 [fc]
-I didn't expect him to come when I invited him, but to my[r]
-surprise, Jin-san thought for a moment and then nodded.[pcms]
+どうせ来ないだろうなと思って誘ったんだけど[r]
+驚いたことに壬さんは、少し考えた後でうなずいた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5503|
 [fc]
-[ns]Jin[nse]
-"Sure. I don't have anything else to do anyway."[pcms]
+[ns]壬[nse]
+「いいだろう。他にやることもないしな」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5504|
 [fc]
-[ns]Shigeyoshi[nse]
-"...I'll pass. I've been worked to the bone and I'm beat.[r]
-I've had my meal, so let me sleep for now."[pcms]
+[ns]重吉[nse]
+「……俺様はパスだ。[r]
+　さんざんコキ使われて、ヘトヘトだァ。[r]
+　メシも喰ったことだし、とりあえず、寝かせろ」[pcms]
 
 *5505|
 [fc]
-Despite saying he was going to sleep, Shigeyoshi disappeared[r]
-into the VIP room with a load of stuff like bottles of[r]
-liquor, snacks, and magazines. Even after eating so much[r]
-lunch, he still has room in his stomach...[pcms]
+寝るという割には洋酒のボトルだのつまみだの雑誌だのと、[r]
+しこたま物を抱えて、重吉はＶＩＰルームへ消えていく。[r]
+あれだけ昼ご飯を食べたのに、まだ胃袋空いてるのか……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5506|
 [fc]
-[ns]Kousuke[nse]
-"Then, shall we go down one floor at a time?"[pcms]
+[ns]浩助[nse]
+「んじゃ、１フロアずつ降りてってみっか？」[pcms]
 
 ;//背景、エレベーターエントランスを挟む？
 [bg storage="BG120"][trans_c cross time=500]
 
 *5507|
 [fc]
-Everyone except Shigeyoshi got into the elevator.[pcms]
+重吉以外の全員がエレベーターに乗り込んだ。[pcms]
 
 ;[eval exp="f.l_map = 18"]
 
@@ -309,168 +308,167 @@ Everyone except Shigeyoshi got into the elevator.[pcms]
 
 *5508|
 [fc]
-[ns]Wataru[nse]
-"First up is the 6th floor... Gyu-Gyu Paradise."[pcms]
+[ns]航[nse]
+「まずは６Ｆ……ギュウギュウ天国だね」[pcms]
 
 *5509|
 [fc]
-This place is an all-you-can-eat shabu-shabu and sukiyaki[r]
-restaurant.[pcms]
+ここは、しゃぶしゃぶとすき焼きが食べ放題の店だ。[pcms]
 
 *5510|
 [fc]
-We've been quite grateful for their cheap and plentiful 980[r]
-yen all-you-can-eat lunch specials.[pcms]
+とにかく安くて大量に食べられるから[r]
+昼の９８０円食べ放題ランチには[r]
+ボクたちもかなりお世話になった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *5511|
 [fc]
-[ns]Kousuke[nse]
-"But you know, when I glanced over during the food delivery[r]
-earlier, the fridge was pretty full, huh?"[pcms]
+[ns]浩助[nse]
+「んでもよ、さっき食材搬入んとき、チラッと見たら[r]
+　冷蔵庫、かなりいっぱいだったぜー？」[pcms]
 
 *5512|
 [fc]
-[ns]Wataru[nse]
-"Maybe it was right after they restocked. We were lucky."[pcms]
+[ns]航[nse]
+「仕入れの直後だったのかな。ラッキーだったね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5513|
 [fc]
 [vo_mar s="maru_T0005"]
-[ns]Margarita[nse]
-"It's good to have a large stockpile of food. Especially[r]
-rice, which can be stored for a long time as long as it's[r]
-kept dry."[pcms]
+[ns]マルガリータ[nse]
+「食糧備蓄が多いのは助かるな。[r]
+　特に米は水濡れさえ気をつければ、長期保存がきく」[pcms]
 
 *5514|
 [fc]
-There was also a huge stock of drinks, and just with the[r]
-food from this restaurant alone, it seems like all of us[r]
-could survive for a week or so.[pcms]
+飲み物なんかも大量にストックされていたし、[r]
+この店の食材だけでも、[r]
+ボクら全員が一週間やそこら、食いつないでいけそうだ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5515|
 [fc]
 [vo_yuh s="yuho_T0004"]
-[ns]Yuuho[nse]
-"Even so, this refrigerator is really huge! The meat storage[r]
-room is definitely professional equipment! Even the famous[r]
-'Kannagi-ken' can't compete with this."[pcms]
+[ns]悠帆[nse]
+「それにしても、この冷蔵庫、ほんとおっきいよね～っ！[r]
+　食肉保存庫なんか、さっすが専用設備！[r]
+　さすがの『かんなぎ軒』も敵わないよー」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *5516|
 [fc]
 [vo_yuh s="yuho_T0005"]
-[ns]Yuuho[nse]
-"Ah, but maybe the stove is a bit shabby. After all, ours[r]
-has high heat! ...I win!"[pcms]
+[ns]悠帆[nse]
+「あ、でもコンロは意外としょぼいかも。[r]
+　なんたってウチのは大火力！[r]
+　……勝った！」[pcms]
 
 *5517|
 [fc]
-Yuuho. What kind of competition is that...?[pcms]
+悠帆。何の勝負なの、それ……？[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5518|
 [fc]
 [vo_ren s="ren_T0003"]
-[ns]Ren[nse]
-"So much meat..."[pcms]
+[ns]漣[nse]
+「お肉……いっぱいだね……」[pcms]
 ;//＠うっとり
 
 *5519|
 [fc]
-Ren opened the meat storage and gazed at it dreamily with[r]
-narrowed eyes.[pcms]
+食肉保存庫を開けた漣が、うっとりと目を細めている。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *5520|
 [fc]
 [vo_miz s="mizuki_T0001"]
-[ns]Mizuki[nse]
-"Ah, Ren, you shouldn't leave it open like that?"[pcms]
+[ns]瑞樹[nse]
+「あ、レン、開けっ放しにしちゃダメだよ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5521|
 [fc]
 [vo_ren s="ren_T0004"]
-[ns]Ren[nse]
-"Sorry... But Yonezawa-kun, Tajima-kun, and Maezawa-kun are[r]
-tempting me~"[pcms]
+[ns]漣[nse]
+「ごめんなさーい……。でも、[r]
+　米沢くんや但馬くん、前沢くんが私を誘惑するの～」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5522|
 [fc]
 [vo_mar s="maru_T0006"]
-[ns]Margarita[nse]
-"...Human flesh?"[pcms]
+[ns]マルガリータ[nse]
+「……人肉？」[pcms]
 
 *5523|
 [fc]
-Maruko-senpai's body stiffened with a start, and I explained[r]
-with a laugh.[pcms]
+ビクっと身体を強張らせたマル子先輩に[r]
+ボクは笑いながら説明する。[pcms]
 
 *5524|
 [fc]
-[ns]Wataru[nse]
-"No, those are the names of famous Wagyu beef brands from[r]
-various places in Japan. Well, they're clones though."[pcms]
+[ns]航[nse]
+「いえ、日本各地の有名和牛のブランド名ですよ。[r]
+　ま、クローンですけど」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5525|
 [fc]
 [vo_ren s="ren_T0005"]
-[ns]Ren[nse]
-"Ah, this shelf over here is even more amazing! There's[r]
-Matsusaka-kun, Kobe-kun, and even Omi-kun~! Let's have[r]
-dinner here! I love meat~!"[pcms]
+[ns]漣[nse]
+「あ、こっちの棚なんか、もっとすごいよ！[r]
+　松阪くんに神戸くん、近江くんまでいる～っ！[r]
+　晩御飯は、ここにしよう！　お肉だ～いすきっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5526|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *5527|
 [fc]
-Suddenly noticing, Jin-san was staring intently at the[r]
-frolicking Ren with a grim expression.[pcms]
+ふと気付けば、はしゃぐ漣にじっと視線を注ぎながら[r]
+壬さんが渋い顔をしている。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *5528|
 [fc]
 [vo_ren s="ren_T0006"]
-[ns]Ren[nse]
-"Ah... Jin-san, we can also do hot pot!! How about vegetable[r]
-shabu-shabu?"[pcms]
+[ns]漣[nse]
+「あ……、壬さんには、お鍋もできますよ！！[r]
+　野菜しゃぶしゃぶとか、どうでしょ？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *5529|
 [fc]
-[ns]Jin[nse]
-"By all means, let's go with that."[pcms]
+[ns]壬[nse]
+「ぜひ、それで頼む」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *5530|
 [fc]
 [vo_mar s="maru_T0007"]
-[ns]Margarita[nse]
-"Ren is really interesting. With her taste in manga and food[r]
-preferences... People can't be judged by their appearance[r]
-alone."[pcms]
+[ns]マルガリータ[nse]
+「それにしてもレンは面白いな。[r]
+　漫画の趣味といい、食べ物の好みといい……。[r]
+　人は見た目だけでは判断できないものだ」[pcms]
 
 ;mm マル子消すんじゃね？
 [chara_int][trans_c cross time=150]
@@ -479,45 +477,43 @@ alone."[pcms]
 
 *5531|
 [fc]
-While making a commotion, we finished looking around the[r]
-store.[pcms]
+わいわいと騒ぎながら、[r]
+ボクたちはひととおり店内を見て回った。[pcms]
 
 *5532|
 [fc]
-The layout of the back yard and emergency stairs at the back[r]
-of the store is the same as the 7F DJ Bar.[pcms]
+店の奥の、バックヤードや非常階段の配置は[r]
+７ＦのＤＪバーと同じ作りだ。[pcms]
 
 *5533|
 [fc]
-There's another emergency staircase at the back of the back[r]
-yard, along with a freight elevator and several storage[r]
-rooms lined up.[pcms]
+バックヤードの奥の方にも、もう一つ非常階段があって[r]
+搬入用のエレベーターと、倉庫などの部屋がいくつか並んでいる。[pcms]
 
 *5534|
 [fc]
-[ns]Wataru[nse]
-"I guess that's about it."[pcms]
+[ns]航[nse]
+「だいたい、こんなところかなー」[pcms]
 
 *5535|
 [fc]
-The next floor is the 5F manga caf... What should we do?[pcms]
+次のフロアは５Ｆの漫画喫茶だけど……どうしよう？[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１
-;//１１：別に良いか・・・→T10010
-;//１２：一応、見て回る。→T10020
+;//●選択肢Ａ－１
+;//１－１：別に良いか・・・→T10010
+;//１－２：一応、見て回る。→T10020
 
 
 ;	[link storage="T10010.ks" target=*T10010_TOP]別に良いか……[endlink]
-; (link storage="T10020.ks" target=*T10020_TOP)We should at[r]
-least take a look around(endlink)[pcms]
+;	[link storage="T10020.ks" target=*T10020_TOP]一応、見て回る[endlink][s]
 
 *SEL65|別に良いか……／一応、見て回る
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'It\'s fine, I guess'"]
-[eval exp="f.seltext04 = 'I\'ll take a look around, just in case'"]
+[eval exp="f.seltext02 = '別に良いか……'"]
+[eval exp="f.seltext04 = '一応、見て回る'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

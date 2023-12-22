@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）昼
+;//・時間帯：５日目（８月１９日）昼～
 ;//
 ;//※ライター様へ。
 ;//　このブロックはいわゆる日常シーンですが、
@@ -29,90 +29,92 @@
 
 *5625|
 [fc]
-[ns]Wataru[nse]
-"...It's kind of intriguing, isn't it?"[pcms]
+[ns]航[nse]
+「……気になるよな、こういうのって」[pcms]
 
 *5626|
 [fc]
-The escalator going up from the 4th floor. But there's no[r]
-sign of it on the 5th floor, it's a bit of a mystery.[pcms]
+４Ｆからの昇りエスカレーター。[r]
+だけど５Ｆにはその形跡がないなんて[r]
+ちょっとしたミステリーじゃないか。[pcms]
 
 *5627|
 [fc]
-I step onto the metal steps of the escalator.[pcms]
+ボクはエスカレーターの金属ステップに足をかける。[pcms]
 
 *5628|
 [fc]
-[ns]Wataru[nse]
-"Ugh..."[pcms]
+[ns]航[nse]
+「うっ……」[pcms]
 
 *5629|
 [fc]
-It moved ever so slightly, just barely.[pcms]
+びみょーに、僅かに、動いた。[pcms]
 
 *5630|
 [fc]
-There's probably a stopper or some safety device, but if the[r]
-escalator suddenly started moving in this darkness, I'd[r]
-definitely tumble down.[pcms]
+恐らくストッパーとか安全装置とかはあるのだろうけど、[r]
+こんな暗がりで急にエスカレーターが稼動しはじめたら[r]
+転がり落ちること、間違いない。[pcms]
 
 *5631|
 [fc]
-Being a coward at heart, I start climbing the steps slowly,[r]
-almost crawling.[pcms]
+ヘタレのボクは内心では相当ビビりながら、[r]
+はいつくばうようにして[r]
+ゆっくりとステップを登り始めた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 ;[eval exp="f.l_map = 22"]
 
 *5632|
 [fc]
-[ns]Wataru[nse]
-"...Huh...?"[pcms]
+[ns]航[nse]
+「…………あれ……？」[pcms]
 
 *5633|
 [fc]
-It's dark and hard to see, but is this a dead end? Right[r]
-around where I've reached the 5th floor, it seems to be[r]
-blocked by something like a wall.[pcms]
+暗くてよく見えないけど、行き止まり、かな。[r]
+ちょうど５Ｆに着いたあたりが[r]
+壁みたいなものでふさがれている。[pcms]
 
 *5634|
 [fc]
-Using the light coming from the 4th floor as a guide, I[r]
-touch what appears to be the wall.[pcms]
+４Ｆからの入ってくる明かりを頼りに[r]
+壁面に見える部分を触ってみる。[pcms]
 
 *5635|
 [fc]
-The rough texture suggests it's the backside of a building[r]
-material, the so- called "unfinished surface."[pcms]
+ざらざらした感触からすると、建築材の裏側の、[r]
+いわゆる『お化粧されていない面』のようだ。[pcms]
 
 *5636|
 [fc]
-[ns]Wataru[nse]
-"Hmm, it's pretty hard."[pcms]
+[ns]航[nse]
+「ふーん、けっこう硬いな」[pcms]
 
 *5637|
 [fc]
-I tapped the wall a bit, and it seemed quite sturdy.[r]
-Probably wouldn't break even if I threw my body against it.[pcms]
+少し壁を叩いてみたけど、けっこう頑丈そうだった。[r]
+多分、体当たりとかしても壊れないだろうな。[pcms]
 
 *5638|
 [fc]
-This should be the area of the 5th floor, around where the[r]
-manga cafe's office is located.[pcms]
+ここは、フロアの場所でいうと[r]
+５Ｆ、漫画喫茶の、事務所のあたりになるはずだ。[pcms]
 
 *5639|
 [fc]
-Maybe they decided to block off the escalator when they[r]
-remodeled for some reason?[pcms]
+何かで改装とかしたときに、エスカレーターが邪魔になって[r]
+塞ぐことにしたんだろうか？[pcms]
 
 *5640|
 [fc]
-[ns]Wataru[nse]
-"It's kind of strange but... well, whatever."[pcms]
+[ns]航[nse]
+「なんか不思議だけど……、ま、いっか」[pcms]
 
 *5641|
 [fc]
-I decided to head back towards the elevator entrance.[pcms]
+ボクはエレベーターエントランスの方に戻ることにした。[pcms]
 
 [eval exp="f.l_pass_5f = 1"]
 

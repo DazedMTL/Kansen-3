@@ -23,247 +23,241 @@
 
 *1800|
 [fc]
-Indeed, there's no guarantee that the catwalk is safe. With[r]
-my lack of physical and arm strength, I might just end up[r]
-being a burden rather than helping Yuuho.[pcms]
+確かにキャットウォークが安全という保証はない。[r]
+体力も腕力も自信がないボクでは、悠帆を助ける[r]
+どころか下手をすれば足手まといになるだけだ。[pcms]
 
 *1801|
 [fc]
-If possible, I'd like to save Yuuho with my own hands, but[r]
-right now we should prioritize the most reliable method.[pcms]
+できることならボク自身の手で悠帆を助けたいところ[r]
+だけどいまは最も手堅い方法を優先するべきだろう。[pcms]
 
 *1802|
 [fc]
-[ns]Wataru[nse]
-"Understood. Then I'll guard this place. Please... take care[r]
-of Yuuho."[pcms]
+[ns]航[nse]
+「わかりました。じゃあボクはここを守ります。[r]
+　悠帆を……お願いします」[pcms]
 
 *1803|
 [fc]
-I really wanted to dash in heroically like a prince from a[r]
-fairy tale or a knight from a movie and save Yuuho in style.[pcms]
+お伽噺の王子様のように、映画の騎士のように本当は[r]
+颯爽と駆けつけて悠帆を格好良く救いたかった。[pcms]
 
 *1804|
 [fc]
-But I can't do that. If I can't, then I have to do the best[r]
-within my limitations.[pcms]
+でも、ボクにはそんなことはできない。[r]
+できないならできない中で、ベストを尽くすしかないんだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1805|
 [fc]
 [vo_mar s="maru0232"]
-[ns]Margarita[nse]
-"If they climb up here, just poke them no matter what."[pcms]
+[ns]マルガリータ[nse]
+「連中が登ってきたら、とにかく突け」[pcms]
 
 *1806|
 [fc]
-[ns]Wataru[nse]
-"Poke?"[pcms]
+[ns]航[nse]
+「突く？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1807|
 [fc]
 [vo_mar s="maru0233"]
-[ns]Margarita[nse]
-"In this narrow space, an amateur swinging a stick around[r]
-won't be able to deal effective damage."[pcms]
+[ns]マルガリータ[nse]
+「この狭い範囲で、素人が棒を振り回しても効果的な[r]
+　ダメージなんて与えられないからな」[pcms]
 
 *1808|
 [fc]
-As Senpai says, I'm a complete amateur when it comes to[r]
-fighting or brawling.[pcms]
+先輩の言うとおり、ボクは戦いとか喧嘩とか[r]
+そういった方面は全くダメな素人だ。[pcms]
 
 *1809|
 [fc]
-Honestly, I'm also unsure about how violent I can get[r]
-against another person.[pcms]
+正直自分でも、人間相手にどこまで暴力的になれるか[r]
+不安な部分もある。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1810|
 [fc]
 [vo_mar s="maru0234"]
-[ns]Margarita[nse]
-"If you hesitate, it's over."[pcms]
+[ns]マルガリータ[nse]
+「躊躇したらおしまいだ」[pcms]
 
 *1811|
 [fc]
-As if seeing through my anxiety, Senpai hit the nail on the[r]
-head.[pcms]
+ボクのそんな不安を見抜いたかのように、[r]
+先輩は核心をついてきた。[pcms]
 
 *1812|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1813|
 [fc]
 [vo_mar s="maru0235"]
-[ns]Margarita[nse]
-"What's important in this kind of fight is not technique but[r]
-spirit."[pcms]
+[ns]マルガリータ[nse]
+「こういった戦いで重要なのは技術より気持ちだ」[pcms]
 
 *1814|
 [fc]
-[ns]Wataru[nse]
-"But..."[pcms]
+[ns]航[nse]
+「でも……」[pcms]
 
 *1815|
 [fc]
-Even if they come at us in a gruesome form, the opponent is[r]
-still human.[pcms]
+いくら凄惨な姿で襲ってくるとはいっても相手は人間だ。[pcms]
 
 *1816|
 [fc]
-They have families, friends, futures, and have lived their[r]
-lives crying and laughing.[pcms]
+家族がいて、友だちがいて、未来があって、[r]
+泣いたり笑ったりして生きてきた人間だ。[pcms]
 
 *1817|
 [fc]
-Is it really okay to hurt them, even in self-defense, as if[r]
-driving away harmful beasts?[pcms]
+それを自衛のためとはいえ、害獣を追い払う感覚で[r]
+傷つけていいんろうか。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1818|
 [fc]
 [vo_mar s="maru0236"]
-[ns]Margarita[nse]
-"Don't think of them as people. They're beasts in human[r]
-form. If you want to protect yourself and your loved ones,[r]
-you have no choice but to fight."[pcms]
+[ns]マルガリータ[nse]
+「ヤツラを人だと思うな。人の形をした獣だ。自分を、[r]
+　大切な人を守りたければ戦うしかない」[pcms]
 
 *1819|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「は、はい……」[pcms]
 
 *1820|
 [fc]
-I wonder why she can make such clear-cut decisions so[r]
-easily, it felt strange to me.[pcms]
+なぜこの人はこんなに簡単に割り切れるんだろうと、[r]
+ボクは不思議に感じた。[pcms]
 
 *1821|
 [fc]
-Different upbringing. That's probably the simple[r]
-explanation.[pcms]
+育った環境が違う。[r]
+一口に言ってしまえばそうなんだろうけど。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1822|
 [fc]
 [vo_mar s="maru0237"]
-[ns]Margarita[nse]
-"People hurting people... it might be rare here, but it's an[r]
-act that has been repeated many times throughout human[r]
-history."[pcms]
+[ns]マルガリータ[nse]
+「人が人を傷つける……ここでは滅多にないことかも[r]
+　しれないが人間の歴史では何度も繰り返された行為だ」[pcms]
 
 *1823|
 [fc]
-I understand Senpai's logic well.[pcms]
+先輩の理屈はよくわかる。[pcms]
 
 *1824|
 [fc]
-Wars and crimes are still rampant in the world, and many[r]
-people die by human hands every day.[pcms]
+世界ではいまだに戦争や犯罪が多発して、[r]
+人の手で毎日沢山の人間が死んでいる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1825|
 [fc]
 [vo_mar s="maru0238"]
-[ns]Margarita[nse]
-"Even if it's sad or painful, if you want to protect what's[r]
-important to you, you have no choice but to fight. Remember[r]
-what we did in front of the music room."[pcms]
+[ns]マルガリータ[nse]
+「悲しくても辛くても、大切なものを守りたいなら[r]
+　戦うしかない。音楽室前でやったことを思い出せ」[pcms]
 
 *1826|
 [fc]
-[ns]Wataru[nse]
-"That was... I was beside myself, and mostly you took them[r]
-down."[pcms]
+[ns]航[nse]
+「あれは……無我夢中だったし、殆ど先輩が[r]
+　倒してくれたから」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1827|
 [fc]
 [vo_mar s="maru0239"]
-[ns]Margarita[nse]
-"Whether you were beside yourself or whatever, you managed[r]
-once. You can do it again this time. Anyway, I'm counting on[r]
-you until I get back."[pcms]
+[ns]マルガリータ[nse]
+「無我夢中だろうとなんだろうと、一度はできたんだ。[r]
+　今度だってできるさ。ともかく、ワタシが戻るまで頼む」[pcms]
 
 *1828|
 [fc]
-[ns]Wataru[nse]
-"Understood..."[pcms]
+[ns]航[nse]
+「わかりました……」[pcms]
 
 *1829|
 [fc]
-That's right. Just as Senpai says.[pcms]
+その通りだ。先輩の言う通りだ。[pcms]
 
 *1830|
 [fc]
-I have no choice but to do it. To protect what's important,[r]
-I have no choice but to do it.[pcms]
+やるしかない。大切なものを守るためには[r]
+やるしかないんだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1831|
 [fc]
 [vo_mar s="maru0240"]
-[ns]Margarita[nse]
-"You don't need to do anything difficult. Just poke and[r]
-knock them down. That's certain."[pcms]
+[ns]マルガリータ[nse]
+「難しいことはしなくていい。とにかく突いて落とせ。[r]
+　それなら確実だ」[pcms]
 
 *1832|
 [fc]
-But as if seeing through my anxiety again, Senpai gave me[r]
-advice once more.[pcms]
+でもボクの不安を見透かしたように、[r]
+先輩は再びアドバイスをくれる。[pcms]
 
 *1833|
 [fc]
-[ns]Wataru[nse]
-"Will it go well?"[pcms]
+[ns]航[nse]
+「上手くいきますかね？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1834|
 [fc]
 [vo_mar s="maru0241"]
-[ns]Margarita[nse]
-"If it doesn't go well, we'll just die here together, unable[r]
-to return to your sister."[pcms]
+[ns]マルガリータ[nse]
+「上手く行かなければ、三人仲良くここで死ぬだけだ。[r]
+　妹のところにも戻れずにな」[pcms]
 
 *1835|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はい……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1836|
 [fc]
 [vo_mar s="maru0242"]
-[ns]Margarita[nse]
-"I'm leaving it to you."[pcms]
+[ns]マルガリータ[nse]
+「任せた」[pcms]
 
 *1837|
 [fc]
-Senpai said that shortly and then opened the door and went[r]
-out onto the catwalk.[pcms]
+先輩は短くそう言い放つと、ドアを開けて[r]
+キャットウォークへと出て行ってしまった。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1838|
 [fc]
-Suddenly feeling anxious from the bottom of my feet, I[r]
-steeled my resolve with Senpai's words.[pcms]
+急に不安が足元から襲ってきたけれども、[r]
+ボクは先輩の一言に覚悟を決めた。[pcms]
 
 ;//BG：体育館内
 [bg storage="BG014"][trans_c cross time=500]
@@ -271,362 +265,363 @@ steeled my resolve with Senpai's words.[pcms]
 
 *1839|
 [fc]
-Left alone in this place, I almost grimaced at the sensual[r]
-moans echoing throughout the gymnasium and the overpowering[r]
-smell of sex.[pcms]
+この場に一人残された僕は、体育館全体に響き渡る[r]
+官能的な嬌声と、むせ返るような性臭に思わず顔を[r]
+しかめそうになった。[pcms]
 
 *1840|
 [fc]
-The scene was too gruesome and surreal.[pcms]
+あまりにも凄惨すぎる、現実離れした異様な光景。[pcms]
 
 *1841|
 [fc]
-The strange smell and eerie presence.[pcms]
+異様な臭いと異様な気配。[pcms]
 
 *1842|
 [fc]
-The air muddled with fear and pleasure was enough to make me[r]
-dizzy.[pcms]
+恐怖と快楽の混濁した空気に眩暈がするほどだ。[pcms]
 
 *1843|
 [fc]
-Yet Senpai didn't flinch at all and continued to knock down[r]
-the infected on the catwalk with another mop handle she had[r]
-prepared for herself.[pcms]
+それでも先輩は全く動じることなく、キャットウォークに[r]
+いる感染者を、もう一本の自分用に用意したモップの柄で[r]
+叩き落としていく。[pcms]
 
 *1844|
 [fc]
-It wasn't just the simple poking motion she had instructed[r]
-me to do earlier; she used skillful techniques like tripping[r]
-and striking.[pcms]
+先ほどボクに指示したような突くだけの[r]
+単純な動きではなく足を掬ったり、[r]
+叩いたりと巧みな技だった。[pcms]
 
 *1845|
 [fc]
-Of course, I don't have the luxury to watch her calmly.[pcms]
+もちろん、ボクもそれをのんびり観戦している余裕はない。[pcms]
 
 *1846|
 [fc]
-Looking up, I saw a group of infected climbing up the stairs[r]
-towards us.[pcms]
+見ると感染者の群れが階段を上って迫っていた。[pcms]
 
 *1847|
 [fc]
-[ns]Wataru[nse]
-"Poke... Poke..."[pcms]
+[ns]航[nse]
+「突く……突く……」[pcms]
 
 *1848|
 [fc]
-Muttering to myself as if to convince myself, I put strength[r]
-into my trembling hands and thrust out the mop handle in[r]
-imitation of Senpai earlier.[pcms]
+自分に言い聞かせるようにボクはつぶやくと、[r]
+震える手に力を込めて、見よう見まねで先ほどの[r]
+先輩のようにモップの柄を繰り出した。[pcms]
 
 *1849|
 [fc]
-[ns]Wataru[nse]
-"Ei!"[pcms]
+[ns]航[nse]
+「えっい！」[pcms]
 
 *1850|
 [fc]
-The tip of the mop handle struck directly at the throat of[r]
-the infected climbing up to the front.[pcms]
+先端が先頭で上って来た感染者の喉を直撃した。[pcms]
 
 *1851|
 [fc]
-I will never forget the dull sensation of hitting flesh for[r]
-the rest of my life.[pcms]
+肉に当たる鈍い手応えをボクは一生忘れる事が[r]
+できないだろう。[pcms]
 
 *1852|
 [fc]
-Just as Senpai said, no technique was needed at all. The[r]
-infected I poked tumbled down beautifully to the landing[r]
-below.[pcms]
+先輩の言ったとおり、技術は全く必要ない簡単なものだ。[r]
+突かれた感染者は見事に下の踊り場へと[r]
+転げ落ちていった。[pcms]
 
 *1853|
 [fc]
-The infected that tumbled down caused the others to fall[r]
-like an avalanche.[pcms]
+転げ落ちた感染者に巻き込まれて後続も雪崩のように[r]
+落ちていく。[pcms]
 
 *1854|
 [fc]
-The narrowness of the stairs worked to our advantage, making[r]
-the defense surprisingly easy.[pcms]
+階段の狭さが功を奏して、防戦は案外楽なものだった。[pcms]
 
 *1855|
 [fc]
-It was like a gun shooting game; I just had to reflexively[r]
-poke at the ones repeatedly climbing up.[pcms]
+まるでガンシューティングゲームのように、[r]
+ボクは何度となく繰り返し上ってくる連中に、[r]
+反射的に突きを見舞ってやるだけだ。[pcms]
 
 *1856|
 [fc]
-[ns]Wataru[nse]
-"Haa... Haa..."[pcms]
+[ns]航[nse]
+「はぁはぁ……」[pcms]
 
 *1857|
 [fc]
-At first, there was hesitation and a sense of taboo about[r]
-hurting people, but as I fought desperately, the guilt faded[r]
-away.[pcms]
+最初はためらいや人を傷つけることへの禁忌感もあったが、[r]
+夢中になって応戦していると、罪悪感はなくなっていく。[pcms]
 
 *1858|
 [fc]
-When I knocked down an infected with what must have been the[r]
-umpteenth poke, I finally came to my senses and shuddered at[r]
-the sight before me.[pcms]
+もう数えることも放棄した何度目かの突きで感染者を[r]
+落とした時、ボクはようやく我に帰って目の前の光景を[r]
+冷静に見て戦慄を覚えた。[pcms]
 
 *1859|
 [fc]
-Limbs injured from tumbling down the stairs. Some were so[r]
-badly damaged that bones were deformed...[pcms]
+階段を転げ落ちて傷ついた四肢。骨まで損傷して無残に[r]
+変形した個所まであるのに……。[pcms]
 
 *1860|
 [fc]
-Yet they kept coming at us, laughing, like broken dolls that[r]
-never give up.[pcms]
+それでも彼らは大笑いしながら、まるで[r]
+壊れた人形のようにあきらめることなく向かってくる。[pcms]
 
 *1861|
 [fc]
-Their appearance was not something as simple as a beast. Any[r]
-living creature would feel pain and fear when hurt.[pcms]
+その姿は獣なんて生易しいものではない。[r]
+どんな生き物でも傷つけば痛みを感じ恐怖する。[pcms]
 
 *1862|
 [fc]
-However, no matter how injured they were, they never lost[r]
-their smiles. No matter how hurt, they never gave up. They[r]
-approached without regard for their own lives.[pcms]
+しかし、彼らはどれほど傷つこうと、笑みを崩さない。[r]
+どれほど傷つこうとあきらめない。[r]
+生命の危機さえ顧みずに迫ってくる。[pcms]
 
 *1863|
 [fc]
-Their eeriness, horror, and my fatigue had brought me close[r]
-to my physical limits before I knew it.[pcms]
+彼らの不気味さ、恐ろしさと疲労でボクの体力は[r]
+いつの間にか限界に差しかかっていた。[pcms]
 
 *1864|
 [fc]
-[ns]Wataru[nse]
-"What should I do..."[pcms]
+[ns]航[nse]
+「どうしよう……」[pcms]
 
 *1865|
 [fc]
-Once fear set in, it was like sobering up from drunkenness;[r]
-fear slowed my movements, and fatigue sapped my strength. It[r]
-was only a matter of time before we were overwhelmed.[pcms]
+一度怖気づくと、まるで酔いから醒めるように恐怖が[r]
+肉体の動きを鈍らせ、疲労が力を奪っていく。[r]
+このままだと押し切られるのは時間の問題……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1866|
 [fc]
 [vo_mar s="maru0243"]
-[ns]Margarita[nse]
-"Sorry to keep you waiting!!"[pcms]
+[ns]マルガリータ[nse]
+「待たせたな！！」[pcms]
 
 *1867|
 [fc]
-That's when Senpai returned.[pcms]
+その時、先輩が戻ってきた。[pcms]
 
 *1868|
 [fc]
-[ns]Wataru[nse]
-"Se-Senpai..."[pcms]
+[ns]航[nse]
+「せ、先輩……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1869|
 [fc]
 [vo_yuh s="yuho0151"]
-[ns]Yuuho[nse]
-"Wataru!!!"[pcms]
+[ns]悠帆[nse]
+「航！！！」[pcms]
 
 ;//〆EV011
 [evcg storage="EV011g"][trans_c cross time=300]
 
 *1870|
 [fc]
-When I turned around, there was Yuuho, who had been safely[r]
-rescued. Without a word, Yuuho hugged me, and I gently[r]
-stroked her sobbing back.[pcms]
+振り返るとそこには無事に救出された悠帆がいた。[r]
+有無を言わさず悠帆に抱きつかれたボクは、[r]
+泣きじゃくる悠帆の背中を優しく撫でた。[pcms]
 
 *1871|
 [fc]
-The feel of her soft body and Yuuho's gentle scent seemed to[r]
-heal my weary heart.[pcms]
+やわらかな肢体の感触と、悠帆の優しい香りに[r]
+ボクの疲弊した心が癒されていく気がする。[pcms]
 
 *1872|
 [fc]
-It's a shame I wasn't the one who rescued her, but have I[r]
-ever seen Yuuho so docile before?[pcms]
+助け出したのはボクじゃないのが残念だけれど、[r]
+こんなにもしおらしい悠帆をボクは今まで[r]
+見たことがあっただろうか？[pcms]
 
 *1873|
 [fc]
-[ns]Wataru[nse]
-"I'm glad... you're safe..."[pcms]
+[ns]航[nse]
+「無事で……よかった……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_d3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1874|
 [fc]
 [vo_yuh s="yuho0152"]
-[ns]Yuuho[nse]
-"Thank you... I owe my life to you, Wataru."[pcms]
+[ns]悠帆[nse]
+「ありがとう……航のおかけで助かったよ」[pcms]
 
 *1875|
 [fc]
-[ns]Wataru[nse]
-"I didn't really..."[pcms]
+[ns]航[nse]
+「ボクは別に……」[pcms]
 
 [bg storage="bgs008a"][trans_c cross time=500]
 
 *1876|
 [fc]
-It was Senpai who saved her, and all I did was hold the[r]
-stairs here. I wanted to be the hero of the story...[pcms]
+助けたのは先輩で、ボクはここで階段を[r]
+守っていただけにすぎない。[r]
+本当は物語の主人公のように活躍したかったけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1877|
 [fc]
 [vo_mar s="maru0244"]
-[ns]Margarita[nse]
-"Because you held this place, we were able to escape.[r]
-Supporting from the rear is also an important role."[pcms]
+[ns]マルガリータ[nse]
+「お前がここを守っていてくれたから、ワタシたちは[r]
+　逃げれるんだ。後方支援も立派な活躍だぞ」[pcms]
 
 *1878|
 [fc]
-[ns]Wataru[nse]
-"Eh? Is that so... right?"[pcms]
+[ns]航[nse]
+「えっ？　そうですか…ね？」[pcms]
 
 *1879|
 [fc]
-Her tone was blunt, but still, Senpai's words were[r]
-embarrassingly pleasing to hear.[pcms]
+ぶっきらぼうな口調だったけれど、それでも先輩の[r]
+一言がくすぐったいくらいに嬉しい。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1880|
 [fc]
 [vo_mar s="maru0245"]
-[ns]Margarita[nse]
-"However, we can't afford to relax too much."[pcms]
+[ns]マルガリータ[nse]
+「しかし、あまりのんびりはしていられないな」[pcms]
 
 *1881|
 [fc]
-[ns]Wataru[nse]
-"Ah, yes... that's right."[pcms]
+[ns]航[nse]
+「あっ、はい……そうでした」[pcms]
 
 *1882|
 [fc]
-It's too early to rejoice in our reunion. Our predicament[r]
-hasn't changed at all.[pcms]
+再会を喜ぶにはまだ早い。ボクらの窮地は依然として[r]
+変わってはいない。[pcms]
 
 *1883|
 [fc]
-In fact, it might just be a matter of whether I become prey[r]
-alone or we all do together; the crisis is that imminent.[pcms]
+むしろ下手をすれば一人で餌食になるか、三人で餌食に[r]
+なるかの違いしかないのかもしれないほど、[r]
+危機は迫っている。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1884|
 [fc]
 [vo_mar s="maru0246"]
-[ns]Margarita[nse]
-"But it's true that just a mop handle isn't reassuring[r]
-enough. Can you hold out here a little longer?"[pcms]
+[ns]マルガリータ[nse]
+「だが、モップの柄だけでは心もとないのも事実だ。[r]
+　もう少しここを死守できるか？」[pcms]
 
 *1885|
 [fc]
-[ns]Wataru[nse]
-"Eh? Oh, yes."[pcms]
+[ns]航[nse]
+「えっ？　あっ、はい」[pcms]
 
 *1886|
 [fc]
-The moment I answered, Senpai went back to the staff room.[r]
-Probably to get the wooden sword or bamboo sword she found[r]
-earlier.[pcms]
+ボクが答えたその瞬間、先輩は教員室に戻っていく。[r]
+たぶん、さっき見つけた木刀か、[r]
+竹刀でも取りに行くんだろう。[pcms]
 
 *1887|
 [fc]
-Certainly, the mop handle was convenient enough for me to[r]
-handle, but its length was a hindrance for carrying around.[pcms]
+確かにモップの柄はボクが扱えたほど便利だけれど、[r]
+長さが持ち運びのネックだ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1888|
 [fc]
 [vo_yuh s="yuho0153"]
-[ns]Yuuho[nse]
-"Ren-chan was being carried by Kousuke, but are you okay?"[pcms]
+[ns]悠帆[nse]
+「漣ちゃん、コースケに抱っこされてたけど、[r]
+　大丈夫なの？」[pcms]
 
 *1889|
 [fc]
-[ns]Wataru[nse]
-"Yeah. She's safe. She got sick from too much sun exposure[r]
-as usual, so she's waiting with Kousuke at the branch school[r]
-building."[pcms]
+[ns]航[nse]
+「うん。無事だよ。日差しに当たりすぎて、[r]
+　いつものように具合悪くなっちゃったから、[r]
+　分校舎のトコでコースケと待っててもらってる」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1890|
 [fc]
 [vo_yuh s="yuho0154"]
-[ns]Yuuho[nse]
-"I see, thank goodness..."[pcms]
+[ns]悠帆[nse]
+「そう、よかった……」[pcms]
 
 *1891|
 [fc]
-As Yuuho let out a sigh of relief, I could see them coming[r]
-over her shoulder again.[pcms]
+ホッと悠帆が息を吐いたとき、[r]
+その肩越しにまたヤツラがくるのが見えた。[pcms]
 
 *1892|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, get out of the way!"[pcms]
+[ns]航[nse]
+「悠帆、避けてっ！」[pcms]
 
 *1893|
 [fc]
-I issued a short warning and once again reflexively pushed[r]
-away the infected.[pcms]
+短く注意を発すると、ボクは再び反射的に[r]
+感染者を突き飛ばした。[pcms]
 
 *1894|
 [fc]
-Luckily, my hit caused several others to fall with him.[pcms]
+当たり所がよかったのか、何人かを道連れに[r]
+倒れてくれたのがラッキーだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1895|
 [fc]
 [vo_mar s="maru0247"]
-[ns]Margarita[nse]
-"Sorry to keep you waiting"[pcms]
+[ns]マルガリータ[nse]
+「待たせたな」[pcms]
 
 *1896|
 [fc]
-I heard Senpai's voice just as I poked down the second man.[pcms]
+先輩の声がしたのは、ボクがちょうど二人目の男を[r]
+突いたときだった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1897|
 [fc]
 [vo_mar s="maru0248"]
-[ns]Margarita[nse]
-"We're heading to Biotop. Your sisters are waiting there[r]
-too."[pcms]
+[ns]マルガリータ[nse]
+「ビオトープまで行くぞ。お前の妹たちも[r]
+　待っていることだしな」[pcms]
 
 *1898|
 [fc]
-[ns]Wataru[nse]
-"Understood. Let's go, Yuuho."[pcms]
+[ns]航[nse]
+「わかりました。行くよ、悠帆」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1899|
 [fc]
 [vo_yuh s="yuho0155"]
-[ns]Yuuho[nse]
-"Y-Yes..."[pcms]
+[ns]悠帆[nse]
+「う、うん……」[pcms]
 
 *1900|
 [fc]
-Following Senpai, who switched from a mop to a wooden sword[r]
-to mow down the infected, I took Yuuho's hand and climbed up[r]
-to the roof.[pcms]
+モップから木刀に変えて感染者をなぎ倒していく先輩に[r]
+続いて、ボクは悠帆の手を引きながら屋根へと上がった。[pcms]
 
 [eval exp="f.l_kansen_m = 1"]
 

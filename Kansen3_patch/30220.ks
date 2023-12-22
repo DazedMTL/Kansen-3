@@ -20,92 +20,91 @@
 
 *1901|
 [fc]
-[ns]Wataru[nse]
-"I'll go... I'll be the one to go!!"[pcms]
+[ns]航[nse]
+「ボクが……ボクが行きます！！」[pcms]
 
 *1902|
 [fc]
-I was surprised at my own reflexive answer, which was[r]
-uncharacteristic of me.[pcms]
+反射的に答えていた、いつものボクらしくないその答えに、[r]
+自分でも思わず驚いていた。[pcms]
 
 *1903|
 [fc]
-But if I don't go now, I'm surely not a man.[pcms]
+だけどここで行かなきゃきっと、ボクは男じゃない。[pcms]
 
 *1904|
 [fc]
-If survival was the only concern, it would be better to[r]
-leave it to my senior.[pcms]
+生き残る事を考えたら、先輩に任せたほうが[r]
+いいんだろう。[pcms]
 
 *1905|
 [fc]
-The odds are incomparably higher if I leave it to my senior,[r]
-and it's not like Ren's face, waiting with Kousuke, didn't[r]
-flash across my mind.[pcms]
+確率で言えば、先輩に任せたほうが比べようも[r]
+ないくらいに高いし、コースケと一緒に待っている漣の[r]
+顔が頭に横切らなかったかと言えば嘘にもなる。[pcms]
 
 *1906|
 [fc]
-Still, I thought that if I couldn't protect the woman I[r]
-love, I wouldn't be a man.[pcms]
+それでも惚れた女を守れないようでは、[r]
+男じゃないと思った。[pcms]
 
 *1907|
 [fc]
-I don't think I can become a hero like in the movies or[r]
-novels.[pcms]
+映画や小説のヒーローになんてなれるとは思ってない。[pcms]
 
 *1908|
 [fc]
-But still, I have to be the one to go.[pcms]
+でも、それでもボクが行かなきゃいけないんだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1909|
 [fc]
 [vo_mar s="maru0249"]
-[ns]Margarita[nse]
-"Then I shall guard the emergency exit."[pcms]
+[ns]マルガリータ[nse]
+「ならばワタシは非常口を守ろう」[pcms]
 
 *1910|
 [fc]
-[ns]Wataru[nse]
-"Please do."[pcms]
+[ns]航[nse]
+「お願いします」[pcms]
 
 *1911|
 [fc]
-I replied to my senior, desperately suppressing my trembling[r]
-voice.[pcms]
+ボクは震える声を懸命に押し殺しながら、先輩に答えた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1912|
 [fc]
 [vo_mar s="maru0250"]
-[ns]Margarita[nse]
-"There's no need to aim. Just thrust. An amateur like you[r]
-swinging a stick won't be able to deal effective damage."[pcms]
+[ns]マルガリータ[nse]
+「狙いなんかつける必要はない。とにかく突け。素人の[r]
+　キミが棒を振り回しても効果的なダメージなんて[r]
+　与えられないからな」[pcms]
 
 *1913|
 [fc]
-[ns]Wataru[nse]
-"U-understood."[pcms]
+[ns]航[nse]
+「わ、わかりました」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1914|
 [fc]
-With my senior's advice etched in my heart, I opened the[r]
-door to the catwalk.[pcms]
+先輩のアドバイスを胸に刻みながら、ボクは[r]
+キャットウォークへの扉を開いた。[pcms]
 
 *1915|
 [fc]
-The moment I did, I was assaulted by the sensual moans of[r]
-infected people attacking humans and an overpowering sexual[r]
-stench.[pcms]
+途端、あふれかえってくる感染者に襲われた人間の[r]
+官能的な嬌声。[r]
+そしてむせ返るような性臭。[pcms]
 
 *1916|
 [fc]
-Feeling dizzy from the excessively gruesome and surreal[r]
-scene, I still entered the gymnasium.[pcms]
+あまりにも凄惨すぎる、現実離れした異様な光景に[r]
+眩暈を感じながら、ボクはそれでも体育館内に入った。[pcms]
 
 ;//BG：体育館内
 [bg storage="BG014"][trans_c cross time=500]
@@ -113,87 +112,89 @@ scene, I still entered the gymnasium.[pcms]
 
 *1917|
 [fc]
-[ns]Wataru[nse]
-"Thrust... thrust... thrust..."[pcms]
+[ns]航[nse]
+「突く……突く……突く」[pcms]
 
 *1918|
 [fc]
-Muttering my senior's advice like a spell, I ran straight[r]
-towards Yuuho on the catwalk.[pcms]
+先輩のアドバイスを呪文のように呟きながら、ボクは[r]
+まっすぐに悠帆を目指してキャットウォークを走った。[pcms]
 
 *1919|
 [fc]
-Fortunately, no one seemed to be coming up here, engrossed[r]
-in the mad orgy below... there wasn't a single person on the[r]
-catwalk.[pcms]
+幸い下で繰り広げられている狂宴に夢中でここに[r]
+上がってくる奴はいないのか、[r]
+キャットウォークには一人も……。[pcms]
 
 *1920|
 [fc]
-No, there was...![pcms]
+いや、いた……！[pcms]
 
 *1921|
 [fc]
-Somehow sniffing me out, a man had broken through the[r]
-corridor window and was reaching out his hand.[pcms]
+どうやって嗅ぎつけたのか、渡り廊下の窓をぶち破って、[r]
+男が手を差し伸べている。[pcms]
 
 *1922|
 [fc]
-He must have cut himself on the glass; blood was streaming[r]
-down, but he didn't seem to care at all.[pcms]
+ガラスで切ったのだろう、血がダラダラ流れているのに、[r]
+そんなこともおかまいなしだ。[pcms]
 
 *1923|
 [fc]
-[ns]Wataru[nse]
-"Can't you feel pain...!?"[pcms]
+[ns]航[nse]
+「痛みを感じないのか……！？」[pcms]
 
 *1924|
 [fc]
-I thought they just lost their reason, but maybe they're[r]
-already dead physically by the time they show symptoms?[pcms]
+単に理性がなくなるだけだと思っていたけれど、[r]
+もしかしたらもう発症した時点で肉体的には[r]
+死んでいるんだろうか？[pcms]
 
 *1925|
 [fc]
-The thought sent a shiver through my body.[pcms]
+そう思った瞬間、ボクの体をゾクリとしたものが襲う。[pcms]
 
 *1926|
 [fc]
-But there's no time to stop here. Yuuho is right where that[r]
-guy is reaching out.[pcms]
+けれどここで立ち止まっているヒマなんかない。[r]
+アイツが手を伸ばしている先には悠帆がいる。[pcms]
 
 *1927|
 [fc]
-The prey he's targeting must be Yuuho. No doubt about it.[pcms]
+アイツが狙いをつけた獲物は悠帆だろう。[r]
+間違いない。[pcms]
 
 *1928|
 [fc]
-I readied the mop again and quickly ran over. And then--[pcms]
+ボクはモップを構え直し、素早く駆け寄った。[r]
+そして――[pcms]
 
 [eval exp="f.l_h_wat = 1"]
 
 ;//---------------------------------------------------------------
 ;//●時限式選択肢Ｄー１
-;//１１：側頭部に突き込む！;//→
+;//１－１：側頭部に突き込む！;//→
 ;//　　　　狙いが外れてバランス崩す。
 ;//　　　　腕を掴まれ締め上げられ、
 ;//　　　　そのまま首筋に噛みつかれ、死亡。
 ;//　　　　;//ブロックB_B3へ
-;//１２：横っ腹に突き込む！;//→block:30230へ
-;//１３：時間切れ;//→落ち着いて立ち止まり、
+;//１－２：横っ腹に突き込む！;//→block:30230へ
+;//１－３：時間切れ;//→落ち着いて立ち止まり、
 ;//　　　　横っ腹に突き込む;//→block:30230へ
 
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="B_B3.ks" target=*B_B3_TOP]側頭部に突き込む！[endlink]
 ;	[link storage="30230.ks" target=*30230_TOP]横っ腹に突き込む！[endlink]
-; ;(link storage="30230.ks" target=*30230_TOP)Time's[r]
-up(endlink)[pcms]
+;	;[link storage="30230.ks" target=*30230_TOP]時間切れ[endlink][s]
 
 *SEL26|側頭部に突き込む！／横っ腹に突き込む！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Thrust into the temple!'"]
-[eval exp="f.seltext04 = 'Thrust into the side!'"]
+[eval exp="f.seltext02 = '側頭部に突き込む！'"]
+[eval exp="f.seltext04 = '横っ腹に突き込む！'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

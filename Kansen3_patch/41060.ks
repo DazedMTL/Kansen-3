@@ -1,94 +1,97 @@
 ;//block:A007
 ;//ブロック４１０５０から選択肢でjump
-;//ブロック４１０６０『地下道悠帆のみ脱出』pt.7A
+;//ブロック４１０６０『地下道～悠帆のみ脱出～』pt.7A
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41050.txtから
 
 *41060_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・悠帆（制服→制服＋バッグ）・マルガリータ（制服）
 ;//時間帯：昼？
 ;//・テキスト容量：２K前後
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１　１１：左に！川から外へ！
+;//●選択肢Ａ－１　１－１：左に！川から外へ！
 ;//・選択肢１：左に！川から外へ！
 
 [sysbt_meswin]
 
 *2853|
 [fc]
-[ns]Wataru[nse]
-"Let's get out of the river."[pcms]
+[ns]航[nse]
+「川から外に出ましょう」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2854|
 [fc]
 [vo_mar s="maru0381"]
-[ns]Margarita[nse]
-"That's right... It's only a matter of time before that door[r]
-we saw earlier gets broken down. There's nowhere to escape[r]
-underground."[pcms]
+[ns]マルガリータ[nse]
+「そうだな……。[r]
+　さっきの扉がやぶられるのも時間の問題だろう。[r]
+　地下では逃げ場がなさ過ぎる」[pcms]
 
 *2855|
 [fc]
 [vo_mar s="maru0382"]
-[ns]Margarita[nse]
-"Even if we can't make it to the town, if we proceed from[r]
-the open channel, we might be able to reach the sea. We also[r]
-have the option of escaping by sea, and it's possible that[r]
-help is coming from there."[pcms]
+[ns]マルガリータ[nse]
+「もし、街中に出ることが無理でも、開渠に出てから進めば、[r]
+　海に出られるかもしれない。最後は海路という[r]
+　手段もあるし、救援が海から来ていることも考えられる」[pcms]
 
 *2856|
 [fc]
-[ns]Wataru[nse]
-"That's true."[pcms]
+[ns]航[nse]
+「そうですね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2857|
 [fc]
 [vo_yuh s="yuho0232"]
-[ns]Yuuho[nse]
-"...Thank you, Wataru."[pcms]
+[ns]悠帆[nse]
+「……ありがとう。航」[pcms]
 
 *2858|
 [fc]
-As I respond to my senior, Yuuho, with a look of apology,[r]
-places her hand on the bag I carried for her.[pcms]
+先輩に答えてるボクに、悠帆はボクが運んできた[r]
+自分のバックに手をかけながらすまなそうに言う。[pcms]
 
 *2859|
 [fc]
-[ns]Wataru[nse]
-"Yeah. It's okay! Let's go, Yuuho!"[pcms]
+[ns]航[nse]
+「うん。[r]
+　大丈夫だよ！　行こう悠帆！」[pcms]
 
 *2860|
 [fc]
-I said that to cheer Yuuho up.[pcms]
+ボクは悠帆を元気付けるように言った。[pcms]
 
 *2861|
 [fc]
 [vo_yuh s="yuho0233"]
-[ns]Yuuho[nse]
-"Yeah. ...Really, thank you, Wataru."[pcms]
+[ns]悠帆[nse]
+「うん。[r]
+　……本当にありがとう航」[pcms]
 
 *2862|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2863|
 [fc]
-That's right. I still have Yuuho with me.[pcms]
+そうだ。[r]
+ボクにはまだ悠帆がいる。[pcms]
 
 *2864|
 [fc]
-"I will protect Yuuho no matter what," I thought to myself[r]
-as I looked at Yuuho smiling genuinely happily.[pcms]
+『悠帆だけは、どんなことがあっても守る』[r]
+ボクは本当にうれしそうに微笑む悠帆を見ながら、[r]
+そう思った。[pcms]
 
 ;//se108・ハッチをノック
 ;//[se buf=0 storage="se108"]
@@ -98,14 +101,14 @@ as I looked at Yuuho smiling genuinely happily.[pcms]
 *2865|
 [fc]
 [vo_mar s="maru0383"]
-[ns]Margarita[nse]
-"Let's go!"[pcms]
+[ns]マルガリータ[nse]
+「いくぞ！」[pcms]
 
 *2866|
 [fc]
 [vo_yuh s="yuho0234"]
-[ns]Wataru & Yuuho[nse]
-"Yes!"[pcms]
+[ns]航＆悠帆[nse]
+「はいっ！」[pcms]
 
 ;//se051・コンクリートの上の足音（複数）
 [se buf=0 storage="se051"]
@@ -116,9 +119,8 @@ as I looked at Yuuho smiling genuinely happily.[pcms]
 
 *2867|
 [fc]
-We proceeded down the decided path as if shaking off the[r]
-sound of the door being hit that we could still hear behind[r]
-us.[pcms]
+ボクたちは後からまだ聞こえている扉を叩く音を[r]
+振り切るかのように、決めた道へと進んだ。[pcms]
 
 ;//se051・コンクリートの上の足音（複数）
 [se buf=0 storage="se051"]
@@ -128,53 +130,51 @@ us.[pcms]
 
 *2868|
 [fc]
-[ns]Wataru[nse]
-"The path splits again here."[pcms]
+[ns]航[nse]
+「また道が分かれてます」[pcms]
 
 *2869|
 [fc]
-The path split again to the left and right. The left was a[r]
-straight corridor. The right was a gently descending[r]
-staircase.[pcms]
+またしても道が左右に分かれていた。[r]
+左はまっすぐ延びる通路。[r]
+右は下りの緩やかな階段だ。[pcms]
 
 *2870|
 [fc]
-The senior compared it with the map in the book she was[r]
-carrying.[pcms]
+先輩は持ち歩いている本に載っている地図に照らし合わせる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2871|
 [fc]
 [vo_mar s="maru0384"]
-[ns]Margarita[nse]
-"The left probably heads towards Meiji Street. It might be[r]
-connected to the Shibuya River culvert."[pcms]
+[ns]マルガリータ[nse]
+「左はおそらく明治通りの方向にむかっている。[r]
+　渋谷川の暗渠へ繋がってるかもしれないな」[pcms]
 
 *2872|
 [fc]
 [vo_mar s="maru0385"]
-[ns]Margarita[nse]
-"The right is in the direction of Udagawa Street. ...The[r]
-unpleasant smell of sewage is strong. It must be connected[r]
-to the Udagawa culvert."[pcms]
+[ns]マルガリータ[nse]
+「右は宇田川通り方向だな。[r]
+　……下水の嫌な臭いが強いな。[r]
+　宇田川の暗渠に繋がってるに違いないだろう」[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ２
-;//２１：左に！渋谷川へ;//→;//ブロック４１０７０へ
-;//２２：右に！どこかの施設へ！;//→;//ブロック４１０８０へ
+;//●選択肢Ａ－２
+;//２－１：左に！渋谷川へ;//→;//ブロック４１０７０へ
+;//２－２：右に！どこかの施設へ！;//→;//ブロック４１０８０へ
 
 
 ;	[link storage="41070.ks" target=*41070_TOP]左に！　渋谷川へ[endlink]
-;       (link storage="41080.ks" target=*41080_TOP)To the[r]
-right! To some facility!(endlink)[pcms]
+;	[link storage="41080.ks" target=*41080_TOP]右に！　どこかの施設へ！[endlink][s]
 
 *SEL32|左に！　渋谷川へ／右に！　どこかの施設へ！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'To the left! To the Shibuya River!'"]
-[eval exp="f.seltext04 = 'To the right! To some facility!'"]
+[eval exp="f.seltext02 = '左に！　渋谷川へ'"]
+[eval exp="f.seltext04 = '右に！　どこかの施設へ！'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

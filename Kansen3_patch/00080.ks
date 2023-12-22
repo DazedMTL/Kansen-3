@@ -14,8 +14,8 @@
 
 *1389|
 [fc]
-[ns]Wataru[nse]
-"Hmm... it's so bright."[pcms]
+[ns]航[nse]
+「んっ……眩しい」[pcms]
 
 ;//〆：BG：主人公自室
 [bg storage="BG013a"][trans_c cross time=500]
@@ -26,55 +26,55 @@
 
 *1390|
 [fc]
-The light from the window woke me up, and I reached out for[r]
-the alarm clock.[pcms]
+窓から差し込んだ日の光に起こされて、[r]
+ボクは手を伸ばして目覚まし時計を探した。[pcms]
 
 *1391|
 [fc]
-The time was about to hit noon, but instead of getting up, I[r]
-tried to dive back under the towel blanket to block out the[r]
-sunlight.[pcms]
+時間はそろそろ正午になるぞと教えてくれていたが、[r]
+ボクは時計を戻して日差しを遮るために、[r]
+タオルケットの中に潜り込もうとした。[pcms]
 
 *1392|
 [fc]
-It's summer vacation... and today there's no club activities[r]
-or school to attend.[pcms]
+夏休み中……しかも今日は部活もなければ、[r]
+登校日でもない。[pcms]
 
 *1393|
 [fc]
-At times like this, wanting to sleep to your heart's content[r]
-is just human nature.[pcms]
+こんな時くらいゆっくり心ゆくまで寝たいって言うのが[r]
+人情ってもんだろう。[pcms]
 
 *1394|
 [fc]
-Yeah, yeah, nodding to myself, I was about to fall back[r]
-asleep when the word "club" flashed across my mind.[pcms]
+うんうん、と一人うなずいて二度寝に突入しようとした[r]
+その瞬間、ボクの脳裏に部活の２文字が浮かんだ。[pcms]
 
 *1395|
 [fc]
-[ns]Wataru[nse]
-"That's right... I was asked to buy a lantern and an[r]
-electronic insect repellent."[pcms]
+[ns]航[nse]
+「そうだ……ランタンと電子虫除け買ってきてくれって[r]
+　頼まれてたんだっけ」[pcms]
 
 *1396|
 [fc]
-We're leaving for camp tomorrow, so I have to go today or it[r]
-won't be in time.[pcms]
+明日出発予定のキャンプなんだから、今日に行かなきゃ[r]
+間に合わない。[pcms]
 
 *1397|
 [fc]
-Plus, I'm holding onto the club funds for the purchase, so[r]
-"I forgot" won't cut it.[pcms]
+おまけに購入の部費まで預かってるんだから、[r]
+忘れましたじゃ済まされないだろう。[pcms]
 
 *1398|
 [fc]
-[ns]Wataru[nse]
-"Can't be helped, I'll get up."[pcms]
+[ns]航[nse]
+「しょうがない、起きるか」[pcms]
 
 *1399|
 [fc]
-I told myself and got out of bed to start preparing to go[r]
-out.[pcms]
+ボクは自分自身に声をかけて、ベッドから身を起こすと、[r]
+外へ出かける準備をし始めた。[pcms]
 
 ;//〆：BG：主人公自宅
 [bg storage="BG012a"][trans_c cross time=500]
@@ -82,72 +82,75 @@ out.[pcms]
 
 *1400|
 [fc]
-[ns]Wataru[nse]
-"Lanterns at Toyo Hand, insect repellent at Giga Camera...[r]
-Which route is more efficient?"[pcms]
+[ns]航[nse]
+「ランタンは東洋ハンド、虫除けはギガカメラか……。[r]
+　どう回ったほうが効率いいかな」[pcms]
 
 *1401|
 [fc]
-Muttering to myself, I headed to the living room, and[r]
-despite the time, nobody was there.[pcms]
+ぶつぶつとつぶやきながらリビングへ行くと、[r]
+こんな時間だって言うのに、[r]
+リビングには誰もいなかった。[pcms]
 
 *1402|
 [fc]
-The bag that dad always takes with him when he says he's[r]
-going on an interview was thrown on the sofa.[pcms]
+取材バッグと言いながら、仕事のときに必ず持っていく[r]
+バッグがソファーに投げ出してある。[pcms]
 
 *1403|
 [fc]
-It seems dad hasn't left yet...[pcms]
+父さんはまだ出かけてないみたいだけど……。[pcms]
 
 *1404|
 [fc]
-Last night, he said he wouldn't be late, but as expected, he[r]
-was, so maybe he's still sleeping.[pcms]
+昨夜、遅くならないと思うって言いながら、[r]
+案の定と言うか遅くなったから、[r]
+まだ寝てるのかもしれない。[pcms]
 
 *1405|
 [fc]
-The real work starts in the evening anyway.[pcms]
+どうせ仕事の本番は夕方からだ。[pcms]
 
 *1406|
 [fc]
-[ns]Wataru[nse]
-"Is Ren at her club activities?"[pcms]
+[ns]航[nse]
+「漣は部活かな？」[pcms]
 
 *1407|
 [fc]
-As I peeked into the kitchen and approached the dining[r]
-table, for some reason, there were two packs of instant[r]
-curry and a note left by Ren.[pcms]
+キッチンのほうを覗き込みながらダイニングテーブルに[r]
+近づくと、なぜかレトルトのカレーが二つと漣の置手紙が[r]
+残っている。[pcms]
 
 *1408|
 [fc]
-[ns]Wataru[nse]
-"Let's see... 'Warm up the curry for lunch! I'll be back[r]
-around 2 or 3 PM.' So, this is the lunch curry!"[pcms]
+[ns]航[nse]
+「えっと……『お昼はカレーを温めてね！[r]
+　２時か３時には帰ってきます』か。[r]
+　って、昼のカレーってこれかっ！」[pcms]
 
 *1409|
 [fc]
-Is this an act of love for dad who wanted curry, or is it[r]
-spite because I said we should have somen noodles instead[r]
-since we're having curry at camp?[pcms]
+これは、カレーを食べたいって言っていた父さんへの[r]
+愛なのか、それともキャンプでカレーになるから、[r]
+素麺にしたと言ったボクへの嫌がらせなんだろうか？[pcms]
 
 *1410|
 [fc]
-Either way, it's true that curry is likely to be on[r]
-tomorrow's camp menu.[pcms]
+どちらにしても明日のキャンプでのメニューが[r]
+カレーになる確率が高いのも事実だ。[pcms]
 
 *1411|
 [fc]
-I silently took out an egg from the fridge and made myself[r]
-tamago kake gohan with the rice Ren had cooked for[r]
-breakfast-cum-lunch.[pcms]
+ボクは黙って冷蔵庫から玉子を取り出すと、漣が[r]
+炊いておいてくれたご飯で、玉子がけご飯にして[r]
+朝食兼昼食を済ませた。[pcms]
 
 *1412|
 [fc]
-Using the space on Ren's note, I wrote that I was going[r]
-shopping and then burst out of the house into the hot[r]
-sunlight.[pcms]
+漣が書いた置手紙のスペースを利用して、買い物に[r]
+行ってくると書き添えると、ボクは暑い日差しの中、[r]
+勢いつけて家から飛び出した。[pcms]
 
 ;//〆：BG：四つ葉町住宅街
 [bg storage="BG02a"][trans_c cross time=500]
@@ -155,142 +158,145 @@ sunlight.[pcms]
 
 *1413|
 [fc]
-But... inside the cool house and outside feel like there's[r]
-an invisible barrier between them.[pcms]
+でも……やっぱりクーラーが効いた家の中と、外とでは[r]
+何か見えないバリアでも張ってあるような気がする。[pcms]
 
 *1414|
 [fc]
-If I don't buy what I was asked for, I'll definitely get[r]
-strangled by the club president and tomorrow will be my[r]
-death anniversary.[pcms]
+再びふらふらと家の中に戻りたい気分に襲われたけれど、[r]
+頼まれたモノを買っていかなきゃ、絶対部長に首を[r]
+絞められて、明日がボクの命日になる。[pcms]
 
 *1415|
 [fc]
-[ns]Wataru[nse]
-"Sigh..."[pcms]
+[ns]航[nse]
+「はぁ……」[pcms]
 
 *1416|
 [fc]
-Stepping onto the scorching asphalt, I decided to head to[r]
-Giga Camera near the station first and started walking.[pcms]
+ジリジリと焼け付くアスファルトを踏みしめて、[r]
+とりあえず駅前のギガカメラから行くことにして、[r]
+ボクは歩き始めた。[pcms]
 
 *1417|
 [fc]
-[ns]Neighborhood Auntie[nse]
-"Oh my, isn't that Wataru? Good morning!"[pcms]
+[ns]近所のおばちゃん[nse]
+「あら、航くんじゃないの。おはよう」[pcms]
 
 *1418|
 [fc]
-[ns]Wataru[nse]
-"Eh? Oh, good morning."[pcms]
+[ns]航[nse]
+「えっ？　あっ、おはようございます」[pcms]
 
 *1419|
 [fc]
-[ns]Neighborhood Auntie[nse]
-"It's so hot out, where are you off to?"[pcms]
+[ns]近所のおばちゃん[nse]
+「こんなに暑いのに、どこに行くの？」[pcms]
 
 *1420|
 [fc]
-[ns]Wataru[nse]
-"Well, just to the station area to buy some supplies for[r]
-club activities."[pcms]
+[ns]航[nse]
+「えっと、ちょっと駅のほうまで、[r]
+　部活の備品を買いに行こうかと」[pcms]
 
 *1421|
 [fc]
-[ns]Neighborhood Auntie[nse]
-"Well, good luck with that."[pcms]
+[ns]近所のおばちゃん[nse]
+「まぁ、ご苦労様」[pcms]
 
 *1422|
 [fc]
-[ns]Wataru[nse]
-"No problem. Excuse me then."[pcms]
+[ns]航[nse]
+「いえ。それじゃあ、失礼します」[pcms]
 
 *1423|
 [fc]
-I quickly escaped from the auntie with a polite smile[r]
-plastered on my face.[pcms]
+にっこり社交辞令の笑みを浮かべて、ボクはそそくさと[r]
+逃げるようにおばちゃんから離れた。[pcms]
 
 *1424|
 [fc]
-If you get caught by her, she can easily hold you up for an[r]
-hour or two with neighborhood gossip.[pcms]
+あの人はヘタに捕まると、平気で１時間や２時間、[r]
+近所の噂話で放してくれない悪いクセがある。[pcms]
 
 *1425|
 [fc]
-And if you brush her off rudely, next thing you know your[r]
-family becomes the talk of the town...[pcms]
+かと言って邪険にすると今度はボクの家が[r]
+噂のタネになるわけで……。[pcms]
 
 *1426|
 [fc]
-[ns]Wataru[nse]
-"Sigh..."[pcms]
+[ns]航[nse]
+「はぁ……」[pcms]
 
 *1427|
 [fc]
-A different kind of sigh spilled from my lips this time.[pcms]
+ボクの口からは、さっきとは別の意味でのため息が[r]
+こぼれ落ちた。[pcms]
 
 *1428|
 [fc]
-The heat from the blazing sun seemed to double in intensity.[pcms]
+照りつける太陽の暑さも、なんだか倍増したような[r]
+気さえする。[pcms]
 
 *1429|
 [fc]
-Still, I pushed through my lethargy and headed towards the[r]
-center of Shibuya.[pcms]
+それでもボクは、ダルい気持ちを抑えながら、[r]
+渋谷の中心部方向へと向かった。[pcms]
 
 *1430|
 [fc]
-The asphalt seemed to waver in a haze from the heat, and[r]
-everyone walking by looked hot... wait, what?[pcms]
+アスファルトも、照り付けられた暑さからか、なんだか[r]
+もやがかかったようにゆらゆらと揺らめいて見えて、[r]
+街行く人も暑そうで……って、あれ？[pcms]
 
 *1431|
 [fc]
-I could see someone walking along who seemed cut off from[r]
-the season of summer, looking cool and composed.[pcms]
+なんだか一人、そこだけ夏と言う季節から切り離されたような、[r]
+涼しげな人が歩いてくるのが見えた。[pcms]
 
 *1432|
 [fc]
-Is that Inori-san?[pcms]
+って言うか、あれって緒織さん？[pcms]
 
 *1433|
 [fc]
-Yeah. It definitely is.[pcms]
+うん。やっぱりそうだ。[pcms]
 
 *1434|
 [fc]
-She's Tadahiko's girlfriend Inori-san.[pcms]
+彦ちんの彼女の[ruby text="おとわ"][ch text="乙羽"] [ruby text="いおり"][ch text="緒織"]さんだ。[pcms]
 
 *1435|
 [fc]
-Tadahiko may be involved in that certain "profession," but[r]
-to us he's a reliable older brother figure we've known since[r]
-childhood.[pcms]
+彦ちんなんて言っても、いわゆるその『スジ』って[r]
+言われる系の職業についてる年上なんだけれども、[r]
+ボクらにとっては幼馴染の頼れるお兄さんって感じだ。[pcms]
 
 *1436|
 [fc]
-Inori-san met him when he went on a job to Kansai and came[r]
-back with him.[pcms]
+その彦ちんが以前仕事で関西に行ったときに知り合ったらしく、[r]
+一緒に帰ってきたのが緒織さんだ。[pcms]
 
 *1437|
 [fc]
-I don't know if they'll end up getting married or not.[pcms]
+彦ちんとこのまま結婚するのかどうかは、わからないけれど。[pcms]
 
 *1438|
 [fc]
-Even from a distance, she looks cool and dignified yet[r]
-naturally exudes a bewitching aura...[pcms]
+遠くから見ても涼しげに見えるほど凛としながらも、[r]
+自然に漂う妖艶な雰囲気……。[pcms]
 
 *1439|
 [fc]
-The allure of her charm has drawn in customers who[r]
-frequently visit, and thanks to that, the popular eatery[r]
-"Otowa" that Inori-san runs is thriving.[pcms]
+その色香に魅了されたお客が足しげく通うおかげで、[r]
+緒織さんの経営する大衆割烹『[ruby text="おとわ"][ch text="音羽"]』は大盛況だ。[pcms]
 
 *1440|
 [fc]
-Rumor has it that not only locals but also customers from[r]
-other prefectures come to visit, and seeing Inori-san, I[r]
-can't help but believe those rumors might all be true.[pcms]
+噂ではこの界隈だけじゃなく、他県から来る[r]
+お客さんもいるって言うけど、緒織さんを見てると[r]
+その噂も全部真実じゃないかと思ってしまう。[pcms]
 
 ;//〆：京都弁チェック
 
@@ -299,919 +305,916 @@ can't help but believe those rumors might all be true.[pcms]
 *1441|
 [fc]
 [vo_ior s="iori0001"]
-[ns]Inori[nse]
-"Oh, Wataru. What's wrong? If you stand around in such a[r]
-place, you'll get heatstroke."[pcms]
+[ns]緒織[nse]
+「あら、航。どへんしたの？[r]
+　こへんな場所でボーっとしとったら、熱射病にならはるわよ」[pcms]
 
 *1442|
 [fc]
-Being addressed in her gentle Kyoto dialect, I almost melted[r]
-away, but I looked at Inori-san with renewed respect.[pcms]
+はんなりとした京言葉で話しかけられ、[r]
+思わずとろけてしまいそうになりながらも、[r]
+ボクは緒織さんを見直した。[pcms]
 
 *1443|
 [fc]
-Of course, the only one I love is Yuuho, but in front of[r]
-this melting bewitchment, even I would probably visit Inori-[r]
-san's shop every night if I had the money.[pcms]
+もちろんボクが好きなのは悠帆だけれども、[r]
+このとろけるような妖艶さの前では、ボクだってお金さえあれば、[r]
+毎晩だって緒織さんのお店に通ってしまうだろう。[pcms]
 
 *1444|
 [fc]
-Of course, I know it's presumptuous of me to even think of[r]
-standing beside her, but still, there's something about the[r]
-charm of an older woman...[pcms]
+もちろん、ボクが並び立とうだなんて、[r]
+おこがましいのにもほどがあることは、身の程をよく[r]
+知ってはいるけれど、やっぱり年上の魅力と言うか……。[pcms]
 
 *1445|
 [fc]
-The bewitching scent of a woman that healthy Yuuho doesn't[r]
-have honestly makes a man like me react.[pcms]
+健康的な悠帆にはない妖艶な女性の色香には、[r]
+男として素直に反応してしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1446|
 [fc]
 [vo_ior s="iori0002"]
-[ns]Inori[nse]
-"My goodness, Wataru. Are you really suffering from[r]
-heatstroke?"[pcms]
+[ns]緒織[nse]
+「イヤやわ、航。ほんまに熱射病にならはったの？」[pcms]
 
 *1447|
 [fc]
-[ns]Wataru[nse]
-"Eh? No... I was just admiring how you manage to look so[r]
-cool and composed despite the heat."[pcms]
+[ns]航[nse]
+「えっ？　い、イヤ……こう暑いのに、よく緒織さんは[r]
+　涼しげでいられるなぁって、ちょっと感心してしまって」[pcms]
 
 *1448|
 [fc]
 [vo_ior s="iori0003"]
-[ns]Inori[nse]
-"What are you talking about? Of course, I'm hot too. But not[r]
-showing it is what you call pride."[pcms]
+[ns]緒織[nse]
+「何言うてるの。私かて暑いいに決まってるやないの。[r]
+　かて、それを出さへんのが、[r]
+　見栄ゆうものどすえ」[pcms]
 
 *1449|
 [fc]
-[ns]Wataru[nse]
-"Pride...you say?"[pcms]
+[ns]航[nse]
+「見栄……ですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1450|
 [fc]
 [vo_ior s="iori0004"]
-[ns]Inori[nse]
-"Pride or maybe stubbornness. It would look bad to be all[r]
-sluggish just because it's hot, right?"[pcms]
+[ns]緒織[nse]
+「見栄言うか、意地かもしれへんわね。[r]
+　暑いい時に暑いいってだらけてたら、格好悪いやろ？」[pcms]
 
 *1451|
 [fc]
 [vo_ior s="iori0005"]
-[ns]Inori[nse]
-"Especially when it's hot, isn't it better to appear cool[r]
-and composed?"[pcms]
+[ns]緒織[nse]
+「暑いい時にこそ、涼しげでおんのがええんやないの」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1452|
 [fc]
-[ns]Wataru[nse]
-"I see."[pcms]
+[ns]航[nse]
+「なるほど」[pcms]
 
 *1453|
 [fc]
-While nodding at Inori-san's words, I might not have[r]
-understood even half of what she meant.[pcms]
+緒織さんの言葉にうなずきながらも、ボクはその意味の[r]
+半分もわかってなかったかもしれない。[pcms]
 
 *1454|
 [fc]
-Sure, it might look bad to be sluggish just because it's[r]
-hot, but when it's hot, it's hotthere's no helping it.[pcms]
+確かにいくら暑いからって言って、だらけてたら[r]
+格好悪いかもしれないけど、暑いもんは暑いんだから[r]
+しょうがないというか。[pcms]
 
 *1455|
 [fc]
 [vo_ior s="iori0006"]
-[ns]Inori[nse]
-"But really, Wataru, what were you actually doing in such a[r]
-place?"[pcms]
+[ns]緒織[nse]
+「せやけど、航はこへんな所でほんまに[r]
+　何してはったの？」[pcms]
 
 *1456|
 [fc]
-[ns]Wataru[nse]
-"I was on my way to the station to do some shopping... and[r]
-when I saw Inori-san, I waited for you. Where are you[r]
-headed?"[pcms]
+[ns]航[nse]
+「これから駅のほうに買い物に行く途中で……緒織さんの[r]
+　姿が見えたんで、待ってたんですよ。[r]
+　緒織さんこそどこに？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1457|
 [fc]
 [vo_ior s="iori0007"]
-[ns]Inori[nse]
-"Oh, how sweet of you to say. I'm actually heading to the[r]
-station too. Tadahiko is coming back home, so I'm going to[r]
-meet him."[pcms]
+[ns]緒織[nse]
+「あら、嬉しいこと言うてくれはるやないの。[r]
+　私もちょうど駅まで行くんよ。[r]
+　忠彦はんが帰ってきはるから、迎えにね」[pcms]
 
 *1458|
 [fc]
-[ns]Wataru[nse]
-"Ah, Hiko-chin was away for work in Kansai, wasn't he?"[pcms]
+[ns]航[nse]
+「あぁ、彦ちん、仕事で関西のほうに[r]
+　行ってたんでしたっけ」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1459|
 [fc]
 [vo_ior s="iori0008"]
-[ns]Inori[nse]
-"That's right. He said on the phone that he bought lots of[r]
-souvenirs, so we should all get together when we have time."[pcms]
+[ns]緒織[nse]
+「そうなんよ。[r]
+　電話でお土産沢山買うたって言うてたさかい、[r]
+　暇なときにでもみんなで一緒に来たってなぁ」[pcms]
 
 *1460|
 [fc]
-[ns]Wataru[nse]
-"Yes, I'll visit with everyone when we find a convenient[r]
-time soon."[pcms]
+[ns]航[nse]
+「えぇ、近いうちにみんなと都合のいい時間にお邪魔します」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1461|
 [fc]
 [vo_ior s="iori0009"]
-[ns]Inori[nse]
-"Really now. Oh no, I left early to make it on time for his[r]
-arrival, but Tadahiko might get there before me."[pcms]
+[ns]緒織[nse]
+「ほんまやで。って、あかん。到着に間に合うよう[r]
+　出てきたのに、忠彦はんが先に着いてまうわ」[pcms]
 
 *1462|
 [fc]
-[ns]Wataru[nse]
-"Then shall we go to the station together?"[pcms]
+[ns]航[nse]
+「じゃあ一緒に駅まで行きましょうか？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1463|
 [fc]
 [vo_ior s="iori0010"]
-[ns]Inori[nse]
-"That would be nice."[pcms]
+[ns]緒織[nse]
+「せやね」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1464|
 [fc]
-Smiling sweetly as she started walking, I followed behind[r]
-Inori-san as if accompanying her.[pcms]
+にっこりと微笑んで歩き出す緒織さんの後ろから[r]
+お供をするように、ボクは並んで歩き出した。[pcms]
 
 *1465|
 [fc]
-Inori-san seemed happy that Hiko-chin was coming back; she[r]
-talked about him the whole time.[pcms]
+緒織さんは彦ちんが帰ってくるのが嬉しいらしく、[r]
+話は終始、彦ちんの話ばかりだ。[pcms]
 
 *1466|
 [fc]
-Hiko-chin is really lucky to have such a girlfriend.[pcms]
+本当にこんな彼女がいる彦ちんは幸せ者だよなぁ。[pcms]
 
 *1467|
 [fc]
-I wonder if someday I'll date such a wonderful woman or even[r]
-marry one?[pcms]
+ボクもいつか、こんな素敵な女性と付き合ったり、[r]
+将来的には結婚したりするんだろうか？[pcms]
 
 *1468|
 [fc]
-"If only that person could be Yuuho," I thought to myself.[pcms]
+『その相手が悠帆だったらどんなにいいだろう』[pcms]
 
 *1469|
 [fc]
-The moment I thought that, my face must have turned bright[r]
-red because Inori- san's face clouded over with suspicion as[r]
-she was happily talking about Hiko- chin.[pcms]
+そう思った瞬間、ボクの顔は真っ赤に染まったらしく、[r]
+嬉しそうに彦ちんの話をしていた緒織さんの顔が[r]
+訝しく曇った。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1470|
 [fc]
 [vo_ior s="iori0011"]
-[ns]Inori[nse]
-"Oh dear. Your face is all red, Wataru. You're not really[r]
-getting heatstroke, are you?"[pcms]
+[ns]緒織[nse]
+「イヤやわ。航の顔、真っ赤になってはる。[r]
+　ほんまに熱射病にならはったんやないやろね？」[pcms]
 
 *1471|
 [fc]
-[ns]Wataru[nse]
-"Eh? No...it's just that..."[pcms]
+[ns]航[nse]
+「えっ？　いや……その」[pcms]
 
 *1472|
 [fc]
-I couldn't very well say that fantasizing about marrying[r]
-Yuuho made me blush, so I looked around frantically for[r]
-something to say to cover up.[pcms]
+まさか悠帆と結婚する事を妄想して赤くなりましたなんて[r]
+言うわけにもいかず、ボクはなんて言って[r]
+誤魔化そうかと、キョロキョロと視線を泳がせた。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1473|
 [fc]
 [vo_ior s="iori0012"]
-[ns]Inori[nse]
-"Really, if you're feeling unwell just say so. If something[r]
-happens to you while I'm with you, Tadahiko will scold me."[pcms]
+[ns]緒織[nse]
+「ほんま、あかんようなら言うてな。私が一緒にいて、[r]
+　航の具合を悪うしたら、私が忠彦はんに[r]
+　怒られてまうわ」[pcms]
 
 *1474|
 [fc]
-[ns]Wataru[nse]
-"I'm fine..."[pcms]
+[ns]航[nse]
+「平気ですから……」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1475|
 [fc]
-Just as I was about to say that, I caught sight of Yuuho out[r]
-of the corner of my eye.[pcms]
+そう言いかけたとき、ボクの目の端に悠帆の姿が見えた。[pcms]
 
 *1476|
 [fc]
-It seems we had inadvertently come close to the public diner[r]
-"Kannagi" run by Yuuho's family.[pcms]
+いつの間にか悠帆の家で経営してる[r]
+大衆食堂『かんなぎ』の傍まで来ていたらしい。[pcms]
 
 *1477|
 [fc]
-Seeing her in her uniform, she seems to be on her way to her[r]
-club activities in the afternoon.[pcms]
+制服姿のところを見ると、[r]
+午後からの部活に出るところらしい。[pcms]
 
 *1478|
 [fc]
-But still...[pcms]
+けど、でも……。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a3"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1479|
 [fc]
 [vo_ior s="iori0013"]
-[ns]Inori[nse]
-"Oh, isn't that Yuuho? ...And who's that handsome guy next[r]
-to her? He looks quite dashing."[pcms]
+[ns]緒織[nse]
+「あら、悠帆やないの。[r]
+　……って、隣におるのはどなたはんかしら？[r]
+　なんやえらい男前やけど」[pcms]
 
 *1480|
 [fc]
-[ns]Wataru[nse]
-"That's Oshima-senpai. He's the ace of our school's tennis[r]
-club..."[pcms]
+[ns]航[nse]
+「[ruby text="おおしま"][ch text="大嶋"]先輩ですよ。うちの学園の[r]
+　テニス部のエースで……」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1481|
 [fc]
 [vo_ior s="iori0014"]
-[ns]Inori[nse]
-"With that face and being the tennis club ace, he must be[r]
-quite popular with the girls."[pcms]
+[ns]緒織[nse]
+「あの顔でテニス部のエースなんて言うたら、[r]
+　なんや女の子にキャーキャー[r]
+　言われそうな感じやね」[pcms]
 
 *1482|
 [fc]
-As Inori-san said, Oshima-senpai is known as the most[r]
-handsome guy in school and is very popular among the girls.[pcms]
+緒織さんが言うとおり、大嶋先輩は[r]
+学園ＮＯ．１と言われるイケメンで、[r]
+最も女子に人気のある男子だ。[pcms]
 
 *1483|
 [fc]
-The area around the tennis court is always crowded with[r]
-girls there just for Oshima-senpai; he's that well-known[r]
-throughout the school.[pcms]
+いつもテニスコートの周りには、大嶋先輩目当ての女子が[r]
+鈴なりになってることで学園中に知られてるくらいだ。[pcms]
 
 *1484|
 [fc]
-But why is Oshima-senpai with Yuuho?[pcms]
+でもその大嶋先輩が、なんで悠帆のところに？[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1485|
 [fc]
 [vo_yuh s="yuho0050"]
-[ns]Yuuho[nse]
-"Huh? Wataru and Inori-san?"[pcms]
+[ns]悠帆[nse]
+「あれ？　航に緒織さん？」[pcms]
 
 *1486|
 [fc]
-Even though Yuuho was the same as always, just seeing her[r]
-talking happily with Oshima-senpai made me unsure how to[r]
-approach them.[pcms]
+いつもと変わらない悠帆なのに、ただ大嶋先輩と楽しげに[r]
+話してるってだけで、なんて話しかけていいのかわからない。[pcms]
 
 *1487|
 [fc]
-Despite my hesitation, Yuuho casually called out to me.[pcms]
+そんなボクに、悠帆のほうから気軽に声をかけてきた。[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_a2"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1488|
 [fc]
-[ns]Oshimi[nse]
-"Hm? Wataru... could it be Ayase Wataru-kun from the[r]
-Astronomy Club?"[pcms]
+[ns]大嶋[nse]
+「ん？　航って……もしかして、[r]
+　天文学部の綾瀬　航君？」[pcms]
 
 *1489|
 [fc]
-[ns]Wataru[nse]
-"Yes, that's right... But why does senpai know my name?"[pcms]
+[ns]航[nse]
+「エェ、ソウデスケド……何故先輩ガボクノ名前ヲ？」[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_a3"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1490|
 [fc]
-[ns]Oshimi[nse]
-"I'm a bit interested in space myself, so I've been checking[r]
-out the Astronomy Club's website. I'm especially a fan of[r]
-the columns about exoplanets that Ayase- kun writes."[pcms]
+[ns]大嶋[nse]
+「僕もちょっと宇宙とか興味があるんで、[r]
+　天文学同好会のＨＰを覗かせて貰ってるからね。[r]
+　特に綾瀬君が書いてる太陽系外の星のコラムのファンなんだ」[pcms]
 
 *1491|
 [fc]
-[ns]Wataru[nse]
-"Is that so? Thank you very much."[pcms]
+[ns]航[nse]
+「ソウデスカ。アリガトウゴザイマス」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a2"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1492|
 [fc]
-[ns]Oshimi[nse]
-"Your unique perspective, while still considering previous[r]
-theories, makes it more interesting than some magazine[r]
-columns. The next one is about Aldebaran, right? I'm looking[r]
-forward to it."[pcms]
+[ns]大嶋[nse]
+「今までの説を踏まえながら、君独自の見解も入っていて、[r]
+　ヘタな雑誌のコラムよりも面白いよ。[r]
+　次は確かアルデバランについてだったよね。楽しみにしてるよ」[pcms]
 
 *1493|
 [fc]
-[ns]Wataru[nse]
-"Haa..."[pcms]
+[ns]航[nse]
+「ハァ……」[pcms]
 
 *1494|
 [fc]
-The refreshing smile befitting the school's most handsome[r]
-guy was so dazzling that I ended up giving a somewhat silly[r]
-response.[pcms]
+学園一のイケメンの名に恥じないさわやかな笑顔が[r]
+なんだか眩しすぎて、なんだか間の抜けた返事を[r]
+返してしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_a2"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1495|
 [fc]
-[ns]Oshimi[nse]
-"Oops, I better get going or I won't have time to grab lunch[r]
-before club activities... Well then, I'll be taking my[r]
-leave."[pcms]
+[ns]大嶋[nse]
+「おっと、そろそろ行かないと、昼飯食ってから部活に[r]
+　行く時間がなくなっちゃうな。[r]
+　……それじゃあ僕はこれで失礼するよ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1496|
 [fc]
 [vo_yuh s="yuho0051"]
-[ns]Yuuho[nse]
-"Yes, senpai."[pcms]
+[ns]悠帆[nse]
+「はい、先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="oshima_a3"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1497|
 [fc]
-[ns]Oshimi[nse]
-"Kaminagi-san, Ayase-kun. See you around at school."[pcms]
+[ns]大嶋[nse]
+「神凪さん、綾瀬君。また学園で」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1498|
 [fc]
-Even from a guy's perspective, the way he turned on his heel[r]
-to leave was cool...[pcms]
+スッと踵を返す姿も男のボクの目から見ても格好がよくて……。[pcms]
 
 *1499|
 [fc]
-And with Yuuho sending him off with a bright smile, my heart[r]
-sank to rock bottom.[pcms]
+おまけに悠帆もにっこりと笑顔で見送ってるとなれば、[r]
+ボクの心はどん底に落ち込んだ。[pcms]
 
 *1500|
 [fc]
-Comparing myself to Oshima-senpai is presumptuous, I know,[r]
-but when it involves a girl I like, it's a different story.[pcms]
+大嶋先輩と自分を見比べるなんてこと自体、おこがましいのは[r]
+わかっているけれど、自分が好きな女の子が関係してくるとなると[r]
+話は違ってくる。[pcms]
 
 *1501|
 [fc]
-I couldn't help but stare intently, wondering if Yuuho[r]
-prefers someone like Oshima-senpai... Did she notice my[r]
-gaze, looking at me with a puzzled expression?[pcms]
+やっぱり悠帆も大嶋先輩みたいな人がいいのかな……なんて[r]
+思わずじっと見つめてしまった視線に気がついたのか、[r]
+悠帆はボクを訝しげな目で見てきた。[pcms]
 
 *1502|
 [fc]
-[ns]Wataru[nse]
-"Is something wrong?"[pcms]
+[ns]航[nse]
+「イカガシマシタカ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1503|
 [fc]
 [vo_yuh s="yuho0052"]
-[ns]Yuuho[nse]
-"What's wrong... is my line. Why are you talking like a[r]
-robot?"[pcms]
+[ns]悠帆[nse]
+「いかがした……は、こっちのセリフよ。なんでそんな、[r]
+　ロボットみたいな喋り方してるのよ」[pcms]
 
 *1504|
 [fc]
-[ns]Wataru[nse]
-"As usual."[pcms]
+[ns]航[nse]
+「オキニナサラズニ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1505|
 [fc]
 [vo_yuh s="yuho0053"]
-[ns]Yuuho[nse]
-"You say 'as usual,' but it's rare to see you in a two-shot[r]
-with Inori-san. A date?"[pcms]
+[ns]悠帆[nse]
+「お気になさるから、言ってるんでしょ？[r]
+　でも緒織さんとツーショットなんて珍しいね。デート？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1506|
 [fc]
 [vo_ior s="iori0015"]
-[ns]Inori[nse]
-"That might be nice. Maybe it's good to go on a date with[r]
-younger folks once in a while. Yuuho was in a good mood with[r]
-that boy just now too, so how about a double date?"[pcms]
+[ns]緒織[nse]
+「せやね。たまには若い子とデートもええかもしれへんなぁ。[r]
+　悠帆も今の子とええムードやったことやし、[r]
+　ダブルデートでもしましょか？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1507|
 [fc]
 [vo_yuh s="yuho0054"]
-[ns]Yuuho[nse]
-"A good mood? I just got asked for my email by Oshima-[r]
-senpai, that's all."[pcms]
+[ns]悠帆[nse]
+「いいムードだったって、大嶋先輩には単に[r]
+　メアド聞かれただけですよ」[pcms]
 
 *1508|
 [fc]
-Though she said it jokingly, Inori-san's answer included a[r]
-question I could never dare to ask myself, and my heart[r]
-skipped a beat for a moment.[pcms]
+冗談めかしてはいるけれど、聞きたくてもボクでは[r]
+到底聞けない問いを交えた緒織さんの答えに、ボクの[r]
+心臓は一瞬、ドキンッと高鳴った。[pcms]
 
 *1509|
 [fc]
-But Yuuho's answer was clear and decisive, and I let out a[r]
-sigh of relief.[pcms]
+けれど悠帆の答えは、はっきりキッパリしたもので、[r]
+ボクはホッと胸をなでおろす。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1510|
 [fc]
 [vo_ior s="iori0016"]
-[ns]Inori[nse]
-"Really now? If you lie, Enma-sama will pull out your[r]
-tongue."[pcms]
+[ns]緒織[nse]
+「ほんまどすか？[r]
+　嘘つかはると、閻魔はんにべろ抜かれますえ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1511|
 [fc]
 [vo_yuh s="yuho0055"]
-[ns]Yuuho[nse]
-"It's true. But even if the date part was a joke, it's rare[r]
-to see Inori-san with Wataru at this time of day."[pcms]
+[ns]悠帆[nse]
+「本当です。でも航とデートは冗談だとしても、[r]
+　こんな時間に緒織さんが航と一緒なんて、珍しいですね」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1512|
 [fc]
 [vo_ior s="iori0017"]
-[ns]Inori[nse]
-"Tadahiko-san is coming home, so I'm going to pick him up at[r]
-the station. I just happened to meet Wataru on the way."[pcms]
+[ns]緒織[nse]
+「忠彦はんが帰って来はるさかい、駅まで迎えになぁ。[r]
+　航とは途中で一緒になっただけや」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1513|
 [fc]
 [vo_yuh s="yuho0056"]
-[ns]Yuuho[nse]
-"What about Wataru?"[pcms]
+[ns]悠帆[nse]
+「航は？」[pcms]
 
 *1514|
 [fc]
-[ns]Wataru[nse]
-"Eh? Oh, I-I'm just going shopping near the station. For[r]
-tomorrow's camp..."[pcms]
+[ns]航[nse]
+「えっ？　ボ、ボクも駅前に買い物だよ。[r]
+　明日のキャンプ用の」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1515|
 [fc]
 [vo_yuh s="yuho0057"]
-[ns]Yuuho[nse]
-"I see. I'm on my way to club activities at school, so let's[r]
-walk together for a bit."[pcms]
+[ns]悠帆[nse]
+「そっか。わたしこれから学園に部活に行くところだし、[r]
+　途中まで一緒に行こうか」[pcms]
 
 *1516|
 [fc]
-[ns]Wataru[nse]
-"Yeah!"[pcms]
+[ns]航[nse]
+「うんっ」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1517|
 [fc]
 [vo_ior s="iori0018"]
-[ns]Inori[nse]
-"That's fine by me. Oh, and by the way, Wataru, I was[r]
-telling you earlier that I bought some souvenirs, so come[r]
-visit when you're free."[pcms]
+[ns]緒織[nse]
+「そら、かましまへんえ。あっ、せやせや。航にも喋ってるけど、[r]
+　お土産買うて来たって言うてたさかい、[r]
+　暇なときに遊びにきてなぁ」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1518|
 [fc]
-Inori-san's gentle voice seemed like a signal, and we walked[r]
-together to the fork in the road leading to the school...[r]
-Yuuho decided to walk while pushing her bicycle.[pcms]
+やんわりとした緒織さんの声が合図のように、[r]
+ボクらは学園への分かれ道まで一緒に……悠帆は自転車を[r]
+押しながら歩くことになった。[pcms]
 
 *1519|
 [fc]
-I was more than happy about it, and Inori-san didn't seem to[r]
-mind either.[pcms]
+それはボクにとって大歓迎だし、[r]
+緒織さんも気にしないだろう。[pcms]
 
 *1520|
 [fc]
-Plus, while Yuuho and Inori-san were chatting, I could think[r]
-to myself.[pcms]
+それに悠帆と緒織さんが話し合ってる分、[r]
+ボクはボク一人で考え事ができる。[pcms]
 
 *1521|
 [fc]
-I was very curious whether the exchange with Oshima-senpai[r]
-was really just about email addresses.[pcms]
+大嶋先輩とのことは本当にメアドの交換だけだったのかとか、[r]
+非常に気になるところだ。[pcms]
 
 *1522|
 [fc]
-But probing too much would be creepy...[pcms]
+でも変に突っ込むのもキモイだろうし……。[pcms]
 
 *1523|
 [fc]
-The last thing I want is to confess clumsily and ruin this[r]
-comfortable relationship we have as childhood friends.[pcms]
+第一、ヘタに告白なんかして、[r]
+この居心地のいい幼馴染と言う関係が崩れるのもイヤだ。[pcms]
 
 *1524|
 [fc]
-I don't want to stay in this relationship forever.[pcms]
+確かにいつまでもこの関係でいたいとは思わない。[pcms]
 
 *1525|
 [fc]
-But still...[pcms]
+けれどそれでも、やっぱり……。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1526|
 [fc]
 [vo_ior s="iori0019"]
-[ns]Inori[nse]
-"But as usual, eh? This banner supporting Yuuho. Isn't the[r]
-tournament coming up soon?"[pcms]
+[ns]緒織[nse]
+「せやけど、相変わらずやねぇ、この悠帆を応援する[r]
+　横断幕。そろそろ大会も近いとちゃうん？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1527|
 [fc]
 [vo_yuh s="yuho0058"]
-[ns]Yuuho[nse]
-"Yes, it's embarrassing but... I do want to go far in the[r]
-next tournament."[pcms]
+[ns]悠帆[nse]
+「そうですねぇ、恥ずかしいですけど。[r]
+　でも今度の大会ではいいところまで行きたいです」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1528|
 [fc]
 [vo_ior s="iori0020"]
-[ns]Inori[nse]
-"Go far? If you're aiming for something, it should be[r]
-victory, right?"[pcms]
+[ns]緒織[nse]
+「えぇところまでなんて……目指すんなら、[r]
+　優勝に決まってますやろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1529|
 [fc]
 [vo_yuh s="yuho0059"]
-[ns]Yuuho[nse]
-"Well, yeah... To tell you the truth, if I keep up this[r]
-pace, I might even aim for the top spot on the podium~"[pcms]
+[ns]悠帆[nse]
+「えぇ、まぁ……本当の事を言うと、このままの調子で[r]
+　行けば表彰台の一番上、狙えちゃうかなぁ～って[r]
+　思ってますけど」[pcms]
 
 *1530|
 [fc]
-Yuuho's face as she laughed 'eheh' was incredibly charming.[pcms]
+えへっと笑う悠帆の顔は酷く魅力的だ。[pcms]
 
 *1531|
 [fc]
-Even though I knew she was directing that smile at Inori-san[r]
-walking beside her, my heart still raced.[pcms]
+ボクにではなく、隣で歩いている緒織さんに向けてるってことは[r]
+わかってるのに、ドキリと胸が高鳴ってしまう。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1532|
 [fc]
-Not that they were lured by her smile per se, but[r]
-shopkeepers from the shopping district greeted us warmly.[pcms]
+その笑顔に釣られたわけじゃないだろうけれど、[r]
+商店街店主のオッサンやじいさんが声をかけてくる。[pcms]
 
 *1533|
 [fc]
-After all, two of the most beautiful girls in town were[r]
-walking together like this.[pcms]
+まぁ、地元で１・２を争う美女二人が[r]
+こうして歩いてるんだ。[pcms]
 
 *1534|
 [fc]
-The male heart that can't help but speak up at such a[r]
-sight... is in some ways a sad thing.[pcms]
+その眼福に思わず声をかけてしまう男心って……[r]
+ある意味悲しい性だよな。[pcms]
 
 *1535|
 [fc]
-[ns]Uncle[nse]
-"Yuuho-chan, heading to club activities? Do your best. With[r]
-you there, Japan's gold medal count is sure to increase."[pcms]
+[ns]おじさん[nse]
+「悠帆ちゃん、これから部活かい？　がんばってくれよ。[r]
+　悠帆ちゃんなら日本の金メダルを増やしてくれるに[r]
+　違いないんだから」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1536|
 [fc]
 [vo_yuh s="yuho0060"]
-[ns]Yuuho[nse]
-"Ahaha. I'll do my best. Thank you for your support."[pcms]
+[ns]悠帆[nse]
+「あ、あはは。そうなるよう、がんばります。[r]
+　応援、ありがとうございます」[pcms]
 
 *1537|
 [fc]
-[ns]Grandfather[nse]
-"You always look so lovely, Inori-san. Just seeing you like[r]
-this makes me feel like my life is extended."[pcms]
+[ns]じいさん[nse]
+「いつもべっぴんさんじゃのぉ、緒織さんは。[r]
+　こうして見るだけで、寿命が延びそうじゃ」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1538|
 [fc]
 [vo_ior s="iori0021"]
-[ns]Inori[nse]
-"Oh my, saying such things, aren't you quite the charmer[r]
-these days? You should come by and show your face more[r]
-often."[pcms]
+[ns]緒織[nse]
+「あら、そへんな事言うて、きょうびずいぶんと[r]
+　お見限りやおまへん？[r]
+　ちびっとはお顔を見せにきておくんなはれ」[pcms]
 
 *1539|
 [fc]
-[ns]Auntie[nse]
-"Oh, Yuuho-chan. Your competition is coming up soon, right?[r]
-I'll send over some of our shop's finest meat on the day, so[r]
-have your dad make it into pork cutlets."[pcms]
+[ns]おばちゃん[nse]
+「あら、悠帆ちゃん。もうすぐ大会が近いんだろ？[r]
+　当日はうちの上等な肉を届けてあげるから、[r]
+　お父さんに豚カツにしてもらい」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1540|
 [fc]
 [vo_yuh s="yuho0061"]
-[ns]Yuuho[nse]
-"Ah, thank you as always. When I eat pork cutlets made with[r]
-meat from your shop before a competition, I always perform[r]
-well."[pcms]
+[ns]悠帆[nse]
+「あっ、いつもありがとうございます。[r]
+　おばちゃんとこのお肉で作った豚カツを食べて大会に出ると、[r]
+　成績がいいんですよ」[pcms]
 
 *1541|
 [fc]
-[ns]Auntie[nse]
-"Oh my, you've become quite the flatterer."[pcms]
+[ns]おばちゃん[nse]
+「まぁ、お世辞もうまくなっちゃって」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1542|
 [fc]
-[ns]Uncle[nse]
-"Truly, Yuuho-chan is the shining star of our shopping[r]
-district."[pcms]
+[ns]おじさん[nse]
+「本当に悠帆ちゃんは[r]
+　うちの商店街の希望の星だもんなぁ」[pcms]
 
 *1543|
 [fc]
-[ns]Grandfather[nse]
-"If Yuuho-chan is the star of hope, then Inori-san must be[r]
-the soothing Goddess of Mercy."[pcms]
+[ns]じいさん[nse]
+「悠帆ちゃんが希望の星なら、緒織さんは差し詰め、[r]
+　癒しの観音様かのぉ」[pcms]
 
 *1544|
 [fc]
-[ns]Auntie[nse]
-"Oh, hardware store grandpa. It's not just about soothing,[r]
-I'm sorry to say."[pcms]
+[ns]おばちゃん[nse]
+「あら、金物屋のじいちゃん。[r]
+　癒しじゃなくて申し訳なかったですね」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1545|
 [fc]
 [vo_ior s="iori0022"]
-[ns]Inori[nse]
-"Don't worry about it. You're like the sun, brightening up[r]
-the shopping district."[pcms]
+[ns]緒織[nse]
+「そないな事あらしまへんえ。おねーはんはお日さんみたいに、[r]
+　商店街を明るうしてはりますえ」[pcms]
 
 *1546|
 [fc]
-[ns]Auntie[nse]
-"Oh, if Inori-san says something like that, I'll have to[r]
-throw in an extra for your next order."[pcms]
+[ns]おばちゃん[nse]
+「あら、乙羽さんにそんな事言われたんじゃ、[r]
+　今度の注文、おまけしなきゃだねぇ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1547|
 [fc]
-As we passed through the shopping district, Yuuho responded[r]
-with a shy freshness while Inori-san replied with a worldly[r]
-air to the shopkeepers who greeted us one after another.[pcms]
+次々に声をかけてくる商店街の人たちに、[r]
+悠帆は照れを隠せない初々しさで、緒織さんは世慣れた風情で[r]
+返事を返しながら、二人は商店街を抜けていく。[pcms]
 
 *1548|
 [fc]
-[ns]Boy[nse]
-"Ah, it's Yuuho Onee-san. Good luck in your next[r]
-competition!"[pcms]
+[ns]男の子[nse]
+「あっ、悠帆お姉ちゃんだ。今度の大会、がんばってね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1549|
 [fc]
 [vo_yuh s="yuho0062"]
-[ns]Yuuho[nse]
-"Thank you. Shou-chan, make sure you also do your best with[r]
-your summer homework."[pcms]
+[ns]悠帆[nse]
+「ありがとう。ショウちゃんも夏休みの宿題、[r]
+　がんばるんだよ」[pcms]
 
 *1550|
 [fc]
-[ns]Boy[nse]
-"Ugh, don't say the same thing as my mom~"[pcms]
+[ns]男の子[nse]
+「うわぁ、お母さんと同じこと、言わないでよ～」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1551|
 [fc]
-Even if they didn't speak up, there were younger boys[r]
-discussing the two of them and husbands getting nudged by[r]
-their wives for staring a bit too long.[pcms]
+話しかけてくるまではなくても、二人を見ながら話し合う[r]
+ボクらよりも年下の男の子たちや、見とれて鼻の下を[r]
+伸ばしすぎて奥さんに小突かれてる旦那さんもいる。[pcms]
 
 *1552|
 [fc]
-Following behind them like an escort, I noticed that[r]
-although the number of people who spoke up wasn't much[r]
-different, Yuuho was definitely greeted more evenly by[r]
-people of all ages and genders.[pcms]
+お供のように後ろから見ていると、話しかけてくる人数は[r]
+あまり大差がないのに、悠帆のほうが断然と老若男女問わず[r]
+平均的に声をかけられていた。[pcms]
 
 *1553|
 [fc]
-Perhaps it's because Inori-san usually works at night and[r]
-isn't as familiar to women and children, but Yuuho really is[r]
-the town's star of hope.[pcms]
+まぁ緒織さんは元々夜の商売をしているから、女性や子供たちに[r]
+顔なじみがいないっていうのもあるのかもしれないけれど、[r]
+悠帆は本当に町内の希望の星なんだ。[pcms]
 
 *1554|
 [fc]
-That was evident from the "Go for it! Yuuho Kanagi" banners[r]
-and words of encouragement for Yuuho posted all over the[r]
-shopping district.[pcms]
+それは商店街のあちらこちらに貼られた[r]
+『がんばれ！　神凪　悠帆』と、悠帆を応援する横断幕。[pcms]
 
 *1555|
 [fc]
-Even without seeing those, just walking these ten or so[r]
-meters made it clear...[pcms]
+それを見なくても、この１０数メートルを[r]
+歩いただけでもわかることで……。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1556|
 [fc]
-I once again confirmed that Yuuho is indeed a popular[r]
-figure.[pcms]
+ボクは改めて、悠帆が人気者であることを確認した。[pcms]
 
 *1557|
 [fc]
-Thinking about it, being asked for her email address by a[r]
-senior isn't such a big deal...[pcms]
+そう考えたら、先輩にメアドを聞かれるくらいは[r]
+よくあること……だよな。[pcms]
 
 *1558|
 [fc]
-Even if that senior happens to be Oshima-senpai, the most[r]
-handsome guy at school, it's not something to fuss over just[r]
-because I happened to witness it.[pcms]
+相手が学園一のイケメンの大嶋先輩だって言ったって、[r]
+たまたま現場を見かけてしまっただけで、[r]
+別に気にするほどのことじゃない。[pcms]
 
 *1559|
 [fc]
-After all, Yuuho's phone already has contacts ranging from[r]
-TV personalities to important figures in the swimming[r]
-association and even boys from the swim teameveryone but[r]
-Kousuke and me.[pcms]
+だいたい悠帆のケータイには、ＴＶ関係者やら水泳協会の[r]
+お偉いさんらしい人から、水泳部の男子まで、[r]
+ボクやコースケ以外の男のメアドが既にいっぱい登録されてる。[pcms]
 
 *1560|
 [fc]
-The last time she showed me was quite a while ago, so there[r]
-might even be more now.[pcms]
+前に見せてもらったのだってだいぶ前のことなんだから、[r]
+まだ増えてるかもしれない。[pcms]
 
 *1561|
 [fc]
-"Getting worked up over one or two more guys' email[r]
-addresses would be ridiculous!"[pcms]
+『今さら男のメアドの一つや二つ増えたところで、[r]
+　動揺するのはおかしいだろ！』[pcms]
 
 *1562|
 [fc]
-Convincing myself of that, I finally regained my composure.[pcms]
+そう自分を納得させると、ボクはやっと落ち着きを取り戻した。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1563|
 [fc]
 [vo_yuh s="yuho0063"]
-[ns]Yuuho[nse]
-"Haa... Taking the shortcut through the shopping district is[r]
-faster, but it does wear me out a bit."[pcms]
+[ns]悠帆[nse]
+「はぁ……商店街を抜けるのは近道だけど、[r]
+　やっぱりなんだか気疲れするわ」[pcms]
 
 *1564|
 [fc]
-After passing through the shopping district and approaching[r]
-the fork in the road towards the station and school, Yuuho[r]
-murmured quietly.[pcms]
+商店街を抜けて、駅方向へと学園への分岐点に[r]
+差しかかったとき、ボソリと悠帆がつぶやいた。[pcms]
 
 *1565|
 [fc]
-I can't quite understand since I'm not someone who's[r]
-expected to do much, but I guess for someone like Yuuho who[r]
-has expectations placed on her from both inside and outside[r]
-the school, it must be tiring.[pcms]
+ボクみたいにそう期待されてない人間にはさっぱり[r]
+わからないけれど、やっぱり悠帆みたいに学園内外から[r]
+期待をかけられてると、疲れるんだろう。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1566|
 [fc]
 [vo_ior s="iori0023"]
-[ns]Inori[nse]
-"Really, Yuuho is so popular. But even if you're aiming for[r]
-first place, what's truly important is that you do your[r]
-best."[pcms]
+[ns]緒織[nse]
+「ほんま、悠帆は人気者どすからなぁ。[r]
+　せやけど、最前は目指すのなら優勝や言うたけれど[r]
+　ほんまは悠帆は悠帆のベストを尽くせばええんどすえ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1567|
 [fc]
 [vo_yuh s="yuho0064"]
-[ns]Yuuho[nse]
-"I know that but..."[pcms]
+[ns]悠帆[nse]
+「それはわかってるんだけど……」[pcms]
 
 *1568|
 [fc]
-[ns]Wataru[nse]
-"That's right. Winning and all that comes later. If you get[r]
-crushed by pressure and can't do your best, then it's all[r]
-for nothing."[pcms]
+[ns]航[nse]
+「そうだよ。優勝だのなんだのって結果は、あとから[r]
+　ついてくるもんで、プレッシャーに押しつぶされて[r]
+　ベストを尽くせなかったら、何にもならないだろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1569|
 [fc]
 [vo_yuh s="yuho0065"]
-[ns]Yuuho[nse]
-"Huh, Wataru actually said something sensible."[pcms]
+[ns]悠帆[nse]
+「へぇ、航にしては、マトモなこと言うのね」[pcms]
 
 *1570|
 [fc]
-[ns]Wataru[nse]
-"What do you mean 'Wataru actually'?"[pcms]
+[ns]航[nse]
+「わ、航にしてはってなんだよ」[pcms]
 
 *1571|
 [fc]
-Indeed, Inori-san's words made me realize that I needed to[r]
-offer Yuuho a different kind of support than the expectant[r]
-cheers everyone else was giving her.[pcms]
+確かに緒織さんの言葉で、悠帆にみんなが寄せる期待に[r]
+満ちた声援とは違う応援の言葉をかけなきゃって[r]
+気づいたからでの台詞ではあるけれど。[pcms]
 
 *1572|
 [fc]
-I don't think there's any need to say 'Wataru actually said[r]
-something sensible.'[pcms]
+ボクにしてはマトモなことを言うなんて[r]
+言い方はないと思う。[pcms]
 
 *1573|
 [fc]
-Inori-san saved me from my momentary dejection with a laugh.[pcms]
+思わずシュンとしたボクを救ってくれたのは、[r]
+再び緒織さんだった。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1574|
 [fc]
 [vo_ior s="iori0024"]
-[ns]Inori[nse]
-"But it's been a while since I've seen Yuuho, and it would[r]
-be a shame to part ways like this. Wataru, would you mind[r]
-taking a bit of a detour through the school on our way to[r]
-the station?"[pcms]
+[ns]緒織[nse]
+「せやけど、久しぶりに悠帆に逢うたのに、[r]
+　このまんま別はるのは惜しおすなぁ。航、ちびっと[r]
+　遠回りになるけど、学園のほうを通って駅に行かへん？」[pcms]
 
 *1575|
 [fc]
-[ns]Wataru[nse]
-"That's fine by me. But won't you be late to pick up Hiko-[r]
-chin?"[pcms]
+[ns]航[nse]
+「いいですけど。でも彦ちんのお迎えに[r]
+　遅れるんじゃないんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1576|
 [fc]
 [vo_ior s="iori0025"]
-[ns]Inori[nse]
-"No worries. I left 20 minutes early so I'd arrive ahead of[r]
-time. A little detour will still get me there with plenty to[r]
-spare."[pcms]
+[ns]緒織[nse]
+「どもないよ。２０分は前に着くように出てきたから。[r]
+　ちぃ～とばかし遠回りしても十分間に合うわ」[pcms]
 
 *1577|
 [fc]
-Hearing Inori-san's answer, both Yuuho and I felt reluctant[r]
-to part ways after having such a rare chance to talk with[r]
-her.[pcms]
+緒織さんの答えを聞いて、[r]
+ボクも悠帆も久しぶりに緒織さんと話したのに[r]
+このまま別れるのは惜しい気がしていた。[pcms]
 
 *1578|
 [fc]
-So without any objections, we headed towards the school.[pcms]
+だから、否応はなく、ボクらは学園のほうへと向かった。[pcms]
 
 ;//<ImageInit 5><UpDate Cross,100>
 
@@ -1221,249 +1224,244 @@ So without any objections, we headed towards the school.[pcms]
 
 *1579|
 [fc]
-[ns]Wataru[nse]
-"But it really has been a long time since Hiko-chin came[r]
-back home."[pcms]
+[ns]航[nse]
+「でも彦ちんが帰って来るのは、本当に久しぶりですよね」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1580|
 [fc]
 [vo_ior s="iori0026"]
-[ns]Inori[nse]
-"Yeah. It seems he got held up with work over there. But he[r]
-has to manage the stall at tonight's summer festival,[r]
-doesn't he?"[pcms]
+[ns]緒織[nse]
+「せやね。ちーとばかし向こうでの仕事が手間取った[r]
+　みたいで。せやかて今晩の夏祭りには、忠彦はんが屋台を[r]
+　仕切らへんとあかんやろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1581|
 [fc]
 [vo_yuh s="yuho0066"]
-[ns]Yuuho[nse]
-"Hiko-chin is doing a stall again?"[pcms]
+[ns]悠帆[nse]
+「彦ちん、また屋台やるんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1582|
 [fc]
 [vo_ior s="iori0027"]
-[ns]Inori[nse]
-"I haven't heard exactly what he'll be in charge of yet, but[r]
-he loves festivals."[pcms]
+[ns]緒織[nse]
+「まだ何任されるのか聞いていーひんみたいやけど、[r]
+　お祭り好きやからねぇ」[pcms]
 
 *1583|
 [fc]
-[ns]Wataru[nse]
-"Yeah. It just doesn't feel like a summer festival without[r]
-Hiko-chin. He's been helping out with stalls since we were[r]
-kids."[pcms]
+[ns]航[nse]
+「うんうん。彦ちんがいないと本当に夏祭りって感じじゃないよ。[r]
+　子供のころからなんだかんだって、屋台の手伝いしてたもんね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1584|
 [fc]
 [vo_yuh s="yuho0067"]
-[ns]Yuuho[nse]
-"Yeah. That passion led him to his current job."[pcms]
+[ns]悠帆[nse]
+「うん。それが高じて、今の仕事についたようなもんだものね」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1585|
 [fc]
 [vo_ior s="iori0028"]
-[ns]Inori[nse]
-"Really, his love for festivals hasn't changed since he was[r]
-a child. It's just like him."[pcms]
+[ns]緒織[nse]
+「ほんま、あん人のお祭り好きは、お子のときから[r]
+　変わらへんのね。あん人らしいわ」[pcms]
 
 *1586|
 [fc]
-As Yuuho and I nodded in agreement, Inori-san laughed[r]
-happily.[pcms]
+ボクと悠帆がうなずきあうと、緒織さんは楽しそうに笑った。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1587|
 [fc]
 [vo_yuh s="yuho0068"]
-[ns]Yuuho[nse]
-"Speaking of Hiko-chin, isn't he definitely behind that[r]
-graffiti under the guardrail in Tomigaya?"[pcms]
+[ns]悠帆[nse]
+「彦ちんって言えば、富ヶ谷のガード下に書かれた[r]
+　グラフィティ、あれって絶対彦ちんじゃない？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a3"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1588|
 [fc]
 [vo_ior s="iori0029"]
-[ns]Inori[nse]
-"Graffiti? What's that?"[pcms]
+[ns]緒織[nse]
+「グラフィティってなんどすの？」[pcms]
 
 *1589|
 [fc]
-[ns]Wataru[nse]
-"It's a kind of street art... well, in a word, it's graffiti[r]
-on the wall. I saw it too, and I wonder if it was Hiko-[r]
-chin?"[pcms]
+[ns]航[nse]
+「ストリートアートの一種……って、一言で言っちゃえば[r]
+　壁の落書きなんですけど。あれ、ボクも見たけど[r]
+　彦ちんかなぁ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b13"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1590|
 [fc]
 [vo_yuh s="yuho0069"]
-[ns]Yuuho[nse]
-"Eh, it's definitely Hiko-chin. It looks just like him."[pcms]
+[ns]悠帆[nse]
+「え～、絶対彦ちんだってば。そっくりじゃない」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1591|
 [fc]
-Convinced by Yuuho's assertion, I remembered the mural[r]
-painted under the guardrail in Tomigaya.[pcms]
+悠帆の力説に、ボクは富ヶ谷のガード下に書かれた[r]
+壁画を思い出した。[pcms]
 
 *1592|
 [fc]
-The figure was wearing a white suit and sunglasses...[pcms]
+白いスーツを着ていて、サングラスをかけていて……。[pcms]
 
 *1593|
 [fc]
-...It's not that it doesn't resemble him...[pcms]
+……確かに似てなくもないけれど……。[pcms]
 
 *1594|
 [fc]
-[ns]Wataru[nse]
-"Doesn't Hiko-chin have a bit more of a manly face? That[r]
-drawing seemed a bit too delicate."[pcms]
+[ns]航[nse]
+「彦ちんはもうちょっと男らしい顔してないか？[r]
+　なんかあの絵、なよっとした感じだったよ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1595|
 [fc]
 [vo_yuh s="yuho0070"]
-[ns]Yuuho[nse]
-"Really? Maybe your eyes are weird, Wataru."[pcms]
+[ns]悠帆[nse]
+「そう？　航の目がおかしいんじゃないの？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1596|
 [fc]
 [vo_ior s="iori0030"]
-[ns]Inori[nse]
-"If Yuuho says it looks like him, we should go see it with[r]
-Tadahiko next time."[pcms]
+[ns]緒織[nse]
+「そない悠帆が似てる言わはるんなら、今度忠彦はんと[r]
+　見に行きましょ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1597|
 [fc]
 [vo_yuh s="yuho0071"]
-[ns]Yuuho[nse]
-"Yeah, yeah, take a look. It's definitely a spitting image."[pcms]
+[ns]悠帆[nse]
+「うんうん、見てみて。絶対にそっくりだから」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1598|
 [fc]
 [vo_ior s="iori0031"]
-[ns]Inori[nse]
-"I'm looking forward to it. Oh, by the way, how are your[r]
-grades, Yuuho?"[pcms]
+[ns]緒織[nse]
+「楽しみにしてましょ。[r]
+　そうや、悠帆の成績はどないやの？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1599|
 [fc]
 [vo_yuh s="yuho0072"]
-[ns]Yuuho[nse]
-"Eh? Grades...?"[pcms]
+[ns]悠帆[nse]
+「えっ？　成績って……」[pcms]
 
 *1600|
 [fc]
-Taken aback by Inori-san's sudden change of topic, Yuuho[r]
-blinked in confusion.[pcms]
+急な緒織さんの話の展開に、悠帆は一瞬ついてこれなくて、[r]
+目をぱちくりさせた。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1601|
 [fc]
 [vo_ior s="iori0032"]
-[ns]Inori[nse]
-"I told you before that doing your best is enough, but you[r]
-seem tired lately, so I was wondering if your times were[r]
-getting worse."[pcms]
+[ns]緒織[nse]
+「最前もベストを尽くせばええ言うたけれど、[r]
+　なんだか疲れてるみたいやさかい、タイムが[r]
+　悪いのかいなぁって思うたんやけど」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1602|
 [fc]
 [vo_yuh s="yuho0073"]
-[ns]Yuuho[nse]
-"My times aren't bad. I think I'm doing pretty well. But at[r]
-the national competition, rivals will also be in their best[r]
-condition."[pcms]
+[ns]悠帆[nse]
+「タイムが悪いってことはないですよ。自分でもいい線は[r]
+　行ってるって思いますし。でも全国大会となると、[r]
+　ライバルも当然ベストな状態で挑んでくるわけだし」[pcms]
 
 *1603|
 [fc]
-[ns]Wataru[nse]
-"It's not just because it's swimming, but they say outcomes[r]
-are uncertain in competitions."[pcms]
+[ns]航[nse]
+「水泳だからってわけじゃないけど、勝負は水物って言うしなぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1604|
 [fc]
 [vo_yuh s="yuho0074"]
-[ns]Yuuho[nse]
-"Wataru, did you think that was a clever thing to say?"[pcms]
+[ns]悠帆[nse]
+「航、それ、うまい事言ったつもり？」[pcms]
 
 *1605|
 [fc]
-[ns]Wataru[nse]
-"Eh? No, I didn't mean it like that. It's just a common[r]
-saying."[pcms]
+[ns]航[nse]
+「えっ？　いや、そんなつもりじゃなくて。[r]
+　よく言うじゃないか」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1606|
 [fc]
 [vo_ior s="iori0033"]
-[ns]Inori[nse]
-"That's right. Even if you go in with your best, you never[r]
-know how it'll turn out in the world of competition. But[r]
-that's something that can be said for your rivals too,[r]
-right?"[pcms]
+[ns]緒織[nse]
+「せやねぇ。ベストのつもりで行かはっても、[r]
+　どへんなるのかがわからへんのが、勝負の世界やしね。[r]
+　せやかて、それはライバルかて言えることやろ？」[pcms]
 
 *1607|
 [fc]
-[ns]Wataru[nse]
-"Exactly. There have been countless times when athletes[r]
-expected to win gold at the Olympics failed, and those who[r]
-weren't in the spotlight at all took the gold."[pcms]
+[ns]航[nse]
+「そうだよ。オリンピックでも金確実って言われてた[r]
+　選手がダメで、全然注目を浴びてなかった選手が金を[r]
+　取ったってことだっていくらだってあるんだからさ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1608|
 [fc]
 [vo_yuh s="yuho0075"]
-[ns]Yuuho[nse]
-"Yeah. Although there's no room for digression, I'll do my[r]
-best to perform at my best."[pcms]
+[ns]悠帆[nse]
+「うん。余談は許されない状況だけど、わたしはわたしの[r]
+　ベストを尽くせるよう、がんばるわ」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1609|
 [fc]
 [vo_ior s="iori0034"]
-[ns]Inori[nse]
-"That's the most important thing."[pcms]
+[ns]緒織[nse]
+「せやな、それが一番や」[pcms]
 
 *1610|
 [fc]
-As Yuuho declared her firm resolve with a laugh, Inori-san[r]
-responded with a smile.[pcms]
+笑いながらも硬い決意の目で悠帆が宣言し、[r]
+それに緒織さんが笑って応える。[pcms]
 
 *1611|
 [fc]
-The atmosphere made me feel motivated to do my best as well.[pcms]
+その雰囲気にボクまでがんばろうって気になってくる。[pcms]
 
 ;//〆：BG：学園全景
 [bg storage="BG07a"][trans_c cross time=500]
@@ -1471,123 +1469,122 @@ The atmosphere made me feel motivated to do my best as well.[pcms]
 
 *1612|
 [fc]
-When we got near the school, I could hear the sound of the[r]
-brass band practicing.[pcms]
+学園の近くまできたとき、[r]
+吹奏楽部が練習している音が聞こえてきた。[pcms]
 
 *1613|
 [fc]
-I wondered if Ren was also working hard amidst those[r]
-practice sounds since there was a note saying she'd be back[r]
-around 2 o'clock.[pcms]
+そう言えば２時くらいに帰って来るって[r]
+置手紙があったけれど、漣も今頃あの練習の音の中に[r]
+混じってがんばってるんだろうか？[pcms]
 
 *1614|
 [fc]
-The thought of doing my best that had just crossed my mind[r]
-didn't seem to match my current situation.[pcms]
+今さっき思ったばかりのボクもがんばろうって思いが[r]
+現状とあってないような気がしないでもない。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1615|
 [fc]
 [vo_yuh s="yuho0076"]
-[ns]Yuuho[nse]
-"Well then, I'm going to go. Inori-san, it was fun talking[r]
-to you after such a long time."[pcms]
+[ns]悠帆[nse]
+「それじゃあ、わたし、行ってくるから。緒織さん、[r]
+　久しぶりに話せて楽しかったです」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1616|
 [fc]
 [vo_ior s="iori0035"]
-[ns]Inori[nse]
-"I had fun too. Good luck with your club activities."[pcms]
+[ns]緒織[nse]
+「私もやわ。部活、お気張りや」[pcms]
 
 *1617|
 [fc]
-[ns]Wataru[nse]
-"See you later then."[pcms]
+[ns]航[nse]
+「じゃあまた後でな」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1618|
 [fc]
-I watched Yuuho's retreating figure disappear into the[r]
-school gates with a vague sense of longing.[pcms]
+軽く手を振って校門の中へと消えていく悠帆の後姿を、[r]
+ボクはぼんやりと見送った。[pcms]
 
 *1619|
 [fc]
-Yuuho is working hard at swimming. Ren is working hard in[r]
-the brass band.[pcms]
+悠帆は水泳でがんばっている。[r]
+漣も吹奏楽部でがんばっている。[pcms]
 
 *1620|
 [fc]
-So what should I be working hard on?[pcms]
+じゃあ、ボクはいったい何をがんばるんだろう？[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1621|
 [fc]
 [vo_ior s="iori0036"]
-[ns]Inori[nse]
-"Ah, youth."[pcms]
+[ns]緒織[nse]
+「青春どすなぁ」[pcms]
 
 *1622|
 [fc]
-I was still gazing absentmindedly until Yuuho was out of[r]
-sight when Inori-san's relaxed voice reached my ears, and my[r]
-face turned bright red.[pcms]
+ぼんやりと悠帆の後姿が見えなくなるまで見送っていた[r]
+ボクの耳に、緒織さんののんびりとした声が聞こえて、[r]
+ボクは顔が真っ赤になった。[pcms]
 
 *1623|
 [fc]
-[ns]Wataru[nse]
-"Yo-youth?"[pcms]
+[ns]航[nse]
+「せ、青春って……」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1624|
 [fc]
 [vo_ior s="iori0037"]
-[ns]Inori[nse]
-"When I was around Wataru and Yuuho's age, I used to watch[r]
-the person I liked until they were out of sight too,[r]
-thinking about it."[pcms]
+[ns]緒織[nse]
+「私も航や悠帆くらいの歳には、好きなお人の後姿を[r]
+　見えなくなるまで見送ったもんやなぁ、思うて」[pcms]
 
 *1625|
 [fc]
-[ns]Wataru[nse]
-"Li-like someone?"[pcms]
+[ns]航[nse]
+「す、好きな人って……」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1626|
 [fc]
 [vo_ior s="iori0038"]
-[ns]Inori[nse]
-"Wataru, your face is all red. It seems Yuuho is putting her[r]
-efforts into swimming, but you might need to put some effort[r]
-into love."[pcms]
+[ns]緒織[nse]
+「航、顔真っ赤になってはるよ。悠帆は水泳に[r]
+　気張ってはるみたいやけど、航は恋に気張らへんと[r]
+　あかんみたいやね」[pcms]
 
 *1627|
 [fc]
-[ns]Wataru[nse]
-"I-Inori-san, you're teasing me. Come on, let's go. Hiko-[r]
-chin might arrive soon, right?"[pcms]
+[ns]航[nse]
+「い、緒織さんってば、からかって。ほら、[r]
+　行きましょう。彦ちん、着いちゃうでしょ？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1628|
 [fc]
 [vo_ior s="iori0039"]
-[ns]Inori[nse]
-"That's true."[pcms]
+[ns]緒織[nse]
+「せやね」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1629|
 [fc]
-Without needing Inori-san to point it out, I was aware that[r]
-my face was red as I hurriedly left the school front as if[r]
-fleeing from the spot.[pcms]
+緒織さんに指摘されるまでもなく、ボクは自分の顔が[r]
+真っ赤になってるのを自覚しながら、そそくさと[r]
+その場から逃げ出すように、学園の前を後にした。[pcms]
 
 ;//〆：BG：LASER前
 [bg storage="BG06d"][trans_c cross time=500]
@@ -1596,82 +1593,82 @@ fleeing from the spot.[pcms]
 
 *1630|
 [fc]
-Partly to hide my embarrassment, I walked briskly ahead[r]
-despite being with Inori-san, and for a while, we headed[r]
-towards the station without any conversation.[pcms]
+照れ隠しもあって、ボクは早足で歩いてしまい、[r]
+緒織さんと一緒に歩いてるのにもかかわらず、[r]
+しばらく何も会話もないままに、駅のほうへと向かう。[pcms]
 
 *1631|
 [fc]
-Suddenly, I saw synchronized swimming being broadcast on a[r]
-TV displayed in a shop window and involuntarily looked away[r]
-in agitation.[pcms]
+ふと、店頭にディスプレイとして飾られたＴＶで[r]
+シンクロナイズドスイミングの大会を放送していて、[r]
+ボクは思わず動揺して目をそらしてしまった。[pcms]
 
 *1632|
 [fc]
-Whether she noticed or not, Inori-san took another look at[r]
-my face.[pcms]
+それに気づいてか気づかなかったのか、[r]
+緒織さんがボクの顔を改めて見直してくる。[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1633|
 [fc]
 [vo_ior s="iori0040"]
-[ns]Inori[nse]
-"I've never experienced it myself, but what does it feel[r]
-like to see your childhood friend on TV?"[pcms]
+[ns]緒織[nse]
+「私は経験あらしまへんけど、幼馴染がＴＶに出るって[r]
+　どないな感じどすか？」[pcms]
 
 *1634|
 [fc]
-[ns]Wataru[nse]
-"What does it feel like... It's strange because even though[r]
-it's a familiar face and voice speaking on TV, it feels like[r]
-they're completely unknown."[pcms]
+[ns]航[nse]
+「どんな感じって……なんかＴＶで見ると、知ってる顔で[r]
+　知ってる声で喋ってるのに、全然知らないみたいな、[r]
+　不思議な感じですね」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1635|
 [fc]
 [vo_ior s="iori0041"]
-[ns]Inori[nse]
-"Is that so?"[pcms]
+[ns]緒織[nse]
+「そないなもんなんやろか」[pcms]
 
 *1636|
 [fc]
-[ns]Wataru[nse]
-"It feels like Yuuho is going off into a distant world and[r]
-leaving me behind... Never mind."[pcms]
+[ns]航[nse]
+「遠い世界に行く悠帆に、置いてかれるような……って、[r]
+　なんでもないです」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1637|
 [fc]
-Complaining about this to Inori-san wouldn't help anything.[pcms]
+こんなこと、緒織さんに愚痴ったって[r]
+仕方がないことだった。[pcms]
 
 *1638|
 [fc]
-I felt exposed for not being able to wholeheartedly support[r]
-Yuuho as she walked straight towards the path she aimed[r]
-forthe person I liked seemed so far away.[pcms]
+悠帆が、自分が好きな人が自分の目指す道に向かって[r]
+まっすぐ歩いているのに、素直に応援しきれない自分を[r]
+見出された気分だ。[pcms]
 
 *1639|
 [fc]
-Because my father works at the TV station, the world of TV[r]
-should feel closer to me than to others, yet it's a world[r]
-out of reach.[pcms]
+ＴＶ局に父さんが勤めてるから、他の人よりはＴＶの[r]
+世界は身近な世界であるはずなのに、手の届かない世界。[pcms]
 
 *1640|
 [fc]
-And there goes Yuuho.[pcms]
+そこへ行く悠帆。[pcms]
 
 *1641|
 [fc]
-Yuuho is easily heading towards a world that I, no matter[r]
-how hard I try, cannot reach.[pcms]
+ボクにはどうあがいても行くことができない世界へ、[r]
+悠帆はいとも簡単に行こうとしてる。[pcms]
 
 *1642|
 [fc]
-I don't know if I'm envious of her or if I'm just[r]
-disappointed in myself for not being able to go there.[pcms]
+それが羨ましいのか、行けない自分が[r]
+不甲斐ないのかもわからない。[pcms]
 
 ;//〆：BG：センターストリート
 [bg storage="BG05a"][trans_c cross time=500]
@@ -1682,103 +1679,103 @@ disappointed in myself for not being able to go there.[pcms]
 *1643|
 [fc]
 [vo_ior s="iori0042"]
-[ns]Inori[nse]
-"But Wataru, are you really okay with your relationship with[r]
-Yuuho staying the way it is?"[pcms]
+[ns]緒織[nse]
+「せやけど、航は悠帆との関係、[r]
+　このままでええ思うてはるの？」[pcms]
 
 *1644|
 [fc]
-[ns]Wataru[nse]
-"Eh?"[pcms]
+[ns]航[nse]
+「えっ？」[pcms]
 
 *1645|
 [fc]
-Thrown into a well of self-mockery, I was lost in a[r]
-whirlpool of thoughts as I walked ahead.[pcms]
+自嘲の井戸に投げ落とされて、グルグルとした[r]
+思考の迷路に紛れ込むように先を歩いていたボク。[pcms]
 
 *1646|
 [fc]
-For a moment, I didn't understand the meaning of Inori-san's[r]
-words and involuntarily asked her to repeat them.[pcms]
+一瞬、緒織さんの言葉の意味がわからなくて、[r]
+思わず聞き返した。[pcms]
 
 *1647|
 [fc]
-But as soon as the meaning registered in my mind, my heart[r]
-started pounding and I found myself unable to say anything.[pcms]
+けれど、その意味が頭の中で意味を持ったとたん、[r]
+ボクの心臓はドキドキと高まって[r]
+何も言えなくなってしまう。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1648|
 [fc]
 [vo_ior s="iori0043"]
-[ns]Inori[nse]
-"You like Yuuho, don't you, Wataru?"[pcms]
+[ns]緒織[nse]
+「悠帆のこと、航は好きなんやろ？」[pcms]
 
 *1649|
 [fc]
-[ns]Wataru[nse]
-"That's, well, you see..."[pcms]
+[ns]航[nse]
+「だ、だから、その……」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a7"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1650|
 [fc]
 [vo_ior s="iori0044"]
-[ns]Inori[nse]
-"No? But your face seems honest."[pcms]
+[ns]緒織[nse]
+「ちゃうの？　でも顔は素直みたいやね」[pcms]
 
 *1651|
 [fc]
-[ns]Wataru[nse]
-"Uh, um..."[pcms]
+[ns]航[nse]
+「えっ、えっと……」[pcms]
 
 *1652|
 [fc]
-As I cast my gaze around, wondering how to respond to Inori-[r]
-san's keen interest, I belatedly realized that we were on[r]
-Center Street.[pcms]
+興味津々と顔に書いた緒織さんの質問にどう答えようかと[r]
+視線を泳がせたとき、ボクはここがセンターストリートで[r]
+あることに今さらながらに気づいた。[pcms]
 
 *1653|
 [fc]
-I had planned to go to Giga Camera first, but given this[r]
-route, 'Toyo Hand' was closer.[pcms]
+まずギガカメラに行ってからと思ったけれど、[r]
+この道順だと「東洋ハンド」のほうが近い。[pcms]
 
 *1654|
 [fc]
-[ns]Wataru[nse]
-"Oh no, I've walked past Toyo Hand. I have some shopping to[r]
-do, so please excuse me here."[pcms]
+[ns]航[nse]
+「い、いけない。東洋ハンド、通り過ぎちゃった。ボク、[r]
+　買い物があるんで、ここで失礼します」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1655|
 [fc]
 [vo_ior s="iori0045"]
-[ns]Inori[nse]
-"Oh, are you running away?"[pcms]
+[ns]緒織[nse]
+「あら、逃げるんどすか？」[pcms]
 
 *1656|
 [fc]
-[ns]Wataru[nse]
-"No, I really have business at Toyo Hand. We have a club[r]
-camp tomorrow, so I came to buy a lantern and insect[r]
-repellent."[pcms]
+[ns]航[nse]
+「いや、本当に東洋ハンドに用があって。明日、部活の[r]
+　キャンプなんで、ランタンと虫除け買いにきたんですよ」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1657|
 [fc]
 [vo_ior s="iori0046"]
-[ns]Inori[nse]
-"Well then, I'll let you off the hook for today. See you[r]
-later."[pcms]
+[ns]緒織[nse]
+「ほな、今日は勘弁してあげましょ。また後でね」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1658|
 [fc]
-With a smile from Inori-san, I turned on my heel and headed[r]
-towards 'Toyo Hand', one of my destinations.[pcms]
+にっこりと微笑む緒織さんから逃げ出すように、[r]
+ボクは踵を返して目的地の一つである[r]
+「東洋ハンド」へと向かった。[pcms]
 
 [stopse buf=0]
 ;//BG：黒画面
@@ -1786,30 +1783,30 @@ towards 'Toyo Hand', one of my destinations.[pcms]
 
 *1659|
 [fc]
-Even as I searched for the lantern I needed at 'Toyo Hand',[r]
-I couldn't help but think about my relationship with Yuuho[r]
-that Inori-san had asked about earlier.[pcms]
+「東洋ハンド」で目当てのランタンを探しながらも、[r]
+ボクは思わず先ほどの緒織さんに聞かれた悠帆との関係に[r]
+ついて考えてしまう。[pcms]
 
 *1660|
 [fc]
-I don't think it's okay to stay this way, but maybe Yuuho,[r]
-who's becoming a local idol not just at school but also at[r]
-home, and I just don't match up?[pcms]
+このままでいいとは思わないけれど、やっぱり学園だけ[r]
+じゃなく、地元のアイドル化してる悠帆と自分とじゃ[r]
+つりあわないんじゃないんだろうか？[pcms]
 
 *1661|
 [fc]
-If that's the case...[pcms]
+だとしたら……。[pcms]
 
 *1662|
 [fc]
-[ns]Wataru[nse]
-"I shouldn't confess."[pcms]
+[ns]航[nse]
+「告白するべきじゃないよな」[pcms]
 
 *1663|
 [fc]
-A sigh escaped my lips along with resignation, and while[r]
-feeling like I was about to hit rock bottom, I finally[r]
-purchased the lantern found in the outdoor goods section.[pcms]
+ため息と共にあきらめが口からこぼれ落ちて、ボクはどん底に[r]
+落ちそうになりながら、やっとアウトドア用品のところで[r]
+見つけたランタンを購入した。[pcms]
 
 ;//BG：スクランブル交差点前
 ;//@konya 「渋谷駅前」
@@ -1819,14 +1816,13 @@ purchased the lantern found in the outdoor goods section.[pcms]
 
 *1664|
 [fc]
-After finishing buying an electronic insect repellent at[r]
-Giga Camera, I entered Steba and ordered today's coffee ice[r]
-in a Venti size.[pcms]
+ギガカメラで電子虫除けも買い終わって、ボクはステバに[r]
+入って本日のコーヒーのアイスをベンティで頼んだ。[pcms]
 
 *1665|
 [fc]
-While adding gum syrup and milk at the counter near the[r]
-entrance, my knees suddenly buckled.[pcms]
+出入り口近くのカウンターでガムシロとミルクを入れていたとき、[r]
+いきなり膝がカクンと崩れ落ちる。[pcms]
 
 [quake_bg 元time=500 xy m]
 
@@ -1834,95 +1830,94 @@ entrance, my knees suddenly buckled.[pcms]
 
 *1666|
 [fc]
-[ns]Kousuke[nse]
-"Yo, what are you doing?"[pcms]
+[ns]浩助[nse]
+「よぉ、何やってるんだよ？」[pcms]
 
 *1667|
 [fc]
-[ns]Wataru[nse]
-"What am I doing? Kousuke! Don't suddenly make my knees[r]
-buckle."[pcms]
+[ns]航[nse]
+「何やってるって、コースケっ！　いきなりヒザかっくんすんな」[pcms]
 
 *1668|
 [fc]
-In a panic, I clung to the counter to avoid falling and[r]
-raised my voice in anger at the voice that came from behind.[pcms]
+慌ててカウンターにしがみつき、なんとかこけるのを[r]
+耐えたボクは、後ろから聞こえてきた声に、[r]
+思わず怒鳴り声をあげた。[pcms]
 
 *1669|
 [fc]
-If he's wandering around at this time, it seems he's[r]
-probably in the middle of volunteer activities for the[r]
-neighborhood watch.[pcms]
+この時間ウロウロしてるってことは、[r]
+どうやら自警団のボランティア活動中らしい。[pcms]
 
 *1670|
 [fc]
-But how is it that the neighborhood watch, supposed to[r]
-protect the town, is going around making good citizens'[r]
-knees buckle?[pcms]
+でも街を守るはずの自警団が、[r]
+善良な市民にいきなりヒザかっくんってどうよ？[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1671|
 [fc]
-[ns]Kousuke[nse]
-"Don't yell at me like that. Oh, perfect timing, I was just[r]
-getting thirstythanks!"[pcms]
+[ns]浩助[nse]
+「そんなに怒鳴るなって。おっ、オレ、ちょうど喉が[r]
+　渇いてたんだよね～、イタダキッ！」[pcms]
 
 *1672|
 [fc]
-[ns]Wataru[nse]
-"Hey, wait! That's... I just bought it... Go buy your own."[pcms]
+[ns]航[nse]
+「ちょっ、おまっ！　それ、今買ってきたばっかの……[r]
+　自分で買いにいけよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1673|
 [fc]
-[ns]Kousuke[nse]
-"But man, I forgot my wallet today so I don't have enough[r]
-money for a Venti. Here's 300 yen, go buy your own."[pcms]
+[ns]浩助[nse]
+「だってオレ、今日財布忘れたからベンティ買うほど金ないもん。[r]
+　３００円やるから、自分の分買ってこいよ」[pcms]
 
 *1674|
 [fc]
-As if a breeze had blown away any anger from me, Kousuke[r]
-took a sip of the iced coffee and pulled out three 100-yen[r]
-coins from his back pocket and handed them to me.[pcms]
+怒るボクなどどこ吹く風と言うふうに、アイスコーヒーに[r]
+口をつけたコースケは尻ポケットから１００円玉３枚を出して、[r]
+ボクに手渡した。[pcms]
 
 *1675|
 [fc]
-[ns]Wataru[nse]
-"300 yen? That's the price for a Short."[pcms]
+[ns]航[nse]
+「３００円って、ショートの値段じゃねぇかよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1676|
 [fc]
-[ns]Kousuke[nse]
-"Tsk tsk tsk. You'll get 10 yen in change."[pcms]
+[ns]浩助[nse]
+「ちっ、ちっ、ちっ。１０円釣りがくる」[pcms]
 
 *1677|
 [fc]
-[ns]Wataru[nse]
-"Either way it's a loss for me."[pcms]
+[ns]航[nse]
+「どっちみち損じゃねぇかよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1678|
 [fc]
-[ns]Kousuke[nse]
-"Come on, I'll treat you to yakisoba or takoyaki at the[r]
-festival tonight, so give me a break."[pcms]
+[ns]浩助[nse]
+「まぁ今夜祭りで焼きそばかたこ焼きおごるからさ、[r]
+　カンベンしてくれよ」[pcms]
 
 *1679|
 [fc]
-[ns]Wataru[nse]
-"Seriously..."[pcms]
+[ns]航[nse]
+「ったく……」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1680|
 [fc]
-I grudgingly went to buy another Short and then left Steba[r]
-with Kousuke.[pcms]
+しぶしぶもう一度ショートを買ってくると、[r]
+ボクはコースケと一緒にステバを出た。[pcms]
 
 ;//BG04a・渋谷駅前
 [bg storage="BG04a"][trans_c cross time=500]
@@ -1933,175 +1928,170 @@ with Kousuke.[pcms]
 
 *1681|
 [fc]
-[ns]Wataru[nse]
-"You're really something. With that outfit on, you're in the[r]
-middle of volunteering, right? Is that okay?"[pcms]
+[ns]航[nse]
+「本当に調子いいんだから。その格好だと[r]
+　ボランティアの途中だろ？　いいのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1682|
 [fc]
-[ns]Kousuke[nse]
-"Huh? Oh yeah, my shift just ended so I was on my way home.[r]
-Then I saw you at Steba and just had to..."[pcms]
+[ns]浩助[nse]
+「んっ？　あぁ、シフトが終わったから帰る途中だったんだよ。[r]
+　で、ステバでお前を見かけたからつい……」[pcms]
 
 *1683|
 [fc]
-[ns]Wataru[nse]
-"Make my knees buckle and steal my coffee. What a[r]
-neighborhood watch."[pcms]
+[ns]航[nse]
+「ヒザかっくんして、ボクのコーヒーを奪ったと。[r]
+　とんだ自警団だな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1684|
 [fc]
-[ns]Kousuke[nse]
-"My shift is over now. Are you also heading home?"[pcms]
+[ns]浩助[nse]
+「もうシフト終わったも～ん。お前も帰るトコ？」[pcms]
 
 *1685|
 [fc]
-[ns]Wataru[nse]
-"Yeah. I've finished shopping for tomorrow's camp."[pcms]
+[ns]航[nse]
+「うん。明日のキャンプの買出しも終わったしな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1686|
 [fc]
-[ns]Kousuke[nse]
-"Then let's head back together."[pcms]
+[ns]浩助[nse]
+「じゃあ一緒に帰ろうぜ」[pcms]
 
 *1687|
 [fc]
-While watching Kousuke gulp down his iced coffee, I too took[r]
-a sip from my unexpectedly downsized cup.[pcms]
+グイッとアイスコーヒーを飲むコースケの顔を見ながら、[r]
+ボクも予定外に小さくなったカップに口をつけた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1688|
 [fc]
-[ns]Kousuke[nse]
-"It's festival day today; it's going to be exciting!"[pcms]
+[ns]浩助[nse]
+「今日は祭りだし、盛り上がるなっ！」[pcms]
 
 *1689|
 [fc]
-[ns]Wataru[nse]
-"Seriously, Kousuke, you and Tadahiko really love festivals,[r]
-don't you?"[pcms]
+[ns]航[nse]
+「まったく、コースケは[r]
+　彦ちんと一緒で本当に祭り好きだよな」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1690|
 [fc]
-[ns]Kousuke[nse]
-"What can I say? Doesn't your blood get excited? There's[r]
-also a fireworks festival today, so I'm feeling totally[r]
-pumped!"[pcms]
+[ns]浩助[nse]
+「だってなんてぇの？　血が騒がない？　今日は[r]
+　花火大会もあるしさ、気分はもう[r]
+　キターーーーっ！！　ってカンジ？」[pcms]
 
 *1691|
 [fc]
-[ns]Wataru[nse]
-"What's that supposed to mean?"[pcms]
+[ns]航[nse]
+「なんだよ、それ」[pcms]
 
 *1692|
 [fc]
-While smiling wryly at Kousuke's high spirits, I couldn't[r]
-shake the feeling that he was forcing his usual[r]
-cheerfulness, so I stole a glance at his face.[pcms]
+コースケのハイテンションに苦笑いを浮かべながらも、[r]
+ボクはその下にいつもと違って無理にテンションを高く[r]
+保ってるような気がして、コースケの顔を盗み見た。[pcms]
 
 *1693|
 [fc]
-On the surface, it seemed like he had completely shaken off[r]
-the gloominess from when he ran into Mizuki by chance[r]
-yesterday.[pcms]
+表面上は昨日、偶然に瑞樹と出合った時の沈みようは[r]
+キレイに拭い去られたようなカンジがする。[pcms]
 
 *1694|
 [fc]
-But maybe it's what you'd call a childhood friend's[r]
-intuition?[pcms]
+でも幼馴染の勘とでも言うんだろうか？[pcms]
 
 *1695|
 [fc]
-I couldn't help but feel like he was straining himself[r]
-somewhere.[pcms]
+どこか無理してるような気がしてしまう。[pcms]
 
 *1696|
 [fc]
-Or is that just my imagination?[pcms]
+それともそれはボクの気のせいにすぎないんだろうか？[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1697|
 [fc]
-[ns]Kousuke[nse]
-"Ah, but I've been called in as a backup for the basketball[r]
-team, so I can't stay up too late. We're meeting at the[r]
-academy first thing in the morning for practice."[pcms]
+[ns]浩助[nse]
+「あ～、でもバスケ部の助っ人に呼ばれてるから、[r]
+　あんまり夜更かしできないんだよなぁ。朝から学園に[r]
+　集合して練習だってさ」[pcms]
 
 *1698|
 [fc]
-[ns]Wataru[nse]
-"I also have camp tomorrow, so I'll be going to the academy[r]
-in the morning."[pcms]
+[ns]航[nse]
+「ボクも明日はキャンプだから、朝から学園に行くよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1699|
 [fc]
-[ns]Kousuke[nse]
-"What a coincidence. Yuuho probably has club activities[r]
-tomorrow too, so none of us can stay up late."[pcms]
+[ns]浩助[nse]
+「なんだ。どうせ悠帆も明日も部活っぽいからみんな[r]
+　夜更かしできないのか」[pcms]
 
 *1700|
 [fc]
-[ns]Wataru[nse]
-"Ren gets tired quickly in crowds too."[pcms]
+[ns]航[nse]
+「漣も人ごみじゃすぐ疲れるしな」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1701|
 [fc]
-As I casually responded, I found myself unconsciously[r]
-comparing myself to Kousuke.[pcms]
+何気なくそう答えながらも、ボクは自分とコースケを[r]
+なんとなく比べてしまった。[pcms]
 
 *1702|
 [fc]
-Normally, I wouldn't even think about it. But after what[r]
-Inori-san said about being a good match for Yuuho, I[r]
-couldn't help but be concerned about how I measure up.[pcms]
+普段は別に意識することなんてない。でも緒織さんに[r]
+言われて悠帆に似合う男かどうかなんて、自分のことを[r]
+省みたせいだろうか？　妙に気にかかった。[pcms]
 
 *1703|
 [fc]
-Unlike me, Kousuke is not only musically talented but also[r]
-so athletic that he's called upon to help out the basketball[r]
-team.[pcms]
+ボクとは違って、音楽だけじゃなく、バスケ部の助っ人と[r]
+して呼ばれるほど、運動神経も抜群なコースケ。[pcms]
 
 *1704|
 [fc]
-He's friendly and has a wide social circle, participates in[r]
-neighborhood watch activities, loves the city of Shibuya,[r]
-and thinks about the community.[pcms]
+人懐っこいところがあるから交友関係も広いし、[r]
+治安活動にも参加して、渋谷という街自体を愛し、[r]
+街のことを考えている。[pcms]
 
 *1705|
 [fc]
-In contrast, even though I was raised in the same city, I[r]
-don't like it very much.[pcms]
+それに比べて同じように生まれ育ったと言うのに、[r]
+ボクはこの街があまり好きではない。[pcms]
 
 *1706|
 [fc]
-If things were to get rough, I'd frown upon it, but unlike[r]
-Kousuke, I wouldn't engage in any particular activities.[pcms]
+もしも荒れたとしても、眉を顰めるけどコースケのように[r]
+これという活動はしないだろう。[pcms]
 
 *1707|
 [fc]
-Kousuke also has a clear vision and determination to achieve[r]
-his dreams for the future and to follow through with his own[r]
-will.[pcms]
+コースケもまた、悠帆と同じく、自分の将来への夢を[r]
+かなえるための、自分の意志を貫くための明確な志と、[r]
+行動力を持ってる。[pcms]
 
 *1708|
 [fc]
-I don't usually feel this... an unfamiliar sense of[r]
-inferiority washed over me as I gulped down my dwindling[r]
-iced coffee, which tasted bitterer than usual.[pcms]
+いつもは感じない……感じたことのない劣等感に、[r]
+残り少なくなったアイスコーヒーを煽るように喉に[r]
+流し込んだけれど、いつもよりも苦く感じた。[pcms]
 
 ;//〆：BG：LASER前
 [bg storage="BG06d"][trans_c cross time=500]
@@ -2109,113 +2099,111 @@ iced coffee, which tasted bitterer than usual.[pcms]
 
 *1709|
 [fc]
-As we walked up to "LASER," I noticed a man in a stark white[r]
-suit coming out of the izakaya next door with the odd name[r]
-"Dedepou."[pcms]
+『ＬＡＳＥＲ』前まで歩いてくると、その隣の居酒屋……[r]
+『ででっぽう』という奇妙な名前のお店から、[r]
+見慣れた真っ白なスーツの男が出てくるのが見えた。[pcms]
 
 *1710|
 [fc]
-It was Tadahiko.[pcms]
+彦ちんだ。[pcms]
 
 *1711|
 [fc]
-Noticing that Inori-san also came out following Tadahiko, we[r]
-approached to greet Tadahiko whom we hadn't seen in a while.[pcms]
+彦ちんに続いて緒織さんも出てきたのに気がついて、[r]
+ボクらは久しぶりに逢う彦ちんに声をかけようと近寄った。[pcms]
 
 *1712|
 [fc]
-But then we noticed Tadahiko's subordinate coming out and we[r]
-stopped in our tracks.[pcms]
+けれど、その後で彦ちんの部下が出てきたのに気づいて[r]
+足を止める。[pcms]
 
 *1713|
 [fc]
-Our relationship with Tadahiko hasn't changed since we were[r]
-kids, even though he's now part of a special corporation[r]
-that has jurisdiction over this area.[pcms]
+ボクらの関係は彦ちんがこの辺を縄張りにしている……[r]
+いわゆる指定を受けてる特殊企業に入っても、[r]
+子供の頃から変わらないけれど、彦ちんの面子ってものがある。[pcms]
 
 *1714|
 [fc]
-There are people who might look at us strangely for hanging[r]
-out with someone like Tadahiko, and it seems he himself[r]
-doesn't want his work discussed where his subordinates are[r]
-present, so we've been keeping our distance.[pcms]
+ボクらみたいな学生が友達付き会いしてるのをヘンな目で[r]
+見る人もいるし、彦ちん自身仕事の話は聞かれたくなさそうなので[r]
+彦ちんの部下がいる場所では遠慮してる。[pcms]
 
 *1715|
 [fc]
-However, we pretended to chat casually in front of "LASER"[r]
-while waiting for an opportunity.[pcms]
+でも『ＬＡＳＥＲ』の手前でコースケと[r]
+立ち話をしている風を装って待っている。[pcms]
 
 *1716|
 [fc]
-Suddenly, conversations like "Is everything ready for the[r]
-festival?" reached our ears.[pcms]
+すると、自然に『祭りの準備は大丈夫か？』だとか、[r]
+そんな会話が耳に飛び込んできた。[pcms]
 
 *1717|
 [fc]
-Since this area is Tadahiko's territory, naturally, the[r]
-management of the food stalls we planned to visit tonight[r]
-falls under his company's jurisdiction.[pcms]
+この辺りを縄張りにしているんだから、当然、[r]
+ボクらが今夜遊びに行こうと約束している屋台の仕切りも、[r]
+彦ちんの会社の管轄だ。[pcms]
 
 *1718|
 [fc]
-The subordinate quickly finished checking on the[r]
-preparations and returned to the izakaya.[pcms]
+その準備の確認をコソコソと手短に済ませると、[r]
+部下の人はまた居酒屋へと戻っていった。[pcms]
 
 *1719|
 [fc]
-Once he was out of sight, we approached Tadahiko with[r]
-friendly smiles.[pcms]
+それを見届けると、ボクらはにこやかに笑いながら[r]
+彦ちんの傍に寄った。[pcms]
 
 *1720|
 [fc]
-[ns]Wataru[nse]
-"Welcome back, Tadahiko."[pcms]
+[ns]航[nse]
+「彦ちん、おかえり」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1721|
 [fc]
-[ns]Kousuke[nse]
-"It's been a while, Tadahiko. When you hear 'festival,' does[r]
-your Edo spirit get restless and bring you back?"[pcms]
+[ns]浩助[nse]
+「久しぶりだね、彦ちん。やっぱり祭りって聞いたら、[r]
+　江戸っ子の血が騒いで帰ってきちゃうか」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1722|
 [fc]
-[ns]Tadahiko[nse]
-"Of course. I was bathed in Shibuya's waters at birth.[r]
-There's no way I'd miss the annual summer festival."[pcms]
+[ns]忠彦[nse]
+「当たり前だろ。渋谷の水で産湯を使った俺だ。[r]
+　年に一度の夏祭りは外せるか」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1723|
 [fc]
-[ns]Kousuke[nse]
-"But this business trip of yours was quite long this time."[pcms]
+[ns]浩助[nse]
+「でも今回の出張は結構長かったね」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a5"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1724|
 [fc]
-[ns]Tadahiko[nse]
-"Yeah, I heard some guys from Kansai were up to something[r]
-fishy over here, but they're slippery. It's tough not having[r]
-anything solid to bring to negotiations."[pcms]
+[ns]忠彦[nse]
+「あぁ、関西のヤツラがこっちで怪しい行動をしてるって[r]
+　聞いたんだが、なかなか尻尾をつかませなくてな。[r]
+　商談の持っていきようがねぇ」[pcms]
 
 *1725|
 [fc]
-[ns]Wataru[nse]
-"Your job sounds tough, Tadahiko."[pcms]
+[ns]航[nse]
+「彦ちんの仕事も大変だね」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1726|
 [fc]
-[ns]Tadahiko[nse]
-"Nowadays it's just a regular corporation, but ever since we[r]
-changed our organizational structure, there are too many[r]
-guys who've forgotten the code of honor..."[pcms]
+[ns]忠彦[nse]
+「今じゃ普通の株式会社だが、組織の形態を変えると[r]
+　一緒に仁義を忘れてきたヤツラばかりだから……」[pcms]
 
 [stopse buf=0]
 ;//〆：♪：lastsummer　フェードアウト
@@ -2228,8 +2216,9 @@ guys who've forgotten the code of honor..."[pcms]
 
 *1727|
 [fc]
-The conversation was cut short when suddenly Tadahiko glared[r]
-sharply behind us with a fierce look in his eyes.[pcms]
+にこやかにしていた会話を中途半端に途切れさせたと[r]
+思った瞬間、彦ちんが急に鋭い目つきでボクらの後ろを[r]
+睨み付けた。[pcms]
 
 [chara_int_ layer=5]
 [ChrSetEx layer=4 chbase="shige_b4"][ChrSetXY layer=4 x=321 y=0]
@@ -2237,162 +2226,158 @@ sharply behind us with a fierce look in his eyes.[pcms]
 
 *1728|
 [fc]
-I turned around in a hurry and saw Jin's group crossing[r]
-behind us.[pcms]
+慌てて振り返ると、壬ってヤツのグループが[r]
+横切っていくのが見えた。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1729|
 [fc]
-For a moment, Kousuke's face seemed to tense up. Today Jin[r]
-was with the fat Shigeyoshi and a few of their underlings;[r]
-Mizuki was nowhere to be seen.[pcms]
+一瞬、コースケの顔が引きつったような気がしたけれど、[r]
+今日は壬ってリーダーとデブの重吉二人とその手下が[r]
+何人かいるだけで、瑞樹の姿はない。[pcms]
 
 *1730|
 [fc]
-I was relieved about that, but still, without acknowledging[r]
-me, Tadahiko and Jin seemed to be intensely posturing with[r]
-just their gazes.[pcms]
+そのことには安心したけれど、ボクを素通しして[r]
+壬と彦ちんが、お互い意識していないようで[r]
+視線だけで激しく牽制しあってる雰囲気が漂った。[pcms]
 
 *1731|
 [fc]
-And on top of yesterday's encounter, Kousuke was glaring at[r]
-Jin with obvious disgust.[pcms]
+おまけに昨日の今日とあってか、コースケはコースケで[r]
+壬にあからさまな嫌悪の視線を向けている。[pcms]
 
 *1732|
 [fc]
-You'd think it could explode at any moment, but in broad[r]
-daylight and especially with Tadahiko being a professional,[r]
-they weren't going to start anything. The delinquent group[r]
-just passed by.[pcms]
+一触即発と言いたいところだけれど、こんな真昼間から、[r]
+それも本職である彦ちんに何かしようとする気はないらしく、[r]
+そのまま不良グループは通り過ぎて行った。[pcms]
 
 *1733|
 [fc]
-Once they were out of sight and we breathed a sigh of[r]
-relief, Tadahiko noticed Kousuke's reaction and looked back[r]
-at us seriously for once.[pcms]
+やっと姿が見えなくなってホッと息をついたとき、[r]
+彦ちんがコースケの様子に気がついて、[r]
+いつにない真剣な顔でボクらを見直してきた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1734|
 [fc]
-[ns]Tadahiko[nse]
-"Do you guys have some kind of beef with them?"[pcms]
+[ns]忠彦[nse]
+「あいつらに何か因縁でもあるのか？」[pcms]
 
 *1735|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「えっ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1736|
 [fc]
-[ns]Kousuke[nse]
-"Beef? Well, I'm part of the neighborhood watch."[pcms]
+[ns]浩助[nse]
+「因縁って言うか、オレ、一応自警団だから」[pcms]
 
 *1737|
 [fc]
-I couldn't possibly tell Tadahiko about my history with[r]
-Mizuki or that she might be connected to Jin's group that[r]
-just exchanged such intense looks with him.[pcms]
+瑞樹との因縁があるけど、まさか彦ちんと一触即発といった[r]
+視線を交し合ったグループと瑞樹が関係あるなんて、[r]
+いくら彦ちんにも言えない。[pcms]
 
 *1738|
 [fc]
-No, especially not to Tadahiko who now works for that[r]
-company.[pcms]
+いや、今の会社に勤めている彦ちんだから[r]
+言えないって言うか。[pcms]
 
 *1739|
 [fc]
-While pointing at the beret Kousuke wore for his volunteer[r]
-activities, he answered, and though he seemed a bit[r]
-relieved, Tadahiko whispered to us with an even more serious[r]
-tone.[pcms]
+コースケがボランティア活動しているベレー帽を指差しながら[r]
+答えたのに、少しホッとしたような表情を浮かべながらも、[r]
+彦ちんはより真剣な声でボクらにささやいた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1740|
 [fc]
-[ns]Tadahiko[nse]
-"That guy is seriously bad news."[pcms]
+[ns]忠彦[nse]
+「あのヤロウはマジでヤバイ」[pcms]
 
 *1741|
 [fc]
-[ns]Wataru[nse]
-"That guy, you mean their leader?"[pcms]
+[ns]航[nse]
+「あのヤロウって、リーダー？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="tadahiko_a1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1742|
 [fc]
-[ns]Tadahiko[nse]
-"The leader, huh? No wonder he's got guts... If it was just[r]
-roughness, he'd be a small fry. But that guy, he knows[r]
-everything and has discarded everything. That's the kind of[r]
-guy he is."[pcms]
+[ns]忠彦[nse]
+「リーダーなのか。道理でタマが座ってると思ったが……[r]
+　ただ荒っぽいだけなら単なる雑魚だ。だが、あいつは[r]
+　全部知ったうえで、全部捨ててる。そういう奴だ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1743|
 [fc]
-[ns]Kousuke[nse]
-"As expected of Tadahiko, you can tell just by looking."[pcms]
+[ns]浩助[nse]
+「さすが彦ちん、一目見ただけでわかるんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1744|
 [fc]
-[ns]Tadahiko[nse]
-"Well yeah. And that's why he's the most dangerous. You[r]
-never know what he might do, even I can't predict it. It's[r]
-unavoidable since you're part of the neighborhood watch, but[r]
-try to stay away as much as possible."[pcms]
+[ns]忠彦[nse]
+「まぁな。で、そういう奴が一番危ない。[r]
+　何しでかすか、俺にさえ予測不可能なところがあるからな。[r]
+　自警団だから仕方がないにしても、できるだけ関わるな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1745|
 [fc]
-[ns]Kousuke[nse]
-"But lately, some bad guys from other towns have joined his[r]
-underlings, and there's been more trouble. We can't just[r]
-leave it be."[pcms]
+[ns]浩助[nse]
+「だけど最近、あいつの手下に他の街から流れてきた[r]
+　ワルが加わって、揉め事が多くなってるんだ。[r]
+　このまま放っておけないよ」[pcms]
 
 *1746|
 [fc]
-Though we always nodded along with Tadahiko's words, perhaps[r]
-because of our pride as the neighborhood watch or because of[r]
-Mizuki, Kousuke spoke with a quiet anger.[pcms]
+彦ちんの言葉にはいつもうなずいてきたボクらだけれど、[r]
+自警団としての誇りだけでなく瑞樹のこともあってか、[r]
+コースケは静かな怒りを込めた声で言う。[pcms]
 
 *1747|
 [fc]
-The undertone of his words seemed to implicitly criticize[r]
-Tadahiko, as if saying, "Aren't you a professional? Can't[r]
-you handle a delinquent group?"[pcms]
+その言葉の裏には、『彦ちんは本職だろ？[r]
+不良グループをシメることもできないのか』と、[r]
+暗に彦ちんを非難しているような気さえする。[pcms]
 
 *1748|
 [fc]
-Perhaps sensing that, Tadahiko looked back at us from the[r]
-building with the izakaya behind us and muttered softly.[pcms]
+彦ちんもそれを感じ取ったのか、ボクらから後ろの[r]
+居酒屋が入ったビルを見つめ、ボソリとつぶやいた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1749|
 [fc]
-[ns]Tadahiko[nse]
-"This is our turf too. We have to keep those kinds of guys[r]
-in check for our own reputation, but they've got backers[r]
-from Kansai. Be careful until the business deal is settled."[pcms]
+[ns]忠彦[nse]
+「ここもウチのシマなんだ。あぁいうヤツらも適当に[r]
+　シメんとこっちの面子に関わるが、関西のヤツラの[r]
+　後ろ盾があるからな。商談が成立するまで気をつけろ」[pcms]
 
 *1750|
 [fc]
-I thought I understood that Tadahiko's company was a bit[r]
-special and did unique work, not like the organizations you[r]
-see in manga.[pcms]
+彦ちんの会社はちょっと指定を受けちゃってるし、特殊な[r]
+仕事をしてる企業だってわかっていたつもりだったけれど、[r]
+マンガに出てくるような組織とは違うと思ってた。[pcms]
 
 *1751|
 [fc]
-But... maybe the world Tadahiko lives in really is different[r]
-from ours.[pcms]
+でも……やっぱり彦ちんが住む世界は、[r]
+ボクらとは違う世界なのかもしれない。[pcms]
 
 ;//〆：♪：outside　フェードアウト
 [fadeoutbgm time=500]
@@ -2404,47 +2389,45 @@ from ours.[pcms]
 
 *1752|
 [fc]
-[ns]Tadahiko[nse]
-"Come on, let's go. Inori, you have to prepare the shop,[r]
-right?"[pcms]
+[ns]忠彦[nse]
+「ほら、帰るぞ。緒織も店の準備があるだろう？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a2"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1753|
 [fc]
 [vo_ior s="iori0047"]
-[ns]Inori[nse]
-"Yeah. With the festival and fireworks show, it looks like a[r]
-slow start, but I gotta get the shop ready."[pcms]
+[ns]緒織[nse]
+「せやなぁ。お祭りに花火大会じゃ出足は悪そうやけれど、[r]
+　お店の準備はせなあかんな」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1754|
 [fc]
-[ns]Tadahiko[nse]
-"You guys are going to the festival too, right?"[pcms]
+[ns]忠彦[nse]
+「お前らも祭りに行くんだろ？」[pcms]
 
 *1755|
 [fc]
-[ns]Wataru[nse]
-"Yeah. We have to properly see how Tadahiko manages it."[pcms]
+[ns]航[nse]
+「うん。彦ちんの仕切り、ちゃんと見ないとね」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1756|
 [fc]
-[ns]Tadahiko[nse]
-"You said it, dude."[pcms]
+[ns]忠彦[nse]
+「言ったな、コイツ」[pcms]
 
 *1757|
 [fc]
-The atmosphere was as usual on the surface, like old[r]
-childhood friends.[pcms]
+表面上はいつものような、昔の幼馴染のままの雰囲気。[pcms]
 
 *1758|
 [fc]
-But feeling that something was different, Kousuke and I[r]
-followed the two ahead of us on our way home.[pcms]
+でも、どこかが違うような気がしながら、[r]
+ボクとコースケは先に行く二人についていくように家路に着いた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 [chara_int_ layer=5][trans_c cross time=150]
@@ -2561,247 +2544,241 @@ followed the two ahead of us on our way home.[pcms]
 *1759|
 [fc]
 [vo_ior s="iori0048"]
-[ns]Inori[nse]
-"Well then, I've got to prepare the shop, so I'll part ways[r]
-here."[pcms]
+[ns]緒織[nse]
+「ほな、私はお店の準備があるさかい、ここで別はるわ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1760|
 [fc]
-[ns]Tadahiko[nse]
-"Yeah, make sure you earn a lot."[pcms]
+[ns]忠彦[nse]
+「あぁ、しっかり稼げ」[pcms]
 
 *1761|
 [fc]
-When we got back to the shopping district, Inori-san started[r]
-to head towards "Otowa," where her shop was located.[pcms]
+商店街にまで戻ってきたとき、緒織さんは一人離れて[r]
+『音羽』のあるほうへと向かいかけた。[pcms]
 
 *1762|
 [fc]
-Tadahiko called out to her retreating figure.[pcms]
+その背中に彦ちんが一声かける。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1763|
 [fc]
-[ns]Tadahiko[nse]
-"I'll be back after greeting the old man. Have dinner ready[r]
-for me. And is the Hois in?"[pcms]
+[ns]忠彦[nse]
+「俺はオジキに挨拶したら戻るから、メシ用意しておいてくれ。[r]
+　あと、ホイスは入ってるか？」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1764|
 [fc]
 [vo_ior s="iori0049"]
-[ns]Inori[nse]
-"Your favorite booze? Of course it's there."[pcms]
+[ns]緒織[nse]
+「アンタの好きなお酒やで？　ちゃんとあるに決まっとるやろ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1765|
 [fc]
-[ns]Tadahiko[nse]
-"That's my woman."[pcms]
+[ns]忠彦[nse]
+「それでこそ、俺のオンナだ」[pcms]
 
 [ChrSetEx layer=5 chbase="iori_a1"][ChrSetXY layer=5 x=145 y=0][trans_c cross time=150]
 
 *1766|
 [fc]
 [vo_ior s="iori0050"]
-[ns]Inori[nse]
-"Stop it. Not in front of Wataru and Kousuke. It's[r]
-embarrassing."[pcms]
+[ns]緒織[nse]
+「イヤやわ。航も浩助もおる所で。[r]
+　恥ずかしでしょ、もう」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1767|
 [fc]
-Blushing slightly but looking pleased, Inori-san finally[r]
-disappeared towards her shop for real this time.[pcms]
+ほんのりと顔を赤らめながらも、嬉しそうに答えて、[r]
+緒織さんは今度こそ本当にお店のほうへと消えた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1768|
 [fc]
-[ns]Kousuke[nse]
-"Then I'll part ways here too."[pcms]
+[ns]浩助[nse]
+「それじゃあ、オレもここで別れるわ」[pcms]
 
 *1769|
 [fc]
-[ns]Wataru[nse]
-"Okay, see you later then."[pcms]
+[ns]航[nse]
+「あぁ、それじゃあまた後でな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_a3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1770|
 [fc]
-[ns]Kousuke[nse]
-"Yeah."[pcms]
+[ns]浩助[nse]
+「おう」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1771|
 [fc]
-After parting ways with Kousuke who was headed in a[r]
-different direction home, I walked with Tadahiko for a[r]
-while.[pcms]
+家の方向が違う浩助とも別れて、[r]
+ボクは彦ちんと一緒にしばらく歩いた。[pcms]
 
 *1772|
 [fc]
-The person Tadahiko calls 'old man' is the executive[r]
-managing director of his company's parent company and also[r]
-the president of a subsidiary; I heard his house is on the[r]
-way to the shrine from here.[pcms]
+彦ちんがオジキって呼んでる人は、彦ちんの会社の[r]
+親会社の専務兼、子会社の社長さんで、ここからだと[r]
+神社へと向かう道筋に家があるって聞いたことがある。[pcms]
 
 *1773|
 [fc]
-It's not the way I usually take, but it could be said to be[r]
-on my way home too.[pcms]
+ボクが普段通ってる道とは違うけれど、[r]
+帰り道の途中とも言えなくもない場所だ。[pcms]
 
 *1774|
 [fc]
-The sense of alienation I felt when I met Tadahiko earlier[r]
-made me realize once again that even though he's still[r]
-Tadahiko, he lives in a different world from us, leaving me[r]
-unable to say anything as we walked aimlessly together.[pcms]
+さっき彦ちんと逢ったときに感じた疎外感って言うか、[r]
+彦ちんは彦ちんなのに、住む世界が違うって改めて[r]
+感じたせいで何も言えなくて、ぶらぶらと二人で歩く。[pcms]
 
 *1775|
 [fc]
-Along the way, Tadahiko found Yuuho's banner and looked up[r]
-at it with joy.[pcms]
+途中、例の悠帆の横断幕を見つけた彦ちんが、[r]
+嬉しそうにそれを見上げた。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1776|
 [fc]
-[ns]Tadahiko[nse]
-"Go for it, Kannagi Yuuho. Looks like Yuuho is really trying[r]
-hard."[pcms]
+[ns]忠彦[nse]
+「頑張れ、神凪　悠帆、か。悠帆のヤツ、[r]
+　頑張ってるみたいだな」[pcms]
 
 *1777|
 [fc]
-[ns]Wataru[nse]
-"Yeah. She's putting a lot of effort into the upcoming[r]
-competition. She's working hard at club activities today[r]
-too."[pcms]
+[ns]航[nse]
+「うん。今度の大会には力を入れてるみたいだよ。[r]
+　今日も部活で頑張ってるし」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1778|
 [fc]
-[ns]Tadahiko[nse]
-"I see. The star of hope is steadily gaining real star power[r]
-then."[pcms]
+[ns]忠彦[nse]
+「そっかぁ。期待の星も、本物のスターとしての力を[r]
+　着実につけてるってわけか」[pcms]
 
 *1779|
 [fc]
-[ns]Wataru[nse]
-"Yeah, that's right."[pcms]
+[ns]航[nse]
+「うん。そうだね」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a3"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1780|
 [fc]
-[ns]Tadahiko[nse]
-"But aren't you in danger then?"[pcms]
+[ns]忠彦[nse]
+「だけどお前、それじゃヤバイんじゃないのか？」[pcms]
 
 *1781|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「えっ？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="tadahiko_a1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1782|
 [fc]
-[ns]Tadahiko[nse]
-"If you're not careful, since she's becoming a star, she[r]
-might disappear like a shooting star before you know it?"[pcms]
+[ns]忠彦[nse]
+「うかうかしてると、相手がスターなだけに、[r]
+　流れ星みてぇにあっという間にいなくなっちまうぜ？」[pcms]
 
 *1783|
 [fc]
-[ns]Wataru[nse]
-"Disappear? Yuuho's family shop is still running though."[pcms]
+[ns]航[nse]
+「いなくなるって……悠帆んちのお店は今も経営中だよ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1784|
 [fc]
-[ns]Tadahiko[nse]
-"I'm not talking about that. I mean someone else might take[r]
-her away from you without you knowing. You've had a crush on[r]
-Yuuho since forever, haven't you?"[pcms]
+[ns]忠彦[nse]
+「そういう意味じゃなくてよ。[r]
+　他の誰かに取られちまっても知らねぇよ、ってことだよ。[r]
+　昔から悠帆に惚れてたろ？」[pcms]
 
 *1785|
 [fc]
-[ns]Wataru[nse]
-"T-Tadahiko? Did you tell Inori-san something unnecessary?"[pcms]
+[ns]航[nse]
+「ひ、彦ちんなの？　緒織さんに余計な事言ったのは」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="tadahiko_a1"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1786|
 [fc]
-[ns]Tadahiko[nse]
-"Huh? I haven't told Inori anything about your feelings for[r]
-Yuuho. Women are sensitive about these things; didn't she[r]
-figure it out by watching you guys?"[pcms]
+[ns]忠彦[nse]
+「えっ？　俺は緒織にお前の悠帆への気持ちを喋った事はねえぞ。[r]
+　女ってのは、そういう所に敏感だからな、[r]
+　お前ら見ててわかったんじゃねえのか？」[pcms]
 
 *1787|
 [fc]
-[ns]Wataru[nse]
-"Sensitive about these things... Yuuho is oblivious though."[pcms]
+[ns]航[nse]
+「女はそういう所に敏感って……悠帆は鈍感だよ」[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a6"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1788|
 [fc]
-[ns]Tadahiko[nse]
-"Ahaha. No kidding. Yuuho has always been strangely boyish[r]
-in some ways. But hey, that straightforwardness is one of[r]
-her good points too."[pcms]
+[ns]忠彦[nse]
+「あはは。違えねえ。悠帆は昔っからヘンな所で[r]
+　男っぽいからな。まぁ、カラっとしてて、[r]
+　ソコがいいトコでもあるが」[pcms]
 
 *1789|
 [fc]
-[ns]Wataru[nse]
-"Well... yeah."[pcms]
+[ns]航[nse]
+「まぁ…ね」[pcms]
 
 *1790|
 [fc]
-Unlike with Inori-san, maybe because it's between guys, or[r]
-maybe because he knows us childhood friends well, I was able[r]
-to talk honestly with Tadahiko.[pcms]
+緒織さんの時とは違って、男同士だからなのか、それとも[r]
+幼馴染でボクらの事をよく知ってるからなのか、[r]
+彦ちんには素直に話せた。[pcms]
 
 *1791|
 [fc]
-I feel like I can talk about the frustration I've been[r]
-carrying inside my heart right now.[pcms]
+ボクの心の中に抱えてる鬱屈を、[r]
+今なら話せるような気がする。[pcms]
 
 *1792|
 [fc]
-But that also became muddled with the talk about Tadahiko's[r]
-"Uncle's" house.[pcms]
+けれどそれも彦ちんの『オジキ』の家について[r]
+ウヤムヤになった。[pcms]
 
 [ChrSetEx layer=5 chbase="tadahiko_a2"][ChrSetXY layer=5 x=181 y=0][trans_c cross time=150]
 
 *1793|
 [fc]
-[ns]Tadahiko[nse]
-"Then, see ya."[pcms]
+[ns]忠彦[nse]
+「それじゃあな」[pcms]
 
 *1794|
 [fc]
-[ns]Wataru[nse]
-"Yeah. See you later."[pcms]
+[ns]航[nse]
+「うん。またね」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *1795|
 [fc]
-As expected of the house of a president of a special[r]
-company, it looked like a pure Japanese-style mansion. I[r]
-watched Tadahiko enter and then headed towards the shrine[r]
-for a walk.[pcms]
+さすがに特殊企業の社長さんの家らしい、純和風の豪邸に[r]
+そのまま入っていく彦ちんを見送って、僕は散歩がてら[r]
+そのまま神社へと向かった。[pcms]
 
 ;//〆：BG:神社
 [bg storage="BG09a"][trans_c cross time=500]
@@ -2810,56 +2787,55 @@ for a walk.[pcms]
 
 *1796|
 [fc]
-The shrine I've been familiar with since childhood is just[r]
-an ordinary shrine with a large cedar tree worshipped as a[r]
-sacred tree, not much different from other shrines.[pcms]
+子供の頃から見慣れた神社は、御神木として祀られている[r]
+大きな杉の木が生えているくらいで、他所の神社とあまり[r]
+代わり映えのしない普通の神社だ。[pcms]
 
 *1797|
 [fc]
-There seems to be an urban legend-like love rumor among the[r]
-girls about the sacred tree, but being a guy, I don't know[r]
-much about it; it's just a prominent meeting spot.[pcms]
+御神木については女子の間で都市伝説のような恋の噂話が[r]
+あるらしいけれど、男であるボクはよく知らないし、[r]
+単に目立つから待ち合わせ場所にしてるくらいだ。[pcms]
 
 *1798|
 [fc]
-In the middle of a hot summer day, no one would choose such[r]
-a place for a meeting spot... or so I thought.[pcms]
+もっとも真夏の真昼間じゃ、誰もこんな場所を[r]
+待ち合わせ場所にしようだなんて酔狂な人は[r]
+いないみたいだけれど……。[pcms]
 
 *1799|
 [fc]
-Wait, is someone there?[pcms]
+って、誰かいる？[pcms]
 
 *1800|
 [fc]
-There are some with bleached hair, but that natural golden[r]
-hair must surely belong to Margarita-senpai.[pcms]
+脱色してるヤツもいるけれど、あの自然な金色の髪は[r]
+きっとマルガリータ先輩だろう。[pcms]
 
 *1801|
 [fc]
-I thought she might be taking a walk like me, but seeing her[r]
-writing something in a notebook, it looks like she's doing[r]
-some research.[pcms]
+ボクみたいに散歩してるのかと思えば、手にしたメモ帳に[r]
+何かを書いてるところを見ると、何か調べ物をしているみたいだ。[pcms]
 
 *1802|
 [fc]
-But who is that woman standing next to her with impressive[r]
-tanned skin, dressed in black?[pcms]
+だけど、その横に立っている褐色の肌が印象的な、[r]
+黒服の女性は誰なんだろう？[pcms]
 
 *1803|
 [fc]
-Could she be a bodyguard?[pcms]
+ボディガードってヤツなのかな。[pcms]
 
 *1804|
 [fc]
-I haven't seen it myself, but considering she was strong[r]
-enough to take down that fat guy from the delinquent group[r]
-yesterday, and her father is an ambassador, she really is a[r]
-lady... after all.[pcms]
+実際に見たわけじゃないけれど、昨日、あの不良グループの[r]
+デブを倒すほど強い先輩だけれど、お父さんは大使だって言うし、[r]
+お嬢様……なんだよな、やっぱり。[pcms]
 
 *1805|
 [fc]
-Considering what happened yesterday, should I call out to[r]
-her?[pcms]
+ここは昨日のこともあるし、[r]
+声をかけておくべきなんだろうか？[pcms]
 
 ;//---------------------------------------------------------------
 ;//◎選択肢
@@ -2869,16 +2845,16 @@ her?[pcms]
 
 ;	[link storage="00080.ks" target=*A]声をかける[endlink]
 ;	[link storage="00080.ks" target=*B]声をかけない[endlink]
-[pcms]
+;	[s]
 
 
 *SEL01|声をかける／声をかけない
 [fc]
 [pcms_sel]
 
-;[eval exp="f.seltext02 = 'This is a sequence of Japanese hiragana characters, not a meaningful sentence It is simply a repetition of the first three lines of the hiragana syllabary: aiueo kakikukeko sashisuseso tachitsuteto aiueo kakikukeko sashisuseso tachitsuteto'"]
-[eval exp="f.seltext02 = 'Speak up'"]
-[eval exp="f.seltext04 = 'Don\'t call out'"]
+;[eval exp="f.seltext02 = 'あいうえおかきくけこさしすせそたちつてとあいうえおかきくけこさしすせそたちつてと'"]
+[eval exp="f.seltext02 = '声をかける'"]
+[eval exp="f.seltext04 = '声をかけない'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -2919,19 +2895,18 @@ her?[pcms]
 
 *1806|
 [fc]
-After what happened yesterday, I really should say[r]
-something.[pcms]
+昨日のこともあるし、[r]
+やっぱり一言声をかけておくべきだよな。[pcms]
 
 *1807|
 [fc]
-Ever since she transferred in at an odd time during the[r]
-semester, I've been curious but never got the chance to[r]
-speak to her. Now's my chance.[pcms]
+だいたい一学期の変な時期に転入してきてから、気になっては[r]
+いたけれど、ずっと声をかけられなかったんだから、今が[r]
+チャンスなんだ。[pcms]
 
 *1808|
 [fc]
-Convincing myself of that, I approached Margarita-senpai[r]
-with enthusiasm.[pcms]
+ボクはそう思い込むと、張り切って先輩に近づいた。[pcms]
 
 ;//マル子とセスカ、二人立ち
 [ChrSetEx layer=4 chbase="maru_a26"][ChrSetXY layer=4 x=363 y=0]
@@ -2939,20 +2914,20 @@ with enthusiasm.[pcms]
 
 *1809|
 [fc]
-But immediately, the woman standing next to senpai glared at[r]
-me suspiciously.[pcms]
+けれど、ジロリとすぐに訝しげに先輩の隣に[r]
+立ってる女性が睨んでくる。[pcms]
 
 ;//〆　ここで主人公、マルガリータに自己紹介させるか
 
 *1810|
 [fc]
-[ns]Wataru[nse]
-"Hello, senpai."[pcms]
+[ns]航[nse]
+「こんにちは、先輩」[pcms]
 
 *1811|
 [fc]
-Despite feeling intimidated on the inside, I greeted senpai[r]
-as cheerfully as I could.[pcms]
+それに内心ビビリながらも、ボクは先輩にできるだけ[r]
+さわやかに挨拶をした。[pcms]
 
 ;//二人立ち消し。マル子ピン立ちで
 [chara_int]
@@ -2960,156 +2935,150 @@ as cheerfully as I could.[pcms]
 
 *1812|
 [fc]
-But senpai just looked at me sharply like the woman next to[r]
-her and didn't say anything.[pcms]
+けれど先輩は隣の女性と同じようにジロリとボクを見ただけで、[r]
+何も言ってくれない。[pcms]
 
 *1813|
 [fc]
-[ns]Wataru[nse]
-"Thank you for helping my sister when she was being harassed[r]
-yesterday."[pcms]
+[ns]航[nse]
+「昨日は妹が絡まれてた所を助けて頂いて、[r]
+　ありがとうございました」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1814|
 [fc]
 [vo_mar s="maru0004"]
-[ns]Margarita[nse]
-"Yesterday? Ah yes, I did help a girl from the same school.[r]
-Are you her brother?"[pcms]
+[ns]マルガリータ[nse]
+「昨日？　あぁ、そう言えば同じ学園の子を助けたな。[r]
+　君はあの子の兄か？」[pcms]
 
 *1815|
 [fc]
-[ns]Wataru[nse]
-"Yes. Well, the younger brother."[pcms]
+[ns]航[nse]
+「はい。あの、小さいほうの兄です」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1816|
 [fc]
 [vo_mar s="maru0005"]
-[ns]Margarita[nse]
-"If you're her brother, you should watch over your sister[r]
-properly."[pcms]
+[ns]マルガリータ[nse]
+「兄ならば、しっかり妹を見守れ」[pcms]
 
 *1817|
 [fc]
-[ns]Wataru[nse]
-"Yes."[pcms]
+[ns]航[nse]
+「はい」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a26"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1818|
 [fc]
-I felt dejected by such a distant response from someone like[r]
-me, but then I turned my attention to what senpai had been[r]
-earnestly looking at until now.[pcms]
+なんかボク如きが取り付く島もない受け答えにシュンと[r]
+なりながらも、ボクはさっきから熱心に先輩が[r]
+見ていたものに目をやった。[pcms]
 
 *1819|
 [fc]
-It was a stone monument that I never noticed before despite[r]
-playing around here since I was young.[pcms]
+幼い頃からよく遊んでいたはずなのに、全然その存在に[r]
+気がつかなかった石碑だ。[pcms]
 
 *1820|
 [fc]
-At first glance, it seems to be written about the origin of[r]
-the shrine.[pcms]
+ざっと見たところ、神社の所以が書かれてるようだ。[pcms]
 
 *1821|
 [fc]
-[ns]Wataru[nse]
-"I didn't know there was something written about the origin[r]
-here."[pcms]
+[ns]航[nse]
+「こんなところに所以が書かれていたんですね」[pcms]
 
 *1822|
 [fc]
 [vo_mar s="maru0006"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 
 *1823|
 [fc]
-As if she had lost interest in me, senpai didn't respond to[r]
-my question and quickly went back to copying down the[r]
-origin.[pcms]
+ボクにはもう興味をなくしたとでも言うように、[r]
+ボクの問いには答えず、先輩はさっさと所以を[r]
+再び書き写してる。[pcms]
 
 *1824|
 [fc]
-[ns]Wataru[nse]
-"Is it fun researching something like the origin of this[r]
-shrine? It's just an ordinary shrine, isn't it?"[pcms]
+[ns]航[nse]
+「こんな神社の所以なんか調べて、[r]
+　何か楽しいんですか？　ごく普通の神社でしょ？」[pcms]
 
 *1825|
 [fc]
-The moment I said that, senpai shifted her sharp gaze from[r]
-her notebook back to me and glared at me intensely.[pcms]
+そう言ったとたん、先輩はメモしていたメモ帳から[r]
+ボクへとジロリと視線を戻して、[r]
+そのまま睨みつけてきた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1826|
 [fc]
 [vo_mar s="maru0007"]
-[ns]Margarita[nse]
-"Are you a student from the same school? Do you live around[r]
-here?"[pcms]
+[ns]マルガリータ[nse]
+「君は同じ学園の学生と言うことは、この辺りに住んでるのか？」[pcms]
 
 *1827|
 [fc]
-[ns]Wataru[nse]
-"Yes. I've lived here since I was a child."[pcms]
+[ns]航[nse]
+「えぇ。子供の頃から住んでますけど」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1828|
 [fc]
 [vo_mar s="maru0008"]
-[ns]Margarita[nse]
-"Then why do you neglect the history and culture of the[r]
-place where you were born and raised?"[pcms]
+[ns]マルガリータ[nse]
+「ならばなぜ、自分が生まれ育った場所の歴史や文化を[r]
+　疎かにする？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1829|
 [fc]
 [vo_mar s="maru0009"]
-[ns]Margarita[nse]
-"You should pay more respect to the history and culture of[r]
-your own country where you were born and raised."[pcms]
+[ns]マルガリータ[nse]
+「自分の生まれ育った国の歴史や文化には[r]
+　もっと畏敬を払うべきだろう」[pcms]
 
 *1830|
 [fc]
-Until now, senpai had been speaking in a tone without much[r]
-inflection, but as soon as we touched on the topic of[r]
-"national culture," she began to speak in an assertive tone[r]
-as if lecturing me.[pcms]
+それまでは、抑揚のない声で話していた先輩だったが、[r]
+所謂『国の文化』の話題になったとたん、[r]
+まくし立てるような強い口調で語りはじめた。[pcms]
 
 *1831|
 [fc]
-[ns]Wataru[nse]
-"I'm not very good with human history. If anything, I'm more[r]
-interested in celestial observations or the history of[r]
-stars."[pcms]
+[ns]航[nse]
+「人類の歴史のほうは苦手で。どちらかと言うとボクは[r]
+　天体観測というか、星の歴史のほうに興味があるんです」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1832|
 [fc]
 [vo_mar s="maru0010"]
-[ns]Margarita[nse]
-"Oh? You study the history of the star you were born on and[r]
-think that's enough? That's not right. Instead of looking so[r]
-far away, why don't you pay more attention to what's under[r]
-your feet?"[pcms]
+[ns]マルガリータ[nse]
+「ほぉ、自分が生まれた星の歴史を勉強してるから[r]
+　いいだろうと言うのか？　違うだろう。そんな遠くの事よりも[r]
+　もっと自分の足元を見たらどうだ？」[pcms]
 
 *1833|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はい……」[pcms]
 
 *1834|
 [fc]
-I was taken aback by her clear and refreshing rebuke and[r]
-found myself reevaluating senpai.[pcms]
+はっきりキッパリ清々しいまでに言い捨てられて、[r]
+ボクは思わず唖然として先輩を見直してしまった。[pcms]
 
 ;//ラベルjump　「マルガリータは代々木上原へ」
 [jump storage="00080.ks" target=*C]
@@ -3122,29 +3091,29 @@ found myself reevaluating senpai.[pcms]
 
 *1835|
 [fc]
-Luckily senpai seemed too engrossed in her research to[r]
-notice me, and even if I called out to her, she might not[r]
-have noticed me even after yesterday's commotion.[pcms]
+でも幸い先輩は調べ物に夢中でボクに気がついてない[r]
+みたいだし、仮に声をかけてもボクなんて昨日の騒ぎが[r]
+あっても気がついてないかもしれない。[pcms]
 
 *1836|
 [fc]
-We're not exactly acquaintances; we've only passed by each[r]
-other briefly.[pcms]
+元々顔見知りならともかく、チラッとすれ違ったくらいの[r]
+間柄だもんな。[pcms]
 
 *1837|
 [fc]
-To her, I'm probably just one of many faces in the crowd.[pcms]
+こっちは印象深くても、先輩にとってはその他大勢だ。[pcms]
 
 *1838|
 [fc]
-Yesterday's commotion might be the only connection I have[r]
-with her, but with the intimidating look of the woman next[r]
-to senpai, I couldn't bring myself to speak up.[pcms]
+昨日の騒ぎが唯一の縁と言えは縁だけれど、それだけで[r]
+声をかけるには、先輩の隣にいる[r]
+女の人の目つきが怖いし。[pcms]
 
 *1839|
 [fc]
-I might be called a coward by someone who saw me, but all I[r]
-could do was to watch senpai from a distance.[pcms]
+誰かが見ていたらヘタレって言われそうだけれど、[r]
+ボクはなんとなく先輩を見ているしかできなかった。[pcms]
 
 ;//〆：・ラベルjump　「マルガリータは代々木上原へ」
 [jump storage="00080.ks" target=*C]
@@ -3157,86 +3126,84 @@ could do was to watch senpai from a distance.[pcms]
 
 *1840|
 [fc]
-While I was hesitating, it seemed like senpai had finished[r]
-her research and walked off towards Yoyogi-Uehara with her[r]
-companion.[pcms]
+そうこうしてる間に先輩の調べ物は終わったらしく、[r]
+お供の女性と一緒に代々木上原の方向へと歩いていく。[pcms]
 
 *1841|
 [fc]
-[ns]Wataru[nse]
-"Maybe I'm just not meant to be connected with senpai?"[pcms]
+[ns]航[nse]
+「やっぱり先輩には縁がないのかな？」[pcms]
 
 *1842|
 [fc]
-I muttered to myself and trudged back home.[pcms]
+ボソリとボクは独り言を呟いて、[r]
+トボトボと自分の家へと向かった。[pcms]
 
 *1843|
 [fc]
-Not being able to have a proper conversation with senpai[r]
-really makes me feel like a coward.[pcms]
+やっぱり先輩と満足な会話もできないなんて、[r]
+ヘタレだよなぁ。[pcms]
 
 *1844|
 [fc]
-I'm such a coward...[pcms]
+こんなヘタレじゃやっぱり……。[pcms]
 
 *1845|
 [fc]
-Suddenly, I thought about my compatibility with Yuuho, not[r]
-because Hiko-chin or Inori-san pointed it out.[pcms]
+ふと、彦ちんや緒織さんに指摘されたからって[r]
+わけじゃないけれど、ボクは悠帆との釣り合いを考えた。[pcms]
 
 *1846|
 [fc]
-The reason Yuuho has never dated anyone is probably because[r]
-our relationship was misunderstood, or simply because Yuuho[r]
-is out of their league.[pcms]
+そもそも今まで悠帆が誰とも付き合ったことがないのは、[r]
+ボクと悠帆の関係を誤解されてたり、[r]
+悠帆が高嶺の花すぎただけの事だ。[pcms]
 
 *1847|
 [fc]
-If our relationship was just that of childhood friends and[r]
-someone was really confident in themselves, they might want[r]
-to pursue Yuuho, who is considered out of reach.[pcms]
+もしもボクらの関係が単なる幼馴染で、自分に絶対に[r]
+自信がある人なら、高嶺の花である悠帆を[r]
+手折りたくなるかもしれない。[pcms]
 
 *1848|
 [fc]
-Like... for example, someone like Oshima-senpai.[pcms]
+そう……たとえば、大嶋先輩みたいな人なら。[pcms]
 
 *1849|
 [fc]
-By the way, he said we only exchanged email addresses, but I[r]
-wonder what the real story is?[pcms]
+そう言えばメアドを交換しただけって言ってたけど、[r]
+本当のところはどうなんだろう？[pcms]
 
 *1850|
 [fc]
-Could he possibly come to the summer festival?[pcms]
+もしかして夏祭りに来たりするんだろうか？[pcms]
 
 *1851|
 [fc]
-And then, after learning from Yuuho that I'm just a[r]
-childhood friend, he might confess on the spur of the[r]
-moment...[pcms]
+それで、それで、悠帆からボクが単なる幼馴染だって事を[r]
+知らされて、そのままの勢いで告白したり……。[pcms]
 
 *1852|
 [fc]
-Oshima-senpai is the number one handsome guy at school after[r]
-all.[pcms]
+相手は学園Ｎｏ．１イケメンの大嶋先輩だ。[pcms]
 
 *1853|
 [fc]
-Yuuho probably wouldn't mind it either.[pcms]
+悠帆だって悪い気はしないだろう。[pcms]
 
 *1854|
 [fc]
-I heard Oshima-senpai doesn't have a girlfriend right now.[pcms]
+確か大嶋先輩は今彼女がいないって話だし。[pcms]
 
 *1855|
 [fc]
-[ns]Wataru[nse]
-"What should I do..."[pcms]
+[ns]航[nse]
+「どうしよう……」[pcms]
 
 *1856|
 [fc]
-As I sank deeper into a swamp of thoughts, I finally reached[r]
-home with heavy steps.[pcms]
+どっぷりと深い沼に落ち込みながら、[r]
+ボクは重い足取りで家に辿りついた。[pcms]
 
 [stopse buf=0]
 ;//〆：BG：主人公自宅
@@ -3246,45 +3213,43 @@ home with heavy steps.[pcms]
 
 *1857|
 [fc]
-[ns]Wataru[nse]
-"I'm home..."[pcms]
+[ns]航[nse]
+「ただいま……」[pcms]
 
 *1858|
 [fc]
-I muttered as I peeked into the empty living room before[r]
-heading to my room.[pcms]
+ボクは誰もいないリビングに一応顔を出して呟くと、[r]
+そのまま自分の部屋に向かおうとした。[pcms]
 
 *1859|
 [fc]
-It's not like I have anything special to do for the[r]
-festival, but I need to pack up the things I bought today[r]
-and finish preparing for tomorrow's camp. I didn't want to[r]
-see anyone.[pcms]
+お祭りだからって何をするわけでもないけれど、[r]
+今日買ってきた荷物を詰め込んで明日のキャンプの準備を[r]
+完了させなきゃいけないし、誰にも会いたくなかった。[pcms]
 
 *1860|
 [fc]
-[ns]Wataru[nse]
-"Sigh..."[pcms]
+[ns]航[nse]
+「はぁ……」[pcms]
 
 *1861|
 [fc]
-As I sighed and was about to open my room's door, I noticed[r]
-that Ren's door was half open.[pcms]
+ため息をつきつつ、自分の部屋のドアを開けようとすると、[r]
+漣の部屋のドアが半分開いてるのが目に入る。[pcms]
 
 *1862|
 [fc]
-[ns]Wataru[nse]
-"Huh? Isn't everyone supposed to be out? Was it left open[r]
-when they left?"[pcms]
+[ns]航[nse]
+「あれ？　誰もいないはずなのに、出かけに開いてたっけ？」[pcms]
 
 *1863|
 [fc]
-I hope it's not that Ren's window was left open and a[r]
-burglar got in?[pcms]
+まさか漣の部屋の窓が開いていて、[r]
+泥棒が入ってきたわけじゃないだろうな？[pcms]
 
 *1864|
 [fc]
-With that unlikely thought, I peeked into Ren's room.[pcms]
+まさかと思いながら、ボクは漣の部屋を覗き込んだ。[pcms]
 
 [sysbt_meswin clear]
 
@@ -3299,21 +3264,21 @@ With that unlikely thought, I peeked into Ren's room.[pcms]
 
 *1865|
 [fc]
-An unbelievable sight unfolded before my eyes.[pcms]
+信じられない光景がボクの目の前に広がっていた。[pcms]
 
 *1866|
 [fc]
-Ren was there.[pcms]
+漣がそこにいる。[pcms]
 
 *1867|
 [fc]
-Well, it's Ren's room, so that's obvious, but... she's[r]
-wearing a T-back.[pcms]
+いや、それは漣の部屋なんだから当たり前なんだけれど、[r]
+なんていうかその……Ｔバックだ。[pcms]
 
 *1868|
 [fc]
-She seemed to be in the middle of changing into a yukata for[r]
-the summer festival; I couldn't see everything.[pcms]
+夏祭りに行くために浴衣に着替えている途中だったらしく、[r]
+全部は見えなかった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -3324,15 +3289,13 @@ the summer festival; I couldn't see everything.[pcms]
 
 *1869|
 [fc]
-But even though she has a frail body due to congenital[r]
-issues and poor development, the T-back that seemed[r]
-unsuitable for her barely covered her crotch.[pcms]
+けれど、元々病弱と先天的な事情が重なって発育が悪い体には[r]
+不似合いな、Ｔバックが漣の股間を僅かに覆い隠してるのは見えた。[pcms]
 
 *1870|
 [fc]
-Yet, as a girl of her age should be, there were beginnings[r]
-of curves that a young girl wouldn't have around her butt[r]
-and chest area.[pcms]
+でも少女的とは言ってもやっぱりそれなりに年頃の女の子らしく、[r]
+お尻や胸辺りには少女には持ちえない丸みを帯び始めている。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -3343,13 +3306,14 @@ and chest area.[pcms]
 
 *1871|
 [fc]
-The T-back made her ass completely visible, and its perfect[r]
-curve was almost inviting... making me want to touch it.[pcms]
+もちろん、Ｔバックのおかげでお尻の肉は丸見えで、[r]
+その見事な曲線はボクを誘惑するような……[r]
+思わず触れてしまいたくなるような丸さだ。[pcms]
 
 *1872|
 [fc]
-When my gulp sounded unusually loud, Ren's scream shattered[r]
-our frozen moment in time.[pcms]
+ゴクリと生唾を飲み込んだ音がやけに大きく響いた気がした時、[r]
+漣の悲鳴がボクらの凍った時間を溶かした。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -3362,34 +3326,34 @@ our frozen moment in time.[pcms]
 *1873|
 [fc]
 [vo_ren s="ren0073"]
-[ns]Ren[nse]
-"You pervert brother!"[pcms]
+[ns]漣[nse]
+「お兄ちゃんのエッチっ！」[pcms]
 
 *1874|
 [fc]
-[ns]Wataru[nse]
-"I-I'm sorry! I had no idea you were back. The door was[r]
-open, so I just..."[pcms]
+[ns]航[nse]
+「す、すまんっ！　まさかお前が帰ってきてるなんて[r]
+　知らなくて、ドアが開いてたからその……」[pcms]
 
 [evcg storage="EV024b" layer=0][trans_c cross time=0]
 
 *1875|
 [fc]
 [vo_ren s="ren0074"]
-[ns]Ren[nse]
-"Just get out."[pcms]
+[ns]漣[nse]
+「いいから、出てって」[pcms]
 
 *1876|
 [fc]
-[ns]Wataru[nse]
-"Yeah, right. Sorry!"[pcms]
+[ns]航[nse]
+「あっ、そ、そうだよな。すまないっ！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1877|
 [fc]
-I quickly apologized and closed Ren's door in a panic, then[r]
-fled into my own room.[pcms]
+ボクは口早にそう謝ると、漣の部屋のドアを慌てて閉じ、[r]
+自分の部屋に逃げ込んだ。[pcms]
 
 ;//〆：BG：主人公自室
 ;//@konya 夕方
@@ -3398,45 +3362,44 @@ fled into my own room.[pcms]
 
 *1878|
 [fc]
-[ns]Wataru[nse]
-"Sigh... Even if she's my stepsister, what am I thinking?"[pcms]
+[ns]航[nse]
+「はぁ……義理とは言え、妹に何考えてるんだよ」[pcms]
 
 *1879|
 [fc]
-The recent fantasy made me loathe myself even more.[pcms]
+さっきの妄想を思い出して、自己嫌悪が酷くなる。[pcms]
 
 *1880|
 [fc]
-Ren's butt seemed to be saying it wanted me to touch it?[pcms]
+漣のお尻がボクに触れろって言わんばかりだって？[pcms]
 
 *1881|
 [fc]
-That's a terrible fantasy to have about your sister.[pcms]
+妹に対して酷い妄想だ。[pcms]
 
 *1882|
 [fc]
-I'm such a...[pcms]
+こんなボクなんて……。[pcms]
 
 *1883|
 [fc]
-[ns]Wataru[nse]
-"I'm definitely not suited for Yuuho. Someone like Oshima-[r]
-senpai would be much better..."[pcms]
+[ns]航[nse]
+「やっぱり悠帆には似合わないよなぁ。[r]
+　大嶋先輩みたいな人のほうがよっぽど……」[pcms]
 
 *1884|
 [fc]
-I let out a deep sigh and collapsed onto my bed. I threw the[r]
-things I bought around and crawled under the covers without[r]
-unpacking them.[pcms]
+深いため息をついてそのままベッドに倒れこむと、[r]
+ボクは買ってきた物をそこらに放り出したまま、[r]
+布団の中にもぐりこんだ。[pcms]
 
 *1885|
 [fc]
-I wish I could just stay buried here forever, deep down[r]
-inside.[pcms]
+できるなら、このままずっと潜り込んでいたいほど、深く深く。[pcms]
 
 *1886|
 [fc]
-I knew it was impossible though.[pcms]
+そんなことは無理だって事はわかっていたけれど。[pcms]
 
 ;//〆：黒画面
 ;[fadeoutbgm time=500]

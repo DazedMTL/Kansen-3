@@ -5,7 +5,7 @@
 *30030_TOP
 ;{SceneSet グロテスク}
 ;//---------------------------------------------------------------
-;//▲１３：時間切れ
+;//▲１－３：時間切れ
 
 ;//〆♪：感染（revenge
 ;//[bgm storage="BGM10"]
@@ -18,83 +18,84 @@
 
 *46|
 [fc]
-What should I do...!?[pcms]
+どうするべきか……！？[pcms]
 
 *47|
 [fc]
-If I play it safe, I should take the long way around, but if[r]
-I want to go immediately, climbing these stairs is the[r]
-quickest route. Each option has its pros and cons.[pcms]
+安全を取るのならば、回り道だし、[r]
+即行で行くのならこの階段を登るのが早道だ。[r]
+どちらにも一長一短がある。[pcms]
 
 *48|
 [fc]
-[ns]Wataru[nse]
-After all... I want to confirm Ren's safety as soon as[r]
-possible.[pcms]
+[ns]航[nse]
+「やっぱり……早く漣の無事を確認したいしな」[pcms]
 
 *49|
 [fc]
-Alright... shall I go?[pcms]
+よし……行くか！[pcms]
 
 *50|
 [fc]
-Having made up my mind, I stepped onto the first stair.[pcms]
+やっと決心をして、ボクは階段の一段目に[r]
+足をかけた。[pcms]
 
 *51|
 [fc]
-And then--[pcms]
+すると――[pcms]
 
 *52|
 [fc]
-Out of the corner of my eye, I saw something rolling down[r]
-from above. Startled, I stopped in my tracks, and it finally[r]
-came to a halt after hitting the wall on the landing.[pcms]
+目の端に上から何かが転がってくるのが見える。[r]
+思わずギョッとして足を止めたボクの目の前で、[r]
+それは踊り場の壁にぶち当たり、ようやく停止した。[pcms]
 
 *53|
 [fc]
-[ns]Wataru[nse]
-A person...?[pcms]
+[ns]航[nse]
+「人……？」[pcms]
 
 *54|
 [fc]
-Judging by the lack of a uniform, it doesn't seem to be a[r]
-student from the academy. As I stared intently, the figure[r]
-shakily stood up before me.[pcms]
+制服を着ていないところを見ると、[r]
+学園生ではないようだけれども。[r]
+じっと見つめるボクの目の前でゆらりと立ち上がる。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *55|
 [fc]
-It was a man with his dick still out.[pcms]
+それは、モノを出したままの男の姿だった。[pcms]
 
 *56|
 [fc]
-[ns]Wataru[nse]
-Gyaaaaaaaah!![pcms]
+[ns]航[nse]
+「ぎゃあああああっ！！」[pcms]
 
 *57|
 [fc]
-[ns]Infected Man A[nse]
-Food... food...[pcms]
+[ns]感染者・男Ａ[nse]
+「エサ……エサだ……」[pcms]
 
 *58|
 [fc]
-The man with blood-red eyes reached out towards me as I let[r]
-out an involuntary scream.[pcms]
+思わず悲鳴を上げたボクに向かって手を[r]
+伸ばすその男の目は真っ赤。[pcms]
 
 *59|
 [fc]
-Apparently, his pants had fallen down to his ankles,[r]
-tangling his legs and making his already sluggish movements[r]
-even slower.[pcms]
+どうやら中途半端に下ろしたままのズボンに[r]
+足が絡まったらしく、ただでさえ鈍いその動きが[r]
+余計に鈍かった。[pcms]
 
 *60|
 [fc]
-But that doesn't make him any less scary or disgusting.[pcms]
+でもだからといって怖さやキモさが[r]
+半減する訳じゃない。[pcms]
 
 *61|
 [fc]
-This is no good...[pcms]
+ここはダメだ……。[pcms]
 
 ;//〆BG：学園内廊下
 [bg storage="BG017"][trans_c cross time=500]
@@ -102,23 +103,23 @@ This is no good...[pcms]
 
 *62|
 [fc]
-I quickly turned on my heel and dashed towards the back[r]
-staircase.[pcms]
+ボクはくるりと踵を返すと、一目散に奥の階段へ[r]
+向かってダッシュした。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *63|
 [fc]
-I felt like there was someone in the classroom, but without[r]
-checking who or what it was, I ran straight for the back[r]
-stairs.[pcms]
+教室の中に誰かがいるような気配を感じたけれど、[r]
+それが何者なのか、確かめることさえもせずに、[r]
+ボクはまっすぐに奥の階段へと駆け抜ける。[pcms]
 
 ;//〆BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *64|
 [fc]
-And with that momentum, I raced up the stairs.[pcms]
+そしてそのままの勢いで階段を駆け上がった。[pcms]
 
 ;//→block:30050へ
 [jump storage="30050.ks" target=*30050_TOP]

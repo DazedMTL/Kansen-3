@@ -29,96 +29,95 @@
 
 *3204|
 [fc]
-My head feels dull and heavy, as if I've caught a cold. And[r]
-my body feels sluggish.[pcms]
+まるで風邪を引いたみたいに頭が鈍く、重い。[r]
+それに身体もだるい。[pcms]
 
 *3205|
 [fc]
-Waking up in the worst mood, the sight of the cold tiles[r]
-surrounding me made my spirits sink even further.[pcms]
+最悪な気分で目を覚ましたあたしは、[r]
+周りを取り囲む冷たいタイルを見て、更に気分が落ちていった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「そっか……あのまま寝ちゃったんだ、あたし」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3206|
 [fc]
-I ended up falling asleep just like that...[pcms]
+あのまま寝ちゃったんだ、あたし……。[pcms]
 
 *3207|
 [fc]
-The tools I used to escape from unpleasant things were[r]
-scattered on the bathroom floor.[pcms]
+イヤな事から逃げるために使った道具たちは、[r]
+トイレの床に転がっていた。[pcms]
 
 *3208|
 [fc]
-To think I left these things here and slept in such a place.[r]
-What would I do if someone saw me?[pcms]
+こんなモノを置いたまま、こんな所で寝ちゃったなんて。[r]
+誰かに見られたらどうするんだろ。[pcms]
 
 *3209|
 [fc]
-My actions were so thoughtless, and that fact plunged my[r]
-spirits into an even darker abyss.[pcms]
+自分の取った行動があまりにも浅はかで、[r]
+その事もまた、あたしの気持ちを暗い闇の中へと落としていった。[pcms]
 
 *3210|
 [fc]
-But I can't stay like this.[pcms]
+けど、このままじゃいられない。[pcms]
 
 *3211|
 [fc]
-Struggling to move my sluggish body due to waking up and the[r]
-drugs, I tried to put the drug case into my shoulder bag[r]
-when a four-leaf clover choker crammed inside caught my eye.[pcms]
+寝起きとクスリのせいでだるい身体を動かし、[r]
+クスリの入ったケースをショルダーバッグにしまおうとした時、[r]
+バッグの中に押し込まれた四つ葉のチョーカーが目に飛び込んだ。[pcms]
 
 *3212|
 [fc]
-"Wearing such a lame thing around your neck, are you[r]
-stupid!"[pcms]
+『だっさいもの首に巻いてバカじゃないの！』[pcms]
 
 *3213|
 [fc]
-My precious thing. Given to me by someone precious to me.[pcms]
+あたしの大切なモノ。[r]
+あたしの大切な人がくれたモノ。[pcms]
 
 *3214|
 [fc]
-I was supposed to have escaped from unpleasant things. But[r]
-only unpleasant thoughts come to mind.[pcms]
+イヤな事から逃げたはずなのに。[r]
+イヤな事ばかり、頭に浮かぶ。[pcms]
 
 *3215|
 [fc]
-Towards myself.[pcms]
+そんな自分に対して。[pcms]
 
 *3216|
 [fc]
-Feeling irritated with everything around me, I shoved[r]
-everything into the bag so that the choker would be out of[r]
-sight, pushing the drug case in roughly.[pcms]
+自分を取り囲む、全てに対して苛立ちを覚えたあたしは、[r]
+全部をバッグに閉じ込めてしまえと、チョーカーが見えなく[r]
+なるように、クスリのケースを乱暴に押し込んだ。[pcms]
 
 *3217|
 [fc]
-This world should just break. Everything should break and[r]
-start over from the beginning.[pcms]
+こんな世の中、全部壊れてしまえばいい。[r]
+全部壊れて、最初からやりなおせばいい。[pcms]
 
 *3218|
 [fc]
-Me too. If only I could start everything over from the[r]
-beginning...[pcms]
+あたしも。[r]
+あたしも、全部最初からやりなおせれば……。[pcms]
 
 *3219|
 [fc]
-But nothing changes. Everything remains as always.[pcms]
+でも、変わらない。[r]
+何もかも、いつものまま。[pcms]
 
 *3220|
 [fc]
-There are too many unpleasant things, and I can't think[r]
-straight. At times like this, I should drink something to[r]
-calm my nerves a little...[pcms]
+イヤな事が多すぎて、頭が回らない。[r]
+こういうときは、何か飲んで少しでも気持ちを落ち着けよう……。[pcms]
 
 *3221|
 [fc]
-With the bag over my shoulder, I dragged my heavy body out[r]
-of the bathroom.[pcms]
+バッグを肩にかけ、重い身体を引きずるように、トイレから外へ出た。[pcms]
 
 ;//〆：アルカディア
 [bg storage="BG020a"][trans_c cross time=500]
@@ -126,149 +125,157 @@ of the bathroom.[pcms]
 
 *3222|
 [fc]
-On my way to the drink bar, I noticed something odd.[pcms]
+ドリンクバーへと向かう途中、あたしは異変に気が付いた。[pcms]
 
 *3223|
 [fc]
-There's no one else but me. Sure, there's usually no sound[r]
-of people, but there was always a presence.[pcms]
+あたしの他に、誰もいない。[r]
+確かに、いつも人の声はしないけど、気配はあった。[pcms]
 
 *3224|
 [fc]
-Also, there's half-eaten food left on the open-space seats.[pcms]
+それに、オープンスペース席には、食べかけの料理が残っている。[pcms]
 
 *3225|
 [fc]
-No one is at the counter either.[pcms]
+カウンターにも誰もいない。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「どうしたのかな……こんな事今まで無かったのに……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3226|
 [fc]
-What could have happened? This has never happened before...[pcms]
+どうしたんだろう？[r]
+こんな事、今までなかったのに……。[pcms]
 
 *3227|
 [fc]
-As I poured oolong tea into a glass, there was absolutely no[r]
-sign of people around me.[pcms]
+グラスにウーロン茶を注いでいるあたしの周りには、[r]
+人の気配はまるでなかった。[pcms]
 
 ;//SE・ガタガタ
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「……？」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3228|
 [fc]
-A small noise attacked me, who was completely at ease, and[r]
-I almost jumped up in surprise.[pcms]
+安心しきったあたしを、小さな物音が襲い、[r]
+思わず跳ね上がりそうになってしまった。[pcms]
 
 *3229|
 [fc]
-What could it be... Is there someone there...?[pcms]
+なんだろう……。[r]
+だれかいるのかな……。[pcms]
 
 *3230|
 [fc]
-A noise from the back? Maybe from a space for two...[pcms]
+奥の方から物音？[r]
+二人用のスペースかな……。[pcms]
 
 *3231|
 [fc]
-It wasn't that there was no one around. It was just that[r]
-there were no people near me.[pcms]
+誰もいない訳じゃなかった。[r]
+単に、あたしの近くに人がいなかっただけ。[pcms]
 
 *3232|
 [fc]
-But feeling something off, my feet moved towards where the[r]
-noise was coming from.[pcms]
+でも、何か引っかかりを覚えたあたしの足は、[r]
+物音がする方へと向かっていた。[pcms]
 
 *3233|
 [fc]
-However, that was the last of the noises I heard, and when I[r]
-peeked into the space, there was no one there.[pcms]
+だけど、物音はそれっきり聞こえてこないし、[r]
+スペースをのぞき込んでも、誰もいなかった。[pcms]
 
 *3234|
 [fc]
-Only the quiet BGM playing inside the store could be heard.[pcms]
+店内に流れる、静かなＢＧＭだけが聞こえる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「何だろう……何かのイベントかな……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3235|
 [fc]
-Some kind of event? But there were no announcements or[r]
-anything...[pcms]
+何かのイベント？[r]
+でも、特にそんな告知もなかったけど……。[pcms]
 
 *3236|
 [fc]
-A prank targeting me? ...They're mocking me. Thinking about[r]
-this makes me feel stupid too...[pcms]
+あたしをターゲットにした、ドッキリ企画？[r]
+……馬鹿にしてる。[r]
+こんな事考えてるあたしも、馬鹿だ……。[pcms]
 
-[ns]Hostess-style woman[nse]
+;//[ns]キャバ嬢風の女[nse]
 ;//「んぁっ……ふあぁっ」
 ;//＠製品版時に？？？に置換
 ;//ボイスカットのためコメントアウト：佐藤
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「……！　やっぱり、誰かいる？」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3237|
 [fc]
-Is there really someone there!?[pcms]
+やっぱり、誰かいる！？[pcms]
 
 *3238|
 [fc]
-From across the elevator entrance, a woman's voice... moans[r]
-could be heard.[pcms]
+エレベーターエントランスを挟んだ向こう側から、[r]
+女の声が……。[r]
+『あえぎ声』が聞こえてきた。[pcms]
 
 *3239|
 [fc]
-Is there an idiot having sex in a place like this? Or[r]
-watching porn? Either way, it's stupid...[pcms]
+こんな所で、エッチしてるバカがいるの？[r]
+それとも、ＡＶでも見てるの？[r]
+いずれにしても、バカだわ……。[pcms]
 
 *3240|
 [fc]
-Although I mock them in my mind, curiosity got the better of[r]
-me and I tiptoed towards where the voice was coming from.[pcms]
+心の中ではバカにしているけど、[r]
+好奇心わき上がったあたしは、忍び足で、声のする方へと[r]
+向かった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「あれ……？　ドアが壊れてる？」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3241|
 [fc]
-Huh...?[pcms]
+あれ……？[pcms]
 
 *3242|
 [fc]
-One of the booth doors was broken, swinging in time with the[r]
-voice.[pcms]
+一箇所、ブースのドアが壊れ、声に合わせるように[r]
+揺れ動いていた。[pcms]
 
 *3243|
 [fc]
-Someone is in there.[pcms]
+あそこに、誰かがいる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「こんな所で……一体どんなヤツ……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3244|
 [fc]
-In a place like this... what kind of person could it be...[pcms]
+こんな所で……一体どんなヤツが……。[pcms]
 
 *3245|
 [fc]
-Peeking through the gap in the broken door, an even more[r]
-abnormal scene than I had imagined jumped into view.[pcms]
+壊れたドアの隙間から中をのぞき込むと、[r]
+そこには想像していたよりも遙かに異常な光景が、[r]
+目に飛び込んできた。[pcms]
 
 ;//bgm03 rage
 [bgm storage="BGM03"]
@@ -277,14 +284,14 @@ abnormal scene than I had imagined jumped into view.[pcms]
 
 *3246|
 [fc]
-Even as a woman myself, I saw a girl dressed sexily and[r]
-mismatched men engaging in an orgy.[pcms]
+女のあたしが見ても、セクシーな格好をしている女の子と、[r]
+不釣り合いな男達が、乱交をしていた。[pcms]
 
 *3247|
 [fc]
-But in a place like this...[pcms]
+でも、こんな所でなんて……。[pcms]
 
-[ns]Hostess-style woman[nse]
+;//[ns]キャバ嬢風の女[nse]
 ;//「んぶっ……あはぁ！　最高よアンタのチンコ！
 ;//　もっと奥まで突き上げなさいよ！
 ;//　お尻も……もっと……ぷあっ……」
@@ -293,67 +300,68 @@ But in a place like this...[pcms]
 
 *3248|
 [fc]
-[ns]Infected Man H[nse]
-"Still not enough for you... I'm not satisfied either...[r]
-Stick your ass out more!"[pcms]
+[ns]感染者・男Ｈ[nse]
+「まだ足りないのかよ……俺も足りないけどな……。[r]
+　もっとケツこっちに出せよ！」[pcms]
 
 *3249|
 [fc]
-[ns]Infected Man G[nse]
-"This one's tight! Thought she'd be looser, but man, I[r]
-could go at it again and again with her..."[pcms]
+[ns]感染者・男Ｇ[nse]
+「コイツ締まりいいな！　もっとユルいかと思ったけどよ、[r]
+　何回でも出せるぜ、コイツなら……」[pcms]
 
 *3250|
 [fc]
-[ns]Infected Man F[nse]
-"Her tongue skills are good... I'm gonna cum again soon."[pcms]
+[ns]感染者・男Ｆ[nse]
+「舌使い上手くて……俺またイッちまいそうだぜ」[pcms]
 
-[ns]Hostess-style woman[nse]
+;//[ns]キャバ嬢風の女[nse]
 ;//「んっ……！　んんっ！！　んぶぁっ……。
 ;//　イッて！　私の身体で一杯イッてぇっ！
 ;//　アンタ達、最高！　んああっ……ふあっ……！」
 
 *3251|
 [fc]
-What's with these people... I thought they were stupid[r]
-but... this is... They're messed up...[pcms]
+なんなの、この人達……。[r]
+バカだと思ったけど……これは……。[r]
+イカれてる……。[pcms]
 
 *3252|
 [fc]
-It seems like they're high on drugs...[pcms]
+クスリでハイになってるみたい……。[pcms]
 
-[ns]Hostess-style woman[nse]
+;//[ns]キャバ嬢風の女[nse]
 ;//「身体中……セーエキでヌルヌル……あはぁ……んぶっ……、
 ;//　んぐっ……ぢゅばっ……んあぁっ……さ、最高！
 ;//　気持ちいいぃっ！」
 
 *3253|
 [fc]
-[ns]Infected Man H[nse]
-"Ohh... I can't take it anymore! This chick's ass feels so[r]
-damn good!"[pcms]
+[ns]感染者・男Ｈ[nse]
+「おおっ……俺もう駄目だ！　コイツのケツ、[r]
+　すっげー気持ち良い！」[pcms]
 
 *3254|
 [fc]
-[ns]Infected Man F[nse]
-"Me too. With such a lewd woman, no amount of balls would be[r]
-enough! I'm gonna cum again!"[pcms]
+[ns]感染者・男Ｆ[nse]
+「俺もだ。こんなスケベな女相手じゃ、[r]
+　キンタマ何個あっても足りねぇぜ！　もう出ちまう！」[pcms]
 
 *3255|
 [fc]
-[ns]Infected Man G[nse]
-"Me too... I've already cum three times but... again...[r]
-ugh... ughhh...!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「俺も……もう３回も出しちまったけど……また……、[r]
+　うっ……うぉおっ……」[pcms]
 
-[ns]Hostess-style woman[nse]
+;//[ns]キャバ嬢風の女[nse]
 ;//「あっ……あっ……！　んぶっ……じゅるっ！
 ;//　イッ、イキそう……あっ……んぶっ……ああっ！！
 ;//　イクッ！！　んあぁっ！！」
 
 *3256|
 [fc]
-[ns]Infected - Male H & Male G & Male F[nse]
-"Ugh...!!"[pcms]
+[ns]感染者・男Ｈ＆男Ｇ＆男Ｆ[nse]
+「うおっ……！！」[pcms]
 
 ;//〆：ホワイトフラッシュ
 
@@ -361,76 +369,78 @@ ugh... ughhh...!"[pcms]
 
 ;//〆：ホワイトフラッシュ
 
-[ns]Hostess-style woman[nse]
+;//[ns]キャバ嬢風の女[nse]
 ;//「んあぁあっ……セーエキ……セーエキが身体中にぃっ！
 ;//　ふあぁっ……あぁぁっ……」
 
 ;//SE・心臓の鼓動
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「……なに、コイツら……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3257|
 [fc]
-...What? What's with these guys...?[pcms]
+……なに？[r]
+なんなの、コイツら……。[pcms]
 
 *3258|
 [fc]
-The abnormal acts taking place here, and the red glow in the[r]
-eyes of both women and men, struck me with an indescribable[r]
-eeriness, and I involuntarily stepped back.[pcms]
+この場で行われている異常な行為と、[r]
+女も、男も、目が赤く光っている事に、あたしは言い表すことの[r]
+できない不気味さに襲われ、思わず後ずさってしまった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「赤い……目……。
 ;//　あの女と同じ……！？」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3259|
 [fc]
-That woman who appeared at the rave party... The same...?[pcms]
+レイヴパーティーに現れたあの女……。[r]
+あれと同じ……？[pcms]
 
 *3260|
 [fc]
-It seems like they're high on drugs... Having sex like[r]
-they're crazy...[pcms]
+クスリをやってるみたいに。[r]
+イカれたみたいに、エッチして……。[pcms]
 
 *3261|
 [fc]
-Just like that woman...[pcms]
+あの女みたいに……。[pcms]
 
 *3262|
 [fc]
-But why?[pcms]
+でも、どうして？[pcms]
 
 *3263|
 [fc]
-Is everyone but me becoming like this? ...That can't be[r]
-right... can it...?[pcms]
+あたし以外、みんなこんな風におかしくなってるの？[r]
+……そんなはずない……よね……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「と、とりあえずここから逃げた方がいい……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3264|
 [fc]
-Even though they had just climaxed, the group that started[r]
-having sex again didn't seem to notice me at all.[pcms]
+イッた直後だというのに、またエッチを始めた連中は、[r]
+あたしに気が付いた様子は全くなかった。[pcms]
 
 *3265|
 [fc]
-Still, trying to make as little noise as possible, I held my[r]
-breath and fled back to where I had come from.[pcms]
+それでも、できるだけ足音を立てないように、[r]
+あたしは息を殺して、元いた場所の方へと逃げた。[pcms]
 
 ;//〆：アルカディア
 [bg storage="BG020a"][trans_c cross time=500]
 ;[eval exp="f.l_map = 22"]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「はっ……はっ……」
 ;//＠驚きと恐怖で息が上がっている
 ;//ボイスカットのためコメントアウト：佐藤
@@ -438,57 +448,57 @@ breath and fled back to where I had come from.[pcms]
 ;//SE・エレベーターの到着音
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「だ、誰……？」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3266|
 [fc]
-Who's there...?[pcms]
+だ、誰……？[pcms]
 
 *3267|
 [fc]
-Just as I arrived in front of the counter where there had[r]
-been no one before, the elevator arrived at this floor.[pcms]
+さっきまで誰もいなかったカウンターの前に到着するとほぼ同時に[r]
+エレベーターがこの階に到着した。[pcms]
 
 *3268|
 [fc]
-As the elevator doors opened, that strange voice I had just[r]
-heard burst out.[pcms]
+エレベーターの扉が開くと同時に、ついさっき聞いた、[r]
+調子のおかしな声が飛び出してきた。[pcms]
 
 *3269|
 [fc]
-[ns]Infected Man J[nse]
-"Hmm? I smell a bitch around here?"[pcms]
+[ns]感染者・男Ｊ[nse]
+「んん～？　メスの匂いがすんぜぇ？」[pcms]
 
 *3270|
 [fc]
-[ns]Infected Man I[nse]
-"True. Is she nearby?"[pcms]
+[ns]感染者・男Ｉ[nse]
+「ホントだ。近くにいるのか？」[pcms]
 
 *3271|
 [fc]
-[ns]Infected Person - Male K[nse]
-"This time I'm gonna be the first."[pcms]
+[ns]感染者・男Ｋ[nse]
+「俺は今度こそ一番だからな」[pcms]
 
 *3272|
 [fc]
-I couldn't see them yet, but from the voices I could hear,[r]
-it was clear that something was seriously wrong.[pcms]
+姿はまだ見えなかったけど、聞こえてくる声から、[r]
+明らかに異常だと言う事がわかる。[pcms]
 
 *3273|
 [fc]
-Is everyone but me really going crazy?[pcms]
+やっぱり、あたし以外みんなおかしくなってる？[pcms]
 
 *3274|
 [fc]
-I have to escape...[pcms]
+逃げなきゃ……。[pcms]
 
 *3275|
 [fc]
-I reflexively headed towards the toilets. But on the way, I[r]
-saw a sign that read "Shower Room" and twisted my body in[r]
-that direction.[pcms]
+反射的にトイレの方へと向かおうとした。[r]
+だけど、途中で『シャワールーム』と書かれた看板を見つけ、[r]
+その方向へと身体をひねった。[pcms]
 
 ;//〆：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -499,118 +509,118 @@ that direction.[pcms]
 
 *3276|
 [fc]
-Suppressing my trembling body with fear, I dove into the[r]
-shower room and hid.[pcms]
+恐怖に震える身体を押さえ、シャワールームへ飛び込み、[r]
+身を隠す。[pcms]
 
 *3277|
 [fc]
-I wasn't sure, but this place seemed less likely to be[r]
-found. I didn't know how long it would take, but until I[r]
-could outlast them, I decided to hide here.[pcms]
+自信はないけど、ここなら見つかりにくいだろう。[r]
+いつになるかわからないけど、アイツらをやり過ごすまで、[r]
+ここに隠れていよう。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「はぁ……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3278|
 [fc]
-Relieved, I felt a burning thirst in my throat.[pcms]
+安心したあたしは、喉に焼けるような乾きを覚えた。[pcms]
 
 *3279|
 [fc]
-I remembered the glass of oolong tea I was still holding and[r]
-drank it down in one gulp, then gently placed the glass on[r]
-the floor.[pcms]
+手にもったままだったウーロン茶のグラスを思い出し、[r]
+そのまま一気に飲み干し、グラスをそっと床に置いた。[pcms]
 
 *3280|
 [fc]
-Yet still, I couldn't calm my pounding heart.[pcms]
+それでもまだ、脈打つ心臓を抑える事はできなかった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「そ、そうだ……ジン……」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3281|
 [fc]
-That's right... Jin...[pcms]
+そ、そうだ……ジン……。[pcms]
 
 *3282|
 [fc]
-It might just be a placebo. But if I could hear Jin's calm[r]
-voice...[pcms]
+気休めかもしれない。[r]
+でも、ジンのあの落ち着いた声を聞けば。[pcms]
 
 *3283|
 [fc]
-He might also give me some appropriate advice.[pcms]
+それに、何か適切なアドバイスをくれるかも知れない。[pcms]
 
 *3284|
 [fc]
-My fingers were so tense they wouldn't move as I wanted them[r]
-to. Finally, I managed to display Jin's number and pressed[r]
-the call button.[pcms]
+緊張しきった指は、思い通りに動かなかった。[r]
+やっとの事でジンのナンバーを表示させ、通話ボタンを押す。[pcms]
 
 *3285|
 [fc]
-[ns]Mobile Announcement[nse]
-"The line is currently busy. Please try your call again[r]
-later or wait for a while--"[pcms]
+[ns]携帯のアナウンス[nse]
+「現在、回線が混み合っています。もう一度おかけ直し頂くか、[r]
+　しばらく経ってから――」[pcms]
 
 *3286|
 [fc]
-But instead of a dial tone, what came from my phone was a[r]
-cold, merciless mechanical voice.[pcms]
+だが、携帯から聞こえてくるのは発信音ではなく、[r]
+無慈悲なまでに冷たい、機械の声だった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「どういう事？」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3287|
 [fc]
-What does this mean?[pcms]
+どういう事？[pcms]
 
 *3288|
 [fc]
-The lines are busy? I've never experienced this before...[r]
-I've heard that this can happen during major incidents...[pcms]
+回線が混み合ってる？[r]
+こんなの、今まで経験したことない……。[r]
+大事件が起きるとこうなる事もあるって聞いていたけど……。[pcms]
 
 *3289|
 [fc]
-In a panic, I kept calling Jin over and over. But each time,[r]
-all that came back was the cold automated response.[pcms]
+慌てながらも、ジンに何度も電話をかける。[r]
+だけど、毎回帰ってくるのは、冷たい自動応答だった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
-[ns]Mizuki[nse]
+;//[ns]瑞樹[nse]
 ;//「そうだ、メール……！」
 ;//ボイスカットのためコメントアウト：佐藤
 
 *3290|
 [fc]
-That's right, maybe an email...![pcms]
+そうだ、メールなら……！[pcms]
 
 *3291|
 [fc]
-Giving up on the phone that showed no signs of connecting[r]
-after several attempts, I decided to send an email to Jin.[pcms]
+何度かけ直しても一行に繋がる気配のない電話をあきらめて、[r]
+ジンにメールを送る事にした。[pcms]
 
 *3292|
 [fc]
-Help"[pcms]
+『件名：たすけて』[pcms]
 
 *3293|
 [fc]
-"I'm hiding in the LASER internet cafe's shower room. Help[r]
-me!"[pcms]
+『ＬＡＳＥＲの満喫のシャワーしつに隠れてる。[r]
+　たすけて！』[pcms]
 
 *3294|
 [fc]
-Jin... I'm here...[pcms]
+ジン……。[r]
+あたしはここにいる……。[pcms]
 
 *3295|
 [fc]
-Come save me. Please...[pcms]
+助けに来て。お願い……。[pcms]
 
 ;[zapend_random]
 [zapfade]

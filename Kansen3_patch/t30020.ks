@@ -5,7 +5,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//---------------------------------------------------------------
 ;//block:B001
 ;//〆屋上風景（夕方）
@@ -16,27 +16,25 @@
 
 *6160|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「…………悠帆……」[pcms]
 
 *6161|
 [fc]
-"I can't just leave her alone after seeing her back like[r]
-that. It looks so fragile, as if she might start crying at[r]
-any moment."[pcms]
+あんな背中を見たら放っておけない。[r]
+今にも、泣き出してしまいそうな……脆い背中を。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *6162|
 [fc]
-"Worried, I climbed down from the sign and passed through[r]
-the DJ bar's backyard to go back up to the rooftop."[pcms]
+心配になったボクはいったん看板の上から降りて、[r]
+ＤＪバーのバックヤードを通り、再び屋上に出る。[pcms]
 
 *6163|
 [fc]
-"Yuuho was still in the same spot, in the same posture,[r]
-gazing into the distance."[pcms]
+悠帆はまだ同じ場所で、同じ姿勢のまま遠くを見つめていた。[pcms]
 
 ;//〆ＥＶ０１６
 ;//Ａ：遠くを見る悠帆
@@ -47,25 +45,25 @@ gazing into the distance."[pcms]
 *6164|
 [fc]
 [vo_yuh s="yuho_T0024"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「…………」[pcms]
 ;//＠悲しそう
 
 *6165|
 [fc]
-"I quietly walked closer. Yuuho, with her earphones in,[r]
-didn't seem to notice me."[pcms]
+そっと近くに歩いていく。[r]
+イヤホンを付けた悠帆はボクに気付いていないようだった。[pcms]
 
 *6166|
 [fc]
-"Her profile was filled with melancholy... Her soft cheeks[r]
-glowed faintly in the sunset, and her glossy hair swayed in[r]
-the wind..."[pcms]
+憂いをたたえた横顔……。[r]
+柔らかそうな頬が夕日を受けてほんのり光っている。[r]
+艶やかな髪が、風に吹かれてさわさわと揺れている……。[pcms]
 
 *6167|
 [fc]
-"Despite the sadness, she was so beautiful... I forgot to[r]
-speak and was utterly captivated."[pcms]
+とても哀しげなのに……とてもキレイで……、[r]
+ボクは声をかけることも忘れて、うっとりと見惚れてしまう……。[pcms]
 
 ;//Ｂ：こちらを見る悠帆
 [evcg storage="EV016c"][trans_c cross time=300]
@@ -75,79 +73,78 @@ speak and was utterly captivated."[pcms]
 *6168|
 [fc]
 [vo_yuh s="yuho_T0025"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 ;//＠まっすぐな視線を向けて、無言
 
 *6169|
 [fc]
-"Suddenly, as if she noticed my gaze, Yuuho turned to look[r]
-at me."[pcms]
+ふと、ボクの視線に気付いたのか[r]
+悠帆がこちらを振り返った。[pcms]
 
 *6170|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *6171|
 [fc]
-"Caught off guard and unsure of what to say, I remained[r]
-silent and continued to stare at Yuuho."[pcms]
+とっさに何を言えばいいか思いつかず、[r]
+ボクは黙ったまま悠帆を見つめる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6172|
 [fc]
 [vo_yuh s="yuho_T0026"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「…………………………」[pcms]
 ;//＠まっすぐな視線を向けて、無言
 
 *6173|
 [fc]
-"Yuuho was staring back at me."[pcms]
+悠帆もボクを見つめている。[pcms]
 
 *6174|
 [fc]
-"It's not that she was lost in thought... But she didn't[r]
-show any sign of surprise at my presence either."[pcms]
+ぼんやりしているわけじゃない……。[r]
+だけどボクの存在に驚いた素振りも見せない。[pcms]
 
 *6175|
 [fc]
-"She just kept gazing at me intently..."[pcms]
+ただ、ボクをじっと見つめている……。[pcms]
 
 *6176|
 [fc]
-"The dying sun's embers flickered in her eyes. Her clear[r]
-gaze poured straight into me..."[pcms]
+沈んでいく太陽の残り火が、瞳に映って揺らいでいる。[r]
+澄んだまなざしが、まっすぐにボクにそそがれて……。[pcms]
 
 *6177|
 [fc]
-"I felt like I could be drawn into her eyes..."[pcms]
+瞳に引き込まれてしまいそうだ……。[pcms]
 
 [eval exp="f.l_meets_y = 1"]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ｂ１
-;//１１：キスする　→block:T30030
-;//１２：話しかける　→block:T30060
-;//１３：時間切れ　→block:T30070
+;//●時限式選択肢Ｂ－１
+;//１－１：キスする　→block:T30030
+;//１－２：話しかける　→block:T30060
+;//１－３：時間切れ　→block:T30070
 
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="T30030.ks" target=*T30030_TOP]キスする[endlink]
 ;	[link storage="T30060.ks" target=*T30060_TOP]話しかける[endlink]
 ;	;[link storage="T30070.ks" target=*T30070_TOP]時間切れ[endlink]
-;       (link storage="T30070.ks"[r]
-target=*T30070_TOP)Yuuho...(endlink)[pcms]
+;	[link storage="T30070.ks" target=*T30070_TOP]悠帆……[endlink][s]
 
 *SEL70|キスする／話しかける／悠帆……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Kiss'"]
-[eval exp="f.seltext04 = 'Talk to'"]
-[eval exp="f.seltext06 = 'Yuuho'"]
+[eval exp="f.seltext02 = 'キスする'"]
+[eval exp="f.seltext04 = '話しかける'"]
+[eval exp="f.seltext06 = '悠帆……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

@@ -20,7 +20,7 @@
 ;mm　やっぱ死んでたら（感染してたら）こここないわ
 ;[link target=*scene_selend]漣　生存[endlink]
 ;[link target=*scene_selend exp="f.l_dead_r = 1"]漣　死亡[endlink]
-;[pcms]
+;[s]
 
 *scene_selend
 
@@ -42,233 +42,239 @@
 
 *1999|
 [fc]
-A row of many men standing in line...[pcms]
+ズラリと立ち並ぶ、沢山の男の人達……。[pcms]
 
 *2000|
 [fc]
-Not just people like Shigeyoshi, but also ordinary office[r]
-workers, and even boys in school uniforms...[pcms]
+シゲさんみたいな人達だけじゃなく、普通の会社員みたいな人も、[r]
+学園の制服を着た男子達までいて……。[pcms]
 
 *2001|
 [fc]
-There must be about 30 to 40 people in total...[pcms]
+全部で３０～４０人くらいいるのかな……。[pcms]
 
 *2002|
 [fc]
-What are they going to do to us? If Shigeyoshi has come[r]
-back... then, surely... No...! Wataru... Wataru...![pcms]
+わたし達、何されちゃうの？[r]
+シゲさんがここに戻ってきたってことは……や、やっぱり……。[r]
+イヤっ……！　航っ……航ぅ……！[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2003|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hehe... Now, the last one makes her appearance... With[r]
-this, everyone's here."[pcms]
+[ns]重吉[nse]
+「へへ……さぁ、最後の一人のお出ましだな……。[r]
+　これで全員、勢ぞろいだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2004|
 [fc]
 [vo_mar s="maru1214"]
-[ns]Margarita[nse]
-"Ugh... let go of me!"[pcms]
+[ns]マルガリータ[nse]
+「くっ……離しなさいっ！」[pcms]
 
 *2005|
 [fc]
-The senior was brought to us as if she was pushed away.[pcms]
+先輩が突き飛ばされるようにしてわたし達のところに[r]
+連れてこられた。[pcms]
 
 *2006|
 [fc]
-Even the strong senior is no good... With this number of[r]
-people, there's really nothing we can do...[pcms]
+先輩……あんなに強い先輩でも、ダメなんだ……。[r]
+この人数じゃ、やっぱりどうしようも……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2007|
 [fc]
-[ns]Shigeyoshi[nse]
-"Huh? What about the rest? There was a brat, wasn't there!?"[pcms]
+[ns]重吉[nse]
+「ん？　残りはどうしたんだ？[r]
+　ガキがいただろ！？」[pcms]
 
 *2008|
 [fc]
-[ns]Thug A[nse]
-"Well, about that... he got away."[pcms]
+[ns]チンピラＡ[nse]
+「いや、それが……逃げられちまいまして」[pcms]
 
 *2009|
 [fc]
-The brat? Wataru? Wataru... I see, Wataru is safe... thank[r]
-goodness.[pcms]
+ガキ？　航？[r]
+航……そっか、航は無事なんだ……良かった。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2010|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hmph, the brat and Mizuki aren't here either... well, it's[r]
-fine. Having three girls is more than enough."[pcms]
+[ns]重吉[nse]
+「ふん、バカガキと瑞樹もいねぇじゃねぇか……まぁいい。[r]
+　女が３人も手に入りゃ上等だ」[pcms]
 
 *2011|
 [fc]
-Shigeyoshi's lecherous gaze glares at us. A gaze like he's[r]
-toying with girls... don't look at me with those eyes...[pcms]
+シゲさんのギラギラとしたいやらしい視線が、わたし達に[r]
+向けられてくる。[r]
+女の子を嬲るような視線……そんな目で見ないで……。[pcms]
 
 *2012|
 [fc]
-The kind of gaze I felt even during competitions and[r]
-practice. But in those places, it was just unpleasant[r]
-feelings... I'm scared... Wataru...![pcms]
+大会や練習中にも、感じていた種類の視線。[r]
+でも、ああいう場所じゃイヤな思いをするくらいだったけど……[r]
+恐いよ……航……！[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2013|
 [fc]
 [vo_mar s="maru1215"]
-[ns]Margarita[nse]
-"I'm sorry... I wanted to let everyone escape... It's my[r]
-fault for not being strong enough."[pcms]
+[ns]マルガリータ[nse]
+「済まない……ミンナを逃がしてあげたかったのだが……。[r]
+　ワタシの力不足のせいで」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2014|
 [fc]
 [vo_ren s="ren1156"]
-[ns]Ren[nse]
-"It's not like that... It's not the senior's fault...!"[pcms]
+[ns]漣[nse];//♂:生存時のみ
+「そんな……先輩のせいなんかじゃ……！」[pcms]
 
 *2015|
 [fc]
 [vo_yuh s="yuho1267"]
-[ns]Yuuho[nse]
-"That's right, so please don't say such things...!"[pcms]
+[ns]悠帆[nse]
+「そうですよ、だからそんなこと言わないでください……！」[pcms]
 
 *2016|
 [fc]
-I was surprised by the senior's words and raised my voice[r]
-without thinking. Maybe the senior... could have escaped if[r]
-she was alone. Did I... become a burden?[pcms]
+先輩の言葉に驚き、とっさに声を上げてしまった。[r]
+もしかして、先輩……自分だけだったら逃げられたんじゃ……。[r]
+わたしが……足手まといになっちゃったの？[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2017|
 [fc]
-[ns]Shigeyoshi[nse]
-"Now then... now that everyone's here, shall we begin?[r]
-...But first, we need to do the final touches. The grand[r]
-finale of my conquest."[pcms]
+[ns]重吉[nse]
+「さぁて……みんな揃ったところで始めるか？[r]
+　……っとぉ、その前に、最後の仕上げをしなくちゃなぁ。[r]
+　俺様の天下取りの総仕上げをよぉ」[pcms]
 
 *2018|
 [fc]
-Shigeyoshi's gaze swept over us and stopped abruptly on[r]
-Jin's face.[pcms]
+シゲさんの視線がわたし達を一度見回して、壬さんの顔の上で[r]
+ピタリと止まった。[pcms]
 
 *2019|
 [fc]
-Bloodshot eyes, even the focus seemed dubious. What on earth[r]
-is he planning to do...?[pcms]
+血走った、焦点すら怪しいような目。[r]
+一体、何をするつもりなの……？[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2020|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey, big bro... I've climbed up, see? Not by using my head[r]
-like you, but with a much simpler and clearer method."[pcms]
+[ns]重吉[nse]
+「なぁ、アニキよぉ……俺、のし上がったぜ？[r]
+　アンタみてぇに頭使ってってのじゃなくてよぉ、[r]
+　もっとシンプルで分かりやすい方法でなぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2021|
 [fc]
-[ns]Jin[nse]
-"Ah, seems so... It's quite like you to say that."[pcms]
+[ns]壬[nse]
+「ああ、そうらしいな……お前らしいと言えばらしいな」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2022|
 [fc]
-[ns]Shigeyoshi[nse]
-"Right? That's why I gotta stay true to my style till the[r]
-end, big bro... no, Jin Mitsuki!"[pcms]
+[ns]重吉[nse]
+「だろう？　だからよぉ……その俺様らしさを最後までしなきゃ[r]
+　いけねぇよなぁ、アニキ……いや、眞月　壬よぉ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2023|
 [fc]
 [vo_ren s="ren1157"]
-[ns]Ren[nse]
-"Kyaa!?"[pcms]
+[ns]漣[nse];//♂:生存時のみ
+「きゃっ！？」[pcms]
 
 *2024|
 [fc]
 [vo_yuh s="yuho1268"]
-[ns]Yuuho[nse]
-"Hii...!"[pcms]
+[ns]悠帆[nse]
+「ひっ……！」[pcms]
 
 *2025|
 [fc]
-With a scream, Shigeyoshi drew his gun and pointed the[r]
-muzzle at Jin. This can't be happening... it's not true,[r]
-right?[pcms]
+叫びと共にシゲさんが、拳銃を抜き、銃口を壬さんへと[r]
+突きつけた。[r]
+まさか……嘘だよね？[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2026|
 [fc]
-[ns]Shigeyoshi[nse]
-"We're in the business of violence. That's why we eliminate[r]
-nuisances like this... Right, Jin?"[pcms]
+[ns]重吉[nse]
+「俺達は暴力が商売だ。だから、邪魔モンはこうやって消す……[r]
+　そうだよなぁ、壬よぉ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2027|
 [fc]
-[ns]Jin[nse]
-"Yeah, that's right."[pcms]
+[ns]壬[nse]
+「ああ、そうだな」[pcms]
 
 *2028|
 [fc]
-Shigeyoshi's trembling voice and Jin's indifferent words.[r]
-The situation seemed completely opposite to their[r]
-appearances, making the unreality even stronger.[pcms]
+震えるシゲさんの声と、淡々とした壬さんの言葉。[r]
+見た目とはまるで逆のその状態に、非現実感が[r]
+さらに強くなっていく。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2029|
 [fc]
-[ns]Shigeyoshi[nse]
-"I really was grateful to you. You picked up a dumbass like[r]
-me who was good for nothing and used me. But that's all over[r]
-now... I'm the top dog!"[pcms]
+[ns]重吉[nse]
+「アンタにゃホントに感謝してたんだぜ？[r]
+　バカで使い物にもなりゃしねぇ俺を拾って使ってくれてよぉ。[r]
+　だが、それももう終わりだ……俺様がトップだ！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2030|
 [fc]
-[ns]Jin[nse]
-"That's right... do as you like. Whoever wants to be king[r]
-should just be king."[pcms]
+[ns]壬[nse]
+「そうだな……好きにしろ。[r]
+　王様なんてもんはやりたいヤツがやればいい」[pcms]
 
 *2031|
 [fc]
-Why... why would he say something so provocative? Watching[r]
-this makes me so scared that my body starts shaking...[pcms]
+どうして……わざわざそんな、挑発するようなことを言うの？[r]
+見ているこちらの方が、怖くて身体が震えだしてきちゃうよ……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_i4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *2032|
 [fc]
-[ns]Jin[nse]
-"What's wrong? Can't do it when it comes down to it? Are you[r]
-a fool who can't do anything unless told by me till the very[r]
-end? Go on, try it."[pcms]
+[ns]壬[nse]
+「どうした？　いざとなったらできないか？[r]
+　最後まで俺に言われなきゃ何もできない愚図か、お前は。[r]
+　早くやってみろよ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2033|
 [fc]
-[ns]Shigeyoshi[nse]
-"You bastard! Stop acting like you're my big bro! I'm the[r]
-top dog... I'm number one! I can do whatever I want!!"[pcms]
+[ns]重吉[nse]
+「てめぇ！　いつまでもアニキヅラしてんじゃねぇ！[r]
+　俺がトップだ……俺が一番なんだよ！[r]
+　俺様は好き勝手していいんだよぉ！！」[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
@@ -281,8 +287,8 @@ top dog... I'm number one! I can do whatever I want!!"[pcms]
 *2034|
 [fc]
 [vo_mar s="maru1216"]
-[ns]Margarita[nse]
-"Gah...!!"[pcms]
+[ns]マルガリータ[nse]
+「くっ……！！」[pcms]
 
 ;//--------------------------------------------------------------------
 ;//条件分岐
@@ -298,8 +304,8 @@ top dog... I'm number one! I can do whatever I want!!"[pcms]
 *2035|
 [fc]
 [vo_ren s="ren1158"]
-[ns]Ren[nse]
-"Eh?"[pcms]
+[ns]漣[nse]
+「え？」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10010_02
@@ -307,24 +313,24 @@ top dog... I'm number one! I can do whatever I want!!"[pcms]
 *2036|
 [fc]
 [vo_yuh s="yuho1269"]
-[ns]Yuuho[nse]
-"Wha...!?"[pcms]
+[ns]悠帆[nse]
+「な……！？」[pcms]
 
 *2037|
 [fc]
-A loud bang. Red liquid splattered. And Jin's body slowly[r]
-collapsing.[pcms]
+響いた大きな音。[r]
+飛び散った赤い液体。[r]
+そしてゆっくりと崩れていく壬さんの身体。[pcms]
 
 *2038|
 [fc]
-The abrupt end of it all left my thoughts and comprehension[r]
-paralyzed, unable to understand the reality unfolding before[r]
-me.[pcms]
+あまりにも唐突なその幕切れに、考えや理解力が[r]
+麻痺してしまい、目の前で起こった現実が理解できない。[pcms]
 
 *2039|
 [fc]
-But as I watched the blood slowly spread across the floor,[r]
-my recognition began to widen--[pcms]
+けれど、床にジワジワと血が広がっていくのを見つめると共に、[r]
+認識も広がっていき――[pcms]
 
 ;//--------------------------------------------------------------------
 ;//条件分岐
@@ -340,8 +346,8 @@ my recognition began to widen--[pcms]
 *2040|
 [fc]
 [vo_ren s="ren1159"]
-[ns]Ren[nse]
-"Noooooo!!!"[pcms]
+[ns]漣[nse]
+「いやぁぁああああぁぁぁぁぁぁぁっっ！！！」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10010_04
@@ -349,25 +355,26 @@ my recognition began to widen--[pcms]
 *2041|
 [fc]
 [vo_yuh s="yuho1270"]
-[ns]Yuuho[nse]
-"Kyaaaaaaa!!!"[pcms]
+[ns]悠帆[nse]
+「きゃぁぁぁぁぁぁぁぁぁぁぁぁぁっっ！！！」[pcms]
 
 *2042|
 [fc]
-The screams echoed throughout the main dome.[pcms]
+絶叫が、メインドームいっぱいに響き渡った。[pcms]
 
 *2043|
 [fc]
-Why? Why did he kill him... why was he killed? So easily...[r]
-so anticlimactically![pcms]
+何で？[r]
+どうして殺したの……殺されたの？[r]
+こんなに簡単に……こんなにあっけなく！[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2044|
 [fc]
-[ns]Shigeyoshi[nse]
-"Haah, haah... I killed him... I did it! Now I'm the top[r]
-dog... I'm the king!!"[pcms]
+[ns]重吉[nse]
+「はぁ、はぁ……殺った……殺ってやったぜ……！[r]
+　これで俺様がトップだ……俺が王様なんだよぉぉぉぉっ！！」[pcms]
 
 ;//se073・歓声
 [se buf=0 storage="se073"]
@@ -386,9 +393,9 @@ dog... I'm the king!!"[pcms]
 *2045|
 [fc]
 [vo_ren s="ren1160"]
-[ns]Ren[nse]
-"No, nooo... why is this happening!? Big brother... big[r]
-brother...!"[pcms]
+[ns]漣[nse]
+「嫌っ、嫌ぁっ……こんなの、何で！？[r]
+　お兄ちゃん……お兄ちゃん……！」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10010_06
@@ -396,44 +403,45 @@ brother...!"[pcms]
 *2046|
 [fc]
 [vo_yuh s="yuho1271"]
-[ns]Yuuho[nse]
-"Humans against each other... why do such a thing... they're[r]
-not infected so why...!?"[pcms]
+[ns]悠帆[nse]
+「人間同士なのにっ……何でこんなこと……感染してないのに[r]
+　どうして……！？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2047|
 [fc]
 [vo_mar s="maru1217"]
-[ns]Margarita[nse]
-"This is what humans do..."[pcms]
+[ns]マルガリータ[nse]
+「こういうことをするのよ……人間は」[pcms]
 
 *2048|
 [fc]
-The trembling in my body wouldn't stop at the words of my[r]
-senior. Because... even though we're human! This is just...![pcms]
+先輩の言葉に、身体の震えが止まらなくなる。[r]
+だって……人間なのに！　こんなのって……！[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2049|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hey! Clean this up quickly! You're ruining our fun time."[pcms]
+[ns]重吉[nse]
+「おい！　さっさとコレを片付けろ！[r]
+　折角のお楽しみの時間が台無しになっちまうだろう」[pcms]
 
 *2050|
 [fc]
-While kicking Jin-san's body, Shigeyoshi-san barked orders[r]
-with an excited voice. His facial expression and eyes were[r]
-no longer sane.[pcms]
+壬さんの身体を蹴りつけながら、興奮しきった声で[r]
+命令するシゲさん。[r]
+顔つきも目つきも、もうまともじゃなくなっている。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2051|
 [fc]
-[ns]Shigeyoshi[nse]
-"Alright, that's it, just throw him over there. That's[r]
-fine... Now, it's just these three left... How shall I enjoy[r]
-myself..."[pcms]
+[ns]重吉[nse]
+「よし、そうだ、その辺に放り投げておけ。[r]
+　それでいい……さて、あとはこの３人だな……。[r]
+　どうして楽しもうか……」[pcms]
 
 ;//--------------------------------------------------------------------
 ;//条件分岐
@@ -449,8 +457,8 @@ myself..."[pcms]
 *2052|
 [fc]
 [vo_ren s="ren1161"]
-[ns]Ren[nse]
-"No... I don't want this..."[pcms]
+[ns]漣[nse]
+「やっ……やだっ……」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10010_08
@@ -458,44 +466,43 @@ myself..."[pcms]
 *2053|
 [fc]
 [vo_yuh s="yuho1272"]
-[ns]Yuuho[nse]
-"Don't... don't come any closer...!"[pcms]
+[ns]悠帆[nse]
+「こ、来ないで……！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a13"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2054|
 [fc]
 [vo_mar s="maru1218"]
-[ns]Margarita[nse]
-"Don't touch me! You scum!"[pcms]
+[ns]マルガリータ[nse]
+「触るんじゃない！　このクズども！」[pcms]
 
 *2055|
 [fc]
-As if they couldn't hear our screams at all, the men kept[r]
-coming at us one after another.[pcms]
+わたし達の叫びなんか聞こえていないかのように、[r]
+次々とまとわり付いてくる男の人達。[pcms]
 
 *2056|
 [fc]
-The hands reaching out stroked all over my body... No! I[r]
-don't want this![pcms]
+伸びてくる手が身体中を撫で回してきて……イヤっ！[r]
+こんなのイヤぁっ！[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2057|
 [fc]
 [vo_mar s="maru1219"]
-[ns]Margarita[nse]
-"Ugh... cut it out already!"[pcms]
+[ns]マルガリータ[nse]
+「くっ……いい加減にしろ！」[pcms]
 
 *2058|
 [fc]
-Suddenly, my senior burst out from the circle of men and[r]
-dashed towards Shige- san.[pcms]
+突然、先輩が男の人達の輪の中から飛び出して、シゲさんへと[r]
+駆け寄った。[pcms]
 
 *2059|
 [fc]
-Nobody--not even Shige-san--could react to her swift[r]
-movements.[pcms]
+その素早い動きに誰一人として――シゲさんも反応できず――[pcms]
 
 ;//se012・人を殴る音
 [se buf=0 storage="se012"]
@@ -507,95 +514,96 @@ movements.[pcms]
 
 *2060|
 [fc]
-[ns]Shigeyoshi[nse]
-"Guh...!"[pcms]
+[ns]重吉[nse]
+「ぐへぇっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2061|
 [fc]
 [vo_mar s="maru1220"]
-[ns]Margarita[nse]
-"Hmph! You scum!"[pcms]
+[ns]マルガリータ[nse]
+「フンッ！　このゲスめ！」[pcms]
 
 *2062|
 [fc]
-Shige-san's massive body collapsed, and my senior looked[r]
-down at him with cold eyes. But that moment was fleeting--[pcms]
+シゲさんの巨体が崩れ落ち、先輩が冷たい目で見下ろす。[r]
+でも、それも一瞬のことで――[pcms]
 
 *2063|
 [fc]
-[ns]Thug A[nse]
-"You bitch! What do you think you're doing!"[pcms]
+[ns]チンピラＡ[nse]
+「てめぇ！　このアマ！」[pcms]
 
 *2064|
 [fc]
-[ns]Thug B[nse]
-"What the hell are you doing!"[pcms]
+[ns]チンピラＢ[nse]
+「何しやがる！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2065|
 [fc]
 [vo_mar s="maru1221"]
-[ns]Margarita[nse]
-"You...!"[pcms]
+[ns]マルガリータ[nse]
+「こ、このっ！」[pcms]
 
 *2066|
 [fc]
-In the blink of an eye, she was surrounded by the men and[r]
-pinned down.[pcms]
+あっという間に男の人達に取り囲まれ、[r]
+押さえ込まれてしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2067|
 [fc]
-[ns]Shigeyoshi[nse]
-"Guh...ugh...you damn bitch...you have no idea of your[r]
-place... Hey! Someone get some oil from the kitchen!"[pcms]
+[ns]重吉[nse]
+「ぐっ……ぐぅぅ……こ、このクソ女……てめぇの立場が[r]
+　分かってねぇみてぇだな……。[r]
+　おい！　誰かキッチンから油を持って来い！」[pcms]
 
 *2068|
 [fc]
-[ns]Thug A[nse]
-"Huh? Oh, oil, you say?"[pcms]
+[ns]チンピラＡ[nse]
+「へ？　あ、油ですかぃ？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2069|
 [fc]
-[ns]Shigeyoshi[nse]
-"Just hurry up and bring it! I'm going to teach this bitch a[r]
-lesson...!"[pcms]
+[ns]重吉[nse]
+「いいからとっとと持って来い！[r]
+　このアマに思い知らせてやる……！」[pcms]
 
 *2070|
 [fc]
-Her face flushed red, my senior was pinned down by the men,[r]
-glaring down at her with gleaming eyes.[pcms]
+顔を真っ赤にし、男の人達に押さえつけられた先輩を[r]
+ギラギラとした目で見下ろしている。[pcms]
 
 *2071|
 [fc]
-Their eyes were glittering with anger and desire--what are[r]
-they planning to do...?[pcms]
+怒りと欲望でギラつく瞳――何をするつもりなの……？[pcms]
 
 *2072|
 [fc]
-[ns]Thug A[nse]
-"Got it, here's the oil!"[pcms]
+[ns]チンピラＡ[nse]
+「持ってきやした、油！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2073|
 [fc]
-[ns]Shigeyoshi[nse]
-"Yeah, hand it over! Hey, you guys, strip her down!!"[pcms]
+[ns]重吉[nse]
+「おう、よこせ！[r]
+　おい、てめぇらそいつを剥いちまいな！！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a13"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2074|
 [fc]
 [vo_mar s="maru1222"]
-[ns]Margarita[nse]
-"No...stop it!!"[pcms]
+[ns]マルガリータ[nse]
+「やっ……止めろぉっ！！」[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -611,30 +619,31 @@ they planning to do...?[pcms]
 *2075|
 [fc]
 [vo_mar s="maru1223"]
-[ns]Margarita[nse]
-"Ugh...let go! Enough is enough...! You cowards!!"[pcms]
+[ns]マルガリータ[nse]
+「くっ……離せっ！　キサマら、いい加減に……！[r]
+　この卑怯者どもっ！！」[pcms]
 
 *2076|
 [fc]
-[ns]Shigeyoshi[nse]
-"Geh hehe...quite a sight, isn't she?"[pcms]
+[ns]重吉[nse]
+「げへへぇ……なかなかいいザマじゃねぇか」[pcms]
 
 *2077|
 [fc]
 [vo_mar s="maru1224"]
-[ns]Margarita[nse]
-"You...don't look!"[pcms]
+[ns]マルガリータ[nse]
+「このっ……見るなぁっ！」[pcms]
 
 *2078|
 [fc]
-As he poured the oil onto his clenched fist, Shigeyoshi-san[r]
-stripped off her clothes and leered at my senior's exposed[r]
-body with a vulgar grin.[pcms]
+手にしていた油を自分の握り拳にかけながら、服を剥ぎ取られ[r]
+露出してしまった先輩の身体を見つめ、ニヤニヤと下品な笑みを[r]
+浮かべるシゲさん。[pcms]
 
 *2079|
 [fc]
-[ns]Shigeyoshi[nse]
-"I'm gonna let you have a taste of this, huh?"[pcms]
+[ns]重吉[nse]
+「おまえにはコイツを食らわせてやるぜぇ？」[pcms]
 
 ;//〆ＤＥＶー００１（Ｍ１）
 [evcg storage="DEV001b"][trans_c cross time=300]
@@ -642,78 +651,79 @@ body with a vulgar grin.[pcms]
 *2080|
 [fc]
 [vo_mar s="maru1225"]
-[ns]Margarita[nse]
-"What... what are you talking about?!"[pcms]
+[ns]マルガリータ[nse]
+「な……何を？！」[pcms]
 
 *2081|
 [fc]
-Despite glaring at Shigeyoshi-san, my senior's beautiful[r]
-face betrayed her fear as she let out a bewildered cry.[pcms]
+シゲさんを睨み付けながらも、その綺麗な顔に怯えを浮かべ、[r]
+戸惑いの声を上げる先輩。[pcms]
 
 *2082|
 [fc]
-[ns]Shigeyoshi[nse]
-"I'm saying I'm gonna ram this arm in, that's what!"[pcms]
+[ns]重吉[nse]
+「この腕をブチ込んでやるって言ってるんだよぉ！」[pcms]
 
 *2083|
 [fc]
 [vo_mar s="maru1226"]
-[ns]Margarita[nse]
-"Wha...!? No, stop... eek!!"[pcms]
+[ns]マルガリータ[nse]
+「なっ……！？　やっ、止めっ……ひっ！！」[pcms]
 
 *2084|
 [fc]
-My senior's face turned pale at Shigeyoshi-san's words, and[r]
-she thrashed about, trying to escape.[pcms]
+シゲさんの言葉に顔を真っ青にして、ジタバタと[r]
+全身を振るわせて逃げ出そうとする先輩。[pcms]
 
 *2085|
 [fc]
-But being held down by several men, she couldn't do[r]
-anything, and Shigeyoshi-san touched her pussy.[pcms]
+だけど、何人もの男の人に押さえ込まれていては何もできず、[r]
+シゲさんの手にアソコを触られてしまった。[pcms]
 
 *2086|
 [fc]
 [vo_mar s="maru1227"]
-[ns]Margarita[nse]
-"Ah... no! Don't touch! Not there... ugh! Stop it... get off[r]
-me!!"[pcms]
+[ns]マルガリータ[nse]
+「いっ……やっ！　触るなっ！　そんなトコロっ……くぅっ！[r]
+　止めっ……離れろっ！！」[pcms]
 
 *2087|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uhehe... quite a pretty pussy you've got there... huh? Oh,[r]
-what do we have here... a virgin, no less. Gufufu, this is[r]
-great!"[pcms]
+[ns]重吉[nse]
+「うへへ……なかなかキレイなオメコじゃねぇか……ん？[r]
+　ほぉ、これはこれは……まさか処女だったとはなぁ。[r]
+　ぐふふ、こいつぁいいぜ！」[pcms]
 
 *2088|
 [fc]
 [vo_mar s="maru1228"]
-[ns]Margarita[nse]
-"Ugh... uuuuh!"[pcms]
+[ns]マルガリータ[nse]
+「くっ……ぅぅっ！」[pcms]
 
 *2089|
 [fc]
-With her pussy being roughly fiddled with by greasy fingers,[r]
-my senior twisted her face in pain.[pcms]
+油まみれの指で、グニグニと乱暴にアソコをいじられ、[r]
+苦痛に顔を歪める先輩。[pcms]
 
 *2090|
 [fc]
-Little by little, Shigeyoshi-san's fingers entered my[r]
-senior's pussy... No way... it can't be... something like[r]
-that...[pcms]
+少しずつ、シゲさんの指が先輩のアソコの中に入っていって……[r]
+まさか……嘘……だよね？[r]
+そんなの……。[pcms]
 
 *2091|
 [fc]
-[ns]Shigeyoshi[nse]
-"Fufufu... I'm gonna take your virginity with a fist fuck,[r]
-huh!?"[pcms]
+[ns]重吉[nse]
+「ふへへ……このままフィスト・ファックで[r]
+　処女を奪ってやるぜぇ！？」[pcms]
 
 *2092|
 [fc]
 [vo_mar s="maru1229"]
-[ns]Margarita[nse]
-"NO!! Stop, stop it... There's no way that can fit... ugh![r]
-Hii...! Gii... aaaaaaaaaah!!!"[pcms]
+[ns]マルガリータ[nse]
+「イヤっ！！　や、止めろっ……止めろぉっ！！[r]
+　そんなの入るわけが……うぐっ！　ひっ……！[r]
+　ぎっ……ああああああああああっっ！！！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 
@@ -723,58 +733,58 @@ Hii...! Gii... aaaaaaaaaah!!!"[pcms]
 
 *2093|
 [fc]
-His hand sank up to the wrist inside my senior, and at the[r]
-same time, a scream loud enough to make you want to cover[r]
-your ears echoed throughout the dome.[pcms]
+ズブズブと先輩の中に手首まで沈み込み、同時に[r]
+耳を覆いたくなるほどの絶叫がドーム中に響き渡った。[pcms]
 
 *2094|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gyahahaha! How's that? The taste of my hand, huh? Feels[r]
-like you're ascending to heaven, doesn't it?"[pcms]
+[ns]重吉[nse]
+「ぎゃははっ！[r]
+　どうだ？　俺様の手の味はよぉ！[r]
+　天にも昇る心地かぁ？」[pcms]
 
 *2095|
 [fc]
 [vo_mar s="maru1230"]
-[ns]Margarita[nse]
-"Ah, ga... gyii... hii, aah..."[pcms]
+[ns]マルガリータ[nse]
+「あ、が……ぎぃっ……ひっ、ぁぁ……」[pcms]
 
 *2096|
 [fc]
-With her eyes wide and tongue sticking out, my senior[r]
-convulsed and trembled all over; Shigeyoshi-san's voice[r]
-probably didn't even reach her ears.[pcms]
+目を剥き、舌を突き出した表情で、全身を震わせ[r]
+痙攣してしまっている先輩の耳には、シゲさんの声なんか[r]
+届いていないだろう。[pcms]
 
 *2097|
 [fc]
-Still, Shigeyoshi-san's delighted voice continued along with[r]
-his actions--[pcms]
+それでも、シゲさんの悦に入った声はその行為と共に続き――[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2098|
 [fc]
-[ns]Shigeyoshi[nse]
-"Now! I'm gonna twist it in all the way to my elbow!!"[pcms]
+[ns]重吉[nse]
+「さぁ！　このまま肘まで捩じ込んでやる！！」[pcms]
 
 *2099|
 [fc]
 [vo_mar s="maru1231"]
-[ns]Margarita[nse]
-"Ugih!! Higah! Agih, guheh!! Guboh...ugeeeeeeeh!!!"[pcms]
+[ns]マルガリータ[nse]
+「うぎっ！！　ひがっ！　あぎっ、ぐへっ！！[r]
+　ぐぼっ……うげぇぇぇぇぇぇっっ！！！」[pcms]
 
 ;//♯_レッドフラッシュ
 [赤フラ]
 
 *2100|
 [fc]
-As Shigeyoshi-san's arm was thrust in further, my senior's[r]
-belly bulged out noticeably.[pcms]
+シゲさんの腕がさらに突き挿れられた途端、先輩のおなかが[r]
+ボコリと盛り上がった。[pcms]
 
 *2101|
 [fc]
-[ns]Shigeyoshi[nse]
-"Orah! Oraaah!"[pcms]
+[ns]重吉[nse]
+「おらっ！　おらぁっ！」[pcms]
 
 ;//♯_レッドフラッシュ
 [赤フラ]
@@ -784,32 +794,32 @@ belly bulged out noticeably.[pcms]
 *2102|
 [fc]
 [vo_mar s="maru1232"]
-[ns]Margarita[nse]
-"Gehih! Ogoh! Gyih...ugaaah!! Geboh, ugeh...goboh,[r]
-buguh...gubuhh!!"[pcms]
+[ns]マルガリータ[nse]
+「げひっ！　おごっ！　ぎぃっ……うがぁぁっ！！[r]
+　げぼっ、うげっ……ごぼっ、ぶぐっ……ぐぶぅっ！！」[pcms]
 
 *2103|
 [fc]
-My senior was convulsing and screaming inhuman cries as if[r]
-her womb and insides were being punched, scattering vomit[r]
-everywhere. This is terrible... this is just too cruel...![pcms]
+子宮を、内臓を殴りつけられ、人間のものとは思えないような[r]
+悲鳴を上げて悶絶し、吐瀉物を撒き散らしてしまう先輩。[r]
+酷い……こんなの、酷すぎるよ……！[pcms]
 
 *2104|
 [fc]
 [vo_mar s="maru1233"]
-[ns]Margarita[nse]
-"Gubuh...ah, aah...hibu, gu...gyiiih..."[pcms]
+[ns]マルガリータ[nse]
+「ぐぶっ……あ、ぁぁ……ひぶ、ぐ……ぎぃぃ……」[pcms]
 
 *2105|
 [fc]
-[ns]Shigeyoshi[nse]
-"What's that? Did you cum because it felt too good?"[pcms]
+[ns]重吉[nse]
+「なんだぁ？[r]
+　よすぎてイっちまったかぁ？」[pcms]
 
 *2106|
 [fc]
-Shigeyoshi-san, spewing out a maniacal laugh, continued to[r]
-violently thrust into my senior who had fainted with her[r]
-eyes rolled back.[pcms]
+狂気にまみれた哄笑を吐き出しながら、白目を剥いて気絶した[r]
+先輩の中をさらに乱暴に突き上げていくシゲさん。[pcms]
 
 [赤フラ]
 [赤フラ]
@@ -817,15 +827,15 @@ eyes rolled back.[pcms]
 
 *2107|
 [fc]
-Each time, my senior's beautifully toned body twitched and[r]
-convulsed.[pcms]
+そのたびにビクビクと、綺麗に引き締まった先輩の身体が跳ね、[r]
+痙攣している。[pcms]
 
 *2108|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gyahahahaha!! Is this the sight of the bitch who's been[r]
-kicking me around all this time? This is what you get for[r]
-defying me! Serves you right!!"[pcms]
+[ns]重吉[nse]
+「ぎゃははははっ！！[r]
+　これが散々俺様を蹴り飛ばしていたアマの姿かよ！[r]
+　俺様に逆らうからだ！　ざまぁみろ！！」[pcms]
 
 ;mm 貼りイチ調整
 [se buf=0 storage="se_sex01"]
@@ -836,21 +846,21 @@ defying me! Serves you right!!"[pcms]
 *2109|
 [fc]
 [vo_mar s="maru1234"]
-[ns]Margarita[nse]
-"Higih! Uguh, aaaaaaaaaah!!!"[pcms]
+[ns]マルガリータ[nse]
+「ひぎっ！[r]
+　うぐっ、あﾞあﾞあﾞあﾞあﾞあﾞあﾞあﾞあﾞあﾞっっ！！！」[pcms]
 
 
 *2110|
 [fc]
-As Shigeyoshi-san pulled his arm out all at once while[r]
-screaming, my senior woke up to the pain and screamed out[r]
-loud.[pcms]
+叫びながらシゲさんが一気に腕を引き抜いた途端、[r]
+その痛みに目覚めて絶叫する先輩。[pcms]
 
 *2111|
 [fc]
 [vo_mar s="maru1235"]
-[ns]Margarita[nse]
-"Ugh...gugih, hih...iaaah..."[pcms]
+[ns]マルガリータ[nse]
+「うっ……ぐぎっ、ひっ……ぃぁぁ……」[pcms]
 
 
 ;SE再生　おしっこ
@@ -859,21 +869,22 @@ loud.[pcms]
 
 *2112|
 [fc]
-Foaming at the mouth and letting out low moans, my senior[r]
-wet herself and lost consciousness again.[pcms]
+口から泡を吹き、低い呻き声を上げながら、[r]
+おしっこを漏らして再び気を失ってしまう先輩。[pcms]
 
 *2113|
 [fc]
 [vo_ren s="ren1162"]
-[ns]Ren[nse]
-"No... I don't want this... Big brother... big brother...[r]
-help me..."[pcms]
+[ns]漣[nse];//♂:生存時のみ
+「いやぁ……こんなの、いや……。[r]
+　お兄ちゃん……お兄ちゃん……助けてぇ……」[pcms]
 
 *2114|
 [fc]
-[ns]Shigeyoshi[nse]
-"Guhehe... it's far from over, you know? It's not ending[r]
-yet. I'll make you fully understand... the terror of me!"[pcms]
+[ns]重吉[nse]
+「ぐへへぇ……まだまだだぜぇ？[r]
+　まだまだ終わらしゃしねぇよ。[r]
+　もっとたっぷりと思い知らせてやる……俺様の恐ろしさをな！」[pcms]
 
 [stopse buf=0]
 
@@ -890,7 +901,7 @@ yet. I'll make you fully understand... the terror of me!"[pcms]
 
 *2115|
 [fc]
-Ren-chan, frightened, curled up and trembled.[pcms]
+怯え、身体を丸めて震える漣ちゃん。[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10010_10
@@ -900,59 +911,60 @@ Ren-chan, frightened, curled up and trembled.[pcms]
 
 *2116|
 [fc]
-Shigeyoshi-san's hand reached out, trying to drag my senior,[r]
-who was still unconscious, back up.[pcms]
+シゲさんの手が伸び、気絶したままの先輩を[r]
+引きずり起こそうとする。[pcms]
 
 *2117|
 [fc]
-That's too much... if he does any more... she'll really[r]
-die... My senior could be killed...![pcms]
+そんな……それ以上したら……ホントに、先輩が死んじゃう……[r]
+先輩も、殺され……！[pcms]
 
 *2118|
 [fc]
 [vo_yuh s="yuho1273"]
-[ns]Yuuho[nse]
-"Please... please stop! Senpai is going to die!!"[pcms]
+[ns]悠帆[nse]
+「も、もう……もうやめて下さい！[r]
+　先輩が死んじゃう！！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2119|
 [fc]
-[ns]Shigeyoshi[nse]
-"Huh? Yuuho-chan, what are you talking about? There's still[r]
-a bunch of guys here who aren't satisfied yet. There's no[r]
-way we're stopping, right?"[pcms]
+[ns]重吉[nse]
+「ああ？　悠帆ちゃんよぉ、何言ってんだぁ？[r]
+　まだまだ満足してねぇ連中がウヨウヨいるんだ。[r]
+　やめるわけがねぇだろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2120|
 [fc]
-[ns]Shigeyoshi[nse]
-"Or what? Are you saying that you, Yuuho-chan, will take[r]
-care of everyone here?"[pcms]
+[ns]重吉[nse]
+「それとも何かぁ？[r]
+　悠帆ちゃんが、全員の相手をしてくれるってぇのか？」[pcms]
 
 *2121|
 [fc]
 [vo_yuh s="yuho1274"]
-[ns]Yuuho[nse]
-"Me...?"[pcms]
+[ns]悠帆[nse]
+「わ、わたし……が？」[pcms]
 
 *2122|
 [fc]
-The faces of the men lined up swelled with even more[r]
-distorted desire at Shige- san's words.[pcms]
+シゲさんの言葉に、ズラリと並んだ男の人達の表情が[r]
+一層膨れ上がった欲望で歪んでいく。[pcms]
 
 *2123|
 [fc]
-Gleaming eyes all turned towards me at once. Eyes filled[r]
-with lust... lecherous eyes staring at me...[pcms]
+ギラギラとした瞳が、一斉にわたしに向けられてくる。[r]
+欲情しきった瞳……わたしを見つめてくる、いやらしい瞳……。[pcms]
 
 *2124|
 [fc]
 [vo_yuh s="yuho1275"]
-[ns]Yuuho[nse]
-"I understand... I'll be the one to take care of everyone...[r]
-So please, no more with Senpai...!"[pcms]
+[ns]悠帆[nse]
+「わ、分かりました……わたしが、みんなの相手をするから……[r]
+　だから、もう先輩には……！」[pcms]
 
 ;//条件分岐
 [if exp="f.l_dead_r==1"][jump storage="BEH_10010.ks" target=*BEH_10010_12][endif]
@@ -965,16 +977,16 @@ So please, no more with Senpai...!"[pcms]
 *2125|
 [fc]
 [vo_yuh s="yuho1276"]
-[ns]Yuuho[nse]
-"And please, help Ren-chan too... I beg you... please..."[pcms]
+[ns]悠帆[nse]
+「漣ちゃんも、助けてあげて……お願い……ですから……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2126|
 [fc]
 [vo_ren s="ren1163"]
-[ns]Ren[nse]
-"Yuuho-chan...!"[pcms]
+[ns]漣[nse]
+「悠帆ちゃん……！」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10010_12
@@ -982,17 +994,17 @@ So please, no more with Senpai...!"[pcms]
 *2127|
 [fc]
 [vo_yuh s="yuho1277"]
-[ns]Yuuho[nse]
-"Please, I'm begging you..."[pcms]
+[ns]悠帆[nse]
+「お、お願いします……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2128|
 [fc]
-[ns]Shigeyoshi[nse]
-"Is that so? If Yuuho-chan is willing to take their place,[r]
-then that's fine by me. Let's have our idol here get[r]
-gangbanged by everyone."[pcms]
+[ns]重吉[nse]
+「そうかそうかぁ。[r]
+　悠帆ちゃんが代わりになってくれるんならいいぜぇ？[r]
+　全員に[ruby text="ま　わ"][ch text="輪姦"]されてくれよぉ、アイドルちゃんよぉ」[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1001,51 +1013,51 @@ gangbanged by everyone."[pcms]
 
 *2129|
 [fc]
-The men let out a cheer in unison following Shige-san's[r]
-honeyed words.[pcms]
+猫撫で声を上げるシゲさんの言葉に続いて、男の人達が一斉に[r]
+歓声を上げた。[pcms]
 
 *2130|
 [fc]
-I'm going to be violated... by so many people... I'm sorry,[r]
-Wataru...[pcms]
+わたし……これから、犯されちゃう……。[r]
+こんなにいっぱいの人達に……ごめんなさい、航……。[pcms]
 
 *2131|
 [fc]
-[ns]Thug B[nse]
-"Oh! Shigeyoshi-san, look what I found?"[pcms]
+[ns]チンピラＢ[nse]
+「おっ！　重吉サン、こんなモンがありましたぜ？」[pcms]
 
 *2132|
 [fc]
-Suddenly, one of the men raised his voice and brought over[r]
-my bag.[pcms]
+突然、そんな声を上げて男の人の一人が持ってきたのは、[r]
+わたしのバッグ。[pcms]
 
 *2133|
 [fc]
-From its gaping mouth, a white competitive swimsuit was[r]
-being pulled out.[pcms]
+開けられた口からは、白の競泳用水着が[r]
+引っ張り出されている。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2134|
 [fc]
-[ns]Shigeyoshi[nse]
-"Oh! This is interesting! A white swimsuit, huh?"[pcms]
+[ns]重吉[nse]
+「おぉう！　こいつぁオモシれぇやぁ！　白水着かぁ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2135|
 [fc]
-[ns]Shigeyoshi[nse]
-"Hm? What's this? ...A violin? We don't need that, put it[r]
-aside."[pcms]
+[ns]重吉[nse]
+「ん？　こりゃなんだぁ？[r]
+　……バイオリン？　んなもんいらねぇ、寄せときな」[pcms]
 ;//♂:漣生存時のみ
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2136|
 [fc]
-[ns]Shigeyoshi[nse]
-"Since we have the chance, why don't we have her wear this?"[pcms]
+[ns]重吉[nse]
+「折角だ、コイツを着てもらおうかぁ？」[pcms]
 
 ;//--------------------------------------------------------------------
 ;//◎選択肢
@@ -1058,21 +1070,23 @@ aside."[pcms]
 
 *2137|
 [fc]
-[ns]Shigeyoshi[nse]
-"Here, put this on. Your familiar swimsuit."[pcms]
+[ns]重吉[nse]
+「ほら、コイツを着るんだよ。[r]
+　着慣れた水着をよぉ」[pcms]
 
 *2138|
 [fc]
 [vo_yuh s="yuho1278"]
-[ns]Yuuho[nse]
-"Here... in this place?"[pcms]
+[ns]悠帆[nse]
+「こ、ここで？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2139|
 [fc]
-[ns]Shigeyoshi[nse]
-"That's right. Show us, let's see you change clothes live."[pcms]
+[ns]重吉[nse]
+「そうだ。[r]
+　見せてくれよぉ、生着替えってヤツをなぁ」[pcms]
 
 
 [chara_int][trans_c cross time=150]
@@ -1082,101 +1096,101 @@ aside."[pcms]
 
 *2140|
 [fc]
-The men let out a cheer in unison following Shige-san's[r]
-honeyed words.[pcms]
+シゲさんの嬲るような言葉を支持するように、ドッと歓声が[r]
+湧き上がる。[pcms]
 
 *2141|
 [fc]
-I'm in no position to refuse... Besides, even if I did,[r]
-they'd force me...[pcms]
+拒否できるような状況じゃない……それに、拒否したって[r]
+無理やり……。[pcms]
 
 *2142|
 [fc]
 [vo_yuh s="yuho1279"]
-[ns]Yuuho[nse]
-"I... understand..."[pcms]
+[ns]悠帆[nse]
+「わ、分かり……ました……」[pcms]
 
 *2143|
 [fc]
-I take the swimsuit from Shige-san's hand and stare at it.[r]
-My familiar competitive swimsuit... I never thought I'd have[r]
-to wear it in a place like this...[pcms]
+シゲさんの手から水着を受け取り、ジッと見つめる。[r]
+着慣れた、競泳用の水着……。[r]
+こんな場所で着ることになるなんて……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2144|
 [fc]
-[ns]Shigeyoshi[nse]
-"Come on, hurry up and change. Everyone can't wait any[r]
-longer."[pcms]
+[ns]重吉[nse]
+「おらおら、ちゃっちゃと着替えちゃってくれよぉ？[r]
+　もうみんな待ちきれねぇんだ」[pcms]
 
 *2145|
 [fc]
 [vo_yuh s="yuho1280"]
-[ns]Yuuho[nse]
-"Yes..."[pcms]
+[ns]悠帆[nse]
+「は、はい……」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *2146|
 [fc]
-I take a deep breath and start to undress, beginning to[r]
-change. Countless gazes pierce my body as I do so...[pcms]
+思い切って服を脱ぎ、着替え始める。[r]
+そんなわたしの身体に、無数の視線が突き刺さってくる……。[pcms]
 
 *2147|
 [fc]
-No... don't look...[pcms]
+いや……見ないでぇ……。[pcms]
 
 *2148|
 [fc]
 [vo_yuh s="yuho1281"]
-[ns]Yuuho[nse]
-"I-I've finished changing..."[pcms]
+[ns]悠帆[nse]
+「き、着替え……終わりました……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2149|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uho~~! The local idol, the star of the swimming world in[r]
-her live swimsuit appearance! And it's an erotically[r]
-outstanding white swimsuit at that!"[pcms]
+[ns]重吉[nse]
+「うほぉ～～！[r]
+　地元のアイドル、競泳界の星の生水着姿！[r]
+　それもエロさ抜群の白水着だぜぇ！」[pcms]
 
 *2150|
 [fc]
-Following Shigeyoshi-san, excited voices rose here and[r]
-there, and lust-filled gazes licked over my body.[pcms]
+シゲさんに続き、あちこちで興奮した声が上がり、[r]
+欲望に満ちた視線がわたしの身体を舐め回してくる。[pcms]
 
 *2151|
 [fc]
-The gazes I felt during practice or at competitions were[r]
-nothing compared to these intensely lecherous stares...[pcms]
+練習中や競技会場でも感じていた視線よりも、さらに[r]
+強烈ないやらしさを帯びた視線……。[pcms]
 
 *2152|
 [fc]
-No... don't look at me with those eyes...[pcms]
+イヤ……そんな目で、見ないで……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2153|
 [fc]
-[ns]Shigeyoshi[nse]
-"What's wrong with a white competitive swimsuit? It clings[r]
-tightly and shows off the body lines so clearly. It's[r]
-arousing."[pcms]
+[ns]重吉[nse]
+「いいじゃねぇか、白い競泳用水着ってぇのはよぉ。[r]
+　ピッチリしてて身体のラインがモロに出ててよぉ。[r]
+　そそられるぜぇ」[pcms]
 
 *2154|
 [fc]
 [vo_yuh s="yuho1282"]
-[ns]Yuuho[nse]
-"No..."[pcms]
+[ns]悠帆[nse]
+「イヤぁ……」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2155|
 [fc]
-[ns]Shigeyoshi[nse]
-"Well then, shall we start having fun?!"[pcms]
+[ns]重吉[nse]
+「それじゃ、早速楽しませてもらおうかぁ！？」[pcms]
 
 ;//se073・歓声
 [se buf=0 storage="se073"]
@@ -1184,8 +1198,8 @@ arousing."[pcms]
 *2156|
 [fc]
 [vo_yuh s="yuho1283"]
-[ns]Yuuho[nse]
-"No! No...noooo..."[pcms]
+[ns]悠帆[nse]
+「イヤッ……イヤッ……いやぁぁ……」[pcms]
 ;//○（小声で呟くようにお願いします）
 
 ;//jump:BEH_10010_C
@@ -1208,141 +1222,140 @@ arousing."[pcms]
 
 *2157|
 [fc]
-[ns]Shigeyoshi[nse]
-"Oh, but before that..."[pcms]
+[ns]重吉[nse]
+「おっと、その前に……」[pcms]
 
 *2158|
 [fc]
-Suddenly, as if remembering something, Shigeyoshi-san[r]
-muttered and called over one of the men.[pcms]
+突然、何かを思い出したようにシゲさんが呟き、[r]
+男の人を一人呼んだ。[pcms]
 
 *2159|
 [fc]
-And after whispering something to the man--[pcms]
+そして男の人に何かを耳打ちすると――[pcms]
 
 *2160|
 [fc]
-[ns]Thug B[nse]
-"Understood, Shigeyoshi-san."[pcms]
+[ns]チンピラＢ[nse]
+「分かりました、重吉サン」[pcms]
 
 *2161|
 [fc]
-He nodded and, along with several other people, approached[r]
-where Senpai and Ren- chan were.[pcms]
+うなずき、周りの数人の人達と一緒に先輩と漣ちゃんの元へと[r]
+近寄っていく。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2162|
 [fc]
 [vo_ren s="ren1164"]
-[ns]Ren[nse]
-"No! Don't come...don't come over!!"[pcms]
+[ns]漣[nse]
+「いやっ！　来ないで……来ちゃいやぁっ！！」[pcms]
 
 *2163|
 [fc]
 [vo_yuh s="yuho1290"]
-[ns]Yuuho[nse]
-"That's not right... You promised! You said you wouldn't do[r]
-anything to Senpai and Ren-chan...!"[pcms]
+[ns]悠帆[nse]
+「そんなっ……約束したのに！　先輩と漣ちゃんには……！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2164|
 [fc]
-[ns]Shigeyoshi[nse]
-"Don't panic, Yuuho-chan. We're just going to take them to a[r]
-different room."[pcms]
+[ns]重吉[nse]
+「慌てるなよ、悠帆ちゃん。[r]
+　ちっと別の部屋に行ってもらうだけだって」[pcms]
 
 *2165|
 [fc]
-Shigeyoshi-san let out a cat-like smile while chuckling.[r]
-Unbelievable... I can't trust anything this man says![pcms]
+ニヤニヤと笑みを浮かべながら、猫撫で声を出すシゲさん。[r]
+信じられない……この人の言うことなんか、[r]
+信じられるはずがない！[pcms]
 
 *2166|
 [fc]
-But...[pcms]
+でも……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2167|
 [fc]
-[ns]Shigeyoshi[nse]
-"Or what? Does Yuuho-chan want to watch that doll get[r]
-gangbanged?"[pcms]
+[ns]重吉[nse]
+「それとも何かぁ？　悠帆ちゃんはあのお人形ちゃんに[r]
+　[ruby text="ま　わ"][ch text="輪姦"]されるところを見て欲しいってのかぁ？」[pcms]
 
 *2168|
 [fc]
 [vo_yuh s="yuho1291"]
-[ns]Yuuho[nse]
-"Ugh..."[pcms]
+[ns]悠帆[nse]
+「うっ……」[pcms]
 
 *2169|
 [fc]
-That is...[pcms]
+そ、それは……。[pcms]
 
 *2170|
 [fc]
 [vo_yuh s="yuho1292"]
-[ns]Yuuho[nse]
-"You really won't do anything to Ren-chan and Senpai...[r]
-right?"[pcms]
+[ns]悠帆[nse]
+「ほ、ホントに……漣ちゃんと先輩には、何もしないのね……？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2171|
 [fc]
-[ns]Shigeyoshi[nse]
-"Yeah, of course. As long as Yuuho-chan takes care of us."[pcms]
+[ns]重吉[nse]
+「ああ、当然だぁ。[r]
+　悠帆ちゃんが相手をしてくれるんならなぁ」[pcms]
 
 *2172|
 [fc]
 [vo_yuh s="yuho1293"]
-[ns]Yuuho[nse]
-"Kuh..."[pcms]
+[ns]悠帆[nse]
+「くぅっ……」[pcms]
 
 *2173|
 [fc]
-Nodding as if to agree, I hung my head, and Shigeyoshi-san[r]
-laughed heartily with satisfaction and gestured to the men[r]
-with his chin.[pcms]
+うなずくようにして顔を伏せたわたしの姿に、シゲさんが[r]
+満足そうな高笑いをしながらアゴで男の人達に指示を出した。[pcms]
 
 *2174|
 [fc]
-[ns]Thug B[nse]
-"Hey, get up, doll!"[pcms]
+[ns]チンピラＢ[nse]
+「おらっ、立てよお人形さんよぉ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *2175|
 [fc]
 [vo_ren s="ren1165"]
-[ns]Ren[nse]
-"No! Yuuho-chan! Yuuho-chaaan!!"[pcms]
+[ns]漣[nse]
+「いやぁっ！　悠帆ちゃん！　悠帆ちゃぁんっ！！」[pcms]
 
 *2176|
 [fc]
 [vo_yuh s="yuho1294"]
-[ns]Yuuho[nse]
-"Ren-chan! Ren-chan...!"[pcms]
+[ns]悠帆[nse]
+「漣ちゃん！　漣ちゃん……！」[pcms]
 
 *2177|
 [fc]
-Ren-chan was dragged away as if being pulled. This is for[r]
-the best... right? This way, I can protect Ren-chan...[r]
-Wataru...[pcms]
+引き摺られるようにして連れて行かれる漣ちゃん。[r]
+これでいい……んだよ……ね？[r]
+これで、漣ちゃんを守れるんだよね……航……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2178|
 [fc]
-[ns]Shigeyoshi[nse]
-"Now, everything's ready... Let's enjoy ourselves."[pcms]
+[ns]重吉[nse]
+「さぁ、準備は整ったぜぇ……お楽しみといこうか」[pcms]
 
 *2179|
 [fc]
 [vo_yuh s="yuho1295"]
-[ns]Yuuho[nse]
-"Uuh..."[pcms]
+[ns]悠帆[nse]
+「ぅぅっ……」[pcms]
 
 ;//--------------------------------------------------------------------
 ;//合流点
@@ -1351,30 +1364,32 @@ Wataru...[pcms]
 *2180|
 [fc]
 [vo_yuh s="yuho1296"]
-[ns]Yuuho[nse]
-"E-everyone... please use my body... sniffling... to feel[r]
-good... hic... please... uuh..."[pcms]
+[ns]悠帆[nse]
+「み、みんな……わたしの身体を使って……ぐすっ……[r]
+　気持ち良く、なって……ひっく……下さい……ぅぅっ……」[pcms]
 ;//○（涙声で）
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2181|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gyahahaha!! Well said, Yuuho-chan! A lewd declaration from[r]
-the local idol!!"[pcms]
+[ns]重吉[nse]
+「ぎゃははははっ！！[r]
+　よく言えたなぁ、悠帆ちゃんよぉ！[r]
+　地元のアイドルの淫乱宣言だぁ！！」[pcms]
 
 *2182|
 [fc]
-No... nooo... I can't believe I have to say such[r]
-embarrassing things... I don't want this... Wataru...[pcms]
+いやっ……いやぁ……。[r]
+こんな、恥ずかしいこと言わなきゃいけないなんて……。[r]
+やだ……やだよぉ……航……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2183|
 [fc]
-[ns]Shigeyoshi[nse]
-"Alright... next is..."[pcms]
+[ns]重吉[nse]
+「よぉし……それじゃあ、次は……」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1390,149 +1405,154 @@ embarrassing things... I don't want this... Wataru...[pcms]
 
 *2184|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uhooh, this is irresistible! Sticking out that plump ass...[r]
-it's the best view!"[pcms]
+[ns]重吉[nse]
+「うほぉぉ、こりゃたまんねぇぜぇ！[r]
+　ムチムチのケツ突き出して……最高の眺めだ！」[pcms]
 
 *2185|
 [fc]
 [vo_yuh s="yuho1297"]
-[ns]Yuuho[nse]
-"Ugh...sniffling, uuh...no... don't look..."[pcms]
+[ns]悠帆[nse]
+「うくっ……ぐすっ、ぅぅ……いやっ……見ないでぇ……」[pcms]
 
 *2186|
 [fc]
-This pose... my butt is being seen... nooo...[pcms]
+こんな格好……おしり、見られちゃってる……。[r]
+いやぁ……。[pcms]
 
 *2187|
 [fc]
-[ns]Shigeyoshi[nse]
-"How does it feel?"[pcms]
+[ns]重吉[nse]
+「手触りはどうだぁ？」[pcms]
 
 *2188|
 [fc]
 [vo_yuh s="yuho1298"]
-[ns]Yuuho[nse]
-"Hii! No, don't touch...ugh! Nooo, don't stroke my butt like[r]
-that!"[pcms]
+[ns]悠帆[nse]
+「ひぃっ……やっ、あぅぅっ！　いやっ、触っちゃ……うくっ！[r]
+　いやぁ、おしりっ……そんなに撫でないでぇっ！」[pcms]
 
 *2189|
 [fc]
-Shigeyoshi-san's large hand persistently stroked my butt,[r]
-pushing his fingertips against it forcefully.[pcms]
+シゲさんの大きな手が、執拗におしりを撫で回し、グイグイと[r]
+指先を押し付けてくる。[pcms]
 
 *2190|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uooh! It's so plump and soft yet it pushes back with such[r]
-resilience! This is the best ass ever!!"[pcms]
+[ns]重吉[nse]
+「うぉぉぅっ！　ムチムチで柔らかいクセに[r]
+　指を押し返してくる弾力もありやがる！[r]
+　こりゃ最高のケツだぜぇ！！」[pcms]
 
 *2191|
 [fc]
 [vo_yuh s="yuho1299"]
-[ns]Yuuho[nse]
-"No, it hurts...! Don't be so rough...hiu! Kuh, it's...![r]
-Ahh!"[pcms]
+[ns]悠帆[nse]
+「いやっ、痛っ……！[r]
+　そんなに乱暴にっ……ひぅっ！　くっ、いっ……！[r]
+　あくぅっ！」[pcms]
 
 *2192|
 [fc]
-The pain from the kneading and squeezing hands made me[r]
-involuntarily let out a cry, and my body trembled with[r]
-twitches. Nooo... help me, Wataru...[pcms]
+グイグイと揉み上げ、握ってくる手が与える痛みに、[r]
+思わず声が漏れだし、ビクビクと身体が震えてしまう。[r]
+いやっ……助けて、航……！[pcms]
 
 *2193|
 [fc]
-[ns]Shigeyoshi[nse]
-"Well then, the ass is good but the real prize is over[r]
-here... Come on, turn this way!"[pcms]
+[ns]重吉[nse]
+「さぁて、ケツもいいがやっぱり本命はコッチだな……。[r]
+　おらっ、さっさとコッチ向きな！」[pcms]
 
 *2194|
 [fc]
 [vo_yuh s="yuho1300"]
-[ns]Yuuho[nse]
-"Kyaa!? No...nooo!"[pcms]
+[ns]悠帆[nse]
+「きゃっ！？　やっ……いやぁっ！」[pcms]
 
 ;//〆DEV023e（Ｙ２）
 [evcg storage="DEV023e"][trans_c cross time=300]
 
 *2195|
 [fc]
-[ns]Shigeyoshi[nse]
-"Oho! This is Yuuho-chan's... an idol's pussy! Let's see[r]
-here... nchu, belo..."[pcms]
+[ns]重吉[nse]
+「おほぅ！　コレが悠帆ちゃんの……アイドルのオメコかぁ！[r]
+　どれどれ……んちゅっ、べろぉ……」[pcms]
 
 *2196|
 [fc]
 [vo_yuh s="yuho1301"]
-[ns]Yuuho[nse]
-"Hii! No, don't lick...nnnn~~~!! Stop it... it feels[r]
-gross...auu!"[pcms]
+[ns]悠帆[nse]
+「ひぃっ……やっ、舐めっ……んんん～～～っ！！[r]
+　やめっ……気持ち悪っ……あぅぅっ！」[pcms]
 
 *2197|
 [fc]
-Forced to open wide, Shigeyoshi-san's tongue slithered all[r]
-over my exposed pussy.[pcms]
+大きく開くように強制され、露出したアソコに、シゲさんの[r]
+舌がベロベロと這い回る。[pcms]
 
 *2198|
 [fc]
-The disgustingly warm and slimy sensation raced up my spine,[r]
-causing goosebumps to spread all over my body.[pcms]
+ネットリと生温い感触が、嫌悪感となって背筋を駆け上り、[r]
+全身に鳥肌が浮いてしまう。[pcms]
 
 *2199|
 [fc]
 [vo_yuh s="yuho1302"]
-[ns]Yuuho[nse]
-"Ukuh, hii...yaa, no...nkuh, ah...! No, don't open it...ahh,[r]
-you're looking inside...nooo!"[pcms]
+[ns]悠帆[nse]
+「うくっ、ひっ……やぁっ、いっ……んくっ、あっ……！[r]
+　いやっ、開いちゃ……ああっ、中みちゃ……だめぇっ！」[pcms]
 
 *2200|
 [fc]
-[ns]Shigeyoshi[nse]
-"Guhaha... I'm gonna look inside Yuuho-chan's cute pussy...[r]
-Huh? What's this... hey! You little...!"[pcms]
+[ns]重吉[nse]
+「ぐへへぇ……悠帆ちゃんの可愛いオメコの中まで[r]
+　全部のぞいてやるぜぇ……ん？[r]
+　なんだぁ……おいっ！　てめぇこりゃ……！」[pcms]
 
 *2201|
 [fc]
 [vo_yuh s="yuho1303"]
-[ns]Yuuho[nse]
-"Ah...auu..."[pcms]
+[ns]悠帆[nse]
+「あ……あぅぅ……」[pcms]
 
 ;//〆DEV023e（Ｙ２）
 [evcg storage="DEV023f"][trans_c cross time=300]
 
 *2202|
 [fc]
-As soon as my vagina was spread open with his tongue and[r]
-fingers, Wataru's cum started to spill out from inside me.[r]
-Ahh...no...Wataru...Wataru's...[pcms]
+舌と指で膣口を広げられた途端、トロトロとおなかの中から[r]
+航のがこぼれだしてくる。[r]
+あぁ……いやぁ……航……航の……。[pcms]
 
 *2203|
 [fc]
-[ns]Shigeyoshi[nse]
-"This is... could it be that brat's?! Damn it, that little[r]
-brat!! Did he enjoy Yuuho-chan's virginity?!"[pcms]
+[ns]重吉[nse]
+「こいつぁ……まさかあのガキのかよ！[r]
+　クソッ、あのガキゃぁ！！　悠帆ちゃんの処女を[r]
+　堪能したってのかぁ！！」[pcms]
 
 *2204|
 [fc]
 [vo_yuh s="yuho1304"]
-[ns]Yuuho[nse]
-"Hii...hiii!"[pcms]
+[ns]悠帆[nse]
+「ひっ……ひぃっ……！」[pcms]
 
 *2205|
 [fc]
-The sudden fury of Shige-san, like a raging fire, made me[r]
-tremble with a start.[pcms]
+突然、烈火の如く怒り出したシゲさんの迫力に、ビクリと[r]
+身体を震わせてしまう。[pcms]
 
 *2206|
 [fc]
-In that moment, more of Wataru's cum was pushed out,[r]
-overflowing from me.[pcms]
+その拍子に、おなかの奥まで満たされていた航のが、[r]
+さらに押し出されてコプコプとあふれ出す。[pcms]
 
 *2207|
 [fc]
-[ns]Shigeyoshi[nse]
-"Damn it...! I was aiming to break through the hymen[r]
-myself... that damn brat!"[pcms]
+[ns]重吉[nse]
+「くそぅ……処女膜ブチ破るのを狙ってたのによぉ……[r]
+　あのガキゃぁ！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//〆DEV023e（Ｙ２）
@@ -1541,21 +1561,21 @@ myself... that damn brat!"[pcms]
 *2208|
 [fc]
 [vo_yuh s="yuho1305"]
-[ns]Yuuho[nse]
-"No, icky...ugh!!"[pcms]
+[ns]悠帆[nse]
+「やっ、いぎっ……うぐぅっ！！」[pcms]
 
 *2209|
 [fc]
-Shige-san roughly thrust his fingers into me. His fingertips[r]
-scraped and stirred the flesh inside with each movement,[r]
-sending pain through my belly.[pcms]
+荒々しく指をアソコに捩じ込んでくるシゲさん。[r]
+グリグリと指先がアソコのお肉を引っ掻き回し、そのたびに[r]
+痛みがおなかを貫いていく。[pcms]
 
 *2210|
 [fc]
-[ns]Shigeyoshi[nse]
-"Damn it...! Now that it's come to this... I'll thrust my[r]
-cock into your pussy until its shape changes! So much that[r]
-you won't be able to think of that little brat anymore...!"[pcms]
+[ns]重吉[nse]
+「くそっ……！　こうなったら……俺様のイチモツで[r]
+　オメコの形が変わるまでブチ込んでやるぜ！[r]
+　あんなガキのことなんか考えられなくなるくらいなぁ……！」[pcms]
 
 ;//〆DEV015b（Ｙ２）
 [evcg storage="DEV015b"][trans_c cross time=300]
@@ -1563,22 +1583,22 @@ you won't be able to think of that little brat anymore...!"[pcms]
 *2211|
 [fc]
 [vo_yuh s="yuho1306"]
-[ns]Yuuho[nse]
-"No...nooo! Impossible, that's too much...no, I can't take[r]
-it!!"[pcms]
+[ns]悠帆[nse]
+「いっ……いやっ、いやぁっ！[r]
+　無理っ、そんなの……だめっ、無理だからぁ！！」[pcms]
 
 *2212|
 [fc]
-Shige-san's thing that was pulled out was so big and[r]
-brutal... If he inserts that into me... I'll definitely[r]
-break...it'll tear apart inside me...![pcms]
+ズルリと引っ張り出されたシゲさんのソレは、あまりにも[r]
+大きくて、凶悪で……こんなの、挿れられちゃったら……[r]
+絶対壊れちゃう……おなかの中破れちゃう……！[pcms]
 
 *2213|
 [fc]
 [vo_yuh s="yuho1307"]
-[ns]Yuuho[nse]
-"Please...stop it...not that...! If you insert it...agh,[r]
-hii...igiiii!!"[pcms]
+[ns]悠帆[nse]
+「お、お願い……やめて下さいっ……そんなの……！[r]
+　挿れちゃ……あぐっ、ひっ……いぎぃぃぃっ！！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 
@@ -1588,77 +1608,80 @@ hii...igiiii!!"[pcms]
 
 *2214|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uhaa...gyahaha!! It's in...it's in!? My cock is inside an[r]
-idol's pussy!! How does it feel, are you savoring it?!"[pcms]
+[ns]重吉[nse]
+「うはっ……ぎゃはははっ！！[r]
+　入った……入ったぜぇ！？　アイドルのオメコに俺様の[r]
+　イチモツがよぉ！！　どうだ、ちゃんと味わってるかぁ！？」[pcms]
 
 *2215|
 [fc]
 [vo_yuh s="yuho1308"]
-[ns]Yuuho[nse]
-"Higii, no, aaaaah...! It hurts...it hurts so much!! Pull it[r]
-out...no, I'll die...!!"[pcms]
+[ns]悠帆[nse]
+「ひぎっ、いっ、あああ……っ！[r]
+　いっ、痛っ……痛いぃぃぃっ！！[r]
+　抜いてっ……だめっ、し……死んじゃうぅ……っ！！」[pcms]
 
 *2216|
 [fc]
-With a stretching sound echoing through my body, Shige-san's[r]
-thing entered me deeply in one swift motion.[pcms]
+ミチミチと音を身体中に響かせながら、シゲさんのがわたしの[r]
+身体の奥深くまで一気に入ってきた。[pcms]
 
 *2217|
 [fc]
-Stretching the vaginal opening beyond its limits, scraping[r]
-aside the flesh inside, and forcibly prying open the tightly[r]
-closed cervix...[pcms]
+膣口を限界以上に引き伸ばし、膣内のお肉を掻き分けて、[r]
+固く閉ざされた子宮口まで強引に抉じ開けて……。[pcms]
 
 *2218|
 [fc]
 [vo_yuh s="yuho1309"]
-[ns]Yuuho[nse]
-"Kaha...ugh, ugh...! It's suffocating...I can't[r]
-breathe...auh, hii...hiii!"[pcms]
+[ns]悠帆[nse]
+「かはっ……あぐっ、う、ぐぅ……っ！[r]
+　苦し……い、息、できな……あぅっ、ひ……ひぃ……っ！」[pcms]
 
 *2219|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahaha!! How about that! I've taken the virginity of your[r]
-cervix for myself!"[pcms]
+[ns]重吉[nse]
+「げはははっ！！[r]
+　どうだ！　子宮口の処女は俺様がいただいてやったぜぇ！」[pcms]
 
 *2220|
 [fc]
-With a twisted laugh of pleasure, Shige-san pulled back his[r]
-hips. Immediately, the insides of my womb were rubbed raw,[r]
-sending sharp pain throughout my body.[pcms]
+歪んだ悦楽に満ちた笑い声を上げ、腰を引くシゲさん。[r]
+その途端、ゴリゴリと子宮の中が擦り上げられ、痛みが全身を[r]
+ビリビリと走り回る。[pcms]
 
 *2221|
 [fc]
 [vo_yuh s="yuho1310"]
-[ns]Yuuho[nse]
-"Ugii, kaha, higuu...guuun!! My belly...it's breaking! The[r]
-depths of my belly! My womb is being pulled out...eaaaah!!"[pcms]
+[ns]悠帆[nse]
+「うぎっ、かはっ、ひぐっ……ぐぅぅんっ！！[r]
+　お、おなかっ……壊れっ……！　おなかの奥っ！[r]
+　子宮っ、引っ張ら……っ！　引き摺りだされ……ぇぁぁっ！！」[pcms]
 
 *2222|
 [fc]
-The pain as if my womb was being dragged out caused screams[r]
-to well up from the depths of my throat one after another.[pcms]
+子宮を引き摺りだされてしまいそうな痛みに、喉の奥から[r]
+次から次に悲鳴が湧き出してくる。[pcms]
 
 *2223|
 [fc]
-Gazing at me with eyes filled with madness and satisfaction,[r]
-he once again thrust his hard and brutal thing deep into my[r]
-womb.[pcms]
+そんなわたしを、狂気の宿った瞳で満足そうに見つめながら、[r]
+再び子宮の奥まで固くて凶悪なソレを突き挿れてくる。[pcms]
 
 *2224|
 [fc]
 [vo_yuh s="yuho1311"]
-[ns]Yuuho[nse]
-"Higii, agu, gufuu, uuuu!! Kaha, hahi, bufu...guhiii!![r]
-Please stop...forgive me...iaaah!!"[pcms]
+[ns]悠帆[nse]
+「ひぎっ、あぐっ、ぐふっ、ぅぅぅっ！！[r]
+　かはっ、はひっ、ぶふっ……ぐひぃぃっ！！[r]
+　もう、やめっ……許しっ……ぃぁぁっ！！」[pcms]
 
 *2225|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uhooh!! The cervix is clamping down tight! I'm going to[r]
-release inside you directly into your womb!!"[pcms]
+[ns]重吉[nse]
+「うほぉぉっ！！[r]
+　子宮口がギュウギュウ締め付けてきやがるぜぇ！[r]
+　このまま出してやるからな……子宮の中に直接！！」[pcms]
 
 ;//〆DEV015l（Ｙ２）
 [evcg storage="DEV015l"][trans_c cross time=300]
@@ -1666,16 +1689,17 @@ release inside you directly into your womb!!"[pcms]
 *2226|
 [fc]
 [vo_yuh s="yuho1312"]
-[ns]Yuuho[nse]
-"Ugii, no...stop! Stop it! If it's not Wataru's...only[r]
-Wataru's is okay! I can't have a baby with anyone else but[r]
-Wataru!!"[pcms]
+[ns]悠帆[nse]
+「うぎっ、いっ……だめっ！　だめぇっ！[r]
+　航のじゃなきゃ……航のしかだめなのぉっ！！[r]
+　航以外の人の赤ちゃん……できちゃうぅぅっ！！」[pcms]
 
 *2227|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gyahahaha!! Get pregnant! Get pregnant with my sperm! I'll[r]
-fill you up with plenty of my seed!!"[pcms]
+[ns]重吉[nse]
+「ぎゃはははっ！！[r]
+　孕め孕めぇ！　俺様の精子でガキを孕んじまいなぁ！！[r]
+　たっぷりと種付けしてやるからよぉ！！」[pcms]
 
 ;//〆DEV015b（Ｙ２）
 [evcg storage="DEV015c"][trans_c cross time=300]
@@ -1683,8 +1707,9 @@ fill you up with plenty of my seed!!"[pcms]
 *2228|
 [fc]
 [vo_yuh s="yuho1313"]
-[ns]Yuuho[nse]
-"No! Noooo!! Guhi, ah, agu...hii...iiiiinnnn!!!"[pcms]
+[ns]悠帆[nse]
+「いやっ！　いやぁぁっ！！[r]
+　ぐひっ、あ、あぐっ……ひぃ……ぃいいぃんんっっ！！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆DEV015b（Ｙ２）
@@ -1695,65 +1720,66 @@ fill you up with plenty of my seed!!"[pcms]
 *2229|
 [fc]
 [vo_yuh s="yuho1314"]
-[ns]Yuuho[nse]
-"Ahi, kiaa...haa, aunnn!! It's being poured over[r]
-me...directly into the depths of my womb! It's flowing[r]
-in...being poured into me...uku!"[pcms]
+[ns]悠帆[nse]
+「あひっ、きぁっ……はぁっ、あぅぅんっ！！[r]
+　か、かけられっ……子宮の奥っ、直接……っ！[r]
+　流し込まれっ……注ぎ込まれちゃって……うくぅっ！」[pcms]
 
 *2230|
 [fc]
-I could feel the hot liquid being sprayed against the walls[r]
-of my womb deep inside my belly.[pcms]
+おなかの一番奥、子宮の壁にビュルビュルと熱い液が[r]
+かけられているのが分かる。[pcms]
 
 *2231|
 [fc]
-An astonishing amount of sticky fluid filled my belly, which[r]
-had already been full just with Shige-san's thing, making my[r]
-lower abdomen swell even more.[pcms]
+驚くほど大量の粘液が、シゲさんのモノだけでいっぱいに[r]
+なっていたおなかの中に満ちていき、下腹部がさらに[r]
+膨れ上がっていく。[pcms]
 
 *2232|
 [fc]
 [vo_yuh s="yuho1315"]
-[ns]Yuuho[nse]
-"Hii...hiii. Gufu...ugeh, geho...kuh, it's suffocating...my[r]
-belly is in pain!"[pcms]
+[ns]悠帆[nse]
+「ひっ……ひぃぃ……。[r]
+　ぐふっ……うげっ、げほっ……く、苦しっ……[r]
+　おなかっ、苦し……っ！」[pcms]
 
 ;//〆DEV015e（Ｙ２）
 [evcg storage="DEV015e"][trans_c cross time=300]
 
 *2233|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gufuu...with this, I've driven out that brat's sperm. Now[r]
-inside Yuuho-chan's pussy is nothing but my sperm, every[r]
-single drop of it!!"[pcms]
+[ns]重吉[nse]
+「ぐふふぅ……これであのガキの精子は追い出してやったぜぇ。[r]
+　いま悠帆ちゃんのオメコの中にあるのは、[r]
+　一滴残らず全部俺様の精子だぁ！！」[pcms]
 
 *2234|
 [fc]
 [vo_yuh s="yuho1316"]
-[ns]Yuuho[nse]
-"No...Wataru's...Wataru's..."[pcms]
+[ns]悠帆[nse]
+「いやぁ……航……航のがぁ……」[pcms]
 
 *2235|
 [fc]
-Wataru's has been pushed out...washed away...and now inside[r]
-me, Wataru is no longer there...ah, aah...[pcms]
+航の……押し出されちゃった……押し流されて……[r]
+もう、わたしの中に、航は……あ、ぁぁ……。[pcms]
 
 ;[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2236|
 [fc]
-[ns]Shigeyoshi[nse]
-"Now then...it's time for this one! I'll take this virginity[r]
-too!"[pcms]
+[ns]重吉[nse]
+「さぁて……今度はコッチだ！[r]
+　コッチの処女もいただくぜぇ……！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2237|
 [fc]
 [vo_yuh s="yuho1317"]
-[ns]Yuuho[nse]
-"Hiu...kuh, haaah..."[pcms]
+[ns]悠帆[nse]
+「ひぅっ……くっ、はぁぁ……」[pcms]
 
 ;//♯_レッドフラッシュ
 ;//〆DEV016b（Ｙ２）
@@ -1764,16 +1790,15 @@ too!"[pcms]
 *2238|
 [fc]
 [vo_yuh s="yuho1318"]
-[ns]Yuuho[nse]
-"Ugii...it hurts...auh, guhih...! Igoo...guhaa,[r]
-aaaaaahhhhh!!!"[pcms]
+[ns]悠帆[nse]
+「うぎっ……ぃっ……あぅっ、ぐひっ……！[r]
+　いぐぅ……ぐはっ、あﾞあﾞあﾞあﾞあﾞあﾞっっ！！！」[pcms]
 
 *2239|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uhahaha!! I've taken your ass virginity too!! A tight and[r]
-firm asshole... serves you right! Take that you little[r]
-brat!"[pcms]
+[ns]重吉[nse]
+「うはははっ！！　ケツ穴処女いただきだぁっ！！[r]
+　ギチギチでキツキツなケツ穴……ざまぁみろ！　あのガキめ！」[pcms]
 
 ;//〆DEV016（Ｙ２）
 [evcg storage="DEV016c"][trans_c cross time=300]
@@ -1783,19 +1808,18 @@ brat!"[pcms]
 *2240|
 [fc]
 [vo_yuh s="yuho1319"]
-[ns]Yuuho[nse]
-"Uuhh...kuhaa, haa, haa..haii, iiii! It hurts...it's so[r]
-painful!"[pcms]
+[ns]悠帆[nse]
+「うぅっ……くはっ、はぁ、はぁ……はひっ、ぃぃ……っ！[r]
+　痛っ……く、苦しっ……！！」[pcms]
 
 *2241|
 [fc]
-A hot iron rod seemed to pierce through my butt hole,[r]
-thrusting up from below through my intestines and stomach.[pcms]
+おしりの穴を、熱く焼けた鉄の棒のようなモノが貫き、[r]
+下から腸を、胃を突き上げてくる。[pcms]
 
 *2242|
 [fc]
-A strong sense of discomfort and nausea surged up all at[r]
-once--[pcms]
+強烈な違和感と気持ち悪さが一気にこみ上げてきて――[pcms]
 
 ;//〆DEV016（Ｙ２）
 [evcg storage="DEV016d"][trans_c cross time=300]
@@ -1803,20 +1827,22 @@ once--[pcms]
 *2243|
 [fc]
 [vo_yuh s="yuho1320"]
-[ns]Yuuho[nse]
-"Uguh! Gah, gefu..! Gobu, gobo..ugeh..geeeeh!!"[pcms]
+[ns]悠帆[nse]
+「うぐっ！　げっ、げふっ……！[r]
+　ごぶっ、ごぼっ……うげっ……げぇぇぇぇっ！！」[pcms]
 
 *2244|
 [fc]
-The contents of my stomach flowed backward and erupted out.[r]
-The sour taste and unpleasant heat dominated my esophagus[r]
-and mouth as it splashed onto the floor.[pcms]
+おなかの中の物が逆流し、噴き出してきた。[r]
+酸っぱい味と、イヤな熱さが食道を、口の中を支配し、[r]
+ビシャビシャと床へと落ちていく。[pcms]
 
 *2245|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uhahaha!! Are you so moved that you're vomiting!? I'll make[r]
-your asshole even better!!"[pcms]
+[ns]重吉[nse]
+「うはははっ！！[r]
+　ゲロ吐くほど感激したかぁ！？　もっともっとケツ穴を[r]
+　良くしてやるぜぇ！！」[pcms]
 
 ;//〆DEV016（Ｙ２）
 [evcg storage="DEV016e"][trans_c cross time=300]
@@ -1824,34 +1850,34 @@ your asshole even better!!"[pcms]
 *2246|
 [fc]
 [vo_yuh s="yuho1321"]
-[ns]Yuuho[nse]
-"Uguh, gebu, gobu, gubuu! Kaha, guh, kuha..abu, bufuu!"[pcms]
+[ns]悠帆[nse]
+「うぐっ、げぼっ、ごぶっ、ぐぶぅっ！[r]
+　かはっ、ぐっ、くはっ……あぶっ、ぶふぅっ！」[pcms]
 
 *2247|
 [fc]
-Without caring about me continuing to vomit, Shige-san kept[r]
-violating my butt with his rough movements.[pcms]
+吐き続けるわたしに構うことなく、荒々しい腰使いで[r]
+おしりを犯してくるシゲさん。[pcms]
 
 *2248|
 [fc]
-Every time my ass hole is turned inside out and it feels[r]
-like my intestines are being dragged out, intense pain,[r]
-nausea, and disgust mix together and race throughout my[r]
-body.[pcms]
+おしりの穴がめくれ、腸肉が引きずり出されそうになるたびに、[r]
+激痛と吐き気と嫌悪がごちゃ混ぜになり、身体中を駆け巡る。[pcms]
 
 *2249|
 [fc]
 [vo_yuh s="yuho1322"]
-[ns]Yuuho[nse]
-"Gubu, uge...geeeh!! Agi, gu, bufuu! No, obu! Gihii, ha,[r]
-hagu...gufa!"[pcms]
+[ns]悠帆[nse]
+「ぐぶっ、うげっ……げぇぇっ！！[r]
+　あぎっ、ぐっ、ぶふぅぅっ！　んおっ、おぶっ！[r]
+　ぎひぃっ、は、はぐっ……ぐふぁっ！」[pcms]
 
 *2250|
 [fc]
-[ns]Shigeyoshi[nse]
-"What's this, what's this, throwing up so dramatically.[r]
-Can't be helped, I'll pour it in for you! Right up your ass[r]
-hole, until your belly's full!!"[pcms]
+[ns]重吉[nse]
+「なんだなんだ、そんなに派手に吐きやがって。[r]
+　仕方ねぇな、吐いた分だけ俺が流し込んでやるからな！[r]
+　ケツ穴から、腹いっぱいになるくらいよぉ！！」[pcms]
 
 ;//〆DEV016f（Ｙ２）
 [evcg storage="DEV016f"][trans_c cross time=300]
@@ -1859,24 +1885,27 @@ hole, until your belly's full!!"[pcms]
 *2251|
 [fc]
 [vo_yuh s="yuho1323"]
-[ns]Yuuho[nse]
-"Aguu! No, noooo!! Stop it, please forgive me...pull it out![r]
-Please pull it out!!!"[pcms]
+[ns]悠帆[nse]
+「あぐぅっ！　い、いやぁぁっ！！[r]
+　やめてっ、もう許してぇぇ……抜いてっ！[r]
+　抜いて下さいぃぃぃっっ！！！」[pcms]
 
 *2252|
 [fc]
-As if to drown out my desperate pleas, Shige-san's assault[r]
-becomes even more intense, and my consciousness blurs as if[r]
-my head is being mashed up.[pcms]
+必死の懇願を掻き消そうとするかのように、さらに激しくなる[r]
+シゲさんの責めに、頭の中までグチャグチャに突き上げられて[r]
+しまっているかのように、意識が混濁してくる。[pcms]
 
 *2253|
 [fc]
-If this goes on...I'll be killed...![pcms]
+こ、このままじゃ……わたし、殺され……っ！[pcms]
 
 *2254|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ora! Take it! My load of cum in your ass...in your belly!!"[pcms]
+[ns]重吉[nse]
+「おらっ！[r]
+　受け取れやぁ！[r]
+　たっぷりの精子をケツ穴で……腹ん中でよぉ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆DEV016（Ｙ２）
@@ -1887,56 +1916,57 @@ If this goes on...I'll be killed...![pcms]
 *2255|
 [fc]
 [vo_yuh s="yuho1324"]
-[ns]Yuuho[nse]
-"Ubu!? Guhi, uboooh!! Agu, my belly...it's rising...! Gebo,[r]
-gubuu!"[pcms]
+[ns]悠帆[nse]
+「うぶっ！？　ぐひっ、うぼぉぉぉっ！！[r]
+　あぐっ、お、おなかの中っ！　昇って……っ！[r]
+　げぼっ、ぐぶぅっ！！」[pcms]
 
 *2256|
 [fc]
-The hot liquid poured into me with such force that it feels[r]
-like it's racing up my intestines and about to reflux into[r]
-my stomach, making me want to throw up again.[pcms]
+腸内を駆け上り、胃の中まで逆流してきそうなほどの勢いで[r]
+注ぎ込まれる熱い液体に、またも吐き出しそうになってしまう。[pcms]
 
 *2257|
 [fc]
-But with my stomach already empty, nothing comes out except[r]
-the sensation of wanting to vomit, and only suffering spills[r]
-from my mouth.[pcms]
+けれど、もう空っぽになったおなかからは吐瀉感以外のものは[r]
+何も出て来ず、苦しみだけが口から撒き散らされる。[pcms]
 
 ;//〆DEV016（Ｙ２）
 [evcg storage="DEV016h"][trans_c cross time=300]
 
 *2258|
 [fc]
-[ns]Shigeyoshi[nse]
-"Guhehe...I've certainly taken it. Yuuho-chan's ass[r]
-virginity too..."[pcms]
+[ns]重吉[nse]
+「ぐへへ……確かにいただいたぜぇ。[r]
+　悠帆ちゃんのケツ穴処女もよぉ……」[pcms]
 
 *2259|
 [fc]
 [vo_yuh s="yuho1325"]
-[ns]Yuuho[nse]
-"Ugu...hi, haa...ah, uh... Kufu, hi...hii..."[pcms]
+[ns]悠帆[nse]
+「うぐっ……ひっ、はぁ……ぁぁ、うっ……。[r]
+　くふっ、はひ……ひぃぃ……」[pcms]
 
 *2260|
 [fc]
-With a slurp, Shige-san's thing is pulled out of my butt,[r]
-and I can feel the hot sticky fluid spurting out forcefully.[pcms]
+ズルリとおしりからシゲさんのモノが引き抜かれ、[r]
+勢い良く熱い粘液が噴き出すのが分かる。[pcms]
 
 *2261|
 [fc]
-My belly, stretched tight, begins to feel a bit more[r]
-comfortable... I can't anymore...it's too much... Help[r]
-me...Wataru...[pcms]
+パンパンに張り詰めたおなかが、少しずつ楽になっていく……。[r]
+もう、だめ……もう、無理だよ……。[r]
+助けて……わ、航……。[pcms]
 
 ;//〆ＤＥＶー０１５（Ｙ１）通常男差分）
 [evcg storage="DEV015f"][trans_c cross time=300]
 
 *2262|
 [fc]
-[ns]Thug A[nse]
-"Ora, don't rest now! After you're done with Shigeyoshi-san,[r]
-you've got us to deal with too!"[pcms]
+[ns]チンピラＡ[nse]
+「おらっ、休んでんじゃねぇよ！[r]
+　重吉サンの相手が終わったら、俺らの相手も[r]
+　してもらわねぇとな！」[pcms]
 
 ;mm
 [se buf=0 storage="se_sex01"]
@@ -1946,47 +1976,49 @@ you've got us to deal with too!"[pcms]
 *2263|
 [fc]
 [vo_yuh s="yuho1326"]
-[ns]Yuuho[nse]
-"Uku, hi...i, iaa...!"[pcms]
+[ns]悠帆[nse]
+「うくっ、ひっ……いっ、ぃぁぁ……っ！」[pcms]
 
 *2264|
 [fc]
-The sensation of it being suddenly thrust inside made me let[r]
-out an involuntary cry.[pcms]
+唐突に突き挿れられたソレの感触に、思わず声が漏れてしまった。[pcms]
 
 *2265|
 [fc]
-After being thoroughly abused by Shige-san, another man[r]
-starts to abuse that same place...[pcms]
+シゲさんに散々に責められたその場所を、また別の男の人に[r]
+責められる……。[pcms]
 
 *2266|
 [fc]
 [vo_yuh s="yuho1327"]
-[ns]Yuuho[nse]
-"Hiu, nh, kuha...agu, hi, kuuu! No, stop, not there...it[r]
-hurts...! Don't rub there...igi, hi...haaah!"[pcms]
+[ns]悠帆[nse]
+「ひぅっ、んっ、くはっ……あぐっ、ひっ、くぅぅっ！[r]
+　やっ、だめっ、そこっ……い、痛いのっ……！[r]
+　そこ、擦っちゃ……いぎっ、ひっ……はぁぁっ！」[pcms]
 
 *2267|
 [fc]
-The insides of my vagina, almost rubbed raw by Shige-san's[r]
-huge thing, are now mercilessly rubbed by another thing.[pcms]
+シゲさんの巨大なモノで擦り切れそうになった膣内を、[r]
+また別のモノが容赦なく擦り上げてくる。[pcms]
 
 *2268|
 [fc]
-Unlike Shige-san's monstrously large thing, a thin, long[r]
-thing grinds against the area behind my navel...[pcms]
+凶悪なまでに大きかったシゲさんのモノとは違い、[r]
+細く、長いモノがおへその裏の辺りを、ゴリゴリと[r]
+引っ掻いてる……。[pcms]
 
 *2269|
 [fc]
-[ns]Thug A[nse]
-"Ku, uuh! I'm gonna cum...! I'll fill up your pussy with[r]
-cum!"[pcms]
+[ns]チンピラＡ[nse]
+「くっ、ううっ！[r]
+　出すぞ……っ！　マンコの中いっぱいに出してやる！」[pcms]
 
 *2270|
 [fc]
 [vo_yuh s="yuho1328"]
-[ns]Yuuho[nse]
-"No...don't cum inside...! Ku, hiha...ahh, akuu!"[pcms]
+[ns]悠帆[nse]
+「いやぁ……出しちゃだめぇ……っ！[r]
+　くっ、ひはっ……ああっ、あくぅっ！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１５（Ｙ１）膣内射精差分
@@ -1996,21 +2028,21 @@ cum!"[pcms]
 
 *2271|
 [fc]
-As it twitches inside me, the liquid spurting from it slowly[r]
-spreads...[pcms]
+おなかの中でビクビクと跳ね回りながら、[r]
+モノから噴き出した液がジワリと広がっていく……。[pcms]
 
 *2272|
 [fc]
-I've been cummed inside again... The hot liquid permeates[r]
-inside my belly...[pcms]
+また、中に出されちゃった……。[r]
+熱い液が……おなかの中にしみ渡って……。[pcms]
 
 ;//〆ＤＥＶー０１５（Ｙ１）膣内射精差分
 [evcg storage="DEV015i"][trans_c cross time=300]
 
 *2273|
 [fc]
-[ns]Working Adult A[nse]
-"So then...it's my turn next!"[pcms]
+[ns]社会人Ａ[nse]
+「そ、それじゃ……次は俺だ！」[pcms]
 
 ;mm
 [se buf=0 storage="se_sex01"]
@@ -2020,91 +2052,99 @@ inside my belly...[pcms]
 *2274|
 [fc]
 [vo_yuh s="yuho1329"]
-[ns]Yuuho[nse]
-"Ahi! Nku, fuha...ahh! Aunnn!!"[pcms]
+[ns]悠帆[nse]
+「あひっ！　んくっ、ふはっ……ああっ！[r]
+　あぅぅんっ！！」[pcms]
 
 *2275|
 [fc]
-Another different man enters me... This time it feels[r]
-slightly bent and rubs against the side walls...[pcms]
+また別の、違う男の人がわたしの中に入ってきた……。[r]
+今度は、ちょっと曲がった感じで、横の壁を擦ってくる……。[pcms]
 
 *2276|
 [fc]
-The man's slippery liquid makes it not hurt as much[r]
-anymore...[pcms]
+ヌルヌルとした男の人の液のせいでかな……[r]
+あんまり痛くなくなってきた……。[pcms]
 
 *2277|
 [fc]
 [vo_yuh s="yuho1330"]
-[ns]Yuuho[nse]
-"Hau, ku, hia...! Ahn, no, kufuu! Don't keep rubbing the[r]
-same spot...hahi, hiuuu!"[pcms]
+[ns]悠帆[nse]
+「はぅっ、くっ、ひぁ……っ！[r]
+　あんっ、やっ、くふぅっ！　そんなっ……同じ場所ばっかり[r]
+　擦っちゃ……はひっ、ひぅぅっ！」[pcms]
 
 *2278|
 [fc]
-[ns]Working Adult A[nse]
-"Ahh, that Yuuho-chan...! The idol of the swimming world is[r]
-moaning because of my cock...!"[pcms]
+[ns]社会人Ａ[nse]
+「ああっ、あの悠帆ちゃんが……！[r]
+　競泳界のアイドルが……俺のチンポでよがってる……！」[pcms]
 
 *2279|
 [fc]
 [vo_yuh s="yuho1331"]
-[ns]Yuuho[nse]
-"No, that's wrong...! I'm not moaning...! It doesn't feel[r]
-good...hih, fuha, aun! Kuhin, haun!"[pcms]
+[ns]悠帆[nse]
+「ち、違っ……！　よがってなんか……っ！[r]
+　気持ち良く……なんてっ……ひっ、ふはっ、あぅんっ！[r]
+　くひっ、はぅんっ！」[pcms]
 
 *2280|
 [fc]
-With every thrust and rub, my body trembles and sweet-[r]
-sounding moans involuntarily escape my lips.[pcms]
+突き上げられ、擦り上げられるたびにビクビクと身体が震え、[r]
+甘い響きの声が勝手に口を吐いて出てくる。[pcms]
 
 *2281|
 [fc]
-No, this is wrong...this is a lie...! I shouldn't be feeling[r]
-this...it shouldn't feel good...! There's no way that's[r]
-true...![pcms]
+違うっ……こんなの嘘っ……！[r]
+感じたりなんて……気持ち良くなったりなんて……！[r]
+そんなのあるはずない……っ！[pcms]
 
 *2282|
 [fc]
-[ns]Working Adult A[nse]
-"Haah, haah...I've always been watching you...Yuuho-chan![r]
-Going to the competitions and thinking of this lewd body of[r]
-yours while masturbating...!"[pcms]
+[ns]社会人Ａ[nse]
+「はぁっ、はぁっ……ずっと見てたんだ……悠帆ちゃんのこと！[r]
+　大会の会場に行って……このいやらしい身体を……っ！[r]
+　思い出しながらオナニーして……っ！」[pcms]
 
 *2283|
 [fc]
 [vo_yuh s="yuho1332"]
-[ns]Yuuho[nse]
-"No! Don't do such lewd things...stop it...that's wrong!"[pcms]
+[ns]悠帆[nse]
+「やぁっ！　そんなのっ……いやっ、いやぁっ！[r]
+　そんないやらしいことしないでっ……だめっ……なのぉっ！」[pcms]
 
 *2284|
 [fc]
-This person has been watching me...those lewd gazes were[r]
-his...[pcms]
+この人に、見られてたんだ……いやらしい視線、この人の[r]
+だったんだ……。[pcms]
 
 *2285|
 [fc]
-This person's gaze made me feel aroused and masturbate? And[r]
-now I'm being violated by him...[pcms]
+この人の視線で、わたし、感じて……[r]
+オナニー……してたの……？[r]
+そんな人に……いま、犯されてる……。[pcms]
 
 *2286|
 [fc]
 [vo_yuh s="yuho1333"]
-[ns]Yuuho[nse]
-"Hihin, nkuh, fuu, fuuu! Nooo...stop it! That's not right![r]
-I'm not like that...ahh, aun!"[pcms]
+[ns]悠帆[nse]
+「ひはっ、んくっ、ふぅっ、ふぅぅっ！[r]
+　いやぁっ……やめてぇっ！　そんなの違うのっ！[r]
+　わたしっ、そんな……ああっ、あぅんっ！」[pcms]
 
 *2287|
 [fc]
-[ns]Working Adult A[nse]
-"I'm gonna cum...! I'll give Yuuho-chan a load of semen...on[r]
-that lewd body of yours...qaaah!!"[pcms]
+[ns]社会人Ａ[nse]
+「い、いくよ……っ！[r]
+　悠帆ちゃんにザーメンだっぷり……っ！[r]
+　いやらしい身体にっ……くぁぁっ！！」[pcms]
 
 *2288|
 [fc]
 [vo_yuh s="yuho1334"]
-[ns]Yuuho[nse]
-"Fuhin, hya...afu, nah! Hihii!"[pcms]
+[ns]悠帆[nse]
+「ふひっ、ひゃっ……あふっ、んぁっ！[r]
+　はひぃっ！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１５（Ｙ１）腹筋上射精差分
@@ -2115,27 +2155,26 @@ that lewd body of yours...qaaah!!"[pcms]
 *2289|
 [fc]
 [vo_yuh s="yuho1335"]
-[ns]Yuuho[nse]
-"Ah, it's hot...on my belly...so much cum splattered on top[r]
-of me...haa...auu..."[pcms]
+[ns]悠帆[nse]
+「あ、熱いぃ……おなかに……おなかの上に……[r]
+　いっぱいかけられ……はぁ……ぁぅぅ……」[pcms]
 
 *2290|
 [fc]
-The thing that was pulled out from inside me was bent[r]
-sideways and from its tip spurted hot liquid that showered[r]
-over my belly.[pcms]
+アソコの中から引き抜かれた、横に曲がったモノの先から[r]
+ドクドクと熱い液が噴き出し、わたしのおなかの上に[r]
+浴びせられる。[pcms]
 
 *2291|
 [fc]
-To swim faster I trained hard all my life and now on my[r]
-belly is splattered with lewd liquid just like this person's[r]
-fantasies...[pcms]
+早く泳ぐために……一生懸命、鍛えた身体……おなかに……[r]
+いやらしい液が、いっぱい……この人の、妄想と同じように……。[pcms]
 
 *2292|
 [fc]
-[ns]Student A[nse]
-"I've been watching you too...Kannagi! Watching Kannagi[r]
-practice in those erotic outfits!"[pcms]
+[ns]学生Ａ[nse]
+「お、俺だって……神凪のこと見てたんだ……！[r]
+　神凪が、エロイ格好で練習するのを見て……！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//〆ＤＥＶー０１５（Ｙ１）通常男差分）
@@ -2144,62 +2183,68 @@ practice in those erotic outfits!"[pcms]
 *2293|
 [fc]
 [vo_yuh s="yuho1336"]
-[ns]Yuuho[nse]
-"Hafu, ku...hia, ah...nnnn!"[pcms]
+[ns]悠帆[nse]
+「はふっ、くっ……ひぁっ、あっ……んんんっ！」[pcms]
 
 *2294|
 [fc]
-Another man in a school uniforma male studentis violating[r]
-me...[pcms]
+また別の男の人……学園の制服を着た、男子生徒が……[r]
+わたしを犯してくる……。[pcms]
 
 *2295|
 [fc]
-The tip of his thing is wide and spreads out as it rubs[r]
-against all the walls thoroughly...[pcms]
+先っぽが大きく広がった形のモノが、[r]
+壁を満遍なく擦ってくる……。[r]
+いっぱい、いっぱい……擦って……。[pcms]
 
 *2296|
 [fc]
 [vo_yuh s="yuho1337"]
-[ns]Yuuho[nse]
-"Nkuh, hih, iiih! No! It's too rough! If you do it like[r]
-that...akuu, hiu...unn!"[pcms]
+[ns]悠帆[nse]
+「んくっ、ひっ、ぃぃ……っ！　だめっ！　ゴリゴリだめぇっ！[r]
+　そんなにされたら……あくっ、ひぅっ……ぅんんっ！」[pcms]
 
 *2297|
 [fc]
-[ns]Student A[nse]
-"Kannagi's erotic face...! I've been watching and rubbing my[r]
-cock alone! But now...I'm violating Kannagi!"[pcms]
+[ns]学生Ａ[nse]
+「か、神凪のエロイ顔っ……！[r]
+　ずっと見て……一人でチンポ擦って……！[r]
+　でもっ、いま……っ！　犯してるっ！　神凪を……っ！」[pcms]
 
 *2298|
 [fc]
 [vo_yuh s="yuho1338"]
-[ns]Yuuho[nse]
-"Ahn, hafu, kuu...! Hiaa! Noo! Don't say that...! I'm being[r]
-violated...I shouldn't be...!"[pcms]
+[ns]悠帆[nse]
+「あんっ、はふっ、くぅっ……！[r]
+　ひぁぁっ！　いやぁっ！　言わないでっ、そんなの……っ！[r]
+　犯されてるっ……わたしっ、だめなのにぃっ！」[pcms]
 
 *2299|
 [fc]
-"I belong to Wataru...! And yet, various men are stirring[r]
-inside my belly, it feels...good..."[pcms]
+わたしは、航のものなのに……！[r]
+色んな男の人に……おなかの中掻き回されて、[r]
+気持ち……良く……。[pcms]
 
 *2300|
 [fc]
-"No! It doesn't feel good! There's no way it would feel good[r]
-with someone other than Wataru! I shouldn't be feeling[r]
-good...!"[pcms]
+違うっ！　気持ち良くなんかないっ！[r]
+航以外の人にされたって、気持ち良いわけなんか……！[r]
+気持ち良くなんて、なっちゃダメなの……にぃっ！[pcms]
 
 *2301|
 [fc]
-[ns]Student A[nse]
-"Uuh! I'm going to cum! On Kannagi's erotic face...! I'll[r]
-drench you not with water, but with my cum!"[pcms]
+[ns]学生Ａ[nse]
+「ううっ！　出すぞっ！[r]
+　神凪のエロイ顔にっ……！[r]
+　水じゃなくて、俺の精液で濡らしてやるっ！」[pcms]
 
 *2302|
 [fc]
 [vo_yuh s="yuho1339"]
-[ns]Yuuho[nse]
-"Nooo, that's bad! With someone other than Wataru...that's[r]
-not okay! It's not...even though it's not okay...!"[pcms]
+[ns]悠帆[nse]
+「いやぁっ、だめなのぉっ！[r]
+　そんなのっ……航以外の人のでなんて……だめっ！[r]
+　だめっ……なのにぃっ！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１５（Ｙ１）顔面射精差分
@@ -2210,64 +2255,66 @@ not okay! It's not...even though it's not okay...!"[pcms]
 *2303|
 [fc]
 [vo_yuh s="yuho1340"]
-[ns]Yuuho[nse]
-"Apfu, kufu, nha, ha...afuu! Auu, nn...hiha, haa...aa..."[pcms]
+[ns]悠帆[nse]
+「あぷっ、くふっ、んぁっ、はっ……あふぅっ！[r]
+　あうっ、んっ……ひはっ、はぁ……ぁぁ……」[pcms]
 
 *2304|
 [fc]
-Droplets of thick liquid fall onto my face. In my hair, on[r]
-my eyelids, and then... on my lips, a smelly and dirty[r]
-liquid is...everywhere...[pcms]
+顔の上にボタボタと降ってくる、ドロドロの液。[r]
+髪に、瞼に、そして……唇に、臭くて汚い液が……いっぱい……。[pcms]
 
 *2305|
 [fc]
 [vo_yuh s="yuho1341"]
-[ns]Yuuho[nse]
-"Nn...muu...uu..."[pcms]
+[ns]悠帆[nse]
+「んっ……むっ……ぅぅ……」[pcms]
 
 *2306|
 [fc]
-I accidentally swallowed it as it flowed through the gaps in[r]
-my lips...[pcms]
+唇の隙間から流れ込んできたソレを、[r]
+思わず飲み込んでしまった……。[pcms]
 
 *2307|
 [fc]
-The bitterness spreads throughout my mouth, entwining around[r]
-my throat as it falls into my belly...[pcms]
+苦さが口の中いっぱいに広がり、喉に絡みながらおなかの中へと[r]
+落ちていく……。[pcms]
 
 *2308|
 [fc]
 [vo_yuh s="yuho1342"]
-[ns]Yuuho[nse]
-"Nngh, fuh...haa, haa..."[pcms]
+[ns]悠帆[nse]
+「んくっ、ふは……はぁ、はぁ……」[pcms]
 
 *2309|
 [fc]
-[ns]Office Worker B[nse]
-"It's my turn next...! That's fine...right?!"[pcms]
+[ns]社会人Ｂ[nse]
+「つ、次は俺だ……！[r]
+　いいよな……！？」[pcms]
 
 *2310|
 [fc]
 [vo_yuh s="yuho1343"]
-[ns]Yuuho[nse]
-"Wait...please, let me rest a bit... Like this, one after[r]
-another..."[pcms]
+[ns]悠帆[nse]
+「ま、待って……少し、休ませて……下さい……。[r]
+　こんな、連続でなんて……」[pcms]
 
 *2311|
 [fc]
-My body is tingling... If it continues like this, I...I...[pcms]
+身体がビリビリしてる……。[r]
+こんな状態で、続けられたら……わたし……わたし……。[pcms]
 
 *2312|
 [fc]
-[ns]Thug B[nse]
-"We don't have the luxury to be leisurely! Do you have any[r]
-idea how many are waiting their turn?!"[pcms]
+[ns]チンピラＢ[nse]
+「そんな悠長なこと言ってるヒマなんかねぇんだよ！[r]
+　どれだけ後がつかえてると思ってんだ！？」[pcms]
 
 *2313|
 [fc]
 [vo_yuh s="yuho1344"]
-[ns]Yuuho[nse]
-"No...please...kyaa!?"[pcms]
+[ns]悠帆[nse]
+「やぁ……お、願い……きゃっ！？」[pcms]
 
 ;//〆ＤＥＶー０１７（Ｙ３）挿入前
 [evcg storage="DEV017a"][trans_c cross time=300]
@@ -2279,47 +2326,46 @@ idea how many are waiting their turn?!"[pcms]
 *2314|
 [fc]
 [vo_yuh s="yuho1345"]
-[ns]Yuuho[nse]
-"Hiaa! Kyauu! Fuu, uunn!!"[pcms]
+[ns]悠帆[nse]
+「ひぁっ！　きゃうっ！　ふぅっ、うぅんっ！！」[pcms]
 
 *2315|
 [fc]
-[ns]Office Worker B[nse]
-"Woah...! Even after being done this much, you're still[r]
-clamping down tight!"[pcms]
+[ns]社会人Ｂ[nse]
+「うぉぉ……っ！[r]
+　これだけヤられてるのに、まだキュウキュウ締め付けてる！」[pcms]
 
 *2316|
 [fc]
 [vo_yuh s="yuho1346"]
-[ns]Yuuho[nse]
-"No, not in this position...hiaa, agu, kufu...! Fuun, faaa!"[pcms]
+[ns]悠帆[nse]
+「やだっ、こんな格好っ……ひあっ、あぐっ、くふっ……！[r]
+　ふぅんっ、ふぁぁっ！」[pcms]
 
 *2317|
 [fc]
-In an upside-down position, a man's dick is thrust into my[r]
-pussy. An unimaginable position... A thrilling sensation[r]
-I've never known before spreads throughout my body, making[r]
-it tingle.[pcms]
+逆さにされた状態で、アソコに男の人のが突き挿れられる。[r]
+ありえない格好……いままで知らなかった刺激に、ゾクゾクと[r]
+痺れるような感覚が身体中に広がっていく。[pcms]
 
 *2318|
 [fc]
-[ns]Thug B[nse]
-"Hehehe... You seem to be enjoying that pretty face of[r]
-yours."[pcms]
+[ns]チンピラＢ[nse]
+「へへへ……随分と嬉しそうな顔してんじゃねぇか」[pcms]
 
 *2319|
 [fc]
 [vo_yuh s="yuho1347"]
-[ns]Yuuho[nse]
-"Hahi!? N-no, that's not true! That's a lie! Auu, quan![r]
-Kihi, hiuu! It's not...it's not like that! I couldn't[r]
-possibly be happy...ahh!"[pcms]
+[ns]悠帆[nse]
+「はひっ！？　う、うそっ！　そんなのうそぉっ！[r]
+　あうっ、くぁんっ！　きひっ、ひぅぅっ！[r]
+　ち、違うっ……違うのっ！　嬉しいはずなんか……ああっ！」[pcms]
 
 *2320|
 [fc]
-[ns]Thug B[nse]
-"You don't sound very convincing with all that moaning![r]
-Here, let me give you some more!"[pcms]
+[ns]チンピラＢ[nse]
+「そんだけ喘いでちゃ説得力ねぇよ！[r]
+　おらっ、コッチにもくれてやるぜ！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//〆ＤＥＶー０１７（Ｙ３）挿入
@@ -2328,45 +2374,47 @@ Here, let me give you some more!"[pcms]
 *2321|
 [fc]
 [vo_yuh s="yuho1348"]
-[ns]Yuuho[nse]
-"Aguu!? Uwa, hafuu! No, not like that...! Both at the same[r]
-time...igii, higuu...fuunn!!"[pcms]
+[ns]悠帆[nse]
+「あぐっ！？　うぁっ、はふぅっ！　やっ、そんな……っ！[r]
+　両方になんてっ……いぎっ、ひぐっ……ふぅぅんっ！！」[pcms]
 
 *2322|
 [fc]
-In my pussy and my butt... A man's dick is inside both at[r]
-the same time...! This is no good...![pcms]
+アソコとおしりにっ……男の人のが同時に入って……っ！[r]
+こんなの……だめぇ……っ！[pcms]
 
 *2323|
 [fc]
-[ns]Working Adult B[nse]
-"Ofu!? Uwaa! The moment it's inserted into my ass again, the[r]
-folds clamp down tight...!"[pcms]
+[ns]社会人Ｂ[nse]
+「おふっ！？　うぁぁっ！[r]
+　またっ……尻穴に挿れられた瞬間、キュッキュッって[r]
+　ヒダヒダが動いて……っ！」[pcms]
 
 *2324|
 [fc]
-[ns]Thug B[nse]
-"Uhooh, the intestinal flesh is clinging too...! It's all[r]
-slippery with Shigeyoshi-san's semen still inside... It's[r]
-irresistible!"[pcms]
+[ns]チンピラＢ[nse]
+「うほぉっ、腸肉も絡み付いてくるぜぇ……！[r]
+　奥の方に残ってる重吉サンのザーメンでヌルヌルで……[r]
+　たまんねぇ！」[pcms]
 
 *2325|
 [fc]
 [vo_yuh s="yuho1349"]
-[ns]Yuuho[nse]
-"Ahi, hiii! No, don't move...! If both of you move at the[r]
-same time...! No, it's wrong, it's so wrong!!"[pcms]
+[ns]悠帆[nse]
+「あひっ、ひぃぃっ！[r]
+　だめっ、動いちゃ……っ！　二人一緒に動いちゃ……っ！[r]
+　だめっ、だめなのぉっ！！」[pcms]
 
 *2326|
 [fc]
-I don't know this...! This isn't me...! To have them[r]
-inserted in both my pussy and my butt, moving both at the[r]
-same time...![pcms]
+し、知らない……っ！　こんなの、わたしっ……！[r]
+アソコにも、おしりにも挿れられて……両方同時に動かされる[r]
+なんて……！[pcms]
 
 *2327|
 [fc]
-With Wataru... I couldn't understand this feeling...! Just[r]
-with Wataru's one, I definitely wouldn't have known this...![pcms]
+航とじゃ……分かんなかった、この感じ……っ！[r]
+航の、一本だけじゃ……絶対に、分かんなかったもの……！[pcms]
 
 ;//〆ＤＥＶー０１７（Ｙ３）挿入
 [evcg storage="DEV017d"][trans_c cross time=300]
@@ -2374,47 +2422,50 @@ with Wataru's one, I definitely wouldn't have known this...![pcms]
 *2328|
 [fc]
 [vo_yuh s="yuho1350"]
-[ns]Yuuho[nse]
-"Hiaa, kyafu, haku, fuhiii! Nno, hofu, ku, kuha...annn![r]
-I...ahh! It's so full...!"[pcms]
+[ns]悠帆[nse]
+「ひぁっ、きゃふっ、はくっ、ふひぃぃっ！[r]
+　んおっ、ほふっ、くっ、くはっ……ぁんんっ！[r]
+　いっ……ああっ！　い、いっぱいに……っ！」[pcms]
 
 *2329|
 [fc]
-The stimulation coming from two places at once makes my head[r]
-spin and feels like it's going to melt...[pcms]
+二箇所から同時に送られてくる刺激に、頭の中がクラクラと[r]
+揺さぶられ、蕩けてしまいそう……。[pcms]
 
 *2330|
 [fc]
-It's wrong, but...! To feel pleasure with someone other than[r]
-Wataru... to feel good...![pcms]
+だめ、なのに……っ！[r]
+航以外の人で、感じるなんて……気持ち良く、なんて……！[pcms]
 
 *2331|
 [fc]
-[ns]Office Worker B[nse]
-"Kuu... I'm gonna cum! Inside your pussy that's already[r]
-sloshing with semen... I'll mix in my own cum!"[pcms]
+[ns]社会人Ｂ[nse]
+「くぅっ……出るっ！[r]
+　精液でタプタプのマンコの中にっ……俺の精液も[r]
+　ミックスしてやるっ！」[pcms]
 
 *2332|
 [fc]
-[ns]Thug B[nse]
-"Hehe, you were spilling Shigeyoshi-san's semen earlier...[r]
-I'll replenish it with mine!"[pcms]
+[ns]チンピラＢ[nse]
+「へへっ、さっき重吉サンのザーメンこぼしてたなぁ……。[r]
+　代わりに俺のを補充してやるぜぇ！」[pcms]
 
 *2333|
 [fc]
 [vo_yuh s="yuho1351"]
-[ns]Yuuho[nse]
-"No, stop...please stop! If you cum now...! If both of you[r]
-cum inside me now...!!"[pcms]
+[ns]悠帆[nse]
+「いやっ、やめてっ……やめてぇっ！[r]
+　いま出されたら……っ！[r]
+　いまっ、両方に出されちゃったら……っ！！」[pcms]
 
 *2334|
 [fc]
-I'm already... I'm...![pcms]
+も、もう、わたし……わたしっ！[pcms]
 
 *2335|
 [fc]
-[ns]Office Worker B & Thug B[nse]
-"Ugh...kuuu!!"[pcms]
+[ns]社会人Ｂ＆チンピラＢ[nse]
+「うっ……くぅぅっ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;システムボタン＆ウィンドウ消去
@@ -2430,19 +2481,22 @@ I'm already... I'm...![pcms]
 *2336|
 [fc]
 [vo_yuh s="yuho1352"]
-[ns]Yuuho[nse]
-"Hahi, ku, uaaa...! Ah, aaaa, hiiiiiiinnnn!!"[pcms]
+[ns]悠帆[nse]
+「はひっ、くっ、うぁぁ……っ！[r]
+　あっ、ぁぁぁっ、ひぃいいいいぃぃんんっっ！！！」[pcms]
 
 *2337|
 [fc]
-Ah, aah... I'm cumming... I'm cumming even though I'm being[r]
-violated by someone other than Wataru... It feels so good...[pcms]
+あ、ああ……イっ……イっちゃった……。[r]
+航以外の人に犯されてるのに……わたし、気持ち良く……。[r]
+イっちゃうくらい……。[pcms]
 
 *2338|
 [fc]
-[ns]Thug B[nse]
-"Uha, hahahaha! This chick is cumming from being gangbanged![r]
-How slutty can you get, you bitch!"[pcms]
+[ns]チンピラＢ[nse]
+「うはっ、ははははっ！[r]
+　コイツ[ruby text="ま　わ"][ch text="輪姦"]されてイってやがるぜ！[r]
+　どんだけ淫乱なんだよ！　この雌豚がっ！」[pcms]
 
 ;//〆ＤＥＶー０１７（Ｙ３）引き抜き
 [evcg storage="DEV017e"][trans_c cross time=300]
@@ -2450,24 +2504,24 @@ How slutty can you get, you bitch!"[pcms]
 *2339|
 [fc]
 [vo_yuh s="yuho1353"]
-[ns]Yuuho[nse]
-"Auhn!"[pcms]
+[ns]悠帆[nse]
+「あぅんっ！」[pcms]
 
 *2340|
 [fc]
-From my pussy and butt, the men's warmth is being pulled out[r]
-at the same time, and I feel the heat leaving. At that[r]
-moment, the flesh of my pussy and butt starts to spasm...[pcms]
+アソコとおしりから、同時に男の人のが引き抜かれ、[r]
+熱さが喪失していく。[r]
+その途端、ヒクヒクとアソコとおしりのお肉が痙攣して……。[pcms]
 
 *2341|
 [fc]
-Ah, no...[pcms]
+あ、いやぁ……。[pcms]
 
 *2342|
 [fc]
 [vo_yuh s="yuho1354"]
-[ns]Yuuho[nse]
-"Hahi, hafuu!!"[pcms]
+[ns]悠帆[nse]
+「はひっ、はふぅっ！！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//〆ＤＥＶー０１７（Ｙ３）噴射差分
@@ -2475,75 +2529,77 @@ Ah, no...[pcms]
 
 *2343|
 [fc]
-[ns]Office Worker B[nse]
-"Ugh, uwah!? The semen's spurting out!"[pcms]
+[ns]社会人Ｂ[nse]
+「うっ、うわっ！？[r]
+　精液噴き出したぞっ！」[pcms]
 
 *2344|
 [fc]
-[ns]Thug C[nse]
-"Gyahahaha!! It's like a fountain! A dirty, erotic[r]
-fountain!!"[pcms]
+[ns]チンピラＣ[nse]
+「ぎゃはははっ！！[r]
+　まるで噴水じゃねぇか！　エロくて下品な噴水だぁ！！」[pcms]
 
 *2345|
 [fc]
-[ns]Student B[nse]
-"Uwah...! No way, that Kanagi... to think she'd do something[r]
-like this...!"[pcms]
+[ns]学生Ｂ[nse]
+「うわぁ……っ！[r]
+　ま、まさかあの神凪が……こんなことを……！」[pcms]
 
 *2346|
 [fc]
 [vo_yuh s="yuho1355"]
-[ns]Yuuho[nse]
-"Ah, ahi..."[pcms]
+[ns]悠帆[nse]
+「あ、あひぃ……」[pcms]
 
 *2347|
 [fc]
-No... I'm being watched... by everyone... by so many men...[r]
-they're seeing such a lewd part of me... ha, aah...[pcms]
+いやぁ……見られてるぅ……みんなに……沢山の男の人達に……[r]
+こんないやらしいトコ……見られて……は、ぁぁ……。[pcms]
 
 *2348|
 [fc]
-[ns]Thug C[nse]
-"I had no idea she was such a slut... Her boyfriend would be[r]
-so disillusioned if he saw her like this."[pcms]
+[ns]チンピラＣ[nse]
+「こんなエロ女だったなんてなぁ……。[r]
+　彼氏も幻滅だろうぜ、こんなカッコ見たらよぉ」[pcms]
 
 *2349|
 [fc]
-Boyfriend... Wataru...? No... I can't let Wataru see me like[r]
-this...[pcms]
+彼氏……わ、たる……？[r]
+い、や……航には……こんな、の……。[pcms]
 
 ;//〆ＤＥＶー０１８（Ｙ４）
 [evcg storage="DEV018a"][trans_c cross time=300]
 
 *2350|
 [fc]
-[ns]Thug C[nse]
-"Heh... Then I guess it's my turn now."[pcms]
+[ns]チンピラＣ[nse]
+「へへっ……それじゃ、こっちも頼むかな」[pcms]
 
 *2351|
 [fc]
 [vo_yuh s="yuho1356"]
-[ns]Yuuho[nse]
-"Ah, ha..."[pcms]
+[ns]悠帆[nse]
+「あ、は……」[pcms]
 
 *2352|
 [fc]
-The man lies down with his rock-hard dick pointing upwards,[r]
-rolling onto his side.[pcms]
+ビクビクと固く立ち上がったモノを上に向け、[r]
+ゴロリと横になった男の人。[pcms]
 
 *2353|
 [fc]
-No... I can't do this... Not by myself...[pcms]
+だめっ……そんなこと、しちゃ……自分から、なんて……。[pcms]
 
 *2354|
 [fc]
 [vo_yuh s="yuho1357"]
-[ns]Yuuho[nse]
-"Huff, kufu...n, ahh..."[pcms]
+[ns]悠帆[nse]
+「ふっ、くふ……ん、ぁぁ……」[pcms]
 
 *2355|
 [fc]
-No... I shouldn't... But that thing...[pcms]
+だめ……なのに……でも、アレを……。[r]
+わ、わたし……ぁぁ……わたしぃ……。[pcms]
 
 [se buf=0 storage="se_sex01"]
 ;//〆ＤＥＶー０１８（Ｙ４）
@@ -2552,36 +2608,40 @@ No... I shouldn't... But that thing...[pcms]
 *2356|
 [fc]
 [vo_yuh s="yuho1358"]
-[ns]Yuuho[nse]
-"Hik... uah, hah... hafu, kuh...! Hihah, aunnn! It's going[r]
-inside me...!"[pcms]
+[ns]悠帆[nse]
+「ひっ……うあっ、はっ……はふっ、くっ……！[r]
+　ひはっ、あぅぅんっ！　は、入って、くるぅぅ……！」[pcms]
 
 *2357|
 [fc]
-[ns]Thug C[nse]
-"Bwahaha! This horny bitch just slid a dick inside herself![r]
-You want cock that badly?!"[pcms]
+[ns]チンピラＣ[nse]
+「ぶはははっ！[r]
+　このスケベ女、自分からチンポ挿れやがったぜ！[r]
+　そんなにチンポが欲しいのかよ！」[pcms]
 
 *2358|
 [fc]
 [vo_yuh s="yuho1359"]
-[ns]Yuuho[nse]
-"Kuhik, auh, kuh, kuunn! No, ahh! Ahfu, kuhin!"[pcms]
+[ns]悠帆[nse]
+「くひっ、あうっ、くっ、くぅんっ！[r]
+　やだっ、ああっ！　あふっ、くひぃんっ！」[pcms]
 
 *2359|
 [fc]
-It's going deep inside me...! The man's thing...! His dick[r]
-is filling up my pussy...![pcms]
+お、奥まで、入ってきたぁ……！[r]
+男の人のが……っ！　チンチンがっ……！[r]
+オマンコの中いっぱいに……ぃぃっ！[pcms]
 
 *2360|
 [fc]
-[ns]Student B[nse]
-"Ka, Kannagi...! Do this too...! Mine as well...!"[pcms]
+[ns]学生Ｂ[nse]
+「か、神凪……っ！[r]
+　これもしろよ……！　俺のも……！」[pcms]
 
 *2361|
 [fc]
-[ns]Student C[nse]
-"O, mine too!"[pcms]
+[ns]学生Ｃ[nse]
+「お、俺のも！」[pcms]
 
 ;//〆ＤＥＶー０１８（Ｙ４）
 [evcg storage="DEV018c"][trans_c cross time=300]
@@ -2589,59 +2649,65 @@ is filling up my pussy...![pcms]
 *2362|
 [fc]
 [vo_yuh s="yuho1360"]
-[ns]Yuuho[nse]
-"Ah, ahh... another one...! Nmm, hapu, kuh, kumu...chupu,[r]
-perol... lero lero...mupuu!"[pcms]
+[ns]悠帆[nse]
+「あ、ぁぁ……また、別のがぁ……！[r]
+　んむっ、はぷっ、くっ、くむっ……ちゅぷっ、ぺろっ……[r]
+　れろれろ……むぷぅっ！」[pcms]
 
 *2363|
 [fc]
-Ahh, dicks twitching all over my body... In my hand, in my[r]
-mouth... Inside my pussy, twitching so much...![pcms]
+ああっ、チンチンいっぱい……わたしの身体でビクビクしてるぅ。[r]
+手の中で、口の中で……オマンコの中で、[r]
+いっぱいビクビクして……！[pcms]
 
 *2364|
 [fc]
-[ns]Thug C[nse]
-"Ooh! As soon as there's more dicks, her pussy flesh starts[r]
-to cling! Ukuh, what a nympho this one is!"[pcms]
+[ns]チンピラＣ[nse]
+「おぉうっ！　チンポ増えた途端にマンコ肉が絡んできたっ！[r]
+　うくっ、なんて淫乱女だよコイツ！」[pcms]
 
 *2365|
 [fc]
-[ns]Student B[nse]
-"Auh, quah! Kannagi's mouth...! It's too erotic...! Her[r]
-tongue and lips are so slippery and wet...ahh!"[pcms]
+[ns]学生Ｂ[nse]
+「あぅっ、くぁぁっ！[r]
+　神凪の口っ……！　エロすぎだ……っ！[r]
+　舌も唇もニュルニュルして……あぁっ！」[pcms]
 
 *2366|
 [fc]
-[ns]Student C[nse]
-"Fingers! Kannagi's fingers are jerking off my dick! So[r]
-lewd... incredibly lewd, Kannagi...!"[pcms]
+[ns]学生Ｃ[nse]
+「指っ！　神凪の指が俺のチンコをしごいてるっ！[r]
+　エロい……すげぇエロいよ神凪……！」[pcms]
 
 *2367|
 [fc]
 [vo_yuh s="yuho1361"]
-[ns]Yuuho[nse]
-"Kupu, hafu, muchu, nha...hafu, fuu, nkuh, pichapicha..."[pcms]
+[ns]悠帆[nse]
+「くぷっ、はふっ、むちゅっ、んぁ……はふっ、ふぅっ、[r]
+　んくっ、ぴちゃぴちゃ……」[pcms]
 
 *2368|
 [fc]
-Ahh... I'm making the men happy with my body...! They're[r]
-violating me and feeling pleasure with my body...! This is[r]
-so... Wataru, Wataru...![pcms]
+あぁ……わたしの身体で、男の人達が悦んでる……！[r]
+わたしを犯して……わたしの身体で感じてる……！[r]
+こんな……こんなの……航っ、航ぅ……！[pcms]
 
 *2369|
 [fc]
-[ns]Thug C[nse]
-"Uoh!? Hey! If you squeeze that tight...!"[pcms]
+[ns]チンピラＣ[nse]
+「うおっ！？[r]
+　お、おいっ！　そんなに締め付けたら……っ！」[pcms]
 
 *2370|
 [fc]
-[ns]Student B[nse]
-"Uwah! It's sucking me in! It's sucking me out!!"[pcms]
+[ns]学生Ｂ[nse]
+「うぁぁっ！　すっ、吸われるっ！[r]
+　吸い出されるっ！！」[pcms]
 
 *2371|
 [fc]
-[ns]Student C[nse]
-"Kuh, Kannagi's soft fingers are unbearable!!"[pcms]
+[ns]学生Ｃ[nse]
+「くぅっ、柔らかい神凪の指っ……たまらねぇ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１８（Ｙ４）全身・膣内射精差分
@@ -2654,15 +2720,16 @@ so... Wataru, Wataru...![pcms]
 *2372|
 [fc]
 [vo_yuh s="yuho1362"]
-[ns]Yuuho[nse]
-"Fuhah, apu, kufunn! Hihik, se-si! Se-sii!! My whole body is[r]
-full of it...iiiiiiiiii!!"[pcms]
+[ns]悠帆[nse]
+「ふはっ、あぷっ、くふぅんっ！[r]
+　はひっ、せーしっ！　せーしぃっ！！[r]
+　身体中いっぱいっ……ぃぃいいいぃぃぃぃっっ！！！」[pcms]
 
 *2373|
 [fc]
-Incredible... so much semen filling me up all at once...![r]
-The men are releasing so much inside me. Ah, ahah... ahh...[r]
-so full...[pcms]
+すごいっ……せーしいっぱい、身体中に一気に……！[r]
+わたしの身体で、男の人達が、こんなにいっぱい……。[r]
+あ、あは……ぁぁ……いっぱいぃ……。[pcms]
 
 
 ;//〆ＤＥＶー０１８（Ｙ４）全身・膣内射精差分
@@ -2671,26 +2738,27 @@ so full...[pcms]
 
 *2374|
 [fc]
-[ns]Working Adult C[nse]
-"Hey! Do me too...! It's too erotic, I can't hold back[r]
-anymore!!"[pcms]
+[ns]社会人Ｃ[nse]
+「お、おいっ！[r]
+　こっちもしてくれよ……！[r]
+　エロすぎてもう……我慢できねぇ！！」[pcms]
 
 *2375|
 [fc]
-[ns]Thug D[nse]
-"Me too! Hurry up and let me do it!"[pcms]
+[ns]チンピラＤ[nse]
+「俺もだっ！　早くヤらせろ！」[pcms]
 
 *2376|
 [fc]
 [vo_yuh s="yuho1363"]
-[ns]Yuuho[nse]
-"Ah, ahah..."[pcms]
+[ns]悠帆[nse]
+「あ、あはぁ……」[pcms]
 
 *2377|
 [fc]
-I'm so excited... Everyone is excited by my body. I have to[r]
-do it for them... Since they're excited by me, I have to[r]
-make them feel good...[pcms]
+すごく興奮してる……みんな、わたしの身体に、興奮して……。[r]
+わたし……わたしがしてあげなくちゃ……。[r]
+わたしで、興奮してるんだから……わたしが、気持ち良く……。[pcms]
 
 ;//〆ＤＥＶー０１８（Ｙ４）反転
 [evcg storage="DEV018f"][trans_c cross time=300]
@@ -2698,77 +2766,82 @@ make them feel good...[pcms]
 *2378|
 [fc]
 [vo_yuh s="yuho1364"]
-[ns]Yuuho[nse]
-"Pufu, amu, kuh, numah! Chu, chu...picha, peropero. Fuhah,[r]
-it's twitching..."[pcms]
+[ns]悠帆[nse]
+「ぷふっ、あむっ、くっ、んむぁっ！[r]
+　ちゅっ、ちゅっ……ぴちゃっ、ぺろぺろ……。[r]
+　ふはぁっ、ビクビクしてるぅ……！」[pcms]
 
 *2379|
 [fc]
-[ns]Thug D[nse]
-"Ohou!! What an erotic mouth you have! Your tongue is[r]
-wrapping around it!"[pcms]
+[ns]チンピラＤ[nse]
+「おほぅっ！！[r]
+　なんつーエロい口してんだよ！[r]
+　舌が絡んできやがる！」[pcms]
 
 *2380|
 [fc]
-[ns]Working Adult C[nse]
-"Quah! Amazing hip movements! My dick is being jerked off by[r]
-her pussy flesh!"[pcms]
+[ns]社会人Ｃ[nse]
+「くぁっ！　スゲェ腰の動きだっ！[r]
+　マンコ肉でチンポしごかれるっ！」[pcms]
 
 *2381|
 [fc]
-[ns]Student D[nse]
-"Aah! Kannagi's fingers...! The fingers that were wet are[r]
-now rubbing my dick...!"[pcms]
+[ns]学生Ｄ[nse]
+「ああっ！　神凪の指っ……！[r]
+　水をかいてた指がっ……俺のチンコ擦ってる……っ！」[pcms]
 
 *2382|
 [fc]
 [vo_yuh s="yuho1365"]
-[ns]Yuuho[nse]
-"Hahik, nah, hah, ahik...! Kuhah, ah, auunn... fuuuunnn!!"[pcms]
+[ns]悠帆[nse]
+「はひっ、んぁっ、はっ、あひっ……！[r]
+　くはっ、あっ、あうぅっ……ふぅううぅんっ！！」[pcms]
 
 *2383|
 [fc]
-White flashes flicker in my head. Pleasure is bursting[r]
-everywhere and I'm about to cum.[pcms]
+頭の中で白い輝きがチカチカと点滅する。[r]
+気持ちいいのがいっぱい破裂して、すぐにイっちゃう。[pcms]
 
 *2384|
 [fc]
-To think that while dealing with so many dicks I could feel[r]
-this good...![pcms]
+何本ものチンチンを相手にしながら、こんなに気持ち良く[r]
+なっちゃうなんて……！[pcms]
 
 *2385|
 [fc]
-Ah... I want more, more. I want to do it more...[pcms]
+ああ……もっと、もっと欲しい……してあげたい……！[pcms]
 
 *2386|
 [fc]
 [vo_yuh s="yuho1366"]
-[ns]Yuuho[nse]
-"Nfuu! Kyauh, nn...chupu, hapu...! Chupo chupo...picha, amu,[r]
-kuh, fuu...! Nhih, muguh...nnnnnnnnnn!!"[pcms]
+[ns]悠帆[nse]
+「んふぅっ！　きゃうっ、んっ……ちゅぷっ、はぷっ……！[r]
+　ちゅぽちゅぽ……ぴちゃっ、あむっ、くっ、ふぅ……！[r]
+　んひっ、むぐっ……んんん～～～～～～～～っっ！！」[pcms]
 
 [メスフラ]
 
 *2387|
 [fc]
-Ah again...! I came again... It feels too good! So many[r]
-dicks... not just one but so many...[pcms]
+ああっ、また……っ！[r]
+またイっちゃった……気持ち良すぎるよぉ……！[r]
+いっぱいのチンチン……一本だけじゃなく、いっぱいの……！[pcms]
 
 *2388|
 [fc]
-[ns]Thug D[nse]
-"Uhih, ouh! It's coming out, it's gonna come out!!"[pcms]
+[ns]チンピラＤ[nse]
+「うひっ、おぅっ！　出るっ、出るぞっ！！」[pcms]
 
 *2389|
 [fc]
-[ns]Working Adult C[nse]
-"This side too...! Inside! It's being squeezed out inside[r]
-the pussy!!"[pcms]
+[ns]社会人Ｃ[nse]
+「こ、こっちも……！[r]
+　中にっ！　マンコの中で搾られて……っ！！」[pcms]
 
 *2390|
 [fc]
-[ns]Student D[nse]
-"Being jerked off! I'm gonna cum!!"[pcms]
+[ns]学生Ｄ[nse]
+「しごかれるっ！　だ、出されるぅっ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１８（Ｙ４）反転、全身・膣内射精差分
@@ -2779,17 +2852,19 @@ the pussy!!"[pcms]
 *2391|
 [fc]
 [vo_yuh s="yuho1367"]
-[ns]Yuuho[nse]
-"Fuhah, ahih, hiunn!! Nahh! Kyauh...uhahaaaaannnn!!"[pcms]
+[ns]悠帆[nse]
+「ふはっ、あひっ、ひぅぅっ！！[r]
+　んぁっ！　きゃうっ……うはぁぁあああぁぁんんっっ！！！」[pcms]
 
 *2392|
 [fc]
-Ahh, semen again...! More semen filling me up again![pcms]
+ああっ、せーしまたぁ……！[r]
+またいっぱい、身体中にせーしきたぁっ！[pcms]
 
 *2393|
 [fc]
-The hot and sticky stuff is pouring in abundantly...[r]
-amazing... it feels good...[pcms]
+熱くてドロドロのがたっぷり……すごい……いいのっ！[r]
+気持ち……良くなっちゃうぅ……。[pcms]
 
 ;//〆ＤＥＶー０１８（Ｙ４）反転、全身・膣内射精差分
 [evcg storage="DEV018h"][trans_c cross time=300]
@@ -2797,14 +2872,15 @@ amazing... it feels good...[pcms]
 *2394|
 [fc]
 [vo_yuh s="yuho1368"]
-[ns]Yuuho[nse]
-"Ahah, aahn... Is it over already? Don't you want to feel[r]
-even better?"[pcms]
+[ns]悠帆[nse]
+「あはっ、あぁん……。[r]
+　も、もう終わりぃ？[r]
+　もっと、気持ち良くして欲しくないの？」[pcms]
 
 *2395|
 [fc]
-My mouth spills out words on its own. Lewd and obscene[r]
-words...[pcms]
+口が勝手に言葉を紡ぎ出す。[r]
+好色で、淫猥な言葉……。[pcms]
 
 ;//〆ＤＥＶー０１９（Ｙ５）
 [evcg storage="DEV019a"][trans_c cross time=300]
@@ -2812,26 +2888,27 @@ words...[pcms]
 *2396|
 [fc]
 [vo_yuh s="yuho1369"]
-[ns]Yuuho[nse]
-"Hian! Kyauh! Ahh, so much! So many dicks!!"[pcms]
+[ns]悠帆[nse]
+「ひぁんっ！　きゃうっ！　ああっ、いっぱいっ！[r]
+　チンチンいっぱいぃっ！！」[pcms]
 
 *2397|
 [fc]
-I keep stroking the dicks thrusting towards me one after[r]
-another.[pcms]
+次々と突き出されてくるチンチンをしごき上げていく。[pcms]
 
 *2398|
 [fc]
-With my mouth, hands, pussy... ah, everyone is going crazy[r]
-violating my body... They're trying to feel good with my[r]
-body...[pcms]
+口で、手で、オマンコで……ああ、みんな狂ったみたいに[r]
+わたしの身体を犯してる……。[r]
+わたしの身体で、気持ち良くなろうとしてる……。[pcms]
 
 *2399|
 [fc]
 [vo_yuh s="yuho1370"]
-[ns]Yuuho[nse]
-"Nmpf, ahfu! Kuh, aah, hih...! Kup, nchu, picha[r]
-picha...mupuu! Kuh, hya...auuuuunnn!!"[pcms]
+[ns]悠帆[nse]
+「んぷっ、あふぅっ！　くひっ、ああっ、はひっ……！[r]
+　くぷっ、んちゅっ、ぴちゃぴちゃ……むぷぅっ！[r]
+　くひっ、ひゃ……ぁうううぅぅぅんんっ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０１９（Ｙ５）射精差分
@@ -2841,16 +2918,17 @@ picha...mupuu! Kuh, hya...auuuuunnn!!"[pcms]
 
 *2400|
 [fc]
-Ahh, semen... again, lots of semen...[pcms]
+ああっ、せーし……また、いっぱいのせーしが……。[pcms]
 
 *2401|
 [fc]
-With each ejaculation, something seems to melt away...[pcms]
+射精されるたびに、何かが溶けてなくなっていく……。[pcms]
 
 *2402|
 [fc]
-This isn't me... because I... I love Wataru so much...[r]
-Wataru is the most important to me...[pcms]
+こんなの、わたしじゃない……だって、わたしは……[r]
+わたしは、航のことが大好きで……。[r]
+航が、一番大切で……。[pcms]
 
 ;//〆ＤＥＶー０１９（Ｙ５）射精後
 [evcg storage="DEV019e"][trans_c cross time=300]
@@ -2858,9 +2936,10 @@ Wataru is the most important to me...[pcms]
 *2403|
 [fc]
 [vo_yuh s="yuho1371"]
-[ns]Yuuho[nse]
-"Fah! Haun, more...! I want more dicks...! Lots and lots...![r]
-Cum on me! Make me all sloppy!"[pcms]
+[ns]悠帆[nse]
+「ふぁっ！　はぅんっ、も、もっと……！[r]
+　もっとチンチン欲しいの……！　いっぱいいっぱい……！[r]
+　せーしかけてっ！　ドロドロにしてぇ！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;システムボタン＆ウィンドウ消去
@@ -2874,57 +2953,62 @@ Cum on me! Make me all sloppy!"[pcms]
 
 *2404|
 [fc]
-Ah... such an amazing smell... it's pungent and sharp... it[r]
-feels good, this smell...[pcms]
+ああ……すごいニオイ……臭くて、ツンとして……。[r]
+気持ちいい、ニオイ……。[pcms]
 
 *2405|
 [fc]
-No... that's wrong! Even though I shouldn't...! The smell of[r]
-semen other than Wataru's... ha...ah...[pcms]
+違う……違うっ！[r]
+そんなのダメなのに……！[r]
+航以外の精液のニオイなんて……は……ぁぁ……。[pcms]
 
 *2406|
 [fc]
 [vo_yuh s="yuho1372"]
-[ns]Yuuho[nse]
-"Ahah, delicious...! Semen... lots of semen!"[pcms]
+[ns]悠帆[nse]
+「あはぁ、美味しいよぉ……！[r]
+　せーし……精液いっぱいぃっ！」[pcms]
 
 *2407|
 [fc]
-Ahh, I'm really feeling good... Not just my body, but my[r]
-heart is feeling good too...[pcms]
+ああっ、わたし……本当に気持ち良くなってる……。[r]
+身体だけじゃなく、心も気持ち良くなっちゃってる……。[pcms]
 
 *2408|
 [fc]
-With lots of dicks and a drowning amount of semen... feeling[r]
-it, gasping, and delighting from the bottom of my heart...[pcms]
+いっぱいのチンチンと、溺れるくらいの精液で……感じて、[r]
+喘いで、心の底から悦んじゃってる……。[pcms]
 
 *2409|
 [fc]
-Am I... such a lewd girl? Did I want to be violated by so[r]
-many people...?[pcms]
+わたし……こんなにいやらしい子だったの……？[r]
+こんな……沢山の人に犯されたかったの……？[pcms]
 
 *2410|
 [fc]
 [vo_yuh s="yuho1373"]
-[ns]Yuuho[nse]
-"Hih, kufun! Ahh, my pussy! Grind my pussy full! I want more[r]
-and more pleasure...!!"[pcms]
+[ns]悠帆[nse]
+「はひっ、くふぅんっ！　ああっ、マンコぉっ！[r]
+　マンコいっぱいグリグリしてぇっ！[r]
+　もっともっと気持ちいいの……欲しいぃぃっ！！」[pcms]
 
 *2411|
 [fc]
-Feeling it when being watched... masturbating too... I guess[r]
-I really was a lewd pervert...[pcms]
+見られて感じて……オナニーしたりしてたし……。[r]
+やっぱり、わたし……いやらしい変態だったんだ……。[pcms]
 
 *2412|
 [fc]
-Ah, Wataru... Wataru, help me... if this goes on any[r]
-further, I'll really...![pcms]
+ああ、航……航、助けて……これ以上されたら、わたし……[r]
+ホントに……！[pcms]
 
 *2413|
 [fc]
 [vo_yuh s="yuho1374"]
-[ns]Yuuho[nse]
-"Kuhii! Ak, nhah! Hih...iih...! Kuffaaaahhhhhhhhhhh!!!"[pcms]
+[ns]悠帆[nse]
+「くひぃっ！　あくっ、んはっ！[r]
+　はひっ……ぃぃっ……！[r]
+　くっふぁぁあああああぁぁぁぁぁぁっっ！！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;システムボタン＆ウィンドウ消去
@@ -2938,7 +3022,7 @@ further, I'll really...![pcms]
 
 *2414|
 [fc]
-Ah...ahhh...[pcms]
+あ……ぁぁぁ……。[pcms]
 
 ;//〆ＤＥＶー０２０（Ｙ６）
 [evcg storage="DEV020a"][trans_c cross time=300]
@@ -2946,38 +3030,42 @@ Ah...ahhh...[pcms]
 *2415|
 [fc]
 [vo_yuh s="yuho1375"]
-[ns]Yuuho[nse]
-"Ahih, ae...ua...ahhh... It's good...! More dicks![r]
-Nha...hauh...kuhaaaaaaaahhh!!!"[pcms]
+[ns]悠帆[nse]
+「あひっ、あぇ……うあ……ぁぁぁ……。[r]
+　いいのぉ……！　チンチンもっとぉ！[r]
+　んぁっ……はぅっ……くはぁぁあああああぁぁぁっっ！！！」[pcms]
 
 *2416|
 [fc]
-Ahh, dicks are piercing me...! In my pussy and butt...! In[r]
-both hands and mouth too... full of dicks![pcms]
+ああっ、チンチン刺さってるぅ……っ！[r]
+オマンコにも、おしりにも……！[r]
+両手にも口にも……チンチンいっぱいで……！[pcms]
 
 *2417|
 [fc]
 [vo_yuh s="yuho1376"]
-[ns]Yuuho[nse]
-"Kuh, kyafu...nk, kufuu! I came... with two dicks thrusting[r]
-in me... That alone feels too good...!"[pcms]
+[ns]悠帆[nse]
+「くひっ、きゃふっ……んくっ、くふぅっ！[r]
+　イっちゃったぁ……チンチン二本突っ込まれてぇ……[r]
+　それだけで、気持ち良すぎるぅぅぅ……！」[pcms]
 
 *2418|
 [fc]
-Ahh... my whole body feels too good... I can't think of[r]
-anything else![pcms]
+ああっ……もう、身体中気持ち良すぎて……何にも、[r]
+考えられなく……！[pcms]
 
 *2419|
 [fc]
 [vo_yuh s="yuho1377"]
-[ns]Yuuho[nse]
-"Nha, ofu, kuh, kihyaa! My stomach... both sides are being[r]
-scraped raw! Aguh, hihah...hafuuu!!"[pcms]
+[ns]悠帆[nse]
+「んはっ、おふっ、くひっ、きひゃあっ！[r]
+　おなかっ……両方ゴリゴリ削れちゃ……っ！[r]
+　あぐっ、ひはっ……はふぅぅっ！！」[pcms]
 
 *2420|
 [fc]
-Sparks burst inside my head as my consciousness and heart[r]
-are washed away. The pleasure is so much...[pcms]
+頭の中で光がバチバチと弾け、意識が、心が押し流されていく。[r]
+気持ちいいのが……すごく、いっぱい――[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -2997,64 +3085,70 @@ are washed away. The pleasure is so much...[pcms]
 *2421|
 [fc]
 [vo_yuh s="yuho1378"]
-[ns]Yuuho[nse]
-"Kyahi!? Auh! Nha, hah, aahn!!"[pcms]
+[ns]悠帆[nse]
+「きゃひぃっ！？[r]
+　あうっ！　んはっ、はぁっ、あぁんっ！！」[pcms]
 
 *2422|
 [fc]
-The pleasure forcibly pulls back the washed-away[r]
-consciousness. More and more pleasure can be tasted...[pcms]
+押し流された意識を、快感が無理やりに引き戻した。[r]
+もっともっと、気持ちいいのが味わえるんだ……。[pcms]
 
 *2423|
 [fc]
-I want to feel more and more pleasure![pcms]
+して……いっぱい！[r]
+もっともっと……気持ち良くなりたい……！[pcms]
 
 *2424|
 [fc]
 [vo_yuh s="yuho1379"]
-[ns]Yuuho[nse]
-"Afuh, nhah, hak, kuuun! My pussy... my butt! Thrust more...[r]
-dig in deeper!!"[pcms]
+[ns]悠帆[nse]
+「あふっ、んはっ、はくっ、くぅぅんっ！[r]
+　オマンコっ……おしりぃぃっ！[r]
+　もっと突いてっ……えぐってぇぇっ！！」[pcms]
 
 *2425|
 [fc]
-I'm sorry... I'm sorry, Wataru... But I love it in my pussy![r]
-I love lots of dicks![pcms]
+ごめん……ごめんなさい、航……。[r]
+でも、わたし……オマンコいいの……！[r]
+いっぱいのチンチンいいの……っ！[pcms]
 
 *2426|
 [fc]
 [vo_yuh s="yuho1380"]
-[ns]Yuuho[nse]
-"Fuhya! Hafu! Nkih...hiiih! Uk, kihh...iiiiiih!!"[pcms]
+[ns]悠帆[nse]
+「ふひゃっ！　はふぅっ！　んきっ……ひぃぃっ！[r]
+　うくっ、きひっ……ぃいいいぃぃっ！！」[pcms]
 
 *2427|
 [fc]
-More than just Wataru's single dick... lots of them! I want[r]
-lots of dicks![pcms]
+航の一本だけのチンチンよりも……いっぱいの……！[r]
+いっぱいのチンチンがいいのぉっ！[pcms]
 
 *2428|
 [fc]
 [vo_yuh s="yuho1381"]
-[ns]Yuuho[nse]
-"Delicious... delicious! Dicks are delicious! Let me suck[r]
-more! Nchu, mug, mogu...npuu!!"[pcms]
+[ns]悠帆[nse]
+「おいしぃ……おいしいよぉっ！[r]
+　チンチンおいしいっ！　もっとしゃぶらせてぇ！[r]
+　んちゅっ、むぐっ、もごっ……んぷぅぅっ！！」[pcms]
 
 *2429|
 [fc]
-I'm cumming just from licking dicks![pcms]
+チンチン舐めただけでイっちゃう……っ！[pcms]
 
 *2430|
 [fc]
-I'm cumming from being thrust into my pussy and dug into my[r]
-butt! No matter what's done to me, I'm cumming![pcms]
+オマンコ突かれてもっ……おしりほじられても……っ！[r]
+もう、何をされても……イっちゃうぅっ！！[pcms]
 
 *2431|
 [fc]
 [vo_yuh s="yuho1382"]
-[ns]Yuuho[nse]
-"Ahah, the dicks are twitching! Are you going to cum? Are[r]
-you going to shoot semen? Cum on me a lot! Spray your semen[r]
-all over me!!"[pcms]
+[ns]悠帆[nse]
+「あはっ、チンチンビクビクしてるっ……！[r]
+　出るの？　せーしでるのぉ！？[r]
+　かけて……いっぱいっ！　精液ドバドバかけてぇぇっ！！」[pcms]
 
 ;//♯_ホワイトフラッシュ
 ;//〆ＤＥＶー０２０（Ｙ６）精液差分
@@ -3065,21 +3159,22 @@ all over me!!"[pcms]
 *2432|
 [fc]
 [vo_yuh s="yuho1383"]
-[ns]Yuuho[nse]
-"Uhih, aunh! Semen! Semen!! Ihiiih! Nk, it's hot... hot and[r]
-delicious! Hihah...kyafuuuuuuuuuuu!!!"[pcms]
+[ns]悠帆[nse]
+「うひっ、あぅぅんっ！　精液っ！　せーえきぃぃっ！！[r]
+　いひぃぃっ！　んくっ、熱いっ……熱くて美味しっ……！[r]
+　ひはっ……きゃふぅぅううううううぅぅぅぅっっっ！！！」[pcms]
 
 *2433|
 [fc]
-All over and inside my body... covered in plenty of semen.[r]
-Ah...ahh... I'm becoming happy. I can't think of anything[r]
-else. It feels so good...[pcms]
+身体の中にも外にも……精液たっぷりかけられて……。[r]
+あ……あぁ……わ、たし……幸せに、なっちゃっ……。[r]
+もう、何も、考え……気持ち……ぃぃ……。[pcms]
 
 *2434|
 [fc]
 [vo_yuh s="yuho1384"]
-[ns]Yuuho[nse]
-"Dicks... semen... more..."[pcms]
+[ns]悠帆[nse]
+「チンチン……せーえきぃ……もっとぉぉ……」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -3098,24 +3193,26 @@ else. It feels so good...[pcms]
 
 *2435|
 [fc]
-Semen is coming out from all over my body. From my pussy,[r]
-from my butt... from my mouth, even from my hair...[pcms]
+身体中から、精液が出てる……。[r]
+オマンコからも、おしりからも……口からも、髪の毛からも……。[pcms]
 
 *2436|
 [fc]
-Why was I doing this again? Such a pleasurable thing...[pcms]
+わたし……なんでこんなことしてたんだっけ……。[r]
+こんな……気持ちいいこと……。[pcms]
 
 *2437|
 [fc]
 [vo_yuh s="yuho1385"]
-[ns]Yuuho[nse]
-"Wataru..."[pcms]
+[ns]悠帆[nse]
+「わ……たる……」[pcms]
 
 [evcg storage="DEV021d"][trans_c cross time=300]
 
 *2438|
 [fc]
-I'm sorry... Wataru...[pcms]
+航……航……。[r]
+ごめん……なさい……。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -3136,41 +3233,41 @@ I'm sorry... Wataru...[pcms]
 *2439|
 [fc]
 [vo_yuh s="yuho1386"]
-[ns]Yuuho[nse]
-"Nn...kuh, fu..."[pcms]
+[ns]悠帆[nse]
+「ん……く、ふ……」[pcms]
 
 *2440|
 [fc]
-My head feels heavy... My whole body is sticky...[pcms]
+頭が重い……身体中、ベトベトしてる……。[pcms]
 
 *2441|
 [fc]
 [vo_yuh s="yuho1387"]
-[ns]Yuuho[nse]
-"I am..."[pcms]
+[ns]悠帆[nse]
+「わ……たし……？」[pcms]
 
 *2442|
 [fc]
-That's right... I was violated by everyone. Covered in[r]
-semen...[pcms]
+そうだ……わたし、みんなに犯されて……。[r]
+精液まみれになって……。[pcms]
 
 *2443|
 [fc]
 [vo_yuh s="yuho1388"]
-[ns]Yuuho[nse]
-"Is it over?"[pcms]
+[ns]悠帆[nse]
+「終わった……の？」[pcms]
 
 *2444|
 [fc]
-I look around with blurry eyes but can't see anyone.[pcms]
+ぼんやりとかすむ目で周りを見回すも、誰も見当たらない。[pcms]
 
 *2445|
 [fc]
-The men are gone.[pcms]
+男の人達も。[pcms]
 
 *2446|
 [fc]
-The seniors too.[pcms]
+先輩も。[pcms]
 
 ;//--------------------------------------------------------------------
 ;//条件分岐
@@ -3183,7 +3280,7 @@ The seniors too.[pcms]
 
 *2447|
 [fc]
-Ren-chan as well.[pcms]
+漣ちゃんも。[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10010_19
@@ -3191,20 +3288,19 @@ Ren-chan as well.[pcms]
 *2448|
 [fc]
 [vo_yuh s="yuho1389"]
-[ns]Yuuho[nse]
-"Where on earth...?"[pcms]
+[ns]悠帆[nse]
+「一体、どこへ……？」[pcms]
 
 *2449|
 [fc]
-Suppressing my trembling knees, I somehow manage to stand[r]
-up. The semen pooled at my feet is slippery, almost causing[r]
-me to fall.[pcms]
+震える膝をなんとか押さえ込み、立ち上がる。[r]
+足元に溜まった精液がぬめり、転びそうになってしまう。[pcms]
 
 *2450|
 [fc]
 [vo_yuh s="yuho1390"]
-[ns]Yuuho[nse]
-"Senpai..."[pcms]
+[ns]悠帆[nse]
+「先輩……」[pcms]
 
 ;//--------------------------------------------------------------------
 ;//条件分岐
@@ -3218,8 +3314,8 @@ me to fall.[pcms]
 *2451|
 [fc]
 [vo_yuh s="yuho1391"]
-[ns]Yuuho[nse]
-"Ren-chan..."[pcms]
+[ns]悠帆[nse]
+「漣ちゃん……」[pcms]
 
 ;//--------------------------------------------------------------------
 *BEH_10010_21
@@ -3227,22 +3323,22 @@ me to fall.[pcms]
 *2452|
 [fc]
 [vo_yuh s="yuho1392"]
-[ns]Yuuho[nse]
-"...a voice?"[pcms]
+[ns]悠帆[nse]
+「……声？」[pcms]
 
 *2453|
 [fc]
-I hear something like a voice from somewhere... From the[r]
-back... the dressing room?[pcms]
+どこかから、声みたいな音が……。[r]
+奥の方……楽屋？[pcms]
 
 *2454|
 [fc]
-With unsteady steps that could collapse at any moment, I[r]
-head towards the dressing room.[pcms]
+ヨロヨロと今にも倒れてしまいそうな足取りで、[r]
+楽屋の方へと向かう。[pcms]
 
 *2455|
 [fc]
-I wonder if everyone is there...[pcms]
+みんな……いるのかな……。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -3276,37 +3372,40 @@ I wonder if everyone is there...[pcms]
 *2456|
 [fc]
 [vo_ren s="ren1166"]
-[ns]Ren[nse]
-"Hafu! Nnah, kyau... kufuun! That's good! More dick! Dig[r]
-more into Ren's hole!!"[pcms]
+[ns]漣[nse]
+「はふっ！　んあっ、きゃうっ……くふぅんっ！[r]
+　いいのっ！　おちんちんもっとぉ！[r]
+　もっと漣の穴ほじってぇっ！！」[pcms]
 
 *2457|
 [fc]
 [vo_yuh s="yuho1393"]
-[ns]Yuuho[nse]
-"Re... Ren-chan!?"[pcms]
+[ns]悠帆[nse]
+「れ……漣ちゃん！？」[pcms]
 
 *2458|
 [fc]
-Ren-chan is being violated by the men, moaning in[r]
-pleasure...! Why...? How come!?[pcms]
+漣ちゃんが、男の人達に犯され、よがり声を上げてる……！[r]
+どうして……？　何で！？[pcms]
 
 *2459|
 [fc]
 [vo_ren s="ren1167"]
-[ns]Ren[nse]
-"Afuh, ah, aah! Y-Yuuho-chan... hahi! Yuuho-chaan... it[r]
-feels so good...!"[pcms]
+[ns]漣[nse]
+「あふっ、あっ、ああっ！[r]
+　ゆ、ゆうほちゃんだぁ……はひぃっ！[r]
+　ゆーほちゃぁん……気持ちいいよぉ……！」[pcms]
 
 *2460|
 [fc]
-With her tongue sticking out and drool dripping, Ren-chan[r]
-pleads for pleasure. A dick is quickly shoved into her[r]
-mouth, which she begins to lick eagerly.[pcms]
+舌を突き出し、よだれを垂れ流しながら、快感を訴える漣ちゃん。[r]
+その口にもすぐにチンチンを捩じ込まれ、それを美味しそうに[r]
+舐め始める。[pcms]
 
 *2461|
 [fc]
-Is she enjoying being violated...? Ren-chan...?[pcms]
+犯されるのを、悦んでるの……？[r]
+漣ちゃんが……？[pcms]
 
 ;//♂:以上、漣生存時のみ
 
@@ -3322,30 +3421,31 @@ Is she enjoying being violated...? Ren-chan...?[pcms]
 *2462|
 [fc]
 [vo_mar s="maru1236"]
-[ns]Margarita[nse]
-"Ihya... aah...! Ofu, kuh! I... hiaah!"[pcms]
+[ns]マルガリータ[nse]
+「いひゃ……ぁぁ……っ！[r]
+　おふっ、くひっ！　いっ……ひぁぁっ！」[pcms]
 
 *2463|
 [fc]
 [vo_yuh s="yuho1394"]
-[ns]Yuuho[nse]
-"Senpai...!"[pcms]
+[ns]悠帆[nse]
+「先輩……！」[pcms]
 
 *2464|
 [fc]
-Rolling her eyes back, she receives the dicks of the men[r]
-swarming around her with her whole body and caresses them[r]
-lovingly.[pcms]
+白目を剥き、群がってくる男の人達のチンチンを全身で[r]
+受け止め、愛撫している。[pcms]
 
 *2465|
 [fc]
-How could Senpai be doing this too?[pcms]
+そんな……どうして先輩まで？[pcms]
 
 *2466|
 [fc]
 [vo_mar s="maru1237"]
-[ns]Margarita[nse]
-"Uboh, hapu, nchu, muguu...! Nha, pufa... aaah~! Aaah~!!"[pcms]
+[ns]マルガリータ[nse]
+「うぼっ、はぷっ、んちゅっ、むぐぅぅ……っ！[r]
+　んはっ、ぷふぁ……あ～～っ！　ああ～～っ！！」[pcms]
 
 
 ;//★_ＤＪバー　メインドーム
@@ -3356,48 +3456,49 @@ How could Senpai be doing this too?[pcms]
 
 *2467|
 [fc]
-[ns]Shigeyoshi[nse]
-"Oh, you awake now, Yuuho-chan?"[pcms]
+[ns]重吉[nse]
+「おっ、気ぃついたかぁ、悠帆ちゃんよぉ」[pcms]
 
 *2468|
 [fc]
-Suddenly, a voice from behind. As I hastily turn around,[r]
-Shige-san greets me with a lewd smirk.[pcms]
+突然、背後から聞こえてきた声。[r]
+慌てて振り向くわたしに、ニヤニヤと下卑た笑みを[r]
+向けてくるシゲさん。[pcms]
 
 *2469|
 [fc]
 [vo_yuh s="yuho1395"]
-[ns]Yuuho[nse]
-"Why...? We had a promise... If I took care of you... you[r]
-wouldn't touch anyone else...!"[pcms]
+[ns]悠帆[nse]
+「どうして……？　約束……したのに……。[r]
+　わたしが相手をすれば……手を出さないって……！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2470|
 [fc]
-[ns]Shigeyoshi[nse]
-"What!? But you fell asleep in the middle of it, didn't you,[r]
-Yuuho-chan? There were still loads of guys who hadn't had[r]
-their turn."[pcms]
+[ns]重吉[nse]
+「ああ！？[r]
+　だってよぉ、途中で寝ちゃったろう？　悠帆ちゃんは。[r]
+　まだまだヤレてないヤツが山ほどいたのによぉ」[pcms]
 
 *2471|
 [fc]
 [vo_yuh s="yuho1396"]
-[ns]Yuuho[nse]
-"That can't be..."[pcms]
+[ns]悠帆[nse]
+「そ、そんな……」[pcms]
 
 *2472|
 [fc]
-I was violated so much that I thought I'd go crazy...[pcms]
+あんなに……狂っちゃいそうなくらい犯され続けたのに……。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *2473|
 [fc]
-[ns]Shigeyoshi[nse]
-"So we had to find someone else to take care of us, right?[r]
-Look, if you give them a little pick-me-up drug, they get so[r]
-happy."[pcms]
+[ns]重吉[nse]
+「だから代わりに相手をしてもらったんだろぅ？[r]
+　ほら、見てみろよ。ちょっと元気になるクスリをあげたら、[r]
+　あんなに悦んでるだろ？」[pcms]
 
 
 [chara_int][trans_c cross time=150]
@@ -3405,23 +3506,24 @@ happy."[pcms]
 *2474|
 [fc]
 [vo_yuh s="yuho1397"]
-[ns]Yuuho[nse]
-"Drugs..."[pcms]
+[ns]悠帆[nse]
+「クスリ……」[pcms]
 
 *2475|
 [fc]
-That can't be... then what was it all for... What was the[r]
-point of being violated...[pcms]
+そんな……それじゃ、わたし……なんのために……。[r]
+なんのために、犯されて……。[pcms]
 
 *2476|
 [fc]
-Betraying Wataru... after going through such an ordeal...[pcms]
+航を裏切って……あんな目にあったのに……。[pcms]
 
 *2477|
 [fc]
 [vo_yuh s="yuho1398"]
-[ns]Yuuho[nse]
-"Ah... haha... Ahahahaha..."[pcms]
+[ns]悠帆[nse]
+「あ……はは……。[r]
+　あははははは……」[pcms]
 
 ;//se014・失禁する音
 [se buf=0 storage="se014"]
@@ -3430,9 +3532,10 @@ Betraying Wataru... after going through such an ordeal...[pcms]
 
 *2478|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uwahaha! What's this, got so excited you wet yourself? Is[r]
-watching others fuck that interesting to you!?"[pcms]
+[ns]重吉[nse]
+「うはははっ！[r]
+　なんだ、漏らしちまうくらい興奮したか？[r]
+　他人のヤってるトコロ見るのがそんなにおもしれぇか！？」[pcms]
 
 ;//se511・ざわざわと人が入ってきたガヤ
 ;//[se buf=0 storage="se511"]
@@ -3441,13 +3544,15 @@ watching others fuck that interesting to you!?"[pcms]
 
 *2479|
 [fc]
-[ns]Shigeyoshi[nse]
-"Oh, the guys who went for food are back too. Let's[r]
-continue, shall we!? We're still going to fuck you plenty!!"[pcms]
+[ns]重吉[nse]
+「おお、メシに行ってた連中も戻ってきたなぁ。[r]
+　さぁ、続きといこうかぁ！？[r]
+　まだまだたっぷり犯してやるぜぇ！！」[pcms]
 
 *2480|
 [fc]
-I can't take it anymore... We're finished...[pcms]
+も……もう、ダメ……。[r]
+わたし……たち……もう……お終い……。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -3461,7 +3566,7 @@ I can't take it anymore... We're finished...[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 
 

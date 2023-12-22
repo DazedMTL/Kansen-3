@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：;//〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）未明早朝
+;//・時間：５日目（８月１９日）未明～早朝
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹
 ;//時間帯：
@@ -18,328 +18,328 @@
 
 *3079|
 [fc]
-[ns]Jin[nse]
-"...If we go by that theory, will we be able to see a golden[r]
-ladder descending from the heavens tomorrow?"[pcms]
+[ns]壬[nse]
+「……その説でいくなら、[r]
+　明日には天から降りてきた黄金のハシゴが拝めるのか？」[pcms]
 
 *3080|
 [fc]
-I was suddenly addressed and turned around.[pcms]
+急に声をかけられたボクは振り返る。[pcms]
 
 *3081|
 [fc]
-[ns]Wataru[nse]
-"Ah... did I wake you up?... I'm sorry."[pcms]
+[ns]航[nse]
+「あっ……起こしちゃったかな……ゴメンなさい」[pcms]
 
 *3082|
 [fc]
-When did he wake up? Jin had his eyes slightly open, looking[r]
-this way.[pcms]
+いつの間に目を覚ましていたんだろう。[r]
+壬が、薄目を開いて、こちらを見ていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3083|
 [fc]
-[ns]Jin[nse]
-"Don't worry about it. But whether it's a curse or not...[r]
-the irony is certainly effective."[pcms]
+[ns]壬[nse]
+「気にすんな。[r]
+　だが、呪いかどうかわからねぇが……、[r]
+　何にせよ、皮肉は十分に効いている」[pcms]
 
 *3084|
 [fc]
-Jin mumbled to himself in a half-asleep tone, still lying in[r]
-the same position as when he was sleeping.[pcms]
+壬は寝ていたときの姿勢のまま、[r]
+まだ、半分寝惚けたような口調でぶつぶつと呟く。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3085|
 [fc]
-[ns]Jin[nse]
-"Well, this city is said to be one of the world's leading[r]
-religious cities. There's no other place where so many[r]
-different sects gather in such a small area, bestowing[r]
-temples and chapels."[pcms]
+[ns]壬[nse]
+「まあ、この街は世界有数の宗教の街らしい。[r]
+　これだけ狭い範囲に、これだけの種類の宗派が集まって、[r]
+　寺院やら礼拝堂やらを授けてる場所は他にないそうだ」[pcms]
 
 *3086|
 [fc]
-[ns]Jin[nse]
-"...There are also traces of ancient Japanese beliefs like[r]
-the land gods and Koshin faith..."[pcms]
+[ns]壬[nse]
+「……日本に古くから伝わる[r]
+　土地神や、庚申信仰なんかの跡も残ってたりするしな……」[pcms]
 
 *3087|
 [fc]
-[ns]Wataru[nse]
-"Wow..."[pcms]
+[ns]航[nse]
+「へえ……」[pcms]
 
 *3088|
 [fc]
-I didn't know that. I had heard it was a city where foods[r]
-from all over the world come together, but religion too,[r]
-huh?[pcms]
+知らなかった。[r]
+世界中の食べ物が集まる街だっていうのは聞いたことあるけど、[r]
+宗教までそうだったんだ。[pcms]
 
 *3089|
 [fc]
-Japanese people really have an open heart, or rather, no[r]
-principles at all.[pcms]
+日本人って、ホント心が広いっていうか、節操ないんだなあ。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3090|
 [fc]
-[ns]Jin[nse]
-"Well... I don't know which god or Buddha got pissed off,[r]
-but having the lid of hell's cauldron open right in the[r]
-middle of such a 'blessed city' is not a lovely story."[pcms]
+[ns]壬[nse]
+「まあ……どの神様か仏様がキレちまったのか知らないが、[r]
+　こんな『ありがたい街』のど真ん中で[r]
+　地獄の釜の蓋が開くなんて、素敵な話じゃねぇか」[pcms]
 
 *3091|
 [fc]
-[ns]Wataru[nse]
-"...That's just asking for divine punishment. It's[r]
-disrespectful to the gods, isn't it?"[pcms]
+[ns]航[nse]
+「……そんなの、バチあたりですよ。神様に悪いでしょ？」[pcms]
 
 *3092|
 [fc]
-Despite his sleepy tone, Jin's sharp sarcasm made me[r]
-instinctively argue back.[pcms]
+眠たげな口調とは裏腹な、切れ味鋭い毒舌に、[r]
+ボクはつい、反論してみる。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3093|
 [fc]
-[ns]Jin[nse]
-"As for gods... they're nothing more than personifications[r]
-of a common consciousness held by people bound by a common[r]
-ideology."[pcms]
+[ns]壬[nse]
+「神ってもな……、[r]
+　共通の思想によって結ばれた人々がもつ共通認識を[r]
+　擬人化したものにすぎない」[pcms]
 
 *3094|
 [fc]
-[ns]Jin[nse]
-"They are the arbiters of the rules set there. Or perhaps,[r]
-the ideal participants who are faithful to the rules, in[r]
-their completed form."[pcms]
+[ns]壬[nse]
+「そこで決められたルールの裁定者。[r]
+　もしくは、ルールに忠実な理想的な参加者の完成系、か」[pcms]
 
 *3095|
 [fc]
-[ns]Wataru[nse]
-"I've never thought of it that way..."[pcms]
+[ns]航[nse]
+「そんな風に考えたことはなかったな……」[pcms]
 
 *3096|
 [fc]
-My idea of God is somewhat vague; someone who resides high[r]
-above, doesn't help individuals but watches over humanity as[r]
-a whole.[pcms]
+ボクの思う神様って、なんだか高いところにいて、[r]
+個人個人を助けたりはしないけど、[r]
+人間全体を見守ってる……っていうぼんやりした存在だ。[pcms]
 
 *3097|
 [fc]
-Maybe it's not clear because I don't have a religion of my[r]
-own.[pcms]
+自分が宗教をもたない分だけはっきりしないのかもしれないけど。[pcms]
 
 *3098|
 [fc]
-[ns]Jin[nse]
-"In any case, gods and Buddhas are all about humans[r]
-themselves. The limits of gods are the limits of human[r]
-imagination, and the limits of miracles performed by gods[r]
-are the limits of what human collectives can do. That's why[r]
-gods don't know anything that humans can't even imagine."[pcms]
+[ns]壬[nse]
+「どのみち、神も仏も人間自身の事だ。神の限界は人の想像力の[r]
+　限界で、神が行われる御技の限界は、人の集団が行える限界。[r]
+　だから、人間が思いもしなかったことは、神様もご存じない」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3099|
 [fc]
-[ns]Jin[nse]
-"...Similarly, when a worthless two-faced human starts to[r]
-become important and raises their voice, they drag others[r]
-along with them..."[pcms]
+[ns]壬[nse]
+「……同じように、二枚舌のしょうもない人間が[r]
+　偉くなって大声を出し始めると、[r]
+　それに引っ張られてな……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3100|
 [fc]
-[ns]Jin[nse]
-"Gods become worthless two-faced beings too, and the rules[r]
-of this world become... full of contradictions and shitty."[pcms]
+[ns]壬[nse]
+「神様も二枚舌のどうしようもない奴になっちまって、[r]
+　この世のルールも、何もかもが……。[r]
+　矛盾だらけのクソみたいになってゆく」[pcms]
 
 *3101|
 [fc]
-Jin continued with a bitter tone, as if spitting out his[r]
-words.[pcms]
+苦々しげに、吐き捨てるように壬は続ける。[pcms]
 
 *3102|
 [fc]
-[ns]Jin[nse]
-"If such gods willingly let loose those outside from hell,[r]
-then perhaps this 'incident' is actually a form of[r]
-salvation?"[pcms]
+[ns]壬[nse]
+「そんな神様が、自分の判断で地獄からあふれ出させたのが[r]
+　外にいる連中なら、[r]
+　今回の『これ』は、むしろ救いじゃないのか？」[pcms]
 
 *3103|
 [fc]
-[ns]Wataru[nse]
-"...Eh...?"[pcms]
+[ns]航[nse]
+「……え……？」[pcms]
 
 *3104|
 [fc]
-[ns]Jin[nse]
-"If it's a miracle that saves everyone from suffering, then[r]
-it makes sense that it started here in Shibuya."[pcms]
+[ns]壬[nse]
+「みんなを苦しみから救ってくれる奇蹟ってなら、[r]
+　この渋谷で始まったのも納得できるだろ」[pcms]
 
 *3105|
 [fc]
-Hell as God's miracle...?[pcms]
+こんな……地獄が神の奇跡………？[pcms]
 
 *3106|
 [fc]
-The events happening now and Jin's description were so far[r]
-apart that I almost became confused for a moment.[pcms]
+今、起きている出来事と[r]
+壬の表現とがあまりにもかけ離れていて、[r]
+ボクは一瞬、混乱しそうになってしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3107|
 [fc]
 [vo_mar s="maru1625"]
-[ns]Margarita[nse]
-"...Salvation?"[pcms]
+[ns]マルガリータ[nse]
+「……救い？」[pcms]
 
 *3108|
 [fc]
-Jin stood up from his seat and walked towards us, staring at[r]
-the sky as he continued talking.[pcms]
+壬は席から立ち上がり、ボク達の方へと歩きながら、[r]
+空を睨みながら、話し続ける。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3109|
 [fc]
-[ns]Jin[nse]
-"Do those outside look like monsters to you? ...To me, they[r]
-look just like humans."[pcms]
+[ns]壬[nse]
+「おまえら、あの外にいる奴らが怪物に見えるか？[r]
+　……おれは、人間そのものに見える」[pcms]
 
 *3110|
 [fc]
-Humans, just like that? Those monsters?[pcms]
+人間、そのもの？[r]
+あの化け物が？[pcms]
 
 *3111|
 [fc]
-[ns]Wataru[nse]
-"To me, they definitely look like monsters..."[pcms]
+[ns]航[nse]
+「ボクには、やっぱり怪物に見えるよ……」[pcms]
 
 *3112|
 [fc]
-[ns]Jin[nse]
-"By appearance, yes."[pcms]
+[ns]壬[nse]
+「見た目はな」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3113|
 [fc]
-[ns]Jin[nse]
-"But everyone seemed to be suffering with their true[r]
-feelings and facades, didn't they? Worried about how society[r]
-sees them or how they want to be seen."[pcms]
+[ns]壬[nse]
+「だが、みんな本音と建て前に汲々として、苦しそうだったろ？[r]
+　世間体やら何やら、[r]
+　自分がどう見られてるのか、どう見られたいのか」[pcms]
 
 *3114|
 [fc]
-[ns]Jin[nse]
-"The virus frees them from various worries and allows them[r]
-to be 'themselves'..."[pcms]
+[ns]壬[nse]
+「様々な悩みから解放して[r]
+　『そのままの自分』とやらにしてくれるのが、[r]
+　あのウイルスで……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3115|
 [fc]
-[ns]Jin[nse]
-"And those enjoying that state to the fullest are 'them',[r]
-right? Don't you think this is what salvation looks like?"[pcms]
+[ns]壬[nse]
+「その状態を存分に楽しんでるのが、[r]
+　“ヤツラ”だろ？　コレこそが救済だとは思わないか？」[pcms]
 
 *3116|
 [fc]
-Freedom from worries... being oneself... It seems like a[r]
-forced rationalization. Nobody wanted to be infected...[pcms]
+悩みからの解放……そのままの自分……。[r]
+そんなの、無理やりのこじつけだ……とは思う。[r]
+誰だって感染したくなんか、なかったはずだ……。[pcms]
 
 *3117|
 [fc]
-But Jin's words had a strange persuasive power that I[r]
-couldn't completely deny.[pcms]
+だけど壬の言葉には[r]
+一概に否定しきれない、妙な説得力があって。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3118|
 [fc]
 [vo_mar s="maru1626"]
-[ns]Margarita[nse]
-"...You might be right. Then why don't you accept that[r]
-'salvation'?"[pcms]
+[ns]マルガリータ[nse]
+「……お前の言うとおりかもしれん。[r]
+　では、何故お前は、その『救済』を受けない？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3119|
 [fc]
-[ns]Jin[nse]
-"It's simple. A story about getting help for free is too[r]
-suspicious."[pcms]
+[ns]壬[nse]
+「簡単な事だ。[r]
+　タダで助けてやるなんて話は、胡散臭すぎる」[pcms]
 
 *3120|
 [fc]
-Jin chuckled throatily as if amused and continued.[pcms]
+くくくっと喉の奥で楽しそうな唸り声を立てて、壬は続ける。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3121|
 [fc]
-[ns]Jin[nse]
-"Besides, I don't want to do something I dislike just[r]
-because everyone else is doing it and it's considered[r]
-normal."[pcms]
+[ns]壬[nse]
+「それに俺は、周りが全員同じ行動をとり、[r]
+　従うのが当然だと言われたとしても[r]
+　自分が気に入らないことは、したくない」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3122|
 [fc]
-[ns]Jin[nse]
-"If being crazy is what they call me for that, then I'm fine[r]
-with remaining a crazy guy. I don't want to compromise any[r]
-more than this..."[pcms]
+[ns]壬[nse]
+「それでイカレてると言われるなら、[r]
+　俺はイカレたヤツのままでいい。[r]
+　これ以上は、何も譲りたくねぇからな…………」[pcms]
 
 *3123|
 [fc]
-Suddenly his gaze focused on us. Just as I thought so, Jin[r]
-shook his head lightly from side to side.[pcms]
+ふと目の焦点が、ボクたちに合った。[r]
+と思うなり、壬は軽く頭を左右に振る。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3124|
 [fc]
-[ns]Jin[nse]
-"Shit... I've done it... Drank too much. It's because the[r]
-liquor was too good. I've talked too much..."[pcms]
+[ns]壬[nse]
+「クソ……俺としたことが……。飲み過ぎちまった。[r]
+　……旨すぎる酒のせいだ。[r]
+　しゃべり過ぎちまったな……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_g2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3125|
 [fc]
-[ns]Jin[nse]
-"Sorry. I'm going to sleep now, so you two take care of the[r]
-rest..."[pcms]
+[ns]壬[nse]
+「ワリィ。[r]
+　俺はもう寝るから、あとは二人でよろしくやんな……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3126|
 [fc]
-Leaving behind an unusual apology, Jin staggered out of the[r]
-dome.[pcms]
+珍しく謝罪の言葉を残して、[r]
+壬はフラフラとドームから出て行った。[pcms]
 
 *3127|
 [fc]
-[ns]Wataru[nse]
-"Salvation... and being oneself, huh..."[pcms]
+[ns]航[nse]
+「救済……それに、そのままの自分、か……」[pcms]
 
 *3128|
 [fc]
-I don't need such salvation. But being oneself, huh...[pcms]
+こんな救済ならボクは受けなくてもいい。[r]
+だけど、そのままの自分、か……。[pcms]
 
 *3129|
 [fc]
-Being oneself... I wonder which one is "being oneself" for[r]
-me...[pcms]
+そのままの自分……。[r]
+ボクは、どれが『そのまま』なんだろう……。[pcms]
 
 ;//ジャンプ：ブロック 50530 へ
 [jump storage="50530.ks" target=*50530_TOP]

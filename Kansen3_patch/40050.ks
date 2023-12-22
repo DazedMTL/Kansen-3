@@ -1,10 +1,10 @@
 ;//block:A006
-;//ブロック４００５０『地下道全員脱出編　上』
+;//ブロック４００５０『地下道～全員脱出編～　上』
 ;//@konya 11/18 EV_CGほか
 ;//@konya 40040.txtから
 
 *40050_TOP
-;{SceneSet 地下道全員脱出編上}
+;{SceneSet 地下道～全員脱出編～上}
 ;//---------------------------------------------------------------
 ;//背景：地下道
 ;//登場人物:主人公・悠帆（ジャージ＋バッグ→制服＋バッグ）・浩助（制服）
@@ -27,246 +27,250 @@
 *267|
 [fc]
 [vo_mar s="maru0924"]
-[ns]Margarita[nse]
-"...I see. That's all then."[pcms]
+[ns]マルガリータ[nse]
+「……なるほど。以上だな」[pcms]
 
 *268|
 [fc]
-We finished checking our belongings as per Maruko-senpai's[r]
-suggestion.[pcms]
+ボクたちはマルガリータ……、[r]
+マル子先輩の提案で持ち物のチェックを済ませた。[pcms]
 
 *269|
 [fc]
-Aside from my own luggage being quite substantial for the[r]
-camping preparations, Maruko-senpai's "emergency equipment"[r]
-also included a flashlight among other things, quite a[r]
-collection.[pcms]
+キャンプの準備をしていたボクの荷物が多いのはともかく、[r]
+マル子先輩の『いざという時の装備』も[r]
+懐中電灯やら何やらと、なかなかの品揃えだ。[pcms]
 
 *270|
 [fc]
-Yuuho, Ren, and Kousuke also brought bags filled with[r]
-jerseys and other items.[pcms]
+それに悠帆も漣も浩助も、それぞれに[r]
+ジャージなどの入ったバッグを持ってきていた。[pcms]
 
 *271|
 [fc]
 [vo_mar s="maru0925"]
-[ns]Margarita[nse]
-"We should have enough clothes and lighting for the time[r]
-being, but we're critically short on food. We can't plan to[r]
-hole up underground with this..."[pcms]
+[ns]マルガリータ[nse]
+「着替えと照明には当面、困らないだろうが、[r]
+　いかんせん決定的に食料が乏しいな。[r]
+　これでは地下に篭城する作戦はとれないか……」[pcms]
 
 *272|
 [fc]
-[ns]Wataru[nse]
-"No, rather, we should be grateful for how well-equipped we[r]
-are. It's amazing everyone managed to bring their luggage in[r]
-that chaos, right?"[pcms]
+[ns]航[nse]
+「いやー、むしろ、[r]
+　ここまで備品が揃ってる幸運に感謝ですよ。[r]
+　あの混乱の中、よくみんな荷物を持ち出せたね？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *273|
 [fc]
 [vo_ren s="ren0852"]
-[ns]Ren[nse]
-"Now that you mention it..."[pcms]
+[ns]漣[nse]
+「そういえば……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *274|
 [fc]
 [vo_yuh s="yuho0812"]
-[ns]Yuuho[nse]
-"Wataru, you were running around with that big luggage on[r]
-your back the whole time, right? How did you manage to move[r]
-so well?"[pcms]
+[ns]悠帆[nse]
+「航なんか、その大きな荷物背負ったまま[r]
+　ずーっと走り回ってたんでしょ？[r]
+　よく動けたねー？」[pcms]
 
 *275|
 [fc]
-Now that she mentioned it, that was true.[pcms]
+言われてみればそうだった。[pcms]
 
 *276|
 [fc]
-I might have just forgotten about the existence of the[r]
-luggage amidst all the chaos.[pcms]
+あの混乱の中で荷物の存在自体、[r]
+忘れてただけかもしれないけれど。[pcms]
 
 *277|
 [fc]
-[ns]Wataru[nse]
-"Now that you mention it, yeah. Maybe it was adrenaline[r]
-strength...?"[pcms]
+[ns]航[nse]
+「そういえばそうだね。[r]
+　火事場の馬鹿力……かなあ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *278|
 [fc]
-[ns]Kousuke[nse]
-"Were you high on adrenaline? I can understand in Maruko-[r]
-senpai's case."[pcms]
+[ns]浩助[nse]
+「ハイになってたんじゃねーの？[r]
+　マル子先輩の場合は、なんか判るけどな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *279|
 [fc]
 [vo_mar s="maru0926"]
-[ns]Margarita[nse]
-"...What do you mean by that?"[pcms]
+[ns]マルガリータ[nse]
+「……どういう意味だ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *280|
 [fc]
-[ns]Kousuke[nse]
-"No, no, no. So, what should we do next?"[pcms]
+[ns]浩助[nse]
+「いえいえいえ。[r]
+　で、次はどうしたらいいっすか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *281|
 [fc]
 [vo_mar s="maru0927"]
-[ns]Margarita[nse]
-"Let's focus on gathering information and understanding the[r]
-situation. Does everyone have their cell phones? I left mine[r]
-charging..."[pcms]
+[ns]マルガリータ[nse]
+「情報収集と状況の把握に努めよう。[r]
+　みんな、携帯電話はあるか？[r]
+　ワタシは充電したまま置いてきてしまったのだが……」[pcms]
 
 *282|
 [fc]
-At Maruko-senpai's question, everyone started rummaging[r]
-through their pockets.[pcms]
+マル子先輩の問いかけに、[r]
+みながゴソゴソとポケットを探った。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *283|
 [fc]
 [vo_yuh s="yuho0813"]
-[ns]Yuuho[nse]
-"Ah, I have mine. It was in my bag."[pcms]
+[ns]悠帆[nse]
+「あ、わたし、ありまーす。[r]
+　カバンに入れっぱなしだったから」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *284|
 [fc]
-[ns]Kousuke[nse]
-"I'm all set."[pcms]
+[ns]浩助[nse]
+「オレもばっちり」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *285|
 [fc]
 [vo_ren s="ren0853"]
-[ns]Ren[nse]
-"I... left mine in the music room."[pcms]
+[ns]漣[nse]
+「わ、私は……音楽室に置いてきちゃった」[pcms]
 
 *286|
 [fc]
-[ns]Wataru[nse]
-"It's okay, I have mine. Ren can use mine."[pcms]
+[ns]航[nse]
+「大丈夫、ボクが持ってるから。[r]
+　漣はボクのを使えばいいよ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *287|
 [fc]
 [vo_ren s="ren0854"]
-[ns]Ren[nse]
-"Yeah, thank you, Onii-chan."[pcms]
+[ns]漣[nse]
+「うん、ありがとう、お兄ちゃん」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *288|
 [fc]
-[ns]Kousuke[nse]
-"But hey, do we even get a signal down here in the[r]
-basement?"[pcms]
+[ns]浩助[nse]
+「けどよ、こんな地下でも電波届くもんなのか？」[pcms]
 
 *289|
 [fc]
-Kousuke opened his cell phone and squinted at the small[r]
-display.[pcms]
+おもむろに携帯を開いたコースケは、[r]
+小さなディスプレイに目を凝らす。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *290|
 [fc]
 [vo_yuh s="yuho0814"]
-[ns]Yuuho[nse]
-"Let's see... oh, okay, two bars of signal."[pcms]
+[ns]悠帆[nse]
+「えっとね……あ、オッケー、アンテナ２本」[pcms]
 
 *291|
 [fc]
-My cell phone was also barely receiving a signal.[pcms]
+ボクの携帯も、かろうじて電波が来てる。[pcms]
 
 *292|
 [fc]
-It was surprising to get a signal in such a deep underground[r]
-place surrounded by concrete.[pcms]
+周囲はコンクリートで、しかも地下の相当深いところなのに[r]
+電波が届くなんて意外だったけど。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *293|
 [fc]
 [vo_mar s="maru0928"]
-[ns]Margarita[nse]
-"Good. Then let's each start gathering information."[pcms]
+[ns]マルガリータ[nse]
+「よし。[r]
+　では、各自、情報収集を開始してくれ」[pcms]
 
 *294|
 [fc]
-[ns]Wataru[nse]
-"Yes."[pcms]
+[ns]航[nse]
+「はい」[pcms]
 
 *295|
 [fc]
-We immediately began checking various sites on our cell[r]
-phones.[pcms]
+ボクたちはさっそく、それぞれの携帯に向かって[r]
+サイトのチェックを始めた。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *296|
 [fc]
-But maybe the lines were messed up because calls wouldn't go[r]
-through and emails were getting send errors.[pcms]
+だけど、回線がおかしくなっているのか、[r]
+電話はどこにも通じないし、[r]
+メールも送信エラーが起きてしまうようだった。[pcms]
 
 *297|
 [fc]
-I decided to check the unread emails that had come in.[pcms]
+ボクはしかたなしに、着信している未開封のメールを[r]
+見てみることにした。[pcms]
 
 *298|
 [fc]
-The emails were from Ren and Kousuke, sent during the summer[r]
-festival.[pcms]
+メールは漣とコ－スケからだった。[r]
+送られたのは夏祭りの最中。[pcms]
 
 *299|
 [fc]
-"Hey, where did you disappear to?" "Onii-chan, where are[r]
-you?"[pcms]
+『お～い、どこに消えたんだ？』[r]
+『お兄ちゃん、どこにいるの？』[pcms]
 
 *300|
 [fc]
-A few short emails worrying about me since I had run away[r]
-from the summer festival...[pcms]
+夏祭りから逃げ出したボクを気づかう、[r]
+短いメールが数通……。[pcms]
 
 *301|
 [fc]
-"Yuuho-chan is also missing, are you meeting up with her?"[pcms]
+『悠帆ちゃんもいないけど、お兄ちゃんと合流してる？』[pcms]
 
 *302|
 [fc]
-[ns]Wataru[nse]
-"Huh? That means... essentially..."[pcms]
+[ns]航[nse]
+「あれ？　それって……つまり……」[pcms]
 
 *303|
 [fc]
-Not only was I missing, but Yuuho was gone too...?[pcms]
+ボクだけじゃなくて、悠帆もいなくなった……ってこと？[pcms]
 
 *304|
 [fc]
-In other words, more specifically... Yuuho had arranged to[r]
-meet with Oshima- senpai and hadn't returned to everyone[r]
-else.[pcms]
+それは、更にもっと言うなら……。[r]
+悠帆は大嶋先輩と待ち合わせして……、[r]
+そのままみんなのところに戻っていないということで。[pcms]
 
 *305|
 [fc]
-That means after that, Yuuho and Oshima-senpai spent time[r]
-alone together...!!!![pcms]
+それはつまり、あのあと悠帆と大嶋先輩が[r]
+二人っきりで過ごした、ということで……！！！！[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -283,38 +287,38 @@ alone together...!!!![pcms]
 *306|
 [fc]
 [vo_yuh s="yuho0110"]
-[ns]Yuuho[nse]
-"Ahnn, Oshima-senpai... kuhfuuh, it's going in, it's coming[r]
-in."[pcms]
+[ns]悠帆[nse]
+「あんっ、大嶋先輩が……くふぅう、入って、[r]
+　入ってきちゃう」[pcms]
 
 *307|
 [fc]
-[ns]Oshimi[nse]
-"It feels so good. Inside you, Yuuho, it's irresistible."[pcms]
+[ns]大嶋[nse]
+「すごい気持ちいいよ。悠帆の中、たまらない」[pcms]
 
 *308|
 [fc]
 [vo_yuh s="yuho0111"]
-[ns]Yuuho[nse]
-"Se-senpai too ki-feels good. Feels good... ahnn! Oshima-[r]
-senpai."[pcms]
+[ns]悠帆[nse]
+「せ、先輩もき、気持ちいい。気持ちいい……あっ、[r]
+　あんっ！　大嶋先輩」[pcms]
 
 *309|
 [fc]
-[ns]Oshimi[nse]
-"I'm going to cum. Can I let it out?"[pcms]
+[ns]大嶋[nse]
+「出る。出してもいいか？」[pcms]
 
 *310|
 [fc]
 [vo_yuh s="yuho0112"]
-[ns]Yuuho[nse]
-"Nnhfuuhh, go ahead, cum inside me, senpai. Fill me up with[r]
-lots of Oshima- senpai's sperm~"[pcms]
+[ns]悠帆[nse]
+「んっふぅうう、だ、出して、先輩。わたしの、[r]
+　わたしの中に、大嶋先輩の精子、いっぱい出して～」[pcms]
 
 *311|
 [fc]
-[ns]Oshimi[nse]
-"Yuuho!"[pcms]
+[ns]大嶋[nse]
+「悠帆っ！」[pcms]
 
 
 ;//konya 射精時フラッシュ演出
@@ -324,9 +328,9 @@ lots of Oshima- senpai's sperm~"[pcms]
 *312|
 [fc]
 [vo_yuh s="yuho0113"]
-[ns]Yuuho[nse]
-"Hiuuuh! Se-sperm, so much sperm is coming out inside[r]
-meeehh!"[pcms]
+[ns]悠帆[nse]
+「ひぅうっ！　せ、精子、精子いっぱいいっぱい[r]
+　出てるぅううんっ」[pcms]
 
 ;//@konya HEV011b
 [evcg storage="HEV013c"][trans_c cross time=300]
@@ -346,95 +350,96 @@ meeehh!"[pcms]
 *313|
 [fc]
 [vo_yuh s="yuho0815"]
-[ns]Yuuho[nse]
-"...Wataru? Did you get some concerning email?"[pcms]
+[ns]悠帆[nse]
+「……航？[r]
+　なんか気になるメールでも、あったの？」[pcms]
 
 *314|
 [fc]
-When I looked up, Yuuho was staring intently at my face.[pcms]
+気がつくと悠帆がボクの顔をじーっと見てた。[pcms]
 
 *315|
 [fc]
-[ns]Wataru[nse]
-"Ah, no, it's nothing."[pcms]
+[ns]航[nse]
+「あ、い、いや、何でもないよ」[pcms]
 
 *316|
 [fc]
-I tried to cover it up with a strained smile and went back[r]
-to checking more emails...[pcms]
+引き攣った笑顔でごまかして、[r]
+ボクは更にメールを確認しようとして…………。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *317|
 [fc]
-Suddenly, my finger stopped scrolling.[pcms]
+ふと指が止まった。[pcms]
 
 *318|
 [fc]
-This sender... this email...!![pcms]
+この差出人……、このメールは……！！[pcms]
 
 *319|
 [fc]
-[ns]Wataru[nse]
-"Ren! This is from Dad!"[pcms]
+[ns]航[nse]
+「漣！　これ、父さんだ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *320|
 [fc]
 [vo_ren s="ren0855"]
-[ns]Ren[nse]
-"Eh!? Let me see!"[pcms]
+[ns]漣[nse]
+「えっ！？　み、見せて！」[pcms]
 
 ;//se022・携帯の操作音
 [se buf=0 storage="se022"]
 
 *321|
 [fc]
-Ren and I leaned in close to each other to look at the cell[r]
-phone screen.[pcms]
+ボクと漣は頬を寄せ合うようにして、[r]
+ケータイの液晶画面を覗き込む。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a7"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *322|
 [fc]
-It was a notification that had come in quite late, but the[r]
-date was today's.[pcms]
+ずいぶん遅れての着信だったけど、日付は今日のものだった。[pcms]
 
 ;//　以下ケータイメール　何らかの演出を
 
 *323|
 [fc]
-Is everything okay over there?[pcms]
+そちらは大丈夫か？[pcms]
 
 *324|
 [fc]
-There's a big commotion here too. It seems to be related to[r]
-that infection in the northeast. The vaccine doesn't seem to[r]
-be working.[pcms]
+こっちも大変な騒ぎになっている。[r]
+おそらく東北のあの感染症が関係しているようだ。[r]
+ワクチンが効いてないらしい。[pcms]
 
 *325|
 [fc]
-Is the school alright? Are there any infected? If there are,[r]
-don't go near them.[pcms]
+学校は大丈夫か？[r]
+感染者は出ていないか？[r]
+もし感染者がいたら、絶対に近寄るな。[pcms]
 
 *326|
 [fc]
-Even if it's a friend. It may sound harsh, but once[r]
-infected, there's no hope for recovery. That's how it was[r]
-with the virus in the northeast.[pcms]
+たとえ、それが友達でも。[r]
+酷いようだが、一度感染したら治る見込みはない。[r]
+東北のウィルスはそうだった。[pcms]
 
 *327|
 [fc]
-Anyway, just think about protecting yourself first.[pcms]
+とにかく、まずは自分を守ることだけ考えろ。[pcms]
 
 *328|
 [fc]
-I'm about to go on a live broadcast.[pcms]
+これから中継に出る。[pcms]
 
 *329|
 [fc]
-Take care of Ren.[pcms]
+漣を頼む。[pcms]
 
 ;//メールここまで。
 
@@ -442,96 +447,97 @@ Take care of Ren.[pcms]
 
 *330|
 [fc]
-[ns]Wataru[nse]
-"Dad..."[pcms]
+[ns]航[nse]
+「父さん……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *331|
 [fc]
 [vo_ren s="ren0856"]
-[ns]Ren[nse]
-"Thank goodness... Dad!"[pcms]
+[ns]漣[nse]
+「良かった……お父さん！」[pcms]
 
 *332|
 [fc]
-Ren and I looked at each other and let out a long sigh of[r]
-relief.[pcms]
+ボクと漣は顔を見合わせ、ほーっと長い溜息をついた。[pcms]
 
 *333|
 [fc]
-Regardless of anything else, Dad was alive. Right now, that[r]
-was all that mattered.[pcms]
+何はともあれ、父さんが生きていた。[r]
+今はただ、それが嬉しい。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *334|
 [fc]
 [vo_yuh s="yuho0816"]
-[ns]Yuuho[nse]
-"From your uncle?"[pcms]
+[ns]悠帆[nse]
+「おじさんから？」[pcms]
 
 *335|
 [fc]
-Noticing our expressions, Yuuho and Maruko-senpai came over[r]
-to us.[pcms]
+ボクたちの様子に気付いて、[r]
+悠帆やマル子先輩が傍にやってきた。[pcms]
 
 *336|
 [fc]
-[ns]Wataru[nse]
-"Yeah. He's safe. He's going to cover a story now. It's an[r]
-old email though."[pcms]
+[ns]航[nse]
+「うん。無事だって。[r]
+　これから取材に行くんだって。[r]
+　ちょっと、前のメールだけど」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *337|
 [fc]
 [vo_mar s="maru0929"]
-[ns]Margarita[nse]
-"Covering a story? Is Wataru's father a journalist or[r]
-something?"[pcms]
+[ns]マルガリータ[nse]
+「取材？　ワタルの父上は記者か、なにかか？」[pcms]
 
 *338|
 [fc]
-[ns]Wataru[nse]
-"He's a reporter for DHK News."[pcms]
+[ns]航[nse]
+「ＤＨＫの報道局員です」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *339|
 [fc]
 [vo_mar s="maru0930"]
-[ns]Margarita[nse]
-"I see. We might get some direct information from him then."[pcms]
+[ns]マルガリータ[nse]
+「そうか。[r]
+　有益な情報が直接送信されてくるかもしれないな」[pcms]
 
 *340|
 [fc]
-Maruko-senpai was pleased for a different reason than Ren[r]
-and me.[pcms]
+ボクや漣とは違った意味だったけど[r]
+マル子先輩も、喜んでくれた。[pcms]
 
 *341|
 [fc]
-[ns]Wataru[nse]
-"The reception is quite delayed though."[pcms]
+[ns]航[nse]
+「着信がかなり遅れますけどね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *342|
 [fc]
 [vo_mar s="maru0931"]
-[ns]Margarita[nse]
-"There's also radio. If it's even slightly faster and[r]
-accurate, it will be valuable."[pcms]
+[ns]マルガリータ[nse]
+「ラジオもあることだ。[r]
+　それより少しでも早くて、正確なら[r]
+　十分に価値があるだろう」[pcms]
 
 *343|
 [fc]
-[ns]Wataru[nse]
-"That's true..."[pcms]
+[ns]航[nse]
+「そうですね……」[pcms]
 
 *344|
 [fc]
-If the radio was broadcasting something incorrect, we could[r]
-verify it with Dad's information.[pcms]
+もし、ラジオが間違ったことを言っていても、[r]
+父さんの情報と照らしあわせればわかる。[pcms]
 
 ;//★以下の５ワード、位置を数行、上に入れ替えしました。
 ;//話が前後してたので
@@ -542,287 +548,294 @@ verify it with Dad's information.[pcms]
 *345|
 [fc]
 [vo_yuh s="yuho0818"]
-[ns]Yuuho[nse]
-"Um... I've also got an email from my swimming mates...[r]
-There's something that's been bothering me."[pcms]
+[ns]悠帆[nse]
+「あ、あのね……。わ、わたしにも、[r]
+　競泳仲間からメール、入ってるんだけど……」[r]
+　ちょっと気になることがあって」[pcms]
 
 *346|
 [fc]
 [vo_yuh s="yuho0819"]
-[ns]Yuuho[nse]
-"The emails are all from kids in other prefectures. Oh, and[r]
-from kids in Tokyo too, but from the outskirts... almost[r]
-like other prefectures."[pcms]
+[ns]悠帆[nse]
+「メールくれたの、他県の子ばかりなんだ。[r]
+　あ、都内の子からもきてるけど、[r]
+　郊外の離れたところで……ほとんど他県みたいな」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *347|
 [fc]
 [vo_yuh s="yuho0820"]
-[ns]Yuuho[nse]
-"I haven't received anything from nearby... What about you,[r]
-Kousuke?"[pcms]
+[ns]悠帆[nse]
+「近くからはぜんぜん……来てないんだけど。[r]
+　コースケはどう？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *348|
 [fc]
-[ns]Kousuke[nse]
-"...Mine too. Haven't heard anything from my close[r]
-buddies..."[pcms]
+[ns]浩助[nse]
+「……お、オレのもだ。[r]
+　近くのダチらからは、何も言ってきてねえ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *349|
 [fc]
 [vo_mar s="maru0933"]
-[ns]Margarita[nse]
-"...I see."[pcms]
+[ns]マルガリータ[nse]
+「……そうか」[pcms]
 
 ;//ここまで
 
 *350|
 [fc]
-[ns]Wataru[nse]
-"Who are the emails from?"[pcms]
+[ns]航[nse]
+「来てるメールは誰から？」[pcms]
 
 *351|
 [fc]
-Kousuke was frantically operating his cell phone when I[r]
-called out to him.[pcms]
+夢中で携帯を操作してるコースケに、[r]
+ボクは声をかける。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *352|
 [fc]
-[ns]Kousuke[nse]
-"...Just from my music friends. From Jun, Yuta, KAZ... Oh,[r]
-and DJ-HEAVY too."[pcms]
+[ns]浩助[nse]
+「……音楽仲間からのメールばっかだ。[r]
+　ジュンに、ユータに、ＫＡＺに……。[r]
+　あ、ＤＪーＨＥＡＶＹからも」[pcms]
 
 *353|
 [fc]
-[ns]Wataru[nse]
-"What do they say?"[pcms]
+[ns]航[nse]
+「なんて書いてあるの？」[pcms]
 
 *354|
 [fc]
-Kousuke scrolled through several received emails and began[r]
-reading the screen aloud.[pcms]
+コースケはいくつかの受信メールをスクロールして、[r]
+画面を読み上げ始めた。[pcms]
 
 *355|
 [fc]
-[ns]Kousuke[nse]
-"Uh... They say they've been safe in NY since yesterday. The[r]
-commotion here is being broadcast on TV over there too."[pcms]
+[ns]浩助[nse]
+「えーと……。[r]
+　昨日からＮＹに行ってて、無事だって。[r]
+　向こうのテレビでも、この騒ぎが放送されてるって」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *356|
 [fc]
-[ns]Kousuke[nse]
-"It seems like all of Japan is affected, but they're worried[r]
-if me and Master are okay..."[pcms]
+[ns]浩助[nse]
+「日本中が影響受けてるようだけど[r]
+　オレやマスターは大丈夫なのか……って心配してる」[pcms]
 
 *357|
 [fc]
-I thought the email was surprisingly simple, but next to me,[r]
-Ren twitched with shock.[pcms]
+意外とシンプルなメールだな、[r]
+なんて呑気なことを思うボクの横で[r]
+漣がビクっと身体を震わせた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *358|
 [fc]
 [vo_ren s="ren0857"]
-[ns]Ren[nse]
-"Wait, Kousuke! Did you just say... all of Japan?"[pcms]
+[ns]漣[nse]
+「ま、待って、コーちゃん！[r]
+　今……、に……日本中って言ったの？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *359|
 [fc]
-[ns]Kousuke[nse]
-"Eh...? ...Ah, yeah... That's what it says..."[pcms]
+[ns]浩助[nse]
+「えっ……？[r]
+　…………あ、ああ……。そう、書いてある……な」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *360|
 [fc]
 [vo_yuh s="yuho0817"]
-[ns]Yuuho[nse]
-"All of Japan..."[pcms]
+[ns]悠帆[nse]
+「日本中って……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *361|
 [fc]
 [vo_mar s="maru0932"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 
 *362|
 [fc]
-As the meaning of that single phrase sank in, a heavy[r]
-silence fell upon us.[pcms]
+そのひとことの意味が伝わると同時に、[r]
+ボクたちの上に重苦しい沈黙が降りかかる。[pcms]
 
 *363|
 [fc]
-It wasn't just our town; could all of Japan be in this[r]
-situation? Could it be...?[pcms]
+ボクたちの街だけじゃなくて、[r]
+日本中が、こんな事態に……？[r]
+まさか……？[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *364|
 [fc]
 [vo_yuh s="yuho0821"]
-[ns]Yuuho[nse]
-"I wonder if Mom and Dad are okay..."[pcms]
+[ns]悠帆[nse]
+「お父さん、お母さん……。[r]
+　大丈夫かな……」[pcms]
 
 *365|
 [fc]
-Yuuho muttered softly to herself.[pcms]
+悠帆がポツリと呟く。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *366|
 [fc]
-[ns]Kousuke[nse]
-"...They too..."[pcms]
+[ns]浩助[nse]
+「……アイツも……」[pcms]
 
 *367|
 [fc]
-[ns]Wataru[nse]
-"Whose..."[pcms]
+[ns]航[nse]
+「誰の……」[pcms]
 
 *368|
 [fc]
-As I began to ask "whose concern," and looked at his face, I[r]
-immediately understood who Kousuke was worried about. It[r]
-must be Mizuki.[pcms]
+誰のこと、と聞きかけて顔を見れば、[r]
+コースケが誰を心配しているのかは、すぐ判った。[r]
+きっと瑞樹のことだ。[pcms]
 
 *369|
 [fc]
-[ns]Wataru[nse]
-"...Don't worry, I'm sure she's fine. She seems pretty[r]
-tough, after all."[pcms]
+[ns]航[nse]
+「……大丈夫だよ、きっと。[r]
+　なんたって、しぶとそうだからね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *370|
 [fc]
-[ns]Kousuke[nse]
-"Ah... Yeah, you're right."[pcms]
+[ns]浩助[nse]
+「ああ……そうだな」[pcms]
 
 *371|
 [fc]
-Speaking of which, what about the senior?[pcms]
+……そう言えば、先輩は？[pcms]
 
 *372|
 [fc]
-[ns]Wataru[nse]
-"Are your parents okay, senior? They're at the embassy,[r]
-right?"[pcms]
+[ns]航[nse]
+「先輩のご両親は大丈夫ですか？　大使館ですよね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *373|
 [fc]
 [vo_mar s="maru0934"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *374|
 [fc]
-Senior Maruko slowly shook her head.[pcms]
+マル子先輩は、ゆっくりと首を振る。[pcms]
 
 *375|
 [fc]
 [vo_mar s="maru0935"]
-[ns]Margarita[nse]
-"My father is away from Tokyo on official business, so only[r]
-my personal bodyguard and the staff are left at the[r]
-embassy."[pcms]
+[ns]マルガリータ[nse]
+「父親は公務で[ruby text="こ　こ"][ch text="東京"]を離れているから[r]
+　大使館にはワタシの専属ボディーガードと[r]
+　スタッフが残ってるだけだ」[pcms]
 
 *376|
 [fc]
 [vo_mar s="maru0936"]
-[ns]Margarita[nse]
-"My mother has passed away. She was killed in a bomb[r]
-terrorist attack during the Matinia civil war..."[pcms]
+[ns]マルガリータ[nse]
+「母は、もう亡くなっている。[r]
+　マティニア内戦の最中に爆弾テロでな……」[pcms]
 
 *377|
 [fc]
-[ns]Wataru[nse]
-"...I'm sorry."[pcms]
+[ns]航[nse]
+「……すいません」[pcms]
 
 *378|
 [fc]
-My heart ached sharply. The senior had tasted the same pain[r]
-as me.[pcms]
+ずきりと胸が痛んだ。[r]
+先輩もボクと同じ苦しみを味わっていたんだ。[pcms]
 
 *379|
 [fc]
-"Having her mother's life taken away for such an absurd[r]
-reason..."[pcms]
+『あまりに理不尽な理由で母親の命を奪われる』[r]
+っていう……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *380|
 [fc]
 [vo_yuh s="yuho0822"]
-[ns]Yuuho[nse]
-"Wataru lost his mother in the previous Tohoku infection[r]
-disaster. So it's not like he meant any harm..."[pcms]
+[ns]悠帆[nse]
+「航は前の[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]で[r]
+　お母さんを亡くしてんるんです。[r]
+　だから、悪気があったわけじゃ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *381|
 [fc]
 [vo_mar s="maru0937"]
-[ns]Margarita[nse]
-"Don't worry about it. It's an unavoidable pain when people[r]
-try to understand each other."[pcms]
+[ns]マルガリータ[nse]
+「気にするな。[r]
+　人がわかりあう時には、避けられない痛みだ」[pcms]
 
 *382|
 [fc]
-The senior smiled gently at me. It was the expression I[r]
-often made when I felt the same pain.[pcms]
+先輩はやさしく笑ってくれた。[r]
+それはボクが同じ痛みを感じた時によくする表情だった。[pcms]
 
 *383|
 [fc]
-While enduring the pain, I felt grateful to those who showed[r]
-concern for me...[pcms]
+痛みに耐えながら、気づかってくれた人に[r]
+『ありがとう』って気持ちで……。[pcms]
 
 *384|
 [fc]
-[ns]Wataru[nse]
-"I'm truly sorry!"[pcms]
+[ns]航[nse]
+「本当にすみません！」[pcms]
 
 *385|
 [fc]
-I bowed my head once again.[pcms]
+ボクはもう一度頭を下げた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *386|
 [fc]
 [vo_mar s="maru0938"]
-[ns]Margarita[nse]
-"I told you not to worry about it... What concerns me more[r]
-is the staff."[pcms]
+[ns]マルガリータ[nse]
+「気にしないでいいというのに……。[r]
+　ワタシはそれよりもスタッフたちが心配だ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *387|
 [fc]
 [vo_mar s="maru0939"]
-[ns]Margarita[nse]
-"Some of them were capable soldiers in their homeland during[r]
-the civil war, so they should be contributing to resolving[r]
-the situation..."[pcms]
+[ns]マルガリータ[nse]
+「何人かは、内戦中の祖国では有能な兵士だったから、[r]
+　事態の収拾に尽力してくれるだろうが……」[pcms]
 
 *388|
 [fc]
-Ah, speaking of which...[pcms]
+あっ、そういえば……。[pcms]
 
 ;//　立ち絵　セスカ　回想エフェクト
 ;//@konya 暗転
@@ -834,13 +847,14 @@ Ah, speaking of which...[pcms]
 
 *389|
 [fc]
-That person... He seems to be the senior's bodyguard, but I[r]
-wonder if he's at the embassy too.[pcms]
+あの人……。[r]
+先輩のボディーガードらしいけど、[r]
+あの人も大使館にいるんだろうか。[pcms]
 
 *390|
 [fc]
-He was always worried about the senior, and in this[r]
-situation, his concern must be even greater.[pcms]
+先輩のことをいろいろ心配してたし、[r]
+こんな状況だと心配どころじゃないだろうな。[pcms]
 
 ;//@konya 暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -855,40 +869,39 @@ situation, his concern must be even greater.[pcms]
 *391|
 [fc]
 [vo_yuh s="yuho0823"]
-[ns]Yuuho[nse]
-"Not just my father and mother... I haven't received any[r]
-emails from Tadahiko and Inori-san either... Are they[r]
-okay... I wonder..."[pcms]
+[ns]悠帆[nse]
+「お父さんとお母さんもだけど……、[r]
+　彦ちんと緒織さんからもメールがないよ……。[r]
+　大丈夫……かな……」[pcms]
 
 *392|
 [fc]
 [vo_yuh s="yuho0824"]
-[ns]Yuuho[nse]
-"Tadahiko might not be good with using cell phones, but not[r]
-getting an email from Inori-san at a time like this is..."[pcms]
+[ns]悠帆[nse]
+「ケータイの使い方が良くわかんない彦ちんはともかく、[r]
+　こんな時に緒織さんからメールないのは……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *393|
 [fc]
-[ns]Kousuke[nse]
-"It's okay, don't worry. Tadahiko will definitely figure[r]
-something out. And Inori-san must be with him, so she'll be[r]
-fine!"[pcms]
+[ns]浩助[nse]
+「だーいじょうぶ、心配すんなって。[r]
+　彦ちんなら絶対どうにかしてるさ。[r]
+　緒織さんも、きっと彦ちんと一緒だから大丈夫！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *394|
 [fc]
 [vo_ren s="ren0858"]
-[ns]Ren[nse]
-"...Yeah, that's right. After all, it's Tadahiko we're[r]
-talking about."[pcms]
+[ns]漣[nse]
+「……そうだね。だって、彦ちんだし」[pcms]
 
 *395|
 [fc]
-Indeed, Tadahiko seems like he wouldn't die even if you[r]
-killed him... Thinking that somehow reassured me.[pcms]
+確かに、彦ちんは殺しても死ななさそう……。[r]
+そう思うと不思議と安心できた。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -921,17 +934,17 @@ killed him... Thinking that somehow reassured me.[pcms]
 
 *396|
 [fc]
-Inori-san must be safe too... surely Tadahiko is protecting[r]
-her with his life.[pcms]
+緒織さんも、きっと……きっと無事でいてくれる。[r]
+彦ちんが命がけで守ってるはずだ。[pcms]
 
 *397|
 [fc]
-So...[pcms]
+だから……。[pcms]
 
 *398|
 [fc]
-I know it's too optimistic, but I really want my first love[r]
-to be safe.[pcms]
+ムシの良すぎる話だけど、[r]
+ボクの初めての人にはどうしても無事でいてほしかった。[pcms]
 
 ;//　以降　緒織とＳＥＸ off へ
 
@@ -942,91 +955,88 @@ to be safe.[pcms]
 
 *399|
 [fc]
-Email reception is unstable, and you never know when they'll[r]
-come through. The order of receipt is all over the place[r]
-too.[pcms]
+メールの受信は不安定で、いつ送られてくるかわからない。[r]
+受信の順番もムチャクチャだし。[pcms]
 
 *400|
 [fc]
-I decided to think that Inori-san must have sent an email[r]
-too, but it just hasn't been received yet.[pcms]
+きっと緒織さんもメールを送ってくれてるけど、[r]
+着信してないだけだ、と思うようにした。[pcms]
 
 *401|
 [fc]
-When it does come through, the situation may have already[r]
-changed... I pushed away that terrifying thought.[pcms]
+着信した時には既に状況は変わっていて……[r]
+という恐ろしい考えは振り切って。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *402|
 [fc]
 [vo_mar s="maru0940"]
-[ns]Margarita[nse]
-"For now, there's no broadcasting on radio or TV, and the[r]
-internet isn't connecting. Cell phones seem to have stopped[r]
-sending and receiving as well."[pcms]
+[ns]マルガリータ[nse]
+「とりあえず、今はラジオもテレビも放送されてなければ、[r]
+　ネットもつながらない。[r]
+　ケータイも送受信がとまってるみたいだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *403|
 [fc]
 [vo_mar s="maru0941"]
-[ns]Margarita[nse]
-"We can't make a move until we gather more information.[r]
-Until we get some credible information, let's rest our[r]
-bodies."[pcms]
+[ns]マルガリータ[nse]
+「もう少し情報が集まるまでは身動きが取れないな。[r]
+　何らかの有力な情報が手に入るまで、身体を休めておこう」[pcms]
 
 *404|
 [fc]
-Senior Maruko declared this as she looked around at[r]
-everyone.[pcms]
+マル子先輩がみんなを見回しながら宣言する。[pcms]
 
 *405|
 [fc]
-And then, slowly, a hand was raised again.[pcms]
+と、ふたたび、そろそろっと手が挙がった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *406|
 [fc]
 [vo_yuh s="yuho0825"]
-[ns]Yuuho[nse]
-"Ah, if that's the case, I have a suggestion..."[pcms]
+[ns]悠帆[nse]
+「あ、それなら提案があるんですけどー……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *407|
 [fc]
 [vo_mar s="maru0942"]
-[ns]Margarita[nse]
-"What is it?"[pcms]
+[ns]マルガリータ[nse]
+「何だ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *408|
 [fc]
 [vo_yuh s="yuho0826"]
-[ns]Yuuho[nse]
-"How about we change clothes for now?"[pcms]
+[ns]悠帆[nse]
+「とりあえず、着替えません？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *409|
 [fc]
 [vo_yuh s="yuho0827"]
-[ns]Yuuho[nse]
-"I didn't notice because we were in such a rush when we[r]
-fled, but being the only one in a swimsuit is... quite an[r]
-embarrassing situation."[pcms]
+[ns]悠帆[nse]
+「逃げる時は夢中だったから気付かなかったけど、[r]
+　わたしだけ水着って……[r]
+　けっこう恥ずかしいシチュエーションかなって……」[pcms]
 
 *410|
 [fc]
-Yuuho laughed shyly as if it was an afterthought.[pcms]
+今さらだけど、と悠帆は恥ずかしそうに笑った。[pcms]
 
 *411|
 [fc]
-The very natural reaction from Yuuho made all of us feel[r]
-somewhat relieved...[pcms]
+その、あまりにも当たり前な反応に[r]
+ボクたち全員、なんだかホッとしてしまい……。[pcms]
 
 ;mm この着替える下りなんなんだろうな。ユウホしか着替え無いのに。
 ;mm イベント合わせでカットすべきだったとこではないだろうか
@@ -1036,71 +1046,74 @@ somewhat relieved...[pcms]
 
 *412|
 [fc]
-Following her suggestion, we decided to change clothes, but[r]
-since the room was small, we couldn't separate by gender.[pcms]
+提案どおり、着替えることになったけど、[r]
+何しろ狭い部屋の中だから、男女で別れることもできない。[pcms]
 
 *413|
 [fc]
-In the end, Kousuke and I had to close our eyes.[pcms]
+結局、ボクとコースケが、目を閉じることになった。[pcms]
 
 *414|
 [fc]
-But... Closing our eyes meant that our other senses,[r]
-especially our hearing, became more acute.[pcms]
+だけど……。[r]
+目を閉じるということは、他の感覚……、[r]
+つまり聴覚なんかが鋭敏になってしまうわけで。[pcms]
 
 *415|
 [fc]
-I wasn't trying to eavesdrop, but inevitably sounds of[r]
-rustling clothes and such kept reaching my ears.[pcms]
+決して盗み聞きしようとしてるわけじゃないんだけど[r]
+どうしても、衣擦れやらの音が耳に飛び込んできてしまう。[pcms]
 
 *416|
 [fc]
 [vo_ren s="ren0859"]
-[ns]Ren[nse]
-"Yuuho-chan... You know...?"[pcms]
+[ns]漣[nse]
+「悠帆ちゃん……。あのね……？」[pcms]
 
 *417|
 [fc]
-Ren whispered something in a hushed voice.[pcms]
+こしょこしょっと小声で漣が何か言ってる。[pcms]
 
 *418|
 [fc]
 [vo_yuh s="yuho0828"]
-[ns]Yuuho[nse]
-"Eh? Oh, right. These panties might be good. Ren-chan, they[r]
-might fit you."[pcms]
+[ns]悠帆[nse]
+「え？　あ、そっか。[r]
+　ちょうど良かった、このパンツ、どうかな？[r]
+　これ、漣ちゃんなら合うかも」[pcms]
 
 *419|
 [fc]
-P...Panties![pcms]
+パ……、パンツ！[pcms]
 
 *420|
 [fc]
-So it's panties, huh...[pcms]
+そうですか、パンツですか……。[pcms]
 
 *421|
 [fc]
 [vo_ren s="ren0860"]
-[ns]Ren[nse]
-"Is it okay?"[pcms]
+[ns]漣[nse]
+「いいの？」[pcms]
 
 *422|
 [fc]
 [vo_yuh s="yuho0829"]
-[ns]Yuuho[nse]
-"Yeah. They're a bit small for me, but it seems I brought[r]
-them by mistake."[pcms]
+[ns]悠帆[nse]
+「うん。[r]
+　わたしにはちょっと小さいんだけど、[r]
+　間違えて持ってきちゃったみたい」[pcms]
 
 *423|
 [fc]
 [vo_yuh s="yuho0830"]
-[ns]Yuuho[nse]
-"When I wear them, they really dig into my butt. I have a[r]
-big butt, haha."[pcms]
+[ns]悠帆[nse]
+「わたしの場合、履くと、お尻に超食い込むんだよねー。[r]
+　わたし、お尻おっきいからｗ」[pcms]
 
 *424|
 [fc]
-Butt... a big one, huh...[pcms]
+お尻……おっきいんですか……。[pcms]
 
 ;//EV003と005を回想
 
@@ -1109,7 +1122,7 @@ Butt... a big one, huh...[pcms]
 
 *425|
 [fc]
-Indeed, it is quite large...[pcms]
+そうですね、確かに、大きいですね……。[pcms]
 
 ;//プールサイドでこちらを見る悠帆の絵
 ;//@konya ev003
@@ -1117,90 +1130,93 @@ Indeed, it is quite large...[pcms]
 
 *426|
 [fc]
-Those panties... digging in, huh...[pcms]
+あのお尻に、パンツが……。[r]
+超、食い込むですか……。[pcms]
 
 *427|
 [fc]
 [vo_yuh s="yuho0831"]
-[ns]Yuuho[nse]
-"...Don't imagine it, okay?"[pcms]
+[ns]悠帆[nse]
+「……想像すんなよ？」[pcms]
 
 *428|
 [fc]
-A voice as cold as ice suddenly echoed.[pcms]
+不意に氷のように冷たい声が、響いた。[pcms]
 
 ;//@konya 即暗転
 [black_toplayer][trans_c cross time=100][hide_chara_int]
 
 *429|
 [fc]
-[ns]Wataru[nse]
-"Yes. My apologies."[pcms]
+[ns]航[nse]
+「ハイ。モウシワケゴザイマセン」[pcms]
 
 *430|
 [fc]
-[ns]Kousuke[nse]
-"No, no, I wasn't imagining anything... ...You should give[r]
-up too, Wataru!"[pcms]
+[ns]浩助[nse]
+「いやいや、なんも想像してねーって。[r]
+　……お前もさっさと降参してんじゃねーよ！　ワタル！」[pcms]
 
 *431|
 [fc]
-[ns]Wataru[nse]
-"It's useless to go against Yuuho, right?"[pcms]
+[ns]航[nse]
+「悠帆に逆らってもムダだよ？」[pcms]
 
 *432|
 [fc]
-Behind Kousuke and me, who were playfully poking each other[r]
-with our fingertips, the girls' changing continued.[pcms]
+指先でつつきあうボクとコースケの背後では[r]
+再び、女性陣の着替えが続いていた。[pcms]
 
 *433|
 [fc]
 [vo_yuh s="yuho0832"]
-[ns]Yuuho[nse]
-"Besides... Maruko-senpai is amazing, isn't she?"[pcms]
+[ns]悠帆[nse]
+「それより……マル子先輩、凄いですよね」[pcms]
 
 *434|
 [fc]
 [vo_ren s="ren0861"]
-[ns]Ren[nse]
-"Yeah. It was quite surprising."[pcms]
+[ns]漣[nse]
+「うん。びっくりしちゃいました」[pcms]
 
 *435|
 [fc]
 [vo_mar s="maru0943"]
-[ns]Margarita[nse]
-"...Really? I don't think it's that big of a deal..."[pcms]
+[ns]マルガリータ[nse]
+「……そうか？[r]
+　そんなことはないと思うが……」[pcms]
 
 *436|
 [fc]
-Amazing, huh? What could it be?[pcms]
+すごい、って何だろ。[pcms]
 
 *437|
 [fc]
-From the flow of the conversation... muscles? Or maybe...[r]
-breasts!?[pcms]
+会話の流れからすると……、筋肉？[r]
+それとも……胸、とか！？[pcms]
 
 *438|
 [fc]
-I really want to know clearly what it is![pcms]
+そこんところ、どーなんですか！[r]
+ハッキリしてほしいんですが！[pcms]
 
 *439|
 [fc]
-...Of course, I can't actually ask.[pcms]
+……もちろん聞けるわけもないけれど。[pcms]
 
 *440|
 [fc]
-...[pcms]
+……………………………………。[pcms]
 
 *441|
 [fc]
-In any case, we all eventually settled back into our usual[r]
-attire.[pcms]
+ともあれ、ボクたちは結局は[r]
+いつもの格好に落ち着いた。[pcms]
 
 *442|
 [fc]
-But just changing out of our sweat-soaked clothes made us[r]
-feel much fresher.[pcms]
+でも、動き回って汗で濡れた服を換えただけでも[r]
+ずいぶんと気分がスッキリした。[pcms]
 
 ;//★お弁当のくだりをカットしました
 ;//ここから背景とキャラを出します
@@ -1213,428 +1229,425 @@ feel much fresher.[pcms]
 
 *443|
 [fc]
-After changing, we gathered around the lantern again and sat[r]
-in a circle.[pcms]
+着替えを終えたボクたちは、[r]
+またランタンを囲んで車座になった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *444|
 [fc]
 [vo_ren s="ren0862"]
-[ns]Ren[nse]
-"But why did you bring safari suits of all things?"[pcms]
+[ns]漣[nse]
+「でも、どうしてサファリスーツなんか[r]
+　持ってきてたんですか？」[pcms]
 
 ;mm サファリスーツなんて着てないけど……、微妙な問いかけだな。
 
 *445|
 [fc]
-It seems Ren was asking about Maruko-senpai's choice of[r]
-clothes for changing.[pcms]
+漣が聞いているのは、どうやらマル子先輩の[r]
+着替え用の服のことみたいだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a28"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *446|
 [fc]
 [vo_mar s="maru0944"]
-[ns]Margarita[nse]
-"...Well, that is... um..."[pcms]
+[ns]マルガリータ[nse]
+「……そ、それは……その……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *447|
 [fc]
 [vo_mar s="maru0945"]
-[ns]Margarita[nse]
-"Actually, I was planning to explore this underground area.[r]
-I thought wearing a safari suit would... heighten the mood."[pcms]
+[ns]マルガリータ[nse]
+「実は、この地下を探検しようと計画していて、だな。[r]
+　その……サファリスーツを身に着ければ……。[r]
+　より一層、気分が盛り上がるかと、思って……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *448|
 [fc]
 [vo_yuh s="yuho0833"]
-[ns]Yuuho[nse]
-"Mood?"[pcms]
+[ns]悠帆[nse]
+「気分？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *449|
 [fc]
 [vo_mar s="maru0946"]
-[ns]Margarita[nse]
-"Doesn't it give off a real 'THE exploration!' vibe?"[pcms]
+[ns]マルガリータ[nse]
+「いかにも『ＴＨＥ探検！』という感じがしないか？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a14"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *450|
 [fc]
-Senpai, what kind of joke is that?[pcms]
+先輩、それ、何のギャグですか？[pcms]
 
 *451|
 [fc]
-If you're serious... are you a child!?[pcms]
+ギャグでなく本気なんだとしたら……あんたは子供ですか！？[pcms]
 
 *452|
 [fc]
 [vo_yuh s="yuho0834"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *453|
 [fc]
 [vo_ren s="ren0863"]
-[ns]Ren[nse]
-"Fufu... fufufufu."[pcms]
+[ns]漣[nse]
+「ふふっ……ふふふふっ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *454|
 [fc]
 [vo_yuh s="yuho0835"]
-[ns]Yuuho[nse]
-"...Well... yeah, that's right..."[pcms]
+[ns]悠帆[nse]
+「…………ま、まあ……そうですよ、ね……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *455|
 [fc]
 [vo_mar s="maru0947"]
-[ns]Margarita[nse]
-"However, I'll refrain from wearing it. It would be[r]
-inappropriate given the current situation."[pcms]
+[ns]マルガリータ[nse]
+「だ、だが、着用はやめておく。[r]
+　このような状況となっては不謹慎だからな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *456|
 [fc]
-Kousuke chuckled at Senpai who seemed a bit embarrassed (and[r]
-slightly disappointed).[pcms]
+少し恥ずかしそうに（そして少し残念そうに）言う先輩に、[r]
+コースケがヘラヘラと笑いかける。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *457|
 [fc]
-[ns]Kousuke[nse]
-"But I get the feeling of wanting to say 'exploration.' The[r]
-school grounds have quite a history."[pcms]
+[ns]浩助[nse]
+「でも確かに、探検って言いたくなる気分も分かるよな。[r]
+　学園の敷地には、割と歴史がいろいろあるらしいし」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *458|
 [fc]
 [vo_yuh s="yuho0836"]
-[ns]Yuuho[nse]
-"What history are you talking about?"[pcms]
+[ns]悠帆[nse]
+「なあに？　その歴史って」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *459|
 [fc]
-[ns]Kousuke[nse]
-"This place was used by the Imperial Army during World War[r]
-II as a prison or training ground..."[pcms]
+[ns]浩助[nse]
+「ここ、第二次大戦のときは帝国軍の敷地で、[r]
+　刑務所だか練兵場だったとか……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *460|
 [fc]
 [vo_mar s="maru0948"]
-[ns]Margarita[nse]
-"Oh! That's right! The information I got also said the same[r]
-thing."[pcms]
+[ns]マルガリータ[nse]
+「おお！　そうか！[r]
+　ワタシが得た情報も、確かにそうだった」[pcms]
 
 *461|
 [fc]
-Maruko-senpai leaned in close to Kousuke and nodded[r]
-vigorously.[pcms]
+マル子先輩はコースケにグッと顔を寄せて[r]
+力いっぱいうなずいている。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *462|
 [fc]
-[ns]Kousuke[nse]
-"And there's an urban legend that remnants from that time[r]
-still lie beneath the school, and that the ghosts of[r]
-soldiers wander around at night..."[pcms]
+[ns]浩助[nse]
+「で、当時の遺構が[r]
+　未だに学園の下に眠っているという都市伝説があって、[r]
+　夜な夜な軍人の幽霊が彷徨っているという怪談も……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *463|
 [fc]
 [vo_mar s="maru0949"]
-[ns]Margarita[nse]
-"Hmm hmm. I see. If that's true, I'd definitely want to see[r]
-it with my own eyes."[pcms]
+[ns]マルガリータ[nse]
+「ふむふむ。なるほどな。[r]
+　それが本当なら、ぜひこの目で見てみたいものだ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *464|
 [fc]
-[ns]Kousuke[nse]
-"I also heard rumors about an underground passage from the[r]
-Olympic Village. But now that this has become reality...[r]
-maybe the ghosts and prison stories are true too?"[pcms]
+[ns]浩助[nse]
+「オリンピック村の地下通路っていう噂も聞いてたし、[r]
+　けど、それがこう現実だったってことは……[r]
+　案外、幽霊だの刑務所だのってのも、本当かもよ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *465|
 [fc]
 [vo_ren s="ren0864"]
-[ns]Ren[nse]
-"Aaah, that's scary!"[pcms]
+[ns]漣[nse]
+「やあん、怖いよ～っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a13"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *466|
 [fc]
 [vo_yuh s="yuho0837"]
-[ns]Yuuho[nse]
-"Stop it, Kousuke... It feels too real and I don't like[r]
-it..."[pcms]
+[ns]悠帆[nse]
+「や、やめてよ、コースケぇ……。[r]
+　なんか、臨場感ありすぎてヤなんだけど……」[pcms]
 
 *467|
 [fc]
-A frightened Ren and Yuuho held hands and huddled together.[r]
-...At that moment.[pcms]
+おびえた漣と悠帆が、手を取り合って身体を寄せる。[r]
+……その時。[pcms]
 
 ;//@konya cher_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *468|
 [fc]
-[ns]Infected Man A[nse]
-"Gyaaaaaaaah-------!"[pcms]
+[ns]感染者・男Ａ[nse]
+「ぎゃああああああぁーーーーーーーっ！」[pcms]
 
 *469|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「……っ！」[pcms]
 
 *470|
 [fc]
-Just as if on cue, a man's scream echoed from beyond the[r]
-hatch.[pcms]
+あまりにもタイミングよく、[r]
+ハッチの向こうから男の叫び声が響き渡った。[pcms]
 
 *471|
 [fc]
-We were so startled that we froze in place as if turned to[r]
-ice.[pcms]
+ギョッとしたボクたちは凍りついたように動きを止める。[pcms]
 
 *472|
 [fc]
-[ns]Infected Man A[nse]
-"Aaaaah...guaah...ah..."[pcms]
+[ns]感染者・男Ａ[nse]
+「ああああぁぁ……ぐあぁ………………あぁ…………」[pcms]
 
 *473|
 [fc]
-The voice, sounding like a sobbing remnant, eventually faded[r]
-away.[pcms]
+むせび泣くような余韻を残して、やがて声は消えた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *474|
 [fc]
 [vo_mar s="maru0950"]
-[ns]Margarita[nse]
-"Exploration is postponed for now..."[pcms]
+[ns]マルガリータ[nse]
+「探検はひとまず後回しだな……」[pcms]
 
 *475|
 [fc]
-Although the scream had ceased, the cheerful mood from[r]
-before had vanished somewhere.[pcms]
+悲鳴は消えたけれど、[r]
+同時にさっきまでのなごやかな気分もどこかへ行ってしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *476|
 [fc]
 [vo_mar s="maru0951"]
-[ns]Margarita[nse]
-"Given the situation, we can't go outside yet. Let's use[r]
-this place as a base and rest for a while."[pcms]
+[ns]マルガリータ[nse]
+「あの様子では、まだ外に出るわけにはいかない。[r]
+　しばらくの間は、ここを拠点に休息をとろう」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *477|
 [fc]
-[ns]Kousuke[nse]
-"...Well, can't be helped..."[pcms]
+[ns]浩助[nse]
+「……ま、仕方ねぇな……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *478|
 [fc]
 [vo_ren s="ren0865"]
-[ns]Ren[nse]
-"Yeah..."[pcms]
+[ns]漣[nse]
+「うん……」[pcms]
 
 *479|
 [fc]
-Everyone seemed too disheartened to do anything, sluggishly[r]
-nodding in agreement with the senior's words.[pcms]
+みんなも何もする気が起きないのか、[r]
+のろのろと先輩の言葉にうなずいている。[pcms]
 
 ;//@konya cher_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *480|
 [fc]
-I decided to voice the thoughts I had been considering up[r]
-until now.[pcms]
+ボクはそれまで考えていたことを口にしてみることにした。[pcms]
 
 *481|
 [fc]
-[ns]Wataru[nse]
-"I've been thinking. Our current situation seems like a[r]
-reenactment of the Tohoku Infection Disaster four years ago.[r]
-I don't want to think about it...but yeah."[pcms]
+[ns]航[nse]
+「思ってたんだけどさ。今の状況って、[r]
+　４年前の[ruby text="エ　ピ　デ　ミ　ッ　ク"][ch text="東北感染災害"]の再現に思えるんだ。[r]
+　考えたくないけど……ね」[pcms]
 
 *482|
 [fc]
-[ns]Wataru[nse]
-"If that's the case, we might be better off waiting until[r]
-the spread of infection saturates and the 'lifespan' of the[r]
-infected arrives."[pcms]
+[ns]航[nse]
+「もしそうだとしたら、[r]
+　感染の拡大が飽和して、感染者の『寿命』が[r]
+　来るまで待ったほうがいい」[pcms]
 
 *483|
 [fc]
-To be precise, it also means that we have no other choice...[pcms]
+正確に言えば、それしか手段がない、と[r]
+いうことでもあるけれど……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *484|
 [fc]
 [vo_yuh s="yuho0838"]
-[ns]Yuuho[nse]
-"But...the police in Shibuya are substantial, and there are[r]
-plenty of Self- Defense Forces nearby, right?"[pcms]
+[ns]悠帆[nse]
+「で、でも……、[r]
+　渋谷の警察って大きいし、[r]
+　近くには自衛隊の人だっていっぱいいるよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *485|
 [fc]
-[ns]Kousuke[nse]
-"Ah-, true, with the Mishuku Garrison, the Defense[r]
-Ministry's research facilities, and all that, there's quite[r]
-a bit gathered around."[pcms]
+[ns]浩助[nse]
+「あー、確かに、三宿駐屯地だの防衛省の研究所だの[r]
+　なんだかんだで、いろいろ集まってるな」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *486|
 [fc]
 [vo_yuh s="yuho0839"]
-[ns]Yuuho[nse]
-"There's also the riot police in Komaba... Surely, they must[r]
-be managing somehow! Right?"[pcms]
+[ns]悠帆[nse]
+「駒場には機動隊だってあるし……。[r]
+　きっと、なんとかしてくれてるよ！　ね？」[pcms]
 
 *487|
 [fc]
-Yuuho was trying to cheer herself up by thinking of a bright[r]
-outlook...[pcms]
+悠帆は、なんとか元気を出したくて[r]
+明るい見通しを考えようとしているんだろうけど……。[pcms]
 
 *488|
 [fc]
-But what's the reality?[pcms]
+実際はどうだろう？[pcms]
 
 *489|
 [fc]
-If the people in the city are infected and they overflow in[r]
-large numbers, I have a feeling that even the police and[r]
-military might not be able to contain it.[pcms]
+街中の人が感染してしまって、奴らが大勢あふれかえったら、[r]
+いくら警察や軍隊でも、押さえられないような気がする。[pcms]
 
 *490|
 [fc]
-Thinking such thoughts but unable to voice them, I looked[r]
-around at everyone's faces and caught Maruko-senpai's eye.[pcms]
+そんなことを考えて、だけど口には出せないままに[r]
+みんなの顔を見回すと、マル子先輩と目が合った。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *491|
 [fc]
 [vo_mar s="maru0952"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「…………」[pcms]
 
 *492|
 [fc]
-Senpai's expression was grim. She must be thinking the same[r]
-thing.[pcms]
+先輩の顔つきも険しい。[r]
+きっと同じようなことを思っているんだろう。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *493|
 [fc]
 [vo_ren s="ren0866"]
-[ns]Ren[nse]
-"Big brother..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……」[pcms]
 
 *494|
 [fc]
-Ren clung to me looking forlorn, and I hugged her back[r]
-tightly.[pcms]
+心細げにすがりついてくる漣を、ぎゅっと抱きしめ返す。[pcms]
 
 *495|
 [fc]
-[ns]Wataru[nse]
-"It's okay..."[pcms]
+[ns]航[nse]
+「大丈夫……」[pcms]
 
 *496|
 [fc]
-No matter if this is a recurrence of the incident four years[r]
-ago. Even if we can't rely on the police or military. No[r]
-matter what happens, I have to protect this girl...[pcms]
+もし、これが４年前の事件の再来だとしても。[r]
+警察や軍が頼れなくても。[r]
+何があっても、この子だけは守らないと……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *497|
 [fc]
 [vo_mar s="maru0953"]
-[ns]Margarita[nse]
-"If this is the 'Infection Disaster' Wataru mentioned[r]
-happening again, then there might be nothing we humans can[r]
-do right now..."[pcms]
+[ns]マルガリータ[nse]
+「これがワタルの言う『感染災害』の再現だとしたら、[r]
+　ワタシたちに……人間にできることは、[r]
+　今はないのかもしれない……」[pcms]
 
 *498|
 [fc]
 [vo_mar s="maru0954"]
-[ns]Margarita[nse]
-"A horde of humans who have forgotten themselves in intense[r]
-anger or madness is a calamity...just like a tsunami or[r]
-hurricane..."[pcms]
+[ns]マルガリータ[nse]
+「激しい怒りや狂気に我を忘れた人間の群れは、[r]
+　ツナミやハリケーンと同じ、災いだ……」[pcms]
 
 *499|
 [fc]
-Maruko-senpai's calm yet merciless words slowly seeped into[r]
-our hearts.[pcms]
+マル子先輩の淡々とした、それでいて容赦のない言葉が、[r]
+じわりとボクたちの胸に染み込んでくる。[pcms]
 
 *500|
 [fc]
 [vo_mar s="maru0955"]
-[ns]Margarita[nse]
-"No matter how many guns you line up, you can't stop a[r]
-'calamity.' A violent crowd that fears neither pain nor[r]
-death cannot be stopped either..."[pcms]
+[ns]マルガリータ[nse]
+「銃口をいくら並べたところで、『災い』は止められない。[r]
+　痛みも死も恐れない凶暴な人波も、[r]
+　同じように止められはしない……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *501|
 [fc]
-[ns]Kousuke[nse]
-"But still..."[pcms]
+[ns]浩助[nse]
+「でもよぉ……」[pcms]
 
 *502|
 [fc]
-Kousuke started to say something in dissatisfaction but[r]
-seemed crushed by the weight of it all and fell silent.[pcms]
+不満げに何か言いかけたコースケも[r]
+あまりのその重みに押し潰されたように、黙り込む。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *503|
 [fc]
 [vo_mar s="maru0956"]
-[ns]Margarita[nse]
-"All we can do is wait here for the wave to recede and the[r]
-storm to pass..."[pcms]
+[ns]マルガリータ[nse]
+「ワタシたちはただ、波が引き、嵐が去るのを、[r]
+　ここで待つしかない……」[pcms]
 
 ;//フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

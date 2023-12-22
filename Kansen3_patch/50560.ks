@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）未明早朝
+;//・時間：５日目（８月１９日）未明～早朝
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹
 ;//時間帯：
@@ -21,145 +21,147 @@
 
 *3269|
 [fc]
-[ns]Wataru[nse]
-"Finally, I can sleep..."[pcms]
+[ns]航[nse]
+「やっと寝られる……」[pcms]
 
 *3270|
 [fc]
-Having returned to my "room" at last, I felt relieved and,[r]
-perhaps due to the exhaustion, I immediately lay down.[pcms]
+ようやく自分の『部屋』に戻って来て、安心したボクは、[r]
+疲れが吹き出したのか、すぐに横になった。[pcms]
 
 *3271|
 [fc]
-But still, with the senior from earlier and Yuuho... It[r]
-seems like everyone has a fondness for me...[pcms]
+それにしても、さっきの先輩といい、悠帆といい……。[r]
+なんだかみんな、ボクに好意を持っているみたいだよな……。[pcms]
 
 *3272|
 [fc]
-I can't remember the last time I felt so happy to be so[r]
-popular. It might be the first time in my life.[pcms]
+こんなにモテて嬉しい気分になったのなんて、[r]
+生まれて初めてかもしれない。[pcms]
 
 *3273|
 [fc]
-[ns]Wataru[nse]
-"God must be watching over me..."[pcms]
+[ns]航[nse]
+「神様は、ちゃんと見てくれてるんだな……」[pcms]
 
 *3274|
 [fc]
-God... huh?[pcms]
+神様……か。[pcms]
 
 *3275|
 [fc]
-I remember the "salvation" that Jin talked about. The[r]
-"salvation" that God had granted.[pcms]
+壬が言っていた『救済』を思い出す。[r]
+神様が与えた『救済』の事を。[pcms]
 
 *3276|
 [fc]
-I wonder if there really is a God.[pcms]
+そもそも、神様なんて本当にいるのかな。[pcms]
 
 *3277|
 [fc]
-But if "that day" hadn't happened and I had just gone to the[r]
-astronomy club camp as usual, what would I have been doing?[pcms]
+でも、もしも『あの日』何も起きなくて、[r]
+普通に天文同好会のキャンプに行っていたら、[r]
+ボクはどうしていただろう。[pcms]
 
 *3278|
 [fc]
-Even though it was supposed to be a fun camp, my mind would[r]
-probably have been too preoccupied with Yuuho and Oshima-[r]
-senpai to enjoy it.[pcms]
+楽しいハズのキャンプなのに、きっとボクは悠帆と大嶋先輩の事で[r]
+頭がいっぱいで、楽しむ事なんてできなかったかもしれない。[pcms]
 
 *3279|
 [fc]
-Moreover, I wouldn't have become so close with Maruko-[r]
-senpai... and I would have just watched Yuuho and Oshima-[r]
-senpai's relationship develop from afar.[pcms]
+それに、マル子先輩とこんなに仲良くなる事もなく、[r]
+……悠帆と大嶋先輩の仲が発展していくのを、[r]
+ただ眺めるだけだっただろう。[pcms]
 
 *3280|
 [fc]
-In contrast, I would have remained an unremarkable,[r]
-unreliable man, just as ordinary as ever.[pcms]
+翻ってボクは、あの祭の日の後もきっと平々凡々とした、[r]
+何の変哲もない頼りない男のまま。[pcms]
 
 *3281|
 [fc]
-But if "that day" hadn't turned out the way it did,[r]
-Tadahiko, Inori-san, Master, Mama, and everyone at school[r]
-would have been safe.[pcms]
+だけど、『あの日』あんな事になっていなければ、[r]
+彦ちんも、緒織さんもマスターもママ、それに、学園のみんなも[r]
+無事だったハズだ。[pcms]
 
 *3282|
 [fc]
-And I would have continued to be the same unimpressive[r]
-person, simply gazing at the stars in the sky.[pcms]
+そして、ボクは相変わらずうだつが上がらないまま、[r]
+空の星を眺めていただろう。[pcms]
 
 *3283|
 [fc]
-[ns]Wataru[nse]
-"Stars... huh..."[pcms]
+[ns]航[nse]
+「星……かあ……」[pcms]
 
 *3284|
 [fc]
-I remember the rooftop that I missed going to.[pcms]
+行きそびれた屋上のことを思い出す。[pcms]
 
 *3285|
 [fc]
-[ns]Wataru[nse]
-"Now that things have turned out this way, there's less city[r]
-light pollution. The stars would probably look more[r]
-beautiful than usual..."[pcms]
+[ns]航[nse]
+「こんな風になった今なら、街の明かりも少なくて、[r]
+　いつもより星が綺麗に見えただろうなぁ……」[pcms]
 
 *3286|
 [fc]
-Yes. As a result of this calamity, the city lights were[r]
-dimmed, making the stars in the sky more visible.[pcms]
+そう。[r]
+この災いがもたらされた結果、街の明かりは抑えられ、[r]
+代わりに見えやすくなる空の星。[pcms]
 
 *3287|
 [fc]
-Usually obscured by exhaust fumes and lost in the darkness,[r]
-those stars that should be there but go unnoticed.[pcms]
+普段は排気ガスなんかでかすんで闇に紛れている。[r]
+その場所にあるハズなのに、気が付いてもらえない星が。[pcms]
 
 *3288|
 [fc]
-Not just the North Star or Orion, or Venus that can be seen[r]
-under any light... but other small stars that twinkle in the[r]
-sky should be visible.[pcms]
+どんな明かりの下でも見える北極星やオリオン、[r]
+金星なんかじゃなくて……。[r]
+他の小さな、でも確かに瞬く空の星が見えるハズだ。[pcms]
 
 *3289|
 [fc]
-Small stars... Just like me...[pcms]
+小さな星……。[r]
+まるでボクみたいだな……。[pcms]
 
 *3290|
 [fc]
-Stars with a strong light that can be found in any situation[r]
-are like Yuuho, Kousuke, and Maruko-senpai.[pcms]
+どんな状況でも見つけられる、強い光の星は悠帆や、コースケ、[r]
+それにマル子先輩。[pcms]
 
 *3291|
 [fc]
-But I'm like a small star that disappears when conditions[r]
-are slightly unfavorable. A star that shines quietly without[r]
-catching anyone's eye.[pcms]
+だけど、ボクは少し条件が悪いと、見えなくなる小さな星。[r]
+誰の目にもとまらず、ひっそりと光る星なんだ。[pcms]
 
 *3292|
 [fc]
-It was only after that day that I started to attract[r]
-everyone's attention.[pcms]
+そんなボクが、みんなの注目を浴びるようになったのは、[r]
+あの日以降。[pcms]
 
 *3293|
 [fc]
-The day when people I cared about and countless others died.[r]
-The disaster that caused it all.[pcms]
+自分が大切だと思っていた人や、それ以外にも、[r]
+数え切れないほどの人が死んでしまったあの日。[r]
+その原因となった、災厄。[pcms]
 
 *3294|
 [fc]
-It's a strange story, but thanks to that disaster, I[r]
-experienced the exhilaration from earlier.[pcms]
+おかしな話だけど、その災厄のおかげで、ボクはさっきの高揚感を[r]
+手に入れた。[pcms]
 
 *3295|
 [fc]
-I've completely forgotten about those who died.[pcms]
+亡くなった人の事なんか、すっかり忘れて。[pcms]
 
 *3296|
 [fc]
-What should I do? In this situation... Yes, I can't honestly[r]
-rejoice over this "salvation."[pcms]
+ボクは、どうしたらいいんだろう。[r]
+こんな状況……。[r]
+そう、『救済』に対して、素直に喜べないボクは……。[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]

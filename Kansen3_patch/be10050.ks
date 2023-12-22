@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10050_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 ;//♂：エレベーターのエントランス付近を想定して、
 ;//この背景を使用しています。他にいい背景がありましたら適宜変更して下さい。
@@ -19,67 +19,63 @@
 
 *216|
 [fc]
-[ns]Wataru[nse]
-"Let go of that girl's hand!"[pcms]
+[ns]航[nse]
+「その子の手を離せ！」[pcms]
 
 *217|
 [fc]
-When I arrived at the scene, someone was being taken away in[r]
-the elevator.[pcms]
+ボクが現場に駆けつけたときには、[r]
+誰かがエレベーターで連れ去られるところだった。[pcms]
 
 *218|
 [fc]
-I don't know who it is.[pcms]
+誰だかわからない。[pcms]
 
 *219|
 [fc]
-But no matter who it is, they shouldn't be taken away by[r]
-men![pcms]
+でも、それが誰だって、男たちに連れ去られていいはずがない！[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
 
 *220|
 [fc]
-The bullets fired by the men hit the wall next to me,[r]
-bursting with a high- pitched sound.[pcms]
+ボクの立っている横の壁で、男たちの撃った銃弾が[r]
+かん高い音を立ててはじけ飛んだ。[pcms]
 
 *221|
 [fc]
-They shot at me! At me, a normal person who isn't infected![pcms]
+撃ってきた！　感染者じゃない普通に生きているボクに！[pcms]
 
 *222|
 [fc]
-My legs involuntarily froze.[pcms]
+思わず足がすくむ。[pcms]
 
 ;//se026・銃声
 [se buf=0 storage="se026"]
 
 *223|
 [fc]
-Two men who were left at the elevator entrance approached me[r]
-with smirks on their faces.[pcms]
+エレベーターのエントランスに残ったふたりの男が、[r]
+にやにやしながらボクに近づいてきた。[pcms]
 
 *224|
 [fc]
-They seemed like the type who wouldn't think twice about[r]
-killing someone.[pcms]
+相手は人殺しなんてなんとも思っていないような連中だ。[pcms]
 
 *225|
 [fc]
-The thought of the person who was taken away crossed my[r]
-mind.[pcms]
+連れ去られた誰かのことが頭に浮かぶ。[pcms]
 
 *226|
 [fc]
-If I get caught here... there might be no one left to come[r]
-to my rescue.[pcms]
+ボクがここで捕まってしまったら……[r]
+もう、誰も助けに来る人はいないかもしれない。[pcms]
 
 *227|
 [fc]
-Lacking the confidence to take down the two in front of me,[r]
-I turned on my heel and started running towards the[r]
-emergency stairs.[pcms]
+目の前のふたりを倒せる自信がなかったボクは、[r]
+踵を返して非常階段の方へと駈けだしていた。[pcms]
 
 ;//★_クロミ
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -90,85 +86,85 @@ emergency stairs.[pcms]
 
 *228|
 [fc]
-Please wait for me, I will definitely save you.[pcms]
+必ず助けるから待っててくれ。[pcms]
 
 *229|
 [fc]
-Even as I thought that, I couldn't shake off a bad feeling.[pcms]
+そう思いながらも、ボクは嫌な予感をぬぐえないでいた。[pcms]
 
 *230|
 [fc]
-I don't know who's been caught and who's running away.[pcms]
+誰が捕まっていて、誰が逃げているのかもわからない。[pcms]
 
 *231|
 [fc]
-Maybe there's no one left but me...[pcms]
+もしかしたら、もうボク以外には誰も……。[pcms]
 
 *232|
 [fc]
-Among the men boarding the LASER, I saw Shigeyoshi's figure.[pcms]
+ＬＡＳＥＲに乗り込む男たちの中に重吉の姿があった。[pcms]
 
 *233|
 [fc]
-Their boss is Jin-san.[pcms]
+あいつらのボスは壬さんだ。[pcms]
 
 *234|
 [fc]
-He might not do something so reckless.[pcms]
+そんな無茶なことはしないかもしれない。[pcms]
 
 *235|
 [fc]
-But...[pcms]
+でも……。[pcms]
 
 *236|
 [fc]
-In my scattered thoughts, I had reached the emergency[r]
-stairs.[pcms]
+ボクはまとまらない思考の中で、[r]
+非常階段にたどり着いていた。[pcms]
 
 *237|
 [fc]
-There's no sign of the men following me.[pcms]
+男たちが追ってくる様子はない。[pcms]
 
 *238|
 [fc]
-Just as I was about to escape into the emergency stairs, I[r]
-heard footsteps coming up from below.[pcms]
+ボクがそのまま非常階段へ逃げ込もうとすると、[r]
+誰かが下から上がってくる足音が聞こえてきた。[pcms]
 
 *239|
 [fc]
-Multiple.[pcms]
+複数。[pcms]
 
 *240|
 [fc]
-And a lot of them![pcms]
+それも大勢の足音だ！[pcms]
 
 *241|
 [fc]
-No, these aren't the footsteps of my allies.[pcms]
+違う、これはボクの仲間の足音じゃない。[pcms]
 
 *242|
 [fc]
-Behind me are two men at the entrance.[pcms]
+後ろにはエントランスの男がふたり。[pcms]
 
 *243|
 [fc]
-In front of me are the footsteps of many men.[pcms]
+目の前からは大勢の男たちの足音。[pcms]
 
 *244|
 [fc]
-If this continues, I'll be caught in a crossfire.[pcms]
+このままじゃ挟み撃ちだ。[pcms]
 
 *245|
 [fc]
-What should I do?[pcms]
+どうする？[pcms]
 
 *246|
 [fc]
-Hide in some random place?[pcms]
+適当な場所に隠れるか？[pcms]
 
 *247|
 [fc]
-Or is there somewhere I can escape to?[pcms]
+それとも、逃げられる場所がどこかにあるか？[pcms]
 
 ;//--------------------------------------------------------------------
 ;//♂：申し訳ありませんが、このフラグがどこにあるのか覚えていません。

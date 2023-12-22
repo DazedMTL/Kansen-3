@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・悠帆・マルガリータ・漣・浩助・瑞樹
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//・テキスト分量：5K
 ;//---------------------------------------------------------------
 ;//block:D001
@@ -25,42 +25,42 @@
 *8079|
 [fc]
 [vo_ren s="ren1062"]
-[ns]Ren[nse]
-"Dad... ugh... uuh..."[pcms]
+[ns]漣[nse]
+「お……父さん……っ。うっ……ううっ……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_e3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *8080|
 [fc]
 [vo_ren s="ren1063"]
-[ns]Ren[nse]
-"Ugh... I don't want this... Dad..."[pcms]
+[ns]漣[nse]
+「うっ……いやだよぉ……お父……さん……」[pcms]
 
 *8081|
 [fc]
-In my arms, Ren was shaking her entire body as she cried. I[r]
-silently stroked her back, continued to pat her head, and[r]
-held her tight.[pcms]
+ボクの腕の中で、漣は身体全体を震わせながら、泣いている。[r]
+ボクは無言のまま、漣の背中をさすり、[r]
+頭を撫で続け、抱きしめていた。[pcms]
 
 *8082|
 [fc]
-In the dimly lit room, only Ren's sobbing echoed quietly.[r]
-The small tremors in Ren's body within my arms spoke volumes[r]
-of her sorrow.[pcms]
+薄暗い部屋に漣のすすり泣く声だけが密やかに木霊する。[r]
+ボクの腕の中で小刻みに震える漣の身体が、その哀しみの[r]
+大きさを物語っていた。[pcms]
 
 ;//〆EV008
 [evcg storage="EV012f"][trans_c cross time=300]
 
 *8083|
 [fc]
-I wonder how much time has passed. Eventually, Ren's sobbing[r]
-stopped, and the shaking of her body ceased. Her slight[r]
-weight was entrusted to my body.[pcms]
+どのくらい時間が経ったんだろう。[r]
+いつしか、漣のすすり泣きは止まり、身体の震えも止まった。[r]
+漣の軽い重みがボクの身体にゆだねられていた。[pcms]
 
 *8084|
 [fc]
-Ren had fallen asleep exhausted from crying. I gently laid[r]
-her down and quietly left the room.[pcms]
+泣き疲れて眠ってしまった漣。[r]
+そっと身体を横たえ、ボクは静かに部屋を出た。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -70,118 +70,117 @@ her down and quietly left the room.[pcms]
 
 *8085|
 [fc]
-Leaving the room, I headed towards the drink bar. I wanted[r]
-to quench my thirst with anything. Something was stuck in my[r]
-throat. I wanted to wash it down.[pcms]
+部屋を出てボクはドリンクバーに向かった。[r]
+なんでもいいから喉を潤したかった。[r]
+喉のあたりにつかえている何か。それを飲み下したかった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8086|
 [fc]
 [vo_mar s="maru1034"]
-[ns]Margarita[nse]
-"...hey, Ayase"[pcms]
+[ns]マルガリータ[nse]
+「……おい、アヤセ」[pcms]
 
 *8087|
 [fc]
-[ns]Wataru[nse]
-"...!"[pcms]
+[ns]航[nse]
+「……！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *8088|
 [fc]
-[ns]Kousuke[nse]
-"Wataru! Are you... okay?"[pcms]
+[ns]浩助[nse]
+「ワタルっ！　その……大丈夫か？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *8089|
 [fc]
 [vo_miz s="mizuki0095"]
-[ns]Mizuki[nse]
-"...Wataru..."[pcms]
+[ns]瑞樹[nse]
+「……ワタル……」[pcms]
 
 *8090|
 [fc]
-Everyone had gathered, probably worried about Ren and me,[r]
-following us here.[pcms]
+みんなが、集まってくれていた。[r]
+きっと、ボクと漣を心配して、[r]
+後を追ってきてくれたんだろう。[pcms]
 
 *8091|
 [fc]
-[ns]Wataru[nse]
-"Everyone... thank you for worrying."[pcms]
+[ns]航[nse]
+「みんな……ありがとう。心配してくれて」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8092|
 [fc]
 [vo_mar s="maru1035"]
-[ns]Margarita[nse]
-"Ayase... How's Ren? Has she calmed down?"[pcms]
+[ns]マルガリータ[nse]
+「アヤセ……レンはどうした？　落ち着いたか？」[pcms]
 
 *8093|
 [fc]
-[ns]Wataru[nse]
-"Yes... Maruko-senpai. She seems to have cried herself to[r]
-sleep."[pcms]
+[ns]航[nse]
+「ええ……マル子先輩。泣き疲れたらしく、眠りました」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8094|
 [fc]
 [vo_mar s="maru1036"]
-[ns]Margarita[nse]
-"I see... Ayase, are you really okay?"[pcms]
+[ns]マルガリータ[nse]
+「そうか……アヤセ、お前は大丈夫なのか？」[pcms]
 
 *8095|
 [fc]
-[ns]Wataru[nse]
-"...Yes, I'm... fine."[pcms]
+[ns]航[nse]
+「……ええ、ボクは……大丈夫ですよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *8096|
 [fc]
-[ns]Kousuke[nse]
-"...Wataru, don't push yourself too hard. You don't look[r]
-okay."[pcms]
+[ns]浩助[nse]
+「……ワタル、あんま無理するなよ。大丈夫そうには[r]
+　見えないぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b12"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *8097|
 [fc]
 [vo_miz s="mizuki0096"]
-[ns]Mizuki[nse]
-"That's right, Wataru. Hey, is there anything I can do for[r]
-you?"[pcms]
+[ns]瑞樹[nse]
+「そうよ、ワタル。ね、なにかあたしにできる事、ない？」[pcms]
 
 *8098|
 [fc]
-Everyone was voicing their concern for me. Honestly, I'd[r]
-probably feel better if I just cried my heart out.[pcms]
+みんなが口々にボクを気遣ってくれる。[r]
+本当は、だーだー泣いてしまえば楽になるんだろうな。[pcms]
 
 *8099|
 [fc]
-But I can't worry everyone any more than this. I don't want[r]
-to show such a pathetic sight to everyone.[pcms]
+でも、これ以上みんなに心配をかけるわけにはいかない。[r]
+ボクだって、そんな情けない姿をみんなに見せたくない。[pcms]
 
 *8100|
 [fc]
-I went to the drink bar and took a light sip of water,[r]
-feeling everyone's gaze following my every move.[pcms]
+ボクはドリンクバーに向かい、軽く水を飲んだ。[r]
+みんなの視線がボクの動向を追っているのを感じながら。[pcms]
 
 *8101|
 [fc]
-[ns]Wataru[nse]
-"I'm really fine. Thank you, everyone. I just came to drink[r]
-some water because I was thirsty. Ren has calmed down, and[r]
-I'll be going to rest soon..."[pcms]
+[ns]航[nse]
+「本当に、ボクは大丈夫。みんな、ありがとう。[r]
+　ちょっと喉が渇いたから、水を飲みに来たんだ。[r]
+　漣も落ち着いたし、ボクもそろそろ休むよ……」[pcms]
 
 *8102|
 [fc]
-As I said that, I went back towards the room, feeling[r]
-everyone's lingering gazes on my back...[pcms]
+ボクはそう言いながら、また部屋の方へと戻った。[r]
+何か言いたげなみんなの視線を背中に感じながら……。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -192,90 +191,95 @@ everyone's lingering gazes on my back...[pcms]
 
 *8103|
 [fc]
-I remember passing by the room. But before I knew it, I[r]
-found myself standing in the 7th floor backyard.[pcms]
+部屋の前を通り過ぎたのは憶えている。[r]
+でも、気が付いたら、ボクは７階のバックヤードに[r]
+立っていた。[pcms]
 
 *8104|
 [fc]
-I can't clearly remember how I got here. Maybe I was looking[r]
-for Yuuho, who wasn't among everyone else.[pcms]
+どこをどう歩いてきたのかはっきり憶えていない。[r]
+ボクはみんなの中にいなかった、悠帆の姿を[r]
+探し求めていたのかもしれない。[pcms]
 
 *8105|
 [fc]
-But now, I'm alone. Standing here by myself. When I realized[r]
-that, the emotions I had been suppressing surged forward.[pcms]
+でも、今はひとりだ。[r]
+ぼくは、今、ひとりぼっちで立っている。[r]
+そう思ったら、押さえ込んでいた感情が、押し寄せてきた。[pcms]
 
 *8106|
 [fc]
-[ns]Wataru[nse]
-"Ugh... uuh..."[pcms]
+[ns]航[nse]
+「うっ……ううっ……」[pcms]
 
 *8107|
 [fc]
-Dad... Dad! I wanted you to be alive. I thought you'd come[r]
-to pick us up with your usual joking smile.[pcms]
+父さん……父さんっ！　生きていて欲しかったよ。[r]
+いつもの冗談混じりの笑顔で、ボクと漣を迎えに来て[r]
+くれると思ってた。[pcms]
 
 *8108|
 [fc]
-We'd run up to each other and embrace, like a reunion scene[r]
-from a drama. We'd laugh about it together.[pcms]
+駆け寄って抱き合って、なんだかドラマの再会シーン[r]
+みたいだな。[r]
+そう言ってお互い笑い合えると思ってた。[pcms]
 
 *8109|
 [fc]
-[ns]Wataru[nse]
-"Uuh... ugh... Dad..."[pcms]
+[ns]航[nse]
+「ううっ……くっうっ……父さん……っ」[pcms]
 
 *8110|
 [fc]
-We weren't blood-related, but you were no different from a[r]
-real father to me. No, I respected you even more than that,[r]
-Dad.[pcms]
+血のつながった実の親子じゃなかったけど、[r]
+本当の父親と変わらない。[r]
+いや、それ以上に尊敬していたんだよ、父さん。[pcms]
 
 *8111|
 [fc]
-I should have told you while you were still alive. I never[r]
-thought that after Mom, you would suddenly be taken away[r]
-from us too.[pcms]
+生きているうちに、ちゃんと伝えておけば良かった。[r]
+こんな急に、母さんみたいに、父さんまで、いきなり[r]
+失うとは思ってなかったよ。[pcms]
 
 *8112|
 [fc]
-[ns]Wataru[nse]
-"Uuh... Dad..."[pcms]
+[ns]航[nse]
+「うううっ…………っ……とう……さ……っ」[pcms]
 
 *8113|
 [fc]
-Dad... it's pathetic, isn't it? I wanted Yuuho to comfort[r]
-me...[pcms]
+父さん……情けないよね。[r]
+ボクは悠帆に慰めて欲しかったんだ……。[pcms]
 
 *8114|
 [fc]
-...Even after what happened... If possible, I wanted her to[r]
-hold me and comfort me.[pcms]
+……あんなことがあったのに……。[r]
+できるなら、抱きしめて慰めて欲しかったんだ。[pcms]
 
 *8115|
 [fc]
-If Dad saw me now, he'd probably be disappointed. Or maybe[r]
-he'd give a wry smile and say it's just like me.[pcms]
+父さんが今のボクを見たら、きっとあきれるだろうね。[r]
+それとも、ボクらしいって苦笑いするのかな。[pcms]
 
 *8116|
 [fc]
-But Dad... it's okay... I'll do my best. I'll make sure to[r]
-protect Ren. For both of us. Just let me cry for a little[r]
-bit now... then I'll be sure to do my best.[pcms]
+でも、父さん……大丈夫だよ……ボク、頑張るからね。[r]
+漣をちゃんと守ってみせる。父さんの分まで。[r]
+今だけ、ちょっとだけ……泣いたらちゃんと頑張るから。[pcms]
 
 *8117|
 [fc]
-Yeah... it's okay now. I feel a bit better after crying.[pcms]
+うん。……大丈夫。もう大丈夫だよ。[r]
+泣いたら少しすっきりしたよ。[pcms]
 
 *8118|
 [fc]
-I have to go back to the room now. Ren might be crying[r]
-again.[pcms]
+もう部屋に戻らなくちゃね。[r]
+漣がまた泣いてるかもしれないから。[pcms]
 
 *8119|
 [fc]
-I wiped my cheeks with my hands and decided to return to the[r]
-room.[pcms]
+ボクはごしごしとほっぺたを擦って部屋に戻ろうと決心した。[pcms]
 
 ;//★_アルカディア
 [bg storage="BG020b"][trans_c cross time=500]
@@ -283,74 +287,77 @@ room.[pcms]
 
 *8120|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho?!"[pcms]
+[ns]航[nse]
+「……悠帆？！」[pcms]
 
 *8121|
 [fc]
-When I returned to the 5th floor intending to go back to the[r]
-room, everyone else was gone, but Yuuho was standing there[r]
-alone.[pcms]
+部屋に戻ろうと５階に戻ってきたら、[r]
+すでにみんなの姿はなく、代わりに悠帆がひとりで、[r]
+佇んでいた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8122|
 [fc]
 [vo_yuh s="yuho1015"]
-[ns]Yuuho[nse]
-"Um... Wataru..."[pcms]
+[ns]悠帆[nse]
+「あの……航……」[pcms]
 
 *8123|
 [fc]
-Was Yuuho waiting for me? With an awkward and uncomfortable[r]
-expression on her face, Yuuho spoke up.[pcms]
+もしかして悠帆はボクを待っていてくれたんだろうか？[r]
+何か考えあぐねたような、気まずそうな顔つきで[r]
+悠帆は話しかけてきた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8124|
 [fc]
 [vo_yuh s="yuho1016"]
-[ns]Yuuho[nse]
-"Wataru... I don't know what to say... That is... my[r]
-condolences about your father... I'm also very sad."[pcms]
+[ns]悠帆[nse]
+「航……わたし、どう言ったらいいのか……[r]
+　その……お父さんのこと……お悔やみ申し上げます……。[r]
+　わたし……も、とても悲しいの」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8125|
 [fc]
 [vo_yuh s="yuho1017"]
-[ns]Yuuho[nse]
-"Uncle was very kind to me too. He taught me many things...[r]
-But Wataru, you must be feeling much more pain..."[pcms]
+[ns]悠帆[nse]
+「わたしも、おじさんにはとても可愛がってもらったし。[r]
+　いろいろな事、教えて貰ったし……[r]
+　でも航は、もっと、うんと、つらいだろうって……」[pcms]
 
 *8126|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... thank you. I appreciate your feelings."[pcms]
+[ns]航[nse]
+「悠帆……ありがとう。その気持ち、嬉しいよ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8127|
 [fc]
 [vo_yuh s="yuho1018"]
-[ns]Yuuho[nse]
-"I was wondering if there's anything I could do for Ren-[r]
-chan... Of course, I'm worried about you too, Wataru...[r]
-But... that is..."[pcms]
+[ns]悠帆[nse]
+「漣ちゃんのことも、わたしに何かできないかって……[r]
+　も……もちろん、航の事だって、心配だし……。[r]
+　でも……その……」[pcms]
 
 *8128|
 [fc]
-[ns]Wataru[nse]
-"Yeah... Yuuho, thank you. ...Yuuho... about earlier,[r]
-sorry."[pcms]
+[ns]航[nse]
+「うん……悠帆、ありがとう。[r]
+　……悠帆……その……さっきはごめん」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8129|
 [fc]
 [vo_yuh s="yuho1019"]
-[ns]Yuuho[nse]
-"...! Wataru..."[pcms]
+[ns]悠帆[nse]
+「……っ！　航……」[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -365,60 +372,60 @@ sorry."[pcms]
 
 *8130|
 [fc]
-[ns]Wataru[nse]
-"I know it wasn't very manly of me... I'm reflecting on it.[r]
-...But when I saw Yuuho running off so happily, I just[r]
-couldn't help but chase after her."[pcms]
+[ns]航[nse]
+「男らしくない事……したと思ってる。反省してる。[r]
+　……でも、ひとりで嬉しそうに駆けていく悠帆を見て、[r]
+　追わずには……いられなかったんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8131|
 [fc]
 [vo_yuh s="yuho1020"]
-[ns]Yuuho[nse]
-"Happy? That's not...!"[pcms]
+[ns]悠帆[nse]
+「嬉しそうだなんて……っ！」[pcms]
 
 *8132|
 [fc]
-[ns]Wataru[nse]
-"To me, you looked happy. Your face when you read that[r]
-email... it looked so joyful... I wondered what could make[r]
-Yuuho so happy."[pcms]
+[ns]航[nse]
+「ボクには、嬉しそうに見えたんだ。メールを読んだ[r]
+　悠帆の顔が、すごく嬉しそうで……ボクは、悠帆をこんなに[r]
+　嬉しそうにさせるのは、何なんだろう」[pcms]
 
 *8133|
 [fc]
-[ns]Wataru[nse]
-"...Who could it be, I thought... and somehow, I felt[r]
-jealous. That's why... I ended up following you."[pcms]
+[ns]航[nse]
+「……誰なんだろうって思って……その、なんだか悔しくて。[r]
+　だから……つい、悠帆のあとを追ってしまったんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8134|
 [fc]
 [vo_yuh s="yuho1021"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「……」[pcms]
 
 *8135|
 [fc]
-[ns]Wataru[nse]
-"But... I wish I hadn't chased after you. Even as a guy, I[r]
-think Oshima-senpai is cool... So when Oshima-senpai[r]
-confessed to you... that..."[pcms]
+[ns]航[nse]
+「でも……追わなければよかったって思ったよ。[r]
+　大嶋先輩は男のボクから見てもかっこいいし……[r]
+　だから、大嶋先輩が悠帆に告白したとき……その……」[pcms]
 
 *8136|
 [fc]
-[ns]Wataru[nse]
-"I, I just... tears welled up and I couldn't stay there any[r]
-longer... because it was Oshima-senpai... I thought for sure[r]
-Yuuho would accept his confession..."[pcms]
+[ns]航[nse]
+「ボクは、ボクは……涙がこみ上げてきて、その場に[r]
+　居続けられなかった……あの大嶋先輩だから……[r]
+　悠帆だって、告白を受け入れるんだろうと思って……」[pcms]
 
 *8137|
 [fc]
-[ns]Wataru[nse]
-"I didn't hear Yuuho's answer, but... she'll definitely date[r]
-Oshima-senpai. That thought consumed me... and though it's[r]
-shameful... I left Ren and Kousuke behind...!"[pcms]
+[ns]航[nse]
+「悠帆の答えは聞いてないけど……絶対大嶋先輩と付き合う。[r]
+　ボクはその考えに取り付かれて……みっともないけど……[r]
+　漣と浩助を……置き去りにして……っ！」[pcms]
 
 ;//〆ジャンプ　ラベル　合流　へ
 [jump storage="T70120.ks" target=*T70120_03]
@@ -429,62 +436,60 @@ shameful... I left Ren and Kousuke behind...!"[pcms]
 
 *8138|
 [fc]
-[ns]Wataru[nse]
-"Sorry. I was convinced that Yuuho and Oshima-senpai had[r]
-started dating... That email you received on the day of the[r]
-festival, it was from Oshima-senpai, right?"[pcms]
+[ns]航[nse]
+「ごめん。ボクはてっきり、悠帆と大嶋先輩は付き合いを[r]
+　始めたんだと思ってた……。あのお祭りの日、受信した[r]
+　メール、大嶋先輩からだったんだろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8139|
 [fc]
 [vo_yuh s="yuho1022"]
-[ns]Yuuho[nse]
-"Why would you..."[pcms]
+[ns]悠帆[nse]
+「どうして……」[pcms]
 
 *8140|
 [fc]
-[ns]Wataru[nse]
-"Because the look on Yuuho's face as she read the email...[r]
-she seemed happy..."[pcms]
+[ns]航[nse]
+「メールを読んでる悠帆の顔が……嬉しそうだった……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8141|
 [fc]
 [vo_yuh s="yuho1024"]
-[ns]Yuuho[nse]
-"Happy? That's not...!"[pcms]
+[ns]悠帆[nse]
+「嬉しそうだなんて……っ！」[pcms]
 
 *8142|
 [fc]
-[ns]Wataru[nse]
-"That's how it looked to me. Because of what happened during[r]
-the day... You said you exchanged email addresses... so I[r]
-thought for sure Oshima-senpai had called you out to[r]
-confess."[pcms]
+[ns]航[nse]
+「ボクには、そう見えたんだよ。昼間の事があったから……[r]
+　メルアド交換したって、悠帆が言ってたから……だから、[r]
+　大嶋先輩からの呼び出しで、きっと告白されたんだって」[pcms]
 
 *8143|
 [fc]
-[ns]Wataru[nse]
-"...I thought so... that's what I believed... Sorry. I just[r]
-assumed that on my own... and wallowed in self-pity... It's[r]
-embarrassing to admit now."[pcms]
+[ns]航[nse]
+「……ボクは、そう……そう思ってたんだ……。ごめん。[r]
+　勝手にボクはそう決め込んで……思いこんで……うじうじと[r]
+　いじけてた……女々しいと……今さらながら思うよ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8144|
 [fc]
 [vo_yuh s="yuho1023"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「……」[pcms]
 
 *8145|
 [fc]
-[ns]Wataru[nse]
-"If only I had the courage to ask Yuuho directly... No, more[r]
-than that, if only I could properly convey my feelings to[r]
-Yuuho... that..."[pcms]
+[ns]航[nse]
+「もっとちゃんと、悠帆に確かめる勇気があれば……[r]
+　いや、それよりも、ボクがちゃんと悠帆に……[r]
+　ボ、ボクの気持ちを……そのっ……！」[pcms]
 
 ;//〆ジャンプ　ラベル　合流　へ
 [jump storage="T70120.ks" target=*T70120_03]
@@ -498,157 +503,157 @@ Yuuho... that..."[pcms]
 *8146|
 [fc]
 [vo_yuh s="yuho1025"]
-[ns]Yuuho[nse]
-"Wait, Wataru. That thing... I'm still not ready to forgive[r]
-it... I still can't fully accept your words..."[pcms]
+[ns]悠帆[nse]
+「待って、航。わたし、そのことは……まだ……[r]
+　まだ、許せそうにないの……まだ航の言葉をしっかり[r]
+　受けとめられそうに……ないの……」[pcms]
 
 *8147|
 [fc]
-[ns]Wataru[nse]
-"!"[pcms]
+[ns]航[nse]
+「……！」[pcms]
 
 *8148|
 [fc]
-"She didn't forgive me. My unmanly behavior. My effeminate[r]
-emotions. My... jealousy... Will Yuuho ever forgive me[r]
-someday...?"[pcms]
+許して貰えなかった。ボクの男らしくない行動。[r]
+ボクの女々しい感情。ボクの……嫉妬心……。[r]
+いつかは……悠帆はボクを許してくれるのかな……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8149|
 [fc]
 [vo_yuh s="yuho1026"]
-[ns]Yuuho[nse]
-"Ah... sorry! I'm sorry, Wataru. Even at a time like this,[r]
-I'm still thinking about myself..."[pcms]
+[ns]悠帆[nse]
+「あっ……ごめんっ！　ごめんなさい、航。[r]
+　わたしったら、こんな時にまで……自分のことを……」[pcms]
 
 *8150|
 [fc]
-[ns]Wataru[nse]
-"...No, it's okay. It's my fault..."[pcms]
+[ns]航[nse]
+「……いや、いいんだ。ボクが悪いん……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8151|
 [fc]
 [vo_yuh s="yuho1027"]
-[ns]Yuuho[nse]
-"No, it's fine. It's true that there are feelings I can't[r]
-forgive yet, but that's not what I wanted to say to you,[r]
-Wataru. I'm sorry. Wataru, you're already going through so[r]
-much sadness, I'm sorry."[pcms]
+[ns]悠帆[nse]
+「ううんっ。いいの。確かにまだ許せない気持ちはあるけど、[r]
+　わたし、そんなこと航に言いたかったんじゃないの。[r]
+　ごめんなさい。航、今いっぱい悲しいのに、ごめんなさい」[pcms]
 
 *8152|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8153|
 [fc]
 [vo_yuh s="yuho1028"]
-[ns]Yuuho[nse]
-"You know, Wataru. Please take care of Ren-chan for your[r]
-father too. I know you're hurting a lot. I understand that,[r]
-but Ren-chan seems to be suffering even more..."[pcms]
+[ns]悠帆[nse]
+「あのね……航。その、漣ちゃんのこと、お父さんの分も[r]
+　守ってあげてね。航もいっぱい悲しいのわかってるの。[r]
+　わかってるんだけど、漣ちゃんの方がもっとつらそうで……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8154|
 [fc]
 [vo_yuh s="yuho1029"]
-[ns]Yuuho[nse]
-"Since you're Ren-chan's brother, please protect and support[r]
-her firmly."[pcms]
+[ns]悠帆[nse]
+「航は漣ちゃんのおにいちゃんなんだから、しっかりと[r]
+　漣ちゃんを守って支えてあげてほしいの」[pcms]
 
 *8155|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... yeah, thank you. Your concern for Ren makes me[r]
-happy. I'm a man after all, so I'll do my best."[pcms]
+[ns]航[nse]
+「悠帆……うん、ありがとう。漣への気持ち、嬉しいよ。[r]
+　ボクだって男だからね。頑張るよ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8156|
 [fc]
 [vo_yuh s="yuho1030"]
-[ns]Yuuho[nse]
-"Yeah, that's the spirit! Sometimes show Ren-chan how cool[r]
-her brother can be, okay, Wataru?"[pcms]
+[ns]悠帆[nse]
+「うん、その意気！　たまには、漣ちゃんにカッコイイ[r]
+　おにいちゃん、見せてあげてよね、ね、航！」[pcms]
 
 *8157|
 [fc]
-[ns]Wataru[nse]
-"Sometimes, huh, Yuuho"[pcms]
+[ns]航[nse]
+「たまにはって、悠帆」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8158|
 [fc]
 [vo_yuh s="yuho1031"]
-[ns]Yuuho[nse]
-"Ahahaha~ Well, you know. But Wataru, if there's anything I[r]
-can do for you, just tell me."[pcms]
+[ns]悠帆[nse]
+「あはははは～。いや、そのぉ。でも、航。[r]
+　もし、わたしにできる事があったら、何でも言ってね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8159|
 [fc]
 [vo_yuh s="yuho1032"]
-[ns]Yuuho[nse]
-"I want you to protect Ren-chan, but don't carry everything[r]
-on your own shoulders, talk to me about anything."[pcms]
+[ns]悠帆[nse]
+「漣ちゃんのことは、守ってあげてほしいけど、[r]
+　ひとりで抱え込まないで、何でも相談してよ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8160|
 [fc]
 [vo_yuh s="yuho1033"]
-[ns]Yuuho[nse]
-"There are many things that only women understand between[r]
-themselves. I'm here to support you, Wataru. I'll do[r]
-everything in my power."[pcms]
+[ns]悠帆[nse]
+「女同士じゃなきゃ、わからないこともいっぱい[r]
+　あるだろうし。わたし、航を応援するから。[r]
+　精いっぱいできる事、するから」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8161|
 [fc]
 [vo_yuh s="yuho1034"]
-[ns]Yuuho[nse]
-"So please cheer up, Wataru. Now just get some good rest and[r]
-sleep well... and get back to your usual self soon. Please."[pcms]
+[ns]悠帆[nse]
+「だから、ね、航。元気出して。もうあとは、ゆっくり、[r]
+　ぐっすり眠って……いつもの航に早くなってね。お願い」[pcms]
 
 *8162|
 [fc]
-[ns]Wataru[nse]
-"Yeah. Yuuho... thank you. You've given me a lot of[r]
-strength, so I'm okay now."[pcms]
+[ns]航[nse]
+「うん。悠帆……ありがとう。悠帆にいっぱい元気、[r]
+　もらったから、ボクはもう大丈夫だよ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8163|
 [fc]
 [vo_yuh s="yuho1035"]
-[ns]Yuuho[nse]
-"I'm glad to hear that. ...Well then, it's about time to say[r]
-goodnight. Sleep well, Wataru."[pcms]
+[ns]悠帆[nse]
+「うん。そう言って貰えると嬉しいな。[r]
+　……じゃあ、そろそろ、おやすみ。ぐっすり眠ってね、航」[pcms]
 
 *8164|
 [fc]
-Saying that, Yuuho turned around and started walking towards[r]
-her room. Once again, I thanked her from the bottom of my[r]
-heart as she walked away.[pcms]
+そう言って悠帆は、自分の部屋に行こうと、くるっと背を[r]
+向けて歩きだした。[r]
+ボクはその悠帆の背中に向かって改めて感謝した。[pcms]
 
 *8165|
 [fc]
-[ns]Wataru[nse]
-"Yeah, goodnight. Yuuho... thank you."[pcms]
+[ns]航[nse]
+「うん、おやすみ。悠帆……ありがとう」[pcms]
 
 *8166|
 [fc]
-Without turning back, Yuuho waved her hand as if to reply[r]
-and went back to her room.[pcms]
+悠帆は振り返らず、答えるようにひらひらと手を振って、[r]
+自分の部屋へと戻っていった。[pcms]
 
 ;//#_フェイドアウト
 
@@ -657,14 +662,14 @@ and went back to her room.[pcms]
 
 *8167|
 [fc]
-Yuuho... thank you. Seeing Yuuho was the greatest comfort.[r]
-My heart feels lighter now. It's all thanks to Yuuho. Her[r]
-very existence is a healing presence for me.[pcms]
+悠帆……ありがとう。悠帆の姿が一番の慰めだったよ。[r]
+気持ちがすとんと楽になった。悠帆のおかげだね。[r]
+悠帆の存在そのものが、ボクにとっての癒しなんだね。[pcms]
 
 *8168|
 [fc]
-Thank you, Yuuho. It looks like I'll be able to sleep[r]
-soundly after all. Goodnight...[pcms]
+ありがとう、悠帆。[r]
+どうやら、ぐっすり眠れそうだよ。おやすみ……。[pcms]
 
 [eval exp="f.l_route2_y = 1"]
 

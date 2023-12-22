@@ -24,84 +24,86 @@
 
 *460|
 [fc]
-[ns]Wataru[nse]
-"I'll go... I'll be the one to go!"[pcms]
+[ns]航[nse]
+「ボクが……ボクが行きます！」[pcms]
 
 *461|
 [fc]
-There's no time to hesitate. The situation is urgent. It[r]
-would be a lie to say I'm not scared, but I absolutely must[r]
-avoid being too late due to indecision...[pcms]
+躊躇している時間はない。事態は一刻を争う状況だ。[r]
+怖くないと言えば嘘になるけど、ここで迷って[r]
+手遅れになることだけは絶対に避けなくては……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *462|
 [fc]
 [vo_mar s="maru0037"]
-[ns]Margarita[nse]
-"Understood... Take care out there."[pcms]
+[ns]マルガリータ[nse]
+「わかった……気をつけて行けよ」[pcms]
 
 *463|
 [fc]
-With those words, my senior threw the handle of a mop to me.[r]
-As I caught it, my grip tightened with strength.[pcms]
+先輩はそう言うと、ボクにモップの柄を投げてよこした。[r]
+受け取ると同時に握りしめる手に力がこもる。[pcms]
 
 *464|
 [fc]
-Can I do what my senior does? Can I, without hesitation, use[r]
-violence against another person?[pcms]
+ボクは先輩のようにできるだろうか？[r]
+人を相手に、躊躇することなく暴力を振るうことが[r]
+できるだろうか。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *465|
 [fc]
 [vo_mar s="maru0038"]
-[ns]Margarita[nse]
-"Don't think of it as a human. That's a beast in human form.[r]
-If you don't do it, you'll lose what's important to you."[pcms]
+[ns]マルガリータ[nse]
+「人間だと思うな。あれは人の形をした獣だ。[r]
+　やらなければ自分の大切なものを失うことになる」[pcms]
 
 *466|
 [fc]
-[ns]Wataru[nse]
-"Yes... I understand."[pcms]
+[ns]航[nse]
+「はい……分かりました」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *467|
 [fc]
 [vo_mar s="maru0039"]
-[ns]Margarita[nse]
-"When you use it, aim for the solar plexus. Never aim for[r]
-the head. An amateur swinging around won't be able to[r]
-accurately hit a small target."[pcms]
+[ns]マルガリータ[nse]
+「使うときはみぞおちを狙え。[r]
+　頭は絶対に狙うな。素人が振り回しても[r]
+　小さい的を的確には捉えられない」[pcms]
 
 *468|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はい……」[pcms]
 
 *469|
 [fc]
-The instructions from my senior were very practical and[r]
-suited for real combat.[pcms]
+先輩の指示は実に理にかなった現実的で[r]
+実戦向きなものだった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *470|
 [fc]
 [vo_mar s="maru0040"]
-[ns]Margarita[nse]
-"I'll guard the emergency exit. Be careful out there!"[pcms]
+[ns]マルガリータ[nse]
+「非常口はワタシが守っておく。[r]
+　気をつけて行ってこい！」[pcms]
 
 *471|
 [fc]
-[ns]Wataru[nse]
-"...I'm off!"[pcms]
+[ns]航[nse]
+「……行ってきます！」[pcms]
 
 *472|
 [fc]
-Emboldened by my senior's words, I resolved myself and[r]
-opened the door to the catwalk.[pcms]
+先輩の言葉に勇気をもらったボクは意を決して[r]
+キャットウォークへの扉を開いた。[pcms]
 
 ;//〆ＢＧ：体育館内
 [bg storage="BG014"][trans_c cross time=500]
@@ -109,75 +111,73 @@ opened the door to the catwalk.[pcms]
 
 *473|
 [fc]
-The gymnasium was filled with the moans of the infected and[r]
-victims, and an abnormal stench of sex.[pcms]
+体育館にあふれていたのは感染者と犠牲者の嬌声。[r]
+そして異様なまでの性臭だった。[pcms]
 
 *474|
 [fc]
-I took a cautious step into the midst of it all.[pcms]
+ボクはそのなかを慎重な足取りで一歩踏み出す。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *475|
 [fc]
-Immediately, I could see an infected person standing still[r]
-on the catwalk.[pcms]
+早速キャットウォークに感染者が一人、突っ立って[r]
+いるのが見えた。[pcms]
 
 *476|
 [fc]
-They were reaching out from a window, screaming towards[r]
-Yuuho.[pcms]
+窓から腕をのばして、悠帆に向かってわめいている。[pcms]
 
 *477|
 [fc]
-Right outside that window was the roof of the corridor where[r]
-Yuuho was. In other words, unless I defeat this infected[r]
-person, there's no prospect of rescue.[pcms]
+その窓のすぐ外は悠帆がいる渡り廊下の屋根の上。[r]
+つまりこの感染者を倒さない限り、救出の目処は[r]
+立たない。[pcms]
 
 *478|
 [fc]
-Even though I thought I was prepared, when the moment came,[r]
-hesitation began to creep into my heart.[pcms]
+覚悟していたつもりだけど、いざその時が来ると[r]
+途端に迷いが心に浮かぶ。[pcms]
 
 *479|
 [fc]
-What will happen to me if I fail? What will happen to Yuuho[r]
-if I fail?[pcms]
+失敗したらボクはどうなる？[r]
+失敗したら悠帆はどうなる？[pcms]
 
 *480|
 [fc]
-[ns]Wataru[nse]
-"I have no choice... I have to do this!"[pcms]
+[ns]航[nse]
+「やるしか……やるしかないんだ！」[pcms]
 
 *481|
 [fc]
-To protect someone important to me, for the sake of someone[r]
-important... It's up to me to do it now! I quickly ran[r]
-towards the infected person.[pcms]
+大切な人を守りたいから、大切な人の為に……。[r]
+今はボクがやるしかないんだ！[r]
+ボクは素早く感染者へと駆け寄った。[pcms]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ａ３
-;//３１：側頭部に突き込む！
+;//●時限式選択肢Ａ－３
+;//３－１：側頭部に突き込む！
 ;//　　→狙いが外れてバランス崩す。
 ;//　　腕を掴まれ締め上げられ、そのまま首筋に
 ;//　　噛みつかれる。死亡。;//→B_F1
-;//３２：横っ腹に突き込む！;//→block:21060
-;//３３：時間切れ;//→落ち着いて立ち止まり、
+;//３－２：横っ腹に突き込む！;//→block:21060
+;//３－３：時間切れ;//→落ち着いて立ち止まり、
 ;//　　　　横っ腹に突き込む;//→block:21060
 
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="B_F1.ks" target=*B_F1_TOP]側頭部に突き込む！[endlink]
 ;	[link storage="21060.ks" target=*21060_TOP]横っ腹に突き込む！[endlink]
-; ;(link storage="21060.ks" target=*21060_TOP)Time's[r]
-up(endlink)[pcms]
+;	;[link storage="21060.ks" target=*21060_TOP]時間切れ[endlink][s]
 
 *SEL14|側頭部に突き込む！／横っ腹に突き込む！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Thrust into the temple!'"]
-[eval exp="f.seltext04 = 'Thrust into the side!'"]
+[eval exp="f.seltext02 = '側頭部に突き込む！'"]
+[eval exp="f.seltext04 = '横っ腹に突き込む！'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：;//〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）未明早朝
+;//・時間：５日目（８月１９日）未明～早朝
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹
 ;//時間帯：
@@ -18,298 +18,292 @@
 
 *3130|
 [fc]
-[ns]Wataru[nse]
-"It might sound cheap, but maybe it's about being true to[r]
-oneself..."[pcms]
+[ns]航[nse]
+「安っぽいけど、自分は自分でいる、って事、なのかな……」[pcms]
 
 *3131|
 [fc]
-"But that assumes you know what 'yourself' is. I can't say[r]
-for certain that I understand myself that well."[pcms]
+だけど、それは『自分』が何なのか、わかってるって事。[r]
+ボクは、そこまで言い切るほど、自分の事、[r]
+わかってるとは言い切れない。[pcms]
 
 *3132|
 [fc]
-Jin is armed with a gun. But he doesn't go on a rampage with[r]
-it, and he's quite cooperative.[pcms]
+壬は、銃を持っている。[r]
+だけど、それを使って好き勝手暴れたりしないし、[r]
+割と協力的だ。[pcms]
 
 *3133|
 [fc]
-"So maybe it's because he himself wants to be that way. If[r]
-that's the case, maybe he's fundamentally a good person..."[pcms]
+つまり、彼自身が『そうしたいから』なのかな。[r]
+だとしたら、やっぱり根はいい人なんだろうな……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3134|
 [fc]
 [vo_mar s="maru1627"]
-[ns]Margarita[nse]
-"Salvation... redemption, huh. Even so, I can't agree with[r]
-it."[pcms]
+[ns]マルガリータ[nse]
+「救済……救い、か。[r]
+　そうだとしても、同意はできないな」[pcms]
 
 *3135|
 [fc]
-With a face like she had tasted something bitter, the senior[r]
-muttered.[pcms]
+苦いものを噛んでしまったような顔で、先輩が呟く。[pcms]
 
 *3136|
 [fc]
-[ns]Wataru[nse]
-"...I feel the same way."[pcms]
+[ns]航[nse]
+「……ボクも、そう思います」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3137|
 [fc]
-I find Jin's words interesting, but still, they seem too[r]
-extreme... or like wordplay, and they don't seem to fit with[r]
-what we're feeling right now.[pcms]
+壬の言うことは面白い、とは思う。[r]
+だけとやっぱり極論っていうか……言葉遊びっていうか、[r]
+ボクたちが今、感じていることとは合わない気がした。[pcms]
 
 *3138|
 [fc]
-[ns]Wataru[nse]
-"I'm not religious, so I don't really understand things like[r]
-eschatology... but I still can't accept what's happening[r]
-right now."[pcms]
+[ns]航[nse]
+「ボクは無宗教だから終末思想とか、そう言うのは[r]
+　よくわからないけど……今起きてる事は、やっぱり[r]
+　納得できないよ」[pcms]
 
 *3139|
 [fc]
-[ns]Wataru[nse]
-"Why does it have to start here in Tokyo... in Shibuya? The[r]
-students at school, our families... Sure, not everything was[r]
-perfect, but..."[pcms]
+[ns]航[nse]
+「なんで東京で……この渋谷で始まらなくちゃならないのか。[r]
+　学園のみんなや、家族……。[r]
+　そりゃ、全部がいいことばっかりじゃなかったけど……」[pcms]
 
 *3140|
 [fc]
-[ns]Wataru[nse]
-"No matter how much they talk about divine punishment or the[r]
-work of God, it doesn't justify us suffering like this...[r]
-There must be others who should be atoning..."[pcms]
+[ns]航[nse]
+「いくら天罰とか、神様の仕業とか言っても、[r]
+　こんな目に遭わされる理由にはならないし……。もっと他に、[r]
+　償うべき人がいるはずですよ……」[pcms]
 
 *3141|
 [fc]
-"That's right... Our friends at school, the masters... It's[r]
-strange that such good people would be the first to be[r]
-punished!"[pcms]
+そう……。[r]
+学園の仲間たちやマスターたち……、[r]
+あんないい人たちが真っ先に罰を受けるなんて、おかしい！[pcms]
 
 *3142|
 [fc]
-[ns]Wataru[nse]
-"If I... if we survive this, we'll find those people... the[r]
-ones who should be atoning, and make sure something like[r]
-this never happens again!"[pcms]
+[ns]航[nse]
+「ボクが……ボク達が無事に生き延びたら、[r]
+　その人達……償うべき人達を見つけ出して、二度とこんな事が[r]
+　起きないようにするんだ！」[pcms]
 
 *3143|
 [fc]
-[ns]Wataru[nse]
-"If we don't, mom... yes, the people who were sacrificed[r]
-before, those who didn't make it this time... those who got[r]
-infected and are wandering outside, they won't be able to[r]
-rest in peace..."[pcms]
+[ns]航[nse]
+「そうしないと、母さん……そう、前の時に犠牲になった人達や、[r]
+　今回助からなかった人……感染してしまって、外を彷徨ってる[r]
+　人達も、浮かばれないですよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3144|
 [fc]
-After speaking so passionately, I noticed Maruko-senpai[r]
-looking at me with a bit of surprise.[pcms]
+そこまで一気に喋ってから、[r]
+少し驚いたように見つめるマル子先輩の視線に気がついた。[pcms]
 
 *3145|
 [fc]
-[ns]Wataru[nse]
-"Ah, sorry. It's not like getting angry at you will solve[r]
-anything, senpai..."[pcms]
+[ns]航[nse]
+「あ、すいません。先輩に怒っても仕方ないですよね……」[pcms]
 
 *3146|
 [fc]
-I meant to keep it under control, but I ended up speaking so[r]
-forcefully... It's embarrassing to talk so much about my own[r]
-thoughts...[pcms]
+抑えたつもりだったけど、なんか力説しちゃったな……。[r]
+こんなに自分の考えばかり喋っちゃうなんて照れくさい……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3147|
 [fc]
 [vo_mar s="maru1628"]
-[ns]Margarita[nse]
-"No, don't worry about it."[pcms]
+[ns]マルガリータ[nse]
+「いや、気にするな」[pcms]
 
 *3148|
 [fc]
-Senpai gave me a comforting smile that seemed almost like a[r]
-chuckle.[pcms]
+先輩はふっと笑みのようなものを作って、ボクを慰めてくれる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3149|
 [fc]
 [vo_mar s="maru1629"]
-[ns]Margarita[nse]
-"Rather, I should be the one thanking you... Thank you. Your[r]
-words have helped me organize my thoughts a bit."[pcms]
+[ns]マルガリータ[nse]
+「というよりも礼を言わなくてはならないな。[r]
+　……ありがとう。[r]
+　おかげでワタシも少しは考えがまとまりそうだ」[pcms]
 
 *3150|
 [fc]
 [vo_mar s="maru1630"]
-[ns]Margarita[nse]
-"First, let's survive. Whether the cause is a human disaster[r]
-or the will of the Lord, we can think about that later."[pcms]
+[ns]マルガリータ[nse]
+「まずは生き延びよう。[r]
+　原因が人災であれ、[ruby text="しゅ"]主の御意志であれ、[r]
+　それを考えるのは、その後で良い」[pcms]
 
 *3151|
 [fc]
-After a brief pause, senpai suddenly became serious and[r]
-looked at me.[pcms]
+しばし言葉を切った先輩は、[r]
+不意に真顔になって、ボクを見た。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3152|
 [fc]
 [vo_mar s="maru1631"]
-[ns]Margarita[nse]
-"...Right. Have you confessed to Kannagi yet?"[pcms]
+[ns]マルガリータ[nse]
+「……そうだ。君はもうカンナギに告白したのか？」[pcms]
 
 *3153|
 [fc]
-[ns]Wataru[nse]
-"Wha..."[pcms]
+[ns]航[nse]
+「なっ……」[pcms]
 
 *3154|
 [fc]
-What's with this sudden question?! And why does senpai even[r]
-know about my feelings!?[pcms]
+い、い、いきなり何を言い出すかと思ったら！[r]
+っていうか、どうして先輩までがボクの気持ちを！？[pcms]
 
 *3155|
 [fc]
-Between Tadahiko and senpai... could it be... that everyone[r]
-knows by now...?[pcms]
+彦ちんといい先輩といい……、[r]
+もしかして……この分だと、全員にバレてるとか……？[pcms]
 
 *3156|
 [fc]
-[ns]Wataru[nse]
-"No, not yet..."[pcms]
+[ns]航[nse]
+「ま、まだ……です……」[pcms]
 
 *3157|
 [fc]
-I managed to maintain a semblance of calm on the surface as[r]
-I mumbled my reply.[pcms]
+表面上の冷静さを何とか取り繕ってボクはボソボソと答える。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3158|
 [fc]
 [vo_mar s="maru1632"]
-[ns]Margarita[nse]
-"I see, not yet..."[pcms]
+[ns]マルガリータ[nse]
+「やっぱり、まだなのか……」[pcms]
 
 *3159|
 [fc]
-What do you mean 'I see'? That 'I see'... Can you see right[r]
-through me, to the fact that I'm too chicken to confess!?[pcms]
+やっぱりって何ですか。その「やっぱり」って。[r]
+ボクがヘタレでコクれないところまで、お見通しですか！？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3160|
 [fc]
 [vo_mar s="maru1633"]
-[ns]Margarita[nse]
-"You are a strange one, aren't you?"[pcms]
+[ns]マルガリータ[nse]
+「お前は、不思議なヤツだな」[pcms]
 
 *3161|
 [fc]
-Whether she's noticed my inner turmoil or not, senpai shapes[r]
-her lips into a light smile and continues.[pcms]
+ボクの内心の動揺に気付いてるのかどうか、[r]
+先輩は唇を軽い笑みの形にして、続ける。[pcms]
 
 *3162|
 [fc]
 [vo_mar s="maru1634"]
-[ns]Margarita[nse]
-"You act with such determination, as if your life depends on[r]
-it, and you speak with so much passion that it seems your[r]
-emotions might overflow. Yet, there's something unreliable[r]
-about you..."[pcms]
+[ns]マルガリータ[nse]
+「命がけで行動したり、[r]
+　感情があふれそうなくらい、力を入れて話したり。[r]
+　そのくせ、どこか頼りないというか……」[pcms]
 
 *3163|
 [fc]
 [vo_mar s="maru1635"]
-[ns]Margarita[nse]
-"It's quite intriguing."[pcms]
+[ns]マルガリータ[nse]
+「興味ぶかいよ」[pcms]
 ;//＠半笑いで
 
 *3164|
 [fc]
-It's complicated... Is that... a compliment?[pcms]
+なんかフクザツです……。[r]
+それ……褒められてるんでしょうか。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3165|
 [fc]
 [vo_mar s="maru1636"]
-[ns]Margarita[nse]
-"We don't know what will happen next, and now might be...[r]
-yes, I think if you confess now, it won't turn out badly."[pcms]
+[ns]マルガリータ[nse]
+「この先は何が起きるかわからないし、今なら……そうだな、[r]
+　告白しても、悪い結果にはならないと思うぞ」[pcms]
 
 *3166|
 [fc]
-I choke up again...[pcms]
+うっ……、とボクはまた言葉に詰まる。[pcms]
 
 *3167|
 [fc]
-Considering what happened in the kitchen earlier, I might[r]
-even start to hope... maybe...[pcms]
+さっきのキッチンでのことを考えれば、[r]
+もしかしたら……って自分でも期待してしまうけど。[pcms]
 
 *3168|
 [fc]
-But it's strange how senpai seems to have read the situation[r]
-so thoroughly. I even start to wonder if she has[r]
-clairvoyance...[pcms]
+でも何故そこまで先輩が読みきっているのか不思議だ。[r]
+千里眼なのかとさえ思えてきた……。[pcms]
 
 *3169|
 [fc]
-[ns]Wataru[nse]
-"Well... but, you know... the suspension bridge effect, was[r]
-it? Confessing in a situation like this, well... It feels a[r]
-bit like cheating..."[pcms]
+[ns]航[nse]
+「うーん……でも、ほら……、吊り橋効果、でしたっけ。[r]
+　こんな状況で告白するのって、ほら……。[r]
+　なんかズルしたみたいな感じが……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3170|
 [fc]
 [vo_mar s="maru1637"]
-[ns]Margarita[nse]
-"Wataru, you're so earnest."[pcms]
+[ns]マルガリータ[nse]
+「ワタルは、マジメだな」[pcms]
 ;//＠笑いを含んでいる
 
 *3171|
 [fc]
-Maruko-senpai laughed a little louder this time.[pcms]
+今度は少し声を立てて、マル子先輩が笑った。[pcms]
 
 *3172|
 [fc]
-Ah... so senpai can laugh like this. It feels like this is[r]
-the first time I've seen such a happy smile from her.[pcms]
+あぁ……、先輩ってこんな顔して笑うんだ。[r]
+こういう楽しそうな笑顔は初めて見たような気がする。[pcms]
 
 *3173|
 [fc]
-Her laughing face looks just like any other girl's, and even[r]
-though it's not that kind of situation, my heart strangely[r]
-starts to race.[pcms]
+笑ってる顔はまるで普通の女の子みたいで、[r]
+そういう局面でもないのに、ボクは妙にドキドキしてしまう。[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１
-;//１１:先輩に恋人は？→ラベル　A006
-;//１２:そろそろ休みましょう→ラベル　A007
+;//●選択肢Ａ－１
+;//１－１:先輩に恋人は？→ラベル　A006
+;//１－２:そろそろ休みましょう→ラベル　A007
 
 
 ;	[link storage="50530.ks" target=*50530_01]先輩に恋人は？[endlink]
-; (link storage="50530.ks" target=*50530_02)Let's take a[r]
-break soon(endlink)[pcms]
+;	[link storage="50530.ks" target=*50530_02]そろそろ休みましょう[endlink][s]
 
 *SEL48|先輩に恋人は？／そろそろ休みましょう
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Do you have a significant other, senior?'"]
-[eval exp="f.seltext04 = 'Let\'s take a break soon'"]
+[eval exp="f.seltext02 = '先輩に恋人は？'"]
+[eval exp="f.seltext04 = 'そろそろ休みましょう'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -348,235 +342,229 @@ break soon(endlink)[pcms]
 
 *3174|
 [fc]
-If she's this beautiful, she must have a boyfriend, right?[r]
-She probably shows that boyfriend the same smile she showed[r]
-me just now...[pcms]
+これだけキレイな人なら、恋人くらい、いるんだろうな。[r]
+その恋人にだけは、今みたいな笑顔、見せるんだろうな……。[pcms]
 
 *3175|
 [fc]
-But... I wonder what kind of person he is. It's bothering[r]
-me...[pcms]
+でも……、どんな人なんだろう。気になるな……。[pcms]
 
 *3176|
 [fc]
-Normally, I wouldn't have the courage to ask such a thing,[r]
-but with senpai as she is now, I feel like she might[r]
-answer...[pcms]
+普段ならこんなこと聞けない（そんな度胸はない）けど、[r]
+今の先輩だったら、答えてくれそうな気がして……。[pcms]
 
 *3177|
 [fc]
-[ns]Wataru[nse]
-"What about you, senpai... Do you have a boyfriend?"[pcms]
+[ns]航[nse]
+「先輩こそ……。恋人はいないんですか？」[pcms]
 
 *3178|
 [fc]
-The moment I asked, "No, I don't have one..."[pcms]
+問いかけた瞬間、[r]
+マル子先輩の顔面がさぁっと真っ赤に染まった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3179|
 [fc]
 [vo_mar s="maru1638"]
-[ns]Margarita[nse]
-After a brief pause, Senior Maruko awkwardly spoke.[pcms]
+[ns]マルガリータ[nse]
+「い、いない……」[pcms]
 
 *3180|
 [fc]
-"No, well... I had one when I was a child, but for the past[r]
-few years, various things happened and I just haven't met[r]
-anyone..."[pcms]
+しばらく間を置いてから、先輩はぎこちなく口にした。[pcms]
 
 *3181|
 [fc]
 [vo_mar s="maru1639"]
-[ns]Margarita[nse]
-"The people I get along with are all older and married...[r]
-Even if they're around my age, they're more like comrades...[r]
-like battle buddies..."[pcms]
+[ns]マルガリータ[nse]
+「いや、昔……子供の頃はいたが、[r]
+　ここ何年かは、色々あって出逢いがなかっただけで……」[pcms]
 
 *3182|
 [fc]
 [vo_mar s="maru1640"]
-[ns]Margarita[nse]
-It was an unusually roundabout and flustered response from[r]
-the senior.[pcms]
+[ns]マルガリータ[nse]
+「仲良くなる相手は、みんな年上で結婚していたり……。[r]
+　歳が近くても、仲間と言うか……戦友みたいなもので……」[pcms]
 
 *3183|
 [fc]
-Senior sure is quick to poke at me, but when it comes to her[r]
-own love life, she's not so smooth...[pcms]
+なんだか普段の先輩とは違う、[r]
+要領を得ないしどろもどろの返事だった。[pcms]
 
 *3184|
 [fc]
-It would be too cruel to tease her too much, so let's change[r]
-the subject.[pcms]
+先輩ってば、ボクにはビシビシ突っ込んできたくせに[r]
+自分の恋愛話は苦手なんだなあ……。[pcms]
 
 *3185|
 [fc]
-"Then, what's your type? What kind of person do you like?"[pcms]
+あまりいじめるのも可哀想だから、別の話題にしよう。[pcms]
 
 *3186|
 [fc]
-[ns]Wataru[nse]
-"My type...? Well... I like a man who is kind and brave."[pcms]
+[ns]航[nse]
+「じゃあ、好きなタイプとかは？　どんな人が好きなんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3187|
 [fc]
 [vo_mar s="maru1641"]
-[ns]Margarita[nse]
-When I changed the topic, Senior Maruko quickly recovered.[pcms]
+[ns]マルガリータ[nse]
+「タイプか……。[r]
+　そうだな……優しくて、勇敢な男がいい」[pcms]
 
 *3188|
 [fc]
-"Someone who can do martial arts or something?"[pcms]
+話を切り替えると先輩は、すばやく立ち直った。[pcms]
 
 *3189|
 [fc]
-[ns]Wataru[nse]
-"That's part of it."[pcms]
+[ns]航[nse]
+「格闘技ができたりとか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3190|
 [fc]
 [vo_mar s="maru1642"]
-[ns]Margarita[nse]
-"But even if he's not physically strong, someone who can[r]
-show courage when it counts, someone reliable in a pinch is[r]
-what I prefer."[pcms]
+[ns]マルガリータ[nse]
+「それもある」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3191|
 [fc]
 [vo_mar s="maru1643"]
-[ns]Margarita[nse]
-"Reliability, huh..."[pcms]
+[ns]マルガリータ[nse]
+「だが、腕っ節が弱くても、ここぞで胆力を見せてくれる、[r]
+　いざというときに頼りにできる人が良い」[pcms]
 
 *3192|
 [fc]
-[ns]Wataru[nse]
-What kind of person could Senior Maruko, who is so capable[r]
-herself, rely on...? At least someone more adult or stronger[r]
-than her, otherwise what's the point of relying on them...?[pcms]
+[ns]航[nse]
+「頼りがい、ですか……」[pcms]
 
 *3193|
 [fc]
-I wonder what kind of superman that would be.[pcms]
+これだけしっかりしたマル子先輩が頼る相手って……？[r]
+少なくとも先輩よりも大人だったり、強かったりしないと[r]
+頼る意味はないわけで……？[pcms]
 
 *3194|
 [fc]
-"It's obvious for the strong to step forward, but I like a[r]
-man who doesn't hesitate to step up even if he's weak..."[pcms]
+それってどんなスーパーマンだろう、と思ってしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3195|
 [fc]
 [vo_mar s="maru1644"]
-[ns]Margarita[nse]
-"That's different from foolhardiness. It means being someone[r]
-who can think of ways to win despite their weaknesses and[r]
-take action."[pcms]
+[ns]マルガリータ[nse]
+「強い奴が矢面に出るのは当たり前だが、[r]
+　弱くとも前に出ることに躊躇がない……そんな男だ」[pcms]
 
 *3196|
 [fc]
 [vo_mar s="maru1645"]
-[ns]Margarita[nse]
-"...That's why I like brave men. And of course, it goes[r]
-without saying that they should cherish their friends and[r]
-family..."[pcms]
+[ns]マルガリータ[nse]
+「それは、蛮勇とは違う。[r]
+　弱いなりに勝つ方法を考えて[r]
+　行動を起こせる人間だということになる」[pcms]
 
 *3197|
 [fc]
 [vo_mar s="maru1646"]
-[ns]Margarita[nse]
-Senior cut off her words mid-sentence and looked intently at[r]
-my face as if she had just thought of something.[pcms]
+[ns]マルガリータ[nse]
+「……だから、勇敢な男がいい。[r]
+　あとは……そうだな、[r]
+　友人や家族を大切にするのは当然として……」[pcms]
 
 *3198|
 [fc]
-"...In that regard, I might give you a passing grade?"[pcms]
+途中で言葉を切った先輩は、ふと思いついたというように[r]
+ボクの顔をまじまじと見た。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3199|
 [fc]
 [vo_mar s="maru1647"]
-[ns]Margarita[nse]
-"Eh... Yes?!"[pcms]
+[ns]マルガリータ[nse]
+「……その点で言うと、キミには合格点をやってもいいな？」[pcms]
 
 *3200|
 [fc]
-[ns]Wataru[nse]
-Her sudden remark made my heart skip a beat.[pcms]
+[ns]航[nse]
+「え……ええ！？」[pcms]
 
 *3201|
 [fc]
-What... was that just now? It felt a bit like a[r]
-confession... No, there's no deep meaning behind it... haha.[pcms]
+突然の発言に、胸がドキンと鳴った。[pcms]
 
 *3202|
 [fc]
-Since I fell silent, Senior seemed to blush out of reflex as[r]
-well.[pcms]
+な……なんか、今のってちょっと、告白っぽいような……？[r]
+ふ、深い意味はないんだろうけど……、ははは。[pcms]
 
 *3203|
 [fc]
-"It's just a hypothetical! Don't take it seriously. ...First[r]
-of all, I dislike unfaithful men."[pcms]
+ボクが黙ってしまったので、[r]
+なんとなくつられて先輩までも赤面してしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f14"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3204|
 [fc]
 [vo_mar s="maru1648"]
-[ns]Margarita[nse]
-"Of course, that makes sense... haha..."[pcms]
+[ns]マルガリータ[nse]
+「た、たとえばの話だ！　真面目に受け取るな。[r]
+　……第一、ワタシは浮気な男は嫌いだ」[pcms]
 
 *3205|
 [fc]
-[ns]Wataru[nse]
-Senior slowly stood up from her seat.[pcms]
+[ns]航[nse]
+「そ、そりゃ、そうですよね……ははは……」[pcms]
 
 *3206|
 [fc]
-"I'm also supporting you from the shadows. Do your best.[r]
-Take good care of Kannagi."[pcms]
+先輩はゆっくりと席から立ち上がった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3207|
 [fc]
 [vo_mar s="maru1649"]
-[ns]Margarita[nse]
-"Thank you very much, senior..."[pcms]
+[ns]マルガリータ[nse]
+「ワタシも、影ながら応援しているぞ。[r]
+　頑張れ。カンナギを大切にしろ」[pcms]
 
 *3208|
 [fc]
-[ns]Wataru[nse]
-"Well then, I'm going to rest soon. There's still more to do[r]
-tomorrow."[pcms]
+[ns]航[nse]
+「あ、ありがとうございます、先輩……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3209|
 [fc]
 [vo_mar s="maru1650"]
-[ns]Margarita[nse]
-"Then, I'll go to bed too. Good night."[pcms]
+[ns]マルガリータ[nse]
+「では、ワタシはそろそろ休む。[r]
+　明日もまだやることがあるからな」[pcms]
 
 *3210|
 [fc]
-[ns]Wataru[nse]
-We decided to each return to our own beds.[pcms]
+[ns]航[nse]
+「じゃあ、ボクも休みます。お休みなさい」[pcms]
 
 *3211|
 [fc]
-Hmm... If we keep talking like this, I might end up saying[r]
-too much...[pcms]
+ボクたちはそれぞれに自分の寝床へと戻ることにした。[pcms]
 
 ;//→ジャンプ：ブロック 50540 へ
 [jump storage="50540.ks" target=*50540_TOP]
@@ -589,37 +577,38 @@ too much...[pcms]
 
 *3212|
 [fc]
-It's probably better to wrap things up now.[pcms]
+うーん……。[r]
+このまま話し込むと、余計なことまで話してしまいそう……。[pcms]
 
 *3213|
 [fc]
-"Senior, shouldn't we go to bed soon? It's getting late."[pcms]
+もう、切り上げた方が良さそうだ。[pcms]
 
 *3214|
 [fc]
-[ns]Wataru[nse]
-"You're right. There's still a lot to do from now on. Well[r]
-then, see you tomorrow..."[pcms]
+[ns]航[nse]
+「先輩、そろそろ休みませんか？　もう遅いし」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3215|
 [fc]
 [vo_mar s="maru1651"]
-[ns]Margarita[nse]
-"Good night."[pcms]
+[ns]マルガリータ[nse]
+「そうだな。これからもやることは沢山ある。[r]
+　では、また明日……」[pcms]
 
 *3216|
 [fc]
-[ns]Wataru[nse]
-We decided to each return to our own beds.[pcms]
+[ns]航[nse]
+「お休みなさい」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3217|
 [fc]
-We decided to each return to our own beds.[pcms]
+ボクたちはそれぞれに自分の寝床へと戻ることにした。[pcms]
 
 ;//→ジャンプ：ブロック 50540 へ
 [jump storage="50540.ks" target=*50540_TOP]

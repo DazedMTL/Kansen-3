@@ -21,479 +21,484 @@
 
 *941|
 [fc]
-I stand alone under "the legendary tree" where the girls[r]
-gossip, clutching my phone and looking up at the sky.[pcms]
+僕は一人、女の子達が噂している『伝説の木の下』で[r]
+携帯を握りしめ、空を見上げる。[pcms]
 
 *942|
 [fc]
-Just after pressing the send button on my phone, I look up[r]
-at the sky where the stars are dimly shining, waiting for[r]
-Kanagi-san to arrive.[pcms]
+ついさっき送信ボタンを押したばかりの携帯と、[r]
+星が鈍く輝く空を見上げて、神凪さんが来るのを待っている。[pcms]
 
 *943|
 [fc]
-The reply to my email said, "I might be a little late, but I[r]
-will definitely come."[pcms]
+メールの返事は『少し遅れるかもしれないけど、[r]
+必ず行きます』とあった。[pcms]
 
 *944|
 [fc]
-If I'm here, that girl--Kanagi-san will surely come.[pcms]
+ここにいれば、あの子は――神凪さんは、必ず来る。[pcms]
 
 *945|
 [fc]
-Mosquitoes attack my bare legs. But still, I wait here.[pcms]
+むき出しの足を、蚊が襲う。[r]
+だけども、僕はここで待つ。[pcms]
 
 *946|
 [fc]
-Today, I will confess to the idol of our school... to[r]
-Kanagi-san![pcms]
+今日こそ、あの学園のアイドルの……。[r]
+神凪さんに告白する！[pcms]
 
 *947|
 [fc]
-She is the idol of the school. I'm not bragging, but I'm[r]
-quite popular too. I can definitely do it.[pcms]
+あの子は、学園のアイドル。[r]
+僕も、自慢ではないが、人気はある方だ。[r]
+絶対に行ける。[pcms]
 
 *948|
 [fc]
-The distant sounds of festival music and laughter. The dim[r]
-orange light emitted from the hanging lanterns.[pcms]
+遠くから聞こえる祭り囃子、笑い声。[r]
+ぶら下がった提灯から発せられる[r]
+橙色のぼんやりとした明かり。[pcms]
 
 *949|
 [fc]
-Against the backdrop of those sounds and lights, I can see a[r]
-slender figure approaching me.[pcms]
+その音と、光を背に、すらりとした人影が、[r]
+こちらに向かってくるのが見えた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *950|
 [fc]
-[ns]Oshimi[nse]
-"Kanagi-san"[pcms]
+[ns]大嶋[nse]
+「神凪さん」[pcms]
 
 *951|
 [fc]
-Suppressing my excitement and feigning calmness, I call out[r]
-her name in a soft voice.[pcms]
+興奮を押し殺し、冷静を装って、小さな声で彼女の名を呼ぶ。[pcms]
 
 *952|
 [fc]
-When talking to girls I'm not interested in, my heart[r]
-doesn't race like this.[pcms]
+興味のない女の子と話す時は、[r]
+こんな風にドキドキすることはない。[pcms]
 
 *953|
 [fc]
-But with Kanagi-san, it's different. Especially today.[pcms]
+でも、神凪さんに対しては違う。[r]
+特に今日は。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *954|
 [fc]
 [vo_yuh s="yuho0327"]
-[ns]Yuuho[nse]
-"Good evening, sorry to keep you waiting."[pcms]
+[ns]悠帆[nse]
+「こんばんは、お待たせしました」[pcms]
 
 *955|
 [fc]
-The school idol responds to my call in her usual tone.[pcms]
+学園のアイドルは、いつもと変わらない調子で、[r]
+僕の呼びかけに答える。[pcms]
 
 *956|
 [fc]
-As she gets closer to me, her figure becomes clearer and[r]
-clearer.[pcms]
+僕に近づくにつれ、次第にその姿がはっきりと見えてくる。[pcms]
 
 *957|
 [fc]
-She's not in her usual school uniform, but in a yukata.[pcms]
+彼女は、いつもの制服姿じゃなくて、[r]
+浴衣姿だった。[pcms]
 
 *958|
 [fc]
-It's fresh and different from the usual clothes--and that[r]
-appearance, which highlights Kanagi-san's cuteness even[r]
-more, makes my heart race faster.[pcms]
+見慣れた服と違って、新鮮さがあって――[r]
+それに、むしろ神凪さんの可愛らしさが引き立つその姿に、[r]
+僕の心臓の高鳴りは加速していった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *959|
 [fc]
-[ns]Oshimi[nse]
-"Hey, sorry for calling you out like this."[pcms]
+[ns]大嶋[nse]
+「やあ、わざわざ呼び出してすまないね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *960|
 [fc]
 [vo_yuh s="yuho0328"]
-[ns]Yuuho[nse]
-"No, not at all... Did I keep you waiting?"[pcms]
+[ns]悠帆[nse]
+「いえいえ、わたしこそ……。[r]
+　お待たせしませんでした？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *961|
 [fc]
-[ns]Oshimi[nse]
-"No, not at all. It's just the right time, and I just got[r]
-here too."[pcms]
+[ns]大嶋[nse]
+「いやそんなことないよ。時間丁度だし、[r]
+　僕も今来たところだからさ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *962|
 [fc]
 [vo_yuh s="yuho0329"]
-[ns]Yuuho[nse]
-"Is that so? So..."[pcms]
+[ns]悠帆[nse]
+「そうですか。それで……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *963|
 [fc]
-[ns]Oshimi[nse]
-"Ah, yeah... I mean, it's a hot night tonight."[pcms]
+[ns]大嶋[nse]
+「ああ、うん……なんていうか、今夜も熱いね」[pcms]
 
 *964|
 [fc]
-Kanagi-san's yukata appearance and her cute voice and[r]
-gestures make me lose my usual composure.[pcms]
+神凪さんの浴衣姿と、かわいらしい声、仕草に、[r]
+僕はいつもの冷静さを失ってしまっている。[pcms]
 
 *965|
 [fc]
-If this continues... I won't be able to fulfill today's main[r]
-purpose of "confessing to Kanagi-san."[pcms]
+このままでは……。[r]
+今日の本来の目的の、『神凪さんに告白する』ことが[r]
+できなくなる。[pcms]
 
 *966|
 [fc]
-Would it be better to just make up my mind and confess[r]
-straight away rather than continue this trivial exchange?[pcms]
+このまま、他愛もないやりとりを続けるより、[r]
+意を決して、ストレートに告白してしまった方が[r]
+良いんじゃないだろうか？[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *967|
 [fc]
 [vo_yuh s="yuho0330"]
-[ns]Yuuho[nse]
-"Yes, it really feels like a summer night."[pcms]
+[ns]悠帆[nse]
+「そうですねぇ。夏の夜って感じですね」[pcms]
 
 *968|
 [fc]
-The mature allure mixed with the fragility of a young girl,[r]
-and that smile illuminated by the orange light, help me[r]
-regain my composure instead.[pcms]
+大人びた妖艶さと、少女の危うさが混ざり、[r]
+橙色に照らされたその笑顔に、[r]
+むしろ僕は落ち着きを取り戻してきた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *969|
 [fc]
-[ns]Oshimi[nse]
-"The yukata suits you very well."[pcms]
+[ns]大嶋[nse]
+「浴衣、とっても良く似合っているね」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *970|
 [fc]
-[ns]Oshimi[nse]
-"Yeah. The swimsuit look is cool too, but Kanagi-san looks[r]
-even more beautiful today."[pcms]
+[ns]大嶋[nse]
+「うん。水着姿もかっこいいけど、[r]
+　今日の神凪さんは一段ときれいだよ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *971|
 [fc]
 [vo_yuh s="yuho0331"]
-[ns]Yuuho[nse]
-"Ah, thank you very much."[pcms]
+[ns]悠帆[nse]
+「あ、ありがとうございます」[pcms]
 
 *972|
 [fc]
-She covers her mouth with her hand, looks down shyly, and[r]
-blushes.[pcms]
+手元に口をあてて、うつむき、照れている。[pcms]
 
 *973|
 [fc]
-Really, this girl is so cute...[pcms]
+ホント、可愛いなこの子は……。[pcms]
 
 *974|
 [fc]
-I want to make this girl mine. Whether it's because of the[r]
-dim light or our youth.[pcms]
+この子を、自分のモノにしたい。[r]
+薄暗いというのか、若いというのか。[pcms]
 
 *975|
 [fc]
-A sense of possessiveness towards her spreads throughout my[r]
-heart.[pcms]
+この子に対する独占欲が、僕の心一杯に広がる。[pcms]
 
 *976|
 [fc]
-After a moment of silence, I make up my mind.[pcms]
+少しの無言の後、僕は覚悟を決めた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *977|
 [fc]
-[ns]Oshimi[nse]
-"So... there's something important I want to talk about."[pcms]
+[ns]大嶋[nse]
+「それでさ……大事な話なんだけど」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *978|
 [fc]
 [vo_yuh s="yuho0332"]
-[ns]Yuuho[nse]
-"Yes...?"[pcms]
+[ns]悠帆[nse]
+「はい……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *979|
 [fc]
-[ns]Oshimi[nse]
-"I'm not good with words, so I can't come up with clever[r]
-lines or anything..."[pcms]
+[ns]大嶋[nse]
+「僕って不器用だから、あんまり気の利いた[r]
+　セリフとか思いつかないんだけど……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *980|
 [fc]
-[ns]Oshimi[nse]
-"I've always liked you, Kanagi-san."[pcms]
+[ns]大嶋[nse]
+「僕、神凪さんのことがずっと好きだったんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *981|
 [fc]
 [vo_yuh s="yuho0333"]
-[ns]Yuuho[nse]
-"Eh...?"[pcms]
+[ns]悠帆[nse]
+「えっ……」[pcms]
 
 *982|
 [fc]
-Kanagi looks as if she wants to say she had never expected[r]
-this.[pcms]
+『予想もしていなかった』とでも言いたげな顔をする、神凪。[pcms]
 
 *983|
 [fc]
-I had a strategy. I thought I could definitely win her over.[pcms]
+僕には勝算があった。[r]
+必ず落とせる、と思っていたのに。[pcms]
 
 *984|
 [fc]
-Then again, a heavy silence falls upon us.[pcms]
+そのまま、再び重い沈黙が訪れた。[pcms]
 
 *985|
 [fc]
-In my head swirls the thought "It was no good." But maybe[r]
-she's just confused. There's also the possibility that she's[r]
-undecided.[pcms]
+頭の中を、『駄目だった』という言葉が渦を巻く。[r]
+でももしかすると、ただ迷っているだけかもしれない。[r]
+決めかねている、という可能性もある。[pcms]
 
 *986|
 [fc]
-Maybe it's better to give up for today and confess again[r]
-another time...[pcms]
+今日はあきらめて、再び告白するのも手か……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *987|
 [fc]
-[ns]Oshimi[nse]
-"Sorry for saying something so sudden that troubles you."[pcms]
+[ns]大嶋[nse]
+「ごめんね、突然困らせるようなこと言って」[pcms]
 
 *988|
 [fc]
-I try to calm Kanagi-san's feelings by speaking as[r]
-cheerfully as possible, as if consoling a child.[pcms]
+できるだけ爽やかに、子供に言い聞かせるようにして、[r]
+神凪さんの気持ちを落ち着かせようと、話しかけた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *989|
 [fc]
 [vo_yuh s="yuho0334"]
-[ns]Yuuho[nse]
-"No... that..."[pcms]
+[ns]悠帆[nse]
+「いぇ……その……」[pcms]
 
 *990|
 [fc]
-A slightly flustered voice comes back to me.[pcms]
+少しうわずった声が帰ってくる。[pcms]
 
 *991|
 [fc]
-Perhaps she's hesitating? With one more push from me, her[r]
-feelings might tilt.[pcms]
+やはり、迷っている？[r]
+僕の一押しがあれば、気持ちが傾くかもしれない。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *992|
 [fc]
-[ns]Oshimi[nse]
-"I want you to go out with me if possible. But that's[r]
-secondary. I just wanted to convey these feelings..."[pcms]
+[ns]大嶋[nse]
+「できれば僕と付き合ってほしい。[r]
+　でもそれは二の次だ。とにかくこの気持ちを[r]
+　伝えたかった……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *993|
 [fc]
 [vo_yuh s="yuho0335"]
-[ns]Yuuho[nse]
-"It's not a bother... rather, I'm happy..."[pcms]
+[ns]悠帆[nse]
+「迷惑ではありません……むしろ嬉しいです……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *994|
 [fc]
-[ns]Oshimi[nse]
-"Really? You're really happy with my confession?"[pcms]
+[ns]大嶋[nse]
+「本当に？[r]
+　本当に僕の告白で喜んでもらえる？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *995|
 [fc]
 [vo_yuh s="yuho0336"]
-[ns]Yuuho[nse]
-"Yes... I'm truly happy."[pcms]
+[ns]悠帆[nse]
+「はい……うれしいのは本心です」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *996|
 [fc]
 [vo_yuh s="yuho0337"]
-[ns]Yuuho[nse]
-"But..."[pcms]
+[ns]悠帆[nse]
+「でも……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *997|
 [fc]
-[ns]Oshimi[nse]
-"Will you go out with me?"[pcms]
+[ns]大嶋[nse]
+「僕と付き合ってくれる？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *998|
 [fc]
 [vo_yuh s="yuho0338"]
-[ns]Yuuho[nse]
-"But... that might be... impossible."[pcms]
+[ns]悠帆[nse]
+「でも……それは……できないかも」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *999|
 [fc]
-[ns]Oshimi[nse]
-"Eh?"[pcms]
+[ns]大嶋[nse]
+「えっ？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1000|
 [fc]
 [vo_yuh s="yuho0339"]
-[ns]Yuuho[nse]
-"Um, that... I..."[pcms]
+[ns]悠帆[nse]
+「あの、その……わたし……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1001|
 [fc]
-[ns]Oshimi[nse]
-"You were happy, right? Is there someone else you like?"[pcms]
+[ns]大嶋[nse]
+「喜んでくれたんだよね？[r]
+　他に好きな人がいるのかな？」[pcms]
 
 *1002|
 [fc]
-We stare at each other in silence.[pcms]
+無言で見つめ合う僕たち。[pcms]
 
 *1003|
 [fc]
-The smooth lips, like those of a smooth doll, are faintly[r]
-illuminated by the orange light.[pcms]
+相変わらず橙色の光に、滑らかな人形の様な唇が[r]
+ぼんやりと照らし出される。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1004|
 [fc]
 [vo_yuh s="yuho0340"]
-[ns]Yuuho[nse]
-"Someone I like... I feel it's different from that..."[pcms]
+[ns]悠帆[nse]
+「好きな人とか……そんなのとは違う気が[r]
+　するんですけど……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1005|
 [fc]
-[ns]Oshimi[nse]
-"I have friends too. I just want to be lovers with Kanagi-[r]
-san."[pcms]
+[ns]大嶋[nse]
+「友だちは僕だっているさ。[r]
+　僕は神凪さんと恋人になりたいだけだよ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1006|
 [fc]
 [vo_yuh s="yuho0341"]
-[ns]Yuuho[nse]
-"Is it okay... for me to be lovers with my senior...?"[pcms]
+[ns]悠帆[nse]
+「いいのかな……わたしと先輩が恋人なんて……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1007|
 [fc]
-[ns]Oshimi[nse]
-"Love is a matter of free will, right? It's not like it'll[r]
-mess up your life."[pcms]
+[ns]大嶋[nse]
+「恋愛は自由意志だろ？[r]
+　別にそれで人生が狂ったりはしないさ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1008|
 [fc]
 [vo_yuh s="yuho0342"]
-[ns]Yuuho[nse]
-"But... still..."[pcms]
+[ns]悠帆[nse]
+「でも……でもやっぱり……」[pcms]
 
 *1009|
 [fc]
-Just a little more! With a bit more pushing, she might fall![pcms]
+あと少し！[r]
+あと少し押せば、堕ちるかもしれない！[pcms]
 
 *1010|
 [fc]
-My body moves towards Kanagi-san without waiting for my[r]
-brain's command.[pcms]
+僕の身体は、脳の命令を待たず、神凪さんを求め動き出した。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1011|
 [fc]
-[ns]Oshimi[nse]
-"I really, really like you!!"[pcms]
+[ns]大嶋[nse]
+「僕は本当に本当に好きなんだよ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_m9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1012|
 [fc]
 [vo_yuh s="yuho0343"]
-[ns]Yuuho[nse]
-"Ah!"[pcms]
+[ns]悠帆[nse]
+「あっ！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1013|
 [fc]
-I'm drawn to those lips and lean in towards Kanagi-san,[r]
-embracing her slender shoulders.[pcms]
+僕は、その唇に吸い寄せられるように神凪さんに顔を寄せ、[r]
+細い肩を抱きしめた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1014|
 [fc]
 [vo_yuh s="yuho0344"]
-[ns]Yuuho[nse]
-"No, let go of me!!"[pcms]
+[ns]悠帆[nse]
+「いやっ、はなしてえっ！！」[pcms]
 
 *1015|
 [fc]
-Kanagi-san rejects me with a suppressed yet forceful voice[r]
-and turns her doll- like face away.[pcms]
+神凪さんは、抑えた声だけど力強い声で僕を拒絶し、[r]
+人形の様な顔を背ける。[pcms]
 
 *1016|
 [fc]
-In response to that action, rather than affection, a desire[r]
-to "conquer" wells up in me, and I forcefully turn her face[r]
-back towards me.[pcms]
+その行為に、それまでの好意よりむしろ『征服したい』という[r]
+感情がわき起こり、強引にその顔をこちらに引き戻した。[pcms]
 
 *1017|
 [fc]
-The moment Kanagi-san's large eyes come into view before[r]
-me--[pcms]
+僕の目の前に、神凪さんの大きな瞳が飛び込んだ瞬間――[pcms]
 
 ;//〆：レッドフラッシュ
 [赤フラ]
@@ -502,16 +507,17 @@ me--[pcms]
 
 *1018|
 [fc]
-[ns]Oshimi[nse]
-"Ugh ahhhh!"[pcms]
+[ns]大嶋[nse]
+「うっあぁぁぁっ！」[pcms]
 
 *1019|
 [fc]
-What's this!? My lips...?[pcms]
+な、何だ！？[r]
+唇が……？[pcms]
 
 *1020|
 [fc]
-Kanagi-san bit my mouth!?[pcms]
+神凪さんが、僕の口を……噛んだ！？[pcms]
 
 [bg storage="BG09c"]
 [ChrSetEx layer=5 chbase="yuho_m8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -520,100 +526,101 @@ Kanagi-san bit my mouth!?[pcms]
 *1021|
 [fc]
 [vo_yuh s="yuho0345"]
-[ns]Yuuho[nse]
-"How could you do this!!"[pcms]
+[ns]悠帆[nse]
+「なんてことするんですかぁっ！！！」[pcms]
 
 *1022|
 [fc]
-The taste of iron spreads through my mouth. A hot liquid[r]
-trickles down the side of my mouth.[pcms]
+口の中に鉄の味が広がっていく。[r]
+口の横を、熱い液体が伝っていく。[pcms]
 
 *1023|
 [fc]
-Yes, just before the kiss... Kanagi-san bit down hard on my[r]
-lips.[pcms]
+そう、神凪さんは、キスする寸前……[r]
+僕の唇に力一杯噛みついたんだ。[pcms]
 
 *1024|
 [fc]
-Kanagi-san glares at me with eyes like a carnivore stalking[r]
-its prey, while I instinctively cover my mouth and stand[r]
-frozen on the spot.[pcms]
+まるで肉食獣が獲物を狙うかのような目で僕を睨む神凪さんと、[r]
+思わず口元に手を当てて、その場に立ち尽くす、僕。[pcms]
 
 *1025|
 [fc]
-The two of us, illuminated by the orange light, stand facing[r]
-each other as if before a battle, contrary to the distant[r]
-sounds of festive music and cheers.[pcms]
+橙色の光に照らされた僕たち二人は、[r]
+遠くから聞こえる楽しげな囃子や歓声とは裏腹に、[r]
+まるで戦いの直前の様に対峙している。[pcms]
 
 *1026|
 [fc]
-Dumbfounded by the turn of events, I can only stand there[r]
-staring at Kanagi-san, the hot liquid still running down the[r]
-side of my mouth.[pcms]
+あまりの事に呆然としている僕は、[r]
+口の横を伝わる熱い液体もそのままに、[r]
+神凪さんをただ見つめているしかなかった。[pcms]
 
 *1027|
 [fc]
-Suddenly coming to my senses and realizing I've done[r]
-something terrible, I try to mend the situation with my[r]
-bloodied mouth.[pcms]
+ふと我に返り、自分がとんでもない事をしてしまった、と[r]
+気が付いた僕は、この場を取り繕おうと、血のにじむ口を開いた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1028|
 [fc]
-[ns]Oshimi[nse]
-"No, I mean..."[pcms]
+[ns]大嶋[nse]
+「いや、僕はその……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1029|
 [fc]
 [vo_yuh s="yuho0346"]
-[ns]Yuuho[nse]
-"I can't believe you'd do something so forceful!"[pcms]
+[ns]悠帆[nse]
+「強引にこんなことするなんて、信じられない！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1030|
 [fc]
-[ns]Oshimi[nse]
-"It's just that... I really like Kanagi-san..."[pcms]
+[ns]大嶋[nse]
+「その……神凪さんのことが好きで……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1031|
 [fc]
 [vo_yuh s="yuho0347"]
-[ns]Yuuho[nse]
-"I won't date you! I hate you so much!! Wahhhhh!!"[pcms]
+[ns]悠帆[nse]
+「先輩とは付き合いません！[r]
+　先輩なんて、だ、だっいきらいです！！[r]
+　うあぁぁぁぁぁん！！！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1032|
 [fc]
-After glaring at me with tearful eyes, Kanagi-san turns on[r]
-her heel and runs off into the orange light.[pcms]
+涙に濡れた瞳で僕をきつく睨め付けたあと、[r]
+神凪さんは、踵を返して、橙色の光の中へと駆けて行く。[pcms]
 
 *1033|
 [fc]
-All I could do was watch her retreating figure.[pcms]
+その後ろ姿を、僕はただ見つめている事しかできなかった。[pcms]
 
 *1034|
 [fc]
-However, at the same time, the humiliation of being bitten[r]
-and the thought that "I've been rejected" bring a surge of[r]
-frustration...[pcms]
+しかし、同時に、口を噛まれた事と、[r]
+『この僕が振られた』[r]
+という屈辱から、悔しさがこみ上げて来て……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="oshima_a1"][ChrSetXY layer=5 x=135 y=0][trans_c cross time=150]
 
 *1035|
 [fc]
-[ns]Oshimi[nse]
-"...No way. I won't accept this outcome..."[pcms]
+[ns]大嶋[nse]
+「……そ、そんな。[r]
+　こんな予定、絶対に認めないぞ……」[pcms]
 
 *1036|
 [fc]
-Involuntarily, I let out a pathetic remark.[pcms]
+思わず、僕は情けない言葉を漏らしてしまっていた。[pcms]
 
 ;[zapend_random]
 [zapfade]

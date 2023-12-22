@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10110_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 
 ;//★_LASER正面
@@ -18,205 +18,197 @@
 
 *412|
 [fc]
-I tried climbing onto the handrail of the catwalk deck.[pcms]
+ボクは、キャットウォークにあるデッキの手すりにのぼってみた。[pcms]
 
 *413|
 [fc]
-There, a ladder for maintenance purposes was installed,[r]
-leading from the first floor to the seventh-floor rooftop.[pcms]
+そこには、１階から７階屋上までつづく、メンテナンス用の[r]
+ハシゴが設置されている。[pcms]
 
 *414|
 [fc]
-Using this, I should be able to climb up to the rooftop on[r]
-the seventh floor.[pcms]
+これを使えば、７階屋上までのぼることができるはずだ。[pcms]
 
 *415|
 [fc]
-No, not just the rooftop. It might be possible to go to any[r]
-floor.[pcms]
+いや、屋上だけじゃない。[r]
+どこの階にだって行くことができるかもしれない。[pcms]
 
 *416|
 [fc]
-But the ladder was covered with a fall prevention fence, and[r]
-I couldn't climb it from here.[pcms]
+でも、そのハシゴは滑落防止柵に覆われていて[r]
+ここからではのぼることができなかった。[pcms]
 
 *417|
 [fc]
-I would have to descend into the alley between buildings[r]
-first, and then climb up from there.[pcms]
+一度ビルの谷間に降りて、[r]
+そこからのぼり直す必要がある。[pcms]
 
 *418|
 [fc]
-The fall prevention fence had large gaps, and it seemed[r]
-possible to hook my hands and feet on it.[pcms]
+滑落防止柵は目が粗く、手や足を引っかけることができそうだ。[pcms]
 
 *419|
 [fc]
-From the second floor where I was, it seemed somehow[r]
-possible to descend to the alley where the bottom of the[r]
-ladder was.[pcms]
+今いる２階から、ハシゴの下端であるビルの谷間に[r]
+降りることはなんとかできそうだった。[pcms]
 
 *420|
 [fc]
-Still, it was a height that wouldn't be easy to walk away[r]
-from if I fell...[pcms]
+それでも、落ちたらただでは済まない高さだけれど……。[pcms]
 
 *421|
 [fc]
-If I'm lucky, I might get away with just a sprain, but in[r]
-the worst case, I could even consider a fracture.[pcms]
+捻挫くらいで済めばいいが、[r]
+最悪の場合骨折ということも考えられた。[pcms]
 
 *422|
 [fc]
-Above all, I felt fear at the prospect of descending along[r]
-the fall prevention fence in the dangerous situation with[r]
-building winds blowing down.[pcms]
+なにより、ビル風の吹き降ろす危ない状況で、[r]
+滑落防止柵を伝って降りていくという作業に恐怖を覚える。[pcms]
 
 *423|
 [fc]
-Of course, it's not a situation where I can afford to say[r]
-such things, but for me, who is not Superman, it was a[r]
-moment where my courage was tested.[pcms]
+もちろん、そんなことを言っていられる状況じゃないけれど、[r]
+スーパーマンではないボクにとっては、[r]
+勇気が試される場面だった。[pcms]
 
 *424|
 [fc]
-The strong wind buffeted me as I stood on top of the deck's[r]
-handrail.[pcms]
+デッキの手すりの上に立っているボクを、[r]
+強い風が煽ってくる。[pcms]
 
 *425|
 [fc]
-Below me were the alley between buildings and the road[r]
-underneath.[pcms]
+眼下には、ビルの谷間とその下にある一般道。[pcms]
 
 *426|
 [fc]
-There, infected people were swarming and writhing in groups.[pcms]
+そこには感染者がぞろぞろと群れを成して蠢いている。[pcms]
 
 *427|
 [fc]
-If I continued up to the rooftop like this, my fear would[r]
-surely increase even more.[pcms]
+このまま屋上まであがっていけば、[r]
+ますます恐怖が募るに違いなかった。[pcms]
 
 *428|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *429|
 [fc]
-I made up my mind and reached out from the deck to grab onto[r]
-the fall prevention fence.[pcms]
+ボクは覚悟を決めると、デッキの上から手を伸ばして[r]
+滑落防止柵に手をかける。[pcms]
 
 *430|
 [fc]
-It's okay. If I descend slowly and carefully, there[r]
-shouldn't be a problem.[pcms]
+大丈夫。ゆっくり、慎重に降りていけば問題ない。[pcms]
 
 *431|
 [fc]
-I reassured myself and then hooked one foot onto the fence.[pcms]
+ボクは自分にそう言い聞かせると、[r]
+片足を柵に引っかけた。[pcms]
 
 *432|
 [fc]
-As expected of a safety device, it was sturdily made.[pcms]
+安全装置の役割をしているだけあって、[r]
+丈夫にできている。[pcms]
 
 *433|
 [fc]
-It didn't seem to wobble at all.[pcms]
+特にぐらつく様子はなかった。[pcms]
 
 *434|
 [fc]
-Feeling reassured and having made up my mind, that was[r]
-when...[pcms]
+手応えをを確かめつつ、そして覚悟を決めた時だった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *435|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「…………」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *436|
 [fc]
 [vo_miz s="mizuki_BE0001"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 *437|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *438|
 [fc]
-Kousuke and Mizuki stared at me with strangely curious faces[r]
-as if to say, "What in the world are you doing?"[pcms]
+なんとも不思議そうな顔でボクを見つめるコースケと瑞樹。[r]
+いったいなにをしてるんだ？　と言わんばかりの表情だ。[pcms]
 
 *439|
 [fc]
-Though my mind was thinking such things, all I could do was[r]
-look back at them with a foolish expression on my face.[pcms]
+などと頭は考えているものの、[r]
+ボクはバカみたいな顔で二人を見返すばかり。[pcms]
 
 *440|
 [fc]
-Perhaps my expression made them even more puzzled, as a[r]
-somewhat worried atmosphere began to drift around us.[pcms]
+そんなボクの表情がますます不思議に思ったのか、[r]
+心なしか心配げな空気まで漂い始めていた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *441|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「…………」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f1"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *442|
 [fc]
 [vo_miz s="mizuki_BE0002"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 *443|
 [fc]
-[ns]Wataru[nse]
-"...How long have you been there?"[pcms]
+[ns]航[nse]
+「……いつからそこにいたの？」[pcms]
 
 *444|
 [fc]
-Without organizing my confused thoughts, I forced myself to[r]
-accept the situation and then threw a straightforward[r]
-question at them.[pcms]
+混乱する頭を整理せず、無理やり納得させてから[r]
+ボクは端的な問いをぶつけてみた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *445|
 [fc]
-[ns]Kousuke[nse]
-"Well, I was wondering what you were doing."[pcms]
+[ns]浩助[nse]
+「いや、なにしてるのかなと思って」[pcms]
 
 *446|
 [fc]
-A perfectly reasonable response came back. Indeed, from an[r]
-outsider's perspective, that might be so...[pcms]
+しごく真っ当な返答が戻ってくる。[r]
+確かに傍目に見れば、そうかもしれないけど……。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *447|
 [fc]
 [vo_miz s="mizuki_BE0003"]
-[ns]Mizuki[nse]
-"It's dangerous to be in such a place, Wataru."[pcms]
+[ns]瑞樹[nse]
+「そんなところにいると危ないよ、ワタル」[pcms]
 
 ;//<ChrInit><UpDate Cross,100>
 
 *448|
 [fc]
-Feeling suddenly embarrassed about all the resolve I had[r]
-mustered, I got down from the deck's handrail and stood in[r]
-front of them.[pcms]
+色々と覚悟を決めていた自分が急に恥ずかしくなったボクは、[r]
+デッキの手すりから降りて、ふたりの前に立った。[pcms]
 
 ;//@konya ビルの谷間
 ;//<ChrInit>
@@ -225,180 +217,180 @@ front of them.[pcms]
 
 *449|
 [fc]
-[ns]Wataru[nse]
-"What's up, you're safe then?"[pcms]
+[ns]航[nse]
+「なんだよ、無事だったのかよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *450|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, like those guys could take me down?"[pcms]
+[ns]浩助[nse]
+「ああ、オレがあんな奴らにやられるわけねーだろ？」[pcms]
 
 *451|
 [fc]
-Even in such times, Kousuke was still Kousuke as always.[pcms]
+こんなときでも、コースケはいつものコースケだった。[pcms]
 
 *452|
 [fc]
-Suddenly, something warm surged up to my eyes.[pcms]
+不意に目頭を熱いものが襲う。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *453|
 [fc]
 [vo_miz s="mizuki_BE0004"]
-[ns]Mizuki[nse]
-"Come on, there's no need to cry."[pcms]
+[ns]瑞樹[nse]
+「もう、泣くことないじゃない」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *454|
 [fc]
-[ns]Kousuke[nse]
-"Seriously, what an embarrassing guy."[pcms]
+[ns]浩助[nse]
+「まったく、恥ずかしい奴だぜ」[pcms]
 
 *455|
 [fc]
-The two of them said that while also seeming relieved that I[r]
-was safe.[pcms]
+ふたりはそう言いながらも、[r]
+ボクが無事で安心しているみたいだった。[pcms]
 
 *456|
 [fc]
-[ns]Wataru[nse]
-"Do you know how the others are doing?"[pcms]
+[ns]航[nse]
+「他のみんなはどうしてるのかわかる？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *457|
 [fc]
-[ns]Kousuke[nse]
-"No clue. We were playing at the arcade, but then those guys[r]
-suddenly showed up so we ran away."[pcms]
+[ns]浩助[nse]
+「いや、わからん。オレたちゲーセンで遊んでたんだけど、[r]
+　急にあいつらがきやがったから逃げてきたんだ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *458|
 [fc]
 [vo_miz s="mizuki_BE0005"]
-[ns]Mizuki[nse]
-"We came out here after climbing up the spiral staircase."[pcms]
+[ns]瑞樹[nse]
+「螺旋階段をのぼってから、ここにでてきたんだよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *459|
 [fc]
-[ns]Kousuke[nse]
-"And then we found you here with that gloomy face."[pcms]
+[ns]浩助[nse]
+「そうしたら、しけた[ruby text="ツラ"][ch text="顔"]したお前がいたって寸法さ」[pcms]
 
 *460|
 [fc]
-[ns]Wataru[nse]
-"I see... Probably everyone else is either caught or hiding.[r]
-We need to go help them right away."[pcms]
+[ns]航[nse]
+「そうなんだ……多分、他のみんなは[r]
+　捕まるか隠れるかしていると思う。[r]
+　すぐに助けに行かなくちゃ」[pcms]
 
 *461|
 [fc]
-Kousuke looked at me with a complex expression and then[r]
-glanced over at Mizuki next to him.[pcms]
+コースケは複雑な顔でボクを見ると、[r]
+隣の瑞樹に視線を送っていた。[pcms]
 
 *462|
 [fc]
-Mizuki also had a gloomy look on her face.[pcms]
+瑞樹も浮かない顔をしている。[pcms]
 
 *463|
 [fc]
-[ns]Wataru[nse]
-"If the three of us work together, we can surely manage[r]
-something. If we climb this ladder, we can go to any floor."[pcms]
+[ns]航[nse]
+「三人で力を合わせれば、きっとなんとかできるよ。[r]
+　このハシゴを登ればどこの階にだって行ける」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *464|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, well, that's true."[pcms]
+[ns]浩助[nse]
+「ああ、まーそうだな」[pcms]
 
 *465|
 [fc]
-Kousuke glanced at the ladder and seemed to have something[r]
-he wanted to say.[pcms]
+コースケはハシゴを一瞥すると、[r]
+なにか言いたげな表情を浮かべる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *466|
 [fc]
 [vo_miz s="mizuki_BE0006"]
-[ns]Mizuki[nse]
-"But, after climbing the ladder, what do we do then?"[pcms]
+[ns]瑞樹[nse]
+「でも、ハシゴをのぼってそれからどうするの？」[pcms]
 
 *467|
 [fc]
-Mizuki was voicing what Kousuke was thinking.[pcms]
+コースケの心中を瑞樹が代弁していた。[pcms]
 
 *468|
 [fc]
-[ns]Wataru[nse]
-"That is..."[pcms]
+[ns]航[nse]
+「そ、それは……」[pcms]
 
 *469|
 [fc]
-If we encounter those men, it might turn into a shootout.[pcms]
+男たちと出会ったら銃撃戦になるかもしれない。[pcms]
 
 *470|
 [fc]
-While trying to avoid that, if there are any captured[r]
-comrades, we have no choice but to search for and rescue[r]
-them...[pcms]
+そうならないようにしながら、捕まっている仲間がいれば[r]
+それを捜して助け出していくしか……。[pcms]
 
 *471|
 [fc]
-Kousuke seemed to understand what was in my heart this time.[pcms]
+今度はボクの心中をコースケが察してくれた。[pcms]
 
 *472|
 [fc]
-With his usual cheerful smile, he slapped my shoulder hard.[pcms]
+いつもの快活な笑顔で、ボクの肩をバシンと叩く。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *473|
 [fc]
-[ns]Kousuke[nse]
-"Alright, let's plan our strategy. It's dangerous to stay[r]
-here since we don't know when they'll find us. Let's have a[r]
-strategy meeting at 'Dedepou'."[pcms]
+[ns]浩助[nse]
+「よし、作戦を練ろう。[r]
+　ここだといつ奴らに見付かるかわからないから、[r]
+　「ででっぽう」で戦略会議だ」[pcms]
 
 *474|
 [fc]
-[ns]Wataru[nse]
-"...Right...that's a good idea..."[pcms]
+[ns]航[nse]
+「……そうか……それがいいか……」[pcms]
 
 *475|
 [fc]
-With no plan as of now, it might be difficult to save[r]
-everyone.[pcms]
+今の無策なままじゃ、みんなを助けることは難しいかもしれない。[pcms]
 
 *476|
 [fc]
-Thinking of the captured comrades, we can't afford to take[r]
-our time, but if we get caught too, it's all over.[pcms]
+捕まっている仲間のことを考えると、[r]
+悠長なことはしていられないけれど、[r]
+僕たちまで捕まったらそれでおしまいだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *477|
 [fc]
 [vo_miz s="mizuki_BE0007"]
-[ns]Mizuki[nse]
-"Then let's head to 'Dedepou'."[pcms]
+[ns]瑞樹[nse]
+「じゃあ、「ででっぽう」に行こう」[pcms]
 
 *478|
 [fc]
-[ns]Wataru[nse]
-"Yeah, it's a temporary retreat."[pcms]
+[ns]航[nse]
+「うん、一時撤退だ」[pcms]
 
 *479|
 [fc]
-Please be safe until we return, everyone.[pcms]
+すぐに戻ってくるから無事でいてくれよ、みんな。[pcms]
 
 ;//★_クロミ
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -422,502 +414,509 @@ Please be safe until we return, everyone.[pcms]
 
 *480|
 [fc]
-[ns]Kousuke[nse]
-"So, what does Wataru want to do?"[pcms]
+[ns]浩助[nse]
+「さて、ワタルはどうしたいんだ？」[pcms]
 
 *481|
 [fc]
-Back at Dedepou, we started discussing with our heads[r]
-together.[pcms]
+ででっぽうに戻ったボクたちは、顔をつきあわせながら[r]
+相談を始めていた。[pcms]
 
 *482|
 [fc]
-What I want is obvious; I want to save everyone.[pcms]
+どうしたいもなにも、みんなを助けたいに決まっている。[pcms]
 
 *483|
 [fc]
-We came back to Dedepou to discuss how to do that.[pcms]
+そのための方法を話し合うために、「ででっぽう」に[r]
+戻って来たんだから。[pcms]
 
 *484|
 [fc]
-[ns]Wataru[nse]
-"Kousuke has been acting like this doesn't concern him...[r]
-It's just my imagination, right?"[pcms]
+[ns]航[nse]
+「さっきからコースケは他人事みたいにしてるんだけど……[r]
+　気のせいだよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *485|
 [fc]
 [vo_miz s="mizuki_BE0008"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *486|
 [fc]
-[ns]Kousuke[nse]
-"You're sharper than usual, Wataru. ...Alright, I'll be[r]
-clear. Going to save everyone in this situation is like a[r]
-suicide mission."[pcms]
+[ns]浩助[nse]
+「ワタルにしちゃ鋭いじゃねえか。[r]
+　……んじゃ、はっきり言うけどよ、[r]
+　こんな状況でみんなを助けに行くなんて自殺行為だな」[pcms]
 
 *487|
 [fc]
-[ns]Wataru[nse]
-"That might be true, but is it okay for everyone else to[r]
-just suffer?!"[pcms]
+[ns]航[nse]
+「そうかもしれないけど、[r]
+　みんながどうなってもいいのかよ！」[pcms]
 
 *488|
 [fc]
-Kousuke shrugged his shoulders skillfully.[pcms]
+コースケが器用に肩をすくめてみせる。[pcms]
 
 *489|
 [fc]
-That gesture slightly irritated me.[pcms]
+そんな仕草が、少しボクの癇に触った。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *490|
 [fc]
-[ns]Kousuke[nse]
-"Of course, I'd want to help if I could. But do you know how[r]
-many of them there are? We can't possibly stand a chance."[pcms]
+[ns]浩助[nse]
+「そりゃ、オレだって助けられるものなら助けたいさ。[r]
+　でも、相手の数を知ってるのか？[r]
+　とても太刀打ちできないぜ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *491|
 [fc]
 [vo_miz s="mizuki_BE0009"]
-[ns]Mizuki[nse]
-"Wataru might not know, but those guys are professionals at[r]
-rough stuff. They're not someone we can handle."[pcms]
+[ns]瑞樹[nse]
+「ワタルは知らないかもしれないけど、[r]
+　あいつらは荒事のプロなんだよ？[r]
+　あたしたちにどうにかできる相手じゃないよ」[pcms]
 
 *492|
 [fc]
-Mizuki was by their side before Shibuya became like this.[pcms]
+瑞樹は渋谷がこんな風になる前、あいつらのそばにいた。[pcms]
 
 *493|
 [fc]
-So she must know well how terrifying they are.[pcms]
+だから、その恐ろしさもよく知っているんだろう。[pcms]
 
 *494|
 [fc]
-But the more I thought about it, the more I felt an urge to[r]
-save everyone as soon as possible.[pcms]
+でも、そう思えば思うほど、[r]
+一秒でも早くみんなを助けなきゃいけない衝動に襲われた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *495|
 [fc]
-[ns]Kousuke[nse]
-"With things as they are now, rescuing them will be[r]
-difficult."[pcms]
+[ns]浩助[nse]
+「こうなったら、助けるのは難しいぜ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *496|
 [fc]
 [vo_miz s="mizuki_BE0010"]
-[ns]Mizuki[nse]
-"It's good that at least we managed to escape. Maybe it's[r]
-better if we just run away... I think everyone would be[r]
-happy with that too..."[pcms]
+[ns]瑞樹[nse]
+「あたしたちだけでも助かったのは良かったよ。[r]
+　このまま逃げちゃった方が、みんなも喜ぶと思うし……」[pcms]
 
 *497|
 [fc]
-[ns]Wataru[nse]
-"I want to save everyone..."[pcms]
+[ns]航[nse]
+「ボクはみんなを助けたいんだ……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *498|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *499|
 [fc]
 [vo_miz s="mizuki_BE0011"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 *500|
 [fc]
-[ns]Wataru[nse]
-"But I can't do it alone. Please lend me your strength."[pcms]
+[ns]航[nse]
+「でも、ボクひとりじゃできそうもない。[r]
+　ふたりの力を貸してくれ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *501|
 [fc]
-[ns]Kousuke[nse]
-"Hmmmm..."[pcms]
+[ns]浩助[nse]
+「うううん……」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *502|
 [fc]
-Kousuke groaned and then fell silent.[pcms]
+コースケはうなり声を上げると、[r]
+黙り込んでしまった。[pcms]
 
 *503|
 [fc]
-Mizuki also seemed reluctant as she stared at the floor.[pcms]
+瑞樹も、あまり気乗りしない様子で[r]
+床を見つめている。[pcms]
 
 *504|
 [fc]
-It's not unreasonable... I thought so too.[pcms]
+無理もないよな……ボクはそうも思う。[pcms]
 
 *505|
 [fc]
-This would literally be a life-threatening action.[pcms]
+文字通り、命を懸けた行動になるに違いない。[pcms]
 
 *506|
 [fc]
-I started feeling bad about dragging the two of them into[r]
-this.[pcms]
+そんなことにふたりを付き合わせてしまうのは、[r]
+なんだか悪い気がしてきていた。[pcms]
 
 *507|
 [fc]
-[ns]Wataru[nse]
-"Sorry. It's probably too difficult after all."[pcms]
+[ns]航[nse]
+「ごめん。やっぱり難しいよな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *508|
 [fc]
-[ns]Kousuke[nse]
-"Wataru..."[pcms]
+[ns]浩助[nse]
+「ワタル……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *509|
 [fc]
 [vo_miz s="mizuki_BE0012"]
-[ns]Mizuki[nse]
-"Besides, there's the future to think about too, right?[r]
-After escaping from LASER, how are we going to live... We[r]
-can't just worry about others all the time."[pcms]
+[ns]瑞樹[nse]
+「それに、これから先のこともあるでしょ？[r]
+　ＬＡＳＥＲをでちゃって、どうやって生きていくのか･･･…[r]
+　あたしたちだって、人の心配ばかりしていられないよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *510|
 [fc]
-[ns]Kousuke[nse]
-"Like Mizuki said, everyone else probably doesn't want to[r]
-trouble Wataru either."[pcms]
+[ns]浩助[nse]
+「瑞樹も言ってたけど、みんなだってワタルに迷惑を[r]
+　かけたくないって思ってる」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *511|
 [fc]
-[ns]Kousuke[nse]
-"If you were caught by them, would you want Ren-chan to do[r]
-something reckless for you?"[pcms]
+[ns]浩助[nse]
+「もし、お前が連中に捕まったとして、[r]
+　漣ちゃんに無理して欲しいと思うか？」[pcms]
 
 *512|
 [fc]
-I wouldn't want Ren, who is physically weak, to overexert[r]
-herself.[pcms]
+身体の弱い漣に無理して欲しいなんて思わない。[pcms]
 
 *513|
 [fc]
-Even Yuuho and the seniors, who are much more physically[r]
-trained than me, I would want them to run away rather than[r]
-come to help.[pcms]
+ボクよりずっと身体を鍛えている悠帆や先輩にだって、[r]
+助けになんて来ないで逃げて欲しいと思うだろう。[pcms]
 
 *514|
 [fc]
-But...[pcms]
+でも……。[pcms]
 
 *515|
 [fc]
-It's not just a matter of logic.[pcms]
+そんな理屈の話じゃないんだ。[pcms]
 
 *516|
 [fc]
-[ns]Wataru[nse]
-"Thank you, Kousuke, Mizuki... for worrying about me."[pcms]
+[ns]航[nse]
+「ありがとう、コースケ、瑞樹……[r]
+　ボクのことを心配してくれて」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *517|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *518|
 [fc]
 [vo_miz s="mizuki_BE0013"]
-[ns]Mizuki[nse]
-"Yeah..."[pcms]
+[ns]瑞樹[nse]
+「うん……」[pcms]
 
 *519|
 [fc]
-I probably wasn't able to balance my words and expressions[r]
-right now.[pcms]
+多分今のボクは、言葉と表情のバランスが[r]
+取れていないんだと思う。[pcms]
 
 *520|
 [fc]
-The faces of Kousuke and Mizuki seemed to say that.[pcms]
+コースケと瑞樹の顔が、そう言っていた。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *521|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry for dragging you two into this. Let's make sure[r]
-we survive and meet again somewhere."[pcms]
+[ns]航[nse]
+「ふたりを巻き込んで悪かった。[r]
+　絶対生き残って、またどこかで会おうな」[pcms]
 
 *522|
 [fc]
-No matter what anyone says, I'm prepared to go save[r]
-everyone.[pcms]
+ボクは誰になんと言われても、[r]
+みんなを助けに行く覚悟ができていた。[pcms]
 
 *523|
 [fc]
-I want Kousuke and Mizuki to somehow survive this as well.[pcms]
+コースケと瑞樹にも、この先なんとかして[r]
+生き延びて欲しいと思う。[pcms]
 
 *524|
 [fc]
-I couldn't stand in the way of that here.[pcms]
+ボクがここでその邪魔をするわけにはいかなかった。[pcms]
 
 *525|
 [fc]
-I would have liked for all of us to work together and live,[r]
-but that's just my selfishness.[pcms]
+できれば、みんな一緒に力を合わせて[r]
+生きていきたかったけど、それはボクの我が儘だ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *526|
 [fc]
-[ns]Kousuke[nse]
-"Ah! Enough already!"[pcms]
+[ns]浩助[nse]
+「あーっ！　もうっ！」[pcms]
 
 *527|
 [fc]
-Kousuke suddenly started scratching his head frantically,[r]
-letting out a scream- like voice.[pcms]
+コースケは突然、頭をボリボリと掻きむしりながら、[r]
+悲鳴のような声をあげた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *528|
 [fc]
-[ns]Kousuke[nse]
-"I'm telling you it's impossible! If they get their hands on[r]
-you, you'll be torn apart in 5 seconds!"[pcms]
+[ns]浩助[nse]
+「無理なんだって言ってるだろうが！[r]
+　お前なんかあいつらの手にかかったら[r]
+　５秒でバラバラにされちまうよ！」[pcms]
 
 *529|
 [fc]
-[ns]Wataru[nse]
-"The truth is... I'm scared."[pcms]
+[ns]航[nse]
+「本当は……恐いよ」[pcms]
 
 *530|
 [fc]
-[ns]Wataru[nse]
-"But I can't just abandon everyone and leave."[pcms]
+[ns]航[nse]
+「でも、みんなを見捨てていくなんて、ボクにはできない」[pcms]
 
 *531|
 [fc]
-My mind hasn't changed.[pcms]
+ボクの考えは変わらなかった。[pcms]
 
 *532|
 [fc]
-I can't give in here.[pcms]
+ここを譲るわけにはいかない。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *533|
 [fc]
 [vo_miz s="mizuki_BE0014"]
-[ns]Mizuki[nse]
-"Wataru, are you just trying to look cool?"[pcms]
+[ns]瑞樹[nse]
+「ワタルは、格好付けているの？」[pcms]
 
 *534|
 [fc]
-[ns]Wataru[nse]
-"Yeah... maybe, but I don't intend to just sit back and take[r]
-it either."[pcms]
+[ns]航[nse]
+「うん……そうかもしれないけど、[r]
+　ボクだって、ただ黙ってやられるつもりはないんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f2"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *535|
 [fc]
 [vo_miz s="mizuki_BE0015"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *536|
 [fc]
-[ns]Kousuke[nse]
-"Hey, Mizuki..."[pcms]
+[ns]浩助[nse]
+「おい、瑞樹……」[pcms]
 
 *537|
 [fc]
-Mizuki seemed to be deep in thought for a moment.[pcms]
+瑞樹はちょっとなにかを考え込むようにしていた。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *538|
 [fc]
 [vo_miz s="mizuki_BE0016"]
-[ns]Mizuki[nse]
-"We've been childhood friends for so long, haven't we?"[pcms]
+[ns]瑞樹[nse]
+「あたしたち、ずっと昔から幼なじみだったよね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *539|
 [fc]
-[ns]Kousuke[nse]
-"That's true, but that's not the issue here."[pcms]
+[ns]浩助[nse]
+「そうだけど、そういう問題じゃねえって」[pcms]
 
 *540|
 [fc]
-Kousuke made a disgusted face as if he had sensed something[r]
-from Mizuki.[pcms]
+瑞樹から何かを感じ取ったのか、[r]
+コースケが嫌そうな顔をする。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *541|
 [fc]
 [vo_miz s="mizuki_BE0017"]
-[ns]Mizuki[nse]
-"And yet, I never knew Wataru could say something so cool."[pcms]
+[ns]瑞樹[nse]
+「なのに、ワタルがこんなに格好いいこと言うなんて、[r]
+　初めて知った気がする」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *542|
 [fc]
-[ns]Kousuke[nse]
-"Wataru isn't normal right now. Don't start saying weird[r]
-things too, Mizuki."[pcms]
+[ns]浩助[nse]
+「ワタルは今、普通じゃないんだよ。[r]
+　瑞樹まで変なこと言い出さないでくれ」[pcms]
 
 *543|
 [fc]
-After a moment of thought, Mizuki turned a pleading gaze[r]
-towards Kousuke.[pcms]
+瑞樹はちょっと考え込むと、[r]
+コースケに懇願するような視線を向けていた。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *544|
 [fc]
 [vo_miz s="mizuki_BE0018"]
-[ns]Mizuki[nse]
-"Isn't there a way to save everyone without pushing[r]
-ourselves too hard?"[pcms]
+[ns]瑞樹[nse]
+「なにか……無理をしないで、[r]
+　みんなを助けられる方法ってないのかな」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *545|
 [fc]
-[ns]Kousuke[nse]
-"That's exactly the kind of impulsive thinking that's a bad[r]
-habit of yours, Mizuki!"[pcms]
+[ns]浩助[nse]
+「そうやってすぐ気分に任せるのが瑞樹の悪い癖だよ！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *546|
 [fc]
 [vo_miz s="mizuki_BE0019"]
-[ns]Mizuki[nse]
-"If we fail, we should just come up with a plan that allows[r]
-us to escape quickly."[pcms]
+[ns]瑞樹[nse]
+「失敗したら、すぐ逃げられるような作戦を[r]
+　立てればいいじゃない」[pcms]
 
 *547|
 [fc]
-[ns]Wataru[nse]
-"Mizuki..."[pcms]
+[ns]航[nse]
+「瑞樹……」[pcms]
 
 *548|
 [fc]
-It seemed like Mizuki was agreeing with my thoughts.[pcms]
+瑞樹も、ボクの考えに賛成してくれているみたいだった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *549|
 [fc]
-[ns]Kousuke[nse]
-"Where do you think you can find such a perfect plan?"[pcms]
+[ns]浩助[nse]
+「そんなうまい話がどこにあるって言うんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *550|
 [fc]
 [vo_miz s="mizuki_BE0020"]
-[ns]Mizuki[nse]
-"Kousuke, deep down you want to help Wataru too, right?"[pcms]
+[ns]瑞樹[nse]
+「コースケだって、本当はワタルを助けてあげたいんでしょ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *551|
 [fc]
-[ns]Kousuke[nse]
-"That's why I'm saying it's impossible. If you're worried[r]
-about Wataru, you shouldn't let him go to LASER."[pcms]
+[ns]浩助[nse]
+「だから無理なんだって。[r]
+　ワタルが心配なら、ＬＡＳＥＲに行かせちゃ駄目だろうが」[pcms]
 
 *552|
 [fc]
-Without trying to hide his inner frustration, Kousuke[r]
-pressed Mizuki with a raised tone.[pcms]
+内心のいらだちを隠そうともしないで、[r]
+コースケは語気を強めて瑞樹に詰め寄った。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *553|
 [fc]
 [vo_miz s="mizuki_BE0021"]
-[ns]Mizuki[nse]
-"Please, Kousuke, I'm sure you can do it."[pcms]
+[ns]瑞樹[nse]
+「お願い、コースケならきっとできるよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *554|
 [fc]
-[ns]Kousuke[nse]
-"..."[pcms]
+[ns]浩助[nse]
+「…………」[pcms]
 
 *555|
 [fc]
-But Mizuki was completely unfazed.[pcms]
+でも、瑞樹は全く動じない。[pcms]
 
 *556|
 [fc]
-Instead, it was Kousuke who fell silent under Mizuki's[r]
-steady gaze.[pcms]
+逆に、瑞樹にじっと見つめられていたコースケの方が[r]
+黙り込んでしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *557|
 [fc]
 [vo_miz s="mizuki_BE0022"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 *558|
 [fc]
-Mizuki also watched silently, as if she believed in Kousuke.[pcms]
+瑞樹もそんなコースケを信じるみたいに、[r]
+無言のままその様子を見つめている。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *559|
 [fc]
-[ns]Kousuke[nse]
-"Sigh..."[pcms]
+[ns]浩助[nse]
+「はぁ……」[pcms]
 
 *560|
 [fc]
-After some time had passed, Kousuke muttered softly.[pcms]
+それからどれくらい時間が経ったのか、[r]
+コースケがぽつりとつぶやいた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *561|
 [fc]
-[ns]Kousuke[nse]
-"There's one way..."[pcms]
+[ns]浩助[nse]
+「ひとつだけ……方法がある」[pcms]
 
 ;//★_クロミ
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -931,60 +930,61 @@ After some time had passed, Kousuke muttered softly.[pcms]
 
 *562|
 [fc]
-It was just before dawn.[pcms]
+夜が明けるちょっと前の時間。[pcms]
 
 *563|
 [fc]
-We began our actions at this time, as if to ambush the men[r]
-in their sleep.[pcms]
+ボクらは男たちの寝込みを襲うように、[r]
+この時間を狙って行動を開始していた。[pcms]
 
 *564|
 [fc]
-I don't know if this time is suitable for a surprise attack[r]
-for modern people accustomed to staying up late.[pcms]
+夜更かしに慣れた現代人にとって、この時間が[r]
+奇襲に適しているのかどうかはわからない。[pcms]
 
 *565|
 [fc]
-But we had to take what seemed to be the best course of[r]
-action to get the cooperation of the two.[pcms]
+でも、ふたりに協力してもらうには[r]
+最善と思われる行動を取るしかなかった。[pcms]
 
 *566|
 [fc]
-I really wanted to go help right away, but the premise of[r]
-the strategy was to make sure we didn't get caught...[pcms]
+本当はすぐにでも助けに行きたかったんだけど、[r]
+ボクらが捕まらないようにすることが[r]
+作戦の前提になってしまったから……。[pcms]
 
 *567|
 [fc]
-It's not that the two are heartless.[pcms]
+ふたりが薄情なんじゃない。[pcms]
 
 *568|
 [fc]
-They're just worried about me.[pcms]
+ボクのことを心配してくれているんだ。[pcms]
 
 *569|
 [fc]
-And I think my judgment is dulled because my mind is so[r]
-preoccupied with saving everyone.[pcms]
+そして、ボクはみんなを助けることで頭がいっぱいになって[r]
+判断力が鈍っているんだと思う。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *570|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, don't space out."[pcms]
+[ns]浩助[nse]
+「ワタル、ぼーっとしてんなよ」[pcms]
 ;//○（小声で）
 
 *571|
 [fc]
-[ns]Wataru[nse]
-"I-I'm okay."[pcms]
+[ns]航[nse]
+「だ、大丈夫だよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *572|
 [fc]
-[ns]Kousuke[nse]
-"Don't worry, it'll definitely go well."[pcms]
+[ns]浩助[nse]
+「心配すんなって、きっとうまく行くから」[pcms]
 ;//○（小声で）
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -992,8 +992,8 @@ preoccupied with saving everyone.[pcms]
 *573|
 [fc]
 [vo_miz s="mizuki_BE0023"]
-[ns]Mizuki[nse]
-"Both of you, hurry up."[pcms]
+[ns]瑞樹[nse]
+「ふたりとも、早くしなよ」[pcms]
 ;//○（小声で）
 
 [chara_int][trans_c cross time=150]
@@ -1003,44 +1003,41 @@ preoccupied with saving everyone.[pcms]
 
 *574|
 [fc]
-Once we left the 'depot', we had reached the catwalk on the[r]
-second floor.[pcms]
+ボクたちは「ででっぽう」をでると、[r]
+２階のキャットウォークにたどり着いていた。[pcms]
 
 *575|
 [fc]
-Shibuya before dawn didn't seem much different from before[r]
-all this happened.[pcms]
+夜が明ける前の渋谷は、こんなことになる前と[r]
+あまり変わらないように見える。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *576|
 [fc]
-[ns]Kousuke[nse]
-"Alright, the lock on the spiral staircase is open. This is[r]
-perfect."[pcms]
+[ns]浩助[nse]
+「よし、螺旋階段の鍵が開いているぞ。最高の状態だ」[pcms]
 ;//○（小声で）
 
 *577|
 [fc]
-Kousuke gestured to us with his finger.[pcms]
+コースケがボクたちに指を立ててみせる。[pcms]
 
 *578|
 [fc]
-If the spiral staircase connecting to the catwalk had been[r]
-locked, we planned to head towards the emergency exit on a[r]
-deserted floor, but it seemed we were in luck.[pcms]
+キャットウォークと連絡する螺旋階段が施錠されていたら、[r]
+人気のなさそうなフロアの非常口に向かう予定だったけど[r]
+ボクらはついているみたいだった。[pcms]
 
 *579|
 [fc]
-Since it was open when Kousuke and Mizuki used it yesterday,[r]
-I thought it would be fine, but there's always a chance of[r]
-something unexpected.[pcms]
+昨日、コースケと瑞樹が使ったときには空いていたんだから、[r]
+大丈夫だとは思っていたけれど、万が一ということもある。[pcms]
 
 *580|
 [fc]
-Heading towards the tower's spiral staircase that the two[r]
-had come through, we then descended to the basement first[r]
-floor.[pcms]
+ふたりが通ってきたという塔の螺旋階段に向かうと、[r]
+ボクたちはそのまま地下一階へと降りていった。[pcms]
 
 ;//★_１F内部の画像
 [bg storage="BG08g"][trans_c cross time=500]
@@ -1052,22 +1049,22 @@ floor.[pcms]
 
 *581|
 [fc]
-On the basement first floor is the arcade CONTINUE.[pcms]
+地下１階にはゲーセンのＣＯＮＴＩＮＵＥがある。[pcms]
 
 *582|
 [fc]
-If we were going to encounter the men, I thought it would be[r]
-here, and sure enough, there seemed to be a few playing.[pcms]
+男たちと出くわすとしたら、ここだと思っていたけれど[r]
+案の定何人かが遊んでいるみたいだった。[pcms]
 
 *583|
 [fc]
-They appeared to be engrossed in their games and hadn't[r]
-noticed us.[pcms]
+どうやらゲームに熱中しているみたいで、[r]
+ボクたちのことには気が付いていない。[pcms]
 
 *584|
 [fc]
-We quickly locked the door so as not to be found by the men[r]
-and moved to the first floor.[pcms]
+素早く扉を施錠すると、男たちに見付からないように[r]
+一階へ移動した。[pcms]
 
 ;//@konya LASER内部
 [bg storage="BG08g"][trans_c cross time=500]
@@ -1075,269 +1072,261 @@ and moved to the first floor.[pcms]
 
 *585|
 [fc]
-The spiral staircase that connects from the basement first[r]
-floor to the seventh floor, a symbolic installation of[r]
-LASER, can only be entered from the basement first floor and[r]
-seventh floor.[pcms]
+地下１階から７階までを繋ぐ、ＬＡＳＥＲの象徴的な[r]
+設置物である螺旋階段は、地下１階と７階からしか入れない。[pcms]
 
 *586|
 [fc]
-In other words, if we locked the door on the first-floor[r]
-section, the men wouldn't be able to use the spiral[r]
-staircase.[pcms]
+つまり、１階部分の扉を施錠してしまえば[r]
+男たちは螺旋階段を利用できなくなるはずだった。[pcms]
 
 *587|
 [fc]
-If we sealed off the spiral staircase that directly connects[r]
-inside LASER, all that was left was to lock each floor's[r]
-fire doors and emergency exits.[pcms]
+ＬＡＳＥＲ内を直通で繋ぐ螺旋階段を封じてしまえば、[r]
+後は各階の防火扉と非常口を施錠していくだけ。[pcms]
 
 *588|
 [fc]
-By doing this, we should be able to guide the men's actions[r]
-in various ways.[pcms]
+こうすることで、男たちの行動を[r]
+色々と誘導できるはずだった。[pcms]
 
 *589|
 [fc]
-This would make Kousuke's strategy much more effective.[pcms]
+これで、コースケの作戦が断然生きてくるようになる。[pcms]
 
 *590|
 [fc]
-The crux of Kousuke's strategy was to pit the infected[r]
-against the men.[pcms]
+そのコースケの作戦とは、ずばり男たちに感染者を[r]
+ぶつけるというアイディアだ。[pcms]
 
 *591|
 [fc]
-Certainly, it seemed far better than us dealing with them[r]
-ourselves.[pcms]
+確かに、ボクらが相手をするよりも[r]
+その方が断然良いと思える。[pcms]
 
 *592|
 [fc]
-It's such a simple idea, yet I hadn't thought of it.[pcms]
+すごく簡単なことなのに、ボクはそんなことも[r]
+思いつけなかった。[pcms]
 
 *593|
 [fc]
-In this tense situation, Kousuke's ability to think calmly[r]
-is truly amazing.[pcms]
+この緊張した状況で、物事を冷静に考えることができる[r]
+コースケはやっぱりすごい。[pcms]
 
 *594|
 [fc]
-I always thought he was an incredible guy, but now he's[r]
-proven himself to be the real deal.[pcms]
+普段からすごい奴だとは思っていたけれど、[r]
+こうなると本物だ。[pcms]
 
 *595|
 [fc]
-While the men are busy fighting with the infected, if we[r]
-close the door to the staircase, they won't be able to come[r]
-back up.[pcms]
+男たちが感染者と交戦しているうちに、階段の扉を[r]
+閉めてしまえば、上に戻ってこられない。[pcms]
 
 *596|
 [fc]
-We'll take that opportunity to rescue everyone and return to[r]
-'depot', then escape via the river.[pcms]
+その隙にみんなを助け出して「ででっぽう」に戻り、[r]
+川から脱出する。[pcms]
 
 *597|
 [fc]
-This plan is far superior to charging in without any[r]
-strategy.[pcms]
+無策で突っ込むよりも、よほど上等な作戦だと言えた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *598|
 [fc]
-[ns]Kousuke[nse]
-"Alright, next is the security room."[pcms]
+[ns]浩助[nse]
+「よし、次は警備室だ」[pcms]
 ;//○（小声で）
 
 *599|
 [fc]
-We moved to the first floor without being spotted by the men[r]
-and snuck into the security room from an unmanned hall in[r]
-the backyard.[pcms]
+男たちに見つからないように１階へ移ると、[r]
+無人のホールからバックヤードの警備室に潜り込んだ。[pcms]
 
 *600|
 [fc]
-The monitors in the security room showed the tragic state of[r]
-shutters destroyed by the men.[pcms]
+警備室のモニターが、男たちに壊されたシャッターの[r]
+無惨な姿を映しだしている。[pcms]
 
 *601|
 [fc]
-But fortunately, they seemed to still be fulfilling their[r]
-role in keeping out the infected from outside.[pcms]
+でも幸運なことに、なんとか外の感染者を防ぐ役割は[r]
+果たせているみたいだった。[pcms]
 
 *602|
 [fc]
-Maybe the men even went easy on them with that intention.[pcms]
+もしかしたら、男たちもそのつもりで[r]
+手加減したのかも知れない。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *603|
 [fc]
-[ns]Kousuke[nse]
-"Here, Wataru, this one's for you."[pcms]
+[ns]浩助[nse]
+「ほら、ワタルの分だ」[pcms]
 
 *604|
 [fc]
-Kousuke tossed me an intercom they had used on the first[r]
-day.[pcms]
+コースケが、初日に使ったインカムをボクに放ってよこす。[pcms]
 
 *605|
 [fc]
-We each equipped an intercom and decided to split up here as[r]
-planned.[pcms]
+ボクたちはそれぞれインカムを装備すると、[r]
+作戦通りここでばらけることにした。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *606|
 [fc]
-[ns]Kousuke[nse]
-"Wataru, make sure you stick to the plan. Any reckless moves[r]
-could put everyone in danger."[pcms]
+[ns]浩助[nse]
+「ワタル、ちゃんと作戦通りにしろよ。[r]
+　変な暴走はみんなを危険にさらすんだからな」[pcms]
 
 *607|
 [fc]
-[ns]Wataru[nse]
-"I know. And Kousuke, don't go fighting recklessly just[r]
-because you want to use your gun."[pcms]
+[ns]航[nse]
+「わかってる。コースケこそ銃を使いたいからって[r]
+　無闇に戦ったりするなよ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *608|
 [fc]
-[ns]Kousuke[nse]
-"Not fighting is the key to this strategy. Let those guys[r]
-enjoy playing with the infected as much as they want."[pcms]
+[ns]浩助[nse]
+「戦わないのが、この作戦のキモだぜ。[r]
+　奴らにはせいぜい感染者と仲良く遊んでもらうさ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *609|
 [fc]
 [vo_miz s="mizuki_BE0024"]
-[ns]Mizuki[nse]
-"Okay okay, enough chit-chat. Both of you be careful,[r]
-alright?"[pcms]
+[ns]瑞樹[nse]
+「はいはい、無駄口はそこまで。[r]
+　ふたりとも気をつけてよ？」[pcms]
 
 *610|
 [fc]
-[ns]Wataru[nse]
-"Got it, Mizuki, you take care too."[pcms]
+[ns]航[nse]
+「わかった、瑞樹も気をつけて」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *611|
 [fc]
-[ns]Kousuke[nse]
-"If things get really dangerous, just surrender honestly.[r]
-Jin and even that fat guy won't kill Mizuki."[pcms]
+[ns]浩助[nse]
+「どうしても危なくなったら、素直に降参するんだぞ。[r]
+　壬やデブだって、瑞樹を殺したりはしないさ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_f5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *612|
 [fc]
 [vo_miz s="mizuki_BE0025"]
-[ns]Mizuki[nse]
-"Don't worry, I know a lot of the guys, and I can handle[r]
-myself well."[pcms]
+[ns]瑞樹[nse]
+「大丈夫、男たちにも顔見知りはたくさんいるし、[r]
+　あたしはうまくやるから」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *613|
 [fc]
-Kousuke still looked worried, but Mizuki pushed him out of[r]
-the security room as if to chase him away.[pcms]
+コースケはそれでも心配そうだったが、[r]
+瑞樹に押し出されるように警備室を追い立てられてしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *614|
 [fc]
-[ns]Kousuke[nse]
-"Alright, can you hear me, Mizuki?"[pcms]
+[ns]浩助[nse]
+「よし、聞こえるか瑞樹」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *615|
 [fc]
 [vo_miz s="mizuki_BE0026"]
-[ns]Mizuki[nse]
-"I can hear you."[pcms]
+[ns]瑞樹[nse]
+「聞こえてるよ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *616|
 [fc]
-[ns]Kousuke[nse]
-"I'm going to go up the emergency stairs on the hall side,[r]
-closing the fire doors and locking them from the stair side[r]
-as I go."[pcms]
+[ns]浩助[nse]
+「オレはこのままホール側非常階段を上にのぼりながら、[r]
+　防火扉を閉めて、階段側からロックしていく」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *617|
 [fc]
 [vo_miz s="mizuki_BE0027"]
-[ns]Mizuki[nse]
-"Yeah, that's the plan."[pcms]
+[ns]瑞樹[nse]
+「うん、計画通りだね」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 [chara_int][trans_c cross time=150]
 
 *618|
 [fc]
-[ns]Wataru[nse]
-"I'm supposed to go up the emergency stairs on the delivery[r]
-entrance side, right?"[pcms]
+[ns]航[nse]
+「ボクは搬入口側の非常階段をのぼるんだよね」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *619|
 [fc]
-[ns]Kousuke[nse]
-"That's right. We know the LASER building like the back of[r]
-our hand, probably better than those guys. We can definitely[r]
-outsmart them."[pcms]
+[ns]浩助[nse]
+「そうだ、勝手知ったるＬＡＳＥＲビルだぜ。[r]
+　奴らよりもオレたちの方が多分この建物のことをよく知ってる。[r]
+　絶対裏をかけるはずだ」[pcms]
 
 *620|
 [fc]
-[ns]Wataru[nse]
-"Then, take care."[pcms]
+[ns]航[nse]
+「じゃあ、気をつけて」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *621|
 [fc]
-[ns]Kousuke[nse]
-"You too, don't screw up."[pcms]
+[ns]浩助[nse]
+「お前こそしくじるなよ」[pcms]
 
 *622|
 [fc]
-[ns]Wataru[nse]
-"Mizuki, I'm counting on you."[pcms]
+[ns]航[nse]
+「瑞樹も頼むな」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *623|
 [fc]
 [vo_miz s="mizuki_BE0028"]
-[ns]Mizuki[nse]
-"Don't worry, I'll just be navigating you two with the[r]
-security cameras from here."[pcms]
+[ns]瑞樹[nse]
+「あたしはここから防犯カメラでふたりを[r]
+　ナビするだけだから安心して」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 [chara_int][trans_c cross time=150]
 
 *624|
 [fc]
-When I looked at Kousuke, he ran off toward the emergency[r]
-stairs on the hall side as if to say he's got this.[pcms]
+ボクがコースケに視線を向けると、[r]
+任せろと言わんばかりにホール側の非常階段へ走り出していった。[pcms]
 
 *625|
 [fc]
-Alright, I need to do my part properly too.[pcms]
+よし、ボクもしっかりやらないと。[pcms]
 
 *626|
 [fc]
-Wait for me, everyone.[pcms]
+待ってろよ、みんな。[pcms]
 
 ;//★_クロミ
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1348,87 +1337,85 @@ Wait for me, everyone.[pcms]
 
 *627|
 [fc]
-I went up the emergency stairs on the delivery entrance side[r]
-and checked out the surroundings.[pcms]
+ボクは搬入口側の非常階段をのぼると、[r]
+辺りの様子をうかがってみた。[pcms]
 
 *628|
 [fc]
-...It doesn't seem like there's anyone around.[pcms]
+……人の気配はなさそうだ。[pcms]
 
 *629|
 [fc]
-[ns]Wataru[nse]
-"Mizuki, is there anyone at the emergency exit on the second[r]
-floor?"[pcms]
+[ns]航[nse]
+「瑞樹、２階の非常口に誰かいる？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *630|
 [fc]
 [vo_miz s="mizuki_BE0029"]
-[ns]Mizuki[nse]
-"All clear, it looks like there's no one on either the[r]
-delivery entrance or hall side."[pcms]
+[ns]瑞樹[nse]
+「大丈夫、搬入口側にもホール側にも[r]
+　人はいないみたいだよ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *631|
 [fc]
-[ns]Wataru[nse]
-"Thanks."[pcms]
+[ns]航[nse]
+「ありがとう」[pcms]
 
 *632|
 [fc]
-Still being cautious, I closed the fire door on the second[r]
-floor and locked it from the stair side.[pcms]
+ボクはそれでも慎重に様子をうかがいながら、[r]
+２階の防火扉を閉めて階段側からロックした。[pcms]
 
 *633|
 [fc]
-I thought the men might notice, but it seems no one realized[r]
-that a door in a corner of the vast LASER building had[r]
-closed.[pcms]
+男たちに気が付かれるかとも思ったけれど、[r]
+広いＬＡＳＥＲビルの片隅にある扉が閉まったくらいじゃ[r]
+気が付く人間はいないみたいだ。[pcms]
 
 *634|
 [fc]
-[ns]Wataru[nse]
-"I've closed the fire door on the delivery entrance side."[pcms]
+[ns]航[nse]
+「搬入口側の防火扉を閉めたよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *635|
 [fc]
-[ns]Kousuke[nse]
-"Done here too, heading to the third floor now."[pcms]
+[ns]浩助[nse]
+「こっちも完了だ、３階へ行くぜ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *636|
 [fc]
-[ns]Wataru[nse]
-"Good."[pcms]
+[ns]航[nse]
+「よし」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *637|
 [fc]
-By closing the fire doors in the emergency stairs like this,[r]
-the men in the stores won't be able to enter the stairs.[pcms]
+こうやって非常階段の防火扉を閉めていけば、[r]
+店舗側にいる男たちは階段に入ってこられない。[pcms]
 
 *638|
 [fc]
-If we seal off both the spiral staircase and emergency[r]
-stairs, then we can control everything from there.[pcms]
+螺旋階段と非常階段を封鎖してしまえば、[r]
+後は思いのままだった。[pcms]
 
 *639|
 [fc]
-This way... we can save everyone.[pcms]
+これなら……みんなを助けられる。[pcms]
 
 *640|
 [fc]
-Our plan was progressing surprisingly smoothly.[pcms]
+ボクたちの計画は、驚くほどスムーズに進行していった。[pcms]
 
 *641|
 [fc]
-We locked the fire doors one after another on the third[r]
-floor, fourth floor, and so on.[pcms]
+３階、４階と次々に防火扉を施錠していく。[pcms]
 
 ;//@konya LESAR エレベータ
 [bg storage="BG120"][trans_c cross time=500]
@@ -1436,91 +1423,82 @@ floor, fourth floor, and so on.[pcms]
 
 *642|
 [fc]
-When I reached the top floor's emergency stairs on the[r]
-delivery entrance side, I waited there.[pcms]
+そして、最上階である７階の搬入口側非常階段まで[r]
+たどり着くと、ボクはそこで待機した。[pcms]
 
 *643|
 [fc]
-[ns]Wataru[nse]
-"I've reached the seventh floor; I'll stay put here for[r]
-now."[pcms]
+[ns]航[nse]
+「７階に着いたよ、ボクはこのまま待機だね」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *644|
 [fc]
-[ns]Kousuke[nse]
-"Be careful. I'm going to meet up with Mizuki."[pcms]
+[ns]浩助[nse]
+「気をつけろよ、オレは瑞樹と合流するぜ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *645|
 [fc]
-[ns]Wataru[nse]
-"Kousuke, you be careful too."[pcms]
+[ns]航[nse]
+「コースケこそ気をつけて」[pcms]
 
 *646|
 [fc]
-Kousuke will now return to the first floor and lock the fire[r]
-door on the backyard side.[pcms]
+コースケはこのまま１階に戻って、[r]
+バックヤード側の防火扉を施錠する。[pcms]
 
 *647|
 [fc]
-Inokashira street entrance and elevator entrance.[pcms]
+そのまま警備室で瑞樹と合流したら、ホールに出て[r]
+井の頭通り口とエレベーターエントランス口の２ヶ所を解放。[pcms]
 
 *648|
 [fc]
-The plan is to raise the shutters and sound an emergency[r]
-alarm.[pcms]
+シャッターを上げて非常用の警報を鳴らす段取りだ。[pcms]
 
 *649|
 [fc]
-This way, infected drawn by the noise will enter the hall,[r]
-and the men will notice something is wrong and start[r]
-fighting.[pcms]
+こうすれば、音に釣られた感染者がホールに入ってくるし、[r]
+男たちも異常に気が付いて交戦が始まるはず。[pcms]
 
 *650|
 [fc]
-Kousuke and Mizuki will ignore the incoming infected and[r]
-head back to lock the passage connecting the hall and[r]
-backyard from the security room.[pcms]
+コースケと瑞樹は、侵入してくる感染者を尻目に[r]
+警備室へ戻って、ホールとバックヤードを結ぶ通路を施錠する。[pcms]
 
 *651|
 [fc]
-Then they'll meet up with me using the emergency stairs on[r]
-the delivery entrance side that I came up, on the seventh[r]
-floor.[pcms]
+そして、ボクがのぼってきた搬入口側の非常階段を使い、[r]
+７階で合流。[pcms]
 
 *652|
 [fc]
-The men will probably be fighting back in the first-floor[r]
-hall or second-floor atrium, so during that distraction,[r]
-we'll enter from the seventh floor and lock the hall side[r]
-emergency stairs that Kousuke closed from the store side.[pcms]
+男たちは１階ホールや二階の吹き抜けで応戦するだろうから、[r]
+その隙に７階へ侵入して、コースケが閉めて回った[r]
+ホール側非常階段を店舗側から施錠。[pcms]
 
 *653|
 [fc]
-We'll make it so they can't come back through the emergency[r]
-stairs.[pcms]
+非常階段からは戻ってこられなくする。[pcms]
 
 *654|
 [fc]
-The spiral staircase on the seventh floor is already sealed[r]
-off, so we'll just return to 'Dedepou' and escape Shibuya[r]
-via the river.[pcms]
+７階にある螺旋階段はもう封鎖してあるから、[r]
+そのまま「ででっぽう」に戻り、川から渋谷を脱出。[pcms]
 
 *655|
 [fc]
-The elevator is still operational so we can't be completely[r]
-at ease, but we should have enough time to rescue everyone[r]
-and escape.[pcms]
+エレベーターが動いているから安心はできないけれど、[r]
+みんなを助けて逃げ出す時間くらいはあるはずだった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *656|
 [fc]
-[ns]Kousuke[nse]
-"I'm back on the first floor; now closing the backyard side[r]
-fire door."[pcms]
+[ns]浩助[nse]
+「１階に戻ったぞ、今バックヤード側の防火扉を閉める」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -1528,21 +1506,20 @@ fire door."[pcms]
 *657|
 [fc]
 [vo_miz s="mizuki_BE0030"]
-[ns]Mizuki[nse]
-"It's safe; no one's around."[pcms]
+[ns]瑞樹[nse]
+「大丈夫、周りに人はいないよ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *658|
 [fc]
-After this, Kousuke is supposed to meet up with Mizuki in[r]
-the security room.[pcms]
+この後、コースケは瑞樹と警備室で落ち合うはずだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *659|
 [fc]
-[ns]Kousuke[nse]
-"Whoa, Mizuki!"[pcms]
+[ns]浩助[nse]
+「うわっ、瑞樹」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -1550,31 +1527,31 @@ the security room.[pcms]
 *660|
 [fc]
 [vo_miz s="mizuki_BE0031"]
-[ns]Mizuki[nse]
-"I couldn't wait, so I came down. Let's head to the hall."[pcms]
+[ns]瑞樹[nse]
+「待ってられないから来ちゃった。ホールに行こう」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *661|
 [fc]
-[ns]Wataru[nse]
-"Be careful, okay?"[pcms]
+[ns]航[nse]
+「あの、慎重にね」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *662|
 [fc]
 [vo_miz s="mizuki_BE0032"]
-[ns]Mizuki[nse]
-"It's okay."[pcms]
+[ns]瑞樹[nse]
+「大丈夫だよ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *663|
 [fc]
-I'm somewhat relieved for now.[pcms]
+ボクはひとまず安心する。[pcms]
 
 *664|
 [fc]
-But... the real challenge starts here.[pcms]
+でも……本番はここからだ。[pcms]
 
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1616,38 +1593,38 @@ But... the real challenge starts here.[pcms]
 
 *665|
 [fc]
-I'm a little surprised at how well everything is going.[pcms]
+ちょっと驚いちゃうくらい、すごくうまく行ってる。[pcms]
 
 *666|
 [fc]
-If this continues, we might be able to save everyone just as[r]
-Wataru hoped.[pcms]
+これならワタルの望み通り、[r]
+みんなを助けられるかもしれない。[pcms]
 
 *667|
 [fc]
-I opened the fire door on the first floor hall side and[r]
-immediately headed towards the elevator entrance.[pcms]
+あたしは１階のホール側防火扉を開放して、[r]
+すぐにエレベーターエントランス前に向かった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *668|
 [fc]
-[ns]Kousuke[nse]
-"I've reached the entrance on the Inokashira street side,[r]
-now I'm going to open the shutter."[pcms]
+[ns]浩助[nse]
+「井の頭通り側の出入り口に着いたぞ、[r]
+　これからシャッターを開ける」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *669|
 [fc]
-[ns]Wataru[nse]
-"Be careful of the infected."[pcms]
+[ns]航[nse]
+「感染者に気をつけてね」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *670|
 [fc]
-[ns]Kousuke[nse]
-"They won't gather until the alarm goes off."[pcms]
+[ns]浩助[nse]
+「警報を鳴らすまで、奴らは集まってこないさ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -1655,15 +1632,15 @@ now I'm going to open the shutter."[pcms]
 *671|
 [fc]
 [vo_miz s="mizuki_BE0033"]
-[ns]Mizuki[nse]
-"You can't let your guard down."[pcms]
+[ns]瑞樹[nse]
+「油断しちゃ駄目だよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *672|
 [fc]
-[ns]Kousuke[nse]
-"It's dangerous, so don't push yourself too hard, Mizuki."[pcms]
+[ns]浩助[nse]
+「危険だからな、瑞樹も無理するなよ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -1671,8 +1648,8 @@ now I'm going to open the shutter."[pcms]
 *673|
 [fc]
 [vo_miz s="mizuki_BE0034"]
-[ns]Mizuki[nse]
-"I said I'm fine."[pcms]
+[ns]瑞樹[nse]
+「大丈夫だって」[pcms]
 
 ;//★_１F内部の画像
 [bg storage="BG08g"][trans_c cross time=500]
@@ -1680,33 +1657,32 @@ now I'm going to open the shutter."[pcms]
 
 *674|
 [fc]
-When I arrived in front of the elevator entrance, I saw the[r]
-battered shutter and the dark curtains that were torn off[r]
-here and there.[pcms]
+エレベーターエントランスの前に着くと、ボロボロになった[r]
+シャッターとあちこち剥がされている暗幕が目に入ってきた。[pcms]
 
 *675|
 [fc]
-They've been so rough...[pcms]
+こんなに乱暴にして……。[pcms]
 
 *676|
 [fc]
-I hurriedly tore off all the dark curtains and opened the[r]
-shutter.[pcms]
+あたしは急いで全部の暗幕を引きはがすと、[r]
+シャッターをオープンした。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *677|
 [fc]
 [vo_miz s="mizuki_BE0035"]
-[ns]Mizuki[nse]
-"I've opened the shutter on this side too."[pcms]
+[ns]瑞樹[nse]
+「こっちもシャッターを開けたよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *678|
 [fc]
-[ns]Kousuke[nse]
-"Alright, hurry back to the backyard."[pcms]
+[ns]浩助[nse]
+「よし、すぐにバックヤードへ戻ってくるんだ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -1714,53 +1690,54 @@ shutter.[pcms]
 *679|
 [fc]
 [vo_miz s="mizuki_BE0036"]
-[ns]Mizuki[nse]
-"Okay."[pcms]
+[ns]瑞樹[nse]
+「うん」[pcms]
 
 *680|
 [fc]
-If we dawdle, the infected will get in.[pcms]
+グズグズしてると感染者が入って来ちゃう。[pcms]
 
 *681|
 [fc]
-I said it was okay earlier, but I'm still scared.[pcms]
+さっきは大丈夫だって言ったけど、やっぱり恐いよ。[pcms]
 
 *682|
 [fc]
-I quickly retraced my steps and headed towards the backyard.[pcms]
+あたしは来た道を急いで引き返して、[r]
+バックヤードへ向かった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *683|
 [fc]
 [vo_miz s="mizuki_BE0037"]
-[ns]Mizuki[nse]
-"Haa, haa..."[pcms]
+[ns]瑞樹[nse]
+「ハァッ、ハァッ……」[pcms]
 
 *684|
 [fc]
-After running for just a few seconds, I could see Kousuke[r]
-standing at the entrance to the backyard.[pcms]
+ものの数秒も走ると、バックヤードの入り口に立っている[r]
+コースケの姿が見えた。[pcms]
 
 *685|
 [fc]
-He was waiting for me.[pcms]
+待っていてくれたんだ。[pcms]
 
 *686|
 [fc]
-You said it was dangerous yourself...[pcms]
+もう……危ないって、自分で言ってたのに。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *687|
 [fc]
 [vo_miz s="mizuki_BE0038"]
-[ns]Mizuki[nse]
-"Kousuke, are you okay?"[pcms]
+[ns]瑞樹[nse]
+「コースケ、大丈夫だった？」[pcms]
 
 *688|
 [fc]
-Kousuke's face suddenly twisted into a grimace.[pcms]
+コースケの顔が急に険しくゆがむ。[pcms]
 
 ;mm 
 [stopbgm]
@@ -1770,8 +1747,8 @@ Kousuke's face suddenly twisted into a grimace.[pcms]
 
 *689|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki! Behind you!"[pcms]
+[ns]浩助[nse]
+「瑞樹っ！　後ろっ！」[pcms]
 
 
 [chara_int][trans_c cross time=150]
@@ -1784,8 +1761,8 @@ Kousuke's face suddenly twisted into a grimace.[pcms]
 *690|
 [fc]
 [vo_miz s="mizuki_BE0039"]
-[ns]Mizuki[nse]
-"Kyaa!"[pcms]
+[ns]瑞樹[nse]
+「きゃあっ！」[pcms]
 
 ;//♯_レッドフラッシュ
 [赤フラ]
@@ -1795,19 +1772,19 @@ Kousuke's face suddenly twisted into a grimace.[pcms]
 
 *691|
 [fc]
-I was pushed by a man who burst out of the game center[r]
-entrance.[pcms]
+あたしは、ゲームセンター出入り口から飛び出してきた男に[r]
+突き飛ばされていた。[pcms]
 
 *692|
 [fc]
-Unable to brace myself, I tumbled to the floor with force.[pcms]
+受け身も取れないまま、勢いよく床に転がってしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *693|
 [fc]
-[ns]Kousuke[nse]
-"Get away from Mizuki!"[pcms]
+[ns]浩助[nse]
+「瑞樹から離れろ！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -1821,37 +1798,37 @@ Unable to brace myself, I tumbled to the floor with force.[pcms]
 
 *694|
 [fc]
-Kousuke's gun missed the man and instead put a hole in the[r]
-glass behind him.[pcms]
+コースケの銃は男に当たらないで、[r]
+後ろのガラスに穴を開けていた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *695|
 [fc]
 [vo_miz s="mizuki_BE0040"]
-[ns]Mizuki[nse]
-"Ah, no!"[pcms]
+[ns]瑞樹[nse]
+「あっ、ダメっ！」[pcms]
 
 *696|
 [fc]
-The man was aiming his gun at Kousuke to shoot him.[pcms]
+男が銃を構えてコースケを撃とうとしている。[pcms]
 
 *697|
 [fc]
-I desperately clung to the man's legs, putting all my[r]
-strength into my arms to disrupt his aim.[pcms]
+あたしは必死になって男の足にすがりつくと、[r]
+その射撃を邪魔するよう両腕に力を込めた。[pcms]
 
 *698|
 [fc]
-[ns]Wataru[nse]
-"What's happening? Both of you!"[pcms]
+[ns]航[nse]
+「どうしたの！　ふたりとも！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *699|
 [fc]
-[ns]Kousuke[nse]
-"Oraaaaaaaa!"[pcms]
+[ns]浩助[nse]
+「オラァァァァァァァッ！」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1928,298 +1905,300 @@ strength into my arms to disrupt his aim.[pcms]
 *700|
 [fc]
 [vo_miz s="mizuki_BE0041"]
-[ns]Mizuki[nse]
-"Kousuke!"[pcms]
+[ns]瑞樹[nse]
+「コースケーっ！」[pcms]
 
 *701|
 [fc]
-I was desperately clinging to the man.[pcms]
+あたしは必死で男にしがみついていた。[pcms]
 
 *702|
 [fc]
-The man tried to kick me off, and we ended up scuffling.[pcms]
+男はあたしを蹴り飛ばそうとして、[r]
+揉みくちゃになってしまう。[pcms]
 
 *703|
 [fc]
-Maybe I'll get shot.[pcms]
+もしかしたらあたしが撃たれるかもしれない。[pcms]
 
 *704|
 [fc]
-But if I let go, Kousuke will be killed.[pcms]
+でも、放っておいたらコースケが殺されちゃう。[pcms]
 
 *705|
 [fc]
-Kousuke, Kousuke, Kousuke...[pcms]
+コースケ、コースケ、コースケっ……。[pcms]
 
 *706|
 [fc]
-All I could think about was Kousuke as I clung to the man.[pcms]
+あたしはただコースケのことだけを考えて、[r]
+男にしがみついていた。[pcms]
 
 *707|
 [fc]
-I couldn't hear the gunshots or the sound of breaking glass[r]
-anymore.[pcms]
+もう、銃声もガラスの割れる音も聞こえない。[pcms]
 
 *708|
 [fc]
-All for Kousuke's sake, I kept clinging to the man's legs.[pcms]
+ただ、コースケのためになると思って[r]
+男の足にしがみついていた。[pcms]
 
 *709|
 [fc]
-[ns]Wataru[nse]
-"Kousuke! Kousuke!"[pcms]
+[ns]航[nse]
+「コースケ！　コースケ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *710|
 [fc]
-[ns]Kousuke[nse]
-"It's okay, it's over now. We were spotted by one guy but it[r]
-doesn't matter since we're about to sound the alarm anyway.[r]
-No problem."[pcms]
+[ns]浩助[nse]
+「大丈夫だよ、もう終わった。男ひとりに見付かったけど[r]
+　どうせこれから警報を鳴らすんだ。問題ないよ」[pcms]
 
 *711|
 [fc]
-Eh... Kousuke?[pcms]
+え……コースケ？[pcms]
 
 *712|
 [fc]
-[ns]Wataru[nse]
-"That's good... Is Mizuki safe too?"[pcms]
+[ns]航[nse]
+「そうか、よかったよ……瑞樹も無事？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *713|
 [fc]
 [vo_miz s="mizuki_BE0042"]
-[ns]Mizuki[nse]
-"Wataru...?"[pcms]
+[ns]瑞樹[nse]
+「ワタル……？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *714|
 [fc]
-[ns]Kousuke[nse]
-"She seems fine, Mizuki helped by getting in the man's way.[r]
-It saved us."[pcms]
+[ns]浩助[nse]
+「無事みたいだな、瑞樹が男の邪魔をしてくれて[r]
+　助かったよ」[pcms]
 
 *715|
 [fc]
-When I looked up, there was Kousuke with a smile.[pcms]
+あたしが顔を上げると、そこには笑顔のコースケがいた。[pcms]
 
 *716|
 [fc]
-Then, what about the man...?[pcms]
+じゃあ、男は……？[pcms]
 
 *717|
 [fc]
-I found myself staring intently at what I was clinging to.[pcms]
+あたしは自分が抱きついているものをマジマジと見てしまう。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *718|
 [fc]
 [vo_miz s="mizuki_BE0043"]
-[ns]Mizuki[nse]
-"Kyaa!"[pcms]
+[ns]瑞樹[nse]
+「きゃっ！」[pcms]
 
 *719|
 [fc]
-Seeing the man covered in blood, I instinctively jumped[r]
-back.[pcms]
+血だらけになっている男を見て、あたしは思わず[r]
+飛び退いてしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *720|
 [fc]
-[ns]Kousuke[nse]
-"It's okay, he's already dead. More importantly..."[pcms]
+[ns]浩助[nse]
+「大丈夫、もう死んでるよ。それより……」[pcms]
 
 *721|
 [fc]
-Kousuke turned his gaze outside.[pcms]
+コースケが外に視線を向ける。[pcms]
 
 *722|
 [fc]
-There, through the shattered glass door from the gunfire, I[r]
-could see the infected pouring in.[pcms]
+そこには、ふたりの銃撃で割れてしまったガラスドアから[r]
+感染者たちが侵入してくる姿が見えた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *723|
 [fc]
 [vo_miz s="mizuki_BE0044"]
-[ns]Mizuki[nse]
-"We, we have to run."[pcms]
+[ns]瑞樹[nse]
+「に、逃げないと」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *724|
 [fc]
-[ns]Kousuke[nse]
-"Well, it's a bit different from the plan but no problem."[pcms]
+[ns]浩助[nse]
+「まぁ、ちょっと予定と違ったけど問題ないな」[pcms]
 
 *725|
 [fc]
-[ns]Wataru[nse]
-"What happened? Are you okay?"[pcms]
+[ns]航[nse]
+「どうしたの？　大丈夫？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *726|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, I'll be right there. Come on, Mizuki."[pcms]
+[ns]浩助[nse]
+「ああ、すぐにそっちへ行く。ほら、瑞樹」[pcms]
 
 *727|
 [fc]
-I was helped up by Kousuke.[pcms]
+あたしはコースケに手を貸してもらって起きあがった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *728|
 [fc]
-[ns]Kousuke[nse]
-"Are you hurt anywhere?"[pcms]
+[ns]浩助[nse]
+「怪我してるところはないか？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *729|
 [fc]
 [vo_miz s="mizuki_BE0045"]
-[ns]Mizuki[nse]
-"No, I'm fine."[pcms]
+[ns]瑞樹[nse]
+「うん、大丈夫」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *730|
 [fc]
-[ns]Kousuke[nse]
-"Alright, let's get out of here."[pcms]
+[ns]浩助[nse]
+「よし、じゃあ逃げるぞ」[pcms]
 
 *731|
 [fc]
-I started running towards the backyard with Kousuke.[pcms]
+あたしはコースケと一緒にバックヤードに向かって[r]
+走り始めた。[pcms]
 
 *732|
 [fc]
-Looking back, I saw a crowd of infected pushing their way[r]
-in.[pcms]
+後ろを振り返ると、感染者たちが大勢押しかけてきている。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *733|
 [fc]
-[ns]Kousuke[nse]
-"It's not even open yet."[pcms]
+[ns]浩助[nse]
+「まだ開店前だっつーの」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *734|
 [fc]
 [vo_miz s="mizuki_BE0046"]
-[ns]Mizuki[nse]
-"Ah!"[pcms]
+[ns]瑞樹[nse]
+「あっ！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *735|
 [fc]
-I stopped in my tracks and let out a loud cry.[pcms]
+あたしは思わず立ち止まって、大きな声を上げていた。[pcms]
 
 *736|
 [fc]
-Then, I started running towards the infected.[pcms]
+そして、感染者の方に向かって走り始める。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *737|
 [fc]
-[ns]Kousuke[nse]
-"Hey, Mizuki! Damn it!"[pcms]
+[ns]浩助[nse]
+「お、おい瑞樹っ！　くそっ！」[pcms]
 
 *738|
 [fc]
-The four-leaf clover choker that Kousuke had fixed for me...[pcms]
+コースケに直してもらった四つ葉のチョーカー。[pcms]
 
 *739|
 [fc]
-The four-leaf part was lying on the floor.[pcms]
+あの四つ葉部分が床に落ちている。[pcms]
 
 *740|
 [fc]
-It must have torn off during the scuffle earlier.[pcms]
+さっき揉みあったときに、ちぎれてしまったんだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *741|
 [fc]
-[ns]Kousuke[nse]
-"Hey, Mizuki, come back!"[pcms]
+[ns]浩助[nse]
+「おいっ、瑞樹っ、もどれっ！」[pcms]
 
 *742|
 [fc]
-That choker is something very important to me...[pcms]
+あのチョーカーは、あたしの大切な……。[pcms]
 
 *743|
 [fc]
-Picking up the four-leaf part from the floor, I immediately[r]
-turned on my heel.[pcms]
+床に落ちている四つ葉部分を拾うと、[r]
+あたしはすぐに踵を返す。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *744|
 [fc]
-[ns]Kousuke[nse]
-"Mizuki!"[pcms]
+[ns]浩助[nse]
+「瑞樹ーっ！」[pcms]
 
 [evcg storage="evs001"][trans_c cross time=300]
 
 *745|
 [fc]
-But it was too late.[pcms]
+でも、遅かった。[pcms]
 
 *746|
 [fc]
-The wave of infected surged towards me like a tsunami.[pcms]
+津波みたいになった感染者が、あたしに襲いかかってくる。[pcms]
 
 *747|
 [fc]
-After that, I couldn't tell what was happening anymore.[pcms]
+それからはもう、なにがどうなっているのかわからなかった。[pcms]
 
 *748|
 [fc]
-I was embraced by an infected person.[pcms]
+あたしが感染者に抱きつかれる。[pcms]
 
 *749|
 [fc]
-Kousuke kicked them away.[pcms]
+それをコースケが蹴り飛ばす。[pcms]
 
 *750|
 [fc]
-Infected attacked Kousuke as well.[pcms]
+コースケにも感染者が襲いかかる。[pcms]
 
 *751|
 [fc]
-Someone grabbed my leg.[pcms]
+あたしの足を誰かがつかむ。[pcms]
 
 *752|
 [fc]
-Kousuke swung his gun, hitting the infected.[pcms]
+コースケが銃を振り回して感染者をなぐる。[pcms]
 
 *753|
 [fc]
-All the while, Wataru kept calling out to me.[pcms]
+途中で、ずっとワタルが呼びかけてくれていた。[pcms]
 
 *754|
 [fc]
-We were supposed to hide on the 7th floor, yet he raised his[r]
-voice so much...[pcms]
+７階で隠れてなくちゃいけないのに、[r]
+そんなに声をあげて……。[pcms]
 
 *755|
 [fc]
-And after some time had passed, we were being jostled by the[r]
-infected as we moved inside the arcade.[pcms]
+そして、どれくらい時間が経ったのか、あたしたちは[r]
+感染者たちに揉みくちゃにされながら、[r]
+ゲーセンの中に移動していた。[pcms]
 
 ;//★_クロミ
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -2233,82 +2212,81 @@ infected as we moved inside the arcade.[pcms]
 
 *756|
 [fc]
-[ns]Kousuke[nse]
-"Haah, Haah, Haah..."[pcms]
+[ns]浩助[nse]
+「ハァッ、ハァッ、ハァッ……」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *757|
 [fc]
 [vo_miz s="mizuki_BE0047"]
-[ns]Mizuki[nse]
-"Haah... Haah..."[pcms]
+[ns]瑞樹[nse]
+「ハァッ……ハァッ……」[pcms]
 
 *758|
 [fc]
-We locked the door connecting the arcade and the hall to[r]
-prevent the infected from entering.[pcms]
+ゲーセンとホールを繋ぐ扉を施錠して、[r]
+感染者たちが入ってこられないようにする。[pcms]
 
 *759|
 [fc]
-The men who had been playing in the arcade until just now[r]
-were nowhere to be seen.[pcms]
+さっきまでゲーセンで遊んでいた男たちの姿も、[r]
+今は見えなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *760|
 [fc]
-[ns]Kousuke[nse]
-"Haha... Hahaha..."[pcms]
+[ns]浩助[nse]
+「ははっ……はははっ……」[pcms]
 
 *761|
 [fc]
-[ns]Wataru[nse]
-"What's going on!? Kousuke! Answer me!"[pcms]
+[ns]航[nse]
+「どうしたの！？　コースケ！　返事をして！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *762|
 [fc]
-[ns]Kousuke[nse]
-"Hahahaha..."[pcms]
+[ns]浩助[nse]
+「はははははっ……」[pcms]
 
 [red_toplayer][trans_c cross time=1000][hide_chara_int_r]
 
 *763|
 [fc]
-Kousuke, with a troubled yet smiling face, extended his arm[r]
-for me to see.[pcms]
+コースケは、困ったような笑ったような顔で、[r]
+あたしに見えるように腕を差し出してきた。[pcms]
 
 *764|
 [fc]
-Blood-stained bite marks... and not just one.[pcms]
+血のにじんだ歯形……それも、ひとつじゃない。[pcms]
 
 *765|
 [fc]
-Two, three... there were more.[pcms]
+ふたつ、みっつ……もっとある。[pcms]
 
 *766|
 [fc]
-I also checked my own body once more.[pcms]
+あたしも改めて、自分の身体を確かめてみた。[pcms]
 
 *767|
 [fc]
-Ah... there are some on me too...[pcms]
+あ……ある、あたしにも……。[pcms]
 
 *768|
 [fc]
-I showed Kousuke the scratch marks on my knee.[pcms]
+あたしは膝に付けられたひっかき傷を、コースケに見せた。[pcms]
 
 *769|
 [fc]
-Kousuke was making a face like he was about to cry, but[r]
-still managed a weak smile.[pcms]
+コースケは泣き出しそうな顔をしながら、[r]
+それでも力なく笑っている。[pcms]
 
 *770|
 [fc]
-I wanted to respond to that smile, so I smiled as best as I[r]
-could.[pcms]
+あたしはその笑顔に答えたくて、精いっぱい微笑んだ。[pcms]
 
 ;//♂：ザッピング終わりです。
 ;[zapend_random]
@@ -2333,105 +2311,104 @@ could.[pcms]
 
 *771|
 [fc]
-[ns]Wataru[nse]
-"Kousuke? What's wrong?"[pcms]
+[ns]航[nse]
+「コースケ？　どうしたんだ？」[pcms]
 
 *772|
 [fc]
-It seemed something had happened below.[pcms]
+下で何かが起こったらしい。[pcms]
 
 *773|
 [fc]
-I understood up to the point where we were attacked by a[r]
-man, but not what happened after.[pcms]
+男に襲われたところまではわかるけれど、[r]
+その後がわからなかった。[pcms]
 
 *774|
 [fc]
-Kousuke just kept laughing, and Mizuki wouldn't answer[r]
-either.[pcms]
+コースケはただ笑っているだけだし、[r]
+瑞樹も答えてくれない。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *775|
 [fc]
-[ns]Kousuke[nse]
-"Wataru... are you listening?"[pcms]
+[ns]浩助[nse]
+「ワタル……聞いてるか？」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *776|
 [fc]
-[ns]Wataru[nse]
-"What's wrong? Are you both okay?"[pcms]
+[ns]航[nse]
+「どうしたの？　ふたりとも大丈夫？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *777|
 [fc]
-[ns]Kousuke[nse]
-"Sorry, I messed up over here. It's going to take some time[r]
-before we can join up."[pcms]
+[ns]浩助[nse]
+「すまん、こっちでヘマした。[r]
+　合流するまで時間がかかりそうだ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *778|
 [fc]
-Kousuke's voice sounded a bit strange.[pcms]
+コースケの声がちょっとおかしい。[pcms]
 
 *779|
 [fc]
-Is he crying...?[pcms]
+泣いているのか……？[pcms]
 
 *780|
 [fc]
-[ns]Wataru[nse]
-"Can't join up... are you sure you're okay?"[pcms]
+[ns]航[nse]
+「合流できないって……大丈夫なの？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *781|
 [fc]
-[ns]Kousuke[nse]
-"Yeah, sorry about this."[pcms]
+[ns]浩助[nse]
+「ああ、わりぃな」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *782|
 [fc]
-[ns]Wataru[nse]
-"I see... yeah, got it. Mizuki is safe too, right?"[pcms]
+[ns]航[nse]
+「そう……うん、わかったよ。瑞樹も無事なんだね？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *783|
 [fc]
 [vo_miz s="mizuki_BE0048"]
-[ns]Mizuki[nse]
-"I'm sorry, Wataru."[pcms]
+[ns]瑞樹[nse]
+「ごめんね、ワタル」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *784|
 [fc]
-[ns]Wataru[nse]
-"No, it's okay. Thank you for helping us this far."[pcms]
+[ns]航[nse]
+「ううん、いいんだ。ここまで手伝ってくれてありがとう」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *785|
 [fc]
-[ns]Kousuke[nse]
-"We'll try to do something on our end too, but you make sure[r]
-to hold your own."[pcms]
+[ns]浩助[nse]
+「オレたちも何とかしてみるけど、お前もしっかりやれよ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *786|
 [fc]
-[ns]Wataru[nse]
-"Of course, Kousuke, make sure you don't worry Mizuki."[pcms]
+[ns]航[nse]
+「もちろんだよ、コースケこそ瑞樹を心配させるなよ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *787|
 [fc]
-[ns]Kousuke[nse]
-"Hahaha, definitely. Let's survive and meet again."[pcms]
+[ns]浩助[nse]
+「はははっ、絶対、生きて、生き延びてまた会おうな」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -2439,64 +2416,63 @@ to hold your own."[pcms]
 *788|
 [fc]
 [vo_miz s="mizuki_BE0049"]
-[ns]Mizuki[nse]
-"Wataru was really cool today. Way better than Kousuke."[pcms]
+[ns]瑞樹[nse]
+「今日のワタル、すごく格好良かったよ。[r]
+　コースケより全然良かった」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *789|
 [fc]
-[ns]Wataru[nse]
-"Even though you're head over heels for Kousuke."[pcms]
+[ns]航[nse]
+「コースケにべた惚れのくせに」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *790|
 [fc]
 [vo_miz s="mizuki_BE0050"]
-[ns]Mizuki[nse]
-"Hehe, you could tell?"[pcms]
+[ns]瑞樹[nse]
+「ふふっ、やっぱりわかる？」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 ;//[ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *791|
 [fc]
-[ns]Kousuke[nse]
-"Well then, you're the one who will sound the alarm."[pcms]
+[ns]浩助[nse]
+「それじゃあな、警報はお前が鳴らしてくれ」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *792|
 [fc]
-[ns]Wataru[nse]
-"Yeah, take care."[pcms]
+[ns]航[nse]
+「ああ、気をつけて」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_f4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *793|
 [fc]
 [vo_miz s="mizuki_BE0051"]
-[ns]Mizuki[nse]
-"See you later."[pcms]
+[ns]瑞樹[nse]
+「またね」[pcms]
 ;//♂：時間があれば、インカムから聞こえるように加工してください
 
 *794|
 [fc]
-Despite everything that happened, we've been childhood[r]
-friends since forever.[pcms]
+途中色々あったけれど、ボクたちは昔からの幼なじみだ。[pcms]
 
 *795|
 [fc]
-I felt the warm affection from both of them towards me.[pcms]
+ふたりから、ボクへの温かい愛情を感じた。[pcms]
 
 *796|
 [fc]
-I will definitely save everyone and reunite with the two of[r]
-them.[pcms]
+絶対みんなを助けて、ふたりと再会しよう。[pcms]
 
 *797|
 [fc]
-I took off my intercom and pressed the alarm button at the[r]
-emergency exit.[pcms]
+ボクはインカムを外すと、非常口にある[r]
+警報機のボタンを押した。[pcms]
 
 
 ;BGM即時停止
@@ -2508,46 +2484,46 @@ emergency exit.[pcms]
 
 *798|
 [fc]
-[ns]Shigeyoshi[nse]
-"What's all this commotion?!"[pcms]
+[ns]重吉[nse]
+「なんの騒ぎだァ～～！？」[pcms]
 
 *799|
 [fc]
-Shigeyoshi's foolish voice could be heard from afar.[pcms]
+遠くから間の抜けた重吉の声が聞こえてくる。[pcms]
 
 *800|
 [fc]
-If Shigeyoshi is here, maybe everyone else is on this floor[r]
-too.[pcms]
+重吉がいるということは、もしかしたらみんなも[r]
+この階にいるかもしれない。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *801|
 [fc]
-[ns]Shigeyoshi[nse]
-"They've invaded?! This is serious, drive them out!!"[pcms]
+[ns]重吉[nse]
+「あいつらが侵入してきたのか～！[r]
+　大変だ、追い出せェ～！！」[pcms]
 
 *802|
 [fc]
-The sound of multiple footsteps descending the stairs could[r]
-be heard.[pcms]
+階段を下りていく複数の足音が聞こえてきた。[pcms]
 
 *803|
 [fc]
-I patiently waited until the footsteps faded away.[pcms]
+その足音が遠ざかるまで、ボクは辛抱強く待つ。[pcms]
 
 *804|
 [fc]
-After a while, a loud gunfight started on the lower floors.[pcms]
+しばらくすると、下の階で派手な銃撃戦が始まった。[pcms]
 
 *805|
 [fc]
-That should be enough.[pcms]
+もういいだろう。[pcms]
 
 *806|
 [fc]
-There might still be guards left, but I cautiously scoped[r]
-out the situation and infiltrated the 7th floor.[pcms]
+見張りが残っているかもしれないけれど、[r]
+ボクは慎重に様子をうかがいながら、７階に侵入していった。[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -2560,39 +2536,38 @@ out the situation and infiltrated the 7th floor.[pcms]
 
 *807|
 [fc]
-There was no one in the 7th floor's backyard.[pcms]
+７階のバックヤードに人影はなかった。[pcms]
 
 *808|
 [fc]
-I went out to the dome and began searching for everyone.[pcms]
+ボクはそのままドームにでて、みんなを捜し始める。[pcms]
 
 *809|
 [fc]
-I didn't know which floor everyone was on, but if they were[r]
-locked up somewhere, Arcadia seemed likely.[pcms]
+みんながどの階にいるかわからないけれど、[r]
+閉じこめておくならアルカディアが有力なんだろうか。[pcms]
 
 *810|
 [fc]
-If it's those private rooms, there's no worry of them[r]
-escaping.[pcms]
+あの個室なら、逃げられる心配もない。[pcms]
 
 *811|
 [fc]
-But my worries turned out to be unnecessary.[pcms]
+でも、ボクのそんな心配は杞憂に終わった。[pcms]
 
 *812|
 [fc]
-Somewhere in my heart, I might have believed in those men.[pcms]
+ボクは心のどこかで、あの男たちのことを[r]
+信じていたのかもしれない。[pcms]
 
 *813|
 [fc]
-They might be rough thugs, but they're humans with the same[r]
-blood flowing through their veins.[pcms]
+荒くれ者のチンピラかもしれないが、[r]
+同じ血の通った人間だと。[pcms]
 
 *814|
 [fc]
-Decent humans living in a Japan where the law is well[r]
-established.[pcms]
+法律の整備された日本で暮らす、まともな人間だと。[pcms]
 
 ;//♂：多分、版権絵のようなイベントＣＧがあると思います
 
@@ -2601,40 +2576,42 @@ established.[pcms]
 
 *815|
 [fc]
-Mattresses and blankets had been brought in from some floor.[pcms]
+そこには、どこかの階からマットレスや[r]
+毛布が運び込まれていた。[pcms]
 
 *816|
 [fc]
-On top of them, my familiar comrades... everyone was lying[r]
-down.[pcms]
+その上に、ボクの見知った仲間たち……[r]
+みんなが寝そべっている。[pcms]
 
 *817|
 [fc]
-Their clothes were tattered, their hair disheveled... they[r]
-didn't seem to be breathing.[pcms]
+衣服もボロボロで、髪も乱れて……[r]
+息をしているようには見えない。[pcms]
 
 *818|
 [fc]
-Yet, the place was dominated by a strange heat as if an[r]
-assault had just taken place.[pcms]
+なのに、今さっきまで暴行が行われていたみたいに[r]
+変な熱気がこの場を支配していた。[pcms]
 
 *819|
 [fc]
-I was unable to do anything for a while, just staring at the[r]
-scene before me.[pcms]
+ボクはしばらくの間、なにもできずに[r]
+ただその光景を見つめてしまう。[pcms]
 
 *820|
 [fc]
-If I hadn't waited for dawn and had acted, could I have[r]
-saved everyone?[pcms]
+明け方なんて待たないで行動していたら、[r]
+みんなを助けることができたんだろうか。[pcms]
 
 *821|
 [fc]
-Or would I have ended up lying next to them as a corpse?[pcms]
+それとも、みんなの横に死体として転がっていたんだろうか。[pcms]
 
 *822|
 [fc]
-With unsteady steps, I walked over to where everyone was.[pcms]
+ボクはフラフラとした足取りで、[r]
+みんなの側に歩いていった。[pcms]
 
 [bgm storage="BGM06"]
 

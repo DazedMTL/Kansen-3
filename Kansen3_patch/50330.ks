@@ -12,104 +12,106 @@
 ;//時間帯：
 ;//・テキスト容量：
 ;//---------------------------------------------------------------
-;//●選択肢Ａ２　２２：出来るかも？
+;//●選択肢Ａ－２　２－２：出来るかも？
 
 ;[sysbt_meswin]
 
 *1682|
 [fc]
-I might be able to lure the ones in the entrance hall...[pcms]
+エントランスホールにいるヤツラをおびき寄せる……。[r]
+できるかもしれない。[pcms]
 
 *1683|
 [fc]
-[ns]Wataru[nse]
-"...Maybe... we can only drive out the infected..."[pcms]
+[ns]航[nse]
+「…………もしかしたら……[r]
+　感染者だけ、追い出せるかも……」[pcms]
 
 *1684|
 [fc]
-I opened my mouth as I organized my thoughts.[pcms]
+ボクは思いつきを整理しながら口を開いた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1685|
 [fc]
-[ns]Kousuke[nse]
-"How, how would you do that?"[pcms]
+[ns]浩助[nse]
+「ど、どうやって？」[pcms]
 
 *1686|
 [fc]
-[ns]Wataru[nse]
-"Remember what Jin-san and the others said earlier? "Because[r]
-you called out loudly, that's why you were chased." Couldn't[r]
-the opposite be true as well?"[pcms]
+[ns]航[nse]
+「さっき、壬さんたちに言われたよね？[r]
+　『大声で呼んだから追われたんだろう』って。[r]
+　それって、逆もできるんじゃないかな？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1687|
 [fc]
 [vo_yuh s="yuho1539"]
-[ns]Yuuho[nse]
-"The opposite...? Ah... you mean like that!?"[pcms]
+[ns]悠帆[nse]
+「逆……？　あ……そういうことね！？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1688|
 [fc]
-Yuuho's face brightened up as she clapped her hands[r]
-together.[pcms]
+パッと顔を明るくした悠帆が手のひらを打ち合わせた。[pcms]
 
 *1689|
 [fc]
-[ns]Wataru[nse]
-"If we lure the infected to a different place with sounds or[r]
-voices, the entrance hall will be emptied."[pcms]
+[ns]航[nse]
+「どこか別の場所から、[r]
+　音とか声で、感染者をおびき寄せれば、[r]
+　エントランスホールが空っぽになる」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1690|
 [fc]
 [vo_mar s="maru1494"]
-[ns]Margarita[nse]
-"I see, during that time, we just need to seal off the[r]
-entrance!"[pcms]
+[ns]マルガリータ[nse]
+「なるほど、その間に、入り口を封鎖すればいいのだな！」[pcms]
 
 *1691|
 [fc]
-The plan gradually became more concrete.[pcms]
+計画は徐々に具体的なものに変わっていく。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1692|
 [fc]
-[ns]Kousuke[nse]
-"But, even if we lure them, wouldn't that be dangerous for[r]
-us?"[pcms]
+[ns]浩助[nse]
+「でも、おびき寄せるったって[r]
+　そっちの方がヤバくねぇ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1693|
 [fc]
 [vo_mar s="maru1495"]
-[ns]Margarita[nse]
-"...No, we can use the "fireworks."[pcms]
+[ns]マルガリータ[nse]
+「……いや、『ででっぽう』が使えるな」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1694|
 [fc]
 [vo_mar s="maru1496"]
-[ns]Margarita[nse]
-"The veranda of the nap room faces the street. Moreover, the[r]
-route there and back is relatively safe."[pcms]
+[ns]マルガリータ[nse]
+「仮眠室のベランダなら通りに面している。[r]
+　しかも、行き帰りの経路は比較的、安全だ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1695|
 [fc]
 [vo_mar s="maru1497"]
-[ns]Margarita[nse]
-"Well... It's only relatively safe, it's not guaranteed to[r]
-be secure."[pcms]
+[ns]マルガリータ[nse]
+「まあ……。[r]
+　比較的、というだけで[r]
+　安全が保証されているわけではないが」[pcms]
 
 ;//→ブロック５０３４０へ
 [jump storage="50340.ks" target=*50340_TOP]

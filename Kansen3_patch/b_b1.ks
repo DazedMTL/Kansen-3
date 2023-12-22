@@ -14,27 +14,26 @@
 
 *4381|
 [fc]
-There's no time to hesitate. I have to go save Yuuho[r]
-quickly!![pcms]
+悩んでるヒマはない。[r]
+早く悠帆を助けに行かなきゃっ！！[pcms]
 
 *4382|
 [fc]
-I ran to get the ladder that should take me straight to[r]
-Yuuho's side.[pcms]
+ボクはまっすぐに一番悠帆の傍にいけるはずの[r]
+ハシゴを取りに走った。[pcms]
 
 *4383|
 [fc]
-But--[pcms]
+だけど――[pcms]
 
 *4384|
 [fc]
-[ns]Wataru[nse]
-"Whoa!"[pcms]
+[ns]航[nse]
+「うわっ！」[pcms]
 
 *4385|
 [fc]
-The moment I burst out of the indoor pool, someone appeared,[r]
-swaying.[pcms]
+屋内プールから飛び出した途端、ゆらりと誰かが現れる。[pcms]
 
 [白フラ]
 
@@ -42,69 +41,69 @@ swaying.[pcms]
 
 *4386|
 [fc]
-I collided head-on with them and ended up rolling on the[r]
-floor.[pcms]
+そいつに真っ向からぶつかって、ボクは床に[r]
+転がってしまった。[pcms]
 
 *4387|
 [fc]
-[ns]Wataru[nse]
-"Ouch ouch ouch..."[pcms]
+[ns]航[nse]
+「イテテテテ……」[pcms]
 
 *4388|
 [fc]
-While worrying about my bruised hip, I looked at the person[r]
-I bumped into.[pcms]
+打ち付けた腰を気にしながら、[r]
+ボクはぶつかった相手を見た。[pcms]
 
 *4389|
 [fc]
-They're wearing a uniform... so they must be a student at[r]
-the academy, right?[pcms]
+制服を着ている……という事は、学園の生徒か？[pcms]
 
 *4390|
 [fc]
-[ns]Wataru[nse]
-"Are you also running away?"[pcms]
+[ns]航[nse]
+「君も逃げてるのか？」[pcms]
 
 *4391|
 [fc]
-While letting out a relieved breath, I looked up at him,[r]
-forgetting even to get up.[pcms]
+どこかホッと息を吐きながら、ボクは[r]
+起き上がるのも忘れて彼を見上げた。[pcms]
 
 *4392|
 [fc]
-The eyes looking down at me were--[pcms]
+ボクを見下ろしてきた瞳は――[pcms]
 
 ;//<ChrInit><ImageLoad 7,EVS001.bmp><UpDate Cross,1000>
 
 *4393|
 [fc]
-Red!![pcms]
+赤いっ！！[pcms]
 
 *4394|
 [fc]
-[ns]Wataru[nse]
-"Eek!!"[pcms]
+[ns]航[nse]
+「ひっ！！」[pcms]
 
 *4395|
 [fc]
-Which was faster, me trying to hurriedly get up or him[r]
-pouncing on me?[pcms]
+ボクが慌てて起き上がろうとするのと、彼が[r]
+ボクにのしかかってくるのはいったいどちらのほうが[r]
+早かったんだろう？[pcms]
 
 [red_toplayer][trans_c cross time=500][hide_chara_int_r]
 ;//<ImageInit 9><UpDate Cross,500>
 
 *4396|
 [fc]
-And him biting at my throat?[pcms]
+そして、彼がボクの喉元に噛み付いてくるのは？[pcms]
 
 *4397|
 [fc]
-The answer will remain unknown forever, as my consciousness[r]
-was swallowed by darkness.[pcms]
+答えは一生わからないまま、ボクの意識は暗闇へと[r]
+飲み込まれた。[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 
 

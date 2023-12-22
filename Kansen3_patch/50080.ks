@@ -1,10 +1,10 @@
 ;//Block:A009
 ;//ブロック５００５０からjump
-;//ブロック５００８０『地上ＬＡＳＥＲへ』
+;//ブロック５００８０『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50080_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：センターストリート正面口？
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣・航
@@ -47,95 +47,98 @@
 *407|
 [fc]
 [vo_mob s="tomomi0039"]
-[ns]Girl with Red Eyes[nse]
-"Hehe, hehehehehe... Shall we have some fun? Ufufufu..."[pcms]
+[ns]赤い眼の少女[nse]
+「……ふふっ、ふふふふふふふふ……[r]
+　たのしいこと……しよ？　うふふふふ……」[pcms]
 ;//＠赤い眼の少女＝以降　朋美
 
 *408|
 [fc]
-The girl with red eyes crept closer and straddled me.[pcms]
+真っ赤な目をした少女がにじり寄り、[r]
+ボクの上にまたがってくる。[pcms]
 
 *409|
 [fc]
 [vo_mob s="tomomi0040"]
-[ns]Girl with Red Eyes[nse]
-"Please give it to me..."[pcms]
+[ns]赤い眼の少女[nse]
+「ちょうだぁい……」[pcms]
 
 *410|
 [fc]
 [vo_mob s="tomomi0041"]
-[ns]The Girl with Red Eyes[nse]
-"Your cock... I want lots of hot cum from your fresh cock...[r]
-Please give it to me..."[pcms]
+[ns]赤い眼の少女[nse]
+「おちんちん……、新鮮なおちんちんから、[r]
+　あっつぅいの……いっぱい、ちょうだぁい……」[pcms]
 
 *411|
 [fc]
-With the unique, faltering speech of the infected, she[r]
-fondled my exposed genitals with her hand.[pcms]
+感染者特有の、おぼつかない口振りで訴えると、[r]
+剥き出しになったボクの性器を、少女は手でまさぐった。[pcms]
 
 *412|
 [fc]
-Perhaps due to the lewd atmosphere enveloping us, I found[r]
-myself getting an erection all too easily.[pcms]
+周囲を包む淫猥な気配のせいか、[r]
+不覚にもあっさりと勃起してしまう。[pcms]
 
 *413|
 [fc]
 [vo_mob s="tomomi0042"]
-[ns]Girl with Red Eyes[nse]
-"Nhaa, your cock, it's gotten so big... Haa, can I have[r]
-this?"[pcms]
+[ns]赤い眼の少女[nse]
+「んはぁぁ、おちんちん、おっきくなったぁ……はぁぁ、[r]
+　これ、ちょうだぁい？」[pcms]
 
 *414|
 [fc]
-The girl let out a cheer and positioned it against her[r]
-widely spread pussy.[pcms]
+少女は歓声をあげて、[r]
+ぱっくりと開いた淫裂にモノをあてがった。[pcms]
 
 *415|
 [fc]
-But then, she suddenly stopped moving.[pcms]
+だがそこで、突然動きを止める。[pcms]
 
 *416|
 [fc]
 [vo_mob s="tomomi0043"]
-[ns]The Girl with Red Eyes[nse]
-"...Hmm, mmm?"[pcms]
+[ns]赤い眼の少女[nse]
+「……ん、んん？」[pcms]
 
 *417|
 [fc]
-She peered into my face. The lewd body odor was[r]
-overwhelming.[pcms]
+ボクの顔を覗きこんできた。淫猥な体臭が、押し寄せてくる。[pcms]
 
 *418|
 [fc]
 [vo_mob s="tomomi0044"]
-[ns]The Girl with Red Eyes[nse]
-"...You look like him... Kato-kun...?"[pcms]
+[ns]赤い眼の少女[nse]
+「…………似てる……。カトーくん……？」[pcms]
 
 *419|
 [fc]
 [vo_mob s="tomomi0045"]
-[ns]The Girl with Red Eyes[nse]
-"You look like him, you look like him, Kato-kun, ahhh, Kato-[r]
-kun! It's Kato-kun, Kato-kun... Kato-kun ahh!"[pcms]
+[ns]赤い眼の少女[nse]
+「似てる似てる似てる、カトーくん、あああぁ、[r]
+　カトーくん！[r]
+　カトーくんだ、カトーくん……っ、カトーくんだあぁ！」[pcms]
 
 *420|
 [fc]
-It seemed that I resembled someone from her memories.[pcms]
+どうやら、彼女の記憶にある誰かと、[r]
+ボクの面影が重なったようだった。[pcms]
 
 *421|
 [fc]
-The girl's eyes bulged as she let out a beast-like roar.[pcms]
+少女は目を剥いて、獣じみた咆哮をほとばしらせる。[pcms]
 
 *422|
 [fc]
 [vo_mob s="tomomi0046"]
-[ns]The Girl with Red Eyes[nse]
-"Kato-kun's cock! Ahhaaahhh!"[pcms]
+[ns]赤い眼の少女[nse]
+「カトーくんの、おちんちんっ！　あはあぁぁぁっ！」[pcms]
 
 *423|
 [fc]
-With that scream, she recklessly dropped her hips without[r]
-even positioning herself properly.[pcms]
+そうわめくと、少女はろくに位置も定めず、[r]
+がむしゃらに腰を落としてきた。[pcms]
 
 ;//HEV049b
 [se buf=0 storage="se_sex01"]
@@ -143,38 +146,38 @@ even positioning herself properly.[pcms]
 
 *424|
 [fc]
-The thoroughly wet pussy easily engulfed my manhood to the[r]
-base.[pcms]
+存分に潤った淫道は、[r]
+ボクの男根を根元まであっさりと銜えこむ。[pcms]
 
 *425|
 [fc]
-She let out a sigh of ecstasy and began to wildly move her[r]
-hips.[pcms]
+歓喜の溜息をこぼすと、無茶苦茶に腰を振りはじめた。[pcms]
 
 *426|
 [fc]
 [vo_mob s="tomomi0047"]
-[ns]The Girl with Red Eyes[nse]
-"Nhaa, hahh... Hianhh, ahnn! Hahhaa... It feels so goodnnn,[r]
-Kato-kuuun!"[pcms]
+[ns]赤い眼の少女[nse]
+「んああぁ、はぁはぁ……っ、ひあぁぁんっ、あんんっ！[r]
+　はぁはぁぁ……気持ちぃぃぃっんんっ、カトーくぅぅん！」[pcms]
 
 *427|
 [fc]
-[ns]Wataru[nse]
-"No... that's not... I'm not... Kato... ah, ahh... ku..."[pcms]
+[ns]航[nse]
+「ち……違っ……、[r]
+　ボク、は……カトーじゃ……あ、ああっ……く……」[pcms]
 
 *428|
 [fc]
 [vo_mob s="tomomi0048"]
-[ns]The Girl with Red Eyes[nse]
-"...Kato-kun's cock...! Hahiin, nn! My pussy, so much, so[r]
-much... kuhannn! Yesss, Kato-kun! Haaah, aahh!"[pcms]
+[ns]赤い眼の少女[nse]
+「……カトーくんの、おちんちん……っ！　はひぃぃ、んっ！[r]
+　おまんこっ、いっぱい、いっぱい……っ、くはあぁんん！[r]
+　いいいぃぃぃ、カトーくん！　はあぁぁ、ああぁ！」[pcms]
 
 *429|
 [fc]
-Ignoring my feeble protests entirely, the girl continued to[r]
-dance her limbs. Her overwhelmingly large breasts rippled[r]
-with fat.[pcms]
+か細い抗議になど一切耳を貸さず、少女は肢体を躍らせる。[r]
+圧倒されるくらい大きな乳房が、脂肪を波打たせていた。[pcms]
 
 ;//HEV049c
 [se buf=0 storage="se_sex01"]
@@ -183,14 +186,13 @@ with fat.[pcms]
 *430|
 [fc]
 [vo_mob s="tomomi0049"]
-[ns]The Girl with Red Eyes[nse]
-"Nhaaaa! It's coming out!"[pcms]
+[ns]赤い眼の少女[nse]
+「んああああっ、で、出てるぅっ！」[pcms]
 
 *431|
 [fc]
-Amidst the intense act, I had reached my first climax before[r]
-I knew it. My seed shot out as if being sucked away with[r]
-ferocious intensity.[pcms]
+凄絶な行為に、いつの間にかボクは最初の頂点を迎えていた。[r]
+吸い上げられるように、猛烈な勢いで精を放つ。[pcms]
 
 ;mm
 [evcg storage="HEV049d"][trans_c cross time=300]
@@ -198,107 +200,110 @@ ferocious intensity.[pcms]
 *432|
 [fc]
 [vo_mob s="tomomi0050"]
-[ns]The Girl with Red Eyes[nse]
-"The hot stuff in my pussy, hahiin! Fuahhaahh, it's coming[r]
-out! More, give me more of the hot stuff!"[pcms]
+[ns]赤い眼の少女[nse]
+「あっついの、おまんこにぃぃぃ、はひぃぃんっ！[r]
+　ふああぁあぁっ、出てるぅぅ！[r]
+　出る出る、もっと、もっとちょうだいっ！　あっついのぉ！」[pcms]
 
 *433|
 [fc]
 [vo_mob s="tomomi0051"]
-[ns]Girl with Red Eyes[nse]
-"Squeeze my balls tightly and let out lots of it!"[pcms]
+[ns]赤い眼の少女[nse]
+「たまたま、ぎゅーってして、いっぱい出してえぇぇっ！」[pcms]
 
 *434|
 [fc]
-The girl wrapped her arms around from behind and twisted my[r]
-scrotum as if trying to milk out every last drop.[pcms]
+少女は腕を尻から回し、[r]
+生産されるはしから搾り出そうと言わんばかりに陰嚢をねじる。[pcms]
 
 *435|
 [fc]
-The intense pain only served to enhance the ejaculation.[r]
-Caught between pain and pleasure, I writhed in agony without[r]
-being able to utter a sound.[pcms]
+激痛が、却って射精の勢いを助長する。[r]
+苦痛とも快感ともつかない感覚に、[r]
+ボクは声も出せずに悶絶した。[pcms]
 
 *436|
 [fc]
 [vo_mob s="tomomi0052"]
-[ns]The Girl with Red Eyes[nse]
-"Nnh... haaah, ah..."[pcms]
+[ns]赤い眼の少女[nse]
+「ん……はあぁ、あ……っ…………」[pcms]
 
 *437|
 [fc]
-Once the release was over, the girl took a satisfied breath.[r]
-But that moment was fleeting.[pcms]
+放出が終わると、少女は満足げに息をつく。[r]
+だがそれも、ほんの一瞬のことだった。[pcms]
 
 *438|
 [fc]
 [vo_mob s="tomomi0053"]
-[ns]The Girl with Red Eyes[nse]
-"...More, more please. Kato-kun's cock! The hot stuff...[r]
-more. More and more and more!!"[pcms]
+[ns]赤い眼の少女[nse]
+「…………もっと、もっとぉ、ちょうだぁい。[r]
+　カトーくんのっ、おちんちんっ！[r]
+　あっついの……、もっと。もっともっともっとぉぉっ！！」[pcms]
 
 *439|
 [fc]
-[ns]Wataru[nse]
-"Stop... ah, ahh... no, stop it... kuah, ahh...!!"[pcms]
+[ns]航[nse]
+「ぎ……あ、ああっ……や、やめ、えっ……くあ、ああっ……！！」[pcms]
 
 ;//HEV049d
 ;[evcg storage="HEV049d"][trans_c cross time=300]
 
 *440|
 [fc]
-Without any rest, my penis was rubbed again inside her[r]
-vagina, making me groan.[pcms]
+ろくに休憩もせず、[r]
+ふたたび膣で陰茎を擦りあげられて、ボクは呻く。[pcms]
 
 *441|
 [fc]
-As I tried to push her away, the girl irritably shook off my[r]
-arms and mercilessly bounced her hips.[pcms]
+押しのけようとするボクの腕を、[r]
+少女は鬱陶しげに振り払うと、容赦なく尻を弾ませる。[pcms]
 
 *442|
 [fc]
 [vo_mob s="tomomi0054"]
-[ns]The Girl with Red Eyes[nse]
-"It's not enough! Not enough! Do it do it, let it out! More,[r]
-let out more! Give me the hot stuff!"[pcms]
+[ns]赤い眼の少女[nse]
+「足りないぃっ、足りないよぉぅっ！　してして、出してぇぇっ！[r]
+　もっとぉ、出してぇぇっ！　あっついの、ちょうだいよぅっ！」[pcms]
 
 *443|
 [fc]
 [vo_mob s="tomomi0055"]
-[ns]Girl with Red Eyes[nse]
-"Hiaaahh, nauh, all of it, all of it, give it to me! Empty[r]
-my balls! My pussy wants it! All of it, all of the hot[r]
-stuff, let it all out!"[pcms]
+[ns]赤い眼の少女[nse]
+「ひあぁぁぁ、んあぅ、全部っ、ぜんぶ、ちょうだいようぅ！[r]
+　たまたま、からっぽにして！　おまんこ、してぇっ！[r]
+　ぜんぶ、ぜんぶ、あっついの、ぜんぶぅ、出してぇぇっ！」[pcms]
 
 *444|
 [fc]
-I might truly be drained dry. I felt a chill of fear in my[r]
-gut.[pcms]
+本当に、涸れるまで絞り尽くされるかも知れない。[r]
+恐怖に肝が冷えるのを感じた。[pcms]
 
 *445|
 [fc]
-And yet my genitals were already nearing their second[r]
-climax.[pcms]
+それなのにボクの性器は、[r]
+早くも二度目の絶頂に達しようとしている。[pcms]
 
 ;//HEV049e
 
 *446|
 [fc]
 [vo_mob s="tomomi0056"]
-[ns]Girl with Red Eyes[nse]
-"Hyaaannnn...!! Ahhaah!? So hottt!!"[pcms]
+[ns]赤い眼の少女[nse]
+「ひゃああぁんんんっ……！！[r]
+　あはぁぁっ！？　あっつぅぅいぃぃ！！」[pcms]
 
 
 [evcg storage="HEV049e"][trans_c cross time=300]
 
 *447|
 [fc]
-Sensing the change in my body, the girl instantly broke our[r]
-union as if leaping up.[pcms]
+ボクの身体に訪れた変化を察知して、少女はその刹那、[r]
+飛び上がるようにして結合を解いた。[pcms]
 
 *448|
 [fc]
-My white semen danced towards her ample breasts.[pcms]
+少女のたわわな乳房に向かって、白い淫液が舞う。[pcms]
 
 ;//HEV049f
 [se buf=0 storage="se_sex01"]
@@ -308,26 +313,27 @@ My white semen danced towards her ample breasts.[pcms]
 *449|
 [fc]
 [vo_mob s="tomomi0057"]
-[ns]Girl with Red Eyes[nse]
-"My breasts! My breasts are so hottt...!! Kato-kun's hot[r]
-stuff! Sticky white hot stuff... Hyann!!"[pcms]
+[ns]赤い眼の少女[nse]
+「おっぱいぃぃ！　おっぱい、あっつぅぅぅいぃぃ……っ！！[r]
+　カトーくんのっ、あっついのぉぉ！[r]
+　べたべたの、しろいの、あっついの……っ！　ひゃあん！！」[pcms]
 
 *450|
 [fc]
 [vo_mob s="tomomi0058"]
-[ns]The Girl with Red Eyes[nse]
-"Hyahaaahh, nhaaahh, haaah, nn!! Aaahhhaaahh, ahh,[r]
-fuahaahh...!!"[pcms]
+[ns]赤い眼の少女[nse]
+「ひゃはあぁぁ、んあああっ、はあぁ、ん！！[r]
+　あああぁぁ、ぁぁ、ふああぁぁ……………っ！！」[pcms]
 
 *451|
 [fc]
-The girl rejoiced as she was showered in semen, bouncing her[r]
-body like a dog playing in water.[pcms]
+射精を胸に浴びた少女は歓喜し、[r]
+まるで水遊びに興じる犬みたいに肢体を弾ませる。[pcms]
 
 *452|
 [fc]
-As I stared at her dumbfoundedly, my vision suddenly became[r]
-hazy...[pcms]
+その姿を呆然と見つめるうちに、[r]
+ボクの視界は、急に霞んでいった……。[pcms]
 
 ;//黒
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -341,145 +347,147 @@ hazy...[pcms]
 *453|
 [fc]
 [vo_mar s="maru1389"]
-[ns]Margarita[nse]
-"Stop itttt! Don't touch me!!"[pcms]
+[ns]マルガリータ[nse]
+「やめろぉぉっ！　ワタシに触れるなっ！！」[pcms]
 
 *454|
 [fc]
-Margarita's scream was muffled by the bodies of men huddled[r]
-around her and faded without spreading.[pcms]
+マルガリータの絶叫は、寄り固まった男たちの身体に阻まれ、[r]
+拡散せずに掻き消える。[pcms]
 
 *455|
 [fc]
-Her underwear had already been torn off by countless hands,[r]
-exposing her skin marked by painful scratches.[pcms]
+彼女の下着は、無数の手によって既に剥ぎ取られ、[r]
+痛々しい爪あとを刻んだ素肌を晒していた。[pcms]
 
 *456|
 [fc]
 [vo_mar s="maru1390"]
-[ns]Margarita[nse]
-"I said stop!! You...! Kuuh!! Let go of meeeeee!! Uuuuh!!"[pcms]
+[ns]マルガリータ[nse]
+「やめろと言っている！！　このっ……！　くっ！！[r]
+　放せえぇぇぇぇっ！！　うううぅっ！！」[pcms]
 
 *457|
 [fc]
-She desperately tried to resist, but was pinned down by an[r]
-abnormal strength, barely able to move.[pcms]
+必死に抗おうとするが、異様な怪力に押さえつけられ、[r]
+ろくに身動きもできない。[pcms]
 
 *458|
 [fc]
-The force restraining her was so strong that Margarita's[r]
-bones and muscles screamed in agony.[pcms]
+拘束する力が強すぎて、[r]
+マルガリータの骨が、筋肉が悲鳴を上げた。[pcms]
 
 *459|
 [fc]
-[ns]Infected Man C[nse]
-"Uhaa... such a beautiful pussy... it's making me drool..."[pcms]
+[ns]感染者・男Ｃ[nse]
+「うはぁっ……[r]
+　すげぇ、綺麗なおまんこだぜっ……涎が出るぅ……！」[pcms]
 
 *460|
 [fc]
-[ns]Infected Man D[nse]
-"Haha... a blonde beauty is something else... even her pussy[r]
-is a light chestnut color...!!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「はは……き、金髪美女は違うな……[r]
+　アソコも栗毛だぜ……！！」[pcms]
 
 *461|
 [fc]
 [vo_mar s="maru1391"]
-[ns]Margarita[nse]
-"Don't... don't look!! Don't look at meee!! Ahhh!!"[pcms]
+[ns]マルガリータ[nse]
+「みっ……見るなっ！！　見るなあぁっ！！　ああぁっ！！」[pcms]
 
 *462|
 [fc]
-Amidst the infected men's cries of joy, Margarita flailed[r]
-her arms with a pale face.[pcms]
+感染者たちの歓喜の声に、[r]
+マルガリータは青褪めた顔で腕を振り乱す。[pcms]
 
 *463|
 [fc]
-But no matter how much strength she mustered, she couldn't[r]
-shake off the entwining arms.[pcms]
+だが、どれほど力をこめても、[r]
+絡む腕を振り解くことはできなかった。[pcms]
 
 *464|
 [fc]
-A feeling of powerlessness tormented Margarita's heart.[pcms]
+無力感が、マルガリータの心を苛む。[pcms]
 
 *465|
 [fc]
 [vo_mar s="maru1392"]
-[ns]Margarita[nse]
-"Kuu... what is this...! To suffer such humiliation... have[r]
-I... until now...?"[pcms]
+[ns]マルガリータ[nse]
+「くぅぅ……っ……。なんという……こと……！[r]
+　このような、辱めを受けるために……、[r]
+　ワタシは……これまで……っ？」[pcms]
 
 *466|
 [fc]
-Tears of frustration wet Margarita's cheeks. Above her, the[r]
-infected men suddenly began to fight.[pcms]
+悔し涙が、マルガリータの頬を濡らした。[r]
+そんな彼女の上で、感染者たちが突如、争いはじめる。[pcms]
 
 *467|
 [fc]
-[ns]Infected Man E[nse]
-"Ahh... I'm first... don't get in my way!!"[pcms]
+[ns]感染者・男Ｅ[nse]
+「っあ……お、俺が先だぁっ……邪魔すんなぁ！！」[pcms]
 
 *468|
 [fc]
-[ns]Infected Man C[nse]
-"Shut up... I was the first to catch her, wait your turn...[r]
-guhaa!!"[pcms]
+[ns]感染者・男Ｃ[nse]
+「っせえ……い、いちばん先に捕まえたのはこっちだ、[r]
+　大人しく待ってろ……ぐはぁっ！！」[pcms]
 
 *469|
 [fc]
 [vo_mar s="maru1393"]
-[ns]Margarita[nse]
-"What... what are you doing...?"[pcms]
+[ns]マルガリータ[nse]
+「なっ……何をして……？」[pcms]
 
 *470|
 [fc]
-Ignoring the bewildered Margarita, the infected men started[r]
-beating each other.[pcms]
+戸惑うマルガリータに構うことなく、[r]
+感染者たちは互いを殴打した。[pcms]
 
 *471|
 [fc]
-Fists flew and blood spattered.[pcms]
+拳が行き交い、血飛沫が舞う。[pcms]
 
 *472|
 [fc]
-Margarita shuddered as blood splashed onto her skin.[pcms]
+肌に流血を浴びて、マルガリータは身をすくめた。[pcms]
 
 *473|
 [fc]
-An ugly struggle unfolded before the sacrifice.[pcms]
+生贄を前に、醜い争いが繰り広げられる。[pcms]
 
 *474|
 [fc]
-Someone's jaw was dislocated, emitting voiceless groans.[pcms]
+顎が外れ、声にならない呻きを挙げる者がいる。[pcms]
 
 *475|
 [fc]
-In front of Margarita, an arm was twisted and broken in an[r]
-impossible direction.[pcms]
+マルガリータの目の前でねじられた腕が、[r]
+あり得ない向きに折れた。[pcms]
 
 *476|
 [fc]
-[ns]Infected Man D[nse]
-"Hii... I was first, damn it...!!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「ひっ……オレ……オレが最初、だぁっ……！！」[pcms]
 
 *477|
 [fc]
 [vo_mar s="maru1394"]
-[ns]Margarita[nse]
-"Hii!?"[pcms]
+[ns]マルガリータ[nse]
+「ひっ！？」[pcms]
 
 *478|
 [fc]
-Margarita let out a strained scream in sheer terror.[pcms]
+マルガリータは恐怖のあまり、引きつった悲鳴を上げる。[pcms]
 
 *479|
 [fc]
-The man who covered her while screaming had one eye gouged[r]
-out.[pcms]
+わめきながら覆い被さってきた男は、片眼を潰されていた。[pcms]
 
 *480|
 [fc]
-[ns]Infected Man D[nse]
-"Hahi... I'll be taking my share now...!!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「はひっ……い、いただきまぁすっ…………！！」[pcms]
 
 ;//　Ｂ：片目を失った感染者が他を押しのけて挿入
 ;//HEV055b
@@ -488,94 +496,95 @@ out.[pcms]
 
 *481|
 [fc]
-The hideous mass of flesh tore through her barely moist,[r]
-untouched hole all at once.[pcms]
+ろくに湿りもしていなかった未開の穴を、[r]
+醜悪な肉塊が一気に奥まで引き裂く。[pcms]
 
 *482|
 [fc]
 [vo_mar s="maru1395"]
-[ns]Margarita[nse]
-"Kuuh, ah, agaaahhhhhhh-----!!!"[pcms]
+[ns]マルガリータ[nse]
+「くっ、あっ、あがあああああぁぁぁぁーーーーーっ！！！？」[pcms]
 
 *483|
 [fc]
-A throat-tearing scream. Margarita's pupils dilated.[pcms]
+喉が張り裂けそうな絶叫。マルガリータの瞳孔が開いた。[pcms]
 
 *484|
 [fc]
-The infected man began to thrust blindly without catching[r]
-his breath.[pcms]
+感染者は息もつかず、闇雲に律動を始める。[pcms]
 
 *485|
 [fc]
 [vo_mar s="maru1396"]
-[ns]Margarita[nse]
-"Kah, kahh...!! Ah, guh, ugh, ah, ahh...!!"[pcms]
+[ns]マルガリータ[nse]
+「かっ、かはっ……！！[r]
+　あっ、ぐ、う、あ、あ、ぁ……っ！！」[pcms]
 
 *486|
 [fc]
-[ns]Infected Man D[nse]
-"Uooh, ooh, oooh... amazing... foreigner, you're the[r]
-best...! And oh, sho, she's a virgin... squeezing so[r]
-tight...!!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「うお、おおう、おおおうっ……[r]
+　すげえっ……外人、最高っ……！[r]
+　しかも、おう、しょ、処女だっ……締めつけるぅっ……！！」[pcms]
 
 *487|
 [fc]
 [vo_mar s="maru1397"]
-[ns]Margarita[nse]
-"Stop... haguuu! Stop it...! ...Ugh, uuuuuh, guh... uuuuh!"[pcms]
+[ns]マルガリータ[nse]
+「や、め……っ、はぐぅぅっ！　やめ……ろぉ……っ！[r]
+　……うっ、ううぅぅ、ぐっ……、うううぅっ！」[pcms]
 
 *488|
 [fc]
-[ns]Infected Man D[nse]
-"On, on, on, on, ooooon...!! Too good... my skin is peeling[r]
-off... feels like it's gonna be torn off...!!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「おん、おん、おん、おん、おおおおんっ…………！！[r]
+　よすぎる……皮が剥ける……[r]
+　引きちぎられそうだぜぇっ……！！」[pcms]
 
 *489|
 [fc]
-The vibration made Margarita's spine creak.[pcms]
+振動がマルガリータの背骨を軋ませる。[pcms]
 
 *490|
 [fc]
-She couldn't even breathe due to the impact that felt like[r]
-it would break her entire body.[pcms]
+全身がへし折られそうな衝撃に、[r]
+呼吸することさえできなかった。[pcms]
 
 *491|
 [fc]
-[ns]Infected Man D[nse]
-"Ahh, ah, aahh, it's coming, it's coming... I'm gonna cum,[r]
-cumming big time... inside out...!!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「っあ、あ、ああっ、来る、来るぅっ……イく、イくぞ、[r]
+　盛大に……中出しだぁっ…………！！」[pcms]
 
 *492|
 [fc]
 [vo_mar s="maru1398"]
-[ns]Margarita[nse]
-"No!? I don't want this! I don't want this!! Stop it![r]
-Stop...! No! Please! Anything but that... stop it[r]
-pleaseeeeee!"[pcms]
+[ns]マルガリータ[nse]
+「なっ！？　い、いやだっ！　いやだいやだっ！！[r]
+　やめろっ！　やめ……っ！　いやっ！[r]
+　頼むっ！　それだけはっ……やめてくれええぇぇっ！」[pcms]
 
 *493|
 [fc]
-Declared to be ejaculated inside, Margarita turned pale.[pcms]
+膣内射精を宣言され、マルガリータは蒼白になる。[pcms]
 
 *494|
 [fc]
-She mustered all her strength to try and break free from the[r]
-union, but that futile resistance only invited the worst[r]
-outcome.[pcms]
+死力を振り絞って、結合を解こうとした。[r]
+だが、その儚い抵抗が、却って最悪の事態を招いた。[pcms]
 
 *495|
 [fc]
-[ns]Infected Man D[nse]
-"Uooh...?! Uwaah, it's writhing, being squeezed out... Oooh,[r]
-ooooooooooooooh!!!!!"[pcms]
+[ns]感染者・男Ｄ[nse]
+「うおっ……？！　うあ、うねるっ、搾り出されるっ……[r]
+　お、おおっ、おおおおおおおおおおおおおおっ！！！！」[pcms]
 
 *496|
 [fc]
 [vo_mar s="maru1399"]
-[ns]Margarita[nse]
-"Hiiii, iiii... noooooooaaaaahhhhh!!! Noooooooahh, no, no,[r]
-nooooooaaaaahhhhh!!!"[pcms]
+[ns]マルガリータ[nse]
+「ひぃっ、いっ、い…………いやああああぁぁぁぁっ！！！[r]
+　いやああああぁ、いや、いや、いやああああああっ！！」[pcms]
 
 ;//HEV055c
 ;//白フラ３発
@@ -585,51 +594,52 @@ nooooooaaaaahhhhh!!!"[pcms]
 
 *497|
 [fc]
-The sensation of her womb being filled with tainted fluid[r]
-made Margarita cry out in agony.[pcms]
+胎内を、穢れた体液が満たす感覚に、[r]
+マルガリータは悲痛な叫びを上げた。[pcms]
 
 ;//HEV055d
 [evcg storage="HEV055d"][trans_c cross time=300]
 
 *498|
 [fc]
-Her continuous screams gradually descended into sobs.[pcms]
+途切れない叫びは、次第に下降して、嗚咽に変わる。[pcms]
 
 *499|
 [fc]
 [vo_mar s="maru1400"]
-[ns]Margarita[nse]
-"Noooooahh... uuuuhh... why... why must I suffer like[r]
-this...!?"[pcms]
+[ns]マルガリータ[nse]
+「いやああぁ……うううっ……こんな……っ、[r]
+　どうして、ワタシが……、こんな目に……っ！？」[pcms]
 
 ;mm差分合わない 挿入男カット
 ;	*500|
-; Despairing groans from Margarita went unnoticed as the man[r]
-indulging in ejaculation was pushed aside and another man[r]
-covered her. ;[pcms]
+;	絶望に呻くマルガリータは、[r]
+;	射精に耽っていた男が押しのけられ、[r]
+;	別の男が覆い被さってきたことに気づかなかった。[pcms]
 ;
 ;	;//HEV055b
 ;	[evcg storage="HEV055b"][trans_c cross time=300]
 ;
 ;	*501|
-; The sensation of her semen-slicked vaginal passage being[r]
-spread open again made her gasp. ;[pcms]
+;	精液でずるずるになった膣道を再び押し広げられた感覚に、[r]
+;	息を呑む。[pcms]
 ;
 ;	*502|
 ;	[vo_mar s="maru1401"]
-[ns]Margarita[nse]
-; "...haah haah... again? Enough already... stop it, don't[r]
-come any closer ahhh...!"[pcms]
+;	[ns]マルガリータ[nse]
+;	「……はぁはぁ……っ、ま、また……？[r]
+;	　もう、やめろ……やめてくれ、来るなあぁ……っ！」[pcms]
 ;
 ;	*503|
-[ns]Infected Man F[nse]
-; "Hah... haaah, it's so slippery... foreign pussy is so[r]
-slick and tight... uoooohh...!"[pcms]
+;	[ns]感染者・男Ｆ[nse]
+;	「っは……はぁ、う、ぬるぬるだぁっ……[r]
+;	　外人マンコ、ずるずるで……[r]
+;	　締めつけもすげえっ……うおおっ……！」[pcms]
 ;
 ;	*504|
 ;	[vo_mar s="maru1402"]
-[ns]Margarita[nse]
-; "Stop... ah, ahuuuuuu!"[pcms]
+;	[ns]マルガリータ[nse]
+;	「や、め……っ、あっ、あうぅぅぅぅっ！」[pcms]
 
 ;//　Ｃ：開脚している両足にも取りつく感染者。
 ;//　　　一人はニーソックスにチンコ挿入。
@@ -643,64 +653,63 @@ slick and tight... uoooohh...!"[pcms]
 
 *505|
 [fc]
-While being violated, Margarita felt an odd sensation[r]
-elsewhere on her body and let out a breath of confusion.[pcms]
+凌辱されながら、身体の別のところに違和感を覚えて、[r]
+マルガリータは困惑の息をこぼす。[pcms]
 
 *506|
 [fc]
-If she looked, another man had inserted his genitals into[r]
-her knee-socks and yet another was rubbing his filthy cock[r]
-against the smooth back of her knees.[pcms]
+見れば、別の男がニーソックスに性器を挿し込み、[r]
+更に別の男がマルガリータのしなやかな膝の裏側に、[r]
+垢染みた男根をこすりつけていた。[pcms]
 
 *507|
 [fc]
 [vo_mar s="maru1403"]
-[ns]Margarita[nse]
-"Uuuuh! It feels... disgusting, stop it... ehh!"[pcms]
+[ns]マルガリータ[nse]
+「うぅぅっ！　き、気持ち……悪いぃっ、やめて……ぇっ！」[pcms]
 
 *508|
 [fc]
-[ns]Infected Man C[nse]
-"Hah... hah... this side is good too... so smooth and[r]
-firm... inside the knee- socks, it feels so good...!"[pcms]
+[ns]感染者・男Ｃ[nse]
+「っは……はぁっ……こっちも、いいっ……すべすべで、[r]
+　張りがあって……ニーソの中、気持ちいいっ……！」[pcms]
 
 *509|
 [fc]
-[ns]Infected Man G[nse]
-"Uha, ohah... these thighs are so plump... it's like I'm[r]
-getting a titjob... ooh, ooh...!!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「うはっ、おはっ……太腿、もちもちだぁっ……[r]
+　まるで、パイズリしてるみてえっ……[r]
+　おお、おおうっ……！！」[pcms]
 
 *510|
 [fc]
 [vo_mar s="maru1404"]
-[ns]Margarita[nse]
-"Enough... I can't take it anymore... please... let me go...[r]
-please, I beg you!"[pcms]
+[ns]マルガリータ[nse]
+「もう……もう、耐えられな、い……っ、[r]
+　お願いだっ……放して……く、れ……っ、お願いだからっ！」[pcms]
 
 *511|
 [fc]
-Margarita, frightened by the abnormally extreme actions of[r]
-the infected, weakly resists with her words.[pcms]
+感染者たちの異常極まりない行為に、マルガリータは怯え、[r]
+言葉で弱々しく抵抗する。[pcms]
 
 
 ;mm差分合わない 挿入男カット
 ;	*512|
-; The man who had wedged himself between her legs suddenly[r]
-quickened his rhythm.[pcms]
+;	その脚のあいだに身体を押しこんだ男が、突如律動を早めた。[pcms]
 ;
 ;	*513|
 ;	[vo_mar s="maru1405"]
-[ns]Margarita[nse]
-; "Hii!? No, nooo! Don't... don't defile me anymore...[r]
-please!"[pcms]
+;	[ns]マルガリータ[nse]
+;	「ひぅっ！？　い、いやっ！　いやだぁっ！[r]
+;	　これ以上……ワタシを汚さないで、くれ……っ！」[pcms]
 ;
 ;	*514|
-; Realizing what that reaction meant from her previous[r]
-experience, Margarita violently shook her head.[pcms]
+;	さっきの経験から、その反応の意味を悟って、[r]
+;	マルガリータは激しくかぶりを振る。[pcms]
 ;
 ;	*515|
-; But the man, as if not hearing her at all, continued to[r]
-shake in silence.[pcms]
+;	だが男はまるで聞き入れず、無言のまま身を震わせた。[pcms]
 ;
 ;	[se buf=0 storage="se_sex01"]
 ;	[evcg射精フラ storage="HEV055f"]
@@ -711,26 +720,28 @@ shake in silence.[pcms]
 *516|
 [fc]
 [vo_mar s="maru1406"]
-[ns]Margarita[nse]
-"Kuuuuh...!! Not that... not inside me...! Uuuuh..."[pcms]
+[ns]マルガリータ[nse]
+「くぅぅぅーーーーっ……！！[r]
+　そんな……そんなものをっ、ワタシの中に……っ！[r]
+　ううぅぅ……っ」[pcms]
 
 ;mm差分合わない 挿入男カット
 ;	*517|
-; Once again, the sensation of hot, disgusting fluid[r]
-bursting inside her made the girl moan.[pcms]
+;	またしても膣の中に爆ぜる、熱く気色の悪い感触に、[r]
+;	少女は呻く。[pcms]
 
 
 *518|
 [fc]
-[ns]Infected Man C[nse]
-"Hah, hah, kuhah... I'm going to cum too... I'll spray lots[r]
-of semen inside the knee-socks...!!"[pcms]
+[ns]感染者・男Ｃ[nse]
+「はっ、はぁっ、くはっ……ぼ、僕もイくっ……[r]
+　ニーソの中に、いっぱい精液、ぶっかけるうっ……！！」[pcms]
 
 *519|
 [fc]
-[ns]Infected Man G[nse]
-"Hau, hauh... then, me too... I'll cover the back of your[r]
-knees with semen... ohf!!"[pcms]
+[ns]感染者・男Ｇ[nse]
+「はう、はうっ……じゃ、お、オレもっ……[r]
+　膝の裏、ザーメンまみれにしてやるっ……おふっ！！」[pcms]
 
 
 [se buf=0 storage="se_sex01"]
@@ -739,37 +750,38 @@ knees with semen... ohf!!"[pcms]
 
 *520|
 [fc]
-As the two men who had been toying with Margarita's body[r]
-declared their intent, they almost simultaneously reached[r]
-climax.[pcms]
+マルガリータの身体を[r]
+好きなように弄んでいたふたりが宣言すると、[r]
+ほぼ同時に絶頂を迎えた。[pcms]
 
 *521|
 [fc]
-The overly discharged semen, now watery, began to defile the[r]
-girl's beautiful legs.[pcms]
+出し過ぎて水っぽくなった精液が、[r]
+少女の美しい脚を汚していく。[pcms]
 
 *522|
 [fc]
 [vo_mar s="maru1407"]
-[ns]Margarita[nse]
-"Uuh, uhh... stop it... uhh, uhh, uuuuh..."[pcms]
+[ns]マルガリータ[nse]
+「ううっ、う……っ、やめ……ろぉ……っ……。[r]
+　……うっ、うっ、ううぅ……っ」[pcms]
 ;//＠泣きが入る
 
 *523|
 [fc]
-Even the strong-willed Margarita had reached her limit.[pcms]
+気丈なマルガリータでも、もはや限界だった。[pcms]
 
 *524|
 [fc]
-Sobs welled up. The corners of her eyes grew hot, and tears[r]
-fell like droplets.[pcms]
+嗚咽が込みあげる。[r]
+目頭が熱くなり、涙が雫となってこぼれ落ちた。[pcms]
 
 *525|
 [fc]
 [vo_mar s="maru1408"]
-[ns]Margarita[nse]
-"Uhh, uhh, stop it, please stop... uuuuh. Stop it...[r]
-stop..."[pcms]
+[ns]マルガリータ[nse]
+「うっ、うっ、や……め……ろ、やめて……くれ……っ、[r]
+　ううぅ……っ。やめ……ろ……っ、やめ……っ……」[pcms]
 
 ;//Ａ：泣きながら、止めろ・・・！と言い続けるマル
 ;//HEV055g
@@ -777,19 +789,20 @@ stop..."[pcms]
 
 *526|
 [fc]
-She flailed her arms weakly while crying.[pcms]
+号泣しながら、力なく腕を振り回す。[pcms]
 
 
 *527|
 [fc]
-Ignoring her plight, another new man thrust his erect member[r]
-into Margarita's semen-covered vagina.[pcms]
+そんな彼女にお構いなく、[r]
+また新しい男がいきり立ったものを[r]
+マルガリータの、精液まみれになった膣に押しこむ。[pcms]
 
 *528|
 [fc]
 [vo_mar s="maru1409"]
-[ns]Margarita[nse]
-"Uuh, uuuuuh! No more... please stop..."[pcms]
+[ns]マルガリータ[nse]
+「ううっ、ううううぅっ！　も、もう……っ、やめて……ぇっ」[pcms]
 
 ;mm 差分がアナル挿入のあとマンコでテキストと逆だわ 仕方ないから二本差しはる
 
@@ -800,26 +813,25 @@ into Margarita's semen-covered vagina.[pcms]
 
 *529|
 [fc]
-[ns]Infected Man E[nse]
-"Hey there... there's another hole available here... I'll be[r]
-using this one..."[pcms]
+[ns]感染者・男Ｅ[nse]
+「おぉい……こっちにも空いてる穴があるぞぉ……[r]
+　おいらはこっちを使わせてもらうぞぉ……」[pcms]
 
 *530|
 [fc]
 [vo_mar s="maru1410"]
-[ns]Margarita[nse]
-"Ugh!? You bastards, what are you...!?"[pcms]
+[ns]マルガリータ[nse]
+「うっ！？　き、貴様ら、な、何を……っ！？」[pcms]
 ;//＠尻をひろげられた
 
 *531|
 [fc]
-As she was lifted up and felt her butt cheeks being spread[r]
-apart, Margarita became agitated.[pcms]
+身体を抱え上げられ、尻肉を押し広げられる感覚に、[r]
+マルガリータは動揺する。[pcms]
 
 *532|
 [fc]
-Suddenly realizing what was about to happen, she felt the[r]
-blood drain from her head.[pcms]
+忽然とその意味を悟り、彼女は頭から血の気が引くのを感じた。[pcms]
 
 ;//Ｄ：今度はアナルにも挿入を喰らうマル
 
@@ -829,9 +841,9 @@ blood drain from her head.[pcms]
 *533|
 [fc]
 [vo_mar s="maru1411"]
-[ns]Margarita[nse]
-"You can't be serious!? Stop it!! Stop... guaaaaaaah,[r]
-agiiiiiiii-----!!"[pcms]
+[ns]マルガリータ[nse]
+「ま、まさかっ！？　やめろぉぉっ！！　やめ……っ、[r]
+　ぐあああああっ、あ、あぎぃぃぃぃぃぃーーーーーっ！！」[pcms]
 
 ;mm 差分ないから赤フラだけ
 [se buf=0 storage="se_sex01"]
@@ -839,8 +851,8 @@ agiiiiiiii-----!!"[pcms]
 
 *534|
 [fc]
-A man's rough genitals were forced into an orifice meant for[r]
-excretion.[pcms]
+本来、排泄するための穴に[r]
+男のゴツゴツとした生殖器がねじ込まれる。[pcms]
 
 
 ;//HEV055i
@@ -848,25 +860,26 @@ excretion.[pcms]
 
 *535|
 [fc]
-The pain was more intense than when she lost her virginity;[r]
-the girl's eyes rolled back in agony.[pcms]
+処女を喪失した瞬間を超える激烈な痛みに、[r]
+少女は白目を剥いた。[pcms]
 
 *536|
 [fc]
 [vo_mar s="maru1412"]
-[ns]Margarita[nse]
-"...kahah... ah... i... ah..., no... I don't want this...[r]
-stop it..., ah, uuuuh..."[pcms]
+[ns]マルガリータ[nse]
+「……かはあっ………あ、あ……ぃ…………あ…………、[r]
+　や……いや、だ……ぁ、や、め……て……、[r]
+　……あっ、ぅぅ……っ」[pcms]
 
 *537|
 [fc]
-In shock and pain, barely conscious, Margarita resisted with[r]
-the last of her rationality.[pcms]
+ショックと痛みで、ほとんど意識を喪失しながらも、[r]
+最後の理性でマルガリータは抵抗する。[pcms]
 
 *538|
 [fc]
-The men didn't care and equally violated both her front and[r]
-back holes.[pcms]
+男たちはお構いなしに、[r]
+前の穴にも後ろの穴にも等しく凌辱を加えた。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV055i"]
@@ -876,13 +889,13 @@ back holes.[pcms]
 *539|
 [fc]
 [vo_mar s="maru1413"]
-[ns]Margarita[nse]
-"Uuuuuh..., uaaaah..., aaaaahhhhhh..."[pcms]
+[ns]マルガリータ[nse]
+「うぅぅ…………、うああぁ……っ、あああぁぁぁぁぁ……っ」[pcms]
 
 *540|
 [fc]
-Not only her vagina but also her rectum was filled with[r]
-filthy fluid, and Margarita let out a hoarse scream.[pcms]
+膣だけでなく、直腸にも汚液を流しこまれ、[r]
+マルガリータは掠れた悲鳴をほとばしらせる。[pcms]
 
 ;mm この差分使われて無かった
 [evcg storage="HEV055m"][trans_c cross time=300]
@@ -891,26 +904,25 @@ filthy fluid, and Margarita let out a hoarse scream.[pcms]
 *541|
 [fc]
 [vo_mar s="maru1414"]
-[ns]Margarita[nse]
-"...no more... I can't take it... just kill me... please[r]
-kill me..."[pcms]
+[ns]マルガリータ[nse]
+「……も、もう…………い、や……だ……っ、[r]
+　いっそ…………殺せ…………殺して、く……れ……っ」[pcms]
 
 ;//Ａ：もうやだ、殺して欲しい・・・
 
 *542|
 [fc]
-Her frayed rationality made her utter words of despair.[pcms]
+すり切れた理性が、絶望的な言葉をマルガリータに口走らせた。[pcms]
 
 *543|
 [fc]
-But even that small mercy was not granted by the infected to[r]
-her.[pcms]
+だが、そんなささやかな救いさえ、感染者は彼女に許さない。[pcms]
 
 *544|
 [fc]
 [vo_mar s="maru1415"]
-[ns]Margarita[nse]
-"...agiiiiiiih, iiiit...!!"[pcms]
+[ns]マルガリータ[nse]
+「……あぎぃぃぃっ、いっ…………っ！！」[pcms]
 
 
 ;mm 差分ないから赤フラだけ
@@ -919,13 +931,11 @@ her.[pcms]
 
 *545|
 [fc]
-Once again, both her vagina and anus were simultaneously[r]
-penetrated by cocks.[pcms]
+またしても、膣と肛門、同時に肉棒を突きこまれる。[pcms]
 
 *546|
 [fc]
-Her well-trained abdominal muscles spasmed as Margarita[r]
-roared in anguish.[pcms]
+鍛えあげた腹筋を痙攣させ、マルガリータは咆哮した。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -946,16 +956,17 @@ roared in anguish.[pcms]
 
 *547|
 [fc]
-While staring at the sight of his senior being brutally[r]
-violated, I ejaculated again.[pcms]
+壮絶な凌辱を受ける先輩の姿を凝視しながら、[r]
+ボクはまたしても射精する。[pcms]
 
 *548|
 [fc]
-I couldn't remember how many times I had done so.[pcms]
+もう何度放ったのか、覚えていなかった。[pcms]
 
 *549|
 [fc]
-It's all over. Both for me and my senior...[pcms]
+……もう、駄目だ。[r]
+ボクも……先輩も……。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -966,12 +977,12 @@ It's all over. Both for me and my senior...[pcms]
 
 *550|
 [fc]
-How much time has passed since then?[pcms]
+……あれから、どのくらいの時間が経ったのだろう。[pcms]
 
 *551|
 [fc]
-A dull pain ran through my groin, and my nearly extinguished[r]
-rationality suddenly revived.[pcms]
+ずきん、と股間に走る鈍い痛みに、[r]
+ほとんどすり切れていたボクの理性が、突然蘇った。[pcms]
 
 ;//〆ＨＥＶ０４５
 ;//　Ｃ：Ａの夜差分
@@ -984,42 +995,42 @@ rationality suddenly revived.[pcms]
 *552|
 [fc]
 [vo_mob s="tomomi0059"]
-[ns]The Girl with Red Eyes[nse]
-"Hyaha! Hah, hah, mmmmh... ahah, it feels so good..., hihii,[r]
-mmmh..., it's really good, Kato-kun...!"[pcms]
+[ns]赤い眼の少女[nse]
+「ひゃはっ！　はぁ、はぁ、んんん……っ、あはっ、[r]
+　いいぃ……、はひぃ、ん……っ、[r]
+　すっごく……いいよぉ、カトーくぅん……っ！」[pcms]
 
 *553|
 [fc]
-The girl with red eyes continued to ride on top of me[r]
-without tiring, swinging her hips.[pcms]
+赤い眼をした少女は飽きもせず、[r]
+ボクの上に乗り、腰を振っている。[pcms]
 
 *554|
 [fc]
-My penis constricted in her vagina as if pulsating with[r]
-ejaculation. Yet I felt not even a drop seeping out anymore.[pcms]
+膣に絞られた陰茎が、射精のときのように脈打っていた。[r]
+なのに、もう雫さえにじんだ気がしない。[pcms]
 
 *555|
 [fc]
 [vo_mob s="tomomi0060"]
-[ns]The Girl with Red Eyes[nse]
-"My pussy is full..., full of Kato-kun's..., hyahahaha, it[r]
-feels so good! Ahin!"[pcms]
+[ns]赤い眼の少女[nse]
+「おまんこ、いっぱい……、カトーくんの、いっぱい……っ、[r]
+　ひゃははははっ、気持ち、いい～っ！　あひんっ！」[pcms]
 
 *556|
 [fc]
-I couldn't even begin to grasp the situation as my head[r]
-wouldn't work. All strength had left my body; I couldn't[r]
-move even a fingertip.[pcms]
+現状を把握しようにも、頭が働かなかった。[r]
+身体中の力が抜けて、指先ひとつも動かせない。[pcms]
 
 *557|
 [fc]
-...This body is no longer of any use. A terrifying[r]
-premonition sent a chill down my spine.[pcms]
+……この肉体は、もう、使い物にならない。[r]
+恐ろしい予感が、ボクの背筋に冷たいものを走らせた。[pcms]
 
 *558|
 [fc]
-It seems that the only thing I can move properly is my head.[r]
-Somehow, I managed to tilt my neck to peek at Senior Maruko.[pcms]
+どうやら、まともに動かせるのは首から上だけらしい。[r]
+何とか首を傾けて、マル子先輩のほうを窺った。[pcms]
 
 ;//〆ＨＥＶ０４６
 ;//　Ｅ：ＡＶ同時＋あしこきでもみくちゃのマル
@@ -1029,16 +1040,17 @@ Somehow, I managed to tilt my neck to peek at Senior Maruko.[pcms]
 *559|
 [fc]
 [vo_mar s="maru1416"]
-[ns]Margarita[nse]
-"Hih, hinn! Ahuahaa, ahhn! C-coming, isn't it...? More[r]
-semen...!"[pcms]
+[ns]マルガリータ[nse]
+「ひっ、ひんっ！　あふああぁっ、あぁんっ！[r]
+　く、来るのだな……？　また、ザーメンが……っ！」[pcms]
 
 *560|
 [fc]
 [vo_mar s="maru1417"]
-[ns]Margarita[nse]
-"Dirty me! More and more, me...! ...My vagina and anus...[r]
-everything! Smear me with it, cover me...!!"[pcms]
+[ns]マルガリータ[nse]
+「汚してくれっ！　もっともっと、ワタシを……っ！[r]
+　……ヴァギナもアヌスも……っ、何もかもっ！[r]
+　べたべたに、汚して……っ、かけてくれ……っ！！」[pcms]
 
 
 ;//HEV055l
@@ -1051,40 +1063,41 @@ everything! Smear me with it, cover me...!!"[pcms]
 *561|
 [fc]
 [vo_mar s="maru1418"]
-[ns]Margarita[nse]
-"Nnkkhaaaaaaaa-----nnn!!"[pcms]
+[ns]マルガリータ[nse]
+「んっくはああぁぁぁぁぁーーーーーんんっ！！」[pcms]
 ;//＠ここで射精された
 
 *562|
 [fc]
-...Senior.[pcms]
+…………先輩。[pcms]
 
 *563|
 [fc]
-Senior Maruko was completely infected.[pcms]
+マル子先輩は完全に感染していた。[pcms]
 
 *564|
 [fc]
-Perhaps, that was a blessing in disguise.[pcms]
+もしかしたら、それは不幸中の幸いなのかも知れない。[pcms]
 
 *565|
 [fc]
-Her body drenched in semen, she chokes in ecstasy.[pcms]
+肢体をどろどろにして、[r]
+更に新鮮な精液を浴び、歓喜にむせんでいる。[pcms]
 
 ;//〆背景黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *566|
 [fc]
-Sensation is being stretched thin and fine.[pcms]
+感覚が、細く細く引き延ばされていく。[pcms]
 
 *567|
 [fc]
-Stretched towards the void.[pcms]
+虚空に向かって、引き延ばされていく。[pcms]
 
 *568|
 [fc]
-And then, it snapped.[pcms]
+それが、ぷつり、と切れた。[pcms]
 
 ;//〆ＨＥＶ０４５
 ;//Ｃ：Ａの夜差分
@@ -1096,64 +1109,64 @@ And then, it snapped.[pcms]
 *569|
 [fc]
 [vo_mob s="tomomi0064"]
-[ns]The Girl with Red Eyes[nse]
-"Nn... nfu, hafuun, nnnnn..."[pcms]
+[ns]赤い眼の少女[nse]
+「ん……っ、んふっ、はふぅぅぅん、んんんっ……」[pcms]
 
 *570|
 [fc]
-...Again, that girl is shaking her ass on top of me.[pcms]
+……また、あの娘が、ボクの上で尻を振っている。[pcms]
 
 *571|
 [fc]
 [vo_mob s="tomomi0065"]
-[ns]The Girl with Red Eyes[nse]
-"Hey... hey, come on... give it to me... your hot stuff, I[r]
-want it..."[pcms]
+[ns]赤い眼の少女[nse]
+「ねぇ……ねぇってばぁ……出してよぉ……っ、[r]
+　カトーくんの、あっついの、ちょうだいってばぁ……」[pcms]
 
 *572|
 [fc]
-...It's impossible now.[pcms]
+……もう、無理だよ。[pcms]
 
 *573|
 [fc]
-Even if I tried to respond, no voice came out.[pcms]
+応えようとしても声が出なかった。[pcms]
 
 *574|
 [fc]
-...In the end, I couldn't save anyone.[pcms]
+……ボクは……結局、誰も助けられなかった。[pcms]
 
 *575|
 [fc]
-I wonder if Ren is safe.[pcms]
+漣は……無事だろうか。[pcms]
 
 *576|
 [fc]
-I hope she hasn't gone through something like this.[pcms]
+あんな目に遭っていないと、いいんだけど。[pcms]
 
 *577|
 [fc]
-...Yuuho... Yuuho...[pcms]
+……悠帆……。悠帆……。[pcms]
 
 *578|
 [fc]
-...If I'm going to get infected and broken anyway... I would[r]
-have preferred it to be quick... with Yuuho...[pcms]
+…………どうせ感染して、壊れてしまうなら…………、[r]
+ひと思いに…………悠帆と……したかっ……………………。[pcms]
 
 *579|
 [fc]
-...[pcms]
+……………………………………………………。[pcms]
 
 *580|
 [fc]
-...Sorry, everyone...[pcms]
+……ごめん、みんな………………。[pcms]
 
 *581|
 [fc]
-...Sorry...[pcms]
+…………………………ごめん……。[pcms]
 
 *582|
 [fc]
-...[pcms]
+…………。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1162,18 +1175,17 @@ have preferred it to be quick... with Yuuho...[pcms]
 
 *583|
 [fc]
-The hardness inside the vagina rapidly deflated.[pcms]
+硬かったものが、膣の中で、急速に萎えていく。[pcms]
 
 *584|
 [fc]
-The girl placed a finger on her lips, snorted through her[r]
-nose, and muttered discontentedly.[pcms]
+少女は口許に指を置くと、鼻を鳴らし、不満げに呟いた。[pcms]
 
 *585|
 [fc]
 [vo_mob s="tomomi0066"]
-[ns]Red-Eyed Girl[nse]
-"...Is it over already? Boring..."[pcms]
+[ns]赤い眼の少女[nse]
+「……もう、おしまいなの？　つまんない……」[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -1185,7 +1197,7 @@ nose, and muttered discontentedly.[pcms]
 ;//---------------------------------------------------------------
 
 [gameover time=0 movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 
 

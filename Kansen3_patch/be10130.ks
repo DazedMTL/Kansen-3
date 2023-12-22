@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10130_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 
 ;mm ↓誰かが感染してる場合f.l_unlockが成立させられないので、当ブロックまで到達できず（BE10080.ksからBE30000.ks系エンドに行ってしまう）、このブロックは理論上踏めない
@@ -16,298 +16,296 @@
 
 *979|
 [fc]
-Maruko-senpai was dead, her eyes rolled back and blood[r]
-flowing from her mouth.[pcms]
+マル子先輩は白目をむき、口から血を流して死んでいた。[pcms]
 
 *980|
 [fc]
-Her body was left with the brutal marks of violation.[pcms]
+身体中に、陵辱された無惨な跡が残っている。[pcms]
 
 *981|
 [fc]
-Maruko-senpai, who was so strong... she was no match for[r]
-those men...[pcms]
+あんなに強かったマル子先輩が……[r]
+男たちなんて、目じゃなかったのに……。[pcms]
 
 ;//♂：この段階では呼び名は先輩かもしれません
 
 *982|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry, Maruko-senpai..."[pcms]
+[ns]航[nse]
+「ごめん、マル子先輩……」[pcms]
 
 [bg storage="BG019c"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
 
 *983|
 [fc]
-I didn't know what to say to apologize to everyone.[pcms]
+ボクはみんなになんと言って謝ればいいのかわからなかった。[pcms]
 
 *984|
 [fc]
-Maybe...[pcms]
+もしかしたら……。[pcms]
 
 *985|
 [fc]
-I thought she might have been roughed up by the men, but I[r]
-never imagined they would kill her...[pcms]
+男たちに乱暴されているかもしれないと思ったけれど、[r]
+まさか殺してしまうなんて……。[pcms]
 
 *986|
 [fc]
-A short distance from the mattress, Jin-san's body was lying[r]
-there.[pcms]
+マットレスから少し離れた位置には[r]
+壬さんの死体が転がっていた。[pcms]
 
 *987|
 [fc]
-Was it infighting?[pcms]
+仲間割れだろうか。[pcms]
 
 *988|
 [fc]
-If Jin-san had been the boss, maybe this wouldn't have[r]
-happened...[pcms]
+壬さんがボスだったら、こんなことには[r]
+ならなかったのかもしれない……。[pcms]
 
 *989|
 [fc]
-I don't know the circumstances, but maybe he was protecting[r]
-everyone.[pcms]
+事情はわからないけれど、みんなをかばってくれたのかも。[pcms]
 
 *990|
 [fc]
-And then, he got shot by someone like Shigeyoshi...[pcms]
+それで、重吉とかに撃たれて……。[pcms]
 
 *991|
 [fc]
 [vo_yuh s="yuho_BE0001"]
-[ns]Yuuho[nse]
-"Ugh..."[pcms]
+[ns]悠帆[nse]
+「うっ…………」[pcms]
 
 *992|
 [fc]
-[ns]Wataru[nse]
-"Yuuho? Yuuho! Hang in there!"[pcms]
+[ns]航[nse]
+「悠帆っ？　悠帆！　しっかり！」[pcms]
 
 *993|
 [fc]
-I felt like Yuuho just moved a little.[pcms]
+今、悠帆が少し動いた気がした。[pcms]
 
 *994|
 [fc]
-She's alive!? Is Yuuho alive!?[pcms]
+生きてる！？　悠帆が生きてる！？[pcms]
 
 [evcg storage="DEV021b"][trans_c cross time=300]
 
 *995|
 [fc]
 [vo_yuh s="yuho_BE0002"]
-[ns]Yuuho[nse]
-"Wa... Wataru?"[pcms]
+[ns]悠帆[nse]
+「わ……航？」[pcms]
 
 *996|
 [fc]
-[ns]Wataru[nse]
-"Yes, it's me, Yuuho..."[pcms]
+[ns]航[nse]
+「そうだよ、ボクだよ悠帆……」[pcms]
 
 *997|
 [fc]
-Yuuho was whispering with a faint voice as if she was on the[r]
-verge of death.[pcms]
+悠帆はもう、事切れる寸前みたいに[r]
+力なく小さな声でつぶやいていた。[pcms]
 
 [evcg storage="DEV021c"][trans_c cross time=300]
 
 *998|
 [fc]
 [vo_yuh s="yuho_BE0003"]
-[ns]Yuuho[nse]
-"Is everyone... okay...?"[pcms]
+[ns]悠帆[nse]
+「みんなは……大丈夫……？」[pcms]
 
 *999|
 [fc]
-Even at a time like this, Yuuho was worried about everyone[r]
-else.[pcms]
+こんなときだっていうのに、[r]
+悠帆はみんなの心配をしてくれていた。[pcms]
 
 *1000|
 [fc]
-I'm sorry... I'm so sorry... Yuuho.[pcms]
+ごめん……ごめん……悠帆。[pcms]
 
 *1001|
 [fc]
-[ns]Wataru[nse]
-"Everyone's here, everyone's here..."[pcms]
+[ns]航[nse]
+「みんな、みんなここにいるよ……」[pcms]
 
 *1002|
 [fc]
 [vo_yuh s="yuho_BE0004"]
-[ns]Yuuho[nse]
-"I see... that's a relief..."[pcms]
+[ns]悠帆[nse]
+「そっかぁ……安心したよ……」[pcms]
 
 *1003|
 [fc]
-[ns]Wataru[nse]
-"Everyone's fine, so you need to hang in there too"[pcms]
+[ns]航[nse]
+「みんな大丈夫だから、悠帆もしっかりしろ」[pcms]
 
 *1004|
 [fc]
-My vision blurred with tears.[pcms]
+目の前が涙でにじむ。[pcms]
 
 *1005|
 [fc]
-I took Yuuho's hand and felt its warmth.[pcms]
+ボクは悠帆の手を取って、その温もりを感じた。[pcms]
 
 *1006|
 [fc]
-She's alive, Yuuho is alive...[pcms]
+生きてる、悠帆は生きてる……。[pcms]
 
 *1007|
 [fc]
 [vo_yuh s="yuho_BE0005"]
-[ns]Yuuho[nse]
-"Let's eat together again with everyone..."[pcms]
+[ns]悠帆[nse]
+「また、みんなでご飯食べようねぇ……」[pcms]
 
 *1008|
 [fc]
-[ns]Wataru[nse]
-"Yeah, you'll have to cook for us again"[pcms]
+[ns]航[nse]
+「うん、また悠帆が作ってくれよ」[pcms]
 
 *1009|
 [fc]
 [vo_yuh s="yuho_BE0006"]
-[ns]Yuuho[nse]
-"Then let's go out to town and live happily like we used[r]
-to..."[pcms]
+[ns]悠帆[nse]
+「そしたら、街に出て昔みたいに楽しく暮らそうね……」[pcms]
 
 *1010|
 [fc]
-[ns]Wataru[nse]
-"Yeah... yeah..."[pcms]
+[ns]航[nse]
+「うん……うん……」[pcms]
 
 *1011|
 [fc]
 [vo_yuh s="yuho_BE0007"]
-[ns]Yuuho[nse]
-"I want to go to the planetarium with Wataru again..."[pcms]
+[ns]悠帆[nse]
+「航と一緒に、またプラネタリウム行きたいな……」[pcms]
 
 *1012|
 [fc]
-[ns]Wataru[nse]
-"Let's go, definitely... to the planetarium..."[pcms]
+[ns]航[nse]
+「行こう、必ず……プラネタリウムに……」[pcms]
 
 *1013|
 [fc]
 [vo_yuh s="yuho_BE0008"]
-[ns]Yuuho[nse]
-"But... I want to see... the real... starry sky..."[pcms]
+[ns]悠帆[nse]
+「でも……ホントの……星空……見て……」[pcms]
 
 *1014|
 [fc]
-[ns]Wataru[nse]
-"We'll go see the starry sky too, Yuuho, let's go"[pcms]
+[ns]航[nse]
+「星空も見に行こうっ、悠帆っ、行こうなっ」[pcms]
 
 *1015|
 [fc]
 [vo_yuh s="yuho_BE0009"]
-[ns]Yuuho[nse]
-"I'm sorry... Wataru..."[pcms]
+[ns]悠帆[nse]
+「ごめんね……航……」[pcms]
 
 *1016|
 [fc]
-[ns]Wataru[nse]
-"Yuuho! Yuuho!"[pcms]
+[ns]航[nse]
+「悠帆っ！　悠帆っ！」[pcms]
 
 *1017|
 [fc]
-[ns]Wataru[nse]
-"Yuuho-!"[pcms]
+[ns]航[nse]
+「悠帆ーっ！」[pcms]
 
 [evcg storage="DEV021d"][trans_c cross time=300]
 
 *1018|
 [fc]
-The hand of Yuuho that I was gripping went limp and fell.[pcms]
+握りしめた悠帆の手が、くたっと力なく垂れ下がった。[pcms]
 
 *1019|
 [fc]
-No, Yuuho, why, Yuuho.[pcms]
+駄目だ、悠帆、なんで、悠帆っ。[pcms]
 
 *1020|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... you can't be serious..."[pcms]
+[ns]航[nse]
+「悠帆……嘘だろ……」[pcms]
 
 *1021|
 [fc]
-Yuuho's eyes were closed.[pcms]
+悠帆の目が閉じられていた。[pcms]
 
 *1022|
 [fc]
-In her face that had suffered terrible indignities, there[r]
-was somehow a look of peace.[pcms]
+酷い陵辱を受けたその表情には、[r]
+なぜか安らぎの色が浮かんでいる。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1023|
 [fc]
-I collapsed on the spot.[pcms]
+ボクはその場にくずおれた。[pcms]
 
 *1024|
 [fc]
-An inaudible scream echoed deep within my chest.[pcms]
+声にならない叫びが、胸の奥に木霊している。[pcms]
 
 *1025|
 [fc]
-Why did it come to this...[pcms]
+どうしてこんなことに……。[pcms]
 
 *1026|
 [fc]
-Just a few days ago, we were all living normally.[pcms]
+ほんの数日前まで、みんな普通に暮らしていたのに。[pcms]
 
 *1027|
 [fc]
-Why...[pcms]
+どうして……。[pcms]
 
 *1028|
 [fc]
-Everyone is dead.[pcms]
+みんな死んでしまった。[pcms]
 
 *1029|
 [fc]
-It's strange that I'm the only one alive.[pcms]
+ボクだけ生きているなんて、なんかおかしい。[pcms]
 
 *1030|
 [fc]
-There's no point in living anymore, I'd rather go to heaven[r]
-with everyone else.[pcms]
+これから生きていく意味もないし、[r]
+どうせならみんなと一緒に天国へ行きたい。[pcms]
 
 *1031|
 [fc]
-I slowly got up, took out a gun, and pressed it against my[r]
-temple.[pcms]
+ボクはのろのろと起きあがると、[r]
+銃を取り出してそれをこめかみに当てた。[pcms]
 
 *1032|
 [fc]
-I want to die.[pcms]
+死にたい。[pcms]
 
 *1033|
 [fc]
-I want to die and be at peace.[pcms]
+死んで楽になりたい。[pcms]
 
 *1034|
 [fc]
-That way, I'll be freed from this pain and sorrow.[pcms]
+そうすれば、こんな苦しみからも悲しみからも[r]
+解放される。[pcms]
 
 *1035|
 [fc]
-When I get to heaven, I'll meet everyone.[pcms]
+天国に着いたらみんなに会おう。[pcms]
 
 *1036|
 [fc]
-Let's spend our time together happily.[pcms]
+一緒に楽しくすごそう。[pcms]
 
 *1037|
 [fc]
-Goodbye.[pcms]
+さよなら。[pcms]
 
 *1038|
 [fc]
-My worst life.[pcms]
+ボクの最低の人生。[pcms]
 
 ;//いの　演出上順番をいれかえますた
 
@@ -323,5 +321,5 @@ My worst life.[pcms]
 ;//●ゲームオーバー
 [gameover movie="ending.mpg"]
 
-(returntitle)[pcms]
+[returntitle][s]
 

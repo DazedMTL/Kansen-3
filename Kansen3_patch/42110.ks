@@ -1,17 +1,17 @@
 ;//block:C012
-;//ブロック４２１１０『地下道漣のみ脱出編』
+;//ブロック４２１１０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42100.txtから
 
 *42110_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣・姦染悠帆
 ;//時間帯：
 ;//・テキスト容量：３K前後
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ３　３１：出る
+;//●選択肢Ｃ－３　３－１：出る
 
 ;//SE・バイブ音（前のファイル、42100から継続中）
 
@@ -23,224 +23,235 @@
 
 *5508|
 [fc]
-I operate my phone with trembling hands.[pcms]
+ボクは震える手でケータイを操作する。[pcms]
 
 *5509|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5510|
 [fc]
-[ns]Wataru[nse]
-"Hello... hello..."[pcms]
+[ns]航[nse]
+「……もしもし……」[pcms]
 
 *5511|
 [fc]
-While gripping the phone with shaking hands, I speak. I feel[r]
-as if my heart might leap out of my mouth along with my[r]
-words.[pcms]
+ボクは震える手でケータイを握りながら、話しかける。[r]
+言葉と一緒に、心臓が口から飛び出してしまうんじゃないかと[r]
+思ってしまう。[pcms]
 
 *5512|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5513|
 [fc]
-But no reply comes.[pcms]
+だけど、返事は返ってはこない。[pcms]
 
 *5514|
 [fc]
-[ns]Wataru[nse]
-"Hello... hello..."[pcms]
+[ns]航[nse]
+「……もしもし……」[pcms]
 
 *5515|
 [fc]
-Suppressing my trembles, I try speaking again. But still,[r]
-there's no response.[pcms]
+震えを押し殺すように、もういちど話しかけてみる。[r]
+だけど、やっぱり声は返ってこない。[pcms]
 
 *5516|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5517|
 [fc]
-...It must be someone crazy messing around or something...[pcms]
+……やっぱり、おかしくなった人が[r]
+いじくるか、なんかしてるだけなんだ……。[pcms]
 
 *5518|
 [fc]
-I try to press the button to end the call with a trembling[r]
-finger.[pcms]
+ボクは震える指で通話を切ろうとボタンを押そうとする。[pcms]
 
 *5519|
 [fc]
-At that moment...[pcms]
+その時……[pcms]
 
 *5520|
 [fc]
 [vo_yuh s="yuho0709"]
 [ns]？？？[nse]
-"...Wataru..."[pcms]
+「……わたる……」[pcms]
 ;//＠　姦染悠帆　電話越し　ぼそぼそ声
 
 *5521|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!? Is that you, Yuuho!?"[pcms]
+[ns]航[nse]
+「悠帆！？　悠帆なのか！？」[pcms]
 
 *5522|
 [fc]
-I was certain it was Yuuho's voice.[pcms]
+それは間違いなく悠帆の声だとボクは思った。[pcms]
 
 *5523|
 [fc]
-It was a bit faint and hard to make out, and it sounded a[r]
-bit drawn out... but I was sure it was Yuuho's voice.[pcms]
+少し小さくて聞きとり難くて、[r]
+少し間延びしたようにも聞こえたけど……。[r]
+それは間違いなく悠帆の声だって。[pcms]
 
 *5524|
 [fc]
 [vo_yuh s="yuho0710"]
-[ns]Yuuho[nse]
-"...Wataru..."[pcms]
+[ns]悠帆[nse]
+「……わたる……」[pcms]
 
 *5525|
 [fc]
-Once more, a voice calling out to me.[pcms]
+もういちど、ボクを呼ぶ声。[pcms]
 
 *5526|
 [fc]
-Fear and joy are all mixed up in my head... I can't make[r]
-sense of it myself.[pcms]
+ボクは怖いのと、うれしいのが、[r]
+頭の中でぐちゃぐちゃに入り交じってしまって……。[r]
+自分でも……訳がわからない。[pcms]
 
 *5527|
 [fc]
-[ns]Wataru[nse]
-"Are you okay... Yuuho!? Are you alright?"[pcms]
+[ns]航[nse]
+「大丈夫か……悠帆！？[r]
+　大丈夫なのか？」[pcms]
 
 *5528|
 [fc]
 [vo_yuh s="yuho0711"]
-[ns]Yuuho[nse]
-"I'm fine..."[pcms]
+[ns]悠帆[nse]
+「だいじょうぶだよ……」[pcms]
 
 *5529|
 [fc]
-[ns]Wataru[nse]
-"...You sound... okay...?"[pcms]
+[ns]航[nse]
+「……元気……みたいだな……？」[pcms]
 
 *5530|
 [fc]
 [vo_yuh s="yuho0712"]
-[ns]Yuuho[nse]
-"Yeah, I'm really energetic... And... I'm so hungry~"[pcms]
+[ns]悠帆[nse]
+「うんっ、とってもゲンキだよ……。[r]
+　それで……とってもオナカがすいてるの～」[pcms]
 
 *5531|
 [fc]
-[ns]Wataru[nse]
-"...That's so like you, Yuuho... To be hungry even at a time[r]
-like this..."[pcms]
+[ns]航[nse]
+「……悠帆らしいな……。[r]
+　こんな時にまでオナカが空いてるなんて……」[pcms]
 
 *5532|
 [fc]
-It's Yuuho. What she's saying is a bit out of place, but[r]
-it's definitely her.[pcms]
+悠帆だ。[r]
+言ってることは少し場違いだけど、間違いなく悠帆だ。[pcms]
 
 *5533|
 [fc]
 [vo_yuh s="yuho0713"]
-[ns]Yuuho[nse]
-"I'm really hungry... and there's something I really want to[r]
-eat~"[pcms]
+[ns]悠帆[nse]
+「とってもオナカがすいてて……、[r]
+　すごくたべたいものがあるの～」[pcms]
 
 *5534|
 [fc]
-[ns]Wataru[nse]
-"Honestly... I was worried about you... And yet..."[pcms]
+[ns]航[nse]
+「まったく……心配してたんだぞ……。[r]
+　それなのに……」[pcms]
 
 *5535|
 [fc]
-...Yuuho is so carefree...[pcms]
+……悠帆ったら……随分とノンキだな。[pcms]
 
 *5536|
 [fc]
-[ns]Wataru[nse]
-"...So where are you?"[pcms]
+[ns]航[nse]
+「……それでどこにいるんだ？」[pcms]
 
 *5537|
 [fc]
 [vo_yuh s="yuho0714"]
-[ns]Yuuho[nse]
-"...I'm nearby..."[pcms]
+[ns]悠帆[nse]
+「……ちかくにいるよ……」[pcms]
 
 *5538|
 [fc]
-[ns]Wataru[nse]
-"Nearby? Then come here quickly. We have some snacks[r]
-here..."[pcms]
+[ns]航[nse]
+「近く？[r]
+　じゃあ、早くこっちにこいよ。[r]
+　こっちには少しだけどお菓子もあるし……」[pcms]
 
 *5539|
 [fc]
-[ns]Wataru[nse]
-"...!?"[pcms]
+[ns]航[nse]
+「………………！？」[pcms]
 
 *5540|
 [fc]
-I realized that Yuuho was saying something very strange.[pcms]
+ボクは悠帆がすごくおかしなことを言っているのに気がついた。[pcms]
 
 *5541|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... Do you know where we are right now?"[pcms]
+[ns]航[nse]
+「悠帆……。[r]
+　……ボクたちが今どこにいるか知ってるの？」[pcms]
 
 *5542|
 [fc]
 [vo_yuh s="yuho0715"]
-[ns]Yuuho[nse]
-"Yeah... I know..."[pcms]
+[ns]悠帆[nse]
+「うんっ……しってるよ……」[pcms]
 
 *5543|
 [fc]
-[ns]Wataru[nse]
-"...How!?"[pcms]
+[ns]航[nse]
+「……どうして！？」[pcms]
 
 *5544|
 [fc]
-How did Yuuho find out? We hadn't told her that we were[r]
-here. And yet...[pcms]
+どうやって、悠帆は知ったんだろうか？[r]
+ボクたちがここにいることは、悠帆には伝えていない。[r]
+それなのに……。[pcms]
 
 *5545|
 [fc]
-[ns]Wataru[nse]
-"Where... where are you now!?"[pcms]
+[ns]航[nse]
+「い、今……どこに……いるの！？」[pcms]
 
 *5546|
 [fc]
 [vo_yuh s="yuho0716"]
-[ns]Yuuho[nse]
-"...Behind you..."[pcms]
+[ns]悠帆[nse]
+「……うしろ……だよ……」[pcms]
 
 *5547|
 [fc]
-[ns]Wataru[nse]
-"...Eh...?"[pcms]
+[ns]航[nse]
+「……えっ……？」[pcms]
 
 *5548|
 [fc]
 [vo_yuh s="yuho0717"]
-[ns]Yuuho[nse]
-"... Wataru, I'm behind you?"[pcms]
+[ns]悠帆[nse]
+「………………。[r]
+　……わたるの、うしろにいるよ？」[pcms]
 
 *5549|
 [fc]
-I thought my heart would stop. My body stiffened and[r]
-wouldn't move. My mouth dried up with a tingling tension.[pcms]
+ボクは心臓が止まるかと思った。[r]
+身体がこわばって動かない。[r]
+しびれるような緊張に口の中が乾いてくる。[pcms]
 
 *5550|
 [fc]
-Yet it doesn't stop... As if controlled by something, I[r]
-slowly and awkwardly turn around to look behind me.[pcms]
+そうなりながらも止まらない……。[r]
+ボクは、なにかに操られているように、[r]
+ゆっくりとぎこちなく振り向いて、自分の後ろを見た。[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -252,13 +263,13 @@ slowly and awkwardly turn around to look behind me.[pcms]
 *5551|
 [fc]
 [vo_yuh s="yuho0718"]
-[ns]Yuuho[nse]
-"...Wataru...!"[pcms]
+[ns]悠帆[nse]
+「……わたる……っ！」[pcms]
 
 *5552|
 [fc]
-[ns]Wataru[nse]
-"Aaaaahhhhhhhhh~!!!"[pcms]
+[ns]航[nse]
+「うぁあぁあああぁぁぁ～～～～！！」[pcms]
 
 ;//シェイク
 [quake_bg 元time=500 xy m]
@@ -284,21 +295,23 @@ slowly and awkwardly turn around to look behind me.[pcms]
 *5553|
 [fc]
 [vo_yuh s="yuho0719"]
-[ns]Yuuho[nse]
-"I've always wanted to eat... I'm so hungry..."[pcms]
+[ns]悠帆[nse]
+「ずっと、たべたかったの……。[r]
+　おなかがすいてすいて……」[pcms]
 
 *5554|
 [fc]
 [vo_yuh s="yuho0720"]
-[ns]Yuuho[nse]
-"I wanted to eat my beloved Wataru~"[pcms]
+[ns]悠帆[nse]
+「だいすきなわたるのこと……たべたくなったの～」[pcms]
 
 *5555|
 [fc]
 [vo_yuh s="yuho0721"]
-[ns]Yuuho[nse]
-"...Ren-chan, Kousuke, and Wataru... Ufufufufu... Now we can[r]
-always be together, right?"[pcms]
+[ns]悠帆[nse]
+「……れんちゃんにこうすけ、それにわたる……。[r]
+　うふふふふっ……。[r]
+　これでず～っと、みんないっしょだねっ？」[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -308,16 +321,18 @@ always be together, right?"[pcms]
 *5556|
 [fc]
 [vo_yuh s="yuho0722"]
-[ns]Yuuho[nse]
-"Ahahahaha..."[pcms]
+[ns]悠帆[nse]
+「あははははは……」[pcms]
 
 *5557|
 [fc]
 [vo_yuh s="yuho0723"]
-[ns]Yuuho[nse]
-"Ahahahaha... Ahaha! Ahaha! Ahahaha!! Aaaaaahhahahahaha~!!!"[pcms]
+[ns]悠帆[nse]
+「あははははは……あはははっ！[r]
+　あはは……ひひっ！　あひひひっ！！[r]
+　あ～～～っはっはっはっ～～～！！」[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

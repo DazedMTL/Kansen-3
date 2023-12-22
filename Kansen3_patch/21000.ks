@@ -12,76 +12,72 @@
 
 *292|
 [fc]
-Without understanding why, I frantically ran away.[pcms]
+わけも分からないまま、ボクは夢中になって逃げた。[pcms]
 
 *293|
 [fc]
-Driven by fear, my confused thoughts couldn't even search[r]
-for a proper answer.[pcms]
+恐怖に駆り立てられ、混乱した思考はまともな答えすら探せない。[pcms]
 
 *294|
 [fc]
-Is this a dream, or perhaps a movie shoot? A situation that[r]
-seems nothing but fiction has befallen me.[pcms]
+これは夢、それとも、映画の撮影？[r]
+フィクションとしか思えないような事態が、ボクの身に[r]
+降りかかっている。[pcms]
 
 *295|
 [fc]
-I want to declare it all a dream and crouch down on the[r]
-spot, holding my head. If I close my eyes and scream for the[r]
-nightmare to end, I feel like I could return to an ordinary[r]
-day.[pcms]
+全てを夢だと決めつけて、その場に頭を抱えてうずくまりたい。[r]
+目を閉じて悪夢よ終われと叫べば、またなんでもない[r]
+日常に戻れるような気さえする。[pcms]
 
 *296|
 [fc]
-However, the scene before my eyes, the looming fear, didn't[r]
-even give me a moment to escape from reality.[pcms]
+しかし、眼の前の光景が、迫りくる恐怖が、ボクに[r]
+現実逃避する暇さえ与えてくれなかった。[pcms]
 
 *297|
 [fc]
-Gasping for breath, I crossed the ground and headed to the[r]
-gymnasium. What awaited me there was the cruel reality of[r]
-despair.[pcms]
+息も絶え絶えにグラウンドを横切って体育館へ。[r]
+そこで待ち構えていたのは、絶望という非情な現実だった。[pcms]
 
 [evcg storage="evs001"][trans_c cross time=300]
 
 *298|
 [fc]
-The gymnasium was filled with beings that looked human but[r]
-were not, all turning their glittering red eyes towards me.[pcms]
+体育館は煌煌とした赤い双眸をボクに向ける、[r]
+人の姿をした人ではない者達によって埋め尽くされていた。[pcms]
 
 *299|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Aaaahhh!"[pcms]
+[ns]航[nse]
+「うっ……うわぁぁぁあっ！」[pcms]
 
 *300|
 [fc]
-Surprise and fear turned into words that flew out of my[r]
-mouth. It was an extremely foolish act that only served to[r]
-draw attention to myself.[pcms]
+驚きと恐怖が言葉となって口から飛び出していく。[r]
+それは自分を彼らに対してアピールするだけの極めて愚かな[r]
+行為だった。[pcms]
 
 *301|
 [fc]
-Suddenly, their red eyes were all focused on me.[pcms]
+たちまち彼らの赤眼が一身に集められる。[pcms]
 
 *302|
 [fc]
-Before I could think, I unconsciously turned my back and[r]
-started running.[pcms]
+考えるより早く、[r]
+ボクは無意識のうちに背を向けて走り出していた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *303|
 [fc]
-The sound of countless footsteps approached from behind, but[r]
-without looking back, I just ran desperately with all my[r]
-might.[pcms]
+背後から無数の足音が迫ってくるが、ボクは振り返ることも[r]
+ないまま、とにかく夢中で必死に走った。[pcms]
 
 *304|
 [fc]
-Wanting to escape the footsteps of despair, blindly and[r]
-earnestly, I tried with all my strength to shake off the[r]
-presence looming behind me.[pcms]
+絶望の足音から逃げたくて、やみくもにひたすらに、[r]
+ボクは全力で背後に迫る気配を振り切ろうとした。[pcms]
 
 [bg storage="BG017"][trans_c cross time=500]
 
@@ -89,15 +85,15 @@ presence looming behind me.[pcms]
 
 *305|
 [fc]
-The building of the indoor pool came into view as I ran. It[r]
-was one of the closest buildings from the gymnasium. The[r]
-countless footsteps echoing behind me were closing in fast.[pcms]
+走る視界内に屋内プールの建物が入ってくる。[r]
+体育館から最短でいける建物の一つだ。[r]
+背中越しに響く無数の足音はすぐ近くまで迫っていた。[pcms]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ａ１
-;//　１１：体育館を突っ切る　→感染者にたかられる。B_A2
-;//　１２：体育館を迂回する　→正解。block:21020へ
-;//　１３：時間切れ　→B_D4
+;//●時限式選択肢Ａ－１
+;//　１－１：体育館を突っ切る　→感染者にたかられる。B_A2
+;//　１－２：体育館を迂回する　→正解。block:21020へ
+;//　１－３：時間切れ　→B_D4
 
 ;	[sysbt_meswin clear]
 ;
@@ -105,16 +101,16 @@ countless footsteps echoing behind me were closing in fast.[pcms]
 ;	[link storage="21020.ks" target=*21020_TOP]体育館を迂回する[endlink]
 ;	;[link storage="B_D4.ks" target=*B_D4_TOP]時間切れ[endlink]
 ;	[link storage="B_D4.ks" target=*B_D4_TOP]どっちだ……[endlink]
-[pcms]
+;	[s]
 
 
 *SEL10|体育館を突っ切る／体育館を迂回する／どっちだ……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Cut through the gymnasium'"]
-[eval exp="f.seltext04 = 'Bypass the gymnasium'"]
-[eval exp="f.seltext06 = 'Which one'"]
+[eval exp="f.seltext02 = '体育館を突っ切る'"]
+[eval exp="f.seltext04 = '体育館を迂回する'"]
+[eval exp="f.seltext06 = 'どっちだ……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

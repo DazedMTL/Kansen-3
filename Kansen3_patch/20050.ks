@@ -14,211 +14,205 @@
 
 *226|
 [fc]
-When I arrived at the academy, having set a new speed[r]
-record, the area in front of the school was already[r]
-overflowing with crowds of people.[pcms]
+最速レコードをたたき出したボクが学園に着いたとき、[r]
+学園前はすでに人々の群れであふれかえっていた。[pcms]
 
 *227|
 [fc]
-You don't need to see their eyes to understand.[pcms]
+目を見なくてもわかる。[pcms]
 
 *228|
 [fc]
-They moved like the monsters I've seen in horror movies.[pcms]
+ホラー映画で見たような怪物のような動きをした人の群れ。[pcms]
 
 *229|
 [fc]
-Yes, they all had red eyes.[pcms]
+そう、あれはみんな、赤い目をした人々だ。[pcms]
 
 *230|
 [fc]
-And that crowd had already infiltrated the academy,[r]
-searching for new prey.[pcms]
+そしてその群れは既に学園内に入り込んで、[r]
+新たな獲物を探してる。[pcms]
 
 *231|
 [fc]
-[ns]Wataru[nse]
-"Damn it!"[pcms]
+[ns]航[nse]
+「チクショウッ！」[pcms]
 
 *232|
 [fc]
-An expletive slipped out of my mouth unintentionally.[pcms]
+ボクの口から思わず悪態がこぼれ落ちた。[pcms]
 
 *233|
 [fc]
-I wonder if Ren is safe?[pcms]
+漣は無事なんだろうか？[pcms]
 
 *234|
 [fc]
-What about Yuuho?[pcms]
+悠帆は？[pcms]
 
 *235|
 [fc]
-Kousuke?[pcms]
+コースケは？[pcms]
 
 *236|
 [fc]
-I don't know.[pcms]
+わからない。[pcms]
 
 *237|
 [fc]
-But at least, I'm certain that I can't hear the brass band's[r]
-performance, which should be audible if they were[r]
-practicing.[pcms]
+でも少なくとも、練習していれば聞こえるはずの、[r]
+吹奏楽部の演奏が聞こえてこないってことは確かだ。[pcms]
 
 *238|
 [fc]
-I hope it's just that the situation is too abnormal for[r]
-practice...[pcms]
+異常さに練習どころじゃないだけならいいんだけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_a"][ChrSetXY layer=5 x=148 y=0][trans_c cross time=150]
 
 *239|
 [fc]
 [vo_mob s="onna_iti0001"]
-[ns]Infected Woman A[nse]
-"Oh my, what do we have here? A young boy. Hey, let's have[r]
-sex. Give me lots of your semen~"[pcms]
+[ns]感染者・女Ａ[nse]
+「あらぁあん。こんな所に若い男の子がいるわぁ。ねぇ、[r]
+　あたしとセックスしましょ。ザーメンいっぱい出して～」[pcms]
 
 *240|
 [fc]
-Someone from the crowd noticed me standing still and gazing[r]
-at the academy, and smiled at me invitingly with a grin.[pcms]
+立ち止まって学園を見つめていたボクに気がついた[r]
+群れの誰かが、ボクに誘いかけるように嫣然と[r]
+微笑むのが見えた。[pcms]
 
 *241|
 [fc]
-Their eyes were, as I thought... clouded red.[pcms]
+その目は、思ったとおり……赤く濁っている。[pcms]
 
 *242|
 [fc]
-[ns]Wataru[nse]
-"Aaaaaahhhhh!!!"[pcms]
+[ns]航[nse]
+「うわあぁあああああっ！！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *243|
 [fc]
-I pedaled furiously to shake off the approaching woman's[r]
-hand, cutting through the crowd and steering my bike towards[r]
-the back alley leading behind the academy.[pcms]
+ボクは迫ってくる女の手を振り切るようにペダルを踏むと、[r]
+群れの中を突っ切るように横切って、学園の裏道へと[r]
+続く道へと自転車を向けた。[pcms]
 
 *244|
 [fc]
-On the way, I crossed the parking lot of a government[r]
-building complex next to the academy.[pcms]
+途中、学園の隣に建つお役所関係の総合庁舎の[r]
+駐車場を横切った。[pcms]
 
 *245|
 [fc]
-Then...[pcms]
+すると……。[pcms]
 
 ;//se032・建物のガラスが割れる音
 [se buf=0 storage="se032"]
 
 *246|
 [fc]
-The sound of shattering glass echoed violently.[pcms]
+激しいガラスの割れる音が響く。[pcms]
 
 *247|
 [fc]
-And a few meters ahead, three figures fell to the ground,[r]
-tangled up with each other.[pcms]
+そして十数メートル先にもみ合うように[r]
+落ちてくる三人の人影。[pcms]
 
 *248|
 [fc]
-In a panic, I avoided the heap of people, and as I passed[r]
-by, one didn't move at all, but the other two slowly got up[r]
-as if nothing had happened.[pcms]
+ボクは慌ててそのダンゴのような彼らを避けて、[r]
+その脇を通り過ぎると、一人はピクリとも動かなかったが、[r]
+残る二人はのそりと何事もなかったかのように起き上がる。[pcms]
 
 *249|
 [fc]
-Their resilience was reminiscent of the immortal monsters[r]
-from horror films.[pcms]
+その様はホラー映画のモンスターを連想させるような[r]
+不死身さだ。[pcms]
 
 *250|
 [fc]
-[ns]Wataru[nse]
-"Aaaaaahhhhh!!!"[pcms]
+[ns]航[nse]
+「うわぁあああああっ！！」[pcms]
 
 *251|
 [fc]
-Once again, I screamed at the top of my lungs, a voice that[r]
-was neither a shriek nor a shout, and put even more strength[r]
-into my pedaling legs.[pcms]
+ボクは再び声を振り絞り、悲鳴とも怒声ともつかない声を上げて、[r]
+ペダルを踏む足に更なる力を込めた。[pcms]
 
 ;//〆BG：神南学園全景
 ;//@konya 該当CGあるか？
 
 *252|
 [fc]
-When I finally reached the back of the academy, screams and[r]
-windows shattered by glass jumped into my sight and hearing.[pcms]
+やっと学園の裏にたどり着いたとき、ボクの耳に目に、[r]
+悲鳴やガラスの割られた窓が飛び込んできた。[pcms]
 
 *253|
 [fc]
-And there were students desperately running through the[r]
-corridors, followed leisurely by people who were clearly not[r]
-affiliated with the academy.[pcms]
+そして廊下を必死になって走る学生と、それをゆったりと[r]
+追う明らかに学園関係者ではない人たち。[pcms]
 
 *254|
 [fc]
-This place is no longer a safe zone.[pcms]
+もう、ここも安全地帯なんかじゃない。[pcms]
 
 *255|
 [fc]
-What should I do?[pcms]
+どうする？[pcms]
 
 *256|
 [fc]
-Is everyone safe?[pcms]
+みんなは無事なのか？[pcms]
 
 *257|
 [fc]
-Should I jump in?[pcms]
+飛び込むべきか？[pcms]
 
 *258|
 [fc]
-Or should I just run away?[pcms]
+それともこのまま逃げるべき？[pcms]
 
 *259|
 [fc]
-No, how can I run without confirming that the three of them[r]
-are safe?[pcms]
+いや、三人の無事を確認してないのに、逃げてどうする。[pcms]
 
 *260|
 [fc]
-Just as I was about to make up my mind, I saw those with red[r]
-eyes approaching from the direction of the station.[pcms]
+ボクが覚悟を決めようとしたそのとき、駅のほうから[r]
+あの赤い目をしたヤツラが迫ってくるのが見えた。[pcms]
 
 *261|
 [fc]
-Startled, I looked back and saw that way was also blocked.[pcms]
+ハッとして後ろを振り向けば、そちらも塞がれている。[pcms]
 
 *262|
 [fc]
-[ns]Wataru[nse]
-"I'm trapped!?"[pcms]
+[ns]航[nse]
+「挟まれた！？」[pcms]
 
 *263|
 [fc]
-What should I do?[pcms]
+どうする？[pcms]
 
 *264|
 [fc]
-The direction towards the station has enough distance for me[r]
-to gain speed on my bike and escape quickly.[pcms]
+自転車の加速をつけ、一気に逃げる為の速度を稼ぐ距離があるのは[r]
+駅の方向だ。[pcms]
 
 *265|
 [fc]
-But there are fewer people on the side of the government[r]
-complex.[pcms]
+でも、人数が少ないのは総合庁舎側だ。[pcms]
 
 *266|
 [fc]
-Which way...[pcms]
+どっちだ……。[pcms]
 
 *267|
 [fc]
-Which way should I go?[pcms]
+どっちへ行く？[pcms]
 
 ;//jump：20060
 [jump storage="20060.ks" target=*20060_TOP]

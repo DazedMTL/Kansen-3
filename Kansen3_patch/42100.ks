@@ -1,18 +1,18 @@
 ;//block:C011
 ;//ブロック４２０９０から選択肢でjump
-;//ブロック４２１００『地下道漣のみ脱出編』
+;//ブロック４２１００『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42090.txtから
 
 *42100_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣
 ;//時間帯：
 ;//・テキスト容量：1K前後
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ２　２２：出ない
+;//●選択肢Ｃ－２　２－２：出ない
 
 ;//SE・バイブ音　→　停止
 
@@ -22,69 +22,69 @@
 
 *5498|
 [fc]
-As I was worrying, the vibration indicating an incoming call[r]
-had stopped.[pcms]
+悩んでいるうちに、着信を知らせる[r]
+バイブ音はしなくなった。[pcms]
 
 *5499|
 [fc]
-Could it really be Yuuho?[pcms]
+本当に悠帆なんだろうか？[pcms]
 
 *5500|
 [fc]
-I hesitantly picked up the now silent phone.[pcms]
+ボクは振動しなくなったケータイを[r]
+おそるおそるとりあげた。[pcms]
 
 *5501|
 [fc]
-Was that... a call from Yuuho?[pcms]
+あれは……悠帆からの電話なんだろうか？[pcms]
 
 *5502|
 [fc]
-Even if it's from Yuuho's phone, it doesn't necessarily mean[r]
-it's her. If someone else was messing with her phone, they[r]
-could have called me just like that.[pcms]
+悠帆のケータイからかかってきても、それが悠帆とは限らない。[r]
+誰かが悠帆のケータイをいじっていれば、それだけでかかってくる。[pcms]
 
 *5503|
 [fc]
-But even if that's the case... did Yuuho choose my number...[r]
-or had she set it so that I was on speed dial?[pcms]
+もしそうだとしても……悠帆はボクの電話番号を[r]
+選んでいたか……それとも、ボクには短縮ダイヤルで[r]
+かかるように悠帆がしていたか……。[pcms]
 
 *5504|
 [fc]
-In other words, even if that call wasn't from Yuuho... she[r]
-had made it so she could call me right away...[pcms]
+つまりは、あれが悠帆からじゃないとしても……[r]
+悠帆はボクにすぐ電話ができるようにしていたってことだ……。[pcms]
 
 *5505|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆……」[pcms]
 
 ;//SE・バイブ音
 [se buf=0 storage="se023" loop=true]
 
 *5506|
 [fc]
-Once again, the vibration indicating an incoming call.[pcms]
+またしても、着信を示すバイブ音。[pcms]
 
 *5507|
 [fc]
-The LCD screen lights up with the name "Yuuho" again.[pcms]
+液晶画面にはまた『悠帆』と名前が点灯している。[pcms]
 
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ３
-;//３１：出る→ブロック４２１１０へ
-;//３２：出ない→ブロック４２１２０へ
+;//●選択肢Ｃ－３
+;//３－１：出る→ブロック４２１１０へ
+;//３－２：出ない→ブロック４２１２０へ
 
 
 ;	[link storage="42110.ks" target=*42110_TOP]出る[endlink]
-; (link storage="42120.ks" target=*42120_TOP)Don't[r]
-answer(endlink)[pcms]
+;	[link storage="42120.ks" target=*42120_TOP]出ない[endlink][s]
 
 *SEL37|出る／出ない
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'To exit / To leave'"]
-[eval exp="f.seltext04 = 'I won\'t go out'"]
+[eval exp="f.seltext02 = '出る'"]
+[eval exp="f.seltext04 = '出ない'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

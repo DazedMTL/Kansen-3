@@ -1,17 +1,17 @@
 ;//block:C013
-;//ブロック４２１２０『地下道漣のみ脱出編』
+;//ブロック４２１２０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42100.txtから
 
 *42120_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣・姦染・悠帆
 ;//時間帯：
 ;//・テキスト容量：2K前後
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ３　３２
+;//●選択肢Ｃ－３　３－２
 
 ;//se022・携帯の操作音
 [se buf=0 storage="se022"]
@@ -20,13 +20,13 @@
 
 *5558|
 [fc]
-I hurriedly pressed the power button with trembling hands to[r]
-end the call.[pcms]
+ボクはあわてて震える手で[r]
+電源ボタンを押してコールを切る。[pcms]
 
 *5559|
 [fc]
-[ns]Wataru[nse]
-"...higu, aaaaahhhhh!"[pcms]
+[ns]航[nse]
+「……ひぐっ、あぁあぁあぁぁぁあっ！」[pcms]
 
 ;//se035・携帯電話を壁に投げつける音
 [se buf=0 storage="se035"]
@@ -35,84 +35,88 @@ end the call.[pcms]
 
 *5560|
 [fc]
-[ns]Wataru[nse]
-"...It's just as I thought, there's no way Yuuho is safe!!"[pcms]
+[ns]航[nse]
+「……やっぱり、悠帆が無事なわけがないっ！！」[pcms]
 
 *5561|
 [fc]
-I became terrified and threw my phone against the wall.[r]
-Screaming without a sound... It was so frightening that my[r]
-chest felt constricted, and I couldn't make a noise.[pcms]
+ボクは恐ろしくなってケータイを壁へと投げ出してしまった。[r]
+悲鳴にならない悲鳴をあげながら……。[r]
+恐ろしくて胸がつかえるようで、声にならない。[pcms]
 
 *5562|
 [fc]
-Horror movies are a lie! When you're truly terrified, you[r]
-can't let out a big scream. It's so frightening that it[r]
-feels like you're suffocating.[pcms]
+ホラー映画はウソだ！[r]
+ホントに恐ろしいと思った時は大きな悲鳴なんて上げられない。[r]
+恐ろしくて息が詰まりそうだ。[pcms]
 
 ;//ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5563|
 [fc]
-Turning my eyes away from the phone that clattered to the[r]
-ground, I closed my eyes, covered my ears, and crouched down[r]
-on the spot.[pcms]
+乾いた音を立てて、転がったケータイから目をそむけ、[r]
+ボクは目を閉じて耳をふさぎ、その場へとうずくまる。[pcms]
 
 ;//se056・歯の根が合わない音
 ;[se buf=0 storage="se056"]
 
 *5564|
 [fc]
-[ns]Wataru[nse]
-"...uuuh... ...uuuuh..."[pcms]
+[ns]航[nse]
+「……ううっ…………。[r]
+　……うううっ…………」[pcms]
 
 *5565|
 [fc]
-My body was shaking uncontrollably, and my teeth chattered[r]
-involuntarily. It was like being so cold that I was about to[r]
-freeze...[pcms]
+恐ろしさに身体がガタガタと震えて、[r]
+歯がガチガチと勝手にかみ合わされる。[r]
+まるで、凍えそうなほどに寒い時のように……。[pcms]
 
 *5566|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry... Yuuho...! I wanted to save you! ...I really[r]
-did...!"[pcms]
+[ns]航[nse]
+「ごめん……悠帆……っ！[r]
+　助けたかったんだ！[r]
+　……ほんとは……！」[pcms]
 
 *5567|
 [fc]
-[ns]Wataru[nse]
-"But... I couldn't...! I just couldn't do it..."[pcms]
+[ns]航[nse]
+「でも……できなかった……！[r]
+　できなかったんだ……」[pcms]
 
 *5568|
 [fc]
-[ns]Wataru[nse]
-"It's not that I abandoned you! I wanted to help but[r]
-couldn't...!! So, so...!!"[pcms]
+[ns]航[nse]
+「見捨てたワケじゃないんだ！[r]
+　助けたくてもできなかったんだ……！！[r]
+　だから、だから……っ！！」[pcms]
 
 *5569|
 [fc]
-[ns]Wataru[nse]
-"...forgive me... Please forgive me, Yuuho!! I'm begging[r]
-you..."[pcms]
+[ns]航[nse]
+「……許して……。[r]
+　許してよ……悠帆っ！！[r]
+　お願いだから……」[pcms]
 
 *5570|
 [fc]
-I continued to apologize to Yuuho while shivering[r]
-uncontrollably.[pcms]
+ボクはガタガタと震えながら、悠帆へとあやまり続けた。[pcms]
 
 *5571|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5572|
 [fc]
-Silence fell.[pcms]
+静寂が訪れた。[pcms]
 
 *5573|
 [fc]
-I thought the phone might ring... but it didn't.[pcms]
+ケータイが鳴るんじゃないかと思っていたけど……[r]
+鳴ることはなかった。[pcms]
 
 ;//目を開くエフェクト
 
@@ -121,49 +125,50 @@ I thought the phone might ring... but it didn't.[pcms]
 
 *5574|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5575|
 [fc]
-I opened my eyes. Nothing had changed from before; it was[r]
-the same underground passage lit by the lantern.[pcms]
+ボクは目を開いた。[r]
+そこはさっきまでとは何も変わらない、[r]
+ランタンに照らし出された地下通路だった。[pcms]
 
 *5576|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5577|
 [fc]
-"Was that just a dream?" I exhaled deeply.[pcms]
+「さっきのは夢だったのか？」とボクは大きく息を吐いた。[pcms]
 
 *5578|
 [fc]
-At that moment...[pcms]
+その時……。[pcms]
 
 *5579|
 [fc]
 [vo_yuh s="yuho0724"]
-[ns]Yuuho[nse]
-"...then at least answer the phone..."[pcms]
+[ns]悠帆[nse]
+「……じゃあ、でんわくらい出てよ……」[pcms]
 ;//＠　感染
 
 *5580|
 [fc]
-The voice made me think my heart had stopped. My body[r]
-stiffened and wouldn't move. My mouth dried up with a[r]
-tingling tension.[pcms]
+その声に……ボクは心臓が止まるかと思った。[r]
+身体がこわばって動かない。[r]
+しびれるような緊張に口の中が乾いてくる。[pcms]
 
 *5581|
 [fc]
-It was unmistakably Yuuho's voice.[pcms]
+それは……間違いなく悠帆の声だった。[pcms]
 
 *5582|
 [fc]
-Even so, I couldn't stop myself. As if controlled by[r]
-something, I slowly and awkwardly turned around to look[r]
-behind me.[pcms]
+そうなりながらもボクは止まらない。[r]
+なにかに操られているように、[r]
+ゆっくりとぎこちなく振り向いて、自分の後ろを見た。[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -173,13 +178,13 @@ behind me.[pcms]
 *5583|
 [fc]
 [vo_yuh s="yuho0725"]
-[ns]Yuuho[nse]
-"...why didn't you answer me~!?"[pcms]
+[ns]悠帆[nse]
+「……なんで、でてくれなかったの～っ！？」[pcms]
 
 *5584|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaaaaahhhhh~~~!!!"[pcms]
+[ns]航[nse]
+「うぁあぁあああぁぁぁ～～～～！！」[pcms]
 
 ;//シェイク
 [quake_bg 元time=500 xy m]
@@ -205,34 +210,37 @@ behind me.[pcms]
 *5585|
 [fc]
 [vo_yuh s="yuho0726"]
-[ns]Yuuho[nse]
-"I've been so hungry... I've wanted to eat for so long..."[pcms]
+[ns]悠帆[nse]
+「おなかがすいてすいて……[r]
+　ずっと、たべたかったの……」[pcms]
 
 *5586|
 [fc]
 [vo_yuh s="yuho0727"]
-[ns]Yuuho[nse]
-"Why did Wataru ignore my call? I love Wataru so much~"[pcms]
+[ns]悠帆[nse]
+「なんで、わたるは……わたしのでんわをむししたのかな～。[r]
+　わたしはワタルのこと……だいすきなのに～」[pcms]
 
 *5587|
 [fc]
 [vo_yuh s="yuho0728"]
-[ns]Yuuho[nse]
-"But... I'll forgive you... Because~ Wataru is very[r]
-delicious~"[pcms]
+[ns]悠帆[nse]
+「でも……ゆるしてあげる……。[r]
+　だって～わたるはとってもおいしいんだもの～」[pcms]
 
 *5588|
 [fc]
 [vo_yuh s="yuho0729"]
-[ns]Yuuho[nse]
-"...more than Ren-chan, more than Kousuke... Wataru is much,[r]
-much tastier~"[pcms]
+[ns]悠帆[nse]
+「……れんちゃんよりも、こうすけよりも……。[r]
+　わたるはず～っと、おいしいよ～」[pcms]
 
 *5589|
 [fc]
 [vo_yuh s="yuho0730"]
-[ns]Yuuho[nse]
-"Love is the best seasoning... It's really true~"[pcms]
+[ns]悠帆[nse]
+「あいじょうはいちばんのちょうみりょうだって……[r]
+　ほんとなんだねっ～」[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -242,18 +250,19 @@ much tastier~"[pcms]
 *5590|
 [fc]
 [vo_yuh s="yuho0731"]
-[ns]Yuuho[nse]
-"Ahahahahaha..."[pcms]
+[ns]悠帆[nse]
+「あははははは……」[pcms]
 
 *5591|
 [fc]
 [vo_yuh s="yuho0732"]
-[ns]Yuuho[nse]
-"Ahahahahaha...ahahahah! Ahaha...hihi! Ahahaha!![r]
-Aaaaaahhhhh~~~!!!"[pcms]
+[ns]悠帆[nse]
+「あははははは……あはははっ！[r]
+　あはは……ひひっ！　あひひひっ！！[r]
+　あ～～～っはっはっはっ～～～！！」[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 

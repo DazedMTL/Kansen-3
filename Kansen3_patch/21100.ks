@@ -25,59 +25,56 @@
 
 *576|
 [fc]
-I gave up on closing the hatch and quickly dove under the[r]
-floor.[pcms]
+ハッチの閉鎖をあきらめたボクは、素早く床下に潜った。[pcms]
 
 *577|
 [fc]
-The dark, low-ceilinged space under the floor was hard to[r]
-walk in, but that should make it difficult for the infected[r]
-to get in as well; the light from outside shining through[r]
-the vents was dazzling.[pcms]
+暗く天井の低い床下は歩きにくかったけど、[r]
+その分、感染者も入るのに苦労するはずだ。[pcms]
+;通風口から差し込む外の光がまぶしい。[pcms]
 
 *578|
 [fc]
-After a while, my senior, holding a flashlight, pointed to[r]
-another hatch attached to the concrete foundation under the[r]
-floor.[pcms]
+しばらく進むと、懐中電灯を手にしていた先輩が[r]
+床下のコンクリート基礎に取り付けられている[r]
+もう一つのハッチを指差した。[pcms]
 
 *579|
 [fc]
-We silently put our hands on the hatch and opened it with[r]
-all our might.[pcms]
+ボクらは無言のままハッチに手をかけると、[r]
+渾身の力を込めて開いた。[pcms]
 
 *580|
 [fc]
-The sound of the infected crashing into the staff room above[r]
-echoed loudly. It seems we have no respite here either.[pcms]
+上の教員室に感染者が雪崩込んだ音が鳴り響く。[r]
+ここでも猶予はないらしい。[pcms]
 
 *581|
 [fc]
-The opened hatch led to a concrete staircase that continued[r]
-down.[pcms]
+開いたハッチの先は、コンクリートの階段が続いていた。[pcms]
 
 *582|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, go ahead..."[pcms]
+[ns]航[nse]
+「悠帆、先に行って……」[pcms]
 
 *583|
 [fc]
-At my urging, Yuuho silently nodded and descended the stairs[r]
-below the hatch.[pcms]
+ボクが促すと、悠帆は無言のままコクリとうなずき、[r]
+ハッチの下の階段を降りて行った。[pcms]
 
 *584|
 [fc]
-Then, my senior and I took turns supporting the hatch as we[r]
-proceeded down the stairs.[pcms]
+続いて先輩と二人で交互にハッチを支えつつ、[r]
+階段を下へと進んでいく。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *585|
 [fc]
-Although we heard the stealthy sound of an infected entering[r]
-under the floor, we simultaneously closed the hatch and[r]
-locked it securely.[pcms]
+こそっという感染者が床下へと入りこんだ音が[r]
+したけれど、ボクらは同時にハッチを閉めて[r]
+しっかりと施錠した。[pcms]
 
 [se buf=0 storage="se034"]
 ;//→本編・中編・エンディングへ

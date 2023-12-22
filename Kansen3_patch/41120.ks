@@ -1,10 +1,10 @@
 ;//fblock:A013
-;//ブロック４１１２０『地下道悠帆のみ脱出』pt10
+;//ブロック４１１２０『地下道～悠帆のみ脱出～』pt10
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41110.txtから
 
 *41120_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:悠帆/感染・主人公/感染・漣/感染・マル
@@ -40,23 +40,23 @@
 
 *3572|
 [fc]
-"My father has gone mad and he...!?"[pcms]
+『お父さんがおかしくなって私を……！？』[pcms]
 ;//♂メモ
 
 *3573|
 [fc]
-While I felt a shock that almost made me lose consciousness,[r]
-I still managed to stay aware.[pcms]
+わたしは気を失いそうなショックを受けながらも、[r]
+それでも意識を保っていた。[pcms]
 
 *3574|
 [fc]
-...I thought it might be better to just lose consciousness.[pcms]
+……このまま、意識を失えばいいとも思った。[pcms]
 
 *3575|
 [fc]
-And when I woke up, "What are you dozing off for?" Wataru[r]
-and Kousuke would be laughing... back to the slightly boring[r]
-everyday life...[pcms]
+そして、目を覚ますと『なに居眠りしてるんだ？』って、[r]
+航やコースケが笑っていて……[r]
+いつものちょっと退屈な毎日で……。[pcms]
 
 ;//　フラッシュ　長め？
 
@@ -72,62 +72,63 @@ everyday life...[pcms]
 *3576|
 [fc]
 [vo_yuh s="yuho0521"]
-[ns]Yuuho[nse]
-"Mmm..."[pcms]
+[ns]悠帆[nse]
+「んんっ……」[pcms]
 
 *3577|
 [fc]
-I averted my eyes from the brightness.[pcms]
+わたしはまぶしさに目をそらす。[pcms]
 
 *3578|
 [fc]
-The swaying light grew gradually stronger and brighter,[r]
-illuminating me.[pcms]
+ゆらゆらとゆれている光はだんだんと大きく強くなってきて、[r]
+わたしを照らし出す。[pcms]
 
 *3579|
 [fc]
-As the light came closer, I finally understood what it was.[r]
-It was an electric lantern, and the one holding it was...[pcms]
+その光がなんなのかが、そこまで近づいてきて、[r]
+やっとわかった。[r]
+それは、電気式のランタンで、持っているのは……。[pcms]
 
 *3580|
 [fc]
 [vo_yuh s="yuho0522"]
-[ns]Yuuho[nse]
-"Maruko-senpai...!!"[pcms]
+[ns]悠帆[nse]
+「マル子先輩……っ！！」[pcms]
 
 ;//　ココだけ地下道を背景に　マル子立ち絵に？
 
 *3581|
 [fc]
 [vo_mar s="maru0531"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *3582|
 [fc]
-Senpai was swaying the lantern as if on purpose, slowly[r]
-approaching me.[pcms]
+先輩はゆらゆらとわざとのようにランタンを揺らしながら、[r]
+ゆっくりとわたしの方へと近づいていた。[pcms]
 
 *3583|
 [fc]
-Her clothes were tattered... almost naked... covered in a[r]
-slimy liquid all over her body. The liquid had white and red[r]
-areas...[pcms]
+服はボロボロで……ほとんど裸で……。[r]
+体中にぬるぬるとした液体をまとわりつかせて……。[r]
+液体には白っぽいところや赤っぽいところがあって……。[pcms]
 
 *3584|
 [fc]
-Yet, she had a faint smile on her face... and her eyes were[r]
-shining bright red.[pcms]
+なのに、顔には薄ら笑いを浮かべていて……。[r]
+……目は真っ赤に輝いていた。[pcms]
 
 *3585|
 [fc]
-[ns]Infected - Male L[nse]
-"It's gotten brighter..."[pcms]
+[ns]感染者・男Ｌ[nse]
+「あかるくなった……」[pcms]
 
 *3586|
 [fc]
-[ns]Infected - Male M[nse]
-"Now we can see..."[pcms]
+[ns]感染者・男Ｍ[nse]
+「これでわかる……」[pcms]
 
 ;//〆ＨＥＶ０３５／悠帆／制服（ベースは学園編の使い回し）
 ;//　手が伸びる差分があったほうが？
@@ -135,93 +136,96 @@ shining bright red.[pcms]
 *3587|
 [fc]
 [vo_yuh s="yuho0523"]
-[ns]Yuuho[nse]
-"Kyaaaah!!"[pcms]
+[ns]悠帆[nse]
+「きゃあああっ！！」[pcms]
 
 *3588|
 [fc]
-As soon as it became brighter, the crazed people understood[r]
-what my body looked like and started reaching out for me one[r]
-after another.[pcms]
+あたりが明るくなったとたんに、おかしくなった人たちは[r]
+わたしの身体がどんなふうになっているかを理解して、[r]
+つぎつぎと手を伸ばしてくる。[pcms]
 
 *3589|
 [fc]
-[ns]Infected Man L[nse]
-"Uuuuh..."[pcms]
+[ns]感染者・男Ｌ[nse]
+「うううっ……」[pcms]
 
 *3590|
 [fc]
-[ns]Infected - Male M[nse]
-"The clothes are in the way..."[pcms]
+[ns]感染者・男Ｍ[nse]
+「ふくがじゃまだぁ……」[pcms]
 
 *3591|
 [fc]
-The crazed people tried to tear off my clothes with their[r]
-hands.[pcms]
+おかしくなった人たちが、[r]
+わたしの服を手で引き裂こうとする。[pcms]
 
 *3592|
 [fc]
 [vo_yuh s="yuho0524"]
-[ns]Yuuho[nse]
-"No! I don't want this! Stop it..."[pcms]
+[ns]悠帆[nse]
+「いやぁ！[r]
+　そんなのいやだぁ！[r]
+　やめてぇ……」[pcms]
 
 *3593|
 [fc]
-[ns]Yuuho's father[nse]
-"What are you saying, Yuuho... You have to take off your[r]
-clothes properly, right?"[pcms]
+[ns]悠帆の父親[nse]
+「なにを言ってるんだい悠帆……。[r]
+　ちゃんと服を脱がなきゃダメだろ？」[pcms]
 
 *3594|
 [fc]
-In a voice like a drunkard, my father told me.[pcms]
+酔っ払ったような声で、お父さんが私に言う。[pcms]
 
 *3595|
 [fc]
 [vo_yuh s="yuho0525"]
-[ns]Yuuho[nse]
-"Why!? Why do I have to be undressed by these people?[r]
-Nooo!!"[pcms]
+[ns]悠帆[nse]
+「どうして！？[r]
+　こんな人たちに脱がされなきゃいけないの？[r]
+　いやぁあっ！！」[pcms]
 
 *3596|
 [fc]
-[ns]Yuuho's father[nse]
-"You can't be selfish, Yuuho. You can't wear clothes when[r]
-you're about to have sex..."[pcms]
+[ns]悠帆の父親[nse]
+「ワガママを言っちゃダメだよ悠帆。[r]
+　これからセックスするのに服を着てちゃダメじゃないか……」[pcms]
 
 *3597|
 [fc]
 [vo_yuh s="yuho0526"]
-[ns]Yuuho[nse]
-"Noooo!!"[pcms]
+[ns]悠帆[nse]
+「いやぁああっ！！」[pcms]
 
 *3598|
 [fc]
-To hear such words from my father's mouth... I felt like I[r]
-was going to go mad for real this time.[pcms]
+父さんの口からそんな言葉が出るなんて……。[r]
+わたしは今度こそ、おかしくなりそうだった。[pcms]
 
 *3599|
 [fc]
-I've known about sex for a long time. I'm not a child[r]
-anymore.[pcms]
+セックスなんて、ずいぶん前から知っている。[r]
+わたしはもう子供じゃない。[pcms]
 
 *3600|
 [fc]
-I understand that I was born because my father and mother[r]
-had sex...[pcms]
+お父さんとお母さんがセックスしたから、[r]
+わたしが生まれたってことも……わかってる。[pcms]
 
 *3601|
 [fc]
-But I thought that was something you only do with someone[r]
-you love, and I dreamed of being united with someone I love[r]
-like that someday... Occasionally comforting myself.[pcms]
+でも、それは愛してる人とだけすることだと思ってたし、[r]
+いつか愛する人とそうやって結ばれたいと思って夢見て[r]
+……時折、自分で自分を慰めていた。[pcms]
 
 *3602|
 [fc]
-I thought sex that wasn't like that was impure and dirty.[pcms]
+そうじゃないセックスは不純で汚いもののように思っていた。[pcms]
 
 *3603|
 [fc]
-...And yet my father is saying such things...[pcms]
+……それなのにお父さんがそんなことを……。[pcms]
 
 ;//se065・服が引き裂かれる
 [se buf=0 storage="se065"]
@@ -233,214 +237,224 @@ I thought sex that wasn't like that was impure and dirty.[pcms]
 *3604|
 [fc]
 [vo_yuh s="yuho0527"]
-[ns]Yuuho[nse]
-"No... Noooo!!"[pcms]
+[ns]悠帆[nse]
+「いやぁ……いやぁああっ！！」[pcms]
 
 *3605|
 [fc]
-While tearing at my clothes, the crazed people began to lift[r]
-my body.[pcms]
+わたしの服を引き裂きながら、おかしくなった人たちは[r]
+わたしの身体をもち上げていく。[pcms]
 
 *3606|
 [fc]
-Their purpose was...[pcms]
+その目的は……。[pcms]
 
 *3607|
 [fc]
 [vo_yuh s="yuho0528"]
-[ns]Yuuho[nse]
-"...No! Wataru! Wataru~~~!!"[pcms]
+[ns]悠帆[nse]
+「……いやだっ！[r]
+　航っ！　わたるぅう～～っ！！」[pcms]
 
 *3608|
 [fc]
-I involuntarily called out Wataru's name. Help me, Wataru. I[r]
-am... I am...[pcms]
+わたしは思わず航の名を呼んだ。[r]
+助けて航。[r]
+わたしは……わたしは……。[pcms]
 
 *3609|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *3610|
 [fc]
 [vo_yuh s="yuho0529"]
-[ns]Yuuho[nse]
-"...Wataru!?"[pcms]
+[ns]悠帆[nse]
+「……航！？」[pcms]
 
 *3611|
 [fc]
-It couldn't be a dream... Responding to my call, Wataru[r]
-appeared.[pcms]
+夢じゃないだろうか……。[r]
+わたしの呼びかけに答えたように航が現れた。[pcms]
 
 *3612|
 [fc]
-[ns]Wataru[nse]
-"Finally caught up with you~ Yuuho~"[pcms]
+[ns]航[nse]
+「やっと、追いついたよ～。悠帆～」[pcms]
 
 *3613|
 [fc]
 [vo_yuh s="yuho0530"]
-[ns]Yuuho[nse]
-"Wataru~~~!!"[pcms]
+[ns]悠帆[nse]
+「航～～～っ！！」[pcms]
 
 *3614|
 [fc]
-I was so happy that I ended up shouting at the top of my[r]
-lungs.[pcms]
+わたしはうれしくって思いっきり、叫んでしまう。[pcms]
 
 *3615|
 [fc]
-Wataru kept his promise and caught up with me.[pcms]
+航は約束どおり、追いついて来てくれた。[pcms]
 
 *3616|
 [fc]
 [vo_yuh s="yuho0531"]
-[ns]Yuuho[nse]
-"Wataru... Wataru..."[pcms]
+[ns]悠帆[nse]
+「航……航……」[pcms]
 
 *3617|
 [fc]
-Tears of joy wouldn't stop flowing as I kept calling out[r]
-Wataru's name.[pcms]
+うれしくて、涙が止まらず、わたしは航の名前を呼び続ける。[pcms]
 
 *3618|
 [fc]
-Wataru came closer and showed me he was safe. His clothes[r]
-were dirty and his hair disheveled, but he looked well, and[r]
-tears of happiness continued to spill.[pcms]
+航が近づいてきて、わたしに無事な姿を見せてくれる。[r]
+服が汚れて髪も乱れているけど、元気そうな姿に[r]
+嬉し涙がこぼれ続ける。[pcms]
 
 *3619|
 [fc]
-But why...!?[pcms]
+でも、どうして……！？[pcms]
 
 *3620|
 [fc]
-I was so happy that I had completely pushed it to the back[r]
-of my mind, but now I finally realized it.[pcms]
+わたしはうれしさのあまり、[r]
+すっかりと頭の隅に追いやってしまっていたことに[r]
+やっと気がついた。[pcms]
 
 *3621|
 [fc]
-[ns]Wataru[nse]
-"Finally caught up~. I'm so happy~ Yuuho~"[pcms]
+[ns]航[nse]
+「やっと、追いついた～。[r]
+　うれしいよ～悠帆～」[pcms]
 
 *3622|
 [fc]
 [vo_mar s="maru0532"]
-[ns]Margarita[nse]
-"Thank goodness, Wataru..."[pcms]
+[ns]マルガリータ[nse]
+「よかったな～ワタル……」[pcms]
 
 *3623|
 [fc]
 [vo_ren s="ren0545"]
-[ns]Ren[nse]
-"Thank goodness~ Big brother..."[pcms]
+[ns]漣[nse]
+「よかったね～。[r]
+　お兄ちゃんっ……」[pcms]
 
 *3624|
 [fc]
-Why are you with Maruko-senpai who's gone crazy? And[r]
-following Wataru is Ren- chan too...!?[pcms]
+おかしくなっちゃったマル子先輩と何で一緒なの？[r]
+それに航の後からは漣ちゃんまでが……！？[pcms]
 
 *3625|
 [fc]
-[ns]Wataru[nse]
-"What's wrong~ Yuuho~? You're making a strange face~. Aren't[r]
-you happy that I caught up with you~?"[pcms]
+[ns]航[nse]
+「どうしたんだ～悠帆～。[r]
+　変な顔して～。[r]
+　悠帆はボクが追いついて、うれしくないの～？」[pcms]
 
 *3626|
 [fc]
-Why is Wataru okay? Even though the two of them have gone[r]
-crazy!?[pcms]
+なんで航は平気なの？[r]
+二人はおかしくなっているのに！？[pcms]
 
 *3627|
 [fc]
-No... Wataru's way of speaking is a bit strange. It's as if[r]
-he's drunk on alcohol... It was... exactly like my father's[r]
-way of speaking.[pcms]
+ううん……航の喋り方はちょっと変だ。[r]
+まるでお酒に酔ったみたいで……[r]
+それは……お父さんの喋り方とそっくりだった。[pcms]
 
 *3628|
 [fc]
-[ns]Wataru[nse]
-"What's wrong~ Yuuho~? I finally caught up with you~"[pcms]
+[ns]航[nse]
+「どうしたの～悠帆～？[r]
+　せっかく追いついたのに～」[pcms]
 
 *3629|
 [fc]
 [vo_ren s="ren0546"]
-[ns]Ren[nse]
-"Big brother~ Why only Yuuho-chan~"[pcms]
+[ns]漣[nse]
+「お兄ちゃんったら～。[r]
+　なんで悠帆ちゃんばっかり～」[pcms]
 
 *3630|
 [fc]
-Ren-chan clung to Wataru's body and reached for his hips.[pcms]
+漣ちゃんは航の身体にしがみついて、腰へと手を伸ばす。[pcms]
 
 *3631|
 [fc]
 [vo_ren s="ren0547"]
-[ns]Ren[nse]
-"Big brother's cock belongs only to Ren... Yuuho-chan,[r]
-you're such an unnecessary child, aren't you~?"[pcms]
+[ns]漣[nse]
+「お兄ちゃんのおちんちんは漣だけのものなんだから……。[r]
+　悠帆ちゃん、なんて～、いらない子でしょ～？」[pcms]
 
 *3632|
 [fc]
 [vo_yuh s="yuho0532"]
-[ns]Yuuho[nse]
-"Nooo!!"[pcms]
+[ns]悠帆[nse]
+「いやぁああっ！！」[pcms]
 
 *3633|
 [fc]
-Wataru's pants zipper was open, and his wet and swollen[r]
-thing was peeking out.[pcms]
+航のズボンのチャックはひらかれていて、[r]
+ヌルヌルと濡れて大きくなっているアレが顔を覗かせていた。[pcms]
 
 *3634|
 [fc]
-[ns]Wataru[nse]
-"Ugh... Ahh... Ren, you're..."[pcms]
+[ns]航[nse]
+「ううっ……ああっ……漣ったら……」[pcms]
 
 *3635|
 [fc]
 [vo_ren s="ren0548"]
-[ns]Ren[nse]
-"Ufufu... Yuuho-chan is unnecessary, right~? Yuuho-chan is[r]
-an unnecessary child~"[pcms]
+[ns]漣[nse]
+「うふふっ……。[r]
+　悠帆ちゃんなんていらないでしょ～。[r]
+　悠帆ちゃんはいらない子～」[pcms]
 
 *3636|
 [fc]
 [vo_mar s="maru0533"]
-[ns]Margarita[nse]
-"You shouldn't say such things~. Everyone should get along~"[pcms]
+[ns]マルガリータ[nse]
+「そんなこといってはダメだ～。[r]
+　みんな、なかよくするんだ～」[pcms]
 
 *3637|
 [fc]
-[ns]Wataru[nse]
-"Ugh... That's right, Ren. Just like the senior says~"[pcms]
+[ns]航[nse]
+「ううっ……そうだよ～漣。[r]
+　先輩の言うとおりだ～」[pcms]
 
 *3638|
 [fc]
 [vo_ren s="ren0549"]
-[ns]Ren[nse]
-"Yes, big brother~"[pcms]
+[ns]漣[nse]
+「は～い、お兄ちゃ～ん～」[pcms]
 
 *3639|
 [fc]
-The three of them approached me amicably. I felt like I was[r]
-going to go crazy from their amicably insane appearance.[pcms]
+三人は仲良くわたしに近づいてくる。[r]
+わたしはその仲良く狂っている姿におかしくなりそうだった。[pcms]
 
 *3640|
 [fc]
-[ns]Wataru[nse]
-"Come on, Yuuho~. I'll make you feel good too~. Let's all[r]
-have sex together and get along~"[pcms]
+[ns]航[nse]
+「さあ、悠帆～。[r]
+　悠帆も気持ちよくしてあげるよ～。[r]
+　みんなで仲良くセックスしよう～」[pcms]
 
 *3641|
 [fc]
 [vo_yuh s="yuho0533"]
-[ns]Yuuho[nse]
-"Noooo!!"[pcms]
+[ns]悠帆[nse]
+「いやぁあああっ！！」[pcms]
 
 *3642|
 [fc]
-I couldn't take it anymore. I was rather relieved as my[r]
-consciousness slowly faded away. I wished that I would never[r]
-wake up again.[pcms]
+わたしはもう耐え切れなかった。[r]
+ゆっくりと意識が遠のいていくのが、むしろうれしかった。[r]
+このまま二度と目が覚めないで欲しいとわたしは思ってた。[pcms]
 
 
 ;システムボタン＆ウィンドウ消去
@@ -471,116 +485,123 @@ wake up again.[pcms]
 
 *3643|
 [fc]
-Suddenly screaming, Yuuho collapsed.[pcms]
+なんだか悲鳴を上げて、悠帆はぐったりとしてしまった。[pcms]
 
 *3644|
 [fc]
-[ns]Infected - Male M[nse]
-"I'll do it~"[pcms]
+[ns]感染者・男Ｍ[nse]
+「おれがやる～」[pcms]
 
 *3645|
 [fc]
-[ns]Infected - Male L[nse]
-"No, it's me~"[pcms]
+[ns]感染者・男Ｌ[nse]
+「いや、おれだ～」[pcms]
 
 *3646|
 [fc]
-[ns]Infected P[nse]
-"No, it's me~"[pcms]
+[ns]感染者Ｐ[nse]
+「いいや、私だぁ～」[pcms]
 
 *3647|
 [fc]
-Around Yuuho, there were still plenty of men swarming.[r]
-Around my beloved Yuuho... I started to feel angry.[pcms]
+悠帆の周りにはあいかわらず男たちがいっぱい群がっている。[r]
+ボクの大好きな悠帆の周りには……。[r]
+なんだか腹が立ってきた。[pcms]
 
 *3648|
 [fc]
-[ns]Wataru[nse]
-"Move it-! Yuuho is mine~!"[pcms]
+[ns]航[nse]
+「どけー！[r]
+　悠帆はボクのものだぞ～！」[pcms]
 
 *3649|
 [fc]
-I swung my hand in anger as I advanced. Then...[pcms]
+ボクは怒って手を振り上げながら、迫った。[r]
+すると……。[pcms]
 
 *3650|
 [fc]
-[ns]Infected Man L[nse]
-"Guah...!"[pcms]
+[ns]感染者・男Ｌ[nse]
+「ぐあっ……！」[pcms]
 
 *3651|
 [fc]
-[ns]Infected - Male M[nse]
-"Ugh...!"[pcms]
+[ns]感染者・男Ｍ[nse]
+「うがっ……！」[pcms]
 
 *3652|
 [fc]
-[ns]Infected P[nse]
-"Yuuho is mine, I'm telling you~"[pcms]
+[ns]感染者Ｐ[nse]
+「悠帆は私のものだと～、言ってるだろう～」[pcms]
 
 *3653|
 [fc]
-The man who had been holding Yuuho from behind knocked down[r]
-the other two. That was... isn't that Yuuho's uncle?[pcms]
+悠帆を後から抱えてた男が、他の二人を殴り倒した。[r]
+あれは……悠帆のおじさんじゃないか。[pcms]
 
 *3654|
 [fc]
-[ns]Wataru[nse]
-"Uncle..."[pcms]
+[ns]航[nse]
+「おじさん……」[pcms]
 
 *3655|
 [fc]
-[ns]Yuuho's father[nse]
-"Hmm... Who are you~?"[pcms]
+[ns]悠帆の父親[nse]
+「んっ……誰だね君は～？」[pcms]
 
 *3656|
 [fc]
-[ns]Wataru[nse]
-"It's me~. Uh, Ayase... Ayase Wataru~"[pcms]
+[ns]航[nse]
+「ボクですよ～。[r]
+　え～と、綾瀬……綾瀬　航ですよ～」[pcms]
 
 *3657|
 [fc]
-[ns]Yuuho's father[nse]
-"Ah~, the Ayase family's..."[pcms]
+[ns]悠帆の父親[nse]
+「あ～、綾瀬さんとこの……」[pcms]
 
 *3658|
 [fc]
-The uncle finally remembered me. But, it took me a while to[r]
-remember my own name, so it can't be helped.[pcms]
+おじさんはやっと思い出してくれた。[r]
+でも、ボクも自分の名前を思い出すのに[r]
+ちょっと時間がかかったくらいだからしかたがないな。[pcms]
 
 *3659|
 [fc]
-[ns]Yuuho's father[nse]
-"Just in time~. I want you, her childhood friend, to see it[r]
-too~. The moment Yuuho loses the virginity she has kept[r]
-until now~"[pcms]
+[ns]悠帆の父親[nse]
+「ちょうどよかった～。[r]
+　幼馴染の君にも見て欲しいんだ～。[r]
+　悠帆がこれまで守ってきた純潔を失うところを～」[pcms]
 
 *3660|
 [fc]
-[ns]Wataru[nse]
-"Virginity? You mean her virginity, right~? Who exactly is[r]
-going to do it with Yuuho~?"[pcms]
+[ns]航[nse]
+「純潔？[r]
+　処女のことですよね～。[r]
+　いったい誰が、悠帆とするんですか～？」[pcms]
 
 *3661|
 [fc]
-[ns]Yuuho's father[nse]
-"It's obviously me~. There's no one else but me who loves[r]
-Yuuho the most~"[pcms]
+[ns]悠帆の父親[nse]
+「私に決まっているだろう～。[r]
+　一番悠帆を愛している私を置いて他にないよ～」[pcms]
 
 *3662|
 [fc]
-The uncle said it as if it were a matter of course, but I[r]
-couldn't agree.[pcms]
+おじさんは当然のように言うが、[r]
+ボクは納得できない。[pcms]
 
 *3663|
 [fc]
-[ns]Wataru[nse]
-"Yuuho's virginity is mine!"[pcms]
+[ns]航[nse]
+「悠帆の処女はボクのモノですっ！」[pcms]
 
 *3664|
 [fc]
-[ns]Yuuho's father[nse]
-"What are you talking about. It belongs to me who has raised[r]
-Yuuho all this time~! Yuuho's virginity is mine!!"[pcms]
+[ns]悠帆の父親[nse]
+「なにを言っている。[r]
+　これまでずっと悠帆を育ててきた私のものだ～！[r]
+　悠帆の処女はわたしのものだぁ！！」[pcms]
 
 
 ;mm いちいち片方みてチェックするのめんどうから条件分岐廃止。回想では片方しかみてなくても選択肢で分岐させる。
@@ -599,7 +620,7 @@ Yuuho all this time~! Yuuho's virginity is mine!!"[pcms]
 ;	;//回想時、おとうさん、どうぞに飛ぶ
 ;
 ;	[if exp="sf.g_scene08_03 == 1"][jump target=*41120_03][endif]
-;	;//回想時、ボクのものだ！！に飛ぶ
+;	;//回想時、ボクのものだ～！！に飛ぶ
 ;
 ;	*41120_01
 ;	[jump storage="41130.ks" target=*41130_TOP]
@@ -612,24 +633,23 @@ Yuuho all this time~! Yuuho's virginity is mine!!"[pcms]
 
 *41120_sel01
 ;//---------------------------------------------------------------
-;//●選択肢Ａ４
-;//４１：二人で一緒に・・・→ブロック４１１３０へ
+;//●選択肢Ａ－４
+;//４－１：二人で一緒に・・・→ブロック４１１３０へ
 ;//４ー２：おとうさん、どうぞ→ブロック４１１４０へ
-;//４３：僕のものだ！！→ブロック４１１５０へ
+;//４－３：僕のものだ～！！→ブロック４１１５０へ
 
 
 ;	[link storage="41130.ks" target=*41130_TOP]二人で一緒に……[endlink]
 ;	[link storage="41140.ks" target=*41140_TOP]おとうさん、どうぞ[endlink]
-; (link storage="41150.ks" target=*41150_TOP)It's[r]
-mine~!!(endlink)[pcms]
+;	[link storage="41150.ks" target=*41150_TOP]ボクのものだ～！！[endlink][s]
 
-*SEL34|二人で一緒に……／おとうさん、どうぞ／ボクのものだ！！
+*SEL34|二人で一緒に……／おとうさん、どうぞ／ボクのものだ～！！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Together, just the two of us'"]
-[eval exp="f.seltext04 = 'Dad, please go ahead'"]
-[eval exp="f.seltext06 = 'I\'m yours~!!'"]
+[eval exp="f.seltext02 = '二人で一緒に……'"]
+[eval exp="f.seltext04 = 'おとうさん、どうぞ'"]
+[eval exp="f.seltext06 = 'ボクのものだ～！！'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

@@ -19,54 +19,51 @@
 
 *109|
 [fc]
-There were more infected roaming around on the second floor[r]
-than I expected.[pcms]
+２階には思ったよりも感染者が徘徊していた。[pcms]
 
 *110|
 [fc]
-But as I predicted, it's better than the first floor.[pcms]
+でも、予想通り１階よりはマシな状態だ。[pcms]
 
 *111|
 [fc]
-If a new wave were to come from outside the school, they'd[r]
-have to climb the stairs, which might deter them a bit. It[r]
-looks like I might be able to break through.[pcms]
+新手が学園外からやってくるとしたら、階段を登って[r]
+こなきゃいけない手間がある分だけ、かもしれないけれど、[r]
+これならボクでも何とか突破できそうだ。[pcms]
 
 *112|
 [fc]
-Now, what should I do from here?[pcms]
+さて、ここからどうしようか。[pcms]
 
 *113|
 [fc]
-To get to the gym side, I need to go down the stairs past[r]
-the library.[pcms]
+体育館側へ行くには、図書館の先にある階段を[r]
+降りなきゃいけない。[pcms]
 
 *114|
 [fc]
-To reach the special classrooms where the music room is, I[r]
-have to pass in front of the principal's office and the[r]
-staff room and then go through the corridor beyond that.[pcms]
+音楽室のある特殊教室棟へは、学園長室と教員室の前を通って[r]
+その先にある渡り廊下を抜ければいい。[pcms]
 
 *115|
 [fc]
-If I'm going to Yuuho, naturally I should head towards the[r]
-gym side, and if I'm going to Ren, I should aim for the[r]
-special classrooms where the music room is.[pcms]
+悠帆の元へ行くのならば当然、体育館側だし、[r]
+漣の元へと行くのならば、音楽室がある特殊教室棟へ[r]
+向かうべきだ。[pcms]
 
 *116|
 [fc]
-I'm worried about both of them, but unfortunately, I only[r]
-have one body.[pcms]
+二人とも心配だけれども、残念ながらボクの体は[r]
+一つしかない。[pcms]
 
 *117|
 [fc]
-Moreover, the gym and the special classrooms with the music[r]
-room are conveniently located opposite the regular classroom[r]
-building.[pcms]
+おまけに体育館と音楽室がある特殊教室棟は[r]
+ご丁寧なことに、通常教室棟と向かい合わせになっている。[pcms]
 
 *118|
 [fc]
-What should I do?[pcms]
+どうする？[pcms]
 
 ;//--------------------------------------------------------------------
 ;//●時限式選択肢
@@ -79,16 +76,15 @@ What should I do?[pcms]
 ;	[link storage="B_C1.ks" target=*B_C1_TOP]体育館側へ！[endlink]
 ;	[link storage="B_A1.ks" target=*B_A1_TOP]音楽室側へ！[endlink]
 ;	;[link storage="B_D3.ks" target=*B_D3_TOP]時間切れ[endlink]
-;       (link storage="B_D3.ks"[r]
-target=*B_D3_TOP)Yuuho...Ren...(endlink)[pcms]
+;	[link storage="B_D3.ks" target=*B_D3_TOP]悠帆……漣……[endlink][s]
 
 *SEL57|体育館側へ！／音楽室側へ！／悠帆……漣……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'To the gym side!'"]
-[eval exp="f.seltext04 = 'To the music room side!'"]
-[eval exp="f.seltext06 = 'Yuuho Ren'"]
+[eval exp="f.seltext02 = '体育館側へ！'"]
+[eval exp="f.seltext04 = '音楽室側へ！'"]
+[eval exp="f.seltext06 = '悠帆……漣……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

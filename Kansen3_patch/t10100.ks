@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）昼
+;//・時間帯：５日目（８月１９日）昼～
 ;//
 ;//※ライター様へ。
 ;//　このブロックはいわゆる日常シーンですが、
@@ -33,96 +33,96 @@
 
 *6026|
 [fc]
-It's time for dinner.[pcms]
+夕食の時間になった。[pcms]
 
 
 *6027|
 [fc]
-[ns]Wataru[nse]
-"Wow, this is extravagant..."[pcms]
+[ns]航[nse]
+「わー、豪勢だなー……」[pcms]
 
 *6028|
 [fc]
-The table is set for shabu-shabu, just as Ren requested.[pcms]
+テーブルには漣のリクエスト通り、[r]
+しゃぶしゃぶの用意が整っている。[pcms]
 
 *6029|
 [fc]
-It's summer, but the air conditioning inside the mansion is[r]
-effective, and it's a good menu that can replenish our[r]
-stamina after a tiring day.[pcms]
+夏だけど、館内は冷房が効いてるし、[r]
+疲れた身体にスタミナもつくし、いいメニューかもしれない。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6030|
 [fc]
 [vo_yuh s="yuho_T0022"]
-[ns]Yuuho[nse]
-"Yes, please help yourselves to more meat and vegetables![r]
-I've also prepared plenty of dipping sauce."[pcms]
+[ns]悠帆[nse]
+「はーい、お肉も野菜もどんどんお代わりしてね～っ！[r]
+　タレもたっぷりつくってあるよっ」[pcms]
 
 *6031|
 [fc]
-Yuuho and Ren come from the kitchen, carrying plates and[r]
-pots full of additional ingredients.[pcms]
+追加の具材がいっぱいに載ったお皿や鍋を掲げて[r]
+悠帆と漣がキッチンからやってくる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6032|
 [fc]
 [vo_ren s="ren_T0020"]
-[ns]Ren[nse]
-"For Jin-san, we have the 'Ren Special Anti-Metabolic[r]
-Vegetable Pot'."[pcms]
+[ns]漣[nse]
+「壬さんには、『漣謹製アンチメタボ野菜鍋』でーす」[pcms]
 
 *6033|
 [fc]
-Ren placed a special dish in front of Jin-san, who can't eat[r]
-meat.[pcms]
+肉がダメな壬さんの前に、漣が特別料理を置いた。[pcms]
 
 *6034|
 [fc]
-The "Ren Special Anti-Metabolic Vegetable Pot" is one of[r]
-Ren's specialties, often made for her father in winter...[pcms]
+『漣謹製アンチメタボ野菜鍋』は漣の得意レパートリーで[r]
+冬になるとよく父さんに食べさせていたっけ……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6035|
 [fc]
 [vo_ren s="ren_T0021"]
-[ns]Ren[nse]
-"I used bonito in the broth, is that okay?"[pcms]
+[ns]漣[nse]
+「おだしにカツオつかっちゃってるんですけど、[r]
+　大丈夫でしたか？」[pcms]
 
 *6036|
 [fc]
-Jin-san slightly relaxes his cheeks as Ren asks with[r]
-concern.[pcms]
+心配そうに尋ねる漣に、壬さんはほんの少しだけ頬を緩める。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *6037|
 [fc]
-[ns]Jin[nse]
-"Sorry to make you worry. I'm vegetarian, but not for[r]
-religious reasons, so I'm not that strict about it."[pcms]
+[ns]壬[nse]
+「気を遣わせて悪いな。[r]
+　俺はベジタリアンといっても宗教的な理由じゃないから、[r]
+　そこまで厳密にこだわることはない」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6038|
 [fc]
 [vo_ren s="ren_T0022"]
-[ns]Ren[nse]
-"Thank goodness. My father loved this flavor."[pcms]
+[ns]漣[nse]
+「良かったー。[r]
+　この味、お父さんが大好きだったんです」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6039|
 [fc]
-[ns]Shigeyoshi[nse]
-"...Food, huh."[pcms]
+[ns]重吉[nse]
+「…………メシか」[pcms]
 
 *6040|
 [fc]
-Suddenly, Shigeyoshi sluggishly shows his face.[pcms]
+不意に、重吉がのっそりと顔を出した。[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -140,47 +140,47 @@ Suddenly, Shigeyoshi sluggishly shows his face.[pcms]
 
 *6041|
 [fc]
-[ns]Shigeyoshi[nse]
-"...!!"[pcms]
+[ns]重吉[nse]
+「……っ！！」[pcms]
 
 *6042|
 [fc]
-As soon as he recognizes me, a dangerous light that could[r]
-almost be called murderous shines in Shigeyoshi's eyes.[pcms]
+ボクの姿を認めるなり、重吉の目に[r]
+殺意と言ってもいい剣呑な光が宿る。[pcms]
 
 *6043|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………っ……」[pcms]
 
 *6044|
 [fc]
-I can't afford to lose either.[pcms]
+ボクだって負けてはいられない。[pcms]
 
 *6045|
 [fc]
-If I show fear here, they'll think intimidation works and[r]
-might start making unreasonable demands again, using Ren and[r]
-Yuuho as shields...[pcms]
+ここで怯えてみせたら、脅迫が有効だと思われてしまう。[r]
+そうなればまた漣や悠帆を盾にとって[r]
+無法な要求をしだすかもしれないから……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *6046|
 [fc]
-[ns]Jin[nse]
-"Shige, something wrong?"[pcms]
+[ns]壬[nse]
+「シゲ、どうかしたか？」[pcms]
 
 *6047|
 [fc]
-Jin-san doesn't miss our silent standoff and directs his[r]
-sharp gaze at both me and Shigeyoshi.[pcms]
+ボクらの視殺戦を見逃すはずもなく、[r]
+壬さんが鋭い目をボクと重吉に向けてくる。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6048|
 [fc]
-[ns]Shigeyoshi[nse]
-"...Nothing, Aniki..."[pcms]
+[ns]重吉[nse]
+「……なんでもないよ、アニキ……」[pcms]
 
 ;//●通過している場合、ここまで。
 
@@ -190,75 +190,78 @@ sharp gaze at both me and Shigeyoshi.[pcms]
 
 *6049|
 [fc]
-He sits down with a clatter of his chair.[pcms]
+ガタガタと椅子を鳴らしながら、着席する。[pcms]
 
 *6050|
 [fc]
-And...[pcms]
+と……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6051|
 [fc]
-[ns]Kousuke[nse]
-"...Sorry, I'm late."[pcms]
+[ns]浩助[nse]
+「……悪ぃ、遅くなっちまった」[pcms]
 
 *6052|
 [fc]
-Kousuke and the others hurry into the shop.[pcms]
+コースケたちが小走りに、店の中に入ってきた。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *6053|
 [fc]
 [vo_miz s="mizuki_T0025"]
-[ns]Mizuki[nse]
-"Sorry~ Wow, shabu-shabu!"[pcms]
+[ns]瑞樹[nse]
+「ごめんね～、[r]
+　わぁっ、しゃぶしゃぶだー！」[pcms]
 ;//＠不自然に明るい
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6054|
 [fc]
-[ns]Kousuke[nse]
-"This is awesome! Today is literally all-you-can-eat!!"[pcms]
+[ns]浩助[nse]
+「すっげーな、おいっ！[r]
+　今日は文字通りの食い放題だぜーっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *6055|
 [fc]
 [vo_miz s="mizuki_T0026"]
-[ns]Mizuki[nse]
-"No way, should we really be eating such delicious food[r]
-while we're taking refuge?"[pcms]
+[ns]瑞樹[nse]
+「いやー、あたしたち、避難中だっていうのに、[r]
+　こんな美味しそーなご飯たべて良いのかな～？」[pcms]
 ;//＠不自然に明るい
 
 *6056|
 [fc]
-Their unusually bright and lively behavior could be due to[r]
-guilt or embarrassment from enjoying themselves alone...[pcms]
+不自然なまでに明るくはしゃいでいるのは、[r]
+二人だけで愉しんだことへの罪悪感なのか照れ隠しなのか……。[pcms]
 
 *6057|
 [fc]
-I wonder what kind of faces they would make if they knew we[r]
-accidentally overheard them...[pcms]
+実は、ボクたち偶然立ち聞きしてました、なんて知ったら[r]
+この二人、どんな顔するんだろ……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d24"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6058|
 [fc]
 [vo_mar s="maru_T0038"]
-[ns]Margarita[nse]
-"...Ahem!... That is... there's something I need to say[r]
-before we eat... In other words... that..."[pcms]
+[ns]マルガリータ[nse]
+「……ゴホン！……その……、[r]
+　食事前に言っておかないといけないことがある……。[r]
+　つまり…………その………………」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6059|
 [fc]
-The senior coughs to clear her throat and starts to speak[r]
-but falters, ending up saying "uhm" and "in other words"[r]
-without actually saying anything.[pcms]
+咳払いした先輩は話を切り出しかけて、口ごもる。[r]
+そのまま『えー』とか『つまり』とか言いながら、[r]
+結局何も言えないままに黙ってしまう。[pcms]
 
 [ChrSetEx layer=3 chbase="mizu_b1"][ChrSetXY layer=3 x=-63 y=0]
 [ChrSetEx layer=4 chbase="kou_c1"][ChrSetXY layer=4 x=407 y=0][trans_c cross time=150]
@@ -266,63 +269,61 @@ without actually saying anything.[pcms]
 *6060|
 [fc]
 [vo_miz s="mizuki_T0027"]
-[ns]Kousuke & Mizuki[nse]
-"?"[pcms]
+[ns]浩助＆瑞樹[nse]
+「？」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6061|
 [fc]
-[ns]Everyone[nse]
-"..."[pcms]
+[ns]一同[nse]
+「………………」[pcms]
 
 *6062|
 [fc]
-The senior who usually leads the conversation well has[r]
-failed, and we fall into an awkward silence.[pcms]
+いつも話題をうまく仕切ってくれる先輩が玉砕してしまい、[r]
+ボクたちは気まずい沈黙に陥ってしまった。[pcms]
 
 *6063|
 [fc]
-Only the bubbling sound of the simmering broth dominates the[r]
-room...[pcms]
+グツグツとだし汁の煮える音だけが室内を支配する……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *6064|
 [fc]
-[ns]Jin[nse]
-"...Well then, let's eat."[pcms]
+[ns]壬[nse]
+「……さて、いただきます」[pcms]
 
 *6065|
 [fc]
-Jin-san starts putting vegetables into the pot without[r]
-paying any mind to us who are blushing and silent.[pcms]
+顔を赤くして黙り込むボクらに構う様子もなく、[r]
+壬さんは鍋に野菜を入れ始めた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *6066|
 [fc]
-[ns]Jin[nse]
-"...What's with you guys, not eating?"[pcms]
+[ns]壬[nse]
+「…………なんだお前ら、食わないのか？」[pcms]
 
 *6067|
 [fc]
-Jin-san's gaze sweeps over us frozen in place and finally[r]
-settles on Kousuke and Mizuki.[pcms]
+凍りついたように固まったボクたちを見回す壬さんの視線が[r]
+最後にコースケと瑞樹の上に落ち着いた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *6068|
 [fc]
-[ns]Jin[nse]
-"...Be mindful of soundproofing."[pcms]
+[ns]壬[nse]
+「……防音くらい気を遣え」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6069|
 [fc]
-With that said, he takes some cooked vegetables and dips[r]
-them into the sauce.[pcms]
+それだけ言うと、煮えあがった野菜を漬けダレの器に取る。[pcms]
 
 [ChrSetEx layer=3 chbase="mizu_b9"][ChrSetXY layer=3 x=-63 y=0]
 [ChrSetEx layer=4 chbase="kou_c8"][ChrSetXY layer=4 x=387 y=0][trans_c cross time=150]
@@ -330,41 +331,40 @@ them into the sauce.[pcms]
 *6070|
 [fc]
 [vo_miz s="mizuki_T0028"]
-[ns]Kousuke & Mizuki[nse]
-"Eh!?"[pcms]
+[ns]浩助＆瑞樹[nse]
+「ええっ！？」[pcms]
 ;//＠ぎょっとする
 
 [chara_int][trans_c cross time=150]
 
 *6071|
 [fc]
-Kousuke and Mizuki look at each other and then shrug their[r]
-shoulders.[pcms]
+コースケと瑞樹は顔を見合わせ、それから首をすくめた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6072|
 [fc]
-[ns]Kousuke[nse]
-"...Could it be that obvious?"[pcms]
+[ns]浩助[nse]
+「…………ひょっとして、バレバレ？」[pcms]
 
 *6073|
 [fc]
-[ns]Wataru[nse]
-"Yeah... We happened to pass by. We heard it."[pcms]
+[ns]航[nse]
+「うん……通りすがりに。聞こえちゃって」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *6074|
 [fc]
-[ns]Kousuke[nse]
-"Seriously!?"[pcms]
+[ns]浩助[nse]
+「マジかよっ！？」[pcms]
 
 *6075|
 [fc]
-[ns]Wataru[nse]
-"Not just Jin-san and me. Yuuho, Ren, and Maruko-senpai[r]
-heard it too."[pcms]
+[ns]航[nse]
+「ちなみに壬さんとボクだけじゃない。[r]
+　悠帆と漣とマル子先輩も、聞いてるよ」[pcms]
 
 [chara_int][ChrSetEx layer=3 chbase="mizu_b20"][ChrSetXY layer=3 x=-63 y=0]
 [ChrSetEx layer=4 chbase="kou_c5"][ChrSetXY layer=4 x=387 y=0][trans_c cross time=150]
@@ -372,16 +372,16 @@ heard it too."[pcms]
 *6076|
 [fc]
 [vo_miz s="mizuki_T0029"]
-[ns]Kousuke & Mizuki[nse]
-"..."[pcms]
+[ns]浩助＆瑞樹[nse]
+「……………………」[pcms]
 ;//＠たははー、みたいなブレス
 
 [chara_int][trans_c cross time=150]
 
 *6077|
 [fc]
-The boiling broth spilled over, and our table was enveloped[r]
-in a grand cloud of steam.[pcms]
+沸騰しただし汁が吹きこぼれて、[r]
+ボクらのテーブルは盛大な湯気に包まれた。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

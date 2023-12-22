@@ -22,8 +22,8 @@
 
 *1335|
 [fc]
-And finally... as we calmed down, we slowly began to[r]
-exchange information with each other...[pcms]
+そして……、ようやく落ち着いたボクたちは、[r]
+少しずつお互いの情報を交換していった……。[pcms]
 
 ;//〆ＤＪバー（メインドーム）
 [bg storage="BG019a"][trans_c cross time=500]
@@ -32,20 +32,19 @@ exchange information with each other...[pcms]
 *1336|
 [fc]
 [vo_miz s="mizuki0270"]
-[ns]Mizuki[nse]
-"...So... what's happening outside?"[pcms]
+[ns]瑞樹[nse]
+「……それで……[r]
+　外では何が起きてるの？」[pcms]
 ;//＠瑞樹（声のみ）
 
 *1337|
 [fc]
-Mizuki seems to have been holed up in the manga cafe's[r]
-shower room on the 5th floor ever since this commotion[r]
-started.[pcms]
+瑞樹はこの騒動が起きてからずっと、[r]
+５Ｆの漫画喫茶にあるシャワールームに立てこもっていたらしい。[pcms]
 
 *1338|
 [fc]
-So it was no wonder she wanted to know what was going on[r]
-outside...[pcms]
+だから表の様子を知りたがるのも無理はなかったけど……。[pcms]
 
 ;//☆佐藤様へ
 ;//・地下道パートまでのモブの女子が犯されているイベントや、
@@ -53,134 +52,133 @@ outside...[pcms]
 
 *1339|
 [fc]
-But as I explained the situation, Mizuki became distraught.[pcms]
+やっぱり事態を説明するうちに、瑞樹は取り乱してしまった。[pcms]
 
 *1340|
 [fc]
-Jin was soothing the crying Mizuki with a few gentle words.[pcms]
+泣き叫ぶ瑞樹に、壬が短い言葉をかけてなだめていた。[pcms]
 
 *1341|
 [fc]
-Their interaction certainly looked special... and Kousuke's[r]
-anger only grew more intense.[pcms]
+その様子はやっぱり特別な関係に見えて……。[r]
+コースケはますます怒りをつのらせた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1342|
 [fc]
-[ns]Kousuke[nse]
-"Damn it, I don't like this..."[pcms]
+[ns]浩助[nse]
+「ったく、気に入らねぇ……」[pcms]
 
 *1343|
 [fc]
-By the way, the fat guy called Shige has a really bad[r]
-attitude. He's always picking fights with us.[pcms]
+ちなみに、シゲと呼ばれているデブの方は[r]
+めちゃくちゃ態度が悪い。[r]
+何かにつけボクらに突っかかってくる。[pcms]
 
 *1344|
 [fc]
-But I felt like Jin was at least a bit more reasonable...[pcms]
+でも、壬の方は少しは話が通じるような気がした……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1345|
 [fc]
 [vo_mar s="maru1458"]
-[ns]Margarita[nse]
-"...What about you guys? Where were you when the commotion[r]
-started?"[pcms]
+[ns]マルガリータ[nse]
+「……アナタたちは？[r]
+　騒ぎが始まったとき、どこにいたんだ？」[pcms]
 
 *1346|
 [fc]
-In response to the senior's question, Jin said he was at[r]
-Celesta Tower when he received an email from Mizuki.[pcms]
+先輩の問いに、壬はセレスタワーで[r]
+瑞樹からメールを受け取ったと言っていた。[pcms]
 
 *1347|
 [fc]
-By that time, it seems there were already infected people in[r]
-the city.[pcms]
+その頃にはもう街には感染者が出ていたらしい。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1348|
 [fc]
-[ns]Kousuke[nse]
-"See, that's your base, right? Then just leave Mizuki behind[r]
-and go back..."[pcms]
+[ns]浩助[nse]
+「やっぱ、そっちが本拠地じゃん。[r]
+　なら、瑞樹を置いて帰れよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1349|
 [fc]
 [vo_miz s="mizuki0271"]
-[ns]Mizuki[nse]
-"Kousuke!"[pcms]
+[ns]瑞樹[nse]
+「コースケ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1350|
 [fc]
 [vo_mar s="maru1459"]
-[ns]Margarita[nse]
-"Let's drop that subject..."[pcms]
+[ns]マルガリータ[nse]
+「その話は、もうよせ……」[pcms]
 
 *1351|
 [fc]
-But if we believe Jin's story, there are still safe people[r]
-at Celesta Tower...[pcms]
+だけど、壬の話を信じるなら、[r]
+セレスタワーにも無事な人たちがいるんだ……。[pcms]
 
 *1352|
 [fc]
-The fact that there are many yakuza there is concerning, but[r]
-still, they are human beings after all.[pcms]
+ヤクザが多いっていうのは気になるけど、[r]
+まあそれでも、人間だっていうことに変わりはない。[pcms]
 
 *1353|
 [fc]
-Knowing that there are other survivors... it became a strong[r]
-hope for us.[pcms]
+生き延びている人たちが、他にもいる……。[r]
+そのことはボクたちにとって強い希望になった。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a11"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1354|
 [fc]
 [vo_ren s="ren1354"]
-[ns]Ren[nse]
-"...Dad isn't replying, huh..."[pcms]
+[ns]漣[nse]
+「…………お父さん、返事こないね……」[pcms]
 
 *1355|
 [fc]
-Ren was constantly worried about not receiving any emails[r]
-from her father.[pcms]
+漣はしきりに、父さんからのメールがないことを気にしていた。[pcms]
 
 *1356|
 [fc]
-The last message was about the evacuation center at Nezumi[r]
-Kingdom being attacked by a flock of crows, so I'm worried[r]
-too.[pcms]
+最後の知らせが、ネズミーキングダムの避難所が、[r]
+カラスの群れに襲われたっていう内容だけに、ボクも心配だ。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1357|
 [fc]
 [vo_yuh s="yuho1518"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 ;//＠不安をかくしきれない、ブレス
 
 *1358|
 [fc]
-But in terms of worry, Yuuho, who still hadn't been able to[r]
-contact her parents, was the most pitiable.[pcms]
+だけど心配という意味では、[r]
+まだ両親と連絡が付かない悠帆が一番気の毒だった。[pcms]
 
 *1359|
 [fc]
-We shouldn't give up hope... I think. But hesitating to[r]
-simply console her, we end up not finding the right words to[r]
-say...[pcms]
+希望を捨ててはいけない……とは思う。[r]
+だけど、安易にボクらが慰めるのもためらわれて、[r]
+結局はかける言葉が見つからない……。[pcms]
 
 *1360|
 [fc]
-Besides, looking at Yuuho's worried face makes me wonder if[r]
-she's thinking about Oshima-senpai. I'm such a...[pcms]
+それに、心配そうな悠帆の顔を見ていると[r]
+どうしても大嶋先輩のことを考えてるのかと思ってしまう。[r]
+まったくボクっていうやつは……。[pcms]
 
 ;//☆回想調モノローグ終了
 

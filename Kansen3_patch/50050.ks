@@ -1,11 +1,11 @@
 ;//block:A006
 ;//ブロック５００４０から選択肢でjump
 ;//ブロック５００７０からjump
-;//ブロック５００５０『地上ＬＡＳＥＲへ』
+;//ブロック５００５０『地上～ＬＡＳＥＲへ』
 ;//@konya 11/12 bg貼付
 
 *50050_TOP
-;{SceneSet 地上ＬＡＳＥＲへ}
+;{SceneSet 地上～ＬＡＳＥＲへ}
 ;//---------------------------------------------------------------
 ;//背景：スクランブル交差点・センターストリート正面口・ＨＬＶ（ＣＤショップ）裏・路地
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣・航
@@ -13,33 +13,33 @@
 ;//時間帯：
 ;//・テキスト容量：1K前後
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ａ１　１１：センターストリート正面口から
+;//●時限式選択肢Ａ－１　１－１：センターストリート正面口から
 
 [sysbt_meswin]
 
 *317|
 [fc]
-[ns]Wataru[nse]
-"It's now or never, let's go!"[pcms]
+[ns]航[nse]
+「いちかばちか、行きましょう！」[pcms]
 
 *318|
 [fc]
-I point towards Center Street.[pcms]
+ボクはセンターストリートを指し示す。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *319|
 [fc]
 [vo_mar s="maru1317"]
-[ns]Margarita[nse]
-"Understood!"[pcms]
+[ns]マルガリータ[nse]
+「分かった！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *320|
 [fc]
-Chasing after my senior who dashes out like a bullet, I make[r]
-sure not to fall behind.[pcms]
+弾丸が飛び出すようにダッシュする先輩に、[r]
+遅れないように追随する。[pcms]
 
 ;//@konya センターストリート
 [bg storage="BG05d"][trans_c cross time=500]
@@ -47,56 +47,53 @@ sure not to fall behind.[pcms]
 
 *321|
 [fc]
-That girl with the red eyes was still standing at the front[r]
-entrance.[pcms]
+正面口には、まだあの赤い目の少女が立っていた。[pcms]
 
 *322|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *323|
 [fc]
-In an instant, as we pass by each other, my gaze entangles[r]
-with that of the girl's.[pcms]
+刹那、すれ違うボクと少女の視線が絡み合う。[pcms]
 
 *324|
 [fc]
-An ominous premonition... A shiver runs down my spine.[pcms]
+不吉な予感……、背筋に戦慄が走る。[pcms]
 
 *325|
 [fc]
-My senior runs through Center Street in the blink of an eye.[pcms]
+先輩はあっという間にセンターストリートを駆け抜けていく。[pcms]
 
 *326|
 [fc]
-The number of infected seems to be increasing slowly, but[r]
-they haven't yet blocked the width of the road. Can we make[r]
-it through...?[pcms]
+感染者は、少しずつ増えてはいるようだったけれど、[r]
+まだ道幅を塞がれるほどじゃない。[r]
+このまま……行けるか！？[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *327|
 [fc]
 [vo_mar s="maru1318"]
-[ns]Margarita[nse]
-"Gah!!"[pcms]
+[ns]マルガリータ[nse]
+「くっ！！」[pcms]
 
 *328|
 [fc]
-Just as we turn into the alley that leads from the back of[r]
-the "HLV" CD shop to in front of "Kimesugitakashi," Senior[r]
-Maruko stops in her tracks.[pcms]
+ＣＤショップの『ＨＬＶ』裏から『キメスギタカシ』前に[r]
+繋がる路地を曲がった途端、マル子先輩が立ち止まった。[pcms]
 
 *329|
 [fc]
-[ns]Wataru[nse]
-"Huh!?"[pcms]
+[ns]航[nse]
+「えっ！？」[pcms]
 
 *330|
 [fc]
-Unable to stop in time, I collide with my senior, and we[r]
-both tumble to the ground.[pcms]
+止まりきれなかったボクは先輩に衝突し、[r]
+そのまま二人して転んでしまう。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -106,100 +103,101 @@ both tumble to the ground.[pcms]
 
 *331|
 [fc]
-[ns]Wataru[nse]
-"What's...?"[pcms]
+[ns]航[nse]
+「な、何が……？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *332|
 [fc]
 [vo_mar s="maru1319"]
-[ns]Margarita[nse]
-"It's them...!!"[pcms]
+[ns]マルガリータ[nse]
+「ヤツラだ……っ！！」[pcms]
 
 *333|
 [fc]
-A massive swarm of infected fills the narrow alley. Going[r]
-any further would be suicide![pcms]
+狭い路地を埋め尽くす、大量の感染者が湧いていた。[r]
+このまま進んだら自殺行為だ！[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *334|
 [fc]
 [vo_mar s="maru1320"]
-[ns]Margarita[nse]
-"Wataru, we need to turn back!"[pcms]
+[ns]マルガリータ[nse]
+「ワタル、引き返すぞ！」[pcms]
 
 *335|
 [fc]
-[ns]Wataru[nse]
-"Y-Yes!"[pcms]
+[ns]航[nse]
+「は、はいっ！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *336|
 [fc]
-We try to stand up and turn back. But...[pcms]
+立ち上がって引き返そうとする。[r]
+しかし……。[pcms]
 
 *337|
 [fc]
-[ns]Wataru[nse]
-"Whoa! They're coming from this side too!"[pcms]
+[ns]航[nse]
+「うわっ！　こっちからも！」[pcms]
 
 *338|
 [fc]
-The entrance to the alley is already being reached by the[r]
-infected chasing after us.[pcms]
+路地の入り口には既に、[r]
+ボクらを追ってきた感染者が到達しようとしている。[pcms]
 
 *339|
 [fc]
-This is bad! We're blocked from both front and back![pcms]
+まずい！[r]
+前も後ろも塞がれる！[pcms]
 
 *340|
 [fc]
-[ns]Wataru[nse]
-"If we're going to break through... this way!"[pcms]
+[ns]航[nse]
+「突破するなら……、こっちを！」[pcms]
 
 *341|
 [fc]
-I take a stance, ready to counterattack against the fewer[r]
-number of infected at the entrance side.[pcms]
+少しでも人数の少ない入り口側の感染者に[r]
+応戦しようと、ボクは構えを取る。[pcms]
 
 *342|
 [fc]
-There's nothing that could be used as a weapon. Somehow, I[r]
-have to knock down a few at the entrance with kicks to clear[r]
-a path![pcms]
+武器になるようなものは何もない。[r]
+何とか、入り口の数人を蹴り倒して、道を開かないと！[pcms]
 
 *343|
 [fc]
-My senior and I position ourselves back-to-back, timing our[r]
-moves.[pcms]
+ボクと先輩は背中合わせになるようにして[r]
+タイミングを計る。[pcms]
 
 *344|
 [fc]
-But... The distance between us and the infected blocking the[r]
-alley is too close![pcms]
+だけど……。[r]
+路地を塞いでいた感染者たちとの距離が近すぎる！[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *345|
 [fc]
 [vo_mar s="maru1321"]
-[ns]Margarita[nse]
-"D-Don't come any closer aaaaahhhhh-----!!"[pcms]
+[ns]マルガリータ[nse]
+「く、来るなああぁぁぁーーーーーっ！！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *346|
 [fc]
-[ns]Wataru[nse]
-"Senior!!"[pcms]
+[ns]航[nse]
+「先輩っ！！」[pcms]
 
 *347|
 [fc]
-The surging infected rush at us like an avalanche, engulfing[r]
-both me and my senior...[pcms]
+殺到する感染者が雪崩のように押し寄せてきて[r]
+ボクと先輩を飲み込んでしまった……。[pcms]
 
 ;//暗転
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

@@ -1,10 +1,10 @@
 ;//block:C009
-;//ブロック４２０８０『地下道漣のみ脱出編』
+;//ブロック４２０８０『地下道～漣のみ脱出編～』
 ;//@konya 11/19 EV_CGほか
 ;//@konya 42070.txtから
 
 *42080_TOP
-;{SceneSet 地下道漣のみ脱出編}
+;{SceneSet 地下道～漣のみ脱出編～}
 ;//--------------------------------------------------------------------
 ;//背景：地下通路
 ;//登場人物:主人公・浩助・マルガリータ・漣
@@ -22,13 +22,13 @@
 
 *5447|
 [fc]
-[ns]Wataru[nse]
-"...Mmm..."[pcms]
+[ns]航[nse]
+「……んっ…………」[pcms]
 
 *5448|
 [fc]
-[ns]Wataru[nse]
-"...Mmm... Mmm..."[pcms]
+[ns]航[nse]
+「……んんっ…………んっ……」[pcms]
 
 ;//瞬きエフェクト
 
@@ -39,35 +39,36 @@
 
 *5449|
 [fc]
-[ns]Wataru[nse]
-"...It's ringing."[pcms]
+[ns]航[nse]
+「……鳴ってる」[pcms]
 
 *5450|
 [fc]
-I noticed the vibration of my phone and woke up.[pcms]
+ボクはケータイのバイブ音に気がついて、目を覚ました。[pcms]
 
 *5451|
 [fc]
-Darn it! I thought I couldn't sleep because I was wide[r]
-awake, but it seems I fell asleep without realizing it.[pcms]
+しまった！[r]
+目がさえて眠れないと思っていたのに、[r]
+いつの間にか寝ってしまってたみたいだ。[pcms]
 
 *5452|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5453|
 [fc]
-I hurriedly looked around, though it was already too late.[pcms]
+ボクはあわてて、いまさらあたりを見回す。[pcms]
 
 *5454|
 [fc]
-[ns]Wataru[nse]
-"*sigh*..."[pcms]
+[ns]航[nse]
+「ふうっ……」[pcms]
 
 *5455|
 [fc]
-Nothing around me had changed, nothing was amiss.[pcms]
+あたりに変わったところ、おかしいところはない。[pcms]
 
 ;//SE停止(ループ・即時停止)
 [stopse buf=0]
@@ -76,7 +77,7 @@ Nothing around me had changed, nothing was amiss.[pcms]
 
 *5456|
 [fc]
-I felt relieved and opened my phone.[pcms]
+ボクは安心して、ケータイを開いた。[pcms]
 
 ;//se021・携帯電話を開ける音
 [se buf=0 storage="se021"]
@@ -85,91 +86,88 @@ I felt relieved and opened my phone.[pcms]
 
 *5457|
 [fc]
-Looking at the clock, several hours had passed.[pcms]
+時計を見ると何時間か経ってる。[pcms]
 
 *5458|
 [fc]
-I rubbed my sleepy eyes as I operated the phone. Maybe it's[r]
-from Dad?[pcms]
+ボクはまだ眠い目をこすりながらケータイを操作する。[r]
+父さんからだろうか？[pcms]
 
 ;//se022・携帯の操作音
 [se buf=0 storage="se022"]
 
 *5459|
 [fc]
-[ns]Wataru[nse]
-"Huh...?"[pcms]
+[ns]航[nse]
+「あれ……？」[pcms]
 
 *5460|
 [fc]
-There were no new messages.[pcms]
+メールは着信していなかった。[pcms]
 
 ;//不気味なＢＧＭ
 [bgm storage="BGM05"]
 
 *5461|
 [fc]
-I found it strange and pressed the back button. I don't[r]
-remember setting an alarm for this time... what could it[r]
-be...[pcms]
+ボクは不思議に思って、戻るボタンを押す。[r]
+こんな時間にアラームをかけた覚えはないし……いったい……。[pcms]
 
 *5462|
 [fc]
-That's when I realized that it wasn't a message but a phone[r]
-call that had come in.[pcms]
+そう思ったボクは、それがメールじゃなくて[r]
+電話の着信だということに気がついた。[pcms]
 
 *5463|
 [fc]
-I had it on vibrate, so I didn't notice, but if it were a[r]
-message, I wouldn't have noticed such a short alert. If it[r]
-was a call long enough to wake me up, it must have been a[r]
-phone call for sure.[pcms]
+バイブにしてたから、つい気がつかなかったけど、[r]
+メールの着信なら気がつかないくらいに短い。[r]
+目を覚ますくらい長い着信なら、きっと電話だ。[pcms]
 
 *5464|
 [fc]
-As I thought, there was "1 missed call" on my phone. ...Is[r]
-my phone able to receive calls now?[pcms]
+思ったとおり、ケータイには『不在着信　１件』とあった。[r]
+……ケータイが通じるようになっている？[pcms]
 
 ;//se022・携帯の操作音
 [se buf=0 storage="se022"]
 
 *5465|
 [fc]
-[ns]Wataru[nse]
-"...Who could it be?"[pcms]
+[ns]航[nse]
+「……いったい誰が？」[pcms]
 
 *5466|
 [fc]
-I had a bad feeling and hesitantly pressed the button.[pcms]
+ボクはなにかいやな予感がして、おそるおそるボタンを押した。[pcms]
 
 ;//se022・携帯の操作音
 [se buf=0 storage="se022"]
 
 *5467|
 [fc]
-[ns]Wataru[nse]
-"...?!"[pcms]
+[ns]航[nse]
+「………………っ！？」[pcms]
 
 *5468|
 [fc]
-I couldn't hide my surprise at the name displayed on my[r]
-phone.[pcms]
+ボクはケータイに表示された名前に驚きを隠せなかった。[pcms]
 
 *5469|
 [fc]
-The display read "Yuuho."[pcms]
+そこには『悠帆』と表示されていた。[pcms]
 
 *5470|
 [fc]
-[ns]Wataru[nse]
-"From Yuuho...?!"[pcms]
+[ns]航[nse]
+「悠帆……から……！？」[pcms]
 
 ;//se055・心臓の鼓動
 [se buf=1 storage="se055"]
 
 *5471|
 [fc]
-My heart was pounding with surprise so fast I could feel it.[pcms]
+驚きに心臓がすごい速さで脈打ってるのがわかる。[pcms]
 
 ;//se023・携帯のバイブ音
 [se buf=0 storage="se023" loop=true]
@@ -177,28 +175,27 @@ My heart was pounding with surprise so fast I could feel it.[pcms]
 
 *5472|
 [fc]
-In my bewildered hands, the phone started to vibrate again.[pcms]
+戸惑っているボクの手の中で、またケータイが震えだす。[pcms]
 
 *5473|
 [fc]
-And on the screen, the name "Yuuho" was flashing.[pcms]
+そして、画面には『悠帆』という文字が点滅していた。[pcms]
 
 ;//--------------------------------------------------------------------
-;//●選択肢Ｃ１
-;//１１：出る→ブロック４２１３０へ
-;//１２：出ない→ブロック４２０９０へ
+;//●選択肢Ｃ－１
+;//１－１：出る→ブロック４２１３０へ
+;//１－２：出ない→ブロック４２０９０へ
 
 
 ;	[link storage="42080.ks" target=*01]出る[endlink]
-; (link storage="42090.ks" target=*42090_TOP)Don't[r]
-answer(endlink)[pcms]
+;	[link storage="42090.ks" target=*42090_TOP]出ない[endlink][s]
 
 *SEL35|出る／出ない
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'To leave / To exit'"]
-[eval exp="f.seltext04 = 'I won\'t go out'"]
+[eval exp="f.seltext02 = '出る'"]
+[eval exp="f.seltext04 = '出ない'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

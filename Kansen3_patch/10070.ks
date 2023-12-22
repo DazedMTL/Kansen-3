@@ -19,33 +19,32 @@
 
 *467|
 [fc]
-I was once again strolling through the shrine, as I always[r]
-do.[pcms]
+ワタシはまたいつものように、神社を散策していた。[pcms]
 
 *468|
 [fc]
-Ever since I came to Japan, whenever I have free time, I[r]
-naturally find myself visiting this shrine.[pcms]
+日本に来てからというもの、ヒマさえあれば自然と[r]
+この神社に訪れてしまう。[pcms]
 
 *469|
 [fc]
-The abundance of trees provides cool shade even on hot days,[r]
-and the atmosphere, which is unique to Japanese culture, is[r]
-a healing space for me.[pcms]
+木立が多く、暑い日ざしの中でも一歩足を踏み入れれば[r]
+涼しい境内と、日本独特の文化を感じさせる風情は、[r]
+ワタシにとって癒しの空間だ。[pcms]
 
 *470|
 [fc]
-Moreover... this shrine is small and so ordinary that even[r]
-the locals seldom visit, but for me, it's a special place.[pcms]
+それに……ここの神社は小さくて近所の人間でさえ[r]
+あまり来ないほどごく普通の神社だけれども、[r]
+ワタシにとっては特別な場所だった。[pcms]
 
 *471|
 [fc]
-When I lean against the cedar tree of the sacred tree, the[r]
-memories come flooding back vividly.[pcms]
+御神木の杉の木に寄りかかると、鮮明に思い出してくる。[pcms]
 
 *472|
 [fc]
-Yes, on that day, I...[pcms]
+そう、あの日、ワタシは……。[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -55,84 +54,85 @@ Yes, on that day, I...[pcms]
 *473|
 [fc]
 [vo_mob s="sesuka0006"]
-[ns]Sesuka[nse]
-"Young lady"[pcms]
+[ns]セスカ[nse]
+「お嬢様」[pcms]
 
 *474|
 [fc]
-The one who shattered my reverie and pulled me back to[r]
-reality was Sesuka's voice.[pcms]
+ワタシの物思いを破り現実に引き戻したのは、[r]
+セスカの声だった。[pcms]
 
 *475|
 [fc]
-I thought I had finally gotten a moment to myself.[pcms]
+やっとまいて一人きりになったと思ったのに。[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *476|
 [fc]
 [vo_mob s="sesuka0007"]
-[ns]Sesuka[nse]
-"You never know what might happen. How many times must I[r]
-tell you not to wander off alone?"[pcms]
+[ns]セスカ[nse]
+「何があるのかわからないのです。一人で[r]
+　出歩かないでくださいと、何度申し上げたら[r]
+　おわかり下さるのですか？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *477|
 [fc]
 [vo_mar s="maru0517"]
-[ns]Margarita[nse]
-"This isn't Matinia. In Japan, where guns aren't prevalent,[r]
-there are few who could harm me. Can't you let me have a[r]
-little freedom?"[pcms]
+[ns]マルガリータ[nse]
+「ここはマティニアではないのだ。銃器も出回っていない日本で[r]
+　ワタシに傷をつけられる者など、限られているだろう？[r]
+　少しは自由にさせてくれ」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d6"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *478|
 [fc]
 [vo_mob s="sesuka0008"]
-[ns]Sesuka[nse]
-"I cannot do that, young lady. As long as I am your SP[r]
-(Security Personnel), I will protect you with my life."[pcms]
+[ns]セスカ[nse]
+「そんな事はできません、お嬢様。ワタシがお嬢様の[r]
+　ＳＰでいる限り、この命に代えましてもお嬢様を[r]
+　お護りいたします」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *479|
 [fc]
 [vo_mar s="maru0518"]
-[ns]Margarita[nse]
-"Then I shall speak to father and have you dismissed."[pcms]
+[ns]マルガリータ[nse]
+「それじゃあ、父様に言って解任してもらうことにしよう」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d4"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *480|
 [fc]
 [vo_mob s="sesuka0009"]
-[ns]Sesuka[nse]
-"It was because no one else was suitable to be your SP that[r]
-I was assigned to you. Do you think there is an easy[r]
-replacement?"[pcms]
+[ns]セスカ[nse]
+「ワタシ以外の人間が総てお嬢様にまかれて、ＳＰのお役に[r]
+　ならなかったからワタシがお嬢様付になったのです。[r]
+　そうそう、代わりがいるとは思いませんが？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *481|
 [fc]
 [vo_mar s="maru0519"]
-[ns]Margarita[nse]
-"Really now..."[pcms]
+[ns]マルガリータ[nse]
+「本当にもう……」[pcms]
 
 *482|
 [fc]
-Indeed, I have to admit that Sesuka's argument is valid.[r]
-This must be because I became the daughter of the ambassador[r]
-of Matinia in Japan.[pcms]
+確かにセスカの言い分は正しいものだと認めざるを得ない。[r]
+これもワタシが在日マティニア国大使の娘に[r]
+なってしまったからだろう。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *483|
 [fc]
-With a sigh of resignation, I walked around to the back of[r]
-the shrine.[pcms]
+あきらめと共にため息を吐くと、ワタシは神社の裏側へと回った。[pcms]
 
 ;//〆BG：神社の裏
 ;//@konya 該当CGあるか？
@@ -142,90 +142,93 @@ the shrine.[pcms]
 
 *484|
 [fc]
-Although I found it annoying that Sesuka naturally followed[r]
-me, I felt the usual warmth returning to my heart.[pcms]
+セスカが当然のように付いてくるのを[r]
+鬱陶しく思ったけれど、ワタシはいつものように心の中に[r]
+温かさが蘇ってくるのを感じた。[pcms]
 
 *485|
 [fc]
-This small shrine that most people wouldn't even glance[r]
-at...[pcms]
+ほとんどの人が見向きもしないようなこの小さなお社。[pcms]
 
 *486|
 [fc]
-And the several small flags lined up next to it.[pcms]
+それに幾本も並んだ小さな旗。[pcms]
 
 *487|
 [fc]
-This place is just as important to me as that sacred tree.[pcms]
+ここもあの御神木と同じように、ワタシにとって大事な場所だ。[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d7"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *488|
 [fc]
 [vo_mob s="sesuka0010"]
-[ns]Sesuka[nse]
-"But young lady, why do you visit this shrine so often? I am[r]
-well aware of your interest in Japanese culture,"[pcms]
+[ns]セスカ[nse]
+「けれどお嬢様、何度もこの神社に来られるのはなぜ[r]
+　なんですか？　お嬢様が日本文化にご興味がおありなのは[r]
+　重々承知しておりますが」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *489|
 [fc]
 [vo_mar s="maru0520"]
-[ns]Margarita[nse]
-"There are memories here."[pcms]
+[ns]マルガリータ[nse]
+「思い出がある」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *490|
 [fc]
 [vo_mob s="sesuka0011"]
-[ns]Sesuka[nse]
-"Memories, you say?"[pcms]
+[ns]セスカ[nse]
+「思い出、ですか？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *491|
 [fc]
 [vo_mar s="maru0521"]
-[ns]Margarita[nse]
-"Yes. Sesuka, do you know that my father used to be a[r]
-merchant?"[pcms]
+[ns]マルガリータ[nse]
+「そう。セスカは父様が昔、貿易商をしていたのを[r]
+　知っているか？」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d7"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *492|
 [fc]
 [vo_mob s="sesuka0012"]
-[ns]Sesuka[nse]
-"Yes. If I recall correctly, he met your mother here in[r]
-Japan through his work and they got married."[pcms]
+[ns]セスカ[nse]
+「えぇ。確かお仕事の関係で来られたこの日本で、[r]
+　お嬢様のお母様とお知り合いになられ、[r]
+　ご結婚なされたとか」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *493|
 [fc]
 [vo_mar s="maru0522"]
-[ns]Margarita[nse]
-"My mother's hometown is this town. Before the civil war in[r]
-our country, we came here for a week or two for a visit. And[r]
-they brought me to this shrine."[pcms]
+[ns]マルガリータ[nse]
+「母様の故郷はこの町なのだ。我が国で起こった内戦前、[r]
+　家族で１，２週間ほど遊びに来たことがある。[r]
+　そしてこの神社に連れてきて貰ったんだ」[pcms]
 ;//＠母様＝かあさま
 
 *494|
 [fc]
-Yes, in front of this shrine, my mother and I played with[r]
-fireworks and ran around the sacred tree playing tag.[pcms]
+そう、このお社の前で母様と花火をしたり、御神木の[r]
+周りをくるくる回って追いかけっこをしたりして[r]
+遊んでもらった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *495|
 [fc]
 [vo_mar s="maru0523"]
-[ns]Margarita[nse]
-"I was also taken to a summer festival. There, my mother won[r]
-a marble for me. It was very blue and clear, a very precious[r]
-thing."[pcms]
+[ns]マルガリータ[nse]
+「夏祭りというものにも連れて行ってもらったな。[r]
+　そこで母様にビー玉を取ってもらったんだ。とても青く、[r]
+　透き通っていてとても大切な物だった」[pcms]
 ;//＠母様＝かあさま
 
 [ChrSetEx layer=5 chbase="sesuka_d9"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
@@ -233,102 +236,105 @@ thing."[pcms]
 *496|
 [fc]
 [vo_mob s="sesuka0013"]
-[ns]Sesuka[nse]
-"By marble, do you mean those made of glass?"[pcms]
+[ns]セスカ[nse]
+「ビー玉と言うと、あのガラスでできた？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *497|
 [fc]
 [vo_mar s="maru0524"]
-[ns]Margarita[nse]
-"Yes, that marble. I was so happy that I carried it[r]
-everywhere with me. There was only one time when I lost it,[r]
-and I searched desperately while crying."[pcms]
+[ns]マルガリータ[nse]
+「そう、そのビー玉だ。ワタシは嬉しくて、どこに行くにも[r]
+　持って歩いたものだ。一度だけなくしてしまった事があるが、[r]
+　あの時は泣きながら必死に探した」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d1"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *498|
 [fc]
 [vo_mob s="sesuka0014"]
-[ns]Sesuka[nse]
-"Did you find it?"[pcms]
+[ns]セスカ[nse]
+「見つかったのですか？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *499|
 [fc]
 [vo_mar s="maru0525"]
-[ns]Margarita[nse]
-"Ah, it was found. No, someone found it for me. Right here[r]
-at this spot. A boy I didn't know offered it to me."[pcms]
+[ns]マルガリータ[nse]
+「あぁ、見つかった。いや、見つけて貰ったんだ。そう、[r]
+　ちょうどこの場所だ。見知らぬ男の子が差し出してくれてな」[pcms]
 
 *500|
 [fc]
-I was so happy.[pcms]
+嬉しかった。[pcms]
 
 *501|
 [fc]
-He ran off before I could even thank him. Maybe he was just[r]
-shy, but at that time, I didn't understand such things.[pcms]
+ワタシがお礼を言うよりも早く、[r]
+逃げるように去っていってしまった彼。[pcms]
 
 *502|
 [fc]
-But since then, that marble became even more precious to me.[pcms]
+今なら彼の行動が照れてなのかもしれないと思うけれど、[r]
+あの時のワタシにはそんなこともわからなくて。[pcms]
 
 *503|
 [fc]
-Thinking about it now, that might have been my first love...[pcms]
+でもそれ以来、あのビー玉はもっと大切な物になった。[pcms]
 
 *504|
 [fc]
-"That's wonderful. Do you still have that marble?"[pcms]
+思えばあれが、[r]
+初恋と言うものだったのかもしれない……。[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d7"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *505|
 [fc]
 [vo_mob s="sesuka0015"]
-[ns]Sesuka[nse]
-"I buried it."[pcms]
+[ns]セスカ[nse]
+「それはようございました。今もそのビー玉はお持ちに[r]
+　なっていらっしゃるのですか？」[pcms]
 
 *506|
 [fc]
-Sesuka's voice once again interrupted my thoughts.[pcms]
+再びワタシの物思いを打ち破ったセスカの声。[pcms]
 
 *507|
 [fc]
-That marble... that marble is...[pcms]
+あのビー玉は……あのビー玉は。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *508|
 [fc]
 [vo_mar s="maru0526"]
-[ns]Margarita[nse]
-"Buried."[pcms]
+[ns]マルガリータ[nse]
+「埋めた」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_d2"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *509|
 [fc]
 [vo_mob s="sesuka0016"]
-[ns]Sesuka[nse]
-"Eh?"[pcms]
+[ns]セスカ[nse]
+「えっ？」[pcms]
 
 *510|
 [fc]
-My sudden cold voice surprised Sesuka.[pcms]
+ワタシの突然の冷たい声に、セスカから驚きの声があがる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *511|
 [fc]
 [vo_mar s="maru0527"]
-[ns]Margarita[nse]
-"It was buried with my mother's coffin when she was lost in[r]
-the blast of the civil war and her body was never found...[r]
-as a substitute for her."[pcms]
+[ns]マルガリータ[nse]
+「あの内戦の爆風に巻き込まれ、[r]
+　遺体も見つからなかった母様の棺に……。[r]
+　母様の代わりにな」[pcms]
 
 ;//＠母様＝かあさま
 
@@ -336,8 +342,8 @@ as a substitute for her."[pcms]
 
 *512|
 [fc]
-Leaving behind Sesuka who seemed to regret asking something[r]
-she shouldn't have, I left the shrine alone.[pcms]
+聞いてはならないことを聞いてしまったのではないか、と[r]
+悔いているようなセスカを残して、一人神社をあとにした。[pcms]
 
 ;//〆ブラックアウト
 ;[fadeoutbgm time=500]

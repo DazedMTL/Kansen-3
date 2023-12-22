@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//---------------------------------------------------------------
 ;//block:A003
 ;//●逃げる
@@ -19,25 +19,25 @@
 
 *6975|
 [fc]
-[ns]Wataru[nse]
-"...!!"[pcms]
+[ns]航[nse]
+「……っ！！」[pcms]
 
 *6976|
 [fc]
-I ran away as fast as I could.[pcms]
+ボクは一目散に逃げ出してしまった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6977|
 [fc]
 [vo_mar s="maru_TT0023"]
-[ns]Margarita[nse]
-"...Answer me, who is it!?"[pcms]
+[ns]マルガリータ[nse]
+「……答えろ、誰だっ！？」[pcms]
 
 *6978|
 [fc]
-The voice of my senior questioning who it was chased after[r]
-me, but I didn't even look back...[pcms]
+誰何する先輩の声が背中を追ってきたけど[r]
+振り返ることさえしなかった……。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -48,54 +48,55 @@ me, but I didn't even look back...[pcms]
 
 *6979|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……………………………………」[pcms]
 
 *6980|
 [fc]
-Once I returned to my room, I finally settled down and sat.[pcms]
+自分の部屋に戻ったボクは、[r]
+ようやく落ち着いて座り込む。[pcms]
 
 *6981|
 [fc]
-...That said, before coming back here, I stopped by the[r]
-men's restroom on the 3rd floor and jerked off a couple of[r]
-times.[pcms]
+……といっても。ここに戻る前に３Ｆの男子トイレに寄って[r]
+二回くらい抜いてしまったんだけど。[pcms]
 
 *6982|
 [fc]
-[ns]Wataru[nse]
-"Even so..."[pcms]
+[ns]航[nse]
+「それにしても……」[pcms]
 
 *6983|
 [fc]
-To think that Maruko-senpai would do such a thing... I can't[r]
-believe what I saw with my own eyes...[pcms]
+あの、マル子先輩が、あんなことするなんて……。[r]
+自分の目で見たものが信じられない……。[pcms]
 
 *6984|
 [fc]
-Girls have sexual desires too, so I guess they masturbate,[r]
-but... to do it so fiercely, lewdly, and seductively...[pcms]
+女の子にも性欲はあるっていうし、[r]
+オナニーくらいはするんだろうけど……。[r]
+あんなに激しくて淫らで、なまめかしいことを………………。[pcms]
 
 *6985|
 [fc]
-[ns]Wataru[nse]
-"Uh oh, this is bad"[pcms]
+[ns]航[nse]
+「うわ、まずい」[pcms]
 
 *6986|
 [fc]
-If I carelessly recall it, I'll start getting hard again. I[r]
-hurriedly calm my feelings.[pcms]
+下手に思い出すと、また前が膨らんできてしまう。[r]
+ボクは慌てて、気持ちを静める。[pcms]
 
 *6987|
 [fc]
-I shouldn't exhaust myself any further tonight... I'll save[r]
-it for next time... Speaking of next time, Yuuho's bloomers[r]
-might also make for good jerk-off material...[pcms]
+今夜はこれ以上、体力消耗しないほうがいいからな……。[r]
+次回のネタにとっておこう……。[r]
+次といえば、悠帆のブルマ姿もいいオカズになりそうだ……。[pcms]
 
 *6988|
 [fc]
-As I lay down and fantasized, before I knew it, I had fallen[r]
-asleep...[pcms]
+寝転がって妄想しているうちに、ボクは[r]
+いつの間にか眠り込んでしまった…………。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -109,27 +110,27 @@ asleep...[pcms]
 
 *6989|
 [fc]
-[ns]Wataru[nse]
-"...What...?"[pcms]
+[ns]航[nse]
+「…………な、何……？」[pcms]
 
 *6990|
 [fc]
-The ringtone of my cellphone violently woke me up.[pcms]
+携帯の着信サインがボクの意識を乱暴に覚醒させた。[pcms]
 
 *6991|
 [fc]
-The phone was still ringing. When I picked it up, it was a[r]
-call from Yuuho.[pcms]
+電話はまだ鳴り続けている。[r]
+手に取ってみると悠帆からのコールだった。[pcms]
 
 *6992|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *6993|
 [fc]
-For some reason, a moment of ominous premonition flashed[r]
-through my mind as the persistent ringing continued...[pcms]
+何故かは分からないけれど、[r]
+執拗に鳴り続けるベルに、一瞬不吉な予感がよぎった……。[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]

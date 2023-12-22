@@ -24,34 +24,34 @@
 
 *4029|
 [fc]
-[ns]Executive[nse]
-"My bad, I was wrong! Let's let bygones be bygones... right,[r]
-Shige...?"[pcms]
+[ns]幹部[nse]
+「お、俺が悪かった！　今までの事は水に流そうや……なぁ、[r]
+　シゲ……」[pcms]
 
 *4030|
 [fc]
-"In movies and comics, this is where hesitation gets you hit[r]
-with a counterattack."[pcms]
+映画やら漫画だと、ここで躊躇しちまうから、[r]
+反撃を喰らうんだ。[pcms]
 
 *4031|
 [fc]
-"I've seen it happen enough times to know better. That's why[r]
-I don't hesitate."[pcms]
+俺様はそのあたりは何度も見て知ってるんだ。[r]
+だから、ためらうことなんてしねぇんだ。[pcms]
 
 *4032|
 [fc]
-"I place my finger on the trigger and pull it lightly. Just[r]
-like that, 'This is my kingdom.'[pcms]
+引き金に指を添え、軽く引く。[r]
+ただ、それだけで“ココ”は、俺様の王国だ。[pcms]
 
 *4033|
 [fc]
-[ns]Shigeyoshi[nse]
-"Heh... too late now..."[pcms]
+[ns]重吉[nse]
+「ヘッ……今さら遅ぇよ……」[pcms]
 
 *4034|
 [fc]
-"I've pushed people around many times before. It's the same[r]
-now."[pcms]
+何度も人をハジいてきた。[r]
+今だって、それと同じさ。[pcms]
 
 ;//赤フラ１発
 [赤フラ]
@@ -60,144 +60,141 @@ now."[pcms]
 
 *4035|
 [fc]
-[ns]Shigeyoshi[nse]
-"You acted all high and mighty, but in the end, you're[r]
-begging for your life. Pathetic..."[pcms]
+[ns]重吉[nse]
+「偉そうにしてたクセに、最後は命乞いか。[r]
+　情けねぇ……」[pcms]
 
 *4036|
 [fc]
-"After parting with Aniki, I went through the underground[r]
-and came back to Celesta Tower."[pcms]
+俺様はアニキと別れたあと、地下を通りセレスタワーまで[r]
+戻って来た。[pcms]
 
 *4037|
 [fc]
-"Then, I lured Aniki's subordinates... my subordinates, and[r]
-the oppressed common folk, and we raised a rebellion against[r]
-the higher-ups."[pcms]
+そして、アニキの部下……俺様の部下でもある若い衆と、[r]
+虐げられてきた一般人を誘い込んで、上役共に反旗を翻した。[pcms]
 
 *4038|
 [fc]
-"Things went surprisingly well, and I was able to slaughter[r]
-all those who opposed me and the higher-ups."[pcms]
+思いの外上手く事が運んで、俺に刃向かうヤツらや上役共を、[r]
+皆殺しにできた。[pcms]
 
 *4039|
 [fc]
-[ns]Henchman A[nse]
-"This piece of shit! Always kicking my ass! Time for some[r]
-payback!"[pcms]
+[ns]手下Ａ[nse]
+「このクソッタレがよ！　いつも俺のケツ蹴るんだよ！[r]
+　仕返ししてやんぜ！」[pcms]
 
 ;//SE・人を蹴る
 [赤フラ]
 
 *4040|
 [fc]
-[ns]Henchman B[nse]
-"This guy too! So damn annoying! Always calling us out for[r]
-every little bullshit... Ah, even looking at his dead face[r]
-pisses me off!"[pcms]
+[ns]手下Ｂ[nse]
+「コイツもだぜ！　ウゼーったらありゃしねぇんだよ！[r]
+　いちいちくだらねぇ事で呼び出したりしてよ……。[r]
+　あぁ、死んでるツラみても気にいらねぇ！」[pcms]
 
 ;//SE・銃声
 [se buf=0 storage="se026"]
 
 *4041|
 [fc]
-[ns]Shigeyoshi[nse]
-"Heh... you guys are going wild! You bastards!!"[pcms]
+[ns]重吉[nse]
+「へっ……暴れてんなぁ！　テメーら！！」[pcms]
 
 *4042|
 [fc]
-"The executive I finished off was the last one. Seeing that,[r]
-the underlings and the commoners, as if to vent their pent-[r]
-up frustrations, cheered and started shooting at the dead[r]
-ones."[pcms]
+俺様がトドメをくれてやった幹部が最後の一人だった。[r]
+それ見ていた手下や、一般人が、それまでの鬱憤を晴らすように、[r]
+歓声を上げ、死んだ奴らにタマをぶち込んだりしていた。[pcms]
 
 *4043|
 [fc]
-[ns]Henchman A[nse]
-"It's all thanks to Shige-san! You're the best!"[pcms]
+[ns]手下Ａ[nse]
+「シゲさんのおかげっスよ！　最高だぜ！」[pcms]
 
 *4044|
 [fc]
-[ns]Henchman B[nse]
-"From now on, Shige-san is the boss! It's the birth of a new[r]
-leader, you bastards!!"[pcms]
+[ns]手下Ｂ[nse]
+「これからはシゲさんが[ruby text="カシラ"][ch text="頭"]ですよ！[r]
+　新頭領の誕生だぜ、テメーら！！」[pcms]
 
 *4045|
 [fc]
-"The young ones and the commoners gathered around me, all[r]
-praising me in unison."[pcms]
+俺様の周りに、若い衆や一般人が駆け寄り、口々に俺を褒め称える。[pcms]
 
 *4046|
 [fc]
-"It's the best. I am the king of this place!! Everything[r]
-here has become mine!"[pcms]
+最高だ。[r]
+俺様は、この場所の王だ！！[r]
+ここにある全てが、俺様のモンになったんだ！[pcms]
 
 *4047|
 [fc]
-[ns]Shigeyoshi[nse]
-"It's the best! I'm gonna be the new ruler of this place...[r]
-no, of this city! You bastards! Follow me!!!"[pcms]
+[ns]重吉[nse]
+「最高だぜ！　俺様がここの……いや、[r]
+　この街の新しいルールになるんだ！[r]
+　テメーら！　全員俺様に付いて来いやぁ！！！！」[pcms]
 
 *4048|
 [fc]
-[ns]Henchman A[nse]
-"Uoooooooh!!!"[pcms]
+[ns]手下Ａ[nse]
+「うぉおおおおお！！！」[pcms]
 
 *4049|
 [fc]
-[ns]Henchman B[nse]
-"Shigeyoshi-san! No, Boss!!"[pcms]
+[ns]手下Ｂ[nse]
+「重吉サン！　いや、カシラァ！！」[pcms]
 
 *4050|
 [fc]
-"Aniki, no, Jin-san. It was easy. Being true to oneself and[r]
-doing as one likes! Just like I said, power is justice."[pcms]
+アニキ、いや、壬さん。[r]
+簡単だったぜ。自分は自分らしく、好きな様にやるって事は！[r]
+俺様が言った通り、力こそが正義なんだ。[pcms]
 
 *4051|
 [fc]
-"Just like Jin-san said, I'm not trash. If I try, I can[r]
-easily do something like this."[pcms]
+壬さんが言った様に、俺様はクズなんかじゃねぇんだ。[r]
+やれば、このくらいの事は簡単にできる。[pcms]
 
 *4052|
 [fc]
-"If the whole world is like this mess, then just like what I[r]
-did here today, those who don't obey, those who I don't[r]
-like... I should just crush them all with 'power'!"[pcms]
+世の中全部がこんなザマなら、[r]
+今この場でやったみたいに、従わねぇヤツ、気にいらねぇヤツ。[r]
+全部『力』で押さえ込んじまえばいいんだ！[pcms]
 
 *4053|
 [fc]
-"I will be the new ruler... I will create the laws of my[r]
-country!"[pcms]
+俺様が、新しいルール……俺様の国の法を作るんだ！[pcms]
 
 *4054|
 [fc]
-[ns]Shigeyoshi[nse]
-"Heheh..."[pcms]
+[ns]重吉[nse]
+「へへっ……」[pcms]
 
 *4055|
 [fc]
-"In such a world... in this screwed-up world, it might[r]
-actually be heaven for me."[pcms]
+こんな世界……イカれちまった世界は、俺様にとってむしろ、[r]
+天国かもしれねぇ。[pcms]
 
 *4056|
 [fc]
-"I'll keep running forward and take everything."[pcms]
+このまま突っ走って、全部手に入れてやる。[pcms]
 
 *4057|
 [fc]
-"Anyone who gets in my way, whether they're infected or the[r]
-military..."[pcms]
+俺様を邪魔するヤツらは、感染者だろうが軍隊だろうか……。[pcms]
 
 *4058|
 [fc]
-"I'll crush them all!!"[pcms]
+全部ブッ潰してやる！！[pcms]
 
 *4059|
 [fc]
-[ns]Shigeyoshi[nse]
-"For starters, you bastards! Check the remaining food and[r]
-count the women! Let's have a pre-celebration! The birth[r]
-festival of Shigeyoshi group... no, Shigeyoshi Kingdom!"[pcms]
+[ns]重吉[nse]
+「とりあえず、テメーら！　メシの残りと女の数確認しろやぁ！[r]
+　前夜祭と行こうぜ！　重吉組……いや、重吉王国の誕生祭だ！」[pcms]
 
 ;[zapend_random]
 [zapfade]

@@ -20,280 +20,281 @@
 *3343|
 [fc]
 [vo_miz s="mizuki0111"]
-[ns]Mizuki[nse]
-"Jin..."[pcms]
+[ns]瑞樹[nse]
+「ジン……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3344|
 [fc]
-[ns]Jin[nse]
-"You're safe. I thought those guys might have done you in."[pcms]
+[ns]壬[nse]
+「無事だったか。アイツらにヤられちまったかと思ったぞ」[pcms]
 
 *3345|
 [fc]
 [vo_miz s="mizuki0112"]
-[ns]Mizuki[nse]
-"I'm okay... but, for my sake... Thank you, Jin."[pcms]
+[ns]瑞樹[nse]
+「大丈夫だよ……でも、あたしの為に……。[r]
+　ありがとう、ジン」[pcms]
 
 *3346|
 [fc]
-Jin spoke in his usual indifferent tone.[pcms]
+ジンはいつもと同じように素っ気ない言葉をかける。[pcms]
 
 *3347|
 [fc]
-But in such a situation, the fact that Jin came to save[r]
-someone like me made me very happy.[pcms]
+だけど、こんな状況の中、[r]
+ジンがあたしなんかを助けに来てくれた。[r]
+そのことがとても嬉しい。[pcms]
 
 *3348|
 [fc]
-My spirits, which had been lifted just a little, were blown[r]
-away by a sigh mixed with a vulgar voice.[pcms]
+ほんの少しだけ舞い上がっていたあたしの気持ちは、[r]
+ため息混じりの下品な声のせいで吹き飛ばされた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3349|
 [fc]
-[ns]Shigeyoshi[nse]
-"You're safe! Man, I've been looking for you! Why are you in[r]
-a place like this... hurry up..."[pcms]
+[ns]重吉[nse]
+「無事だったか！　つーか、探したんだぞ！[r]
+　何でこんな所にいるんだオメーはよ……」[pcms]
 
 *3350|
 [fc]
-He was here too...[pcms]
+コイツもいたんだ……。[pcms]
 
 *3351|
 [fc]
-It was clear he came to help with Jin. But as always, he[r]
-appraised my body with lecherous eyes.[pcms]
+ジンと一緒に助けに来てくれたのはわかる。[r]
+けど、いつも通りのイヤらしい目つきであたしの身体を品評する。[pcms]
 
 *3352|
 [fc]
-That look and his voice, everything about it was irritating.[pcms]
+その目つきも、声も、全部がかんに障った。[pcms]
 
 *3353|
 [fc]
 [vo_miz s="mizuki0113"]
-[ns]Mizuki[nse]
-"Why am I here? That's none of your business."[pcms]
+[ns]瑞樹[nse]
+「何でこんな所にって……。余計なお世話よ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3354|
 [fc]
-[ns]Shigeyoshi[nse]
-"Don't I get a thank you from you?"[pcms]
+[ns]重吉[nse]
+「俺様には礼はねーのかよ」[pcms]
 
 *3355|
 [fc]
 [vo_miz s="mizuki0114"]
-[ns]Mizuki[nse]
-"I don't want to thank a pervert like you."[pcms]
+[ns]瑞樹[nse]
+「イヤらしい人にお礼なんて言いたくないわ」[pcms]
 ;//＠つっけんどんに
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3356|
 [fc]
-[ns]Shigeyoshi[nse]
-"What did you say, you woman..."[pcms]
+[ns]重吉[nse]
+「何だとこの[ruby text="アマ"][ch text="女"]……」[pcms]
 
 *3357|
 [fc]
-Shige glared at me with an even uglier twisted face, his[r]
-hands trembling slightly with anger.[pcms]
+ただでさえ醜い顔を歪めて、あたしを睨み付けるシゲ。[r]
+手は怒りのせいか、力が込められ小刻みに震えている。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3358|
 [fc]
-[ns]Jin[nse]
-"...Both of you, that's enough. Shige. Did you see any more[r]
-of them around?"[pcms]
+[ns]壬[nse]
+「……二人ともそのくらいにしておけ。[r]
+　シゲ。他にヤツらの姿はあったか」[pcms]
 
 *3359|
 [fc]
-Jin stepped between me and Shige, who were about to argue,[r]
-and asked in a strong tone.[pcms]
+ジンは言い争いになりそうだったあたしとシゲの間に立ち、[r]
+強い口調で問いかけた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3360|
 [fc]
-[ns]Shigeyoshi[nse]
-"Didn't see anyone else. Should be all clear now, right?"[pcms]
+[ns]重吉[nse]
+「他には見あたらなかった。もう大丈夫なんじゃないすか？」[pcms]
 
 *3361|
 [fc]
-...Them? All clear?[pcms]
+……ヤツら？[r]
+大丈夫？[pcms]
 
 *3362|
 [fc]
-What are they talking about...? Come to think of it, the[r]
-gunshots earlier... was that really Jin?[pcms]
+何のこと……？[r]
+そう言えば、さっきの銃声……アレはやっぱり、ジンだったの？[pcms]
 
 *3363|
 [fc]
 [vo_miz s="mizuki0115"]
-[ns]Mizuki[nse]
-"Hey, what's going on? There were gunshots earlier. Did Jin[r]
-shoot? And those people with red eyes were acting crazy and[r]
-making a fuss..."[pcms]
+[ns]瑞樹[nse]
+「ねえ、一体何が起きてるの？　さっき銃の音もしたし。[r]
+　ジンが撃ったの？　それに目が真っ赤な人達がイカれたみたいに[r]
+　なって騒いでたし……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3364|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *3365|
 [fc]
 [vo_miz s="mizuki0116"]
-[ns]Mizuki[nse]
-"...Right, that woman with the red eyes... she had the same[r]
-red eyes as that dirty woman we picked up during the rave...[r]
-Could it be related to her? The people who had sex with her[r]
-were all acting strange too..."[pcms]
+[ns]瑞樹[nse]
+「……そうだよ、あの赤い眼の女……レイヴの時に拾ってきた、[r]
+　汚い女と同じ赤い眼してた……あの女と関係あるんじゃないの？[r]
+　アイツとＨしてた人達もみんなヘンになってたし……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3366|
 [fc]
-[ns]Jin[nse]
-"...Calm down. I don't understand it at all either. Even if[r]
-we wanted to investigate, that woman has disappeared and the[r]
-city is full of crazies. That's all we know right now."[pcms]
+[ns]壬[nse]
+「……落ち着け。俺にも全然わからん。[r]
+　調べようにも、あの女も消えちまったし街中イカれたヤツラで[r]
+　いっぱいだ。今わかってるのはそれだけだ」[pcms]
 
 ;//se024・安っぽいビープ音
 [se buf=0 storage="se024"]
 
 *3367|
 [fc]
-At that moment, a cheap electronic sound that didn't belong[r]
-in this place came from Jin's pants pocket.[pcms]
+その時、ジンのズボンのポケットから、この場に似つかわしくない、[r]
+安っぽい電子音が聞こえ出す。[pcms]
 
 *3368|
 [fc]
-While still looking at me, Jin put his hand in his pocket[r]
-and took out a small device.[pcms]
+ジンはあたしを見つめたまま、ポケットに手を入れ、小さな[r]
+機械を取り出した。[pcms]
 
 *3369|
 [fc]
 [vo_miz s="mizuki0117"]
-[ns]Mizuki[nse]
-"What's that?"[pcms]
+[ns]瑞樹[nse]
+「何、それ？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3370|
 [fc]
-[ns]Jin[nse]
-"It's a pager for security."[pcms]
+[ns]壬[nse]
+「警備用のポケベルだ」[pcms]
 
 *3371|
 [fc]
 [vo_miz s="mizuki0118"]
-[ns]Mizuki[nse]
-"A pager?"[pcms]
+[ns]瑞樹[nse]
+「ポケ……ベル？」[pcms]
 ;//＠ポケベルって何？　聞いた事ないよ、という感じで
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3372|
 [fc]
-[ns]Jin[nse]
-"It's like a mobile phone that can only send messages."[pcms]
+[ns]壬[nse]
+「メールしかできない携帯電話みたいなモンだ」[pcms]
 
 *3373|
 [fc]
-Jin stared at the pager's screen. I stretched my neck to[r]
-peek at the screen too, but I couldn't understand what was[r]
-written there.[pcms]
+ジンは『ポケベル』の画面を見つめている。[r]
+あたしも首を伸ばして画面をのぞき込んだ。[r]
+だけど、書いてある内容はよくわからなかった。[pcms]
 
 *3374|
 [fc]
 [vo_miz s="mizuki0119"]
-[ns]Mizuki[nse]
-"Huh... Where did you get something like this?"[pcms]
+[ns]瑞樹[nse]
+「ふーん……。こんなのどこで手に入れたの？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3375|
 [fc]
-[ns]Jin[nse]
-"Picked it up at the security booth on the first floor."[pcms]
+[ns]壬[nse]
+「一階の警備ブースで拾った」[pcms]
 
 *3376|
 [fc]
 [vo_miz s="mizuki0120"]
-[ns]Mizuki[nse]
-"Security booth? What about the security guard?"[pcms]
+[ns]瑞樹[nse]
+「警備ブース？　警備員は？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3377|
 [fc]
-[ns]Jin[nse]
-"Don't know."[pcms]
+[ns]壬[nse]
+「知らねえ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3378|
 [fc]
-[ns]Shigeyoshi[nse]
-"The security guards probably ran off a long time ago.[r]
-Because of that, while searching for you, 'they' were[r]
-wandering around being annoying, so I went ahead and closed[r]
-all the fire doors."[pcms]
+[ns]重吉[nse]
+「警備員なんてとっくに逃げちまったんじゃねえか？[r]
+　おかげで、お前を捜してる間によ、“ヤツら”がうろついてて[r]
+　ウゼーからよ、放火扉とか全部締めて来たんだぜ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3379|
 [fc]
-[ns]Shigeyoshi[nse]
-"I also turned off all the elevator power, so 'they' won't[r]
-be able to come up here. It'll be a pain when I go down[r]
-though."[pcms]
+[ns]重吉[nse]
+「エレベーターの電源も全部落としてやったから、ヤツラが[r]
+　ここまで上がって来ることはねーだろ。[r]
+　俺様が下に行くときダリーけどな」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3380|
 [fc]
-[ns]Jin[nse]
-"Did you do 'that' properly?"[pcms]
+[ns]壬[nse]
+「“アレ”もちゃんとやったか？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3381|
 [fc]
-[ns]Shigeyoshi[nse]
-"If you mean the alarm, I set it up properly... Oh, is your[r]
-pager going off because something triggered the alarm[r]
-system!?"[pcms]
+[ns]重吉[nse]
+「警報なら、ちゃんとセットしてきましたよ……。[r]
+　あぁ、アニキのポケベルって、[r]
+　何かが警報装置に反応したんすか！？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3382|
 [fc]
-[ns]Jin[nse]
-"...Seems like it's the back door on the first floor.[r]
-Someone opened it and came in. 'They' can't unlock doors, so[r]
-it must be 'humans'..."[pcms]
+[ns]壬[nse]
+「……一階の裏口らしいな。誰かが開けて入って来やがった。[r]
+　“アイツら”に鍵開ける事なんかできないだろう。[r]
+　と言うことは『人間』か……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3383|
 [fc]
-[ns]Jin[nse]
-"Shige, go check the stairs."[pcms]
+[ns]壬[nse]
+「シゲ、階段見てこい」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3384|
 [fc]
-[ns]Shigeyoshi[nse]
-"Understood."[pcms]
+[ns]重吉[nse]
+「わかりました」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
@@ -302,166 +303,168 @@ it must be 'humans'..."[pcms]
 
 *3385|
 [fc]
-Upon Jin's command, Shige hurried out of the room, leaving[r]
-just me and Jin alone.[pcms]
+ジンの命令を聞いたシゲは、小走りで部屋を出て行き、[r]
+部屋の中には、あたしとジンだけになった。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3386|
 [fc]
-[ns]Jin[nse]
-"You... were you at that place the whole time?"[pcms]
+[ns]壬[nse]
+「お前……ずっとあの場所にいたのか」[pcms]
 
 *3387|
 [fc]
 [vo_miz s="mizuki0121"]
-[ns]Mizuki[nse]
-"Yeah. It seems I fell asleep..."[pcms]
+[ns]瑞樹[nse]
+「うん。寝ちゃってたみたい……」[pcms]
 
 *3388|
 [fc]
-Jin said a small "Hmph," then looked over my body with sharp[r]
-eyes as if licking it with his gaze, and finally opened his[r]
-mouth while staring into my eyes.[pcms]
+ジンは小さく『フン』と言ったあと、[r]
+あたしの身体を鋭い目つきのまま、舐めるように見回し、[r]
+最後に目を見つめながら、口を開いた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3389|
 [fc]
-[ns]Jin[nse]
-"Drugs?"[pcms]
+[ns]壬[nse]
+「クスリか」[pcms]
 
 *3390|
 [fc]
 [vo_miz s="mizuki0122"]
-[ns]Mizuki[nse]
-"Eh..."[pcms]
+[ns]瑞樹[nse]
+「え……」[pcms]
 ;//＠驚いたように
 
 *3391|
 [fc]
-...He knows!? But how...[pcms]
+……ばれてる！？[r]
+でも、どうして……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3392|
 [fc]
-[ns]Jin[nse]
-"Don't underestimate me. I can tell even if you hide it."[pcms]
+[ns]壬[nse]
+「俺を舐めるな。隠してもすぐわかる」[pcms]
 
 *3393|
 [fc]
 [vo_miz s="mizuki0123"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3394|
 [fc]
-[ns]Jin[nse]
-"Are you hooked on it?"[pcms]
+[ns]壬[nse]
+「ハマってんのか」[pcms]
 
 *3395|
 [fc]
-Jin's voice remained calm. However, I could clearly sense[r]
-the anger in it.[pcms]
+ジンの声は冷静なままだった。[r]
+しかし怒りを含んでいるのは、今のあたしにも良くわかった。[pcms]
 
 *3396|
 [fc]
-Maybe I am hooked. But I felt a bit of anger myself at Jin[r]
-for making such assumptions.[pcms]
+確かにハマっちゃってるのかもしれない。けど、決めつけるように[r]
+言うジンに、あたしも少しだけ怒りを覚えた。[pcms]
 
 *3397|
 [fc]
 [vo_miz s="mizuki0124"]
-[ns]Mizuki[nse]
-"I'm not hooked on anything! Why do you assume that!? ...I[r]
-was just so scared, I used it a little to distract myself!"[pcms]
+[ns]瑞樹[nse]
+「ハマってなんかいないよ！　何で決めつけるの！？[r]
+　……あんまり怖かったから、気を紛らわせようと、[r]
+　ちょっと使っただけだよ！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3398|
 [fc]
-[ns]Jin[nse]
-"That's what being hooked means. I would have turned a blind[r]
-eye if it was just for fun... Hand it over. All of it."[pcms]
+[ns]壬[nse]
+「それがハマってるって言うんだ。[r]
+　遊びなら目をつぶってやろうと思ったが……。[r]
+　出せ。全部だ」[pcms]
 
 *3399|
 [fc]
 [vo_miz s="mizuki0125"]
-[ns]Mizuki[nse]
-"I don't have any. I don't have any! Even if you tell me to[r]
-hand it over, there's nothing to give!"[pcms]
+[ns]瑞樹[nse]
+「持ってない。持ってないよ！　出せって言われたって、[r]
+　どこにもないもの！」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3400|
 [fc]
-[ns]Jin[nse]
-"...Just hand it over."[pcms]
+[ns]壬[nse]
+「……いいから、出せ」[pcms]
 
 *3401|
 [fc]
 [vo_miz s="mizuki0126"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 *3402|
 [fc]
-Jin's gaze was fixed on the glasses case. He completely[r]
-knew.[pcms]
+ジンの目は、メガネケースに向けられている。[r]
+完全にバレてる。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3403|
 [fc]
-[ns]Jin[nse]
-"It was tough when you were coming back from the brink of[r]
-addiction, wasn't it? Do you want to go through that again?[r]
-I can't let you hold onto it anymore. ...You might be fine[r]
-now but..."[pcms]
+[ns]壬[nse]
+「ハマりかけから戻ったとき、辛かったろ。またあんな思い[r]
+　したいのか？　もうお前には持たせておけねえ。[r]
+　……今は大丈夫かもしれねぇが……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3404|
 [fc]
-[ns]Jin[nse]
-"Once you see what's outside, you'll definitely run to the[r]
-drugs. You'll surely drown in it."[pcms]
+[ns]壬[nse]
+「外の様子を見たら、お前は絶対クスリに逃げる。[r]
+　絶対溺れちまうぞ」[pcms]
 
 *3405|
 [fc]
-What's outside...? What has he been talking about since[r]
-earlier?[pcms]
+外の様子……？[r]
+さっきから何を言ってるの？[pcms]
 
 *3406|
 [fc]
-And what's with that attitude... It was that fatso who got[r]
-you into this, right!?[pcms]
+それよりも……何よ偉そうに！[r]
+あのデブが覚えさせたんでしょ！？[pcms]
 
 *3407|
 [fc]
-You deal with it yourself... and profit from it![pcms]
+自分たちで捌いて……儲けてるくせに！[pcms]
 
 *3408|
 [fc]
-There were many things I wanted to say to Jin. But faced[r]
-with a level of anger in his eyes that I had never seen[r]
-before, I found myself unable to speak.[pcms]
+ジンに対して色々と言いたいことはあった。だけど、今まで見た[r]
+ことがない位の怒りを含んだ目で睨みつけるジンに対して、[r]
+あたしは口を開くことができなくなっていた。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3409|
 [fc]
-[ns]Jin[nse]
-"Don't be silent. Cut it out."[pcms]
+[ns]壬[nse]
+「黙るな。いい加減にしろ」[pcms]
 
 *3410|
 [fc]
 [vo_miz s="mizuki0127"]
-[ns]Mizuki[nse]
-"..."[pcms]
+[ns]瑞樹[nse]
+「…………」[pcms]
 
 ;//--------------------------------------------------------------------
 ;//●判定

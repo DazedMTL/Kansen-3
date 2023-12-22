@@ -8,7 +8,7 @@
 ;//・視点：主人公一人称
 ;//登場人物:主人公・漣
 ;//時間帯：
-;//・時間：６日目（８月２０日）朝
+;//・時間：６日目（８月２０日）朝～
 ;//テキスト分量：12k
 ;//--------------------------------------------------------------------
 ;//漣ルート：
@@ -50,151 +50,149 @@
 *229|
 [fc]
 [vo_ren s="ren_TE0047"]
-[ns]Ren[nse]
-"Wow... Onii-chan. It's amazing. So beautiful. Just like the[r]
-starry sky we saw together in Akita. Beautiful... I never[r]
-thought we could see this in Shibuya..."[pcms]
+[ns]漣[nse]
+「うわあ……お兄ちゃん。凄い。凄いね。綺麗だね。[r]
+　明田でお兄ちゃんと一緒に見た、あの星空みたい。[r]
+　綺麗……まさか渋谷で、見られると思わなかった……」[pcms]
 
 *230|
 [fc]
-[ns]Wataru[nse]
-"Yeah... It's beautiful, just as much as Akita."[pcms]
+[ns]航[nse]
+「うん……綺麗だな、明田と同じぐらい」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *231|
 [fc]
 [vo_ren s="ren_TE0048"]
-[ns]Ren[nse]
-"Yeah... Hey, Onii-chan..."[pcms]
+[ns]漣[nse]
+「うん……ねえ、お兄ちゃん……」[pcms]
 
 *232|
 [fc]
-[ns]Wataru[nse]
-"Hm? What is it?"[pcms]
+[ns]航[nse]
+「ん？　何？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *233|
 [fc]
 [vo_ren s="ren_TE0049"]
-[ns]Ren[nse]
-"You see... there's something I really want you to listen[r]
-to... I've been wanting to talk to you about it... I've been[r]
-searching for you, Onii-chan..."[pcms]
+[ns]漣[nse]
+「あのね……ちゃんと、聴いて欲しい事があるの……。[r]
+　本当は……聴いて欲しくて……話をしたくて……。[r]
+　私、お兄ちゃんを捜したの……」[pcms]
 
 [evcg storage="EV019a"][trans_c cross time=300]
 
 *234|
 [fc]
-As she said that, Ren turned around and gazed at me[r]
-intently. Her delicate silhouette emerged against the[r]
-backdrop of the star-filled sky. The clear moonlight also[r]
-illuminated Ren from behind.[pcms]
+そう言って漣は、くるっと振り向きボクをじっと見つめた。[r]
+満天の星空を背景に、漣の華奢なシルエットが浮かび上がる。[r]
+澄んだ月の明かりも、背後から漣を照らしていた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *235|
 [fc]
 [vo_ren s="ren_TE0050"]
-[ns]Ren[nse]
-"Onii-chan... I love you..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……私、お兄ちゃんが好きなの……」[pcms]
 
 *236|
 [fc]
-[ns]Wataru[nse]
-"Huh? I love you too, Ren."[pcms]
+[ns]航[nse]
+「うん？　ボクも漣が好きだよ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *237|
 [fc]
 [vo_ren s="ren_TE0051"]
-[ns]Ren[nse]
-"It's not like that. I don't mean it in that way. I love[r]
-you, Onii-chan, as a man... I love you..."[pcms]
+[ns]漣[nse]
+「違うの。そういう意味じゃなくて。お兄ちゃんを、[r]
+　男のひととして、私は、お兄ちゃんが好きなの……」[pcms]
 
 *238|
 [fc]
-[ns]Wataru[nse]
-"...! Ren... You're saying that again..."[pcms]
+[ns]航[nse]
+「……！　漣……また、そんな事を……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *239|
 [fc]
 [vo_ren s="ren_TE0052"]
-[ns]Ren[nse]
-"No, listen to me properly. That night... I might have been[r]
-out of my mind, just like you're thinking now..."[pcms]
+[ns]漣[nse]
+「ううん、ちゃんと聴いて。[r]
+　あの晩の私は……今、お兄ちゃんが思ったみたいに[r]
+　確かに……正気じゃなかったと……自分でも思う」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *240|
 [fc]
 [vo_ren s="ren_TE0053"]
-[ns]Ren[nse]
-"But what I said was my true feelings. I love you, Onii-[r]
-chan, not as a sister but as a man. I want to be with you."[pcms]
+[ns]漣[nse]
+「でもね。口に出したのは、私の本当の気持ちなの。[r]
+　私は、お兄ちゃんを男のひととして好きなの。[r]
+　妹としてじゃなくて、お兄ちゃんと一緒にいたいの」[pcms]
 
 *241|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *242|
 [fc]
-Ren stood there looking straight at me, with the moon[r]
-shining brightly behind her. The little Ren who had spent[r]
-time under the starry sky of Akita with me... The Ren I[r]
-carried on my back.[pcms]
+真っ直ぐにボクを見つめている漣。その背後では月が[r]
+煌々と輝いていた。明田の星空の下、ボクと一緒に[r]
+過ごした小さい漣……おぶって帰った漣。[pcms]
 
 *243|
 [fc]
-But the Ren who was earnestly waiting for my answer in front[r]
-of me now was not the little sister Ren anymore. She had[r]
-grown into a girl filled with a gentle light like the moon[r]
-behind her.[pcms]
+でも、今ボクの目の前で、真摯にボクの答えを待っている[r]
+漣は、あの小さかった妹の漣じゃなかった。[r]
+背後の月のように優しい光りに満ちた女の子に成長していた。[pcms]
 
 *244|
 [fc]
-Ren always cared for me and stayed by my side, just like the[r]
-moon that never leaves Earth's side and keeps influencing[r]
-life on it.[pcms]
+いつもボクのことを気遣い、漣は、そばにいてくれた。[r]
+まるで地球の側を離れず、地球に生命をあふれさせるようにと[r]
+ずっと影響を与え続けてくれた月のように。[pcms]
 
 *245|
 [fc]
-She never left my side, filling me with her gentle kindness[r]
-when needed, supporting me... Ren was always watching over[r]
-me quietly like the moon.[pcms]
+ボクの側を離れず、ボクが元気でいられるように、時には[r]
+ボクを穏やかな優しさで満たして支えてくれた……。漣は、[r]
+いつでも月のように静かにボクを見守ってくれていたんだ。[pcms]
 
 *246|
 [fc]
-The important existence that is Ren. So, I opened my mouth[r]
-trying to remain as calm as possible...[pcms]
+大事な存在の漣。[r]
+だから、ボクは努めて冷静にと、口を開いた……。[pcms]
 
 [evcg storage="EV019b"][trans_c cross time=300]
 
 *247|
 [fc]
-[ns]Wataru[nse]
-"Ren... Are you really okay with someone like me? Not just[r]
-because of favoritism as a brother, but I think Ren is cute[r]
-and talented... But I don't have any talents..."[pcms]
+[ns]航[nse]
+「漣……本当にボクなんかでいいの？　兄としての[r]
+　ひいき目じゃなくても、漣は可愛いと思うし、それに[r]
+　才能もあると思う……でもボクは何の才能もないし……」[pcms]
 
 *248|
 [fc]
-[ns]Wataru[nse]
-"And about looks, I think I'm just average or maybe not even[r]
-that. As a man, I'm certainly not strong... In fact, I'm[r]
-aware that I'm on the weaker side."[pcms]
+[ns]航[nse]
+「それに、見た目だって平均的に入るか入らないかぐらいだと思う。[r]
+　男としてだって決して強くないし……[r]
+　むしろ、弱い部類に入るって自覚すらあるんだよ」[pcms]
 
 *249|
 [fc]
-[ns]Wataru[nse]
-"The reason you say you love me might be because of the long[r]
-time we've spent together as siblings, mistaking familial[r]
-love for..."[pcms]
+[ns]航[nse]
+「漣がボクを好きだって言ってるのは、兄妹として暮らした[r]
+　時間の長さで、家族への愛情を誤解し……っ」[pcms]
 
 [fadeoutbgm time=500]
 
@@ -213,21 +211,22 @@ love for..."[pcms]
 
 *250|
 [fc]
-[ns]Wataru[nse]
-"Re...!!"[pcms]
+[ns]航[nse]
+「れ゛……！！」[pcms]
 
 *251|
 [fc]
-Suddenly, Ren hugged me tightly and kissed me as if to seal[r]
-my lips. Her soft lips stripped away my composure...[pcms]
+漣はいきなり抱き付いてきて、まるでボクの口を塞ぐように[r]
+唇を押し付けてきた。漣の柔らかい唇がボクの冷静さを[r]
+もぎとっていく……。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *252|
 [fc]
 [vo_ren s="ren_TE0054"]
-[ns]Ren[nse]
-"Mmm... Chu... Mmm... Nnnhnn... Mmm"[pcms]
+[ns]漣[nse]
+「んっ……ちゅっ……んっ……んはっん……ん」[pcms]
 
 ;//<ImageInit 5><UpDate Cross,100>
 
@@ -247,127 +246,128 @@ my lips. Her soft lips stripped away my composure...[pcms]
 *253|
 [fc]
 [vo_ren s="ren_TE0055"]
-[ns]Ren[nse]
-"...Onii-chan. I'm not misunderstanding anything... I know[r]
-that what I feel is different from familial love..."[pcms]
+[ns]漣[nse]
+「……お兄ちゃん。私、誤解なんかしてないよ……。[r]
+　家族としての愛情とは、ちゃんと別のものなんだって、[r]
+　わかってるの……」[pcms]
 
 *254|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *255|
 [fc]
 [vo_ren s="ren_TE0056"]
-[ns]Ren[nse]
-"Don't say things like 'someone like me'. I want you, Onii-[r]
-chan... I love you. You've always been strong and kind...[r]
-protecting me."[pcms]
+[ns]漣[nse]
+「ボクなんか……なんて言わないで。私はお兄ちゃんが[r]
+　いいの……お兄ちゃんが好きなの。お兄ちゃんは[r]
+　いつだって、強くて優しくて……私を守ってくれた」[pcms]
 
 *256|
 [fc]
-[ns]Wataru[nse]
-"That's not..."[pcms]
+[ns]航[nse]
+「そんなことは……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *257|
 [fc]
 [vo_ren s="ren_TE0057"]
-[ns]Ren[nse]
-"No. I know you did all that as a brother. And I understand[r]
-that. But still... it made me happy. Being protected by[r]
-Onii-chan made me happy."[pcms]
+[ns]漣[nse]
+「ううん。お兄ちゃんは兄としてそうしてくれていたんだと[r]
+　思う。それもわかってるの。でも、それでも……、[r]
+　私は嬉しかった。お兄ちゃんに守られるのが嬉しかった」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *258|
 [fc]
 [vo_ren s="ren_TE0058"]
-[ns]Ren[nse]
-"Even before coming here, it was because Onii-chan protected[r]
-me that I can be here now. Even after coming here, Onii-chan[r]
-has always been protecting me..."[pcms]
+[ns]漣[nse]
+「ここに来る前だってそうだよ。お兄ちゃんが私を守って[r]
+　くれたから、今、私はこうしていられるの。ここに来てから[r]
+　だって、ずっとお兄ちゃんは私を守ってくれていた……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *259|
 [fc]
 [vo_ren s="ren_TE0059"]
-[ns]Ren[nse]
-"Onii-chan is strong. Remember how often I was bullied when[r]
-we were little? You always protected me. Without fighting[r]
-back, just enduring it while shielding me with your back."[pcms]
+[ns]漣[nse]
+「お兄ちゃんは強いよ。私、小さい頃よくいじめられたよね。[r]
+　お兄ちゃんは、必ず私を守ってくれた。相手を殴ったりしないで、[r]
+　ただじっと私を背中に回して耐えていてくれた」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *260|
 [fc]
 [vo_ren s="ren_TE0060"]
-[ns]Ren[nse]
-"What is strength in a man...? It's not about being good at[r]
-fighting, right? To me, having the mental strength to endure[r]
-for the sake of protection is far more manly...!!"[pcms]
+[ns]漣[nse]
+「男としての強さ……って、何？　ケンカが強い事じゃないよね。[r]
+　私は、守るために耐えられる精神力のほうが[r]
+　ずっと、ずっと男のひととして……っ！！」[pcms]
 ;mm アンドロでケツがｒになってた
 ;//○後半感情を高ぶらせてお願いします。
 
 *261|
 [fc]
-I hugged Ren close and embraced her. Pulling her head to my[r]
-chest, I gently wrapped my arms around her delicate body.[pcms]
+ボクは漣を抱き寄せ、抱きしめた。[r]
+漣の頭を胸に寄せて、華奢な身体をそっと包み込んだ。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *262|
 [fc]
 [vo_ren s="ren_TE0061"]
-[ns]Ren[nse]
-"Onii-cha..."[pcms]
+[ns]漣[nse]
+「お兄ちゃ……」[pcms]
 
 *263|
 [fc]
-[ns]Wataru[nse]
-"It's okay now, Ren. I understand your feelings well... Now[r]
-let me tell you mine honestly. Listen, Ren... I've felt many[r]
-times that you're not just a sister but a girl."[pcms]
+[ns]航[nse]
+「もういいよ、漣。漣の気持ちはよくわかったから……。[r]
+　ボクの気持ちを正直に言うね。漣、聴いて……。[r]
+　ボクは……何回も漣に妹じゃなく女の子を感じてた」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *264|
 [fc]
 [vo_ren s="ren_TE0062"]
-[ns]Ren[nse]
-"...!"[pcms]
+[ns]漣[nse]
+「……！」[pcms]
 
 *265|
 [fc]
-[ns]Wataru[nse]
-"But each time, I told myself that Ren is my sister, my[r]
-precious sister. And that the affection you showed me was[r]
-definitely that of a sister..."[pcms]
+[ns]航[nse]
+「でも、そのたびに、漣は妹だ。大事な妹なんだって[r]
+　自分に言いきかせてた。漣がボクに示してくれる愛情は、[r]
+　絶対に兄としての愛情だって思ってたから……」[pcms]
 
 *266|
 [fc]
-[ns]Wataru[nse]
-"That night too... honestly, my feelings were shaken... But[r]
-it was clear that Ren was devastated, and I was sad too...[r]
-That's why I could hold back..."[pcms]
+[ns]航[nse]
+「この前の晩も……正直気持ちがぐらついたんだ……。[r]
+　でも、漣が打ちのめされているのは分かり切っていたから、[r]
+　ボクだって悲しかったから……だから、我慢できた……」[pcms]
 
 *267|
 [fc]
-[ns]Wataru[nse]
-"Hey... Ren. Are you really okay with someone like me?"[pcms]
+[ns]航[nse]
+「ねえ……漣。本当に、ボクなんかでいいの？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *268|
 [fc]
 [vo_ren s="ren_TE0063"]
-[ns]Ren[nse]
-"...Yes. I want you, Onii-chan... It has to be you. I love[r]
-you, Onii-chan..."[pcms]
+[ns]漣[nse]
+「……うん。お兄ちゃんがいいの……お兄ちゃんじゃなきゃ[r]
+　駄目なの。私は……お兄ちゃんが好きなの……」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -387,25 +387,26 @@ you, Onii-chan..."[pcms]
 
 *269|
 [fc]
-This time, I kissed Ren back. As a man responding to the[r]
-affection of a cute girl. With love, I devoured Ren's lips.[pcms]
+今度はボクから漣にキスをした。[r]
+男として、可愛い女の子に、その愛情に応えるために。[r]
+愛情をこめて、漣の唇をむさぼった。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *270|
 [fc]
 [vo_ren s="ren_TE0064"]
-[ns]Ren[nse]
-"Mmm... Chu... Ahh... Mmm... Nnnnnnn. Mmm... Chu... Ahh...[r]
-Nnnnnnn... Chu"[pcms]
+[ns]漣[nse]
+「んっ……んちゅっ……あっ……ん……っ。んっんんっ。[r]
+　ん……ちゅっ……ん、あっ……んっんんっ……ちゅっ」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *271|
 [fc]
 [vo_ren s="ren_TE0065"]
-[ns]Ren[nse]
-"Nnhahh... Nnnchu... Hahnnnn... Chu..."[pcms]
+[ns]漣[nse]
+「んはっ……んんちゅっ……はっんんっ……ちゅっ……」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 ;[sysbt_meswin clear]
@@ -422,20 +423,20 @@ Nnnnnnn... Chu"[pcms]
 
 *272|
 [fc]
-Before we knew it, several lights had come on. Looking[r]
-around while holding hands with Ren, lights had returned to[r]
-places like Celesta Tower and Mark City.[pcms]
+いつの間にか、いくつかの灯りがともっていた。[r]
+漣と手をつなぎながら見回すと、セレスタワーや[r]
+マークシティなんかに灯りがよみがえっていた。[pcms]
 
 *273|
 [fc]
-The stars were still shining brightly. But the beauty from[r]
-before couldn't be felt anymore.[pcms]
+まだいくつもの星が輝いていた。でも、さっきまでの[r]
+美しさは感じられない。[pcms]
 
 *274|
 [fc]
-But it didn't bother me because the moon was shining quietly[r]
-and brilliantly. The moon named Ren was also casting a quiet[r]
-light by my side.[pcms]
+でもボクは気にならなかった。だって、月は煌々と[r]
+静かに輝いている。ボクを照らしてくれる漣という[r]
+月も、ボクのそばで静かな光りをなげかけていたから。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -453,20 +454,21 @@ light by my side.[pcms]
 
 *275|
 [fc]
-I slowly started undressing Ren. While she stood there... as[r]
-if undressing a doll for a costume change.[pcms]
+ボクは漣の服をゆっくりと脱がしていった。[r]
+立たせたままで……まるで着せ替える為に人形の洋服を[r]
+脱がすように。[pcms]
 
 *276|
 [fc]
-The exposed white skin of Ren. As I caressed its surface, I[r]
-cupped her small breasts with my hands. Her cute little[r]
-breasts fit perfectly in my palms.[pcms]
+剥き出しになった漣の白い肌。その表面を撫でながら、[r]
+小振りなおっぱいを手で包んだ。ぴったりとボクの手のひらに[r]
+収まる漣の可愛らしいおっぱい。[pcms]
 
 *277|
 [fc]
-Gently massaging them, sweet sighs escaped from Ren's mouth.[r]
-While rolling her small nipples between my fingers, I slowly[r]
-knelt down in front of her.[pcms]
+優しく揉むと、漣の口から甘い吐息が漏れてきた。[r]
+小さな乳首を指先でくびりながら、ボクはゆっくりと腰を[r]
+落とし、漣の前にひざまずいた。[pcms]
 
 
 
@@ -491,27 +493,27 @@ knelt down in front of her.[pcms]
 *278|
 [fc]
 [vo_ren s="ren_TE0066"]
-[ns]Ren[nse]
-"Ahhh, Onii-chan... Ahhahhh!"[pcms]
+[ns]漣[nse]
+「はああっ、お兄ちゃん……あっああっっ！」[pcms]
 
 *279|
 [fc]
-I eagerly devoured the small mound of Ren's pussy right[r]
-before my eyes.[pcms]
+ボクは目の前にある小さな漣の恥丘に、あんぐりと口を[r]
+開けてむしゃぶりついた。[pcms]
 
 *280|
 [fc]
-[ns]Wataru[nse]
-"Nnjuu... Juujuu... Mujyuujuujuu."[pcms]
+[ns]航[nse]
+「んぢゅっ。ぢゅぢゅっ。むぢゅっぢゅっぢゅっ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *281|
 [fc]
 [vo_ren s="ren_TE0067"]
-[ns]Ren[nse]
-"Nnaaahh... Nnn... Onii-chan, it feels good... Your mouth on[r]
-my pussy... Ahhh!"[pcms]
+[ns]漣[nse]
+「んあああっ。んんっ。お兄ちゃん、気持ちいい……よぉ。[r]
+　お兄ちゃんのお口が、私のアソコを……ああっ！」[pcms]
 
 [evcg storage="HEV058d"][trans_c cross time=300]
 
@@ -520,64 +522,66 @@ my pussy... Ahhh!"[pcms]
 *282|
 [fc]
 [vo_ren s="ren_TE0068"]
-[ns]Ren[nse]
-"Ahh! It's good. It feels so good, Onii-chan. More, more,[r]
-lavish my pussy with lots... Nnn... Ahh! Lick me. Please."[pcms]
+[ns]漣[nse]
+「ああっ。いいっ。気持ちいいよぉ、お兄ちゃん。[r]
+　もっと、もっとぉ、私のアソコ、いっぱいいっぱい……[r]
+　んんっ。ああっ。舐めてぇ。お願いぃ」[pcms]
 
 *283|
 [fc]
-Sweet nectar trickled through the thin fabric into my mouth.[r]
-I sucked on the small protrusion that touched the tip of my[r]
-tongue and gently bit down on it.[pcms]
+とろりとした甘い汁が薄い布ごしにボクの口の中に入ってくる。[r]
+舌先に当たった小さな突起にボクは吸い付いて、軽く[r]
+歯を当てて噛んでみた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *284|
 [fc]
 [vo_ren s="ren_TE0069"]
-[ns]Ren[nse]
-"Biku! Nkyuaa! That spot... Onii-chan, it's sensitive... be[r]
-gentler... Ahhh, nkuu, ahhh!"[pcms]
+[ns]漣[nse]
+「っひっ。んきゅあっ。そ、そこ……っ。[r]
+　お、お兄ちゃん、そこ、敏感……なのぉ……もっと、[r]
+　優し……くぅ……ああっっ、んくぅっ、あああっ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *285|
 [fc]
 [vo_ren s="ren_TE0070"]
-[ns]Ren[nse]
-"Ah! Ahh! Ahaaah! My pussy's so hot... Fuaah. Ahh. It's[r]
-good, Onii-chan, it feels so good."[pcms]
+[ns]漣[nse]
+「あっ、あっ、ああ、ひあああっ！　私のアソコ、熱い……[r]
+　ふああっ。ああっ。いい、お兄ちゃん、気持ちいいよぉ」[pcms]
 
 *286|
 [fc]
-As I moved my tongue around and savored Ren's pussy, her[r]
-body began to tremble.[pcms]
+れろれろと舌先を動かして漣のアソコを味わっていると、[r]
+ぷるぷると漣の身体が震えだしてきた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *287|
 [fc]
 [vo_ren s="ren_TE0071"]
-[ns]Ren[nse]
-"Nnaaahh! Nannn, nkuuuuuh, ahh. Onii-cha... I can't stand[r]
-anymore... hiaann!"[pcms]
+[ns]漣[nse]
+「んっあああっ。んあんっ、んくぅっううっ、ああっ。[r]
+　お兄ちゃ……私、もう……立っていられ……ひああんっ」[pcms]
 
 *288|
 [fc]
-Ren's pussy had become drenched, dyed a deep pink color. As[r]
-I extended my tongue to tease her more, Ren's knees began to[r]
-shake.[pcms]
+とろとろになっている漣のアソコ。濃いピンク色に[r]
+染まっている。ボクがもっと責めようと舌先を伸ばすと[r]
+漣の膝が、がくがくと震えだした。[pcms]
 
 *289|
 [fc]
-[ns]Wataru[nse]
-"Ren... hang in there..."[pcms]
+[ns]航[nse]
+「漣……いよっ……」[pcms]
 
 *290|
 [fc]
-It seemed she couldn't stand any longer. I lifted Ren's[r]
-light body and gently laid her face down on the sofa bed we[r]
-had prepared earlier.[pcms]
+もう立ち続けるのは限界だったようだ。[r]
+ボクは軽い漣の身体を抱き上げて、さっき倒しておいた[r]
+ソファベッドに、そっとうつ伏せに寝かした。[pcms]
 
 ;//〆HEV073
 [evcg storage="HEV047a"][trans_c cross time=300]
@@ -587,81 +591,81 @@ had prepared earlier.[pcms]
 *291|
 [fc]
 [vo_ren s="ren_TE0072"]
-[ns]Ren[nse]
-"Nn... Ahh... Thank you... Onii-chan..."[pcms]
+[ns]漣[nse]
+「んっ……あっ……ありがと……お兄ちゃ……ん……」[pcms]
 
 *292|
 [fc]
-Her breath was ragged. Ren's small, white butt was still[r]
-trembling slightly. That trembling sent viscous juices[r]
-dripping from her pussy...[pcms]
+とぎれとぎれの息遣い。漣の小さくて白いお尻は、まだ[r]
+少し震えていた。その震えが伝わって、漣のアソコから[r]
+粘りけのある汁が、滴り落ちてきていた……。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *293|
 [fc]
 [vo_ren s="ren_TE0073"]
-[ns]Ren[nse]
-"Onii-chan... hey, put it in. I want your dick inside me..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……ね、挿れて。お兄ちゃんのおちんちん……[r]
+　私に……挿れて欲しいの……」[pcms]
 
 *294|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「うん……」[pcms]
 
 *295|
 [fc]
-I went behind Ren and rubbed my dick against her pussy as I[r]
-guided it with my hand.[pcms]
+ボクは漣の後ろに回り、モノに手を添えながら、漣のアソコに[r]
+ずりずりと擦りつけた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *296|
 [fc]
 [vo_ren s="ren_TE0074"]
-[ns]Ren[nse]
-"Hiaaah! Ahh, no, that feels... good, ahh, ahhnn, Onii-[r]
-cha... it's good."[pcms]
+[ns]漣[nse]
+「ひあああっ。ああっ、やっ、それ、気持ち……いいっ、[r]
+　ああっ、あああっんっ、お兄ちゃ……いいっん」[pcms]
 
 *297|
 [fc]
-I rubbed the juices overflowing from Ren's pussy onto my[r]
-dick to make it slide better and to ease any pain for her.[pcms]
+漣のアソコからあふれる汁をボクのモノになすりつける。[r]
+少しでも滑りをよくして、漣の痛みを和らげるためにと。[pcms]
 
 *298|
 [fc]
-But the warm and slippery sensation made it feel like my[r]
-dick was about to burst with semen at any moment.[pcms]
+でも、そのぬるぬるとした温かい感触で、ボクのモノからは[r]
+すぐにでも精子が飛び出しそうになっていた。[pcms]
 
 *299|
 [fc]
-[ns]Wataru[nse]
-"Kuh... Ren, I'm going to put it in..."[pcms]
+[ns]航[nse]
+「くっ……漣、挿れるよ……」[pcms]
 
 [evcg storage="HEV047b"][trans_c cross time=300]
 
 *300|
 [fc]
-I slowly pushed into the small entrance of Ren's pussy.[pcms]
+漣のアソコの小さな口に、ボクはゆっくりと押し込んだ。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *301|
 [fc]
 [vo_ren s="ren_TE0075"]
-[ns]Ren[nse]
-"Kuuuuuh!! It hurts! Aaaahnn!!"[pcms]
+[ns]漣[nse]
+「くうぅうっっ！！　い゛っ！　ああ゛っっんっ！！」[pcms]
 
 *302|
 [fc]
-My dick was swallowed up by Ren's pussy more easily than I[r]
-imagined. It was tight and hot inside, and the walls of[r]
-flesh pressed tightly...[pcms]
+ずるりとボクのモノは漣のアソコに飲み込まれていった。[r]
+想像よりも漣のアソコは狭くて、そして熱くて、肉の壁が[r]
+ぎゅうぎゅうと押し付けられて……。[pcms]
 
 *303|
 [fc]
-My dick plunged through those tight walls of flesh all at[r]
-once...[pcms]
+その狭い肉の壁の中をボクのモノは、一気に進んでしまい……。[pcms]
 
 ;//#_ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -669,66 +673,66 @@ once...[pcms]
 
 *304|
 [fc]
-[ns]Wataru[nse]
-"Uooooh... kuuuh!!"[pcms]
+[ns]航[nse]
+「うおおぉっ……くうっ！！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *305|
 [fc]
 [vo_ren s="ren_TE0076"]
-[ns]Ren[nse]
-"Nnaaahh! Kuuuh!! It hurts but it feels good!"[pcms]
+[ns]漣[nse]
+「んあああっっ、く、くうぅぅっ！！　いっい゛っあっ！」[pcms]
 
 *306|
 [fc]
-I couldn't hold back and ended up releasing my semen inside[r]
-Ren.[pcms]
+押さえきれずに、ボクは漣の中に精子をぶちまけて[r]
+しまっていた。[pcms]
 
 *307|
 [fc]
-[ns]Wataru[nse]
-"Uhh... phew... Ren... sorry..."[pcms]
+[ns]航[nse]
+「うっ……ふうっ……漣……ごめ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *308|
 [fc]
 [vo_ren s="ren_TE0077"]
-[ns]Ren[nse]
-"It's okay... Nnaahh, Onii-chan's semen is soaking inside[r]
-me... It's hot and feels good..."[pcms]
+[ns]漣[nse]
+「い……いいの……んっああっ、お兄ちゃんの精子が……[r]
+　私の中に染み込んできてる……熱くて……気持ちいい……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *309|
 [fc]
 [vo_ren s="ren_TE0078"]
-[ns]Ren[nse]
-"Onii-chan... hey, let's stay connected like this, turn me[r]
-towards you... I want to see your face. Hold me while[r]
-looking at me properly..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……ね、このままで、繋がったままで、[r]
+　私をお兄ちゃんの方に向かせて……お兄ちゃんの、[r]
+　顔が見たいの。ちゃんと顔を見て、私を抱いて欲しいの……」[pcms]
 
 *310|
 [fc]
-[ns]Wataru[nse]
-"...Ren"[pcms]
+[ns]航[nse]
+「……漣」[pcms]
 
 *311|
 [fc]
-I hugged Ren from behind. Her insides clenched tightly[r]
-around my dick. The stimulation made my dick regain its[r]
-vigor inside her.[pcms]
+ボクは漣を背中から抱きしめた。ぎゅぎゅっと漣の中が動いて[r]
+ボクのモノを締めつける。その刺激でボクのモノは[r]
+漣の中で元気を取り戻してきていた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *312|
 [fc]
 [vo_ren s="ren_TE0079"]
-[ns]Ren[nse]
-"Nnn... Ahh... nkuuh... it hurts a bit. Your dick is getting[r]
-hot again inside me. Hey, Onii-chan. Show me your face. I[r]
-want to see too, please."[pcms]
+[ns]漣[nse]
+「んっ……あっ……んくうっ……い゛……痛……っ。[r]
+　お兄ちゃんのおちんちん、私の中でまた熱くなってきてる。[r]
+　ね、お兄ちゃん。顔を見せて。私も見て、お願い」[pcms]
 
 ;//〆HEV058
 
@@ -736,93 +740,96 @@ want to see too, please."[pcms]
 
 *313|
 [fc]
-I rotated Ren around my dick as a pivot point. My dick slid[r]
-against the walls of her flesh and became rock hard again[r]
-from the sensation.[pcms]
+ボクのモノを基点にして漣を回転させた。[r]
+ボクのモノもずりゅんと漣の肉の壁に撫でられて、その感触で[r]
+ボクのモノは、再びカチンカチンになっていた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *314|
 [fc]
 [vo_ren s="ren_TE0080"]
-[ns]Ren[nse]
-"Nnfuuuhh. Onii-chan's dick is hot. It's hot and hard...[r]
-throbbing inside me... it feels so good... ahh, I'm[r]
-happy..."[pcms]
+[ns]漣[nse]
+「んふうぅっう。お、お兄ちゃんのおちんちんが、熱いよ。[r]
+　熱くて硬い……よぉ。とくんとくんって……私の中で……[r]
+　いってるぅ……ああっ、嬉しい……っ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *315|
 [fc]
 [vo_ren s="ren_TE0081"]
-[ns]Ren[nse]
-"My first time... finally, finally... given to me by Onii-[r]
-chan... I'm so happy..."[pcms]
+[ns]漣[nse]
+「私の、初めて……やっと、やっと……お兄ちゃんに貰って[r]
+　もらえた……の。嬉しい……っ」[pcms]
 
 *316|
 [fc]
-[ns]Wataru[nse]
-"Does it hurt, Ren? Are you okay?"[pcms]
+[ns]航[nse]
+「痛くないか……漣。大丈夫か？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *317|
 [fc]
 [vo_ren s="ren_TE0082"]
-[ns]Ren[nse]
-"Yeah... I'm okay, Onii-chan. It still hurts a little but...[r]
-I'm fine. Hey, you can move now... Make it feel even better.[r]
-Make yourself feel good too..."[pcms]
+[ns]漣[nse]
+「うん……大丈夫だよ、お兄ちゃん。まだ……ちょっとだけ[r]
+　痛いけど……大丈夫。ね、動いていいの……よ。[r]
+　もっと気持ちよくして。お兄ちゃんも気持ちよくなって……」[pcms]
 
 *318|
 [fc]
-I started moving my hips slowly in response. The semen I had[r]
-released inside Ren mixed with her juices, gradually leaking[r]
-out between us.[pcms]
+ボクは返事の代わりにゆっくりと腰を動かし始めた。[r]
+さっき漣の中に出した精子。漣が出す汁。ふたつが混ざって[r]
+少しずつ、ボクと漣のあいだから、漏れ出てくる。[pcms]
 
 [evcg storage="HEV048c"][trans_c cross time=300]
 
 *319|
 [fc]
-The lewd sounds of squelching and squishing could be heard.[pcms]
+ぐちゅぐちゅ、くちゅくちゅ……そんな、卑猥な音が[r]
+聞こえてきていた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *320|
 [fc]
 [vo_ren s="ren_TE0083"]
-[ns]Ren[nse]
-"Nhihi, it hurts just a little but it feels so good. Ahh![r]
-Just a bit painful but I'm so happy."[pcms]
+[ns]漣[nse]
+「んひぃ、いっい゛っ……ああっ！　ちょっと、ちょっとだけえ[r]
+　痛……いけ……ど、ああっ、くうぅぅ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *321|
 [fc]
 [vo_ren s="ren_TE0084"]
-[ns]Ren[nse]
-"Ahh! Ahhaaah! It hurts but I'm so happy. Onii-chan's dick[r]
-is inside me, inside my pussy... ah, ahhnn!"[pcms]
+[ns]漣[nse]
+「あっ、あっあああっ、痛……いいけど、嬉しぃい。[r]
+　お兄ちゃんの、お兄ちゃんのおちんちんが、私の、私のぉ。[r]
+　アソコの中で……あ、ああっ、んああっ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *322|
 [fc]
 [vo_ren s="ren_TE0085"]
-[ns]Ren[nse]
-"More, more, Onii-cha...!! Rub my pussy thoroughly... make[r]
-it messy... please... ahhhh!!"[pcms]
+[ns]漣[nse]
+「もっとぉ、もっとぉ、お兄ちゃ……っ！！[r]
+　いっぱい、こっ擦ってぇ。私のアソコ、ぐちゃぐちゃにっ[r]
+　……してえ、お、お願いっ…………っあああっひぃっ！！」[pcms]
 
 *323|
 [fc]
-The mix of my semen and Ren's fluids became a perfect[r]
-lubricant, urging my hips to move faster.[pcms]
+ボクの精液と漣の粘液がいい潤滑剤になって、ボクの腰は[r]
+促されるように加速していった。[pcms]
 
 *324|
 [fc]
-But with every thrust, Ren's light body slid upwards. I[r]
-grabbed her arms and pulled her towards me as I thrust[r]
-upward.[pcms]
+でも、ずんずんと打ちつけるたび、漣の軽いからだが[r]
+ずりずりと上がっていってしまう。[r]
+ボクは漣の両腕を掴んで、ボクに押し付け突き上げた。[pcms]
 
 [evcg storage="HEV048b"][trans_c cross time=300]
 
@@ -831,33 +838,36 @@ upward.[pcms]
 *325|
 [fc]
 [vo_ren s="ren_TE0086"]
-[ns]Ren[nse]
-"Ahhh! Ahihi!! It feels good! It's amazing! Onii-chan's dick[r]
-is amazingggg, ahhh!"[pcms]
+[ns]漣[nse]
+「あああっ！　あひぃぃっ！！　いいっ！！　気持ちいいっ！[r]
+　凄いよ、凄いよぉっ！　お兄ちゃんの、お兄ちゃんの[r]
+　おちんちん、凄いよぉぉぉ、ああああっああぅぅっああっ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *326|
 [fc]
 [vo_ren s="ren_TE0087"]
-[ns]Ren[nse]
-"Nhaah! Akihi!! Nhaaah! Haaah! It's amazing, it's hot!![r]
-Onii-chan's feels so good!!"[pcms]
+[ns]漣[nse]
+「んぁあっ！　あきぃぃっ！！　んあああっ！　はああっ！[r]
+　凄いの、凄いのぉ、熱いの、熱いのぉ！！[r]
+　お兄ちゃんの、お兄ちゃんのぉ……気持ちいいいいぃぃ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *327|
 [fc]
 [vo_ren s="ren_TE0088"]
-[ns]Ren[nse]
-"My pussy is getting so messy ahhh!! Onii-chan's dick is[r]
-rubbing against it... ahihi, it feels so good!!"[pcms]
+[ns]漣[nse]
+「私の、私のアソコぉ……ぐちゃぐちゃああああっ！！[r]
+　お……兄ちゃんのぉ、おちんちんに、こ、擦られてえ……[r]
+　あひぃいい、ぐ……ぐちゃぐ……あああっ、いいいぃ！！」[pcms]
 
 *328|
 [fc]
-With intense moans of pleasure, Ren arched her back as much[r]
-as she could and surrendered to the sensation. Held by her[r]
-arms by me, her body was almost floating in the air.[pcms]
+漣は激しいよがり声を上げて、思いっ切り快感に任せて[r]
+背中を反らした。ボクに腕を掴まれたままの漣の身体は、[r]
+ほとんど空中に浮いている。[pcms]
 
 ;//〆HRV074
 
@@ -869,10 +879,10 @@ arms by me, her body was almost floating in the air.[pcms]
 *329|
 [fc]
 [vo_ren s="ren_TE0089"]
-[ns]Ren[nse]
-"Aaaaah! Ahiiii!! It feels good!! It's so deep. Amazing...[r]
-Onii-chan's, Onii- chan's dick, deep inside, all the way...[r]
-aaaaaah ahhhh!"[pcms]
+[ns]漣[nse]
+「あああっ！　あひぃぃっ！！　いいっ！！　深いよぉ。[r]
+　凄いのぉ……お兄ちゃんの、お兄ちゃんのおちんちん、[r]
+　奥に、奥まで……ああああっああぅぅっああっ！」[pcms]
 
 [evcg storage="HEV048c"][trans_c cross time=300]
 
@@ -881,74 +891,75 @@ aaaaaah ahhhh!"[pcms]
 *330|
 [fc]
 [vo_ren s="ren_TE0090"]
-[ns]Ren[nse]
-"Nhaah! Akihiii!! Nhaaah! Haaah! It's hitting, inside my[r]
-pussy, deep inside... it's amazing, it's so amazing!!"[pcms]
+[ns]漣[nse]
+「んぁあっ！　あきぃぃっ！！　んあああっ！　はああっ！[r]
+　当たるのぉ、アソコの、奥にぃ……凄いの、凄いのぉ！！」[pcms]
 
 *331|
 [fc]
-Every time I thrust my hips, Ren's petite light body bounced[r]
-up. Bouncing up and down, my thing was rubbed from the tip[r]
-to the base by Ren's heated pussy.[pcms]
+腰を突き上げるたびに、漣の華奢な軽い身体が跳ね上がる。[r]
+ぼんぼんと跳ね上がって、ボクのモノは、先から根元まで[r]
+漣の熱くなったアソコで擦り上げられた。[pcms]
 
 *332|
 [fc]
-[ns]Wataru[nse]
-"Ugh... kuuuh..."[pcms]
+[ns]航[nse]
+「うっ……くうっ……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *333|
 [fc]
 [vo_ren s="ren_TE0091"]
-[ns]Ren[nse]
-"Hihhih... aaaaah! Rubbing... with Onii-chan's dick...[r]
-aaaaah! Hihiinnn! My pussy... deep inside, being rubbed...[r]
-ahh kuuuh!"[pcms]
+[ns]漣[nse]
+「ひっひっ……あああっ！　擦れ……るぅっ、お兄ちゃんの[r]
+　おちんちんで……あああっ！　ひいぃんんっ！[r]
+　私のアソコ……奥ま……で、擦られ……ああっくうっ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *334|
 [fc]
 [vo_ren s="ren_TE0092"]
-[ns]Ren[nse]
-"My pussy is getting so messy aaaaaah!! O-Onii-chan's dick[r]
-is rubbing against it... ahiiii, it's... it's so good!!"[pcms]
+[ns]漣[nse]
+「私の、私のアソコぉ……ぐちゃぐちゃああああっ！！[r]
+　お……兄ちゃんのぉ、おちんちんに、こ、擦られてえ……[r]
+　あひぃいい、ぐ……ぐちゃぐ……あああっ、いいいぃ！！」[pcms]
 
 *335|
 [fc]
-Ren's pussy was rubbing against my thing. Using the bouncing[r]
-of her body, she clung and tightened around me, continuously[r]
-rubbing and squelching against my thing.[pcms]
+漣のアソコが、ボクのモノを擦り上げる。[r]
+身体の跳ね上がりを使って、締めつけながらまとわりつき[r]
+ずりずりぬちょぬちょとボクのモノを擦り続けていた。[pcms]
 
 *336|
 [fc]
-[ns]Wataru[nse]
-"Re-Ren! I'm... I'm about to...!"[pcms]
+[ns]航[nse]
+「れ、漣っっ！　も、もう……っ！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *337|
 [fc]
 [vo_ren s="ren_TE0093"]
-[ns]Ren[nse]
-"Aaaaah, let it out, again, fill me up inside... nhiiii! Let[r]
-out Onii-chan's... semen!"[pcms]
+[ns]漣[nse]
+「あああっ、出してえ、また、いっぱい私の中に……ぃ[r]
+　んひぃいっ、出してお兄ちゃんの、精……子っぃい！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *338|
 [fc]
 [vo_ren s="ren_TE0094"]
-[ns]Ren[nse]
-"Let it out... please. Please give me Onii-chan's, aaaaah,[r]
-semen, please! I want it... inside meee, aaaaaahnn aaaaah!"[pcms]
+[ns]漣[nse]
+「出し……てぇ、ちょうだい。ちょうだいぃお兄ちゃんの[r]
+　お兄ちゃんのぉ、あああっ、精子、ちょうだいぃっ！[r]
+　わ、私の……な……かにぃぃ、ああああっんあああっ」[pcms]
 
 *339|
 [fc]
-[ns]Wataru[nse]
-"Uooh, it's coming. It's coming, I'm going to let it out,[r]
-I'm letting it out, Ren!"[pcms]
+[ns]航[nse]
+「うおっ、出る。出る、出すぞ、出すぞ、漣っ！」[pcms]
 
 ;//#_ホワイトフラッシュ
 [se buf=0 storage="se_sex01"]
@@ -960,8 +971,8 @@ I'm letting it out, Ren!"[pcms]
 *340|
 [fc]
 [vo_ren s="ren_TE0095"]
-[ns]Ren[nse]
-"Kyaaaaaaaah aaaaahnn!! Ahiiiii!"[pcms]
+[ns]漣[nse]
+「きゃあああああっあああっんっ！！　あひいいいっ！」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -980,67 +991,67 @@ I'm letting it out, Ren!"[pcms]
 *341|
 [fc]
 [vo_ren s="ren_TE0096"]
-[ns]Ren[nse]
-"...Hah... fuuunn..."[pcms]
+[ns]漣[nse]
+「……はっ……ふあっんっ……」[pcms]
 
 *342|
 [fc]
-[ns]Wataru[nse]
-"Are you okay... Ren?"[pcms]
+[ns]航[nse]
+「大丈夫か……漣？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *343|
 [fc]
 [vo_ren s="ren_TE0097"]
-[ns]Ren[nse]
-"Nn... uh... yeah. I'm... okay."[pcms]
+[ns]漣[nse]
+「ん……う……ん。大……丈夫」[pcms]
 
 *344|
 [fc]
-[ns]Wataru[nse]
-"Sorry... I might have been a bit rough..."[pcms]
+[ns]航[nse]
+「ごめん……な。ちょっと無茶させたかも……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *345|
 [fc]
 [vo_ren s="ren_TE0098"]
-[ns]Ren[nse]
-"No way, don't apologize Onii-chan... I just got... so[r]
-happy, and finally... my feelings reached Onii-chan...[r]
-That's why I got a little excited..."[pcms]
+[ns]漣[nse]
+「やだぁ、謝らないでよぉお兄ちゃん……私……つい……[r]
+　嬉しく……て、やっと……お兄ちゃんに思いが……[r]
+　伝わったって……だから、ちょっと興奮しちゃって……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *346|
 [fc]
 [vo_ren s="ren_TE0099"]
-[ns]Ren[nse]
-"I might have gotten a bit too carried away... So, Onii-chan[r]
-has nothing to apologize for..."[pcms]
+[ns]漣[nse]
+「はりきり……すぎちゃったみたい……。[r]
+　だから、お兄ちゃんは何にも謝る……事なんかないの……」[pcms]
 
 *347|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣……」[pcms]
 
 *348|
 [fc]
-I hugged Ren. Her body was still slightly damp and delicate.[r]
-I hugged her gently so as not to break her.[pcms]
+ボクは漣を抱きしめた。まだしっとりとした華奢な身体。[r]
+壊さないように、優しく抱きしめた。[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *349|
 [fc]
 [vo_ren s="ren_TE0100"]
-[ns]Ren[nse]
-"Nn... it's warm. I'm very happy right now."[pcms]
+[ns]漣[nse]
+「ん……あったかいね。私……今とっても幸せだよ」[pcms]
 
 *350|
 [fc]
-Holding Ren in my arms, I eventually fell asleep.[pcms]
+漣を抱きしめながら、ボクはいつしか眠ってしまっていた。[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -1073,18 +1084,20 @@ Holding Ren in my arms, I eventually fell asleep.[pcms]
 
 *351|
 [fc]
-I suddenly woke up. It still seemed to be the middle of the[r]
-night. When I reached out with my hand, Ren wasn't there.[pcms]
+ふっと目が覚めた。まだ夜中……のようだった。[r]
+手で隣を探ると、漣がいなかった。[pcms]
 
 *352|
 [fc]
-I was a bit panicked, but the remaining dampness and Ren's[r]
-lingering scent calmed me down. It wasn't just a dream.[pcms]
+ボクはちょっと慌てたけど、まだ残っている湿り気と[r]
+漣の残り香がボクを落ち着かせてくれた。[r]
+あれは夢じゃないんだって。[pcms]
 
 *353|
 [fc]
-I wonder if she went to take a shower... or maybe something[r]
-else. With that thought in mind, I fell back into sleep.[pcms]
+シャワーでも浴びに行ったのかな……それとも……。[r]
+そんな事を考えながら、ボクはまた眠りの中へと[r]
+落ちていった。[pcms]
 
 
 

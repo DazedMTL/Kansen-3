@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//---------------------------------------------------------------
 ;//〆block:B003
 ;//●だ、ダメだよ！！
@@ -16,60 +16,60 @@
 
 *6856|
 [fc]
-[ns]Wataru[nse]
-"No...that's not okay...!!"[pcms]
+[ns]航[nse]
+「だ……ダメだよ……！！」[pcms]
 
 *6857|
 [fc]
-I turned bright red and frantically waved my hands.[pcms]
+ボクは真っ赤になって手をばたばたと振った。[pcms]
 
 *6858|
 [fc]
-This is bad. It's really bad. Not just bad, but it's so[r]
-delightful that it's bad.[pcms]
+まずい。それはまずい。[r]
+ダメっていうかまずいっていうか、嬉しすぎてまずい。[pcms]
 
 *6859|
 [fc]
-Ren is such an honest and good girl, she's kind, she even[r]
-takes care of chores around the house without a single[r]
-complaint, and above all, she's cute. That's[r]
-right...sometimes she seems almost doll-like...[pcms]
+漣は素直なイイ子だし優しいし料理とか家の中の用事だって[r]
+文句ひとつこぼさずにやってくれるし何より可愛いし。[r]
+そう……たまに人形みたいだなって思うくらい……。[pcms]
 
 *6860|
 [fc]
-Honestly, every time we're told by others that "You two get[r]
-along too well," I feel tickled inside, and I was happy.[pcms]
+本音を言えば、周りから『仲が良すぎるくらいだね』って[r]
+言われるたびに内心くすぐったくて、嬉しかった。[pcms]
 
 *6861|
 [fc]
-After all, for me, Ren is not only my "stepsister" but also[r]
-undoubtedly a "cute girl."[pcms]
+だって、ボクにとって漣は『義妹』であると同時に[r]
+間違いなく『可愛い女の子』でもあるのだから。[pcms]
 
 *6862|
 [fc]
-So when such a Ren says she'll become my bride, it's[r]
-just...unstoppable. I can't control myself... I feel like I[r]
-might cross a line...[pcms]
+そんな漣がボクのお嫁さんになってくれるなんて言うんだから[r]
+もう……止まらない。自分が抑えられなくなる……。[r]
+一線を越えてしまいそうだ……。[pcms]
 
 *6863|
 [fc]
-[ns]Wataru[nse]
-"Wh-what I mean is, you know, if you say something like[r]
-that... Given the time and situation, that..."[pcms]
+[ns]航[nse]
+「な、なんてゆーか、あれだよ、[r]
+　そんなこと言われたら……[r]
+　と、時と場合がこんなだし、その……」[pcms]
 
 *6864|
 [fc]
-Because I denied it so desperately, even Ren's face turned[r]
-red.[pcms]
+ボクがあまり必死に否定するので、[r]
+漣までが顔を赤くしてしまう。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6865|
 [fc]
 [vo_ren s="ren_T0053"]
-[ns]Ren[nse]
-"...Wh-what are you panicking for!? Geez~, it was just a[r]
-joke!!"[pcms]
+[ns]漣[nse]
+「……な、なに、慌ててるの！？[r]
+　もう～っ、冗談だよ～！！」[pcms]
 ;//＠あわてぎみ＆テレ気味
 
 ;//★ここから、Ｔ４００４０で流用します
@@ -79,117 +79,120 @@ joke!!"[pcms]
 *6866|
 [fc]
 [vo_ren s="ren_T0045"]
-[ns]Ren[nse]
-"After all...I won't become the bride of someone who has[r]
-such naughty books and peeks at me changing!!"[pcms]
+[ns]漣[nse]
+「だ、だいたい……あんなエッチな本もってたり、[r]
+　着替えを覗いたりする人のお嫁さんにはなりません！！」[pcms]
 
 *6867|
 [fc]
-[ns]Wataru[nse]
-"Eh...!?"[pcms]
+[ns]航[nse]
+「えっ…………！？」[pcms]
 
 *6868|
 [fc]
-Eh...Naughty books!? Could it be...she found my collection!?[pcms]
+え……エッチな本！？[r]
+まさか……ボクのコレクション、見つかってた！？[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6869|
 [fc]
 [vo_ren s="ren_T0046"]
-[ns]Ren[nse]
-"...Books about butts and little sister themes... Big[r]
-brother is too much of a pervert~!!"[pcms]
+[ns]漣[nse]
+「……お、お尻の本とか、妹モノとか……[r]
+　お兄ちゃんは変態さんすぎるよ～！！」[pcms]
 
 *6870|
 [fc]
-[ns]Wataru[nse]
-"Ah...ahhhhh..."[pcms]
+[ns]航[nse]
+「あ……あうぅぅぅ…………」[pcms]
 
 *6871|
 [fc]
-Oh no, this isn't just teasing! She really found out!![pcms]
+うわ、これはカマをかけてるんじゃない！[r]
+ホントにバレてるんだっ！[pcms]
 
 *6872|
 [fc]
-I have no words to return or excuses to make, but it can't[r]
-be helped! That's who I am, and I'm a boy after all![pcms]
+返す言葉もないというか、弁解のしようもないけど、[r]
+だってしょうがないじゃないか！[r]
+それがボクだし、ボク、男の子なんだもんっ！[pcms]
 
 *6873|
 [fc]
-[ns]Wataru[nse]
-"But, well, if Ren became my bride, it seems like I'd be[r]
-made to eat nothing but vegetables..."[pcms]
+[ns]航[nse]
+「で、でもまあ、漣をお嫁さんにしたら[r]
+　野菜ばっかり食べさせられそうだしなー……」[pcms]
 
 *6874|
 [fc]
-I can't just take this lying down; it would affect my[r]
-dignity as a brother. I quietly attempted a counter-punch.[pcms]
+やられっぱなしでは兄の威厳にかかわる。[r]
+ボクはひっそりと逆襲パンチをかましてみた。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f13"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6875|
 [fc]
 [vo_ren s="ren_T0047"]
-[ns]Ren[nse]
-"That's because I'm worried about dad's metabolic syndrome!"[pcms]
+[ns]漣[nse]
+「あ、あれは、お父さんのメタボが心配だからだよー」[pcms]
 
 *6876|
 [fc]
-[ns]Wataru[nse]
-"Is that so? It's not because you're cutting corners?"[pcms]
+[ns]航[nse]
+「そうかー？　手抜きとかじゃなくてー？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6877|
 [fc]
 [vo_ren s="ren_T0048"]
-[ns]Ren[nse]
-"Geez~, that's mean, big brother!"[pcms]
+[ns]漣[nse]
+「も～っ、ひどーい、お兄ちゃん！」[pcms]
 
 *6878|
 [fc]
-Puffing her cheeks adorably, Ren tapped me lightly with the[r]
-back of her hand holding the bow.[pcms]
+ぷぅっと可愛らしく頬を膨らませ、[r]
+漣は弓を持った手の甲で、ボクをコツンと叩いてきた。[pcms]
 
 *6879|
 [fc]
-[ns]Wataru[nse]
-"Hahaha, hey, Ren! Stop it, it hurts..."[pcms]
+[ns]航[nse]
+「ははは、こら、漣！　よせよ、痛いよ……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6880|
 [fc]
 [vo_ren s="ren_T0049"]
-[ns]Ren[nse]
-"I won't stop! A mean big brother like you deserves a deadly[r]
-punch!"[pcms]
+[ns]漣[nse]
+「やめないもーん！[r]
+　イジワル言うお兄ちゃんなんか、必殺ぱんちだー！」[pcms]
 
 *6881|
 [fc]
-[ns]Wataru[nse]
-"If you say that, I might tickle you!?"[pcms]
+[ns]航[nse]
+「そんなこと言うと、くすぐっちゃうぞ！？」[pcms]
 
 *6882|
 [fc]
-I spread my hands in front of Ren and wiggled my ten fingers[r]
-ominously.[pcms]
+ボクは漣の目の前に両手を広げて[r]
+１０本の指を怪しくうごめかしてみせる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f9"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6883|
 [fc]
 [vo_ren s="ren_T0050"]
-[ns]Ren[nse]
-"No, nooo! Stop that, don't wiggle your fingers under my[r]
-arms!"[pcms]
+[ns]漣[nse]
+「やっ、やだあぁっ！[r]
+　その、指、わきわきするの、やめてぇぇ！？」[pcms]
 ;//＠半分笑いながら（くすぐたいのが苦手。半分、本気でやめてほしい）
 
 *6884|
 [fc]
-[ns]Wataru[nse]
-"Fufufufu, I see right through your weakness."[pcms]
+[ns]航[nse]
+「ふふふふふ、お前の弱点などお見通しなのだー」[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -206,26 +209,26 @@ arms!"[pcms]
 *6885|
 [fc]
 [vo_ren s="ren_T0051"]
-[ns]Ren[nse]
-"...Ha... If we keep this up, we'll run out of time."[pcms]
+[ns]漣[nse]
+「…………はー……。[r]
+　こんなことしてたら、時間なくなっちゃう」[pcms]
 
 *6886|
 [fc]
-[ns]Wataru[nse]
-"...Exactly. Practice seriously, okay?"[pcms]
+[ns]航[nse]
+「……まったくだ。マジメに練習しろよ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f2"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *6887|
 [fc]
 [vo_ren s="ren_T0052"]
-[ns]Ren[nse]
-"Geez... big brother..."[pcms]
+[ns]漣[nse]
+「もう……っ、お兄ちゃんったら……」[pcms]
 
 *6888|
 [fc]
-Laughing, Ren glared at me and then readjusted her[r]
-instrument.[pcms]
+笑いながらボクを睨んで、漣は楽器を構えなおした。[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]
@@ -239,32 +242,32 @@ instrument.[pcms]
 
 *6889|
 [fc]
-Her arm raised, the bow touched the strings. Soon she swayed[r]
-her body lightly and began to play.[pcms]
+腕が上がり、弓が弦に触れる。[r]
+やがて軽く身体を揺らし、漣は演奏を始めた。[pcms]
 
 *6890|
 [fc]
-I've heard this piece many times before. It's the one Ren[r]
-always likes to practice.[pcms]
+この曲は何度も聴いたことがある。[r]
+漣が好んでいつも練習している曲だ。[pcms]
 
 *6891|
 [fc]
-Listening to the light notes, I leaned back into the chair[r]
-and relaxed.[pcms]
+軽やかな音色に聴き入りながら、[r]
+ボクはゆったりと椅子の背もたれに体重を預ける。[pcms]
 
 *6892|
 [fc]
-It's been a while...since I've heard Ren's music...[pcms]
+久しぶりだな……、漣の音……。[pcms]
 
 *6893|
 [fc]
-If...I married Ren, would gentle moments like these continue[r]
-to flow every day...?[pcms]
+もし……漣と結婚したら、毎日こんな風に[r]
+優しい時がずっと流れていくんだろうか……？[pcms]
 
 *6894|
 [fc]
-The sound is really nice... Maybe having Ren as a wife[r]
-wouldn't be so bad after all...??[pcms]
+本当にいい音色だな……。[r]
+漣が奥さんっていうのは実際、そんなに悪くないのかも……？？[pcms]
 
 ;//se097・走り込んでくる足音（一人）
 ;//[se buf=0 storage="se097"]
@@ -278,8 +281,8 @@ wouldn't be so bad after all...??[pcms]
 *6895|
 [fc]
 [vo_yuh s="yuho_T0124"]
-[ns]Yuuho[nse]
-"Wataru! Ren-chan! It's terrible--!!"[pcms]
+[ns]悠帆[nse]
+「航っ！　漣ちゃんっ！　大変だよーーっ！！」[pcms]
 
 ;//〆ステージレストラン
 [bg storage="BG019b"][trans_c cross time=500]
@@ -287,17 +290,17 @@ wouldn't be so bad after all...??[pcms]
 
 *6896|
 [fc]
-Suddenly, Yuuho burst into the restaurant.[pcms]
+突然、悠帆がレストランに飛び込んできた。[pcms]
 
 *6897|
 [fc]
-[ns]Wataru[nse]
-"Yuuho? What happened?"[pcms]
+[ns]航[nse]
+「悠帆？　どうしたの？」[pcms]
 
 *6898|
 [fc]
-I noticed Yuuho's face was as white as paper and drained of[r]
-blood, and an ominous premonition crossed my mind...[pcms]
+紙のように白く、血の気の引いた悠帆の顔に気付いて[r]
+不吉な予感がよぎった……。[pcms]
 
 ;//★ここまで、Ｔ４００４０で流用します
 ;//→T60030

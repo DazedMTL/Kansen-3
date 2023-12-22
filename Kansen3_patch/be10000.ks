@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10000_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 
 ;mm 3者視点だけどzapfadeはなくていい？
@@ -17,53 +17,51 @@
 
 *126|
 [fc]
-Shibuya, a city overflowing with people, aptly described as[r]
-a throng.[pcms]
+雑踏と表現することが相応しい、人にあふれていた街、渋谷。[pcms]
 
 *127|
 [fc]
-The dazzling midsummer sunlight that illuminated Center[r]
-Street's asphalt was already tilting, casting a lonely[r]
-slanting light that dyed the surroundings red.[pcms]
+センターストリートのアスファルトを照らす、まばゆい真夏の[r]
+日差しはすでに傾いて、うら寂しい斜陽が[r]
+辺りを赤く染めていた。[pcms]
 
 *128|
 [fc]
-The everyday sounds of people's chatter, car exhaust, and[r]
-trains running on tracks were absent from this city.[pcms]
+人々の喧噪や車の排気音、列車が線路を踏む[r]
+当たり前の音がこの街からは聞こえない。[pcms]
 
 *129|
 [fc]
-The only sounds faintly audible were the dry BGM leaking[r]
-from unmanned stores and the desolate noise of the wind[r]
-hitting objects.[pcms]
+微かに鳴っているのは、無人の店内から漏れ出す乾燥した[r]
+ＢＧＭと、風が物を叩くうらぶれた雑音だけ。[pcms]
 
 *130|
 [fc]
-The more these sounds echoed... the more it seemed to hasten[r]
-the rapid death visiting this city.[pcms]
+その音が響けば響くほど……この街に訪れる[r]
+急速な死を早めているようだった。[pcms]
 
 *131|
 [fc]
-Gone were the lively figures of young people bustling about,[r]
-the tired adults busy with their businesses, only a few[r]
-crows with red eyes were observing the surroundings.[pcms]
+往来をにぎやかす若者の姿もなく、商売に精を出す[r]
+疲れた大人の姿もなく、ただ赤い目をしたカラスが数羽、[r]
+辺りの様子をうかがっている。[pcms]
 
 ;//se028・自動車のクラッシュ音
 [se buf=0 storage="se028"]
 
 *132|
 [fc]
-Then, an impact sound that could make one involuntarily[r]
-shrink echoed around.[pcms]
+そこに、思わず身をすくめてしまいそうな衝撃音が[r]
+辺りに木霊していた。[pcms]
 
 *133|
 [fc]
-The crows' attention turned in that direction.[pcms]
+カラスの注意がそちらに向く。[pcms]
 
 *134|
 [fc]
-Along with a heavy sound of iron clashing violently against[r]
-iron, the roar of large-capacity engines overlapped.[pcms]
+鉄と鉄が激しい勢いでぶつかる重い音と共に、[r]
+排気量の大きなエンジン音がいくつも重なっていた。[pcms]
 
 ;//★_スクランブル交差点前（夕）
 [bg storage="BG04b"][trans_c cross time=500]
@@ -73,23 +71,22 @@ iron, the roar of large-capacity engines overlapped.[pcms]
 
 *135|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ora ora ora-! Move it, every single one of you!"[pcms]
+[ns]重吉[nse]
+「おらおらおらーっ！　どいつもこいつもどきやがれっ！」[pcms]
 
 ;//se028・自動車のクラッシュ音
 [se buf=1 storage="se028"]
 
 *136|
 [fc]
-In the streets of Shibuya, devoid of other cars, several[r]
-large vehicles like dump trucks and lorries were running[r]
-around as if they owned the place.[pcms]
+他に走る車のない渋谷の街を、ダンプカーやトラックなどの[r]
+大型車が数台、我が物顔で走り回っていた。[pcms]
 
 *137|
 [fc]
-The drivers were mowing down infected people as if playing a[r]
-game, knocking aside abandoned vehicles and pressing down[r]
-even harder on the accelerator.[pcms]
+運転手はゲームでもしているかのように感染者を轢き殺し、[r]
+放置された車両をはねとばしながら、[r]
+更にアクセルを踏み込んでいる。[pcms]
 
 ;//se036・人間が地面に叩きつけられる音
 [se buf=1 storage="se036"]
@@ -100,8 +97,9 @@ even harder on the accelerator.[pcms]
 
 *138|
 [fc]
-[ns]Shigeyoshi[nse]
-"Uhhya-! That woman's eyeballs just blew out!"[pcms]
+[ns]重吉[nse]
+「うっひゃーっ！[r]
+　今の女、目玉が吹っ飛んでやがったぜぇーっ！」[pcms]
 
 ;//★_LASER正面（夕）
 [bg storage="BG06b"][trans_c cross time=500]
@@ -109,28 +107,28 @@ even harder on the accelerator.[pcms]
 
 *139|
 [fc]
-After thoroughly enjoying the slaughter and destruction, the[r]
-driver headed towards LASER with his vehicle and ordered his[r]
-subordinates to charge.[pcms]
+運転手は殺戮と破壊を十分楽しんだ後に、ＬＡＳＥＲへと[r]
+車を乗り付けると、部下とおぼしき連中に突撃を命じていた。[pcms]
 
 *140|
 [fc]
-Armed thugs rushed into LASER from both Udagawa Street with[r]
-its "dedepou" and the opposite side, Inokashira Street.[pcms]
+「ででっぽう」のある宇田川通り側と、反対側の[r]
+井の頭通り側から、武装したチンピラたちが[r]
+ＬＡＳＥＲ内へと殺到する。[pcms]
 
 *141|
 [fc]
-The thugs broke through the shutters, tore off the blackout[r]
-curtains, and stormed into the store.[pcms]
+シャッターを破壊し、暗幕を引きはがし、[r]
+店内へと乗り込むチンピラたち。[pcms]
 
 *142|
 [fc]
-Direct entrance to "Manga Darake," outdoor emergency stairs,[r]
-"dedepou" basement entrance...[pcms]
+「マンガダラケ」直通入り口、屋外非常階段、[r]
+「ででっぽう」地下入り口……。[pcms]
 
 *143|
 [fc]
-Men began to invade from every possible place.[pcms]
+あらゆる場所から、男たちは侵入を開始していた。[pcms]
 
 ;//♂：背景リストに「ででっぽう」関連のものがありませんが、
 ;//シナリオの都合上、多数登場する場所ですので、あると仮定して貼っておきます
@@ -144,32 +142,32 @@ Men began to invade from every possible place.[pcms]
 
 *144|
 [fc]
-[ns]Wataru[nse]
-"Damn it, no signal..."[pcms]
+[ns]航[nse]
+「くそっ、でない……」[pcms]
 
 *145|
 [fc]
-Wataru, having confirmed the thugs entering LASER,[r]
-immediately tried to contact his friends by mobile phone,[r]
-but the call did not connect.[pcms]
+チンピラたちがＬＡＳＥＲに乗り込む姿を確認した航は、[r]
+すぐさま仲間に携帯で連絡を取ったが、[r]
+その電話がつながることはなかった。[pcms]
 
 *146|
 [fc]
-Wataru's anxious eyes were scanning around the perimeter of[r]
-LASER.[pcms]
+せわしげな航の目が、ＬＡＳＥＲの外周を[r]
+あちこちを見回している。[pcms]
 
 *147|
 [fc]
-[ns]Wataru[nse]
-"What's happening..."[pcms]
+[ns]航[nse]
+「なにがどうなっているんだ……」[pcms]
 
 ;//SE即時停止
 [stopse buf=0]
 
 *148|
 [fc]
-After hanging up the phone, Wataru thought of his friends[r]
-remaining in LASER and began to quickly rack his brain.[pcms]
+電話を切った航は、ＬＡＳＥＲに残っている仲間のことを思い、[r]
+素早く頭を巡らせ始めた。[pcms]
 
 ;//♯_ブラックアウト
 ;mm これいらないんだ[black_toplayer][trans_c cross time=1000][hide_chara_int]

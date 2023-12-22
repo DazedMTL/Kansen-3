@@ -16,248 +16,251 @@
 
 *1567|
 [fc]
-At the suggestion of my senior, we decided to think about[r]
-"what to do next."[pcms]
+先輩の提案で、ボクたちは「今後のこと」を考えることになった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1568|
 [fc]
 [vo_mar s="maru1468"]
-[ns]Margarita[nse]
-"Considering the news information, moving is dangerous."[pcms]
+[ns]マルガリータ[nse]
+「ニュースの情報を総合すると、移動は危険だな」[pcms]
 
 *1569|
 [fc]
 [vo_mar s="maru1469"]
-[ns]Margarita[nse]
-"If the roads are cut off, we can't use cars."[pcms]
+[ns]マルガリータ[nse]
+「道路が寸断されているとなれば車が使えない」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a5"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1570|
 [fc]
 [vo_mar s="maru1470"]
-[ns]Margarita[nse]
-"That means we'll have to move on foot. In this case, we[r]
-need to be wary not only of them but also of other infected[r]
-creatures..."[pcms]
+[ns]マルガリータ[nse]
+「では、徒歩移動を、ということになるが[r]
+　この場合、ヤツラだけでなく、[r]
+　ヒト以外の感染生物までも警戒する必要がある……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1571|
 [fc]
 [vo_mar s="maru1471"]
-[ns]Margarita[nse]
-"It's a really troublesome situation."[pcms]
+[ns]マルガリータ[nse]
+「実に厄介な話だ」[pcms]
 
 *1572|
 [fc]
-With her arms crossed, my senior let out a huge sigh and[r]
-muttered as if spitting out.[pcms]
+腕組みしたまま盛大に溜息をついた先輩は[r]
+吐き捨てるように呟く。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1573|
 [fc]
 [vo_yuh s="yuho1527"]
-[ns]Yuuho[nse]
-"Like they said on TV, let's barricade ourselves in a safe[r]
-place until help arrives?"[pcms]
+[ns]悠帆[nse]
+「テレビで言ってたみたいに、[r]
+　助けが来るまで、安全な場所に立てこもろうよ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1574|
 [fc]
 [vo_yuh s="yuho1528"]
-[ns]Yuuho[nse]
-"If it's LASER, there's a store, and there's plenty of food,[r]
-isn't it just perfect?"[pcms]
+[ns]悠帆[nse]
+「ＬＡＳＥＲなら、お店もあるし、[r]
+　食べ物もいっぱいあるし、ちょうど良いじゃない？」[pcms]
 
 *1575|
 [fc]
-Yuuho said this deliberately cheerfully, and Ren slowly[r]
-turned her face towards her.[pcms]
+わざとのように明るく言う悠帆に、[r]
+漣がゆっくりと顔を向ける。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a5"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1576|
 [fc]
 [vo_ren s="ren1362"]
-[ns]Ren[nse]
-"Help... will it come...?"[pcms]
+[ns]漣[nse]
+「助け……来るかな……？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1577|
 [fc]
 [vo_yuh s="yuho1529"]
-[ns]Yuuho[nse]
-"It's okay! It's bound to come. The whole world hasn't been[r]
-destroyed, so surely help will come from somewhere!"[pcms]
+[ns]悠帆[nse]
+「大丈夫！　来るに決まってるよ。[r]
+　世界中が滅亡したワケじゃないんだから[r]
+　きっとどこかから、救援が来る！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1578|
 [fc]
 [vo_yuh s="yuho1530"]
-[ns]Yuuho[nse]
-"...Besides, we survived when they attacked us that time,[r]
-right? If we're together, it'll definitely be okay. We'll[r]
-manage somehow, right?"[pcms]
+[ns]悠帆[nse]
+「……それに、わたしたち、[r]
+　あの時、ヤツラに襲われても生き延びたんだよ？[r]
+　一緒なら、きっと大丈夫。なんとかなるよ、ね？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1579|
 [fc]
 [vo_ren s="ren1363"]
-[ns]Ren[nse]
-"Yeah..."[pcms]
+[ns]漣[nse]
+「うん……」[pcms]
 ;//＠不安だけど信じたい
 
 *1580|
 [fc]
-With a face still showing unease but wanting to believe, Ren[r]
-nodded earnestly to Yuuho's words.[pcms]
+不安の残る顔のまま、それでも信じたいのだろう、[r]
+悠帆の言葉に、漣は素直にこっくりとうなずいた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1581|
 [fc]
 [vo_mar s="maru1472"]
-[ns]Margarita[nse]
-"What do you guys think?"[pcms]
+[ns]マルガリータ[nse]
+「アナタたちの考えは？」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1582|
 [fc]
-[ns]Shigeyoshi[nse]
-"Huh? Thoughts... uh, Aniki!"[pcms]
+[ns]重吉[nse]
+「うっ？　か、考えって……、あ、アニキぃ」[pcms]
 
 *1583|
 [fc]
-Taken aback by the sudden shift in conversation, Shigeyoshi[r]
-flusteredly looked to Jin for help.[pcms]
+急に話題を振られた重吉は、[r]
+おたおたと壬に助けを求める。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_c4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *1584|
 [fc]
-[ns]Jin[nse]
-"I'm fine here. There's alcohol and music after all."[pcms]
+[ns]壬[nse]
+「俺はここでいい。[r]
+　酒も音楽もあるしな」[pcms]
 
 *1585|
 [fc]
-Jin's response was quite straightforward.[pcms]
+壬の回答は実にあっさりしたものだった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1586|
 [fc]
-[ns]Kousuke[nse]
-"That's fine as long as the electricity is on. But if the[r]
-power plant stops, it's all over, right? Water, internet,[r]
-TV..."[pcms]
+[ns]浩助[nse]
+「そんなの、電気が来てるうちはいいけどさ。[r]
+　発電所が止まっちまったら、全部終わりだぜ？[r]
+　水道もネットもテレビも……」[pcms]
 
 *1587|
 [fc]
-[ns]Kousuke[nse]
-"Shouldn't we move before that happens and wait to be[r]
-rescued? If we're in the city, cars can't get to us, right?"[pcms]
+[ns]浩助[nse]
+「そうなる前に移動して、[r]
+　救助されんの待った方がよくねーか？[r]
+　街中にいたら、車も来られねーんだろ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1588|
 [fc]
 [vo_mar s="maru1473"]
-[ns]Margarita[nse]
-"That's true. The difficulty of vehicular movement on the[r]
-ground applies not just to those escaping but also to those[r]
-rescuing."[pcms]
+[ns]マルガリータ[nse]
+「そうだな。地上の車両移動が困難だというのは[r]
+　脱出側だけでなく[r]
+　救助する側についても同じことが言える」[pcms]
 
 *1589|
 [fc]
-[ns]Wataru[nse]
-"So then, maybe a helicopter will come...?"[pcms]
+[ns]航[nse]
+「それじゃ、ヘリが来る……とか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a4"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1590|
 [fc]
 [vo_mar s="maru1474"]
-[ns]Margarita[nse]
-"But... helicopters are limited in number, fuel, and the[r]
-number of people they can carry..."[pcms]
+[ns]マルガリータ[nse]
+「だが……[r]
+　ヘリは数も燃料も運べる人数も限られている……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1591|
 [fc]
 [vo_mar s="maru1475"]
-[ns]Margarita[nse]
-"Even with international assistance, how long they can fly[r]
-in skies filled with flocks of aggressive birds..."[pcms]
+[ns]マルガリータ[nse]
+「海外からの協力があったとしても、[r]
+　凶暴化した鳥の群れがいる空を、[r]
+　いつまで飛んでくれるか……」[pcms]
 
 *1592|
 [fc]
-Kousuke nodded greatly to my senior's concerns.[pcms]
+先輩の懸念に、コースケが大きくうなずいた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1593|
 [fc]
-[ns]Kousuke[nse]
-"Then shouldn't we move closer to the sea or somewhere to[r]
-increase our chances of being rescued sooner?"[pcms]
+[ns]浩助[nse]
+「そんなら、やっぱ少しでも早く助けられるように[r]
+　海とかの近くに移動しようぜ？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1594|
 [fc]
-[ns]Kousuke[nse]
-"The government is on an island, and the escort fleet is at[r]
-sea, right? Then being by the sea would increase our chances[r]
-of being rescued, wouldn't it?"[pcms]
+[ns]浩助[nse]
+「政府があんのも島だし、護衛艦隊も海の上なんだろ？[r]
+　だったら、海沿いにいた方が[r]
+　助けが来るチャンスは多いんじゃねーの？」[pcms]
 
 *1595|
 [fc]
-Despite having clamored to go to LASER earlier, Kousuke now[r]
-seemed desperate to get outside. It wasn't surprising given[r]
-his restless nature...[pcms]
+さっきまではＬＡＳＥＲに来たいと騒いだくせに[r]
+コースケはもう外に出たくて仕方ないみたいだった。[r]
+じっとしていられない性格だから無理もないけれど……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1596|
 [fc]
 [vo_mar s="maru1476"]
-[ns]Margarita[nse]
-"...Wataru? What's your opinion?"[pcms]
+[ns]マルガリータ[nse]
+「……ワタル？　キミの意見は？」[pcms]
 
 *1597|
 [fc]
-I realized that my senior was staring intently at me.[pcms]
+気がつくと、先輩がボクをじっと見つめていた。[pcms]
 
 *1598|
 [fc]
-[ns]Wataru[nse]
-"Um, I think..."[pcms]
+[ns]航[nse]
+「えっと、ボクは……」[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１
+;//●選択肢Ａ－１
 ;//１ー１：立てこもり→ブロック５０２９０へ
-;//１２：移動→ブロック５０３００へ
+;//１－２：移動→ブロック５０３００へ
 
 
 ;	[link storage="50290.ks" target=*50290_TOP]立てこもり[endlink]
-; (link storage="50300.ks" target=*50300_TOP)Move(endlink)[pcms]
+;	[link storage="50300.ks" target=*50300_TOP]移動[endlink][s]
 
 *SEL43|立てこもり／移動
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Barricade'"]
-[eval exp="f.seltext04 = 'Move'"]
+[eval exp="f.seltext02 = '立てこもり'"]
+[eval exp="f.seltext04 = '移動'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

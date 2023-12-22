@@ -12,124 +12,122 @@
 
 *268|
 [fc]
-"Wait, calm down."[pcms]
+待て、落ち着け。[pcms]
 
 *269|
 [fc]
-"Where do you think you're running off to?"[pcms]
+どこに逃げようって言うんだ？[pcms]
 
 *270|
 [fc]
-"Just now, I was thinking about how I can't run away without[r]
-confirming the safety of the three of them."[pcms]
+たった今、三人の無事を確認せずに逃げてどうするって[r]
+思ったばかりだって言うのに。[pcms]
 
 *271|
 [fc]
-"First, we need to check on Yuuho and Ren's safety."[pcms]
+まずは目指すのは悠帆と漣の安否。[pcms]
 
 *272|
 [fc]
-"Yes, that means inside the school."[pcms]
+そう、つまりは、学園の中だ。[pcms]
 
 *273|
 [fc]
-"I decided to abandon my bicycle and climbed off,[r]
-shouldering my bag and clinging to the school fence."[pcms]
+ボクは思い切って自転車を捨てるように降りると、[r]
+荷物を背負って学園のフェンスにしがみついた。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_d"][ChrSetXY layer=5 x=166 y=0][trans_c cross time=150]
 
 *274|
 [fc]
 [vo_mob s="onna_iti0002"]
-[ns]Infected Woman A[nse]
-'Where do you think you're going? Let's have sex~'"[pcms]
+[ns]感染者・女Ａ[nse]
+「どこに行こうって言うの？　あたしとセックスしよ～」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *275|
 [fc]
-[ns]Infected Man A[nse]
-'Wait a minute. I should be the first to do it with a young[r]
-girl, right?'"[pcms]
+[ns]感染者・男Ａ[nse]
+「待てよ。若い娘とやるのは俺のほうが先だぜ？」[pcms]
 
 *276|
 [fc]
-"The large camping gear was in the way, and as I struggled[r]
-to climb the fence, they closed in on me quickly."[pcms]
+キャンプの用意をした大きな荷物が邪魔になって、[r]
+フェンスによじ登るのに手間取ってるうちにヤツラは[r]
+ぐんっとボクに近づいてきた。[pcms]
 
 *277|
 [fc]
-[ns]Wataru[nse]
-'Don't come any closer!!'"[pcms]
+[ns]航[nse]
+「こっち来るなっ！！」[pcms]
 
 *278|
 [fc]
-"Despite my shout, the moment I lifted my right leg over the[r]
-fence, someone grabbed the hem of my left pant leg."[pcms]
+そう叫んだにもかかわらず、右足をフェンスの上に[r]
+あげた瞬間、ズボンの左裾が誰かに掴まれる。[pcms]
 
 *279|
 [fc]
-"At that moment, an inexplicable chill ran through me."[pcms]
+その瞬間、ゾクッと訳もわからない寒気が[r]
+ボクの身の内を走った。[pcms]
 
 *280|
 [fc]
-[ns]Wataru[nse]
-'Let go!!'"[pcms]
+[ns]航[nse]
+「放せっ！！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *281|
 [fc]
-"Without looking back, I stepped on the face of whoever[r]
-grabbed me with my left foot, using the recoil to tumble[r]
-inside the fence."[pcms]
+後ろも振り向かずにそのまま左足で、掴んだ誰かの顔を[r]
+踏みつけて、その反動を利用してボクはフェンスの[r]
+内側へと転がり落ちる。[pcms]
 
 *282|
 [fc]
-"I must have hit something when I fell, but this is no time[r]
-to sit down in pain."[pcms]
+落ちた拍子にどこか打ったようだけれど、痛みに[r]
+座り込んでいる場合なんかなじゃい。[pcms]
 
 *283|
 [fc]
-"Looking back, there were those groaning and clinging to the[r]
-fence."[pcms]
+振り返れば、フェンスにしがみついて[r]
+唸っているヤツラがいる。[pcms]
 
 *284|
 [fc]
-"No, there were also those who, like me, used their comrades[r]
-as a foothold to climb over the fence."[pcms]
+いや、ボクがしたように仲間を足場にしてフェンスを[r]
+よじ登ってくるヤツも。[pcms]
 
 *285|
 [fc]
-"What should I do?"[pcms]
+どうする？[pcms]
 
 *286|
 [fc]
-"What's the best course of action?"[pcms]
+どうしたらいい？[pcms]
 
 *287|
 [fc]
-"The pool where Yuuho is supposed to be practicing is[r]
-towards the left gymnasium."[pcms]
+悠帆が練習にきてるはずのプールは、左の体育館の方。[pcms]
 
 *288|
 [fc]
-"The music room where Ren is supposed to be is in the right[r]
-special classroom building."[pcms]
+漣がいるはずの音楽室は、右の特殊教室棟。[pcms]
 
 *289|
 [fc]
-"If I were to run, the closest would be the regular[r]
-classroom building."[pcms]
+ボクが逃げ込むとしたら、一番近くにある通常教室棟。[pcms]
 
 *290|
 [fc]
-"Where should I go?"[pcms]
+どこに行く？[pcms]
 
 *291|
 [fc]
-"Which direction is the right one?"[pcms]
+どこへ向かえばいい？[pcms]
 
 ;//---------------------------------------------------------------
 ;//●時限式選択肢（５秒）
@@ -145,16 +143,16 @@ classroom building."[pcms]
 ;	[link storage="30000.ks" target=*30000_TOP]特殊教室練へ！[endlink]
 ;	;[link storage="B_07.ks" target=*B_07_TOP]時間切れ[endlink]
 ;	[link storage="B_07.ks" target=*B_07_TOP]どこへ向かえばいい……[endlink]
-";      "[pcms]
+;	[s]
 
 *SEL09|プールの方へ！／通常教室練へ！／特殊教室練へ！／どこへ向かえばいい……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext01 = 'To the pool!'"]
-[eval exp="f.seltext03 = 'To the regular classroom for practice!'"]
-[eval exp="f.seltext05 = 'To the special classroom for training!'"]
-[eval exp="f.seltext07 = 'Where should I head to'"]
+[eval exp="f.seltext01 = 'プールの方へ！'"]
+[eval exp="f.seltext03 = '通常教室練へ！'"]
+[eval exp="f.seltext05 = '特殊教室練へ！'"]
+[eval exp="f.seltext07 = 'どこへ向かえばいい……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

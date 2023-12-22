@@ -17,88 +17,87 @@
 
 *1|
 [fc]
-Let's head to the special classrooms building![pcms]
+特殊教室棟に行こう！[pcms]
 
 *2|
 [fc]
-I quickly made that decision and headed straight for the[r]
-special classrooms building.[pcms]
+ボクは素早くそう判断をすると、一直線に[r]
+特殊教室棟へと向かった。[pcms]
 
 *3|
 [fc]
-To say I'm not worried about Yuuho would be a lie.[pcms]
+悠帆も心配じゃないかと言えば、嘘になる。[pcms]
 
 *4|
 [fc]
-But it seems they can only move at a speed that I can barely[r]
-keep up with.[pcms]
+けれどヤツらはボクがなんとか追いつかれない程度の[r]
+速さでしか移動することができないようだ。[pcms]
 
 *5|
 [fc]
-Yuuho has better reflexes than me, so she can surely manage[r]
-somehow.[pcms]
+悠帆ならボクよりも運動神経が良いから、きっと[r]
+何とかできる。[pcms]
 
 *6|
 [fc]
-But Ren--[pcms]
+でも漣は――[pcms]
 
 *7|
 [fc]
-Ren is not only frail but also bad at physical activities.[pcms]
+漣は病弱なせいもあるけれど、運動が苦手だ。[pcms]
 
 *8|
 [fc]
-To be honest, if she ran at full speed, she might be able to[r]
-escape, but her stamina would definitely not last.[pcms]
+正直言って全速力で走れば逃げることも可能かも[r]
+しれないけれど、持久力がまず持たない。[pcms]
 
 *9|
 [fc]
-It's certain that she would eventually be caught somewhere.[pcms]
+どこかで必ず追いつかれるに決まってる。[pcms]
 
 *10|
 [fc]
-And above all, Ren is my precious "family" -- my one and[r]
-only "sister."[pcms]
+それに漣は何よりも大切な『家族』――[r]
+たった一人のボクの『妹』だ。[pcms]
 
 *11|
 [fc]
-Who else but me, her brother, should go to save her?[pcms]
+兄であるボクが助けに行かなくて誰が助ける？[pcms]
 
 *12|
 [fc]
-If I enter through the emergency exit on the first floor of[r]
-the special classrooms building and rush up the stairs right[r]
-there, the music room will be just ahead.[pcms]
+特殊教室棟１階の非常口から中に入ってすぐにある[r]
+階段で３階まで駆け上がれば、音楽室はすぐそこだ。[pcms]
 
 *13|
 [fc]
-[ns]Wataru[nse]
-"Ren, please be safe!"[pcms]
+[ns]航[nse]
+「漣、無事でいてくれっ！」[pcms]
 
 *14|
 [fc]
-With a prayerful heart, I crossed the field, cut through the[r]
-courtyard, and approached the special classrooms building.[pcms]
+祈る思いでグラウンドを横切り、中庭を突っ切って、[r]
+ボクは特殊教室棟へ近づいた。[pcms]
 
 *15|
 [fc]
-But perhaps they had already gotten inside, as I could see[r]
-students being attacked by infected people here and there.[pcms]
+だが、既に中に入り込んでいたのか、[r]
+あちらこちらで感染者に襲われている学園生の[r]
+姿が見えた。[pcms]
 
 *16|
 [fc]
-Men and women alike, all were uniformly being assaulted.[pcms]
+男も、女も関係なく、一様にみな襲われている。[pcms]
 
 *17|
 [fc]
-While feeling horrified by the sight, I dashed to the[r]
-emergency exit, breaking my personal best for the 100m[r]
-sprint.[pcms]
+その光景にゾッとしながら、ボクは１００ｍの[r]
+自己ベストを叩き出して、非常口にたどり着いた。[pcms]
 
 *18|
 [fc]
-Fortunately, perhaps for ventilation, the door to the[r]
-emergency exit was left wide open.[pcms]
+幸いにも通風のためか、非常口のドアは[r]
+開けっ放しになっていた。[pcms]
 
 ;//〆BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -106,81 +105,82 @@ emergency exit was left wide open.[pcms]
 
 *19|
 [fc]
-I jumped inside and immediately tried to rush up the stairs.[pcms]
+中に飛び込んですぐに、ボクは階段を[r]
+駆け上がろうとした。[pcms]
 
 *20|
 [fc]
-But--[pcms]
+だけど――[pcms]
 
 *21|
 [fc]
 [vo_mob s="jogakuA0001"]
-[ns]Female Student A[nse]
-"Noooooo! So-somebody, somebody help meeee!!"[pcms]
+[ns]女学生Ａ[nse]
+「いやぁああああっ！　だ、誰か、誰か[r]
+　助けてぇえええっ！！」[pcms]
 
 *22|
 [fc]
-[ns]Infected Man A[nse]
-"Damn, that's hot. The skin of a young girl. So firm and[r]
-fresh."[pcms]
+[ns]感染者・男Ａ[nse]
+「たまんねぇなぁ。若い女の肌は。[r]
+　ピチピチしてやがるぜ」[pcms]
 
 *23|
 [fc]
-From above the stairs came a girl's scream along with a[r]
-vulgar man's voice.[pcms]
+階段の上から女の子の悲鳴と一緒に[r]
+下卑た男の声が聞こえた。[pcms]
 
 *24|
 [fc]
-Just by hearing their voices, I couldn't tell for sure, but[r]
-it's probably best to assume they're one of them.[pcms]
+声だけを聞いただけじゃわからないけれど、[r]
+たぶん、ヤツらの仲間だと考えたほうがいいだろう。[pcms]
 
 *25|
 [fc]
-On the first floor of the special classrooms building from[r]
-here are the cooking practice room and workshop, and closest[r]
-to the regular classrooms building is the infirmary.[pcms]
+特殊教室棟の１階はここから調理実習室、[r]
+工作室と並んで、通常教室棟に一番近い場所に[r]
+保健室がある。[pcms]
 
 *26|
 [fc]
-There's another staircase beyond that.[pcms]
+その先にももう一つ階段がある。[pcms]
 
 *27|
 [fc]
-It would be a detour to get to the music room, but I haven't[r]
-seen any signs of infected people on the first floor yet.[pcms]
+音楽室へは遠回りになるけれども、１階には[r]
+まだ感染者らしい姿は見えなかった。[pcms]
 
 *28|
 [fc]
-What should I do?[pcms]
+どうする？[pcms]
 
 *29|
 [fc]
-Should I go straight up now, or take a detour and play it[r]
-safe...?[pcms]
+このまままっすぐ上に向かうか、[r]
+それとも遠回りでも安全策を取るか……？[pcms]
 
 [eval exp="f.l_ren_point = f.l_ren_point + 1"]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ｃ１
+;//●時限式選択肢Ｃ－１
 ;//　１ー１：最短距離で階段を上がる！;//→block:30010
-;//　１２：急がば回れ！奥の方の階段へ！;//→block:30020
-;//　１３：時間切れ;//→block:30030
+;//　１－２：急がば回れ！奥の方の階段へ！;//→block:30020
+;//　１－３：時間切れ;//→block:30030
 ;
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="30010.ks" target=*30010_TOP]最短距離で階段を上がる！[endlink]
 ;	[link storage="30020.ks" target=*30020_TOP]急がば回れ！　奥の方の階段へ！[endlink]
 ;	;[link storage="30030.ks" target=*30030_TOP]時間切れ[endlink]
-;       (link storage="30030.ks" target=*30030_TOP)Which[r]
-way...(endlink)[pcms]
+;	[link storage="30030.ks" target=*30030_TOP]どっちだ……[endlink][s]
 
 *SEL17|最短距離で階段を上がる！／急がば回れ！　奥の方の階段へ！／どっちだ……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Take the stairs in the shortest distance!'"]
-[eval exp="f.seltext04 = 'Haste makes waste! To the stairs in the back!'"]
-[eval exp="f.seltext06 = 'Which one'"]
+[eval exp="f.seltext02 = '最短距離で階段を上がる！'"]
+[eval exp="f.seltext04 = '急がば回れ！　奥の方の階段へ！'"]
+[eval exp="f.seltext06 = 'どっちだ……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

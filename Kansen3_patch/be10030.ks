@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10030_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 ;//♂：背景リストに「ででっぽう」関連のものがありませんが、
 ;//シナリオの都合上、多数登場する場所ですので、あると仮定して貼っておきます。
@@ -22,121 +22,125 @@
 *169|
 [fc]
 [vo_mar s="maru_BE0001"]
-[ns]Margarita[nse]
-"Wataru, can't you get through on your cell phone?"[pcms]
+[ns]マルガリータ[nse]
+「ワタル、携帯は通じないのか？」[pcms]
 
 *170|
 [fc]
-Marie, who had been watching me, looked at me with a serious[r]
-expression.[pcms]
+ボクの様子を見ていたマリーが、深刻な表情で見つめてくる。[pcms]
 
 *171|
 [fc]
-[ns]Wataru[nse]
-"Yeah, it's no good. I don't know what's going on inside[r]
-LASER, but it's definitely not normal."[pcms]
+[ns]航[nse]
+「うん、駄目みたい。ＬＡＳＥＲの中が[r]
+　どうなっているのかはわからないけれど、[r]
+　普通じゃないのは確かだ」[pcms]
 
 *172|
 [fc]
-The call tone keeps ringing, which means either they don't[r]
-have their cell phones or they can't answer them.[pcms]
+コール音が鳴り続けているのにでないってことは、[r]
+携帯電話を持っていないか、持っていてもでられない[r]
+状況だっていうことだ。[pcms]
 
 *173|
 [fc]
-Maybe they're holding their breath and hiding to avoid the[r]
-men...[pcms]
+もしかしたら、男たちをやり過ごすために[r]
+息を殺して隠れているのかも知れない……。[pcms]
 
 *174|
 [fc]
-I should stop ringing their cell phones.[pcms]
+携帯を鳴らすのはやめておこう。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *175|
 [fc]
 [vo_mar s="maru_BE0002"]
-[ns]Margarita[nse]
-"The others must have noticed the men too. Whether we fight[r]
-or flee, they'll need our help. Let's go back to help them[r]
-right away."[pcms]
+[ns]マルガリータ[nse]
+「皆も男たちのことに気が付いたんだろう。[r]
+　戦うにしても逃げるにしてもワタシたちの力は必要なはずだ。[r]
+　すぐに助けに戻ろう」[pcms]
 
 *176|
 [fc]
-Marie reached for her weapon with a confident look.[pcms]
+マリーは自信に満ちあふれた様子で、[r]
+自分の武器に手を伸ばした。[pcms]
 
 *177|
 [fc]
-The men are armed with guns.[pcms]
+男たちは銃で武装している。[pcms]
 
 *178|
 [fc]
-We'll have to fight back with these.[pcms]
+ボクたちもこれで応戦しなくちゃいけないだろう。[pcms]
 
 *179|
 [fc]
-While checking my Bob Chau Special at hand, I tried to rid[r]
-myself of any hesitation.[pcms]
+手元のボブ・チャウ・スペシャルを確認しながら、[r]
+ボクは迷いを捨てようと努力した。[pcms]
 
 *180|
 [fc]
-I might have to shoot living people.[pcms]
+生きている人を撃たなくちゃいけないかも知れない。[pcms]
 
 *181|
 [fc]
-Even if they are just punks.[pcms]
+相手がどんなチンピラだとしてもだ。[pcms]
 
 *182|
 [fc]
-[ns]Wataru[nse]
-"At times like this, having Marie by my side really gives me[r]
-strength."[pcms]
+[ns]航[nse]
+「こんなとき、マリーが近くにいてくれて[r]
+　本当に心強いよ」[pcms]
 
 *183|
 [fc]
-I was honestly expressing the words I truly felt from the[r]
-bottom of my heart.[pcms]
+ボクは心の底から思っている言葉を、[r]
+素直に口にしていた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *184|
 [fc]
-Marie blushed slightly and then turned away with a huff.[pcms]
+マリーはちょっと頬を赤く染めると、[r]
+ぷいっと横を向いてしまう。[pcms]
 
 *185|
 [fc]
 [vo_mar s="maru_BE0003"]
-[ns]Margarita[nse]
-"Flattering me won't help you now, Wataru. Besides..."[pcms]
+[ns]マルガリータ[nse]
+「わ、ワタシをおだてていても仕方ないだろう。[r]
+　それに……」[pcms]
 
 *186|
 [fc]
-[ns]Wataru[nse]
-"Besides?"[pcms]
+[ns]航[nse]
+「それに？」[pcms]
 
 *187|
 [fc]
 [vo_mar s="maru_BE0004"]
-[ns]Margarita[nse]
+[ns]マルガリータ[nse]
 「ワタシだって……いや、なんでもない。[r][ChrSetEx layer=5 chbase="maru_a15"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
-"Get a grip, Margarita!"[pcms]
+　しっかりしろ、ワタシ！」[pcms]
 
 *188|
 [fc]
-Marie slapped her cheeks to psych herself up and then[r]
-reached out her hand to me.[pcms]
+マリーは気合いを入れるように自分の頬を叩くと、[r]
+ボクにその手を伸ばしてきた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *189|
 [fc]
 [vo_mar s="maru_BE0005"]
-[ns]Margarita[nse]
-"Come on, let's go! Wataru!"[pcms]
+[ns]マルガリータ[nse]
+「さあ、行くぞ！　ワタル！」[pcms]
 
 *190|
 [fc]
-[ns]Wataru[nse]
-"Alright, let's go save everyone."[pcms]
+[ns]航[nse]
+「よし、みんなを助けよう」[pcms]
 
 ;//いの/ここで一旦暗転しておく
 

@@ -17,36 +17,37 @@
 *4619|
 [fc]
 [vo_yuh s="yuho0490"]
-[ns]Yuuho[nse]
-"Wataru!"[pcms]
+[ns]悠帆[nse]
+「航っ！」[pcms]
 
 *4620|
 [fc]
-[ns]Wataru[nse]
-"I've come to help, Yuuho!"[pcms]
+[ns]航[nse]
+「助けに来たよ、悠帆！」[pcms]
 
 *4621|
 [fc]
-With a smile, I leaned out of the window and reached out my[r]
-hand to Yuuho.[pcms]
+にっこりと笑ってボクは窓から身を乗り出して、[r]
+悠帆に手を差し伸べた。[pcms]
 
 *4622|
 [fc]
-[ns]Wataru[nse]
-"It's okay now. Don't worry. I'm here for you."[pcms]
+[ns]航[nse]
+「もう大丈夫だから。安心して。[r]
+　ボクがここにいるから」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4623|
 [fc]
 [vo_yuh s="yuho0491"]
-[ns]Yuuho[nse]
-"Wataru, Wataru, thank..."[pcms]
+[ns]悠帆[nse]
+「航、航、ありが……」[pcms]
 
 *4624|
 [fc]
-Just as Yuuho's fingers were about to touch the hand I[r]
-extended, her face twisted greatly.[pcms]
+ボクが差し伸べた手に悠帆の指が触れようとした[r]
+その瞬間、悠帆の顔が大きく歪む。[pcms]
 
 ;//赤フラ１発
 [赤フラ]
@@ -55,92 +56,92 @@ extended, her face twisted greatly.[pcms]
 
 *4625|
 [fc]
-No, it was the world itself that distorted along with my[r]
-field of vision.[pcms]
+いや、ボクの視界ごと大きく世界が歪んだ。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *4626|
 [fc]
-[ns]Wataru[nse]
-"Ughhh..."[pcms]
+[ns]航[nse]
+「うっぐぅうっ」[pcms]
 
 *4627|
 [fc]
-Enduring the impact from the side, I managed to stay on my[r]
-feet and tried to identify what hit me.[pcms]
+横から来た衝撃に耐えて、ボクはその衝撃の正体を[r]
+確かめようとその場になんとか踏みとどまった。[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4628|
 [fc]
-The perpetrator was the infected person I had knocked down[r]
-earlier.[pcms]
+犯人は、さっき転倒させた感染者だった。[pcms]
 
 *4629|
 [fc]
-I tried to muster strength in my legs to take down the[r]
-assailant once more.[pcms]
+ボクはもう一度ヤツを倒そうと、[r]
+足に力を入れようとした。[pcms]
 
 *4630|
 [fc]
-But my body, unaccustomed to being hit, wouldn't listen to[r]
-me at all.[pcms]
+でも、普段殴られることに慣れていなかったボクの体は[r]
+全く言う事を聞かない。[pcms]
 
 *4631|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaaaaah!"[pcms]
+[ns]航[nse]
+「ウワァアアアアアアッ！」[pcms]
 
 *4632|
 [fc]
-The infected person's reaching hand tightened around my arm,[r]
-and I let out a pathetic scream.[pcms]
+その感染者から伸びる手によって、ボクの腕はギリギリと[r]
+締め上げられた事で、情けない悲鳴をあげた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4633|
 [fc]
 [vo_yuh s="yuho0492"]
-[ns]Yuuho[nse]
-"Wataru! Run... hurry!"[pcms]
+[ns]悠帆[nse]
+「航っ！　逃げて……早く」[pcms]
 
 *4634|
 [fc]
-Spurred by Yuuho's voice, I turned towards her. She was[r]
-looking at me with a face about to cry.[pcms]
+悠帆の声にはじかれるように、ボクは[r]
+悠帆のほうを振り向いた。[r]
+泣きそうな顔でボクを見ている。[pcms]
 
 *4635|
 [fc]
-What's this... Such a crying face doesn't suit Yuuho at[r]
-all...[pcms]
+なんだよ……悠帆にはそんな泣き顔なんて[r]
+似合わないのに……。[pcms]
 
 *4636|
 [fc]
-The man's grip tightened mercilessly, and my vision began to[r]
-redden with suffocation.[pcms]
+ギリギリと男の腕が締め上げてきて、[r]
+ボクの視界は息苦しさに赤く染まり始める。[pcms]
 
 *4637|
 [fc]
-Could it be, is this the end?[pcms]
+もしかして、もう終わりなのかな？[pcms]
 
 *4638|
 [fc]
-Without being able to save Yuuho? Right in front of her?[pcms]
+悠帆を助けられずに？[r]
+悠帆を目の前にして？[pcms]
 
 *4639|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry... ughhh..."[pcms]
+[ns]航[nse]
+「ごめ……うっぐぅうっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *4640|
 [fc]
 [vo_yuh s="yuho0493"]
-[ns]Yuuho[nse]
-"Wataru, Wataru, Wataruuuuuuuu!"[pcms]
+[ns]悠帆[nse]
+「航、航、わたるぅうううううううっ！！」[pcms]
 
 [赤フラ]
 
@@ -148,11 +149,11 @@ Without being able to save Yuuho? Right in front of her?[pcms]
 
 *4641|
 [fc]
-The crying voice of Yuuho and the warmth on my neck were the[r]
-last things I felt before my consciousness was swallowed by[r]
-darkness.[pcms]
+泣き叫ぶ悠帆の声と、首筋に熱いものを感じたのが、[r]
+ボクの意識が暗闇に飲み込まれる前に[r]
+感じた最期のことだった。[pcms]
 
 ;//ゲームオーバー
 [gameover time=0 movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

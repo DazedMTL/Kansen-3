@@ -9,7 +9,7 @@
 ;//登場人物:主人公・浩助・マルガリータ・漣・悠帆
 ;//　　　　重吉・朋美・手下・感染者
 ;//時間帯：
-;//・時間：６日目（８月２０日）朝
+;//・時間：６日目（８月２０日）朝～
 ;//テキスト分量：10k
 ;//※このブロックは選択肢が連続します。別ライターが作業します。
 ;//
@@ -30,7 +30,7 @@
 ;[winset][scene_exp_init]
 
 ;	[link target=*scene_selend exp="f.l_route2_y = 1"]悠帆ルート[endlink]
-; (link target=*scene_selend)Other than that(endlink)[pcms]
+;	[link target=*scene_selend]それ以外[endlink][s]
 
 	[call storage="_scene_sel.ks" target=*scene_sel_yuho]
 
@@ -59,91 +59,89 @@
 
 *1167|
 [fc]
-Even on that spacious floor, there were already several[r]
-infected people wandering around.[pcms]
+その広いフロアにも、すでに何人もの感染者がうろついていた。[pcms]
 
 *1168|
 [fc]
-But I can't hesitate. I have to hurry or I won't be able to[r]
-save Yuuho.[pcms]
+でも、躊躇していられない。[r]
+早くしなければ悠帆を助けられない。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_e10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1169|
 [fc]
 [vo_mar s="maru_TE0284"]
-[ns]Margarita[nse]
-"Ayase! You go, hurry and save Yuuho!"[pcms]
+[ns]マルガリータ[nse]
+「アヤセっ！　お前が行け、早くユウホをっ！」[pcms]
 
 *1170|
 [fc]
-Gunshots can be heard from behind me. The voices of the[r]
-infected, too. The voices of his subordinates who are being[r]
-attacked by the infected and fighting back in a frenzy. The[r]
-voices of everyone who is fighting back.[pcms]
+ボクの後ろから銃声が聞こえてくる。感染者の声も。[r]
+感染者に襲われ半狂乱になって反撃しているアイツの[r]
+手下どもの声も。応戦しているみんなの声も。[pcms]
 
 *1171|
 [fc]
 [vo_mar s="maru_TE0285"]
-[ns]Margarita[nse]
-"Hurry up and go! We'll secure the retreat route. Ayase,[r]
-save Yuuho!"[pcms]
+[ns]マルガリータ[nse]
+「早くっ行けっ！　ワタシたちで退路を確保する。[r]
+　アヤセっ、ユウホを助けろっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1172|
 [fc]
-[ns]Kousuke[nse]
-"Go, Wataru. You're the closest, hurry up!"[pcms]
+[ns]浩助[nse]
+「行けっ、ワタルっ。お前が一番近いんだ、早くっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1173|
 [fc]
 [vo_ren s="ren_TE0131"]
-[ns]Ren[nse]
-"Big brother, hurry and go save Yuuho-chan, save Yuuho-chan"[pcms]
+[ns]漣[nse]
+「お兄ちゃん、早く行って、悠帆ちゃんを、悠帆ちゃんを」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1174|
 [fc]
 [vo_miz s="mizuki_TE0048"]
-[ns]Mizuki[nse]
-"Wataru, go! Save Yuuho! On behalf of me, for Jin's[r]
-revenge!"[pcms]
+[ns]瑞樹[nse]
+「ワタル、行って！　ユウホをっ！あたしの代わりに、[r]
+　ジンの仇をっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="sesuka_c11"][ChrSetXY layer=5 x=133 y=0][trans_c cross time=150]
 
 *1175|
 [fc]
 [vo_mob s="sesuka_TE0038"]
-[ns]Sesuka[nse]
-"We'll hold off the infected from below here. Please go[r]
-quickly."[pcms]
+[ns]セスカ[nse]
+「ここで下からの感染者は食い止めます。[r]
+　早く行ってください」[pcms]
 
 *1176|
 [fc]
-I took everyone's voices to heart and started running with[r]
-determination.[pcms]
+ボクはみんなの声を受け、意を決して走り出した。[pcms]
 
 *1177|
 [fc]
-[ns]Wataru[nse]
-"I'm counting on you all! Get out of the wayyyyy--!!"[pcms]
+[ns]航[nse]
+「あとをお願いしますっ！　どっけえええええーーっ！！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1177a|
 [fc]
-I screamed as I ran at full speed, making sure not to hit[r]
-any wandering infected. Weaving through their sluggish[r]
-movements.[pcms]
+ボクは叫びながら、全速力で駆け抜けた。[r]
+うろついている感染者には当たらないように。[r]
+のろのろとしたその動きのあいだを縫って。[pcms]
 
 *1178|
 [fc]
-I could hear Yuuho's screams through the door. I body-[r]
-slammed the door and leaped into the room.[pcms]
+扉越しに悠帆の叫び声が聞こえてきた。[r]
+ボクは、体当たりを扉に食らわして、部屋の中に[r]
+飛び込んだ。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -158,74 +156,75 @@ slammed the door and leaped into the room.[pcms]
 *1179|
 [fc]
 [vo_yuh s="yuho_TE0106"]
-[ns]Yuuho[nse]
-"Stop it! Let me go, let me go!"[pcms]
+[ns]悠帆[nse]
+「やめろーっ！　放せ、放せーっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1180|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahaha, Yuuho-chan is so spirited. I like it. It turns me[r]
-on!"[pcms]
+[ns]重吉[nse]
+「げはははっ、悠帆ちゃんは威勢がいいなあ。[r]
+　いいぜぇ。俺様、萌えるぜええぇ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1181|
 [fc]
 [vo_yuh s="yuho_TE0107"]
-[ns]Yuuho[nse]
-"Don't call me Yuuho-chan. You're gross, you fatso! Let go[r]
-of me!"[pcms]
+[ns]悠帆[nse]
+「悠帆チャンなんて、呼ぶなっ。[r]
+　キモいんだよ、このデブっ！　手を放せっ」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1182|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehahaha gehaha. That's good. Scream more. Soon, you'll be[r]
-moaning with my dick. Gehahaha gehahahaha!"[pcms]
+[ns]重吉[nse]
+「げはははっげははっ。いいぞぉ。もっと叫べぇ。[r]
+　そのうち、俺様のイチモツでよがり声に変えて[r]
+　やっからよぉ。げははっげはははははっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1183|
 [fc]
-Shigeyoshi was on top of Yuuho, pinning her down, about to[r]
-attack her at any moment.[pcms]
+重吉は、悠帆にのしかかり押さえつけ、[r]
+今まさに襲おうとしていた。[pcms]
 
 *1184|
 [fc]
-His eyes weren't red, but if I shot from where I was, there[r]
-was a chance I could hit Yuuho. Considering my shooting[r]
-skills, it's better not to use the gun.[pcms]
+その目は赤くない。でも、ボクの位置から撃ったら[r]
+悠帆にあたる可能性もある。なにせボクの腕前だ。[r]
+銃は使わない方がいい。[pcms]
 
 *1185|
 [fc]
-In a matter of seconds, I made that decision and lunged at[r]
-Shigeyoshi to pull him off.[pcms]
+数秒でそう判断したボクは、重吉を引きはがそうと[r]
+飛びかかった。[pcms]
 
 *1186|
 [fc]
-[ns]Wataru[nse]
-"Stop it! Let Yuuho go!!"[pcms]
+[ns]航[nse]
+「やめろおっ！　悠帆を放せっ！！」[pcms]
 
 *1187|
 [fc]
-I pounced from behind. Clinging onto Shigeyoshi's massive[r]
-body, I put all my strength into pulling him away.[pcms]
+背後から飛びかかる。巨体の重吉に飛び乗るように[r]
+くらいつき、ありったけの力を込めて引き離しにかかった。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1188|
 [fc]
-[ns]Shigeyoshi[nse]
-"Aah?! What the?! It's you. Shut up."[pcms]
+[ns]重吉[nse]
+「ああっ？！　なんだあ？！　お前ぇか。うっせーなぁ」[pcms]
 
 *1189|
 [fc]
-[ns]Wataru[nse]
-"Ugh!"[pcms]
+[ns]航[nse]
+「うあっ！」[pcms]
 
 ;//レッドフラッシュ
 [赤フラ]
@@ -234,31 +233,30 @@ body, I put all my strength into pulling him away.[pcms]
 
 *1190|
 [fc]
-I was hit in the stomach with an elbow strike from[r]
-Shigeyoshi and was thrown off, tumbling hard onto the floor[r]
-from my waist.[pcms]
+ボクは重吉から腹にひじうちをくらい跳ね飛ばされ[r]
+腰から思いっ切り床に転げ落ちた。[pcms]
 
 ;//se004・人が倒れる
 [se buf=0 storage="se004"]
 
 *1191|
 [fc]
-In the process, I hit my head near where I had been punched[r]
-in the underground passage again. My vision swirled. A[r]
-throbbing pain gripped my head.[pcms]
+その拍子に、ボクは地下道で殴られた頭の近くを[r]
+また強打してしまった。視界がぐらぐらする。[r]
+ずきずきとした痛みがボクの頭を締めつけた。[pcms]
 
 *1192|
 [fc]
-[ns]Wataru[nse]
-"Ugh...uhhh..."[pcms]
+[ns]航[nse]
+「うっ……ううっ……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1193|
 [fc]
 [vo_yuh s="yuho_TE0108"]
-[ns]Yuuho[nse]
-"Wataru! Wataru!"[pcms]
+[ns]悠帆[nse]
+「航っ！　航ーっ！」[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
@@ -269,68 +267,66 @@ throbbing pain gripped my head.[pcms]
 
 *1194|
 [fc]
-[ns]Wataru[nse]
-"Ugh!"[pcms]
+[ns]航[nse]
+「うがっ！」[pcms]
 
 *1195|
 [fc]
-A kick buried itself in my stomach. It felt like Shigeyoshi[r]
-had put all his weight into that heavy kick. A dull pain[r]
-settled in my belly.[pcms]
+腹に蹴りがめり込んできた。重吉の体重を[r]
+全部込めたような重い蹴り。鈍い痛みがボクの腹に居座っている。[pcms]
 
 *1196|
 [fc]
-[ns]Shigeyoshi[nse]
-"Geh heh. Just when I was about to enjoy myself with Yuuho-[r]
-chan. Don't interfere. You're such a nuisance. I'll put you[r]
-out of your misery quickly."[pcms]
+[ns]重吉[nse]
+「げへへっ。これから悠帆ちゃんと[r]
+　お楽しみだってえのによぉ。邪魔すんじゃねえよ。[r]
+　面倒くせぇ。とっとと楽にしてやるよ」[pcms]
 
 *1197|
 [fc]
-Shigeyoshi had somehow managed to grip a gun in his left[r]
-hand. The gun wobbled as he raised it up. The barrel was[r]
-pointed at me but wasn't steady.[pcms]
+重吉は、いつのまにか銃を左手に握っていた。[r]
+その銃がふらふらと上に上げられる。銃口はボクに[r]
+向けられているけれど、定まっていない。[pcms]
 
 *1198|
 [fc]
-His eyes were muddy but showed a glimpse of desire deep[r]
-within. His massive body swayed slowly and unsteadily. This[r]
-guy, he's on something. He must be high on drugs or[r]
-something.[pcms]
+どろんとした、でも欲望が奥に見え隠れする目。ゆっくり[r]
+ぐらぐらと揺れている巨体。こいつ、何かやってる。[r]
+クスリかなんかを、やっているに違いなかった。[pcms]
 
 *1199|
 [fc]
-[ns]Shigeyoshi[nse]
-"Geh heh, don't move. I'll finish you in one shot.[r]
-Gehahahahaha! ...Aah?!"[pcms]
+[ns]重吉[nse]
+「げへへっ、動くなぁよぉ。一発で決めてやっからなぁ。[r]
+　げはははははっ！　…………ああっ？！」[pcms]
 
 *1200|
 [fc]
-As Shigeyoshi wobbled the gun in his hand, he seemed to[r]
-notice something and turned the gun to the left. I followed[r]
-Shigeyoshi's movement and looked to his side.[pcms]
+重吉は、握った銃をふらふらと揺らしながら、[r]
+何かに気が付いたようにその銃を左に向けた。[r]
+ボクも重吉の動きに釣られ、重吉の横を見た。[pcms]
 
 [ChrSetEx layer=5 chbase="tomomi_a4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1201|
 [fc]
 [vo_mob s="tomomi_TE0005"]
-[ns]Tomomi[nse]
-"...It's wrong to bully someone important, someone you're[r]
-protecting."[pcms]
+[ns]朋美[nse]
+「……大切なひと、守ってるひと、[r]
+　いじめたら……ダメなんだよぉ」[pcms]
 
 *1202|
 [fc]
-It was that girl. She had indeed slipped into this place. As[r]
-she said that, she grabbed Shigeyoshi's gun-wielding left[r]
-hand and forcefully twisted it.[pcms]
+あの子だ。やっぱりこの中に入り込んでいたんだ。[r]
+彼女はそう言うと、銃を持った重吉の左手を掴み[r]
+そのまま力まかせに締めあげている。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1203|
 [fc]
-[ns]Shigeyoshi[nse]
-"Ugh, it hurts, damn you, let go. If you don't let go"[pcms]
+[ns]重吉[nse]
+「うがっ、痛でえぇ、テメェ、放せ。放さねぇと！」[pcms]
 
 ;//se026・銃声１発
 [se buf=0 storage="se026"]
@@ -347,16 +343,18 @@ hand and forcefully twisted it.[pcms]
 
 *1204|
 [fc]
-Shigeyoshi fired several shots at her while she was holding[r]
-his hand. She fell backward without a sound.[pcms]
+重吉は、彼女に掴まれたその手のままに、銃弾を[r]
+彼女目がけて数発撃ち込んでいた。[r]
+彼女は、声もなく、どおっと後ろ向きに倒れ込んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1205|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gehaha, geha, gehahahaha! Serves you right, you creepy[r]
-freak! I took care of you! Gehahaha, geha...gugyaaaah!"[pcms]
+[ns]重吉[nse]
+「げははっ、げはっ、げははははっ。ざまぁみろ、[r]
+　この気持ち悪い化け物がっ！　俺様が退治してやったぞっ！[r]
+　げはははっ、げははっ……ぐぎゃああっ！」[pcms]
 
 [se buf=0 storage="se009"]
 
@@ -365,80 +363,77 @@ freak! I took care of you! Gehahaha, geha...gugyaaaah!"[pcms]
 
 *1206|
 [fc]
-A heavy and strong sound echoed from the back of[r]
-Shigeyoshi's head. Thud, Shigeyoshi fell forward with all[r]
-his weight.[pcms]
+ゴグンという重く強い音が、重吉の後頭部で発せられた。[r]
+どむっと、重吉は自分の体重の重さ全部で前に倒れた。[pcms]
 
 *1207|
 [fc]
-Behind the fallen Shigeyoshi stood Yuuho, holding a large[r]
-vase and panting heavily.[pcms]
+倒れた重吉の後ろには、悠帆が大きな花瓶を手に持って[r]
+肩を息で荒げながら、立っていた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1208|
 [fc]
 [vo_yuh s="yuho_TE0109"]
-[ns]Yuuho[nse]
-"Haha. Ahaha. Serves you right. Who would let someone like[r]
-you attack them!"[pcms]
+[ns]悠帆[nse]
+「ははっ。あははっ。そっちこそざまぁみろ。[r]
+　誰がお前なんかに、襲われてやるもんかっ！」[pcms]
 
 *1209|
 [fc]
-Tossing aside the vase, Yuuho immediately looked worried and[r]
-rushed over to me.[pcms]
+花瓶を投げ捨てると、悠帆は途端に心配そうな[r]
+顔つきになってボクのそばに駆け寄ってきた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1210|
 [fc]
 [vo_yuh s="yuho_TE0110"]
-[ns]Yuuho[nse]
-"Wataru. Wataru?! Are you okay? Hey, are you okay?"[pcms]
+[ns]悠帆[nse]
+「航っ。航っ？！　大丈夫？　ねえ、大丈夫？」[pcms]
 
 *1211|
 [fc]
-[ns]Wataru[nse]
-"Yeah, Yuuho. I'm okay. Just a bit of pain in my head from[r]
-the hit and my belly from the kick. Thanks, Yuuho. I came to[r]
-rescue you but ended up being saved by you."[pcms]
+[ns]航[nse]
+「うん、悠帆。大丈夫だよ。ちょっと打ちつけた頭と[r]
+　蹴り食らった腹が痛いけど。ありがとう、悠帆。[r]
+　助けに来たのに、悠帆に助けられたね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1212|
 [fc]
 [vo_yuh s="yuho_TE0111"]
-[ns]Yuuho[nse]
-"That's not true. I'm so glad you came, Wataru. I[r]
-thought...I thought it was over for me...uhuhuh...uhh."[pcms]
+[ns]悠帆[nse]
+「そんなことないよ。来てくれて嬉しいよ、航。[r]
+　わたし、もう駄目かと……駄目かと……思ってたっ。[r]
+　うっううっ……うっ」[pcms]
 
 *1213|
 [fc]
-The tension must have broken her. Yuuho's face crumpled as[r]
-she began to shed tears profusely.[pcms]
+緊張の糸が切れたんだろう。悠帆は顔をくしゃくしゃにして[r]
+涙をぼろぼろとこぼした。[pcms]
 
 *1214|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, save your tears for later. Let's get out of here[r]
-quickly. Everyone is waiting for us. They're fighting to[r]
-secure the staircase while waiting for Yuuho and me to[r]
-return."[pcms]
+[ns]航[nse]
+「悠帆、泣くのはあとにして。早くここを出よう。[r]
+　みんなが待ってる。階段を確保するために、戦いながら[r]
+　悠帆とボクの帰りをまってるんだ」[pcms]
 
 *1215|
 [fc]
 [vo_yuh s="yuho_TE0112"]
-[ns]Yuuho[nse]
-"Ugh, guh, yeah. Sniffle. Got it. Let's get out of here[r]
-fast... I also want to get out of this place as soon as[r]
-possible...sniffle."[pcms]
+[ns]悠帆[nse]
+「うっ、ぐっ、うんっ。ぐすっ。わかった。早く出よっ……。[r]
+　わたしもっ、こんなとこ、早く出た……いっ。ぐすっ」[pcms]
 
 *1216|
 [fc]
-Though it's embarrassing to be helped after coming to rescue[r]
-her, I borrowed Yuuho's shoulder to stand up. Bearing the[r]
-pain, I leaned on Yuuho's shoulder and tried to leave the[r]
-room.[pcms]
+助けに来たのに情けないけれど、ボクは悠帆の肩を借りて[r]
+立ち上がった。早く立ち去りたいと、痛みをこらえて[r]
+悠帆の肩を借りたまま、部屋を出ようとしていた。[pcms]
 
 ;//se026・銃声１発
 [se buf=0 storage="se026"]
@@ -459,52 +454,49 @@ room.[pcms]
 
 *1217|
 [fc]
-[ns]Wataru[nse]
-"Uwaaaah!!"[pcms]
+[ns]航[nse]
+「うっわああっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1218|
 [fc]
 [vo_yuh s="yuho_TE0113"]
-[ns]Yuuho[nse]
-"Wataru? Wataru! Kyaaah!"[pcms]
+[ns]悠帆[nse]
+「航？　航っ！　きゃああっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1219|
 [fc]
-I fell to the ground along with Yuuho. My side and leg were[r]
-burning. The throbbing was more intense than the pain, and I[r]
-felt the heat strongly.[pcms]
+ボクは悠帆ごと、その場に倒れ込んでしまった。[r]
+脇腹と足が熱い。どくんどくんと脈打って、痛みよりも[r]
+熱さを強く感じていた。[pcms]
 
 *1220|
 [fc]
-I was shot from behind. By whom? As we fell tangled up, I[r]
-ended up facing the room with my feet and lying on my back.[r]
-From the lower part of my field of vision, a large shadow[r]
-slowly rose.[pcms]
+背後から撃たれた。誰に？　もつれて倒れ込んだ拍子に[r]
+ボクは部屋の中に向かって足を向け背を下にして倒れていた。[r]
+ボクの視界の下の方から、ゆらりとでかい影が立ち上がる。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_d4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1221|
 [fc]
-It was Shigeyoshi. He was holding a gun in his left hand.[r]
-His steps were unsteady, but he was definitely coming[r]
-towards us.[pcms]
+重吉だ。左手には拳銃を持っている。ふらふらとした[r]
+足取りだけど、確実にボク達に向かってきていた。[pcms]
 
 *1222|
 [fc]
-[ns]Wataru[nse]
-"Damn it, to come this far!"[pcms]
+[ns]航[nse]
+「くそっ、此処まで来てっ！」[pcms]
 
 *1223|
 [fc]
-Despite feeling the blood flowing from my side and leg, I[r]
-propped up my upper body, gripped the gun with both hands,[r]
-aimed, and fired at Shigeyoshi. All rounds, every single[r]
-one.[pcms]
+ボクは脇腹と足から流れ出る血を感じながらも[r]
+上半身を起こし、拳銃を両手で握って構え、重吉に[r]
+向かって撃ち込んだ。全弾、すべてを。[pcms][chara_int][trans_c cross time=150]
 
 ;//se026・銃声１発
 [se buf=0 storage="se026"]
@@ -524,21 +516,21 @@ one.[pcms]
 
 *1224|
 [fc]
-The pain made it hard to aim properly. But the bullets I[r]
-fired all hit Shigeyoshi's bodyhis shoulder and side.[pcms]
+痛みから狙いがしっかり定まらない。でも、撃った銃弾は、[r]
+全発重吉の身体に命中している。肩や脇腹。[pcms]
 
 *1225|
 [fc]
-They weren't fatal wounds, but all the bullets I fired hit[r]
-Shigeyoshi's body.[pcms]
+致命傷ではないけれど、ボクが撃った弾は全部重吉の[r]
+身体に当たっていた。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_a2"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1226|
 [fc]
-[ns]Shigeyoshi[nse]
-"...Ouch, damn it. Prepare yourself. You little shit... This[r]
-is how you shoot a gun!"[pcms]
+[ns]重吉[nse]
+「……痛ってえなあ。覚悟しやがれ。このクソガキが……[r]
+　銃ってのはなぁ、こうやって撃つんだよ！」[pcms]
 
 ;//se026・銃声１発
 [se buf=0 storage="se026"]
@@ -548,45 +540,43 @@ is how you shoot a gun!"[pcms]
 
 *1227|
 [fc]
-[ns]Wataru[nse]
-"Ughaaaaaah!!"[pcms]
+[ns]航[nse]
+「うっあああああっ！！」[pcms]
 
 *1228|
 [fc]
-The single bullet Shigeyoshi fired hit me squarely. Between[r]
-the shoulder and chest. Overwhelmed by the heat and numbing[r]
-pain, I nearly lost consciousness. After coming this far.[r]
-Even though Yuuho is right in front of me.[pcms]
+重吉が撃った一発の弾は、ボクにしっかり命中した。[r]
+肩と胸のあいだ。熱さと痺れるような痛みに、ボクは気を[r]
+失いかけた。此処まで来たのに。悠帆が目の前にいるのに。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1229|
 [fc]
 [vo_yuh s="yuho_TE0114"]
-[ns]Yuuho[nse]
-"Ughaaaaaaaah---!!"[pcms]
+[ns]悠帆[nse]
+「うっああああああああっーーーっ！！」[pcms]
 
 *1230|
 [fc]
-Yuuho's scream brought back my fading consciousness. She[r]
-screamed and lunged at Shigeyoshi.[pcms]
+悠帆の叫び声で、失いかけたボクの意識は、引き戻された。[r]
+悠帆は叫び声を上げながら、重吉に飛びかかっていった。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_a1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1231|
 [fc]
-[ns]Shigeyoshi[nse]
-"Whoa!!"[pcms]
+[ns]重吉[nse]
+「うおっ！！」[pcms]
 
 ;//se077・弾切れの音
 [se buf=0 storage="se077"]
 
 *1232|
 [fc]
-The sound of clicking came from Shigeyoshi's gun. He pointed[r]
-it at Yuuho and desperately pulled the trigger with his[r]
-thick fingers. But only sounds were made; no bullets were[r]
-fired.[pcms]
+カチカチという音が重吉の銃からしている。悠帆に銃口を[r]
+向けて、必死に太い指で引き金を引いている。[r]
+でも、音がするだけで、決して弾は発射されなかった。[pcms]
 
 ;//se077・弾切れの音
 [se buf=0 storage="se077"]
@@ -595,8 +585,8 @@ fired.[pcms]
 
 *1233|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gussooooh. Ughugyaaaah!!"[pcms]
+[ns]重吉[nse]
+「ぐっそおおぉぉ。うっうぎゃああっ！！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -607,25 +597,25 @@ fired.[pcms]
 
 *1234|
 [fc]
-Yuuho lunged at Shigeyoshi, thumbs aimed at his eyes. Her[r]
-thumbs plunged into Shigeyoshi's eyes.[pcms]
+悠帆は、重吉の両目向かって親指を突き出して[r]
+飛びかかっていた。悠帆の親指が、重吉の両目にめり込む。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1235|
 [fc]
 [vo_yuh s="yuho_TE0115"]
-[ns]Yuuho[nse]
-"Dieeeee---!!"[pcms]
+[ns]悠帆[nse]
+「死っねええーーーっ！！」[pcms]
 
 ;//se099・重吉が倒れた音
 ;//[se buf=0 storage="se099"]
 
 *1236|
 [fc]
-Shigeyoshi fell backward with Yuuho on top of him. Yuuho,[r]
-straddling him, forcefully dug her thumbs deeper into his[r]
-eyes.[pcms]
+重吉は悠帆を上に乗せたまま、どおっと後ろに[r]
+倒れこんだ。悠帆は馬乗りのままで、親指を重吉の両目に[r]
+ちからまかせにめり込ませていた。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -633,13 +623,13 @@ eyes.[pcms]
 *1237|
 [fc]
 [vo_yuh s="yuho_TE0116"]
-[ns]Yuuho[nse]
-"Die, die, die--, just dieee--!!"[pcms]
+[ns]悠帆[nse]
+「死ね、死ね、死ねーーっ、死んじまええーーっ！！」[pcms]
 
 *1238|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gugyaaaah! Geaaaah! Stop it!!"[pcms]
+[ns]重吉[nse]
+「ぐぎゃああっ！　げああああっ！　や゛め゛ろ゛ぉ！！」[pcms]
 
 ;//★__セレスタワー　？？？号室
 [bg storage="BG030"][trans_c cross time=500]
@@ -647,92 +637,92 @@ eyes.[pcms]
 
 *1239|
 [fc]
-I have to stop Yuuho. Her thumbs were buried so deep in[r]
-Shigeyoshi's eyes that they were no longer visible. Yet[r]
-Yuuho continued to press down while straddling him.[pcms]
+悠帆を止めないと。悠帆の親指は、もう見えないぐらい[r]
+重吉の両目に埋まっている。それでも悠帆はまだ[r]
+馬乗りで、親指を押し続けていた。[pcms]
 
 *1240|
 [fc]
-No use. Completely snapped, Yuuho was out of her senses.[r]
-With all my might, I got up and hugged her.[pcms]
+駄目だ。完全にキレて、悠帆はわからなくなっている。[r]
+ボクは、死ぬ気で身体を起こし、悠帆に抱き付いた。[pcms]
 
 [evcg storage="EV011m"][trans_c cross time=300]
 
 *1241|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, Yuuho. I'm okay now. That's enough."[pcms]
+[ns]航[nse]
+「悠帆っ、悠帆。ボクは大丈夫だから。もう充分だから」[pcms]
 
 *1242|
 [fc]
 [vo_yuh s="yuho_TE0117"]
-[ns]Yuuho[nse]
-"Die, dieee-. Wataru, Wataru has... Just dieee--"[pcms]
+[ns]悠帆[nse]
+「死ね、死ねえー。航を、航がっ。死んでしまえーーっ」[pcms]
 
 *1243|
 [fc]
-Yuuho struggled violently trying to shake off my hands.[pcms]
+悠帆はボクの手をふりほどこうと、全身で暴れている。[pcms]
 
 *1244|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, Yuuho!"[pcms]
+[ns]航[nse]
+「悠帆、悠帆っ！」[pcms]
 
 *1245|
 [fc]
 [vo_yuh s="yuho_TE0118"]
-[ns]Yuuho[nse]
-"Let go, let go. Wataru, Wataru. I have to kill him--"[pcms]
+[ns]悠帆[nse]
+「放せ、放せぇ。航が、航が。コイツを、殺さないとぉ」[pcms]
 
 *1246|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, Yuuho! I'm okay. It's okay now!"[pcms]
+[ns]航[nse]
+「悠帆、悠帆っ！　ボクは大丈夫だ。大丈夫だからっ！」[pcms]
 
 *1247|
 [fc]
-I kept hugging Yuuho and calling her name by her ear.[pcms]
+悠帆の名前を耳もとで呼びながら、ボクは悠帆を抱きしめ続けた。[pcms]
 
 *1248|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, Yuuho. I'm okay. I'm really okay."[pcms]
+[ns]航[nse]
+「悠帆、悠帆。ボクは大丈夫だ。ボクは大丈夫だから」[pcms]
 
 [evcg storage="EV011n"][trans_c cross time=300]
 
 *1249|
 [fc]
 [vo_yuh s="yuho_TE0119"]
-[ns]Yuuho[nse]
-"...Wata...ru? ...Wataru? Wataru?!"[pcms]
+[ns]悠帆[nse]
+「……わた……る？　……航？　航？！」[pcms]
 
 *1250|
 [fc]
-The strength began to drain from Yuuho's thrashing body. So[r]
-I continued to hold her gently and whispered her name like a[r]
-spell by her ear.[pcms]
+暴れていた悠帆の身体から力が抜け始めた。だから[r]
+ボクはそのまま悠帆を柔らかく抱きしめ続け、耳もとに[r]
+口を付けて呪文のように繰り返し呼びかけた。[pcms]
 
 *1251|
 [fc]
-[ns]Wataru[nse]
-"That's right, Yuuho. I'm okay. It's really okay now. Thank[r]
-you, Yuuho. For me. It's all right now. See, Yuuho? I'm[r]
-okay."[pcms]
+[ns]航[nse]
+「そうだよ、悠帆。ボクは大丈夫だよ。大丈夫だから。[r]
+　悠帆、ありがとう。ボクのために。もう大丈夫だから[r]
+　ね、悠帆。ボクは大丈夫だから」[pcms]
 
 [evcg storage="EV011o"][trans_c cross time=300]
 
 *1252|
 [fc]
 [vo_yuh s="yuho_TE0120"]
-[ns]Yuuho[nse]
-"Wataru... Wataru, thank goodness, thank goodness--[r]
-uhhhhhhhhhhhhhhhhhhhhhhhhh!!"[pcms]
+[ns]悠帆[nse]
+「航……航ぅ、良かった、良かったーーっ。うああああっ。[r]
+　ああああっ、うああああっああああんっ！！」[pcms]
 
 *1253|
 [fc]
-Suddenly bursting into tears like a lit fuse, Yuuho cried[r]
-out loud like a child. Her thumbs were deeply stained with[r]
-bloodfor me.[pcms]
+火が点いたように、悠帆は声をあげて泣き始めた。[r]
+まるで子供のように。悠帆の両手の親指は、どっぷりと[r]
+血に染まっていた。ボクの為に血に染めてくれていた。[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]
@@ -754,19 +744,19 @@ bloodfor me.[pcms]
 
 *1254|
 [fc]
-The first-aid kit for soldiers that Sesuka-san had was used[r]
-to give me first aid treatment, and by borrowing everyone's[r]
-shoulders in turn, I was able to climb up to this heliport.[pcms]
+セスカさんの持っていた兵士向けのファーストエイド。[r]
+それでボクは応急処置をしてもらい、みんなの肩を[r]
+代わる代わる借りて、このヘリポートに昇ってこられた。[pcms]
 
 *1255|
 [fc]
-The flock of infected crows we saw this morning was nowhere[r]
-to be found. Not a single one.[pcms]
+ボクたちが今朝見た、あの感染したカラスの群れは、[r]
+どこにも見当たらなかった。一羽たりとも。[pcms]
 
 *1256|
 [fc]
-Tokyo was shrouded in a yellowish smoke. Even the lower[r]
-floors of this building were sinking into the yellow smoke.[pcms]
+東京中が、黄色っぽく煙っていた。このビルのまだまだ[r]
+下の階層も、黄色い煙の中に沈んでいる。[pcms]
 
 ;//--------------------------------------------------------------------
 ;//♂_TE10080に記入したが、ガスの煙っている色合いが違う場合は、色を書き換える事。
@@ -782,9 +772,9 @@ floors of this building were sinking into the yellow smoke.[pcms]
 
 *1257|
 [fc]
-Several Black Hawks were still flying around. One of them[r]
-was slowly circling overhead. On closer inspection, the[r]
-Japanese flag was painted on its body.[pcms]
+数機のブラックホークが、まだ飛んでいた。[r]
+そのうちの１機が、ゆっくりと旋回している。[r]
+よく見ると、日本の国旗が機体に描かれていた。[pcms]
 
 ;//bgm15
 [bgm storage="BGM15"]
@@ -793,43 +783,44 @@ Japanese flag was painted on its body.[pcms]
 
 *1258|
 [fc]
-[ns]Kousuke[nse]
-"Heyyyy! Heyyyy! Over hereee--!"[pcms]
+[ns]浩助[nse]
+「おーーーーいっ！　おーーーいっ！　こっこだーー！」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_e7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1259|
 [fc]
 [vo_miz s="mizuki_TE0049"]
-[ns]Mizuki[nse]
-"Heyyy! Over here! Listen up--!"[pcms]
+[ns]瑞樹[nse]
+「おーーいっ！　ここよー！　ねーーってばー！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1260|
 [fc]
 [vo_yuh s="yuho_TE0121"]
-[ns]Yuuho[nse]
-"Heyyy! Over here for goodness sake--!"[pcms]
+[ns]悠帆[nse]
+「おおーーいっ！　こっちだってばー！」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a6"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *1261|
 [fc]
 [vo_ren s="ren_TE0132"]
-[ns]Ren[nse]
-"Over here! Hey! Heyyy!"[pcms]
+[ns]漣[nse]
+「ここよー！　ねーっ！　おーーいっ！」[pcms]
 
 *1262|
 [fc]
-Kousuke and Mizuki were jumping up and down at times while[r]
-waving their hands as if they were at a concert. Ren waved[r]
-elegantly, while Yuuho waved energetically with one hand.[pcms]
+コースケと瑞樹は、時にぴょんぴょんと飛び跳ねながら[r]
+コンサートにいるかのように両手をあげて振っている。[r]
+漣は優雅に、悠帆は元気いっぱいに片手を振っていた。[pcms]
 
 *1263|
 [fc]
-I was supported on both sides by Maruko-senpai and Sesuka-[r]
-san's shoulders as I watched this scene unfold.[pcms]
+ボクは、マル子先輩とセスカさんの肩をかりて[r]
+両脇から挟まれるように支えられながら、その光景を[r]
+眺めていた。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -844,81 +835,79 @@ san's shoulders as I watched this scene unfold.[pcms]
 
 *1264|
 [fc]
-[ns]Shigeyoshi[nse]
-"Guah... My eyes... My damn eyes... It hurts. Can't see."[pcms]
+[ns]重吉[nse]
+「ぐああ……目が……俺様の目が……痛っでえ。見えねぇ」[pcms]
 
 *1265|
 [fc]
-Shigeyoshi was crawling disgracefully, slowly making his way[r]
-down the corridor. Someone's foot touched the tips of[r]
-Shigeyoshi's remaining left hand. Shigeyoshi then felt for[r]
-the foot with his fingers. It was a woman's foot.[pcms]
+重吉は、無様に這いつくばって、廊下をじわじわと進んでいた。[r]
+重吉の残っている左手の指先に、誰かの足が触る。[r]
+重吉は、そのまま指でその足を探った。女の足だ。[pcms]
 
 *1266|
 [fc]
-[ns]Shigeyoshi[nse]
-"Who's there? Anyone, please help..."[pcms]
+[ns]重吉[nse]
+「誰だ？　誰でもいいから、助けて……」[pcms]
 
 [ChrSetEx layer=5 chbase="tomomi_a3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1267|
 [fc]
 [vo_mob s="tomomi_TE0006"]
-[ns]Tomomi[nse]
-"That's what happens to bad children..."[pcms]
+[ns]朋美[nse]
+「悪い子だから……そうなるんだよ」[pcms]
 
 *1268|
 [fc]
-At the sound of that voice, Shigeyoshi's fingertips[r]
-retracted.[pcms]
+その声に重吉の指先が引っ込められる。[pcms]
 
 [ChrSetEx layer=5 chbase="tomomi_a2"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1269|
 [fc]
 [vo_mob s="tomomi_TE0007"]
-[ns]Tomomi[nse]
-"We have to go look for everyone..."[pcms]
+[ns]朋美[nse]
+「みんな……さがしにいかないと……」[pcms]
 
 *1270|
 [fc]
-[ns]Shigeyoshi[nse]
-"Wait..."[pcms]
+[ns]重吉[nse]
+「待っ……」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1271|
 [fc]
-Shigeyoshi tried to call out to Tomomi, even if it was her,[r]
-as he sensed her leaving. But Tomomi left without looking[r]
-back.[pcms]
+立ち去る朋美の気配に、重吉はたとえ朋美でもいいからと[r]
+呼び止めようとした。[r]
+だが、朋美は振り返る事もなく、立ち去っていく。[pcms]
 
 *1272|
 [fc]
-Shigeyoshi noticed another presence.[pcms]
+重吉は別の気配に気が付いた。[pcms]
 
 *1273|
 [fc]
-[ns]Infected Man A[nse]
-"I want meat, I want lots of meat"[pcms]
+[ns]感染者・男Ａ[nse]
+「にいくうだあ、にくいっぱいだあ」[pcms]
 
 *1274|
 [fc]
-[ns]Infected Man B[nse]
-"I'm so hungry, give me meat, let me eat meat"[pcms]
+[ns]感染者・男Ｂ[nse]
+「はらあへったあ、にくう、にくくわせろお」[pcms]
 
 *1275|
 [fc]
-[ns]Shigeyoshi[nse]
-"Gah... Ahhh... Gyaaa, stop it, it hurts, stop it please!!"[pcms]
+[ns]重吉[nse]
+「げぇ……っ、うああっ……ぎゃああ、やめろぉ、[r]
+　痛でえええっっ！　やめて゛ぐれ゛え゛っ！！」[pcms]
 
 *1276|
 [fc]
-By the time he tried to flee in panic, it was already too[r]
-late. Starved infected people surrounded him in layers,[r]
-fighting over and beginning to tear Shigeyoshi's body into[r]
-pieces.[pcms]
+慌てて逃げ出そうとした時には、もう遅かった。[r]
+二重三重に飢えきった感染者が取り巻き、争いながら[r]
+重吉の身体を八つ裂きにしはじめていた。[pcms]
 
 ;//#_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -932,13 +921,13 @@ pieces.[pcms]
 
 *1277|
 [fc]
-Several Black Hawks in formation returned to their course[r]
-without breaking formation and flew away.[pcms]
+数機のブラックホークの編隊は、その形を崩さないまま[r]
+帰還の路に就き、飛び去って行った。[pcms]
 
 *1278|
 [fc]
-The helicopter that had rescued us continued to circle[r]
-slowly in the air, looking for anyone else.[pcms]
+ボク達を収容してくれたヘリは、まだ他に誰かいないかと[r]
+ゆっくりと空中で旋回を続けていた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -948,8 +937,8 @@ slowly in the air, looking for anyone else.[pcms]
 
 *1279|
 [fc]
-I was looking down below. I could see the heliport where we[r]
-had been just a moment ago.[pcms]
+ボクは、眼下を見ていた。[r]
+さっきまでボクたちがいた、ヘリポートが見える。[pcms]
 
 
 [ChrSetEx layer=5 chbase="tomomi_a4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=300]
@@ -957,33 +946,35 @@ had been just a moment ago.[pcms]
 
 *1280|
 [fc]
-A figure appeared staggering. It's that girl! The girl[r]
-looked up at the sky, at the helicopter we were on.[pcms]
+そこに、ふらふらと人影が現れた。[r]
+あの子だっ！　少女は空を、ボクたちが乗っている[r]
+ヘリの方を見上げた。[pcms]
 
 *1281|
 [fc]
-Despite the distance, I could feel that girl's gaze firmly[r]
-on us.[pcms]
+こんなに距離があるのに、ボクはあの子の視線を[r]
+しっかりと感じていた。[pcms]
 
 *1282|
 [fc]
-One hand went up, waving from side to side. She was waving[r]
-towards us.[pcms]
+片手があがり、左右に振られる。こっちに向かって[r]
+手を振っている。[pcms]
 
 *1283|
 [fc]
-There was no doubt that girl was an infected. But she was[r]
-different from the other infected.[pcms]
+あの子が感染者なのは間違いないだろう。[r]
+でも、あの子は他の感染者と違っていた。[pcms]
 
 *1284|
 [fc]
-She had the will to try and save Yuuho and me at that time.[r]
-She grabbed Shigeyoshi's hand and tried to help us escape.[pcms]
+意志を持って、あのときボクと悠帆を助けようと[r]
+してくれた。重吉の手を掴み、ボクたちを[r]
+逃がそうとしてくれた。[pcms]
 
 *1285|
 [fc]
-So I waved back from the helicopter with gratitude to that[r]
-girl with red eyes.[pcms]
+だから、ボクは感謝の意を込めてヘリから手を[r]
+振り返した。赤い目をした、あの子に。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1004,65 +995,64 @@ girl with red eyes.[pcms]
 
 *1286|
 [fc]
-The sun was nearing dusk. The helicopter carrying us stopped[r]
-circling, set its nose in one direction, and began to fly.[pcms]
+夕暮れ間近。ボクたちを乗せたヘリは旋回を止め[r]
+機首を一方向に定め、飛び始めた。[pcms]
 
 *1287|
 [fc]
-The Celesta Tower grew smaller and smaller behind us. I was[r]
-struck by a strange emotion and stared intently at the[r]
-scene.[pcms]
+ボクたちの後ろに、セレスタワーがどんどん小さくなる。[r]
+ボクは妙な感慨に襲われ、じっとその風景を眺めていた。[pcms]
 
 *1288|
 [fc]
-Suddenly I saw... Yuuho crouching down and trembling[r]
-slightly.[pcms]
+ふと見ると……悠帆がうずくまって小さく震えている。[pcms]
 
 *1289|
 [fc]
 [vo_yuh s="yuho_TE0122"]
-[ns]Yuuho[nse]
-"Uh... uh... uuuuh..."[pcms]
+[ns]悠帆[nse]
+「っ……っ……うううっ……っ」[pcms]
 
 *1290|
 [fc]
-She hugged her knees, pressed her head against them, and[r]
-trembled minutely.[pcms]
+膝を抱え、頭を膝頭に押し付けて、小さく小さく、[r]
+小刻みに震えていた。[pcms]
 
 *1291|
 [fc]
-A cold sweat ran down my back. Could it be... Yuuho. Before[r]
-we rescued her, somewhere, somehow. I approached her[r]
-cautiously.[pcms]
+ボクの背中をひやっとした汗が流れた。[r]
+まさか……悠帆。助け出す前に、何か、どこかで。[r]
+ボクは、恐る恐る近付いた。[pcms]
 
 *1292|
 [fc]
-Yuuho noticed my approach and suddenly lifted her face.[pcms]
+近付くボクの気配に気が付いた悠帆が、ふっと顔を上げた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1293|
 [fc]
 [vo_yuh s="yuho_TE0123"]
-[ns]Yuuho[nse]
-"Uhh... Wataru. I... I just realized now... I was really[r]
-scared. So scared. I thought everything was okay now... but[r]
-I..."[pcms]
+[ns]悠帆[nse]
+「ううっうっ……航。わたし、わたし今頃になって……[r]
+　本当は恐かったの。すっごく恐くて。わたし……。[r]
+　もう大丈夫なんだって思ったら……わたし……」[pcms]
 
 *1294|
 [fc]
-Yuuho's cheeks were wet with tears. Thank goodness. It[r]
-wasn't what I had feared.[pcms]
+悠帆の両頬は、涙で濡れていた。[r]
+良かった。恐れていたことではなかった。[pcms]
 
 *1295|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... it's all right now. You can relax. It's all over.[r]
-You'll be able to sleep soundly tonight."[pcms]
+[ns]航[nse]
+「悠帆……もう大丈夫だよ。安心して。[r]
+　もう終わったんだから。大丈夫。[r]
+　今晩はぐっすり眠れるさ」[pcms]
 
 *1296|
 [fc]
-I gently embraced Yuuho as if to soothe her.[pcms]
+ボクは悠帆をなだめるように、そっと抱きしめた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1080,68 +1070,69 @@ I gently embraced Yuuho as if to soothe her.[pcms]
 *1297|
 [fc]
 [vo_mob s="tomomi_TE0008"]
-[ns]Tomomi[nse]
-"What should I do... I can't move anymore..."[pcms]
+[ns]朋美[nse]
+「どうしよう……動けなくなっちゃった……」[pcms]
 
 *1298|
 [fc]
-The girl sat down with a thud, and blood flowed rapidly[r]
-beneath her, quickly forming a large pool.[pcms]
+ぺたんと腰を落とした少女の下に、どんどん血が流れ落ち[r]
+あっという間に大きな血だまりを作り出した。[pcms]
 
 
 *1299|
 [fc]
 [vo_mob s="tomomi_TE0009"]
-[ns]Tomomi[nse]
-"...what should I do..."[pcms]
+[ns]朋美[nse]
+「……どう……しよう……」[pcms]
 
 *1300|
 [fc]
-Perhaps sensing something, the girl suddenly lifted her face[r]
-and stared somewhere into the sky.[pcms]
+何かの気配を感じたのだろうか。少女はふっと[r]
+顔を上げ、空中のどこかを見つめている。[pcms]
 
 [evcg storage="EV022c"][trans_c cross time=300]
 
 *1301|
 [fc]
 [vo_mob s="tomomi_TE0010"]
-[ns]Tomomi[nse]
-"...U-tan? Everyone? ...Oh, there you are...! Wait...![r]
-Wait!"[pcms]
+[ns]朋美[nse]
+「……うーたん？　みんな？[r]
+　……なんだ、そこにいたんだね……！[r]
+　まって……！　まって！」[pcms]
 
 *1302|
 [fc]
-The girl placed her palms on the ground and crawled forward.[pcms]
+少女は両手のひらを地面に付き、這いずりながら進んでいく。[pcms]
 
 [evcg storage="EV022b"][trans_c cross time=300]
 
 *1303|
 [fc]
 [vo_mob s="tomomi_TE0011"]
-[ns]Tomomi[nse]
-"...U-tan... everyone wait for me too. I'm coming too. This[r]
-time together. Take me with you... wait for me..."[pcms]
+[ns]朋美[nse]
+「……うーたん……みんなも、待って……。[r]
+　アタシも、行くから。今度は、一緒に。[r]
+　一緒に、つれていってよ……まってよ……」[pcms]
 
 *1304|
 [fc]
-The girl kept smiling as she continued to crawl towards a[r]
-point in the sky, reaching the edge of the heliport, she[r]
-smiled brightly.[pcms]
+少女は空中の一点を見つめ続けたまま、這いずり続けた。[r]
+ヘリポートの端まで進んだとき、少女はにっこりと笑った。[pcms]
 
 [evcg storage="EV022c"][trans_c cross time=300]
 
 *1305|
 [fc]
 [vo_mob s="tomomi_TE0012"]
-[ns]Tomomi[nse]
-"I'm home... U-tan!"[pcms]
+[ns]朋美[nse]
+「ただいまあ……うーたん！」[pcms]
 
 
 
 *1306|
 [fc]
-With one more step forward, the girl fell to the ground with[r]
-a smile still on her face.[pcms]
+更に一歩進んだ少女は、その顔に笑顔を浮かべたまま[r]
+地上へと落ちていった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1162,59 +1153,52 @@ a smile still on her face.[pcms]
 
 *1307|
 [fc]
-The gas eradication operation led by the United States[r]
-military was a success. Immediately after its commencement,[r]
-unforeseen incidents occurred with several aircraft crashing[r]
-and burning, casting doubt on the success of the operation.[pcms]
+合衆国軍が主導した、ガスによる掃討作戦は成功をみた。[r]
+開始直後不測の事態が発生し、何機もの機体が落下炎上し、[r]
+その作戦の成功が危ぶまれた。[pcms]
 
 *1308|
 [fc]
-However, subsequent waves of troops were deployed and led[r]
-the operation to success.[pcms]
+しかし、第二波、第三波と投入された部隊が作戦を[r]
+成功へと導いた。[pcms]
 
 *1309|
 [fc]
-The Japanese government promoted thorough awareness of the[r]
-operation, announcing that casualties on the day of the[r]
-operation were kept to a minimum.[pcms]
+日本政府は作戦の徹底周知を推進したため、当日の作戦に[r]
+おける犠牲者は最小限に抑えられたと公表された。[pcms]
 
 *1310|
 [fc]
-Seven days later, ground troops clad in protective gear[r]
-entered the area and found a scene akin to hell. However,[r]
-many survivors were also rescued.[pcms]
+７日後、防護服に身を固めた地上部隊が現地に入ったとき、[r]
+そこに展開されていたのは、さながら地獄絵図のよう[r]
+だったという。しかしながら多数の生存者も救出された。[pcms]
 
 *1311|
 [fc]
-The bodies of infected found on the ground were collected[r]
-and incinerated under controlled conditions. The number was[r]
-so great that it took additional days before the Japanese[r]
-government could declare the containment of the infection[r]
-spread.[pcms]
+地上で発見された感染者の遺体は、集められ管理下の元[r]
+焼却処分にされた。その数は余りに多く、日本政府が感染拡大[r]
+の事態収束宣言を発表するまでには、更に日数を要した。[pcms]
 
 *1312|
 [fc]
-Seven months had passed since the United States military's[r]
-simultaneous gas eradication operation was carried out.[pcms]
+合衆国軍による一斉のガス掃討作戦。[r]
+あの作戦が決行されてから、７ヵ月が過ぎていた。[pcms]
 
 *1313|
 [fc]
-We still couldn't return to the main island. Infected[r]
-individuals enveloped by gas on the ground had been wiped[r]
-out.[pcms]
+ボクたちは、まだ本島には戻る事ができずにいた。[r]
+地上でガスに巻かれた感染者は一掃された。[pcms]
 
 *1314|
 [fc]
-However, searches and eradication of infected individuals in[r]
-urban underground areas and mountainous areas near cities[r]
-were still not fully completed.[pcms]
+でも、都市の地下部、都市に近い山間部における感染者の[r]
+捜索と掃討は、まだ完全遂行されていないらしい。[pcms]
 
 *1315|
 [fc]
-The Japanese government declared the containment of the[r]
-infection spread, but they have yet to issue a full safety[r]
-declaration. Until that declaration is made, we had no[r]
-choice but to stay put.[pcms]
+日本政府は感染拡大の事態収束宣言は出したけれど、完全な[r]
+安全宣言まではまだ出せずにいた。[r]
+その宣言が出るまでは、ボクたちは、留まるしかなかった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1230,91 +1214,88 @@ choice but to stay put.[pcms]
 *1316|
 [fc]
 [vo_yuh s="yuho_TE0124"]
-[ns]Yuuho[nse]
-"Wow... It's so beautiful."[pcms]
+[ns]悠帆[nse]
+「うわあ……凄く綺麗」[pcms]
 
 *1317|
 [fc]
 [vo_ren s="ren_TE0133"]
-[ns]Ren[nse]
-"Yeah. It's really pretty."[pcms]
+[ns]漣[nse]
+「うん。綺麗だねぇ」[pcms]
 
 *1318|
 [fc]
 [vo_mar s="maru_TE0286"]
-[ns]Margarita[nse]
-"It's been a while since I've gazed at a star-filled sky.[r]
-It's beautiful."[pcms]
+[ns]マルガリータ[nse]
+「満天の星空を眺めるのは、久し振りだ。美しいな」[pcms]
 
 *1319|
 [fc]
 [vo_mob s="sesuka_TE0039"]
-[ns]Sesuka[nse]
-"Milady... This is my first time seeing the northern[r]
-hemisphere's starry sky. It's just as beautiful as the[r]
-south's."[pcms]
+[ns]セスカ[nse]
+「お嬢様……ワタシ、北半球の星空は初めてです。[r]
+　南に負けず劣らず綺麗なんですね」[pcms]
 
 *1320|
 [fc]
-The curfew for nighttime outings was finally lifted.[pcms]
+ようやく夜間外出禁止令が解除された。[pcms]
 
 *1321|
 [fc]
-On this island where we were transferred, there had been no[r]
-infections, but as a precaution, going out at night had been[r]
-restricted for over half a year.[pcms]
+ボクたちが移送されたこの島では、感染は発生して[r]
+いなかったけれど、念のためと半年以上も夜間の外出は[r]
+制限されていた。[pcms]
 
 *1322|
 [fc]
-Finally, with the curfew lifted, I predicted a night when[r]
-the stars would be clearly visible while poring over weather[r]
-charts, and invited everyone to the beach.[pcms]
+ようやく解除されて、ボクは天気図とにらめっこしながら[r]
+星が綺麗に見える晩を予測して、浜辺にみんなを誘った。[pcms]
 
 *1323|
 [fc]
-That night, on the rooftop of a building in Shibuya, we[r]
-looked up at a starry sky. The same number of stars that we[r]
-saw that evening were twinkling above our heads.[pcms]
+あの日、渋谷のビルの屋上で見上げた満天の星空。[r]
+あの晩みたのと同じぐらいの数の星がボクたちの頭上で[r]
+瞬いていた。[pcms]
 
 *1324|
 [fc]
 [vo_miz s="mizuki_TE0050"]
-[ns]Mizuki[nse]
-"It's so pretty, Kousuke. I haven't looked up at a starry[r]
-sky like this in such a long time."[pcms]
+[ns]瑞樹[nse]
+「きっれーだね、コースケ。あたし、星空なんて、[r]
+　ほっんと、久し振りに見上げたよ」[pcms]
 
 *1325|
 [fc]
-[ns]Kousuke[nse]
-"Yeah. It's moving. I feel like I could write a good song[r]
-about this."[pcms]
+[ns]浩助[nse]
+「ああ。感動的だなあ。なんか良い曲が書けそうな気がしてきた」[pcms]
 
 *1326|
 [fc]
-We were finally regaining our peaceful lives, though it[r]
-wasn't quite like before. I want to continue this tranquil[r]
-life into the future.[pcms]
+ボクたちは穏やかな生活をようやく取り戻していた。[r]
+昔通りとはまだいかなかったけれど。[r]
+この先もこの穏やかな生活を続けていきたい。[pcms]
 
 *1327|
 [fc]
-[ns]Wataru[nse]
-"Look, a star just shot across the sky."[pcms]
+[ns]航[nse]
+「ほら、今、星が流れたよ」[pcms]
 
 *1328|
 [fc]
 [vo_yuh s="yuho_TE0125"]
-[ns]Yuuho[nse]
-"Eh?! A shooting star? Wataru, did you make a wish?"[pcms]
+[ns]悠帆[nse]
+「えっ？！　流れ星？　航、何かお願い事した？」[pcms]
 
 *1329|
 [fc]
-I entrusted my wish to the shooting star, hoping that we[r]
-would never again suffer from an infection outbreak.[pcms]
+ボクは、もう二度と感染被害が起こらないようにと[r]
+流れ星に願いを託した。[pcms]
 
 *1330|
 [fc]
-The seasons were about to welcome spring. I was hoping to[r]
-return to my town by the time the cherry blossoms bloomed.[pcms]
+季節はそろそろ春を迎えようとしていた。[r]
+桜が咲く頃には、ボクのあの街へ戻りたいなとボクは[r]
+思っていた。[pcms]
 
 
 
@@ -1347,5 +1328,5 @@ return to my town by the time the cherry blossoms bloomed.[pcms]
 
 [eval exp="sf.g_clear = 1"]
 
-(returntitle)[pcms]
+[returntitle][s]
 

@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）昼
+;//・時間帯：５日目（８月１９日）昼～
 ;//
 ;//※ライター様へ。　この;//ブロックはいわゆる日常シーンですが、
 ;//　細かな描写よりも、航の日記的なイメージでライティングして
@@ -27,32 +27,30 @@
 
 *5911|
 [fc]
-[ns]Wataru[nse]
-"...I'll stop."[pcms]
+[ns]航[nse]
+「……やめとこ」[pcms]
 
 *5912|
 [fc]
-It's concerning, but...[pcms]
+気になることは気になるけど……。[pcms]
 
 *5913|
 [fc]
-Just last night, I saw Ren and Kousuke getting scolded for[r]
-eavesdropping, so I think it's best not to do the same.[pcms]
+昨夜、立ち聞きした漣とコースケが怒られてるのを見たばかりで[r]
+同じことするのも、どうかと思うし。[pcms]
 
 *5914|
 [fc]
-It's one thing with Yuuho, but if Shigeyoshi gives me a[r]
-"serious talk," there's no guarantee I'll make it back[r]
-alive...[pcms]
+悠帆ならともかく、重吉に『大切なお話』なんかされたら、[r]
+生きて帰れる保証はないからなあ……。[pcms]
 
 *5915|
 [fc]
-A wise man keeps away from danger. Kuwabara, kuwabara.[pcms]
+君子危うきに近寄らず。くわばらくわばら。[pcms]
 
 *5916|
 [fc]
-I quietly made my footsteps silent and headed towards the[r]
-rooftop.[pcms]
+ボクはそーっと足音を忍ばせて、屋上へと向かった。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

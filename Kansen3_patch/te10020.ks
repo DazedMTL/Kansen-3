@@ -8,7 +8,7 @@
 ;//・視点：主人公一人称
 ;//登場人物:主人公・漣
 ;//時間帯：
-;//・時間：６日目（８月２０日）朝
+;//・時間：６日目（８月２０日）朝～
 ;//テキスト分量：3k
 ;//--------------------------------------------------------------------
 ;//漣ルート：
@@ -29,34 +29,34 @@
 *28|
 [fc]
 [vo_ren s="ren_TE0036"]
-[ns]Ren[nse]
-"Onii-chan, I thought you'd be here."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、ここにいると思った」[pcms]
 
 [evcg storage="EV017g"][trans_c cross time=300]
 
 *29|
 [fc]
-[ns]Wataru[nse]
-"Yeah. The gas attacks are starting tomorrow. I thought we[r]
-might not be able to come up here for a while, so I wanted[r]
-to see the stars... even if just a little."[pcms]
+[ns]航[nse]
+「うん。明日にはガスの攻撃が始まるからね。[r]
+　もしかしたら当分はここに上がってこられないと思って。[r]
+　少しでも、星が……見たかったんだ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *30|
 [fc]
 [vo_ren s="ren_TE0037"]
-[ns]Ren[nse]
-"Yeah. I wanted to see the night view with you, Onii-chan.[r]
-And if we could see the stars too, that would be nice... But[r]
-the city lights are getting in the way, aren't they..."[pcms]
+[ns]漣[nse]
+「うん。私は、お兄ちゃんと一緒に夜景でも見たいなって。[r]
+　星も見られたらいいなって思ったんだけど……。[r]
+　やっぱり街中の灯りが邪魔しちゃってるね……」[pcms]
 
 
 *30a|
 [fc]
-[ns]Wataru[nse]
-"Yeah, well, that can't be helped. Even so, we can still[r]
-count a few of the brighter stars."[pcms]
+[ns]航[nse]
+「うん、まあそれは仕方がないよ。それでも、少しは、[r]
+　一等星ぐらいなら数えられるよ」[pcms]
 
 [evcg storage="EV019c"][trans_c cross time=300]
 
@@ -65,69 +65,68 @@ count a few of the brighter stars."[pcms]
 *31|
 [fc]
 [vo_ren s="ren_TE0038"]
-[ns]Ren[nse]
-"Ah, you're right. Hey, hey, Onii-chan. The moon is[r]
-beautiful. I always have this vague image of a summer[r]
-moon..."[pcms]
+[ns]漣[nse]
+「あ、本当だ。ねえねえ、お兄ちゃん。お月様綺麗だよ。[r]
+　夏のお月様ってぼんやりしてるイメージがあるんだけど」[pcms]
 
 *32|
 [fc]
-[ns]Wataru[nse]
-"That's true. Maybe the air is clearer than usual summers[r]
-because there aren't any cars running around..."[pcms]
+[ns]航[nse]
+「そうだね。やっぱり車とか走ってないから……空気が[r]
+　いつもの夏より澄んでいるのかもしれないな」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *33|
 [fc]
 [vo_ren s="ren_TE0039"]
-[ns]Ren[nse]
-"I see... It reminds me of the moon we saw in Akita..."[pcms]
+[ns]漣[nse]
+「そっか……明田で見たお月様に似てる……ね」[pcms]
 
 *34|
 [fc]
-[ns]Wataru[nse]
-"...That's right."[pcms]
+[ns]航[nse]
+「……そうだね」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *35|
 [fc]
 [vo_ren s="ren_TE0040"]
-[ns]Ren[nse]
-"Onii-chan... We've been through a lot, haven't we? It's not[r]
-over yet, but I have a feeling that things will be different[r]
-from tomorrow..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……なんだか色々あったね。まだ終わりじゃ[r]
+　ないけど。明日からはまた違う気がしてて……」[pcms]
 
 *36|
 [fc]
-[ns]Wataru[nse]
-"Yeah. I feel the same way about tomorrow. At least, once[r]
-tomorrow is over, we might start to see the possibility of[r]
-returning to our lives as they were before."[pcms]
+[ns]航[nse]
+「そうだね。ボクも、明日からはまた違う気がしてるよ。[r]
+　少なくとも、明日を過ぎれば、ボクたちがそれまでの[r]
+　生活に戻れる可能性が見えてくるからね」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *37|
 [fc]
 [vo_ren s="ren_TE0041"]
-[ns]Ren[nse]
-"That's right. It will surely be so."[pcms]
+[ns]漣[nse]
+「そうね。きっとそうなるよね」[pcms]
 
 *38|
 [fc]
-[ns]Wataru[nse]
-"Yeah. Don't worry, Ren. We've done everything we could,[r]
-right? And it's not just us. Everyone is together, so it'll[r]
-be okay."[pcms]
+[ns]航[nse]
+「うん。大丈夫だよ、漣。ボクたちは、やれることは[r]
+　やりきっただろう？　それにボクたちだけじゃない。[r]
+　みんなが一緒にいるんだから、大丈夫だよ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *39|
 [fc]
 [vo_ren s="ren_TE0042"]
-[ns]Ren[nse]
-"Yeah... If Onii-chan says so, then I can believe it too..."[pcms]
+[ns]漣[nse]
+「うん……お兄ちゃんがそう言ってくれるなら、[r]
+　私もそう思えるよ……」[pcms]
 
 [evcg storage="EV019a"][trans_c cross time=300]
 
@@ -136,38 +135,38 @@ be okay."[pcms]
 *40|
 [fc]
 [vo_ren s="ren_TE0043"]
-[ns]Ren[nse]
-"You know, Onii-chan... I won't forget about Dad. It was a[r]
-huge shock, but because you were with me, I'm really okay[r]
-now."[pcms]
+[ns]漣[nse]
+「あのね、お兄ちゃん……私、お父さんの事忘れない。[r]
+　凄くショックだったけど、でもお兄ちゃんが付いていて[r]
+　くれたから、今はもう本当に大丈夫」[pcms]
 
 *41|
 [fc]
-[ns]Wataru[nse]
-"...Really? Ren, you don't have to push yourself."[pcms]
+[ns]航[nse]
+「……本当に？　漣、無理しなくていいんだよ」[pcms]
 
 ;[ChrSetEx layer=5 chbase="ren_a3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *42|
 [fc]
 [vo_ren s="ren_TE0044"]
-[ns]Ren[nse]
-"No, I'm okay. It still makes me a little sad sometimes, but[r]
-I have you, Onii- chan..."[pcms]
+[ns]漣[nse]
+「ううん。大丈夫。まだちょっと悲しくなるけど、私には[r]
+　お兄ちゃんがいるもの……」[pcms]
 
 *43|
 [fc]
-[ns]Wataru[nse]
-"Ren, I won't forget about Mom either. Honestly, with what[r]
-happened this time, I sometimes wonder if Mom encountered[r]
-something similar back then and it makes my chest hurt."[pcms]
+[ns]航[nse]
+「漣、ボクも母さんのこと、忘れないよ。正直、今回の事、[r]
+　あの時の母さんも同じような事に遭遇したのかと思って[r]
+　時々胸が苦しくなることがあったんだ」[pcms]
 
 *44|
 [fc]
-[ns]Wataru[nse]
-"But it's okay. I felt that I had to protect Ren for both[r]
-Dad and Mom's sake. I think I've become a little stronger[r]
-because you were by my side."[pcms]
+[ns]航[nse]
+「でも、大丈夫。ボクは父さんの分も、母さんの分も、漣を[r]
+　しっかり守らなくちゃって思えたから。少しだけ強くなれた[r]
+　気がしてるんだ。漣がそばにいてくれたからだと思う」[pcms]
 
 [evcg storage="EV019b"][trans_c cross time=300]
 
@@ -176,16 +175,16 @@ because you were by my side."[pcms]
 *45|
 [fc]
 [vo_ren s="ren_TE0045"]
-[ns]Ren[nse]
-"Onii-chan... Thank you. Even though I've been nothing but[r]
-trouble..."[pcms]
+[ns]漣[nse]
+「お兄ちゃん……ありがとう。[r]
+　私なんて、迷惑かけてばっかりなのに……」[pcms]
 
 *46|
 [fc]
-[ns]Wataru[nse]
-"That's not true. Because Ren is here, I have to be firm and[r]
-become even stronger. Ren, you've become the support for my[r]
-heart."[pcms]
+[ns]航[nse]
+「そんなことないよ。ボクは漣がいるから、しっかりしなきゃ[r]
+　もっと強くならなくちゃって。漣は、ボクの心の支えに[r]
+　なってくれてるんだと思う」[pcms]
 
 [evcg storage="EV019c"][trans_c cross time=300]
 
@@ -194,21 +193,20 @@ heart."[pcms]
 *47|
 [fc]
 [vo_ren s="ren_TE0046"]
-[ns]Ren[nse]
-"...Thank you... Onii-chan..."[pcms]
+[ns]漣[nse]
+「……ありがとう……お兄ちゃん……」[pcms]
 
 *48|
 [fc]
-The words I told Ren contained no lies. If it had been just[r]
-me alone, I might have given up a long time ago and even[r]
-ended up joining them if I had been weak.[pcms]
+漣に言った言葉に、偽りはなかった。[r]
+ボクひとりだけだったら、きっともうずいぶん前にくじけて[r]
+ヘタをすれば、ヤツラの仲間になっていたかもしれない。[pcms]
 
 *49|
 [fc]
-Even after losing Dad and being left just the two of us, it[r]
-was because we were together that I could keep going until[r]
-today... Hearing Ren's words made me look back and deeply[r]
-feel this.[pcms]
+父さんまで失って、ふたりきりになったけれど、ふたりだから[r]
+ボクは今日まで頑張れたのだと……漣の言葉を聴いて、[r]
+今までを振り返って、そうしみじみと感じていた。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -273,7 +271,7 @@ feel this.[pcms]
 ;	[zap_set1]
 ;	[zap_set2]
 ;
-[pcms]
+;	[s]
 ;	;------------------------------------------------
 ;	*aspect_SELモブ|ザッピング選択肢　その他
 ;

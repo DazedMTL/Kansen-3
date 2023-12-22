@@ -4,7 +4,7 @@
 ;//@konya 11/13 BG貼付
 
 *rn_001_TOP
-;{SceneSet 漣ルートブリッジ射殺}
+;{SceneSet 漣ルートブリッジ～射殺}
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
@@ -23,103 +23,102 @@
 
 *5419|
 [fc]
-[ns]Wataru[nse]
-"Ugh... u-uhh... uuu..."[pcms]
+[ns]航[nse]
+「うっ…………う、うぅ……ううぅ……」[pcms]
 
 ;//bgm06・insomnia
 [bgm storage="BGM06"]
 
 *5420|
 [fc]
-How much time has passed since then...?[pcms]
+あれから……どれくらい経っただろう……。[pcms]
 
 *5421|
 [fc]
-I've been holed up in my room on the 5th floor, crying[r]
-continuously. My eyes and throat are stinging and painful.[r]
-But more than that, the pain in my heart feels like it's[r]
-going to tear me apart.[pcms]
+ボクは５Ｆの自分の部屋に篭って泣き続けていた。[r]
+目も喉もひりひりして痛い。[r]
+だけど、そんなものより、心の痛みに胸が破れてしまいそうだ。[pcms]
 
 *5422|
 [fc]
-Yuuho's body was wrapped in a blanket and buried in the same[r]
-place as the Masters. I'm sorry for leaving you alone in[r]
-that dark, cold refrigerator... But maybe being with your[r]
-beloved Masters will bring you some comfort...[pcms]
+悠帆の亡骸は毛布に包んで、マスターたちと同じ場所に葬った。[r]
+あんな暗い冷蔵庫の中に、ひとりぼっちにさせて……ごめん。[r]
+だけど仲良しのマスターたちと一緒なら少しは……。[pcms]
 
 *5423|
 [fc]
-[ns]Wataru[nse]
-"...That's just... self-deception..."[pcms]
+[ns]航[nse]
+「……そんなの……欺瞞だ……」[pcms]
 
 *5424|
 [fc]
-Yuuho can't feel anything anymore. She can't have any[r]
-emotions. Because... I... I shot Yuuho with these hands.[pcms]
+悠帆はもう何も感じない。どんな感情も持てない。[r]
+だって……ボクが……この手で悠帆を撃ったんだから。[pcms]
 
 *5425|
 [fc]
-I took her life... I erased Yuuho's existence from this[r]
-world... Undoubtedly, it was me.[pcms]
+命を奪い……、[r]
+この地上から悠帆を、悠帆という存在を消し去ったのは……、[r]
+紛れもなく、ボクだ。[pcms]
 
 *5426|
 [fc]
-The Yuuho I loved so much... Probably, I was in love with[r]
-Yuuho... Yet, I could only express my feelings through an[r]
-act opposite of love...[pcms]
+大好きだった悠帆……。[r]
+多分、ボクは悠帆を愛していた……。[r]
+それなのに、愛とは逆の行動でしか気持ちを示せなかった……。[pcms]
 
 *5427|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry... I'm so sorry... forgive me... uuu..."[pcms]
+[ns]航[nse]
+「ごめん……ごめんよ……ごめん……ううぅぅ……」[pcms]
 
 *5428|
 [fc]
-I should have protected her. I intended to protect her no[r]
-matter what. And yet, with the gun entrusted to me by[r]
-Tadahiko, I...![pcms]
+守ってやらなくちゃいけなかったのに。[r]
+どんなことをしても守り抜くつもりだったのに。[r]
+そのために彦ちんから託された銃で、ボクは悠帆を……！[pcms]
 
 *5429|
 [fc]
-Far from protecting her... I killed her...[pcms]
+守るどころか……殺してしまった……。[pcms]
 
 *5430|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... Yuu-ho... uuuooooh...!"[pcms]
+[ns]航[nse]
+「悠帆…………、ゆ、うほ……っ、ううぉおおお……！」[pcms]
 
 *5431|
 [fc]
-If that gun had been within reach, I would have shot myself[r]
-in the chest without hesitation.[pcms]
+もしあの銃が手元にあったなら、[r]
+ボクはためらわずに自分の胸を撃ちぬいていただろう。[pcms]
 
 *5432|
 [fc]
-But perhaps anticipating that, Tadahiko's gun was taken away[r]
-by Senior Maruko.[pcms]
+だけど、それを予想していたのかどうか、[r]
+彦ちんの銃はマル子先輩に取り上げられている。[pcms]
 
 *5433|
 [fc]
-I tear at my hair and beat my chest over and over. If I[r]
-couldn't kill myself, I wanted to at least inflict some[r]
-wounds as a substitute.[pcms]
+ボクは髪を掻き毟り、胸をどんどんと叩く。[r]
+自分を殺すことができないなら、変わりに傷を負いたかった。[pcms]
 
 *5434|
 [fc]
-What kind of punishment would absolve me of my sins? What[r]
-kind of pain must I endure to understand Yuuho's pain...?[pcms]
+どんな罰を与えられたら、ボクの罪は許されるんだろう。[r]
+どんな痛みを味わえば、悠帆の痛みが分かるんだろう……。[pcms]
 
 ;//se003・携帯の着信音
 [se buf=0 storage="se003" loop=true]
 
 *5435|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5436|
 [fc]
-My phone is ringing. Maybe someone is worried about me...[pcms]
+携帯が鳴ってる。[r]
+誰かが、ボクを心配してくれてるんだろうか……。[pcms]
 
 
 ;//SE即時停止
@@ -127,9 +126,8 @@ My phone is ringing. Maybe someone is worried about me...[pcms]
 
 *5437|
 [fc]
-But right now, I don't want to talk to anyone. Not comfort,[r]
-not sympathy, not understanding. I didn't want to receive[r]
-anything.[pcms]
+だけど今は誰とも話したくはない。[r]
+慰めも同情も理解も。何も受け取りたくなかった。[pcms]
 
 
 
@@ -142,42 +140,42 @@ anything.[pcms]
 
 *5438|
 [fc]
-The call that had once stopped started ringing again.[r]
-Reluctantly, I picked up the phone to the incessant sound.[pcms]
+いったんは切れた呼び出し音が、再び鳴り始める。[r]
+いつまでも鳴り響くその音に、ボクは仕方なく携帯を手にした。[pcms]
 
 *5439|
 [fc]
-It was from Mizuki when I checked the display.[pcms]
+表示を見ると瑞樹からだった。[pcms]
 
 ;//SE即時停止
 [stopse buf=0]
 
 *5440|
 [fc]
-[ns]Wataru[nse]
-"Mizuki... What is it?"[pcms]
+[ns]航[nse]
+「瑞樹…………何？」[pcms]
 
 ;//★下記２ワード、Ｔ３００１０と共通です。
 
 *5441|
 [fc]
 [vo_miz s="mizuki_T0030"]
-[ns]Mizuki[nse]
-"Wataru!!! Where are you???"[pcms]
+[ns]瑞樹[nse]
+「ワタルっ！！！　どこにいるの？？」[pcms]
 
 *5442|
 [fc]
 [vo_miz s="mizuki_T0031"]
-[ns]Mizuki[nse]
-"The TV, the TV! It's terrible!! Just come quickly!!"[pcms]
+[ns]瑞樹[nse]
+「て、テレビが、テレビがっ！　大変だよ！！[r]
+　とにかく来てっ！！」[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]
 
 *5443|
 [fc]
-Mizuki's scream, loud enough to burst my eardrums, pulled me[r]
-back to reality.[pcms]
+鼓膜の破れそうな瑞樹の悲鳴が、ボクを現実に引き戻した。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

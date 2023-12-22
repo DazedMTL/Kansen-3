@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹
 ;//・テキスト容量：
@@ -42,93 +42,95 @@
 
 *3676|
 [fc]
-[ns]Wataru[nse]
-"...I will... I will do it...!"[pcms]
+[ns]航[nse]
+「……ボクが……、ボクが、やります……！」[pcms]
 
 *3677|
 [fc]
-Words leaked out from between my clenched teeth.[pcms]
+食いしばった奥歯の間から、言葉が洩れ出した。[pcms]
 
 *3678|
 [fc]
-Suddenly, everyone looked at me in surprise.[pcms]
+途端にみんなが驚いたようにボクを見る。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3679|
 [fc]
-[ns]Jin[nse]
-"...Can you really do it, you?"[pcms]
+[ns]壬[nse]
+「……やれるのか、お前に？」[pcms]
 
 *3680|
 [fc]
-[ns]Wataru[nse]
-"I will... With my own hands, I'll shoot Yuuho."[pcms]
+[ns]航[nse]
+「やります……。ボクの手で、悠帆を撃ちます」[pcms]
 
 *3681|
 [fc]
-I answered Jin-san's quiet question.[pcms]
+静かな目で問いかける壬さんに、ボクは答えた。[pcms]
 
 *3682|
 [fc]
-It's not about whether I can or can't. I have to do it...[pcms]
+やれるかどうか、じゃない。[r]
+やらなくちゃいけないんだ……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3683|
 [fc]
-[ns]Kousuke[nse]
-"Hey... hey, stop, Wataru! Then, I will...! Because... it's[r]
-my fault that Yuuho got infected...!"[pcms]
+[ns]浩助[nse]
+「お……おい、よせよ、ワタル！[r]
+　そんなら、オレが……！[r]
+　だって……悠帆が感染したの、オレの責任だから……！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3684|
 [fc]
 [vo_mar s="maru_B0003"]
-[ns]Margarita[nse]
-"...No, I will do it. I can't let you do such a thing..."[pcms]
+[ns]マルガリータ[nse]
+「……いや、ワタシがやろう。[r]
+　キミにそんなコトは、させられない……」[pcms]
 
 *3685|
 [fc]
-I slowly shook my head at Kousuke and Maruko-senpai's[r]
-offers.[pcms]
+コースケやマル子先輩の申し出に、ボクはゆっくり首を振る。[pcms]
 
 *3686|
 [fc]
-[ns]Wataru[nse]
-"...Please let me do it. If there's nothing else I can do[r]
-for Yuuho... then at least let me do this... please..."[pcms]
+[ns]航[nse]
+「……お願いします。ボクに、やらせてください。[r]
+　悠帆にしてあげられることが他にないなら……[r]
+　せめて、それだけは……ボクにさせてください……」[pcms]
 
 *3687|
 [fc]
-If this is the last way to save Yuuho. I don't want to leave[r]
-it to someone else. If it's the last gift I can give to the[r]
-Yuuho I love so much. I want to deliver it with my own[r]
-hands...[pcms]
+これが悠帆を救う最後の手段なら。他の誰かに任せたくはない。[r]
+大好きな悠帆のためにしてあげられる、最後の贈り物なら。[r]
+ボクの手で、届けてあげたい……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3688|
 [fc]
 [vo_ren s="ren_B0002"]
-[ns]Ren[nse]
-"Big brother!! Ugh, uuu...!"[pcms]
+[ns]漣[nse]
+「お兄ちゃぁぁんっ！！　うっ、ううぅ……っ」[pcms]
 
 *3689|
 [fc]
-Ren clung tightly to me, sobbing.[pcms]
+漣がボクにギュッとしがみついて、泣きじゃくる。[pcms]
 
 *3690|
 [fc]
-Only the sound of sobbing flowed among the silent crowd.[pcms]
+黙り込んだみんなの間に、すすり泣きの声だけが流れていた。[pcms]
 
 ;//〆黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *3691|
 [fc]
-Tadahiko's words came to mind.[pcms]
+彦ちんの、言葉が心に浮かんできた。[pcms]
 
 
 [bg storage="effect_black"]
@@ -138,30 +140,29 @@ Tadahiko's words came to mind.[pcms]
 
 *3692|
 [fc]
-[ns]Tadahiko[nse]
-"When you put your finger on the trigger, make sure you[r]
-understand what it means to fire that bullet. Think about[r]
-it, and only after you've thought it through, put your[r]
-finger on the trigger... And then, never hesitate."[pcms]
+[ns]忠彦[nse]
+「引き金に指をかける時はな……そいつを弾くって事の意味を[r]
+　良く考えてからにしろ。考えて、考え抜いた末に引き金に指を[r]
+　かけたなら……。あとは、絶対に迷うな」[pcms]
 
 [chara_int][trans_c cross time=300]
 
 *3693|
 [fc]
-Yes, I must not hesitate...[pcms]
+そう、迷ってはいけない……。[pcms]
 
 *3694|
 [fc]
-I can't bear to see the kind Yuuho turn into such a monster.[r]
-I can't just stand by and watch![pcms]
+優しい悠帆が、あんな怪物に変わってしまうのは耐えられない。[r]
+黙って見ているわけにはいかないんだ！[pcms]
 
 *3695|
 [fc]
-And... surely Yuuho herself must be suffering...[pcms]
+それに……悠帆本人だって、きっと苦しむはず……。[pcms]
 
 *3696|
 [fc]
-That's why... I'm the only one who can save Yuuho...[pcms]
+だから……ボクが悠帆を救うしか、ないんだ……。[pcms]
 
 *LABEL_MEMORIES_START
 ;//〆アルカディア
@@ -173,155 +174,156 @@ That's why... I'm the only one who can save Yuuho...[pcms]
 
 *3697|
 [fc]
-When I returned to the manga cafe, Yuuho was sitting in[r]
-front of the drink bar.[pcms]
+漫画喫茶に戻ってみると、[r]
+悠帆はドリンクバーの前に座り込んでいた。[pcms]
 
 *3698|
 [fc]
 [vo_yuh s="yuho_B0001"]
-[ns]Yuuho[nse]
-"...Nn, nfuufuuu... nfu, delicious~... nfuufuuu"[pcms]
+[ns]悠帆[nse]
+「……ん、んふふふぅぅぅ……、んふっ、[r]
+　おいし～ぃぃ……んふふふっ」[pcms]
 
 *3699|
 [fc]
-It seems she was eating soft-serve ice cream while I was[r]
-away.[pcms]
+どうやらボクがいない間に、[r]
+ソフトクリームを食べていたようだ。[pcms]
 
 *3700|
 [fc]
-She had filled a glass full of cream and was munching away[r]
-with her face all messy.[pcms]
+グラスいっぱいにクリームを盛り付けて、[r]
+顔中べたべたにしながら、むしゃぶりついている。[pcms]
 
 *3701|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆…………」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3702|
 [fc]
 [vo_yuh s="yuho_B0002"]
-[ns]Yuuho[nse]
-"...Aah? Waa-taa-ru!? Where... were you? Let's eat...[r]
-together, okay?"[pcms]
+[ns]悠帆[nse]
+「……ああぁ？　わーたぁぁるぅぅ！？[r]
+　どこ……いた、の？　食べよぉ……、ね？」[pcms]
 
 *3703|
 [fc]
-Yuuho's face brightened up when she saw me.[pcms]
+ボクを見つけた悠帆の顔がぱぁっと明るくなる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3704|
 [fc]
 [vo_yuh s="yuho_B0003"]
-[ns]Yuuho[nse]
-"...Or maybe... you prefer that? The continuation from[r]
-earlier? I... like both, you know...?"[pcms]
+[ns]悠帆[nse]
+「……それともぉ……、あっちが、いい？[r]
+　さっきの、続きぃぃ？[r]
+　わたし……、どっちも、好きだよぉ……？？」[pcms]
 
 *3705|
 [fc]
-Lifting her tank top a little, Yuuho smiled up at me with a[r]
-teasing look.[pcms]
+;タンクトップを少しめくってみせながら、[r]
+悠帆が上目遣いにボクに笑いかけてくる。[pcms]
 
 *3706|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆…………」[pcms]
 
 *3707|
 [fc]
-I took one step closer to Yuuho and aimed the gun with both[r]
-hands.[pcms]
+ボクは一歩だけ悠帆に近付くと、両手で銃を構えた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e20"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3708|
 [fc]
 [vo_yuh s="yuho_B0004"]
-[ns]Yuuho[nse]
-"No way, that's bad? You shouldn't point it at people,[r]
-right? Wata-ru... if you mess around, you'll get scolded,[r]
-okay? By senpai? Ufufufu...uhh"[pcms]
+[ns]悠帆[nse]
+「だあぁめ、だよぉ？　人に向けちゃ、だめぇ、だよ？[r]
+　わた、る……ふざけたら、怒られる、よ？[r]
+　せぇんぱいにぃぃ？　うふふふ……ぅっ」[pcms]
 ;//＠笑いを含んで
 
 *3709|
 [fc]
-As soon as she saw the gun in my hands, Yuuho smiled[r]
-sweetly.[pcms]
+ボクの手の中の銃を見るなり、悠帆はにっこりする。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e32"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3710|
 [fc]
 [vo_yuh s="yuho_B0005"]
-[ns]Yuuho[nse]
-"...Ufufu...uh..."[pcms]
+[ns]悠帆[nse]
+「……うふふ…………ぅ……」[pcms]
 
 *3711|
 [fc]
-Suddenly stopping her laughter, Yuuho slowly stood up.[pcms]
+急に笑うのをやめた悠帆は、ゆらりと立ち上がった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e33"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3712|
 [fc]
 [vo_yuh s="yuho_B0006"]
-[ns]Yuuho[nse]
-"Wata-ru... Wataru... Wataru? Are you serious...? Are you[r]
-going to kill me...?"[pcms]
+[ns]悠帆[nse]
+「わた、る……ぅ、わたる…………航……？[r]
+　本気、なの……？　わたし、を……殺す、の……？」[pcms]
 ;//＠少し正気がもどった
 
 *3713|
 [fc]
-Yuuho called my name and came closer.[pcms]
+悠帆がボクの名を呼び、近付いてくる。[pcms]
 
 *3714|
 [fc]
-I have to shoot before she gets too close. Even though[r]
-that's what I'm thinking, my arms and legs are shaking so[r]
-much that I can't steady my aim...[pcms]
+近付きすぎる前に撃たなくちゃ。[r]
+そう思っているのに……、[r]
+腕も足もぶるぶると震えて狙いが定まらない……。[pcms]
 
 *3715|
 [fc]
-[ns]Wataru[nse]
-"Guh...!!"[pcms]
+[ns]航[nse]
+「くっ……！！」[pcms]
 
 *3716|
 [fc]
-I gritted my teeth and put strength into my arms. It's the[r]
-opposite of what senpai taught me, but shooting in a relaxed[r]
-posture seems impossible...[pcms]
+歯を食いしばり、腕に力をこめる。[r]
+先輩の教えてくれたこととは逆だけど、[r]
+力を抜いて楽な姿勢で撃つ、なんてできそうもない……。[pcms]
 
 *3717|
 [fc]
-All I have to do is pull the trigger. Just move this finger[r]
-a few millimeters... But my fingertips feel frozen and won't[r]
-budge an inch.[pcms]
+とにかく……引き金を、引けばいい。[r]
+この指を数ミリ、動かせばいいのに……。[r]
+指先が凍って貼り付いてしまったようにピクリとも動かせない。[pcms]
 
 ;//黒画面
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *3718|
 [fc]
-I closed my eyes and took a deep breath.[pcms]
+目を閉じ、深く息を吸った。[pcms]
 
 *3719|
 [fc]
-"Never hesitate."[pcms]
+『絶対に迷うな』[pcms]
 
 *3720|
 [fc]
-The meaning of Tadahiko's words finally sank in deeply.[pcms]
+彦ちんの言葉の意味がようやく身にしみて分かる。[pcms]
 
 *3721|
 [fc]
-This time for sure... this time for sure! I'll shoot!!! And[r]
-then I'll set Yuuho free!!![pcms]
+今度こそ……、今度こそ！[r]
+撃つ！！！！[r]
+そして悠帆を解放してあげるんだ！！！[pcms]
 
 *3722|
 [fc]
-I made up my mind and opened my eyes wide...[pcms]
+ボクは意を決し、目を見開く……。[pcms]
 
 ;//〆アルカディア
 ;mm 背景ぬけてた
@@ -331,68 +333,70 @@ I made up my mind and opened my eyes wide...[pcms]
 *3723|
 [fc]
 [vo_yuh s="yuho_B0007"]
-[ns]Yuuho[nse]
-"...Wataru...?"[pcms]
+[ns]悠帆[nse]
+「…………航……？」[pcms]
 
 *3724|
 [fc]
-There was Yuuho in front of me. Yuuho with her eyes crazed[r]
-red.[pcms]
+悠帆が目の前にいた。[r]
+狂ったように赤い目をした悠帆が。[pcms]
 
 *3725|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho!..."[pcms]
+[ns]航[nse]
+「…………悠帆っ！……」[pcms]
 
 *3726|
 [fc]
-Red eyes are closing in on me. If I don't shoot, I'll be[r]
-attacked! I'll get infected too...![pcms]
+赤い目が間近に迫ってくる。[r]
+撃たなければ襲われる！[r]
+ボクまで感染してしまう……！[pcms]
 
 *3727|
 [fc]
-But...[pcms]
+だけど…………。[pcms]
 
 ;//黒画面
 [black_toplayer][trans_c cross time=500][hide_chara_int]
 
 *3728|
 [fc]
-[ns]Wataru[nse]
-"...I can't... do it..."[pcms]
+[ns]航[nse]
+「……できない……よ…………」[pcms]
 
 *3729|
 [fc]
-After all, there's no way I can do it.[pcms]
+やっぱり、できるわけが、ない。[pcms]
 
 *3730|
 [fc]
-To erase the Yuuho I love from this world, to take Yuuho's[r]
-life with my own hands, I can't...!![pcms]
+大好きな悠帆をこの世から消し去ってしまうなんて、[r]
+この手で悠帆の命を奪い取るなんて、できない……！！[pcms]
 
 *3731|
 [fc]
-Because... because I love Yuuho...[pcms]
+だって……だってボクは悠帆を……。[r]
+愛……しているんだ…………。[pcms]
 
 *3732|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆……」[pcms]
 
 *3733|
 [fc]
-Now that I know I can't shoot, the trembling in my arms has[r]
-stopped. I begin to slowly lower the gun.[pcms]
+撃てないと分かった今になって、腕の震えが止まった。[r]
+ボクは銃をゆっくりと下ろそうとする。[pcms]
 
 *3734|
 [fc]
-If it means killing Yuuho with my own hands, I'd rather be[r]
-attacked and become an infected myself... That's what I[r]
-started to think.[pcms]
+自分の手で悠帆を殺してしまうくらいなら、[r]
+このまま襲われて感染者に成り果ててもいい……。[r]
+そう思い始めていた。[pcms]
 
 *3735|
 [fc]
-Yuuho smiled at me as if a flower was blooming.[pcms]
+悠帆はボクに向かって花が開くように微笑んだ。[pcms]
 
 ;// ★イベントCG
 [evcg storage="EV013e"][trans_c cross time=300]
@@ -400,85 +404,86 @@ Yuuho smiled at me as if a flower was blooming.[pcms]
 *3736|
 [fc]
 [vo_yuh s="yuho_B0008"]
-[ns]Yuuho[nse]
-"...Sorry for being a burden, until the very end... okay?"[pcms]
+[ns]悠帆[nse]
+「……最後まで、迷惑、かけて……ごめん、ね……？」[pcms]
 ;//＠必死で正気を保つ
 
 *3737|
 [fc]
-[ns]Wataru[nse]
-"...Eh?..."[pcms]
+[ns]航[nse]
+「…………え？……」[pcms]
 
 [evcg storage="EV013f"][trans_c cross time=300]
 
 *3738|
 [fc]
 [vo_yuh s="yuho_B0009"]
-[ns]Yuuho[nse]
-"But... you came to save me again..."[pcms]
+[ns]悠帆[nse]
+「でも……、また助けて、くれた……」[pcms]
 ;//＠必死で正気を保つ
 
 *3739|
 [fc]
-Yuuho's words... they make sense!? Has she come back to her[r]
-senses, Yuuho?[pcms]
+悠帆の言葉が……ちゃんと意味が通じている！？[r]
+正気に戻ったのか、悠帆？[pcms]
 
 *3740|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... can you understand me?"[pcms]
+[ns]航[nse]
+「悠帆……ボクが分かるの？」[pcms]
 
 *3741|
 [fc]
-Her eyes were still bright red, but looking closely, they[r]
-were focused firmly on me, and her face had her usual smile.[pcms]
+目だけは真っ赤に変わっていたけれど、[r]
+よく見るとボクにしっかりと焦点が結ばれていて、[r]
+顔には、いつもの笑みが浮かんでいる。[pcms]
 
 [evcg storage="EV013g"][trans_c cross time=300]
 
 *3742|
 [fc]
 [vo_yuh s="yuho_B0010"]
-[ns]Yuuho[nse]
-"I'm glad... it was you who came... Wataru. Sorry... and[r]
-thank you..."[pcms]
+[ns]悠帆[nse]
+「来てくれたの、が……航で…………よかった……。[r]
+　ごめんね…………、ありが、とう…………」[pcms]
 ;//＠必死で正気を保つ
 
 *3743|
 [fc]
-After managing to say that much in broken speech, Yuuho[r]
-quietly closed her eyes.[pcms]
+途切れ途切れに、ようやくそこまで言うと[r]
+悠帆は静かに目を閉じた。[pcms]
 
 [evcg storage="EV013h"][trans_c cross time=300]
 
 *3744|
 [fc]
-She remained motionless, waiting for me to act.[pcms]
+そのまま微動だにせず、ボクが行動するのを待っている。[pcms]
 
 *3745|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「…………悠帆…………」[pcms]
 
 *3746|
 [fc]
-I raise the gun again that I had started to lower.[pcms]
+下ろしかけていた銃を、ボクは再び構える。[pcms]
 
 *3747|
 [fc]
-Yuuho... if that's what you wish for... then I'll do it...[r]
-I'll kill you...[pcms]
+悠帆……それがキミの望みなんだね……。[r]
+だったら……ボクが殺してあげる……よ。[pcms]
 
 *3748|
 [fc]
-[ns]Wataru[nse]
-"...I love you so much..."[pcms]
+[ns]航[nse]
+「…………大好き、だよ……」[pcms]
 
 [evcg storage="EV013i"][trans_c cross time=300]
 
 *3749|
 [fc]
-The moment I said that, the corners of Yuuho's mouth seemed[r]
-to slightly curl up, even with her eyes closed...[pcms]
+瞬間、目を閉じたままの悠帆の口元が[r]
+わずかに綻んだように見えた……。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]

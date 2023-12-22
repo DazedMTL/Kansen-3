@@ -18,49 +18,49 @@
 
 *491|
 [fc]
-With Yuuho in this condition, there should be no need to[r]
-worry. I made sure to stay alert and focused on guarding our[r]
-surroundings.[pcms]
+悠帆はこの調子なら心配はいらないだろう。[r]
+ボクは油断しないように、周囲の警戒に専念した。[pcms]
 
 *492|
 [fc]
-As expected, an infected lying on the catwalk was about to[r]
-rise.[pcms]
+すると予想通り、キャットウォークに転げていた[r]
+感染者が今にも起き上がろうとしていた。[pcms]
 
 *493|
 [fc]
-A hit from a mop isn't enough to deal a fatal blow.[pcms]
+モップの一撃では致命的なダメージなんて[r]
+与えられるものではない。[pcms]
 
 *494|
 [fc]
-I immediately thrust the handle of the mop at the infected[r]
-trying to get up.[pcms]
+ボクはすかさず、起き上がろうとしていた感染者に[r]
+向かって、モップの柄で突きを見舞ってやった。[pcms]
 
 ;//se012
 [se buf=0 storage="se012"]
 
 *495|
 [fc]
-[ns]Wataru[nse]
-"Stay down and be quiet!"[pcms]
+[ns]航[nse]
+「そこで大人しく寝てろ！」[pcms]
 
 ;//赤フラ一発
 [赤フラ]
 
 *496|
 [fc]
-After receiving a full-force blow, the infected lost balance[r]
-and easily toppled over.[pcms]
+渾身の一撃をくらわせると、感染者はバランスを[r]
+崩して簡単に転がった。[pcms]
 
 *497|
 [fc]
-[ns]Wataru[nse]
-"Phew... I did it... I was able to do it."[pcms]
+[ns]航[nse]
+「ふぅ……やった……ボクにもできた」[pcms]
 
 *498|
 [fc]
-Feeling as if I had truly experienced strength, I indulged[r]
-in a small sense of accomplishment.[pcms]
+強さを実感できたような気がして、ボクは小さな[r]
+達成感に浸った。[pcms]
 
 ;//〆EV011
 
@@ -68,41 +68,41 @@ in a small sense of accomplishment.[pcms]
 
 *499|
 [fc]
-When I turned around, there was Yuuho, who had safely[r]
-escaped. Yuuho hugged me without a word, and I gently[r]
-stroked her sobbing back.[pcms]
+振り返るとそこには無事に脱出した悠帆がいた。[r]
+有無を言わさず悠帆に抱きつかれたボクは[r]
+泣きじゃくる悠帆の背中を優しく撫でた。[pcms]
 
 *500|
 [fc]
-The feel of her soft body and Yuuho's gentle scent seemed to[r]
-heal my weary heart.[pcms]
+やわらかな肢体の感触と、悠帆の優しい香りに[r]
+ボクの疲弊した心が癒されていく気がする。[pcms]
 
 *501|
 [fc]
-[ns]Wataru[nse]
-"I'm glad... you're safe..."[pcms]
+[ns]航[nse]
+「無事で……よかった……」[pcms]
 
 [evcg storage="EV011g"][trans_c cross time=300]
 
 *502|
 [fc]
 [vo_yuh s="yuho0120"]
-[ns]Yuuho[nse]
-"Thank you... I owe my life to you, Wataru."[pcms]
+[ns]悠帆[nse]
+「ありがとう……航のおかげで助かったよ」[pcms]
 
 *503|
 [fc]
-[ns]Wataru[nse]
-"I didn't really..."[pcms]
+[ns]航[nse]
+「ボクは別に……」[pcms]
 
 *504|
 [fc]
-Yuuho managed to get to the window by herself. All I did was[r]
-guard it from here.[pcms]
+悠帆は自力で窓までやって来たんだ。ボクはここで窓を[r]
+守っていただけにすぎない。[pcms]
 
 *505|
 [fc]
-I wanted to be the hero of the story...[pcms]
+本当は物語の主人公のように活躍したかったけど……。[pcms]
 
 ;//階段に戻しておきましょうか＠ash
 [bg storage="BG015"][trans_c cross time=500]
@@ -110,38 +110,39 @@ I wanted to be the hero of the story...[pcms]
 
 *506|
 [fc]
-It's too early to rejoice in our reunion. Our predicament[r]
-hasn't changed at all.[pcms]
+再会を喜ぶにはまだ早い。ボクらの窮地は依然として[r]
+変わってはいない。[pcms]
 
 *507|
 [fc]
-In fact, we might be facing a crisis so imminent that it's[r]
-only a matter of whether we'll be prey alone or together.[pcms]
+むしろ下手をすれば一人で餌食になるか、三人で餌食に[r]
+なるかの違いしかないのかもしれないほど[r]
+危機は迫っている。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *508|
 [fc]
 [vo_mar s="maru0032"]
-[ns]Margarita[nse]
-"Let's go up to the roof. We can't hold them off here..."[pcms]
+[ns]マルガリータ[nse]
+「屋根へ上がろう。ここでは防ぎきれないし……」[pcms]
 
 *509|
 [fc]
-[ns]Wataru[nse]
-"Understood. Let's go, Yuuho."[pcms]
+[ns]航[nse]
+「わかりました。行くよ悠帆」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_d5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *510|
 [fc]
 [vo_yuh s="yuho0121"]
-[ns]Yuuho[nse]
-"Y-Yes..."[pcms]
+[ns]悠帆[nse]
+「う、うん……」[pcms]
 
 *511|
 [fc]
-I took Yuuho's hand and we headed up to the roof.[pcms]
+ボクは悠帆の手を引きながら屋根へと上がった。[pcms]
 
 ;//→block:ブロック21040 ラベルA008へjump
 ;//フローが間違っている様子

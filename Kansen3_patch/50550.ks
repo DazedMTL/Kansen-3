@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：;//〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）未明早朝
+;//・時間：５日目（８月１９日）未明～早朝
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹
 ;//時間帯：
@@ -18,49 +18,46 @@
 
 *3232|
 [fc]
-[ns]Wataru[nse]
-"Ah...oops"[pcms]
+[ns]航[nse]
+「あ……っと」[pcms]
 
 *3233|
 [fc]
-As I stood up and started to walk, Maruko-senpai began to[r]
-leave, and a round, sparkling object flew out of my pocket,[r]
-bouncing and rolling across the floor.[pcms]
+立ち上がり、歩き出したマル子先輩を見送ろうとすると、[r]
+ポケットから、丸くてキラキラと輝く物体が飛び出し、[r]
+跳ねながら床を転がっていった。[pcms]
 
 *3234|
 [fc]
-In an instant, Maruko-senpai twisted her body like a cat,[r]
-chased after the rolling marble, and caught it with one[r]
-hand.[pcms]
+刹那、マル子先輩はまるで猫の様にしなやかに身体をひねり、[r]
+転がるビー玉を追いかけ、片手で捕らえた。[pcms]
 
 *3235|
 [fc]
-[ns]Wataru[nse]
-"That's some amazing reflexes... as expected, there's no[r]
-other way to put it..."[pcms]
+[ns]航[nse]
+「凄い反射神経ですね……さすが、としか言いようがない……」[pcms]
 
 [evcg storage="EV021f"][trans_c cross time=300]
 
 *3236|
 [fc]
 [vo_mar s="maru1658"]
-[ns]Margarita[nse]
-"What is this...? Why do you have it?"[pcms]
+[ns]マルガリータ[nse]
+「これは……どうした？　何故キミが持っている？」[pcms]
 
 *3237|
 [fc]
-Maruko-senpai was staring at the small marble with wide[r]
-eyes.[pcms]
+マル子先輩は、小さなビー玉を凝視しながら、目を丸くしていた。[pcms]
 
 *3238|
 [fc]
-[ns]Wataru[nse]
-"I found it at the manga cafe, but does it concern you?"[pcms]
+[ns]航[nse]
+「それ、漫喫で拾ったんですけど、何か気になります？」[pcms]
 
 *3239|
 [fc]
-While staring at the blue shining marble, Maruko-senpai[r]
-sighed and then slowly began to speak.[pcms]
+青く輝くビー玉を見つめながら、ため息をついたあと、[r]
+先輩はゆっくりと口を開いた。[pcms]
 
 ;mm BGあってる？
 [bg storage="BG019c"][trans_c cross time=500]
@@ -69,187 +66,189 @@ sighed and then slowly began to speak.[pcms]
 *3240|
 [fc]
 [vo_mar s="maru1659"]
-[ns]Margarita[nse]
-"...It's nothing... no... Well, I might as well tell Wataru.[r]
-We've talked about various things already."[pcms]
+[ns]マルガリータ[nse]
+「……何でも…………いや……。[r]
+　……ワタルには話しておこうか。色々話したついでだ」[pcms]
 
 *3241|
 [fc]
-Maruko-senpai began to speak with a downcast gaze,[r]
-reminiscing about something, her expression somewhat sad.[pcms]
+目を伏せ、何かを思い出しながら語り始めたマル子先輩の表情は、[r]
+どこか哀しそうだった。[pcms]
 
 *3242|
 [fc]
 [vo_mar s="maru1660"]
-[ns]Margarita[nse]
-"When I was young, my mother got it for me at a summer[r]
-festival. 'A marble just like this one. It was so pretty and[r]
-cute, I couldn't help but carry it around all the time."[pcms]
+[ns]マルガリータ[nse]
+「ワタシが幼い頃、夏祭で母様に取ってもらったんだ。[r]
+　“これ”にそっくりなビー玉をな。[r]
+　綺麗で、可愛くて仕方なくて、常に持ち歩いていた」[pcms]
 
 *3243|
 [fc]
 [vo_mar s="maru1661"]
-[ns]Margarita[nse]
-"I took it everywhere, so I lost it several times. After[r]
-making a big fuss, a boy I didn't know found it for me."[pcms]
+[ns]マルガリータ[nse]
+「どこにでも持っていくので紛失したこともある。[r]
+　大騒ぎをしたあげく、[r]
+　見ず知らずの男の子に見つけてもらったよ」[pcms]
 
 *3244|
 [fc]
 [vo_mar s="maru1662"]
-[ns]Margarita[nse]
-"I was so happy..."[pcms]
+[ns]マルガリータ[nse]
+「とても嬉しかった……」[pcms]
 
 *3245|
 [fc]
-Maruko-senpai's face softened as if she was reminiscing[r]
-about something, then suddenly looked lonely.[pcms]
+何かを懐かしむように、和らいでいた先輩の顔が[r]
+ふっと寂しそうになる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f27"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3246|
 [fc]
 [vo_mar s="maru1663"]
-[ns]Margarita[nse]
-"But that marble once again slipped out of my hands. It was[r]
-precious to me..."[pcms]
+[ns]マルガリータ[nse]
+「だが、そのビー玉は再びワタシの手から離れた。[r]
+　大切な物ではあったが……」[pcms]
 
 *3247|
 [fc]
 [vo_mar s="maru1664"]
-[ns]Margarita[nse]
-"I buried it with my mother... in her coffin with her[r]
-remains."[pcms]
+[ns]マルガリータ[nse]
+「母様の棺に……亡骸と共に、埋葬した」[pcms]
 
 *3248|
 [fc]
-[ns]Wataru[nse]
-"In the coffin..."[pcms]
+[ns]航[nse]
+「棺に…………」[pcms]
 
 *3249|
 [fc]
-I couldn't help but let out a deep sigh.[pcms]
+思わず深い溜息が出てしまう。[pcms]
 
 *3250|
 [fc]
-I had heard that Maruko-senpai's mother had passed away, but[r]
-I never knew there was such a sad story... It's a story[r]
-that's too sad... and yet so beautiful...[pcms]
+先輩のお母さんが亡くなったことは聞いていたけれど[r]
+こんな哀しいエピソードがあったなんて……。[r]
+哀しくて……哀しすぎるくらい綺麗な話だ……。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3251|
 [fc]
 [vo_mar s="maru1665"]
-[ns]Margarita[nse]
-"This one... it looks just like that marble. Blue and[r]
-transparent, just like this marble, it was truly a beautiful[r]
-color."[pcms]
+[ns]マルガリータ[nse]
+「これは……あのビー玉にそっくりだ。[r]
+　青くて透き通って、[r]
+　このビー玉と同じように、本当に綺麗な色だったよ」[pcms]
 
 *3252|
 [fc]
-Maruko-senpai sighed and with a melancholic smile, she tried[r]
-to hand the marble over to me.[pcms]
+マル子先輩は、ため息をつきながら、[r]
+憂いを帯びた微笑みを浮かべて、[r]
+ビー玉をボクに手渡そうとした。[pcms]
 
 *3253|
 [fc]
-But I didn't feel like accepting it.[pcms]
+でも、ボクは受け取る気はなかった。[pcms]
 
 *3254|
 [fc]
-It wasn't mine to begin with... After hearing the story, I[r]
-felt like it should belong to Maruko-senpai.[pcms]
+元々、ボクの物でもないし……。[r]
+話をきいていたら、これは先輩が持つべきものなんじゃないか、[r]
+という気がしてきていた。[pcms]
 
 *3255|
 [fc]
-[ns]Wataru[nse]
-"Senpai. Please keep it. We don't know who originally owned[r]
-it, and in this situation, the owner won't appear. It suits[r]
-you better than me."[pcms]
+[ns]航[nse]
+「先輩。それ、持っていて下さい。元々誰のかわからないし、[r]
+　こんな状況じゃ、持ち主も現れないでしょうから。[r]
+　ボクが持ってるより、先輩の方が似合いますしね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f16"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3256|
 [fc]
 [vo_mar s="maru1666"]
-[ns]Margarita[nse]
-"Is it really okay? Even if I keep it..."[pcms]
+[ns]マルガリータ[nse]
+「い、いいのか？　ワタシが預かっても……」[pcms]
 
 *3257|
 [fc]
-Maruko-senpai hesitantly asked while holding the marble[r]
-close to her chest as if it were precious.[pcms]
+差し出そうとしたビー玉を[r]
+自分の胸元に大切そうに捧げ持って、[r]
+マル子先輩はおずおずと聞いてくる。[pcms]
 
 *3258|
 [fc]
 [vo_mar s="maru1667"]
-[ns]Margarita[nse]
-"Are you sure it's not your possession?"[pcms]
+[ns]マルガリータ[nse]
+「本当にキミの持ち物ではないのか？」[pcms]
 
 *3259|
 [fc]
-[ns]Wataru[nse]
-"Don't worry about it. However, if by any chance the owner[r]
-shows up, please return it to them then."[pcms]
+[ns]航[nse]
+「構いませんよ。ただ、万一持ち主が現れたら、その時は[r]
+　その人に返してあげて下さいね」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f17"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3260|
 [fc]
 [vo_mar s="maru1668"]
-[ns]Margarita[nse]
-"Ah... understood. I promise."[pcms]
+[ns]マルガリータ[nse]
+「ああ……わかった。約束する」[pcms]
 
 *3261|
 [fc]
-Gently rolling the marble in her palm with affection,[r]
-Maruko-senpai whispered in a soft voice.[pcms]
+愛おしむようにビー玉をてのひらの中でそっと転がし、[r]
+先輩は小さな声でつぶやく。[pcms]
 
 *3262|
 [fc]
-Her expression was happy and nostalgic, so purely innocent[r]
-that she looked just like a little girl.[pcms]
+嬉しそうで懐かしそうで、あまりにも純粋なその表情は[r]
+まるで小さな女の子のようだった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3263|
 [fc]
 [vo_mar s="maru1669"]
-[ns]Margarita[nse]
-"With this marble, I feel like I can forget the painful[r]
-things a little..."[pcms]
+[ns]マルガリータ[nse]
+「このビー玉があれば辛いことが[r]
+　少しは忘れられそうだ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_f21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3264|
 [fc]
 [vo_mar s="maru1670"]
-[ns]Margarita[nse]
-"I think I can sleep well tonight... Thank you so much,[r]
-Wataru."[pcms]
+[ns]マルガリータ[nse]
+「今日はゆっくり寝られそう。……本当にありがとう、ワタル」[pcms]
 
 *3265|
 [fc]
-[ns]Wataru[nse]
-"Then, let's go to sleep soon. Please rest well, senpai."[pcms]
+[ns]航[nse]
+「じゃあ、そろそろ寝ましょうか。[r]
+　ゆっくり休んで下さい、先輩」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3266|
 [fc]
-Waving her hands happily, Maruko-senpai returned to her[r]
-place and I decided to head to my own bed.[pcms]
+ぱたぱたと手を振り、嬉しそうに自分の場所へと帰る[r]
+先輩を見送って、ボクも寝床へと向かう事にした。[pcms]
 
 *3267|
 [fc]
-Even so, Maruko-senpai has her girlish moments. Like her[r]
-smile just now and her expression when she looked at the[r]
-marble.[pcms]
+それにしても、先輩、女の子らしい所もあるんだな。[r]
+さっきの笑顔といい、ビー玉を見てる時の顔といい。[pcms]
 
 *3268|
 [fc]
-She's not just strong; she also possesses femininity. Senpai[r]
-is really cool...[pcms]
+強いだけじゃなくて、女らしさも兼ね備えているなんて。[r]
+先輩は本当に格好いいな……。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

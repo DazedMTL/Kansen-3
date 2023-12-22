@@ -8,7 +8,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//---------------------------------------------------------------
 ;//block:A001
 
@@ -40,46 +40,45 @@
 
 *6899|
 [fc]
-[ns]Wataru[nse]
-"Maybe I'll head to 'Dedepou'..."[pcms]
+[ns]航[nse]
+「『ででっぽう』に行こうかな……」[pcms]
 
 *6900|
 [fc]
-The provocative content of the imported DVD I found there is[r]
-flickering in my mind.[pcms]
+ボクの脳裏には、あそこで見つけた輸入盤ＤＶＤの、[r]
+扇情的な内容がちらついている。[pcms]
 
 *6901|
 [fc]
-On top of that, the image of Yuuho in her bloomers that I[r]
-accidentally witnessed during the day, and the voices of[r]
-Kousuke and Mizuki... when they were doing it, that I[r]
-happened to overhear.[pcms]
+その上に重なってくるのは、昼間偶然に目撃してしまった、[r]
+悠帆のブルマ姿。たまたま聞いてしまった、[r]
+コースケと瑞樹が……しているときの声。[pcms]
 
 *6902|
 [fc]
-[ns]Wataru[nse]
-"Really... Kousuke, that guy, he's always showing off his[r]
-love life..."[pcms]
+[ns]航[nse]
+「まったく……コースケのやつ、[r]
+　さんざんノロけるんだもんなあ……」[pcms]
 
 *6903|
 [fc]
-As I replay the unseen parts of Kousuke's boastful stories[r]
-in my head, my frustration only grows.[pcms]
+自慢げなコースケの話から、[r]
+見えなかった映像部分まで頭の中で再生していると、[r]
+悶々とした気持ちがますます膨らんでいった。[pcms]
 
 *6904|
 [fc]
-I have no choice but to resolve this with that DVD![pcms]
+ここはひとつ、あのＤＶＤで、解決するしかない！[pcms]
 
 *6905|
 [fc]
-[ns]Wataru[nse]
-"In such a frustrated state... even without being infected,[r]
-my reason could fly out the window..."[pcms]
+[ns]航[nse]
+「こんな、悶々とした状態じゃ……[r]
+　感染してなくても、理性が吹っ飛びかねないよ……」[pcms]
 
 *6906|
 [fc]
-Making such excuses to myself was, admittedly, rather[r]
-cowardly.[pcms]
+そう自分に弁解するあたりが、我ながら小心者だった。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -94,121 +93,121 @@ cowardly.[pcms]
 
 *6907|
 [fc]
-There's no one at "Dedepou." Confirming that, I let out a[r]
-sigh of relief.[pcms]
+『ででっぽう』に、人の姿はない。[r]
+そのことを確認して、ボクは胸を撫で下ろした。[pcms]
 
 *6908|
 [fc]
-[ns]Wataru[nse]
-"If it's just for an hour... it should be okay to leave it[r]
-unattended, right...?"[pcms]
+[ns]航[nse]
+「１時間ぐらいなら……[r]
+　留守にしてても、大丈夫だよな……？」[pcms]
 
 *6909|
 [fc]
-Though I'm anxious, my mood has already switched to self-[r]
-sufficient mode.[pcms]
+不安はあるけれど、既にボクの気持ちは、[r]
+自家発電モードに切り替わっている。[pcms]
 
 *6910|
 [fc]
-Thinking of the title and the fragmented content, I consider[r]
-which one to use as my material while heading first to the[r]
-staff's nap room.[pcms]
+題名と、断片的な内容を思い浮かべて、[r]
+どれをオカズにしようか考えながら、[r]
+まずはスタッフ用の仮眠室に足を向けた。[pcms]
 
 ;//〆黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *6911|
 [fc]
-Even though I know no one is there, I still sneak up the[r]
-stairs. But halfway there, I stop in my tracks.[pcms]
+誰もいないとわかっていても、つい人目を忍んで階段を上がる。[r]
+だがその途中で、ボクは足を止めた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6912|
 [fc]
 [vo_mar s="maru_TT0001"]
-[ns]Margarita[nse]
-"...Mmm... Ahh... Ahn! Ah, haaah...!"[pcms]
+[ns]マルガリータ[nse]
+「……ん……はぁ……あんっ！　あっ、はあぁぁ……っ！」[pcms]
 ;//＠発言者名を？？？に変更。文字を×にするのもアリ
 
 *6913|
 [fc]
-...Is someone already here, watching?![pcms]
+…………誰かが先に来て、見てる？！[pcms]
 
 *6914|
 [fc]
-My heart races, and I freeze. Who could it be?[pcms]
+心臓が弾み、身がすくむ。[r]
+いったい誰だ。[pcms]
 
 *6915|
 [fc]
-The most likely candidate is Kousuke, but he's with Mizuki[r]
-right now.[pcms]
+いちばんそれっぽいのはコースケだけど、[r]
+今のあいつには瑞樹がいる。[pcms]
 
 *6916|
 [fc]
-If not him... then maybe Jin-san, though he doesn't seem the[r]
-type to watch AVs, or possibly Shigeyoshi...[pcms]
+だとすると……、どうもＡＶを見るイメージはないけど壬さんか、[r]
+あと可能性があるとすれば重吉か……。[pcms]
 
 *6917|
 [fc]
-Anyway, I can easily imagine how awkward it would be if I[r]
-carelessly walked in on them. I move a little closer to take[r]
-a peek.[pcms]
+とにかく、迂闊に踏み込んだら相当気まずい事態になるのは、[r]
+男子として容易に想像がついた。[r]
+もう少し進んで、様子を窺ってみる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6918|
 [fc]
 [vo_mar s="maru_TT0002"]
-[ns]Margarita[nse]
-"...Haaaah, ah, ahhh, ahhaaah~!"[pcms]
+[ns]マルガリータ[nse]
+「……はああぁぁ、あっ、あああっ、あはあぁぁ～っ！」[pcms]
 ;//＠発言者名を？？？に変更。文字を×にするのもアリ
 
 *6919|
 [fc]
-The panting is now clearer than before. Something feels off.[pcms]
+喘ぎ声が先ほどよりもはっきりと聞こえてきた。[r]
+違和感を覚える。[pcms]
 
 *6920|
 [fc]
-[ns]Wataru[nse]
-"...Somehow, it sounds like a voice I've heard before...?"[pcms]
+[ns]航[nse]
+「……なんか、聞いたことのある声だな……？」[pcms]
 
 *6921|
 [fc]
-I've never seen such a hardcore AV before. With suspicion, I[r]
-move forward and finally approach the nap room.[pcms]
+あんなハードなＡＶ、これまでに見た経験はないはずだけど。[r]
+訝りながら足を進め、とうとう仮眠室の前まで接近した。[pcms]
 
 *6922|
 [fc]
-The desperate and indecent moans echo down the hallway. Just[r]
-imagining what bold scene might be unfolding is enough to[r]
-excite me, and my little brother is already standing at[r]
-attention.[pcms]
+切なくあられもない喘ぎ声は、廊下にまで響いている。[r]
+どんだけ大胆な場面が繰り広げられてるんだ、と妄想するだけで、[r]
+ボクの愚息は早くも元気になっていた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6923|
 [fc]
 [vo_mar s="maru_TT0003"]
-[ns]Margarita[nse]
-"...Nfu, nn, kuaaah, haaah, ahi~!"[pcms]
+[ns]マルガリータ[nse]
+「……んふっ、んっ、くあああぁっ、はああぁ、あひぃぃっ！」[pcms]
 ;//＠発言者名を？？？に変更。文字を×にするのもアリ
 
 *6924|
 [fc]
-The loud moans make me flinch as I look down to see shoes[r]
-carelessly thrown aside, leaving the door half-open.[pcms]
+あまりにけたたましい嬌声に、逆にたじろぎながら視線を落とす。[r]
+乱暴に脱ぎ捨てられた靴が挟まって、ドアが半開きになっていた。[pcms]
 
 *6925|
 [fc]
-Who could be so frantic to enter and indulge in pleasure[r]
-like this...[pcms]
+いったい誰が、こんなに慌てて侵入してまで、[r]
+享楽に耽っているのやら……。[pcms]
 
 *6926|
 [fc]
-Leaning forward, I can easily see from the entrance to the[r]
-back of the narrow room. When I see who's inside, I almost[r]
-scream.[pcms]
+身を乗り出すと、狭い室内は入口から奥まで簡単に見通せた。[r]
+奥にいる人の姿が解ったとき、危うく叫びそうになる。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -229,80 +228,77 @@ scream.[pcms]
 
 *6927|
 [fc]
-On the bed in the nap room lies Maruko-senpai, completely[r]
-naked.[pcms]
+仮眠室のベッドの上に、[r]
+マル子先輩が全裸で横たわっていた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6928|
 [fc]
 [vo_mar s="maru_TT0004"]
-[ns]Margarita[nse]
-"Hic... Ah, ah, ahh! Haaah... Nnn, nnnk, kuaaah... Aaah,[r]
-good...!"[pcms]
+[ns]マルガリータ[nse]
+「ひっ……あ、あ、あぁぁっ！　はあぁぁ……、ん、んっ、[r]
+　くああぁぁ…………、あぁぁ、いっ、いい……っ！」[pcms]
 
 *6929|
 [fc]
-Her well-trained body arches like a bow, her hips lifted[r]
-high as she frantically moves her hand placed between her[r]
-legs.[pcms]
+鍛え上げた肢体を弓なりにしならせ、腰を大きく浮かせて、[r]
+股間に添えた手を激しく蠢かせている。[pcms]
 
 *6930|
 [fc]
-How long has she been pleasuring herself? Her inner thighs[r]
-are already drenched; the sheets beneath her butt are soaked[r]
-with sweat and love juices, and occasionally squirted[r]
-fluids.[pcms]
+いったいいつから自分を慰めていたのか、[r]
+既に内股はしとどに濡れ、尻の下のシーツも、汗と愛液、[r]
+そして時折噴き出る潮で、びしょびしょになっていた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6931|
 [fc]
 [vo_mar s="maru_TT0005"]
-[ns]Margarita[nse]
-"I feel it...! It's amazing... Hauuh! Afuaah, haahn, naaah,[r]
-ahh, ah!"[pcms]
+[ns]マルガリータ[nse]
+「か、感じるぅ……っ！　す、すごい……ぃ……、はうぅっ！[r]
+　あふああぁ、はあぁんっ、んああぁっ、あぁ、あ、ああっ！」[pcms]
 
 *6932|
 [fc]
-Her usually dignified demeanor is nowhere to be found as she[r]
-melts into lewdness. Watching her excites me so much that I[r]
-swallow hard.[pcms]
+いつもの凜とした佇まいが思い出せないほど、淫らに蕩けた表情。[r]
+眺めているボクのほうまで興奮して、ごくん、と唾を飲んだ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6933|
 [fc]
 [vo_mar s="maru_TT0006"]
-[ns]Margarita[nse]
-"Nhaaah, ah! Ahhaahn! It's tingling! It's... good! So good![r]
-...Kuhaa!"[pcms]
+[ns]マルガリータ[nse]
+「んはああぁ、あっ、あはあぁんっ！　ゾクゾクするぅっ！[r]
+　いっ、い……いいっ、いいのぉっ！　すごく、いいっ！[r]
+　……くはあっ！」[pcms]
 
 ;//Ｂ：オナニー・快感
 [evcg storage="HEV042b"][trans_c cross time=300]
 
 *6934|
 [fc]
-Suddenly, Maruko-senpai throws her head back as if struck.[r]
-She gasps for breath violently and moans while her long hair[r]
-dances around.[pcms]
+突然、マル子先輩は打たれたように顎を反らせる。[r]
+むせるように激しく息を吸い、長い髪を躍らせて喘ぐ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6935|
 [fc]
 [vo_mar s="maru_TT0007"]
-[ns]Margarita[nse]
-"Hic, nnn! Nhaaah! It's coming! Aaah! It's coming! The[r]
-tingles are rushing in! Hahi~!"[pcms]
+[ns]マルガリータ[nse]
+「ひっ、んんっ！　んはあぁぁっ！　く、来るっ！　ああぁっ！[r]
+　来るっ！　ビリビリ来てるぅっ！　はひぃぃっ！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6936|
 [fc]
 [vo_mar s="maru_TT0008"]
-[ns]Margarita[nse]
-"Nahh, ah, ah, ah, ahhhh haaah----!"[pcms]
+[ns]マルガリータ[nse]
+「んあっ、あ、あ、あ、あああぁはあぁああぁあーーーーっ！」[pcms]
 ;//＠いきました
 
 [evcg射精フラ storage="HEV042c"]
@@ -310,30 +306,29 @@ tingles are rushing in! Hahi~!"[pcms]
 
 *6937|
 [fc]
-She points her toes and stiffens her legs as she roars.[r]
-Watching her from nearby makes me worry that someone might[r]
-notice us because of how intensely Maruko- senpai climaxes.[pcms]
+爪先を反らせ、脚を突っ張って、咆哮する。[r]
+傍で眺めているボクのほうが、誰かに気づかれるんじゃないかと、[r]
+不安になるほど激しく、マル子先輩は達した。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6938|
 [fc]
 [vo_mar s="maru_TT0009"]
-[ns]Margarita[nse]
-"Fuaah... Ah, haaah... Ahh, nnnh, nnh"[pcms]
+[ns]マルガリータ[nse]
+「ふあぁ……、あ、はああぁぁ……あっ、んんっ、んっ」[pcms]
 ;//＠余韻
 
 *6939|
 [fc]
-Sinking into the damp sheets soaked with her bodily fluids,[r]
-Maruko-senpai catches her breath in the afterglow of[r]
-ecstasy.[pcms]
+自分の体液でしっとりと濡れたシーツに身体を沈め、[r]
+マル子先輩は法悦の余韻に荒い息をつく。[pcms]
 
 *6940|
 [fc]
-But even then, the hand placed on her genitals continues to[r]
-twitch restlessly. Maruko-senpai widens her eyes as if she[r]
-just realized this.[pcms]
+けれど、そうしているあいだも、[r]
+陰部に添えた手がむずむずと蠢いていた。[r]
+そのことに、途中で気づいたように、マル子先輩は目を見張る。[pcms]
 
 [evcg storage="HEV042a"][trans_c cross time=300]
 
@@ -342,30 +337,30 @@ just realized this.[pcms]
 *6941|
 [fc]
 [vo_mar s="maru_TT0010"]
-[ns]Margarita[nse]
-"Ah! Aaah... Doing something like this... Ahh! No... Stop...[r]
-Ahh!"[pcms]
+[ns]マルガリータ[nse]
+「あっ、ああぁ……、こんなことをしていては……、ああっ！[r]
+　だ、だめっ……、い、いやっ、あっ、いっ、だめぇっ！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6942|
 [fc]
 [vo_mar s="maru_TT0011"]
-[ns]Margarita[nse]
-"Nha! Aaah! Noo... My fingers... Aaah, they're moving on[r]
-their own...!"[pcms]
+[ns]マルガリータ[nse]
+「んはっ！　あああっ、あっ、だっ、だめぇ……っ[r]
+　指が……、ああぁ、もう、勝手に……っ！」[pcms]
 
 *6943|
 [fc]
-She seems unable to control her own actions. Though less[r]
-intense than before, Maruko-senpai's fingers steadily rub[r]
-her clit and relentlessly tease her dripping slit.[pcms]
+自分で自分の行動が制御できないようだった。[r]
+先ほどよりは緩やかだけど、マル子先輩の指は着実に陰核を擦り、[r]
+蜜を滴らせた淫裂を絶え間なく嬲る。[pcms]
 
 *6944|
 [fc]
-Trembling eyelids and lips betray her agony. Her moans are[r]
-nasal and filled with a lustiness unimaginable from the[r]
-usual senpai.[pcms]
+瞼や唇を小刻みに震わせて、マル子先輩は身悶える。[r]
+その喘ぎは鼻にかかって、[r]
+いつもの先輩からは想像できないくらい、艶を帯びていた。[pcms]
 
 [evcg storage="HEV042b"][trans_c cross time=300]
 ;//Ｃ：オナニー・絶頂寸前
@@ -375,50 +370,49 @@ usual senpai.[pcms]
 *6945|
 [fc]
 [vo_mar s="maru_TT0012"]
-[ns]Margarita[nse]
-"Nnn... Nnk... Ahh! Again... It's coming again! My vagina's[r]
-depths are burning!"[pcms]
+[ns]マルガリータ[nse]
+「ん……んっ、んっく……あっ、また……、また、来るぅっ！[r]
+　ヴァギナの……奥が、熱いぃぃっ！　っくぅぅぅん！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6946|
 [fc]
 [vo_mar s="maru_TT0013"]
-[ns]Margarita[nse]
-"Hihh! Ahh! Naaaah! Fuaaah! It's good! It's so good there![r]
-Eeei!"[pcms]
+[ns]マルガリータ[nse]
+「はひっ、あっ、んあああぁっ！　ふ、あああぁぁっ！[r]
+　いいっ、いいのっ！　そこぉっ！　い、いいいぃ……っ！」[pcms]
 
 [メスフラ]
 
 *6947|
 [fc]
-The movement of her fingers becomes intense again. Love[r]
-juices splatter through the gaps between her fingers as the[r]
-sound of her flesh rubbing obscenely can be heard.[pcms]
+指の動きがふたたび激しくなる。指の隙間から愛液が飛び散り、[r]
+股間から媚肉が淫らにこすれる音さえ聞こえてきた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6948|
 [fc]
 [vo_mar s="maru_TT0014"]
-[ns]Margarita[nse]
-"It's good... So good! Can't stop it! Can't stop it! Hahi~!"[pcms]
+[ns]マルガリータ[nse]
+「いっ、いい……、いいっ……！　止められないぃ……っ！[r]
+　止められないのぉっ！　いっ、はひぃぃぃっ！」[pcms]
 
 *6949|
 [fc]
-Her voice grows higher. Overcome with sensation, she sounds[r]
-almost like she's mewling. Her breaths, mixed with moans,[r]
-become hotter and more ragged. I naturally grip the door[r]
-handle tighter.[pcms]
+声が高くなる。感極まって、まるで鳴いているようだった。[r]
+喘ぎ声に混じる吐息も熱く、荒くなっていく。[r]
+ボクはドアを握る手に、自然と力をこめていた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6950|
 [fc]
 [vo_mar s="maru_TT0015"]
-[ns]Margarita[nse]
-"Nhaaah, it's coming! It's coming! Oooooh! Yes! Yes! Yes![r]
-I'm, cumming!"[pcms]
+[ns]マルガリータ[nse]
+「んああぁぁっ、来るっ！　来るぅぅっ！　おおおおおっ！[r]
+　イエスっ！　イエスっ！　イエスっ！　アイム、カミングっ！」[pcms]
 
 ;//Ｄ：オナニー潮吹き絶頂
 [evcg射精フラ storage="HEV042c"]
@@ -429,22 +423,22 @@ I'm, cumming!"[pcms]
 *6951|
 [fc]
 [vo_mar s="maru_TT0016"]
-[ns]Margarita[nse]
-"Kuh, gyiiiiii--------...!!"[pcms]
+[ns]マルガリータ[nse]
+「くっ、ぎぃぃぃぃぃぃーーーーーーーー………っ！！」[pcms]
 
 *6952|
 [fc]
-It's her second orgasm, probably even more intense than[r]
-before. She arches her hips as if piercing the heavens, and[r]
-a squirt gushes out from her slit like a fountain.[pcms]
+二度目の、たぶん先ほどよりも強烈なオルガスムス。[r]
+ぐい、っと天を突くかの如く腰を浮かせると、[r]
+淫裂から潮が噴水のように放出した。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6953|
 [fc]
 [vo_mar s="maru_TT0017"]
-[ns]Margarita[nse]
-"Hiiih, kah! Hahiiiih, nnnnnn!!"[pcms]
+[ns]マルガリータ[nse]
+「ひぃぃっ、かはっ！　はひぃぃぃっ、んんんんっ！！」[pcms]
 
 [evcg射精フラ storage="HEV042c"]
 
@@ -452,28 +446,27 @@ a squirt gushes out from her slit like a fountain.[pcms]
 
 *6954|
 [fc]
-Maruko-senpai's body convulses violently. After writhing in[r]
-agony for a while, she collapses back onto the bed with a[r]
-thud.[pcms]
+マルガリータ先輩の肢体ががくがくと痙攣する。[r]
+しばしそうして悶絶したあと、ばすん、と音を立てて、[r]
+マル子先輩はふたたびベッドに身を委ねた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6955|
 [fc]
 [vo_mar s="maru_TT0018"]
-[ns]Margarita[nse]
-"Hiaaah... ah, afu... hahiuhuu... nnn, haaaah... ahh...[r]
-ha..."[pcms]
+[ns]マルガリータ[nse]
+「ひああぁぁ……、あ、あふ……、はひぅぅぅ……、[r]
+　んっ、はああぁぁぁ……、あぁぁ……、はぁ……」[pcms]
 
 *6956|
 [fc]
-While gasping roughly, Maruko-senpai continues to play with[r]
-her clit as if savoring the afterglow.[pcms]
+荒く息をつきながら、余韻を堪能するように、[r]
+マル子先輩は華奢な指でなおも陰核をいじっている。[pcms]
 
 *6957|
 [fc]
-It seems less like she's seeking further pleasure and more[r]
-like she's soothing herself.[pcms]
+更なる快感を欲している、というより、宥めているみたいだった。[pcms]
 
 [evcg storage="HEV042a"][trans_c cross time=300]
 
@@ -482,17 +475,17 @@ like she's soothing herself.[pcms]
 *6958|
 [fc]
 [vo_mar s="maru_TT0019"]
-[ns]Margarita[nse]
-"Nhaaah... haa, haa... ah... ahhhh"[pcms]
+[ns]マルガリータ[nse]
+「んはぁぁ……はぁ、はぁ……あ……あぁぁ」[pcms]
 
 *6959|
 [fc]
-Maruko-senpai lovingly gazes at her fingertips, smeared with[r]
-her own fluids.[pcms]
+マル子先輩は、自分の粘液にまみれた指先を、[r]
+愛おしげに見つめる。[pcms]
 
 *6960|
 [fc]
-Eventually, she slowly brings her fingers to her mouth.[pcms]
+やがて、ゆっくりとその指を、口に含んだ。[pcms]
 
 ;//・口元カットイン　指舐め
 [evcg storage="HEV042b"][trans_c cross time=300]
@@ -502,18 +495,18 @@ Eventually, she slowly brings her fingers to her mouth.[pcms]
 *6961|
 [fc]
 [vo_mar s="maru_TT0020"]
-[ns]Margarita[nse]
-"Nn, chu... chu-puru... nchu..."[pcms]
+[ns]マルガリータ[nse]
+「んっ、ちゅ……っ……ちゅぷるっ……んちゅっ……」[pcms]
 ;//＠ゆびをなめる
 
 *6962|
 [fc]
-Her expression is one of ecstasy, as if intoxicated.[pcms]
+恍惚と、酔いしれたような表情。[pcms]
 
 *6963|
 [fc]
-Maruko-senpai continues to suck on her love juices without[r]
-growing tired of it for a while.[pcms]
+マル子先輩はしばらく、飽きもせずに、[r]
+自らの愛液をすすっていた。[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -539,52 +532,50 @@ growing tired of it for a while.[pcms]
 
 *6964|
 [fc]
-[ns]Wataru[nse]
-"...I've seen something unbelievable...!"[pcms]
+[ns]航[nse]
+「…………と、とんでもないもの、見ちゃったよ……！」[pcms]
 
 *6965|
 [fc]
-I mutter to myself in a whisper.[pcms]
+ボクは小声でひとり呟く。[pcms]
 
 *6966|
 [fc]
-Never would I have imagined that Maruko-senpai was the one[r]
-here before me. And to think she was masturbating so[r]
-intensely and lewdly.[pcms]
+まさか、先客がマル子先輩だったなんて。[r]
+しかもこんなに激しく、淫らなオナニーをしてるなんて。[pcms]
 
 *6967|
 [fc]
-Though it was accidental, I feel guilty for peeping. If[r]
-Maruko-senpai knew she was seen, it would hurt her so much.[pcms]
+偶然とはいえ覗き見してしまった罪悪感もあるけれど、[r]
+見られたなんてマル子先輩が知ったら、どれほど傷つくか。[pcms]
 
 *6968|
 [fc]
-For both our sakes, it seems best to pretend I didn't see[r]
-anything.[pcms]
+お互いのためには、見なかったことにするのが最善の気がした。[pcms]
 
 *6969|
 [fc]
-I quietly step back.[pcms]
+そう、っと身を引く。[pcms]
 
 *6970|
 [fc]
-But my crotch has firmly reacted to Maruko-senpai's lewd[r]
-behavior, and trying to move quickly in this awkward half-[r]
-crouched position was a mistake.[pcms]
+けれど、マル子先輩の痴態にボクの股間はしっかり反応していて、[r]
+中腰のみっともない格好で素速く行動しようとしたのが[r]
+間違いだった。[pcms]
 
 [se buf=0 storage="se042"]
 
 *6971|
 [fc]
-My knee hits the door.[pcms]
+膝が、ドアを打つ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *6972|
 [fc]
 [vo_mar s="maru_TT0021"]
-[ns]Margarita[nse]
-"...!?"[pcms]
+[ns]マルガリータ[nse]
+「……っ！？」[pcms]
 ;//＠音に気付く
 
 ;//〆黒画面（仮眠室？？）
@@ -596,33 +587,32 @@ My knee hits the door.[pcms]
 *6973|
 [fc]
 [vo_mar s="maru_TT0022"]
-[ns]Margarita[nse]
-"Who's there!? Who is it... who's there!?"[pcms]
+[ns]マルガリータ[nse]
+「誰っ！？　そこにいるのは……誰だっ！？」[pcms]
 
 *6974|
 [fc]
-Maruko-senpai snaps back to reality and sharply asks while[r]
-covering her body with a blanket in a strained voice.[pcms]
+我に返ったマル子先輩が、毛布で身体を覆いながら、[r]
+上擦った声で鋭く問いかけた。[pcms]
 
 [eval exp="f.l_nozoki = 1"]
 [eval exp="f.l_route2_m = 1"]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１
-;//１１：逃げる→block:T50010
-;//１２：答える→block:T50020
+;//●選択肢Ａ－１
+;//１－１：逃げる→block:T50010
+;//１－２：答える→block:T50020
 
 
 ;	[link storage="T50010.ks" target=*T50010_TOP]逃げる[endlink]
-; (link storage="T50020.ks"[r]
-target=*T50020_TOP)Answer(endlink)[pcms]
+;	[link storage="T50020.ks" target=*T50020_TOP]答える[endlink][s]
 
 *SEL75|逃げる／答える
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Escape'"]
-[eval exp="f.seltext04 = 'Answer'"]
+[eval exp="f.seltext02 = '逃げる'"]
+[eval exp="f.seltext04 = '答える'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

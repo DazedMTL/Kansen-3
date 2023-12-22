@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//・登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹
 ;//・テキスト容量：
@@ -45,42 +45,42 @@
 
 *3750|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……………………」[pcms]
 
 *3751|
 [fc]
-I couldn't say anything.[pcms]
+何も言えなかった。[pcms]
 
 *3752|
 [fc]
-Not just me, everyone fell silent.[pcms]
+ボクだけじゃなく全員が黙りこくってしまった。[pcms]
 
 *3753|
 [fc]
-Knowing that there were no other options left, I couldn't[r]
-find anything to say.[pcms]
+他の方法などもはやないということを知っている以上、[r]
+言えることなど見つからなかった。[pcms]
 
 *3754|
 [fc]
-Seeing this, Jin-san seemed to interpret it as agreement and[r]
-turned his back to us, about to walk away.[pcms]
+それを見た壬さんは合意が得られたものと解釈したらしく、[r]
+ボクらに背を向けて歩き出そうとした。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3755|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *3756|
 [fc]
-But then, Jin-san's feet came to a sudden halt.[pcms]
+だが、その壬さんの足がピタリと止まる。[pcms]
 
 *3757|
 [fc]
-[ns]Wataru[nse]
-"...Huh?"[pcms]
+[ns]航[nse]
+「……え？」[pcms]
 
 ;//悠帆見送り
 ;[evcg storage="EV014e"][trans_c cross time=300]
@@ -88,61 +88,60 @@ But then, Jin-san's feet came to a sudden halt.[pcms]
 
 *3758|
 [fc]
-When I looked, Yuuho was standing at the entrance of the[r]
-dome.[pcms]
+見ると、ドームの入り口に悠帆が立っていた。[pcms]
 
 *3759|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!?"[pcms]
+[ns]航[nse]
+「悠帆っ！？」[pcms]
 
 *3760|
 [fc]
-As if she knew what we were all thinking... Yuuho, who had[r]
-changed into her uniform at some point, was there.[pcms]
+ボクたちが何を考えているのか、知っているかのように……。[r]
+いつの間にか制服に着替えた悠帆が、そこにいた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b33"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3761|
 [fc]
 [vo_yuh s="yuho_B0011"]
-[ns]Yuuho[nse]
-"Wataru...? Sa, earlier, I... I'm sorry, okay...?"[pcms]
+[ns]悠帆[nse]
+「航……？　さ、さっき、は……ごめん、ね……？」[pcms]
 ;//＠ここから先。必死で正気を保つ。
 
 *3762|
 [fc]
-While her words trailed off, Yuuho spoke to me as if[r]
-squeezing the voice from her throat.[pcms]
+言葉を途切れさせながら、喉から声を絞り出すようにしながら[r]
+悠帆がボクに語りかけてきた。[pcms]
 
 *3763|
 [fc]
 [vo_yuh s="yuho_B0012"]
-[ns]Yuuho[nse]
-"I wanted to... say a final goodbye... So I came... While I[r]
-still can... be myself..."[pcms]
+[ns]悠帆[nse]
+「最後の、あいさつ……したく、て……来ちゃった……。[r]
+　ま、まだ……、自分で、いられる、うち、に……」[pcms]
 
 *3764|
 [fc]
-Her eyes were still bright red, but upon closer inspection,[r]
-they were clearly focused on me.[pcms]
+瞳の色はやっぱり真っ赤だったけど、[r]
+よく見るとボクにしっかりと焦点が結ばれていた。[pcms]
 
 *3765|
 [fc]
-[ns]Wataru[nse]
-"...You understand us, don't you?"[pcms]
+[ns]航[nse]
+「……ボクたちが、分かるんだね？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3766|
 [fc]
-[ns]Kousuke[nse]
-"For real!? So Yuuho, you've come back to your senses!?"[pcms]
+[ns]浩助[nse]
+「マジ！？　そんじゃ、悠帆、正気に戻ったのか！？」[pcms]
 
 *3767|
 [fc]
-As we tried to rush over, Yuuho held us back by pushing out[r]
-her hands in front of her.[pcms]
+駆け寄ろうとするボクたちを、[r]
+悠帆は両手を前に突き出すようにして押しとどめた。[pcms]
 
 ;[evcg storage="EV014f"][trans_c cross time=300]
 [ChrSetEx layer=5 chbase="yuho_b34"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -150,22 +149,22 @@ her hands in front of her.[pcms]
 *3768|
 [fc]
 [vo_yuh s="yuho_B0013"]
-[ns]Yuuho[nse]
-"Um... you know? I'm... going outside... okay?"[pcms]
+[ns]悠帆[nse]
+「あの……ね？　わた、し……、外に、出る……ね？」[pcms]
 
 *3769|
 [fc]
-The words she told us made us catch our breath.[pcms]
+告げられた言葉に、ボクたちは息を呑む。[pcms]
 
 *3770|
 [fc]
-Outside... You don't mean outside the building!? You're[r]
-going out into a city filled with infected people!?[pcms]
+外って……、まさか、ビルの外に！？[r]
+感染者だらけの街に出ていくっていうのか！？[pcms]
 
 *3771|
 [fc]
-[ns]Wataru[nse]
-"Yuuho! You can't do that! Why...!"[pcms]
+[ns]航[nse]
+「悠帆っ！　ダメだよそんなこと！　なんで……！」[pcms]
 
 
 [ChrSetEx layer=5 chbase="yuho_b33"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -173,33 +172,33 @@ going out into a city filled with infected people!?[pcms]
 *3772|
 [fc]
 [vo_yuh s="yuho_B0014"]
-[ns]Yuuho[nse]
-"To have someone... kill me... That's such a heavy burden...[r]
-I can't do that..."[pcms]
+[ns]悠帆[nse]
+「だ、れかに……殺して、もらう、なんて……[r]
+　そんな、重たい、荷物……、だ、ダメ、だよ……」[pcms]
 
 *3773|
 [fc]
-Yuuho slowly shook her head.[pcms]
+悠帆はゆるゆると首を振る。[pcms]
 
 *3774|
 [fc]
-[ns]Wataru[nse]
-"So... that means..."[pcms]
+[ns]航[nse]
+「そ……それって……」[pcms]
 
 *3775|
 [fc]
-She doesn't want to burden anyone with the guilt of 'having[r]
-killed' her, so she's saying she'll go out into the city[r]
-alone... Is that it?[pcms]
+誰かに「殺させた」罪を背負わせたくないから、[r]
+だから、自分だけが外の街に行こうって……そういうことか？[pcms]
 
 *3776|
 [fc]
-Why, Yuuho! Why can you be so considerate of others at a[r]
-time like this when you're on the brink of death...!?[pcms]
+なんでだよ……悠帆！[r]
+どうして自分が死にかけてるこんな時に、[r]
+人のことが思いやれるんだよ……！？[pcms]
 
 *3777|
 [fc]
-I could no longer hold back my tears at her kindness.[pcms]
+その優しさにボクはもう、涙をおさえることができなかった。[pcms]
 
 ;[evcg storage="EV014e"][trans_c cross time=300]
 [ChrSetEx layer=5 chbase="yuho_b33"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -207,30 +206,30 @@ I could no longer hold back my tears at her kindness.[pcms]
 *3778|
 [fc]
 [vo_yuh s="yuho_B0015"]
-[ns]Yuuho[nse]
-"And besides... maybe, just maybe, they'll find a cure... So[r]
-I'm going to... try hard... and survive a bit longer..."[pcms]
+[ns]悠帆[nse]
+「そ、それに……も、もしか、したら、[r]
+　治療、薬……見つかる、かも……だから……、[r]
+　がんば、って……、生き、のびて、みる……よ」[pcms]
 
 *3779|
 [fc]
 [vo_yuh s="yuho_B0016"]
-[ns]Yuuho[nse]
-"There are many others outside... just like me... And maybe[r]
-I can help... find my dad and mom..."[pcms]
+[ns]悠帆[nse]
+「外には……おんなじ、ヒト、いっぱい、だし……、[r]
+　もし、かして……、お父さんと……母さん、も……」[pcms]
 
 *3780|
 [fc]
-With a cute giggle and sticking out her tongue playfully,[r]
-Yuuho tried to lighten the mood for us who stood there[r]
-speechless.[pcms]
+えへへ、と可愛らしく舌を出して悠帆はおどける。[r]
+一言もなく立ち尽くすボクたちを気遣うかのように……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b34"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3781|
 [fc]
 [vo_yuh s="yuho_B0017"]
-[ns]Yuuho[nse]
-"...So... goodbye..."[pcms]
+[ns]悠帆[nse]
+「…………だ、から…………、さよなら……」[pcms]
 
 ;//黒フェード
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -240,21 +239,21 @@ speechless.[pcms]
 
 *3782|
 [fc]
-Turning her back to us, Yuuho staggered down towards the[r]
-lower floors.[pcms]
+ボクたちに背を向けると、[r]
+悠帆はよたよたと下の階へと向かい歩き出した。[pcms]
 
 *3783|
 [fc]
-Faced with such a shocking reality, all of us were delayed[r]
-in chasing after Yuuho.[pcms]
+あまりにも衝撃的な事実に、ボクたちはみんな、[r]
+悠帆を追いかけるのが遅れてしまった。[pcms]
 
 [bg storage="BG08e"][trans_c cross time=500]
 ;[eval exp="f.l_map = 18"]
 
 *3784|
 [fc]
-By the time we finally caught up to her, Yuuho had already[r]
-reached the entrance of the LASER.[pcms]
+やっとの事で追いついた時には、悠帆は既に[r]
+ＬＡＳＥＲの入り口の所まで来てしまっていた。[pcms]
 
 ;mm追加
 [bgm storage="BGM17"]
@@ -264,8 +263,8 @@ reached the entrance of the LASER.[pcms]
 *3785|
 [fc]
 [vo_ren s="ren_B0003"]
-[ns]Ren[nse]
-"No way, Yuuho-chan! I don't want this...!"[pcms]
+[ns]漣[nse]
+「いやぁ、悠帆ちゃぁん！　こんなの、いやだよ……！」[pcms]
 
 
 ;mm追加
@@ -273,115 +272,116 @@ reached the entrance of the LASER.[pcms]
 
 *3786|
 [fc]
-Ren reached out both hands towards Yuuho and cried out. But[r]
-Yuuho just smiled back warmly.[pcms]
+漣が悠帆に向かって両手を差し伸べ、泣き叫ぶ。[r]
+けれど悠帆はニッコリと笑い返した。[pcms]
 
 *3787|
 [fc]
 [vo_yuh s="yuho_B0018"]
-[ns]Yuuho[nse]
-"Please take care of Wataru... okay?"[pcms]
+[ns]悠帆[nse]
+「わ、たるを……よろしく、ね……？」[pcms]
 
 *3788|
 [fc]
-Then Yuuho turned to face Kousuke and Mizuki.[pcms]
+次いで悠帆はコースケと瑞樹に向き直る。[pcms]
 
 *3789|
 [fc]
 [vo_yuh s="yuho_B0019"]
-[ns]Yuuho[nse]
-"Mizuki... Kousuke... Always stay friends..."[pcms]
+[ns]悠帆[nse]
+「み、ずき……、コースケ……、[r]
+　いつまでも、なか、よく……」[pcms]
 
 *3790|
 [fc]
 [vo_miz s="mizuki_B0006"]
-[ns]Mizuki[nse]
-"Yuuho! Waaah---!"[pcms]
+[ns]瑞樹[nse]
+「ユウホぉっ！　わあぁぁーーーっ！」[pcms]
 ;//＠顔をおおって号泣。
 
 *3791|
 [fc]
-[ns]Kousuke[nse]
-"You idiot... *sniff*..."[pcms]
+[ns]浩助[nse]
+「ばっきゃろぉ……っ、ぐすっ……」[pcms]
 
 *3792|
 [fc]
-Holding Mizuki's shoulders as she covered her face and[r]
-sobbed uncontrollably, Kousuke rubbed his nose and looked[r]
-down.[pcms]
+顔を覆って号泣する瑞樹の肩をしっかりと抱きながら[r]
+コースケは鼻の下をこすって、うつむいてしまう。[pcms]
 
 *3793|
 [fc]
-Next, Yuuho turned to face Senior Maruko.[pcms]
+次に悠帆が顔を向けたのは、マル子先輩だった。[pcms]
 
 [evcg storage="EV014f"][trans_c cross time=300]
 
 *3794|
 [fc]
 [vo_yuh s="yuho_B0020"]
-[ns]Yuuho[nse]
-"Senpai... thank you... for everything."[pcms]
+[ns]悠帆[nse]
+「せ、んぱ……、あり、がと……ございま……した」[pcms]
 
 *3795|
 [fc]
-The senior opened her mouth as if to say something in return[r]
-but then straightened her expression and saluted.[pcms]
+先輩は、何か言葉を返そうと口を開きかけ、[r]
+それからキッと表情を改めるなり、敬礼の仕草をした。[pcms]
 
 *3796|
 [fc]
 [vo_mar s="maru_B0004"]
-[ns]Margarita[nse]
-"...I wish you good luck!"[pcms]
+[ns]マルガリータ[nse]
+「…………健闘を、祈る！」[pcms]
 
 *3797|
 [fc]
-And then Yuuho bowed to Jin-san and the others who had been[r]
-watching us from a distance.[pcms]
+そして悠帆は、[r]
+少し離れたところからボクらを見守っていた[r]
+壬さんたちに頭を下げた。[pcms]
 
 *3798|
 [fc]
 [vo_yuh s="yuho_B0021"]
-[ns]Yuuho[nse]
-"...Jin-san... Shige-san too... Thank you for everything..."[pcms]
+[ns]悠帆[nse]
+「……ジンさん……シゲ、さんも……。[r]
+　おせわに、なり……ま、した……」[pcms]
 
 *3799|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「………………」[pcms]
 
 *3800|
 [fc]
-[ns]Shigeyoshi[nse]
-"...Why... Why does a kid like you..."[pcms]
+[ns]重吉[nse]
+「……なんで……お前みたいな子が……」[pcms]
 
 *3801|
 [fc]
-Jin-san silently nodded in response, and Shigeyoshi turned[r]
-away with a sulky look.[pcms]
+壬さんは黙ってうなずき返し、重吉は拗ねたようにそっぽを向く。[pcms]
 
 *3802|
 [fc]
 [vo_yuh s="yuho_B0022"]
-[ns]Yuuho[nse]
-"...Wa, ta, ru..."[pcms]
+[ns]悠帆[nse]
+「…………わ、た、る…………」[pcms]
 
 *3803|
 [fc]
-Finally, Yuuho stared intently into my eyes.[pcms]
+最後に悠帆はボクの目をじっと見つめる。[pcms]
 
 [evcg storage="EV014e"][trans_c cross time=300]
 
 *3804|
 [fc]
-The moment our gazes intertwined, a smile bloomed across[r]
-Yuuho's face like petals opening.[pcms]
+視線が絡んだ瞬間、[r]
+悠帆の顔に花びらが開くような満面の笑みが浮かんだ。[pcms]
 
 
 *3805|
 [fc]
 [vo_yuh s="yuho_B0023"]
-[ns]Yuuho[nse]
-"Even if I die... I won't... forget... you..."[pcms]
+[ns]悠帆[nse]
+「死んで、も……、忘れ、ない……よ…………」[pcms]
 
 ;//〆フェードアウト
 ;//〆黒画面
@@ -389,17 +389,17 @@ Yuuho's face like petals opening.[pcms]
 
 *3806|
 [fc]
-...[pcms]
+………………。[pcms]
 
 *3807|
 [fc]
-We decided to see off Yuuho as she set out on her journey.[pcms]
+旅立つ悠帆を、ボクたちは見送ることにした。[pcms]
 
 *3808|
 [fc]
-Since we couldn't open the sealed glass doors, we decided to[r]
-raise the shutter at the delivery entrance facing Udagawa[r]
-Street and send Yuuho off from there.[pcms]
+封鎖したガラスドアを開放することはできないから、[r]
+宇田川通りに面した搬入口のシャッターを上げて、[r]
+そこから悠帆を送り出すことにする。[pcms]
 
 ;//block:A005
 
@@ -415,69 +415,67 @@ Street and send Yuuho off from there.[pcms]
 *3809|
 [fc]
 [vo_yuh s="yuho_B0024"]
-[ns]Yuuho[nse]
-"Mmm, mmm... the sun... it's so warm..."[pcms]
+[ns]悠帆[nse]
+「ん、んん…………、おひさま、だぁ……」[pcms]
 
 *3810|
 [fc]
-Once Yuuho stepped outside, she raised her hands, stretched[r]
-with a "uhn," and turned her face to the sky, savoring the[r]
-sunlight with her whole body.[pcms]
+屋外に一歩進み出た悠帆は、[r]
+両手を上げて「うーん」と伸びをして顔を空に向けた。[r]
+気持ち良さそうに日の光を全身で味わっている。[pcms]
 
 *3811|
 [fc]
-Since everyone else decided to see her off from inside the[r]
-shutter, only I stood close to the delivery entrance,[r]
-intently watching Yuuho.[pcms]
+みんなはシャッターの内側から見送ることになったので、[r]
+ボクだけが搬入口のすぐ傍に立って、[r]
+じっと悠帆の姿に目を注いでいた。[pcms]
 
 ;[evcg storage="EV014f"][trans_c cross time=300]
 
 *3812|
 [fc]
 [vo_yuh s="yuho_B0025"]
-[ns]Yuuho[nse]
-"There's... no one... around, huh...?"[pcms]
+[ns]悠帆[nse]
+「だ……誰も、いない、ね……？」[pcms]
 
 *3813|
 [fc]
-Yuuho looked around the street and nodded as if she was[r]
-satisfied.[pcms]
+悠帆は通りを見渡し、納得したようにうなずいている。[pcms]
 
 *3814|
 [fc]
-[ns]Wataru[nse]
-"...This... I really want to give you more, but..."[pcms]
+[ns]航[nse]
+「……これ……。ホントはもっと持たせたいけど……」[pcms]
 
 *3815|
 [fc]
-I handed over Yuuho's bag, which I had packed with as much[r]
-food and drink as possible.[pcms]
+ボクはスナックなどの食料や飲料を[r]
+なるべくたくさん詰めこんだ悠帆のバッグを手渡した。[pcms]
 
 [evcg storage="EV014e"][trans_c cross time=300]
 
 *3816|
 [fc]
 [vo_yuh s="yuho_B0026"]
-[ns]Yuuho[nse]
-"...Thank... you..."[pcms]
+[ns]悠帆[nse]
+「……あり、が、と……ぉ」[pcms]
 ;//＠嬉しい
 
 *3817|
 [fc]
-Yuuho chuckled and winked at me.[pcms]
+くすくすと笑いながら悠帆はボクにウィンクする。[pcms]
 
 *3818|
 [fc]
 [vo_yuh s="yuho_B0027"]
-[ns]Yuuho[nse]
-"I want to give you a kiss of gratitude... but... I'll[r]
-definitely... get better and come back... So it's a rain[r]
-check, okay?"[pcms]
+[ns]悠帆[nse]
+「感謝の、キス……、したい、けど……、[r]
+　必ず……、治してくる、から……。おあずけ、だね？」[pcms]
 
 *3819|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho!!"[pcms]
+[ns]航[nse]
+「……悠帆っ！！」[pcms]
 
 
 ;mm追加
@@ -485,12 +483,12 @@ check, okay?"[pcms]
 
 *3820|
 [fc]
-I took a step towards Yuuho.[pcms]
+ボクは悠帆に向かって一歩、踏み出した。[pcms]
 
 *3821|
 [fc]
-At the very least, I wanted to embrace her at the end. I[r]
-didn't want to let Yuuho go with such a lonely feeling.[pcms]
+せめて、最後くらい抱きしめてあげたい。[r]
+こんな寂しい気持ちのまま、悠帆を去らせたくはなかった。[pcms]
 
 
 ;mm追加
@@ -504,12 +502,12 @@ didn't want to let Yuuho go with such a lonely feeling.[pcms]
 *3822|
 [fc]
 [vo_yuh s="yuho_B0028"]
-[ns]Yuuho[nse]
-"No, don't...ahh...ahh..."[pcms]
+[ns]悠帆[nse]
+「だめええぇぇ……ぇぇ…………っ」[pcms]
 
 *3823|
 [fc]
-A sharp scream pierced my ears.[pcms]
+鋭い悲鳴が耳を打つ。[pcms]
 
 ;mm追加
 [bgm storage="BGM06"]
@@ -521,41 +519,42 @@ A sharp scream pierced my ears.[pcms]
 *3824|
 [fc]
 [vo_yuh s="yuho_B0029"]
-[ns]Yuuho[nse]
-"I...I'm at my limit... Don't come...closer...ah..."[pcms]
+[ns]悠帆[nse]
+「も…………もぉ、限界、なの……。[r]
+　こっちに……来ない、で……ぇっ………………」[pcms]
 
 *3825|
 [fc]
-Yuuho stepped back from me, hugging herself as if to comfort[r]
-her own body, smiling sadly.[pcms]
+自分の体を抱きしめるようにして、[r]
+哀しそうに微笑みながら悠帆がボクから後ずさる。[pcms]
 
 *3826|
 [fc]
-Yuuho... she must be in so much pain... She's desperately[r]
-trying to stay sane...[pcms]
+悠帆……、相当、苦しいんだな……。[r]
+必死で正気を保とうとしているんだ……。[pcms]
 
 [evcg storage="EV014f"][trans_c cross time=300]
 
 *3827|
 [fc]
 [vo_yuh s="yuho_B0030"]
-[ns]Yuuho[nse]
-"Sorry... it's almost... really bad... We'll talk... another[r]
-time..."[pcms]
+[ns]悠帆[nse]
+「ごめ、ん……、そろそろ、ホント、だめ、かも……、[r]
+　話は、また……今度……」[pcms]
 
 [evcg storage="EV014e"][trans_c cross time=300]
 
 *3828|
 [fc]
 [vo_yuh s="yuho_B0031"]
-[ns]Yuuho[nse]
-"Next time... let's properly go on a date... okay?"[pcms]
+[ns]悠帆[nse]
+「その時は……ちゃんと、デートしよ……ね？」[pcms]
 ;//＠笑顔
 
 *3829|
 [fc]
-[ns]Wataru[nse]
-"...Yeah..."[pcms]
+[ns]航[nse]
+「……うん……」[pcms]
 
 
 ;[bg storage="BG06d"][trans_c cross time=500]
@@ -565,12 +564,12 @@ time..."[pcms]
 
 *3830|
 [fc]
-I wanted to pinky promise as a sign of our commitment. I[r]
-wanted to seal our verbal promise with a kiss.[pcms]
+約束の印に、指きり、したかった。[r]
+口約束の印に、キス、したかった。[pcms]
 
 *3831|
 [fc]
-But... I can't let Yuuho suffer any more than this...[pcms]
+だけど……これ以上、悠帆を苦しめちゃいけない……。[pcms]
 
 ;mm追加
 ;[ChrSetEx layer=5 chbase="yuho_b34"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
@@ -579,8 +578,9 @@ But... I can't let Yuuho suffer any more than this...[pcms]
 *3832|
 [fc]
 [vo_yuh s="yuho_B0032"]
-[ns]Yuuho[nse]
-"...G-good weather... Perfect for... setting off..."[pcms]
+[ns]悠帆[nse]
+「………………いーい、てんき……。[r]
+　旅立ち、に……は……ぴったり…………」[pcms]
 
 ;mm追加
 ;[chara_int][trans_c cross time=150]
@@ -590,8 +590,7 @@ But... I can't let Yuuho suffer any more than this...[pcms]
 
 *3833|
 [fc]
-Yuuho looked up at the sky once more, then suddenly turned[r]
-her back to me.[pcms]
+もう一度空を見上げた悠帆は、不意にボクに背中を向けた。[pcms]
 
 ;[evcg storage="EV014e"][trans_c cross time=300]
 
@@ -599,24 +598,23 @@ her back to me.[pcms]
 *3834|
 [fc]
 [vo_yuh s="yuho_B0033"]
-[ns]Yuuho[nse]
-"See you..."[pcms]
+[ns]悠帆[nse]
+「じゃ、ね…………」[pcms]
 
 
 *3835|
 [fc]
-She walked towards Yotsubase Town, cheerfully waving her[r]
-hand.[pcms]
+元気よく手を振りながら、四つ葉瀬町に向かって歩いていく。[pcms]
 
 *3836|
 [fc]
-Her steps were unsteady, as if she might fall over at any[r]
-moment.[pcms]
+その足取りはおぼつかなくて、[r]
+今にも転んでしまいそうにヨタヨタしている。[pcms]
 
 *3837|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho...!!"[pcms]
+[ns]航[nse]
+「……悠帆……っ！！」[pcms]
 
 
 ;[evcg storage="EV014g"][trans_c cross time=300]
@@ -626,8 +624,8 @@ moment.[pcms]
 *3838|
 [fc]
 [vo_yuh s="yuho_B0034"]
-[ns]Yuuho[nse]
-"...Bye bye, Wataru..."[pcms]
+[ns]悠帆[nse]
+「……バイバイ、わた、る…………」[pcms]
 ;//＠声ちいさく
 
 ;[bg storage="BG06d"][trans_c cross time=500]
@@ -635,13 +633,13 @@ moment.[pcms]
 
 *3839|
 [fc]
-When I called out to her, Yuuho looked back over her[r]
-shoulder and waved at me with her usual smile.[pcms]
+呼びかけると、悠帆は肩越しにボクを見返りながら[r]
+いつもの笑顔で手を振ってくれた。[pcms]
 
 *3840|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!!"[pcms]
+[ns]航[nse]
+「悠帆ぉぉぉっ！！」[pcms]
 
 
 [evcg storage="EV014g"][trans_c cross time=300]
@@ -649,58 +647,57 @@ shoulder and waved at me with her usual smile.[pcms]
 *3841|
 [fc]
 [vo_yuh s="yuho_B0035"]
-[ns]Yuuho[nse]
-"...See you..."[pcms]
+[ns]悠帆[nse]
+「…………またねぇ……っ」[pcms]
 ;//＠さらに音ちいさく。文字を××に変えても可
 
 *3842|
 [fc]
-Yuuho's figure was getting smaller and smaller. With each[r]
-call, her voice that responded back also became fainter and[r]
-more distant.[pcms]
+悠帆の姿がどんどん小さくなっていく。[r]
+呼びかけるたびに返してくれる声も遠く小さくなっていく。[pcms]
 
 *3843|
 [fc]
-[ns]Wataru[nse]
-"Yuuho-------!!"[pcms]
+[ns]航[nse]
+「悠帆ぉぉぉーーーーーーーっ！！」[pcms]
 
 *3844|
 [fc]
-Her figure was almost out of sight, but I felt like I could[r]
-hear Yuuho's faint voice carried by the wind.[pcms]
+もう姿はほとんど見えないくらい遠ざかっていたけれど、[r]
+風に乗って、悠帆の微かな声が届いたような気がした。[pcms]
 
 *3845|
 [fc]
-[ns]Wataru[nse]
-"Yuuho!!!!!!!! Yuuho!!!!"[pcms]
+[ns]航[nse]
+「悠帆ぉぉぉぉぉぉぉっ！！　ゆーうほぉぉぉぉっ！！」[pcms]
 
 *3846|
 [fc]
-Actually... we were told not to shout because it attracts[r]
-the infected, but I couldn't help it.[pcms]
+本当は……、感染者を引き寄せるから、[r]
+大声を出しちゃいけないって言われてた。[pcms]
 
 *3847|
 [fc]
-But I couldn't hold back, and I kept shouting for Yuuho.[pcms]
+だけど我慢できなくて、ボクは何度も悠帆に叫んでしまう。[pcms]
 
 *3848|
 [fc]
-Because of that, infected people started to appear from[r]
-various places on the street, slowly approaching us.[pcms]
+そのせいで、通りのあちこちから感染者たちが姿を見せて、[r]
+じりじりとこちらに近付いてきていた。[pcms]
 
 
 
 
 *3849|
 [fc]
-[ns]Kousuke[nse]
-"Wataru----! Wataru! Come back!!" The loading bay shutter[r]
-began to close, and Kousuke was frantically waving his arms[r]
-from inside.[pcms]
+[ns]浩助[nse]
+「ワタルーーーーっ！　ワタルっ！　戻れ！！[r]
+　シャッター閉めねーと、やべーよ！？」[pcms]
 
 *3850|
 [fc]
-[pcms]
+搬入口のシャッターが降り始め、[r]
+中からコースケが狂ったように腕を振り回している。[pcms]
 
 ;mm いちいち片方みてチェックするのめんどうから条件分岐廃止。回想では片方しかみてなくても選択肢で分岐させる。
 
@@ -718,7 +715,7 @@ from inside.[pcms]
 ;	[link target=*sce50_1]悠帆を追いかける！[endlink]
 ;	;//▼選択肢2
 ;	[link target=*sce50_2]さよなら、悠帆……[endlink]
-(link target=*B_10020_02)Goodbye, Yuuho...(endlink)[pcms]
+;	[s]
 
 ;//---------------------------------------------------------------
 *sce50_sel02
@@ -729,14 +726,14 @@ from inside.[pcms]
 
 
 ;	[link target=*B_10020_01]悠帆を追いかける！[endlink]
-"Yuuho----!!"[pcms]
+;	[link target=*B_10020_02]さよなら、悠帆……[endlink][s]
 
 *SEL63|悠帆を追いかける！／さよなら、悠帆……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Chase after Yuuho!'"]
-[eval exp="f.seltext04 = 'Goodbye, Yuuho'"]
+[eval exp="f.seltext02 = '悠帆を追いかける！'"]
+[eval exp="f.seltext04 = 'さよなら、悠帆……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。
@@ -784,36 +781,35 @@ from inside.[pcms]
 
 *3851|
 [fc]
-[ns]Wataru[nse]
-I kicked off the asphalt and started running![pcms]
+[ns]航[nse]
+「悠帆ーーーーっ！！」[pcms]
 
 *3852|
 [fc]
-"Wha...!?"[pcms]
+ボクはアスファルトを蹴って走り出した！[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3853|
 [fc]
 [vo_mar s="maru_B0005"]
-[ns]Margarita[nse]
-"Idiot!!! What the hell are you doing!?"[pcms]
+[ns]マルガリータ[nse]
+「なっ……！？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3854|
 [fc]
-[ns]Kousuke[nse]
-"Bro...brother!!??"[pcms]
+[ns]浩助[nse]
+「バカっ！！！　てめぇぇっ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f3"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3855|
 [fc]
 [vo_ren s="ren_B0004"]
-[ns]Ren[nse]
-I could hear everyone's voices of surprise behind me, but[r]
-without replying, I kept running forward.[pcms]
+[ns]漣[nse]
+「お、お兄ちゃああんっ！？？」[pcms]
 
 ;//キャラ消し
 ;[chara_int][trans_c cross time=150]
@@ -822,12 +818,14 @@ without replying, I kept running forward.[pcms]
 
 *3856|
 [fc]
-Sorry... everyone. I can't go back. I just... I just[r]
-couldn't bear to let Yuuho go alone...[pcms]
+背中からみんなの驚きの声が聞こえてきたけれど、[r]
+返事もせずに、前に向かって駆けていく。[pcms]
 
 *3857|
 [fc]
-"Yuuho!!"[pcms]
+ごめん……。みんな。もう戻れない。[r]
+ボクは……ただ……、[r]
+どうしても悠帆をひとりで行かせたくはなかったんだ……。[pcms]
 
 
 ;mm
@@ -835,122 +833,124 @@ couldn't bear to let Yuuho go alone...[pcms]
 
 *3858|
 [fc]
-[ns]Wataru[nse]
-Yuuho's figure, which had been getting farther away, was[r]
-quickly getting closer. Her small back was hunched over,[r]
-walking forlornly with a trudging step.[pcms]
+[ns]航[nse]
+「悠帆ぉぉぉっ！！」[pcms]
 
 *3859|
 [fc]
-"Yuuho!!"[pcms]
+遠ざかっていた悠帆の背中がみるみる近付いてくる。[r]
+項垂れて、とぼとぼと心細げに歩く、小さな背中が。[pcms]
 
 *3860|
 [fc]
-[ns]Wataru[nse]
-At my voice, Yuuho flinched and turned around, her eyes wide[r]
-as if she couldn't believe it.[pcms]
+[ns]航[nse]
+「悠帆っ！！」[pcms]
 
 *3861|
 [fc]
-"...Yu... Yuu...ho..."[pcms]
+ボクの声に、悠帆はビクっと振り返り、[r]
+信じられないというように目を丸くする。[pcms]
 
 *3862|
 [fc]
-[ns]Wataru[nse]
-"...Wata...ru...?"[pcms]
+[ns]航[nse]
+「……ゆ、ゆう……ほ…………」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b32"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3863|
 [fc]
 [vo_yuh s="yuho_B0036"]
-[ns]Yuuho[nse]
-Finally catching up to Yuuho, I was panting heavily.[pcms]
+[ns]悠帆[nse]
+「……わた、る…………？」[pcms]
 
 *3864|
 [fc]
-"Heh, heh... I ended up coming after all..."[pcms]
+やっと追いついた悠帆の前で、[r]
+ボクはぜーぜーと荒い息をつく。[pcms]
 
 *3865|
 [fc]
-[ns]Wataru[nse]
-When I smiled at her, Yuuho's eyes filled with tears and she[r]
-tried to back away from me.[pcms]
+[ns]航[nse]
+「へ、へへ……、やっぱり来ちゃったよ……」[pcms]
 
 [evcg storage="EV013n"][trans_c cross time=300]
 
 *3866|
 [fc]
-"...you...idiot...! What... what do you think I..."[pcms]
+笑いかけると、悠帆は目にいっぱい涙を溜めて[r]
+ボクから後ずさりで離れていこうとした。[pcms]
 
 *3867|
 [fc]
 [vo_yuh s="yuho_B0037"]
-[ns]Yuuho[nse]
-I firmly grasped the wrist of Yuuho as she tried to escape.[pcms]
+[ns]悠帆[nse]
+「……ば……ばかあぁぁぁ……っ！？[r]
+　わ、わたし、が……、どんなっ、おもい、で…………」[pcms]
 
 *3868|
 [fc]
-"Because... I love you... I can't be without you...!"[pcms]
+逃げる悠帆の手首を、しっかりと掴む。[pcms]
 
 *3869|
 [fc]
-[ns]Wataru[nse]
-Without giving her a chance to reply, I pulled Yuuho's arm[r]
-strongly towards me.[pcms]
+[ns]航[nse]
+「だ……大好き、だから……、[r]
+　悠帆がいないと、ダメだから……っ！」[pcms]
 
 *3870|
 [fc]
-Yuuho's body fell into my arms. I placed my hand under her[r]
-chin and immediately pressed my lips against hers.[pcms]
+言い返す間も与えずに、ボクは悠帆の腕を強く引いた。[pcms]
 
 *3871|
 [fc]
-"...Mmm..."[pcms]
+腕の中に悠帆の身体が倒れこんでくる。[r]
+その顎に手をかけ、すかさず唇を重ねてしまう。[pcms]
 
 *3872|
 [fc]
-[ns]Wataru[nse]
-I slipped my tongue between our touching lips and licked up[r]
-Yuuho's saliva.[pcms]
+[ns]航[nse]
+「…………んっ……」[pcms]
 
 [evcg storage="EV013o"][trans_c cross time=300]
 
 *3873|
 [fc]
-"Wa...ta...ru... Mmm... n-chu..."[pcms]
+触れ合う唇の間から、舌を差し入れ[r]
+悠帆の唾液を舐め取った。[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3874|
 [fc]
 [vo_yuh s="yuho_B0038"]
-[ns]Yuuho[nse]
-The tension left Yuuho's body. She stopped resisting, leaned[r]
-her weight on me, and eventually clung to me.[pcms]
+[ns]悠帆[nse]
+「わ、た……る…………、んっ……ん、ちゅ……っ」[pcms]
 
 *3875|
 [fc]
-Ah... I can smell Yuuho...[pcms]
+強張っていた悠帆の身体から力が抜けていく。[r]
+抗うことをやめて、ボクに体重を預け、[r]
+やがて、すがりついてくる。[pcms]
 
 [evcg storage="EV011k"][trans_c cross time=300]
 
 *3876|
 [fc]
-With each exchange of saliva, a throbbing pain surged[r]
-through my head. There was a bit of breathlessness, but it[r]
-was overwhelmed by an intense feeling of euphoria...[pcms]
+ああ……、悠帆の匂いがする……。[pcms]
 
 *3877|
 [fc]
-This means I'm now... just like Yuuho, an infected person.[r]
-We've truly become companions...[pcms]
+唾液を交換するごとに、頭の芯がずくんと疼く。[r]
+少しの息苦しさはあったけれど、[r]
+それよりも強烈な陶酔感に襲われてしまう……。[pcms]
 
 ;//ホワイトアウト
 
 *3878|
 [fc]
-"...So, shall we go, Yuuho?"[pcms]
+これで、ボクも……悠帆と同じ、感染者だ……。[r]
+ボクたち……本当に仲間になったんだよ……。[pcms]
 
 ;//渋谷
 [bg storage="BG04a"][trans_c cross time=500]
@@ -958,42 +958,41 @@ We've truly become companions...[pcms]
 
 *3879|
 [fc]
-[ns]Wataru[nse]
-I reached out my hand to Yuuho.[pcms]
+[ns]航[nse]
+「……それじゃ、行こうか、悠帆」[pcms]
 
 *3880|
 [fc]
-While firmly gripping my hand back, Yuuho murmured.[pcms]
+ボクは悠帆に手を差し伸べる。[pcms]
 
 *3881|
 [fc]
-"...How far can we go, I wonder?"[pcms]
+その手をしっかりと握り返しながら悠帆が呟いた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_b34"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *3882|
 [fc]
 [vo_yuh s="yuho_B0039"]
-[ns]Yuuho[nse]
-"As far as we can... we'll make it..."[pcms]
+[ns]悠帆[nse]
+「…………どこまで、いける……かなぁ？」[pcms]
 
 *3883|
 [fc]
-[ns]Wataru[nse]
-We walked hand in hand into the crowd of gathering infected[r]
-people.[pcms]
+[ns]航[nse]
+「どこまででも……行けるよ……」[pcms]
 
 *3884|
 [fc]
-The whereabouts of the two after that are unknown to[r]
-anyone...[pcms]
+ボクたちは、群がりつつある感染者の中に、[r]
+手を取り合って進んでいった。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *3885|
 [fc]
-(returntitle)[pcms]
+その後の二人の行方は、誰にも分からない…………。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る
@@ -1007,7 +1006,7 @@ anyone...[pcms]
 ;//　ゲームEND
 ;//ゲームオーバー
 [gameover time=0 movie="gameover.mpg"]
-"..."[pcms]
+[returntitle][s]
 
 
 ;//---------------------------------------------------------------
@@ -1025,52 +1024,51 @@ anyone...[pcms]
 
 *3886|
 [fc]
-[ns]Wataru[nse]
-I couldn't move from that spot until Yuuho's figure had[r]
-completely disappeared from sight.[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *3887|
 [fc]
-"Hurry up! Wataru! Come back already!!"[pcms]
+ボクは悠帆の後姿が完全に見えなくなるまで、[r]
+その場を動くことができなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3888|
 [fc]
-[ns]Kousuke[nse]
-Kousuke was desperately calling for me, banging on the half-[r]
-closed shutter.[pcms]
+[ns]浩助[nse]
+「急げっ！　ワタルっ！　戻れってばよ！！」[pcms]
 
 *3889|
 [fc]
-As I started walking towards the entrance, I looked back one[r]
-last time.[pcms]
+半ば閉まりかけたシャッターをガンガンと叩いて[r]
+コースケが必死にボクを呼んでいる。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *3890|
 [fc]
-"...Goodbye, Yuuho"[pcms]
+搬入口に向かって歩き出したボクは、[r]
+最後にもう一度だけ振り返った。[pcms]
 
 *3891|
 [fc]
-[ns]Wataru[nse]
-I muttered towards Yuuho, who was no longer visible.[pcms]
+[ns]航[nse]
+「…………さよなら、悠帆」[pcms]
 
 *3892|
 [fc]
-I loved you so much, Yuuho...[pcms]
+もう見えなくなった悠帆に向かって呟く。[pcms]
 
 *3893|
 [fc]
-But... we'll meet again, right? Next time, not in such a[r]
-cruel world but in a much better one...[pcms]
+大好きだったよ、悠帆……。[pcms]
 
 *3894|
 [fc]
-But... we'll meet again, right? Next time, not in such a[r]
-cruel world but in a much better one...[pcms]
+でも……また、会えるよね？[r]
+次は、こんな酷い世の中じゃなくて、もっと…………。[pcms]
 
 ;//---------------------------------------------------------------
 ; 回想モード中なら、回想モード画面に戻る

@@ -1,10 +1,10 @@
 ;//block:B005
-;//ブロック４１０４０『地下道悠帆のみ脱出』pt5
+;//ブロック４１０４０『地下道～悠帆のみ脱出～』pt5
 ;//@konya 11/18 EV_CGほか
 ;//@konya 41030.txtから
 
 *41040_TOP
-;{SceneSet 地下道悠帆のみ脱出}
+;{SceneSet 地下道～悠帆のみ脱出～}
 ;//---------------------------------------------------------------
 ;//背景：分校舎地下室
 ;//登場人物:主人公・悠帆（制服）・マルガリータ（制服）
@@ -20,13 +20,13 @@
 *2568|
 [fc]
 [vo_ren s="ren0321"]
-[ns]Ren[nse]
-"...Onii-chan..."[pcms]
+[ns]漣[nse]
+「……おにいちゃん……」[pcms]
 
 *2569|
 [fc]
-[ns]Wataru[nse]
-"Re, Ren...!!"[pcms]
+[ns]航[nse]
+「れ、漣っ……！！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -38,60 +38,63 @@
 
 *2570|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *2571|
 [fc]
-I looked around.[pcms]
+ボクは辺りを見回した。[pcms]
 
 *2572|
 [fc]
-This is indeed, that basement...[pcms]
+ここはやっぱり、あの地下室で……。[pcms]
 
 *2573|
 [fc]
 [vo_yuh s="yuho0223"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「………………」[pcms]
 
 *2574|
 [fc]
 [vo_mar s="maru0355"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *2575|
 [fc]
-We were the only ones there, wrapped in towels and covered[r]
-with larger towels and jackets over our bellies as we slept.[pcms]
+持ち物に適当にタオルを巻いて、[r]
+大き目のタオルや上着をお腹にかけて寝ている[r]
+ボクたちだけがいた。[pcms]
 
 *2576|
 [fc]
-As expected, Ren's figure was nowhere to be seen.[pcms]
+やっぱり、漣の姿はなかった。[pcms]
 
 *2577|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *2578|
 [fc]
-The disappointment after the anticipation left me speechless[r]
-and sinking.[pcms]
+期待の後の、それを裏切られたという落差に[r]
+ボクは言葉もなく沈んでしまった。[pcms]
 
 ;//　画面黒
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *2579|
 [fc]
-I closed my eyes. They were completely awake, but I had to[r]
-sleep, so I forced my eyelids shut.[pcms]
+ボクは目を閉じた。[r]
+すっかり、目が冴えてしまっていたけど、[r]
+今は眠らなきゃと目蓋に力を込める。[pcms]
 
 *2580|
 [fc]
-Tears welled up around my eyes. "I must not cry!" I have to[r]
-sleep, forget, and show a cheerful face to the two of them.[pcms]
+目元には涙がにじんだ。[r]
+『泣いちゃダメだ！』[r]
+眠って、忘れて、二人に元気な顔を見せなくちゃ。[pcms]
 
 ;//se108・ハッチをノック
 ;//[se buf=0 storage="se108"]
@@ -102,12 +105,12 @@ sleep, forget, and show a cheerful face to the two of them.[pcms]
 
 *2581|
 [fc]
-[ns]Wataru[nse]
-"...!?"[pcms]
+[ns]航[nse]
+「………………っ！？」[pcms]
 
 *2582|
 [fc]
-I thought I heard a sound and sat up.[pcms]
+ボクはなにか音が聞こえた気がして、身体を起こす。[pcms]
 
 ;//se108・ハッチをノック
 ;//[se buf=0 storage="se108"]
@@ -116,13 +119,14 @@ I thought I heard a sound and sat up.[pcms]
 
 *2583|
 [fc]
-[ns]Wataru[nse]
-"As I thought..."[pcms]
+[ns]航[nse]
+「やっぱり……」[pcms]
 
 *2584|
 [fc]
-There was a sound. A knocking sound. And also a voice[r]
-calling me...[pcms]
+なにか音が聞こえている。[r]
+叩くような音。[r]
+そして、ボクを呼ぶ声も……。[pcms]
 
 [fadeoutbgm time=500]
 ;//se066・布ずれの音
@@ -136,37 +140,36 @@ calling me...[pcms]
 
 *2585|
 [fc]
-I strained my ears and slowly walked towards the direction[r]
-from which the sound was coming.[pcms]
+ボクは耳を澄まし、[r]
+その音が聞こえてくる方向へとゆっくりと歩き出す。[pcms]
 
 *2586|
 [fc]
 [vo_ren s="ren0322"]
 [ns]？？？[nse]
-"...chan..."[pcms]
+「……ぃちゃん……」[pcms]
 ;//＠　漣　ハッチ越し　遠方
 
 *2587|
 [fc]
-I definitely heard a voice just now.[pcms]
+たしかに今、声がした。[pcms]
 
 ;//se050・コンクリートの上を歩く（一人）
 [se buf=0 storage="se050"]
 
 *2588|
 [fc]
-I was led by that voice, climbing up the stairs.[pcms]
+ボクはその声へと導かれるように、階段を上がっていく。[pcms]
 
 *2589|
 [fc]
-The sound of my footsteps echoed alone in the dimly lit[r]
-concrete room.[pcms]
+薄暗いコンクリートの部屋の中にボクの足音だけが響いていた。[pcms]
 
 *2590|
 [fc]
 [vo_ren s="ren0323"]
 [ns]？？？[nse]
-"...chan..."[pcms]
+「……ぃちゃん……」[pcms]
 ;//＠　漣　ハッチ越し　遠方
 
 ;//se108・ハッチをノック
@@ -174,86 +177,86 @@ concrete room.[pcms]
 
 *2591|
 [fc]
-The faint voice heard between the echoing footsteps, a[r]
-small, hesitant knock.[pcms]
+反響する足音の合間に聞こえてくるかすかな声、[r]
+小さな遠慮がちのノック。[pcms]
 
 *2592|
 [fc]
-I remembered both sounds.[pcms]
+その両方にボクは覚えがあった。[pcms]
 
 *2593|
 [fc]
 [vo_ren s="ren0324"]
 [ns]？？？[nse]
-"...Onii...chan..."[pcms]
+「……おにい……ちゃ～ん……」[pcms]
 ;//＠　漣　ハッチ越し
 
 *2594|
 [fc]
-[ns]Wataru[nse]
-"Ren!!"[pcms]
+[ns]航[nse]
+「漣っ！！」[pcms]
 
 *2595|
 [fc]
-That voice was unmistakably... the voice of the sister I had[r]
-been longing for.[pcms]
+その声は紛れもなく……ずっと、求めていた妹の声だった。[pcms]
 
 *2596|
 [fc]
 [vo_ren s="ren0325"]
-[ns]Ren[nse]
-"Onii...chan...?"[pcms]
+[ns]漣[nse]
+「おにい……ちゃ～ん……？」[pcms]
 ;//＠ハッチ越し
 
 *2597|
 [fc]
-Ren's voice checking for my presence beyond the hatch.[pcms]
+ハッチ越しに聞こえるボクの存在を確かめるような漣の声。[pcms]
 
 *2598|
 [fc]
-[ns]Wataru[nse]
-"...Yeah...!"[pcms]
+[ns]航[nse]
+「……う、うんっ……」[pcms]
 
 *2599|
 [fc]
-I answered the voice with a tremble.[pcms]
+ボクは震えながら、その声にやっとのことで答えた。[pcms]
 
 *2600|
 [fc]
 [vo_ren s="ren0326"]
-[ns]Ren[nse]
-"It's Onii-chan~"[pcms]
+[ns]漣[nse]
+「おにいちゃんだ～」[pcms]
 ;//＠ハッチ越し
 
 *2601|
 [fc]
-At Ren's voice, my body received a tingling shock. A nasty[r]
-sweat began to seep out from my body.[pcms]
+漣の声に、ボクの身体はしびれるようなショックを受けた。[r]
+身体から、じっとりとした嫌な汗がにじみ出してきた。[pcms]
 
 *2602|
 [fc]
 [vo_ren s="ren0327"]
-[ns]Ren[nse]
-"Onii-chan~"[pcms]
+[ns]漣[nse]
+「おにいちゃ～ん」[pcms]
 ;//＠ハッチ越し
 
 *2603|
 [fc]
-...It was definitely Ren's voice.[pcms]
+……たしかに漣の声だった。[pcms]
 
 *2604|
 [fc]
-But it sounded as if she was drunk on alcohol, oddly merry[r]
-and in high spirits...[pcms]
+だけど、それはまるでお酒を飲んで酔っ払っているように、[r]
+妙に浮かれたような上機嫌さで……。[pcms]
 
 *2605|
 [fc]
-It didn't seem at all like she had narrowly escaped from[r]
-being surrounded by infected people.[pcms]
+感染者たちに取り囲まれて、[r]
+そこから命からがら逃げ出して来たようには、[r]
+とても思えない。[pcms]
 
 *2606|
 [fc]
-It was as if...[pcms]
+それはまるで……。[pcms]
 ;//bgm03・rage
 [bgm storage="BGM03"]
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -265,30 +268,30 @@ It was as if...[pcms]
 *2607|
 [fc]
 [vo_mob s="yoshino0018"]
-[ns]Yoshino[nse]
-"Oh... do you want to do it too?"[pcms]
+[ns]吉野[nse]
+「あら……あなたもシタイの？」[pcms]
 
 *2608|
 [fc]
 [vo_mob s="yoshino0019"]
-[ns]Yoshino[nse]
-"It feels good~. Just now, some stranger did it to me a lot,[r]
-a lot. He thrust into my ass and pussy a lot."[pcms]
+[ns]吉野[nse]
+「気持ちいいわよ～。さっきも知らない人にね、[r]
+　いっぱいいっぱい犯されたの。お尻もおまんこにも[r]
+　いっぱいいっぱい突っ込んでもらったわ」[pcms]
 
 *2609|
 [fc]
 [vo_mob s="yoshino0020"]
-[ns]Yoshino[nse]
-"A dick, of course? What else would you thrust into my pussy[r]
-and ass? Ahahaha..."[pcms]
+[ns]吉野[nse]
+「チンポに決まってるでしょ？　他にわたしのおまんこや[r]
+　お尻に何を突っ込むっていうの？　あははは……」[pcms]
 
 *2610|
 [fc]
 [vo_mob s="yoshino0021"]
-[ns]Yoshino[nse]
-"Let's do it, it feels good. Do you want to put it in my[r]
-ass? Or in my pussy? Come on, you want to thrust it in,[r]
-don't you?"[pcms]
+[ns]吉野[nse]
+「あなたもシましょ、気持ちいいこと。お尻に入れたい？[r]
+　おまんこに入れたい？　ほら、突っ込みたいでしょ？」[pcms]
 
 ;//　フラッシュバック　終わり
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -299,77 +302,77 @@ don't you?"[pcms]
 *2611|
 [fc]
 [vo_ren s="ren0328"]
-[ns]Ren[nse]
-"Onii-chan, open up~"[pcms]
+[ns]漣[nse]
+「おにいちゃ～ん、あけて～」[pcms]
 ;//＠ハッチ越し
 
 *2612|
 [fc]
-[ns]Wataru[nse]
-"...Ugh..."[pcms]
+[ns]航[nse]
+「……うっ……」[pcms]
 
 ;//　画面ゆれ
 
 *2613|
 [fc]
-I became terrified and started to back away.[pcms]
+ボクは恐ろしくなって、あとずさりをする。[pcms]
 
 *2614|
 [fc]
 [vo_ren s="ren0329"]
-[ns]Ren[nse]
-"Onii-chan, hey~, Onii-chan"[pcms]
+[ns]漣[nse]
+「おにいちゃ～ん、ねぇ～、おにいちゃ～ん」[pcms]
 ;//＠ハッチ越し
 
 *2615|
 [fc]
-That was... that was...[pcms]
+あれは……あれは……。[pcms]
 
 ;//se054・肩に手を置く
 [se buf=0 storage="se054"]
 
 *2616|
 [fc]
-[ns]Wataru[nse]
-"...Uwah!"[pcms]
+[ns]航[nse]
+「……うわっ！」[pcms]
 
 *2617|
 [fc]
-Suddenly, something on my shoulder![pcms]
+突然、肩の上になにかが！[pcms]
 
 *2618|
 [fc]
-I involuntarily let out a cry, a muffled scream as if I was[r]
-gasping for breath.[pcms]
+ボクは思わず声を上げてしまう。[r]
+息を呑むようなくぐもった悲鳴を。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2619|
 [fc]
 [vo_mar s="maru0356"]
-[ns]Margarita[nse]
-"It's okay. It's me."[pcms]
+[ns]マルガリータ[nse]
+「大丈夫。ワタシだ」[pcms]
 
 *2620|
 [fc]
-[ns]Wataru[nse]
-"Senpai..."[pcms]
+[ns]航[nse]
+「先輩……」[pcms]
 
 *2621|
 [fc]
 [vo_mar s="maru0357"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 *2622|
 [fc]
-Senpai silently nods her head in agreement.[pcms]
+先輩は無言で首を縦に振る。[pcms]
 
 *2623|
 [fc]
-Needless to say, it was Senpai who had just placed her hand[r]
-on my shoulder. She must have been worried about me and came[r]
-to check on me.[pcms]
+言うまでもなく、[r]
+さっきのは先輩がボクの肩に手を置いただけだった。[r]
+きっと、ボクのことを心配して、来てくれたに違いない。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -380,97 +383,97 @@ to check on me.[pcms]
 *2624|
 [fc]
 [vo_ren s="ren0330"]
-[ns]Ren[nse]
-"Hey~, Onii-chan? Open up~"[pcms]
+[ns]漣[nse]
+「ねぇ～、おにいちゃ～ん？　開けて～」[pcms]
 ;//＠ハッチ越し
 
 *2625|
 [fc]
-The sound of knocking on the hatch has gotten louder than[r]
-before. It feels like the voice has gotten louder after[r]
-confirming my presence.[pcms]
+ハッチをノックする音はさっきよりも大きくなってきた。[r]
+ボクの存在を確かめてから、声も大きくなった気がする。[pcms]
 
 *2626|
 [fc]
 [vo_ren s="ren0331"]
-[ns]Ren[nse]
-"I heard that Onii-chan went in here. You were here after[r]
-all~"[pcms]
+[ns]漣[nse]
+「おにいちゃんがここに入ってったって、聞いてきたんだよ。[r]
+　やっぱり、ここにいたんだね～」[pcms]
 
 *2627|
 [fc]
 [vo_ren s="ren0332"]
-[ns]Ren[nse]
-"Onii-chaaan~. I'm so tired. Hurry up and open up~. I'm[r]
-thirsty, and my stomach is really empty."[pcms]
+[ns]漣[nse]
+「おにいちゃ～～ん。私、とっても疲れちゃった。[r]
+　はやく開けて～。のども渇いたし、おなかだって、[r]
+　とっても減ってるの」[pcms]
 
 *2628|
 [fc]
 [vo_ren s="ren0333"]
-[ns]Ren[nse]
-"Hey~, Onii-chan... Onii-chan?"[pcms]
+[ns]漣[nse]
+「ねぇ～、おにいちゃ～ん……。おにいちゃん？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2629|
 [fc]
 [vo_mar s="maru0358"]
-[ns]Margarita[nse]
-"Your sister?"[pcms]
+[ns]マルガリータ[nse]
+「妹か？」[pcms]
 
 *2630|
 [fc]
-[ns]Wataru[nse]
-"Yes..."[pcms]
+[ns]航[nse]
+「はいっ……」[pcms]
 
 *2631|
 [fc]
 [vo_mar s="maru0359"]
-[ns]Margarita[nse]
-"You understand... right..."[pcms]
+[ns]マルガリータ[nse]
+「わかって……いるな……」[pcms]
 
 *2632|
 [fc]
-[ns]Wataru[nse]
-"...Yes..."[pcms]
+[ns]航[nse]
+「……は、はい……」[pcms]
 
 *2633|
 [fc]
-Senpai's brief words were filled with a pitiful and hesitant[r]
-emphasis. Ren is infected. We must not open this door.[pcms]
+先輩の短い言葉には気の毒そうで、[r]
+遠慮がちな念押しがこめられていた。[r]
+漣は感染している。この扉を開けてはダメだと。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2634|
 [fc]
-I was also warned by Dad via email to "never go near the[r]
-infected."[pcms]
+父さんにも『感染者には絶対近寄るな』と[r]
+メールで注意されてる。[pcms]
 
 *2635|
 [fc]
-...At the same time, he also told me to "take care of[r]
-Ren"...[pcms]
+……同時に『漣を頼む』とも言われていたけど……。[pcms]
 
 *2636|
 [fc]
 [vo_ren s="ren0334"]
-[ns]Ren[nse]
-"Is that... a woman's voice? Is there a woman there~ Onii-[r]
-chan?"[pcms]
+[ns]漣[nse]
+「女……女の声がする？[r]
+　そこに女がいるの～おにいちゃ～ん？」[pcms]
 
 *2637|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2638|
 [fc]
 [vo_mar s="maru0360"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -478,13 +481,13 @@ chan?"[pcms]
 *2639|
 [fc]
 [vo_ren s="ren0335"]
-[ns]Ren[nse]
-"That woman is telling you not to open it, isn't she~. Why[r]
-are you listening to what some woman says~"[pcms]
+[ns]漣[nse]
+「その女が開けるなって言ってるのね～。[r]
+　なんで、そんな女のいうことを聞くの～」[pcms]
 
 *2640|
 [fc]
-We involuntarily hold our breath at Ren's voice.[pcms]
+漣の声にボクたちは思わず息を殺す。[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -496,63 +499,63 @@ We involuntarily hold our breath at Ren's voice.[pcms]
 *2641|
 [fc]
 [vo_ren s="ren0336"]
-[ns]Ren[nse]
-"Hey~, open up~. Open it... Onii-chan!!"[pcms]
+[ns]漣[nse]
+「ねぇ～、開けてよ～。開けてよっ……おにいちゃ～ん！！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2642|
 [fc]
 [vo_yuh s="yuho0224"]
-[ns]Yuuho[nse]
-"------!!"[pcms]
+[ns]悠帆[nse]
+「――――――っ！！」[pcms]
 
 *2643|
 [fc]
-Yuuho must have heard the noise and come over. She was[r]
-covering her mouth, gasping for breath.[pcms]
+ボクたちの後ろには音を聞きつけてやってきたんだろう。[r]
+悠帆が口元を押さえて、息を呑んでいた。[pcms]
 
 *2644|
 [fc]
 [vo_yuh s="yuho0225"]
-[ns]Yuuho[nse]
-"Is that... Ren-chan?"[pcms]
+[ns]悠帆[nse]
+「漣ちゃん……なの？」[pcms]
 
 *2645|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *2646|
 [fc]
-[ns]Wataru[nse]
-"Yeah..."[pcms]
+[ns]航[nse]
+「う、うん……」[pcms]
 
 *2647|
 [fc]
 [vo_yuh s="yuho0226"]
-[ns]Yuuho[nse]
-"...!!"[pcms]
+[ns]悠帆[nse]
+「………………っ！！」[pcms]
 
 *2648|
 [fc]
-Tears began to spill from Yuuho's eyes.[pcms]
+悠帆の目から、ぼろぼろと涙がこぼれてゆく。[pcms]
 
 *2649|
 [fc]
 [vo_yuh s="yuho0227"]
-[ns]Yuuho[nse]
-"No way... Ren-chan... Ren-chan..."[pcms]
+[ns]悠帆[nse]
+「そんな……漣ちゃんが……漣ちゃんが……」[pcms]
 
 *2650|
 [fc]
-Despite having cried so much before, tears of unbearable[r]
-sadness were streaming down Yuuho's cheeks.[pcms]
+あんなに泣いた後だというのに、[r]
+やり切れない悲しみの涙が悠帆の頬を伝っている。[pcms]
 
 *2651|
 [fc]
-[ns]Wataru[nse]
-"Yuuho..."[pcms]
+[ns]航[nse]
+「悠帆……」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -563,10 +566,10 @@ sadness were streaming down Yuuho's cheeks.[pcms]
 *2652|
 [fc]
 [vo_ren s="ren0337"]
-[ns]Ren[nse]
-"...Yuuho-chan is there? Onii-chan, hurry up and let me in~.[r]
-It's not fair that only Yuuho-chan is inside~. Hey~, Onii-[r]
-chan"[pcms]
+[ns]漣[nse]
+「……悠帆ちゃん、いるんだ？　おにいちゃん、早く、[r]
+　中に入れてよ～。悠帆ちゃんばっかり、ずるいよ～。[r]
+　ねえ～、おにいちゃ～ん」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -578,14 +581,14 @@ chan"[pcms]
 *2653|
 [fc]
 [vo_ren s="ren0338"]
-[ns]Ren[nse]
-"Onii-chan! Yuuho-chan is saying it~! She's saying not to[r]
-let me in~!!"[pcms]
+[ns]漣[nse]
+「おにいちゃん！　悠帆ちゃんが言ってるのね～っ！[r]
+　私を中に入れるなって～！！」[pcms]
 
 *2654|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -597,9 +600,10 @@ let me in~!!"[pcms]
 *2655|
 [fc]
 [vo_ren s="ren0339"]
-[ns]Ren[nse]
-"It's not fair, only Yuuho! She really intends to take Onii-[r]
-chan away from me! That's right! That must be it~!!"[pcms]
+[ns]漣[nse]
+「悠帆ちゃんばっかりずるい！[r]
+　やっぱり、悠帆は私からお兄ちゃんを取るつもりなんだっ！[r]
+　そうだっ！　やっぱりそうなんだぁ～！！」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -611,9 +615,9 @@ chan away from me! That's right! That must be it~!!"[pcms]
 *2656|
 [fc]
 [vo_ren s="ren0340"]
-[ns]Ren[nse]
-"I won't forgive her! I'll kill her! Anyone who tries to[r]
-steal Onii-chan from me, I'll kill them~!!"[pcms]
+[ns]漣[nse]
+「許さない！　コロしてやるっ！[r]
+　私からお兄ちゃんを盗るやつはコロしてやる～～っ！！」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -633,49 +637,49 @@ steal Onii-chan from me, I'll kill them~!!"[pcms]
 *2657|
 [fc]
 [vo_yuh s="yuho0228"]
-[ns]Yuuho[nse]
-"No... Nooo!"[pcms]
+[ns]悠帆[nse]
+「いっ……いやぁっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2658|
 [fc]
-Yuuho screams. Ren curses at Yuuho with words I've never[r]
-heard her use before.[pcms]
+悠帆が悲鳴を上げる。[r]
+漣は聞いたこともないような言葉で悠帆をののしる。[pcms]
 
 *2659|
 [fc]
-That's not... Ren.[pcms]
+あれは……漣じゃない。[pcms]
 
 *2660|
 [fc]
-It's Ren, but at the same time, it's not Ren!![pcms]
+やっぱり、漣だけど漣じゃないんだ！！[pcms]
 
 *2661|
 [fc]
-It's like that movie remade years ago with a popular black[r]
-actor as the lead.[pcms]
+まるで何年か前に、[r]
+黒人人気俳優主演でリメイクされたアレだ。[pcms]
 
 *2662|
 [fc]
-In the movie, the family and friends who became vampires[r]
-visit the only man left on Earth every night, knocking on[r]
-his door and begging to be let in...[pcms]
+地球にたった一人だけ生き残った男の家に、[r]
+吸血鬼になった家族や友人たちが夜な夜な訪れて[r]
+「入れてくれ」とドアを叩く……。[pcms]
 
 ;//　地球最後の男（オメガマン、アイ・アム・レジェンド）
 
 *2663|
 [fc]
-Ren is like the vampires from that movie...[pcms]
+漣はあの映画の吸血鬼たちのように……。[pcms]
 
 *2664|
 [fc]
 [vo_ren s="ren0341"]
-[ns]Ren[nse]
-"Open up quickly!! What do you see in such a woman~! A two-[r]
-faced heartbreaker! Knowing how Onii-chan feels and playing[r]
-with him!"[pcms]
+[ns]漣[nse]
+「早く開けろっ！！　そんな女のどこがいいんだ～！[r]
+　八方美人の人でなしっ！[r]
+　お兄ちゃんの気持ちを知ってて、もてあそんでる！」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -687,10 +691,10 @@ with him!"[pcms]
 *2665|
 [fc]
 [vo_ren s="ren0342"]
-[ns]Ren[nse]
-"I can cherish Onii-chan more than such a woman! Open up[r]
-quickly! I'm the one who can make Onii-chan happy! I'll kill[r]
-her! Open up!! I'll kill her!!"[pcms]
+[ns]漣[nse]
+「そんな女より、私の方がお兄ちゃんを大切にできるっ！[r]
+　早くあけろ！　お兄ちゃんを幸せにできるのは私だっ！[r]
+　コロしてやる！　開けろ！！　コロしてやるぅ！！」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -715,43 +719,44 @@ her! Open up!! I'll kill her!!"[pcms]
 
 *2666|
 [fc]
-Ren continues to pound on the hatch as if she has gone mad.[pcms]
+まるで狂ったかのようにハッチを漣はハッチを殴り続ける。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2667|
 [fc]
 [vo_mar s="maru0361"]
-[ns]Margarita[nse]
-"...She's like possessed by a demon."[pcms]
+[ns]マルガリータ[nse]
+「……まるで悪魔つきだな」[pcms]
 
 *2668|
 [fc]
-Maruko-senpai mutters in a daze.[pcms]
+呆然とした様子でマル子先輩がつぶやく。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2669|
 [fc]
-Indeed, Ren's sudden change was just like the possession by[r]
-a demon I saw in a movie. The filthy words that Ren would[r]
-never say, her raging with incredible strength...[pcms]
+たしかに漣の豹変振りは、映画で見た悪魔つきそのものだった。[r]
+漣が口にするはずもない口汚い言葉で[r]
+ののしり、ものすごい力で暴れるさまは……。[pcms]
 
 *2670|
 [fc]
-It's just like a movie. Exactly like a movie![pcms]
+まるで映画だ。[r]
+映画そのものだ！[pcms]
 
 *2671|
 [fc]
-...How I wish it were just a movie. But this is unmistakably[r]
-reality.[pcms]
+……映画であったらどんなによかっただろう。[r]
+だけど、これはまぎれもなく現実なんだ。[pcms]
 
 *2672|
 [fc]
 [vo_ren s="ren0343"]
-[ns]Ren[nse]
-"Open up! Open up! Open up~!!"[pcms]
+[ns]漣[nse]
+「開けろ！　あけろッ！　アケロ～ッ！！」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -776,28 +781,27 @@ reality.[pcms]
 
 *2673|
 [fc]
-The hatch creaks under Ren's furious pounding.[pcms]
+漣の激しい乱打にハッチがきしみをあげる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2674|
 [fc]
 [vo_mar s="maru0362"]
-[ns]Margarita[nse]
-"..."[pcms]
+[ns]マルガリータ[nse]
+「………………」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a8"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2675|
 [fc]
 [vo_yuh s="yuho0229"]
-[ns]Yuuho[nse]
-"Stop it! Ren-chan... please stop~!!"[pcms]
+[ns]悠帆[nse]
+「やめてっ！　漣ちゃん……やめてぇ～！！」[pcms]
 
 *2676|
 [fc]
-Yuuho crouches down with her ears covered, crying and[r]
-screaming.[pcms]
+悠帆は耳をふさいでうずくまり、泣きながら悲鳴を上げる。[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
@@ -810,8 +814,8 @@ screaming.[pcms]
 
 *2677|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣……」[pcms]
 
 [se buf=0 storage="se043"]
 [wait time=300]
@@ -822,8 +826,8 @@ screaming.[pcms]
 *2678|
 [fc]
 [vo_ren s="ren0344"]
-[ns]Ren[nse]
-"Open up! Open up~!"[pcms]
+[ns]漣[nse]
+「アケロ！　あけろ～っ！」[pcms]
 
 [se buf=0 storage="se043"]
 [wait time=300]
@@ -831,8 +835,8 @@ screaming.[pcms]
 
 *2679|
 [fc]
-[ns]Wataru[nse]
-"...Ren..."[pcms]
+[ns]航[nse]
+「……漣……」[pcms]
 
 [se buf=0 storage="se043"]
 [wait time=300]
@@ -841,8 +845,8 @@ screaming.[pcms]
 *2680|
 [fc]
 [vo_ren s="ren0345"]
-[ns]Ren[nse]
-"Open up! Open up!!"[pcms]
+[ns]漣[nse]
+「アケロっ！　あけろっ！！」[pcms]
 
 ;//　フォント中　あれば
 [se buf=0 storage="se043"]
@@ -853,8 +857,8 @@ screaming.[pcms]
 
 *2681|
 [fc]
-[ns]Wataru[nse]
-"Ren...!"[pcms]
+[ns]航[nse]
+「漣っ……！」[pcms]
 
 [se buf=0 storage="se043"]
 [wait time=300]
@@ -865,8 +869,8 @@ screaming.[pcms]
 *2682|
 [fc]
 [vo_ren s="ren0346"]
-[ns]Ren[nse]
-"Open up~!"[pcms]
+[ns]漣[nse]
+「あけろ～っ！」[pcms]
 
 ;//　フォント大
 [se buf=0 storage="se043"]
@@ -877,8 +881,8 @@ screaming.[pcms]
 
 *2683|
 [fc]
-[ns]Wataru[nse]
-"...Ren!! Listen to me, Ren!!"[pcms]
+[ns]航[nse]
+「……漣っ！！　聞いてくれ漣っ！！」[pcms]
 
 ;//SE・連続再生停止
 [se buf=0 storage="se043"]
@@ -886,222 +890,240 @@ screaming.[pcms]
 
 *2684|
 [fc]
-The intense sound of Ren's voice and the continuous banging[r]
-on the hatch stops.[pcms]
+漣の激しい声と、ハッチを叩き続ける音が止まる。[pcms]
 
 *2685|
 [fc]
 [vo_ren s="ren0347"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「………………」[pcms]
 
 *2686|
 [fc]
-[ns]Wataru[nse]
-"Ren...?"[pcms]
+[ns]航[nse]
+「漣……？」[pcms]
 
 *2687|
 [fc]
-I approach the door and, with a voice that naturally[r]
-trembles, I speak to Ren.[pcms]
+ボクは扉の前までいって、[r]
+自然と震えてしまう声で漣に話しかける。[pcms]
 
 *2688|
 [fc]
-[ns]Wataru[nse]
-"Ren... I'm here. So please, don't be angry anymore..."[pcms]
+[ns]航[nse]
+「漣……。[r]
+　ボクはここにいるよ。[r]
+　だから、もう怒らないで……」[pcms]
 
 *2689|
 [fc]
 [vo_ren s="ren0348"]
-[ns]Ren[nse]
-"Onii-chan... It's Onii-chan..."[pcms]
+[ns]漣[nse]
+「おにい……ちゃん……。おにいちゃんだ……」[pcms]
 
 *2690|
 [fc]
-[ns]Wataru[nse]
-"Yeah, it's me... I'm happy to see you again... Ren..."[pcms]
+[ns]航[nse]
+「うん。ボクだよ……。[r]
+　また会えて嬉しい……よ。[r]
+　漣……」[pcms]
 
 *2691|
 [fc]
 [vo_ren s="ren0349"]
-[ns]Ren[nse]
-"Yeah... Ren is also happy to have found Onii-chan..."[pcms]
+[ns]漣[nse]
+「うん……漣も、おにいちゃんを見つけられて嬉しいよ……」[pcms]
 
 *2692|
 [fc]
-[ns]Wataru[nse]
-"Ren..."[pcms]
+[ns]航[nse]
+「漣……」[pcms]
 
 *2693|
 [fc]
-My vision blurs, and my eyes feel hot. Despite all the[r]
-crying, and trying so hard not to cry anymore, tears start[r]
-to fall uncontrollably.[pcms]
+視界がぼやけて、目元が熱くなる。[r]
+アレだけ泣いて、もう泣かないと我慢していたはずの涙が[r]
+ボロボロとこぼれだしていた。[pcms]
 
 *2694|
 [fc]
 [vo_ren s="ren0350"]
-[ns]Ren[nse]
-"Hey... Onii-chan. Let me in quickly. You must be hungry[r]
-too, right?"[pcms]
+[ns]漣[nse]
+「ねぇ……おにいちゃん。[r]
+　早く中に入れてよ。[r]
+　おにいちゃんも、おなか空いてるよね？」[pcms]
 
 *2695|
 [fc]
 [vo_ren s="ren0351"]
-[ns]Ren[nse]
-"I couldn't make curry last time, so today I'll make it for[r]
-you. ...So please, open the door, Onii-chan..."[pcms]
+[ns]漣[nse]
+「この前はカレーを作れなかったから、[r]
+　今日はカレーを作ってあげるよ。[r]
+　……だから、開けて。おにいちゃん……」[pcms]
 
 *2696|
 [fc]
-[ns]Wataru[nse]
-"I also want to eat Ren's curry. ...But I'm sorry. I can't."[pcms]
+[ns]航[nse]
+「ボクも漣のカレー食べたいよ？[r]
+　……でも、ごめん。[r]
+　ダメなんだ」[pcms]
 
 *2697|
 [fc]
-[ns]Wataru[nse]
-"I can't open it... I'm sorry... I'm so sorry, Ren..."[pcms]
+[ns]航[nse]
+「開けられないんだ……。[r]
+　ごめん……。[r]
+　ごめんね、漣……」[pcms]
 
 *2698|
 [fc]
 [vo_ren s="ren0352"]
-[ns]Ren[nse]
-"Uuu... Onii-chaaan..."[pcms]
+[ns]漣[nse]
+「ううっ……。[r]
+　おにいちゃ～ん……」[pcms]
 
 *2699|
 [fc]
-The sobbing voice leaks through the hatch.[pcms]
+ハッチ越しに漏れてくるむせび泣く声。[pcms]
 
 *2700|
 [fc]
-[ns]Wataru[nse]
-"Ren!"[pcms]
+[ns]航[nse]
+「漣っ！」[pcms]
 
 ;//BGM　変更
 
 *2701|
 [fc]
 [vo_ren s="ren0353"]
-[ns]Ren[nse]
-"Is it no good...?"[pcms]
+[ns]漣[nse]
+「だめなの……？」[pcms]
 
 *2702|
 [fc]
-[ns]Wataru[nse]
-"...!!"[pcms]
+[ns]航[nse]
+「………………っ！！」[pcms]
 
 *2703|
 [fc]
-The terrifying tone mixed with crying makes me shudder, and[r]
-my heart feels like it's being gripped tightly.[pcms]
+泣き声まじりの恐ろしい声色にボクはぞっとして、[r]
+心臓をワシづかみにされたように苦しくなった。[pcms]
 
 *2704|
 [fc]
 [vo_ren s="ren0354"]
-[ns]Ren[nse]
-"Did Onii-chan come to hate me? Am I... no longer needed?"[pcms]
+[ns]漣[nse]
+「おにいちゃんは、私が嫌いになったんだ？[r]
+　私なんて……もう、いらないんだ？」[pcms]
 
 *2705|
 [fc]
-[ns]Wataru[nse]
-"That's not it... It's not like that..."[pcms]
+[ns]航[nse]
+「違う……。[r]
+　そういうわけじゃ……」[pcms]
 
 *2706|
 [fc]
 [vo_ren s="ren0355"]
-[ns]Ren[nse]
-"Because I'm weak? I see, you've become tired of taking care[r]
-of me. Is that it?"[pcms]
+[ns]漣[nse]
+「身体が弱いから？[r]
+　そっか、私のことが面倒になったんだ。[r]
+　そうでしょ？」[pcms]
 
 *2707|
 [fc]
-[ns]Wataru[nse]
-"That's not it..."[pcms]
+[ns]航[nse]
+「違う……」[pcms]
 
 *2708|
 [fc]
-I weakly deny the malicious words that I would never expect[r]
-from Ren, barely squeezing out the words.[pcms]
+漣とは思えない意地悪な言葉にボクは弱々しく、[r]
+やっと搾り出した言葉で否定する。[pcms]
 
 *2709|
 [fc]
-But...[pcms]
+だけど……。[pcms]
 
 *2710|
 [fc]
 [vo_ren s="ren0356"]
-[ns]Ren[nse]
-"Then why didn't you come to save me...?"[pcms]
+[ns]漣[nse]
+「じゃあ、なんで助けに来てくれなかったの……？」[pcms]
 
 *2711|
 [fc]
-[ns]Wataru[nse]
-"...That, that is..."[pcms]
+[ns]航[nse]
+「……そ、それは……」[pcms]
 
 *2712|
 [fc]
-I feel like my breath and even my heart might stop at those[r]
-words.[pcms]
+その言葉にボクは息が止まりそうになる。[r]
+息だけじゃなくて心臓も。[pcms]
 
 *2713|
 [fc]
-My mouth is dry, my body feels as heavy as lead, and even my[r]
-fingers seem unable to move.[pcms]
+口の中がからからに乾いて、身体は鉛のように重くなって、[r]
+指すら動きそうにない。[pcms]
 
 *2714|
 [fc]
-My mind goes blank, and it feels like everything might just[r]
-disappear. No, maybe it would be better if it all just[r]
-vanished.[pcms]
+頭の中も真っ白になって、[r]
+すべて消えてしまいそうな気がしてしまう。[r]
+いや、このまま消えてしまえばいい。[pcms]
 
 *2715|
 [fc]
-I thought that while being bombarded with words from Ren.[pcms]
+ボクは漣から浴びせられている言葉にそう思っていた。[pcms]
 
 *2716|
 [fc]
 [vo_ren s="ren0357"]
-[ns]Ren[nse]
-"I was waiting for you~? I was waiting for Onii-chan to come[r]
-save me... I waited so long, you know?"[pcms]
+[ns]漣[nse]
+「待ってたんだよ～？[r]
+　おにいちゃんが助けに来てくれるって……[r]
+　ず～っと待ってたんだよ？」[pcms]
 
 *2717|
 [fc]
-[ns]Wataru[nse]
-"...I'm sorry. I couldn't make it to where you were, Ren..."[pcms]
+[ns]航[nse]
+「……ごめん。[r]
+　漣のところまで行けなかったんだ……」[pcms]
 
 *2718|
 [fc]
 [vo_ren s="ren0358"]
-[ns]Ren[nse]
-"Is that so? But then, why is Yuuho-chan with you? Huh?[r]
-Why?"[pcms]
+[ns]漣[nse]
+「そう？[r]
+　でも、なんで、悠帆ちゃんは一緒なの？[r]
+　ねぇ？　どうして？」[pcms]
 
 *2719|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *2720|
 [fc]
 [vo_ren s="ren0359"]
-[ns]Ren[nse]
-"Yuuho-chan is there, right? Why am I not there with you?[r]
-Why am I not together with you?"[pcms]
+[ns]漣[nse]
+「悠帆ちゃんはいるのに？[r]
+　なんで私はそっちにいないの？[r]
+　なんで、私は一緒じゃないの？」[pcms]
 
 *2721|
 [fc]
 [vo_ren s="ren0360"]
-[ns]Ren[nse]
-"After all, I'm just in the way... Is it because I always[r]
-get bullied, or because I get sick and feel bad? Have you[r]
-gotten tired of taking care of me?"[pcms]
+[ns]漣[nse]
+「やっぱり、私が邪魔なんだ……。いつもいじめられたり、[r]
+　病気でぐあい悪くなったりしてるから？[r]
+　もう面倒見るのが、イヤになったの？」[pcms]
 
 *2722|
 [fc]
 [vo_ren s="ren0361"]
-[ns]Ren[nse]
-"Hey, Onii-chan...? Answer me, Onii-chan."[pcms]
+[ns]漣[nse]
+「ねぇ、おにいちゃん……？[r]
+　答えてよおにいちゃん」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -1113,58 +1135,62 @@ gotten tired of taking care of me?"[pcms]
 *2723|
 [fc]
 [vo_ren s="ren0362"]
-[ns]Ren[nse]
-"Answer me!!"[pcms]
+[ns]漣[nse]
+「答えてよぉ！！」[pcms]
 
 *2724|
 [fc]
-Ren's voice becomes rough again, and she bangs on the hatch[r]
-forcefully.[pcms]
+漣の声がまた乱暴になって、強くハッチを叩く。[pcms]
 
 *2725|
 [fc]
-[ns]Wataru[nse]
-"It's not that! The reason I couldn't come to save you is[r]
-because I was weak, because I couldn't make it to where you[r]
-were! I wanted to save you!"[pcms]
+[ns]航[nse]
+「違う！　助けに行けなかったのはボクが弱かったから、[r]
+　漣のところまでたどり着けなかったからだ！[r]
+　助けたかったんだ！」[pcms]
 
 *2726|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry! I wanted to! I really wanted to save you!!"[pcms]
+[ns]航[nse]
+「ごめん！　ボクだって！[r]
+　ボクだって助けたかったんだ！！」[pcms]
 
 *2727|
 [fc]
 [vo_ren s="ren0363"]
-[ns]Ren[nse]
-"Really? Onii-chan. Really?"[pcms]
+[ns]漣[nse]
+「ほんと？　おにいちゃん。[r]
+　ほんとに？」[pcms]
 
 *2728|
 [fc]
-The banging on the hatch stops.[pcms]
+ハッチを叩くのが止まる。[pcms]
 
 *2729|
 [fc]
-[ns]Wataru[nse]
-"Yes. Ren is my precious little sister. I love you..."[pcms]
+[ns]航[nse]
+「うん。[r]
+　漣はボクの大切な妹だ。[r]
+　大好きだよ……」[pcms]
 
 *2730|
 [fc]
 [vo_ren s="ren0364"]
-[ns]Ren[nse]
-"Really...?"[pcms]
+[ns]漣[nse]
+「本……当……？」[pcms]
 
 *2731|
 [fc]
-[ns]Wataru[nse]
-"Really... yes."[pcms]
+[ns]航[nse]
+「本当……だよ」[pcms]
 
 *2732|
 [fc]
 [vo_ren s="ren0365"]
-[ns]Ren[nse]
-"Onii-chan... Then hurry up and open this... You said I'm[r]
-your precious sister, right? Your beloved sister, right!"[pcms]
+[ns]漣[nse]
+「おにいちゃん……。[r]
+　じゃあ、早くここを開けて……。[r]
+　大切な妹なんでしょ！　大好きな妹なんでしょ！」[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -1192,69 +1218,72 @@ your precious sister, right? Your beloved sister, right!"[pcms]
 *2733|
 [fc]
 [vo_ren s="ren0366"]
-[ns]Ren[nse]
-"Hey! Open it!! Hey! Hey! Open it! Open it! Open it!! Open[r]
-it~!! Open it~~!!"[pcms]
+[ns]漣[nse]
+「ねぇ！　開けてよ！！　ねぇ！[r]
+　ねぇ！　開けて！　開けろ！　開けろ！！[r]
+　あけろ～！！　あけろ～～っ！！」[pcms]
 
 *2734|
 [fc]
-The voice that seemed to be crying suddenly changes to[r]
-anger, and she begins to pound on the hatch.[pcms]
+泣いていたような声が急変して、怒りにかわり、[r]
+ハッチを殴り始める。[pcms]
 
 *2735|
 [fc]
-[ns]Wataru[nse]
-"Uwaa..."[pcms]
+[ns]航[nse]
+「うわぁ……」[pcms]
 
 *2736|
 [fc]
-I crouch down, holding my head in my hands.[pcms]
+ボクは頭を抱えてうずくまった。[pcms]
 
 *2737|
 [fc]
 [ns]？？？[nse]
-"I smell a woman..."[pcms]
+「女のにおいだぁ……」[pcms]
 ;//＠感染者
 
 *2738|
 [fc]
 [ns]？？？[nse]
-"Let me have a turn~"[pcms]
+「やらせろ～」[pcms]
 ;//＠感染者
 
 *2739|
 [fc]
 [ns]？？？[nse]
-"Give it to me~"[pcms]
+「くわせろぉ～」[pcms]
 ;//＠感染者
 
 *2740|
 [fc]
-The growling of the infected can be heard approaching from[r]
-afar. If they attack me... I'll end up like Ren...[pcms]
+遠くから、感染者のうなり声が近づいてくる。[r]
+あいつらに襲われたらボクも……ボクも漣みたいに……。[pcms]
 
 *2741|
 [fc]
-Together with Ren? Maybe that wouldn't be so bad.[pcms]
+漣と一緒に？[r]
+それでいいかもしれない。[pcms]
 
 *2742|
 [fc]
-The last man alive on Earth was feared as the "Legendary[r]
-Monster."[pcms]
+地球でたった一人生き残った男は[r]
+『伝説の怪物』として恐れられた。[pcms]
 
 *2743|
 [fc]
-By the new masters of Earth, the "Vampires." Not the ending[r]
-of the remade movie, but the original one.[pcms]
+地球の主人となった新たな人類『吸血鬼』たちから。[r]
+リメイク版の映画ではなくなった本来のオチだ。[pcms]
 
 *2744|
 [fc]
---That's right. Maybe I should just become one of Ren's[r]
-kind. After all, Kousuke and Dad...[pcms]
+――そうだ。[r]
+このままボクも漣の仲間になればいい。[r]
+どうせコースケも父さんも……。[pcms]
 
 *2745|
 [fc]
-I don't want to be left alone.[pcms]
+ボクだけ残るのはイヤだ。[pcms]
 
 ;//se043・ハッチを乱打
 [se buf=0 storage="se043"]
@@ -1281,48 +1310,49 @@ I don't want to be left alone.[pcms]
 
 *2746|
 [fc]
-The banging on the hatch increases, and the walls begin to[r]
-creak.[pcms]
+ハッチを叩く音が増え、ハッチが壁が軋みをあげる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2747|
 [fc]
 [vo_mar s="maru0363"]
-[ns]Margarita[nse]
-"The hatch looks like it's going to break. The door might[r]
-hold, but the surrounding concrete is deteriorating... if[r]
-they keep swarming like this..."[pcms]
+[ns]マルガリータ[nse]
+「ハッチが破られそうだ。[r]
+　扉は大丈夫かもしれないが、周囲のコンクリートが[r]
+　老朽化している……これだけ殺到されたら……」[pcms]
 
 *2748|
 [fc]
-Maruko-senpai is shouting. But it doesn't matter anymore.[r]
-I'm going to become one of Ren's kind.[pcms]
+マル子先輩が叫んでいる。[r]
+でも、もう、どうでもいい。[r]
+ボクは漣の仲間になるんだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a10"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2749|
 [fc]
 [vo_mar s="maru0364"]
-[ns]Margarita[nse]
-"Ayase! Ayase Wataru! We're going to escape from here!"[pcms]
+[ns]マルガリータ[nse]
+「アヤセ！　アヤセ　ワタル！　ここから逃げるぞ！」[pcms]
 
 *2750|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *2751|
 [fc]
-It doesn't matter anymore... Senpai can escape by herself.[pcms]
+もう、どうでもいい……。[r]
+先輩一人で逃げてくれれば。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2752|
 [fc]
 [vo_mar s="maru0365"]
-[ns]Margarita[nse]
-"Ayase!"[pcms]
+[ns]マルガリータ[nse]
+「アヤセッ！」[pcms]
 
 ;//se057・ビンタ
 [se buf=0 storage="se057"]
@@ -1333,112 +1363,117 @@ It doesn't matter anymore... Senpai can escape by herself.[pcms]
 
 *2753|
 [fc]
-A sharp pain runs across my cheek, and I am forcefully[r]
-grabbed by the chest.[pcms]
+熱い痛みが頬にはしり、[r]
+ボクは力強く胸元をつかみあげられる。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2754|
 [fc]
 [vo_mar s="maru0366"]
-[ns]Margarita[nse]
-"Get a grip! That's no longer your sister!!"[pcms]
+[ns]マルガリータ[nse]
+「しっかりしろ！[r]
+　アレはもうキミの妹さんじゃない！！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2755|
 [fc]
 [vo_mar s="maru0367"]
-[ns]Margarita[nse]
-"What did you save her for!? Aren't you supposed to protect[r]
-her?!"[pcms]
+[ns]マルガリータ[nse]
+「キミはなんのために彼女を、助け出したんだ！？[r]
+　キミは彼女を守るんじゃないのか？！」[pcms]
 
 *2756|
 [fc]
-[ns]Wataru[nse]
-"Yuu... ho...?"[pcms]
+[ns]航[nse]
+「悠……帆……？」[pcms]
 
 *2757|
 [fc]
-Maruko-senpai points at Yuuho and speaks to me.[pcms]
+マル子先輩は悠帆を指差してボクに言った。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *2758|
 [fc]
-A sense of mission surges in my heart that had fallen into[r]
-despair. It feels like blood is flowing back into my[r]
-powerless limbs.[pcms]
+絶望したボクの心に使命感が湧き上がる。[r]
+力を失った手足に血が通ってゆくような気がする。[pcms]
 
 *2759|
 [fc]
-That's right, Yuuho is still here. I have to... I have to[r]
-protect Yuuho!![pcms]
+そうだ、まだ悠帆がいる。[r]
+ボクは……。[r]
+ボクは悠帆を守らなくっちゃ！！[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2760|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry! Senpai!"[pcms]
+[ns]航[nse]
+「すいません！　先輩！」[pcms]
 
 ;//se033・金属の鍵が力任せに破壊される音
 [se buf=0 storage="se033"]
 
 *2761|
 [fc]
-[ns]Wataru[nse]
-"!"[pcms]
+[ns]航[nse]
+「っ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *2762|
 [fc]
 [vo_mar s="maru0368"]
-[ns]Margarita[nse]
-"We can't hold out much longer! You take care of Kannagi![r]
-I'll pack up and break through the door!"[pcms]
+[ns]マルガリータ[nse]
+「もう、もたない！[r]
+　キミはカンナギを！[r]
+　ワタシは荷物をまとめて扉を破る！」[pcms]
 
 *2763|
 [fc]
-[ns]Wataru[nse]
-"Yes!"[pcms]
+[ns]航[nse]
+「はいっ！」[pcms]
 
 ;//@konya char_clear
 [chara_int_ layer=5][trans_c cross time=150]
 
 *2764|
 [fc]
-I try to go to Yuuho's side following Senpai's words.[pcms]
+ボクは先輩の言葉に悠帆のそばに行こうとする。[pcms]
 
 *2765|
 [fc]
 [vo_ren s="ren0367"]
-[ns]Ren[nse]
-"Who's that!? Onii-chan, is there another woman there!?[r]
-She's trying to steal you from me too!"[pcms]
+[ns]漣[nse]
+「だれっ！？[r]
+　おにいちゃん、他にも女がいるの！？[r]
+　そいつもおにいちゃんを私から盗る気なんだ！」[pcms]
 
 *2766|
 [fc]
 [vo_ren s="ren0368"]
-[ns]Ren[nse]
-"She's deceiving you, Onii-chan! I'll kill her too! Open it![r]
-Open it~!!"[pcms]
+[ns]漣[nse]
+「おにいちゃんを騙してるんだ！[r]
+　お前もコロしてやる！[r]
+　開けろ！　開けろぉ～！！」[pcms]
 
 *2767|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry, Ren. I'm so sorry..."[pcms]
+[ns]航[nse]
+「ごめんよ漣。[r]
+　ごめんよ……」[pcms]
 
 ;//se050・コンクリートの上の足音（一人）
 [se buf=0 storage="se050"]
 
 *2768|
 [fc]
-I pick up the flashlight I had dropped on the floor, embrace[r]
-Yuuho's shoulders as she crouches and cries, and pull her up[r]
-to descend into the basement.[pcms]
+ボクは床に落としていたライトを拾い上げ、[r]
+うずくまったままで泣いている悠帆の肩を抱いて、[r]
+引き起こすと地下室へと降りる。[pcms]
 
 ;//se048・鉄パイプが床に落ちる
 [se buf=0 storage="se048"]
@@ -1449,14 +1484,14 @@ to descend into the basement.[pcms]
 
 *2769|
 [fc]
-Senpai removes the iron pipe that's been used as a brace[r]
-from the rusty door and takes off the rusted chain that's[r]
-been cut.[pcms]
+先輩はさびた扉から、つっかえ棒になっている[r]
+鉄パイプをはずし、さびて切れた鎖を外した。[pcms]
 
 *2770|
 [fc]
-I shoulder two bags that Senpai had packed and brought near[r]
-the door. They're for Yuuho and me.[pcms]
+ボクは先輩がまとめ、[r]
+扉の近くまで運んでくれていた荷物を二つ背負う。[r]
+悠帆とボクの分だ。[pcms]
 
 ;//→ブロック４１０５０へ
 [jump storage="41050.ks" target=*41050_TOP]

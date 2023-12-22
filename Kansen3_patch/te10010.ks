@@ -8,7 +8,7 @@
 ;//・視点：主人公一人称
 ;//登場人物:主人公・悠帆
 ;//時間帯：
-;//・時間：６日目（８月２０日）朝
+;//・時間：６日目（８月２０日）朝～
 ;//テキスト分量：3k
 ;//--------------------------------------------------------------------
 ;//悠帆ルート：
@@ -29,29 +29,29 @@
 *6|
 [fc]
 [vo_yuh s="yuho_TE0042"]
-[ns]Yuuho[nse]
-"So you were here..."[pcms]
+[ns]悠帆[nse]
+「ここにいたんだ……」[pcms]
 
 *7|
 [fc]
-[ns]Wataru[nse]
-"Yeah. The gas attacks are starting tomorrow. I thought[r]
-maybe I wouldn't be able to come up here for a while, so I[r]
-wanted to see the stars... even if just a little."[pcms]
+[ns]航[nse]
+「うん。明日にはガスの攻撃が始まるからね。[r]
+　もしかしたら当分はここに上がってこられないと思って。[r]
+　少しでも、星が……見たかったんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8|
 [fc]
 [vo_yuh s="yuho_TE0043"]
-[ns]Yuuho[nse]
-"I see. But there aren't many stars, are there?"[pcms]
+[ns]悠帆[nse]
+「そう。でも、星、あんまりないね」[pcms]
 
 *9|
 [fc]
-[ns]Wataru[nse]
-"It's not that there aren't any. They're just not visible.[r]
-But look, you can count a few first-magnitude stars, right?"[pcms]
+[ns]航[nse]
+「ないわけじゃないよ。見えないだけなんだ。[r]
+　でも、ほら、一等星なんかは、いくつか数えられるだろ？」[pcms]
 
 [evcg storage="EV016e"][trans_c cross time=300]
 
@@ -60,13 +60,13 @@ But look, you can count a few first-magnitude stars, right?"[pcms]
 *10|
 [fc]
 [vo_yuh s="yuho_TE0044"]
-[ns]Yuuho[nse]
-"Hmm- Oh, you're right. ...Hey, Wataru"[pcms]
+[ns]悠帆[nse]
+「んー。あ、ほんとだ。……あのさ、航」[pcms]
 
 *11|
 [fc]
-[ns]Wataru[nse]
-"Hmm? What is it?"[pcms]
+[ns]航[nse]
+「ん？　何？」[pcms]
 
 [evcg storage="EV013q"][trans_c cross time=300]
 
@@ -75,24 +75,23 @@ But look, you can count a few first-magnitude stars, right?"[pcms]
 *12|
 [fc]
 [vo_yuh s="yuho_TE0045"]
-[ns]Yuuho[nse]
-"The reason I came here is... well... I wanted to clear up a[r]
-misunderstanding before today ends... that's it."[pcms]
+[ns]悠帆[nse]
+「わたし、ここに来たのは……その……。[r]
+　今日のうちに誤解を解いておきたくて……なんだ」[pcms]
 
 *13|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *14|
 [fc]
 [vo_yuh s="yuho_TE0046"]
-[ns]Yuuho[nse]
-"About Oshima-senpai... Look, it really was nothing. I was[r]
-indeed called out. I went to meet him on the night of the[r]
-festival."[pcms]
+[ns]悠帆[nse]
+「大嶋先輩の……こと。あのね、本当に何でもなかったの。[r]
+　確かに呼び出された。あのお祭りの晩、会いにも行った」[pcms]
 
 [evcg storage="EV016d"][trans_c cross time=300]
 
@@ -101,52 +100,52 @@ festival."[pcms]
 *15|
 [fc]
 [vo_yuh s="yuho_TE0047"]
-[ns]Yuuho[nse]
-"He confessed, asking me to go out with him... and then, he[r]
-tried to kiss me..."[pcms]
+[ns]悠帆[nse]
+「付き合ってくれって告白されて……そのあと、キス……[r]
+　迫られたの」[pcms]
 
 *16|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *17|
 [fc]
 [vo_yuh s="yuho_TE0048"]
-[ns]Yuuho[nse]
-"...I was so surprised. I didn't think something like that[r]
-would happen... and I was scared, so I bit down hard on[r]
-Oshima-senpai's approaching lips..."[pcms]
+[ns]悠帆[nse]
+「……わたし、びっくりして。そんな事されると思って[r]
+　なくて……その、つい恐くて、大嶋先輩の迫ってきた[r]
+　唇に……思いっ切り、噛み付いちゃったの……」[pcms]
 
 *17a|
 [fc]
-[ns]Wataru[nse]
-"!"[pcms]
+[ns]航[nse]
+「……！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *18|
 [fc]
 [vo_yuh s="yuho_TE0049"]
-[ns]Yuuho[nse]
-"I bit down so hard that it drew blood... Oshima-senpai was[r]
-standing there dumbfounded, bleeding from his lips. I didn't[r]
-know what to do either..."[pcms]
+[ns]悠帆[nse]
+「思いっ切り、血が出るぐらい……噛み付いちゃったの。[r]
+　大嶋先輩……唇から血を流しながら呆然としていた。[r]
+　わたしも、どうしていいかわからなくなって……」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *19|
 [fc]
 [vo_yuh s="yuho_TE0050"]
-[ns]Yuuho[nse]
-"In a panic, I ran away from the spot..."[pcms]
+[ns]悠帆[nse]
+「慌てて、その場から走って逃げたの……」[pcms]
 
 *20|
 [fc]
-[ns]Wataru[nse]
-"I see..."[pcms]
+[ns]航[nse]
+「そうだったんだ……」[pcms]
 
 [evcg storage="EV016e"][trans_c cross time=300]
 
@@ -155,53 +154,51 @@ know what to do either..."[pcms]
 *21|
 [fc]
 [vo_yuh s="yuho_TE0051"]
-[ns]Yuuho[nse]
-"Yeah. But later on, I thought maybe biting him was too[r]
-much. Maybe I could have just pushed him away... or found[r]
-some other gentler way. When I thought about it like that...[r]
-I decided to apologize."[pcms]
+[ns]悠帆[nse]
+「うん。でも、あとで考えたら、噛み付くのはやりすぎだった[r]
+　かなって。押し返すとか……何か、もう少し穏やかな方法、[r]
+　あったかなって。そう思ったら……謝ろうって思ったの」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *22|
 [fc]
 [vo_yuh s="yuho_TE0052"]
-[ns]Yuuho[nse]
-"That's what the lunchbox was for, as a sign of my apology.[r]
-So, Wataru, it's not the kind of relationship you were[r]
-thinking about with Oshima-senpai, really. Do you[r]
-understand? Wataru"[pcms]
+[ns]悠帆[nse]
+「それが、そのお詫びの印が、あのお弁当だったの。[r]
+　だから、大嶋先輩とは、航が思っているような関係じゃ[r]
+　ないのよ、本当に。わかってくれる？　航」[pcms]
 
 *23|
 [fc]
-[ns]Wataru[nse]
-"Yeah. I understand. I believe what Yuuho says. Actually,[r]
-I've been feeling uneasy too. But I didn't want to make[r]
-Yuuho angry again..."[pcms]
+[ns]航[nse]
+「うん。わかった。悠帆の言う事、信じるよ。[r]
+　ボクも、実はもやもやしてたんだ。[r]
+　でも、また悠帆を怒らせるのも……って思って」[pcms]
 
 *24|
 [fc]
-[ns]Wataru[nse]
-"Thank you, Yuuho. Ah-- that's a relief!"[pcms]
+[ns]航[nse]
+「ありがとう、悠帆。ああーーっスッキリした！」[pcms]
 
 ;[ChrSetEx layer=5 chbase="yuho_a11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *25|
 [fc]
 [vo_yuh s="yuho_TE0053"]
-[ns]Yuuho[nse]
-"Yeah. Thank you, Wataru. Ah--! I feel relieved too!"[pcms]
+[ns]悠帆[nse]
+「うん。ありがとう航。ああーーっ！　わたしもスッキリ！」[pcms]
 
 *26|
 [fc]
-Wataru and Yuuho looked at each other and laughed. I could[r]
-believe that what Yuuho was saying was true. Yuuho explained[r]
-everything without getting angry at my misunderstanding.[pcms]
+ボクと悠帆は、お互い顔を見合わせて笑った。[r]
+悠帆の言っている事は、本当の事なんだとボクは信じることが[r]
+できた。ボクの誤解を怒りもせず、説明してくれた悠帆。[pcms]
 
 *27|
 [fc]
-All my worries and the things that were bothering me were[r]
-blown away beyond the night sky.[pcms]
+ボクの不安。わだかまっていたものは、一切合切、[r]
+夜空の向こうへと吹き飛ばされていた。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -268,7 +265,7 @@ blown away beyond the night sky.[pcms]
 ;	[zap_set1]
 ;	[zap_set2]
 ;
-[pcms]
+;	[s]
 ;	;------------------------------------------------
 ;	*aspect_SELモブ|ザッピング選択肢　その他
 ;

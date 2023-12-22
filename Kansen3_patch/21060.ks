@@ -25,52 +25,51 @@
 
 *482|
 [fc]
-When I struck the mop handle with all my might, the infected[r]
-person lost their balance surprisingly easily and fell over.[pcms]
+渾身の力を込めてモップの柄を叩きこむと、[r]
+意外なほどあっさりと感染者は体勢を崩し、そのまま転倒した。[pcms]
 
 *483|
 [fc]
-It seems that their endurance and strength are quite[r]
-formidable, but their overall motor skills are significantly[r]
-inferior to those of an ordinary human.[pcms]
+どうやら耐久力や腕力は強いみたいだけど、[r]
+運動神経全般は普通の人間よりはるかに劣っているらしい。[pcms]
 
 *484|
 [fc]
-Once they've fallen, they can't properly get up while their[r]
-arm is caught in the window frame.[pcms]
+一度転ばせると、窓枠に腕を引っかけたまま、[r]
+満足に起き上がることもできないようだ。[pcms]
 
 *485|
 [fc]
-I took this opportunity to fully open the sliding window and[r]
-called out to Yuuho above on the corridor.[pcms]
+ボクはこの隙にスライド式の窓を全開に開けると、[r]
+渡り廊下の上の悠帆を呼んだ。[pcms]
 
 *486|
 [fc]
-[ns]Wataru[nse]
-"Yuuho, Yuuho!! Are you alright, Yuuho!!"[pcms]
+[ns]航[nse]
+「悠帆、悠帆！！　無事か悠帆！！」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_c1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *487|
 [fc]
 [vo_yuh s="yuho0119"]
-[ns]Yuuho[nse]
-"Wataru... you came to save me!!"[pcms]
+[ns]悠帆[nse]
+「航……助けに来てくれたのね！！」[pcms]
 
 *488|
 [fc]
-Then, while maintaining her balance on the unstable footing[r]
-of the roof, Yuuho began to move slowly towards us.[pcms]
+すると屋根の不安定な足場でバランスを取りながら[r]
+悠帆はゆっくりとこちらに移動しはじめた。[pcms]
 
 *489|
 [fc]
-As expected of one of the top athletes at the academy, her[r]
-motor skills were exceptional.[pcms]
+流石は学園でも屈指のトップアスリート。[r]
+その運動神経は卓越したものがあった。[pcms]
 
 *490|
 [fc]
-Yuuho displayed a superb sense of balance as she smoothly[r]
-approached us.[pcms]
+悠帆は絶妙なバランス感覚を発揮して、こちらへと[r]
+スムーズに近づいてくる。[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢
@@ -80,15 +79,14 @@ approached us.[pcms]
 
 
 ;	[link storage="B_F2.ks" target=*B_F2_TOP]悠帆に手をさしのべる[endlink]
-;       (link storage="21070.ks" target=*21070_TOP)Be[r]
-cautious of the infected(endlink)[pcms]
+;	[link storage="21070.ks" target=*21070_TOP]感染者を警戒[endlink][s]
 
 *SEL15|悠帆に手をさしのべる／感染者を警戒
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Extend a hand to Yuuho'"]
-[eval exp="f.seltext04 = 'Be cautious of the infected'"]
+[eval exp="f.seltext02 = '悠帆に手をさしのべる'"]
+[eval exp="f.seltext04 = '感染者を警戒'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

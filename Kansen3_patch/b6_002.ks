@@ -19,188 +19,191 @@
 
 *36|
 [fc]
-First, let's head towards Yuuho!! It's more dangerous for[r]
-Yuuho since we can go directly from the first floor.[pcms]
+先に、悠帆のほうへ向かおう！！[r]
+１階から直接行ける分だけ、悠帆のほうが危険だ。[pcms]
 
 *37|
 [fc]
-Indeed, more people went to the left, and I'm almost out of[r]
-breath from running, but they're slow so I should be able to[r]
-manage.[pcms]
+確かに人数は左に向かったほうが多いし、[r]
+走りっぱなしだから息も切れかけてるけれど、[r]
+動きは遅いからなんとかなるだろう。[pcms]
 
 *38|
 [fc]
-I've managed to escape up to this point, so it'll be okay.[pcms]
+今までだってなんとかここまで逃げてこれたし、大丈夫。[pcms]
 
 *39|
 [fc]
-I can do it too![pcms]
+ボクだってイケるっ！[pcms]
 
 *40|
 [fc]
-Besides...[pcms]
+それに……。[pcms]
 
 *41|
 [fc]
-Besides, Yuuho is waiting for help ahead.[pcms]
+それにこの先には、悠帆が助けを待っているんだ。[pcms]
 
 *42|
 [fc]
-...I don't know if there's morning practice or not, but[r]
-she's definitely there.[pcms]
+……朝練があるかどうか知らないけど、絶対にいる。[pcms]
 
 *43|
 [fc]
-I won't let Yuuho suffer like someone I just passed by in a[r]
-classroom... Yuuho, I will protect you![pcms]
+悠帆を通りすがりの教室で見かけたような目になんか……。[r]
+悠帆は、ボクが守るんだ！[pcms]
 
 *44|
 [fc]
-[ns]Wataru[nse]
-"Let's go!"[pcms]
+[ns]航[nse]
+「行くぞっ！」[pcms]
 
 *45|
 [fc]
-I couldn't shout out loud to avoid being noticed, but with[r]
-plenty of fighting spirit, I made up my mind and dashed to[r]
-the left... towards the gymnasium.[pcms]
+気が付かれないように大きな声では叫べなかったけれど、[r]
+気合だけは充分に込めて、ボクは意を決して左側へ……[r]
+体育館側へとダッシュした。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *46|
 [fc]
 [vo_mob s="onna_iti0006"]
-[ns]Infected Woman A[nse]
-"Ahahaha... a man. There's a man. A young man."[pcms]
+[ns]感染者・女Ａ[nse]
+「あははは……男。男がいるわぁ。若い男よぉ」[pcms]
 
 *47|
 [fc]
-As soon as I jumped out from hiding, I was inevitably[r]
-spotted by the women.[pcms]
+物陰から飛び出した途端、[r]
+ボクは案の定女たちに見つかった。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *48|
 [fc]
-But I don't want to be attacked by these weirdos. I agilely[r]
-dodged and headed for the gymnasium.[pcms]
+だが、ボクはこんなヘンなヤツラに襲われたくなんかない。[r]
+機敏に避けてボクは体育館へと向かう。[pcms]
 
 *49|
 [fc]
-Alright, the corridor leading to the gymnasium is just[r]
-ahead! The destination is right in front of me! Hang in[r]
-there, me!![pcms]
+よし、もうすぐ体育館へ続く廊下だ！[r]
+目的地は目の前だ！[r]
+頑張れ、ボクっ！！[pcms]
 
 *50|
 [fc]
-Just as I tried to jump over a woman who tackled at my[r]
-feet...[pcms]
+足元に向かってタックルしてくる女を飛んで[r]
+避けようとしたそのとき……。[pcms]
 
 *51|
 [fc]
-I realized that I couldn't jump as high as I thought.[pcms]
+ボクは自分が思ったよりも飛べないことに気がついた。[pcms]
 
 *52|
 [fc]
-[ns]Wataru[nse]
-"Huh?"[pcms]
+[ns]航[nse]
+「えっ？」[pcms]
 
 [赤フラ][quake_bg 元time=500 xy m]
 
 *53|
 [fc]
-Because I was pulled down with great force from behind onto[r]
-the corridor, I couldn't jump.[pcms]
+後ろからすごい力で廊下に叩きつけるように引き倒されたせいで、[r]
+ボクは飛ぶことができなかった。[pcms]
 
 *54|
 [fc]
-Despite being slammed hard onto the corridor, the impact[r]
-wasn't that severe.[pcms]
+思いっきり廊下に叩き付けられたはずなのに、[r]
+それほどの衝撃はなかった。[pcms]
 
 *55|
 [fc]
-It was thanks to the camping gear I had on my back.[pcms]
+それは、背中に背負ったキャンプ用の荷物のおかげだった。[pcms]
 
 *56|
 [fc]
-No, since being pulled down was also a result of someone[r]
-pulling on my gear from behind, I wonder which was better.[pcms]
+いや、引き倒されたのも後ろから荷物を[r]
+引かれた結果なのだから、どちらの方が良かったんだろうか。[pcms]
 
 *57|
 [fc]
-[ns]Wataru[nse]
-"Whoa!!"[pcms]
+[ns]航[nse]
+「うわっ！！」[pcms]
 
 *58|
 [fc]
-In a panic, I tried to shake off my gear and get up.[pcms]
+慌てて荷物を振りほどいて起き上がろうとした。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *59|
 [fc]
 [vo_mob s="onna_iti0007"]
-[ns]Infected Woman A[nse]
-"Ahahaaaaaa!! Caught yaaaa!! Ahahahahaha!!"[pcms]
+[ns]感染者・女Ａ[nse]
+「あはぁぁぁああぁ！！！！！！！！！！！[r]
+　つかまぇたぁぁあ！！！[r]
+　あははははははははあ！！」[pcms]
 
 *60|
 [fc]
-But already on top of me was a woman with a triumphant[r]
-look...[pcms]
+でもボクの上には既に勝ち誇ったような顔をした女が[r]
+またがっていて……。[pcms]
 
 *61|
 [fc]
-Looking down at me with eyes as if she was looking at a[r]
-feast...[pcms]
+ボクを、まるでご馳走でも見るような目をして、[r]
+見下ろしている……。[pcms]
 
 *62|
 [fc]
-Scenes from just moments ago flashed through my mind.[pcms]
+ボクの脳裏には、ついさっき見た光景がよぎる。[pcms]
 
 *63|
 [fc]
-Will I end up like that too...?[pcms]
+ボクも、あんな風に……。[pcms]
 
 *64|
 [fc]
-Will I be killed, or... will I become like these strange[r]
-people?[pcms]
+ボクも、殺されてしまうんだろうか？[r]
+それとも……。[r]
+このおかしな人達と同じようになってしまうんだろうか？[pcms]
 
 *65|
 [fc]
-"My life wasn't supposed to be like this"[pcms]
+『ボクの人生、こんなハズではなかったはずなのに』[pcms]
 
 *66|
 [fc]
-That common phrase repeated in my mind.[pcms]
+良く聞く言い回しが脳の中で繰り返される。[pcms]
 
 *67|
 [fc]
-There's no such convenient story. It's too late to regret[r]
-now...[pcms]
+そんな都合のいい話なんて、ない。[r]
+今さら反省しても遅いけれど……。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_c"][ChrSetXY layer=5 x=174 y=0][trans_c cross time=150]
 
 *68|
 [fc]
 [vo_mob s="onna2_0004"]
-[ns]Infected Woman C[nse]
-"Where's the man~? Where is my man!?"[pcms]
+[ns]感染者・女Ｃ[nse]
+「男はどこぉ～？[r]
+　私の男はどこ！？」[pcms]
 
 *69|
 [fc]
-Without my life flashing before my eyes like a revolving[r]
-lantern... my vision was filled with women with uniformly[r]
-red eyes.[pcms]
+走馬灯のように人生が脳裏を巡ることもなく……[r]
+ボクの視界は一様に赤い目をした女たちに、[r]
+埋め尽くされていった。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *70|
 [fc]
 [vo_mob s="onna_san0001"]
-[ns]Infected Woman D[nse]
-"Ahahahaha! A young man, huh! Let's have plenty of fun from[r]
-now on, shall we!?"[pcms]
+[ns]感染者・女Ｄ[nse]
+「あははははぁ！　若い男だねえ！[r]
+　これからたっぷり、楽しみましょぉ！？」[pcms]
 
 ;//〆：ゲームオーバー画面へ。
 ;//jump：ブロック●●●●●
@@ -209,7 +212,7 @@ now on, shall we!?"[pcms]
 
 ;//●ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 
 
 

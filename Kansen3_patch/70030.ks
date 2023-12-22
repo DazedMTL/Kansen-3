@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）朝
+;//・時間：５日目（８月１９日）朝～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：
@@ -19,41 +19,39 @@
 
 *172|
 [fc]
-[ns]Wataru[nse]
-"Could it be... an infection...?"[pcms]
+[ns]航[nse]
+「まさか……感染……？」[pcms]
 
 *173|
 [fc]
-...It seems unlikely, but if I think about it calmly, it's[r]
-not impossible.[pcms]
+……まさか、とは思う。[r]
+だけど冷静に考えればあり得なくはない。[pcms]
 
 *174|
 [fc]
-When we were attacked by the infected at the academy, I[r]
-haven't heard the details about what happened before I met[r]
-up with Kousuke... Could there have been some contact...?[pcms]
+学園で感染者たちに襲われたときも、[r]
+コースケと合流する前のことは詳しく聞いていないし……。[r]
+何か接触があったのかも……？[pcms]
 
 *175|
 [fc]
-Moreover, the news said that there's a risk of infection[r]
-even for the elderly and children who have been[r]
-vaccinated...[pcms]
+それに、お年寄りや子供はワクチン接種を受けていても[r]
+感染の危険がある……ってニュースで言ってた。[pcms]
 
 *176|
 [fc]
-The fact that the elderly and children are in danger means[r]
-that those with weaker immune systems might be susceptible[r]
-to airborne transmission. Ren, with her frail body, couldn't[r]
-possibly have strong resistance...[pcms]
+お年寄りや子供が危険だっていうことは、つまり[r]
+抵抗力の弱い者は、空気感染の可能性があるっていうことだ。[r]
+身体の弱い漣は、抵抗力が強いはずがないわけで……。[pcms]
 
 *177|
 [fc]
-[ns]Wataru[nse]
-"Anyway... let's consult with everyone..."[pcms]
+[ns]航[nse]
+「とにかく……みんなに相談しよう……」[pcms]
 
 *178|
 [fc]
-I sluggishly pressed the elevator button.[pcms]
+ボクはのろのろとエレベーターのボタンを押した。[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]

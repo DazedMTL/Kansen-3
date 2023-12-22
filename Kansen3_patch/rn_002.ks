@@ -4,7 +4,7 @@
 ;//@konya 11/13 BG貼付
 
 *rn_002_TOP
-;{SceneSet 漣ルートブリッジ見送り}
+;{SceneSet 漣ルートブリッジ～見送り}
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
@@ -23,117 +23,117 @@
 
 *5444|
 [fc]
-[ns]Wataru[nse]
-"Ugh... u-uh... uuu..."[pcms]
+[ns]航[nse]
+「うっ…………う、うぅ……ううぅ……」[pcms]
 
 ;//bgm06・insomnia
 [bgm storage="BGM06"]
 
 *5445|
 [fc]
-How much time has passed since then...?[pcms]
+あれから……どれくらい経っただろう……。[pcms]
 
 *5446|
 [fc]
-I've been holed up in my room on the 5th floor, crying[r]
-continuously. My eyes and throat are stinging and painful.[r]
-But more than that, the pain in my heart feels like it's[r]
-going to tear me apart.[pcms]
+ボクは５Ｆの自分の部屋に篭って泣き続けていた。[r]
+目も喉もひりひりして痛い。[r]
+だけど、そんなものより、心の痛みに胸が破れてしまいそうだ。[pcms]
 
 *5447|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho... I'm sorry, Yuuho... uuu..."[pcms]
+[ns]航[nse]
+「……悠帆……ごめん、悠帆……ううぅぅ……」[pcms]
 
 *5448|
 [fc]
-I couldn't protect Yuuho in the end. I could do nothing but[r]
-watch her go...[pcms]
+ボクは結局、悠帆を……守れなかった。[r]
+何もできないまま、ただ見送ることしかできなかった……。[pcms]
 
 *5449|
 [fc]
-I was supposed to protect her. I intended to guard her no[r]
-matter what. I was entrusted with a gun by Tadahiko for that[r]
-very reason.[pcms]
+守ってやらなくちゃいけなかったのに。[r]
+どんなことをしても守り抜くつもりだったのに。[r]
+そのために彦ちんから銃を託されていたのに。[pcms]
 
 *5450|
 [fc]
-I... couldn't protect her...[pcms]
+ボクは……守れなかった……。[pcms]
 
 *5451|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry... I'm so sorry... forgive me... uuu..."[pcms]
+[ns]航[nse]
+「ごめん……ごめんよ……ごめん……ううぅぅ……」[pcms]
 
 *5452|
 [fc]
-The last smile Yuuho showed me... Her attempts to act[r]
-cheerful, now painfully come back to me.[pcms]
+悠帆が最後に見せてくれた笑顔が……。[r]
+明るく振舞っていた様子が、痛々しく思い出される。[pcms]
 
 *5453|
 [fc]
-She must have been in pain, scared, and wanting to cry. Yet[r]
-Yuuho was considerate of me until the very end...[pcms]
+辛かったろうに、不安で怖くて、泣き出したかったろうに。[r]
+悠帆は最後まで、ボクを気遣ってくれた……。[pcms]
 
 *5454|
 [fc]
-And yet, I abandoned Yuuho... I couldn't follow her or ease[r]
-her pain. I let her go all alone...[pcms]
+それなのにボクは、悠帆を見捨ててしまった……。[r]
+ついて行ってやることもできず、楽にしてやることもできず。[r]
+たった一人で行かせてしまった……。[pcms]
 
 *5455|
 [fc]
-Should I have shot her at that time? Would killing her with[r]
-my own hands have been the last gift...?[pcms]
+あの時、撃ってあげれば、良かったんだろうか。[r]
+ボクの手で殺してあげるのが、最後の贈り物だったんじゃ……？[pcms]
 
 *5456|
 [fc]
-But I was a coward... and couldn't do anything for her...[pcms]
+だけど、ボクは弱虫で……何もしてやれなくて……。[pcms]
 
 *5457|
 [fc]
-[ns]Wataru[nse]
-"Yuuho... Yuu... uho... Uwaaaaaah...!"[pcms]
+[ns]航[nse]
+「悠帆…………、ゆ、うほ……っ、ううぉおおお……！」[pcms]
 
 *5458|
 [fc]
-If I had that gun with me, I would have shot myself in the[r]
-chest without hesitation.[pcms]
+もしあの銃が手元にあったなら、[r]
+ボクはためらわずに自分の胸を撃ちぬいていただろう。[pcms]
 
 *5459|
 [fc]
-But maybe anticipating that, Tadahiko's gun was taken away[r]
-by Senior Maruko.[pcms]
+だけど、それを予想していたのかどうか、[r]
+彦ちんの銃はマル子先輩に取り上げられている。[pcms]
 
 *5460|
 [fc]
-I tear at my hair and beat my chest over and over. If I[r]
-can't kill myself, then I wanted to at least inflict some[r]
-wounds as a substitute.[pcms]
+ボクは髪を掻き毟り、胸をどんどんと叩く。[r]
+自分を殺すことができないなら、変わりに傷を負いたかった。[pcms]
 
 *5461|
 [fc]
-What kind of punishment would absolve me of my sins? What[r]
-kind of pain must I feel to understand Yuuho's pain...?[pcms]
+どんな罰を与えられたら、ボクの罪は許されるんだろう。[r]
+どんな痛みを味わえば、悠帆の痛みが分かるんだろう……。[pcms]
 
 ;//se003・携帯の着信音
 [se buf=0 storage="se003" loop=true]
 
 *5462|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *5463|
 [fc]
-My phone is ringing. Maybe someone is worried about me...[pcms]
+携帯が鳴ってる。[r]
+誰かが、ボクを心配してくれてるんだろうか……。[pcms]
 
 ;//SE即時停止
 [stopse buf=0]
 
 *5464|
 [fc]
-But right now, I don't want to talk to anyone. Comfort,[r]
-sympathy, understanding. I didn't want to receive anything.[pcms]
+だけど今は誰とも話したくはない。[r]
+慰めも同情も理解も。何も受け取りたくなかった。[pcms]
 
 ;//se003・携帯の着信音
 [se buf=0 storage="se003" loop=true]
@@ -143,20 +143,20 @@ sympathy, understanding. I didn't want to receive anything.[pcms]
 
 *5465|
 [fc]
-The call that had once stopped started ringing again.[r]
-Reluctantly, I picked up the phone to the persistent sound.[pcms]
+いったんは切れた呼び出し音が、再び鳴り始める。[r]
+いつまでも鳴り響くその音に、ボクは仕方なく携帯を手にした。[pcms]
 
 *5466|
 [fc]
-It was from Mizuki when I checked the display.[pcms]
+表示を見ると瑞樹からだった。[pcms]
 
 ;//SE即時停止
 [stopse buf=0]
 
 *5467|
 [fc]
-[ns]Wataru[nse]
-"Mizuki... what is it?"[pcms]
+[ns]航[nse]
+「瑞樹…………何？」[pcms]
 
 ;//★下記２ワード、Ｔ３００１０と共通です
 
@@ -165,24 +165,24 @@ It was from Mizuki when I checked the display.[pcms]
 *5468|
 [fc]
 [vo_miz s="mizuki_T0030"]
-[ns]Mizuki[nse]
-"Wataru!!! Where are you???"[pcms]
+[ns]瑞樹[nse]
+「ワタルっ！！！　どこにいるの？？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_a4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *5469|
 [fc]
 [vo_miz s="mizuki_T0031"]
-[ns]Mizuki[nse]
-"The TV, the TV! It's terrible!! Just come quickly!!"[pcms]
+[ns]瑞樹[nse]
+「て、テレビが、テレビがっ！　大変だよ！！[r]
+　とにかく来てっ！！」[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]
 
 *5470|
 [fc]
-Mizuki's scream, almost bursting my eardrums, snapped me[r]
-back to reality.[pcms]
+鼓膜の破れそうな瑞樹の悲鳴が、ボクを現実に引き戻した。[pcms]
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
 

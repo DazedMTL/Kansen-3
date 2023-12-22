@@ -15,492 +15,488 @@
 *1|
 [fc]
 [vo_mob s="josei0001"]
-[ns]Female[nse]
-"Good morning. I would like to start the emergency strategy[r]
-meeting immediately."[pcms]
+[ns]女性[nse]
+「おはようございます。それでは早速緊急の[r]
+　対策会議を始めたいと思います」[pcms]
 
 *2|
 [fc]
-[ns]Participant A[nse]
-"There's no need to start at such an early hour..."[pcms]
+[ns]参加者Ａ[nse]
+「なにもこんな時間から開始しなくても……」[pcms]
 
 *3|
 [fc]
-[ns]Participant B[nse]
-"We're not exactly free either."[pcms]
+[ns]参加者Ｂ[nse]
+「我々も暇ではないんですがね」[pcms]
 
 *4|
 [fc]
 [vo_mob s="josei0002"]
-[ns]Female[nse]
-"I apologize for calling you early in the morning. However,[r]
-the situation is more serious than you all may think."[pcms]
+[ns]女性[nse]
+「早朝にお呼び立てしたのは申し訳ないと思って[r]
+　おります。しかし、事態は皆様が考えるより、[r]
+　深刻な状態なのです」[pcms]
 
 *5|
 [fc]
-[ns]Participant C[nse]
-"For something so serious, we haven't received much[r]
-information beforehand, have we?"[pcms]
+[ns]参加者Ｃ[nse]
+「深刻というわりには、ろくに事前情報も[r]
+　もらっていないんだがね？」[pcms]
 
 *6|
 [fc]
 [vo_mob s="josei0003"]
-[ns]Female[nse]
-"That's precisely why I'm saying it's serious. Please[r]
-understand that."[pcms]
+[ns]女性[nse]
+「ですから、それだけ深刻ということだと[r]
+　お受け取りください」[pcms]
 
 *7|
 [fc]
-[ns]Participant A[nse]
-"Does that mean it's something that can't be leaked to the[r]
-outside?"[pcms]
+[ns]参加者Ａ[nse]
+「それは外部に漏らせないという意味ですかな？」[pcms]
 
 *8|
 [fc]
 [vo_mob s="josei0004"]
-[ns]Female[nse]
-"You may interpret it that way without any problems."[pcms]
+[ns]女性[nse]
+「そう解釈していただいて問題ないでしょう」[pcms]
 
 *9|
 [fc]
-[ns]Participant B[nse]
-"Hmm..."[pcms]
+[ns]参加者Ｂ[nse]
+「ふむ……」[pcms]
 
 *10|
 [fc]
-As if that single word was a signal, the atmosphere in the[r]
-room became tense.[pcms]
+その一言が合図であったかのように、[r]
+その場の空気を張り詰めさせた。[pcms]
 
 *11|
 [fc]
 [vo_mob s="josei0005"]
-[ns]Female[nse]
-"Now, please take a look at this first."[pcms]
+[ns]女性[nse]
+「では、まずはこちらをご覧ください」[pcms]
 
 ;//〆イベント　ＥＶ０１０a
 [evcg storage="evs007a"][trans_c cross time=300]
 
 *12|
 [fc]
-[ns]Participant C[nse]
-"As I thought..."[pcms]
+[ns]参加者Ｃ[nse]
+「やはり……」[pcms]
 
 *13|
 [fc]
-[ns]Participant A[nse]
-"It's this again..."[pcms]
+[ns]参加者Ａ[nse]
+「また、これでしたか……」[pcms]
 
 *14|
 [fc]
-The dark conference room's screen displayed an overview of[r]
-"UNKNOWN-LV4."[pcms]
+暗い大会議室のスクリーンに映し出されたのは、[r]
+『ＵＮＫＮＯＷＮ－ＬＶ４』の概略だった。[pcms]
 
 *15|
 [fc]
-And in front of that screen stood a man dressed in a suit.[pcms]
+そして、そのスクリーンの手前には、[r]
+スーツを着込んだ男が立っている。[pcms]
 
 *16|
 [fc]
-The man introduced by the woman as "Dr. Noguchi" stood with[r]
-a grave expression, staring at the screen.[pcms]
+女性が『野口博士』と紹介するその男は、[r]
+スクリーンを見つめ、深刻な表情で立っていた。[pcms]
 
 *17|
 [fc]
-[ns]Noguchi[nse]
-"We don't have much time, so I'll briefly explain the[r]
-overview and then move on to the main topic."[pcms]
+[ns]野口[nse]
+「あまり時間がありませんので手短に、[r]
+　概略だけご説明して本題へ入りたいと思います」[pcms]
 
 *18|
 [fc]
-Waving a pointer, Dr. Noguchi quickly began to explain the[r]
-virus's characteristics, development history, and the[r]
-disaster's outbreak to containment in the Tohoku region.[pcms]
+指示棒を振りながら、野口博士は口早にそう告げると、[r]
+ウイルスの性質、開発経緯、そして東北地方に[r]
+おいての災害発生から終息までの説明をはじめた。[pcms]
 
 *19|
 [fc]
-[ns]Noguchi[nse]
-"That concludes the current situation and overview of this[r]
-virus."[pcms]
+[ns]野口[nse]
+「以上のがこのウィルスにおける現時点までの[r]
+　経緯と概略となります」[pcms]
 
 [evcg storage="evs007b"][trans_c cross time=300]
 
 *20|
 [fc]
-[ns]Noguchi[nse]
-"Now, please look at the schematic diagram displayed here[r]
-next."[pcms]
+[ns]野口[nse]
+「さて、では次にこちらに映し出された[r]
+　概略図をご覧ください」[pcms]
 
 *21|
 [fc]
-The new image projected on the screen was one of the[r]
-variants of "UNKNOWN-LV4."[pcms]
+博士の合図で新たにスクリーンに映しだされたのは、[r]
+『ＵＮＫＮＯＷＮ－ＬＶ４』の変異体のひとつだった。[pcms]
 
 *22|
 [fc]
-[ns]Noguchi[nse]
-"This photo shows a form very similar to "UNKNOWN-LV4," but[r]
-it is one of the variants."[pcms]
+[ns]野口[nse]
+「この写真は『ＵＮＫＮＯＷＮ－ＬＶ４』に[r]
+　非常によく似た形態をとっていますが、[r]
+　変異体の一つです」[pcms]
 
 *23|
 [fc]
-[ns]Participant C[nse]
-"Do viruses change so easily?"[pcms]
+[ns]参加者Ｃ[nse]
+「ウィルスというのはそんなに簡単に変化するものなのかね？」[pcms]
 
 *24|
 [fc]
-[ns]Noguchi[nse]
-"In nature, it's a common phenomenon. Simpler life forms[r]
-evolve more quickly..."[pcms]
+[ns]野口[nse]
+「自然界においてはよくある現象だといえます。[r]
+　単純な生命体ほど進化のスピードも早く……」[pcms]
 
 *25|
 [fc]
-[ns]Participant A[nse]
-"And what about this mutated virus?"[pcms]
+[ns]参加者Ａ[nse]
+「それで変異したウィルスがなんだというんだね？」[pcms]
 
 *26|
 [fc]
-[ns]Noguchi[nse]
-"Yes... Mutation itself is not a special case, similar to[r]
-influenza."[pcms]
+[ns]野口[nse]
+「はい……変異事態は、インフルエンザ同様、[r]
+　特殊な事例ではないのですが」[pcms]
 
 *27|
 [fc]
-[ns]Noguchi[nse]
-"This variant in the photo was collected from several male[r]
-patients who were arrested last night at Jingu Gaien."[pcms]
+[ns]野口[nse]
+「この写真の変異体は、昨夜神宮外苑で逮捕された[r]
+　数十名の男性感染者から採取されたものなのです」[pcms]
 
 *28|
 [fc]
-The previously silent conference room erupted into noise at[r]
-those words, as if someone had coughed.[pcms]
+それまで静まり返っていた会議室が、その一言で[r]
+せきをきったかのように騒がしくなった。[pcms]
 
 *29|
 [fc]
-[ns]Noguchi[nse]
-"...Moreover, this virus was found in large quantities in[r]
-their blood."[pcms]
+[ns]野口[nse]
+「……しかもですね、これは血液から[r]
+　大量に発見されたウィルスなのです」[pcms]
 
 *30|
 [fc]
-[ns]Participant A[nse]
-"So you mean..."[pcms]
+[ns]参加者Ａ[nse]
+「つまり……」[pcms]
 
 *31|
 [fc]
-[ns]Participant C[nse]
-"A new type of infection is spreading?"[pcms]
+[ns]参加者Ｃ[nse]
+「新型の感染が広まりつつあるということかね」[pcms]
 
 *32|
 [fc]
-[ns]Noguchi[nse]
-"...Unfortunately, it seems so."[pcms]
+[ns]野口[nse]
+「……まことに残念ですが、そのようです」[pcms]
 
 *33|
 [fc]
-[ns]Participant B[nse]
-"It seems so isn't good enough! We need to act quickly..."[pcms]
+[ns]参加者Ｂ[nse]
+「そのようですじゃないだろ君！[r]
+　だったら早急に……」[pcms]
 
 *34|
 [fc]
-[ns]Noguchi[nse]
-"That's why we've gathered here early in the morning, to[r]
-take swift action."[pcms]
+[ns]野口[nse]
+「ですから早急に対策をするべく、[r]
+　このような早朝に、お集りいただいたわけです」[pcms]
 
 *35|
 [fc]
-[ns]Participant B[nse]
-"..."[pcms]
+[ns]参加者Ｂ[nse]
+「…………」[pcms]
 
 *36|
 [fc]
-[ns]Participant A[nse]
-"Then what's the scale of the infection?"[pcms]
+[ns]参加者Ａ[nse]
+「それで感染規模はどの程度なんだね？」[pcms]
 
 *37|
 [fc]
-[ns]Noguchi[nse]
-"The currently identified infected are victims of[r]
-consecutive falling accidents at Yoyogi Station, Jingu Gaien[r]
-Station, and inside various stations in Tokyo."[pcms]
+[ns]野口[nse]
+「現在発見された感染者は、代々木駅、神宮外苑駅、[r]
+　都内駅構内での相次いでの転落事故犠牲者です」[pcms]
 
 *38|
 [fc]
-[ns]Participant C[nse]
-"Does that mean it's already spreading within Tokyo?!"[pcms]
+[ns]参加者Ｃ[nse]
+「ということはすでに都内に[r]
+　拡散しつつあるのかね！」[pcms]
 
 *39|
 [fc]
-The solemn atmosphere of the meeting was gone. The[r]
-surroundings buzzed like a gambling den, with some even[r]
-starting to make calls on their cell phones.[pcms]
+もはや厳粛な会議の雰囲気ではなくなっていた。[r]
+まるで鉄火場と化したかのように、周囲はざわめき、[r]
+中には携帯電話で連絡を始める者までいた。[pcms]
 
 *40|
 [fc]
-[ns]Participant A[nse]
-"But Dr., LV4 was said to be completely contained according[r]
-to earlier explanations, and adequate measures were taken[r]
-afterward, weren't they?"[pcms]
+[ns]参加者Ａ[nse]
+「しかし君、ＬＶ４は先ほどの説明にあったとおり、[r]
+　完全制圧宣言がなされ、その後も十分な対応をしてい[r]
+　たのではないのかね？」[pcms]
 
 *41|
 [fc]
-[ns]Noguchi[nse]
-"Yes... At least that was supposed to be the case."[pcms]
+[ns]野口[nse]
+「はい……すくなくともそのはずでした」[pcms]
 
 *42|
 [fc]
-[ns]Participant A[nse]
-"Then why has it come to this situation?!"[pcms]
+[ns]参加者Ａ[nse]
+「ではどうしてこのような事態に！」[pcms]
 
 *43|
 [fc]
-[ns]Noguchi[nse]
-"At this point, it's still unclear and within the realm of[r]
-speculation..."[pcms]
+[ns]野口[nse]
+「それは現時点ではまだ明確ではない推測の[r]
+　範疇でしか……」[pcms]
 
 *44|
 [fc]
-[ns]Participant B[nse]
-"Let us hear your speculations then."[pcms]
+[ns]参加者Ｂ[nse]
+「その推測でいいから聞かせてくれ」[pcms]
 
 *45|
 [fc]
-Dr. Noguchi, cornered, looked towards a high-ranking[r]
-bureaucrat as if seeking help.[pcms]
+詰め寄られたの野口博士は、助けを求めるように、[r]
+高級官僚に視線を向けた。[pcms]
 
 *46|
 [fc]
-The bureaucrat, who had been silently standing in a corner[r]
-of the conference room, quietly nodded back.[pcms]
+すると会議室の片隅で無言で佇んでいた[r]
+官僚が静かにうなずいて返した。[pcms]
 
 *47|
 [fc]
-[ns]Noguchi[nse]
-"Well... that is... In fact, some of the infected were[r]
-captured with the cooperation of the United States[r]
-military..."[pcms]
+[ns]野口[nse]
+「えっとですね……それはその……。[r]
+　実は感染者の一部を合衆国軍の協力の元に、[r]
+　捕獲しまして……」[pcms]
 
 *48|
 [fc]
-[ns]Noguchi[nse]
-"And they were being studied at a quarantine facility we[r]
-built on the old Funakoshi Peninsula with the United[r]
-States."[pcms]
+[ns]野口[nse]
+「それを同じく合衆国と合同で旧磐手の船越半島に[r]
+　建設しました隔離施設で研究していたのです」[pcms]
 
 *49|
 [fc]
-[ns]Noguchi[nse]
-"However... activists from radical human rights and[r]
-environmental protection groups, along with freelance[r]
-journalists, infiltrated the facility with an insider's[r]
-help..."[pcms]
+[ns]野口[nse]
+「それが……、施設に、過激な人権保護や[r]
+　自然保護の各団体活動家とフリー・ジャーナリストが[r]
+　内通者の手引きで侵入……」[pcms]
 
 *50|
 [fc]
-[ns]Noguchi[nse]
-"They interfered with security during their intrusion, which[r]
-resulted in a serious accident inside..."[pcms]
+[ns]野口[nse]
+「侵入時にセキュリティに干渉したらしく、[r]
+　結果として内部で深刻な事故が発生しまして……」[pcms]
 
 *51|
 [fc]
-[ns]Noguchi[nse]
-"The facility was destroyed by the emergency auto-[r]
-purification system, but during the chaos, one vehicle broke[r]
-through the blockade..."[pcms]
+[ns]野口[nse]
+「施設は非常用の自動浄化処置装置で消失したのですが[r]
+　混乱時に、封鎖線を抜けた車輌が一台あり……」[pcms]
 
 *52|
 [fc]
-[ns]Noguchi[nse]
-"That vehicle was later found near Kesennuma, and the[r]
-driver's body was discovered."[pcms]
+[ns]野口[nse]
+「その車輌は後日、気仙沼付近で発見され運転手の[r]
+　遺体が見つかりました」[pcms]
 
 *53|
 [fc]
-[ns]Noguchi[nse]
-"The cause of death was excessive bleeding from gunshot[r]
-wounds, but there were signs that someone else had been in[r]
-the car..."[pcms]
+[ns]野口[nse]
+「死因は銃創からの出血多量だったのですが、[r]
+　同乗者がいた形跡がありまして……」[pcms]
 
 *54|
 [fc]
-[ns]Participant B[nse]
-"Get to the point, the conclusion!!"[pcms]
+[ns]参加者Ｂ[nse]
+「結論をいいたまえ、結論を！！」[pcms]
 
 *55|
 [fc]
-[ns]Noguchi[nse]
-"Yes, in short... It is believed that an infected person who[r]
-was being quarantined was in that vehicle."[pcms]
+[ns]野口[nse]
+「はい、つまるところ……。[r]
+　その車両に隔離しいた感染者がいたと思われるわけです」[pcms]
 
 *56|
 [fc]
-[ns]Participant C[nse]
-"So someone took an infected person out of the facility and[r]
-released them into the wild..."[pcms]
+[ns]参加者Ｃ[nse]
+「何者かが感染者を施設から連れ出して、[r]
+　それを野に放ったわけか……」[pcms]
 
 *57|
 [fc]
-[ns]Noguchi[nse]
-"Whether it was intentional or not, that seems to be the[r]
-likely possibility."[pcms]
+[ns]野口[nse]
+「意図したことかどうかはわかりませんが……。[r]
+　どうやらその可能性が濃厚のようです」[pcms]
 
 *58|
 [fc]
-The conference room erupted into a storm once again over the[r]
-concealment of a matter of national security.[pcms]
+国家の安全保障に関わる重大事を伏せていた事に[r]
+対して、再び嵐のように会議室は荒れた。[pcms]
 
 *59|
 [fc]
-Both the doctor and the bureaucrat watched the commotion as[r]
-if it were someone else's problem, merely clicking their[r]
-tongues.[pcms]
+それを博士と官僚は他人事のように傍観しながら、[r]
+舌打ちをするだけだった。[pcms]
 
 *60|
 [fc]
-[ns]Noguchi[nse]
-"However, the new strain of virus discovered this time is,[r]
-as of now, a variant that we were studying at the facility[r]
-and for which no cure has been found..."[pcms]
+[ns]野口[nse]
+「ですが、今回発見された新種のウィルスは、[r]
+　施設で研究していた変種の中でも現在の所、[r]
+　完治方法が見つかっていない型でして……」[pcms]
 
 *61|
 [fc]
-[ns]Participant A[nse]
-"So you're saying there's no vaccine to save those infected[r]
-with this most dangerous type?"[pcms]
+[ns]参加者Ａ[nse]
+「つまり感染者を救済するためのワクチンが[r]
+　存在しない、最も危険なタイプということかね？」[pcms]
 
 *62|
 [fc]
-[ns]Noguchi[nse]
-"That... That would be the case..."[pcms]
+[ns]野口[nse]
+「そ、そういうことになります……」[pcms]
 
 ;//〆イベント：EV010B差分でウイルス保菌者表示（朋美）
 [evcg storage="evs007a"][trans_c cross time=300]
 
 *63|
 [fc]
-[ns]Noguchi[nse]
-"Even the latest vaccines developed domestically through[r]
-breeding of those provided by the United States during the[r]
-infection disaster can only prevent airborne transmission at[r]
-best."[pcms]
+[ns]野口[nse]
+「感染災害の折りに、米国より提供された品を[r]
+　国内で品種改良した最新のワクチンでも、[r]
+　空気感染の予防が精一杯のようです」[pcms]
 
 *64|
 [fc]
-[ns]Noguchi[nse]
-"Furthermore, their effectiveness as antiviral drugs is[r]
-limited, and if taken continuously, there's a high[r]
-possibility that the virus will acquire resistance..."[pcms]
+[ns]野口[nse]
+「また、抗ウィルス剤としての効果も薄く、[r]
+　仮に継続的に服用した場合、ウィルスが耐性を獲得する[r]
+　可能性も高く……」[pcms]
 
 *65|
 [fc]
-[ns]Participant B[nse]
-"So long-term use of antiviral drugs would become[r]
-ineffective, is that it?"[pcms]
+[ns]参加者Ｂ[nse]
+「長期の抗ウィルス剤の服用は、[r]
+　効果がなくなるというわけか」[pcms]
 
 *66|
 [fc]
-[ns]Noguchi[nse]
-"We have no choice but to consider a large-scale response,[r]
-including declaring a state of emergency urgently..."[pcms]
+[ns]野口[nse]
+「早急に非常事態宣言も視野に入れて、[r]
+　大規模な対応を検討いただくしか……」[pcms]
 
 *67|
 [fc]
-[ns]Participant C[nse]
-"It's easy to say 'consider,' but this disaster is happening[r]
-in the capital!"[pcms]
+[ns]参加者Ｃ[nse]
+「検討と簡単に言うが、今回は首都で災害が[r]
+　起こっているのだぞ！」[pcms]
 
 *68|
 [fc]
-[ns]Participant A[nse]
-"Do you think we can handle this like some regional city?"[pcms]
+[ns]参加者Ａ[nse]
+「地方都市のような処置ができるとでも思っているのかね」[pcms]
 
 *69|
 [fc]
-[ns]Participant B[nse]
-"If we respond as we did before, the capital's functions[r]
-will completely collapse..."[pcms]
+[ns]参加者Ｂ[nse]
+「以前と同じ対応をした場合、首都機能は完全に崩壊……」[pcms]
 
 *70|
 [fc]
-[ns]Participant A[nse]
-"Without a doubt, our country will suffer an economic blow[r]
-from which recovery may not be possible."[pcms]
+[ns]参加者Ａ[nse]
+「間違いなく我が国は再起の目途が立たないような[r]
+　経済的打撃を受けるだろうね」[pcms]
 
 *71|
 [fc]
-[ns]Noguchi[nse]
-"But if we just sit on our hands, think of how many lives[r]
-will be..."[pcms]
+[ns]野口[nse]
+「ですが、このまま手をこまねいていたら、[r]
+　どれだけの人命が……」[pcms]
 
 *72|
 [fc]
-[ns]Participant A[nse]
-"You're the ones who kept such a dangerous thing hidden!"[pcms]
+[ns]参加者Ａ[nse]
+「そんな危険なものを隠していたのは君らだろ！」[pcms]
 
 *73|
 [fc]
-[ns]Noguchi[nse]
-"..."[pcms]
+[ns]野口[nse]
+「…………」[pcms]
 
 *74|
 [fc]
-Dr. Noguchi understood the severity of the situation and the[r]
-terror of the virus better than anyone else, but he had no[r]
-room to argue against that statement.[pcms]
+事態の深刻さ、そしてウィルスの恐ろしさを誰よりも[r]
+理解していた野口博士ではあったが、その一言には[r]
+反論の余地もなかった。[pcms]
 
 *75|
 [fc]
-The participants' cell phones rang incessantly one after[r]
-another.[pcms]
+立て続けに会議参加者達の携帯がけたたましく鳴り響く。[pcms]
 
 ;//〆ＢＧ：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *76|
 [fc]
-[ns]Participant A[nse]
-"Anyway, this is not a situation that can be resolved with[r]
-immediate decisions at this point."[pcms]
+[ns]参加者Ａ[nse]
+「とにかく、現時点で即決して対応できるような[r]
+　事態ではない」[pcms]
 
 *77|
 [fc]
-[ns]Participant B[nse]
-"Indeed. First, we need to consult with various parties..."[pcms]
+[ns]参加者Ｂ[nse]
+「そうですな。まずは多方面と相談して……」[pcms]
 
 *78|
 [fc]
-[ns]Noguchi[nse]
-"We don't have that kind of time! The infection is spreading[r]
-even now..."[pcms]
+[ns]野口[nse]
+「そんな時間はありません！[r]
+　感染はいまも広がって……」[pcms]
 
 *79|
 [fc]
-[ns]Participant C[nse]
-"For now, let's compile a response plan within our agencies[r]
-and discuss again tomorrow."[pcms]
+[ns]参加者Ｃ[nse]
+「とにかく、機関で対応策をまとめ、[r]
+　明日もう一度協議しよう」[pcms]
 
 *80|
 [fc]
-[ns]Participant A[nse]
-"Thank you for your efforts, Dr. Noguchi."[pcms]
+[ns]参加者Ａ[nse]
+「野口博士、ご苦労さまでした」[pcms]
 
 *81|
 [fc]
-The doctor was unilaterally cut off from the meeting, with[r]
-no opportunity to persist.[pcms]
+一方的に会議を中断された博士に、食い下がる[r]
+余裕はなかった。[pcms]
 
 *82|
 [fc]
-Dr. Noguchi took out his cell phone and stared blankly at[r]
-its display...[pcms]
+野口博士は自身の携帯を取り出しながら、[r]
+そのディスプレイを呆然と見詰めて……。[pcms]
 
 *83|
 [fc]
-[ns]Noguchi[nse]
-"Tomorrow... I hope that tomorrow comes..."[pcms]
+[ns]野口[nse]
+「明日……ですか。[r]
+　その明日が来ればいいんですけどね……」[pcms]
 
 *84|
 [fc]
-He muttered quietly to himself.[pcms]
+静かにそう呟いた。[pcms]
 
 ;//〆フェードアウト
 ;[fadeoutbgm time=500]

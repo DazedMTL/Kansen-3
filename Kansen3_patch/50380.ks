@@ -17,46 +17,46 @@
 
 *1888|
 [fc]
-[ns]Wataru[nse]
-"Senpai, how about this?"[pcms]
+[ns]航[nse]
+「先輩、これならどうです？」[pcms]
 
 *1889|
 [fc]
-As soon as I offered the nail gun, Senpai smiled brightly.[pcms]
+差し出した釘打ちを見るなり、先輩はにっこり笑う。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1890|
 [fc]
 [vo_mar s="maru1520"]
-[ns]Margarita[nse]
-"Good thinking!"[pcms]
+[ns]マルガリータ[nse]
+「いい手だ！」[pcms]
 
 *1891|
 [fc]
-Senpai took the nail gun and strode carelessly forward,[r]
-circling around to the side of the infected.[pcms]
+釘打ちを受け取った先輩は、つかつかと無造作に進んでいき、[r]
+感染者の脇に回り込む。[pcms]
 
 *1892|
 [fc]
-And before the slowly reacting infected could fully turn[r]
-around, Senpai hesitated not a moment to drive a nail right[r]
-between its eyes.[pcms]
+そして、先輩の動きにゆっくり反応する感染者が[r]
+まだ振り向ききらないうちに、[r]
+その眉間に、躊躇なく釘を打ち込んだ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1893|
 [fc]
 [vo_mar s="maru1521"]
-[ns]Margarita[nse]
-"Haaah!!"[pcms]
+[ns]マルガリータ[nse]
+「はぁっ！！」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_c"][ChrSetXY layer=5 x=183 y=0][trans_c cross time=150]
 
 *1894|
 [fc]
-[ns]Infected Man A[nse]
-"Gyowaaaaaaaah-----!"[pcms]
+[ns]感染者・男Ａ[nse]
+「ぎょわあああぁぁぁぁーーーーーっ！」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
@@ -65,59 +65,59 @@ between its eyes.[pcms]
 
 *1895|
 [fc]
-The infected man let out a dramatic scream as he fell.[pcms]
+派手な悲鳴をあげて感染者の男が倒れこむ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a9"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1896|
 [fc]
 [vo_mar s="maru1522"]
-[ns]Margarita[nse]
-"...Next!!"[pcms]
+[ns]マルガリータ[nse]
+「……次っ！！」[pcms]
 
 *1897|
 [fc]
-Senpai swiftly turned around and pressed the nail gun[r]
-against the forehead of another infected.[pcms]
+すかさず身を翻した先輩は、[r]
+もう一人の感染者の額に釘打ちを押し付けた。[pcms]
 
 ;//se021
 [se buf=0 storage="se021"]
 
 *1898|
 [fc]
-*Click*[pcms]
+カチリ。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a11"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1899|
 [fc]
 [vo_mar s="maru1523"]
-[ns]Margarita[nse]
-"...!!"[pcms]
+[ns]マルガリータ[nse]
+「……っ！！」[pcms]
 ;//＠釘がでない
 
 *1900|
 [fc]
-But this time, only a light sound was heard and no nail came[r]
-out! Could it be empty now!?[pcms]
+しかし、今度は軽い音がするだけで釘が出ない！[r]
+もしかして、空になっちゃったのか！？[pcms]
 
 *1901|
 [fc]
-[ns]Wataru[nse]
-"Senpai!"[pcms]
+[ns]航[nse]
+「先輩っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1902|
 [fc]
 [vo_mob s="kan2_0003"]
-[ns]Infected Person - Woman B[nse]
-"Meat...meat...meatmeatmeatmeat...!!"[pcms]
+[ns]感染者・女Ｂ[nse]
+「肉……にく……にくにくにくにくぅぅぅぅ……っ！！」[pcms]
 
 *1903|
 [fc]
-Without panicking in front of the infected person lunging[r]
-with outstretched hands, Senpai took a light backstep...[pcms]
+手を広げて襲いかかろうとする感染者にも慌てず、[r]
+先輩は軽くバックステップを踏んで……。[pcms]
 
 ;//ev008b（マル子キック）
 [evcg storage="EV008b"][trans_c cross time=300]
@@ -125,8 +125,8 @@ with outstretched hands, Senpai took a light backstep...[pcms]
 *1904|
 [fc]
 [vo_mar s="maru1524"]
-[ns]Margarita[nse]
-"...Hah!!"[pcms]
+[ns]マルガリータ[nse]
+「……はっ！！」[pcms]
 
 ;//se012・どす！
 [se buf=0 storage="se012"]
@@ -134,12 +134,12 @@ with outstretched hands, Senpai took a light backstep...[pcms]
 *1905|
 [fc]
 [vo_mob s="kan2_0004"]
-[ns]Infected Woman B[nse]
-"Gubuuuuuh!?"[pcms]
+[ns]感染者・女Ｂ[nse]
+「ぐぶうぅぅぅっ！？」[pcms]
 
 *1906|
 [fc]
-She delivered a powerful kick to the face.[pcms]
+強烈な蹴りを顔面に叩き込んだ。[pcms]
 
 ;//BG08b（ＬＡＳＥＲエントランス）背景に戻す
 [bg storage="BG08f"][trans_c cross time=500]
@@ -149,25 +149,25 @@ She delivered a powerful kick to the face.[pcms]
 
 *1907|
 [fc]
-[ns]Kousuke[nse]
-"Damn..."[pcms]
+[ns]浩助[nse]
+「ヤベぇ……」[pcms]
 
 *1908|
 [fc]
-[ns]Wataru[nse]
-"Eh?"[pcms]
+[ns]航[nse]
+「え？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e9"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1909|
 [fc]
-[ns]Kousuke[nse]
-"It's so damn cool, Senpai!"[pcms]
+[ns]浩助[nse]
+「ヤバイくらい、格好いいぜ、先輩っ！」[pcms]
 
 *1910|
 [fc]
-Kousuke, who had been holding his breath just like me, let[r]
-out an incredibly supportive cheer.[pcms]
+ボクと同じように息を詰めて見守っていたコースケが[r]
+すっとんきょうな応援の声をあげた。[pcms]
 
 ;//→ブロック５０４００へ
 [jump storage="50400.ks" target=*50400_TOP]

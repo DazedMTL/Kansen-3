@@ -8,7 +8,7 @@
 ;//時間帯：朝
 ;//合計:25K程度
 ;//---------------------------------------------------------------
-;//▲４１：「視聴覚室にたてこもろう！」
+;//▲４－１：「視聴覚室にたてこもろう！」
 ;//---------------------------------------------------------------
 
 [eval exp="sf.SRP11 = 1"]
@@ -39,33 +39,33 @@
 
 *594|
 [fc]
-"If we climb over the fence, we might still be able to[r]
-escape along the rooftop."[pcms]
+柵を乗り越えて行けば、まだ屋上伝いに[r]
+何とか逃げられるかもしれない。[pcms]
 
 *595|
 [fc]
-"That's right... if it's just me, Kousuke, and the senior."[pcms]
+そう……ボクとコースケと先輩だけならば。[pcms]
 
 *596|
 [fc]
-"But with Ren, it's going to be difficult. What if they come[r]
-during that time?"[pcms]
+だけど漣と一緒となると、それは難しい。[r]
+その間にヤツラがきたら？[pcms]
 
 *597|
 [fc]
-"Just like Kousuke said, there's no escape!"[pcms]
+それこそコースケの言うとおり、逃げ場がない！[pcms]
 
 *598|
 [fc]
-[ns]Wataru[nse]
-"We're going to take refuge in the audio-visual room!"[pcms]
+[ns]航[nse]
+「視聴覚室に逃げ込むぞっ！」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *599|
 [fc]
-"I re-grab Ren's hand and dive into the audio-visual room,[r]
-struggling with Kousuke."[pcms]
+漣の手を掴みなおすと、ボクはコースケと[r]
+もみ合うように視聴覚室の中に飛び込んだ。[pcms]
 
 [stopse buf=0]
 
@@ -73,28 +73,27 @@ struggling with Kousuke."[pcms]
 
 *600|
 [fc]
-"Then, in a panic, I turn around and leap at the sliding[r]
-door, slamming it shut with force."[pcms]
+そして慌てて振り返ると、スライド式の扉に[r]
+飛びついて、それを勢いよく閉じる。[pcms]
 
 *601|
 [fc]
-"But an infected person's hand slips through from the[r]
-outside."[pcms]
+だが、外から感染者の手がにゅっと入り込んできた。[pcms]
 
 *602|
 [fc]
-[ns]Wataru[nse]
-"Damn it!"[pcms]
+[ns]航[nse]
+「クソッ！」[pcms]
 
 *603|
 [fc]
-[ns]Kousuke[nse]
-"I'll help!"[pcms]
+[ns]浩助[nse]
+「手伝うぜっ！」[pcms]
 
 *604|
 [fc]
-"Still holding the steel hook, Kousuke thrusts it hard into[r]
-the hand's owner."[pcms]
+手にしたままのスチールのフックで、[r]
+コースケは思いっきりその手の持ち主を突いた。[pcms]
 
 ;//SE016
 [se buf=1 storage="se016"]
@@ -103,79 +102,77 @@ the hand's owner."[pcms]
 
 *605|
 [fc]
-[ns]Infected Man A[nse]
-"Gugyaaah!"[pcms]
+[ns]感染者・男Ａ[nse]
+「ぐぎゃあっ！」[pcms]
 
 *606|
 [fc]
-"An unheard-of scream echoes."[pcms]
+聞いたこともないような悲鳴が上がる。[pcms]
 
 *607|
 [fc]
-"Of course."[pcms]
+当たり前だ。[pcms]
 
 *608|
 [fc]
-"Kousuke's thrust, driven by momentum, had deeply penetrated[r]
-from under the man's left jaw through his open mouth and[r]
-even further."[pcms]
+勢いに任せたコースケの突きは、男の左顎下から開かれた口内、[r]
+さらにその先にまで深くのめり込んでいた。[pcms]
 
 *609|
 [fc]
-[ns]Kousuke[nse]
-"Guuh!"[pcms]
+[ns]浩助[nse]
+「ぐぅっ！」[pcms]
 
 *610|
 [fc]
-"Even in a kill-or-be-killed situation, the shock of having[r]
-killed someone freezes Kousuke."[pcms]
+いくら殺るか殺られるかの極限状態であったとしても、[r]
+人を殺してしまったと言うショックがコースケを固まらせる。[pcms]
 
 *611|
 [fc]
-"Still, ignoring the stabbed man, others trying to squeeze[r]
-in through the gap appear in my sight as I try to close the[r]
-door."[pcms]
+それでも、刺された男などお構いなしに、[r]
+その脇から中へ入り込もうとしているヤツラが[r]
+扉を閉めようとしていたボクの目に映った。[pcms]
 
 *612|
 [fc]
-[ns]Wataru[nse]
-"Pull it out! Kousuke! The door won't close!!"[pcms]
+[ns]航[nse]
+「抜けっ！　コースケ！　扉が閉められないっ！！」[pcms]
 
 *613|
 [fc]
-[ns]Kousuke[nse]
-"Gah!"[pcms]
+[ns]浩助[nse]
+「くっ！」[pcms]
 
 *614|
 [fc]
-"The hook, deeply embedded and probably hooked at the end,[r]
-wouldn't come out easily."[pcms]
+深く突き刺した事と、たぶん先がフックになって[r]
+いるせいで容易に抜けなくなってしまった。[pcms]
 
 *615|
 [fc]
-"Kousuke is desperately trying to pull it out."[pcms]
+コースケは懸命に引き抜こうとしている。[pcms]
 
 *616|
 [fc]
-[ns]Wataru[nse]
-"Kousuke!"[pcms]
+[ns]航[nse]
+「コースケ！」[pcms]
 
 *617|
 [fc]
-[ns]Kousuke[nse]
-"Oraa!!"[pcms]
+[ns]浩助[nse]
+「おらぁ！！」[pcms]
 
 *618|
 [fc]
-"Bracing his feet against the wall, Kousuke forcibly pulls[r]
-out the hook."[pcms]
+壁に脚をかけて、半ば無理やりコースケはフックを引き抜いた。[pcms]
 
 [赤フラ]
 
 *619|
 [fc]
-"At the same time, blood splatters everywhere, drenching[r]
-both me and Kousuke."[pcms]
+それと同時に血飛沫がほとばしり、[r]
+ボクとコースケを血みどろにする。[pcms]
 
 ;//SE停止(ループ・シングル共。2秒でF.O.)
 [stopse buf=0]
@@ -184,63 +181,63 @@ both me and Kousuke."[pcms]
 
 *620|
 [fc]
-"But there's no time to care about that; I slam the sliding[r]
-door shut and lock it."[pcms]
+けれどそれを構うヒマもまく、ボクは[r]
+叩きつけるようにスライド扉を閉め、鍵を施した。[pcms]
 
 *621|
 [fc]
-[ns]Kousuke[nse]
-"Haah... haah..."[pcms]
+[ns]浩助[nse]
+「はぁ……はぁ……」[pcms]
 
 *622|
 [fc]
-"Without wiping the blood dripping on his face, Kousuke[r]
-breathes heavily and stares blankly at the tip of the hook."[pcms]
+顔に滴る血を拭うこともなく、コースケは[r]
+荒い息を吐きながら呆然とフックの先を見てる。[pcms]
 
 *623|
 [fc]
-"I can't get the image of what just happened out of my mind[r]
-either."[pcms]
+ボクも今のことが目に焼きついて離れない。[pcms]
 
 *624|
 [fc]
-"Yes, a steel rod cutting diagonally through a man's[r]
-screaming mouth..."[pcms]
+そう、男が叫んだ口の中をナナメに貫いて[r]
+横切るスチールの棒なんて……。[pcms]
 
 *625|
 [fc]
-"And the taste of blood spreading in my mouth tells me that[r]
-this is not an illusion but reality."[pcms]
+そしてそれが幻ではなく現実だという事を、[r]
+口の中に広がる血の味が教えてくれていた。[pcms]
 
 *626|
 [fc]
 [vo_ren s="ren0155"]
-[ns]Ren[nse]
-"Are you okay? Onii-chan, Ko-chan?"[pcms]
+[ns]漣[nse]
+「大丈夫？　お兄ちゃん、コーちゃん」[pcms]
 
 *627|
 [fc]
-"Fortunately hidden by us, Ren apparently didn't see what[r]
-happened with Kousuke's hook."[pcms]
+幸いボクらの陰に隠れて、漣からはコースケの[r]
+フックがどうなったのか見えなかったらしい。[pcms]
 
 *628|
 [fc]
-"Just the death throes and us covered in blood, and above[r]
-all, the tip of Kousuke's hook stained with fresh blood..."[pcms]
+ただ断末魔の叫びとボクらが血みどろになってる事、[r]
+それに何よりもコースケが手にしたフックの先が[r]
+鮮血に染まってる……。[pcms]
 
 *629|
 [fc]
-"So... she must have vaguely understood."[pcms]
+だから……おぼろげにはわかっただろうが……。[pcms]
 
 *630|
 [fc]
-[ns]Wataru[nse]
-"We're fine."[pcms]
+[ns]航[nse]
+「大丈夫だよ」[pcms]
 
 *631|
 [fc]
-"I force a smile while wiping the blood off my face and[r]
-hands."[pcms]
+ボクは無理やり笑顔を作りながら、[r]
+顔や手に滴る血を拭った。[pcms]
 
 *LABEL_MEMORIES_START
 
@@ -254,116 +251,123 @@ hands."[pcms]
 *632|
 [fc]
 [vo_ren s="ren0156"]
-[ns]Ren[nse]
-"Onii-chan, thank you for coming to save me."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、助けに来てくれてありがとう」[pcms]
 
 *633|
 [fc]
-"Even a forced smile seemed to cut through Ren's tense[r]
-nerves, and she jumped into my chest like she did when she[r]
-was a child."[pcms]
+無理やり作った笑顔でも、それは漣の張り詰めていた[r]
+緊張の糸を切ってくれたようで、漣はまるで子供の[r]
+時のようにボクの胸に飛び込んできた。[pcms]
 
 *634|
 [fc]
-[ns]Wataru[nse]
-"Silly, of course I would."[pcms]
+[ns]航[nse]
+「馬鹿だな、当たり前だろ？」[pcms]
 
 *635|
 [fc]
-"While embracing Ren's delicate body, I bury my face in her[r]
-hair."[pcms]
+漣の華奢な体を抱きしめながら、ボクは髪に顔を[r]
+埋めるようにした。[pcms]
 
 *636|
 [fc]
-"It smelled incredibly good."[pcms]
+物凄く、良い匂いがした。[pcms]
 
 *637|
 [fc]
-"Is it shampoo? Or conditioner? I can't tell which. But it[r]
-was a pleasant scent I had never smelled before."[pcms]
+シャンプーなのか。リンスなのか。[r]
+そのどちらか分からない。[r]
+けれど、今まで嗅いだ事もない、心地よい匂いだった。[pcms]
 
 *638|
 [fc]
-[ns]Wataru[nse]
-"Ren... you smell really nice."[pcms]
+[ns]航[nse]
+「漣……お前、良い匂いだな」[pcms]
 
 [evcg storage="EV012n"][trans_c cross time=300]
 
 *639|
 [fc]
 [vo_ren s="ren0157"]
-[ns]Ren[nse]
-"Eh? Smell nice...? It's no different than usual?"[pcms]
+[ns]漣[nse]
+「えっ？　良い匂いって……普段と変わらないよ？」[pcms]
 
 *640|
 [fc]
-[ns]Wataru[nse]
-"No, it's a really good smell... sweet and sour... Ren..."[pcms]
+[ns]航[nse]
+「いや、凄く良い匂いだよ……[r]
+　甘くて酸っぱくて……漣……」[pcms]
 
 *641|
 [fc]
 [vo_ren s="ren0158"]
-[ns]Ren[nse]
-"Eh? Onii-chan? You're acting weird? Ko-chan!"[pcms]
+[ns]漣[nse]
+「えっ？　お、お兄ちゃん？[r]
+　なんかヘンだよ？　こ、コーちゃんっ！」[pcms]
 
 *642|
 [fc]
-"Startled by something, Ren in my arms starts to struggle."[pcms]
+ボクの何かに怯えたように、[r]
+腕の中の漣が暴れ始めた。[pcms]
 
 *643|
 [fc]
-"I won't let her go. This soft body. This good smell."[pcms]
+逃すものか。[r]
+この柔らかい体。[r]
+この良い匂い。[pcms]
 
 *644|
 [fc]
-And then... the hole that's supposed to make you feel even[r]
-better.[pcms]
+そして……もっと気持ちよくしてくれるはずの穴。[pcms]
 
 [evcg storage="EV012o"][trans_c cross time=300]
 
 *645|
 [fc]
 [vo_ren s="ren0159"]
-[ns]Ren[nse]
-"Onii... kyaa!!"[pcms]
+[ns]漣[nse]
+「おにぃ……きゃあっ！！」[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *646|
 [fc]
-I hug Ren's slender body from behind with all my might as[r]
-she tries to escape from my arms.[pcms]
+腕の中から逃れ出た漣の細い身体を、[r]
+ボクは後ろから思い切り抱きしめる。[pcms]
 
 ;//抱きしめたまま、ボクは有無を言わさず漣を床の上に押し倒した。
 
 *647|
 [fc]
-[ns]Wataru[nse]
-"Ren... why are you trying to run away?"[pcms]
+[ns]航[nse]
+「漣……なんで逃げようとするんだ？」[pcms]
 
 *648|
 [fc]
 [vo_ren s="ren0160"]
-[ns]Ren[nse]
-"Why? Onii-chan, you're being weird? Ko-chan, you think it's[r]
-weird too, right?"[pcms]
+[ns]漣[nse]
+「なんでって……お、お兄ちゃん、ヘンだよ？[r]
+　こ、コーちゃん。コーちゃんもヘンだと思うでしょ？」[pcms]
 
 *649|
 [fc]
-[ns]Kousuke[nse]
-"Weird? There's nothing weird... Ren-chan, you smell really[r]
-good..."[pcms]
+[ns]浩助[nse]
+「おかしい？　おかしくは……ないさ。[r]
+　漣ちゃん、凄く良い匂いがする……」[pcms]
 
 *650|
 [fc]
 [vo_ren s="ren0161"]
-[ns]Ren[nse]
-"Eh? Eh? Ko-chan too? Why???"[pcms]
+[ns]漣[nse]
+「えっ？　えっ？　こ、コーちゃんまで？[r]
+　なんで？？」[pcms]
 
 *651|
 [fc]
-As Ren's voice cries out in panic, Kousuke approaches to[r]
-support me, listening to her cries with pleasure.[pcms]
+なぜかパニックを起こして泣き叫びだす漣の声を[r]
+心地よく聞きながら、ボクに加勢するように[r]
+コースケが近寄ってきた。[pcms]
 
 ;//BG：HEV027
 [evcg storage="HEV054g"][trans_c cross time=300]
@@ -371,404 +375,412 @@ support me, listening to her cries with pleasure.[pcms]
 *652|
 [fc]
 [vo_ren s="ren0162"]
-[ns]Ren[nse]
-"No... it's a lie, right? Onii-chan, you're joking, right?"[pcms]
+[ns]漣[nse]
+「ウソ……ウソでしょ？　お兄ちゃん、冗談だよね？」[pcms]
 
 *653|
 [fc]
-[ns]Wataru[nse]
-"What's a lie about it?"[pcms]
+[ns]航[nse]
+「何がウソなもんか」[pcms]
 
 *654|
 [fc]
-[ns]Kousuke[nse]
-"Ah... Ren-chan's skin is so smooth yet it feels moist and[r]
-clings to my hand, it feels good."[pcms]
+[ns]浩助[nse]
+「あぁ……漣ちゃんの肌はスベスベしてるクセに、[r]
+　手に吸い付くようにしっとりしてて、気持ち良いなぁ」[pcms]
 
 *655|
 [fc]
-[ns]Wataru[nse]
-"That's right, Kousuke. And this smell. It's the best."[pcms]
+[ns]航[nse]
+「そうだな、コースケ。オマケにこの匂い。最高だぜ」[pcms]
 
 *656|
 [fc]
-[ns]Kousuke[nse]
-"How come we never noticed before?"[pcms]
+[ns]浩助[nse]
+「なんで今まで気がつかなかったんだ？」[pcms]
 
 *657|
 [fc]
-[ns]Wataru[nse]
-"Maybe there was something wrong with our noses?"[pcms]
+[ns]航[nse]
+「鼻がどうかしてたのかなぁ？」[pcms]
 
 *658|
 [fc]
 [vo_ren s="ren0163"]
-[ns]Ren[nse]
-"Stop... stop the teasing. Please, Onii-chan and Ko-chan,[r]
-let me go."[pcms]
+[ns]漣[nse]
+「わ、悪ふざけは……悪ふざけはもうやめて。[r]
+　ねぇ、お兄ちゃんもコーちゃんもお願い、放して」[pcms]
 
 *659|
 [fc]
-[ns]Kousuke[nse]
-"Let go? What are you talking about, Ren-chan?"[pcms]
+[ns]浩助[nse]
+「放す？　何を言ってるんだ？　漣ちゃん」[pcms]
 
 *660|
 [fc]
-[ns]Wataru[nse]
-"That's right, Ren. Why should we let you go? Huh?"[pcms]
+[ns]航[nse]
+「そうだぞ、漣。なんでお前を放さなきゃ[r]
+　いけないんだ？　なぁ？」[pcms]
 
 *661|
 [fc]
-Unstoppable laughter spills from our mouths as Ren looks up[r]
-at us with frightened eyes. Ah, she's so cute I want to mess[r]
-her up.[pcms]
+ケラケラとした笑いがボクらの口から止まらない。[r]
+そのボクらを怯えた目で見上げる漣の顔。[r]
+あぁ、むちゃくちゃにしてやりたいほど可愛いよ。[pcms]
 
 *662|
 [fc]
 [vo_ren s="ren0164"]
-[ns]Ren[nse]
-"No... Stop it!!"[pcms]
+[ns]漣[nse]
+「い、いや……ヤメテっ！！」[pcms]
 
 *663|
 [fc]
-Realizing that we are not joking or teasing but serious, Ren[r]
-starts to thrash wildly for some reason.[pcms]
+ボクらが冗談や悪ふざけではなく、本気で[r]
+やっていることに気がついたのか、[r]
+漣はなぜか大暴れをし始めた。[pcms]
 
 *664|
 [fc]
-Of course, Ren has no chance against the strength of Kousuke[r]
-and me.[pcms]
+もっともボクとコースケの力に漣がかなうわけがない。[pcms]
 
 *665|
 [fc]
-Ren can only shake her head violently from side to side[r]
-while her hands and feet, pinned down by us, don't move an[r]
-inch.[pcms]
+漣は盛んに首から上だけを左右に激しく振るばかりで、[r]
+ボクらに押さえつけられた両手足はピクリとも[r]
+動かなかった。[pcms]
 
 [evcg storage="HEV054h"][trans_c cross time=300]
 
 *666|
 [fc]
 [vo_ren s="ren0165"]
-[ns]Ren[nse]
-"Noooooo!!"[pcms]
+[ns]漣[nse]
+「いやぁああああっ！！」[pcms]
 
 *667|
 [fc]
-Tears well up in Ren's eyes, enhancing the beauty of her[r]
-gaze.[pcms]
+漣の目にはうっすらと涙が浮かび、[r]
+その瞳の美しさをいっそう際だたせる。[pcms]
 
 *668|
 [fc]
-I love these eyes of hers.[pcms]
+ボクの大好きな、この瞳。[pcms]
 
 *669|
 [fc]
-The color of fear that somehow resides in those eyes sends a[r]
-pleasurable chill up my spine.[pcms]
+その瞳になぜか宿る恐怖の色が、ボクの背筋に[r]
+ゾクゾクと快感めいたモノを這い登らせる。[pcms]
 
 *670|
 [fc]
-The thing inside my pants is about to burst from Ren's scent[r]
-alone, and it gets even harder with the slightest rub as if[r]
-it's about to explode.[pcms]
+ただでさえ漣の匂いで、ズボンの中のモノが[r]
+はちきれそうになっているのに、ちょっとでも擦ったら[r]
+爆発してしまいそうな勢いでさらに硬くなった。[pcms]
 
 *671|
 [fc]
 [vo_ren s="ren0166"]
-[ns]Ren[nse]
-"Hii! Ah, something hard... something hard is pressing[r]
-against my leg... Onii- chan's... it's pressing against[r]
-me..."[pcms]
+[ns]漣[nse]
+「ひぅっ！　あ、脚に……脚に硬いの、当たってる[r]
+　……お兄ちゃんの……当たってるよ……」[pcms]
 
 *672|
 [fc]
-[ns]Wataru[nse]
-"Ah, your smell and attitude have made my thing rock hard.[r]
-What are you going to do about it? Huh?"[pcms]
+[ns]航[nse]
+「あぁ、お前の匂いと態度にボクのモノがギンギンに[r]
+　なっちまったよ。どうしてくれるんだ？　んんっ？」[pcms]
 
 *673|
 [fc]
-While saying that, I roughly fondle Ren's small breasts that[r]
-already look childlike.[pcms]
+そう言いながら、ボクは乱暴に、ただでさえ子供の[r]
+ように見える、漣の小さなおっぱいを乱暴に揉んだ。[pcms]
 
 *674|
 [fc]
 [vo_ren s="ren0167"]
-[ns]Ren[nse]
-"No, no... nooo, Onii-chan"[pcms]
+[ns]漣[nse]
+「やっ、やっ……いやぁあ、お兄ちゃん」[pcms]
 
 *675|
 [fc]
-[ns]Wataru[nse]
-"What do you mean 'no'? Ren"[pcms]
+[ns]航[nse]
+「何がイヤだって言うんだ？　漣」[pcms]
 
 *676|
 [fc]
-Chuckling deep in my throat, I run my tongue over Ren's[r]
-throat. As I thought, it tastes sweet.[pcms]
+クスクスと喉の奥で笑いながら、ボクは舌を漣の喉元に[r]
+這わせた。[r]
+思ったとおり、甘い味がする。[pcms]
 
 *677|
 [fc]
-It might be the taste of Ren's sweat.[pcms]
+漣の汗の味なのかもしれない。[pcms]
 
 *678|
 [fc]
-But rather than salty, it was more appropriate to call it[r]
-ambrosial.[pcms]
+けれどそれはしょっぱいと言うよりも、[r]
+甘露といったほうがふさわしい味だった。[pcms]
 
 *679|
 [fc]
 [vo_ren s="ren0168"]
-[ns]Ren[nse]
-"Hii! It feels gross..."[pcms]
+[ns]漣[nse]
+「ひぅっ！　き、気持ち悪いよぉ」[pcms]
 
 *680|
 [fc]
-[ns]Wataru[nse]
-"Gross? Does it really feel that gross when I lick you?"[pcms]
+[ns]航[nse]
+「気持ち悪い？　ボクが舐めるのがそんなに[r]
+　気持ち悪いのか？」[pcms]
 
 *681|
 [fc]
 [vo_ren s="ren0169"]
-[ns]Ren[nse]
-"Hyaaa! Not again... not again! Don't lick me...! And stop[r]
-touching my breasts eeehhh!!"[pcms]
+[ns]漣[nse]
+「ひゃああっ！　ま、また……また！　舐めないで……！[r]
+　胸も……やめてええぇぇぇ！！」[pcms]
 
 *682|
 [fc]
-[ns]Wataru[nse]
-"What are you talking about? Your nipples are getting harder[r]
-and harder. You're so lewd."[pcms]
+[ns]航[nse]
+「何言ってるんだ？　段々乳首が[r]
+　硬くなってきてるじゃないか。[r]
+　いやらしいなぁ、お前は」[pcms]
 
 *683|
 [fc]
 [vo_ren s="ren0170"]
-[ns]Ren[nse]
-"That's not true... hyaa! Ko-chan. Stop it, don't spread my[r]
-legs!"[pcms]
+[ns]漣[nse]
+「そ、そんな事……ひゃあっ！　こ、コーちゃん。[r]
+　やめて、脚、広げないでっ！」[pcms]
 
 *684|
 [fc]
-[ns]Kousuke[nse]
-"Ahahaha. When you spread your legs, a sweet scent wafts[r]
-out. Is it coming from under your skirt? This is"[pcms]
+[ns]浩助[nse]
+「あははは。脚を広げたらぷ～～んと甘い匂いが[r]
+　広がってきたぜ。スカートの奥からかな？　これは」[pcms]
 
 *685|
 [fc]
 [vo_ren s="ren0171"]
-[ns]Ren[nse]
-"That's not... no! Noooo!!"[pcms]
+[ns]漣[nse]
+「ち、ちが……やっ！　だ、ダメェエエッ！」[pcms]
 
 *686|
 [fc]
-No matter what Ren says as she cries out, Kousuke's actions[r]
-don't stop.[pcms]
+漣が泣き叫ぶように言っても、[r]
+コースケの行為が止まるわけがない。[pcms]
 
 *687|
 [fc]
-Indeed, as Kousuke says, as Ren's legs spread apart, a sweet[r]
-scent drifts from the depths of her panties seen through her[r]
-stockings.[pcms]
+確かにコースケが言う通り、漣の脚が広がるにつれ、[r]
+ストッキング越しに透けて見えるパンティの奥から、[r]
+甘い匂いが漂ってきた。[pcms]
 
 *688|
 [fc]
-[ns]Kousuke[nse]
-"Ah... rubbing something against these smooth legs would[r]
-feel so good."[pcms]
+[ns]浩助[nse]
+「あぁ……このスベスベした脚でナニを擦ったら[r]
+　気持ちいいだろうなぁ」[pcms]
 
 *689|
 [fc]
-Licking his lips as if tasting her, Kousuke slides his hand[r]
-along Ren's leg, and I can't help but smirk at his words.[pcms]
+嘗め回すかのように手を漣の脚に滑らせる浩助の[r]
+言葉に、ボクは思わずニヤリと笑った。[pcms]
 
 *690|
 [fc]
-[ns]Wataru[nse]
-"Kousuke, that's a great idea."[pcms]
+[ns]航[nse]
+「コースケ、そりゃあいいアイディアだな」[pcms]
 
 *691|
 [fc]
 [vo_ren s="ren0172"]
-[ns]Ren[nse]
-"Eh? What do you mean by 'something'... no, no! Onii-chan![r]
-Ko-chan!"[pcms]
+[ns]漣[nse]
+「えっ？　ナニって……や、やだっ！[r]
+　お兄ちゃんっ！　コーちゃん」[pcms]
 
 *692|
 [fc]
-It seems Ren has no idea what we are about to do.[pcms]
+ボクたちがいったい何をしようとしているのか、[r]
+漣にはさっぱりわからないらしい。[pcms]
 
 *693|
 [fc]
-But Kousuke and I, as if we had planned it, pull out our[r]
-things from our pants.[pcms]
+けれどボクら二人は打ち合わせたように、[r]
+己のモノをズボンから引きずり出した。[pcms]
 
 *694|
 [fc]
 [vo_ren s="ren0173"]
-[ns]Ren[nse]
-"Stop... please stop. Don't rub... such a thing against[r]
-me... No, nooo!"[pcms]
+[ns]漣[nse]
+「や、やめて……ヤメてよ。そんな……、[r]
+　そんなモノ……こすり付けないで……。[r]
+　い、いや……いやぁああんっ」[pcms]
 
 *695|
 [fc]
-While holding down the struggling Ren, I rubbed my thing[r]
-against her thigh.[pcms]
+嫌がって暴れる漣を押さえつけながら、[r]
+ボクはモノを太腿に擦りつけた。[pcms]
 
 *696|
 [fc]
-[ns]Kousuke[nse]
-"Ugh, it really does feel good. It's a bit hard because it's[r]
-her knee..."[pcms]
+[ns]浩助[nse]
+「うぅ、やっぱり気持ちいいな。[r]
+　ヒザだからちょっと硬いが……」[pcms]
 
 *697|
 [fc]
 [vo_ren s="ren0174"]
-[ns]Ren[nse]
-"No... I don't want this. It feels slimy."[pcms]
+[ns]漣[nse]
+「いや……いやだよぉ。なんかぬるぬるするぅう」[pcms]
 
 *698|
 [fc]
-[ns]Wataru[nse]
-"It's because my pre-cum is dripping down. Your thigh feels[r]
-amazing."[pcms]
+[ns]航[nse]
+「ガマン汁がダラダラ垂れてるからなぁ。[r]
+　お前の腿、凄い気持ちいいぞ」[pcms]
 
 *699|
 [fc]
 [vo_ren s="ren0175"]
-[ns]Ren[nse]
-"Hii... I don't want this... hic."[pcms]
+[ns]漣[nse]
+「ひぅう……やだ……やだよ……ひっくぅう」[pcms]
 
 *700|
 [fc]
-The sight of Ren crying out makes me shiver with pleasure.[pcms]
+泣き出した漣の顔が、ゾクリとするほど心地いい。[pcms]
 
 *701|
 [fc]
-Why did I ever think about protecting Ren from crying?[pcms]
+なぜ漣を泣かせないように[r]
+守ろうなんて考えたんだろう？[pcms]
 
 *702|
 [fc]
-The sight of Ren's tearful face is so thrilling. I want to[r]
-make her cry more. No... I want to make her scream.[pcms]
+漣の泣き顔はこんなにもゾクゾクするのに。[r]
+もっと泣かせたい。[r]
+いや……鳴かせたい。[pcms]
 
 *703|
 [fc]
 [vo_ren s="ren0176"]
-[ns]Ren[nse]
-"Onii-chan, stop it. Come back to your senses... Ko-chan[r]
-too. Please, I'm begging you."[pcms]
+[ns]漣[nse]
+「お兄ちゃん、やめて。正気に戻って……[r]
+　コーちゃんも。お願いだから」[pcms]
 
 *704|
 [fc]
-[ns]Kousuke[nse]
-"Sane? We're perfectly sane."[pcms]
+[ns]浩助[nse]
+「正気？　オレたちはいたって正気だよ」[pcms]
 
 *705|
 [fc]
-[ns]Wataru[nse]
-"Yeah. I regret not having raped you sooner... I'm that[r]
-sane. There were so many chances."[pcms]
+[ns]航[nse]
+「あぁ。なんでもっと早くにお前を犯って[r]
+　なかったのか……後悔してるくらいまともだぜ。[r]
+　いくらだって機会があったのになぁ」[pcms]
 
 *706|
 [fc]
-[ns]Kousuke[nse]
-"It's so smooth... Ah, I can't hold back anymore."[pcms]
+[ns]浩助[nse]
+「スベスベして……あぁ、もうオレ、ガマンできねぇ」[pcms]
 
 *707|
 [fc]
 [vo_ren s="ren0177"]
-[ns]Ren[nse]
-"Eh? No, Nooo! Onii-chan!!"[pcms]
+[ns]漣[nse]
+「えっ？　や、イヤッ！　お、お兄ちゃんっ！！」[pcms]
 
 *708|
 [fc]
-Watching Kousuke, who seems unable to wait any longer as he[r]
-reaches for his underwear, Ren turns her fearful eyes[r]
-towards me.[pcms]
+たまりかねたように自分の下着に手をかけるコースケを[r]
+見て、漣は恐怖の色を宿した目をボクに向けてくる。[pcms]
 
 *709|
 [fc]
-The color in those eyes... is unbearably thrilling.[pcms]
+その目の色が……ゾクゾクしてたまらない。[pcms]
 
 *710|
 [fc]
-I pressed down on Kousuke's hand as he roughly tried to[r]
-strip off Ren's panties.[pcms]
+ボクは乱暴に漣の下着を剥ぎ取ろうとしたコースケの[r]
+手を、その上から押さえ込んだ。[pcms]
 
 *711|
 [fc]
-[ns]Wataru[nse]
-"Wait, Ko-chan."[pcms]
+[ns]航[nse]
+「待てよ、コースケ」[pcms]
 
 *712|
 [fc]
 [vo_ren s="ren0178"]
-[ns]Ren[nse]
-"Onii-chan... it was just a joke, right? You're going to[r]
-save me, right?"[pcms]
+[ns]漣[nse]
+「お、お兄ちゃん……やっぱり冗談だったんだよね？[r]
+　助けてくれるんだよね？」[pcms]
 
 *713|
 [fc]
-As tears roll down her cheeks, Ren's face shows she fully[r]
-believes she will be saved, and it's irresistible.[pcms]
+ポロポロと涙をこぼしながら、絶対に自分を[r]
+助けてもらえるものだと信じきってる漣の顔が、[r]
+たまらない。[pcms]
 
 *714|
 [fc]
-I smirked and looked back at Ko-chan, who seemed displeased[r]
-that I had grabbed his hand.[pcms]
+ボクはニヤリと笑って、ボクに手をつかまれた事で、[r]
+不服そうにボクを見るコースケを見返した。[pcms]
 
 *715|
 [fc]
-[ns]Wataru[nse]
-"You know Ren is a virgin, right? And we're best friends,[r]
-aren't we?"[pcms]
+[ns]航[nse]
+「漣は処女なんだぜ？　それにボクたちは親友だろ？」[pcms]
 
 *716|
 [fc]
-[ns]Kousuke[nse]
-"So what? I can't hold back anymore. I need to shove my dick[r]
-into her pussy; I won't be satisfied otherwise."[pcms]
+[ns]浩助[nse]
+「だからってもうガマンできるかよ。オレのナニを[r]
+　マンコにぶち込んでやらなきゃ、気がすまねぇよ」[pcms]
 
 *717|
 [fc]
 [vo_ren s="ren0179"]
-[ns]Ren[nse]
-"My, my pussy... ah. Nooo. Onii-chan, stop Ko-chan."[pcms]
+[ns]漣[nse]
+「ま、マン……あぅ。やだぁあ。お兄ちゃん、[r]
+　コーちゃんを止めて」[pcms]
 
 *718|
 [fc]
-[ns]Wataru[nse]
-"If we're best friends, how about we both take Ren's[r]
-virginity together? I can't wait to shove my dick into her[r]
-pussy either."[pcms]
+[ns]航[nse]
+「親友なら、一緒に漣の処女を破るってのはどうだ？[r]
+　ボクだって漣のオマンコにぶち込んでやりたくて[r]
+　しょうがないんだからさ」[pcms]
 
 *719|
 [fc]
 [vo_ren s="ren0180"]
-[ns]Ren[nse]
-"Eh? Onii-chan... what are you saying..."[pcms]
+[ns]漣[nse]
+「えっ？　お、お兄ちゃん……な、何を言って……」[pcms]
 
 *720|
 [fc]
-[ns]Kousuke[nse]
-"That's a good idea. Instead of competing over who goes[r]
-first, let's share her."[pcms]
+[ns]浩助[nse]
+「いいアイディアだな。どっちが一番乗りなんて[r]
+　考えずに、一緒に食うか」[pcms]
 
 *721|
 [fc]
 [vo_ren s="ren0181"]
-[ns]Ren[nse]
-"Nooooooo!!"[pcms]
+[ns]漣[nse]
+「いやぁああああああっ！！」[pcms]
 
 *722|
 [fc]
-The more Ren hoped I would save her, the deeper her despair[r]
-when she screamed.[pcms]
+ボクが自分を助けてくれるだろうと期待した分だけ、[r]
+漣の絶望の叫びは深かった。[pcms]
 
 *723|
 [fc]
-But that despair feels incredibly good to me.[pcms]
+だが、それがボクには凄く心地いい。[pcms]
 
 ;//HEV028
 [evcg storage="HEV025a"][trans_c cross time=300]
@@ -776,115 +788,120 @@ But that despair feels incredibly good to me.[pcms]
 *724|
 [fc]
 [vo_ren s="ren0182"]
-[ns]Ren[nse]
-"No, no! Noooo!!"[pcms]
+[ns]漣[nse]
+「いや、いやっ！　いやっ！！」[pcms]
 
 *725|
 [fc]
-[ns]Wataru[nse]
-"Stop struggling, Ren. It's hard to aim properly."[pcms]
+[ns]航[nse]
+「暴れるなよ、漣。狙いが定まりづらいだろ？」[pcms]
 
 *726|
 [fc]
-[ns]Kousuke[nse]
-"Ahaha. Ren-chan's pussy is really beautiful. The labia are[r]
-pink and so small it's doubtful they can take both of our[r]
-dicks."[pcms]
+[ns]浩助[nse]
+「あはは。漣ちゃんのマンコは本当に綺麗だな。[r]
+　ビラビラがピンク色で、オレたち二人のナニを[r]
+　飲み込めるのかどうかも怪しいくらいちっちゃくて」[pcms]
 
 *727|
 [fc]
 [vo_ren s="ren0183"]
-[ns]Ren[nse]
-"It's impossible... impossible. My pussy can't take both[r]
-Onii-chan and Ko- chan's... things..."[pcms]
+[ns]漣[nse]
+「む、無理……無理だよぉ。お兄ちゃんとコーちゃんの[r]
+　……そんなの、私のアソコになんて入んないぃ……」[pcms]
 
 *728|
 [fc]
-Holding down the desperately struggling Ren, Ko-chan and I[r]
-rubbed our things together and aimed for her pussy.[pcms]
+往生際悪く暴れる漣を押さえつけて、ボクとコースケは[r]
+お互いのモノ同士を擦り合わせるようにして、[r]
+漣のオマンコに狙いを定めた。[pcms]
 
 *729|
 [fc]
-Indeed, as Ren cries out, it seems impossible for her small[r]
-hole to take both at once.[pcms]
+確かに漣が泣き叫ぶように、二本いっぺんに[r]
+くわえ込めるとは思えないほど小さな穴だ。[pcms]
 
 *730|
 [fc]
-But when we rub our pre-cum on it, it makes a wet and[r]
-obscene sound.[pcms]
+だが、だらだらと流れ出したボクたち二人分の[r]
+ガマン汁を擦り付けてやると、ぐちゅぐちゅとした[r]
+淫猥な音を立ててくる。[pcms]
 
 *731|
 [fc]
-[ns]Wataru[nse]
-"Looks like that's not the case. Your pussy seems to be[r]
-craving our dicks, getting all wet."[pcms]
+[ns]航[nse]
+「そうでもないみたいだぞ。お前のオマンコ、[r]
+　ボクたちのモノが欲しくてぐぢゅぐぢゅじゃないか」[pcms]
 
 *732|
 [fc]
-[ns]Kousuke[nse]
-"This is too much... right, Wataru?"[pcms]
+[ns]浩助[nse]
+「たまんねぇ……なぁ、ワタル」[pcms]
 
 *733|
 [fc]
 [vo_ren s="ren0184"]
-[ns]Ren[nse]
-"Stop! Please, forgive me... forgive me, Onii-chan!"[pcms]
+[ns]漣[nse]
+「やっ！　いやぁ、許して……許してお兄ちゃんっ！」[pcms]
 
 *734|
 [fc]
-Crying out, Ren struggles to escape from the two of us, but[r]
-she doesn't stand a chance against our strength.[pcms]
+泣き叫びながら漣はボクたち二人から逃れようと[r]
+ジタバタと暴れたが、漣の力では、ボクたち二人に[r]
+敵うわけもない。[pcms]
 
 *735|
 [fc]
-[ns]Wataru[nse]
-"Ko-chan."[pcms]
+[ns]航[nse]
+「コースケ」[pcms]
 
 *736|
 [fc]
-I called out to Ko-chan and we both pushed the tips into her[r]
-small hole.[pcms]
+コースケに声をかけて、ボクたちは漣の小さな穴に[r]
+グイッと先端を潜り込ませた。[pcms]
 
 *737|
 [fc]
 [vo_ren s="ren0185"]
-[ns]Ren[nse]
-"Hiiiiuuuu!!"[pcms]
+[ns]漣[nse]
+「ひぅぅううっ！！」[pcms]
 
 *738|
 [fc]
-A voice that couldn't even scream shook Ren's throat.[pcms]
+叫びにさえ鳴らない声が、漣の喉を奮わせる。[pcms]
 
 *739|
 [fc]
-Her place lubricated only by our pre-cum is definitely not[r]
-ready to take both of our dicks.[pcms]
+ボクらのガマン汁だけが潤滑油のそこは、[r]
+とてもじゃないがボクら二人のモノを[r]
+咥え込む事なんて無理だ。[pcms]
 
 *740|
 [fc]
-But well, everyone is born from a woman's pussy, and[r]
-compared to a baby, our two dicks should be easy to handle.[pcms]
+でもまぁ、人類みんな、女のオマンコから[r]
+生まれてくるんだし、赤ん坊に比べたらボクたち[r]
+二人のモノくらい、容易いはずだ。[pcms]
 
 *741|
 [fc]
-[ns]Kousuke[nse]
-"Let's go all at once."[pcms]
+[ns]浩助[nse]
+「一気に行くぜ」[pcms]
 
 *742|
 [fc]
-[ns]Wataru[nse]
-"Yeah."[pcms]
+[ns]航[nse]
+「あぁ」[pcms]
 
 *743|
 [fc]
 [vo_ren s="ren0186"]
-[ns]Ren[nse]
-"No, nooooo! It hurts, it really hurts. Please stop, please[r]
-stop it!!!"[pcms]
+[ns]漣[nse]
+「い、いやぁあああっ。い、痛い、痛いの。痛いの。[r]
+　本当に痛いの。やめて、やめて、やめてぇええっ！！」[pcms]
 
 *744|
 [fc]
-Even Ren's screams sound like pleasant music to my ears.[pcms]
+漣の叫び声さえも心地のいい音楽に聞こえる。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="HEV025b"]
@@ -893,286 +910,294 @@ Even Ren's screams sound like pleasant music to my ears.[pcms]
 *745|
 [fc]
 [vo_ren s="ren0187"]
-[ns]Ren[nse]
-"Higu!"[pcms]
+[ns]漣[nse]
+「ひぐっ！」[pcms]
 
 *746|
 [fc]
-Just as I felt something tear at the tip of my dick,[r]
-gradually, our dicks were swallowed up by Ren's insides.[pcms]
+ミチッと何かが切れるような感覚がボクのモノの[r]
+先端に感じたかと思うと、徐々にではあったが、[r]
+漣の内部にボクらのモノは飲み込まれていった。[pcms]
 
 *747|
 [fc]
-[ns]Wataru[nse]
-"Really, Ren is such a slut. Even though she says she's a[r]
-virgin, she's taking in two at once."[pcms]
+[ns]航[nse]
+「まったく、淫乱だなぁ、漣は。処女だって言うのに、[r]
+　二本も飲み込んでるぜ」[pcms]
 
 [evcg storage="HEV025c"][trans_c cross time=300]
 
 *748|
 [fc]
 [vo_ren s="ren0188"]
-[ns]Ren[nse]
-"No, it hurts... ngh, haaah. More, no, no... hiiii!!"[pcms]
+[ns]漣[nse]
+「やっ、い、いた……んくはぁあっ。もっ、は、[r]
+　はいんな……ひぃいっ！！」[pcms]
 
 *749|
 [fc]
-[ns]Kousuke[nse]
-"We're going to thrust all at once, Wataru."[pcms]
+[ns]浩助[nse]
+「一気にイクゼ、ワタル」[pcms]
 
 *750|
 [fc]
-[ns]Wataru[nse]
-"Yeah!"[pcms]
+[ns]航[nse]
+「あぁ！」[pcms]
 
 [evcg storage="HEV025b"][trans_c cross time=300]
 
 *751|
 [fc]
 [vo_ren s="ren0189"]
-[ns]Ren[nse]
-"Higyaaaan!!"[pcms]
+[ns]漣[nse]
+「ひぎゃあああんっ！！」[pcms]
 
 *752|
 [fc]
-With perfect coordination befitting best friends, Kousuke[r]
-and I thrust our dicks deep into Ren's womb all at once.[pcms]
+流石親友と言える息の合い方で、ボクとコースケは[r]
+漣の胎内の奥深くまで一気に自分たちのモノを突っ込んだ。[pcms]
 
 *753|
 [fc]
-Ren's eyes rolled back and her body twitched, she became[r]
-docile, but still, the inside of her pussy feels good.[pcms]
+そのショックで漣は白目を剥いて、ピクピクと体を[r]
+振るわせるばかりで、大人しくなったけれども、[r]
+やっぱりオマンコの中は気持ちいい。[pcms]
 
 *754|
 [fc]
-The thigh rubbing against Ren's smooth skin was nice, but[r]
-this slippery and lukewarm pussy...[pcms]
+スベスベとした漣の肌を味わう腿ずりもよかったけど、[r]
+ぬるぬるとして、生暖かいこのオマンコ。[pcms]
 
 *755|
 [fc]
-It seems to exist solely to engulf a man's dick.[pcms]
+男のモノを咥え込むために存在してるとしか思えない。[pcms]
 
 *756|
 [fc]
-[ns]Wataru[nse]
-"Kuuuh, this is the best."[pcms]
+[ns]航[nse]
+「くぅう、最高だな」[pcms]
 
 *757|
 [fc]
-While saying that, I tried to move my hips, but it was[r]
-difficult to move as we had two dicks in the same hole at[r]
-the same time.[pcms]
+そう言いながら腰を動かそうとしたが、やっぱり[r]
+同時に同じ穴に二本もモノを突っ込むのは無理が[r]
+あったのか、どうも動きづらい。[pcms]
 
 *758|
 [fc]
-[ns]Wataru[nse]
-"Kousuke, how about we move in and out in turns?"[pcms]
+[ns]航[nse]
+「コースケ、ボクと交互に出し入れしないか？」[pcms]
 
 *759|
 [fc]
-[ns]Kousuke[nse]
-"That sounds good. It feels pretty good just being inside,[r]
-but rubbing against each other seems even better."[pcms]
+[ns]浩助[nse]
+「そうだな。ただ入れてるだけでも結構[r]
+　気持ちいいけど、擦ったほうがもっと[r]
+　気持ちよさそうだもんな」[pcms]
 
 *760|
 [fc]
-[ns]Wataru[nse]
-"Ren would probably prefer that too... wait, she's passed[r]
-out."[pcms]
+[ns]航[nse]
+「漣だってそのほうが……って、気絶してやがる」[pcms]
 
 *761|
 [fc]
-[ns]Kousuke[nse]
-"Seriously, even though big bro and I are thrusting into[r]
-her, she's not trained well enough, huh?"[pcms]
+[ns]浩助[nse]
+「ったく、せっかく兄貴とオレが突っ込んでやってるのになぁ。[r]
+　妹の躾がなってないんじゃないのか？」[pcms]
 
 *762|
 [fc]
-[ns]Wataru[nse]
-"Well, we'll train her gradually. Besides, if we move like[r]
-this, she'll wake up whether she likes it or not, right?"[pcms]
+[ns]航[nse]
+「まぁ、おいおい躾けていくさ。それにこうやって動けば、[r]
+　イヤでも目が覚めるだろう？」[pcms]
 
 *763|
 [fc]
-While saying that, I began to move my hips.[pcms]
+言いながら、ボクは腰を動かし始めた。[pcms]
 
 *764|
 [fc]
-Kousuke also started moving in sync with me.[pcms]
+同時にコースケもボクと呼吸を合わせるように動かす。[pcms]
 
 [evcg storage="HEV025c"][trans_c cross time=300]
 
 *765|
 [fc]
 [vo_ren s="ren0190"]
-[ns]Ren[nse]
-"Hyaaaah!!"[pcms]
+[ns]漣[nse]
+「ひやぁあああっ！！」[pcms]
 
 *766|
 [fc]
-The moment we did that, Ren woke up and let out a scream.[pcms]
+その途端、漣が目を覚まし叫び声をあげた。[pcms]
 
 *767|
 [fc]
-[ns]Wataru[nse]
-"Oh, she's awake."[pcms]
+[ns]航[nse]
+「おっ、起きた起きた」[pcms]
 
 *768|
 [fc]
-[ns]Kousuke[nse]
-"Kuuuh, it's better when she's awake. Her pussy clings to my[r]
-dick."[pcms]
+[ns]浩助[nse]
+「くぅう、起きてるほうがいいな。マンコが[r]
+　ナニに絡み付いてくるぜ」[pcms]
 
 *769|
 [fc]
 [vo_ren s="ren0191"]
-[ns]Ren[nse]
-"Guuh... haaah. No more, no... aguuuu!!"[pcms]
+[ns]漣[nse]
+「ぐぅっ……はぁああんっ。も、や、いや……[r]
+　あぐぅううっ！」[pcms]
 
 *770|
 [fc]
-[ns]Wataru[nse]
-"You don't like it? We're just getting started."[pcms]
+[ns]航[nse]
+「イヤだって？　まだまだ始まったばかりだぜ」[pcms]
 
 *771|
 [fc]
 [vo_ren s="ren0192"]
-[ns]Ren[nse]
-"It's breaking... I'm breaking. My, my pussy... ahhhh!!"[pcms]
+[ns]漣[nse]
+「こわ、こわれ……壊れちゃう。わ、私の、[r]
+　私のアソコ……あうぅううっ」[pcms]
 
 *772|
 [fc]
-[ns]Kousuke[nse]
-"Of course it's breaking because that's what we're doing."[pcms]
+[ns]浩助[nse]
+「壊してやってるんだから、当たり前だろ？」[pcms]
 
 *773|
 [fc]
-While laughing mockingly at Ren, we continued to thrust our[r]
-hips without care.[pcms]
+そんな簡単なこともわからないのかと、ケラケラと[r]
+漣をあざけ笑いながら、ボクらはかまわずに腰を[r]
+突き動かした。[pcms]
 
 *774|
 [fc]
 [vo_ren s="ren0193"]
-[ns]Ren[nse]
-"Hahiii! Nnguuu, stop... aguuufuuu!!"[pcms]
+[ns]漣[nse]
+「はひぃいっ、んっくぅう、やっ……あぐぅふぅうっ！」[pcms]
 
 *775|
 [fc]
-The obscene squelching sounds coming from Ren's pussy were[r]
-not because she was getting excited but simply because her[r]
-pussy was torn.[pcms]
+ぐちゅぐちゅと淫猥な音を漣のオマンコが[r]
+奏でてるのは、漣が興奮してきたというよりも、[r]
+単に漣のオマンコが切れたせいだ。[pcms]
 
 *776|
 [fc]
-But that made for a good lubricant, and we thrust into her[r]
-alternately without any hesitation or courtesy.[pcms]
+でも、それがいい潤滑剤になって、ボクらは[r]
+遠慮会釈なしに漣の中を交互に突いた。[pcms]
 
 *777|
 [fc]
 [vo_ren s="ren0194"]
-[ns]Ren[nse]
-"Higuu... more, ahhh, it hurts... it hurts so much, big[r]
-brother..."[pcms]
+[ns]漣[nse]
+「ひぐぅ……も、あぅうう、いた……痛いよぉお、[r]
+　おにいちゃ……」[pcms]
 
 *778|
 [fc]
-Crying out in pain, Ren's voice is delightful.[pcms]
+泣き叫ぶ漣の声が気持ちいい。[pcms]
 
 *779|
 [fc]
-Because Kousuke and I are in the same hole, Ren's already[r]
-tight virgin hole squeezes our dicks even tighter.[pcms]
+コースケと同じ穴に入れてるせいで、[r]
+ただでさえ狭い漣の処女の穴がぎゅうぎゅうとボクの……[r]
+ボクらのモノを締め付けてくる。[pcms]
 
 *780|
 [fc]
-[ns]Wataru[nse]
-"For someone who's resisting... you're clamping down on us[r]
-pretty tight."[pcms]
+[ns]航[nse]
+「嫌がってる割には……締め付けてくるじゃないか」[pcms]
 
 *781|
 [fc]
 [vo_ren s="ren0195"]
-[ns]Ren[nse]
-"Hikuuu... no, I don't want it. Please stop... uguuuu, let[r]
-go... take your dicks out, Ko-chan."[pcms]
+[ns]漣[nse]
+「ひくぅうう……や、イヤ。もうやめ……[r]
+　うっぐぅう、ゆるっ…て……。おちんちん……[r]
+　おちんちん抜いて、コーちゃん」[pcms]
 
 *782|
 [fc]
-[ns]Kousuke[nse]
-"Ahh, that crying face is the best, Ren-chan. Just that face[r]
-alone..."[pcms]
+[ns]浩助[nse]
+「あぁ、その泣き顔、最高だよ、漣ちゃん。[r]
+　もうオレ、その顔だけで……」[pcms]
 
 *783|
 [fc]
-[ns]Wataru[nse]
-"I'm about to cum too..."[pcms]
+[ns]航[nse]
+「ボクも……イキそうだ」[pcms]
 
 [evcg storage="HEV025b"][trans_c cross time=300]
 
 *784|
 [fc]
 [vo_ren s="ren0196"]
-[ns]Ren[nse]
-"Eh? No! Ah! That's too rough... kuuuu!! It's breaking, I'm[r]
-breaking... ahhhh!!"[pcms]
+[ns]漣[nse]
+「えっ？　やっ！　あっ！　そ、そんなまた、[r]
+　はげし……くぅうううっ！！　こわれ、[r]
+　壊れちゃ……あぅうううっ！！」[pcms]
 
 *785|
 [fc]
-Kousuke and I started moving our hips violently as if on[r]
-cue.[pcms]
+ボクとコースケは計ったように、[r]
+同時に、腰を激しく動かし始めた。[pcms]
 
 *786|
 [fc]
-This probably hurt Ren's already numb pussy even more. With[r]
-the force of passing out again, Ren shook her body[r]
-violently.[pcms]
+それが少しだけ麻痺してきた漣のオマンコをさらに[r]
+痛めつけたんだろう。再び気絶するような勢いで、[r]
+漣は体を大きく振るわせた。[pcms]
 
 *787|
 [fc]
-But what kept her from letting go was the intense pain from[r]
-her own pussy.[pcms]
+だがその意思を手放せないのは、他ならぬ自分の[r]
+オマンコからの激痛。[pcms]
 
 *788|
 [fc]
-She wanted to pass out to escape the pain, but the pain[r]
-itself was preventing her from doing so.[pcms]
+激痛から逃げるために気絶したいのに、それを[r]
+阻むのも激痛だ。[pcms]
 
 *789|
 [fc]
-I took pleasure in the distortion of her face.[pcms]
+その顔の歪みをボクは愉悦に感じた。[pcms]
 
 *790|
 [fc]
-[ns]Wataru[nse]
-"I'm going to cum..."[pcms]
+[ns]航[nse]
+「出すぞ……」[pcms]
 
 *791|
 [fc]
-[ns]Kousuke[nse]
-"Yeah."[pcms]
+[ns]浩助[nse]
+「あぁ」[pcms]
 
 [evcg storage="HEV025c"][trans_c cross time=300]
 
 *792|
 [fc]
 [vo_ren s="ren0197"]
-[ns]Ren[nse]
-"No! Not inside..."[pcms]
+[ns]漣[nse]
+「い、いやっ！　な、中は……」[pcms]
 
 *793|
 [fc]
-[ns]Wataru[nse]
-"I'm going to fill you up."[pcms]
+[ns]航[nse]
+「たっぷり出してやるからな」[pcms]
 
 *794|
 [fc]
 [vo_ren s="ren0198"]
-[ns]Ren[nse]
-"Ko-chan, stop..."[pcms]
+[ns]漣[nse]
+「こ、コーちゃん、ヤメっ……」[pcms]
 
 *795|
 [fc]
-Ren's words were like a final plea. However.[pcms]
+漣の最後の哀願のような言葉。しかし。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV025d"]
@@ -1180,31 +1205,30 @@ Ren's words were like a final plea. However.[pcms]
 *796|
 [fc]
 [vo_ren s="ren0199"]
-[ns]Ren[nse]
-"Ahhhhhhhh!!"[pcms]
+[ns]漣[nse]
+「あぁあああああああっ！！」[pcms]
 
 *797|
 [fc]
-We didn't care and almost simultaneously filled Ren's[r]
-insides with our cum.[pcms]
+ボクらはかまわずほぼ同時に漣の中を精子で満たした。[pcms]
 
 *798|
 [fc]
 [vo_ren s="ren0200"]
-[ns]Ren[nse]
-"It's coming out. It's coming out. Onii-chan's, Onii-chan's[r]
-cum is... akuuuu!"[pcms]
+[ns]漣[nse]
+「で、出てる。出てる。お、お兄ちゃんの、[r]
+　お兄ちゃんの精子が……あくぅううっ」[pcms]
 
 *799|
 [fc]
-[ns]Kousuke[nse]
-"Taste my cum thoroughly."[pcms]
+[ns]浩助[nse]
+「オレの精子もたっぷり味わえ」[pcms]
 
 *800|
 [fc]
 [vo_ren s="ren0201"]
-[ns]Ren[nse]
-"No, ahhhh!!"[pcms]
+[ns]漣[nse]
+「いやぁああああっ！！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV025d"]
@@ -1212,20 +1236,20 @@ cum is... akuuuu!"[pcms]
 
 *801|
 [fc]
-Ren's body was shaking violently, her eyes no longer[r]
-focusing on anything.[pcms]
+ガクガクと体を震わせる漣の目は、[r]
+もうどこも見ていなかった。[pcms]
 
 *802|
 [fc]
-But that felt so good to us, we poured every last drop[r]
-inside Ren.[pcms]
+だがそれが心地よくて、ボクらは最後の一滴まで[r]
+全部漣の中に注ぎ込んだ。[pcms]
 
 *803|
 [fc]
 [vo_ren s="ren0202"]
-[ns]Ren[nse]
-"No... Onii-chan... it hurts... it's your fault... inside[r]
-me..."[pcms]
+[ns]漣[nse]
+「ぃやぁ……おにいちゃ…いが……のせい…が、[r]
+　わた…中………」[pcms]
 
 ;//○（上記のセリフは全部書くと「いやぁ……お兄ちゃん以外の人の精子が、私の中に……」になります。
 ;//漣がショック状態でうまく喋れない状態であることが表現されていれば充分ですので、
@@ -1233,164 +1257,168 @@ me..."[pcms]
 
 *804|
 [fc]
-[ns]Wataru[nse]
-"Ahaha. Does it feel good? Ren"[pcms]
+[ns]航[nse]
+「あはは。気持ちいいか？　漣」[pcms]
 
 ;//暗転しておく
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *805|
 [fc]
-As I pulled out the spent member, a mix of both men's semen[r]
-and blood overflowed from Ren's pussy, spilling out.[pcms]
+ずるんと放出が終わったモノを引きずり出すと、[r]
+二人分の精液と血が入り混じったものが漣の[r]
+オマンコからあふれ、こぼれてきた。[pcms]
 
 *806|
 [fc]
-[ns]Kousuke[nse]
-"Wow. She looks like she's drooling with joy."[pcms]
+[ns]浩助[nse]
+「スゲー。喜んで涎垂らしてるみたいだぜ」[pcms]
 
 *807|
 [fc]
 [vo_ren s="ren0203"]
-[ns]Ren[nse]
-"No... Ko-chan... not with Ko-chan..."[pcms]
+[ns]漣[nse]
+「いや……コーちゃ……コーちゃんになんて……」[pcms]
 
 *808|
 [fc]
-[ns]Kousuke[nse]
-"Even though you say no, Ren-chan's pussy is twitching like[r]
-it wants my dick."[pcms]
+[ns]浩助[nse]
+「イヤだって言いながら、漣ちゃんのマンコは[r]
+　オレのモノが欲しいってひくついてるぜ」[pcms]
 
 *809|
 [fc]
-[ns]Wataru[nse]
-"No, what Ren really wants isn't just in her pussy, right?[r]
-Her ass is twitching for a man's dick too."[pcms]
+[ns]航[nse]
+「いや、漣が欲しいのはオマンコにだけじゃ[r]
+　ないだろう？　おしりだって男のモノが欲しくて[r]
+　ヒクヒクしてるぜ」[pcms]
 
 *810|
 [fc]
 [vo_ren s="ren0204"]
-[ns]Ren[nse]
-"Hiiun. No... not anymore..."[pcms]
+[ns]漣[nse]
+「ひぅうんっ。い、いや……も、もう……」[pcms]
 
 *811|
 [fc]
-[ns]Wataru[nse]
-"You don't think you're forgiven with this, do you, Ren?[r]
-Look, our dicks are already hard again, wanting to enter[r]
-you."[pcms]
+[ns]航[nse]
+「漣、これで許されるなんて思ってるわけじゃ[r]
+　ないだろ？　ほら、もうボクたちのモノはお前に[r]
+　入りたいって、ビンビンになってるぜ」[pcms]
 
 *812|
 [fc]
 [vo_ren s="ren0205"]
-[ns]Ren[nse]
-"Onii-chan's dick..."[pcms]
+[ns]漣[nse]
+「お、お兄ちゃんのおちんちん……」[pcms]
 
 *813|
 [fc]
-Despite shaking violently from shock, Ren's voice now[r]
-contained a hint of anticipation along with rejection.[pcms]
+ショックで体をガクガクと震わせながらも、[r]
+それでも漣の声には今までの拒絶だけだった色から、[r]
+期待するような色が含まれていた。[pcms]
 
 *814|
 [fc]
-That's right. Ren must be desperate for a man's dick.[pcms]
+そうだろう。[r]
+やっぱり漣は男のモノが欲しくてたまらないんだ。[pcms]
 
 *815|
 [fc]
-[ns]Wataru[nse]
-"Is that so? You can't wait to have it inside?"[pcms]
+[ns]航[nse]
+「そうか、そうか。もう欲しくてたまらないか」[pcms]
 
 *816|
 [fc]
 [vo_ren s="ren0206"]
-[ns]Ren[nse]
-"Don't... stop... Onii-chan"[pcms]
+[ns]漣[nse]
+「そんな…こと……やめ、やめて……お兄ちゃん」[pcms]
 
 *817|
 [fc]
-[ns]Kousuke[nse]
-"Onii-chan, Onii-chan, are you just going to ignore me?[r]
-That's pretty harsh, isn't it, Ren-chan?"[pcms]
+[ns]浩助[nse]
+「お兄ちゃん、お兄ちゃんって、オレのことはほったらかしかよ？[r]
+　漣ちゃん。そりゃあ酷いんじゃないのか？」[pcms]
 
 [evcg storage="HEV025a"][trans_c cross time=300]
 
 *818|
 [fc]
 [vo_ren s="ren0207"]
-[ns]Ren[nse]
-"No... Nooooo!!"[pcms]
+[ns]漣[nse]
+「やぁ……いやぁああああああああっ！」[pcms]
 
 *819|
 [fc]
-Kousuke forcefully thrust his dick back into Ren's pussy.[pcms]
+コースケがグイと再び漣のオマンコに自分のモノを突っ込んだ。[pcms]
 
 *820|
 [fc]
-[ns]Wataru[nse]
-"If Kousuke is taking the pussy, then I'll take the virgin[r]
-ass all to myself."[pcms]
+[ns]航[nse]
+「コースケがオマンコに突っ込んでるんなら、[r]
+　おしりの処女はボクが一人で貰うよ」[pcms]
 
 *821|
 [fc]
 [vo_ren s="ren0208"]
-[ns]Ren[nse]
-"Hiiuuu, no... pull it out. Pull it out!"[pcms]
+[ns]漣[nse]
+「ひぅううっ、い、やぁ……ぬ、抜いて。抜いてぇえ」[pcms]
 
 *822|
 [fc]
-The pain in her pussy hadn't fully subsided when it was[r]
-penetrated again, causing Ren's body to tremble.[pcms]
+まだ痛みも治まりきっていないオマンコを[r]
+再び貫かれたことで、漣の体がビクビク震える。[pcms]
 
 *823|
 [fc]
-I held down her hips and pressed my dick against the[r]
-tightness of her small ass.[pcms]
+ボクは腰を押さえつけて小さなおしりの窄みに[r]
+自分のモノを押し付けた。[pcms]
 
 *824|
 [fc]
 [vo_ren s="ren0209"]
-[ns]Ren[nse]
-"Onii-chan... no... auu"[pcms]
+[ns]漣[nse]
+「お兄ちゃ……いやっ……あぅ」[pcms]
 
 *825|
 [fc]
-[ns]Wataru[nse]
-"Mmm, the saliva from the front makes it slide nicely; I[r]
-could shove it in just like this."[pcms]
+[ns]航[nse]
+「ん～、前からの涎がいい具合に滑って、[r]
+　このままぶち込めそうだな」[pcms]
 
 *826|
 [fc]
 [vo_ren s="ren0210"]
-[ns]Ren[nse]
-"No... Aaaahn... not like that..."[pcms]
+[ns]漣[nse]
+「やぁ……あぁああん……そんなの……」[pcms]
 
 *827|
 [fc]
-[ns]Wataru[nse]
-"Hey hey, Kousuke, go easy a bit. The shaking is making it[r]
-hard to aim."[pcms]
+[ns]航[nse]
+「おいおい、コースケ、少しは加減しろよ。[r]
+　ゆれるおかげで狙いが定まらないじゃないか」[pcms]
 
 *828|
 [fc]
-[ns]Kousuke[nse]
-"Oops, sorry."[pcms]
+[ns]浩助[nse]
+「おっと、すまん」[pcms]
 
 *829|
 [fc]
-Kousuke slowed down his pace a bit after I complained about[r]
-him shaking his hips without regard for my convenience.[pcms]
+ボクの都合にお構いなしに、腰を振っていたコースケに[r]
+文句を言うと、少しそのスピードを緩めてくれた。[pcms]
 
 *830|
 [fc]
 [vo_ren s="ren0211"]
-[ns]Ren[nse]
-"Please... Onii-chan..."[pcms]
+[ns]漣[nse]
+「お、お願い……お兄ちゃん……」[pcms]
 
 *831|
 [fc]
-[ns]Wataru[nse]
-"Is that so? You want it that badly already. Ren, you're[r]
-such a glutton."[pcms]
+[ns]航[nse]
+「そうか、そうか。そんなに早くぶち込んで欲しいか。[r]
+　まったく漣は欲張りだな」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg白フラ storage="HEV025b"]
@@ -1398,206 +1426,212 @@ such a glutton."[pcms]
 *832|
 [fc]
 [vo_ren s="ren0212"]
-[ns]Ren[nse]
-"That's not it! Hiiiiii!!"[pcms]
+[ns]漣[nse]
+「ちっ、ちがっ！　ひぃいいいいいっ！！」[pcms]
 
 *833|
 [fc]
-I pushed in all at once, widening the tightness with the[r]
-thickest part of my dick into Ren's narrow hole.[pcms]
+グイっと小さな窄みを押し広げるように、[r]
+ボクは一気に一番太い部分を漣の狭い穴の中に押し込んだ。[pcms]
 
 *834|
 [fc]
-[ns]Wataru[nse]
-"Relax a bit more, Ren. It won't go in otherwise."[pcms]
+[ns]航[nse]
+「もうちょっと力抜けよ、漣。入らないだろ？」[pcms]
 
 [evcg storage="HEV025c"][trans_c cross time=300]
 
 *835|
 [fc]
 [vo_ren s="ren0213"]
-[ns]Ren[nse]
-"I can't... it hurts... Ko-chan, pull it out"[pcms]
+[ns]漣[nse]
+「そんなの……痛くて……コーちゃん、抜いて」[pcms]
 
 *836|
 [fc]
-[ns]Kousuke[nse]
-"You're noisy. Even though you're this wet and messy.[r]
-Wataru, don't mind her and shove it in all the way."[pcms]
+[ns]浩助[nse]
+「うるさいなぁ。こんなにぐちゃぐちゃにしてるくせに。[r]
+　航、構わないから奥までぶち込めよ」[pcms]
 
 *837|
 [fc]
-[ns]Wataru[nse]
-"Yeah."[pcms]
+[ns]航[nse]
+「あぁ」[pcms]
 
 *838|
 [fc]
 [vo_ren s="ren0214"]
-[ns]Ren[nse]
-"Not like that... Yaaan! Onii-chan... Ah, no... It's going[r]
-in... Kuuuu, it hurts!!"[pcms]
+[ns]漣[nse]
+「そんなの……やぁあんっ。お兄ちゃん……[r]
+　あっ、いや……入って……[r]
+　くぅうう、痛いぃいいっ！！」[pcms]
 
 *839|
 [fc]
-I held down Ren's body as she tried to escape from us and[r]
-forcibly shoved my dick inside her.[pcms]
+ビクンと体を跳ねさせて、ボクたちから[r]
+逃げ出そうとする漣の体を押さえつけて、[r]
+ボクは無理やり自分のモノを突っ込んだ。[pcms]
 
 *840|
 [fc]
-The sensation of completely enveloping my dick was something[r]
-I couldn't feel when I was inside her pussy.[pcms]
+オマンコに突っ込んだときには感じられなかった、[r]
+ボクのモノを全部包み込む感覚。[pcms]
 
 *841|
 [fc]
-I savored the sensation that crawled up from my hips to my[r]
-head as her ass tightly clenched around me.[pcms]
+ボクは腰からゾワッとする頭まで這い登るその感覚に[r]
+陶然としながら、ぎゅっと締め付けてくるおしりの[r]
+感覚を存分に味わった。[pcms]
 
 *842|
 [fc]
-[ns]Wataru[nse]
-"Ahaha. You really wanted it in your ass after all. Even[r]
-though you were a virgin until just now, you're already[r]
-clinging onto my dick."[pcms]
+[ns]航[nse]
+「あはは。やっぱりおしりにぶち込んで[r]
+　もらいたかったんだな。今の今まで処女だったくせに、[r]
+　もうボクのモノに絡み付いてくるぜ」[pcms]
 
 *843|
 [fc]
-[ns]Kousuke[nse]
-"The pussy is also pretty... intense."[pcms]
+[ns]浩助[nse]
+「マンコのほうもかなり……キテるぜ」[pcms]
 
 *844|
 [fc]
 [vo_ren s="ren0215"]
-[ns]Ren[nse]
-"No... Ah, uuu, don't move... No, noooo!"[pcms]
+[ns]漣[nse]
+「いや……あぅうう、うご、動かないで……[r]
+　やっ、いやぁああっ！」[pcms]
 
 *845|
 [fc]
-[ns]Wataru[nse]
-"If I don't move, it won't feel good, right?"[pcms]
+[ns]航[nse]
+「動かなかったら気持ちよくなれないだろ？」[pcms]
 
 *846|
 [fc]
 [vo_ren s="ren0216"]
-[ns]Ren[nse]
-"Feeling good... I don't want to feel good... Hiiiuuuu!"[pcms]
+[ns]漣[nse]
+「気持ちよく……気持ちよくなんて……[r]
+　ひぃうぅううっ」[pcms]
 
 *847|
 [fc]
-[ns]Kousuke[nse]
-"Instead of just whimpering, let's enjoy this more~"[pcms]
+[ns]浩助[nse]
+「ひぃひぃ言ってるだけじゃなくてさ～、[r]
+　もっと楽しもうぜ」[pcms]
 
 *848|
 [fc]
 [vo_ren s="ren0217"]
-[ns]Ren[nse]
-"No... no... Haaa... I don't want to. No more... Ah, uuu."[pcms]
+[ns]漣[nse]
+「いや……や……はぁああ……ヤダ。[r]
+　もぉ……あぅうう」[pcms]
 
 *849|
 [fc]
-[ns]Wataru[nse]
-"Your movements are getting better... damn, you're wrapping[r]
-around me."[pcms]
+[ns]航[nse]
+「だいぶ動きがよくなって……すっげ、絡んでくる」[pcms]
 
 *850|
 [fc]
-[ns]Kousuke[nse]
-"This side is also getting into a nice rhythm. Squelching[r]
-and truly lewd."[pcms]
+[ns]浩助[nse]
+「こっちのほうもいい感じになってきたぜ。[r]
+　ぐちゅぐちゅ言って、本当に淫乱だな」[pcms]
 
 *851|
 [fc]
 [vo_ren s="ren0218"]
-[ns]Ren[nse]
-"That's not... Ah, uuu... Haaa... I don't want to... I don't[r]
-want to... Onii- chan..."[pcms]
+[ns]漣[nse]
+「ちが……あくぅう……はぁああ……も、ぃや……[r]
+　イヤだ……おにいちゃ……」[pcms]
 
 *852|
 [fc]
-Gradually, Ren seemed to lose the will to resist, or maybe[r]
-she was starting to feel it, as she quietly let us shake[r]
-her.[pcms]
+段々漣も抵抗する気がなくなってきたのか、それとも[r]
+感じてきたのか、大人しくボクらに[r]
+揺さぶられているだけになってくる。[pcms]
 
 *853|
 [fc]
-I wanted to see more of her crying face.[pcms]
+もっと泣き顔が見たいのに。[pcms]
 
 *854|
 [fc]
-I wanted to hear more of Ren's screams.[pcms]
+もっと漣の叫び声が聞きたいのに。[pcms]
 
 *855|
 [fc]
-Dissatisfied, I thrust into Ren even harder.[pcms]
+ボクは不満を感じながら漣をさらに突き上げた。[pcms]
 
 [evcg storage="HEV025b"][trans_c cross time=300]
 
 *856|
 [fc]
 [vo_ren s="ren0219"]
-[ns]Ren[nse]
-"Hiiu!"[pcms]
+[ns]漣[nse]
+「ひぅっ！」[pcms]
 
 *857|
 [fc]
-[ns]Wataru[nse]
-"Make some nicer sounds. Come on, Ren."[pcms]
+[ns]航[nse]
+「もっといい声で鳴けよ。ほら、漣」[pcms]
 
 [evcg storage="HEV025c"][trans_c cross time=300]
 
 *858|
 [fc]
 [vo_ren s="ren0220"]
-[ns]Ren[nse]
-"I don't want this anymore... with someone other than him...[r]
-Hauuu!"[pcms]
+[ns]漣[nse]
+「いや……もぉイヤなの……以外の人と……はぅううっ」[pcms]
 
 *859|
 [fc]
-[ns]Kousuke[nse]
-"Who is it that you don't want to do this with besides him?[r]
-Saying that while you're this drenched doesn't sound[r]
-convincing at all."[pcms]
+[ns]浩助[nse]
+「誰以外の奴とヤるのがイヤなんだよ？[r]
+　こんなにぐちょぐちょにしながら言っても、[r]
+　ちっとも説得力ないぜ」[pcms]
 
 *860|
 [fc]
 [vo_ren s="ren0221"]
-[ns]Ren[nse]
-"Hyaan! More, ah, uuu... Ah, haa... haaa..."[pcms]
+[ns]漣[nse]
+「ひゃあんっ！　も、あくぅう……あっ、[r]
+　はぁ……はぁああ……」[pcms]
 
 *861|
 [fc]
-[ns]Kousuke[nse]
-"You're starting to feel it, aren't you? Kuu, your tightness[r]
-is irresistible."[pcms]
+[ns]浩助[nse]
+「感じてきたんじゃないのか？[r]
+　くぅ、たまんないしまりだぜ」[pcms]
 
 *862|
 [fc]
-[ns]Wataru[nse]
-"This side is getting nicely slick too... Your ass is[r]
-irresistible."[pcms]
+[ns]航[nse]
+「こっちもいい感じにぬめってきて……[r]
+　たまんないぜ、お前のおしりの穴は」[pcms]
 
 *863|
 [fc]
 [vo_ren s="ren0222"]
-[ns]Ren[nse]
-"Ah, uuu... it's intense... good..."[pcms]
+[ns]漣[nse]
+「あぅうう……はげし…いぃ……」[pcms]
 
 *864|
 [fc]
-[ns]Wataru[nse]
-"Is that good? Huh? Ren, right here?"[pcms]
+[ns]航[nse]
+「いいのか？　んっ？　漣、ここか？」[pcms]
 
 *865|
 [fc]
 [vo_ren s="ren0223"]
-[ns]Ren[nse]
-"That's not... kuu... more... haaa..."[pcms]
+[ns]漣[nse]
+「ち、が……くぅ……も……はぁああ……」[pcms]
 
 *866|
 [fc]
-[ns]Kousuke[nse]
-"It feels good... the way it clings lazily around my thing.[r]
-Kuuu!"[pcms]
+[ns]浩助[nse]
+「いい……このまったりとオレのナニに[r]
+　絡み付いてくるカンジが。くぅううっ！」[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV025d"]
@@ -1605,99 +1639,98 @@ Kuuu!"[pcms]
 *867|
 [fc]
 [vo_ren s="ren0224"]
-[ns]Ren[nse]
-"Hyaah!"[pcms]
+[ns]漣[nse]
+「ひゃあっ！」[pcms]
 
 *868|
 [fc]
-I could feel Kousuke's thing swelling up and exploding[r]
-through the thin wall inside Ren.[pcms]
+ドクンと、漣の薄い壁を通して、コースケのモノが[r]
+膨れ上がり、爆発したのを感じた。[pcms]
 
 *869|
 [fc]
-[ns]Wataru[nse]
-"What's the matter, you already finished?"[pcms]
+[ns]航[nse]
+「なんだよ、もういっちまったのかよ」[pcms]
 
 *870|
 [fc]
-[ns]Kousuke[nse]
-"Well, I was inside her before you... but it's not like I've[r]
-gone soft. I can still go on."[pcms]
+[ns]浩助[nse]
+「そりゃお前より先に入れてたからで……だけど[r]
+　別に萎えてないだろ？　まだまだオレはイケるぜ」[pcms]
 
 *871|
 [fc]
 [vo_ren s="ren0225"]
-[ns]Ren[nse]
-"Enough already... stop it..."[pcms]
+[ns]漣[nse]
+「もぉ……やめて……」[pcms]
 
 *872|
 [fc]
-[ns]Wataru[nse]
-"You're noisy. Just stay quiet and let us fuck your holes."[pcms]
+[ns]航[nse]
+「うるさいな。おまえは黙ってボクたちに穴を犯されてろ」[pcms]
 
 [evcg storage="HEV025b"][trans_c cross time=300]
 
 *873|
 [fc]
 [vo_ren s="ren0226"]
-[ns]Ren[nse]
-"Hiiuun!"[pcms]
+[ns]漣[nse]
+「ひぅうんっ！」[pcms]
 
 *874|
 [fc]
-Lifting Ren's light body as if carrying her, I violently[r]
-fucked her ass.[pcms]
+漣の軽い体を持ち上げるようにして、[r]
+激しくボクは漣のおしりを犯した。[pcms]
 
 *875|
 [fc]
 [vo_ren s="ren0227"]
-[ns]Ren[nse]
-"I don't want this... ahhh... no more..."[pcms]
+[ns]漣[nse]
+「やだ……あぁああ……もぉ……」[pcms]
 
 *876|
 [fc]
-Gradually, Ren's reactions became duller than when I first[r]
-fucked her.[pcms]
+最初に犯した時よりも段々、漣の反応が鈍くなってくる。[pcms]
 
 *877|
 [fc]
-Annoyed by this, I shook Ren's body roughly.[pcms]
+それにムカつきながら、ボクは乱暴に漣の体を揺り動かした。[pcms]
 
 *878|
 [fc]
 [vo_ren s="ren0228"]
-[ns]Ren[nse]
-"Haa... ahn..."[pcms]
+[ns]漣[nse]
+「はぁ…あん……」[pcms]
 
 *879|
 [fc]
-But with each deep thrust, the air trapped in her lungs was[r]
-pushed out, causing her vocal cords to vibrate and leak out[r]
-sounds, yet Ren's reactions continued to fade.[pcms]
+けれど深く突くたびに肺の中にたまった空気が[r]
+押し出されて声帯を震わせるように声を漏らす[r]
+ばかりで、漣の反応はどんどんなくなるばかりだ。[pcms]
 
 *880|
 [fc]
-Still, the movement of the walls inside Ren that enveloped[r]
-my thing felt good.[pcms]
+だがそれでもボクのモノを包む漣の内部の壁の[r]
+動きは気持ちがいい。[pcms]
 
 *881|
 [fc]
-[ns]Wataru[nse]
-"I'm going to cum."[pcms]
+[ns]航[nse]
+「出すぞ」[pcms]
 
 *882|
 [fc]
-When I called out from behind, Ren's body twitched for just[r]
-a moment in response.[pcms]
+ボクが後ろから声をかけると、漣の体はビクンッと[r]
+一瞬だけ反応を示す。[pcms]
 
 *883|
 [fc]
-And then--[pcms]
+そして――[pcms]
 
 *884|
 [fc]
-I poured a desire into Ren's intestines that was too much[r]
-for just a second time.[pcms]
+ボクは漣の腸内に２度目とは思えないほどの[r]
+欲望の爆発をたっぷりと注ぎ込んだ。[pcms]
 
 [se buf=0 storage="se_sex01"]
 [evcg射精フラ storage="HEV025e"]
@@ -1705,150 +1738,147 @@ for just a second time.[pcms]
 *885|
 [fc]
 [vo_ren s="ren0229"]
-[ns]Ren[nse]
-"Ah, haaa..."[pcms]
+[ns]漣[nse]
+「あっ、はぁああ……」[pcms]
 
 *886|
 [fc]
-As my thing trembled with aftershocks, Ren let out a sigh or[r]
-moan that couldn't be distinguished.[pcms]
+ビクビクと震えるボクのモノに連動するように、[r]
+漣の口からため息とも嬌声ともつかないものが漏れる。[pcms]
 
 *887|
 [fc]
-[ns]Wataru[nse]
-"You're not thinking I'll be satisfied with just two rounds,[r]
-right?"[pcms]
+[ns]航[nse]
+「２回使わせたくらいで許すとは思ってないよな？」[pcms]
 
 *888|
 [fc]
 [vo_ren s="ren0230"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「…………」[pcms]
 
 *889|
 [fc]
-Ren had always seemed ephemeral, almost like a doll.[pcms]
+前々から儚く、まるで人形のように見えた漣。[pcms]
 
 *890|
 [fc]
-Now--[pcms]
+今は――[pcms]
 
 *891|
 [fc]
-She lay limp and motionless. She looked truly like a "doll"[r]
-that had come to life.[pcms]
+ぐったりとして動かなくなった。[r]
+その様子は、本当に『人形』になってしまったかの様だった。[pcms]
 
 *892|
 [fc]
-She was breathing and warm, and while she didn't show any[r]
-notable reactions, she was alive since she clenched around[r]
-my thing like a reflex.[pcms]
+息はしてるし、暖かいし、目立った反応は[r]
+しないけれど、条件反射のようにボクのモノを[r]
+締め付けてくるから生きてるだろう。[pcms]
 
 *893|
 [fc]
-That's fine then. There's still plenty of fun to be had.[pcms]
+それならいい。まだまだ楽しめる。[pcms]
 
 *894|
 [fc]
-Until this reaction fades... I can enjoy myself until Ren's[r]
-belly is sloshing with cum.[pcms]
+この反応がなくなるまで……漣の腹ん中が[r]
+精子でガボガボになるくらいは楽しめる。[pcms]
 
 *895|
 [fc]
-[ns]Wataru[nse]
-"Let's keep enjoying this together."[pcms]
+[ns]航[nse]
+「このままふたりで楽しもうぜ」[pcms]
 
 *896|
 [fc]
-[ns]Kousuke[nse]
-"Yeah."[pcms]
+[ns]浩助[nse]
+「あぁ」[pcms]
 
 *897|
 [fc]
-Giggling as we sandwiched Ren between us, we started moving[r]
-again.[pcms]
+ケラケラと漣を挟んで笑いながら、[r]
+ボクらは再び動き出した。[pcms]
 
 *898|
 [fc]
-As if the ejaculation from earlier was a lie, my thing[r]
-remained hard.[pcms]
+さっき射精したことなど嘘のように、[r]
+ボクのモノは硬いままだ。[pcms]
 
 *899|
 [fc]
-[ns]Wataru[nse]
-"Kuuu, it's amazing. Your hole is."[pcms]
+[ns]航[nse]
+「くぅうう、サイコーだぜ。お前の穴は」[pcms]
 
 *900|
 [fc]
 [vo_ren s="ren0231"]
-[ns]Ren[nse]
-"..."[pcms]
+[ns]漣[nse]
+「……………」[pcms]
 
 *901|
 [fc]
-No matter what I said, it seemed like Ren couldn't hear me[r]
-anymore, her eyes looking far away.[pcms]
+もうボクが何を言っても漣の耳には届いていないのか、[r]
+どこか遠い目をしたままだ。[pcms]
 
 *902|
 [fc]
-But we didn't care and just kept seeking pleasure,[r]
-continuing to move our hips.[pcms]
+でもボクらは構わずただただ快楽を求めて腰を[r]
+動かし続けた。[pcms]
 
 *903|
 [fc]
-It would be nice if we all stayed connected like this[r]
-forever.[pcms]
+このままみんなでずっと繋がっていたらいい。[pcms]
 
 *904|
 [fc]
-Yes, Ren, Kousuke, Mizuki, Yuuho...[pcms]
+そう、漣もコースケも瑞樹も悠帆も……。[pcms]
 
 *905|
 [fc]
-[ns]Wataru[nse]
-"By the way, is Yuuho around?"[pcms]
+[ns]航[nse]
+「そういや、悠帆はいるのかな？」[pcms]
 
 *906|
 [fc]
-[ns]Kousuke[nse]
-"Who knows? Rather than that, let's go for another round,[r]
-lend me that hole next time."[pcms]
+[ns]浩助[nse]
+「さぁ？　それよりもう一発やったらよ、[r]
+　今度はそっちの穴貸せよ」[pcms]
 
 *907|
 [fc]
-[ns]Wataru[nse]
-"Yeah. The tightness is good, but I also want to slowly[r]
-savor the front by myself."[pcms]
+[ns]航[nse]
+「あぁ。締まりはいいけど、前もゆっくりと[r]
+　一人で味わってみたいしな」[pcms]
 
 *908|
 [fc]
-Laughing with each other, we continued to move our hips to[r]
-release our insatiable desires.[pcms]
+笑いあいながら、ボクらは止まる事を知らない欲望を[r]
+解放するために腰を動かし続ける。[pcms]
 
 *909|
 [fc]
-I don't know where Yuuho is...[pcms]
+悠帆がどこにいるのかわからないけど……。[pcms]
 
 *910|
 [fc]
-Well, I can go pick her up later.[pcms]
+まあ、あとで迎えに行けばいいだろう。[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *911|
 [fc]
-The moment I stood up to look for Yuuho, I heard something[r]
-pop in the back of my head.[pcms]
+悠帆を探そうと、立ち上がった瞬間。[r]
+ボクの頭の奥から、何かが弾けた音が聞こえた。[pcms]
 
 *912|
 [fc]
-With that sound, all functions that allowed me to control[r]
-myself were lost...[pcms]
+その音と共に、ボクがボクを制御する機能が全て失われ……。[pcms]
 
 *913|
 [fc]
-Around me spread darkness and a world of silence.[pcms]
+ボクの周りには、暗闇と、無音の世界が広がった。[pcms]
 
 
 ;//---------------------------------------------------------------
@@ -1862,4 +1892,4 @@ Around me spread darkness and a world of silence.[pcms]
 
 ;//●ゲームオーバー
 [gameover time=0 movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]

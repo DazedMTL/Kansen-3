@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹
 ;//・テキスト容量：
@@ -25,39 +25,38 @@
 
 *3633|
 [fc]
-[ns]Kousuke[nse]
-"...What the hell is that!?"[pcms]
+[ns]浩助[nse]
+「……何だ、そりゃ！？」[pcms]
 
 *3634|
 [fc]
-As soon as I finished speaking, Kousuke started yelling.[pcms]
+ボクの話が終わった途端にコースケが怒鳴り散らす。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3635|
 [fc]
-[ns]Kousuke[nse]
-"It must be some mistake, right!? Yuuho getting infected, no[r]
-way!?"[pcms]
+[ns]浩助[nse]
+「何かの間違いだろ！？　悠帆が感染なんてっ！？」[pcms]
 
 *3636|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *3637|
 [fc]
-I wish it were a mistake... I'm hoping for that too. But...[r]
-Yuuho from earlier was definitely acting strange...[pcms]
+間違いであってほしい……、ボクだってそう願ってる。[r]
+だけど……、さっきの悠帆はどう考えてもおかしかった……。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f10"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *3638|
 [fc]
 [vo_ren s="ren_B0001"]
-[ns]Ren[nse]
-"No... it can't be true, right...!? It's a lie... it has to[r]
-be a lie... ugh...uhh..."[pcms]
+[ns]漣[nse]
+「う……嘘でしょ、そんなぁ……っ！？[r]
+　嘘…………嘘だよね……？　うっうっ……ううっ……」[pcms]
 ;//＠前半悲鳴。後半、涙声
 
 [ChrSetEx layer=5 chbase="mizu_b6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
@@ -65,261 +64,254 @@ be a lie... ugh...uhh..."[pcms]
 *3639|
 [fc]
 [vo_miz s="mizuki_B0001"]
-[ns]Mizuki[nse]
-"This is... this is just too cruel... ughh..."[pcms]
+[ns]瑞樹[nse]
+「こんな……こんなの、酷すぎるよぉ……。ううぅっ」[pcms]
 ;//＠涙声
 
 [chara_int][trans_c cross time=150]
 
 *3640|
 [fc]
-Ren, who had screamed, finally covered her mouth and started[r]
-crying. Mizuki also placed her hand on Ren's shoulder,[r]
-shedding tears.[pcms]
+悲鳴をあげた漣が、とうとう口元を覆って泣き出した。[r]
+瑞樹も漣の肩に手をかけ、涙をこぼす。[pcms]
 
 *3641|
 [fc]
-[ns]Wataru[nse]
-"We have to check it out..."[pcms]
+[ns]航[nse]
+「確かめて、みないと……」[pcms]
 
 *3642|
 [fc]
-Muttering, I averted my eyes from Mizuki and Ren. This isn't[r]
-the time for me to cry...[pcms]
+呟きながら瑞樹や漣から目を逸らす。[r]
+ボクまでが泣いている場合じゃ、ない……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3643|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *3644|
 [fc]
-Jin stood silently in anger, while Shigeyoshi fidgeted[r]
-uncomfortably beside him.[pcms]
+怒ったように黙る壬さんの脇で、[r]
+重吉が居心地悪そうにもぞもぞと身体を揺する。[pcms]
 
 *3645|
 [fc]
-Everyone lost their words and looked down, avoiding each[r]
-other's eyes.[pcms]
+みんな、一様に言葉を失い、互いに目を伏せる。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3646|
 [fc]
 [vo_miz s="mizuki_B0002"]
-[ns]Mizuki[nse]
-"Hey...! Can't we do something about it!? Is there really[r]
-nothing we can do!?"[pcms]
+[ns]瑞樹[nse]
+「ねぇ……！　何か……どうにかできないの！？[r]
+　どうすることも、できないの！？」[pcms]
 
 *3647|
 [fc]
-Mizuki raised her voice in frustration and caught Maruko-[r]
-senpai's eyes.[pcms]
+たまりかねて声を上げた瑞樹が、その目にマル子先輩を捉えた。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3648|
 [fc]
 [vo_miz s="mizuki_B0003"]
-[ns]Mizuki[nse]
-"That's right... you're the ambassador's daughter, aren't[r]
-you!? Use your parent's connections or whatever, just do[r]
-something!"[pcms]
+[ns]瑞樹[nse]
+「そう……そうだよ！　アンタ、大使の娘なんでしょ！？[r]
+　親のコネでも何でも使って、どうにかしてよぉぉ！」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3649|
 [fc]
 [vo_mar s="maru_B0001"]
-[ns]Margarita[nse]
-"...ugh..."[pcms]
+[ns]マルガリータ[nse]
+「……くっ…………」[pcms]
 
 *3650|
 [fc]
-At a loss for words, Maruko-senpai bit her lip in[r]
-frustration.[pcms]
+答えに詰まり、マル子先輩は悔しそうに唇を噛み締める。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *3651|
 [fc]
 [vo_mar s="maru_B0002"]
-[ns]Margarita[nse]
-"...Assuming the information we've obtained so far is[r]
-correct..., the vaccine won't work anymore. That means...[r]
-there's nothing we can do..."[pcms]
+[ns]マルガリータ[nse]
+「……今までに入手した情報が正しいと仮定するなら……、[r]
+　もうワクチンも効果はない。[r]
+　つまり……打つ手はない、ということだ……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3652|
 [fc]
-[ns]Jin[nse]
-"If she had been vaccinated, the chance of airborne[r]
-infection is low. You guys..., did you have any contact with[r]
-them on your way here?"[pcms]
+[ns]壬[nse]
+「予防接種を受けていたのなら、空気感染の可能性は低い。[r]
+　お前ら……、ここに来るまでの間に、[r]
+　ヤツラとの接触はあったのか？」[pcms]
 
 *3653|
 [fc]
-[ns]Wataru[nse]
-"...I don't think we had any contact after we met up..., but[r]
-maybe something happened when we were escaping the academy,[r]
-if not then..."[pcms]
+[ns]航[nse]
+「……ボクと合流してからは、ないと思うけど……、[r]
+　もしかして、学園を脱出する時、何かあったのか、[r]
+　そうでなかったら……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3654|
 [fc]
-[ns]Kousuke[nse]
-"...That time..."[pcms]
+[ns]浩助[nse]
+「…………あの時だ……」[pcms]
 
 *3655|
 [fc]
-Kousuke muttered with a pale face drained of blood.[pcms]
+真っ青に血の気の引いた顔で、コースケが呟いた。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c10"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3656|
 [fc]
-[ns]Kousuke[nse]
-"Down in the basement, we were attacked by the boss, right?[r]
-And probably... Yuuho..."[pcms]
+[ns]浩助[nse]
+「地下で、親分さんに襲われたろ？[r]
+　それで、たぶん……悠帆は……」[pcms]
 
 *3657|
 [fc]
-[ns]Wataru[nse]
-"Ah...!"[pcms]
+[ns]航[nse]
+「あ…………！」[pcms]
 
 *3658|
 [fc]
-That time when Tadahiko, Maruko-senpai, and I went to get[r]
-rubber boots, and we were separated from Yuuho and the[r]
-others for just a moment![pcms]
+彦ちんやマル子先輩と、長靴を取りにいって、[r]
+ほんの一瞬だけ悠帆たちと離れていた、あの時のことか！[pcms]
 
 *3659|
 [fc]
-I thought we were safe after the commotion, but what if...[r]
-she had a small injury? If even a little bit of blood or[r]
-bodily fluid had entered her body...?[pcms]
+騒ぎの後で無事を確認したつもりだったけど、[r]
+もし……小さな怪我をしていたら？[r]
+少しでも血液や体液が身体に入ってしまっていたら……？[pcms]
 
 *3660|
 [fc]
-Certainly, if the infection came from an amount of blood or[r]
-bodily fluid that went unnoticed, it would make sense for[r]
-the symptoms to appear after this much time...[pcms]
+確かに、それと気付かない量の血液や体液からの感染なら、[r]
+発症までの時間が、このくらいというのも分かる……。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c12"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *3661|
 [fc]
-[ns]Kousuke[nse]
-"Damn it all! I was there with her at that time!! Wataru![r]
-I'm so sorry!!"[pcms]
+[ns]浩助[nse]
+「くっそぉぉぉぉ！[r]
+　あの時、俺が一緒にいたってのに！！[r]
+　ワタルっ！　すまねぇっ！！」[pcms]
 
 *3662|
 [fc]
-Kousuke hung his head as he punched his own hand in[r]
-frustration.[pcms]
+自分の手に拳を打ち付けて、コースケが項垂れる。[pcms]
 
 *3663|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *3664|
 [fc]
-It's not Kousuke's fault. I know that. But still...[pcms]
+コースケが悪いわけじゃない。それは分かってる。[r]
+だけど……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3665|
 [fc]
-[ns]Jin[nse]
-"..."[pcms]
+[ns]壬[nse]
+「…………」[pcms]
 
 *3666|
 [fc]
-Jin slowly stood up.[pcms]
+おもむろに壬さんが立ち上がった。[pcms]
 
 *3667|
 [fc]
-His expression was unchanged as usual, but he was holding a[r]
-gun in his hand.[pcms]
+表情はいつもと変わりはなかったけれど、[r]
+その手には銃が握られている。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b7"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3668|
 [fc]
 [vo_miz s="mizuki_B0004"]
-[ns]Mizuki[nse]
-"Jin!? What are you planning to do?"[pcms]
+[ns]瑞樹[nse]
+「ジンっ！？　どうする気？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h3"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3669|
 [fc]
-[ns]Jin[nse]
-"...If we're out of viable options, there's only one thing[r]
-left to do, isn't there?"[pcms]
+[ns]壬[nse]
+「……有効な手立てが尽きたのなら[r]
+　やれることはひとつしか、ないだろう？」[pcms]
 
 *3670|
 [fc]
-We understood without a direct answer. What Jin was about to[r]
-do...[pcms]
+直接の回答ではなかったけれど、ボクたちは悟った。[r]
+壬さんが……、何をしようとしているかを……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3671|
 [fc]
-[ns]Jin[nse]
-"If we leave her be, we'll all be in danger. Before she[r]
-starts targeting her friends with such despicable acts...,[r]
-while she's still calm..., it's better to put her at ease."[pcms]
+[ns]壬[nse]
+「放っておけば、俺たちまでヤバくなる。[r]
+　仲間を狙うような、浅ましいマネをしだす前に……、[r]
+　あの子がおとなしいうちに……、楽にしてやった方がいい」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *3672|
 [fc]
 [vo_miz s="mizuki_B0005"]
-[ns]Mizuki[nse]
-"You can't mean that!?"[pcms]
+[ns]瑞樹[nse]
+「そんなぁっ！？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3673|
 [fc]
-[ns]Jin[nse]
-"...Then, is there another way?"[pcms]
+[ns]壬[nse]
+「……なら、他に方法があるのか？」[pcms]
 
 *3674|
 [fc]
-Mizuki screamed out, but even she couldn't find words to[r]
-respond to Jin's question and fell silent.[pcms]
+悲鳴を上げた瑞樹も、壬さんの問いに返す言葉が見つからなくて[r]
+黙り込んでしまった。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *3675|
 [fc]
-[ns]Jin[nse]
-"...It must be tough for you guys since you know her. I'll[r]
-do it... is that okay?"[pcms]
+[ns]壬[nse]
+「……顔見知りのお前らには、きついだろ。[r]
+　俺がやる。…………それでいいな？」[pcms]
 
 ;//---------------------------------------------------------------
-;//●選択肢Ａ１
-;//１１：・・・僕がやります！→B_10010
-;//１２：・・・・・・　　　　→B_10020
+;//●選択肢Ａ－１
+;//１－１：・・・僕がやります！→B_10010
+;//１－２：・・・・・・　　　　→B_10020
 
 
 ;	[link storage="B_10010.ks" target=*B_10010_TOP]……ボクがやります！[endlink]
-; (link storage="B_10020.ks"[r]
-target=*B_10020_TOP)...(endlink)[pcms]
+;	[link storage="B_10020.ks" target=*B_10020_TOP]…………[endlink][s]
 
 *SEL62|……ボクがやります！／…………
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'I\'ll do it!'"]
+[eval exp="f.seltext02 = '……ボクがやります！'"]
 [eval exp="f.seltext04 = '…………'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]

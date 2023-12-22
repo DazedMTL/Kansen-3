@@ -2,7 +2,7 @@
 ;//@konya 11/13 BG貼付
 
 *BE10020_TOP
-;{SceneSet 最後の狂演共通ルート}
+;{SceneSet 最後の狂演～共通ルート}
 ;//--------------------------------------------------------------------
 ;//♂：背景リストに「ででっぽう」関連のものがありませんが、
 ;//シナリオの都合上、多数登場する場所ですので、あると仮定して貼っておきます。
@@ -19,92 +19,92 @@
 
 *149|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 *150|
 [fc]
-I don't understand the situation.[pcms]
+状況がよくわからない。[pcms]
 
 *151|
 [fc]
-Men who arrived in a truck are forcefully invading LASER.[pcms]
+トラックで乗り付けた男たちがＬＡＳＥＲ内に荒っぽく[r]
+侵入していく。[pcms]
 
 *152|
 [fc]
-The safe space we all worked together to create has been[r]
-easily torn apart.[pcms]
+せっかくみんなで協力して作った安全な空間が、[r]
+いとも簡単に引き裂かれてしまった。[pcms]
 
 *153|
 [fc]
-At this rate, we might not be able to prevent the infected[r]
-from entering.[pcms]
+あれじゃあもう、感染者たちの侵入を[r]
+防ぐことができないかもしれない。[pcms]
 
 *154|
 [fc]
-I don't know what those men want, but staying inside LASER[r]
-has lost its meaning.[pcms]
+男たちの目的はわからないけれど、[r]
+ＬＡＳＥＲ内にとどまる意味が薄くなってしまった。[pcms]
 
 *155|
 [fc]
-We were supposed to wait for help in this isolated safe[r]
-space.[pcms]
+隔離された安全な空間で助けを待つ。[pcms]
 
 *156|
 [fc]
-That was our strategy...[pcms]
+これこそがボクたちの作戦だったのに……。[pcms]
 
 *157|
 [fc]
-Can we repair the broken shutter?[pcms]
+壊されたシャッターを修理することができるだろうか。[pcms]
 
 *158|
 [fc]
-I can't check how much damage there is from here.[pcms]
+どの程度壊されているのか、ここからでは確認できない。[pcms]
 
 *159|
 [fc]
-If I discuss it with everyone, maybe we can come up with a[r]
-good idea...[pcms]
+みんなと相談すれば、なにかいいアイディアが[r]
+でるかも知れないけれど……。[pcms]
 
 *160|
 [fc]
-[ns]Wataru[nse]
-"No, that's not it!"[pcms]
+[ns]航[nse]
+「違う、そうじゃないっ」[pcms]
 
 *161|
 [fc]
-I found myself shaking my head involuntarily.[pcms]
+ボクは思わず頭を振っていた。[pcms]
 
 *162|
 [fc]
-Now is not the time to be thinking about that.[pcms]
+今はそんなことを考えているときじゃない。[pcms]
 
 *163|
 [fc]
-It's hard to believe that those armed men will approach us[r]
-in a friendly manner.[pcms]
+あの武装した男たちが、ボクたちに友好的な接触を[r]
+してくるなんて、到底思えないじゃないか。[pcms]
 
 *164|
 [fc]
-Everyone inside LASER is in danger.[pcms]
+ＬＡＳＥＲ内にいるみんなが危険だ。[pcms]
 
 *165|
 [fc]
-We have to do something quickly...[pcms]
+早くなんとかしないと……。[pcms]
 
 *166|
 [fc]
-Whether we run or fight, we have to return to LASER at any[r]
-cost.[pcms]
+逃げるにしても戦うにしても、とにかくＬＡＳＥＲに[r]
+戻らなくちゃ。[pcms]
 
 *167|
 [fc]
-There are important people left there.[pcms]
+あそこには、大事な人が残されているんだ。[pcms]
 
 *168|
 [fc]
-My precious people...[pcms]
+ボクの大切な人が……。[pcms]
 
 ;//jump：BE10040
 [jump storage="BE10040.ks" target=*BE10040_TOP]

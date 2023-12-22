@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・このブロックにフラグ設定。
 ;//〆BG：学園内廊下・階段付近
-;//▲２１：このままさらに上に！
+;//▲２－１：このままさらに上に！
 
 ;//〆♪：感染（revenge：継続中
 ;//[bgm storage="BGM10"]
@@ -16,15 +16,16 @@
 
 *65|
 [fc]
-Eeei! The music room is just above here. Let's cut straight[r]
-through.[pcms]
+えぇええいっ！[r]
+この上は音楽室なんだ。[r]
+このまま突っ切っていこう。[pcms]
 
 ;//〆BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *66|
 [fc]
-I steeled my resolve and ran straight up the stairs.[pcms]
+ボクは覚悟を決めるとまっすぐに階段を駆け上った。[pcms]
 
 ;//〆BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -32,114 +33,117 @@ I steeled my resolve and ran straight up the stairs.[pcms]
 
 *67|
 [fc]
-[ns]Wataru[nse]
-"Hii!"[pcms]
+[ns]航[nse]
+「ひっ！」[pcms]
 
 *68|
 [fc]
-The landing at the top was a veritable hellish scene.[pcms]
+あがりきった踊り場は、まさに地獄絵図だった。[pcms]
 
 *69|
 [fc]
 [vo_mob s="joshigaku10001"]
-[ns]Infected Female Student E[nse]
-"Nhaaann, yes, yes...!! My pussy feels so good."[pcms]
+[ns]感染者・女学生Ｅ[nse]
+「んはぁああんっ、いいっ、いい……！！[r]
+　おまんこいいのぉお」[pcms]
 
 *70|
 [fc]
 [vo_mob s="jogaku2_0001"]
-[ns]Infected Female Student F[nse]
-"Nfuuu, it's grinding inside my belly. Stirred by a[r]
-cock...ah, ah, ahhhaannn!"[pcms]
+[ns]感染者・女学生Ｆ[nse]
+「んふぅう、お腹の中、ゴリゴリ言ってるぅう。[r]
+　おちんちんにかき混ぜられて……あっ、あっ、[r]
+　あぁああんっ」[pcms]
 
 *71|
 [fc]
-[ns]Infected Man A[nse]
-"You like that? Is this the spot?"[pcms]
+[ns]感染者・男Ａ[nse]
+「いいのか？　ここがいいのか？」[pcms]
 
 *72|
 [fc]
 [vo_mob s="joshigaku10002"]
-[ns]Infected Female Student E[nse]
-"Kuuuu, I can't stand it. I can't stand it, the cock is[r]
-amazing!"[pcms]
+[ns]感染者・女学生Ｅ[nse]
+「くぅうううっ、たまらない。たまらないわぁあ。[r]
+　チンコ、サイコーッ！」[pcms]
 
 *73|
 [fc]
-[ns]Infected Man B[nse]
-"I'll thrust into you too."[pcms]
+[ns]感染者・男Ｂ[nse]
+「こっちも突いてやるぜ」[pcms]
 
 *74|
 [fc]
 [vo_mob s="jogaku2_0002"]
-[ns]Infected Female Student F[nse]
-"More...do it more fiercely. Nfuuu, my butt, a cock is[r]
-entering my ass too."[pcms]
+[ns]感染者・女学生Ｆ[nse]
+「もっと……もっと激しく。んふぅう、お尻、[r]
+　お尻の穴にもおちんちんが入ってくるぅう」[pcms]
 
 *75|
 [fc]
-Multiple men were swarming over each girl, gangbanging them,[r]
-while many girls were being violated by the men.[pcms]
+女の子一人に対してに男たちが複数群がるように[r]
+輪姦しながら、何人もの女の子が男たちに犯されていた。[pcms]
 
 *76|
 [fc]
-The intense play made me feel nauseous before anything else.[pcms]
+その激しいプレイは勃つよりも先に、吐き気さえ感じてくる。[pcms]
 
 *77|
 [fc]
-The voices of the girls I had heard on my way up, which had[r]
-been voices of rejection, had now turned into moans of[r]
-pleasure.[pcms]
+ボクがここへ上がってくるまでにあげていた[r]
+女の子たちの拒絶する声も、嬌声と化していた。[pcms]
 
 *78|
 [fc]
-Had they become "one of them"?[pcms]
+『仲間』に……なったんだろうか？[pcms]
 
 *79|
 [fc]
-Their eyes, like those of the men violating them, were[r]
-beginning to turn red.[pcms]
+彼女たちの目も彼女たちを犯している男たち同様に[r]
+赤く染まり始めている。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="waka_b"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *80|
 [fc]
 [vo_mob s="waka0018"]
-[ns]Waka[nse]
-"I-it feels good...kuuuu, more, more cocknnnn!!!"[pcms]
+[ns]和歌[nse]
+「い、いい……気持ち……くぅうう、もっと、[r]
+　もっとおちんちんんんん！！！」[pcms]
 
 *81|
 [fc]
-Startled by a familiar voice, I turned to see the choir girl[r]
-who was rumored to be talking about Mizuki... Was her name[r]
-Waka-chan?[pcms]
+聞き覚えのある声にハッとしてそちらを振り向くと、[r]
+確か瑞樹の噂話をしていた合唱部の子……[r]
+和歌ちゃんとか言ったか？[pcms]
 
 *82|
 [fc]
-She was straddling a man, vigorously shaking her hips.[pcms]
+彼女が一人の男の上にまたがって、盛んに腰を振っていた。[pcms]
 
 *83|
 [fc]
-[ns]Wataru[nse]
-"Waka...chan...?"[pcms]
+[ns]航[nse]
+「和歌……ちゃん……？」[pcms]
 
 [ChrSetEx layer=5 chbase="waka_c"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *84|
 [fc]
 [vo_mob s="waka0019"]
-[ns]Waka[nse]
-"Ahhaaann, put your cock in. In Waka's ass, thrust your cock[r]
-in and out."[pcms]
+[ns]和歌[nse]
+「あはぁあんっ、おちんちん、入れてぇ。[r]
+　和歌の、和歌のお尻に、おちんちん、ズボズボしてぇ」[pcms]
 
 *85|
 [fc]
-With her eyes completely red, Waka-chan lifted her skirt and[r]
-showed me the place where she was joined with the man.[pcms]
+完全に赤く染まった目をこちらに向けて、[r]
+和歌ちゃんはスカートをまくり上げるとボクに[r]
+男との結合部分を見せ付けた。[pcms]
 
 *86|
 [fc]
-Why?[pcms]
+なんで？[pcms]
 
 ;//チェック
 
@@ -147,68 +151,68 @@ Why?[pcms]
 
 *87|
 [fc]
-Waka-chan too... No, even Yoshino-san should have received[r]
-the vaccination. Why has it come to this?[pcms]
+和歌ちゃんだって……いや、吉野さんだって[r]
+みんなみんな予防接種を受けたはずなのに、[r]
+なんでこんなことになってるんだ？[pcms]
 
 *88|
 [fc]
-Questions swirled in my head, but they didn't seem to care[r]
-about me because they had partners to satisfy their desires[r]
-right there.[pcms]
+疑問は頭にわいたけれど、絡み合い、団子のように[r]
+繋がっている彼らがボクに構わないのは、[r]
+自分の欲望を満たす相手がそこにいるからだろう。[pcms]
 
 *89|
 [fc]
-Maybe I could use this chance to slip by them and get to the[r]
-music room.[pcms]
+もしかしたらこの隙に彼らの脇を通って[r]
+音楽室にいけるかもしれない。[pcms]
 
 *90|
 [fc]
-But there were too many people; even if I could slip past[r]
-one group, I'd immediately run into another.[pcms]
+けれど、人が多すぎてたとえ一団体の脇を[r]
+すり抜けられたとしても、すぐに別のにぶつかる。[pcms]
 
 *91|
 [fc]
-No, let's be honest.[pcms]
+いや、正直に言おう。[pcms]
 
 *92|
 [fc]
-I feel bad for the choir girls, but even if I wanted to[r]
-leave them behind and go ahead, the sight of the gangbang[r]
-was so abnormal that my legs wouldn't move.[pcms]
+合唱部の子たちには悪いけれど、彼女らを見捨てて[r]
+先に行こうにも、その輪姦光景があまりにも[r]
+異常すぎて、ボクの足は動かなかった。[pcms]
 
 *93|
 [fc]
-However, as my brain began to numb, that face came to mind--[r]
-I was worried about Ren's condition.[pcms]
+しかし、麻痺しかけたボクの脳に、あの顔が――[r]
+漣の様子が気にかかった。[pcms]
 
 *94|
 [fc]
-Could the music room have been breached just like here?[pcms]
+ここと同じように音楽室も破られてるんじゃないだろうか？[pcms]
 
 *95|
 [fc]
-Is Ren safe?[pcms]
+漣は無事なんだろうか？[pcms]
 
 *96|
 [fc]
-Even if she is safe... if I head to the music room now, can[r]
-I really meet Ren again without letting a single intruder[r]
-through?[pcms]
+無事だとしても……このまま音楽室へ向かって、[r]
+果たして一人の侵入も許さずに無事に漣と[r]
+再会する事ができるだろうか？[pcms]
 
 *97|
 [fc]
-I'm not confident.[pcms]
+自信がない。[pcms]
 
 *98|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry!!"[pcms]
+[ns]航[nse]
+「ごめん！！」[pcms]
 
 *99|
 [fc]
-I quickly apologized and ran back down the stairs. At this[r]
-point, I had no choice but to take a detour to the music[r]
-room.[pcms]
+ボクは口早に謝ると、再び階段を駆け下りた。[r]
+こうなったら回り道で音楽室へ向かうしかない。[pcms]
 
 ;//♯_ブラックアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -219,28 +223,28 @@ room.[pcms]
 
 *100|
 [fc]
-I turned back towards the second floor and started towards[r]
-the back staircase.[pcms]
+ボクは２階へ後戻りすると、[r]
+奥の階段に向かいかけた。[pcms]
 
 *101|
 [fc]
-Then--[pcms]
+すると――[pcms]
 
 *102|
 [fc]
-Someone emerged from the science room with a swaying motion.[pcms]
+ゆらりと科学室から誰かが出てくるのが見えた。[pcms]
 
 *103|
 [fc]
-Is that person infected?[pcms]
+あの動きは、感染者か？[pcms]
 
 ;//BG：黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *104|
 [fc]
-In a panic, I turned on my heel and ran back down the[r]
-stairs.[pcms]
+ボクは慌てて踵を返すと、[r]
+階段を再び駆け下りた。[pcms]
 
 ;//BG：学園内廊下・階段付近
 [bg storage="BG015"][trans_c cross time=500]
@@ -248,59 +252,57 @@ stairs.[pcms]
 
 *105|
 [fc]
-In the end, I ended up back where I started on the first[r]
-floor.[pcms]
+結局、１階の元の場所に戻ってしまった。[pcms]
 
 *106|
 [fc]
-I peeked down the hallway cautiously; maybe because I had[r]
-left the emergency exit open?[pcms]
+そっと廊下を覗いてみると、非常口を開けっ放しに[r]
+したままにしていたせいか？[pcms]
 
 *107|
 [fc]
-Or is there another entrance?[pcms]
+それとも別の入り口があるのか？[pcms]
 
 *108|
 [fc]
-Unlike before, I could see several people wandering around.[r]
-Probably those who came in from outside.[pcms]
+さっきとは違って何人かうろついているのが見える。[r]
+たぶん、外から入ってきたヤツラだろう。[pcms]
 
 *109|
 [fc]
-Should I cut straight through?[pcms]
+このまま突っ切るか？[pcms]
 
 *110|
 [fc]
-Or should I go outside once and then circle around to the[r]
-other side?[pcms]
+それとも一度外へ出て、それから向こう側に[r]
+回りこむか？[pcms]
 
 *111|
 [fc]
-What should I do?[pcms]
+どうしようか？[pcms]
 
 [eval exp="f.l_30040 = 1"]
 
 ;//---------------------------------------------------------------
-;//●時限式選択肢Ｃ５
-;//５１：もう他に道はない！廊下を突っ切る！;//→block30020へ
-;//５２：外から回り込もう！;//→外に出てすぐ横から感染者。B_B4
-;//５３：時間切れ：B_D6
+;//●時限式選択肢Ｃ－５
+;//５－１：もう他に道はない！廊下を突っ切る！;//→block30020へ
+;//５－２：外から回り込もう！;//→外に出てすぐ横から感染者。B_B4
+;//５－３：時間切れ：B_D6
 
 ;	[sysbt_meswin clear]
 ;
 ;	[link storage="30020.ks" target=*30020_TOP]もう他に道はない！　廊下を突っ切る！[endlink]
 ;	[link storage="B_B4.ks" target=*B_B4_TOP]外から回り込もう！[endlink]
 ;	;[link storage="B_D6.ks" target=*B_D6_TOP]時間切れ[endlink]
-;       (link storage="B_D6.ks" target=*B_D6_TOP)Which will[r]
-you choose...(endlink)[pcms]
+;	[link storage="B_D6.ks" target=*B_D6_TOP]どちらを選ぶか……[endlink][s]
 
 *SEL19|もう他に道はない！　廊下を突っ切る！／外から回り込もう！／どちらを選ぶか
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'There\'s no other way! We\'ll cut through the corridor!'"]
-[eval exp="f.seltext04 = 'Let\'s go around from the outside!'"]
-[eval exp="f.seltext06 = 'Which one to choose'"]
+[eval exp="f.seltext02 = 'もう他に道はない！　廊下を突っ切る！'"]
+[eval exp="f.seltext04 = '外から回り込もう！'"]
+[eval exp="f.seltext06 = 'どちらを選ぶか……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

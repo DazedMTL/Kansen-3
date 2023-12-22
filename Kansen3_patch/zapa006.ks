@@ -22,190 +22,195 @@
 *1552a|
 [fc]
 [vo_mob s="buinA0020"]
-[ns]Club Member A[nse]
-"What the heck is this? I don't get it at all!"[pcms]
+[ns]部員Ａ[nse]
+「なによこれ、わけわかんないよぉ！」[pcms]
 
 *1552|
 [fc]
 [vo_yuh s="yuho0365"]
-[ns]Yuuho[nse]
-"What is this... What on earth is this!?"[pcms]
+[ns]悠帆[nse]
+「何なの……これはなんなの！？」[pcms]
 
 *1553|
 [fc]
 [vo_mob s="buinA0021"]
-[ns]Club Member A[nse]
-"Who are those people? What is all of this!?"[pcms]
+[ns]部員Ａ[nse]
+「あの人たちはなんなの？[r]
+　これってなんなの！？」[pcms]
 
 *1554|
 [fc]
 [vo_yuh s="yuho0366"]
-[ns]Yuuho[nse]
-"I don't know, I just don't know..."[pcms]
+[ns]悠帆[nse]
+「わかんない、わかんないよぉ」[pcms]
 
 *1555|
 [fc]
-The only thing that was certain now was that danger was[r]
-imminent.[pcms]
+今確実にわかるのは、危険が迫っているという[r]
+ことだけだった。[pcms]
 
 *1556|
 [fc]
-Ominous figures were attacking the students, and those who[r]
-were attacked were driven by fear to flee. That was all that[r]
-was clear at the moment.[pcms]
+不気味な人影が、学生達を襲い、襲われた人達が[r]
+恐怖に駆り立てられて逃げている。[r]
+今わかるのそれだけだ。[pcms]
 
 *1557|
 [fc]
 [vo_mob s="buinA0022"]
-[ns]Club Member A[nse]
-"We have to run... we have to escape no matter what..."[pcms]
+[ns]部員Ａ[nse]
+「逃げよう……とにかく逃げないと……」[pcms]
 
 *1558|
 [fc]
-My friend let out a scream-like cry and began to frantically[r]
-run up the stairs to the table tennis space in the gym[r]
-changing room.[pcms]
+友人は悲鳴に近い声をあげると、半狂乱で[r]
+体育館更衣室の卓球台スペースの階段を[r]
+駆け上り始めた。[pcms]
 
 *1559|
 [fc]
 [vo_yuh s="yuho0367"]
-[ns]Yuuho[nse]
-"Wait, wait for me too..."[pcms]
+[ns]悠帆[nse]
+「ま、待って……わたしも……」[pcms]
 
 *1560|
 [fc]
-Thinking it was dangerous to stay here, I followed her up[r]
-the stairs.[pcms]
+ここにいたら危険だと考えたわたしは、[r]
+彼女の後に続いて階段を駆け上がっていった。[pcms]
 
 *1561|
 [fc]
-The eerie people who had flooded in from the school gates[r]
-were not from our school.[pcms]
+校門からなだれ込んできた不気味な人達は、[r]
+学園の人間ではなかった。[pcms]
 
 *1562|
 [fc]
-All of them were dressed in tattered clothes, and their[r]
-bodies were abnormally dirty with mud and such.[pcms]
+どれもボロボロの衣服をまとい、身体は異様なまでに[r]
+ドロなどで汚れていた。[pcms]
 
 *1563|
 [fc]
-[ns]Student A[nse]
-"Get out of our school, you bastard!"[pcms]
+[ns]学生Ａ[nse]
+「このやろう、学園から出て行け！！」[pcms]
 
 *1564|
 [fc]
-[ns]Student B[nse]
-"Don't come any closer!"[pcms]
+[ns]学生Ｂ[nse]
+「そばに寄るんじゃねぇ！！」[pcms]
 
 *1565|
 [fc]
-[ns]Student C[nse]
-"You bastard, you bastard, die, just die!!"[pcms]
+[ns]学生Ｃ[nse]
+「このやろ、このやろ、死ね、死んじまえ！！」[pcms]
 
 *1566|
 [fc]
-A few male students were trying to drive them away by[r]
-hitting and pushing them, but it seemed to have no effect,[r]
-and they ended up being counterattacked.[pcms]
+男子学生の数名が殴りかかり、突き飛ばしたりして[r]
+追い払おうとしていたけど、まったくダメージが[r]
+ないのか、反撃されてしまう。[pcms]
 
 *1567|
 [fc]
-[ns]Student C[nse]
-"It's no use, these guys aren't normal!"[pcms]
+[ns]学生Ｃ[nse]
+「だめだ、こいつら普通じゃない！」[pcms]
 
 [赤フラ]
 
 *1568|
 [fc]
-[ns]Student A[nse]
-"Ouch, ouch, ouch, it bit me!"[pcms]
+[ns]学生Ａ[nse]
+「いててて、噛みついてきやがった」[pcms]
 
 *1569|
 [fc]
-In no time, they were bitten on their arms and legs, and[r]
-some even had teeth sunk into their necks. Blood splattered[r]
-everywhere as shouts and screams intermingled.[pcms]
+たちまち腕や足に噛みつかれ、ひどい人は首にまで[r]
+歯を突きたてられていた。[r]
+血飛沫が飛び散り、怒号と悲鳴が交錯する。[pcms]
 
 [赤フラ]
 
 *1570|
 [fc]
-[ns]Student B[nse]
-"Aaaaargh!!"[pcms]
+[ns]学生Ｂ[nse]
+「ぎいやぁぁぁぁぁ！！」[pcms]
 
 *1571|
 [fc]
-Many students were fleeing into the table tennis space[r]
-behind me.[pcms]
+わたしの後にもたくさんの学生達が卓球台の[r]
+スペースへと逃げ込んでくる。[pcms]
 
 *1572|
 [fc]
-The ominous shadows followed them, climbing up in a crawling[r]
-manner.[pcms]
+不気味な影もそれを追うようにして、[r]
+這うような恰好でよじ登ってきた。[pcms]
 
 *1573|
 [fc]
-Looking down at the scene from above, I was consumed by a[r]
-fear that made my spine tremble.[pcms]
+わたしはその光景を上から見て、背筋が震える程の[r]
+恐怖に飲まれた。[pcms]
 
 *1574|
 [fc]
 [vo_yuh s="yuho0368"]
-[ns]Yuuho[nse]
-"I have to escape... I must escape..."[pcms]
+[ns]悠帆[nse]
+「逃げなきゃ……逃げなきゃ……」[pcms]
 
 *1575|
 [fc]
-As if haunted by a nightmare, I repeated the words to myself[r]
-in a daze as I hurriedly followed my friend.[pcms]
+悪夢にうなされて、うわ言を繰り返しているかのように[r]
+しながら、わたしは慌てて友人の後を追った。[pcms]
 
 *1576|
 [fc]
-If we stayed here, our lives could be in danger. That[r]
-thought made me restless; I couldn't stand still.[pcms]
+この場にいたら命の危険すらある。[r]
+そんな気がして、わたしはいても立っても[r]
+いられなかった。[pcms]
 
 *1577|
 [fc]
-I ran up the stairs frantically. This must be the first time[r]
-in my life I've run with such feelings.[pcms]
+夢中になって階段を駆け上がっていく。[r]
+こんな気持ちで走るのは、きっと生まれて初めての[r]
+ことだ。[pcms]
 
 *1578|
 [fc]
-My friend, who had started climbing the stairs before me,[r]
-quickly reached the top and put her hand on the doorknob.[pcms]
+わたしよりも一足早く階段を上り始めていた友人は[r]
+あっというまに最上部へと辿り着くと、[r]
+ドアノブに手をかけた。[pcms]
 
 *1579|
 [fc]
-My friend reached the physical education instructor's office[r]
-and swiftly opened the door to jump inside. And I[r]
-followed...[pcms]
+体育教官室へと辿り着いた友人は素早く扉を開けて[r]
+中へと飛び込んで行く。[r]
+それに続いてわたしも……。[pcms]
 
 *1580|
 [fc]
-Just when I thought that, my eyes met with my friend who had[r]
-poked her head out of the instructor's office.[pcms]
+と思った時、教官室から顔を出した友人と[r]
+視線が交錯した。[pcms]
 
 *1581|
 [fc]
-Yet, despite that, she... With an expression clouded by[r]
-fear, she grabbed the door and without hesitation closed it.[pcms]
+なのに、なのに彼女は……。[r]
+恐怖に濁った表情を浮かべながら、こともあろうに[r]
+ドアを掴むと迷うことなく閉めてしまった。[pcms]
 
 [se buf=0 storage="se015"]
 
 *1582|
 [fc]
-The merciless sound of the metal door scraping echoed as the[r]
-door to the physical education instructor's office closed in[r]
-front of me, and only the sound of it locking resonated in[r]
-my ears.[pcms]
+鉄扉の無情な摩擦音が響いて、わたしの目の前で[r]
+体育教官室の扉は閉じられ、施錠する無機質な[r]
+金属音だけが耳に飛び込んできた。[pcms]
 
 [se buf=0 storage="se042"]
 
 *1582a|
 [fc]
 [vo_yuh s="yuho0369"]
-[ns]Yuuho[nse]
-"Why, why... Open it, let me in too!!"[pcms]
+[ns]悠帆[nse]
+「どうして、どうして……あけてよ、[r]
+　わたしもいれてよ！！」[pcms]
 
 [se buf=0 storage="se043"]
 [wait time=300]
@@ -215,85 +220,91 @@ my ears.[pcms]
 
 *1583|
 [fc]
-I banged on the metal door desperately and screamed, but[r]
-there was no reply from my friend.[pcms]
+必死になって鉄扉を叩いて叫んだけど、[r]
+友だちの返事はかえってこない。[pcms]
 
 *1584|
 [fc]
-Was I abandoned? Was I left behind? Confused by my friend's[r]
-sudden betrayal... But there was no time for such thoughts.[pcms]
+見捨てられた？　わたしは見捨てられたの？[r]
+突然の友人の裏切りに困惑して……。[r]
+でもそんな猶予すらなかった。[pcms]
 
 *1585|
 [fc]
-The ominous figures were closing in behind me. Their[r]
-movements were slow but they were steadily approaching me.[pcms]
+うしろには不気味な人影が迫っている。[r]
+動きこそ緩慢だけど、確実にわたしの方へと[r]
+迫っている。[pcms]
 
 *1586|
 [fc]
-I thought she was a friend. I believed she was a companion[r]
-to escape with.[pcms]
+友だちだと思っていた。一緒に逃げる仲間だと[r]
+信じていた。[pcms]
 
 *1587|
 [fc]
-A friend with whom I had worked hard together in club[r]
-activities... But such trust crumbled all too easily.[pcms]
+一緒に部活を頑張って来た友だち……。[r]
+だけど、そんな信頼はいともたやすく崩れた。[pcms]
 
 *1588|
 [fc]
-Was the relationship I had nurtured every day merely an[r]
-illusion supported by peaceful days?[pcms]
+わたしが日々育んできた人間関係なんて[r]
+しょせんは平和な日々に支えられた[r]
+幻想だったのだろうか。[pcms]
 
 *1589|
 [fc]
-[ns]Infected Man C[nse]
-"Woman... ooooh woman aaaaahhh!"[pcms]
+[ns]感染者・男Ｃ[nse]
+「女ぁぁぁ、おぉぉぉんなぅぁぁぁああっ」[pcms]
 
 *1590|
 [fc]
-The groaning of the approaching eerie figures forcibly[r]
-pulled me back to reality as I was overwhelmed by shock.[pcms]
+迫ってくる不気味な連中のうめき声が、[r]
+ショックに打ちひしがれているわたしを[r]
+強引に現実へと引き戻した。[pcms]
 
 *1591|
 [fc]
 [vo_yuh s="yuho0370"]
-[ns]Yuuho[nse]
-"I have to escape... I must escape at all costs..."[pcms]
+[ns]悠帆[nse]
+「逃げなきゃ……とにかく逃げなきゃ……」[pcms]
 
 *1592|
 [fc]
-It's sad and frustrating, but there's no time to dwell on it[r]
-now.[pcms]
+悲しいけど、悔しいけど、それをくよくよと[r]
+考えている時間はない。[pcms]
 
 *1593|
 [fc]
-I can grieve and feel resentful later, after escaping from[r]
-this looming crisis.[pcms]
+悲しむのも、悔しがるのも、すべてはこの[r]
+迫りくる危機から脱出してから[r]
+ゆっくりとすればいい。[pcms]
 
 *1594|
 [fc]
-Right now, all I can think about is escaping... But the way[r]
-back is already filled with ominous figures covering the[r]
-table tennis space.[pcms]
+今は逃げることだけ考えよう……。[r]
+だけど来た道は戻ろうにも、既に卓球台スペースは[r]
+不気味な人影に埋め尽くされている。[pcms]
 
 *1595|
 [fc]
-The preyed-upon students were being stripped and bitten; a[r]
-horrific scene unfolded.[pcms]
+餌食になった学生達が脱がされたりかじられたり、[r]
+惨状が繰り広げられていた。[pcms]
 
 *1596|
 [fc]
-Some are walking towards me on the catwalk.[pcms]
+キャットウォークをこちらに向かって[r]
+歩いてくるのもいる。[pcms]
 
 *1597|
 [fc]
 [vo_yuh s="yuho0371"]
-[ns]Yuuho[nse]
-"What should I do..."[pcms]
+[ns]悠帆[nse]
+「どうしよう……」[pcms]
 
 *1598|
 [fc]
-The escape routes are severely limited. I need to think of[r]
-something...[pcms]
+逃げ道はかなり限られている状態だ。[r]
+なにか策を考えないと……。[pcms]
 
 ;//--------------------------------------------------------------------
 ;//●時限式選択肢
@@ -306,16 +317,15 @@ something...[pcms]
 ;	[link storage="zapA007.ks" target=*zapA007_TOP]フロアに飛び降りる！[endlink]
 ;	[link storage="zapA008.ks" target=*zapA008_TOP]外に飛び降りる！[endlink]
 ;	;[link storage="zapA009.ks" target=*zapA009_TOP]時間切れ[endlink]
-;       (link storage="zapA009.ks" target=*zapA009_TOP)Both[r]
-ways seem dangerous...(endlink)[pcms]
+;	[link storage="zapA009.ks" target=*zapA009_TOP]どっちも危なそう……[endlink][s]
 
 *SEL88|フロアに飛び降りる！／外に飛び降りる！／どっちも危なそう……
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Jump down to the floor!'"]
-[eval exp="f.seltext04 = 'Jump outside!'"]
-[eval exp="f.seltext06 = 'Both ways seem dangerous'"]
+[eval exp="f.seltext02 = 'フロアに飛び降りる！'"]
+[eval exp="f.seltext04 = '外に飛び降りる！'"]
+[eval exp="f.seltext06 = 'どっちも危なそう……'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

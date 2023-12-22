@@ -23,90 +23,91 @@
 
 *1761|
 [fc]
-As I was about to pass in front of the physical education[r]
-staff room, I heard a loud bang from inside.[pcms]
+体育教員室前を通り抜けようとしたとき、[r]
+中からガタンと音が聞こえた。[pcms]
 
 *1762|
 [fc]
-I flinched and looked over to see a familiar-looking female[r]
-student crouching and trembling behind the half-open door.[pcms]
+ビクッとしてそちらを見ると、半開きの扉から見覚えの[r]
+あるような気がする女子学生がうずくまって[r]
+ガタガタ震えてるのが見える。[pcms]
 
 *1763|
 [fc]
-[ns]Wataru[nse]
-"...An infected person? Or not?"[pcms]
+[ns]航[nse]
+「……感染者？　じゃないのか」[pcms]
 
 *1764|
 [fc]
-As if reacting to the words I muttered to myself, she lifted[r]
-her face.[pcms]
+思わずボクが呟いた言葉に反応するように、[r]
+彼女は顔を上げる。[pcms]
 
 *1765|
 [fc]
-That's right. This face belongs to a girl from the same swim[r]
-club as Yuuho.[pcms]
+そうだ。[r]
+この顔は、悠帆と同じ水泳部の子だ。[pcms]
 
 *1766|
 [fc]
 [vo_mob s="buinA0005"]
-[ns]Club Member A[nse]
-"Ah, Ayase-kun!? Hey, what happened? Everyone's gone crazy,[r]
-and I... I"[pcms]
+[ns]部員Ａ[nse]
+「あっ、綾瀬君！？　ねぇ、何が、何があったの？[r]
+　みんなおかしくなっちゃって、私……私」[pcms]
 
 *1767|
 [fc]
-[ns]Wataru[nse]
-"I understand. I understand, so calm down."[pcms]
+[ns]航[nse]
+「わかってる。わかってるから、落ち着いて」[pcms]
 
 *1768|
 [fc]
 [vo_mob s="buinA0006"]
-[ns]Club Member A[nse]
-"Hey, what happened? Everyone's gone crazy, and I'm... I'm[r]
-scared... scared..."[pcms]
+[ns]部員Ａ[nse]
+「ねぇ、何が、何があったの？　みんなおかしくなって、[r]
+　私、私怖くて……怖くて……」[pcms]
 
 *1769|
 [fc]
-Seeing me and the senior, she became increasingly panicked[r]
-with her own words.[pcms]
+ボクと先輩の姿を見た彼女は自分の言葉にどんどん[r]
+恐慌状態になっていった。[pcms]
 
 *1770|
 [fc]
-No matter how much I tried to calm her down, she wouldn't[r]
-listen anymore.[pcms]
+ボクが落ち着かせようと声をかけても[r]
+もう聞く耳持たない。[pcms]
 
 *1771|
 [fc]
 [vo_mob s="buinA0007"]
-[ns]Club Member A[nse]
-"No! I didn't abandon anyone. I didn't abandon them. There[r]
-was no other way. There was no other way!"[pcms]
+[ns]部員Ａ[nse]
+「違うっ！　私は見捨ててない。見捨ててない。[r]
+　仕方なかったの。仕方なかったのよぉっ！！」[pcms]
 
 *1772|
 [fc]
-[ns]Wataru[nse]
-"Wait! Just, wait!!"[pcms]
+[ns]航[nse]
+「ちょっ！　ま、待ってっ！！」[pcms]
 
 *1773|
 [fc]
-Without giving me a chance to stop her, she slipped past me[r]
-and ran towards the emergency stairs.[pcms]
+ボクが止める隙さえもなく、彼女はボクの脇を[r]
+すり抜けて非常階段のほうへと駆け出していく。[pcms]
 
 *1774|
 [fc]
-[ns]Wataru[nse]
-"Wait. It's dangerous outside!"[pcms]
+[ns]航[nse]
+「待って。外は危ないっ！」[pcms]
 
 *1775|
 [fc]
 [vo_mob s="buinA0008"]
-[ns]Club Member A[nse]
-"Noooooo!!"[pcms]
+[ns]部員Ａ[nse]
+「いやぁああああああああっ！！」[pcms]
 
 *1776|
 [fc]
-There was nothing more we could do for the girl who had[r]
-dashed out of the emergency staircase into the outside.[pcms]
+非常階段から外へと飛び出した彼女にボクらができるのは、[r]
+もう何もなかった。[pcms]
 
 ;//---------------------------------------------------------------
 
@@ -115,132 +116,127 @@ dashed out of the emergency staircase into the outside.[pcms]
 *1777|
 [fc]
 [vo_mar s="maru0224"]
-[ns]Margarita[nse]
-"It can't be helped. Those with weak hearts suddenly awaken[r]
-to a sense of guilt once they think the danger to their[r]
-lives is over, even if they made choices out of necessity to[r]
-survive."[pcms]
+[ns]マルガリータ[nse]
+「仕方があるまい。心が弱い者は、自分が生き残るのに[r]
+　精一杯で選択したことでも、命の危険がなくなったと思うと[r]
+　罪の意識に急に目覚めるものだ」[pcms]
 
 *1778|
 [fc]
-Murmuring so softly, the senior entered the staff room.[pcms]
+ボソリとそう呟くと、先輩は教員室に入っていった。[pcms]
 
 *1779|
 [fc]
-[ns]Wataru[nse]
-"Is that how it is? But, what are you looking for?"[pcms]
+[ns]航[nse]
+「そういうものなんですか？　って、何を探してるんです？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1780|
 [fc]
 [vo_mar s="maru0225"]
-[ns]Margarita[nse]
-"There are 'them' inside the gymnasium. It would be foolish[r]
-to go in unarmed, right?"[pcms]
+[ns]マルガリータ[nse]
+「体育館の中にはヤツラがいるんだ。[r]
+　素手で行くのも馬鹿らしいだろう？」[pcms]
 
 *1781|
 [fc]
-Immediately opening a locker, the senior found several[r]
-wooden swords and bamboo swords that seemed to belong to the[r]
-kendo club advisor, and finally opened a cleaning equipment[r]
-closet and found a mop.[pcms]
+早速ロッカーを開けて、先輩は剣道部顧問の教師の持ち物らしい[r]
+木刀や竹刀をいくつか見つけると、[r]
+最期に掃除用具入れを開けてモップを見出した。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1782|
 [fc]
 [vo_mar s="maru0226"]
-[ns]Margarita[nse]
-"This is good."[pcms]
+[ns]マルガリータ[nse]
+「これはいい」[pcms]
 
 *1783|
 [fc]
-The senior's face looked somewhat pleased as she efficiently[r]
-detached the wooden handle from the mop like before. Indeed,[r]
-when we used a mop inside the school building, she did say[r]
-something about preferring wooden handles...[pcms]
+手際よくさっきみたいに木の柄のモップを外す先輩の顔は[r]
+どこか嬉しげだ。確かに校舎の中でモップを使ったときは、[r]
+木の柄がいいとか言ってたけど……。[pcms]
 
 *1784|
 [fc]
-[ns]Wataru[nse]
-"Senior, there are wooden swords here from the teachers, why[r]
-choose a mop?"[pcms]
+[ns]航[nse]
+「先輩、ここには先生の木刀もあるのに、[r]
+　なんでモップなんです？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1785|
 [fc]
 [vo_mar s="maru0227"]
-[ns]Margarita[nse]
-"If we're talking about durability alone, wooden swords[r]
-would indeed be better. Wasn't the kendo club advisor[r]
-skilled in ancient swordsmanship? They're good wooden swords[r]
-made of loquat."[pcms]
+[ns]マルガリータ[nse]
+「丈夫さだけで言ったら確かに木刀のほうがいいな。[r]
+　確か剣道部の顧問は古流剣術を修めていたのか？[r]
+　[ruby text="び　わ"][ch text="枇杷"]のいい木刀だ」[pcms]
 
 *1786|
 [fc]
-[ns]Wataru[nse]
-"Loquat, as in the fruit? And ancient swordsmanship?"[pcms]
+[ns]航[nse]
+「びわって、果物の？　それに古流？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1787|
 [fc]
 [vo_mar s="maru0228"]
-[ns]Margarita[nse]
-"Loquat wood is resilient and makes for good wooden swords.[r]
-And by ancient swordsmanship, I mean traditional styles like[r]
-Yagyu Shinkage-ryu or Hokushin Itto-ryu. You've heard of[r]
-them before, haven't you?"[pcms]
+[ns]マルガリータ[nse]
+「[ruby text="び　わ"][ch text="枇杷"]の木は粘りがあって、いい木刀になるんだぞ。[r]
+　それから古流は昔ながらの剣術のことだ。柳生心影流や、[r]
+　北辰一刀流くらいは聞いた事はあるだろ？」[pcms]
 
 *1788|
 [fc]
-[ns]Wataru[nse]
-"Ah, yes. I've heard of them in period dramas."[pcms]
+[ns]航[nse]
+「あぁ、はい。それなら時代劇とかで[r]
+　聞いたことがあります」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1789|
 [fc]
 [vo_mar s="maru0229"]
-[ns]Margarita[nse]
-"In modern kendo, they mostly use bamboo swords and hardly[r]
-ever practice with wooden swords."[pcms]
+[ns]マルガリータ[nse]
+「今の剣道では、竹刀ばかりで木刀は殆ど[r]
+　稽古には使わんからな」[pcms]
 
 *1790|
 [fc]
-[ns]Wataru[nse]
-"Is that so? But if there are wooden swords available as[r]
-weapons, why go for a mop again? Well, it could be[r]
-considered a weapon, I guess."[pcms]
+[ns]航[nse]
+「そうなんですか。でも武器の木刀があるのに、[r]
+　なぜまたモップなんです？　そりゃまあ、[r]
+　武器らしいと言えば武器らしいですけど」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1791|
 [fc]
 [vo_mar s="maru0230"]
-[ns]Margarita[nse]
-"There isn't enough space on the catwalk to swing around a[r]
-long sword wooden sword. Therefore, a mop with its reach[r]
-advantage is better for thrusting."[pcms]
+[ns]マルガリータ[nse]
+「小太刀ならともかく、太刀の木刀を振り回すほどの幅は、[r]
+　キャットウォークにはないからな。[r]
+　ならば突きでリーチのあるモップのほうがマシだ」[pcms]
 
 *1792|
 [fc]
-[ns]Wataru[nse]
-"I see..."[pcms]
+[ns]航[nse]
+「なるほど……」[pcms]
 
 *1793|
 [fc]
-I felt somewhat enlightened yet confused at the same time,[r]
-but anyway, it was clear that for now, a mop handle was more[r]
-advantageous than a wooden sword.[pcms]
+わけがわかったようなわからないような気分だけれど、[r]
+ともかくモップの柄のほうが木刀よりも、[r]
+今は有利なのがわかった。[pcms]
 
 *1794|
 [fc]
-I quickly followed the senior's example and took out a mop[r]
-from the cleaning equipment closet and began disassembling[r]
-it.[pcms]
+ボクも先輩に習って素早く掃除用具入れの中から[r]
+モップを取り出すと、先と柄の分解作業に移った。[pcms]
 
 ;//---------------------------------------------------------------
 
@@ -249,31 +245,33 @@ it.[pcms]
 *1795|
 [fc]
 [vo_mar s="maru0231"]
-[ns]Margarita[nse]
-"We need to secure an escape route. Stay here and keep an[r]
-eye on the emergency exit. I'll go to her."[pcms]
+[ns]マルガリータ[nse]
+「逃げ道の確保が必要だな。[r]
+　お前はここにいて非常口を見張っていてくれ。[r]
+　彼女の所へはワタシが行こう」[pcms]
 
 *1796|
 [fc]
 [vo_mob s="buinA0009"]
-[ns]Club Member A[nse]
-"Kyaaaaaa!!"[pcms]
+[ns]部員Ａ[nse]
+「きゃあああああっ！！」[pcms]
 
 *1797|
 [fc]
-Just as I finished my task and turned around, I heard the[r]
-scream of the girl who had just left through the emergency[r]
-exit.[pcms]
+作業が終わったボクを振り返って、先輩がそう言ったとき、[r]
+非常口のほうからさっき出て行ったばかりの女の子の悲鳴が[r]
+聞こえた。[pcms]
 
 *1798|
 [fc]
-It seems 'they' are already close by. What should I do?[pcms]
+ヤツラはもうすぐそこにまで迫っているらしい。[r]
+どうしよう。[pcms]
 
 *1799|
 [fc]
-Even if it's unrequited love, saving Yuuho might be my duty.[r]
-But leaving it to the senior might increase our chances of[r]
-survival.[pcms]
+片思いとは言え、愛する悠帆を助けるのはボクの[r]
+義務かもしれない。[r]
+でも助かる確率は先輩に任せたほうがいい。[pcms]
 
 ;//---------------------------------------------------------------
 ;//●選択肢
@@ -282,15 +280,14 @@ survival.[pcms]
 
 
 ;	[link storage="30210.ks" target=*30210_TOP]ここは先輩に任せよう……[endlink]
-;       (link storage="30220.ks" target=*30220_TOP)I'll[r]
-go!!(endlink)[pcms]
+;	[link storage="30220.ks" target=*30220_TOP]ボクが行きます！！[endlink][s]
 
 *SEL25|ここは先輩に任せよう……／ボクが行きます！！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'I\'ll leave this to my senior'"]
-[eval exp="f.seltext04 = 'I\'ll go!!'"]
+[eval exp="f.seltext02 = 'ここは先輩に任せよう……'"]
+[eval exp="f.seltext04 = 'ボクが行きます！！'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

@@ -7,7 +7,7 @@
 ;//・場所：ＬＡＳＥＲ　５Ｆ＆７Ｆ
 ;//・視点：主人公一人称
 ;//・登場人物:主人公・浩助・マルガリータ・漣・ジン・重吉
-;//・時間帯：５日目（８月１９日）夕方
+;//・時間帯：５日目（８月１９日）夕方～
 ;//---------------------------------------------------------------
 ;//block:B003
 ;//●ごめん・・・
@@ -16,94 +16,93 @@
 
 *6198|
 [fc]
-[ns]Wataru[nse]
-"Sorry... Yuuho..."[pcms]
+[ns]航[nse]
+「ごめん……悠帆……」[pcms]
 
 *6199|
 [fc]
-I find myself apologizing again.[pcms]
+ボクは再び謝罪の言葉を口にしてしまう。[pcms]
 
 *6200|
 [fc]
-The previous "sorry" was for the clumsy kiss, but this[r]
-time... it's different...[pcms]
+さっきのはヘタクソなキスのお詫びだったけど。[r]
+今度の『ごめん』は……違う……。[pcms]
 
 *6201|
 [fc]
-Somehow, I feel like I've hurt Yuuho by prioritizing my own[r]
-desires in such a moment...[pcms]
+なんだか、こんな機会に乗じて自分の欲望を優先させて……、[r]
+悠帆を傷つけてしまったような気がしたから……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6202|
 [fc]
 [vo_yuh s="yuho_T0030"]
-[ns]Yuuho[nse]
-"...What is that...?"[pcms]
+[ns]悠帆[nse]
+「…………なに、それ……」[pcms]
 ;//＠静かに怒りをこめて
 
 *6203|
 [fc]
-A quiet voice echoed.[pcms]
+静かな声が響いた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6204|
 [fc]
 [vo_yuh s="yuho_T0031"]
-[ns]Yuuho[nse]
-"...Why... Why are you apologizing...!"[pcms]
+[ns]悠帆[nse]
+「……なんで……なんで謝るのよ……！」[pcms]
 
 *6205|
 [fc]
-[ns]Wataru[nse]
-"...Yu, Yuuho...?"[pcms]
+[ns]航[nse]
+「……ゆう、ほ……？」[pcms]
 
 *6206|
 [fc]
-Surprised by the quiet anger in her voice, I look at her[r]
-face.[pcms]
+声に含まれた静かな怒気に驚いて、顔を見る。[pcms]
 
 *6207|
 [fc]
-Yuuho, with tears in her eyes, glares at me and roughly[r]
-yanks off her earphones.[pcms]
+悠帆は涙を浮かべたまま、ボクを睨みつけ、[r]
+乱暴な手つきでイヤホンをむしりとった。[pcms]
 
 *6208|
 [fc]
-Huh...? Yuuho... is she angry...? Not about the kiss, but[r]
-because I apologized...?[pcms]
+あれ……？[r]
+悠帆……なんか、怒って……る……？[r]
+キスしたことじゃなくて、謝ったことを……？[pcms]
 
 *6209|
 [fc]
-[ns]Wataru[nse]
-"Wh-why, well... there's no deep meaning, but, ah, it's not[r]
-like I haven't thought about it, just..."[pcms]
+[ns]航[nse]
+「な、なんでって、その……、[r]
+　深い意味はないんだけど、あ、でも、[r]
+　考えてないわけじゃなくて、その……」[pcms]
 
 *6210|
 [fc]
-In my confusion, I open my mouth feeling I have to say[r]
-something.[pcms]
+混乱したボクは、何か言わなくちゃと口を開いた。[pcms]
 
 *6211|
 [fc]
-[ns]Wataru[nse]
-"Yu, Yuuho is going through a tough time right now, or[r]
-rather, ah... of course, it's tough for everyone, but[r]
-just..."[pcms]
+[ns]航[nse]
+「ゆ、悠帆が今、大変な時なのに、っていうか、[r]
+　あ……も、もちろん大変なのは、[r]
+　みんな同じなんだけど、ただ……」[pcms]
 
 *6212|
 [fc]
-[ns]Wataru[nse]
-"In Yuuho's case... losing family and loved ones... Ah,[r]
-family is, well, still unknown, but, um, people like Oshima-[r]
-senpai too..."[pcms]
+[ns]航[nse]
+「悠帆の場合は……家族とか、大切な人を亡くして……[r]
+　あ、家族は、ま、まだ分からないけど、[r]
+　ええと、その……大嶋先輩とかも……」[pcms]
 
 *6213|
 [fc]
-Ah, this is no good. I'm stumbling over my words with zero[r]
-persuasiveness... I can't even understand what I'm saying[r]
-anymore...[pcms]
+ああ、ダメだ。しどろもどろで説得力ゼロで……[r]
+もはや自分でも何を言ってるのか、さっぱりだ……。[pcms]
 
 ;//---------------------------------------------------------------
 ;//★ここから先は、Ｔ３００５０でも使います。流用部分です
@@ -113,43 +112,44 @@ anymore...[pcms]
 *6214|
 [fc]
 [vo_yuh s="yuho_T0032"]
-[ns]Yuuho[nse]
-"Oshima-senpai? Why are you bringing up the senpai here?"[pcms]
+[ns]悠帆[nse]
+「大嶋先輩？　なんでそこで先輩が出てくるの？」[pcms]
 
 *6215|
 [fc]
-Yuuho's eyes look at me suspiciously.[pcms]
+悠帆の目が不審そうにボクを見る。[pcms]
 
 *6216|
 [fc]
-[ns]Wataru[nse]
-"Eh? Because... weren't you two dating?"[pcms]
+[ns]航[nse]
+「え？　だって……付き合ってたんでしょ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6217|
 [fc]
 [vo_yuh s="yuho_T0033"]
-[ns]Yuuho[nse]
-"Who was?"[pcms]
+[ns]悠帆[nse]
+「誰が？」[pcms]
 
 *6218|
 [fc]
-[ns]Wataru[nse]
-"You were..."[pcms]
+[ns]航[nse]
+「悠帆が……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6219|
 [fc]
 [vo_yuh s="yuho_T0034"]
-[ns]Yuuho[nse]
-"Me and the senpai?? Why would you think that...?"[pcms]
+[ns]悠帆[nse]
+「わたしと、先輩？？[r]
+　なんで、そんなこと……？」[pcms]
 
 *6220|
 [fc]
-Yuuho looks utterly bewildered. She seems genuinely[r]
-confused.[pcms]
+悠帆は目を丸くしている。[r]
+何故だか、本気で戸惑っているようだった。[pcms]
 
 ;//---------------------------------------------------------------
 ;//▲フラグ判定
@@ -166,108 +166,108 @@ confused.[pcms]
 
 *6221|
 [fc]
-[ns]Wataru[nse]
-"Because, that... eh? Huh? Was I wrong...?"[pcms]
+[ns]航[nse]
+「だって、その……、え？[r]
+　あれ？　ち、違ったの……？」[pcms]
 
 *6222|
 [fc]
-Being so surprised has made even me lose track of what's[r]
-going on.[pcms]
+あまりにも驚かれてしまって、[r]
+何が何だかボクまで訳が分からなくなる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6223|
 [fc]
 [vo_yuh s="yuho_T0035"]
-[ns]Yuuho[nse]
-"I don't know what you're misunderstanding but making such a[r]
-mess and accusing me is the worst! I hate that about you,[r]
-Wataru!"[pcms]
+[ns]悠帆[nse]
+「何勘違いしてるか知らないけど[r]
+　ぐじゃぐじゃ言いがかりつけるのって、サイテーっ！[r]
+　わたし、航のそーゆーとこ、きらいっ！」[pcms]
 
 *6224|
 [fc]
-Clearly annoyed, Yuuho sternly snaps at me while glaring.[pcms]
+明らかにムッとした悠帆は[r]
+ボクを厳しく睨みながらきっぱりと言い放つ。[pcms]
 
 *6225|
 [fc]
-[ns]Wataru[nse]
-"If I misunderstood, then I apologize, sorry, Yuuho!"[pcms]
+[ns]航[nse]
+「ご、誤解してたんなら、謝るよ、ごめん、悠帆っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6226|
 [fc]
 [vo_yuh s="yuho_T0036"]
-[ns]Yuuho[nse]
-"Enough! Bye then!"[pcms]
+[ns]悠帆[nse]
+「もういいっ！　じゃあね！」[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *6227|
 [fc]
-With an angry face, Yuuho turns her back on me and walks[r]
-away...[pcms]
+怒った顔のまま、悠帆はボクに背を向け、[r]
+そのまま立ち去ってしまった……。[pcms]
 
 *6228|
 [fc]
-[ns]Wataru[nse]
-"...Eh?????"[pcms]
+[ns]航[nse]
+「…………え？？？？？」[pcms]
 
 *6229|
 [fc]
-Wh-what? Wasn't Yuuho dating the senpai...?[pcms]
+ど……どうして？[r]
+悠帆、先輩と付き合ってたんじゃなかった……？[pcms]
 
 *6230|
 [fc]
-[ns]Wataru[nse]
-"...Ugh..."[pcms]
+[ns]航[nse]
+「……うわ…………」[pcms]
 
 *6231|
 [fc]
-So then, all this time I've been... misunderstanding?[pcms]
+それじゃ、今までボク、ずっと……、勘違いしてたのか……？[pcms]
 
 *6232|
 [fc]
-If it's true that there was nothing between her and the[r]
-senpai...[pcms]
+ホントに先輩とは何でもないんだとしたら……。[pcms]
 
 *6233|
 [fc]
-If it was all just my imagination, getting jealous and[r]
-worried and gloomy and in the end accusing Yuuho of[r]
-something...[pcms]
+思い込みだけで、うじうじして嫉妬して悩んで暗くなって[r]
+挙句の果てに、悠帆に言いがかりまでつけたんだとしたら……？[pcms]
 
 *6234|
 [fc]
-Just as Yuuho said... I'm the worst...[pcms]
+悠帆の言うとおり……、ボクはサイテーだ…………。[pcms]
 
 *6235|
 [fc]
-[ns]Wataru[nse]
-"What should I do..."[pcms]
+[ns]航[nse]
+「ど……どうしよう……」[pcms]
 
 *6236|
 [fc]
-I hang my head dejectedly, scratching my head in[r]
-frustration.[pcms]
+がっくりと項垂れ、頭を掻きむしる。[pcms]
 
 ;//se003・携帯の着信音
 [se buf=0 storage="se003" loop=true]
 
 *6237|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *6238|
 [fc]
-The phone rings at the worst possible time. I don't feel[r]
-like talking to anyone right now...[pcms]
+最悪のタイミングで電話が鳴った。[r]
+こんな気分じゃ、誰とも話したく、ないよ……。[pcms]
 
 *6239|
 [fc]
-The phone keeps ringing persistently. When I check it, it's[r]
-a call from Kousuke's number.[pcms]
+電話はしつこく鳴り続けている。[r]
+手に取ってみるとコースケの番号からのコールだった。[pcms]
 
 ;//★下記４行、Ｔ３００１０からのコピーです。
 
@@ -276,28 +276,29 @@ a call from Kousuke's number.[pcms]
 
 *6240|
 [fc]
-[ns]Wataru[nse]
-"...Hello? Kousuke?"[pcms]
+[ns]航[nse]
+「……もしもし？　コースケ？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *6241|
 [fc]
 [vo_miz s="mizuki_T0030"]
-[ns]Mizuki[nse]
-"Wataru!!! Where are you???"[pcms]
+[ns]瑞樹[nse]
+「ワタルっ！！！　どこにいるの？？」[pcms]
 
 *6242|
 [fc]
-Mizuki's panicked scream from the phone hits my ears.[pcms]
+電話機から流れ出た、慌てふためく瑞樹の悲鳴が耳を打つ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *6243|
 [fc]
 [vo_miz s="mizuki_T0031"]
-[ns]Mizuki[nse]
-"The TV, the TV! It's terrible!! Come quickly!!"[pcms]
+[ns]瑞樹[nse]
+「て、テレビが、テレビがっ！　大変だよ！！[r]
+　とにかく来てっ！！」[pcms]
 
 ;//→T60030
 [jump storage="T60030.ks" target=*T60030_TOP]
@@ -308,203 +309,207 @@ Mizuki's panicked scream from the phone hits my ears.[pcms]
 
 *6244|
 [fc]
-[ns]Wataru[nse]
-"But... I saw it."[pcms]
+[ns]航[nse]
+「だって……ボク、見ちゃったんだ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6245|
 [fc]
 [vo_yuh s="yuho_T0037"]
-[ns]Yuuho[nse]
-"Saw...?"[pcms]
+[ns]悠帆[nse]
+「見た……？」[pcms]
 
 *6246|
 [fc]
-[ns]Wataru[nse]
-"On the night of the festival, behind the shrine with the[r]
-senpai..."[pcms]
+[ns]航[nse]
+「祭りの夜、神社の裏で、先輩と……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h10"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6247|
 [fc]
 [vo_yuh s="yuho_T0038"]
-[ns]Yuuho[nse]
-"...!"[pcms]
+[ns]悠帆[nse]
+「…………っ！」[pcms]
 ;//＠顔色がかわる。「見てたのかよ、こいつ！」
 
 *6248|
 [fc]
-Yuuho's complexion suddenly turned pale.[pcms]
+悠帆の顔色がさっと青褪めた。[pcms]
 
 *6249|
 [fc]
-...As I thought... that wasn't a mistake. She remembers[r]
-it...[pcms]
+……やっぱり……あれは見間違いなんかじゃなかった。[r]
+身に覚えがあるんだ……。[pcms]
 
 *6250|
 [fc]
-[ns]Wataru[nse]
-"You were kissing, weren't you?"[pcms]
+[ns]航[nse]
+「キス…………してたでしょ？」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6251|
 [fc]
-As a final blow, Yuuho finally looked down.[pcms]
+とどめの追い討ちに、とうとう悠帆は顔を伏せてしまった。[pcms]
 
 *6252|
 [fc]
-So... it wasn't a mistake after all...[pcms]
+そうか……見間違いじゃなかったんだ……。[pcms]
 
 *6253|
 [fc]
-"No way, he was just removing some dust from my eye," I had[r]
-hoped she would say something cheerful like that, even if[r]
-just a little...[pcms]
+『やだな、目に入ったゴミを取ってもらっただけだよ』[r]
+なんて明るく言い返してくれることを、[r]
+ほんの……少しだけ期待してたけど……。[pcms]
 
 *6254|
 [fc]
-But such things you see in comics, they don't happen, do[r]
-they...[pcms]
+そんな漫画みたいなこと、あるわけ、ないか……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h6"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6255|
 [fc]
 [vo_yuh s="yuho_T0039"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「……………………」[pcms]
 ;//＠怒りをおさえきれない
 
 *6256|
 [fc]
-With her head still down, Yuuho took a quiet breath. Then, a[r]
-suppressed voice followed.[pcms]
+うつむいたまま、悠帆が静かに息を吸う。[r]
+続けて押し殺したような声が、聞こえてきた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6257|
 [fc]
 [vo_yuh s="yuho_T0040"]
-[ns]Yuuho[nse]
-"...You saw it... Wataru, you saw it..."[pcms]
+[ns]悠帆[nse]
+「…………見てたんだ……。[r]
+　航、見てたんだ…………」[pcms]
 
 *6258|
 [fc]
-I thought, 'Ah.'[pcms]
+あっ、と思った。[pcms]
 
 *6259|
 [fc]
-[ns]Wataru[nse]
-"I'm sorry! I didn't mean to peek, but, you know, that...!"[pcms]
+[ns]航[nse]
+「ごっ、ごめん！[r]
+　の、覗くつもりじゃなかったんだけど、[r]
+　なんていうか、その……っ！」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h11"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6260|
 [fc]
 [vo_yuh s="yuho_T0041"]
-[ns]Yuuho[nse]
-"That's not it!"[pcms]
+[ns]悠帆[nse]
+「そんなんじゃない！」[pcms]
 ;//＠怒り
 
 *6261|
 [fc]
-My excuses were sharply cut off.[pcms]
+ぴしゃりと、ボクの言いわけが遮られる。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h16"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6262|
 [fc]
 [vo_yuh s="yuho_T0042"]
-[ns]Yuuho[nse]
-"That's not it...!"[pcms]
+[ns]悠帆[nse]
+「そんなんじゃ……っ！」[pcms]
 ;//＠怒りよりも悲しさがこみあげてくる
 
 *6263|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho?"[pcms]
+[ns]航[nse]
+「…………悠帆？」[pcms]
 
 *6264|
 [fc]
-What is it...? Something seems off... Yuuho seems more than[r]
-angry, this is...[pcms]
+何だろう……？[r]
+なにか様子が変だ……。[r]
+悠帆は怒っているというよりも、これは……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h9"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *6265|
 [fc]
 [vo_yuh s="yuho_T0043"]
-[ns]Yuuho[nse]
-"...If you saw it, why didn't you help me!!"[pcms]
+[ns]悠帆[nse]
+「…………見てたなら、[r]
+　どうして助けてくれなかったのよっ！！」[pcms]
 ;//＠泣いている
 
 *6266|
 [fc]
-Yuuho suddenly raised her face and shouted at me.[pcms]
+悠帆がバッと顔を上げ、ボクに叫んだ。[pcms]
 
 *6267|
 [fc]
-Her face was twisted in frustration... and on her cheeks[r]
-shone large teardrops...[pcms]
+その顔は悔しそうに歪んでいて……、[r]
+その頬には、大粒の涙が光っていて……。[pcms]
 
 *6268|
 [fc]
-[ns]Wataru[nse]
-"Yu, Yuuho!?"[pcms]
+[ns]航[nse]
+「ゆ、悠帆！？」[pcms]
 
 *6269|
 [fc]
-In my panic, I instinctively reached out my hand, but Yuuho[r]
-turned and ran away.[pcms]
+慌てて思わず手を差し出したボクの目の前で、[r]
+悠帆は身を翻して駆け去ってしまう。[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 
 *6270|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆…………」[pcms]
 
 *6271|
 [fc]
-She was crying... Yuuho was crying...[pcms]
+泣いてた……。[r]
+悠帆が泣いてた……。[pcms]
 
 *6272|
 [fc]
-I made Yuuho cry...[pcms]
+ボクが悠帆を泣かせてしまった…………。[pcms]
 
 *6273|
 [fc]
-I'm the worst...[pcms]
+ボクはサイテーだ…………。[pcms]
 
 *6274|
 [fc]
-[ns]Wataru[nse]
-"...Yuuho... I'm sorry, Yuuho..."[pcms]
+[ns]航[nse]
+「……悠帆……ごめん、悠帆…………」[pcms]
 
 *6275|
 [fc]
-Hanging my head in dejection, I clawed at my head.[pcms]
+がっくりと項垂れ、頭を掻きむしる。[pcms]
 
 ;//se003・携帯の着信音
 [se buf=0 storage="se003" loop=true]
 
 *6276|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「………………」[pcms]
 
 *6277|
 [fc]
-The phone rings at the worst possible time. I don't feel[r]
-like talking to anyone right now...[pcms]
+最悪のタイミングで電話が鳴った。[r]
+こんな気分じゃ、誰とも話したく、ないよ……。[pcms]
 
 *6278|
 [fc]
-The phone keeps ringing persistently. When I check it, it's[r]
-a call from Kousuke's number.[pcms]
+電話はまだしつこく鳴り続けている。[r]
+手に取ってみるとコースケの番号からのコールだった。[pcms]
 
 ;//★下記４行、Ｔ３００１０からのコピーです
 
@@ -513,28 +518,29 @@ a call from Kousuke's number.[pcms]
 
 *6279|
 [fc]
-[ns]Wataru[nse]
-"...Hello? Kousuke?"[pcms]
+[ns]航[nse]
+「……もしもし？　コースケ？」[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *6280|
 [fc]
 [vo_miz s="mizuki_T0030"]
-[ns]Mizuki[nse]
-"Wataru!!! Where are you???"[pcms]
+[ns]瑞樹[nse]
+「ワタルっ！！！　どこにいるの？？」[pcms]
 
 *6281|
 [fc]
-Mizuki's panicked scream from the phone hits my ears.[pcms]
+電話機から流れ出た、慌てふためく瑞樹の悲鳴が耳を打つ。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="mizu_e4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *6282|
 [fc]
 [vo_miz s="mizuki_T0031"]
-[ns]Mizuki[nse]
-"The TV, the TV! It's terrible!! Come quickly!!"[pcms]
+[ns]瑞樹[nse]
+「て、テレビが、テレビがっ！　大変だよ！！[r]
+　とにかく来てっ！！」[pcms]
 
 [eval exp="f.l_kenka = 1"]
 

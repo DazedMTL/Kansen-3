@@ -18,20 +18,19 @@
 
 *4440|
 [fc]
-I compared the corridor and the emergency exit. Thankfully,[r]
-it seems like there are no new infected on the other side of[r]
-the door.[pcms]
+ボクは廊下と非常口の向こう側を見比べた。[r]
+幸いまだ新手の感染者は扉の向こう側にいないみたいだ。[pcms]
 
 *4441|
 [fc]
-Alright, it looks safer to circle around from outside than[r]
-to sprint down this corridor where they are.[pcms]
+よし、アイツらがいるこの廊下を突っ走るよりも、[r]
+外から回り込んだほうが安全そうだ。[pcms]
 
 *4442|
 [fc]
-After all, trying to head straight for the music room has[r]
-led me back to where I started. It's like they say, more[r]
-haste less speed.[pcms]
+結局一直線に音楽室に向かおうとして元に[r]
+戻ってきたことだし、[r]
+急がば回れってことなんだろう、これは。[pcms]
 
 ;//BG：神南学園全景
 [bg storage="BG07a"][trans_c cross time=500]
@@ -39,79 +38,78 @@ haste less speed.[pcms]
 
 *4443|
 [fc]
-Slipping through a door that was left ajar by the wind, I[r]
-dashed outside the school building.[pcms]
+閉め忘れていたせいで風に揺れているドアを[r]
+すり抜けるようにして、[r]
+ボクは校舎の外へと飛び出した。[pcms]
 
 *4444|
 [fc]
-But--[pcms]
+でも――[pcms]
 
 *4445|
 [fc]
-[ns]Wataru[nse]
-Eh?[pcms]
+[ns]航[nse]
+「えっ？」[pcms]
 
 *4446|
 [fc]
-A woman's arm stretched out from behind the door and grabbed[r]
-my arm.[pcms]
+ドアの影からニョキッと伸びた女の腕が[r]
+ボクの腕を掴んだ。[pcms]
 
 *4447|
 [fc]
-An infected had been lurking in the shadow of the door left[r]
-open.[pcms]
+開けっ放しの扉の影に感染者が潜んでいた。[pcms]
 
 [ChrSetEx layer=5 chbase="kansen_b"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4448|
 [fc]
 [vo_mob s="onna0004"]
-[ns]Infected Woman A[nse]
-Kyahaha! Let's do something pleasurable, something very[r]
-pleasurable.[pcms]
+[ns]感染者・女Ａ[nse]
+「きゃはははっ。気持ちいいこと、[r]
+　気持ちいいことしよぉ」[pcms]
 
 *4449|
 [fc]
-[ns]Wataru[nse]
-Uwaaaaahhh!![pcms]
+[ns]航[nse]
+「うわぁあああっ！！」[pcms]
 
 *4450|
 [fc]
-I screamed loudly as I tried to shake off her arm.[pcms]
+ボクは大声を上げながらその腕を振り解こうとした。[pcms]
 
 *4451|
 [fc]
-But the hand gripping my arm was unnaturally strong for a[r]
-woman, and her long nails dug painfully into my skin.[pcms]
+けれどボクの腕を掴む手は女性の力とは[r]
+思えないほど力が強くて、長い爪が[r]
+ギリギリとボクの皮膚に食い込む。[pcms]
 
 *4452|
 [fc]
-[ns]Infected Man A[nse]
-You smell so tasty...[pcms]
+[ns]感染者・男Ａ[nse]
+「うまそうな匂いがするな……」[pcms]
 
 *4453|
 [fc]
 [vo_mob s="onna0005"]
-[ns]Infected Woman A[nse]
-If you're not going to do pleasurable things... then let's[r]
-eat you up.[pcms]
+[ns]感染者・女Ａ[nse]
+「気持ちいいことしないのなら……食べちゃおう」[pcms]
 
 *4454|
 [fc]
-Perhaps alerted by my scream, more infected began to[r]
-approach us in droves.[pcms]
+ボクがあげた声に気がついたのか、[r]
+ぞくぞくとこちらに向かって感染者がやってくる。[pcms]
 
 *4455|
 [fc]
-And it seemed like the smell of blood had stimulated another[r]
-kind of desire in the woman.[pcms]
+そして血の匂いが女の別の欲を刺激したみたいだ。[pcms]
 
 *4456|
 [fc]
-A grinning face was the last thing I saw in this world's[r]
-light.[pcms]
+ニヤリと笑う顔がボクの最期に見た[r]
+この世の光景だった。[pcms]
 
 ;//ゲームオーバー
 [gameover movie="gameover.mpg"]
-(returntitle)[pcms]
+[returntitle][s]
 

@@ -5,7 +5,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：;//〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）朝
+;//・時間：５日目（８月１９日）朝～
 ;//・登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：
@@ -47,76 +47,76 @@
 *1|
 [fc]
 [vo_yuh s="yuho_T0001"]
-[ns]Yuuho[nse]
-"Alright everyone, good work! Lunch is a special vegetable[r]
-stir-fry!"[pcms]
+[ns]悠帆[nse]
+「は～い、みんな、おつかれさーん！[r]
+　お昼は特製野菜炒めだよ～！」[pcms]
 
 ;//〆昼食カットイン
 
 *2|
 [fc]
-The lunch menu consisted of rice, miso soup, meat and[r]
-vegetable stir-fry, salad, and tamagoyaki.[pcms]
+昼食のメニューは、ご飯に味噌汁をはじめとして[r]
+肉野菜炒めとサラダ、卵焼きという内容だ。[pcms]
 
 *3|
 [fc]
-It seems that Yuuho and Ren were eager to cook since they[r]
-got their hands on fresh vegetables and eggs.[pcms]
+鮮度のいい野菜や卵が手に入ったので、[r]
+悠帆と漣が張り切って作ってくれたらしい。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *4|
 [fc]
-[ns]Kousuke[nse]
-"Whoa, the special meat and vegetable stir-fry from Kannagi-[r]
-ken! I really love this stuff!"[pcms]
+[ns]浩助[nse]
+「うぉぉっ、かんなぎ軒の特製肉野菜炒め！[r]
+　オレ、好きなんだよなぁっ！」[pcms]
 
 *5|
 [fc]
-I wonder about Jin-san, who is a vegetarian...?[pcms]
+そういえばベジタリアンの壬さんは……？[pcms]
 
 *6|
 [fc]
-Looking over, I saw that in front of Jin-san was a plate of[r]
-vegetable stir-fry without the meat.[pcms]
+見ると壬さんの前には、[r]
+ちゃんと肉抜きの野菜炒めの皿が置いてあった。[pcms]
 
 *7|
 [fc]
-The special meat and vegetable stir-fry from Kannagi-ken has[r]
-a great crunchy texture from the vegetables soaked in meat[r]
-juices; it's one of my favorite dishes too...[pcms]
+かんなぎ軒の特製肉野菜炒めは、[r]
+肉汁の絡んだ野菜のシャキシャキ感がサイコーで、[r]
+ボクも好きなメニューのひとつだけど……。[pcms]
 
 *8|
 [fc]
-I wonder if it's still good without the meat...?[pcms]
+肉抜きでも美味しいのかな……？[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *9|
 [fc]
-[ns]Jin[nse]
-"...Delicious? The balance of spicy miso and oil is perfect.[r]
-The salad is also good. It was worth the effort."[pcms]
+[ns]壬[nse]
+「……旨いぞ？　辛味噌と油の具合が絶妙だ。[r]
+　それに、サラダの方もいける。[r]
+　働いたかいがあったというものだ」[pcms]
 
 *10|
 [fc]
-Explaining to me who was watching, Jin-san continued to eat[r]
-quietly.[pcms]
+見ていたボクに解説して、壬さんはもくもくと箸を動かす。[pcms]
 
 *11|
 [fc]
-Of course... a portion for Senior Maruko is prepared at the[r]
-table too, but as usual, she's nowhere to be seenprobably[r]
-still asleep.[pcms]
+もちろん……テーブルには[r]
+マル子先輩の分も用意されているんだけど、[r]
+相変わらず寝ているのか、姿がない。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *12|
 [fc]
 [vo_miz s="mizuki_MK0001"]
-[ns]Mizuki[nse]
-"...Marie-san... hasn't woken up yet? Is she really feeling[r]
-that bad?"[pcms]
+[ns]瑞樹[nse]
+「……マリーさん……、まだ起きてこないね？[r]
+　よっぽど具合悪いのかな？」[pcms]
 
 ;//★下記１ワード、７００００の流用です
 
@@ -125,72 +125,71 @@ that bad?"[pcms]
 *13|
 [fc]
 [vo_yuh s="yuho_RK0002"]
-[ns]Yuuho[nse]
-"It's definitely a bit worrying..."[pcms]
+[ns]悠帆[nse]
+「さすがにちょっと、心配だよね……」[pcms]
 
 *14|
 [fc]
-[ns]Wataru[nse]
-"Yeah. I'll bring her some medicine later."[pcms]
+[ns]航[nse]
+「うん。後で薬を持っていってみるよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c8"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *15|
 [fc]
-[ns]Kousuke[nse]
-"...Eh? She switched sides?"[pcms]
+[ns]浩助[nse]
+「…………え？　乗り換えた？？」[pcms]
 
 *16|
 [fc]
-[ns]Wataru[nse]
-"Wha...!???"[pcms]
+[ns]航[nse]
+「なっ……！？？？」[pcms]
 
 *17|
 [fc]
-The serious atmosphere turned chaotic in an instant.[pcms]
+深刻な雰囲気が一瞬でわやくちゃだ。[pcms]
 
 *18|
 [fc]
-[ns]Wataru[nse]
-"No, it's not like that! Because... Senior is practically my[r]
-lifesaver!"[pcms]
+[ns]航[nse]
+「そ、そんなんじゃないよ！[r]
+　だって……先輩は命の恩人も同然だから！」[pcms]
 
 *19|
 [fc]
-While realizing my face was turning red, I insisted on my[r]
-point.[pcms]
+顔が赤くなってるのを自覚しながらも、言いつのる。[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *20|
 [fc]
 [vo_ren s="ren_MK0001"]
-[ns]Ren[nse]
-"That's right. If it weren't for Senior Maruko, we probably[r]
-wouldn't have been able to meet Tadahiko, nor come here..."[pcms]
+[ns]漣[nse]
+「そうだよね、マル子先輩がいなかったら[r]
+　たぶん、彦ちんにも会えなくて、[r]
+　ここにも来られなかったし……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *21|
 [fc]
 [vo_yuh s="yuho_MK0001"]
-[ns]Yuuho[nse]
-"Yeah. Then we might not have been able to meet Mizuki[r]
-either."[pcms]
+[ns]悠帆[nse]
+「うん。そうしたら瑞樹とも[r]
+　会えなかったかもしれないんだよね」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b6"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *22|
 [fc]
 [vo_miz s="mizuki_MK0002"]
-[ns]Mizuki[nse]
-"Ah, that would be troublesome. She definitely is a[r]
-lifesaver."[pcms]
+[ns]瑞樹[nse]
+「あ～、それは困る。確かに恩人だね」[pcms]
 
 *23|
 [fc]
-Despite our worries, the meal was delicious... We finished[r]
-lunch in a harmonious mood.[pcms]
+心配しながらも食事は美味しくて……。[r]
+ボクたちは和やかに昼食を済ませた。[pcms]
 
 ;//〆ＤＪバー　メインドーム　朝・昼
 [bg storage="BG019a"][trans_c cross time=500]
@@ -198,47 +197,47 @@ lunch in a harmonious mood.[pcms]
 
 *24|
 [fc]
-[ns]Wataru[nse]
-"Well then..."[pcms]
+[ns]航[nse]
+「さて……と」[pcms]
 
 *25|
 [fc]
-Now that we've finished eating, let's go check on Senior[r]
-Maruko.[pcms]
+食事も済んだし、マル子先輩のところに行ってみよう。[pcms]
 
 *26|
 [fc]
-Last night we talked and I saw an unexpected side of her[r]
-because of the mysterious blue marble; I'm finally starting[r]
-to feel closer to her.[pcms]
+昨夜二人で話したり、[r]
+不思議な青いビー玉のことで意外な一面を見たりして、[r]
+ようやく先輩を身近に感じられるようになっている。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *27|
 [fc]
 [vo_yuh s="yuho_MK0002"]
-[ns]Yuuho[nse]
-"Shall we go too?"[pcms]
+[ns]悠帆[nse]
+「わたしたちも、行こうか？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f4"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *28|
 [fc]
 [vo_ren s="ren_MK0002"]
-[ns]Ren[nse]
-"Maybe we can help with nursing or something?"[pcms]
+[ns]漣[nse]
+「少しは看病とか、手伝えるよ？」[pcms]
 
 *29|
 [fc]
-[ns]Wataru[nse]
-"I wonder? If too many of us show up at once, Senior might[r]
-get tired. I'll go alone first and see how she's doing."[pcms]
+[ns]航[nse]
+「どうかなあ？　あんまり大勢で押しかけても、[r]
+　先輩、疲れちゃうかもしれないし。[r]
+　最初はボクだけで、様子を見てくるよ」[pcms]
 
 *30|
 [fc]
-To tell the truth, I also felt a little desire to have[r]
-Senior Maruko all to myself. Maybe we could have a nice[r]
-atmosphere like last night...[pcms]
+本当のことを言うと、ちょっとだけ[r]
+マル子先輩を独り占めしたいっていう気持ちもあった。[r]
+昨夜みたいな、いい雰囲気になれるかもしれないし……。[pcms]
 
 ;//★ここから先しばらく、ブロック70000.txt　より流用
 
@@ -246,90 +245,88 @@ atmosphere like last night...[pcms]
 
 *31|
 [fc]
-[ns]Kousuke[nse]
-"Then, I guess I'll check out the second floor. Gotta check[r]
-out any good equipment while I'm at it..."[pcms]
+[ns]浩助[nse]
+「んじゃ、オレは２Ｆの様子、見てくっかな。[r]
+　この際、目ぼしい機材はチェックしとかねーと……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *32|
 [fc]
 [vo_miz s="mizuki_RK0002"]
-[ns]Mizuki[nse]
-"I'll join you, Kousuke."[pcms]
+[ns]瑞樹[nse]
+「あたしも付き合うよ、コースケ」[pcms]
 
 *33|
 [fc]
-Considering he's been throwing tantrums about 'Tengudou!'[r]
-since day one, he probably won't come back for a while once[r]
-he goes...[pcms]
+初日からさんざん「天狗堂！」ってダダをこねていただけに[r]
+きっと行ったらしばらく帰って来ないだろうな……。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *34|
 [fc]
-[ns]Jin[nse]
-"...I'll take a look around the fourth floor."[pcms]
+[ns]壬[nse]
+「……俺は４Ｆを回ってくる」[pcms]
 
 *35|
 [fc]
-The fourth floor is home to the large analog record shop[r]
-'Recomani'.[pcms]
+４Ｆといえば大型アナログ・レコードショップ「レコマニ」だ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *36|
 [fc]
-[ns]Kousuke[nse]
-"Huh? You're interested in music too?"[pcms]
+[ns]浩助[nse]
+「あれ？　アンタも音楽、興味あんの？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *37|
 [fc]
-[ns]Jin[nse]
-"That's not my main purpose."[pcms]
+[ns]壬[nse]
+「それ目当てではないが」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *38|
 [fc]
 [vo_miz s="mizuki_RK0003"]
-[ns]Mizuki[nse]
-"Jin likes movies and dramas quite a bit, right?"[pcms]
+[ns]瑞樹[nse]
+「ジンはねー、けっこう映画とかドラマ、好きなんだよね？」[pcms]
 
 *39|
 [fc]
-Indeed, 'Recomani' mainly sells analog records but they also[r]
-sell CDs and DVDs.[pcms]
+確かに「レコマニ」はアナログレコードがメインだけど[r]
+ＣＤやＤＶＤの販売もしてたっけ。[pcms]
 
 [ChrSetEx layer=5 chbase="shige_b4"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *40|
 [fc]
-[ns]Shigeyoshi[nse]
-"...I'll pass. I'm completely worn out from being bossed[r]
-around all day. Now that I've eaten, let me sleep."[pcms]
+[ns]重吉[nse]
+「……俺様はパスだ。[r]
+　さんざんコキ使われて、ヘトヘトだァ。[r]
+　メシも喰ったことだし、とりあえず、寝かせろ」[pcms]
 
 *41|
 [fc]
-Despite saying he's going to sleep, Shigeyoshi leaves for[r]
-the VIP room laden with bottles of liquor, snacks,[r]
-magazines, and more. Even after eating so much lunch, is his[r]
-stomach still empty...?[pcms]
+寝るという割には洋酒のボトルだのつまみだの雑誌だのと、[r]
+しこたま物を抱えて、重吉はＶＩＰルームへ消えていく。[r]
+あれだけ昼ご飯を食べたのに、まだ胃袋空いてるのか……。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *42|
 [fc]
 [vo_yuh s="yuho_RK0003"]
-[ns]Yuuho[nse]
-"I think I'll head to 'Staybucks'. I want a latte, so I need[r]
-to learn how to make one..."[pcms]
+[ns]悠帆[nse]
+「あたしは『ステイバックス』にしようかな。[r]
+　ラテ飲みたいから、作り方覚えないと……」[pcms]
 
 *43|
 [fc]
-Which means Yuuho is heading to the B1 floor...[pcms]
+ということは悠帆が向かうのはＢ１フロアで……。[pcms]
 
 ;//★下記１ワードのみ、ブロック60000.txt　より流用
 
@@ -338,41 +335,41 @@ Which means Yuuho is heading to the B1 floor...[pcms]
 *44|
 [fc]
 [vo_ren s="ren_YK0003"]
-[ns]Ren[nse]
-"Then, I guess I'll go to 'Manga Darake'."[pcms]
+[ns]漣[nse]
+「じゃあ、私は……『マンガダラケ』に行こうかな」[pcms]
 
 *45|
 [fc]
-It seems Ren will be browsing manga on B2F.[pcms]
+漣はＢ２Ｆで漫画を物色するらしい。[pcms]
 
 *46|
 [fc]
-[ns]Wataru[nse]
-"So we're all splitting up then."[pcms]
+[ns]航[nse]
+「それじゃ、みんなバラバラだね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *47|
 [fc]
-[ns]Kousuke[nse]
-"Let's just meet up somewhere later."[pcms]
+[ns]浩助[nse]
+「後でテキトーに合流しよーぜ」[pcms]
 
 *48|
 [fc]
-I decided to bring some nutritional supplements and mineral[r]
-water for Senior.[pcms]
+ボクは先輩のために栄養剤とミネラルウォーターを[r]
+持っていくことにした。[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *49|
 [fc]
-[ns]Kousuke[nse]
-"Then let's go down one floor at a time."[pcms]
+[ns]浩助[nse]
+「んじゃ、１フロアずつ降りてこーぜ」[pcms]
 
 *50|
 [fc]
-Everyone except Shigeyoshi boarded the elevator.[pcms]
+重吉以外の全員がエレベーターに乗り込んだ。[pcms]
 
 ;//〆漫画喫茶アルカディア
 [bg storage="BG020a"][trans_c cross time=500]
@@ -380,57 +377,55 @@ Everyone except Shigeyoshi boarded the elevator.[pcms]
 
 *51|
 [fc]
-I'm the first to get off the elevator on the 5th floor to[r]
-visit Senior.[pcms]
+最初にエレベーターを降りるのは５Ｆにお見舞いにきたボクだ。[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_a3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *52|
 [fc]
 [vo_miz s="mizuki_MK0003"]
-[ns]Mizuki[nse]
-"Marie-san, please take care. Get well soon."[pcms]
+[ns]瑞樹[nse]
+「マリーさん、よろしく。おだいじにね」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h1"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *53|
 [fc]
 [vo_yuh s="yuho_MK0003"]
-[ns]Yuuho[nse]
-"Make sure you take good care of him, okay?"[pcms]
+[ns]悠帆[nse]
+「ちゃんと看病してあげてね？」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c6"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *54|
 [fc]
-[ns]Kousuke[nse]
-"Don't try anything funny, got it?"[pcms]
+[ns]浩助[nse]
+「手ぇ出すんじゃねーぞ？」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_f13"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *55|
 [fc]
 [vo_ren s="ren_MK0003"]
-[ns]Ren[nse]
-"Eh?!"[pcms]
+[ns]漣[nse]
+「えぇっ！？」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *56|
 [fc]
-In the brief moment before the doors closed, everyone left[r]
-behind their own random comments and went their separate[r]
-ways.[pcms]
+扉が閉まるまでのごく短い間に、それぞれ勝手なことを言い残し[r]
+みんなは去っていった。[pcms]
 
 *57|
 [fc]
-[ns]Wataru[nse]
-"Honestly..."[pcms]
+[ns]航[nse]
+「まったく……」[pcms]
 
 *58|
 [fc]
-But everyone is worried about Senior... Despite the wry[r]
-smile, I felt a warm feeling inside.[pcms]
+でも、みんな先輩のこと心配してるんだよな……。[r]
+苦笑しながらも、暖かい気持ちになった。[pcms]
 
 ;//〆個室前
 [bg storage="BG110"][trans_c cross time=500]
@@ -438,115 +433,115 @@ smile, I felt a warm feeling inside.[pcms]
 
 *59|
 [fc]
-[ns]Wataru[nse]
-"...Senior? Maruko-senpai, are you awake?"[pcms]
+[ns]航[nse]
+「……先輩？　マル子先輩、起きてますか？」[pcms]
 
 *60|
 [fc]
-I called out softly and knocked, but there was no response.[r]
-I knocked a few more times, but...[pcms]
+そっと声をかけ、ノックをしてみたけれど応答がない。[r]
+何度か叩いてみたけれど……。[pcms]
 
 *61|
 [fc]
-[ns]Wataru[nse]
-"Is he asleep, or... maybe not here?"[pcms]
+[ns]航[nse]
+「寝ちゃってるのかな。それとも……いないのかな？」[pcms]
 
 *62|
 [fc]
-I tried listening at the door, but there was no sign of[r]
-anyone inside.[pcms]
+扉に耳を当ててみたけれど、[r]
+室内からは何の気配も伝わってはこなかった。[pcms]
 
 *63|
 [fc]
-[ns]Wataru[nse]
-"...Senior? I'm going to open the door..."[pcms]
+[ns]航[nse]
+「……先輩？　開けますよー……」[pcms]
 
 *64|
 [fc]
-After giving a warning, I opened the door. The room was[r]
-empty...[pcms]
+一応、断りを入れながらドアを開く。[r]
+中は無人だ……。[pcms]
 
 *65|
 [fc]
-[ns]Wataru[nse]
-"Where could he have gone?"[pcms]
+[ns]航[nse]
+「どこ行っちゃったんだろう？」[pcms]
 
 *66|
 [fc]
-Even though he's sick, could he be pushing himself to move[r]
-around again?[pcms]
+具合が悪いっていうのに、[r]
+また無理をして動き回ってるんだろうか？[pcms]
 
 *67|
 [fc]
-I was really worried, and also felt disappointed that I came[r]
-to visit only to find him not here...[pcms]
+すごく心配だったし、それに[r]
+せっかくお見舞いに来たのに……って残念な気持ちもある。[pcms]
 
 *68|
 [fc]
-Well, considering how much Senior insists on safety, he[r]
-probably hasn't gone too far.[pcms]
+まあ、安全にはあれだけうるさい先輩のことだから[r]
+そう遠くへは行ってないだろうけど。[pcms]
 
 *69|
 [fc]
-[ns]Wataru[nse]
-"Sigh..."[pcms]
+[ns]航[nse]
+「ふう……」[pcms]
 
 *70|
 [fc]
-With a sigh, I took a breath. The scent of Senior tickled[r]
-the back of my nose.[pcms]
+溜息をついて、それから息を吸う。[r]
+先輩の香りがふわっと鼻の奥をくすぐった。[pcms]
 
 *71|
 [fc]
-What should I do? I really want to see Senior's face.[pcms]
+どうしようかな。やっぱり先輩の顔が見たい。[pcms]
 
 *72|
 [fc]
-Should I just wait in the room? But then again, I have no[r]
-idea when Senior will come back...[pcms]
+このまま部屋の中で待っていようか。[r]
+でも、先輩、いつ戻ってくるか、分からないしな……。[pcms]
 
 *73|
 [fc]
-Everyone else is probably exploring shops they're interested[r]
-in. If it were me... Yeah, I might go to the game center on[r]
-B1...[pcms]
+みんなはそれぞれ気になるお店を散策中だろう。[r]
+ボクだったら……そうだな、[r]
+Ｂ１のゲームセンターにでも行こうかな……。[pcms]
 
 *74|
 [fc]
-If I find a staff maintenance key, I could keep pressing the[r]
-service button for free games all I want.[pcms]
+スタッフ用のメンテナンスキーが見つかれば、[r]
+サービスボタン連射で、無料ゲーム遊び放題ができそうだし。[pcms]
 
 *75|
 [fc]
-[ns]Wataru[nse]
-"...Ah... that's right"[pcms]
+[ns]航[nse]
+「…………あ……そうだ」[pcms]
 
 *76|
 [fc]
-Right now, 'everyone' is inside this building... Which[r]
-means...? Could it be...?[pcms]
+今なら「みんな」こっちのビルの中……。[r]
+っていうことは……？　もしかして……？[pcms]
 
 ;//〆フェードアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *77|
 [fc]
-[ns]Wataru[nse]
-"...Hehehe"[pcms]
+[ns]航[nse]
+「…………へへへ」[pcms]
 
 *78|
 [fc]
-I headed towards the 'depot'.[pcms]
+ボクは「ででっぽう」に向かった。[pcms]
 
 *79|
 [fc]
-I can't miss this perfect opportunity when everyone is at[r]
-LASER and I can act alone.[pcms]
+全員がＬＡＳＥＲにいて、[r]
+しかも単独行動がとれるなんて好条件を[r]
+見逃すわけにはいかない。[pcms]
 
 *80|
 [fc]
-With this chance given by God, I'll check out that AV I[r]
-found before...![pcms]
+神様がくれたこのチャンスに、この前見つけたＡＶを……！[pcms]
 
 ;//〆「ででっぽう」
 [bg storage="BG022"][trans_c cross time=500]
@@ -554,25 +549,25 @@ found before...![pcms]
 
 *81|
 [fc]
-"There's no one in the 'depot'. Having confirmed that, I let[r]
-out a sigh of relief."[pcms]
+『ででっぽう』に、人の姿はない。[r]
+そのことを確認して、ボクは胸を撫で下ろした。[pcms]
 
 *82|
 [fc]
-[ns]Wataru[nse]
-"If it's just for about an hour... It should be okay to[r]
-leave it unattended, right...?"[pcms]
+[ns]航[nse]
+「１時間ぐらいなら……[r]
+　留守にしてても、大丈夫だよな……？」[pcms]
 
 *83|
 [fc]
-Although I'm anxious, my mood has already switched to self-[r]
-generation mode.[pcms]
+不安はあるけれど、既にボクの気持ちは、[r]
+自家発電モードに切り替わっている。[pcms]
 
 *84|
 [fc]
-Thinking of the title and the fragmented content, I ponder[r]
-which one to use as my material while heading towards the[r]
-staff rest room first.[pcms]
+題名と、断片的な内容を思い浮かべて、[r]
+どれをオカズにしようか考えながら、[r]
+まずはスタッフ用の仮眠室に足を向けた。[pcms]
 
 [fadeoutbgm time=500]
 ;//〆黒画面
@@ -586,87 +581,87 @@ staff rest room first.[pcms]
 
 *85|
 [fc]
-Even though I know there's no one around, I still sneak up[r]
-the stairs. But midway, I stop in my tracks.[pcms]
+誰もいないとわかっていても、つい人目を忍んで階段を上がる。[r]
+だがその途中で、ボクは足を止めた。[pcms]
 
 *86|
 [fc]
 [vo_mar s="maru_K0001"]
 [ns]？？？[nse]
-"...Nnnaaahhh, higuu, nn... higiaaahhh!"[pcms]
+「……んああぁぁぁ、ひぐっ、ん……ひぎああぁぁっ！」[pcms]
 ;//＠発言者名を？？？に変更。文字を×にするのもアリ
 
 *87|
 [fc]
-...Is someone here before me, watching?![pcms]
+…………誰かが先に来て、見てる？！[pcms]
 
 *88|
 [fc]
-My heart races and my body freezes. Who could it be?[pcms]
+心臓が弾み、身がすくむ。[r]
+いったい誰だ。[pcms]
 
 *89|
 [fc]
-The most likely candidate is Kousuke, but he's with Mizuki[r]
-right now.[pcms]
+いちばんそれっぽいのはコースケだけど、[r]
+今のあいつには瑞樹がいる。[pcms]
 
 *90|
 [fc]
-That being said... it doesn't seem like Jin-san would watch[r]
-AV, and the only other possibility would be Shigeyoshi...[pcms]
+だとすると……、どうもＡＶを見るイメージはないけど壬さんか、[r]
+あと可能性があるとすれば重吉か……。[pcms]
 
 *91|
 [fc]
-Anyway, as a guy, I can easily imagine that carelessly[r]
-barging in would lead to an extremely awkward situation. I[r]
-move forward a little more to take a peek.[pcms]
+とにかく、迂闊に踏み込んだら相当気まずい事態になるのは、[r]
+男子として容易に想像がついた。[r]
+もう少し進んで、様子を窺ってみる。[pcms]
 
 *92|
 [fc]
 [vo_mar s="maru_K0002"]
 [ns]？？？[nse]
-"...Fuguuu, hic, hiii, naaaaah!"[pcms]
+「……ふぐぅぅ、ひっ、ひぃぃっ、んああああ～っ！」[pcms]
 ;//＠発言者名を？？？に変更。文字を×にするのもアリ
 
 *93|
 [fc]
-The panting is now clearer than before. I feel a sense of[r]
-discomfort.[pcms]
+喘ぎ声が先ほどよりもはっきりと聞こえてきた。[r]
+違和感を覚える。[pcms]
 
 *94|
 [fc]
-[ns]Wataru[nse]
-"...Somehow, it sounds like a voice I've heard before...?"[pcms]
+[ns]航[nse]
+「……なんか、聞いたことのある声だな……？」[pcms]
 
 *95|
 [fc]
-I'm sure I've never seen such a hardcore AV before. With[r]
-suspicion, I move forward and finally approach the nap room.[pcms]
+あんなハードなＡＶ、これまでに見た経験はないはずだけど。[r]
+訝りながら足を進め、とうとう仮眠室の前まで接近した。[pcms]
 
 *96|
 [fc]
-The pitiful and indecent moans echo down the hallway. Just[r]
-imagining what kind of bold scene is unfolding is enough to[r]
-make my junior stand at attention.[pcms]
+切なくあられもない喘ぎ声は、廊下にまで響いている。[r]
+どんだけ大胆な場面が繰り広げられてるんだ、と妄想するだけで、[r]
+ボクの愚息は早くも元気になっていた。[pcms]
 
 *97|
 [fc]
 [vo_mar s="maru_K0003"]
 [ns]？？？[nse]
-"...Hiiii, ha, haa! Ahfu, higuuuu! Gufuu, nn, ahiiii!"[pcms]
+「……ひぃぃっ、はっ、はあっ！[r]
+　あふっ、ひぐぅぅぅっ！　ぐふぅ、んっ、あひぃぃぃっ！」[pcms]
 ;//＠発言者名を？？？に変更。文字を×にするのもアリ
 
 *98|
 [fc]
-The shrill cries make me flinch as I lower my gaze. Shoes[r]
-were carelessly kicked off and trapped in the door, leaving[r]
-it half-open.[pcms]
+あまりにけたたましい嬌声に、逆にたじろぎながら視線を落とす。[r]
+乱暴に脱ぎ捨てられた靴が挟まって、ドアが半開きになっていた。[pcms]
 
 *99|
 [fc]
-Who could be in such a hurry to enter and indulge in[r]
-pleasure? As I lean forward, I can easily see from the[r]
-entrance to the back of the narrow room. When I recognize[r]
-the person at the back, I almost scream.[pcms]
+いったい誰が、こんなに慌てて侵入して、享楽に耽っているのやら。[r]
+身を乗り出すと、狭い室内は入口から奥まで簡単に見通せた。[r]
+奥にいる人の姿が解ったとき、危うく叫びそうになる。[pcms]
 
 ;//　ブロック８００１０へ
 [jump storage="80010.ks" target=*80010_TOP]

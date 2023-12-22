@@ -21,43 +21,42 @@
 
 *1505|
 [fc]
-Deciding it was too dangerous to stay put, I dashed out and[r]
-headed for the pool.[pcms]
+とにかくこの場に留まるのは危険だと判断したわたしは[r]
+一目散に駆け出すと、プールへと向かった。[pcms]
 
 *1506|
 [fc]
-However, the school was in a state of frenzy, unlike its[r]
-usual self. My shoulder bag got in the way, and I couldn't[r]
-run properly through the narrow corridors.[pcms]
+しかし、いつもの学園とは違って狂乱状態。[r]
+わたしはショルダーバックが邪魔になって、[r]
+狭い渡り廊下が思うように走れなかった。[pcms]
 
 [quake_bg 元time=500 xy m]
 [se buf=0 storage="SE004"]
 
 *1507|
 [fc]
-Suddenly, I was bumped into by a fleeing boy, lost my[r]
-balance, and fell over.[pcms]
+たちまち逃げて来た男子にぶつかられると、[r]
+バランスがとれなくて倒れてしまった。[pcms]
 
 *1508|
 [fc]
 [vo_yuh s="yuho0361"]
-[ns]Yuuho[nse]
-"Ouch... that hurts... uuu..."[pcms]
+[ns]悠帆[nse]
+「あうっ……痛い……ぅぅぅ……」[pcms]
 
 *1509|
 [fc]
-I had struck my knee hard and was in such pain that I[r]
-couldn't breathe for a while, let alone move.[pcms]
+膝をしたたか打ちつけたわたしは、激痛にしばらく[r]
+息が詰まって、動くこともできなかった。[pcms]
 
 *1510|
 [fc]
-But the other person didn't care about that at all.[pcms]
+だけど、相手はそんなことなどお構いなし。[pcms]
 
 *1511|
 [fc]
-The eerie voices and screams were closing in from behind,[r]
-and the students who had fled to the grounds were now[r]
-returning to the gymnasium.[pcms]
+不気味な声と悲鳴はすぐ後ろまで迫り、[r]
+グラウンドへ逃げた学生達が体育館へと戻ってきた。[pcms]
 
 ;//〆・ラベル:zapA0002・E003
 *zapA002_02
@@ -69,127 +68,129 @@ returning to the gymnasium.[pcms]
 
 *1512|
 [fc]
-The creepy people who had flooded in from the school gates[r]
-were not from our school.[pcms]
+校門からなだれ込んできた不気味な人達は、[r]
+学園の人間ではなかった。[pcms]
 
 *1513|
 [fc]
-All of them were dressed in tattered clothes and their[r]
-bodies were abnormally dirty with mud and such.[pcms]
+どれもボロボロの衣服をまとい、身体は異様なまでに[r]
+ドロなどで汚れていた。[pcms]
 
 *1514|
 [fc]
-[ns]Student A[nse]
-"Get out of our school, you bastard!"[pcms]
+[ns]学生Ａ[nse]
+「このやろう、学園から出て行け！！」[pcms]
 
 [赤フラ]
 
 *1515|
 [fc]
-[ns]Student B[nse]
-"Don't come near me!"[pcms]
+[ns]学生Ｂ[nse]
+「そばに寄るんじゃねぇ！！」[pcms]
 
 [赤フラ]
 
 *1516|
 [fc]
-[ns]Student C[nse]
-"You bastard, you bastard, die, just die!!"[pcms]
+[ns]学生Ｃ[nse]
+「このやろ、このやろ、死ね、死んじまえ！！」[pcms]
 
 [赤フラ]
 
 *1517|
 [fc]
-Several male students were trying to drive them away by[r]
-hitting and pushing them, but it seemed to have no effect at[r]
-all, and they ended up being counterattacked.[pcms]
+男子学生の数名が殴りかかり、突き飛ばしたりして[r]
+追い払おうとしていたけど、まったくダメージが[r]
+ないのか、反撃されてしまう。[pcms]
 
 *1518|
 [fc]
-[ns]Student C[nse]
-"It's no use, these guys aren't normal!"[pcms]
+[ns]学生Ｃ[nse]
+「だめだ、こいつら普通じゃない！」[pcms]
 
 *1519|
 [fc]
-[ns]Student A[nse]
-"Ouch ouch ouch, it bit me!"[pcms]
+[ns]学生Ａ[nse]
+「いててて、噛みついてきやがった」[pcms]
 
 *1520|
 [fc]
-In no time, arms and legs were being bitten, and some people[r]
-even had teeth sunk into their necks. Blood splattered[r]
-everywhere as shouts and screams intermingled.[pcms]
+たちまち腕や足に噛みつかれ、ひどい人は首にまで[r]
+歯を突きたてられていた。[r]
+血飛沫が飛び散り、怒号と悲鳴が交錯する。[pcms]
 
 [赤フラ]
 
 *1521|
 [fc]
-[ns]Student B[nse]
-"Aaaaargh!!!"[pcms]
+[ns]学生Ｂ[nse]
+「ぎいやぁぁぁぁぁ！！！」[pcms]
 
 [bg storage="BG014"][trans_c cross time=500]
 
 *1522|
 [fc]
-The creepy shadows finally approached the corridor.[pcms]
+不気味な人影がとうとう渡り廊下まで迫ってきた。[pcms]
 
 *1523|
 [fc]
 [vo_mob s="buinA0016"]
-[ns]Club Member A[nse]
-"Nooooo, don't come this wayyyyy!"[pcms]
+[ns]部員Ａ[nse]
+「いやぁぁぁぁ、こっちにこないでぇぇぇぇ！」[pcms]
 
 *1524|
 [fc]
-The agonized scream of a friend from the swim club echoed,[r]
-and for a moment our eyes met as I looked up.[pcms]
+同じ水泳部の友達があげる悲痛な悲鳴が木霊して、[r]
+顔をあげたわたしと一瞬目があった。[pcms]
 
 ;//SE停止(ループ。2秒でF.O.)
 [stopse buf=1]
 
 *1525|
 [fc]
-Just one more push to the pool. Somehow enduring the pain in[r]
-my knee, I managed to stand up.[pcms]
+プールまではあと一息。[r]
+なんとか痛む膝をこらえてわたしは立ち上がった。[pcms]
 
 ;//SE015(スライドドア閉める)
 [se buf=0 storage="se015"]
 
 *1526|
 [fc]
-But... my friend who had been looking at me averted her gaze[r]
-and, along with the other students, closed the door to the[r]
-indoor pool entrance.[pcms]
+だけど……わたしを見ていた友人は、[r]
+視線をそらすと、その他の学生達と共に、[r]
+屋内プールへの入口の扉を閉ざしてしまった。[pcms]
 
 *1527|
 [fc]
 [vo_yuh s="yuho0362"]
-[ns]Yuuho[nse]
-"Wh-why... how could you..."[pcms]
+[ns]悠帆[nse]
+「そ、そんな……ど、どうして……」[pcms]
 
 *1528|
 [fc]
-I thought they were my friends... I expected them to help[r]
-me, to wait for me.[pcms]
+友だちだと思っていた……。[r]
+だから助けてくれるんじゃないかと、[r]
+待っていてくれると期待した。[pcms]
 
 *1529|
 [fc]
-To be betrayed in an instant like this...[pcms]
+それが一瞬で……こんな形で裏切られるなんて。[pcms]
 
 *1530|
 [fc]
-I understand that it's scary. I can comprehend that this is[r]
-an unbelievably abnormal situation.[pcms]
+怖いのは分かる。これが信じがたい異常な事態なのは[r]
+理解できる。[pcms]
 
 *1531|
 [fc]
-But even so... to be abandoned like this is too much.[pcms]
+でも、だからって……。[r]
+見捨てられるなんてあんまりだ。[pcms]
 
 *1532|
 [fc]
-I'm scared... so scared that my legs are shaking. I can't[r]
-muster any strength in my body. Overwhelmed by an unreal[r]
-terror, I found myself unable to even walk.[pcms]
+怖い……怖くて足が震える。身体に力が入らない。[r]
+まるで現実味のない異様な恐怖に、[r]
+わたしは歩くことすらできなくなってしまった。[pcms]
 
 ;//jump：zap0010　ラベル　zapA0002.txtからジャンプ へ
 ;[jump storage="zapA010.ks" target=*zapA010_01]

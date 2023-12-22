@@ -18,17 +18,17 @@
 
 *1378|
 [fc]
-[ns]Shigeyoshi[nse]
-"What the hell, this channel is so boring. Change it to one[r]
-with a female announcer."[pcms]
+[ns]重吉[nse]
+「ンだよ、しんきくせえチャンネルだな。[r]
+　女子アナのいる局に変えろよ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1379|
 [fc]
 [vo_miz s="mizuki0272"]
-[ns]Mizuki[nse]
-"Shh, be quiet!"[pcms]
+[ns]瑞樹[nse]
+「しっ、静かに！」[pcms]
 
 ;//bgm停止
 [fadeoutbgm time=500]
@@ -38,388 +38,376 @@ with a female announcer."[pcms]
 
 *1380|
 [fc]
-Apart from Shigeyoshi, who was complaining about something[r]
-irrelevant, we were all intently watching the screen.[pcms]
+見当違いの文句をつける重吉を除いて、[r]
+ボクたちは真剣に画面に見入った。[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1381|
 [fc]
-The studio, which seemed to be the broadcasting center of[r]
-the station, was occupied by a male announcer showing signs[r]
-of fatigue and a male commentator with a beard and an[r]
-eyepatch.[pcms]
+局の放送センターと思しきスタジオには、[r]
+疲労の色も濃い男性アナウンサーと、[r]
+髭に眼帯という姿のコメンテーターの男性が座っている。[pcms]
 
 *1382|
 [fc]
-[ns]Announcer[nse]
-"...It has been officially confirmed in the recent[r]
-government announcement that the cause of this epidemic is[r]
-due to a mutation of UNKNOWN-LV4..."[pcms]
+[ns]アナウンサー[nse]
+「……今回のエピデミックの原因が[r]
+　ＵＮＫＮＯＷＮ－ＬＶ４の変異体によるものであることが[r]
+　先ほどの政府発表にて正式に確認されたわけですが……」[pcms]
 
 *1383|
 [fc]
-[ns]Announcer[nse]
-"Could you please explain in more detail how the virus[r]
-originated and spread?"[pcms]
+[ns]アナウンサー[nse]
+「どのようにしてウィルスが発生し、拡大していったのか、[r]
+　そのところをもう少し詳しく、お聞かせください」[pcms]
 
 *1384|
 [fc]
-[ns]Commentator[nse]
-"Uh-..."[pcms]
+[ns]コメンテーター[nse]
+「えー……」[pcms]
 
 *1385|
 [fc]
-The commentator, who was asked to speak, began to talk after[r]
-fidgeting and shaking his body.[pcms]
+発言を求められたコメンテーターは、[r]
+もぞもぞと身体を揺すってから喋り始めた。[pcms]
 
 *1386|
 [fc]
-[ns]Commentator[nse]
-"Firstly, regarding the source of the outbreak, it is almost[r]
-certain that it originated in Tokyo."[pcms]
+[ns]コメンテーター[nse]
+「まず、発生源についてですが、[r]
+　これはほぼ確実に東京であると見られています」[pcms]
 
 *1387|
 [fc]
-[ns]Commentator[nse]
-"There is a strong theory that an infected person mingled[r]
-among the spectators at the fireworks festival held in[r]
-Shibuya on the 18th, infecting tens of thousands of people[r]
-there, and from there the virus spread explosively[r]
-nationwide."[pcms]
+[ns]コメンテーター[nse]
+「１８日に渋谷で行われた花火大会の観客に感染者が紛れ込み、[r]
+　そこで万単位の人々にウィルスが感染し、[r]
+　そこから爆発的な勢いで全国に広がったという説が有力です」[pcms]
 
 *1388|
 [fc]
-[ns]Announcer[nse]
-"Compared to the Tohoku infection disaster, the rate of[r]
-infection seems to be much more rapid..."[pcms]
+[ns]アナウンサー[nse]
+「東北感染災害の時に比べますと、[r]
+　感染拡大の勢いが強いようにも思われますが……」[pcms]
 
 *1389|
 [fc]
-[ns]Commentator[nse]
-"Exactly. There are three major characteristics of this[r]
-mutated virus..."[pcms]
+[ns]コメンテーター[nse]
+「まさしくその通りです。[r]
+　今回の変異体ウィルスには大きな３つの特徴がありまして……」[pcms]
 
 *1390|
 [fc]
-The male announcer efficiently turned a flipboard he had[r]
-prepared towards the camera.[pcms]
+アナウンサーの男性は、そこで手際よく[r]
+用意していたフリップボードをカメラに向ける。[pcms]
 
 *1391|
 [fc]
-[ns]Commentator[nse]
-"The first is airborne transmission capability. This was not[r]
-seen in the previous virus, but judging from the current[r]
-rate of infection spread, there is no doubt."[pcms]
+[ns]コメンテーター[nse]
+「一つ目は、空気感染能力。[r]
+　これは前回のウィルスには見られなかった特徴ですが、[r]
+　今回の感染拡大速度から推察するに、間違いありません」[pcms]
 
 *1392|
 [fc]
-[ns]Announcer[nse]
-"Airborne transmission means that even without direct[r]
-contact with an infected person and their bodily fluids[r]
-entering your body, there is still a risk of being infected[r]
-by the virus, right?"[pcms]
+[ns]アナウンサー[nse]
+「空気感染ということは、[r]
+　感染者に直接接触し、体液が身体に入らなくても[r]
+　ウィルスに冒される危険があるということですね？」[pcms]
 
 *1393|
 [fc]
-[ns]Commentator[nse]
-"That's correct."[pcms]
+[ns]コメンテーター[nse]
+「そういうことです」[pcms]
 
 *1394|
 [fc]
-At the commentator's words, we all tensed up at once.[pcms]
+コメンテーターの言葉に、[r]
+ボクたちは一斉に身を強張らせた。[pcms]
 
 *1395|
 [fc]
-If there's a risk of airborne transmission, then all of us[r]
-who have encountered them might already be... infected?[pcms]
+空気感染の危険があるんだとしたら、[r]
+既に、ヤツラと遭遇してきたボクたちは[r]
+全員……感染してるってことだろうか？[pcms]
 
 *1396|
 [fc]
-[ns]Commentator[nse]
-"However, it is presumed that the infectiousness is[r]
-significantly weaker compared to transmission through blood[r]
-or bodily fluids. Of course, the elderly and children need[r]
-to take sufficient precautions."[pcms]
+[ns]コメンテーター[nse]
+「ただし感染力は血液や体液を経由した場合に比べれば[r]
+　格段に弱いと推察されます。[r]
+　もちろんお年寄りやお子様は充分な注意が必要ですが」[pcms]
 
 *1397|
 [fc]
-[ns]Commentator[nse]
-"It is the common view among medical professionals at this[r]
-stage that people who have been vaccinated may be able to[r]
-prevent airborne infection."[pcms]
+[ns]コメンテーター[nse]
+「恐らくワクチン接種を受けた人なら、[r]
+　空気感染を防げるのではないかというのが[r]
+　現段階での医療関係者の共通見解となっています」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e5"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1398|
 [fc]
-[ns]Kousuke[nse]
-"...Scaring us like that."[pcms]
+[ns]浩助[nse]
+「……おどかしやがって」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1399|
 [fc]
-Hearing that vaccines are effective, Kousuke collapsed onto[r]
-the sofa as if deflated.[pcms]
+ワクチンが有効と聞いて、コースケが[r]
+脱力したようにソファにぐだぐだっと寝そべった。[pcms]
 
 *1400|
 [fc]
-Indeed, we had all received vaccinations at school and in[r]
-our community... thank goodness.[pcms]
+確かに、ボクたちは学園や地域で[r]
+集団で予防接種を受けているから……良かったけど。[pcms]
 
 *1401|
 [fc]
-[ns]Announcer[nse]
-"Now, let's move on to the second characteristic, the change[r]
-in toxicity. There seems to be a question mark next to this[r]
-item?"[pcms]
+[ns]アナウンサー[nse]
+「では、次に、二つ目の特徴、毒性の変化について、[r]
+　お話いただきたいと思いますが……、[r]
+　項目に疑問符がつけられていますね？」[pcms]
 
 *1402|
 [fc]
-[ns]Commentator[nse]
-"This is still under verification, which is why I[r]
-deliberately put a question mark..."[pcms]
+[ns]コメンテーター[nse]
+「こちらはまだ、検証されていないものなので[r]
+　あえて、はてなマークをつけたわけなんですが……」[pcms]
 
 *1403|
 [fc]
-[ns]Commentator[nse]
-"Despite over 24 hours having passed since the outbreak,[r]
-there are hardly any cases of infected individuals dying[r]
-from cerebral destruction caused by the virus, which raises[r]
-suspicions."[pcms]
+[ns]コメンテーター[nse]
+「発生から既に２４時間以上が経過しているにも関わらず、[r]
+　ウィルスによる大脳破壊で感染者が死亡している例が[r]
+　ほとんど見られないことから、疑いが強まっています」[pcms]
 
 *1404|
 [fc]
-[ns]Commentator[nse]
-"The majority of experts believe that the toxicity has[r]
-weakened, but some scholars speculate that the virus itself[r]
-may be suppressing the progression of brain destruction to[r]
-some extent."[pcms]
+[ns]コメンテーター[nse]
+「大多数の専門家は、毒性が弱まったと見ていますが、[r]
+　ウィルス自身が脳破壊の進行を[r]
+　ある程度抑制しているのではないかと推測する学者もいます」[pcms]
 
 *1405|
 [fc]
-[ns]Announcer[nse]
-"However, regardless of the cause, if infected individuals[r]
-do not die... doesn't that mean they continue to act as[r]
-sources of infection indefinitely?"[pcms]
+[ns]アナウンサー[nse]
+「しかし、どちらが原因だとしても、感染者が死亡しない……、[r]
+　これはつまり、感染源としていつまでも[r]
+　活動を続けてしまうということになりませんか？」[pcms]
 
 *1406|
 [fc]
-[ns]Commentator[nse]
-"You are correct."[pcms]
+[ns]コメンテーター[nse]
+「おっしゃるとおりです」[pcms]
 
 *1407|
 [fc]
-[ns]Commentator[nse]
-"With this in mind, I would like to urge our viewers not to[r]
-go out assuming that infected individuals have died, as was[r]
-the case in Tohoku."[pcms]
+[ns]コメンテーター[nse]
+「だとしますと、東北の例をあてにして、感染者が死亡したと[r]
+　思い込んで外出しないよう、ご覧の皆さんには[r]
+　充分にご注意いただきたいと思います」[pcms]
 
 *1408|
 [fc]
-[ns]Announcer[nse]
-"This information is very important, so I will repeat it[r]
-once more. Please do not go out assuming that infected[r]
-individuals have died..."[pcms]
+[ns]アナウンサー[nse]
+「ただいまの情報は大変重要ですので、もう一度繰り返します。[r]
+　感染者が死亡したと思い込んで外出しないよう……」[pcms]
 
 *1409|
 [fc]
-Kousuke interjected at the announcer speaking earnestly to[r]
-the camera, wishing he had been informed sooner.[pcms]
+カメラに向かって真剣に語りかけるアナウンサーに、[r]
+もう少し早く教えてくれよと、コースケが突っ込んでいる。[pcms]
 
 *1410|
 [fc]
-Indeed, if we had known this information earlier, we[r]
-wouldn't have carelessly walked around town...[pcms]
+確かに、この情報を知っていたら、[r]
+むやみに街の中を歩いたりはしなかった……。[pcms]
 
 *1411|
 [fc]
-[ns]Announcer[nse]
-"Now for the third characteristic, the change in organisms[r]
-that can be infected... What does this mean?"[pcms]
+[ns]アナウンサー[nse]
+「それでは三つ目の特徴ですが、感染する生物の変化……。[r]
+　これはどういったことでしょうか？」[pcms]
 
 *1412|
 [fc]
-[ns]Commentator[nse]
-"It's the most significant characteristic."[pcms]
+[ns]コメンテーター[nse]
+「もっとも重大な特徴です」[pcms]
 
 *1413|
 [fc]
-The commentator nodded gravely and showed several photos to[r]
-the camera.[pcms]
+重々しくうなずいたコメンテーターは、[r]
+数枚の写真をカメラに向けた。[pcms]
 
 *1414|
 [fc]
-[ns]Commentator[nse]
-"Traditionally, organisms other than humans either do not[r]
-get infected by the virus or if they do get infected they do[r]
-not become aggressive or die shortly after infection."[pcms]
+[ns]コメンテーター[nse]
+「従来はヒト以外の生物は、[r]
+　ウィルスに感染しないか、感染しても凶暴化しない、[r]
+　もしくは感染後すぐに死んでしまう……とされてきました」[pcms]
 
 *1415|
 [fc]
-[ns]Commentator[nse]
-"However, this time the virus has been confirmed to be[r]
-mutually infectious between humans and non-human organisms."[pcms]
+[ns]コメンテーター[nse]
+「ところが今回のウィルスはヒトとヒト以外の生物間で、[r]
+　相互感染が確認されたのです」[pcms]
 
 *1416|
 [fc]
-[ns]Announcer[nse]
-"What exactly does that mean?"[pcms]
+[ns]アナウンサー[nse]
+「ということは、具体的にどういうことですか？」[pcms]
 
 *1417|
 [fc]
-[ns]Commentator[nse]
-"It means we need to be cautious of non-human infected[r]
-organisms as well. Not only direct contact such as being[r]
-bitten or attacked but also airborne transmission from these[r]
-organisms must be taken into account."[pcms]
+[ns]コメンテーター[nse]
+「ヒト以外の感染生物にも警戒が必要になります。[r]
+　噛まれる、襲われるといった直接の接触はもちろんのこと、[r]
+　生物からの空気感染にも注意しなくてはなりません」[pcms]
 
 *1418|
 [fc]
-[ns]Commentator[nse]
-"Furthermore, even if the situation is brought under control[r]
-in the future, it will be difficult to recover an ecosystem[r]
-that has been so extensively damaged."[pcms]
+[ns]コメンテーター[nse]
+「また、今後、事態が収拾されたとしても、[r]
+　ここまで大規模に破壊された生態系の回復は困難でしょう」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_e1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *1419|
 [fc]
-[ns]Kousuke[nse]
-"Like that matters. Before worrying about the ecosystem,[r]
-we're going to die first."[pcms]
+[ns]浩助[nse]
+「そんなん関係ねーって。[r]
+　生態系の心配してる前に、オレらが死んじまうって」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1420|
 [fc]
 [vo_mar s="maru1461"]
-[ns]Margarita[nse]
-"But confirming infection in other organisms is important[r]
-information. It's vital for our survival."[pcms]
+[ns]マルガリータ[nse]
+「だが、生物への感染が確認されたというのは、重要な情報だ。[r]
+　生き残るためにも、な」[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1421|
 [fc]
-As everyone was talking over each other, a new flip appeared[r]
-on the screen.[pcms]
+口々に言い合ううちに、画面には新しいフリップが出ている。[pcms]
 
 *1422|
 [fc]
-[ns]Announcer[nse]
-"Please tell us about the vaccine."[pcms]
+[ns]アナウンサー[nse]
+「では、ワクチンについて、お話ください」[pcms]
 
 *1423|
 [fc]
-[ns]Commentator[nse]
-"Basically, traditional vaccines are considered ineffective[r]
-against this mutated virus."[pcms]
+[ns]コメンテーター[nse]
+「基本的には今回の変異体ウィルスに対して、[r]
+　従来のワクチンは無効であると言わざるを得ません」[pcms]
 
 *1424|
 [fc]
-[ns]Commentator[nse]
-"However, as mentioned earlier, traditional vaccines are[r]
-thought to have some effect in preventing airborne[r]
-transmission and also in slowing down progression if[r]
-infected."[pcms]
+[ns]コメンテーター[nse]
+「しかし、さきほどもお話しましたが、従来のワクチンでも[r]
+　空気感染を防ぐ効果はあると考えられています。[r]
+　また感染した場合の進行を遅らせる効果も認められています」[pcms]
 
 *1425|
 [fc]
-[ns]Commentator[nse]
-"Those who have not yet been vaccinated are advised to do so[r]
-promptly."[pcms]
+[ns]コメンテーター[nse]
+「まだワクチンの接種を受けていない人は、[r]
+　すみやかに接種されることをお奨めします」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1426|
 [fc]
 [vo_yuh s="yuho1520"]
-[ns]Yuuho[nse]
-"..."[pcms]
+[ns]悠帆[nse]
+「…………」[pcms]
 ;//＠ワクチンのあとを押さえながら。不安げに
 
 *1427|
 [fc]
-Yuuho's hand could be seen pressing on her arm as she stared[r]
-at the TV.[pcms]
+テレビを見つめる悠帆の手が、腕を押さえているのが見えた。[pcms]
 
 *1428|
 [fc]
-"She's probably checking for the vaccine injection mark..."[pcms]
+多分、ワクチンの接種跡を確認してるんだろう……。[pcms]
 
 ;//キャラ消し
 [chara_int][trans_c cross time=150]
 
 *1429|
 [fc]
-"Even if it's just a placebo... anything that's said to have[r]
-some effect is a relief."[pcms]
+気休めでも何でも……少しでも。[r]
+効果があると言われればやっぱりホッとする……。[pcms]
 
 *1430|
 [fc]
-[ns]Announcer[nse]
-"Now, let's discuss specific responses. Many people have[r]
-evacuated to shelters or have found their own safe places.[r]
-What should they do?"[pcms]
+[ns]アナウンサー[nse]
+「では、ここからは具体的な対応についてお伺いします。[r]
+　各地の避難所や、独自で安全な場所に避難した人々が[r]
+　多数いらっしゃるのですが、どのようにすべきでしょう？」[pcms]
 
 *1431|
 [fc]
-[ns]Commentator[nse]
-"First, please stay calm and try not to move from your safe[r]
-location."[pcms]
+[ns]コメンテーター[nse]
+「まずは、落ち着いて[r]
+　なるべく安全な場所から動かないようにしてください」[pcms]
 
 *1432|
 [fc]
-[ns]Commentator[nse]
-"All forms of transportation are non-functional, and due to[r]
-fires and other issues, it is extremely difficult to move by[r]
-vehicle."[pcms]
+[ns]コメンテーター[nse]
+「各交通機関は全く機能していませんし、[r]
+　火災などの影響で、車両による移動は大変に困難です」[pcms]
 
 *1433|
 [fc]
-[ns]Commentator[nse]
-"Some reports suggest that infected individuals are moving[r]
-from densely populated areas to the suburbs, but not all[r]
-infected individuals are doing so."[pcms]
+[ns]コメンテーター[nse]
+「また一部の報道で、感染者が人口密集地から[r]
+　郊外へ移動しているとの情報もありますが[r]
+　全ての感染者がそうだというわけではありません」[pcms]
 
 *1434|
 [fc]
-[ns]Commentator[nse]
-"Considering the remaining infected individuals wandering[r]
-around and the spread of infected creatures, we strongly[r]
-advise against moving on foot."[pcms]
+[ns]コメンテーター[nse]
+「残った感染者が徘徊していることや、[r]
+　感染生物の蔓延を考えると[r]
+　徒歩での移動は、絶対におやめいただきたい」[pcms]
 
 *1435|
 [fc]
-[ns]Announcer[nse]
-"...Did you all hear that? Please refrain from going outside[r]
-and do not move from your safe place."[pcms]
+[ns]アナウンサー[nse]
+「……みなさん、お聞きになりましたでしょうか？[r]
+　外出を控え、安全な場所から動かないようにしてください」[pcms]
 
 *1436|
 [fc]
-We looked at each other as the announcer advised us to stay[r]
-put.[pcms]
+篭城を勧めるアナウンサーの言葉に、[r]
+ボクたちは顔を見合わせる。[pcms]
 
 *1437|
 [fc]
-That means we're supposed to wait for help here. But... will[r]
-help really come?[pcms]
+それはつまり、ここで助けを待てっていうことだ。[r]
+だけど……助けなんて本当に来るんだろうか……？[pcms]
 
 *1438|
 [fc]
-Everyone seems to share the same doubt, even without saying[r]
-it out loud.[pcms]
+みんなが同じ疑問を持っているのは[r]
+口に出さなくても伝わってくる。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="yuho_a3"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 ;//[vo_yuh s="yuho1521"]
-[ns]Yuuho[nse]
+;//[ns]悠帆[nse]
 ;//「えーっ！？
 ;//　じゃ、偉い人たちだけ、さっさと島に逃げたっていうこと！？
-;//　ずっるいっ！」
+;//　ずっる～～～～～～～～～いっ！」
 ;//
 ;//★このセリフですが、４０４１０で既に臨時政府の情報がありますので
 ;//若干、違和感があります。４０４１０に移動するか、カットするかしてください。
@@ -435,48 +423,48 @@ it out loud.[pcms]
 *1439|
 [fc]
 [vo_ren s="ren1356"]
-[ns]Ren[nse]
-"...It's like in the movies, I wonder if they'll drop bombs[r]
-or something?"[pcms]
+[ns]漣[nse]
+「……映画みたいに、[r]
+　爆弾とか落とされたり、しちゃうのかな？」[pcms]
 
 *1440|
 [fc]
-In a worried whisper, Ren muttered to herself.[pcms]
+心配そうな小声で、漣がポツリと呟いた。[pcms]
 
 *1441|
 [fc]
-[ns]Wataru[nse]
-"No, no way. They wouldn't go that far all of a sudden...[r]
-right?"[pcms]
+[ns]航[nse]
+「ま、まさか。[r]
+　いきなりそこまでは……しないと思うよ？……」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_k4"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *1442|
 [fc]
 [vo_miz s="mizuki0273"]
-[ns]Mizuki[nse]
-"But just waiting here, that's irresponsible."[pcms]
+[ns]瑞樹[nse]
+「でも、ただ待ってろなんて、無責任だよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *1443|
 [fc]
 [vo_mar s="maru1462"]
-[ns]Margarita[nse]
-"However, realistically speaking, we have no other options.[r]
-We, the survivors..."[pcms]
+[ns]マルガリータ[nse]
+「だが、実際問題、他に打つ手はない。[r]
+　ワタシたち、生き残った人間は……」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a2"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *1444|
 [fc]
 [vo_yuh s="yuho1522"]
-[ns]Yuuho[nse]
-"We've been left behind, haven't we..."[pcms]
+[ns]悠帆[nse]
+「取り残された、ってこと、なんだね……」[pcms]
 
 *1445|
 [fc]
-Yuuho's words deeply resonated with us.[pcms]
+悠帆の言葉は、しみじみとボクたちの胸に染み込んできた。[pcms]
 
 ;//→ブロック５０２５０へ
 [jump storage="50250.ks" target=*50250_TOP]

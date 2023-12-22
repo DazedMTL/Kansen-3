@@ -7,7 +7,7 @@
 ;//---------------------------------------------------------------
 ;//・視点：主人公一人称
 ;//・場所：〆背景：ＬＡＳＥＲ　５Ｆ＆７Ｆ
-;//・時間：５日目（８月１９日）昼
+;//・時間：５日目（８月１９日）昼～
 ;//登場人物:主人公・悠帆・浩助・マルガリータ・漣
 ;//　　　　　重吉・ジン・瑞樹・状況により登場人物が変化する
 ;//・テキスト容量：1k前後
@@ -17,18 +17,18 @@
 
 *290|
 [fc]
-[ns]Wataru[nse]
-"...I can't abandon you, Yuuho..."[pcms]
+[ns]航[nse]
+「……見捨てられないよ、悠帆……」[pcms]
 
 *291|
 [fc]
-Even if she's infected, Yuuho is still Yuuho. She's still[r]
-desperately trying to let me escape.[pcms]
+感染したって悠帆は悠帆だ。[r]
+今も必死にボクを逃がそうとしてくれてる。[pcms]
 
 *292|
 [fc]
-I might still be able to save her, I can't just leave her[r]
-behind and run away...![pcms]
+まだ助けられるかもしれないのに、[r]
+そんな悠帆を置いて、逃げることなんかできない……！[pcms]
 
 
 ;mm TOPラベル踏んで無いー。
@@ -41,41 +41,41 @@ behind and run away...![pcms]
 ;	*293|
 ;	[fc]
 ;	[vo_yuh s="yuho_YK0042"]
-[ns]Yuuho[nse]
-"...Are you, going somewhere...? You can't, you know...?"[pcms]
+;	[ns]悠帆[nse]
+;	「……どっか、行く、のぉ……？　ダメ、だよぉ……？」[pcms]
 ;	;//＠ここから先は、葛藤ではなく、色っぽさの「……」です
 ;
 ;	*294|
 ;	[fc]
-Suddenly, strength returned to Yuuho's hand.[pcms]
+;	突然、悠帆の手に力が戻った。[pcms]
 ;
 ;	[ChrSetEx layer=5 chbase="yuho_e18"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 ;
 ;	*295|
 ;	[fc]
 ;	[vo_yuh s="yuho_YK0043"]
-[ns]Yuuho[nse]
-"After all... we're about to do something nice, right...?[r]
-You can't run away... no..."[pcms]
+;	[ns]悠帆[nse]
+;	「せっかく……いいコト、するんだ、よぉ……？[r]
+;	　逃げ、ちゃ、だ、め……ぇ……」[pcms]
 ;
 ;	*296|
 ;	[fc]
-[ns]Wataru[nse]
-"Y-Yuuho..."[pcms]
+;	[ns]航[nse]
+;	「ゆ、うほ……」[pcms]
 ;
 ;	*297|
 ;	[fc]
-Once again, the light vanished from her eyes, and her voice[r]
-returned to an empty echo.[pcms]
+;	また瞳からは光が消え、声の調子も虚ろな響きに戻っている。[pcms]
 ;
 ;	[ChrSetEx layer=5 chbase="yuho_e18"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 ;
 ;	*298|
 ;	[fc]
 ;	[vo_yuh s="yuho_YK0044"]
-[ns]Yuuho[nse]
-"Being alone... is lonely... right...? I won't be[r]
-satisfied... you know...? ...So let's be together, okay...?"[pcms]
+;	[ns]悠帆[nse]
+;	「ひとり……は……寂しい、よ……？[r]
+;	　満足……できない、よぉぉ……？[r]
+;	　…………だからぁぁ…………一緒に、ね……？」[pcms]
 
 ;//→block60070 ラベル　合流へ
 ;[jump storage="60070.ks" target=*60070_01]

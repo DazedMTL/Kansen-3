@@ -12,7 +12,7 @@
 ;//・視点：主人公一人称
 ;//登場人物:主人公・浩助・マルガリータ・漣・悠帆・瑞樹・ジン
 ;//時間帯：
-;//・時間：６日目（８月２０日）朝
+;//・時間：６日目（８月２０日）朝～
 ;//テキスト分量：20k
 ;//---------------------------------------------------------------
 
@@ -37,75 +37,73 @@
 
 *8715|
 [fc]
-Finally, morning has come. It was a long night. With a[r]
-groggy head, I head to the 7th floor.[pcms]
+ようやく朝が来た。長い夜だった。[r]
+ぼうっとした頭で７階に行く。[pcms]
 
 *8716|
 [fc]
-When it's time for breakfast, everyone seems to gather from[r]
-nowhere.[pcms]
+朝食の時間になると、どこからともなくみんなが集まってくる。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8717|
 [fc]
-[ns]Jin[nse]
-"...Looks delicious... Yeah, it's good..."[pcms]
+[ns]壬[nse]
+「……美味そうだな……うん、美味いな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8718|
 [fc]
 [vo_mar s="maru_TE0001"]
-[ns]Margarita[nse]
-"Jin... Sorry to interrupt while you've started eating...[r]
-Where's Shigeyoshi? I can't see him anywhere."[pcms]
+[ns]マルガリータ[nse]
+「ジン……箸を付けたところ、悪いんだが……。[r]
+　アイツは、シゲヨシはどうした？　姿が見えないが」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8719|
 [fc]
-[ns]Jin[nse]
-"...He left."[pcms]
+[ns]壬[nse]
+「……出て行った」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8720|
 [fc]
 [vo_mar s="maru_TE0002"]
-[ns]Margarita[nse]
-"...! Where did he go? How did he get out?"[pcms]
+[ns]マルガリータ[nse]
+「……！　どこへ行ったんだ？　どこから出たんだ？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8721|
 [fc]
-[ns]Jin[nse]
-"Where he went is one thing, but I've thoroughly checked[r]
-inside the mansion. There's no sign of them sneaking in, and[r]
-all the doors are confirmed to be closed."[pcms]
+[ns]壬[nse]
+「行った先は、まあいいとして、館内はくまなく見回った。[r]
+　ヤツラが入り込んだ形跡はねぇし、戸の閉まりも確認済みだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8722|
 [fc]
 [vo_mar s="maru_TE0003"]
-[ns]Margarita[nse]
-"...I see... Alright then, that's fine. Sorry for disturbing[r]
-your meal..."[pcms]
+[ns]マルガリータ[nse]
+「……。わかった……なら、いい。食事の邪魔をして[r]
+　悪かったな……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8723|
 [fc]
-[ns]Jin[nse]
-"...No problem."[pcms]
+[ns]壬[nse]
+「……いや」[pcms]
 
 *8724|
 [fc]
-It seems he left. Where to? Celesta Tower? Well, it doesn't[r]
-really matter... In fact, it's more comfortable without him[r]
-around.[pcms]
+アイツが出て行ったらしい。どこへ？　セレスタワー？[r]
+まあ、どこでもいいんだけれど……。[r]
+むしろ、いない方が気分的には快適だ。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -116,60 +114,57 @@ around.[pcms]
 
 *8725|
 [fc]
-After the meal, everyone scattered in twos and threes. I[r]
-took my place in front of the computer to gather information[r]
-online.[pcms]
+食後は三々五々、それぞれが散らばっていった。[r]
+ボクはネットで情報を得ようと、パソコンの前に陣取った。[pcms]
 
 *8726|
 [fc]
-"Mouse Kingdom's refuge annihilated" "Mouse Kingdom, the[r]
-last relay, all lost?" "Mouse Kingdom..."[pcms]
+『ネズミーキングダムの避難所が全滅』[r]
+『ネズミーキングダム、最後の中継、全滅か？』[r]
+『ネズミーキングダム……』[pcms]
 
 *8727|
 [fc]
-The top page of the news was lined with several lines about[r]
-the last broadcast from Mouse Kingdom by my father.[pcms]
+ニュースのトップページには、父さんの最後の中継、[r]
+ネズミーキングダムについてのニュースが数行並んでいた。[pcms]
 
 *8728|
 [fc]
-It's a strange feeling, but seeing it laid out as news like[r]
-this makes me realize all over again that last night's[r]
-events were real. I didn't feel like clicking; instead, I[r]
-just scrolled the mouse wheel.[pcms]
+おかしな話だけれど、こうしてニュースとして並んでいると[r]
+夕べの事が本当だったんだと、改めて思い知らされる。[r]
+クリックする気にならず、ボクはマウスのホイールを回す。[pcms]
 
 *8729|
 [fc]
-"A flock of crows moving through the metropolitan area. The[r]
-latest information is"[pcms]
+『カラスの群れ、都内を移動。その最新情報は』[pcms]
 
 [evcg storage="EV500c"][trans_c cross time=300]
 ;[eval exp="f.l_map = 22"]
 
 *8730|
 [fc]
-I click. A flock of infected crows. It's better to be aware[r]
-of their movements. I selected one from several links and[r]
-clicked on it.[pcms]
+クリックする。感染したカラスの群れ。[r]
+移動情報は知っておいたほうがいいだろう。[r]
+いくつかのリンク先からひとつを選んでクリックした。[pcms]
 
 *8731|
 [fc]
-"This is Hachioji. Just now, a flock of crows flew overhead.[r]
-They seem to be heading eastward."[pcms]
+『こちら、八王子。さきほど上空をカラスの群れが飛んだ。[r]
+　東の方角へと向かっているもよう』[pcms]
 
 ;//♂_八王子という地名、問題あるなら変更する事。その場合他の地名、方角も検討する事
 
 *8732|
 [fc]
-It seems that those who are still alive and can connect to[r]
-the internet are posting in real-time. The time stamps on[r]
-the posts could be a good reference.[pcms]
+まだ生き残っているひとでネットに繋げられるひとが[r]
+リアルタイムで書き込みをしているらしい。[r]
+書き込まれたタイムスタンプが目安になりそうだ。[pcms]
 
 *8733|
 [fc]
-Each piece of information seems to have comments attached to[r]
-it, and looking at them, you can sense the anxiety of people[r]
-hoping they don't come their way. We have a rooftop here[r]
-too, so we need to be careful.[pcms]
+情報ひとつにそれぞれコメントが付けられるようになってて、[r]
+それを見ると、自分の方へ来ないかと不安がる様子が伺える。[r]
+ここも屋上があるから、気を付けなければ。[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020a"][trans_c cross time=500]
@@ -177,73 +172,71 @@ too, so we need to be careful.[pcms]
 
 *8734|
 [fc]
-I open my emailer. There was a new email from "Pikarin" in[r]
-Ishikawa. She was safe. When I found out that PCs could be[r]
-used, I sent an email. The reply had come.[pcms]
+メーラーを開く。新着メールがあった。石川の『ぴかりん』からだ。[r]
+無事だったんだ。ＰＣが使えるとわかったとき、[r]
+メールを出しておいた。その返事が来ていた。[pcms]
 
 ;//♂_これ以前に、すでにメール以外でやりとりをしている場合は以下の文章も含めて変える事
 
 *8735|
 [fc]
-"Hello, Wataru. Thank you for the email. It's good that[r]
-we're both safe. Things are okay here too. I'm currently at[r]
-a shelter, but it's quite tough."[pcms]
+『こんにちは、ワタル。メールありがとう。[r]
+　お互い無事で良かったね。こちらもなんとか大丈夫。[r]
+　今、避難所にいるんだけれど、なかなか大変です』[pcms]
 
 *8736|
 [fc]
-"There aren't many infected people here, but because of[r]
-that, the shelter is overflowing with people, and sometimes[r]
-there are disputes. It feels like there are more and more[r]
-irritable people."[pcms]
+『感染者は少ないんだけど、そのぶん避難所は人で[r]
+　あふれかえっていて、時々もめ事が起きてます。[r]
+　苛立つひとが増えてきてる感じです』[pcms]
 
 *8737|
 [fc]
-"I'll also start a topic on the community site, so Wataru,[r]
-please leave a comment too. I've brought out my laptop, so I[r]
-think I'll be sticking around quite a bit. I'll contact you[r]
-again later. Please do the same."[pcms]
+『コミュの方にも、トピ立てておくから、ワタルも[r]
+　コメ付けてね。ノート持ちだしたから、結構張り付いて[r]
+　いると思う。じゃ、また連絡するね。ワタルも頂戴ね』[pcms]
 
 *8738|
 [fc]
-I immediately opened the SNS community. "Is everyone okay?[r]
-Roll call topic!" A topic with such a title had been[r]
-created.[pcms]
+ボクは早速ＳＮＳのコミュを開いた。[r]
+『みんな、大丈夫？　生存確認トピだよ～！』[r]
+そんな題名のトピックスが立てられていた。[pcms]
 
 *8739|
 [fc]
-Familiar names had posted several comments. "Pikarin," who[r]
-started the topic, was diligently replying to them. I[r]
-quickly left a comment as well.[pcms]
+馴染みの名前がいくつかコメントを書き込んでいる。[r]
+トピを立てた『ぴかりん』がマメに返事を書いていた。[r]
+ボクは早速コメントを書き込んでおいた。[pcms]
 
 *8740|
 [fc]
-"This is Wataru. I'm in Shibuya, surviving somehow with[r]
-friends. If there's anyone nearby, please leave a comment.[r]
-Let's get in touch and help each other out."[pcms]
+『ワタルです。渋谷で友人たちと一緒になんとか[r]
+　生き残ってます。近くの人がいたら、コメント[r]
+　付けてください。連絡取り合って協力しましょう』[pcms]
 
 *8741|
 [fc]
-I also checked other video sites and forums. There are some[r]
-updates, but not many. The view counts on video sites seem[r]
-to be increasing though.[pcms]
+他の動画サイトや掲示板も見て回る。[r]
+更新されているところもあるけれど、それほど数はない。[r]
+動画サイトの視聴回数だけは、増えているようだ。[pcms]
 
 *8742|
 [fc]
-Returning to SNS and checking the comment I wrote earlier,[r]
-"Pikarin" had already left a comment on it. Looking at the[r]
-time stamp, it seems she wrote it right after I posted mine.[pcms]
+またＳＮＳに戻って、さっき書いたコメントを見ると、[r]
+もう『ぴかりん』から、コメントが付いていた。[r]
+タイムスタンプを見たら、書き込んだ直後に書かれたらしい。[pcms]
 
 *8743|
 [fc]
-"Wataru! Thanks for the comment. It's great that we're both[r]
-safe. If you catch any information, write it here so we can[r]
-all share."[pcms]
+『ワタルーっ！　コメントありがと。[r]
+　お互い無事で良かったよね。何か情報とかキャッチしたら[r]
+　ここに書いて、みんなで共有しようね』[pcms]
 
 *8744|
 [fc]
-She really must be glued to her laptop. After my post,[r]
-several more comments had been added, and "Pikarin" had[r]
-replied to those as well.[pcms]
+本当に、ノートの前に張り付いているんだろうな。[r]
+ボクの後にも、いくつかコメントが増えていて、それにも[r]
+『ぴかりん』は、コメントを返していた。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -254,63 +247,62 @@ replied to those as well.[pcms]
 
 *8745|
 [fc]
-I was idly watching TV on the 7th floor. It's mostly the[r]
-same news, but occasionally there are emergency broadcasts[r]
-or new information comes in, so I left it on.[pcms]
+７階でＴＶをぼんやり見ながら、だらだらしていた。[r]
+だいたい同じニュースなんだけど、時々臨時ニュースや[r]
+新しい情報が入る事があるので、つけっぱなしにしていた。[pcms]
 
 *8746|
 [fc]
-[ns]Announcer[nse]
-"We have new information. The government will provide[r]
-supplies to various shelters tomorrow. In places where[r]
-landing is not possible, they will be dropped from the air."[pcms]
+[ns]アナウンサー[nse]
+「新しい情報が入りました。[r]
+　政府は明日、新たに各地の避難所に物資を支給します。[r]
+　着陸可能な場所以外は、空からの投下となるようです」[pcms]
 
 *8747|
 [fc]
-[ns]Announcer[nse]
-"Details on the timing and more will be announced later..."[pcms]
+[ns]アナウンサー[nse]
+「時間帯など詳しい話は、追ってお知らせ……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8748|
 [fc]
-[ns]Jin[nse]
-"...Hmph... Well, if we're lucky, something might be dropped[r]
-here too... Though the chances are slim."[pcms]
+[ns]壬[nse]
+「……ふん……まあ、運が良ければここにも何かしら投下[r]
+　されるかもしれねぇな……まあ、可能性は低いだろうが」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_d2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8749|
 [fc]
 [vo_mar s="maru_TE0007"]
-[ns]Margarita[nse]
-"...That's true. It's best to make do with what we have now[r]
-as much as possible."[pcms]
+[ns]マルガリータ[nse]
+「……そうだな。なるべく今あるものを利用して、遣り繰り[r]
+　するのが一番だろうな」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8750|
 [fc]
-[ns]Jin[nse]
-"Yeah..."[pcms]
+[ns]壬[nse]
+「ああ……」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8751|
 [fc]
-I felt like there were fewer broadcasts than before.[r]
-Shelters in urban areas are still being shown on TV, but I[r]
-haven't seen any from rural areas today.[pcms]
+中継がだいぶん減った気がしていた。[r]
+都市部の避難所は、まだその様子が放映されるけれど。[r]
+地方からの中継は、今日はまだ一度も見ていなかった。[pcms]
 
 *8752|
 [fc]
-Jin-san and Maruko-senpai were standing apart from each[r]
-other but both were crossing their arms and glaring at the[r]
-TV screen.[pcms]
+壬さんとマル子先輩は、離れて立っているけれど、ふたりとも[r]
+腕組みをして、ＴＶ画面を睨んでいた。[pcms]
 
 *8753|
 [fc]
-I wonder where Kousuke and Mizuki are...[pcms]
+そういえば……コースケと瑞樹は、どこにいるんだろう。[pcms]
 
 ;//暗転
 
@@ -322,37 +314,38 @@ I wonder where Kousuke and Mizuki are...[pcms]
 *8754|
 [fc]
 [vo_miz s="mizuki_TE0003"]
-[ns]Mizuki[nse]
-"Ahhhh!! Kousuke, it's amazing. Right up to my womb... it's[r]
-tingling... Ahh ahhh so good! Your cock... Ahh ah, it feels[r]
-so good!"[pcms]
+[ns]瑞樹[nse]
+「あいいいっ！！　コースケ、凄いよぉ。子宮の……子宮の[r]
+　奥まで、ジンジンしちゃ……あっあああっいいぃぃっ！[r]
+　コースケのチンコ……あっぁあっ、気持ちいいよぉぉ！」[pcms]
 
 *8755|
 [fc]
 [vo_miz s="mizuki_TE0004"]
-[ns]Mizuki[nse]
-"It's hitting me deep inside, pounding... Ahh so good! It's[r]
-hot... Ahh ahh so good! Ahh!"[pcms]
+[ns]瑞樹[nse]
+「当たるぅ、奥に、ずんずん……当た……あっいいっいっ！[r]
+　熱いよぉっ、あっつうぅ……はああっあっいいっ！　あいっ」[pcms]
 
 *8756|
 [fc]
 [vo_miz s="mizuki_TE0005"]
-[ns]Mizuki[nse]
-"Kousuke, Kousuke, cum inside me, please cum inside me, I'm[r]
-going to... Ahh ahh so good! I'm cumming... Uahh! Kousuke,[r]
-no I'm cumming... Ahh!"[pcms]
+[ns]瑞樹[nse]
+「コースケ、コースケぇ、出して、出してえ、あたし、[r]
+　あたしぃ、も、もうイっ……ああっああいいっ、イッちゃ、[r]
+　うああっ！　コースケ、だめぇイっちゃうぅ……あいいっ」[pcms]
 
 *8757|
 [fc]
 [vo_miz s="mizuki_TE0006"]
-[ns]Mizuki[nse]
-"Cum inside me, fill up my pussy... Ahh! Cumming, cumming![r]
-I'm cumming! Cummingggggg! Ahhhhh so good!!!"[pcms]
+[ns]瑞樹[nse]
+「出してぇ、いっぱいぃ、あたしのアソ……コぉにぃっっ！[r]
+　ああっ、イっ、イっちゃ、イくぅ、イくぅ、イっちゃ！[r]
+　イくううううぅぅぅぅぅっ、あああいいいいいっっ！！！」[pcms]
 
 *8758|
 [fc]
-[ns]Kousuke[nse]
-"Ugh uooooh!"[pcms]
+[ns]浩助[nse]
+「うっうぉぉぉぉっ！」[pcms]
 
 ;//#_ホワイトフラッシュ
 ;//〆HEV038
@@ -362,8 +355,8 @@ I'm cumming! Cummingggggg! Ahhhhh so good!!!"[pcms]
 *8759|
 [fc]
 [vo_miz s="mizuki_TE0007"]
-[ns]Mizuki[nse]
-"Ahh so much... Kousuke's cumming inside..."[pcms]
+[ns]瑞樹[nse]
+「あいいっ、いっぱい、コースケの……出てるぅぅ……」[pcms]
 
 
 ;システムボタン＆ウィンドウ消去
@@ -386,9 +379,9 @@ I'm cumming! Cummingggggg! Ahhhhh so good!!!"[pcms]
 
 *8760|
 [fc]
-I woke up early. I thought about going back to sleep but[r]
-felt hungry and decided to go up to the 7th floor first[r]
-thing.[pcms]
+早い時間に目が覚めてしまった。[r]
+二度寝をしようかとも思ったけれど、空腹感を憶えて[r]
+取り敢えず７階に行ってみようと、ボクは部屋を出た。[pcms]
 
 ;//★_LESER　７階
 [bg storage="BG019a"][trans_c cross time=500]
@@ -396,9 +389,9 @@ thing.[pcms]
 
 *8761|
 [fc]
-I looked around the kitchen for something easy to eat.[r]
-Hoping for some leftovers from last night. The sky visible[r]
-from the dome was already beginning to lighten.[pcms]
+何か簡単に口に入るものはないかと、厨房を見渡す。[r]
+夕べの残り物でもあればと、思ったのだ。[r]
+ドームから見える空は、もう明け始めていた。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -415,9 +408,9 @@ from the dome was already beginning to lighten.[pcms]
 *8762|
 [fc]
 [vo_yuh s="yuho_TE0019"]
-[ns]Yuuho[nse]
-"Hey---!! Come over here too---!! I'm right here---!! Give[r]
-me something---!"[pcms]
+[ns]悠帆[nse]
+「おーーーいっ！！　こっちにも来てよーーっ！！[r]
+　ここにいるよーーーっ！！　何かちょーーだいーー！」[pcms]
 
 ;//★_空あるいは遠景
 [bg storage="BGS008a"][trans_c cross time=500]
@@ -425,16 +418,15 @@ me something---!"[pcms]
 
 *8763|
 [fc]
-It must be over Miyanosaka in the sky. A military helicopter[r]
-is hovering. It's not clear from here, but they're probably[r]
-dropping supplies as mentioned in the news.[pcms]
+三宿の上空あたりだろうか。軍用ヘリがホバリングしている。[r]
+ハッキリとは見えないけれど、たぶんニュースで言っていた[r]
+物資を投下しているんだろう。[pcms]
 
 *8764|
 [fc]
-Noises of engines aren't just coming from Miyanosaka; there[r]
-seem to be transport planes and aircraft flying around in[r]
-various places. Yuuho is waving her hands and shouting but[r]
-it probably won't reach them.[pcms]
+三宿の方からだけでなく、他からもエンジン音がしている。[r]
+あちこちで輸送機や航空機が何機も飛んでいるようだ。[r]
+悠帆は手を振って叫んでいるけれど、たぶん届かないだろう。[pcms]
 
 ;//★_渋谷街中
 ;//@konya 渋谷駅前
@@ -446,39 +438,38 @@ it probably won't reach them.[pcms]
 *8765|
 [fc]
 [vo_mob s="tomomi_TE0001"]
-[ns]Tomomi[nse]
-"..."[pcms]
+[ns]朋美[nse]
+「……」[pcms]
 
 *8766|
 [fc]
-Perhaps drawn by the sound of the transport plane, or maybe[r]
-by Yuuho's voice, Tomomi appeared from somewhere, looking up[r]
-at the sky and then firmly gazing at the rooftop of the[r]
-building.[pcms]
+輸送機の音に誘われたのだろうか。それとも、神凪悠帆の声に[r]
+だろうか。ふらふらとどこからか現れた朋美は、空を見上げ[r]
+そのあと、しっかりとビルの屋上を見つめていた。[pcms]
 
 [evcg storage="evs002"][trans_c cross time=300]
 ;[eval exp="f.l_map = 5"]
 
 *8767|
 [fc]
-[ns]Infected Man C[nse]
-"Meat, meeeaaat."[pcms]
+[ns]感染者・男Ｃ[nse]
+「にくうううう、にくううううう」[pcms]
 
 *8768|
 [fc]
-[ns]Infected Man D[nse]
-"Wo-man, woooo-man."[pcms]
+[ns]感染者・男Ｄ[nse]
+「お、おんなあああああ、おんなああああああ」[pcms]
 
 *8769|
 [fc]
-[ns]Infected Man E[nse]
-"I'm so hungry. Meat, woman."[pcms]
+[ns]感染者・男Ｅ[nse]
+「はぁらあへったあああぁぁ。にぃくう、おんなぁああ」[pcms]
 
 *8770|
 [fc]
-Behind Tomomi, a group of infected people appeared. Perhaps[r]
-they were drawn out by the noisy sky or had been hiding[r]
-somewhere.[pcms]
+朋美の後ろからぞろぞろと感染者が現れた。[r]
+騒がしくなった空の様子に触発されて、潜んでいた[r]
+どこかから出てきたのかもしれない。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -492,339 +483,329 @@ somewhere.[pcms]
 *8771|
 [fc]
 [vo_mar s="maru_TE0019"]
-[ns]Margarita[nse]
-"I was able to gather a bit of information, so I'd like[r]
-everyone to listen. Sorry to ask, but please spare me some[r]
-time."[pcms]
+[ns]マルガリータ[nse]
+「少しだが、情報を得る事ができたので、みんなに聞いて[r]
+　もらいたいと思う。すまないが、少し時間を割いてくれ」[pcms]
 
 *8772|
 [fc]
-After the meal, Maruko-senpai broached the subject. Jin-san,[r]
-Kousuke, and Mizuki sat back down as they were about to[r]
-leave, and Yuuho and Ren, who were about to start cleaning[r]
-up, also took their seats.[pcms]
+食事が終わった時点で、そうマル子先輩が切り出した。[r]
+席を立ちかけていた、壬さん、コースケ、瑞樹が座り直し[r]
+片付けをしようとしていた悠帆、漣も席に着いた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8773|
 [fc]
 [vo_mar s="maru_TE0020"]
-[ns]Margarita[nse]
-"I've been in contact with Sesuka at the Mishuku garrison.[r]
-As a result, we have a slight understanding of the situation[r]
-outside here, and I've also obtained other information that[r]
-I think we should discuss."[pcms]
+[ns]マルガリータ[nse]
+「三宿駐屯地にいるセスカと連絡を取り合った。その結果、[r]
+　ここ以外の様子が若干だがわかったし、他の情報も手に[r]
+　入れたので、話しておこうと思う」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8774|
 [fc]
 [vo_mar s="maru_TE0021"]
-[ns]Margarita[nse]
-"Firstly, regarding today's supplies, it seems that Mishuku[r]
-received a reasonable amount of replenishment. However, it's[r]
-still not sufficient and only a temporary measure. In other[r]
-words, it's not a fundamental solution."[pcms]
+[ns]マルガリータ[nse]
+「まず今日あった物資だが、三宿においてはそれなりに補給が[r]
+　あったらしい。だが、それでも十二分ではなく、暫定的な[r]
+　量でしかないらしい。つまり、根本的解決には至ってない」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8775|
 [fc]
 [vo_mar s="maru_TE0022"]
-[ns]Margarita[nse]
-"It means that we don't have enough supplies to live in[r]
-shelters for an extended period. It seems there are also[r]
-small, isolated shelters scattered around besides us."[pcms]
+[ns]マルガリータ[nse]
+「この先長期間、避難所で暮らしていけるほどの量ではないと[r]
+　いう事だ。ワタシたち以外にも、少人数の、小さな孤立した[r]
+　避難所もあちこちに点在しているらしい」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8776|
 [fc]
 [vo_mar s="maru_TE0023"]
-[ns]Margarita[nse]
-"There are calls for help through the net and such, but not[r]
-all can be answered, and it's difficult to replenish[r]
-supplies. Is everyone okay up to here?"[pcms]
+[ns]マルガリータ[nse]
+「ネットなどを通じて、救援要請があるそうだが、全てに[r]
+　応えられていないし、物資の補給も難しい状況だそうだ。[r]
+　ここまでは、いいか？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8777|
 [fc]
-[ns]Jin[nse]
-"...Yeah."[pcms]
+[ns]壬[nse]
+「……ああ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a6"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8778|
 [fc]
 [vo_mar s="maru_TE0024"]
-[ns]Margarita[nse]
-"There are efforts to rescue those isolated shelters by[r]
-assigning personnel and recruiting volunteer units. However,[r]
-there are units that haven't returned..."[pcms]
+[ns]マルガリータ[nse]
+「人員を割いたり、志望を募った部隊が中心になって、その[r]
+　孤立した避難場所に救出に出かけたりはしているそうだ。[r]
+　だが、戻ってこない部隊もあるらしい……」[pcms]
 
 *8779|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a23"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8780|
 [fc]
 [vo_mar s="maru_TE0025"]
-[ns]Margarita[nse]
-"Today, the unit that headed for Celesta Tower for rescue[r]
-has lost contact and is missing..."[pcms]
+[ns]マルガリータ[nse]
+「今日、セレスタワーに救援に向かった部隊も、連絡が[r]
+　途絶え、消息不明になっているそうだ……」[pcms]
 
 *8781|
 [fc]
-Celesta Tower? The thought of Shigeyoshi who had left[r]
-crossed my mind, and I glanced at Jin-san. But Jin-san[r]
-seemed indifferent, showing no change in expression.[pcms]
+セレスタワー？　ボクは出て行った重吉のことが頭に[r]
+浮かび、ちらっと壬さんを見た。でも、壬さんはまるで関心が[r]
+ないかのようで、その表情から変化は読み取れなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8782|
 [fc]
-[ns]Jin[nse]
-"...What's wrong? Continue."[pcms]
+[ns]壬[nse]
+「……どうした、続けろ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8783|
 [fc]
 [vo_mar s="maru_TE0026"]
-[ns]Margarita[nse]
-"...Yes. Inside the shelters, there are people demanding the[r]
-provision of weapons. Indeed, even within shelters, it's not[r]
-completely safe. I understand the desire to defend oneself."[pcms]
+[ns]マルガリータ[nse]
+「……ああ。避難所の中には、武器の供与を要求する人々も[r]
+　現れているらしい。まあ確かにたとえ避難所内でも完全に[r]
+　安全ではないからな。自衛したいという気持ちはわかる」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8784|
 [fc]
 [vo_mar s="maru_TE0027"]
-[ns]Margarita[nse]
-"But we can't just hand over weapons, especially to[r]
-amateurs. There have been increasing disputes over whether[r]
-to give weapons or not."[pcms]
+[ns]マルガリータ[nse]
+「だが、おいそれと武器を渡せるわけがない。[r]
+　ましてや素人に。ここのところ、渡せ渡さないのもめ事が[r]
+　起きる回数が増えているそうだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8785|
 [fc]
 [vo_mar s="maru_TE0028"]
-[ns]Margarita[nse]
-"With that in mind, there's a proposal to use the large-[r]
-scale underground drainage system connected to Mishuku's[r]
-underground shelter 246 for escape."[pcms]
+[ns]マルガリータ[nse]
+「それを踏まえた上で、一部では避難所、三宿の地下で[r]
+　繋がっている２４６の地下大規模共同溝を使って[r]
+　脱出できないかという案が出ているそうだ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8786|
 [fc]
 [vo_yuh s="yuho_TE0020"]
-[ns]Yuuho[nse]
-"So you mean there's a possibility that we can all escape[r]
-together like we made it here?"[pcms]
+[ns]悠帆[nse]
+「ここにたどり着いたみたいに、みんなで脱出できる[r]
+　可能性があるってことですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8787|
 [fc]
 [vo_mar s="maru_TE0029"]
-[ns]Margarita[nse]
-"Hmm. There is a possibility. The drainage system is[r]
-interconnected in various sizes and if navigated correctly,[r]
-one could traverse Tokyo without emerging above ground."[pcms]
+[ns]マルガリータ[nse]
+「うむ。可能性としてはある。共同溝は、大小あるが、縦横に[r]
+　繋がっていて、上手くすれば地上に出ないで都内を横断する[r]
+　事ができるそうだ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *8788|
 [fc]
 [vo_ren s="ren_TE0013"]
-[ns]Ren[nse]
-"Then maybe we could also get out from here."[pcms]
+[ns]漣[nse]
+「じゃあ、もしかしたら私たちもここから出られるのかしら」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8789|
 [fc]
 [vo_mar s="maru_TE0030"]
-[ns]Margarita[nse]
-"There is a possibility. But there are problems. We are few[r]
-in number. However, shelters are gathering thousands of[r]
-people. Basically, the only way to move underground is on[r]
-foot."[pcms]
+[ns]マルガリータ[nse]
+「可能性はある。だが、問題もある。ワタシたちは少人数だ。[r]
+　だが、避難所は数千人の規模で人が集まっている。[r]
+　基本的に、地下は徒歩で移動するしか手段がない」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8790|
 [fc]
 [vo_mar s="maru_TE0031"]
-[ns]Margarita[nse]
-"In this humid season, it's nearly impossible to move[r]
-thousands of people safely underground. Therefore, it's[r]
-being discussed as a 'last resort plan'."[pcms]
+[ns]マルガリータ[nse]
+「この蒸し暑い時期に、数千人単位で地下を安全に移動[r]
+　できるのかというと、ほぼ不可能だろう。[r]
+　だから『万一のプラン』として話に上っているそうだ」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a15"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8791|
 [fc]
 [vo_yuh s="yuho_TE0021"]
-[ns]Yuuho[nse]
-"I see... Even if we try to move in small groups... issues[r]
-like who goes first or whether it's safe for small groups[r]
-might arise..."[pcms]
+[ns]悠帆[nse]
+「そっかあ……少人数で移動させようとしても……誰が先に[r]
+　行くかとか、少人数で大丈夫なのかとか、色々問題が[r]
+　起きそうな気もするね……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8792|
 [fc]
 [vo_mar s="maru_TE0032"]
-[ns]Margarita[nse]
-"That's right. Considering our current environment, the[r]
-situation here, what we can use, and our food supply, it[r]
-seems better not to hastily move to a shelter but to stay[r]
-put as much as possible."[pcms]
+[ns]マルガリータ[nse]
+「そういうことだ。今のワタシたちの環境、ここの状況や[r]
+　使えるもの、食料を考えると、ヘタに避難所に移動しようと[r]
+　思わずに、可能な限り留まったほうがいいように思える」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8793|
 [fc]
-[ns]Jin[nse]
-"What happens to us if those in the shelters manage to[r]
-escape successfully?"[pcms]
+[ns]壬[nse]
+「避難所の連中が、まんまと脱出に成功した場合、オレらは[r]
+　どうなる？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8794|
 [fc]
 [vo_mar s="maru_TE0033"]
-[ns]Margarita[nse]
-"If the last resort plan is executed and they manage to[r]
-escape successfully, they will come for us. Definitely.[r]
-Right now, it's difficult to make arrangements within the[r]
-shelter due to various circumstances."[pcms]
+[ns]マルガリータ[nse]
+「万が一プランを実行して、脱出が成功した場合は迎えに来る。[r]
+　確実に。今は避難所内のあれこれで中々融通が[r]
+　利かないらしいのだ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8795|
 [fc]
 [vo_mar s="maru_TE0034"]
-[ns]Margarita[nse]
-"But if they escape, knowing Sesuka, she will come to pick[r]
-us up early on. When that time comes, we can all escape from[r]
-here. Probably arrangements like helicopters can be made."[pcms]
+[ns]マルガリータ[nse]
+「だが脱出すれば、セスカのことだ。早い時点で迎えに来る。[r]
+　その時は、みんなでここから脱出すればよい。[r]
+　たぶんヘリとか手配できるはずだから」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a1"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *8796|
 [fc]
 [vo_ren s="ren_TE0014"]
-[ns]Ren[nse]
-"Maybe it's better not to move from here after all. That's[r]
-what I think. Onii- chan, what do you think?"[pcms]
+[ns]漣[nse]
+「やっぱりここを動かない方がいいのかも。私はそう思うな。[r]
+　お兄ちゃんは、どう思う？」[pcms]
 
 *8797|
 [fc]
-[ns]Wataru[nse]
-"Yeah... I think so too. We haven't checked how much food we[r]
-have or how long we can stay holed up here yet, but at least[r]
-for now it seems better to stay put and watch how things[r]
-unfold."[pcms]
+[ns]航[nse]
+「うん……ボクもそう思うな。食料とか、あとどのくらい[r]
+　ここに篭もっていられるか確認してないけど、少なくとも[r]
+　当分は動かないで様子を見た方がいいように思う」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_a7"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8798|
 [fc]
 [vo_yuh s="yuho_TE0022"]
-[ns]Yuuho[nse]
-"I also think it's better to stay here for now. It's not[r]
-like I don't have any worries but... yeah."[pcms]
+[ns]悠帆[nse]
+「わたしも、今の所はここにいたほうがいいと思う。[r]
+　不安が無いわけじゃないけど……ね」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c11"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *8799|
 [fc]
-[ns]Kousuke[nse]
-"I'll follow everyone's opinion. I'm not good with[r]
-complicated stuff. But if you tell me to work, I'll do it[r]
-properly and do whatever I can on my own."[pcms]
+[ns]浩助[nse]
+「オレは、みんなの意見に従うよ。小難しいことは苦手だ。[r]
+　その代わり、働けってんならきっちり動くし、自分で[r]
+　できる事は、なんだってするよ」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b3"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *8800|
 [fc]
 [vo_miz s="mizuki_TE0010"]
-[ns]Mizuki[nse]
-"I... will follow Kousuke... Jin, Jin will stay with[r]
-everyone too... that's okay, right?"[pcms]
+[ns]瑞樹[nse]
+「あたしは……コースケに従う……ジン、ジンもみんなと[r]
+　一緒で……それでいいよね？」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8801|
 [fc]
-[ns]Jin[nse]
-"...Understood. I agree as well. Is there more to discuss?"[pcms]
+[ns]壬[nse]
+「……了解した。オレも同意する。話の続きはあるのか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8802|
 [fc]
 [vo_mar s="maru_TE0035"]
-[ns]Margarita[nse]
-"No, that's about it for today. As we get information, let's[r]
-share it with everyone. Let's gather for meals and if anyone[r]
-gets information like today, we'll talk after eating."[pcms]
+[ns]マルガリータ[nse]
+「いや、今日現在はこのぐらいだ。情報は得られ次第、[r]
+　みんなで共有しよう。食事には全員集まって、誰でも[r]
+　情報を得た場合には、今日のように食後に話をする」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8803|
 [fc]
 [vo_mar s="maru_TE0036"]
-[ns]Margarita[nse]
-"I'd like us to have these meeting times."[pcms]
+[ns]マルガリータ[nse]
+「そういうミーティングの時間を持ちたいと思う」[pcms]
 
 *8804|
 [fc]
-Everyone agreed and began moving on to their next[r]
-activities.[pcms]
+みんなが同意し、それぞれが次の行動に移ろうとした。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8805|
 [fc]
 [vo_mar s="maru_TE0037"]
-[ns]Margarita[nse]
-"Ah, Ayase, Kousuke. When it gets a bit cooler later on,[r]
-let's practice shooting as promised. Come up to the rooftop[r]
-later."[pcms]
+[ns]マルガリータ[nse]
+「あ、アヤセ、コースケ。もう少し涼しくなったら、[r]
+　約束していた銃の練習をしよう。あとで屋上に上がって[r]
+　きてくれ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *8806|
 [fc]
-[ns]Kousuke[nse]
-"Oh, got it~. So until then... Mizuki, what will you do?"[pcms]
+[ns]浩助[nse]
+「お、了解～。じゃあ、それまでは……瑞樹、どうする？」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *8807|
 [fc]
 [vo_miz s="mizuki_TE0011"]
-[ns]Mizuki[nse]
-"Hmm... I want to go down to the shop for a bit~"[pcms]
+[ns]瑞樹[nse]
+「んーと……下のお店にちょっと行きたいなあ～」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8808|
 [fc]
-Kousuke and Mizuki stood up together while Ren and Yuuho[r]
-went off to clean up; Jin-san had disappeared from his seat[r]
-without anyone noticing. I decided to turn towards the PC in[r]
-hopes of finding some information.[pcms]
+連れ立って席を立つコースケと瑞樹。漣と悠帆は後片付けをしに、[r]
+壬さんは、気が付いたら席にいなかった。[r]
+ボクは、何か情報を得ようと、ＰＣに向かうことにした。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -835,64 +816,61 @@ hopes of finding some information.[pcms]
 
 *8809|
 [fc]
-"So that's how it is. Wataru couldn't make it either. We[r]
-didn't get any supplies here either. It almost caused a fuss[r]
-since they said there would be on the news."[pcms]
+『そうなんだ。ワタルの方も無理だったのね。[r]
+　こっちも、物資の補給はなかったのよ。ニュースで[r]
+　言ってたのにって、騒ぎになりかけた』[pcms]
 
 *8810|
 [fc]
-It seems like "Pikarin" is really glued in front of her[r]
-notebook. Well, there isn't much one can do in a shelter[r]
-anyway; most people are probably just idling away their[r]
-time.[pcms]
+本当に『ぴかりん』は、ノートの前に張り付いているらしい。[r]
+まあ避難所で何かできる事と言っても、そんなにないだろうし[r]
+大概のひとがだらだらと過ごしているだけだろう。[pcms]
 
 *8811|
 [fc]
-As soon as I posted a comment on the SNS topic, a comment[r]
-from "Pikarin" followed almost immediately. It was timed[r]
-just right with a few presses of F5 for reload.[pcms]
+ＳＮＳのトピにコメントを書き込むと、ほとんどすぐに[r]
+『ぴかりん』からのコメントが付いていた。[r]
+Ｆ５を何回か押してリロードさせるだけで付くタイミング。[pcms]
 
 *8812|
 [fc]
-It was as if we were chatting; Pikarin and I were having a[r]
-casual conversation through our comments.[pcms]
+まるで、チャットでもしているように、ボクと『ぴかりん』は[r]
+コメントの応酬で雑談をしていた。[pcms]
 
 *8813|
 [fc]
-"By the way, the Perseid meteor shower is about to end too.[r]
-I missed it this year. I thought I'd catch it after its peak[r]
-day passed by. How about you Wataru?"[pcms]
+『そういえば、ペルセウス流星群もそろそろ終わりよね。[r]
+　今年は見損ねちゃった。極大日を逃したからその後で[r]
+　って思ってたんだけど。ワタルは、どう？』[pcms]
 
 *8814|
 [fc]
-I missed it too. Even the camp we had planned fell through[r]
-on the day itself. I wanted to see the meteor shower but[r]
-that wasn't possible anymore. Can we still see some shooting[r]
-stars? Maybe just a little.[pcms]
+ボクも見損ねていた。計画していた合宿でさえ当日に頓挫した[r]
+んだ。流星群も見たかったけれど、それどころではなかった。[r]
+まだ、見られるだろうか。少しは星が流れるのを。[pcms]
 
 *8815|
 [fc]
-"Wataru too, huh? Yeah, it makes sense since it's the season[r]
-for it. It's stressful not being able to casually look up at[r]
-the sky at night in the shelter."[pcms]
+『ワタルもかあ。そうよねえ、時期的に被ってるものね。[r]
+　避難所じゃ夜においそれと空を見上げられないから、[r]
+　ストレス溜まってきちゃってるわ～』[pcms]
 
 *8816|
 [fc]
-"Well, we're approaching the season when the night sky[r]
-clears up, and there's the Draconids and the Leonids to look[r]
-forward to. Hopefully, we'll be out of the shelter by[r]
-then..."[pcms]
+『まあ、これから夜空が澄んで来る時期に、ジャコビニや[r]
+　獅子座があるから、そっちに期待しようかなって。[r]
+　それまでに、避難所生活が終わってればいいんだけど……』[pcms]
 
 *8817|
 [fc]
-There's still time until the Draconids and Leonids meteor[r]
-showers. Will we be able to return to a normal life by then?[r]
-The vague anxiety of not seeing the future.[pcms]
+ジャコビニや獅子座流星群の時期まではまだ間がある。[r]
+それまでにまともな生活に戻っていられるだろうか。[r]
+先が見えないという漠然とした不安。[pcms]
 
 *8818|
 [fc]
-I felt once again that both "Pikarin" and I were harboring[r]
-the same anxieties, even though we were far apart.[pcms]
+ボクも『ぴかりん』も、離れた場所で同じ不安を抱えていると[r]
+改めて感じていた。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -915,20 +893,20 @@ the same anxieties, even though we were far apart.[pcms]
 
 *8819|
 [fc]
-I woke up early again. When I went up to the 7th floor, I[r]
-could hear Maruko- senpai's voice from outside the dome.[pcms]
+また早く目が覚めてしまった。７階に来てみると、ドームの[r]
+外からマル子先輩の声が聞こえてきた。[pcms]
 
 *8820|
 [fc]
 [vo_mar s="maru_TE0071"]
-[ns]Margarita[nse]
-"Haah!! Yaaah!! Sei!!"[pcms]
+[ns]マルガリータ[nse]
+「ハあっ！！　ィヤああっ！！　セいっ！！」[pcms]
 ;//♂_声のみ
 
 *8821|
 [fc]
-She must be exercising... I envy the strength of my senior[r]
-who doesn't change her lifestyle no matter what happens.[pcms]
+運動でもしているんだろう……。[r]
+何があっても自分の生活を変えない、先輩の強さが羨ましい。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -939,31 +917,29 @@ who doesn't change her lifestyle no matter what happens.[pcms]
 
 *8822|
 [fc]
-After leaving the TV on, everyone gathered for breakfast.[r]
-Rice with miso soup, pickles, nori, and fried eggs. It was[r]
-enough to fill our stomachs, even though Ren said it was[r]
-just this much.[pcms]
+ＴＶをつけたまま、みんなで朝食を取る。ご飯に味噌汁。[r]
+浅漬けに海苔と目玉焼き。お腹を満たすには充分な量だ。[r]
+これだけなんて漣は言っていたけれど。[pcms]
 
 *8823|
 [fc]
-[ns]Announcer[nse]
-"According to the government's announcement, the first wave[r]
-of supply drops has almost concluded. It seems that large[r]
-shelters have received supplies, but smaller shelters have[r]
-not been fully reached."[pcms]
+[ns]アナウンサー[nse]
+「政府の発表に寄りますと、物資投下の第一波は、ほぼ終了[r]
+　したもようです。大きな避難所には行き渡ったようですが、[r]
+　小規模の避難所にまでは、行き届かなかったようです」[pcms]
 
 *8824|
 [fc]
-[ns]Announcer[nse]
-"When the next one will be is still undecided, and we will[r]
-inform you as soon as an announcement is made... Repeating,[r]
-we will inform you..."[pcms]
+[ns]アナウンサー[nse]
+「次がいつになるかは、まだ未定との事で、発表が[r]
+　有り次第、お伝えします……。[r]
+　繰り返して、お伝え……」[pcms]
 
 *8825|
 [fc]
-The live broadcast from the shelter seemed to have been[r]
-discontinued. The announcer repeated only the necessary news[r]
-several times before switching to a standby screen.[pcms]
+避難所からの中継は、どうやらそのコーナー自体が[r]
+なくなったようだ。アナウンサーが必要なニュースだけを[r]
+何回か繰り返して放送すると、すぐ待機画面になっていた。[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020a"][trans_c cross time=500]
@@ -971,22 +947,20 @@ several times before switching to a standby screen.[pcms]
 
 *8826|
 [fc]
-"There were supplies, but it seems there weren't many.[r]
-There's been an increase in disputes here too. By the way,[r]
-there are fewer comments from other people now."[pcms]
+『補給はあったんだけど、少なかったみたい。[r]
+　またもめ事が増えてきてるよ、こっちは。[r]
+　そう言えば、他のひとのコメも少なくなったね』[pcms]
 
 *8827|
 [fc]
-The post-breakfast routine of exchanging comments with[r]
-"Pikarin" that resembled chatting. Indeed, the number of[r]
-comments had decreased.[pcms]
+朝食後の日課と化している『ぴかりん』とのチャットもどきの[r]
+コメの付け合い。確かにコメントの数は減ってきていた。[pcms]
 
 *8828|
 [fc]
-I didn't want to think about the reasons too much. I hoped[r]
-it was simply because people couldn't use their PCs all the[r]
-time or their mobiles weren't connecting, as I discussed[r]
-with "Pikarin."[pcms]
+理由はあまり考えたくない。単純にＰＣを常時使えないとか[r]
+携帯がつながらないとかだといいなと、『ぴかりん』と[r]
+話していた。[pcms]
 
 ;//★_LESER　７階
 [bg storage="BG019a"][trans_c cross time=500]
@@ -1004,10 +978,9 @@ with "Pikarin."[pcms]
 
 *8829|
 [fc]
-The sound of a violin could be heard. Ren was practicing in[r]
-her school uniform in the dome with good acoustics. I[r]
-thought about speaking to her but decided against it. Jin-[r]
-san was sitting right in front of her, listening intently.[pcms]
+バイオリンの音色が聞こえていた。漣は制服姿で、音響の良い[r]
+ドームで練習をしていた。声をかけようかと思ったが、[r]
+やめた。壬さんが真正面に座りじっと聞き入っている。[pcms]
 
 [bg storage="BG019a"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
@@ -1015,16 +988,15 @@ san was sitting right in front of her, listening intently.[pcms]
 
 *8830|
 [fc]
-Jin-san seemed to be listening with his eyes closed and arms[r]
-crossed. At first, he seemed quite intimidating and[r]
-unapproachable, with an aura that seemed to reject others.[pcms]
+壬さんは腕組みをしたままで目をつぶり聴いているようだ。[r]
+最初は何とも恐そうで、取っつきにくい感じがしていた。[r]
+近付くことを拒否するような雰囲気。[pcms]
 
 *8831|
 [fc]
-But after living together for a few days, I found him much[r]
-more approachable than Shigeyoshi, and I got used to Jin-[r]
-san's reactions. It felt like Jin-san was gradually fitting[r]
-in too.[pcms]
+でも、数日生活を共にして、あの重吉よりはずっと[r]
+話が通じるし、壬さん自身の反応にもだいぶん慣れた。[r]
+壬さんも少しずつ馴染んできている気がしていた。[pcms]
 
 ;//SE停止(2秒でF.O.)
 ;[stopse buf=0]
@@ -1041,22 +1013,22 @@ in too.[pcms]
 
 *8832|
 [fc]
-[ns]Infected Man A[nse]
-"Uuuuuu, meat... meat..."[pcms]
+[ns]感染者・男Ａ[nse]
+「うううううう、にくう……にくう……」[pcms]
 
 [ChrSetEx layer=5 chbase="tomomi_a2"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *8833|
 [fc]
 [vo_mob s="tomomi_TE0002"]
-[ns]Tomomi[nse]
-"..."[pcms]
+[ns]朋美[nse]
+「……」[pcms]
 
 *8834|
 [fc]
-It was that child. He had a slightly different aura from the[r]
-others and was easy to recognize even from a distance. He[r]
-was still wandering around here, looking up at us.[pcms]
+あの子だ。他のヤツラと似ているが少し違う雰囲気。[r]
+遠目でもすぐにわかった。ここらへんをまだうろうろして[r]
+いたんだ。あの子はこちらを見上げていた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1071,68 +1043,75 @@ was still wandering around here, looking up at us.[pcms]
 *8835|
 [fc]
 [vo_miz s="mizuki_TE0013"]
-[ns]Mizuki[nse]
-"Aaah! That feels good, Kousuke. Your dick inside my[r]
-pussy... ah, yes, amazing, so good... ahhh!"[pcms]
+[ns]瑞樹[nse]
+「あああっ。いいっ、気持ちいいよ、コースケぇ。[r]
+　コースケのチンポ、あたしのアソコに挿れてもら……って、[r]
+　あっ、いいっ、凄い、すご……あいいっ、いいっああっ！」[pcms]
 
 *8836|
 [fc]
-[ns]Kousuke[nse]
-"Ugh... Mizuki, your pussy is so wet. Come on, tighten up[r]
-more. Mizuki, come on!"[pcms]
+[ns]浩助[nse]
+「うっ……瑞樹、凄いよ、マンコぐちゃぐちゃだ。[r]
+　ほら、ほらっ、もっと締めろ。瑞樹、ほらっ！」[pcms]
 
 *8837|
 [fc]
 [vo_miz s="mizuki_TE0014"]
-[ns]Mizuki[nse]
-"Aiiii!! Nhiyah! Yessss!! Ahh! More, more Kousuke, fill me[r]
-up... thrust harder... nhahh, ahh!"[pcms]
+[ns]瑞樹[nse]
+「あいいっっ！！　んひあっ！　いいいいっ！！　ああっ！[r]
+　もっとぉ、もっとおコースケ、いっぱい、いっぱ……いっ[r]
+　突いてえ、突いて……んはあっ、ああっひいっっいいっ！」[pcms]
 
 *8838|
 [fc]
 [vo_miz s="mizuki_TE0015"]
-[ns]Mizuki[nse]
-"Naaaah! Amazing, it's so hot! My pussy is so hot... feels[r]
-so good... ahiiii! Kousuke's cock, rub it more... eeeeh!"[pcms]
+[ns]瑞樹[nse]
+「んあああっ！　すごっ、熱いぃいっ！　あたしの、アソコぉ[r]
+　あっ熱っ……いいっよぉおっ、あひいいっんひぃいああっ！[r]
+　コースケのチンコ、チンコぉ、もっと擦っ……てええぇぇっ」[pcms]
 
 *8839|
 [fc]
-[ns]Kousuke[nse]
-"Woahhh. Damn, Mizuki's pussy is clinging onto mine... More[r]
-of that, more, come on Mizuki. More of that. Come on!!"[pcms]
+[ns]浩助[nse]
+「うぉおお。すっげえ、瑞樹のマンコ、オレのに吸い付く……[r]
+　もっとだ、もっと、ほらっ、瑞樹。もっとだっ。ほらっ！！」[pcms]
 
 *8840|
 [fc]
 [vo_miz s="mizuki_TE0016"]
-[ns]Mizuki[nse]
-"Aaah! Aaah! Aaah! My dirty pussy wants more, fill it up![r]
-Thrust harder, thrust harder... ahhhh!"[pcms]
+[ns]瑞樹[nse]
+「ああっああっああっんぁああっ！！　いいっ、あたしの、[r]
+　あたしのやらしいアソコ、もっといっぱい、いっぱいっ！[r]
+　突いて、突いて突いてぇ、ああっああああんっああひぃい」[pcms]
 
 *8841|
 [fc]
 [vo_miz s="mizuki_TE0017"]
-[ns]Mizuki[nse]
-"Drooling... my pussy is so hot, it's melting! Ahhh! Ahiiii![r]
-Ahhh!"[pcms]
+[ns]瑞樹[nse]
+「どろ……どろぉ、アソコ、熱くて、溶け……るぅうっ！[r]
+　ああいっいいいっ！　あひぃっあああんっああっあっ！[r]
+　も、もう……だめぇ……ええっあああんっああひいぃい！」[pcms]
 
 *8842|
 [fc]
 [vo_miz s="mizuki_TE0018"]
-[ns]Mizuki[nse]
-"Kousuke... I'm going to cum... ahhh! It's too much! I'm[r]
-cumming, fill me up inside..."[pcms]
+[ns]瑞樹[nse]
+「コ、コースケえ……も、あああっ……イっちゃ……うぅ[r]
+　あああっああっああくうっ、もう、ダメぇええっ！[r]
+　イっちゃ、イっちゃうよぉ。中にいっぱい……いっぱっ」[pcms]
 
 *8843|
 [fc]
 [vo_miz s="mizuki_TE0019"]
-[ns]Mizuki[nse]
-"Kousuke's sperm, I want it! Cumming... I'm cumming... give[r]
-me Kousuke's sperm!"[pcms]
+[ns]瑞樹[nse]
+「コースケの、精子、いああっああひぃいっ！　出してぇ。[r]
+　ああっいっイっちゃう、イくぅ、イくイくイくううっっ！[r]
+　ちょーだい、コースケの精子、ちょーだ、いいいいいっ！」[pcms]
 
 *8844|
 [fc]
-[ns]Kousuke[nse]
-"Cum Mizuki. I'm going to release it--!"[pcms]
+[ns]浩助[nse]
+「イけえ、瑞樹。出すぞ、出すぞ、出すぞーーっ！」[pcms]
 
 
 ;//〆HEV039
@@ -1143,8 +1122,10 @@ me Kousuke's sperm!"[pcms]
 *8845|
 [fc]
 [vo_miz s="mizuki_TE0020"]
-[ns]Mizuki[nse]
-"Naaaaah!! Ahiiiiiiii!!! I'm cummingggg!! Nhiahhh!!"[pcms]
+[ns]瑞樹[nse]
+「んああああっ！！　ああひいぃぃいいいいいい！！！[r]
+　イくううううううっイっちゃうううううぅぅうううう！！[r]
+　んひあああっあああっああああっ！！」[pcms]
 
 
 ;//#_フェイドアウト
@@ -1156,108 +1137,105 @@ me Kousuke's sperm!"[pcms]
 
 *8846|
 [fc]
-We were summoned by Maruko-senpai. Everyone gathered on the[r]
-designated first floor for some matter.[pcms]
+マル子先輩から招集がかかった。何ごとかと全員指定された[r]
+１階に集まった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a24"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8847|
 [fc]
 [vo_mar s="maru_TE0074"]
-[ns]Margarita[nse]
-"Ah, well, you know... I've finally managed to make coffee[r]
-that I'm satisfied with. So... I thought maybe everyone[r]
-would like to try it..."[pcms]
+[ns]マルガリータ[nse]
+「あ、その、なんだ……ようやく、自分でも納得ができる[r]
+　程度にコーヒーを淹れられるようになったんだ。[r]
+　それで……その、みんなに飲んでもらおうかと……」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c6"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *8848|
 [fc]
-[ns]Kousuke[nse]
-"Huh? I wondered what was going on, Maruko-senpai."[pcms]
+[ns]浩助[nse]
+「はあ？　何ごとかと思いましたよ、マル子先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a25"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8849|
 [fc]
 [vo_mar s="maru_TE0075"]
-[ns]Margarita[nse]
-"Sorry. That... I can't cook so... at least I wanted to be[r]
-able to make coffee..."[pcms]
+[ns]マルガリータ[nse]
+「す、すまん。その……ワタシは料理ができないから……[r]
+　その、せめて、コーヒーぐらいと……」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *8850|
 [fc]
 [vo_ren s="ren_TE0020"]
-[ns]Ren[nse]
-"Geez, Co-chan... Senpai, I'd like some please. Make me a[r]
-cup."[pcms]
+[ns]漣[nse]
+「もう、コーちゃんったら……。[r]
+　先輩、私いただきたいです。淹れてください」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8851|
 [fc]
 [vo_mar s="maru_TE0076"]
-[ns]Margarita[nse]
-"Eh? Oh, yeah. It's already prepared."[pcms]
+[ns]マルガリータ[nse]
+「え、あ、うん。もう用意できてる」[pcms]
 
 *8852|
 [fc]
-Maruko-senpai looked endearingly cute. With Yuuho and Ren's[r]
-help, she placed steaming coffee in front of everyone and[r]
-then stood by watching everyone's reactions.[pcms]
+マル子先輩が可愛らしく見えた。悠帆と漣の手を借りて、[r]
+湯気が立ったコーヒーを、みんなの前に置いたあと、[r]
+マル子先輩は、様子を見るように立ったままだった。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_h12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8853|
 [fc]
 [vo_yuh s="yuho_TE0028"]
-[ns]Yuuho[nse]
-"Ah, delicious~! Senpai, this is really good."[pcms]
+[ns]悠帆[nse]
+「あっ、美味しい～！　先輩、すっごく美味しいです」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *8854|
 [fc]
 [vo_ren s="ren_TE0021"]
-[ns]Ren[nse]
-"Yeah. It's very tasty."[pcms]
+[ns]漣[nse]
+「うん。とっても美味しい」[pcms]
 
 *8855|
 [fc]
-[ns]Wataru[nse]
-"Maruko-senpai, this is pretty good stuff. Delicious."[pcms]
+[ns]航[nse]
+「マル子先輩、なかなかいけてます。美味いですよ」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *8856|
 [fc]
-[ns]Kousuke[nse]
-"Oh, this is... like a professional taste, Maruko-senpai."[pcms]
+[ns]浩助[nse]
+「お、これは……プロの味ですね、マル子先輩」[pcms]
 
 [ChrSetEx layer=5 chbase="mizu_b8"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *8857|
 [fc]
 [vo_miz s="mizuki_TE0021"]
-[ns]Mizuki[nse]
-"Nffuuu. Smells good. It's been a while since I had such[r]
-delicious coffee."[pcms]
+[ns]瑞樹[nse]
+「んっふうぅ。いい香りぃ。久し振りに美味しいコーヒーぃ」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8858|
 [fc]
-[ns]Jin[nse]
-"Yeah. The balance between acidity and bitterness is good.[r]
-The aroma is nice too."[pcms]
+[ns]壬[nse]
+「うん。酸味と苦味のバランスがいいな。香りもいい」[pcms]
 
 *8859|
 [fc]
-As everyone voiced their enjoyment of how delicious it was,[r]
-Maruko-senpai showed an indescribably happy and radiant[r]
-smile.[pcms]
+みんなが口々に美味しいと感想を言うとマル子先輩は、[r]
+なんとも言えない嬉しそうな華やかな笑顔をみせた。[pcms]
 
 ;//[ChrSetEx layer=5 chbase="maru_d1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -1265,25 +1243,25 @@ smile.[pcms]
 *8860|
 [fc]
 [vo_mar s="maru_TE0077"]
-[ns]Margarita[nse]
-"Really? No need for flattery."[pcms]
+[ns]マルガリータ[nse]
+「本当か？　その、お世辞はいらないぞ」[pcms]
 
 [ChrSetEx layer=5 chbase="ren_a8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
 
 *8861|
 [fc]
 [vo_ren s="ren_TE0022"]
-[ns]Ren[nse]
-"It really is delicious, senpai. Can I ask you to make[r]
-coffee whenever I feel like drinking some from now on?"[pcms]
+[ns]漣[nse]
+「本当に美味しいですよ、先輩。これからコーヒー飲みたく[r]
+　なったら、先輩にお願いしてもいいですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a21"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8862|
 [fc]
 [vo_mar s="maru_TE0078"]
-[ns]Margarita[nse]
-"Yeah, of course. So it's good? Thank goodness..."[pcms]
+[ns]マルガリータ[nse]
+「うん、もちろんだ。そうか、美味しいか。良かった……」[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1298,11 +1276,9 @@ coffee whenever I feel like drinking some from now on?"[pcms]
 
 *8863|
 [fc]
-The dome was empty with no one around. Black shadows ran[r]
-across the ceiling where daylight still lingered. The[r]
-flapping of wings and screeching cries could be heard.[r]
-Although their figures were not visible, only their black[r]
-shadows eerily crossed over.[pcms]
+誰もいないドーム。まだ日が残っているその天井に黒い影が[r]
+走る。バサバサという羽音。ギャアギャアと聞こえる鳴き声。[r]
+その姿は見えないが、黒い影だけが不気味に横切っていった。[pcms]
 
 ;//SE停止(2秒でF.O.)
 [stopse buf=0]
@@ -1328,24 +1304,23 @@ shadows eerily crossed over.[pcms]
 *8864|
 [fc]
 [vo_mar s="maru_TE0079"]
-[ns]Margarita[nse]
-"Haaah! Yaaah! Sei!"[pcms]
+[ns]マルガリータ[nse]
+「ハぁあっ！　ィヤああっ！　セえイっっ！」[pcms]
 ;//♂_声のみ
 
 *8865|
 [fc]
-I had become accustomed to waking up early. On the 7th[r]
-floor, I listened to Maruko-senpai's practice voice while[r]
-zoning out. That too was becoming a part of my morning[r]
-routine.[pcms]
+早く目が覚めるのが習慣になってしまっていた。[r]
+７階でぼんやりしながら、マル子先輩の練習の声を聴く。[r]
+それも、ボクの朝の習慣になりつつあった。[pcms]
 
 ;//★_LESER　７階
 
 *8866|
 [fc]
-Rice with miso soup. Nori, pickles, and potato salad. It[r]
-seems we've run out of eggs, but there's still plenty of[r]
-rice left. That's what Ren was saying.[pcms]
+ご飯に味噌汁。海苔に浅漬けにポテトサラダ。卵はもう[r]
+なくなったらしいが、お米だけはまだまだある。[r]
+そんなことを漣が言っていた。[pcms]
 
 ;//★_LESER　５階
 [bg storage="BG020a"][trans_c cross time=500]
@@ -1353,30 +1328,27 @@ rice left. That's what Ren was saying.[pcms]
 
 *8867|
 [fc]
-There were no new comments on the community site. No new[r]
-topics either. I tried refreshing the page several times[r]
-after adding a comment, but there was no reply from[r]
-"Pikarin."[pcms]
+コミュに新しいコメントは増えていなかった。[r]
+新しいトピも立っていない。コメを書き足してＦ５キーを[r]
+数回押してみたけれど『ぴかりん』からの返事はなかった。[pcms]
 
 *8868|
 [fc]
-When I checked the video site, there were some new uploads.[r]
-Clicking to watch them, half of the new videos were[r]
-desperate pleas for rescue and requests for medicine and[r]
-food.[pcms]
+動画サイトに行ってみると、いくつか新着があった。[r]
+クリックして見てみると、新着の半分は救出要請と[r]
+医薬品・食料を求める切実な姿が映し出された。[pcms]
 
 *8869|
 [fc]
-The other half were... videos that seemed almost like last[r]
-wills. Proofs of survival, or messages filled with a sense[r]
-of urgency to family, lovers, and acquaintances they hadn't[r]
-been able to meet.[pcms]
+残りの半分は……まるで遺言めいた動画ばかり。[r]
+自分の生存証明だったり、逢えていない家族、恋人、知人に[r]
+向けた悲壮感すらただような趣旨のものばかりだった。[pcms]
 
 *8870|
 [fc]
-I thought again that this place where we are is still better[r]
-off. I went back to the SNS, but still, there was no reply[r]
-from "Pikarin." I hope they're safe.[pcms]
+ボクたちがいるこの場所は、まだマシな方なんだと改めて思った。[r]
+ＳＮＳに戻ってみたけれど、やっぱり『ぴかりん』からの[r]
+返事は付いていなかった。無事だといいんだけど。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1389,51 +1361,47 @@ from "Pikarin." I hope they're safe.[pcms]
 *8871|
 [fc]
 [vo_mar s="maru_TE0086"]
-[ns]Margarita[nse]
-"Some bad news has come in. It seems that an infected person[r]
-has appeared at the Mishuku garrison. Fortunately, they were[r]
-able to respond quickly, and it doesn't seem like the[r]
-infection has spread."[pcms]
+[ns]マルガリータ[nse]
+「よくないニュースが入った。三宿駐屯地で感染者が出た[r]
+　らしい。ただ、幸いにも迅速に対応できて、感染者が[r]
+　増えるようなことはなかったようだ」[pcms]
 
 *8872|
 [fc]
-[ns]Wataru[nse]
-"Is Sesuka-san okay?"[pcms]
+[ns]航[nse]
+「セスカさんは、大丈夫だったんですか？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8873|
 [fc]
 [vo_mar s="maru_TE0087"]
-[ns]Margarita[nse]
-"Ah, thank you for your concern, Ayase. Sesuka is safe.[r]
-That's why I can talk to everyone like this."[pcms]
+[ns]マルガリータ[nse]
+「ああ、心配してくれてありがとう、アヤセ。セスカは[r]
+　無事だ。だから、こうしてみんなに話す事ができている」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a12"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8874|
 [fc]
 [vo_mar s="maru_TE0088"]
-[ns]Margarita[nse]
-"However, those who have been demanding arms for some time[r]
-have become more active, and some military personnel have[r]
-also responded, causing quite a stir. They say it's been[r]
-suppressed though..."[pcms]
+[ns]マルガリータ[nse]
+「だが、以前から武装を要求していた輩の動きが激しくなって[r]
+　軍部の隊員も一部が呼応したりして、相当もめたらしい。[r]
+　制圧はできたそうだがな……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8875|
 [fc]
-[ns]Jin[nse]
-"...Hmph. When there are many people, various things[r]
-happen..."[pcms]
+[ns]壬[nse]
+「……ふん。ひとが多いと色々あるもんだろうよ……」[pcms]
 
 *8876|
 [fc]
-Maruko-senpai had a somber expression. Yuuho and Ren also[r]
-looked anxious. Mizuki clung to Kousuke as if seeking[r]
-comfort, while Jin-san alone seemed to keep his composure[r]
-with a calm face.[pcms]
+沈痛な面もちのマル子先輩。悠帆も漣も不安そうだった。[r]
+瑞樹はコースケにすがりつくように寄り添って、壬さんひとりが[r]
+腹を据えているように冷静な顔つきだった。[pcms]
 
 
 ;システムボタン＆ウィンドウ消去
@@ -1459,16 +1427,15 @@ with a calm face.[pcms]
 *8877|
 [fc]
 [vo_mar s="maru_TE0089"]
-[ns]Margarita[nse]
-"Haaah! Yaaah! Sei!"[pcms]
+[ns]マルガリータ[nse]
+「ハぁあっ！　ィヤああっ！　セえイっっ！」[pcms]
 ;//♂_声のみ
 
 *8878|
 [fc]
-Days passed slowly. Maruko-senpai's morning practice[r]
-continued, and my early rising had become a daily routine.[r]
-After breakfast, everyone seemed to scatter around the[r]
-mansion as if to kill time.[pcms]
+ゆるゆると日が過ぎていく。マル子先輩の朝練は続いていて[r]
+ボクの早起きも日課になっていた。朝食を終えると、それぞれ[r]
+時間を潰すかのように館内をあちこちに散らばる。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1478,24 +1445,22 @@ mansion as if to kill time.[pcms]
 
 *8879|
 [fc]
-I had made it a routine to sit in front of the PC, but[r]
-updates on the community site had stopped, and there were no[r]
-new comments from "Pikarin." There were no new posts on[r]
-video sites or bulletin boards either.[pcms]
+ボクはＰＣの前に陣取るのが日課になっていたけれど、[r]
+コミュの更新は途絶え、『ぴかりん』の新しいコメもない。[r]
+動画サイトも掲示板も新着はなかった。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8880|
 [fc]
 [vo_mar s="maru_TE0090"]
-[ns]Margarita[nse]
-"Everyone, gather on the 7th floor. There's a new broadcast[r]
-being aired."[pcms]
+[ns]マルガリータ[nse]
+「みんな、７階に集まってくれ。新しいニュースが放送[r]
+　されてる」[pcms]
 
 *8881|
 [fc]
-I hurriedly moved to the 7th floor, along with everyone else[r]
-who was bustling about.[pcms]
+ボクは慌てて、みんなもバタバタと、７階へと移動した。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1505,184 +1470,171 @@ who was bustling about.[pcms]
 
 *8882|
 [fc]
-[ns]Announcer[nse]
-"Citizens of the nation, there has been an important[r]
-announcement from the government. In three days from today,[r]
-under the leadership of the United States government, a[r]
-sweeping operation will be carried out. It will be an attack[r]
-using gas."[pcms]
+[ns]アナウンサー[nse]
+「国民のみなさん、政府からの重大な発表がありました。[r]
+　今日から３日後、合衆国政府主導のもと、掃討作戦が[r]
+　展開されます。ガスによる一斉攻撃です」[pcms]
 
 *8883|
 [fc]
-[ns]Announcer[nse]
-"Please evacuate to an airtight location as much as possible[r]
-within three days. If evacuation is difficult, seal up your[r]
-current location with tape or other means to make it as[r]
-airtight as possible."[pcms]
+[ns]アナウンサー[nse]
+「３日後までに、可能な限り気密な場所に避難してください。[r]
+　避難が難しい場合は、現在いる場所に目張りなどを施し、[r]
+　可能な限り、気密状態になるように準備してください」[pcms]
 
 *8884|
 [fc]
-[ns]Announcer[nse]
-"The exact start time of the operation has not been decided[r]
-yet, only that it will be in three days. We will inform you[r]
-as soon as a decision is made. We will keep you updated..."[pcms]
+[ns]アナウンサー[nse]
+「現在作戦の決行が３日後というだけで、開始時間は、決定[r]
+　されておりません。決定が出次第、お知らせいたします。[r]
+　繰り返しお伝えします……」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8885|
 [fc]
-[ns]Jin[nse]
-"Hmph... They've finally decided to take action..."[pcms]
+[ns]壬[nse]
+「ふん……ようやく重い腰を上げたってぇわけだ……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8886|
 [fc]
 [vo_mar s="maru_TE0091"]
-[ns]Margarita[nse]
-"...I want more detailed information. Can someone lend me a[r]
-mobile phone? I'll try to contact Sesuka directly."[pcms]
+[ns]マルガリータ[nse]
+「……もっと、詳しい情報が欲しいな。誰か携帯を貸して[r]
+　くれないか。セスカと直接連絡を取ってみる」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8887|
 [fc]
-Maruko-senpai, who had been talking quietly on her mobile[r]
-phone, pressed the speaker button and placed it in the[r]
-center of the table where everyone was gathered.[pcms]
+ぼそぼそと携帯で話していたマル子先輩は、スピーカーの[r]
+ボタンを押し、集まっているみんなのテーブルの中央に[r]
+置いた。[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8888|
 [fc]
 [vo_mar s="maru_TE0092"]
-[ns]Margarita[nse]
-"Sesuka, everyone is gathered here. Speak so that everyone[r]
-can understand."[pcms]
+[ns]マルガリータ[nse]
+「セスカ、みんな集まっている。みんなにわかるように話せ」[pcms]
 
 *8889|
 [fc]
 [vo_mob s="sesuka_TE0001"]
-[ns]Sesuka[nse]
-"Yes, my lady. As you may have heard on TV, in three days at[r]
-dawn, a sweeping operation using gas will be carried out.[r]
-The Japanese government has been unable to contain the[r]
-situation and has entrusted it to the United Nations."[pcms]
+[ns]セスカ[nse]
+「はい、お嬢様。ＴＶなどでお聞き及びかと思いますが、[r]
+　３日後、夜明けと供に、ガスによる掃討作戦が展開します。[r]
+　日本政府は事態の収拾を付けられず国連に委託しました」[pcms]
 
 *8890|
 [fc]
 [vo_mob s="sesuka_TE0002"]
-[ns]Sesuka[nse]
-"Initially, the UN was negative about using wide-area[r]
-offensive weapons, but neighboring countries concerned about[r]
-a pandemic due to the international scale of infection[r]
-spread put pressure on Japan."[pcms]
+[ns]セスカ[nse]
+「国連側は、当初広域攻撃兵器使用に対して否定的な態度を[r]
+　示したのですが、感染拡大、それも国際規模での感染爆発、[r]
+　パンデミックを懸念した日本の近隣諸国が圧力をかけました」[pcms]
 
 *8891|
 [fc]
 [vo_mob s="sesuka_TE0003"]
-[ns]Sesuka[nse]
-"There are concerns that birds or other vectors could spread[r]
-the virus further or that it could mutate again, so the UN[r]
-agreed and decided to carry out this sweeping operation."[pcms]
+[ns]セスカ[nse]
+「鳥などの媒介やこの先ウイルスが更なる変異を遂げないとも[r]
+　限らないとの事で、国連も了承し、今回の[r]
+　掃討作戦の決行となった次第です」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8892|
 [fc]
 [vo_mar s="maru_TE0093"]
-[ns]Margarita[nse]
-"I heard that the United States is leading this operation?"[pcms]
+[ns]マルガリータ[nse]
+「合衆国が主導するという話だが？」[pcms]
 
 *8893|
 [fc]
 [vo_mob s="sesuka_TE0004"]
-[ns]Sesuka[nse]
-"Yes. They were originally the country that produced the[r]
-virus. Also, they are currently the only ones prepared to[r]
-carry out an operation in such a short period. Japan and[r]
-other neighboring countries have no objections."[pcms]
+[ns]セスカ[nse]
+「はい。元々はウイルスを生産した国ですから。それに、現在[r]
+　短期間で作戦を決行できる準備が整うのは合衆国だという[r]
+　判断からです。日本を始め近隣諸国も異論はないようです」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8894|
 [fc]
-[ns]Jin[nse]
-"It took quite some time for them to decide..."[pcms]
+[ns]壬[nse]
+「ずいぶんと、決まるまでに時間がかかったもんだな」[pcms]
 
 *8895|
 [fc]
 [vo_mob s="sesuka_TE0005"]
-[ns]Sesuka[nse]
-"That may be true. But there are many small isolated[r]
-shelters scattered around. Even large shelters are in a[r]
-difficult situation for evacuation. Considering the current[r]
-situation, an attack on urban areas would cause tremendous[r]
-damage."[pcms]
+[ns]セスカ[nse]
+「そうかも知れません。でも、小さな孤立した避難所が各地に[r]
+　点在してます。大きな避難所でも脱出はかなり難しい状態で[r]
+　現状を考えると都市部への攻撃をすれば被害は甚大になると」[pcms]
 
 *8896|
 [fc]
 [vo_mob s="sesuka_TE0006"]
-[ns]Sesuka[nse]
-"According to information we've obtained, it seems that the[r]
-Japanese government also had concerns about this point and[r]
-took quite some time to reach a conclusion."[pcms]
+[ns]セスカ[nse]
+「我々が入手した情報ですと、日本政府でもその点を憂慮して、[r]
+　結論を出すまでにかなりの時間を要したようです」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8897|
 [fc]
 [vo_mar s="maru_TE0094"]
-[ns]Margarita[nse]
-"Well, that's probably it... Sesuka, what kind of response[r]
-is being planned at your garrison in Mishuku?"[pcms]
+[ns]マルガリータ[nse]
+「まあ、そんなところだろうな……セスカ、お前のいる三宿の[r]
+　駐屯地ではどんな対応を取る手はずになってる？」[pcms]
 
 *8898|
 [fc]
 [vo_mob s="sesuka_TE0007"]
-[ns]Sesuka[nse]
-"Yes. Here we plan to divide into two groups: one that will[r]
-attempt escape using available vehicles and another that[r]
-will stay at the facility and prepare for the gas attack."[pcms]
+[ns]セスカ[nse]
+「はい。こちらでは現在確保されている車輌で脱出を計る組と[r]
+　施設に残ってガスの攻撃に備える組とに別れる事になります」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8899|
 [fc]
 [vo_mar s="maru_TE0095"]
-[ns]Margarita[nse]
-"By vehicle? Aren't they using air transport?"[pcms]
+[ns]マルガリータ[nse]
+「車輌で？　空を使うのではないのか？」[pcms]
 
 *8900|
 [fc]
 [vo_mob s="sesuka_TE0008"]
-[ns]Sesuka[nse]
-"Yes. That was considered too, but arrangements couldn't be[r]
-made, and in recent days... there have been attacks by crows[r]
-causing several aircraft to crash. There aren't enough large[r]
-aircraft capable of transporting many people."[pcms]
+[ns]セスカ[nse]
+「はい。それも考えられましたが、手配がつかないのと、ここ[r]
+　数日で……カラスの襲撃にあって何機か落ちていて、大型の[r]
+　大人数を運べる航空機は数が足りないんです」[pcms]
 
 *8901|
 [fc]
-[ns]Wataru[nse]
-"...! Crows?"[pcms]
+[ns]航[nse]
+「……！　カラスが？」[pcms]
 
 *8902|
 [fc]
 [vo_mob s="sesuka_TE0009"]
-[ns]Sesuka[nse]
-"Yes. It's inexplicable behavior. They swarm and dive[r]
-straight for the engines. It's like suicide bombing...[r]
-Mainly aircraft have been affected..."[pcms]
+[ns]セスカ[nse]
+「ええ。おかしくなっているとしか言えません。群れで、[r]
+　エンジンめがけて突っ込んでくるんです。まるで自爆テロの[r]
+　ようだと……。主に被害に遭っているのは航空機だけで……」[pcms]
 
 *8903|
 [fc]
 [vo_mob s="sesuka_TE0010"]
-[ns]Sesuka[nse]
-"Helicopters seem to suffer less damage. There might be[r]
-something about the engine noise that affects them, but even[r]
-so, we don't have enough helicopters available to transport[r]
-large numbers of people."[pcms]
+[ns]セスカ[nse]
+「ヘリは被害が少ないようです。エンジンのモーター音、[r]
+　何かそこらへんに理由があるのではないかとの話ですが、[r]
+　しかし現状の使えるヘリでは大人数は移送できません」[pcms]
 ;//♂_航たち脱出のための布石とします
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
@@ -1690,44 +1642,43 @@ large numbers of people."[pcms]
 *8904|
 [fc]
 [vo_mar s="maru_TE0096"]
-[ns]Margarita[nse]
-"I see... Are ground routes secured?"[pcms]
+[ns]マルガリータ[nse]
+「そうか……地上のルートは確保できているのか？」[pcms]
 
 *8905|
 [fc]
 [vo_mob s="sesuka_TE0011"]
-[ns]Sesuka[nse]
-"We've done aerial surveys and have some confirmation; plans[r]
-have been made accordingly. If insurmountable obstacles[r]
-arise, we'll proceed by eliminating them on-site with[r]
-accompanying troops."[pcms]
+[ns]セスカ[nse]
+「空撮をしてある程度は確認をし、プランは練られてます。[r]
+　回避不能な障害が出た場合は、その場で同行する隊員を[r]
+　中心に排除しながら進むという手はずにはなってます」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a2"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8906|
 [fc]
 [vo_mar s="maru_TE0097"]
-[ns]Margarita[nse]
-"...It's risky, but it can't be helped... Sesuka, sorry for[r]
-calling late at night. Thank you. Sesuka, do what you can do[r]
-there."[pcms]
+[ns]マルガリータ[nse]
+「……危険性は高いが、仕方がないか……。[r]
+　セスカ、夜遅くに済まなかった。ありがとう。[r]
+　セスカはそこでセスカのできる事をしてくれ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8907|
 [fc]
 [vo_mar s="maru_TE0098"]
-[ns]Margarita[nse]
-"Don't worry about me for now; I think we've managed to[r]
-secure temporary safety. If any new information comes in,[r]
-contact me immediately."[pcms]
+[ns]マルガリータ[nse]
+「ワタシのことは当面心配しなくてよい。取り敢えずの[r]
+　安全は確保できていると思う。[r]
+　何か、新しい情報が入ったらすぐに連絡をしてくれ」[pcms]
 
 *8908|
 [fc]
 [vo_mob s="sesuka_TE0012"]
-[ns]Sesuka[nse]
-"Understood, my lady. Please be careful and take[r]
-precautions. Everyone, please take good care of my lady."[pcms]
+[ns]セスカ[nse]
+「わかりました、お嬢様。くれぐれも慎重に、気を付けて[r]
+　ください。みなさま、お嬢様をよろしくお願いいたします」[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1751,15 +1702,14 @@ precautions. Everyone, please take good care of my lady."[pcms]
 *8909|
 [fc]
 [vo_mar s="maru_TE0099"]
-[ns]Margarita[nse]
-"Haaah! Yaaah! Sei!"[pcms]
+[ns]マルガリータ[nse]
+「ハぁあっ！　ィヤああっ！　セえイっっ！」[pcms]
 ;//♂_声のみ。
 
 *8910|
 [fc]
-With three days left until the gas attack including today,[r]
-Maruko-senpai seems to be practicing on the rooftop as[r]
-usual.[pcms]
+ガス攻撃まで今日をいれて３日。マル子先輩は、今までと[r]
+変わりなく、屋上で朝練にいそしんでいるようだ。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1773,54 +1723,50 @@ usual.[pcms]
 *8911|
 [fc]
 [vo_mar s="maru_TE0100"]
-[ns]Margarita[nse]
-"We don't know what kind of gas will be used, but we want to[r]
-barricade ourselves on the upper floors as much as[r]
-possible."[pcms]
+[ns]マルガリータ[nse]
+「何のガスが使われるかわからないが、なるべく上の階に[r]
+　立てこもるようにしたい」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h4"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8912|
 [fc]
-[ns]Jin[nse]
-"That's right..."[pcms]
+[ns]壬[nse]
+「そうだな……」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a8"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8913|
 [fc]
 [vo_mar s="maru_TE0101"]
-[ns]Margarita[nse]
-"Today let's all focus on securing airtightness around the[r]
-7th floor. We'll divide up and seal everything as much as[r]
-possible."[pcms]
+[ns]マルガリータ[nse]
+「今日は全員で７階を中心に、気密の確保に努めよう。[r]
+　手分けして可能な限り目張りを施すんだ」[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8914|
 [fc]
-We gathered duct tape and vinyl from various floors and[r]
-spent the day sealing up as best we could.[pcms]
+あちこちの階からガムテープやビニール、使えそうな類を[r]
+掻き集めボクたちはその日一日、手分けして目張りの作業に[r]
+励んだ。[pcms]
 
 *8915|
 [fc]
-Since there are still days left, we decided to seal the[r]
-doors to the lower floors and the route to the rooftop at[r]
-the last minute, and for other places, we went around[r]
-filling in the gaps as much as possible, double and triple[r]
-layering where we could.[pcms]
+まだ日があるからと、階下への扉、屋上へのルートは直前に[r]
+塞ぐ事にして、他の場所は二重三重に可能な限り、隙間を[r]
+埋めて回った。[pcms]
 
 *8916|
 [fc]
-While we were all applying sealant on the 7th floor, a[r]
-shadow darted across the dome.[pcms]
+全員で７階で目張りを施していると、ドームに影が走った。[pcms]
 
 [evcg storage="EV500c"][trans_c cross time=300]
 
 *8917|
 [fc]
-The sound of cawing. A large black mass of shadows covered[r]
-it. It was a flock of infected crows.[pcms]
+ギャアギャアという鳴き声。大きな黒い固まりの影が覆う。[r]
+感染したカラスの群れだ。[pcms]
 
 [bg storage="BG019a"][trans_c cross time=500]
 ;[eval exp="f.l_map = 24"]
@@ -1829,17 +1775,15 @@ it. It was a flock of infected crows.[pcms]
 
 *8918|
 [fc]
-Everyone, except Jin-san, who seemed to remember last[r]
-night's conversation, looked anxious as they watched the[r]
-shadow. Although it didn't break through the dome, the[r]
-shadow visited three times.[pcms]
+ボクも含めて夕べの話を思い出したんだろう。不安そうな顔を[r]
+して、壬さんを除く誰もがその影を見つめていた。[r]
+ドームを突き破ってくる事はなかったが、３度も影が訪れた。[pcms]
 
 *8919|
 [fc]
-For lunch, Ren and Yuuho had prepared onigiri. Everyone ate[r]
-as they pleased, and by the time Maruko-senpai and Jin-san[r]
-had finished checking and gave the OK, it was already time[r]
-for dinner.[pcms]
+昼食は漣と悠帆がおにぎりを用意してくれていた。[r]
+各自で適当に食べ、最終的にマル子先輩と壬さんが見て回り、[r]
+ＯＫが出されたときには、すでに夕食の時間だった。[pcms]
 
 ;mm カラス止め
 [stopse buf=0]
@@ -1849,9 +1793,9 @@ for dinner.[pcms]
 
 *8920|
 [fc]
-We had a few side dishes with rice and miso soup for dinner.[r]
-By the time we finished eating, everyone was exhausted and[r]
-quickly retreated to their rooms.[pcms]
+いくつかのおかずとご飯、味噌汁で夕食とした。[r]
+食べ終えた頃にはくたくたになっていて、誰もが早々に[r]
+部屋へと引き上げていった。[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1874,16 +1818,15 @@ quickly retreated to their rooms.[pcms]
 *8921|
 [fc]
 [vo_mar s="maru_TE0102"]
-[ns]Margarita[nse]
-"Haaah! Yaaah! Sei!"[pcms]
+[ns]マルガリータ[nse]
+「ハぁあっ！　ィヤああっ！　セえイっっ！」[pcms]
 ;//♂_声のみ。
 
 *8922|
 [fc]
-Maruko-senpai is energetic as usual today. Including today,[r]
-there are two days left until the gas attack. I slept like a[r]
-log last night, but strangely, I woke up at my usual early[r]
-time.[pcms]
+マル子先輩は今日も元気だ。ガス攻撃まで今日をいれて[r]
+あと２日。昨日は泥のように眠り込んだけれど、不思議と[r]
+いつもの早い時間にボクは目が覚めていた。[pcms]
 
 ;//★_屋上
 [bg storage="BG200a"][trans_c cross time=500]
@@ -1891,37 +1834,36 @@ time.[pcms]
 
 *8923|
 [fc]
-Kousuke came over to me and sat down right next to me. When[r]
-I asked about Mizuki, it seems she's with Jin-san. They're[r]
-watching that series together now, but dubbed this time.[pcms]
+コースケがボクのところへやってきてすぐ隣りに[r]
+座り込んだ。瑞樹はと訪ねると、壬さんと一緒らしい。[r]
+あのシリーズを今度は吹き替えで一緒に見ているそうだ。[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c1"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *8924|
 [fc]
-[ns]Kousuke[nse]
-"She was totally engrossed in it with Mizuki, saying 'The[r]
-dubbed version is more intense...'"[pcms]
+[ns]浩助[nse]
+「『吹き替えの方が熱いな……』とか言いながら、瑞樹と[r]
+　一緒に見入ってたよ……。」[pcms]
 
 [ChrSetEx layer=5 chbase="kou_c3"][ChrSetXY layer=5 x=161 y=0][trans_c cross time=150]
 
 *8925|
 [fc]
-[ns]Kousuke[nse]
-"...And in two days, huh. At first, I was jealous of how[r]
-clingy Mizuki was, but now I'm glad Jin-san was with us.[r]
-...It seems he's been considerate of Mizuki in many ways."[pcms]
+[ns]浩助[nse]
+「……あと、２日か。オレさ、最初は瑞樹がべったりで[r]
+　嫉妬したけど、あのひとも一緒で良かったって今は思ってるよ。[r]
+　……瑞樹に色々気を遣ってくれたらしいんだ」[pcms]
 
 *8926|
 [fc]
-It sounded more like a murmur than talking to me. Two more[r]
-days. I thought we had done everything we could yesterday.[r]
-So let's enjoy the remaining two days. Let's enjoy them to[r]
-the fullest.[pcms]
+ボクに話しかけているというよりは、つぶやきのようだった。[r]
+あと２日。やれる事は昨日の内にやりきったつもりだ。[r]
+だから、残り２日は楽しもう。目一杯楽しもう。[pcms]
 
 *8927|
 [fc]
-I was thinking such things under the sunlight.[pcms]
+ボクはそんな事を日差しの下、思っていた。[pcms]
 
 
 ;システムボタン＆ウィンドウ消去
@@ -1946,13 +1888,13 @@ I was thinking such things under the sunlight.[pcms]
 *8928|
 [fc]
 [vo_mar s="maru_TE0105"]
-[ns]Margarita[nse]
-"Haaah! Yaaah! Sei!"[pcms]
+[ns]マルガリータ[nse]
+「ハぁあっ！　ィヤああっ！　セえイっっ！」[pcms]
 
 *8929|
 [fc]
-Maruko-senpai's familiar morning practice voice. Only one[r]
-day left until the gas attack.[pcms]
+マル子先輩のお馴染みの朝練の声。[r]
+ガス攻撃まで、今日一日残すのみとなった。[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1965,27 +1907,27 @@ day left until the gas attack.[pcms]
 
 *8930|
 [fc]
-[ns]Infected Man A[nse]
-"Uuuuuu... I'm so hungry... give me meat..."[pcms]
+[ns]感染者・男Ａ[nse]
+「ううううう……はらあへったあ……にくう……」[pcms]
 
 [ChrSetEx layer=5 chbase="etc_b"][ChrSetXY layer=5 x=178 y=0][trans_c cross time=150]
 
 *8931|
 [fc]
-[ns]Infected Man B[nse]
-"Uuuuuu... I'll eat you... give me meat..."[pcms]
+[ns]感染者・男Ｂ[nse]
+「ううううう……くってやる……にくうよこせえ……」[pcms]
 
 [ChrSetEx layer=5 chbase="tomomi_a5"][ChrSetXY layer=5 x=160 y=0][trans_c cross time=150]
 
 *8932|
 [fc]
 [vo_mob s="tomomi_TE0003"]
-[ns]Tomomi[nse]
-"...Uu-tan..."[pcms]
+[ns]朋美[nse]
+「……うーたん……」[pcms]
 
 *8933|
 [fc]
-That girl was once again staring intently at the rooftop.[pcms]
+あの少女がまた、じっと屋上を見上げていた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1997,58 +1939,59 @@ That girl was once again staring intently at the rooftop.[pcms]
 
 *8934|
 [fc]
-[ns]Jin[nse]
-"Got any new information? Here, drink this."[pcms]
+[ns]壬[nse]
+「何か、目新しい情報は入ったか？　ほら、飲めよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8935|
 [fc]
 [vo_mar s="maru_TE0106"]
-[ns]Margarita[nse]
-"Hm? Oh, thanks. Did you make this coffee, Jin?"[pcms]
+[ns]マルガリータ[nse]
+「ん？　ああ、ありがとう。ジンが淹れてきてくれたのか？[r]
+　このコーヒー」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8936|
 [fc]
-[ns]Jin[nse]
-"Yeah. So, how is it?"[pcms]
+[ns]壬[nse]
+「ああ。で、どうだ？」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a1"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8937|
 [fc]
 [vo_mar s="maru_TE0107"]
-[ns]Margarita[nse]
-"Sesuka volunteered to stay behind at the garrison. It's[r]
-also because it makes it easier to communicate with me. But[r]
-it seems like they're quite busy over there now."[pcms]
+[ns]マルガリータ[nse]
+「セスカは駐屯地の居残り組に志願したそうだ。[r]
+　その方がワタシとの連絡を取りやすいというのもあるからだ。[r]
+　だが、今は向こうもバタバタしているみたいだな」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h2"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8938|
 [fc]
-[ns]Jin[nse]
-"...I see. Well, if anything comes up, they'll let us know.[r]
-Just take it easy."[pcms]
+[ns]壬[nse]
+「……そうか。まあ、何かあったら向こうから[r]
+　言ってくるだろ。ほどほどにしておけや」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8939|
 [fc]
 [vo_mar s="maru_TE0108"]
-[ns]Margarita[nse]
-"...Yeah. Got it. I will. This coffee is good. ...Jin,[r]
-you're quite attentive."[pcms]
+[ns]マルガリータ[nse]
+「……ああ。わかった。そうする。コーヒー美味いな。[r]
+　……結構なんやかやと気の回る男だな、ジンは」[pcms]
 
 [ChrSetEx layer=5 chbase="jin_h1"][ChrSetXY layer=5 x=144 y=0][trans_c cross time=150]
 
 *8940|
 [fc]
-[ns]Jin[nse]
-"...Heh. I wouldn't have survived if I wasn't. ...See ya,[r]
-don't overdo it."[pcms]
+[ns]壬[nse]
+「……へっ。そうしなきゃ、生きてこれなかったのさ。[r]
+　……じゃあな、ほどほどにしとけよ」[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -2062,63 +2005,62 @@ don't overdo it."[pcms]
 *8941|
 [fc]
 [vo_mar s="maru_TE0109"]
-[ns]Margarita[nse]
-"Uh, uuuuuhn"[pcms]
+[ns]マルガリータ[nse]
+「う、ううーーん」[pcms]
 
 *8942|
 [fc]
-Raising both arms up high and stretching, Maruko-senpai came[r]
-up to the rooftop.[pcms]
+両腕を上に上げて、伸びをしながらマル子先輩が屋上に[r]
+やってきた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e5"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8943|
 [fc]
 [vo_yuh s="yuho_TE0039"]
-[ns]Yuuho[nse]
-"Ah, senpai. What were you doing? We were all playing[r]
-badminton just now."[pcms]
+[ns]悠帆[nse]
+「あ、先輩。何やってたんですか？　さっきまでみんなで[r]
+　バドミントンしてたんですよ」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8944|
 [fc]
 [vo_mar s="maru_TE0110"]
-[ns]Margarita[nse]
-"Ah, I was on the PC for a bit. Seems like I stiffened up[r]
-from staying in the same position too long, so I came up[r]
-here to stretch."[pcms]
+[ns]マルガリータ[nse]
+「ああ、ＰＣでちょっとね。同じ姿勢をしすぎたみたいで[r]
+　固まったから身体を伸ばしに来た」[pcms]
 
 *8945|
 [fc]
-After saying that, Maruko-senpai did a bit of stretching and[r]
-then suddenly dropped her hips and began throwing kicks and[r]
-punches.[pcms]
+そう言うとマル子先輩は、ちょっとストレッチしたあと腰を[r]
+落とし、いきなり蹴りや拳を繰り出し始めた。[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e4"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8946|
 [fc]
 [vo_yuh s="yuho_TE0040"]
-[ns]Yuuho[nse]
-"Wow... That's so cool. Senpai, please teach me too."[pcms]
+[ns]悠帆[nse]
+「うわっ……カッコイイ。[r]
+　先ぱーい、わたしにも教えてください」[pcms]
 
 [ChrSetEx layer=5 chbase="maru_a3"][ChrSetXY layer=5 x=147 y=0][trans_c cross time=150]
 
 *8947|
 [fc]
 [vo_mar s="maru_TE0111"]
-[ns]Margarita[nse]
-"Hm? Alright, I'll teach you the basics. Yuuho was good at[r]
-shooting too, so you'll pick it up quickly."[pcms]
+[ns]マルガリータ[nse]
+「うん？　よし、基本を教えてやろう。ユウホなら射撃でも[r]
+　勘所が良かったから、すぐに身につくだろう」[pcms]
 
 [ChrSetEx layer=5 chbase="yuho_e12"][ChrSetXY layer=5 x=164 y=0][trans_c cross time=150]
 
 *8948|
 [fc]
 [vo_yuh s="yuho_TE0041"]
-[ns]Yuuho[nse]
-"Yes! Senpai. No, sensei!"[pcms]
+[ns]悠帆[nse]
+「はいっ！　先輩。いえ、師匠！」[pcms]
 
 
 [ChrSetEx layer=5 chbase="ren_g8"][ChrSetXY layer=5 x=185 y=0][trans_c cross time=150]
@@ -2126,14 +2068,13 @@ shooting too, so you'll pick it up quickly."[pcms]
 *8949|
 [fc]
 [vo_ren s="ren_TE0035"]
-[ns]Ren[nse]
-"...Senpai is really cool."[pcms]
+[ns]漣[nse]
+「……先輩って、かっこいいよね」[pcms]
 
 *8950|
 [fc]
-While saying that, Ren stood next to me looking down at[r]
-Yuuho and the others from atop a signboard and began playing[r]
-her violin.[pcms]
+そう言いながら漣は、看板の上から悠帆たちを見下ろしている[r]
+ボクの横に立ちバイオリンを弾き始めた。[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -2146,20 +2087,20 @@ her violin.[pcms]
 
 *8951|
 [fc]
-To the elegant tune of Ren's violin as background music,[r]
-Yuuho and Maruko- senpai's bodies danced in a strange[r]
-harmony. It was already dusk.[pcms]
+漣のバイオリン。その優雅な曲調をＢＧＭに、妙な按配で[r]
+マッチして悠帆とマル子先輩の肢体が踊っていた。[r]
+もう夕暮れどきだ。[pcms]
 
 *8952|
 [fc]
-If we survive tomorrow morning, we will surely be saved.[r]
-We've done what we could do. Now all that's left is to leave[r]
-it up to fate.[pcms]
+明日の朝を生き延びれば、ボクたちはきっと助かる。[r]
+やることはやった。もうなるようにしかならない。[r]
+運を天に任せるしかない。[pcms]
 
 *8953|
 [fc]
-[ns]Wataru[nse]
-"..."[pcms]
+[ns]航[nse]
+「…………」[pcms]
 
 ;//#_フェイドアウト
 [black_toplayer][trans_c cross time=500][hide_chara_int]
@@ -2170,30 +2111,30 @@ it up to fate.[pcms]
 
 *8954|
 [fc]
-Suddenly looking down at the street, there was a horde of[r]
-infected people overflowing on Center Street.[pcms]
+ふと通りを見下ろすと、センターストリートに[r]
+あふれるほどの感染者の群れがいた。[pcms]
 
 *8955|
 [fc]
-[ns]Wataru[nse]
-"...When did... so many..."[pcms]
+[ns]航[nse]
+「……いつの間に……こんなに……」[pcms]
 
 *8956|
 [fc]
-I vaguely remembered hearing on the news that infected[r]
-people who had moved to the suburbs were coming back to the[r]
-city center because they couldn't find prey.[pcms]
+ニュースで聞いた記憶がおぼろげに蘇る。[r]
+郊外に移動していた感染者が[r]
+獲物が見つからなくなって都心に戻ってきていると……。[pcms]
 
 *8957|
 [fc]
-As I looked down at the horde of infected people filling the[r]
-street, the calm feeling I had earlier faded away.[pcms]
+通りを埋め尽くすほど押し寄せた感染者を見下ろしているうちに[r]
+さっきまで感じていた穏やかな気持ちが萎えていく。[pcms]
 
 *8958|
 [fc]
-I wonder if we'll be okay... Will all of us here survive[r]
-safely? The vague anxiety that I had always carried with me[r]
-was sprouting again.[pcms]
+大丈夫なんだろうか……。[r]
+ここにいる仲間全員、無事に生き延びられるだろうか。[r]
+ボクがずっと抱えていた漠然とした不安が再び芽生えていた。[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -2259,7 +2200,7 @@ was sprouting again.[pcms]
 ;	[zap_set1]
 ;	[zap_set2]
 ;
-[pcms]
+;	[s]
 ;	;------------------------------------------------
 ;	*aspect_SELモブ|ザッピング選択肢　その他
 ;
